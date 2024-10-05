@@ -665,6 +665,32 @@
     },
     {
       "album": {
+        "name": "Bandh Aankhein",
+        "url": "https://open.spotify.com/album/7eSDGsefiMfGzzaRbnZgJG"
+      },
+      "artists": [
+        {
+          "name": "Muhafiz",
+          "url": "https://open.spotify.com/artist/6pwzflaMKjxNpkXFtaYZo9"
+        },
+        {
+          "name": "Sarthak Kalyani",
+          "url": "https://open.spotify.com/artist/33ZaVn459vwF8UVDS6sWxh"
+        },
+        {
+          "name": "Siddharth Chopra",
+          "url": "https://open.spotify.com/artist/0HIZoRSgTwczAwI7zTp7fx"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "Bandh Aankhein",
+      "url": "https://open.spotify.com/track/5RDas0NITNlZ5auekdbHiP"
+    },
+    {
+      "album": {
         "name": "Elements",
         "url": "https://open.spotify.com/album/4PDXWMxlqPHO4Ox9KCvoJ8"
       },
@@ -2725,6 +2751,28 @@
     },
     {
       "album": {
+        "name": "Kaliyaan",
+        "url": "https://open.spotify.com/album/3fl0YteOBNVB020BXkgpS1"
+      },
+      "artists": [
+        {
+          "name": "Lost Stories",
+          "url": "https://open.spotify.com/artist/4RCALXqxv2udxtuLatKPSi"
+        },
+        {
+          "name": "Bawari Basanti",
+          "url": "https://open.spotify.com/artist/4SroVVRKitVKrlYdV5Ulf8"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159622,
+      "name": "Kaliyaan",
+      "url": "https://open.spotify.com/track/2imK2X4ah7bVms1TjSAB19"
+    },
+    {
+      "album": {
         "name": "Kanha Re",
         "url": "https://open.spotify.com/album/4OwpgHERocW4KSPZ1D1rqV"
       },
@@ -4716,7 +4764,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 303239,
       "name": "Piya Sawre",
       "url": "https://open.spotify.com/track/6NDzy3yUSghgEPm2fbPbkY"
@@ -5934,7 +5982,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 440999,
       "name": "Shafqat with Shafqat (Lakh Jatan / Khamaj)",
       "url": "https://open.spotify.com/track/4oFTEI6Dmnca8HbpwdXQCL"

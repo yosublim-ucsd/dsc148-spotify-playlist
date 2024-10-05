@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUKOGt2rVvOT.md) - [plain]
 
 > 這些歌還很紅也！已經有兩三年了？高人氣金曲讓你一路聽下去！Cover: 理想混蛋 \(Bestards\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,327 likes - 50 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,388 likes - 50 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

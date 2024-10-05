@@ -1,6 +1,6 @@
 {
   "description": "Groovy, dancy, funky stuff. When in doubt, turn this on at the party.\n",
-  "num_followers": 321952,
+  "num_followers": 321999,
   "original_name": "Soir\u00e9e",
   "owner": {
     "name": "Spotify",
@@ -739,6 +739,22 @@
     {
       "added_at": "2024-02-16 18:16:21",
       "album": {
+        "name": "Is It Magic?",
+        "url": "https://open.spotify.com/album/52tH77HLGn8Dq3zjXQn20e"
+      },
+      "artists": [
+        {
+          "name": "PawPaw Rod",
+          "url": "https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq"
+        }
+      ],
+      "duration_ms": 188727,
+      "name": "Is It Magic?",
+      "url": "https://open.spotify.com/track/4mRX0FjuzicwZWbkRAE0Ht"
+    },
+    {
+      "added_at": "2024-02-16 18:16:21",
+      "album": {
         "name": "Gypsy Woman",
         "url": "https://open.spotify.com/album/5VzSfeb30ZJPPlxaganX9u"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 200823,
       "name": "Gypsy Woman",
       "url": "https://open.spotify.com/track/5Xex2XN8l1dOLwaXwmdyHX"
-    },
-    {
-      "added_at": "2024-02-16 18:16:21",
-      "album": {
-        "name": "Is It Magic?",
-        "url": "https://open.spotify.com/album/52tH77HLGn8Dq3zjXQn20e"
-      },
-      "artists": [
-        {
-          "name": "PawPaw Rod",
-          "url": "https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq"
-        }
-      ],
-      "duration_ms": 188727,
-      "name": "Is It Magic?",
-      "url": "https://open.spotify.com/track/4mRX0FjuzicwZWbkRAE0Ht"
     },
     {
       "added_at": "2024-02-16 18:16:21",

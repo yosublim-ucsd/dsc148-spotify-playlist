@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Tune in here for new and current hits in Contemporary Christian music! Cover: <a href=\"spotify:artist:5FxshnB3eJ2YDn8xN8zDKq\">Hannah Kerr</a>",
+  "description": "Tune in here for new and current hits in Contemporary Christian music! Cover: <a href=\"spotify:artist:6e8OTLDQpaz1Tl2GEaxsNj\">Matthew West</a>",
   "name": "Top Christian Contemporary",
   "tracks": [
     {
@@ -939,6 +939,24 @@
     },
     {
       "album": {
+        "name": "The Heavy. The Healing. The Holding.",
+        "url": "https://open.spotify.com/album/7FTdPyA46usZd9MUzMWr8M"
+      },
+      "artists": [
+        {
+          "name": "Lydia Laird",
+          "url": "https://open.spotify.com/artist/6zuKZ8dwAsS828nS4xyZ9y"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210533,
+      "name": "choirs",
+      "url": "https://open.spotify.com/track/5RwHKaZRI1z78HEZSO6zZn"
+    },
+    {
+      "album": {
         "name": "Chosen",
         "url": "https://open.spotify.com/album/3lWcNC4oTe0Woq9gmvULjU"
       },
@@ -954,6 +972,24 @@
       "duration_ms": 204519,
       "name": "Chosen",
       "url": "https://open.spotify.com/track/6PXIdmabfZcpZ2Tc6PJaTB"
+    },
+    {
+      "album": {
+        "name": "This Is Holy",
+        "url": "https://open.spotify.com/album/2iK6XoSU5MjNisVgtJ5v11"
+      },
+      "artists": [
+        {
+          "name": "Mack Brock",
+          "url": "https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198691,
+      "name": "Christ Or Nothing",
+      "url": "https://open.spotify.com/track/7aM4mYaUCriKeMKSE0XhAO"
     },
     {
       "album": {
@@ -1048,7 +1084,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 222106,
       "name": "Come To Jesus",
       "url": "https://open.spotify.com/track/16aYn9DxGwZ4IAa8Hit2t5"
@@ -1572,6 +1608,24 @@
       "duration_ms": 173893,
       "name": "Family Is Family",
       "url": "https://open.spotify.com/track/1UhNGBOomQv1GCCMWl6NZt"
+    },
+    {
+      "album": {
+        "name": "Fear Has No Place",
+        "url": "https://open.spotify.com/album/7euDT3ieX9gq8cEOZjvZcw"
+      },
+      "artists": [
+        {
+          "name": "Micah Christopher",
+          "url": "https://open.spotify.com/artist/2gWY1lOSS4k3qW2AaBwHIi"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230443,
+      "name": "Fear Has No Place",
+      "url": "https://open.spotify.com/track/2KkMQcdYUweGWDAHikdmFu"
     },
     {
       "album": {
@@ -2138,6 +2192,24 @@
       "duration_ms": 279451,
       "name": "God Who Saves",
       "url": "https://open.spotify.com/track/0bbL9rzu1AkfchxvD3LsTP"
+    },
+    {
+      "album": {
+        "name": "Right on Time",
+        "url": "https://open.spotify.com/album/62JI9POOXnaZgV6YRb1rQt"
+      },
+      "artists": [
+        {
+          "name": "Iveth Luna",
+          "url": "https://open.spotify.com/artist/2fiP5LcBybuvRJlE9RW8zv"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230080,
+      "name": "God Who Sees You",
+      "url": "https://open.spotify.com/track/4Gc8femvrmGejFXsAKPERe"
     },
     {
       "album": {
@@ -2792,7 +2864,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 220826,
       "name": "He is",
       "url": "https://open.spotify.com/track/7LzaqmzuCALLAe3oUqJ4ns"
@@ -3176,6 +3248,24 @@
       "duration_ms": 254358,
       "name": "Holy Spirit Come",
       "url": "https://open.spotify.com/track/0fFPUhjQSy1TWgK7W09fmo"
+    },
+    {
+      "album": {
+        "name": "Holy Trouble + What I Was Made For",
+        "url": "https://open.spotify.com/album/26ESial2wdAJSrBqFLGeoY"
+      },
+      "artists": [
+        {
+          "name": "Rend Collective",
+          "url": "https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171086,
+      "name": "Holy Trouble",
+      "url": "https://open.spotify.com/track/4crXyrGXp9UJlTTSMH8nfN"
     },
     {
       "album": {
@@ -4136,7 +4226,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 435241,
       "name": "Joy (What The World Calls Foolish)",
       "url": "https://open.spotify.com/track/3pMfn1SOlLgdmZHcOqn8nf"
@@ -4292,7 +4382,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 191617,
       "name": "Last Page of The Bible (feat. Anne Wilson)",
       "url": "https://open.spotify.com/track/0GY7zDv4ny3kDY8mtbkNEM"
@@ -4364,7 +4454,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 252567,
       "name": "Let It Begin",
       "url": "https://open.spotify.com/track/5GRk64fuIMFDUY6MJ5HpeO"
@@ -5063,6 +5153,24 @@
     },
     {
       "album": {
+        "name": "My Hope Is Jesus",
+        "url": "https://open.spotify.com/album/0suKwr6W4OBe14hvXCTFpS"
+      },
+      "artists": [
+        {
+          "name": "Big Daddy Weave",
+          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242455,
+      "name": "My Hope Is Jesus",
+      "url": "https://open.spotify.com/track/3Wqc6im6bBdgm1ppqPKRbr"
+    },
+    {
+      "album": {
         "name": "My Life Is Proof (Studio Sessions)",
         "url": "https://open.spotify.com/album/0TDuvrKYKSZhld2IW3cfiA"
       },
@@ -5074,7 +5182,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 251450,
       "name": "My Life Is Proof - Studio Sessions",
       "url": "https://open.spotify.com/track/49WRG6DxWFrvHpYZsXNbuN"
@@ -5574,6 +5682,24 @@
       "duration_ms": 262520,
       "name": "One Heart at a Time",
       "url": "https://open.spotify.com/track/6JWRtXvUGFUyNNv768OL7v"
+    },
+    {
+      "album": {
+        "name": "SuperHuman",
+        "url": "https://open.spotify.com/album/2amlX7JcF29WbwXko61GCC"
+      },
+      "artists": [
+        {
+          "name": "Jimi Cravity",
+          "url": "https://open.spotify.com/artist/3klvuxan8KcvysB5d9q7Ls"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273402,
+      "name": "ONE OF A KIND",
+      "url": "https://open.spotify.com/track/0JgVTB2jPyfLXZxEBdMPeO"
     },
     {
       "album": {
@@ -6193,6 +6319,28 @@
     },
     {
       "album": {
+        "name": "Revival Town / I\u2019ve Found Jesus (2024)",
+        "url": "https://open.spotify.com/album/5KNqheFcIZXpQOd7fJfJAr"
+      },
+      "artists": [
+        {
+          "name": "Martin Smith",
+          "url": "https://open.spotify.com/artist/7ISMNhe95QNLqHgsCHAVeu"
+        },
+        {
+          "name": "Elle Limebear",
+          "url": "https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346750,
+      "name": "Revival Town - 2024",
+      "url": "https://open.spotify.com/track/3tOGFRsyEyivySLPAaMMbH"
+    },
+    {
+      "album": {
         "name": "Rise Up",
         "url": "https://open.spotify.com/album/2nMSJZPh1zhYl4nQqAV6Kz"
       },
@@ -6508,7 +6656,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 178983,
       "name": "SHOUT IT DOWN",
       "url": "https://open.spotify.com/track/3xDT4ljzdcbs9OdJbQ3gcB"
@@ -6584,7 +6732,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 226083,
       "name": "Somebody Prayed",
       "url": "https://open.spotify.com/track/1ukqYsTRhTM4jsfb2S8wrz"
@@ -6917,6 +7065,24 @@
     },
     {
       "album": {
+        "name": "Tell Me How",
+        "url": "https://open.spotify.com/album/7f7XapnIRg9QxbWZyvA4mw"
+      },
+      "artists": [
+        {
+          "name": "Ryan Stevenson",
+          "url": "https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183197,
+      "name": "Tell Me How",
+      "url": "https://open.spotify.com/track/1TOfC4ETDk63tpMRmzMj2n"
+    },
+    {
+      "album": {
         "name": "Thank God For Sunday Morning",
         "url": "https://open.spotify.com/album/4P5Iq9iYYccNJQ9qiAaCnb"
       },
@@ -7048,7 +7214,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 249173,
       "name": "Thank You So Much Jesus",
       "url": "https://open.spotify.com/track/4isb96lpcN6o7wJSnx4uHT"
@@ -7295,6 +7461,24 @@
     },
     {
       "album": {
+        "name": "The Jesus I Know",
+        "url": "https://open.spotify.com/album/2VXaTH9YwEfPyO1m4j9nSs"
+      },
+      "artists": [
+        {
+          "name": "Brennley Brown",
+          "url": "https://open.spotify.com/artist/4NNo3cmxrg4Z4ROBXfuEf8"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162323,
+      "name": "The Jesus I Know",
+      "url": "https://open.spotify.com/track/62FEtKRUj9QXjQgO40eJ16"
+    },
+    {
+      "album": {
         "name": "The Jesus Way Collection",
         "url": "https://open.spotify.com/album/4gCBVcYiWYXKs9WTaglgCC"
       },
@@ -7336,6 +7520,24 @@
       "duration_ms": 256131,
       "name": "The Kingdom of Jesus",
       "url": "https://open.spotify.com/track/52wm2PN4DkFcXpZg72DsoA"
+    },
+    {
+      "album": {
+        "name": "The Lamb, The Lion, The King (Radio Edit)",
+        "url": "https://open.spotify.com/album/5ZS72zkoS9MHZc8MsIZOt4"
+      },
+      "artists": [
+        {
+          "name": "Meredith Andrews",
+          "url": "https://open.spotify.com/artist/6qk2W9h3eE5UtPJlIatzsY"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232490,
+      "name": "The Lamb, The Lion, The King (Radio Edit)",
+      "url": "https://open.spotify.com/track/3SndRlTwm19YHsRyVDCGrF"
     },
     {
       "album": {
@@ -7451,6 +7653,24 @@
     },
     {
       "album": {
+        "name": "The Rock Is My Foundation",
+        "url": "https://open.spotify.com/album/6ivbdUCKiT0PZoMFJ3WqlY"
+      },
+      "artists": [
+        {
+          "name": "Selah",
+          "url": "https://open.spotify.com/artist/5dZiRoY9Vpp6qrxqXNRwPE"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201653,
+      "name": "The Rock Is My Foundation",
+      "url": "https://open.spotify.com/track/6xY0hle9tIVOPbtBvcmPFB"
+    },
+    {
+      "album": {
         "name": "THE TENSION",
         "url": "https://open.spotify.com/album/1W26notiEvBQfC3T5SFMh7"
       },
@@ -7466,6 +7686,24 @@
       "duration_ms": 203908,
       "name": "THE TENSION",
       "url": "https://open.spotify.com/track/0xTBBbGCjhGN5BESturFwt"
+    },
+    {
+      "album": {
+        "name": "The Truth",
+        "url": "https://open.spotify.com/album/66czvYaDa2MjP9xrRZD9bj"
+      },
+      "artists": [
+        {
+          "name": "Megan Woods",
+          "url": "https://open.spotify.com/artist/5FCdZItP2SRoMCb3QNVFIl"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222295,
+      "name": "The Truth",
+      "url": "https://open.spotify.com/track/5WcF82ipHJa8vQMMrjdbF4"
     },
     {
       "album": {
@@ -7816,6 +8054,46 @@
       "duration_ms": 234000,
       "name": "Turn",
       "url": "https://open.spotify.com/track/1YWJPgaOnSO9fxvuaFuxXp"
+    },
+    {
+      "album": {
+        "name": "Don't Stop Praying",
+        "url": "https://open.spotify.com/album/2v0xTt6Uwza67pQuYmIGXb"
+      },
+      "artists": [
+        {
+          "name": "Matthew West",
+          "url": "https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221276,
+      "name": "Unashamed",
+      "url": "https://open.spotify.com/track/2LpNhfhJcn1C2Hta8YQmLV"
+    },
+    {
+      "album": {
+        "name": "Unbelievable",
+        "url": "https://open.spotify.com/album/6uwdXTL7TVRJuh102Afgln"
+      },
+      "artists": [
+        {
+          "name": "Sidewalk Prophets",
+          "url": "https://open.spotify.com/artist/2SMYoM2Kbcj6rI6U3FRc4U"
+        },
+        {
+          "name": "Ben Fuller",
+          "url": "https://open.spotify.com/artist/57zYbDb1zNVoTYNUGmv45d"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189355,
+      "name": "Unbelievable",
+      "url": "https://open.spotify.com/track/2Y2nV089OQhsGTz2xdlvDb"
     },
     {
       "album": {
@@ -8330,7 +8608,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 190250,
       "name": "Who the Cross Is For",
       "url": "https://open.spotify.com/track/7tmJcijyirkPOEf2CJuL8d"
@@ -8579,6 +8857,28 @@
     },
     {
       "album": {
+        "name": "Yesterday, Today, & Tomorrow",
+        "url": "https://open.spotify.com/album/7sWR7CaR6enqGNpvjYBzbP"
+      },
+      "artists": [
+        {
+          "name": "Aodh\u00e1n King",
+          "url": "https://open.spotify.com/artist/2EpEo5cgrVpjbLIVlwyyQf"
+        },
+        {
+          "name": "Griff",
+          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202333,
+      "name": "Yesterday, Today, & Tomorrow",
+      "url": "https://open.spotify.com/track/1LJsJnjyc4TvEhNNzfS5Vb"
+    },
+    {
+      "album": {
         "name": "New Creation (Deluxe)",
         "url": "https://open.spotify.com/album/65CKmXE033WDzwrn9mrAZI"
       },
@@ -8648,7 +8948,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 214572,
       "name": "You Don't Leave Me",
       "url": "https://open.spotify.com/track/7uARzsxIFbFvZc0xZC8Aca"

@@ -187,6 +187,48 @@
     },
     {
       "album": {
+        "name": "365 Dias",
+        "url": "https://open.spotify.com/album/531yrQRB8MaHyBIDg6IWpF"
+      },
+      "artists": [
+        {
+          "name": "Dj Victor",
+          "url": "https://open.spotify.com/artist/5kKzlgNRX8FgC6Bni5DNNC"
+        },
+        {
+          "name": "Mc Kadu",
+          "url": "https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv"
+        },
+        {
+          "name": "Mc Kanhoto",
+          "url": "https://open.spotify.com/artist/3bpbNht7qJCmPo8sjVF3tA"
+        },
+        {
+          "name": "MC G10",
+          "url": "https://open.spotify.com/artist/4OS9OnPH5DQm26wPTvrzoG"
+        },
+        {
+          "name": "Mc Lele JP",
+          "url": "https://open.spotify.com/artist/1mV9h1AwhRXSjBFcYpajgY"
+        },
+        {
+          "name": "MC Vine7",
+          "url": "https://open.spotify.com/artist/3UfwtvPZZea2HHwI23VtKP"
+        },
+        {
+          "name": "MC Menor da VG",
+          "url": "https://open.spotify.com/artist/4maKTxhTIDEnWKra7wEIMR"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 521958,
+      "name": "365 Dias",
+      "url": "https://open.spotify.com/track/0Y7k2ihn4ojGCbJkH1fR77"
+    },
+    {
+      "album": {
         "name": "3AM (PXT4 RASA) [Remix]",
         "url": "https://open.spotify.com/album/1acHuLX2pd5QNZ46ZvHD8r"
       },
@@ -1595,6 +1637,24 @@
     },
     {
       "album": {
+        "name": "MUITA LUTA MIXTAPE",
+        "url": "https://open.spotify.com/album/2mQYx7MIWjcV3DuUvCVeyD"
+      },
+      "artists": [
+        {
+          "name": "Big Bllakk",
+          "url": "https://open.spotify.com/artist/2676LWh4GgqdAaYkRpqTcd"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186461,
+      "name": "BrusaDaNike e GShock",
+      "url": "https://open.spotify.com/track/7rBEfUy7v0ptREXUh1BJi8"
+    },
+    {
+      "album": {
         "name": "Contradi\u00e7\u00f5es",
         "url": "https://open.spotify.com/album/1vR5pzEPXx1i7h8zwosa7D"
       },
@@ -2304,7 +2364,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 199354,
       "name": "DDD 011 - F1 BB",
       "url": "https://open.spotify.com/track/6mjoUuVBh6D6kxp3hRL4Td"
@@ -2916,6 +2976,28 @@
       "duration_ms": 181985,
       "name": "DVD",
       "url": "https://open.spotify.com/track/0bdSnGHhbELTZ4kf7FGWPT"
+    },
+    {
+      "album": {
+        "name": "E A\u00ed Como Que T\u00e1 ?",
+        "url": "https://open.spotify.com/album/5BRiXvVnDXU9lMuLKG4Msd"
+      },
+      "artists": [
+        {
+          "name": "MC Tuto",
+          "url": "https://open.spotify.com/artist/6aoGgTKGqtsjj48ymcNs4Z"
+        },
+        {
+          "name": "Oldilla",
+          "url": "https://open.spotify.com/artist/6sW5k31iA8sTy0i2goUKF9"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134000,
+      "name": "E A\u00ed Como Que T\u00e1 ?",
+      "url": "https://open.spotify.com/track/32L3KPUr7J2qIVGZpaFjsJ"
     },
     {
       "album": {
@@ -7034,7 +7116,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 130216,
       "name": "N\u00e3o Para",
       "url": "https://open.spotify.com/track/02hupCKclLtfyoQrp2xtfz"
@@ -10748,7 +10830,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 183000,
       "name": "Voc\u00ea Parece Com Vergonha",
       "url": "https://open.spotify.com/track/5r4pDmk3fENDZCc06xrHsJ"

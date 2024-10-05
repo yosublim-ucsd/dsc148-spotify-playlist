@@ -379,6 +379,36 @@
     },
     {
       "album": {
+        "name": "John Williams: Reimagined",
+        "url": "https://open.spotify.com/album/0i6O16w0CWrSFE8xurnoge"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        },
+        {
+          "name": "Simone Pedroni",
+          "url": "https://open.spotify.com/artist/0ikPH8Vl2teD0cHKXdCif3"
+        },
+        {
+          "name": "Sara Andon",
+          "url": "https://open.spotify.com/artist/23rO8ggbeVwWDkyihkgP4Q"
+        },
+        {
+          "name": "C\u00e9cilia Tsan",
+          "url": "https://open.spotify.com/artist/2ihxwWQ6su9af0O9e9Ye7f"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 374666,
+      "name": "Han Solo and the Princess (From \"The Empire Strikes Back\")",
+      "url": "https://open.spotify.com/track/1fFZKP6YvpXU6Fg9i5Tte3"
+    },
+    {
+      "album": {
         "name": "Harry Potter and the Deathly Hallows, Pt. 1 (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6s9twOs9wMKOEluU5dkBE0"
       },
@@ -574,6 +604,24 @@
       "duration_ms": 108087,
       "name": "Maps",
       "url": "https://open.spotify.com/track/5arnqM3mLtyOpdqDrbavQb"
+    },
+    {
+      "album": {
+        "name": "Mia & Sebastian's Theme (From \"La La Land\") [Instrumental Guitar]",
+        "url": "https://open.spotify.com/album/1HIN88emPpvBvYc6QAffzo"
+      },
+      "artists": [
+        {
+          "name": "Beyond The Guitar",
+          "url": "https://open.spotify.com/artist/4S5AtlCYMKonu1l2G9ZIFp"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140202,
+      "name": "Mia & Sebastian's Theme (From \"La La Land\") - Instrumental Guitar",
+      "url": "https://open.spotify.com/track/5RWXXrttuS0cBMzIB4tInj"
     },
     {
       "album": {
@@ -1056,6 +1104,28 @@
       "duration_ms": 229403,
       "name": "She Remembers",
       "url": "https://open.spotify.com/track/4zj2TfCmxKJ92IwtNWOAaM"
+    },
+    {
+      "album": {
+        "name": "Accents & Echoes",
+        "url": "https://open.spotify.com/album/6hitDfHO4Bhp0709ZY2Mag"
+      },
+      "artists": [
+        {
+          "name": "Alex North",
+          "url": "https://open.spotify.com/artist/2x2WoBP4HIXYCxxNzfGG34"
+        },
+        {
+          "name": "ARSHA KAVIANI",
+          "url": "https://open.spotify.com/artist/6X2QoSBLc6zeYdIQrtLNed"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216405,
+      "name": "Spartacus Love Theme",
+      "url": "https://open.spotify.com/track/6VtKjjaeZIsGIf7pqXJDoA"
     },
     {
       "album": {

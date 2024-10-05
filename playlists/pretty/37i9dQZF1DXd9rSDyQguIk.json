@@ -1,6 +1,6 @@
 {
   "description": "Nothing but classic blues. Cover: B.B. King",
-  "num_followers": 1929839,
+  "num_followers": 1930267,
   "original_name": "Blues Classics",
   "owner": {
     "name": "Spotify",
@@ -185,6 +185,22 @@
       "url": "https://open.spotify.com/track/3KSchPNSklO5McIqRH3qYX"
     },
     {
+      "added_at": "2024-03-21 16:46:52",
+      "album": {
+        "name": "The Real Folk Blues",
+        "url": "https://open.spotify.com/album/6AToTGNfNIiOSMcl6xGJTY"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "duration_ms": 167360,
+      "name": "I'm In The Mood",
+      "url": "https://open.spotify.com/track/6iQ0OIxisPxhzEICEXtaWS"
+    },
+    {
       "added_at": "2018-03-29 19:44:07",
       "album": {
         "name": "Feels Like Rain",
@@ -203,22 +219,6 @@
       "duration_ms": 275266,
       "name": "Feels Like Rain (feat. Bonnie Raitt)",
       "url": "https://open.spotify.com/track/5MTsZG10E0hTvAkdioyPnw"
-    },
-    {
-      "added_at": "2024-03-21 16:46:52",
-      "album": {
-        "name": "The Real Folk Blues",
-        "url": "https://open.spotify.com/album/6AToTGNfNIiOSMcl6xGJTY"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        }
-      ],
-      "duration_ms": 167360,
-      "name": "I'm In The Mood",
-      "url": "https://open.spotify.com/track/6iQ0OIxisPxhzEICEXtaWS"
     },
     {
       "added_at": "2020-01-15 21:29:46",
@@ -275,22 +275,6 @@
       "duration_ms": 212600,
       "name": "All Your Love - Stereo",
       "url": "https://open.spotify.com/track/1yKah8BCP3Vgq2tPBOLKL0"
-    },
-    {
-      "added_at": "2020-01-15 21:29:46",
-      "album": {
-        "name": "Damn Right, I've Got The Blues",
-        "url": "https://open.spotify.com/album/7IxnFL0kaVSqs9iy9qSqPj"
-      },
-      "artists": [
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        }
-      ],
-      "duration_ms": 271653,
-      "name": "Damn Right, I've Got the Blues",
-      "url": "https://open.spotify.com/track/2FtX5tOFUVOyjcGQiuGR8f"
     },
     {
       "added_at": "2020-01-15 21:29:46",
@@ -357,6 +341,22 @@
       "url": "https://open.spotify.com/track/3E0VKSvZp76kvBU2WwwBul"
     },
     {
+      "added_at": "2024-03-21 16:46:52",
+      "album": {
+        "name": "Rockin' With Reed",
+        "url": "https://open.spotify.com/album/2V70efDxuoKFAmkufW5zzZ"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Reed",
+          "url": "https://open.spotify.com/artist/41ZMMuFFLPTVPkUsSI5KlV"
+        }
+      ],
+      "duration_ms": 143331,
+      "name": "Take Out Some Insurance",
+      "url": "https://open.spotify.com/track/2TKykeHeVKsBqZC8M3SKcN"
+    },
+    {
       "added_at": "2018-03-29 19:44:07",
       "album": {
         "name": "Mourning In The Morning",
@@ -373,20 +373,20 @@
       "url": "https://open.spotify.com/track/4Gia17DzXBhYFbYiJj6SyW"
     },
     {
-      "added_at": "2024-03-21 16:46:52",
+      "added_at": "2020-01-15 21:29:46",
       "album": {
-        "name": "Rockin' With Reed",
-        "url": "https://open.spotify.com/album/2V70efDxuoKFAmkufW5zzZ"
+        "name": "Damn Right, I've Got The Blues",
+        "url": "https://open.spotify.com/album/7IxnFL0kaVSqs9iy9qSqPj"
       },
       "artists": [
         {
-          "name": "Jimmy Reed",
-          "url": "https://open.spotify.com/artist/41ZMMuFFLPTVPkUsSI5KlV"
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
         }
       ],
-      "duration_ms": 143331,
-      "name": "Take Out Some Insurance",
-      "url": "https://open.spotify.com/track/2TKykeHeVKsBqZC8M3SKcN"
+      "duration_ms": 271653,
+      "name": "Damn Right, I've Got the Blues",
+      "url": "https://open.spotify.com/track/2FtX5tOFUVOyjcGQiuGR8f"
     },
     {
       "added_at": "2020-01-15 21:29:46",
@@ -647,22 +647,6 @@
     {
       "added_at": "2020-01-15 21:29:46",
       "album": {
-        "name": "T-Bone Blues",
-        "url": "https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3"
-      },
-      "artists": [
-        {
-          "name": "T-Bone Walker",
-          "url": "https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX"
-        }
-      ],
-      "duration_ms": 247373,
-      "name": "Mean Old World",
-      "url": "https://open.spotify.com/track/3gg0xEc2b4eEbYySLmfFU1"
-    },
-    {
-      "added_at": "2020-01-15 21:29:46",
-      "album": {
         "name": "The Essential Little Walter",
         "url": "https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 167266,
       "name": "Walking By Myself",
       "url": "https://open.spotify.com/track/36ccrof5DFicLrejE4hEye"
+    },
+    {
+      "added_at": "2020-01-15 21:29:46",
+      "album": {
+        "name": "T-Bone Blues",
+        "url": "https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3"
+      },
+      "artists": [
+        {
+          "name": "T-Bone Walker",
+          "url": "https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX"
+        }
+      ],
+      "duration_ms": 247373,
+      "name": "Mean Old World",
+      "url": "https://open.spotify.com/track/3gg0xEc2b4eEbYySLmfFU1"
     },
     {
       "added_at": "2024-03-21 16:46:52",
@@ -773,22 +773,6 @@
       "url": "https://open.spotify.com/track/6tilCYbheGMHo3Hw4F22hF"
     },
     {
-      "added_at": "2020-01-15 21:29:46",
-      "album": {
-        "name": "T-Bone Blues",
-        "url": "https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3"
-      },
-      "artists": [
-        {
-          "name": "T-Bone Walker",
-          "url": "https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX"
-        }
-      ],
-      "duration_ms": 187600,
-      "name": "Call It Stormy Monday",
-      "url": "https://open.spotify.com/track/1i7nQGgwloILcp6ZftH2Qa"
-    },
-    {
       "added_at": "2024-03-21 16:46:52",
       "album": {
         "name": "John Lee Hooker - On Vee-Jay 1955-1958",
@@ -819,6 +803,22 @@
       "duration_ms": 181786,
       "name": "She's A Sweet One",
       "url": "https://open.spotify.com/track/2Cg3GUkhjX96nO4p2WRlIa"
+    },
+    {
+      "added_at": "2020-01-15 21:29:46",
+      "album": {
+        "name": "T-Bone Blues",
+        "url": "https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3"
+      },
+      "artists": [
+        {
+          "name": "T-Bone Walker",
+          "url": "https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX"
+        }
+      ],
+      "duration_ms": 187600,
+      "name": "Call It Stormy Monday",
+      "url": "https://open.spotify.com/track/1i7nQGgwloILcp6ZftH2Qa"
     },
     {
       "added_at": "2020-01-15 21:29:46",

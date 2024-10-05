@@ -4,7 +4,7 @@
 
 > Fast\-paced tunes for Tamil party time!<br/>Cover : Leo
 
-141 songs - 9 hr 45 min
+142 songs - 9 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [Naan Romba](https://open.spotify.com/track/3AveuWMomOOs92pmWeXZLZ) | [Ranjith Govind](https://open.spotify.com/artist/7zFlr6Y537SdALqy0Xfvth), [Vidyasagar](https://open.spotify.com/artist/5TB837uKG65w8Jnz5D0bS5), [Na.Muthukumar](https://open.spotify.com/artist/3xRtandQusLOaCPqLJ0ia2) | [Siruthai \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7KHNl1rp4b6yc37rb8Ozmt) | 4:05 | 2021-06-21 |  |
 | [Naanga Vera Maari](https://open.spotify.com/track/59WtsOIuCiAXITgTN2dSPe) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om) | [Valimai \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2IOUE0ZTRUBGVtUJxEQJCx) | 4:14 | 2022-02-23 | 2022-07-29 |
 | [Naanga Vera Maari \(From "Valimai"\)](https://open.spotify.com/track/3huCRjAX12zNPxtX9JqX2X) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om) | [Naanga Vera Maari \(From "Valimai"\)](https://open.spotify.com/album/57EwhOeKmfQPDC7IUjKubv) | 4:14 | 2021-09-13 | 2022-04-22 |
+| [Naattu Koothu](https://open.spotify.com/track/7IV5c9eF72Y9FxRQaHJ0bd) | [Rahul Sipligunj](https://open.spotify.com/artist/1H4ZvA2yyK7wCmbvEUWvPn), [Yazin Nizar](https://open.spotify.com/artist/2pVurQy6iuWWx707gilSdX) | [RRR](https://open.spotify.com/album/3qzW3ECUvV4xb6MpHEnSAW) | 3:34 | 2024-10-04 |  |
 | [Nahna Na Nah](https://open.spotify.com/track/0TKh7b5rpmvydOl9FvSyXL) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Devan Ekambaram](https://open.spotify.com/artist/1HUZ6vfsSWpfLoxjgDavEB) | [Biriyani \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/19ByOiM4yu0ETa2HNYng86) | 4:27 | 2021-06-21 | 2023-07-07 |
 | [Nangaai](https://open.spotify.com/track/0T6z2mf5tb3kv208JXgPj9) | [Harris Jayaraj](https://open.spotify.com/artist/29aw5YCdIw2FEXYyAJZI8l), [Richard](https://open.spotify.com/artist/5TdnYStKAKMwf4IG8mBq1h) | [Engeyum Kadhal \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4DyPmer9GfEcRosw671Eaq) | 4:36 | 2021-06-21 |  |
 | [No Money No Honey](https://open.spotify.com/track/7wduEoLSXYggQqimn5LEP0) | [Silambarasan TR](https://open.spotify.com/artist/5Hn84AFwiTEi8eMoI5B9AS), [Andrea Jeremiah](https://open.spotify.com/artist/5yoqPvofOHrBc3Z6VZyTsj) | [Vaanam \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3K2WMhR111JhiLj9VH36Q0) | 5:24 | 2021-06-21 |  |

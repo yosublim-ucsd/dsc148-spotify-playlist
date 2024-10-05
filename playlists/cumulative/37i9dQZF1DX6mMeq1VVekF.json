@@ -129,6 +129,24 @@
     },
     {
       "album": {
+        "name": "2BADGYALZ",
+        "url": "https://open.spotify.com/album/5Lx2hE5ENvPQJplNUXYxrC"
+      },
+      "artists": [
+        {
+          "name": "Bree Runway",
+          "url": "https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101500,
+      "name": "2BADGYALZ",
+      "url": "https://open.spotify.com/track/2R5vY0DGyGkoW1Q13SNCzr"
+    },
+    {
+      "album": {
         "name": "3:45/buslane",
         "url": "https://open.spotify.com/album/4BM0zawOq1iJ5zgjfst8NQ"
       },
@@ -6612,7 +6630,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 111229,
       "name": "sweeeet",
       "url": "https://open.spotify.com/track/7wr2RA6XCWzjOCHsjoi3ll"
@@ -7263,6 +7281,24 @@
     },
     {
       "album": {
+        "name": "Player of the Year",
+        "url": "https://open.spotify.com/album/0zwdMUp2ELrIMdmDGY9xj5"
+      },
+      "artists": [
+        {
+          "name": "Tay Jordan",
+          "url": "https://open.spotify.com/artist/13WFAXpgT5EchE1bdPG8ct"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132866,
+      "name": "Type Shit",
+      "url": "https://open.spotify.com/track/4lcpvfvFdA1M9sLk0smnd1"
+    },
+    {
+      "album": {
         "name": "Ugly World",
         "url": "https://open.spotify.com/album/4bxB0wUr7hEjkesDG4ruRZ"
       },
@@ -7576,7 +7612,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 157211,
       "name": "What she likes",
       "url": "https://open.spotify.com/track/3mKmTFmx6FbarBAilxqkvQ"

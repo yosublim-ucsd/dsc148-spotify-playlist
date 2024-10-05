@@ -1,6 +1,6 @@
 {
   "description": "The biggest songs of the 1950s. Cover: Elvis Presley",
-  "num_followers": 1806605,
+  "num_followers": 1806853,
   "original_name": "All Out 50s",
   "owner": {
     "name": "Spotify",
@@ -219,22 +219,6 @@
     {
       "added_at": "2024-09-06 14:23:51",
       "album": {
-        "name": "Ritchie Valens",
-        "url": "https://open.spotify.com/album/77UI8F1LuhiQaKIL1qOE1W"
-      },
-      "artists": [
-        {
-          "name": "Ritchie Valens",
-          "url": "https://open.spotify.com/artist/5Y9xEAGW4GwGJgbiI6W85P"
-        }
-      ],
-      "duration_ms": 126960,
-      "name": "La Bamba - Single Version",
-      "url": "https://open.spotify.com/track/2aEeghgUcnu75tzcolFMfs"
-    },
-    {
-      "added_at": "2024-09-06 14:23:51",
-      "album": {
         "name": "Flamingo Serenade",
         "url": "https://open.spotify.com/album/6XEtlJFNCbNrIz1Q5kdLjZ"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 202773,
       "name": "I Only Have Eyes for You",
       "url": "https://open.spotify.com/track/3YdKJzcoMZMacISlpY4QoP"
+    },
+    {
+      "added_at": "2024-09-06 14:23:51",
+      "album": {
+        "name": "Ritchie Valens",
+        "url": "https://open.spotify.com/album/77UI8F1LuhiQaKIL1qOE1W"
+      },
+      "artists": [
+        {
+          "name": "Ritchie Valens",
+          "url": "https://open.spotify.com/artist/5Y9xEAGW4GwGJgbiI6W85P"
+        }
+      ],
+      "duration_ms": 126960,
+      "name": "La Bamba - Single Version",
+      "url": "https://open.spotify.com/track/2aEeghgUcnu75tzcolFMfs"
     },
     {
       "added_at": "2024-09-06 14:23:51",
@@ -771,22 +771,6 @@
     {
       "added_at": "2024-09-06 14:23:51",
       "album": {
-        "name": "12 Of His Biggest Hits",
-        "url": "https://open.spotify.com/album/2Hr6il1ZLPbeLnKUzhWkF6"
-      },
-      "artists": [
-        {
-          "name": "Eddie Cochran",
-          "url": "https://open.spotify.com/artist/1p0t3JtUTayV2wb1RGN9mO"
-        }
-      ],
-      "duration_ms": 118226,
-      "name": "C\u2019Mon Everybody",
-      "url": "https://open.spotify.com/track/7ItZM6DMZE2m1X7yIaRxjq"
-    },
-    {
-      "added_at": "2024-09-06 14:23:51",
-      "album": {
         "name": "Shout!",
         "url": "https://open.spotify.com/album/3TU9a0ngwVYr7YRe5fJPVH"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 268560,
       "name": "Shout, Pts. 1 & 2",
       "url": "https://open.spotify.com/track/2ZNTPtYmAhN9vCwnAgqKn1"
+    },
+    {
+      "added_at": "2024-09-06 14:23:51",
+      "album": {
+        "name": "12 Of His Biggest Hits",
+        "url": "https://open.spotify.com/album/2Hr6il1ZLPbeLnKUzhWkF6"
+      },
+      "artists": [
+        {
+          "name": "Eddie Cochran",
+          "url": "https://open.spotify.com/artist/1p0t3JtUTayV2wb1RGN9mO"
+        }
+      ],
+      "duration_ms": 118226,
+      "name": "C\u2019Mon Everybody",
+      "url": "https://open.spotify.com/track/7ItZM6DMZE2m1X7yIaRxjq"
     },
     {
       "added_at": "2024-09-06 14:23:51",
@@ -851,6 +851,22 @@
     {
       "added_at": "2024-09-06 14:23:51",
       "album": {
+        "name": "Chantilly Lace",
+        "url": "https://open.spotify.com/album/4rjNs9o3EjMVQlwV7EuhGS"
+      },
+      "artists": [
+        {
+          "name": "The Big Bopper",
+          "url": "https://open.spotify.com/artist/2gNK2HAaLVz5DZoD2moDQj"
+        }
+      ],
+      "duration_ms": 145266,
+      "name": "Chantilly Lace",
+      "url": "https://open.spotify.com/track/07GtDOCxmye5KDWsTSACPk"
+    },
+    {
+      "added_at": "2024-09-06 14:23:51",
+      "album": {
         "name": "Gold",
         "url": "https://open.spotify.com/album/5LzeNR0ssOIfaUpNQbthH9"
       },
@@ -895,22 +911,6 @@
       "duration_ms": 141386,
       "name": "I Wonder Why",
       "url": "https://open.spotify.com/track/7vAw4LLIms6X8ZHcbtoazz"
-    },
-    {
-      "added_at": "2024-09-06 14:23:51",
-      "album": {
-        "name": "Chantilly Lace",
-        "url": "https://open.spotify.com/album/4rjNs9o3EjMVQlwV7EuhGS"
-      },
-      "artists": [
-        {
-          "name": "The Big Bopper",
-          "url": "https://open.spotify.com/artist/2gNK2HAaLVz5DZoD2moDQj"
-        }
-      ],
-      "duration_ms": 145266,
-      "name": "Chantilly Lace",
-      "url": "https://open.spotify.com/track/07GtDOCxmye5KDWsTSACPk"
     },
     {
       "added_at": "2024-09-06 14:23:51",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2024-09-06 14:23:51",
       "album": {
-        "name": "The Essentials: Ruth Brown",
-        "url": "https://open.spotify.com/album/5hUfSBla2buX5rW8aCeAl7"
-      },
-      "artists": [
-        {
-          "name": "Ruth Brown",
-          "url": "https://open.spotify.com/artist/4EYVgfZJ8wKXWmIvCx3gOY"
-        }
-      ],
-      "duration_ms": 173733,
-      "name": "I Don't Know",
-      "url": "https://open.spotify.com/track/047Ip9c6dijAJfuwloV3NF"
-    },
-    {
-      "added_at": "2024-09-06 14:23:51",
-      "album": {
         "name": "Heavenly",
         "url": "https://open.spotify.com/album/3Yx5An0VumBISWmrOtNyB9"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 216573,
       "name": "Misty",
       "url": "https://open.spotify.com/track/4uxsv9PjV3Yeyn51RdWvGJ"
+    },
+    {
+      "added_at": "2024-09-06 14:23:51",
+      "album": {
+        "name": "The Essentials: Ruth Brown",
+        "url": "https://open.spotify.com/album/5hUfSBla2buX5rW8aCeAl7"
+      },
+      "artists": [
+        {
+          "name": "Ruth Brown",
+          "url": "https://open.spotify.com/artist/4EYVgfZJ8wKXWmIvCx3gOY"
+        }
+      ],
+      "duration_ms": 173733,
+      "name": "I Don't Know",
+      "url": "https://open.spotify.com/track/047Ip9c6dijAJfuwloV3NF"
     },
     {
       "added_at": "2024-09-06 14:23:51",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2024-09-06 14:23:51",
       "album": {
-        "name": "The Platters Golden Hits",
-        "url": "https://open.spotify.com/album/7l3vhUqMYbu62TIKSocf4B"
-      },
-      "artists": [
-        {
-          "name": "The Platters",
-          "url": "https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy"
-        }
-      ],
-      "duration_ms": 157360,
-      "name": "The Great Pretender",
-      "url": "https://open.spotify.com/track/2FkCjtQ1lYsf71s2FAS8hE"
-    },
-    {
-      "added_at": "2024-09-06 14:23:51",
-      "album": {
         "name": "What A Diff'rence A Day Makes! (Expanded Edition)",
         "url": "https://open.spotify.com/album/0w8YD8Wz1hEkwXdsAMzzFe"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 150893,
       "name": "Cry Me A River",
       "url": "https://open.spotify.com/track/4ydtQJImyQg6UDFFZBzgxp"
+    },
+    {
+      "added_at": "2024-09-06 14:23:51",
+      "album": {
+        "name": "The Platters Golden Hits",
+        "url": "https://open.spotify.com/album/7l3vhUqMYbu62TIKSocf4B"
+      },
+      "artists": [
+        {
+          "name": "The Platters",
+          "url": "https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy"
+        }
+      ],
+      "duration_ms": 157360,
+      "name": "The Great Pretender",
+      "url": "https://open.spotify.com/track/2FkCjtQ1lYsf71s2FAS8hE"
     },
     {
       "added_at": "2024-09-06 14:23:51",
@@ -1319,6 +1319,22 @@
     {
       "added_at": "2024-09-06 14:23:51",
       "album": {
+        "name": "Come Softly To Me: The Very Best Of The Fleetwoods",
+        "url": "https://open.spotify.com/album/53Z6bXyBJ7tlRtMettF6Uq"
+      },
+      "artists": [
+        {
+          "name": "The Fleetwoods",
+          "url": "https://open.spotify.com/artist/673J686eeEXMYJorgQ70lX"
+        }
+      ],
+      "duration_ms": 145133,
+      "name": "Mr. Blue",
+      "url": "https://open.spotify.com/track/6bnFjTW3EnMG4BwreDnSHK"
+    },
+    {
+      "added_at": "2024-09-06 14:23:51",
+      "album": {
         "name": "The Capitol Years",
         "url": "https://open.spotify.com/album/31Mwr76okDPhxDxK6OaL1N"
       },
@@ -1339,22 +1355,6 @@
     {
       "added_at": "2024-09-06 14:23:51",
       "album": {
-        "name": "Come Softly To Me: The Very Best Of The Fleetwoods",
-        "url": "https://open.spotify.com/album/53Z6bXyBJ7tlRtMettF6Uq"
-      },
-      "artists": [
-        {
-          "name": "The Fleetwoods",
-          "url": "https://open.spotify.com/artist/673J686eeEXMYJorgQ70lX"
-        }
-      ],
-      "duration_ms": 145133,
-      "name": "Mr. Blue",
-      "url": "https://open.spotify.com/track/6bnFjTW3EnMG4BwreDnSHK"
-    },
-    {
-      "added_at": "2024-09-06 14:23:51",
-      "album": {
         "name": "Come Go With Me: The Best Of The Del-Vikings",
         "url": "https://open.spotify.com/album/35hzrbmJqylZoIRcatUfYx"
       },
@@ -1367,22 +1367,6 @@
       "duration_ms": 162293,
       "name": "Come Go With Me",
       "url": "https://open.spotify.com/track/4IYyGIbMS5ZkxDXGfPIrXr"
-    },
-    {
-      "added_at": "2024-09-06 14:23:51",
-      "album": {
-        "name": "Sings His Favorites",
-        "url": "https://open.spotify.com/album/68NffwvgGGTB3aDqkbvztJ"
-      },
-      "artists": [
-        {
-          "name": "Paul Anka",
-          "url": "https://open.spotify.com/artist/7ceUfdWq2t5nbatS6ollHh"
-        }
-      ],
-      "duration_ms": 140520,
-      "name": "Diana",
-      "url": "https://open.spotify.com/track/2k6qpHJsrKCCyvsHv2cPqR"
     },
     {
       "added_at": "2024-09-06 14:23:51",
@@ -1403,18 +1387,18 @@
     {
       "added_at": "2024-09-06 14:23:51",
       "album": {
-        "name": "Little Bitty Pretty One",
-        "url": "https://open.spotify.com/album/0E72reqQQ7799PLL07DFnG"
+        "name": "Sings His Favorites",
+        "url": "https://open.spotify.com/album/68NffwvgGGTB3aDqkbvztJ"
       },
       "artists": [
         {
-          "name": "Thurston Harris",
-          "url": "https://open.spotify.com/artist/61VpPyyJn2bitby8tbafzT"
+          "name": "Paul Anka",
+          "url": "https://open.spotify.com/artist/7ceUfdWq2t5nbatS6ollHh"
         }
       ],
-      "duration_ms": 143066,
-      "name": "Little Bitty Pretty One",
-      "url": "https://open.spotify.com/track/2yOXKIU9YtBSWjI3OA8tqj"
+      "duration_ms": 140520,
+      "name": "Diana",
+      "url": "https://open.spotify.com/track/2k6qpHJsrKCCyvsHv2cPqR"
     },
     {
       "added_at": "2024-09-06 14:23:51",
@@ -1431,6 +1415,22 @@
       "duration_ms": 187666,
       "name": "In The Still of the Night",
       "url": "https://open.spotify.com/track/0GVvRmCoiLkhxJvlZy9bLk"
+    },
+    {
+      "added_at": "2024-09-06 14:23:51",
+      "album": {
+        "name": "Little Bitty Pretty One",
+        "url": "https://open.spotify.com/album/0E72reqQQ7799PLL07DFnG"
+      },
+      "artists": [
+        {
+          "name": "Thurston Harris",
+          "url": "https://open.spotify.com/artist/61VpPyyJn2bitby8tbafzT"
+        }
+      ],
+      "duration_ms": 143066,
+      "name": "Little Bitty Pretty One",
+      "url": "https://open.spotify.com/track/2yOXKIU9YtBSWjI3OA8tqj"
     },
     {
       "added_at": "2024-09-06 14:23:51",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2024-09-06 14:23:51",
       "album": {
-        "name": "Moanin' The Blues (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3cusZESjkIDnDXyQwbpSsT"
-      },
-      "artists": [
-        {
-          "name": "Hank Williams",
-          "url": "https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW"
-        }
-      ],
-      "duration_ms": 165266,
-      "name": "Lovesick Blues",
-      "url": "https://open.spotify.com/track/1x4iqHqbgf9oHsQJ6FGnCy"
-    },
-    {
-      "added_at": "2024-09-06 14:23:51",
-      "album": {
         "name": "Bo Diddley",
         "url": "https://open.spotify.com/album/1cbtDEwxCjMhglb49OgNBR"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 149013,
       "name": "Bo Diddley",
       "url": "https://open.spotify.com/track/2R7uUQ0Dehu80gsOcydQC9"
+    },
+    {
+      "added_at": "2024-09-06 14:23:51",
+      "album": {
+        "name": "Moanin' The Blues (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3cusZESjkIDnDXyQwbpSsT"
+      },
+      "artists": [
+        {
+          "name": "Hank Williams",
+          "url": "https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW"
+        }
+      ],
+      "duration_ms": 165266,
+      "name": "Lovesick Blues",
+      "url": "https://open.spotify.com/track/1x4iqHqbgf9oHsQJ6FGnCy"
     },
     {
       "added_at": "2024-09-06 14:23:51",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2024-09-06 14:23:51",
       "album": {
-        "name": "The Complete Hank Williams",
-        "url": "https://open.spotify.com/album/3A125M77Q1pkNik2HvB1MN"
-      },
-      "artists": [
-        {
-          "name": "Hank Williams",
-          "url": "https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW"
-        }
-      ],
-      "duration_ms": 174293,
-      "name": "Hey, Good Lookin'",
-      "url": "https://open.spotify.com/track/0F76EzCOmno4KJviO7iGNq"
-    },
-    {
-      "added_at": "2024-09-06 14:23:51",
-      "album": {
         "name": "The Essential Johnny Mathis 3.0",
         "url": "https://open.spotify.com/album/2VSzjViVZMciyUX0M1rFTv"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 181400,
       "name": "Chances Are - Single Version",
       "url": "https://open.spotify.com/track/63NmQTtxQLHSRp7li6aAmP"
+    },
+    {
+      "added_at": "2024-09-06 14:23:51",
+      "album": {
+        "name": "The Complete Hank Williams",
+        "url": "https://open.spotify.com/album/3A125M77Q1pkNik2HvB1MN"
+      },
+      "artists": [
+        {
+          "name": "Hank Williams",
+          "url": "https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW"
+        }
+      ],
+      "duration_ms": 174293,
+      "name": "Hey, Good Lookin'",
+      "url": "https://open.spotify.com/track/0F76EzCOmno4KJviO7iGNq"
     },
     {
       "added_at": "2024-09-06 14:23:51",
@@ -1723,6 +1723,22 @@
     {
       "added_at": "2024-09-06 14:23:51",
       "album": {
+        "name": "The Complete Hank Williams",
+        "url": "https://open.spotify.com/album/3A125M77Q1pkNik2HvB1MN"
+      },
+      "artists": [
+        {
+          "name": "Hank Williams",
+          "url": "https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW"
+        }
+      ],
+      "duration_ms": 172133,
+      "name": "Jambalaya (On The Bayou)",
+      "url": "https://open.spotify.com/track/2KJOfVTxWkbtRMGByeEQ7V"
+    },
+    {
+      "added_at": "2024-09-06 14:23:51",
+      "album": {
         "name": "Here's Little Richard (Deluxe Edition)",
         "url": "https://open.spotify.com/album/18tV6PLXYvVjsdOVk0S7M8"
       },
@@ -1771,22 +1787,6 @@
       "duration_ms": 174640,
       "name": "16 Candles",
       "url": "https://open.spotify.com/track/3Timk4Wy8wnJDCfq6O7YDW"
-    },
-    {
-      "added_at": "2024-09-06 14:23:51",
-      "album": {
-        "name": "The Complete Hank Williams",
-        "url": "https://open.spotify.com/album/3A125M77Q1pkNik2HvB1MN"
-      },
-      "artists": [
-        {
-          "name": "Hank Williams",
-          "url": "https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW"
-        }
-      ],
-      "duration_ms": 172133,
-      "name": "Jambalaya (On The Bayou)",
-      "url": "https://open.spotify.com/track/2KJOfVTxWkbtRMGByeEQ7V"
     },
     {
       "added_at": "2024-09-06 14:23:51",
@@ -1855,22 +1855,6 @@
     {
       "added_at": "2024-09-06 14:23:51",
       "album": {
-        "name": "Rock 'N' Roll Legends",
-        "url": "https://open.spotify.com/album/793eXAlRhtt44WTFZj4SbA"
-      },
-      "artists": [
-        {
-          "name": "Little Richard",
-          "url": "https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm"
-        }
-      ],
-      "duration_ms": 128639,
-      "name": "Good Golly, Miss Molly",
-      "url": "https://open.spotify.com/track/5wJXbK6be3OUwZHrqEuuaD"
-    },
-    {
-      "added_at": "2024-09-06 14:23:51",
-      "album": {
         "name": "The Essential Johnny Mathis 3.0",
         "url": "https://open.spotify.com/album/2VSzjViVZMciyUX0M1rFTv"
       },
@@ -1907,6 +1891,22 @@
     {
       "added_at": "2024-09-06 14:23:51",
       "album": {
+        "name": "Rock 'N' Roll Legends",
+        "url": "https://open.spotify.com/album/793eXAlRhtt44WTFZj4SbA"
+      },
+      "artists": [
+        {
+          "name": "Little Richard",
+          "url": "https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm"
+        }
+      ],
+      "duration_ms": 128639,
+      "name": "Good Golly, Miss Molly",
+      "url": "https://open.spotify.com/track/5wJXbK6be3OUwZHrqEuuaD"
+    },
+    {
+      "added_at": "2024-09-06 14:23:51",
+      "album": {
         "name": "Bill Haley's Greatest Hits",
         "url": "https://open.spotify.com/album/6dbK5OGjpXh6TxgLLyAtlV"
       },
@@ -1923,22 +1923,6 @@
     {
       "added_at": "2024-09-06 14:23:51",
       "album": {
-        "name": "Modern Sounds in Country and Western Music, Vols 1 & 2",
-        "url": "https://open.spotify.com/album/4j4w5DDWMKD7ePStAl19OF"
-      },
-      "artists": [
-        {
-          "name": "Ray Charles",
-          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
-        }
-      ],
-      "duration_ms": 256120,
-      "name": "I Can't Stop Loving You",
-      "url": "https://open.spotify.com/track/79nJj5dMyTsUzKvN5jUXsJ"
-    },
-    {
-      "added_at": "2024-09-06 14:23:51",
-      "album": {
         "name": "Presenting The Chords",
         "url": "https://open.spotify.com/album/2Qw0tZfNYrKgAqqyrwDUkY"
       },
@@ -1951,6 +1935,22 @@
       "duration_ms": 147320,
       "name": "Sh-Boom",
       "url": "https://open.spotify.com/track/6Et6uBEIIDEforjX21VLZi"
+    },
+    {
+      "added_at": "2024-09-06 14:23:51",
+      "album": {
+        "name": "Modern Sounds in Country and Western Music, Vols 1 & 2",
+        "url": "https://open.spotify.com/album/4j4w5DDWMKD7ePStAl19OF"
+      },
+      "artists": [
+        {
+          "name": "Ray Charles",
+          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
+        }
+      ],
+      "duration_ms": 256120,
+      "name": "I Can't Stop Loving You",
+      "url": "https://open.spotify.com/track/79nJj5dMyTsUzKvN5jUXsJ"
     },
     {
       "added_at": "2024-09-06 14:23:51",

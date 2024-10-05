@@ -2,7 +2,7 @@
 
 ### [This Is Akon](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0gCG2c)
 
-> This is Akon\. Todos os maiores hits em uma só playlist.
+> This Is Akon\. Les titres incontournables, réunis dans une seule et même playlist.
 
 114 songs - 7 hr 3 min
 

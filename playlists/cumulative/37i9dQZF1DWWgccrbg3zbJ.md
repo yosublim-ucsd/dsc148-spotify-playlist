@@ -4,7 +4,7 @@
 
 > The classic recordings from Bossa Nova\. Cover: João Gilberto
 
-115 songs - 5 hr 58 min
+116 songs - 6 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Desafinado](https://open.spotify.com/track/7dm2MG1cI9oo3kZgpjMLFz) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [João Gilberto Apresenta Chega de Saudade](https://open.spotify.com/album/6eEhHeu8VTc5WemfyfgLY8) | 1:58 | 2023-05-03 | 2024-04-19 |
 | [Desde Que O Samba E Samba](https://open.spotify.com/track/1SL9baz3WrN29MAkeyvaHn) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ), [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [A Bossa De Caetano](https://open.spotify.com/album/4PVqfWHbgxXs9IElHBCMFy) | 5:08 | 2024-03-19 |  |
 | [Desde Que O Samba E Samba](https://open.spotify.com/track/6juNy6ewMDMU38YRpgcWR3) | [Caetano Veloso e Gilberto Gil](https://open.spotify.com/artist/0de6Qb2zkptulmWKNMlaSl) | [Tropicalia 2](https://open.spotify.com/album/2ybYLHauxa3H7MdxQmCDIg) | 5:11 | 2023-05-03 | 2024-04-19 |
+| [Dindi \- Live](https://open.spotify.com/track/3ZlYRldUJNor2B8ETwhT2I) | [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG), [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [Rio Revisited](https://open.spotify.com/album/5ODnlDDe8dxCN23lkc8RcI) | 5:20 | 2024-07-08 |  |
 | [Dindi \- Live](https://open.spotify.com/track/48RHQgGgCGI0q2Wyyl4cJu) | [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG), [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [Rio Revisited](https://open.spotify.com/album/1pvPrGENPU0yj9ocp0Zvpd) | 5:20 | 2023-05-03 | 2024-04-19 |
 | [Diz Que Fui Por Ai](https://open.spotify.com/track/6BAlnEh3wnUMpIBiuQQHYg) | [Nara Leão](https://open.spotify.com/artist/64KVQ4YupSZYrGNLduVtj3) | [Nara](https://open.spotify.com/album/6GupTGdWq2CPBZTn28joxE) | 2:08 | 2024-03-19 |  |
 | [Diz Que Fui Por Ai](https://open.spotify.com/track/28BSCtSAR6HQmdrt823rg4) | [Nara Leão](https://open.spotify.com/artist/64KVQ4YupSZYrGNLduVtj3) | [Nara \(1964\)](https://open.spotify.com/album/0DrdA7FNioWPk1wRaRuHn7) | 2:09 | 2023-05-03 | 2024-04-19 |
@@ -66,7 +67,7 @@
 | [Nova Bossa Nova](https://open.spotify.com/track/68K8VaazzURRjLf84yaOA3) | [Marcos Valle](https://open.spotify.com/artist/5I0EPnV9gwrZYTbScjnaOk) | [Nova Bossa Nova](https://open.spotify.com/album/7CgmxyKY28uY1Fgj01ZmMa) | 4:05 | 2023-05-03 |  |
 | [O Barquinho](https://open.spotify.com/track/2oBiFDhFwbEHYaGOf1Mfrb) | [Nara Leão](https://open.spotify.com/artist/64KVQ4YupSZYrGNLduVtj3) | [20 Grandes Sucessos De Nara Leao](https://open.spotify.com/album/3szAhEAqI6a0L2INCE1IrJ) | 3:05 | 2024-03-19 |  |
 | [O Barquinho](https://open.spotify.com/track/5TUmfePkCdoSYSavOykhau) | [Nara Leão](https://open.spotify.com/artist/64KVQ4YupSZYrGNLduVtj3) | [Obras\-Primas](https://open.spotify.com/album/6eVTZVohCd8lmcnPIrZ7GP) | 3:07 | 2023-05-03 | 2024-04-19 |
-| [O Grande Amor](https://open.spotify.com/track/21n8OogtCoE8INAOdGQ38M) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [João Gilberto Quintet](https://open.spotify.com/artist/3UmzVSTun6O0Qtn0wacusX), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Getz/Gilberto](https://open.spotify.com/album/69xayFuQfFKnxxSmHtNo6Y) | 5:27 | 2024-03-19 |  |
+| [O Grande Amor](https://open.spotify.com/track/21n8OogtCoE8INAOdGQ38M) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [João Gilberto Quintet](https://open.spotify.com/artist/3UmzVSTun6O0Qtn0wacusX), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Getz/Gilberto](https://open.spotify.com/album/69xayFuQfFKnxxSmHtNo6Y) | 5:27 | 2024-03-19 | 2024-10-05 |
 | [O Grande Amor](https://open.spotify.com/track/5GjCLHeNC77C0IbTkOU3tI) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [João Gilberto Quintet](https://open.spotify.com/artist/3UmzVSTun6O0Qtn0wacusX), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Getz/Gilberto \(Expanded Edition\)](https://open.spotify.com/album/2W6Hvrtg2Zpc9dW4aBDbdP) | 5:27 | 2023-05-03 | 2024-04-19 |
 | [O Morro Não Tem Vez](https://open.spotify.com/track/6fwICn8FWouigyB8BxfljW) | [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [The Composer Of Desafinado, Plays](https://open.spotify.com/album/3tW43cUkPyYkzzntfPwm4A) | 3:20 | 2023-05-03 | 2024-04-19 |
 | [O Pato](https://open.spotify.com/track/3Vjr3IYUWrhfcM1rmOXaIn) | [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [Gilbertos Samba](https://open.spotify.com/album/4CzqCaWsFEzNWWugq0EfUV) | 4:02 | 2023-05-03 | 2023-08-25 |

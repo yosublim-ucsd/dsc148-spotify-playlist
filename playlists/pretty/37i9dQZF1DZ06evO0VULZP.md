@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0VULZP.md) - [plain]
 
 ### [This Is Descendents](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0VULZP)
 
-> This is Descendents\. Todos os maiores hits em uma só playlist.
+> This is Descendents\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,292 likes - 44 songs - 1 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,299 likes - 44 songs - 1 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,11 +34,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0VULZP.md) - [plain]
 | 24 | [Feel This](https://open.spotify.com/track/2xYTsFE2JcJEZFBYfV2x56) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Hypercaffium Spazzinate \(Deluxe Edition\)](https://open.spotify.com/album/2hGGxQXnZpKXPmQJUgLGXS) | 1:14 |
 | 25 | [Talking](https://open.spotify.com/track/5MbtRgGNhwK2KdJFt39a8L) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Cool to Be You](https://open.spotify.com/album/52RKlgHaL9hv8VjlVa3YkB) | 2:27 |
 | 26 | [Nightage](https://open.spotify.com/track/0gNDfOiFi2HLe2uZerMAB7) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [9th & Walnut](https://open.spotify.com/album/2nWhDLqVYsmlsiw1K2PkFs) | 2:22 |
-| 27 | [Can't Go Back](https://open.spotify.com/track/3vCE0zXuuwLkhBFCZdtsbR) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [I Don't Want to Grow Up](https://open.spotify.com/album/7pjDCKTmSaK6t1vRA6e0wA) | 1:44 |
+| 27 | [I Don't Want to Grow Up](https://open.spotify.com/track/5agRly96hAJywJYZlZRiuA) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [I Don't Want to Grow Up](https://open.spotify.com/album/7pjDCKTmSaK6t1vRA6e0wA) | 1:21 |
 | 28 | [Victim Of Me](https://open.spotify.com/track/40ifWLszUQT675PpXGFH4T) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Hypercaffium Spazzinate \(Deluxe Edition\)](https://open.spotify.com/album/2hGGxQXnZpKXPmQJUgLGXS) | 1:36 |
 | 29 | [She Don't Care](https://open.spotify.com/track/1YvA35HudRjB00cQxYGUNa) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Cool to Be You](https://open.spotify.com/album/52RKlgHaL9hv8VjlVa3YkB) | 1:51 |
 | 30 | [Catalina](https://open.spotify.com/track/5XOFzbdObS7ASc0MFrCHcY) | [The Bronx](https://open.spotify.com/artist/7nqSDaZKccpnUqjzedyZF4), [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Dead Tracks, Vol\. 2](https://open.spotify.com/album/4ErXAsdor9LnNuLW4xyzRI) | 1:51 |
-| 31 | [I Don't Want to Grow Up](https://open.spotify.com/track/5agRly96hAJywJYZlZRiuA) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [I Don't Want to Grow Up](https://open.spotify.com/album/7pjDCKTmSaK6t1vRA6e0wA) | 1:21 |
+| 31 | [Can't Go Back](https://open.spotify.com/track/3vCE0zXuuwLkhBFCZdtsbR) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [I Don't Want to Grow Up](https://open.spotify.com/album/7pjDCKTmSaK6t1vRA6e0wA) | 1:44 |
 | 32 | [Smile](https://open.spotify.com/track/5bgrq2ys7hfJXEdP6ZlrDR) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Hypercaffium Spazzinate \(Deluxe Edition\)](https://open.spotify.com/album/2hGGxQXnZpKXPmQJUgLGXS) | 3:10 |
 | 33 | [Mass Nerder](https://open.spotify.com/track/7u972MeFIdqkmQodkqbBcx) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Cool to Be You](https://open.spotify.com/album/52RKlgHaL9hv8VjlVa3YkB) | 2:47 |
 | 34 | [Lullaby](https://open.spotify.com/track/2E9ttxZB1OpSmdkasZpYND) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [9th & Walnut](https://open.spotify.com/album/2nWhDLqVYsmlsiw1K2PkFs) | 1:01 |
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0VULZP.md) - [plain]
 | 43 | [Crepe Suzette](https://open.spotify.com/track/0ylpeLmX7i15s6IpMpBB8M) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [9th & Walnut](https://open.spotify.com/album/2nWhDLqVYsmlsiw1K2PkFs) | 1:05 |
 | 44 | [Sailor's Choice](https://open.spotify.com/track/0HfSlRenXUSBpouR8DNQ8V) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [9th & Walnut](https://open.spotify.com/album/2nWhDLqVYsmlsiw1K2PkFs) | 1:14 |
 
-Snapshot ID: `ZvyNAAAAAAAtD3UHupGQzbNy8EnF9auu`
+Snapshot ID: `Zv3egAAAAAC/Kz48lWvN7FceseOYKyC7`

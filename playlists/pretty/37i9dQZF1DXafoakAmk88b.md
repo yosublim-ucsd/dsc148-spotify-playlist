@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafoakAmk88b.md) - [plain]
 
 > New indie from black artists driving the current\. Cover: Jelani Aryeh
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,561 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,587 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafoakAmk88b.md) - [plain]
 | 20 | [act viii: i hate to be alone](https://open.spotify.com/track/1jIu9uVVYaP3x09HLjikQ3) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7) | [u made me a st4r](https://open.spotify.com/album/49JXgb1wGpDCdhnHglwpqr) | 2:47 |
 | 21 | [Who Did You Touch?](https://open.spotify.com/track/3YngBnCS5hVTrF0fu2EYGG) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Who Did You Touch?](https://open.spotify.com/album/4XBvrhmXpxJBV87B1Oh0a7) | 3:28 |
 | 22 | [Dive](https://open.spotify.com/track/39X2xdmnX3UAWNmyhKdVtc) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Dive](https://open.spotify.com/album/3R7QQAIWQNYV5I2GViJqee) | 3:20 |
-| 23 | [A Girl Like You](https://open.spotify.com/track/7hLkwgguzGRq1rTyA3P9pr) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [A Girl Like You](https://open.spotify.com/album/21bl39xHspuIISAteKFXoq) | 1:56 |
-| 24 | [Waiting In Vain \- Bob Marley: One Love \- Music Inspired By The Film](https://open.spotify.com/track/66TTutUCqCpAzGCBcsBuYy) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Waiting In Vain \(Bob Marley: One Love \- Music Inspired By The Film\)](https://open.spotify.com/album/6ZKGdyXuM5z1nYuCx6YjWP) | 5:01 |
+| 23 | [Waiting In Vain \- Bob Marley: One Love \- Music Inspired By The Film](https://open.spotify.com/track/66TTutUCqCpAzGCBcsBuYy) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Waiting In Vain \(Bob Marley: One Love \- Music Inspired By The Film\)](https://open.spotify.com/album/6ZKGdyXuM5z1nYuCx6YjWP) | 5:01 |
+| 24 | [A Girl Like You](https://open.spotify.com/track/7hLkwgguzGRq1rTyA3P9pr) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [A Girl Like You](https://open.spotify.com/album/21bl39xHspuIISAteKFXoq) | 1:56 |
 | 25 | [run!](https://open.spotify.com/track/7oqUxlU0mEv4fGt1CZ727y) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [empathogen](https://open.spotify.com/album/5jsfwcWxZIPtF5aaWx0mlL) | 3:08 |
 | 26 | [Capable of love](https://open.spotify.com/track/52qxHBgcQGVV2JrMwPhYJl) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Heaven knows](https://open.spotify.com/album/2pOEFqvfxp5uUQ8vQEmVA0) | 3:43 |
 | 27 | [Is It Magic?](https://open.spotify.com/track/4mRX0FjuzicwZWbkRAE0Ht) | [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq) | [Is It Magic?](https://open.spotify.com/album/52tH77HLGn8Dq3zjXQn20e) | 3:08 |

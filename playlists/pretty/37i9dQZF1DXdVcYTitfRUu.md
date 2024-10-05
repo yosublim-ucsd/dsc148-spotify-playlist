@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVcYTitfRUu.md) - [plain]
 
 > 감성 가득한 노래와 함께 부드럽게 핸들을 돌려보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,525 likes - 80 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,533 likes - 80 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVcYTitfRUu.md) - [plain]
 | 10 | [Bam Yang Gang](https://open.spotify.com/track/5juCu4WFTFRZ2XilopAMTy) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Bam Yang Gang](https://open.spotify.com/album/4QJZzFdGz2YlPZEHAlAJ6O) | 2:26 |
 | 11 | [Tell Me It's Not a Dream](https://open.spotify.com/track/7nxoUuqcsDfv3PsPGeciWy) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Queen of Tears \(Original Television Soundtrack\), Pt.2](https://open.spotify.com/album/0hJiHeURXoUEZMjiUxpbc6) | 3:55 |
 | 12 | [Don't Go Insane](https://open.spotify.com/track/5LWWAw887ODAUvR2LR1kDg) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [Dear Insanity...](https://open.spotify.com/album/0tOtw8pNMRmDa57nZ6GZ9Q) | 3:24 |
-| 13 | [Stuck In The Middle](https://open.spotify.com/track/1Ad4anaX6hJyfZvVDkrKQg) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [Stuck In The Middle](https://open.spotify.com/album/7anlDz5EpVJ4aXmWvaSbzM) | 4:06 |
-| 14 | [Hold Me Back](https://open.spotify.com/track/69Bx1c9Hzv7IZGkLyFCeMw) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Queen of Tears \(Original Television Soundtrack\), Pt.3](https://open.spotify.com/album/2pnbrVkxwo8uEBMg1J1GqE) | 3:52 |
+| 13 | [Hold Me Back](https://open.spotify.com/track/69Bx1c9Hzv7IZGkLyFCeMw) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Queen of Tears \(Original Television Soundtrack\), Pt.3](https://open.spotify.com/album/2pnbrVkxwo8uEBMg1J1GqE) | 3:52 |
+| 14 | [Stuck In The Middle](https://open.spotify.com/track/1Ad4anaX6hJyfZvVDkrKQg) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [Stuck In The Middle](https://open.spotify.com/album/7anlDz5EpVJ4aXmWvaSbzM) | 4:06 |
 | 15 | [Warmth](https://open.spotify.com/track/3vnaEaDxMKdBhqA1t0uAwl) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [Warmth](https://open.spotify.com/album/700oyQvND1pNIADYqOkrre) | 3:55 |
 | 16 | [Love, Maybe](https://open.spotify.com/track/2X45nVBeYzmDlrXji9Av0Q) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [Love, Maybe \(A Business Proposal OST Special Track\)](https://open.spotify.com/album/5lKdnY9bGYUyfaJhcRnHgk) | 3:05 |
 | 17 | [DIE 4 YOU](https://open.spotify.com/track/7yZD4AVfQtAZD4cG8eRnPk) | [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF) | [DIE 4 YOU](https://open.spotify.com/album/0FMkdX3YNx7Ez7pv3XRGzr) | 3:14 |
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVcYTitfRUu.md) - [plain]
 | 48 | [Still You](https://open.spotify.com/track/7pIpkUJOiFghCDLxono6qC) | [SEUNGKWAN](https://open.spotify.com/artist/0Vb2DjojEYsasFpc3aTZb6) | [Romantic Doctor 3 OST Part.4](https://open.spotify.com/album/76EcPCpVlaS2IJWTuQgGmf) | 3:49 |
 | 49 | [Just Watching You](https://open.spotify.com/track/0pPl0eb7HcfwuXkFZqp4TU) | [JEONG SEWOON](https://open.spotify.com/artist/2l9aF9jOgB7GI1uyNkx836) | [Alchemy of Souls, Pt\. 3 \(Original Television Soundtrack\)](https://open.spotify.com/album/5FEmnt9FCOivDPeAfNxuin) | 4:02 |
 | 50 | [Hongdae R&B](https://open.spotify.com/track/5TIwTvdD7OpJBt0tqIWLH3) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Hongdae R&B](https://open.spotify.com/album/7v7uC2wkD1Jh95G9Y5gbJb) | 3:02 |
-| 51 | [Love Is Ugly \(Feat\. Hwa Sa\)](https://open.spotify.com/track/3MUmPh3UxWs9p25e6B3M7N) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [HWASA](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [Yesterday](https://open.spotify.com/album/2SrVGg8uLdBqztuflHxiiT) | 3:43 |
-| 52 | [A Letter](https://open.spotify.com/track/0VdwOoAKPe9aGahkpllfkH) | [BUMJIN](https://open.spotify.com/artist/3vljSA6N2aSE8U3OhNFkPy) | [A Letter](https://open.spotify.com/album/5XOHCaEeZyiKWDMZ3h2zbZ) | 3:35 |
+| 51 | [A Letter](https://open.spotify.com/track/0VdwOoAKPe9aGahkpllfkH) | [BUMJIN](https://open.spotify.com/artist/3vljSA6N2aSE8U3OhNFkPy) | [A Letter](https://open.spotify.com/album/5XOHCaEeZyiKWDMZ3h2zbZ) | 3:35 |
+| 52 | [Love Is Ugly \(Feat\. Hwa Sa\)](https://open.spotify.com/track/3MUmPh3UxWs9p25e6B3M7N) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [HWASA](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [Yesterday](https://open.spotify.com/album/2SrVGg8uLdBqztuflHxiiT) | 3:43 |
 | 53 | [Dear my X](https://open.spotify.com/track/0UnOf7i44YK0ULpkEGHe4R) | [KyoungSeo](https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA) | [Dear my X](https://open.spotify.com/album/5BOrfMmeO7t7pDqhZNIhej) | 3:07 |
 | 54 | [Propose](https://open.spotify.com/track/1ukIcsvbaFhtsKmvJPAyMZ) | [Lee Mujin](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC) | [Propose](https://open.spotify.com/album/5UdE8Wt0gAZ2KVgF5n0Y6z) | 4:22 |
 | 55 | [It's You](https://open.spotify.com/track/3YP99J8wTzG55t1cFmd6iq) | [PARK WON](https://open.spotify.com/artist/1XujSdsxykPhP3dn6HaT4l) | [Destined with You \(Original Television Soundtrack\), Pt.1](https://open.spotify.com/album/45i3tB9z0dgJ33olyrsLUz) | 3:23 |
@@ -84,9 +84,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVcYTitfRUu.md) - [plain]
 | 74 | [LOVE RECIPE](https://open.spotify.com/track/5R8MbzkUpTigzAXHsnoYpq) | [SOYOU](https://open.spotify.com/artist/3b4kLCI0ZJW47TFsNRqgCb), [Junggigo](https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb) | [WONDO Project : LOVE RECIPE, Vol.1](https://open.spotify.com/album/7lPcHUovL3U9KU72VCPqJ7) | 3:51 |
 | 75 | [Heart](https://open.spotify.com/track/1BuA7GJXWD6P9LMShz7YSt) | [DK](https://open.spotify.com/artist/4l7mkcB0cZgIQrcd2AsQI3) | [Heart](https://open.spotify.com/album/3MGuNgtEJTCkgHtiMFfARP) | 4:17 |
 | 76 | [Shining on Your Night](https://open.spotify.com/track/0w8gFJyJ2QmNDsHYy0KEa6) | [Jinyoung](https://open.spotify.com/artist/0cA67OQaC4zDkxvGmWqKu7) | [YUMI's Cells 2, Pt\. 3 \(Original Television Soundtrack\)](https://open.spotify.com/album/5mwZc68D7ZattMx8VPUDLN) | 3:42 |
-| 77 | [Only you](https://open.spotify.com/track/6GukZESVRKPnnz4vZGUNxC) | [Tophyun](https://open.spotify.com/artist/4g7R2X5sUsylJwYxnfwCJR) | [Only you](https://open.spotify.com/album/6sk67Q2zl9EQezx5Edm8hx) | 3:10 |
-| 78 | [Fxxxnds \(Feat\. Kim Min Seok of MeloMance\)](https://open.spotify.com/track/0S2GNnqAHC96zqB8ZIcxg4) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [Kim MinSeok](https://open.spotify.com/artist/3CHn74oCO6xiThDGQcDMeA) | [Fxxxnds](https://open.spotify.com/album/7rwRRay2hz12bl652kIOTH) | 3:29 |
+| 77 | [Fxxxnds \(Feat\. Kim Min Seok of MeloMance\)](https://open.spotify.com/track/0S2GNnqAHC96zqB8ZIcxg4) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [Kim MinSeok](https://open.spotify.com/artist/3CHn74oCO6xiThDGQcDMeA) | [Fxxxnds](https://open.spotify.com/album/7rwRRay2hz12bl652kIOTH) | 3:29 |
+| 78 | [Only you](https://open.spotify.com/track/6GukZESVRKPnnz4vZGUNxC) | [Tophyun](https://open.spotify.com/artist/4g7R2X5sUsylJwYxnfwCJR) | [Only you](https://open.spotify.com/album/6sk67Q2zl9EQezx5Edm8hx) | 3:10 |
 | 79 | [Blue mood](https://open.spotify.com/track/6xGDC4fXG9luyGcEKognnT) | [entoy](https://open.spotify.com/artist/25OMfKk5AnZxUdzwDy3bOj), [suru](https://open.spotify.com/artist/2yXGQV7YrtoaLyJsxTqUNe) | [Lost Mood](https://open.spotify.com/album/0r5N2nH1VGrbYYp5wkERkh) | 2:39 |
-| 80 | [Breath](https://open.spotify.com/track/3FduLmIal9YnzHZp2vTZKl) | [Kim Na Young](https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk) | [Alchemy of Souls, Pt\. 6 \(Original Television Soundtrack\)](https://open.spotify.com/album/6ORZQE6DlroG3iYfnv1kLa) | 4:27 |
+| 80 | [Because I Don't Love You](https://open.spotify.com/track/5mdl3TlXrImNPrIo3aO70q) | [Onestar](https://open.spotify.com/artist/6EmgTIhhXGtfAmYYTfdtlz) | [Because I Don't Love You](https://open.spotify.com/album/7LX3cJhfSEBEX8zhw1LrKU) | 3:43 |
 
 Snapshot ID: `ZvDdAwAAAADH4GFQxxJPs7jfWNSPWvWK`

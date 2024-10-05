@@ -2,9 +2,9 @@
 
 ### [K\-Folk/Acoustic](https://open.spotify.com/playlist/37i9dQZF1DX1wdZM1FEz79)
 
-> Chillout to the coolest Korean folk/acoustic tunes\. \(Cover: LENA\(레나\)\) 감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
+> Chillout to the coolest Korean folk/acoustic tunes\. \(Cover: Stella Jang\(스텔라장\)\) 감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
 
-533 songs - 1 day 7 hr 40 min
+534 songs - 1 day 7 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [Begin Again Open MIC EPISODE\. 13 \- Cactus](https://open.spotify.com/track/7HyFV9XyVMu8ZbbOMvMPgO) | [CAR, THE GARDEN](https://open.spotify.com/artist/0gqEtTORPrOqWJWElLvDQ3) | [Begin Again Open MIC EPISODE\. 13 \- Cactus](https://open.spotify.com/album/3QdHo5KB3EKyc0uapPsPJ0) | 3:19 | 2022-01-13 | 2022-07-14 |
 | [Behind the camera](https://open.spotify.com/track/1RAX3WtuQY3TyktqzAdUH8) | [eSNa](https://open.spotify.com/artist/2jfAd4z4B5dR7yhhwTOulQ) | [Behind the camera](https://open.spotify.com/album/7JPpktvZ0OGvK0m3TkMQbY) | 3:58 | 2022-07-04 | 2022-08-10 |
 | [Best regards](https://open.spotify.com/track/3owGb3JGbkRAWZjnCBj3Ic) | [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V) | [Best regards](https://open.spotify.com/album/68ZALvGpKI9Q8VEHUtodNN) | 3:18 | 2022-03-07 | 2022-04-21 |
-| [Blame The Summer](https://open.spotify.com/track/6qKlzXAyGK0eWeSQZEgcPJ) | [LENA](https://open.spotify.com/artist/7DgPtuRm6ydMd3jxoeW0TR) | [Blame The Summer](https://open.spotify.com/album/0Q4tPpbf96cgJjlfG9rs7y) | 3:28 | 2024-09-23 |  |
+| [Blame The Summer](https://open.spotify.com/track/6qKlzXAyGK0eWeSQZEgcPJ) | [LENA](https://open.spotify.com/artist/7DgPtuRm6ydMd3jxoeW0TR) | [Blame The Summer](https://open.spotify.com/album/0Q4tPpbf96cgJjlfG9rs7y) | 3:28 | 2024-09-23 | 2024-10-05 |
 | [Bloom](https://open.spotify.com/track/3ANZUoigx1r1GgZJMqbMwY) | [Moonbit](https://open.spotify.com/artist/5rwDc7dGKrtZg9TN1vsSPx) | [Bloom](https://open.spotify.com/album/3tePaoi07rPbKErbdBwE3w) | 3:35 | 2022-04-12 | 2022-04-16 |
 | [Blue](https://open.spotify.com/track/3qjnIcGn7hp9iDYiaAt1oO) | [Choix2](https://open.spotify.com/artist/14RtqJKZMfdKYwObLGvnmV), [COE](https://open.spotify.com/artist/7Ld7na2w621hxwAQRfzpA2) | [Blue](https://open.spotify.com/album/7M3HVFFPw2ajPY5gsKMARe) | 3:06 | 2022-04-12 | 2022-04-20 |
 | [Blue cup](https://open.spotify.com/track/10iDbo5A1SPN384YGLCgp2) | [PERC%NT](https://open.spotify.com/artist/0cjZuJ13yFVPa5Nn0YUTbx) | [OVERHAUL](https://open.spotify.com/album/2knl4OxinpGhYjUstyDXmB) | 2:55 | 2022-01-10 | 2022-04-03 |
@@ -234,6 +234,7 @@
 | [Keep This Moment](https://open.spotify.com/track/0ykk20f023G61Ds0IeF4KB) | [JINHO](https://open.spotify.com/artist/3hFLEV38JDeNr3L0HIkeG0) | [Keep This Moment \(From "Going to You at a Speed of 493km" \[Original Soundtrack\]\), Pt.4](https://open.spotify.com/album/5j7JmzdgWs2VSyGLod2VKs) | 3:20 | 2022-05-13 | 2022-05-31 |
 | [Kim Cheolsu Story](https://open.spotify.com/track/48mBeNB9eRSxbPn9bDIcyn) | [Heo Hoy Kyung](https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl) | [Kim Cheolsu Story](https://open.spotify.com/album/7hvLtgOO2CbZkEhrsjjlC2) | 4:08 | 2022-01-13 |  |
 | [knock \(Vocal by YOONA\)](https://open.spotify.com/track/7tARXrGfGoujF5wjwHYSW1) | [Epitone Project](https://open.spotify.com/artist/0RLe3YEakXpt0FEXyFtwgN) | [knock](https://open.spotify.com/album/1esBidl6GhZiW8qpsejsXT) | 3:17 | 2023-11-16 | 2023-12-06 |
+| [La Danse De La Joie](https://open.spotify.com/track/1PesmnG3M2KOjYnaq3ppR5) | [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) | [LOVE in the BIG CITY \(Special pre\-release \- Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7KkI5zdnZdJufxzDW1aGWp) | 2:28 | 2024-10-04 |  |
 | [laputa](https://open.spotify.com/track/6mWT5oEv9Wzo1KS6jKKv63) | [1set](https://open.spotify.com/artist/3yJkmzLpEtKsiR2g1cVNQl) | [laputa](https://open.spotify.com/album/4D9zbUsH9mRlf5prtdu5fQ) | 3:02 | 2022-03-31 | 2022-04-21 |
 | [Last](https://open.spotify.com/track/2ZrKUv6I0r52XuDNYPULps) | [Eddy Kim](https://open.spotify.com/artist/1sVSMPPNMMSZ7cQNfbvMOe) | [Miles Apart](https://open.spotify.com/album/1OmyHS4uPSMbqeHWw2G5CK) | 4:06 | 2022-03-31 | 2022-04-13 |
 | [Late Night Walk](https://open.spotify.com/track/3pzyC2zklDL1GFW41lWoWm) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [5.6 \[Late Night Walk\]](https://open.spotify.com/album/5IP9ctHpvSgG0YmR2Y5rAg) | 3:54 | 2024-04-26 |  |

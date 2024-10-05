@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 
 > All the highlights from the world of indie! Cover: flora cash
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,005 likes - 123 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,029 likes - 123 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Even \(with Cat Burns\)](https://open.spotify.com/track/5CeJU8nNGuwR6LWUzJa5QF) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP), [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [Even \(with Cat Burns\)](https://open.spotify.com/album/6uxqYbEgP9HE4twJFCZCIQ) | 2:31 |
 | 2 | [S P E Y S I D E](https://open.spotify.com/track/6khKJVbTxzfhbGfHMtyOM8) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [S P E Y S I D E](https://open.spotify.com/album/5VFsihsTprFnqRHyrNxMPs) | 3:29 |
-| 3 | [Snowpath](https://open.spotify.com/track/1e1QnRkEXG5HFMOUFo3V4L) | [Jonah Yano](https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Snowpath](https://open.spotify.com/album/53piZ0a4vXwSbHZrymx7rT) | 2:13 |
-| 4 | [Weekend Boy](https://open.spotify.com/track/2SBXmWWHWuG12G7S7SKvwA) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Good Neighbours](https://open.spotify.com/album/1iArxZvJgmmlTo6VwuHvll) | 2:51 |
-| 5 | [Du borde säga förlåt](https://open.spotify.com/track/49ad6wcUMGCD9h5xFrhXoY) | [Nadja Evelina](https://open.spotify.com/artist/2LiW9iY4e5Mtfaoj5bdaRC) | [Du borde säga förlåt](https://open.spotify.com/album/4YosBhLppAzSyv2JmWGmyh) | 2:09 |
-| 6 | [Fatal Attraction](https://open.spotify.com/track/0b5up2T3vfmZjnzM1xLbef) | [NONONO](https://open.spotify.com/artist/513t0jZUP0K98C4h7KHtEb) | [Fatal Attraction](https://open.spotify.com/album/24P1xcQdfy42ogH1LB8O6F) | 3:27 |
-| 7 | [Midnight Shining](https://open.spotify.com/track/3mYsAOZUuqeqVwQw0BAdgv) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Midnight Shining](https://open.spotify.com/album/3fCh7BiO2OHPrZvjhVGvNP) | 3:32 |
-| 8 | [just wanna feel you](https://open.spotify.com/track/7JRnhZufyoIWh3N7kjyDOd) | [flora cash](https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd) | [just wanna feel you](https://open.spotify.com/album/6lH3TikBHRhxBRr6sMsKzQ) | 3:40 |
+| 3 | [just wanna feel you](https://open.spotify.com/track/7JRnhZufyoIWh3N7kjyDOd) | [flora cash](https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd) | [just wanna feel you](https://open.spotify.com/album/6lH3TikBHRhxBRr6sMsKzQ) | 3:40 |
+| 4 | [Snowpath](https://open.spotify.com/track/1e1QnRkEXG5HFMOUFo3V4L) | [Jonah Yano](https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Snowpath](https://open.spotify.com/album/53piZ0a4vXwSbHZrymx7rT) | 2:13 |
+| 5 | [Weekend Boy](https://open.spotify.com/track/2SBXmWWHWuG12G7S7SKvwA) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Good Neighbours](https://open.spotify.com/album/1iArxZvJgmmlTo6VwuHvll) | 2:51 |
+| 6 | [Du borde säga förlåt](https://open.spotify.com/track/49ad6wcUMGCD9h5xFrhXoY) | [Nadja Evelina](https://open.spotify.com/artist/2LiW9iY4e5Mtfaoj5bdaRC) | [Du borde säga förlåt](https://open.spotify.com/album/4YosBhLppAzSyv2JmWGmyh) | 2:09 |
+| 7 | [Fatal Attraction](https://open.spotify.com/track/0b5up2T3vfmZjnzM1xLbef) | [NONONO](https://open.spotify.com/artist/513t0jZUP0K98C4h7KHtEb) | [Fatal Attraction](https://open.spotify.com/album/24P1xcQdfy42ogH1LB8O6F) | 3:27 |
+| 8 | [Midnight Shining](https://open.spotify.com/track/3mYsAOZUuqeqVwQw0BAdgv) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Midnight Shining](https://open.spotify.com/album/3fCh7BiO2OHPrZvjhVGvNP) | 3:32 |
 | 9 | [I'm Not Ready To Go](https://open.spotify.com/track/5zOaXxYlOm67a6lMn1AE8I) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Goodbye to the Valley Low \- Side B](https://open.spotify.com/album/2SRsyHHPOXRwwe56K8LCcZ) | 4:22 |
 | 10 | [Neverland](https://open.spotify.com/track/164D6yMFZ6F0NyfkLNKU4V) | [Molina](https://open.spotify.com/artist/0pxhu7zSqPjBTUWMl6piHF) | [Neverland](https://open.spotify.com/album/07r23NGBL1nKdpDaMsmbtk) | 3:11 |
 | 11 | [Gråt](https://open.spotify.com/track/1XnsiujsuEfUIMCvLCE6Hw) | [Den svenska björnstammen](https://open.spotify.com/artist/0NyrvUybTePmsuED5vZi4G) | [Gråt](https://open.spotify.com/album/5H8HWRcfxJNQhyYTx9bszp) | 3:53 |
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 | 27 | [Livs levande lik](https://open.spotify.com/track/4jEdKp4Tph3NlGN8OAW14Q) | [SJUK HUS](https://open.spotify.com/artist/05YXRz6lUtBwK5EqIYWZWK) | [Livs levande lik](https://open.spotify.com/album/5GKhaAG7TtE74IAy58ltGW) | 2:23 |
 | 28 | [Alone](https://open.spotify.com/track/7zHhP0CHO4cONkImJ0Oau6) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Alone](https://open.spotify.com/album/5Fe0AaIdua2BPx5cTXMM4M) | 6:48 |
 | 29 | [Josephine](https://open.spotify.com/track/57KEhRQ7WjjYHjTIMBL8t0) | [Albin Lee Meldau](https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK), [Lissie](https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt) | [Josephine](https://open.spotify.com/album/4uOsx4KUO4ziKOeKQOZhpH) | 3:43 |
-| 30 | [Do you wanna \- Fine & Molina Edit](https://open.spotify.com/track/6xTOSlWaiBRiVj3Xh265FL) | [Astrid Sonne](https://open.spotify.com/artist/7qiyPneI60DzZmxVxC7689), [Fine](https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5), [Molina](https://open.spotify.com/artist/0pxhu7zSqPjBTUWMl6piHF) | [EDITS](https://open.spotify.com/album/3Q4ckErENVJA9V1nx3pMS4) | 2:25 |
+| 30 | [Do you wanna \- Fine + Molina EDIT](https://open.spotify.com/track/6xTOSlWaiBRiVj3Xh265FL) | [Astrid Sonne](https://open.spotify.com/artist/7qiyPneI60DzZmxVxC7689), [Fine](https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5), [Molina](https://open.spotify.com/artist/0pxhu7zSqPjBTUWMl6piHF) | [Great Doubt \(EDITS\)](https://open.spotify.com/album/3Q4ckErENVJA9V1nx3pMS4) | 2:25 |
 | 31 | [Fakta: Fucked Up](https://open.spotify.com/track/7Jk9NlMb2fThaDOYRC52kC) | [Markus Krunegård](https://open.spotify.com/artist/3P6ePaE5unCm7vjccfcBAe) | [Fakta: Fucked Up](https://open.spotify.com/album/3N3rwYkqqBRkzMmo6uqShJ) | 3:59 |
 | 32 | [Go Where I Wanna Go](https://open.spotify.com/track/5K9HayAodE0zuiWlb7aXKF) | [Pont Us](https://open.spotify.com/artist/5CoGJKGyZA366aCOKWMgHA) | [Go Where I Wanna Go](https://open.spotify.com/album/3RxCDDqe8ypof6xj3L7KxQ) | 11:54 |
 | 33 | [Blue Sky & The Painter](https://open.spotify.com/track/1xuQoznYFrrw493RCb4IS9) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [“&” \(Ampersand\), Part Two](https://open.spotify.com/album/3vtvRu36Sh69lyYkMHY352) | 3:52 |
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 | 51 | [Head Above Water](https://open.spotify.com/track/280voyNiWMpSELBtCuMVCs) | [Nectar Woode](https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK) | [Head Above Water](https://open.spotify.com/album/243xtJO49rvMqy5yx1DYxz) | 3:10 |
 | 52 | [Jocelyn](https://open.spotify.com/track/4kTJ1qEFzbqt1sSigWVzWJ) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Jocelyn](https://open.spotify.com/album/2irLfxkqc0T040cfaQ5EkT) | 3:32 |
 | 53 | [Organs](https://open.spotify.com/track/6HcEgKWXGnsXTKLFYozdOO) | [Molina](https://open.spotify.com/artist/0pxhu7zSqPjBTUWMl6piHF), [ML Buch](https://open.spotify.com/artist/3NsSv8HchEwfa7bGkjb4ZC) | [Organs](https://open.spotify.com/album/76u3zEekWcNipqChvHjTkc) | 4:47 |
-| 54 | [Give my all \- Blood Orange Edit](https://open.spotify.com/track/7pIZ4V6hb57l25JMAwPXg7) | [Astrid Sonne](https://open.spotify.com/artist/7qiyPneI60DzZmxVxC7689), [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [EDITS](https://open.spotify.com/album/3Q4ckErENVJA9V1nx3pMS4) | 3:10 |
+| 54 | [Give my all \- Blood Orange EDIT](https://open.spotify.com/track/7pIZ4V6hb57l25JMAwPXg7) | [Astrid Sonne](https://open.spotify.com/artist/7qiyPneI60DzZmxVxC7689), [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Great Doubt \(EDITS\)](https://open.spotify.com/album/3Q4ckErENVJA9V1nx3pMS4) | 3:10 |
 | 55 | [Wild Horses](https://open.spotify.com/track/7v8cpnWN2qbmMF7VTwg7lr) | [Sunnan](https://open.spotify.com/artist/6sDExcZxGSSO9RMTtBDnAh) | [Cinema](https://open.spotify.com/album/2bxGYnrExMRNgevKUDFnSc) | 3:51 |
 | 56 | [Keep On Dreaming](https://open.spotify.com/track/0uKLmL3J1H6XTWMAIbaKZO) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [The Greatest Love \(Deluxe\)](https://open.spotify.com/album/07SLbCNKDZmqyLIRbLjQyO) | 3:55 |
 | 57 | [Molnen](https://open.spotify.com/track/1Kc332mhHsU8KnNVJ5Ytzv) | [Klara Tuva](https://open.spotify.com/artist/5x0bjg1UeCRvFr8kUyj3fk) | [Speglarna mot solen](https://open.spotify.com/album/0oP2n65EIgQX7gEsd6b24U) | 3:33 |
@@ -132,4 +132,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 | 122 | [Nomad](https://open.spotify.com/track/5NR7XN88d1NhOXKR0vD5XK) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Nomad](https://open.spotify.com/album/6Utl8nDyt1rOSXA2vOnqdq) | 3:45 |
 | 123 | [All Day](https://open.spotify.com/track/32j1YuaC7HP0ukGGimVI3n) | [Noak Hellsing](https://open.spotify.com/artist/47WlUGFrUj1hDhjzX1l6nc) | [All Day](https://open.spotify.com/album/0WllqZUSAvlWsgorqEeNtO) | 2:37 |
 
-Snapshot ID: `Zv8T4AAAAAA7vISE3laeP8Ix1wcDKRhL`
+Snapshot ID: `Zv+ZyQAAAADB1AaLbLkTDdOWQDaYvU7W`

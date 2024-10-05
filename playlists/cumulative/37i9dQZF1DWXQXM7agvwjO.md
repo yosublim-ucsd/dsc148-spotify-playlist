@@ -4,7 +4,7 @@
 
 > Hottest indie sound from Asia\. Cover: Dinosaur’s Skin \(Taiwan\)
 
-1,556 songs - 3 day 21 hr 58 min
+1,557 songs - 3 day 22 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1275,7 +1275,7 @@
 | [Two Kites](https://open.spotify.com/track/7r3nlllhf2XYp1Qkh8Tu80) | [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d), [Noi Naa](https://open.spotify.com/artist/6pGbf7xv8t7Qt2HYWceGm2), [YONLAPA](https://open.spotify.com/artist/65IzDDRlZuKIBe0QCG68Cu) | [Two Kites](https://open.spotify.com/album/4mzQC5WPtOwkISn8ogQXCp) | 2:46 | 2023-09-07 | 2023-11-27 |
 | [Tàu Biển](https://open.spotify.com/track/0Rb6t9HNbdIj41apUiN9wl) | [KoQuet](https://open.spotify.com/artist/0byMH77phBn6NVdV44rXvv) | [Tàu Biển](https://open.spotify.com/album/1IuJCra9lGMb1U0FVcjMfM) | 3:24 | 2022-04-21 | 2022-06-10 |
 | [UMA](https://open.spotify.com/track/2qZiHuLxK7jhLrVL5Jwf3C) | [xiexie](https://open.spotify.com/artist/2DyQQPH4aNO84GVSIoHdkV) | [wellwell](https://open.spotify.com/album/2cLFAGnUKisFEgjp0JVNY0) | 2:57 | 2024-06-13 | 2024-07-05 |
-| [UMAMI](https://open.spotify.com/track/2O69clP6C6Jipc9jSOYWx8) | [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh), [The Crane](https://open.spotify.com/artist/7naloiyHdmw1HsJd95OYDL), [whoosh](https://open.spotify.com/artist/75SZZT7Gh4mjvmAbuKdzLA) | [UMAMI](https://open.spotify.com/album/1Ja6sE2nTmSFRUWJKuo48g) | 3:22 | 2023-10-27 |  |
+| [UMAMI](https://open.spotify.com/track/2O69clP6C6Jipc9jSOYWx8) | [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh), [The Crane](https://open.spotify.com/artist/7naloiyHdmw1HsJd95OYDL), [whoosh](https://open.spotify.com/artist/75SZZT7Gh4mjvmAbuKdzLA) | [UMAMI](https://open.spotify.com/album/1Ja6sE2nTmSFRUWJKuo48g) | 3:22 | 2023-10-27 | 2024-10-05 |
 | [Umiinit](https://open.spotify.com/track/2BtALVUCAnFvAUwHki5LEg) | [Lola Amour](https://open.spotify.com/artist/29zSTMejPhY0m7kwNQ9SPI) | [Lola Amour](https://open.spotify.com/album/11RYeRVMyewvGzrBo5UigQ) | 3:00 | 2024-04-11 | 2024-08-02 |
 | [Undercover Plan](https://open.spotify.com/track/53ww1Gn8vUtB7tjIJHhiGC) | [Yokkorio](https://open.spotify.com/artist/5yGZhAsU9EHqFszyq19jXg) | [Undercover Plan](https://open.spotify.com/album/0LA1xWNFeUUnMMB4Op9GJ0) | 3:18 | 2024-09-26 | 2024-10-04 |
 | [Underwater](https://open.spotify.com/track/6ZSuR67JyS5TfIJB7w4mzJ) | [dosii](https://open.spotify.com/artist/41lcf5k3PkUdxupYLkcjCd) | [Underwater](https://open.spotify.com/album/2vyicJhKdhKtCBj1UdQJy7) | 4:03 | 2022-05-19 | 2022-07-01 |
@@ -1518,6 +1518,7 @@
 | [我變了](https://open.spotify.com/track/2gLecIEf04d3hORpt1gxC8) | [Shallow Levée](https://open.spotify.com/artist/6xDRh6bnmn1CQhRUntBka9) | [好不容易我變了](https://open.spotify.com/album/2qFZjXJVyRtBVCKPYZ0Sxy) | 2:26 | 2024-07-25 | 2024-09-01 |
 | [房屋供應問題](https://open.spotify.com/track/5GOI8Z0pzra4ZJcERjTbFw) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [房屋供應問題](https://open.spotify.com/album/7ncE4lTIsZrWtoy1KuXRkp) | 2:10 | 2023-10-12 |  |
 | [房間](https://open.spotify.com/track/6EK4N31T47t96XHPIg1nr7) | [溫室雜草](https://open.spotify.com/artist/6DZ6tvZTWTDO1vEBvUYfbP) | [房間](https://open.spotify.com/album/05f9wEo5Xoi6YnXinMu7kK) | 3:58 | 2022-03-24 | 2022-05-07 |
+| [手機錢包鑰匙菸 feat.Crowd Lu](https://open.spotify.com/track/67aEhtXw9vYZKgyVLhkblq) | [Amazing Show](https://open.spotify.com/artist/3n16EAnJtz6SZGx2zJssrI), [Crowd Lu](https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD) | [Amazing Show同名專輯](https://open.spotify.com/album/7DEWBNaWhhqgjai4w7Mcau) | 3:20 | 2024-10-03 |  |
 | [拉麵公子 Ramen Boy](https://open.spotify.com/track/6gn8E9FPBNbrrb6tKS14av) | [The Crane](https://open.spotify.com/artist/7naloiyHdmw1HsJd95OYDL) | [鶴園 Crane Garden](https://open.spotify.com/album/1g2jXMntes7PL3ruv7Ghrh) | 4:54 | 2022-03-24 | 2023-05-12 |
 | [擁擠的城市還開著燈](https://open.spotify.com/track/4w6NLBZwMAfexiPzF1upMY) | [緩緩 Huan Huan](https://open.spotify.com/artist/0JeQFUYo8H7c5K8VIICIIH) | [藍色的房間橘色的人](https://open.spotify.com/album/1qr8Dy3EM9qdMsoAIJEzUu) | 4:13 | 2022-08-18 | 2022-09-30 |
 | [日曜日](https://open.spotify.com/track/3WEFB3fJPdCAdcjWDwh3k5) | [Gestalt Girl](https://open.spotify.com/artist/7gBefUcQxW9DQljFrjOFwL) | [Amoeba](https://open.spotify.com/album/35LXRqDtURVtIb6sAKUooy) | 3:37 | 2022-03-24 | 2022-04-22 |

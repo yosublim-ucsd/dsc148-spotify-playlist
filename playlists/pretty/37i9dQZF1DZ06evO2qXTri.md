@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2qXTri.md) - [plain]
 
 > This is Kirk Franklin\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,683 likes - 50 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,702 likes - 50 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2qXTri.md) - [plain]
 | 6 | [Bleed The Same](https://open.spotify.com/track/5c1gWcamTmYP1t3UwN6caS) | [Mandisa](https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3), [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Out Of The Dark](https://open.spotify.com/album/0HXOO7P7QQHPzUHDbSGKMF) | 4:04 |
 | 7 | [Take Me to the King \(feat\. Kirk Franklin\)](https://open.spotify.com/track/6fG46PUotZMTgcAzAtFLOk) | [Tamela Mann](https://open.spotify.com/artist/6ZyV955Ypf3JAKInn1a0dt), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Best Days](https://open.spotify.com/album/16Ljgzu7nBDSjTXJkCgBaJ) | 4:47 |
 | 8 | [Kingdom](https://open.spotify.com/track/1pAyPMHDHBOR3zlTK1eUb4) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [Kingdom Book One](https://open.spotify.com/album/4H7cvd7qmzOX4o1R8GS3X3) | 9:25 |
-| 9 | [Something About the Name Jesus](https://open.spotify.com/track/0bGyh9iwb37ElctPNsxdwX) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [The Nu Nation Project](https://open.spotify.com/album/2AipEP8KHGkhpQkhqBYTfH) | 6:08 |
-| 10 | [Wanna Be Happy?](https://open.spotify.com/track/7f3mNFQ9ue2uCWA8qmgEJo) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Losing My Religion](https://open.spotify.com/album/5jmz4EGoRRbBvzaLRNAPEA) | 4:25 |
+| 9 | [Wanna Be Happy?](https://open.spotify.com/track/7f3mNFQ9ue2uCWA8qmgEJo) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Losing My Religion](https://open.spotify.com/album/5jmz4EGoRRbBvzaLRNAPEA) | 4:25 |
+| 10 | [Something About the Name Jesus](https://open.spotify.com/track/0bGyh9iwb37ElctPNsxdwX) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [The Nu Nation Project](https://open.spotify.com/album/2AipEP8KHGkhpQkhqBYTfH) | 6:08 |
 | 11 | [Looking for You](https://open.spotify.com/track/7lXbmBVZsyhxsxBzodG1w3) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Hero](https://open.spotify.com/album/6j1ewaeiw48zvPdaC3RK7m) | 4:06 |
 | 12 | [Fear Is Not My Future \(feat\. Brandon Lake\)](https://open.spotify.com/track/1AlIF7Ndgztmris8fLgytr) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [Kingdom Book One](https://open.spotify.com/album/4H7cvd7qmzOX4o1R8GS3X3) | 10:25 |
 | 13 | [Brighter Day \- Live at Lakewood Church, Houston, TX \- June 16, 2000](https://open.spotify.com/track/5qFDlKHNb0v68YSghSY4GK) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [The Rebirth Of Kirk Franklin \(Live\)](https://open.spotify.com/album/1OSCxbStNDOwBaZIXcivce) | 5:40 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2qXTri.md) - [plain]
 | 49 | [Revolution](https://open.spotify.com/track/48LZC1RDcSX3qwSUkmqLbz) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Boycott](https://open.spotify.com/album/3MQ28EyvwEflLB5q93AAkf) | 5:39 |
 | 50 | [You Still Love Us](https://open.spotify.com/track/3dlU9kLdhOL2dwEFQYJuHI) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Father's Day](https://open.spotify.com/album/4EUco9VSvpupdEH7GA5Twu) | 3:24 |
 
-Snapshot ID: `ZvyNAAAAAADILNjUDFCIS71AmmgKeB2X`
+Snapshot ID: `Zv3egAAAAADtOTNxDKeLAd1KlldWsJEY`

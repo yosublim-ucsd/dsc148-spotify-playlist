@@ -2,9 +2,9 @@
 
 ### [อินดี้ศาสตร์ Indieology](https://open.spotify.com/playlist/37i9dQZF1DWXPoAK0p4FcE)
 
-> อินดี้ที่ปัง ต้องฟังอินดี้ศาสตร์! ศิลปิน: Uncle Ben
+> อินดี้ที่ปัง ต้องฟังอินดี้ศาสตร์! ศิลปิน: QLER
 
-65 songs - 4 hr 34 min
+67 songs - 4 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [do you?](https://open.spotify.com/track/21bRopAfENk7IQKRGvz8Ce) | [Television off](https://open.spotify.com/artist/1KmzHN004Sm7O5pqRmh9hA), [Lacuna](https://open.spotify.com/artist/2FDl06nCrSYpA1n9PLZfen) | [do you?](https://open.spotify.com/album/5gybSiiYBGY1eJgcadloaR) | 3:54 | 2024-06-27 | 2024-09-28 |
 | [just](https://open.spotify.com/track/1hvAXb7PBcpxNVyDcN0cxw) | [YEW](https://open.spotify.com/artist/2xsBUJ327d3iC1LvL5hYrQ) | [just](https://open.spotify.com/album/66FVtttMYzTO6OSc5AVqI6) | 4:31 | 2024-06-27 |  |
 | [Manila](https://open.spotify.com/track/7IOQobXnONFEYsvbngKiho) | [SCRUBB](https://open.spotify.com/artist/3zSMaWnvUzyNlOW0Tj2s4N) | [T R E E](https://open.spotify.com/album/17DQWeQS7HlLcufeV1vAMY) | 4:09 | 2024-06-27 |  |
+| [old school](https://open.spotify.com/track/1e2Bj05yKyGAwXG2hxLwc7) | [QLER](https://open.spotify.com/artist/1P3bwZsaq5vobeBAmrsAFk), [クレナズム](https://open.spotify.com/artist/72PvGatrHUWZIbyyntvdpM) | [old school](https://open.spotify.com/album/6TvwzGyMKhyedURaA9IqpV) | 2:57 | 2024-10-04 |  |
 | [Pink](https://open.spotify.com/track/2MvwYhejHpLfBcptTEWhDL) | [Blackbeans](https://open.spotify.com/artist/3u45DFB1kjVXKwE14FKXCo) | [Flowers on earth](https://open.spotify.com/album/26V3mMqmTFbQxjVHCHjlle) | 4:15 | 2024-06-27 |  |
 | [Summertime](https://open.spotify.com/track/0ZcyX8hFV1jdJNWOI8mMXF) | [YEW](https://open.spotify.com/artist/2xsBUJ327d3iC1LvL5hYrQ), [LANDOKMAI](https://open.spotify.com/artist/4k22J4XE3nfRlv4IH7D5Vt) | [Pauley & Jeen](https://open.spotify.com/album/0wB6ZuX9UpSIc79Kah1SVA) | 4:06 | 2024-06-27 | 2024-08-31 |
 | [กำแพงหัวใจ](https://open.spotify.com/track/5BmF05GWZpmm5JZ5p3yMJr) | [Mirrr](https://open.spotify.com/artist/5zSQoNQ9o2dnT1LPTzDxg7) | [กำแพงหัวใจ](https://open.spotify.com/album/4Mqmd8JPbyBmSW7cWsSkUT) | 4:37 | 2024-06-27 |  |
@@ -24,7 +25,7 @@
 | [ความน่าจะเป็นเท่ากับสูญ \(0%\)](https://open.spotify.com/track/52hkekPSYxc3O3GYbviwsN) | [AYLA's](https://open.spotify.com/artist/2XiaPu2j4nBMhF8pIlt6Bk) | [ความน่าจะเป็นเท่ากับสูญ \(0%\)](https://open.spotify.com/album/2vB5FWxZARoIV2eNOiIggD) | 4:06 | 2024-06-27 |  |
 | [คุณค่าที่เธอคู่ควร](https://open.spotify.com/track/3ey4oaB0Dx9N6d4qWcORFx) | [Anatomy Rabbit](https://open.spotify.com/artist/73M9RjjrrKjXnf6Is6hNdg) | [คุณค่าที่เธอคู่ควร](https://open.spotify.com/album/3ij1193Ulks1bLmlMvc73W) | 3:58 | 2024-06-27 |  |
 | [จากตรงนี้ที่\(เคย\)สวยงาม \[La La Bye\]](https://open.spotify.com/track/4fwPmzupzsPEzwquuuVaiw) | [AYLA's](https://open.spotify.com/artist/2XiaPu2j4nBMhF8pIlt6Bk) | [จากตรงนี้ที่\(เคย\)สวยงาม \[La La Bye\]](https://open.spotify.com/album/1XgD84QIPjOXQps6PisWMM) | 4:48 | 2024-06-27 |  |
-| [ฉันคือนักสะสมความเศร้า](https://open.spotify.com/track/4pfjFUrtfnnkADqijqKmzP) | [เรนิษรา](https://open.spotify.com/artist/2UmVsCJpQoAGPcaKbCyheW) | [ฉันคือนักสะสมความเศร้า](https://open.spotify.com/album/10y1B7xbbawrkQ9VZ6uXZC) | 4:48 | 2024-06-27 |  |
+| [ฉันคือนักสะสมความเศร้า](https://open.spotify.com/track/4pfjFUrtfnnkADqijqKmzP) | [เรนิษรา](https://open.spotify.com/artist/2UmVsCJpQoAGPcaKbCyheW) | [ฉันคือนักสะสมความเศร้า](https://open.spotify.com/album/10y1B7xbbawrkQ9VZ6uXZC) | 4:48 | 2024-06-27 | 2024-10-05 |
 | [ฉันแอบซ่อนน้ำตาใต้หน้าที่มีรอยยิ้ม](https://open.spotify.com/track/0KXS1sXRLxw3upSC4mBOMH) | [เรนิษรา](https://open.spotify.com/artist/2UmVsCJpQoAGPcaKbCyheW), [BAY6IX](https://open.spotify.com/artist/3IQnUNxVytImduQRIg84qJ), [LALA](https://open.spotify.com/artist/031xscLHmwMfKVrhUCdGoq) | [ฉันแอบซ่อนน้ำตาใต้หน้าที่มีรอยยิ้ม](https://open.spotify.com/album/13ENp47hLKvUPDaJLbNxWA) | 4:56 | 2024-06-27 | 2024-08-17 |
 | [ดวงอาทิตย์ตก \(Sunset\)](https://open.spotify.com/track/6BKMVMcZF0vB9LEria3th7) | [FREEHAND](https://open.spotify.com/artist/5zBAiLz5CVwrgeA7UGQZli) | [ดวงอาทิตย์ตก \(Sunset\)](https://open.spotify.com/album/4UYFjP7uXK2MnYY4zTSTIp) | 3:34 | 2024-06-27 | 2024-08-17 |
 | [ดึง \(Tension\)](https://open.spotify.com/track/5ScRHC5BJzjzNWbrEHE6TS) | [Slur](https://open.spotify.com/artist/7G4qd0NlBQf4AxC0klpuDY) | [ดึง \(Tension\)](https://open.spotify.com/album/5CvAyfpneNWmsBodEmZ1kX) | 4:04 | 2024-08-16 | 2024-08-31 |
@@ -61,12 +62,13 @@
 | [เพลงรักเพลงแรก \- Blooming](https://open.spotify.com/track/79S6mQUxOs8ANRmJTS7agU) | [LANDOKMAI](https://open.spotify.com/artist/4k22J4XE3nfRlv4IH7D5Vt) | [เพลงรักเพลงแรก \(Blooming\)](https://open.spotify.com/album/6ZUJeCFflkdXgz1p8LSmP4) | 4:17 | 2024-06-27 | 2024-08-17 |
 | [เพลงรักในวันลา](https://open.spotify.com/track/1uJbdRLz38VTAXxhyXRC85) | [Lower Mansion](https://open.spotify.com/artist/0tNQk80J4jiIo3eOVvcda6) | [เพลงรักในวันลา](https://open.spotify.com/album/5Dl2n6GdOhYSroqNGsh5Lf) | 4:28 | 2024-06-27 | 2024-07-06 |
 | [เพียงแค่ถามเธอดู \(Can I ask\)](https://open.spotify.com/track/7qSVwjc5M7zZwBUshWTS1z) | [AYLA's](https://open.spotify.com/artist/2XiaPu2j4nBMhF8pIlt6Bk) | [I’M GOING TO KEEP RUNNING AWAY](https://open.spotify.com/album/1EBJeRNnDr755VZGAtDTaM) | 4:14 | 2024-06-27 |  |
+| [เวลากะเลยทุย \(otwwwww\) \(feat\. Pearprapa\)](https://open.spotify.com/track/1LQ1mZIeVfIED2q2KgXd2H) | [\_less](https://open.spotify.com/artist/16XaZ9bhtFCLUow2Z1Y7Of), [Pearprapa](https://open.spotify.com/artist/7q2IazWT2XhmFEoct5vw47) | [เวลากะเลยทุย \(otwwwww\) \(feat\. Pearprapa\)](https://open.spotify.com/album/1GKeEQ1JOV89q69IAMmR5X) | 3:10 | 2024-10-04 |  |
 | [เอาความเสียใจมาไว้ที่ฉัน \(Vasopressin\)](https://open.spotify.com/track/1WJ5tWjTdfywqMANcu7jXi) | [AYLA's](https://open.spotify.com/artist/2XiaPu2j4nBMhF8pIlt6Bk) | [เอาความเสียใจมาไว้ที่ฉัน \(Vasopressin\)](https://open.spotify.com/album/4eGLMhfvQ4qCHFZ1XqDTnC) | 4:34 | 2024-06-27 |  |
 | [เอเรนเดล \(EARENDEL\)](https://open.spotify.com/track/3cvnQ06TvhaROQrObb4Cai) | [Anatomy Rabbit](https://open.spotify.com/artist/73M9RjjrrKjXnf6Is6hNdg) | [เอเรนเดล \(EARENDEL\)](https://open.spotify.com/album/5xjy0OQeE3AhKyov5snKIM) | 4:39 | 2024-06-27 |  |
 | [แบบที่ฉันเคยทำ](https://open.spotify.com/track/3lR3TCz0rBkXxL9XTpBMNB) | [QLER](https://open.spotify.com/artist/1P3bwZsaq5vobeBAmrsAFk) | [แบบที่ฉันเคยทำ](https://open.spotify.com/album/4obX6QrYrEGPI2LgVVWnoL) | 4:16 | 2024-06-27 |  |
 | [แปรงฟัน](https://open.spotify.com/track/23rueOXtXSoenSxTaL16zo) | [CORNBOI](https://open.spotify.com/artist/1OgywX1Q6OWOoGNmChavLi) | [แปรงฟัน](https://open.spotify.com/album/4PB22xc4pU5jgfrI3VpurG) | 4:09 | 2024-06-27 | 2024-07-27 |
 | [แอบหวัง](https://open.spotify.com/track/3qMYr2bVu2HpSKrSJ2zj8K) | [Anatomy Rabbit](https://open.spotify.com/artist/73M9RjjrrKjXnf6Is6hNdg) | [แอบหวัง](https://open.spotify.com/album/24Wza37KFZjHj8xbPoknaK) | 3:55 | 2024-06-27 |  |
-| [ใจลอย](https://open.spotify.com/track/3MIVadmVbWGZR0VzNceGt1) | [QLER](https://open.spotify.com/artist/1P3bwZsaq5vobeBAmrsAFk) | [ใจลอย](https://open.spotify.com/album/0qmKBO8NsxqowXTbcXpSiG) | 3:17 | 2024-06-27 |  |
+| [ใจลอย](https://open.spotify.com/track/3MIVadmVbWGZR0VzNceGt1) | [QLER](https://open.spotify.com/artist/1P3bwZsaq5vobeBAmrsAFk) | [ใจลอย](https://open.spotify.com/album/0qmKBO8NsxqowXTbcXpSiG) | 3:17 | 2024-06-27 | 2024-10-05 |
 | [ในตอนที่มันเกิด \(Meanwhile\)](https://open.spotify.com/track/0wU9CXGETgREUgHC4YMn7g) | [Slur](https://open.spotify.com/artist/7G4qd0NlBQf4AxC0klpuDY) | [ในตอนที่มันเกิด \(Meanwhile\)](https://open.spotify.com/album/2T0raSSftyOKI6t5SG0QOn) | 4:18 | 2024-06-27 | 2024-07-27 |
 | [ให้เธอรู้](https://open.spotify.com/track/3bxsNh46m1cicdfcNptwOY) | [FREEHAND](https://open.spotify.com/artist/5zBAiLz5CVwrgeA7UGQZli) | [ให้เธอรู้](https://open.spotify.com/album/7spK5lX3p2nBLYmgyA5CyX) | 4:11 | 2024-06-27 |  |
 | [ไม่ต้องเกรงใจ \(Make Sure\)](https://open.spotify.com/track/03VOGaj0opd5oCVwg1NU30) | [Stoondio](https://open.spotify.com/artist/1aVt6mMj51qleWROhksK8J) | [ไม่ต้องเกรงใจ \(Make Sure\)](https://open.spotify.com/album/3kr9AyWsyMVUnRnatvJQSt) | 3:36 | 2024-08-30 | 2024-09-21 |

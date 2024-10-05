@@ -4,7 +4,7 @@
 
 > This is Luísa Sonza\. The essential tracks, all in one playlist.
 
-66 songs - 3 hr 27 min
+67 songs - 3 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Não Sirvo \- Ao Vivo](https://open.spotify.com/track/6Er9jEdVvBzg7VQpcMtJYJ) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Não Sirvo \(Ao Vivo\)](https://open.spotify.com/album/2ZcRV9LpoGmX7kgRTOD7VN) | 2:41 | 2024-01-20 |  |
 | [Não Vai Embora](https://open.spotify.com/track/28atBekPVlTdnU4M9Z7udd) | [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Malibu](https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6) | [Não Vai Embora](https://open.spotify.com/album/6JwoRKYnWd1Dv5z6zfv0bo) | 3:25 | 2023-10-10 |  |
 | [Não Vai Embora \- Acústico](https://open.spotify.com/track/3lIuIcigjcZnQipCpaI6fh) | [Malibu](https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6), [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Não Vai Embora \(Acústico\)](https://open.spotify.com/album/4bH36H3ghOHKihdYY0kNWf) | 3:47 | 2023-10-10 | 2024-05-27 |
+| [O Amor Tem Dessas \(e é melhor assim\)](https://open.spotify.com/track/1Bv5c7Vwi26a1DWdj9FjVn) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Belo](https://open.spotify.com/artist/7hLjkyL9Pz9xtQNahzJZki) | [Escândalo Íntimo \(Deluxe\)](https://open.spotify.com/album/4tagp2ueRVSyfc6llI9RKq) | 2:54 | 2024-10-05 |  |
 | [Olhos Castanhos](https://open.spotify.com/track/1Eh2tS7tgwqvvQLIBbByHo) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Olhos Castanhos](https://open.spotify.com/album/5TUfzNYXahREF4LdxaSoDh) | 3:25 | 2023-10-10 |  |
 | [Onde É Que Deu Errado?](https://open.spotify.com/track/0gcB5ZvsNDzskEnYU3snaY) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Simone Mendes](https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3) | [Onde É Que Deu Errado?](https://open.spotify.com/album/2dmqMp5bOW24RuT6WETctv) | 4:14 | 2024-09-20 |  |
 | [penhasco.](https://open.spotify.com/track/5VTqW8raQYnj2avZ27nO2a) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [DOCE 22](https://open.spotify.com/album/1bR2SlwIKwvCZBFhDfYr6x) | 3:06 | 2023-10-10 |  |

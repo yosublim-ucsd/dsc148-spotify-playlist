@@ -1,6 +1,6 @@
 {
   "description": "Filthy bass bangers to soundtrack your sesh",
-  "num_followers": 158902,
+  "num_followers": 158938,
   "original_name": "Proper Naughty ",
   "owner": {
     "name": "Spotify",
@@ -827,6 +827,30 @@
     {
       "added_at": "2024-10-03 23:00:00",
       "album": {
+        "name": "Stay In Your Lane",
+        "url": "https://open.spotify.com/album/2dTuPSiqoig7V7WIaTKtOl"
+      },
+      "artists": [
+        {
+          "name": "Taiki Nulight",
+          "url": "https://open.spotify.com/artist/4QWmN97HRZya55JvxN3I5a"
+        },
+        {
+          "name": "P Money",
+          "url": "https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY"
+        },
+        {
+          "name": "Jolie P",
+          "url": "https://open.spotify.com/artist/7LoympcZMyx1ySTpekLmzB"
+        }
+      ],
+      "duration_ms": 167973,
+      "name": "Stay In Your Lane",
+      "url": "https://open.spotify.com/track/3d1KpLb8INoik31nIlIUke"
+    },
+    {
+      "added_at": "2024-10-03 23:00:00",
+      "album": {
         "name": "Jordan 1s (Effy Rework)",
         "url": "https://open.spotify.com/album/6mv6SyHksCO4Pnq4IxXFps"
       },
@@ -911,30 +935,6 @@
     {
       "added_at": "2024-10-03 23:00:00",
       "album": {
-        "name": "Stay In Your Lane",
-        "url": "https://open.spotify.com/album/2dTuPSiqoig7V7WIaTKtOl"
-      },
-      "artists": [
-        {
-          "name": "Taiki Nulight",
-          "url": "https://open.spotify.com/artist/4QWmN97HRZya55JvxN3I5a"
-        },
-        {
-          "name": "P Money",
-          "url": "https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY"
-        },
-        {
-          "name": "Jolie P",
-          "url": "https://open.spotify.com/artist/7LoympcZMyx1ySTpekLmzB"
-        }
-      ],
-      "duration_ms": 167973,
-      "name": "Stay In Your Lane",
-      "url": "https://open.spotify.com/track/3d1KpLb8INoik31nIlIUke"
-    },
-    {
-      "added_at": "2024-10-03 23:00:00",
-      "album": {
         "name": "Cuppa Tea",
         "url": "https://open.spotify.com/album/7iD9PHXnNZ6QBug89ipPqU"
       },
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2024-10-03 23:00:00",
       "album": {
-        "name": "Spillage",
-        "url": "https://open.spotify.com/album/1ZRyG1HPCcnAc74eVUvvcz"
-      },
-      "artists": [
-        {
-          "name": "Dusky",
-          "url": "https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu"
-        }
-      ],
-      "duration_ms": 201204,
-      "name": "Spillage",
-      "url": "https://open.spotify.com/track/5DOkN9MW96CUYQcF8clpCb"
-    },
-    {
-      "added_at": "2024-10-03 23:00:00",
-      "album": {
         "name": "Wearing My Tracky",
         "url": "https://open.spotify.com/album/4Ec2pA8NiSIl9OlvTwBKxH"
       },
@@ -1043,6 +1027,38 @@
       "duration_ms": 105090,
       "name": "Wearing My Tracky",
       "url": "https://open.spotify.com/track/3TIyaYkKMobsb4xW76eBW4"
+    },
+    {
+      "added_at": "2024-10-03 23:00:00",
+      "album": {
+        "name": "Spillage",
+        "url": "https://open.spotify.com/album/1ZRyG1HPCcnAc74eVUvvcz"
+      },
+      "artists": [
+        {
+          "name": "Dusky",
+          "url": "https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu"
+        }
+      ],
+      "duration_ms": 201204,
+      "name": "Spillage",
+      "url": "https://open.spotify.com/track/5DOkN9MW96CUYQcF8clpCb"
+    },
+    {
+      "added_at": "2024-10-03 23:00:00",
+      "album": {
+        "name": "Rhythm & Gash VIP",
+        "url": "https://open.spotify.com/album/4G3ulwIvimf6PqAXIBN2wg"
+      },
+      "artists": [
+        {
+          "name": "Phibes",
+          "url": "https://open.spotify.com/artist/21VZgcYa29ZVvRQzmUNakx"
+        }
+      ],
+      "duration_ms": 164571,
+      "name": "Rhythm & Gash VIP",
+      "url": "https://open.spotify.com/track/7HJufiWVirU6D6kHgqmmRF"
     },
     {
       "added_at": "2024-10-03 23:00:00",
@@ -1071,22 +1087,6 @@
     {
       "added_at": "2024-10-03 23:00:00",
       "album": {
-        "name": "Rhythm & Gash VIP",
-        "url": "https://open.spotify.com/album/4G3ulwIvimf6PqAXIBN2wg"
-      },
-      "artists": [
-        {
-          "name": "Phibes",
-          "url": "https://open.spotify.com/artist/21VZgcYa29ZVvRQzmUNakx"
-        }
-      ],
-      "duration_ms": 164571,
-      "name": "Rhythm & Gash VIP",
-      "url": "https://open.spotify.com/track/7HJufiWVirU6D6kHgqmmRF"
-    },
-    {
-      "added_at": "2024-10-03 23:00:00",
-      "album": {
         "name": "So Different",
         "url": "https://open.spotify.com/album/36Qxy0uYkoTu5sVWvIzoVZ"
       },
@@ -1103,26 +1103,6 @@
       "duration_ms": 180000,
       "name": "So Different",
       "url": "https://open.spotify.com/track/7ncQlEWDcux4xhuoGzY2Lc"
-    },
-    {
-      "added_at": "2024-10-03 23:00:00",
-      "album": {
-        "name": "Hardcore Riddim",
-        "url": "https://open.spotify.com/album/5do913Q6Mwjn26EGhHESzM"
-      },
-      "artists": [
-        {
-          "name": "Teddy Killerz",
-          "url": "https://open.spotify.com/artist/4xaF2VIGwhWyEMbM6GuLdm"
-        },
-        {
-          "name": "MC Spyda",
-          "url": "https://open.spotify.com/artist/2b4CwhkY6rAscPhxXVxDJl"
-        }
-      ],
-      "duration_ms": 249228,
-      "name": "Hardcore Riddim",
-      "url": "https://open.spotify.com/track/5R77QOMkCw5Zk7M1Qz016c"
     },
     {
       "added_at": "2024-10-03 23:00:00",
@@ -1147,6 +1127,26 @@
     {
       "added_at": "2024-10-03 23:00:00",
       "album": {
+        "name": "Hardcore Riddim",
+        "url": "https://open.spotify.com/album/5do913Q6Mwjn26EGhHESzM"
+      },
+      "artists": [
+        {
+          "name": "Teddy Killerz",
+          "url": "https://open.spotify.com/artist/4xaF2VIGwhWyEMbM6GuLdm"
+        },
+        {
+          "name": "MC Spyda",
+          "url": "https://open.spotify.com/artist/2b4CwhkY6rAscPhxXVxDJl"
+        }
+      ],
+      "duration_ms": 249228,
+      "name": "Hardcore Riddim",
+      "url": "https://open.spotify.com/track/5R77QOMkCw5Zk7M1Qz016c"
+    },
+    {
+      "added_at": "2024-10-03 23:00:00",
+      "album": {
         "name": "Rudeboy",
         "url": "https://open.spotify.com/album/3v0fWFBlLysKoEOk7Kuhqr"
       },
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2024-10-03 23:00:00",
       "album": {
-        "name": "Sabertooth",
-        "url": "https://open.spotify.com/album/4DI3HslyOQV0GdZOFveRwl"
-      },
-      "artists": [
-        {
-          "name": "Serum",
-          "url": "https://open.spotify.com/artist/1OeYjH80o59axC1PYRV97m"
-        }
-      ],
-      "duration_ms": 266057,
-      "name": "Sabertooth",
-      "url": "https://open.spotify.com/track/64s8GIvCDNvc18VwcFGoie"
-    },
-    {
-      "added_at": "2024-10-03 23:00:00",
-      "album": {
         "name": "SMASH",
         "url": "https://open.spotify.com/album/4LGXuGSQlQOiNZ7Cz0pyoM"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 234731,
       "name": "SMASH",
       "url": "https://open.spotify.com/track/6EaQGkgNcYrcjEGUfnAWL9"
+    },
+    {
+      "added_at": "2024-10-03 23:00:00",
+      "album": {
+        "name": "Sabertooth",
+        "url": "https://open.spotify.com/album/4DI3HslyOQV0GdZOFveRwl"
+      },
+      "artists": [
+        {
+          "name": "Serum",
+          "url": "https://open.spotify.com/artist/1OeYjH80o59axC1PYRV97m"
+        }
+      ],
+      "duration_ms": 266057,
+      "name": "Sabertooth",
+      "url": "https://open.spotify.com/track/64s8GIvCDNvc18VwcFGoie"
     },
     {
       "added_at": "2024-10-03 23:00:00",
@@ -1447,26 +1447,6 @@
     {
       "added_at": "2024-10-03 23:00:00",
       "album": {
-        "name": "Soundguy",
-        "url": "https://open.spotify.com/album/4qvSsh7qckIVcreLO9I6uI"
-      },
-      "artists": [
-        {
-          "name": "GLXY",
-          "url": "https://open.spotify.com/artist/1U8nnmbuPk1EpoO7MVgIeT"
-        },
-        {
-          "name": "Sustance",
-          "url": "https://open.spotify.com/artist/3069G1J62ioGObj518Umm2"
-        }
-      ],
-      "duration_ms": 204500,
-      "name": "Soundguy",
-      "url": "https://open.spotify.com/track/3jCVsU1RyLxOpx41CnQM9g"
-    },
-    {
-      "added_at": "2024-10-03 23:00:00",
-      "album": {
         "name": "Don Dadda",
         "url": "https://open.spotify.com/album/6uCLgV2WnvndCVKFzitOpe"
       },
@@ -1487,6 +1467,26 @@
       "duration_ms": 168685,
       "name": "Don Dadda",
       "url": "https://open.spotify.com/track/3mU2YmvrTH3GrCpHLrw4yY"
+    },
+    {
+      "added_at": "2024-10-03 23:00:00",
+      "album": {
+        "name": "Soundguy",
+        "url": "https://open.spotify.com/album/4qvSsh7qckIVcreLO9I6uI"
+      },
+      "artists": [
+        {
+          "name": "GLXY",
+          "url": "https://open.spotify.com/artist/1U8nnmbuPk1EpoO7MVgIeT"
+        },
+        {
+          "name": "Sustance",
+          "url": "https://open.spotify.com/artist/3069G1J62ioGObj518Umm2"
+        }
+      ],
+      "duration_ms": 204500,
+      "name": "Soundguy",
+      "url": "https://open.spotify.com/track/3jCVsU1RyLxOpx41CnQM9g"
     },
     {
       "added_at": "2024-10-03 23:00:00",

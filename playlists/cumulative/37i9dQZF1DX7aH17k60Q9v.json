@@ -136,7 +136,7 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 182106,
       "name": "A Trav\u00e9s Del Vaso",
       "url": "https://open.spotify.com/track/5eY547Fxr6QKiqBkUrx0sC"
@@ -346,7 +346,7 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 198639,
       "name": "Baby (Version Norte\u00f1a)",
       "url": "https://open.spotify.com/track/6AK1tlnsm8q0R3xKmBZvG8"
@@ -541,6 +541,28 @@
     },
     {
       "album": {
+        "name": "Cada Quien",
+        "url": "https://open.spotify.com/album/4f3BZxJxrHhzoec0R2ElUe"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197781,
+      "name": "Cada Quien",
+      "url": "https://open.spotify.com/track/6ykDm6SPMVUC9TLoqvDIdj"
+    },
+    {
+      "album": {
         "name": "Cada Vez Te Extra\u00f1o M\u00e1s",
         "url": "https://open.spotify.com/album/6VmAsJkmfT8qjXbJH5QOQN"
       },
@@ -560,6 +582,46 @@
       "duration_ms": 250686,
       "name": "Cada Vez Te Extra\u00f1o M\u00e1s",
       "url": "https://open.spotify.com/track/70w1mwTod6NgCNV6e7ZlIQ"
+    },
+    {
+      "album": {
+        "name": "Haciendo Lo M\u00edo",
+        "url": "https://open.spotify.com/album/4QZT8OKrozrzH5IIJGVZBx"
+      },
+      "artists": [
+        {
+          "name": "Luis Mexia",
+          "url": "https://open.spotify.com/artist/4IEP61D1hdCPQVzAYzP9VC"
+        },
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170053,
+      "name": "Calidad",
+      "url": "https://open.spotify.com/track/4rX1QSvkaQE2y5LJLVjFqG"
+    },
+    {
+      "album": {
+        "name": "Canci\u00f3n",
+        "url": "https://open.spotify.com/album/60XsCvdDOnGsXj7uJlbZZB"
+      },
+      "artists": [
+        {
+          "name": "Tombochio",
+          "url": "https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205606,
+      "name": "Canci\u00f3n",
+      "url": "https://open.spotify.com/track/5ghhbjOImKADh2guhxUivo"
     },
     {
       "album": {
@@ -690,7 +752,7 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 177058,
       "name": "Creo en Ti",
       "url": "https://open.spotify.com/track/6HOOykUGBMv3LFsR9gObw5"
@@ -708,7 +770,7 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 154408,
       "name": "Creo Estar So\u00f1ando (En Vivo)",
       "url": "https://open.spotify.com/track/03nTMMyuSh6FRmf4ZTVS0N"
@@ -788,7 +850,7 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 186333,
       "name": "De Contrabando",
       "url": "https://open.spotify.com/track/3qIyYcE3nwAPOlXP6SSGPg"
@@ -810,6 +872,28 @@
       "duration_ms": 233706,
       "name": "De Uno Y De Todos Los Modos - Version Bolero",
       "url": "https://open.spotify.com/track/6DkNnb8nBR1uuqaSVWQgfm"
+    },
+    {
+      "album": {
+        "name": "Decide T\u00fa",
+        "url": "https://open.spotify.com/album/6lapM6uMQXvBBDu5Zky2d4"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Banda la Sinaloense de Alex Ojeda",
+          "url": "https://open.spotify.com/artist/6ucSqPKWD0QdphhjNrVnUf"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232611,
+      "name": "Decide T\u00fa",
+      "url": "https://open.spotify.com/track/3HtNPv4uWc7MSk7hpu2pwA"
     },
     {
       "album": {
@@ -860,7 +944,7 @@
       ],
       "date_added": "2021-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 221226,
       "name": "Desvelado",
       "url": "https://open.spotify.com/track/2JJSGhPpATm8lXeYjD95fw"
@@ -999,6 +1083,24 @@
     },
     {
       "album": {
+        "name": "El Beneficio De La Duda",
+        "url": "https://open.spotify.com/album/0i2GOYC6sONGebCWwtHUf6"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245500,
+      "name": "El Beneficio De La Duda",
+      "url": "https://open.spotify.com/track/7xJ1scIZpc33lZ7HpcrjCY"
+    },
+    {
+      "album": {
         "name": "Las Ag\u00fcitas",
         "url": "https://open.spotify.com/album/0AzqeBnrMhpNakIGdnRwKD"
       },
@@ -1086,6 +1188,24 @@
       "duration_ms": 197293,
       "name": "El Final De Nuestra Historia",
       "url": "https://open.spotify.com/track/0t3bKmsTEFHkvMZUARniZk"
+    },
+    {
+      "album": {
+        "name": "El Mundo a Tus Pies",
+        "url": "https://open.spotify.com/album/3VOql1x3LFdMnKBFsEqgDm"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176226,
+      "name": "El Mundo a Tus Pies",
+      "url": "https://open.spotify.com/track/3mv2WC2zSgLmZJziw6kIq7"
     },
     {
       "album": {
@@ -1497,6 +1617,24 @@
     },
     {
       "album": {
+        "name": "Hecha Pa' M\u00ed",
+        "url": "https://open.spotify.com/album/3Z9jjBDBjKUkf7CXPm5aSF"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195845,
+      "name": "Hecha Pa' M\u00ed",
+      "url": "https://open.spotify.com/track/1uGUbgZuO1kD1JZ0UeFupN"
+    },
+    {
+      "album": {
         "name": "Inexperto En Olvidarte",
         "url": "https://open.spotify.com/album/4ZBMLo0vXL00kQqp3SeebE"
       },
@@ -1696,7 +1834,7 @@
       ],
       "date_added": "2023-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 190626,
       "name": "Ll\u00e9vate",
       "url": "https://open.spotify.com/track/3m8SsLYXGo2JVeUhsZ9RtO"
@@ -1974,7 +2112,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 157638,
       "name": "Menos Mal Que Me Quer\u00edas",
       "url": "https://open.spotify.com/track/0Y6mbQ5tc2w0wLVDwPH0t4"
@@ -2162,7 +2300,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 156453,
       "name": "No Eres Tu Ahora Soy Yo",
       "url": "https://open.spotify.com/track/2id1k05l5qxinSNil4mfdM"
@@ -2514,7 +2652,7 @@
       ],
       "date_added": "2024-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 183846,
       "name": "PERO NO TE ENAMORES",
       "url": "https://open.spotify.com/track/3w1h7uNU1Dfk2tOaHiIGat"
@@ -2709,6 +2847,28 @@
     },
     {
       "album": {
+        "name": "Qu\u00e9 Fuimos (En Vivo)",
+        "url": "https://open.spotify.com/album/6Q4VubIV6GiT3HZrjGKg8b"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Hernan Sepulveda",
+          "url": "https://open.spotify.com/artist/00CEIWvwRzWGVahslNZW0Z"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230034,
+      "name": "Qu\u00e9 Fuimos (En Vivo)",
+      "url": "https://open.spotify.com/track/1VkaO9P9BwH327jnM9VX1K"
+    },
+    {
+      "album": {
         "name": "Qu\u00e9 Onda Perdida",
         "url": "https://open.spotify.com/album/6kbhZqFlf80O9LW2EAWz15"
       },
@@ -2872,6 +3032,24 @@
       "duration_ms": 182559,
       "name": "Sangoloteadito",
       "url": "https://open.spotify.com/track/59Mef3D20yXBdqXahLv3AO"
+    },
+    {
+      "album": {
+        "name": "Se Cancela La Llorada",
+        "url": "https://open.spotify.com/album/3MYlwwArC8cmf8ZpQcVaCv"
+      },
+      "artists": [
+        {
+          "name": "Camila Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Se Cancela La Llorada",
+      "url": "https://open.spotify.com/track/0Ny58e3o3Q2OtxidYpzAi1"
     },
     {
       "album": {
@@ -3198,6 +3376,24 @@
       "duration_ms": 191681,
       "name": "Tengo Claro",
       "url": "https://open.spotify.com/track/2UAE43Y8K321CDAbnIXDD0"
+    },
+    {
+      "album": {
+        "name": "Tequilazo",
+        "url": "https://open.spotify.com/album/05fUwckr9WxU1pyUBW2QWL"
+      },
+      "artists": [
+        {
+          "name": "Bronco",
+          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153200,
+      "name": "Tequilazo",
+      "url": "https://open.spotify.com/track/7Fn9Ic2Z3TNhS5XxxaCz9Y"
     },
     {
       "album": {

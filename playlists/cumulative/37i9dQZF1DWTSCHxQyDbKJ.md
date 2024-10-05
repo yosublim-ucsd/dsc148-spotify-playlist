@@ -4,11 +4,12 @@
 
 > Necessities from LGBTQIA+ artists\. Cover: SOPHIE
 
-136 songs - 7 hr 9 min
+137 songs - 7 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [:\)](https://open.spotify.com/track/36YY9Yeq3XastTeC1e0VmN) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [:\)](https://open.spotify.com/album/6UHK8Ur2u73SSq62gwsmFo) | 3:00 | 2024-08-12 |  |
+| [a letter to myself at 17](https://open.spotify.com/track/0kU2hNsMbTPHOMDD7qKQS8) | [Baby Queen](https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd) | [Quarter Life Crisis \(Deluxe\)](https://open.spotify.com/album/2OqDjO2moqMLtBEfFiu8OB) | 3:19 | 2024-09-09 |  |
 | [ABOMINATION](https://open.spotify.com/track/2h2142a0MCcrd1bBNohCaN) | [Lynks](https://open.spotify.com/artist/44tV2d4RDeMsS2sLOdcXHD) | [ABOMINATION](https://open.spotify.com/album/6am19f0GGzZgJYTSvGCuSr) | 3:18 | 2024-06-10 |  |
 | [Air Tight](https://open.spotify.com/track/0gethz2jDq9MFbhvRc9tk9) | [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS), [Dot Major](https://open.spotify.com/artist/02KPkbCJoF0txgF3MN7KIh) | [Prism of Pleasure](https://open.spotify.com/album/0fGG1bH61jnLMW2cvpB6Er) | 3:54 | 2024-06-10 |  |
 | [alone](https://open.spotify.com/track/6wpOHVSrinXhKqF4EBbpuS) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [alone](https://open.spotify.com/album/29sXbgWHLAjGcshP5zHCpW) | 2:52 | 2024-06-10 |  |
@@ -110,7 +111,7 @@
 | [Quarter Life Crisis](https://open.spotify.com/track/3W7uzoZe8xxHVv75WvhHaZ) | [Baby Queen](https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd) | [Quarter Life Crisis](https://open.spotify.com/album/5bTGBed0FKungdHiISflgl) | 3:03 | 2024-06-10 | 2024-08-13 |
 | [QUIET](https://open.spotify.com/track/1fnVKNuin6baQbZFEx3jHJ) | [Chubby Cat](https://open.spotify.com/artist/7BkztvqJQObg4NfzHxugrZ) | [QUIET](https://open.spotify.com/album/4pj0upnE34RrH2kPicwPGS) | 3:20 | 2024-06-10 | 2024-08-13 |
 | [real feel](https://open.spotify.com/track/7fShwQkgkUYrL6GttNjHTb) | [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM) | [\#gigi](https://open.spotify.com/album/5yYtz3hPgOc2XAh5eDjDBa) | 2:22 | 2024-06-14 |  |
-| [Real Hot n Naughty](https://open.spotify.com/track/1hPBJwV6CK6d8IgC9OUmqW) | [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4), [Felix Mufti](https://open.spotify.com/artist/1N4X5hZ0hEXhhFdg1q0AlN) | [Real Hot n Naughty](https://open.spotify.com/album/1AUPiPnIbLT7FkOgEfaPGa) | 3:34 | 2024-06-10 |  |
+| [Real Hot n Naughty](https://open.spotify.com/track/1hPBJwV6CK6d8IgC9OUmqW) | [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4), [Felix Mufti](https://open.spotify.com/artist/1N4X5hZ0hEXhhFdg1q0AlN) | [Real Hot n Naughty](https://open.spotify.com/album/1AUPiPnIbLT7FkOgEfaPGa) | 3:34 | 2024-06-10 | 2024-10-05 |
 | [Real With You](https://open.spotify.com/track/0ariASxZ4I9lPUecXSEu1O) | [Phoebe Hall](https://open.spotify.com/artist/3WaAMZL6ZWyDkvxYro8kbw) | [Stop Before It Starts](https://open.spotify.com/album/2zw8QT3RUf8zfHnw6sVTCp) | 3:56 | 2024-06-10 |  |
 | [Reason Why \(feat\. Kim Petras & BC Kingdom\)](https://open.spotify.com/track/5PmpmP9Z7lxKhriEoafUNr) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J), [BC Kingdom](https://open.spotify.com/artist/7HVp0RVFZQBU8NJFZHe7vP) | [Reason Why \(feat\. Kim Petras & BC Kingdom\)](https://open.spotify.com/album/5elJWlKT79phbaxMD20WWm) | 3:52 | 2024-09-09 |  |
 | [RIDE](https://open.spotify.com/track/12RWoYcPeMb42JOLu7Xzp8) | [Ray Laurél](https://open.spotify.com/artist/7gW3GsnBSoT6q9YQUstlzA) | [RIDE](https://open.spotify.com/album/4kUR2d4Y8Do3wInxBxMFnk) | 2:05 | 2024-09-09 |  |

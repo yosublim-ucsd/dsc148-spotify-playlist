@@ -2,9 +2,9 @@
 
 ### [Retro Pop](https://open.spotify.com/playlist/37i9dQZF1DXcTieYAg7jq1)
 
-> Featuring that new vintage\. Cover: Michael Bublé
+> Featuring that new vintage\. Cover: Leon Bridges
 
-416 songs - 23 hr 51 min
+418 songs - 23 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,7 +109,7 @@
 | [Eat Your Young](https://open.spotify.com/track/2SXx7Ofa79CeJfio98aJcG) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unreal Unearth](https://open.spotify.com/album/3gF9KIynrJaC80HbVayPMx) | 4:03 | 2023-03-17 | 2024-04-19 |
 | [end credits](https://open.spotify.com/track/4IEGZYUSKkgWMy8vpp1Z7H) | [Sarah Kang](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj) | [end credits](https://open.spotify.com/album/6ZgbXMymYOnmGTTgFcnmy2) | 4:08 | 2022-09-30 | 2023-05-27 |
 | [Every Day and Every Night](https://open.spotify.com/track/18WMlv400ZLzVuW33m8CGN) | [WILSN](https://open.spotify.com/artist/2ymjQZjPQe0pziQ67Y8Ncr) | [Those Days Are Over](https://open.spotify.com/album/08gZ1W70cqDTkOX5TsUZBf) | 2:54 | 2023-02-03 |  |
-| [Everybody](https://open.spotify.com/track/01YZSZi4jNs7QjEXn6eM6Y) | [Spencer Sutherland](https://open.spotify.com/artist/6mjz3NMhNE5SK7GsbJIg6C) | [Everybody](https://open.spotify.com/album/5lMHqkGXjoC0pKVUV8IKzQ) | 3:17 | 2022-07-22 |  |
+| [Everybody](https://open.spotify.com/track/01YZSZi4jNs7QjEXn6eM6Y) | [Spencer Sutherland](https://open.spotify.com/artist/6mjz3NMhNE5SK7GsbJIg6C) | [Everybody](https://open.spotify.com/album/5lMHqkGXjoC0pKVUV8IKzQ) | 3:17 | 2022-07-22 | 2024-10-05 |
 | [Face The River](https://open.spotify.com/track/4ESI02gRSgi4HlZMH0JDyF) | [Gavin DeGraw](https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz) | [Face The River](https://open.spotify.com/album/0ZMHcAWJPzZuNhk8R3UOi9) | 3:36 | 2022-04-15 | 2023-02-16 |
 | [Fall In Love Alone](https://open.spotify.com/track/5xwBIieMMFUmLDgvG4DjFe) | [Stacey Ryan](https://open.spotify.com/artist/3sXwEUqxSzb11VpuFa5cvJ) | [Fall In Love Alone](https://open.spotify.com/album/0ASnNAycI0eu91gMm9Jfe4) | 3:25 | 2022-05-13 | 2023-04-01 |
 | [Falling for You](https://open.spotify.com/track/0BeqFdVAkpVJHkFSl4EEf7) | [Devin Kennedy](https://open.spotify.com/artist/6xRlQCMpg8bmkHlluqDF7Z) | [Falling for You](https://open.spotify.com/album/2kTz24IgJaveP4je8XjYv7) | 3:08 | 2024-03-08 |  |
@@ -120,7 +120,7 @@
 | [Flashlights](https://open.spotify.com/track/4QChFDoSayiY4DxxMjDNOf) | [Mica Millar](https://open.spotify.com/artist/3u7WZTVUhTgjSKrlqzPfs9) | [Heaven Knows](https://open.spotify.com/album/1Y9V7wuiJFJGZe5eGuMuMb) | 3:14 | 2022-06-10 |  |
 | [Flying On The Ground](https://open.spotify.com/track/5qAVbuw3jd0b0EbA4LuIwr) | [Noel Gallagher's High Flying Birds](https://open.spotify.com/artist/7sjttK1WcZeyLPn3IsQ62L) | [Flying On The Ground](https://open.spotify.com/album/3zHzpV6h8GdrgFqZiIGidx) | 3:13 | 2021-12-03 | 2022-04-26 |
 | [Fool For You](https://open.spotify.com/track/1qJOKVRiiaqSpwB1UFPbnl) | [Lusaint](https://open.spotify.com/artist/35v2YILQxee0yatdWj6Kg7) | [Fool For You](https://open.spotify.com/album/3ldC2PLwazUJQTW18DsWLE) | 3:03 | 2023-04-14 | 2024-02-03 |
-| [For You](https://open.spotify.com/track/5TdSEnY3HibWrV2BJ8yeOZ) | [Bombargo](https://open.spotify.com/artist/5gcuakqbbCNnx9fBZWCFfW) | [nebula.](https://open.spotify.com/album/26Msz7k0xYs5539mNqDWjD) | 4:07 | 2022-05-27 |  |
+| [For You](https://open.spotify.com/track/5TdSEnY3HibWrV2BJ8yeOZ) | [Bombargo](https://open.spotify.com/artist/5gcuakqbbCNnx9fBZWCFfW) | [nebula.](https://open.spotify.com/album/26Msz7k0xYs5539mNqDWjD) | 4:07 | 2022-05-27 | 2024-10-05 |
 | [Four Moons](https://open.spotify.com/track/1HKID3TlgC1HOSGJU6Icya) | [Mandy Moore](https://open.spotify.com/artist/2LJxr7Pt3JnP60eLxwbDOu) | [Four Moons](https://open.spotify.com/album/03Lr0XypP8kCFSauaugvmi) | 3:35 | 2022-04-29 | 2023-02-16 |
 | [Freedom](https://open.spotify.com/track/5rPKOVZtsRfdTuLWnnGrrY) | [Illiterate Light](https://open.spotify.com/artist/1vEqG4Bxz3YIMuDkIcvg6J), [Devon Gilfillian](https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH) | [Freedom](https://open.spotify.com/album/44l94qLr2caA4ieB6eDT9W) | 3:55 | 2021-12-03 | 2022-07-29 |
 | [FREEDOM](https://open.spotify.com/track/2QOB5UiRKggr2j9uMD3GYK) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [WE ARE](https://open.spotify.com/album/6kHFkPvL2X3rZPuS3CEMUE) | 2:58 | 2021-12-03 | 2023-01-28 |
@@ -133,6 +133,7 @@
 | [Glitter & Gold](https://open.spotify.com/track/1qRhvlCXiB8JsNM6uP27Km) | [Rebecca Ferguson](https://open.spotify.com/artist/0CrCKxXekxMpkYfMEf8mca) | [Heaven](https://open.spotify.com/album/7casok18TXKpkt263CTlfM) | 3:28 | 2021-12-03 | 2022-04-19 |
 | [Glitter & Gold](https://open.spotify.com/track/5Q6mIVCErKoI6zb7wxJlBs) | [Rebecca Ferguson](https://open.spotify.com/artist/0CrCKxXekxMpkYfMEf8mca) | [Heaven \(Expanded Edition\)](https://open.spotify.com/album/5XRvidlLFT4rMytzHK7smn) | 3:29 | 2021-12-03 | 2023-01-28 |
 | [Glue Song](https://open.spotify.com/track/3iBgrkexCzVuPy4O9vx7Mf) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Glue Song](https://open.spotify.com/album/3KmSMUwyrakryureTNI4U8) | 2:15 | 2023-02-17 |  |
+| [God Save the Dream](https://open.spotify.com/track/13mm25FYuZw1ih9cvFhXvH) | [Spencer Sutherland](https://open.spotify.com/artist/6mjz3NMhNE5SK7GsbJIg6C) | [The Drama](https://open.spotify.com/album/2c1QPvyMmQADYp9qB5Aslv) | 3:16 | 2024-10-04 |  |
 | [Going Down](https://open.spotify.com/track/5sSTJF2a8Ew2wxIW1mCBG5) | [Alicia Creti](https://open.spotify.com/artist/0V0XsSn8lNPXAEEFG292iX) | [Self/Less](https://open.spotify.com/album/6ufptISTWnxr9Zqm2mS1QP) | 3:11 | 2024-02-16 |  |
 | [Golden](https://open.spotify.com/track/37EENqOKD6uxLwthqxhKLt) | [Zella Day](https://open.spotify.com/artist/100sLnojEpcadRx4edEBA6) | [Golden](https://open.spotify.com/album/15y5YIZTkfg6tgoVCwPEoa) | 3:21 | 2021-12-03 | 2023-01-28 |
 | [Good Lady](https://open.spotify.com/track/36HVsSxwvuRTAt2WRxhdyv) | [Sir Woman](https://open.spotify.com/artist/3H03S3ZtyYLdzsk6EYndUL) | [Sir Woman](https://open.spotify.com/album/7a0t5cOGdB6yKszhd1Ga8H) | 4:25 | 2022-04-22 | 2023-04-01 |
@@ -286,6 +287,7 @@
 | [Out of Time](https://open.spotify.com/track/2SLwbpExuoBDZBpjfefCtV) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:34 | 2022-05-02 | 2024-05-11 |
 | [Over the Moon](https://open.spotify.com/track/2GqqgM1zN4kyym6EVciDIn) | [Meghan Linsey](https://open.spotify.com/artist/5CoW8VGpf9la64TUDhnkVn) | [Over the Moon](https://open.spotify.com/album/0gbHZgbY0i3emsMmSBoxRb) | 3:16 | 2023-05-05 |  |
 | [Pain](https://open.spotify.com/track/37u0I5Q44POEFCLhFREtGJ) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Pain](https://open.spotify.com/album/2pPhFt9U1vjGoQgPVN9v9I) | 3:35 | 2022-06-17 |  |
+| [Panther City](https://open.spotify.com/track/0ySkMC5CSdVFuBkiEDCQfF) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Leon](https://open.spotify.com/album/6mHNMtHrXIdUWWuZD9njsG) | 4:07 | 2024-10-04 |  |
 | [Pantone 17 13 30](https://open.spotify.com/track/2GeR7M97pCrWrMh8d6BlrF) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Y1](https://open.spotify.com/album/0xlpkNFvbonkCBiAZu0AdM) | 3:06 | 2022-03-11 | 2023-03-04 |
 | [Paradise](https://open.spotify.com/track/3pBncKks8ZvP64uXIPms7Q) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Visions](https://open.spotify.com/album/59Gsd0DGxyhKyuHkhCV4Hq) | 3:25 | 2024-03-08 |  |
 | [Part Time Lover](https://open.spotify.com/track/5b4dscOsCEGDwXOjsEscj3) | [Stu Larsen](https://open.spotify.com/artist/44M8i4BCwuBbmcQWwMaOfH) | [Part Time Lover](https://open.spotify.com/album/1JLQH9Df1Gmxu7hXZtfGLO) | 2:57 | 2022-04-01 | 2024-03-02 |

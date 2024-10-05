@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2kr0HV.md) - [plain]
 
 ### [This Is Esteman](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2kr0HV)
 
-> This Is Esteman\. Los temas esenciales, todos en una lista.
+> This is Esteman\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,298 likes - 47 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,313 likes - 47 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,9 +46,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2kr0HV.md) - [plain]
 | 36 | [True Love \(feat\. Monsieur Periné & Juan Pablo Vega\)](https://open.spotify.com/track/5uHMZeWwY6GQxKHGJfUvSu) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R), [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK), [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [1er Acto](https://open.spotify.com/album/2x5iHcA02lEoWUECIZ9gzg) | 5:15 |
 | 37 | [Solo](https://open.spotify.com/track/367p3heMzeLfeQtx2GufOn) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Amor Libre](https://open.spotify.com/album/3ZNcUIksSrVfc5Ow7f4J6F) | 3:43 |
 | 38 | [Vacío](https://open.spotify.com/track/31FQspjo54Q66HPdSceOtm) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Secretos](https://open.spotify.com/album/2anoc6bJ4VPsGZQxrWZTOD) | 3:17 |
-| 39 | [Solo \- Remix](https://open.spotify.com/track/0P4hFzJlR3ZMEXz92mrk1b) | [Raymix](https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064), [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Solo \(Remix\)](https://open.spotify.com/album/0aEEuIWU7eZZdRk1cw5kYg) | 2:40 |
+| 39 | [ANSIEDÁ](https://open.spotify.com/track/1U9EdGWeTlw1qoaJ0GoMxH) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM), [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [ANSIEDÁ](https://open.spotify.com/album/5RugI8qVcl0Fu1Xr2A2fWv) | 2:36 |
 | 40 | [Oh Là Là \(feat\. Monsieur Periné\)](https://open.spotify.com/track/6A9woRzbEFLUshXy15Q4EO) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R), [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK) | [1er Acto](https://open.spotify.com/album/2x5iHcA02lEoWUECIZ9gzg) | 3:07 |
-| 41 | [ANSIEDÁ](https://open.spotify.com/track/1U9EdGWeTlw1qoaJ0GoMxH) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM), [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [ANSIEDÁ](https://open.spotify.com/album/5RugI8qVcl0Fu1Xr2A2fWv) | 2:36 |
+| 41 | [Solo \- Remix](https://open.spotify.com/track/0P4hFzJlR3ZMEXz92mrk1b) | [Raymix](https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064), [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Solo \(Remix\)](https://open.spotify.com/album/0aEEuIWU7eZZdRk1cw5kYg) | 2:40 |
 | 42 | [Burkina Faso](https://open.spotify.com/track/0oYlFcq0DgLXMzzBSZuPfR) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Amor Libre](https://open.spotify.com/album/3ZNcUIksSrVfc5Ow7f4J6F) | 3:55 |
 | 43 | [Frenesí](https://open.spotify.com/track/6xLUhTLKjdDrfbiTOonT6e) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Caótica Belleza](https://open.spotify.com/album/7MVYNG79vMkMN7mxBNxYvS) | 3:32 |
 | 44 | [Eso Que Me Das](https://open.spotify.com/track/76Xv0phxmn6MyCxY3K00Wa) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0), [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Eso Que Me Das](https://open.spotify.com/album/0WQ1ixBjLMPw4uK0vZnIh3) | 3:47 |
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2kr0HV.md) - [plain]
 | 46 | [7 Días](https://open.spotify.com/track/0iQ5TF0YYNCuDfUOZ0ASoD) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Amor Libre](https://open.spotify.com/album/3ZNcUIksSrVfc5Ow7f4J6F) | 3:19 |
 | 47 | [Pobre Corazón](https://open.spotify.com/track/6FogkmJRkh4AoGZ4NBXZ4G) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Pobre Corazón](https://open.spotify.com/album/7uGhAfUDxsISXHgNTVb8S2) | 3:02 |
 
-Snapshot ID: `ZvyNAAAAAACKPu/eoy9pb9KMit8AwAdZ`
+Snapshot ID: `Zv3egAAAAABUQBeAYZtKnXfop0tSXQx1`

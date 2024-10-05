@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9G93rIVMmzM.md) - [plain]
 
 > for the baddies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 310,938 likes - 75 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 311,068 likes - 75 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9G93rIVMmzM.md) - [plain]
 | 63 | [CHILDREN OF SORROW](https://open.spotify.com/track/0m1JXimp3o6AP7yBtCXCKd) | [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth) | [CHILDREN OF SORROW](https://open.spotify.com/album/7Kb3GTVE5cBCvXOPxoLzlr) | 3:20 |
 | 64 | [SHAKE](https://open.spotify.com/track/2oLdDgLtfYMd6nhukQWyRE) | [Thousand Below](https://open.spotify.com/artist/0iU3WDujScAofxcK2EMypN) | [SHAKE](https://open.spotify.com/album/78A4CF4zvvHU21A2u5H1AW) | 3:10 |
 | 65 | [Gorgeous](https://open.spotify.com/track/02i9hlZQCCb6vYxpBm6r5h) | [Cold Gawd](https://open.spotify.com/artist/4nD7mZ37GMiFBSjvWZIlDb) | [Gorgeous](https://open.spotify.com/album/3brN47YTTKHWEpB8hsOEa2) | 5:31 |
-| 66 | [Sleeptalk](https://open.spotify.com/track/53Ssvy5Rww0BPTtOw375zW) | [Dayseeker](https://open.spotify.com/artist/5FjQVp1Lb0kltmwIuu5kfj) | [Sleeptalk \- Deluxe](https://open.spotify.com/album/5eAo9LbhWjBYX2AHt9o4jh) | 3:43 |
+| 66 | [Sleeptalk](https://open.spotify.com/track/53Ssvy5Rww0BPTtOw375zW) | [Dayseeker](https://open.spotify.com/artist/5FjQVp1Lb0kltmwIuu5kfj) | [Sleeptalk \(Deluxe\)](https://open.spotify.com/album/5eAo9LbhWjBYX2AHt9o4jh) | 3:43 |
 | 67 | [Spiral](https://open.spotify.com/track/1IutoMzbuf3hVtP4KS9W37) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [Spiral](https://open.spotify.com/album/1VkpBOu4KIcL8u9tAkocie) | 2:48 |
 | 68 | [Alkaline](https://open.spotify.com/track/2bhO18WXe8NbFpc7sAQcEw) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [This Place Will Become Your Tomb](https://open.spotify.com/album/53PfSATgN0YM7IsfI2CDvs) | 3:34 |
 | 69 | [Mumble](https://open.spotify.com/track/3bEq6ig5QphDic6RPVA8h4) | [Whirr](https://open.spotify.com/artist/1tnjjbgszXYa8BbyTzwM0w) | [Sway](https://open.spotify.com/album/4jIsi2mhVUh51F7dZCxlGF) | 2:34 |

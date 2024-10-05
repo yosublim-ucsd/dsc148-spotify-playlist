@@ -4,7 +4,7 @@
 
 > Celebrating the extraordinary women breaking boundaries and keeping tradition alive\. Cover: Rhonda Vincent
 
-142 songs - 8 hr 2 min
+143 songs - 8 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Kentucky Borderline](https://open.spotify.com/track/3p1T3tocORKMJOulIOh4zc) | [Rhonda Vincent](https://open.spotify.com/artist/6tLMZjo5mp3G1FmrARUaVT) | [One Step Ahead](https://open.spotify.com/album/6ycDawGWCxbT5dk860MWOE) | 3:32 | 2023-04-14 |  |
 | [Kentucky Highway](https://open.spotify.com/track/1N21yfPTidop9tkz3P5Kul) | [Williamson Branch](https://open.spotify.com/artist/4iX67MvaviUQqfP6j9JWxN) | [Kentucky Highway](https://open.spotify.com/album/1MxjkNcs20cCVFvCyjN1ET) | 3:39 | 2024-07-13 |  |
 | [Laramie](https://open.spotify.com/track/1BEm7Caa96l4PIlnpoJ6wo) | [Becky Schlegel](https://open.spotify.com/artist/21KhWiFWcK4WOJqRHMmN2a), [The High 48s](https://open.spotify.com/artist/2J7WvdhzleWvO1XRa5xBZK) | [Laramie](https://open.spotify.com/album/6JmyaIBchQFT7CeGRRlVbh) | 3:55 | 2023-07-21 |  |
+| [Last Road Going Home](https://open.spotify.com/track/2qsbZAqsSfYvpQg5h6dQ2Y) | [Amanda Cook](https://open.spotify.com/artist/6BoGPE6HncyAwa1Ka8uQVn) | [Last Road Going Home](https://open.spotify.com/album/3AH3tiNwrkL5pMHOl4IIVS) | 3:34 | 2024-10-04 |  |
 | [Let It Fall](https://open.spotify.com/track/0JC6wfQJn8GyFwgscOLNoM) | [Tina Adair](https://open.spotify.com/artist/2YCut5KatUQQWryPQYPQZS) | [Let It Fall](https://open.spotify.com/album/4PUo10KAVp8UYAUXRvVZq2) | 3:33 | 2024-08-09 |  |
 | [Little Sadie](https://open.spotify.com/track/2SiQKjD5mANk0qkNTx2BmO) | [Crooked Still](https://open.spotify.com/artist/7LOJ56d8VmOebynlV01KfU) | [Shaken By A Low Sound](https://open.spotify.com/album/1MXfI5PVHDjkZJrlM9aFkp) | 2:35 | 2023-04-14 |  |
 | [Little Satchel](https://open.spotify.com/track/1ym8cryelFHPD6k0FCocCh) | [Nora Brown](https://open.spotify.com/artist/7h7pPNSsoz0NnyDmIqY7OT) | [Long Time To Be Gone](https://open.spotify.com/album/0yKUSFsZyE1ckKUOp83onF) | 3:17 | 2023-11-10 | 2024-04-19 |

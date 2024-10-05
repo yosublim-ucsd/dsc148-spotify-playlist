@@ -1,6 +1,6 @@
 {
   "description": "Yeni favori sanat\u00e7\u0131n\u0131 ke\u015ffet \u26a1 Kapak: K\u0131r\u0131k Pena",
-  "num_followers": 68618,
+  "num_followers": 68671,
   "original_name": "Ke\u015fif",
   "owner": {
     "name": "Spotify",
@@ -699,6 +699,22 @@
     {
       "added_at": "2024-10-03 21:00:00",
       "album": {
+        "name": "Mazide",
+        "url": "https://open.spotify.com/album/0rjCBkzUULXmudEq4vy0hi"
+      },
+      "artists": [
+        {
+          "name": "KARDELEN",
+          "url": "https://open.spotify.com/artist/4mNGMbwJpaXOAAqbAOEQms"
+        }
+      ],
+      "duration_ms": 180800,
+      "name": "Mazide",
+      "url": "https://open.spotify.com/track/78Ph3Ffyp3vV0BqaBLJRXN"
+    },
+    {
+      "added_at": "2024-10-03 21:00:00",
+      "album": {
         "name": "S\u00f6yle",
         "url": "https://open.spotify.com/album/3072jVrXZMpKPdHaNUyR3S"
       },
@@ -779,38 +795,6 @@
     {
       "added_at": "2024-10-03 21:00:00",
       "album": {
-        "name": "Mazide",
-        "url": "https://open.spotify.com/album/0rjCBkzUULXmudEq4vy0hi"
-      },
-      "artists": [
-        {
-          "name": "KARDELEN",
-          "url": "https://open.spotify.com/artist/4mNGMbwJpaXOAAqbAOEQms"
-        }
-      ],
-      "duration_ms": 180800,
-      "name": "Mazide",
-      "url": "https://open.spotify.com/track/78Ph3Ffyp3vV0BqaBLJRXN"
-    },
-    {
-      "added_at": "2024-10-03 21:00:00",
-      "album": {
-        "name": "Seni Sevmek Kald\u0131",
-        "url": "https://open.spotify.com/album/4QsAQhdmqreEcmJ7tJ2BDK"
-      },
-      "artists": [
-        {
-          "name": "Soner Han",
-          "url": "https://open.spotify.com/artist/6rwdqGbhoOisi9wCeLKJs8"
-        }
-      ],
-      "duration_ms": 182863,
-      "name": "Seni Sevmek Kald\u0131",
-      "url": "https://open.spotify.com/track/5BEqptwkS8PnvKY6s5hqJF"
-    },
-    {
-      "added_at": "2024-10-03 21:00:00",
-      "album": {
         "name": "r\u00fcyet",
         "url": "https://open.spotify.com/album/43RbKe4SAbTgx2GqLINY43"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 255700,
       "name": "r\u00fcyet",
       "url": "https://open.spotify.com/track/7thtv8TVmmxx5edxwk9r1o"
+    },
+    {
+      "added_at": "2024-10-03 21:00:00",
+      "album": {
+        "name": "Seni Sevmek Kald\u0131",
+        "url": "https://open.spotify.com/album/4QsAQhdmqreEcmJ7tJ2BDK"
+      },
+      "artists": [
+        {
+          "name": "Soner Han",
+          "url": "https://open.spotify.com/artist/6rwdqGbhoOisi9wCeLKJs8"
+        }
+      ],
+      "duration_ms": 182863,
+      "name": "Seni Sevmek Kald\u0131",
+      "url": "https://open.spotify.com/track/5BEqptwkS8PnvKY6s5hqJF"
     },
     {
       "added_at": "2024-10-03 21:00:00",
@@ -927,22 +927,22 @@
     {
       "added_at": "2024-10-03 21:00:00",
       "album": {
-        "name": "Tatl\u0131 K\u0131z",
-        "url": "https://open.spotify.com/album/3M8asaH08zYAiAgsSjZeJf"
+        "name": "DOLDURDUM TABANCAMI",
+        "url": "https://open.spotify.com/album/0JGt0C0lfBsn2hY0HZAB1J"
       },
       "artists": [
         {
-          "name": "Ali Beykant",
-          "url": "https://open.spotify.com/artist/4HT1hlLO6xFV13XIP2WbxZ"
+          "name": "Poizi",
+          "url": "https://open.spotify.com/artist/250LLR8V4fFq1XFzAB1ZN5"
         },
         {
-          "name": "Beyza Yi\u011fit",
-          "url": "https://open.spotify.com/artist/4ndEPqnJy4fsarj8Qqq7T8"
+          "name": "SNOW",
+          "url": "https://open.spotify.com/artist/58H98oCs7wfe6XZOgIaT0q"
         }
       ],
-      "duration_ms": 125169,
-      "name": "Tatl\u0131 K\u0131z",
-      "url": "https://open.spotify.com/track/7drxlVHRDPggmxpIBToxHc"
+      "duration_ms": 134532,
+      "name": "DOLDURDUM TABANCAMI",
+      "url": "https://open.spotify.com/track/6fn6Us7sHiBY2kanqgub8D"
     },
     {
       "added_at": "2024-10-03 21:00:00",
@@ -963,6 +963,26 @@
       "duration_ms": 200000,
       "name": "Ankara Ayaz\u0131",
       "url": "https://open.spotify.com/track/5no6olRh1NCwdZJIIMId2R"
+    },
+    {
+      "added_at": "2024-10-03 21:00:00",
+      "album": {
+        "name": "Tatl\u0131 K\u0131z",
+        "url": "https://open.spotify.com/album/3M8asaH08zYAiAgsSjZeJf"
+      },
+      "artists": [
+        {
+          "name": "Ali Beykant",
+          "url": "https://open.spotify.com/artist/4HT1hlLO6xFV13XIP2WbxZ"
+        },
+        {
+          "name": "Beyza Yi\u011fit",
+          "url": "https://open.spotify.com/artist/4ndEPqnJy4fsarj8Qqq7T8"
+        }
+      ],
+      "duration_ms": 125169,
+      "name": "Tatl\u0131 K\u0131z",
+      "url": "https://open.spotify.com/track/7drxlVHRDPggmxpIBToxHc"
     },
     {
       "added_at": "2024-10-03 21:00:00",
@@ -1015,22 +1035,6 @@
     {
       "added_at": "2024-10-03 21:00:00",
       "album": {
-        "name": "Beni de Kendine Benzettin",
-        "url": "https://open.spotify.com/album/4FrcDo79Wu0sZkhPPnOw6F"
-      },
-      "artists": [
-        {
-          "name": "\u00fc\u00e7kuru\u015f",
-          "url": "https://open.spotify.com/artist/52j3mRmOcAWQ5BfBAwkoqK"
-        }
-      ],
-      "duration_ms": 178583,
-      "name": "Beni de Kendine Benzettin",
-      "url": "https://open.spotify.com/track/2ZbYaf7AzESGpVd3yjcKeD"
-    },
-    {
-      "added_at": "2024-10-03 21:00:00",
-      "album": {
         "name": "Yaram A\u00e7\u0131k",
         "url": "https://open.spotify.com/album/2FBMHsdF9ULNE8sl7hPbbu"
       },
@@ -1043,6 +1047,22 @@
       "duration_ms": 205311,
       "name": "Yaram A\u00e7\u0131k",
       "url": "https://open.spotify.com/track/2SWPa82N1YTA9wiZh3iB4j"
+    },
+    {
+      "added_at": "2024-10-03 21:00:00",
+      "album": {
+        "name": "Beni de Kendine Benzettin",
+        "url": "https://open.spotify.com/album/4FrcDo79Wu0sZkhPPnOw6F"
+      },
+      "artists": [
+        {
+          "name": "\u00fc\u00e7kuru\u015f",
+          "url": "https://open.spotify.com/artist/52j3mRmOcAWQ5BfBAwkoqK"
+        }
+      ],
+      "duration_ms": 178583,
+      "name": "Beni de Kendine Benzettin",
+      "url": "https://open.spotify.com/track/2ZbYaf7AzESGpVd3yjcKeD"
     },
     {
       "added_at": "2024-10-03 21:00:00",
@@ -1079,6 +1099,22 @@
     {
       "added_at": "2024-10-03 21:00:00",
       "album": {
+        "name": "Veda",
+        "url": "https://open.spotify.com/album/3dblvzOPpyJRCtBbZIbMC4"
+      },
+      "artists": [
+        {
+          "name": "G\u00f6k\u00e7e Ye\u015filba\u015f",
+          "url": "https://open.spotify.com/artist/4vEHJ2k0qrokabt96heePy"
+        }
+      ],
+      "duration_ms": 153034,
+      "name": "Veda",
+      "url": "https://open.spotify.com/track/0NwM0mW9D9UaIvQO2YgW0K"
+    },
+    {
+      "added_at": "2024-10-03 21:00:00",
+      "album": {
         "name": "Hala Niye Burday\u0131m",
         "url": "https://open.spotify.com/album/2LYJQQSdhdoVBrx9rScLTS"
       },
@@ -1107,22 +1143,6 @@
       "duration_ms": 204250,
       "name": "D\u00fcn G\u00f6rd\u00fc\u011f\u00fcm R\u00fcya",
       "url": "https://open.spotify.com/track/5zFkIyNGimqxjPLovBUXas"
-    },
-    {
-      "added_at": "2024-10-03 21:00:00",
-      "album": {
-        "name": "Veda",
-        "url": "https://open.spotify.com/album/3dblvzOPpyJRCtBbZIbMC4"
-      },
-      "artists": [
-        {
-          "name": "G\u00f6k\u00e7e Ye\u015filba\u015f",
-          "url": "https://open.spotify.com/artist/4vEHJ2k0qrokabt96heePy"
-        }
-      ],
-      "duration_ms": 153034,
-      "name": "Veda",
-      "url": "https://open.spotify.com/track/0NwM0mW9D9UaIvQO2YgW0K"
     },
     {
       "added_at": "2024-10-03 21:00:00",
@@ -1219,22 +1239,6 @@
       "duration_ms": 205000,
       "name": "Sen Art\u0131k S\u0131radan Biri",
       "url": "https://open.spotify.com/track/0sRt7yIvUGlesGwPjQmGs7"
-    },
-    {
-      "added_at": "2024-10-03 21:00:00",
-      "album": {
-        "name": "Gitti\u011finden Beri",
-        "url": "https://open.spotify.com/album/76tZW6wowp0N0dAYUBxUG7"
-      },
-      "artists": [
-        {
-          "name": "Bade",
-          "url": "https://open.spotify.com/artist/0PtAztBAwJWdQD5BABZKtz"
-        }
-      ],
-      "duration_ms": 166092,
-      "name": "Gitti\u011finden Beri",
-      "url": "https://open.spotify.com/track/7Ku9AxEP7ASDRWhu8U32wB"
     }
   ],
   "unique_name": "Ke\u015fif",

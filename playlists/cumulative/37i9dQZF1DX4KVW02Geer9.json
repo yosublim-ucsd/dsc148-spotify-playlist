@@ -503,6 +503,24 @@
     },
     {
       "album": {
+        "name": "Concentrate",
+        "url": "https://open.spotify.com/album/12Q6rsos506fgL55F1c5Ca"
+      },
+      "artists": [
+        {
+          "name": "Jonah Yano",
+          "url": "https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281833,
+      "name": "Concentrate",
+      "url": "https://open.spotify.com/track/78BHW3aMoR2UrF1Pg1W0oc"
+    },
+    {
+      "album": {
         "name": "Concrete Jungle",
         "url": "https://open.spotify.com/album/148Ov9qRrdiVmW8ZFCkZKl"
       },
@@ -1932,7 +1950,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 289881,
       "name": "Oh My God",
       "url": "https://open.spotify.com/track/2tchGr5VPrWR8qwQA5VVyw"
@@ -2267,6 +2285,24 @@
     },
     {
       "album": {
+        "name": "Silent Chaos",
+        "url": "https://open.spotify.com/album/0T73FUjssfu3pYJC0kg6dT"
+      },
+      "artists": [
+        {
+          "name": "Bnnyhunna",
+          "url": "https://open.spotify.com/artist/13itA83Wg0KCCk1odzFFpD"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150500,
+      "name": "Silent Chaos",
+      "url": "https://open.spotify.com/track/7csNgeNwky8Atcq2B6nQrT"
+    },
+    {
+      "album": {
         "name": "Silent Jazz Case 5",
         "url": "https://open.spotify.com/album/2nUT1RnTEraQLqvEXaaJzN"
       },
@@ -2362,7 +2398,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 162272,
       "name": "Superstring - Rework",
       "url": "https://open.spotify.com/track/4yCpoba6seyaAGwRQyVvdj"

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1u2tEI.md) - [plain]
 
 ### [This Is Elliott Smith](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1u2tEI)
 
-> This is Elliott Smith\. Todos os maiores hits em uma só playlist.
+> This is Elliott Smith\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,795 likes - 49 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,826 likes - 49 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,9 +53,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1u2tEI.md) - [plain]
 | 43 | [No Name \#2](https://open.spotify.com/track/3QAHvJbzjFne5mMLSEMmdV) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Roman Candle](https://open.spotify.com/album/6zbWzjBUvXvF16tg98OYck) | 3:34 |
 | 44 | [Because](https://open.spotify.com/track/0W78mVK0xVPpOD7oh4medH) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Figure 8 \(Deluxe Edition\)](https://open.spotify.com/album/5EUL6RGTIuVJCaCWGOedan) | 2:19 |
 | 45 | [Pretty \(Ugly Before\)](https://open.spotify.com/track/4f76iWvbHC3mgm0hLmYKEv) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [From A Basement On The Hill](https://open.spotify.com/album/4YRoxHoDrGw0LI5rxDH9Dl) | 4:45 |
-| 46 | [Thirteen](https://open.spotify.com/track/5iU2CYMavJ66Gg1XuzloLU) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [New Moon](https://open.spotify.com/album/1BbuJWxtdCS2r6wBt1JsSN) | 2:43 |
+| 46 | [Going Nowhere](https://open.spotify.com/track/3j7kIRldLpus5gJK21dhId) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [New Moon](https://open.spotify.com/album/1BbuJWxtdCS2r6wBt1JsSN) | 3:51 |
 | 47 | [Kiwi Maddog 20/20 \(version 2 of 2\)](https://open.spotify.com/track/5GwXU2PDHWykajNQ2Gaj8e) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Roman Candle](https://open.spotify.com/album/6zbWzjBUvXvF16tg98OYck) | 3:40 |
 | 48 | [Ostrich And Chirping](https://open.spotify.com/track/25OfkVstO0W60e8OHCggox) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [From A Basement On The Hill](https://open.spotify.com/album/66UbcdMK6oC2XFPLeESamq) | 0:33 |
-| 49 | [Going Nowhere](https://open.spotify.com/track/3j7kIRldLpus5gJK21dhId) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [New Moon](https://open.spotify.com/album/1BbuJWxtdCS2r6wBt1JsSN) | 3:51 |
+| 49 | [Thirteen](https://open.spotify.com/track/5iU2CYMavJ66Gg1XuzloLU) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [New Moon](https://open.spotify.com/album/1BbuJWxtdCS2r6wBt1JsSN) | 2:43 |
 
-Snapshot ID: `ZvyNAAAAAACvTLLkruPF5BsjJpIy/Kcg`
+Snapshot ID: `Zv3egAAAAADv+dmgIf0iV3chXCEYjiKQ`

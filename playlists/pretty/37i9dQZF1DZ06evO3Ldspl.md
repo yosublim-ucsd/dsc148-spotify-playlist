@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Ldspl.md) - [plain]
 
 > This Is Binomio de Oro\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,102 likes - 50 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,104 likes - 50 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Ldspl.md) - [plain]
 | 15 | [Relicario de Besos](https://open.spotify.com/track/16KEt1cp8tN0Et7BqPd4Vb) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [Los Elegidos](https://open.spotify.com/album/4HDMMTKwuOko0HVcXK5gne) | 4:17 |
 | 16 | [Mi Novia y Mi Pueblo](https://open.spotify.com/track/4SYjWNFpwOyYXLER9XalBQ) | [Rafael Orozco](https://open.spotify.com/artist/5EQkvkaE9pNbtp3vrWBLh8), [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [Los 30 Mejores](https://open.spotify.com/album/13DgbOsMXrslPXmZ9WC2JS) | 5:41 |
 | 17 | [El Amor Es Más Grande Que Yo](https://open.spotify.com/track/65b7BwU67oXr2I10I9LzZM) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [De Exportación](https://open.spotify.com/album/3CHxVT00FhsFpNPh7iQvdp) | 4:20 |
-| 18 | [No Pasará Lo Mismo](https://open.spotify.com/track/3uhP3dgMShzyoZadWtK2QZ) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [Binomio De Oro 1986](https://open.spotify.com/album/356uekEIUBT3sL3Xtu5dL5) | 4:04 |
-| 19 | [Te seguiré queriendo](https://open.spotify.com/track/2gKbEyLGCz7s5rTLEIE1UM) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [5 Años de Oro](https://open.spotify.com/album/33ra8x4umh40bQgZGQiu5d) | 5:00 |
+| 18 | [Te seguiré queriendo](https://open.spotify.com/track/2gKbEyLGCz7s5rTLEIE1UM) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [5 Años de Oro](https://open.spotify.com/album/33ra8x4umh40bQgZGQiu5d) | 5:00 |
+| 19 | [No Pasará Lo Mismo](https://open.spotify.com/track/3uhP3dgMShzyoZadWtK2QZ) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [Binomio De Oro 1986](https://open.spotify.com/album/356uekEIUBT3sL3Xtu5dL5) | 4:04 |
 | 20 | [Déjame Quererte](https://open.spotify.com/track/2pdx5eLAspXwzUxAmENhKO) | [Rafael Orozco](https://open.spotify.com/artist/5EQkvkaE9pNbtp3vrWBLh8), [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [Los 30 Mejores](https://open.spotify.com/album/13DgbOsMXrslPXmZ9WC2JS) | 3:55 |
 | 21 | [Nostalgia](https://open.spotify.com/track/2QsMoDPNqfTz2kasOmBP1E) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W), [Ivan Villazon](https://open.spotify.com/artist/0gudLEFCyMFIBCt1EQaMh7) | [Para Siempre Rafael Orozco Binomio De Oro](https://open.spotify.com/album/6PYwZuAWfqOJhS7L6JEop2) | 4:51 |
 | 22 | [A Ritmo Cha Cun Cha](https://open.spotify.com/track/3k4G0p5ERmsX7kF0SyJ7fy) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [Por Siempre](https://open.spotify.com/album/4gqisRMcza9F6WHiN2jtff) | 4:08 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Ldspl.md) - [plain]
 | 49 | [No Vale Quererla](https://open.spotify.com/track/7zZpuiZ1T8aMtyo2Edrc1E) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [De Exportación](https://open.spotify.com/album/3CHxVT00FhsFpNPh7iQvdp) | 4:55 |
 | 50 | [Tú No Notas](https://open.spotify.com/track/1mNMgUsVZGUmmPDuOld9qT) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [Binomio De Oro 1986](https://open.spotify.com/album/356uekEIUBT3sL3Xtu5dL5) | 4:22 |
 
-Snapshot ID: `ZvyNAAAAAABq83NCiMdXQqoyRmELvBJ5`
+Snapshot ID: `Zv3egAAAAAAhsLizcTmhvIIYRNV7mXLp`

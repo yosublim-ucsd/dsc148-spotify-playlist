@@ -2946,6 +2946,24 @@
     {
       "album": {
         "name": "Baby V.O.X Special Album",
+        "url": "https://open.spotify.com/album/501RC0O9MGg2BudvYd9xyh"
+      },
+      "artists": [
+        {
+          "name": "Baby V.O.X",
+          "url": "https://open.spotify.com/artist/7H5LMtjHqkyH4U8dpLR4lo"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238004,
+      "name": "\uc6b0\uc5f0",
+      "url": "https://open.spotify.com/track/1TinopfhqVzeATjuo9aiqu"
+    },
+    {
+      "album": {
+        "name": "Baby V.O.X Special Album",
         "url": "https://open.spotify.com/album/0SEOmCDuKkiXZR2v5jnmd9"
       },
       "artists": [
@@ -3010,7 +3028,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 125129,
       "name": "\uc778\ud615",
       "url": "https://open.spotify.com/track/5m51MHtLkaSFDrdkceXQoG"

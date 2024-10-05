@@ -2912,7 +2912,7 @@
       ],
       "date_added": "2023-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 195333,
       "name": "Cuerpecito",
       "url": "https://open.spotify.com/track/79euszUrA1kga1kK5PRmDo"
@@ -6080,6 +6080,32 @@
       "duration_ms": 237750,
       "name": "JS4E",
       "url": "https://open.spotify.com/track/5iaFGC7XdmWmfwxV9JUPY6"
+    },
+    {
+      "album": {
+        "name": "kada viernes",
+        "url": "https://open.spotify.com/album/4z9SHcq8ON6c6w9dUUbd20"
+      },
+      "artists": [
+        {
+          "name": "KUINA",
+          "url": "https://open.spotify.com/artist/2fjInVWSawW5FUnXd3QLqb"
+        },
+        {
+          "name": "Polim\u00e1 Westcoast",
+          "url": "https://open.spotify.com/artist/768O5GliF0bqscyghggrbE"
+        },
+        {
+          "name": "Ovyze",
+          "url": "https://open.spotify.com/artist/4jzpU8H3P6UJYFUWwwwCx4"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192941,
+      "name": "kada viernes",
+      "url": "https://open.spotify.com/track/3O6MKCzDzI4Vj7Ij24oEp3"
     },
     {
       "album": {

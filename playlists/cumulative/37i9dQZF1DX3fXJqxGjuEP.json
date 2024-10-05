@@ -3348,7 +3348,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 216746,
       "name": "El Fuego",
       "url": "https://open.spotify.com/track/6PigN4VPqTNmmc3obsHnZ6"
@@ -7724,7 +7724,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 188320,
       "name": "Post Qu\u00edmica",
       "url": "https://open.spotify.com/track/0NhUS4oQ8vQNaLgdQU6nRI"
@@ -8999,6 +8999,24 @@
     },
     {
       "album": {
+        "name": "Tofu",
+        "url": "https://open.spotify.com/album/5tquufgGqNZBek4qn3Zngj"
+      },
+      "artists": [
+        {
+          "name": "Caloncho",
+          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168320,
+      "name": "Superdeli",
+      "url": "https://open.spotify.com/track/5CHl7HjScJCEWIUymcg8iS"
+    },
+    {
+      "album": {
         "name": "Sweet and Gentle - Me Lo Dijo Adela",
         "url": "https://open.spotify.com/album/4B19z5URZrQDjucwD8ZKkk"
       },
@@ -9580,6 +9598,24 @@
       "duration_ms": 129000,
       "name": "Vayay\u00f3",
       "url": "https://open.spotify.com/track/4YEeQ4gYDBTZbyBDFbtZYS"
+    },
+    {
+      "album": {
+        "name": "Viva Tu",
+        "url": "https://open.spotify.com/album/0de0VSMdg29Rwoe9MG4ck2"
+      },
+      "artists": [
+        {
+          "name": "Manu Chao",
+          "url": "https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157522,
+      "name": "Vecinos En El Mar",
+      "url": "https://open.spotify.com/track/195eYP40HulXbt0kNt3Cnz"
     },
     {
       "album": {

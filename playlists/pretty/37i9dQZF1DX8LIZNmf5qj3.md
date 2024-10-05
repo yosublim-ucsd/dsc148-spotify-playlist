@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8LIZNmf5qj3.md) - [plain]
 
 > Détendez\-vous au son de titres R&B, Soul et Hip\-Hop alternatif\. Photo : Shae Universe
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,647 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,648 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8LIZNmf5qj3.md) - [plain]
 | 11 | [wap](https://open.spotify.com/track/0clDhQSahgP1U8vZUfblWS) | [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [wap](https://open.spotify.com/album/5Jbh653OLOZOtFazI7Hk7A) | 2:48 |
 | 12 | [Burning](https://open.spotify.com/track/1D1M805zV8DwhYXsvJdQZx) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Born in the Wild](https://open.spotify.com/album/1FGGv0vvSTerGQ91Mkvf9p) | 2:55 |
 | 13 | [Honest \(feat\. C\. Tangana\)](https://open.spotify.com/track/3FiX402udtjX777EHZUAbU) | [Harry James Jr.](https://open.spotify.com/artist/3n1n9kReQ09hqMJN7PKOGM), [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO) | [Honest \(feat\. C\. Tangana\)](https://open.spotify.com/album/3QFSisENbuki9rhPLgpbic) | 3:35 |
-| 14 | [Moviestar](https://open.spotify.com/track/5saMdClnsVoDlEwST3qhOA) | [Santino Le Saint](https://open.spotify.com/artist/49WBtnIs3VA1tHR7jQG1F6), [Nippa](https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq), [Col3trane](https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc) | [Moviestar](https://open.spotify.com/album/4u3A6VN0zZRwBzjvF2MWwk) | 4:09 |
+| 14 | [Moviestar \(feat\. Col3trane\)](https://open.spotify.com/track/5saMdClnsVoDlEwST3qhOA) | [Santino Le Saint](https://open.spotify.com/artist/49WBtnIs3VA1tHR7jQG1F6), [Nippa](https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq), [Col3trane](https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc) | [Moviestar \(feat\. Col3trane\)](https://open.spotify.com/album/4u3A6VN0zZRwBzjvF2MWwk) | 4:09 |
 | 15 | [1:59 \(feat\. Gunna\)](https://open.spotify.com/track/4nncvBrXyuKNg5jfBnJ1dR) | [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [1:59 \(feat\. Gunna\)](https://open.spotify.com/album/4QTPH0500WkMREPzyNYp9d) | 3:12 |
 | 16 | [LOVE ME](https://open.spotify.com/track/43h59Oj9bIoAEf0cY2EMx0) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I) | [SAFE FLIGHT](https://open.spotify.com/album/37FUdgp35njUxws7l0WCep) | 2:48 |
 | 17 | [Switch](https://open.spotify.com/track/57TWkgQVyTCzffOzMJKens) | [OSA](https://open.spotify.com/artist/13wBNPUEHHtM5rjD9u6BYW) | [Switch](https://open.spotify.com/album/1iFSSMmk9eJGPhiOw7Gk77) | 2:53 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Mr. Big. The essential tracks, all in one playlist.",
-  "num_followers": 28072,
+  "num_followers": 28078,
   "original_name": "This Is Mr. Big",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvyNAAAAAAAEy/UzB0T2RwrPpETN5ZAS",
+  "snapshot_id": "Zv3egAAAAAAmy4RwKukESwj4XPci2OQp",
   "tracks": [
     {
       "added_at": null,
@@ -492,7 +492,7 @@
       "added_at": null,
       "album": {
         "name": "What If...",
-        "url": "https://open.spotify.com/album/1HSKINJIwGJj6ECnx9gSiP"
+        "url": "https://open.spotify.com/album/378UK4ew1Emc72jH4KzRfq"
       },
       "artists": [
         {
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
         }
       ],
-      "duration_ms": 265573,
-      "name": "Stranger In My Life",
-      "url": "https://open.spotify.com/track/1SgrsREYlgqJIGWvMU8GGK"
+      "duration_ms": 288746,
+      "name": "Undertow",
+      "url": "https://open.spotify.com/track/3g811urVvhkvAv3fT5BzTq"
     },
     {
       "added_at": null,
@@ -539,38 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ten",
-        "url": "https://open.spotify.com/album/0VFZor3wm9hExOCGIGmijC"
-      },
-      "artists": [
-        {
-          "name": "Mr. Big",
-          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
-        }
-      ],
-      "duration_ms": 271719,
-      "name": "I Am You",
-      "url": "https://open.spotify.com/track/6hFMnKj47KhtzduQiHlwcf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "What If...",
-        "url": "https://open.spotify.com/album/378UK4ew1Emc72jH4KzRfq"
-      },
-      "artists": [
-        {
-          "name": "Mr. Big",
-          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
-        }
-      ],
-      "duration_ms": 288746,
-      "name": "Undertow",
-      "url": "https://open.spotify.com/track/3g811urVvhkvAv3fT5BzTq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hey Man [Expanded]",
         "url": "https://open.spotify.com/album/2f5EZBoBDNDRFH6KfcFktJ"
       },
@@ -583,6 +551,38 @@
       "duration_ms": 200453,
       "name": "Tears",
       "url": "https://open.spotify.com/track/2dvxVshYOguKNlimauN4Mx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "What If...",
+        "url": "https://open.spotify.com/album/1HSKINJIwGJj6ECnx9gSiP"
+      },
+      "artists": [
+        {
+          "name": "Mr. Big",
+          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
+        }
+      ],
+      "duration_ms": 265573,
+      "name": "Stranger In My Life",
+      "url": "https://open.spotify.com/track/1SgrsREYlgqJIGWvMU8GGK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ten",
+        "url": "https://open.spotify.com/album/0VFZor3wm9hExOCGIGmijC"
+      },
+      "artists": [
+        {
+          "name": "Mr. Big",
+          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
+        }
+      ],
+      "duration_ms": 271719,
+      "name": "I Am You",
+      "url": "https://open.spotify.com/track/6hFMnKj47KhtzduQiHlwcf"
     },
     {
       "added_at": null,
@@ -603,8 +603,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lean Into It [Expanded]",
-        "url": "https://open.spotify.com/album/6CrjpyjlfjK95oHF6dvEnQ"
+        "name": "Hey Man [Expanded]",
+        "url": "https://open.spotify.com/album/2f5EZBoBDNDRFH6KfcFktJ"
       },
       "artists": [
         {
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
         }
       ],
-      "duration_ms": 247093,
-      "name": "Voodoo Kiss - 2010 Remastered Version",
-      "url": "https://open.spotify.com/track/3LdABwumpWjN7VAzXZh1xF"
+      "duration_ms": 226706,
+      "name": "The Chain",
+      "url": "https://open.spotify.com/track/4z0gMSL3Z1pIdt8Psi2P6D"
     },
     {
       "added_at": null,
@@ -635,8 +635,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hey Man [Expanded]",
-        "url": "https://open.spotify.com/album/2f5EZBoBDNDRFH6KfcFktJ"
+        "name": "Lean Into It [Expanded]",
+        "url": "https://open.spotify.com/album/6CrjpyjlfjK95oHF6dvEnQ"
       },
       "artists": [
         {
@@ -644,9 +644,9 @@
           "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
         }
       ],
-      "duration_ms": 226706,
-      "name": "The Chain",
-      "url": "https://open.spotify.com/track/4z0gMSL3Z1pIdt8Psi2P6D"
+      "duration_ms": 239173,
+      "name": "Road to Ruin - 2010 Remastered Version",
+      "url": "https://open.spotify.com/track/2mkrQ6styM2orpDSCTmfm8"
     },
     {
       "added_at": null,
@@ -663,22 +663,6 @@
       "duration_ms": 252520,
       "name": "How Does It Feel",
       "url": "https://open.spotify.com/track/4JDD3UYWUKvYX5j1UwSg5d"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lean Into It [Expanded]",
-        "url": "https://open.spotify.com/album/6CrjpyjlfjK95oHF6dvEnQ"
-      },
-      "artists": [
-        {
-          "name": "Mr. Big",
-          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
-        }
-      ],
-      "duration_ms": 239173,
-      "name": "Road to Ruin - 2010 Remastered Version",
-      "url": "https://open.spotify.com/track/2mkrQ6styM2orpDSCTmfm8"
     },
     {
       "added_at": null,
@@ -715,6 +699,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lean Into It [Expanded]",
+        "url": "https://open.spotify.com/album/6CrjpyjlfjK95oHF6dvEnQ"
+      },
+      "artists": [
+        {
+          "name": "Mr. Big",
+          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
+        }
+      ],
+      "duration_ms": 247093,
+      "name": "Voodoo Kiss - 2010 Remastered Version",
+      "url": "https://open.spotify.com/track/3LdABwumpWjN7VAzXZh1xF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "What If...",
         "url": "https://open.spotify.com/album/1HSKINJIwGJj6ECnx9gSiP"
       },
@@ -727,22 +727,6 @@
       "duration_ms": 312040,
       "name": "All the Way Up",
       "url": "https://open.spotify.com/track/4JtkYz1y2fuu5r4AbedNCt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lean Into It [Expanded]",
-        "url": "https://open.spotify.com/album/6CrjpyjlfjK95oHF6dvEnQ"
-      },
-      "artists": [
-        {
-          "name": "Mr. Big",
-          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
-        }
-      ],
-      "duration_ms": 229280,
-      "name": "Never Say Never - 2010 Remastered Version",
-      "url": "https://open.spotify.com/track/7e8gvHt0e4vw55RUAlq25X"
     },
     {
       "added_at": null,
@@ -779,6 +763,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lean Into It [Expanded]",
+        "url": "https://open.spotify.com/album/6CrjpyjlfjK95oHF6dvEnQ"
+      },
+      "artists": [
+        {
+          "name": "Mr. Big",
+          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
+        }
+      ],
+      "duration_ms": 229280,
+      "name": "Never Say Never - 2010 Remastered Version",
+      "url": "https://open.spotify.com/track/7e8gvHt0e4vw55RUAlq25X"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "...The Stories We Could Tell",
         "url": "https://open.spotify.com/album/7n9ucIrj2GIE0VpLSU8Wpe"
       },
@@ -795,8 +795,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deep Cuts: The Best Of The Ballads",
-        "url": "https://open.spotify.com/album/7ecgPBHbGOm0S4Hl21FEgq"
+        "name": "Ten",
+        "url": "https://open.spotify.com/album/0VFZor3wm9hExOCGIGmijC"
       },
       "artists": [
         {
@@ -804,9 +804,9 @@
           "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
         }
       ],
-      "duration_ms": 318093,
-      "name": "Had Enough",
-      "url": "https://open.spotify.com/track/52izQkzBnqAIL0TnJ4ygEh"
+      "duration_ms": 232011,
+      "name": "Who We Are",
+      "url": "https://open.spotify.com/track/5HnbBZhHvyvmwOGYQPlm31"
     }
   ],
   "unique_name": "This Is Mr. Big",

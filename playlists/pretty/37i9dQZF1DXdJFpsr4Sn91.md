@@ -4,24 +4,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJFpsr4Sn91.md) - [plain]
 
 > Nousussa olevat hitit\. Kannessa Jemina.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,513 likes - 80 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,526 likes - 80 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Täydellinen ex](https://open.spotify.com/track/1ea8KlPlxVuMTMIDKrere6) | [Robin Packalen](https://open.spotify.com/artist/4Q4b4S784htx6DtxcMUfMO) | [Täydellinen ex](https://open.spotify.com/album/6oaZNJngmT5OxKl752Sfpt) | 3:04 |
-| 2 | [Iskelmää](https://open.spotify.com/track/0dqtnUAiNVHoffw7FUGi6D) | [OLGA](https://open.spotify.com/artist/5lrrAnWHek9LEQgB3MCfub) | [Iskelmää](https://open.spotify.com/album/2LXiIuRUeyfAcjZnZcrcDF) | 2:16 |
-| 3 | [Sun luokse](https://open.spotify.com/track/4OUdNzrfhl2AVu0qTNUIkz) | [AHTI](https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK), [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D) | [AHTI](https://open.spotify.com/album/3mGX81bLEfQDOMh8G296RO) | 2:54 |
-| 4 | [Yötön yö](https://open.spotify.com/track/00EI0kIF3M2K4wrxJmsXWF) | [Etta](https://open.spotify.com/artist/3Lc2yroP05lRK5z9NtQTkc) | [Yötön yö](https://open.spotify.com/album/7B02QWRfAKJ1D99ld6atac) | 2:49 |
-| 5 | [Ylpee](https://open.spotify.com/track/0YiG81JSChnCxKCk5CoRD1) | [Jemina](https://open.spotify.com/artist/7hmwVPq4RGI2LOUrqzlLxA) | [Ylpee](https://open.spotify.com/album/2XWl2i4w4RDGOCAe8bEU4o) | 3:09 |
-| 6 | [Bad Dreams](https://open.spotify.com/track/3nHuKdFJZm78CoeBnDcFKe) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Bad Dreams](https://open.spotify.com/album/2VxQFEEnhwiV5LpMuHKViR) | 3:04 |
-| 7 | [ALL MY LOVE](https://open.spotify.com/track/6iYxkBHyMpsgVxUgfy5fSx) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Moon Music](https://open.spotify.com/album/5SGtrmYbIo0Dsg4kJ4qjM6) | 3:42 |
-| 8 | [Löytää mut](https://open.spotify.com/track/5ArcUruMjZyrHzQ0QilgJ4) | [Mirella](https://open.spotify.com/artist/5m8QXFAKCuty66pOzy9aPZ) | [Löytää mut](https://open.spotify.com/album/5sKJ8LTvSpyK3yZYEwRWGX) | 2:49 |
-| 9 | [Riittämätön \(feat\. Tomi Saario\)](https://open.spotify.com/track/4IM8WcV6lgjQeBbOA4JaDl) | [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq), [Tomi Saario](https://open.spotify.com/artist/1p1Q1tRavrbMGCgJdf9G0H) | [Riittämätön \(feat\. Tomi Saario\)](https://open.spotify.com/album/5BwWhNeYf1w9Kol1PbnDeL) | 3:33 |
-| 10 | [Timeless \(with Playboi Carti\)](https://open.spotify.com/track/1Es7AUAhQvapIcoh3qMKDL) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Timeless](https://open.spotify.com/album/2IRxVVqbSbqHJo8Zx50LYn) | 4:16 |
-| 11 | [Dancing In The Flames](https://open.spotify.com/track/7z7kvUQGwlC6iOl7vMuAr9) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dancing In The Flames](https://open.spotify.com/album/5XsZ5ZTcIHnZxjynaGxA0g) | 3:40 |
-| 12 | [Lainasydän](https://open.spotify.com/track/0taCC3ocM3n9k6SQwofsTA) | [ANI](https://open.spotify.com/artist/7aaGp8b4O2FQUwHY23MV0T) | [Lainasydän](https://open.spotify.com/album/1TmaqVzm3YoCZiTHaca06U) | 2:51 |
-| 13 | [Miten ihmiset löytää toisiaan \(feat\. Överi\)](https://open.spotify.com/track/0NdnLmxqqQZ8hNntW42L9y) | [ELLIMEI](https://open.spotify.com/artist/6rPI72mU3VRYb9YCKGi3ra), [Överi](https://open.spotify.com/artist/55ueMDhpCYDmeffxXff2Aw) | [Miten ihmiset löytää toisiaan \(feat\. Överi\)](https://open.spotify.com/album/4IJcslK1fUBCIDrIBFxUsn) | 3:19 |
-| 14 | [Spot a Fake](https://open.spotify.com/track/1svpo8ORIHy4BdgicdyUjx) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Spot a Fake](https://open.spotify.com/album/2LTf2Kj2XJuOR3Vi5AMkcD) | 2:47 |
+| 1 | [Riittämätön \(feat\. Tomi Saario\)](https://open.spotify.com/track/4IM8WcV6lgjQeBbOA4JaDl) | [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq), [Tomi Saario](https://open.spotify.com/artist/1p1Q1tRavrbMGCgJdf9G0H) | [Riittämätön \(feat\. Tomi Saario\)](https://open.spotify.com/album/5BwWhNeYf1w9Kol1PbnDeL) | 3:33 |
+| 2 | [Sun luokse](https://open.spotify.com/track/4OUdNzrfhl2AVu0qTNUIkz) | [AHTI](https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK), [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D) | [AHTI](https://open.spotify.com/album/3mGX81bLEfQDOMh8G296RO) | 2:54 |
+| 3 | [Ylpee](https://open.spotify.com/track/0YiG81JSChnCxKCk5CoRD1) | [Jemina](https://open.spotify.com/artist/7hmwVPq4RGI2LOUrqzlLxA) | [Ylpee](https://open.spotify.com/album/2XWl2i4w4RDGOCAe8bEU4o) | 3:09 |
+| 4 | [Iskelmää](https://open.spotify.com/track/0dqtnUAiNVHoffw7FUGi6D) | [OLGA](https://open.spotify.com/artist/5lrrAnWHek9LEQgB3MCfub) | [Iskelmää](https://open.spotify.com/album/2LXiIuRUeyfAcjZnZcrcDF) | 2:16 |
+| 5 | [ALL MY LOVE](https://open.spotify.com/track/6iYxkBHyMpsgVxUgfy5fSx) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Moon Music](https://open.spotify.com/album/5SGtrmYbIo0Dsg4kJ4qjM6) | 3:42 |
+| 6 | [Täydellinen ex](https://open.spotify.com/track/1ea8KlPlxVuMTMIDKrere6) | [Robin Packalen](https://open.spotify.com/artist/4Q4b4S784htx6DtxcMUfMO) | [Täydellinen ex](https://open.spotify.com/album/6oaZNJngmT5OxKl752Sfpt) | 3:04 |
+| 7 | [Yötön yö](https://open.spotify.com/track/00EI0kIF3M2K4wrxJmsXWF) | [Etta](https://open.spotify.com/artist/3Lc2yroP05lRK5z9NtQTkc) | [Yötön yö](https://open.spotify.com/album/7B02QWRfAKJ1D99ld6atac) | 2:49 |
+| 8 | [Spot a Fake](https://open.spotify.com/track/1svpo8ORIHy4BdgicdyUjx) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Spot a Fake](https://open.spotify.com/album/2LTf2Kj2XJuOR3Vi5AMkcD) | 2:47 |
+| 9 | [Bad Dreams](https://open.spotify.com/track/3nHuKdFJZm78CoeBnDcFKe) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Bad Dreams](https://open.spotify.com/album/2VxQFEEnhwiV5LpMuHKViR) | 3:04 |
+| 10 | [Löytää mut](https://open.spotify.com/track/5ArcUruMjZyrHzQ0QilgJ4) | [Mirella](https://open.spotify.com/artist/5m8QXFAKCuty66pOzy9aPZ) | [Löytää mut](https://open.spotify.com/album/5sKJ8LTvSpyK3yZYEwRWGX) | 2:49 |
+| 11 | [Timeless \(with Playboi Carti\)](https://open.spotify.com/track/1Es7AUAhQvapIcoh3qMKDL) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Timeless](https://open.spotify.com/album/2IRxVVqbSbqHJo8Zx50LYn) | 4:16 |
+| 12 | [Dancing In The Flames](https://open.spotify.com/track/7z7kvUQGwlC6iOl7vMuAr9) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dancing In The Flames](https://open.spotify.com/album/5XsZ5ZTcIHnZxjynaGxA0g) | 3:40 |
+| 13 | [Lainasydän](https://open.spotify.com/track/0taCC3ocM3n9k6SQwofsTA) | [ANI](https://open.spotify.com/artist/7aaGp8b4O2FQUwHY23MV0T) | [Lainasydän](https://open.spotify.com/album/1TmaqVzm3YoCZiTHaca06U) | 2:51 |
+| 14 | [Miten ihmiset löytää toisiaan \(feat\. Överi\)](https://open.spotify.com/track/0NdnLmxqqQZ8hNntW42L9y) | [ELLIMEI](https://open.spotify.com/artist/6rPI72mU3VRYb9YCKGi3ra), [Överi](https://open.spotify.com/artist/55ueMDhpCYDmeffxXff2Aw) | [Miten ihmiset löytää toisiaan \(feat\. Överi\)](https://open.spotify.com/album/4IJcslK1fUBCIDrIBFxUsn) | 3:19 |
 | 15 | [Suomalainen Superstara](https://open.spotify.com/track/4S61u0InVCx79RqYYMLTgC) | [jambo](https://open.spotify.com/artist/1fy2OEMI7TX9ayBKxErHK0), [Mikael Laurent](https://open.spotify.com/artist/5tflzG5jjh0ka3SrnOgewO) | [Suomalainen Superstara](https://open.spotify.com/album/7tLEy14aDUE1SQNd7yMQyW) | 3:02 |
 | 16 | [Freestyler \(Rock The Microphone\)](https://open.spotify.com/track/5Axl2Rjg3wOC3JHju1Gess) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Bomfunk MC's](https://open.spotify.com/artist/0NeC6ploeJUq8oDwYQjNPS) | [Freestyler \(Rock The Microphone\)](https://open.spotify.com/album/3hO7kTl82pnO2bhc4TFICc) | 2:54 |
 | 17 | [Happy Mistake](https://open.spotify.com/track/5DQIZ8XC0EP7cfRFrtzY5h) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Harlequin](https://open.spotify.com/album/6eKdAMXNBlXNtPy7OdBL50) | 4:05 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJFpsr4Sn91.md) - [plain]
 | 79 | [valssi](https://open.spotify.com/track/5enVWJXH9X2Biou4niupoJ) | [pehmoaino](https://open.spotify.com/artist/4Qk8DhjJRW0Dwd039aVOfr) | [soittorasia](https://open.spotify.com/album/49lFM84P2mYvVgbDWvDdZu) | 3:57 |
 | 80 | [Sano vaan](https://open.spotify.com/track/3bmaYlyaca8hvQ7cUEzHhG) | [costee](https://open.spotify.com/artist/3I4GcOB25cSJHa9d7Bsgji) | [Sano vaan](https://open.spotify.com/album/3SZuNM26rWPkYk5LGoiDjf) | 2:48 |
 
-Snapshot ID: `Zv8GDAAAAACgLB9DeowwHntGlGefHnaD`
+Snapshot ID: `Zv+VyQAAAABStq7UAGX1MA5mlYjdj4nm`

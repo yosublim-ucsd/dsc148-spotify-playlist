@@ -828,7 +828,7 @@
       ],
       "date_added": "2024-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 150979,
       "name": "Feel It Still",
       "url": "https://open.spotify.com/track/742i8sKnLgkU8QFug7eGQ9"
@@ -1659,6 +1659,32 @@
     },
     {
       "album": {
+        "name": "Le Sud (by Guts & Friends)",
+        "url": "https://open.spotify.com/album/6t9kFK3a714LQgrHvtubpk"
+      },
+      "artists": [
+        {
+          "name": "Nino Ferrer",
+          "url": "https://open.spotify.com/artist/3THqHCN7gq2Z9hLleof9uv"
+        },
+        {
+          "name": "Guts",
+          "url": "https://open.spotify.com/artist/5mMkUZv8uUrlH0SHX89BeS"
+        },
+        {
+          "name": "Florian Pellissier",
+          "url": "https://open.spotify.com/artist/0xiIT6hCcH1oLeoOZjHo0s"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321088,
+      "name": "Le Sud - Soul Jazz Version by Guts & Florian Pellissier",
+      "url": "https://open.spotify.com/track/0XpM3vPsbtZNAkEri6Keew"
+    },
+    {
+      "album": {
         "name": "Let It All Go",
         "url": "https://open.spotify.com/album/70kdvnoDEA1srIsofErTEw"
       },
@@ -2409,6 +2435,28 @@
     },
     {
       "album": {
+        "name": "Les Royaumes Minuscules",
+        "url": "https://open.spotify.com/album/3VGubAeKi1fg002fAta5rz"
+      },
+      "artists": [
+        {
+          "name": "Voyou",
+          "url": "https://open.spotify.com/artist/0EJdA6JT738oZGopzk8Usg"
+        },
+        {
+          "name": "November Ultra",
+          "url": "https://open.spotify.com/artist/0naOCLau0NmL1kdFlbZAfr"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182266,
+      "name": "Soleil Soleil (feat. November Ultra)",
+      "url": "https://open.spotify.com/track/4U8Dv8rLUSkWPqAf94zhhx"
+    },
+    {
+      "album": {
         "name": "boygenius",
         "url": "https://open.spotify.com/album/6RjlLIuDFC8Dw91yRAdPz9"
       },
@@ -2612,7 +2660,7 @@
       ],
       "date_added": "2024-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 155555,
       "name": "Sweet Dreams (Are Made of This) - Bossa Nova Version",
       "url": "https://open.spotify.com/track/67PFYFZIywl6xjGVCpLJmW"

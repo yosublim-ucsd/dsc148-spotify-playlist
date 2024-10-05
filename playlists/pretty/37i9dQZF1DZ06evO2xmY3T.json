@@ -1,12 +1,12 @@
 {
   "description": "This is Cardi B. The essential tracks, all in one playlist.",
-  "num_followers": 675265,
+  "num_followers": 675297,
   "original_name": "This Is Cardi B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvyNAAAAAADOhYvnJkbg4FuIeGZ3hdEp",
+  "snapshot_id": "Zv3egAAAAAAWDQv6gr5nD9Lbv8CxvtnB",
   "tracks": [
     {
       "added_at": null,
@@ -267,22 +267,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Up (Instrumental)",
-        "url": "https://open.spotify.com/album/0Fe4Uj7GkgA1uDGGk8s92C"
-      },
-      "artists": [
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        }
-      ],
-      "duration_ms": 156944,
-      "name": "Up",
-      "url": "https://open.spotify.com/track/1M4OcYkxAtu3ErzSgDEfoi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Enough (Miami)",
         "url": "https://open.spotify.com/album/18p7y4EZ6KczLQlgHWya1g"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 158727,
       "name": "Enough (Miami)",
       "url": "https://open.spotify.com/track/7pDfRnoEDRkcz7bQsOjnPc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Up (Instrumental)",
+        "url": "https://open.spotify.com/album/0Fe4Uj7GkgA1uDGGk8s92C"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "duration_ms": 156944,
+      "name": "Up",
+      "url": "https://open.spotify.com/track/1M4OcYkxAtu3ErzSgDEfoi"
     },
     {
       "added_at": null,
@@ -867,30 +867,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dinero",
-        "url": "https://open.spotify.com/album/1fT1s4VMXc9xGIamDyFz9S"
-      },
-      "artists": [
-        {
-          "name": "Jennifer Lopez",
-          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
-        },
-        {
-          "name": "DJ Khaled",
-          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
-        },
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        }
-      ],
-      "duration_ms": 213750,
-      "name": "Dinero",
-      "url": "https://open.spotify.com/track/22mQXNE0nCuWq4yOwcadIn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I Like It",
         "url": "https://open.spotify.com/album/6oRrfGcUeAwfX1lTdxZFFj"
       },
@@ -915,6 +891,30 @@
       "duration_ms": 219200,
       "name": "I Like It - Dillon Francis Remix",
       "url": "https://open.spotify.com/track/6WK7h2WfMmnX7zOZnfzoYo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dinero",
+        "url": "https://open.spotify.com/album/1fT1s4VMXc9xGIamDyFz9S"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        },
+        {
+          "name": "DJ Khaled",
+          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "duration_ms": 213750,
+      "name": "Dinero",
+      "url": "https://open.spotify.com/track/22mQXNE0nCuWq4yOwcadIn"
     },
     {
       "added_at": null,

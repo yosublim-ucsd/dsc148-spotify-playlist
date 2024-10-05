@@ -197,6 +197,24 @@
     },
     {
       "album": {
+        "name": "Always, Everytime",
+        "url": "https://open.spotify.com/album/3eJOnQipfXT3Z2ubwqb7sn"
+      },
+      "artists": [
+        {
+          "name": "The Wrecks",
+          "url": "https://open.spotify.com/artist/458aS6ALc3QkzwfR5USt34"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171748,
+      "name": "Always, Everytime",
+      "url": "https://open.spotify.com/track/1DbeTcnfS7kLnHhVsRlvqg"
+    },
+    {
+      "album": {
         "name": "Amphetamine Smiles",
         "url": "https://open.spotify.com/album/7ptOXK2GJcLr4sxx36DbgY"
       },
@@ -338,6 +356,24 @@
       "duration_ms": 199466,
       "name": "bella",
       "url": "https://open.spotify.com/track/5NIiWGCKe6gtR5rKrlQ6KR"
+    },
+    {
+      "album": {
+        "name": "Business Core",
+        "url": "https://open.spotify.com/album/5OdAH4Et1G5crDieu9xroD"
+      },
+      "artists": [
+        {
+          "name": "distraction4ever",
+          "url": "https://open.spotify.com/artist/7thbB90E6B9E50WqGJlcSh"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125708,
+      "name": "belong (another place)",
+      "url": "https://open.spotify.com/track/64dszp6SWEveU66npOgOyr"
     },
     {
       "album": {
@@ -1500,7 +1536,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 159156,
       "name": "is it too late?",
       "url": "https://open.spotify.com/track/7nM7v4mzorGlZbsJlhuDL3"
@@ -1644,7 +1680,7 @@
       ],
       "date_added": "2024-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 227104,
       "name": "Laminate The Sky",
       "url": "https://open.spotify.com/track/6dlFv26KzddYurWF4Ep5Zb"
@@ -2361,6 +2397,24 @@
     },
     {
       "album": {
+        "name": "Panoramic View",
+        "url": "https://open.spotify.com/album/3lN0LPFg54r1NQOmLW24Jz"
+      },
+      "artists": [
+        {
+          "name": "AWOLNATION",
+          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232733,
+      "name": "Panoramic View",
+      "url": "https://open.spotify.com/track/24DMpa4roYV1VkykwCSNMG"
+    },
+    {
+      "album": {
         "name": "Supernova",
         "url": "https://open.spotify.com/album/1fTspDmdJN3MlqyxnBO9GT"
       },
@@ -2430,6 +2484,24 @@
       "duration_ms": 107337,
       "name": "Pink Cheetah Print Slip",
       "url": "https://open.spotify.com/track/2CSeGqjIIhvmkgcJDqkKzl"
+    },
+    {
+      "album": {
+        "name": "pinky boy",
+        "url": "https://open.spotify.com/album/57LMbZ3RB5eYxPsYHF87q9"
+      },
+      "artists": [
+        {
+          "name": "ratbag",
+          "url": "https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285153,
+      "name": "pinky boy",
+      "url": "https://open.spotify.com/track/5qQnZ1b3lNzeZhRryzxfzZ"
     },
     {
       "album": {
@@ -2610,6 +2682,24 @@
       "duration_ms": 175699,
       "name": "Sad Sugar",
       "url": "https://open.spotify.com/track/4YBRbPgnOiv9cz78HC8CT7"
+    },
+    {
+      "album": {
+        "name": "Sailor Song",
+        "url": "https://open.spotify.com/album/68CN2LzY8MoxO2udy2C22e"
+      },
+      "artists": [
+        {
+          "name": "Gigi Perez",
+          "url": "https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211978,
+      "name": "Sailor Song",
+      "url": "https://open.spotify.com/track/2262bWmqomIaJXwCRHr13j"
     },
     {
       "album": {
@@ -3532,7 +3622,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 195099,
       "name": "We Made It Look Easy",
       "url": "https://open.spotify.com/track/54nIYP6OEPd42waWV7YiPG"
@@ -3644,7 +3734,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 253026,
       "name": "Wolf",
       "url": "https://open.spotify.com/track/4g3alZ0okNvZiOWW4pGUpw"
@@ -3662,7 +3752,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 198203,
       "name": "World On Fire",
       "url": "https://open.spotify.com/track/7CYvA2dKCUZUxfUohwyFU0"

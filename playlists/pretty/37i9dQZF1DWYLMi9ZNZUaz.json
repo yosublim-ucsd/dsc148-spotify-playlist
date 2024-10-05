@@ -1,6 +1,6 @@
 {
   "description": "C\u00e1c anh Long c\u1ee7a l\u00e0ng hip-hop: Emcee L, WEAN, Rtee, Low G",
-  "num_followers": 97414,
+  "num_followers": 97438,
   "original_name": "Hip-hop Vi\u1ec7t",
   "owner": {
     "name": "Spotify",
@@ -307,6 +307,22 @@
     {
       "added_at": "2024-10-03 11:06:31",
       "album": {
+        "name": "Th\u1ee9c Gi\u1ea5c",
+        "url": "https://open.spotify.com/album/5g1CmwPBfBGvODvhQdi9oi"
+      },
+      "artists": [
+        {
+          "name": "Da LAB",
+          "url": "https://open.spotify.com/artist/6zUWZmyi5MLOEynQ5wCI5f"
+        }
+      ],
+      "duration_ms": 269021,
+      "name": "Th\u1ee9c Gi\u1ea5c",
+      "url": "https://open.spotify.com/track/1MiJk3dXC5jzhvLFP0dUM7"
+    },
+    {
+      "added_at": "2024-10-03 11:06:31",
+      "album": {
         "name": "L\u1ec7 L\u01b0u Ly",
         "url": "https://open.spotify.com/album/5hKHXzNB0vwgAlFXJNRV34"
       },
@@ -327,22 +343,6 @@
       "duration_ms": 200842,
       "name": "L\u1ec7 L\u01b0u Ly",
       "url": "https://open.spotify.com/track/2JuHIbFudHwDqQssgqsH3i"
-    },
-    {
-      "added_at": "2024-10-03 11:06:31",
-      "album": {
-        "name": "Th\u1ee9c Gi\u1ea5c",
-        "url": "https://open.spotify.com/album/5g1CmwPBfBGvODvhQdi9oi"
-      },
-      "artists": [
-        {
-          "name": "Da LAB",
-          "url": "https://open.spotify.com/artist/6zUWZmyi5MLOEynQ5wCI5f"
-        }
-      ],
-      "duration_ms": 269021,
-      "name": "Th\u1ee9c Gi\u1ea5c",
-      "url": "https://open.spotify.com/track/1MiJk3dXC5jzhvLFP0dUM7"
     },
     {
       "added_at": "2024-10-03 11:06:31",
@@ -695,22 +695,6 @@
     {
       "added_at": "2024-10-03 11:06:31",
       "album": {
-        "name": "Y\u00eau 5",
-        "url": "https://open.spotify.com/album/0zverkhFFDtpDSZlbmJkTr"
-      },
-      "artists": [
-        {
-          "name": "Rhymastic",
-          "url": "https://open.spotify.com/artist/0gGd4WhPXBSgDX6fdOHcOw"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Y\u00eau 5",
-      "url": "https://open.spotify.com/track/5U30iZBlmxkpHqzb1OSnBS"
-    },
-    {
-      "added_at": "2024-10-03 11:06:31",
-      "album": {
         "name": "Cho M\u00ecnh Em",
         "url": "https://open.spotify.com/album/5oOVxWfhlsD4cYzUh1VBCr"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 206400,
       "name": "Cho M\u00ecnh Em",
       "url": "https://open.spotify.com/track/51bYFYWODfYOZU0rwvjiCc"
+    },
+    {
+      "added_at": "2024-10-03 11:06:31",
+      "album": {
+        "name": "Y\u00eau 5",
+        "url": "https://open.spotify.com/album/0zverkhFFDtpDSZlbmJkTr"
+      },
+      "artists": [
+        {
+          "name": "Rhymastic",
+          "url": "https://open.spotify.com/artist/0gGd4WhPXBSgDX6fdOHcOw"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Y\u00eau 5",
+      "url": "https://open.spotify.com/track/5U30iZBlmxkpHqzb1OSnBS"
     },
     {
       "added_at": "2024-10-03 11:06:31",
@@ -779,6 +779,26 @@
     {
       "added_at": "2024-10-03 11:06:31",
       "album": {
+        "name": "Ch\u00ecm S\u00e2u",
+        "url": "https://open.spotify.com/album/2AZXUAGWs90yNEUC4biubs"
+      },
+      "artists": [
+        {
+          "name": "RPT MCK",
+          "url": "https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL"
+        },
+        {
+          "name": "Trung Tr\u1ea7n",
+          "url": "https://open.spotify.com/artist/2v14NO80QYditUms7sbEIZ"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Ch\u00ecm S\u00e2u",
+      "url": "https://open.spotify.com/track/4ih9noxBfg7euMjCPO0qNH"
+    },
+    {
+      "added_at": "2024-10-03 11:06:31",
+      "album": {
         "name": "Thi\u00eau Th\u00e2n",
         "url": "https://open.spotify.com/album/5IRZs8eeDLf4flNXbWJ4K9"
       },
@@ -803,26 +823,6 @@
       "duration_ms": 198788,
       "name": "Thi\u00eau Th\u00e2n",
       "url": "https://open.spotify.com/track/2QyOYFAxW2khNYee4yeT6r"
-    },
-    {
-      "added_at": "2024-10-03 11:06:31",
-      "album": {
-        "name": "Ch\u00ecm S\u00e2u",
-        "url": "https://open.spotify.com/album/2AZXUAGWs90yNEUC4biubs"
-      },
-      "artists": [
-        {
-          "name": "RPT MCK",
-          "url": "https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL"
-        },
-        {
-          "name": "Trung Tr\u1ea7n",
-          "url": "https://open.spotify.com/artist/2v14NO80QYditUms7sbEIZ"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Ch\u00ecm S\u00e2u",
-      "url": "https://open.spotify.com/track/4ih9noxBfg7euMjCPO0qNH"
     },
     {
       "added_at": "2024-10-03 11:06:31",
@@ -895,18 +895,26 @@
     {
       "added_at": "2024-10-03 11:06:31",
       "album": {
-        "name": "10 Ng\u00e0n N\u0103m",
-        "url": "https://open.spotify.com/album/1LkA7FjIQpuZBgxdd3nNvF"
+        "name": "GOLDEN BOY",
+        "url": "https://open.spotify.com/album/0Vroo2lvsi4jASGrBTyoxH"
       },
       "artists": [
         {
-          "name": "PC",
-          "url": "https://open.spotify.com/artist/3HD3V1nGFPwepBO7064Ij0"
+          "name": "Rocky CDE",
+          "url": "https://open.spotify.com/artist/2lnesmkx2eGDj0wTUv61Ch"
+        },
+        {
+          "name": "Dangrangto",
+          "url": "https://open.spotify.com/artist/5xY6E5PMZNtz9jDvxTRiGI"
+        },
+        {
+          "name": "VCC Left Hand",
+          "url": "https://open.spotify.com/artist/3QjJx8Yp2mXYoHtiPI7VMI"
         }
       ],
-      "duration_ms": 240000,
-      "name": "10 Ng\u00e0n N\u0103m",
-      "url": "https://open.spotify.com/track/76KYaCx7UjHwlnrqzcovLZ"
+      "duration_ms": 274212,
+      "name": "Vi\u1ec7c N\u00ean L\u00e0m",
+      "url": "https://open.spotify.com/track/3TBZ2VchMRulZU8SbJx0Sc"
     },
     {
       "added_at": "2024-10-03 11:06:31",
@@ -923,26 +931,6 @@
       "duration_ms": 252892,
       "name": "y\u00eau anh \u0111i m\u1eb9 anh b\u00e1n b\u00e1nh m\u00ec",
       "url": "https://open.spotify.com/track/70hEVaGwwat644nPWkhKNW"
-    },
-    {
-      "added_at": "2024-10-03 11:06:31",
-      "album": {
-        "name": "Ex's Hate Me",
-        "url": "https://open.spotify.com/album/7LbymDU8cc2RSzimBgWsKm"
-      },
-      "artists": [
-        {
-          "name": "B Ray",
-          "url": "https://open.spotify.com/artist/1WvNgEoB66jmHodcj15Zi9"
-        },
-        {
-          "name": "AMEE",
-          "url": "https://open.spotify.com/artist/2aQnC3DbZB9GbauvhAw7ve"
-        }
-      ],
-      "duration_ms": 258023,
-      "name": "Ex's Hate Me",
-      "url": "https://open.spotify.com/track/170CNv2CAZn8wg6GxvHXYC"
     },
     {
       "added_at": "2024-10-03 11:06:31",
@@ -971,26 +959,38 @@
     {
       "added_at": "2024-10-03 11:06:31",
       "album": {
-        "name": "GOLDEN BOY",
-        "url": "https://open.spotify.com/album/0Vroo2lvsi4jASGrBTyoxH"
+        "name": "Ex's Hate Me",
+        "url": "https://open.spotify.com/album/7LbymDU8cc2RSzimBgWsKm"
       },
       "artists": [
         {
-          "name": "Rocky CDE",
-          "url": "https://open.spotify.com/artist/2lnesmkx2eGDj0wTUv61Ch"
+          "name": "B Ray",
+          "url": "https://open.spotify.com/artist/1WvNgEoB66jmHodcj15Zi9"
         },
         {
-          "name": "Dangrangto",
-          "url": "https://open.spotify.com/artist/5xY6E5PMZNtz9jDvxTRiGI"
-        },
-        {
-          "name": "VCC Left Hand",
-          "url": "https://open.spotify.com/artist/3QjJx8Yp2mXYoHtiPI7VMI"
+          "name": "AMEE",
+          "url": "https://open.spotify.com/artist/2aQnC3DbZB9GbauvhAw7ve"
         }
       ],
-      "duration_ms": 274212,
-      "name": "Vi\u1ec7c N\u00ean L\u00e0m",
-      "url": "https://open.spotify.com/track/3TBZ2VchMRulZU8SbJx0Sc"
+      "duration_ms": 258023,
+      "name": "Ex's Hate Me",
+      "url": "https://open.spotify.com/track/170CNv2CAZn8wg6GxvHXYC"
+    },
+    {
+      "added_at": "2024-10-03 11:06:31",
+      "album": {
+        "name": "10 Ng\u00e0n N\u0103m",
+        "url": "https://open.spotify.com/album/1LkA7FjIQpuZBgxdd3nNvF"
+      },
+      "artists": [
+        {
+          "name": "PC",
+          "url": "https://open.spotify.com/artist/3HD3V1nGFPwepBO7064Ij0"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "10 Ng\u00e0n N\u0103m",
+      "url": "https://open.spotify.com/track/76KYaCx7UjHwlnrqzcovLZ"
     },
     {
       "added_at": "2024-10-03 11:06:31",

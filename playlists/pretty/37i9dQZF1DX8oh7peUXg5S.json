@@ -1,6 +1,6 @@
 {
   "description": "El don de cantar y componer, una playlist llena de talento. Foto: S\u00edlvia P\u00e9rez Cruz.",
-  "num_followers": 329652,
+  "num_followers": 329672,
   "original_name": "Cantautoras",
   "owner": {
     "name": "Spotify",
@@ -975,22 +975,6 @@
     {
       "added_at": "2024-10-03 22:00:00",
       "album": {
-        "name": "Mi Chile Lindo",
-        "url": "https://open.spotify.com/album/16KWkUYL6MuyJwzyO5onbl"
-      },
-      "artists": [
-        {
-          "name": "Violeta Parra",
-          "url": "https://open.spotify.com/artist/4ejp2yEDQIIJIy0iFpoI5B"
-        }
-      ],
-      "duration_ms": 278040,
-      "name": "Gracias a la Vida",
-      "url": "https://open.spotify.com/track/5U7MyRNbuZrWkyAI4bm3Ja"
-    },
-    {
-      "added_at": "2024-10-03 22:00:00",
-      "album": {
         "name": "Solo para Ti",
         "url": "https://open.spotify.com/album/5jan6YmFUSlMdOg0mgz9yq"
       },
@@ -1015,6 +999,22 @@
     {
       "added_at": "2024-10-03 22:00:00",
       "album": {
+        "name": "Mi Chile Lindo",
+        "url": "https://open.spotify.com/album/16KWkUYL6MuyJwzyO5onbl"
+      },
+      "artists": [
+        {
+          "name": "Violeta Parra",
+          "url": "https://open.spotify.com/artist/4ejp2yEDQIIJIy0iFpoI5B"
+        }
+      ],
+      "duration_ms": 278040,
+      "name": "Gracias a la Vida",
+      "url": "https://open.spotify.com/track/5U7MyRNbuZrWkyAI4bm3Ja"
+    },
+    {
+      "added_at": "2024-10-03 22:00:00",
+      "album": {
         "name": "Canciones De Amor Para Tiempos Dificiles",
         "url": "https://open.spotify.com/album/1HITxEQK7ac082gDH7ynDR"
       },
@@ -1031,18 +1031,18 @@
     {
       "added_at": "2024-10-03 22:00:00",
       "album": {
-        "name": "Canciones 1980-2009",
-        "url": "https://open.spotify.com/album/07JZVPABSbkGmTHDHDCt6u"
+        "name": "City Zen",
+        "url": "https://open.spotify.com/album/37dsJwV9mJUYSOjeUHif3L"
       },
       "artists": [
         {
-          "name": "Antonio Vega",
-          "url": "https://open.spotify.com/artist/0r4YtlmJPQk1xhiVKHuPeF"
+          "name": "Kevin Johansen",
+          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
         }
       ],
-      "duration_ms": 190493,
-      "name": "El sitio de mi recreo",
-      "url": "https://open.spotify.com/track/2tkMVjFwDzUCG3ulmz3fCb"
+      "duration_ms": 228413,
+      "name": "Desde Que Te Perd\u00ed",
+      "url": "https://open.spotify.com/track/3kfXwiFSsdqyWG5C7PULIZ"
     },
     {
       "added_at": "2024-10-03 22:00:00",
@@ -1099,18 +1099,18 @@
     {
       "added_at": "2024-10-03 22:00:00",
       "album": {
-        "name": "City Zen",
-        "url": "https://open.spotify.com/album/37dsJwV9mJUYSOjeUHif3L"
+        "name": "Canciones 1980-2009",
+        "url": "https://open.spotify.com/album/07JZVPABSbkGmTHDHDCt6u"
       },
       "artists": [
         {
-          "name": "Kevin Johansen",
-          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
+          "name": "Antonio Vega",
+          "url": "https://open.spotify.com/artist/0r4YtlmJPQk1xhiVKHuPeF"
         }
       ],
-      "duration_ms": 228413,
-      "name": "Desde Que Te Perd\u00ed",
-      "url": "https://open.spotify.com/track/3kfXwiFSsdqyWG5C7PULIZ"
+      "duration_ms": 190493,
+      "name": "El sitio de mi recreo",
+      "url": "https://open.spotify.com/track/2tkMVjFwDzUCG3ulmz3fCb"
     },
     {
       "added_at": "2024-10-03 22:00:00",
@@ -1495,18 +1495,18 @@
     {
       "added_at": "2024-10-03 22:00:00",
       "album": {
-        "name": "La Llamada",
-        "url": "https://open.spotify.com/album/4IKa51k08eP9C6MhKslZ21"
+        "name": "B\u00e1sico",
+        "url": "https://open.spotify.com/album/29MlnmVjoff9GwJQT9bTka"
       },
       "artists": [
         {
-          "name": "Ismael Serrano",
-          "url": "https://open.spotify.com/artist/4eyF2eDCunzeFykH90Ej34"
+          "name": "Antonio Vega",
+          "url": "https://open.spotify.com/artist/0r4YtlmJPQk1xhiVKHuPeF"
         }
       ],
-      "duration_ms": 365986,
-      "name": "Mi Problema",
-      "url": "https://open.spotify.com/track/6PIRiVNVZk0vN9ZyUJTqKj"
+      "duration_ms": 237600,
+      "name": "Lucha de gigantes - Live",
+      "url": "https://open.spotify.com/track/0WWSqjiV8czuWNQ05C5aXl"
     },
     {
       "added_at": "2024-10-03 22:00:00",
@@ -1543,18 +1543,18 @@
     {
       "added_at": "2024-10-03 22:00:00",
       "album": {
-        "name": "B\u00e1sico",
-        "url": "https://open.spotify.com/album/29MlnmVjoff9GwJQT9bTka"
+        "name": "La Llamada",
+        "url": "https://open.spotify.com/album/4IKa51k08eP9C6MhKslZ21"
       },
       "artists": [
         {
-          "name": "Antonio Vega",
-          "url": "https://open.spotify.com/artist/0r4YtlmJPQk1xhiVKHuPeF"
+          "name": "Ismael Serrano",
+          "url": "https://open.spotify.com/artist/4eyF2eDCunzeFykH90Ej34"
         }
       ],
-      "duration_ms": 237600,
-      "name": "Lucha de gigantes - Live",
-      "url": "https://open.spotify.com/track/0WWSqjiV8czuWNQ05C5aXl"
+      "duration_ms": 365986,
+      "name": "Mi Problema",
+      "url": "https://open.spotify.com/track/6PIRiVNVZk0vN9ZyUJTqKj"
     },
     {
       "added_at": "2024-10-03 22:00:00",
@@ -1615,26 +1615,6 @@
     {
       "added_at": "2024-10-03 22:00:00",
       "album": {
-        "name": "Yo Sin T\u00fa",
-        "url": "https://open.spotify.com/album/2fxhvC6LYtfZepIoaKIo7i"
-      },
-      "artists": [
-        {
-          "name": "El Jose",
-          "url": "https://open.spotify.com/artist/2bYHojIdnEKALvN2TZ3zrP"
-        },
-        {
-          "name": "El Kanka",
-          "url": "https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL"
-        }
-      ],
-      "duration_ms": 308333,
-      "name": "Un Solo Corazo\u0301n",
-      "url": "https://open.spotify.com/track/2yvUa42t8I1vSTn51Ex29r"
-    },
-    {
-      "added_at": "2024-10-03 22:00:00",
-      "album": {
         "name": "Apuntes Sobre Mi Paso por el Invierno",
         "url": "https://open.spotify.com/album/1bRyXcN5qtq5aGf0GBss1b"
       },
@@ -1651,6 +1631,26 @@
       "duration_ms": 256894,
       "name": "Puede Ser Que la Conozcas",
       "url": "https://open.spotify.com/track/3C0uVZhpunilhtO5JHvxX7"
+    },
+    {
+      "added_at": "2024-10-03 22:00:00",
+      "album": {
+        "name": "Yo Sin T\u00fa",
+        "url": "https://open.spotify.com/album/2fxhvC6LYtfZepIoaKIo7i"
+      },
+      "artists": [
+        {
+          "name": "El Jose",
+          "url": "https://open.spotify.com/artist/2bYHojIdnEKALvN2TZ3zrP"
+        },
+        {
+          "name": "El Kanka",
+          "url": "https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL"
+        }
+      ],
+      "duration_ms": 308333,
+      "name": "Un Solo Corazo\u0301n",
+      "url": "https://open.spotify.com/track/2yvUa42t8I1vSTn51Ex29r"
     },
     {
       "added_at": "2024-10-03 22:00:00",

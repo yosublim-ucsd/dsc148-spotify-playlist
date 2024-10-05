@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4vCk1GJH7zl.md) - [plain]
 
 > Sucessos e novidades do rock calminho pra relaxar o seu dia! Foto: Ananda, Lou Garcia
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,450 likes - 80 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,459 likes - 80 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4vCk1GJH7zl.md) - [plain]
 | 49 | [4AM](https://open.spotify.com/track/4VfrfzD3LTqhsnUbw6SYWy) | [Clarissa](https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK) | [4AM](https://open.spotify.com/album/23Suwv1qRqeO75u1QUVIGX) | 2:57 |
 | 50 | [Começa Tudo Outra Vez](https://open.spotify.com/track/6h0ASQ97OHyTyY8AfcCfAN) | [Humberto Gessinger](https://open.spotify.com/artist/4A4HpNHrbu2nzPyIGFTaJ5) | [Quatro Cantos de Um Mundo Redondo](https://open.spotify.com/album/5xBXM2fP2SkEEttijLCtGB) | 3:28 |
 | 51 | [Só Hoje \- Strings Orchestra](https://open.spotify.com/track/1WMoGAaApDZWppKKSjdP9h) | [Jota Quest](https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6) | [Só Hoje \(Strings Orchestra\)](https://open.spotify.com/album/2bDZbub5i4W1JE4sEg6tOq) | 3:29 |
-| 52 | [Pra Você Guardei o Amor](https://open.spotify.com/track/3SMhMfrSXYqIgqwViduXnv) | [Nando Reis](https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy), [Colomy](https://open.spotify.com/artist/3cZPhYBGxe9nqWRe3xAlmp) | [Pra Você Guardei o Amor](https://open.spotify.com/album/4aOptqsyZ2qudQGtdPucdQ) | 4:59 |
-| 53 | [Mais Nada](https://open.spotify.com/track/5iLAvmP1hn9ewmEqcyvgn0) | [Raphael Ota](https://open.spotify.com/artist/71pX95QqMGfZ2D5P81nW0Q), [PEU](https://open.spotify.com/artist/6kpPbpC43H8QLZkwN6D19f) | [Mais Nada](https://open.spotify.com/album/0wPxGvqmgbf4Tj3ItD353N) | 3:13 |
+| 52 | [Mais Nada](https://open.spotify.com/track/5iLAvmP1hn9ewmEqcyvgn0) | [Raphael Ota](https://open.spotify.com/artist/71pX95QqMGfZ2D5P81nW0Q), [PEU](https://open.spotify.com/artist/6kpPbpC43H8QLZkwN6D19f) | [Mais Nada](https://open.spotify.com/album/0wPxGvqmgbf4Tj3ItD353N) | 3:13 |
+| 53 | [Pra Você Guardei o Amor](https://open.spotify.com/track/3SMhMfrSXYqIgqwViduXnv) | [Nando Reis](https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy), [Colomy](https://open.spotify.com/artist/3cZPhYBGxe9nqWRe3xAlmp) | [Pra Você Guardei o Amor](https://open.spotify.com/album/4aOptqsyZ2qudQGtdPucdQ) | 4:59 |
 | 54 | [Tudo Fica Bem \- Acústico](https://open.spotify.com/track/5IQiul9hH6sL4WNm8QS397) | [Tianastacia](https://open.spotify.com/artist/3ucYi2JRu3j12lHbfqms9u) | [Tudo Fica Bem \- Acústico](https://open.spotify.com/album/3ELasphaer4uFY996px5iC) | 2:45 |
 | 55 | [Alquimia](https://open.spotify.com/track/4NmZEzKC42IGwAZAyFoid1) | [Dnaipes](https://open.spotify.com/artist/5M2uhgdUkJclA49HogSCae) | [Alquimia](https://open.spotify.com/album/1Lta0vnybMxH2473GXUPIt) | 3:46 |
 | 56 | [Quanto Tempo Demora Um Mês](https://open.spotify.com/track/64kByFEamIW6sVECquQlRm) | [Biquini Cavadão](https://open.spotify.com/artist/7E5dcvoiZra9wwBuXYAYTw) | [Quanto Tempo Demora Um Mês](https://open.spotify.com/album/6umXN07xdVY0zfabiVqrf8) | 3:30 |

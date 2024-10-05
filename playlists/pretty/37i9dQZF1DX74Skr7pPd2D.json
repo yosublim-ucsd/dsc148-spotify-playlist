@@ -1,6 +1,6 @@
 {
   "description": "Releases from the legendary label.",
-  "num_followers": 44791,
+  "num_followers": 44795,
   "original_name": "Legendary Labels: Verve Records",
   "owner": {
     "name": "Spotify",
@@ -287,22 +287,6 @@
     {
       "added_at": "2019-10-02 08:54:10",
       "album": {
-        "name": "Tequila (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7DGv1MKlPZrLkP0HCSDm8I"
-      },
-      "artists": [
-        {
-          "name": "Wes Montgomery",
-          "url": "https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ"
-        }
-      ],
-      "duration_ms": 289000,
-      "name": "Bumpin' On Sunset",
-      "url": "https://open.spotify.com/track/1yxJK6q9oymWO3vjbPCYmp"
-    },
-    {
-      "added_at": "2019-10-02 08:54:10",
-      "album": {
         "name": "Ellis In Wonderland",
         "url": "https://open.spotify.com/album/0eoeuhP2vaqXF05wiDTTWP"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 224320,
       "name": "It Could Happen To You",
       "url": "https://open.spotify.com/track/7ns8zu3jKepR1oed6TvglA"
+    },
+    {
+      "added_at": "2019-10-02 08:54:10",
+      "album": {
+        "name": "Tequila (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7DGv1MKlPZrLkP0HCSDm8I"
+      },
+      "artists": [
+        {
+          "name": "Wes Montgomery",
+          "url": "https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ"
+        }
+      ],
+      "duration_ms": 289000,
+      "name": "Bumpin' On Sunset",
+      "url": "https://open.spotify.com/track/1yxJK6q9oymWO3vjbPCYmp"
     },
     {
       "added_at": "2019-10-02 08:54:10",
@@ -931,22 +931,18 @@
     {
       "added_at": "2019-10-02 08:54:10",
       "album": {
-        "name": "Empathy",
-        "url": "https://open.spotify.com/album/3R0A51xf7JzlKCEm3RmleH"
+        "name": "Trio 64",
+        "url": "https://open.spotify.com/album/4rLPJEiZuhRRswnBGBgVvv"
       },
       "artists": [
         {
           "name": "Bill Evans",
           "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
-        },
-        {
-          "name": "Shelly Manne",
-          "url": "https://open.spotify.com/artist/6M7ScGp8p2GspFJaIMh1Yo"
         }
       ],
-      "duration_ms": 270666,
-      "name": "Let's Go Back To The Waltz",
-      "url": "https://open.spotify.com/track/2JJJzJ5E8wx3H5CwuxZO0f"
+      "duration_ms": 275133,
+      "name": "Dancing In The Dark",
+      "url": "https://open.spotify.com/track/3QnB59VTOkWNGBk8qptee6"
     },
     {
       "added_at": "2019-10-04 16:01:14",
@@ -1103,18 +1099,22 @@
     {
       "added_at": "2019-10-02 08:54:10",
       "album": {
-        "name": "Trio 64",
-        "url": "https://open.spotify.com/album/4rLPJEiZuhRRswnBGBgVvv"
+        "name": "Empathy",
+        "url": "https://open.spotify.com/album/3R0A51xf7JzlKCEm3RmleH"
       },
       "artists": [
         {
           "name": "Bill Evans",
           "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
+        },
+        {
+          "name": "Shelly Manne",
+          "url": "https://open.spotify.com/artist/6M7ScGp8p2GspFJaIMh1Yo"
         }
       ],
-      "duration_ms": 275133,
-      "name": "Dancing In The Dark",
-      "url": "https://open.spotify.com/track/3QnB59VTOkWNGBk8qptee6"
+      "duration_ms": 270666,
+      "name": "Let's Go Back To The Waltz",
+      "url": "https://open.spotify.com/track/2JJJzJ5E8wx3H5CwuxZO0f"
     },
     {
       "added_at": "2019-10-04 16:01:14",
@@ -1231,6 +1231,22 @@
     {
       "added_at": "2019-10-02 08:54:10",
       "album": {
+        "name": "The Complete Verve Studio Sessions",
+        "url": "https://open.spotify.com/album/7MtvcTxFnvzzhkmRsPiHA2"
+      },
+      "artists": [
+        {
+          "name": "Roy Eldridge",
+          "url": "https://open.spotify.com/artist/4RvXA7BDgqNgGDjsSSJnPc"
+        }
+      ],
+      "duration_ms": 213133,
+      "name": "Somebody Loves Me",
+      "url": "https://open.spotify.com/track/30VONnonLwftL8WeCopyLt"
+    },
+    {
+      "added_at": "2019-10-02 08:54:10",
+      "album": {
         "name": "Buddy Defranco And Oscar Peterson Play George Gershwin",
         "url": "https://open.spotify.com/album/0D8KgxxJoVSrZe3XVPzrC3"
       },
@@ -1247,22 +1263,6 @@
       "duration_ms": 261573,
       "name": "'S Wonderful",
       "url": "https://open.spotify.com/track/3MDM8xFeOPmTQgmV5mJUqB"
-    },
-    {
-      "added_at": "2019-10-02 08:54:10",
-      "album": {
-        "name": "The Complete Verve Studio Sessions",
-        "url": "https://open.spotify.com/album/7MtvcTxFnvzzhkmRsPiHA2"
-      },
-      "artists": [
-        {
-          "name": "Roy Eldridge",
-          "url": "https://open.spotify.com/artist/4RvXA7BDgqNgGDjsSSJnPc"
-        }
-      ],
-      "duration_ms": 213133,
-      "name": "Somebody Loves Me",
-      "url": "https://open.spotify.com/track/30VONnonLwftL8WeCopyLt"
     },
     {
       "added_at": "2019-10-04 16:01:14",
@@ -1383,6 +1383,22 @@
     {
       "added_at": "2019-10-04 16:01:14",
       "album": {
+        "name": "The Complete Verve Studio Sessions",
+        "url": "https://open.spotify.com/album/7MtvcTxFnvzzhkmRsPiHA2"
+      },
+      "artists": [
+        {
+          "name": "Roy Eldridge",
+          "url": "https://open.spotify.com/artist/4RvXA7BDgqNgGDjsSSJnPc"
+        }
+      ],
+      "duration_ms": 240013,
+      "name": "Blue Moon",
+      "url": "https://open.spotify.com/track/5aMjgZfUjvHrG23l5fIM4W"
+    },
+    {
+      "added_at": "2019-10-04 16:01:14",
+      "album": {
         "name": "Worth Waiting For",
         "url": "https://open.spotify.com/album/4kM5RiMozOGvrkvzPLYxvR"
       },
@@ -1411,22 +1427,6 @@
       "duration_ms": 231106,
       "name": "Lullaby In Rhythm",
       "url": "https://open.spotify.com/track/1tXiZvtgg9XqlB86x4Ukqj"
-    },
-    {
-      "added_at": "2019-10-04 16:01:14",
-      "album": {
-        "name": "The Complete Verve Studio Sessions",
-        "url": "https://open.spotify.com/album/7MtvcTxFnvzzhkmRsPiHA2"
-      },
-      "artists": [
-        {
-          "name": "Roy Eldridge",
-          "url": "https://open.spotify.com/artist/4RvXA7BDgqNgGDjsSSJnPc"
-        }
-      ],
-      "duration_ms": 240013,
-      "name": "Blue Moon",
-      "url": "https://open.spotify.com/track/5aMjgZfUjvHrG23l5fIM4W"
     },
     {
       "added_at": "2019-10-02 08:54:10",
@@ -1479,18 +1479,22 @@
     {
       "added_at": "2019-10-02 08:54:10",
       "album": {
-        "name": "Ella Fitzgerald Sings The Duke Ellington Song Book",
-        "url": "https://open.spotify.com/album/2VgS17fUEsUer5nCbM2juj"
+        "name": "The Complete Verve Studio Sessions",
+        "url": "https://open.spotify.com/album/7MtvcTxFnvzzhkmRsPiHA2"
       },
       "artists": [
         {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+          "name": "Roy Eldridge",
+          "url": "https://open.spotify.com/artist/4RvXA7BDgqNgGDjsSSJnPc"
+        },
+        {
+          "name": "Benny Carter",
+          "url": "https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32"
         }
       ],
-      "duration_ms": 168346,
-      "name": "In A Sentimental Mood",
-      "url": "https://open.spotify.com/track/3MNxcdz3SFeMfX4KunRsjZ"
+      "duration_ms": 159733,
+      "name": "Close Your Eyes",
+      "url": "https://open.spotify.com/track/3RlSNWZozZWOjSLvyjAd3l"
     },
     {
       "added_at": "2019-10-02 08:54:10",
@@ -1519,6 +1523,38 @@
     {
       "added_at": "2019-10-02 08:54:10",
       "album": {
+        "name": "Ella Fitzgerald Sings The Duke Ellington Song Book",
+        "url": "https://open.spotify.com/album/2VgS17fUEsUer5nCbM2juj"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        }
+      ],
+      "duration_ms": 168346,
+      "name": "In A Sentimental Mood",
+      "url": "https://open.spotify.com/track/3MNxcdz3SFeMfX4KunRsjZ"
+    },
+    {
+      "added_at": "2019-10-02 08:54:10",
+      "album": {
+        "name": "The Audience With Betty Carter (Live)",
+        "url": "https://open.spotify.com/album/19sY1QgcDOQLe8MpHOfYTx"
+      },
+      "artists": [
+        {
+          "name": "Betty Carter",
+          "url": "https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ"
+        }
+      ],
+      "duration_ms": 221333,
+      "name": "I Could Write A Book - Live At Bradshaw's Great American Music Hall, San Francisco/1979",
+      "url": "https://open.spotify.com/track/2MdYSm0alrxtQ6jRFjtoSC"
+    },
+    {
+      "added_at": "2019-10-02 08:54:10",
+      "album": {
         "name": "Getz / Gilberto",
         "url": "https://open.spotify.com/album/3JvFflPIx7bB6lJ4qId2Er"
       },
@@ -1543,22 +1579,6 @@
     {
       "added_at": "2019-10-02 08:54:10",
       "album": {
-        "name": "The Audience With Betty Carter (Live)",
-        "url": "https://open.spotify.com/album/19sY1QgcDOQLe8MpHOfYTx"
-      },
-      "artists": [
-        {
-          "name": "Betty Carter",
-          "url": "https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ"
-        }
-      ],
-      "duration_ms": 221333,
-      "name": "I Could Write A Book - Live At Bradshaw's Great American Music Hall, San Francisco/1979",
-      "url": "https://open.spotify.com/track/2MdYSm0alrxtQ6jRFjtoSC"
-    },
-    {
-      "added_at": "2019-10-02 08:54:10",
-      "album": {
         "name": "Smokin' At The Half Note",
         "url": "https://open.spotify.com/album/6kkXNkmh8FfOvBOvP4U2VD"
       },
@@ -1575,26 +1595,6 @@
       "duration_ms": 405506,
       "name": "Four On Six",
       "url": "https://open.spotify.com/track/10XhGrvv6UcKUEwZwKsWRr"
-    },
-    {
-      "added_at": "2019-10-02 08:54:10",
-      "album": {
-        "name": "The Complete Verve Studio Sessions",
-        "url": "https://open.spotify.com/album/7MtvcTxFnvzzhkmRsPiHA2"
-      },
-      "artists": [
-        {
-          "name": "Roy Eldridge",
-          "url": "https://open.spotify.com/artist/4RvXA7BDgqNgGDjsSSJnPc"
-        },
-        {
-          "name": "Benny Carter",
-          "url": "https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32"
-        }
-      ],
-      "duration_ms": 159733,
-      "name": "Close Your Eyes",
-      "url": "https://open.spotify.com/track/3RlSNWZozZWOjSLvyjAd3l"
     },
     {
       "added_at": "2019-10-02 08:54:10",
@@ -1619,6 +1619,26 @@
     {
       "added_at": "2019-10-02 08:54:10",
       "album": {
+        "name": "A Night Out With Verve",
+        "url": "https://open.spotify.com/album/3r4lO5qBgyr5zCokAyDAq0"
+      },
+      "artists": [
+        {
+          "name": "Roy Eldridge",
+          "url": "https://open.spotify.com/artist/4RvXA7BDgqNgGDjsSSJnPc"
+        },
+        {
+          "name": "Benny Carter",
+          "url": "https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32"
+        }
+      ],
+      "duration_ms": 347933,
+      "name": "I Still Love Him So",
+      "url": "https://open.spotify.com/track/5GXB4PGdmjlz6ckQmY8eDc"
+    },
+    {
+      "added_at": "2019-10-02 08:54:10",
+      "album": {
         "name": "King Of The Tenors",
         "url": "https://open.spotify.com/album/5rdcvADmhNCer3a6JC76Sa"
       },
@@ -1631,6 +1651,34 @@
       "duration_ms": 255000,
       "name": "Jive At Six",
       "url": "https://open.spotify.com/track/1uaHEXxrsFLORmjEDrMNFU"
+    },
+    {
+      "added_at": "2019-10-02 08:54:10",
+      "album": {
+        "name": "Getz / Gilberto",
+        "url": "https://open.spotify.com/album/3JvFflPIx7bB6lJ4qId2Er"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        },
+        {
+          "name": "Jo\u00e3o Gilberto",
+          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
+        },
+        {
+          "name": "Astrud Gilberto",
+          "url": "https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF"
+        },
+        {
+          "name": "Ant\u00f4nio Carlos Jobim",
+          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
+        }
+      ],
+      "duration_ms": 256580,
+      "name": "Corcovado (Quiet Nights Of Quiet Stars)",
+      "url": "https://open.spotify.com/track/3HYnrwZQzPgGZ1mBEhIvvc"
     },
     {
       "added_at": "2019-10-04 16:01:14",
@@ -1699,54 +1747,6 @@
       "duration_ms": 251640,
       "name": "Miss Fine",
       "url": "https://open.spotify.com/track/6yQKG13aXOwh5MlafgEmXk"
-    },
-    {
-      "added_at": "2019-10-02 08:54:10",
-      "album": {
-        "name": "Getz / Gilberto",
-        "url": "https://open.spotify.com/album/3JvFflPIx7bB6lJ4qId2Er"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        },
-        {
-          "name": "Jo\u00e3o Gilberto",
-          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
-        },
-        {
-          "name": "Astrud Gilberto",
-          "url": "https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF"
-        },
-        {
-          "name": "Ant\u00f4nio Carlos Jobim",
-          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
-        }
-      ],
-      "duration_ms": 256580,
-      "name": "Corcovado (Quiet Nights Of Quiet Stars)",
-      "url": "https://open.spotify.com/track/3HYnrwZQzPgGZ1mBEhIvvc"
-    },
-    {
-      "added_at": "2019-10-02 08:54:10",
-      "album": {
-        "name": "A Night Out With Verve",
-        "url": "https://open.spotify.com/album/3r4lO5qBgyr5zCokAyDAq0"
-      },
-      "artists": [
-        {
-          "name": "Roy Eldridge",
-          "url": "https://open.spotify.com/artist/4RvXA7BDgqNgGDjsSSJnPc"
-        },
-        {
-          "name": "Benny Carter",
-          "url": "https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32"
-        }
-      ],
-      "duration_ms": 347933,
-      "name": "I Still Love Him So",
-      "url": "https://open.spotify.com/track/5GXB4PGdmjlz6ckQmY8eDc"
     }
   ],
   "unique_name": "Legendary Labels: Verve Records",

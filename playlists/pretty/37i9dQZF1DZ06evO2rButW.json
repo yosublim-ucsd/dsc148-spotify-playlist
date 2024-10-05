@@ -1,12 +1,12 @@
 {
-  "description": "This Is Mon Laferte. Los temas esenciales, todos en una lista.",
-  "num_followers": 691094,
+  "description": "This is Mon Laferte. The essential tracks, all in one playlist.",
+  "num_followers": 691206,
   "original_name": "This Is Mon Laferte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvyNAAAAAAA4a4Xx6ALGnkq09lrPTzZ/",
+  "snapshot_id": "Zv3egAAAAABqgGA34cpa0RLnc8+9BcsU",
   "tracks": [
     {
       "added_at": null,
@@ -627,18 +627,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Norma",
-        "url": "https://open.spotify.com/album/5vwSqLLGqeCTyRVObYjkDq"
+        "name": "Vive",
+        "url": "https://open.spotify.com/album/0eUyiqzZ7Tlu9G68IFP32G"
       },
       "artists": [
+        {
+          "name": "Jos\u00e9 Maria Napole\u00f3n",
+          "url": "https://open.spotify.com/artist/72v53CufRiSyqcQ78KUQ5p"
+        },
         {
           "name": "Mon Laferte",
           "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
         }
       ],
-      "duration_ms": 230973,
-      "name": "Qu\u00e9date Esta Noche",
-      "url": "https://open.spotify.com/track/14kf1Cdj0sdtKtMY02IBcB"
+      "duration_ms": 200400,
+      "name": "Celos",
+      "url": "https://open.spotify.com/track/7eihx3GaEiFI3OGhQo6oL2"
     },
     {
       "added_at": null,
@@ -659,22 +663,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vive",
-        "url": "https://open.spotify.com/album/0eUyiqzZ7Tlu9G68IFP32G"
+        "name": "Norma",
+        "url": "https://open.spotify.com/album/5vwSqLLGqeCTyRVObYjkDq"
       },
       "artists": [
-        {
-          "name": "Jos\u00e9 Maria Napole\u00f3n",
-          "url": "https://open.spotify.com/artist/72v53CufRiSyqcQ78KUQ5p"
-        },
         {
           "name": "Mon Laferte",
           "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
         }
       ],
-      "duration_ms": 200400,
-      "name": "Celos",
-      "url": "https://open.spotify.com/track/7eihx3GaEiFI3OGhQo6oL2"
+      "duration_ms": 230973,
+      "name": "Qu\u00e9date Esta Noche",
+      "url": "https://open.spotify.com/track/14kf1Cdj0sdtKtMY02IBcB"
     },
     {
       "added_at": null,

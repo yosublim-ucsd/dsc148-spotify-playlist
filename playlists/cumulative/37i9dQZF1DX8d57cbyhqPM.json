@@ -1544,7 +1544,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 190245,
       "name": "Champion",
       "url": "https://open.spotify.com/track/7moGDROshDKDpuQxtQ3q4m"
@@ -3495,6 +3495,24 @@
     },
     {
       "album": {
+        "name": "Intouchable",
+        "url": "https://open.spotify.com/album/4uHBaDG2PXdyPuR0wghCRC"
+      },
+      "artists": [
+        {
+          "name": "FRVNCHO",
+          "url": "https://open.spotify.com/artist/1TE3Z23rSi7IsUCJzSNc0L"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148513,
+      "name": "Intouchable",
+      "url": "https://open.spotify.com/track/1pbypOst7MOyaQHlEGX8Es"
+    },
+    {
+      "album": {
         "name": "47\u00b0",
         "url": "https://open.spotify.com/album/0bMeW5OugN9kzP1ncWbwDg"
       },
@@ -4613,6 +4631,32 @@
     },
     {
       "album": {
+        "name": "LONDON 2 PANAME (feat. Liim's)",
+        "url": "https://open.spotify.com/album/5LJlUJ9qkeidqP8aCSqxKW"
+      },
+      "artists": [
+        {
+          "name": "Gino J",
+          "url": "https://open.spotify.com/artist/4cAltlzViWaH9SL0RKlrED"
+        },
+        {
+          "name": "ZieZie",
+          "url": "https://open.spotify.com/artist/26XzvosH2cl8Re6KSo9m8Z"
+        },
+        {
+          "name": "Liim\u2019s",
+          "url": "https://open.spotify.com/artist/2XpsF0ZQfBV08auUoRnNJE"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226019,
+      "name": "LONDON 2 PANAME (feat. Liim's)",
+      "url": "https://open.spotify.com/track/27R8gQAfvh2fpd5Tx9HND9"
+    },
+    {
+      "album": {
         "name": "Longue Vie",
         "url": "https://open.spotify.com/album/7dU2wGGbOoazZyCHYa8KQW"
       },
@@ -4988,7 +5032,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 144000,
       "name": "Mambo",
       "url": "https://open.spotify.com/track/7hmZNboMTUn21rneXOOlG9"
@@ -6185,6 +6229,28 @@
     },
     {
       "album": {
+        "name": "Des rires et des pleurs",
+        "url": "https://open.spotify.com/album/2TZ5OXKnN4Qdt7YpiFbluC"
+      },
+      "artists": [
+        {
+          "name": "SenSey'",
+          "url": "https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5"
+        },
+        {
+          "name": "Franglish",
+          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155368,
+      "name": "No stress",
+      "url": "https://open.spotify.com/track/47JDtFh6KSYKEJ7CJ0XI8z"
+    },
+    {
+      "album": {
         "name": "Souvenirs",
         "url": "https://open.spotify.com/album/6aqa8GOrqhN63ac0NygKvi"
       },
@@ -6712,7 +6778,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 104448,
       "name": "Pas besoin",
       "url": "https://open.spotify.com/track/4LyRgm94FGnT577MSvj1By"
@@ -8368,6 +8434,28 @@
       "duration_ms": 265600,
       "name": "Trahison",
       "url": "https://open.spotify.com/track/6RC7oaI1RhDG0JBAKavI5L"
+    },
+    {
+      "album": {
+        "name": "Travailler",
+        "url": "https://open.spotify.com/album/1UbUW64IySlKk0MQw2Xc1O"
+      },
+      "artists": [
+        {
+          "name": "Serge Ibaka",
+          "url": "https://open.spotify.com/artist/4fDx6CTJ4KWhnAg6TvwmWe"
+        },
+        {
+          "name": "Didi B",
+          "url": "https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198096,
+      "name": "Travailler",
+      "url": "https://open.spotify.com/track/0PsG56sPUXssNuYjVmHydT"
     },
     {
       "album": {

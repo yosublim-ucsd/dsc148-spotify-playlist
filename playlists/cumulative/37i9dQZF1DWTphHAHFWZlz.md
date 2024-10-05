@@ -2,9 +2,9 @@
 
 ### [POGO](https://open.spotify.com/playlist/37i9dQZF1DWTphHAHFWZlz)
 
-> Nuevo sonido, misma actitud.<br/>📷 Broke Carrey
+> Nuevo sonido, misma actitud.<br/>📷 MARTTEIN
 
-283 songs - 16 hr 23 min
+286 songs - 16 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [7 ROJAS](https://open.spotify.com/track/0x6BCk39lZ3AVJO52A569z) | [BARRO](https://open.spotify.com/artist/15eDgdb1lKrgc9DDtuLN41) | [CONSTIMORDOR](https://open.spotify.com/album/0nGIYfb1hiKYK3LH1rd8vP) | 3:57 | 2023-08-17 | 2024-09-28 |
 | [A Mi Banda](https://open.spotify.com/track/7xVzPnsrUWNstMQ2t4Dcn5) | [Fulgura](https://open.spotify.com/artist/1i7SeHXbKSyxqiCh8e0Yg4) | [A Mi Banda](https://open.spotify.com/album/3IPTHuE3yxcAFzYDBosXhL) | 3:26 | 2022-06-29 | 2023-05-20 |
 | [A Tu Manera](https://open.spotify.com/track/23dQ2uqLfk4z8aJUwwfnms) | [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX) | [Temor](https://open.spotify.com/album/04x545owsC3bnx17iQdnMj) | 3:16 | 2023-06-02 | 2023-06-09 |
+| [A.T.A](https://open.spotify.com/track/17ee3ShvzGiJL9MYsSKaM9) | [Delfina Dib](https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ) | [A.T.A](https://open.spotify.com/album/241KgBa8yVFqlUjY4ZhHvd) | 2:09 | 2024-10-04 |  |
 | [Abismo](https://open.spotify.com/track/5jEPrWsnRPJzmeCllVFpSW) | [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX) | [Abismo](https://open.spotify.com/album/405HPdCPF2cZc2DM1PWda8) | 2:53 | 2023-05-19 | 2023-07-01 |
 | [About A Girl](https://open.spotify.com/track/55yvzYuvJYG2RUEnMK78tr) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nirvana](https://open.spotify.com/album/5zBPRXCAc801vyHWoRurNZ) | 2:46 | 2023-05-30 | 2023-06-09 |
 | [Aclarecer](https://open.spotify.com/track/2eg0qx2CpIJWo8UV7Gee1N) | [Oliver 4](https://open.spotify.com/artist/5LErubZ0xtU7IsRVYTsqFD) | [Aclarecer](https://open.spotify.com/album/5ScRy86d80fQX9AA8mP1qN) | 3:23 | 2022-06-29 | 2022-08-13 |
@@ -45,6 +46,7 @@
 | [Bondi](https://open.spotify.com/track/2DxwhvccoBibFxHHHJ8jVd) | [El Kuelgue](https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT) | [Cuentito](https://open.spotify.com/album/7AvIdnQjY3mjZ8NexvRruR) | 3:29 | 2022-07-19 | 2023-05-20 |
 | [BUITRES](https://open.spotify.com/track/2cIf0QMDPd9aimLylQqCZ8) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [OSCURO ÉXTASIS](https://open.spotify.com/album/0fYhjxeRFdXp6s8R9hUXKt) | 3:09 | 2023-05-19 |  |
 | [Burbuja Loca](https://open.spotify.com/track/1CXKwOnD3ijncZIgV9DaWg) | [Los Tabaleros](https://open.spotify.com/artist/6aGMO33ETXuACXj9KfoyQg) | [Burbuja Loca](https://open.spotify.com/album/2ggx4yXZYKVp21lz16hO33) | 2:56 | 2022-06-29 | 2022-07-20 |
+| [CACHETAZO](https://open.spotify.com/track/11N5z4VHGUUTAYQR1p51fa) | [MARTTEIN](https://open.spotify.com/artist/5EbzQCOHXCVsr4y0qNsB48), [Juana Rozas](https://open.spotify.com/artist/73flNW7YBYMrnp83TEl5Hq) | [MARTTEIN](https://open.spotify.com/album/2v7cEavZRKwA8GfTfmU5fv) | 1:59 | 2024-10-04 |  |
 | [Canción de Flora](https://open.spotify.com/track/4wE4VCSYSNJEjCjr4jGIiB) | [Marina Fages](https://open.spotify.com/artist/1jBRvUY23iEpMeGCKZ2RO3) | [Canción de Flora](https://open.spotify.com/album/7cVg7x1aVZYh0qP7oB1Lxw) | 3:49 | 2022-06-29 | 2022-07-20 |
 | [Cara\-Cola](https://open.spotify.com/track/7vWuIocPwLv0UYTREZwIFo) | [Terapia](https://open.spotify.com/artist/5sIea266s3izLKCqmH1SRk) | [¿Qué Hacemos Con Todo Este Dinero?](https://open.spotify.com/album/4WOB6QazFzRe1bDopMFfjX) | 3:01 | 2022-10-14 | 2023-05-20 |
 | [Carrusel](https://open.spotify.com/track/6MkDBrI4UHVzF06xiTV5KY) | [Roma](https://open.spotify.com/artist/6pCsEBDlqd9GDJ1SNDlM7f) | [Carrusel](https://open.spotify.com/album/1EU9Qzbxg0eP01976h4slk) | 3:21 | 2022-06-29 | 2022-08-27 |
@@ -132,10 +134,11 @@
 | [Horizonte](https://open.spotify.com/track/6CcsDzWLl2YHX5N5vqnlxc) | [Martes 13](https://open.spotify.com/artist/4yQad4h1S2VKZbiEYlnFKy), [Gastón Puentes](https://open.spotify.com/artist/3zj8S65ir34gPyd4Vv5h6a) | [Horizonte](https://open.spotify.com/album/5355xLBv4OafnSYyPlvPdP) | 3:17 | 2022-06-29 | 2022-10-15 |
 | [I'm Broken](https://open.spotify.com/track/2M5WTwqnkyz7bW6P1CiD6q) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Far Beyond Driven](https://open.spotify.com/album/70GAqt2avSiKBJ2IEymou1) | 4:24 | 2023-05-30 | 2023-06-09 |
 | [Idolos Caídos](https://open.spotify.com/track/0ibNGr3XiHcVV5mJd1tuib) | [Martes 13](https://open.spotify.com/artist/4yQad4h1S2VKZbiEYlnFKy) | [Idolos Caídos](https://open.spotify.com/album/2jS2IzVRyghflxNfjJxPLi) | 2:50 | 2022-10-28 | 2023-05-20 |
-| [Igual](https://open.spotify.com/track/4808bFO0Mw34MmuSjAtQSR) | [Nenagenix](https://open.spotify.com/artist/72uTXCtp7vhZkvYdnoYu6I) | [Igual](https://open.spotify.com/album/0i3T9mspLdgOaOoei0FqKZ) | 4:10 | 2023-05-19 |  |
+| [Igual](https://open.spotify.com/track/4808bFO0Mw34MmuSjAtQSR) | [Nenagenix](https://open.spotify.com/artist/72uTXCtp7vhZkvYdnoYu6I) | [Igual](https://open.spotify.com/album/0i3T9mspLdgOaOoei0FqKZ) | 4:10 | 2023-05-19 | 2024-10-05 |
 | [Imaginando](https://open.spotify.com/track/0tp6RLnxyNOSrTQak9YBd6) | [Caras Extrañas](https://open.spotify.com/artist/5Bc5XHQ2svsLbZjwQqEIEP), [Mauricio Junior Lescano](https://open.spotify.com/artist/0InckL49BuCjxQZuSPg9DV) | [Imaginando](https://open.spotify.com/album/7D4FYZzMAcwN5N61xCj0cJ) | 4:23 | 2022-06-29 | 2023-05-20 |
 | [Incandescente](https://open.spotify.com/track/4BLvKLjhvH6UU5aTyBe3bt) | [El Plan De La Mariposa](https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir) | [Incandescente](https://open.spotify.com/album/63TDtsFF8Rh3K3uNbsOLmd) | 5:35 | 2022-06-29 | 2022-10-15 |
 | [INVESTIDO](https://open.spotify.com/track/0gX9K4YtmMaODBFtPTU4mI) | [Evlay](https://open.spotify.com/artist/2JsDK87cAxuUlz4L4izU7A), [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK), [Santiago Motorizado](https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs) | [INVESTIDO](https://open.spotify.com/album/1YfLcIRbHLHVqz3cTxm7cB) | 3:23 | 2023-09-22 |  |
+| [Kerosene](https://open.spotify.com/track/5mDbbvhvaf8ObKttnHXn0s) | [La Valenti](https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ) | [Kerosene](https://open.spotify.com/album/5TMl7Qr7UBoBAFqbiH39zG) | 3:05 | 2024-10-04 |  |
 | [KIDZ \- Spotify Singles](https://open.spotify.com/track/2Fc0wy51lDMnxcEcli7UNK) | [Marki](https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J) | [KIDZ \- Spotify Singles](https://open.spotify.com/album/7BrgeOGDEUsE0QDk9m75Zv) | 3:24 | 2022-08-26 | 2023-05-20 |
 | [LA ARAÑA](https://open.spotify.com/track/1HU9uePnzE4RdomNtxICSC) | [Mi Amigo Invencible](https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7) | [LA ARAÑA](https://open.spotify.com/album/3itKjyJB7SPbkyhhlB9YJX) | 3:28 | 2022-07-19 | 2022-07-29 |
 | [LA ARAÑA](https://open.spotify.com/track/1LRCYh4SN2EtRZD3zMcbWe) | [Mi Amigo Invencible](https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7) | [Isla de Oro](https://open.spotify.com/album/2WsKLQLu05HwbbGSIFOQsH) | 3:28 | 2022-08-19 | 2022-09-10 |
@@ -165,7 +168,7 @@
 | [Lo Que Guarden Tus Ojos](https://open.spotify.com/track/71fxuzel9fUGYTOTaQDb4g) | [Las Sombras](https://open.spotify.com/artist/5el5cbPZc64RtoKhnL2Bzw) | [Lo Que Guarden Tus Ojos](https://open.spotify.com/album/7At1MTQ5r0FoGocoMMR68k) | 3:16 | 2022-07-19 | 2022-08-13 |
 | [Lo que me asusta](https://open.spotify.com/track/0O88nopnkWFy4UanmjQGUl) | [Molok0](https://open.spotify.com/artist/7zrKyjlv5C1kp9eoJwG01J) | [Lo Que Me Asusta](https://open.spotify.com/album/7yVtfFffpg64yNti68EMF5) | 2:11 | 2023-05-19 | 2023-07-29 |
 | [Lo Que Se Fue](https://open.spotify.com/track/5LEssCmCg4xpjySBOGiuQQ) | [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg) | [Lo Que Se Fue](https://open.spotify.com/album/5iPNnC9h8e3appfs7SsfJk) | 3:45 | 2023-06-08 |  |
-| [Lo Que Soy](https://open.spotify.com/track/77dNHLJRvzinTeSz7X7eLH) | [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX) | [Temor](https://open.spotify.com/album/3Wqm2Y41oWaFHODb2xTnn7) | 3:01 | 2023-06-09 |  |
+| [Lo Que Soy](https://open.spotify.com/track/77dNHLJRvzinTeSz7X7eLH) | [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX) | [Temor](https://open.spotify.com/album/3Wqm2Y41oWaFHODb2xTnn7) | 3:01 | 2023-06-09 | 2024-10-05 |
 | [Lo Quiero Mucho a Ese Muchacho](https://open.spotify.com/track/0kH9rVfxHWkDoBMJxAL5Sw) | [Bestia Bebé](https://open.spotify.com/artist/3j7kmtxJ0aptdHr9ZCnEkp) | [Bestia Bebé](https://open.spotify.com/album/2A9T82s4U3Ia0z2VATTIZb) | 3:59 | 2022-07-19 | 2023-05-20 |
 | [Los Chicos No Entienden](https://open.spotify.com/track/4qCfrEVTxcqvgWQucSUqyB) | [El Zar](https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi) | [A los Amigos](https://open.spotify.com/album/7GyrUntLwyy6TPN0ytvP2Y) | 3:16 | 2022-07-19 | 2023-04-29 |
 | [Los Fantasmas](https://open.spotify.com/track/0aGYVf5anL1ZHeXR9ZBMKe) | [Gimena Alvarez Cela](https://open.spotify.com/artist/3pswrpKhrhyiwP8J5SQMm5) | [Los Fantasmas](https://open.spotify.com/album/29yX1nvE4qPlHePfgn0AOY) | 4:14 | 2022-06-29 | 2023-05-20 |
@@ -233,7 +236,7 @@
 | [Queso Ruso](https://open.spotify.com/track/3Zf6FUeAVlk0Rk1VIgBHlb) | [Patricio Rey y sus Redonditos de Ricota](https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ) | [La Mosca y la Sopa](https://open.spotify.com/album/0IcpyzTrT0Gp8PVMC9l0NS) | 4:52 | 2023-05-30 | 2023-06-09 |
 | [Radio de la mañana](https://open.spotify.com/track/1NgZYkt0KGPrkROQdRxDmo) | [Parientes](https://open.spotify.com/artist/76lUSSvc6Z83CLrIVB7YrE) | [Parientes](https://open.spotify.com/album/0p22bJMkBBhstlPWua0iRI) | 3:16 | 2022-08-12 | 2022-10-15 |
 | [RANDOM](https://open.spotify.com/track/5MWKgFwsd5tQNiq7O46XVP) | [FEMI](https://open.spotify.com/artist/0Zq7qMNo2UXDat3Tzf0x2s) | [RANDOM](https://open.spotify.com/album/0GHsQyhxiIRO3R9h7rIVR1) | 2:08 | 2023-09-15 |  |
-| [Recuérdame </3](https://open.spotify.com/track/1rZF73DkVW8oKtbPjfnPeq) | [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4), [LACUEVA](https://open.spotify.com/artist/7pYqw1luf4aOtQjrJgTkE3) | [Los Rompecorazones, Vol\. 2](https://open.spotify.com/album/12vHml9HiOBynzmSzcg4i1) | 2:37 | 2024-05-10 |  |
+| [Recuérdame </3](https://open.spotify.com/track/1rZF73DkVW8oKtbPjfnPeq) | [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4), [LACUEVA](https://open.spotify.com/artist/7pYqw1luf4aOtQjrJgTkE3) | [Los Rompecorazones, Vol\. 2](https://open.spotify.com/album/12vHml9HiOBynzmSzcg4i1) | 2:37 | 2024-05-10 | 2024-10-05 |
 | [Relajar](https://open.spotify.com/track/1kwQdi5SzOveKrlgEEfDnR) | [Rey Hindú](https://open.spotify.com/artist/0IdZ8iwao6oUqBJ2gfjSIW) | [Relajar](https://open.spotify.com/album/4XyQAtwJkj8XGLr1uObFWF) | 3:21 | 2022-06-29 | 2023-05-20 |
 | [Remera](https://open.spotify.com/track/0TRuSKE4Bg12qdFi2oZVHG) | [Parientes](https://open.spotify.com/artist/76lUSSvc6Z83CLrIVB7YrE), [Francisco Lago](https://open.spotify.com/artist/3vBvFZBnjjDdjV35dDvL9L) | [Remera](https://open.spotify.com/album/0K4fJa7MxlrX46oCOymaxY) | 3:33 | 2022-09-09 | 2023-05-20 |
 | [Revelado](https://open.spotify.com/track/2K822m6CHGBliLJqG9JkHt) | [Los Burritos](https://open.spotify.com/artist/20pbYX3EUvtEdG3Cjx9qG1) | [Revelado](https://open.spotify.com/album/1dWi6jCXNTxxCrpMd7aB5q) | 3:10 | 2022-06-29 | 2022-07-20 |

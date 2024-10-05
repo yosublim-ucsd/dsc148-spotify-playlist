@@ -792,7 +792,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 174015,
       "name": "Drop",
       "url": "https://open.spotify.com/track/3egX8ALvUfZTddyDurHoda"
@@ -2498,6 +2498,28 @@
       "duration_ms": 304080,
       "name": "The Namesake Reprise",
       "url": "https://open.spotify.com/track/6z3MOi8XJ6t3lFL74IFyJ6"
+    },
+    {
+      "album": {
+        "name": "The Way Home",
+        "url": "https://open.spotify.com/album/2liDdyDMLCUeXSLvORY5gH"
+      },
+      "artists": [
+        {
+          "name": "Lakkshya",
+          "url": "https://open.spotify.com/artist/3hUmXJ9FIm3cjbZRoZE9j3"
+        },
+        {
+          "name": "Mohini Dey",
+          "url": "https://open.spotify.com/artist/3jGVx8ZyTVFWokbgl6BDdo"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 638448,
+      "name": "The Way Home",
+      "url": "https://open.spotify.com/track/2NBHQAxMtqdBuTyCp5FiEi"
     },
     {
       "album": {

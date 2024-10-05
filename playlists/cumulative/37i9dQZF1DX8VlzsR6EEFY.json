@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-03-09",
-  "description": "Lo m\u00e1s fresco de la <a href=\"spotify:genre:0JQ5DAqbMKFDTEtSaS4R92\"> M\u00fasica Mexicana</a>, las que van pegar. \u00c1ngela Aguilar, Felipe Botello en portada.",
+  "description": "Lo m\u00e1s fresco de la <a href=\"spotify:genre:0JQ5DAqbMKFDTEtSaS4R92\"> M\u00fasica Mexicana</a>, las que van pegar. Bronco en portada.",
   "name": "La Miscel\u00e1nea: Banda, Corridos & m\u00e1s...",
   "tracks": [
     {
@@ -96,7 +96,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 210932,
       "name": "24/7",
       "url": "https://open.spotify.com/track/02hdaX3rWzdjZL6uqBZNhG"
@@ -293,6 +293,24 @@
     },
     {
       "album": {
+        "name": "Amigos Con Derechos",
+        "url": "https://open.spotify.com/album/6Gv0ijdvtXUz8zGuavTv9j"
+      },
+      "artists": [
+        {
+          "name": "Julio Chaidez",
+          "url": "https://open.spotify.com/artist/0iMKZWAsycF13Uu67duuj7"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209352,
+      "name": "Amigos Con Derechos",
+      "url": "https://open.spotify.com/track/4ssouMO9j21l7YvqkPYLaP"
+    },
+    {
+      "album": {
         "name": "Memorias <3",
         "url": "https://open.spotify.com/album/7I35dC3g7n1Uv7h1Yn7EXA"
       },
@@ -344,7 +362,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 196253,
       "name": "Andale Terca",
       "url": "https://open.spotify.com/track/0Q90LgKe7DBsEeDSsXG3AN"
@@ -548,6 +566,24 @@
       "duration_ms": 271509,
       "name": "Basta Ya (En Vivo)",
       "url": "https://open.spotify.com/track/5sfYk58Wk3bEC6QpwIZuKl"
+    },
+    {
+      "album": {
+        "name": "Beyonce",
+        "url": "https://open.spotify.com/album/3NI6t8o1YTwIDdPMx3yGfR"
+      },
+      "artists": [
+        {
+          "name": "Ivonne Galaz",
+          "url": "https://open.spotify.com/artist/3YXGxdYldEXVVlCdCkFD5G"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166529,
+      "name": "Beyonce",
+      "url": "https://open.spotify.com/track/32n44FJQOYB4DPWiDfi1N3"
     },
     {
       "album": {
@@ -1370,6 +1406,24 @@
       "duration_ms": 234958,
       "name": "Entre T\u00fa Y Mil Mares",
       "url": "https://open.spotify.com/track/0vjvRsb5o6FQrZ5hTECOIt"
+    },
+    {
+      "album": {
+        "name": "Para Siempre (En Vivo)",
+        "url": "https://open.spotify.com/album/4FxKAmh8rRtFhWjqDeBK7M"
+      },
+      "artists": [
+        {
+          "name": "To\u00f1o Y Freddy",
+          "url": "https://open.spotify.com/artist/1L0AuvKZjMooDU1n8uEmLw"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223231,
+      "name": "Eres Divina (En Vivo)",
+      "url": "https://open.spotify.com/track/4Hl7uRd3sEHZafKY6PBVj5"
     },
     {
       "album": {
@@ -2197,6 +2251,32 @@
     },
     {
       "album": {
+        "name": "Locos",
+        "url": "https://open.spotify.com/album/756ApmQctVkcEJnbmXOrwz"
+      },
+      "artists": [
+        {
+          "name": "Al Tiro de Armando Ramos",
+          "url": "https://open.spotify.com/artist/6fvE3WfQ7mEyYOc4hY6t8O"
+        },
+        {
+          "name": "Keith Nieto",
+          "url": "https://open.spotify.com/artist/2I7I7undHMppfowRViQQ1p"
+        },
+        {
+          "name": "Colmillo Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/5YvrXxWXf9n9enAV8HHZSN"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180230,
+      "name": "Locos",
+      "url": "https://open.spotify.com/track/0SQyv78TlUxm6auo5bNsBp"
+    },
+    {
+      "album": {
         "name": "JUGANDO A QUE NO PASA NADA",
         "url": "https://open.spotify.com/album/4j58S9wNTTLgllMslsSMhk"
       },
@@ -2986,7 +3066,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 156374,
       "name": "PA CONTAR",
       "url": "https://open.spotify.com/track/1sISe1Ec8t61ZjtRC9vC8F"
@@ -3004,10 +3084,28 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 206506,
       "name": "Pa'l Ag\u00fcite",
       "url": "https://open.spotify.com/track/1dmakDcjFfwMFywplp8Gx9"
+    },
+    {
+      "album": {
+        "name": "En Vivo Desde El Rancho (En Vivo)",
+        "url": "https://open.spotify.com/album/2LTuEHsFLJUfCqqyfSV8Po"
+      },
+      "artists": [
+        {
+          "name": "Los Lara",
+          "url": "https://open.spotify.com/artist/0GUkPki3DpCkvKDxIKpaI4"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153616,
+      "name": "Para Estar Donde Estoy (En Vivo)",
+      "url": "https://open.spotify.com/track/4nKcXgaa0V88YMeOMhB2Fu"
     },
     {
       "album": {
@@ -3516,7 +3614,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 171671,
       "name": "Solitos",
       "url": "https://open.spotify.com/track/69xdXyltln7iQExXgY9Xtw"
@@ -3698,7 +3796,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 170080,
       "name": "Te Pienso",
       "url": "https://open.spotify.com/track/4YLhVXBkAiDUmXMubRijEw"
@@ -3790,6 +3888,24 @@
       "duration_ms": 191681,
       "name": "Tengo Claro",
       "url": "https://open.spotify.com/track/2UAE43Y8K321CDAbnIXDD0"
+    },
+    {
+      "album": {
+        "name": "Tequilazo",
+        "url": "https://open.spotify.com/album/05fUwckr9WxU1pyUBW2QWL"
+      },
+      "artists": [
+        {
+          "name": "Bronco",
+          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153200,
+      "name": "Tequilazo",
+      "url": "https://open.spotify.com/track/7Fn9Ic2Z3TNhS5XxxaCz9Y"
     },
     {
       "album": {

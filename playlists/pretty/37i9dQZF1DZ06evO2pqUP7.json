@@ -1,12 +1,12 @@
 {
-  "description": "This Is Lunay. Los temas esenciales, todos en una lista.",
-  "num_followers": 67967,
+  "description": "This is Lunay. The essential tracks, all in one playlist.",
+  "num_followers": 67984,
   "original_name": "This Is Lunay",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvyNAAAAAADMINDi6vJveDvLspRmRUaB",
+  "snapshot_id": "Zv3egAAAAAApeBgwUdxJapZjsUwsKoYc",
   "tracks": [
     {
       "added_at": null,
@@ -59,6 +59,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "AMIGA CON BENEFICIOS",
+        "url": "https://open.spotify.com/album/1ED1fTcpHUfsXRIGDHPHaS"
+      },
+      "artists": [
+        {
+          "name": "LOS DUROS SON ELLOS",
+          "url": "https://open.spotify.com/artist/1VgGkvTPfCmFmxFa8ik19X"
+        },
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        },
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        }
+      ],
+      "duration_ms": 193411,
+      "name": "AMIGA CON BENEFICIOS",
+      "url": "https://open.spotify.com/track/0Nd9sV9FrxZoDUwiy18Mxs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Qui\u00e9n es Dei V?",
         "url": "https://open.spotify.com/album/2i6InsyHZPR6NBFniDivF5"
       },
@@ -107,30 +131,6 @@
       "duration_ms": 330477,
       "name": "Ella - Remix",
       "url": "https://open.spotify.com/track/7iHHlCbsFou5DZSW5HCPfs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "AMIGA CON BENEFICIOS",
-        "url": "https://open.spotify.com/album/1ED1fTcpHUfsXRIGDHPHaS"
-      },
-      "artists": [
-        {
-          "name": "LOS DUROS SON ELLOS",
-          "url": "https://open.spotify.com/artist/1VgGkvTPfCmFmxFa8ik19X"
-        },
-        {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
-        },
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        }
-      ],
-      "duration_ms": 193411,
-      "name": "AMIGA CON BENEFICIOS",
-      "url": "https://open.spotify.com/track/0Nd9sV9FrxZoDUwiy18Mxs"
     },
     {
       "added_at": null,
@@ -323,26 +323,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "WLGS",
-        "url": "https://open.spotify.com/album/5JWyYQTyvhEeUj0xvHrPxh"
-      },
-      "artists": [
-        {
-          "name": "YOVNGCHIMI",
-          "url": "https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy"
-        },
-        {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
-        }
-      ],
-      "duration_ms": 176250,
-      "name": "Baby (with Lunay)",
-      "url": "https://open.spotify.com/track/2UXAWKnI5DLc2f9bPfAqTm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Ni\u00f1o",
         "url": "https://open.spotify.com/album/0hZRo3fmA48T0agQDHKPay"
       },
@@ -359,6 +339,26 @@
       "duration_ms": 208000,
       "name": "TODO O NADA",
       "url": "https://open.spotify.com/track/59rjsHYxdxeUG6gd43Emzs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "WLGS",
+        "url": "https://open.spotify.com/album/5JWyYQTyvhEeUj0xvHrPxh"
+      },
+      "artists": [
+        {
+          "name": "YOVNGCHIMI",
+          "url": "https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy"
+        },
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        }
+      ],
+      "duration_ms": 176250,
+      "name": "Baby (with Lunay)",
+      "url": "https://open.spotify.com/track/2UXAWKnI5DLc2f9bPfAqTm"
     },
     {
       "added_at": null,
@@ -423,30 +423,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Boca (Remix)",
-        "url": "https://open.spotify.com/album/5LiT3OZKgkgEeInFxUEObJ"
-      },
-      "artists": [
-        {
-          "name": "Mau y Ricky",
-          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
-        },
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        },
-        {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
-        }
-      ],
-      "duration_ms": 188467,
-      "name": "La Boca - Remix",
-      "url": "https://open.spotify.com/track/2EEmzqzM70CybVspgM7YRT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Ni\u00f1o",
         "url": "https://open.spotify.com/album/0hZRo3fmA48T0agQDHKPay"
       },
@@ -467,6 +443,30 @@
       "duration_ms": 231765,
       "name": "VUD\u00da",
       "url": "https://open.spotify.com/track/24YLHalbl2ePQbEXiKqKcP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Boca (Remix)",
+        "url": "https://open.spotify.com/album/5LiT3OZKgkgEeInFxUEObJ"
+      },
+      "artists": [
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        },
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        },
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        }
+      ],
+      "duration_ms": 188467,
+      "name": "La Boca - Remix",
+      "url": "https://open.spotify.com/track/2EEmzqzM70CybVspgM7YRT"
     },
     {
       "added_at": null,
@@ -655,26 +655,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Monarca",
-        "url": "https://open.spotify.com/album/6N1iKBKY8zRGImxADk2IdN"
-      },
-      "artists": [
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        },
-        {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
-        }
-      ],
-      "duration_ms": 164494,
-      "name": "Nena Buena",
-      "url": "https://open.spotify.com/track/3yaBstYCoYIfiQbAxTAxcT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Prendemos",
         "url": "https://open.spotify.com/album/1X0vimVNeLVhLzIkLUxyWf"
       },
@@ -695,6 +675,26 @@
       "duration_ms": 217733,
       "name": "Prendemos",
       "url": "https://open.spotify.com/track/3YLbntjcsRoButdoVta3rq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Monarca",
+        "url": "https://open.spotify.com/album/6N1iKBKY8zRGImxADk2IdN"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        },
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        }
+      ],
+      "duration_ms": 164494,
+      "name": "Nena Buena",
+      "url": "https://open.spotify.com/track/3yaBstYCoYIfiQbAxTAxcT"
     },
     {
       "added_at": null,

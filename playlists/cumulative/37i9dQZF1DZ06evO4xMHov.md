@@ -2,7 +2,7 @@
 
 ### [This Is Nívea Soares](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4xMHov)
 
-> This is Nívea Soares\. Todos os maiores hits em uma só playlist.
+> This is Nívea Soares\. The essential tracks, all in one playlist.
 
 74 songs - 8 hr 20 min
 
@@ -32,7 +32,7 @@
 | [Exaltamos o Cordeiro \- Ao Vivo](https://open.spotify.com/track/4yrnJCazRHqxMgLElZ8c4T) | [Central MSC](https://open.spotify.com/artist/46Ds3Zotj54UgKSA24nqC6), [Renato Mimessi](https://open.spotify.com/artist/7dcHm1I1P2orC6hZms9zTM), [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Exaltamos o Cordeiro \(Ao Vivo\)](https://open.spotify.com/album/1OTcv6gQ4wgsfjb20ftIm8) | 8:46 | 2023-11-10 | 2024-03-28 |
 | [Filho do Deus Vivo \(feat\. Nívea Soares\)](https://open.spotify.com/track/4Ksk2JCgHnWxTcrhTC6c99) | [DJ PV](https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j), [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Som da Liberdade 2.0](https://open.spotify.com/album/2bRpKofUSDkDG6Dlwem8Nr) | 5:05 | 2023-07-10 |  |
 | [Filho Do Deus Vivo \- Ao Vivo](https://open.spotify.com/track/06ZKQ9zWVEOR9C532mkj7K) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Glória E Honra \(Ao Vivo\)](https://open.spotify.com/album/4TLWr1MWdEj98RHapVcnLm) | 5:34 | 2023-07-10 |  |
-| [Filho Meu \- Ao Vivo](https://open.spotify.com/track/5kh9VHaBkb1IXmA3OqNvbP) | [Diante do Trono](https://open.spotify.com/artist/4AeWCU2yUgVFbqKmOezL75), [Ana Paula Valadão](https://open.spotify.com/artist/28rjo4eRvpmLW0EsCIy6FW), [Fred Arrais](https://open.spotify.com/artist/4b6QClfbEvFpOu9Nuyun0Q), [Flavia Arrais](https://open.spotify.com/artist/3cBWe1HSdeUBQMnQD9NR2e), [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Eu e a Minha Casa \(Ao Vivo\)](https://open.spotify.com/album/7IhafZgxgH4tmM2lDqmOjy) | 5:26 | 2023-07-10 | 2024-09-22 |
+| [Filho Meu \- Ao Vivo](https://open.spotify.com/track/5kh9VHaBkb1IXmA3OqNvbP) | [Diante do Trono](https://open.spotify.com/artist/4AeWCU2yUgVFbqKmOezL75), [Ana Paula Valadão](https://open.spotify.com/artist/28rjo4eRvpmLW0EsCIy6FW), [Fred Arrais](https://open.spotify.com/artist/4b6QClfbEvFpOu9Nuyun0Q), [Flavia Arrais](https://open.spotify.com/artist/3cBWe1HSdeUBQMnQD9NR2e), [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Eu e a Minha Casa \(Ao Vivo\)](https://open.spotify.com/album/7IhafZgxgH4tmM2lDqmOjy) | 5:26 | 2023-07-10 |  |
 | [Glória & Honra](https://open.spotify.com/track/5AMt6ZnnKYMggHbYKUcs5a) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Glória E Honra \(Ao Vivo\)](https://open.spotify.com/album/4TLWr1MWdEj98RHapVcnLm) | 6:25 | 2023-07-10 | 2024-10-03 |
 | [Glória E Aleluia](https://open.spotify.com/track/16srjrwXoQuKE1SQ95zSoN) | [REVERE](https://open.spotify.com/artist/4O2WXMRRTS8XqmqSTcBnrb), [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz), [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Glória E Aleluia](https://open.spotify.com/album/0GkqpHA93sH8c6uposgX0K) | 6:51 | 2023-07-10 | 2024-08-31 |
 | [Grande é o Senhor \- Acústico Ao Vivo](https://open.spotify.com/track/1dIah1UaJi3n5pwOaOd5QV) | [Adhemar De Campos](https://open.spotify.com/artist/03TpTPLRclj2iknzWXAXjP), [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Comunhão e Adoração 6 \(Acústico Ao Vivo\)](https://open.spotify.com/album/2Y67rR3nVWYbRgt8pRQpoJ) | 4:40 | 2023-07-10 |  |
@@ -81,6 +81,6 @@
 | [Vem \- Ao Vivo](https://open.spotify.com/track/5IW9WRaLxJblCkVXhC1vye) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk), [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Vem \(Ao Vivo\)](https://open.spotify.com/album/2Issr9syuEqaUOfFRFXBms) | 9:31 | 2023-07-10 |  |
 | [Vem Outra Vez](https://open.spotify.com/track/077OxZSUz2tYD4YTWQbdoh) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Vem Outra Vez](https://open.spotify.com/album/4eqhn6IGvu2iQ1CrQIHhcU) | 7:27 | 2023-07-10 | 2024-04-26 |
 | [Venceu \- Ao Vivo](https://open.spotify.com/track/60uNbORdBL8fkHgTKqhUik) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Jesus \(Ao Vivo\)](https://open.spotify.com/album/24CaJ8EwyWW9kEtmBfKDlg) | 5:19 | 2023-07-10 | 2023-12-14 |
-| [Águas Vivas](https://open.spotify.com/track/1IDHsyS7G9AA3pQzV1Nzqo) | [Higor Rosa](https://open.spotify.com/artist/2fqNvfLoAikmiTGR5WgOeA), [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Águas Vivas](https://open.spotify.com/album/1Sez3oXBENOdi0Ainef5AJ) | 7:37 | 2023-08-19 |  |
+| [Águas Vivas](https://open.spotify.com/track/1IDHsyS7G9AA3pQzV1Nzqo) | [Higor Rosa](https://open.spotify.com/artist/2fqNvfLoAikmiTGR5WgOeA), [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Águas Vivas](https://open.spotify.com/album/1Sez3oXBENOdi0Ainef5AJ) | 7:37 | 2023-08-19 | 2024-10-05 |
 
 \*This playlist was first scraped on 2023-07-11. Prior content cannot be recovered.

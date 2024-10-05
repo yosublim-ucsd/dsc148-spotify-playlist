@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Inspirational hip hop. Cover:  <a href=\"spotify:artist:7sP4SQ0WY6jfps1I19Ot7i\">Fridayy</a>",
+  "description": "Inspirational hip hop. Cover:  <a href=\"spotify:artist:1CFCsEqKrCyvAFKOATQHiW\">Lecrae</a>",
   "name": "High Lights",
   "tracks": [
     {
@@ -396,7 +396,7 @@
       ],
       "date_added": "2024-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 203166,
       "name": "Altar (Remix)",
       "url": "https://open.spotify.com/track/6NWAaoBVr2HS4gSg7Aj6i5"
@@ -947,6 +947,46 @@
     },
     {
       "album": {
+        "name": "Fab5",
+        "url": "https://open.spotify.com/album/4uMefLT1iGfluu4u041qqm"
+      },
+      "artists": [
+        {
+          "name": "EmanuelDaProphet",
+          "url": "https://open.spotify.com/artist/5P0vV6Fw0YTdumAPZSkkuC"
+        },
+        {
+          "name": "OG Parker",
+          "url": "https://open.spotify.com/artist/5hhgghBFkLDdMn93GW4x3I"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176579,
+      "name": "BIG GOD",
+      "url": "https://open.spotify.com/track/2fVxQWKzKBsBIEDb79FiCJ"
+    },
+    {
+      "album": {
+        "name": "Meet The Messiah",
+        "url": "https://open.spotify.com/album/3D11TeDsCxguR81KZ3EiAL"
+      },
+      "artists": [
+        {
+          "name": "MTM Isaiah",
+          "url": "https://open.spotify.com/artist/3cPHYFWU14POI3ky9F4mNy"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203076,
+      "name": "Big God",
+      "url": "https://open.spotify.com/track/4PsWrUbeuq4bx1o3Wk3gmh"
+    },
+    {
+      "album": {
         "name": "BIG SMALL BUSINESS",
         "url": "https://open.spotify.com/album/1lA0feIJJeQKEzTCbkHFcr"
       },
@@ -1244,6 +1284,28 @@
       "duration_ms": 190166,
       "name": "Brand New Man (feat. Scootie Wop)",
       "url": "https://open.spotify.com/track/4T0MPixsCIy9a9pEV6fuWZ"
+    },
+    {
+      "album": {
+        "name": "Better Me Than You",
+        "url": "https://open.spotify.com/album/5k6ugioZRgd4ixRgtgORhs"
+      },
+      "artists": [
+        {
+          "name": "Big Sean",
+          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+        },
+        {
+          "name": "Charlie Wilson",
+          "url": "https://open.spotify.com/artist/6CxZzQFUTM6AzgluGwtq5w"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281934,
+      "name": "Break The Cycle (feat. Charlie Wilson)",
+      "url": "https://open.spotify.com/track/7tvHjIhBziE8GPLIKPsFsB"
     },
     {
       "album": {
@@ -1973,6 +2035,24 @@
     },
     {
       "album": {
+        "name": "Destiny",
+        "url": "https://open.spotify.com/album/1BDtfB8bRHcCaXk0ck9uXW"
+      },
+      "artists": [
+        {
+          "name": "Foggieraw",
+          "url": "https://open.spotify.com/artist/1dbTwUlL11ZYdC1YAR07AM"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96923,
+      "name": "Destiny",
+      "url": "https://open.spotify.com/track/5eArWUVDGcjO9zNXMYguEW"
+    },
+    {
+      "album": {
         "name": "Devoted",
         "url": "https://open.spotify.com/album/22r8vtoEXLKHqOsKEKb5eT"
       },
@@ -2032,6 +2112,24 @@
       "duration_ms": 250285,
       "name": "Die Empty",
       "url": "https://open.spotify.com/track/6sHj4isyrw1d5hlgEnvALC"
+    },
+    {
+      "album": {
+        "name": "Die For The Party",
+        "url": "https://open.spotify.com/album/7hEV7T7NjXra4EtsUGuVKZ"
+      },
+      "artists": [
+        {
+          "name": "Lecrae",
+          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153268,
+      "name": "Die For The Party",
+      "url": "https://open.spotify.com/track/1JvV2nnstVEGe8rZ85EM41"
     },
     {
       "album": {
@@ -2556,6 +2654,36 @@
       "duration_ms": 119209,
       "name": "Father Abraham",
       "url": "https://open.spotify.com/track/2luFEc1iqWhF21bdcbXpTR"
+    },
+    {
+      "album": {
+        "name": "Pray For Atlanta",
+        "url": "https://open.spotify.com/album/3p4fL3jh9YxqEstKbz1Cfy"
+      },
+      "artists": [
+        {
+          "name": "1K Phew",
+          "url": "https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl"
+        },
+        {
+          "name": "Zaytoven",
+          "url": "https://open.spotify.com/artist/1mceaxtjWdEmwoDVAlkC41"
+        },
+        {
+          "name": "Young Dro",
+          "url": "https://open.spotify.com/artist/3ZooCJzNMTLpmJaIRUEorI"
+        },
+        {
+          "name": "1k Pson",
+          "url": "https://open.spotify.com/artist/3ex5lvW6vBEAbO0czNTIC2"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146255,
+      "name": "Favorite Trapper",
+      "url": "https://open.spotify.com/track/2HdJlc1OOmCCM8mYsuJaa6"
     },
     {
       "album": {
@@ -3351,6 +3479,24 @@
     },
     {
       "album": {
+        "name": "Hey Yah",
+        "url": "https://open.spotify.com/album/11Mvz5iryNu1nbBnY6jRU8"
+      },
+      "artists": [
+        {
+          "name": "IMRHAN",
+          "url": "https://open.spotify.com/artist/1q4putin60VdRXfDSTl5f3"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "Hey Yah",
+      "url": "https://open.spotify.com/track/6DZCrikjLYlj2BzL7uiwuY"
+    },
+    {
+      "album": {
         "name": "HI-C",
         "url": "https://open.spotify.com/album/42eKaKWWjei5ViAUQ4XY1J"
       },
@@ -3846,7 +3992,7 @@
       ],
       "date_added": "2024-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 162403,
       "name": "I Love It (Remix)",
       "url": "https://open.spotify.com/track/4uItU1qpsYuWkWKPsHBHX4"
@@ -4076,6 +4222,24 @@
       "duration_ms": 100587,
       "name": "ICE COLD",
       "url": "https://open.spotify.com/track/6Msy1aF3AU9pBRTAoGT9vK"
+    },
+    {
+      "album": {
+        "name": "Just 4 Fun",
+        "url": "https://open.spotify.com/album/6elf8ceNjPFJD0lFNvA7ND"
+      },
+      "artists": [
+        {
+          "name": "Kijan Boone",
+          "url": "https://open.spotify.com/artist/3dAXZ2iCLGeHz5IMhAi12V"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158916,
+      "name": "Imagine This",
+      "url": "https://open.spotify.com/track/6dN5kHjCSl3J7FgoCPBS01"
     },
     {
       "album": {
@@ -5567,6 +5731,32 @@
     },
     {
       "album": {
+        "name": "VULTURES 2",
+        "url": "https://open.spotify.com/album/5JNF1AS6WH5J7yUXmU4Syi"
+      },
+      "artists": [
+        {
+          "name": "\u00a5$",
+          "url": "https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237248,
+      "name": "MY SOUL",
+      "url": "https://open.spotify.com/track/6Yayz5y4EC1IyPmbTN1Ahm"
+    },
+    {
+      "album": {
         "name": "NAH",
         "url": "https://open.spotify.com/album/7dR0lHi4CFJv1QCDwwv3Lx"
       },
@@ -6078,6 +6268,24 @@
       "duration_ms": 207068,
       "name": "ON THA SEAT",
       "url": "https://open.spotify.com/track/5HRC8AYowTbU10wJQ16Auy"
+    },
+    {
+      "album": {
+        "name": "ON THE RADAR",
+        "url": "https://open.spotify.com/album/1cB0DhvXleoiFTr1NCb1yP"
+      },
+      "artists": [
+        {
+          "name": "nobigdyl.",
+          "url": "https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135145,
+      "name": "ON THE RADAR FREESTYLE",
+      "url": "https://open.spotify.com/track/3mgGp6fvyUyL8HG134Q5gs"
     },
     {
       "album": {
@@ -6955,6 +7163,28 @@
     },
     {
       "album": {
+        "name": "Rachel Nichols",
+        "url": "https://open.spotify.com/album/6aCe8ecx2ADcOTqj5qL6Am"
+      },
+      "artists": [
+        {
+          "name": "Parris Chariz",
+          "url": "https://open.spotify.com/artist/2Vt6gyhUH7Vj2cybfQWOqM"
+        },
+        {
+          "name": "PLM",
+          "url": "https://open.spotify.com/artist/5DzQqgrd5W9aaQVY0e1Sqq"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126975,
+      "name": "Rachel Nichols",
+      "url": "https://open.spotify.com/track/40ut9Aovbpod1bqc3WS5uM"
+    },
+    {
+      "album": {
         "name": "Ram in the Bush",
         "url": "https://open.spotify.com/album/3gG2gyb4kEHRLE7TKJqXGn"
       },
@@ -7277,6 +7507,28 @@
     },
     {
       "album": {
+        "name": "SORRY, I CHANGED",
+        "url": "https://open.spotify.com/album/2Sc59LMto9B7P3gGRzqTkv"
+      },
+      "artists": [
+        {
+          "name": "Aaron Cole",
+          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
+        },
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194304,
+      "name": "SBTN (feat. Kirk Franklin)",
+      "url": "https://open.spotify.com/track/5MsaHCrNAwmD0tmkMukqJk"
+    },
+    {
+      "album": {
         "name": "Scam Likely",
         "url": "https://open.spotify.com/album/68iFUTHigpOwePrMZkwWaG"
       },
@@ -7410,6 +7662,28 @@
       "duration_ms": 227000,
       "name": "Shots Fired",
       "url": "https://open.spotify.com/track/4LuZ1udBrza9sB2k1ngSKO"
+    },
+    {
+      "album": {
+        "name": "Faith Of A Mustard Seed",
+        "url": "https://open.spotify.com/album/2l5Nx7nlsDzNR2LTN1aiy2"
+      },
+      "artists": [
+        {
+          "name": "Mustard",
+          "url": "https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k"
+        },
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103570,
+      "name": "Show Me the Way (feat. Kirk Franklin)",
+      "url": "https://open.spotify.com/track/2d2HyUFvWFXRa6houGjT96"
     },
     {
       "album": {
@@ -7874,7 +8148,7 @@
       ],
       "date_added": "2024-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 191021,
       "name": "Strongest",
       "url": "https://open.spotify.com/track/7fCzu8e9YyuZFP3woaowKu"
@@ -7944,7 +8218,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 189009,
       "name": "Summertime",
       "url": "https://open.spotify.com/track/2pVXqvUkfOb9S7NNsRvQey"
@@ -8088,6 +8362,50 @@
       "duration_ms": 254347,
       "name": "Thank God",
       "url": "https://open.spotify.com/track/0K600gHS06x0lTFSErYMRs"
+    },
+    {
+      "album": {
+        "name": "UTOPIA",
+        "url": "https://open.spotify.com/album/6mpTzL80F11TaeU79loRyJ"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184888,
+      "name": "THANK GOD",
+      "url": "https://open.spotify.com/track/5RgUNedzrDv7fdnRz7LUqj"
+    },
+    {
+      "album": {
+        "name": "Keed Talk To \u2018Em 2",
+        "url": "https://open.spotify.com/album/0oCjauVTuzCzr6YMYcxRu1"
+      },
+      "artists": [
+        {
+          "name": "Lil Keed",
+          "url": "https://open.spotify.com/artist/3uJx5SnOM59Li7lCxA3b29"
+        },
+        {
+          "name": "Young Stoner Life",
+          "url": "https://open.spotify.com/artist/1xr2G8Hlx4QWmT9HaUbmoO"
+        },
+        {
+          "name": "Fridayy",
+          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227413,
+      "name": "Thank You Lord (feat. Fridayy)",
+      "url": "https://open.spotify.com/track/3SEkpudtZpHg83ulvK5fb4"
     },
     {
       "album": {
@@ -9512,7 +9830,7 @@
       ],
       "date_added": "2024-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 220525,
       "name": "You Can Make It",
       "url": "https://open.spotify.com/track/7j0Ttn6PMv8Av5558jTdWa"

@@ -732,7 +732,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 152558,
       "name": "Breaking News",
       "url": "https://open.spotify.com/track/1VHi0TCyl8zcNiPVlXixnP"
@@ -2241,6 +2241,32 @@
     },
     {
       "album": {
+        "name": "LIKE",
+        "url": "https://open.spotify.com/album/11qoPfHNEcoTnyEUNBfvFr"
+      },
+      "artists": [
+        {
+          "name": "Mavins",
+          "url": "https://open.spotify.com/artist/5JWBXFlYkBy3n2oN1To790"
+        },
+        {
+          "name": "Andre Vibez",
+          "url": "https://open.spotify.com/artist/1MVv46raia2Yqm8yHoDeUp"
+        },
+        {
+          "name": "DanDizzy",
+          "url": "https://open.spotify.com/artist/6xXPMuWSjIYafdBhXLpVZK"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227256,
+      "name": "LIKE",
+      "url": "https://open.spotify.com/track/68te6KLnaeYkrAsAlzGGlD"
+    },
+    {
+      "album": {
         "name": "Like Ice Spice / Bezos",
         "url": "https://open.spotify.com/album/6m8f7PHYHp3IlMOxdBNKvA"
       },
@@ -3485,6 +3511,28 @@
     },
     {
       "album": {
+        "name": "South",
+        "url": "https://open.spotify.com/album/1J4CZxaEi6ZcbfTD98Yvnd"
+      },
+      "artists": [
+        {
+          "name": "Blxckie",
+          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
+        },
+        {
+          "name": "Take A Daytrip",
+          "url": "https://open.spotify.com/artist/3StB6ddX8vfwCGVD9HlNUw"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189023,
+      "name": "South",
+      "url": "https://open.spotify.com/track/1S5cdblExndcN7a22BcTYS"
+    },
+    {
+      "album": {
         "name": "Sprinter",
         "url": "https://open.spotify.com/album/5l0QlaI3wdZpE7ggoO5Rwg"
       },
@@ -4226,7 +4274,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 235520,
       "name": "Will Be",
       "url": "https://open.spotify.com/track/3e9rQOdiIk8LP3mFZbzmaS"

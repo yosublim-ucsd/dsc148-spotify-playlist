@@ -866,7 +866,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 318109,
       "name": "Eleven",
       "url": "https://open.spotify.com/track/6RlUNmMWlEahnYd5XjBbxV"
@@ -1904,6 +1904,24 @@
       "duration_ms": 302913,
       "name": "Lap Mule",
       "url": "https://open.spotify.com/track/2qJzXsTqPTsnE4ocGMZRa1"
+    },
+    {
+      "album": {
+        "name": "Late Dawn",
+        "url": "https://open.spotify.com/album/5RoC7vspBOZ76MAdXddbpC"
+      },
+      "artists": [
+        {
+          "name": "Lucid Evolution",
+          "url": "https://open.spotify.com/artist/2dY5xy6PtZVgHwTKOjWQAC"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217765,
+      "name": "Late Dawn",
+      "url": "https://open.spotify.com/track/01qI1DSxeO1WYX8nc9bHQY"
     },
     {
       "album": {

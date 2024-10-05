@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2NufN6.md) - [plain]
 
 ### [This Is Mac Miller](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2NufN6)
 
-> This is Mac Miller\. The essential tracks, all in one playlist.
+> This is Mac Miller\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 897,215 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 897,360 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,25 +38,25 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2NufN6.md) - [plain]
 | 28 | [Surf](https://open.spotify.com/track/1kwnxJNVl7cwcU98RvMBaR) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Circles](https://open.spotify.com/album/5sY6UIQ32GqwMLAfSNEaXb) | 5:30 |
 | 29 | [BDE Bonus](https://open.spotify.com/track/4Pafh2Ndd9O4NgO53rqJxI) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Best Day Ever \(5th Anniversary Remastered Edition\)](https://open.spotify.com/album/0YA7XxxfkaGwecj3liSTvj) | 4:03 |
 | 30 | [ROS](https://open.spotify.com/track/388jD8ko9cvFM9cd9TYDrl) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [GO:OD AM](https://open.spotify.com/album/2Tyx5dLhHYkx6zeAdVaTzN) | 5:43 |
-| 31 | [Right](https://open.spotify.com/track/165cwz4wGlGz0uDBhxdKLY) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Circles \(Deluxe\)](https://open.spotify.com/album/1YZ3k65Mqw3G8FzYlW1mmp) | 4:47 |
-| 32 | [The Scoop On Heaven](https://open.spotify.com/track/2nZPwKpV75BQpn9snGy2xG) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [I Love Life, Thank You](https://open.spotify.com/album/5LNX3esjvdBJ6hN4XDvCJn) | 2:43 |
+| 31 | [The Scoop On Heaven](https://open.spotify.com/track/2nZPwKpV75BQpn9snGy2xG) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [I Love Life, Thank You](https://open.spotify.com/album/5LNX3esjvdBJ6hN4XDvCJn) | 2:43 |
+| 32 | [Right](https://open.spotify.com/track/165cwz4wGlGz0uDBhxdKLY) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Circles \(Deluxe\)](https://open.spotify.com/album/1YZ3k65Mqw3G8FzYlW1mmp) | 4:47 |
 | 33 | [The Mourning After](https://open.spotify.com/track/0xppJmfnjIQnMbMOez9bwT) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Macadelic](https://open.spotify.com/album/1xCNBnc7Gm2VudnyeyZ11Q) | 3:08 |
 | 34 | [Clubhouse](https://open.spotify.com/track/7rdyAfIm1t6h6I1gyLtD17) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [GO:OD AM](https://open.spotify.com/album/2Tyx5dLhHYkx6zeAdVaTzN) | 3:00 |
 | 35 | [Senior Skip Day](https://open.spotify.com/track/3BbS4oLUDNOLctshheQucc) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [K.I.D.S.](https://open.spotify.com/album/1jzqEyjugAp9iLtRsj9LZg) | 2:55 |
 | 36 | [Diablo](https://open.spotify.com/track/3BDpkLMkgrtrM3HckrVIXr) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Faces](https://open.spotify.com/album/5SKnXCvB4fcGSZu32o3LRY) | 3:18 |
 | 37 | [The Question \(feat\. Lil Wayne\)](https://open.spotify.com/track/29tKprMGnf4yxIhWmN0NHq) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Macadelic](https://open.spotify.com/album/1xCNBnc7Gm2VudnyeyZ11Q) | 6:11 |
 | 38 | [Programs](https://open.spotify.com/track/1883mCuSqnfnrWoq8i3myH) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Programs](https://open.spotify.com/album/4RRqzZEFULTx6pafDBvOqZ) | 3:10 |
-| 39 | [Soulmate](https://open.spotify.com/track/2puHJmjL4jvO19aEA7kzcb) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [The Divine Feminine](https://open.spotify.com/album/6f6tko6NWoH00cyFOl4VYQ) | 4:32 |
+| 39 | [That's Life \(feat\. Mac Miller & Sia\)](https://open.spotify.com/track/5h0Jgt873QtgL6nJRBGfT6) | [88\-Keys](https://open.spotify.com/artist/6RedK3o51NbUJuJxXlT4kj), [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [That's Life \(feat\. Mac Miller & Sia\)](https://open.spotify.com/album/1a7behQFUiQ9iHjSJxiZXE) | 3:22 |
 | 40 | [Rain \(feat\. Vince Staples\)](https://open.spotify.com/track/5P4Dow1Jc2NhkknIuPi5Nd) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [Faces](https://open.spotify.com/album/5SKnXCvB4fcGSZu32o3LRY) | 2:33 |
 | 41 | [Loud](https://open.spotify.com/track/2m9fyiIA1ADsjZTG9qcnQI) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Macadelic](https://open.spotify.com/album/1xCNBnc7Gm2VudnyeyZ11Q) | 2:50 |
-| 42 | [That's Life \(feat\. Mac Miller & Sia\)](https://open.spotify.com/track/5h0Jgt873QtgL6nJRBGfT6) | [88\-Keys](https://open.spotify.com/artist/6RedK3o51NbUJuJxXlT4kj), [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [That's Life \(feat\. Mac Miller & Sia\)](https://open.spotify.com/album/1a7behQFUiQ9iHjSJxiZXE) | 3:22 |
+| 42 | [Soulmate](https://open.spotify.com/track/2puHJmjL4jvO19aEA7kzcb) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [The Divine Feminine](https://open.spotify.com/album/6f6tko6NWoH00cyFOl4VYQ) | 4:32 |
 | 43 | [Best Day Ever](https://open.spotify.com/track/1sVJY4n3fJOcrSiTA8oAos) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Best Day Ever \(5th Anniversary Remastered Edition\)](https://open.spotify.com/album/0YA7XxxfkaGwecj3liSTvj) | 2:39 |
 | 44 | [Hole In My Pocket](https://open.spotify.com/track/3McH4Z1SYLn2Ibv9pjN51R) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Blue Slide Park](https://open.spotify.com/album/17mAoDs7T8EA9zzlj6QPBv) | 0:35 |
-| 45 | [Cinderella \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/2lpygKqzPFtItQ4ss3cgfb) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [The Divine Feminine](https://open.spotify.com/album/6f6tko6NWoH00cyFOl4VYQ) | 8:00 |
-| 46 | [100 Grandkids](https://open.spotify.com/track/4z0PnuB07fxtVZZRWsCfxb) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [GO:OD AM](https://open.spotify.com/album/2Tyx5dLhHYkx6zeAdVaTzN) | 4:38 |
+| 45 | [100 Grandkids](https://open.spotify.com/track/4z0PnuB07fxtVZZRWsCfxb) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [GO:OD AM](https://open.spotify.com/album/2Tyx5dLhHYkx6zeAdVaTzN) | 4:38 |
+| 46 | [Cinderella \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/2lpygKqzPFtItQ4ss3cgfb) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [The Divine Feminine](https://open.spotify.com/album/6f6tko6NWoH00cyFOl4VYQ) | 8:00 |
 | 47 | [Buttons](https://open.spotify.com/track/0ZBchpb4CLk5Qqu3895Etp) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Buttons](https://open.spotify.com/album/7GrWzoQHbx463gP1E6HFSp) | 3:48 |
 | 48 | [The Quest](https://open.spotify.com/track/4ZhOSdcezNOSI8StRRqqik) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [The Quest](https://open.spotify.com/album/59h4HNypq1jgCHOkYUtyoW) | 3:53 |
-| 49 | [We \(feat\. CeeLo Green\)](https://open.spotify.com/track/4k5UZm89ZX0YAHUp55zpt9) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [CeeLo Green](https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8) | [The Divine Feminine](https://open.spotify.com/album/6f6tko6NWoH00cyFOl4VYQ) | 5:19 |
-| 50 | [Ascension](https://open.spotify.com/track/19CkkPInDRDIOlqfrz1mVn) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [GO:OD AM](https://open.spotify.com/album/2Tyx5dLhHYkx6zeAdVaTzN) | 4:52 |
+| 49 | [Ascension](https://open.spotify.com/track/19CkkPInDRDIOlqfrz1mVn) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [GO:OD AM](https://open.spotify.com/album/2Tyx5dLhHYkx6zeAdVaTzN) | 4:52 |
+| 50 | [We \(feat\. CeeLo Green\)](https://open.spotify.com/track/4k5UZm89ZX0YAHUp55zpt9) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [CeeLo Green](https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8) | [The Divine Feminine](https://open.spotify.com/album/6f6tko6NWoH00cyFOl4VYQ) | 5:19 |
 
-Snapshot ID: `ZvyNAAAAAACKUbDV3U0enUcfU8RLmKj4`
+Snapshot ID: `Zv3egAAAAAA14SEVUPxmd/+oQHWMdGY3`

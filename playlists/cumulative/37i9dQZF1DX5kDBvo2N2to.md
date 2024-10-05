@@ -4,7 +4,7 @@
 
 > låtarna som inte går att få nog av.
 
-172 songs - 10 hr 7 min
+175 songs - 10 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [ALL OVER](https://open.spotify.com/track/1FR6MeJQQctGXtLyGifRqh) | [Etta Zelmani](https://open.spotify.com/artist/5DtXIIm0QQSZ9mv6Ie0Ua0) | [ALL OVER](https://open.spotify.com/album/0ufEl4mTVplg46TrT5owzB) | 3:43 | 2024-06-28 | 2024-09-13 |
 | [Alltid för alltid](https://open.spotify.com/track/05NfDxkW5lY35zcEMyoaNQ) | [Tiger](https://open.spotify.com/artist/13daebbVeDg0MQzofle4hQ) | [Alltid för alltid](https://open.spotify.com/album/2dMsFd4EfIc2MagYvYlSQO) | 3:20 | 2024-06-28 | 2024-08-23 |
 | [Apple Cider Vinaigrette](https://open.spotify.com/track/3iRtKEY6hu68Kdr9UCwIUq) | [Diane Emerita](https://open.spotify.com/artist/3LhfJfuhr6OZLHrpCXIyuH) | [Apple Cider Vinaigrette](https://open.spotify.com/album/6zIR5NRoi7CFoSydwDIaQg) | 3:44 | 2024-08-29 |  |
+| [APTIT](https://open.spotify.com/track/7HXbBLF1gg7r5dD5rctWWU) | [ABEL](https://open.spotify.com/artist/24s1thJhRUKrnGcnFDBi5E) | [APTIT](https://open.spotify.com/album/29BlAmVIngHpaTayeRWCLm) | 2:48 | 2024-10-04 |  |
 | [Arena](https://open.spotify.com/track/7MxSe1IUsbfSTyoZ3Vwgm4) | [Rebecca & Fiona](https://open.spotify.com/artist/6rgEPiKjowlMKZC1DF6W75) | [Arena](https://open.spotify.com/album/7IfHAYECjJU9jzopGiOtSq) | 3:58 | 2024-06-28 | 2024-08-23 |
 | [Babymoma](https://open.spotify.com/track/6G2mLd5ZXnqlOyqSbTl6FP) | [Felix Sandman](https://open.spotify.com/artist/2M6dCv6FDYMum9nPnNB5Vy) | [Babymoma](https://open.spotify.com/album/4nqeoUwXIwq0mGuUUa4oxv) | 2:52 | 2024-06-28 | 2024-08-23 |
 | [Beaches](https://open.spotify.com/track/0lko8s8up1bZSqctfuoPKj) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beaches](https://open.spotify.com/album/6ivfrPVGf3VU5uQ5SAHY66) | 3:50 | 2024-08-08 |  |
@@ -77,6 +78,7 @@
 | [I Just Needed You To Know](https://open.spotify.com/track/1LCovl7CSqDuKJRlFQEA5V) | [Girl Scout](https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE) | [I Just Needed You To Know](https://open.spotify.com/album/2Xhvdg9rLRGvhlcOznttch) | 4:35 | 2024-06-28 | 2024-08-30 |
 | [I Lied, I'm Sorry](https://open.spotify.com/track/4OzUKx8HTjGAeXqCIic9iD) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [I Lied, I'm Sorry](https://open.spotify.com/album/3z1vyZHMIrMnbpTNrVC5K9) | 2:42 | 2024-08-08 |  |
 | [I Miss My Adidas](https://open.spotify.com/track/6T7Nsxlm9Z75npoJRn3Lth) | [Gina Hannuksela](https://open.spotify.com/artist/4UzbWXKuUlOMtrsUaVyQcs), [CharlyC](https://open.spotify.com/artist/6EKwuMau0XsZaaBea8aXAV) | [I Miss My Adidas](https://open.spotify.com/album/3zj3iOABTpniQ7gpa69Ex4) | 2:10 | 2024-08-08 | 2024-09-15 |
+| [I natt é hela staden vår](https://open.spotify.com/track/1znQMIGsOv5BlrU2BL90wb) | [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i) | [I natt é hela staden vår](https://open.spotify.com/album/42VKHmLNWldELuIPVLr5M4) | 3:20 | 2024-10-04 |  |
 | [I Was A Sailor](https://open.spotify.com/track/2qO4PvWDojlplbvSrCBUvF) | [Miike Snow](https://open.spotify.com/artist/4l1cKWYW591xnwEGxpUg3J) | [I Was A Sailor](https://open.spotify.com/album/2RPZ0G0ZFhbewbFhi6u4em) | 4:00 | 2024-06-28 | 2024-08-23 |
 | [I'll Come Your Way](https://open.spotify.com/track/3lk15upGEldLkgKm7f48QS) | [HNNY](https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r) | [I'll Come Your Way](https://open.spotify.com/album/2Ck1pJHLkPj5uZxstCJEO9) | 3:33 | 2024-06-28 | 2024-09-15 |
 | [I'm Coming Home](https://open.spotify.com/track/16gL4P1H5psxy9Zvg5kkDT) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [I'm Coming Home](https://open.spotify.com/album/6r9fKa9NKfZtwbXTVdf3Es) | 3:57 | 2024-06-28 | 2024-09-27 |
@@ -110,7 +112,7 @@
 | [Mayflowers](https://open.spotify.com/track/5RaVwbwzUBO09MkQV8tcMr) | [Boy In Space](https://open.spotify.com/artist/0xu4jAQQv7ZAqvFGdc9HgP) | [Copium](https://open.spotify.com/album/3W4rMKjMNt7AfTPnkHoYGC) | 2:39 | 2024-06-28 | 2024-08-30 |
 | [Mercy](https://open.spotify.com/track/5uFJXfZjZULwfZpxhKGbhT) | [Goldielocks](https://open.spotify.com/artist/5v1NrlZC6GuQq2Ci8H1A59) | [Mercy](https://open.spotify.com/album/3CXIT7GzHOuW0pQRYYYCdl) | 3:02 | 2024-06-28 |  |
 | [Might Destroy You](https://open.spotify.com/track/58tteWR7XWQwM7sfH6hDaP) | [Hanne Mjøen](https://open.spotify.com/artist/2xDZ8qyyE2Ti4wL1Ob1T7V) | [Might Destroy You](https://open.spotify.com/album/6wreWP88Dq9htpmXBz0qQe) | 2:34 | 2024-08-08 |  |
-| [Min Elsa](https://open.spotify.com/track/18D6W7pJJqwbalzijKOXpB) | [Klara Tuva](https://open.spotify.com/artist/5x0bjg1UeCRvFr8kUyj3fk) | [Min Elsa](https://open.spotify.com/album/3uNPo9qEdsW5q7eUev4tfC) | 2:52 | 2024-08-15 |  |
+| [Min Elsa](https://open.spotify.com/track/18D6W7pJJqwbalzijKOXpB) | [Klara Tuva](https://open.spotify.com/artist/5x0bjg1UeCRvFr8kUyj3fk) | [Min Elsa](https://open.spotify.com/album/3uNPo9qEdsW5q7eUev4tfC) | 2:52 | 2024-08-15 | 2024-10-05 |
 | [Mirrors](https://open.spotify.com/track/2EKz3OWAJPZOufOpgBmeYe) | [Julia Logan](https://open.spotify.com/artist/1HWgpUIHDxJCLCFueK17D0) | [Mirrors](https://open.spotify.com/album/5lgVfF0JPiYDnL6espVfgv) | 3:38 | 2024-06-28 | 2024-08-30 |
 | [Missing You](https://open.spotify.com/track/3nxtdmT0yTl8236nuyyVdC) | [Jubël](https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X), [Maia Wright](https://open.spotify.com/artist/5qQFXHDOeYjiZVrCUO56Pk) | [Missing You](https://open.spotify.com/album/2NLXnnWGIAJV0tCsXdyDNW) | 2:44 | 2024-09-13 |  |
 | [Molnen](https://open.spotify.com/track/1Kc332mhHsU8KnNVJ5Ytzv) | [Klara Tuva](https://open.spotify.com/artist/5x0bjg1UeCRvFr8kUyj3fk) | [Speglarna mot solen](https://open.spotify.com/album/0oP2n65EIgQX7gEsd6b24U) | 3:33 | 2024-09-19 |  |
@@ -145,17 +147,18 @@
 | [Sjuk i Huvudet](https://open.spotify.com/track/74mqrObPeUlI7eOO1ZM9UE) | [Avantgardet](https://open.spotify.com/artist/7eX1F6FIRszrebMLdM1BpQ) | [Sjuk i Huvudet – Paul Gascoigne](https://open.spotify.com/album/1cBXxeObgl62kfqZOH8oDq) | 4:30 | 2024-08-22 |  |
 | [Snow In The Summer](https://open.spotify.com/track/2u8jdrBjDG3VM7YbhTAJPo) | [Vilhelm Buchaus](https://open.spotify.com/artist/1WqdwYhwSMzVexRFkOtcwl) | [Snow In The Summer](https://open.spotify.com/album/46fIzNsQu0ZOjVXrH4rto9) | 2:49 | 2024-06-28 | 2024-08-16 |
 | [Sockerdricka](https://open.spotify.com/track/0BRiFaYDS7IbM2YO0DFvrP) | [Petrus](https://open.spotify.com/artist/7dwuMzeQJDOTWf0GN6IQHG) | [Sockerdricka](https://open.spotify.com/album/4OJ1YpiBv213DlnbVmYXYf) | 3:22 | 2024-06-28 |  |
-| [Som En Sol](https://open.spotify.com/track/56oeHpuKnpG3U8UEkj2T8n) | [Toxe](https://open.spotify.com/artist/30peMqLlbR5jf0qe1MmLlk) | [Som En Sol](https://open.spotify.com/album/7pMPAhJVAfJ1JedHFanzs7) | 2:55 | 2024-06-28 |  |
+| [Som En Sol](https://open.spotify.com/track/56oeHpuKnpG3U8UEkj2T8n) | [Toxe](https://open.spotify.com/artist/30peMqLlbR5jf0qe1MmLlk) | [Som En Sol](https://open.spotify.com/album/7pMPAhJVAfJ1JedHFanzs7) | 2:55 | 2024-06-28 | 2024-10-05 |
 | [Somebody Else \- Spotify Singles](https://open.spotify.com/track/5gMZytf2L5iBLiyBEaSAhh) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Somebody Else \- Spotify Singles](https://open.spotify.com/album/2x1pqv8DQ5JaR5bbZFiwYq) | 5:00 | 2024-09-19 |  |
 | [Someone Was Listening \(from Life is Strange\)](https://open.spotify.com/track/1kuPgsWuwfNVHTPDBGMMj4) | [dodie](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) | [Someone Was Listening \(from Life is Strange\)](https://open.spotify.com/album/7eapnSI86vtEKZ29h20hn3) | 2:57 | 2024-09-19 |  |
 | [Spacer \(Reimagined\)](https://open.spotify.com/track/5OY3iMYgsGcqDfxbcxZ7PK) | [Augustine](https://open.spotify.com/artist/1esNGCDFDiy6sKEqPhlLb4) | [Spacer \(Reimagined\)](https://open.spotify.com/album/52oKQNPiIAmYOFTBSIny5q) | 3:08 | 2024-06-28 | 2024-08-30 |
 | [Spot a Fake](https://open.spotify.com/track/1svpo8ORIHy4BdgicdyUjx) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Spot a Fake](https://open.spotify.com/album/2LTf2Kj2XJuOR3Vi5AMkcD) | 2:47 | 2024-09-19 |  |
 | [Sprit & Blondiner](https://open.spotify.com/track/0jXbmr98Xm2bNlAUyq9caV) | [Silvana Imam](https://open.spotify.com/artist/14vNE9iqS5eGAL6OogiN8g), [ALMA](https://open.spotify.com/artist/6c0mTNAxJxlp9HpKTUZwA8) | [Sprit & Blondiner](https://open.spotify.com/album/3bXFyWuISWjAIonXpBupcK) | 3:23 | 2024-06-28 |  |
+| [Stannar vi kvar här så dör vi](https://open.spotify.com/track/1zHIvkE5jniT18H9IyHQzn) | [Klaudy](https://open.spotify.com/artist/7mV5Ag4VyHBPfUtpekZGyd) | [Stannar vi kvar här så dör vi](https://open.spotify.com/album/1kyZ7ToGWJiXmJX3MjUdDT) | 3:00 | 2024-10-04 |  |
 | [STILL](https://open.spotify.com/track/6wZRlFQJZ4gnV96844cfhq) | [REX WARREN](https://open.spotify.com/artist/4Iahk5PjiGCjwxg7kSNWjU) | [STILL](https://open.spotify.com/album/3T0BYTGn6qxqWJvZ5sodL3) | 2:02 | 2024-06-28 |  |
 | [Stjärnorna inatt](https://open.spotify.com/track/1DKFVX0HLcAGK8o7uHbJ3N) | [Lilla London](https://open.spotify.com/artist/6zK5imaibUQAokIz18dOGD) | [Stjärnorna inatt](https://open.spotify.com/album/5ds8GyAwvIwrtI8JdtGMHO) | 3:27 | 2024-06-28 |  |
 | [Stockholm](https://open.spotify.com/track/53v7VYAmBEmH7ju6zSGhc4) | [Christian Nanou](https://open.spotify.com/artist/2BQUPbMBCJF16dUMMnaVQu) | [Stockholm](https://open.spotify.com/album/5eq8VZ9uOInt7pIE9bIFt8) | 2:46 | 2024-08-22 |  |
 | [Strong](https://open.spotify.com/track/6kvS2z82Q6l7h4DnzteKwO) | [Mina Okabe](https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl) | [Strong](https://open.spotify.com/album/3ZrhrH8iDFgDLEgVYfobR7) | 2:59 | 2024-08-15 |  |
-| [Summer](https://open.spotify.com/track/0tEhECI70FisYPPYoa8JXL) | [Felix Sandman](https://open.spotify.com/artist/2M6dCv6FDYMum9nPnNB5Vy) | [Sandy Karlo](https://open.spotify.com/album/5E7azXTKV0H4jWRXyG4aMZ) | 5:04 | 2024-06-28 |  |
+| [Summer](https://open.spotify.com/track/0tEhECI70FisYPPYoa8JXL) | [Felix Sandman](https://open.spotify.com/artist/2M6dCv6FDYMum9nPnNB5Vy) | [Sandy Karlo](https://open.spotify.com/album/5E7azXTKV0H4jWRXyG4aMZ) | 5:04 | 2024-06-28 | 2024-10-05 |
 | [Switch](https://open.spotify.com/track/1bEO8LdFDrYpJleXnVons3) | [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [Switch](https://open.spotify.com/album/6OumeSAX4Z4eVfyU816KLM) | 3:00 | 2024-09-19 |  |
 | [Säkra kort](https://open.spotify.com/track/4TyzrKciaUGim6k1HR7pIC) | [Herman Silow](https://open.spotify.com/artist/3I0osKUHYFoSJdBFeseDcO) | [Säkra kort](https://open.spotify.com/album/6pUqEAq1WoB1O9g7HWNuXL) | 3:23 | 2024-09-19 |  |
 | [Talk](https://open.spotify.com/track/1oJXyOgHH1qZGpgsODvt69) | [Omar Rudberg](https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd) | [Talk / Bye Bye](https://open.spotify.com/album/6qCiCh8EV2osyLSIXvZ93N) | 2:31 | 2024-06-28 |  |

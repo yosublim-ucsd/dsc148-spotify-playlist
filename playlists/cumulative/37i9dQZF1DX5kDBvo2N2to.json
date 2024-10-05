@@ -139,6 +139,24 @@
     },
     {
       "album": {
+        "name": "APTIT",
+        "url": "https://open.spotify.com/album/29BlAmVIngHpaTayeRWCLm"
+      },
+      "artists": [
+        {
+          "name": "ABEL",
+          "url": "https://open.spotify.com/artist/24s1thJhRUKrnGcnFDBi5E"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168047,
+      "name": "APTIT",
+      "url": "https://open.spotify.com/track/7HXbBLF1gg7r5dD5rctWWU"
+    },
+    {
+      "album": {
         "name": "Arena",
         "url": "https://open.spotify.com/album/7IfHAYECjJU9jzopGiOtSq"
       },
@@ -1291,6 +1309,24 @@
     },
     {
       "album": {
+        "name": "I natt \u00e9 hela staden v\u00e5r",
+        "url": "https://open.spotify.com/album/42VKHmLNWldELuIPVLr5M4"
+      },
+      "artists": [
+        {
+          "name": "Seinabo Sey",
+          "url": "https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200698,
+      "name": "I natt \u00e9 hela staden v\u00e5r",
+      "url": "https://open.spotify.com/track/1znQMIGsOv5BlrU2BL90wb"
+    },
+    {
+      "album": {
         "name": "I Was A Sailor",
         "url": "https://open.spotify.com/album/2RPZ0G0ZFhbewbFhi6u4em"
       },
@@ -1912,7 +1948,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 172602,
       "name": "Min Elsa",
       "url": "https://open.spotify.com/track/18D6W7pJJqwbalzijKOXpB"
@@ -2550,7 +2586,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 175384,
       "name": "Som En Sol",
       "url": "https://open.spotify.com/track/56oeHpuKnpG3U8UEkj2T8n"
@@ -2651,6 +2687,24 @@
     },
     {
       "album": {
+        "name": "Stannar vi kvar h\u00e4r s\u00e5 d\u00f6r vi",
+        "url": "https://open.spotify.com/album/1kyZ7ToGWJiXmJX3MjUdDT"
+      },
+      "artists": [
+        {
+          "name": "Klaudy",
+          "url": "https://open.spotify.com/artist/7mV5Ag4VyHBPfUtpekZGyd"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180133,
+      "name": "Stannar vi kvar h\u00e4r s\u00e5 d\u00f6r vi",
+      "url": "https://open.spotify.com/track/1zHIvkE5jniT18H9IyHQzn"
+    },
+    {
+      "album": {
         "name": "STILL",
         "url": "https://open.spotify.com/album/3T0BYTGn6qxqWJvZ5sodL3"
       },
@@ -2734,7 +2788,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 304000,
       "name": "Summer",
       "url": "https://open.spotify.com/track/0tEhECI70FisYPPYoa8JXL"

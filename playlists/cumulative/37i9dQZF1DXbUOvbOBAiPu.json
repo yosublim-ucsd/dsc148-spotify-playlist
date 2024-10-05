@@ -16513,6 +16513,28 @@
     },
     {
       "album": {
+        "name": "JADED",
+        "url": "https://open.spotify.com/album/1XcpYmfE4vYCKeLQYINlO7"
+      },
+      "artists": [
+        {
+          "name": "Toosii",
+          "url": "https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1"
+        },
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166954,
+      "name": "I Do (feat. Muni Long)",
+      "url": "https://open.spotify.com/track/5TbYIeYkGgGtYL7sms7m9N"
+    },
+    {
+      "album": {
         "name": "WILD CHILD",
         "url": "https://open.spotify.com/album/0BA7J5iUJHMnKrCga3m5pR"
       },
@@ -28503,7 +28525,7 @@
     },
     {
       "album": {
-        "name": "P\u00e9tunia",
+        "name": "P\u00e9tunias",
         "url": "https://open.spotify.com/album/1xF3GugX1r1Jj3xsljohcv"
       },
       "artists": [
@@ -28515,8 +28537,8 @@
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 210247,
-      "name": "P\u00e9tunia",
+      "duration_ms": 211239,
+      "name": "P\u00e9tunias",
       "url": "https://open.spotify.com/track/4csiR0voWHzg46BFnQZ0kp"
     },
     {

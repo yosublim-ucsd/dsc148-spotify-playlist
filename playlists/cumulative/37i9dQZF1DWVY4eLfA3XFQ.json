@@ -53,6 +53,32 @@
     },
     {
       "album": {
+        "name": "10 Outta 10",
+        "url": "https://open.spotify.com/album/6SjhB3dESaVIPp3xWOedhZ"
+      },
+      "artists": [
+        {
+          "name": "\u20acURO TRA$H",
+          "url": "https://open.spotify.com/artist/18pzORU0ImCwhbZgPZYTI9"
+        },
+        {
+          "name": "Yellow Claw",
+          "url": "https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh"
+        },
+        {
+          "name": "OGAQUAFINA",
+          "url": "https://open.spotify.com/artist/07E0xIjCv2xkPCR7KCr9aK"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216874,
+      "name": "10 Outta 10",
+      "url": "https://open.spotify.com/track/6QKveURtqwxUSX7XUEbEXN"
+    },
+    {
+      "album": {
         "name": "123 Round Again",
         "url": "https://open.spotify.com/album/3lU4CldHLg8gjYGKTnwWuV"
       },
@@ -2536,7 +2562,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-26",
+      "date_removed": null,
       "duration_ms": 174616,
       "name": "Bang",
       "url": "https://open.spotify.com/track/6ZIZuxzxBs6nD0PlMiLiU6"
@@ -3997,6 +4023,28 @@
     },
     {
       "album": {
+        "name": "Break The House Down",
+        "url": "https://open.spotify.com/album/40DYtoYfqk3Rif6ChWA5aq"
+      },
+      "artists": [
+        {
+          "name": "Laidback Luke",
+          "url": "https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk"
+        },
+        {
+          "name": "Chris Lorenzo",
+          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208730,
+      "name": "Break The House Down",
+      "url": "https://open.spotify.com/track/4sew84IRdf0O45r0UXbxVQ"
+    },
+    {
+      "album": {
         "name": "Breathe (feat. No/Me)",
         "url": "https://open.spotify.com/album/6S0nluEFylUKYsrd2tj0jL"
       },
@@ -5009,6 +5057,24 @@
     },
     {
       "album": {
+        "name": "Can You Feel The Beat",
+        "url": "https://open.spotify.com/album/7rM0V67GnRcBIxED3ZKiag"
+      },
+      "artists": [
+        {
+          "name": "RSCL",
+          "url": "https://open.spotify.com/artist/5pkU7zjIzHgfN1n91e51r3"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173511,
+      "name": "Can You Feel The Beat",
+      "url": "https://open.spotify.com/track/3G8K67oKe3DbQPcmXp4s3g"
+    },
+    {
+      "album": {
         "name": "Can you speak English",
         "url": "https://open.spotify.com/album/2sWKejY9iYpeTida22fHl9"
       },
@@ -5991,6 +6057,24 @@
     },
     {
       "album": {
+        "name": "COLLECT THE COMMAS",
+        "url": "https://open.spotify.com/album/6AVl6czEyN0v5GRaeCr4WY"
+      },
+      "artists": [
+        {
+          "name": "PAWSA",
+          "url": "https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221339,
+      "name": "COLLECT THE COMMAS",
+      "url": "https://open.spotify.com/track/5e3NwBC0E6xjX9c1Uc8RHy"
+    },
+    {
+      "album": {
         "name": "Colombiana",
         "url": "https://open.spotify.com/album/7vvmaTj1zNgUxP3M61v2gA"
       },
@@ -6914,6 +6998,24 @@
       "duration_ms": 168750,
       "name": "Dance Lapse",
       "url": "https://open.spotify.com/track/5wbxaVhha6KUXecFt6vwga"
+    },
+    {
+      "album": {
+        "name": "Dance Naked",
+        "url": "https://open.spotify.com/album/6lnZ0X8y7Krw0fBqkx2Qcz"
+      },
+      "artists": [
+        {
+          "name": "Tony Romera",
+          "url": "https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210937,
+      "name": "Dance Naked",
+      "url": "https://open.spotify.com/track/02004T36dT91vxe7vfdRa1"
     },
     {
       "album": {
@@ -7924,6 +8026,24 @@
       "duration_ms": 206250,
       "name": "Do It Like This",
       "url": "https://open.spotify.com/track/5BdUzqEtecxcPOhLholdqb"
+    },
+    {
+      "album": {
+        "name": "Do It Like This",
+        "url": "https://open.spotify.com/album/3DjKXKeMukozWmQPXd9cft"
+      },
+      "artists": [
+        {
+          "name": "Duke & Jones",
+          "url": "https://open.spotify.com/artist/3jNm5wvIx1eR5NDdXhMkNV"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212578,
+      "name": "Do It Like This",
+      "url": "https://open.spotify.com/track/0T7rY2sXT0BJ7XpinOd6xt"
     },
     {
       "album": {
@@ -12261,6 +12381,28 @@
     },
     {
       "album": {
+        "name": "GETAWAY",
+        "url": "https://open.spotify.com/album/6HtqNgGjK86kJ8orgIccpt"
+      },
+      "artists": [
+        {
+          "name": "Riordan",
+          "url": "https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao"
+        },
+        {
+          "name": "Ellis Moss",
+          "url": "https://open.spotify.com/artist/0XOfJ1JJXwMVJG26ZZj3UQ"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163871,
+      "name": "GETAWAY",
+      "url": "https://open.spotify.com/track/29vEfX4XhKR4teS4mhyf2v"
+    },
+    {
+      "album": {
         "name": "Ghetto EP",
         "url": "https://open.spotify.com/album/0Yk2UyQvhV8Jx2AvvFYtev"
       },
@@ -13360,7 +13502,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 175757,
       "name": "Hella Good",
       "url": "https://open.spotify.com/track/1ck6fXDzbKiWKCVSfqxsUB"
@@ -13488,7 +13630,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-28",
+      "date_removed": null,
       "duration_ms": 144230,
       "name": "Hey Girls, B-Boys",
       "url": "https://open.spotify.com/track/79GMf6RewQhaYZfFvegwJB"
@@ -14670,7 +14812,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 200624,
       "name": "I Am The One",
       "url": "https://open.spotify.com/track/6c6aGOsp8aME26mlghPuBd"
@@ -14688,7 +14830,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-28",
+      "date_removed": null,
       "duration_ms": 157784,
       "name": "I Can't Take No More",
       "url": "https://open.spotify.com/track/6AT2JACN4Fi5MPSBwuxnHJ"
@@ -15848,7 +15990,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 201979,
       "name": "in2minds",
       "url": "https://open.spotify.com/track/3zaExCzGSQDEAI03RfneN0"
@@ -15918,7 +16060,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 154960,
       "name": "Inside",
       "url": "https://open.spotify.com/track/3RJfn1YtXrUestEg2IBSXx"
@@ -16548,7 +16690,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-28",
+      "date_removed": null,
       "duration_ms": 120595,
       "name": "Kattapult (James Hype Edit)",
       "url": "https://open.spotify.com/track/1bq0odxoXVY7pJbwk6uLcD"
@@ -18232,7 +18374,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 120902,
       "name": "Little Man (Proud Of You)",
       "url": "https://open.spotify.com/track/7f3S9OhJPB9IrQgn4JXx3O"
@@ -22198,7 +22340,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 352500,
       "name": "No Boys Allowed - OG House Mix",
       "url": "https://open.spotify.com/track/5ECEMutDIhmSKM6MkJuVc3"
@@ -22392,7 +22534,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 146195,
       "name": "No Sleep (6AM) (feat. MERYLL)",
       "url": "https://open.spotify.com/track/2hpoG18R8aBXB3O5QmheJt"
@@ -25150,7 +25292,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 205278,
       "name": "Push That",
       "url": "https://open.spotify.com/track/1xOYdelTPr55KdHr3iiojn"
@@ -25212,7 +25354,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 197419,
       "name": "P\u00e9gate",
       "url": "https://open.spotify.com/track/1p53sKGwHI0HuAVg9NWGNy"
@@ -26282,7 +26424,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 151515,
       "name": "Rider",
       "url": "https://open.spotify.com/track/0nTTJiMKthUPONHSwrax77"
@@ -28074,7 +28216,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 188011,
       "name": "She's In The Club (feat. Asal)",
       "url": "https://open.spotify.com/track/7BhjlfNllL8h50DLl5Cd4r"
@@ -30254,6 +30396,28 @@
     {
       "album": {
         "name": "Supersonic",
+        "url": "https://open.spotify.com/album/0EeLq0QPw6ogMvv4HZZGkB"
+      },
+      "artists": [
+        {
+          "name": "Crusy",
+          "url": "https://open.spotify.com/artist/6oIoaURalGEtkYTswOLoft"
+        },
+        {
+          "name": "Alex Now (ES)",
+          "url": "https://open.spotify.com/artist/4eQ3wWnuaLwgtCzcAsgWZf"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137343,
+      "name": "Supersonic",
+      "url": "https://open.spotify.com/track/7qzNN86nlI4YaslP5lZVb0"
+    },
+    {
+      "album": {
+        "name": "Supersonic",
         "url": "https://open.spotify.com/album/2hSEg1ZqwBdqY5dpTy8SrY"
       },
       "artists": [
@@ -30428,7 +30592,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 153573,
       "name": "Switch",
       "url": "https://open.spotify.com/track/6t3IAKZTkY6A8rOEX0nVk7"
@@ -32019,6 +32183,28 @@
     },
     {
       "album": {
+        "name": "The Middle",
+        "url": "https://open.spotify.com/album/5cE6HxPxFOyMB6F84AfQPe"
+      },
+      "artists": [
+        {
+          "name": "Guz",
+          "url": "https://open.spotify.com/artist/2T86EVnDCP64EaVKRXIcRx"
+        },
+        {
+          "name": "Thomas Newson",
+          "url": "https://open.spotify.com/artist/66MrdPDHTjnnMOTBmC81q5"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138625,
+      "name": "The Middle",
+      "url": "https://open.spotify.com/track/3aBnAalGNegmCOS1LIdSIc"
+    },
+    {
+      "album": {
         "name": "The Move (feat. Tony Duke)",
         "url": "https://open.spotify.com/album/1xDebsZ7SxyJXXrE12i3mG"
       },
@@ -32354,7 +32540,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 176718,
       "name": "The Unknown",
       "url": "https://open.spotify.com/track/7MAyS6xzh4719eLTKqbL38"
@@ -34395,6 +34581,28 @@
     },
     {
       "album": {
+        "name": "Vertigo",
+        "url": "https://open.spotify.com/album/0gztyILyaGcja3qMyM1YFZ"
+      },
+      "artists": [
+        {
+          "name": "Odd Mob",
+          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
+        },
+        {
+          "name": "Ed Graves",
+          "url": "https://open.spotify.com/artist/1Kkcm36k22FT1RWcINq4sI"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148124,
+      "name": "Vertigo",
+      "url": "https://open.spotify.com/track/2FXzX7kUXBxqU62TYdheVT"
+    },
+    {
+      "album": {
         "name": "Vibe Haus",
         "url": "https://open.spotify.com/album/22Va4zzwZG861ov70ccUfS"
       },
@@ -35426,7 +35634,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 195250,
       "name": "What About Me",
       "url": "https://open.spotify.com/track/2H0CEWirJNz7k3tr9SPP2B"

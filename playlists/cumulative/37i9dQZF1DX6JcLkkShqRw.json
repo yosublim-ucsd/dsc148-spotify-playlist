@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Flow sudamericano con Lauty Gram.",
+  "description": "Flow sudamericano con Bhavi.",
   "name": "Flow al Sur",
   "tracks": [
     {
@@ -1075,6 +1075,24 @@
     },
     {
       "album": {
+        "name": "A.T.A",
+        "url": "https://open.spotify.com/album/241KgBa8yVFqlUjY4ZhHvd"
+      },
+      "artists": [
+        {
+          "name": "Delfina Dib",
+          "url": "https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129229,
+      "name": "A.T.A",
+      "url": "https://open.spotify.com/track/17ee3ShvzGiJL9MYsSKaM9"
+    },
+    {
+      "album": {
         "name": "Somos el Show",
         "url": "https://open.spotify.com/album/2XCuqzRi8ME6YhPdQ8oSc8"
       },
@@ -2098,7 +2116,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 237900,
       "name": "ANDO CON EL KI",
       "url": "https://open.spotify.com/track/0cl9khQF0SgpNpexsRUgfH"
@@ -2730,6 +2748,32 @@
       "duration_ms": 208750,
       "name": "Ay Mam\u00e1 (feat. Dillom) - Remix",
       "url": "https://open.spotify.com/track/6z1ptmvVhtzrRA2nSX49Qc"
+    },
+    {
+      "album": {
+        "name": "ay mi vida",
+        "url": "https://open.spotify.com/album/7Ie0wxRsJ9hoGRBjXnPvML"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Correa",
+          "url": "https://open.spotify.com/artist/1bVSA9IM2PsnHzY7j3mG7h"
+        },
+        {
+          "name": "JEM",
+          "url": "https://open.spotify.com/artist/4C71hZ4YnzjMg5w1vNMiEi"
+        },
+        {
+          "name": "KYA",
+          "url": "https://open.spotify.com/artist/1D1DNu1iQq7j7hFOlJZJyP"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202949,
+      "name": "ay mi vida",
+      "url": "https://open.spotify.com/track/3XrLn16e0LywNNVqWr9uWb"
     },
     {
       "album": {
@@ -3976,7 +4020,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 197647,
       "name": "Big Glocks",
       "url": "https://open.spotify.com/track/7i8NO4HHq8bWEYXrU6tmYM"
@@ -4174,7 +4218,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 161000,
       "name": "BOM BOM",
       "url": "https://open.spotify.com/track/60O8UldBX0xkIs7R48DOsQ"
@@ -5370,7 +5414,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 113684,
       "name": "Cero Noni",
       "url": "https://open.spotify.com/track/2KycsIYUCcFKACrrHQXB73"
@@ -7877,6 +7921,24 @@
     },
     {
       "album": {
+        "name": "Debe ser feo",
+        "url": "https://open.spotify.com/album/6OULGaPBYZ23RvNrmyp8oJ"
+      },
+      "artists": [
+        {
+          "name": "Zeballos",
+          "url": "https://open.spotify.com/artist/5ayyPSqoObeTOj1UGtM79C"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150989,
+      "name": "Debe ser feo",
+      "url": "https://open.spotify.com/track/4SGUnZBKbTPdQsRXX3XQnJ"
+    },
+    {
+      "album": {
         "name": "Debo Cambiar (feat. KHEA)",
         "url": "https://open.spotify.com/album/2AYHyHVhyGGLwwpG54z4To"
       },
@@ -9560,6 +9622,28 @@
       "duration_ms": 136744,
       "name": "El Maquinon",
       "url": "https://open.spotify.com/track/1NOImFygNaIBUSoL3C6Jnt"
+    },
+    {
+      "album": {
+        "name": "El Tiempo Se Para",
+        "url": "https://open.spotify.com/album/6a0r5Kk8CdWzeh3yc88KoP"
+      },
+      "artists": [
+        {
+          "name": "Tobi",
+          "url": "https://open.spotify.com/artist/6H70hylNqfc86Omz8GoyDB"
+        },
+        {
+          "name": "Seven Kayne",
+          "url": "https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183159,
+      "name": "El Tiempo Se Para",
+      "url": "https://open.spotify.com/track/0CxQ3ICqj842FNBGMovEuQ"
     },
     {
       "album": {
@@ -11421,6 +11505,24 @@
     },
     {
       "album": {
+        "name": "Her\u00e1ldica +",
+        "url": "https://open.spotify.com/album/5uC2ijosFc8oET650PF88C"
+      },
+      "artists": [
+        {
+          "name": "Saramalacara",
+          "url": "https://open.spotify.com/artist/3QchzUOTSCKWmaRGEEiuir"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115016,
+      "name": "Fotolove!",
+      "url": "https://open.spotify.com/track/2iKkPx35MLrK527bW59OOw"
+    },
+    {
+      "album": {
         "name": "FREEBARS #2",
         "url": "https://open.spotify.com/album/4SXUD1V42E0BO1UjkGBwHn"
       },
@@ -12552,7 +12654,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 118857,
       "name": "HACERME RICO",
       "url": "https://open.spotify.com/track/6VETiiOB9y6rmV9eNkEsLY"
@@ -13384,6 +13486,32 @@
       "duration_ms": 166733,
       "name": "IDGAD",
       "url": "https://open.spotify.com/track/2FF5m9pWgpneewxKLgZ2FY"
+    },
+    {
+      "album": {
+        "name": "IG",
+        "url": "https://open.spotify.com/album/0iytPnOagkUKmOWkwhnNvf"
+      },
+      "artists": [
+        {
+          "name": "SOG",
+          "url": "https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD"
+        },
+        {
+          "name": "FMK",
+          "url": "https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf"
+        },
+        {
+          "name": "DFZM",
+          "url": "https://open.spotify.com/artist/6ndLrsgT3MV5CNxIrW71fw"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190515,
+      "name": "IG",
+      "url": "https://open.spotify.com/track/3vtPzVMbYE5KveyLyNS2Hj"
     },
     {
       "album": {
@@ -14762,7 +14890,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 166829,
       "name": "La Noche Que Te Fuiste",
       "url": "https://open.spotify.com/track/0smGIc2xWqqmoRFmkSm03M"
@@ -15886,6 +16014,24 @@
       "duration_ms": 239206,
       "name": "Loco",
       "url": "https://open.spotify.com/track/6WeJGp7MB7sEEf9InLEvh1"
+    },
+    {
+      "album": {
+        "name": "LOCO X VOS",
+        "url": "https://open.spotify.com/album/0JZGUM2f7KIHUHxwa0u1Yx"
+      },
+      "artists": [
+        {
+          "name": "Bhavi",
+          "url": "https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100964,
+      "name": "LOCO X VOS",
+      "url": "https://open.spotify.com/track/3sIPHPehrnwzGEvOJr44Jr"
     },
     {
       "album": {
@@ -17366,6 +17512,28 @@
       "duration_ms": 240773,
       "name": "Me Ense\u00f1aste - Remix",
       "url": "https://open.spotify.com/track/4tFglUmIjJtN0ViGNNv4mi"
+    },
+    {
+      "album": {
+        "name": "Me fui de aqui",
+        "url": "https://open.spotify.com/album/4J3DyVzJLPeA6isaJSEV8n"
+      },
+      "artists": [
+        {
+          "name": "LWLO",
+          "url": "https://open.spotify.com/artist/5NzzlW9prBfOWiP3lzC9yp"
+        },
+        {
+          "name": "Nashy-Nashai",
+          "url": "https://open.spotify.com/artist/5YlkgaxxGe3pAePsBBA4vx"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153971,
+      "name": "Me fui de aqui",
+      "url": "https://open.spotify.com/track/2tbqteH0UrHRzMIo5Rprdh"
     },
     {
       "album": {
@@ -20130,7 +20298,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 187200,
       "name": "Nih vs La",
       "url": "https://open.spotify.com/track/1vnQbc1VI75vDBzqe5mLar"
@@ -22212,7 +22380,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 220540,
       "name": "PADRE NUESTRO",
       "url": "https://open.spotify.com/track/5n5X1c4kkN4seBCw5jS8iM"
@@ -24224,7 +24392,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 120000,
       "name": "Protocolo Bajo West, Cap. 22",
       "url": "https://open.spotify.com/track/5dnU5a07JTNvDzV2XsC4Xq"
@@ -27270,6 +27438,28 @@
       "duration_ms": 208168,
       "name": "Snow",
       "url": "https://open.spotify.com/track/5fz31FeYZKuY0lDR9T1lJv"
+    },
+    {
+      "album": {
+        "name": "SO HIGH",
+        "url": "https://open.spotify.com/album/39nLCVzGW01PMNJCDo0SCq"
+      },
+      "artists": [
+        {
+          "name": "nick near",
+          "url": "https://open.spotify.com/artist/718QnoFcMo3XaWS7g1Rcyx"
+        },
+        {
+          "name": "Kiddtetoon",
+          "url": "https://open.spotify.com/artist/2zfwez4uxbP8NcFy3kaNLF"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190115,
+      "name": "SO HIGH",
+      "url": "https://open.spotify.com/track/452vnm4c6cCo9EZCJoOAWq"
     },
     {
       "album": {
@@ -31491,6 +31681,24 @@
     },
     {
       "album": {
+        "name": "Voil\u00e0",
+        "url": "https://open.spotify.com/album/6eC2Nai4U0PfwT3OASBxUL"
+      },
+      "artists": [
+        {
+          "name": "Eli Almic",
+          "url": "https://open.spotify.com/artist/5KXdJKZm2dVPkKmbitndiR"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135000,
+      "name": "Voil\u00e0",
+      "url": "https://open.spotify.com/track/3grAT7ft8f7XMMYXmtpLT2"
+    },
+    {
+      "album": {
         "name": "Volvi",
         "url": "https://open.spotify.com/album/52WSN8TohFiyxuK4HPgiNG"
       },
@@ -31564,7 +31772,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 210461,
       "name": "VV",
       "url": "https://open.spotify.com/track/4R7Mn1PJ9o37QsJW4RLxBh"

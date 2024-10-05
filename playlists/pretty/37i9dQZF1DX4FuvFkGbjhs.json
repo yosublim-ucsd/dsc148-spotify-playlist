@@ -1,12 +1,12 @@
 {
   "description": "Beyond titles, beyond genre. Cover: yun\u00e9 pinku",
-  "num_followers": 204270,
+  "num_followers": 204339,
   "original_name": "UNTITLED",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zv8h8AAAAABiCIE8sVgM5Oo2S4E4A8Kq",
+  "snapshot_id": "Zv+tagAAAAA0nBIog5JM6vWXjlDk4xqO",
   "tracks": [
     {
       "added_at": "2024-10-03 23:00:00",
@@ -59,6 +59,22 @@
       "duration_ms": 206899,
       "name": "Midnight Oil",
       "url": "https://open.spotify.com/track/7kxHjAiIYCM3vU8BA9a6Qe"
+    },
+    {
+      "added_at": "2024-10-04 08:55:06",
+      "album": {
+        "name": "Lahai - Deluxe",
+        "url": "https://open.spotify.com/album/0oKro6GftR6X0sk7fVH7T8"
+      },
+      "artists": [
+        {
+          "name": "Sampha",
+          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
+        }
+      ],
+      "duration_ms": 226495,
+      "name": "Dancing Circles 2.0",
+      "url": "https://open.spotify.com/track/3C5eqElWp0s4of3vTU37bF"
     },
     {
       "added_at": "2024-10-03 23:00:00",
@@ -1007,7 +1023,7 @@
     {
       "added_at": "2024-10-03 23:00:00",
       "album": {
-        "name": "EDITS",
+        "name": "Great Doubt (EDITS)",
         "url": "https://open.spotify.com/album/3Q4ckErENVJA9V1nx3pMS4"
       },
       "artists": [
@@ -1025,7 +1041,7 @@
         }
       ],
       "duration_ms": 145125,
-      "name": "Do you wanna - Fine & Molina Edit",
+      "name": "Do you wanna - Fine + Molina EDIT",
       "url": "https://open.spotify.com/track/6xTOSlWaiBRiVj3Xh265FL"
     },
     {

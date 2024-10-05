@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHgXkgBOlTI.md) - [plain]
 
 > ジャズを基調にロックやラテン音楽、電子音楽、時にはクラシックなどを融合させた「ジャズフュージョン」を牽引する日本のアーティストを特集。cover: bohemianvoodoo
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,463 likes - 50 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,469 likes - 50 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,19 +44,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHgXkgBOlTI.md) - [plain]
 | 34 | [Nica's Dream](https://open.spotify.com/track/6DfUkofhWGzAxkJcsTVAOz) | [Gecko&Tokage Parade](https://open.spotify.com/artist/1fTpExgFwmHdgnUPZXohFF) | [Re:Tokage](https://open.spotify.com/album/7gDYCILM2T9dpDulYxPl0c) | 4:25 |
 | 35 | [Akatsuki](https://open.spotify.com/track/5Kzvafvksy487apDu6f6Fw) | [PE'Z](https://open.spotify.com/artist/52uuAX0XAdhMmLLpaSaOig) | [九月の空 \-KUGATSU NO SOLA\-](https://open.spotify.com/album/6roaJKXBTODhmG7GcrSRdC) | 4:28 |
 | 36 | [Ready?](https://open.spotify.com/track/1Nz4KHTLNnnc2Wl6teppUR) | [MIDORINOMARU](https://open.spotify.com/artist/4ZBnxeDmHTLJZPQWmbINhu) | [Ready?](https://open.spotify.com/album/1gnPX2apuEEOkRwsDQOdtw) | 4:35 |
-| 37 | [Infinite Mirror](https://open.spotify.com/track/6Ud16saJTj7RYZolKEENE3) | [LITE](https://open.spotify.com/artist/0TF6B1cp2QZXLE0NjhTMT9) | [Phantasia](https://open.spotify.com/album/61kijqkLmurIjlNOv65WYJ) | 4:39 |
-| 38 | [枯葉 \~Autumn Leaves\~ \(jazz standard\)](https://open.spotify.com/track/6qeCyQdxowFD746sApGBYx) | [SANOVA](https://open.spotify.com/artist/15fZ3hlvf6rcqHls6hZAbt) | [BLISS](https://open.spotify.com/album/1YDUWGvyfwxHi8Xwr7muNi) | 3:05 |
-| 39 | [石の教会](https://open.spotify.com/track/17UXJldxw6BDUxVoDjemkK) | [bohemianvoodoo](https://open.spotify.com/artist/2pKjlyTAEzqUAFsQNCgmkS) | [MOMENTS](https://open.spotify.com/album/1O302L03rMX6CR86W0OfuD) | 4:37 |
+| 37 | [石の教会](https://open.spotify.com/track/17UXJldxw6BDUxVoDjemkK) | [bohemianvoodoo](https://open.spotify.com/artist/2pKjlyTAEzqUAFsQNCgmkS) | [MOMENTS](https://open.spotify.com/album/1O302L03rMX6CR86W0OfuD) | 4:37 |
+| 38 | [Infinite Mirror](https://open.spotify.com/track/6Ud16saJTj7RYZolKEENE3) | [LITE](https://open.spotify.com/artist/0TF6B1cp2QZXLE0NjhTMT9) | [Phantasia](https://open.spotify.com/album/61kijqkLmurIjlNOv65WYJ) | 4:39 |
+| 39 | [枯葉 \~Autumn Leaves\~ \(jazz standard\)](https://open.spotify.com/track/6qeCyQdxowFD746sApGBYx) | [SANOVA](https://open.spotify.com/artist/15fZ3hlvf6rcqHls6hZAbt) | [BLISS](https://open.spotify.com/album/1YDUWGvyfwxHi8Xwr7muNi) | 3:05 |
 | 40 | [Blood is thicker than water](https://open.spotify.com/track/75EKP06FTKQt0lzKQrRf1z) | [Hidefumi Ino](https://open.spotify.com/artist/0StJhTOwSFMrgRwDGnnE2S) | [Living Message](https://open.spotify.com/album/1JDnILGoI2TFSWeAOqyeA2) | 3:31 |
 | 41 | [Dancing in the mood](https://open.spotify.com/track/0cZ9z3UbPMflJet2ecMzPn) | [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY) | [PIANO CRAZE](https://open.spotify.com/album/0thPD1TTASYc8eMaf7sS9B) | 5:50 |
-| 42 | [The Piano](https://open.spotify.com/track/0VIXQNx9EqGq65L6E7Xdg7) | [Jazztronik](https://open.spotify.com/artist/3TMLgJUsDIxI4CShGh8vYM) | [SET FREE](https://open.spotify.com/album/1OLNstuStcm7aDvh47GsmZ) | 3:48 |
-| 43 | [Normal Life](https://open.spotify.com/track/0GJPcZShlAFmziN0GdOhhT) | [SALVALAI](https://open.spotify.com/artist/5zCSsv346I2xgK1fVGJ7H3) | [Variety](https://open.spotify.com/album/3LJEvxN8yCR4gnSd3xkpr2) | 2:38 |
-| 44 | [Tailwind](https://open.spotify.com/track/3LRBVr8xp1ouOhbJ18n4NY) | [Ear Candy Jazz Factory](https://open.spotify.com/artist/6fJoQGB0VmdUHup8pB7ple) | [Tangerine Peel Jam](https://open.spotify.com/album/6bcPexgm2Lg4ANfbkIq5bv) | 4:35 |
-| 45 | [Acceleration](https://open.spotify.com/track/47ndoNDWCd8tykoDL5khQI) | [fox capture plan](https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo) | [color & monochrome 2](https://open.spotify.com/album/2rW7wndjnbsuzs8fniLPOW) | 4:05 |
-| 46 | [ハルカゼ](https://open.spotify.com/track/7tlp9XRwOIjpYNUa82GAyz) | [The Hey Song](https://open.spotify.com/artist/1amNM2sij1uuKOTunyYuze) | [seed](https://open.spotify.com/album/22fSotV1aM3FopU7cUnnmg) | 3:27 |
-| 47 | [Golden Forest](https://open.spotify.com/track/6gjdgW06BMrSmdSmp7pvBJ) | [bohemianvoodoo](https://open.spotify.com/artist/2pKjlyTAEzqUAFsQNCgmkS) | [color & monochrome 2](https://open.spotify.com/album/2rW7wndjnbsuzs8fniLPOW) | 5:18 |
-| 48 | [WAVE](https://open.spotify.com/track/3A2PqBP4fJnThiEJ9w8nVg) | [SPECIAL OTHERS](https://open.spotify.com/artist/4642raFccEF58fHRtJSsc5) | [WAVE](https://open.spotify.com/album/3oJNisRS39JpmBEmmL3X2B) | 7:32 |
-| 49 | [Spring Kiss](https://open.spotify.com/track/6aHeGMKCgfF2UdKRqyezyh) | [Liquid Stella](https://open.spotify.com/artist/3J1pYPkywI4IhTnLCpSXC9) | [AUTHENTIC](https://open.spotify.com/album/4f8IJ4VUGPe7S0xsLEOtIG) | 4:12 |
-| 50 | [Never Let Go \- Instrumental](https://open.spotify.com/track/6HHlEdo81pmNuapvkEPQZl) | [Kenichiro Nishihara](https://open.spotify.com/artist/4en7e0KjSkfa4sfLDhTc3m) | [Elastic Afterwords \(Instrumental\)](https://open.spotify.com/album/1iXHDPgsCFPAT6TGdQ9DIm) | 4:28 |
+| 42 | [Normal Life](https://open.spotify.com/track/0GJPcZShlAFmziN0GdOhhT) | [SALVALAI](https://open.spotify.com/artist/5zCSsv346I2xgK1fVGJ7H3) | [Variety](https://open.spotify.com/album/3LJEvxN8yCR4gnSd3xkpr2) | 2:38 |
+| 43 | [Golden Forest](https://open.spotify.com/track/6gjdgW06BMrSmdSmp7pvBJ) | [bohemianvoodoo](https://open.spotify.com/artist/2pKjlyTAEzqUAFsQNCgmkS) | [color & monochrome 2](https://open.spotify.com/album/2rW7wndjnbsuzs8fniLPOW) | 5:18 |
+| 44 | [The Piano](https://open.spotify.com/track/0VIXQNx9EqGq65L6E7Xdg7) | [Jazztronik](https://open.spotify.com/artist/3TMLgJUsDIxI4CShGh8vYM) | [SET FREE](https://open.spotify.com/album/1OLNstuStcm7aDvh47GsmZ) | 3:48 |
+| 45 | [Tailwind](https://open.spotify.com/track/3LRBVr8xp1ouOhbJ18n4NY) | [Ear Candy Jazz Factory](https://open.spotify.com/artist/6fJoQGB0VmdUHup8pB7ple) | [Tangerine Peel Jam](https://open.spotify.com/album/6bcPexgm2Lg4ANfbkIq5bv) | 4:35 |
+| 46 | [Never Let Go \- Instrumental](https://open.spotify.com/track/6HHlEdo81pmNuapvkEPQZl) | [Kenichiro Nishihara](https://open.spotify.com/artist/4en7e0KjSkfa4sfLDhTc3m) | [Elastic Afterwords \(Instrumental\)](https://open.spotify.com/album/1iXHDPgsCFPAT6TGdQ9DIm) | 4:28 |
+| 47 | [Acceleration](https://open.spotify.com/track/47ndoNDWCd8tykoDL5khQI) | [fox capture plan](https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo) | [color & monochrome 2](https://open.spotify.com/album/2rW7wndjnbsuzs8fniLPOW) | 4:05 |
+| 48 | [ハルカゼ](https://open.spotify.com/track/7tlp9XRwOIjpYNUa82GAyz) | [The Hey Song](https://open.spotify.com/artist/1amNM2sij1uuKOTunyYuze) | [seed](https://open.spotify.com/album/22fSotV1aM3FopU7cUnnmg) | 3:27 |
+| 49 | [ハルシュラ](https://open.spotify.com/track/3cSPVDggJ4QlUcQtXEFExR) | [Schroeder\-Headz](https://open.spotify.com/artist/3o6lq0SLgILHWwI4dTwsfo) | [HALSHURA（ハルシュラ）](https://open.spotify.com/album/3KivbZ6SNZ4RNVc4R3oWbm) | 4:01 |
+| 50 | [WAVE](https://open.spotify.com/track/3A2PqBP4fJnThiEJ9w8nVg) | [SPECIAL OTHERS](https://open.spotify.com/artist/4642raFccEF58fHRtJSsc5) | [WAVE](https://open.spotify.com/album/3oJNisRS39JpmBEmmL3X2B) | 7:32 |
 
 Snapshot ID: `ZvOd0gAAAABMNwrBn6zH7xehILdQQsaq`

@@ -1,12 +1,12 @@
 {
   "description": "This is Alexisonfire. The essential tracks, all in one playlist.",
-  "num_followers": 22303,
+  "num_followers": 22306,
   "original_name": "This Is Alexisonfire",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvyNAAAAAACTMDXxqowH3oZWIypx7egR",
+  "snapshot_id": "Zv3egAAAAAARnRvdGZqHKe9VpbG3KqFF",
   "tracks": [
     {
       "added_at": null,
@@ -267,8 +267,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Otherness",
-        "url": "https://open.spotify.com/album/0mgXa4Wapb1oanh0KgVyPr"
+        "name": "Death Letter",
+        "url": "https://open.spotify.com/album/1nzD5hWsQN7SRkoCjOY9AW"
       },
       "artists": [
         {
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
         }
       ],
-      "duration_ms": 331266,
-      "name": "Blue Spade",
-      "url": "https://open.spotify.com/track/4CDZqDBSTDHzmQKE46wCTq"
+      "duration_ms": 214592,
+      "name": "Burial",
+      "url": "https://open.spotify.com/track/4lFETObcVlO6l5obGe4JPu"
     },
     {
       "added_at": null,
@@ -315,6 +315,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Otherness",
+        "url": "https://open.spotify.com/album/0mgXa4Wapb1oanh0KgVyPr"
+      },
+      "artists": [
+        {
+          "name": "Alexisonfire",
+          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
+        }
+      ],
+      "duration_ms": 331266,
+      "name": "Blue Spade",
+      "url": "https://open.spotify.com/track/4CDZqDBSTDHzmQKE46wCTq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Death Letter",
         "url": "https://open.spotify.com/album/1nzD5hWsQN7SRkoCjOY9AW"
       },
@@ -324,25 +340,9 @@
           "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
         }
       ],
-      "duration_ms": 214592,
-      "name": "Burial",
-      "url": "https://open.spotify.com/track/4lFETObcVlO6l5obGe4JPu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Alexisonfire",
-        "url": "https://open.spotify.com/album/49lCvR6PcufVwZtJJVu5uC"
-      },
-      "artists": [
-        {
-          "name": "Alexisonfire",
-          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
-        }
-      ],
-      "duration_ms": 139417,
-      "name": "Counterparts and Number Them",
-      "url": "https://open.spotify.com/track/1Hez08ojkopWzM5dTroCJT"
+      "duration_ms": 228817,
+      "name": "Accept Crime",
+      "url": "https://open.spotify.com/track/5jPB5Pgus7EhKidYkoCjcl"
     },
     {
       "added_at": null,
@@ -379,38 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Death Letter",
-        "url": "https://open.spotify.com/album/1nzD5hWsQN7SRkoCjOY9AW"
-      },
-      "artists": [
-        {
-          "name": "Alexisonfire",
-          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
-        }
-      ],
-      "duration_ms": 228817,
-      "name": "Accept Crime",
-      "url": "https://open.spotify.com/track/5jPB5Pgus7EhKidYkoCjcl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Otherness",
-        "url": "https://open.spotify.com/album/0mgXa4Wapb1oanh0KgVyPr"
-      },
-      "artists": [
-        {
-          "name": "Alexisonfire",
-          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
-        }
-      ],
-      "duration_ms": 241720,
-      "name": "Committed to the Con",
-      "url": "https://open.spotify.com/track/5gZ29XT8xSsdCEflTfWUyy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Alexisonfire",
         "url": "https://open.spotify.com/album/49lCvR6PcufVwZtJJVu5uC"
       },
@@ -420,25 +388,9 @@
           "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
         }
       ],
-      "duration_ms": 314876,
-      "name": "Adelleda",
-      "url": "https://open.spotify.com/track/2USjkYb3JFNr9HDZcMUQ8H"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Familiar Drugs",
-        "url": "https://open.spotify.com/album/6Cvt8vsgpxQ5DRG0nqW25B"
-      },
-      "artists": [
-        {
-          "name": "Alexisonfire",
-          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
-        }
-      ],
-      "duration_ms": 258718,
-      "name": "Familiar Drugs",
-      "url": "https://open.spotify.com/track/5s3bk38b50O6LfZRwV8ApE"
+      "duration_ms": 139417,
+      "name": "Counterparts and Number Them",
+      "url": "https://open.spotify.com/track/1Hez08ojkopWzM5dTroCJT"
     },
     {
       "added_at": null,
@@ -468,9 +420,25 @@
           "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
         }
       ],
-      "duration_ms": 234760,
-      "name": "Reverse the Curse",
-      "url": "https://open.spotify.com/track/1scT2ygrMOMDXBVAiYaxte"
+      "duration_ms": 241720,
+      "name": "Committed to the Con",
+      "url": "https://open.spotify.com/track/5gZ29XT8xSsdCEflTfWUyy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Familiar Drugs",
+        "url": "https://open.spotify.com/album/6Cvt8vsgpxQ5DRG0nqW25B"
+      },
+      "artists": [
+        {
+          "name": "Alexisonfire",
+          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
+        }
+      ],
+      "duration_ms": 258718,
+      "name": "Familiar Drugs",
+      "url": "https://open.spotify.com/track/5s3bk38b50O6LfZRwV8ApE"
     },
     {
       "added_at": null,
@@ -484,25 +452,9 @@
           "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
         }
       ],
-      "duration_ms": 292558,
-      "name": "Little Girls Pointing and Laughing",
-      "url": "https://open.spotify.com/track/5b0ZFCqgkYc3XdA4cbjT2S"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Old Crows / Young Cardinals",
-        "url": "https://open.spotify.com/album/3vpl6HmqxL7hrwTRUv5zon"
-      },
-      "artists": [
-        {
-          "name": "Alexisonfire",
-          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
-        }
-      ],
-      "duration_ms": 195826,
-      "name": "Emerald Street",
-      "url": "https://open.spotify.com/track/5l85aKbiWzcvUTMwBqC5AJ"
+      "duration_ms": 314876,
+      "name": "Adelleda",
+      "url": "https://open.spotify.com/track/2USjkYb3JFNr9HDZcMUQ8H"
     },
     {
       "added_at": null,
@@ -532,9 +484,41 @@
           "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
         }
       ],
-      "duration_ms": 173173,
-      "name": "Conditional Love",
-      "url": "https://open.spotify.com/track/1DkbJB2RctViYLK3DnGo2Y"
+      "duration_ms": 234760,
+      "name": "Reverse the Curse",
+      "url": "https://open.spotify.com/track/1scT2ygrMOMDXBVAiYaxte"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Old Crows / Young Cardinals",
+        "url": "https://open.spotify.com/album/3vpl6HmqxL7hrwTRUv5zon"
+      },
+      "artists": [
+        {
+          "name": "Alexisonfire",
+          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
+        }
+      ],
+      "duration_ms": 195826,
+      "name": "Emerald Street",
+      "url": "https://open.spotify.com/track/5l85aKbiWzcvUTMwBqC5AJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Alexisonfire",
+        "url": "https://open.spotify.com/album/49lCvR6PcufVwZtJJVu5uC"
+      },
+      "artists": [
+        {
+          "name": "Alexisonfire",
+          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
+        }
+      ],
+      "duration_ms": 292558,
+      "name": "Little Girls Pointing and Laughing",
+      "url": "https://open.spotify.com/track/5b0ZFCqgkYc3XdA4cbjT2S"
     },
     {
       "added_at": null,
@@ -551,6 +535,22 @@
       "duration_ms": 219560,
       "name": "Charlie Sheen vs. Henry Rollins",
       "url": "https://open.spotify.com/track/4nEPLRQ0oW3bgp8fL7CbIo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Otherness",
+        "url": "https://open.spotify.com/album/0mgXa4Wapb1oanh0KgVyPr"
+      },
+      "artists": [
+        {
+          "name": "Alexisonfire",
+          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
+        }
+      ],
+      "duration_ms": 173173,
+      "name": "Conditional Love",
+      "url": "https://open.spotify.com/track/1DkbJB2RctViYLK3DnGo2Y"
     },
     {
       "added_at": null,
@@ -587,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Otherness",
-        "url": "https://open.spotify.com/album/0mgXa4Wapb1oanh0KgVyPr"
-      },
-      "artists": [
-        {
-          "name": "Alexisonfire",
-          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
-        }
-      ],
-      "duration_ms": 362960,
-      "name": "Dark Night of the Soul",
-      "url": "https://open.spotify.com/track/0S6bcfQHDPZPRcU4EV3jxk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Complicit",
         "url": "https://open.spotify.com/album/0FLQLADNmE3rJUKZk9vIqn"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 238418,
       "name": "Complicit",
       "url": "https://open.spotify.com/track/2dJaFIQVtnoHmwkwuq8tUw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Otherness",
+        "url": "https://open.spotify.com/album/0mgXa4Wapb1oanh0KgVyPr"
+      },
+      "artists": [
+        {
+          "name": "Alexisonfire",
+          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
+        }
+      ],
+      "duration_ms": 362960,
+      "name": "Dark Night of the Soul",
+      "url": "https://open.spotify.com/track/0S6bcfQHDPZPRcU4EV3jxk"
     },
     {
       "added_at": null,

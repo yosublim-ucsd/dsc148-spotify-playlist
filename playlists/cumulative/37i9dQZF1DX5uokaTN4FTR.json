@@ -6594,7 +6594,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 222784,
       "name": "leavemealone",
       "url": "https://open.spotify.com/track/1MVqeIAwhD4T44AKVkIfic"
@@ -11828,6 +11828,24 @@
       "duration_ms": 230546,
       "name": "The Dark (feat. Bklava)",
       "url": "https://open.spotify.com/track/0ZGTKMUfj3pbKbTjMCCuEQ"
+    },
+    {
+      "album": {
+        "name": "Unarchived 2015",
+        "url": "https://open.spotify.com/album/4JW7gNjShwnqHUohDXf9b7"
+      },
+      "artists": [
+        {
+          "name": "Chrystal",
+          "url": "https://open.spotify.com/artist/5bQ3wFgekuIMIcWJuxkqLK"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169234,
+      "name": "The Days",
+      "url": "https://open.spotify.com/track/3gIUMi9WV8PeN0aUbImw7V"
     },
     {
       "album": {

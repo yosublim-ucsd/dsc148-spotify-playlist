@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QNpebF7rcL.md) - [plain]
 
 > The best in blues right now\. Cover: Toronzo Cannon
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,595 likes - 100 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,607 likes - 100 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Day Of Reckoning](https://open.spotify.com/track/3jORWVR5pvIwGYngJeByeu) | [Warren Haynes](https://open.spotify.com/artist/73iWh9WUMf0xK6cRkNJK4h), [Lukas Nelson](https://open.spotify.com/artist/1oK57qVDixqM7no13U1mK9), [Jamey Johnson](https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8) | [Day Of Reckoning](https://open.spotify.com/album/72JDzIsYdbstVnIMYAAtaU) | 4:26 |
-| 2 | [Serves Me Right To Suffer](https://open.spotify.com/track/3EwoYHtePxVs4GzTOucx7J) | [J.D\. Simo](https://open.spotify.com/artist/443OoeHtWnNdDNKN4xgkeg), [Luther Dickinson](https://open.spotify.com/artist/1YLrCQC8gRomtIs7kc9Eyk) | [Do The Rump!](https://open.spotify.com/album/5InV64uPrnaEVFjxxFlhrK) | 3:49 |
-| 3 | [I'm a Drifter](https://open.spotify.com/track/1QxmgxAI66Y5Lwp1T9zxcO) | [Jovin Webb](https://open.spotify.com/artist/7tPs43oKJNTRvGr6IQ8N9k) | [I'm a Drifter](https://open.spotify.com/album/55caYHfIpi9Ozg2ccIFWsm) | 3:54 |
+| 1 | [Mine Someday](https://open.spotify.com/track/3cJVBaoZlV26GQDMxNcD9B) | [Jovin Webb](https://open.spotify.com/artist/7tPs43oKJNTRvGr6IQ8N9k) | [Mine Someday](https://open.spotify.com/album/4eUzeKYFG75GYymqpkwqBS) | 4:47 |
+| 2 | [Day Of Reckoning](https://open.spotify.com/track/3jORWVR5pvIwGYngJeByeu) | [Warren Haynes](https://open.spotify.com/artist/73iWh9WUMf0xK6cRkNJK4h), [Lukas Nelson](https://open.spotify.com/artist/1oK57qVDixqM7no13U1mK9), [Jamey Johnson](https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8) | [Day Of Reckoning](https://open.spotify.com/album/72JDzIsYdbstVnIMYAAtaU) | 4:26 |
+| 3 | [Serves Me Right To Suffer](https://open.spotify.com/track/3EwoYHtePxVs4GzTOucx7J) | [J.D\. Simo](https://open.spotify.com/artist/443OoeHtWnNdDNKN4xgkeg), [Luther Dickinson](https://open.spotify.com/artist/1YLrCQC8gRomtIs7kc9Eyk) | [Do The Rump!](https://open.spotify.com/album/5InV64uPrnaEVFjxxFlhrK) | 3:49 |
 | 4 | [Scarlet Town](https://open.spotify.com/track/1Kurxzp14RybdRiR31Ut3i) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Scarlet Town](https://open.spotify.com/album/3bDQzaW38BMWykUCiVrdFM) | 7:57 |
 | 5 | [Blame It On Eve](https://open.spotify.com/track/3duxr7ydMA3xOAYnYVPBhX) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Blame It On Eve](https://open.spotify.com/album/6PkHdkD4zLROQ5hc12wbOh) | 4:32 |
 | 6 | [Roll On Buddy](https://open.spotify.com/track/716inKAgvoukiftOCG4l6l) | [Eric Bibb](https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1) | [Roll On Buddy](https://open.spotify.com/album/5q8eoZLXqpgwXIYZG3yWVM) | 3:23 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QNpebF7rcL.md) - [plain]
 | 99 | [Drifting From Town To Town](https://open.spotify.com/track/0DjSBXNU6jGMxsnrGdxw0i) | [Charlie Musselwhite](https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc) | [Mississippi Son](https://open.spotify.com/album/2AipA2HCjjgiM7A77vnXxf) | 3:06 |
 | 100 | [In Blood](https://open.spotify.com/track/6nNCEcTFxYSaQVKLRrYCb9) | [Emanuel Casablanca](https://open.spotify.com/artist/1FtqiVssCdvoJX1oqvOX0p), [Paul Gilbert](https://open.spotify.com/artist/19sJfp2FK2evlsw46WVhPG) | [In Blood](https://open.spotify.com/album/6VfAGvpMdmt8ciFE7pRA1Z) | 4:05 |
 
-Snapshot ID: `ZuzzQAAAAAD114VczbpoeJD6LwheHJvB`
+Snapshot ID: `Zv9oQAAAAADh5VYCtLPHZoUxhgVbhy8x`

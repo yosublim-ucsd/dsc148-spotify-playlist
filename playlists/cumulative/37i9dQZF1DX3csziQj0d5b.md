@@ -4,7 +4,7 @@
 
 > Music to take the pain of homework away.
 
-714 songs - 1 day 14 hr 44 min
+715 songs - 1 day 14 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,6 +144,7 @@
 | [Dandelions](https://open.spotify.com/track/2eAvDnpXP5W0cVtiI0PUxV) | [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY) | [Safe Haven](https://open.spotify.com/album/6FgtuX3PtiB5civjHYhc52) | 3:53 | 2022-04-14 | 2023-02-04 |
 | [Dandelions \- slowed + reverb](https://open.spotify.com/track/6fhG2KJgwO7CrNflRaRmvp) | [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY), [sped up + slowed](https://open.spotify.com/artist/2FRfJyV85zb19tO6uiXBGl), [slater](https://open.spotify.com/artist/0JSCWkJNFGt7o4YbYcplQ7) | [Dandelions \(slowed + reverb\)](https://open.spotify.com/album/0W26SC6AcPdqk1Hz5hfWnj) | 4:28 | 2022-12-09 | 2023-06-17 |
 | [Dark Horse](https://open.spotify.com/track/5jrdCoLpJSvHHorevXBATy) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X), [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi) | [PRISM \(Deluxe\)](https://open.spotify.com/album/5MQBzs5YlZlE28mD9yUItn) | 3:35 | 2022-09-09 | 2022-09-17 |
+| [darling, he lied](https://open.spotify.com/track/5e9DY1HEsK4XrNASmvNUlk) | [bixby](https://open.spotify.com/artist/3vqtY7Lhhuw6sEwU4HmIRv), [starfall](https://open.spotify.com/artist/6h0Wppb5dQnlGpY2zuGstd) | [darling, he lied](https://open.spotify.com/album/3nxnsxuJGAPsJWZcXgwm3v) | 2:37 | 2024-10-04 |  |
 | [Daylight](https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Daylight](https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv) | 3:32 | 2023-11-17 |  |
 | [Daylight](https://open.spotify.com/track/6Ed1q0X8oSKSm4IIhiQbYg) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Daylight](https://open.spotify.com/album/1jcNHi5D96aaD0T5f1OjFY) | 2:43 | 2022-07-08 | 2022-11-19 |
 | [Dazed & Confused](https://open.spotify.com/track/2pyjbGTpJCPjMYwCbdymiF) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Dazed & Confused](https://open.spotify.com/album/4FFdoMdORifF6Qt3ymDMB8) | 3:09 | 2022-04-14 | 2022-05-03 |
@@ -375,7 +376,7 @@
 | [Lose Somebody](https://open.spotify.com/track/1sgDyuLooyvEML4oHspNza) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Golden Hour](https://open.spotify.com/album/7tcs1X9pzFvcLOPuhCstQJ) | 3:19 | 2023-06-30 | 2024-08-10 |
 | [Lose You To Love Me](https://open.spotify.com/track/1HfMVBKM75vxSfsQ5VefZ5) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Lose You To Love Me](https://open.spotify.com/album/3tBkjgxDqAwss76O1YHsSY) | 3:26 | 2022-04-14 | 2022-07-29 |
 | [Lose You To Love Me](https://open.spotify.com/track/4l0Mvzj72xxOpRrp6h8nHi) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Rare](https://open.spotify.com/album/3YPFaTR7WMi1Hd4NVKdCJx) | 3:26 | 2022-07-08 | 2024-04-19 |
-| [LOSER!!](https://open.spotify.com/track/5lHh9CANIUY82y1HEzoeIX) | [Mckenna Grace](https://open.spotify.com/artist/1ZjXhESKpjsv31L7ykuJBE) | [LOSER!!](https://open.spotify.com/album/0V7dIK9Bf6aVqSZuV0fqhD) | 3:48 | 2024-07-19 |  |
+| [LOSER!!](https://open.spotify.com/track/5lHh9CANIUY82y1HEzoeIX) | [Mckenna Grace](https://open.spotify.com/artist/1ZjXhESKpjsv31L7ykuJBE) | [LOSER!!](https://open.spotify.com/album/0V7dIK9Bf6aVqSZuV0fqhD) | 3:48 | 2024-07-19 | 2024-10-05 |
 | [Lost](https://open.spotify.com/track/45Q6RNX1yeHpGZpR0RjpKI) | [Blake Rose](https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe) | [Lost](https://open.spotify.com/album/12kiHybzVsvUF0H2e1uYXW) | 3:54 | 2022-07-01 | 2022-07-29 |
 | [Lost](https://open.spotify.com/track/5uMoppTUGhP4l1Unv4OaMX) | [Blake Rose](https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe) | [Lost](https://open.spotify.com/album/1sW3lhfPUhjjgD6oaYnBnV) | 3:54 | 2023-06-30 | 2023-08-19 |
 | [Lost](https://open.spotify.com/track/3GZD6HmiNUhxXYf8Gch723) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [channel ORANGE](https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8) | 3:54 | 2022-12-17 | 2024-08-10 |

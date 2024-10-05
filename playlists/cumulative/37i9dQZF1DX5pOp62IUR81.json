@@ -1427,6 +1427,24 @@
     },
     {
       "album": {
+        "name": "Hulk (1966 Theme) [2024 Stereo Remaster]",
+        "url": "https://open.spotify.com/album/4vlGzIoXAkgilvbuwJrA52"
+      },
+      "artists": [
+        {
+          "name": "Marvel Chorus",
+          "url": "https://open.spotify.com/artist/63KXngPaFXJtGolZzKpRln"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 56077,
+      "name": "Hulk (1966 Theme) - 2024 Stereo Remaster",
+      "url": "https://open.spotify.com/track/3bGBCtKoChq2ecvaNqB16u"
+    },
+    {
+      "album": {
         "name": "The Incredible Hulk",
         "url": "https://open.spotify.com/album/5x0CWYcRc6ek2M8W218T6G"
       },

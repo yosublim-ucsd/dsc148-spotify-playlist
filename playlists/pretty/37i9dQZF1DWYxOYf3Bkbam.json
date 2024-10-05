@@ -1,6 +1,6 @@
 {
   "description": "Entre cl\u00e1sicos y nuevos int\u00e9rpretes, puro Chamam\u00e9.",
-  "num_followers": 51122,
+  "num_followers": 51134,
   "original_name": "Mundo Chamam\u00e9",
   "owner": {
     "name": "Spotify",
@@ -535,26 +535,6 @@
     {
       "added_at": "2024-09-26 21:20:26",
       "album": {
-        "name": "Chamame",
-        "url": "https://open.spotify.com/album/1uXqDaLfbmyspjzHVmCEQz"
-      },
-      "artists": [
-        {
-          "name": "Los Alonsitos",
-          "url": "https://open.spotify.com/artist/1sObDTvhRtaW8yjty7sT7H"
-        },
-        {
-          "name": "Los Nocheros",
-          "url": "https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO"
-        }
-      ],
-      "duration_ms": 197283,
-      "name": "Enero",
-      "url": "https://open.spotify.com/track/4NXUTU34xLQhFacaPxKij6"
-    },
-    {
-      "added_at": "2024-09-26 21:20:26",
-      "album": {
         "name": "Alegr\u00eda y Chamam\u00e9",
         "url": "https://open.spotify.com/album/5KMt2a3QOU9w4b8ihoCJBq"
       },
@@ -571,6 +551,26 @@
       "duration_ms": 173386,
       "name": "La Due\u00f1a del Monte",
       "url": "https://open.spotify.com/track/0fDOXK3M6HYYhkdUp0Vilt"
+    },
+    {
+      "added_at": "2024-09-26 21:20:26",
+      "album": {
+        "name": "Chamame",
+        "url": "https://open.spotify.com/album/1uXqDaLfbmyspjzHVmCEQz"
+      },
+      "artists": [
+        {
+          "name": "Los Alonsitos",
+          "url": "https://open.spotify.com/artist/1sObDTvhRtaW8yjty7sT7H"
+        },
+        {
+          "name": "Los Nocheros",
+          "url": "https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO"
+        }
+      ],
+      "duration_ms": 197283,
+      "name": "Enero",
+      "url": "https://open.spotify.com/track/4NXUTU34xLQhFacaPxKij6"
     },
     {
       "added_at": "2024-09-26 21:20:26",
@@ -711,26 +711,6 @@
     {
       "added_at": "2024-09-26 21:20:26",
       "album": {
-        "name": "Amaneciendo",
-        "url": "https://open.spotify.com/album/64NPd7ZaylZXrpYAIUrIKd"
-      },
-      "artists": [
-        {
-          "name": "Miguel Figueroa y Su Conjunto Amanecer Campero",
-          "url": "https://open.spotify.com/artist/32B3zRuq8jrRRCqu82YFef"
-        },
-        {
-          "name": "Luis Angel Torres",
-          "url": "https://open.spotify.com/artist/2gu0de5RSdqvaEiEow3uAB"
-        }
-      ],
-      "duration_ms": 379080,
-      "name": "El Cascabel",
-      "url": "https://open.spotify.com/track/59jqFfNaUWKLRuuFRvePHl"
-    },
-    {
-      "added_at": "2024-09-26 21:20:26",
-      "album": {
         "name": "All\u00e1 por Capivar\u00e1 / De Oreja a Oreja / Puerta de los Cerros",
         "url": "https://open.spotify.com/album/73HBzmonTc0g6yuCmtC4Y6"
       },
@@ -747,6 +727,26 @@
       "duration_ms": 313344,
       "name": "All\u00e1 por Capivar\u00e1 / De Oreja a Oreja / Puerta de los Cerros",
       "url": "https://open.spotify.com/track/0wWeQZqhCbXEIFEji96kic"
+    },
+    {
+      "added_at": "2024-09-26 21:20:26",
+      "album": {
+        "name": "Amaneciendo",
+        "url": "https://open.spotify.com/album/64NPd7ZaylZXrpYAIUrIKd"
+      },
+      "artists": [
+        {
+          "name": "Miguel Figueroa y Su Conjunto Amanecer Campero",
+          "url": "https://open.spotify.com/artist/32B3zRuq8jrRRCqu82YFef"
+        },
+        {
+          "name": "Luis Angel Torres",
+          "url": "https://open.spotify.com/artist/2gu0de5RSdqvaEiEow3uAB"
+        }
+      ],
+      "duration_ms": 379080,
+      "name": "El Cascabel",
+      "url": "https://open.spotify.com/track/59jqFfNaUWKLRuuFRvePHl"
     },
     {
       "added_at": "2024-09-26 21:20:26",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2024-09-26 21:20:26",
       "album": {
+        "name": "Chamame los 100 mejores temas Vol 1",
+        "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
+      },
+      "artists": [
+        {
+          "name": "Monchito Merlo",
+          "url": "https://open.spotify.com/artist/35C2ZfgMovQotan3rNrYT3"
+        }
+      ],
+      "duration_ms": 195146,
+      "name": "Siento haberte perdido",
+      "url": "https://open.spotify.com/track/2CvVaPngxQLpn8UQqiXl7Y"
+    },
+    {
+      "added_at": "2024-09-26 21:20:26",
+      "album": {
         "name": "12 A\u00f1os Con el Chamam\u00e9",
         "url": "https://open.spotify.com/album/70teadXZbmyYMp8GPyNBcV"
       },
@@ -1079,22 +1095,6 @@
       "duration_ms": 183220,
       "name": "El Gallo Negro",
       "url": "https://open.spotify.com/track/4m5vvAc8yy1J52xeQTkQaU"
-    },
-    {
-      "added_at": "2024-09-26 21:20:26",
-      "album": {
-        "name": "Chamame los 100 mejores temas Vol 1",
-        "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
-      },
-      "artists": [
-        {
-          "name": "Monchito Merlo",
-          "url": "https://open.spotify.com/artist/35C2ZfgMovQotan3rNrYT3"
-        }
-      ],
-      "duration_ms": 195146,
-      "name": "Siento haberte perdido",
-      "url": "https://open.spotify.com/track/2CvVaPngxQLpn8UQqiXl7Y"
     },
     {
       "added_at": "2024-09-26 21:20:26",
@@ -1519,18 +1519,18 @@
     {
       "added_at": "2024-09-26 21:20:26",
       "album": {
-        "name": "Chamame los 100 mejores temas Vol 1",
-        "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
+        "name": "M\u00e1s Chamameceros Que Nunca",
+        "url": "https://open.spotify.com/album/3wY1MLgAnz9BZlxKTuWvvs"
       },
       "artists": [
         {
-          "name": "Abelardo Dimotta",
-          "url": "https://open.spotify.com/artist/3TYc7ZGC0521ErIVHq6Vzm"
+          "name": "Marito Ramirez y La Nueva Yunta",
+          "url": "https://open.spotify.com/artist/4nPL8VxkgLWUkFgObncTRV"
         }
       ],
-      "duration_ms": 158520,
-      "name": "La Ofelia",
-      "url": "https://open.spotify.com/track/5jkKjvTBWVg0vlsT9oYfdM"
+      "duration_ms": 151175,
+      "name": "El Tronar del Acorde\u00f3n",
+      "url": "https://open.spotify.com/track/0OlRmpbUKvqKch4gUw9Urj"
     },
     {
       "added_at": "2024-09-26 21:20:26",
@@ -1555,18 +1555,18 @@
     {
       "added_at": "2024-09-26 21:20:26",
       "album": {
-        "name": "M\u00e1s Chamameceros Que Nunca",
-        "url": "https://open.spotify.com/album/3wY1MLgAnz9BZlxKTuWvvs"
+        "name": "Chamame los 100 mejores temas Vol 1",
+        "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
       },
       "artists": [
         {
-          "name": "Marito Ramirez y La Nueva Yunta",
-          "url": "https://open.spotify.com/artist/4nPL8VxkgLWUkFgObncTRV"
+          "name": "Abelardo Dimotta",
+          "url": "https://open.spotify.com/artist/3TYc7ZGC0521ErIVHq6Vzm"
         }
       ],
-      "duration_ms": 151175,
-      "name": "El Tronar del Acorde\u00f3n",
-      "url": "https://open.spotify.com/track/0OlRmpbUKvqKch4gUw9Urj"
+      "duration_ms": 158520,
+      "name": "La Ofelia",
+      "url": "https://open.spotify.com/track/5jkKjvTBWVg0vlsT9oYfdM"
     }
   ],
   "unique_name": "Mundo Chamam\u00e9",

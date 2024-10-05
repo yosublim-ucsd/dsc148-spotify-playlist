@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "\u00a1Los grandes temas del Pop Urbano, eso es Popet\u00f3n! Foto: SOG & Piso 21",
+  "description": "\u00a1Los grandes temas del Pop Urbano, eso es Popet\u00f3n! Foto: Greeicy & Jay Wheeler",
   "name": "Popet\u00f3n",
   "tracks": [
     {
@@ -3643,6 +3643,32 @@
     },
     {
       "album": {
+        "name": "IG",
+        "url": "https://open.spotify.com/album/0iytPnOagkUKmOWkwhnNvf"
+      },
+      "artists": [
+        {
+          "name": "SOG",
+          "url": "https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD"
+        },
+        {
+          "name": "FMK",
+          "url": "https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf"
+        },
+        {
+          "name": "DFZM",
+          "url": "https://open.spotify.com/artist/6ndLrsgT3MV5CNxIrW71fw"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190515,
+      "name": "IG",
+      "url": "https://open.spotify.com/track/3vtPzVMbYE5KveyLyNS2Hj"
+    },
+    {
+      "album": {
         "name": "Incre\u00edble",
         "url": "https://open.spotify.com/album/1CmLeTXhtDMnbmcDw8cvDR"
       },
@@ -4082,7 +4108,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 141890,
       "name": "La Reina",
       "url": "https://open.spotify.com/track/5KrBFRj0Vfq0QQjlyKs5Hr"
@@ -4944,7 +4970,7 @@
       ],
       "date_added": "2024-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 185040,
       "name": "Mi Gente",
       "url": "https://open.spotify.com/track/7COfe3P7KgfwDwIRB8LIDw"
@@ -7872,6 +7898,28 @@
       "duration_ms": 242667,
       "name": "Yankee 150",
       "url": "https://open.spotify.com/track/28BSTgZH1ckI8Xfy8LXaRz"
+    },
+    {
+      "album": {
+        "name": "\u00bfQue Te Pas\u00f3?",
+        "url": "https://open.spotify.com/album/7aNA8T8Ycq3EG3tQJr1q9h"
+      },
+      "artists": [
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        },
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168266,
+      "name": "\u00bfQue Te Pas\u00f3?",
+      "url": "https://open.spotify.com/track/6TyzdTASQrRujdjPP93AJe"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWTPDzakLfYZr"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-10-15",
-  "description": "M\u00e1s m\u00fasica, menos etiquetas. \u00a0\n\ud83d\udcf7 elmalam\u00eda",
+  "description": "M\u00e1s m\u00fasica, menos etiquetas. \u00a0\n\ud83d\udcf7 Bhavi",
   "name": "piola",
   "tracks": [
     {
@@ -117,6 +117,24 @@
     },
     {
       "album": {
+        "name": "A.T.A",
+        "url": "https://open.spotify.com/album/241KgBa8yVFqlUjY4ZhHvd"
+      },
+      "artists": [
+        {
+          "name": "Delfina Dib",
+          "url": "https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129229,
+      "name": "A.T.A",
+      "url": "https://open.spotify.com/track/17ee3ShvzGiJL9MYsSKaM9"
+    },
+    {
+      "album": {
         "name": "Abrazarnos",
         "url": "https://open.spotify.com/album/1p95pqB21gB14xssLZ6AjE"
       },
@@ -182,7 +200,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 194077,
       "name": "Adolescer",
       "url": "https://open.spotify.com/track/5CDvD0HVdQibxeuQwAVWaq"
@@ -863,6 +881,28 @@
     },
     {
       "album": {
+        "name": "MARTTEIN",
+        "url": "https://open.spotify.com/album/2v7cEavZRKwA8GfTfmU5fv"
+      },
+      "artists": [
+        {
+          "name": "MARTTEIN",
+          "url": "https://open.spotify.com/artist/5EbzQCOHXCVsr4y0qNsB48"
+        },
+        {
+          "name": "Juana Rozas",
+          "url": "https://open.spotify.com/artist/73flNW7YBYMrnp83TEl5Hq"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119057,
+      "name": "CACHETAZO",
+      "url": "https://open.spotify.com/track/11N5z4VHGUUTAYQR1p51fa"
+    },
+    {
+      "album": {
         "name": "CADA VEZ QUE",
         "url": "https://open.spotify.com/album/1cHzgSSyMkVPwuK8QH0RhR"
       },
@@ -1034,7 +1074,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 147399,
       "name": "carta a mi pap\u00e1",
       "url": "https://open.spotify.com/track/7t5RhqDNaX82agwvyNhBI7"
@@ -1342,7 +1382,7 @@
       ],
       "date_added": "2024-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 202913,
       "name": "Cristal",
       "url": "https://open.spotify.com/track/6Gfkt8xCb1bihvs6KOMO2g"
@@ -2417,6 +2457,24 @@
     },
     {
       "album": {
+        "name": "Kerosene",
+        "url": "https://open.spotify.com/album/5TMl7Qr7UBoBAFqbiH39zG"
+      },
+      "artists": [
+        {
+          "name": "La Valenti",
+          "url": "https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185088,
+      "name": "Kerosene",
+      "url": "https://open.spotify.com/track/5mDbbvhvaf8ObKttnHXn0s"
+    },
+    {
+      "album": {
         "name": "DESCARTABLE",
         "url": "https://open.spotify.com/album/0t9xw4VcPabCkwVO77u31Z"
       },
@@ -2560,6 +2618,24 @@
       "duration_ms": 128802,
       "name": "Lago Eterno",
       "url": "https://open.spotify.com/track/3aaEQFzM99jkEVqUT9XsX4"
+    },
+    {
+      "album": {
+        "name": "Lara",
+        "url": "https://open.spotify.com/album/3EjNrGYV82jkbxCOYMD7D6"
+      },
+      "artists": [
+        {
+          "name": "Zoe Gotusso",
+          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198650,
+      "name": "Lara",
+      "url": "https://open.spotify.com/track/3mR6x2dlGh2w2bDpsa3m5K"
     },
     {
       "album": {
@@ -2772,6 +2848,24 @@
       "duration_ms": 167442,
       "name": "LO TENGO",
       "url": "https://open.spotify.com/track/5ynDRNBqzffgtqSSxuIovs"
+    },
+    {
+      "album": {
+        "name": "LOCO X VOS",
+        "url": "https://open.spotify.com/album/0JZGUM2f7KIHUHxwa0u1Yx"
+      },
+      "artists": [
+        {
+          "name": "Bhavi",
+          "url": "https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100964,
+      "name": "LOCO X VOS",
+      "url": "https://open.spotify.com/track/3sIPHPehrnwzGEvOJr44Jr"
     },
     {
       "album": {
@@ -3336,7 +3430,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 144147,
       "name": "MINIMI",
       "url": "https://open.spotify.com/track/4peKgHvfUAadkQWllTK6GA"
@@ -5514,7 +5608,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 168786,
       "name": "Todo Se Complica",
       "url": "https://open.spotify.com/track/7jnHpfMqY9XO4jtWqTIxEU"
@@ -5927,6 +6021,28 @@
     },
     {
       "album": {
+        "name": "VAGO",
+        "url": "https://open.spotify.com/album/4DD74mLxegbu4ZA956nWiH"
+      },
+      "artists": [
+        {
+          "name": "Edu Schmidt",
+          "url": "https://open.spotify.com/artist/7kNLKJ3eUza4CwbzgNes9W"
+        },
+        {
+          "name": "lisandro skar",
+          "url": "https://open.spotify.com/artist/1lapQeH8MRBluX1sSUEgeg"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138793,
+      "name": "VAGO",
+      "url": "https://open.spotify.com/track/6PpctjpS9q2MHqiHRXHa2o"
+    },
+    {
+      "album": {
         "name": "VALOR",
         "url": "https://open.spotify.com/album/7kOTGMgMDMkgIagREdKl9s"
       },
@@ -6188,7 +6304,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 185217,
       "name": "ya est\u00e1, ya fue :(",
       "url": "https://open.spotify.com/track/6VyAoyV8ZTH7LGCrrlfNoA"

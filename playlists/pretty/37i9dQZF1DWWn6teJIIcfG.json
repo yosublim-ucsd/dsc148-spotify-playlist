@@ -1,6 +1,6 @@
 {
   "description": "Get your creative juices flowing with these classical and instrumental masterpieces.",
-  "num_followers": 199759,
+  "num_followers": 199787,
   "original_name": "Creative Focus",
   "owner": {
     "name": "Spotify",
@@ -591,6 +591,26 @@
     {
       "added_at": "2024-05-24 06:58:29",
       "album": {
+        "name": "Gjeilo: Winter Light",
+        "url": "https://open.spotify.com/album/4cRiFYfwKFLTdMMdDCv2bR"
+      },
+      "artists": [
+        {
+          "name": "Ola Gjeilo",
+          "url": "https://open.spotify.com/artist/29lbSb4ujaVH5pHnQjFT0G"
+        },
+        {
+          "name": "Roberto Sorrentino",
+          "url": "https://open.spotify.com/artist/0qMo8J1UbKsYkjFjS2PwRH"
+        }
+      ],
+      "duration_ms": 170080,
+      "name": "Winter Light",
+      "url": "https://open.spotify.com/track/0Ko2qQT3o92wj6wVFckr6J"
+    },
+    {
+      "added_at": "2024-05-24 06:58:29",
+      "album": {
         "name": "C.P.E. Bach: Keyboard Concertos, Wq. 26, 44 & 20",
         "url": "https://open.spotify.com/album/4PWG4HAlwOceVdbjiX3r08"
       },
@@ -611,26 +631,6 @@
       "duration_ms": 198333,
       "name": "Keyboard Concerto in G Major, Wq. 44: II. Andantino",
       "url": "https://open.spotify.com/track/7xI0wxBQhYMSWDhkuvbRgM"
-    },
-    {
-      "added_at": "2024-05-24 06:58:29",
-      "album": {
-        "name": "Gjeilo: Winter Light",
-        "url": "https://open.spotify.com/album/4cRiFYfwKFLTdMMdDCv2bR"
-      },
-      "artists": [
-        {
-          "name": "Ola Gjeilo",
-          "url": "https://open.spotify.com/artist/29lbSb4ujaVH5pHnQjFT0G"
-        },
-        {
-          "name": "Roberto Sorrentino",
-          "url": "https://open.spotify.com/artist/0qMo8J1UbKsYkjFjS2PwRH"
-        }
-      ],
-      "duration_ms": 170080,
-      "name": "Winter Light",
-      "url": "https://open.spotify.com/track/0Ko2qQT3o92wj6wVFckr6J"
     },
     {
       "added_at": "2024-05-24 06:58:29",
@@ -735,18 +735,26 @@
     {
       "added_at": "2024-05-24 06:58:29",
       "album": {
-        "name": "Love Came",
-        "url": "https://open.spotify.com/album/6X1fv9fslru7IIhs254MWm"
+        "name": "Early One Morning",
+        "url": "https://open.spotify.com/album/4fYC3U6IjW0DrxgR06hWqe"
       },
       "artists": [
         {
-          "name": "Peter Gregson",
-          "url": "https://open.spotify.com/artist/71tFaKKy6x1inyCFHjpzUE"
+          "name": "Oskar Merikanto",
+          "url": "https://open.spotify.com/artist/79AE2ZiBtN7Qbcbr5dGIwd"
+        },
+        {
+          "name": "Jorma Panula",
+          "url": "https://open.spotify.com/artist/6F5qpnsKmlsYVbh8iB4TCi"
+        },
+        {
+          "name": "Camerata Finlandia",
+          "url": "https://open.spotify.com/artist/5d50sz80VdFchQOw37sZ5w"
         }
       ],
-      "duration_ms": 135800,
-      "name": "Love Came",
-      "url": "https://open.spotify.com/track/3s5QMIVTYWorP7kUWVuDOk"
+      "duration_ms": 78066,
+      "name": "Kesaillan idylli (Summer Night's Idyll) , Op. 16, No. 2 (arr. J. Panula)",
+      "url": "https://open.spotify.com/track/2Y9DRm38cPNvXQn1sJ8Tnw"
     },
     {
       "added_at": "2024-05-24 06:58:29",
@@ -779,26 +787,18 @@
     {
       "added_at": "2024-05-24 06:58:29",
       "album": {
-        "name": "Early One Morning",
-        "url": "https://open.spotify.com/album/4fYC3U6IjW0DrxgR06hWqe"
+        "name": "Love Came",
+        "url": "https://open.spotify.com/album/6X1fv9fslru7IIhs254MWm"
       },
       "artists": [
         {
-          "name": "Oskar Merikanto",
-          "url": "https://open.spotify.com/artist/79AE2ZiBtN7Qbcbr5dGIwd"
-        },
-        {
-          "name": "Jorma Panula",
-          "url": "https://open.spotify.com/artist/6F5qpnsKmlsYVbh8iB4TCi"
-        },
-        {
-          "name": "Camerata Finlandia",
-          "url": "https://open.spotify.com/artist/5d50sz80VdFchQOw37sZ5w"
+          "name": "Peter Gregson",
+          "url": "https://open.spotify.com/artist/71tFaKKy6x1inyCFHjpzUE"
         }
       ],
-      "duration_ms": 78066,
-      "name": "Kesaillan idylli (Summer Night's Idyll) , Op. 16, No. 2 (arr. J. Panula)",
-      "url": "https://open.spotify.com/track/2Y9DRm38cPNvXQn1sJ8Tnw"
+      "duration_ms": 135800,
+      "name": "Love Came",
+      "url": "https://open.spotify.com/track/3s5QMIVTYWorP7kUWVuDOk"
     },
     {
       "added_at": "2024-05-24 06:58:29",
@@ -1335,6 +1335,26 @@
     {
       "added_at": "2024-05-24 06:58:29",
       "album": {
+        "name": "Chopin : Preludes, Ballades Nos 3 & 4, Nocturnes",
+        "url": "https://open.spotify.com/album/3X90hTqv31ElSXpLz4EC8v"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Nikolai Lugansky",
+          "url": "https://open.spotify.com/artist/2bMfnyPOgNaeK8WNnXNXud"
+        }
+      ],
+      "duration_ms": 54520,
+      "name": "Chopin: 24 Preludes, Op. 28: No. 7 in A Major",
+      "url": "https://open.spotify.com/track/7xrs7lNCLYp4j6O4Vv4Kgz"
+    },
+    {
+      "added_at": "2024-05-24 06:58:29",
+      "album": {
         "name": "Mozart: Oboe Concerto in C Major, K. 314: II. Adagio non troppo",
         "url": "https://open.spotify.com/album/5GymNwQR1TLH6HoYcuLAeT"
       },
@@ -1359,26 +1379,6 @@
       "duration_ms": 425466,
       "name": "Oboe Concerto in C Major, K. 314: II. Adagio non troppo",
       "url": "https://open.spotify.com/track/39Msge9Ii3X14GUuoAjdfk"
-    },
-    {
-      "added_at": "2024-05-24 06:58:29",
-      "album": {
-        "name": "Chopin : Preludes, Ballades Nos 3 & 4, Nocturnes",
-        "url": "https://open.spotify.com/album/3X90hTqv31ElSXpLz4EC8v"
-      },
-      "artists": [
-        {
-          "name": "Fr\u00e9d\u00e9ric Chopin",
-          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
-        },
-        {
-          "name": "Nikolai Lugansky",
-          "url": "https://open.spotify.com/artist/2bMfnyPOgNaeK8WNnXNXud"
-        }
-      ],
-      "duration_ms": 54520,
-      "name": "Chopin: 24 Preludes, Op. 28: No. 7 in A Major",
-      "url": "https://open.spotify.com/track/7xrs7lNCLYp4j6O4Vv4Kgz"
     },
     {
       "added_at": "2024-05-24 06:58:29",
@@ -1519,26 +1519,22 @@
     {
       "added_at": "2024-05-24 06:58:29",
       "album": {
-        "name": "Mozart: Petite musique de nuit",
-        "url": "https://open.spotify.com/album/3aiuQXwqA9zGr40vsV2w2f"
+        "name": "Chill With Chopin",
+        "url": "https://open.spotify.com/album/3pm9sILf4Xo0ISzqUaNgdV"
       },
       "artists": [
         {
-          "name": "Wolfgang Amadeus Mozart",
-          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
         },
         {
-          "name": "La Grande \u00c9curie et la Chambre du Roy",
-          "url": "https://open.spotify.com/artist/0NXpAUHEoJkTDu5YIKHenS"
-        },
-        {
-          "name": "Jean-Claude Malgoire",
-          "url": "https://open.spotify.com/artist/0Dm0OYp3kyz8ML9Pkh4uwu"
+          "name": "Idil Biret",
+          "url": "https://open.spotify.com/artist/5SBOWUBQdfga0xprPVBxOr"
         }
       ],
-      "duration_ms": 143693,
-      "name": "Les petits riens, K. Anh. 10/299b: Gavotte",
-      "url": "https://open.spotify.com/track/1oINJUWROwSmP7Z3S9056B"
+      "duration_ms": 294120,
+      "name": "Andante spiniato in G: Allegro maestoso",
+      "url": "https://open.spotify.com/track/5ol0EvR9aNThftRoereISI"
     },
     {
       "added_at": "2024-05-24 06:58:29",
@@ -1567,22 +1563,26 @@
     {
       "added_at": "2024-05-24 06:58:29",
       "album": {
-        "name": "Chill With Chopin",
-        "url": "https://open.spotify.com/album/3pm9sILf4Xo0ISzqUaNgdV"
+        "name": "Mozart: Petite musique de nuit",
+        "url": "https://open.spotify.com/album/3aiuQXwqA9zGr40vsV2w2f"
       },
       "artists": [
         {
-          "name": "Fr\u00e9d\u00e9ric Chopin",
-          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
         },
         {
-          "name": "Idil Biret",
-          "url": "https://open.spotify.com/artist/5SBOWUBQdfga0xprPVBxOr"
+          "name": "La Grande \u00c9curie et la Chambre du Roy",
+          "url": "https://open.spotify.com/artist/0NXpAUHEoJkTDu5YIKHenS"
+        },
+        {
+          "name": "Jean-Claude Malgoire",
+          "url": "https://open.spotify.com/artist/0Dm0OYp3kyz8ML9Pkh4uwu"
         }
       ],
-      "duration_ms": 294120,
-      "name": "Andante spiniato in G: Allegro maestoso",
-      "url": "https://open.spotify.com/track/5ol0EvR9aNThftRoereISI"
+      "duration_ms": 143693,
+      "name": "Les petits riens, K. Anh. 10/299b: Gavotte",
+      "url": "https://open.spotify.com/track/1oINJUWROwSmP7Z3S9056B"
     },
     {
       "added_at": "2024-05-24 06:58:29",
@@ -1639,34 +1639,6 @@
     {
       "added_at": "2024-05-24 06:58:29",
       "album": {
-        "name": "Zolt\u00e1n Kocsis: A Tribute",
-        "url": "https://open.spotify.com/album/7BgQdVLNI9mmO5P1ijJ5wT"
-      },
-      "artists": [
-        {
-          "name": "Wolfgang Amadeus Mozart",
-          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
-        },
-        {
-          "name": "Zolt\u00e1n Kocsis",
-          "url": "https://open.spotify.com/artist/5Gi9bw3svtZMwonzcQG2wm"
-        },
-        {
-          "name": "Liszt Ferenc Chamber Orchestra",
-          "url": "https://open.spotify.com/artist/6QZkgt4JiF3RQcvxggrMxr"
-        },
-        {
-          "name": "J\u00e1nos Rolla",
-          "url": "https://open.spotify.com/artist/0idaRQS8I2GsqPSPA5z5Mn"
-        }
-      ],
-      "duration_ms": 361493,
-      "name": "Piano Concerto No. 6 in B-Flat Major, K. 238: II. Andante un poco adagio",
-      "url": "https://open.spotify.com/track/0Bg70fyCFqNJpERbu9UaxJ"
-    },
-    {
-      "added_at": "2024-05-24 06:58:29",
-      "album": {
         "name": "Schubert: Schwanengesang, D. 957: No. 4, St\u00e4ndchen (Transcr. for Cello and Piano)",
         "url": "https://open.spotify.com/album/0UyNc6IFSqY9zL64xdixBj"
       },
@@ -1691,8 +1663,8 @@
     {
       "added_at": "2024-05-24 06:58:29",
       "album": {
-        "name": "Letter(s) to Erik Satie - Gymnop\u00e9dies: No. 3, Lent et grave",
-        "url": "https://open.spotify.com/album/5j1PKQbhDMs0LpUvwxK2Hd"
+        "name": "Satie: Gymnop\u00e9dies; Gnossiennes; Pi\u00e8ces froides; Nocturnes; Sonatine bureaucratique",
+        "url": "https://open.spotify.com/album/44PnboL62pJpHZdBvBA2eS"
       },
       "artists": [
         {
@@ -1700,13 +1672,41 @@
           "url": "https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK"
         },
         {
-          "name": "Bertrand Chamayou",
-          "url": "https://open.spotify.com/artist/28Bn2PxtmXD8UbBSM968Fp"
+          "name": "Bruno Fontaine",
+          "url": "https://open.spotify.com/artist/7J4BKGKTlBHa0VfoPcGUAp"
         }
       ],
-      "duration_ms": 150493,
-      "name": "Satie: 3 Gymnop\u00e9dies: No. 3, Lent et grave",
-      "url": "https://open.spotify.com/track/4b1ZzDtdGeDpXaPw4DViZ8"
+      "duration_ms": 106320,
+      "name": "Pi\u00e8ces froides: II. Airs \u00e0 faire fuir (Modestement)",
+      "url": "https://open.spotify.com/track/3hUepKDdsvTQ3tr8LU4Lwq"
+    },
+    {
+      "added_at": "2024-05-24 06:58:29",
+      "album": {
+        "name": "Zolt\u00e1n Kocsis: A Tribute",
+        "url": "https://open.spotify.com/album/7BgQdVLNI9mmO5P1ijJ5wT"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Zolt\u00e1n Kocsis",
+          "url": "https://open.spotify.com/artist/5Gi9bw3svtZMwonzcQG2wm"
+        },
+        {
+          "name": "Liszt Ferenc Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/6QZkgt4JiF3RQcvxggrMxr"
+        },
+        {
+          "name": "J\u00e1nos Rolla",
+          "url": "https://open.spotify.com/artist/0idaRQS8I2GsqPSPA5z5Mn"
+        }
+      ],
+      "duration_ms": 361493,
+      "name": "Piano Concerto No. 6 in B-Flat Major, K. 238: II. Andante un poco adagio",
+      "url": "https://open.spotify.com/track/0Bg70fyCFqNJpERbu9UaxJ"
     },
     {
       "added_at": "2024-05-24 06:58:29",
@@ -1831,6 +1831,26 @@
     {
       "added_at": "2024-05-24 06:58:29",
       "album": {
+        "name": "Letter(s) to Erik Satie - Gymnop\u00e9dies: No. 3, Lent et grave",
+        "url": "https://open.spotify.com/album/5j1PKQbhDMs0LpUvwxK2Hd"
+      },
+      "artists": [
+        {
+          "name": "Erik Satie",
+          "url": "https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK"
+        },
+        {
+          "name": "Bertrand Chamayou",
+          "url": "https://open.spotify.com/artist/28Bn2PxtmXD8UbBSM968Fp"
+        }
+      ],
+      "duration_ms": 150493,
+      "name": "Satie: 3 Gymnop\u00e9dies: No. 3, Lent et grave",
+      "url": "https://open.spotify.com/track/4b1ZzDtdGeDpXaPw4DViZ8"
+    },
+    {
+      "added_at": "2024-05-24 06:58:29",
+      "album": {
         "name": "Cl\u00e1sicos Inolvidables Vol. 5, M\u00fasica Iberoamericana",
         "url": "https://open.spotify.com/album/27ZQVAnijk89wbWZ8BQMmy"
       },
@@ -1847,26 +1867,6 @@
       "duration_ms": 117053,
       "name": "Valsinha",
       "url": "https://open.spotify.com/track/3MUR1Ku2OcQFcel5ECeR1s"
-    },
-    {
-      "added_at": "2024-05-24 06:58:29",
-      "album": {
-        "name": "Satie: Gymnop\u00e9dies; Gnossiennes; Pi\u00e8ces froides; Nocturnes; Sonatine bureaucratique",
-        "url": "https://open.spotify.com/album/44PnboL62pJpHZdBvBA2eS"
-      },
-      "artists": [
-        {
-          "name": "Erik Satie",
-          "url": "https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK"
-        },
-        {
-          "name": "Bruno Fontaine",
-          "url": "https://open.spotify.com/artist/7J4BKGKTlBHa0VfoPcGUAp"
-        }
-      ],
-      "duration_ms": 106320,
-      "name": "Pi\u00e8ces froides: II. Airs \u00e0 faire fuir (Modestement)",
-      "url": "https://open.spotify.com/track/3hUepKDdsvTQ3tr8LU4Lwq"
     },
     {
       "added_at": "2024-05-24 06:58:29",

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO39gY1y.md) - [plain]
 
 ### [This Is Charles Ans](https://open.spotify.com/playlist/37i9dQZF1DZ06evO39gY1y)
 
-> This is Charles Ans\. The essential tracks, all in one playlist.
+> This Is Charles Ans\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 230,957 likes - 51 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 231,016 likes - 51 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO39gY1y.md) - [plain]
 | 33 | [Vegetales Con Pescado](https://open.spotify.com/track/79E00piO2jJc98iBP9mw7m) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [La Loquera](https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI), [BCN](https://open.spotify.com/artist/1M3oDOCXXZVkIlXPp5gAKd) | [Máscaras](https://open.spotify.com/album/1e4hvdD4wgcEtABivupueQ) | 3:02 |
 | 34 | [Desde Que Te Bese](https://open.spotify.com/track/3LUp0DjkJlxhVVhSWgNETZ) | [Yubeili](https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [A.C.O](https://open.spotify.com/artist/0x2z4hugJaiGdTP0lzhxvO) | [Desde Que Te Bese](https://open.spotify.com/album/6BI9UyPeQL7GYoxvXvLc5H) | 3:02 |
 | 35 | [En Lo Malo Me Va Bien](https://open.spotify.com/track/6JP2x0Rvwq7LZ8goXDGAIL) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [BCN](https://open.spotify.com/artist/1M3oDOCXXZVkIlXPp5gAKd), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Sharif](https://open.spotify.com/artist/5pIapcAHb6WV4fUjfQchMf) | [¿Cómo Terminamos Aquí?](https://open.spotify.com/album/5ODmbI1fYx0NajM6mo6Dpe) | 4:01 |
-| 36 | [Suena En Mi Barrio](https://open.spotify.com/track/74yqnVCGQpA9zGTTmBJe6C) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Suena En Mi Barrio](https://open.spotify.com/album/5CI5uDMVwq1peqgm0nAO5c) | 3:53 |
-| 37 | [El Último Tango](https://open.spotify.com/track/6pUeqmlV162GbTx76DbodN) | [SANTU](https://open.spotify.com/artist/3P3HEwD70uW4S1Gs5fhO9L), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [El Chojin](https://open.spotify.com/artist/3m1an5fzquhCtk4UnhmLmc) | [El Último Tango](https://open.spotify.com/album/7uvZ0u4gg8xAm8b9lps07W) | 4:10 |
+| 36 | [El Último Tango](https://open.spotify.com/track/6pUeqmlV162GbTx76DbodN) | [SANTU](https://open.spotify.com/artist/3P3HEwD70uW4S1Gs5fhO9L), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [El Chojin](https://open.spotify.com/artist/3m1an5fzquhCtk4UnhmLmc) | [El Último Tango](https://open.spotify.com/album/7uvZ0u4gg8xAm8b9lps07W) | 4:10 |
+| 37 | [Suena En Mi Barrio](https://open.spotify.com/track/74yqnVCGQpA9zGTTmBJe6C) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Suena En Mi Barrio](https://open.spotify.com/album/5CI5uDMVwq1peqgm0nAO5c) | 3:53 |
 | 38 | [Tardes](https://open.spotify.com/track/3Y5jrneE5ErAfidBuofcKJ) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Ataraxia: A Plena Luz del Dia](https://open.spotify.com/album/2ioeDgPaHJ7cID0n6KrkXi) | 4:08 |
 | 39 | [La Última Canción](https://open.spotify.com/track/4p01DV9sh49THUgUKDVRlP) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [BCN](https://open.spotify.com/artist/1M3oDOCXXZVkIlXPp5gAKd) | [Mis Ojos No Podían Ver](https://open.spotify.com/album/6DflZePH7U2oKHumS0DWyM) | 2:59 |
 | 40 | [Mañana Vas a Estar Ausente](https://open.spotify.com/track/23LJH1g8mvoynusQzCG7ud) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [Sharif](https://open.spotify.com/artist/5pIapcAHb6WV4fUjfQchMf), [Ms\. Ambar](https://open.spotify.com/artist/0jgJv4J29BJiJu1luw2SdA) | [Órbitas](https://open.spotify.com/album/3N3VyxZUijgbxTXdCECuK4) | 3:29 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO39gY1y.md) - [plain]
 | 50 | [Vamos a Dar el Roll](https://open.spotify.com/track/16GzftkFYQk71qlyYjFLhZ) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [Samantha Barrón](https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk) | [Sui Géneris](https://open.spotify.com/album/5IT4wCmpYj4zeRJfQOaxL4) | 4:40 |
 | 51 | [¿Dónde Estarás?](https://open.spotify.com/track/2osyhnv7vdVGs4VyeBANZ1) | [Zxmyr](https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [¿Dónde Estarás?](https://open.spotify.com/album/1HUdC5JjGda1CqfRoXzKcL) | 3:24 |
 
-Snapshot ID: `ZvyNAAAAAAB93XFcTWhA8tXRLHi9+O3M`
+Snapshot ID: `Zv3egAAAAAAT+Ltc4Nsg8++xZaKPKq/Z`

@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica independente. A tua alternativa ao mainstream. Foto: Ganso",
-  "num_followers": 33245,
+  "num_followers": 33251,
   "original_name": "Cena Indie",
   "owner": {
     "name": "Spotify",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2024-10-03 23:00:00",
       "album": {
+        "name": "Submarine",
+        "url": "https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG"
+      },
+      "artists": [
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "duration_ms": 209426,
+      "name": "Echo",
+      "url": "https://open.spotify.com/track/3SH1vOTwgg5Ma1NhHaXvrA"
+    },
+    {
+      "added_at": "2024-10-03 23:00:00",
+      "album": {
         "name": "Homesick (with Sam Fender)",
         "url": "https://open.spotify.com/album/5Oi7V39SxgitXTKezxyw4I"
       },
@@ -1083,22 +1099,6 @@
       "duration_ms": 194416,
       "name": "Homesick (with Sam Fender)",
       "url": "https://open.spotify.com/track/2l7UudWZ44l1WbHx6ANod9"
-    },
-    {
-      "added_at": "2024-10-03 23:00:00",
-      "album": {
-        "name": "Submarine",
-        "url": "https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG"
-      },
-      "artists": [
-        {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
-        }
-      ],
-      "duration_ms": 209426,
-      "name": "Echo",
-      "url": "https://open.spotify.com/track/3SH1vOTwgg5Ma1NhHaXvrA"
     },
     {
       "added_at": "2024-10-03 23:00:00",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2024-10-03 23:00:00",
       "album": {
-        "name": "Daisies",
-        "url": "https://open.spotify.com/album/0hFd6V0ZXX6R3c0NOpAMbn"
-      },
-      "artists": [
-        {
-          "name": "Good Neighbours",
-          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
-        }
-      ],
-      "duration_ms": 182685,
-      "name": "Daisies",
-      "url": "https://open.spotify.com/track/2PmoFIT5DrNn7ZHrZGdhVq"
-    },
-    {
-      "added_at": "2024-10-03 23:00:00",
-      "album": {
         "name": "Goodbye to the Valley Low (Side A)",
         "url": "https://open.spotify.com/album/4y08yRIEOIAcGkuJWwWZ91"
       },
@@ -1155,6 +1139,22 @@
     {
       "added_at": "2024-10-03 23:00:00",
       "album": {
+        "name": "Daisies",
+        "url": "https://open.spotify.com/album/0hFd6V0ZXX6R3c0NOpAMbn"
+      },
+      "artists": [
+        {
+          "name": "Good Neighbours",
+          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
+        }
+      ],
+      "duration_ms": 182685,
+      "name": "Daisies",
+      "url": "https://open.spotify.com/track/2PmoFIT5DrNn7ZHrZGdhVq"
+    },
+    {
+      "added_at": "2024-10-03 23:00:00",
+      "album": {
         "name": "Ever Seen",
         "url": "https://open.spotify.com/album/6XgxDhkbWJy6FsLkwGgk9d"
       },
@@ -1167,22 +1167,6 @@
       "duration_ms": 203760,
       "name": "Ever Seen",
       "url": "https://open.spotify.com/track/7pMEJEVSjQBuUAqWOupJk6"
-    },
-    {
-      "added_at": "2024-10-03 23:00:00",
-      "album": {
-        "name": "Run Your Mouth",
-        "url": "https://open.spotify.com/album/1CffBsDXjxsZH53y29UuiP"
-      },
-      "artists": [
-        {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Run Your Mouth",
-      "url": "https://open.spotify.com/track/7lw4J2RfcPs2hEJgPY44lC"
     },
     {
       "added_at": "2024-10-03 23:00:00",
@@ -1235,18 +1219,18 @@
     {
       "added_at": "2024-10-03 23:00:00",
       "album": {
-        "name": "Supersad",
-        "url": "https://open.spotify.com/album/1zirJ7lGSbrflcoVdTnEPA"
+        "name": "Run Your Mouth",
+        "url": "https://open.spotify.com/album/1CffBsDXjxsZH53y29UuiP"
       },
       "artists": [
         {
-          "name": "Suki Waterhouse",
-          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
         }
       ],
-      "duration_ms": 170383,
-      "name": "Supersad",
-      "url": "https://open.spotify.com/track/1RsfrWBRyXb36JUhSulKlF"
+      "duration_ms": 160000,
+      "name": "Run Your Mouth",
+      "url": "https://open.spotify.com/track/7lw4J2RfcPs2hEJgPY44lC"
     },
     {
       "added_at": "2024-10-03 23:00:00",
@@ -1279,6 +1263,22 @@
       "duration_ms": 256381,
       "name": "The Feeling You Get",
       "url": "https://open.spotify.com/track/79RIg06Di0CfLaLBy6a8Pu"
+    },
+    {
+      "added_at": "2024-10-03 23:00:00",
+      "album": {
+        "name": "Supersad",
+        "url": "https://open.spotify.com/album/1zirJ7lGSbrflcoVdTnEPA"
+      },
+      "artists": [
+        {
+          "name": "Suki Waterhouse",
+          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+        }
+      ],
+      "duration_ms": 170383,
+      "name": "Supersad",
+      "url": "https://open.spotify.com/track/1RsfrWBRyXb36JUhSulKlF"
     },
     {
       "added_at": "2024-10-03 23:00:00",
@@ -1331,18 +1331,18 @@
     {
       "added_at": "2024-10-03 23:00:00",
       "album": {
-        "name": "Time Well Wasted",
-        "url": "https://open.spotify.com/album/5QS64j2i3oaXlx3LdUwU45"
+        "name": "Cherry Blossom",
+        "url": "https://open.spotify.com/album/2pHMtiQwLjRt2oCzUfCoqD"
       },
       "artists": [
         {
-          "name": "The Fray",
-          "url": "https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK"
+          "name": "Empire Of The Sun",
+          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
         }
       ],
-      "duration_ms": 170466,
-      "name": "Time Well Wasted",
-      "url": "https://open.spotify.com/track/3aiuUpr6enuPjTyZcFhUlS"
+      "duration_ms": 207587,
+      "name": "Cherry Blossom",
+      "url": "https://open.spotify.com/track/3oDRri7iJCeKKNstpzbZqx"
     },
     {
       "added_at": "2024-10-03 23:00:00",

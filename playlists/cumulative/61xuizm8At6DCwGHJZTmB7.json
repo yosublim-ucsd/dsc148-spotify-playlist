@@ -461,6 +461,24 @@
     },
     {
       "album": {
+        "name": "All Things New",
+        "url": "https://open.spotify.com/album/2x5OoUZs9OaT6aKxQMAFNQ"
+      },
+      "artists": [
+        {
+          "name": "Community Music",
+          "url": "https://open.spotify.com/artist/3JCosyk2TCRwvbOpSLzR5R"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240210,
+      "name": "All Things New",
+      "url": "https://open.spotify.com/track/3RDsOd9SKVy3TiwQ8Y0xzI"
+    },
+    {
+      "album": {
         "name": "Long Live The King (Live At The Grove)",
         "url": "https://open.spotify.com/album/0gAnoymSmz8fqLnNqjKzFW"
       },
@@ -2872,6 +2890,28 @@
       "duration_ms": 409986,
       "name": "Forever - Live",
       "url": "https://open.spotify.com/track/1z5xgcRgxxGEKrXUCEFpA9"
+    },
+    {
+      "album": {
+        "name": "Forever Amen - Live",
+        "url": "https://open.spotify.com/album/4sfVqNHs6o8mQpcYSabQo0"
+      },
+      "artists": [
+        {
+          "name": "Covenant Worship",
+          "url": "https://open.spotify.com/artist/2F2932LEa8ahflK2xDYKWj"
+        },
+        {
+          "name": "Nikki Moltz",
+          "url": "https://open.spotify.com/artist/6FXUJ4VJ1RJuel7hgRcKiz"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 553667,
+      "name": "Forever Amen - Live",
+      "url": "https://open.spotify.com/track/5e2vvnRf24GkvJyOma83rM"
     },
     {
       "album": {
@@ -6673,6 +6713,28 @@
     },
     {
       "album": {
+        "name": "Nothing",
+        "url": "https://open.spotify.com/album/4zU1cjr6vHoXgUGhxfdfir"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Rosado",
+          "url": "https://open.spotify.com/artist/57H6K2mTvFS2TESVHCoDKY"
+        },
+        {
+          "name": "Seph Schlueter",
+          "url": "https://open.spotify.com/artist/3rdJD72bitczKtW5yNgAA4"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200893,
+      "name": "Nothing",
+      "url": "https://open.spotify.com/track/1I3pR0lbHQBGpG8eplkEHG"
+    },
+    {
+      "album": {
         "name": "Nothing/Something (Live)",
         "url": "https://open.spotify.com/album/6cODaaXVo21jcn2HMEL6yl"
       },
@@ -10412,7 +10474,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 359734,
       "name": "What Heaven Can't - Live from VOUSCon",
       "url": "https://open.spotify.com/track/2HAAbyL9SkscxiehzOirdH"
@@ -10702,6 +10764,24 @@
       "duration_ms": 220133,
       "name": "Worship Through It",
       "url": "https://open.spotify.com/track/0WE0lN2uFCg4ojyO2ryq9I"
+    },
+    {
+      "album": {
+        "name": "Worship Works (Live from VOUSCon)",
+        "url": "https://open.spotify.com/album/1A2ASwKjLODbCXCGnEFXYE"
+      },
+      "artists": [
+        {
+          "name": "VOUS Worship",
+          "url": "https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334597,
+      "name": "Worship Works - Live from VOUSCon",
+      "url": "https://open.spotify.com/track/4hZqNQLzdO6k4kiukI4mp5"
     },
     {
       "album": {

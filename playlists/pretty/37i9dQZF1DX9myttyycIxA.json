@@ -1,13 +1,77 @@
 {
-  "description": "Underground indie rock gems. Cover: Christian Lee Hutson",
-  "num_followers": 297229,
+  "description": "Underground indie rock gems. Cover: Half Waif",
+  "num_followers": 297265,
   "original_name": "undercurrents",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvYtwAAAAABiPp45zqG8Ogq8s6D+Yc5u",
+  "snapshot_id": "Zv9oQAAAAADKfItNCKrFNPvT8OItAVWo",
   "tracks": [
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Dust",
+        "url": "https://open.spotify.com/album/262dBxlmjPa3S0pjUaEalc"
+      },
+      "artists": [
+        {
+          "name": "Half Waif",
+          "url": "https://open.spotify.com/artist/28mCmWkgrWHZ4fm5c3OcIj"
+        }
+      ],
+      "duration_ms": 221986,
+      "name": "Dust",
+      "url": "https://open.spotify.com/track/2jlCjWDVMETerCxcYLUV6c"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Your Dog",
+        "url": "https://open.spotify.com/album/736y0JBkHDPbrll16m0EQ3"
+      },
+      "artists": [
+        {
+          "name": "Ellur",
+          "url": "https://open.spotify.com/artist/4uG8VYp1GLQpZVokfG2Ui7"
+        }
+      ],
+      "duration_ms": 209047,
+      "name": "Your Dog",
+      "url": "https://open.spotify.com/track/1LHRpiGObRt9Y3WDgoj9l8"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Nice enough words",
+        "url": "https://open.spotify.com/album/75uVNd34yRpMdImCLOlKRr"
+      },
+      "artists": [
+        {
+          "name": "Clothesline From Hell",
+          "url": "https://open.spotify.com/artist/06DLdmvJIJm0yd6G9XfPMS"
+        }
+      ],
+      "duration_ms": 146000,
+      "name": "Nice enough words",
+      "url": "https://open.spotify.com/track/2N8k0QJ4tGJitOywToZBKg"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "something new",
+        "url": "https://open.spotify.com/album/24jOjoJr6F2chxZiDBtqBF"
+      },
+      "artists": [
+        {
+          "name": "cumgirl8",
+          "url": "https://open.spotify.com/artist/0Y0U54wBpoCl8KvkYc9Ej6"
+        }
+      ],
+      "duration_ms": 231701,
+      "name": "something new",
+      "url": "https://open.spotify.com/track/1Qot7BYHZjUqFpdlcJZqZm"
+    },
     {
       "added_at": "2024-09-27 04:00:00",
       "album": {
@@ -23,6 +87,54 @@
       "duration_ms": 276946,
       "name": "Carousel Horses",
       "url": "https://open.spotify.com/track/45ZAsEXNqxpB7krlsLvddC"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "pinky girl",
+        "url": "https://open.spotify.com/album/4Q0lBUApWnjRmkjN3yiKwR"
+      },
+      "artists": [
+        {
+          "name": "ratbag",
+          "url": "https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ"
+        }
+      ],
+      "duration_ms": 234901,
+      "name": "pinky girl",
+      "url": "https://open.spotify.com/track/4ZvoE03wSTX4gSneaH1L2J"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Flies",
+        "url": "https://open.spotify.com/album/41vy2QrFsS5tLVz8fM3IKb"
+      },
+      "artists": [
+        {
+          "name": "Cheekface",
+          "url": "https://open.spotify.com/artist/32kCEAvtuFzIZA15zrhQDW"
+        }
+      ],
+      "duration_ms": 196835,
+      "name": "Flies",
+      "url": "https://open.spotify.com/track/4Opsw8gkQZB7ArERdDUlFJ"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Omophagia",
+        "url": "https://open.spotify.com/album/1G0RUYmzsuiqhkyHAixsGx"
+      },
+      "artists": [
+        {
+          "name": "Susannah Joffe",
+          "url": "https://open.spotify.com/artist/3JGxLjd5coSPknSlbYyNLw"
+        }
+      ],
+      "duration_ms": 189600,
+      "name": "Omophagia",
+      "url": "https://open.spotify.com/track/1Mr3Q6p42q7REF5DAuhtj6"
     },
     {
       "added_at": "2024-09-27 04:00:00",
@@ -897,22 +1009,6 @@
       "url": "https://open.spotify.com/track/59Eh3SJgXdmytbvm7SejXz"
     },
     {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "Shot",
-        "url": "https://open.spotify.com/album/6wBfp0EW0Rdnxap02i3mne"
-      },
-      "artists": [
-        {
-          "name": "Hannah Cole",
-          "url": "https://open.spotify.com/artist/3XRj6XMmub9546oUagEqHY"
-        }
-      ],
-      "duration_ms": 258092,
-      "name": "Shot",
-      "url": "https://open.spotify.com/track/0UbmlnXRMJJiIv4ek1lvJT"
-    },
-    {
       "added_at": "2024-07-26 04:00:00",
       "album": {
         "name": "The Bed / Broken Twin",
@@ -929,20 +1025,20 @@
       "url": "https://open.spotify.com/track/7lWCScemg502r4rFnEYxep"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "Hangman",
-        "url": "https://open.spotify.com/album/12W3CZnHFgtFOLdVW6ugtA"
+        "name": "Honeycrash",
+        "url": "https://open.spotify.com/album/65c74y1vN6hMca1Zs4hkVo"
       },
       "artists": [
         {
-          "name": "West 22nd",
-          "url": "https://open.spotify.com/artist/2FKnkloMDcNrUeLDfQJf8i"
+          "name": "SASAMI",
+          "url": "https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz"
         }
       ],
-      "duration_ms": 266544,
-      "name": "Hangman",
-      "url": "https://open.spotify.com/track/10GrSejQ7WMLBtQCnrynig"
+      "duration_ms": 188979,
+      "name": "Honeycrash",
+      "url": "https://open.spotify.com/track/49MS1LeGxzcG9LOvpzhAQr"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1025,26 +1121,6 @@
       "url": "https://open.spotify.com/track/093h09L86XdJXkAOQcXMrk"
     },
     {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "tell me feat. Kississippi",
-        "url": "https://open.spotify.com/album/21hf7xCTVo1Mj5qgrSI2lN"
-      },
-      "artists": [
-        {
-          "name": "Sydney Sprague",
-          "url": "https://open.spotify.com/artist/6kclOkS27VyWBtdnNq5GHs"
-        },
-        {
-          "name": "Kississippi",
-          "url": "https://open.spotify.com/artist/6t0a2t1BXxTQvAkxReClPm"
-        }
-      ],
-      "duration_ms": 157874,
-      "name": "tell me feat. Kississippi",
-      "url": "https://open.spotify.com/track/1jlrgAUhb2GTGSkqMmoKuJ"
-    },
-    {
       "added_at": "2024-06-07 04:00:00",
       "album": {
         "name": "Inside the Marble",
@@ -1061,74 +1137,6 @@
       "url": "https://open.spotify.com/track/1PziOPbOgzoCNuPrZ1Xz5i"
     },
     {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
-        "name": "You Don't Know",
-        "url": "https://open.spotify.com/album/5uJPLnhXp8zYGSwCG3rRwg"
-      },
-      "artists": [
-        {
-          "name": "Clothesline From Hell",
-          "url": "https://open.spotify.com/artist/06DLdmvJIJm0yd6G9XfPMS"
-        }
-      ],
-      "duration_ms": 281178,
-      "name": "You Don't Know",
-      "url": "https://open.spotify.com/track/5NDyOh0RpCpUuVA1IQTReh"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "Burn It Out",
-        "url": "https://open.spotify.com/album/0OSCJqShymwLfVMi5168m8"
-      },
-      "artists": [
-        {
-          "name": "Sean Henry",
-          "url": "https://open.spotify.com/artist/4Co3T6j4MDgFmGv2kHUVNk"
-        },
-        {
-          "name": "Olivia O.",
-          "url": "https://open.spotify.com/artist/3iyac4PtyadMKV4uaTgKYE"
-        }
-      ],
-      "duration_ms": 244160,
-      "name": "Burn It Out",
-      "url": "https://open.spotify.com/track/05mZml20CLpCAnmv4A8TtY"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "The Aching Taste of Blue",
-        "url": "https://open.spotify.com/album/4cs5brT0235DXHymwVj5xO"
-      },
-      "artists": [
-        {
-          "name": "clay pigeon",
-          "url": "https://open.spotify.com/artist/7BHNqeFLFZUbD5VS0VtoyL"
-        }
-      ],
-      "duration_ms": 207204,
-      "name": "Feel Okay",
-      "url": "https://open.spotify.com/track/7FQrN7KVgfqCXc6RjW3WB1"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "Bite Me",
-        "url": "https://open.spotify.com/album/1GhiWvB9ZkwfYakj9PyG0j"
-      },
-      "artists": [
-        {
-          "name": "Beaks",
-          "url": "https://open.spotify.com/artist/5kO3K7cwt3Jq24Pb0km9PC"
-        }
-      ],
-      "duration_ms": 127185,
-      "name": "Bite Me",
-      "url": "https://open.spotify.com/track/0Gs26tFXxFrZNZm2lXQfDg"
-    },
-    {
       "added_at": "2024-06-07 04:00:00",
       "album": {
         "name": "words fell out",
@@ -1143,22 +1151,6 @@
       "duration_ms": 181480,
       "name": "words fell out",
       "url": "https://open.spotify.com/track/3mcupBAKe2QJV7c4Z43IRo"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
-        "name": "Piano Hands",
-        "url": "https://open.spotify.com/album/3gJhe78jiRJjbPgRW4z1Nk"
-      },
-      "artists": [
-        {
-          "name": "Soft Launch",
-          "url": "https://open.spotify.com/artist/4hq1lrK8XlrErNZ3xs3586"
-        }
-      ],
-      "duration_ms": 218031,
-      "name": "Piano Hands",
-      "url": "https://open.spotify.com/track/5qXO90zyTU5Ch5aI9j0uzf"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1207,22 +1199,6 @@
       "duration_ms": 201133,
       "name": "So Cold",
       "url": "https://open.spotify.com/track/37pAUJak4foKdSH28OMKTq"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
-        "name": "Honeycrash",
-        "url": "https://open.spotify.com/album/65c74y1vN6hMca1Zs4hkVo"
-      },
-      "artists": [
-        {
-          "name": "SASAMI",
-          "url": "https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz"
-        }
-      ],
-      "duration_ms": 188979,
-      "name": "Honeycrash",
-      "url": "https://open.spotify.com/track/49MS1LeGxzcG9LOvpzhAQr"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -1353,22 +1329,6 @@
       "url": "https://open.spotify.com/track/2YHd2jXLdvSL6Cfnw8URHO"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
-        "name": "Change",
-        "url": "https://open.spotify.com/album/4fqQu9B3x8EwknltlbXv83"
-      },
-      "artists": [
-        {
-          "name": "Enumclaw",
-          "url": "https://open.spotify.com/artist/79yETfINxnDl54mTKLZUlb"
-        }
-      ],
-      "duration_ms": 212958,
-      "name": "Change",
-      "url": "https://open.spotify.com/track/2LP4LllG0k6nSvAtbe60Xr"
-    },
-    {
       "added_at": "2024-06-07 04:00:00",
       "album": {
         "name": "Together We Are One, You and I",
@@ -1399,54 +1359,6 @@
       "duration_ms": 283404,
       "name": "Blonde",
       "url": "https://open.spotify.com/track/2xu5nRMqxuXSdHPFUglucc"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
-        "name": "drain",
-        "url": "https://open.spotify.com/album/6i8d0bLtfgx6EuM9CwGE8f"
-      },
-      "artists": [
-        {
-          "name": "w1sh",
-          "url": "https://open.spotify.com/artist/57zmm9q6ZH4TJNa4sQgmYA"
-        }
-      ],
-      "duration_ms": 129600,
-      "name": "drain",
-      "url": "https://open.spotify.com/track/12pZ8Iyk84bJ3AYHTOzKS7"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
-        "name": "Lived Here For A While",
-        "url": "https://open.spotify.com/album/5y5fth4ycr3MuWRGSkIYZc"
-      },
-      "artists": [
-        {
-          "name": "Good Looks",
-          "url": "https://open.spotify.com/artist/0ba3O2a1JNxb3oXbF74KcG"
-        }
-      ],
-      "duration_ms": 171973,
-      "name": "Vaughn",
-      "url": "https://open.spotify.com/track/3QWLuJZ2A5TJ1BN6H0AMg7"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
-        "name": "Imposing on a Hometown",
-        "url": "https://open.spotify.com/album/1dM8gZCaz3z6lj6eWnA1GL"
-      },
-      "artists": [
-        {
-          "name": "Sofia Wolfson",
-          "url": "https://open.spotify.com/artist/5WPGc84zEZJXUIp2ELrNFN"
-        }
-      ],
-      "duration_ms": 173043,
-      "name": "Hometown Hero",
-      "url": "https://open.spotify.com/track/2yFLZqpRnGWzLQ9MbZ6nSh"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1545,22 +1457,6 @@
       "url": "https://open.spotify.com/track/4I0XnxrpkwD7CvJuUm9DgB"
     },
     {
-      "added_at": "2024-05-10 04:00:00",
-      "album": {
-        "name": "Can You See Me Tonight?",
-        "url": "https://open.spotify.com/album/77cPckM91tiVaVyusQRd2q"
-      },
-      "artists": [
-        {
-          "name": "Good Looks",
-          "url": "https://open.spotify.com/artist/0ba3O2a1JNxb3oXbF74KcG"
-        }
-      ],
-      "duration_ms": 195173,
-      "name": "Can You See Me Tonight?",
-      "url": "https://open.spotify.com/track/0zirRjZmsGJZAuSWLAXrUo"
-    },
-    {
       "added_at": "2024-05-03 04:00:00",
       "album": {
         "name": "Picture It",
@@ -1625,22 +1521,6 @@
       "url": "https://open.spotify.com/track/0MfBaD7MFIECNxDP7uPnc9"
     },
     {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "Your Desire in Food",
-        "url": "https://open.spotify.com/album/4D3NdHKmSqcO1aOrt3UgoT"
-      },
-      "artists": [
-        {
-          "name": "Superfan",
-          "url": "https://open.spotify.com/artist/3BO07jDo7Qs7qNLdwRoISM"
-        }
-      ],
-      "duration_ms": 263760,
-      "name": "Your Desire in Food",
-      "url": "https://open.spotify.com/track/22DaMb0Q6nde3ozb2qMDYl"
-    },
-    {
       "added_at": "2024-04-05 04:00:00",
       "album": {
         "name": "One Million Love Songs",
@@ -1687,22 +1567,6 @@
       "duration_ms": 408950,
       "name": "Icy Windy Sky",
       "url": "https://open.spotify.com/track/66U7274Oapr417BNqeQLoS"
-    },
-    {
-      "added_at": "2024-03-29 16:34:32",
-      "album": {
-        "name": "Mundane Pleasure",
-        "url": "https://open.spotify.com/album/3NeuhQcs23QELh77ERy0fm"
-      },
-      "artists": [
-        {
-          "name": "Jackie Hayes",
-          "url": "https://open.spotify.com/artist/6t4Ti3W4wPs5GUx982OMYt"
-        }
-      ],
-      "duration_ms": 143819,
-      "name": "Soak it In",
-      "url": "https://open.spotify.com/track/4bkj4j64FkMlf6nvobCVOJ"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -1767,22 +1631,6 @@
       "duration_ms": 386040,
       "name": "Keeper of the Shepherd",
       "url": "https://open.spotify.com/track/4gFoC9Ox16YHhxH7Q40RWU"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
-        "name": "I Exist Because You Say So",
-        "url": "https://open.spotify.com/album/44G1m9EFvbUtsl571DGzwd"
-      },
-      "artists": [
-        {
-          "name": "Hana Eid",
-          "url": "https://open.spotify.com/artist/4F6hNOg84kZIkE5LvLYOsr"
-        }
-      ],
-      "duration_ms": 212426,
-      "name": "Taller Than Me",
-      "url": "https://open.spotify.com/track/7Hz9Rlm3EvkQBro4WGzIhq"
     },
     {
       "added_at": "2024-03-01 05:00:00",

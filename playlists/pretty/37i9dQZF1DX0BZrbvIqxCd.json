@@ -1,6 +1,6 @@
 {
   "description": "A mix of punk rock to get you through your workout.",
-  "num_followers": 544242,
+  "num_followers": 544229,
   "original_name": "Punk Rock Workout",
   "owner": {
     "name": "Spotify",
@@ -107,6 +107,22 @@
     {
       "added_at": "2024-07-19 11:53:42",
       "album": {
+        "name": "Does This Look Infected?",
+        "url": "https://open.spotify.com/album/2iOJEUCKJaYseov1qA8ot8"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "duration_ms": 158733,
+      "name": "Still Waiting",
+      "url": "https://open.spotify.com/track/0jqK7sGTLsHPkQrrcrGuKD"
+    },
+    {
+      "added_at": "2024-07-19 11:53:42",
+      "album": {
         "name": "Tickets To My Downfall",
         "url": "https://open.spotify.com/album/57lgFncHBYu5E3igZnuCJK"
       },
@@ -123,22 +139,6 @@
       "duration_ms": 139460,
       "name": "my ex's best friend (with blackbear)",
       "url": "https://open.spotify.com/track/7kDUspsoYfLkWnZR7qwHZl"
-    },
-    {
-      "added_at": "2024-07-19 11:53:42",
-      "album": {
-        "name": "Does This Look Infected?",
-        "url": "https://open.spotify.com/album/2iOJEUCKJaYseov1qA8ot8"
-      },
-      "artists": [
-        {
-          "name": "Sum 41",
-          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
-        }
-      ],
-      "duration_ms": 158733,
-      "name": "Still Waiting",
-      "url": "https://open.spotify.com/track/0jqK7sGTLsHPkQrrcrGuKD"
     },
     {
       "added_at": "2024-07-19 11:53:42",
@@ -191,26 +191,6 @@
     {
       "added_at": "2024-07-19 11:53:42",
       "album": {
-        "name": "Tickets To My Downfall",
-        "url": "https://open.spotify.com/album/57lgFncHBYu5E3igZnuCJK"
-      },
-      "artists": [
-        {
-          "name": "mgk",
-          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
-        },
-        {
-          "name": "Halsey",
-          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
-        }
-      ],
-      "duration_ms": 171620,
-      "name": "forget me too (feat. Halsey)",
-      "url": "https://open.spotify.com/track/1VSuFS7PahCN3SWbOcQ98m"
-    },
-    {
-      "added_at": "2024-07-19 11:53:42",
-      "album": {
         "name": "Take Off Your Pants And Jacket",
         "url": "https://open.spotify.com/album/3nHpBmW5wJXGeC3ojBkpey"
       },
@@ -223,6 +203,22 @@
       "duration_ms": 227200,
       "name": "Anthem Part Two",
       "url": "https://open.spotify.com/track/24CRDgNOgA72JLL7PHFjgB"
+    },
+    {
+      "added_at": "2024-07-19 11:53:42",
+      "album": {
+        "name": "Appeal To Reason",
+        "url": "https://open.spotify.com/album/3smHEWBKoqDUFuJrV8BCg1"
+      },
+      "artists": [
+        {
+          "name": "Rise Against",
+          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
+        }
+      ],
+      "duration_ms": 242280,
+      "name": "Savior",
+      "url": "https://open.spotify.com/track/3asFGFY3uLjMDmML1p0tYm"
     },
     {
       "added_at": "2024-07-19 11:53:42",
@@ -243,18 +239,22 @@
     {
       "added_at": "2024-07-19 11:53:42",
       "album": {
-        "name": "Appeal To Reason",
-        "url": "https://open.spotify.com/album/3smHEWBKoqDUFuJrV8BCg1"
+        "name": "Tickets To My Downfall",
+        "url": "https://open.spotify.com/album/57lgFncHBYu5E3igZnuCJK"
       },
       "artists": [
         {
-          "name": "Rise Against",
-          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
+          "name": "mgk",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+        },
+        {
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
         }
       ],
-      "duration_ms": 242280,
-      "name": "Savior",
-      "url": "https://open.spotify.com/track/3asFGFY3uLjMDmML1p0tYm"
+      "duration_ms": 171620,
+      "name": "forget me too (feat. Halsey)",
+      "url": "https://open.spotify.com/track/1VSuFS7PahCN3SWbOcQ98m"
     },
     {
       "added_at": "2024-07-19 11:53:42",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2024-07-19 11:53:42",
       "album": {
-        "name": "Approachable",
-        "url": "https://open.spotify.com/album/5LabQRkQ7ULkIAm2mZktMl"
-      },
-      "artists": [
-        {
-          "name": "Gurriers",
-          "url": "https://open.spotify.com/artist/0bPAi2zCrxUrPBREWdetZ5"
-        }
-      ],
-      "duration_ms": 240973,
-      "name": "Approachable",
-      "url": "https://open.spotify.com/track/5GtTdg5XdVYzp0sQjQvkRm"
-    },
-    {
-      "added_at": "2024-07-19 11:53:42",
-      "album": {
         "name": "Surviving",
         "url": "https://open.spotify.com/album/1oXiDeNuXr0A4DFQEr3fhI"
       },
@@ -1367,18 +1351,18 @@
     {
       "added_at": "2024-07-19 11:53:42",
       "album": {
-        "name": "Forever And Ever x Infinity",
-        "url": "https://open.spotify.com/album/5P7G7Y2qqcPVf5Y9oknWyn"
+        "name": "Approachable",
+        "url": "https://open.spotify.com/album/5LabQRkQ7ULkIAm2mZktMl"
       },
       "artists": [
         {
-          "name": "New Found Glory",
-          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
+          "name": "Gurriers",
+          "url": "https://open.spotify.com/artist/0bPAi2zCrxUrPBREWdetZ5"
         }
       ],
-      "duration_ms": 204470,
-      "name": "Stay Awhile",
-      "url": "https://open.spotify.com/track/4vkEb0zbUqi7n2n9ivvdhJ"
+      "duration_ms": 240973,
+      "name": "Approachable",
+      "url": "https://open.spotify.com/track/5GtTdg5XdVYzp0sQjQvkRm"
     },
     {
       "added_at": "2024-07-19 11:53:42",
@@ -1399,6 +1383,22 @@
       "duration_ms": 173000,
       "name": "Bad Habits",
       "url": "https://open.spotify.com/track/43t2TYUzhb3FpM7Bn2UyJL"
+    },
+    {
+      "added_at": "2024-07-19 11:53:42",
+      "album": {
+        "name": "Forever And Ever x Infinity",
+        "url": "https://open.spotify.com/album/5P7G7Y2qqcPVf5Y9oknWyn"
+      },
+      "artists": [
+        {
+          "name": "New Found Glory",
+          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
+        }
+      ],
+      "duration_ms": 204470,
+      "name": "Stay Awhile",
+      "url": "https://open.spotify.com/track/4vkEb0zbUqi7n2n9ivvdhJ"
     },
     {
       "added_at": "2024-07-19 11:53:42",

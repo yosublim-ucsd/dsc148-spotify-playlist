@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "make it pop! cover: Moody Joody",
+  "description": "make it pop! cover: Lindsay Ell",
   "name": "soda",
   "tracks": [
     {
@@ -3772,7 +3772,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 188106,
       "name": "Control",
       "url": "https://open.spotify.com/track/0pdoZhLBiQccQ4Lbd8yGzO"
@@ -5018,6 +5018,24 @@
       "duration_ms": 162172,
       "name": "Don't You Worry",
       "url": "https://open.spotify.com/track/47xOrQT2xcdIA9fPKg07uQ"
+    },
+    {
+      "album": {
+        "name": "Double Casket",
+        "url": "https://open.spotify.com/album/2KREFkBR5HsPSEoAt2ECLx"
+      },
+      "artists": [
+        {
+          "name": "44phantom",
+          "url": "https://open.spotify.com/artist/1vwwjIPFeYoRfAUCqqO6cZ"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161000,
+      "name": "Double Casket",
+      "url": "https://open.spotify.com/track/7rR24CWfEpO61fjSicHQfv"
     },
     {
       "album": {
@@ -6778,6 +6796,24 @@
       "duration_ms": 149243,
       "name": "Go Go Gadget Feat. Marc E. Bassy",
       "url": "https://open.spotify.com/track/5MJn7PREQVxQV0zzDEAUw3"
+    },
+    {
+      "album": {
+        "name": "House With The Blue Door",
+        "url": "https://open.spotify.com/album/7D5rk5d5YQQft2dv1Yoa93"
+      },
+      "artists": [
+        {
+          "name": "Nick Ward",
+          "url": "https://open.spotify.com/artist/1JjlFdZ1LKxyQ8moqDOmS9"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185946,
+      "name": "Go!",
+      "url": "https://open.spotify.com/track/32dPWlM6CblltDzJy9EmCu"
     },
     {
       "album": {
@@ -13695,6 +13731,24 @@
     },
     {
       "album": {
+        "name": "One On One",
+        "url": "https://open.spotify.com/album/5P4LHmJvYMQmBRuRIesoDr"
+      },
+      "artists": [
+        {
+          "name": "AJ Mitchell",
+          "url": "https://open.spotify.com/artist/6dn6x1XOng3LOAnfTjUn77"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "One On One",
+      "url": "https://open.spotify.com/track/0dX6TCuCSb5vtqtmNekXec"
+    },
+    {
+      "album": {
         "name": "One That Got Away",
         "url": "https://open.spotify.com/album/2FAHnRUhqr0Scl92hrAond"
       },
@@ -16871,6 +16925,24 @@
     },
     {
       "album": {
+        "name": "story i tell myself",
+        "url": "https://open.spotify.com/album/6SN574dbaX96k0sDGgdlDq"
+      },
+      "artists": [
+        {
+          "name": "Lindsay Ell",
+          "url": "https://open.spotify.com/artist/4lpA7MWpQpY7hKkwfLxw2Q"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211933,
+      "name": "story i tell myself",
+      "url": "https://open.spotify.com/track/5wAOwTaOQ8dHZgR13d5S7S"
+    },
+    {
+      "album": {
         "name": "Story of a Boy",
         "url": "https://open.spotify.com/album/1emFHl6oXIJRrXS3yS4hj4"
       },
@@ -20015,6 +20087,24 @@
     },
     {
       "album": {
+        "name": "What This Could Be / Work It Out",
+        "url": "https://open.spotify.com/album/534YIkJVj0Hlpuw0jMpf1h"
+      },
+      "artists": [
+        {
+          "name": "Joe Jonas",
+          "url": "https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198146,
+      "name": "What This Could Be",
+      "url": "https://open.spotify.com/track/3NaOEouWqMCBwR0vQcVFt7"
+    },
+    {
+      "album": {
         "name": "What We Wanted",
         "url": "https://open.spotify.com/album/4olIbtgqWVhl3yQN7xp5Qb"
       },
@@ -20896,6 +20986,24 @@
       "duration_ms": 134797,
       "name": "You Need Jesus",
       "url": "https://open.spotify.com/track/2JJjWLvlJhfYSfj4umyaTc"
+    },
+    {
+      "album": {
+        "name": "Two New Malcolm Todd Songs",
+        "url": "https://open.spotify.com/album/2JNBq8nFR1FedwJbYnOF0E"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Todd",
+          "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220645,
+      "name": "You Owe Me",
+      "url": "https://open.spotify.com/track/0fVL6EBaQ2X12qQLiFgyg2"
     },
     {
       "album": {

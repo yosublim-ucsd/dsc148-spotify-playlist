@@ -1042,7 +1042,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 165054,
       "name": "Alegr\u00eda",
       "url": "https://open.spotify.com/track/0c82YIGpQ5dCaXpTNCk4sb"
@@ -9290,7 +9290,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 198495,
       "name": "Hoy",
       "url": "https://open.spotify.com/track/0SoBfYjQHvL6cuWHtPUYnq"
@@ -10218,6 +10218,32 @@
       "duration_ms": 251146,
       "name": "La Cumbia De Los Trapos",
       "url": "https://open.spotify.com/track/79yOF3p0RbIAnrxxF8wiPS"
+    },
+    {
+      "album": {
+        "name": "LA CURA",
+        "url": "https://open.spotify.com/album/6x0zE3lfDaK3MmWspowPdJ"
+      },
+      "artists": [
+        {
+          "name": "KEVIN ROLDAN",
+          "url": "https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO"
+        },
+        {
+          "name": "Almighty",
+          "url": "https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH"
+        },
+        {
+          "name": "Dayme Beats",
+          "url": "https://open.spotify.com/artist/0cARZSRkYfYAk37T5yFTHW"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316363,
+      "name": "LA CURA",
+      "url": "https://open.spotify.com/track/0i4uSrPDjfMZJf0gaa0i6D"
     },
     {
       "album": {
@@ -11480,7 +11506,7 @@
       ],
       "date_added": "2022-01-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-02",
+      "date_removed": null,
       "duration_ms": 228554,
       "name": "Llorar\u00e1s",
       "url": "https://open.spotify.com/track/2naqSVQHgiaoEpxtkVOhmK"
@@ -14069,6 +14095,28 @@
     },
     {
       "album": {
+        "name": "NECESIDAD",
+        "url": "https://open.spotify.com/album/22HXVovSrZivPlqtXBQZcU"
+      },
+      "artists": [
+        {
+          "name": "Easy",
+          "url": "https://open.spotify.com/artist/1tMeUu7rZWFLVhYxujL4HD"
+        },
+        {
+          "name": "KEVIN ROLDAN",
+          "url": "https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155384,
+      "name": "NECESIDAD",
+      "url": "https://open.spotify.com/track/7ExDiKtnpUtoikn2yfQd54"
+    },
+    {
+      "album": {
         "name": "Un Verano Sin Ti",
         "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
       },
@@ -16494,7 +16542,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 174000,
       "name": "POLOS OPUESTOS",
       "url": "https://open.spotify.com/track/7CXPJRBkgyEhvJ6MmZpdY5"

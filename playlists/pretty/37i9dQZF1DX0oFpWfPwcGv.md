@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0oFpWfPwcGv.md) - [plain]
 
 > Disco forever\. Deeper cuts, forgotten gems and 8 minute versions.
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,968 likes - 75 songs - 7 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,988 likes - 75 songs - 7 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,10 +63,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0oFpWfPwcGv.md) - [plain]
 | 53 | [Was That All It Was \- 12" Version](https://open.spotify.com/track/1WHY9kgaOaJdv0hjiiw4pk) | [Jean Carn](https://open.spotify.com/artist/5swBKHtsRDaCBmdpYRYOg1) | [The Essential Jean Carn \- The PIR Years](https://open.spotify.com/album/0yVvx6X4drgYTeWfAK8xdN) | 6:29 |
 | 54 | [This Time Baby \- Special 12" Version](https://open.spotify.com/track/1Ywkbr13F7cOzwHs8QKknI) | [Jackie Moore](https://open.spotify.com/artist/1EialtL6J5R7O0exgdgQ1w) | [Club Columbia](https://open.spotify.com/album/6g7JRPx6SdrEDLQS2fQcsI) | 7:13 |
 | 55 | [Put Your Body In It](https://open.spotify.com/track/7aRMjcQaRv4pvIQGu1DYVh) | [Stephanie Mills](https://open.spotify.com/artist/0PcIlEZa7rreM7729ot05g) | [Gold](https://open.spotify.com/album/4YAxIAMUnzqt0Oq5FRe2W5) | 4:04 |
-| 56 | [Soul Makossa](https://open.spotify.com/track/0ofK8UNWOtCFbbizCe8hta) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Crooklyn Volume II](https://open.spotify.com/album/0D6AKEKQLa5VR5akhUjV0l) | 4:26 |
-| 57 | [Lady America](https://open.spotify.com/track/5kEbQwj3CHP9Bqn5gejdmd) | [Voyage](https://open.spotify.com/artist/0LmhgMzqvIdR5ZPF1imPL6) | [Twelve Inch Classics from the 70s, Vol\. 2](https://open.spotify.com/album/0G6pHS6CdJEUAPzE4RmkMa) | 6:47 |
-| 58 | [Begin the Beguine](https://open.spotify.com/track/2hLAqf6uB6QusEUHfDf5oi) | [Johnny Mathis](https://open.spotify.com/artist/21LGsW7bziR4Ledx7WZ1Wf) | [The Essential Johnny Mathis](https://open.spotify.com/album/4KM9hhWCgasx9j7y3NogNv) | 4:18 |
-| 59 | [A Night in New York \- Remastered](https://open.spotify.com/track/3Rnj5AkLsMjZ7LCkptJHx2) | [Elbow Bones And The Racketeers](https://open.spotify.com/artist/3ybGU1QPtfQ5QJHmaPjqmj) | [Kid Creole \- Ze August Darnell Sessions \(Remastered 2018\)](https://open.spotify.com/album/06HUHbkpeBZfsVhLpZxUfJ) | 4:21 |
+| 56 | [Lady America](https://open.spotify.com/track/5kEbQwj3CHP9Bqn5gejdmd) | [Voyage](https://open.spotify.com/artist/0LmhgMzqvIdR5ZPF1imPL6) | [Twelve Inch Classics from the 70s, Vol\. 2](https://open.spotify.com/album/0G6pHS6CdJEUAPzE4RmkMa) | 6:47 |
+| 57 | [Soul Makossa](https://open.spotify.com/track/0ofK8UNWOtCFbbizCe8hta) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Crooklyn Volume II](https://open.spotify.com/album/0D6AKEKQLa5VR5akhUjV0l) | 4:26 |
+| 58 | [A Night in New York \- Remastered](https://open.spotify.com/track/3Rnj5AkLsMjZ7LCkptJHx2) | [Elbow Bones And The Racketeers](https://open.spotify.com/artist/3ybGU1QPtfQ5QJHmaPjqmj) | [Kid Creole \- Ze August Darnell Sessions \(Remastered 2018\)](https://open.spotify.com/album/06HUHbkpeBZfsVhLpZxUfJ) | 4:21 |
+| 59 | [Begin the Beguine](https://open.spotify.com/track/2hLAqf6uB6QusEUHfDf5oi) | [Johnny Mathis](https://open.spotify.com/artist/21LGsW7bziR4Ledx7WZ1Wf) | [The Essential Johnny Mathis](https://open.spotify.com/album/4KM9hhWCgasx9j7y3NogNv) | 4:18 |
 | 60 | [The Love I Lost \- A Tom Moulton Mix](https://open.spotify.com/track/6kTRD53rZvscOShCDotKVy) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Tom Moulton](https://open.spotify.com/artist/6xDW6TfPeBAiq1gmqMJnM6) | [Philadelphia International Records: The Tom Moulton Remixes](https://open.spotify.com/album/25R1Y9bt82lbSwZemUBJ1A) | 12:30 |
 | 61 | [What's Your Name, What's Your Number](https://open.spotify.com/track/0DFb31DLTYkgkNDJSqlPDH) | [Andrea True Connection](https://open.spotify.com/artist/3GHovBcEWpbnwCZDPF9GpM) | [More, More, More](https://open.spotify.com/album/4xQKeiJzX2EmCXt5XdGiTN) | 3:17 |
 | 62 | [Changin'](https://open.spotify.com/track/0fkmYAlaWRl8PekuNfSsYE) | [Ms\. \(Sharon\) Ridley](https://open.spotify.com/artist/1bN0ObJIFfCWF5Pa0vXROz) | [Full Moon](https://open.spotify.com/album/1PbVQRjZQxRK6ml00vOKrp) | 6:28 |

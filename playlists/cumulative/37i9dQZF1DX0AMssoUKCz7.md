@@ -4,7 +4,7 @@
 
 > Take down the tempo but keep the dance party going with the biggest tropical house jams.
 
-725 songs - 1 day 12 hr 38 min
+726 songs - 1 day 12 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,6 +147,7 @@
 | [Don't Let Go](https://open.spotify.com/track/1L0ZuhK7CHY33fUTQuWG1U) | [Viva La Panda](https://open.spotify.com/artist/5SZUMeZ1O9tcgkSkkx1dFy) | [Don't Let Go](https://open.spotify.com/album/0h7JtA4AfelkiP9hyEn1SE) | 2:37 | 2022-01-14 | 2022-11-12 |
 | [Don't Say A Word](https://open.spotify.com/track/1fappIhSOUyng8mHEfYzkP) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij) | [Sunrise To Sunset](https://open.spotify.com/album/3DXfe2cEsCdAjORfXw0NDK) | 2:48 | 2022-01-21 | 2022-04-02 |
 | [Don't Tell Me I Can't Have It](https://open.spotify.com/track/7DdrHlmyfDmAibdAbEdYIu) | [Sons Of Maria](https://open.spotify.com/artist/2SfhiNVhk8w8xCQ89P3NPU) | [Don't Tell Me I Can't Have It](https://open.spotify.com/album/4YyslwvTvE2qpL1zXdNrUx) | 3:07 | 2022-06-03 |  |
+| [Don't Waste My Time](https://open.spotify.com/track/2Mpbc0ciNa7nFIctbJJDRX) | [Lost In Reveries](https://open.spotify.com/artist/1Elez1o6G0sxPQaG9t4fOT), [One Trick Pony](https://open.spotify.com/artist/4xxlgFFZpjIrQr9FiFttBG), [NEA EINI](https://open.spotify.com/artist/5d9OWj9gEcEXkTsILdZg0S) | [Don't Waste My Time](https://open.spotify.com/album/6JD71V9kfkWeA7K9h5Ajy7) | 2:18 | 2024-10-04 |  |
 | [Down from this High](https://open.spotify.com/track/36DsWaTvP6quCM4Ibxv2u6) | [kánji](https://open.spotify.com/artist/1IDGlUuHLvSiyzn3CZwh5U), [NØTALUVA](https://open.spotify.com/artist/55NFqO9vW37u5QmUUzRpId) | [Down from this High](https://open.spotify.com/album/4E0VQF4tkbv44VgE57gsXo) | 1:55 | 2022-05-13 | 2022-07-29 |
 | [Dream](https://open.spotify.com/track/4sICBh45pA6i7yCohseEvm) | [Benedict Ammann](https://open.spotify.com/artist/60kjG4d8jemoykwV2UU3fw) | [Dream](https://open.spotify.com/album/5qrXvGyywOO0ylsieMArFf) | 3:00 | 2024-07-19 |  |
 | [DREAM](https://open.spotify.com/track/3DIhIFClJnFyEdxj2ONqlw) | [Surf Mesa](https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ), [Zeeba](https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK) | [DREAM](https://open.spotify.com/album/0KbWlqnCqZYyjiMR1t1pBn) | 2:40 | 2024-07-19 |  |
@@ -589,7 +590,7 @@
 | [Stitches \- Seeb Remix](https://open.spotify.com/track/4mEPquRcjE0gTFoylj2b5v) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr), [Seeb](https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq) | [Stitches \(Seeb Remix\)](https://open.spotify.com/album/5IyE2Ev9TrJr2eFfI7OMeV) | 2:47 | 2022-02-18 | 2022-04-09 |
 | [Stop Us Now](https://open.spotify.com/track/407OgfKRnLOrbepgBqwlRO) | [NSH](https://open.spotify.com/artist/13FBdMZnPKuU6QYIgagrcS), [DT James](https://open.spotify.com/artist/4a5dX5Y0Q6ib3nR6zzpHwX) | [Stop Us Now](https://open.spotify.com/album/6QiaLv2HcP28eMM5lkmfyg) | 2:13 | 2023-03-10 | 2024-04-19 |
 | [Strong](https://open.spotify.com/track/4UFRpETVnwicalnBKyt5GB) | [Sigma](https://open.spotify.com/artist/01pKrlgPJhm5dB4lneYAqS), [Kovic](https://open.spotify.com/artist/3ETYLarLqOcdvtea9Cs2Sl) | [Hope](https://open.spotify.com/album/4JL6XFpgvWsFbmf7hqGatj) | 3:30 | 2022-06-17 |  |
-| [Stuck In The Rain](https://open.spotify.com/track/2j0YDL3RiEs5QLaJnWl3TT) | [Bjarne Hendrik](https://open.spotify.com/artist/5FIR37Eznpe8S0fondwPd2) | [Stuck In The Rain](https://open.spotify.com/album/7ab7Ci7GlsYDHYwFlPzdEA) | 2:49 | 2024-07-19 |  |
+| [Stuck In The Rain](https://open.spotify.com/track/2j0YDL3RiEs5QLaJnWl3TT) | [Bjarne Hendrik](https://open.spotify.com/artist/5FIR37Eznpe8S0fondwPd2) | [Stuck In The Rain](https://open.spotify.com/album/7ab7Ci7GlsYDHYwFlPzdEA) | 2:49 | 2024-07-19 | 2024-10-05 |
 | [Stuck On You](https://open.spotify.com/track/6HdURgU5JoS6IbMrTCC3QM) | [On June](https://open.spotify.com/artist/4B5rYujqJxWucM0JyYsaFn) | [Stuck On You](https://open.spotify.com/album/4NfeEcNunybQTtvxVT8TwT) | 3:32 | 2022-01-14 | 2022-04-21 |
 | [Stumblin' In](https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z) | [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom) | [Stumblin' In](https://open.spotify.com/album/2HxzXLKO0AvkScWYHSspQc) | 3:33 | 2023-12-01 |  |
 | [Sugar Kiss](https://open.spotify.com/track/3rqJjwv9sx6gHYVDVFgPO6) | [Life's A Beach](https://open.spotify.com/artist/2bc5dL3SdvIq8snye5uJZo), [Tobÿ](https://open.spotify.com/artist/3EjoOshzwB9yIH8sLnbQnQ), [Whilst](https://open.spotify.com/artist/1TuQVlt2pf14yyNcXunZYt) | [Sugar Kiss](https://open.spotify.com/album/6WtwZNvA5RAOSwRujnX4bn) | 2:14 | 2023-01-20 |  |

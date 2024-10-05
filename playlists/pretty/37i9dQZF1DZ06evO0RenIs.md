@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0RenIs.md) - [plain]
 
 > This Is Phoenix\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,334 likes - 48 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,349 likes - 48 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,11 +50,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0RenIs.md) - [plain]
 | 40 | [Tuttifrutti](https://open.spotify.com/track/387304JRC4rHBwlVcbny0m) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Ti Amo](https://open.spotify.com/album/4CWDyUN5jukEwwc2Fo4xzy) | 3:52 |
 | 41 | [\(You Can't Blame It On\) Anybody](https://open.spotify.com/track/1kVa8X5Ifr6XVmn8XvC1iu) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Alphabetical](https://open.spotify.com/album/0q1YbH7gLkklLFxNBLRKHD) | 3:33 |
 | 42 | [Lost and Found](https://open.spotify.com/track/48vZNUF25E0Q35skL9QoZP) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [It's Never Been Like That \(Deluxe Version\)](https://open.spotify.com/album/2STZqJIh4Kf0OIU5yVgYGV) | 2:56 |
-| 43 | [Bourgeois](https://open.spotify.com/track/77p0SZ7bEyMlsKMS6cv43z) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Bankrupt!](https://open.spotify.com/album/1MJotRlrO8AFegESeJRuBV) | 4:53 |
-| 44 | [Summer Days](https://open.spotify.com/track/1g50RH5iSvlFwhHsRRNP9D) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [United](https://open.spotify.com/album/5MBUL8d9FAYCCMrogOFX68) | 3:15 |
+| 43 | [Summer Days](https://open.spotify.com/track/1g50RH5iSvlFwhHsRRNP9D) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [United](https://open.spotify.com/album/5MBUL8d9FAYCCMrogOFX68) | 3:15 |
+| 44 | [Bourgeois](https://open.spotify.com/track/77p0SZ7bEyMlsKMS6cv43z) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Bankrupt!](https://open.spotify.com/album/1MJotRlrO8AFegESeJRuBV) | 4:53 |
 | 45 | [Love for Granted](https://open.spotify.com/track/3Yrk1Ytp3Vg1IRshQud90x) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Alphabetical](https://open.spotify.com/album/0q1YbH7gLkklLFxNBLRKHD) | 4:24 |
 | 46 | [Heatwave](https://open.spotify.com/track/2W1ehC1GNSvUlWCKE5FSI5) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Heatwave](https://open.spotify.com/album/2fts6dbm4Wbd37s3YQSzXH) | 4:19 |
 | 47 | [All Eyes on Me \(feat\. BENEE, Chad Hugo & Pusha T\)](https://open.spotify.com/track/4r48NKo5H3NHpe5nmxDFvv) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU), [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [Chad Hugo](https://open.spotify.com/artist/6HObKCGcJkXr84jyo0ZzPp) | [All Eyes On Me \(feat\. BENEE, Chad Hugo & Pusha T\)](https://open.spotify.com/album/1WQFkEZ6ebRQ7ty6Ygbujl) | 2:26 |
 | 48 | [Victim of the Crime](https://open.spotify.com/track/2ThMLsmAtcKOmXaEgKdJ93) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Alphabetical](https://open.spotify.com/album/0q1YbH7gLkklLFxNBLRKHD) | 4:05 |
 
-Snapshot ID: `ZvyNAAAAAABXrf3hoFvt9dv0FY4E8cuU`
+Snapshot ID: `Zv3egAAAAAACQGq3snxlYCht93PQXddG`

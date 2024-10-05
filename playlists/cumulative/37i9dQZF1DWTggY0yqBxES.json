@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "New, leftfield, and for the real hip-hop stans! Cover: Childish Gambino",
+  "description": "New, leftfield, and for the real hip-hop stans! Cover: Powers Pleasant",
   "name": "Alternative Hip-Hop",
   "tracks": [
     {
@@ -864,7 +864,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 108314,
       "name": "Adult Swim",
       "url": "https://open.spotify.com/track/0aVG3mmGxMBKpOXG86kfyK"
@@ -1719,6 +1719,32 @@
     },
     {
       "album": {
+        "name": "Baby Boy Is Drunk (feat, AG Club & AUDREY NUNA)",
+        "url": "https://open.spotify.com/album/6nLSvRBhJMSfRAntC9p9Y7"
+      },
+      "artists": [
+        {
+          "name": "Powers Pleasant",
+          "url": "https://open.spotify.com/artist/0fYw4bch7qTxBZLS3rSVMj"
+        },
+        {
+          "name": "AG Club",
+          "url": "https://open.spotify.com/artist/22KyrgRdE2K6aB5wtZls3c"
+        },
+        {
+          "name": "AUDREY NUNA",
+          "url": "https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160748,
+      "name": "Baby Boy Is Drunk (feat, AG Club & AUDREY NUNA)",
+      "url": "https://open.spotify.com/track/258wpVH5k51Aa2ZZh07Fz2"
+    },
+    {
+      "album": {
         "name": "LVL5 P1",
         "url": "https://open.spotify.com/album/6B2NZ3cqHywlvVfl3EYya5"
       },
@@ -1810,6 +1836,36 @@
       "duration_ms": 197455,
       "name": "Bando Kid",
       "url": "https://open.spotify.com/track/6YgDbK0EEsKKi0uXWjLaAl"
+    },
+    {
+      "album": {
+        "name": "Bandoe (feat. Denzel Curry, Meechy Darko & Soulja Livin Tru)",
+        "url": "https://open.spotify.com/album/6nmg6suJMCrtKz7LUoM19S"
+      },
+      "artists": [
+        {
+          "name": "Powers Pleasant",
+          "url": "https://open.spotify.com/artist/0fYw4bch7qTxBZLS3rSVMj"
+        },
+        {
+          "name": "Denzel Curry",
+          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
+        },
+        {
+          "name": "Meechy Darko",
+          "url": "https://open.spotify.com/artist/5QRlmTynCos8JyojtmgNq6"
+        },
+        {
+          "name": "Soulja Livin' Tru",
+          "url": "https://open.spotify.com/artist/4SCWTw0lM5CdGpjRENQl5e"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209546,
+      "name": "Bandoe (feat. Denzel Curry, Meechy Darko & Soulja Livin Tru)",
+      "url": "https://open.spotify.com/track/1kA4eIQi6DChlfWmM0xcSu"
     },
     {
       "album": {
@@ -2060,7 +2116,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 116363,
       "name": "bEat uP dAt bOy",
       "url": "https://open.spotify.com/track/6rrymHGWEBazPYzIcyGm8H"
@@ -4661,6 +4717,24 @@
     },
     {
       "album": {
+        "name": "D.U.M.B.",
+        "url": "https://open.spotify.com/album/7Fui9neMmG21wgc6fuUluc"
+      },
+      "artists": [
+        {
+          "name": "Jaden",
+          "url": "https://open.spotify.com/artist/0xOeVMOz2fVg5BJY3N6akT"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155666,
+      "name": "D.U.M.B.",
+      "url": "https://open.spotify.com/track/140hrhmwWxC5ZVmrSReMme"
+    },
+    {
+      "album": {
         "name": "Da Da Da",
         "url": "https://open.spotify.com/album/56S0SvG7SrwylsI4e4AvVp"
       },
@@ -5318,7 +5392,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 141754,
       "name": "Different Color Stones",
       "url": "https://open.spotify.com/track/5KsQoGiUey27gt0topwkz4"
@@ -6320,6 +6394,24 @@
       "duration_ms": 104705,
       "name": "EYESPY",
       "url": "https://open.spotify.com/track/3kCO8X3pUk8Z4RWbTY5j8M"
+    },
+    {
+      "album": {
+        "name": "F Nostalgia",
+        "url": "https://open.spotify.com/album/64ctUWhflxRE8FxcwNLQCW"
+      },
+      "artists": [
+        {
+          "name": "Wale the Sage",
+          "url": "https://open.spotify.com/artist/4alndwWPbM9ApMYLjg19oD"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143560,
+      "name": "F Nostalgia",
+      "url": "https://open.spotify.com/track/4xCgocd4UT5clheL1dyf6L"
     },
     {
       "album": {
@@ -8641,6 +8733,24 @@
     },
     {
       "album": {
+        "name": "hi, immrlaylow",
+        "url": "https://open.spotify.com/album/5n6ckzJD9tL2YNXV1OO8v3"
+      },
+      "artists": [
+        {
+          "name": "Terry Presume",
+          "url": "https://open.spotify.com/artist/4JLuMu6NZUAU8gYhrzvOdX"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204944,
+      "name": "hi, immrlaylow",
+      "url": "https://open.spotify.com/track/1xuTZ9iZ4QvKt4ROPQ3MpM"
+    },
+    {
+      "album": {
         "name": "High Beams (JPEGMAFIA Remix)",
         "url": "https://open.spotify.com/album/26IbYjt4LS9d5QqMBemBti"
       },
@@ -9742,7 +9852,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 145123,
       "name": "I'm Da 1ne",
       "url": "https://open.spotify.com/track/1h4uS1MUnQUPFkBB6kiKQ0"
@@ -10450,7 +10560,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 291800,
       "name": "JPEGULTRA! (feat. Denzel Curry)",
       "url": "https://open.spotify.com/track/0NMC6aezcf1GItgscoiQCO"
@@ -10982,7 +11092,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 228614,
       "name": "KNOW YOUR WORTH/GRANDMA SAID",
       "url": "https://open.spotify.com/track/0Ujla5TS7uhbTFoOEudF2x"
@@ -11862,6 +11972,24 @@
       "duration_ms": 198053,
       "name": "Looking For You",
       "url": "https://open.spotify.com/track/7C8RxsVy6MsOef3B5lk7TI"
+    },
+    {
+      "album": {
+        "name": "Lose",
+        "url": "https://open.spotify.com/album/0yNCsgaLengTt4ljy7lUK9"
+      },
+      "artists": [
+        {
+          "name": "J.P.",
+          "url": "https://open.spotify.com/artist/6ygDlIilHZqielxxkvmIVH"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128056,
+      "name": "Lose",
+      "url": "https://open.spotify.com/track/0wLinSLeOC9FjfmKpgqk3B"
     },
     {
       "album": {
@@ -13654,7 +13782,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 171153,
       "name": "No Duckin",
       "url": "https://open.spotify.com/track/21nNqJuJ1CdYP1r39fe4y2"
@@ -14646,7 +14774,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 133877,
       "name": "PAT MORITA",
       "url": "https://open.spotify.com/track/7nkrXTbUnNvJiebMyo0711"
@@ -15482,7 +15610,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 175485,
       "name": "Preroll (feat. theMIND)",
       "url": "https://open.spotify.com/track/1l5sU4VTjRkkT9ytWHrjYj"
@@ -18415,6 +18543,24 @@
     },
     {
       "album": {
+        "name": "sTrUt nAtIoN",
+        "url": "https://open.spotify.com/album/5upTw7FHudDbuCqi0T8Ar9"
+      },
+      "artists": [
+        {
+          "name": "TisaKorean",
+          "url": "https://open.spotify.com/artist/6lEhBhAv6HOopjXssi09cq"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123428,
+      "name": "sTrUt nAtIoN",
+      "url": "https://open.spotify.com/track/50ucvP3G2DPitoGdOmX48L"
+    },
+    {
+      "album": {
         "name": "Suicide",
         "url": "https://open.spotify.com/album/4rx5wKkcvknXEV7IZzNhUs"
       },
@@ -21169,6 +21315,44 @@
     },
     {
       "album": {
+        "name": "Who At The Door?",
+        "url": "https://open.spotify.com/album/1XtlVJO44S5ktraWQsErP0"
+      },
+      "artists": [
+        {
+          "name": "Pivot Gang",
+          "url": "https://open.spotify.com/artist/0kDgxQlVYVecF6MCNWJTYE"
+        },
+        {
+          "name": "Joseph Chilliams",
+          "url": "https://open.spotify.com/artist/6lirZ0ouvh4l3fz3HSnIwi"
+        },
+        {
+          "name": "Saba",
+          "url": "https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x"
+        },
+        {
+          "name": "Frsh Waters",
+          "url": "https://open.spotify.com/artist/14hFXWA8giW96HpYkTxywX"
+        },
+        {
+          "name": "daedaePIVOT",
+          "url": "https://open.spotify.com/artist/1H78Q8wCK3PAvs1G3ocexx"
+        },
+        {
+          "name": "MFnMelo",
+          "url": "https://open.spotify.com/artist/7auVoAwdrloWdyKULVOauu"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "Who At The Door?",
+      "url": "https://open.spotify.com/track/2ROmMcGqLYzPRWaUptuOv1"
+    },
+    {
+      "album": {
         "name": "who?",
         "url": "https://open.spotify.com/album/4pGFupinAniBUGQbNEeFuW"
       },
@@ -21994,6 +22178,24 @@
       "duration_ms": 194906,
       "name": "You Can't Tell Me Shit",
       "url": "https://open.spotify.com/track/4kkRoL90Kph3J2Nd9nAxrG"
+    },
+    {
+      "album": {
+        "name": "YOU CRY LOVE.",
+        "url": "https://open.spotify.com/album/2QKuLOLIQ8rD4aPXNr6rxR"
+      },
+      "artists": [
+        {
+          "name": "jev.",
+          "url": "https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158841,
+      "name": "YOU CRY LOVE.",
+      "url": "https://open.spotify.com/track/7iDkEUp4KuUIWR9HPOyvXZ"
     },
     {
       "album": {

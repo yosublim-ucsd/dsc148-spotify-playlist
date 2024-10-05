@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTaVx3bGepdB.md) - [plain]
 
 ### [2NE1 CONCERT \[WELCOME BACK\]](https://open.spotify.com/playlist/37i9dQZF1DWTaVx3bGepdB)
 
-> 
+> Prepare for the upcoming Seoul concert by listening to 2NE1's best songs! \(2NE1의 베스트 곡들을 들으며 다가오는 서울 콘서트를 준비해보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 972 likes - 23 songs - 1 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,248 likes - 23 songs - 1 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,4 +32,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTaVx3bGepdB.md) - [plain]
 | 22 | [Let's Go Party](https://open.spotify.com/track/0tfSZHuscf970voflvUcXT) | [2NE1](https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp) | [2NE1 1st Mini Album](https://open.spotify.com/album/5WyEkWi7ZPMrVSbU1Cabba) | 3:48 |
 | 23 | [Stay Together](https://open.spotify.com/track/3dbDqyQQz5MUhcrQEJOHFP) | [2NE1](https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp) | [2NE1 1st Mini Album](https://open.spotify.com/album/5WyEkWi7ZPMrVSbU1Cabba) | 3:44 |
 
-Snapshot ID: `ZvpokAAAAAB4wffhLR8gxAKZKgAJCMW1`
+Snapshot ID: `Zv/V1gAAAACeoTT9b3zL2G9IeaQ3wu85`

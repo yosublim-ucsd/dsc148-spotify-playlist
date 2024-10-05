@@ -3500,7 +3500,7 @@
       ],
       "date_added": "2024-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 131543,
       "name": "Kadar Na Jaane",
       "url": "https://open.spotify.com/track/0DE5XwVjRp2MT2zQI8brRF"
@@ -3722,7 +3722,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 250500,
       "name": "Khata",
       "url": "https://open.spotify.com/track/1yLEjCfSSO1UXAxgXg48d5"
@@ -6453,6 +6453,32 @@
     },
     {
       "album": {
+        "name": "Raanjhan (From \"Do Patti\")",
+        "url": "https://open.spotify.com/album/1poClftP5T3zRcqpsxPPfW"
+      },
+      "artists": [
+        {
+          "name": "Sachet-Parampara",
+          "url": "https://open.spotify.com/artist/1SyKki7JI1AZNKwgNMkn25"
+        },
+        {
+          "name": "Parampara Tandon",
+          "url": "https://open.spotify.com/artist/1E6arsXf5Fgsnv9YpSzjpE"
+        },
+        {
+          "name": "Kausar Munir",
+          "url": "https://open.spotify.com/artist/3GBSge8pq7mpezUQl0GAOA"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240066,
+      "name": "Raanjhan (From \"Do Patti\")",
+      "url": "https://open.spotify.com/track/4vHRQnzGcKEtqsLH70tAms"
+    },
+    {
+      "album": {
         "name": "Raataan Lambiyan (From \"Shershaah\")",
         "url": "https://open.spotify.com/album/2DKSZvMj7Da6rzNVPMgREj"
       },
@@ -8204,7 +8230,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 184888,
       "name": "Tu Kahe Toh",
       "url": "https://open.spotify.com/track/6FD1esyjW0w7ApFuzg73Y0"
@@ -8859,6 +8885,24 @@
     },
     {
       "album": {
+        "name": "Zara Muskurade",
+        "url": "https://open.spotify.com/album/6FRGIXNRP6KeSMhLxMsXbp"
+      },
+      "artists": [
+        {
+          "name": "Monali Thakur",
+          "url": "https://open.spotify.com/artist/2o4R2rK7FetH40HTv0SUWl"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110124,
+      "name": "Zara Muskurade",
+      "url": "https://open.spotify.com/track/2RFPoDKiEp3AprMkX2MsLk"
+    },
+    {
+      "album": {
         "name": "Vedaa - Original Motion Picture Soundtrack",
         "url": "https://open.spotify.com/album/2dchYcy81PlHNcuZnF6ZOl"
       },
@@ -8882,6 +8926,24 @@
       "duration_ms": 334500,
       "name": "Zaroorat Se Zyada - Female Version - From \"Vedaa\"",
       "url": "https://open.spotify.com/track/1UrVeNKlZD1Ib6v8rhEtEk"
+    },
+    {
+      "album": {
+        "name": "Zeher",
+        "url": "https://open.spotify.com/album/5jzFaJm5jPTkSYwXpO6NQq"
+      },
+      "artists": [
+        {
+          "name": "Hanita Bhambri",
+          "url": "https://open.spotify.com/artist/3Y5nIabMJLTsWgW6Jqdn7n"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213000,
+      "name": "Zeher",
+      "url": "https://open.spotify.com/track/2YaAHGOC5bPKjCFTkNsmji"
     },
     {
       "album": {

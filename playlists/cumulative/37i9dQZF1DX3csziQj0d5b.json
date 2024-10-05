@@ -2573,6 +2573,28 @@
     },
     {
       "album": {
+        "name": "darling, he lied",
+        "url": "https://open.spotify.com/album/3nxnsxuJGAPsJWZcXgwm3v"
+      },
+      "artists": [
+        {
+          "name": "bixby",
+          "url": "https://open.spotify.com/artist/3vqtY7Lhhuw6sEwU4HmIRv"
+        },
+        {
+          "name": "starfall",
+          "url": "https://open.spotify.com/artist/6h0Wppb5dQnlGpY2zuGstd"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157894,
+      "name": "darling, he lied",
+      "url": "https://open.spotify.com/track/5e9DY1HEsK4XrNASmvNUlk"
+    },
+    {
+      "album": {
         "name": "Daylight",
         "url": "https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv"
       },
@@ -6982,7 +7004,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 228133,
       "name": "LOSER!!",
       "url": "https://open.spotify.com/track/5lHh9CANIUY82y1HEzoeIX"

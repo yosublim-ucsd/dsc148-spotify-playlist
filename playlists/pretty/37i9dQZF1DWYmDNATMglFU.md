@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmDNATMglFU.md) - [plain]
 
 > it's a generation ⛓ ft\. Vienna Vienna
 
-[Spotify](https://open.spotify.com/user/spotify) - 521,855 likes - 81 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 521,810 likes - 81 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

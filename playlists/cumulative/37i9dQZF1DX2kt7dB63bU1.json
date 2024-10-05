@@ -479,6 +479,28 @@
     },
     {
       "album": {
+        "name": "Airport Codes (Big Band Version)",
+        "url": "https://open.spotify.com/album/2YCkxR6qWOk9SL0MMfGRo2"
+      },
+      "artists": [
+        {
+          "name": "Aubrey Logan",
+          "url": "https://open.spotify.com/artist/5GIBLQgzkZKjBDRhVQ4j1z"
+        },
+        {
+          "name": "Mike Sailors",
+          "url": "https://open.spotify.com/artist/6QJDYnfojJWToSMXjUf0Qg"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 419520,
+      "name": "Airport Codes - Big Band Version",
+      "url": "https://open.spotify.com/track/6cOLsEjg2zuLZP8XiOdYJD"
+    },
+    {
+      "album": {
         "name": "Alfie",
         "url": "https://open.spotify.com/album/6QJsii8JfWE1bUHQnEd2jj"
       },
@@ -8648,7 +8670,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 253226,
       "name": "Love Is Here To Stay",
       "url": "https://open.spotify.com/track/1hHbHdcMzXprkNkRuAqjQs"
@@ -9496,7 +9518,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 457813,
       "name": "My Foolish Heart",
       "url": "https://open.spotify.com/track/0MjqmuJitgjV1E740JPEKl"
@@ -10660,7 +10682,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 140686,
       "name": "Petite musique terrienne",
       "url": "https://open.spotify.com/track/6OZn149r8yFdTTI0TvtKhY"
@@ -11196,6 +11218,24 @@
       "duration_ms": 398453,
       "name": "Rivers of Babylon",
       "url": "https://open.spotify.com/track/1JYecLAEPKYDx3PLIuvFwk"
+    },
+    {
+      "album": {
+        "name": "Rocky Mountain Lullaby",
+        "url": "https://open.spotify.com/album/1OkpHulEyE8HsJqNZIiWni"
+      },
+      "artists": [
+        {
+          "name": "Laila Biali",
+          "url": "https://open.spotify.com/artist/6ioJTe2wSpFulE39iP818I"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293117,
+      "name": "Rocky Mountain Lullaby",
+      "url": "https://open.spotify.com/track/5a3bfVFvJniPh5Ewkt5kPE"
     },
     {
       "album": {
@@ -14301,6 +14341,24 @@
     },
     {
       "album": {
+        "name": "Tip",
+        "url": "https://open.spotify.com/album/1hzVmeKjODeApmrHRn7C6F"
+      },
+      "artists": [
+        {
+          "name": "Jazzmeia Horn",
+          "url": "https://open.spotify.com/artist/3sRX2AuJCF5rblkGm2wMSM"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254040,
+      "name": "Tip",
+      "url": "https://open.spotify.com/track/37iPxQArUYztawoasUa4iv"
+    },
+    {
+      "album": {
         "name": "Together Alone",
         "url": "https://open.spotify.com/album/0ThfLn7C5R8BmAm5CPoBV1"
       },
@@ -14464,6 +14522,32 @@
       "duration_ms": 232765,
       "name": "Trouble in Mind",
       "url": "https://open.spotify.com/track/2LssZNjWQ2HFJivrgsGHX5"
+    },
+    {
+      "album": {
+        "name": "Truth",
+        "url": "https://open.spotify.com/album/4WdqBsUiK1mj3vhwQyi0Ql"
+      },
+      "artists": [
+        {
+          "name": "Lauren Henderson",
+          "url": "https://open.spotify.com/artist/32l2cWGDfGIqFPxUAogD5l"
+        },
+        {
+          "name": "Sullivan Fortner",
+          "url": "https://open.spotify.com/artist/2kQZjl1wnD42U6rKhAHmz5"
+        },
+        {
+          "name": "Eric Wheeler",
+          "url": "https://open.spotify.com/artist/1TvIn0DgifSGnkJL6VTEF5"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132005,
+      "name": "Truth",
+      "url": "https://open.spotify.com/track/09Rn2e12eIjtc4pZy83gxg"
     },
     {
       "album": {
@@ -14920,7 +15004,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 233377,
       "name": "Voicemail Blues",
       "url": "https://open.spotify.com/track/2hq7WCG25nmQmr3Z4K6CnE"

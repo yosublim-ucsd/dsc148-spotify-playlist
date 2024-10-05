@@ -2,7 +2,7 @@
 
 ### [This Is Deorro](https://open.spotify.com/playlist/37i9dQZF1DZ06evO462cZX)
 
-> This Is Deorro\. Los temas esenciales, todos en una lista.
+> This Is Deorro أهم المقاطع كلها في قائمة أغاني وحدة.
 
 55 songs - 2 hr 59 min
 

@@ -2,7 +2,7 @@
 
 ### [This Is Kali Uchis](https://open.spotify.com/playlist/37i9dQZF1DZ06evO14xkre)
 
-> This Is Kali Uchis\. Los temas esenciales, todos en una lista.
+> This is Kali Uchis\. The essential tracks, all in one playlist.
 
 75 songs - 3 hr 55 min
 
@@ -32,7 +32,7 @@
 | [FIND YOUR WINGS \(feat\. Roy Ayers, Sydney Bennett & Kali Uchis\)](https://open.spotify.com/track/7er0EUMY653mxZ1NVD9mwQ) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj), [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Cherry Bomb](https://open.spotify.com/album/621OhgnZJ7Pz8iUazct1In) | 2:59 | 2023-11-10 |  |
 | [Flight 22](https://open.spotify.com/track/3iv26BUAWSn83q8rhGKPE8) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Isolation](https://open.spotify.com/album/4EPQtdq6vvwxuYeQTrwDVY) | 3:36 | 2024-05-10 | 2024-07-24 |
 | [FUCKING YOUNG / PERFECT \(feat\. Charlie Wilson, Chaz Bundick, Sydney Bennett & Kali Uchis\)](https://open.spotify.com/track/46CA1H0T1r7u5lDUtVveAh) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Charlie Wilson](https://open.spotify.com/artist/6CxZzQFUTM6AzgluGwtq5w), [Chaz Bundick](https://open.spotify.com/artist/57ZTzIn5GLxNLzWgnTTcHj), [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Cherry Bomb](https://open.spotify.com/album/621OhgnZJ7Pz8iUazct1In) | 6:41 | 2023-11-10 |  |
-| [fue mejor \(feat\. SZA\)](https://open.spotify.com/track/4AIiCP2scA6jt6jAKfkvTX) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Sin Miedo \(del Amor y Otros Demonios\) ∞ \- Deluxe Version](https://open.spotify.com/album/64SrjXrYNfYvQcccFmYEHu) | 3:50 | 2023-11-10 |  |
+| [fue mejor \(feat\. SZA\)](https://open.spotify.com/track/4AIiCP2scA6jt6jAKfkvTX) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Sin Miedo \(del Amor y Otros Demonios\) ∞ \[Deluxe Version\]](https://open.spotify.com/album/64SrjXrYNfYvQcccFmYEHu) | 3:50 | 2023-11-10 |  |
 | [Get You \(feat\. Kali Uchis\)](https://open.spotify.com/track/7zFXmv6vqI4qOt4yGf3jYZ) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Freudian](https://open.spotify.com/album/3xybjP7r2VsWzwvDQipdM0) | 4:38 | 2023-11-10 |  |
 | [Gotta Get Up \- Interlude](https://open.spotify.com/track/7N3c9CKUmRqrt3dDvGWBWG) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Isolation](https://open.spotify.com/album/4EPQtdq6vvwxuYeQTrwDVY) | 1:53 | 2023-11-10 |  |
 | [Hasta Cuando](https://open.spotify.com/track/4ipzXe2jmoeN7zm2VMb4eX) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Red Moon In Venus](https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br) | 2:09 | 2023-11-10 |  |

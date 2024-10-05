@@ -4,7 +4,7 @@
 
 > La psicodelia tropical latinoamericana y sus alucinantes ritmos.
 
-184 songs - 11 hr 30 min
+185 songs - 11 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,6 +111,7 @@
 | [Los Chucos Suaves \(featuring Macha\)](https://open.spotify.com/track/71JT61x0b1jpIdjMG2B7u7) | [Son Rompe Pera](https://open.spotify.com/artist/0UKHKimjIGeFoS29LxWf4V), [Macha](https://open.spotify.com/artist/4nlcyHlvzjmpjOJ09k2nb9) | [Batuco](https://open.spotify.com/album/3M8Eepfnzl2kaKyBVqjguX) | 3:12 | 2021-10-20 | 2024-04-19 |
 | [Los Olvidados](https://open.spotify.com/track/7HHGXcIR0iUkBmgHrClR47) | [The Quantic Soul Orchestra](https://open.spotify.com/artist/12ZOHgIYkZiwd9w9F7I83e), [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8) | [Tropidélico](https://open.spotify.com/album/173jCDoA1pArfdouxi1kZ8) | 3:26 | 2021-10-20 |  |
 | [Los Olvidados \(Cumbia\)](https://open.spotify.com/track/1ENaWkSrM7Ls1TQw7Xu7IW) | [The Quantic Soul Orchestra](https://open.spotify.com/artist/12ZOHgIYkZiwd9w9F7I83e) | [Tropidélico](https://open.spotify.com/album/2VBt7XqrvUKqKGDtxEoghS) | 3:26 | 2021-10-20 | 2024-04-19 |
+| [Lotus](https://open.spotify.com/track/4wx8KI6mcAT2yjab2hgeul) | [Gia Fu](https://open.spotify.com/artist/3dwN2G3cx8i7rEFDvYhRLi) | [Lotus](https://open.spotify.com/album/0Z9uE1lFTTQVwPPuaKYbdJ) | 4:57 | 2024-10-04 |  |
 | [Luna Villera](https://open.spotify.com/track/4ojdqJnTaFlR3FgBtY6DJN) | [Cosmic Wacho](https://open.spotify.com/artist/6qVCBovVysB8MOf7a1mUKa), [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch) | [Luna Villera](https://open.spotify.com/album/5Vm7UF6GDOFqCNfOMDtxwi) | 3:57 | 2023-05-25 |  |
 | [Mambo Del Fierro Viejo](https://open.spotify.com/track/6pv5ldwnEZDJxyn9bQqEKy) | [Sonido Gallo Negro](https://open.spotify.com/artist/3lSqMCuyfqugFoibdOCeZo) | [Paganismo \(Deluxe\)](https://open.spotify.com/album/3r07WtUQn429L9DknXqYE2) | 3:09 | 2023-10-10 |  |
 | [Mamita Santa](https://open.spotify.com/track/6NwPLDzVZuoBvCDmipbjCR) | [Porter](https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5) | [Mamita Santa](https://open.spotify.com/album/619zP71cN2JNAFGGyCgkzg) | 3:13 | 2022-01-14 |  |
@@ -166,7 +167,7 @@
 | [Sondiramá](https://open.spotify.com/track/5NadgnszrdqPQ8ZmXfGc0Q) | [Frente Cumbiero](https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6) | [Padremontes](https://open.spotify.com/album/2xBuTSISaCxzFIi70B83Fn) | 3:23 | 2021-10-20 | 2024-04-19 |
 | [Sonido Amazonico](https://open.spotify.com/track/30XzPuJXYZrPF2jx89SQG1) | [Chicha Libre](https://open.spotify.com/artist/1eiodDx0lIftKNviQGG95x) | [Sonido Amazonico](https://open.spotify.com/album/0p5Iiuaj58qCxzMYqgP7B1) | 4:17 | 2021-10-20 | 2024-04-19 |
 | [Sonido Amazonico](https://open.spotify.com/track/2Zcv2Vk65xi37T7AT2qcDJ) | [Los Mirlos](https://open.spotify.com/artist/1ga48mxYYI9RuUrWLa3voh) | [Cumbia Amazonica](https://open.spotify.com/album/3Almc0ajaT7YXLxpn18QBL) | 2:40 | 2021-10-20 | 2024-04-19 |
-| [Sonido Yoryi](https://open.spotify.com/track/6NOq1ssPUVhIOjhAPzaRxt) | [Los Yoryis](https://open.spotify.com/artist/2PG2Bb0BU0Aojy7Vkdl9ya) | [Sonido Yoryi](https://open.spotify.com/album/0tbKSUNuPamYlrj6xs2WIe) | 4:40 | 2021-10-20 |  |
+| [Sonido Yoryi](https://open.spotify.com/track/6NOq1ssPUVhIOjhAPzaRxt) | [Los Yoryis](https://open.spotify.com/artist/2PG2Bb0BU0Aojy7Vkdl9ya) | [Sonido Yoryi](https://open.spotify.com/album/0tbKSUNuPamYlrj6xs2WIe) | 4:40 | 2021-10-20 | 2024-10-05 |
 | [Strange Salsa](https://open.spotify.com/track/0m2wxPnFcPOjKnoj5AmQJR) | [Malphino](https://open.spotify.com/artist/1hWJbIVGfYRmwRgmM6HFij) | [Sueño EP](https://open.spotify.com/album/3Ss0rghY7VI1gFuzqEKhKR) | 3:19 | 2023-03-28 | 2024-04-19 |
 | [Sábadito](https://open.spotify.com/track/2OiIYDDSKP90B7LBbs9Fdr) | [CHIFLIDO](https://open.spotify.com/artist/1j2ynZu5H24PDCnVsovPL1) | [Sábadito de Locura](https://open.spotify.com/album/5BVZ6ILgDpcIRtrNKMHG3G) | 1:58 | 2024-01-26 | 2024-05-06 |
 | [Tambor Del Monte](https://open.spotify.com/track/4nSVv5flBb0ucHTGgxiFi5) | [Terror/Cactus](https://open.spotify.com/artist/6zDCcrKdLCpKPtgFcD26rq) | [Corriente EP](https://open.spotify.com/album/17BOLG1QS5Fc9SuBPZDgql) | 3:51 | 2021-10-20 |  |

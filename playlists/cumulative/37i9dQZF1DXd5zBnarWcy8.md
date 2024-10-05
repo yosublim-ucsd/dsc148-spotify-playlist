@@ -4,7 +4,7 @@
 
 > New Orleans kind of funk\. Cover: Cha Wa
 
-68 songs - 4 hr 36 min
+69 songs - 4 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Back Street Lover \- Remastered](https://open.spotify.com/track/30HZp745HgvVFIIW1PDi89) | [Ernie K\-Doe](https://open.spotify.com/artist/3ybBNyjii40yY104IZkcly) | [Emperor Of New Orleans \(Remastered\)](https://open.spotify.com/album/5KcmoI0xNnzHv2EWxMlzAe) | 2:28 | 2020-04-29 | 2023-10-24 |
 | [Back Street Lover \- Remastered](https://open.spotify.com/track/6z4GZz4cXtW2bddSoFSHfQ) | [Ernie K\-Doe](https://open.spotify.com/artist/3ybBNyjii40yY104IZkcly) | [Emperor Of New Orleans \(Remastered\)](https://open.spotify.com/album/6Kzdp5ojEJ28KCebR4Kb6z) | 2:28 | 2020-04-29 | 2023-04-30 |
 | [Backstreet Lover](https://open.spotify.com/track/5BDrEmLb5inDyHn7ZSGSsF) | [Ernie K\-Doe](https://open.spotify.com/artist/3ybBNyjii40yY104IZkcly) | [Soul Jazz Records Presents New Orleans Soul: The Original Sound of New Orleans Soul 1960\-76](https://open.spotify.com/album/3tnRmKxUYvCPWLILT5PZL4) | 2:27 | 2020-04-29 |  |
+| [Big Tuba](https://open.spotify.com/track/2u3g8bbdXAuZiKBUxuKs5Y) | [Hot 8 Brass Band](https://open.spotify.com/artist/1lvVzEkQ4u72rrZ7bNUkcD) | [Big Tuba](https://open.spotify.com/album/7LmEewL5lnwBCscevbSeFP) | 3:40 | 2024-10-04 |  |
 | [Bow Down](https://open.spotify.com/track/046MQs8b85n3grgTpWAk0x) | [Cha Wa](https://open.spotify.com/artist/18OO8F6DbNshxJbZ5ugprO) | [Bow Down](https://open.spotify.com/album/2oSZjjRQDOmn9Fhuywm6uA) | 3:24 | 2021-03-12 |  |
 | [Bow Down](https://open.spotify.com/track/75zPkWTK4UY6thDZEiFp3x) | [Cha Wa](https://open.spotify.com/artist/18OO8F6DbNshxJbZ5ugprO) | [My People](https://open.spotify.com/album/5Z1GzBZmKbok1f6iCacE6c) | 3:24 | 2021-03-12 | 2024-04-19 |
 | [Can I Be Your Squeeze](https://open.spotify.com/track/5yJYA6dvIH4zmw7Ku2dn5f) | [Chuck Carbo](https://open.spotify.com/artist/4pbFsZJ317vxLwtAvmilGJ) | [Can I Be Your Squeeze / Take Care of Your Homework, Friend \(Digital 45\)](https://open.spotify.com/album/0HjvXbHZY3jjs0XyzX8gZo) | 2:29 | 2020-04-29 |  |
@@ -23,7 +24,7 @@
 | [Do You](https://open.spotify.com/track/4YSfp2I61liqg6NtWTBrxp) | [Dumpstaphunk](https://open.spotify.com/artist/6LvO4vaTTJhCAdpITMpDvC) | [Where Do We Go From Here](https://open.spotify.com/album/4fd3Nnb4bn3rERllCnKFxR) | 4:52 | 2021-04-09 | 2024-04-19 |
 | [Do You](https://open.spotify.com/track/6Po6hrICRrMUQPaDkL8elp) | [Dumpstaphunk](https://open.spotify.com/artist/6LvO4vaTTJhCAdpITMpDvC) | [Do You](https://open.spotify.com/album/148wDTLIKVYD7iNXvK7kJu) | 4:52 | 2021-04-09 |  |
 | [Don't Change for Me](https://open.spotify.com/track/6UzjPRT5j0abnEukKnxFVG) | [Nigel Hall](https://open.spotify.com/artist/04HwdlOSZ8Rnmp4D3vyjI2) | [Ladies & Gentlemen..\. Nigel Hall](https://open.spotify.com/album/0Hh14BVBAMbtgjOMAeC5Em) | 3:45 | 2020-04-29 |  |
-| [Four Horsemen](https://open.spotify.com/track/2rnxsfbS4peLw0ZP71YRO8) | [Big Chief Monk Boudreaux](https://open.spotify.com/artist/6dEA9IhHWUof5HKLeYRGer) | [Won't Bow Down](https://open.spotify.com/album/5H5loW7aKraS3pVG4BnSLP) | 6:47 | 2020-04-29 |  |
+| [Four Horsemen](https://open.spotify.com/track/2rnxsfbS4peLw0ZP71YRO8) | [Big Chief Monk Boudreaux](https://open.spotify.com/artist/6dEA9IhHWUof5HKLeYRGer) | [Won't Bow Down](https://open.spotify.com/album/5H5loW7aKraS3pVG4BnSLP) | 6:47 | 2020-04-29 | 2024-10-05 |
 | [Git Up](https://open.spotify.com/track/56jMWNwEhXzatfZZmvLDLY) | [The Dirty Dozen Brass Band](https://open.spotify.com/artist/6F6lawSnwGWWgdXFN7LXO7) | [Twenty Dozen](https://open.spotify.com/album/5F2NuTif1Tz4cE47DKJbQA) | 5:56 | 2020-04-29 |  |
 | [Give It Up](https://open.spotify.com/track/4dUOAFN1Yk2TuslROwZcdX) | [Lee Dorsey](https://open.spotify.com/artist/0En4EEcDMJ5kaUCf1aZ9js) | [The New Lee Dorsey](https://open.spotify.com/album/2CQt3vL1SHnqxyZvoPQPUb) | 3:03 | 2020-04-29 |  |
 | [Going On](https://open.spotify.com/track/6E6yIFd8X0XGCbjMHJ9mPH) | [Johnny Sketch & The Dirty Notes](https://open.spotify.com/artist/4euiFJVFE4gijlrQl4b7DF) | [Sketch](https://open.spotify.com/album/0yvRNAIe87HXEiQtxV3DmM) | 4:26 | 2020-04-29 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWoDbniQLBJY.md) - [plain]
 
 > Aquí viven las acústicas\. Cover: ELENA ROSE
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,897,672 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,897,617 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWoDbniQLBJY.md) - [plain]
 | 31 | [Brutalmente Honesta](https://open.spotify.com/track/6KYyzQaFSu6Y3Cdp8di2xl) | [Michi Sanz](https://open.spotify.com/artist/3upPawRH8B04mVJR5p0ZVx) | [Brutalmente Honesta](https://open.spotify.com/album/0NBV1w1mgOqHifIMKil9Zy) | 2:33 |
 | 32 | [mándame un beso](https://open.spotify.com/track/46fedM2fTd59tUabilqlUk) | [Nicole Zignago](https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP) | [escrita \(deluxe\)](https://open.spotify.com/album/6dIqmHcuEqEj0CTLLm3Aiv) | 3:26 |
 | 33 | [La chispa adecuada \- Live](https://open.spotify.com/track/25TiUPCYa2KYp3LFENEkJM) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [Tour 2007](https://open.spotify.com/album/7agRISos8iXzrqsCQ8Owg6) | 5:24 |
-| 34 | [Si Tu No Bailas Conmigo](https://open.spotify.com/track/1Cbw6WMknPdct4PeOuUzJH) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [La Llave De Mi Corazon](https://open.spotify.com/album/1xdl8xYY54gDXuTVhOxNSc) | 2:42 |
-| 35 | [Amapolas \- Acústico](https://open.spotify.com/track/3w7yklj80FkFG1e3QQBzGB) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [Canciones para escuchar en el río](https://open.spotify.com/album/1OSheaXw7vf5kvIF94qrTk) | 3:05 |
+| 34 | [Amapolas \- Acústico](https://open.spotify.com/track/3w7yklj80FkFG1e3QQBzGB) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [Canciones para escuchar en el río](https://open.spotify.com/album/1OSheaXw7vf5kvIF94qrTk) | 3:05 |
+| 35 | [Si Tu No Bailas Conmigo](https://open.spotify.com/track/1Cbw6WMknPdct4PeOuUzJH) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [La Llave De Mi Corazon](https://open.spotify.com/album/1xdl8xYY54gDXuTVhOxNSc) | 2:42 |
 | 36 | [Soldadito de Hierro](https://open.spotify.com/track/3DfUO7e24abpbIreUpUK4B) | [Nil Moliner](https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD) | [Soldadito de Hierro](https://open.spotify.com/album/4aF473yAU7HOafe47RWrLk) | 2:22 |
 | 37 | [Un Chingo](https://open.spotify.com/track/7nIMGS6kTXvlci76i6neKb) | [Carlos Neda](https://open.spotify.com/artist/05zc3wphPHwr407CCUbSk9) | [Un Chingo](https://open.spotify.com/album/5JvTVY2AYNpX6g4KIXzkdT) | 2:57 |
 | 38 | [No Ha Parado de Llover \- Unplugged](https://open.spotify.com/track/7fJKZAezCzADUYPX7IJf7L) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz) | [MTV Unplugged](https://open.spotify.com/album/2uhUNyt2jQ4JdtJmWynza2) | 6:40 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWoDbniQLBJY.md) - [plain]
 | 55 | [Volví a Nacer \- Live from Spotify](https://open.spotify.com/track/3BEuTuiAgJLROYMELwLujm) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [Spotify Sessions](https://open.spotify.com/album/1t3e3Py0eA1SPRC1vETI3i) | 4:18 |
 | 56 | [Te acuerdas?](https://open.spotify.com/track/25tHQXFLUN38dQXQyKu9Ev) | [Paul Alone](https://open.spotify.com/artist/6bdtalFIKenjGPCQVI2gtE) | [Te acuerdas?](https://open.spotify.com/album/4bgNYwpO19Pm0olhO3srld) | 3:03 |
 | 57 | [Parece Mentira](https://open.spotify.com/track/6MPOkyax2MTcsMVhbQ93vz) | [Diego Torres](https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh) | [Parece Mentira](https://open.spotify.com/album/4qVv2WWXeyeLZqXmbIJ1Pm) | 3:33 |
-| 58 | [Solo Mía](https://open.spotify.com/track/7bLfGfZ8FQ7uZ3iLJIQISf) | [Alex Cuba](https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1), [Leonel García](https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay) | [Solo Mía](https://open.spotify.com/album/6BLn7cwwQkJbvjWFxLNmzc) | 4:15 |
-| 59 | [Tarde](https://open.spotify.com/track/0lkwcRAUa1LnzBisyKtAqg) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Tarde](https://open.spotify.com/album/13cTtlvPu7FxZwSR1okLKi) | 3:06 |
+| 58 | [Tarde](https://open.spotify.com/track/0lkwcRAUa1LnzBisyKtAqg) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Tarde](https://open.spotify.com/album/13cTtlvPu7FxZwSR1okLKi) | 3:06 |
+| 59 | [Solo Mía](https://open.spotify.com/track/7bLfGfZ8FQ7uZ3iLJIQISf) | [Alex Cuba](https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1), [Leonel García](https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay) | [Solo Mía](https://open.spotify.com/album/6BLn7cwwQkJbvjWFxLNmzc) | 4:15 |
 | 60 | [¿Te Ha Pasado?](https://open.spotify.com/track/6MPmTzi1FdDKu3yhfhVd1Y) | [Paty Cantú](https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT), [Pitizion](https://open.spotify.com/artist/0GWdY55YF6xzN5L1A0X8nq), [Camila Fernández](https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q) | [La Mexicana](https://open.spotify.com/album/3jvseqHtHdkQXMWDjsoT4C) | 2:43 |
 | 61 | [Cuando Te Encuentre](https://open.spotify.com/track/19HWNXdno7mRCF6ILlkgdV) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [Cuando Te Encuentre](https://open.spotify.com/album/3dz9ty3Lcdeyjef5IUd4GC) | 2:56 |
 | 62 | [Navegando](https://open.spotify.com/track/7n0vJaSOM87pMqIIQWxoIh) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Contento](https://open.spotify.com/album/1bopo1g0hnpGoYAhgKLMO9) | 2:59 |

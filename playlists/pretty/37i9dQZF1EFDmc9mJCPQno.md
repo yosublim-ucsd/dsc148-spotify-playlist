@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDmc9mJCPQno.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1xzZPyV5jY8bYYNtAUkyOx">Lauren Aquilina</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,135 likes - 94 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,136 likes - 94 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,4 +103,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDmc9mJCPQno.md) - [plain]
 | 93 | [Everybody Needs a Hero](https://open.spotify.com/track/1EmX0q1eOc5ffa7N2F0bOg) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Everybody Needs a Hero](https://open.spotify.com/album/00JkCQwC0mjcE55t4R4nqe) | 4:35 |
 | 94 | [Backseat Driver](https://open.spotify.com/track/34J3yVYrXQJWNvdJeYXgSe) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Everybody Needs a Hero](https://open.spotify.com/album/00JkCQwC0mjcE55t4R4nqe) | 2:55 |
 
-Snapshot ID: `Abd0lgAAAAAaA1ts9hH/3LZPD7mMSlKn`
+Snapshot ID: `Abd6XgAAAAB19r/ctxR7Q6oTnEIJQxTt`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1QBiXlEscYkB1YauNmOcUS.md) - [plain]
 
 > All of the Top Party Hits  on one playlist! Featuring, Lizzo, <a href="https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we?si=BUaA00TfR56UlLKwdmVspQ"> Dua Lipa</a>, David Guetta,  Jack Harlow, Tiësto, Kenny Grace, Nathan Dawe, Bebe Rexha and many more!
 
-[Topsify Canada](https://open.spotify.com/user/playlistmecanada) - 13,476 likes - 80 songs - 3 hr 53 min
+[Topsify Canada](https://open.spotify.com/user/playlistmecanada) - 13,475 likes - 80 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/1QBiXlEscYkB1YauNmOcUS.md) - [plain]
 | 79 | [Levitating](https://open.spotify.com/track/39LLxExYz6ewLAcYrzQQyP) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Future Nostalgia](https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI) | 3:23 |
 | 80 | [Good as Hell](https://open.spotify.com/track/6KgBpzTuTRPebChN0VTyzV) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Cuz I Love You \(Super Deluxe\)](https://open.spotify.com/album/7hBV0wo7cDHZQLYnuOJ312) | 2:39 |
 
-Snapshot ID: `AAAXINr6GTqbd7VaopD+eWtSX2pTvR+r`
+Snapshot ID: `AAAXIgjgjLD6cZmfwgGqRBxUZ/Yiat05`

@@ -4,7 +4,7 @@
 
 > The country way of testifying.
 
-254 songs - 15 hr 31 min
+255 songs - 15 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,6 +127,7 @@
 | [In Our Blood](https://open.spotify.com/track/05EmiiuuN5I7DBHVZNJs8S) | [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x), [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [Livin' My Best Life](https://open.spotify.com/album/5UkfLfGyiREHCmzM1kEUV0) | 2:53 | 2023-05-12 | 2024-04-19 |
 | [In Our Blood](https://open.spotify.com/track/5Ut5HJUIE93J1bH1u5kGn3) | [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x), [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [In Our Blood](https://open.spotify.com/album/3b5D7JEovpIaebGbOdJTBX) | 2:53 | 2022-05-13 |  |
 | [Introduce You to God](https://open.spotify.com/track/4EoyDUpn3VtkwXTa5ZUhKB) | [Ian Munsick](https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn) | [White Buffalo \(Introduce You To God\)](https://open.spotify.com/album/1523Ot5YIJnrFfxsAEemjj) | 3:34 | 2024-04-05 |  |
+| [Jesus 'Bout My Kids](https://open.spotify.com/track/0LDnAkJu4BsTg7LNNeKV9j) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Mind Of A Country Boy](https://open.spotify.com/album/0SyEsGffJ9ZqvRkuVrzOlB) | 3:06 | 2024-10-04 |  |
 | [Jesus Cries](https://open.spotify.com/track/4euQFpAjLThkzv4S9Td2Ud) | [Riley Clemmons](https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG) | [Church Pew](https://open.spotify.com/album/28nagL70UdAzAs1ZgNOGnN) | 3:23 | 2023-09-22 |  |
 | [Jesus in a Bar](https://open.spotify.com/track/4XBKMHoWOIJMqKol7VhWDk) | [Grace Tyler](https://open.spotify.com/artist/7rJg0c4D0Xu1TtLmkaEMDH) | [Jesus in a Bar](https://open.spotify.com/album/7dyXRT0wtewOg9jyKqm4WN) | 3:58 | 2023-08-25 |  |
 | [Jesus Saves](https://open.spotify.com/track/2fgP2l1YoefcEtBd3FtKEW) | [Cooper Alan](https://open.spotify.com/artist/0AtQAehoytV7j1r4O16dRb) | [Jesus Saves](https://open.spotify.com/album/6H9XvSMB9qWOoGWyRwcWsZ) | 2:56 | 2024-08-16 |  |

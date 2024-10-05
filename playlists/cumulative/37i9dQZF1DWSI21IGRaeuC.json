@@ -469,6 +469,28 @@
     },
     {
       "album": {
+        "name": "Bass Go Boom (Collier Remix)",
+        "url": "https://open.spotify.com/album/7jDzqqtw3O7q33iLA7LhlH"
+      },
+      "artists": [
+        {
+          "name": "Joshwa",
+          "url": "https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5"
+        },
+        {
+          "name": "Collier",
+          "url": "https://open.spotify.com/artist/44KWTN5dWQd0oAzu1p5xCj"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168327,
+      "name": "Bass Go Boom - Collier Remix",
+      "url": "https://open.spotify.com/track/1nTHK6Qln7sWicfmlhMUe7"
+    },
+    {
+      "album": {
         "name": "Bass Up To The Top",
         "url": "https://open.spotify.com/album/0dPApl3iIct0S2T9lEtxSV"
       },
@@ -1220,7 +1242,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 481343,
       "name": "Courtyard",
       "url": "https://open.spotify.com/track/0uwMH6cppEhY7YG64r5Adg"
@@ -2807,6 +2829,24 @@
     },
     {
       "album": {
+        "name": "How the Story Goes",
+        "url": "https://open.spotify.com/album/1sRsh8lpMEwq9OXmSkcxiE"
+      },
+      "artists": [
+        {
+          "name": "LOVRA",
+          "url": "https://open.spotify.com/artist/4fIPBdK4awAR1W14u3v1J5"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184615,
+      "name": "How the Story Goes",
+      "url": "https://open.spotify.com/track/76tzY5YVsAa8kKEVdr1ZI8"
+    },
+    {
+      "album": {
         "name": "Hydroponic EP",
         "url": "https://open.spotify.com/album/0wmLrDb6pibDQtAtWFvB4P"
       },
@@ -2898,7 +2938,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 199218,
       "name": "I'm an Alien",
       "url": "https://open.spotify.com/track/5OpsMaCuFKEJBa64ogjrGW"
@@ -3384,7 +3424,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 384000,
       "name": "Late Night",
       "url": "https://open.spotify.com/track/5jArQDIG7wMPLJoxuFTleo"
@@ -3410,6 +3450,28 @@
       "duration_ms": 234492,
       "name": "Lay Back",
       "url": "https://open.spotify.com/track/2ZduBkSGzXxnGMaZAvOusA"
+    },
+    {
+      "album": {
+        "name": "Legacy EP",
+        "url": "https://open.spotify.com/album/6gtkVSlAVrQx6ycwP1Vp53"
+      },
+      "artists": [
+        {
+          "name": "Andy Martinez",
+          "url": "https://open.spotify.com/artist/0Ilm7SwRAuUOywN2ZZYxuu"
+        },
+        {
+          "name": "Damelo",
+          "url": "https://open.spotify.com/artist/5CnLwWTK3iavHh2JZ2KEx5"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 387692,
+      "name": "Legacy",
+      "url": "https://open.spotify.com/track/36r4YOFjSaFyilVdu8kqg3"
     },
     {
       "album": {
@@ -3678,6 +3740,24 @@
       "duration_ms": 382278,
       "name": "Lovelee Dae",
       "url": "https://open.spotify.com/track/6rHyMTHlEn0ukuL4XRhG7X"
+    },
+    {
+      "album": {
+        "name": "Boathouse EP",
+        "url": "https://open.spotify.com/album/2liKEuM0zahgS2zBzc5VTL"
+      },
+      "artists": [
+        {
+          "name": "DAETOR",
+          "url": "https://open.spotify.com/artist/0PivHDlqdfJmNugJ2TLXlt"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 381068,
+      "name": "Loving Touch",
+      "url": "https://open.spotify.com/track/3XA9NgjRNSrpTB0g1S1Y3U"
     },
     {
       "album": {
@@ -5082,7 +5162,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-04",
+      "date_removed": null,
       "duration_ms": 363915,
       "name": "Rinser",
       "url": "https://open.spotify.com/track/4dCOSO2tc0sPtCMqSfbqEE"
@@ -6608,7 +6688,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 443519,
       "name": "The Last Floor",
       "url": "https://open.spotify.com/track/63cbiaab7sxFnXEASzj5w4"
@@ -7260,7 +7340,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 315721,
       "name": "Way Down",
       "url": "https://open.spotify.com/track/4etgCTIbvjFIJn4KpXjn75"

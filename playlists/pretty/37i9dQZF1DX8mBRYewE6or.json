@@ -1,6 +1,6 @@
 {
   "description": "d\u00e1 play que a bagun\u00e7a organizada t\u00e1 liberada ",
-  "num_followers": 1066618,
+  "num_followers": 1066582,
   "original_name": "Sextou",
   "owner": {
     "name": "Spotify",
@@ -1055,26 +1055,6 @@
     {
       "added_at": "2024-07-08 18:05:42",
       "album": {
-        "name": "Paradise",
-        "url": "https://open.spotify.com/album/15sy3XQFShOFiDpKoxByyA"
-      },
-      "artists": [
-        {
-          "name": "MEDUZA",
-          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
-        },
-        {
-          "name": "Dermot Kennedy",
-          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
-        }
-      ],
-      "duration_ms": 167903,
-      "name": "Paradise (feat. Dermot Kennedy)",
-      "url": "https://open.spotify.com/track/6ft4hAq6yde8jPZY2i5zLr"
-    },
-    {
-      "added_at": "2024-07-08 18:05:42",
-      "album": {
         "name": "When I\u2019m Gone (with Katy Perry)",
         "url": "https://open.spotify.com/album/5itVTi6rI3MlOcWBxROxd9"
       },
@@ -1091,6 +1071,26 @@
       "duration_ms": 161266,
       "name": "When I\u2019m Gone (with Katy Perry)",
       "url": "https://open.spotify.com/track/5902W4uHWzhtOff1UK7the"
+    },
+    {
+      "added_at": "2024-07-08 18:05:42",
+      "album": {
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/15sy3XQFShOFiDpKoxByyA"
+      },
+      "artists": [
+        {
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+        },
+        {
+          "name": "Dermot Kennedy",
+          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
+        }
+      ],
+      "duration_ms": 167903,
+      "name": "Paradise (feat. Dermot Kennedy)",
+      "url": "https://open.spotify.com/track/6ft4hAq6yde8jPZY2i5zLr"
     },
     {
       "added_at": "2024-07-08 18:05:42",
@@ -1359,26 +1359,6 @@
     {
       "added_at": "2024-07-08 18:05:42",
       "album": {
-        "name": "Body Moving",
-        "url": "https://open.spotify.com/album/5EcypjAXyzxlrF5AKCNg9K"
-      },
-      "artists": [
-        {
-          "name": "Eliza Rose",
-          "url": "https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP"
-        },
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        }
-      ],
-      "duration_ms": 154215,
-      "name": "Body Moving",
-      "url": "https://open.spotify.com/track/5SFCEkybGYmmzKqewtDEaN"
-    },
-    {
-      "added_at": "2024-07-08 18:05:42",
-      "album": {
         "name": "How Will I Know",
         "url": "https://open.spotify.com/album/0ieUgrqfmWB4Ywu2CLWNWQ"
       },
@@ -1395,6 +1375,26 @@
       "duration_ms": 213435,
       "name": "How Will I Know",
       "url": "https://open.spotify.com/track/79wbJeLkXOlJh4AzaWCWfL"
+    },
+    {
+      "added_at": "2024-07-08 18:05:42",
+      "album": {
+        "name": "Body Moving",
+        "url": "https://open.spotify.com/album/5EcypjAXyzxlrF5AKCNg9K"
+      },
+      "artists": [
+        {
+          "name": "Eliza Rose",
+          "url": "https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP"
+        },
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        }
+      ],
+      "duration_ms": 154215,
+      "name": "Body Moving",
+      "url": "https://open.spotify.com/track/5SFCEkybGYmmzKqewtDEaN"
     },
     {
       "added_at": "2024-07-08 18:05:42",
@@ -1699,6 +1699,30 @@
     {
       "added_at": "2024-07-08 18:05:42",
       "album": {
+        "name": "Drive (feat. Wes Nelson)",
+        "url": "https://open.spotify.com/album/7wDWQrTNxHSVvklLTucK2D"
+      },
+      "artists": [
+        {
+          "name": "Clean Bandit",
+          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
+        },
+        {
+          "name": "Topic",
+          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
+        },
+        {
+          "name": "Wes Nelson",
+          "url": "https://open.spotify.com/artist/4ktBrNjagCGftyuBLJkATq"
+        }
+      ],
+      "duration_ms": 179374,
+      "name": "Drive (feat. Wes Nelson)",
+      "url": "https://open.spotify.com/track/6eCmK3GQyFuTNWCJHsaF9d"
+    },
+    {
+      "added_at": "2024-07-08 18:05:42",
+      "album": {
         "name": "Triple S",
         "url": "https://open.spotify.com/album/2Vum7fnobCUz4Ac6TsZyt4"
       },
@@ -1739,30 +1763,6 @@
       "duration_ms": 169000,
       "name": "Alright (feat. KIDDO)",
       "url": "https://open.spotify.com/track/1vUOJpWc091SBYULNvz9mp"
-    },
-    {
-      "added_at": "2024-07-08 18:05:42",
-      "album": {
-        "name": "Drive (feat. Wes Nelson)",
-        "url": "https://open.spotify.com/album/7wDWQrTNxHSVvklLTucK2D"
-      },
-      "artists": [
-        {
-          "name": "Clean Bandit",
-          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
-        },
-        {
-          "name": "Topic",
-          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
-        },
-        {
-          "name": "Wes Nelson",
-          "url": "https://open.spotify.com/artist/4ktBrNjagCGftyuBLJkATq"
-        }
-      ],
-      "duration_ms": 179374,
-      "name": "Drive (feat. Wes Nelson)",
-      "url": "https://open.spotify.com/track/6eCmK3GQyFuTNWCJHsaF9d"
     },
     {
       "added_at": "2024-07-08 18:05:42",
@@ -2087,18 +2087,18 @@
     {
       "added_at": "2024-07-08 18:05:42",
       "album": {
-        "name": "Satellite",
-        "url": "https://open.spotify.com/album/1NmhmrcrG143ODfGk9myHE"
+        "name": "CRASH",
+        "url": "https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B"
       },
       "artists": [
         {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
         }
       ],
-      "duration_ms": 186514,
-      "name": "Satellite",
-      "url": "https://open.spotify.com/track/1G9hDB1bmxz131N9svQ8pY"
+      "duration_ms": 145840,
+      "name": "Used to Know Me",
+      "url": "https://open.spotify.com/track/5dry5tz8yLcLuOJ3l6ZEQd"
     }
   ],
   "unique_name": "Sextou",

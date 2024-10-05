@@ -1,6 +1,6 @@
 {
   "description": "S\u00ed, \u00a1ya estamos viejos! RBD en portada.",
-  "num_followers": 1253393,
+  "num_followers": 1253479,
   "original_name": "Los 2000 M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -43,8 +43,8 @@
     {
       "added_at": "2020-11-17 04:03:12",
       "album": {
-        "name": "Todo Cambio",
-        "url": "https://open.spotify.com/album/7dTSfhp5okEjaYXp38LwVf"
+        "name": "Dejarte De Amar",
+        "url": "https://open.spotify.com/album/0MPMiyavAbARflBlNGjIA6"
       },
       "artists": [
         {
@@ -52,9 +52,9 @@
           "url": "https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU"
         }
       ],
-      "duration_ms": 193826,
-      "name": "Todo Cambi\u00f3",
-      "url": "https://open.spotify.com/track/4OyzSXRSadNQt5EMwASdap"
+      "duration_ms": 205160,
+      "name": "Mientes",
+      "url": "https://open.spotify.com/track/5EhzE6HJaCcLFrf5rPqvpk"
     },
     {
       "added_at": "2020-11-17 04:03:12",
@@ -187,8 +187,8 @@
     {
       "added_at": "2020-11-17 04:03:12",
       "album": {
-        "name": "Dejarte De Amar",
-        "url": "https://open.spotify.com/album/0MPMiyavAbARflBlNGjIA6"
+        "name": "Todo Cambio",
+        "url": "https://open.spotify.com/album/7dTSfhp5okEjaYXp38LwVf"
       },
       "artists": [
         {
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU"
         }
       ],
-      "duration_ms": 205160,
-      "name": "Mientes",
-      "url": "https://open.spotify.com/track/5EhzE6HJaCcLFrf5rPqvpk"
+      "duration_ms": 193826,
+      "name": "Todo Cambi\u00f3",
+      "url": "https://open.spotify.com/track/4OyzSXRSadNQt5EMwASdap"
     },
     {
       "added_at": "2020-11-17 04:03:12",
@@ -387,6 +387,22 @@
     {
       "added_at": "2020-11-17 04:03:12",
       "album": {
+        "name": "Stereo Hits",
+        "url": "https://open.spotify.com/album/6y3FTrfW6zFquk2V1qU2as"
+      },
+      "artists": [
+        {
+          "name": "M\u0153nia",
+          "url": "https://open.spotify.com/artist/3QmmtMrEf7aQrsd1VtejAV"
+        }
+      ],
+      "duration_ms": 219533,
+      "name": "Ni T\u00fa Ni Nadie",
+      "url": "https://open.spotify.com/track/16J6wH4Evm97ta1hDQIYQC"
+    },
+    {
+      "added_at": "2020-11-17 04:03:12",
+      "album": {
         "name": "Euphoria (Standard US/Latin version)",
         "url": "https://open.spotify.com/album/12HeDZhPHHzCe7VE0uEYwD"
       },
@@ -403,22 +419,6 @@
       "duration_ms": 200346,
       "name": "Cuando Me Enamoro",
       "url": "https://open.spotify.com/track/79gkHjNTSyGPXEyGkNQ8zH"
-    },
-    {
-      "added_at": "2020-11-17 04:03:12",
-      "album": {
-        "name": "Stereo Hits",
-        "url": "https://open.spotify.com/album/6y3FTrfW6zFquk2V1qU2as"
-      },
-      "artists": [
-        {
-          "name": "M\u0153nia",
-          "url": "https://open.spotify.com/artist/3QmmtMrEf7aQrsd1VtejAV"
-        }
-      ],
-      "duration_ms": 219533,
-      "name": "Ni T\u00fa Ni Nadie",
-      "url": "https://open.spotify.com/track/16J6wH4Evm97ta1hDQIYQC"
     },
     {
       "added_at": "2020-11-17 04:03:12",
@@ -595,22 +595,6 @@
     {
       "added_at": "2020-11-17 04:03:12",
       "album": {
-        "name": "El Viaje de Copperpot",
-        "url": "https://open.spotify.com/album/3HnSOodhuufrSTBnGZQ3fu"
-      },
-      "artists": [
-        {
-          "name": "La Oreja de Van Gogh",
-          "url": "https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC"
-        }
-      ],
-      "duration_ms": 169533,
-      "name": "Cu\u00eddate",
-      "url": "https://open.spotify.com/track/7gqIqyeCaV2xNtfZWxEphD"
-    },
-    {
-      "added_at": "2020-11-17 04:03:12",
-      "album": {
         "name": "Lo Que And\u00e1bamos Buscando (Special Para CEV)",
         "url": "https://open.spotify.com/album/5v3tEjfsPvLN3aDawSSx7h"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 231800,
       "name": "Sabor a Chocolate",
       "url": "https://open.spotify.com/track/29OzJTIOTjCgR7fLyEXY7u"
+    },
+    {
+      "added_at": "2020-11-17 04:03:12",
+      "album": {
+        "name": "El Viaje de Copperpot",
+        "url": "https://open.spotify.com/album/3HnSOodhuufrSTBnGZQ3fu"
+      },
+      "artists": [
+        {
+          "name": "La Oreja de Van Gogh",
+          "url": "https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC"
+        }
+      ],
+      "duration_ms": 169533,
+      "name": "Cu\u00eddate",
+      "url": "https://open.spotify.com/track/7gqIqyeCaV2xNtfZWxEphD"
     },
     {
       "added_at": "2020-11-17 04:03:12",
@@ -715,22 +715,6 @@
     {
       "added_at": "2020-11-17 04:03:12",
       "album": {
-        "name": "Todo Cambio",
-        "url": "https://open.spotify.com/album/7dTSfhp5okEjaYXp38LwVf"
-      },
-      "artists": [
-        {
-          "name": "Camila",
-          "url": "https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU"
-        }
-      ],
-      "duration_ms": 306986,
-      "name": "Coleccionista de Canciones",
-      "url": "https://open.spotify.com/track/28Ct4qwkQXY2W5yyNCLuVI"
-    },
-    {
-      "added_at": "2020-11-17 04:03:12",
-      "album": {
         "name": "She Wolf (Expanded Edition)",
         "url": "https://open.spotify.com/album/5u0OuxRnf3FzvZR07xAxL2"
       },
@@ -747,6 +731,22 @@
     {
       "added_at": "2020-11-17 04:03:12",
       "album": {
+        "name": "Todo Cambio",
+        "url": "https://open.spotify.com/album/7dTSfhp5okEjaYXp38LwVf"
+      },
+      "artists": [
+        {
+          "name": "Camila",
+          "url": "https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU"
+        }
+      ],
+      "duration_ms": 306986,
+      "name": "Coleccionista de Canciones",
+      "url": "https://open.spotify.com/track/28Ct4qwkQXY2W5yyNCLuVI"
+    },
+    {
+      "added_at": "2020-11-17 04:03:12",
+      "album": {
         "name": "Escucha",
         "url": "https://open.spotify.com/album/3erbmiWdMAOvzG7FbpZnhL"
       },
@@ -759,6 +759,22 @@
       "duration_ms": 236613,
       "name": "V\u00edveme",
       "url": "https://open.spotify.com/track/376zCxYCHr7rSFBdz41QyE"
+    },
+    {
+      "added_at": "2020-11-17 04:03:12",
+      "album": {
+        "name": "Esta Es Mi Vida",
+        "url": "https://open.spotify.com/album/1DqezzIzunjysnTKPtxB98"
+      },
+      "artists": [
+        {
+          "name": "Jesse & Joy",
+          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
+        }
+      ],
+      "duration_ms": 222626,
+      "name": "Espacio sideral",
+      "url": "https://open.spotify.com/track/3OIoy3TNU7CL5PTaHOGmbR"
     },
     {
       "added_at": "2020-11-17 04:03:12",
@@ -791,22 +807,6 @@
       "duration_ms": 273800,
       "name": "Puente",
       "url": "https://open.spotify.com/track/6gwaa6ElIixNTvu6RwkMyo"
-    },
-    {
-      "added_at": "2020-11-17 04:03:12",
-      "album": {
-        "name": "Esta Es Mi Vida",
-        "url": "https://open.spotify.com/album/1DqezzIzunjysnTKPtxB98"
-      },
-      "artists": [
-        {
-          "name": "Jesse & Joy",
-          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
-        }
-      ],
-      "duration_ms": 222626,
-      "name": "Espacio sideral",
-      "url": "https://open.spotify.com/track/3OIoy3TNU7CL5PTaHOGmbR"
     },
     {
       "added_at": "2020-11-17 04:03:12",
@@ -995,22 +995,6 @@
     {
       "added_at": "2020-11-17 04:03:12",
       "album": {
-        "name": "Indeleble",
-        "url": "https://open.spotify.com/album/5Y5vZKwOXADxWD4NjMCoUB"
-      },
-      "artists": [
-        {
-          "name": "Alejandra Guzman",
-          "url": "https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO"
-        }
-      ],
-      "duration_ms": 220720,
-      "name": "Volverte a Amar",
-      "url": "https://open.spotify.com/track/6fgjHINGw77nBccZ0Fzj9n"
-    },
-    {
-      "added_at": "2020-11-17 04:03:12",
-      "album": {
         "name": "Laundry Service",
         "url": "https://open.spotify.com/album/4DyMK9x2gnmRkRa16zHaEV"
       },
@@ -1027,18 +1011,34 @@
     {
       "added_at": "2020-11-17 04:03:12",
       "album": {
-        "name": "Estopa",
-        "url": "https://open.spotify.com/album/5EiebUqlX025HxiCvVTsNs"
+        "name": "Indeleble",
+        "url": "https://open.spotify.com/album/5Y5vZKwOXADxWD4NjMCoUB"
       },
       "artists": [
         {
-          "name": "Estopa",
-          "url": "https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai"
+          "name": "Alejandra Guzman",
+          "url": "https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO"
         }
       ],
-      "duration_ms": 190626,
-      "name": "Tu Calorro",
-      "url": "https://open.spotify.com/track/0DXI6c9tNWsI4tvUftkQN8"
+      "duration_ms": 220720,
+      "name": "Volverte a Amar",
+      "url": "https://open.spotify.com/track/6fgjHINGw77nBccZ0Fzj9n"
+    },
+    {
+      "added_at": "2020-11-17 04:03:12",
+      "album": {
+        "name": "Clandestino",
+        "url": "https://open.spotify.com/album/3xoAUqjKs7Ps7wR26VAMbq"
+      },
+      "artists": [
+        {
+          "name": "Manu Chao",
+          "url": "https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM"
+        }
+      ],
+      "duration_ms": 149173,
+      "name": "Clandestino",
+      "url": "https://open.spotify.com/track/51R2M1JgyFfRS3e6v5wCt3"
     },
     {
       "added_at": "2020-11-17 04:03:12",
@@ -1083,18 +1083,18 @@
     {
       "added_at": "2020-11-17 04:03:12",
       "album": {
-        "name": "Clandestino",
-        "url": "https://open.spotify.com/album/3xoAUqjKs7Ps7wR26VAMbq"
+        "name": "Estopa",
+        "url": "https://open.spotify.com/album/5EiebUqlX025HxiCvVTsNs"
       },
       "artists": [
         {
-          "name": "Manu Chao",
-          "url": "https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM"
+          "name": "Estopa",
+          "url": "https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai"
         }
       ],
-      "duration_ms": 149173,
-      "name": "Clandestino",
-      "url": "https://open.spotify.com/track/51R2M1JgyFfRS3e6v5wCt3"
+      "duration_ms": 190626,
+      "name": "Tu Calorro",
+      "url": "https://open.spotify.com/track/0DXI6c9tNWsI4tvUftkQN8"
     },
     {
       "added_at": "2020-11-17 04:03:12",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2020-11-17 04:03:12",
       "album": {
+        "name": "Clandestino",
+        "url": "https://open.spotify.com/album/3xoAUqjKs7Ps7wR26VAMbq"
+      },
+      "artists": [
+        {
+          "name": "Manu Chao",
+          "url": "https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM"
+        }
+      ],
+      "duration_ms": 122760,
+      "name": "Je ne t'aime plus",
+      "url": "https://open.spotify.com/track/7Deb4scGmEv4fY2CZcVnSb"
+    },
+    {
+      "added_at": "2020-11-17 04:03:12",
+      "album": {
         "name": "HA-ASH",
         "url": "https://open.spotify.com/album/0DzhgRe9ovRl6trAcHMUO8"
       },
@@ -1175,22 +1191,6 @@
       "duration_ms": 215680,
       "name": "Baila Mi Coraz\u00f3n",
       "url": "https://open.spotify.com/track/0GB4zJkbXdXBbdJPgudwDx"
-    },
-    {
-      "added_at": "2020-11-17 04:03:12",
-      "album": {
-        "name": "Clandestino",
-        "url": "https://open.spotify.com/album/3xoAUqjKs7Ps7wR26VAMbq"
-      },
-      "artists": [
-        {
-          "name": "Manu Chao",
-          "url": "https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM"
-        }
-      ],
-      "duration_ms": 122760,
-      "name": "Je ne t'aime plus",
-      "url": "https://open.spotify.com/track/7Deb4scGmEv4fY2CZcVnSb"
     },
     {
       "added_at": "2020-11-17 04:03:12",
@@ -1243,30 +1243,6 @@
     {
       "added_at": "2020-11-17 04:03:12",
       "album": {
-        "name": "Ricky Martin MTV Unplugged",
-        "url": "https://open.spotify.com/album/7qhZvYXFgsaSzuukZw9WCM"
-      },
-      "artists": [
-        {
-          "name": "Ricky Martin",
-          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
-        },
-        {
-          "name": "Lamari",
-          "url": "https://open.spotify.com/artist/1Rv4Ogfu7pg6QMo09XWtWK"
-        },
-        {
-          "name": "Tommy Torres",
-          "url": "https://open.spotify.com/artist/264nbMzGPSkDZqTY8nXwCG"
-        }
-      ],
-      "duration_ms": 247866,
-      "name": "Tu Recuerdo (feat. La Mari De Chambao & Tommy Torres) - MTV Unplugged Version",
-      "url": "https://open.spotify.com/track/61hJK3EfAd1LDk7x5OrCTc"
-    },
-    {
-      "added_at": "2020-11-17 04:03:12",
-      "album": {
         "name": "HA-ASH",
         "url": "https://open.spotify.com/album/0DzhgRe9ovRl6trAcHMUO8"
       },
@@ -1279,6 +1255,22 @@
       "duration_ms": 210640,
       "name": "Odio Amarte",
       "url": "https://open.spotify.com/track/0x6kwMLhwr0w4xjdv6tVqG"
+    },
+    {
+      "added_at": "2020-11-17 04:03:12",
+      "album": {
+        "name": "Lo Que Siempre So\u00f1amos Ser",
+        "url": "https://open.spotify.com/album/0zk9uwiVhuRfUs6XnE2wsx"
+      },
+      "artists": [
+        {
+          "name": "Sandoval",
+          "url": "https://open.spotify.com/artist/4FG27h3EzTkxI1YDnHhuRW"
+        }
+      ],
+      "duration_ms": 229760,
+      "name": "A quien t\u00fa decidiste amar",
+      "url": "https://open.spotify.com/track/3lJwIAfeWtnNRbJXWbIHKD"
     },
     {
       "added_at": "2020-11-17 04:03:12",
@@ -1299,18 +1291,26 @@
     {
       "added_at": "2020-11-17 04:03:12",
       "album": {
-        "name": "Lo Que Siempre So\u00f1amos Ser",
-        "url": "https://open.spotify.com/album/0zk9uwiVhuRfUs6XnE2wsx"
+        "name": "Ricky Martin MTV Unplugged",
+        "url": "https://open.spotify.com/album/7qhZvYXFgsaSzuukZw9WCM"
       },
       "artists": [
         {
-          "name": "Sandoval",
-          "url": "https://open.spotify.com/artist/4FG27h3EzTkxI1YDnHhuRW"
+          "name": "Ricky Martin",
+          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
+        },
+        {
+          "name": "Lamari",
+          "url": "https://open.spotify.com/artist/1Rv4Ogfu7pg6QMo09XWtWK"
+        },
+        {
+          "name": "Tommy Torres",
+          "url": "https://open.spotify.com/artist/264nbMzGPSkDZqTY8nXwCG"
         }
       ],
-      "duration_ms": 229760,
-      "name": "A quien t\u00fa decidiste amar",
-      "url": "https://open.spotify.com/track/3lJwIAfeWtnNRbJXWbIHKD"
+      "duration_ms": 247866,
+      "name": "Tu Recuerdo (feat. La Mari De Chambao & Tommy Torres) - MTV Unplugged Version",
+      "url": "https://open.spotify.com/track/61hJK3EfAd1LDk7x5OrCTc"
     },
     {
       "added_at": "2020-11-17 04:03:12",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2020-11-17 04:03:12",
       "album": {
-        "name": "\u00a1GRRRR!",
-        "url": "https://open.spotify.com/album/0WSuErzdxX65H9orqjc7C3"
-      },
-      "artists": [
-        {
-          "name": "Moderatto",
-          "url": "https://open.spotify.com/artist/5XsWrYhwadPBjW20qYbdZg"
-        }
-      ],
-      "duration_ms": 213760,
-      "name": "Sentimettal",
-      "url": "https://open.spotify.com/track/3bR6JvYSnJlzNlyUZbFMWJ"
-    },
-    {
-      "added_at": "2020-11-17 04:03:12",
-      "album": {
         "name": "Mar\u00eda Jos\u00e9",
         "url": "https://open.spotify.com/album/3ZYCIP3Z0UcypRrTLghQ4M"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 239706,
       "name": "Me equivoqu\u00e9",
       "url": "https://open.spotify.com/track/0mjwigpuvO4IAAMtoNoUyQ"
+    },
+    {
+      "added_at": "2020-11-17 04:03:12",
+      "album": {
+        "name": "\u00a1GRRRR!",
+        "url": "https://open.spotify.com/album/0WSuErzdxX65H9orqjc7C3"
+      },
+      "artists": [
+        {
+          "name": "Moderatto",
+          "url": "https://open.spotify.com/artist/5XsWrYhwadPBjW20qYbdZg"
+        }
+      ],
+      "duration_ms": 213760,
+      "name": "Sentimettal",
+      "url": "https://open.spotify.com/track/3bR6JvYSnJlzNlyUZbFMWJ"
     },
     {
       "added_at": "2020-11-17 04:03:12",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2020-11-17 04:03:12",
       "album": {
-        "name": "Utopia 2",
-        "url": "https://open.spotify.com/album/754HGsnSRfpBSiDmUNii1k"
-      },
-      "artists": [
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        }
-      ],
-      "duration_ms": 241906,
-      "name": "Luz Sin Gravedad",
-      "url": "https://open.spotify.com/track/60CEVNgCHcVyWCPy6Kh2K6"
-    },
-    {
-      "added_at": "2020-11-17 04:03:12",
-      "album": {
         "name": "Esta Es Mi Vida",
         "url": "https://open.spotify.com/album/1DqezzIzunjysnTKPtxB98"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 246666,
       "name": "Llegaste t\u00fa",
       "url": "https://open.spotify.com/track/77jdTLPg3EXHJ8cbU7SBni"
+    },
+    {
+      "added_at": "2020-11-17 04:03:12",
+      "album": {
+        "name": "Utopia 2",
+        "url": "https://open.spotify.com/album/754HGsnSRfpBSiDmUNii1k"
+      },
+      "artists": [
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        }
+      ],
+      "duration_ms": 241906,
+      "name": "Luz Sin Gravedad",
+      "url": "https://open.spotify.com/track/60CEVNgCHcVyWCPy6Kh2K6"
     },
     {
       "added_at": "2020-11-17 04:03:12",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2020-11-17 04:03:12",
       "album": {
-        "name": "Aserej\u00e9 (The Ketchup Song)",
-        "url": "https://open.spotify.com/album/5k9nNGzp6ogw5bBULPeMSz"
-      },
-      "artists": [
-        {
-          "name": "Las Ketchup",
-          "url": "https://open.spotify.com/artist/1e8GEl48ktvfDpruMKB6Oe"
-        }
-      ],
-      "duration_ms": 213000,
-      "name": "The Ketchup Song (Aserej\u00e9) - Spanish Version",
-      "url": "https://open.spotify.com/track/6NG2IIXZfC5Notpz0GIODU"
-    },
-    {
-      "added_at": "2020-11-17 04:03:12",
-      "album": {
         "name": "Clandestino",
         "url": "https://open.spotify.com/album/3xoAUqjKs7Ps7wR26VAMbq"
       },
@@ -1503,22 +1487,6 @@
       "duration_ms": 227160,
       "name": "Desaparecido",
       "url": "https://open.spotify.com/track/5Hc7O2dX51NI4YcHPuoOpw"
-    },
-    {
-      "added_at": "2020-11-17 04:03:12",
-      "album": {
-        "name": "Paulina",
-        "url": "https://open.spotify.com/album/64M45unRUhuzlOYth6w5HB"
-      },
-      "artists": [
-        {
-          "name": "Paulina Rubio",
-          "url": "https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS"
-        }
-      ],
-      "duration_ms": 274506,
-      "name": "Tal Vez Quizas",
-      "url": "https://open.spotify.com/track/4Ft4AbNwk1acKagaBOmvHb"
     },
     {
       "added_at": "2020-11-17 04:03:12",
@@ -1543,6 +1511,22 @@
     {
       "added_at": "2020-11-17 04:03:12",
       "album": {
+        "name": "Aserej\u00e9 (The Ketchup Song)",
+        "url": "https://open.spotify.com/album/5k9nNGzp6ogw5bBULPeMSz"
+      },
+      "artists": [
+        {
+          "name": "Las Ketchup",
+          "url": "https://open.spotify.com/artist/1e8GEl48ktvfDpruMKB6Oe"
+        }
+      ],
+      "duration_ms": 213000,
+      "name": "The Ketchup Song (Aserej\u00e9) - Spanish Version",
+      "url": "https://open.spotify.com/track/6NG2IIXZfC5Notpz0GIODU"
+    },
+    {
+      "added_at": "2020-11-17 04:03:12",
+      "album": {
         "name": "Ch\u00fantaros Radio Poder",
         "url": "https://open.spotify.com/album/0wqb0G7P5hA3ajYi9ihVQL"
       },
@@ -1555,6 +1539,38 @@
       "duration_ms": 238747,
       "name": "Ch\u00fantaros Style",
       "url": "https://open.spotify.com/track/4a0XUfmjQiRb0diHn9jVjA"
+    },
+    {
+      "added_at": "2020-11-17 04:03:12",
+      "album": {
+        "name": "Paulina",
+        "url": "https://open.spotify.com/album/64M45unRUhuzlOYth6w5HB"
+      },
+      "artists": [
+        {
+          "name": "Paulina Rubio",
+          "url": "https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS"
+        }
+      ],
+      "duration_ms": 274506,
+      "name": "Tal Vez Quizas",
+      "url": "https://open.spotify.com/track/4Ft4AbNwk1acKagaBOmvHb"
+    },
+    {
+      "added_at": "2020-11-17 04:03:12",
+      "album": {
+        "name": "Utopia 2",
+        "url": "https://open.spotify.com/album/754HGsnSRfpBSiDmUNii1k"
+      },
+      "artists": [
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        }
+      ],
+      "duration_ms": 225373,
+      "name": "Bella Traicion",
+      "url": "https://open.spotify.com/track/5eIsMbKPT1IJ0b0rdvgtlZ"
     },
     {
       "added_at": "2020-11-17 04:03:12",
@@ -1591,22 +1607,6 @@
     {
       "added_at": "2020-11-17 04:03:12",
       "album": {
-        "name": "Utopia 2",
-        "url": "https://open.spotify.com/album/754HGsnSRfpBSiDmUNii1k"
-      },
-      "artists": [
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        }
-      ],
-      "duration_ms": 225373,
-      "name": "Bella Traicion",
-      "url": "https://open.spotify.com/track/5eIsMbKPT1IJ0b0rdvgtlZ"
-    },
-    {
-      "added_at": "2020-11-17 04:03:12",
-      "album": {
         "name": "Dance And Dense Denso",
         "url": "https://open.spotify.com/album/2AbyDhzuhpMNKEm8johQft"
       },
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2020-11-17 04:03:12",
       "album": {
-        "name": "Grandes Exitos",
-        "url": "https://open.spotify.com/album/1HR0VmKYncW4JyMwRCSi9N"
-      },
-      "artists": [
-        {
-          "name": "Chayanne",
-          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
-        }
-      ],
-      "duration_ms": 217426,
-      "name": "Torero",
-      "url": "https://open.spotify.com/track/709CndJJB3GTUhQD0LLFse"
-    },
-    {
-      "added_at": "2020-11-17 04:03:12",
-      "album": {
         "name": "Barrio Bravo",
         "url": "https://open.spotify.com/album/0ZCip2zkf5EGx7j4QeRRUD"
       },
@@ -1667,6 +1651,22 @@
       "duration_ms": 346800,
       "name": "Cumbia sobre el r\u00edo / Interludio",
       "url": "https://open.spotify.com/track/77wwKKYeNZnXZ8xChSiSxN"
+    },
+    {
+      "added_at": "2020-11-17 04:03:12",
+      "album": {
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/1HR0VmKYncW4JyMwRCSi9N"
+      },
+      "artists": [
+        {
+          "name": "Chayanne",
+          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
+        }
+      ],
+      "duration_ms": 217426,
+      "name": "Torero",
+      "url": "https://open.spotify.com/track/709CndJJB3GTUhQD0LLFse"
     },
     {
       "added_at": "2020-11-17 04:03:12",

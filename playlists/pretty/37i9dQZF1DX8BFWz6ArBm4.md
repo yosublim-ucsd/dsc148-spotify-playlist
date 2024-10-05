@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BFWz6ArBm4.md) - [plain]
 
 > Κατευθείαν από την πίστα, τα καλύτερα λαϊκά τραγούδια αυτή τη στιγμή\. Εξώφυλλοr: Dimos Anastasiadis
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,496 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,512 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,10 +19,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BFWz6ArBm4.md) - [plain]
 | 9 | [Sou Eho Agapi Megali](https://open.spotify.com/track/2urR866HTLJdAoGbVQFPx2) | [Nikos Makropoulos](https://open.spotify.com/artist/5ETZ4zl1tAJe8zCTDEaoGO) | [Sou Eho Agapi Megali](https://open.spotify.com/album/2vT4TdCYWKxcbBpg44f2g8) | 3:18 |
 | 10 | [Ypervoles](https://open.spotify.com/track/1WrpcYZsJkzJw5l95ECvpp) | [Droulias Brothers](https://open.spotify.com/artist/4FMwxdwvIlkoArdXv2ddpL), [Ria Ellinidou](https://open.spotify.com/artist/5xs1rri2ZKfDpkKLqreHlc) | [Ypervoles](https://open.spotify.com/album/3H9TOeoNzQmxLRQeWXJTZr) | 2:47 |
 | 11 | [Psahno Na Vro](https://open.spotify.com/track/5DPZMOE3VA3fHXASNhtPRT) | [Nikos Oikonomopoulos](https://open.spotify.com/artist/1MicVtcHS3vuNVCrd1un7s) | [Psahno Na Vro](https://open.spotify.com/album/6YA76D7DzUuiBpktYltKwo) | 3:19 |
-| 12 | [Siko Kardia Mou](https://open.spotify.com/track/1p7kfXL2ny9cQrRiAXeIAC) | [Giorgos Kakosaios](https://open.spotify.com/artist/4uyuai6Pqgz3kSx1Jme2PJ) | [Siko Kardia Mou](https://open.spotify.com/album/5ajdrgdF5xCgO2GMLo5ecY) | 2:57 |
+| 12 | [I Gineka Tis Zois Sou](https://open.spotify.com/track/4VJ7nzs9uF3i9rIVmaDyxt) | [Katerina Lioliou](https://open.spotify.com/artist/6vgi3CIDWWdGEGJ6NMgQdD) | [1994](https://open.spotify.com/album/6GpAkvjB1iVZ9ulHtkq1yp) | 3:31 |
 | 13 | [Planitis Gi](https://open.spotify.com/track/1jhWAV25iQBkWOtIlHe6a0) | [Nikos Apergis](https://open.spotify.com/artist/01AuIzn7oUxs1H3oqWpy8d) | [Planitis Gi](https://open.spotify.com/album/3NrhsZPgo6Z72XmnDizCTK) | 4:07 |
 | 14 | [Siga To Prama](https://open.spotify.com/track/6lLyJtACSS8hb9ySXuBfCF) | [Anastasia](https://open.spotify.com/artist/2FTua3TeIGnmQQrN80DinP) | [Siga To Prama](https://open.spotify.com/album/6bJ8EvS1hhuqmR9ISbK2CO) | 2:35 |
-| 15 | [I Gineka Tis Zois Sou](https://open.spotify.com/track/4VJ7nzs9uF3i9rIVmaDyxt) | [Katerina Lioliou](https://open.spotify.com/artist/6vgi3CIDWWdGEGJ6NMgQdD) | [1994](https://open.spotify.com/album/6GpAkvjB1iVZ9ulHtkq1yp) | 3:31 |
+| 15 | [Siko Kardia Mou](https://open.spotify.com/track/1p7kfXL2ny9cQrRiAXeIAC) | [Giorgos Kakosaios](https://open.spotify.com/artist/4uyuai6Pqgz3kSx1Jme2PJ) | [Siko Kardia Mou](https://open.spotify.com/album/5ajdrgdF5xCgO2GMLo5ecY) | 2:57 |
 | 16 | [7/7](https://open.spotify.com/track/5e8JV9r2vKrbebUQMRpBCy) | [Ioulia Kallimani](https://open.spotify.com/artist/6HsM9NbNIunWMEFLOk4d9p), [Michael Touratzidis](https://open.spotify.com/artist/5dwadtCk3MY582FXpBAHwz) | [7/7](https://open.spotify.com/album/12VCx1n6ZMk1vl2ONqzhuv) | 2:51 |
 | 17 | [Parallili Agapi](https://open.spotify.com/track/2SsaxxtqBdweyrZew2O6Ej) | [Christina Salti](https://open.spotify.com/artist/6l0GQT49HC5pM3Y2TZSLRr) | [Parallili Agapi](https://open.spotify.com/album/2S1gFwCroLJTVsPJoRbqxt) | 4:02 |
 | 18 | [Lekes](https://open.spotify.com/track/48tVeEffiTEE6v8sMMQjf8) | [Anna Vissi](https://open.spotify.com/artist/3qg78GGGWP04yTv0ZQMsXl) | [Lekes](https://open.spotify.com/album/32OzRuOOFSRH69LzHEK0JF) | 4:15 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BFWz6ArBm4.md) - [plain]
 | 35 | [I Agapi Ayti](https://open.spotify.com/track/3nwTkNIo35hnpArk0tokY8) | [Giorgos Livanis](https://open.spotify.com/artist/64jWqEqXZKSlyqwgMz28Ok), [Andromache](https://open.spotify.com/artist/0dn2Cwr75Rl4bh7yTwTorv) | [I Agapi Ayti](https://open.spotify.com/album/2ZELFXiSrDXLDNdN86m8RZ) | 3:36 |
 | 36 | [maZW Akoma \(Ola Mou Ta Thelo\)](https://open.spotify.com/track/49OvjhB5rxkF7KzfTEk9ri) | [Giorgos Mazonakis](https://open.spotify.com/artist/1gyBRbQACz4JJX2HRROigK) | [maZW Akoma \(Ola Mou Ta Thelo\)](https://open.spotify.com/album/3mLP9WM6GglShWbaMbYsPS) | 3:28 |
 | 37 | [Kalokeri](https://open.spotify.com/track/3AVeVxO7MJYiaeROQ51vpp) | [Natasa Theodoridou](https://open.spotify.com/artist/4hw4chBwI0fvJltPiQxPPD), [Foivos](https://open.spotify.com/artist/3ppjSilJ2mCYvCq2iiU1Vn) | [Kalokeri](https://open.spotify.com/album/35fSplKWXGIGtROvgDzSul) | 4:01 |
-| 38 | [Eimai Gunaika](https://open.spotify.com/track/0UUvTGK23QN4qBvypAziwQ) | [Despina Vandi](https://open.spotify.com/artist/4aJpTCLUTPTeXfn3c9r9F0), [Teo Tzimas](https://open.spotify.com/artist/7CkEq9a4CwfkweA1tRgxgh) | [Eimai Gunaika](https://open.spotify.com/album/6GrpUFuJGnoA2T9SQhENUu) | 2:42 |
-| 39 | [Xilia Spirta](https://open.spotify.com/track/2oROjBec2WOa4vMIUfFgj6) | [Antonis Remos](https://open.spotify.com/artist/6s26Q38Zqc4hY3xe7jrEBG) | [Xilia Spirta](https://open.spotify.com/album/6TdaBD325HwRRt5ULUJ4uC) | 3:42 |
+| 38 | [Xilia Spirta](https://open.spotify.com/track/2oROjBec2WOa4vMIUfFgj6) | [Antonis Remos](https://open.spotify.com/artist/6s26Q38Zqc4hY3xe7jrEBG) | [Xilia Spirta](https://open.spotify.com/album/6TdaBD325HwRRt5ULUJ4uC) | 3:42 |
+| 39 | [Eimai Gunaika](https://open.spotify.com/track/0UUvTGK23QN4qBvypAziwQ) | [Despina Vandi](https://open.spotify.com/artist/4aJpTCLUTPTeXfn3c9r9F0), [Teo Tzimas](https://open.spotify.com/artist/7CkEq9a4CwfkweA1tRgxgh) | [Eimai Gunaika](https://open.spotify.com/album/6GrpUFuJGnoA2T9SQhENUu) | 2:42 |
 | 40 | [Paraponaki Mou](https://open.spotify.com/track/1h9nXyBYPaxetP1ViK28gu) | [Andromache](https://open.spotify.com/artist/0dn2Cwr75Rl4bh7yTwTorv) | [Paraponaki Mou](https://open.spotify.com/album/0nn4UNyLy5xgRka3bSIkMa) | 3:10 |
 | 41 | [Se Afisa Sto Htes \- Eisai Treli](https://open.spotify.com/track/1XXJbbHeE70PtIiveJqUrV) | [Nikos Vertis](https://open.spotify.com/artist/6BOprAXvUTWZjImX2dFdEa) | [Se Afisa Sto Htes \- Eisai Treli](https://open.spotify.com/album/3ZlbDMYJQfj81FkgkgrzGZ) | 3:34 |
 | 42 | [Fyllo Kai Ftero](https://open.spotify.com/track/2Yic3iwPa1h8DH4grovGcX) | [Ilias Vrettos](https://open.spotify.com/artist/0bBYQsnSex82PNb1HkJZt1), [KG](https://open.spotify.com/artist/2k3a4Z4pyDriJYozauuCYj), [Teo Tzimas](https://open.spotify.com/artist/7CkEq9a4CwfkweA1tRgxgh) | [Fyllo Kai Ftero](https://open.spotify.com/album/3zvUBesfwfXVJONg28SHx4) | 3:02 |

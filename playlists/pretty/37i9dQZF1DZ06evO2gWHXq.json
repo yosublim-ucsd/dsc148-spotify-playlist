@@ -1,12 +1,12 @@
 {
   "description": "This Is MC Davo. Los temas esenciales, todos en una lista.",
-  "num_followers": 221728,
+  "num_followers": 221753,
   "original_name": "This Is MC Davo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvyNAAAAAADRXmY1Znsd0p+j6iPE2EOV",
+  "snapshot_id": "Zv3egAAAAACu75yZq+TQjXkHnUW2h0sf",
   "tracks": [
     {
       "added_at": null,
@@ -211,6 +211,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Canciones Mamalonas",
+        "url": "https://open.spotify.com/album/6OIteXjnMqe4RQT6QfWE3x"
+      },
+      "artists": [
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        },
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "duration_ms": 193421,
+      "name": "Desde Cero (feat. Santa Fe Klan)",
+      "url": "https://open.spotify.com/track/4sPJjs8vUK0tt9mIrpq6Ye"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pr\u00e9ndete Un Blunt (feat. Zimple) [Remix]",
         "url": "https://open.spotify.com/album/0G5o0F4IWxTgJbuKRoKvo0"
       },
@@ -235,26 +255,6 @@
       "duration_ms": 288000,
       "name": "Pr\u00e9ndete Un Blunt (feat. Zimple) - Remix",
       "url": "https://open.spotify.com/track/1Fjuba2hK1V3IRFHAqFyX6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Canciones Mamalonas",
-        "url": "https://open.spotify.com/album/6OIteXjnMqe4RQT6QfWE3x"
-      },
-      "artists": [
-        {
-          "name": "MC Davo",
-          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
-        },
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        }
-      ],
-      "duration_ms": 193421,
-      "name": "Desde Cero (feat. Santa Fe Klan)",
-      "url": "https://open.spotify.com/track/4sPJjs8vUK0tt9mIrpq6Ye"
     },
     {
       "added_at": null,
@@ -519,26 +519,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Estilo Fino",
-        "url": "https://open.spotify.com/album/4yblA3RA4p10vG7lZ45hHh"
-      },
-      "artists": [
-        {
-          "name": "Tornillo",
-          "url": "https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL"
-        },
-        {
-          "name": "MC Davo",
-          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
-        }
-      ],
-      "duration_ms": 198500,
-      "name": "Tumbao",
-      "url": "https://open.spotify.com/track/6ztcwuxPlPOXoo9PG5ZhWE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Canciones Mamalonas",
         "url": "https://open.spotify.com/album/6OIteXjnMqe4RQT6QfWE3x"
       },
@@ -563,6 +543,26 @@
       "duration_ms": 268124,
       "name": "No Me Arrepiento (feat. Gera MX, Neto Pe\u00f1a, Santa Fe Klan)",
       "url": "https://open.spotify.com/track/6TVKrzgEE5b0TP5oVLeZLh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Estilo Fino",
+        "url": "https://open.spotify.com/album/4yblA3RA4p10vG7lZ45hHh"
+      },
+      "artists": [
+        {
+          "name": "Tornillo",
+          "url": "https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL"
+        },
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        }
+      ],
+      "duration_ms": 198500,
+      "name": "Tumbao",
+      "url": "https://open.spotify.com/track/6ztcwuxPlPOXoo9PG5ZhWE"
     },
     {
       "added_at": null,
@@ -703,6 +703,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Canciones Mamalonas",
+        "url": "https://open.spotify.com/album/6OIteXjnMqe4RQT6QfWE3x"
+      },
+      "artists": [
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        }
+      ],
+      "duration_ms": 202241,
+      "name": "Aunque Ya No Est\u00e9s",
+      "url": "https://open.spotify.com/track/4x5uhfmxxxXlO5LizTFyFm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "\u00bfC\u00f3mo Se Supera?",
         "url": "https://open.spotify.com/album/2y7fMhpx5uexdebjJEuNzF"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 203916,
       "name": "\u00bfC\u00f3mo Se Supera?",
       "url": "https://open.spotify.com/track/3YVgqw3Qw5GZGSiNXw7sd5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Canciones Mamalonas",
-        "url": "https://open.spotify.com/album/6OIteXjnMqe4RQT6QfWE3x"
-      },
-      "artists": [
-        {
-          "name": "MC Davo",
-          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
-        }
-      ],
-      "duration_ms": 202241,
-      "name": "Aunque Ya No Est\u00e9s",
-      "url": "https://open.spotify.com/track/4x5uhfmxxxXlO5LizTFyFm"
     },
     {
       "added_at": null,
@@ -835,6 +835,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Las 2 Caras",
+        "url": "https://open.spotify.com/album/7M04t4xMjE20Hv65mLUVlK"
+      },
+      "artists": [
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        },
+        {
+          "name": "C-Kan",
+          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
+        }
+      ],
+      "duration_ms": 205568,
+      "name": "Round 3 (feat. C-Kan)",
+      "url": "https://open.spotify.com/track/5J3VmVOxehILdyopYBKMpb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Se Arm\u00f3 La Peda",
         "url": "https://open.spotify.com/album/5sLjhIYq6Fl3HdbR976mwZ"
       },
@@ -855,26 +875,6 @@
       "duration_ms": 146076,
       "name": "Se Arm\u00f3 La Peda",
       "url": "https://open.spotify.com/track/48eey3rJEMC2eQvVn6Cd6k"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Las 2 Caras",
-        "url": "https://open.spotify.com/album/7M04t4xMjE20Hv65mLUVlK"
-      },
-      "artists": [
-        {
-          "name": "MC Davo",
-          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
-        },
-        {
-          "name": "C-Kan",
-          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
-        }
-      ],
-      "duration_ms": 205568,
-      "name": "Round 3 (feat. C-Kan)",
-      "url": "https://open.spotify.com/track/5J3VmVOxehILdyopYBKMpb"
     },
     {
       "added_at": null,

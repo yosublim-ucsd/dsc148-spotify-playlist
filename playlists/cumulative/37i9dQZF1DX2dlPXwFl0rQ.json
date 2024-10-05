@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-21",
-  "description": "Estas son las indomables de la M\u00fasica Mexicana. Majo Aguilar en portada.",
+  "description": "Estas son las indomables de la M\u00fasica Mexicana. Karly B en portada.",
   "name": "Mujeres Brav\u00edas",
   "tracks": [
     {
@@ -517,6 +517,24 @@
     },
     {
       "album": {
+        "name": "Antes de Ti",
+        "url": "https://open.spotify.com/album/3xRcnSvQXy2zpTdmcJwKf5"
+      },
+      "artists": [
+        {
+          "name": "Delilah",
+          "url": "https://open.spotify.com/artist/5O2rJN2gJncIfM5iNSNiYR"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214552,
+      "name": "Antes de Ti",
+      "url": "https://open.spotify.com/track/0uzZEwZRambYj8Ar6RW3N1"
+    },
+    {
+      "album": {
         "name": "Antes Muertas Que Sencillas",
         "url": "https://open.spotify.com/album/0afOzI8hKSRU3QV0cdf0NO"
       },
@@ -568,6 +586,24 @@
       "duration_ms": 185781,
       "name": "Apur\u00e9 Mi Caf\u00e9 - Versi\u00f3n Mariachi",
       "url": "https://open.spotify.com/track/7tbablwEgks4a625msS2i2"
+    },
+    {
+      "album": {
+        "name": "Aquel Amor",
+        "url": "https://open.spotify.com/album/6TN76rkvZf5WtlcmTT50U4"
+      },
+      "artists": [
+        {
+          "name": "Evelyn Ozuna",
+          "url": "https://open.spotify.com/artist/3WOxDYEXZgUkddUFOeztYr"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157399,
+      "name": "Aquel Amor",
+      "url": "https://open.spotify.com/track/0Kj1mVW9Go2S7P1StdoP03"
     },
     {
       "album": {
@@ -773,6 +809,24 @@
     },
     {
       "album": {
+        "name": "Beyonce",
+        "url": "https://open.spotify.com/album/3NI6t8o1YTwIDdPMx3yGfR"
+      },
+      "artists": [
+        {
+          "name": "Ivonne Galaz",
+          "url": "https://open.spotify.com/artist/3YXGxdYldEXVVlCdCkFD5G"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166529,
+      "name": "Beyonce",
+      "url": "https://open.spotify.com/track/32n44FJQOYB4DPWiDfi1N3"
+    },
+    {
+      "album": {
         "name": "Blank Space (Hoja en Blanco)",
         "url": "https://open.spotify.com/album/3Rz0gBoMnPXqDDZNSEXZpK"
       },
@@ -784,10 +838,28 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 262008,
       "name": "Blank Space (Hoja en Blanco)",
       "url": "https://open.spotify.com/track/2SWQDV8OdSDdddsCWcUfqB"
+    },
+    {
+      "album": {
+        "name": "Bola de traviezos",
+        "url": "https://open.spotify.com/album/4iybnYN9TsaEJOTYRZnMYN"
+      },
+      "artists": [
+        {
+          "name": "Karly B",
+          "url": "https://open.spotify.com/artist/3PCKO6TlXIxF0T7l9NcsYr"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132645,
+      "name": "Bola de traviezos",
+      "url": "https://open.spotify.com/track/6Jrx0ateAS43r7f9ugzxr0"
     },
     {
       "album": {
@@ -1156,7 +1228,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 204453,
       "name": "Compa\u00f1era Presidenta",
       "url": "https://open.spotify.com/track/0p8TaudvyXLcM67ORslaSH"
@@ -2303,6 +2375,24 @@
     },
     {
       "album": {
+        "name": "Esa Mujer",
+        "url": "https://open.spotify.com/album/57pPuLYBt71Y19uqfWlvWt"
+      },
+      "artists": [
+        {
+          "name": "Lady Yuliana",
+          "url": "https://open.spotify.com/artist/3WLVEbpQIsYvDslZadgxO2"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197528,
+      "name": "Esa Mujer",
+      "url": "https://open.spotify.com/track/1jdXAgNLIoYMgoZXzjJbKj"
+    },
+    {
+      "album": {
         "name": "Ese Que Se Fue",
         "url": "https://open.spotify.com/album/45LFRWcT9sYCxge5srVwcf"
       },
@@ -3094,7 +3184,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 220243,
       "name": "La L\u00e1mpara",
       "url": "https://open.spotify.com/track/467gjKqJjBGHSiKquWQr9c"
@@ -3410,7 +3500,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 152768,
       "name": "Le Cale A Quien Le Cale",
       "url": "https://open.spotify.com/track/2nhM06RQQ8uY8s0JdCBKod"
@@ -3946,7 +4036,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 208445,
       "name": "Me Dijiste Que No",
       "url": "https://open.spotify.com/track/4ygYnIn4rwJ9qu1tPQiTPA"
@@ -4343,6 +4433,24 @@
     },
     {
       "album": {
+        "name": "Mi Error Favorito",
+        "url": "https://open.spotify.com/album/7AKo5rpVuep0oH1qIdDIQn"
+      },
+      "artists": [
+        {
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171426,
+      "name": "Mi Error Favorito",
+      "url": "https://open.spotify.com/track/3C7DC3vWa8YdvQxUT6uFBA"
+    },
+    {
+      "album": {
         "name": "L\u00e1grimas Y Lluvia",
         "url": "https://open.spotify.com/album/0ywi9PitwQ7nM7HraF09QK"
       },
@@ -4506,7 +4614,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 126365,
       "name": "Miro La Luna",
       "url": "https://open.spotify.com/track/0RsVM5ATSvbtpB0naldCXp"
@@ -4596,10 +4704,46 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 145962,
       "name": "Mujeres al Tiro",
       "url": "https://open.spotify.com/track/5xQKTTsrltk1SBrWTGjzD8"
+    },
+    {
+      "album": {
+        "name": "M\u00e1s Que Un Rolex",
+        "url": "https://open.spotify.com/album/15Zw9lOyNpsVMAuujnLKRh"
+      },
+      "artists": [
+        {
+          "name": "Brianda",
+          "url": "https://open.spotify.com/artist/61LNM8cDiz5ozA8BbUi7Hf"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209610,
+      "name": "M\u00e1s Que Un Rolex",
+      "url": "https://open.spotify.com/track/6MMncjTGNQewjmTPEHATtO"
+    },
+    {
+      "album": {
+        "name": "NAC\u00cd PA CORONAR",
+        "url": "https://open.spotify.com/album/4nxAttMtUUuAcdmipG544Q"
+      },
+      "artists": [
+        {
+          "name": "Sofi Pi\u00f1an",
+          "url": "https://open.spotify.com/artist/1EsfYkUgGUHynHwA6j4dMH"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184006,
+      "name": "NAC\u00cd PA CORONAR",
+      "url": "https://open.spotify.com/track/04KdeYUniYsBPDibppKl3Q"
     },
     {
       "album": {
@@ -6386,7 +6530,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 203093,
       "name": "Qu\u00e9date",
       "url": "https://open.spotify.com/track/3uwZWvCoFKldnlCiTBn5vi"
@@ -6570,6 +6714,24 @@
       "duration_ms": 213428,
       "name": "Say Something",
       "url": "https://open.spotify.com/track/2lSxeetRgtPeFU67Rh5IIC"
+    },
+    {
+      "album": {
+        "name": "Se Cancela La Llorada",
+        "url": "https://open.spotify.com/album/3MYlwwArC8cmf8ZpQcVaCv"
+      },
+      "artists": [
+        {
+          "name": "Camila Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Se Cancela La Llorada",
+      "url": "https://open.spotify.com/track/0Ny58e3o3Q2OtxidYpzAi1"
     },
     {
       "album": {
@@ -7498,7 +7660,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 177893,
       "name": "Una Vida",
       "url": "https://open.spotify.com/track/760FIaj8goTswBMMzezp2n"

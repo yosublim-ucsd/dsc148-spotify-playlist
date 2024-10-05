@@ -4,7 +4,7 @@
 
 > Celebrate the holiday season in style with this timeless playlist of Xmas favorites old and new! Merry Christmas, Feliz Navidad, Joyeux Noël, Maligayang Pasko, Fröhliche Weihnachten, God Jul 🎄
 
-113 songs - 5 hr 55 min
+114 songs - 5 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,7 +90,7 @@
 | [Santa Baby](https://open.spotify.com/track/1TQGYhufxXY1YiYjI3gdSd) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [100 Greatest Christmas Songs Ever](https://open.spotify.com/album/6TDpQggB88X230Srv1fkSq) | 3:21 | 2023-12-09 |  |
 | [Santa Claus Is Coming to Town](https://open.spotify.com/track/5OzT0TU1E9CQu7UgtG85Gc) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [100 Greatest Christmas Songs Ever](https://open.spotify.com/album/6TDpQggB88X230Srv1fkSq) | 2:15 | 2023-12-09 |  |
 | [Santa Tell Me](https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Santa Tell Me](https://open.spotify.com/album/27MNgBEnLCKoafz1g2Zu97) | 3:24 | 2023-12-09 |  |
-| [Santa Tell Me](https://open.spotify.com/track/07Zk7BhwZjJQDemcWymMzF) | [Jordyn Shellhart](https://open.spotify.com/artist/4KKlcB7shlFTD98I5JNSuE) | [Cross\-Legged By The Fireplace](https://open.spotify.com/album/1y666doEpQiMtIYBo8Tzgi) | 2:52 | 2023-12-09 |  |
+| [Santa Tell Me](https://open.spotify.com/track/07Zk7BhwZjJQDemcWymMzF) | [Jordyn Shellhart](https://open.spotify.com/artist/4KKlcB7shlFTD98I5JNSuE) | [Cross\-Legged By The Fireplace](https://open.spotify.com/album/1y666doEpQiMtIYBo8Tzgi) | 2:52 | 2023-12-09 | 2024-10-05 |
 | [Santa's Coming for Us](https://open.spotify.com/track/6VO2CWVFBZEzcm1c6mToaM) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [100 Greatest Christmas Songs Ever](https://open.spotify.com/album/6TDpQggB88X230Srv1fkSq) | 3:25 | 2023-12-09 |  |
 | [Santa, Can’t You Hear Me](https://open.spotify.com/track/2O3MQ6H3gjrIWDcpeTrikT) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [When Christmas Comes Around...](https://open.spotify.com/album/5sVFXIMrFRKBtDOexVlBBU) | 4:02 | 2024-08-19 |  |
 | [Santa, Can’t You Hear Me](https://open.spotify.com/track/3H2Rbn00i0fDlJyQI5gcOD) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [100 Greatest Christmas Songs Ever](https://open.spotify.com/album/6TDpQggB88X230Srv1fkSq) | 4:02 | 2023-12-09 | 2024-08-20 |
@@ -101,6 +101,7 @@
 | [Someday at Christmas](https://open.spotify.com/track/06x8nkpEpJjV08EQj43v2d) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Someday at Christmas](https://open.spotify.com/album/5kZrwHikVD399t9tma5Xza) | 2:57 | 2023-12-09 |  |
 | [Stay Another Day](https://open.spotify.com/track/4wYCe9tSmUolNU4WmJKbZy) | [East 17](https://open.spotify.com/artist/6lOC7lwSO1ql4Gc2Y3QObY) | [Steam](https://open.spotify.com/album/1HsKmkuzfcU57zh70og7Wd) | 4:27 | 2023-12-09 |  |
 | [Step into Christmas](https://open.spotify.com/track/2xY094hXsCMKC7tqUsTFzW) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [X\-mas](https://open.spotify.com/album/28NRSDWFek3KRsEMb7AyAq) | 4:29 | 2023-12-09 |  |
+| [Take Me Home For Christmas](https://open.spotify.com/track/72HP2M4jjw4t0AIGdEVGEF) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Take Me Home For Christmas](https://open.spotify.com/album/5nzOzmqaWGkrlfWfk9Jrfh) | 3:23 | 2024-10-04 |  |
 | [Tangled in Tinsel](https://open.spotify.com/track/7yAs6GOr6RKjfinavy167N) | [Jessie James Decker](https://open.spotify.com/artist/0GzIauSfKRc5BlNXpTWAGz) | [Christmas Songs and Holiday Music](https://open.spotify.com/album/3UO62uREBii6wm3R3kX3vk) | 3:25 | 2023-12-09 |  |
 | [The Christmas Song](https://open.spotify.com/track/4SWAozNLRfZXF25ghKqm2q) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Christmas \(Deluxe Special Edition\)](https://open.spotify.com/album/7uVimUILdzSZG4KKKWToq0) | 4:18 | 2023-12-09 |  |
 | [The Christmas Stick](https://open.spotify.com/track/7roxhEz0gRoyWzvZdgKSeY) | [Bubble & Squeak](https://open.spotify.com/artist/2ntb4uNltWuDZdPd0xNOYC) | [The Christmas Stick](https://open.spotify.com/album/2lhrxeEOVmfOzhIFiLMTkE) | 3:38 | 2023-12-24 |  |

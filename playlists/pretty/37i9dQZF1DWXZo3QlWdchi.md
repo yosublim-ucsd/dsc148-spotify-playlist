@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXZo3QlWdchi.md) - [plain]
 
 > O melhor do rock acústico nacional e internacional para curtir e relaxar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 306,723 likes - 75 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 306,745 likes - 75 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXZo3QlWdchi.md) - [plain]
 | 25 | [Só por hoje / Tenis Roque](https://open.spotify.com/track/4PY23WVDXuHDHwhg0P7PDq) | [Detonautas Roque Clube](https://open.spotify.com/artist/5AlUDdksfPP7l4Qm22MJA9) | [Detonautas Acústico](https://open.spotify.com/album/0wmqgQTtS74RuTwQeR2RL3) | 4:37 |
 | 26 | [Wicked Game \- Acoustic; Live](https://open.spotify.com/track/6UFhNbE4sLRUoM52kC4Xl4) | [Stone Sour](https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF) | [Come What\(ever\) May \[Special Edition\]](https://open.spotify.com/album/5eHk89PNorMd7e4wyxYiUV) | 4:27 |
 | 27 | [Do Seu Lado \- Acústico](https://open.spotify.com/track/3wYP8mfPEMBmCjT3DcG2la) | [Jota Quest](https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6) | [Acústico Jota Quest](https://open.spotify.com/album/5op3qEsyQ81iVROB97nWd9) | 5:23 |
-| 28 | [Big Jet Plane \- Acoustic](https://open.spotify.com/track/4ZHJU9kCqZK6a39YXIZFxc) | [Zeeba](https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK) | [Big Jet Plane \(Acoustic\)](https://open.spotify.com/album/1fTbvUUJNJ1LiX4C0akX9e) | 2:29 |
-| 29 | [Plush \- Live; MTV Unplugged, 11/17/93](https://open.spotify.com/track/1byoTlWVdu5MqeaoKgdRhZ) | [Stone Temple Pilots](https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z) | [Core \(Super Deluxe Edition\)](https://open.spotify.com/album/5kxuokOacguIqDJRh1ZXRC) | 5:46 |
+| 28 | [Plush \- Live; MTV Unplugged, 11/17/93](https://open.spotify.com/track/1byoTlWVdu5MqeaoKgdRhZ) | [Stone Temple Pilots](https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z) | [Core \(Super Deluxe Edition\)](https://open.spotify.com/album/5kxuokOacguIqDJRh1ZXRC) | 5:46 |
+| 29 | [Big Jet Plane \- Acoustic](https://open.spotify.com/track/4ZHJU9kCqZK6a39YXIZFxc) | [Zeeba](https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK) | [Big Jet Plane \(Acoustic\)](https://open.spotify.com/album/1fTbvUUJNJ1LiX4C0akX9e) | 2:29 |
 | 30 | [Retrograde](https://open.spotify.com/track/2D68wN3hwEZFdeui0c5Ar6) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Gigaton](https://open.spotify.com/album/5bTixyz2GHx1YUqNUdzfut) | 5:22 |
 | 31 | [Ignorance \- Acoustic](https://open.spotify.com/track/2fW669XemOdBBStneImx2g) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Ignorance](https://open.spotify.com/album/3yrzFvMY394se6kudvIfwv) | 3:40 |
 | 32 | [Aposta \- Ao Vivo](https://open.spotify.com/track/0lXUZraUXsJbi6zLHUNWkG) | [Detonautas Roque Clube](https://open.spotify.com/artist/5AlUDdksfPP7l4Qm22MJA9) | [Acústico 20 Anos \- O Amor Não Tem Inimigos, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/3LTygGSVzMpi4sgAoCxPPJ) | 3:35 |

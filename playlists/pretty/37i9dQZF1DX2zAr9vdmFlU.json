@@ -1,6 +1,6 @@
 {
   "description": "You bring the ingredients, we bring the flavor. Enjoy la cena...",
-  "num_followers": 435013,
+  "num_followers": 435046,
   "original_name": "Latin Dinner",
   "owner": {
     "name": "Spotify",
@@ -63,6 +63,22 @@
     {
       "added_at": "2024-09-23 22:08:49",
       "album": {
+        "name": "CANTO A LA VIDA",
+        "url": "https://open.spotify.com/album/78SK9hrSR8KZ9Gi6cvq27n"
+      },
+      "artists": [
+        {
+          "name": "Fonseca",
+          "url": "https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP"
+        }
+      ],
+      "duration_ms": 205293,
+      "name": "CANTO A LA VIDA",
+      "url": "https://open.spotify.com/track/3QBF5mHQJbs8Z2ByPHWn7y"
+    },
+    {
+      "added_at": "2024-09-23 22:08:49",
+      "album": {
         "name": "Grecia",
         "url": "https://open.spotify.com/album/0NDZTKw6MgExSektZolu8S"
       },
@@ -83,22 +99,6 @@
       "duration_ms": 200118,
       "name": "Grecia",
       "url": "https://open.spotify.com/track/6OTGRlCpPGMpPM96g62d2R"
-    },
-    {
-      "added_at": "2024-09-23 22:08:49",
-      "album": {
-        "name": "CANTO A LA VIDA",
-        "url": "https://open.spotify.com/album/78SK9hrSR8KZ9Gi6cvq27n"
-      },
-      "artists": [
-        {
-          "name": "Fonseca",
-          "url": "https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP"
-        }
-      ],
-      "duration_ms": 205293,
-      "name": "CANTO A LA VIDA",
-      "url": "https://open.spotify.com/track/3QBF5mHQJbs8Z2ByPHWn7y"
     },
     {
       "added_at": "2024-09-23 22:08:49",
@@ -867,26 +867,6 @@
     {
       "added_at": "2024-09-23 22:08:49",
       "album": {
-        "name": "Versus (EP)",
-        "url": "https://open.spotify.com/album/6fgxUYxx6bFiXASvLzUBFw"
-      },
-      "artists": [
-        {
-          "name": "Palenke Soultribe",
-          "url": "https://open.spotify.com/artist/4WGdIlBeHU97hLsYbXkkWA"
-        },
-        {
-          "name": "Louis Towers",
-          "url": "https://open.spotify.com/artist/4AXeE39BJVhTXxKMVdF2Lc"
-        }
-      ],
-      "duration_ms": 258373,
-      "name": "El Liso (feat. Luis Towers)",
-      "url": "https://open.spotify.com/track/42dfjFDLaDrWIjFZWzQrsm"
-    },
-    {
-      "added_at": "2024-09-23 22:08:49",
-      "album": {
         "name": "Tiene Sabor",
         "url": "https://open.spotify.com/album/5B5XX53acuLFw8JHXK1UU2"
       },
@@ -903,6 +883,26 @@
       "duration_ms": 240562,
       "name": "Tiene Sabor",
       "url": "https://open.spotify.com/track/56zLMDP0ZacyFkQwxHz8yr"
+    },
+    {
+      "added_at": "2024-09-23 22:08:49",
+      "album": {
+        "name": "Versus (EP)",
+        "url": "https://open.spotify.com/album/6fgxUYxx6bFiXASvLzUBFw"
+      },
+      "artists": [
+        {
+          "name": "Palenke Soultribe",
+          "url": "https://open.spotify.com/artist/4WGdIlBeHU97hLsYbXkkWA"
+        },
+        {
+          "name": "Louis Towers",
+          "url": "https://open.spotify.com/artist/4AXeE39BJVhTXxKMVdF2Lc"
+        }
+      ],
+      "duration_ms": 258373,
+      "name": "El Liso (feat. Luis Towers)",
+      "url": "https://open.spotify.com/track/42dfjFDLaDrWIjFZWzQrsm"
     },
     {
       "added_at": "2024-09-23 22:08:49",
@@ -943,22 +943,6 @@
     {
       "added_at": "2024-09-23 22:08:49",
       "album": {
-        "name": "La Marisoul & The Love Notes Orchestra (Vol. 1)",
-        "url": "https://open.spotify.com/album/2qyiE3MTlsNaBqvzEBSilO"
-      },
-      "artists": [
-        {
-          "name": "La Marisoul",
-          "url": "https://open.spotify.com/artist/71thoyIIWlcK2fL2dCSsCE"
-        }
-      ],
-      "duration_ms": 162986,
-      "name": "Un Telegrama",
-      "url": "https://open.spotify.com/track/0QfwW9zDu9glbBLMITa754"
-    },
-    {
-      "added_at": "2024-09-23 22:08:49",
-      "album": {
         "name": "El Caudal",
         "url": "https://open.spotify.com/album/57zjLKLycEw9ezNKgXBDtI"
       },
@@ -979,6 +963,22 @@
     {
       "added_at": "2024-09-23 22:08:49",
       "album": {
+        "name": "La Marisoul & The Love Notes Orchestra (Vol. 1)",
+        "url": "https://open.spotify.com/album/2qyiE3MTlsNaBqvzEBSilO"
+      },
+      "artists": [
+        {
+          "name": "La Marisoul",
+          "url": "https://open.spotify.com/artist/71thoyIIWlcK2fL2dCSsCE"
+        }
+      ],
+      "duration_ms": 162986,
+      "name": "Un Telegrama",
+      "url": "https://open.spotify.com/track/0QfwW9zDu9glbBLMITa754"
+    },
+    {
+      "added_at": "2024-09-23 22:08:49",
+      "album": {
         "name": "Esperando Verte",
         "url": "https://open.spotify.com/album/1DizlzrJAt2J6CdekDpyMT"
       },
@@ -991,26 +991,6 @@
       "duration_ms": 232853,
       "name": "Esperando Verte",
       "url": "https://open.spotify.com/track/7xRafouoS2J7SYgaURkJjx"
-    },
-    {
-      "added_at": "2024-09-23 22:08:49",
-      "album": {
-        "name": "Las Flores",
-        "url": "https://open.spotify.com/album/0gweUoGXGMkvgnVljTr0tu"
-      },
-      "artists": [
-        {
-          "name": "Lorena Blume",
-          "url": "https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W"
-        },
-        {
-          "name": "Alex Ferreira",
-          "url": "https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7"
-        }
-      ],
-      "duration_ms": 355019,
-      "name": "Las Flores",
-      "url": "https://open.spotify.com/track/7J0y2DmQmiHKuDxiu3xKk3"
     },
     {
       "added_at": "2024-09-23 22:08:49",
@@ -1031,6 +1011,26 @@
       "duration_ms": 227736,
       "name": "Maybe Baby",
       "url": "https://open.spotify.com/track/0qKCO9DXAH7kqc2JF3U5jd"
+    },
+    {
+      "added_at": "2024-09-23 22:08:49",
+      "album": {
+        "name": "Las Flores",
+        "url": "https://open.spotify.com/album/0gweUoGXGMkvgnVljTr0tu"
+      },
+      "artists": [
+        {
+          "name": "Lorena Blume",
+          "url": "https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W"
+        },
+        {
+          "name": "Alex Ferreira",
+          "url": "https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7"
+        }
+      ],
+      "duration_ms": 355019,
+      "name": "Las Flores",
+      "url": "https://open.spotify.com/track/7J0y2DmQmiHKuDxiu3xKk3"
     },
     {
       "added_at": "2024-09-23 22:08:49",
@@ -1367,6 +1367,22 @@
     {
       "added_at": "2024-09-23 22:08:49",
       "album": {
+        "name": "Rosalie (Espa\u00f1ol)",
+        "url": "https://open.spotify.com/album/67GSrPEYXBDbUL3QJB5eVk"
+      },
+      "artists": [
+        {
+          "name": "Lewis Del Mar",
+          "url": "https://open.spotify.com/artist/2oqwwcM17wrP9hBD25zKSR"
+        }
+      ],
+      "duration_ms": 258845,
+      "name": "Rosalie (Espa\u00f1ol)",
+      "url": "https://open.spotify.com/track/40Kms8jOb2c1fFcCWEoc9O"
+    },
+    {
+      "added_at": "2024-09-23 22:08:49",
+      "album": {
         "name": "Ag\u00fcita de Coco",
         "url": "https://open.spotify.com/album/57BymNURM2SQpLtCzedXtx"
       },
@@ -1383,22 +1399,6 @@
       "duration_ms": 153208,
       "name": "Ag\u00fcita de Coco",
       "url": "https://open.spotify.com/track/1N5jZ3y5O2AMtcw1iggw76"
-    },
-    {
-      "added_at": "2024-09-23 22:08:49",
-      "album": {
-        "name": "Rosalie (Espa\u00f1ol)",
-        "url": "https://open.spotify.com/album/67GSrPEYXBDbUL3QJB5eVk"
-      },
-      "artists": [
-        {
-          "name": "Lewis Del Mar",
-          "url": "https://open.spotify.com/artist/2oqwwcM17wrP9hBD25zKSR"
-        }
-      ],
-      "duration_ms": 258845,
-      "name": "Rosalie (Espa\u00f1ol)",
-      "url": "https://open.spotify.com/track/40Kms8jOb2c1fFcCWEoc9O"
     },
     {
       "added_at": "2024-09-23 22:08:49",
@@ -1731,22 +1731,6 @@
     {
       "added_at": "2024-09-23 22:08:49",
       "album": {
-        "name": "Refresco, Vol.1: Cheo Goes Latin",
-        "url": "https://open.spotify.com/album/4Siqpa4ZeRsU8lCuCkr1yf"
-      },
-      "artists": [
-        {
-          "name": "Cheo",
-          "url": "https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG"
-        }
-      ],
-      "duration_ms": 224051,
-      "name": "Happy ending",
-      "url": "https://open.spotify.com/track/25zVytp42AZHoJ4PBiaXvo"
-    },
-    {
-      "added_at": "2024-09-23 22:08:49",
-      "album": {
         "name": "Today Ma\u00f1ana",
         "url": "https://open.spotify.com/album/0jiYxu7xEHUUYXkGNtrO9M"
       },
@@ -1775,6 +1759,22 @@
       "duration_ms": 334875,
       "name": "Picadillo",
       "url": "https://open.spotify.com/track/3F69z89dC8NVDaWzcMwzAE"
+    },
+    {
+      "added_at": "2024-09-23 22:08:49",
+      "album": {
+        "name": "Refresco, Vol.1: Cheo Goes Latin",
+        "url": "https://open.spotify.com/album/4Siqpa4ZeRsU8lCuCkr1yf"
+      },
+      "artists": [
+        {
+          "name": "Cheo",
+          "url": "https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG"
+        }
+      ],
+      "duration_ms": 224051,
+      "name": "Happy ending",
+      "url": "https://open.spotify.com/track/25zVytp42AZHoJ4PBiaXvo"
     },
     {
       "added_at": "2024-09-23 22:08:49",

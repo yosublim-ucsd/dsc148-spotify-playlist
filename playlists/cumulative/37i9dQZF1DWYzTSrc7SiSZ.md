@@ -4,7 +4,7 @@
 
 > Get the chill vibes going and flowing ✨ Las vibras tranqui que ocupas en tu vida.
 
-284 songs - 15 hr 18 min
+285 songs - 15 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,7 +142,7 @@
 | [lo que hay x aquí](https://open.spotify.com/track/5IlLm20JXhKbMtsH20NblC) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [lo que hay x aquí](https://open.spotify.com/album/28MEC53zcdE731x6FX3Hsm) | 2:35 | 2023-03-10 | 2023-05-06 |
 | [Lonely](https://open.spotify.com/track/3Mcu3bSlSYJkckbZ1FpfEB) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [Lonely](https://open.spotify.com/album/5kGzldKUiSGTRkINcNQ6tC) | 3:33 | 2022-05-20 | 2024-07-08 |
 | [lovin kind](https://open.spotify.com/track/1KvcOHuYfTIUhe1bYBR4pY) | [Isabela Merced](https://open.spotify.com/artist/2bIxak1AAD8wlDfMLnumUj) | [the better half of me](https://open.spotify.com/album/3YFDPOp9da0GFHeIHEuOSj) | 3:00 | 2022-05-20 | 2022-10-28 |
-| [Lucecita](https://open.spotify.com/track/1IRjqq6J32F79HUwYvwYHH) | [Pedrina](https://open.spotify.com/artist/7BdQWt4FjHEvmTH6jmaJd1) | [Lucecita](https://open.spotify.com/album/77X5kJMyiM5s1djOOXd2pX) | 2:45 | 2024-05-31 |  |
+| [Lucecita](https://open.spotify.com/track/1IRjqq6J32F79HUwYvwYHH) | [Pedrina](https://open.spotify.com/artist/7BdQWt4FjHEvmTH6jmaJd1) | [Lucecita](https://open.spotify.com/album/77X5kJMyiM5s1djOOXd2pX) | 2:45 | 2024-05-31 | 2024-10-05 |
 | [Luna](https://open.spotify.com/track/0f2DEUij8dwnb0tRvQDPwM) | [JAY MAX](https://open.spotify.com/artist/5F3YqWoW1LxM0Hf1b9zocr) | [ULTRA MAX](https://open.spotify.com/album/6Uf8IXBieYnJpZkOOIipdK) | 3:38 | 2023-02-10 | 2023-03-27 |
 | [Luna Nueva](https://open.spotify.com/track/0SvxXdM7sXZkG2Kf4eolcO) | [Limón Blue](https://open.spotify.com/artist/0YeHlqFonWybi5ErjP8wV0) | [Luna Nueva](https://open.spotify.com/album/2a3UaDCE1QsdZQJQpZhORL) | 3:43 | 2024-08-09 | 2024-09-22 |
 | [M.A.I](https://open.spotify.com/track/35ttE4t8lQZA2vuCYDg4G7) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [111](https://open.spotify.com/album/338cbfABt3duRORfvNeqLT) | 3:04 | 2024-02-02 | 2024-05-11 |
@@ -231,6 +231,7 @@
 | [Reconciliados](https://open.spotify.com/track/1udMSoGRgHpRvPMqCuc4m2) | [Samantha Sánchez](https://open.spotify.com/artist/1GhW0GVy12AcLQc5kA14PJ) | [Reconciliados](https://open.spotify.com/album/35XiSHghDUxUBzj7oXDau3) | 2:49 | 2022-05-20 |  |
 | [Refugio](https://open.spotify.com/track/2XHOcpj3XkYsv9aa4inXVQ) | [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ), [Fer Casillas](https://open.spotify.com/artist/1zl3p4VBfqqHGikw3Ad46R) | [Refugio](https://open.spotify.com/album/6rb0q66fl0KXNB9SXW5Ycc) | 3:50 | 2022-05-20 | 2023-03-11 |
 | [REM](https://open.spotify.com/track/2rLHjGObK4sfhIatgR6l6h) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [REM](https://open.spotify.com/album/5fW2F8q05MQh5jxCYpVgTX) | 3:39 | 2024-05-10 | 2024-07-03 |
+| [Respirar](https://open.spotify.com/track/3zqFGAAZScGyrsiMuYtMOi) | [Yorka](https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn), [Mylo B](https://open.spotify.com/artist/6HA81pnwUy8Hh3XueOsig8) | [Respirar](https://open.spotify.com/album/1Fyv3RDkDtxR7UrF7zXQIw) | 2:47 | 2024-09-20 |  |
 | [RIO](https://open.spotify.com/track/0OF8EmVU6D8bEdSS0eJtCB) | [CARMEN MARÍA](https://open.spotify.com/artist/3Mq6h69Nv434ZL6wTlEzSn) | [RIO](https://open.spotify.com/album/0qoMSm1kpFmBKiUfNRwcZ7) | 3:35 | 2024-01-12 |  |
 | [robusta](https://open.spotify.com/track/22B3ckVP0ELBQUdAhHySEe) | [iced latte](https://open.spotify.com/artist/5WT2j29ajCAxsK10dqksg2) | [robusta](https://open.spotify.com/album/04UNh2Lb7c5RYDcQMEe7dP) | 2:18 | 2024-04-19 |  |
 | [Romancera](https://open.spotify.com/track/4HED7T9WqduhZ6TgMl7ugE) | [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [Romancera](https://open.spotify.com/album/427UD26U4IkJqIUicqVMZ9) | 3:52 | 2024-05-10 |  |

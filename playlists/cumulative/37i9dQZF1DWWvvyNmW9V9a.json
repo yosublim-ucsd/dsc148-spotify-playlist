@@ -6262,7 +6262,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 225973,
       "name": "Close To You",
       "url": "https://open.spotify.com/track/5MPi9e7z46wopyad10R6qx"
@@ -8068,7 +8068,7 @@
       ],
       "date_added": "2024-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 152760,
       "name": "Disco",
       "url": "https://open.spotify.com/track/2Lumsra3kuU61wXkEKzKaK"
@@ -9096,7 +9096,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 149683,
       "name": "Erase You",
       "url": "https://open.spotify.com/track/6FATUHeXuMpHg0u0UPnVD5"
@@ -9198,6 +9198,24 @@
       "duration_ms": 184617,
       "name": "Espresso - triple j Like A Version",
       "url": "https://open.spotify.com/track/0A4C1zlDJIA4ZBlAZFqA3s"
+    },
+    {
+      "album": {
+        "name": "NewJeans 2nd EP 'Get Up'",
+        "url": "https://open.spotify.com/album/4N1fROq2oeyLGAlQ1C1j18"
+      },
+      "artists": [
+        {
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151373,
+      "name": "ETA",
+      "url": "https://open.spotify.com/track/56v8WEnGzLByGsDAXDiv4d"
     },
     {
       "album": {
@@ -11931,6 +11949,28 @@
     },
     {
       "album": {
+        "name": "Happy Ever After",
+        "url": "https://open.spotify.com/album/6LK0kNhlz19MhiTuxWkOIl"
+      },
+      "artists": [
+        {
+          "name": "Zach Hood",
+          "url": "https://open.spotify.com/artist/5aHlyw2WWqZW0HLICBuv7U"
+        },
+        {
+          "name": "ROSIE",
+          "url": "https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200439,
+      "name": "Happy Ever After",
+      "url": "https://open.spotify.com/track/4PbUHeQucvx6RvlhRkMJII"
+    },
+    {
+      "album": {
         "name": "happy f***ing birthday",
         "url": "https://open.spotify.com/album/7AJV5iSnexDnam2InfRQNR"
       },
@@ -13804,7 +13844,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 249003,
       "name": "I Hope It Hurts",
       "url": "https://open.spotify.com/track/3MGrDQiB3KrfPELCzOJlE2"
@@ -16054,7 +16094,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 122360,
       "name": "KEHLANI",
       "url": "https://open.spotify.com/track/2hrycoFU1mZw6YPvMcn8yC"
@@ -18867,6 +18907,24 @@
     },
     {
       "album": {
+        "name": "MEOW",
+        "url": "https://open.spotify.com/album/7mtt73Ch1hIRXT5qScF4s5"
+      },
+      "artists": [
+        {
+          "name": "MEOVV",
+          "url": "https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172073,
+      "name": "MEOW",
+      "url": "https://open.spotify.com/track/72gPDy1zVt95zVNali0IhK"
+    },
+    {
+      "album": {
         "name": "THINK LATER",
         "url": "https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE"
       },
@@ -18882,6 +18940,24 @@
       "duration_ms": 237191,
       "name": "messier",
       "url": "https://open.spotify.com/track/53H3ajzHjI5M9ZeewvRO3h"
+    },
+    {
+      "album": {
+        "name": "Messy",
+        "url": "https://open.spotify.com/album/2QWd1BsO7J0zLwxhsKl3zh"
+      },
+      "artists": [
+        {
+          "name": "Lola Young",
+          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284068,
+      "name": "Messy",
+      "url": "https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2"
     },
     {
       "album": {
@@ -19231,6 +19307,24 @@
     },
     {
       "album": {
+        "name": "Moonlit Floor",
+        "url": "https://open.spotify.com/album/2F84s5tvr9RSS6VI772mVb"
+      },
+      "artists": [
+        {
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155757,
+      "name": "Moonlit Floor",
+      "url": "https://open.spotify.com/track/3yDRcs0Y4pPzkvMbUfeF9H"
+    },
+    {
+      "album": {
         "name": "Morning Sex",
         "url": "https://open.spotify.com/album/6nPjdP4pjRIItNMnu9DSLQ"
       },
@@ -19550,6 +19644,24 @@
       "duration_ms": 219642,
       "name": "Mu\u00f1ekita (with El Alfa & JT)",
       "url": "https://open.spotify.com/track/4PzxlHzDM3bDafkHjg1XCX"
+    },
+    {
+      "album": {
+        "name": "In My Bones",
+        "url": "https://open.spotify.com/album/71SOQSZ4pKoTkwq86AJUxT"
+      },
+      "artists": [
+        {
+          "name": "Baby Bugs",
+          "url": "https://open.spotify.com/artist/3TBTcHpZ3aV1g8rk8i1zb5"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145938,
+      "name": "My Corpse Friend",
+      "url": "https://open.spotify.com/track/1wfwCZIj2bkXUNuZCMkQlQ"
     },
     {
       "album": {
@@ -21090,7 +21202,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 185800,
       "name": "one before the one",
       "url": "https://open.spotify.com/track/0IveFmA4WZfTIhp6uoANDO"
@@ -21214,6 +21326,24 @@
       "duration_ms": 181481,
       "name": "One Of Your Girls",
       "url": "https://open.spotify.com/track/1Fav4xZn60uGM3XmiHJmvT"
+    },
+    {
+      "album": {
+        "name": "One On One",
+        "url": "https://open.spotify.com/album/5P4LHmJvYMQmBRuRIesoDr"
+      },
+      "artists": [
+        {
+          "name": "AJ Mitchell",
+          "url": "https://open.spotify.com/artist/6dn6x1XOng3LOAnfTjUn77"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "One On One",
+      "url": "https://open.spotify.com/track/0dX6TCuCSb5vtqtmNekXec"
     },
     {
       "album": {
@@ -21584,6 +21714,24 @@
       "duration_ms": 147354,
       "name": "PANIC ATTACK",
       "url": "https://open.spotify.com/track/4WMuO95Swpnr2cShFGxmgI"
+    },
+    {
+      "album": {
+        "name": "PANIC ATTACK",
+        "url": "https://open.spotify.com/album/3CNRa6ky0qtoGT9Huz7yK1"
+      },
+      "artists": [
+        {
+          "name": "PEGGY",
+          "url": "https://open.spotify.com/artist/1E6ADXoD9nUhFEwKgwjEdh"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140454,
+      "name": "PANIC ATTACK",
+      "url": "https://open.spotify.com/track/2eedk1GWWMQddPLcGdMnqW"
     },
     {
       "album": {
@@ -22925,6 +23073,24 @@
     },
     {
       "album": {
+        "name": "Pushing It Down and Praying",
+        "url": "https://open.spotify.com/album/6bfpmfxEWqXsQHU9xc553O"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234076,
+      "name": "Pushing It Down and Praying",
+      "url": "https://open.spotify.com/track/4wO2JlPZw72Xlu6dGUW4Ce"
+    },
+    {
+      "album": {
         "name": "Queen B",
         "url": "https://open.spotify.com/album/1ZVA1NqFokcoRaxVJ9CKQz"
       },
@@ -24158,7 +24324,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 183189,
       "name": "Scumbag",
       "url": "https://open.spotify.com/track/5NJQHLtg873KNDOUJS6Ga0"
@@ -25553,6 +25719,24 @@
     },
     {
       "album": {
+        "name": "THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY",
+        "url": "https://open.spotify.com/album/5H7ixXZfsNMGbIE5OBSpcb"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228800,
+      "name": "So High School",
+      "url": "https://open.spotify.com/track/7Mts0OfPorF4iwOomvfqn1"
+    },
+    {
+      "album": {
         "name": "THE TORTURED POETS DEPARTMENT",
         "url": "https://open.spotify.com/album/3f6e4wXxxi4ahqWsSU7OpT"
       },
@@ -25726,7 +25910,7 @@
       ],
       "date_added": "2024-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 300341,
       "name": "Somebody Else - Spotify Singles",
       "url": "https://open.spotify.com/track/5gMZytf2L5iBLiyBEaSAhh"
@@ -25834,7 +26018,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 190666,
       "name": "SOMETHING AIN'T RIGHT",
       "url": "https://open.spotify.com/track/4xzrnTQ0CVRj6LBisVyTum"
@@ -27006,6 +27190,24 @@
       "duration_ms": 163381,
       "name": "supernatural (with Troye Sivan)",
       "url": "https://open.spotify.com/track/3iJOkxYP59kFJ5OLgHo4Tp"
+    },
+    {
+      "album": {
+        "name": "eternal sunshine (slightly deluxe and also live)",
+        "url": "https://open.spotify.com/album/3L2iweH45rVdTBPldbY6dp"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163574,
+      "name": "supernatural - live version",
+      "url": "https://open.spotify.com/track/0FnkhFA4h80IYaYGgKFI2M"
     },
     {
       "album": {
@@ -28674,7 +28876,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 180816,
       "name": "the me i was",
       "url": "https://open.spotify.com/track/5CPsaOIdRdBROb4dvIfKfM"
@@ -29090,7 +29292,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 130332,
       "name": "They Know I'm Bored",
       "url": "https://open.spotify.com/track/7zKfjOLymdXIts4v18jqAw"
@@ -29780,7 +29982,7 @@
       ],
       "date_added": "2024-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 188828,
       "name": "Tough",
       "url": "https://open.spotify.com/track/22DH8NChecsgPxDjA4pqer"

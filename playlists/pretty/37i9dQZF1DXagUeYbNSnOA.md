@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 
 > The best new music by independent artists and labels, featuring MARTTEIN\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,452 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,448 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 4 | [no, gracias](https://open.spotify.com/track/4yMdNHASrVIrfyzvcnaT2I) | [elmalamía](https://open.spotify.com/artist/1SoXdL4dbR3tJudByWGLkM) | [lo que me queda](https://open.spotify.com/album/73QipU676KiGVghsD9nyMO) | 3:16 |
 | 5 | [Esa Morena](https://open.spotify.com/track/76kwOCNPsGRkGWweVDDSkp) | [SOLUNA](https://open.spotify.com/artist/6sIsLfY5y0OFtBSbSNEjmW), [DANDARA](https://open.spotify.com/artist/4K7qwv5pUgPFaORjdUQFb0), [risko](https://open.spotify.com/artist/76S9tWvZEynS5QanzUkkjw) | [Esa Morena](https://open.spotify.com/album/1syUTPbPz4fL7JZD6XKmM1) | 3:40 |
 | 6 | [No Lonely](https://open.spotify.com/track/6C6UCd0PJLPybJmBsFr1ku) | [Drea Dury](https://open.spotify.com/artist/7euT1r89ub1s001dTqp3gh) | [Palmera Nights](https://open.spotify.com/album/0DnRJFfuOdR2JaF8IbZ7Yy) | 2:47 |
-| 7 | [Alguna vez](https://open.spotify.com/track/67Z5u3NBr2LgZXdZQX3SEo) | [Dante Ouviña](https://open.spotify.com/artist/44gFucnvbxs6HCA6a7GDJ7) | [Alguna vez](https://open.spotify.com/album/5biZd6NpLQbyps5dDLffCI) | 3:08 |
+| 7 | [ALGUNA VEZ](https://open.spotify.com/track/67Z5u3NBr2LgZXdZQX3SEo) | [Dante Ouviña](https://open.spotify.com/artist/44gFucnvbxs6HCA6a7GDJ7) | [ALGUNA VEZ](https://open.spotify.com/album/5biZd6NpLQbyps5dDLffCI) | 3:08 |
 | 8 | [Por Ti](https://open.spotify.com/track/1WiFoaVh6ej98wwZSCmuK0) | [Limón Limón](https://open.spotify.com/artist/4MVAkLAHeIy5ZmDgonbn70), [Dahlia Lagos](https://open.spotify.com/artist/1ZmtWTPBlk0t83wRrxvSaJ) | [Monterrey](https://open.spotify.com/album/2Viq4yEa4BdirNE4E5yYAP) | 3:32 |
 | 9 | [No Te Vayas](https://open.spotify.com/track/2jUBJI2rdKGtVXqjKnuf5b) | [Paul Higgs](https://open.spotify.com/artist/0IomtauMPN6jngzrLsCb5V) | [No Te Vayas](https://open.spotify.com/album/4AN4iblZpIuH4xGM8NT4uT) | 2:24 |
 | 10 | [Pase Lo Que Pase](https://open.spotify.com/track/60qPcH0i1d3VGE0D4VfNvC) | [Christopher Uckermann](https://open.spotify.com/artist/1e1kozSBXGDbaKHnwApmFU) | [Pase Lo Que Pase](https://open.spotify.com/album/0IkmjZNczEQhiIySz5SdiS) | 2:46 |

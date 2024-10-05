@@ -1,6 +1,6 @@
 {
   "description": "Have a drink and relax to the Jazz played in the background in the bar.",
-  "num_followers": 122567,
+  "num_followers": 122749,
   "original_name": "Jazz Bar",
   "owner": {
     "name": "Spotify",
@@ -319,22 +319,6 @@
     {
       "added_at": "2024-06-03 15:00:13",
       "album": {
-        "name": "Winners",
-        "url": "https://open.spotify.com/album/5t0NxBH6oTG4ycs7l7Qtgr"
-      },
-      "artists": [
-        {
-          "name": "Bobby Darin",
-          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
-        }
-      ],
-      "duration_ms": 216626,
-      "name": "What a Difference a Day Makes",
-      "url": "https://open.spotify.com/track/1qJZMKfspF92mDSeQtkjb6"
-    },
-    {
-      "added_at": "2024-06-03 15:00:13",
-      "album": {
         "name": "Loads Of Love",
         "url": "https://open.spotify.com/album/4Wb8zemQ91ofj5B74Y82IY"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 177666,
       "name": "Do It Again",
       "url": "https://open.spotify.com/track/0NaArK8e9ovK75lLRU0OWM"
+    },
+    {
+      "added_at": "2024-06-03 15:00:13",
+      "album": {
+        "name": "Winners",
+        "url": "https://open.spotify.com/album/5t0NxBH6oTG4ycs7l7Qtgr"
+      },
+      "artists": [
+        {
+          "name": "Bobby Darin",
+          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
+        }
+      ],
+      "duration_ms": 216626,
+      "name": "What a Difference a Day Makes",
+      "url": "https://open.spotify.com/track/1qJZMKfspF92mDSeQtkjb6"
     },
     {
       "added_at": "2024-06-03 15:00:13",
@@ -583,22 +583,6 @@
     {
       "added_at": "2024-06-03 15:00:13",
       "album": {
-        "name": "Whisper For You",
-        "url": "https://open.spotify.com/album/6bF3D6lN2SkAH0ZGaWccd7"
-      },
-      "artists": [
-        {
-          "name": "Blossom Dearie",
-          "url": "https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6"
-        }
-      ],
-      "duration_ms": 203733,
-      "name": "Try Your Wings",
-      "url": "https://open.spotify.com/track/4ILOGFnSMDzbtn0zXMCFwW"
-    },
-    {
-      "added_at": "2024-06-03 15:00:13",
-      "album": {
         "name": "Candy (Remastered)",
         "url": "https://open.spotify.com/album/4GfUYw8hn5RPQHkRCcU2aL"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 447173,
       "name": "All The Way - Rudy Van Gelder Edition / 2007 / Digital Remaster",
       "url": "https://open.spotify.com/track/5Vwv04kuzOG41a1v8RgZ8O"
+    },
+    {
+      "added_at": "2024-06-03 15:00:13",
+      "album": {
+        "name": "Whisper For You",
+        "url": "https://open.spotify.com/album/6bF3D6lN2SkAH0ZGaWccd7"
+      },
+      "artists": [
+        {
+          "name": "Blossom Dearie",
+          "url": "https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6"
+        }
+      ],
+      "duration_ms": 203733,
+      "name": "Try Your Wings",
+      "url": "https://open.spotify.com/track/4ILOGFnSMDzbtn0zXMCFwW"
     },
     {
       "added_at": "2024-06-03 15:00:13",
@@ -779,22 +779,6 @@
     {
       "added_at": "2024-06-03 15:00:13",
       "album": {
-        "name": "Loads Of Love",
-        "url": "https://open.spotify.com/album/4Wb8zemQ91ofj5B74Y82IY"
-      },
-      "artists": [
-        {
-          "name": "Shirley Horn",
-          "url": "https://open.spotify.com/artist/0x9L9ChXVAf3hFOb0CbRmd"
-        }
-      ],
-      "duration_ms": 231826,
-      "name": "Love For Sale",
-      "url": "https://open.spotify.com/track/3dxAt1su013e3GZyBUL9bP"
-    },
-    {
-      "added_at": "2024-06-03 15:00:13",
-      "album": {
         "name": "All Through The Night: Julie London Sings The Choicest Of Cole Porter (Bonus Tracks)",
         "url": "https://open.spotify.com/album/6rE7shZVgh3JfpLrdoR1Zn"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 260240,
       "name": "Ev'ry Time We Say Goodbye",
       "url": "https://open.spotify.com/track/7mCcMSjdxm7I4zLnckj8nV"
+    },
+    {
+      "added_at": "2024-06-03 15:00:13",
+      "album": {
+        "name": "Loads Of Love",
+        "url": "https://open.spotify.com/album/4Wb8zemQ91ofj5B74Y82IY"
+      },
+      "artists": [
+        {
+          "name": "Shirley Horn",
+          "url": "https://open.spotify.com/artist/0x9L9ChXVAf3hFOb0CbRmd"
+        }
+      ],
+      "duration_ms": 231826,
+      "name": "Love For Sale",
+      "url": "https://open.spotify.com/track/3dxAt1su013e3GZyBUL9bP"
     },
     {
       "added_at": "2024-06-03 15:00:13",
@@ -907,18 +907,18 @@
     {
       "added_at": "2024-06-03 15:00:13",
       "album": {
-        "name": "Carmen McRae Sings Lover Man And Other Billie Holiday Classics",
-        "url": "https://open.spotify.com/album/5GJ5gYx2VulbjhOuPwlH0A"
+        "name": "The Wonderful World Of Jazz",
+        "url": "https://open.spotify.com/album/7bVINZrNHFkVADBBHfOiAh"
       },
       "artists": [
         {
-          "name": "Carmen McRae",
-          "url": "https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj"
+          "name": "John Lewis",
+          "url": "https://open.spotify.com/artist/7G7zZjjTwBZ9vzaoogk95s"
         }
       ],
-      "duration_ms": 165400,
-      "name": "Them There Eyes",
-      "url": "https://open.spotify.com/track/069NmdhmDYDPQm363GsVWw"
+      "duration_ms": 210973,
+      "name": "I Remember Clifford",
+      "url": "https://open.spotify.com/track/6HdtoTELqn8uyK5mnvhOcy"
     },
     {
       "added_at": "2024-06-03 15:00:13",
@@ -939,18 +939,18 @@
     {
       "added_at": "2024-06-03 15:00:13",
       "album": {
-        "name": "The Wonderful World Of Jazz",
-        "url": "https://open.spotify.com/album/7bVINZrNHFkVADBBHfOiAh"
+        "name": "Carmen McRae Sings Lover Man And Other Billie Holiday Classics",
+        "url": "https://open.spotify.com/album/5GJ5gYx2VulbjhOuPwlH0A"
       },
       "artists": [
         {
-          "name": "John Lewis",
-          "url": "https://open.spotify.com/artist/7G7zZjjTwBZ9vzaoogk95s"
+          "name": "Carmen McRae",
+          "url": "https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj"
         }
       ],
-      "duration_ms": 210973,
-      "name": "I Remember Clifford",
-      "url": "https://open.spotify.com/track/6HdtoTELqn8uyK5mnvhOcy"
+      "duration_ms": 165400,
+      "name": "Them There Eyes",
+      "url": "https://open.spotify.com/track/069NmdhmDYDPQm363GsVWw"
     },
     {
       "added_at": "2024-06-03 15:00:13",
@@ -1067,22 +1067,18 @@
     {
       "added_at": "2024-06-03 15:00:13",
       "album": {
-        "name": "Autumn Leaves",
-        "url": "https://open.spotify.com/album/0G6O2FuXK2CrwyzxcEpGsK"
+        "name": "All About Chris",
+        "url": "https://open.spotify.com/album/0C82GvQXd2ls4jnK7Rf0UA"
       },
       "artists": [
         {
-          "name": "Stan Getz Quintet",
-          "url": "https://open.spotify.com/artist/2N3DoTjaVvmRZIx6AIkOv5"
-        },
-        {
-          "name": "Jimmy Raney",
-          "url": "https://open.spotify.com/artist/42MZam7rropEzPCxlGTmOs"
+          "name": "Chris Connor",
+          "url": "https://open.spotify.com/artist/5Q6PVXflC7LKN42bYupRJQ"
         }
       ],
-      "duration_ms": 182053,
-      "name": "Autumn Leaves",
-      "url": "https://open.spotify.com/track/5DiKG8ujZkxOKn4o8bodAI"
+      "duration_ms": 180146,
+      "name": "All About Ronnie",
+      "url": "https://open.spotify.com/track/4s5MqP3R5MiKit4wauAGNH"
     },
     {
       "added_at": "2024-06-03 15:00:13",
@@ -1107,18 +1103,22 @@
     {
       "added_at": "2024-06-03 15:00:13",
       "album": {
-        "name": "All About Chris",
-        "url": "https://open.spotify.com/album/0C82GvQXd2ls4jnK7Rf0UA"
+        "name": "Autumn Leaves",
+        "url": "https://open.spotify.com/album/0G6O2FuXK2CrwyzxcEpGsK"
       },
       "artists": [
         {
-          "name": "Chris Connor",
-          "url": "https://open.spotify.com/artist/5Q6PVXflC7LKN42bYupRJQ"
+          "name": "Stan Getz Quintet",
+          "url": "https://open.spotify.com/artist/2N3DoTjaVvmRZIx6AIkOv5"
+        },
+        {
+          "name": "Jimmy Raney",
+          "url": "https://open.spotify.com/artist/42MZam7rropEzPCxlGTmOs"
         }
       ],
-      "duration_ms": 180146,
-      "name": "All About Ronnie",
-      "url": "https://open.spotify.com/track/4s5MqP3R5MiKit4wauAGNH"
+      "duration_ms": 182053,
+      "name": "Autumn Leaves",
+      "url": "https://open.spotify.com/track/5DiKG8ujZkxOKn4o8bodAI"
     },
     {
       "added_at": "2024-06-03 15:00:13",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2024-06-03 15:00:13",
       "album": {
+        "name": "For Those In Love - Expanded Edition",
+        "url": "https://open.spotify.com/album/79co4mGqrQdDK93j5ZuqH2"
+      },
+      "artists": [
+        {
+          "name": "Dinah Washington",
+          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
+        }
+      ],
+      "duration_ms": 285693,
+      "name": "If I Had You - Bonus Track",
+      "url": "https://open.spotify.com/track/54U0BdTlsSah7SI6bxJeF6"
+    },
+    {
+      "added_at": "2024-06-03 15:00:13",
+      "album": {
         "name": "The Genius Of Coleman Hawkins (Expanded Edition)",
         "url": "https://open.spotify.com/album/0Z2OKl1GiVUStRfHyqMZzz"
       },
@@ -1251,22 +1267,6 @@
       "duration_ms": 217960,
       "name": "I Wished On The Moon - Stereo Version",
       "url": "https://open.spotify.com/track/2dcLrmsyULzRcPH0IHRwVh"
-    },
-    {
-      "added_at": "2024-06-03 15:00:13",
-      "album": {
-        "name": "For Those In Love - Expanded Edition",
-        "url": "https://open.spotify.com/album/79co4mGqrQdDK93j5ZuqH2"
-      },
-      "artists": [
-        {
-          "name": "Dinah Washington",
-          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
-        }
-      ],
-      "duration_ms": 285693,
-      "name": "If I Had You - Bonus Track",
-      "url": "https://open.spotify.com/track/54U0BdTlsSah7SI6bxJeF6"
     },
     {
       "added_at": "2024-06-03 15:00:13",

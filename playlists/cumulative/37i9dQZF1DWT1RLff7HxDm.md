@@ -2,9 +2,9 @@
 
 ### [Blues Live & Loud](https://open.spotify.com/playlist/37i9dQZF1DWT1RLff7HxDm)
 
-> All live, all blues\. Cover: Joe Bonamassa
+> All live, all blues\. Cover: Samantha Fish
 
-169 songs - 16 hr 56 min
+170 songs - 17 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [Can't Let Go \- Live \(Remastered\)](https://open.spotify.com/track/4CCWEuncGYBFd46UOk3FHO) | [Koko Taylor](https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R) | [I’m A Woman \[Live \(Remastered\)\]](https://open.spotify.com/album/2lz9vEEJCu5ucaaxWtNSr0) | 5:52 | 2022-07-15 |  |
 | [Can't Walk Away From It Now \- Live](https://open.spotify.com/track/4HRWEbyWYP5iyt2u7fMOhD) | [Michael Landau](https://open.spotify.com/artist/6kXe2uPLJcKyNrSUmR21Cw) | [Liquid Quartet Live](https://open.spotify.com/album/2nFenn9ap5FXUoMZWd2P4X) | 5:20 | 2020-10-30 | 2024-04-19 |
 | [Can't Walk Away From It Now \- Live](https://open.spotify.com/track/4n1bjZ2y6dpbjYIhbhA71W) | [Michael Landau](https://open.spotify.com/artist/6kXe2uPLJcKyNrSUmR21Cw) | [Can't Walk Away From It Now \(Live\)](https://open.spotify.com/album/5o1wAMgW0MN63RlrhkjLnw) | 5:20 | 2020-10-30 |  |
-| [Can’t You See What You’re Doing To Me \(Live\)](https://open.spotify.com/track/30TXv4AUCnTxZeSWADR9m1) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7), [Kenny Wayne Shepherd](https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p) | [Can’t You See What You’re Doing To Me \(Live\)](https://open.spotify.com/album/7opwCaMs2Kjfp3p5vCnI4X) | 6:13 | 2022-05-20 |  |
+| [Can’t You See What You’re Doing To Me \(Live\)](https://open.spotify.com/track/30TXv4AUCnTxZeSWADR9m1) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7), [Kenny Wayne Shepherd](https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p) | [Can’t You See What You’re Doing To Me \(Live\)](https://open.spotify.com/album/7opwCaMs2Kjfp3p5vCnI4X) | 6:13 | 2022-05-20 | 2024-10-05 |
 | [Chills & Thrills](https://open.spotify.com/track/564tiv489cKy2DtodcZ5kq) | [Bernard Allison](https://open.spotify.com/artist/0oLmGtqMpKAAVNJyJ71AcI) | [Live at the Jazzhaus](https://open.spotify.com/album/6bBIe89atzmYXFceEDUP1c) | 6:50 | 2020-10-30 |  |
 | [Chills & Thrills \- Live](https://open.spotify.com/track/1oP2JLLzJNqoIMH5nh1iKi) | [Bernard Allison](https://open.spotify.com/artist/0oLmGtqMpKAAVNJyJ71AcI) | [Live at the Jazzhaus](https://open.spotify.com/album/5ecLOcNNAIyy2ItMEIMwK4) | 6:50 | 2020-10-30 | 2024-04-19 |
 | [Cold Black Night \(Live at VH1\)](https://open.spotify.com/track/4YTn5VVoRwySkVvlHOgTU1) | [Gary Moore](https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j) | [Back to the Blues \(Deluxe Edition\)](https://open.spotify.com/album/0oy6FL21rdqKFlGEmJfuZp) | 4:05 | 2023-06-02 | 2024-04-19 |
@@ -68,6 +68,7 @@
 | [How Many More Times \- Live](https://open.spotify.com/track/1l0gwvwWfPXgpNDqrrpJRI) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [British Blues Explosion Live](https://open.spotify.com/album/6wQ0Qd9cQZvOYE4Fn1OIZc) | 15:22 | 2020-10-30 | 2022-07-29 |
 | [I Didn't Know \- Live](https://open.spotify.com/track/6F3ISKBxgwCmV7jpORqLMb) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [I Didn't Know \- Live](https://open.spotify.com/album/0PctMnTS6t6dNvnxwGsLPi) | 3:18 | 2020-10-30 |  |
 | [I Didn't Think She Would Do It \- Live](https://open.spotify.com/track/1jjFV8q9KjN0FioJ8EeMeh) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Now Serving: Royal Tea Live From The Ryman](https://open.spotify.com/album/1At9QeiTNZXMtD3WKJldg9) | 4:34 | 2021-06-11 | 2022-07-25 |
+| [I Put A Spell On You](https://open.spotify.com/track/1MjrAbIA1Uhq1gURgMV36C) | [Samantha Fish](https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5) | [I Put A Spell On You](https://open.spotify.com/album/3FgscaFSKt1FekwGFw4FNQ) | 7:53 | 2024-10-04 |  |
 | [I Wonder Who \- Live At The San Diego Civic Center, CA, USA / 1974](https://open.spotify.com/track/2WKH5jsAtRY3zDbx2OoO5y) | [Rory Gallagher](https://open.spotify.com/artist/1kcWyDvrlPUbyxkIoM6pAV) | [Live In San Diego '74](https://open.spotify.com/album/1uZboHwC6BiYuXGFZbcyYT) | 9:31 | 2022-04-29 |  |
 | [I'm In The Mood \- Live](https://open.spotify.com/track/4m3z1QKpXIBIvJFVhCyhtl) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [I'm In The Mood \- Live](https://open.spotify.com/album/7llgEpwPWoyyECn3OxfJgS) | 4:08 | 2020-10-30 |  |
 | [Judgment Day](https://open.spotify.com/track/3xWp7bPsKMk17yManeHBgU) | [Mike Zito](https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4) | [Songs from the Road](https://open.spotify.com/album/7HriuGrlYdLiubO6XQGbkt) | 7:17 | 2020-10-30 |  |

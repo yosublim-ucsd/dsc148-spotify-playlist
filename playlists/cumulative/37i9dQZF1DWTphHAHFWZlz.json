@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-30",
-  "description": "Nuevo sonido, misma actitud.\n\ud83d\udcf7 Broke Carrey",
+  "description": "Nuevo sonido, misma actitud.\n\ud83d\udcf7 MARTTEIN",
   "name": "POGO",
   "tracks": [
     {
@@ -128,6 +128,24 @@
       "duration_ms": 196000,
       "name": "A Tu Manera",
       "url": "https://open.spotify.com/track/23dQ2uqLfk4z8aJUwwfnms"
+    },
+    {
+      "album": {
+        "name": "A.T.A",
+        "url": "https://open.spotify.com/album/241KgBa8yVFqlUjY4ZhHvd"
+      },
+      "artists": [
+        {
+          "name": "Delfina Dib",
+          "url": "https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129229,
+      "name": "A.T.A",
+      "url": "https://open.spotify.com/track/17ee3ShvzGiJL9MYsSKaM9"
     },
     {
       "album": {
@@ -696,6 +714,28 @@
       "duration_ms": 176332,
       "name": "Burbuja Loca",
       "url": "https://open.spotify.com/track/1CXKwOnD3ijncZIgV9DaWg"
+    },
+    {
+      "album": {
+        "name": "MARTTEIN",
+        "url": "https://open.spotify.com/album/2v7cEavZRKwA8GfTfmU5fv"
+      },
+      "artists": [
+        {
+          "name": "MARTTEIN",
+          "url": "https://open.spotify.com/artist/5EbzQCOHXCVsr4y0qNsB48"
+        },
+        {
+          "name": "Juana Rozas",
+          "url": "https://open.spotify.com/artist/73flNW7YBYMrnp83TEl5Hq"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119057,
+      "name": "CACHETAZO",
+      "url": "https://open.spotify.com/track/11N5z4VHGUUTAYQR1p51fa"
     },
     {
       "album": {
@@ -2368,7 +2408,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 250770,
       "name": "Igual",
       "url": "https://open.spotify.com/track/4808bFO0Mw34MmuSjAtQSR"
@@ -2438,6 +2478,24 @@
       "duration_ms": 203517,
       "name": "INVESTIDO",
       "url": "https://open.spotify.com/track/0gX9K4YtmMaODBFtPTU4mI"
+    },
+    {
+      "album": {
+        "name": "Kerosene",
+        "url": "https://open.spotify.com/album/5TMl7Qr7UBoBAFqbiH39zG"
+      },
+      "artists": [
+        {
+          "name": "La Valenti",
+          "url": "https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185088,
+      "name": "Kerosene",
+      "url": "https://open.spotify.com/track/5mDbbvhvaf8ObKttnHXn0s"
     },
     {
       "album": {
@@ -3014,7 +3072,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 181500,
       "name": "Lo Que Soy",
       "url": "https://open.spotify.com/track/77dNHLJRvzinTeSz7X7eLH"
@@ -4322,7 +4380,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 157585,
       "name": "Recu\u00e9rdame </3",
       "url": "https://open.spotify.com/track/1rZF73DkVW8oKtbPjfnPeq"

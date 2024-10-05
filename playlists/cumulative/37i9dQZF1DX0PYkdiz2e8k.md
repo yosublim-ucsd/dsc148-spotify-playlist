@@ -4,7 +4,7 @@
 
 > lonely is the muse! Foto: Halsey
 
-120 songs - 6 hr 8 min
+121 songs - 6 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [Irish Goodbye \(feat\. Vic Fuentes of Pierce The Veil\)](https://open.spotify.com/track/2BtFhZlm9Sz5FAiYIjChUl) | [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr), [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [Irish Goodbye \(feat\. Vic Fuentes of Pierce The Veil\)](https://open.spotify.com/album/523PqkfY2F5mtL1Rdg0g84) | 3:02 | 2023-08-18 |  |
 | [JUNKIE](https://open.spotify.com/track/6azzQpelUGRtIQUfgR9R0J) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [RAT TRAP 2: the burn](https://open.spotify.com/album/4kDBAwGGcSpxs6d4FFdPYG) | 3:08 | 2023-07-21 | 2023-09-12 |
 | [Kiss Ur Face Forever](https://open.spotify.com/track/7lf5XQQCIQkzO15CqYDjo7) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Kiss Ur Face Forever](https://open.spotify.com/album/5Ok9hJcXLgtUlJw7UUBQ2s) | 2:46 | 2023-08-11 |  |
+| [La fiesta](https://open.spotify.com/track/1xus48hrSAzqjkjnhwtDnl) | [shego](https://open.spotify.com/artist/1DiDa1DfTjldKJQeonyP33) | [La fiesta](https://open.spotify.com/album/6EYpdrkCw5yb5ltJc9S9gw) | 2:38 | 2024-10-04 |  |
 | [leave me for dead](https://open.spotify.com/track/3ItJaK3oSkvCE4QiLkaxbi) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [leave me for dead](https://open.spotify.com/album/7cTW6R0SHT2K64F07CY4vO) | 2:56 | 2023-08-25 |  |
 | [Lindo, Gostoso!](https://open.spotify.com/track/4iuNOEUMAaXlhAAcBgGPDP) | [Laura Schadeck](https://open.spotify.com/artist/6392rGyL1AYvMtt70GIqWS) | [Lindo, Gostoso!](https://open.spotify.com/album/75vK4bi7lvuhuEhcGKlXFc) | 2:13 | 2024-05-24 | 2024-06-22 |
 | [Lonely is the Muse](https://open.spotify.com/track/6m3uTDJZzWymLsXOzlY6TD) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Lonely is the Muse](https://open.spotify.com/album/7pmdgUBwR0tLeE4OQtNdNj) | 4:01 | 2024-08-16 |  |
@@ -99,7 +100,7 @@
 | [porra loka](https://open.spotify.com/track/7l7QotzZqwX9YVpSJHwxJK) | [Mayra](https://open.spotify.com/artist/3XSWVsSggcTo6Bv8pcDqnt) | [porra loka](https://open.spotify.com/album/2ZjGmRlFuNh2Q8iqaJlbzh) | 2:44 | 2024-03-22 | 2024-03-30 |
 | [Punisher](https://open.spotify.com/track/5bCYvbaEVCEWrGZZONYitY) | [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [MONO](https://open.spotify.com/album/3FlWIVe5XsMGNqjAqI70ZM) | 3:14 | 2023-09-15 |  |
 | [RED](https://open.spotify.com/track/66Rl6HThnoHCRRVCUbslIG) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [RED](https://open.spotify.com/album/6jS6EMy8bdawl6dbBzag1X) | 3:54 | 2023-08-11 | 2024-02-17 |
-| [Ressaca Moral](https://open.spotify.com/track/5Ho70E7ZDyHqr3iCWM1X63) | [Refúgio](https://open.spotify.com/artist/1tnALlMyBbsShTBbAHWjLr) | [Velhos Hábitos](https://open.spotify.com/album/2IYAuvdKeMNCXInRr8TV4G) | 4:49 | 2024-07-19 |  |
+| [Ressaca Moral](https://open.spotify.com/track/5Ho70E7ZDyHqr3iCWM1X63) | [Refúgio](https://open.spotify.com/artist/1tnALlMyBbsShTBbAHWjLr) | [Velhos Hábitos](https://open.spotify.com/album/2IYAuvdKeMNCXInRr8TV4G) | 4:49 | 2024-07-19 | 2024-10-05 |
 | [run!](https://open.spotify.com/track/7oqUxlU0mEv4fGt1CZ727y) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [empathogen](https://open.spotify.com/album/5jsfwcWxZIPtF5aaWx0mlL) | 3:08 | 2024-05-03 |  |
 | [SANCTUARY](https://open.spotify.com/track/0af0p0VLe82vqCVC8YFCMk) | [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5) | [SANCTUARY](https://open.spotify.com/album/2puYP5GNAu26hWrgPXLfIl) | 2:54 | 2023-07-21 |  |
 | [Shadow \(I'm Breaking Down\)](https://open.spotify.com/track/35k8QihhSU5Z7Rqz7FD2nv) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5) | [Shadow \(I'm Breaking Down\)](https://open.spotify.com/album/0F93SGg55xfIxn8xXzbG93) | 3:38 | 2023-07-21 | 2023-08-19 |

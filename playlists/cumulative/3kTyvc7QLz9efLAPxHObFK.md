@@ -4,7 +4,7 @@
 
 > 
 
-1,736 songs - 3 day 21 hr 16 min
+1,740 songs - 3 day 21 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [AM\-PM \(Gluttony\)](https://open.spotify.com/track/5ylRcQigJwkw9Od0HgV4lI) | [Hard Driver](https://open.spotify.com/artist/1rpLzYzfrueWdkpcIunZQl) | [AM\-PM \(Gluttony\)](https://open.spotify.com/album/1Vg7DEavxBrb6vQJXaRY52) | 2:48 | 2024-01-26 |  |
 | [Amsterdam](https://open.spotify.com/track/2H2bOlHuU0PmN4WQXow3fF) | [RAYZEN](https://open.spotify.com/artist/2x7wHChcawAYikCTKfhjId) | [Amsterdam](https://open.spotify.com/album/26mfWofWr1qZZYKATzyIdd) | 2:15 | 2024-07-12 |  |
 | [Angel in to the Darkness](https://open.spotify.com/track/0JA55NXbehGujYk7mpS1Dg) | [Sghenny](https://open.spotify.com/artist/4ciy3r7f8nrBKoLZsJ6oVY) | [Angel in to the Darkness](https://open.spotify.com/album/3mTm5JDYQTxeV8JolyklYd) | 3:33 | 2023-07-08 |  |
+| [Angelcore](https://open.spotify.com/track/2zlqOFxvFRv8A020h8CBCe) | [BEL AIR WITCH](https://open.spotify.com/artist/5ehyiszRBoCkewPb1mTN6x) | [Bat Outta Hell](https://open.spotify.com/album/6phYV7gVkALNx9lUykh9kG) | 3:16 | 2024-10-05 |  |
 | [Anger In The Nation](https://open.spotify.com/track/76EpojR09zjVX00daVTxsM) | [Barber](https://open.spotify.com/artist/55yd56lRrN815OEFUOrC1W) | [Anger In The Nation](https://open.spotify.com/album/1DaUt4X7ij9DgxmkpJC9dJ) | 2:40 | 2023-03-12 |  |
 | [Anger Is My Acid \(Wrath\)](https://open.spotify.com/track/0HCWlxXCNWTRBXjawcFYwG) | [Hard Driver](https://open.spotify.com/artist/1rpLzYzfrueWdkpcIunZQl) | [Anger Is My Acid \(Wrath\)](https://open.spotify.com/album/4f2aGncI7gCK24eY40VgeG) | 3:38 | 2024-03-01 |  |
 | [Animal](https://open.spotify.com/track/7kq3KF19rE2UfIoSivfNtU) | [Killshot](https://open.spotify.com/artist/2m5uCiZcpQ50tXsJrThFoM) | [Animal](https://open.spotify.com/album/7IloSRa7QgsIxfxLjMmOvj) | 3:22 | 2023-07-28 |  |
@@ -104,6 +105,7 @@
 | [BAD B!TCH](https://open.spotify.com/track/1jwPtA5vbX9ZPzz0kYZ6zz) | [Dynamic Noise](https://open.spotify.com/artist/74fiiCruGpIQxX1klSVtp9), [Lumex](https://open.spotify.com/artist/5mmH8aPIBykETuGLc97VOi) | [BAD B!TCH](https://open.spotify.com/album/58HUj0fmhQaVinkBYtGtLY) | 2:22 | 2024-08-10 |  |
 | [BAD BLOOD](https://open.spotify.com/track/0LbpclZLzBrAVR5jkGHuyu) | [Unresolved](https://open.spotify.com/artist/6glAHKAPvBPUQ4HQcYXxpr) | [BAD BLOOD](https://open.spotify.com/album/0c2IK2p1MwiwCN9M57lNcm) | 3:33 | 2024-01-12 |  |
 | [Bad Boy](https://open.spotify.com/track/6tzPlAmhNm2q7T2hJCNExZ) | [Lil Texas](https://open.spotify.com/artist/76raIy8boaM9sf9gMGXGJ5) | [NEED FOR SPEED](https://open.spotify.com/album/3bNU00DAypHgWuehEIl935) | 2:25 | 2024-07-26 |  |
+| [Bad Boys](https://open.spotify.com/track/6zxFESuVGHEDmOM2C6ZxYX) | [CHYL](https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc), [LML](https://open.spotify.com/artist/1GgUppN5pnZT1SnOz28M3P) | [Sweat EP](https://open.spotify.com/album/0U2NbGuTdiq2Tt89fLtKVS) | 2:27 | 2024-10-05 |  |
 | [Bad Guys](https://open.spotify.com/track/1fKjPIxXXyvJsMfBo5pNll) | [Vasto](https://open.spotify.com/artist/35l9BKzdhvLy5HOC50NECa), [Chapter V](https://open.spotify.com/artist/1YYs95M2z6CIPc0zWfMrab) | [Bad Guys](https://open.spotify.com/album/3bs59vm2TquI08c5EwZZNg) | 2:23 | 2024-07-26 |  |
 | [Bada Didum](https://open.spotify.com/track/1DjgevGjGs2UnC4EH0K3NQ) | [Galwaro](https://open.spotify.com/artist/3vDh2Mern1I2k53Oy0pDlD), [C\-Ro](https://open.spotify.com/artist/6PAunVzpRKDn5xbMgkV1gh), [Don Bnnr](https://open.spotify.com/artist/0YD4K8mKJ4zeOnOpH8qdT5) | [Bada Didum](https://open.spotify.com/album/3kchCwnDGFyW7vxLBJub4L) | 1:59 | 2023-03-14 |  |
 | [Badda Dan](https://open.spotify.com/track/4CulSBGm6u4TlKY9MVUMEP) | [Barber](https://open.spotify.com/artist/55yd56lRrN815OEFUOrC1W), [Dither](https://open.spotify.com/artist/2CTPZndAY5BwdgHk8AX0B7) | [Badda Dan](https://open.spotify.com/album/4LiguXvEOBKC2hPw7lcPUg) | 2:57 | 2024-06-17 |  |
@@ -416,6 +418,7 @@
 | [Dopamine](https://open.spotify.com/track/3vfymWmy9pRcqFPPNsGhy9) | [Hard Driver](https://open.spotify.com/artist/1rpLzYzfrueWdkpcIunZQl), [Adjuzt](https://open.spotify.com/artist/0UDN8FPWVrZoMQ7mQB3bS8) | [Dopamine](https://open.spotify.com/album/6fcRsHRYndldCq70TlQKYB) | 3:27 | 2023-06-09 |  |
 | [Dopamine](https://open.spotify.com/track/6lLf09rzBQZSFJEPDWeyTV) | [Valido](https://open.spotify.com/artist/65kw4SfFANgttyuNSTMUdy) | [Dopamine](https://open.spotify.com/album/01najiP6UdDe5KPN9atW17) | 2:13 | 2024-08-17 |  |
 | [Double D](https://open.spotify.com/track/7izn5XTRDSyaari83OE4XM) | [Barber](https://open.spotify.com/artist/55yd56lRrN815OEFUOrC1W), [Major Conspiracy](https://open.spotify.com/artist/0WjzjRwo3dcv6HCPs70Rnc) | [Double D](https://open.spotify.com/album/1Es6YZUlA57Wq9qu6YkCsK) | 3:28 | 2022-09-08 |  |
+| [Down Low](https://open.spotify.com/track/7uHs6HMb42GyRZ5WVsY6Ra) | [Fahjah](https://open.spotify.com/artist/7LjoOGD9rMWkR8clGUu2Id), [Oing](https://open.spotify.com/artist/2u5jpW3Xbb26uME8g5ixiB) | [Down Low](https://open.spotify.com/album/2vrXkjvERniroEr8z178xX) | 2:16 | 2024-10-05 |  |
 | [DOWN LOW](https://open.spotify.com/track/4ihjJteNBHFbbrrLyVt6xz) | [LunaKorpz](https://open.spotify.com/artist/2OSIL8pcABTROov8XT74z1) | [DOWN LOW](https://open.spotify.com/album/2gF08ROQ2m9EgVIXvsvskN) | 2:17 | 2024-08-23 |  |
 | [Down The Rabbit Hole](https://open.spotify.com/track/4w6e2YfQXS2oRfsO43YY3o) | [Da Tweekaz](https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6), [Hard Driver](https://open.spotify.com/artist/1rpLzYzfrueWdkpcIunZQl) | [Down The Rabbit Hole](https://open.spotify.com/album/1SiUlsquYJZ3MmuMppvXEU) | 3:15 | 2024-08-13 |  |
 | [Down To Earth](https://open.spotify.com/track/3kihuUqBuMDO6tXGUY65s9) | [Warface](https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs) | [Rest In Pieces](https://open.spotify.com/album/0GtKJFawJ0GTmEz0uKOyJr) | 2:52 | 2023-04-21 |  |
@@ -1454,6 +1457,7 @@
 | [Tanano \- Original Mix](https://open.spotify.com/track/2N0iQCQOQnR9yV3tZfjFQ2) | [The Sickest Squad](https://open.spotify.com/artist/1NGSmZz3W7RduM185NLWdk), [Andy the Core](https://open.spotify.com/artist/3GEDzLFDpKR3tsq72ZRTP7) | [Open Your Mind \(Original Mix\)](https://open.spotify.com/album/7d2fiQZhbWBOSL5RGtZrv1) | 3:01 | 2024-04-19 |  |
 | [Taste The Blade](https://open.spotify.com/track/2z6CtAg9x6hCT064WKnxWF) | [Warface](https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs) | [Rest In Pieces](https://open.spotify.com/album/0GtKJFawJ0GTmEz0uKOyJr) | 3:19 | 2023-05-01 |  |
 | [TECHNO CITY](https://open.spotify.com/track/0Ua3nDprcE2YVHpINa9ceM) | [Thyron](https://open.spotify.com/artist/75jOSvJYkVT21xz5yll1xM), [Anderex](https://open.spotify.com/artist/7wXBtpPB5GFddtz9OeBlPW) | [XTREME XTASY](https://open.spotify.com/album/1DcPUHZKSsJjPuc7pfabEK) | 2:45 | 2024-03-08 |  |
+| [TECHNO GENERATION](https://open.spotify.com/track/0IOE3L2vjgwGelpNkcxnBW) | [Water Spirit](https://open.spotify.com/artist/6kDrYhgzsmoiuwHbzWgA41) | [WAREHOUSE TAPES](https://open.spotify.com/album/6T43Smob7g3y3c07tGOMaG) | 2:46 | 2024-10-05 |  |
 | [Teledildonics](https://open.spotify.com/track/3axU4hIcw8YvKxzZZJVe6E) | [S3RL](https://open.spotify.com/artist/11aa081aKYUzmeFm0yHdT2), [Virgen Maria](https://open.spotify.com/artist/7nQPn0exIxAqszNNPBNEL0) | [Teledildonics](https://open.spotify.com/album/1Qh1XXIRSnGtT8nqFFbFsq) | 2:50 | 2023-07-28 |  |
 | [Tell Me](https://open.spotify.com/track/3piXkrURbUPmIu3BKxzRaL) | [Bloodlust](https://open.spotify.com/artist/1vDMUXdbIJHTSC8ZAf2Zqp) | [Tell Me](https://open.spotify.com/album/6KlW6iWDqd59xAjAgSNAHI) | 3:38 | 2024-03-15 |  |
 | [TELL ME WHY](https://open.spotify.com/track/5WX5LOr8DZ15CG5gnEuyh1) | [Mish](https://open.spotify.com/artist/65kwwmTEJIlKRldGhmUM0b) | [TELL ME WHY](https://open.spotify.com/album/75tmdS7XiMvqVYqu3hQle1) | 1:57 | 2024-06-08 |  |

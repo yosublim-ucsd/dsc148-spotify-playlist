@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,687 songs - 4 day 19 hr 34 min
+1,688 songs - 4 day 19 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -741,7 +741,7 @@
 | [Ignis](https://open.spotify.com/track/6BT4H5z2UCDvyTxl2WfsQA) | [Rompasso](https://open.spotify.com/artist/7dJzxVffEZI5MuHOJiQB5A) | [Ignis](https://open.spotify.com/album/5Mg89X2COGYzqoI58UrffS) | 3:31 | 2020-05-18 | 2020-07-18 |
 | [II Primo](https://open.spotify.com/track/6x4kMT4VqCS5iVnwOMA2Ie) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR), [They Dream By Day](https://open.spotify.com/artist/0bcsH2FSusCuTAZ8aAgbJV) | [II Primo](https://open.spotify.com/album/5aVZ5K8ZBpDPvAImglrbIm) | 3:39 | 2022-06-17 | 2022-07-29 |
 | [Ikebana](https://open.spotify.com/track/4cYMt6WiUFShfZ6M1A9LPi) | [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM) | [Ikebana](https://open.spotify.com/album/5MpyMD5U1XdIqwQbeAEzwq) | 2:49 | 2020-10-24 | 2022-12-16 |
-| [Illusions](https://open.spotify.com/track/3O8mYey47FBULcCK9pkXon) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Illusions](https://open.spotify.com/album/5HGX6eQ7du1wpxHBekpWwc) | 3:56 | 2023-11-10 |  |
+| [Illusions](https://open.spotify.com/track/3O8mYey47FBULcCK9pkXon) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Illusions](https://open.spotify.com/album/5HGX6eQ7du1wpxHBekpWwc) | 3:56 | 2023-11-10 | 2024-10-05 |
 | [ilomilo](https://open.spotify.com/track/7qEKqBCD2vE5vIBsrUitpD) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?](https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh) | 2:36 | 2020-02-29\* | 2020-03-16 |
 | [Immortal Lover \- Edit](https://open.spotify.com/track/1TEVjDoU8nHSkBsYGJxeEV) | [Andrew Bayer](https://open.spotify.com/artist/5dFuu05x8SPBuymudrTBU8), [Alison May](https://open.spotify.com/artist/6jd3NCxzDeLS4wAO168T60) | [Immortal Lover](https://open.spotify.com/album/4IoEExov5PIlZZXD78fjkV) | 4:28 | 2020-05-18 | 2022-04-21 |
 | [In Bloom](https://open.spotify.com/track/4e4sTRiHGEj7LgFhXn0quG) | [Lstn](https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp) | [In Bloom](https://open.spotify.com/album/4vLvJf1lvLmvJ8mXFG9jV6) | 3:48 | 2021-01-08 | 2021-03-10 |
@@ -1076,6 +1076,7 @@
 | [Not Alone \- OCULA Remix](https://open.spotify.com/track/1oy8h3GJbmVn8JA1AedBpW) | [Massane](https://open.spotify.com/artist/0cjvrTtv350Ls87eGY80iz), [OCULA](https://open.spotify.com/artist/2VzzhmEHXT4nGim8nBw4ij) | [V](https://open.spotify.com/album/0u3GrHZ9EeJoOjB4QD0q8H) | 4:02 | 2022-01-21 | 2022-07-29 |
 | [Not Giving You Up](https://open.spotify.com/track/5s7KszYX1mfvpKA7XCMvfw) | [Rules](https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA) | [Not Giving You Up](https://open.spotify.com/album/5V3TvHdleNDEhSIC4g7IFM) | 2:52 | 2024-04-12 |  |
 | [Not Going Home](https://open.spotify.com/track/7C7GwLFoDQztNFElOFHjc3) | [DVBBS](https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82), [CMC$](https://open.spotify.com/artist/78DWNk8gFHU30TGITAgbM7), [Gia Koka](https://open.spotify.com/artist/71WExccCBN2mw0klSzfYzz) | [Beautiful Disaster](https://open.spotify.com/album/3zwDMdI7ZaNBMV5GouGTJG) | 3:14 | 2020-05-18 | 2020-07-03 |
+| [Not The Same](https://open.spotify.com/track/2B4Z3Ynr4GsNE1S6EiMWZF) | [Nitefreak](https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ), [Imad](https://open.spotify.com/artist/4skzy1qEMyM3FqC3b6EjRU), [Clubhouse](https://open.spotify.com/artist/1LbK4g8mKezX7iAmpiq3sX) | [Not The Same](https://open.spotify.com/album/6TcWS750Qhg2203YwZuPdX) | 3:16 | 2024-10-04 |  |
 | [Nothing But You](https://open.spotify.com/track/49X1d9QKZKU2WFBtm4GUzN) | [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5) | [Battle Lines](https://open.spotify.com/album/42aWQU8pO4KLq2aNwidEZS) | 3:39 | 2020-03-20 | 2020-10-09 |
 | [Nothing But You \(feat\. Donnie Sloan & Ricky Ducati\)](https://open.spotify.com/track/5rFPaZ5DpO3t7Z9JppR9hM) | [Devault](https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL), [Donnie Sloan](https://open.spotify.com/artist/4t95822Jv53tQJK2iS4dKt), [Ricky Ducati](https://open.spotify.com/artist/66OCo8OcuPNrW6QLfmn7PE) | [Nothing But You \(feat\. Donnie Sloan & Ricky Ducati\)](https://open.spotify.com/album/7ulMDKBaFYF11sytYHkB6A) | 4:31 | 2020-03-16 | 2020-10-09 |
 | [Nothing To Lose \(feat\. Circa Waves\)](https://open.spotify.com/track/4iU0r23eZnO9uOQ0y0xJ7F) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [Nothing To Lose \(feat\. Circa Waves\)](https://open.spotify.com/album/25b7zCdvfIzaKupV2GRPvw) | 4:18 | 2024-01-19 | 2024-09-09 |

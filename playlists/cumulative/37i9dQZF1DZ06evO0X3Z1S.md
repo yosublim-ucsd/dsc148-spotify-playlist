@@ -2,14 +2,14 @@
 
 ### [This Is Jonas Blue](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0X3Z1S)
 
-> This is Jonas Blue\. Todos os maiores hits em uma só playlist.
+> This is Jonas Blue\. The essential tracks, all in one playlist.
 
 68 songs - 3 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [100 Lives](https://open.spotify.com/track/1esueU6TI7y7bOwHhOP14K) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Eyelar](https://open.spotify.com/artist/3u4qXYRgHgU7YtjZt9sduX) | [100 Lives](https://open.spotify.com/album/6zOK13fGEgCUcqCwYySpHu) | 3:13 | 2024-07-21 | 2024-09-08 |
-| [100 Lives \- MK Vocal Mix](https://open.spotify.com/track/6CAvAfpKvZezuBTKxkZg9r) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Eyelar](https://open.spotify.com/artist/3u4qXYRgHgU7YtjZt9sduX), [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9) | [100 Lives \- MK Remix](https://open.spotify.com/album/5WQFPcdUoam8s3hjmZEbgn) | 3:33 | 2024-09-08 |  |
+| [100 Lives](https://open.spotify.com/track/1esueU6TI7y7bOwHhOP14K) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Eyelar](https://open.spotify.com/artist/3u4qXYRgHgU7YtjZt9sduX) | [100 Lives](https://open.spotify.com/album/6zOK13fGEgCUcqCwYySpHu) | 3:13 | 2024-07-21 |  |
+| [100 Lives \- MK Vocal Mix](https://open.spotify.com/track/6CAvAfpKvZezuBTKxkZg9r) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Eyelar](https://open.spotify.com/artist/3u4qXYRgHgU7YtjZt9sduX), [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9) | [100 Lives \- MK Remix](https://open.spotify.com/album/5WQFPcdUoam8s3hjmZEbgn) | 3:33 | 2024-09-08 | 2024-10-05 |
 | [Aceita \- Jonas Blue Remix](https://open.spotify.com/track/5neNUN5qPB1hkJzhT823rO) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf) | [Aceita \(Jonas Blue Remix\)](https://open.spotify.com/album/6QXjrHkPxuk3N8ZINvq3le) | 2:50 | 2024-07-08 |  |
 | [Alien](https://open.spotify.com/track/0RUTnY2B3s05fZuCHsNaUP) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf) | [Alien](https://open.spotify.com/album/3LXVxMUrioKZcoheV2zT3u) | 2:54 | 2023-03-19 |  |
 | [All Night Long](https://open.spotify.com/track/7rRMmhC027ixjjXzuZYoMv) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [RetroVision](https://open.spotify.com/artist/6heMlLFM6RDDHRz99uKMqS) | [All Night Long](https://open.spotify.com/album/0N142E2hr6c8uf0qrpfvhQ) | 3:26 | 2023-03-19 |  |

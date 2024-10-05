@@ -9306,7 +9306,7 @@
       ],
       "date_added": "2024-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 228000,
       "name": "Camadas",
       "url": "https://open.spotify.com/track/4dHLTBJs2holYAmOMxHqod"
@@ -10560,7 +10560,7 @@
       ],
       "date_added": "2024-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 173571,
       "name": "Chevette do Jac\u00f3",
       "url": "https://open.spotify.com/track/1EBBKLLK2nX0bpgLocWcSV"
@@ -14423,6 +14423,24 @@
     },
     {
       "album": {
+        "name": "Politicamente Correto",
+        "url": "https://open.spotify.com/album/1AT4OamSQ91HpWfD7Mr9Jo"
+      },
+      "artists": [
+        {
+          "name": "Lambasaia",
+          "url": "https://open.spotify.com/artist/2gkfnXfwfeW6k3xm9dRdAd"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139541,
+      "name": "Desespero",
+      "url": "https://open.spotify.com/track/2Y7hBWXcQ7kDozwxBrsXoS"
+    },
+    {
+      "album": {
         "name": "O Cen\u00e1rio Certo para o Teatro Perfeito",
         "url": "https://open.spotify.com/album/7wjzkS9hpvRHEadLHagk4D"
       },
@@ -17648,6 +17666,24 @@
       "duration_ms": 240445,
       "name": "Escape (feat. Hayla)",
       "url": "https://open.spotify.com/track/10oKSzRcwbZsog2uq2gb4b"
+    },
+    {
+      "album": {
+        "name": "Escape / Nunca Pare de Lutar",
+        "url": "https://open.spotify.com/album/4TbHIqNcUNuIYN9Btkcc4q"
+      },
+      "artists": [
+        {
+          "name": "Jadson Moreno",
+          "url": "https://open.spotify.com/artist/0al9OSYU79AxFJ1fVg8b23"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 565252,
+      "name": "Escape / Nunca Pare de Lutar",
+      "url": "https://open.spotify.com/track/2EDMmkfZgZQ8OyjuQNmhu9"
     },
     {
       "album": {
@@ -34749,6 +34785,28 @@
     },
     {
       "album": {
+        "name": "MTG NA IMAGINA\u00c7\u00c3O (TOPO SESSIONS VOL. 1)",
+        "url": "https://open.spotify.com/album/0jMhgDRoYlzzqIM407XCPk"
+      },
+      "artists": [
+        {
+          "name": "DJ TOPO",
+          "url": "https://open.spotify.com/artist/0xj9MJx9r0wO2o4aqdergP"
+        },
+        {
+          "name": "Mc Livinho",
+          "url": "https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144923,
+      "name": "MTG NA IMAGINA\u00c7\u00c3O - TOPO SESSIONS VOL. 1",
+      "url": "https://open.spotify.com/track/4jUZymsR3lkia9wkP0o9cX"
+    },
+    {
+      "album": {
         "name": "MTG Puxo seu cabelinho",
         "url": "https://open.spotify.com/album/4xADGh2E1U5hUCaBjWG7us"
       },
@@ -37358,7 +37416,7 @@
       ],
       "date_added": "2024-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 247628,
       "name": "Nunca vendeu maconha",
       "url": "https://open.spotify.com/track/7yzRTRjB1kQUU83TLt7zv5"

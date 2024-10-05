@@ -1,13 +1,33 @@
 {
   "description": "Dreamy Ambient in a chilled, dark aesthetic",
-  "num_followers": 74597,
+  "num_followers": 74729,
   "original_name": "movements.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtFDwAAAAACCXWRWMQCCNFNSI18dOALo",
+  "snapshot_id": "Zv9oQAAAAABwi3odut7PqvPhFIR4LNAd",
   "tracks": [
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Something Ephemeral",
+        "url": "https://open.spotify.com/album/5uHrCYwIf46ftxh7bB6cLL"
+      },
+      "artists": [
+        {
+          "name": "Alaskan Tapes",
+          "url": "https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq"
+        },
+        {
+          "name": "Moshimoss",
+          "url": "https://open.spotify.com/artist/3txheZ8uqgXjU22ITrxGme"
+        }
+      ],
+      "duration_ms": 201000,
+      "name": "When the Earth Yelled Back at Me",
+      "url": "https://open.spotify.com/track/0zUJd5WA41CfvYmcADOo88"
+    },
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
@@ -23,6 +43,42 @@
       "duration_ms": 236000,
       "name": "Het Wed",
       "url": "https://open.spotify.com/track/5c5bwSNhKewBJgtxKhVhjy"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "therapy",
+        "url": "https://open.spotify.com/album/2fWayccqwXJWqsSrufCJMi"
+      },
+      "artists": [
+        {
+          "name": "Bhxa",
+          "url": "https://open.spotify.com/artist/0FayAsrcVWzpOFe9FCn4t4"
+        }
+      ],
+      "duration_ms": 103578,
+      "name": "therapy",
+      "url": "https://open.spotify.com/track/7bVAzBRCZBp3LckH7XOwc8"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Saturna",
+        "url": "https://open.spotify.com/album/7apWb4znxMYfVH2LMa89Zh"
+      },
+      "artists": [
+        {
+          "name": "charlie dreaming",
+          "url": "https://open.spotify.com/artist/2RK3yBP8NFH1CLOEj0BIAM"
+        },
+        {
+          "name": "Peter Bark",
+          "url": "https://open.spotify.com/artist/1owDCRcm8r3mCfAVzwNbB2"
+        }
+      ],
+      "duration_ms": 225000,
+      "name": "Saturna",
+      "url": "https://open.spotify.com/track/1kkzd4515STvL7AJDeoTmu"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -43,6 +99,58 @@
       "duration_ms": 195000,
       "name": "shaping",
       "url": "https://open.spotify.com/track/39VUSM18HRH1PI1lTvYwBf"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "#19",
+        "url": "https://open.spotify.com/album/7njwofUGv4MhSLm1VblQss"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "duration_ms": 614592,
+      "name": "#19",
+      "url": "https://open.spotify.com/track/3zSBsvj6MWavRKfPE51395"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "limerence",
+        "url": "https://open.spotify.com/album/2wIU0SrVGZMN49izRWloUh"
+      },
+      "artists": [
+        {
+          "name": "\u00d8neheart",
+          "url": "https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X"
+        }
+      ],
+      "duration_ms": 116990,
+      "name": "limerence",
+      "url": "https://open.spotify.com/track/7LuSRILK7hHMk6bUX2gcfF"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "missing you",
+        "url": "https://open.spotify.com/album/4JPFvL4DcShw9i1CxgBwIh"
+      },
+      "artists": [
+        {
+          "name": ".diedlonely",
+          "url": "https://open.spotify.com/artist/2LbjW13j6rNtFgYcPjR2ur"
+        },
+        {
+          "name": "julez",
+          "url": "https://open.spotify.com/artist/72DZClrG6inu1xATuKl6lH"
+        }
+      ],
+      "duration_ms": 134120,
+      "name": "missing you",
+      "url": "https://open.spotify.com/track/6XxurV8VJ9g1mE6XRjjNhW"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -83,42 +191,6 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "last frost",
-        "url": "https://open.spotify.com/album/6VtpZUpXLRxx3ejWmYIejH"
-      },
-      "artists": [
-        {
-          "name": "hallow",
-          "url": "https://open.spotify.com/artist/3Okpk8xxkxtFFGPT4LKPfa"
-        }
-      ],
-      "duration_ms": 189490,
-      "name": "last frost",
-      "url": "https://open.spotify.com/track/59EPkdAps7DberOyksoTFy"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "stay with me",
-        "url": "https://open.spotify.com/album/6HRpE7zmq0oPzpPx25E8Ha"
-      },
-      "artists": [
-        {
-          "name": "sevenlies",
-          "url": "https://open.spotify.com/artist/5Rk8mfDsfEfTWfh3EsY9n7"
-        },
-        {
-          "name": "your home",
-          "url": "https://open.spotify.com/artist/6q53f3ESKAu4uYmklhG2qV"
-        }
-      ],
-      "duration_ms": 128000,
-      "name": "stay with me",
-      "url": "https://open.spotify.com/track/0w1mQ0mOKyCNejDiJyIX3c"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
         "name": "Studies",
         "url": "https://open.spotify.com/album/1avYb0OATIZgUzbrI2ASYy"
       },
@@ -135,18 +207,18 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "lose yourself",
-        "url": "https://open.spotify.com/album/25my7x6vePhDAG31H4qxpo"
+        "name": "last frost",
+        "url": "https://open.spotify.com/album/6VtpZUpXLRxx3ejWmYIejH"
       },
       "artists": [
         {
-          "name": "my head is empty",
-          "url": "https://open.spotify.com/artist/7pxIYxdkx2675ZGKSAPBAy"
+          "name": "hallow",
+          "url": "https://open.spotify.com/artist/3Okpk8xxkxtFFGPT4LKPfa"
         }
       ],
-      "duration_ms": 146422,
-      "name": "lose yourself",
-      "url": "https://open.spotify.com/track/7lq9zT9soWz1RkvFkfGExn"
+      "duration_ms": 189490,
+      "name": "last frost",
+      "url": "https://open.spotify.com/track/59EPkdAps7DberOyksoTFy"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -185,24 +257,76 @@
       "url": "https://open.spotify.com/track/3HHCCdeqInPp4tZkYn4nKR"
     },
     {
-      "added_at": "2024-08-30 04:00:00",
+      "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "loyalty",
-        "url": "https://open.spotify.com/album/6RyXkTpBSyRZX3DFf9g9Ro"
+        "name": "Faber / Faber Sanctum",
+        "url": "https://open.spotify.com/album/6IoW1Q2cLI4iYlaKC2enrk"
       },
       "artists": [
         {
-          "name": "chylies",
-          "url": "https://open.spotify.com/artist/0hVV94BjiauhF4OhfQjUQj"
+          "name": "Cephas Azariah",
+          "url": "https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG"
+        }
+      ],
+      "duration_ms": 289121,
+      "name": "Faber Sanctum",
+      "url": "https://open.spotify.com/track/22zhB8qvcx0oU45xmiWCY9"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Breathless",
+        "url": "https://open.spotify.com/album/6GiIvMLkoLLSBVNiZuqo0w"
+      },
+      "artists": [
+        {
+          "name": "Helios",
+          "url": "https://open.spotify.com/artist/592TFYwu9Qb0RC1hKDbX2w"
+        },
+        {
+          "name": "Hollie Kenniff",
+          "url": "https://open.spotify.com/artist/5jz9oievmO3hrSV0XOxHHS"
+        }
+      ],
+      "duration_ms": 185834,
+      "name": "Breathless",
+      "url": "https://open.spotify.com/track/7q7ADZ5huqi7bf0vdWHDwZ"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Hope",
+        "url": "https://open.spotify.com/album/7s5eowxjxvNsyob3EuiHUM"
+      },
+      "artists": [
+        {
+          "name": "Daniel Herskedal",
+          "url": "https://open.spotify.com/artist/3zz8PxJE0tBfUqcZbf3SZS"
+        }
+      ],
+      "duration_ms": 326693,
+      "name": "Call For Winter II",
+      "url": "https://open.spotify.com/track/3NkPGvXhZLgia4crLVNSuW"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "we could have been more",
+        "url": "https://open.spotify.com/album/6CtEhAgK6FiVH151C4zOo5"
+      },
+      "artists": [
+        {
+          "name": "Hinoku",
+          "url": "https://open.spotify.com/artist/4VL8BfRXdbEuK5UoqQWezr"
         },
         {
           "name": "pandora.",
           "url": "https://open.spotify.com/artist/2kz8ErEfOCprZuWDcFgzSM"
         }
       ],
-      "duration_ms": 98322,
-      "name": "loyalty",
-      "url": "https://open.spotify.com/track/1OYrYL2SxZGTG566YtEDCz"
+      "duration_ms": 107142,
+      "name": "we could have been more",
+      "url": "https://open.spotify.com/track/2IJiul5vlckoCOB3NKsXKO"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -219,22 +343,6 @@
       "duration_ms": 148800,
       "name": "Digressions",
       "url": "https://open.spotify.com/track/5kTpr7QtW1n5dk68GLTGqL"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "endless time",
-        "url": "https://open.spotify.com/album/0SKPG2tHMeWzPiUmqziq7z"
-      },
-      "artists": [
-        {
-          "name": "L0WS",
-          "url": "https://open.spotify.com/artist/40Eeh79VT5l36HSPs4aUku"
-        }
-      ],
-      "duration_ms": 149514,
-      "name": "endless time",
-      "url": "https://open.spotify.com/track/1eOpY9hSAJjyBFpeAFOQkU"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -703,6 +811,42 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
+        "name": "stay with me",
+        "url": "https://open.spotify.com/album/6HRpE7zmq0oPzpPx25E8Ha"
+      },
+      "artists": [
+        {
+          "name": "sevenlies",
+          "url": "https://open.spotify.com/artist/5Rk8mfDsfEfTWfh3EsY9n7"
+        },
+        {
+          "name": "your home",
+          "url": "https://open.spotify.com/artist/6q53f3ESKAu4uYmklhG2qV"
+        }
+      ],
+      "duration_ms": 128000,
+      "name": "stay with me",
+      "url": "https://open.spotify.com/track/0w1mQ0mOKyCNejDiJyIX3c"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "lose yourself",
+        "url": "https://open.spotify.com/album/25my7x6vePhDAG31H4qxpo"
+      },
+      "artists": [
+        {
+          "name": "my head is empty",
+          "url": "https://open.spotify.com/artist/7pxIYxdkx2675ZGKSAPBAy"
+        }
+      ],
+      "duration_ms": 146422,
+      "name": "lose yourself",
+      "url": "https://open.spotify.com/track/7lq9zT9soWz1RkvFkfGExn"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
         "name": "rays of light",
         "url": "https://open.spotify.com/album/4dK89RdUdx4IXG2QGIkPL4"
       },
@@ -995,6 +1139,22 @@
       "duration_ms": 149543,
       "name": "fever dream",
       "url": "https://open.spotify.com/track/5aoS1GszAqFXDYPQKOzCiM"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "endless time",
+        "url": "https://open.spotify.com/album/0SKPG2tHMeWzPiUmqziq7z"
+      },
+      "artists": [
+        {
+          "name": "L0WS",
+          "url": "https://open.spotify.com/artist/40Eeh79VT5l36HSPs4aUku"
+        }
+      ],
+      "duration_ms": 149514,
+      "name": "endless time",
+      "url": "https://open.spotify.com/track/1eOpY9hSAJjyBFpeAFOQkU"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1651,22 +1811,6 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "Air",
-        "url": "https://open.spotify.com/album/7FPNe95zfJ4DMp1l7OQs5o"
-      },
-      "artists": [
-        {
-          "name": "Forest Management",
-          "url": "https://open.spotify.com/artist/2z0s65XFlIfrX3hB5A6YD7"
-        }
-      ],
-      "duration_ms": 306265,
-      "name": "Air",
-      "url": "https://open.spotify.com/track/0oj7hiLTDmLxgaVZkC9rwK"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
         "name": "start living",
         "url": "https://open.spotify.com/album/2ubYnFKECzSrMC1M8kvPum"
       },
@@ -1679,22 +1823,6 @@
       "duration_ms": 146283,
       "name": "start living",
       "url": "https://open.spotify.com/track/62eW2PIGflirLxrzV7H8sv"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "Fable",
-        "url": "https://open.spotify.com/album/4snR7jdu8SjlWVVP91x5nS"
-      },
-      "artists": [
-        {
-          "name": "widx.",
-          "url": "https://open.spotify.com/artist/0coIXI6j3BgwYiTxbhu5Un"
-        }
-      ],
-      "duration_ms": 117446,
-      "name": "Fable",
-      "url": "https://open.spotify.com/track/6aFgTeAArLgNBlt1lcVF3o"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1759,22 +1887,6 @@
       "duration_ms": 100869,
       "name": "peaceful silence",
       "url": "https://open.spotify.com/track/2D1lEjMYTWSMzuclNyLKDq"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "the end of story",
-        "url": "https://open.spotify.com/album/64bQaGQbPTf8Hnan5SE0QY"
-      },
-      "artists": [
-        {
-          "name": "Ybyrayy",
-          "url": "https://open.spotify.com/artist/47tK41FkaXhZOMGszQrYBs"
-        }
-      ],
-      "duration_ms": 91636,
-      "name": "the end of story",
-      "url": "https://open.spotify.com/track/3bKNDF26cGbibJI9K6ALL5"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1939,6 +2051,22 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
+        "name": "breath",
+        "url": "https://open.spotify.com/album/5NQz9MuiwmMU9seqxfB4O2"
+      },
+      "artists": [
+        {
+          "name": "comet",
+          "url": "https://open.spotify.com/artist/7hUqDEJnvDAU7TuYlC74cy"
+        }
+      ],
+      "duration_ms": 108923,
+      "name": "pulsar",
+      "url": "https://open.spotify.com/track/33cXVAoxpOHTHkt2KdqC9c"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
         "name": "maps to nowhere",
         "url": "https://open.spotify.com/album/4PJjDMSopK3Or8D50B4MFy"
       },
@@ -1971,22 +2099,6 @@
       "duration_ms": 114857,
       "name": "Enigma",
       "url": "https://open.spotify.com/track/6sVsKes7vgD1XmNM3aAcDk"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "Narrow Time",
-        "url": "https://open.spotify.com/album/3eHE1Ic8VqFeZJZOFYsncG"
-      },
-      "artists": [
-        {
-          "name": "Blurstem",
-          "url": "https://open.spotify.com/artist/0FXk0xKcMcLfLjkGduqGkn"
-        }
-      ],
-      "duration_ms": 259840,
-      "name": "Narrow Time",
-      "url": "https://open.spotify.com/track/36P1BXZ8knkSBQwMzQ52oN"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -2235,22 +2347,6 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "breath",
-        "url": "https://open.spotify.com/album/5NQz9MuiwmMU9seqxfB4O2"
-      },
-      "artists": [
-        {
-          "name": "comet",
-          "url": "https://open.spotify.com/artist/7hUqDEJnvDAU7TuYlC74cy"
-        }
-      ],
-      "duration_ms": 108923,
-      "name": "pulsar",
-      "url": "https://open.spotify.com/track/33cXVAoxpOHTHkt2KdqC9c"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
         "name": "Electric",
         "url": "https://open.spotify.com/album/36xdhGHuzMMieO0qQo0t3p"
       },
@@ -2331,22 +2427,6 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "you not the same",
-        "url": "https://open.spotify.com/album/2oWrvVt4fIMO5DEHXSUrhS"
-      },
-      "artists": [
-        {
-          "name": "TileKid",
-          "url": "https://open.spotify.com/artist/7HaSqpaqnOWSaqvezpdhX4"
-        }
-      ],
-      "duration_ms": 128798,
-      "name": "you not the same",
-      "url": "https://open.spotify.com/track/4txrAyGAWA9JqZzoNHiPRh"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
         "name": "soundscape lullaby",
         "url": "https://open.spotify.com/album/5upM5rPTb7M5kXFf9YBHil"
       },
@@ -2375,22 +2455,6 @@
       "duration_ms": 101333,
       "name": "Nova",
       "url": "https://open.spotify.com/track/6VczOdO8TqPFS82DxGaNMD"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "landfall",
-        "url": "https://open.spotify.com/album/0RZfr1qTO7LV6UecCldaFY"
-      },
-      "artists": [
-        {
-          "name": "Piedkies",
-          "url": "https://open.spotify.com/artist/1dT2lRJatpaerhp5FEKEGo"
-        }
-      ],
-      "duration_ms": 323809,
-      "name": "landfall",
-      "url": "https://open.spotify.com/track/1Uycso6Xf6LhzITiyTmcdR"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -2475,22 +2539,6 @@
       "duration_ms": 171451,
       "name": "overthinking - slowed + reverb",
       "url": "https://open.spotify.com/track/55ksh3dybC2OPCILeeGaIg"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "lost",
-        "url": "https://open.spotify.com/album/4juhd8RDQF4ixb0T2cIVNM"
-      },
-      "artists": [
-        {
-          "name": "remind me",
-          "url": "https://open.spotify.com/artist/60xAlF5GiiiIY7uvQL9NxI"
-        }
-      ],
-      "duration_ms": 122962,
-      "name": "lost",
-      "url": "https://open.spotify.com/track/7sTqjmUu3ju7Dbcth2TjgU"
     }
   ],
   "unique_name": "movements.",

@@ -1,6 +1,6 @@
 {
   "description": "the sweetest new indie pop, featuring Ziggy 2000 \ud83c\udf51",
-  "num_followers": 29315,
+  "num_followers": 29313,
   "original_name": "peach",
   "owner": {
     "name": "Spotify",
@@ -639,22 +639,6 @@
     {
       "added_at": "2024-09-20 11:39:59",
       "album": {
-        "name": "Romanticism",
-        "url": "https://open.spotify.com/album/6I7Al2K8HxKvyJcook1ZR8"
-      },
-      "artists": [
-        {
-          "name": "Hana Vu",
-          "url": "https://open.spotify.com/artist/3diDUq8QMCCtx8a4Jy42aO"
-        }
-      ],
-      "duration_ms": 234234,
-      "name": "Airplane",
-      "url": "https://open.spotify.com/track/5U0vVExqpq4pOEhs2ODuA9"
-    },
-    {
-      "added_at": "2024-09-20 11:39:59",
-      "album": {
         "name": "Anything",
         "url": "https://open.spotify.com/album/0kCsEG4eJcywmJb1tewQwR"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 205293,
       "name": "Anything",
       "url": "https://open.spotify.com/track/4C6A9i2wiawiFgnKLAruaW"
+    },
+    {
+      "added_at": "2024-09-20 11:39:59",
+      "album": {
+        "name": "Romanticism",
+        "url": "https://open.spotify.com/album/6I7Al2K8HxKvyJcook1ZR8"
+      },
+      "artists": [
+        {
+          "name": "Hana Vu",
+          "url": "https://open.spotify.com/artist/3diDUq8QMCCtx8a4Jy42aO"
+        }
+      ],
+      "duration_ms": 234234,
+      "name": "Airplane",
+      "url": "https://open.spotify.com/track/5U0vVExqpq4pOEhs2ODuA9"
     },
     {
       "added_at": "2024-09-20 11:39:59",
@@ -687,22 +687,6 @@
     {
       "added_at": "2024-09-20 11:39:59",
       "album": {
-        "name": "Good Riddance",
-        "url": "https://open.spotify.com/album/6jkkWXtKtdAxip4kYJMaJL"
-      },
-      "artists": [
-        {
-          "name": "Anna Lille",
-          "url": "https://open.spotify.com/artist/4nwpfzpdL72UcfB0O3y6Gk"
-        }
-      ],
-      "duration_ms": 171235,
-      "name": "Good Riddance",
-      "url": "https://open.spotify.com/track/0pnmZiwIMLCCkCoOhtLnnh"
-    },
-    {
-      "added_at": "2024-09-20 11:39:59",
-      "album": {
         "name": "Lungs",
         "url": "https://open.spotify.com/album/3b5aMQuNlkUihH61tWfafr"
       },
@@ -715,6 +699,38 @@
       "duration_ms": 220165,
       "name": "Lungs",
       "url": "https://open.spotify.com/track/2GZfOep6Qzwlzdw5yOoSMA"
+    },
+    {
+      "added_at": "2024-09-20 11:39:59",
+      "album": {
+        "name": "Crashmat",
+        "url": "https://open.spotify.com/album/0Wg1x7oDYJayjGsIqqgtE8"
+      },
+      "artists": [
+        {
+          "name": "Eden Rain",
+          "url": "https://open.spotify.com/artist/05VijScuoKQiWkLdXcsQAq"
+        }
+      ],
+      "duration_ms": 220908,
+      "name": "Crashmat",
+      "url": "https://open.spotify.com/track/0YqubN3yf6rfd44lhjstR9"
+    },
+    {
+      "added_at": "2024-09-20 11:39:59",
+      "album": {
+        "name": "Good Riddance",
+        "url": "https://open.spotify.com/album/6jkkWXtKtdAxip4kYJMaJL"
+      },
+      "artists": [
+        {
+          "name": "Anna Lille",
+          "url": "https://open.spotify.com/artist/4nwpfzpdL72UcfB0O3y6Gk"
+        }
+      ],
+      "duration_ms": 171235,
+      "name": "Good Riddance",
+      "url": "https://open.spotify.com/track/0pnmZiwIMLCCkCoOhtLnnh"
     },
     {
       "added_at": "2024-09-20 11:39:59",
@@ -771,22 +787,6 @@
     {
       "added_at": "2024-09-20 11:39:59",
       "album": {
-        "name": "Crashmat",
-        "url": "https://open.spotify.com/album/0Wg1x7oDYJayjGsIqqgtE8"
-      },
-      "artists": [
-        {
-          "name": "Eden Rain",
-          "url": "https://open.spotify.com/artist/05VijScuoKQiWkLdXcsQAq"
-        }
-      ],
-      "duration_ms": 220908,
-      "name": "Crashmat",
-      "url": "https://open.spotify.com/track/0YqubN3yf6rfd44lhjstR9"
-    },
-    {
-      "added_at": "2024-09-20 11:39:59",
-      "album": {
         "name": "BIG BOYS CRY TOO",
         "url": "https://open.spotify.com/album/3fnvp3uIQN3hUEn41ViEeo"
       },
@@ -819,22 +819,18 @@
     {
       "added_at": "2024-09-20 11:39:59",
       "album": {
-        "name": "Got Him! (Deluxe)",
-        "url": "https://open.spotify.com/album/2ayt7xGA3amKG61ZTNThv7"
+        "name": "If I Was Abducted By Aliens",
+        "url": "https://open.spotify.com/album/2P7F7SSH9F2wv70Ii7v5VE"
       },
       "artists": [
         {
-          "name": "Ethan Tasch",
-          "url": "https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw"
-        },
-        {
-          "name": "Jordana",
-          "url": "https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw"
+          "name": "Dirty Nice",
+          "url": "https://open.spotify.com/artist/4MGA6AM4iZ2HYc6b77og9g"
         }
       ],
-      "duration_ms": 139470,
-      "name": "Shell (with Jordana)",
-      "url": "https://open.spotify.com/track/7gqTEjr68W4i8fSX1wD0wF"
+      "duration_ms": 166132,
+      "name": "If I Was Abducted By Aliens",
+      "url": "https://open.spotify.com/track/7cgwbjiVtsfFSYYsrpOsPI"
     },
     {
       "added_at": "2024-09-20 11:39:59",
@@ -855,18 +851,22 @@
     {
       "added_at": "2024-09-20 11:39:59",
       "album": {
-        "name": "If I Was Abducted By Aliens",
-        "url": "https://open.spotify.com/album/2P7F7SSH9F2wv70Ii7v5VE"
+        "name": "Got Him! (Deluxe)",
+        "url": "https://open.spotify.com/album/2ayt7xGA3amKG61ZTNThv7"
       },
       "artists": [
         {
-          "name": "Dirty Nice",
-          "url": "https://open.spotify.com/artist/4MGA6AM4iZ2HYc6b77og9g"
+          "name": "Ethan Tasch",
+          "url": "https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw"
+        },
+        {
+          "name": "Jordana",
+          "url": "https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw"
         }
       ],
-      "duration_ms": 166132,
-      "name": "If I Was Abducted By Aliens",
-      "url": "https://open.spotify.com/track/7cgwbjiVtsfFSYYsrpOsPI"
+      "duration_ms": 139470,
+      "name": "Shell (with Jordana)",
+      "url": "https://open.spotify.com/track/7gqTEjr68W4i8fSX1wD0wF"
     },
     {
       "added_at": "2024-09-20 11:39:59",
@@ -919,22 +919,6 @@
     {
       "added_at": "2024-09-20 11:39:59",
       "album": {
-        "name": "Keep It Up",
-        "url": "https://open.spotify.com/album/2BfzJ8ozCGDPTD9TXNPGrL"
-      },
-      "artists": [
-        {
-          "name": "Good Neighbours",
-          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
-        }
-      ],
-      "duration_ms": 156524,
-      "name": "Keep It Up",
-      "url": "https://open.spotify.com/track/3B7cm8w1IAfOfgQHFvAsft"
-    },
-    {
-      "added_at": "2024-09-20 11:39:59",
-      "album": {
         "name": "Quiet & Perfect",
         "url": "https://open.spotify.com/album/2lACASAcN0qTsGT9yc9Mbn"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 218367,
       "name": "Quiet & Perfect",
       "url": "https://open.spotify.com/track/4CL65tRNZjpBwcXjSOVuAR"
+    },
+    {
+      "added_at": "2024-09-20 11:39:59",
+      "album": {
+        "name": "Keep It Up",
+        "url": "https://open.spotify.com/album/2BfzJ8ozCGDPTD9TXNPGrL"
+      },
+      "artists": [
+        {
+          "name": "Good Neighbours",
+          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
+        }
+      ],
+      "duration_ms": 156524,
+      "name": "Keep It Up",
+      "url": "https://open.spotify.com/track/3B7cm8w1IAfOfgQHFvAsft"
     },
     {
       "added_at": "2024-09-20 11:39:59",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2024-09-20 11:39:59",
       "album": {
-        "name": "Love Song",
-        "url": "https://open.spotify.com/album/60dJqbocDa4ipVOmP2drQl"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Green",
-          "url": "https://open.spotify.com/artist/5qt7yk11uFzsBUC3CgbyNP"
-        }
-      ],
-      "duration_ms": 218451,
-      "name": "Love Song",
-      "url": "https://open.spotify.com/track/78MskDsJaWh5K2O1D9Cn23"
-    },
-    {
-      "added_at": "2024-09-20 11:39:59",
-      "album": {
         "name": "it's all good, kid",
         "url": "https://open.spotify.com/album/1NUt7ECqlg5Zjmi5Unkmaq"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 174506,
       "name": "it's all good, kid",
       "url": "https://open.spotify.com/track/7aXRVnt0C9oRVbsUbyqpGA"
+    },
+    {
+      "added_at": "2024-09-20 11:39:59",
+      "album": {
+        "name": "Love Song",
+        "url": "https://open.spotify.com/album/60dJqbocDa4ipVOmP2drQl"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Green",
+          "url": "https://open.spotify.com/artist/5qt7yk11uFzsBUC3CgbyNP"
+        }
+      ],
+      "duration_ms": 218451,
+      "name": "Love Song",
+      "url": "https://open.spotify.com/track/78MskDsJaWh5K2O1D9Cn23"
     },
     {
       "added_at": "2024-09-20 11:39:59",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2024-09-20 11:39:59",
       "album": {
-        "name": "Palo Alto",
-        "url": "https://open.spotify.com/album/58V5LHqVQrYRLBURRer7aF"
-      },
-      "artists": [
-        {
-          "name": "Eden Rain",
-          "url": "https://open.spotify.com/artist/05VijScuoKQiWkLdXcsQAq"
-        }
-      ],
-      "duration_ms": 226983,
-      "name": "Palo Alto",
-      "url": "https://open.spotify.com/track/6ZyQkNFk3TgqwtTVMHNp2k"
-    },
-    {
-      "added_at": "2024-09-20 11:39:59",
-      "album": {
         "name": "Now That I Know You",
         "url": "https://open.spotify.com/album/10SXrX5HMTcW9P7g5CZ4W7"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 226240,
       "name": "Now That I Know You",
       "url": "https://open.spotify.com/track/69aiHwZrZBVwhhkGLRMxCM"
+    },
+    {
+      "added_at": "2024-09-20 11:39:59",
+      "album": {
+        "name": "Palo Alto",
+        "url": "https://open.spotify.com/album/58V5LHqVQrYRLBURRer7aF"
+      },
+      "artists": [
+        {
+          "name": "Eden Rain",
+          "url": "https://open.spotify.com/artist/05VijScuoKQiWkLdXcsQAq"
+        }
+      ],
+      "duration_ms": 226983,
+      "name": "Palo Alto",
+      "url": "https://open.spotify.com/track/6ZyQkNFk3TgqwtTVMHNp2k"
     },
     {
       "added_at": "2024-09-20 11:39:59",

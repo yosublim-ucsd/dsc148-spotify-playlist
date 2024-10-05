@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-06-13",
-  "description": "Aqu\u00ed viven los hits m\u00e1s grandes en La Isla del Encanto. Bad Bunny en portada.",
+  "description": "Aqu\u00ed viven los hits m\u00e1s grandes en La Isla del Encanto. Omar Courtz en portada.",
   "name": "\u00c9xitos Puerto Rico",
   "tracks": [
     {
@@ -620,7 +620,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 223448,
       "name": "Bien K",
       "url": "https://open.spotify.com/track/3VenN5aaFVnpZg73t9duGk"
@@ -668,7 +668,7 @@
       ],
       "date_added": "2023-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 286265,
       "name": "BONNIE AND CLYDE - REMIX",
       "url": "https://open.spotify.com/track/08s7guLP2nSMxmYqmjf7oV"
@@ -968,7 +968,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 190826,
       "name": "COMPETENCIA",
       "url": "https://open.spotify.com/track/1hrRcfsancQb92OcifmMV1"
@@ -1166,6 +1166,28 @@
       "duration_ms": 191959,
       "name": "CYBERTRUCK",
       "url": "https://open.spotify.com/track/4Jc7252S1P99DjQ1lNGEOc"
+    },
+    {
+      "album": {
+        "name": "Dame La Verde",
+        "url": "https://open.spotify.com/album/4nEyemOG5BK5GpUknH5Zm1"
+      },
+      "artists": [
+        {
+          "name": "Luar La L",
+          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
+        },
+        {
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215920,
+      "name": "Dame La Verde",
+      "url": "https://open.spotify.com/track/6onnX1hYWcqP2dXgfvExNG"
     },
     {
       "album": {
@@ -1841,6 +1863,24 @@
     },
     {
       "album": {
+        "name": "PRIMERA MUSA",
+        "url": "https://open.spotify.com/album/3C5uwdRE5QRoXSGPPxpDd4"
+      },
+      "artists": [
+        {
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155053,
+      "name": "G O D D E S S",
+      "url": "https://open.spotify.com/track/7E5qtyFBvbyfNbHOTR42rs"
+    },
+    {
+      "album": {
         "name": "CVRBON VRMOR [C_DE: G_D.O.N.]",
         "url": "https://open.spotify.com/album/3zaBxuBf9zSlxZ20ZRHXXE"
       },
@@ -1966,6 +2006,28 @@
       "duration_ms": 227013,
       "name": "Gato de Noche",
       "url": "https://open.spotify.com/track/54ELExv56KCAB4UP9cOCzC"
+    },
+    {
+      "album": {
+        "name": "HABLAME CLARO",
+        "url": "https://open.spotify.com/album/2uAs0cfev3WKGaotTsREhI"
+      },
+      "artists": [
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154969,
+      "name": "HABLAME CLARO",
+      "url": "https://open.spotify.com/track/6ZCfGA0bPM50DPmcSlJKGY"
     },
     {
       "album": {
@@ -3891,6 +3953,28 @@
     },
     {
       "album": {
+        "name": "PRIMERA MUSA",
+        "url": "https://open.spotify.com/album/3C5uwdRE5QRoXSGPPxpDd4"
+      },
+      "artists": [
+        {
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+        },
+        {
+          "name": "De La Rose",
+          "url": "https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224022,
+      "name": "Q U E V A S H A C E R H O Y ?",
+      "url": "https://open.spotify.com/track/0Sr7ssScx54yxdM2ols7nW"
+    },
+    {
+      "album": {
         "name": "MA\u00d1ANA SER\u00c1 BONITO (BICHOTA SEASON)",
         "url": "https://open.spotify.com/album/0FqAaUEyKCyUNFE1uQPZ7i"
       },
@@ -4073,6 +4157,28 @@
     },
     {
       "album": {
+        "name": "PRIMERA MUSA",
+        "url": "https://open.spotify.com/album/3C5uwdRE5QRoXSGPPxpDd4"
+      },
+      "artists": [
+        {
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237853,
+      "name": "S E X P L A Y L I S T 1",
+      "url": "https://open.spotify.com/track/7w3G5VXJLLbuaWylG7hvVi"
+    },
+    {
+      "album": {
         "name": "S91",
         "url": "https://open.spotify.com/album/0bgvd5Xd52TX61R8uhaISK"
       },
@@ -4132,7 +4238,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 225373,
       "name": "SE ME OLVIDA",
       "url": "https://open.spotify.com/track/2gmd7lY3QSzLh0xIY4cRvi"
@@ -4296,7 +4402,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 195824,
       "name": "Si Antes Te Hubiera Conocido",
       "url": "https://open.spotify.com/track/6WatFBLVB0x077xWeoVc2k"

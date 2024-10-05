@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-01-03",
-  "description": "De la douceur pour accompagner votre journ\u00e9e. \ud83c\udf37",
+  "description": "De la douceur pour accompagner votre journ\u00e9e. \ud83c\udf42",
   "name": "Caf\u00e9 montr\u00e9alais",
   "tracks": [
     {
@@ -3718,7 +3718,7 @@
       ],
       "date_added": "2021-01-03",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 234593,
       "name": "La flamme",
       "url": "https://open.spotify.com/track/2ZGHA6poKjdYF53JdhJfMl"
@@ -4060,7 +4060,7 @@
       ],
       "date_added": "2021-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 347533,
       "name": "Le jardin se meurt",
       "url": "https://open.spotify.com/track/6igzj55Dq55ESWR9mAKeCu"
@@ -4742,6 +4742,28 @@
       "duration_ms": 192461,
       "name": "Looking At Me",
       "url": "https://open.spotify.com/track/7MmcBM454plU5ZnamhC7D1"
+    },
+    {
+      "album": {
+        "name": "First Recordings",
+        "url": "https://open.spotify.com/album/4jyIvjfimFU7XkDf5kql9U"
+      },
+      "artists": [
+        {
+          "name": "Lhasa De Sela",
+          "url": "https://open.spotify.com/artist/3IbqRfvnvj5C22pHD38KXI"
+        },
+        {
+          "name": "Yves Desrosiers",
+          "url": "https://open.spotify.com/artist/2VK0ucevGNDKSx7v3Y62cC"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218200,
+      "name": "Los Peces",
+      "url": "https://open.spotify.com/track/6j0KzFyCDDt4Mhkje36qts"
     },
     {
       "album": {
@@ -7240,6 +7262,28 @@
       "duration_ms": 204013,
       "name": "Si tu reviens",
       "url": "https://open.spotify.com/track/4jfDgYNK4VcADKD6mSSyFs"
+    },
+    {
+      "album": {
+        "name": "Snowpath",
+        "url": "https://open.spotify.com/album/53piZ0a4vXwSbHZrymx7rT"
+      },
+      "artists": [
+        {
+          "name": "Jonah Yano",
+          "url": "https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ"
+        },
+        {
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133000,
+      "name": "Snowpath",
+      "url": "https://open.spotify.com/track/1e1QnRkEXG5HFMOUFo3V4L"
     },
     {
       "album": {

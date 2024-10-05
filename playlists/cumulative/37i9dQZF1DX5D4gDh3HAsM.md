@@ -4,7 +4,7 @@
 
 > Jazzy takes on your favorite Holiday songs\. Cover: Samara Joy
 
-150 songs - 8 hr 50 min
+151 songs - 8 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Christmas Don't Let Me Down \- Single Version](https://open.spotify.com/track/09XxwSW3nQpxngHcw6huo7) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [Christmas Don’t Let Me Down](https://open.spotify.com/album/3eJgnDbAE2wDBvtAVQUrTy) | 3:20 | 2021-11-12 |  |
 | [Christmas Dreaming](https://open.spotify.com/track/2IChCRHxRCVbo8i2zP4NVF) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Very Laufey Holiday](https://open.spotify.com/album/0PLkDF4iqGRf2zBYMiLPk3) | 2:33 | 2023-11-17 | 2024-04-19 |
 | [Christmas Dreaming](https://open.spotify.com/track/2UOmGbjOCNrnpnujfgjGKS) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Very Laufey Holiday!](https://open.spotify.com/album/7eiV9goVEhwtGs7Y33PJ06) | 2:33 | 2023-11-03 |  |
+| [Christmas in Love](https://open.spotify.com/track/43g6GeT4cgyxGxyUrEayzK) | [Renee Olstead](https://open.spotify.com/artist/19B0pJt4UEl3fUijGTRzxB) | [Christmas in Love](https://open.spotify.com/album/32eda4L6p5DJUwc7oPxb1I) | 3:27 | 2024-10-04 |  |
 | [Christmas In New Orleans](https://open.spotify.com/track/6K9qv0rAJ0QUjPnlRpMwvd) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek), [Benny Carter](https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32) | [The Decca Singles 1949\-1958](https://open.spotify.com/album/4PF4AAZ8f5stId2e5dSkE1) | 2:54 | 2021-11-12 |  |
 | [Christmas in New York](https://open.spotify.com/track/1k5garqjeufmINDIJ4RDwE) | [José James](https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz) | [ホセ・ジェイムズのクリスマス・タイム](https://open.spotify.com/album/0ijbJQRuc5NRvLtTs3206Z) | 2:57 | 2021-11-12 |  |
 | [Christmas in New York](https://open.spotify.com/track/4OtoXQ2ySVcmudZT4jF8jH) | [José James](https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz) | [Merry Christmas from José James](https://open.spotify.com/album/4bcdBu4Vjwu1J0GGs7HU72) | 2:58 | 2021-11-12 | 2024-04-19 |
@@ -50,7 +51,7 @@
 | [Diddly Squat](https://open.spotify.com/track/660M8KW5kBG8fFsKAuQWY2) | [Tasha Layton](https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq) | [This is Christmas](https://open.spotify.com/album/6wwjwUB8juXsKsFhImkg7d) | 3:05 | 2021-11-12 |  |
 | [Everything’s Not Lost](https://open.spotify.com/track/2pqHAFERxzagkJu9qzzWI3) | [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [Everything’s Not Lost](https://open.spotify.com/album/49WaKMcrbMJt3tqkLXnpVO) | 4:08 | 2023-09-22 |  |
 | [Fly Santa Fly](https://open.spotify.com/track/7DI1HipOBEAMSEGmfVVNgw) | [Jeremy Lister](https://open.spotify.com/artist/5ChUwGNEwjVk3L7Wa7nmvJ) | [Happy Holidays, Everyone](https://open.spotify.com/album/1zBD9yzF3OzQExEKxMeuOh) | 2:48 | 2021-11-12 |  |
-| [Frosty The Snowman](https://open.spotify.com/track/65irrLqfCMRiO3p87P4C0D) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Wishes You A Swinging Christmas \- Expanded Edition](https://open.spotify.com/album/2UhPCUgK2IGUrg7lIvMYfb) | 2:11 | 2021-11-12 |  |
+| [Frosty The Snowman](https://open.spotify.com/track/65irrLqfCMRiO3p87P4C0D) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Wishes You A Swinging Christmas \- Expanded Edition](https://open.spotify.com/album/2UhPCUgK2IGUrg7lIvMYfb) | 2:11 | 2021-11-12 | 2024-10-05 |
 | [Give Love on Christmas Day](https://open.spotify.com/track/4pEwwUwGSL41FJnrJ8eEei) | [Mason Embry Trio](https://open.spotify.com/artist/3CAwTtzAtzwR6grP0UR2H5) | [Give Love on Christmas Day](https://open.spotify.com/album/0bL9SXrnTbc9Tqx1kpn2q5) | 4:45 | 2022-11-14 |  |
 | [God Rest Ye Merry Gentlemen \(Spotify Singles Holiday\)](https://open.spotify.com/track/5U1edKpf8zZ04KtkvBOvbu) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W) | [God Rest Ye Merry Gentlemen \(Spotify Singles Holiday\)](https://open.spotify.com/album/6gwykwTqf7AToBqlTgYSbJ) | 3:35 | 2023-11-14 |  |
 | [Good “Swing” Wenceslas](https://open.spotify.com/track/1aeVPzsWRiLbZEcn9SSEfb) | [Count Basie Orchestra](https://open.spotify.com/artist/2Hn9fch2OLB5jZuEAVjTCe) | [A Very Swingin’ Basie Christmas!](https://open.spotify.com/album/2YeKSxPeuQYiml0g6pzn7S) | 3:33 | 2021-11-12 | 2023-11-04 |

@@ -4,7 +4,7 @@
 
 > De stærkeste nye sange fra de seneste par måneder\. Så er du opdateret!
 
-230 songs - 11 hr 52 min
+231 songs - 11 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -188,7 +188,7 @@
 | [Sad Boiii](https://open.spotify.com/track/5LOUGL5zAmtxRQIJBmuUay) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Sad Boiii](https://open.spotify.com/album/52WgEY29coP4ZokwAqmYbR) | 2:46 | 2024-09-19 |  |
 | [See You In The Afterlife](https://open.spotify.com/track/6qtGeawfnmQMUWyQ95LdIL) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Paradise State of Mind](https://open.spotify.com/album/27ynHS80OjICdw3qLNMgQP) | 3:09 | 2024-08-21 |  |
 | [Show Pony](https://open.spotify.com/track/4O05ZiEmlfUFPhvafHqcIO) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [I Love You So F\*\*\*ing Much](https://open.spotify.com/album/5i6LJyHq9wxLSecf0N2Iuw) | 4:15 | 2024-07-25 | 2024-09-27 |
-| [Signaler](https://open.spotify.com/track/689NPKXoBKWnqJif3uUVre) | [Kundo](https://open.spotify.com/artist/2GGL93jyTZ4X7uidHSJhIr), [MAS](https://open.spotify.com/artist/3Tg0bQKDqc4ONwmKywDq72) | [Signaler](https://open.spotify.com/album/2RMpD5fPqxyyugiPgCxg2e) | 2:30 | 2024-09-26 |  |
+| [Signaler](https://open.spotify.com/track/689NPKXoBKWnqJif3uUVre) | [Kundo](https://open.spotify.com/artist/2GGL93jyTZ4X7uidHSJhIr), [MAS](https://open.spotify.com/artist/3Tg0bQKDqc4ONwmKywDq72) | [Signaler](https://open.spotify.com/album/2RMpD5fPqxyyugiPgCxg2e) | 2:30 | 2024-09-26 | 2024-10-05 |
 | [Silverlines \- prod\. Labrinth](https://open.spotify.com/track/1BK1d7b9bhlbKpQPbYGsol) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Silverlines \- prod\. Labrinth](https://open.spotify.com/album/6xLihtKzCsFZm7nQrAcbF4) | 3:17 | 2024-09-26 |  |
 | [Sista Gång](https://open.spotify.com/track/2i659C6ywROaFG0kj5eOoA) | [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [Sista Gång](https://open.spotify.com/album/4sXaL6DwBY0XD5GhIBdcD6) | 2:37 | 2024-07-01 | 2024-07-27 |
 | [Skyfall \(feat\. Young Thug\)](https://open.spotify.com/track/5s6ToF2Jl5GGuBh3Wj9qnT) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [DAYS BEFORE RODEO](https://open.spotify.com/album/54Y471E7GNBSOXjZtqONId) | 5:14 | 2024-08-22 |  |
@@ -196,6 +196,7 @@
 | [so american](https://open.spotify.com/track/5Jh1i0no3vJ9u4deXkb4aV) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS \(spilled\)](https://open.spotify.com/album/1D06fz3cuob62ysTS8k6gu) | 2:49 | 2024-07-01 | 2024-07-27 |
 | [So Stunning](https://open.spotify.com/track/11H0FOYFDAQ2z6DUwIK5VZ) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [So Stunning](https://open.spotify.com/album/77iJPDjDNyKhQdsiFBNkUy) | 2:18 | 2024-07-31 | 2024-08-25 |
 | [Someone In This Room \(feat\. Bailey Zimmerman\)](https://open.spotify.com/track/3kvgQZmOgwjfVnuduPPDZG) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7), [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [That Ain't No Man That's The Devil](https://open.spotify.com/album/4BnCr0behKaGscMMhpiHX7) | 3:20 | 2024-09-12 |  |
+| [SOMEONE TO YOU](https://open.spotify.com/track/5TRueIWflmHqxe997vpwJY) | [Matt Hansen](https://open.spotify.com/artist/6wlhqnATSJIc0NQ64VxOVJ) | [SOMEONE TO YOU](https://open.spotify.com/album/24A93xPSOf7aLOVRNtF5Be) | 2:59 | 2024-10-03 |  |
 | [SOS \(Sex on Sight\) \(feat\. USHER\)](https://open.spotify.com/track/2iNMrWUMlqf03NrHCQZY71) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv), [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [SOS \(Sex on Sight\) \(feat\. USHER\)](https://open.spotify.com/album/5tVtBhkc0CWO1TKsx6CdQH) | 4:25 | 2024-09-05 |  |
 | [Stardust](https://open.spotify.com/track/4266h07udCdZ83jswW10IG) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [ROOM UNDER THE STAIRS](https://open.spotify.com/album/0PGluYePuY9INYN7SQheZ0) | 3:52 | 2024-07-01 | 2024-09-06 |
 | [Stargazing](https://open.spotify.com/track/3Vr3zh0r7ALn8VLqCiRR10) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Stargazing](https://open.spotify.com/album/3VNxRarx9HUI5w7DHv0TBj) | 2:52 | 2024-07-01 | 2024-08-17 |

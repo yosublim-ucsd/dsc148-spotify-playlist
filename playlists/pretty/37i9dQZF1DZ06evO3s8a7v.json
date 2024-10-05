@@ -1,12 +1,12 @@
 {
-  "description": "This Is MYA. Los temas esenciales, todos en una lista.",
-  "num_followers": 41277,
+  "description": "This is MYA. Track-track unggulan, semuanya dalam satu playlist.",
+  "num_followers": 41294,
   "original_name": "This Is MYA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvyNAAAAAAADMcPNyLYVv1U3PllceMZr",
+  "snapshot_id": "Zv3egAAAAAAQ721ZyroAIANmgvwpVLl5",
   "tracks": [
     {
       "added_at": null,
@@ -151,26 +151,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Yo No Te Pido la Luna",
-        "url": "https://open.spotify.com/album/64RDIlFxajlL9xg1XuXCTW"
-      },
-      "artists": [
-        {
-          "name": "Soledad",
-          "url": "https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY"
-        },
-        {
-          "name": "MYA",
-          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
-        }
-      ],
-      "duration_ms": 171153,
-      "name": "Yo No Te Pido la Luna",
-      "url": "https://open.spotify.com/track/20ltlI3KqpAnJJgo4mr32Q"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MYA LIVE P5: Si T\u00fa La Ves",
         "url": "https://open.spotify.com/album/6odcBxR8P9lK9NiV0h7MJF"
       },
@@ -187,6 +167,26 @@
       "duration_ms": 190583,
       "name": "MYA LIVE P5: Si T\u00fa La Ves",
       "url": "https://open.spotify.com/track/02EOwlpC4Oo8n9FYSYYkjH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Yo No Te Pido la Luna",
+        "url": "https://open.spotify.com/album/64RDIlFxajlL9xg1XuXCTW"
+      },
+      "artists": [
+        {
+          "name": "Soledad",
+          "url": "https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY"
+        },
+        {
+          "name": "MYA",
+          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
+        }
+      ],
+      "duration_ms": 171153,
+      "name": "Yo No Te Pido la Luna",
+      "url": "https://open.spotify.com/track/20ltlI3KqpAnJJgo4mr32Q"
     },
     {
       "added_at": null,
@@ -211,6 +211,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hoy",
+        "url": "https://open.spotify.com/album/4Wd3wzu93MYl3sJPEvxLT8"
+      },
+      "artists": [
+        {
+          "name": "MYA",
+          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
+        },
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        }
+      ],
+      "duration_ms": 185426,
+      "name": "Te Olvidar\u00e9",
+      "url": "https://open.spotify.com/track/4jrZI0XdexLjrHlBwLbhzL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "MYA LIVE P4: Prisionero",
         "url": "https://open.spotify.com/album/4TD3spO6LpCNJFl7usMCqG"
       },
@@ -231,8 +251,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hoy",
-        "url": "https://open.spotify.com/album/4Wd3wzu93MYl3sJPEvxLT8"
+        "name": "MAL DE AMOR",
+        "url": "https://open.spotify.com/album/1PJGPDQCUfl18e5C3to1Uk"
       },
       "artists": [
         {
@@ -240,13 +260,13 @@
           "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
         },
         {
-          "name": "Pedro Cap\u00f3",
-          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
         }
       ],
-      "duration_ms": 185426,
-      "name": "Te Olvidar\u00e9",
-      "url": "https://open.spotify.com/track/4jrZI0XdexLjrHlBwLbhzL"
+      "duration_ms": 221270,
+      "name": "MAL DE AMOR",
+      "url": "https://open.spotify.com/track/0j15NSe9m6egjzJXXn1QXQ"
     },
     {
       "added_at": null,
@@ -275,26 +295,6 @@
       "duration_ms": 167038,
       "name": "Lado Triste - Remix",
       "url": "https://open.spotify.com/track/7gNClxHxDnazoQvgFhLMKr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "MAL DE AMOR",
-        "url": "https://open.spotify.com/album/1PJGPDQCUfl18e5C3to1Uk"
-      },
-      "artists": [
-        {
-          "name": "MYA",
-          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
-        },
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        }
-      ],
-      "duration_ms": 221270,
-      "name": "MAL DE AMOR",
-      "url": "https://open.spotify.com/track/0j15NSe9m6egjzJXXn1QXQ"
     },
     {
       "added_at": null,
@@ -879,8 +879,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Escondidas",
-        "url": "https://open.spotify.com/album/2NUgat9TkrF2H74ST2uin6"
+        "name": "TAZA TAZA",
+        "url": "https://open.spotify.com/album/6W3BGeXevLnWTBXndzF8IS"
       },
       "artists": [
         {
@@ -888,9 +888,9 @@
           "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
         }
       ],
-      "duration_ms": 148184,
-      "name": "A Escondidas",
-      "url": "https://open.spotify.com/track/0Myz4UuooJeosNmbscdfZZ"
+      "duration_ms": 158522,
+      "name": "TAZA TAZA",
+      "url": "https://open.spotify.com/track/6IJYQVYMKo0BX3unxcszSn"
     },
     {
       "added_at": null,
@@ -915,8 +915,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "TAZA TAZA",
-        "url": "https://open.spotify.com/album/6W3BGeXevLnWTBXndzF8IS"
+        "name": "A Escondidas",
+        "url": "https://open.spotify.com/album/2NUgat9TkrF2H74ST2uin6"
       },
       "artists": [
         {
@@ -924,9 +924,9 @@
           "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
         }
       ],
-      "duration_ms": 158522,
-      "name": "TAZA TAZA",
-      "url": "https://open.spotify.com/track/6IJYQVYMKo0BX3unxcszSn"
+      "duration_ms": 148184,
+      "name": "A Escondidas",
+      "url": "https://open.spotify.com/track/0Myz4UuooJeosNmbscdfZZ"
     },
     {
       "added_at": null,

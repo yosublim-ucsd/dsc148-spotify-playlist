@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FJ8JYkqiJu.md) - [plain]
 
 > Tune in, bliss out
 
-[Spotify](https://open.spotify.com/user/spotify) - 392,578 likes - 70 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 392,628 likes - 70 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,11 +63,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FJ8JYkqiJu.md) - [plain]
 | 53 | [No Fun](https://open.spotify.com/track/5ImCVtO1gvcD1ttdG5SrQT) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb), [Rae Morris](https://open.spotify.com/artist/67xyhWIvYQK5qr6b0gElst) | [No Fun](https://open.spotify.com/album/3NGq4jAZprobTG7zRyxFht) | 6:51 |
 | 54 | [Here](https://open.spotify.com/track/6HAVjFro6OKMcY2xHOP0l7) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [Here](https://open.spotify.com/album/09wfArPc6oilmo1SDtoWaj) | 3:12 |
 | 55 | [Promises](https://open.spotify.com/track/6J1J0mAEKODPz10Tthdhwv) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I), [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Promises](https://open.spotify.com/album/1ccKMe1V4ixAhUZSQmWwqF) | 3:28 |
-| 56 | [Body](https://open.spotify.com/track/649wzzjX1Xz739rJxqbyWm) | [Future Soundscapes](https://open.spotify.com/artist/78GOlphTWBNF3LpZtbH1oA) | [Body](https://open.spotify.com/album/47Kr2pTLecB1WiI5b9DjEN) | 2:16 |
-| 57 | [Sunset With You](https://open.spotify.com/track/0nL6CQenIqkfhXuANgWiCw) | [Klub Rider](https://open.spotify.com/artist/16qQcoH29BgfLJtFqSPT2f) | [Sunset With You](https://open.spotify.com/album/1DFuNmBPD6jrncXV7ksHbS) | 2:06 |
-| 58 | [31 Bloom](https://open.spotify.com/track/6oTshmafPagXMEZeLBzc6Y) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Three](https://open.spotify.com/album/7mpTSR6E855VhdCeoPgpCF) | 5:52 |
+| 56 | [Sunset With You](https://open.spotify.com/track/0nL6CQenIqkfhXuANgWiCw) | [Klub Rider](https://open.spotify.com/artist/16qQcoH29BgfLJtFqSPT2f) | [Sunset With You](https://open.spotify.com/album/1DFuNmBPD6jrncXV7ksHbS) | 2:06 |
+| 57 | [Body](https://open.spotify.com/track/649wzzjX1Xz739rJxqbyWm) | [Future Soundscapes](https://open.spotify.com/artist/78GOlphTWBNF3LpZtbH1oA) | [Body](https://open.spotify.com/album/47Kr2pTLecB1WiI5b9DjEN) | 2:16 |
+| 58 | [Loom \(feat\. Bonobo\)](https://open.spotify.com/track/7HfDDnqygZdXqzH33fWZfx) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia), [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [some kind of peace](https://open.spotify.com/album/6NW97EFYSQ9X1CulKyL7wf) | 3:46 |
 | 59 | [Tides](https://open.spotify.com/track/7rRYiBxeudiHMNmgptnne9) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B) | [Tides](https://open.spotify.com/album/2ygrwR30mOdEfqh2eJcGNY) | 3:46 |
-| 60 | [Loom \(feat\. Bonobo\)](https://open.spotify.com/track/7HfDDnqygZdXqzH33fWZfx) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia), [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [some kind of peace](https://open.spotify.com/album/6NW97EFYSQ9X1CulKyL7wf) | 3:46 |
+| 60 | [31 Bloom](https://open.spotify.com/track/6oTshmafPagXMEZeLBzc6Y) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Three](https://open.spotify.com/album/7mpTSR6E855VhdCeoPgpCF) | 5:52 |
 | 61 | [Ask](https://open.spotify.com/track/1QDfa76GouFESAc6e9xI7l) | [Dual Sessions](https://open.spotify.com/artist/62G1LvBKkkl7sLHqrGbAcp), [Style Project](https://open.spotify.com/artist/1vWOhY2gsar5XKVJqBfdrh) | [Ask](https://open.spotify.com/album/4FkzJu0EGu2Y5zz7XQpQQD) | 2:20 |
 | 62 | [malo okoma \- Radio Edit](https://open.spotify.com/track/7tdviypkABEstu9z7gSB27) | [dj poolboi](https://open.spotify.com/artist/3uL9a8QRwQ6J8Sc7NYK7oJ), [Theresa Ng'ambi](https://open.spotify.com/artist/1HhaUK3JlqgSpQ4noxzCHI) | [malo okoma](https://open.spotify.com/album/7LMiwsl0kMpnzRyQjzowCV) | 4:05 |
 | 63 | [Lençóis \(Love Me\)](https://open.spotify.com/track/72DxIGCEAp0mEn4hLFY7G7) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Lençóis \(Love Me\)](https://open.spotify.com/album/3Rn9tJqGpKSHrmUvVFO6De) | 3:45 |
@@ -77,6 +77,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FJ8JYkqiJu.md) - [plain]
 | 67 | [Heartaches](https://open.spotify.com/track/1hBvUKlvyia60edCcBsxkv) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [Heartaches](https://open.spotify.com/album/5YPvNcQMA4ZIwvZthhtMz3) | 3:27 |
 | 68 | [Shadows](https://open.spotify.com/track/4PDYYvVrcHWDvesiKo74Lh) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Shadows](https://open.spotify.com/album/62qsqtnaiVv09V1yjxfLx0) | 4:45 |
 | 69 | [La Perla \- Tourist Remix](https://open.spotify.com/track/1V2Z18nOByb7DqCECFh2Yt) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf), [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [La Perla \(Tourist Remix\)](https://open.spotify.com/album/2CEQtjRACjOqhLnDsiKzor) | 5:17 |
-| 70 | [The World](https://open.spotify.com/track/6RVN9H6vorFr6wFrLEQai7) | [Abroad](https://open.spotify.com/artist/52bjb93yzh8uzbJkO94zft) | [A.M](https://open.spotify.com/album/6nRDtBGnumQybKr6X1BMEK) | 3:29 |
+| 70 | [Gemini](https://open.spotify.com/track/045XVRhD2NCR8LtNVR1Yqh) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi) | [Miracles](https://open.spotify.com/album/6zkjYpTdFBcRz5m4Ui8tsy) | 4:29 |
 
 Snapshot ID: `ZuO4wAAAAAALPpGwyHlZSqp3jwtSaZy0`

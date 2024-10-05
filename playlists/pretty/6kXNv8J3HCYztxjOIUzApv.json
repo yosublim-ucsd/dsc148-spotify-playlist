@@ -1,13 +1,29 @@
 {
   "description": "Rock out while you work out! Follow for updates!",
-  "num_followers": 60939,
+  "num_followers": 60934,
   "original_name": "Hard Rock Workout",
   "owner": {
     "name": "Better Noise Music",
     "url": "https://open.spotify.com/user/elevensevenmusic"
   },
-  "snapshot_id": "AAAIiALOWehjNkMstcgQElmg5fI6lFBp",
+  "snapshot_id": "AAAIiiYpxR0g6zOcw9piI7E/jFa3ySIa",
   "tracks": [
+    {
+      "added_at": "2024-10-04 16:01:05",
+      "album": {
+        "name": "The Trooper",
+        "url": "https://open.spotify.com/album/6we9preGiPMKlAlHFWx4FH"
+      },
+      "artists": [
+        {
+          "name": "The HU",
+          "url": "https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc"
+        }
+      ],
+      "duration_ms": 251375,
+      "name": "The Trooper",
+      "url": "https://open.spotify.com/track/3X9TaoUaAgBCQ3G9DLCBOZ"
+    },
     {
       "added_at": "2024-06-21 15:19:21",
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "All live, all jazz. Cover: Nat King Cole",
-  "num_followers": 13255,
+  "num_followers": 13260,
   "original_name": "Jazz Live & Loud",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZodvwAAAAAA214PUE2sfOTEPuNHeXfAF",
+  "snapshot_id": "Zv9oQAAAAAC+BcQGaQnBy5jL2msEIHpG",
   "tracks": [
     {
       "added_at": "2024-05-31 04:00:00",
@@ -23,6 +23,34 @@
       "duration_ms": 127986,
       "name": "Walkin' My Baby Back Home - Live at the Blue Note Chicago",
       "url": "https://open.spotify.com/track/0LrkGhiOu55op9d3U8R9W1"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Isotope (Live)",
+        "url": "https://open.spotify.com/album/2xII9ItURggn4o709YPigf"
+      },
+      "artists": [
+        {
+          "name": "McCoy Tyner",
+          "url": "https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr"
+        },
+        {
+          "name": "Joe Henderson",
+          "url": "https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt"
+        },
+        {
+          "name": "Henry Grimes",
+          "url": "https://open.spotify.com/artist/30OxEKhUI8LpORvCp14lr3"
+        },
+        {
+          "name": "Jack DeJohnette",
+          "url": "https://open.spotify.com/artist/7rDjbKTLlpNYJRWMm7QVxU"
+        }
+      ],
+      "duration_ms": 423205,
+      "name": "Isotope - Live",
+      "url": "https://open.spotify.com/track/7u7yYw9nNUfGl9ax63rVLV"
     },
     {
       "added_at": "2024-07-05 04:00:00",
@@ -743,26 +771,6 @@
       "duration_ms": 1151423,
       "name": "Patrice - Live",
       "url": "https://open.spotify.com/track/6bHuuD809FCg6tQW3U83iu"
-    },
-    {
-      "added_at": "2022-04-08 04:02:00",
-      "album": {
-        "name": "Live at Fabrik Hamburg 1986",
-        "url": "https://open.spotify.com/album/57TC45obhfyPmfCpoE9NcK"
-      },
-      "artists": [
-        {
-          "name": "McCoy Tyner",
-          "url": "https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr"
-        },
-        {
-          "name": "Freddie Hubbard Quartet",
-          "url": "https://open.spotify.com/artist/2BP1CjtFdJwjtS082ptpSJ"
-        }
-      ],
-      "duration_ms": 876131,
-      "name": "Latino Suite - Live",
-      "url": "https://open.spotify.com/track/39d6rn4ftwAGaEOjDVqDdg"
     },
     {
       "added_at": "2022-07-01 04:02:00",

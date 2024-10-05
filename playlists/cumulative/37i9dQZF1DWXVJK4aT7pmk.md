@@ -2,9 +2,9 @@
 
 ### [Hot Hits Punjabi](https://open.spotify.com/playlist/37i9dQZF1DWXVJK4aT7pmk)
 
-> Catch the hottest Punjabi tracks\. Cover\- AP Dhillon
+> Catch the hottest Punjabi tracks\. Cover \- Yo Yo Honey Singh
 
-119 songs - 6 hr 9 min
+120 songs - 6 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [God Damn](https://open.spotify.com/track/209QxKVJzh2FLUmZHpYs4m) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Hiten](https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh) | [Ek Tha Raja](https://open.spotify.com/album/0LcyzKKw3RjFKL6ygISTeU) | 2:47 | 2024-03-22 |  |
 | [Goin' Off](https://open.spotify.com/track/3txE0SZnwamBhYB2ZQtHwU) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K) | [Goin' Off](https://open.spotify.com/album/3uXGbWKTUkC14RmbgjTQlM) | 2:43 | 2024-05-13 |  |
 | [Hass Hass](https://open.spotify.com/track/72vuBPMhwFNlSYpTSf6fVD) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Greg Kurstin](https://open.spotify.com/artist/2sWf9Tj6EsTxURcgil3NTG) | [Hass Hass](https://open.spotify.com/album/7F8VISoJUWFEY57b66QZxC) | 2:33 | 2024-01-04 |  |
-| [Her](https://open.spotify.com/track/6biqkuWq069vByAEeGxZlr) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Her](https://open.spotify.com/album/17kCYpIx9cO6WEt3B7795R) | 2:34 | 2024-01-04 |  |
+| [Her](https://open.spotify.com/track/6biqkuWq069vByAEeGxZlr) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Her](https://open.spotify.com/album/17kCYpIx9cO6WEt3B7795R) | 2:34 | 2024-01-04 | 2024-10-05 |
 | [Hood Famous](https://open.spotify.com/track/5iVYMQKl3OZi0ULxeKAkho) | [Navaan Sandhu](https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1) | [Relentless](https://open.spotify.com/album/5RUFZa2yj47Co6rMWEJzwQ) | 2:56 | 2024-01-04 | 2024-02-03 |
 | [Hot Shit](https://open.spotify.com/track/5olluo8Xh733gDwhmchDlp) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Chobar](https://open.spotify.com/album/0PYDvpixI39fPsmBAs3FC6) | 2:43 | 2024-02-07 | 2024-02-20 |
 | [IDK HOW](https://open.spotify.com/track/5ouREJYZCYqwF0p7VeUtfH) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Four Me](https://open.spotify.com/album/09LRfKybx7mDRlMtysHrcX) | 2:55 | 2024-07-02 |  |
@@ -72,6 +72,7 @@
 | [Lemonade](https://open.spotify.com/track/3ZGJhN4unVspOqpwGvUL2W) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Drive Thru](https://open.spotify.com/album/6KgPhunJItRDOhJFh6Sy78) | 2:46 | 2024-01-04 | 2024-08-23 |
 | [MEDAL](https://open.spotify.com/track/4K5aBuakMjnDhFa56CmlHC) | [Chandra Brar](https://open.spotify.com/artist/5sieaTASHA1VDIsOg04ubm), [MixSingh](https://open.spotify.com/artist/05dG9pMLRWenxzvSmefE6U) | [MEDAL](https://open.spotify.com/album/1UWSQ9JqRDlPfFMR89J9kf) | 2:13 | 2024-02-29 |  |
 | [Mi Amor](https://open.spotify.com/track/24MMjyA3NLqCsDJfsn51eg) | [Sharn](https://open.spotify.com/artist/74RGMjbSsFv5RLj8wVx9Yv), [40k](https://open.spotify.com/artist/6nAMu7pGqdwUSsGMZPUvSk), [The Paul](https://open.spotify.com/artist/1i31OYo0s5VoMCaMRJFZkJ) | [Mi Amor](https://open.spotify.com/album/0azGrKHPYvl2MEKwQFfbV2) | 3:23 | 2024-01-04 |  |
+| [Millionaire](https://open.spotify.com/track/78BWCd70D1X6LMkDZm1UoF) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR) | [GLORY](https://open.spotify.com/album/5KF4xCxDD8ip003hoatFT9) | 3:19 | 2024-10-04 |  |
 | [Moon Rise](https://open.spotify.com/track/3oWv5qDKYN7MH6FdlglMN5) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Sanjoy](https://open.spotify.com/artist/6qjhYs5KNSoSU6fNJqDGIo) | [Man Of The Moon](https://open.spotify.com/album/0jasm0jnhQ6Y6OUYTI1NL6) | 2:54 | 2024-01-04 |  |
 | [Murder](https://open.spotify.com/track/0uMY0ZOYpXKHPxuakVtQzs) | [Real Boss](https://open.spotify.com/artist/7mAbpafXc2MIAZn4ldxEuP), [BIG KAY SMG](https://open.spotify.com/artist/0z4Mzficie9vUzDmz4Hy9G) | [Murder](https://open.spotify.com/album/1i6h3Xs1qunoQAO7N2XHVg) | 3:02 | 2024-02-29 |  |
 | [MVP](https://open.spotify.com/track/5BQePe9rcCJozHK3oPayYk) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [MVP](https://open.spotify.com/album/5oCCfkVCpkSUhBUXe0pyJF) | 3:16 | 2024-05-10 |  |

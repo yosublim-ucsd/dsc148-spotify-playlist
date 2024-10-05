@@ -367,6 +367,28 @@
     },
     {
       "album": {
+        "name": "All Bout Me",
+        "url": "https://open.spotify.com/album/1arumypsUacYzUOyoL7yrv"
+      },
+      "artists": [
+        {
+          "name": "Jas Dhillon",
+          "url": "https://open.spotify.com/artist/2airdhY6xFwKcT9xEvYkHO"
+        },
+        {
+          "name": "SXRPANCH",
+          "url": "https://open.spotify.com/artist/4BrIojCbr3rc1I2tJBdNYv"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190908,
+      "name": "All Bout Me",
+      "url": "https://open.spotify.com/track/4MpzDc1zB9ZD0sZQ70pAus"
+    },
+    {
+      "album": {
         "name": "AnyTime",
         "url": "https://open.spotify.com/album/7oWh8bdG3uExbxZpTd8Yae"
       },
@@ -478,7 +500,7 @@
       ],
       "date_added": "2024-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 141983,
       "name": "Bad Ass Boy",
       "url": "https://open.spotify.com/track/1PanDlK13SWPjKvOdCjHK1"
@@ -798,6 +820,32 @@
       "duration_ms": 163208,
       "name": "Calgary",
       "url": "https://open.spotify.com/track/3DiJ2iurZ6wM1Kx90Z2RWt"
+    },
+    {
+      "album": {
+        "name": "Career",
+        "url": "https://open.spotify.com/album/4YITR6DLgO3MvwLPi7mNWF"
+      },
+      "artists": [
+        {
+          "name": "Paabla",
+          "url": "https://open.spotify.com/artist/0GrJz6wztfhvHOGKMbCWjZ"
+        },
+        {
+          "name": "San-B",
+          "url": "https://open.spotify.com/artist/5F5Gjm7dSLUY66aTEUR1pD"
+        },
+        {
+          "name": "Nav Garhiwala",
+          "url": "https://open.spotify.com/artist/2ZP4fYUwJqNeeAWlYuYzDH"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175000,
+      "name": "Career",
+      "url": "https://open.spotify.com/track/530WwA5hy7go2LYDeK1FIF"
     },
     {
       "album": {
@@ -1450,7 +1498,7 @@
       ],
       "date_added": "2024-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 202387,
       "name": "Gangsta",
       "url": "https://open.spotify.com/track/5RxnlCaQwE5amMH8fMri5X"
@@ -1476,6 +1524,32 @@
       "duration_ms": 190153,
       "name": "Gangsta",
       "url": "https://open.spotify.com/track/3Vmo13MxVRKBszmfK61ONH"
+    },
+    {
+      "album": {
+        "name": "Good Time",
+        "url": "https://open.spotify.com/album/2SbH9SvidhNFvlrJafvfCP"
+      },
+      "artists": [
+        {
+          "name": "Rdikulus",
+          "url": "https://open.spotify.com/artist/4KkxoSVvuZuq8O51XRFTms"
+        },
+        {
+          "name": "Mixman Shawn",
+          "url": "https://open.spotify.com/artist/3R6sD3M5ZGVU7nQJUmQ9SA"
+        },
+        {
+          "name": "CheemaBeatz",
+          "url": "https://open.spotify.com/artist/3QEIlc0qx1Aq84jCd8RfXu"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129797,
+      "name": "Good Time",
+      "url": "https://open.spotify.com/track/5SIKuSl4Bw59yri67kEEM1"
     },
     {
       "album": {
@@ -1970,7 +2044,7 @@
       ],
       "date_added": "2024-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 157500,
       "name": "JVM (Normalisin Richness)",
       "url": "https://open.spotify.com/track/1apaIhHdx18Pty3THDOUpC"
@@ -2165,6 +2239,28 @@
     },
     {
       "album": {
+        "name": "Lyrical Exercise",
+        "url": "https://open.spotify.com/album/0qtVZOgjldJUSWjf8oSFsX"
+      },
+      "artists": [
+        {
+          "name": "Chinna",
+          "url": "https://open.spotify.com/artist/33saytE0qGBD96vkPj4ALw"
+        },
+        {
+          "name": "Manni Sandhu",
+          "url": "https://open.spotify.com/artist/3IzepIGEFUSFFnuIVGwZDS"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100556,
+      "name": "Lyrical Exercise",
+      "url": "https://open.spotify.com/track/6CZ0hoJxvEWR8CtYtNZCrB"
+    },
+    {
+      "album": {
         "name": "Maade Link",
         "url": "https://open.spotify.com/album/46MaYPzbhzDI0umuNxZuqV"
       },
@@ -2286,6 +2382,24 @@
       "duration_ms": 170322,
       "name": "MAJHE AALE",
       "url": "https://open.spotify.com/track/5eN1nmOe9R29OBL6soTJov"
+    },
+    {
+      "album": {
+        "name": "Mature",
+        "url": "https://open.spotify.com/album/0kd3RgfFiPHBk8XE9F56fc"
+      },
+      "artists": [
+        {
+          "name": "EKAM",
+          "url": "https://open.spotify.com/artist/4SmR8tn9GIzfzawszn6Gav"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144598,
+      "name": "Mature",
+      "url": "https://open.spotify.com/track/1UOiwtPyuGvJB3NhPlYCou"
     },
     {
       "album": {
@@ -2710,7 +2824,7 @@
       ],
       "date_added": "2024-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 115087,
       "name": "No Worries",
       "url": "https://open.spotify.com/track/4hoGOPnhq84doCT0eBohT8"
@@ -3700,6 +3814,28 @@
       "duration_ms": 146000,
       "name": "Udda Adda",
       "url": "https://open.spotify.com/track/5l73e044D6SL8IrgKtQzbn"
+    },
+    {
+      "album": {
+        "name": "Unfreeze",
+        "url": "https://open.spotify.com/album/6rCxVdX7xsN2HGPcmTKKP3"
+      },
+      "artists": [
+        {
+          "name": "Manwal",
+          "url": "https://open.spotify.com/artist/591aJOvKL4jvZljzwGU9Df"
+        },
+        {
+          "name": "Mahiwaal",
+          "url": "https://open.spotify.com/artist/0oYAdne8qNXVtzbuU88ssO"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138333,
+      "name": "Unfreeze",
+      "url": "https://open.spotify.com/track/1A629s5oIVLiBg03A2s4sl"
     },
     {
       "album": {

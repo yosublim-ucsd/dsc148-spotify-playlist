@@ -1,12 +1,12 @@
 {
   "description": "Tomorrow's <a href=\"spotify:genre:edm_dance\">dance</a> hits, with TSHA.",
-  "num_followers": 1950979,
+  "num_followers": 1950956,
   "original_name": "Dance Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zvrc4AAAAAASUcX2bXI+3ZKQ4A/MIrf2",
+  "snapshot_id": "Zv9oQAAAAAANg2rZpcVd/uB4SY0+HnMw",
   "tracks": [
     {
       "added_at": "2024-09-13 04:00:00",
@@ -45,26 +45,6 @@
       "url": "https://open.spotify.com/track/1zgs6QpTBuJ67TQvXMtp7L"
     },
     {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
-        "name": "Body Type",
-        "url": "https://open.spotify.com/album/6pteqWmVaX9tkjvzUbdmvG"
-      },
-      "artists": [
-        {
-          "name": "Badger",
-          "url": "https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3"
-        },
-        {
-          "name": "Icona Pop",
-          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
-        }
-      ],
-      "duration_ms": 132378,
-      "name": "Body Type",
-      "url": "https://open.spotify.com/track/7iD8SlzwQB6zOVEA4wm3oN"
-    },
-    {
       "added_at": "2024-09-27 04:00:00",
       "album": {
         "name": "Sad Girl",
@@ -97,20 +77,32 @@
       "url": "https://open.spotify.com/track/5hs3AhpYTiN43bzF8uFn2N"
     },
     {
-      "added_at": "2024-09-27 04:00:00",
+      "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Freaky Feed Me / Outlaws (feat. Audio Bullys & Olly Burden)",
-        "url": "https://open.spotify.com/album/0XIJC8hJTQVMZ6Ys6NfziW"
+        "name": "YES B!TCH (feat. Rome Fortune)",
+        "url": "https://open.spotify.com/album/05DAvfknkXbvp2RkYs1R5a"
       },
       "artists": [
         {
-          "name": "Anti Up",
-          "url": "https://open.spotify.com/artist/4UwR1ir6PovnQiwX5jRPvF"
+          "name": "DANNY AVILA",
+          "url": "https://open.spotify.com/artist/1Xv1qZHJ1hnRlWHRTZ3uci"
+        },
+        {
+          "name": "Sam WOLFE",
+          "url": "https://open.spotify.com/artist/1Hu2YwTv9wmxC8sppVVUA4"
+        },
+        {
+          "name": "HNTR",
+          "url": "https://open.spotify.com/artist/3R0yz9xgTmCOLQMPcJ6MuU"
+        },
+        {
+          "name": "Rome Fortune",
+          "url": "https://open.spotify.com/artist/0AlOgXaMBLYvxNEhqHM4np"
         }
       ],
-      "duration_ms": 215192,
-      "name": "Freaky Feed Me",
-      "url": "https://open.spotify.com/track/28mfXJIaL1GT5J4EalGxJA"
+      "duration_ms": 153569,
+      "name": "YES B!TCH (feat. Rome Fortune)",
+      "url": "https://open.spotify.com/track/02RO8IclcFVLOjHP8AJ033"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -137,6 +129,26 @@
       "url": "https://open.spotify.com/track/00GvqqIkMdHaxChyhZf9Nx"
     },
     {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "By Myself (feat. XKYLAR)",
+        "url": "https://open.spotify.com/album/0Wyj5CPSohAec06LavTbTh"
+      },
+      "artists": [
+        {
+          "name": "OMNOM",
+          "url": "https://open.spotify.com/artist/3PYRXP25JcbqhvNaJYcnWy"
+        },
+        {
+          "name": "XKYLAR",
+          "url": "https://open.spotify.com/artist/0wel071ci7nqjnNT0ywKWq"
+        }
+      ],
+      "duration_ms": 138750,
+      "name": "By Myself (feat. XKYLAR)",
+      "url": "https://open.spotify.com/track/6aA1acXyys7qbWxObLbwjj"
+    },
+    {
       "added_at": "2024-09-06 04:00:00",
       "album": {
         "name": "Pegao",
@@ -157,6 +169,22 @@
       "url": "https://open.spotify.com/track/0LmYyhrISLyWmZKyoNUs02"
     },
     {
+      "added_at": "2024-09-27 04:00:00",
+      "album": {
+        "name": "Freaky Feed Me / Outlaws (feat. Audio Bullys & Olly Burden)",
+        "url": "https://open.spotify.com/album/0XIJC8hJTQVMZ6Ys6NfziW"
+      },
+      "artists": [
+        {
+          "name": "Anti Up",
+          "url": "https://open.spotify.com/artist/4UwR1ir6PovnQiwX5jRPvF"
+        }
+      ],
+      "duration_ms": 215192,
+      "name": "Freaky Feed Me",
+      "url": "https://open.spotify.com/track/28mfXJIaL1GT5J4EalGxJA"
+    },
+    {
       "added_at": "2024-09-20 04:00:00",
       "album": {
         "name": "Bump Artist EP",
@@ -171,26 +199,6 @@
       "duration_ms": 203636,
       "name": "Bump Artist",
       "url": "https://open.spotify.com/track/1KPJ8va5CxcrWrpZ62HE5f"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
-        "name": "By Myself (feat. XKYLAR)",
-        "url": "https://open.spotify.com/album/0Wyj5CPSohAec06LavTbTh"
-      },
-      "artists": [
-        {
-          "name": "OMNOM",
-          "url": "https://open.spotify.com/artist/3PYRXP25JcbqhvNaJYcnWy"
-        },
-        {
-          "name": "XKYLAR",
-          "url": "https://open.spotify.com/artist/0wel071ci7nqjnNT0ywKWq"
-        }
-      ],
-      "duration_ms": 138750,
-      "name": "By Myself (feat. XKYLAR)",
-      "url": "https://open.spotify.com/track/6aA1acXyys7qbWxObLbwjj"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -269,6 +277,34 @@
       "url": "https://open.spotify.com/track/4oWNy3mghAjy8LGsomdCej"
     },
     {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Neverender (Rampa Remix)",
+        "url": "https://open.spotify.com/album/5Yd3nNyeFQa0CcYCMV8IUa"
+      },
+      "artists": [
+        {
+          "name": "Justice",
+          "url": "https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N"
+        },
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        },
+        {
+          "name": "Rampa",
+          "url": "https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8"
+        },
+        {
+          "name": "Keinemusik",
+          "url": "https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j"
+        }
+      ],
+      "duration_ms": 384062,
+      "name": "Neverender - Rampa Remix",
+      "url": "https://open.spotify.com/track/5EtJ3keh0umOlQ0kHXvNIS"
+    },
+    {
       "added_at": "2024-08-30 04:00:00",
       "album": {
         "name": "Like A Dream",
@@ -309,6 +345,30 @@
       "url": "https://open.spotify.com/track/4ly7j7VqnX4RpnXUBBalFz"
     },
     {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Not The Same",
+        "url": "https://open.spotify.com/album/6TcWS750Qhg2203YwZuPdX"
+      },
+      "artists": [
+        {
+          "name": "Nitefreak",
+          "url": "https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ"
+        },
+        {
+          "name": "Imad",
+          "url": "https://open.spotify.com/artist/4skzy1qEMyM3FqC3b6EjRU"
+        },
+        {
+          "name": "Clubhouse",
+          "url": "https://open.spotify.com/artist/1LbK4g8mKezX7iAmpiq3sX"
+        }
+      ],
+      "duration_ms": 196500,
+      "name": "Not The Same",
+      "url": "https://open.spotify.com/track/2B4Z3Ynr4GsNE1S6EiMWZF"
+    },
+    {
       "added_at": "2024-09-06 04:00:00",
       "album": {
         "name": "My Love (2024)",
@@ -331,34 +391,6 @@
       "duration_ms": 184949,
       "name": "My Love (2024)",
       "url": "https://open.spotify.com/track/2nljjiWhzVIugb5vgEMQQk"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
-        "name": "Tanzania (Rampa Remix)",
-        "url": "https://open.spotify.com/album/17X1yha8lkmFmVBuBTIoUP"
-      },
-      "artists": [
-        {
-          "name": "Uncle Waffles",
-          "url": "https://open.spotify.com/artist/68McnNC9twEtiynOAJRRgZ"
-        },
-        {
-          "name": "Tony Duardo",
-          "url": "https://open.spotify.com/artist/6qF0eiWwQF073J1MuVFs5z"
-        },
-        {
-          "name": "Rampa",
-          "url": "https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8"
-        },
-        {
-          "name": "Keinemusik",
-          "url": "https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j"
-        }
-      ],
-      "duration_ms": 235699,
-      "name": "Tanzania - Rampa Remix",
-      "url": "https://open.spotify.com/track/0S4v8Xpbv2qCeYzhVnhULh"
     },
     {
       "added_at": "2024-09-27 04:00:00",
@@ -477,6 +509,46 @@
       "url": "https://open.spotify.com/track/09bwwB0fpgLQbWQmQ5Q5sm"
     },
     {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "Body Type",
+        "url": "https://open.spotify.com/album/6pteqWmVaX9tkjvzUbdmvG"
+      },
+      "artists": [
+        {
+          "name": "Badger",
+          "url": "https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3"
+        },
+        {
+          "name": "Icona Pop",
+          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+        }
+      ],
+      "duration_ms": 132378,
+      "name": "Body Type",
+      "url": "https://open.spotify.com/track/7iD8SlzwQB6zOVEA4wm3oN"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Polite",
+        "url": "https://open.spotify.com/album/16fc4iyTTvTld5SnBZO8zH"
+      },
+      "artists": [
+        {
+          "name": "Anna Lunoe",
+          "url": "https://open.spotify.com/artist/7d96RW5Vix23AiCHr3mf3D"
+        },
+        {
+          "name": "Shanique Marie",
+          "url": "https://open.spotify.com/artist/6iMJjTp6P8nIwfan6pgPuA"
+        }
+      ],
+      "duration_ms": 226836,
+      "name": "Polite",
+      "url": "https://open.spotify.com/track/4JdD2un3BjFGApauSkPIMv"
+    },
+    {
       "added_at": "2024-08-16 04:00:00",
       "album": {
         "name": "Ain\u2019t Giving Up",
@@ -515,6 +587,22 @@
       "duration_ms": 151500,
       "name": "Shades",
       "url": "https://open.spotify.com/track/3mjieZNrw6iPjcMI9VuhAP"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "BROKEN",
+        "url": "https://open.spotify.com/album/1aHlFkhxyz1Yxmb7sgQh24"
+      },
+      "artists": [
+        {
+          "name": "Ela Minus",
+          "url": "https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T"
+        }
+      ],
+      "duration_ms": 271435,
+      "name": "BROKEN",
+      "url": "https://open.spotify.com/track/3n4FkCfKlscDqYPMcTBdXm"
     },
     {
       "added_at": "2024-08-16 04:00:00",
@@ -569,34 +657,6 @@
       "url": "https://open.spotify.com/track/78dLyf8klcyrmgpwgmRQlE"
     },
     {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "Gas Pedal Remix",
-        "url": "https://open.spotify.com/album/5nshc7uzMruLtzRAErOway"
-      },
-      "artists": [
-        {
-          "name": "John Summit",
-          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
-        },
-        {
-          "name": "Subtronics",
-          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
-        },
-        {
-          "name": "Tape B",
-          "url": "https://open.spotify.com/artist/59tlsKpLWoLTxjNNS2wdPi"
-        },
-        {
-          "name": "Sage The Gemini",
-          "url": "https://open.spotify.com/artist/6d47Z08T4snK50HgTEHo5Z"
-        }
-      ],
-      "duration_ms": 130070,
-      "name": "Gas Pedal Remix",
-      "url": "https://open.spotify.com/track/18SVzej2aT7rf04XvCs7CB"
-    },
-    {
       "added_at": "2024-09-27 04:00:00",
       "album": {
         "name": "Motivated",
@@ -615,6 +675,50 @@
       "duration_ms": 193181,
       "name": "Motivated",
       "url": "https://open.spotify.com/track/0BxqVQhPOQjMMKowpm5W74"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "GETAWAY",
+        "url": "https://open.spotify.com/album/6HtqNgGjK86kJ8orgIccpt"
+      },
+      "artists": [
+        {
+          "name": "Riordan",
+          "url": "https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao"
+        },
+        {
+          "name": "Ellis Moss",
+          "url": "https://open.spotify.com/artist/0XOfJ1JJXwMVJG26ZZj3UQ"
+        }
+      ],
+      "duration_ms": 163871,
+      "name": "GETAWAY",
+      "url": "https://open.spotify.com/track/29vEfX4XhKR4teS4mhyf2v"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Let's Go Dancing",
+        "url": "https://open.spotify.com/album/3ey1jQ8gUe2E8KRT8Flfjv"
+      },
+      "artists": [
+        {
+          "name": "Layton Giordani",
+          "url": "https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4"
+        },
+        {
+          "name": "Tiga",
+          "url": "https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC"
+        },
+        {
+          "name": "Audion",
+          "url": "https://open.spotify.com/artist/1ygSVTF0A998n2Z3nmLei8"
+        }
+      ],
+      "duration_ms": 228372,
+      "name": "Let's Go Dancing",
+      "url": "https://open.spotify.com/track/5se4SpUxbStmWGZngKWqLU"
     },
     {
       "added_at": "2024-09-27 04:00:00",
@@ -691,26 +795,6 @@
       "duration_ms": 176934,
       "name": "Crawling",
       "url": "https://open.spotify.com/track/1khBnYHMABE5yXgKs5p5of"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
-        "name": "Strobe - Layton Giordani Remix",
-        "url": "https://open.spotify.com/album/2lA6LPtr9O0HwNLDYEzzjm"
-      },
-      "artists": [
-        {
-          "name": "deadmau5",
-          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
-        },
-        {
-          "name": "Layton Giordani",
-          "url": "https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4"
-        }
-      ],
-      "duration_ms": 215156,
-      "name": "Strobe - Layton Giordani Remix",
-      "url": "https://open.spotify.com/track/2So9vITovkovvxlVerZccz"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -953,22 +1037,6 @@
       "url": "https://open.spotify.com/track/4wfrI5vr5YpNY23VTcoXJS"
     },
     {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
-        "name": "As The Beat Goes Onnn",
-        "url": "https://open.spotify.com/album/0VvJHxPuQ1PvnOU3iXbjN6"
-      },
-      "artists": [
-        {
-          "name": "Riordan",
-          "url": "https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao"
-        }
-      ],
-      "duration_ms": 159283,
-      "name": "As The Beat Goes Onnn",
-      "url": "https://open.spotify.com/track/5lzRFLsYxeAyRiO7r6H1qm"
-    },
-    {
       "added_at": "2024-09-20 04:00:00",
       "album": {
         "name": "JOY (By My Side)",
@@ -1025,6 +1093,30 @@
       "url": "https://open.spotify.com/track/1lbioiuFVq2Dqp1bCK6K1A"
     },
     {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Power (feat. Grabbitz)",
+        "url": "https://open.spotify.com/album/4lz9CHmUBuClQWL9cI8uOw"
+      },
+      "artists": [
+        {
+          "name": "Subtronics",
+          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
+        },
+        {
+          "name": "LEVEL UP",
+          "url": "https://open.spotify.com/artist/1ZpDxqXS6HAvoZyCzQfKRb"
+        },
+        {
+          "name": "Grabbitz",
+          "url": "https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Power (feat. Grabbitz)",
+      "url": "https://open.spotify.com/track/3OPcGN44zYI7eg1OwHrSD0"
+    },
+    {
       "added_at": "2024-08-16 04:00:00",
       "album": {
         "name": "All You Got To Do",
@@ -1059,26 +1151,6 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
-        "name": "True",
-        "url": "https://open.spotify.com/album/5w8japF2UnvsfCGcoNn2Oo"
-      },
-      "artists": [
-        {
-          "name": "CYRIL",
-          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
-        },
-        {
-          "name": "Kita Alexander",
-          "url": "https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec"
-        }
-      ],
-      "duration_ms": 125806,
-      "name": "True",
-      "url": "https://open.spotify.com/track/2pw12Ta8UfYKesE52ldUFm"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
         "name": "Heartless",
         "url": "https://open.spotify.com/album/6RD6iZjyKNlZuhXKqmSo6J"
       },
@@ -1097,26 +1169,6 @@
       "url": "https://open.spotify.com/track/6eHQ2jZEzEyyBeO7K7KPyy"
     },
     {
-      "added_at": "2024-09-27 04:00:00",
-      "album": {
-        "name": "set me free",
-        "url": "https://open.spotify.com/album/004HrUsnT6v50zlNn2g153"
-      },
-      "artists": [
-        {
-          "name": "Aaron Hibell",
-          "url": "https://open.spotify.com/artist/6KJPsGYJN54GllYOKTleaj"
-        },
-        {
-          "name": "Alex Wann",
-          "url": "https://open.spotify.com/artist/6PTNNcLg90Kkl89JcEwKhT"
-        }
-      ],
-      "duration_ms": 218360,
-      "name": "set me free",
-      "url": "https://open.spotify.com/track/2C3oAqU1XpVO2a7MssURkk"
-    },
-    {
       "added_at": "2024-08-30 04:00:00",
       "album": {
         "name": "Crown",
@@ -1131,30 +1183,6 @@
       "duration_ms": 240937,
       "name": "Crown",
       "url": "https://open.spotify.com/track/48HjuSOCti5mGKg6rUjAfB"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "I'll Wait For You",
-        "url": "https://open.spotify.com/album/7KoKBGgqZFDmZ4LQdef74V"
-      },
-      "artists": [
-        {
-          "name": "Seven Lions",
-          "url": "https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp"
-        },
-        {
-          "name": "Subtronics",
-          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
-        },
-        {
-          "name": "Skylar Grey",
-          "url": "https://open.spotify.com/artist/4utLUGcTvOJFr6aqIJtYWV"
-        }
-      ],
-      "duration_ms": 205241,
-      "name": "I'll Wait For You",
-      "url": "https://open.spotify.com/track/1CI8Jvisq21AKQsFHHOWbI"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -1269,42 +1297,6 @@
       "url": "https://open.spotify.com/track/6Fn0PW0rmdTQ3jbpynyGIu"
     },
     {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "Endlessly",
-        "url": "https://open.spotify.com/album/1xxj3i8zJ8a9mFIf23ymLv"
-      },
-      "artists": [
-        {
-          "name": "CamelPhat",
-          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
-        },
-        {
-          "name": "Nadia Ali",
-          "url": "https://open.spotify.com/artist/1C60viSZv6BoYtrnkZ44g5"
-        }
-      ],
-      "duration_ms": 217377,
-      "name": "Endlessly",
-      "url": "https://open.spotify.com/track/6QeO1fYyKamrW3JcdlfSoP"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
-        "name": "I Stay",
-        "url": "https://open.spotify.com/album/74z5d0cBn4c6YdDGWb4gLd"
-      },
-      "artists": [
-        {
-          "name": "Megra",
-          "url": "https://open.spotify.com/artist/75JMPNQ1B2A6WZydvs06Ok"
-        }
-      ],
-      "duration_ms": 213722,
-      "name": "I Stay",
-      "url": "https://open.spotify.com/track/6YEc6DRqlQTRcmKjYggOnN"
-    },
-    {
       "added_at": "2024-09-27 04:00:00",
       "album": {
         "name": "LSZEE",
@@ -1371,6 +1363,22 @@
       "duration_ms": 198400,
       "name": "All Falls Down",
       "url": "https://open.spotify.com/track/41BcwBcn1NrL2cJk69pYA8"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "I Stay",
+        "url": "https://open.spotify.com/album/74z5d0cBn4c6YdDGWb4gLd"
+      },
+      "artists": [
+        {
+          "name": "Megra",
+          "url": "https://open.spotify.com/artist/75JMPNQ1B2A6WZydvs06Ok"
+        }
+      ],
+      "duration_ms": 213722,
+      "name": "I Stay",
+      "url": "https://open.spotify.com/track/6YEc6DRqlQTRcmKjYggOnN"
     }
   ],
   "unique_name": "Dance Rising",

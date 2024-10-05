@@ -1,6 +1,6 @@
 {
   "description": "Muito romance, groove suave e R&B feitos no Brasil. ",
-  "num_followers": 62033,
+  "num_followers": 62061,
   "original_name": "su\u00edte.",
   "owner": {
     "name": "Spotify",
@@ -23,6 +23,26 @@
       "duration_ms": 301413,
       "name": "POPSTAR",
       "url": "https://open.spotify.com/track/3XIiRlcc1bKUegBbJ17iVp"
+    },
+    {
+      "added_at": "2024-09-27 03:01:00",
+      "album": {
+        "name": "No Ar em Sampa - Ao Vivo",
+        "url": "https://open.spotify.com/album/6xAg9AbgRUfmaboaJrQP6i"
+      },
+      "artists": [
+        {
+          "name": "Mr. Dan",
+          "url": "https://open.spotify.com/artist/0tEbPIVxu2YOmZXOWAkJ52"
+        },
+        {
+          "name": "TALI",
+          "url": "https://open.spotify.com/artist/2lI73BmF57aKMznK2wcy50"
+        }
+      ],
+      "duration_ms": 245565,
+      "name": "Implorar Amor - Ao Vivo",
+      "url": "https://open.spotify.com/track/2WHe2JzwVCeYXgarB6r9hk"
     },
     {
       "added_at": "2024-09-27 03:01:00",
@@ -51,26 +71,6 @@
       "duration_ms": 199081,
       "name": "calor do momento",
       "url": "https://open.spotify.com/track/66nRZPGdQWXZhTSfvpIFDS"
-    },
-    {
-      "added_at": "2024-09-27 03:01:00",
-      "album": {
-        "name": "No Ar em Sampa - Ao Vivo",
-        "url": "https://open.spotify.com/album/6xAg9AbgRUfmaboaJrQP6i"
-      },
-      "artists": [
-        {
-          "name": "Mr. Dan",
-          "url": "https://open.spotify.com/artist/0tEbPIVxu2YOmZXOWAkJ52"
-        },
-        {
-          "name": "TALI",
-          "url": "https://open.spotify.com/artist/2lI73BmF57aKMznK2wcy50"
-        }
-      ],
-      "duration_ms": 245565,
-      "name": "Implorar Amor - Ao Vivo",
-      "url": "https://open.spotify.com/track/2WHe2JzwVCeYXgarB6r9hk"
     },
     {
       "added_at": "2024-09-27 03:01:00",
@@ -403,26 +403,6 @@
     {
       "added_at": "2024-09-27 03:01:00",
       "album": {
-        "name": "Neverl\u00e2ndia Sessions (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4HRRpkcYLFCJgGKBSviGkT"
-      },
-      "artists": [
-        {
-          "name": "Reis do Nada",
-          "url": "https://open.spotify.com/artist/53uVJS9yN2F0iVsZU05or3"
-        },
-        {
-          "name": "NUNES",
-          "url": "https://open.spotify.com/artist/4FRO1O8sl4JqvXrJSNGqPr"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "Vai dar Bom (Ao Vivo)",
-      "url": "https://open.spotify.com/track/4Z21ly8fVtNB282CwwTknZ"
-    },
-    {
-      "added_at": "2024-09-27 03:01:00",
-      "album": {
         "name": "M\u00fasica",
         "url": "https://open.spotify.com/album/3UGv2sdXNmT92Y3cejde4L"
       },
@@ -439,6 +419,26 @@
       "duration_ms": 203584,
       "name": "M\u00fasica",
       "url": "https://open.spotify.com/track/7HGFGnAuiRMKMAEnxbpFZ8"
+    },
+    {
+      "added_at": "2024-09-27 03:01:00",
+      "album": {
+        "name": "Neverl\u00e2ndia Sessions (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4HRRpkcYLFCJgGKBSviGkT"
+      },
+      "artists": [
+        {
+          "name": "Reis do Nada",
+          "url": "https://open.spotify.com/artist/53uVJS9yN2F0iVsZU05or3"
+        },
+        {
+          "name": "NUNES",
+          "url": "https://open.spotify.com/artist/4FRO1O8sl4JqvXrJSNGqPr"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "Vai dar Bom (Ao Vivo)",
+      "url": "https://open.spotify.com/track/4Z21ly8fVtNB282CwwTknZ"
     },
     {
       "added_at": "2024-09-27 03:01:00",
@@ -663,18 +663,18 @@
     {
       "added_at": "2024-09-27 03:01:00",
       "album": {
-        "name": "Renascer",
-        "url": "https://open.spotify.com/album/11z5mItIsIAJNC7LnCMk45"
+        "name": "Morrendo de Prazer",
+        "url": "https://open.spotify.com/album/1egVVkEcvdi70ibvhbiF7g"
       },
       "artists": [
         {
-          "name": "X\u00eania Fran\u00e7a",
-          "url": "https://open.spotify.com/artist/1v0rEJk9ZuCrCQDvCXbO3D"
+          "name": "Malu Magri",
+          "url": "https://open.spotify.com/artist/101igRc4wvE7sWiHu8KWI7"
         }
       ],
-      "duration_ms": 294693,
-      "name": "Renascer",
-      "url": "https://open.spotify.com/track/0Yv9Ae9BYG8L6Ghniot1xm"
+      "duration_ms": 259008,
+      "name": "Minha Casa",
+      "url": "https://open.spotify.com/track/7GwqPVyfdlWpAWbZM8DSml"
     },
     {
       "added_at": "2024-09-27 03:01:00",
@@ -699,18 +699,18 @@
     {
       "added_at": "2024-09-27 03:01:00",
       "album": {
-        "name": "Morrendo de Prazer",
-        "url": "https://open.spotify.com/album/1egVVkEcvdi70ibvhbiF7g"
+        "name": "Renascer",
+        "url": "https://open.spotify.com/album/11z5mItIsIAJNC7LnCMk45"
       },
       "artists": [
         {
-          "name": "Malu Magri",
-          "url": "https://open.spotify.com/artist/101igRc4wvE7sWiHu8KWI7"
+          "name": "X\u00eania Fran\u00e7a",
+          "url": "https://open.spotify.com/artist/1v0rEJk9ZuCrCQDvCXbO3D"
         }
       ],
-      "duration_ms": 259008,
-      "name": "Minha Casa",
-      "url": "https://open.spotify.com/track/7GwqPVyfdlWpAWbZM8DSml"
+      "duration_ms": 294693,
+      "name": "Renascer",
+      "url": "https://open.spotify.com/track/0Yv9Ae9BYG8L6Ghniot1xm"
     },
     {
       "added_at": "2024-09-27 03:01:00",

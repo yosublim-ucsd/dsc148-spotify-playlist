@@ -1,6 +1,6 @@
 {
   "description": "Con licuachela en mano y perreando hasta el piso. Charly Gynn en portada ",
-  "num_followers": 18976,
+  "num_followers": 18971,
   "original_name": "CHAKAL\u00d3N ",
   "owner": {
     "name": "Spotify",
@@ -1139,30 +1139,6 @@
     {
       "added_at": "2024-08-30 06:00:00",
       "album": {
-        "name": "333 (Remix)",
-        "url": "https://open.spotify.com/album/6pMyrunmSvMxKIDS4eERZh"
-      },
-      "artists": [
-        {
-          "name": "Go Golden Junk",
-          "url": "https://open.spotify.com/artist/2tU377oBzcCBbRNeVve8FC"
-        },
-        {
-          "name": "El Malilla",
-          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
-        },
-        {
-          "name": "Dani Flow",
-          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
-        }
-      ],
-      "duration_ms": 155930,
-      "name": "333 - Remix",
-      "url": "https://open.spotify.com/track/2THG5JnwWDXABaf3APvUr8"
-    },
-    {
-      "added_at": "2024-08-30 06:00:00",
-      "album": {
         "name": "LATIGAZO",
         "url": "https://open.spotify.com/album/6oBH3yGHL8n3ntl1ft5szg"
       },
@@ -1183,6 +1159,30 @@
       "duration_ms": 175200,
       "name": "LATIGAZO",
       "url": "https://open.spotify.com/track/0v5H6UaZrIOr14k6yKzsb0"
+    },
+    {
+      "added_at": "2024-08-30 06:00:00",
+      "album": {
+        "name": "333 (Remix)",
+        "url": "https://open.spotify.com/album/6pMyrunmSvMxKIDS4eERZh"
+      },
+      "artists": [
+        {
+          "name": "Go Golden Junk",
+          "url": "https://open.spotify.com/artist/2tU377oBzcCBbRNeVve8FC"
+        },
+        {
+          "name": "El Malilla",
+          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
+        },
+        {
+          "name": "Dani Flow",
+          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
+        }
+      ],
+      "duration_ms": 155930,
+      "name": "333 - Remix",
+      "url": "https://open.spotify.com/track/2THG5JnwWDXABaf3APvUr8"
     },
     {
       "added_at": "2024-08-30 06:00:00",
@@ -1295,6 +1295,34 @@
     {
       "added_at": "2024-08-30 06:00:00",
       "album": {
+        "name": "Caramelo (feat. DJ Esli, Michael G & B&B)",
+        "url": "https://open.spotify.com/album/0tMYxu1s8sIInR538bQcz8"
+      },
+      "artists": [
+        {
+          "name": "Uzielito Mix",
+          "url": "https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH"
+        },
+        {
+          "name": "B&b",
+          "url": "https://open.spotify.com/artist/7a62sLCBUNRLonwRpuO83Q"
+        },
+        {
+          "name": "Dj Esli",
+          "url": "https://open.spotify.com/artist/10qjZu7jW6R0cuqwY40SVd"
+        },
+        {
+          "name": "Michael G",
+          "url": "https://open.spotify.com/artist/52vhIE7TjnC3Cxd7ZOWJZ3"
+        }
+      ],
+      "duration_ms": 229125,
+      "name": "Caramelo (feat. DJ Esli, Michael G & B&B)",
+      "url": "https://open.spotify.com/track/6P84crmqVzt4685QoMnjb0"
+    },
+    {
+      "added_at": "2024-08-30 06:00:00",
+      "album": {
         "name": "Boricua Reggaeton Clasicos de Barrio, Vol. 1",
         "url": "https://open.spotify.com/album/6bUq5lb8Dgl3whC2xgrXCl"
       },
@@ -1359,34 +1387,6 @@
       "duration_ms": 189437,
       "name": "NO PUEDO CONTROLARME",
       "url": "https://open.spotify.com/track/3iE3Ljkww9IrzbhEpyyj4S"
-    },
-    {
-      "added_at": "2024-08-30 06:00:00",
-      "album": {
-        "name": "Caramelo (feat. DJ Esli, Michael G & B&B)",
-        "url": "https://open.spotify.com/album/0tMYxu1s8sIInR538bQcz8"
-      },
-      "artists": [
-        {
-          "name": "Uzielito Mix",
-          "url": "https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH"
-        },
-        {
-          "name": "B&b",
-          "url": "https://open.spotify.com/artist/7a62sLCBUNRLonwRpuO83Q"
-        },
-        {
-          "name": "Dj Esli",
-          "url": "https://open.spotify.com/artist/10qjZu7jW6R0cuqwY40SVd"
-        },
-        {
-          "name": "Michael G",
-          "url": "https://open.spotify.com/artist/52vhIE7TjnC3Cxd7ZOWJZ3"
-        }
-      ],
-      "duration_ms": 229125,
-      "name": "Caramelo (feat. DJ Esli, Michael G & B&B)",
-      "url": "https://open.spotify.com/track/6P84crmqVzt4685QoMnjb0"
     },
     {
       "added_at": "2024-08-30 06:00:00",
@@ -1863,30 +1863,22 @@
     {
       "added_at": "2024-08-30 06:00:00",
       "album": {
-        "name": "POLVO ROSA (feat. Snow Tha Product)",
-        "url": "https://open.spotify.com/album/4BmqaWWrg22IiW5UTeWeyK"
+        "name": "Baja Sube Sube",
+        "url": "https://open.spotify.com/album/2LxhsDsrjtvVjqi7GMBTsM"
       },
       "artists": [
         {
-          "name": "Cricket",
-          "url": "https://open.spotify.com/artist/61OzoWX94CuVRqcqHaQx4R"
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
         },
         {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        },
-        {
-          "name": "Yng Lvcas",
-          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
-        },
-        {
-          "name": "Snow Tha Product",
-          "url": "https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj"
+          "name": "Jowell & Randy",
+          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
         }
       ],
-      "duration_ms": 228657,
-      "name": "POLVO ROSA (feat. Snow Tha Product)",
-      "url": "https://open.spotify.com/track/2YYYxYVLMidrTkSGuYWD2Q"
+      "duration_ms": 211404,
+      "name": "Baja Sube Sube",
+      "url": "https://open.spotify.com/track/6XlNE8CrehIYsI2ZivGn7I"
     },
     {
       "added_at": "2024-08-30 06:00:00",
@@ -1911,22 +1903,30 @@
     {
       "added_at": "2024-08-30 06:00:00",
       "album": {
-        "name": "Baja Sube Sube",
-        "url": "https://open.spotify.com/album/2LxhsDsrjtvVjqi7GMBTsM"
+        "name": "POLVO ROSA (feat. Snow Tha Product)",
+        "url": "https://open.spotify.com/album/4BmqaWWrg22IiW5UTeWeyK"
       },
       "artists": [
         {
-          "name": "Wisin",
-          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
+          "name": "Cricket",
+          "url": "https://open.spotify.com/artist/61OzoWX94CuVRqcqHaQx4R"
         },
         {
-          "name": "Jowell & Randy",
-          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        },
+        {
+          "name": "Yng Lvcas",
+          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
+        },
+        {
+          "name": "Snow Tha Product",
+          "url": "https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj"
         }
       ],
-      "duration_ms": 211404,
-      "name": "Baja Sube Sube",
-      "url": "https://open.spotify.com/track/6XlNE8CrehIYsI2ZivGn7I"
+      "duration_ms": 228657,
+      "name": "POLVO ROSA (feat. Snow Tha Product)",
+      "url": "https://open.spotify.com/track/2YYYxYVLMidrTkSGuYWD2Q"
     },
     {
       "added_at": "2024-08-30 06:00:00",
@@ -1999,26 +1999,6 @@
     {
       "added_at": "2024-08-30 06:00:00",
       "album": {
-        "name": "Maldades",
-        "url": "https://open.spotify.com/album/7uJRnxKIlIfh29O7EGCVkX"
-      },
-      "artists": [
-        {
-          "name": "Mendoza",
-          "url": "https://open.spotify.com/artist/3I6jrkKaO8HTBay9K9V9bP"
-        },
-        {
-          "name": "King Savagge",
-          "url": "https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU"
-        }
-      ],
-      "duration_ms": 161739,
-      "name": "Maldades",
-      "url": "https://open.spotify.com/track/6C8XeTHHVoqNEgg20x4J1t"
-    },
-    {
-      "added_at": "2024-08-30 06:00:00",
-      "album": {
         "name": "El Bellako",
         "url": "https://open.spotify.com/album/1jTPG5Ta9ynl446ZzOhuEq"
       },
@@ -2035,6 +2015,26 @@
       "duration_ms": 189473,
       "name": "A la pared",
       "url": "https://open.spotify.com/track/0RXGUnF9cCVn4w6n9lc6rP"
+    },
+    {
+      "added_at": "2024-08-30 06:00:00",
+      "album": {
+        "name": "Maldades",
+        "url": "https://open.spotify.com/album/7uJRnxKIlIfh29O7EGCVkX"
+      },
+      "artists": [
+        {
+          "name": "Mendoza",
+          "url": "https://open.spotify.com/artist/3I6jrkKaO8HTBay9K9V9bP"
+        },
+        {
+          "name": "King Savagge",
+          "url": "https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU"
+        }
+      ],
+      "duration_ms": 161739,
+      "name": "Maldades",
+      "url": "https://open.spotify.com/track/6C8XeTHHVoqNEgg20x4J1t"
     },
     {
       "added_at": "2024-08-30 06:00:00",

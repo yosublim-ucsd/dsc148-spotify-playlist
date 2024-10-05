@@ -2,9 +2,9 @@
 
 ### [Haze ](https://open.spotify.com/playlist/37i9dQZF1DWUcJb0bNFBm0)
 
-> Noise distortion amongst the hazy clouds ☁️ \(Cover: The Whisperer\)
+> Noise distortion amongst the hazy clouds ☁️ \(Cover: BUBBLE TEA AND CIGARETTES\)
 
-125 songs - 8 hr 53 min
+126 songs - 8 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Cul\-de\-sac](https://open.spotify.com/track/73EBtIHPOEjpOGjjyU5jCw) | [Seaside](https://open.spotify.com/artist/7fcJauZr1ZHqpIO2W57kYw), [Henry Foundation](https://open.spotify.com/artist/4aYOEr2GSLK6mQOJnsVaIy) | [Cul\-de\-sac](https://open.spotify.com/album/2mxeaxiEB6S3bd7S3yW6pJ) | 3:09 | 2024-08-15 |  |
 | [Dari Pinggiran](https://open.spotify.com/track/3UNttJlYxUCXS1IzBzn77x) | [Bayangan](https://open.spotify.com/artist/6Vf2sAgnMGioPLNUqqBgAI) | [Dari Pinggiran](https://open.spotify.com/album/2XnOsx99FtOrDBxyFfNqdh) | 6:43 | 2024-06-27 |  |
 | [Dead End](https://open.spotify.com/track/5LN5ZQOFnWCSD7iz1dfzcG) | [Fleuro](https://open.spotify.com/artist/6PJkJJFyjpPRGxwLOLvbXZ) | [Dead End](https://open.spotify.com/album/1J3zpNBNUPyMdmQexmQJq2) | 4:53 | 2024-06-27 | 2024-08-09 |
+| [Dead Flowers](https://open.spotify.com/track/3UzhTyx3msFqAeEnxsUqYR) | [BUBBLE TEA AND CIGARETTES](https://open.spotify.com/artist/2UMeX51X1prCFgi51RHo9P) | [Dead Flowers](https://open.spotify.com/album/22N0Ls1yNyFrZz9oemD4xH) | 2:29 | 2024-10-04 |  |
 | [disdain](https://open.spotify.com/track/7iuYtJHYm2M3uks4qJX24L) | [Iwakura](https://open.spotify.com/artist/1D9SrXAj9dz5sbqB12W1uv) | [disdain](https://open.spotify.com/album/6lt2Vwl0MYn9dBUAgk5b2f) | 2:11 | 2024-09-26 |  |
 | [Divine Light](https://open.spotify.com/track/689CnhpaozpUpdCOfbSHCA) | [Dive Collate](https://open.spotify.com/artist/5lanIOAjhX1VTXe35ygUAf) | [Divine Light](https://open.spotify.com/album/3BTna0qdWfMHAXSW946ZzI) | 6:07 | 2024-06-27 |  |
 | [Doll](https://open.spotify.com/track/718j4dLgigKSHiRYiHuhMC) | [Arches](https://open.spotify.com/artist/5ngnmnu2W3UT2C1SEMkIqR) | [Doll](https://open.spotify.com/album/233GhcZaDayKcSfRtx5rW3) | 3:31 | 2024-06-27 | 2024-08-31 |

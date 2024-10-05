@@ -1537,6 +1537,32 @@
     },
     {
       "album": {
+        "name": "Duna Agbo",
+        "url": "https://open.spotify.com/album/33UbxfKSBd5QEOo9pW60xm"
+      },
+      "artists": [
+        {
+          "name": "Kev & Grenade",
+          "url": "https://open.spotify.com/artist/1yOEo7wlLHYqSL3yHYnEc6"
+        },
+        {
+          "name": "KevTheTopic",
+          "url": "https://open.spotify.com/artist/51k0wZlYnTwXXw3yFv2M9Z"
+        },
+        {
+          "name": "Nana Grenade",
+          "url": "https://open.spotify.com/artist/1UsLliECctwMwm75LCYU9K"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211200,
+      "name": "Duna Agbo",
+      "url": "https://open.spotify.com/track/0JVS2gEkmnfBw4m63hl8H0"
+    },
+    {
+      "album": {
         "name": "Ekorso",
         "url": "https://open.spotify.com/album/52WRXL8Z5JeODCqBU39Ork"
       },
@@ -1906,6 +1932,40 @@
       "duration_ms": 146666,
       "name": "Ghana - Remix",
       "url": "https://open.spotify.com/track/6Gj9DBxR759xBP6g5zxBhA"
+    },
+    {
+      "album": {
+        "name": "Glitch Boyz",
+        "url": "https://open.spotify.com/album/5UW4AYkCPXp74NMBA6zHja"
+      },
+      "artists": [
+        {
+          "name": "G4 Boyz",
+          "url": "https://open.spotify.com/artist/4ZtqSJYEh407LR6NM5hNcS"
+        },
+        {
+          "name": "Jay Bahd",
+          "url": "https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw"
+        },
+        {
+          "name": "O'Kenneth",
+          "url": "https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM"
+        },
+        {
+          "name": "City Boy",
+          "url": "https://open.spotify.com/artist/2ppps0iwSdww4cfepGnscr"
+        },
+        {
+          "name": "Skyface SDW",
+          "url": "https://open.spotify.com/artist/4R4KEZSjfEuuLyyqTiTVtG"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152480,
+      "name": "Ghana Girl (Asakaa Mix)",
+      "url": "https://open.spotify.com/track/177ONM0IbGOF8AFwl7VuPA"
     },
     {
       "album": {
@@ -2306,7 +2366,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 163342,
       "name": "Iron Boy",
       "url": "https://open.spotify.com/track/2i5Kl8klG0WeHiQ4Z90YYr"
@@ -3730,7 +3790,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 203233,
       "name": "PA (feat. Jay Bahd)",
       "url": "https://open.spotify.com/track/2V2UbbeMUJ2lTr4lwHjMup"

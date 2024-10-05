@@ -1,13 +1,29 @@
 {
   "description": "New Orleans kind of funk. Cover: Cha Wa",
-  "num_followers": 13015,
+  "num_followers": 13012,
   "original_name": "New Orleans Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsgJQAAAAAB24wWF19UCqWfoHccQGJRs",
+  "snapshot_id": "Zv9oQAAAAAA9sOvSQpfhRSHBDPI/QnX6",
   "tracks": [
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Big Tuba",
+        "url": "https://open.spotify.com/album/7LmEewL5lnwBCscevbSeFP"
+      },
+      "artists": [
+        {
+          "name": "Hot 8 Brass Band",
+          "url": "https://open.spotify.com/artist/1lvVzEkQ4u72rrZ7bNUkcD"
+        }
+      ],
+      "duration_ms": 220223,
+      "name": "Big Tuba",
+      "url": "https://open.spotify.com/track/2u3g8bbdXAuZiKBUxuKs5Y"
+    },
     {
       "added_at": "2024-01-19 05:01:00",
       "album": {
@@ -847,22 +863,6 @@
       "duration_ms": 266013,
       "name": "Going On",
       "url": "https://open.spotify.com/track/6E6yIFd8X0XGCbjMHJ9mPH"
-    },
-    {
-      "added_at": "2020-04-29 18:17:09",
-      "album": {
-        "name": "Won't Bow Down",
-        "url": "https://open.spotify.com/album/5H5loW7aKraS3pVG4BnSLP"
-      },
-      "artists": [
-        {
-          "name": "Big Chief Monk Boudreaux",
-          "url": "https://open.spotify.com/artist/6dEA9IhHWUof5HKLeYRGer"
-        }
-      ],
-      "duration_ms": 407360,
-      "name": "Four Horsemen",
-      "url": "https://open.spotify.com/track/2rnxsfbS4peLw0ZP71YRO8"
     }
   ],
   "unique_name": "New Orleans Funk",

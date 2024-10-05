@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG8JG7mJQQLj.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5bb9hy3CdA7TjjHrHawvwl">Ryan Tedder</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,130 likes - 438 songs - 1 day 1 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,144 likes - 438 songs - 1 day 1 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -447,4 +447,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG8JG7mJQQLj.md) - [plain]
 | 437 | [All I Ever Wanted](https://open.spotify.com/track/6tUyTMQms7mQdaRiyLizCu) | [The Faith Crew](https://open.spotify.com/artist/4rdDVgScRyE4NTocYd30Qi) | [Tribute to Margaret Becker & Jeremy Camp](https://open.spotify.com/album/6ZjxpWsEm2ewK4K2PdJVXM) | 4:43 |
 | 438 | [Born To Race](https://open.spotify.com/track/0yWGRRHjwNOdApEm2gbbex) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [The Artificial Paradise Tour 中国巡演特别版](https://open.spotify.com/album/50PJ47XqwSZXA8Q165lDZW) | 3:11 |
 
-Snapshot ID: `Abd0yAAAAACqaipb1Ydf+JELV+7uBywn`
+Snapshot ID: `Abd6VAAAAAAwnuo4AIfgYHU0XjWYmhib`

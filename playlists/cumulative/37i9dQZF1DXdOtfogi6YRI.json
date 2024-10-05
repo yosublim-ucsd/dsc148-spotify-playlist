@@ -1271,6 +1271,28 @@
     },
     {
       "album": {
+        "name": "flashback",
+        "url": "https://open.spotify.com/album/0diY9FiAxiy2liNChOCy6E"
+      },
+      "artists": [
+        {
+          "name": "Koza",
+          "url": "https://open.spotify.com/artist/5rm8Cp2ZHkyGl0TI3obsdb"
+        },
+        {
+          "name": "Kuba Wi\u0119cek",
+          "url": "https://open.spotify.com/artist/6TMvLRR8hD8RADUX9aqz3L"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142451,
+      "name": "flashback",
+      "url": "https://open.spotify.com/track/35e811UW0wDUT0bNN7o9Oj"
+    },
+    {
+      "album": {
         "name": "FOMO",
         "url": "https://open.spotify.com/album/01YLbkyu6EzBY73huwiEms"
       },
@@ -1286,7 +1308,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 235793,
       "name": "FOMO",
       "url": "https://open.spotify.com/track/6MtenXXonNKhclAv961YUl"
@@ -1360,7 +1382,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 225522,
       "name": "GDY NAS NIE MA",
       "url": "https://open.spotify.com/track/0uZLHsKDIHcTCf6axyQixA"
@@ -1582,7 +1604,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 208000,
       "name": "Id\u0119 w g\u00f3r\u0119",
       "url": "https://open.spotify.com/track/3FE8P8O7wQffuTiFE5P460"
@@ -1626,6 +1648,28 @@
       "duration_ms": 176363,
       "name": "jak mam si\u0119 tym jara\u0107?",
       "url": "https://open.spotify.com/track/0yUlkMnx27tJbmZDnABqH4"
+    },
+    {
+      "album": {
+        "name": "Jak Wiatr",
+        "url": "https://open.spotify.com/album/5cN3vJHGTPewbKmv528jR6"
+      },
+      "artists": [
+        {
+          "name": "Matis",
+          "url": "https://open.spotify.com/artist/7qQkuQHrvcfSoMkx0pkHoF"
+        },
+        {
+          "name": "BRK",
+          "url": "https://open.spotify.com/artist/2jNxbYSRQ7pkrxVuOjES7n"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181160,
+      "name": "Jak Wiatr",
+      "url": "https://open.spotify.com/track/2OrxshZKgNCFlQkCP6sYth"
     },
     {
       "album": {
@@ -1828,7 +1872,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 171244,
       "name": "Kino",
       "url": "https://open.spotify.com/track/6Uydxm95vvDTpcAAOGSiOK"
@@ -2191,6 +2235,24 @@
     },
     {
       "album": {
+        "name": "Missouri",
+        "url": "https://open.spotify.com/album/7Hwn7u60OG2lY1ZCfESi0Q"
+      },
+      "artists": [
+        {
+          "name": "Lordofon",
+          "url": "https://open.spotify.com/artist/7G3hAQixY7DIAGTgA2GU99"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147000,
+      "name": "Missouri",
+      "url": "https://open.spotify.com/track/73n8PQvuxmh9mdE7DQpMUj"
+    },
+    {
+      "album": {
         "name": "Moja droga",
         "url": "https://open.spotify.com/album/0Pu9usfeyXKV8kiOeTsfvL"
       },
@@ -2276,7 +2338,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 181818,
       "name": "Na z\u0142o\u015b\u0107",
       "url": "https://open.spotify.com/track/1K6IYiMvXaH3RWMSBoW0A8"
@@ -2744,7 +2806,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 128571,
       "name": "Ponad chmurami",
       "url": "https://open.spotify.com/track/1kWkVGKbi7J1qoVU2X38O9"
@@ -2791,6 +2853,32 @@
     },
     {
       "album": {
+        "name": "PROFIT",
+        "url": "https://open.spotify.com/album/5UkBZRLRL0WL2dDrTLz1jD"
+      },
+      "artists": [
+        {
+          "name": "Zajac",
+          "url": "https://open.spotify.com/artist/3hh49NK2eOABrmYdCfmMoS"
+        },
+        {
+          "name": "Leo Ros",
+          "url": "https://open.spotify.com/artist/1qXCTpQh1JNGdTnHRnUjtf"
+        },
+        {
+          "name": "Mvrceli",
+          "url": "https://open.spotify.com/artist/5dxrDTaydQ27UNlX3ArWwV"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156631,
+      "name": "PROFIT",
+      "url": "https://open.spotify.com/track/5uxvDs3CncPQaitNJcKo7d"
+    },
+    {
+      "album": {
         "name": "ad hoc",
         "url": "https://open.spotify.com/album/79UqiVLzDlx1XBmGT5ozUe"
       },
@@ -2814,6 +2902,24 @@
       "duration_ms": 182615,
       "name": "Przebi\u015bniegi",
       "url": "https://open.spotify.com/track/5lNWxVjDM2RsgX6L7Qm0me"
+    },
+    {
+      "album": {
+        "name": "przepraszam?",
+        "url": "https://open.spotify.com/album/2t56QQkK90UESFoikrtLp5"
+      },
+      "artists": [
+        {
+          "name": "stachuprops",
+          "url": "https://open.spotify.com/artist/1vqVCVxfGI9AEbHGB3W5vm"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143138,
+      "name": "przepraszam?",
+      "url": "https://open.spotify.com/track/3OdimdeGxC0VqnIMKftUZW"
     },
     {
       "album": {
@@ -2906,6 +3012,28 @@
       "duration_ms": 198692,
       "name": "P\u00f3\u0142noce",
       "url": "https://open.spotify.com/track/17V8FeLem2XmZwVm1tJvf9"
+    },
+    {
+      "album": {
+        "name": "p\u0119tla",
+        "url": "https://open.spotify.com/album/5ugOMYmAryvRBaIvssjlUL"
+      },
+      "artists": [
+        {
+          "name": "majtis",
+          "url": "https://open.spotify.com/artist/0x85f5ZhAe1Oj4CTnWEPtv"
+        },
+        {
+          "name": "B\u0141ASZCZU",
+          "url": "https://open.spotify.com/artist/0niQbjiWECQqqdaLf0Axv4"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178820,
+      "name": "p\u0119tla",
+      "url": "https://open.spotify.com/track/4kE2ihrSAn0dffBXQeG91x"
     },
     {
       "album": {
@@ -3147,6 +3275,28 @@
     },
     {
       "album": {
+        "name": "osiedle_sanpillon_mixtape_vol_I",
+        "url": "https://open.spotify.com/album/1dBxrpFXL1aoF0jQXnP5PM"
+      },
+      "artists": [
+        {
+          "name": "Dawid Borysiewicz",
+          "url": "https://open.spotify.com/artist/1EgNpnW5JwC8roiAfUETVx"
+        },
+        {
+          "name": "Jazz Gang Beatz",
+          "url": "https://open.spotify.com/artist/1bK9uLuk23SZCZqZ3oJjti"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 345384,
+      "name": "skurwysyn_roku.mp3",
+      "url": "https://open.spotify.com/track/2PPeWfSxzcW7ZQc0V6neoE"
+    },
+    {
+      "album": {
         "name": "TRZECIA SZYNA",
         "url": "https://open.spotify.com/album/2GM2fKnuq4JfoNpO2mGF6M"
       },
@@ -3158,7 +3308,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 155884,
       "name": "SM Gosty\u0144 Tubka",
       "url": "https://open.spotify.com/track/3h801QmzRHif54JE3UkYmX"
@@ -3394,7 +3544,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 147412,
       "name": "szafka w ma\u0142ym pokoju",
       "url": "https://open.spotify.com/track/537HBeLGiO4IjQPP6swDWJ"
@@ -3610,7 +3760,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 208602,
       "name": "Traska",
       "url": "https://open.spotify.com/track/4LGWJG198Rt5LGyqNRVnwM"
@@ -3762,6 +3912,24 @@
       "duration_ms": 119200,
       "name": "UTAH",
       "url": "https://open.spotify.com/track/0Ijvz6ebztdR78N1SXDSlG"
+    },
+    {
+      "album": {
+        "name": "VANlife",
+        "url": "https://open.spotify.com/album/62yIFt63G63t5qpTzQp8YI"
+      },
+      "artists": [
+        {
+          "name": "Blaszka",
+          "url": "https://open.spotify.com/artist/1LBTssZDssz1Q2z93iKPFp"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142338,
+      "name": "VANlife",
+      "url": "https://open.spotify.com/track/3FxfjWDxe5XLdnZhdj0qWb"
     },
     {
       "album": {
@@ -4142,6 +4310,28 @@
       "duration_ms": 158890,
       "name": "Zoo",
       "url": "https://open.spotify.com/track/7rG1GqSwfPCuxFAT7Kiobh"
+    },
+    {
+      "album": {
+        "name": "Z\u0142ote \u0142ezki",
+        "url": "https://open.spotify.com/album/2nSAPkDSY1DuM55mUC089j"
+      },
+      "artists": [
+        {
+          "name": "Meek, Oh Why?",
+          "url": "https://open.spotify.com/artist/1x95fYBLV8dI26ECivQ4DT"
+        },
+        {
+          "name": "BIESY",
+          "url": "https://open.spotify.com/artist/1NxkFa4Jt6gntxIGXX1Qyr"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181973,
+      "name": "Z\u0142ote \u0142ezki",
+      "url": "https://open.spotify.com/track/6yEfNY4hAzCtckKBdLFH6f"
     },
     {
       "album": {

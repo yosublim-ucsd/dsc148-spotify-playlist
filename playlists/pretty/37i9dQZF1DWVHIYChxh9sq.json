@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica en vivo de tus artistas favoritos del Regional Mexicano. Portada: Grupo Firme, Hernan Sepulveda.",
-  "num_followers": 75285,
+  "num_followers": 75305,
   "original_name": "M\u00fasica Mexicana En Vivo",
   "owner": {
     "name": "Spotify",
@@ -263,26 +263,6 @@
     {
       "added_at": "2024-09-20 17:29:27",
       "album": {
-        "name": "En Paris",
-        "url": "https://open.spotify.com/album/02t065wNWRCc7Yz9jG0ahR"
-      },
-      "artists": [
-        {
-          "name": "El Chachito",
-          "url": "https://open.spotify.com/artist/6OP8Y0UsezppFkU1hZU6EJ"
-        },
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        }
-      ],
-      "duration_ms": 162795,
-      "name": "En Paris",
-      "url": "https://open.spotify.com/track/1Fuc3pBiPFxAeSJoO8tDh5"
-    },
-    {
-      "added_at": "2024-09-20 17:29:27",
-      "album": {
         "name": "Hublot",
         "url": "https://open.spotify.com/album/2VPiPeLG36iLMPIQOk1NgG"
       },
@@ -299,6 +279,26 @@
       "duration_ms": 225250,
       "name": "Hublot",
       "url": "https://open.spotify.com/track/5qKsIal7JJZ2bqXHPKdyVb"
+    },
+    {
+      "added_at": "2024-09-20 17:29:27",
+      "album": {
+        "name": "En Paris",
+        "url": "https://open.spotify.com/album/02t065wNWRCc7Yz9jG0ahR"
+      },
+      "artists": [
+        {
+          "name": "El Chachito",
+          "url": "https://open.spotify.com/artist/6OP8Y0UsezppFkU1hZU6EJ"
+        },
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "duration_ms": 162795,
+      "name": "En Paris",
+      "url": "https://open.spotify.com/track/1Fuc3pBiPFxAeSJoO8tDh5"
     },
     {
       "added_at": "2024-09-20 17:29:27",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2024-09-20 17:29:27",
       "album": {
-        "name": "Corridos 602",
-        "url": "https://open.spotify.com/album/0e6v7RAfsLk2UHr5gvDitO"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 183594,
-      "name": "El Ruddy",
-      "url": "https://open.spotify.com/track/0vNtFN67TIMgDokyyuUUwA"
-    },
-    {
-      "added_at": "2024-09-20 17:29:27",
-      "album": {
         "name": "La Cruda Deluxe (En Vivo)",
         "url": "https://open.spotify.com/album/7FULQRQbO2j0c3uqpr4N5u"
       },
@@ -1287,6 +1271,26 @@
       "duration_ms": 222135,
       "name": "El Rey Del Pop (En Vivo)",
       "url": "https://open.spotify.com/track/1D5KDcr6BB3bHtK3NiBTye"
+    },
+    {
+      "added_at": "2024-09-20 17:29:27",
+      "album": {
+        "name": "Bien Belicones (En vivo)",
+        "url": "https://open.spotify.com/album/0lroHqTkfmsxY3OYhRWZda"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        },
+        {
+          "name": "Tony Aguirre",
+          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
+        }
+      ],
+      "duration_ms": 150200,
+      "name": "Bien Belicones (En vivo)",
+      "url": "https://open.spotify.com/track/6PAUJwzFJgtL6eFZzcg6Ne"
     },
     {
       "added_at": "2024-09-20 17:29:27",
@@ -1327,22 +1331,18 @@
     {
       "added_at": "2024-09-20 17:29:27",
       "album": {
-        "name": "Bien Belicones (En vivo)",
-        "url": "https://open.spotify.com/album/0lroHqTkfmsxY3OYhRWZda"
+        "name": "Corridos 602",
+        "url": "https://open.spotify.com/album/0e6v7RAfsLk2UHr5gvDitO"
       },
       "artists": [
         {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        },
-        {
-          "name": "Tony Aguirre",
-          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
         }
       ],
-      "duration_ms": 150200,
-      "name": "Bien Belicones (En vivo)",
-      "url": "https://open.spotify.com/track/6PAUJwzFJgtL6eFZzcg6Ne"
+      "duration_ms": 183594,
+      "name": "El Ruddy",
+      "url": "https://open.spotify.com/track/0vNtFN67TIMgDokyyuUUwA"
     },
     {
       "added_at": "2024-09-20 17:29:27",
@@ -1763,6 +1763,26 @@
     {
       "added_at": "2024-09-20 17:29:27",
       "album": {
+        "name": "Yakifest Oasis Vol. 5 (En Vivo)",
+        "url": "https://open.spotify.com/album/5iJMnRlnUcuN9GTlGrgJgP"
+      },
+      "artists": [
+        {
+          "name": "Luis Alfonso Partida El Yaki",
+          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
+        },
+        {
+          "name": "Julio Preciado",
+          "url": "https://open.spotify.com/artist/0YHkeVGRdH0t8skdMxpqp3"
+        }
+      ],
+      "duration_ms": 262597,
+      "name": "C\u00f3mo Este Loco (En Vivo)",
+      "url": "https://open.spotify.com/track/2lfOKHw5PZ6oSRBM1LdWpd"
+    },
+    {
+      "added_at": "2024-09-20 17:29:27",
+      "album": {
         "name": "Escuela de rancho (En Vivo)",
         "url": "https://open.spotify.com/album/3PbdSYSoTRS2R0x4NcjgWx"
       },
@@ -1803,22 +1823,18 @@
     {
       "added_at": "2024-09-20 17:29:27",
       "album": {
-        "name": "Yakifest Oasis Vol. 5 (En Vivo)",
-        "url": "https://open.spotify.com/album/5iJMnRlnUcuN9GTlGrgJgP"
+        "name": "Comando \u00danico con Compa Danny (En vivo)",
+        "url": "https://open.spotify.com/album/3eGoOp5PfDlWf4ZNxHAB74"
       },
       "artists": [
         {
-          "name": "Luis Alfonso Partida El Yaki",
-          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
-        },
-        {
-          "name": "Julio Preciado",
-          "url": "https://open.spotify.com/artist/0YHkeVGRdH0t8skdMxpqp3"
+          "name": "Comando \u00danico",
+          "url": "https://open.spotify.com/artist/6TGJ5xpxuScTqrVLsUpELK"
         }
       ],
-      "duration_ms": 262597,
-      "name": "C\u00f3mo Este Loco (En Vivo)",
-      "url": "https://open.spotify.com/track/2lfOKHw5PZ6oSRBM1LdWpd"
+      "duration_ms": 157500,
+      "name": "El Sube y Baja - En vivo",
+      "url": "https://open.spotify.com/track/2F5IsSsLPCDtcL0T3Wsnnq"
     },
     {
       "added_at": "2024-09-20 17:29:27",
@@ -1839,18 +1855,18 @@
     {
       "added_at": "2024-09-20 17:29:27",
       "album": {
-        "name": "Comando \u00danico con Compa Danny (En vivo)",
-        "url": "https://open.spotify.com/album/3eGoOp5PfDlWf4ZNxHAB74"
+        "name": "De Parranda Lives Vol. 2/3",
+        "url": "https://open.spotify.com/album/2qI4lRalMMAEAY7vOkd9Q1"
       },
       "artists": [
         {
-          "name": "Comando \u00danico",
-          "url": "https://open.spotify.com/artist/6TGJ5xpxuScTqrVLsUpELK"
+          "name": "De Parranda",
+          "url": "https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi"
         }
       ],
-      "duration_ms": 157500,
-      "name": "El Sube y Baja - En vivo",
-      "url": "https://open.spotify.com/track/2F5IsSsLPCDtcL0T3Wsnnq"
+      "duration_ms": 208049,
+      "name": "Ojala y te animes",
+      "url": "https://open.spotify.com/track/0gdHT6RFfRvrjnnFbKzfL1"
     },
     {
       "added_at": "2024-09-20 17:29:27",
@@ -1871,22 +1887,6 @@
       "duration_ms": 161075,
       "name": "Kikil Caro - En Vivo",
       "url": "https://open.spotify.com/track/2oQSkBN2ug0pLvOkHqtt3J"
-    },
-    {
-      "added_at": "2024-09-20 17:29:27",
-      "album": {
-        "name": "De Parranda Lives Vol. 2/3",
-        "url": "https://open.spotify.com/album/2qI4lRalMMAEAY7vOkd9Q1"
-      },
-      "artists": [
-        {
-          "name": "De Parranda",
-          "url": "https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi"
-        }
-      ],
-      "duration_ms": 208049,
-      "name": "Ojala y te animes",
-      "url": "https://open.spotify.com/track/0gdHT6RFfRvrjnnFbKzfL1"
     }
   ],
   "unique_name": "M\u00fasica Mexicana En Vivo",

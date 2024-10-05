@@ -4,7 +4,7 @@
 
 > The best Dance and EDM tracks right now! Cover: Chris Lake &amp; Disclosure
 
-238 songs - 12 hr 33 min
+239 songs - 12 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,6 +135,7 @@
 | [Lover Online](https://open.spotify.com/track/0o5wusLgOl9yWjXzUF1SEJ) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [Maia Wright](https://open.spotify.com/artist/5qQFXHDOeYjiZVrCUO56Pk) | [Lover Online](https://open.spotify.com/album/3jkEIKa3J9CI09JLsAl7Qs) | 2:47 | 2024-09-24 |  |
 | [Lucky \(feat\. Remi Wolf\)](https://open.spotify.com/track/7cXOERtbj4ZOk0I6ivACvb) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Lucky \(feat\. Remi Wolf\)](https://open.spotify.com/album/76Jj7hac3l9fzFerLzckVV) | 2:07 | 2024-08-12 |  |
 | [L’AMOUR DE MA VIE \[OVER NOW EXTENDED EDIT\]](https://open.spotify.com/track/2Y6U158gVXfvqNWOLdis0R) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [L’AMOUR DE MA VIE \[OVER NOW EXTENDED EDIT\]](https://open.spotify.com/album/4YCeHlXgJTKlzuwHmvZZo8) | 4:31 | 2024-05-22 |  |
+| [Made For Me \- HoneyLuv AfroLuv Remix](https://open.spotify.com/track/5yY3eGexmfm4rxuWXEibn6) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6), [HoneyLuv](https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl) | [Made For Me \(HoneyLuv AfroLuv Remix\)](https://open.spotify.com/album/3bZFsyIthTUca3rBsVgHcy) | 3:48 | 2024-10-04 |  |
 | [MAGIC \(feat\. babyidontlikeyou\)](https://open.spotify.com/track/7pTC4natqyNBB0EBtdDeYi) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [babyidontlikeyou](https://open.spotify.com/artist/0vvLUDvumHN2BRVL0ks8Uq) | [MAGIC](https://open.spotify.com/album/48mGE9Z8VowqEVUHj3WN5H) | 3:22 | 2024-04-26 |  |
 | [Make You Say \- ellis Remix](https://open.spotify.com/track/67Y5TUpVRkdEqnnhpXUTp1) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [BEAUZ](https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT), [ellis](https://open.spotify.com/artist/00CYRdkMnA0mwfy1VQPA7X), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Make You Say \(ellis Remix\)](https://open.spotify.com/album/04Z4z609qhUIkxaSYatRxv) | 2:30 | 2023-10-27 |  |
 | [Man In Finance \(G6 Trust Fund\)](https://open.spotify.com/track/5zuPzhnGl0DRRWmquMi2MP) | [Girl On Couch](https://open.spotify.com/artist/3bY2XiDYvps2HqyLXijxgy), [Billen Ted](https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82) | [Man In Finance \(G6 Trust Fund\)](https://open.spotify.com/album/3d3AJIkcxgFjeJV4LbwcFs) | 2:31 | 2024-05-22 |  |

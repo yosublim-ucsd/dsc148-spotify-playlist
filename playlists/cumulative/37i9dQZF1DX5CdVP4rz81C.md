@@ -4,7 +4,7 @@
 
 > Discover your favorite new chill pop songs\. Cover: Keshi
 
-1,730 songs - 3 day 19 hr 23 min
+1,731 songs - 3 day 19 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -210,7 +210,7 @@
 | [Brush Fire](https://open.spotify.com/track/4jp8ragG1fHm1eucECebYF) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Brush Fire](https://open.spotify.com/album/0q9LcQHXp9DuszlWNJZoLB) | 3:10 | 2020-12-11 | 2021-03-06 |
 | [Bubble](https://open.spotify.com/track/4vb7jSp8SjP6dHVZ1m3Yhv) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [Bubble](https://open.spotify.com/album/7iBpoxvtEN2wVV4bOh4yoc) | 3:45 | 2021-11-13 | 2022-01-15 |
 | [Buckle In Baby](https://open.spotify.com/track/5gUJ7Ph5HQ82KPJyFxGbrC) | [alayna](https://open.spotify.com/artist/7JwNWaTv4y9WNJCihQFHpv) | [Buckle In Baby](https://open.spotify.com/album/3pR6NLOJhSSsJr2Z6HCOKL) | 3:02 | 2023-01-20 | 2023-02-11 |
-| [Built To Be Bad \(with Alex Sampson\)](https://open.spotify.com/track/6tqSQ7LWVgmVyf41tFAqHV) | [Grace Gachot](https://open.spotify.com/artist/1viwLnZpOs9iGIe3PP3aoJ), [Alex Sampson](https://open.spotify.com/artist/70LuGDrcHRTN0dQJoLN7rf) | [Built To Be Bad \(with Alex Sampson\)](https://open.spotify.com/album/3PYiHvRl0dwJJIVHm0FpeY) | 3:08 | 2024-04-22 |  |
+| [Built To Be Bad \(with Alex Sampson\)](https://open.spotify.com/track/6tqSQ7LWVgmVyf41tFAqHV) | [Grace Gachot](https://open.spotify.com/artist/1viwLnZpOs9iGIe3PP3aoJ), [Alex Sampson](https://open.spotify.com/artist/70LuGDrcHRTN0dQJoLN7rf) | [Built To Be Bad \(with Alex Sampson\)](https://open.spotify.com/album/3PYiHvRl0dwJJIVHm0FpeY) | 3:08 | 2024-04-22 | 2024-10-05 |
 | [Burn](https://open.spotify.com/track/3gw2Mz111daFVWm7IF0Gb7) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Burn](https://open.spotify.com/album/5GHOtUAqaPIoUtfQwIQz79) | 2:59 | 2022-06-24 | 2022-11-05 |
 | [Burn Out](https://open.spotify.com/track/53dczw7m7Z87nRBojztGQo) | [Middle Child](https://open.spotify.com/artist/0d5rJSCHZBNsrQTSXPgFLy) | [Burn Out](https://open.spotify.com/album/1xEF7PbhTv2bzsLSaqRKi1) | 3:51 | 2021-05-15 | 2021-06-26 |
 | [Burning Up Slow](https://open.spotify.com/track/7FKt5TmdwOaeBGJcejChUw) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Burning Up Slow](https://open.spotify.com/album/2fzajTeK3bEDzWvBjO2k73) | 2:04 | 2022-09-30 | 2022-10-18 |
@@ -1513,6 +1513,7 @@
 | [The Outsider](https://open.spotify.com/track/5W1UtLcQLQOFZDpDeNn8Gi) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [The Outsider](https://open.spotify.com/album/0ftVjdPzK7QBpUQiBuL798) | 3:00 | 2022-03-11 | 2022-09-03 |
 | [The Plan](https://open.spotify.com/track/24TBDnrH9ampHrkCGNmHJg) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [12 Notes \(Deluxe\) \[16 Notes\]](https://open.spotify.com/album/6ul4W8XzkvOeS1YgPfY3TF) | 2:49 | 2024-09-20 |  |
 | [the reason i hate home](https://open.spotify.com/track/4ONM0At2H9s1rjIZ9ROxRj) | [Munn](https://open.spotify.com/artist/3cKS6z9VNfN9u5ZyNiph4l) | [the reason i hate home](https://open.spotify.com/album/60w9GszHHtExusXvbenVKz) | 2:43 | 2022-05-13 | 2022-08-06 |
+| [The Rest Of Me](https://open.spotify.com/track/4xyZ8TMuWWlSCN3NRUsOCq) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [The Rest Of Me](https://open.spotify.com/album/3JZctelEqYNf7zNBiMQuXh) | 3:50 | 2024-10-04 |  |
 | [The Roads](https://open.spotify.com/track/1z8cabK9f2r2pXWx30ErUW) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [The Roads](https://open.spotify.com/album/2QRL4SnhoN9c6bK8R93o1k) | 4:10 | 2023-09-15 | 2024-03-09 |
 | [The Same](https://open.spotify.com/track/57YKyo8SW8lujChukFU3qY) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [The Same / Real Love](https://open.spotify.com/album/0zWFPw6BqkytZZ2roxs9vh) | 3:53 | 2021-02-12 | 2021-03-06 |
 | [The Show Must Go On](https://open.spotify.com/track/0lKTZbj7of6RjyzsT65SUo) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [Columbo](https://open.spotify.com/album/77ecNwHIYZfoOSgQ1FMSAS) | 4:26 | 2023-07-21 | 2023-09-16 |

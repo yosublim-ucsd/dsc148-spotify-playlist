@@ -2074,7 +2074,7 @@
       ],
       "date_added": "2023-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 198520,
       "name": "Ojos Marrones",
       "url": "https://open.spotify.com/track/7gwT3HGL84vF7bgtwL1N88"
@@ -2968,6 +2968,24 @@
       "duration_ms": 132400,
       "name": "Tortura",
       "url": "https://open.spotify.com/track/5sgXFYthNSatpAyZ64QVs2"
+    },
+    {
+      "album": {
+        "name": "EVOLUTION",
+        "url": "https://open.spotify.com/album/0uqXfeEoEnK6tFevx5pRRe"
+      },
+      "artists": [
+        {
+          "name": "Picus",
+          "url": "https://open.spotify.com/artist/2BUqEy3gCJYDKmKqV06Ojt"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186346,
+      "name": "TQ",
+      "url": "https://open.spotify.com/track/0ZNVJPAXyL6ubMiPS0NGPr"
     },
     {
       "album": {

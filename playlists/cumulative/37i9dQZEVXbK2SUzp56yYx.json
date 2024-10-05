@@ -136,10 +136,28 @@
       ],
       "date_added": "2024-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 89308,
       "name": "2027",
       "url": "https://open.spotify.com/track/5Lr10ho7DPpv9i2uOeIeQs"
+    },
+    {
+      "album": {
+        "name": "2027",
+        "url": "https://open.spotify.com/album/55QrY0TCtdtcZtF1ri2Q34"
+      },
+      "artists": [
+        {
+          "name": "REMINI",
+          "url": "https://open.spotify.com/artist/00efGghwOdHy0gQ8zPR5xB"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89308,
+      "name": "2027",
+      "url": "https://open.spotify.com/track/6z4j68igsGUF3oc7v5OSaD"
     },
     {
       "album": {
@@ -4935,6 +4953,24 @@
     },
     {
       "album": {
+        "name": "MEOW",
+        "url": "https://open.spotify.com/album/7mtt73Ch1hIRXT5qScF4s5"
+      },
+      "artists": [
+        {
+          "name": "MEOVV",
+          "url": "https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172073,
+      "name": "MEOW",
+      "url": "https://open.spotify.com/track/72gPDy1zVt95zVNali0IhK"
+    },
+    {
+      "album": {
         "name": "Midas Touch",
         "url": "https://open.spotify.com/album/1HfTA0xDoZ0mswFO3GB3ef"
       },
@@ -5444,7 +5480,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 220467,
       "name": "My Favourite Game",
       "url": "https://open.spotify.com/track/0Ui05Ov0s4PnRc4JI3Pilg"
@@ -7464,7 +7500,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 147874,
       "name": "SPIT IN MY FACE!",
       "url": "https://open.spotify.com/track/1N8TTK1Uoy7UvQNUazfUt5"
@@ -8384,7 +8420,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 148000,
       "name": "Violetize",
       "url": "https://open.spotify.com/track/0dyX1Ty0Zyc1ipLcDUOLlK"
@@ -8966,7 +9002,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 258013,
       "name": "Woops",
       "url": "https://open.spotify.com/track/2XeqqfeJgtG3mQI5xNeNTy"
@@ -9172,7 +9208,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-29",
+      "date_removed": null,
       "duration_ms": 106173,
       "name": "wutiwant - SLOWD",
       "url": "https://open.spotify.com/track/6bxukxNnfPyph0sqhnGhpW"
@@ -10788,7 +10824,7 @@
       ],
       "date_added": "2024-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-16",
+      "date_removed": null,
       "duration_ms": 188448,
       "name": "\u0413\u0440\u0430\u0431\u0438\u0442\u0435\u043b\u044c 78",
       "url": "https://open.spotify.com/track/06FMXRY2xu8PIbMRuRnges"
@@ -13722,7 +13758,7 @@
       ],
       "date_added": "2024-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-04",
+      "date_removed": null,
       "duration_ms": 172745,
       "name": "\u043f\u043e\u043a\u0430-\u043f\u043e\u043a\u0430",
       "url": "https://open.spotify.com/track/0sM2KjVjrKCF8g8qSyrF9f"
@@ -13994,7 +14030,7 @@
       ],
       "date_added": "2024-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 94615,
       "name": "\u041f\u0440\u043e\u0441\u0442\u0443\u0436\u0435\u043d",
       "url": "https://open.spotify.com/track/3VnFEw7QY1kDjU5I0VSFPf"
@@ -14030,7 +14066,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 201014,
       "name": "\u0420\u0430\u0434\u043e\u0441\u0442\u044c",
       "url": "https://open.spotify.com/track/4PP7SqXgmZMCJkgnY0zbnQ"
@@ -14176,7 +14212,7 @@
       ],
       "date_added": "2024-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-03",
+      "date_removed": null,
       "duration_ms": 180088,
       "name": "\u0420\u043e\u043c\u0430\u0448\u043a\u0430 \u0431\u0435\u043b\u0430\u044f",
       "url": "https://open.spotify.com/track/0r3qLw9YwoXES2c1fbp05j"
@@ -14206,7 +14242,7 @@
       ],
       "date_added": "2024-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-03",
+      "date_removed": null,
       "duration_ms": 164370,
       "name": "\u0420\u0423\u0421\u0421\u041a\u0410\u042f \u0414\u0423\u0428\u0410",
       "url": "https://open.spotify.com/track/7lMKMh0hAyR1g38p1nmmqN"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWpx7KRCSbJ.md) - [plain]
 
 > Pronto pra pool party? Vem com a gente!
 
-[Spotify](https://open.spotify.com/user/spotify) - 333,826 likes - 70 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 333,833 likes - 70 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,15 +68,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWpx7KRCSbJ.md) - [plain]
 | 58 | [O Impossível](https://open.spotify.com/track/3RVylAtukXgF7xSXFn2OwA) | [Sorriso Maroto](https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG) | [O Impossível](https://open.spotify.com/album/0VrpBbLjRWbR2abs4Y7vOx) | 2:57 |
 | 59 | [Século 21](https://open.spotify.com/track/7jiGFTWeO3MmMN9dpHRjUZ) | [Leo Santana](https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Século 21](https://open.spotify.com/album/5k9YDvQ6t8iHsfWGyJVox7) | 2:47 |
 | 60 | [Sou Favela](https://open.spotify.com/track/6VcaTmR9UhOuZD7aNNilOV) | [Ruanzinho](https://open.spotify.com/artist/3F6YQLCVjGIS7MHQnFOd61), [Dany Bala](https://open.spotify.com/artist/4cQ6t2SYfuOGQmyeXZQSkg) | [Sou Favela](https://open.spotify.com/album/3XF8959ppjZwDRouNGahxg) | 2:52 |
-| 61 | [Solta a batida](https://open.spotify.com/track/4yjljBusKH0hgsIzHlF85T) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Solta a batida](https://open.spotify.com/album/37ENHzff2cXEOqVbJ4WjY4) | 2:49 |
-| 62 | [Pra você acreditar \- Ao vivo](https://open.spotify.com/track/2M9RqfIzNKzN1EoedTWEWz) | [Ferrugem](https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2) | [Pra você acreditar \(Ao vivo\)](https://open.spotify.com/album/0jY9xHuzTU6HquDlbZbU2Q) | 3:23 |
-| 63 | [Permanecer \(feat\. MC G15\)](https://open.spotify.com/track/3sIMCkwUZbQbWeNOTG3ET4) | [Lucas Lucco](https://open.spotify.com/artist/06cd30Cv9US973Ika84gDw), [MC G15](https://open.spotify.com/artist/3Nipsl6GVwwGyeAk0J29C6) | [Permanecer \(feat\. MC G15\)](https://open.spotify.com/album/5w9U9duIPCVzHmgzEQWeZX) | 3:22 |
+| 61 | [Permanecer \(feat\. MC G15\)](https://open.spotify.com/track/3sIMCkwUZbQbWeNOTG3ET4) | [Lucas Lucco](https://open.spotify.com/artist/06cd30Cv9US973Ika84gDw), [MC G15](https://open.spotify.com/artist/3Nipsl6GVwwGyeAk0J29C6) | [Permanecer \(feat\. MC G15\)](https://open.spotify.com/album/5w9U9duIPCVzHmgzEQWeZX) | 3:22 |
+| 62 | [Solta a batida](https://open.spotify.com/track/4yjljBusKH0hgsIzHlF85T) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Solta a batida](https://open.spotify.com/album/37ENHzff2cXEOqVbJ4WjY4) | 2:49 |
+| 63 | [Pra você acreditar \- Ao vivo](https://open.spotify.com/track/2M9RqfIzNKzN1EoedTWEWz) | [Ferrugem](https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2) | [Pra você acreditar \(Ao vivo\)](https://open.spotify.com/album/0jY9xHuzTU6HquDlbZbU2Q) | 3:23 |
 | 64 | [Até Ex Duvida \(feat\. Maiara & Maraisa\) \- Ao Vivo](https://open.spotify.com/track/3twpVbHfTCpgHNlStxfpzx) | [Day e Lara](https://open.spotify.com/artist/0vsVZPe7ziQLQ3eqwUTc4H), [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Day e Lara \(...\) \[Ao Vivo\]](https://open.spotify.com/album/4ijQqGz1C1a8JtKBykhYsj) | 2:37 |
 | 65 | [Pagodão in the Usa](https://open.spotify.com/track/0innc8nhrzOD2So8Chekvi) | [Ventura](https://open.spotify.com/artist/0awYrHoDgY7bTDlAb3wGuF), [DJ Nardini](https://open.spotify.com/artist/1zGxPsrLbk8aVWBRmdQD9E) | [Quarenight](https://open.spotify.com/album/3LEo6WorscdkYEUYBedWud) | 2:32 |
 | 66 | [Pot\-Pourri: Outdoor / Curtindo a Vida \- Ao Vivo](https://open.spotify.com/track/2xl2TBSYbuUm46UXwPKK1g) | [Thiaguinho](https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1) | [Tardezinha 2 \(Ao Vivo\)](https://open.spotify.com/album/3H3Pd9vGhDAp9bt3JWUgCA) | 4:03 |
 | 67 | [Nem On Nem Off](https://open.spotify.com/track/6bgZv4VkqjBIS2vawz3RsU) | [POCAH](https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6), [MC WM](https://open.spotify.com/artist/14D0I0RYqvIorkPL2EWoQh) | [Nem On Nem Off](https://open.spotify.com/album/1DUDX3Jz6dNvkYiWcgnKqS) | 2:34 |
 | 68 | [Qualidade De Vida \- Ao Vivo](https://open.spotify.com/track/5Wmg5LPPJnbMsKA9fthM3l) | [Simone & Simaria](https://open.spotify.com/artist/0MInKJqZscEeNc5K3K0mkE), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Qualidade De Vida \(Ao Vivo\)](https://open.spotify.com/album/2zfqph70lkdj2EXP6IzrZq) | 2:34 |
 | 69 | [Deixa Eu Te Fazer Feliz](https://open.spotify.com/track/0z9sgzZsUAXmbSHSxRleUZ) | [Márcia Fellipe](https://open.spotify.com/artist/3OxZ4asD88P1lJJmLcXz4K), [Aldair Playboy](https://open.spotify.com/artist/6LjdKBMnP1Da8Oe6WhrN56) | [Deixa Eu Te Fazer Feliz](https://open.spotify.com/album/16r3bOihSt87DuMoUTZs5X) | 2:41 |
-| 70 | [Deixe\-Me Ir \- Kiko Franco e Woak Remix](https://open.spotify.com/track/19kNNsdVTF4Bq06Oxv8WhT) | [1Kilo](https://open.spotify.com/artist/6E2st8OqIaS7PU5gj95FSE), [Kiko Franco](https://open.spotify.com/artist/3SNKZ8uTQoSyMsUNqNBOD2), [WOAK](https://open.spotify.com/artist/0YlRs4DoQ4WctkmsbUUpBb) | [Deixe\-Me Ir \(Kiko Franco e Woak Remix\)](https://open.spotify.com/album/6zG3uIr7njYZBzXe2s2juU) | 3:34 |
+| 70 | [Pirata e tesouro \- Ao vivo](https://open.spotify.com/track/4gOgVYsfTUNp8GifD8GI7e) | [Ferrugem](https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2) | [Pirata e tesouro \(Ao vivo\)](https://open.spotify.com/album/7CRx2qo53oZiaycSmsxwsm) | 3:39 |
 
 Snapshot ID: `ZIxZ8QAAAAAkmSB5TdzaWrnGQGL/JzaO`

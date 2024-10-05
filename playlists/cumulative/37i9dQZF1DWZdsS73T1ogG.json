@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "Descubre lo m\u00e1s nuevo del movimiento. Cover: Maisak",
+  "description": "Descubre lo m\u00e1s nuevo del movimiento. Cover: De La Rose",
   "name": "el nuevo urbano",
   "tracks": [
     {
@@ -1184,7 +1184,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 212500,
       "name": "After",
       "url": "https://open.spotify.com/track/2AayCqWIpZkY59DwPlSA3x"
@@ -2086,7 +2086,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 209091,
       "name": "Aprovecha",
       "url": "https://open.spotify.com/track/39z0AaTWNLI8H07G90ySqo"
@@ -5269,6 +5269,28 @@
     },
     {
       "album": {
+        "name": "De La Zona M\u00e1s Extrema",
+        "url": "https://open.spotify.com/album/0pltYSAofttoCfgKleLKoH"
+      },
+      "artists": [
+        {
+          "name": "Pailita",
+          "url": "https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb"
+        },
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "CINTURITA",
+      "url": "https://open.spotify.com/track/4vXvk2iDdn26POy12Uj5F7"
+    },
+    {
+      "album": {
         "name": "Classy 101",
         "url": "https://open.spotify.com/album/4jtQUtS4ABgER3DnGfKJCv"
       },
@@ -6104,6 +6126,28 @@
       "duration_ms": 263360,
       "name": "Creo - Remix",
       "url": "https://open.spotify.com/track/2ogNwewszcmto1CC2an0xO"
+    },
+    {
+      "album": {
+        "name": "Croketita",
+        "url": "https://open.spotify.com/album/3CjX01NbNniBDmTIhMzWaj"
+      },
+      "artists": [
+        {
+          "name": "Yeri Mua",
+          "url": "https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M"
+        },
+        {
+          "name": "La Loquera",
+          "url": "https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168300,
+      "name": "Croketita",
+      "url": "https://open.spotify.com/track/2viKn02L839kO9ka0FqCkm"
     },
     {
       "album": {
@@ -7488,7 +7532,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 147908,
       "name": "DON'T TOUCH ME FREESTYLE",
       "url": "https://open.spotify.com/track/5pWc7UhGz12aA3gBpnrvVh"
@@ -8651,6 +8695,28 @@
     },
     {
       "album": {
+        "name": "Elvira & Tony",
+        "url": "https://open.spotify.com/album/2XO4KRYXIJSLQ6AsxzSP6o"
+      },
+      "artists": [
+        {
+          "name": "Lismar",
+          "url": "https://open.spotify.com/artist/2JAxtl8czMHyssC2W7b8jy"
+        },
+        {
+          "name": "Hades66",
+          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187000,
+      "name": "Elvira & Tony",
+      "url": "https://open.spotify.com/track/6JuYPGtQHFfC1Xbuu1PyY2"
+    },
+    {
+      "album": {
         "name": "Embuste",
         "url": "https://open.spotify.com/album/7xtgpGt2BFkVFEAd8aHfg5"
       },
@@ -9051,6 +9117,32 @@
     },
     {
       "album": {
+        "name": "Epica",
+        "url": "https://open.spotify.com/album/6WnonSUOxefI2zdsTkH2kx"
+      },
+      "artists": [
+        {
+          "name": "Caleb Calloway",
+          "url": "https://open.spotify.com/artist/11usEAQkFE6UJwsyAKkchi"
+        },
+        {
+          "name": "iZaak",
+          "url": "https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK"
+        },
+        {
+          "name": "Yan Block",
+          "url": "https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180352,
+      "name": "Epica",
+      "url": "https://open.spotify.com/track/1q7LGi82JjWM8gf3XPFGel"
+    },
+    {
+      "album": {
         "name": "Era De Cristal",
         "url": "https://open.spotify.com/album/7B95gPtQhlq8FimvJiluKl"
       },
@@ -9069,7 +9161,7 @@
     },
     {
       "album": {
-        "name": "Eres",
+        "name": "ERES",
         "url": "https://open.spotify.com/album/3L4V0Qad9QbMXH5WER4g76"
       },
       "artists": [
@@ -9082,7 +9174,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 103225,
-      "name": "Eres",
+      "name": "ERES",
       "url": "https://open.spotify.com/track/3aHhSUezdwhEyr0YLEDg6M"
     },
     {
@@ -12047,6 +12139,32 @@
     },
     {
       "album": {
+        "name": "IG",
+        "url": "https://open.spotify.com/album/0iytPnOagkUKmOWkwhnNvf"
+      },
+      "artists": [
+        {
+          "name": "SOG",
+          "url": "https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD"
+        },
+        {
+          "name": "FMK",
+          "url": "https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf"
+        },
+        {
+          "name": "DFZM",
+          "url": "https://open.spotify.com/artist/6ndLrsgT3MV5CNxIrW71fw"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190515,
+      "name": "IG",
+      "url": "https://open.spotify.com/track/3vtPzVMbYE5KveyLyNS2Hj"
+    },
+    {
+      "album": {
         "name": "IMPACTO",
         "url": "https://open.spotify.com/album/3po5AgpyQ3ZXm1hRGyFtQ6"
       },
@@ -14067,6 +14185,28 @@
     },
     {
       "album": {
+        "name": "Las Piponas (Remix)",
+        "url": "https://open.spotify.com/album/6FnnT3IOidLkfgQtrC2RJb"
+      },
+      "artists": [
+        {
+          "name": "Kris R.",
+          "url": "https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK"
+        },
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244000,
+      "name": "Las Piponas (Remix)",
+      "url": "https://open.spotify.com/track/281YJmnThveWjsWVic9Ym6"
+    },
+    {
+      "album": {
         "name": "Lately",
         "url": "https://open.spotify.com/album/3A3qusTOsK8Khd1xlTqjLR"
       },
@@ -14209,6 +14349,24 @@
     },
     {
       "album": {
+        "name": "ANTES DE",
+        "url": "https://open.spotify.com/album/1Bxi1uDuLmyy1l5bbdf6iz"
+      },
+      "artists": [
+        {
+          "name": "Alejo",
+          "url": "https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146250,
+      "name": "LINDA",
+      "url": "https://open.spotify.com/track/0eRueDnsohvMHOUUv3L44l"
+    },
+    {
+      "album": {
         "name": "Linea Del Perreo",
         "url": "https://open.spotify.com/album/5QAA9U04wuRM8qnRbrKnOI"
       },
@@ -14338,7 +14496,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 175702,
       "name": "LMM",
       "url": "https://open.spotify.com/track/3C1mWB4B9wYKzDvkL55lYy"
@@ -16548,7 +16706,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 188597,
       "name": "Miami",
       "url": "https://open.spotify.com/track/0fksS3HI1cLlWCUbLqeXqB"
@@ -17935,6 +18093,32 @@
     },
     {
       "album": {
+        "name": "No Has Cambiado",
+        "url": "https://open.spotify.com/album/6jQWlWu68A5o8VZuysv8zs"
+      },
+      "artists": [
+        {
+          "name": "Baby Rasta",
+          "url": "https://open.spotify.com/artist/0GgyFUpOyzWDRDqx8FCTDN"
+        },
+        {
+          "name": "Noriel",
+          "url": "https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL"
+        },
+        {
+          "name": "Hades66",
+          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276404,
+      "name": "No Has Cambiado",
+      "url": "https://open.spotify.com/track/4rUuiCQ8mOiZjjXEOHfZyx"
+    },
+    {
+      "album": {
         "name": "NO HAY 14F",
         "url": "https://open.spotify.com/album/3rolYL8OssuXAYSQ6sAyYA"
       },
@@ -17972,6 +18156,24 @@
       "duration_ms": 182171,
       "name": "No Le Hablen De Amor",
       "url": "https://open.spotify.com/track/5hRbOgX4YEjcLJ7ihggZUv"
+    },
+    {
+      "album": {
+        "name": "No Love",
+        "url": "https://open.spotify.com/album/1nTmEalnOSYKjUEwVeAEcd"
+      },
+      "artists": [
+        {
+          "name": "Eix",
+          "url": "https://open.spotify.com/artist/384MqcXCGGFh9UcjI5Tpc5"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166829,
+      "name": "No Love",
+      "url": "https://open.spotify.com/track/2AEbYc8UX8fAj3Gqaaoqtm"
     },
     {
       "album": {
@@ -20820,7 +21022,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 166736,
       "name": "PERREKETEKE 2",
       "url": "https://open.spotify.com/track/2jP6P6TZfK7K0naCwBw3SZ"
@@ -22026,6 +22228,36 @@
       "duration_ms": 154285,
       "name": "Pushaina",
       "url": "https://open.spotify.com/track/2lXkGFQ17envF8BVmTZqZx"
+    },
+    {
+      "album": {
+        "name": "LA REINA DEL REGGAETON MEXICANO: TOMO I: La chica de las poes\u00edas",
+        "url": "https://open.spotify.com/album/1R1vycz825HAGn6wZIJe7F"
+      },
+      "artists": [
+        {
+          "name": "Bellakath",
+          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
+        },
+        {
+          "name": "Jowell & Randy",
+          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
+        },
+        {
+          "name": "DJ Luian",
+          "url": "https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD"
+        },
+        {
+          "name": "Mambo Kingz",
+          "url": "https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220733,
+      "name": "PUT4 (feat. Mambo Kingz)",
+      "url": "https://open.spotify.com/track/52NoEqCZfsXpDd9KYez2a8"
     },
     {
       "album": {
@@ -23678,7 +23910,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 174893,
       "name": "Se Te Nota",
       "url": "https://open.spotify.com/track/6O6IToItwzoNxTXU5CBcZ5"
@@ -25710,7 +25942,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 139393,
       "name": "Tantos Meses",
       "url": "https://open.spotify.com/track/4Kc0IAk9nycXieuWKq0CkN"
@@ -26330,7 +26562,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 230857,
       "name": "Thal\u00eda - Remix",
       "url": "https://open.spotify.com/track/7rOBXchP5e7U0pNETeyES1"
@@ -26884,7 +27116,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 139322,
       "name": "Traka",
       "url": "https://open.spotify.com/track/1FXTLPcQGGv5OE5Me9mxdG"
@@ -28365,6 +28597,28 @@
     },
     {
       "album": {
+        "name": "UY!",
+        "url": "https://open.spotify.com/album/55PIrIUCPczknySwrDZE8b"
+      },
+      "artists": [
+        {
+          "name": "Dani Flow",
+          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
+        },
+        {
+          "name": "Go Golden Junk",
+          "url": "https://open.spotify.com/artist/2tU377oBzcCBbRNeVve8FC"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156089,
+      "name": "UY!",
+      "url": "https://open.spotify.com/track/2NjbaMlBbfRqFkylLtjfeJ"
+    },
+    {
+      "album": {
         "name": "V16",
         "url": "https://open.spotify.com/album/1NYH6nfQS1yuB2PHEHIgtz"
       },
@@ -28504,7 +28758,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 147944,
       "name": "Vanish Mode",
       "url": "https://open.spotify.com/track/0AiW2aBcP5rNtSnOqkRDQQ"

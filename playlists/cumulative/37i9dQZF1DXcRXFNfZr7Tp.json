@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "Current favorites and exciting new music. Cover: Katy Perry",
+  "description": "Current favorites and exciting new music. Cover: LISA",
   "name": "just hits",
   "tracks": [
     {
@@ -886,6 +886,24 @@
       "duration_ms": 223878,
       "name": "All My Life (feat. J. Cole)",
       "url": "https://open.spotify.com/track/6HgWWaMu31KdOpEG5l28BG"
+    },
+    {
+      "album": {
+        "name": "Moon Music",
+        "url": "https://open.spotify.com/album/5SGtrmYbIo0Dsg4kJ4qjM6"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222647,
+      "name": "ALL MY LOVE",
+      "url": "https://open.spotify.com/track/6iYxkBHyMpsgVxUgfy5fSx"
     },
     {
       "album": {
@@ -2354,7 +2372,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 176178,
       "name": "Before You Leave Me",
       "url": "https://open.spotify.com/track/7qoxdajngC0j9VXrcnephA"
@@ -11210,7 +11228,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 198461,
       "name": "I'M HIS, HE'S MINE (feat. Doechii)",
       "url": "https://open.spotify.com/track/3NPY62YGNoM3lALLaKWiFL"
@@ -15604,6 +15622,24 @@
       "duration_ms": 187723,
       "name": "Moonlight",
       "url": "https://open.spotify.com/track/0JmnkIqdlnUzPaf8sqBRs3"
+    },
+    {
+      "album": {
+        "name": "Moonlit Floor",
+        "url": "https://open.spotify.com/album/2F84s5tvr9RSS6VI772mVb"
+      },
+      "artists": [
+        {
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155757,
+      "name": "Moonlit Floor",
+      "url": "https://open.spotify.com/track/3yDRcs0Y4pPzkvMbUfeF9H"
     },
     {
       "album": {
@@ -23122,7 +23158,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 209487,
       "name": "Training Season",
       "url": "https://open.spotify.com/track/6Qb7YsAqH4wWFUMbGsCpap"
@@ -25546,6 +25582,24 @@
       "duration_ms": 207619,
       "name": "You Found Me",
       "url": "https://open.spotify.com/track/0xr8Vdy7svQMJXicR1XWEt"
+    },
+    {
+      "album": {
+        "name": "You Go Your Way",
+        "url": "https://open.spotify.com/album/5TfDNyXTjan0eZhELfj1jx"
+      },
+      "artists": [
+        {
+          "name": "Perrie",
+          "url": "https://open.spotify.com/artist/0o18Cfq9RAxRqi5W4JOEPe"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234886,
+      "name": "You Go Your Way",
+      "url": "https://open.spotify.com/track/35jE2icc2pV4QDgbJiYMUe"
     },
     {
       "album": {

@@ -2,7 +2,7 @@
 
 ### [Spilled Ink](https://open.spotify.com/playlist/37i9dQZF1DWSTeI2WWFaia)
 
-> Lyrical, lo\-fi, and lowlife raps\. Cover: MAVI
+> Lyrical, lo\-fi, and lowlife raps\. Cover: Cordae
 
 686 songs - 1 day 12 hr 41 min
 
@@ -297,7 +297,7 @@
 | [If I Wasnt](https://open.spotify.com/track/2YbjuUyAGLuQ4ebkGCxaEF) | [RETRO](https://open.spotify.com/artist/5JQ5QsmDCpzhi6StRcYxqf) | [If I Wasnt](https://open.spotify.com/album/0AHcfHukL9JqfpatTr9EbR) | 4:03 | 2021-09-03 | 2022-04-16 |
 | [If Not Now, When?](https://open.spotify.com/track/6eQHIFVNvgsg4ooRrzgwVz) | [Anoyd](https://open.spotify.com/artist/6zmyeByNsfskQHKnJT0F9L) | [If Not Now, When?](https://open.spotify.com/album/493v3KuL0Bc12cQacac8sl) | 2:47 | 2022-02-18 | 2022-07-18 |
 | [IMPALAS & HYDRAULICS \(Ft\. The Game\)](https://open.spotify.com/track/4EwwOC5ajOeyCVdPrScy5t) | [REASON](https://open.spotify.com/artist/6XpXnnKHIhCOUbOLOJGe6o), [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI) | [IMPALAS & HYDRAULICS \(Ft\. The Game\)](https://open.spotify.com/album/5BcFOLlzBLEtGAWC4GnKtL) | 2:57 | 2022-08-05 | 2023-04-09 |
-| [Imported Couches](https://open.spotify.com/track/5YWyB1Unzq0sO6DBTqiVuw) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl) | [Imported Couches](https://open.spotify.com/album/6fNdtvi2y9otv0oSYaXDDo) | 3:36 | 2024-04-12 |  |
+| [Imported Couches](https://open.spotify.com/track/5YWyB1Unzq0sO6DBTqiVuw) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl) | [Imported Couches](https://open.spotify.com/album/6fNdtvi2y9otv0oSYaXDDo) | 3:36 | 2024-04-12 | 2024-10-05 |
 | [In my lifetime \(feat\. Action Bronson\)](https://open.spotify.com/track/6FoyBTuvyX2YFw4QW1e6DK) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L), [Action Bronson](https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ) | [Vinyl Days](https://open.spotify.com/album/0RTHMVF27KRMHIGnF7iLru) | 1:48 | 2022-06-17 | 2023-04-22 |
 | [INDEPENDENT](https://open.spotify.com/track/1eUrzqzNIJ1AUDpIK4hJFZ) | [Katori Walker](https://open.spotify.com/artist/2ODTjg0iTHX1QxBeRNI6nT) | [INDEPENDENT](https://open.spotify.com/album/29zVAQcXogzcfBQI6Y5jG6) | 2:33 | 2021-09-03 | 2022-04-21 |
 | [INDUSTRY GAMES](https://open.spotify.com/track/6HRUomAomV72oMArAAHEIT) | [CHIKA](https://open.spotify.com/artist/6UtYvUtXnmg5EtllDFlWp8) | [INDUSTRY GAMES](https://open.spotify.com/album/5pbCz1rWV7zB6mgR3VBfbz) | 2:16 | 2021-09-03 | 2022-04-19 |
@@ -395,7 +395,7 @@
 | [MOTHERLESS \- Single Version](https://open.spotify.com/track/4EMmtIMp0fkU4Au326hA5l) | [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI), [Eryn Allen Kane](https://open.spotify.com/artist/5xI4mPixKfrCCspATqbpy3) | [MOTHERLESS](https://open.spotify.com/album/445ASNvZBCiKxGuT7Ds7UQ) | 3:33 | 2023-05-12 | 2023-07-15 |
 | [Movie Scenes](https://open.spotify.com/track/10hEv8YRgWbcopmQNhWkHk) | [Lloyd Banks](https://open.spotify.com/artist/3vDUJHQtqT3jFRZ2ECXDTi) | [Movie Scenes](https://open.spotify.com/album/4YKd0Z1av5dbj604uZJKBl) | 2:42 | 2023-04-14 | 2023-05-01 |
 | [Movin Blocks](https://open.spotify.com/track/5NDrJK7uEOB2bML5q7d40x) | [Dibia$E](https://open.spotify.com/artist/21H0kHbS41lECHguMnjGpb) | [Quick Escape](https://open.spotify.com/album/2adxeISk06Yqt7RmLgKBVt) | 3:20 | 2022-04-01 | 2022-04-21 |
-| [Moving Day](https://open.spotify.com/track/4qDDIXfhFPCJd5OzKa6Bun) | [Samara Cyn](https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0) | [Moving Day](https://open.spotify.com/album/6704YouVguYBevesjOlyC3) | 2:50 | 2024-05-05 | 2024-09-29 |
+| [Moving Day](https://open.spotify.com/track/4qDDIXfhFPCJd5OzKa6Bun) | [Samara Cyn](https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0) | [Moving Day](https://open.spotify.com/album/6704YouVguYBevesjOlyC3) | 2:50 | 2024-05-05 |  |
 | [Mr\. Miyagi](https://open.spotify.com/track/3kzsjnSBIQgWHrmdXpUQe2) | [Jayy Grams](https://open.spotify.com/artist/6q8DZBLBYqEUdKZl54sqGd), [Smoke DZA](https://open.spotify.com/artist/3kf0gOpxWtkyeMNJVDQPtd) | [Mr\. Miyagi](https://open.spotify.com/album/6rErVqrK0NASHQsrQXgz0t) | 3:05 | 2021-09-03 | 2022-01-09 |
 | [Mtv Traps](https://open.spotify.com/track/2pGq43GlL6XqHIAck7uXh7) | [Doley Bernays](https://open.spotify.com/artist/16WMnfMmfhqT4XWD9bkPch) | [Mtv Traps](https://open.spotify.com/album/5HyV8cBawSYLoKIr4wKKjy) | 3:21 | 2022-06-10 | 2022-06-18 |
 | [Muggsy Bogues](https://open.spotify.com/track/17VsGeETmPijC3sjZq1lwu) | [Marlon Craft](https://open.spotify.com/artist/7MigDh04CCntQbsBvugEmb), [Method Man](https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt) | [Muggsy Bogues](https://open.spotify.com/album/476DYeSACCOnbGwVThJ82W) | 3:20 | 2024-02-23 | 2024-09-01 |

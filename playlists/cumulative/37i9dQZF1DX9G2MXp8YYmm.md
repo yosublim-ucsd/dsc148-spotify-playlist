@@ -4,7 +4,7 @@
 
 > Popun sevilen isimleri\. Kapak: Ege Balkiz
 
-140 songs - 6 hr 58 min
+141 songs - 7 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [Bir Gün Ol Yerimde](https://open.spotify.com/track/4NYYwPTLIgoyPNG2iu3OrG) | [Doğu Swag](https://open.spotify.com/artist/0uHvlWnhRpaomF4e9IZHLy), [Aleyna Tilki](https://open.spotify.com/artist/4ckLjJztj53Ifid7WHweBn) | [Bir Gün Ol Yerimde](https://open.spotify.com/album/2GnkPSkkWAE1tmdHwSLa0b) | 2:49 | 2024-06-27 |  |
 | [Bir Karanfil](https://open.spotify.com/track/0a56Y5XrlRQ0JYg6jse5QJ) | [Emir Can İğrek](https://open.spotify.com/artist/4XP7cGw4t8BqZ8Du5q3bHg) | [Bir Karanfil](https://open.spotify.com/album/3Yb6RlZyEkrXfbYjsqFzPb) | 2:53 | 2024-06-27 |  |
 | [Bitter](https://open.spotify.com/track/1XTAyuB6BaFFeQbi0miaQw) | [İrem Derici](https://open.spotify.com/artist/5h2jTdwf4p0dM34aBykPzZ) | [Bitter](https://open.spotify.com/album/00q9Jeszjw02VruYWAd5qB) | 2:12 | 2024-06-27 |  |
-| [Bizden Olmaz](https://open.spotify.com/track/0xdFiVaZwbkJlar6bHjCAF) | [Berkay Altunyay](https://open.spotify.com/artist/7DDrfx7EEOeHSZUkpTIn59) | [Bizden Olmaz](https://open.spotify.com/album/65Jp9aA1HSGAzttr8Xayj6) | 2:17 | 2024-09-05 |  |
+| [Bizden Olmaz](https://open.spotify.com/track/0xdFiVaZwbkJlar6bHjCAF) | [Berkay Altunyay](https://open.spotify.com/artist/7DDrfx7EEOeHSZUkpTIn59) | [Bizden Olmaz](https://open.spotify.com/album/65Jp9aA1HSGAzttr8Xayj6) | 2:17 | 2024-09-05 | 2024-10-05 |
 | [Boşuna Nefes Tüketme](https://open.spotify.com/track/34gJ0zwqrGJwxSdhtsmT7s) | [Emir Can İğrek](https://open.spotify.com/artist/4XP7cGw4t8BqZ8Du5q3bHg) | [Boşuna Nefes Tüketme](https://open.spotify.com/album/1f3t5RQ1GGfDE2cWDsOcS5) | 2:42 | 2024-06-27 |  |
 | [Bu Sana Son Bakışım](https://open.spotify.com/track/6rB0I00lYuWOYeW1ljBaoE) | [Samet Kardeşler](https://open.spotify.com/artist/4Jah47VbnOtQGLtmdrDRXp), [Sıla Şahin](https://open.spotify.com/artist/7p71hjdN4GlGgIsmCQIvuC) | [Bu Sana Son Bakışım](https://open.spotify.com/album/3fjxiXNYYTTCScJGVqXsit) | 2:30 | 2024-06-27 | 2024-07-12 |
 | [Bundan Böyle \(From "3391 Kilometre"\)](https://open.spotify.com/track/6TCoqzZa9jZh4SlpCogpQM) | [Zeynep Bastık](https://open.spotify.com/artist/1mpOD8ZwHnbsryIuXWq0R1) | [Bundan Böyle \(From "3391 Kilometre"\)](https://open.spotify.com/album/1Baxuz24nv6BM6Ndnvschw) | 2:43 | 2024-06-27 |  |
@@ -146,6 +146,7 @@
 | [Zombi](https://open.spotify.com/track/4mUgiufbW5HSZ24RK1yDPr) | [Hande Yener](https://open.spotify.com/artist/08mjMUUjyTchMHCW7evc3R) | [Zombi](https://open.spotify.com/album/1ocqjiB9rtooF66uuW5jlZ) | 2:39 | 2024-07-04 | 2024-08-23 |
 | [Zümrüdüankam](https://open.spotify.com/track/3D9jHgjOH6Bt5rI6hgSnjr) | [Merve Özbey](https://open.spotify.com/artist/74IYRdqa9EFKMMXUIjGyxM) | [Zümrüdüankam](https://open.spotify.com/album/7d9iXw48RFQd5UxGS2CIgN) | 3:23 | 2024-08-22 |  |
 | [Çok Özlüyorum](https://open.spotify.com/track/39gABHIgJSl52G0TnTddeU) | [Berksan](https://open.spotify.com/artist/72OZeQyKCAebfnRJAIEpnx) | [Çok Özlüyorum](https://open.spotify.com/album/5ZYMBeTtPpwW1xTgLUKOic) | 2:57 | 2024-07-11 | 2024-07-17 |
+| [Ömrüm](https://open.spotify.com/track/0ergOoWEYjObq6mVvLDXNU) | [Mustafa Ceceli](https://open.spotify.com/artist/3cNwyF5SboOs9icz2XyotE) | [Ömrüm](https://open.spotify.com/album/0YVFUfwpTi8pjznxuyuGyz) | 2:33 | 2024-10-03 |  |
 | [Önümüz Yaz](https://open.spotify.com/track/28Aau4tlztDlgKJQXrWhZR) | [Simge](https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu) | [Önümüz Yaz](https://open.spotify.com/album/1RQR6pJby9qvranN8SuM1v) | 3:01 | 2024-06-27 |  |
 | [Şerbetli](https://open.spotify.com/track/0tUu5krJnjTs3ebdeHP3uL) | [Tarkan](https://open.spotify.com/artist/2yMN0IP20GOaN6q0p0zL5k) | [Kuantum 51](https://open.spotify.com/album/7jra0F6rSOJ36HIsTmwFfC) | 3:14 | 2024-06-27 |  |
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 
 > Fresh country music by independent artists every Wednesday\. Cover: Clayton Mullen, Artwork: Fanélie Muselier
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,694 likes - 179 songs - 9 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,741 likes - 179 songs - 9 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 | 25 | [I'll Remember This](https://open.spotify.com/track/4BizuVuqL6nKx2hV1SppxR) | [Kyle Clark](https://open.spotify.com/artist/7mog8g5ixRhdaeCgIsiYtN) | [I'll Remember This](https://open.spotify.com/album/7i4DK2T1IwpS1YkDigxJQg) | 3:27 |
 | 26 | [Mrs\. Lonely](https://open.spotify.com/track/78SHlkg9GEnHWE23w4n5NU) | [Nathan Wilson](https://open.spotify.com/artist/2omJRLmRQ977IqxewgiDED) | [Mrs\. Lonely](https://open.spotify.com/album/5w9HLzKZejsGaqJoWd5Thd) | 2:58 |
 | 27 | [Man Up](https://open.spotify.com/track/3d4T4eVw2wxAtP2OwuSPk6) | [Greylan James](https://open.spotify.com/artist/0obiwW8UEpyliJ4xhXqrra) | [Man Up](https://open.spotify.com/album/09ZHtNzj0TcPMK17RYqTPu) | 2:59 |
-| 28 | [24/7 All Day, All Night](https://open.spotify.com/track/0UmHR5EzkKgZILJn2vfiWp) | [Madison Olivia](https://open.spotify.com/artist/2lgnSJZ6C0xFNqPRQBtJDM) | [24/7 All Day, All Night](https://open.spotify.com/album/3CBWWcfdMc33WC1fUKJ3IE) | 3:13 |
+| 28 | [24/7](https://open.spotify.com/track/0UmHR5EzkKgZILJn2vfiWp) | [Madison Olivia](https://open.spotify.com/artist/2lgnSJZ6C0xFNqPRQBtJDM) | [24/7](https://open.spotify.com/album/3CBWWcfdMc33WC1fUKJ3IE) | 3:13 |
 | 29 | [Cruise Control](https://open.spotify.com/track/3ZdNbkfAPiYxN53jYQOh4c) | [Jesse Dozzi](https://open.spotify.com/artist/5V6iCwSrD8np7jjVSxZH6f) | [Cruise Control](https://open.spotify.com/album/5xEP796HQV7XpByVpgZC9e) | 3:26 |
 | 30 | [Cowgirl](https://open.spotify.com/track/0Q8s0TYZzVDPMZwsdQNhvh) | [Michael Warren](https://open.spotify.com/artist/4jaMlhvqHdr7aBdujxJ8Dq) | [Cowgirl](https://open.spotify.com/album/0VI5n5lO2XDfwoIJAqCRJ1) | 3:02 |
 | 31 | [More Like Your Memory](https://open.spotify.com/track/5qmm2ZHdXdCQatnmsEup4a) | [Teddy Robb](https://open.spotify.com/artist/64IzKvcuvD2Q06UGawFiuO) | [More Like Your Memory](https://open.spotify.com/album/6jLGb7ClIi1q9dnWIvG8E7) | 3:10 |

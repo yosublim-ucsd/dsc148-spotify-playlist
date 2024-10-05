@@ -1373,6 +1373,28 @@
     },
     {
       "album": {
+        "name": "Dope Boy",
+        "url": "https://open.spotify.com/album/2sOsaBI0pr8uu1RmZDbeMe"
+      },
+      "artists": [
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        },
+        {
+          "name": "Nigo",
+          "url": "https://open.spotify.com/artist/2rAnv6brcXaglLZBB4XXEn"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92133,
+      "name": "Dope Boy (with Nigo)",
+      "url": "https://open.spotify.com/track/2WxUBA3L7k2Af4kTVB6QeI"
+    },
+    {
+      "album": {
         "name": "Eaze Your Mind",
         "url": "https://open.spotify.com/album/1Ts7dHjXutjCbZdb3OXLEd"
       },
@@ -2122,7 +2144,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 128858,
-      "name": "Hollon",
+      "name": "HOLLON",
       "url": "https://open.spotify.com/track/6XVkJ1fM7NkjODPYI7QbAM"
     },
     {
@@ -2830,6 +2852,40 @@
       "duration_ms": 236883,
       "name": "Lyfestyl\u00eb (with Lil Wayne)",
       "url": "https://open.spotify.com/track/51xpNYObJdiEnbvpjoAE8E"
+    },
+    {
+      "album": {
+        "name": "Maintenance Man",
+        "url": "https://open.spotify.com/album/60TaG6Q0X1PxlSPTo1vO85"
+      },
+      "artists": [
+        {
+          "name": "41",
+          "url": "https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8"
+        },
+        {
+          "name": "Kyle Richh",
+          "url": "https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU"
+        },
+        {
+          "name": "Jenn Carter",
+          "url": "https://open.spotify.com/artist/3BcgTyEdL81zMljmXcilZM"
+        },
+        {
+          "name": "Nemzzz",
+          "url": "https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7"
+        },
+        {
+          "name": "Dee Billz",
+          "url": "https://open.spotify.com/artist/2fBU7rOViK7ywwHCIYEa7h"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161290,
+      "name": "Maintenance Man (feat. Nemzzz, Dee Billz)",
+      "url": "https://open.spotify.com/track/7Bi3CoMUn2T8orxoPcU71f"
     },
     {
       "album": {
@@ -4722,6 +4778,24 @@
       "duration_ms": 181910,
       "name": "Together Forever (Big Sean & The Alchemist)",
       "url": "https://open.spotify.com/track/38W7Dc1FqHiYgqWpoxrBd1"
+    },
+    {
+      "album": {
+        "name": "MIXTAPE PLUTO",
+        "url": "https://open.spotify.com/album/4Zoxsc06EUHRf5GrJPJZ54"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205730,
+      "name": "TOO FAST",
+      "url": "https://open.spotify.com/track/0DhCbTQZfWD8P8pOlg3jv9"
     },
     {
       "album": {

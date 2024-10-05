@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTwbZHrJRIgD.md) - [plain]
 
 > Bright, sunny, catchy tunes put a smile on your face\. Cover \- Baar Baar Dekho
 
-[Spotify](https://open.spotify.com/user/spotify) - 347,379 likes - 63 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 347,651 likes - 63 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTwbZHrJRIgD.md) - [plain]
 | 12 | [Aankhon Mein Doob Jaane Ko](https://open.spotify.com/track/1ouPVtxlolKZGedxSTrgD5) | [THE 9TEEN](https://open.spotify.com/artist/4vLv0CXSxGB1PJijrfokwB), [Sandesh Shandilya](https://open.spotify.com/artist/6AwwLwgIsTIXZ8kHWaZUj5) | [Aankhon Mein Doob Jaane Ko](https://open.spotify.com/album/4KS5SO1IEyFxR0ThvDuEL9) | 2:05 |
 | 13 | [Chitta Suit](https://open.spotify.com/track/2nBcIVhZbRPBUnhV5JUNC4) | [Uchana Amit](https://open.spotify.com/artist/5bUGkhve6dkRRnwUH12IHW), [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v), [Dilwala](https://open.spotify.com/artist/0OOLsvPq7vqGvLoQQJuvjC) | [Chitta Suit](https://open.spotify.com/album/1WJ32Jw3ay7rck2hL8Jnsu) | 2:30 |
 | 14 | [Vekh Sohneyaa \- From "Call Me Bae"](https://open.spotify.com/track/2RelZc0EwHPsVwrW6B6taZ) | [Bombay the Artist](https://open.spotify.com/artist/2Qa5HYyDrPrArARMDJfDbJ), [Charan](https://open.spotify.com/artist/3hbwOFtgWSNfeRzF2o7Y65) | [Vekh Sohneyaa \(From "Call Me Bae"\)](https://open.spotify.com/album/23eaFv7tdDjiPmdv5nQKj1) | 3:36 |
-| 15 | [Diamond Ni](https://open.spotify.com/track/65KnUdLcbq2D8Ko9NtEGpW) | [Jigar Saraiya](https://open.spotify.com/artist/48RCl7AbbfhC60EN8a80Op), [Aditya Gadhvi](https://open.spotify.com/artist/68BDWvc511MC0b6eAmH7gW), [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO) | [Diamond Ni](https://open.spotify.com/album/6wKaSU621x7uBILAM1s52O) | 3:12 |
-| 16 | [Uljhan](https://open.spotify.com/track/13nrujwIxpJl1xtoDpvxyY) | [Parth Srivastava](https://open.spotify.com/artist/5xioqWZGO4JrB9daKgcreI), [Sireesha Bhagavatula](https://open.spotify.com/artist/3ZiBHBeZ3OAKJEkDWzQFHS) | [Uljhan](https://open.spotify.com/album/1c8hEngE771KKKSEQKisN3) | 2:14 |
+| 15 | [Zara Muskurade](https://open.spotify.com/track/2RFPoDKiEp3AprMkX2MsLk) | [Monali Thakur](https://open.spotify.com/artist/2o4R2rK7FetH40HTv0SUWl) | [Zara Muskurade](https://open.spotify.com/album/6FRGIXNRP6KeSMhLxMsXbp) | 1:50 |
+| 16 | [Diamond Ni](https://open.spotify.com/track/65KnUdLcbq2D8Ko9NtEGpW) | [Jigar Saraiya](https://open.spotify.com/artist/48RCl7AbbfhC60EN8a80Op), [Aditya Gadhvi](https://open.spotify.com/artist/68BDWvc511MC0b6eAmH7gW), [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO) | [Diamond Ni](https://open.spotify.com/album/6wKaSU621x7uBILAM1s52O) | 3:12 |
 | 17 | [Assi Sajna](https://open.spotify.com/track/3xIyi0QRmcz0cBDbVPTNGd) | [Jasleen Royal](https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c), [Intense](https://open.spotify.com/artist/0OS0NZnK7TGIAWx8MkWNFN), [Aditya Sharma](https://open.spotify.com/artist/70RAfkLNWG5J2bsnJqBpLQ) | [Assi Sajna](https://open.spotify.com/album/1nXJCJwv0ORoiGUvG1ZA0U) | 3:03 |
 | 18 | [Angaaron \(From "Pushpa 2 The Rule"\) \[HINDI\]](https://open.spotify.com/track/2ZDOzySC2g3YF1p26TPzBt) | [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU), [Raqueeb Alam](https://open.spotify.com/artist/5DJ9Jdt2tfopA7eKuHCO4h) | [Angaaron \(From "Pushpa 2 The Rule"\) \[HINDI\]](https://open.spotify.com/album/7i3rOAK3iPA96QAekZeOrh) | 4:20 |
 | 19 | [Ishq Di Baajiyaan](https://open.spotify.com/track/6gHVMInOPMsA4ujf0nWHSt) | [Shankar\-Ehsaan\-Loy](https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ), [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Soorma \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/76PIQnieybHVXDpW7Cc64l) | 4:47 |
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTwbZHrJRIgD.md) - [plain]
 | 62 | [Raat Bhar](https://open.spotify.com/track/3ctaMit7CuiHIPVYrRvm15) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Heropanti](https://open.spotify.com/album/3OozDMNwTvyCP4bOhsSou0) | 5:25 |
 | 63 | [Offo](https://open.spotify.com/track/3f26GAn3yOXfoclLyN8AdD) | [Aditi Singh Sharma](https://open.spotify.com/artist/4iW4xSfMEIvrXM0Iu3aFDY), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [2 States](https://open.spotify.com/album/4PmYasI57t8uJJAOt0zKud) | 3:33 |
 
-Snapshot ID: `ZvvhQAAAAAD3PTDSTgpIzyeo841SjQRb`
+Snapshot ID: `Zv+e4QAAAACc11VPkhHwjSPgj3VNuS8L`

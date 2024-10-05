@@ -1,6 +1,6 @@
 {
   "description": "De Argentina para el mundo, los m\u00e1s destacados int\u00e9rpretes y compositores. Foto: Escalandrum",
-  "num_followers": 32368,
+  "num_followers": 32372,
   "original_name": "Jazz Argentino",
   "owner": {
     "name": "Spotify",
@@ -635,6 +635,22 @@
     {
       "added_at": "2023-12-08 00:22:41",
       "album": {
+        "name": "Essence of Wes Montgomery (Live in Thelonious Club, Buenos Aires, Argentina)",
+        "url": "https://open.spotify.com/album/2Dmf8Z3soN83btDViX5IQH"
+      },
+      "artists": [
+        {
+          "name": "Valentino Jazz Bazar",
+          "url": "https://open.spotify.com/artist/4k7yksiXsWK7nHHn3H95fm"
+        }
+      ],
+      "duration_ms": 286109,
+      "name": "Full House - Live",
+      "url": "https://open.spotify.com/track/3Bl33BzVPmnsJhJpfS3cZc"
+    },
+    {
+      "added_at": "2023-12-08 00:22:41",
+      "album": {
         "name": "80 A\u00f1os - Jazztar\u00edaenbaterita",
         "url": "https://open.spotify.com/album/4VeDizEy0EEcVNoWVV9MRo"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 413595,
       "name": "Equinox",
       "url": "https://open.spotify.com/track/0dZPiN3FTuvYDJtFyFUdqQ"
-    },
-    {
-      "added_at": "2023-12-08 00:22:41",
-      "album": {
-        "name": "Essence of Wes Montgomery (Live in Thelonious Club, Buenos Aires, Argentina)",
-        "url": "https://open.spotify.com/album/2Dmf8Z3soN83btDViX5IQH"
-      },
-      "artists": [
-        {
-          "name": "Valentino Jazz Bazar",
-          "url": "https://open.spotify.com/artist/4k7yksiXsWK7nHHn3H95fm"
-        }
-      ],
-      "duration_ms": 286109,
-      "name": "Full House - Live",
-      "url": "https://open.spotify.com/track/3Bl33BzVPmnsJhJpfS3cZc"
     },
     {
       "added_at": "2023-12-08 00:22:41",
@@ -1379,26 +1379,38 @@
     {
       "added_at": "2023-12-08 00:22:41",
       "album": {
-        "name": "All the Things You Are",
-        "url": "https://open.spotify.com/album/5Qaoy1qYVfnpwlLJHQ5tJB"
+        "name": "Afropuertas",
+        "url": "https://open.spotify.com/album/5tb3c9O1yhD6wMzacCPwDp"
       },
       "artists": [
         {
-          "name": "Ruben Lopez Furst",
-          "url": "https://open.spotify.com/artist/2U16v6XmFw7LIeoXwfTIsX"
+          "name": "Arturo Puertas",
+          "url": "https://open.spotify.com/artist/68VGzNdHAbP0eDDdmyvNCZ"
         },
         {
-          "name": "Javier Malosetti",
-          "url": "https://open.spotify.com/artist/0k0zJds09TLWzvBW9NoPqV"
+          "name": "Carlos Michelini",
+          "url": "https://open.spotify.com/artist/6Tbr0u2xVmOLKADh9PO0Nm"
         },
         {
-          "name": "Luis Ceravolo",
-          "url": "https://open.spotify.com/artist/11NMVUYGwcgCJQ9H0mRb2E"
+          "name": "Cirilo Fernandez",
+          "url": "https://open.spotify.com/artist/4Xr6dK5pdkdLA1KyLFaTrG"
+        },
+        {
+          "name": "Marcelo Mayor",
+          "url": "https://open.spotify.com/artist/7I1eGOWhHuhI3xfwXWsFBV"
+        },
+        {
+          "name": "Ezequiel \"Chino\" Piazza",
+          "url": "https://open.spotify.com/artist/6WCG05WxHQv0BzAuNgULo6"
+        },
+        {
+          "name": "Beto Merino",
+          "url": "https://open.spotify.com/artist/6yNrmekUamVKW9wdewueXT"
         }
       ],
-      "duration_ms": 408293,
-      "name": "I Should Care",
-      "url": "https://open.spotify.com/track/7DwkKNQ3dAruurDpRyCHiH"
+      "duration_ms": 362066,
+      "name": "Do\u00f1a Cha Cha",
+      "url": "https://open.spotify.com/track/6Mee3B457bmUf93LIbhsNZ"
     }
   ],
   "unique_name": "Jazz Argentino",

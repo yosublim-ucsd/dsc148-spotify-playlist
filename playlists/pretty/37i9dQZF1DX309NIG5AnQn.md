@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX309NIG5AnQn.md) - [plain]
 
 > rock alternativo argentino\. <br/>📷 Mora y los Metegoles
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,592 likes - 100 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,591 likes - 100 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX309NIG5AnQn.md) - [plain]
 | 8 | [Mundo actual](https://open.spotify.com/track/5hiK6Jj3cbhAKbChvmBfr1) | [Sangre de Barro](https://open.spotify.com/artist/1nVPGomlqTNvWO6IrBE8uw) | [Sangre de Barro](https://open.spotify.com/album/5BfsTwWQa5S0FoJ2GiVtQs) | 2:03 |
 | 9 | [Piedra del Águila](https://open.spotify.com/track/4MvI1v4gJiMXzkF2x8O7S1) | [Las Ligas Menores](https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf) | [Piedra del Águila](https://open.spotify.com/album/2njRQrcNYEI4hDVzD4qmuZ) | 3:14 |
 | 10 | [No Los Pueden Separar](https://open.spotify.com/track/7oJgGoOiDOYcwvGkQswzbO) | [RYAN](https://open.spotify.com/artist/3g7K56xAln97Nmy0G1hx8E) | [No Los Pueden Separar](https://open.spotify.com/album/3UQL0qaEoWlzrDcK1W7Z6j) | 2:22 |
-| 11 | [GENERA\-VIT](https://open.spotify.com/track/2ogBuIpn7gakuffUdj31hd) | [Melanie Williams](https://open.spotify.com/artist/3jmMMoxWDbP6gIpslNl2MP) | [TReSMO](https://open.spotify.com/album/2EoKazFQaT7LSvR55Nsr2s) | 1:51 |
+| 11 | [GENERA\-VIT](https://open.spotify.com/track/2ogBuIpn7gakuffUdj31hd) | [Melanie Williams](https://open.spotify.com/artist/6O4UKE8rYpWbEBg2LxIS31) | [TReSMO](https://open.spotify.com/album/2EoKazFQaT7LSvR55Nsr2s) | 1:51 |
 | 12 | [En los Parques](https://open.spotify.com/track/3IRj8U0Lt8bPdlW6GXBK5q) | [Mizuki Amapola](https://open.spotify.com/artist/1i1q599ea4CdgaVtomARti), [La Lauri Fire](https://open.spotify.com/artist/7Ku8lMIIWZ2fGXSVdzbM84) | [Calendario](https://open.spotify.com/album/25yfGAtfakJoBCIKE0K7AZ) | 2:12 |
 | 13 | [Hice Todo Mal](https://open.spotify.com/track/75vOAe2y7zhW6XCLU60FaW) | [Las Ligas Menores](https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf) | [Hice Todo Mal](https://open.spotify.com/album/3WkSvs5LcrBVpcCdDowpcb) | 3:14 |
 | 14 | [Lo nuevo y lo inútil](https://open.spotify.com/track/6OkthLKgU7KtbUuX674HO0) | [Club de Haters](https://open.spotify.com/artist/5ViQWU29kpydoCB1UPAvRC) | [Lo nuevo y lo inútil](https://open.spotify.com/album/1gNnS20kz9qcQJ5ghIsNQK) | 3:02 |
@@ -87,7 +87,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX309NIG5AnQn.md) - [plain]
 | 77 | [Promesa](https://open.spotify.com/track/2wzCZ1ol8EPdtSDZ0Zoa48) | [Maria Durante](https://open.spotify.com/artist/6B4Tjeum0gQN48UJWgtnRx) | [Promesa](https://open.spotify.com/album/3lDnDC0ArBlmTpSzJHPNDO) | 3:28 |
 | 78 | [El Primer Color](https://open.spotify.com/track/6qkSVGEDjdBmhQccU7CWaD) | [Fútbol](https://open.spotify.com/artist/3F4LyTOlwym0YQmYBlbAAf), [Shaman Herrera](https://open.spotify.com/artist/6v6Zd9sNdAHCHBrrIs58So) | [El Primer Color](https://open.spotify.com/album/4dp1QJTGojYEDSmdtzAG1M) | 5:25 |
 | 79 | [Promesas](https://open.spotify.com/track/3asMi5LP1FVnb8D2hs0b8D) | [Atrás Hay Truenos](https://open.spotify.com/artist/6KDozt8X774pjyp1oVMsmz) | [Promesas](https://open.spotify.com/album/5DmptR4gEoK8MeXCSv9OUB) | 4:31 |
-| 80 | [NT al sol](https://open.spotify.com/track/7maIZJiVUL5HBOzjFqOwp0) | [Melanie Williams](https://open.spotify.com/artist/3jmMMoxWDbP6gIpslNl2MP), [Paul Higgs](https://open.spotify.com/artist/0IomtauMPN6jngzrLsCb5V), [El Mundo Limon](https://open.spotify.com/artist/6ewUKYDx23YcomTOQdDvTB) | [NT al sol](https://open.spotify.com/album/1iI0hU3oBxRKRGs6lprkse) | 3:22 |
+| 80 | [NT al sol](https://open.spotify.com/track/7maIZJiVUL5HBOzjFqOwp0) | [Melanie Williams](https://open.spotify.com/artist/6O4UKE8rYpWbEBg2LxIS31), [Paul Higgs](https://open.spotify.com/artist/0IomtauMPN6jngzrLsCb5V), [El Mundo Limon](https://open.spotify.com/artist/6ewUKYDx23YcomTOQdDvTB) | [NT al sol](https://open.spotify.com/album/1iI0hU3oBxRKRGs6lprkse) | 3:22 |
 | 81 | [Tráfico](https://open.spotify.com/track/0l2HLImZnyZqDydcgD6pDf) | [Kill Flora](https://open.spotify.com/artist/618OuvXwIUhB0xE7XnCiwe) | [Entrada Triunfal](https://open.spotify.com/album/4wP2yhVbsjzTNqn0g1YpT4) | 3:44 |
 | 82 | [Bitcha](https://open.spotify.com/track/66eI95IhQNQqaWEl8y8ExE) | [Julián Desbats](https://open.spotify.com/artist/6qzRpe1gOXSbcd7NsblkdP) | [Bitcha](https://open.spotify.com/album/1DbD5SRuAb3Hhtwy9WeGpK) | 3:34 |
 | 83 | [febrero](https://open.spotify.com/track/48htFaGFraVtzHSv3YeB4O) | [montegrande](https://open.spotify.com/artist/662HirrjZdhmvAZseAOOZT) | [aeropuerto](https://open.spotify.com/album/3ugKv9ex4bNGJAEsBs8Igu) | 3:33 |

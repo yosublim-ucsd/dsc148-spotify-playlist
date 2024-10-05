@@ -1,12 +1,12 @@
 {
-  "description": "This Is Korn. Los temas esenciales, todos en una lista.",
-  "num_followers": 499567,
+  "description": "This is Korn. The essential tracks, all in one playlist.",
+  "num_followers": 499739,
   "original_name": "This Is Korn",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvyNAAAAAAA0OOMB6OwXB45eoci91itD",
+  "snapshot_id": "Zv3egAAAAAAUJsRTpkNnXTjuj93ARlUC",
   "tracks": [
     {
       "added_at": null,
@@ -468,9 +468,9 @@
           "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
         }
       ],
-      "duration_ms": 230053,
-      "name": "Insane",
-      "url": "https://open.spotify.com/track/3bVwfHr4vuJv6DGZal2Dpq"
+      "duration_ms": 213000,
+      "name": "Rotting In Vain",
+      "url": "https://open.spotify.com/track/5PCKCffFrcyUvnhxJoPlK2"
     },
     {
       "added_at": null,
@@ -536,9 +536,9 @@
           "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
         }
       ],
-      "duration_ms": 213000,
-      "name": "Rotting In Vain",
-      "url": "https://open.spotify.com/track/5PCKCffFrcyUvnhxJoPlK2"
+      "duration_ms": 230053,
+      "name": "Insane",
+      "url": "https://open.spotify.com/track/3bVwfHr4vuJv6DGZal2Dpq"
     },
     {
       "added_at": null,

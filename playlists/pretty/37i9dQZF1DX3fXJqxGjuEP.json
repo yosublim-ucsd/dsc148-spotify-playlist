@@ -1,48 +1,44 @@
 {
   "description": "Give your day a warm and fruity vibe with Latin music! \ud83c\udf1e\ud83c\udf34\ud83c\udf4d\ud83c\udf49",
-  "num_followers": 678419,
+  "num_followers": 678436,
   "original_name": "Tropical Vibe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtvPpAAAAABU/qxIyRwYgQDWzLsdeU/Y",
+  "snapshot_id": "ZwA6TgAAAABqeWGRtyKI4aHEHuKwTG8I",
   "tracks": [
     {
-      "added_at": "2021-10-20 20:06:54",
+      "added_at": "2024-10-04 18:56:13",
       "album": {
-        "name": "H\u00e1blate de M\u00ed",
-        "url": "https://open.spotify.com/album/5DtrZ74RgqpVVqLWncmqyZ"
-      },
-      "artists": [
-        {
-          "name": "J\u00f3sean Log",
-          "url": "https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF"
-        }
-      ],
-      "duration_ms": 215986,
-      "name": "Chachach\u00e1",
-      "url": "https://open.spotify.com/track/6aommJFM8i3iT4inKuDSXh"
-    },
-    {
-      "added_at": "2024-09-01 15:04:31",
-      "album": {
-        "name": "Tu Te Vas",
-        "url": "https://open.spotify.com/album/7BwVZ8WkcgLjkBXlk8T9Qu"
+        "name": "Viva Tu",
+        "url": "https://open.spotify.com/album/0de0VSMdg29Rwoe9MG4ck2"
       },
       "artists": [
         {
           "name": "Manu Chao",
           "url": "https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM"
-        },
-        {
-          "name": "Laeti",
-          "url": "https://open.spotify.com/artist/6TMBV8J3Jq1Gr5A5bFmVqf"
         }
       ],
-      "duration_ms": 205839,
-      "name": "Tu Te Vas",
-      "url": "https://open.spotify.com/track/6GiJACBbYHIOeghfZmbLuI"
+      "duration_ms": 157522,
+      "name": "Vecinos En El Mar",
+      "url": "https://open.spotify.com/track/195eYP40HulXbt0kNt3Cnz"
+    },
+    {
+      "added_at": "2024-10-04 18:56:13",
+      "album": {
+        "name": "Tofu",
+        "url": "https://open.spotify.com/album/5tquufgGqNZBek4qn3Zngj"
+      },
+      "artists": [
+        {
+          "name": "Caloncho",
+          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
+        }
+      ],
+      "duration_ms": 168320,
+      "name": "Superdeli",
+      "url": "https://open.spotify.com/track/5CHl7HjScJCEWIUymcg8iS"
     },
     {
       "added_at": "2024-09-02 19:33:47",
@@ -67,18 +63,18 @@
     {
       "added_at": "2021-10-20 20:06:54",
       "album": {
-        "name": "Piel Canela",
-        "url": "https://open.spotify.com/album/2sNKWMhg0kOHdPDlvl0w6t"
+        "name": "H\u00e1blate de M\u00ed",
+        "url": "https://open.spotify.com/album/5DtrZ74RgqpVVqLWncmqyZ"
       },
       "artists": [
         {
-          "name": "Cuco",
-          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+          "name": "J\u00f3sean Log",
+          "url": "https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF"
         }
       ],
-      "duration_ms": 102371,
-      "name": "Piel Canela",
-      "url": "https://open.spotify.com/track/7qBT9qcbtkLqrfm9LiTNB4"
+      "duration_ms": 215986,
+      "name": "Chachach\u00e1",
+      "url": "https://open.spotify.com/track/6aommJFM8i3iT4inKuDSXh"
     },
     {
       "added_at": "2024-09-07 03:59:32",
@@ -95,6 +91,22 @@
       "duration_ms": 217591,
       "name": "todo el d\u00eda - sonic ranch version",
       "url": "https://open.spotify.com/track/5qpurGWSxraAEIb0FkQmve"
+    },
+    {
+      "added_at": "2021-10-20 20:06:54",
+      "album": {
+        "name": "Piel Canela",
+        "url": "https://open.spotify.com/album/2sNKWMhg0kOHdPDlvl0w6t"
+      },
+      "artists": [
+        {
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+        }
+      ],
+      "duration_ms": 102371,
+      "name": "Piel Canela",
+      "url": "https://open.spotify.com/track/7qBT9qcbtkLqrfm9LiTNB4"
     },
     {
       "added_at": "2023-09-25 01:19:19",
@@ -153,6 +165,22 @@
       "url": "https://open.spotify.com/track/5IL8eu4W9JD38Jtr5YcPAL"
     },
     {
+      "added_at": "2024-08-22 01:37:17",
+      "album": {
+        "name": "Nova",
+        "url": "https://open.spotify.com/album/5hCxkCTUg1CSBjcwJYTtnN"
+      },
+      "artists": [
+        {
+          "name": "Leanys",
+          "url": "https://open.spotify.com/artist/0e1Zih19iuVEnhZPOuqL9V"
+        }
+      ],
+      "duration_ms": 98210,
+      "name": "Me Fui",
+      "url": "https://open.spotify.com/track/4PQwFIg4CgTMuYraERrJsC"
+    },
+    {
       "added_at": "2021-10-20 20:06:54",
       "album": {
         "name": "Mis Manos",
@@ -169,20 +197,24 @@
       "url": "https://open.spotify.com/track/42lpuSQmnLUM1ZXJVzIVOi"
     },
     {
-      "added_at": "2024-08-22 01:37:17",
+      "added_at": "2024-09-01 15:04:31",
       "album": {
-        "name": "Nova",
-        "url": "https://open.spotify.com/album/5hCxkCTUg1CSBjcwJYTtnN"
+        "name": "Tu Te Vas",
+        "url": "https://open.spotify.com/album/7BwVZ8WkcgLjkBXlk8T9Qu"
       },
       "artists": [
         {
-          "name": "Leanys",
-          "url": "https://open.spotify.com/artist/0e1Zih19iuVEnhZPOuqL9V"
+          "name": "Manu Chao",
+          "url": "https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM"
+        },
+        {
+          "name": "Laeti",
+          "url": "https://open.spotify.com/artist/6TMBV8J3Jq1Gr5A5bFmVqf"
         }
       ],
-      "duration_ms": 98210,
-      "name": "Me Fui",
-      "url": "https://open.spotify.com/track/4PQwFIg4CgTMuYraERrJsC"
+      "duration_ms": 205839,
+      "name": "Tu Te Vas",
+      "url": "https://open.spotify.com/track/6GiJACBbYHIOeghfZmbLuI"
     },
     {
       "added_at": "2022-09-16 04:48:46",
@@ -221,6 +253,26 @@
       "url": "https://open.spotify.com/track/6lEr0uF4mJJAODSXfQ6WvR"
     },
     {
+      "added_at": "2024-08-23 00:42:27",
+      "album": {
+        "name": "Bailando Bonito",
+        "url": "https://open.spotify.com/album/7rxzzbpTZ8xAJPnLFN88EW"
+      },
+      "artists": [
+        {
+          "name": "Tufic",
+          "url": "https://open.spotify.com/artist/5vtHlotcrr5pZQUgdnozWV"
+        },
+        {
+          "name": "Cosmic Wacho",
+          "url": "https://open.spotify.com/artist/6qVCBovVysB8MOf7a1mUKa"
+        }
+      ],
+      "duration_ms": 243983,
+      "name": "Bailando Bonito",
+      "url": "https://open.spotify.com/track/2C47Ri3AXxD67NH8VLnprW"
+    },
+    {
       "added_at": "2021-10-20 20:06:54",
       "album": {
         "name": "El Arte de Saltar",
@@ -255,26 +307,6 @@
       "duration_ms": 180949,
       "name": "Bayam\u00f3n",
       "url": "https://open.spotify.com/track/2WVAI8qLBdZlJUhdpNcXCQ"
-    },
-    {
-      "added_at": "2024-08-23 00:42:27",
-      "album": {
-        "name": "Bailando Bonito",
-        "url": "https://open.spotify.com/album/7rxzzbpTZ8xAJPnLFN88EW"
-      },
-      "artists": [
-        {
-          "name": "Tufic",
-          "url": "https://open.spotify.com/artist/5vtHlotcrr5pZQUgdnozWV"
-        },
-        {
-          "name": "Cosmic Wacho",
-          "url": "https://open.spotify.com/artist/6qVCBovVysB8MOf7a1mUKa"
-        }
-      ],
-      "duration_ms": 243983,
-      "name": "Bailando Bonito",
-      "url": "https://open.spotify.com/track/2C47Ri3AXxD67NH8VLnprW"
     },
     {
       "added_at": "2023-04-12 01:16:22",
@@ -389,30 +421,6 @@
       "url": "https://open.spotify.com/track/3uz2tyLRgSzSlhOIXCz0DB"
     },
     {
-      "added_at": "2021-10-20 20:06:54",
-      "album": {
-        "name": "Cuando Los Ac\u00e9falos Predominan",
-        "url": "https://open.spotify.com/album/2iTJbyuvWzN0GCRRYFOqxW"
-      },
-      "artists": [
-        {
-          "name": "Rawayana",
-          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
-        },
-        {
-          "name": "Los Amigos Invisibles",
-          "url": "https://open.spotify.com/artist/5x3mrCTZmkoTXURN7pWdGN"
-        },
-        {
-          "name": "Cheo",
-          "url": "https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG"
-        }
-      ],
-      "duration_ms": 299416,
-      "name": "V\u00e1yanse Todos A Mam\u00e1",
-      "url": "https://open.spotify.com/track/5BeMNrGr9Wk3mDmf0DbQaA"
-    },
-    {
       "added_at": "2022-02-11 00:26:34",
       "album": {
         "name": "Chan Chan",
@@ -427,22 +435,6 @@
       "duration_ms": 260320,
       "name": "Chan Chan",
       "url": "https://open.spotify.com/track/7wQ3PHT0oNWwjPuTZ2z7cS"
-    },
-    {
-      "added_at": "2024-03-21 20:23:59",
-      "album": {
-        "name": "Tofu",
-        "url": "https://open.spotify.com/album/7kLvURv846Zx0ehgCXyyVt"
-      },
-      "artists": [
-        {
-          "name": "Caloncho",
-          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
-        }
-      ],
-      "duration_ms": 167186,
-      "name": "Vitamina D",
-      "url": "https://open.spotify.com/track/2XZO0xoygaWnFfpILzaH5X"
     },
     {
       "added_at": "2021-10-20 20:06:54",
@@ -467,6 +459,46 @@
       "duration_ms": 247733,
       "name": "Se Fue - Con Ximena Sari\u00f1ana y Elsa y Elmar",
       "url": "https://open.spotify.com/track/6C2nsLf4lmP890KLXbn3UC"
+    },
+    {
+      "added_at": "2024-03-21 20:23:59",
+      "album": {
+        "name": "Tofu",
+        "url": "https://open.spotify.com/album/7kLvURv846Zx0ehgCXyyVt"
+      },
+      "artists": [
+        {
+          "name": "Caloncho",
+          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
+        }
+      ],
+      "duration_ms": 167186,
+      "name": "Vitamina D",
+      "url": "https://open.spotify.com/track/2XZO0xoygaWnFfpILzaH5X"
+    },
+    {
+      "added_at": "2021-10-20 20:06:54",
+      "album": {
+        "name": "Cuando Los Ac\u00e9falos Predominan",
+        "url": "https://open.spotify.com/album/2iTJbyuvWzN0GCRRYFOqxW"
+      },
+      "artists": [
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        },
+        {
+          "name": "Los Amigos Invisibles",
+          "url": "https://open.spotify.com/artist/5x3mrCTZmkoTXURN7pWdGN"
+        },
+        {
+          "name": "Cheo",
+          "url": "https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG"
+        }
+      ],
+      "duration_ms": 299416,
+      "name": "V\u00e1yanse Todos A Mam\u00e1",
+      "url": "https://open.spotify.com/track/5BeMNrGr9Wk3mDmf0DbQaA"
     },
     {
       "added_at": "2021-10-20 20:06:54",
@@ -709,6 +741,38 @@
       "url": "https://open.spotify.com/track/258tAJYRrYUtcEgfHXNRAt"
     },
     {
+      "added_at": "2024-04-05 15:58:56",
+      "album": {
+        "name": "Malegr\u00eda",
+        "url": "https://open.spotify.com/album/0rN5KNEYHtYSuM7X9VuaV4"
+      },
+      "artists": [
+        {
+          "name": "Reyna Tropical",
+          "url": "https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL"
+        }
+      ],
+      "duration_ms": 212052,
+      "name": "Cartagena",
+      "url": "https://open.spotify.com/track/0d9Ec1WjsdAqs2LmB3nk3o"
+    },
+    {
+      "added_at": "2021-10-20 20:06:54",
+      "album": {
+        "name": "chiquita suelta",
+        "url": "https://open.spotify.com/album/5Hc9NaLoW5cXLRwxqxgxxL"
+      },
+      "artists": [
+        {
+          "name": "GIULIA BE",
+          "url": "https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6"
+        }
+      ],
+      "duration_ms": 160718,
+      "name": "chiquita suelta",
+      "url": "https://open.spotify.com/track/2tu1kkUvtloityaRwbSNZQ"
+    },
+    {
       "added_at": "2021-10-20 20:06:54",
       "album": {
         "name": "Aloha",
@@ -729,54 +793,6 @@
       "url": "https://open.spotify.com/track/0GARcbxLIOmzrs0lHpuvmi"
     },
     {
-      "added_at": "2024-04-05 15:58:56",
-      "album": {
-        "name": "Malegr\u00eda",
-        "url": "https://open.spotify.com/album/0rN5KNEYHtYSuM7X9VuaV4"
-      },
-      "artists": [
-        {
-          "name": "Reyna Tropical",
-          "url": "https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL"
-        }
-      ],
-      "duration_ms": 212052,
-      "name": "Cartagena",
-      "url": "https://open.spotify.com/track/0d9Ec1WjsdAqs2LmB3nk3o"
-    },
-    {
-      "added_at": "2021-10-20 20:06:54",
-      "album": {
-        "name": "\u00daltimos D\u00edas",
-        "url": "https://open.spotify.com/album/0djIGaaGS2IqwXOPO8bGj3"
-      },
-      "artists": [
-        {
-          "name": "Rawayana",
-          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
-        }
-      ],
-      "duration_ms": 319933,
-      "name": "\u00daltimos D\u00edas",
-      "url": "https://open.spotify.com/track/4XHpwVBeG6b5blmdsBRPrk"
-    },
-    {
-      "added_at": "2021-10-20 20:06:54",
-      "album": {
-        "name": "chiquita suelta",
-        "url": "https://open.spotify.com/album/5Hc9NaLoW5cXLRwxqxgxxL"
-      },
-      "artists": [
-        {
-          "name": "GIULIA BE",
-          "url": "https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6"
-        }
-      ],
-      "duration_ms": 160718,
-      "name": "chiquita suelta",
-      "url": "https://open.spotify.com/track/2tu1kkUvtloityaRwbSNZQ"
-    },
-    {
       "added_at": "2022-04-17 18:31:09",
       "album": {
         "name": "TANDEM",
@@ -795,6 +811,30 @@
       "duration_ms": 170158,
       "name": "SALTA",
       "url": "https://open.spotify.com/track/3Jc8DUdZ1iX5FbYaKzKVh1"
+    },
+    {
+      "added_at": "2023-04-07 06:00:00",
+      "album": {
+        "name": "Clandestino",
+        "url": "https://open.spotify.com/album/6w0NI3nCd8tlgsrtF4Vd5u"
+      },
+      "artists": [
+        {
+          "name": "YoSoyMatt",
+          "url": "https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV"
+        },
+        {
+          "name": "French Braids",
+          "url": "https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1"
+        },
+        {
+          "name": "Eva de Marce",
+          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
+        }
+      ],
+      "duration_ms": 181818,
+      "name": "Clandestino",
+      "url": "https://open.spotify.com/track/4UlW3vi9SxRbvG8hyrJ3ju"
     },
     {
       "added_at": "2021-10-20 20:06:54",
@@ -837,28 +877,20 @@
       "url": "https://open.spotify.com/track/2KhOJ9fPnHE6HJd7R6jF2L"
     },
     {
-      "added_at": "2023-04-07 06:00:00",
+      "added_at": "2021-10-20 20:06:54",
       "album": {
-        "name": "Clandestino",
-        "url": "https://open.spotify.com/album/6w0NI3nCd8tlgsrtF4Vd5u"
+        "name": "\u00daltimos D\u00edas",
+        "url": "https://open.spotify.com/album/0djIGaaGS2IqwXOPO8bGj3"
       },
       "artists": [
         {
-          "name": "YoSoyMatt",
-          "url": "https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV"
-        },
-        {
-          "name": "French Braids",
-          "url": "https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1"
-        },
-        {
-          "name": "Eva de Marce",
-          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
         }
       ],
-      "duration_ms": 181818,
-      "name": "Clandestino",
-      "url": "https://open.spotify.com/track/4UlW3vi9SxRbvG8hyrJ3ju"
+      "duration_ms": 319933,
+      "name": "\u00daltimos D\u00edas",
+      "url": "https://open.spotify.com/track/4XHpwVBeG6b5blmdsBRPrk"
     },
     {
       "added_at": "2021-10-20 20:06:54",
@@ -1085,30 +1117,6 @@
       "url": "https://open.spotify.com/track/538h4bDYuZYT99IMlbMsdp"
     },
     {
-      "added_at": "2024-04-23 00:22:32",
-      "album": {
-        "name": "Algo Est\u00e1 Cambiando - Earth Remix (feat. NATURE)",
-        "url": "https://open.spotify.com/album/4RunvFZUr0PFdzg3VWINMD"
-      },
-      "artists": [
-        {
-          "name": "Bomba Est\u00e9reo",
-          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
-        },
-        {
-          "name": "Monte",
-          "url": "https://open.spotify.com/artist/1fcnE99XRNfHPyu27ysuNG"
-        },
-        {
-          "name": "NATURE",
-          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
-        }
-      ],
-      "duration_ms": 292544,
-      "name": "Algo Est\u00e1 Cambiando - Earth Remix (feat. NATURE)",
-      "url": "https://open.spotify.com/track/6onn77nAEdFVIbI0gIlXjH"
-    },
-    {
       "added_at": "2021-10-20 20:06:54",
       "album": {
         "name": "Shulaguapa",
@@ -1131,6 +1139,30 @@
       "duration_ms": 187253,
       "name": "Shulaguapa",
       "url": "https://open.spotify.com/track/5rIFFt6LclUTS5xIRnA7cR"
+    },
+    {
+      "added_at": "2024-04-23 00:22:32",
+      "album": {
+        "name": "Algo Est\u00e1 Cambiando - Earth Remix (feat. NATURE)",
+        "url": "https://open.spotify.com/album/4RunvFZUr0PFdzg3VWINMD"
+      },
+      "artists": [
+        {
+          "name": "Bomba Est\u00e9reo",
+          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
+        },
+        {
+          "name": "Monte",
+          "url": "https://open.spotify.com/artist/1fcnE99XRNfHPyu27ysuNG"
+        },
+        {
+          "name": "NATURE",
+          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
+        }
+      ],
+      "duration_ms": 292544,
+      "name": "Algo Est\u00e1 Cambiando - Earth Remix (feat. NATURE)",
+      "url": "https://open.spotify.com/track/6onn77nAEdFVIbI0gIlXjH"
     },
     {
       "added_at": "2021-10-20 20:06:54",
@@ -1401,38 +1433,6 @@
       "url": "https://open.spotify.com/track/5ijJhZPMHeDljcpmgC2lLp"
     },
     {
-      "added_at": "2023-10-10 03:30:03",
-      "album": {
-        "name": "Switched-On",
-        "url": "https://open.spotify.com/album/4whyS98b0oVjwQCmWarOAi"
-      },
-      "artists": [
-        {
-          "name": "Pachyman",
-          "url": "https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l"
-        }
-      ],
-      "duration_ms": 182533,
-      "name": "Trago Coqueto",
-      "url": "https://open.spotify.com/track/54SKhrxbRKvXuB3C3SGGoC"
-    },
-    {
-      "added_at": "2022-09-30 05:00:00",
-      "album": {
-        "name": "Post Qu\u00edmica",
-        "url": "https://open.spotify.com/album/6ofvehgD9KHjywtwgIy7nR"
-      },
-      "artists": [
-        {
-          "name": "Caloncho",
-          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
-        }
-      ],
-      "duration_ms": 188320,
-      "name": "Post Qu\u00edmica",
-      "url": "https://open.spotify.com/track/0NhUS4oQ8vQNaLgdQU6nRI"
-    },
-    {
       "added_at": "2024-07-29 19:49:41",
       "album": {
         "name": "Yellow Laces - Another Life",
@@ -1449,20 +1449,20 @@
       "url": "https://open.spotify.com/track/2nKsFoAxQRjQz5zEvM7Hhz"
     },
     {
-      "added_at": "2021-10-20 20:06:54",
+      "added_at": "2023-10-10 03:30:03",
       "album": {
-        "name": "Aurora",
-        "url": "https://open.spotify.com/album/6PuvRbgClBhk71ZfODdmpp"
+        "name": "Switched-On",
+        "url": "https://open.spotify.com/album/4whyS98b0oVjwQCmWarOAi"
       },
       "artists": [
         {
-          "name": "Alex Eugenio",
-          "url": "https://open.spotify.com/artist/5zVZavNyXi3uT9ZTeMzYfR"
+          "name": "Pachyman",
+          "url": "https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l"
         }
       ],
-      "duration_ms": 120813,
-      "name": "YO-A-O",
-      "url": "https://open.spotify.com/track/522ebhSF4Bquf1OtekBokP"
+      "duration_ms": 182533,
+      "name": "Trago Coqueto",
+      "url": "https://open.spotify.com/track/54SKhrxbRKvXuB3C3SGGoC"
     },
     {
       "added_at": "2023-02-03 04:48:46",
@@ -1483,6 +1483,22 @@
       "duration_ms": 181914,
       "name": "Porque Yo",
       "url": "https://open.spotify.com/track/2eqLgrPkcSTgCvxEtsymiz"
+    },
+    {
+      "added_at": "2021-10-20 20:06:54",
+      "album": {
+        "name": "Aurora",
+        "url": "https://open.spotify.com/album/6PuvRbgClBhk71ZfODdmpp"
+      },
+      "artists": [
+        {
+          "name": "Alex Eugenio",
+          "url": "https://open.spotify.com/artist/5zVZavNyXi3uT9ZTeMzYfR"
+        }
+      ],
+      "duration_ms": 120813,
+      "name": "YO-A-O",
+      "url": "https://open.spotify.com/track/522ebhSF4Bquf1OtekBokP"
     },
     {
       "added_at": "2021-10-20 20:06:54",
@@ -1559,22 +1575,6 @@
     {
       "added_at": "2021-10-20 20:06:54",
       "album": {
-        "name": "Almadura",
-        "url": "https://open.spotify.com/album/5ggXegN9GWgNOSS83gZHGT"
-      },
-      "artists": [
-        {
-          "name": "iLe",
-          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
-        }
-      ],
-      "duration_ms": 196984,
-      "name": "Temes",
-      "url": "https://open.spotify.com/track/4y7MogcFeMrp4QXPVHloyB"
-    },
-    {
-      "added_at": "2021-10-20 20:06:54",
-      "album": {
         "name": "P\u00e1jaro",
         "url": "https://open.spotify.com/album/68dJoshUCRyvddj3c6jWjP"
       },
@@ -1587,6 +1587,22 @@
       "duration_ms": 222787,
       "name": "P\u00e1jaro",
       "url": "https://open.spotify.com/track/0kPq2bsyrh9T9t5tjCdGdX"
+    },
+    {
+      "added_at": "2021-10-20 20:06:54",
+      "album": {
+        "name": "Almadura",
+        "url": "https://open.spotify.com/album/5ggXegN9GWgNOSS83gZHGT"
+      },
+      "artists": [
+        {
+          "name": "iLe",
+          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
+        }
+      ],
+      "duration_ms": 196984,
+      "name": "Temes",
+      "url": "https://open.spotify.com/track/4y7MogcFeMrp4QXPVHloyB"
     },
     {
       "added_at": "2021-10-20 20:06:54",
@@ -1631,26 +1647,6 @@
     {
       "added_at": "2021-10-20 20:06:54",
       "album": {
-        "name": "Clandestino (feat. Calypso Rose)",
-        "url": "https://open.spotify.com/album/0dcSYLzXomtLihJSTfyk0T"
-      },
-      "artists": [
-        {
-          "name": "Manu Chao",
-          "url": "https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM"
-        },
-        {
-          "name": "Calypso Rose",
-          "url": "https://open.spotify.com/artist/56QlZ0AFfkaaHyANLVkg5h"
-        }
-      ],
-      "duration_ms": 158714,
-      "name": "Clandestino (feat. Calypso Rose)",
-      "url": "https://open.spotify.com/track/0XeSTQIu2LqnAKdOigQUtT"
-    },
-    {
-      "added_at": "2021-10-20 20:06:54",
-      "album": {
         "name": "Amor Arrayano",
         "url": "https://open.spotify.com/album/4EgEBNMsIhWTR2J9HdFfMK"
       },
@@ -1669,20 +1665,24 @@
       "url": "https://open.spotify.com/track/6JfEqa7eSRZDfzAPBJdf4Q"
     },
     {
-      "added_at": "2022-03-11 03:38:19",
+      "added_at": "2021-10-20 20:06:54",
       "album": {
-        "name": "Penas con Pan",
-        "url": "https://open.spotify.com/album/7nxJz9F14aEwdO7eyq7qmb"
+        "name": "Clandestino (feat. Calypso Rose)",
+        "url": "https://open.spotify.com/album/0dcSYLzXomtLihJSTfyk0T"
       },
       "artists": [
         {
-          "name": "La Do\u00f1a",
-          "url": "https://open.spotify.com/artist/5eBVoDUYv0feTepoBSz4SJ"
+          "name": "Manu Chao",
+          "url": "https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM"
+        },
+        {
+          "name": "Calypso Rose",
+          "url": "https://open.spotify.com/artist/56QlZ0AFfkaaHyANLVkg5h"
         }
       ],
-      "duration_ms": 103235,
-      "name": "Penas con Pan",
-      "url": "https://open.spotify.com/track/0va257dK5KpE35Gd2EHH7E"
+      "duration_ms": 158714,
+      "name": "Clandestino (feat. Calypso Rose)",
+      "url": "https://open.spotify.com/track/0XeSTQIu2LqnAKdOigQUtT"
     },
     {
       "added_at": "2021-10-20 20:06:54",
@@ -1715,6 +1715,22 @@
       "duration_ms": 236200,
       "name": "Cumbia Reggae",
       "url": "https://open.spotify.com/track/72Fa1rmc3H7WIQ6t68tk4A"
+    },
+    {
+      "added_at": "2022-03-11 03:38:19",
+      "album": {
+        "name": "Penas con Pan",
+        "url": "https://open.spotify.com/album/7nxJz9F14aEwdO7eyq7qmb"
+      },
+      "artists": [
+        {
+          "name": "La Do\u00f1a",
+          "url": "https://open.spotify.com/artist/5eBVoDUYv0feTepoBSz4SJ"
+        }
+      ],
+      "duration_ms": 103235,
+      "name": "Penas con Pan",
+      "url": "https://open.spotify.com/track/0va257dK5KpE35Gd2EHH7E"
     },
     {
       "added_at": "2022-09-03 02:45:23",
@@ -1895,22 +1911,6 @@
       "duration_ms": 233800,
       "name": "Mi manera de querer",
       "url": "https://open.spotify.com/track/4vf86rvT51NZtZHeLB1noi"
-    },
-    {
-      "added_at": "2021-10-20 20:06:54",
-      "album": {
-        "name": "El Fuego",
-        "url": "https://open.spotify.com/album/6yXfAPWCd2Vx9S09JPZviq"
-      },
-      "artists": [
-        {
-          "name": "Pi\u00e9lago",
-          "url": "https://open.spotify.com/artist/74fUwxg1ht9308R6WNVv1O"
-        }
-      ],
-      "duration_ms": 216746,
-      "name": "El Fuego",
-      "url": "https://open.spotify.com/track/6PigN4VPqTNmmc3obsHnZ6"
     }
   ],
   "unique_name": "Tropical Vibe",

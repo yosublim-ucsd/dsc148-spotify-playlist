@@ -99,7 +99,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFE4tqXM95AGH.md) - [plain]
 | 89 | [Take You Back](https://open.spotify.com/track/1NF9ux53nctr5Rjb3c8i7D) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Singular Act II](https://open.spotify.com/album/19KilSbbeHRFFZM7ChwTdP) | 2:49 |
 | 90 | [Got the Feeling](https://open.spotify.com/track/3Z3U4m3C7WUoRf0lctIzfx) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Sit Still, Look Pretty](https://open.spotify.com/album/6cMcASNBAfVvmv0AT6IQj4) | 3:37 |
 | 91 | [Lie for Love](https://open.spotify.com/track/6MrYbA2BABupgYu3eONu7G) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Sierra Burgess Is a Loser \(Original Netflix Sound Track\)](https://open.spotify.com/album/5ddhak78Gq6mFVqiPlbFhI) | 3:05 |
-| 92 | [Cruel](https://open.spotify.com/track/3ZxtQyBPlRDQmffv7KfKCP) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr) | [Snacks \- Supersize](https://open.spotify.com/album/7amY1CW9j5LtD2Bbsx1FJO) | 4:26 |
+| 92 | [Cruel](https://open.spotify.com/track/3ZxtQyBPlRDQmffv7KfKCP) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr) | [Snacks \(Supersize\)](https://open.spotify.com/album/7amY1CW9j5LtD2Bbsx1FJO) | 4:26 |
 | 93 | [Workin On It](https://open.spotify.com/track/4iDPpvvYBnuM5U89cBvWvZ) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj) | [The Good Parts](https://open.spotify.com/album/1HxoWQzPqd5JZyBpQ9ZlSf) | 3:34 |
 | 94 | [Bad Feeling](https://open.spotify.com/track/5L3rFG7ttfr4OK87dbUfle) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Influence EP](https://open.spotify.com/album/6znFcVbDZJpb6w4bSdRrXv) | 3:26 |
 | 95 | [I Don't Need It To Be Christmas At All](https://open.spotify.com/track/1wmPiEINk0ig3Q0Cit7Anh) | [Matt Rogers](https://open.spotify.com/artist/437cckneXTy4cj15iUWAVZ) | [Have You Heard of Christmas?](https://open.spotify.com/album/7lG5kp3WDqPlIap6aPJVLd) | 3:05 |
@@ -180,4 +180,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFE4tqXM95AGH.md) - [plain]
 | 170 | [Euphoria](https://open.spotify.com/track/1nXyc1QOTa5Rnhg5udF0vr) | [Christopher Goulstone](https://open.spotify.com/artist/6A6hCC07Ix0YCGFfENcWYI), [Neil Taylor](https://open.spotify.com/artist/3th0fmbYOynihCppJzNJLM) | [Rock Highway Dreams](https://open.spotify.com/album/5c4U5JArDApW4JUyEEk3Tz) | 3:26 |
 | 171 | [I'm a Rapper](https://open.spotify.com/track/3Pt8mRiKVgnun7ULVmKTLB) | [Pfool](https://open.spotify.com/artist/4yNdC9T7fkyn8yB1E8cTLY) | [Ultimate Hottest Hits 2013, Vol\. 6 \(The Best of the Teenies\)](https://open.spotify.com/album/5PtK4h7lKH3ittcrWu7hqi) | 2:55 |
 
-Snapshot ID: `Abd0yAAAAACkWRye1geuU499FFUqLXWX`
+Snapshot ID: `Abd6XgAAAABYjyLEve8Wt7REJgptdOMR`

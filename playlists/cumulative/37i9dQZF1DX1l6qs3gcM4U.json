@@ -2921,6 +2921,28 @@
     },
     {
       "album": {
+        "name": "F\u00e9",
+        "url": "https://open.spotify.com/album/2GDBdMFXsZRxL5fe7GnL5a"
+      },
+      "artists": [
+        {
+          "name": "June Freedom",
+          "url": "https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC"
+        },
+        {
+          "name": "\u00c9LL\u00c0H",
+          "url": "https://open.spotify.com/artist/1I5Ae9tdGA0hgjWNTXqmJt"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152410,
+      "name": "F\u00e9",
+      "url": "https://open.spotify.com/track/6bp9ivNIHLHqHFPIaqC40u"
+    },
+    {
+      "album": {
         "name": "Gog\u00f3 G\u00fao Go",
         "url": "https://open.spotify.com/album/2eWpNaolfGSy8Zs9m9KXw7"
       },
@@ -3576,7 +3598,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 183529,
       "name": "Ku Bo",
       "url": "https://open.spotify.com/track/5nw75kPDOQdmJ4o50MNgSh"

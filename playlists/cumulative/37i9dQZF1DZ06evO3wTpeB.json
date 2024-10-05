@@ -1149,6 +1149,28 @@
     },
     {
       "album": {
+        "name": "Qu\u00e9 Mentira Tan Perfecta",
+        "url": "https://open.spotify.com/album/1TldCO3Zg4Y5WhueVcV85Y"
+      },
+      "artists": [
+        {
+          "name": "Ali Aka Mind",
+          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
+        },
+        {
+          "name": "T-Chord",
+          "url": "https://open.spotify.com/artist/3GvdERCXrDLLTKzngNIyMW"
+        }
+      ],
+      "date_added": "2024-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169652,
+      "name": "Qu\u00e9 Mentira Tan Perfecta",
+      "url": "https://open.spotify.com/track/5JANca2cKP0GEUH0YORHAN"
+    },
+    {
+      "album": {
         "name": "Manjit",
         "url": "https://open.spotify.com/album/5kWtTiaGy7fsc8SRzP5Grr"
       },

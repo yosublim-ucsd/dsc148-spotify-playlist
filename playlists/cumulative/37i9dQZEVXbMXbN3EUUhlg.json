@@ -1058,7 +1058,7 @@
       ],
       "date_added": "2024-09-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-30",
+      "date_removed": null,
       "duration_ms": 201264,
       "name": "Afrodite",
       "url": "https://open.spotify.com/track/3DAlIobCDPVvUkyDZv5oVp"
@@ -9790,7 +9790,7 @@
       ],
       "date_added": "2021-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 194800,
       "name": "Ficha Limpa - Ao Vivo",
       "url": "https://open.spotify.com/track/17QN5kFprJqHdHLMj7hz4s"
@@ -11216,7 +11216,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 167012,
       "name": "Heavy Is the Crown",
       "url": "https://open.spotify.com/track/3fgehc497TFqKH1zBL2YNK"
@@ -15428,7 +15428,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-04",
+      "date_removed": null,
       "duration_ms": 187037,
       "name": "Morar Nesse Motel",
       "url": "https://open.spotify.com/track/6NJzycLHOAh940pcqcUVp6"
@@ -15806,7 +15806,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 177230,
       "name": "Mtg Quero Te Encontrar",
       "url": "https://open.spotify.com/track/5GV7OpSEb8MPTryL0Q5i6c"
@@ -18898,6 +18898,28 @@
       "duration_ms": 185407,
       "name": "Pino da Granada (Ao Vivo em Rio Preto)",
       "url": "https://open.spotify.com/track/0MKd4uZd8Ag8qyReZBTarP"
+    },
+    {
+      "album": {
+        "name": "Eletrofunk Raiz",
+        "url": "https://open.spotify.com/album/34GleyRUWxC5I2pn6rgmwr"
+      },
+      "artists": [
+        {
+          "name": "Mc Jacare\u0301",
+          "url": "https://open.spotify.com/artist/6qrqAYlS6lUj2BVXax7SZW"
+        },
+        {
+          "name": "Hungria",
+          "url": "https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138466,
+      "name": "Pinxad\u00e3o",
+      "url": "https://open.spotify.com/track/4t4V2ptzeV94uXjUS1X18F"
     },
     {
       "album": {

@@ -1,13 +1,93 @@
 {
-  "description": "From the LGBTQIA+ songwriters that make the music happen. This month's cover: <a href=\"spotify:artist:6oSTtYd3B3OJubFU8mVhHQ\">JHart</a>",
-  "num_followers": 1542,
+  "description": "From the LGBTQIA+ songwriters that make the music happen. This month's cover: <a href=\"spotify:artist:6mNtYUHVwuFUmiTYPiRKFw\">Ghostryder</a>",
+  "num_followers": 1557,
   "original_name": "GLOW Songwriters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zs+ANgAAAAAdz6/lhFbuznHFGqra1g8X",
+  "snapshot_id": "ZwAb3AAAAABuQZmsaiI8LGgsUJEGx5B9",
   "tracks": [
+    {
+      "added_at": "2024-10-04 16:43:04",
+      "album": {
+        "name": "Indie Alt Boys",
+        "url": "https://open.spotify.com/album/3o4jtOwM01CSf6r9gbzabz"
+      },
+      "artists": [
+        {
+          "name": "Ghostryder",
+          "url": "https://open.spotify.com/artist/6mNtYUHVwuFUmiTYPiRKFw"
+        }
+      ],
+      "duration_ms": 169031,
+      "name": "Indie Alt Boys",
+      "url": "https://open.spotify.com/track/7JlVmQxB13lLM2mqfDa5fu"
+    },
+    {
+      "added_at": "2024-10-04 16:43:04",
+      "album": {
+        "name": "Learning",
+        "url": "https://open.spotify.com/album/554MxT5oLIyLo2fX5Ed0ld"
+      },
+      "artists": [
+        {
+          "name": "Debbii Dawson",
+          "url": "https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh"
+        }
+      ],
+      "duration_ms": 237442,
+      "name": "Terrified",
+      "url": "https://open.spotify.com/track/2eHfoMJkgkiphZjmTjEY8w"
+    },
+    {
+      "added_at": "2024-10-04 16:43:04",
+      "album": {
+        "name": "Roses/Dandelion",
+        "url": "https://open.spotify.com/album/6cKYPQdKPYElQMIQfZD8z3"
+      },
+      "artists": [
+        {
+          "name": "JAEHYUN",
+          "url": "https://open.spotify.com/artist/0qQI2kmsvSe2ex9k94T5vu"
+        }
+      ],
+      "duration_ms": 150240,
+      "name": "Dandelion",
+      "url": "https://open.spotify.com/track/3bqmErC7qZn0BMQHGfnxby"
+    },
+    {
+      "added_at": "2024-10-04 16:43:04",
+      "album": {
+        "name": "Wisconsin",
+        "url": "https://open.spotify.com/album/31RR4pZy65rFv65pX37zyG"
+      },
+      "artists": [
+        {
+          "name": "Carlie Hanson",
+          "url": "https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR"
+        }
+      ],
+      "duration_ms": 128906,
+      "name": "Pretender",
+      "url": "https://open.spotify.com/track/209ANSkGIsfA5M5GewdMGi"
+    },
+    {
+      "added_at": "2024-10-04 16:43:04",
+      "album": {
+        "name": "Things Won't Go My Way",
+        "url": "https://open.spotify.com/album/4CTb2mxsBAFLUL1f1Wq4wC"
+      },
+      "artists": [
+        {
+          "name": "Peach Tree Rascals",
+          "url": "https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe"
+        }
+      ],
+      "duration_ms": 170538,
+      "name": "Things Won't Go My Way",
+      "url": "https://open.spotify.com/track/4YcsQjc0ENUD0TQO1q1IPL"
+    },
     {
       "added_at": "2024-08-28 19:53:26",
       "album": {

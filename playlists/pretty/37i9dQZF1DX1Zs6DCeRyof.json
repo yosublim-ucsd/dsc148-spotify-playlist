@@ -1,15 +1,35 @@
 {
-  "description": "Aqu\u00ed viven los hits m\u00e1s grandes en La Isla del Encanto. Bad Bunny en portada.",
-  "num_followers": 35144,
+  "description": "Aqu\u00ed viven los hits m\u00e1s grandes en La Isla del Encanto. Omar Courtz en portada.",
+  "num_followers": 35197,
   "original_name": "\u00c9xitos Puerto Rico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuzzQAAAAAD408Z8HnB15I4Bh/QG5IPR",
+  "snapshot_id": "Zv9oQAAAAAAO7P4q8MT3QcLSvcOuaz+c",
   "tracks": [
     {
-      "added_at": "2024-09-20 04:00:00",
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "PRIMERA MUSA",
+        "url": "https://open.spotify.com/album/3C5uwdRE5QRoXSGPPxpDd4"
+      },
+      "artists": [
+        {
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+        },
+        {
+          "name": "De La Rose",
+          "url": "https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo"
+        }
+      ],
+      "duration_ms": 224022,
+      "name": "Q U E V A S H A C E R H O Y ?",
+      "url": "https://open.spotify.com/track/0Sr7ssScx54yxdM2ols7nW"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
       "album": {
         "name": "Una Velita",
         "url": "https://open.spotify.com/album/2HQzboxa5GyWpk2aiPP5i6"
@@ -25,7 +45,27 @@
       "url": "https://open.spotify.com/track/059qzhNaJb8tsqpdl2bHfF"
     },
     {
-      "added_at": "2024-09-20 04:00:00",
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Dame La Verde",
+        "url": "https://open.spotify.com/album/4nEyemOG5BK5GpUknH5Zm1"
+      },
+      "artists": [
+        {
+          "name": "Luar La L",
+          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
+        },
+        {
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+        }
+      ],
+      "duration_ms": 215920,
+      "name": "Dame La Verde",
+      "url": "https://open.spotify.com/track/6onnX1hYWcqP2dXgfvExNG"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
       "album": {
         "name": "Le Clique: Vida Rockstar (X)",
         "url": "https://open.spotify.com/album/67JIMv9vCB2ukBdEbtUmUG"
@@ -49,7 +89,83 @@
       "url": "https://open.spotify.com/track/6VuCXhevMLsLMCrCPTVWWF"
     },
     {
-      "added_at": "2024-09-20 04:00:00",
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "PRIMERA MUSA",
+        "url": "https://open.spotify.com/album/3C5uwdRE5QRoXSGPPxpDd4"
+      },
+      "artists": [
+        {
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+        }
+      ],
+      "duration_ms": 155053,
+      "name": "G O D D E S S",
+      "url": "https://open.spotify.com/track/7E5qtyFBvbyfNbHOTR42rs"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "TRAQUETO",
+        "url": "https://open.spotify.com/album/4bhbFsqH3xWEpn5dt2GJC7"
+      },
+      "artists": [
+        {
+          "name": "iZaak",
+          "url": "https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK"
+        },
+        {
+          "name": "Clarent",
+          "url": "https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY"
+        }
+      ],
+      "duration_ms": 202200,
+      "name": "TRAQUETO",
+      "url": "https://open.spotify.com/track/6jfp0rIQSdBoijRTR7TC9l"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "WLGS",
+        "url": "https://open.spotify.com/album/5JWyYQTyvhEeUj0xvHrPxh"
+      },
+      "artists": [
+        {
+          "name": "YOVNGCHIMI",
+          "url": "https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy"
+        },
+        {
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+        }
+      ],
+      "duration_ms": 163200,
+      "name": "TU$$I (with Dei V)",
+      "url": "https://open.spotify.com/track/1txhQHV26PyOJJarkYtkOn"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "PRIMERA MUSA",
+        "url": "https://open.spotify.com/album/3C5uwdRE5QRoXSGPPxpDd4"
+      },
+      "artists": [
+        {
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 237853,
+      "name": "S E X P L A Y L I S T 1",
+      "url": "https://open.spotify.com/track/7w3G5VXJLLbuaWylG7hvVi"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
       "album": {
         "name": "YKWGTS",
         "url": "https://open.spotify.com/album/19eKTFbnC5aiE3FPSu1ISn"
@@ -77,71 +193,7 @@
       "url": "https://open.spotify.com/track/6ggOz96WfD8NSPBko8fnJA"
     },
     {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
-        "name": "TRAQUETO",
-        "url": "https://open.spotify.com/album/4bhbFsqH3xWEpn5dt2GJC7"
-      },
-      "artists": [
-        {
-          "name": "iZaak",
-          "url": "https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK"
-        },
-        {
-          "name": "Clarent",
-          "url": "https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY"
-        }
-      ],
-      "duration_ms": 202200,
-      "name": "TRAQUETO",
-      "url": "https://open.spotify.com/track/6jfp0rIQSdBoijRTR7TC9l"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
-        "name": "Kyoto",
-        "url": "https://open.spotify.com/album/6YOCVR0kA8mO2nWE8LINKa"
-      },
-      "artists": [
-        {
-          "name": "Omar Courtz",
-          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
-        },
-        {
-          "name": "De La Rose",
-          "url": "https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo"
-        },
-        {
-          "name": "Haze",
-          "url": "https://open.spotify.com/artist/77iZVjeYoYSl5P0K9mIiUE"
-        }
-      ],
-      "duration_ms": 247840,
-      "name": "Kyoto",
-      "url": "https://open.spotify.com/track/7eNwwoxDR8KVzNAuGvliAO"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
-        "name": "WLGS",
-        "url": "https://open.spotify.com/album/5JWyYQTyvhEeUj0xvHrPxh"
-      },
-      "artists": [
-        {
-          "name": "YOVNGCHIMI",
-          "url": "https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy"
-        },
-        {
-          "name": "Dei V",
-          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
-        }
-      ],
-      "duration_ms": 163200,
-      "name": "TU$$I (with Dei V)",
-      "url": "https://open.spotify.com/track/1txhQHV26PyOJJarkYtkOn"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
+      "added_at": "2024-10-04 04:00:00",
       "album": {
         "name": "INSOMNIO",
         "url": "https://open.spotify.com/album/0leCm7DasgqP70lhOVeXyU"
@@ -161,7 +213,7 @@
       "url": "https://open.spotify.com/track/7EaQ16Nq8bdc2A1CBOCwQU"
     },
     {
-      "added_at": "2024-09-20 04:00:00",
+      "added_at": "2024-10-04 04:00:00",
       "album": {
         "name": "Le Clique: Vida Rockstar (X)",
         "url": "https://open.spotify.com/album/67JIMv9vCB2ukBdEbtUmUG"
@@ -181,7 +233,7 @@
       "url": "https://open.spotify.com/track/0WdPVwDY2QU9941QsRJXhZ"
     },
     {
-      "added_at": "2024-09-20 04:00:00",
+      "added_at": "2024-10-04 04:00:00",
       "album": {
         "name": "LA PANTERA NEGRA",
         "url": "https://open.spotify.com/album/6NmYJszy5BaEm1WF4tJL7Z"
@@ -197,7 +249,7 @@
       "url": "https://open.spotify.com/track/39Pc4a04VgCtcc7m0XKi9M"
     },
     {
-      "added_at": "2024-09-20 04:00:00",
+      "added_at": "2024-10-04 04:00:00",
       "album": {
         "name": "Media Hora",
         "url": "https://open.spotify.com/album/3FcVOuO9zj6o3Pu8JqAfSg"
@@ -213,31 +265,7 @@
       "url": "https://open.spotify.com/track/6JDf3oDiHpOaWAw7a0GgA5"
     },
     {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
-        "name": "El Plug D3",
-        "url": "https://open.spotify.com/album/7H8RB2cNz0dynPXgESG6hw"
-      },
-      "artists": [
-        {
-          "name": "Conep",
-          "url": "https://open.spotify.com/artist/5kCv5opFav2P7nPl8FiEQx"
-        },
-        {
-          "name": "CHEN",
-          "url": "https://open.spotify.com/artist/2mzrEvfWPMGbmcNbnoux1C"
-        },
-        {
-          "name": "De La Rose",
-          "url": "https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo"
-        }
-      ],
-      "duration_ms": 223448,
-      "name": "Bien K",
-      "url": "https://open.spotify.com/track/3VenN5aaFVnpZg73t9duGk"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
+      "added_at": "2024-10-04 04:00:00",
       "album": {
         "name": "UWAIE",
         "url": "https://open.spotify.com/album/5H7sO778w4hgr2v2600ajN"
@@ -253,7 +281,27 @@
       "url": "https://open.spotify.com/track/5QjmUqgpPQgXgg4606DqZF"
     },
     {
-      "added_at": "2024-09-20 04:00:00",
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "HABLAME CLARO",
+        "url": "https://open.spotify.com/album/2uAs0cfev3WKGaotTsREhI"
+      },
+      "artists": [
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 154969,
+      "name": "HABLAME CLARO",
+      "url": "https://open.spotify.com/track/6ZCfGA0bPM50DPmcSlJKGY"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
       "album": {
         "name": "Le Clique: Vida Rockstar (X)",
         "url": "https://open.spotify.com/album/67JIMv9vCB2ukBdEbtUmUG"
@@ -273,7 +321,7 @@
       "url": "https://open.spotify.com/track/47hrwb3PwrrZOp9UqaZgcZ"
     },
     {
-      "added_at": "2024-09-20 04:00:00",
+      "added_at": "2024-10-04 04:00:00",
       "album": {
         "name": "WYA REMIX RED",
         "url": "https://open.spotify.com/album/4KparoC39Qn5NatBrMA7nN"
@@ -305,7 +353,7 @@
       "url": "https://open.spotify.com/track/4YnmQG1fnJR9LnTZtix70T"
     },
     {
-      "added_at": "2024-09-20 04:00:00",
+      "added_at": "2024-10-04 04:00:00",
       "album": {
         "name": "444",
         "url": "https://open.spotify.com/album/5wKKETPKCZbiIxfBTPfz16"
@@ -325,7 +373,7 @@
       "url": "https://open.spotify.com/track/1o4xkdBe0RjSf2u6VXi4OI"
     },
     {
-      "added_at": "2024-09-20 04:00:00",
+      "added_at": "2024-10-04 04:00:00",
       "album": {
         "name": "Sport+ RMX",
         "url": "https://open.spotify.com/album/1BtoYJ33HGhv3x5Sn8hg3L"
@@ -345,7 +393,31 @@
       "url": "https://open.spotify.com/track/52IODvPwFf6LEzNOGKMSrZ"
     },
     {
-      "added_at": "2024-09-20 04:00:00",
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Kyoto",
+        "url": "https://open.spotify.com/album/6YOCVR0kA8mO2nWE8LINKa"
+      },
+      "artists": [
+        {
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+        },
+        {
+          "name": "De La Rose",
+          "url": "https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo"
+        },
+        {
+          "name": "Haze",
+          "url": "https://open.spotify.com/artist/77iZVjeYoYSl5P0K9mIiUE"
+        }
+      ],
+      "duration_ms": 247840,
+      "name": "Kyoto",
+      "url": "https://open.spotify.com/track/7eNwwoxDR8KVzNAuGvliAO"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
       "album": {
         "name": "Santa",
         "url": "https://open.spotify.com/album/0SqUi6bPIlAaWfvZibBfia"
@@ -369,7 +441,7 @@
       "url": "https://open.spotify.com/track/5bi0gh89wRuH2OgjdAKFsb"
     },
     {
-      "added_at": "2024-09-20 04:00:00",
+      "added_at": "2024-10-04 04:00:00",
       "album": {
         "name": "Sexy Sensual",
         "url": "https://open.spotify.com/album/2ODIMjRh2s81YSHaJyta3x"
@@ -385,23 +457,7 @@
       "url": "https://open.spotify.com/track/7saa8t9KRzBnPXuyjNujvK"
     },
     {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
-        "name": "Si Antes Te Hubiera Conocido",
-        "url": "https://open.spotify.com/album/5ylbxH7EqpsmHZCRuiYewS"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 195824,
-      "name": "Si Antes Te Hubiera Conocido",
-      "url": "https://open.spotify.com/track/6WatFBLVB0x077xWeoVc2k"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
+      "added_at": "2024-10-04 04:00:00",
       "album": {
         "name": "Qui\u00e9n es Dei V?",
         "url": "https://open.spotify.com/album/2i6InsyHZPR6NBFniDivF5"
@@ -417,7 +473,7 @@
       "url": "https://open.spotify.com/track/6opCVD6WJNDyBAxvrzKLnH"
     },
     {
-      "added_at": "2024-09-20 04:00:00",
+      "added_at": "2024-10-04 04:00:00",
       "album": {
         "name": "Garchin",
         "url": "https://open.spotify.com/album/2JjA9KmAvPr8WywLFD8YxA"
@@ -437,7 +493,7 @@
       "url": "https://open.spotify.com/track/3SS4r51eTU1Ai3pFk3DXvF"
     },
     {
-      "added_at": "2024-09-20 04:00:00",
+      "added_at": "2024-10-04 04:00:00",
       "album": {
         "name": "SERIO CON ESE Q",
         "url": "https://open.spotify.com/album/3zo7zq13zlZS9rVG6MQbdf"
@@ -457,31 +513,7 @@
       "url": "https://open.spotify.com/track/4kCGXKoHyfvpSF535X4Z4p"
     },
     {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
-        "name": "BONNIE AND CLYDE (REMIX)",
-        "url": "https://open.spotify.com/album/2HeKQhQNkXEbaMxawEv4Om"
-      },
-      "artists": [
-        {
-          "name": "iZaak",
-          "url": "https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK"
-        },
-        {
-          "name": "Luar La L",
-          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
-        },
-        {
-          "name": "Omar Courtz",
-          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
-        }
-      ],
-      "duration_ms": 286265,
-      "name": "BONNIE AND CLYDE - REMIX",
-      "url": "https://open.spotify.com/track/08s7guLP2nSMxmYqmjf7oV"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
+      "added_at": "2024-10-04 04:00:00",
       "album": {
         "name": "ECLIPSE",
         "url": "https://open.spotify.com/album/6RKsrhcsEh1FfTdLAk6EvE"
@@ -505,43 +537,7 @@
       "url": "https://open.spotify.com/track/2WFm3i7wBpCty9UrkDhyOw"
     },
     {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
-        "name": "LA PANTERA NEGRA",
-        "url": "https://open.spotify.com/album/6NmYJszy5BaEm1WF4tJL7Z"
-      },
-      "artists": [
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 190826,
-      "name": "COMPETENCIA",
-      "url": "https://open.spotify.com/track/1hrRcfsancQb92OcifmMV1"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
-        "name": "SE ME OLVIDA",
-        "url": "https://open.spotify.com/album/00ESTj1vBUkIbaTHaXaXu3"
-      },
-      "artists": [
-        {
-          "name": "Maisak",
-          "url": "https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi"
-        },
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 225373,
-      "name": "SE ME OLVIDA",
-      "url": "https://open.spotify.com/track/2gmd7lY3QSzLh0xIY4cRvi"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
+      "added_at": "2024-10-04 04:00:00",
       "album": {
         "name": "Yo s\u00e9",
         "url": "https://open.spotify.com/album/4NHI7kUT9UsxlgKgDnaJdv"
@@ -561,7 +557,7 @@
       "url": "https://open.spotify.com/track/5DdLSEyKh8zgCrJq2hFj92"
     },
     {
-      "added_at": "2024-09-20 04:00:00",
+      "added_at": "2024-10-04 04:00:00",
       "album": {
         "name": "ETA",
         "url": "https://open.spotify.com/album/7yofWqjDQfluI8HN9ZqUqq"
@@ -577,7 +573,7 @@
       "url": "https://open.spotify.com/track/7h01E3mGqPrudATKy7zVKN"
     },
     {
-      "added_at": "2024-09-20 04:00:00",
+      "added_at": "2024-10-04 04:00:00",
       "album": {
         "name": "sorry es que soy bipolarrr",
         "url": "https://open.spotify.com/album/3ll4hIoivK1wpONt3MDxg5"
@@ -597,7 +593,7 @@
       "url": "https://open.spotify.com/track/33BselzygJVodjKKHVLpiH"
     },
     {
-      "added_at": "2024-09-20 04:00:00",
+      "added_at": "2024-10-04 04:00:00",
       "album": {
         "name": "Le Clique: Vida Rockstar (X)",
         "url": "https://open.spotify.com/album/67JIMv9vCB2ukBdEbtUmUG"
@@ -621,7 +617,7 @@
       "url": "https://open.spotify.com/track/1lPWHfrvpun8ZnxrWp3HH8"
     },
     {
-      "added_at": "2024-09-20 04:00:00",
+      "added_at": "2024-10-04 04:00:00",
       "album": {
         "name": "nadie sabe lo que va a pasar ma\u00f1ana",
         "url": "https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO"
@@ -641,7 +637,7 @@
       "url": "https://open.spotify.com/track/7iQXYTyuG13aoeHxGG28Nh"
     },
     {
-      "added_at": "2024-09-20 04:00:00",
+      "added_at": "2024-10-04 04:00:00",
       "album": {
         "name": "D\u00e9jame Entrar",
         "url": "https://open.spotify.com/album/4pCMKyLuqd20WbpISwfmVe"
@@ -657,7 +653,7 @@
       "url": "https://open.spotify.com/track/3TlghSCu53YEUigL9RuqnU"
     },
     {
-      "added_at": "2024-09-20 04:00:00",
+      "added_at": "2024-10-04 04:00:00",
       "album": {
         "name": "Qui\u00e9n es Dei V?",
         "url": "https://open.spotify.com/album/2i6InsyHZPR6NBFniDivF5"
@@ -677,7 +673,7 @@
       "url": "https://open.spotify.com/track/0kX6vjW7YrhHxrpZS7jcxa"
     },
     {
-      "added_at": "2024-09-20 04:00:00",
+      "added_at": "2024-10-04 04:00:00",
       "album": {
         "name": "Emociones",
         "url": "https://open.spotify.com/album/0j5oHHGTmEo3CzLt0wYTya"
@@ -693,7 +689,7 @@
       "url": "https://open.spotify.com/track/4M4Tc6Mx3IZhOXD8H7Iziq"
     },
     {
-      "added_at": "2024-09-20 04:00:00",
+      "added_at": "2024-10-04 04:00:00",
       "album": {
         "name": "Mirame",
         "url": "https://open.spotify.com/album/5oCAS6VzHoESewtXUGMqbz"
@@ -713,7 +709,7 @@
       "url": "https://open.spotify.com/track/2btNsI4OvcVl7SAHQQDHFB"
     },
     {
-      "added_at": "2024-09-20 04:00:00",
+      "added_at": "2024-10-04 04:00:00",
       "album": {
         "name": "Vacile",
         "url": "https://open.spotify.com/album/1h5pFnX1pTSIhDnouQsn4G"
@@ -729,7 +725,7 @@
       "url": "https://open.spotify.com/track/0w0e3Te2Rd4t8gGKi3sU6a"
     },
     {
-      "added_at": "2024-09-20 04:00:00",
+      "added_at": "2024-10-04 04:00:00",
       "album": {
         "name": "Toki",
         "url": "https://open.spotify.com/album/4Ms2rHUlc1Gu47OPeMbvKn"
@@ -757,7 +753,7 @@
       "url": "https://open.spotify.com/track/3is7Ej9fnZLhJD9pNOy4cI"
     },
     {
-      "added_at": "2024-09-20 04:00:00",
+      "added_at": "2024-10-04 04:00:00",
       "album": {
         "name": "SAYONARA",
         "url": "https://open.spotify.com/album/7kfPf285KnlWUTbqaB1jnI"
@@ -777,7 +773,7 @@
       "url": "https://open.spotify.com/track/6BpZpCM8d8FJnVnr1IbnFL"
     },
     {
-      "added_at": "2024-09-20 04:00:00",
+      "added_at": "2024-10-04 04:00:00",
       "album": {
         "name": "LA PANTERA NEGRA",
         "url": "https://open.spotify.com/album/6NmYJszy5BaEm1WF4tJL7Z"
@@ -797,7 +793,7 @@
       "url": "https://open.spotify.com/track/4KGfuJfd0pDwyJz2tOPkGg"
     },
     {
-      "added_at": "2024-09-20 04:00:00",
+      "added_at": "2024-10-04 04:00:00",
       "album": {
         "name": "3 Doritos",
         "url": "https://open.spotify.com/album/5D4duHLbasUQe8fosEc1kG"
@@ -813,7 +809,7 @@
       "url": "https://open.spotify.com/track/4yZ9RRt3lZ66WxzHYuuC3R"
     },
     {
-      "added_at": "2024-09-20 04:00:00",
+      "added_at": "2024-10-04 04:00:00",
       "album": {
         "name": "Baby Demon",
         "url": "https://open.spotify.com/album/0yMErHqzYaX4PyCAz4640l"
@@ -833,7 +829,7 @@
       "url": "https://open.spotify.com/track/1PGXHcJVqYWVMVkMLIDGZV"
     },
     {
-      "added_at": "2024-09-20 04:00:00",
+      "added_at": "2024-10-04 04:00:00",
       "album": {
         "name": "Los Fin De",
         "url": "https://open.spotify.com/album/2mKKlq0CCG1EbSCDpwFc84"
@@ -849,7 +845,7 @@
       "url": "https://open.spotify.com/track/0DfkS7yqoFniOUDOcpPVCR"
     },
     {
-      "added_at": "2024-09-20 04:00:00",
+      "added_at": "2024-10-04 04:00:00",
       "album": {
         "name": "Toda \u00c9poca Tiene Su Encanto",
         "url": "https://open.spotify.com/album/2F0JiAg0l7v8Oxr9c7kylt"
@@ -869,7 +865,7 @@
       "url": "https://open.spotify.com/track/0zCqqucfJ2eZt16wCwupb5"
     },
     {
-      "added_at": "2024-09-20 04:00:00",
+      "added_at": "2024-10-04 04:00:00",
       "album": {
         "name": "no soy 2.0",
         "url": "https://open.spotify.com/album/7kJFDsA9D2mivO1ut2TqNq"
@@ -897,7 +893,7 @@
       "url": "https://open.spotify.com/track/6QDP2lBtdNx3MtwCSO8gTB"
     },
     {
-      "added_at": "2024-09-20 04:00:00",
+      "added_at": "2024-10-04 04:00:00",
       "album": {
         "name": "Miss Misogyny",
         "url": "https://open.spotify.com/album/2XCLHKZxCU9hKsenQR72di"
@@ -917,7 +913,7 @@
       "url": "https://open.spotify.com/track/3Zp7EoTbIi4URlTACQJmIv"
     },
     {
-      "added_at": "2024-09-20 04:00:00",
+      "added_at": "2024-10-04 04:00:00",
       "album": {
         "name": "Yeh Yeh Yeh",
         "url": "https://open.spotify.com/album/2hRtasUjoSQgnDd8OK4teg"
@@ -933,7 +929,7 @@
       "url": "https://open.spotify.com/track/71r95eAqMkyeM5LXcVnBFT"
     },
     {
-      "added_at": "2024-09-20 04:00:00",
+      "added_at": "2024-10-04 04:00:00",
       "album": {
         "name": "ADIVINO",
         "url": "https://open.spotify.com/album/3sRyLQf04m9vm40JNRFiCl"
@@ -953,7 +949,7 @@
       "url": "https://open.spotify.com/track/0LZy30mVmxqUpdQmaXKXBd"
     },
     {
-      "added_at": "2024-09-20 04:00:00",
+      "added_at": "2024-10-04 04:00:00",
       "album": {
         "name": "VVS Switch (feat. Luar La L & CDobleta) - Remix",
         "url": "https://open.spotify.com/album/3g16kvv1kgZIfqvo6u4Evb"
@@ -985,7 +981,7 @@
       "url": "https://open.spotify.com/track/7kSL8RqBe9ySL8tjvSoII0"
     },
     {
-      "added_at": "2024-09-20 04:00:00",
+      "added_at": "2024-10-04 04:00:00",
       "album": {
         "name": "XQCP",
         "url": "https://open.spotify.com/album/5M1jcMKfRKDmg3vM93E6we"
@@ -1005,7 +1001,7 @@
       "url": "https://open.spotify.com/track/1VqFMK8sjfaaxYYdcuTATk"
     },
     {
-      "added_at": "2024-09-20 04:00:00",
+      "added_at": "2024-10-04 04:00:00",
       "album": {
         "name": "The Academy: Segunda Misi\u00f3n",
         "url": "https://open.spotify.com/album/2de63hNYGRgcNTXCtXQGvu"

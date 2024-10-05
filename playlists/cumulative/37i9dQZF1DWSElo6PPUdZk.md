@@ -4,7 +4,7 @@
 
 > Catch the queens of Punjabi Pop\. Cover: Sunanda Sharma
 
-117 songs - 6 hr 9 min
+118 songs - 6 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [8 Parche](https://open.spotify.com/track/42ETKyApzUl8hTtytFAjen) | [Baani Sandhu](https://open.spotify.com/artist/3tDW6dCyLHiuOq5eKnHCW3), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [8 Parche](https://open.spotify.com/album/5vMZWQdiqWB8iaeqnBfdRu) | 3:30 | 2023-03-18 |  |
 | [8 Vaje](https://open.spotify.com/track/4jRTapBEzN0Fzjwyhtbn3R) | [Baani Sandhu](https://open.spotify.com/artist/3tDW6dCyLHiuOq5eKnHCW3), [Shree Brar](https://open.spotify.com/artist/5Dr08SCxyjTmDovDDRZCa2), [DJ Flow](https://open.spotify.com/artist/3MP2WJg5D3bmH5Mz2scPF8) | [8 Vaje](https://open.spotify.com/album/7dLHtuLGm3wX84rRKrQRt4) | 2:54 | 2024-09-13 |  |
 | [Aadat](https://open.spotify.com/track/5OU0FrRy5ayPf2B0SPa0Mg) | [Jenny Johal](https://open.spotify.com/artist/7wM3DMc1NCh9sjDrUf3QOd), [Jang Dhillon](https://open.spotify.com/artist/04h37X9hVdRuKEbl2y9naq), [IRIS Music](https://open.spotify.com/artist/1DB6PUHcKe8s5Ul7jkVR4Q) | [Aadat](https://open.spotify.com/album/2p1NTIbbZU1qTBCyXcKcsm) | 4:16 | 2024-10-03 |  |
-| [Affair](https://open.spotify.com/track/21SBUUtRtPK2x2OLmZCKTP) | [Baani Sandhu](https://open.spotify.com/artist/3tDW6dCyLHiuOq5eKnHCW3), [Dilpreet Dhillon](https://open.spotify.com/artist/5CGQa62CAweD76eHlDmp1m) | [Affair](https://open.spotify.com/album/4ubZpOzmJp9haVbf9F97hy) | 3:08 | 2023-03-18 |  |
+| [Affair](https://open.spotify.com/track/21SBUUtRtPK2x2OLmZCKTP) | [Baani Sandhu](https://open.spotify.com/artist/3tDW6dCyLHiuOq5eKnHCW3), [Dilpreet Dhillon](https://open.spotify.com/artist/5CGQa62CAweD76eHlDmp1m) | [Affair](https://open.spotify.com/album/4ubZpOzmJp9haVbf9F97hy) | 3:08 | 2023-03-18 | 2024-10-05 |
 | [AKH](https://open.spotify.com/track/2XQK4hKhcSsloYMteu9RbZ) | [Jaswinder Brar](https://open.spotify.com/artist/6r2i43KR94c0Q0fm7OyJEJ), [Sachin Ahuja](https://open.spotify.com/artist/4QTKE90lhb8DlGKB9QqK3h) | [AKH](https://open.spotify.com/album/6B3afVYGezFl6PPl2qJXqB) | 3:35 | 2024-09-09 |  |
 | [All Of Me](https://open.spotify.com/track/0A2zRkxaVs0pBEphesliW9) | [Basant Kur](https://open.spotify.com/artist/3G2Xtfb5jyShZFe4Xz67y7), [Bunty Bains](https://open.spotify.com/artist/4eHycMGKslAXJLcLO4F82x), [Chet Singh](https://open.spotify.com/artist/5aWkTGq5O45ES0fDFmN1Wv) | [All Of Me](https://open.spotify.com/album/7HWwodmqi6yfhLjwCrwAl3) | 3:13 | 2023-03-18 | 2023-11-21 |
 | [All Of You](https://open.spotify.com/track/1QCU59QRGh7vkgSIAM9NNx) | [Kiran Bajwa](https://open.spotify.com/artist/3qmx2CGviBi21h58nDMJcs), [Rony Ajnali](https://open.spotify.com/artist/0N2lT1m7rG0klYHZrkyMPw), [Dilmaan](https://open.spotify.com/artist/5iRP5VM9JGkM6aMQbbfkBK) | [All Of You](https://open.spotify.com/album/3uvubadrqzODiqtkV5fsQR) | 2:19 | 2024-09-13 |  |
@@ -78,6 +78,7 @@
 | [Main Bandey](https://open.spotify.com/track/1GgQk7wSLTalLVZfivdiHo) | [Jasmine Sandlas](https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c) | [Main Bandey](https://open.spotify.com/album/1gjsHHeXtPmFg55MwzONLV) | 2:17 | 2024-04-24 | 2024-05-10 |
 | [Main Tenu](https://open.spotify.com/track/6my9ChoBE2Ozs6oVerPzbX) | [Basant Kur](https://open.spotify.com/artist/3G2Xtfb5jyShZFe4Xz67y7), [Jashan Inder](https://open.spotify.com/artist/0tGfv5UMyYeDwBwo86cat8) | [Main Tenu](https://open.spotify.com/album/4NlsZkgeJsvykk2EhCv3ko) | 2:31 | 2023-10-03 |  |
 | [Main Teri Hoyi](https://open.spotify.com/track/3ZUzmgQmdAgdiCbVSotcsO) | [Amaan Bhullar](https://open.spotify.com/artist/3k6eT2Sr5ov9qiwZZ7i9wK) | [Main Teri Hoyi](https://open.spotify.com/album/4t3wYh3M30mRw48ZFYYqPj) | 3:16 | 2024-09-11 |  |
+| [Majha Malwa](https://open.spotify.com/track/3SJTSI4YYcAqHPxwoTzuPc) | [Jaswinder Brar](https://open.spotify.com/artist/6r2i43KR94c0Q0fm7OyJEJ), [Bunty Bains](https://open.spotify.com/artist/4eHycMGKslAXJLcLO4F82x), [Chet Singh](https://open.spotify.com/artist/5aWkTGq5O45ES0fDFmN1Wv) | [Majha Malwa](https://open.spotify.com/album/3VBpU3AUhN2OLsuGBmuLNp) | 2:53 | 2024-10-04 |  |
 | [Majhe Wale](https://open.spotify.com/track/6w3Ci44LBc9RlJcjy1QYow) | [Baani Sandhu](https://open.spotify.com/artist/3tDW6dCyLHiuOq5eKnHCW3) | [Majhe Wale](https://open.spotify.com/album/6C7vkwRhZtDvmiNokK2v5z) | 3:16 | 2023-03-18 |  |
 | [Malwain](https://open.spotify.com/track/2BW6LkyuZjrSgRsCOLL45B) | [Pari Pandher](https://open.spotify.com/artist/5FacpiPeQOaDKcKXm1UcyA) | [1996](https://open.spotify.com/album/7ebGqKGjGg7aaBs5OTOnbM) | 2:35 | 2023-10-03 | 2024-04-19 |
 | [Malwain](https://open.spotify.com/track/0p5qFQmghBRG73G0yJV0mz) | [Pari Pandher](https://open.spotify.com/artist/5FacpiPeQOaDKcKXm1UcyA), [Bunty Bains](https://open.spotify.com/artist/4eHycMGKslAXJLcLO4F82x), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K) | [1996](https://open.spotify.com/album/1VIiYt1vOklJBc2EPUXVEj) | 2:35 | 2024-01-30 |  |

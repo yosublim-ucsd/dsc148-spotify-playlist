@@ -2303,6 +2303,24 @@
     },
     {
       "album": {
+        "name": "Mind Of A Country Boy",
+        "url": "https://open.spotify.com/album/0SyEsGffJ9ZqvRkuVrzOlB"
+      },
+      "artists": [
+        {
+          "name": "Luke Bryan",
+          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186495,
+      "name": "Jesus 'Bout My Kids",
+      "url": "https://open.spotify.com/track/0LDnAkJu4BsTg7LNNeKV9j"
+    },
+    {
+      "album": {
         "name": "Church Pew",
         "url": "https://open.spotify.com/album/28nagL70UdAzAs1ZgNOGnN"
       },

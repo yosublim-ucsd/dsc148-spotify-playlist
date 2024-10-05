@@ -471,22 +471,6 @@
     {
       "added_at": "2024-09-23 03:13:31",
       "album": {
-        "name": "Give me a title",
-        "url": "https://open.spotify.com/album/4Zt3JbOedE78z8zWp9Oxgp"
-      },
-      "artists": [
-        {
-          "name": "Chawoo",
-          "url": "https://open.spotify.com/artist/4IQIYg9spHoy4FgnnManxR"
-        }
-      ],
-      "duration_ms": 163786,
-      "name": "Give me a title",
-      "url": "https://open.spotify.com/track/5HKr2mcxgqd3LHCd0VMRb7"
-    },
-    {
-      "added_at": "2024-09-23 03:13:31",
-      "album": {
         "name": "You don't have to say anything (I already know)",
         "url": "https://open.spotify.com/album/6EloN2Ba66hvq5yLrueBrC"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 265459,
       "name": "You don't have to say anything (I already know)",
       "url": "https://open.spotify.com/track/1uJbJ78IbBgmntxPk5bptX"
+    },
+    {
+      "added_at": "2024-09-23 03:13:31",
+      "album": {
+        "name": "Give me a title",
+        "url": "https://open.spotify.com/album/4Zt3JbOedE78z8zWp9Oxgp"
+      },
+      "artists": [
+        {
+          "name": "Chawoo",
+          "url": "https://open.spotify.com/artist/4IQIYg9spHoy4FgnnManxR"
+        }
+      ],
+      "duration_ms": 163786,
+      "name": "Give me a title",
+      "url": "https://open.spotify.com/track/5HKr2mcxgqd3LHCd0VMRb7"
     },
     {
       "added_at": "2024-09-23 03:13:31",
@@ -555,22 +555,6 @@
     {
       "added_at": "2024-09-23 03:13:31",
       "album": {
-        "name": "Bloom",
-        "url": "https://open.spotify.com/album/1IXM5QxiYDAd4BwCUxOg95"
-      },
-      "artists": [
-        {
-          "name": "CHAI",
-          "url": "https://open.spotify.com/artist/0zNxCxEjUGAsb6ygZd27fC"
-        }
-      ],
-      "duration_ms": 204373,
-      "name": "Bloom",
-      "url": "https://open.spotify.com/track/7IElhPx2i4MjnVgzOZVqrB"
-    },
-    {
-      "added_at": "2024-09-23 03:13:31",
-      "album": {
         "name": "When It's Cold",
         "url": "https://open.spotify.com/album/0yd7TX2398Ii7AiZAMp2ey"
       },
@@ -587,18 +571,18 @@
     {
       "added_at": "2024-09-23 03:13:31",
       "album": {
-        "name": "Ride out a storm",
-        "url": "https://open.spotify.com/album/0yedFecGqUyvUQrO1MsO4s"
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/1IXM5QxiYDAd4BwCUxOg95"
       },
       "artists": [
         {
-          "name": "Darin",
-          "url": "https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W"
+          "name": "CHAI",
+          "url": "https://open.spotify.com/artist/0zNxCxEjUGAsb6ygZd27fC"
         }
       ],
-      "duration_ms": 257200,
-      "name": "Ride out a storm",
-      "url": "https://open.spotify.com/track/2sJvM5HVO1T2u2eq04dWgF"
+      "duration_ms": 204373,
+      "name": "Bloom",
+      "url": "https://open.spotify.com/track/7IElhPx2i4MjnVgzOZVqrB"
     },
     {
       "added_at": "2024-09-23 03:13:31",
@@ -615,6 +599,22 @@
       "duration_ms": 178493,
       "name": "i and i",
       "url": "https://open.spotify.com/track/33PhGGthxOh1gmUCW28gMB"
+    },
+    {
+      "added_at": "2024-09-23 03:13:31",
+      "album": {
+        "name": "Ride out a storm",
+        "url": "https://open.spotify.com/album/0yedFecGqUyvUQrO1MsO4s"
+      },
+      "artists": [
+        {
+          "name": "Darin",
+          "url": "https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W"
+        }
+      ],
+      "duration_ms": 257200,
+      "name": "Ride out a storm",
+      "url": "https://open.spotify.com/track/2sJvM5HVO1T2u2eq04dWgF"
     },
     {
       "added_at": "2024-09-23 03:13:31",
@@ -639,22 +639,6 @@
     {
       "added_at": "2024-09-23 03:13:31",
       "album": {
-        "name": "A story that will turn into a poem",
-        "url": "https://open.spotify.com/album/4pwFaLkL7sfjhD1O6IZPqF"
-      },
-      "artists": [
-        {
-          "name": "Shin Ji Hoon",
-          "url": "https://open.spotify.com/artist/0RpcAXbMHCcEEurjyHvuyg"
-        }
-      ],
-      "duration_ms": 193667,
-      "name": "moon river (2021)",
-      "url": "https://open.spotify.com/track/3PdER8czrfvUUjtEbvynjp"
-    },
-    {
-      "added_at": "2024-09-23 03:13:31",
-      "album": {
         "name": "Love Interference 2022 (Original Television Soundtrack), Pt.18",
         "url": "https://open.spotify.com/album/71vDmAH3pDMbqbE1pgP7gD"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 180638,
       "name": "\ube44\ubc00 \uc598\uae30\ub97c \ud558\uace0 \uc2f6\uc5b4",
       "url": "https://open.spotify.com/track/6SD7vuRnI22lQ2eoqUTowA"
+    },
+    {
+      "added_at": "2024-09-23 03:13:31",
+      "album": {
+        "name": "A story that will turn into a poem",
+        "url": "https://open.spotify.com/album/4pwFaLkL7sfjhD1O6IZPqF"
+      },
+      "artists": [
+        {
+          "name": "Shin Ji Hoon",
+          "url": "https://open.spotify.com/artist/0RpcAXbMHCcEEurjyHvuyg"
+        }
+      ],
+      "duration_ms": 193667,
+      "name": "moon river (2021)",
+      "url": "https://open.spotify.com/track/3PdER8czrfvUUjtEbvynjp"
     },
     {
       "added_at": "2024-09-23 03:13:31",

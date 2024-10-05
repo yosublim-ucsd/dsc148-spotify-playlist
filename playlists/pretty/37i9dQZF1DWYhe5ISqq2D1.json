@@ -1,6 +1,6 @@
 {
   "description": "\u305f\u3063\u305f\u72ec\u308a\u3067\u30e1\u30ed\u30c7\u30a3\u30fc\u3068\u8a00\u8449\u3092\u7d21\u3050\u30b7\u30f3\u30ac\u30fc\u30bd\u30f3\u30b0\u30e9\u30a4\u30bf\u30fc\u3002Cover: \u5bae\u672c\u6d69\u6b21",
-  "num_followers": 55699,
+  "num_followers": 55705,
   "original_name": "\u30d6\u30eb\u30fc\u306b\u3053\u3093\u304c\u3089\u304c\u3063\u3066",
   "owner": {
     "name": "Spotify",
@@ -623,18 +623,18 @@
     {
       "added_at": "2024-10-01 15:00:55",
       "album": {
-        "name": "\u6e80\u3061\u3066\u3086\u304f",
-        "url": "https://open.spotify.com/album/6eRVinhid9kY4g0A9nUh5W"
+        "name": "\u611b\u3068U",
+        "url": "https://open.spotify.com/album/3eSijTuKdOiOTjOWaK3Wpl"
       },
       "artists": [
         {
-          "name": "Fujii Kaze",
-          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
+          "name": "Mega Shinnosuke",
+          "url": "https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN"
         }
       ],
-      "duration_ms": 310997,
-      "name": "\u6e80\u3061\u3066\u3086\u304f",
-      "url": "https://open.spotify.com/track/5glPFBAuA1C85tBcVWVzvO"
+      "duration_ms": 202535,
+      "name": "\u611b\u3068U",
+      "url": "https://open.spotify.com/track/5fMsvYISKdM1pSSog4zfFJ"
     },
     {
       "added_at": "2024-10-01 15:00:55",
@@ -655,18 +655,18 @@
     {
       "added_at": "2024-10-01 15:00:55",
       "album": {
-        "name": "\u611b\u3068U",
-        "url": "https://open.spotify.com/album/3eSijTuKdOiOTjOWaK3Wpl"
+        "name": "\u6e80\u3061\u3066\u3086\u304f",
+        "url": "https://open.spotify.com/album/6eRVinhid9kY4g0A9nUh5W"
       },
       "artists": [
         {
-          "name": "Mega Shinnosuke",
-          "url": "https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN"
+          "name": "Fujii Kaze",
+          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
         }
       ],
-      "duration_ms": 202535,
-      "name": "\u611b\u3068U",
-      "url": "https://open.spotify.com/track/5fMsvYISKdM1pSSog4zfFJ"
+      "duration_ms": 310997,
+      "name": "\u6e80\u3061\u3066\u3086\u304f",
+      "url": "https://open.spotify.com/track/5glPFBAuA1C85tBcVWVzvO"
     },
     {
       "added_at": "2024-10-01 15:00:55",
@@ -719,22 +719,6 @@
     {
       "added_at": "2024-10-01 15:00:55",
       "album": {
-        "name": "\u82b1",
-        "url": "https://open.spotify.com/album/5ZV6rLgTmKi9xVJxLEPKcw"
-      },
-      "artists": [
-        {
-          "name": "Fujii Kaze",
-          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
-        }
-      ],
-      "duration_ms": 246699,
-      "name": "\u82b1",
-      "url": "https://open.spotify.com/track/5RIQU2JDuXC4NkLiHNNMon"
-    },
-    {
-      "added_at": "2024-10-01 15:00:55",
-      "album": {
         "name": "\u305a\u3046\u3063\u3068\u3044\u3063\u3057\u3087\uff01",
         "url": "https://open.spotify.com/album/0WcvYEwpmtLdlNsRNVeLU4"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 184500,
       "name": "\u305a\u3046\u3063\u3068\u3044\u3063\u3057\u3087\uff01",
       "url": "https://open.spotify.com/track/291j3B0q0RBJ15y3TRTzA5"
+    },
+    {
+      "added_at": "2024-10-01 15:00:55",
+      "album": {
+        "name": "\u82b1",
+        "url": "https://open.spotify.com/album/5ZV6rLgTmKi9xVJxLEPKcw"
+      },
+      "artists": [
+        {
+          "name": "Fujii Kaze",
+          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
+        }
+      ],
+      "duration_ms": 246699,
+      "name": "\u82b1",
+      "url": "https://open.spotify.com/track/5RIQU2JDuXC4NkLiHNNMon"
     },
     {
       "added_at": "2024-10-01 15:00:55",
@@ -831,22 +831,6 @@
     {
       "added_at": "2024-10-01 15:00:55",
       "album": {
-        "name": "HELP EVER HURT NEVER",
-        "url": "https://open.spotify.com/album/03QiFOKDh6xMiSTkOnsmMG"
-      },
-      "artists": [
-        {
-          "name": "Fujii Kaze",
-          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
-        }
-      ],
-      "duration_ms": 185573,
-      "name": "\u6b7b\u306c\u306e\u304c\u3044\u3044\u308f",
-      "url": "https://open.spotify.com/track/0HYAsQwJIO6FLqpyTeD3l6"
-    },
-    {
-      "added_at": "2024-10-01 15:00:55",
-      "album": {
         "name": "\u76f8\u601d\u76f8\u611b",
         "url": "https://open.spotify.com/album/7tkIHnzxBW5oulTr2ak1jl"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 260903,
       "name": "\u76f8\u601d\u76f8\u611b",
       "url": "https://open.spotify.com/track/01vIbnKIo9QDYeqSc7ecoi"
+    },
+    {
+      "added_at": "2024-10-01 15:00:55",
+      "album": {
+        "name": "HELP EVER HURT NEVER",
+        "url": "https://open.spotify.com/album/03QiFOKDh6xMiSTkOnsmMG"
+      },
+      "artists": [
+        {
+          "name": "Fujii Kaze",
+          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
+        }
+      ],
+      "duration_ms": 185573,
+      "name": "\u6b7b\u306c\u306e\u304c\u3044\u3044\u308f",
+      "url": "https://open.spotify.com/track/0HYAsQwJIO6FLqpyTeD3l6"
     },
     {
       "added_at": "2024-10-01 15:00:55",
@@ -911,22 +911,6 @@
     {
       "added_at": "2024-10-01 15:00:55",
       "album": {
-        "name": "grace",
-        "url": "https://open.spotify.com/album/0i6jJH5oVQh0KL8INSSPpu"
-      },
-      "artists": [
-        {
-          "name": "Fujii Kaze",
-          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
-        }
-      ],
-      "duration_ms": 289541,
-      "name": "grace",
-      "url": "https://open.spotify.com/track/7tnYsRepXLaNhqj4xtcWP2"
-    },
-    {
-      "added_at": "2024-10-01 15:00:55",
-      "album": {
         "name": "\u5168\u65b9\u5411\u7f8e\u5c11\u5973",
         "url": "https://open.spotify.com/album/20UD7L2sDC6sWOwYPBPnJl"
       },
@@ -943,18 +927,18 @@
     {
       "added_at": "2024-10-01 15:00:55",
       "album": {
-        "name": "SCIENCE FICTION",
-        "url": "https://open.spotify.com/album/0ZjFSIHLglwavZUgcCboJW"
+        "name": "grace",
+        "url": "https://open.spotify.com/album/0i6jJH5oVQh0KL8INSSPpu"
       },
       "artists": [
         {
-          "name": "Hikaru Utada",
-          "url": "https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2"
+          "name": "Fujii Kaze",
+          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
         }
       ],
-      "duration_ms": 308695,
-      "name": "traveling - Re-Recording",
-      "url": "https://open.spotify.com/track/4WZdUTYAUwMG63GCNA5jtk"
+      "duration_ms": 289541,
+      "name": "grace",
+      "url": "https://open.spotify.com/track/7tnYsRepXLaNhqj4xtcWP2"
     },
     {
       "added_at": "2024-10-01 15:00:55",
@@ -971,6 +955,22 @@
       "duration_ms": 264882,
       "name": "\u60f3\u671b",
       "url": "https://open.spotify.com/track/2jTXs5PwRmPRWyJQ4lKfIR"
+    },
+    {
+      "added_at": "2024-10-01 15:00:55",
+      "album": {
+        "name": "SCIENCE FICTION",
+        "url": "https://open.spotify.com/album/0ZjFSIHLglwavZUgcCboJW"
+      },
+      "artists": [
+        {
+          "name": "Hikaru Utada",
+          "url": "https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2"
+        }
+      ],
+      "duration_ms": 308695,
+      "name": "traveling - Re-Recording",
+      "url": "https://open.spotify.com/track/4WZdUTYAUwMG63GCNA5jtk"
     },
     {
       "added_at": "2024-10-01 15:00:55",
@@ -1039,8 +1039,8 @@
     {
       "added_at": "2024-10-01 15:00:55",
       "album": {
-        "name": "\u6bce\u65e5 - Every Day",
-        "url": "https://open.spotify.com/album/12lsaS3L0KUVHrEjJRP978"
+        "name": "LADY",
+        "url": "https://open.spotify.com/album/3VuokauXicAVtmjIhMCXeW"
       },
       "artists": [
         {
@@ -1048,9 +1048,9 @@
           "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
         }
       ],
-      "duration_ms": 182140,
-      "name": "\u6bce\u65e5 - Every Day",
-      "url": "https://open.spotify.com/track/6BBc24r3QbIP4Qt3gdUOtZ"
+      "duration_ms": 207166,
+      "name": "LADY",
+      "url": "https://open.spotify.com/track/7w6NWogvAAFdEhD9MA2uvv"
     },
     {
       "added_at": "2024-10-01 15:00:55",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2024-10-01 15:00:55",
       "album": {
-        "name": "\u30cf\u30df\u30f3\u30b0",
-        "url": "https://open.spotify.com/album/17eurvWkXobPOJpJZsrbLw"
-      },
-      "artists": [
-        {
-          "name": "Lilas Ikuta",
-          "url": "https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z"
-        }
-      ],
-      "duration_ms": 219130,
-      "name": "\u30cf\u30df\u30f3\u30b0",
-      "url": "https://open.spotify.com/track/17f50sZb2FwIeyh89It1qX"
-    },
-    {
-      "added_at": "2024-10-01 15:00:55",
-      "album": {
         "name": "Insomnia",
         "url": "https://open.spotify.com/album/3OWVzVs8Kkngnks5Or0WFZ"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 233866,
       "name": "Fallin",
       "url": "https://open.spotify.com/track/1tpk0IGfeMshahOQgQQWb5"
+    },
+    {
+      "added_at": "2024-10-01 15:00:55",
+      "album": {
+        "name": "\u30cf\u30df\u30f3\u30b0",
+        "url": "https://open.spotify.com/album/17eurvWkXobPOJpJZsrbLw"
+      },
+      "artists": [
+        {
+          "name": "Lilas Ikuta",
+          "url": "https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z"
+        }
+      ],
+      "duration_ms": 219130,
+      "name": "\u30cf\u30df\u30f3\u30b0",
+      "url": "https://open.spotify.com/track/17f50sZb2FwIeyh89It1qX"
     },
     {
       "added_at": "2024-10-01 15:00:55",
@@ -1247,18 +1247,18 @@
     {
       "added_at": "2024-10-01 15:00:55",
       "album": {
-        "name": "\u51e1\u624d",
-        "url": "https://open.spotify.com/album/2wKpub8y8xRkPboyfBvsEM"
+        "name": "V\u00e9randa",
+        "url": "https://open.spotify.com/album/0BuqNtULCov27tKzycHoWT"
       },
       "artists": [
         {
-          "name": "imase",
-          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
+          "name": "Tele",
+          "url": "https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf"
         }
       ],
-      "duration_ms": 168120,
-      "name": "Rainy Driver",
-      "url": "https://open.spotify.com/track/7svKQMA0pJZmeYejScMa3G"
+      "duration_ms": 203079,
+      "name": "V\u00e9randa",
+      "url": "https://open.spotify.com/track/6h5ndow0y3PdcW6nFsxLFz"
     },
     {
       "added_at": "2024-10-01 15:00:55",
@@ -1279,18 +1279,18 @@
     {
       "added_at": "2024-10-01 15:00:55",
       "album": {
-        "name": "V\u00e9randa",
-        "url": "https://open.spotify.com/album/0BuqNtULCov27tKzycHoWT"
+        "name": "\u51e1\u624d",
+        "url": "https://open.spotify.com/album/2wKpub8y8xRkPboyfBvsEM"
       },
       "artists": [
         {
-          "name": "Tele",
-          "url": "https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf"
+          "name": "imase",
+          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
         }
       ],
-      "duration_ms": 203079,
-      "name": "V\u00e9randa",
-      "url": "https://open.spotify.com/track/6h5ndow0y3PdcW6nFsxLFz"
+      "duration_ms": 168120,
+      "name": "Rainy Driver",
+      "url": "https://open.spotify.com/track/7svKQMA0pJZmeYejScMa3G"
     },
     {
       "added_at": "2024-10-01 15:00:55",
@@ -1311,18 +1311,18 @@
     {
       "added_at": "2024-10-01 15:00:55",
       "album": {
-        "name": "\u30a2\u30a4\u30ef\u30ca",
-        "url": "https://open.spotify.com/album/3JHCc7hNg1hHCcIQsF1xzM"
+        "name": "BANDAGE",
+        "url": "https://open.spotify.com/album/6n2pGYbSxV3RtXgJHcqMxz"
       },
       "artists": [
         {
-          "name": "\u51a8\u5ca1\u611b",
-          "url": "https://open.spotify.com/artist/28uwiPI48qGWTiPz6Zgnwi"
+          "name": "Ayumu Imazu",
+          "url": "https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM"
         }
       ],
-      "duration_ms": 230933,
-      "name": "\u30a2\u30a4\u30ef\u30ca",
-      "url": "https://open.spotify.com/track/1KsxzZxW14vwC3j8s68kUS"
+      "duration_ms": 188700,
+      "name": "BANDAGE",
+      "url": "https://open.spotify.com/track/14A4jC5UJzjqr8nWW5jFqe"
     },
     {
       "added_at": "2024-10-01 15:00:55",
@@ -1343,18 +1343,18 @@
     {
       "added_at": "2024-10-01 15:00:55",
       "album": {
-        "name": "BANDAGE",
-        "url": "https://open.spotify.com/album/6n2pGYbSxV3RtXgJHcqMxz"
+        "name": "\u30a2\u30a4\u30ef\u30ca",
+        "url": "https://open.spotify.com/album/3JHCc7hNg1hHCcIQsF1xzM"
       },
       "artists": [
         {
-          "name": "Ayumu Imazu",
-          "url": "https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM"
+          "name": "\u51a8\u5ca1\u611b",
+          "url": "https://open.spotify.com/artist/28uwiPI48qGWTiPz6Zgnwi"
         }
       ],
-      "duration_ms": 188700,
-      "name": "BANDAGE",
-      "url": "https://open.spotify.com/track/14A4jC5UJzjqr8nWW5jFqe"
+      "duration_ms": 230933,
+      "name": "\u30a2\u30a4\u30ef\u30ca",
+      "url": "https://open.spotify.com/track/1KsxzZxW14vwC3j8s68kUS"
     },
     {
       "added_at": "2024-10-01 15:00:55",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2024-10-01 15:00:55",
       "album": {
-        "name": "\u30ed\u30c3\u30af\u30b9\u30bf\u30fc",
-        "url": "https://open.spotify.com/album/3fR1I5UaWbiYzqNdSuEz3w"
-      },
-      "artists": [
-        {
-          "name": "Tele",
-          "url": "https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf"
-        }
-      ],
-      "duration_ms": 239625,
-      "name": "\u30ed\u30c3\u30af\u30b9\u30bf\u30fc",
-      "url": "https://open.spotify.com/track/52G3NGUareSbVOKplhjTeF"
-    },
-    {
-      "added_at": "2024-10-01 15:00:55",
-      "album": {
         "name": "replica",
         "url": "https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 222880,
       "name": "\u602a\u7363\u306e\u82b1\u5504 - replica -",
       "url": "https://open.spotify.com/track/26H7pT0IHTko0AA3A35S73"
+    },
+    {
+      "added_at": "2024-10-01 15:00:55",
+      "album": {
+        "name": "\u30ed\u30c3\u30af\u30b9\u30bf\u30fc",
+        "url": "https://open.spotify.com/album/3fR1I5UaWbiYzqNdSuEz3w"
+      },
+      "artists": [
+        {
+          "name": "Tele",
+          "url": "https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf"
+        }
+      ],
+      "duration_ms": 239625,
+      "name": "\u30ed\u30c3\u30af\u30b9\u30bf\u30fc",
+      "url": "https://open.spotify.com/track/52G3NGUareSbVOKplhjTeF"
     },
     {
       "added_at": "2024-10-01 15:00:55",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2024-10-01 15:00:55",
       "album": {
-        "name": "\u7b11\u3044\u8a71",
-        "url": "https://open.spotify.com/album/7pNGGFs7y4gRbyMJ1DYbno"
-      },
-      "artists": [
-        {
-          "name": "Tani Yuuki",
-          "url": "https://open.spotify.com/artist/0B1ce3uNrzkdm76NXI4mhX"
-        }
-      ],
-      "duration_ms": 247266,
-      "name": "\u7b11\u3044\u8a71",
-      "url": "https://open.spotify.com/track/4dQ2aTr0vgxc346TEhN8nO"
-    },
-    {
-      "added_at": "2024-10-01 15:00:55",
-      "album": {
         "name": "L4DY",
         "url": "https://open.spotify.com/album/45h4CMmgfsSyBoXWWLZoap"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 203937,
       "name": "\u30ab\u30fc\u30cb\u30d0\u30eb",
       "url": "https://open.spotify.com/track/5XGhwqu1TB391if1pD4lje"
+    },
+    {
+      "added_at": "2024-10-01 15:00:55",
+      "album": {
+        "name": "\u7b11\u3044\u8a71",
+        "url": "https://open.spotify.com/album/7pNGGFs7y4gRbyMJ1DYbno"
+      },
+      "artists": [
+        {
+          "name": "Tani Yuuki",
+          "url": "https://open.spotify.com/artist/0B1ce3uNrzkdm76NXI4mhX"
+        }
+      ],
+      "duration_ms": 247266,
+      "name": "\u7b11\u3044\u8a71",
+      "url": "https://open.spotify.com/track/4dQ2aTr0vgxc346TEhN8nO"
     },
     {
       "added_at": "2024-10-01 15:00:55",

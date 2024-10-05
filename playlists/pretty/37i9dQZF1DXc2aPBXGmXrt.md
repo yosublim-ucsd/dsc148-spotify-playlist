@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc2aPBXGmXrt.md) - [plain]
 
 > This is the essential Justin Bieber.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,122,419 likes - 77 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,123,423 likes - 77 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc2aPBXGmXrt.md) - [plain]
 | 34 | [Hailey](https://open.spotify.com/track/23EquxExXkNmGCCY96P0Iu) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Justice \- The Complete Edition](https://open.spotify.com/album/3uPnO1aZBwMgWK1DI5zve9) | 3:13 |
 | 35 | [up at night \(feat\. justin bieber\)](https://open.spotify.com/track/4WghJOMjDpGdlk3b8aJIgy) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [up at night \(feat\. justin bieber\)](https://open.spotify.com/album/3vnJxSrVldmInhRwtcUG89) | 3:02 |
 | 36 | [Essence \(feat\. Justin Bieber & Tems\)](https://open.spotify.com/track/1mSdbey7RstGLY2udgXv74) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Essence \(feat\. Justin Bieber & Tems\)](https://open.spotify.com/album/0Rn8NAh8NnoaCOt8r8Tc3e) | 4:23 |
-| 37 | [Angels Speak](https://open.spotify.com/track/5G99lkpldkHJx6o1Z37ts7) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Poo Bear](https://open.spotify.com/artist/3JXpwnHbLvXxY99EuXqFPX) | [Justice \- The Complete Edition](https://open.spotify.com/album/5v2lj0w9VJIbjcUUKYLvlo) | 3:51 |
+| 37 | [Angels Speak](https://open.spotify.com/track/5G99lkpldkHJx6o1Z37ts7) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Poo Bear](https://open.spotify.com/artist/3JXpwnHbLvXxY99EuXqFPX) | [Justice \(The Complete Edition\)](https://open.spotify.com/album/5v2lj0w9VJIbjcUUKYLvlo) | 3:51 |
 | 38 | [Friends \(with BloodPop®\)](https://open.spotify.com/track/7nZmah2llfvLDiUjm0kiyz) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [BloodPop®](https://open.spotify.com/artist/1okJ4NC308qbtY9LyHn6DO) | [Friends \(with BloodPop®\)](https://open.spotify.com/album/6VABPTmDOYrO5cfyKZk7F7) | 3:09 |
 | 39 | [Confident](https://open.spotify.com/track/5Isz0twJeFdduOQEFQLezv) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [Journals](https://open.spotify.com/album/7Cz0XcQzoxUi7L7sfgXLml) | 4:08 |
 | 40 | [I Don't Care \(with Justin Bieber\)](https://open.spotify.com/track/3HVWdVOQ0ZA45FuZGSfvns) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [I Don't Care \(with Justin Bieber\)](https://open.spotify.com/album/5Nux7ozBJ5KJ02QYWwrneR) | 3:39 |

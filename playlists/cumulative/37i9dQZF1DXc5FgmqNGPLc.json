@@ -1287,6 +1287,36 @@
     },
     {
       "album": {
+        "name": "Isotope (Live)",
+        "url": "https://open.spotify.com/album/2xII9ItURggn4o709YPigf"
+      },
+      "artists": [
+        {
+          "name": "McCoy Tyner",
+          "url": "https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr"
+        },
+        {
+          "name": "Joe Henderson",
+          "url": "https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt"
+        },
+        {
+          "name": "Henry Grimes",
+          "url": "https://open.spotify.com/artist/30OxEKhUI8LpORvCp14lr3"
+        },
+        {
+          "name": "Jack DeJohnette",
+          "url": "https://open.spotify.com/artist/7rDjbKTLlpNYJRWMm7QVxU"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 423205,
+      "name": "Isotope - Live",
+      "url": "https://open.spotify.com/track/7u7yYw9nNUfGl9ax63rVLV"
+    },
+    {
+      "album": {
         "name": "Art Blakey",
         "url": "https://open.spotify.com/album/6mQz7swTvd0JzIDEdjZC7a"
       },
@@ -1404,7 +1434,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 876131,
       "name": "Latino Suite - Live",
       "url": "https://open.spotify.com/track/39d6rn4ftwAGaEOjDVqDdg"

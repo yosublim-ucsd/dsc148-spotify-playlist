@@ -1,12 +1,12 @@
 {
   "description": "The UK's biggest rock playlist. Cover: Circa Waves",
-  "num_followers": 786704,
+  "num_followers": 786674,
   "original_name": "The Rock List",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zv8h8AAAAACDCcu8KVOYlJY5H+rgTX9l",
+  "snapshot_id": "ZwALKQAAAADv+NljetLGFE9m+gYkVvpz",
   "tracks": [
     {
       "added_at": "2024-10-03 23:00:00",
@@ -471,6 +471,22 @@
       "duration_ms": 162066,
       "name": "Motoroller",
       "url": "https://open.spotify.com/track/3qPzVN8VgE4SSCQRs0AadM"
+    },
+    {
+      "added_at": "2024-10-03 23:00:00",
+      "album": {
+        "name": "Vienna (Everything\u2019s Fine)",
+        "url": "https://open.spotify.com/album/47wbE9QX926Oc3UIFAnKFQ"
+      },
+      "artists": [
+        {
+          "name": "Vienna Vienna",
+          "url": "https://open.spotify.com/artist/5ZVQRC3rtUNBJVrrrSl17r"
+        }
+      ],
+      "duration_ms": 177035,
+      "name": "Vienna (Everything\u2019s Fine)",
+      "url": "https://open.spotify.com/track/4MZkA1wOfqYclYkQt7MUEd"
     },
     {
       "added_at": "2024-10-03 23:00:00",
@@ -1103,22 +1119,6 @@
       "duration_ms": 168625,
       "name": "Teach Me To Be Bad",
       "url": "https://open.spotify.com/track/7qstwlAVvc8l9e0dcMneKn"
-    },
-    {
-      "added_at": "2024-10-03 23:00:00",
-      "album": {
-        "name": "Vienna (Everything\u2019s Fine)",
-        "url": "https://open.spotify.com/album/47wbE9QX926Oc3UIFAnKFQ"
-      },
-      "artists": [
-        {
-          "name": "Vienna Vienna",
-          "url": "https://open.spotify.com/artist/5ZVQRC3rtUNBJVrrrSl17r"
-        }
-      ],
-      "duration_ms": 177035,
-      "name": "Vienna (Everything\u2019s Fine)",
-      "url": "https://open.spotify.com/track/4MZkA1wOfqYclYkQt7MUEd"
     },
     {
       "added_at": "2024-10-03 23:00:00",

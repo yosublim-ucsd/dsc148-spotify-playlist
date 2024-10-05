@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 
 > 
 
-[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 16 likes - 1,735 songs - 3 day 21 hr 12 min
+[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 16 likes - 1,739 songs - 3 day 21 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1743,5 +1743,9 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 | 1733 | [Drive Me Crazy](https://open.spotify.com/track/6pAXFjQ0ijR51A6PZg7NSo) | [HETZKINEN](https://open.spotify.com/artist/6bERDnPnoFBo4ERukfbtuj) | [Drive Me Crazy](https://open.spotify.com/album/5mPX2fFLEcKb7jkvzxXZd0) | 2:53 |
 | 1734 | [Deepest Truth](https://open.spotify.com/track/1mPGgEenAV0pMLAdWOINax) | [WHØAMI](https://open.spotify.com/artist/1QoGCFi0O4ldlVJSZEijnw), [Hard Instruction](https://open.spotify.com/artist/21TDOQY5YjnoGhYRPGGbtT) | [Deepest Truth](https://open.spotify.com/album/2GZHATjTUn0AxHGmnbUqqp) | 2:46 |
 | 1735 | [PAWAH](https://open.spotify.com/track/3T0hSTxBMiTBNixd06uOM5) | [XELOR](https://open.spotify.com/artist/7zeYC3nZZmMDw4HevcqDEf) | [PAWAH](https://open.spotify.com/album/7Lf6bdivyBqYbs8ebxbulo) | 2:08 |
+| 1736 | [Angelcore](https://open.spotify.com/track/2zlqOFxvFRv8A020h8CBCe) | [BEL AIR WITCH](https://open.spotify.com/artist/5ehyiszRBoCkewPb1mTN6x) | [Bat Outta Hell](https://open.spotify.com/album/6phYV7gVkALNx9lUykh9kG) | 3:16 |
+| 1737 | [TECHNO GENERATION](https://open.spotify.com/track/0IOE3L2vjgwGelpNkcxnBW) | [Water Spirit](https://open.spotify.com/artist/6kDrYhgzsmoiuwHbzWgA41) | [WAREHOUSE TAPES](https://open.spotify.com/album/6T43Smob7g3y3c07tGOMaG) | 2:46 |
+| 1738 | [Down Low](https://open.spotify.com/track/7uHs6HMb42GyRZ5WVsY6Ra) | [Fahjah](https://open.spotify.com/artist/7LjoOGD9rMWkR8clGUu2Id), [Oing](https://open.spotify.com/artist/2u5jpW3Xbb26uME8g5ixiB) | [Down Low](https://open.spotify.com/album/2vrXkjvERniroEr8z178xX) | 2:16 |
+| 1739 | [Bad Boys](https://open.spotify.com/track/6zxFESuVGHEDmOM2C6ZxYX) | [CHYL](https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc), [LML](https://open.spotify.com/artist/1GgUppN5pnZT1SnOz28M3P) | [Sweat EP](https://open.spotify.com/album/0U2NbGuTdiq2Tt89fLtKVS) | 2:27 |
 
-Snapshot ID: `AAAG9F10YKH8Z0CSyyGdf0FyDbvcSJ02`
+Snapshot ID: `AAAG+Cgx96BMVes7vR5C1IT4Y0IxyB0T`

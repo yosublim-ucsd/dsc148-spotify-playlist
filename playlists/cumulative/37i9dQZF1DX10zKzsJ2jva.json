@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Today's top Latin hits, elevando nuestra m\u00fasica. Cover: Rauw Alejandro ",
+  "description": "Today's top Latin hits, elevando nuestra m\u00fasica. Cover: Omar Courtz",
   "name": "Viva Latino",
   "tracks": [
     {
@@ -710,7 +710,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 184806,
       "name": "APAGA EL CEL",
       "url": "https://open.spotify.com/track/4yyCGGdTVaYG17vhsrUPoL"
@@ -2091,6 +2091,28 @@
     },
     {
       "album": {
+        "name": "De La Zona M\u00e1s Extrema",
+        "url": "https://open.spotify.com/album/0pltYSAofttoCfgKleLKoH"
+      },
+      "artists": [
+        {
+          "name": "Pailita",
+          "url": "https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb"
+        },
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "CINTURITA",
+      "url": "https://open.spotify.com/track/4vXvk2iDdn26POy12Uj5F7"
+    },
+    {
+      "album": {
         "name": "CLASSY 101",
         "url": "https://open.spotify.com/album/4jtQUtS4ABgER3DnGfKJCv"
       },
@@ -2423,6 +2445,28 @@
     },
     {
       "album": {
+        "name": "No Hay Loco Que No Corone",
+        "url": "https://open.spotify.com/album/5eRGBk1uRevmtq1A9R2HS0"
+      },
+      "artists": [
+        {
+          "name": "El Bogueto",
+          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
+        },
+        {
+          "name": "Yung Beef",
+          "url": "https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211084,
+      "name": "Cuando No Era Cantante",
+      "url": "https://open.spotify.com/track/3d0er23tJIl1H2j8ZvtDww"
+    },
+    {
+      "album": {
         "name": "Cuando Te Vi | CROSSOVER #5",
         "url": "https://open.spotify.com/album/5B3AaoOK8o22cYkdoBOVFI"
       },
@@ -2554,6 +2598,28 @@
       "duration_ms": 165019,
       "name": "DANCE CRIP",
       "url": "https://open.spotify.com/track/1kjs5eR4DMzyB0gm1Z8waV"
+    },
+    {
+      "album": {
+        "name": "LA REINA DEL REGGAETON MEXICANO: TOMO I: La chica de las poes\u00edas",
+        "url": "https://open.spotify.com/album/1R1vycz825HAGn6wZIJe7F"
+      },
+      "artists": [
+        {
+          "name": "Bellakath",
+          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
+        },
+        {
+          "name": "Dani Flow",
+          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136285,
+      "name": "DANONINO",
+      "url": "https://open.spotify.com/track/4pqXzba0vyVasbDJDDQByK"
     },
     {
       "album": {
@@ -3091,6 +3157,28 @@
     },
     {
       "album": {
+        "name": "Duro De Verdad pt.2",
+        "url": "https://open.spotify.com/album/3c8T88YKC08bsaZiuY2KoA"
+      },
+      "artists": [
+        {
+          "name": "Los Sufridos",
+          "url": "https://open.spotify.com/artist/2tmrdVbpFzIVIOcqxvErj2"
+        },
+        {
+          "name": "Bad Gyal",
+          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204303,
+      "name": "Duro De Verdad pt.2",
+      "url": "https://open.spotify.com/track/0glj70T9fN3kyJzYmTKzy1"
+    },
+    {
+      "album": {
         "name": "D\u00e9jame Entrar",
         "url": "https://open.spotify.com/album/4pCMKyLuqd20WbpISwfmVe"
       },
@@ -3102,7 +3190,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 254705,
       "name": "D\u00e9jame Entrar",
       "url": "https://open.spotify.com/track/3TlghSCu53YEUigL9RuqnU"
@@ -4221,6 +4309,24 @@
     },
     {
       "album": {
+        "name": "Frente al Mar",
+        "url": "https://open.spotify.com/album/0Wf0E2diHQJRdkPR12BcXs"
+      },
+      "artists": [
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165178,
+      "name": "Frente al Mar",
+      "url": "https://open.spotify.com/track/60u6hcpH5Qm1M3xESdNBrB"
+    },
+    {
+      "album": {
         "name": "FRESITA",
         "url": "https://open.spotify.com/album/2OgjZsEsqgnD0JjjyKMQ9Z"
       },
@@ -4798,7 +4904,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 105836,
       "name": "HAY LUPITA",
       "url": "https://open.spotify.com/track/5jFA0f4ZDGLbQP4nxzL8D4"
@@ -4992,7 +5098,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 198495,
       "name": "Hoy",
       "url": "https://open.spotify.com/track/0SoBfYjQHvL6cuWHtPUYnq"
@@ -5284,6 +5390,24 @@
       "duration_ms": 154626,
       "name": "Kaleidosc\u00f3pica",
       "url": "https://open.spotify.com/track/6M1qcLBhSBIDMmC9wprnLK"
+    },
+    {
+      "album": {
+        "name": "KINTSUGI",
+        "url": "https://open.spotify.com/album/2icg5AKoqW4jWW9vdkENlZ"
+      },
+      "artists": [
+        {
+          "name": "HUMBE",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237908,
+      "name": "KINTSUGI",
+      "url": "https://open.spotify.com/track/1qbql17v0Hazo94o5RUyWQ"
     },
     {
       "album": {
@@ -7836,7 +7960,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 157453,
       "name": "Mirame",
       "url": "https://open.spotify.com/track/2btNsI4OvcVl7SAHQQDHFB"
@@ -9943,6 +10067,28 @@
     },
     {
       "album": {
+        "name": "PRIMERA MUSA",
+        "url": "https://open.spotify.com/album/3C5uwdRE5QRoXSGPPxpDd4"
+      },
+      "artists": [
+        {
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+        },
+        {
+          "name": "De La Rose",
+          "url": "https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224022,
+      "name": "Q U E V A S H A C E R H O Y ?",
+      "url": "https://open.spotify.com/track/0Sr7ssScx54yxdM2ols7nW"
+    },
+    {
+      "album": {
         "name": "MA\u00d1ANA SER\u00c1 BONITO (BICHOTA SEASON)",
         "url": "https://open.spotify.com/album/1f2q2JQ3GFwIrWch2JLC0u"
       },
@@ -10286,7 +10432,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 145342,
       "name": "REAL GANGSTA LOVE",
       "url": "https://open.spotify.com/track/1pymWRCuZfCd0zdiBJo0Hj"
@@ -10956,7 +11102,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 247468,
       "name": "SERIO CON ESE Q",
       "url": "https://open.spotify.com/track/4kCGXKoHyfvpSF535X4Z4p"
@@ -12900,7 +13046,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 300000,
       "name": "Vaquero - Remix",
       "url": "https://open.spotify.com/track/7l3UuUZEqvxjhKYD2QBxOU"
@@ -13446,6 +13592,24 @@
       "duration_ms": 176458,
       "name": "Ya acab\u00f3 - Con Becky G",
       "url": "https://open.spotify.com/track/0OPiOIAyw2FUjKm8PXBGhq"
+    },
+    {
+      "album": {
+        "name": "Ya No Pienso en Ti (Spotify Singles)",
+        "url": "https://open.spotify.com/album/1Hi1oyOSYXYCmNDtoW6SzA"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187350,
+      "name": "Ya No Pienso en Ti - Spotify Singles",
+      "url": "https://open.spotify.com/track/0MlstFQR7Ak6k60xelYcz8"
     },
     {
       "album": {

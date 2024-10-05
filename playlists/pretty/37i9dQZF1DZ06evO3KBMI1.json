@@ -1,12 +1,12 @@
 {
   "description": "This is UVERworld. The essential tracks, all in one playlist.",
-  "num_followers": 71575,
+  "num_followers": 71587,
   "original_name": "This Is UVERworld",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvyNAAAAAADK6q2Jc58CrKiOyC9SNeX+",
+  "snapshot_id": "Zv3egAAAAACE9JtIj3GVponix+pENV/G",
   "tracks": [
     {
       "added_at": null,
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
         }
       ],
-      "duration_ms": 265040,
-      "name": "IMPACT",
-      "url": "https://open.spotify.com/track/5lwgvPvJy36aZRsqeOtm7C"
+      "duration_ms": 255706,
+      "name": "Fight For Liberty(album ver.)",
+      "url": "https://open.spotify.com/track/1r2OVpl2e5mVDApfqDzY9I"
     },
     {
       "added_at": null,
@@ -452,25 +452,9 @@
           "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
         }
       ],
-      "duration_ms": 255706,
-      "name": "Fight For Liberty(album ver.)",
-      "url": "https://open.spotify.com/track/1r2OVpl2e5mVDApfqDzY9I"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "MEMORIES of the End",
-        "url": "https://open.spotify.com/album/0Om3YDAvdvlZoCOcL7SLoa"
-      },
-      "artists": [
-        {
-          "name": "UVERworld",
-          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
-        }
-      ],
-      "duration_ms": 139211,
-      "name": "MEMORIES of the End",
-      "url": "https://open.spotify.com/track/2Ph8GBGglY86MJGnW9t4I0"
+      "duration_ms": 265040,
+      "name": "IMPACT",
+      "url": "https://open.spotify.com/track/5lwgvPvJy36aZRsqeOtm7C"
     },
     {
       "added_at": null,
@@ -491,8 +475,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "30",
-        "url": "https://open.spotify.com/album/3AWTTsNwOcoRXH5l2VDFg7"
+        "name": "MEMORIES of the End",
+        "url": "https://open.spotify.com/album/0Om3YDAvdvlZoCOcL7SLoa"
       },
       "artists": [
         {
@@ -500,9 +484,9 @@
           "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
         }
       ],
-      "duration_ms": 305320,
-      "name": "EN",
-      "url": "https://open.spotify.com/track/4uJWArBtdW2vclttyV2eCB"
+      "duration_ms": 139211,
+      "name": "MEMORIES of the End",
+      "url": "https://open.spotify.com/track/2Ph8GBGglY86MJGnW9t4I0"
     },
     {
       "added_at": null,
@@ -519,6 +503,22 @@
       "duration_ms": 289933,
       "name": "REVERSI",
       "url": "https://open.spotify.com/track/7HiAUL9h0px38LjWchaeR2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "30",
+        "url": "https://open.spotify.com/album/3AWTTsNwOcoRXH5l2VDFg7"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "duration_ms": 305320,
+      "name": "EN",
+      "url": "https://open.spotify.com/track/4uJWArBtdW2vclttyV2eCB"
     },
     {
       "added_at": null,

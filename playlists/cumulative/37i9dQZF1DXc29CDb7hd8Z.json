@@ -2791,6 +2791,24 @@
     },
     {
       "album": {
+        "name": "Vendaval",
+        "url": "https://open.spotify.com/album/4uEePaWttHHNAJffGzSrQB"
+      },
+      "artists": [
+        {
+          "name": "Ismael Pinkler",
+          "url": "https://open.spotify.com/artist/3EDLCEnPXba2OItpKW1Drx"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159428,
+      "name": "Vendaval",
+      "url": "https://open.spotify.com/track/6zh6wcyml9eVcwdHyocRHX"
+    },
+    {
+      "album": {
         "name": "Vindheks",
         "url": "https://open.spotify.com/album/6FClmHVEARb7TGeckSKLAF"
       },

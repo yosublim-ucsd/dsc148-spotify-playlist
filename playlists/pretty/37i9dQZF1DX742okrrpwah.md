@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 
 > Kendji Girac au top des nouveautés de la semaine !
 
-[Spotify](https://open.spotify.com/user/spotify) - 352,199 likes - 84 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 352,262 likes - 84 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Le choix](https://open.spotify.com/track/4tkBNgVQCddAdgY1GDwTLn) | [Kendji Girac](https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF) | [Vivre...](https://open.spotify.com/album/5gpwMpxd66j2WAmGcyiWXQ) | 2:48 |
 | 2 | [ALL MY LOVE](https://open.spotify.com/track/6iYxkBHyMpsgVxUgfy5fSx) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Moon Music](https://open.spotify.com/album/5SGtrmYbIo0Dsg4kJ4qjM6) | 3:42 |
-| 3 | [Pétunia](https://open.spotify.com/track/4csiR0voWHzg46BFnQZ0kp) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh) | [Pétunia](https://open.spotify.com/album/1xF3GugX1r1Jj3xsljohcv) | 3:30 |
+| 3 | [Pétunias](https://open.spotify.com/track/4csiR0voWHzg46BFnQZ0kp) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh) | [Pétunias](https://open.spotify.com/album/1xF3GugX1r1Jj3xsljohcv) | 3:31 |
 | 4 | [Whisper](https://open.spotify.com/track/7Ex7Re4Xqf6ZK4E42CA2GY) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Whisper](https://open.spotify.com/album/5PGxqp0RXnRFH8lK1EY3Ku) | 3:14 |
 | 5 | [Quitte](https://open.spotify.com/track/0dYX1WMinCmUTwkRY7WEC4) | [Ouidad](https://open.spotify.com/artist/7lPt4PyRpBvznm3LDZW1El) | [Il était une fois](https://open.spotify.com/album/6C8PoyDBrHfl7DQ7ZrLo6l) | 3:18 |
 | 6 | [Moonlit Floor](https://open.spotify.com/track/3yDRcs0Y4pPzkvMbUfeF9H) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Moonlit Floor](https://open.spotify.com/album/2F84s5tvr9RSS6VI772mVb) | 2:35 |

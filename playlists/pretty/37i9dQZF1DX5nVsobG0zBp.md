@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5nVsobG0zBp.md) - [plain]
 
 > Os maiores hits do rap português dos últimos anos\. Foto: Dillaz
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,908 likes - 80 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,947 likes - 80 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,18 +46,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5nVsobG0zBp.md) - [plain]
 | 36 | [Miúda](https://open.spotify.com/track/1DHQcaZMENKPt8KBQgIr25) | [Holly Hood](https://open.spotify.com/artist/3DOJU0CqEqSdfFIMGiykRv) | [Miúda](https://open.spotify.com/album/2v9VGSs5HQpvLRP37avwtr) | 2:48 |
 | 37 | [Lingerie](https://open.spotify.com/track/2Cq6yIgdyyaDmY7pvnADVP) | [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6) | [Lingerie](https://open.spotify.com/album/2SopLfpjAF0IespcnP6LG0) | 3:34 |
 | 38 | [00 Fala Bonito](https://open.spotify.com/track/3ZJC7xO1GdWF5rj8VqXU2C) | [Papillon](https://open.spotify.com/artist/0Mum6waR8P9WICLVTpSi1d) | [00 Fala Bonito](https://open.spotify.com/album/0y2uZwLfbyL1FCwjmMb5Iv) | 3:32 |
-| 39 | [Coração](https://open.spotify.com/track/1dmgHNSeYDyqb6TwLatTfc) | [GROGNation](https://open.spotify.com/artist/1rtrFjartQj3xws8TZ1dXu) | [Anatomia de GROG](https://open.spotify.com/album/333cuKMpbc1kaTufa6Uu2y) | 4:42 |
+| 39 | [Louco](https://open.spotify.com/track/5RPewmKIUL2vWtQLI0Qp1F) | [Piruka](https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC), [Bluay](https://open.spotify.com/artist/18jB1ZnaJSWmro1ExvqZo4) | [Louco](https://open.spotify.com/album/78k1xD0ZE4Me5Tj19SeO6D) | 4:04 |
 | 40 | [TRIBUNAL](https://open.spotify.com/track/31sUabnuTnFAM7rjMzKtfN) | [ProfJam](https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP), [João Maia Ferreira](https://open.spotify.com/artist/2XWfm5Ts8pvNzZMENVZ65I) | [SYSTEM](https://open.spotify.com/album/4KzFk5taogXKJkKmFnt0D1) | 4:06 |
-| 41 | [Louco](https://open.spotify.com/track/5RPewmKIUL2vWtQLI0Qp1F) | [Piruka](https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC), [Bluay](https://open.spotify.com/artist/18jB1ZnaJSWmro1ExvqZo4) | [Louco](https://open.spotify.com/album/78k1xD0ZE4Me5Tj19SeO6D) | 4:04 |
+| 41 | [Coração](https://open.spotify.com/track/1dmgHNSeYDyqb6TwLatTfc) | [GROGNation](https://open.spotify.com/artist/1rtrFjartQj3xws8TZ1dXu) | [Anatomia de GROG](https://open.spotify.com/album/333cuKMpbc1kaTufa6Uu2y) | 4:42 |
 | 42 | [Picareta](https://open.spotify.com/track/29aqbuYYooVNgqzcOKhwbK) | [Deejay Telio](https://open.spotify.com/artist/7BWNRZyZ9mhgp5t0m7Ny0n), [Savanah](https://open.spotify.com/artist/3tl4oPzp0yYMwLEmRFv0vT), [Rennan da Penha](https://open.spotify.com/artist/7ecRwFks8F2vYad383BkKf) | [Picareta](https://open.spotify.com/album/15YD41R1flYldYjEQ7QAu3) | 2:43 |
 | 43 | [Bolero](https://open.spotify.com/track/7mdE30Ov4in9UOCUcQiIK0) | [X\-Tense](https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF), [Los Cavakitos](https://open.spotify.com/artist/3maUA3E2H0Yyugw8MsEeJi) | [Bolero](https://open.spotify.com/album/5rRtrYZiRhOcj6WDD4BhuT) | 4:20 |
 | 44 | [Placas](https://open.spotify.com/track/79jG5WlRWMQbp0JeQO9r6K) | [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY), [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Placas](https://open.spotify.com/album/0pTCFWtiniY7Mi4nQpFVvn) | 3:32 |
 | 45 | [NUVENS](https://open.spotify.com/track/3H2mIbO0hTjEwZsTbeUj4G) | [LEO2745](https://open.spotify.com/artist/1MBezd5OaoWoOTQVs16FOx) | [NUVENS](https://open.spotify.com/album/1e01W4bZ9pbHawTp1XZkBb) | 2:37 |
 | 46 | [Stunka](https://open.spotify.com/track/6GetYj6tnZOw6HgoEhb4du) | [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6) | [Stunka](https://open.spotify.com/album/2obSOKa79b0NKNZyVccaIf) | 3:08 |
-| 47 | [Let You Go](https://open.spotify.com/track/2Z8pPatBfVlRqNlsnmMdhV) | [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS) | [Let You Go](https://open.spotify.com/album/75YlSkZGyWUGB1BzPd9Egz) | 3:24 |
+| 47 | [Marselha](https://open.spotify.com/track/0O3Tiq9SgdndTbIzYs6UYc) | [Zara G](https://open.spotify.com/artist/7gem2HsdUnIMlGuhZT22Sb) | [Marselha](https://open.spotify.com/album/1NxzgAT3Mhcb5ek0zxdhUj) | 3:08 |
 | 48 | [À Vontade \(feat\. Fínix MG\)](https://open.spotify.com/track/68VCmJEV8PFoOPGE1ALxtM) | [ProfJam](https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP), [Fínix MG](https://open.spotify.com/artist/7dwz1nJE4Twe22y0rnYg8u) | [\#FFFFFF](https://open.spotify.com/album/4OltHlGzkBCjBkbWtJyO5E) | 5:36 |
 | 49 | [Desconfinamento](https://open.spotify.com/track/2uaceelHxzFYnhLec89RpE) | [Deejay Telio](https://open.spotify.com/artist/7BWNRZyZ9mhgp5t0m7Ny0n) | [Desconfinamento](https://open.spotify.com/album/2gelzQflEo0NtA8xE7pHlI) | 3:06 |
-| 50 | [Marselha](https://open.spotify.com/track/0O3Tiq9SgdndTbIzYs6UYc) | [Zara G](https://open.spotify.com/artist/7gem2HsdUnIMlGuhZT22Sb) | [Marselha](https://open.spotify.com/album/1NxzgAT3Mhcb5ek0zxdhUj) | 3:08 |
+| 50 | [Let You Go](https://open.spotify.com/track/2Z8pPatBfVlRqNlsnmMdhV) | [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS) | [Let You Go](https://open.spotify.com/album/75YlSkZGyWUGB1BzPd9Egz) | 3:24 |
 | 51 | [Tranquilo](https://open.spotify.com/track/1fobXPCu47gikLMIoyQBLy) | [Aragão](https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4) | [Tranquilo](https://open.spotify.com/album/1qhBvfD0i324wwBlU0QZxD) | 4:23 |
 | 52 | [Dama & Vagabundo](https://open.spotify.com/track/2u1LLm7B1yUggZfMyaZjk9) | [X\-Tense](https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF) | [Dama & Vagabundo](https://open.spotify.com/album/4BKUmz50VANU1McCxFG9oM) | 5:13 |
 | 53 | [Trovador](https://open.spotify.com/track/2wAFMaA47CNXOTSsVJA52j) | [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Trovador](https://open.spotify.com/album/42OhyOM28LEkgu9J9jrahn) | 3:46 |

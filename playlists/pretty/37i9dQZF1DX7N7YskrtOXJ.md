@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7N7YskrtOXJ.md) - [plain]
 
 > La fiesta se enciende con cumbia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,120 likes - 100 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,181 likes - 100 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7N7YskrtOXJ.md) - [plain]
 | 37 | [Un Hombre No Llora](https://open.spotify.com/track/3i78S2Cm2V66QGkohxsqBD) | [Grupo Zúmbale Primo](https://open.spotify.com/artist/7hwlbJCUBQksiqlloB6x9K) | [Un Hombre No Llora](https://open.spotify.com/album/5d0LrF2Sr4MTPomdDSglYI) | 5:00 |
 | 38 | [Loca](https://open.spotify.com/track/7nqJSKq4bLSU5np1UKQl6f) | [Chico Trujillo](https://open.spotify.com/artist/6Hs8U0JO2nacXFG4kp15Co) | [Plato Único Bailable](https://open.spotify.com/album/14cao29REfwt7L3liH4hQh) | 3:08 |
 | 39 | [Que Nadie Se Entere](https://open.spotify.com/track/41BuYNd5IMSmDV7m6aNb8J) | [La Noche](https://open.spotify.com/artist/74RYbbIHke18VFvcsP2iD9) | [Amor Entre Sábanas](https://open.spotify.com/album/0TKpSJvxQTxePOFcN9Tj50) | 3:01 |
-| 40 | [Mujeres y Cerveza](https://open.spotify.com/track/0u8Xjs6MaShfUSZ5XAEoaO) | [Grupo Alegria](https://open.spotify.com/artist/5j0zxJF926wIDiCXMmJGkg) | [Somos Parte de Tu Vida](https://open.spotify.com/album/6t4VfXgbfFiQ32V69loQ5K) | 4:24 |
-| 41 | [MALAMOR](https://open.spotify.com/track/3ZIVIlbw9n449bKyN5vKJN) | [Santaferia](https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o), [Los Vasquez](https://open.spotify.com/artist/3GlN5joOPb7aAQVJLSPpJx), [Arte Elegante](https://open.spotify.com/artist/1F6ZW5IEGN0HB9LTtldRq0) | [MALAMOR](https://open.spotify.com/album/6fZ6AwMDQCb2TR5Iw6JiWK) | 3:18 |
+| 40 | [MALAMOR](https://open.spotify.com/track/3ZIVIlbw9n449bKyN5vKJN) | [Santaferia](https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o), [Los Vasquez](https://open.spotify.com/artist/3GlN5joOPb7aAQVJLSPpJx), [Arte Elegante](https://open.spotify.com/artist/1F6ZW5IEGN0HB9LTtldRq0) | [MALAMOR](https://open.spotify.com/album/6fZ6AwMDQCb2TR5Iw6JiWK) | 3:18 |
+| 41 | [Mujeres y Cerveza](https://open.spotify.com/track/0u8Xjs6MaShfUSZ5XAEoaO) | [Grupo Alegria](https://open.spotify.com/artist/5j0zxJF926wIDiCXMmJGkg) | [Somos Parte de Tu Vida](https://open.spotify.com/album/6t4VfXgbfFiQ32V69loQ5K) | 4:24 |
 | 42 | [Se Te Ve la Tanga](https://open.spotify.com/track/3GUMMzUB7Kk0BSqxEDyieS) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV) | [El Bonaerense](https://open.spotify.com/album/5A0jz6qj9yuxVpQxahbC0x) | 4:23 |
 | 43 | [Yo Me Enamore](https://open.spotify.com/track/6pHggeQk3ZnOm10uAnsqAG) | [Amar Azul](https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg) | [Cumbia Nena](https://open.spotify.com/album/0bD7aJOQVENKQFq0ayzh9y) | 3:07 |
 | 44 | [La resaka](https://open.spotify.com/track/12rV4fh9cnftIXXmTtjhhI) | [Supermerk2](https://open.spotify.com/artist/3coKfYwV0ppdzD65z1cu3i) | [La Lata](https://open.spotify.com/album/5FiOEoJn43wbtD6aqLrQqP) | 3:34 |
@@ -104,8 +104,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7N7YskrtOXJ.md) - [plain]
 | 94 | [Borracho y Loco](https://open.spotify.com/track/48ZmRcUdWGJrzn1xfMEHup) | [El Bloque 8](https://open.spotify.com/artist/6nX2IctRER6z2UkUmJvpE9) | [Amor y Caos](https://open.spotify.com/album/4dxLAaULsk0CzzHbkM5sqX) | 3:14 |
 | 95 | [Acercate MI Amor](https://open.spotify.com/track/0drMB4P0bjoRrSQTKKlpkx) | [Amerika'n Sound](https://open.spotify.com/artist/497ma3Q1UnHPhvRQKyoxW2) | [Onda Tropical](https://open.spotify.com/album/0dErpFspzQ1Zunqh7esrEu) | 4:15 |
 | 96 | [Huellas de Amor](https://open.spotify.com/track/6ITmr6F8sjiR7OzdI6wpxC) | [Grupo Hechizo](https://open.spotify.com/artist/2j7cp8QCujOktjxUXuNou3) | [De Fiesta Con Hechizo](https://open.spotify.com/album/1UCUQHysKjFuB9yz9k7otf) | 3:29 |
-| 97 | [El Casorio](https://open.spotify.com/track/2S8HP57phymdKP3rzMoZRr) | [Banda Conmoción](https://open.spotify.com/artist/2UNMW1OKE0X1cwJHWER67g) | [Cuerpo Repartido](https://open.spotify.com/album/6nInC3tIJkiTcnw0gWeCi5) | 2:34 |
-| 98 | [Tengo Luquita](https://open.spotify.com/track/3EYGVS7euI1GTiYkKBOSfk) | [Juanafé](https://open.spotify.com/artist/5CE7PcyVcEKMSuQA4IHF7d) | [La Makinita](https://open.spotify.com/album/24xH6aou2of5sYqDhMjkZL) | 3:43 |
+| 97 | [Tengo Luquita](https://open.spotify.com/track/3EYGVS7euI1GTiYkKBOSfk) | [Juanafé](https://open.spotify.com/artist/5CE7PcyVcEKMSuQA4IHF7d) | [La Makinita](https://open.spotify.com/album/24xH6aou2of5sYqDhMjkZL) | 3:43 |
+| 98 | [El Casorio](https://open.spotify.com/track/2S8HP57phymdKP3rzMoZRr) | [Banda Conmoción](https://open.spotify.com/artist/2UNMW1OKE0X1cwJHWER67g) | [Cuerpo Repartido](https://open.spotify.com/album/6nInC3tIJkiTcnw0gWeCi5) | 2:34 |
 | 99 | [Bombón Asesino](https://open.spotify.com/track/1L1OiIKida2TyKsb310EAg) | [Combo Ginebra](https://open.spotify.com/artist/2L5b3yHGpn7RQi4wd3vcU2) | [Cumbias de Sangre y Oro](https://open.spotify.com/album/1pxG4hB9LuTke7H7GnrBtm) | 4:06 |
 | 100 | [Ritmo Loco](https://open.spotify.com/track/2j8FwsqiF5QkfxjOszg9G0) | [D'Latin Sound](https://open.spotify.com/artist/3yiRkpXCOrmggFKe5I8FDU) | [El Sonido Inconfundible](https://open.spotify.com/album/58pWXPdguofh0hAAXzbVqr) | 3:10 |
 

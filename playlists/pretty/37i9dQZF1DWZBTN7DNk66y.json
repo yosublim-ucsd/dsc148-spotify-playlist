@@ -1,6 +1,6 @@
 {
   "description": "El nuevo sonido de la canci\u00f3n sudamericana de la mano de Julieta Rada & iLe.",
-  "num_followers": 25978,
+  "num_followers": 25979,
   "original_name": "Voces del Sur",
   "owner": {
     "name": "Spotify",
@@ -263,6 +263,26 @@
     {
       "added_at": "2024-09-06 03:00:00",
       "album": {
+        "name": "El Viejo",
+        "url": "https://open.spotify.com/album/5p7kLopaRQvub9x68Tk8Bk"
+      },
+      "artists": [
+        {
+          "name": "Ruben Rada",
+          "url": "https://open.spotify.com/artist/5AfGpwSbYKelc5nJjUVRmb"
+        },
+        {
+          "name": "Sebasti\u00e1n Teysera",
+          "url": "https://open.spotify.com/artist/4TidDyz02XtlA9d32j1ZYK"
+        }
+      ],
+      "duration_ms": 209261,
+      "name": "El Viejo",
+      "url": "https://open.spotify.com/track/3ugyzwRwTTIKGkfKPFbmD5"
+    },
+    {
+      "added_at": "2024-09-06 03:00:00",
+      "album": {
         "name": "Vuelve",
         "url": "https://open.spotify.com/album/523A7IjwBmOfIAk0xh3DUx"
       },
@@ -283,26 +303,6 @@
       "duration_ms": 275551,
       "name": "Vuelve",
       "url": "https://open.spotify.com/track/5BsKfH1KSogiWBUA93Ovbp"
-    },
-    {
-      "added_at": "2024-09-06 03:00:00",
-      "album": {
-        "name": "El Viejo",
-        "url": "https://open.spotify.com/album/5p7kLopaRQvub9x68Tk8Bk"
-      },
-      "artists": [
-        {
-          "name": "Ruben Rada",
-          "url": "https://open.spotify.com/artist/5AfGpwSbYKelc5nJjUVRmb"
-        },
-        {
-          "name": "Sebasti\u00e1n Teysera",
-          "url": "https://open.spotify.com/artist/4TidDyz02XtlA9d32j1ZYK"
-        }
-      ],
-      "duration_ms": 209261,
-      "name": "El Viejo",
-      "url": "https://open.spotify.com/track/3ugyzwRwTTIKGkfKPFbmD5"
     },
     {
       "added_at": "2024-09-06 03:00:00",
@@ -471,22 +471,6 @@
     {
       "added_at": "2024-09-06 03:00:00",
       "album": {
-        "name": "La Certeza del Dolor",
-        "url": "https://open.spotify.com/album/5gfClqWkBhwUB6bButZCQ5"
-      },
-      "artists": [
-        {
-          "name": "Mocchi",
-          "url": "https://open.spotify.com/artist/2PIR7IOatY3R48U74ypBez"
-        }
-      ],
-      "duration_ms": 212203,
-      "name": "Nadie me lo ense\u00f1\u00f3",
-      "url": "https://open.spotify.com/track/63bPI8iRqgeljqnydlAoUl"
-    },
-    {
-      "added_at": "2024-09-06 03:00:00",
-      "album": {
         "name": "Los Ojos del Coraz\u00f3n",
         "url": "https://open.spotify.com/album/4WTFgsaQUZMEeCprqxxH4b"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 231038,
       "name": "Barquito de Papel",
       "url": "https://open.spotify.com/track/69i2pr9PTrJ8rIT9sjnPlj"
+    },
+    {
+      "added_at": "2024-09-06 03:00:00",
+      "album": {
+        "name": "La Certeza del Dolor",
+        "url": "https://open.spotify.com/album/5gfClqWkBhwUB6bButZCQ5"
+      },
+      "artists": [
+        {
+          "name": "Mocchi",
+          "url": "https://open.spotify.com/artist/2PIR7IOatY3R48U74ypBez"
+        }
+      ],
+      "duration_ms": 212203,
+      "name": "Nadie me lo ense\u00f1\u00f3",
+      "url": "https://open.spotify.com/track/63bPI8iRqgeljqnydlAoUl"
     },
     {
       "added_at": "2024-09-06 03:00:00",
@@ -783,22 +783,6 @@
     {
       "added_at": "2024-09-06 03:00:00",
       "album": {
-        "name": "S\u00e1banas Azules",
-        "url": "https://open.spotify.com/album/2VR2qofaUSX0gWdZS436e6"
-      },
-      "artists": [
-        {
-          "name": "Pascuala Ilabaca y Fauna",
-          "url": "https://open.spotify.com/artist/6nf17XGXCx2PSgkhPYjSIA"
-        }
-      ],
-      "duration_ms": 177000,
-      "name": "S\u00e1banas Azules",
-      "url": "https://open.spotify.com/track/2gCqFVyb4QGHe0ZxrKsDYf"
-    },
-    {
-      "added_at": "2024-09-06 03:00:00",
-      "album": {
         "name": "Sendero",
         "url": "https://open.spotify.com/album/5rxlC79Jn0KgMI3OjSvlZ9"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 233385,
       "name": "Sendero",
       "url": "https://open.spotify.com/track/2e1ooE2q2Oiflu6wmCbwqG"
+    },
+    {
+      "added_at": "2024-09-06 03:00:00",
+      "album": {
+        "name": "S\u00e1banas Azules",
+        "url": "https://open.spotify.com/album/2VR2qofaUSX0gWdZS436e6"
+      },
+      "artists": [
+        {
+          "name": "Pascuala Ilabaca y Fauna",
+          "url": "https://open.spotify.com/artist/6nf17XGXCx2PSgkhPYjSIA"
+        }
+      ],
+      "duration_ms": 177000,
+      "name": "S\u00e1banas Azules",
+      "url": "https://open.spotify.com/track/2gCqFVyb4QGHe0ZxrKsDYf"
     },
     {
       "added_at": "2024-09-06 03:00:00",
@@ -939,6 +939,22 @@
     {
       "added_at": "2024-09-06 03:00:00",
       "album": {
+        "name": "Porte\u00f1a",
+        "url": "https://open.spotify.com/album/1Cw28qlsCwgIBYnhgqEyzC"
+      },
+      "artists": [
+        {
+          "name": "Pascuala Ilabaca y Fauna",
+          "url": "https://open.spotify.com/artist/6nf17XGXCx2PSgkhPYjSIA"
+        }
+      ],
+      "duration_ms": 254829,
+      "name": "Malagradecida",
+      "url": "https://open.spotify.com/track/6ttA706vqyxFWRbq0zoL8x"
+    },
+    {
+      "added_at": "2024-09-06 03:00:00",
+      "album": {
         "name": "Del otro lado de la vidriera",
         "url": "https://open.spotify.com/album/36b4FRKLtMv0Z75NCtoOZP"
       },
@@ -959,38 +975,6 @@
     {
       "added_at": "2024-09-06 03:00:00",
       "album": {
-        "name": "Las Luces Que Estaban Ocultas [en vivo]",
-        "url": "https://open.spotify.com/album/1hC1FBKykJyHC2oNyq1Zxo"
-      },
-      "artists": [
-        {
-          "name": "Juana Aguirre",
-          "url": "https://open.spotify.com/artist/0BqnaIeIaSncq1NPK4kpD2"
-        }
-      ],
-      "duration_ms": 324000,
-      "name": "configuracionesonduladas_17.11.23_nicetoclub_bsas",
-      "url": "https://open.spotify.com/track/50lK2pEB7EDDczjUfKHT5b"
-    },
-    {
-      "added_at": "2024-09-06 03:00:00",
-      "album": {
-        "name": "Porte\u00f1a",
-        "url": "https://open.spotify.com/album/1Cw28qlsCwgIBYnhgqEyzC"
-      },
-      "artists": [
-        {
-          "name": "Pascuala Ilabaca y Fauna",
-          "url": "https://open.spotify.com/artist/6nf17XGXCx2PSgkhPYjSIA"
-        }
-      ],
-      "duration_ms": 254829,
-      "name": "Malagradecida",
-      "url": "https://open.spotify.com/track/6ttA706vqyxFWRbq0zoL8x"
-    },
-    {
-      "added_at": "2024-09-06 03:00:00",
-      "album": {
         "name": "Pecho Jard\u00edn",
         "url": "https://open.spotify.com/album/7bA5CbHjNftxr0NvL9nrGc"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 282990,
       "name": "Pecho Jard\u00edn",
       "url": "https://open.spotify.com/track/2lG6Uab6jE44w5PPQKTRC7"
+    },
+    {
+      "added_at": "2024-09-06 03:00:00",
+      "album": {
+        "name": "Las Luces Que Estaban Ocultas [en vivo]",
+        "url": "https://open.spotify.com/album/1hC1FBKykJyHC2oNyq1Zxo"
+      },
+      "artists": [
+        {
+          "name": "Juana Aguirre",
+          "url": "https://open.spotify.com/artist/0BqnaIeIaSncq1NPK4kpD2"
+        }
+      ],
+      "duration_ms": 324000,
+      "name": "configuracionesonduladas_17.11.23_nicetoclub_bsas",
+      "url": "https://open.spotify.com/track/50lK2pEB7EDDczjUfKHT5b"
     },
     {
       "added_at": "2024-09-06 03:00:00",
@@ -1319,22 +1319,18 @@
     {
       "added_at": "2024-09-06 03:00:00",
       "album": {
-        "name": "Traviarca",
-        "url": "https://open.spotify.com/album/0snvLqi4RB3CSATwu9M51v"
+        "name": "Neblina",
+        "url": "https://open.spotify.com/album/6dngwatQVHIHJ3GWmxJLvM"
       },
       "artists": [
         {
-          "name": "Susy Shock",
-          "url": "https://open.spotify.com/artist/7cSEm0IEhlSHyPx0rXC6oY"
-        },
-        {
-          "name": "La Bandada de Colibr\u00edes",
-          "url": "https://open.spotify.com/artist/7uke62HqZX7Jn6Del1PkKO"
+          "name": "Camila y Silvio",
+          "url": "https://open.spotify.com/artist/7q4O9IJOztG7Oa2MF4ODlX"
         }
       ],
-      "duration_ms": 233418,
-      "name": "Tan Solo Canci\u00f3n",
-      "url": "https://open.spotify.com/track/1nbibeTKZP76Tkokx5Enl7"
+      "duration_ms": 191339,
+      "name": "Neblina",
+      "url": "https://open.spotify.com/track/3udPLpECugI0SJhvVOez3X"
     },
     {
       "added_at": "2024-09-06 03:00:00",
@@ -1359,18 +1355,22 @@
     {
       "added_at": "2024-09-06 03:00:00",
       "album": {
-        "name": "Neblina",
-        "url": "https://open.spotify.com/album/6dngwatQVHIHJ3GWmxJLvM"
+        "name": "Traviarca",
+        "url": "https://open.spotify.com/album/0snvLqi4RB3CSATwu9M51v"
       },
       "artists": [
         {
-          "name": "Camila y Silvio",
-          "url": "https://open.spotify.com/artist/7q4O9IJOztG7Oa2MF4ODlX"
+          "name": "Susy Shock",
+          "url": "https://open.spotify.com/artist/7cSEm0IEhlSHyPx0rXC6oY"
+        },
+        {
+          "name": "La Bandada de Colibr\u00edes",
+          "url": "https://open.spotify.com/artist/7uke62HqZX7Jn6Del1PkKO"
         }
       ],
-      "duration_ms": 191339,
-      "name": "Neblina",
-      "url": "https://open.spotify.com/track/3udPLpECugI0SJhvVOez3X"
+      "duration_ms": 233418,
+      "name": "Tan Solo Canci\u00f3n",
+      "url": "https://open.spotify.com/track/1nbibeTKZP76Tkokx5Enl7"
     },
     {
       "added_at": "2024-09-06 03:00:00",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2024-09-06 03:00:00",
       "album": {
-        "name": "FR\u00c1GIL",
-        "url": "https://open.spotify.com/album/0HzJ9p25CxxmrntNPch3Qz"
-      },
-      "artists": [
-        {
-          "name": "Juan Cottet",
-          "url": "https://open.spotify.com/artist/2c3DwX82qvgVH4HBtnP5N4"
-        }
-      ],
-      "duration_ms": 209482,
-      "name": "Frascuelo",
-      "url": "https://open.spotify.com/track/6Ls9qttIRWBG4hLDZK7kku"
-    },
-    {
-      "added_at": "2024-09-06 03:00:00",
-      "album": {
         "name": "Las palabras que no sientes",
         "url": "https://open.spotify.com/album/4lZuwyxexe4p1YPxtgUmuR"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 148339,
       "name": "Las palabras que no sientes",
       "url": "https://open.spotify.com/track/0L35bVS6euGPgrVPPYW8wW"
+    },
+    {
+      "added_at": "2024-09-06 03:00:00",
+      "album": {
+        "name": "FR\u00c1GIL",
+        "url": "https://open.spotify.com/album/0HzJ9p25CxxmrntNPch3Qz"
+      },
+      "artists": [
+        {
+          "name": "Juan Cottet",
+          "url": "https://open.spotify.com/artist/2c3DwX82qvgVH4HBtnP5N4"
+        }
+      ],
+      "duration_ms": 209482,
+      "name": "Frascuelo",
+      "url": "https://open.spotify.com/track/6Ls9qttIRWBG4hLDZK7kku"
     },
     {
       "added_at": "2024-09-06 03:00:00",
@@ -1463,6 +1463,22 @@
     {
       "added_at": "2024-09-06 03:00:00",
       "album": {
+        "name": "El rey del yuyal",
+        "url": "https://open.spotify.com/album/3YmKNf3CiCG381ZvxJwkCk"
+      },
+      "artists": [
+        {
+          "name": "Pens\u00e9 que era viernes",
+          "url": "https://open.spotify.com/artist/4ItV8u3CWrnoo4D8JEHXk1"
+        }
+      ],
+      "duration_ms": 174857,
+      "name": "El rey del yuyal",
+      "url": "https://open.spotify.com/track/37q1oUFGyp0Uh8L8kArkym"
+    },
+    {
+      "added_at": "2024-09-06 03:00:00",
+      "album": {
         "name": "Me Late",
         "url": "https://open.spotify.com/album/0Mkxb8rknAgLlrwqv9XdFv"
       },
@@ -1483,22 +1499,6 @@
       "duration_ms": 206737,
       "name": "Me Late",
       "url": "https://open.spotify.com/track/4bJb1IiYdxU8tQLlRdnqtu"
-    },
-    {
-      "added_at": "2024-09-06 03:00:00",
-      "album": {
-        "name": "El rey del yuyal",
-        "url": "https://open.spotify.com/album/3YmKNf3CiCG381ZvxJwkCk"
-      },
-      "artists": [
-        {
-          "name": "Pens\u00e9 que era viernes",
-          "url": "https://open.spotify.com/artist/4ItV8u3CWrnoo4D8JEHXk1"
-        }
-      ],
-      "duration_ms": 174857,
-      "name": "El rey del yuyal",
-      "url": "https://open.spotify.com/track/37q1oUFGyp0Uh8L8kArkym"
     },
     {
       "added_at": "2024-09-06 03:00:00",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2024-09-06 03:00:00",
       "album": {
-        "name": "Inflexion (En Vivo)",
-        "url": "https://open.spotify.com/album/7uikRUekVt8PqpdM5Q6ZOB"
-      },
-      "artists": [
-        {
-          "name": "An Espil",
-          "url": "https://open.spotify.com/artist/0GEBrC42d3MZT2LpDPh2qt"
-        }
-      ],
-      "duration_ms": 228789,
-      "name": "Inflexion - En Vivo",
-      "url": "https://open.spotify.com/track/6SttmMPiIprbCMIBW9iW5U"
-    },
-    {
-      "added_at": "2024-09-06 03:00:00",
-      "album": {
         "name": "Duele la pena",
         "url": "https://open.spotify.com/album/3waHdfO9Z0jzpDRXwiOLLl"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 234452,
       "name": "Duele la pena",
       "url": "https://open.spotify.com/track/1eSuXXud0DDeKwIu3gC4l4"
+    },
+    {
+      "added_at": "2024-09-06 03:00:00",
+      "album": {
+        "name": "Inflexion (En Vivo)",
+        "url": "https://open.spotify.com/album/7uikRUekVt8PqpdM5Q6ZOB"
+      },
+      "artists": [
+        {
+          "name": "An Espil",
+          "url": "https://open.spotify.com/artist/0GEBrC42d3MZT2LpDPh2qt"
+        }
+      ],
+      "duration_ms": 228789,
+      "name": "Inflexion - En Vivo",
+      "url": "https://open.spotify.com/track/6SttmMPiIprbCMIBW9iW5U"
     },
     {
       "added_at": "2024-09-06 03:00:00",

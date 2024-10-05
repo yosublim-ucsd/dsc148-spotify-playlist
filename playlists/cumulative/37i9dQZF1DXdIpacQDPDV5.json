@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "The best of today's dance hits. Cover: Jamie xx",
+  "description": "The best of today's dance hits. Cover: Caribou",
   "name": "mint Canada",
   "tracks": [
     {
@@ -3513,6 +3513,24 @@
     },
     {
       "album": {
+        "name": "BROKEN",
+        "url": "https://open.spotify.com/album/1aHlFkhxyz1Yxmb7sgQh24"
+      },
+      "artists": [
+        {
+          "name": "Ela Minus",
+          "url": "https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271435,
+      "name": "BROKEN",
+      "url": "https://open.spotify.com/track/3n4FkCfKlscDqYPMcTBdXm"
+    },
+    {
+      "album": {
         "name": "Burning (feat. Camden Cox)",
         "url": "https://open.spotify.com/album/6sWssLrwhCrk3kGjzwJ9ZV"
       },
@@ -4437,6 +4455,24 @@
     },
     {
       "album": {
+        "name": "COLLECT THE COMMAS",
+        "url": "https://open.spotify.com/album/6AVl6czEyN0v5GRaeCr4WY"
+      },
+      "artists": [
+        {
+          "name": "PAWSA",
+          "url": "https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221339,
+      "name": "COLLECT THE COMMAS",
+      "url": "https://open.spotify.com/track/5e3NwBC0E6xjX9c1Uc8RHy"
+    },
+    {
+      "album": {
         "name": "Come Around Again",
         "url": "https://open.spotify.com/album/312M1zzN7C2Vqd0VeORTMC"
       },
@@ -4742,6 +4778,28 @@
       "duration_ms": 251862,
       "name": "Criminal",
       "url": "https://open.spotify.com/track/1wlsLLlTQjtqBvrPbKXHXd"
+    },
+    {
+      "album": {
+        "name": "ORIGIN (Deluxe)",
+        "url": "https://open.spotify.com/album/72wRkJIO27W7JPUEQ0r3sK"
+      },
+      "artists": [
+        {
+          "name": "Frank Walker",
+          "url": "https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq"
+        },
+        {
+          "name": "Alexander Stewart",
+          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187675,
+      "name": "Crossfire",
+      "url": "https://open.spotify.com/track/2M9g1BMhqVT51XpDw1gThu"
     },
     {
       "album": {
@@ -8184,7 +8242,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 246093,
       "name": "Feel Your Love",
       "url": "https://open.spotify.com/track/4DnB00FZV87InpyIip2sN6"
@@ -8398,7 +8456,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 237160,
       "name": "Find The Way",
       "url": "https://open.spotify.com/track/0f7ROOquhmSpNgbBeWh0hn"
@@ -9424,7 +9482,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 140606,
       "name": "Get You Down (feat. Francis Waves)",
       "url": "https://open.spotify.com/track/2NCukcbTFBI8M2wnguauqC"
@@ -9919,6 +9977,24 @@
     },
     {
       "album": {
+        "name": "Honey",
+        "url": "https://open.spotify.com/album/4c7fP0tUymaZcrEFIeIeZc"
+      },
+      "artists": [
+        {
+          "name": "Caribou",
+          "url": "https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191065,
+      "name": "Got To Change",
+      "url": "https://open.spotify.com/track/5JVQ5aBwl7QQYIaqzzM7BH"
+    },
+    {
+      "album": {
         "name": "Got What U Need (feat. MELLY OHH)",
         "url": "https://open.spotify.com/album/4IhXKu4TOSmYb9xA986wad"
       },
@@ -10058,7 +10134,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 143330,
       "name": "Guess featuring Billie Eilish",
       "url": "https://open.spotify.com/track/3WOhcATHxK2SLNeP5W3v1v"
@@ -11040,6 +11116,24 @@
       "duration_ms": 216000,
       "name": "Higher",
       "url": "https://open.spotify.com/track/4Kt3Epl5VGwmVE0rBqtJpS"
+    },
+    {
+      "album": {
+        "name": "Higher Resolution (Side A)",
+        "url": "https://open.spotify.com/album/7LUegyOtLkGwKalcns60bK"
+      },
+      "artists": [
+        {
+          "name": "Kasablanca",
+          "url": "https://open.spotify.com/artist/297Z0teiCkp5s9eneWROpI"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252445,
+      "name": "Higher Resolution",
+      "url": "https://open.spotify.com/track/0ug5wwLfnUImBQEw8sJs6r"
     },
     {
       "album": {
@@ -18500,7 +18594,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 211313,
       "name": "No Gravity (feat. Bava)",
       "url": "https://open.spotify.com/track/6r4ual3l2rTXnxp6T8WM1g"
@@ -20455,6 +20549,28 @@
     },
     {
       "album": {
+        "name": "People Were Dancing",
+        "url": "https://open.spotify.com/album/2Bqlcyqq8UerhVB18B1Kcq"
+      },
+      "artists": [
+        {
+          "name": "Keys N Krates",
+          "url": "https://open.spotify.com/artist/6c1pBXHYjFcGQQNO5MMsdd"
+        },
+        {
+          "name": "Rimarkable",
+          "url": "https://open.spotify.com/artist/4t1z5s4veUPuhIwzvAvTle"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223384,
+      "name": "People Are Dancing",
+      "url": "https://open.spotify.com/track/4N15M6bfYDbjtQF2jHXn1J"
+    },
+    {
+      "album": {
         "name": "Perfect Melody",
         "url": "https://open.spotify.com/album/5dnpfIyc6hbO2HO5bIaj6L"
       },
@@ -20770,6 +20886,28 @@
       "duration_ms": 182082,
       "name": "Plans",
       "url": "https://open.spotify.com/track/2t7FZW08Xrs7Y5FXDQtOt9"
+    },
+    {
+      "album": {
+        "name": "Spiritual Driveby",
+        "url": "https://open.spotify.com/album/2aQjGvSZNLgf4tuMADUeqr"
+      },
+      "artists": [
+        {
+          "name": "Sara Landry",
+          "url": "https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK"
+        },
+        {
+          "name": "Shl\u00f8mo",
+          "url": "https://open.spotify.com/artist/0ZdNs1hU6aAiaZxvFbtDWF"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218882,
+      "name": "Play With Me",
+      "url": "https://open.spotify.com/track/6PrPWf02VxGUd2jJLs9z1M"
     },
     {
       "album": {
@@ -23368,7 +23506,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 179016,
       "name": "Set My Heart On Fire (I'm Alive x And The Beat Goes On)",
       "url": "https://open.spotify.com/track/33oyHkoS7H92RWsecOKn6u"
@@ -28127,6 +28265,24 @@
     },
     {
       "album": {
+        "name": "two",
+        "url": "https://open.spotify.com/album/1ooRAUPQgUixYyS8yHLirr"
+      },
+      "artists": [
+        {
+          "name": "bbno$",
+          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135212,
+      "name": "two",
+      "url": "https://open.spotify.com/track/18ENCZw5lQc10UwwFiH1QK"
+    },
+    {
+      "album": {
         "name": "Annual 2021",
         "url": "https://open.spotify.com/album/66cSCYHzE9eWbgtICJ7ceI"
       },
@@ -28778,7 +28934,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 185077,
       "name": "Waiting (feat. Shirazee)",
       "url": "https://open.spotify.com/track/1zUMm0pbhIlAFowmHgZbuf"
@@ -30268,7 +30424,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 263879,
       "name": "Without You (with HAYLA)",
       "url": "https://open.spotify.com/track/5KW4qNLjWeh7rMbxCfg89N"

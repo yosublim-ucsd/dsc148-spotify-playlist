@@ -2161,6 +2161,32 @@
     },
     {
       "album": {
+        "name": "909 Worldwide Presents: beat go fun!!",
+        "url": "https://open.spotify.com/album/3Ji77z0h3j5zPYbywwortj"
+      },
+      "artists": [
+        {
+          "name": "umru",
+          "url": "https://open.spotify.com/artist/2Ub06wAIR1hERODcCkKhzx"
+        },
+        {
+          "name": "DJH",
+          "url": "https://open.spotify.com/artist/3WgUHWrtChAtmsFqAIgkiF"
+        },
+        {
+          "name": "Ravenna Golden",
+          "url": "https://open.spotify.com/artist/27Od4Wz93nItXglC5t5GuC"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191901,
+      "name": "All This Time",
+      "url": "https://open.spotify.com/track/1fFhVrkJQqWoSxtynaXCxV"
+    },
+    {
+      "album": {
         "name": "RENAISSANCE",
         "url": "https://open.spotify.com/album/3ctW8o8ABBCNWWkdIvEGgV"
       },
@@ -3074,7 +3100,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 261502,
       "name": "Atrophies",
       "url": "https://open.spotify.com/track/5xgM9AY0lgeMmOPG63zk89"
@@ -3202,6 +3228,24 @@
       "duration_ms": 194705,
       "name": "b2b heartbeat",
       "url": "https://open.spotify.com/track/0zstVWxwHcN2U78di5ElDE"
+    },
+    {
+      "album": {
+        "name": "Babestation",
+        "url": "https://open.spotify.com/album/2qW4x5XJJbyvUmQd5XeMph"
+      },
+      "artists": [
+        {
+          "name": "Babymorocco",
+          "url": "https://open.spotify.com/artist/6EyzBjjCPBP7s5W8d3wMOe"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115611,
+      "name": "Babestation",
+      "url": "https://open.spotify.com/track/7nT8JIqqQeWQDO9CVgqXb5"
     },
     {
       "album": {
@@ -6127,6 +6171,28 @@
     },
     {
       "album": {
+        "name": "Soul Kiss",
+        "url": "https://open.spotify.com/album/4qcwB8667roNvwKlij2Z0M"
+      },
+      "artists": [
+        {
+          "name": "HARU NEMURI",
+          "url": "https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT"
+        },
+        {
+          "name": "Frost Children",
+          "url": "https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207146,
+      "name": "Burn",
+      "url": "https://open.spotify.com/track/2rGmDOHWb9zLND3x8gegMy"
+    },
+    {
+      "album": {
         "name": "Bury It (Alice Longyu Gao Remix)",
         "url": "https://open.spotify.com/album/180xOHbxZqHlCOVl0IBQRX"
       },
@@ -6716,7 +6782,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 157209,
       "name": "Celestial Kiss",
       "url": "https://open.spotify.com/track/0BeYfKg45UTONeA65CSxGR"
@@ -7980,7 +8046,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 172437,
       "name": "Comme un nuage",
       "url": "https://open.spotify.com/track/6Jz8MjddBYbMCAxa35gutV"
@@ -8824,7 +8890,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 199026,
       "name": "Daijoubu Desu",
       "url": "https://open.spotify.com/track/7oSpZgUtuqjGlCOckaPZI2"
@@ -8918,7 +8984,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 143319,
       "name": "dancinwithsomebawdy",
       "url": "https://open.spotify.com/track/5v7oj9PosKdE39x9uwDs6C"
@@ -10234,7 +10300,7 @@
       ],
       "date_added": "2024-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 181800,
       "name": "Don't Leave",
       "url": "https://open.spotify.com/track/1sRBnzf4Pc6u0gxZfLw5OT"
@@ -11250,7 +11316,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 172082,
       "name": "Elk Skin",
       "url": "https://open.spotify.com/track/34gdkFDYWeqyqr8u7KSrWD"
@@ -11706,6 +11772,24 @@
       "duration_ms": 111360,
       "name": "Every Summer",
       "url": "https://open.spotify.com/track/1lz2s7GiXZcMypSpMCkjmJ"
+    },
+    {
+      "album": {
+        "name": "Everybody Worldwide",
+        "url": "https://open.spotify.com/album/0fJXUwr5v6bJhT5cRSqHd4"
+      },
+      "artists": [
+        {
+          "name": "Two Shell",
+          "url": "https://open.spotify.com/artist/4mcHKwboFDmpDBQ4fiOrf3"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183749,
+      "name": "Everybody Worldwide",
+      "url": "https://open.spotify.com/track/3yYVvyE09OeA8vBNkX3dCv"
     },
     {
       "album": {
@@ -16266,7 +16350,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 200128,
       "name": "Hand on my heart",
       "url": "https://open.spotify.com/track/0ttpRUqY7S9LfMPnbZjrXq"
@@ -17240,7 +17324,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 152000,
       "name": "higher",
       "url": "https://open.spotify.com/track/7diyCFL8chcY1REunXR18F"
@@ -17466,7 +17550,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 153913,
       "name": "Holoban",
       "url": "https://open.spotify.com/track/0hjJoQN4xIsUQr5tJU6mTM"
@@ -18310,7 +18394,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 198000,
       "name": "I Could Be",
       "url": "https://open.spotify.com/track/1ZU7GUU8JcEOVHbzil5peO"
@@ -18418,7 +18502,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 120314,
       "name": "i don't really feel it anymore",
       "url": "https://open.spotify.com/track/64BVFo2bwfmgrQOSH32Inl"
@@ -18620,7 +18704,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 110784,
       "name": "I Know",
       "url": "https://open.spotify.com/track/5abQLQCkP7scCOzRzS9DUZ"
@@ -21502,7 +21586,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 227401,
       "name": "KLK",
       "url": "https://open.spotify.com/track/2ZFu40Ik8VsUE9H87W0MmZ"
@@ -22319,6 +22403,24 @@
     },
     {
       "album": {
+        "name": "LET ME IN",
+        "url": "https://open.spotify.com/album/1K5HbKJKASHAqunUFc8A2J"
+      },
+      "artists": [
+        {
+          "name": "CG5",
+          "url": "https://open.spotify.com/artist/3YJDqtTSjydvUpTvU1fJ6O"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107817,
+      "name": "LET ME IN",
+      "url": "https://open.spotify.com/track/3BH1bCV8rKSRLRtXr7B7CT"
+    },
+    {
+      "album": {
         "name": "recovery girl (deluxe edition)",
         "url": "https://open.spotify.com/album/7IhZtbHfEcLfL6f4oBVyAd"
       },
@@ -22508,7 +22610,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 157814,
       "name": "like that",
       "url": "https://open.spotify.com/track/0ssYuHAIV6Lmni0uCpPtda"
@@ -25832,7 +25934,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 128000,
       "name": "n'est-ce pas",
       "url": "https://open.spotify.com/track/7izUG1EE2B2XqMDWANyIFG"
@@ -26430,7 +26532,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 153910,
       "name": "No Fun",
       "url": "https://open.spotify.com/track/1h4DGomolQ2UwJFFUWJzjP"
@@ -26528,7 +26630,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 140221,
       "name": "No Service",
       "url": "https://open.spotify.com/track/5kCdBZHfHuAsSrU8hF9wF2"
@@ -26684,7 +26786,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 124601,
       "name": "Nostalgia",
       "url": "https://open.spotify.com/track/4ZFDyyJ4wvJKf916pZDMWR"
@@ -26796,10 +26898,32 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 189272,
       "name": "Not There Anymore",
       "url": "https://open.spotify.com/track/2Hmx7yWUpz9bNJg1tE6A28"
+    },
+    {
+      "album": {
+        "name": "Not Today",
+        "url": "https://open.spotify.com/album/3ox0xiZ6HzyaqJGIOtDQGA"
+      },
+      "artists": [
+        {
+          "name": "Theresa Rex",
+          "url": "https://open.spotify.com/artist/6t9tbRO9Lv6Oq6xtVwfdrn"
+        },
+        {
+          "name": "Kinck",
+          "url": "https://open.spotify.com/artist/3WIqCpjYUrR2Bt9rFYNaej"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152307,
+      "name": "Not Today",
+      "url": "https://open.spotify.com/track/1SZsYBh7WbcGGt2gUT4vHx"
     },
     {
       "album": {
@@ -27008,7 +27132,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 136615,
       "name": "Numb",
       "url": "https://open.spotify.com/track/1l30iVFhCTB6lSWup9CpxA"
@@ -27498,7 +27622,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 310344,
       "name": "Olce IV",
       "url": "https://open.spotify.com/track/22aEH1qwd2bAAKucLLpZEL"
@@ -27814,7 +27938,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 172174,
       "name": "One Mile at a Time",
       "url": "https://open.spotify.com/track/0RERxLbgUk0GzpdQOLNduB"
@@ -28452,7 +28576,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 124074,
       "name": "Parking Lot",
       "url": "https://open.spotify.com/track/525wrNQ7CY1KmtAFz2wVo6"
@@ -29326,7 +29450,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 231724,
       "name": "POISON",
       "url": "https://open.spotify.com/track/2C8E4hexV8wHs60UjJzlEi"
@@ -30845,6 +30969,24 @@
     },
     {
       "album": {
+        "name": "re:",
+        "url": "https://open.spotify.com/album/2lamxs1EWiZQirsxtrbCMb"
+      },
+      "artists": [
+        {
+          "name": "tsubi club",
+          "url": "https://open.spotify.com/artist/6fHEaFnFgMxMAtDt7mFoQ3"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136783,
+      "name": "re:laced.up",
+      "url": "https://open.spotify.com/track/3UtylcU8x9gSnwBU999fJ8"
+    },
+    {
+      "album": {
         "name": "Read My Mind",
         "url": "https://open.spotify.com/album/74ulDfyawnDdg7r86GQH72"
       },
@@ -32192,7 +32334,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 184615,
       "name": "RYL0VE Song",
       "url": "https://open.spotify.com/track/09Sksb6alLvHMiHsa200n6"
@@ -32536,7 +32678,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 132045,
       "name": "SAPHiiRE",
       "url": "https://open.spotify.com/track/1nCtZlzwlqE8RtNNn45yXO"
@@ -33060,7 +33202,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 167865,
       "name": "Sefirot",
       "url": "https://open.spotify.com/track/503P8jeXzfhYrEldXNLkrE"
@@ -34568,7 +34710,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 143313,
       "name": "skyskysky",
       "url": "https://open.spotify.com/track/74ndPRenu6lTSh0xWRZ0EG"
@@ -36945,6 +37087,32 @@
     },
     {
       "album": {
+        "name": "Sweet Tooth",
+        "url": "https://open.spotify.com/album/0mKBulkeDyTylAu5Qq73Wf"
+      },
+      "artists": [
+        {
+          "name": "BABii",
+          "url": "https://open.spotify.com/artist/30qGwXnygZNCzxjN7QsIR0"
+        },
+        {
+          "name": "Iglooghost",
+          "url": "https://open.spotify.com/artist/7LCDnUQYE07fnKbo46SVLB"
+        },
+        {
+          "name": "Warpstr",
+          "url": "https://open.spotify.com/artist/3DosMG14ckPgT9iagZbcVc"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114086,
+      "name": "Sweet Tooth",
+      "url": "https://open.spotify.com/track/4It7yKYR3zPhA3mVtKNqd5"
+    },
+    {
+      "album": {
         "name": "Pillowland",
         "url": "https://open.spotify.com/album/52MzGGLFtSb4nHSRgOidHM"
       },
@@ -37340,7 +37508,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 198437,
       "name": "Talk To Me",
       "url": "https://open.spotify.com/track/2tseEPCbD2xdVl86U4ZYgX"
@@ -37522,7 +37690,7 @@
       ],
       "date_added": "2024-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 108292,
       "name": "Te ped\u00ed que me olvidaras",
       "url": "https://open.spotify.com/track/3DlNm2aNZUynTwHGIPba17"
@@ -40150,7 +40318,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 157037,
       "name": "undo(ctrl+z)",
       "url": "https://open.spotify.com/track/1EHSzoF5bioY3Di3Pj1Re9"

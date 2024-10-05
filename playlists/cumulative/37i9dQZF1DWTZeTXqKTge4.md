@@ -2,9 +2,9 @@
 
 ### [Rap québ](https://open.spotify.com/playlist/37i9dQZF1DWTZeTXqKTge4)
 
-> Le meilleur du hip\-hop québécois\. Photo: Lost
+> Le meilleur du hip\-hop québécois\. Photo: Souldia
 
-726 songs - 1 day 13 hr 9 min
+727 songs - 1 day 13 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -476,7 +476,7 @@
 | [Nouveau Chapitre](https://open.spotify.com/track/6DobGjLzrEevifya8rWxIl) | [Taktika](https://open.spotify.com/artist/5ArmvYVqg6FfX5Wmo8lBG3), [Mindflip](https://open.spotify.com/artist/1EH4lsraLQb7WNDW5h4sKi) | [Nouveau Chapitre](https://open.spotify.com/album/1Djf3JZKEMTRnfCXYH7lGR) | 3:53 | 2024-06-14 |  |
 | [Nouvelle religion](https://open.spotify.com/track/1nGXom4fnChcFdymHFtknK) | [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB), [Connaisseur Ticaso](https://open.spotify.com/artist/6Z7e35747Ty7EmmcOaKa8o) | [Craven N 3](https://open.spotify.com/album/5wAlUyWNsX3qZo5Q58soad) | 3:31 | 2022-02-18 | 2022-08-27 |
 | [Nouvelle vague](https://open.spotify.com/track/0ifRyZfj9oysmVpXgKmlxT) | [Manu Militari](https://open.spotify.com/artist/5hCqDsqqIaYbJhWoZ0JhaE) | [Nouvelle vague](https://open.spotify.com/album/0dEXddYdz0yGTLQjtH6TfM) | 3:47 | 2022-01-07 | 2022-06-04 |
-| [Nouvelle vie](https://open.spotify.com/track/4nXsx2uiPr0fOYRLa6xB52) | [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1) | [Nouvelle vie](https://open.spotify.com/album/5KQCORt6AmV9VcZYYfTWVL) | 3:12 | 2024-08-09 |  |
+| [Nouvelle vie](https://open.spotify.com/track/4nXsx2uiPr0fOYRLa6xB52) | [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1) | [Nouvelle vie](https://open.spotify.com/album/5KQCORt6AmV9VcZYYfTWVL) | 3:12 | 2024-08-09 | 2024-10-05 |
 | [Nova](https://open.spotify.com/track/7upNugBM6AfbM77jKLgk95) | [Fredz](https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT) | [Nova](https://open.spotify.com/album/36y502QiSN08zEiF1ZQ7b5) | 2:31 | 2022-01-07 | 2022-04-16 |
 | [Noyé](https://open.spotify.com/track/6Q2UmYEhrFyQSe9PcKOz5b) | [Boris levrai](https://open.spotify.com/artist/44MDXreyQDVfctriHR8TgN) | [Noyé](https://open.spotify.com/album/41qjVmiRONGjHzAnNBHaFW) | 3:34 | 2023-03-31 | 2024-01-27 |
 | [NRNTB\_XC40](https://open.spotify.com/track/2irF6A4W7Dqv4jObPXFHdw) | [Dope.Gng](https://open.spotify.com/artist/3GrmxSIFXZLdfdGkk28sVE) | [NRNTB\_XC40](https://open.spotify.com/album/1U8DHe7YStB6cZIj5cIYXU) | 1:58 | 2024-02-02 | 2024-07-19 |
@@ -732,6 +732,7 @@
 | [Ça shoot](https://open.spotify.com/track/1D3andBUzvFuTQaM57TbIf) | [Gros Big](https://open.spotify.com/artist/5lRXcS3hdIRzUO1mbJkvJ0) | [Ça shoot](https://open.spotify.com/album/3cf5vi13Vx8IhNWsJxMt4r) | 2:38 | 2024-09-06 |  |
 | [Écart type](https://open.spotify.com/track/7elFP749giV9I0f1LQHeFM) | [Fredz](https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT), [Kemmler](https://open.spotify.com/artist/7hChnO6TKesBmtbTFFjYbP) | [Astronaute](https://open.spotify.com/album/2A41RCTjlR4P888t6OfM89) | 2:54 | 2022-06-17 | 2023-04-01 |
 | [Épitaphe](https://open.spotify.com/track/2HaEfEful55EwS8hEhf97k) | [Koriass](https://open.spotify.com/artist/4aLij7W6aqtpsRriCSjGLq), [Sarahmée](https://open.spotify.com/artist/7icPanI4wjZVQCkvaUMWLX), [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1) | [Épitaphe](https://open.spotify.com/album/6JRlEReTZNIOoiY7k3XoBF) | 3:40 | 2022-01-07 | 2022-02-26 |
+| [État sauvage](https://open.spotify.com/track/1JutRIZ2wUehAR74oDa8Ot) | [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1) | [État sauvage](https://open.spotify.com/album/4iJYoyKYxXRuskQSwWBB5Q) | 3:08 | 2024-10-04 |  |
 | [Évaporé](https://open.spotify.com/track/32XFaa4LwJrdI7R4Z8dDZD) | [LeMind](https://open.spotify.com/artist/3PZuIxHVPdduhzcP78mmlW), [Rymz](https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu) | [Évaporé](https://open.spotify.com/album/3o3N3TegvhjoTfZmsTxnZo) | 3:16 | 2022-09-16 | 2023-05-13 |
 | [Ô CANADA CASH MONEY GAS OIL](https://open.spotify.com/track/1H0M4RGGYBF5pOViL9UdPB) | [Calamine](https://open.spotify.com/artist/1eYuV6IDT7vYuBdIF0SgjJ) | [Ô CANADA CASH MONEY GAS OIL](https://open.spotify.com/album/1s6iknRE2vRWB91XnmaUnm) | 2:54 | 2022-11-11 | 2023-03-04 |
 

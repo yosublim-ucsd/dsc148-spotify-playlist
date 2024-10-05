@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4p7boI.md) - [plain]
 
 > This is NAV\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,157 likes - 51 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,165 likes - 51 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4p7boI.md) - [plain]
 | 46 | [Glow Up](https://open.spotify.com/track/09L4qpS3qvz725z6K8yW0M) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [RECKLESS](https://open.spotify.com/album/1hTrdWpdPEeXHQWc9GmpxZ) | 2:40 |
 | 47 | [NAV](https://open.spotify.com/track/0OPfZM09RUjE46nIeJGCfX) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [NAV](https://open.spotify.com/album/4JR29CNW14Zc4Z5vflxkoJ) | 3:02 |
 | 48 | [Painless 2 \(with NAV feat\. Lil Durk\)](https://open.spotify.com/track/71Ih7wOeWd2EJxKi77Yiqi) | [J.I the Prince of N.Y](https://open.spotify.com/artist/2eqoJbzUGDwys5ENUkbT3h), [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Painless 2 \(with NAV feat\. Lil Durk\)](https://open.spotify.com/album/7rKi5SdKXxVSLIc0B9z0wK) | 4:02 |
-| 49 | [Fell In Love \(2016\)](https://open.spotify.com/track/0Tj8jGisjOjBE74rJUlcah) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [Fell In Love \(2016\)](https://open.spotify.com/album/0qNXBllDOLbmINeIE7qwNZ) | 2:57 |
+| 49 | [Taking Chances](https://open.spotify.com/track/0iVWDZhL04DiKgbI1mbC40) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [Bad Habits \(Deluxe\)](https://open.spotify.com/album/31lHUoHC3P6BRFzKYLyRJO) | 3:06 |
 | 50 | [Freshman List](https://open.spotify.com/track/4LeJfeJ9u53QLp997SRhim) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [RECKLESS](https://open.spotify.com/album/1hTrdWpdPEeXHQWc9GmpxZ) | 3:06 |
-| 51 | [Taking Chances](https://open.spotify.com/track/0iVWDZhL04DiKgbI1mbC40) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [Bad Habits \(Deluxe\)](https://open.spotify.com/album/31lHUoHC3P6BRFzKYLyRJO) | 3:06 |
+| 51 | [Fell In Love \(2016\)](https://open.spotify.com/track/0Tj8jGisjOjBE74rJUlcah) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [Fell In Love \(2016\)](https://open.spotify.com/album/0qNXBllDOLbmINeIE7qwNZ) | 2:57 |
 
-Snapshot ID: `ZvyNAAAAAAC892jFP9au/DRbG8zQytb1`
+Snapshot ID: `Zv3egAAAAAB+k19lFJSJLtQDxYstLVkv`

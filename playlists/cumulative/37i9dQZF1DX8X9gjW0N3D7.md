@@ -2,9 +2,9 @@
 
 ### [Québécois Contemporain](https://open.spotify.com/playlist/37i9dQZF1DX8X9gjW0N3D7)
 
-> De la musique québécoise pour tous les goûts\. Photo: Pierre Lapointe
+> De la musique québécoise pour tous les goûts\. Photo: Marilou
 
-102 songs - 5 hr 25 min
+105 songs - 5 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Deux jours et deux nuits](https://open.spotify.com/track/35yR1gITsGHb2BgbJO84b8) | [Klô Pelgag](https://open.spotify.com/artist/7vYe47XsRmlUuaA9ZSC9fi) | [Deux jours et deux nuits](https://open.spotify.com/album/7wrN8Vv62SbkI13lqllXos) | 2:36 | 2024-07-19 |  |
 | [Dormir debout](https://open.spotify.com/track/1A1vZMoDiY6ulyevbW1M9c) | [Matt Moln](https://open.spotify.com/artist/7ANHFWaXJtG963OePSX29C) | [Dormir debout](https://open.spotify.com/album/76H8rGTRDxbvgKYysZRMth) | 3:43 | 2024-08-23 |  |
 | [Ensemble \- Radio Edit](https://open.spotify.com/track/73G5Qtfwq7lSFR9MlpQDlj) | [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB) | [Ensemble \(Radio Edit\)](https://open.spotify.com/album/0KAc9578FWtoMFmv78oZKu) | 2:27 | 2024-06-28 |  |
+| [Fais\-moi rêver](https://open.spotify.com/track/5M7URPl2QApuwqFUQkpRuK) | [Alfa Rococo](https://open.spotify.com/artist/6nG2T7gGBQilOJXPWw0F0n) | [Fais\-moi rêver](https://open.spotify.com/album/53aO4Ze0Jp2MtnCgmbDs5Q) | 3:15 | 2024-10-04 |  |
 | [Fake Friends](https://open.spotify.com/track/6uMWNX0hKdWr1hJckauIub) | [Billie du Page](https://open.spotify.com/artist/0FtpMrRAPhbGpC34OMSUbX) | [Fake Friends](https://open.spotify.com/album/4PCTm05PE1ULKyzKJGiNfO) | 3:00 | 2024-07-26 |  |
 | [Gagner ma cause](https://open.spotify.com/track/3DN2jMQC18voS7AHGtVHGy) | [Clément Jacques](https://open.spotify.com/artist/14nCwwni6uqZyDrhqRmwSM) | [Gagner ma cause](https://open.spotify.com/album/5JFQecaxwkh6VCBAP2SVZj) | 2:46 | 2024-09-27 |  |
 | [Gazon mouillé](https://open.spotify.com/track/1jNwKEYRmB2mAKwe4bVhPw) | [Kinkead](https://open.spotify.com/artist/5Aly75fTVDrSY5TQMB4K1o) | [Gazon mouillé](https://open.spotify.com/album/327lifZqWkPWWyljcw7Gwj) | 3:05 | 2024-09-13 |  |
@@ -42,13 +43,14 @@
 | [J'ai beau essayer mais ça s'passe moyen](https://open.spotify.com/track/5j3QWbTOp2zmtCKkDm6HPv) | [Jason Bajada](https://open.spotify.com/artist/6yzmiHzZ0TIQTGyxqga04p) | [J'ai beau essayer mais ça s'passe moyen](https://open.spotify.com/album/6s7BXT6Pxzl0OmRJIlVxoT) | 2:52 | 2024-06-28 |  |
 | [J'fais des efforts](https://open.spotify.com/track/36kMscdmLP9UkMtPm1vUXA) | [Etienne Dufresne](https://open.spotify.com/artist/1wVdxcnaMBJy3MII8nZalv) | [Etienne Dufresne fait des efforts](https://open.spotify.com/album/7dj1HTKL7SwjUO74p7iqwO) | 3:46 | 2024-06-28 |  |
 | [Je ne sais quoi](https://open.spotify.com/track/0m0UzHmi1csduQT0cNCJEA) | [Laurence Nerbonne](https://open.spotify.com/artist/1fPc13ccCnGx3gdESGBhYQ) | [Le ciel est beau regarde les nuages](https://open.spotify.com/album/5uCWa2yqZmpgJNdOJNhK81) | 2:55 | 2024-06-28 |  |
+| [Je t'ai cherché](https://open.spotify.com/track/28gYJXShLPmWRq9Zn9jGma) | [Lara Fabian](https://open.spotify.com/artist/7ocwZINHqO9DZJgFtc1B20) | [Je t'ai cherché](https://open.spotify.com/album/5T8ZZkWPCZQaNPZmrFr25O) | 3:36 | 2024-10-04 |  |
 | [Je t'aimais, je t'aime, je t'aimerai](https://open.spotify.com/track/6dlGymd4InomupjnbFOoH5) | [Marilou](https://open.spotify.com/artist/502LJ9OJfK5m2p1CGDx8vf) | [Je t'aimais, je t'aime, je t'aimerai](https://open.spotify.com/album/03qYkWL3NxKrDLVjtmqYAf) | 3:41 | 2024-08-23 |  |
 | [Je te dirai tout](https://open.spotify.com/track/7u6H9XrZXYVaRa09dnyhkK) | [Sylvain Cossette](https://open.spotify.com/artist/660PvqDaksGwQPFLbAy7pb) | [Je te dirai tout](https://open.spotify.com/album/03IRytXE6d67O40ixx6Xa2) | 2:50 | 2024-06-28 |  |
 | [Jouer pour jouer](https://open.spotify.com/track/1P1W8f5D0BXyw4GzwkfSCY) | [Amay Laoni](https://open.spotify.com/artist/2d4upAuUXXLneWMHHloXSp) | [Jouer pour jouer](https://open.spotify.com/album/2PLDtWbg3zLz92lGHwOpYq) | 3:11 | 2024-06-28 |  |
 | [L'autre hémisphère](https://open.spotify.com/track/7irvZlBqN7beslyn6EYJ3q) | [Marie\-Pierre Arthur](https://open.spotify.com/artist/2IAG8mcBKZoIc5VbcPgNNc) | [L'autre hémisphère](https://open.spotify.com/album/7FMTj5WXP0mLjPAiJIXluH) | 3:41 | 2024-08-09 |  |
 | [La fin du show](https://open.spotify.com/track/5UrNvwWNKGhpfuI6c1kH58) | [Les Cowboys Fringants](https://open.spotify.com/artist/54BZLczVMsW9sPSIcUst1a) | [Pub Royal](https://open.spotify.com/album/2aQeozGyIhuzJo1q0RHF6U) | 7:16 | 2024-06-28 |  |
 | [La fête \- Radio Edit](https://open.spotify.com/track/1Jbmi0xYUQ01AzNCPfrmR2) | [Éléonore Lagacé](https://open.spotify.com/artist/3el018EY0lmSRv79CZORvk) | [La fête \(Radio Edit\)](https://open.spotify.com/album/24B7vQZAv39Un5u163PsZS) | 3:05 | 2024-06-28 |  |
-| [La liberté \(c'est de suivre le plan\)](https://open.spotify.com/track/4kNA1PnPZKrcmKItCEjSoE) | [Tire Le Coyote](https://open.spotify.com/artist/0IC1NWkemYHVzpF7gISLku) | [La liberté \(c'est de suivre le plan\)](https://open.spotify.com/album/6RHi78N5mfS1tnCzZmCnCQ) | 3:56 | 2024-06-28 |  |
+| [La liberté \(c'est de suivre le plan\)](https://open.spotify.com/track/4kNA1PnPZKrcmKItCEjSoE) | [Tire Le Coyote](https://open.spotify.com/artist/0IC1NWkemYHVzpF7gISLku) | [La liberté \(c'est de suivre le plan\)](https://open.spotify.com/album/6RHi78N5mfS1tnCzZmCnCQ) | 3:56 | 2024-06-28 | 2024-10-05 |
 | [La plus belle fille du moshpit](https://open.spotify.com/track/3Lsgo4IPjVYp6jh93y473Y) | [Jérôme 50](https://open.spotify.com/artist/1afINkCcmeRcLKsjGof7F6) | [La plus belle fille du moshpit](https://open.spotify.com/album/0prLo3kYXuKpH1JavYa0Vz) | 4:24 | 2024-08-23 |  |
 | [La protagoniste](https://open.spotify.com/track/3WClLiQH8U19rNzxTPIAnA) | [Marilou](https://open.spotify.com/artist/502LJ9OJfK5m2p1CGDx8vf) | [Traits d'union](https://open.spotify.com/album/1T4kcoQnEoGL75Nii6bI4g) | 2:15 | 2024-06-28 | 2024-07-13 |
 | [LAISSE LES BONS TEMPS ROULER](https://open.spotify.com/track/21lHmyEpEhciv3hvqRLLY3) | [Kaïn](https://open.spotify.com/artist/1KMHmX2PgvEl1nFzFmEdcZ) | [El GRANDE TORPEDO](https://open.spotify.com/album/0GPARm2KCkGhIhNPQFnKeQ) | 3:45 | 2024-06-28 | 2024-08-10 |
@@ -62,6 +64,7 @@
 | [Le Roy, la Rose et le Lou\[p\] \- Chanson thème](https://open.spotify.com/track/6SOvfUrHfJZz4GXsJPeIkV) | [Thierry Larose](https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt), [Lou\-Adriane Cassidy](https://open.spotify.com/artist/1M8BgMq8VcOlovA92xpxKt), [Ariane Roy](https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM) | [Le Roy, la Rose et le Lou\[p\] \(Chanson thème\)](https://open.spotify.com/album/15whtpDeiswR48UotutzI4) | 2:23 | 2024-06-28 | 2024-09-28 |
 | [Le secret](https://open.spotify.com/track/1iLTV03L1kSo2M5AN0z3BE) | [Pierre Lapointe](https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP) | [Le secret](https://open.spotify.com/album/2pkqJCNYaXmJdHNOKN66Zq) | 3:05 | 2024-09-20 |  |
 | [Le stade](https://open.spotify.com/track/4CLliCkjzI04eoHKXMI68H) | [Fredz](https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT) | [Demain il fera beau](https://open.spotify.com/album/74gQAViAPXnavitK5BTOmv) | 2:23 | 2024-06-28 |  |
+| [Les chemins de travers](https://open.spotify.com/track/48I7QLC2SNkoLIF5mEqO1j) | [Tire Le Coyote](https://open.spotify.com/artist/0IC1NWkemYHVzpF7gISLku) | [Dynastie](https://open.spotify.com/album/7iQA80BCQhFCWe0In1PRp0) | 5:00 | 2024-10-04 |  |
 | [Les entêté.e.s](https://open.spotify.com/track/4e8lef1lBidiTu7WlUWJ5N) | [Ian Kelly](https://open.spotify.com/artist/7ojsy2hVaM5udoJQEVVLow) | [Les entêté.e.s](https://open.spotify.com/album/5KQpJr1SouixdnYo6iH02L) | 3:26 | 2024-06-28 | 2024-09-28 |
 | [Les nouveaux infinis](https://open.spotify.com/track/6tq1i5M92NGSSQSgt7B088) | [Nicolet](https://open.spotify.com/artist/5M1fJVSLxyQGV6RSqilBjR) | [Les nouveaux infinis](https://open.spotify.com/album/3p359s7FAMTjo50xzFlHt4) | 3:40 | 2024-06-28 |  |
 | [Les ponts](https://open.spotify.com/track/1dpfsCsUFgSX6YcrEPx2Ty) | [San James](https://open.spotify.com/artist/0hIJpbVV7O5vBBhTQ4tXiH) | [Les ponts](https://open.spotify.com/album/1wLSzqbwKzpndo4tZC36GO) | 2:55 | 2024-06-28 | 2024-09-14 |
@@ -94,7 +97,7 @@
 | [T'aimer est une galère](https://open.spotify.com/track/5y07ot6zuGcCV3KxiAHeLg) | [Molière l'opéra urbain](https://open.spotify.com/artist/7eFL3K5giCsAHXus03F7Cd), [PETiTOM](https://open.spotify.com/artist/6jdST36R49wOl2Xgy5TOjv) | [Molière, le spectacle musical](https://open.spotify.com/album/5Aq14FvD0eZy5KIlLtsv0k) | 2:43 | 2024-06-28 |  |
 | [T'étais où?](https://open.spotify.com/track/4XeX8X5VtMMevrWaiKqEzq) | [Jay Scøtt](https://open.spotify.com/artist/3G9XTWY09egHqHlbRcP5cx) | [T'étais où?](https://open.spotify.com/album/3jpSPJWhOLagabhCI7h2C5) | 2:45 | 2024-08-16 |  |
 | [Ta bouche](https://open.spotify.com/track/5pGcX4EhocWxqwVw1QR8RY) | [William Cloutier](https://open.spotify.com/artist/4OyTM2zSEE5t9D9bghE0iS) | [Ta bouche](https://open.spotify.com/album/33TW5PYMySDjISn4HDpbbE) | 2:43 | 2024-07-19 |  |
-| [Ta peine](https://open.spotify.com/track/0BC2xNaWziKYeXfU8CzIe0) | [Lara Fabian](https://open.spotify.com/artist/7ocwZINHqO9DZJgFtc1B20) | [Ta peine](https://open.spotify.com/album/6Z9elqyva8qhCGpJ3TO67j) | 2:44 | 2024-06-28 |  |
+| [Ta peine](https://open.spotify.com/track/0BC2xNaWziKYeXfU8CzIe0) | [Lara Fabian](https://open.spotify.com/artist/7ocwZINHqO9DZJgFtc1B20) | [Ta peine](https://open.spotify.com/album/6Z9elqyva8qhCGpJ3TO67j) | 2:44 | 2024-06-28 | 2024-10-05 |
 | [Te laisser des mots](https://open.spotify.com/track/6SBNQ5uSrr07iOngFUy0mT) | [Meghan Oak](https://open.spotify.com/artist/0zcVg1Jym2sknaMn46kO2k) | [Te laisser des mots](https://open.spotify.com/album/3URQg0WGqKUHWueRYx3vs7) | 3:13 | 2024-06-28 |  |
 | [Tous ces doutes](https://open.spotify.com/track/6wCGMrL57mOUNEMjxiZP3y) | [Jeanick Fournier](https://open.spotify.com/artist/2BDPAOnxUpnVhzI7UCX246), [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [Tous ces doutes](https://open.spotify.com/album/2U2YWU5XqLs3ocRxswF1wD) | 3:29 | 2024-06-28 |  |
 | [tout est cassé](https://open.spotify.com/track/0FnsVIxosu1M4yIecwQMPB) | [benjamiin](https://open.spotify.com/artist/7lSd5x0viArJytZV25tY2Y) | [tout est cassé](https://open.spotify.com/album/4LnEn1Qx2lMUn7UtvmEpU6) | 2:03 | 2024-08-30 |  |
@@ -106,7 +109,7 @@
 | [Une bouteille à la mer](https://open.spotify.com/track/5RAOn9UuZ1mHdh8eZBtnIh) | [Roxane Bruneau](https://open.spotify.com/artist/1joqsAPOg4vW2yn2BrEtzQ) | [Submergé](https://open.spotify.com/album/1VFQdOkNGpV8kYZ9xESRv4) | 2:22 | 2024-06-28 |  |
 | [Uummati Attanarsimat \(Heart of Glass\)](https://open.spotify.com/track/4GgQWuxZL8qbZUHHA0wWuI) | [Elisapie](https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3) | [Inuktitut](https://open.spotify.com/album/6Kw9owtgtKeyx9LSM1CEzP) | 3:58 | 2024-06-28 |  |
 | [Vol à l'étalage](https://open.spotify.com/track/6g7nJF5VdDBAO2yAT4KN4V) | [Les Trois Accords](https://open.spotify.com/artist/2Xoi1HPP0Wa6nyNSYyHxgI) | [Présence d'esprit](https://open.spotify.com/album/2l642fbBnGoi2872LHn9Yl) | 3:28 | 2024-06-28 |  |
-| [Voler](https://open.spotify.com/track/3eXDWw4syMm0zpacdBW8E6) | [Alfa Rococo](https://open.spotify.com/artist/6nG2T7gGBQilOJXPWw0F0n) | [Voler](https://open.spotify.com/album/1m2dG1nPEixPOa8kAnPhEU) | 3:50 | 2024-08-30 |  |
+| [Voler](https://open.spotify.com/track/3eXDWw4syMm0zpacdBW8E6) | [Alfa Rococo](https://open.spotify.com/artist/6nG2T7gGBQilOJXPWw0F0n) | [Voler](https://open.spotify.com/album/1m2dG1nPEixPOa8kAnPhEU) | 3:50 | 2024-08-30 | 2024-10-05 |
 | [À l'envers](https://open.spotify.com/track/0f3acPxu7bt8ukIWqUZJAE) | [Sophie Grenier](https://open.spotify.com/artist/3JMrRREEeixveAxloDEuNS) | [À l'envers](https://open.spotify.com/album/4jMPq40oVFbvtZIl5GWoRT) | 2:44 | 2024-06-28 |  |
 | [Émilie](https://open.spotify.com/track/6YlZeS5VwVPSiRs1ChEms0) | [Pierre Guitard](https://open.spotify.com/artist/03LGhX9g2OH4XqnMBPB1mS) | [Émilie](https://open.spotify.com/album/424mxIsdHG2whDWhOqpatI) | 3:13 | 2024-09-27 |  |
 | [Être moi](https://open.spotify.com/track/1fJA0kPVpENDuoeUuCfHwZ) | [Annie Villeneuve](https://open.spotify.com/artist/4UIM7xyslKU8ufDGXcRDpa) | [Être moi](https://open.spotify.com/album/47XrSRkRIiNCub8A2DLYY0) | 3:13 | 2024-06-28 | 2024-09-21 |

@@ -8091,6 +8091,24 @@
     },
     {
       "album": {
+        "name": "The Bed I Made",
+        "url": "https://open.spotify.com/album/0SnCg2Vli2V2i5sh21E4lp"
+      },
+      "artists": [
+        {
+          "name": "The Softies",
+          "url": "https://open.spotify.com/artist/0Ve1sk7tcGsb7ZVsp4o8GG"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143480,
+      "name": "I Said What I Said",
+      "url": "https://open.spotify.com/track/2etUjNggUGmR9rbD91qvzP"
+    },
+    {
+      "album": {
         "name": "i saw you parked outside",
         "url": "https://open.spotify.com/album/5AbxsqRQd7oYGhBoEKqDRp"
       },
@@ -10602,7 +10620,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 190223,
       "name": "milk in the morning",
       "url": "https://open.spotify.com/track/0nsdJMaNiVrEA224ojPFaT"

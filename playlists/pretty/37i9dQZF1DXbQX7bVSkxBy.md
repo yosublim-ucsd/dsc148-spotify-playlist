@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbQX7bVSkxBy.md) - [plain]
 
 > Raise a voice and testify the goodness of God\.  Cover:  <a href=https://open.spotify.com/artist/3iEUsaFN1cxgIUgjJSrE8c?si=8DpxP0bsRwCrHhz5TSrQSA>Julian Roberts</a> and  <a href=https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX?si=xccCHo17TVe6X6rAqUlsLw>Theresa Phondo</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,739 likes - 50 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,746 likes - 50 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbQX7bVSkxBy.md) - [plain]
 | 30 | [heaven on earth](https://open.spotify.com/track/5z2Iiuh9BOAyeiKNm4H6Ck) | [Sinmidele](https://open.spotify.com/artist/0xmUZqkqmJfezc0fzyfboj) | [heaven on earth](https://open.spotify.com/album/4gyOK38hfHydcIWYZxrWeA) | 3:23 |
 | 31 | [Aileyipada](https://open.spotify.com/track/2VMV8JIa71bZVhR9C1cRfH) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [Aileyipada](https://open.spotify.com/album/2srl7GFgmEg0w9BleWvGOJ) | 6:35 |
 | 32 | [E Dey Flow](https://open.spotify.com/track/7BvQTLZXj9XDG9BZnGLZtO) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Neeja](https://open.spotify.com/artist/2Q6hH4KzIrMYrpP601GUJi), [Ajay Asika](https://open.spotify.com/artist/6JTtYSXFQweCccnZnRkVs1), [Festizie](https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu), [S.O.N Music](https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T), [Chizie](https://open.spotify.com/artist/0lRLfkXoAdbBLSfokQH9xE) | [E Dey Flow](https://open.spotify.com/album/4qt2lEkiK39cy0nnbfJMLW) | 2:36 |
-| 33 | [Defe Defe](https://open.spotify.com/track/2GZNll3SJMAEHstg0wO37N) | [Team Eternity Ghana](https://open.spotify.com/artist/5bq3JNFcE1ZojRIlPtldoz) | [Testimony](https://open.spotify.com/album/3bWaysoTLDOIuvVh9JxR69) | 6:46 |
-| 34 | [He Is Enough](https://open.spotify.com/track/4qEjiYIeD60K7dXcFYYkLS) | [kaestrings](https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC) | [He Is Enough](https://open.spotify.com/album/3wh80jvwtIwEpPeXb0hgE8) | 2:07 |
+| 33 | [He Is Enough](https://open.spotify.com/track/4qEjiYIeD60K7dXcFYYkLS) | [kaestrings](https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC) | [He Is Enough](https://open.spotify.com/album/3wh80jvwtIwEpPeXb0hgE8) | 2:07 |
+| 34 | [Defe Defe](https://open.spotify.com/track/2GZNll3SJMAEHstg0wO37N) | [Team Eternity Ghana](https://open.spotify.com/artist/5bq3JNFcE1ZojRIlPtldoz) | [Testimony](https://open.spotify.com/album/3bWaysoTLDOIuvVh9JxR69) | 6:46 |
 | 35 | [Calling My Name \(I'm A Soldier\) \- Live](https://open.spotify.com/track/6pKrwKfT1IUq6GvO7xtlIW) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM) | [Calling My Name \(I'm A Soldier\) \[Live\]](https://open.spotify.com/album/43Ezc94qcwnX6mnmuUQnUO) | 10:38 |
 | 36 | [Bless God](https://open.spotify.com/track/4nhLPA3DAMEOj92U5i2cOk) | [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [EIGHT](https://open.spotify.com/album/0yGuCkWWoXxsPK09agGQQu) | 4:52 |
 | 37 | [Joy in Chaos \(Extended\)](https://open.spotify.com/track/6vbzWTJ7tvSOieADnVJXO5) | [Holy drill](https://open.spotify.com/artist/3SN6XTw03dI5Cn49oeqz6j), [D6](https://open.spotify.com/artist/4ZUFmEBBatVOgDKIQng6cj), [Stanley Ifenna](https://open.spotify.com/artist/65aQElIwxRydi0DXqclTJA) | [Joy in Chaos \(Extended\)](https://open.spotify.com/album/2WrTLuhddDoXzMO51aiBPv) | 2:06 |

@@ -4,7 +4,7 @@
 
 > The best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/6y4JQgtvRMTNfA5YVMPv3psi=rrKVOvJyTmayxgah2I2jgg">Rowena Fysx</a>\. Updates every Wednesday.
 
-2,661 songs - 5 day 15 hr 23 min
+2,663 songs - 5 day 15 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [Ain't Love \(feat\. Cam Griff\)](https://open.spotify.com/track/5TU32ghk2CPY2DHXxt3v5k) | [Majo](https://open.spotify.com/artist/3bFHx7H43rnf5GzOWnqwdf), [Cam Griff](https://open.spotify.com/artist/08VOhx07DNsS86zMNvXdPL) | [Ain't Love \(feat\. Cam Griff\)](https://open.spotify.com/album/1rSFyEed1CCMn1JAEIimdw) | 2:27 | 2024-04-24 | 2024-07-02 |
 | [Algorithm](https://open.spotify.com/track/1m54M4NiQbJ2FKvnUhR09l) | [Bliss Samsa](https://open.spotify.com/artist/5Jb935Bdh5o2pBYzXFSFU6) | [Algorithm](https://open.spotify.com/album/48kIsudyDhaTSzj5g2qqG7) | 3:04 | 2023-03-31 | 2023-06-03 |
 | [Align](https://open.spotify.com/track/3lh36rk5vnQ8P63mLO2cpB) | [Hone](https://open.spotify.com/artist/04RyeACiBbuXSvvhBOESLj), [ELENA](https://open.spotify.com/artist/7tnARU2BsPiwHkK9ryyBwU) | [Align](https://open.spotify.com/album/2ymEDNfLQdROycYXkcmzJj) | 3:12 | 2024-04-10 | 2024-07-02 |
+| [Alive](https://open.spotify.com/track/5pzNRfYj3EoDRM7jhFWJEb) | [James Savage](https://open.spotify.com/artist/0NJU41dLwF6OcBPRZwhAV5) | [Alive](https://open.spotify.com/album/6S3s6nz9uL03ZO4c971NVf) | 2:31 | 2024-10-04 |  |
 | [All 4 U](https://open.spotify.com/track/2sKRUZLJR6TQNH1inn1Rat) | [OVI WOOD](https://open.spotify.com/artist/5aZ2PcHvEHWuFLw65MknwJ) | [All 4 U](https://open.spotify.com/album/201QpLI3KROkYWxHpHeE0n) | 3:30 | 2024-05-17 | 2024-07-20 |
 | [All for me](https://open.spotify.com/track/3MnO3LgxXcw9AOvcspn32t) | [michele.](https://open.spotify.com/artist/06cz9o8Zxx5MouEzIY8uly) | [All for me](https://open.spotify.com/album/4eS9ARyp1OmYSUX0yLYxx7) | 3:42 | 2021-12-01 | 2022-01-13 |
 | [ALL FOR NOTHING](https://open.spotify.com/track/2L9SA0p0eO7eBOwhtYHhMh) | [HENNESSY](https://open.spotify.com/artist/0d3nLtBfguQFq20JzWSlIW) | [ALL FOR NOTHING](https://open.spotify.com/album/5rFRG1dYVsZSJv2SRITNZS) | 3:50 | 2022-04-06 | 2022-07-02 |
@@ -453,7 +454,7 @@
 | [Clutch](https://open.spotify.com/track/5cQfW7kc39vcGZqlOrzClJ) | [Tejy](https://open.spotify.com/artist/4mOvX6YYTQ1qdtNWPS6rmk) | [Clutch](https://open.spotify.com/album/41atqA7FIfGFs3vCKvnJVJ) | 3:13 | 2023-10-03 | 2023-11-30 |
 | [Cocaina](https://open.spotify.com/track/5ZIFTynXkVLyMtB0nGsrGZ) | [Young Deji](https://open.spotify.com/artist/1t5tAYJj9NvTlAYjj7wXwX) | [Acceptance](https://open.spotify.com/album/4UQeISwHr20Fxmz6UiMT6E) | 2:39 | 2023-04-29 | 2023-06-03 |
 | [Coco](https://open.spotify.com/track/6FG4SDaXTFG80ZPU20NoIh) | [Tolou](https://open.spotify.com/artist/6aJLBAuRRedmYQfUxXUByH) | [Coco](https://open.spotify.com/album/6o3EiOe6XB06mZzikAO82m) | 2:19 | 2023-08-30 | 2023-11-30 |
-| [COCO ROLL](https://open.spotify.com/track/7q9GDlanTjzsaXdrRLhz8p) | [Lamar](https://open.spotify.com/artist/1lEBiL1tggtva2S5vcW65i) | [COCO ROLL](https://open.spotify.com/album/2ZaRy8CZSQzqrMGU8r3DcO) | 2:02 | 2024-08-30 |  |
+| [COCO ROLL](https://open.spotify.com/track/7q9GDlanTjzsaXdrRLhz8p) | [Lamar Morris](https://open.spotify.com/artist/3fTmCXDMP1jNSWfqCznI30) | [COCO ROLL](https://open.spotify.com/album/2ZaRy8CZSQzqrMGU8r3DcO) | 2:02 | 2024-08-30 |  |
 | [Cocoa Butter](https://open.spotify.com/track/14SIPzOUdXpVCUQFxbGOGH) | [Aiza](https://open.spotify.com/artist/33swwbOrC7iMmPF3TXGLNi) | [Cocoa Butter](https://open.spotify.com/album/0Me9ME4FJQhtk8bfUV6EgH) | 3:10 | 2023-04-21 | 2023-08-04 |
 | [Codependency](https://open.spotify.com/track/6QsDQlfHHQDxVeY8DdFZHf) | [David Saint Val](https://open.spotify.com/artist/0KrQ2j4V5xKu9eNVC2UP6J) | [Codependency](https://open.spotify.com/album/4D31MSHLFZlnGXCyyLKDlB) | 3:20 | 2022-02-23 | 2022-03-24 |
 | [Codependent](https://open.spotify.com/track/255AgStE40ZiRWqGSUfELM) | [Love Moor](https://open.spotify.com/artist/2YUbTUcCN7avxcXKrJGm71) | [Codependent](https://open.spotify.com/album/5D5gwVL3WVs7mUAJj8xzaq) | 3:03 | 2024-02-09 | 2024-04-24 |
@@ -2270,6 +2271,7 @@
 | [Take Flight](https://open.spotify.com/track/6G0N1IkBWHsO8WQHxqpz44) | [Yakul](https://open.spotify.com/artist/0Pi3s9W42iTzuxDp7GKIfO) | [Take Flight](https://open.spotify.com/album/1XWQCrHuszOJyjdcnbTUdH) | 3:05 | 2022-11-12 | 2022-12-01 |
 | [Take It Or Leave It](https://open.spotify.com/track/60Yax8o3dvkGUtUYXfPp2t) | [Ketu](https://open.spotify.com/artist/1qObbEr928j18cwHIDUtWQ), [Jordyn Simone](https://open.spotify.com/artist/6pEjGEHQaVIJuM1ku1mFxb) | [Take It Or Leave It](https://open.spotify.com/album/3jIr18C9mheJgiWaqILdQS) | 2:46 | 2024-09-13 |  |
 | [Take It Personal](https://open.spotify.com/track/51pmSmEShGFFKKZ4wszESe) | [Byron Juane](https://open.spotify.com/artist/4UMCjCFEBDWVqw9tTrfxkb) | [Take It Personal](https://open.spotify.com/album/4n4InJrgimhQkVcyEvo85K) | 2:45 | 2024-01-10 | 2024-03-30 |
+| [Take Me Out](https://open.spotify.com/track/2u5kgkYchdxbhdrYwzvycW) | [Anjoli](https://open.spotify.com/artist/2HIo2lcofrHHGCTQNFlGca) | [Take Me Out](https://open.spotify.com/album/1b2wP1XGAIK2Eech62CRrx) | 2:22 | 2024-10-04 |  |
 | [Take Me With You](https://open.spotify.com/track/5ZAnMdq2nG3QtbZxRuNWLh) | [JAYLIEN](https://open.spotify.com/artist/6t3YMGSTDtFDBUFfUHsJS0) | [THE BLUE PROJECT](https://open.spotify.com/album/1rIySHtLcb0pdjRSp3Nr3U) | 4:06 | 2022-09-14 | 2022-12-01 |
 | [Take My Picture](https://open.spotify.com/track/41N0IYG9GNyWxHwOnApnWx) | [Anaïs](https://open.spotify.com/artist/1B40NJiFLj76HWGwuIqD82) | [Take My Picture](https://open.spotify.com/album/6LHXZpXfe1uSRvFdCbMOCA) | 2:32 | 2022-06-16 | 2022-09-29 |
 | [Take Off](https://open.spotify.com/track/2QFiTd78rjiCIKBQYESI9m) | [Shann Aberdeen](https://open.spotify.com/artist/6nCWqG1NbQWzSZ1gmk8s3O) | [Take Off](https://open.spotify.com/album/50b5JY9b4g9fiKcOPESW4a) | 2:41 | 2024-06-19 |  |

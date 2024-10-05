@@ -1,6 +1,6 @@
 {
   "description": "Tristeza independiente para aquellos d\u00edas de baj\u00f3n.",
-  "num_followers": 640549,
+  "num_followers": 640553,
   "original_name": "Qu\u00e9 Sad!",
   "owner": {
     "name": "Spotify",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2024-07-11 01:38:58",
       "album": {
-        "name": "Uno Que Tropieza Y Cae Al Mar",
-        "url": "https://open.spotify.com/album/2tdaciK2jsRem4pSzjb53Z"
-      },
-      "artists": [
-        {
-          "name": "Vera Pedro",
-          "url": "https://open.spotify.com/artist/2agXYMhipkDXIGmy5C158S"
-        }
-      ],
-      "duration_ms": 209346,
-      "name": "Uno Que Tropieza Y Cae Al Mar",
-      "url": "https://open.spotify.com/track/7s9RruGzghXh575zU4qEpz"
-    },
-    {
-      "added_at": "2024-07-11 01:38:58",
-      "album": {
         "name": "Tqm",
         "url": "https://open.spotify.com/album/46iWmNM0KiEGVCR1crEO6Q"
       },
@@ -1211,18 +1195,34 @@
     {
       "added_at": "2024-07-11 01:38:58",
       "album": {
-        "name": "La Pr\u00f3xima Tormenta",
-        "url": "https://open.spotify.com/album/1EfzoqrguBOQMd0hBjHghg"
+        "name": "Uno Que Tropieza Y Cae Al Mar",
+        "url": "https://open.spotify.com/album/2tdaciK2jsRem4pSzjb53Z"
       },
       "artists": [
         {
-          "name": "Planetario",
-          "url": "https://open.spotify.com/artist/4KyZLSFxk5EZnqkceVEvga"
+          "name": "Vera Pedro",
+          "url": "https://open.spotify.com/artist/2agXYMhipkDXIGmy5C158S"
         }
       ],
-      "duration_ms": 260000,
-      "name": "Mapas",
-      "url": "https://open.spotify.com/track/5ArTOxzJNOk9ysWwbhAuro"
+      "duration_ms": 209346,
+      "name": "Uno Que Tropieza Y Cae Al Mar",
+      "url": "https://open.spotify.com/track/7s9RruGzghXh575zU4qEpz"
+    },
+    {
+      "added_at": "2024-07-11 01:38:58",
+      "album": {
+        "name": "pero qu\u00e9 cosa",
+        "url": "https://open.spotify.com/album/38T7QRU3ArAPJnlkKE9cNr"
+      },
+      "artists": [
+        {
+          "name": "Fer",
+          "url": "https://open.spotify.com/artist/4Y3nku1hJZADNFyHeS3A6J"
+        }
+      ],
+      "duration_ms": 165500,
+      "name": "pero qu\u00e9 cosa",
+      "url": "https://open.spotify.com/track/3lIPnDNKdk3NJzRa6EJRlc"
     },
     {
       "added_at": "2024-07-11 01:38:58",
@@ -1247,18 +1247,18 @@
     {
       "added_at": "2024-07-11 01:38:58",
       "album": {
-        "name": "pero qu\u00e9 cosa",
-        "url": "https://open.spotify.com/album/38T7QRU3ArAPJnlkKE9cNr"
+        "name": "La Pr\u00f3xima Tormenta",
+        "url": "https://open.spotify.com/album/1EfzoqrguBOQMd0hBjHghg"
       },
       "artists": [
         {
-          "name": "Fer",
-          "url": "https://open.spotify.com/artist/4Y3nku1hJZADNFyHeS3A6J"
+          "name": "Planetario",
+          "url": "https://open.spotify.com/artist/4KyZLSFxk5EZnqkceVEvga"
         }
       ],
-      "duration_ms": 165500,
-      "name": "pero qu\u00e9 cosa",
-      "url": "https://open.spotify.com/track/3lIPnDNKdk3NJzRa6EJRlc"
+      "duration_ms": 260000,
+      "name": "Mapas",
+      "url": "https://open.spotify.com/track/5ArTOxzJNOk9ysWwbhAuro"
     },
     {
       "added_at": "2024-07-11 01:38:58",

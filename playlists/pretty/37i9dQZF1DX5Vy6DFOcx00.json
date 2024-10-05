@@ -1,12 +1,12 @@
 {
   "description": "iykyk",
-  "num_followers": 3998697,
+  "num_followers": 3999408,
   "original_name": "big on the internet",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zv684QAAAACGp1hs1lo4cLG6p7uieT2u",
+  "snapshot_id": "ZwBQwQAAAABvybCJs08k7muvH0f+4pru",
   "tracks": [
     {
       "added_at": "2024-10-01 21:11:37",
@@ -111,6 +111,22 @@
       "duration_ms": 104418,
       "name": "Embrace It",
       "url": "https://open.spotify.com/track/0io16MKpbeDIdYzmGpQaES"
+    },
+    {
+      "added_at": "2024-10-04 20:32:01",
+      "album": {
+        "name": "NewJeans 2nd EP 'Get Up'",
+        "url": "https://open.spotify.com/album/4N1fROq2oeyLGAlQ1C1j18"
+      },
+      "artists": [
+        {
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        }
+      ],
+      "duration_ms": 151373,
+      "name": "ETA",
+      "url": "https://open.spotify.com/track/56v8WEnGzLByGsDAXDiv4d"
     },
     {
       "added_at": "2024-08-26 17:32:05",
@@ -329,9 +345,25 @@
       "url": "https://open.spotify.com/track/7gxQXemQ5MBeK9PUrKRtfV"
     },
     {
+      "added_at": "2024-10-04 20:32:01",
+      "album": {
+        "name": "MEOW",
+        "url": "https://open.spotify.com/album/7mtt73Ch1hIRXT5qScF4s5"
+      },
+      "artists": [
+        {
+          "name": "MEOVV",
+          "url": "https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv"
+        }
+      ],
+      "duration_ms": 172073,
+      "name": "MEOW",
+      "url": "https://open.spotify.com/track/72gPDy1zVt95zVNali0IhK"
+    },
+    {
       "added_at": "2024-10-01 21:11:37",
       "album": {
-        "name": "The Very Very Best Of Crowded House",
+        "name": "The Very Very Best Of Crowded House (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3XLP6DCTfz8eQkORPdfvvy"
       },
       "artists": [
@@ -413,6 +445,22 @@
       "url": "https://open.spotify.com/track/3ZP1AbM0rurWtqQIhTVcln"
     },
     {
+      "added_at": "2024-10-04 20:32:01",
+      "album": {
+        "name": "I Only Smoke When I Drink",
+        "url": "https://open.spotify.com/album/05iJvxOa8h8GjGPe5JnvDG"
+      },
+      "artists": [
+        {
+          "name": "nimino",
+          "url": "https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV"
+        }
+      ],
+      "duration_ms": 198425,
+      "name": "I Only Smoke When I Drink",
+      "url": "https://open.spotify.com/track/39glDGcpBhLVMSsQhvtqHR"
+    },
+    {
       "added_at": "2024-09-15 14:55:01",
       "album": {
         "name": "Under Your Spell / Don't You Feel",
@@ -427,26 +475,6 @@
       "duration_ms": 218500,
       "name": "Under Your Spell",
       "url": "https://open.spotify.com/track/2mj2HiJ3kJQ4mdCik25ea1"
-    },
-    {
-      "added_at": "2024-08-01 16:10:39",
-      "album": {
-        "name": "Big Dawgs",
-        "url": "https://open.spotify.com/album/6Yw4204wbgmpsGTzjXBhYD"
-      },
-      "artists": [
-        {
-          "name": "Hanumankind",
-          "url": "https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp"
-        },
-        {
-          "name": "Kalmi",
-          "url": "https://open.spotify.com/artist/6tYCSHLtTI54AQJFOMfU45"
-        }
-      ],
-      "duration_ms": 190666,
-      "name": "Big Dawgs",
-      "url": "https://open.spotify.com/track/0OA00aPt3BV10qeMIs3meW"
     },
     {
       "added_at": "2024-10-03 15:48:49",
@@ -567,34 +595,6 @@
       "duration_ms": 122208,
       "name": "Pink Lemonade (Str8 Reload)",
       "url": "https://open.spotify.com/track/4Pt80KvnL6e8DCd9QVx7Ht"
-    },
-    {
-      "added_at": "2024-08-19 19:29:17",
-      "album": {
-        "name": "\u30b7\u30ab\u8272\u30c7\u30a4\u30ba",
-        "url": "https://open.spotify.com/album/2Hcqkag1iqVc1wAuoIC4gG"
-      },
-      "artists": [
-        {
-          "name": "\u9e7f\u4e43\u5b50\u306e\u3053 (CV.\u6f58\u3081\u3050\u307f)",
-          "url": "https://open.spotify.com/artist/7Du39NxqFzjL8LmvlPJEAN"
-        },
-        {
-          "name": "\u864e\u8996\u864e\u5b50 (CV.\u85e4\u7530 \u54b2)",
-          "url": "https://open.spotify.com/artist/6QiTCAQ2JAt94Q7YF9dQNd"
-        },
-        {
-          "name": "\u864e\u8996\u9921\u5b50 (CV.\u7530\u8fba\u7559\u4f9d)",
-          "url": "https://open.spotify.com/artist/7M7GeLY7h8g2URiwv93XsT"
-        },
-        {
-          "name": "\u99ac\u8eca\u82bd\u3081\u3081 (CV.\u548c\u6cc9\u98a8\u82b1)",
-          "url": "https://open.spotify.com/artist/73326vNByOtmvaXTJryL19"
-        }
-      ],
-      "duration_ms": 201299,
-      "name": "\u30b7\u30ab\u8272\u30c7\u30a4\u30ba",
-      "url": "https://open.spotify.com/track/65DUeMw4riBUibAjktAnZD"
     },
     {
       "added_at": "2024-07-17 20:45:55",
@@ -763,22 +763,6 @@
       "duration_ms": 190920,
       "name": "Candy",
       "url": "https://open.spotify.com/track/1VJwtWR6z7SpZRwipI12be"
-    },
-    {
-      "added_at": "2024-07-08 21:47:59",
-      "album": {
-        "name": "JOYRIDE",
-        "url": "https://open.spotify.com/album/145ynqxpTLjXrU5qvER4ea"
-      },
-      "artists": [
-        {
-          "name": "Kesha",
-          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "JOYRIDE",
-      "url": "https://open.spotify.com/track/7HUhMOrlvwBPfBq3c0ajh0"
     },
     {
       "added_at": "2024-07-08 04:29:29",

@@ -203,6 +203,24 @@
     },
     {
       "album": {
+        "name": "A.T.A",
+        "url": "https://open.spotify.com/album/241KgBa8yVFqlUjY4ZhHvd"
+      },
+      "artists": [
+        {
+          "name": "Delfina Dib",
+          "url": "https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129229,
+      "name": "A.T.A",
+      "url": "https://open.spotify.com/track/17ee3ShvzGiJL9MYsSKaM9"
+    },
+    {
+      "album": {
         "name": "Aceites esenciales",
         "url": "https://open.spotify.com/album/51gPyD9UEAiHAQeLTGNfBg"
       },
@@ -334,7 +352,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 193846,
       "name": "Aletheia",
       "url": "https://open.spotify.com/track/0HkIlCA0q9HHLGVhRU1tGM"
@@ -2619,6 +2637,32 @@
     },
     {
       "album": {
+        "name": "Honey",
+        "url": "https://open.spotify.com/album/68VqslGxoNFjfc3s6XcZFD"
+      },
+      "artists": [
+        {
+          "name": "VIEF",
+          "url": "https://open.spotify.com/artist/7vsIogMvyeyiquvpwCONUH"
+        },
+        {
+          "name": "Penyair",
+          "url": "https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c"
+        },
+        {
+          "name": "Alka Produce",
+          "url": "https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180402,
+      "name": "Honey",
+      "url": "https://open.spotify.com/track/3ZKTQjeqb1uo3BrnxpfD97"
+    },
+    {
+      "album": {
         "name": "I'M SO SEXY",
         "url": "https://open.spotify.com/album/5TWsuuD1VLhnddk7gqPO3C"
       },
@@ -2936,6 +2980,24 @@
       "duration_ms": 147158,
       "name": "KEEP IT STUPID",
       "url": "https://open.spotify.com/track/5FsUKOjDDeQ0vEc5dn77AY"
+    },
+    {
+      "album": {
+        "name": "Kerosene",
+        "url": "https://open.spotify.com/album/5TMl7Qr7UBoBAFqbiH39zG"
+      },
+      "artists": [
+        {
+          "name": "La Valenti",
+          "url": "https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185088,
+      "name": "Kerosene",
+      "url": "https://open.spotify.com/track/5mDbbvhvaf8ObKttnHXn0s"
     },
     {
       "album": {
@@ -3362,7 +3424,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 219071,
       "name": "Luz & Control",
       "url": "https://open.spotify.com/track/6QxO8EqxdnOlDmrRvshxX3"
@@ -4050,7 +4112,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 216800,
       "name": "M\u00e1s que un Deporte",
       "url": "https://open.spotify.com/track/5NpArbjHBrgFxh2Ul2XURz"
@@ -5970,7 +6032,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 187865,
       "name": "The Wave",
       "url": "https://open.spotify.com/track/3qdtPhFUPKEwOzgcoQg5z4"
@@ -6458,6 +6520,24 @@
       "duration_ms": 197000,
       "name": "Viernes 15 (Organic Remix)",
       "url": "https://open.spotify.com/track/2OAfXYiNyGU4q7AYAhDgIt"
+    },
+    {
+      "album": {
+        "name": "Voil\u00e0",
+        "url": "https://open.spotify.com/album/6eC2Nai4U0PfwT3OASBxUL"
+      },
+      "artists": [
+        {
+          "name": "Eli Almic",
+          "url": "https://open.spotify.com/artist/5KXdJKZm2dVPkKmbitndiR"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135000,
+      "name": "Voil\u00e0",
+      "url": "https://open.spotify.com/track/3grAT7ft8f7XMMYXmtpLT2"
     },
     {
       "album": {

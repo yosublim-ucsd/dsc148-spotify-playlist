@@ -1,6 +1,6 @@
 {
   "description": "und macht laune",
-  "num_followers": 595216,
+  "num_followers": 595293,
   "original_name": "schiebt anders",
   "owner": {
     "name": "Spotify",
@@ -35,30 +35,6 @@
     {
       "added_at": "2024-09-16 12:54:28",
       "album": {
-        "name": "Pedro",
-        "url": "https://open.spotify.com/album/5y6RXjI5VPR0RyInghTbf1"
-      },
-      "artists": [
-        {
-          "name": "Jaxomy",
-          "url": "https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq"
-        },
-        {
-          "name": "Agatino Romero",
-          "url": "https://open.spotify.com/artist/124jbwgd8Hh6LW7jAqTa8r"
-        },
-        {
-          "name": "Raffaella Carr\u00e0",
-          "url": "https://open.spotify.com/artist/6EVyI0S0b1Ld2nm37m5x85"
-        }
-      ],
-      "duration_ms": 144846,
-      "name": "Pedro",
-      "url": "https://open.spotify.com/track/48lxT5qJF0yYyf2z4wB4xW"
-    },
-    {
-      "added_at": "2024-09-16 12:54:28",
-      "album": {
         "name": "Prada",
         "url": "https://open.spotify.com/album/5MU0RmBSpoSxOPYBfcobDc"
       },
@@ -79,6 +55,30 @@
       "duration_ms": 132359,
       "name": "Prada",
       "url": "https://open.spotify.com/track/59NraMJsLaMCVtwXTSia8i"
+    },
+    {
+      "added_at": "2024-09-16 12:54:28",
+      "album": {
+        "name": "Pedro",
+        "url": "https://open.spotify.com/album/5y6RXjI5VPR0RyInghTbf1"
+      },
+      "artists": [
+        {
+          "name": "Jaxomy",
+          "url": "https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq"
+        },
+        {
+          "name": "Agatino Romero",
+          "url": "https://open.spotify.com/artist/124jbwgd8Hh6LW7jAqTa8r"
+        },
+        {
+          "name": "Raffaella Carr\u00e0",
+          "url": "https://open.spotify.com/artist/6EVyI0S0b1Ld2nm37m5x85"
+        }
+      ],
+      "duration_ms": 144846,
+      "name": "Pedro",
+      "url": "https://open.spotify.com/track/48lxT5qJF0yYyf2z4wB4xW"
     },
     {
       "added_at": "2024-09-16 12:54:28",
@@ -723,26 +723,6 @@
     {
       "added_at": "2024-09-16 12:54:28",
       "album": {
-        "name": "Couldn't Care Less (feat. Gia Koka)",
-        "url": "https://open.spotify.com/album/5uALiucSFQTU1ZG1Z8pRwQ"
-      },
-      "artists": [
-        {
-          "name": "ALT\u00c9GO",
-          "url": "https://open.spotify.com/artist/2f1gRV8q7Wua3x7dkoWrbS"
-        },
-        {
-          "name": "Gia Koka",
-          "url": "https://open.spotify.com/artist/71WExccCBN2mw0klSzfYzz"
-        }
-      ],
-      "duration_ms": 145946,
-      "name": "Couldn't Care Less (feat. Gia Koka)",
-      "url": "https://open.spotify.com/track/4I1cbxHQdui27mPGHPXXMO"
-    },
-    {
-      "added_at": "2024-09-16 12:54:28",
-      "album": {
         "name": "We Are The People (southstar Remix)",
         "url": "https://open.spotify.com/album/6NB6yrLJKj7nlP1vUWcVPA"
       },
@@ -759,6 +739,26 @@
       "duration_ms": 236157,
       "name": "We Are The People - southstar Remix",
       "url": "https://open.spotify.com/track/4atLPkcljMp14JBaigYFKC"
+    },
+    {
+      "added_at": "2024-09-16 12:54:28",
+      "album": {
+        "name": "Couldn't Care Less (feat. Gia Koka)",
+        "url": "https://open.spotify.com/album/5uALiucSFQTU1ZG1Z8pRwQ"
+      },
+      "artists": [
+        {
+          "name": "ALT\u00c9GO",
+          "url": "https://open.spotify.com/artist/2f1gRV8q7Wua3x7dkoWrbS"
+        },
+        {
+          "name": "Gia Koka",
+          "url": "https://open.spotify.com/artist/71WExccCBN2mw0klSzfYzz"
+        }
+      ],
+      "duration_ms": 145946,
+      "name": "Couldn't Care Less (feat. Gia Koka)",
+      "url": "https://open.spotify.com/track/4I1cbxHQdui27mPGHPXXMO"
     },
     {
       "added_at": "2024-09-16 12:54:28",
@@ -915,6 +915,22 @@
     {
       "added_at": "2024-09-16 12:54:28",
       "album": {
+        "name": "Big Jet Plane",
+        "url": "https://open.spotify.com/album/23tdjMIkPQkeNJX9dS0bLW"
+      },
+      "artists": [
+        {
+          "name": "Restricted",
+          "url": "https://open.spotify.com/artist/7mx6iGwPF157vXwYcl1DQ3"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Big Jet Plane",
+      "url": "https://open.spotify.com/track/6nYJWAPKIJfXIKtiYc4P4O"
+    },
+    {
+      "added_at": "2024-09-16 12:54:28",
+      "album": {
         "name": "Unendlichkeit (Remix)",
         "url": "https://open.spotify.com/album/0YbUsjOo1ElaU4MmKpzN9o"
       },
@@ -939,18 +955,22 @@
     {
       "added_at": "2024-09-16 12:54:28",
       "album": {
-        "name": "Big Jet Plane",
-        "url": "https://open.spotify.com/album/23tdjMIkPQkeNJX9dS0bLW"
+        "name": "Weekends",
+        "url": "https://open.spotify.com/album/68Ph2nuIeP3e0vzRxrUmkh"
       },
       "artists": [
         {
-          "name": "Restricted",
-          "url": "https://open.spotify.com/artist/7mx6iGwPF157vXwYcl1DQ3"
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "Felix Jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
         }
       ],
-      "duration_ms": 150000,
-      "name": "Big Jet Plane",
-      "url": "https://open.spotify.com/track/6nYJWAPKIJfXIKtiYc4P4O"
+      "duration_ms": 127003,
+      "name": "Weekends",
+      "url": "https://open.spotify.com/track/3JlHRjPt2TNB9h7VFf0im2"
     },
     {
       "added_at": "2024-09-16 12:54:28",
@@ -971,26 +991,6 @@
       "duration_ms": 137986,
       "name": "i like the way you kiss me - southstar remix",
       "url": "https://open.spotify.com/track/7skteOnDbwZ3ZvjSe99xv2"
-    },
-    {
-      "added_at": "2024-09-16 12:54:28",
-      "album": {
-        "name": "Weekends",
-        "url": "https://open.spotify.com/album/68Ph2nuIeP3e0vzRxrUmkh"
-      },
-      "artists": [
-        {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
-        },
-        {
-          "name": "Felix Jaehn",
-          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
-        }
-      ],
-      "duration_ms": 127003,
-      "name": "Weekends",
-      "url": "https://open.spotify.com/track/3JlHRjPt2TNB9h7VFf0im2"
     },
     {
       "added_at": "2024-09-16 12:54:28",
@@ -1247,26 +1247,6 @@
     {
       "added_at": "2024-09-16 12:54:28",
       "album": {
-        "name": "Kids",
-        "url": "https://open.spotify.com/album/4QHIneMHTfRSGjk6YZc6kv"
-      },
-      "artists": [
-        {
-          "name": "Old Jim",
-          "url": "https://open.spotify.com/artist/6v2YWK8EvCyut0QtBcAypu"
-        },
-        {
-          "name": "Zombic",
-          "url": "https://open.spotify.com/artist/6t0ofV5WMAz84Iqu0YkmTV"
-        }
-      ],
-      "duration_ms": 129412,
-      "name": "Kids",
-      "url": "https://open.spotify.com/track/1wsr7jSHPn3ozDWJUG4UXG"
-    },
-    {
-      "added_at": "2024-09-16 12:54:28",
-      "album": {
         "name": "Maneater",
         "url": "https://open.spotify.com/album/1IzIjAIaqxbIkcs8gjyifw"
       },
@@ -1283,6 +1263,26 @@
       "duration_ms": 154285,
       "name": "Maneater",
       "url": "https://open.spotify.com/track/2apRbQlpckuUM282gW1Z6p"
+    },
+    {
+      "added_at": "2024-09-16 12:54:28",
+      "album": {
+        "name": "Kids",
+        "url": "https://open.spotify.com/album/4QHIneMHTfRSGjk6YZc6kv"
+      },
+      "artists": [
+        {
+          "name": "Old Jim",
+          "url": "https://open.spotify.com/artist/6v2YWK8EvCyut0QtBcAypu"
+        },
+        {
+          "name": "Zombic",
+          "url": "https://open.spotify.com/artist/6t0ofV5WMAz84Iqu0YkmTV"
+        }
+      ],
+      "duration_ms": 129412,
+      "name": "Kids",
+      "url": "https://open.spotify.com/track/1wsr7jSHPn3ozDWJUG4UXG"
     },
     {
       "added_at": "2024-09-16 12:54:28",
@@ -1447,6 +1447,26 @@
     {
       "added_at": "2024-09-16 12:54:28",
       "album": {
+        "name": "KETA UND KRAWALL",
+        "url": "https://open.spotify.com/album/1J45kvnBanNkQebLmKvXTa"
+      },
+      "artists": [
+        {
+          "name": "Ikkimel",
+          "url": "https://open.spotify.com/artist/0CzoJbqBbtBNLArLyAFDPn"
+        },
+        {
+          "name": "Barr\u00e9",
+          "url": "https://open.spotify.com/artist/2oxB9ArMXPTWdsMg4kKmLl"
+        }
+      ],
+      "duration_ms": 125492,
+      "name": "KETA UND KRAWALL",
+      "url": "https://open.spotify.com/track/6zP4Utvok4QRXlNYBZkpGa"
+    },
+    {
+      "added_at": "2024-09-16 12:54:28",
+      "album": {
         "name": "Aspirin",
         "url": "https://open.spotify.com/album/2wyRhdZeCn7dCWJU5flkzx"
       },
@@ -1467,26 +1487,6 @@
       "duration_ms": 162162,
       "name": "Aspirin",
       "url": "https://open.spotify.com/track/69AbPl1W9V24hO9TcFgcMI"
-    },
-    {
-      "added_at": "2024-09-16 12:54:28",
-      "album": {
-        "name": "KETA UND KRAWALL",
-        "url": "https://open.spotify.com/album/1J45kvnBanNkQebLmKvXTa"
-      },
-      "artists": [
-        {
-          "name": "Ikkimel",
-          "url": "https://open.spotify.com/artist/0CzoJbqBbtBNLArLyAFDPn"
-        },
-        {
-          "name": "Barr\u00e9",
-          "url": "https://open.spotify.com/artist/2oxB9ArMXPTWdsMg4kKmLl"
-        }
-      ],
-      "duration_ms": 125492,
-      "name": "KETA UND KRAWALL",
-      "url": "https://open.spotify.com/track/6zP4Utvok4QRXlNYBZkpGa"
     },
     {
       "added_at": "2024-09-16 12:54:28",
@@ -1791,6 +1791,22 @@
     {
       "added_at": "2024-09-16 12:54:28",
       "album": {
+        "name": "Bad Girls",
+        "url": "https://open.spotify.com/album/54wKqhFUN5V8lh4tfPTmHH"
+      },
+      "artists": [
+        {
+          "name": "Nicolas Julian",
+          "url": "https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb"
+        }
+      ],
+      "duration_ms": 121771,
+      "name": "Bad Girls",
+      "url": "https://open.spotify.com/track/2h4zp76tI5Sbl3BNspNBuG"
+    },
+    {
+      "added_at": "2024-09-16 12:54:28",
+      "album": {
         "name": "Anders",
         "url": "https://open.spotify.com/album/5AXp6zh5m2lyBV5OTH5iwq"
       },
@@ -1815,38 +1831,22 @@
     {
       "added_at": "2024-09-16 12:54:28",
       "album": {
-        "name": "Bad Girls",
-        "url": "https://open.spotify.com/album/54wKqhFUN5V8lh4tfPTmHH"
+        "name": "S&M (With Chacel) [HYPERTECHNO Edit]",
+        "url": "https://open.spotify.com/album/03dARt9q9tCPuavH3xT9jK"
       },
       "artists": [
         {
-          "name": "Nicolas Julian",
-          "url": "https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb"
-        }
-      ],
-      "duration_ms": 121771,
-      "name": "Bad Girls",
-      "url": "https://open.spotify.com/track/2h4zp76tI5Sbl3BNspNBuG"
-    },
-    {
-      "added_at": "2024-09-16 12:54:28",
-      "album": {
-        "name": "Einmal um die Welt 2k23",
-        "url": "https://open.spotify.com/album/3a42tIOr7yy7FOBgrXT48a"
-      },
-      "artists": [
-        {
-          "name": "Niklas Dee",
-          "url": "https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE"
+          "name": "Macon",
+          "url": "https://open.spotify.com/artist/2Tubog1fy1Lw5OXVFOpgfJ"
         },
         {
-          "name": "NIKSTER",
-          "url": "https://open.spotify.com/artist/4lthXDxTc1gx0roDyIeaai"
+          "name": "Chacel",
+          "url": "https://open.spotify.com/artist/5tuAPsi3Q6vJLBPeP8Viep"
         }
       ],
-      "duration_ms": 135551,
-      "name": "Einmal um die Welt 2k23",
-      "url": "https://open.spotify.com/track/5HSZBIy10tdHp6OuNwEEaU"
+      "duration_ms": 178614,
+      "name": "S&M (With Chacel) - HYPERTECHNO Edit",
+      "url": "https://open.spotify.com/track/0qtQPmrqQq09KKDqxNltgM"
     }
   ],
   "unique_name": "schiebt anders",

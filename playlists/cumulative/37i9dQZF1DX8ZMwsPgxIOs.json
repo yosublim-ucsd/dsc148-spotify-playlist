@@ -176,7 +176,7 @@
       ],
       "date_added": "2024-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 212874,
       "name": "All Talk",
       "url": "https://open.spotify.com/track/2wWwyNZXJ2wH5eIdBvAxD0"
@@ -5518,6 +5518,28 @@
       "duration_ms": 298659,
       "name": "Pinger",
       "url": "https://open.spotify.com/track/6iOSV9Wk97hIpWVHfq29Dj"
+    },
+    {
+      "album": {
+        "name": "Spiritual Driveby",
+        "url": "https://open.spotify.com/album/2aQjGvSZNLgf4tuMADUeqr"
+      },
+      "artists": [
+        {
+          "name": "Sara Landry",
+          "url": "https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK"
+        },
+        {
+          "name": "Shl\u00f8mo",
+          "url": "https://open.spotify.com/artist/0ZdNs1hU6aAiaZxvFbtDWF"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218882,
+      "name": "Play With Me",
+      "url": "https://open.spotify.com/track/6PrPWf02VxGUd2jJLs9z1M"
     },
     {
       "album": {

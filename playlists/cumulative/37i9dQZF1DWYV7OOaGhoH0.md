@@ -2,9 +2,9 @@
 
 ### [Roots Rising](https://open.spotify.com/playlist/37i9dQZF1DWYV7OOaGhoH0)
 
-> The best in folk & acoustic today featuring music from Mustafa
+> The best in folk & acoustic today featuring music from Lizzy McAlpine
 
-613 songs - 1 day 13 hr 47 min
+615 songs - 1 day 13 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -250,7 +250,7 @@
 | [Homesick](https://open.spotify.com/track/0jkzxxDG8z3Y5OmfNl1VM0) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz) | 3:14 | 2023-01-13 | 2023-07-01 |
 | [Homesick for the Place I Don't Even Know \(feat\. Sam Valdez\)](https://open.spotify.com/track/1cs14d3VfzeI4z94h30Pit) | [Edwin Raphael](https://open.spotify.com/artist/44DUgsrbRUlhwfLyj4ySUB), [Sam Valdez](https://open.spotify.com/artist/4mZgWEC08B8iiFbrugixkq) | [Homesick for the Place I Don't Even Know \(feat\. Sam Valdez\)](https://open.spotify.com/album/3hM4HF7GpNYbrHzgXbrOdu) | 4:41 | 2023-02-17 | 2023-11-18 |
 | [Honey](https://open.spotify.com/track/1ALH9oRd8FqjfsSH0d8Ft4) | [The Lone Bellow](https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7) | [Honey](https://open.spotify.com/album/37OWM40EuYKeBHWCBHJyq9) | 4:36 | 2022-09-30 | 2023-12-02 |
-| [Honey I'm Hardly](https://open.spotify.com/track/0SOuHPVyGL4CtXg6Q7QOMV) | [Oliver Hazard](https://open.spotify.com/artist/3F4iXxXxe7iazo3Jnwucng) | [Honey I'm Hardly](https://open.spotify.com/album/3qqr9XxKeseTVFrlcPuxNF) | 2:47 | 2024-05-24 |  |
+| [Honey I'm Hardly](https://open.spotify.com/track/0SOuHPVyGL4CtXg6Q7QOMV) | [Oliver Hazard](https://open.spotify.com/artist/3F4iXxXxe7iazo3Jnwucng) | [Honey I'm Hardly](https://open.spotify.com/album/3qqr9XxKeseTVFrlcPuxNF) | 2:47 | 2024-05-24 | 2024-10-05 |
 | [House Song](https://open.spotify.com/track/1kr0XkYcWe2HTuCFN3BuGA) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [House Song](https://open.spotify.com/album/7oOTLwRSrfnGY1yFjBZYL2) | 4:54 | 2023-02-10 | 2023-08-22 |
 | [How \(feat\. Brandi Carlile\)](https://open.spotify.com/track/171xo7JC4bf7vqFmjF88M8) | [Marcus Mumford](https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [\(self\-titled\)](https://open.spotify.com/album/1vTQ7l9DHERJJYPMsKGpxE) | 3:44 | 2022-11-11 | 2023-10-28 |
 | [How Do You Know](https://open.spotify.com/track/55tFsAqBX9hQa060WnEHK4) | [Plàsi](https://open.spotify.com/artist/4XPttwv3iZzydK67YRl8tL), [Aisha Badru](https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK) | [How Do You Know](https://open.spotify.com/album/0friSADlRRmOBVfIJgx0Ob) | 3:02 | 2022-01-07 | 2022-06-25 |
@@ -360,6 +360,7 @@
 | [Morning](https://open.spotify.com/track/5Y6stLs2V5bK0ALhrz78FE) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [Morning](https://open.spotify.com/album/3nJafxnimvh3lWV9YmB0TE) | 3:28 | 2021-12-10 | 2022-01-29 |
 | [Mother](https://open.spotify.com/track/67tPIfy0LupBLMZMcLphtv) | [Steven van Betten](https://open.spotify.com/artist/2Txt8BxMl4npWRDxQAKvX7) | [Mother](https://open.spotify.com/album/7zFwRc3nSNDRVOPmA9szZD) | 2:53 | 2023-08-25 | 2023-09-02 |
 | [Mountain Song](https://open.spotify.com/track/2mDdkeVuUsyIepwzLCxuu6) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav) | [Mountain Song](https://open.spotify.com/album/2LSEZyWtzulIr0vS1mD4Xy) | 4:09 | 2022-09-02 | 2023-11-18 |
+| [Much Ado About Nothing](https://open.spotify.com/track/1ptXvuSGFStaYw6eumiesq) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Much Ado About Nothing](https://open.spotify.com/album/4gHhAhd9V5f6GkZXQT8xRN) | 3:49 | 2024-10-04 |  |
 | [My Boy](https://open.spotify.com/track/4vQsC1A1LNqKenyh6UyoTN) | [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga) | [My Boy](https://open.spotify.com/album/1RS0vQwtq4DpNqb4eYALfP) | 2:43 | 2022-05-06 | 2022-07-29 |
 | [My Boy](https://open.spotify.com/track/5PHbusMmCka1GbXiYoSD47) | [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga) | [My Boy](https://open.spotify.com/album/67UzYNh0EZimd6Cp0usqSN) | 2:43 | 2022-07-22 | 2022-09-13 |
 | [My Boy](https://open.spotify.com/track/5ndSLoHMt298BYsru2seYK) | [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga) | [My Boy](https://open.spotify.com/album/6BkPM6yssffxIhcKimWI3B) | 2:43 | 2022-08-19 | 2022-11-12 |
@@ -472,12 +473,13 @@
 | [Slow Pace Of Time \[Feat\. Charlie Gabriel\]](https://open.spotify.com/track/3BXlWG4SqubAmdcGac4cNR) | [Nathaniel Rateliff & The Night Sweats](https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o), [Charlie Gabriel](https://open.spotify.com/artist/0UjCu7CCeREYEprZW5jXtK) | [What If I EP](https://open.spotify.com/album/2R49Epd53NfwBsHuPO9PZu) | 4:29 | 2023-06-02 | 2023-12-16 |
 | [So Far Gone](https://open.spotify.com/track/2ZJDEk5eGgQDG41n7BnqCU) | [The Sheepdogs](https://open.spotify.com/artist/4U33udokhmKATsu8UoqUEN) | [So Far Gone](https://open.spotify.com/album/3EHloWp5pOdn9FE5aqRII4) | 3:43 | 2022-05-20 | 2022-11-19 |
 | [So Many Plans](https://open.spotify.com/track/14pNmP49UDCDJDobtV2FMc) | [Beirut](https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX) | [So Many Plans](https://open.spotify.com/album/5V1HBwPIJhA9BniGd3Yj1R) | 3:47 | 2023-09-01 | 2024-06-29 |
-| [someday i'll get it](https://open.spotify.com/track/1lb0KfG9EyfSBsEifTUtXY) | [Alek Olsen](https://open.spotify.com/artist/27sdgIaFiz55vkR68fBiy8) | [someday i'll get it](https://open.spotify.com/album/2YXww1viuuKZPi458rdopk) | 1:34 | 2024-03-22 |  |
+| [someday i'll get it](https://open.spotify.com/track/1lb0KfG9EyfSBsEifTUtXY) | [Alek Olsen](https://open.spotify.com/artist/27sdgIaFiz55vkR68fBiy8) | [someday i'll get it](https://open.spotify.com/album/2YXww1viuuKZPi458rdopk) | 1:34 | 2024-03-22 | 2024-10-05 |
 | [Someone to Follow](https://open.spotify.com/track/66quf0gB7ZRU9Dgdbhpoy9) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [Someone to Follow](https://open.spotify.com/album/6YeSuJSCR7M1BQXM59o0h5) | 4:46 | 2024-03-22 |  |
 | [Something About What Happens When We Talk](https://open.spotify.com/track/3UHWekceJvs3fvvFxKeLtU) | [Katie Pruitt](https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s) | [Something About What Happens When We Talk](https://open.spotify.com/album/1N7DJFOtSYiQEY4GfFYYH3) | 3:40 | 2022-09-09 | 2023-07-08 |
 | [Something in the Orange \- Z&E's Version](https://open.spotify.com/track/3rU2QIyNDk2OWV6mAW2qQr) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Something in the Orange](https://open.spotify.com/album/1CmTOKCeyz1aHH04OwvTPv) | 4:14 | 2022-04-26 | 2023-08-26 |
 | [Somewhere Between](https://open.spotify.com/track/11N3xwyjdDK8WAWnkvYZO2) | [Dylan Gossett](https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x) | [Somewhere Between](https://open.spotify.com/album/4qXo28L1OSKzJIckZk1oej) | 3:40 | 2024-03-08 |  |
 | [Soul Sweet Song](https://open.spotify.com/track/6tvXOpoonSGwxM0R4eq8Tj) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO) | [Soul Sweet Song](https://open.spotify.com/album/1zvef1QMx5kNFNKifTTQud) | 3:55 | 2022-08-19 | 2023-05-20 |
+| [Spring Into Summer](https://open.spotify.com/track/6oCXDaFZYL7sHnowv6pdXb) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Older \(and Wiser\)](https://open.spotify.com/album/0jw9gOg8M1Ve6KpP4Iu7XF) | 4:22 | 2024-10-04 |  |
 | [Star\-Crossed Lovers \(feat\. Lisa Hannigan\)](https://open.spotify.com/track/2N2BxKKvBgGzA8llazrNIj) | [John Smith](https://open.spotify.com/artist/56GNqAFg9wJNTwcHsJhyS2), [Lisa Hannigan](https://open.spotify.com/artist/0z7Yuv7DuDQ5SaVn4VSlLt) | [The Fray Variations](https://open.spotify.com/album/17MqCbBh9adgEqokheN61E) | 4:04 | 2022-04-01 | 2022-06-18 |
 | [Stargazing](https://open.spotify.com/track/3Vr3zh0r7ALn8VLqCiRR10) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Stargazing](https://open.spotify.com/album/3VNxRarx9HUI5w7DHv0TBj) | 2:52 | 2024-05-17 |  |
 | [Starlight](https://open.spotify.com/track/1R4nFxIiipVTeUSFdOnVIy) | [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14) | [Stand For Myself](https://open.spotify.com/album/1aF9Xjtg1d1wwsE4hRAkQV) | 4:02 | 2021-12-10 | 2022-04-09 |

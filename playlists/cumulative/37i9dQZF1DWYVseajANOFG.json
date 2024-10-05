@@ -964,7 +964,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 106000,
       "name": "CAMAVINGA",
       "url": "https://open.spotify.com/track/2ym5HGarbFQOAs7JP9EMqj"
@@ -1404,6 +1404,24 @@
       "duration_ms": 188571,
       "name": "Cuando",
       "url": "https://open.spotify.com/track/6bqEwYcDLJYMnTo7JmBWHe"
+    },
+    {
+      "album": {
+        "name": "Coexistencia",
+        "url": "https://open.spotify.com/album/2rFhnxpo2YKEyUnqo5REIX"
+      },
+      "artists": [
+        {
+          "name": "BARBEL",
+          "url": "https://open.spotify.com/artist/6oYwraA8pyfDH4Otny6ooZ"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150577,
+      "name": "Cuarentena",
+      "url": "https://open.spotify.com/track/5xISuVLHn3eobzZUsyzIDZ"
     },
     {
       "album": {
@@ -2220,7 +2238,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 246953,
       "name": "Exclu$ivo",
       "url": "https://open.spotify.com/track/3yk9eoK5VagUA9zfTaRnK6"
@@ -2697,6 +2715,28 @@
     },
     {
       "album": {
+        "name": "GROSERIA",
+        "url": "https://open.spotify.com/album/5DemjrjVcPNJtzmt2bQfUW"
+      },
+      "artists": [
+        {
+          "name": "BCA",
+          "url": "https://open.spotify.com/artist/4KXIxHcPgLB1xiPXZHlqxf"
+        },
+        {
+          "name": "Maxiolly",
+          "url": "https://open.spotify.com/artist/6BYNqaolBRE6cHA707Sl0a"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163301,
+      "name": "GROSERIA",
+      "url": "https://open.spotify.com/track/3Z2xYWz3Eq3Hefk9MFLPxA"
+    },
+    {
+      "album": {
         "name": "Guaro & Dancehall",
         "url": "https://open.spotify.com/album/7cbSb4VXwKGSJ24mYCvVoB"
       },
@@ -2848,7 +2888,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 140000,
       "name": "Humo & Party",
       "url": "https://open.spotify.com/track/5rsan8lppmmLdAd6pEhRiQ"
@@ -4260,7 +4300,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 200024,
       "name": "Mexicano",
       "url": "https://open.spotify.com/track/1m5l1h26xuPIdEFIPNwGnH"
@@ -5227,6 +5267,32 @@
     },
     {
       "album": {
+        "name": "OTRA LIGA",
+        "url": "https://open.spotify.com/album/5OFRwSBvjgYvdJP4aJ4Puk"
+      },
+      "artists": [
+        {
+          "name": "Shen",
+          "url": "https://open.spotify.com/artist/1dRtmjJQURdArwFrsUugZm"
+        },
+        {
+          "name": "Kenny Man",
+          "url": "https://open.spotify.com/artist/6SGvRyZuaSuWmP6IWUKpGf"
+        },
+        {
+          "name": "Rythmy",
+          "url": "https://open.spotify.com/artist/7k5FrnV0zp3FYjTXUHFUP4"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159157,
+      "name": "OTRA LIGA",
+      "url": "https://open.spotify.com/track/1GgE3Et7kx551FNJIy2xKA"
+    },
+    {
+      "album": {
         "name": "Sue\u00f1os",
         "url": "https://open.spotify.com/album/3TgOrQ3p23Af8zSsxK8fdX"
       },
@@ -5396,7 +5462,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 191128,
       "name": "Parchecito (Remix)",
       "url": "https://open.spotify.com/track/2MECt4ADCKVxGijkAxUIbH"
@@ -6164,7 +6230,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 167000,
       "name": "RIO",
       "url": "https://open.spotify.com/track/3FyLmihMU6uQ8DZ8haZWe0"
@@ -6994,7 +7060,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 180000,
       "name": "Te Vas",
       "url": "https://open.spotify.com/track/591VEQvLB3OKAjDM1nOOae"
@@ -7504,7 +7570,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 190909,
       "name": "Tu Traici\u00f3n",
       "url": "https://open.spotify.com/track/1RbQZ3W5fsve8oAF7ui96y"

@@ -1,6 +1,6 @@
 {
   "description": "slap house on repeat. ",
-  "num_followers": 340377,
+  "num_followers": 340383,
   "original_name": "SLAP!",
   "owner": {
     "name": "Spotify",
@@ -607,26 +607,6 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "Everybody Cries",
-        "url": "https://open.spotify.com/album/22UkULGN9jMQruUx7wHBSu"
-      },
-      "artists": [
-        {
-          "name": "Cleez",
-          "url": "https://open.spotify.com/artist/5YPawz3wh4RMf032MsIJq8"
-        },
-        {
-          "name": "R.I.O.",
-          "url": "https://open.spotify.com/artist/0Ol3Jol2T3lZZVLNNzWPhj"
-        }
-      ],
-      "duration_ms": 170662,
-      "name": "Everybody Cries",
-      "url": "https://open.spotify.com/track/2loc1fUXmJr8urMqhZOKJ8"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
         "name": "1001 Arabian Nights",
         "url": "https://open.spotify.com/album/6yGgrWVZENV6IQCCpxZQRI"
       },
@@ -643,6 +623,26 @@
       "duration_ms": 174960,
       "name": "1001 Arabian Nights",
       "url": "https://open.spotify.com/track/3YmiKv5z67ZV8tiW1eNHCM"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "Everybody Cries",
+        "url": "https://open.spotify.com/album/22UkULGN9jMQruUx7wHBSu"
+      },
+      "artists": [
+        {
+          "name": "Cleez",
+          "url": "https://open.spotify.com/artist/5YPawz3wh4RMf032MsIJq8"
+        },
+        {
+          "name": "R.I.O.",
+          "url": "https://open.spotify.com/artist/0Ol3Jol2T3lZZVLNNzWPhj"
+        }
+      ],
+      "duration_ms": 170662,
+      "name": "Everybody Cries",
+      "url": "https://open.spotify.com/track/2loc1fUXmJr8urMqhZOKJ8"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -855,26 +855,6 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "It's A Hard Knock Life (Prezioso Remix)",
-        "url": "https://open.spotify.com/album/6SNomlenerzizegZNU4yoU"
-      },
-      "artists": [
-        {
-          "name": "D.T.E",
-          "url": "https://open.spotify.com/artist/72HNCRVjK93J4ZnCY8rb1q"
-        },
-        {
-          "name": "Prezioso",
-          "url": "https://open.spotify.com/artist/3iMzbvXlgNUpoFccD60bvr"
-        }
-      ],
-      "duration_ms": 149788,
-      "name": "It's A Hard Knock Life - Prezioso Remix",
-      "url": "https://open.spotify.com/track/2ibx46fwgGe3u2pirSgjj7"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
         "name": "Darkroom",
         "url": "https://open.spotify.com/album/41Dkv1wi7AreaeUyNfBY0k"
       },
@@ -899,6 +879,26 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
+        "name": "It's A Hard Knock Life (Prezioso Remix)",
+        "url": "https://open.spotify.com/album/6SNomlenerzizegZNU4yoU"
+      },
+      "artists": [
+        {
+          "name": "D.T.E",
+          "url": "https://open.spotify.com/artist/72HNCRVjK93J4ZnCY8rb1q"
+        },
+        {
+          "name": "Prezioso",
+          "url": "https://open.spotify.com/artist/3iMzbvXlgNUpoFccD60bvr"
+        }
+      ],
+      "duration_ms": 149788,
+      "name": "It's A Hard Knock Life - Prezioso Remix",
+      "url": "https://open.spotify.com/track/2ibx46fwgGe3u2pirSgjj7"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
         "name": "Bang Bang",
         "url": "https://open.spotify.com/album/3JlZLUSr1NV4ODN16N9c6U"
       },
@@ -911,6 +911,22 @@
       "duration_ms": 162580,
       "name": "Bang Bang",
       "url": "https://open.spotify.com/track/2mq1P9N8F2zVqM1FcJGia6"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "I Don't Wanna Go",
+        "url": "https://open.spotify.com/album/5CuH8Ljl0rFq32hJPJLJCf"
+      },
+      "artists": [
+        {
+          "name": "Tujamo",
+          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
+        }
+      ],
+      "duration_ms": 186480,
+      "name": "I Don't Wanna Go",
+      "url": "https://open.spotify.com/track/5RQmbhnkrt6llPrxqRsym4"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -935,22 +951,6 @@
       "duration_ms": 152903,
       "name": "Shooting Darts (with R3HAB & Prezioso)",
       "url": "https://open.spotify.com/track/5yj8QDJ967St7PUG7sFD0n"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
-        "name": "I Don't Wanna Go",
-        "url": "https://open.spotify.com/album/5CuH8Ljl0rFq32hJPJLJCf"
-      },
-      "artists": [
-        {
-          "name": "Tujamo",
-          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
-        }
-      ],
-      "duration_ms": 186480,
-      "name": "I Don't Wanna Go",
-      "url": "https://open.spotify.com/track/5RQmbhnkrt6llPrxqRsym4"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -995,6 +995,22 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
+        "name": "She Wolf (Falling to Pieces)",
+        "url": "https://open.spotify.com/album/7A37H04INETElZeLJioWDD"
+      },
+      "artists": [
+        {
+          "name": "YES YES",
+          "url": "https://open.spotify.com/artist/3jcjf0rNrcWYAdeiz96Yus"
+        }
+      ],
+      "duration_ms": 171028,
+      "name": "She Wolf (Falling to Pieces)",
+      "url": "https://open.spotify.com/track/0hr1uftboYFqgJadb7ecML"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
         "name": "abcdefu",
         "url": "https://open.spotify.com/album/6DCOsfIWEGFtDlfQ5Y6h8M"
       },
@@ -1015,22 +1031,6 @@
       "duration_ms": 172500,
       "name": "abcdefu",
       "url": "https://open.spotify.com/track/4n7llAzVaSqxAI2TtwqdDr"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
-        "name": "She Wolf (Falling to Pieces)",
-        "url": "https://open.spotify.com/album/7A37H04INETElZeLJioWDD"
-      },
-      "artists": [
-        {
-          "name": "YES YES",
-          "url": "https://open.spotify.com/artist/3jcjf0rNrcWYAdeiz96Yus"
-        }
-      ],
-      "duration_ms": 171028,
-      "name": "She Wolf (Falling to Pieces)",
-      "url": "https://open.spotify.com/track/0hr1uftboYFqgJadb7ecML"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -1163,6 +1163,26 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
+        "name": "Fire To Smoke",
+        "url": "https://open.spotify.com/album/5DZveTrXrFJSbYk2xSaADW"
+      },
+      "artists": [
+        {
+          "name": "Tiscore",
+          "url": "https://open.spotify.com/artist/2tOS3f6iaWspDI0WUowsZI"
+        },
+        {
+          "name": "Tiffany Aris",
+          "url": "https://open.spotify.com/artist/4D4y0HNxJLmJBNXQkrVbHo"
+        }
+      ],
+      "duration_ms": 163209,
+      "name": "Fire To Smoke",
+      "url": "https://open.spotify.com/track/0wpEtERZ78hweuJCWD9eAE"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
         "name": "Cups (Drunk in Love Pt. 2)",
         "url": "https://open.spotify.com/album/1cX6e5ghxOQRY4v2Dh751x"
       },
@@ -1183,26 +1203,6 @@
       "duration_ms": 163617,
       "name": "Cups (Drunk in Love Pt. 2)",
       "url": "https://open.spotify.com/track/2Se4VxJe5qbNAHLgGsUW9Z"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
-        "name": "Fire To Smoke",
-        "url": "https://open.spotify.com/album/5DZveTrXrFJSbYk2xSaADW"
-      },
-      "artists": [
-        {
-          "name": "Tiscore",
-          "url": "https://open.spotify.com/artist/2tOS3f6iaWspDI0WUowsZI"
-        },
-        {
-          "name": "Tiffany Aris",
-          "url": "https://open.spotify.com/artist/4D4y0HNxJLmJBNXQkrVbHo"
-        }
-      ],
-      "duration_ms": 163209,
-      "name": "Fire To Smoke",
-      "url": "https://open.spotify.com/track/0wpEtERZ78hweuJCWD9eAE"
     },
     {
       "added_at": "2024-09-06 04:00:00",

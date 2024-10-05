@@ -1,12 +1,12 @@
 {
   "description": "This is Lourena. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 21699,
+  "num_followers": 21697,
   "original_name": "This Is Lourena",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvyNAAAAAADadAaY2WfEECjzVKc5tDf1",
+  "snapshot_id": "Zv3egAAAAAC5fMZQS4gqTRz5iyZ7uVcl",
   "tracks": [
     {
       "added_at": null,
@@ -775,26 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "S\u00f3 Porque Eu Sou Mulher",
-        "url": "https://open.spotify.com/album/5XOEPbMzQhqgXXKtxm8Isa"
-      },
-      "artists": [
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        },
-        {
-          "name": "Haga",
-          "url": "https://open.spotify.com/artist/5LmwSGneAmeX78pWDTbq8o"
-        }
-      ],
-      "duration_ms": 163535,
-      "name": "S\u00f3 Porque Eu Sou Mulher",
-      "url": "https://open.spotify.com/track/6gpnmxMmHCWpfkb1vkqasb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "5458",
         "url": "https://open.spotify.com/album/530LB9H9MD7SmG5QbnvNsV"
       },
@@ -811,6 +791,26 @@
       "duration_ms": 187629,
       "name": "5458",
       "url": "https://open.spotify.com/track/6sJRnHsNWIT2yoW5Uhp1bs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "S\u00f3 Porque Eu Sou Mulher",
+        "url": "https://open.spotify.com/album/5XOEPbMzQhqgXXKtxm8Isa"
+      },
+      "artists": [
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "Haga",
+          "url": "https://open.spotify.com/artist/5LmwSGneAmeX78pWDTbq8o"
+        }
+      ],
+      "duration_ms": 163535,
+      "name": "S\u00f3 Porque Eu Sou Mulher",
+      "url": "https://open.spotify.com/track/6gpnmxMmHCWpfkb1vkqasb"
     },
     {
       "added_at": null,
@@ -1239,6 +1239,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "O Mundo Parou",
+        "url": "https://open.spotify.com/album/1WB7QHhc876rkNBgJBo1oU"
+      },
+      "artists": [
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "Haga",
+          "url": "https://open.spotify.com/artist/5LmwSGneAmeX78pWDTbq8o"
+        }
+      ],
+      "duration_ms": 223354,
+      "name": "O Mundo Parou",
+      "url": "https://open.spotify.com/track/6qXQLRHwGMpocPeVvHzG11"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tudo Vai Mudar",
         "url": "https://open.spotify.com/album/1Zk0KKqRWihfdboFzblnwt"
       },
@@ -1259,26 +1279,6 @@
       "duration_ms": 173553,
       "name": "Tudo Vai Mudar",
       "url": "https://open.spotify.com/track/2OXY2pkzwIBWxE8vPMB829"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "O Mundo Parou",
-        "url": "https://open.spotify.com/album/1WB7QHhc876rkNBgJBo1oU"
-      },
-      "artists": [
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        },
-        {
-          "name": "Haga",
-          "url": "https://open.spotify.com/artist/5LmwSGneAmeX78pWDTbq8o"
-        }
-      ],
-      "duration_ms": 223354,
-      "name": "O Mundo Parou",
-      "url": "https://open.spotify.com/track/6qXQLRHwGMpocPeVvHzG11"
     },
     {
       "added_at": null,

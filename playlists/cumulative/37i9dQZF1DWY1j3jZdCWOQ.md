@@ -4,7 +4,7 @@
 
 > Spain minus the S =
 
-300 songs - 15 hr 29 min
+301 songs - 15 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,7 @@
 | [brutal](https://open.spotify.com/track/6SRsiMl7w1USE4mFqrOhHC) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 2:23 | 2021-12-08 |  |
 | [Bubblegum Bitch](https://open.spotify.com/track/0ZFBKLOZLIM16RAUb5eomN) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [Electra Heart \(Deluxe\)](https://open.spotify.com/album/5N1aNUXaHDD7YsjhbCM9JZ) | 2:34 | 2021-12-08 | 2022-07-29 |
 | [Bubblegum Bitch](https://open.spotify.com/track/6IbnUaczZBT34DhaD6S18F) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [Electra Heart \(Deluxe\)](https://open.spotify.com/album/49kf7gWWtReFwPcCNsvyUf) | 2:34 | 2022-07-14 | 2024-04-19 |
-| [Candy Coated Lie$](https://open.spotify.com/track/5Xr1q4GLTnNZu6c4K9rsNh) | [Hot Milk](https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK) | [Candy Coated Lie$](https://open.spotify.com/album/2hqp0oGlkPppaDtmROiUmN) | 2:57 | 2021-12-08 | 2024-10-01 |
+| [Candy Coated Lie$](https://open.spotify.com/track/5Xr1q4GLTnNZu6c4K9rsNh) | [Hot Milk](https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK) | [Candy Coated Lie$](https://open.spotify.com/album/2hqp0oGlkPppaDtmROiUmN) | 2:57 | 2021-12-08 |  |
 | [Celebrity Skin](https://open.spotify.com/track/2V4Bc2I962j7acQj1N0PiQ) | [Hole](https://open.spotify.com/artist/5SHQUMAmEK5KmuSb0aDvsn) | [Celebrity Skin](https://open.spotify.com/album/2KE8WCHtD8qnAxXeIzNEId) | 2:42 | 2023-11-10 |  |
 | [Change](https://open.spotify.com/track/41FCZduFUjoymvDXb6ZviB) | [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [Who Am I?](https://open.spotify.com/album/5FLKDb9bvbMu0yTahZtgHO) | 2:52 | 2022-01-21 | 2022-04-18 |
 | [Charmed](https://open.spotify.com/track/254j8xiQRpG0vqCUy1fRag) | [Eva Haze](https://open.spotify.com/artist/0L0GAoyR21K6Kf5cKVdh8g) | [Under The Tin Sky](https://open.spotify.com/album/21hTKaDybZTrIiC48zDsZA) | 4:17 | 2023-12-06 | 2024-03-26 |
@@ -163,7 +163,7 @@
 | [LIFE'S A BIT](https://open.spotify.com/track/17r3SCcSZ9EVohyGJbnMCq) | [NOAHFINNCE](https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM) | [LIFE'S A BIT](https://open.spotify.com/album/1f3vBv7UFvchpTfSfEWX6w) | 2:30 | 2021-12-08 | 2022-07-29 |
 | [Lonely Day \- Spotify Singles](https://open.spotify.com/track/2bmGjqYsvXVTt1CRfUicIH) | [Amira Elfeky](https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk) | [Lonely Day \- Spotify Singles](https://open.spotify.com/album/2GUhX1GveJBRtgpyUQhTSY) | 2:36 | 2024-02-12 | 2024-03-26 |
 | [Loser](https://open.spotify.com/track/01VbCa15MmvNg3KMOfoHa2) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [It Was Fun While It Lasted](https://open.spotify.com/album/0d2livswZ7Q3puCCJCE0Ge) | 2:13 | 2022-04-01 | 2022-07-13 |
-| [LOSER!!](https://open.spotify.com/track/5lHh9CANIUY82y1HEzoeIX) | [Mckenna Grace](https://open.spotify.com/artist/1ZjXhESKpjsv31L7ykuJBE) | [LOSER!!](https://open.spotify.com/album/0V7dIK9Bf6aVqSZuV0fqhD) | 3:48 | 2024-07-19 |  |
+| [LOSER!!](https://open.spotify.com/track/5lHh9CANIUY82y1HEzoeIX) | [Mckenna Grace](https://open.spotify.com/artist/1ZjXhESKpjsv31L7ykuJBE) | [LOSER!!](https://open.spotify.com/album/0V7dIK9Bf6aVqSZuV0fqhD) | 3:48 | 2024-07-19 | 2024-10-05 |
 | [LosT](https://open.spotify.com/track/5BgnL6gHauuvxe4Ok6W1aC) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [LosT](https://open.spotify.com/album/3zZBB971MYFVBYlzNrYpoA) | 3:25 | 2023-09-08 |  |
 | [Lotta True Crime](https://open.spotify.com/track/18jbMG8etanCMt6C5wFRDa) | [Penelope Scott](https://open.spotify.com/artist/3u6lPufHw4Oww6D88rv6sB) | [Public Void](https://open.spotify.com/album/49iT8dV8hZ5o7bqpOI5yfI) | 3:22 | 2022-09-30 | 2024-04-19 |
 | [Lotta True Crime](https://open.spotify.com/track/6Dqs6JddZc16yl27MDzIWY) | [Penelope Scott](https://open.spotify.com/artist/3u6lPufHw4Oww6D88rv6sB) | [Public Void](https://open.spotify.com/album/0G2RxSCixG5Nl6jpjwiw2g) | 3:22 | 2021-12-08 | 2022-07-29 |
@@ -281,10 +281,11 @@
 | [Until It Stops \- Spotify Singles](https://open.spotify.com/track/0dN85vbuUdU7Hnu0hLZHsN) | [Pom Pom Squad](https://open.spotify.com/artist/1yhTALwId0bpL1U1XRT3Zs) | [Until It Stops \(Spotify Singles\)](https://open.spotify.com/album/6EmA1GZ0KIb5cpXBOrIB5y) | 2:36 | 2022-02-04 | 2022-04-02 |
 | [Until the Day I Die](https://open.spotify.com/track/0DKNNR9iDjwfCEpMiFXMJq) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [Page Avenue](https://open.spotify.com/album/4juejyEeCKFskkDA6zhIBW) | 3:55 | 2022-01-21 |  |
 | [ur just horny](https://open.spotify.com/track/02gGfhPHk5NuN0mgbKpU4Y) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [ur just horny](https://open.spotify.com/album/2LhBsI65bqTpO8pVlZhK0A) | 2:58 | 2022-01-21 | 2022-07-11 |
+| [Vienna \(Everything’s Fine\)](https://open.spotify.com/track/4MZkA1wOfqYclYkQt7MUEd) | [Vienna Vienna](https://open.spotify.com/artist/5ZVQRC3rtUNBJVrrrSl17r) | [Vienna \(Everything’s Fine\)](https://open.spotify.com/album/47wbE9QX926Oc3UIFAnKFQ) | 2:57 | 2024-09-30 |  |
 | [Visitation Of The Ghost](https://open.spotify.com/track/0UspsjF4bHzpQdvHvKM3hV) | [The Brobecks](https://open.spotify.com/artist/29TCgxO6qzQx4O3pjUIMzn) | [Violent Things](https://open.spotify.com/album/1KLBdhphdiK82hYpAiw8DR) | 4:23 | 2021-12-08 | 2024-05-23 |
 | [Viva Las Vengeance](https://open.spotify.com/track/2XRh87n9CQoWkWW94H3Min) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Viva Las Vengeance](https://open.spotify.com/album/0pTYrZO3W4KyciXKM2fqei) | 3:26 | 2022-07-29 | 2022-08-10 |
 | [Voices In My Head](https://open.spotify.com/track/5XUuldRjPXcP5QxyEN4IXT) | [Falling In Reverse](https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz) | [Voices In My Head](https://open.spotify.com/album/7r9WVGq5YRQ4eeYUYzmk8b) | 3:11 | 2022-12-01 | 2023-03-25 |
-| [Vultures \(feat\. PVRIS\)](https://open.spotify.com/track/0O1APvs7Bfe7YaQO8ekg1z) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z), [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [Nosebleeds: Encore](https://open.spotify.com/album/19BoWVjerUhTZXmTlVGCoJ) | 2:58 | 2024-07-29 |  |
+| [Vultures \(feat\. PVRIS\)](https://open.spotify.com/track/0O1APvs7Bfe7YaQO8ekg1z) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z), [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [Nosebleeds: Encore](https://open.spotify.com/album/19BoWVjerUhTZXmTlVGCoJ) | 2:58 | 2024-07-29 | 2024-10-05 |
 | [We Don't Wanna Talk](https://open.spotify.com/track/7Gzs6HvJBEBSxsNkXwBqay) | [Friday Pilots Club](https://open.spotify.com/artist/3PgEvPJKRuil74QPX8wtXY) | [Nowhere](https://open.spotify.com/album/52g4ptmJZyzP2q33EnVaOO) | 2:39 | 2024-05-22 |  |
 | [We're All Falling Apart](https://open.spotify.com/track/7uhPrSyqbRDSwWd0JBTsA7) | [OCTAVIO the Dweeb](https://open.spotify.com/artist/0gqcx73XJbrIif5poxdHqt) | [We're All Falling Apart](https://open.spotify.com/album/35IjLV9YXGSRULuZlhqAO1) | 3:02 | 2021-12-08 | 2022-04-21 |
 | [Weirdo](https://open.spotify.com/track/3GEcWJB535LBfwF1lyWGAD) | [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [Weirdo](https://open.spotify.com/album/1R0W4HzWUdAMy9TuDH8x1Z) | 3:45 | 2022-01-21 | 2022-02-05 |

@@ -845,6 +845,24 @@
     },
     {
       "album": {
+        "name": "Bye Bye Bye (Stripped)",
+        "url": "https://open.spotify.com/album/0oLZnL3k7j99pcrbQPWJC3"
+      },
+      "artists": [
+        {
+          "name": "Dasha",
+          "url": "https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143587,
+      "name": "Bye Bye Bye - Stripped",
+      "url": "https://open.spotify.com/track/0TNomhATGo04D8twLvXRN7"
+    },
+    {
+      "album": {
         "name": "Can't Have Mine (Find You A Girl) [Acoustic]",
         "url": "https://open.spotify.com/album/6Z5hiPEf5U9Z3Q9t2atIPn"
       },
@@ -3912,7 +3930,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 182893,
       "name": "Something's Gonna Kill Me - Piano",
       "url": "https://open.spotify.com/track/4zUuhIVPfWkfSWMFIi7WKx"

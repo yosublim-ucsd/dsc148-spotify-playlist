@@ -1,6 +1,6 @@
 {
   "description": "Disfruta del m\u00e1s fino R&B hecho en espa\u00f1ol. Ximena Sari\u00f1ana en portada.",
-  "num_followers": 255175,
+  "num_followers": 255184,
   "original_name": "R&B Latino",
   "owner": {
     "name": "Spotify",
@@ -591,18 +591,22 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "Dreams & Love",
-        "url": "https://open.spotify.com/album/1ODH4lUzYBmobn9Nsj31PE"
+        "name": "EN EL GHETTO #3 (Par de cosas)",
+        "url": "https://open.spotify.com/album/125WpnuPZ1Ito6zRhQT0ji"
       },
       "artists": [
         {
-          "name": "LIT killah",
-          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
+          "name": "Ghetto Kids",
+          "url": "https://open.spotify.com/artist/6XvKTz2XRPwlry0UdjqoKq"
+        },
+        {
+          "name": "Nsqk",
+          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
         }
       ],
-      "duration_ms": 141692,
-      "name": "Dreams & Love",
-      "url": "https://open.spotify.com/track/7ihJMM7b6SkK5CpRYlwDfN"
+      "duration_ms": 215000,
+      "name": "EN EL GHETTO #3 (Par de cosas)",
+      "url": "https://open.spotify.com/track/1sMZcWb0Ve9OYw4srIC4z3"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -631,22 +635,18 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "EN EL GHETTO #3 (Par de cosas)",
-        "url": "https://open.spotify.com/album/125WpnuPZ1Ito6zRhQT0ji"
+        "name": "Dreams & Love",
+        "url": "https://open.spotify.com/album/1ODH4lUzYBmobn9Nsj31PE"
       },
       "artists": [
         {
-          "name": "Ghetto Kids",
-          "url": "https://open.spotify.com/artist/6XvKTz2XRPwlry0UdjqoKq"
-        },
-        {
-          "name": "Nsqk",
-          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
+          "name": "LIT killah",
+          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
         }
       ],
-      "duration_ms": 215000,
-      "name": "EN EL GHETTO #3 (Par de cosas)",
-      "url": "https://open.spotify.com/track/1sMZcWb0Ve9OYw4srIC4z3"
+      "duration_ms": 141692,
+      "name": "Dreams & Love",
+      "url": "https://open.spotify.com/track/7ihJMM7b6SkK5CpRYlwDfN"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -687,22 +687,6 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "Portales (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4rncniiruMzTS8BTWHVEjU"
-      },
-      "artists": [
-        {
-          "name": "Tiago PZK",
-          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
-        }
-      ],
-      "duration_ms": 163404,
-      "name": "Me Olvid\u00e9",
-      "url": "https://open.spotify.com/track/7ffzz5DfxaPnGNCKu6f0II"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
         "name": "TESTIGOS",
         "url": "https://open.spotify.com/album/0BUC1JOEm1kk8nYOpHfKOp"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 220000,
       "name": "TESTIGOS",
       "url": "https://open.spotify.com/track/4IWTNhnNmYMEXE48DclSnG"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
+        "name": "Portales (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4rncniiruMzTS8BTWHVEjU"
+      },
+      "artists": [
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        }
+      ],
+      "duration_ms": 163404,
+      "name": "Me Olvid\u00e9",
+      "url": "https://open.spotify.com/track/7ffzz5DfxaPnGNCKu6f0II"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -947,22 +947,6 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "No digas nada",
-        "url": "https://open.spotify.com/album/2g2B9rwO0VmWNKrdpeAmf3"
-      },
-      "artists": [
-        {
-          "name": "LATIN MAFIA",
-          "url": "https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF"
-        }
-      ],
-      "duration_ms": 222545,
-      "name": "No digas nada",
-      "url": "https://open.spotify.com/track/24lqVtYdnA1NhYd37XFOPb"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
         "name": "Butterfly",
         "url": "https://open.spotify.com/album/2cQZ4nIW2huzsxChtie6QV"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 193600,
       "name": "Butterfly",
       "url": "https://open.spotify.com/track/2ZpTwWC6cUtz5oHcGQexwp"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
+        "name": "No digas nada",
+        "url": "https://open.spotify.com/album/2g2B9rwO0VmWNKrdpeAmf3"
+      },
+      "artists": [
+        {
+          "name": "LATIN MAFIA",
+          "url": "https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF"
+        }
+      ],
+      "duration_ms": 222545,
+      "name": "No digas nada",
+      "url": "https://open.spotify.com/track/24lqVtYdnA1NhYd37XFOPb"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -1015,6 +1015,22 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
+        "name": "Calles De Madrid",
+        "url": "https://open.spotify.com/album/1iIY9XyDAuEJruF9WQU4W4"
+      },
+      "artists": [
+        {
+          "name": "Kendall Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/2Sb4Db1YYVwCK3l04E9cpn"
+        }
+      ],
+      "duration_ms": 179986,
+      "name": "Calles De Madrid",
+      "url": "https://open.spotify.com/track/4xZkI6BhMRAVlEHYAhUC9m"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
         "name": "La Ducha Remix (con Becky G, Tini)",
         "url": "https://open.spotify.com/album/0YsMUawHhH0VNOpVLi85UI"
       },
@@ -1043,22 +1059,6 @@
       "duration_ms": 274437,
       "name": "La Ducha Remix (con Becky G, Tini)",
       "url": "https://open.spotify.com/track/0044ljTRPPQdAkCUXK6s7A"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
-        "name": "Calles De Madrid",
-        "url": "https://open.spotify.com/album/1iIY9XyDAuEJruF9WQU4W4"
-      },
-      "artists": [
-        {
-          "name": "Kendall Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/2Sb4Db1YYVwCK3l04E9cpn"
-        }
-      ],
-      "duration_ms": 179986,
-      "name": "Calles De Madrid",
-      "url": "https://open.spotify.com/track/4xZkI6BhMRAVlEHYAhUC9m"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -1339,6 +1339,22 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
+        "name": "1UNAMORSUPREMO",
+        "url": "https://open.spotify.com/album/0Gq8Uf0ADz6087Kr8vSwiP"
+      },
+      "artists": [
+        {
+          "name": "YOSHI",
+          "url": "https://open.spotify.com/artist/399j7KzhXlNysKZvb55lxd"
+        }
+      ],
+      "duration_ms": 240680,
+      "name": "SUFICIENTEPUNTOWAV",
+      "url": "https://open.spotify.com/track/2mTWugtOne1S8OuPVGvFXb"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
         "name": "LA CLASSE",
         "url": "https://open.spotify.com/album/12VOMWjtxbf0pzORWPHutT"
       },
@@ -1359,22 +1375,6 @@
       "duration_ms": 182400,
       "name": "TU FAN",
       "url": "https://open.spotify.com/track/1jHC95Vb9VOV1BwrwSC6Fc"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
-        "name": "1UNAMORSUPREMO",
-        "url": "https://open.spotify.com/album/0Gq8Uf0ADz6087Kr8vSwiP"
-      },
-      "artists": [
-        {
-          "name": "YOSHI",
-          "url": "https://open.spotify.com/artist/399j7KzhXlNysKZvb55lxd"
-        }
-      ],
-      "duration_ms": 240680,
-      "name": "SUFICIENTEPUNTOWAV",
-      "url": "https://open.spotify.com/track/2mTWugtOne1S8OuPVGvFXb"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -1427,6 +1427,22 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
+        "name": "radar",
+        "url": "https://open.spotify.com/album/5NoZoiJBQJz4a5FZSjGXei"
+      },
+      "artists": [
+        {
+          "name": "Nicole Horts",
+          "url": "https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux"
+        }
+      ],
+      "duration_ms": 160694,
+      "name": "radar",
+      "url": "https://open.spotify.com/track/3xYtmu8IcDfXGEw7I9oChp"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
         "name": "Curvas",
         "url": "https://open.spotify.com/album/4epp2PoR2TdOkYN90EG1MT"
       },
@@ -1447,22 +1463,6 @@
       "duration_ms": 168004,
       "name": "Curvas",
       "url": "https://open.spotify.com/track/6TO05VYYHCkZpy0V1XVOdI"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
-        "name": "radar",
-        "url": "https://open.spotify.com/album/5NoZoiJBQJz4a5FZSjGXei"
-      },
-      "artists": [
-        {
-          "name": "Nicole Horts",
-          "url": "https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux"
-        }
-      ],
-      "duration_ms": 160694,
-      "name": "radar",
-      "url": "https://open.spotify.com/track/3xYtmu8IcDfXGEw7I9oChp"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -1539,6 +1539,22 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
+        "name": "KD",
+        "url": "https://open.spotify.com/album/4Af1rMjB7gFkATNj3ylmxS"
+      },
+      "artists": [
+        {
+          "name": "Melej",
+          "url": "https://open.spotify.com/artist/29juLxqcdKW32ZcNzBg0py"
+        }
+      ],
+      "duration_ms": 159146,
+      "name": "KD",
+      "url": "https://open.spotify.com/track/2Sj2r0AqagHIZ2NKiKZ49b"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
         "name": "SIN PERDER, NUNK CUENTA",
         "url": "https://open.spotify.com/album/50LHRqNoAFdauzswqXWajX"
       },
@@ -1571,22 +1587,6 @@
       "duration_ms": 192013,
       "name": "Creo",
       "url": "https://open.spotify.com/track/6vFO2NwMrqQXAQyEbGiTq8"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
-        "name": "KD",
-        "url": "https://open.spotify.com/album/4Af1rMjB7gFkATNj3ylmxS"
-      },
-      "artists": [
-        {
-          "name": "Melej",
-          "url": "https://open.spotify.com/artist/29juLxqcdKW32ZcNzBg0py"
-        }
-      ],
-      "duration_ms": 159146,
-      "name": "KD",
-      "url": "https://open.spotify.com/track/2Sj2r0AqagHIZ2NKiKZ49b"
     },
     {
       "added_at": "2024-09-27 06:00:00",

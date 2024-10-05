@@ -1,6 +1,6 @@
 {
   "description": "have fun with it.",
-  "num_followers": 1505150,
+  "num_followers": 1505122,
   "original_name": "it's alt good",
   "owner": {
     "name": "Spotify",
@@ -439,18 +439,18 @@
     {
       "added_at": "2024-09-30 15:51:51",
       "album": {
-        "name": "Favourite",
-        "url": "https://open.spotify.com/album/2bPJfnWkyJKG4gCajBXASQ"
+        "name": "Living In A Haze",
+        "url": "https://open.spotify.com/album/2Ffexjpw1Q1qdwLWEVThEJ"
       },
       "artists": [
         {
-          "name": "Fontaines D.C.",
-          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
+          "name": "Milky Chance",
+          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
         }
       ],
-      "duration_ms": 256066,
-      "name": "Favourite",
-      "url": "https://open.spotify.com/track/7oG9qhZ0UaQEoUGJJVXh1U"
+      "duration_ms": 173369,
+      "name": "Living In A Haze",
+      "url": "https://open.spotify.com/track/3yfki4r5cgFA784trLoHnk"
     },
     {
       "added_at": "2024-09-30 15:51:51",
@@ -471,18 +471,18 @@
     {
       "added_at": "2024-09-30 15:51:51",
       "album": {
-        "name": "Living In A Haze",
-        "url": "https://open.spotify.com/album/2Ffexjpw1Q1qdwLWEVThEJ"
+        "name": "Favourite",
+        "url": "https://open.spotify.com/album/2bPJfnWkyJKG4gCajBXASQ"
       },
       "artists": [
         {
-          "name": "Milky Chance",
-          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
+          "name": "Fontaines D.C.",
+          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
         }
       ],
-      "duration_ms": 173369,
-      "name": "Living In A Haze",
-      "url": "https://open.spotify.com/track/3yfki4r5cgFA784trLoHnk"
+      "duration_ms": 256066,
+      "name": "Favourite",
+      "url": "https://open.spotify.com/track/7oG9qhZ0UaQEoUGJJVXh1U"
     },
     {
       "added_at": "2024-09-30 15:51:51",
@@ -751,6 +751,22 @@
     {
       "added_at": "2024-09-30 15:51:51",
       "album": {
+        "name": "Clueless",
+        "url": "https://open.spotify.com/album/2H3XOt3oaqB6rAVKhmdUd3"
+      },
+      "artists": [
+        {
+          "name": "Beach Bunny",
+          "url": "https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H"
+        }
+      ],
+      "duration_ms": 208298,
+      "name": "Clueless",
+      "url": "https://open.spotify.com/track/55Hlg31EQDXQn71p1KIr8r"
+    },
+    {
+      "added_at": "2024-09-30 15:51:51",
+      "album": {
         "name": "After Midnight (feat. Clairo)",
         "url": "https://open.spotify.com/album/6xsvkBbeMsrk6HPDBsJEwS"
       },
@@ -771,22 +787,6 @@
     {
       "added_at": "2024-09-30 15:51:51",
       "album": {
-        "name": "Welcome to the DCC",
-        "url": "https://open.spotify.com/album/5Os5j39zKEfpvKL11TtfYE"
-      },
-      "artists": [
-        {
-          "name": "Nothing But Thieves",
-          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
-        }
-      ],
-      "duration_ms": 198798,
-      "name": "Welcome to the DCC",
-      "url": "https://open.spotify.com/track/0ZImVxesVZIydOnwTMSWOK"
-    },
-    {
-      "added_at": "2024-09-30 15:51:51",
-      "album": {
         "name": "I've Got Some Living To Do",
         "url": "https://open.spotify.com/album/73ct5rK9qShCYdzBR8C8PX"
       },
@@ -803,18 +803,18 @@
     {
       "added_at": "2024-09-30 15:51:51",
       "album": {
-        "name": "Clueless",
-        "url": "https://open.spotify.com/album/2H3XOt3oaqB6rAVKhmdUd3"
+        "name": "Welcome to the DCC",
+        "url": "https://open.spotify.com/album/5Os5j39zKEfpvKL11TtfYE"
       },
       "artists": [
         {
-          "name": "Beach Bunny",
-          "url": "https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H"
+          "name": "Nothing But Thieves",
+          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
         }
       ],
-      "duration_ms": 208298,
-      "name": "Clueless",
-      "url": "https://open.spotify.com/track/55Hlg31EQDXQn71p1KIr8r"
+      "duration_ms": 198798,
+      "name": "Welcome to the DCC",
+      "url": "https://open.spotify.com/track/0ZImVxesVZIydOnwTMSWOK"
     },
     {
       "added_at": "2024-09-30 15:51:51",
@@ -867,22 +867,6 @@
     {
       "added_at": "2024-09-30 15:51:51",
       "album": {
-        "name": "f**k it, i'm the man",
-        "url": "https://open.spotify.com/album/3lT6pYJ3y8YcpMKGHQjdsj"
-      },
-      "artists": [
-        {
-          "name": "SEB",
-          "url": "https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi"
-        }
-      ],
-      "duration_ms": 150693,
-      "name": "f**k it, i'm the man",
-      "url": "https://open.spotify.com/track/3Jq0vjC96tJlUVAdKfMajk"
-    },
-    {
-      "added_at": "2024-09-30 15:51:51",
-      "album": {
         "name": "One That Got Away",
         "url": "https://open.spotify.com/album/2FAHnRUhqr0Scl92hrAond"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 232266,
       "name": "One That Got Away",
       "url": "https://open.spotify.com/track/55RszydvrfNlZ2BQdF1c4q"
+    },
+    {
+      "added_at": "2024-09-30 15:51:51",
+      "album": {
+        "name": "f**k it, i'm the man",
+        "url": "https://open.spotify.com/album/3lT6pYJ3y8YcpMKGHQjdsj"
+      },
+      "artists": [
+        {
+          "name": "SEB",
+          "url": "https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi"
+        }
+      ],
+      "duration_ms": 150693,
+      "name": "f**k it, i'm the man",
+      "url": "https://open.spotify.com/track/3Jq0vjC96tJlUVAdKfMajk"
     },
     {
       "added_at": "2024-09-30 15:51:51",
@@ -915,22 +915,6 @@
     {
       "added_at": "2024-09-30 15:51:51",
       "album": {
-        "name": "Mrs. Hollywood",
-        "url": "https://open.spotify.com/album/4R94EEvhdvAE3PWhPcLo59"
-      },
-      "artists": [
-        {
-          "name": "Go-Jo",
-          "url": "https://open.spotify.com/artist/7CslUrDCYnm3vMtKZJZGNv"
-        }
-      ],
-      "duration_ms": 143840,
-      "name": "Mrs. Hollywood",
-      "url": "https://open.spotify.com/track/1K1KcmJgKaeqnsisQnhyE1"
-    },
-    {
-      "added_at": "2024-09-30 15:51:51",
-      "album": {
         "name": "Heartbeat Highway",
         "url": "https://open.spotify.com/album/1mBlpKV5enWAZdQxBqZ96r"
       },
@@ -947,22 +931,6 @@
     {
       "added_at": "2024-09-30 15:51:51",
       "album": {
-        "name": "Odelay",
-        "url": "https://open.spotify.com/album/1Pus5h1qGedCn4CtOuPVtp"
-      },
-      "artists": [
-        {
-          "name": "Beck",
-          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
-        }
-      ],
-      "duration_ms": 195440,
-      "name": "Devils Haircut",
-      "url": "https://open.spotify.com/track/47OEl1PttAFxNEf9KRmx23"
-    },
-    {
-      "added_at": "2024-09-30 15:51:51",
-      "album": {
         "name": "only wanna dance",
         "url": "https://open.spotify.com/album/0TKIG4zSRc1lLU7CJ5ythm"
       },
@@ -975,6 +943,22 @@
       "duration_ms": 144391,
       "name": "only wanna dance",
       "url": "https://open.spotify.com/track/5unvfecPlWyn1NkFpf5YvA"
+    },
+    {
+      "added_at": "2024-09-30 15:51:51",
+      "album": {
+        "name": "Odelay",
+        "url": "https://open.spotify.com/album/1Pus5h1qGedCn4CtOuPVtp"
+      },
+      "artists": [
+        {
+          "name": "Beck",
+          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+        }
+      ],
+      "duration_ms": 195440,
+      "name": "Devils Haircut",
+      "url": "https://open.spotify.com/track/47OEl1PttAFxNEf9KRmx23"
     },
     {
       "added_at": "2024-09-30 15:51:51",
@@ -1011,6 +995,22 @@
     {
       "added_at": "2024-09-30 15:51:51",
       "album": {
+        "name": "Mrs. Hollywood",
+        "url": "https://open.spotify.com/album/4R94EEvhdvAE3PWhPcLo59"
+      },
+      "artists": [
+        {
+          "name": "Go-Jo",
+          "url": "https://open.spotify.com/artist/7CslUrDCYnm3vMtKZJZGNv"
+        }
+      ],
+      "duration_ms": 143840,
+      "name": "Mrs. Hollywood",
+      "url": "https://open.spotify.com/track/1K1KcmJgKaeqnsisQnhyE1"
+    },
+    {
+      "added_at": "2024-09-30 15:51:51",
+      "album": {
         "name": "Caffeine",
         "url": "https://open.spotify.com/album/4XeleObofFq1o3lscbN9lO"
       },
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2024-09-30 15:51:51",
       "album": {
-        "name": "What're We Doing Here",
-        "url": "https://open.spotify.com/album/0di1rlD8Afel1VLF06lRxK"
-      },
-      "artists": [
-        {
-          "name": "ALEXSUCKS",
-          "url": "https://open.spotify.com/artist/0zmxCsd8aIJHfNC95gdT2i"
-        }
-      ],
-      "duration_ms": 184842,
-      "name": "What're We Doing Here",
-      "url": "https://open.spotify.com/track/23r4WNoHCVaLypbxeHMu8p"
-    },
-    {
-      "added_at": "2024-09-30 15:51:51",
-      "album": {
         "name": "can we start over?",
         "url": "https://open.spotify.com/album/5ZWcE7wYh6GKsB0nS9iZS6"
       },
@@ -1071,22 +1055,6 @@
       "duration_ms": 187596,
       "name": "spite",
       "url": "https://open.spotify.com/track/536ZTi6wWJQ2gYXkXnJwVX"
-    },
-    {
-      "added_at": "2024-09-30 15:51:51",
-      "album": {
-        "name": "Modern Girl",
-        "url": "https://open.spotify.com/album/4a6PlF2W6n5oZsKFyLqmP2"
-      },
-      "artists": [
-        {
-          "name": "Bleachers",
-          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
-        }
-      ],
-      "duration_ms": 223100,
-      "name": "Modern Girl",
-      "url": "https://open.spotify.com/track/4TPgBDOEVwywalXHFUUUQY"
     },
     {
       "added_at": "2024-09-30 15:51:51",
@@ -1107,6 +1075,22 @@
     {
       "added_at": "2024-09-30 15:51:51",
       "album": {
+        "name": "Modern Girl",
+        "url": "https://open.spotify.com/album/4a6PlF2W6n5oZsKFyLqmP2"
+      },
+      "artists": [
+        {
+          "name": "Bleachers",
+          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
+        }
+      ],
+      "duration_ms": 223100,
+      "name": "Modern Girl",
+      "url": "https://open.spotify.com/track/4TPgBDOEVwywalXHFUUUQY"
+    },
+    {
+      "added_at": "2024-09-30 15:51:51",
+      "album": {
         "name": "Clarity",
         "url": "https://open.spotify.com/album/4V3BerycmgxqE3sr3RaDYE"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 227240,
       "name": "Clarity",
       "url": "https://open.spotify.com/track/5c6lM2zjAF6MFoD8C1hiBr"
+    },
+    {
+      "added_at": "2024-09-30 15:51:51",
+      "album": {
+        "name": "Flood",
+        "url": "https://open.spotify.com/album/3TstA7Or7ds5kL4bNWvRok"
+      },
+      "artists": [
+        {
+          "name": "Hippo Campus",
+          "url": "https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A"
+        }
+      ],
+      "duration_ms": 211946,
+      "name": "Brand New",
+      "url": "https://open.spotify.com/track/6ZiETe7uxVBocdajCwhAHn"
     },
     {
       "added_at": "2024-09-30 15:51:51",
@@ -1139,18 +1139,18 @@
     {
       "added_at": "2024-09-30 15:51:51",
       "album": {
-        "name": "Flood",
-        "url": "https://open.spotify.com/album/3TstA7Or7ds5kL4bNWvRok"
+        "name": "What're We Doing Here",
+        "url": "https://open.spotify.com/album/0di1rlD8Afel1VLF06lRxK"
       },
       "artists": [
         {
-          "name": "Hippo Campus",
-          "url": "https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A"
+          "name": "ALEXSUCKS",
+          "url": "https://open.spotify.com/artist/0zmxCsd8aIJHfNC95gdT2i"
         }
       ],
-      "duration_ms": 211946,
-      "name": "Brand New",
-      "url": "https://open.spotify.com/track/6ZiETe7uxVBocdajCwhAHn"
+      "duration_ms": 184842,
+      "name": "What're We Doing Here",
+      "url": "https://open.spotify.com/track/23r4WNoHCVaLypbxeHMu8p"
     },
     {
       "added_at": "2024-09-30 15:51:51",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2024-09-30 15:51:51",
       "album": {
-        "name": "Every Little Thing I Say I Do",
-        "url": "https://open.spotify.com/album/6aYHsDzCmD030bmUaVaKq8"
-      },
-      "artists": [
-        {
-          "name": "Dayglow",
-          "url": "https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm"
-        }
-      ],
-      "duration_ms": 180209,
-      "name": "Every Little Thing I Say I Do",
-      "url": "https://open.spotify.com/track/3ngjq0C1z1kVYAdBH5114w"
-    },
-    {
-      "added_at": "2024-09-30 15:51:51",
-      "album": {
         "name": "Re: This Is Why",
         "url": "https://open.spotify.com/album/3GteSAGBQKHhmSN5OU819j"
       },
@@ -1223,18 +1207,18 @@
     {
       "added_at": "2024-09-30 15:51:51",
       "album": {
-        "name": "Further Joy",
-        "url": "https://open.spotify.com/album/1rM5i5ofhPY3hdPA5wcozJ"
+        "name": "Every Little Thing I Say I Do",
+        "url": "https://open.spotify.com/album/6aYHsDzCmD030bmUaVaKq8"
       },
       "artists": [
         {
-          "name": "The Regrettes",
-          "url": "https://open.spotify.com/artist/67WNUxmM7y4WzHPAVzBu3E"
+          "name": "Dayglow",
+          "url": "https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm"
         }
       ],
-      "duration_ms": 197040,
-      "name": "Barely on My Mind",
-      "url": "https://open.spotify.com/track/7LigIDzs63Y4uFlZvNzCZq"
+      "duration_ms": 180209,
+      "name": "Every Little Thing I Say I Do",
+      "url": "https://open.spotify.com/track/3ngjq0C1z1kVYAdBH5114w"
     },
     {
       "added_at": "2024-09-30 15:51:51",
@@ -1251,6 +1235,22 @@
       "duration_ms": 226133,
       "name": "All We Ever Do Is Talk",
       "url": "https://open.spotify.com/track/11sca0kohiR73mPDy9qhZv"
+    },
+    {
+      "added_at": "2024-09-30 15:51:51",
+      "album": {
+        "name": "Further Joy",
+        "url": "https://open.spotify.com/album/1rM5i5ofhPY3hdPA5wcozJ"
+      },
+      "artists": [
+        {
+          "name": "The Regrettes",
+          "url": "https://open.spotify.com/artist/67WNUxmM7y4WzHPAVzBu3E"
+        }
+      ],
+      "duration_ms": 197040,
+      "name": "Barely on My Mind",
+      "url": "https://open.spotify.com/track/7LigIDzs63Y4uFlZvNzCZq"
     },
     {
       "added_at": "2024-09-30 15:51:51",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2024-09-30 15:51:51",
       "album": {
-        "name": "Pick-Up Full Of Pink Carnations",
-        "url": "https://open.spotify.com/album/6enl3uuyldMQvTQfgWP9F4"
-      },
-      "artists": [
-        {
-          "name": "The Vaccines",
-          "url": "https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA"
-        }
-      ],
-      "duration_ms": 127474,
-      "name": "Love To Walk Away",
-      "url": "https://open.spotify.com/track/1GKsOmCVxqmNavF3nAIrwE"
-    },
-    {
-      "added_at": "2024-09-30 15:51:51",
-      "album": {
         "name": "Alive!",
         "url": "https://open.spotify.com/album/0lvFKHiygKiwhKHNYPmRzn"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 232133,
       "name": "Alive!",
       "url": "https://open.spotify.com/track/6KzI6EM1QYyOq5oudPlcWT"
+    },
+    {
+      "added_at": "2024-09-30 15:51:51",
+      "album": {
+        "name": "Pick-Up Full Of Pink Carnations",
+        "url": "https://open.spotify.com/album/6enl3uuyldMQvTQfgWP9F4"
+      },
+      "artists": [
+        {
+          "name": "The Vaccines",
+          "url": "https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA"
+        }
+      ],
+      "duration_ms": 127474,
+      "name": "Love To Walk Away",
+      "url": "https://open.spotify.com/track/1GKsOmCVxqmNavF3nAIrwE"
     },
     {
       "added_at": "2024-09-30 15:51:51",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2024-09-30 15:51:51",
       "album": {
-        "name": "Cherry Red",
-        "url": "https://open.spotify.com/album/49YPwCfgk8EkVsYstOeVZV"
-      },
-      "artists": [
-        {
-          "name": "Stephen Dawes",
-          "url": "https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose"
-        }
-      ],
-      "duration_ms": 167861,
-      "name": "Cherry Red",
-      "url": "https://open.spotify.com/track/63pGrY2goWtgoBTzm9MhZN"
-    },
-    {
-      "added_at": "2024-09-30 15:51:51",
-      "album": {
         "name": "Thank You for Leaving",
         "url": "https://open.spotify.com/album/2eMBvvLGZB3gIefvuMziYY"
       },
@@ -1495,18 +1479,18 @@
     {
       "added_at": "2024-09-30 15:51:51",
       "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/50ca61DooG00KrVCwMLVRl"
+        "name": "Cherry Red",
+        "url": "https://open.spotify.com/album/49YPwCfgk8EkVsYstOeVZV"
       },
       "artists": [
         {
-          "name": "Good Neighbours",
-          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
+          "name": "Stephen Dawes",
+          "url": "https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose"
         }
       ],
-      "duration_ms": 157485,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/6dpLxbF7lfCAnC9QRTjNLK"
+      "duration_ms": 167861,
+      "name": "Cherry Red",
+      "url": "https://open.spotify.com/track/63pGrY2goWtgoBTzm9MhZN"
     },
     {
       "added_at": "2024-09-30 15:51:51",
@@ -1539,6 +1523,22 @@
       "duration_ms": 199800,
       "name": "Change Your Mind",
       "url": "https://open.spotify.com/track/7rOk84mV0kJ0H9wsBDDDUY"
+    },
+    {
+      "added_at": "2024-09-30 15:51:51",
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/50ca61DooG00KrVCwMLVRl"
+      },
+      "artists": [
+        {
+          "name": "Good Neighbours",
+          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
+        }
+      ],
+      "duration_ms": 157485,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/6dpLxbF7lfCAnC9QRTjNLK"
     },
     {
       "added_at": "2024-09-30 15:51:51",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2024-09-30 15:51:51",
       "album": {
-        "name": "Vandalist",
-        "url": "https://open.spotify.com/album/1J2Qg6llMj5VoOamJrRVsQ"
-      },
-      "artists": [
-        {
-          "name": "Noga Erez",
-          "url": "https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ"
-        }
-      ],
-      "duration_ms": 208374,
-      "name": "Vandalist",
-      "url": "https://open.spotify.com/track/3ENotujIHUavrxkpkQdbnh"
-    },
-    {
-      "added_at": "2024-09-30 15:51:51",
-      "album": {
         "name": "Zombie (Wild Coming Out)",
         "url": "https://open.spotify.com/album/4vGlG1585GRyZeInnoq7UE"
       },
@@ -1679,6 +1663,22 @@
     {
       "added_at": "2024-09-30 15:51:51",
       "album": {
+        "name": "Vandalist",
+        "url": "https://open.spotify.com/album/1J2Qg6llMj5VoOamJrRVsQ"
+      },
+      "artists": [
+        {
+          "name": "Noga Erez",
+          "url": "https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ"
+        }
+      ],
+      "duration_ms": 208374,
+      "name": "Vandalist",
+      "url": "https://open.spotify.com/track/3ENotujIHUavrxkpkQdbnh"
+    },
+    {
+      "added_at": "2024-09-30 15:51:51",
+      "album": {
         "name": "Purple Teeth, The Bravery",
         "url": "https://open.spotify.com/album/0IYQON1mYTy2JaE8VUHnmV"
       },
@@ -1707,6 +1707,22 @@
       "duration_ms": 203502,
       "name": "adios",
       "url": "https://open.spotify.com/track/3gfve6BgoTkZK3uBkqttz8"
+    },
+    {
+      "added_at": "2024-09-30 15:51:51",
+      "album": {
+        "name": "stay late",
+        "url": "https://open.spotify.com/album/5BVIrhysqsYBAOOEInHCzC"
+      },
+      "artists": [
+        {
+          "name": "Clubhouse",
+          "url": "https://open.spotify.com/artist/1LbK4g8mKezX7iAmpiq3sX"
+        }
+      ],
+      "duration_ms": 173283,
+      "name": "stay late",
+      "url": "https://open.spotify.com/track/0SYw9oxfkCgewe45b68RBG"
     },
     {
       "added_at": "2024-09-30 15:51:51",
@@ -1747,22 +1763,6 @@
     {
       "added_at": "2024-09-30 15:51:51",
       "album": {
-        "name": "stay late",
-        "url": "https://open.spotify.com/album/5BVIrhysqsYBAOOEInHCzC"
-      },
-      "artists": [
-        {
-          "name": "Clubhouse",
-          "url": "https://open.spotify.com/artist/1LbK4g8mKezX7iAmpiq3sX"
-        }
-      ],
-      "duration_ms": 173283,
-      "name": "stay late",
-      "url": "https://open.spotify.com/track/0SYw9oxfkCgewe45b68RBG"
-    },
-    {
-      "added_at": "2024-09-30 15:51:51",
-      "album": {
         "name": "Birthday Boy",
         "url": "https://open.spotify.com/album/05eCZ53ezt3hInqJu980ro"
       },
@@ -1779,22 +1779,6 @@
     {
       "added_at": "2024-09-30 15:51:51",
       "album": {
-        "name": "tidal wave",
-        "url": "https://open.spotify.com/album/6iF2RBE0lrba8zSOuQslW8"
-      },
-      "artists": [
-        {
-          "name": "almost monday",
-          "url": "https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E"
-        }
-      ],
-      "duration_ms": 147857,
-      "name": "tidal wave",
-      "url": "https://open.spotify.com/track/2D5IDhHCuwWLmz1e499pZf"
-    },
-    {
-      "added_at": "2024-09-30 15:51:51",
-      "album": {
         "name": "Shut Off The Lights",
         "url": "https://open.spotify.com/album/3tCwAtRvtyPDYQnKPXnJD7"
       },
@@ -1807,54 +1791,6 @@
       "duration_ms": 187363,
       "name": "Shut Off The Lights",
       "url": "https://open.spotify.com/track/6Au9UDzjeGFen7qMEDKju7"
-    },
-    {
-      "added_at": "2024-09-30 15:51:51",
-      "album": {
-        "name": "100 Cowboys",
-        "url": "https://open.spotify.com/album/7uhZ3e0aRY6u3qXG393pPV"
-      },
-      "artists": [
-        {
-          "name": "Carter Vail",
-          "url": "https://open.spotify.com/artist/4Bu9DnBZ12oX7MiiaJy9hK"
-        }
-      ],
-      "duration_ms": 154374,
-      "name": "Ready Aim Fire",
-      "url": "https://open.spotify.com/track/10eyhDAjsfbZHb1rJ1S2WH"
-    },
-    {
-      "added_at": "2024-09-30 15:51:51",
-      "album": {
-        "name": "Nice to Meet You",
-        "url": "https://open.spotify.com/album/72DMNLy4QTiAK5hxjnV7GH"
-      },
-      "artists": [
-        {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
-        }
-      ],
-      "duration_ms": 190760,
-      "name": "Nice to Meet You",
-      "url": "https://open.spotify.com/track/7sxb5C2mE0l5xfSL9M2hxQ"
-    },
-    {
-      "added_at": "2024-09-30 15:51:51",
-      "album": {
-        "name": "These Are The Days",
-        "url": "https://open.spotify.com/album/2cP0n7ZCTCH4MDgirIWZmz"
-      },
-      "artists": [
-        {
-          "name": "Inhaler",
-          "url": "https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH"
-        }
-      ],
-      "duration_ms": 222297,
-      "name": "These Are The Days",
-      "url": "https://open.spotify.com/track/6fyCVdU5lJT9ErO9QicFWC"
     },
     {
       "added_at": "2024-09-30 15:51:51",
@@ -1879,6 +1815,54 @@
       "duration_ms": 167556,
       "name": "Malibu",
       "url": "https://open.spotify.com/track/2JyoU2NFGjWWTaknPfXeDR"
+    },
+    {
+      "added_at": "2024-09-30 15:51:51",
+      "album": {
+        "name": "These Are The Days",
+        "url": "https://open.spotify.com/album/2cP0n7ZCTCH4MDgirIWZmz"
+      },
+      "artists": [
+        {
+          "name": "Inhaler",
+          "url": "https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH"
+        }
+      ],
+      "duration_ms": 222297,
+      "name": "These Are The Days",
+      "url": "https://open.spotify.com/track/6fyCVdU5lJT9ErO9QicFWC"
+    },
+    {
+      "added_at": "2024-09-30 15:51:51",
+      "album": {
+        "name": "100 Cowboys",
+        "url": "https://open.spotify.com/album/7uhZ3e0aRY6u3qXG393pPV"
+      },
+      "artists": [
+        {
+          "name": "Carter Vail",
+          "url": "https://open.spotify.com/artist/4Bu9DnBZ12oX7MiiaJy9hK"
+        }
+      ],
+      "duration_ms": 154374,
+      "name": "Ready Aim Fire",
+      "url": "https://open.spotify.com/track/10eyhDAjsfbZHb1rJ1S2WH"
+    },
+    {
+      "added_at": "2024-09-30 15:51:51",
+      "album": {
+        "name": "tidal wave",
+        "url": "https://open.spotify.com/album/6iF2RBE0lrba8zSOuQslW8"
+      },
+      "artists": [
+        {
+          "name": "almost monday",
+          "url": "https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E"
+        }
+      ],
+      "duration_ms": 147857,
+      "name": "tidal wave",
+      "url": "https://open.spotify.com/track/2D5IDhHCuwWLmz1e499pZf"
     },
     {
       "added_at": "2024-09-30 15:51:51",
@@ -1911,6 +1895,22 @@
       "duration_ms": 107665,
       "name": "Do It Faster",
       "url": "https://open.spotify.com/track/51SDO6rVAyqVouNO5AadIy"
+    },
+    {
+      "added_at": "2024-09-30 15:51:51",
+      "album": {
+        "name": "Nice to Meet You",
+        "url": "https://open.spotify.com/album/72DMNLy4QTiAK5hxjnV7GH"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "duration_ms": 190760,
+      "name": "Nice to Meet You",
+      "url": "https://open.spotify.com/track/7sxb5C2mE0l5xfSL9M2hxQ"
     },
     {
       "added_at": "2024-09-30 15:51:51",
@@ -2011,26 +2011,6 @@
     {
       "added_at": "2024-09-30 15:51:51",
       "album": {
-        "name": "Hollywood b/w CD-R",
-        "url": "https://open.spotify.com/album/6o8LiEGxLTjMBt1PFxHp4U"
-      },
-      "artists": [
-        {
-          "name": "Toro y Moi",
-          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
-        },
-        {
-          "name": "Benjamin Gibbard",
-          "url": "https://open.spotify.com/artist/4CvZd3qzC2HbLxAoAEBRIL"
-        }
-      ],
-      "duration_ms": 185346,
-      "name": "Hollywood",
-      "url": "https://open.spotify.com/track/1jit8yRaXz50OZNINPxtym"
-    },
-    {
-      "added_at": "2024-09-30 15:51:51",
-      "album": {
         "name": "Cartwheels",
         "url": "https://open.spotify.com/album/08plypKSnTYVYtGUSSMxUN"
       },
@@ -2063,6 +2043,26 @@
       "duration_ms": 179062,
       "name": "Happy",
       "url": "https://open.spotify.com/track/6ztjccAfxl3jVmvujjSUyI"
+    },
+    {
+      "added_at": "2024-09-30 15:51:51",
+      "album": {
+        "name": "Hollywood b/w CD-R",
+        "url": "https://open.spotify.com/album/6o8LiEGxLTjMBt1PFxHp4U"
+      },
+      "artists": [
+        {
+          "name": "Toro y Moi",
+          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
+        },
+        {
+          "name": "Benjamin Gibbard",
+          "url": "https://open.spotify.com/artist/4CvZd3qzC2HbLxAoAEBRIL"
+        }
+      ],
+      "duration_ms": 185346,
+      "name": "Hollywood",
+      "url": "https://open.spotify.com/track/1jit8yRaXz50OZNINPxtym"
     },
     {
       "added_at": "2024-09-30 15:51:51",

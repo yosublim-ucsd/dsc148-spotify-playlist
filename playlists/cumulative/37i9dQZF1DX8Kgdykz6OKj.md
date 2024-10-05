@@ -4,7 +4,7 @@
 
 > Laid back cratedigger hip\-hop from around the world.
 
-403 songs - 22 hr 50 min
+404 songs - 22 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,6 +93,7 @@
 | [Cookie Chips](https://open.spotify.com/track/75yIue8dwthQA0QKd9ktyI) | [Rejjie Snow](https://open.spotify.com/artist/3lLHpTOJ11tWiUNGYN14gt), [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL), [Cam O'bi](https://open.spotify.com/artist/4jqFe1fd5uul2XSSxsRvbZ) | [Baw Baw Black Sheep](https://open.spotify.com/album/5z8u1Ja4BZTlcYxi6FyT1k) | 4:19 | 2022-07-28 | 2024-04-19 |
 | [Cosca](https://open.spotify.com/track/2R5rLyz7W77xL7dEsMMNkY) | [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS), [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [Cosca](https://open.spotify.com/album/7mrB72SorH1BWaW8UNPCVe) | 1:56 | 2023-12-01 |  |
 | [Crew](https://open.spotify.com/track/3NrZFobrgsd3F8CXmRYagi) | [Undagawds](https://open.spotify.com/artist/1ryH4v5l4pKRBqtOcGQl2X), [Peter Manns](https://open.spotify.com/artist/2qwx7CUQ9aw3C8b4amNmxy), [Thelonious Coltrane](https://open.spotify.com/artist/6iXZPP5qLB2dtIQ4WuNk9M) | [Crew](https://open.spotify.com/album/2rhYPjvZ8bSrWh62IC68kM) | 2:02 | 2022-01-13 | 2022-11-22 |
+| [DADADOO](https://open.spotify.com/track/0eYWFMi3v00NOx0tt9ONWI) | [Moka Only](https://open.spotify.com/artist/7G9ZUoEjbi5Z2bR5w60S0h) | [DADADOO](https://open.spotify.com/album/7jThw9jJDU3UitZRESpvGC) | 2:51 | 2024-10-04 |  |
 | [DaLouIsBack](https://open.spotify.com/track/5jafVvuIwlLw0cOpqysPg8) | [Lou Phelps](https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN) | [DaLouIsBack](https://open.spotify.com/album/3hikpXw8GNMNLXt7AE3P9U) | 2:37 | 2024-05-31 |  |
 | [Dando Vueltas](https://open.spotify.com/track/314FEi04GJLNc89wCZVanH) | [Zeballos](https://open.spotify.com/artist/5ayyPSqoObeTOj1UGtM79C) | [Dando Vueltas](https://open.spotify.com/album/0C8tHcg6JhCIy46FUgjyGe) | 2:01 | 2023-02-23 | 2023-05-25 |
 | [Dedicated and Driven](https://open.spotify.com/track/5whpaOLF9BzasKJvdIR0y5) | [Substantial](https://open.spotify.com/artist/5FmThJ74ycmeBdQnu4Cfcw) | [Dedicated and Driven](https://open.spotify.com/album/2CUsLOyraPGg5QL42ktAic) | 3:01 | 2021-12-16 | 2022-04-20 |
@@ -359,7 +360,7 @@
 | [That Love \- Radio Version](https://open.spotify.com/track/7kum3I7Lkrgzs4npdmWszD) | [Vice Beats](https://open.spotify.com/artist/0IIyN8h6bhn7pzkR0SbAS8), [Audessey](https://open.spotify.com/artist/3NKdwuQJhe3hYMBEg2YQWX), [Greg Blackman](https://open.spotify.com/artist/7r75JahMqaqUitdEipf65c), [Knuf](https://open.spotify.com/artist/3WskJiuqQaI2tSuycw5kPu) | [That Love](https://open.spotify.com/album/0RaQH6qsoWcwF8zeLnbY3V) | 3:54 | 2022-01-13 | 2022-04-24 |
 | [The Circle](https://open.spotify.com/track/60DLWXwghcL7vBZmanhLtU) | [Ivan Ave](https://open.spotify.com/artist/7BxJEL8I7OoAMGyPWn1cPS) | [Helping Hands](https://open.spotify.com/album/0aICyOA2b1l0eR6GwkFBT1) | 3:29 | 2022-04-11 | 2022-11-20 |
 | [The Circle](https://open.spotify.com/track/6GNDjlJnaAvxM3Ffn0CAWl) | [Ivan Ave](https://open.spotify.com/artist/7BxJEL8I7OoAMGyPWn1cPS) | [Helping Hands](https://open.spotify.com/album/32OdlhjvXBKe94WaviR3Qs) | 3:29 | 2022-10-13 | 2024-04-19 |
-| [The Eternal Now](https://open.spotify.com/track/0CJL0DuxUtTzTOY3iUUJfK) | [DJ Muggs](https://open.spotify.com/artist/7pDkjftAxiFHomWsPNkapS), [Raz Fresco](https://open.spotify.com/artist/08RVkVEdLLoTgd5YbXHOIC) | [The Eternal Now](https://open.spotify.com/album/6OQSrgM4iawSejtzafHEg7) | 3:25 | 2024-06-21 |  |
+| [The Eternal Now](https://open.spotify.com/track/0CJL0DuxUtTzTOY3iUUJfK) | [DJ Muggs](https://open.spotify.com/artist/7pDkjftAxiFHomWsPNkapS), [Raz Fresco](https://open.spotify.com/artist/08RVkVEdLLoTgd5YbXHOIC) | [The Eternal Now](https://open.spotify.com/album/6OQSrgM4iawSejtzafHEg7) | 3:25 | 2024-06-21 | 2024-10-05 |
 | [The Feel](https://open.spotify.com/track/3G5mPCwRvLucI92NCiZ3B1) | [RC & The Gritz](https://open.spotify.com/artist/7FaQi3otcN7fUOHr8ODW8d) | [The FEEL](https://open.spotify.com/album/7zfjn93all67uzqxxkjlIO) | 2:21 | 2024-04-19 |  |
 | [The Feeling](https://open.spotify.com/track/0MQygdHirl8XZjivCTfzJf) | [Summers Sons](https://open.spotify.com/artist/6dX4na3KWr3yMTLU4l1W7z), [Turt](https://open.spotify.com/artist/0VkwWpbd5pxXBYZu3ns9N0), [Slim.](https://open.spotify.com/artist/61KbmY6DzskmM3MnXLanpH) | [The Feeling](https://open.spotify.com/album/52v4G1JsoKx3mdhQE0T610) | 2:59 | 2021-12-16 | 2022-07-29 |
 | [The Feeling](https://open.spotify.com/track/2GUVzvrOhwAwTsDrZcyPQU) | [Summers Sons](https://open.spotify.com/artist/6dX4na3KWr3yMTLU4l1W7z), [Turt](https://open.spotify.com/artist/0VkwWpbd5pxXBYZu3ns9N0), [Slim.](https://open.spotify.com/artist/61KbmY6DzskmM3MnXLanpH) | [The Feeling](https://open.spotify.com/album/3vH1qTsY5lbQvkwHH8PwGc) | 2:59 | 2022-10-13 | 2024-04-19 |

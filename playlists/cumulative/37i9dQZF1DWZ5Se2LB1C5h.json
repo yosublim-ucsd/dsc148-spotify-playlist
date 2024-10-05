@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-10-15",
-  "description": "\u00danete a la extravaganza del ne\u00f3n. charlie xx en portada.",
+  "description": "\u00danete a la extravaganza del ne\u00f3n. Ela Minus en portada.",
   "name": "EUPHORIA",
   "tracks": [
     {
@@ -441,6 +441,32 @@
     },
     {
       "album": {
+        "name": "Born To Love Ya",
+        "url": "https://open.spotify.com/album/4dx4jGH35HYUcRT6vNQjPo"
+      },
+      "artists": [
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        },
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        },
+        {
+          "name": "NATTI NATASHA",
+          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155076,
+      "name": "Born To Love Ya",
+      "url": "https://open.spotify.com/track/5Nwh8kghoqebxmco5ZWbDt"
+    },
+    {
+      "album": {
         "name": "RENAISSANCE",
         "url": "https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb"
       },
@@ -456,6 +482,24 @@
       "duration_ms": 278281,
       "name": "BREAK MY SOUL",
       "url": "https://open.spotify.com/track/5pyoxDZ1PX0KxBxiRVxA4U"
+    },
+    {
+      "album": {
+        "name": "BROKEN",
+        "url": "https://open.spotify.com/album/1aHlFkhxyz1Yxmb7sgQh24"
+      },
+      "artists": [
+        {
+          "name": "Ela Minus",
+          "url": "https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271435,
+      "name": "BROKEN",
+      "url": "https://open.spotify.com/track/3n4FkCfKlscDqYPMcTBdXm"
     },
     {
       "album": {
@@ -3261,6 +3305,24 @@
     },
     {
       "album": {
+        "name": "Pressure",
+        "url": "https://open.spotify.com/album/3LKzgCd8XZzsRRi3CRRsv7"
+      },
+      "artists": [
+        {
+          "name": "R\u00dcF\u00dcS DU SOL",
+          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279346,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/1ubTFuP9rXCYzYQM7jUoWM"
+    },
+    {
+      "album": {
         "name": "Ready For Your Love",
         "url": "https://open.spotify.com/album/5qcOnOmMYeKDPWjsVim6Ss"
       },
@@ -3276,7 +3338,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 159055,
       "name": "Ready For Your Love",
       "url": "https://open.spotify.com/track/3Kr7UHOUkgaH4PK3Mp1fUP"
@@ -3604,7 +3666,7 @@
       ],
       "date_added": "2023-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 135706,
       "name": "She Knows - with Akon",
       "url": "https://open.spotify.com/track/3zkb0907pOJqU7m3Qh5hB7"
@@ -4100,7 +4162,7 @@
       ],
       "date_added": "2023-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 121987,
       "name": "The Drop",
       "url": "https://open.spotify.com/track/013PVeWEFQio3XHFH9rIC6"

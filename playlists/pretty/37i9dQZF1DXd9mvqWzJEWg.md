@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9mvqWzJEWg.md) - [plain]
 
 > It's not just about the music, it's about the culture\. Cover: <br/><a href="https://open.spotify.com/artist/2dYBmQBoPF1u097KQasvdv?si=EPsWCsX3Qba1NT3wMj5G9Q">Still That Combo</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,727 likes - 65 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,778 likes - 65 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [FOMO](https://open.spotify.com/track/7ir1pK0mSBVZLoqUPbmous) | [Goldmax](https://open.spotify.com/artist/3yWkz47Z8kE6z1xW6rjkAl), [Dlala Thukzin](https://open.spotify.com/artist/5kmceQl1Y7lveTVbcy5ycD), [Funky Qla](https://open.spotify.com/artist/1raznef8uIDK0SAlPabb86), [Zee Nxumalo](https://open.spotify.com/artist/5m5lgddffBHA2pv0m5E2Ro), [Beast Rsa](https://open.spotify.com/artist/5jSbjWfYWUZpecgalIOldH) | [FOMO](https://open.spotify.com/album/5T7HjJfRNBLJg8zqkLPPeD) | 4:33 |
 | 2 | [IYAPHILA](https://open.spotify.com/track/2zYFfFtjYGTn1XnxvLlyOD) | [D\[NOWHERE\]J](https://open.spotify.com/artist/4TL8qvr7XAFz333BtR3FyO) | [IYAPHILA](https://open.spotify.com/album/49jHqzhwh1r98AQYsWjshd) | 3:46 |
-| 3 | [Swenka](https://open.spotify.com/track/3iEWK5YIY835Q4T6jt9ko5) | [Still That Combo](https://open.spotify.com/artist/2dYBmQBoPF1u097KQasvdv), [Worst Behaviours](https://open.spotify.com/artist/418RnCs39ZAOpahmEEcgMU) | [Swenka](https://open.spotify.com/album/08yVKlEhf6oyaY32p1rqxM) | 5:02 |
+| 3 | [Swenka](https://open.spotify.com/track/3iEWK5YIY835Q4T6jt9ko5) | [Still That Combo](https://open.spotify.com/artist/2dYBmQBoPF1u097KQasvdv), [Worst Behaviour](https://open.spotify.com/artist/53j4It5K8cVfNn3WMuOGwk) | [Swenka](https://open.spotify.com/album/08yVKlEhf6oyaY32p1rqxM) | 5:02 |
 | 4 | [Bamba iRoof \(feat\. Thobeka\)](https://open.spotify.com/track/1YHfI5IrtFrbr3jickVdsf) | [QUE DJ](https://open.spotify.com/artist/6ZKszbUwWSNSc0VydBBAka), [Goldmax](https://open.spotify.com/artist/3yWkz47Z8kE6z1xW6rjkAl), [Thobeka](https://open.spotify.com/artist/3AyBsX5nXTMPaXkmZelNCu) | [Bamba iRoof \(feat\. Thobeka\)](https://open.spotify.com/album/7xdHv88Q4NNrK5RcHjwAER) | 4:21 |
 | 5 | [Kontrol](https://open.spotify.com/track/6rXnrNd6oS7LpSTmHnpoR1) | [Gino Uzokdlalela](https://open.spotify.com/artist/6WXjpenGz8rKRBcI9fJtyb), [Chustar](https://open.spotify.com/artist/6DgtyczD2FCpb36hxFw1NC) | [Bazoshaa Extended Play 2.0](https://open.spotify.com/album/2kifFGRerxsGGVmWrCPZEo) | 4:47 |
 | 6 | [Thula Moya Wami](https://open.spotify.com/track/2OBgyq2L6Bi62OVI3AZT2t) | [Mr Thela](https://open.spotify.com/artist/5R02jdPgCA1tFILr67znle) | [Thula Moya Wami](https://open.spotify.com/album/2CJfgfKC9Vz0LKReR8Y8j3) | 8:05 |

@@ -1,6 +1,6 @@
 {
   "description": "Grandes relatos de toque reflexivo y visi\u00f3n consciente.",
-  "num_followers": 104554,
+  "num_followers": 104592,
   "original_name": "Rap Conciencia",
   "owner": {
     "name": "Spotify",
@@ -327,6 +327,22 @@
     {
       "added_at": "2024-09-06 06:00:00",
       "album": {
+        "name": "Striptease",
+        "url": "https://open.spotify.com/album/0xElYfxH7E9JXw5Sq3s8Gi"
+      },
+      "artists": [
+        {
+          "name": "El Chojin",
+          "url": "https://open.spotify.com/artist/3m1an5fzquhCtk4UnhmLmc"
+        }
+      ],
+      "duration_ms": 221826,
+      "name": "R\u00ede Cuando Puedas",
+      "url": "https://open.spotify.com/track/18YCZgBpjvd7OiDzlqffj9"
+    },
+    {
+      "added_at": "2024-09-06 06:00:00",
+      "album": {
         "name": "Patrullando",
         "url": "https://open.spotify.com/album/5EqL0JJmFbL3dY1JsVbWlH"
       },
@@ -343,22 +359,6 @@
       "duration_ms": 194285,
       "name": "Patrullando",
       "url": "https://open.spotify.com/track/0Gwt9fOjhcIjfSQJM0ARua"
-    },
-    {
-      "added_at": "2024-09-06 06:00:00",
-      "album": {
-        "name": "Striptease",
-        "url": "https://open.spotify.com/album/0xElYfxH7E9JXw5Sq3s8Gi"
-      },
-      "artists": [
-        {
-          "name": "El Chojin",
-          "url": "https://open.spotify.com/artist/3m1an5fzquhCtk4UnhmLmc"
-        }
-      ],
-      "duration_ms": 221826,
-      "name": "R\u00ede Cuando Puedas",
-      "url": "https://open.spotify.com/track/18YCZgBpjvd7OiDzlqffj9"
     },
     {
       "added_at": "2024-09-06 06:00:00",
@@ -563,30 +563,6 @@
     {
       "added_at": "2024-09-06 06:00:00",
       "album": {
-        "name": "Parlante",
-        "url": "https://open.spotify.com/album/3alCeWkJMPizFI5bO70mw3"
-      },
-      "artists": [
-        {
-          "name": "Al2 El Aldeano",
-          "url": "https://open.spotify.com/artist/6lYSDSFhJyUV6CtNix2fBA"
-        },
-        {
-          "name": "Valles T",
-          "url": "https://open.spotify.com/artist/2h5NjKTy7y3blBMgsNusrt"
-        },
-        {
-          "name": "Raymond Daniel",
-          "url": "https://open.spotify.com/artist/033jXqXsPX6VM4DNx6F0tB"
-        }
-      ],
-      "duration_ms": 261311,
-      "name": "Parlante",
-      "url": "https://open.spotify.com/track/0NLbyORu1l5SNT0ZNDOU6L"
-    },
-    {
-      "added_at": "2024-09-06 06:00:00",
-      "album": {
         "name": "Amor Puro (feat. La Banda Baston)",
         "url": "https://open.spotify.com/album/1o4F0i1k4nyoOOqQwLR4qQ"
       },
@@ -607,6 +583,30 @@
       "duration_ms": 215373,
       "name": "Amor Puro (feat. La Banda Baston)",
       "url": "https://open.spotify.com/track/6XKTQUnpryvy723TkfEhHd"
+    },
+    {
+      "added_at": "2024-09-06 06:00:00",
+      "album": {
+        "name": "Parlante",
+        "url": "https://open.spotify.com/album/3alCeWkJMPizFI5bO70mw3"
+      },
+      "artists": [
+        {
+          "name": "Al2 El Aldeano",
+          "url": "https://open.spotify.com/artist/6lYSDSFhJyUV6CtNix2fBA"
+        },
+        {
+          "name": "Valles T",
+          "url": "https://open.spotify.com/artist/2h5NjKTy7y3blBMgsNusrt"
+        },
+        {
+          "name": "Raymond Daniel",
+          "url": "https://open.spotify.com/artist/033jXqXsPX6VM4DNx6F0tB"
+        }
+      ],
+      "duration_ms": 261311,
+      "name": "Parlante",
+      "url": "https://open.spotify.com/track/0NLbyORu1l5SNT0ZNDOU6L"
     },
     {
       "added_at": "2024-09-06 06:00:00",
@@ -931,18 +931,26 @@
     {
       "added_at": "2024-09-06 06:00:00",
       "album": {
-        "name": "Benedicto",
-        "url": "https://open.spotify.com/album/73R2cCN0UrSP3CvaDZ7ZGw"
+        "name": "La Felicidad",
+        "url": "https://open.spotify.com/album/2WGxPfmod29I9jcrnRtn7Q"
       },
       "artists": [
         {
           "name": "Mecal",
           "url": "https://open.spotify.com/artist/6h3Pg7Xk3YfLIdQOxnb6d5"
+        },
+        {
+          "name": "Cevlade",
+          "url": "https://open.spotify.com/artist/7FavRzQTgusKjQCqvO4xXY"
+        },
+        {
+          "name": "InVnerable",
+          "url": "https://open.spotify.com/artist/5DVq4JmHmFWBoFk7K0vCMY"
         }
       ],
-      "duration_ms": 194666,
-      "name": "Benedicto",
-      "url": "https://open.spotify.com/track/7FGDgc6tYMmK2BMavtJf6h"
+      "duration_ms": 203089,
+      "name": "La Felicidad",
+      "url": "https://open.spotify.com/track/7gCeqPyODFh7rtkLpekpZk"
     },
     {
       "added_at": "2024-09-06 06:00:00",
@@ -1115,26 +1123,18 @@
     {
       "added_at": "2024-09-06 06:00:00",
       "album": {
-        "name": "La Felicidad",
-        "url": "https://open.spotify.com/album/2WGxPfmod29I9jcrnRtn7Q"
+        "name": "Benedicto",
+        "url": "https://open.spotify.com/album/73R2cCN0UrSP3CvaDZ7ZGw"
       },
       "artists": [
         {
           "name": "Mecal",
           "url": "https://open.spotify.com/artist/6h3Pg7Xk3YfLIdQOxnb6d5"
-        },
-        {
-          "name": "Cevlade",
-          "url": "https://open.spotify.com/artist/7FavRzQTgusKjQCqvO4xXY"
-        },
-        {
-          "name": "InVnerable",
-          "url": "https://open.spotify.com/artist/5DVq4JmHmFWBoFk7K0vCMY"
         }
       ],
-      "duration_ms": 203089,
-      "name": "La Felicidad",
-      "url": "https://open.spotify.com/track/7gCeqPyODFh7rtkLpekpZk"
+      "duration_ms": 194666,
+      "name": "Benedicto",
+      "url": "https://open.spotify.com/track/7FGDgc6tYMmK2BMavtJf6h"
     },
     {
       "added_at": "2024-09-06 06:00:00",

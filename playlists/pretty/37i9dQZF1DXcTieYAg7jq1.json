@@ -1,13 +1,45 @@
 {
-  "description": "Featuring that new vintage. Cover: Michael Bubl\u00e9",
-  "num_followers": 415067,
+  "description": "Featuring that new vintage. Cover: Leon Bridges",
+  "num_followers": 415122,
   "original_name": "Retro Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvYtwAAAAACj/ly9yTgBtlj5G8iozpwm",
+  "snapshot_id": "Zv9oQAAAAAAa6HcDQ9E2XARpfs3NR5K/",
   "tracks": [
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Leon",
+        "url": "https://open.spotify.com/album/6mHNMtHrXIdUWWuZD9njsG"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 247666,
+      "name": "Panther City",
+      "url": "https://open.spotify.com/track/0ySkMC5CSdVFuBkiEDCQfF"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "The Drama",
+        "url": "https://open.spotify.com/album/2c1QPvyMmQADYp9qB5Aslv"
+      },
+      "artists": [
+        {
+          "name": "Spencer Sutherland",
+          "url": "https://open.spotify.com/artist/6mjz3NMhNE5SK7GsbJIg6C"
+        }
+      ],
+      "duration_ms": 196381,
+      "name": "God Save the Dream",
+      "url": "https://open.spotify.com/track/13mm25FYuZw1ih9cvFhXvH"
+    },
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
@@ -535,38 +567,6 @@
       "duration_ms": 135105,
       "name": "Silence",
       "url": "https://open.spotify.com/track/5DfBII8BTQtF9WdFk95ja4"
-    },
-    {
-      "added_at": "2022-08-12 04:01:00",
-      "album": {
-        "name": "Everybody",
-        "url": "https://open.spotify.com/album/5lMHqkGXjoC0pKVUV8IKzQ"
-      },
-      "artists": [
-        {
-          "name": "Spencer Sutherland",
-          "url": "https://open.spotify.com/artist/6mjz3NMhNE5SK7GsbJIg6C"
-        }
-      ],
-      "duration_ms": 197290,
-      "name": "Everybody",
-      "url": "https://open.spotify.com/track/01YZSZi4jNs7QjEXn6eM6Y"
-    },
-    {
-      "added_at": "2022-06-03 04:01:00",
-      "album": {
-        "name": "nebula.",
-        "url": "https://open.spotify.com/album/26Msz7k0xYs5539mNqDWjD"
-      },
-      "artists": [
-        {
-          "name": "Bombargo",
-          "url": "https://open.spotify.com/artist/5gcuakqbbCNnx9fBZWCFfW"
-        }
-      ],
-      "duration_ms": 247588,
-      "name": "For You",
-      "url": "https://open.spotify.com/track/5TdSEnY3HibWrV2BJ8yeOZ"
     },
     {
       "added_at": "2023-01-20 05:00:00",

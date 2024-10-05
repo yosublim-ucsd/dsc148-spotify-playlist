@@ -4,7 +4,7 @@
 
 > Unwind to the real beauty of Instrumentals!
 
-136 songs - 10 hr 48 min
+137 songs - 10 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [Dastaan](https://open.spotify.com/track/2Bu8OV53cpcpVRgx1JRYte) | [Tajdar Junaid](https://open.spotify.com/artist/3tEJo0yjxFfLljtseITzVr) | [What Colour Is Your Raindrop](https://open.spotify.com/album/1frVusPqxFh2Q5GzqdTDvC) | 3:27 | 2022-06-10 | 2023-07-13 |
 | [Delicately Tuned](https://open.spotify.com/track/6HNNqCMbrENJxDvUGsow3D) | [Karnatriix](https://open.spotify.com/artist/0rhuXpjseoAieJYuBKQwR6) | [Namaste](https://open.spotify.com/album/1gXEGqRmzf1wIdefis4hKi) | 7:09 | 2022-06-10 |  |
 | [Departure](https://open.spotify.com/track/43tRzHQb2OziLUOgFJELuI) | [Rasika Shekar](https://open.spotify.com/artist/0v8Vu84KyjZUxCD1P8LpDp) | [Departure](https://open.spotify.com/album/2779kgLwGYn8NP2tk14AB7) | 3:58 | 2022-06-10 |  |
-| [Drop](https://open.spotify.com/track/3egX8ALvUfZTddyDurHoda) | [Dhruv Visvanath](https://open.spotify.com/artist/5npIe0yBbHoAwQ5XYVVEwn) | [The Lost Cause](https://open.spotify.com/album/7dnWNzGDTh1XDxdDxIqt4e) | 2:54 | 2022-06-10 |  |
+| [Drop](https://open.spotify.com/track/3egX8ALvUfZTddyDurHoda) | [Dhruv Visvanath](https://open.spotify.com/artist/5npIe0yBbHoAwQ5XYVVEwn) | [The Lost Cause](https://open.spotify.com/album/7dnWNzGDTh1XDxdDxIqt4e) | 2:54 | 2022-06-10 | 2024-10-05 |
 | [Drop](https://open.spotify.com/track/6Syd5k9s9HnBfTk5aEpCMh) | [Dhruv Visvanath](https://open.spotify.com/artist/5npIe0yBbHoAwQ5XYVVEwn) | [The Lost Cause](https://open.spotify.com/album/6WUUhrm9LceL3JJSPv8G6i) | 2:54 | 2022-06-10 | 2024-04-19 |
 | [Electric Pranaam](https://open.spotify.com/track/1MpBIySytqhvWAHFUFdJtg) | [Sanjeev T](https://open.spotify.com/artist/4i3H5BsVTVwxXcWC3CdVPu) | [Epic Shit](https://open.spotify.com/album/0bwFDuIwLE4OzoHmgiSYPc) | 5:16 | 2022-06-10 |  |
 | [Emotive Conversation](https://open.spotify.com/track/4TtP5t0uihrLtFbnDV2ImP) | [Avik Ganguly](https://open.spotify.com/artist/1s7nL5CIkeynD4qB8lDbks) | [Emotive Conversation](https://open.spotify.com/album/2Ig7cVIgBMpH2i4myl0NT1) | 2:52 | 2022-06-10 |  |
@@ -130,6 +130,7 @@
 | [The Moment](https://open.spotify.com/track/4GEzdXpbeGB97W1C3gH8Hh) | [aswekeepsearching](https://open.spotify.com/artist/3K1oloNu09kQTV0Idz378q) | [Khwaab](https://open.spotify.com/album/6lXcwcAYbcjnbVmCvOifh6) | 1:50 | 2022-06-10 |  |
 | [The Namesake Reprise](https://open.spotify.com/track/5K0qbZW21BaPNURFp8juM1) | [Nitin Sawhney](https://open.spotify.com/artist/5NCKpzuowtihcIrIHFjKbJ) | [The Namesake \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2wv0qcdV5iokGLTD4VMdQI) | 5:04 | 2022-06-10 |  |
 | [The Namesake Reprise](https://open.spotify.com/track/6z3MOi8XJ6t3lFL74IFyJ6) | [Nitin Sawhney](https://open.spotify.com/artist/5NCKpzuowtihcIrIHFjKbJ) | [The Namesake \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3nziFdCTmqxIlYl82Lz9UW) | 5:04 | 2022-06-10 | 2024-04-19 |
+| [The Way Home](https://open.spotify.com/track/2NBHQAxMtqdBuTyCp5FiEi) | [Lakkshya](https://open.spotify.com/artist/3hUmXJ9FIm3cjbZRoZE9j3), [Mohini Dey](https://open.spotify.com/artist/3jGVx8ZyTVFWokbgl6BDdo) | [The Way Home](https://open.spotify.com/album/2liDdyDMLCUeXSLvORY5gH) | 10:38 | 2024-10-04 |  |
 | [The Winds of Bihu](https://open.spotify.com/track/0PDxa6S8gvRZlcxXafiuQ5) | [Kartikeya Vashist](https://open.spotify.com/artist/0TVGGswr1g8UtlHyf0kQuq), [Vishrut Pande](https://open.spotify.com/artist/4420Ou4ucpvZ2YCJjUILsa), [SMESH](https://open.spotify.com/artist/6ztIFgQ8kYiJ7VRIkvJiHr) | [The Winds of Bihu](https://open.spotify.com/album/4nRuBUtdDgERyKwEZ67EiX) | 3:50 | 2022-06-10 |  |
 | [Thillana \- Dhanashree \- Adi](https://open.spotify.com/track/2uz8tJWTg8hXUVG8llUl0E) | [Rajhesh Vaidhya](https://open.spotify.com/artist/4ymxXOXgxZVu5dDot8oXuL) | [Rajesh Vaidhya \- Evergreen Melodies](https://open.spotify.com/album/6EQrbQbE2Q1m8pOECWxowJ) | 3:35 | 2022-06-10 |  |
 | [Timeless](https://open.spotify.com/track/6yPIsdN9uXp0uRCWxTvq1c) | [Sutej Singh](https://open.spotify.com/artist/1LQ87p0qt3OEhSGbjMVuVe) | [The Emerging](https://open.spotify.com/album/6tHfh49o6KkTwugdI9kh0N) | 9:07 | 2022-06-10 |  |

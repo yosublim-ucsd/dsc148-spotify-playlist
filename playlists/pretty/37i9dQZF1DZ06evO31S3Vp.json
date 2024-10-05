@@ -1,12 +1,12 @@
 {
-  "description": "This is J\u00e3o. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 200814,
+  "description": "This is J\u00e3o. The essential tracks, all in one playlist.",
+  "num_followers": 200839,
   "original_name": "This Is J\u00e3o",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvyNAAAAAAAKtyZqO2kuLy8xAgGmMVXE",
+  "snapshot_id": "Zv3egAAAAAC81oIj6sB9GnZNkoOGH0OT",
   "tracks": [
     {
       "added_at": null,
@@ -567,26 +567,6 @@
       "duration_ms": 236921,
       "name": "VSF",
       "url": "https://open.spotify.com/track/6rL40EhmdDeEeqS0FDZ9Ab"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "DOCE 22",
-        "url": "https://open.spotify.com/album/1bR2SlwIKwvCZBFhDfYr6x"
-      },
-      "artists": [
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        },
-        {
-          "name": "J\u00e3o",
-          "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
-        }
-      ],
-      "duration_ms": 206524,
-      "name": "fugitivos :)",
-      "url": "https://open.spotify.com/track/0aV9qW7X0msAci4ATkKgBk"
     },
     {
       "added_at": null,

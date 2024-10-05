@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-13",
-  "description": "The Midwest is always on time. Cover: Lil Durk",
+  "description": "The Midwest is always on time. Cover: Tee Grizzley",
   "name": "CST",
   "tracks": [
     {
@@ -480,7 +480,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 153648,
       "name": "3333",
       "url": "https://open.spotify.com/track/51wZRATIHtYIfb0tMpp3e2"
@@ -1782,7 +1782,7 @@
       ],
       "date_added": "2024-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 102400,
       "name": "Bad Bitty",
       "url": "https://open.spotify.com/track/0aY6eYWRY2qAQJJ8SzL68Y"
@@ -3972,7 +3972,7 @@
       ],
       "date_added": "2024-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 158314,
       "name": "CULLINAN GANG (feat. Icewear Vezzo)",
       "url": "https://open.spotify.com/track/7zxGiBzQAJubiX7stpX1gD"
@@ -4078,7 +4078,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 160409,
       "name": "Dark Sword Angel",
       "url": "https://open.spotify.com/track/1ODOnrRAdszEe09dV2C7bv"
@@ -4118,7 +4118,7 @@
       ],
       "date_added": "2024-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 166999,
       "name": "Daytona (feat. VonOff1700)",
       "url": "https://open.spotify.com/track/4w0ziXwiEUeHLytJWAcF0h"
@@ -4480,7 +4480,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 179453,
       "name": "DONT WORRY (feat. Chip Tha Ripper)",
       "url": "https://open.spotify.com/track/6bpFKtmybxjGaO7OSOQqOc"
@@ -5771,6 +5771,24 @@
     },
     {
       "album": {
+        "name": "FUCK SLAE",
+        "url": "https://open.spotify.com/album/4xvtgJZiLHBRurDbVHvDst"
+      },
+      "artists": [
+        {
+          "name": "DaeMoney",
+          "url": "https://open.spotify.com/artist/33IGJSFbZplSbhXcqtZTDg"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153237,
+      "name": "FUCK SLAE",
+      "url": "https://open.spotify.com/track/1lZDwDgZ1Qx0z3xn51hsx4"
+    },
+    {
+      "album": {
         "name": "The Death of Slim Shady (Coup De Gr\u00e2ce)",
         "url": "https://open.spotify.com/album/3kjHLu1pL7tdY88GFwEkl6"
       },
@@ -5908,6 +5926,28 @@
       "duration_ms": 123076,
       "name": "GAHDAMN",
       "url": "https://open.spotify.com/track/0UmTizjqbT13uqaBhZpWxe"
+    },
+    {
+      "album": {
+        "name": "Life Sucks",
+        "url": "https://open.spotify.com/album/4M8wmqEOBiRmTUIlGfLi34"
+      },
+      "artists": [
+        {
+          "name": "Powers Pleasant",
+          "url": "https://open.spotify.com/artist/0fYw4bch7qTxBZLS3rSVMj"
+        },
+        {
+          "name": "DC The Don",
+          "url": "https://open.spotify.com/artist/3YYbAExunnHv5pW7GUZefk"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138560,
+      "name": "Galore (feat. DC The Don)",
+      "url": "https://open.spotify.com/track/5j90L0dVutqyG6JK0XREPT"
     },
     {
       "album": {
@@ -6334,7 +6374,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 198133,
       "name": "GOD LEVEL",
       "url": "https://open.spotify.com/track/11VVyQon40HQu03a0arxlT"
@@ -7272,7 +7312,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 127173,
       "name": "HIMSKI",
       "url": "https://open.spotify.com/track/2GZVpHT2acsRzMnrHFnL71"
@@ -7560,6 +7600,24 @@
       "duration_ms": 182941,
       "name": "How TF (with SleazyWorld Go)",
       "url": "https://open.spotify.com/track/3iBv2gYJk2SJJbuEGnvlLm"
+    },
+    {
+      "album": {
+        "name": "ANIMALS ONLY",
+        "url": "https://open.spotify.com/album/6m3DNzm0j8VH4YBX7g7WI0"
+      },
+      "artists": [
+        {
+          "name": "BabyChiefDoit",
+          "url": "https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161562,
+      "name": "Hummingbird",
+      "url": "https://open.spotify.com/track/0xtaW4t6ho5Y7dBJWHwVpd"
     },
     {
       "album": {
@@ -8056,7 +8114,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 156559,
       "name": "Iconic",
       "url": "https://open.spotify.com/track/4jRFhW5FKH2LbW6POLx80q"
@@ -8982,7 +9040,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 147002,
       "name": "KING OF THE HILL",
       "url": "https://open.spotify.com/track/6gW6gESSUQ2h6Mnrn2iSmZ"
@@ -9687,6 +9745,24 @@
     },
     {
       "album": {
+        "name": "Lose",
+        "url": "https://open.spotify.com/album/0yNCsgaLengTt4ljy7lUK9"
+      },
+      "artists": [
+        {
+          "name": "J.P.",
+          "url": "https://open.spotify.com/artist/6ygDlIilHZqielxxkvmIVH"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128056,
+      "name": "Lose",
+      "url": "https://open.spotify.com/track/0wLinSLeOC9FjfmKpgqk3B"
+    },
+    {
+      "album": {
         "name": "Why Do It Feel Like I'm Losing You",
         "url": "https://open.spotify.com/album/6nV5A2vlstzER5Aul45Ymn"
       },
@@ -10197,6 +10273,24 @@
     },
     {
       "album": {
+        "name": "MIAMI FLOW",
+        "url": "https://open.spotify.com/album/4UH4awceaxhge9M57poy3T"
+      },
+      "artists": [
+        {
+          "name": "DeJ Loaf",
+          "url": "https://open.spotify.com/artist/7kFfY4UjNdNyaeUgLIEbIF"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151011,
+      "name": "MIAMI FLOW",
+      "url": "https://open.spotify.com/track/6EEYTDGqIJWBXT1qIuPHih"
+    },
+    {
+      "album": {
         "name": "The Coldest",
         "url": "https://open.spotify.com/album/0V2BZLpJjyk4eey1BOC9st"
       },
@@ -10424,6 +10518,24 @@
       "duration_ms": 119250,
       "name": "Money On My Mind",
       "url": "https://open.spotify.com/track/1gAmZYaDy4ZxE1BabhnT68"
+    },
+    {
+      "album": {
+        "name": "Monitoring Me",
+        "url": "https://open.spotify.com/album/4gihDInzv5b57Fy5fhcsGV"
+      },
+      "artists": [
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144746,
+      "name": "Monitoring Me",
+      "url": "https://open.spotify.com/track/5et07CoblayzSAQIFLtP3d"
     },
     {
       "album": {
@@ -10827,6 +10939,28 @@
     },
     {
       "album": {
+        "name": "YOU'RE WELCOME",
+        "url": "https://open.spotify.com/album/5pkvThX7UicFgKS2esXZsr"
+      },
+      "artists": [
+        {
+          "name": "Tay B",
+          "url": "https://open.spotify.com/artist/1bPS827zEKbtWhNcWUMTpO"
+        },
+        {
+          "name": "Babyfxce E",
+          "url": "https://open.spotify.com/artist/7a8ZndeHGrkS7xIM8060Xw"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158570,
+      "name": "Nawl (feat. Babyfxce E)",
+      "url": "https://open.spotify.com/track/6PG2mZKRpMlPByeUCabxr5"
+    },
+    {
+      "album": {
         "name": "4 The Trenches",
         "url": "https://open.spotify.com/album/3Uqp9nAzjdY5Ew55jk0bCg"
       },
@@ -10966,6 +11100,24 @@
       "duration_ms": 110027,
       "name": "No Cap 3",
       "url": "https://open.spotify.com/track/5cywUFcLLIRW0kWQ5E71Rp"
+    },
+    {
+      "album": {
+        "name": "Trappernese",
+        "url": "https://open.spotify.com/album/7lIgSiBkAMkfTL6SxomH7z"
+      },
+      "artists": [
+        {
+          "name": "Certified Trapper",
+          "url": "https://open.spotify.com/artist/7gABnNCiNJBaT8KkaHGK13"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 75071,
+      "name": "No Deals",
+      "url": "https://open.spotify.com/track/6U8cLElq0IZkwNu3qmdTxZ"
     },
     {
       "album": {
@@ -12247,6 +12399,24 @@
     },
     {
       "album": {
+        "name": "Play Ball",
+        "url": "https://open.spotify.com/album/0w9TPGgtN5xPWN083Qpfwb"
+      },
+      "artists": [
+        {
+          "name": "Raq baby",
+          "url": "https://open.spotify.com/artist/2MEiPjmRDl1ftTEaBD3B7D"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110863,
+      "name": "Play Ball",
+      "url": "https://open.spotify.com/track/3TYR4RRDGnOX6BbxFrgQpa"
+    },
+    {
+      "album": {
         "name": "Winter's Diary 5",
         "url": "https://open.spotify.com/album/3qpgECxsMr2Iond5cWsH2h"
       },
@@ -12408,6 +12578,28 @@
       "duration_ms": 193201,
       "name": "Pop Out",
       "url": "https://open.spotify.com/track/2yj5fohdcJf48hdmB6QXD1"
+    },
+    {
+      "album": {
+        "name": "Post Traumatic",
+        "url": "https://open.spotify.com/album/3xdlCzNYHfEiXnUyWWyAVT"
+      },
+      "artists": [
+        {
+          "name": "Tee Grizzley",
+          "url": "https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO"
+        },
+        {
+          "name": "Baby Grizzley",
+          "url": "https://open.spotify.com/artist/754AmxW7QxYQ5kEuk0f9QU"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229864,
+      "name": "Pop Shit (feat. Baby Grizzley)",
+      "url": "https://open.spotify.com/track/6CMQh2ZsMzDLc5fYnCg1Up"
     },
     {
       "album": {
@@ -12586,7 +12778,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 135907,
       "name": "Presidential",
       "url": "https://open.spotify.com/track/4kxMl5ZrvqCFBFknPLN7F8"
@@ -13628,7 +13820,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 203405,
       "name": "Rollin'",
       "url": "https://open.spotify.com/track/7zP40LKCXsiyZjMtnzo5z6"
@@ -14901,6 +15093,28 @@
     },
     {
       "album": {
+        "name": "So Bad (with 4batz)",
+        "url": "https://open.spotify.com/album/4dT7ycpsFAKebSCCecqROq"
+      },
+      "artists": [
+        {
+          "name": "Skilla Baby",
+          "url": "https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI"
+        },
+        {
+          "name": "4batz",
+          "url": "https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179631,
+      "name": "So Bad (with 4batz)",
+      "url": "https://open.spotify.com/track/6UO6qKbBUV3dkAL8944zyh"
+    },
+    {
+      "album": {
         "name": "THA STREETS VOL 1",
         "url": "https://open.spotify.com/album/7BQHGnFNwftsmtHvsAJqAr"
       },
@@ -15830,6 +16044,28 @@
       "duration_ms": 180250,
       "name": "Swear to God (feat. Future)",
       "url": "https://open.spotify.com/track/0N3A0tvQ3ppZerKA8Gsztp"
+    },
+    {
+      "album": {
+        "name": "Post Traumatic",
+        "url": "https://open.spotify.com/album/3xdlCzNYHfEiXnUyWWyAVT"
+      },
+      "artists": [
+        {
+          "name": "Tee Grizzley",
+          "url": "https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193768,
+      "name": "Swerv (feat. G Herbo)",
+      "url": "https://open.spotify.com/track/6kkCJ8xk343HmHrdIbzw17"
     },
     {
       "album": {
@@ -16981,6 +17217,28 @@
     },
     {
       "album": {
+        "name": "ANIMALS ONLY",
+        "url": "https://open.spotify.com/album/6m3DNzm0j8VH4YBX7g7WI0"
+      },
+      "artists": [
+        {
+          "name": "BabyChiefDoit",
+          "url": "https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg"
+        },
+        {
+          "name": "STAR BANDZ",
+          "url": "https://open.spotify.com/artist/5qhDQveADDnjIZQ85AtgDM"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150079,
+      "name": "Too Slow (feat. STAR BANDZ)",
+      "url": "https://open.spotify.com/track/1opgZsZPJJhZuEytACUaKH"
+    },
+    {
+      "album": {
         "name": "Took My Breath Away (feat. Skye Morales)",
         "url": "https://open.spotify.com/album/0OvsEm90C9FfkKSNnDwhGw"
       },
@@ -17300,6 +17558,24 @@
       "duration_ms": 228266,
       "name": "Type Shit",
       "url": "https://open.spotify.com/track/28drn6tQo95MRvO0jQEo5C"
+    },
+    {
+      "album": {
+        "name": "Better Me Than You",
+        "url": "https://open.spotify.com/album/4Re8JSuo0lUxYCMjDnafvd"
+      },
+      "artists": [
+        {
+          "name": "Big Sean",
+          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199499,
+      "name": "Typecast",
+      "url": "https://open.spotify.com/track/12c9upZX3qLJP9UQlKFjDP"
     },
     {
       "album": {
@@ -17964,7 +18240,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 174576,
       "name": "What You Need (with Skilla Baby)",
       "url": "https://open.spotify.com/track/4ESpN7uNGuhw3Mpu7KwBsa"
@@ -18618,10 +18894,32 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 121887,
       "name": "Yea Yea",
       "url": "https://open.spotify.com/track/2VIJ6TJoMNc0KeXgrCUSLu"
+    },
+    {
+      "album": {
+        "name": "Yea Yea (feat. Veeze) [Remix]",
+        "url": "https://open.spotify.com/album/06hrDI2Zrtx2xvuzOM5sRC"
+      },
+      "artists": [
+        {
+          "name": "STAR BANDZ",
+          "url": "https://open.spotify.com/artist/5qhDQveADDnjIZQ85AtgDM"
+        },
+        {
+          "name": "Veeze",
+          "url": "https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168200,
+      "name": "Yea Yea (feat. Veeze) [Remix]",
+      "url": "https://open.spotify.com/track/6ABTX0rPmt1vCFJWeY97kY"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Den bedste rock playliste i Danmark\u26a1\ufe0f ",
-  "num_followers": 85230,
+  "num_followers": 85224,
   "original_name": "VOLUME DENMARK",
   "owner": {
     "name": "Spotify",
@@ -919,18 +919,18 @@
     {
       "added_at": "2024-09-26 22:01:00",
       "album": {
-        "name": "Master Of Puppets (Remastered)",
-        "url": "https://open.spotify.com/album/2Lq2qX3hYhiuPckC8Flj21"
+        "name": "Use Your Illusion I",
+        "url": "https://open.spotify.com/album/0CxPbTRARqKUYighiEY9Sz"
       },
       "artists": [
         {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
         }
       ],
-      "duration_ms": 515386,
-      "name": "Master Of Puppets",
-      "url": "https://open.spotify.com/track/2MuWTIM3b0YEAskbeeFE1i"
+      "duration_ms": 283733,
+      "name": "Don't Cry (Original)",
+      "url": "https://open.spotify.com/track/2N2yrmodOnVF10mKvItC9P"
     },
     {
       "added_at": "2024-09-26 22:01:00",
@@ -951,18 +951,18 @@
     {
       "added_at": "2024-09-26 22:01:00",
       "album": {
-        "name": "Use Your Illusion I",
-        "url": "https://open.spotify.com/album/0CxPbTRARqKUYighiEY9Sz"
+        "name": "Master Of Puppets (Remastered)",
+        "url": "https://open.spotify.com/album/2Lq2qX3hYhiuPckC8Flj21"
       },
       "artists": [
         {
-          "name": "Guns N' Roses",
-          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
         }
       ],
-      "duration_ms": 283733,
-      "name": "Don't Cry (Original)",
-      "url": "https://open.spotify.com/track/2N2yrmodOnVF10mKvItC9P"
+      "duration_ms": 515386,
+      "name": "Master Of Puppets",
+      "url": "https://open.spotify.com/track/2MuWTIM3b0YEAskbeeFE1i"
     },
     {
       "added_at": "2024-09-26 22:01:00",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2024-09-26 22:01:00",
       "album": {
-        "name": "Piece of Mind (2015 Remaster)",
-        "url": "https://open.spotify.com/album/7I9Wh2IgvI3Nnr8Z1ZSWby"
-      },
-      "artists": [
-        {
-          "name": "Iron Maiden",
-          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
-        }
-      ],
-      "duration_ms": 252733,
-      "name": "The Trooper - 2015 Remaster",
-      "url": "https://open.spotify.com/track/4OROzZUy6gOWN4UGQVaZMF"
-    },
-    {
-      "added_at": "2024-09-26 22:01:00",
-      "album": {
         "name": "Blood Sugar Sex Magik (Deluxe Edition)",
         "url": "https://open.spotify.com/album/30Perjew8HyGkdSmqguYyg"
       },
@@ -1287,18 +1271,34 @@
     {
       "added_at": "2024-09-26 22:01:00",
       "album": {
-        "name": "Born To Run",
-        "url": "https://open.spotify.com/album/43YIoHKSrEw2GJsWmhZIpu"
+        "name": "Piece of Mind (2015 Remaster)",
+        "url": "https://open.spotify.com/album/7I9Wh2IgvI3Nnr8Z1ZSWby"
       },
       "artists": [
         {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
         }
       ],
-      "duration_ms": 269920,
-      "name": "Born to Run",
-      "url": "https://open.spotify.com/track/6hTcuIQa0sxrrByu9wTD7s"
+      "duration_ms": 252733,
+      "name": "The Trooper - 2015 Remaster",
+      "url": "https://open.spotify.com/track/4OROzZUy6gOWN4UGQVaZMF"
+    },
+    {
+      "added_at": "2024-09-26 22:01:00",
+      "album": {
+        "name": "1984 (Remastered)",
+        "url": "https://open.spotify.com/album/3REUXdj5OPKhuDTrTtCBU0"
+      },
+      "artists": [
+        {
+          "name": "Van Halen",
+          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
+        }
+      ],
+      "duration_ms": 210226,
+      "name": "Panama - 2015 Remaster",
+      "url": "https://open.spotify.com/track/05RgAMGypEvqhNs5hPCbMS"
     }
   ],
   "unique_name": "VOLUME DENMARK",

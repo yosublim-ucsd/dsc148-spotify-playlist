@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-10",
-  "description": "Cuando las palabras no alcanzan, siempre habr\u00e1 canciones para decirle lo que sientes. Reyli & Los Rumberos en portada.",
+  "description": "Cuando las palabras no alcanzan, siempre habr\u00e1 canciones para decirle lo que sientes. Gepe en portada.",
   "name": "Cantamores",
   "tracks": [
     {
@@ -1600,7 +1600,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 322013,
       "name": "De todas las flores",
       "url": "https://open.spotify.com/track/3MAHwAmag1U1gLLuvEQNHU"
@@ -1640,6 +1640,24 @@
       "duration_ms": 225706,
       "name": "Demasiado",
       "url": "https://open.spotify.com/track/5k316otFvydSrNVcygfYs5"
+    },
+    {
+      "album": {
+        "name": "UNDESASTRE",
+        "url": "https://open.spotify.com/album/3we6FpK61JQs2f1mbkJ1kG"
+      },
+      "artists": [
+        {
+          "name": "Gepe",
+          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222354,
+      "name": "DESASTRE",
+      "url": "https://open.spotify.com/track/1R9s6WJz2kMPP9yNHQArEk"
     },
     {
       "album": {
@@ -1792,7 +1810,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 178588,
       "name": "disfraz",
       "url": "https://open.spotify.com/track/4eRLH2c7eyJmOylo7Nw47T"
@@ -3112,7 +3130,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 198826,
       "name": "Lo Que T\u00fa Quieras",
       "url": "https://open.spotify.com/track/29IQpdkv1MaP6Hvr1IBsdv"
@@ -3739,6 +3757,24 @@
     },
     {
       "album": {
+        "name": "Tofu",
+        "url": "https://open.spotify.com/album/5tquufgGqNZBek4qn3Zngj"
+      },
+      "artists": [
+        {
+          "name": "Caloncho",
+          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162586,
+      "name": "Necios",
+      "url": "https://open.spotify.com/track/4yrizFXoIRJQ94QQKiJqIx"
+    },
+    {
+      "album": {
         "name": "Ni Modo",
         "url": "https://open.spotify.com/album/5YZRghq9Z477w06ZTlxCeX"
       },
@@ -3754,6 +3790,24 @@
       "duration_ms": 185058,
       "name": "Ni Modo",
       "url": "https://open.spotify.com/track/3qyeBuydjVtFbuJA0EAjC4"
+    },
+    {
+      "album": {
+        "name": "No Fue F\u00e1cil",
+        "url": "https://open.spotify.com/album/6jINtxzOgJOnBfl1T3DD7b"
+      },
+      "artists": [
+        {
+          "name": "Sous-Sol",
+          "url": "https://open.spotify.com/artist/6npvMAuRzmnkSxIlxwdG0T"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214285,
+      "name": "No Fue F\u00e1cil",
+      "url": "https://open.spotify.com/track/1cvbDvA7RXnlyhrJBtcbyt"
     },
     {
       "album": {
@@ -3978,7 +4032,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-22",
+      "date_removed": null,
       "duration_ms": 171290,
       "name": "ojal\u00e1 </3",
       "url": "https://open.spotify.com/track/2Gf3SCoQqgRbxUdjsP3IP4"
@@ -4552,7 +4606,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 183357,
       "name": "Quisiera",
       "url": "https://open.spotify.com/track/13balKJJGR2bqNFjObszuG"

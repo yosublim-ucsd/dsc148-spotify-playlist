@@ -4,7 +4,7 @@
 
 > Techno is a state of mind\. Cover: KAS:ST
 
-418 songs - 1 day 7 hr 40 min
+419 songs - 1 day 7 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [Addiction](https://open.spotify.com/track/7eJFz62eqPdmSooYHZWsip) | [Max Styler](https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk), [Oscar L](https://open.spotify.com/artist/28KSeoYQphCQ5cGa0cuUCm) | [Addiction / Yapper](https://open.spotify.com/album/47qmD30x0oZye9bBYAHKkr) | 3:31 | 2024-09-06 |  |
 | [Age of Love \- ARTBAT Rave Mix](https://open.spotify.com/track/7LHqxlhat0OIf3gCOGnOGr) | [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1), [Pete Tong](https://open.spotify.com/artist/6n1t55WMsSIUFHrAL4mUsB) | [Age of Love \(ARTBAT Rave Mix\)](https://open.spotify.com/album/52vmOsY6n8BvRJqkD9Y5LK) | 7:25 | 2022-04-15 | 2023-01-21 |
 | [Alive \(ABGT556\)](https://open.spotify.com/track/2Vp2qK8gK6HPvVenIvCauz) | [widerberg](https://open.spotify.com/artist/6ob0DwL4uI6eR5i9cc5tNn), [Luke Coulson](https://open.spotify.com/artist/5ctD2yNFX7W8uWIxTvirkx) | [Group Therapy 556](https://open.spotify.com/album/7DhyyoH0FYuhuNckDPrkn2) | 4:15 | 2023-11-27 | 2024-07-20 |
-| [All Talk](https://open.spotify.com/track/2wWwyNZXJ2wH5eIdBvAxD0) | [KYSSA](https://open.spotify.com/artist/1xXATQmJAJmsSfhSEuutqy) | [All Talk](https://open.spotify.com/album/0YikrcFlT6ZZuzlk5gqszF) | 3:32 | 2024-03-06 |  |
+| [All Talk](https://open.spotify.com/track/2wWwyNZXJ2wH5eIdBvAxD0) | [KYSSA](https://open.spotify.com/artist/1xXATQmJAJmsSfhSEuutqy) | [All Talk](https://open.spotify.com/album/0YikrcFlT6ZZuzlk5gqszF) | 3:32 | 2024-03-06 | 2024-10-05 |
 | [All You Got To Do](https://open.spotify.com/track/5RH715X8TaLppRDbNMo8JM) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [All You Got To Do](https://open.spotify.com/album/136Qgr1Nu4k854R4gY4bgK) | 3:06 | 2024-08-22 |  |
 | [Amber Rush](https://open.spotify.com/track/4AqvfnUyIfQoa4hIbEPYnt) | [Joshua James](https://open.spotify.com/artist/3g6L9paGFaZxGp7lxChRqh) | [Amber Rush](https://open.spotify.com/album/7ahTHniOH0ml5SiymYAhmW) | 6:05 | 2022-04-15 | 2022-10-14 |
 | [Amplify Reality](https://open.spotify.com/track/4LXUkaPwrt5oWxODHC5t1v) | [Grigoré](https://open.spotify.com/artist/2RemyvxrdxNsB7ycf3rJHX) | [Amplify Reality](https://open.spotify.com/album/1JK8Z10Ky5BcbEO5OeuV8M) | 3:07 | 2024-08-22 |  |
@@ -286,6 +286,7 @@
 | [Pillow Princess \- TAAHLIAH Remix](https://open.spotify.com/track/6mEYqfF76mM7tCcvuYpL4Z) | [Manni Dee](https://open.spotify.com/artist/3WKDW1ASiWSa1T1nX01dUr), [TAAHLIAH](https://open.spotify.com/artist/2pGARcnqDa3WoicxemVeqU) | [Pillow Princess Remixes I](https://open.spotify.com/album/0qealHFPGDb0uG4dBrW6qR) | 2:48 | 2023-04-04 | 2024-03-07 |
 | [Pinger](https://open.spotify.com/track/3ozYevAGA6jmeBa3O6i24R) | [NANCY Live](https://open.spotify.com/artist/3u2C5jTgPLvS9FxybbEuh1) | [Pinger](https://open.spotify.com/album/7aKgtWED31pHemqYp2ltCy) | 4:58 | 2023-04-04 | 2023-11-06 |
 | [Pinger](https://open.spotify.com/track/6iOSV9Wk97hIpWVHfq29Dj) | [NANCY Live](https://open.spotify.com/artist/3u2C5jTgPLvS9FxybbEuh1) | [Pinger](https://open.spotify.com/album/66RRmzSYSxtvkFDjqZzJps) | 4:58 | 2023-10-27 | 2024-03-07 |
+| [Play With Me](https://open.spotify.com/track/6PrPWf02VxGUd2jJLs9z1M) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK), [Shlømo](https://open.spotify.com/artist/0ZdNs1hU6aAiaZxvFbtDWF) | [Spiritual Driveby](https://open.spotify.com/album/2aQjGvSZNLgf4tuMADUeqr) | 3:38 | 2024-10-04 |  |
 | [Pleasure On My Mind \- Edit](https://open.spotify.com/track/7hjGu0gXza29dqs1EcDbyp) | [Marie Davidson](https://open.spotify.com/artist/7xJVICbAWizNBKBD3mRWjF) | [Pleasure on My Mind](https://open.spotify.com/album/61kjqrcmAEAuNlIdBigDys) | 3:33 | 2024-06-07 |  |
 | [Poison](https://open.spotify.com/track/5IUVlYlvUtiqEC1qJbFZu8) | [MAGNUS](https://open.spotify.com/artist/4pOglqMAavrWFo20ORRx5w) | [Poison](https://open.spotify.com/album/3cR3M7CUTCx9YYkE1d9qn5) | 3:51 | 2024-01-12 | 2024-07-27 |
 | [Portal](https://open.spotify.com/track/0HgxhNKiQy2LYxExwyZMWI) | [Rebūke](https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj) | [Portal / Echoes](https://open.spotify.com/album/7evuenwoczpZ1eWE6DQeBw) | 3:27 | 2023-08-10 | 2024-04-05 |

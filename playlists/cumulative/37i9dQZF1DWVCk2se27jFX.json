@@ -1193,6 +1193,24 @@
     },
     {
       "album": {
+        "name": "Las Olas",
+        "url": "https://open.spotify.com/album/0LRqzDjRWb4MSPoDnaKnvJ"
+      },
+      "artists": [
+        {
+          "name": "Oh'laville",
+          "url": "https://open.spotify.com/artist/5uDxyttOUh6KJic2MFbwQ7"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214556,
+      "name": "Las Olas",
+      "url": "https://open.spotify.com/track/6uD9TBxKOcTERyinvPwtiF"
+    },
+    {
+      "album": {
         "name": "Lo Cura",
         "url": "https://open.spotify.com/album/3p11AWGzvHZL4o3Cm9jtba"
       },
@@ -1320,7 +1338,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 174186,
       "name": "LUNA",
       "url": "https://open.spotify.com/track/5VcH2H6qFcBwPfu2fBjx8d"

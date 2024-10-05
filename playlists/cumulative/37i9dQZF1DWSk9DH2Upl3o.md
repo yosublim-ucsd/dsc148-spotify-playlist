@@ -4,7 +4,7 @@
 
 > The jam scene is alive and well\. Cover: Kendall Street Company
 
-210 songs - 19 hr 29 min
+211 songs - 19 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,7 @@
 | [Décharge](https://open.spotify.com/track/4RtJLZeu4b7PJb2RZN6O9r) | [BZSounds](https://open.spotify.com/artist/5sfU8PTosAbplqqVFQGwVH) | [Décharge](https://open.spotify.com/album/0u172cwRjrAKd9Us5lPC1u) | 3:27 | 2023-06-30 |  |
 | [East West \- Tchad Blake Remix](https://open.spotify.com/track/4EfV0VgqqgSyoXx0LaGT1H) | [The Third Mind](https://open.spotify.com/artist/1LkLIVstA1IoipK1nx0RAD), [Tchad Blake](https://open.spotify.com/artist/0CL5kQ3kBjgge3GQtIJAyp) | [East West \(Tchad Blake Remix\)](https://open.spotify.com/album/2yyye28bQHerBTQIw0c44D) | 17:03 | 2023-06-23 |  |
 | [Electric Taco Stand](https://open.spotify.com/track/2mMElb3GObwkGdVYtyT0nu) | [Spafford](https://open.spotify.com/artist/7fA0IDinGo27lmOeGy6oGV) | [Spafford](https://open.spotify.com/album/6XNKBFhh66GoOhMpOd8s05) | 4:23 | 2022-06-23 |  |
-| [Eleven](https://open.spotify.com/track/6RlUNmMWlEahnYd5XjBbxV) | [Lucid Evolution](https://open.spotify.com/artist/2dY5xy6PtZVgHwTKOjWQAC) | [Eleven](https://open.spotify.com/album/6yGgMNCo7J5Uiu4qTJSZ9h) | 5:18 | 2024-05-24 |  |
+| [Eleven](https://open.spotify.com/track/6RlUNmMWlEahnYd5XjBbxV) | [Lucid Evolution](https://open.spotify.com/artist/2dY5xy6PtZVgHwTKOjWQAC) | [Eleven](https://open.spotify.com/album/6yGgMNCo7J5Uiu4qTJSZ9h) | 5:18 | 2024-05-24 | 2024-10-05 |
 | [Enjoy the Ride](https://open.spotify.com/track/4EAZKkjcKYdjm2Ms0cL1Mm) | [The Jauntee](https://open.spotify.com/artist/79iSQLNRiPa93oo3yYxAmN) | [Enjoy the Ride](https://open.spotify.com/album/5CfoFSPM4KCVjS6MbIEDZr) | 6:23 | 2022-06-23 |  |
 | [Evolve](https://open.spotify.com/track/6M7LYr6R248JrG3eoA0Xui) | [Phish](https://open.spotify.com/artist/5wbIWUzTPuTxTyG6ouQKqz) | [Evolve](https://open.spotify.com/album/0WEz9Ie0cx9AFaiM40bi4Q) | 4:12 | 2024-04-12 | 2024-05-25 |
 | [Eyes of the World](https://open.spotify.com/track/2CYkIcN130a5sm4ObsUOA0) | [Kendall Street Company](https://open.spotify.com/artist/6AKT0nNWeP4Eb7ntkeBOj9) | [Eyes of the World](https://open.spotify.com/album/53NBbrnfy9ER5w3aX1KxNY) | 5:13 | 2023-06-30 | 2023-07-29 |
@@ -109,6 +109,7 @@
 | [Knowledge or Wisdom](https://open.spotify.com/track/0oIbvgSpbzZtX3ovD14Z27) | [Papadosio](https://open.spotify.com/artist/22nCgEikczPLtGfDdpRroh), [Ram Dass](https://open.spotify.com/artist/3XX4k7fPq9gcyZRDrbXfnS) | [Improvisations with Ram Dass](https://open.spotify.com/album/09OgnSuSxMsE29yUUoHoO8) | 6:56 | 2024-05-17 |  |
 | [Lakesong](https://open.spotify.com/track/0S5bcsLFrtN4cM3jzgpWNa) | [Fitzkee Brothers](https://open.spotify.com/artist/7CUd58kShwbwTCmMtnBebG) | [Lakesong](https://open.spotify.com/album/5m2b2mDjvnxkgWALlHDbUV) | 4:34 | 2024-03-01 |  |
 | [Lap Mule](https://open.spotify.com/track/2qJzXsTqPTsnE4ocGMZRa1) | [Andreas Rydman](https://open.spotify.com/artist/2cPRL66TE5ukYhnokSkzPg), [Ariel Posen](https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y) | [Lap Mule](https://open.spotify.com/album/2Mf5kcese7yHo1lyypZFjf) | 5:02 | 2024-02-09 |  |
+| [Late Dawn](https://open.spotify.com/track/01qI1DSxeO1WYX8nc9bHQY) | [Lucid Evolution](https://open.spotify.com/artist/2dY5xy6PtZVgHwTKOjWQAC) | [Late Dawn](https://open.spotify.com/album/5RoC7vspBOZ76MAdXddbpC) | 3:37 | 2024-10-04 |  |
 | [Left Behind](https://open.spotify.com/track/160RJAfQ71LcES9hN06z3b) | [Bywater Call](https://open.spotify.com/artist/1bhk3AmtYKQAcDzbDyWG4M) | [Remain](https://open.spotify.com/album/6Ra2EYAa2ZUGMdFDOwPrgj) | 5:54 | 2022-09-02 |  |
 | [Lemon Haze](https://open.spotify.com/track/5xxDOqegRiTJ5n1LwePJx0) | [Frequilibrium](https://open.spotify.com/artist/0JNcTTdEYtUhOfoWdhRbXM) | [Frequilibrium](https://open.spotify.com/album/1iyratUHXjtigpYB9CWRI0) | 4:38 | 2022-06-23 | 2024-08-24 |
 | [Lend Me A Hand](https://open.spotify.com/track/6PpiEYX8cpunaDTVHoJfer) | [The String Cheese Incident](https://open.spotify.com/artist/7N3JfLDzzjXdPbsyco7X0l) | [Lend Me A Hand](https://open.spotify.com/album/5rcDq6iyHqeyC6QvUDqgjo) | 4:09 | 2023-06-09 | 2023-09-16 |

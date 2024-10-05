@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 
 > Jeden Freitag gibt's hier die besten Neuerscheinungen der Woche in einer Playlist\. Cover: Nemo
 
-[Spotify](https://open.spotify.com/user/spotify) - 820,973 likes - 78 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 821,167 likes - 78 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Eurostar](https://open.spotify.com/track/6uDqKkOeYnE7W1KZMMBPve) | [Nemo](https://open.spotify.com/artist/5Wg72TowYBWIcSo3K2r84N) | [Eurostar](https://open.spotify.com/album/3TIuWz1xtNlre0XVZqm0BS) | 2:45 |
-| 2 | [BELOHNEN](https://open.spotify.com/track/5aMvdnOSZxslL2I083yxvR) | [FILLY](https://open.spotify.com/artist/78lCJYozxlzWtocLnPKZ0f), [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H), [Bausa](https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg), [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j) | [BELOHNEN](https://open.spotify.com/album/21Qru59PSvQEdVEKCQ4ZeC) | 2:10 |
+| 2 | [BELOHNEN](https://open.spotify.com/track/5aMvdnOSZxslL2I083yxvR) | [FILLY](https://open.spotify.com/artist/78lCJYozxlzWtocLnPKZ0f), [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H), [Bausa](https://open.spotify.com/artist/13bDjug9N0pyv3ZUINjkDV), [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j) | [BELOHNEN](https://open.spotify.com/album/21Qru59PSvQEdVEKCQ4ZeC) | 2:10 |
 | 3 | [Phantasie](https://open.spotify.com/track/6Yqu8Y8Rizm3S6WcJNsvqI) | [LEA](https://open.spotify.com/artist/5Yo5iU2nf4H41waPl4ZnS1), [Lune](https://open.spotify.com/artist/3pMYJHAY5ErzmJQVWb8VX6) | [Von der Schönheit und Zerbrechlichkeit der Dinge](https://open.spotify.com/album/01umZXLO7VcQkBUBCXLS5O) | 2:51 |
 | 4 | [Bilder von Dir](https://open.spotify.com/track/4W9krRhDQYoFvtyXbgX448) | [1986zig](https://open.spotify.com/artist/21H6paZGGR6dQpVmAqbdzV) | [Einer von Euch](https://open.spotify.com/album/4rzbgOsSy9ztfEKvq0r4fD) | 2:09 |
 | 5 | [ALL MY LOVE](https://open.spotify.com/track/6iYxkBHyMpsgVxUgfy5fSx) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Moon Music](https://open.spotify.com/album/5SGtrmYbIo0Dsg4kJ4qjM6) | 3:42 |

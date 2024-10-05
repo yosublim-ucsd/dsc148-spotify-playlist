@@ -2,9 +2,9 @@
 
 ### [Cool K'IDs Rock](https://open.spotify.com/playlist/37i9dQZF1DX2SFBzpAPi7n)
 
-> K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: Dragon Pony\(드래곤 포니\)\) \(핫한 국내 록 음악을 만나보세요!\)
+> K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: Broccoli, you too?\(브로콜리너마저\)\) \(핫한 국내 록 음악을 만나보세요!\)
 
-738 songs - 1 day 20 hr 32 min
+739 songs - 1 day 20 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -238,7 +238,7 @@
 | [GRIPPIN’THEGREEN](https://open.spotify.com/track/6hHjsUiAuUcTtsvDXFvPFk) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [Jannabi’s small pieces ll : GRIPPIN’THEGREEN](https://open.spotify.com/album/1JKiz2WDaNak1fPjmNG1Vt) | 3:24 | 2022-05-24 | 2022-07-29 |
 | [Growing Pain](https://open.spotify.com/track/7r8aFgJzUbqpApUNmzV5yY) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Name Chapter: FREEFALL](https://open.spotify.com/album/63fWdGyeBj8VDjvHSUROx3) | 3:20 | 2024-05-09 |  |
 | [Guard You](https://open.spotify.com/track/3AQLNP4d68hIenp2KpwLlp) | [Young K](https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe) | [Eternal](https://open.spotify.com/album/6JuoNIefYEpSGTT0lUMIX3) | 3:17 | 2022-04-12 | 2023-01-12 |
-| [Guard You](https://open.spotify.com/track/4niblKZlhxVGqovEBCJbWZ) | [Young K](https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe) | [Eternal](https://open.spotify.com/album/7pH1aRaBcogrfEOrAKsUZF) | 3:17 | 2024-09-02 | 2024-10-04 |
+| [Guard You](https://open.spotify.com/track/4niblKZlhxVGqovEBCJbWZ) | [Young K](https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe) | [Eternal](https://open.spotify.com/album/7pH1aRaBcogrfEOrAKsUZF) | 3:17 | 2024-09-02 |  |
 | [Guerrilla \- Flag Version](https://open.spotify.com/track/2lhcC5gHaWaxOEcfa1WwgY) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [THE WORLD EP.PARADIGM](https://open.spotify.com/album/2f1QQQD15aeu9e5EWO3XrA) | 3:35 | 2024-07-16 | 2024-08-11 |
 | [Guess Who?](https://open.spotify.com/track/7LsHODr3Z7Q3AYgOyuQ2dx) | [Budung](https://open.spotify.com/artist/4RtxNIrPXlf3cTtIsuEWMi) | [Let’s take a step to a brighter place](https://open.spotify.com/album/33myALTzpif1l5ApybO8pk) | 3:59 | 2022-06-13 | 2022-07-02 |
 | [Gypsophila](https://open.spotify.com/track/6LA3jxPIsMLM4tpCGrb2B5) | [Lee Ju Hyuk](https://open.spotify.com/artist/05kWx8q5sU1MChiDfWcVRk) | [Crash Course in Romance OST Part 1](https://open.spotify.com/album/0h2Mo9WsDtc23UqKcY1zUv) | 3:32 | 2023-02-24 | 2023-03-25 |
@@ -302,7 +302,7 @@
 | [ice sea](https://open.spotify.com/track/24HGQKvNuXORD8m4kvUAaY) | [cotoba](https://open.spotify.com/artist/5KOhn3Gjbd4DUavli5No5f) | [ice sea](https://open.spotify.com/album/0zlDKtTQjbHk1dOBWIsenR) | 4:57 | 2024-07-23 | 2024-08-07 |
 | [ICN > YVR](https://open.spotify.com/track/3SJuomeDUOX6OAWwhH973s) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [ICN > YVR](https://open.spotify.com/album/4bp6czKexS1MZ5wwKJ27yi) | 2:25 | 2023-11-23 | 2024-05-10 |
 | [If I were rich](https://open.spotify.com/track/6jHc4ETMA0MVnwwaFkt2zp) | [South Club](https://open.spotify.com/artist/4ZVqQ5bLpSef3QmZP3gGnK), [Ravi](https://open.spotify.com/artist/33Cti7pK8o3exjycH47Xk5) | [If I were rich](https://open.spotify.com/album/36uTV3j8uvWe4aRbdDBDQH) | 3:19 | 2022-04-12 | 2022-07-26 |
-| [IN MY DREAM](https://open.spotify.com/track/4znEIFtqs9PeeHAQj9S7H6) | [CHUU](https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB) | [IN MY DREAM \(Original Soundtrack from the Webtoon 'Reincarnator'\)](https://open.spotify.com/album/2KyreiehXIneH6JSLp3Aeb) | 3:16 | 2024-09-19 |  |
+| [IN MY DREAM](https://open.spotify.com/track/4znEIFtqs9PeeHAQj9S7H6) | [CHUU](https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB) | [IN MY DREAM \(Original Soundtrack from the Webtoon 'Reincarnator'\)](https://open.spotify.com/album/2KyreiehXIneH6JSLp3Aeb) | 3:16 | 2024-09-19 | 2024-10-05 |
 | [In My Mind](https://open.spotify.com/track/0lXhyCQBqlEbperz8Ot6aZ) | [828](https://open.spotify.com/artist/0TWjYNZU7pTssEBPuMiyXA) | [Suffering Repetition, But Tomorrow](https://open.spotify.com/album/6tlEfSXtuiRUXjzAcpzlSe) | 4:57 | 2022-10-02 | 2022-10-19 |
 | [In the Dark](https://open.spotify.com/track/3mBxoop5ai4eTBV9nL5Y2J) | [JEONG SEWOON](https://open.spotify.com/artist/2l9aF9jOgB7GI1uyNkx836) | [24 PART 2](https://open.spotify.com/album/43xZhTwfBW3tsmtjTuT3XM) | 3:29 | 2022-04-12 | 2022-07-27 |
 | [In the end we’re just](https://open.spotify.com/track/4jyc9WC0KiTjVY5bvomwk7) | [YOUHA](https://open.spotify.com/artist/2lZFlNiQMLa2fuX3pkXcan) | [In the end we’re just](https://open.spotify.com/album/10IuJieY6wTU772PLGkoxl) | 2:58 | 2024-07-09 | 2024-07-31 |
@@ -334,6 +334,7 @@
 | [Landed](https://open.spotify.com/track/1BH2UbAeAVTcODPFQjX5gw) | [DAY6 \(Even of Day\)](https://open.spotify.com/artist/6uAlmplr9znkwaYj3ysgLd) | [The Book of Us : Gluon \- Nothing Can Tear Us Apart](https://open.spotify.com/album/2ozuUEt58hDK0PX8mjKOvc) | 3:55 | 2022-04-12 | 2022-07-22 |
 | [Last Hope](https://open.spotify.com/track/0vrbIBeWT2knGYgkKyJJ9D) | [LAYBRICKS](https://open.spotify.com/artist/39BxPIVyvmpwNFfyMQS41u) | [Paradise](https://open.spotify.com/album/655I4UTlYsOOr0StbIU36j) | 3:54 | 2022-06-09 | 2022-06-15 |
 | [Last Train](https://open.spotify.com/track/7Bxl2qQEPBswcSX5jnSnO1) | [Goowoolim](https://open.spotify.com/artist/1p7AbBfZ41aENPCSV67Z8q) | [Dr\. Daisy / Last Train](https://open.spotify.com/album/0dYeRPYYLqet8poebDDuWZ) | 4:52 | 2022-04-12 | 2022-04-21 |
+| [Laundry revolution \(feat\. CHOILB\)](https://open.spotify.com/track/2CZq8IeSPmienjBUxV0e5A) | [Broccoli, you too?](https://open.spotify.com/artist/1gq4XavqmZhqOzEkpFBz1j), [CHOILB](https://open.spotify.com/artist/02WoRfOhF5nUVpwddshInq) | [We all know we will fail](https://open.spotify.com/album/2qA6Vo1U3fZthJPbIUxm0x) | 3:21 | 2024-10-04 |  |
 | [Lean On Me](https://open.spotify.com/track/7kYbc6yiaK7OrgfE0RbXGq) | [Kim Jong Wan](https://open.spotify.com/artist/7ksQJtsXSRSrI5306UwIgH) | [She Would Never Know \(Original Television Soundtrack\) Pt\. 1](https://open.spotify.com/album/15gBYmuSr8A938CRieIRKp) | 4:01 | 2022-04-21 | 2022-07-09 |
 | [let it be summer](https://open.spotify.com/track/19PusCmhiWHG4UN5lAeRp0) | [Young K](https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe) | [let it be summer](https://open.spotify.com/album/6jOd9PTE8cu0s7s9pqYN0Y) | 3:14 | 2023-08-25 | 2023-09-07 |
 | [let it be summer](https://open.spotify.com/track/6SFurcT8NOuglistyVb2F9) | [Young K](https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe) | [Letters with notes](https://open.spotify.com/album/5eOVVp7IQsGYgYQsVKn74P) | 3:14 | 2023-09-04 | 2023-09-20 |
@@ -716,7 +717,7 @@
 | [You're right](https://open.spotify.com/track/3X4StHauTX08nwxvdzByae) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [BLUE](https://open.spotify.com/album/6E06DFk8k2TG4dycatLnt6) | 4:36 | 2022-04-21 | 2022-07-23 |
 | [Young](https://open.spotify.com/track/4nlTKc5u6qiToCqjr3Z5IE) | [Griffy](https://open.spotify.com/artist/5MilSw46kL5Z2pUS5p0kSP), [Vincent Park](https://open.spotify.com/artist/101RqEN906HsLFMCf1AOW7) | [Young](https://open.spotify.com/album/5y5xxuMomFzgXvUJzetwxP) | 3:26 | 2022-04-12 | 2022-07-26 |
 | [Young Boy](https://open.spotify.com/track/2XRbYuPcNo5xlScjMxy2pX) | [NINE.i](https://open.spotify.com/artist/4e8UtPYfVPBzWO4PY8CZye) | [NINE.i The 2nd Mini Album \[I \(Part.1\)\]](https://open.spotify.com/album/6ujhSpmWkRGIgKDin3WKlZ) | 3:30 | 2022-11-09 | 2023-06-12 |
-| [Young Man](https://open.spotify.com/track/2iF0v1qgFjCFBhHTdscbVA) | [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp), [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [Young Man](https://open.spotify.com/album/40MzrJn2KzZbShzPiqxZ4r) | 4:17 | 2024-07-10 |  |
+| [Young Man](https://open.spotify.com/track/2iF0v1qgFjCFBhHTdscbVA) | [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp), [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [Young Man](https://open.spotify.com/album/40MzrJn2KzZbShzPiqxZ4r) | 4:17 | 2024-07-10 | 2024-10-05 |
 | [YOUNG! \(Feat\. Jayci yucca\)](https://open.spotify.com/track/4kWmBmzkq3GVW6rvCYXlJg) | [Minit](https://open.spotify.com/artist/6TXbTOTnLFaF1iHywOaV1m), [123](https://open.spotify.com/artist/67tBDqUFKtbehv1dRLyQJy) | [UP](https://open.spotify.com/album/3BKgpuuOu0PIb2aYfk2p1O) | 3:11 | 2022-04-22 | 2022-07-28 |
 | [Youngblood \(From The Original TV Show "Begin Again Korea"\) Ep.1\-1](https://open.spotify.com/track/2hHfHsqusupS8iimTLpBVI) | [Henry](https://open.spotify.com/artist/1sjw4xq2pAWy5Vdgba5QAt) | [Youngblood \(From The Original TV Show "Begin Again Korea"\) Ep.1\-1](https://open.spotify.com/album/3ejXv1mREH4JSTi2gg82hQ) | 4:38 | 2022-04-22 | 2022-04-26 |
 | [Your City](https://open.spotify.com/track/3nLUsvRPY4vQfTYFk9uEVp) | [Jung Yong Hwa](https://open.spotify.com/artist/6zhAP0FoDccL9kuETOC20q) | [YOUR CITY](https://open.spotify.com/album/2ey8EdjglcK5i167dwLCLp) | 3:36 | 2023-09-14 | 2023-09-21 |

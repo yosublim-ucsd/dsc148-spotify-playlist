@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > Ren refleks 😮‍💨 <a href="spotify:artist:4Bu9ocyPQWQRyk3kXDSNlv">Carmon</a> x <a href="spotify:artist:2dfY7zXIP61MKHtD175hFp">Noah Carter</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,711 likes - 103 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,723 likes - 103 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 | 5 | [Helt Deroppe](https://open.spotify.com/track/5VDxx9I8MoOJ9V63yBLzeG) | [Mads Langer](https://open.spotify.com/artist/028xhPwqtWva4J0MkFHY2x) | [Kærlighed & Frygt](https://open.spotify.com/album/0gw0kTw2memjVN5ZjUgE0U) | 2:31 |
 | 6 | [You Go Your Way](https://open.spotify.com/track/35jE2icc2pV4QDgbJiYMUe) | [Perrie](https://open.spotify.com/artist/0o18Cfq9RAxRqi5W4JOEPe) | [You Go Your Way](https://open.spotify.com/album/5TfDNyXTjan0eZhELfj1jx) | 3:54 |
 | 7 | [Even \(with Cat Burns\)](https://open.spotify.com/track/5CeJU8nNGuwR6LWUzJa5QF) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP), [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [Even \(with Cat Burns\)](https://open.spotify.com/album/6uxqYbEgP9HE4twJFCZCIQ) | 2:31 |
-| 8 | [Faded](https://open.spotify.com/track/5WwqEFvtbBur7SQMzVDx2n) | [AV AV AV](https://open.spotify.com/artist/0ElSSC4jDQ7mGvDZoAIafM) | [Faded](https://open.spotify.com/album/3ejmd075cFfLxw24XVAJoT) | 3:42 |
-| 9 | [One By One \(with Kooldrink\)](https://open.spotify.com/track/5Szjjv92FYRgLXwlhD28Dl) | [DAYYANI](https://open.spotify.com/artist/2mSRaqgZqtWItVBIoyjE0g), [Kooldrink](https://open.spotify.com/artist/1XQiB7Gp309l4aHhzgGIlY) | [One By One](https://open.spotify.com/album/5DQIle1gEaxQRidaUA7RHw) | 3:33 |
+| 8 | [Faded](https://open.spotify.com/track/5WwqEFvtbBur7SQMzVDx2n) | [AV AV AV](https://open.spotify.com/artist/0ElSSC4jDQ7mGvDZoAIafM) | [Faded](https://open.spotify.com/album/3ejmd075cFfLxw24XVAJoT) | 2:30 |
+| 9 | [One By One \(with Kooldrink\)](https://open.spotify.com/track/5Szjjv92FYRgLXwlhD28Dl) | [DAYYANI](https://open.spotify.com/artist/2mSRaqgZqtWItVBIoyjE0g), [Kooldrink](https://open.spotify.com/artist/1XQiB7Gp309l4aHhzgGIlY) | [One By One \(with Kooldrink\)](https://open.spotify.com/album/5DQIle1gEaxQRidaUA7RHw) | 3:33 |
 | 10 | [MERA SURAJ](https://open.spotify.com/track/4NHxgzS2KSrnPAZhIyAoBX) | [Amna Naseer](https://open.spotify.com/artist/1SgTaDWOR4enMcVASjuBcV) | [MERA SURAJ](https://open.spotify.com/album/124wTmodqp3BwS5QJc61q5) | 2:26 |
 | 11 | [fight the urge](https://open.spotify.com/track/5KUlDf4UFCYNn8unodLPNp) | [Ana Juél](https://open.spotify.com/artist/1iHkVAKq12mQH5fZHmKPaU) | [fight the urge](https://open.spotify.com/album/5WACqjLHPiOn1PxK9qWG7b) | 2:27 |
 | 12 | [Neon Glow](https://open.spotify.com/track/4SjxHOFjy1FJFgxdejdPV9) | [Julie Ellinor](https://open.spotify.com/artist/0Qb0B1f0uVNSiNbT4SAwGi) | [Neon Glow](https://open.spotify.com/album/6jvyLhmGa5UDqDEjTiaom4) | 3:00 |

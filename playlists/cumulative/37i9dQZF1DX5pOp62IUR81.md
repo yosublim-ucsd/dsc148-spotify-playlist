@@ -4,7 +4,7 @@
 
 > Go inside the music from the Marvel worlds that you love!
 
-193 songs - 8 hr 13 min
+194 songs - 8 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Higher\. Further\. Faster\. Together\. \- From "The Marvels"](https://open.spotify.com/track/1ovt0wjtCfOzgNvAcCUfzu) | [Laura Karpman](https://open.spotify.com/artist/13eA4oLnDowghtVUqwSZSD) | [Higher\. Further\. Faster\. Together\. \(From "The Marvels"\)](https://open.spotify.com/album/6Hg1d6H8AjeTvALjqWlNld) | 3:50 | 2024-01-05 |  |
 | [Holes](https://open.spotify.com/track/25LbGPUUXth94zV2np4pl7) | [David Dastmalchian](https://open.spotify.com/artist/2q6GsJ4lBYE2YhWcQELIfx) | [Ant\-Man and The Wasp: Quantumania \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/523LVgy2uFE1nD4BgTV57I) | 0:43 | 2024-01-05 |  |
 | [Homecoming](https://open.spotify.com/track/7B1xTam2QD8XGtK0q4w7hU) | [Laura Karpman](https://open.spotify.com/artist/13eA4oLnDowghtVUqwSZSD) | [Ms\. Marvel: Vol\. 1 \(Episodes 1\-3\) \[Original Soundtrack\]](https://open.spotify.com/album/7dcPn4IdB0lC5Wd54kA8l5) | 2:09 | 2024-01-05 |  |
+| [Hulk \(1966 Theme\) \- 2024 Stereo Remaster](https://open.spotify.com/track/3bGBCtKoChq2ecvaNqB16u) | [Marvel Chorus](https://open.spotify.com/artist/63KXngPaFXJtGolZzKpRln) | [Hulk \(1966 Theme\) \[2024 Stereo Remaster\]](https://open.spotify.com/album/4vlGzIoXAkgilvbuwJrA52) | 0:56 | 2024-10-04 |  |
 | [Hulk Theme](https://open.spotify.com/track/5DNsT9MZifnPgW0RAUSJgb) | [Craig Armstrong](https://open.spotify.com/artist/526q7RxT5KA1VGeQ5GMSHO) | [The Incredible Hulk](https://open.spotify.com/album/5x0CWYcRc6ek2M8W218T6G) | 3:59 | 2024-01-05 |  |
 | [Humans Arrive](https://open.spotify.com/track/2B9KpbnMLY75pMyFr36a6T) | [Daniel Rojas](https://open.spotify.com/artist/1Z655SWPPTWDNgktUY19JR) | [Hit\-Monkey \(Original Soundtrack\)](https://open.spotify.com/album/24b6PR1lDSPnH9Z85spTfT) | 1:24 | 2024-01-05 |  |
 | [I Am Vision](https://open.spotify.com/track/1ZcxP37FbhEiAdodj3CyaF) | [Christophe Beck](https://open.spotify.com/artist/1GjWNGbMtHDQ7CNYf2d7cw) | [WandaVision: Episode 9 \(Original Soundtrack\)](https://open.spotify.com/album/30qYpobFEwki8Vy202a8Oi) | 3:07 | 2024-01-05 |  |

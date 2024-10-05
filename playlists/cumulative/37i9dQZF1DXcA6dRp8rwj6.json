@@ -20379,6 +20379,28 @@
     },
     {
       "album": {
+        "name": "Post Traumatic",
+        "url": "https://open.spotify.com/album/3xdlCzNYHfEiXnUyWWyAVT"
+      },
+      "artists": [
+        {
+          "name": "Tee Grizzley",
+          "url": "https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO"
+        },
+        {
+          "name": "Fridayy",
+          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231360,
+      "name": "I Know (feat. Fridayy)",
+      "url": "https://open.spotify.com/track/4km8v5PJ43JUdmjf5qjvwp"
+    },
+    {
+      "album": {
         "name": "i know you hate me",
         "url": "https://open.spotify.com/album/4ZJoNTkzmI2R9iG5CURjWh"
       },

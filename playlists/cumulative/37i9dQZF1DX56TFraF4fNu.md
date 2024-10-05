@@ -4,7 +4,7 @@
 
 > Dosis musical para disfrutar el momento\. Foto: Ali Aka Mind, Penyair
 
-198 songs - 10 hr 31 min
+199 songs - 10 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [CHÉVERE](https://open.spotify.com/track/6aKTId77qaIrzo82M51eqm) | [Ruzto](https://open.spotify.com/artist/5Ti7e3WlCPPlcsZfxqtzTo), [Soul AM](https://open.spotify.com/artist/6ppLSXJZysRO3LBrlJIVuA) | [CHÉVERE](https://open.spotify.com/album/1UHDzDHdvndCypdFrudyGY) | 2:26 | 2023-12-22 | 2024-03-30 |
 | [Ciclorama Sesh Cap.1: VEINTICUATROSIETE](https://open.spotify.com/track/6hGXkEAZG7snVAnCvKXqMC) | [Thyan V](https://open.spotify.com/artist/4flNO0lNvXAJmzZpWTvXzb), [PARDOPARDO](https://open.spotify.com/artist/4jK6qJJ6s34BziEutGFMra) | [Ciclorama Sesh Cap.1: VEINTICUATROSIETE](https://open.spotify.com/album/3NiQrio2pjdQMHWmh9ka5y) | 2:22 | 2024-02-09 | 2024-02-24 |
 | [Coco Loco](https://open.spotify.com/track/6wbGvckYnAeRk6qxGZoIom) | [Soley](https://open.spotify.com/artist/1zo2ucFhzu58hKcniMpSQs), [Zaider](https://open.spotify.com/artist/5Wuz885csKSCJoBNsOSCxz), [The Prodigiez](https://open.spotify.com/artist/0ITff7REwQrTAlu9HsiWQT) | [Coco Loco](https://open.spotify.com/album/2PYrIOVfAfAShyZ8jOBkQp) | 3:18 | 2024-08-09 |  |
+| [Cuando Vienes](https://open.spotify.com/track/6cDSD4Okz3E3Yv94kHbCbc) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Cuando Vienes](https://open.spotify.com/album/6LQ41hNMwz53V9deC2X191) | 3:08 | 2024-10-04 |  |
 | [Curvas](https://open.spotify.com/track/6TO05VYYHCkZpy0V1XVOdI) | [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ), [Claruz](https://open.spotify.com/artist/5NtQw3vT27cspk8K7krlJv), [Floyd](https://open.spotify.com/artist/4yURrK9HEczFPGPya2yBu2) | [Curvas](https://open.spotify.com/album/4epp2PoR2TdOkYN90EG1MT) | 2:48 | 2023-03-31 | 2023-06-24 |
 | [DATO](https://open.spotify.com/track/0ozwTzKygVOJpcaKp33GYW) | [LOS MENOR3S](https://open.spotify.com/artist/4FkBhfL2GQLkwBwV6qNhOQ) | [DATO](https://open.spotify.com/album/25ubBFmFOhFErGphiP72Gy) | 2:53 | 2024-01-26 | 2024-06-01 |
 | [De 0 a Siempre](https://open.spotify.com/track/1qxwayGaQN4roLdX5L9pM6) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [De 0 a Siempre](https://open.spotify.com/album/2s8Wgg7X68n41ZGuwTmqjd) | 4:08 | 2023-03-31 | 2023-07-08 |
@@ -112,7 +113,7 @@
 | [ma, peiname otra vez](https://open.spotify.com/track/4iBGu9YdrM40sX0kQ52Kd0) | [Greccia](https://open.spotify.com/artist/7Kt1VI4cn5dO0jv8SzzV6K) | [ma, peiname otra vez](https://open.spotify.com/album/0UB3hW289IUID3CA3IMiOB) | 2:27 | 2024-07-12 | 2024-08-06 |
 | [Mal Mal Mal](https://open.spotify.com/track/4ejRdkyeBOCiiBwXRZPywX) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [Mal Mal Mal](https://open.spotify.com/album/3x7JpBJgdqWUEDM0M3Tuv5) | 3:48 | 2023-03-31 | 2024-06-22 |
 | [Mala Costumbre ft\. Ovy On The Drums \- Spotify Singles](https://open.spotify.com/track/30K54dQDikHIulypekVSZp) | [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [Mala Costumbre ft\. Ovy On The Drums \- Spotify Singles](https://open.spotify.com/album/5y69JKXX7lNzp4CUaDl2Ly) | 3:01 | 2023-11-10 | 2023-12-23 |
-| [Malavida](https://open.spotify.com/track/0nT0edIVdtias9fqmnfMam) | [More](https://open.spotify.com/artist/0vLXnXSAplgnptyE3jKnpi) | [No me hagas seguir](https://open.spotify.com/album/5JEMIvsiLPtlfH4utviZOM) | 2:41 | 2024-08-23 |  |
+| [Malavida](https://open.spotify.com/track/0nT0edIVdtias9fqmnfMam) | [More](https://open.spotify.com/artist/0vLXnXSAplgnptyE3jKnpi) | [No me hagas seguir](https://open.spotify.com/album/5JEMIvsiLPtlfH4utviZOM) | 2:41 | 2024-08-23 | 2024-10-05 |
 | [Malibu](https://open.spotify.com/track/4TRlBMj8wXsIfEDgWOPyE2) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Ak4:20](https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl), [Taiko](https://open.spotify.com/artist/7E8zK1i1TAXxBVRpeMfOqM) | [Malibu](https://open.spotify.com/album/3CmKeCe807h4wAPa0OhPqV) | 2:40 | 2023-03-31 | 2024-06-22 |
 | [ME OYES](https://open.spotify.com/track/4OOBhhIndRwpgK5kagX6yh) | [Delfina Dib](https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ) | [Directo al Cora](https://open.spotify.com/album/5WwLBuJddCTKWReuK0vg81) | 2:58 | 2023-04-14 | 2023-06-24 |
 | [Mejor](https://open.spotify.com/track/1mF6sMUsRU9MisrdB9qWvg) | [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Mejor](https://open.spotify.com/album/0QVcNjwxgVhBzZfnsfENXH) | 3:21 | 2024-03-29 | 2024-07-27 |

@@ -206,7 +206,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 162373,
       "name": "Baby",
       "url": "https://open.spotify.com/track/5uKJiHdlDBz53cM1qZd0yB"
@@ -314,7 +314,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 145846,
       "name": "BONKASA",
       "url": "https://open.spotify.com/track/62u6D0NgRPtFcCdF5rNLeh"
@@ -472,10 +472,28 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 128197,
       "name": "Confidences",
       "url": "https://open.spotify.com/track/3w3ccBSWumRfMn2lYEwZLi"
+    },
+    {
+      "album": {
+        "name": "NAKAMURA",
+        "url": "https://open.spotify.com/album/3jqQFIXUakuDXdhFVvI7Ko"
+      },
+      "artists": [
+        {
+          "name": "Aya Nakamura",
+          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171720,
+      "name": "Copines",
+      "url": "https://open.spotify.com/track/1Bhm5HNO1cq8olDbBmokyL"
     },
     {
       "album": {
@@ -767,6 +785,24 @@
     },
     {
       "album": {
+        "name": "Khemem",
+        "url": "https://open.spotify.com/album/1ObRhUhvJgVfFOd6C6x23J"
+      },
+      "artists": [
+        {
+          "name": "Djadja & Dinaz",
+          "url": "https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175465,
+      "name": "Khemem",
+      "url": "https://open.spotify.com/track/1KcVcJuQEnUQoQ8IzjsdKV"
+    },
+    {
+      "album": {
         "name": "La cl\u00e9",
         "url": "https://open.spotify.com/album/5jRYE9b8dBSyxXv186cmyA"
       },
@@ -862,6 +898,24 @@
       "duration_ms": 200106,
       "name": "La street",
       "url": "https://open.spotify.com/track/2PBKX84nhZNZ4E3fcdRHUX"
+    },
+    {
+      "album": {
+        "name": "LAISSE MOI",
+        "url": "https://open.spotify.com/album/2H2opHZttuBFqxhBNssSkD"
+      },
+      "artists": [
+        {
+          "name": "KeBlack",
+          "url": "https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168620,
+      "name": "LAISSE MOI",
+      "url": "https://open.spotify.com/track/2ImdwbujxKFxN1UxEvf2dD"
     },
     {
       "album": {
@@ -1310,7 +1364,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 176853,
       "name": "RS5",
       "url": "https://open.spotify.com/track/00GSNnSxVhNlQiJwuRGIGr"
@@ -1358,6 +1412,28 @@
       "duration_ms": 217333,
       "name": "Sale mood",
       "url": "https://open.spotify.com/track/5TlGrvOMiAltKgRw3anXKo"
+    },
+    {
+      "album": {
+        "name": "Sans Coeur",
+        "url": "https://open.spotify.com/album/25zx2Wv1z9Xt1Gi15WdFHk"
+      },
+      "artists": [
+        {
+          "name": "Shay",
+          "url": "https://open.spotify.com/artist/3MNnSV5hDd2UzZzgqD8xlU"
+        },
+        {
+          "name": "Niska",
+          "url": "https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Sans Coeur",
+      "url": "https://open.spotify.com/track/0F74FBWgkvXjP3V6tRlCx4"
     },
     {
       "album": {

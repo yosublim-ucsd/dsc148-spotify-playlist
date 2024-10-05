@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 
 > The best new songs of the week! Cover: blackwave\. and Compact Disk Dummies
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,065 likes - 88 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,090 likes - 89 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 | 26 | [GOOD FEELiNGS](https://open.spotify.com/track/65wzicJctsW9GwnTnLWxQO) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Moon Music](https://open.spotify.com/album/5SGtrmYbIo0Dsg4kJ4qjM6) | 3:37 |
 | 27 | [Tafel Voor 2](https://open.spotify.com/track/0bAy8gfIx54HKQIsIiRju8) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk) | [Tafel Voor 2](https://open.spotify.com/album/4AFsBtnKpI01QmlfWXSAZX) | 2:32 |
 | 28 | [You Go Your Way](https://open.spotify.com/track/35jE2icc2pV4QDgbJiYMUe) | [Perrie](https://open.spotify.com/artist/0o18Cfq9RAxRqi5W4JOEPe) | [You Go Your Way](https://open.spotify.com/album/5TfDNyXTjan0eZhELfj1jx) | 3:54 |
-| 29 | [Pétunia](https://open.spotify.com/track/4csiR0voWHzg46BFnQZ0kp) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh) | [Pétunia](https://open.spotify.com/album/1xF3GugX1r1Jj3xsljohcv) | 3:30 |
+| 29 | [Pétunias](https://open.spotify.com/track/4csiR0voWHzg46BFnQZ0kp) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh) | [Pétunias](https://open.spotify.com/album/1xF3GugX1r1Jj3xsljohcv) | 3:31 |
 | 30 | [Guardia](https://open.spotify.com/track/0dBvXYsTinPdEncSmFgzql) | [Lartiste](https://open.spotify.com/artist/6HhnhnxLsowYuuejvku0Bz), [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j) | [Guardia](https://open.spotify.com/album/3q8v30SjuOOQJQ93zXrvpa) | 3:18 |
 | 31 | [Rolex présidentielle](https://open.spotify.com/track/2RXQkxvCCkuEPHmlum1Dy1) | [13 Organisé](https://open.spotify.com/artist/19u3RGWKsjmbg9eI6zAiNp), [TK](https://open.spotify.com/artist/5vnUF9uAL0ly7qw25ERLuC), [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy), [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi), [Fahar](https://open.spotify.com/artist/4hpTPFhq6Ok3wGhFqa7pGy), [L'Algérino](https://open.spotify.com/artist/7kyIBL1EYouLqC8vw7IOui), [SAF](https://open.spotify.com/artist/6Pr9pssRV0tD0jdh2Z84td), [Gambino](https://open.spotify.com/artist/5Jjxh7WmGD0GdX2f9l3FYb), [Veazy](https://open.spotify.com/artist/6iBhhfO297wskZQuZtWnpG) | [13 Organisé 2](https://open.spotify.com/album/5ijEA7Uw0jSWlGJcqEqoEs) | 5:28 |
 | 32 | [Born To Love Ya](https://open.spotify.com/track/5Nwh8kghoqebxmco5ZWbDt) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [Born To Love Ya](https://open.spotify.com/album/4dx4jGH35HYUcRT6vNQjPo) | 2:35 |
@@ -95,6 +95,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 | 85 | [Akon's Beautiful Day](https://open.spotify.com/track/5z7l1HQ9KzqT8yLcViRG1L) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Akon's Beautiful Day](https://open.spotify.com/album/3XA6fev8Ssr6jAfR8kd7Wa) | 2:37 |
 | 86 | [Magic](https://open.spotify.com/track/1ssJcV4TYevaV87K813ht6) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj) | [Magic](https://open.spotify.com/album/2mXQsMd0DEX5zrFEuI5Zij) | 3:10 |
 | 87 | [What This Could Be](https://open.spotify.com/track/3NaOEouWqMCBwR0vQcVFt7) | [Joe Jonas](https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL) | [What This Could Be / Work It Out](https://open.spotify.com/album/534YIkJVj0Hlpuw0jMpf1h) | 3:18 |
-| 88 | [Chacun son chacun](https://open.spotify.com/track/3PmHpfvSyxtBqZrRG8K2zx) | [THEODORT](https://open.spotify.com/artist/6q87j1F6EtUxjlvkJNknFp) | [Chacun son chacun](https://open.spotify.com/album/5evTiiR9ce2tsiqO0BkilL) | 2:33 |
+| 88 | [I Do \(feat\. Muni Long\)](https://open.spotify.com/track/5TbYIeYkGgGtYL7sms7m9N) | [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [JADED](https://open.spotify.com/album/1XcpYmfE4vYCKeLQYINlO7) | 2:46 |
+| 89 | [Chacun son chacun](https://open.spotify.com/track/3PmHpfvSyxtBqZrRG8K2zx) | [THEODORT](https://open.spotify.com/artist/6q87j1F6EtUxjlvkJNknFp) | [Chacun son chacun](https://open.spotify.com/album/5evTiiR9ce2tsiqO0BkilL) | 2:33 |
 
-Snapshot ID: `Zv8T4AAAAADXXEWO/jHi5FG7G6kr/bYx`
+Snapshot ID: `Zv+hhQAAAAAiCRwqWNyR1YkQJLJKAcRt`

@@ -1,6 +1,6 @@
 {
   "description": "\u05de\u05d0\u05d9\u05e0\u05d3\u05d9 \u05d5\u05e2\u05d3 \u05e8\u05d5\u05e7, \u05e7\u05d1\u05dc\u05d5 \u05d0\u05ea \u05d4\u05e9\u05d9\u05e8\u05d9\u05dd \u05d4\u05d9\u05e4\u05d9\u05dd \u05e9\u05dc \u05d4\u05e1\u05e6\u05e0\u05d4 \u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1\u05d9\u05ea \u05d1\u05d9\u05e9\u05e8\u05d0\u05dc. \u05e7\u05d0\u05d1\u05e8: \u05d2\u05d1\u05e8\u05d9\u05d0\u05dc \u05d2\u05d9\u05d0",
-  "num_followers": 30394,
+  "num_followers": 30401,
   "original_name": "\u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1 \u05e9\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc",
   "owner": {
     "name": "Spotify",
@@ -955,26 +955,6 @@
     {
       "added_at": "2024-10-03 21:00:00",
       "album": {
-        "name": "\u05ea\u05de\u05d9\u05d3 \u05d9\u05dc\u05d3\u05d9\u05dd",
-        "url": "https://open.spotify.com/album/0uWDmGSuYnaD9xbd7zioIS"
-      },
-      "artists": [
-        {
-          "name": "Noifeld's Glasses",
-          "url": "https://open.spotify.com/artist/4moIrr6CFQSWiglLx5q9SS"
-        },
-        {
-          "name": "Guy Mazig",
-          "url": "https://open.spotify.com/artist/2Ky0L9EAz66AEhFfeak23R"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "\u05ea\u05de\u05d9\u05d3 \u05d9\u05dc\u05d3\u05d9\u05dd",
-      "url": "https://open.spotify.com/track/4ZB8VUBs5WXlfRXFtXMZqq"
-    },
-    {
-      "added_at": "2024-10-03 21:00:00",
-      "album": {
         "name": "\u05e9\u05d5\u05d1 \u05dc\u05d0 \u05d9\u05db\u05d5\u05dc\u05ea\u05d9 \u05dc\u05d9\u05e9\u05d5\u05df",
         "url": "https://open.spotify.com/album/43mFIYYPdf1tqmpqYA1wpM"
       },
@@ -999,6 +979,26 @@
       "duration_ms": 190259,
       "name": "\u05e9\u05d5\u05d1 \u05dc\u05d0 \u05d9\u05db\u05d5\u05dc\u05ea\u05d9 \u05dc\u05d9\u05e9\u05d5\u05df",
       "url": "https://open.spotify.com/track/6PoH7ek2VwXzCRFkxKWdYw"
+    },
+    {
+      "added_at": "2024-10-03 21:00:00",
+      "album": {
+        "name": "\u05ea\u05de\u05d9\u05d3 \u05d9\u05dc\u05d3\u05d9\u05dd",
+        "url": "https://open.spotify.com/album/0uWDmGSuYnaD9xbd7zioIS"
+      },
+      "artists": [
+        {
+          "name": "Noifeld's Glasses",
+          "url": "https://open.spotify.com/artist/4moIrr6CFQSWiglLx5q9SS"
+        },
+        {
+          "name": "Guy Mazig",
+          "url": "https://open.spotify.com/artist/2Ky0L9EAz66AEhFfeak23R"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "\u05ea\u05de\u05d9\u05d3 \u05d9\u05dc\u05d3\u05d9\u05dd",
+      "url": "https://open.spotify.com/track/4ZB8VUBs5WXlfRXFtXMZqq"
     },
     {
       "added_at": "2024-10-03 21:00:00",
@@ -1055,6 +1055,22 @@
     {
       "added_at": "2024-10-03 21:00:00",
       "album": {
+        "name": "Petrified",
+        "url": "https://open.spotify.com/album/2t8Ve4IgJFdeiemjIyXxwP"
+      },
+      "artists": [
+        {
+          "name": "David Lerner",
+          "url": "https://open.spotify.com/artist/5hAcdkd4JZrGKxYaZJFHlR"
+        }
+      ],
+      "duration_ms": 252456,
+      "name": "Petrified",
+      "url": "https://open.spotify.com/track/04OmvsYNDRNt0CD9Y1rbyV"
+    },
+    {
+      "added_at": "2024-10-03 21:00:00",
+      "album": {
         "name": "All The Way",
         "url": "https://open.spotify.com/album/67g4rxomqOhlcelsPVfT4g"
       },
@@ -1083,26 +1099,6 @@
       "duration_ms": 259000,
       "name": "All The Way",
       "url": "https://open.spotify.com/track/5G3Tdxnfgi8vqtHConYJWM"
-    },
-    {
-      "added_at": "2024-10-03 21:00:00",
-      "album": {
-        "name": "\u05d4\u05d0\u05d6\u05e8\u05d7 \u05d4\u05d0\u05d7\u05d3 / \u05e8\u05d9\u05d1\u05d5\u05e0\u05d5 \u05e9\u05dc \u05e2\u05d5\u05dc\u05dd (Live)",
-        "url": "https://open.spotify.com/album/0xfGRfVRvrt4zh0iBTg8Eu"
-      },
-      "artists": [
-        {
-          "name": "Shlomi Shaban",
-          "url": "https://open.spotify.com/artist/4eIu7kgUUZzOgx6goRqEQX"
-        },
-        {
-          "name": "Berry Sakharof",
-          "url": "https://open.spotify.com/artist/2wp6i8BxLF3UrF1J3LY4WC"
-        }
-      ],
-      "duration_ms": 343074,
-      "name": "\u05d4\u05d0\u05d6\u05e8\u05d7 \u05d4\u05d0\u05d7\u05d3 / \u05e8\u05d9\u05d1\u05d5\u05e0\u05d5 \u05e9\u05dc \u05e2\u05d5\u05dc\u05dd - Live",
-      "url": "https://open.spotify.com/track/3gv5bZNWHybHWDJjG5NgGa"
     }
   ],
   "unique_name": "\u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1 \u05e9\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc",

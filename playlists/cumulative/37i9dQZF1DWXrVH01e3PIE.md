@@ -4,7 +4,7 @@
 
 > KHEA & C.R.O  en la casa del Trap Argentino.
 
-336 songs - 16 hr 3 min
+337 songs - 16 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,6 +125,7 @@
 | [Frío](https://open.spotify.com/track/7CaBbXaR1sTf5OJKRQFRj6) | [Rei](https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K), [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq) | [4X4](https://open.spotify.com/album/0APgiKpmc3KQf638E2cG29) | 3:05 | 2023-10-27 | 2024-01-27 |
 | [FUERA DE LA ORBITA](https://open.spotify.com/track/4FFq4Rgv2fmKdgh0ur92qJ) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6) | [Trapicheo: EL DON](https://open.spotify.com/album/5IgfITgolOnYBRJevWS2GO) | 3:20 | 2024-03-15 |  |
 | [FULL ICE \(prod\. ORODEMBOW\)](https://open.spotify.com/track/2wK7D7i9bfVt3uLjFsZSEU) | [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6) | [HECHO A MANO](https://open.spotify.com/album/7vpRavovNYZYzEOieN5pvU) | 2:40 | 2022-01-21 |  |
+| [Fumando](https://open.spotify.com/track/3iKEykOfNQfJeapo6schnr) | [Frijo](https://open.spotify.com/artist/4D2d63igYEdzhzFnxrSow7) | [Detroit11](https://open.spotify.com/album/4RO2qCQzhubROJgs1J0COj) | 2:13 | 2024-10-04 |  |
 | [G\-Class](https://open.spotify.com/track/6NyMkv98F7Em4dDkhmMPXm) | [Blunted Vato](https://open.spotify.com/artist/15RLdM61VHtknTIYIuNviR), [Khaled](https://open.spotify.com/artist/2YxK9SbJeVfkfk6QWHqj8K), [Ess](https://open.spotify.com/artist/0nRYnTumOGj5qnhPKjV4Es) | [G\-Class](https://open.spotify.com/album/4x8c78mU51FjjpI2A1Tdc0) | 2:15 | 2022-07-05 | 2023-05-27 |
 | [GASTO](https://open.spotify.com/track/2jyYVoMNlve7wpsg5C8yuK) | [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR) | [GASTO](https://open.spotify.com/album/7sRkTyNbRWzWVKLDXpzfPy) | 2:04 | 2023-04-07 | 2023-07-07 |
 | [GASTO](https://open.spotify.com/track/5ULCGfNrYTwyRnHrGzkBDF) | [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR) | [ABDUCCION](https://open.spotify.com/album/1pVQsEYJ0eBV3Prih46o91) | 2:04 | 2023-06-23 | 2023-12-09 |

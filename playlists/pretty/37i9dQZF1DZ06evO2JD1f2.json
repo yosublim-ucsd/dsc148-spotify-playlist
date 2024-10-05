@@ -1,12 +1,12 @@
 {
   "description": "This is EST Gee. The essential tracks, all in one playlist.",
-  "num_followers": 11815,
+  "num_followers": 11812,
   "original_name": "This Is EST Gee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvyNAAAAAAAnDq3aH/sRLf79hJa/PtIy",
+  "snapshot_id": "Zv3egAAAAABYoInrXIdPiekv/G2GJg/O",
   "tracks": [
     {
       "added_at": null,
@@ -91,6 +91,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bigger Than Life Or Death",
+        "url": "https://open.spotify.com/album/1RsqFdvHFKN9VGpBmJtUku"
+      },
+      "artists": [
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "duration_ms": 93799,
+      "name": "Lick Back",
+      "url": "https://open.spotify.com/track/6P5ulGKtC4x6RnFbzfpq8O"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Real As It Gets (feat. EST Gee)",
         "url": "https://open.spotify.com/album/0SO86DCFiwaTqchBpujace"
       },
@@ -107,22 +123,6 @@
       "duration_ms": 192804,
       "name": "Real As It Gets (feat. EST Gee)",
       "url": "https://open.spotify.com/track/7eX3um6NpOQKWJMGCi97XD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bigger Than Life Or Death",
-        "url": "https://open.spotify.com/album/1RsqFdvHFKN9VGpBmJtUku"
-      },
-      "artists": [
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        }
-      ],
-      "duration_ms": 93799,
-      "name": "Lick Back",
-      "url": "https://open.spotify.com/track/6P5ulGKtC4x6RnFbzfpq8O"
     },
     {
       "added_at": null,
@@ -171,26 +171,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "4eva Us Neva Them",
-        "url": "https://open.spotify.com/album/2OzHv0qu65juqIUaCWlq6j"
-      },
-      "artists": [
-        {
-          "name": "42 Dugg",
-          "url": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
-        },
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        }
-      ],
-      "duration_ms": 182414,
-      "name": "Since When (feat. EST Gee)",
-      "url": "https://open.spotify.com/track/7It1USqre8TEwwsp8SDXks"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bigger Than Life Or Death",
         "url": "https://open.spotify.com/album/1RsqFdvHFKN9VGpBmJtUku"
       },
@@ -215,6 +195,26 @@
       "duration_ms": 184833,
       "name": "5500 Degrees (feat. Lil Baby, 42 Dugg & Rylo Rodriguez)",
       "url": "https://open.spotify.com/track/6uTID2glulLOXYhcwMETS1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "4eva Us Neva Them",
+        "url": "https://open.spotify.com/album/2OzHv0qu65juqIUaCWlq6j"
+      },
+      "artists": [
+        {
+          "name": "42 Dugg",
+          "url": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
+        },
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "duration_ms": 182414,
+      "name": "Since When (feat. EST Gee)",
+      "url": "https://open.spotify.com/track/7It1USqre8TEwwsp8SDXks"
     },
     {
       "added_at": null,
@@ -831,26 +831,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Last Ones Left",
-        "url": "https://open.spotify.com/album/1xwuoLGU6bjyiGArJAVYeH"
-      },
-      "artists": [
-        {
-          "name": "42 Dugg",
-          "url": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
-        },
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        }
-      ],
-      "duration_ms": 131825,
-      "name": "All 100s",
-      "url": "https://open.spotify.com/track/3tZWlcLtAp7YHH8zt7cDVb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Been One",
         "url": "https://open.spotify.com/album/69bYMgvQpIYHsNNDxDTQqa"
       },
@@ -871,6 +851,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Last Ones Left",
+        "url": "https://open.spotify.com/album/1xwuoLGU6bjyiGArJAVYeH"
+      },
+      "artists": [
+        {
+          "name": "42 Dugg",
+          "url": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
+        },
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "duration_ms": 131825,
+      "name": "All 100s",
+      "url": "https://open.spotify.com/track/3tZWlcLtAp7YHH8zt7cDVb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ion Feel Nun",
         "url": "https://open.spotify.com/album/5pn7HHtN1bupnOMXtWs0LL"
       },
@@ -883,26 +883,6 @@
       "duration_ms": 106904,
       "name": "Morals",
       "url": "https://open.spotify.com/track/1rVsTdubD5s0PDz6gzLhTK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Survivor Of The Trenches",
-        "url": "https://open.spotify.com/album/41HpilA0zyDdHoAYhS9V13"
-      },
-      "artists": [
-        {
-          "name": "Yungeen Ace",
-          "url": "https://open.spotify.com/artist/7hj7ffJe6UkF1gsMpuweSI"
-        },
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        }
-      ],
-      "duration_ms": 143703,
-      "name": "Gang Nem (feat. EST Gee)",
-      "url": "https://open.spotify.com/track/6t4OP550372zgiAof928AR"
     },
     {
       "added_at": null,
@@ -927,6 +907,26 @@
       "duration_ms": 211569,
       "name": "Cold Gangsta",
       "url": "https://open.spotify.com/track/700cZW0tW9q1amsUhsUDkA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Survivor Of The Trenches",
+        "url": "https://open.spotify.com/album/41HpilA0zyDdHoAYhS9V13"
+      },
+      "artists": [
+        {
+          "name": "Yungeen Ace",
+          "url": "https://open.spotify.com/artist/7hj7ffJe6UkF1gsMpuweSI"
+        },
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "duration_ms": 143703,
+      "name": "Gang Nem (feat. EST Gee)",
+      "url": "https://open.spotify.com/track/6t4OP550372zgiAof928AR"
     },
     {
       "added_at": null,

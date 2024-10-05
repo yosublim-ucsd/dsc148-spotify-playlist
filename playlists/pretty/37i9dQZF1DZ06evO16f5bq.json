@@ -1,12 +1,12 @@
 {
-  "description": "This is MC Cabelinho. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 146284,
+  "description": "This is MC Cabelinho. The essential tracks, all in one playlist.",
+  "num_followers": 146329,
   "original_name": "This Is MC Cabelinho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvyNAAAAAAD4eM0sY2PM9MRPAJwBsJbT",
+  "snapshot_id": "Zv3egAAAAABul26CFAb8C5Vgxui094uu",
   "tracks": [
     {
       "added_at": null,
@@ -119,6 +119,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "LITTLE LOVE",
+        "url": "https://open.spotify.com/album/0YSpRv5TQFxz2im8ijEglV"
+      },
+      "artists": [
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        },
+        {
+          "name": "Dallass",
+          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
+        }
+      ],
+      "duration_ms": 202955,
+      "name": "NOSSA M\u00daSICA",
+      "url": "https://open.spotify.com/track/1Q1d5yjdXpcedKFJR3p7Ir"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Vamo Marolar",
         "url": "https://open.spotify.com/album/3oGU2np2FVq18SxoaCVQ9Z"
       },
@@ -143,30 +167,6 @@
       "duration_ms": 181512,
       "name": "Vamo Marolar",
       "url": "https://open.spotify.com/track/6VzrPxShPXVXRLig62vl2p"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LITTLE LOVE",
-        "url": "https://open.spotify.com/album/0YSpRv5TQFxz2im8ijEglV"
-      },
-      "artists": [
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        },
-        {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
-        },
-        {
-          "name": "Dallass",
-          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
-        }
-      ],
-      "duration_ms": 202955,
-      "name": "NOSSA M\u00daSICA",
-      "url": "https://open.spotify.com/track/1Q1d5yjdXpcedKFJR3p7Ir"
     },
     {
       "added_at": null,
@@ -219,26 +219,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "LITTLE HAIR",
-        "url": "https://open.spotify.com/album/1KAZ4CtfGW7JgVvh6lq30V"
-      },
-      "artists": [
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        },
-        {
-          "name": "Dallass",
-          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
-        }
-      ],
-      "duration_ms": 188852,
-      "name": "X1",
-      "url": "https://open.spotify.com/track/0dcHD9QhnWRA41zoLnC83X"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "N\u00c9 SEGREDO",
         "url": "https://open.spotify.com/album/0RrjNaFfi2X1qVLPSLXTwT"
       },
@@ -259,6 +239,26 @@
       "duration_ms": 155771,
       "name": "N\u00c9 SEGREDO",
       "url": "https://open.spotify.com/track/4pjznsLeoyimnxGlVpmyJI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LITTLE HAIR",
+        "url": "https://open.spotify.com/album/1KAZ4CtfGW7JgVvh6lq30V"
+      },
+      "artists": [
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "Dallass",
+          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
+        }
+      ],
+      "duration_ms": 188852,
+      "name": "X1",
+      "url": "https://open.spotify.com/track/0dcHD9QhnWRA41zoLnC83X"
     },
     {
       "added_at": null,
@@ -959,34 +959,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MAGIC SHOW",
-        "url": "https://open.spotify.com/album/5lxnAXkn1mXv4LQSrnVtGW"
-      },
-      "artists": [
-        {
-          "name": "Nagalli",
-          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
-        },
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        },
-        {
-          "name": "Tz da Coronel",
-          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
-        },
-        {
-          "name": "Supernova Ent",
-          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
-        }
-      ],
-      "duration_ms": 192021,
-      "name": "UMA WAVE",
-      "url": "https://open.spotify.com/track/0z16szxzLfeR5Ic8PN8Qkt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LITTLE HAIR",
         "url": "https://open.spotify.com/album/1KAZ4CtfGW7JgVvh6lq30V"
       },
@@ -1011,6 +983,34 @@
       "duration_ms": 225600,
       "name": "EU SOU O TREM",
       "url": "https://open.spotify.com/track/7cHfnWEkL5KqfLg03G7Gic"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MAGIC SHOW",
+        "url": "https://open.spotify.com/album/5lxnAXkn1mXv4LQSrnVtGW"
+      },
+      "artists": [
+        {
+          "name": "Nagalli",
+          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
+        },
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+        },
+        {
+          "name": "Supernova Ent",
+          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
+        }
+      ],
+      "duration_ms": 192021,
+      "name": "UMA WAVE",
+      "url": "https://open.spotify.com/track/0z16szxzLfeR5Ic8PN8Qkt"
     },
     {
       "added_at": null,
@@ -1179,38 +1179,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cora\u00e7\u00e3o Terra de Ningu\u00e9m",
-        "url": "https://open.spotify.com/album/5BTYBHPfdhnD6Ez307JTyy"
+        "name": "De Menino Virou Little Hair",
+        "url": "https://open.spotify.com/album/77Gk0cJc7VYQW3DgQFjART"
       },
       "artists": [
         {
-          "name": "MC Ryan SP",
-          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+          "name": "DJ Meek",
+          "url": "https://open.spotify.com/artist/2e3Qj18c2XIH9bHIVdoMYK"
         },
         {
-          "name": "Orochi",
-          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
+          "name": "MC HULK",
+          "url": "https://open.spotify.com/artist/4qkstx5FIQ8dl7WHa6X86Q"
         },
         {
-          "name": "Pedro Lotto",
-          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
+          "name": "DINDO OG",
+          "url": "https://open.spotify.com/artist/12u2DOVwAEO8J86VqfDjne"
+        },
+        {
+          "name": "DJDAVIDOB13",
+          "url": "https://open.spotify.com/artist/4XKaUDBk0BdRMqp2m06fXL"
+        },
+        {
+          "name": "DJ Geh da LGD",
+          "url": "https://open.spotify.com/artist/5ioi2enpp7F0LKSSOHur3P"
         },
         {
           "name": "MC Cabelinho",
           "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        },
-        {
-          "name": "Mc Don Juan",
-          "url": "https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL"
-        },
-        {
-          "name": "Paiva Prod",
-          "url": "https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb"
         }
       ],
-      "duration_ms": 318666,
-      "name": "Alian\u00e7a",
-      "url": "https://open.spotify.com/track/0UbpJ2jRYTSHRy61viIC61"
+      "duration_ms": 181333,
+      "name": "De Menino Virou Little Hair",
+      "url": "https://open.spotify.com/track/7GnuK3atOK5lz9nJKe5YUl"
     },
     {
       "added_at": null,
@@ -1271,6 +1271,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cora\u00e7\u00e3o Terra de Ningu\u00e9m",
+        "url": "https://open.spotify.com/album/5BTYBHPfdhnD6Ez307JTyy"
+      },
+      "artists": [
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "Orochi",
+          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
+        },
+        {
+          "name": "Pedro Lotto",
+          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
+        },
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "Mc Don Juan",
+          "url": "https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL"
+        },
+        {
+          "name": "Paiva Prod",
+          "url": "https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb"
+        }
+      ],
+      "duration_ms": 318666,
+      "name": "Alian\u00e7a",
+      "url": "https://open.spotify.com/track/0UbpJ2jRYTSHRy61viIC61"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "RELATOS",
         "url": "https://open.spotify.com/album/3YIwqsUgXa6IuMVB0Zc4Hr"
       },
@@ -1291,42 +1327,6 @@
       "duration_ms": 216160,
       "name": "Ponto Final",
       "url": "https://open.spotify.com/track/0uhsd8WN4ayaEQr28AsptD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "De Menino Virou Little Hair",
-        "url": "https://open.spotify.com/album/77Gk0cJc7VYQW3DgQFjART"
-      },
-      "artists": [
-        {
-          "name": "DJ Meek",
-          "url": "https://open.spotify.com/artist/2e3Qj18c2XIH9bHIVdoMYK"
-        },
-        {
-          "name": "MC HULK",
-          "url": "https://open.spotify.com/artist/4qkstx5FIQ8dl7WHa6X86Q"
-        },
-        {
-          "name": "DINDO OG",
-          "url": "https://open.spotify.com/artist/12u2DOVwAEO8J86VqfDjne"
-        },
-        {
-          "name": "DJDAVIDOB13",
-          "url": "https://open.spotify.com/artist/4XKaUDBk0BdRMqp2m06fXL"
-        },
-        {
-          "name": "DJ Geh da LGD",
-          "url": "https://open.spotify.com/artist/5ioi2enpp7F0LKSSOHur3P"
-        },
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        }
-      ],
-      "duration_ms": 181333,
-      "name": "De Menino Virou Little Hair",
-      "url": "https://open.spotify.com/track/7GnuK3atOK5lz9nJKe5YUl"
     },
     {
       "added_at": null,

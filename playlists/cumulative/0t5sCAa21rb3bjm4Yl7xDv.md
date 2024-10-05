@@ -2,9 +2,9 @@
 
 ### [New Pop Hits](https://open.spotify.com/playlist/0t5sCAa21rb3bjm4Yl7xDv)
 
-> your favourite playlist's favourite playlist &lt;3\. shop this summer's pop collection <a href="https://www.umusic.ca/pages/POP">here</a>\. Cover: Lights
+> your favourite playlist's favourite playlist &lt;3\. shop this summer's pop collection <a href="https://www.umusic.ca/pages/POP">here</a>\. Cover: Sabrina Carpenter
 
-402 songs - 20 hr 52 min
+404 songs - 21 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -338,6 +338,7 @@
 | [Standing Next to You](https://open.spotify.com/track/2KslE17cAJNHTsI2MI0jb2) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [GOLDEN](https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU) | 3:26 | 2023-11-06 | 2024-01-27 |
 | [Stardust](https://open.spotify.com/track/4266h07udCdZ83jswW10IG) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [ROOM UNDER THE STAIRS](https://open.spotify.com/album/0PGluYePuY9INYN7SQheZ0) | 3:52 | 2024-06-20 |  |
 | [Stay](https://open.spotify.com/track/5RPb4BmoWmy1c6SxQb8rHC) | [Remady](https://open.spotify.com/artist/3JxNeLgMuJI0DEmDt9dLzc) | [Stay](https://open.spotify.com/album/6XNlioBAdVOcTIzqeDNM3I) | 2:12 | 2024-01-26 | 2024-05-06 |
+| [story i tell myself](https://open.spotify.com/track/5wAOwTaOQ8dHZgR13d5S7S) | [Lindsay Ell](https://open.spotify.com/artist/4lpA7MWpQpY7hKkwfLxw2Q) | [story i tell myself](https://open.spotify.com/album/6SN574dbaX96k0sDGgdlDq) | 3:31 | 2024-10-04 |  |
 | [Strangers](https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s) | [Kenya Grace](https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2) | [Strangers](https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k) | 2:52 | 2023-11-06 | 2023-11-25 |
 | [Strong Enough \(feat\. Bailey Zimmerman\)](https://open.spotify.com/track/66VuIGcM7fd8NLMoORCqVJ) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD), [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Strong Enough](https://open.spotify.com/album/7DTTXmNJFIXdf5QyA0Y9JX) | 2:29 | 2023-11-10 | 2024-09-28 |
 | [Sublime](https://open.spotify.com/track/360TFPz9VbmLrr3F0wzCVO) | [Sarah Kinsley](https://open.spotify.com/artist/34A8vV1MCxGpA14KspqQuC) | [Escaper](https://open.spotify.com/album/1DKZiCIxfbZB5I1p7JhXym) | 3:26 | 2024-09-09 |  |
@@ -396,6 +397,7 @@
 | [Who](https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [MUSE](https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr) | 2:50 | 2024-07-26 |  |
 | [Who Do I Call Now? \(Hellbent\)](https://open.spotify.com/track/26uXIvU5DdJLPUIj8pK9w7) | [Sofia Camara](https://open.spotify.com/artist/5bdLfpk3TpFVwrlHWmPL55) | [Who Do I Call Now? \(Hellbent\)](https://open.spotify.com/album/1Wg1RWT3tsei388hlJUUEG) | 3:10 | 2024-03-01 |  |
 | [Why Why Why](https://open.spotify.com/track/52A0oY4u5ufxrHC85JGf4x) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Shawn](https://open.spotify.com/album/1Gjj4lJko9J5Xh3VDWziyE) | 2:49 | 2024-09-27 |  |
+| [WILDFLOWER](https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 4:21 | 2024-10-04 |  |
 | [Wish You The Best](https://open.spotify.com/track/3W5KHP0Yr56ejVDns9vci3) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Wish You The Best](https://open.spotify.com/album/7dhkqX7ovYADB1xwZr9bwS) | 3:30 | 2023-11-06 | 2023-11-25 |
 | [Witness Me \(feat\. Shawn Mendes, Stormzy & Kirk Franklin\)](https://open.spotify.com/track/4lIA2yIyg1nPmJ1rBwNFUG) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD), [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Witness Me \(feat\. Shawn Mendes, Stormzy & Kirk Franklin\)](https://open.spotify.com/album/0FNmNqZYPEXQbLajHmR9En) | 3:45 | 2023-11-24 | 2024-03-02 |
 | [WOMAN’S WORLD](https://open.spotify.com/track/7hDvcL88hXoofWcxPGmBpW) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [WOMAN’S WORLD](https://open.spotify.com/album/0aFSLGHaCuEfBPyF6AFofM) | 2:43 | 2024-07-12 | 2024-09-28 |

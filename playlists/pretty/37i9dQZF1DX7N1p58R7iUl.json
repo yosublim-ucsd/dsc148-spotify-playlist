@@ -1,43 +1,103 @@
 {
   "description": "Listen to <a href=\"spotify:artist:3dE92yGWcrboP1kC5SWyqu\">Todd Terry</a>'s favorite tracks. Updated regularly. More track IDs <a href=\"spotify:genre:track_id\">here</a>.",
-  "num_followers": 50790,
+  "num_followers": 50815,
   "original_name": "Todd Terry's track IDs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsN3SQAAAABmj+7hGf1P2ZSFHDA68uOb",
+  "snapshot_id": "ZwBFDQAAAADmLo7WBAKHk/N2Ma/JUVjs",
   "tracks": [
     {
-      "added_at": "2024-08-19 16:48:09",
+      "added_at": "2024-10-04 19:42:05",
       "album": {
-        "name": "House Shh (Remixes)",
-        "url": "https://open.spotify.com/album/3z6vbAqotjWarGQy2vr1KQ"
+        "name": "Weekend Release",
+        "url": "https://open.spotify.com/album/7cs732dE0Paj8fGS4nxdxQ"
       },
       "artists": [
-        {
-          "name": "Todd Terry",
-          "url": "https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu"
-        },
         {
           "name": "Janika Tenn",
           "url": "https://open.spotify.com/artist/5JJ2mNTKFgulclDJxMIyOC"
         },
         {
-          "name": "Ridney",
-          "url": "https://open.spotify.com/artist/5UmoeWk7RM3v9w1DUL4XUD"
+          "name": "Todd Terry",
+          "url": "https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu"
         },
         {
-          "name": "Angelo Ferreri",
-          "url": "https://open.spotify.com/artist/3tT2XX9qEVivLCYGoqkRkZ"
+          "name": "Tristan Henry",
+          "url": "https://open.spotify.com/artist/6UyRsPqWooGjDexC857b1T"
         }
       ],
-      "duration_ms": 156975,
-      "name": "House Shh - Angelo Ferreri Remix",
-      "url": "https://open.spotify.com/track/3CxlKVtZaFjCHhTvkQ75hJ"
+      "duration_ms": 185957,
+      "name": "Weekend Release",
+      "url": "https://open.spotify.com/track/4nuSOZtY2jRO2hdiKW5ehL"
     },
     {
-      "added_at": "2024-08-19 16:48:09",
+      "added_at": "2024-10-04 19:42:05",
+      "album": {
+        "name": "Hear Me Out",
+        "url": "https://open.spotify.com/album/4BZWz0naU3NBtVZ83MWNdI"
+      },
+      "artists": [
+        {
+          "name": "CASSIMM",
+          "url": "https://open.spotify.com/artist/1dA7pt23MNLlDsLpABATtG"
+        },
+        {
+          "name": "Mahalia Fontaine",
+          "url": "https://open.spotify.com/artist/1asOp99xmKnDYookkkt3il"
+        }
+      ],
+      "duration_ms": 160005,
+      "name": "Hear Me Out",
+      "url": "https://open.spotify.com/track/7dzAqPbgIqbBuSvz9j8wRH"
+    },
+    {
+      "added_at": "2024-10-04 19:42:05",
+      "album": {
+        "name": "She's In The Club (feat. Asal)",
+        "url": "https://open.spotify.com/album/2cCyfh2RY9xz21ixS9icZn"
+      },
+      "artists": [
+        {
+          "name": "MK",
+          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
+        },
+        {
+          "name": "Asal",
+          "url": "https://open.spotify.com/artist/2CPDwyokR2lgqu0yNGe2cU"
+        }
+      ],
+      "duration_ms": 188011,
+      "name": "She's In The Club (feat. Asal)",
+      "url": "https://open.spotify.com/track/277aQ7uvOPlWmULkOdufco"
+    },
+    {
+      "added_at": "2024-10-04 19:42:05",
+      "album": {
+        "name": "For The Weekend",
+        "url": "https://open.spotify.com/album/7pyBFzdn9AmZilactoHqeX"
+      },
+      "artists": [
+        {
+          "name": "Ferreck Dawn",
+          "url": "https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8"
+        },
+        {
+          "name": "Maverick Sabre",
+          "url": "https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q"
+        },
+        {
+          "name": "New Machine",
+          "url": "https://open.spotify.com/artist/6wSxVh97cc5ZTSXvPgvv81"
+        }
+      ],
+      "duration_ms": 169722,
+      "name": "For The Weekend",
+      "url": "https://open.spotify.com/track/3TIVP3c5tT1rlDjAmzSaqF"
+    },
+    {
+      "added_at": "2024-10-04 19:42:05",
       "album": {
         "name": "Needin' U",
         "url": "https://open.spotify.com/album/1UzcFbVQ22SPAQH4FA1eh9"
@@ -65,7 +125,7 @@
       "url": "https://open.spotify.com/track/5V878GsOCNReMnIrG2GWVc"
     },
     {
-      "added_at": "2024-08-19 16:48:09",
+      "added_at": "2024-10-04 19:42:05",
       "album": {
         "name": "Need You",
         "url": "https://open.spotify.com/album/1ZCDNZ42SoSukKI4QPebqA"
@@ -81,51 +141,7 @@
       "url": "https://open.spotify.com/track/32EbZeoDAXpEyxiTm3mG6P"
     },
     {
-      "added_at": "2024-08-19 16:48:09",
-      "album": {
-        "name": "Can't Stop / Boogie In Your Butt",
-        "url": "https://open.spotify.com/album/2C6HCPyMAHTDtS8jdpssiW"
-      },
-      "artists": [
-        {
-          "name": "Duck Sauce",
-          "url": "https://open.spotify.com/artist/0q8J3Yj810t5cpAYEJ7gxt"
-        },
-        {
-          "name": "A-Trak",
-          "url": "https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt"
-        },
-        {
-          "name": "Armand Van Helden",
-          "url": "https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE"
-        }
-      ],
-      "duration_ms": 205429,
-      "name": "Can't Stop",
-      "url": "https://open.spotify.com/track/4lsHkNkJccz58VrEmA1o3q"
-    },
-    {
-      "added_at": "2024-08-19 16:48:09",
-      "album": {
-        "name": "Boost Up",
-        "url": "https://open.spotify.com/album/58koXuocSFzeYdnmC4gyFK"
-      },
-      "artists": [
-        {
-          "name": "FISHER",
-          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
-        },
-        {
-          "name": "Flowdan",
-          "url": "https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4"
-        }
-      ],
-      "duration_ms": 211899,
-      "name": "Boost Up",
-      "url": "https://open.spotify.com/track/07Sm4SlYGZ4CRSxgwP3hUr"
-    },
-    {
-      "added_at": "2024-08-19 16:48:09",
+      "added_at": "2024-10-04 19:42:05",
       "album": {
         "name": "We Groovin (with Jazzy)",
         "url": "https://open.spotify.com/album/21mqL1eOj7aRJQUwOQakcH"
@@ -145,47 +161,43 @@
       "url": "https://open.spotify.com/track/6LiuMpZjyjjuXFP5Ljo9bv"
     },
     {
-      "added_at": "2024-08-19 16:48:09",
+      "added_at": "2024-10-04 19:42:05",
       "album": {
-        "name": "Ding Dong",
-        "url": "https://open.spotify.com/album/1ZFr2RGKilZvCKtru4Wnqu"
+        "name": "Boost Up",
+        "url": "https://open.spotify.com/album/58koXuocSFzeYdnmC4gyFK"
       },
       "artists": [
         {
-          "name": "Juanito",
-          "url": "https://open.spotify.com/artist/39TK4RM8bEzWa1BoBxsSko"
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        },
+        {
+          "name": "Flowdan",
+          "url": "https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4"
         }
       ],
-      "duration_ms": 214212,
-      "name": "Ding Dong",
-      "url": "https://open.spotify.com/track/5XWWkNZY9VngXjJtfamkcV"
+      "duration_ms": 211899,
+      "name": "Boost Up",
+      "url": "https://open.spotify.com/track/07Sm4SlYGZ4CRSxgwP3hUr"
     },
     {
-      "added_at": "2024-08-19 16:48:09",
+      "added_at": "2024-10-04 19:42:05",
       "album": {
-        "name": "It's Over Love (Janika Tenn Remix)",
-        "url": "https://open.spotify.com/album/7FKuZ90B24K2eMcdWdR5N9"
+        "name": "Take That Groove",
+        "url": "https://open.spotify.com/album/2trhBnyY5pwB3NZvreRRWt"
       },
       "artists": [
         {
           "name": "Todd Terry",
           "url": "https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu"
-        },
-        {
-          "name": "Shannon",
-          "url": "https://open.spotify.com/artist/2O8QAJmRrwkFXq2aWZnHYB"
-        },
-        {
-          "name": "Janika Tenn",
-          "url": "https://open.spotify.com/artist/5JJ2mNTKFgulclDJxMIyOC"
         }
       ],
-      "duration_ms": 177637,
-      "name": "It's Over Love - Janika Tenn Remix Edit",
-      "url": "https://open.spotify.com/track/2vxvl4OkdKcnGpcOwZgVsh"
+      "duration_ms": 186666,
+      "name": "Take That Groove",
+      "url": "https://open.spotify.com/track/7vYotNsMaq6LA5SMzFizL2"
     },
     {
-      "added_at": "2024-08-19 16:48:09",
+      "added_at": "2024-10-04 19:42:05",
       "album": {
         "name": "Tell Me What You Want",
         "url": "https://open.spotify.com/album/4rd5c66hQdMosQrB7O7zHi"
@@ -205,7 +217,47 @@
       "url": "https://open.spotify.com/track/6MRUQNjaUud1TiFBRV8HNq"
     },
     {
-      "added_at": "2024-08-19 16:48:09",
+      "added_at": "2024-10-04 19:42:05",
+      "album": {
+        "name": "MAW Lost Tapes 18",
+        "url": "https://open.spotify.com/album/66ut3hDN8xjTIaNaYyOMkJ"
+      },
+      "artists": [
+        {
+          "name": "Masters At Work",
+          "url": "https://open.spotify.com/artist/5Fkj0k7EPUhIsESSIEA9f1"
+        },
+        {
+          "name": "Louie Vega",
+          "url": "https://open.spotify.com/artist/5dncbrnveDMX9DgxcedeUg"
+        },
+        {
+          "name": "Kenny Dope",
+          "url": "https://open.spotify.com/artist/1TrfxjXu8quyDw05p2bacX"
+        }
+      ],
+      "duration_ms": 390466,
+      "name": "Blue Moon",
+      "url": "https://open.spotify.com/track/56YmqEQ6QB97pQEPodO3x3"
+    },
+    {
+      "added_at": "2024-10-04 19:42:05",
+      "album": {
+        "name": "All My Friends Are Hot",
+        "url": "https://open.spotify.com/album/73VTNr5Sfek6XuuudiVaM0"
+      },
+      "artists": [
+        {
+          "name": "Jackie Hollander",
+          "url": "https://open.spotify.com/artist/5ykY9Uweo3gl5VFpb6z6pQ"
+        }
+      ],
+      "duration_ms": 179076,
+      "name": "All My Friends Are Hot",
+      "url": "https://open.spotify.com/track/2bRM3rvHhI9cb2TCnnZIAR"
+    },
+    {
+      "added_at": "2024-10-04 19:42:05",
       "album": {
         "name": "Can You Feel It (Martin Ikin Remix)",
         "url": "https://open.spotify.com/album/4pvbaFQIkr28Le4HG7bH1t"
@@ -225,7 +277,7 @@
       "url": "https://open.spotify.com/track/4Uotr9nrVbAYhorPfIbg8o"
     },
     {
-      "added_at": "2024-08-19 16:48:09",
+      "added_at": "2024-10-04 19:42:05",
       "album": {
         "name": "Bounce To The Beat (2024 Remixes)",
         "url": "https://open.spotify.com/album/5HNjbuvkzxGAUKuBj1XtFx"
@@ -249,7 +301,23 @@
       "url": "https://open.spotify.com/track/2TaePDvV47Eaju3cSi5TFz"
     },
     {
-      "added_at": "2024-08-19 16:48:09",
+      "added_at": "2024-10-04 19:42:05",
+      "album": {
+        "name": "Sun Comes Up",
+        "url": "https://open.spotify.com/album/1AEvHdZiCZmUEqFZ9IVIAk"
+      },
+      "artists": [
+        {
+          "name": "Carl The Jackal",
+          "url": "https://open.spotify.com/artist/6KRuEtVuMERZAMFBh6vmVe"
+        }
+      ],
+      "duration_ms": 188571,
+      "name": "Sun Comes Up - Edit",
+      "url": "https://open.spotify.com/track/2eIokiVCcbejbUrcRX5WQZ"
+    },
+    {
+      "added_at": "2024-10-04 19:42:05",
       "album": {
         "name": "Feel It",
         "url": "https://open.spotify.com/album/14ghaAapVtnVCDldY9Fvuq"
@@ -265,47 +333,47 @@
       "url": "https://open.spotify.com/track/2PpQ4n7hQ5AwMwK8bXj3Jg"
     },
     {
-      "added_at": "2024-08-19 16:48:09",
+      "added_at": "2024-10-04 19:42:05",
       "album": {
-        "name": "Saved By The Record (feat. Josh Barry)",
-        "url": "https://open.spotify.com/album/01IqI0cGvFILDNbSWeVuPC"
+        "name": "Ding Dong",
+        "url": "https://open.spotify.com/album/1ZFr2RGKilZvCKtru4Wnqu"
       },
       "artists": [
         {
-          "name": "Sam Divine",
-          "url": "https://open.spotify.com/artist/029RjYsk0DU8LKC92sUyXZ"
-        },
-        {
-          "name": "Josh Barry",
-          "url": "https://open.spotify.com/artist/6oruQTIjrgFYzOSKhp7Kt6"
+          "name": "Juanito",
+          "url": "https://open.spotify.com/artist/39TK4RM8bEzWa1BoBxsSko"
         }
       ],
-      "duration_ms": 202303,
-      "name": "Saved By The Record (feat. Josh Barry)",
-      "url": "https://open.spotify.com/track/0KQhwMvQHO17faalnd3Mjv"
+      "duration_ms": 214212,
+      "name": "Ding Dong",
+      "url": "https://open.spotify.com/track/5XWWkNZY9VngXjJtfamkcV"
     },
     {
-      "added_at": "2024-08-19 16:48:09",
+      "added_at": "2024-10-04 19:42:05",
       "album": {
-        "name": "Fly Like An Eagle (Oscar P Remix)",
-        "url": "https://open.spotify.com/album/6zzvA5Du77gtABV3tyqb9H"
+        "name": "Kiss From A Rose",
+        "url": "https://open.spotify.com/album/7hWYQeuLz8pL88CqfFLroi"
       },
       "artists": [
         {
-          "name": "Todd Terry",
-          "url": "https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu"
+          "name": "Green Velvet",
+          "url": "https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2"
         },
         {
-          "name": "Oscar P",
-          "url": "https://open.spotify.com/artist/5y3c284N0pKPlEct5YfqHl"
+          "name": "Marco Lys",
+          "url": "https://open.spotify.com/artist/5WiohqjMNs7MtChjoHE9D1"
+        },
+        {
+          "name": "Walter Phillips",
+          "url": "https://open.spotify.com/artist/59WleqeZMvAUVl6ROkjahJ"
         }
       ],
-      "duration_ms": 175081,
-      "name": "Fly Like An Eagle - Oscar P Deep Edit",
-      "url": "https://open.spotify.com/track/4u23Fxi5QkFhk0TVbNRCRG"
+      "duration_ms": 155624,
+      "name": "Kiss From A Rose",
+      "url": "https://open.spotify.com/track/5LNFAjkC0DhgUfiQcKHrX4"
     },
     {
-      "added_at": "2024-08-19 16:48:09",
+      "added_at": "2024-10-04 19:42:05",
       "album": {
         "name": "He's Gonna Lie",
         "url": "https://open.spotify.com/album/0V5ssJubpPAWHy6WBI3ZlN"
@@ -321,7 +389,7 @@
       "url": "https://open.spotify.com/track/0rc2ZJSBMcrYs0Gu0WVNRq"
     },
     {
-      "added_at": "2024-08-19 16:48:09",
+      "added_at": "2024-10-04 19:42:05",
       "album": {
         "name": "Finger On The Trigger",
         "url": "https://open.spotify.com/album/45nVID8KW4r6XXMr99SOP1"
@@ -341,27 +409,31 @@
       "url": "https://open.spotify.com/track/00IiVApn0FTBxBxeCJEUIZ"
     },
     {
-      "added_at": "2024-08-19 16:48:09",
+      "added_at": "2024-10-04 19:42:05",
       "album": {
-        "name": "Strangelove (Todd Terry Remix)",
-        "url": "https://open.spotify.com/album/2I9tAV1Z3L3SqWgADPJRqe"
+        "name": "Smiling Faces",
+        "url": "https://open.spotify.com/album/1R3smd9EqHg4pEYdrx9DCz"
       },
       "artists": [
         {
-          "name": "Dicristino",
-          "url": "https://open.spotify.com/artist/0Aum7Ieo0EoWYRWMM9UCaN"
-        },
-        {
           "name": "Todd Terry",
           "url": "https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu"
+        },
+        {
+          "name": "Alex Adair",
+          "url": "https://open.spotify.com/artist/1mrrvBvbrm28iYaPlJ9mG5"
+        },
+        {
+          "name": "Bottom Lip",
+          "url": "https://open.spotify.com/artist/1kGshKeUGUyFii95MRyIiJ"
         }
       ],
-      "duration_ms": 179047,
-      "name": "Strangelove (Todd Terry Remix) - Edit",
-      "url": "https://open.spotify.com/track/6K09lF71wZA5KSIE4PPbbx"
+      "duration_ms": 156190,
+      "name": "Smiling Faces",
+      "url": "https://open.spotify.com/track/1LEnBEX4NgtmGcBJYjHNmb"
     },
     {
-      "added_at": "2024-08-19 16:48:09",
+      "added_at": "2024-10-04 19:42:05",
       "album": {
         "name": "Heaven or Not",
         "url": "https://open.spotify.com/album/57vgi9GXqxBvyLmlTQeeUk"
@@ -385,7 +457,7 @@
       "url": "https://open.spotify.com/track/6B8ZQyILzGTzJZ2BE8ydcF"
     },
     {
-      "added_at": "2024-08-19 16:48:09",
+      "added_at": "2024-10-04 19:42:05",
       "album": {
         "name": "Movin'",
         "url": "https://open.spotify.com/album/70IiYVHfKDW1XuRNPwwq25"
@@ -405,119 +477,7 @@
       "url": "https://open.spotify.com/track/6kzpfmlvWu3SwqY0HkyXWs"
     },
     {
-      "added_at": "2024-08-19 16:48:09",
-      "album": {
-        "name": "All For You",
-        "url": "https://open.spotify.com/album/1IvCA1tB8GNQ5KzAJ9pm60"
-      },
-      "artists": [
-        {
-          "name": "Dombresky",
-          "url": "https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN"
-        },
-        {
-          "name": "JADED",
-          "url": "https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf"
-        }
-      ],
-      "duration_ms": 213095,
-      "name": "All For You",
-      "url": "https://open.spotify.com/track/0HMCP4nAPkUan3NQr6hSuT"
-    },
-    {
-      "added_at": "2024-08-19 16:48:09",
-      "album": {
-        "name": "The Inside (Capri Remix)",
-        "url": "https://open.spotify.com/album/0gE0lv0rSXTcso4qM7QHno"
-      },
-      "artists": [
-        {
-          "name": "Ridney",
-          "url": "https://open.spotify.com/artist/5UmoeWk7RM3v9w1DUL4XUD"
-        },
-        {
-          "name": "Capri",
-          "url": "https://open.spotify.com/artist/4eHpewi8qb1L05TZvgKn7Z"
-        }
-      ],
-      "duration_ms": 183961,
-      "name": "The Inside - Capri Remix",
-      "url": "https://open.spotify.com/track/1W2Ltoko2yqoBNt5sCo7H9"
-    },
-    {
-      "added_at": "2024-08-19 16:48:09",
-      "album": {
-        "name": "Wonderland",
-        "url": "https://open.spotify.com/album/291TvViLgnWvUFF30Rbqtf"
-      },
-      "artists": [
-        {
-          "name": "Todd Terry",
-          "url": "https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu"
-        }
-      ],
-      "duration_ms": 165120,
-      "name": "Wonderland - Edit",
-      "url": "https://open.spotify.com/track/4hEWw1Zf1knrl3wB7LtZzf"
-    },
-    {
-      "added_at": "2024-08-19 16:48:09",
-      "album": {
-        "name": "US",
-        "url": "https://open.spotify.com/album/6gckBTuyU6u8DTXgv3rzfo"
-      },
-      "artists": [
-        {
-          "name": "Marshall Jefferson",
-          "url": "https://open.spotify.com/artist/2Di8r9df6xjyj6CVOqbGVz"
-        },
-        {
-          "name": "TCTS",
-          "url": "https://open.spotify.com/artist/1mFGfrveXbpolppPgO29Io"
-        },
-        {
-          "name": "Byron Stingily",
-          "url": "https://open.spotify.com/artist/3EoFVszwsvsw0Cr7b4ncaD"
-        }
-      ],
-      "duration_ms": 186823,
-      "name": "US",
-      "url": "https://open.spotify.com/track/2t0OjDBYNZvoXFvKsYwlG7"
-    },
-    {
-      "added_at": "2024-08-19 16:48:09",
-      "album": {
-        "name": "Tromba",
-        "url": "https://open.spotify.com/album/63EPAaHkqPy6jjo8SbuoL6"
-      },
-      "artists": [
-        {
-          "name": "Mattei & Omich",
-          "url": "https://open.spotify.com/artist/5qNEoHUXKgmtpA2hwKwRVC"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Tromba",
-      "url": "https://open.spotify.com/track/2aqVUBwsYu9dmqKNTSOP1o"
-    },
-    {
-      "added_at": "2024-08-19 16:48:09",
-      "album": {
-        "name": "Edgewater",
-        "url": "https://open.spotify.com/album/57ATQwG516jMbXwGaAqLJB"
-      },
-      "artists": [
-        {
-          "name": "Alinka",
-          "url": "https://open.spotify.com/artist/3qBqW8kIRZbPxbSgAyP7ls"
-        }
-      ],
-      "duration_ms": 254765,
-      "name": "Lake Shore Drive",
-      "url": "https://open.spotify.com/track/03MYJLMSCxtxuiTInWaqXS"
-    },
-    {
-      "added_at": "2024-08-19 16:48:09",
+      "added_at": "2024-10-04 19:42:05",
       "album": {
         "name": "House Machine",
         "url": "https://open.spotify.com/album/544zQeqftN4ziAbroQGeJO"
@@ -541,7 +501,175 @@
       "url": "https://open.spotify.com/track/38HiQInPRDWa8A4Hzu8zBL"
     },
     {
-      "added_at": "2024-08-19 16:48:09",
+      "added_at": "2024-10-04 19:42:05",
+      "album": {
+        "name": "Saved By The Record (feat. Josh Barry)",
+        "url": "https://open.spotify.com/album/01IqI0cGvFILDNbSWeVuPC"
+      },
+      "artists": [
+        {
+          "name": "Sam Divine",
+          "url": "https://open.spotify.com/artist/029RjYsk0DU8LKC92sUyXZ"
+        },
+        {
+          "name": "Josh Barry",
+          "url": "https://open.spotify.com/artist/6oruQTIjrgFYzOSKhp7Kt6"
+        }
+      ],
+      "duration_ms": 202303,
+      "name": "Saved By The Record (feat. Josh Barry)",
+      "url": "https://open.spotify.com/track/0KQhwMvQHO17faalnd3Mjv"
+    },
+    {
+      "added_at": "2024-10-04 19:42:05",
+      "album": {
+        "name": "All For You",
+        "url": "https://open.spotify.com/album/1IvCA1tB8GNQ5KzAJ9pm60"
+      },
+      "artists": [
+        {
+          "name": "Dombresky",
+          "url": "https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN"
+        },
+        {
+          "name": "JADED",
+          "url": "https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf"
+        }
+      ],
+      "duration_ms": 213095,
+      "name": "All For You",
+      "url": "https://open.spotify.com/track/0HMCP4nAPkUan3NQr6hSuT"
+    },
+    {
+      "added_at": "2024-10-04 19:42:05",
+      "album": {
+        "name": "Faith",
+        "url": "https://open.spotify.com/album/4APiHWAj158eSGMbeCLzdU"
+      },
+      "artists": [
+        {
+          "name": "Neon Hustler",
+          "url": "https://open.spotify.com/artist/6VoQWkKiaeGNzl4fYhf28y"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Faith - Edit",
+      "url": "https://open.spotify.com/track/1RlNss2pXUQmr7dSfiA6mJ"
+    },
+    {
+      "added_at": "2024-10-04 19:42:05",
+      "album": {
+        "name": "The Inside (Capri Remix)",
+        "url": "https://open.spotify.com/album/0gE0lv0rSXTcso4qM7QHno"
+      },
+      "artists": [
+        {
+          "name": "Ridney",
+          "url": "https://open.spotify.com/artist/5UmoeWk7RM3v9w1DUL4XUD"
+        },
+        {
+          "name": "Capri",
+          "url": "https://open.spotify.com/artist/4eHpewi8qb1L05TZvgKn7Z"
+        }
+      ],
+      "duration_ms": 183961,
+      "name": "The Inside - Capri Remix",
+      "url": "https://open.spotify.com/track/1W2Ltoko2yqoBNt5sCo7H9"
+    },
+    {
+      "added_at": "2024-10-04 19:42:05",
+      "album": {
+        "name": "It's Over Love (Janika Tenn Remix)",
+        "url": "https://open.spotify.com/album/7FKuZ90B24K2eMcdWdR5N9"
+      },
+      "artists": [
+        {
+          "name": "Todd Terry",
+          "url": "https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu"
+        },
+        {
+          "name": "Shannon",
+          "url": "https://open.spotify.com/artist/2O8QAJmRrwkFXq2aWZnHYB"
+        },
+        {
+          "name": "Janika Tenn",
+          "url": "https://open.spotify.com/artist/5JJ2mNTKFgulclDJxMIyOC"
+        }
+      ],
+      "duration_ms": 177637,
+      "name": "It's Over Love - Janika Tenn Remix Edit",
+      "url": "https://open.spotify.com/track/2vxvl4OkdKcnGpcOwZgVsh"
+    },
+    {
+      "added_at": "2024-10-04 19:42:05",
+      "album": {
+        "name": "US",
+        "url": "https://open.spotify.com/album/6gckBTuyU6u8DTXgv3rzfo"
+      },
+      "artists": [
+        {
+          "name": "Marshall Jefferson",
+          "url": "https://open.spotify.com/artist/2Di8r9df6xjyj6CVOqbGVz"
+        },
+        {
+          "name": "TCTS",
+          "url": "https://open.spotify.com/artist/1mFGfrveXbpolppPgO29Io"
+        },
+        {
+          "name": "Byron Stingily",
+          "url": "https://open.spotify.com/artist/3EoFVszwsvsw0Cr7b4ncaD"
+        }
+      ],
+      "duration_ms": 186823,
+      "name": "US",
+      "url": "https://open.spotify.com/track/2t0OjDBYNZvoXFvKsYwlG7"
+    },
+    {
+      "added_at": "2024-10-04 19:42:05",
+      "album": {
+        "name": "Tromba",
+        "url": "https://open.spotify.com/album/63EPAaHkqPy6jjo8SbuoL6"
+      },
+      "artists": [
+        {
+          "name": "Mattei & Omich",
+          "url": "https://open.spotify.com/artist/5qNEoHUXKgmtpA2hwKwRVC"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Tromba",
+      "url": "https://open.spotify.com/track/2aqVUBwsYu9dmqKNTSOP1o"
+    },
+    {
+      "added_at": "2024-10-04 19:42:05",
+      "album": {
+        "name": "House Shh (Remixes)",
+        "url": "https://open.spotify.com/album/3z6vbAqotjWarGQy2vr1KQ"
+      },
+      "artists": [
+        {
+          "name": "Todd Terry",
+          "url": "https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu"
+        },
+        {
+          "name": "Janika Tenn",
+          "url": "https://open.spotify.com/artist/5JJ2mNTKFgulclDJxMIyOC"
+        },
+        {
+          "name": "Ridney",
+          "url": "https://open.spotify.com/artist/5UmoeWk7RM3v9w1DUL4XUD"
+        },
+        {
+          "name": "Angelo Ferreri",
+          "url": "https://open.spotify.com/artist/3tT2XX9qEVivLCYGoqkRkZ"
+        }
+      ],
+      "duration_ms": 156975,
+      "name": "House Shh - Angelo Ferreri Remix",
+      "url": "https://open.spotify.com/track/3CxlKVtZaFjCHhTvkQ75hJ"
+    },
+    {
+      "added_at": "2024-10-04 19:42:05",
       "album": {
         "name": "When I Close My Eyes",
         "url": "https://open.spotify.com/album/3GuGgqIhptQEHVVFAzqSb9"
@@ -557,7 +685,7 @@
       "url": "https://open.spotify.com/track/3KrpHx7OQimSAaFwvAKx8R"
     },
     {
-      "added_at": "2024-08-19 16:48:09",
+      "added_at": "2024-10-04 19:42:05",
       "album": {
         "name": "Ubah / Who Am I",
         "url": "https://open.spotify.com/album/0uYOX7Nt3h1tMGo2IfDkWR"
@@ -573,7 +701,7 @@
       "url": "https://open.spotify.com/track/2lt6vbJMtuuPNIU8UWNA2d"
     },
     {
-      "added_at": "2024-08-19 16:48:09",
+      "added_at": "2024-10-04 19:42:05",
       "album": {
         "name": "Rock Your Body",
         "url": "https://open.spotify.com/album/6PPmtoZZBKpMmelBNFQhlX"
@@ -601,7 +729,7 @@
       "url": "https://open.spotify.com/track/7cgub1sDMlNJjUIusoJfcc"
     },
     {
-      "added_at": "2024-08-19 16:48:09",
+      "added_at": "2024-10-04 19:42:05",
       "album": {
         "name": "Giving House",
         "url": "https://open.spotify.com/album/38m6FwuIjoGsAyeBAKIGcT"
@@ -621,7 +749,7 @@
       "url": "https://open.spotify.com/track/2LuS3FGDZVQWCph2OJF976"
     },
     {
-      "added_at": "2024-08-19 16:48:09",
+      "added_at": "2024-10-04 19:42:05",
       "album": {
         "name": "This Is My Life (Bontan Remix)",
         "url": "https://open.spotify.com/album/280MVEV8ylL30zAvcIbegG"
@@ -645,31 +773,27 @@
       "url": "https://open.spotify.com/track/6CqPGAoMqPoOGCfxSKuKtC"
     },
     {
-      "added_at": "2024-08-19 16:48:09",
+      "added_at": "2024-10-04 19:42:05",
       "album": {
-        "name": "Cruel Intentions",
-        "url": "https://open.spotify.com/album/6jNQGxYOPEJTUaL3BA8Vro"
+        "name": "Strangelove (Todd Terry Remix)",
+        "url": "https://open.spotify.com/album/2I9tAV1Z3L3SqWgADPJRqe"
       },
       "artists": [
         {
-          "name": "Hannah Wants",
-          "url": "https://open.spotify.com/artist/7sK4hnuUOXw6VStDw0q8NI"
+          "name": "Dicristino",
+          "url": "https://open.spotify.com/artist/0Aum7Ieo0EoWYRWMM9UCaN"
         },
         {
-          "name": "Sam Divine",
-          "url": "https://open.spotify.com/artist/029RjYsk0DU8LKC92sUyXZ"
-        },
-        {
-          "name": "Jem Cooke",
-          "url": "https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH"
+          "name": "Todd Terry",
+          "url": "https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu"
         }
       ],
-      "duration_ms": 222273,
-      "name": "Cruel Intentions",
-      "url": "https://open.spotify.com/track/6UF4Bj3prR1bNu8IW8zpzh"
+      "duration_ms": 179047,
+      "name": "Strangelove (Todd Terry Remix) - Edit",
+      "url": "https://open.spotify.com/track/6K09lF71wZA5KSIE4PPbbx"
     },
     {
-      "added_at": "2024-08-19 16:48:09",
+      "added_at": "2024-10-04 19:42:05",
       "album": {
         "name": "Capoeira Mata Um (Zum Zum Zum)",
         "url": "https://open.spotify.com/album/5lQLZNV76a34Md7qojyO2s"
@@ -685,7 +809,7 @@
       "url": "https://open.spotify.com/track/7rriLHw4KHgWQnKY5vR2fw"
     },
     {
-      "added_at": "2024-08-19 16:48:09",
+      "added_at": "2024-10-04 19:42:05",
       "album": {
         "name": "With You",
         "url": "https://open.spotify.com/album/67sKubpdGRh7cL74e2Th21"
@@ -705,43 +829,7 @@
       "url": "https://open.spotify.com/track/1t8wW8gWXZzji4JCDPvLNg"
     },
     {
-      "added_at": "2024-08-19 16:48:09",
-      "album": {
-        "name": "Piano At Night",
-        "url": "https://open.spotify.com/album/7x1GR6l2bRLLcJsCjaG4Hv"
-      },
-      "artists": [
-        {
-          "name": "Sweet LA",
-          "url": "https://open.spotify.com/artist/6JRHsD4RG2yWlpCzpB7VEM"
-        }
-      ],
-      "duration_ms": 203809,
-      "name": "Piano At Night - Edit",
-      "url": "https://open.spotify.com/track/0wavSL4eyI8tUSHtzF6xnJ"
-    },
-    {
-      "added_at": "2024-08-19 16:48:09",
-      "album": {
-        "name": "Real Love",
-        "url": "https://open.spotify.com/album/6XU17Ta3KWa045AfQV0mLM"
-      },
-      "artists": [
-        {
-          "name": "Jess Bays",
-          "url": "https://open.spotify.com/artist/5xEJ7FQOtIUMLdnKyZrvPB"
-        },
-        {
-          "name": "Kelli-Leigh",
-          "url": "https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff"
-        }
-      ],
-      "duration_ms": 173377,
-      "name": "Real Love",
-      "url": "https://open.spotify.com/track/4HrLjuPDoxwofY6azxdzb0"
-    },
-    {
-      "added_at": "2024-08-19 16:48:09",
+      "added_at": "2024-10-04 19:42:05",
       "album": {
         "name": "So Hype (feat. M\u00fda)",
         "url": "https://open.spotify.com/album/31KAFsG4uyhJSnXnxyPGVl"
@@ -761,27 +849,23 @@
       "url": "https://open.spotify.com/track/01EqoyDwY1L8kzyHKEexdl"
     },
     {
-      "added_at": "2024-08-19 16:48:09",
+      "added_at": "2024-10-04 19:42:05",
       "album": {
-        "name": "Don't Abuse It",
-        "url": "https://open.spotify.com/album/3z8N7BrygP8gQIrirqvE6v"
+        "name": "Wonderland",
+        "url": "https://open.spotify.com/album/291TvViLgnWvUFF30Rbqtf"
       },
       "artists": [
         {
-          "name": "Mark Knight",
-          "url": "https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL"
-        },
-        {
-          "name": "Armand Van Helden",
-          "url": "https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE"
+          "name": "Todd Terry",
+          "url": "https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu"
         }
       ],
-      "duration_ms": 135967,
-      "name": "Don't Abuse It",
-      "url": "https://open.spotify.com/track/5E9ulwLRaDx2tO9liULCuE"
+      "duration_ms": 165120,
+      "name": "Wonderland - Edit",
+      "url": "https://open.spotify.com/track/4hEWw1Zf1knrl3wB7LtZzf"
     },
     {
-      "added_at": "2024-08-19 16:48:09",
+      "added_at": "2024-10-04 19:42:05",
       "album": {
         "name": "Body Moving",
         "url": "https://open.spotify.com/album/5EcypjAXyzxlrF5AKCNg9K"
@@ -801,31 +885,7 @@
       "url": "https://open.spotify.com/track/5SFCEkybGYmmzKqewtDEaN"
     },
     {
-      "added_at": "2024-08-19 16:48:09",
-      "album": {
-        "name": "MAW Lost Tapes 13",
-        "url": "https://open.spotify.com/album/3cHNPkjSRSfap0yQz5tirj"
-      },
-      "artists": [
-        {
-          "name": "Masters At Work",
-          "url": "https://open.spotify.com/artist/5Fkj0k7EPUhIsESSIEA9f1"
-        },
-        {
-          "name": "Todd Terry",
-          "url": "https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu"
-        },
-        {
-          "name": "Tony Humphries",
-          "url": "https://open.spotify.com/artist/3H8qk6ngZWWvpFBDiYJiFw"
-        }
-      ],
-      "duration_ms": 554515,
-      "name": "Wishing",
-      "url": "https://open.spotify.com/track/14K7iUaAUov4UGp1mQj42B"
-    },
-    {
-      "added_at": "2024-08-19 16:48:09",
+      "added_at": "2024-10-04 19:42:05",
       "album": {
         "name": "Make U Sweat",
         "url": "https://open.spotify.com/album/2eynmd9669ddVP7QTuj66o"
@@ -841,7 +901,7 @@
       "url": "https://open.spotify.com/track/3IrAZTFMsy9ZPj5LurJ8vi"
     },
     {
-      "added_at": "2024-08-19 16:48:09",
+      "added_at": "2024-10-04 19:42:05",
       "album": {
         "name": "Mira Que",
         "url": "https://open.spotify.com/album/5eGqjaslGUjQubjb7GYWxF"
@@ -857,7 +917,23 @@
       "url": "https://open.spotify.com/track/3tLhzGcx2z5y8JrAfoDO9J"
     },
     {
-      "added_at": "2024-08-19 16:48:09",
+      "added_at": "2024-10-04 19:42:05",
+      "album": {
+        "name": "Piano At Night",
+        "url": "https://open.spotify.com/album/7x1GR6l2bRLLcJsCjaG4Hv"
+      },
+      "artists": [
+        {
+          "name": "Sweet LA",
+          "url": "https://open.spotify.com/artist/6JRHsD4RG2yWlpCzpB7VEM"
+        }
+      ],
+      "duration_ms": 203809,
+      "name": "Piano At Night - Edit",
+      "url": "https://open.spotify.com/track/0wavSL4eyI8tUSHtzF6xnJ"
+    },
+    {
+      "added_at": "2024-10-04 19:42:05",
       "album": {
         "name": "Drums (Remix Package)",
         "url": "https://open.spotify.com/album/2df9ySxIlwdbyRlajvjCnP"
@@ -877,27 +953,7 @@
       "url": "https://open.spotify.com/track/3zfjtcVwrAC1Ugz78dvOY8"
     },
     {
-      "added_at": "2024-08-19 16:48:09",
-      "album": {
-        "name": "En Equilibre",
-        "url": "https://open.spotify.com/album/3CKhyRNQsDZjGduMe66pKu"
-      },
-      "artists": [
-        {
-          "name": "DJ W!LD",
-          "url": "https://open.spotify.com/artist/2cc1Phkb1W5AvZvteumF6P"
-        },
-        {
-          "name": "DJ Sneak",
-          "url": "https://open.spotify.com/artist/7yHAXXHeH3OTAsL9hMBvPs"
-        }
-      ],
-      "duration_ms": 492960,
-      "name": "Le Plus Beau Cul Du Monde - Dj Sneak Remix",
-      "url": "https://open.spotify.com/track/2t13CQMenyylrpueKDJK2d"
-    },
-    {
-      "added_at": "2024-08-19 16:48:09",
+      "added_at": "2024-10-04 19:42:05",
       "album": {
         "name": "Carry Me Higher",
         "url": "https://open.spotify.com/album/21q5qrGNBSI1ihI0TT5348"
@@ -921,123 +977,7 @@
       "url": "https://open.spotify.com/track/7tm4pF2JvKc4GGKSagRuS9"
     },
     {
-      "added_at": "2024-08-19 16:48:09",
-      "album": {
-        "name": "This Is My Life",
-        "url": "https://open.spotify.com/album/65r6PbiURn3vzNaKkfgxF2"
-      },
-      "artists": [
-        {
-          "name": "HoneyLuv",
-          "url": "https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl"
-        },
-        {
-          "name": "Roland Clark",
-          "url": "https://open.spotify.com/artist/4OGlp2UdUQGPJVbvJ82Cz5"
-        }
-      ],
-      "duration_ms": 181992,
-      "name": "This Is My Life",
-      "url": "https://open.spotify.com/track/5oOUGZNKsx5LEE1FYyLcoB"
-    },
-    {
-      "added_at": "2024-08-19 16:48:09",
-      "album": {
-        "name": "To The Sky",
-        "url": "https://open.spotify.com/album/3NRoXf6bsDfw0rHvxEwIau"
-      },
-      "artists": [
-        {
-          "name": "Piero Pirupa",
-          "url": "https://open.spotify.com/artist/5FD9tbbiWd6th8FaOdCtnB"
-        }
-      ],
-      "duration_ms": 158095,
-      "name": "To The Sky - Edit",
-      "url": "https://open.spotify.com/track/5GkdchB8RZ5yABpqIMZTLY"
-    },
-    {
-      "added_at": "2024-08-19 16:48:09",
-      "album": {
-        "name": "Ubana",
-        "url": "https://open.spotify.com/album/1iHQGJ61DUSU57WnrTqiOV"
-      },
-      "artists": [
-        {
-          "name": "Andy Reid",
-          "url": "https://open.spotify.com/artist/5znh0xqBQcvTfJVtget9Ca"
-        }
-      ],
-      "duration_ms": 211200,
-      "name": "Ubana",
-      "url": "https://open.spotify.com/track/6vjGhyzSDwZROpDftP6uYV"
-    },
-    {
-      "added_at": "2024-08-19 16:48:09",
-      "album": {
-        "name": "Dance To The Music",
-        "url": "https://open.spotify.com/album/6zcnuO88B7AClFIH7kB9Vq"
-      },
-      "artists": [
-        {
-          "name": "Low Steppa",
-          "url": "https://open.spotify.com/artist/5OImcY3khBn9UFjzgaapob"
-        },
-        {
-          "name": "Tony Romera",
-          "url": "https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5"
-        }
-      ],
-      "duration_ms": 158095,
-      "name": "Dance To The Music",
-      "url": "https://open.spotify.com/track/0izF9lgQMFggcKXaia48Xa"
-    },
-    {
-      "added_at": "2024-08-19 16:48:09",
-      "album": {
-        "name": "Walk In My Shoes",
-        "url": "https://open.spotify.com/album/38M3IENEJikBU0lcPHeaeJ"
-      },
-      "artists": [
-        {
-          "name": "Dantiez",
-          "url": "https://open.spotify.com/artist/2tavIhWjw7f878Bx9qDTma"
-        },
-        {
-          "name": "Killed Kassette",
-          "url": "https://open.spotify.com/artist/3UF2kQ7JLl8tqOxGWrpvY5"
-        },
-        {
-          "name": "Ann Saunderson",
-          "url": "https://open.spotify.com/artist/3sueakEcMgY1o5Y1SVGqyZ"
-        }
-      ],
-      "duration_ms": 206893,
-      "name": "Walk In My Shoes",
-      "url": "https://open.spotify.com/track/5zjljSlsHEM9UydJ0b0xJZ"
-    },
-    {
-      "added_at": "2024-08-19 16:48:09",
-      "album": {
-        "name": "Release Me",
-        "url": "https://open.spotify.com/album/0tJ2xpt6XRAjBeARDB9JKk"
-      },
-      "artists": [
-        {
-          "name": "Mark Knight",
-          "url": "https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL"
-        },
-        {
-          "name": "Armand Van Helden",
-          "url": "https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE"
-        }
-      ],
-      "duration_ms": 168750,
-      "name": "Release Me",
-      "url": "https://open.spotify.com/track/0dyNRRAiEnX98U4BlZkbfT"
-    },
-    {
-      "added_at": "2024-08-19 16:48:09",
+      "added_at": "2024-10-04 19:42:05",
       "album": {
         "name": "Beggin'",
         "url": "https://open.spotify.com/album/4PCf8xkYY6ZlrQh48AQP1V"
@@ -1057,7 +997,7 @@
       "url": "https://open.spotify.com/track/74nEGIzIefJhJ5qX7NeIAz"
     },
     {
-      "added_at": "2024-08-19 16:48:09",
+      "added_at": "2024-10-04 19:42:05",
       "album": {
         "name": "Jumpin' (Wh0 Remix)",
         "url": "https://open.spotify.com/album/7uKSiaw9KnP0eOthc37p5P"

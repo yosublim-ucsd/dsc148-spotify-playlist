@@ -1,12 +1,12 @@
 {
   "description": "The best new indie tracks from independent artists & labels. Cover: The American Dawn",
-  "num_followers": 227813,
+  "num_followers": 227888,
   "original_name": "Fresh Finds Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zv3ctwAAAAAMXcIp6QYl+lu2RkdOdGfu",
+  "snapshot_id": "ZwAiJAAAAAAMPCpOSWSHwiYf4STvDfuo",
   "tracks": [
     {
       "added_at": "2024-10-02 16:06:48",
@@ -55,6 +55,22 @@
       "duration_ms": 279488,
       "name": "Bloom",
       "url": "https://open.spotify.com/track/0l2rYmDD0V4ikWaw7N6iim"
+    },
+    {
+      "added_at": "2024-10-04 17:13:08",
+      "album": {
+        "name": "I Call To You",
+        "url": "https://open.spotify.com/album/4TS8xCi51mAs0zBDmvOSAy"
+      },
+      "artists": [
+        {
+          "name": "Kelora",
+          "url": "https://open.spotify.com/artist/1KtfXUgc4Xkt0s7trUsmjP"
+        }
+      ],
+      "duration_ms": 163133,
+      "name": "I Call To You",
+      "url": "https://open.spotify.com/track/0xGcFW7E9ZKRXmP7MH2cmM"
     },
     {
       "added_at": "2024-09-25 16:00:00",

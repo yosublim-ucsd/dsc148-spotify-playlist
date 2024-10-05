@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrdTgewhgZq.md) - [plain]
 
 > The most flammable playlist ever\. Travis Scott spitting fire 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,103,083 likes - 99 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,103,157 likes - 99 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrdTgewhgZq.md) - [plain]
 | 8 | [Thorns](https://open.spotify.com/track/1zUqoSVqUE2O5x3MJ0mHz9) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [New World Depression](https://open.spotify.com/album/1lKWIQuLHxdlifTuudutTl) | 2:10 |
 | 9 | [Carry It On](https://open.spotify.com/track/4nhEY6NPHhiNt1ZTDqoZ16) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [HOW TF IS THIS A MIXTAPE?](https://open.spotify.com/album/2bEwLq4zSG4t8f1uF2BHfP) | 2:10 |
 | 10 | [Tailor Swif](https://open.spotify.com/track/5xMjhZKSo8yh5r9b5vrYRr) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Tailor Swif](https://open.spotify.com/album/5r4bE2O6LCLBTjT42RBXwg) | 2:35 |
-| 11 | [Hollon](https://open.spotify.com/track/6XVkJ1fM7NkjODPYI7QbAM) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Hollon](https://open.spotify.com/album/1HCjvCCMusvjNzYWW0p60D) | 2:08 |
+| 11 | [HOLLON](https://open.spotify.com/track/6XVkJ1fM7NkjODPYI7QbAM) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Hollon](https://open.spotify.com/album/1HCjvCCMusvjNzYWW0p60D) | 2:08 |
 | 12 | [Sage](https://open.spotify.com/track/4cn1SeWhEtYq1ndSuhjV5d) | [Rome Streetz](https://open.spotify.com/artist/7c0zOr4ffb5eteXrxWt7oB), [Daringer](https://open.spotify.com/artist/1P0AVHyHvAhFwpDNHiPtcE), [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m) | [Sage](https://open.spotify.com/album/2qHV1yfHyLnuOtW002QreS) | 4:08 |
 | 13 | [Murderman \(feat\. LAZER DIM 700 & VonOff1700\)](https://open.spotify.com/track/6xUjsKn8CsjmEKR6iwv4Mt) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [LAZER DIM 700](https://open.spotify.com/artist/3CE6MgsLpKMDfYFtexgc8U), [VonOff1700](https://open.spotify.com/artist/47UhY4DqayBiq2gp43WOcZ) | [Murderman \(feat\. LAZER DIM 700 & VonOff1700\)](https://open.spotify.com/album/4B1LLdiQmOjJl1EjnjTZke) | 2:46 |
 | 14 | [BLACK FLAG FREESTYLE \(with That Mexican OT\)](https://open.spotify.com/track/5HwYQgUgUsHC3RqfSFMPxq) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA) | [BLACK FLAG FREESTYLE \(with That Mexican OT\)](https://open.spotify.com/album/6LYOGfTHG8i1bmf4FoyV2P) | 3:27 |

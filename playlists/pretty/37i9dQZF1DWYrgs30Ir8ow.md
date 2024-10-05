@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrgs30Ir8ow.md) - [plain]
 
 > Altijd fris in Fresh Hits\. Cover: Frenna
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,376 likes - 40 songs - 1 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,407 likes - 40 songs - 1 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrgs30Ir8ow.md) - [plain]
 | 39 | [Gold](https://open.spotify.com/track/1md0I3tdjPOYLhb6bfU5rD) | [The Vices](https://open.spotify.com/artist/6TSjJlhB2taxea58rCkMkj) | [Gold](https://open.spotify.com/album/0lzD8E6TeZpHw3hMoZEA59) | 2:54 |
 | 40 | [Chills \(Feel My Love\)](https://open.spotify.com/track/0jjE8w7Rtu3NCImWhKKX8x) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb) | [Chills \(Feel My Love\)](https://open.spotify.com/album/5D3qYKt4IFBEQENqzzlh1Y) | 2:43 |
 
-Snapshot ID: `Zv8T4AAAAAC+f9qucFWuCH21HH1Wy5lw`
+Snapshot ID: `Zv+9gQAAAABkABhhfpSa25gDp8zrJOqg`

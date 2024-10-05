@@ -1,6 +1,6 @@
 {
   "description": "Covers of classic songs with a touch of Jazz. Cover: Joey Alexander",
-  "num_followers": 135301,
+  "num_followers": 135365,
   "original_name": "Jazz Covers",
   "owner": {
     "name": "Spotify",
@@ -143,22 +143,6 @@
     {
       "added_at": "2024-06-13 12:46:03",
       "album": {
-        "name": "Take To The Sky",
-        "url": "https://open.spotify.com/album/1MqGJoEKazTWPX0HaA17L2"
-      },
-      "artists": [
-        {
-          "name": "Kat Edmonson",
-          "url": "https://open.spotify.com/artist/6WxegST7d2jCYjq7SR8Bds"
-        }
-      ],
-      "duration_ms": 252200,
-      "name": "Just Like Heaven",
-      "url": "https://open.spotify.com/track/1cfxSquzIuVUXxG7yfUmwF"
-    },
-    {
-      "added_at": "2024-06-13 12:46:03",
-      "album": {
         "name": "Wallflower",
         "url": "https://open.spotify.com/album/6xUodRTpBiWXfQwPVZ5hIN"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 197146,
       "name": "California Dreamin'",
       "url": "https://open.spotify.com/track/14IV6ycAWxurGj5KvHtNAT"
+    },
+    {
+      "added_at": "2024-06-13 12:46:03",
+      "album": {
+        "name": "Take To The Sky",
+        "url": "https://open.spotify.com/album/1MqGJoEKazTWPX0HaA17L2"
+      },
+      "artists": [
+        {
+          "name": "Kat Edmonson",
+          "url": "https://open.spotify.com/artist/6WxegST7d2jCYjq7SR8Bds"
+        }
+      ],
+      "duration_ms": 252200,
+      "name": "Just Like Heaven",
+      "url": "https://open.spotify.com/track/1cfxSquzIuVUXxG7yfUmwF"
     },
     {
       "added_at": "2024-06-13 12:46:03",
@@ -267,22 +267,6 @@
     {
       "added_at": "2024-06-13 12:46:03",
       "album": {
-        "name": "Wallflower",
-        "url": "https://open.spotify.com/album/6xUodRTpBiWXfQwPVZ5hIN"
-      },
-      "artists": [
-        {
-          "name": "Diana Krall",
-          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
-        }
-      ],
-      "duration_ms": 232866,
-      "name": "I'm Not In Love",
-      "url": "https://open.spotify.com/track/7tJfyCZz0x7QwboxTjVPnc"
-    },
-    {
-      "added_at": "2024-06-13 12:46:03",
-      "album": {
         "name": "Sunday Morning",
         "url": "https://open.spotify.com/album/6yYoYbMFB4I37AgBBsbKMy"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 273626,
       "name": "Suzanne (feat. Gregory Porter)",
       "url": "https://open.spotify.com/track/2IYWqinJpFhid2qRqnqPDA"
+    },
+    {
+      "added_at": "2024-06-13 12:46:03",
+      "album": {
+        "name": "Wallflower",
+        "url": "https://open.spotify.com/album/6xUodRTpBiWXfQwPVZ5hIN"
+      },
+      "artists": [
+        {
+          "name": "Diana Krall",
+          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
+        }
+      ],
+      "duration_ms": 232866,
+      "name": "I'm Not In Love",
+      "url": "https://open.spotify.com/track/7tJfyCZz0x7QwboxTjVPnc"
     },
     {
       "added_at": "2024-06-13 12:46:03",
@@ -791,22 +791,6 @@
     {
       "added_at": "2024-06-13 12:46:03",
       "album": {
-        "name": "My New Old Friend",
-        "url": "https://open.spotify.com/album/2jvq28Yfjk0Wal4cH5xUtr"
-      },
-      "artists": [
-        {
-          "name": "Alan Pasqua",
-          "url": "https://open.spotify.com/artist/1QDou4hCker2eGblLzIq80"
-        }
-      ],
-      "duration_ms": 358453,
-      "name": "Wichita Lineman",
-      "url": "https://open.spotify.com/track/4ytxg5HNzbG1Y8CdZLtQj2"
-    },
-    {
-      "added_at": "2024-06-13 12:46:03",
-      "album": {
         "name": "Don't Know Why",
         "url": "https://open.spotify.com/album/0cBXrplymCEbiJsABgYkV8"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 179198,
       "name": "Don't Know Why",
       "url": "https://open.spotify.com/track/16F8ZSX2jOtcBQrKdVryWe"
+    },
+    {
+      "added_at": "2024-06-13 12:46:03",
+      "album": {
+        "name": "My New Old Friend",
+        "url": "https://open.spotify.com/album/2jvq28Yfjk0Wal4cH5xUtr"
+      },
+      "artists": [
+        {
+          "name": "Alan Pasqua",
+          "url": "https://open.spotify.com/artist/1QDou4hCker2eGblLzIq80"
+        }
+      ],
+      "duration_ms": 358453,
+      "name": "Wichita Lineman",
+      "url": "https://open.spotify.com/track/4ytxg5HNzbG1Y8CdZLtQj2"
     },
     {
       "added_at": "2024-06-13 12:46:03",
@@ -1087,6 +1087,26 @@
     {
       "added_at": "2024-06-13 12:46:03",
       "album": {
+        "name": "Still We Dream",
+        "url": "https://open.spotify.com/album/0k5jjWYe4MCUgU1oX4vo9l"
+      },
+      "artists": [
+        {
+          "name": "Donatella Montinaro",
+          "url": "https://open.spotify.com/artist/0C4L4Wip7dcoY9jYr5gn6G"
+        },
+        {
+          "name": "Danilo Tarso",
+          "url": "https://open.spotify.com/artist/0HlyGInx05IRKHKDRVVaTY"
+        }
+      ],
+      "duration_ms": 353941,
+      "name": "Vincent",
+      "url": "https://open.spotify.com/track/6adWVN7hPrztmftktK3zES"
+    },
+    {
+      "added_at": "2024-06-13 12:46:03",
+      "album": {
         "name": "A Modern Songbook",
         "url": "https://open.spotify.com/album/1AXxMgXOJfn5Qdnz7V9y1H"
       },
@@ -1107,26 +1127,6 @@
       "duration_ms": 265546,
       "name": "Lean on Me - Live",
       "url": "https://open.spotify.com/track/2jNw83C2mRYWCLNiqGZ4GQ"
-    },
-    {
-      "added_at": "2024-06-13 12:46:03",
-      "album": {
-        "name": "Still We Dream",
-        "url": "https://open.spotify.com/album/0k5jjWYe4MCUgU1oX4vo9l"
-      },
-      "artists": [
-        {
-          "name": "Donatella Montinaro",
-          "url": "https://open.spotify.com/artist/0C4L4Wip7dcoY9jYr5gn6G"
-        },
-        {
-          "name": "Danilo Tarso",
-          "url": "https://open.spotify.com/artist/0HlyGInx05IRKHKDRVVaTY"
-        }
-      ],
-      "duration_ms": 353941,
-      "name": "Vincent",
-      "url": "https://open.spotify.com/track/6adWVN7hPrztmftktK3zES"
     },
     {
       "added_at": "2024-06-13 12:46:03",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2024-06-13 12:46:03",
       "album": {
-        "name": "Oliver Nelson Plays Michelle",
-        "url": "https://open.spotify.com/album/4gpVcA06Od08ym7LDyQ0qw"
-      },
-      "artists": [
-        {
-          "name": "Oliver Nelson",
-          "url": "https://open.spotify.com/artist/2nQKUeZeleLGNsJj6WLUXN"
-        }
-      ],
-      "duration_ms": 162480,
-      "name": "Yesterday",
-      "url": "https://open.spotify.com/track/6c6XaTu2VM32NHxtYZUWMY"
-    },
-    {
-      "added_at": "2024-06-13 12:46:03",
-      "album": {
         "name": "I Can't Make You Love Me",
         "url": "https://open.spotify.com/album/0K8DP9CTrhqHlRXLCfRB3a"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 266333,
       "name": "I Can't Make You Love Me",
       "url": "https://open.spotify.com/track/7axFvcS9zMo6Pug8edH7VO"
+    },
+    {
+      "added_at": "2024-06-13 12:46:03",
+      "album": {
+        "name": "Oliver Nelson Plays Michelle",
+        "url": "https://open.spotify.com/album/4gpVcA06Od08ym7LDyQ0qw"
+      },
+      "artists": [
+        {
+          "name": "Oliver Nelson",
+          "url": "https://open.spotify.com/artist/2nQKUeZeleLGNsJj6WLUXN"
+        }
+      ],
+      "duration_ms": 162480,
+      "name": "Yesterday",
+      "url": "https://open.spotify.com/track/6c6XaTu2VM32NHxtYZUWMY"
     },
     {
       "added_at": "2024-06-13 12:46:03",
@@ -1607,26 +1607,6 @@
     {
       "added_at": "2024-06-13 12:46:03",
       "album": {
-        "name": "Here It Is: A Tribute to Leonard Cohen",
-        "url": "https://open.spotify.com/album/7dcCXRBgb3p86KCg4ZUTff"
-      },
-      "artists": [
-        {
-          "name": "Here It Is",
-          "url": "https://open.spotify.com/artist/1QtALu1sicFWJUIkm4fABw"
-        },
-        {
-          "name": "Luciana Souza",
-          "url": "https://open.spotify.com/artist/0cv8X9QNT0s3OHfVVeNWkM"
-        }
-      ],
-      "duration_ms": 252680,
-      "name": "Hey, That's No Way To Say Goodbye",
-      "url": "https://open.spotify.com/track/3hYpCh0PFTvXBLmtFs5E6Y"
-    },
-    {
-      "added_at": "2024-06-13 12:46:03",
-      "album": {
         "name": "Only Love Can Break Your Heart",
         "url": "https://open.spotify.com/album/1E0PKpMCxtVth7DecWQfYk"
       },
@@ -1663,6 +1643,26 @@
       "duration_ms": 263253,
       "name": "Strong",
       "url": "https://open.spotify.com/track/0iJhPjzqVlPsvmzwT8PRtF"
+    },
+    {
+      "added_at": "2024-06-13 12:46:03",
+      "album": {
+        "name": "Here It Is: A Tribute to Leonard Cohen",
+        "url": "https://open.spotify.com/album/7dcCXRBgb3p86KCg4ZUTff"
+      },
+      "artists": [
+        {
+          "name": "Here It Is",
+          "url": "https://open.spotify.com/artist/1QtALu1sicFWJUIkm4fABw"
+        },
+        {
+          "name": "Luciana Souza",
+          "url": "https://open.spotify.com/artist/0cv8X9QNT0s3OHfVVeNWkM"
+        }
+      ],
+      "duration_ms": 252680,
+      "name": "Hey, That's No Way To Say Goodbye",
+      "url": "https://open.spotify.com/track/3hYpCh0PFTvXBLmtFs5E6Y"
     },
     {
       "added_at": "2024-06-13 12:46:03",

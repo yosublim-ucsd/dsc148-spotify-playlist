@@ -245,6 +245,28 @@
     },
     {
       "album": {
+        "name": "Alone (feat. BhadBoi OML)",
+        "url": "https://open.spotify.com/album/6xw343HvlZYSXRti7sdWgP"
+      },
+      "artists": [
+        {
+          "name": "FOLA",
+          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
+        },
+        {
+          "name": "BhadBoi OML",
+          "url": "https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153098,
+      "name": "Alone (feat. BhadBoi OML)",
+      "url": "https://open.spotify.com/track/37PVItglTwpHi9nq0ftOjg"
+    },
+    {
+      "album": {
         "name": "Amdallah",
         "url": "https://open.spotify.com/album/5Xd5kbHU5hpjwnVVcn2zb7"
       },
@@ -1156,6 +1178,24 @@
       "duration_ms": 162471,
       "name": "Calm Down",
       "url": "https://open.spotify.com/track/1fDC4IXBlkHuAPugpCDqOo"
+    },
+    {
+      "album": {
+        "name": "Homeless",
+        "url": "https://open.spotify.com/album/3FKJJUAE8VhRVFvrRPQuaP"
+      },
+      "artists": [
+        {
+          "name": "Llona",
+          "url": "https://open.spotify.com/artist/3hz0ZIs5SlEnlK0ML7FmNc"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142120,
+      "name": "Can't Breathe",
+      "url": "https://open.spotify.com/track/1edi2KPh2oghMy8ExJiFBN"
     },
     {
       "album": {
@@ -2893,6 +2933,32 @@
     },
     {
       "album": {
+        "name": "For The Love of R&B Vol 1",
+        "url": "https://open.spotify.com/album/14Vvfpl0hS8n1r3GGIKzoZ"
+      },
+      "artists": [
+        {
+          "name": "MAUIM\u00d8ON",
+          "url": "https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b"
+        },
+        {
+          "name": "La So\u00fclchyld",
+          "url": "https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV"
+        },
+        {
+          "name": "Zowie Kengocha",
+          "url": "https://open.spotify.com/artist/2lwHCnbymJQL6WUDaEKdci"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249939,
+      "name": "HURTS LIKE HEAVEN",
+      "url": "https://open.spotify.com/track/12X4xWpq0wNgHNDtyJhI2E"
+    },
+    {
+      "album": {
         "name": "Chequemate",
         "url": "https://open.spotify.com/album/2EPnjTlC52Hr4LPIHNjcjt"
       },
@@ -3024,7 +3090,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 136719,
       "name": "If I Be You",
       "url": "https://open.spotify.com/track/6hzPMSoUJxMJkNkTCHaDni"
@@ -3938,7 +4004,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 151456,
       "name": "Loner (Alone)",
       "url": "https://open.spotify.com/track/2zFt35JaZM7uOvgXVHBplT"
@@ -4024,7 +4090,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 209428,
       "name": "Love Crazy",
       "url": "https://open.spotify.com/track/5Acwr0mjep10AslfyFdqNv"
@@ -5118,6 +5184,24 @@
       "duration_ms": 191976,
       "name": "Outside",
       "url": "https://open.spotify.com/track/7scINjDU13FTbCakH7bf2E"
+    },
+    {
+      "album": {
+        "name": "Ouu wee (brown)",
+        "url": "https://open.spotify.com/album/0g8LWq9ClBfOkass2cIeYl"
+      },
+      "artists": [
+        {
+          "name": "Mannywellz",
+          "url": "https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166285,
+      "name": "Ouu wee (brown)",
+      "url": "https://open.spotify.com/track/1AhteYWd9IcNqUXEktUlfi"
     },
     {
       "album": {
@@ -7040,7 +7124,7 @@
       ],
       "date_added": "2024-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 190664,
       "name": "Way Back",
       "url": "https://open.spotify.com/track/5rOGgvxkgMOn5ZhyLHLDFz"

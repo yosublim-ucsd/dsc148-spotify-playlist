@@ -1,13 +1,29 @@
 {
-  "description": "Chill r&b vibes for your most relaxed moods. Cover: Sasha Keable & 6LACK",
-  "num_followers": 2355472,
+  "description": "Chill r&b vibes for your most relaxed moods. Cover: Leon Thomas",
+  "num_followers": 2355573,
   "original_name": "Chilled R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvYtwAAAAACemLG4kNYxzqgDT/qrYrMl",
+  "snapshot_id": "Zv+eswAAAAAPBgNX1815g/nFE5vtTvln",
   "tracks": [
+    {
+      "added_at": "2024-09-27 04:00:00",
+      "album": {
+        "name": "MUTT",
+        "url": "https://open.spotify.com/album/0SzoksypeognxYJJOJEYip"
+      },
+      "artists": [
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "duration_ms": 201567,
+      "name": "VIBES DON'T LIE",
+      "url": "https://open.spotify.com/track/1WwrfoGe0K33z1tVI6mevJ"
+    },
     {
       "added_at": "2024-09-27 04:00:00",
       "album": {
@@ -49,22 +65,6 @@
       "url": "https://open.spotify.com/track/7G8ikmLayId5II6mKYnz9D"
     },
     {
-      "added_at": "2024-09-27 04:00:00",
-      "album": {
-        "name": "MUTT",
-        "url": "https://open.spotify.com/album/0SzoksypeognxYJJOJEYip"
-      },
-      "artists": [
-        {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        }
-      ],
-      "duration_ms": 201567,
-      "name": "VIBES DON'T LIE",
-      "url": "https://open.spotify.com/track/1WwrfoGe0K33z1tVI6mevJ"
-    },
-    {
       "added_at": "2024-07-19 04:04:58",
       "album": {
         "name": "I'll Always Come Find You",
@@ -81,22 +81,6 @@
       "url": "https://open.spotify.com/track/6dfCnnBrqYANJSU3tpG5pI"
     },
     {
-      "added_at": "2024-08-23 05:05:01",
-      "album": {
-        "name": "Kissing In Da Club",
-        "url": "https://open.spotify.com/album/5NqEMtMuEbO6RGgHOfJ9sP"
-      },
-      "artists": [
-        {
-          "name": "PHABO",
-          "url": "https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn"
-        }
-      ],
-      "duration_ms": 147317,
-      "name": "Kissing In Da Club",
-      "url": "https://open.spotify.com/track/4S54f2Nkw5F44UA2ib54CA"
-    },
-    {
       "added_at": "2024-09-27 04:00:00",
       "album": {
         "name": "FOR THE BOY IN ME",
@@ -111,6 +95,42 @@
       "duration_ms": 279746,
       "name": "NARCISSIST?",
       "url": "https://open.spotify.com/track/1MwXXI0buiiwEsZ9d6RBZ9"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "JRNY",
+        "url": "https://open.spotify.com/album/0ScSPughEFitl5bfKlhvTb"
+      },
+      "artists": [
+        {
+          "name": "Jordan Ward",
+          "url": "https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf"
+        },
+        {
+          "name": "Joony",
+          "url": "https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35"
+        }
+      ],
+      "duration_ms": 142826,
+      "name": "One Too Many Times",
+      "url": "https://open.spotify.com/track/1tyANymMluyGd8gb7ZKdha"
+    },
+    {
+      "added_at": "2024-08-23 05:05:01",
+      "album": {
+        "name": "Kissing In Da Club",
+        "url": "https://open.spotify.com/album/5NqEMtMuEbO6RGgHOfJ9sP"
+      },
+      "artists": [
+        {
+          "name": "PHABO",
+          "url": "https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn"
+        }
+      ],
+      "duration_ms": 147317,
+      "name": "Kissing In Da Club",
+      "url": "https://open.spotify.com/track/4S54f2Nkw5F44UA2ib54CA"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -149,40 +169,24 @@
       "url": "https://open.spotify.com/track/2Sv6CK2NjQR1zaieWkO6cq"
     },
     {
-      "added_at": "2024-09-06 04:00:00",
+      "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "F.N.F.",
-        "url": "https://open.spotify.com/album/7gzqH0PKc53laMxTX3UxpR"
+        "name": "JAGUAR II : Deluxe",
+        "url": "https://open.spotify.com/album/7mHd5i7hgpHiMM3BFyfRdn"
       },
       "artists": [
         {
-          "name": "Nippa",
-          "url": "https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq"
-        }
-      ],
-      "duration_ms": 129029,
-      "name": "F.N.F.",
-      "url": "https://open.spotify.com/track/62U8RzKdwxhEKfJc9t0NYg"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
-        "name": "Lungu Boy",
-        "url": "https://open.spotify.com/album/3kS42vslfpYnxWkGN4JvlW"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
         },
         {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+          "name": "Thundercat",
+          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
         }
       ],
-      "duration_ms": 219628,
-      "name": "MMS",
-      "url": "https://open.spotify.com/track/13VXuHw3O8Yt7VwRIDqSo4"
+      "duration_ms": 228639,
+      "name": "Don't Sleep (feat. Thundercat)",
+      "url": "https://open.spotify.com/track/3p0xEoo2jRjshhCplkF8S5"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -207,18 +211,18 @@
     {
       "added_at": "2024-09-27 04:00:00",
       "album": {
-        "name": "COYOTE",
-        "url": "https://open.spotify.com/album/7c60QdnpXI2efwnUaIzQSu"
+        "name": "MUTT",
+        "url": "https://open.spotify.com/album/0SzoksypeognxYJJOJEYip"
       },
       "artists": [
         {
-          "name": "Tommy Richman",
-          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
         }
       ],
-      "duration_ms": 187875,
-      "name": "GREEN THERAPY",
-      "url": "https://open.spotify.com/track/3QH8Cl0fSrMnvHyQeMuer5"
+      "duration_ms": 228047,
+      "name": "YES IT IS",
+      "url": "https://open.spotify.com/track/2iksjpqL3eraxCBKqNHuqd"
     },
     {
       "added_at": "2024-06-14 06:33:56",
@@ -249,26 +253,6 @@
       "url": "https://open.spotify.com/track/0idhCXzizPkiwfUnhM28ld"
     },
     {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
-        "name": "Jealousy",
-        "url": "https://open.spotify.com/album/69vJR99yBLY3ETEi4yl0Mk"
-      },
-      "artists": [
-        {
-          "name": "Jordan Ward",
-          "url": "https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf"
-        },
-        {
-          "name": "Joony",
-          "url": "https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35"
-        }
-      ],
-      "duration_ms": 191940,
-      "name": "Jealousy",
-      "url": "https://open.spotify.com/track/1y5n54EBmBwDyjnOk9bzzB"
-    },
-    {
       "added_at": "2024-09-27 04:00:00",
       "album": {
         "name": "Centigrade. (feat. Nao)",
@@ -289,6 +273,58 @@
       "url": "https://open.spotify.com/track/3cQLR1SFDxoJ8LTHYmFALQ"
     },
     {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "Lungu Boy",
+        "url": "https://open.spotify.com/album/3kS42vslfpYnxWkGN4JvlW"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 219628,
+      "name": "MMS",
+      "url": "https://open.spotify.com/track/13VXuHw3O8Yt7VwRIDqSo4"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "F.N.F.",
+        "url": "https://open.spotify.com/album/7gzqH0PKc53laMxTX3UxpR"
+      },
+      "artists": [
+        {
+          "name": "Nippa",
+          "url": "https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq"
+        }
+      ],
+      "duration_ms": 129029,
+      "name": "F.N.F.",
+      "url": "https://open.spotify.com/track/62U8RzKdwxhEKfJc9t0NYg"
+    },
+    {
+      "added_at": "2024-09-27 04:00:00",
+      "album": {
+        "name": "COYOTE",
+        "url": "https://open.spotify.com/album/7c60QdnpXI2efwnUaIzQSu"
+      },
+      "artists": [
+        {
+          "name": "Tommy Richman",
+          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
+        }
+      ],
+      "duration_ms": 187875,
+      "name": "GREEN THERAPY",
+      "url": "https://open.spotify.com/track/3QH8Cl0fSrMnvHyQeMuer5"
+    },
+    {
       "added_at": "2024-08-16 04:00:00",
       "album": {
         "name": "FOREVER",
@@ -303,6 +339,26 @@
       "duration_ms": 269055,
       "name": "FOREVER",
       "url": "https://open.spotify.com/track/7gqM91bnZpu2hmylITqpFU"
+    },
+    {
+      "added_at": "2024-10-04 07:52:19",
+      "album": {
+        "name": "Love's Letter (Deluxe)",
+        "url": "https://open.spotify.com/album/1wmUwj9AEOuWtq9eyZjvy2"
+      },
+      "artists": [
+        {
+          "name": "Shae Universe",
+          "url": "https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N"
+        },
+        {
+          "name": "Nao",
+          "url": "https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC"
+        }
+      ],
+      "duration_ms": 252818,
+      "name": "Oh, Wait... (feat. Nao)",
+      "url": "https://open.spotify.com/track/7Fqzaae0xPvPFe2g4MJY09"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -361,20 +417,24 @@
       "url": "https://open.spotify.com/track/2iNMrWUMlqf03NrHCQZY71"
     },
     {
-      "added_at": "2024-09-27 04:00:00",
+      "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "MUTT",
-        "url": "https://open.spotify.com/album/0SzoksypeognxYJJOJEYip"
+        "name": "Jealousy",
+        "url": "https://open.spotify.com/album/69vJR99yBLY3ETEi4yl0Mk"
       },
       "artists": [
         {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+          "name": "Jordan Ward",
+          "url": "https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf"
+        },
+        {
+          "name": "Joony",
+          "url": "https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35"
         }
       ],
-      "duration_ms": 228047,
-      "name": "YES IT IS",
-      "url": "https://open.spotify.com/track/2iksjpqL3eraxCBKqNHuqd"
+      "duration_ms": 191940,
+      "name": "Jealousy",
+      "url": "https://open.spotify.com/track/1y5n54EBmBwDyjnOk9bzzB"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -401,7 +461,27 @@
       "url": "https://open.spotify.com/track/4BMH1sCsVtRe0AHY7OKuI3"
     },
     {
-      "added_at": "2024-09-20 04:00:00",
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "AUCTION",
+        "url": "https://open.spotify.com/album/3kwxfS6aFImHEPU3XW85CU"
+      },
+      "artists": [
+        {
+          "name": "Sasha Keable",
+          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
+        },
+        {
+          "name": "DESTIN CONRAD",
+          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+        }
+      ],
+      "duration_ms": 200500,
+      "name": "AUCTION",
+      "url": "https://open.spotify.com/track/1yhFfvsXLCagHMJuPZllJD"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
       "album": {
         "name": "Orion",
         "url": "https://open.spotify.com/album/735gHf5O9KuZlPaXUqilzl"
@@ -412,9 +492,9 @@
           "url": "https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m"
         }
       ],
-      "duration_ms": 144133,
-      "name": "If I Never See You Again",
-      "url": "https://open.spotify.com/track/3cEuOEpVmWnvF4RES78ZZi"
+      "duration_ms": 174266,
+      "name": "Sweet",
+      "url": "https://open.spotify.com/track/4loQPdrZajkHuZTI0Qrhx1"
     },
     {
       "added_at": "2024-09-27 04:00:00",
@@ -449,24 +529,36 @@
       "url": "https://open.spotify.com/track/6yWain3Q65m9WJzq48q24f"
     },
     {
-      "added_at": "2024-07-12 04:00:00",
+      "added_at": "2024-06-21 06:16:54",
       "album": {
-        "name": "AUCTION",
-        "url": "https://open.spotify.com/album/3kwxfS6aFImHEPU3XW85CU"
+        "name": "eyes wide open",
+        "url": "https://open.spotify.com/album/4uCsGsDDZQbhDsb8ujwenV"
       },
       "artists": [
         {
-          "name": "Sasha Keable",
-          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
-        },
-        {
-          "name": "DESTIN CONRAD",
-          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+          "name": "kwn",
+          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
         }
       ],
-      "duration_ms": 200500,
-      "name": "AUCTION",
-      "url": "https://open.spotify.com/track/1yhFfvsXLCagHMJuPZllJD"
+      "duration_ms": 153648,
+      "name": "eyes wide open",
+      "url": "https://open.spotify.com/track/6TQtwV4QG19SzCVG5F2RkC"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Natural",
+        "url": "https://open.spotify.com/album/0WIyYFQocA0dNHDuABS3nl"
+      },
+      "artists": [
+        {
+          "name": "Kiana Led\u00e9",
+          "url": "https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs"
+        }
+      ],
+      "duration_ms": 183799,
+      "name": "Natural",
+      "url": "https://open.spotify.com/track/4CDIfDhXDeewj7x0U4AT4i"
     },
     {
       "added_at": "2024-08-23 05:05:01",
@@ -499,6 +591,22 @@
       "duration_ms": 135533,
       "name": "Stranger - loop",
       "url": "https://open.spotify.com/track/2qReqmTNGm1hQG3wmar4EC"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Lahai - Deluxe",
+        "url": "https://open.spotify.com/album/0oKro6GftR6X0sk7fVH7T8"
+      },
+      "artists": [
+        {
+          "name": "Sampha",
+          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
+        }
+      ],
+      "duration_ms": 226495,
+      "name": "Dancing Circles 2.0",
+      "url": "https://open.spotify.com/track/3C5eqElWp0s4of3vTU37bF"
     },
     {
       "added_at": "2024-09-27 04:00:00",
@@ -555,22 +663,6 @@
       "duration_ms": 220122,
       "name": "Passenger Princess (feat. Aqyila)",
       "url": "https://open.spotify.com/track/2dwRIUAoAaPlHIq8LUI99v"
-    },
-    {
-      "added_at": "2024-06-21 06:16:54",
-      "album": {
-        "name": "eyes wide open",
-        "url": "https://open.spotify.com/album/4uCsGsDDZQbhDsb8ujwenV"
-      },
-      "artists": [
-        {
-          "name": "kwn",
-          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
-        }
-      ],
-      "duration_ms": 153648,
-      "name": "eyes wide open",
-      "url": "https://open.spotify.com/track/6TQtwV4QG19SzCVG5F2RkC"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -849,6 +941,22 @@
       "url": "https://open.spotify.com/track/58y8IFGLZMskPTDpO0XbnI"
     },
     {
+      "added_at": "2024-10-04 07:52:19",
+      "album": {
+        "name": "JAGUAR II : Deluxe",
+        "url": "https://open.spotify.com/album/7mHd5i7hgpHiMM3BFyfRdn"
+      },
+      "artists": [
+        {
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+        }
+      ],
+      "duration_ms": 211673,
+      "name": "The Greatest",
+      "url": "https://open.spotify.com/track/5yj2vuiZ2tz5pIKKj4rVby"
+    },
+    {
       "added_at": "2024-06-28 04:00:00",
       "album": {
         "name": "Algorithm",
@@ -1077,22 +1185,6 @@
       "url": "https://open.spotify.com/track/0vtTKF9vZSaPY81sNHwpz4"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Waiting On You",
-        "url": "https://open.spotify.com/album/03niz1guXkCijhBFZoI4iK"
-      },
-      "artists": [
-        {
-          "name": "Elaine",
-          "url": "https://open.spotify.com/artist/5ZkuGe2wkDbeL8JmmhvMOx"
-        }
-      ],
-      "duration_ms": 163555,
-      "name": "Waiting On You",
-      "url": "https://open.spotify.com/track/19opeo8ALZ3XNBnwI346xv"
-    },
-    {
       "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "CRYBABY",
@@ -1195,22 +1287,6 @@
       "duration_ms": 171154,
       "name": "All I Want",
       "url": "https://open.spotify.com/track/25AgUosXE7BMGq2TE9P58J"
-    },
-    {
-      "added_at": "2024-07-19 04:04:58",
-      "album": {
-        "name": "Ground",
-        "url": "https://open.spotify.com/album/44kxeIVSEqnpZKnPHb2Lhw"
-      },
-      "artists": [
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        }
-      ],
-      "duration_ms": 182093,
-      "name": "Ground",
-      "url": "https://open.spotify.com/track/5O0EFJLBBQb0byw3t6ycw9"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -1611,22 +1687,6 @@
       "duration_ms": 228003,
       "name": "STRANGER",
       "url": "https://open.spotify.com/track/7yuWa5XIv2HqqZsbigXZOZ"
-    },
-    {
-      "added_at": "2024-06-07 11:27:49",
-      "album": {
-        "name": "Vintage",
-        "url": "https://open.spotify.com/album/1jSLdeIc8Fnb4dOrzpStWg"
-      },
-      "artists": [
-        {
-          "name": "Moses Sumney",
-          "url": "https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn"
-        }
-      ],
-      "duration_ms": 222826,
-      "name": "Vintage",
-      "url": "https://open.spotify.com/track/0EQt3hJTjy2dYuxZp3cqo9"
     },
     {
       "added_at": "2024-05-03 15:06:51",
@@ -2079,22 +2139,6 @@
       "duration_ms": 150706,
       "name": "All In",
       "url": "https://open.spotify.com/track/0BrDLkPp6BpWJinhCxqyDK"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
-        "name": "Love's Letter",
-        "url": "https://open.spotify.com/album/2WCUgddua4H6GiwTBK6Zom"
-      },
-      "artists": [
-        {
-          "name": "Shae Universe",
-          "url": "https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N"
-        }
-      ],
-      "duration_ms": 250462,
-      "name": "Oh, Wait...",
-      "url": "https://open.spotify.com/track/4AG0bAu5QvQacdyOhQLYqF"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -2635,26 +2679,6 @@
       "duration_ms": 195000,
       "name": "Moment Of Your Life",
       "url": "https://open.spotify.com/track/6ffrYPrHM70FScnrtHIcPh"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "Snooze (Acoustic) (feat. Justin Bieber)",
-        "url": "https://open.spotify.com/album/0bQ8NyqdTKKQpZHYhZqCUU"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        },
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 190464,
-      "name": "Snooze (Acoustic) (feat. Justin Bieber)",
-      "url": "https://open.spotify.com/track/5YABYtKx9qa56vBjlXDbmw"
     },
     {
       "added_at": "2023-09-15 04:00:00",

@@ -2237,6 +2237,28 @@
     },
     {
       "album": {
+        "name": "RRR",
+        "url": "https://open.spotify.com/album/3qzW3ECUvV4xb6MpHEnSAW"
+      },
+      "artists": [
+        {
+          "name": "Rahul Sipligunj",
+          "url": "https://open.spotify.com/artist/1H4ZvA2yyK7wCmbvEUWvPn"
+        },
+        {
+          "name": "Yazin Nizar",
+          "url": "https://open.spotify.com/artist/2pVurQy6iuWWx707gilSdX"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214495,
+      "name": "Naattu Koothu",
+      "url": "https://open.spotify.com/track/7IV5c9eF72Y9FxRQaHJ0bd"
+    },
+    {
+      "album": {
         "name": "Biriyani (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/19ByOiM4yu0ETa2HNYng86"
       },

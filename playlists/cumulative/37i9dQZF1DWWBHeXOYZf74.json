@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-07-30",
-  "description": "Genre-less. Quality first always. Cover: ROSAL\u00cdA & Ralphie Choo",
+  "description": "Genre-less. Quality first always. Cover: Ela Minus",
   "name": "POLLEN",
   "tracks": [
     {
@@ -332,7 +332,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 165007,
       "name": "1 of 1",
       "url": "https://open.spotify.com/track/4G67MRybTVTYariSY5WBXB"
@@ -2960,7 +2960,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 228040,
       "name": "Already Gone",
       "url": "https://open.spotify.com/track/6QrQIAcvX1OZ0UrOjj2mrJ"
@@ -6834,7 +6834,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 212266,
       "name": "booboo",
       "url": "https://open.spotify.com/track/1wNGpQSw15a7rXjtcK4hK8"
@@ -7331,6 +7331,24 @@
     },
     {
       "album": {
+        "name": "BROKEN",
+        "url": "https://open.spotify.com/album/1aHlFkhxyz1Yxmb7sgQh24"
+      },
+      "artists": [
+        {
+          "name": "Ela Minus",
+          "url": "https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271435,
+      "name": "BROKEN",
+      "url": "https://open.spotify.com/track/3n4FkCfKlscDqYPMcTBdXm"
+    },
+    {
+      "album": {
         "name": "Ylang Ylang",
         "url": "https://open.spotify.com/album/0XDFqabhSdDZKXVRagKz51"
       },
@@ -7604,6 +7622,28 @@
       "duration_ms": 199773,
       "name": "Burn Out",
       "url": "https://open.spotify.com/track/2KpJM6DS8TaUOTWt0GbB19"
+    },
+    {
+      "album": {
+        "name": "JRNY",
+        "url": "https://open.spotify.com/album/0ScSPughEFitl5bfKlhvTb"
+      },
+      "artists": [
+        {
+          "name": "Jordan Ward",
+          "url": "https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf"
+        },
+        {
+          "name": "Joony",
+          "url": "https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142666,
+      "name": "Burning Rubber",
+      "url": "https://open.spotify.com/track/1vExubRVvilXeSg8S1IjBK"
     },
     {
       "album": {
@@ -8888,7 +8928,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 156093,
       "name": "CD-R",
       "url": "https://open.spotify.com/track/3O2bJXHcrHii4SHGAEc0Wc"
@@ -9564,6 +9604,24 @@
       "duration_ms": 195408,
       "name": "Circle Back Around",
       "url": "https://open.spotify.com/track/222xHxHw2MXwNX2qRFO6cB"
+    },
+    {
+      "album": {
+        "name": "Circle Games",
+        "url": "https://open.spotify.com/album/1GYjylMo8zY4kxIsOgKHSD"
+      },
+      "artists": [
+        {
+          "name": "urika's bedroom",
+          "url": "https://open.spotify.com/artist/6LhbOssuAbrXa5Wzcskhhw"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249761,
+      "name": "Circle Games",
+      "url": "https://open.spotify.com/track/6VZRm4X4getEc5XG1wqDe5"
     },
     {
       "album": {
@@ -10740,7 +10798,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 239786,
       "name": "Counting Sheep",
       "url": "https://open.spotify.com/track/4NpAzMDcTuIDMo04AOgDvS"
@@ -18512,7 +18570,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 157998,
       "name": "GEMINI",
       "url": "https://open.spotify.com/track/5j99dfS5X643RxuJdyizt3"
@@ -18957,7 +19015,7 @@
     },
     {
       "album": {
-        "name": "EDITS",
+        "name": "Great Doubt (EDITS)",
         "url": "https://open.spotify.com/album/3Q4ckErENVJA9V1nx3pMS4"
       },
       "artists": [
@@ -18974,7 +19032,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 190849,
-      "name": "Give my all - Blood Orange Edit",
+      "name": "Give my all - Blood Orange EDIT",
       "url": "https://open.spotify.com/track/7pIZ4V6hb57l25JMAwPXg7"
     },
     {
@@ -19778,6 +19836,24 @@
       "duration_ms": 263986,
       "name": "Got Me (feat. Julia Stone)",
       "url": "https://open.spotify.com/track/1EBDX2eMMsaUwLjWAde0Cm"
+    },
+    {
+      "album": {
+        "name": "Honey",
+        "url": "https://open.spotify.com/album/7uxfQPw7jZrMCwmFijglNT"
+      },
+      "artists": [
+        {
+          "name": "Caribou",
+          "url": "https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191065,
+      "name": "Got to Change",
+      "url": "https://open.spotify.com/track/5oV0DfWqOf8hn40u37hepA"
     },
     {
       "album": {
@@ -21618,7 +21694,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 190074,
       "name": "HIGHJACK",
       "url": "https://open.spotify.com/track/57L5EYzCfHS7Jd58rV33lW"
@@ -25144,7 +25220,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 203708,
       "name": "It Only Takes 2",
       "url": "https://open.spotify.com/track/7GTEkSbb0bG5RNKOrckKwi"
@@ -27401,6 +27477,28 @@
     },
     {
       "album": {
+        "name": "Lejos De M\u00e1s",
+        "url": "https://open.spotify.com/album/0mCsBuqrZ6P2iflcesQysf"
+      },
+      "artists": [
+        {
+          "name": "pablopablo",
+          "url": "https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ"
+        },
+        {
+          "name": "Helado Negro",
+          "url": "https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246720,
+      "name": "Lejos De M\u00e1s",
+      "url": "https://open.spotify.com/track/3rATXD9GvA54CsDZRNPi6W"
+    },
+    {
+      "album": {
         "name": "RAMONA PARK BROKE MY HEART",
         "url": "https://open.spotify.com/album/2G549zeda2XNICgLmU0pNW"
       },
@@ -27690,7 +27788,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 170194,
       "name": "Levels",
       "url": "https://open.spotify.com/track/54BP8ZcpMY2FiNlrwWMHXe"
@@ -30130,7 +30228,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 279528,
       "name": "MANTO",
       "url": "https://open.spotify.com/track/7Gu0awrdJUvfRNDoXIIAMF"
@@ -30358,7 +30456,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 207053,
       "name": "Mary Jane",
       "url": "https://open.spotify.com/track/3MSL42Ay6qoGALjrIacm4L"
@@ -32298,7 +32396,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 255428,
       "name": "My Love",
       "url": "https://open.spotify.com/track/6aghmokpyn0soDHkTgaonm"
@@ -34396,7 +34494,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 204760,
       "name": "ok </3",
       "url": "https://open.spotify.com/track/7EF7xI1dSQj1dN1dP3YPPW"
@@ -35312,6 +35410,28 @@
       "duration_ms": 234239,
       "name": "OSMOSIS",
       "url": "https://open.spotify.com/track/2zaSwAEQRZ6eqTpU8sbxsx"
+    },
+    {
+      "album": {
+        "name": "Otherside",
+        "url": "https://open.spotify.com/album/3BYf1IG8EqDbhzdpljcFWY"
+      },
+      "artists": [
+        {
+          "name": "Maribou State",
+          "url": "https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg"
+        },
+        {
+          "name": "Holly Walker",
+          "url": "https://open.spotify.com/artist/5vssQp6TyMHsx4mihKVAsC"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233211,
+      "name": "Otherside",
+      "url": "https://open.spotify.com/track/2pj2A25YQK4uMxhZheNx7R"
     },
     {
       "album": {
@@ -41545,6 +41665,24 @@
     },
     {
       "album": {
+        "name": "SHELLAC",
+        "url": "https://open.spotify.com/album/3A0NU3KoG0k9U36b4S7e9b"
+      },
+      "artists": [
+        {
+          "name": "Leon Vynehall",
+          "url": "https://open.spotify.com/artist/2o7L9DNcmzocYll1o0GGTU"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231860,
+      "name": "SHELLAC - Edit",
+      "url": "https://open.spotify.com/track/2i9agRnat2vvCkp5PEsRfd"
+    },
+    {
+      "album": {
         "name": "Shelter",
         "url": "https://open.spotify.com/album/2fnADmeEO13U3Lb4PNsFo3"
       },
@@ -43386,7 +43524,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 250000,
       "name": "Someone Asked Me How I've Been",
       "url": "https://open.spotify.com/track/1uNXgrIfJCIBmGim8PaeKg"
@@ -47057,6 +47195,28 @@
     },
     {
       "album": {
+        "name": "the evidence (Exaktly remix)",
+        "url": "https://open.spotify.com/album/2aM56kUoNhWsDhg5sDZlwG"
+      },
+      "artists": [
+        {
+          "name": "Yaya Bey",
+          "url": "https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT"
+        },
+        {
+          "name": "Exaktly",
+          "url": "https://open.spotify.com/artist/1MRB7UrVK6DvvefA7pAqS8"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179536,
+      "name": "the evidence - Exaktly remix",
+      "url": "https://open.spotify.com/track/6V0wLGlc9WkPrKGOsBBhMd"
+    },
+    {
+      "album": {
         "name": "The Family",
         "url": "https://open.spotify.com/album/7bNubmdfctkLp7ltJE0pLy"
       },
@@ -48496,6 +48656,24 @@
       "duration_ms": 235005,
       "name": "Too Good - Unknown Mortal Orchestra Remix",
       "url": "https://open.spotify.com/track/4jMmXKJjle1GD241r9s1oj"
+    },
+    {
+      "album": {
+        "name": "TOO MUCH!",
+        "url": "https://open.spotify.com/album/05EKSPXWJPZ5iROIob3All"
+      },
+      "artists": [
+        {
+          "name": "808vic",
+          "url": "https://open.spotify.com/artist/0kzNGCruksB28DRbqhEfPM"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189991,
+      "name": "TOO MUCH!",
+      "url": "https://open.spotify.com/track/6IXFA7Sh0gHQtJoNhHl6qU"
     },
     {
       "album": {

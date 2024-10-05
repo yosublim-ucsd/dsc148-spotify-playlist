@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-21",
-  "description": "Al coraz\u00f3n! Foto: La Kuppe & Amar Azul.",
+  "description": "Al coraz\u00f3n! Foto: The La Planta, Emanero & Abel Pintos.",
   "name": "Cumbia y Romance",
   "tracks": [
     {
@@ -853,6 +853,32 @@
     },
     {
       "album": {
+        "name": "BORRACHO Y LOCO",
+        "url": "https://open.spotify.com/album/1wHiSIZldLNeICiNOABSLT"
+      },
+      "artists": [
+        {
+          "name": "Emanero",
+          "url": "https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB"
+        },
+        {
+          "name": "Abel Pintos",
+          "url": "https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa"
+        },
+        {
+          "name": "The La Planta",
+          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232781,
+      "name": "BORRACHO Y LOCO",
+      "url": "https://open.spotify.com/track/2UIFEzinNxkSv9fY93SYhx"
+    },
+    {
+      "album": {
         "name": "Buscando Otro Amor",
         "url": "https://open.spotify.com/album/2ijKJw1PlaNq0wIXL7fNiK"
       },
@@ -1144,6 +1170,24 @@
       "duration_ms": 214459,
       "name": "Como Olvidarme",
       "url": "https://open.spotify.com/track/7wfHOQ7kr5gkDGlHBjR6X6"
+    },
+    {
+      "album": {
+        "name": "Como Quieres Que Yo",
+        "url": "https://open.spotify.com/album/1HOgIuWxXhcR2ryCkbvAJ3"
+      },
+      "artists": [
+        {
+          "name": "Los del Fuego",
+          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174353,
+      "name": "Como Quieres Que Yo",
+      "url": "https://open.spotify.com/track/4QHS4G2UCZJR3VYJHWqeC6"
     },
     {
       "album": {
@@ -1914,7 +1958,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-27",
+      "date_removed": null,
       "duration_ms": 192750,
       "name": "De Quien Es La Culpa",
       "url": "https://open.spotify.com/track/7c8SEakrcn7PLDcZX0bKJo"
@@ -4086,7 +4130,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 185669,
       "name": "Llamala",
       "url": "https://open.spotify.com/track/3GziopS69lAXBnCD2qJkeb"
@@ -4358,7 +4402,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 242400,
       "name": "Maravillosa Esta Noche",
       "url": "https://open.spotify.com/track/1gonyTKH24V4eDFEbnvewJ"
@@ -5432,7 +5476,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 180507,
       "name": "No Podr\u00e1s",
       "url": "https://open.spotify.com/track/7KsMMuKRp7KBvtyvTAQapf"
@@ -5566,7 +5610,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-27",
+      "date_removed": null,
       "duration_ms": 188368,
       "name": "Noche de Estrellas",
       "url": "https://open.spotify.com/track/4lPWL2JWTz4aKVwAG2C8jT"
@@ -6027,6 +6071,28 @@
     },
     {
       "album": {
+        "name": "Por Favor (feat. Antonio Rios)",
+        "url": "https://open.spotify.com/album/2sJ5Ip4DmfnhaBOWW5FA2m"
+      },
+      "artists": [
+        {
+          "name": "Bruno Lippi",
+          "url": "https://open.spotify.com/artist/6baxQG4TXqSMv4z8ydP0cK"
+        },
+        {
+          "name": "Antonio Rios",
+          "url": "https://open.spotify.com/artist/7s652lD4v77szrPEfgMTBi"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218973,
+      "name": "Por Favor (feat. Antonio Rios)",
+      "url": "https://open.spotify.com/track/4ZcQybhEqO2Vp4ywomVhmX"
+    },
+    {
+      "album": {
         "name": "Sa, Za...Sabor!!!",
         "url": "https://open.spotify.com/album/3kAXiEiI9Je5tywIAywzcp"
       },
@@ -6420,7 +6486,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 201969,
       "name": "Quiero ser tu amor",
       "url": "https://open.spotify.com/track/6Pz5FUFTNTDMFnzF61xzIg"
@@ -8708,7 +8774,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 157151,
       "name": "Ya Sup\u00e9rame",
       "url": "https://open.spotify.com/track/1KErOYjZ8nyzMaH8dk4MoN"

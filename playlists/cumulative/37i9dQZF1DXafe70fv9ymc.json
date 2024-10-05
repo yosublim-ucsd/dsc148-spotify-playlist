@@ -555,6 +555,32 @@
     },
     {
       "album": {
+        "name": "By Any Minz",
+        "url": "https://open.spotify.com/album/48nHgN9M9JO1ic95yWLhJP"
+      },
+      "artists": [
+        {
+          "name": "Minz",
+          "url": "https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT"
+        },
+        {
+          "name": "Projexx",
+          "url": "https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N"
+        },
+        {
+          "name": "Yo Trane",
+          "url": "https://open.spotify.com/artist/4W49e48G0gg1pucAN6JiGH"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192031,
+      "name": "f.u.",
+      "url": "https://open.spotify.com/track/7cTUvwei61Gfa6PKPczdfu"
+    },
+    {
+      "album": {
         "name": "Mombasa's Lover Boy",
         "url": "https://open.spotify.com/album/3dCGhikw2kksr8OMi9HPft"
       },
@@ -1063,6 +1089,28 @@
     },
     {
       "album": {
+        "name": "For The Love of R&B Vol 1",
+        "url": "https://open.spotify.com/album/14Vvfpl0hS8n1r3GGIKzoZ"
+      },
+      "artists": [
+        {
+          "name": "MAUIM\u00d8ON",
+          "url": "https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b"
+        },
+        {
+          "name": "La So\u00fclchyld",
+          "url": "https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194666,
+      "name": "MOOD 4 LOVE",
+      "url": "https://open.spotify.com/track/1cQwlqMMRNxyLgCrQ9xkgz"
+    },
+    {
+      "album": {
         "name": "Nobody Gotta Know",
         "url": "https://open.spotify.com/album/5zFoqU21uLBJlZXq8EAL57"
       },
@@ -1144,6 +1192,28 @@
       "duration_ms": 192385,
       "name": "OUTTA MY HEAD",
       "url": "https://open.spotify.com/track/1Cqz8B8mNo2ZACTbMwnHTt"
+    },
+    {
+      "album": {
+        "name": "PARADIGM",
+        "url": "https://open.spotify.com/album/6qTkzqGS5T1oeoqWcuKQGQ"
+      },
+      "artists": [
+        {
+          "name": "Avara",
+          "url": "https://open.spotify.com/artist/63PeJBCkvzMDtyfc0krQyd"
+        },
+        {
+          "name": "Deb Fan",
+          "url": "https://open.spotify.com/artist/7s1vLo9XJCtiFWWzidpl9m"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195428,
+      "name": "PARADIGM",
+      "url": "https://open.spotify.com/track/6oDWFKFA0XZGCc5fm8te31"
     },
     {
       "album": {
@@ -1300,7 +1370,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 195008,
       "name": "Rising",
       "url": "https://open.spotify.com/track/0RjIsyAX2Cjrhs22Dpfxyn"
@@ -1632,7 +1702,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 142080,
       "name": "Temptation",
       "url": "https://open.spotify.com/track/3fQNGqh3o9uPfzHyJmFaSs"
@@ -1738,7 +1808,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 222826,
       "name": "Vintage",
       "url": "https://open.spotify.com/track/0EQt3hJTjy2dYuxZp3cqo9"
@@ -1800,7 +1870,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 163555,
       "name": "Waiting On You",
       "url": "https://open.spotify.com/track/19opeo8ALZ3XNBnwI346xv"
@@ -1920,7 +1990,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 180000,
       "name": "With Open Arms",
       "url": "https://open.spotify.com/track/2zMkas94Ekim0wZfGsGe23"
@@ -1942,6 +2012,24 @@
       "duration_ms": 134727,
       "name": "XO",
       "url": "https://open.spotify.com/track/0hIJZTluzNb0wFcydgV1gR"
+    },
+    {
+      "album": {
+        "name": "MUTT",
+        "url": "https://open.spotify.com/album/0SzoksypeognxYJJOJEYip"
+      },
+      "artists": [
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228047,
+      "name": "YES IT IS",
+      "url": "https://open.spotify.com/track/2iksjpqL3eraxCBKqNHuqd"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXafe70fv9ymc"

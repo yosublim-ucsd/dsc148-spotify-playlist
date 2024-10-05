@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-08-09",
-  "description": "puros morrxs haciendo m\u00fasica chida. Vesica Piscis en portada.",
+  "description": "puros morrxs haciendo m\u00fasica chida. Yo\u00ebls & Joaquina Mertz en portada.",
   "name": "indie fresco",
   "tracks": [
     {
@@ -657,6 +657,24 @@
     },
     {
       "album": {
+        "name": "Armadura",
+        "url": "https://open.spotify.com/album/1l2nFthdK9TqyVnniGywn4"
+      },
+      "artists": [
+        {
+          "name": "Miranda Santizo",
+          "url": "https://open.spotify.com/artist/0vnFLa5I5bovwTOiCebuCT"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169365,
+      "name": "Boomerang",
+      "url": "https://open.spotify.com/track/6BNIPptbVu8lgyf8JFGjxN"
+    },
+    {
+      "album": {
         "name": "blush",
         "url": "https://open.spotify.com/album/6XFmWkqa5i9L4iKQSFZOHK"
       },
@@ -908,7 +926,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 178866,
       "name": "Complicado",
       "url": "https://open.spotify.com/track/3gYFpnIwIbOC4aRkVkimEj"
@@ -1020,6 +1038,40 @@
       "duration_ms": 217435,
       "name": "Cuesta Olvidar",
       "url": "https://open.spotify.com/track/4KJ4rTWYlhQeJsw0tIxl3E"
+    },
+    {
+      "album": {
+        "name": "Cultivo",
+        "url": "https://open.spotify.com/album/71oMvdOpxiZBprUo3vN4IX"
+      },
+      "artists": [
+        {
+          "name": "Kirnbauer",
+          "url": "https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA"
+        },
+        {
+          "name": "Ferna",
+          "url": "https://open.spotify.com/artist/58FJ0VvcKAYY89TFOczBfK"
+        },
+        {
+          "name": "Bosque",
+          "url": "https://open.spotify.com/artist/6xIiv2i3zkP4mzGQvGVHTS"
+        },
+        {
+          "name": "Luisa Almaguer",
+          "url": "https://open.spotify.com/artist/2EIoOPYbB27xL2XuvKmNEq"
+        },
+        {
+          "name": "Sanje",
+          "url": "https://open.spotify.com/artist/5GpUWwhWjWHqGVbHMF6OPx"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189203,
+      "name": "Cultivo",
+      "url": "https://open.spotify.com/track/5kGjkMq36j9RV5pVqR3EGy"
     },
     {
       "album": {
@@ -1158,7 +1210,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 131660,
       "name": "Do Something!",
       "url": "https://open.spotify.com/track/3qIfexWcDZUuSYQNogshMa"
@@ -1216,7 +1268,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 150346,
       "name": "drugz",
       "url": "https://open.spotify.com/track/0fhjJlerul4dkEudwle6Au"
@@ -1368,7 +1420,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 217692,
       "name": "El R\u00edo",
       "url": "https://open.spotify.com/track/5IulrtbklYxOCrDEtJPtNz"
@@ -1462,6 +1514,24 @@
       "duration_ms": 226910,
       "name": "Esfera",
       "url": "https://open.spotify.com/track/43OncoXjYE1JS3YMv0D66y"
+    },
+    {
+      "album": {
+        "name": "Esper\u00e9 Junto al Diablo",
+        "url": "https://open.spotify.com/album/5ONudjoY54QO9Nkt7Jc3Fa"
+      },
+      "artists": [
+        {
+          "name": "El Muchacho de los Ojos Tristes",
+          "url": "https://open.spotify.com/artist/0MDwsY5nQTWmb1TPOqVh0H"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195333,
+      "name": "Esper\u00e9 Junto al Diablo",
+      "url": "https://open.spotify.com/track/4hycb3nAmyeO5Sx544WSMS"
     },
     {
       "album": {
@@ -1777,6 +1847,24 @@
     },
     {
       "album": {
+        "name": "IKIGAI",
+        "url": "https://open.spotify.com/album/20YshQAetSMKMwpLWl0D1i"
+      },
+      "artists": [
+        {
+          "name": "Louis Goodman",
+          "url": "https://open.spotify.com/artist/06CtxLVFp5Bbchyi7iWmjR"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242713,
+      "name": "IKIGAI",
+      "url": "https://open.spotify.com/track/0ZXJcJ5D8btTkxaqLIc8nx"
+    },
+    {
+      "album": {
         "name": "Injusto",
         "url": "https://open.spotify.com/album/4bZe1QnqD5bYWSo7Aj6YYd"
       },
@@ -1901,6 +1989,28 @@
     },
     {
       "album": {
+        "name": "La Humedad",
+        "url": "https://open.spotify.com/album/31OO3nEarsxYyRJ8KLCQUv"
+      },
+      "artists": [
+        {
+          "name": "Y\u00f6els",
+          "url": "https://open.spotify.com/artist/7nS08seSNCpGqZhkQORnZL"
+        },
+        {
+          "name": "Joaquina Mertz",
+          "url": "https://open.spotify.com/artist/7lSGnBub2g8JGbNDgmrXsJ"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208213,
+      "name": "La Humedad",
+      "url": "https://open.spotify.com/track/5iadwXUy0bgFAoyjHTMGrb"
+    },
+    {
+      "album": {
         "name": "La Marea",
         "url": "https://open.spotify.com/album/4ZQxt3J0oCsxXasH7z79Sk"
       },
@@ -1996,7 +2106,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 271000,
       "name": "Laberinto",
       "url": "https://open.spotify.com/track/5lo4luJDYXCV3KGvHt5smB"
@@ -2014,7 +2124,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 174659,
       "name": "las cosas no son lo que parecen",
       "url": "https://open.spotify.com/track/0vZnu6jdjTA4QKhmJm3IQT"
@@ -3808,6 +3918,24 @@
       "duration_ms": 236181,
       "name": "XOXO",
       "url": "https://open.spotify.com/track/2Y8KA0iCtLQa7G3gC5lPvv"
+    },
+    {
+      "album": {
+        "name": "zapopan - sesi\u00f3n noviembre/en vivo",
+        "url": "https://open.spotify.com/album/2CMWssfS62CL0LbcpDeOqH"
+      },
+      "artists": [
+        {
+          "name": "Agris",
+          "url": "https://open.spotify.com/artist/29ZfC3Kiw2GkCo5IMI7m9q"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179360,
+      "name": "zapopan - sesi\u00f3n noviembre/en vivo",
+      "url": "https://open.spotify.com/track/149MZOl0xLdTstY7VfaqKI"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "pearls of an oyster. Cover: Jhon Allan",
-  "num_followers": 139843,
+  "num_followers": 139872,
   "original_name": "Oyster",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zv8T4AAAAAAPNcP1lq5JeB47UwyO8ju0",
+  "snapshot_id": "Zv+Z3QAAAADf/kNvWahJBXxAdr0CtD6k",
   "tracks": [
     {
       "added_at": "2024-10-03 22:00:00",
@@ -79,6 +79,22 @@
       "duration_ms": 295000,
       "name": "All I Got",
       "url": "https://open.spotify.com/track/2LMK2xLfWLKbfjZgtBWByM"
+    },
+    {
+      "added_at": "2024-10-03 22:00:00",
+      "album": {
+        "name": "Nothing's TMI",
+        "url": "https://open.spotify.com/album/6enIJfJkP7dJTBVkulFuG6"
+      },
+      "artists": [
+        {
+          "name": "Jhon Allan",
+          "url": "https://open.spotify.com/artist/2ktaLonDF6CapHBx6IP1vS"
+        }
+      ],
+      "duration_ms": 92624,
+      "name": "RADIO INTERRUPTIONS ABOUT MY FEELINGS",
+      "url": "https://open.spotify.com/track/2NeOYUqYCf1hWLTYz0LGS2"
     },
     {
       "added_at": "2024-10-03 22:00:00",
@@ -211,7 +227,7 @@
     {
       "added_at": "2024-10-03 22:00:00",
       "album": {
-        "name": "EDITS",
+        "name": "Great Doubt (EDITS)",
         "url": "https://open.spotify.com/album/3Q4ckErENVJA9V1nx3pMS4"
       },
       "artists": [
@@ -229,24 +245,8 @@
         }
       ],
       "duration_ms": 145125,
-      "name": "Do you wanna - Fine & Molina Edit",
+      "name": "Do you wanna - Fine + Molina EDIT",
       "url": "https://open.spotify.com/track/6xTOSlWaiBRiVj3Xh265FL"
-    },
-    {
-      "added_at": "2024-10-03 22:00:00",
-      "album": {
-        "name": "Nothing's TMI",
-        "url": "https://open.spotify.com/album/6enIJfJkP7dJTBVkulFuG6"
-      },
-      "artists": [
-        {
-          "name": "Jhon Allan",
-          "url": "https://open.spotify.com/artist/2ktaLonDF6CapHBx6IP1vS"
-        }
-      ],
-      "duration_ms": 92624,
-      "name": "RADIO INTERRUPTIONS ABOUT MY FEELINGS",
-      "url": "https://open.spotify.com/track/2NeOYUqYCf1hWLTYz0LGS2"
     },
     {
       "added_at": "2024-10-03 22:00:00",

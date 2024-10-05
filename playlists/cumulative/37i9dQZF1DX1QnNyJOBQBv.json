@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Pop on the rise you should know, featuring Sof\u00eda Reyes.",
+  "description": "Pop on the rise you should know, featuring HUMBE.",
   "name": "Latin Pop Today",
   "tracks": [
     {
@@ -380,7 +380,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 218613,
       "name": "A Veces A Besos",
       "url": "https://open.spotify.com/track/6AQgrZrFu1xfuAmbyXmKAE"
@@ -2133,6 +2133,28 @@
     },
     {
       "album": {
+        "name": "Catira (feat. Neutro Shorty)",
+        "url": "https://open.spotify.com/album/5N4avOZpzaFrMbB2XJrsCY"
+      },
+      "artists": [
+        {
+          "name": "ELENA ROSE",
+          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
+        },
+        {
+          "name": "Neutro Shorty",
+          "url": "https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184040,
+      "name": "Catira (feat. Neutro Shorty)",
+      "url": "https://open.spotify.com/track/1RrkjcfPa9p4ZCo2fL5qnE"
+    },
+    {
+      "album": {
         "name": "Vida Cotidiana",
         "url": "https://open.spotify.com/album/1fHpKy8dfAplGSfcOsqtOm"
       },
@@ -2618,7 +2640,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 204391,
       "name": "Contrato",
       "url": "https://open.spotify.com/track/4LccwPrd0k6ROyl5oKyjHG"
@@ -4852,7 +4874,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 122405,
       "name": "IMAN (Two Of Us)",
       "url": "https://open.spotify.com/track/3sra6aEWWDXUiy46fWQobH"
@@ -8775,6 +8797,28 @@
     },
     {
       "album": {
+        "name": "Qu\u00e9 Pecao",
+        "url": "https://open.spotify.com/album/753zWh3I26DZ8pCOfJFZfA"
+      },
+      "artists": [
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        },
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230073,
+      "name": "Qu\u00e9 Pecao",
+      "url": "https://open.spotify.com/track/456U68M8lIymkz56Zroxh8"
+    },
+    {
+      "album": {
         "name": "Rara Vez",
         "url": "https://open.spotify.com/album/26wRfIX4WqKLKHll9O3KnF"
       },
@@ -11150,7 +11194,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 174546,
       "name": "\u00bfC\u00f3mo Pas\u00f3?",
       "url": "https://open.spotify.com/track/7slBlaUuSCgADZBuTQDYBB"
@@ -11172,6 +11216,46 @@
       "duration_ms": 147640,
       "name": "\u00bfPara Qu\u00e9?",
       "url": "https://open.spotify.com/track/2gcwAmAnJ3EztIvP5R4bp2"
+    },
+    {
+      "album": {
+        "name": "\u00bfPor Qu\u00e9 Soy As\u00ed?",
+        "url": "https://open.spotify.com/album/0nx6GtmpkRxmbj1gX2pRP2"
+      },
+      "artists": [
+        {
+          "name": "Ela Taubert",
+          "url": "https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189693,
+      "name": "\u00bfPor Qu\u00e9 Soy As\u00ed?",
+      "url": "https://open.spotify.com/track/1N9n5G6elGqnLm3KSVG7Ir"
+    },
+    {
+      "album": {
+        "name": "\u00bfQue Te Pas\u00f3?",
+        "url": "https://open.spotify.com/album/7aNA8T8Ycq3EG3tQJr1q9h"
+      },
+      "artists": [
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        },
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168266,
+      "name": "\u00bfQue Te Pas\u00f3?",
+      "url": "https://open.spotify.com/track/6TyzdTASQrRujdjPP93AJe"
     },
     {
       "album": {

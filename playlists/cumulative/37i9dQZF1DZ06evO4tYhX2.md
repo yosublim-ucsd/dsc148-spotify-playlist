@@ -2,9 +2,9 @@
 
 ### [This Is Miel San Marcos](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4tYhX2)
 
-> This is Miel San Marcos\. The essential tracks, all in one playlist.
+> This Is Miel San Marcos\. Los temas esenciales, todos en una lista.
 
-95 songs - 8 hr 19 min
+96 songs - 8 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [Bueno y Fiel](https://open.spotify.com/track/0Ef4eWQf7AvVrf3idbCPsx) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Sayra Morales](https://open.spotify.com/artist/0LCFwNcRyvZoiBaOELjsWk), [Matthew Morales](https://open.spotify.com/artist/7hRLiC2CsmaKDjcIxNyFMj) | [Dios En Casa](https://open.spotify.com/album/5Zo2mPc7RXI8OgLA63AEDn) | 7:20 | 2022-09-16 | 2022-10-02 |
 | [Canto Danzo Salto](https://open.spotify.com/track/5FXALCzOPuLhX07GRnrooO) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Avivamiento 2](https://open.spotify.com/album/1CU1BMSJsVpXeKag7rAORh) | 4:34 | 2022-09-14 |  |
 | [Como En El Cielo \(En Vivo\)](https://open.spotify.com/track/2Dro7J9lF4xyZe4rrSTTPE) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Como En El Cielo \(En Vivo\)](https://open.spotify.com/album/1UtIEB5mwdQ9IG6Q7Ds2n5) | 4:26 | 2022-09-14 |  |
-| [Confío En Dios](https://open.spotify.com/track/2ypy1GyFZPuR68xbLTXoKL) | [Elevation Español](https://open.spotify.com/artist/337ClCqxF9LJsLhB86Tsf0), [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Confío En Dios](https://open.spotify.com/album/7175gzjAEYxSNnvuNwO0cM) | 7:27 | 2024-08-25 |  |
+| [Confío En Dios](https://open.spotify.com/track/2ypy1GyFZPuR68xbLTXoKL) | [Elevation Español](https://open.spotify.com/artist/337ClCqxF9LJsLhB86Tsf0), [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Confío En Dios](https://open.spotify.com/album/7175gzjAEYxSNnvuNwO0cM) | 7:27 | 2024-08-25 | 2024-10-05 |
 | [Coritos \(En Vivo\)](https://open.spotify.com/track/0t95oHRKMBi5wxaD8RSXC7) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Daniel Calveti](https://open.spotify.com/artist/4lZXpKLxWjMDFeNmiU4H1h), [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2), [Ingrid Rosario](https://open.spotify.com/artist/39PYJNgoQuBHjE6LEn3ZdE) | [Coritos \(En Vivo\)](https://open.spotify.com/album/4uQI1yz6vAfBTncWNqd48k) | 11:27 | 2023-01-26 |  |
 | [Coritos Con Flow](https://open.spotify.com/track/5Pj0EMhepLLhfMxrdMoC58) | [Travy Joe](https://open.spotify.com/artist/0K2Feyu8wJj25eXYZr3rT5), [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Coritos Con Flow](https://open.spotify.com/album/5oaSETuSNMaOCrmFZbnvGf) | 4:36 | 2023-05-25 |  |
 | [Cristo No Está Muerto \(feat\. Juan Carlos Alvarado\)](https://open.spotify.com/track/6bDHJjWEiWux7haSU8r4g5) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Juan Carlos Alvarado](https://open.spotify.com/artist/1NWIpqck2zZ43JamLJgf6U) | [Proezas](https://open.spotify.com/album/3tGDxfvq1cBSlBFr302jMU) | 1:27 | 2022-10-14 |  |
@@ -60,6 +60,7 @@
 | [Me Acerco](https://open.spotify.com/track/7ebaBpHIYPxQ9LeyroWnvc) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Ambientes de Adoración](https://open.spotify.com/album/1DzGUG8ErfkYHbo4fwcele) | 5:17 | 2024-07-06 |  |
 | [Me Basta Tu Palabra](https://open.spotify.com/track/057pumBKYToozI7AF5bNwP) | [Lowsan Melgar](https://open.spotify.com/artist/4MgA2G0NoAMdcFBaK5ZAfw), [Julio Melgar](https://open.spotify.com/artist/5O46r5EwzdUL8RR1aM6yU2), [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Me Basta Tu Palabra](https://open.spotify.com/album/13tqIx3kOoxaS0GR7byC9z) | 5:57 | 2022-09-14 | 2024-08-11 |
 | [Medley Evangelio \(En Vivo\)](https://open.spotify.com/track/1GcVAXo149p2bCZLR2EyOG) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Josh Morales](https://open.spotify.com/artist/4BzluhaYmHa9iCkX7pehgS), [Matthew Morales](https://open.spotify.com/artist/7hRLiC2CsmaKDjcIxNyFMj), [Luis Morales Jr.](https://open.spotify.com/artist/2u08hrNlco1QqvcgRCdnKh) | [EVANGELIO \(En Vivo\)](https://open.spotify.com/album/4x17cmkqwt4gA0q0zVnDEd) | 12:02 | 2023-06-07 | 2024-09-15 |
+| [Mi Casa Y Yo](https://open.spotify.com/track/6XrklcX8kC1O21Nl3708dV) | [Nezareth](https://open.spotify.com/artist/4afXJaDsXOYRPYklYepSYT), [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Mi Casa Y Yo](https://open.spotify.com/album/5WycQG5gnvuN0p9nerWE8v) | 5:50 | 2024-10-05 |  |
 | [Mi Dios](https://open.spotify.com/track/2sv8SthOOhWNAd9diJG7d2) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Ingrid Rosario](https://open.spotify.com/artist/39PYJNgoQuBHjE6LEn3ZdE) | [Mi Dios](https://open.spotify.com/album/25LnH10K7SGRrrA5X9aSXE) | 4:58 | 2022-09-14 |  |
 | [Mi Libertador](https://open.spotify.com/track/3PDI2JGivXW4WguUBbhPgw) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Mi Libertador](https://open.spotify.com/album/3jCrSepI3QyihfgochlS1m) | 8:11 | 2022-09-14 |  |
 | [Mi Refugio](https://open.spotify.com/track/7aAWdWYyvNqhKH5cMS8IOh) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Josh Morales](https://open.spotify.com/artist/4BzluhaYmHa9iCkX7pehgS), [Sam Rivera](https://open.spotify.com/artist/4BuHGiGgKtUUHqthu6Ze5x) | [Dios En Casa](https://open.spotify.com/album/5Zo2mPc7RXI8OgLA63AEDn) | 9:51 | 2022-09-14 | 2023-06-08 |

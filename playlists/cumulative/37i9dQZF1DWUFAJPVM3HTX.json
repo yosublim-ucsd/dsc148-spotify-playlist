@@ -1789,6 +1789,24 @@
     },
     {
       "album": {
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/6S3s6nz9uL03ZO4c971NVf"
+      },
+      "artists": [
+        {
+          "name": "James Savage",
+          "url": "https://open.spotify.com/artist/0NJU41dLwF6OcBPRZwhAV5"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151684,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/5pzNRfYj3EoDRM7jhFWJEb"
+    },
+    {
+      "album": {
         "name": "All 4 U",
         "url": "https://open.spotify.com/album/201QpLI3KROkYWxHpHeE0n"
       },
@@ -8436,8 +8454,8 @@
       },
       "artists": [
         {
-          "name": "Lamar",
-          "url": "https://open.spotify.com/artist/1lEBiL1tggtva2S5vcW65i"
+          "name": "Lamar Morris",
+          "url": "https://open.spotify.com/artist/3fTmCXDMP1jNSWfqCznI30"
         }
       ],
       "date_added": "2024-08-30",
@@ -42962,6 +42980,24 @@
       "duration_ms": 165432,
       "name": "Take It Personal",
       "url": "https://open.spotify.com/track/51pmSmEShGFFKKZ4wszESe"
+    },
+    {
+      "album": {
+        "name": "Take Me Out",
+        "url": "https://open.spotify.com/album/1b2wP1XGAIK2Eech62CRrx"
+      },
+      "artists": [
+        {
+          "name": "Anjoli",
+          "url": "https://open.spotify.com/artist/2HIo2lcofrHHGCTQNFlGca"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142104,
+      "name": "Take Me Out",
+      "url": "https://open.spotify.com/track/2u5kgkYchdxbhdrYwzvycW"
     },
     {
       "album": {

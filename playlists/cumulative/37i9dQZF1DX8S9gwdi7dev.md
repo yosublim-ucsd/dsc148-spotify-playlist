@@ -4,7 +4,7 @@
 
 > Fun tracks for your Halloween festivities!
 
-161 songs - 9 hr 46 min
+162 songs - 9 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [Edge of Seventeen](https://open.spotify.com/track/2id8E4WvczfKHB4LHI7Np3) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Crystal Visions...The Very Best of Stevie Nicks](https://open.spotify.com/album/7q0dYnAjmqZBJLhMBre8aL) | 5:29 | 2021-10-27 |  |
 | [Everybody \(Backstreet's Back\) \- Radio Edit](https://open.spotify.com/track/4rTeOSYqwXNz5qPR2DUTFZ) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [This Is The End: Original Motion Picture Soundtrack](https://open.spotify.com/album/1SFKmqhTTEkE3PmSBEMpa3) | 3:44 | 2021-10-27 |  |
 | [Evil Woman](https://open.spotify.com/track/5qRJD1yaLJ5s0J3JpbgnwA) | [Electric Light Orchestra](https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk) | [Flashback](https://open.spotify.com/album/27q0Qxr6PUv7PP6LaHtyDT) | 4:19 | 2022-10-23 |  |
-| [Frankenstein](https://open.spotify.com/track/4nYUJ36Qj9hIY9mKj8QZFF) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Hold The Girl](https://open.spotify.com/album/0JO5WJ19NtFRtVYOnw24xS) | 3:12 | 2022-09-23 |  |
+| [Frankenstein](https://open.spotify.com/track/4nYUJ36Qj9hIY9mKj8QZFF) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Hold The Girl](https://open.spotify.com/album/0JO5WJ19NtFRtVYOnw24xS) | 3:12 | 2022-09-23 | 2024-10-05 |
 | [Get Ur Freak On](https://open.spotify.com/track/6zsk6uF3MxfIeHPlubKBvR) | [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Miss E..\. So Addictive](https://open.spotify.com/album/20t54K6C80QQH7vbcpfJcP) | 3:31 | 2021-10-27 |  |
 | [Ghost](https://open.spotify.com/track/7LbhIjYNfCguxjAw43Mkff) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Diamonds & Dancefloors](https://open.spotify.com/album/5NgQit6EhPnx84bxgVVDRQ) | 3:01 | 2023-01-27 | 2023-09-26 |
 | [Ghost Town](https://open.spotify.com/track/6ewN9MaFbi78oDLT9wYDgn) | [The Specials](https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3) | [Stereo\-Typical: A's, B's & Rarities](https://open.spotify.com/album/0EKaJQaxiszKS8DBUDhbtz) | 3:39 | 2023-10-09 |  |
@@ -117,6 +117,7 @@
 | [Season Of The Witch](https://open.spotify.com/track/5DSi7heBC8eTIFROBvttnp) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Season Of The Witch \(From The Motion Picture "Scary Stories To Tell In The Dark"\)](https://open.spotify.com/album/4K7RKXggxezOmccv1Uuviq) | 4:07 | 2022-09-23 |  |
 | [She Wolf](https://open.spotify.com/track/4WcCW10tnJCljX8Fhs0FdE) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [She Wolf](https://open.spotify.com/album/5kVvnx0DvcEx11FirNJPH0) | 3:07 | 2021-10-27 |  |
 | [She Wolf](https://open.spotify.com/track/4cS2HQ6jK80vqdY9ofpztx) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [She Wolf \(Expanded Edition\)](https://open.spotify.com/album/5u0OuxRnf3FzvZR07xAxL2) | 3:08 | 2021-10-27 | 2024-04-19 |
+| [SICK PRETTY MIND \(SIDE B\)](https://open.spotify.com/track/4VY6SsgA05tDXC3jAkAE1h) | [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [UPSAHL PRESENTS: THE PHX TAPES](https://open.spotify.com/album/4ehJjs7mB5D5sTgsEAKG8Y) | 2:16 | 2024-10-04 |  |
 | [SICKO MODE](https://open.spotify.com/track/2xLMifQCjDGFmkHkpNLD9h) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [ASTROWORLD](https://open.spotify.com/album/41GuZcammIkupMPKH2OJ6I) | 5:12 | 2021-10-27 | 2022-09-24 |
 | [Skeleton Sam](https://open.spotify.com/track/2tscKg9DAFFhOhp8X3Ssf8) | [LVCRFT](https://open.spotify.com/artist/49JFqkKqN2PWANlXIQlB5T) | [Hocus Pocus 2 \(Original Soundtrack\)](https://open.spotify.com/album/5StqoKbQqzkAgH3OtPPQED) | 2:54 | 2022-10-12 |  |
 | [Smooth Criminal \(Radio Edit\)](https://open.spotify.com/track/2JW2OzKxxaN27jMX7eBC39) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [King Of Pop](https://open.spotify.com/album/1dGHYYHsN1QsCCNa6G5jRj) | 4:17 | 2021-10-27 | 2022-07-29 |

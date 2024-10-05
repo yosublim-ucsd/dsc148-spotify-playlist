@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1UcSd2.md) - [plain]
 
 > This is Lenin Ramírez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,335 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,357 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1UcSd2.md) - [plain]
 | 49 | [¿Quién Es Ella?](https://open.spotify.com/track/1kr9jcCudeUB59qpgG2hQO) | [Greeg Mora](https://open.spotify.com/artist/0G9NBllWNKcsJzjJQCat4G), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [¿Quién Es Ella?](https://open.spotify.com/album/1BmAs6Bkbv9zqzFciudGg7) | 3:00 |
 | 50 | [Cuanto Hay Que Invertir](https://open.spotify.com/track/4A0HaSz7TjayQ2DjUrCr1X) | [Andy Rivera](https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Cuanto hay que invertir](https://open.spotify.com/album/3nq2H7EWjryQyB8MOTKZZo) | 2:27 |
 
-Snapshot ID: `ZvyNAAAAAABbTo93hLbbZZkuw/5wKlEO`
+Snapshot ID: `Zv3egAAAAADJj7uwXqUxTyk0Rxt8ttYI`

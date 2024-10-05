@@ -897,6 +897,32 @@
     },
     {
       "album": {
+        "name": "Bandh Aankhein",
+        "url": "https://open.spotify.com/album/7eSDGsefiMfGzzaRbnZgJG"
+      },
+      "artists": [
+        {
+          "name": "Muhafiz",
+          "url": "https://open.spotify.com/artist/6pwzflaMKjxNpkXFtaYZo9"
+        },
+        {
+          "name": "Sarthak Kalyani",
+          "url": "https://open.spotify.com/artist/33ZaVn459vwF8UVDS6sWxh"
+        },
+        {
+          "name": "Siddharth Chopra",
+          "url": "https://open.spotify.com/artist/0HIZoRSgTwczAwI7zTp7fx"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "Bandh Aankhein",
+      "url": "https://open.spotify.com/track/5RDas0NITNlZ5auekdbHiP"
+    },
+    {
+      "album": {
         "name": "Banja Beimaan",
         "url": "https://open.spotify.com/album/5iiyu8Old8pPtzM0HULCVE"
       },
@@ -1854,7 +1880,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 210189,
       "name": "Dooriyan - Acoustic",
       "url": "https://open.spotify.com/track/50RH0RyxLEj8NEhaHlqWNX"
@@ -2024,6 +2050,24 @@
       "duration_ms": 232297,
       "name": "Ek Sheher",
       "url": "https://open.spotify.com/track/4IRryIKKfcEFvKgfcCTSGc"
+    },
+    {
+      "album": {
+        "name": "Ek Sheher",
+        "url": "https://open.spotify.com/album/6SeoTDuP6PEqifNIFoDujy"
+      },
+      "artists": [
+        {
+          "name": "Raj Barman",
+          "url": "https://open.spotify.com/artist/5qERXbPWPdUePjrAW00vuU"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233641,
+      "name": "Ek Sheher",
+      "url": "https://open.spotify.com/track/6u5YoYzSZNXLmmm1ioeUGF"
     },
     {
       "album": {
@@ -6016,7 +6060,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 279615,
       "name": "Qaabil",
       "url": "https://open.spotify.com/track/2PwVCVkts7c7RxTNHL4wLf"
@@ -8262,7 +8306,7 @@
       ],
       "date_added": "2024-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 219130,
       "name": "Yaadein",
       "url": "https://open.spotify.com/track/0H4hdAb1HANfERJR6fllKK"
@@ -8462,6 +8506,24 @@
       "duration_ms": 235875,
       "name": "Yeh Shaam - Piano Version",
       "url": "https://open.spotify.com/track/74JiXrwafiTo4W1IH9ZvY7"
+    },
+    {
+      "album": {
+        "name": "Zakhm",
+        "url": "https://open.spotify.com/album/28PawMaA3PGHoa7g305qJr"
+      },
+      "artists": [
+        {
+          "name": "Sharad Eishita (SE)",
+          "url": "https://open.spotify.com/artist/4Gc6K8DpLkIVnDwB5jcnQi"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "Zakhm",
+      "url": "https://open.spotify.com/track/4X2gjTM5y2UTStxrNFrpmR"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Jesień nigdy nie brzmiała tak dobrze 🍂
 
-198 songs - 11 hr 10 min
+199 songs - 11 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,7 +99,7 @@
 | [Lato na Grochowie](https://open.spotify.com/track/47uePh0f652cC2LNVj9AFc) | [Rosalie.](https://open.spotify.com/artist/65RQbLHJIWPfWwxYJ5a5BZ), [Def Jam World Tour](https://open.spotify.com/artist/1PFMCqDezh9wVkmmWZlv16) | [Lato na Grochowie](https://open.spotify.com/album/5yFcKcjCAWuXodnt5S4qJc) | 2:42 | 2024-08-20 | 2024-08-24 |
 | [Le bois brûle](https://open.spotify.com/track/3j5yLii9A2RXboXDxddsZE) | [Bovska](https://open.spotify.com/artist/4E8L0A5xtDhcMaeBO7p0eg), [BEMY](https://open.spotify.com/artist/2gZ0KjfMstAdkcs5NaFHCb) | [Le bois brûle](https://open.spotify.com/album/5xMtoetMCz6QQvEPSZV5Q7) | 4:04 | 2024-07-18 | 2024-07-27 |
 | [Lemon](https://open.spotify.com/track/2anSEDAqaZ8CTi9YNGV3xS) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Lemon](https://open.spotify.com/album/4UjGNWCVeNpTjYNCtHNx96) | 3:50 | 2024-06-28 | 2024-08-21 |
-| [list do niej](https://open.spotify.com/track/3AFWlh9Q4qTdqRR0ASqoKL) | [Zalia](https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d) | [list do niej](https://open.spotify.com/album/4qSid7v4Ami0xKyks5uxzT) | 3:05 | 2024-09-12 |  |
+| [list do niej](https://open.spotify.com/track/3AFWlh9Q4qTdqRR0ASqoKL) | [Zalia](https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d) | [list do niej](https://open.spotify.com/album/4qSid7v4Ami0xKyks5uxzT) | 3:05 | 2024-09-12 | 2024-10-05 |
 | [Listopad](https://open.spotify.com/track/2WhpBpERJZv3384qNExPZP) | [Kathia](https://open.spotify.com/artist/1g9e5uwqOiqTC4rZJULLO4) | [Listopad](https://open.spotify.com/album/1nLWz8HpZNpfmqzLwYSeJF) | 3:22 | 2024-09-27 |  |
 | [Lonely Fight](https://open.spotify.com/track/2K5UBMkyxh4NuATA6JrMhD) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [Lonely Fight](https://open.spotify.com/album/4tXUFRTPU3KhSBhAYwzWCW) | 3:49 | 2024-09-12 |  |
 | [Losers \(Feat\. Jelly Roll\)](https://open.spotify.com/track/0gucUyFMFRMlUiVn9US4YX) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [F\-1 Trillion](https://open.spotify.com/album/4BbsHmXEghoPPevQjPnHXx) | 3:29 | 2024-08-20 | 2024-09-13 |
@@ -135,6 +135,7 @@
 | [One Day](https://open.spotify.com/track/77mWGue0DTf1Aj2YzWLmoi) | [HAEVN](https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6) | [One Day](https://open.spotify.com/album/6XNZZuRxJMwpgrBqgPAgoN) | 4:54 | 2024-07-05 | 2024-07-12 |
 | [Our Way](https://open.spotify.com/track/3KDo3wvYICgcGLapjSf1Oc) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [Our Way](https://open.spotify.com/album/72qslYplIfk8cSXiz7X8K5) | 3:05 | 2024-06-28 | 2024-09-13 |
 | [pamiętam](https://open.spotify.com/track/5m4uTLWkLzT5fCX6yW1rTz) | [jaś&małgosia](https://open.spotify.com/artist/7Abi3cGp415znWBbgd4obq) | [pamiętam](https://open.spotify.com/album/3deHWsaVOQ62u2hyQ2JceC) | 3:09 | 2024-07-18 | 2024-07-27 |
+| [Parachute](https://open.spotify.com/track/0f5Zp30ih99H6eEBoKiul8) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Mountain Music](https://open.spotify.com/album/1Q1C9JR5mIRc48MgJqu1G5) | 4:10 | 2024-09-27 |  |
 | [Peaceful Place](https://open.spotify.com/track/2OiJ2pEQlLPnOywokPkG4N) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Peaceful Place](https://open.spotify.com/album/6ZJwX0ETt1mAZReAEDbI3X) | 4:15 | 2024-08-20 |  |
 | [Petals on the Moon](https://open.spotify.com/track/3BmaFHt6q91CmMrA7fLLRC) | [Wasia Project](https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0) | [Petals on the Moon](https://open.spotify.com/album/0o7cc3EnUTcYep5EiFFngs) | 4:16 | 2024-06-28 | 2024-08-04 |
 | [Pink Skies](https://open.spotify.com/track/4ZJ4vzLQekI0WntDbanNC7) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Pink Skies](https://open.spotify.com/album/7LRZfujsTLyy814AnMSdtT) | 3:14 | 2024-06-28 |  |

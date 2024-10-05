@@ -4,7 +4,7 @@
 
 > From rocking to walking and everything in between to help you celebrate every milestone & cherish every moment.
 
-97 songs - 4 hr 36 min
+98 songs - 4 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [For the First Time in Forever](https://open.spotify.com/track/3mZ5cGdehGztF45dECOuoV) | [Disney Peaceful Guitar](https://open.spotify.com/artist/3oqzxUlHhjJ7auI4dVujKX), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Guitar: Joy](https://open.spotify.com/album/11x60QHsoQa9rJVkIVFccW) | 3:27 | 2024-03-01 |  |
 | [Friends Lullaby](https://open.spotify.com/track/6xUwVpnfa5QFq91oVrpL4f) | [Larry Groce](https://open.spotify.com/artist/2z9Y52xPb933l5cs0GNvnc), [Disneyland Children's Sing\-Along Chorus](https://open.spotify.com/artist/6ZFgQo1KEKV4ADP8mAw7xg) | [Children's Favorites, Vol\. 1](https://open.spotify.com/album/3g7DIUCn8PnLI882pimI81) | 1:19 | 2024-03-01 |  |
 | [Going on a Mission](https://open.spotify.com/track/2U40NPBtjoinwsVjoYzRQt) | [Rob Cantor](https://open.spotify.com/artist/1NtYiv70buGwaMspHuD49I) | [Disney Junior Music: Lullabies Vol\. 1](https://open.spotify.com/album/6CPPr8LjolXUFAiEMiLQgb) | 1:24 | 2024-03-01 |  |
+| [Grim Grinning Ghosts](https://open.spotify.com/track/1OsxTNbKvrdaXjmoGmltiP) | [Disney Peaceful Guitar](https://open.spotify.com/artist/3oqzxUlHhjJ7auI4dVujKX) | [Disney Guitar: Grim Grinning Ghosts](https://open.spotify.com/album/054i6SZs6LCR7hn8iVKJ0s) | 2:59 | 2024-10-04 |  |
 | [Hakuna Matata](https://open.spotify.com/track/5l5rUCU2QAA1sXTuNPlMHZ) | [Purrple Cat](https://open.spotify.com/artist/73aKnLT4O8G2pBEfdlQzrE), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO), [Disney Lofi](https://open.spotify.com/artist/2ETOhMwFhRRTCH8M1ge17v) | [Lofi Minnie: Focus](https://open.spotify.com/album/37LBLwOpwruXguw0QclQzN) | 2:48 | 2024-03-01 |  |
 | [Happy Working Song](https://open.spotify.com/track/1v4uRGAMORpaj7E8Fc4V6z) | [Disney Peaceful Piano](https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN) | [Disney Peaceful Piano: Relax](https://open.spotify.com/album/7FNfj52JTCxxGbaX2c2ky2) | 2:34 | 2024-03-01 |  |
 | [Hawaiian Roller Coaster Ride](https://open.spotify.com/track/1RDQoUE3pE44TOKKKP8FQC) | [Disney Ukulele](https://open.spotify.com/artist/2L8azGZexr4bN58bhEB7wm), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Ukulele: Happy](https://open.spotify.com/album/0bcbleewCHnbRNDfBls4UI) | 2:13 | 2024-03-01 |  |

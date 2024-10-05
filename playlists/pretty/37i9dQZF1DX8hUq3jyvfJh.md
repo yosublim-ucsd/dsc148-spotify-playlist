@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 ### [EQUAL Brasil](https://open.spotify.com/playlist/37i9dQZF1DX8hUq3jyvfJh)
 
-> Escute Mc Luanna e mais mulheres no volume máximo!
+> Escute Mc Luanna e mais mulheres no volume máximo! Co\-curadoria com <a href="spotify:playlist:37i9dQZF1DZ06evO45TXx1">Mc Luanna</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,801 likes - 37 songs - 1 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,818 likes - 37 songs - 1 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,4 +46,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 36 | [MEU NÍVEL \(Olha Pra Minha Cara\)](https://open.spotify.com/track/6k6W3B8XYNVBqlKcKbw9Z8) | [Boombeat](https://open.spotify.com/artist/6a0FqgWigKdF7FsjHYMspg), [Los Brasileros](https://open.spotify.com/artist/0j1Tuh5A6zWMI4nAjPjBsW), [DMAX](https://open.spotify.com/artist/2yszywMdom6sSwPPMZKRDp) | [METamorFOSE](https://open.spotify.com/album/3zMBfvaDJbLt68YHUO8Exp) | 2:32 |
 | 37 | [Trik Trik](https://open.spotify.com/track/0RrCvxhHeL45xX9VZqzZbn) | [Paige](https://open.spotify.com/artist/1XqfMFbATKSRu5nDy2AZO9) | [Trik Trik](https://open.spotify.com/album/06vB960YqXyLlWcR8xZmpw) | 3:03 |
 
-Snapshot ID: `Zv7/PgAAAABYN7PNVzgfh70o9iHuO6U9`
+Snapshot ID: `Zv/SvQAAAABxV//DIZaLuqCkwH46NJ0Q`

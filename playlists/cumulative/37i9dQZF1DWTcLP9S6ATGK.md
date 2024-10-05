@@ -4,7 +4,7 @@
 
 > Menemani akhir pekanmu dengan lagu\-lagu terbaru\. Cover: Rizwan Fadilah
 
-213 songs - 13 hr 49 min
+215 songs - 13 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [Jahat Sekali](https://open.spotify.com/track/2CazsQWcpzxqTq1sjHiV6x) | [Kezia](https://open.spotify.com/artist/2CcuEDxpgMLXTjNf1sci2b) | [Jahat Sekali](https://open.spotify.com/album/7uGeYMbJ1fAcPRywmZbVFv) | 3:32 | 2024-06-27 | 2024-07-27 |
 | [Jangan Dipaksa](https://open.spotify.com/track/18lmQvoPSexDUEdiYzE6de) | [Tiara Effendy](https://open.spotify.com/artist/2fOTPwnARqKiw6FvDgUJLg) | [Jangan Dipaksa](https://open.spotify.com/album/29oMitH15yroytvMybIlg6) | 3:46 | 2024-06-27 | 2024-09-27 |
 | [Jangan Jangan Kau Bidadari](https://open.spotify.com/track/1TLA39nvqFHGrqQNopBH1S) | [Reygi](https://open.spotify.com/artist/4QwWaQkSuSk9SlE0aQkIfY) | [Jangan Jangan Kau Bidadari](https://open.spotify.com/album/0RT8RZhsMCPo90JSHiNlWL) | 3:58 | 2024-09-19 |  |
+| [Jangan Lupa Pulang \- Live at Aquarius Studio](https://open.spotify.com/track/25UXwOFQbSagKZfFEq6tlt) | [Potret](https://open.spotify.com/artist/5E0ZEllVLvhodbjpK5k9s1) | [Jangan Lupa Pulang \(Live at Aquarius Studio\)](https://open.spotify.com/album/4sitdgmK4736e8SGpmdJfX) | 3:17 | 2024-10-04 |  |
 | [Jatuh Lagi / Benci Lagi](https://open.spotify.com/track/7qcUbC8qA9eI6vgFIVaQD0) | [Adifa](https://open.spotify.com/artist/3ICnmyRuEXfjVutSh1pUbV) | [Jatuh Lagi / Benci Lagi](https://open.spotify.com/album/3y6g0Y2gOOSlR8UxSTDRPH) | 3:00 | 2024-07-25 | 2024-09-13 |
 | [Jatuh Rapuh](https://open.spotify.com/track/5NmL2p9TXa9H17LoCyCKJS) | [Anggis Devaki](https://open.spotify.com/artist/7lXTU6VtJQWfiN2vuZyzqf) | [Jatuh Rapuh](https://open.spotify.com/album/3uX5S5Lrm7mHT22OFt3q00) | 4:30 | 2024-06-27 |  |
 | [Jika Cinta Dia \- Love Recalls Version](https://open.spotify.com/track/3V2l5oSSdcna93pRw1OgQV) | [Geisha](https://open.spotify.com/artist/3txNoNUfBAHT1ZSGT2R30y) | [Love Recalls](https://open.spotify.com/album/7hfFSGo473KD4F40JLxA9A) | 4:20 | 2024-07-04 |  |
@@ -104,6 +105,7 @@
 | [Kini Mereka Tahu](https://open.spotify.com/track/6fMS9J2yAv4I6ss9sQ230f) | [Bernadya](https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC) | [Kini Mereka Tahu](https://open.spotify.com/album/3Z7YGGrQBW3omLHjIvpAQv) | 4:44 | 2024-06-27 | 2024-07-27 |
 | [Kiri Kanan Utara Selatan](https://open.spotify.com/track/2SiMWYcWgaXLAshft1cN9m) | [Langit Sore](https://open.spotify.com/artist/2p8EGJCCavN09PyTOKY9Lj) | [Kiri Kanan Utara Selatan](https://open.spotify.com/album/3bt9zMYusebAeWNQcu4A9r) | 3:44 | 2024-08-15 |  |
 | [Kosong](https://open.spotify.com/track/77Bz89nFEoLosSMOBWOH7S) | [Ruang Senja](https://open.spotify.com/artist/2WSd3E18fZ6riwyEEJPQGp) | [Kosong](https://open.spotify.com/album/5Lkn3337wIpHluKsatGk5i) | 2:44 | 2024-09-26 |  |
+| [Ku mau bahagia juga](https://open.spotify.com/track/07TglkIcQngfPTVh5VYT46) | [Allan Andersn](https://open.spotify.com/artist/4zcXAnIxQ6UDXSu8qDZbsk) | [Ku mau bahagia juga](https://open.spotify.com/album/7kFNNW82vAQtJ6yHi3tWcr) | 4:24 | 2024-10-03 |  |
 | [Kuat](https://open.spotify.com/track/1E8Ahc6hhfHMiwf0cOmvtn) | [Mentari Novel](https://open.spotify.com/artist/5DsdNBqFCoD43aPV8XhxmQ) | [Kuat](https://open.spotify.com/album/20cife3t2WhMEFUKE5028s) | 3:56 | 2024-06-27 | 2024-08-02 |
 | [Kubenci Kau Dengan Cintaku](https://open.spotify.com/track/5ZqWvpGbCCG9TbdxER5fYH) | [Lemontree](https://open.spotify.com/artist/1F6SSA42b7v6eCqCFN3Nr6) | [Kubenci Kau Dengan Cintaku](https://open.spotify.com/album/6szgGvd3yQplHPR0BxVOva) | 4:32 | 2024-07-25 | 2024-09-27 |
 | [Kuingin Kamu](https://open.spotify.com/track/2dnSLcOZSrq3rxavs28Zcj) | [Pasha Chrisye](https://open.spotify.com/artist/51SzlFM7kjMnTxkfuj6tpF) | [Kuingin Kamu](https://open.spotify.com/album/1xM0SBjQbqMANufGGO0muZ) | 4:15 | 2024-08-15 |  |

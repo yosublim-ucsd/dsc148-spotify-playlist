@@ -1,6 +1,6 @@
 {
   "description": "\u65e5\u672c\u306e\u30a4\u30f3\u30c7\u30a3\u30fc\u30fb\u30b5\u30a6\u30f3\u30c9\u3092\u7279\u96c6\u3002The freshest indie sounds from Japan. cover: Bialystocks",
-  "num_followers": 59184,
+  "num_followers": 59191,
   "original_name": "Edge!",
   "owner": {
     "name": "Spotify",
@@ -647,6 +647,26 @@
     {
       "added_at": "2024-10-01 15:00:00",
       "album": {
+        "name": "Day by Day (feat. Zee Avi)",
+        "url": "https://open.spotify.com/album/4oqJVoFDVsAGLzteRJa7uP"
+      },
+      "artists": [
+        {
+          "name": "MuchaMuchaM",
+          "url": "https://open.spotify.com/artist/2s7BL8KxsJymUj7kKaUA0w"
+        },
+        {
+          "name": "Zee Avi",
+          "url": "https://open.spotify.com/artist/6zGcYBjlNOMSVVrl7ZoGsH"
+        }
+      ],
+      "duration_ms": 187200,
+      "name": "Day by Day (feat. Zee Avi)",
+      "url": "https://open.spotify.com/track/0nfnFUOskb0vIO4hM08c39"
+    },
+    {
+      "added_at": "2024-10-01 15:00:00",
+      "album": {
         "name": "\u597d\u4eba\u7d00\u884c",
         "url": "https://open.spotify.com/album/0PPj5HcWUa6ltwCmR0lRun"
       },
@@ -659,22 +679,6 @@
       "duration_ms": 243100,
       "name": "\u597d\u4eba\u7d00\u884c",
       "url": "https://open.spotify.com/track/77y1TjSTPoJpK4Qfvi2gHP"
-    },
-    {
-      "added_at": "2024-10-01 15:00:00",
-      "album": {
-        "name": "THE FAKE ESCAPE",
-        "url": "https://open.spotify.com/album/69tv2teYIILTpu7DYyORy1"
-      },
-      "artists": [
-        {
-          "name": "Helsinki Lambda Club",
-          "url": "https://open.spotify.com/artist/3jpFXrTLWqYtXSAxboiiL5"
-        }
-      ],
-      "duration_ms": 220547,
-      "name": "THE FAKE ESCAPE",
-      "url": "https://open.spotify.com/track/23CNXLcMvLKgeWBEXt7JKS"
     },
     {
       "added_at": "2024-10-01 15:00:00",
@@ -695,22 +699,18 @@
     {
       "added_at": "2024-10-01 15:00:00",
       "album": {
-        "name": "Day by Day (feat. Zee Avi)",
-        "url": "https://open.spotify.com/album/4oqJVoFDVsAGLzteRJa7uP"
+        "name": "THE FAKE ESCAPE",
+        "url": "https://open.spotify.com/album/69tv2teYIILTpu7DYyORy1"
       },
       "artists": [
         {
-          "name": "MuchaMuchaM",
-          "url": "https://open.spotify.com/artist/2s7BL8KxsJymUj7kKaUA0w"
-        },
-        {
-          "name": "Zee Avi",
-          "url": "https://open.spotify.com/artist/6zGcYBjlNOMSVVrl7ZoGsH"
+          "name": "Helsinki Lambda Club",
+          "url": "https://open.spotify.com/artist/3jpFXrTLWqYtXSAxboiiL5"
         }
       ],
-      "duration_ms": 187200,
-      "name": "Day by Day (feat. Zee Avi)",
-      "url": "https://open.spotify.com/track/0nfnFUOskb0vIO4hM08c39"
+      "duration_ms": 220547,
+      "name": "THE FAKE ESCAPE",
+      "url": "https://open.spotify.com/track/23CNXLcMvLKgeWBEXt7JKS"
     },
     {
       "added_at": "2024-10-01 15:00:00",
@@ -787,22 +787,6 @@
     {
       "added_at": "2024-10-01 15:00:00",
       "album": {
-        "name": "Live O Rec",
-        "url": "https://open.spotify.com/album/4bSPM5YprzQ2oEVwN3tGoL"
-      },
-      "artists": [
-        {
-          "name": "cero",
-          "url": "https://open.spotify.com/artist/1V1HDPQwGOyUIr9KB6Oq7Q"
-        }
-      ],
-      "duration_ms": 296374,
-      "name": "\u30de\u30a4\u30fb\u30ed\u30b9\u30c8\u30fb\u30b7\u30c6\u30a3\u30fc - Recorded at LIQUIDROOM 2023.12.3",
-      "url": "https://open.spotify.com/track/7td4nCFdsA3ylPAF0vMMPX"
-    },
-    {
-      "added_at": "2024-10-01 15:00:00",
-      "album": {
         "name": "\u3042\u305f\u3057\u306e\u5168\u90e8\u3092\u611b\u305b\u306a\u3044",
         "url": "https://open.spotify.com/album/0OunnU4xFgcVZBbFZ61kHQ"
       },
@@ -815,6 +799,38 @@
       "duration_ms": 198002,
       "name": "\u3042\u305f\u3057\u306e\u5168\u90e8\u3092\u611b\u305b\u306a\u3044",
       "url": "https://open.spotify.com/track/4Lz2o8TYE2p39ZUJaFpsmk"
+    },
+    {
+      "added_at": "2024-10-01 15:00:00",
+      "album": {
+        "name": "\u72c2\u3063\u3066\u3069\u3046\u306b\u304b\u306a\u308a\u305d\u3046\u306a\u3093\u3060\u3002",
+        "url": "https://open.spotify.com/album/16l6P3XA1iep6gtWBpgKJK"
+      },
+      "artists": [
+        {
+          "name": "Narita",
+          "url": "https://open.spotify.com/artist/3sEl6ZVveEM2iKeJSKskiN"
+        }
+      ],
+      "duration_ms": 118695,
+      "name": "\u60aa\u9b54\u3092\u98fc\u3063\u3066\u308b",
+      "url": "https://open.spotify.com/track/5500y1N4gRYCcb3dKfuOxN"
+    },
+    {
+      "added_at": "2024-10-01 15:00:00",
+      "album": {
+        "name": "Live O Rec",
+        "url": "https://open.spotify.com/album/4bSPM5YprzQ2oEVwN3tGoL"
+      },
+      "artists": [
+        {
+          "name": "cero",
+          "url": "https://open.spotify.com/artist/1V1HDPQwGOyUIr9KB6Oq7Q"
+        }
+      ],
+      "duration_ms": 296374,
+      "name": "\u30de\u30a4\u30fb\u30ed\u30b9\u30c8\u30fb\u30b7\u30c6\u30a3\u30fc - Recorded at LIQUIDROOM 2023.12.3",
+      "url": "https://open.spotify.com/track/7td4nCFdsA3ylPAF0vMMPX"
     },
     {
       "added_at": "2024-10-01 15:00:00",
@@ -847,22 +863,6 @@
       "duration_ms": 165333,
       "name": "\u3042\u306a\u305f\u3060\u3051\u304c",
       "url": "https://open.spotify.com/track/3qklzOjUkuGl5zDPTHmHKe"
-    },
-    {
-      "added_at": "2024-10-01 15:00:00",
-      "album": {
-        "name": "\u72c2\u3063\u3066\u3069\u3046\u306b\u304b\u306a\u308a\u305d\u3046\u306a\u3093\u3060\u3002",
-        "url": "https://open.spotify.com/album/16l6P3XA1iep6gtWBpgKJK"
-      },
-      "artists": [
-        {
-          "name": "Narita",
-          "url": "https://open.spotify.com/artist/3sEl6ZVveEM2iKeJSKskiN"
-        }
-      ],
-      "duration_ms": 118695,
-      "name": "\u60aa\u9b54\u3092\u98fc\u3063\u3066\u308b",
-      "url": "https://open.spotify.com/track/5500y1N4gRYCcb3dKfuOxN"
     },
     {
       "added_at": "2024-10-01 15:00:00",
@@ -951,6 +951,22 @@
     {
       "added_at": "2024-10-01 15:00:00",
       "album": {
+        "name": "\u3053\u308f\u308c\u3082\u306e",
+        "url": "https://open.spotify.com/album/3yLBAwSlwwKWXJwXfiv0V1"
+      },
+      "artists": [
+        {
+          "name": "Guiba",
+          "url": "https://open.spotify.com/artist/2sQDtRUhEQYV97PR2EWESN"
+        }
+      ],
+      "duration_ms": 279936,
+      "name": "\u5199\u771f\u96c6",
+      "url": "https://open.spotify.com/track/0RBiX0u3G1yXOEU4EbVx4T"
+    },
+    {
+      "added_at": "2024-10-01 15:00:00",
+      "album": {
         "name": "Oyasumi na Sayang (feat. Zee Avi)",
         "url": "https://open.spotify.com/album/4p7uVBHKYAYASXD0zIVbsr"
       },
@@ -967,22 +983,6 @@
       "duration_ms": 203389,
       "name": "Oyasumi na Sayang (feat. Zee Avi)",
       "url": "https://open.spotify.com/track/2trAm3w2aYDTD99YgIrEAP"
-    },
-    {
-      "added_at": "2024-10-01 15:00:00",
-      "album": {
-        "name": "\u3053\u308f\u308c\u3082\u306e",
-        "url": "https://open.spotify.com/album/3yLBAwSlwwKWXJwXfiv0V1"
-      },
-      "artists": [
-        {
-          "name": "Guiba",
-          "url": "https://open.spotify.com/artist/2sQDtRUhEQYV97PR2EWESN"
-        }
-      ],
-      "duration_ms": 279936,
-      "name": "\u5199\u771f\u96c6",
-      "url": "https://open.spotify.com/track/0RBiX0u3G1yXOEU4EbVx4T"
     },
     {
       "added_at": "2024-10-01 15:00:00",
@@ -1023,6 +1023,26 @@
     {
       "added_at": "2024-10-01 15:00:00",
       "album": {
+        "name": "Sorrow (feat. Mandark)",
+        "url": "https://open.spotify.com/album/4g4MowiT8Au4qUYZABRcyQ"
+      },
+      "artists": [
+        {
+          "name": "Tokimeki Records",
+          "url": "https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1"
+        },
+        {
+          "name": "Mandark",
+          "url": "https://open.spotify.com/artist/7znAteIK9wAnN6URYwFsks"
+        }
+      ],
+      "duration_ms": 192857,
+      "name": "Sorrow (feat. Mandark)",
+      "url": "https://open.spotify.com/track/0ZCcrOzh8CnhkQY0PpcKzT"
+    },
+    {
+      "added_at": "2024-10-01 15:00:00",
+      "album": {
         "name": "\u6ce1\u306b\u306a\u3063\u3066\u3082",
         "url": "https://open.spotify.com/album/6jyCTOIpaUUhbLBvpCmwip"
       },
@@ -1035,6 +1055,38 @@
       "duration_ms": 241773,
       "name": "\u6ce1\u306b\u306a\u3063\u3066\u3082",
       "url": "https://open.spotify.com/track/5K8fwWbc0eN97hOeSWdqaA"
+    },
+    {
+      "added_at": "2024-10-01 15:00:00",
+      "album": {
+        "name": "\u30ad\u30ea\u30b3",
+        "url": "https://open.spotify.com/album/5oTBl4jE0kOqmrZefDnjOC"
+      },
+      "artists": [
+        {
+          "name": "Helsinki Lambda Club",
+          "url": "https://open.spotify.com/artist/3jpFXrTLWqYtXSAxboiiL5"
+        }
+      ],
+      "duration_ms": 224626,
+      "name": "\u30ad\u30ea\u30b3",
+      "url": "https://open.spotify.com/track/4GEbfJOxBQjCbTtG9CPZY9"
+    },
+    {
+      "added_at": "2024-10-01 15:00:00",
+      "album": {
+        "name": "\u4f1d\u3048\u3066\uff01",
+        "url": "https://open.spotify.com/album/68b21AlBcxyRkktcgAxhgM"
+      },
+      "artists": [
+        {
+          "name": "odol",
+          "url": "https://open.spotify.com/artist/1JWciWrGdCTOWeycrjFWpS"
+        }
+      ],
+      "duration_ms": 249496,
+      "name": "\u4f1d\u3048\u3066\uff01",
+      "url": "https://open.spotify.com/track/1rUG9DgM3WBXA1Jh73Zjwa"
     },
     {
       "added_at": "2024-10-01 15:00:00",
@@ -1099,6 +1151,38 @@
     {
       "added_at": "2024-10-01 15:00:00",
       "album": {
+        "name": "\u7d20\u76f4 - My Favorite Things Ver.",
+        "url": "https://open.spotify.com/album/1zVYXR52oPGXd2MiJqqwIU"
+      },
+      "artists": [
+        {
+          "name": "Satoko Shibata",
+          "url": "https://open.spotify.com/artist/4RaaBbyl7DzAmfkjGiyUGU"
+        }
+      ],
+      "duration_ms": 232709,
+      "name": "\u7d20\u76f4 - My Favorite Things Ver.",
+      "url": "https://open.spotify.com/track/4UT4ZIYNEZGNySxuaRQXD2"
+    },
+    {
+      "added_at": "2024-10-01 15:00:00",
+      "album": {
+        "name": "vector",
+        "url": "https://open.spotify.com/album/5eYcfwoPThcQM2xShDrAZx"
+      },
+      "artists": [
+        {
+          "name": "E.scene",
+          "url": "https://open.spotify.com/artist/3Gij27vfnbyoFhJ78ZFco5"
+        }
+      ],
+      "duration_ms": 303118,
+      "name": "vector",
+      "url": "https://open.spotify.com/track/6D3E2eTZj2u005qETavKPX"
+    },
+    {
+      "added_at": "2024-10-01 15:00:00",
+      "album": {
         "name": "\u3044\u3051\u306a\u3044",
         "url": "https://open.spotify.com/album/6ijZiPgas24NAko4hHKdPW"
       },
@@ -1147,22 +1231,6 @@
     {
       "added_at": "2024-10-01 15:00:00",
       "album": {
-        "name": "vector",
-        "url": "https://open.spotify.com/album/5eYcfwoPThcQM2xShDrAZx"
-      },
-      "artists": [
-        {
-          "name": "E.scene",
-          "url": "https://open.spotify.com/artist/3Gij27vfnbyoFhJ78ZFco5"
-        }
-      ],
-      "duration_ms": 303118,
-      "name": "vector",
-      "url": "https://open.spotify.com/track/6D3E2eTZj2u005qETavKPX"
-    },
-    {
-      "added_at": "2024-10-01 15:00:00",
-      "album": {
         "name": "\u681e",
         "url": "https://open.spotify.com/album/1pbbqvubINafcryUI0cuhR"
       },
@@ -1183,18 +1251,18 @@
     {
       "added_at": "2024-10-01 15:00:00",
       "album": {
-        "name": "\u541b\u3088\u308a\u3082\u541b\u3089\u3057\u3044",
-        "url": "https://open.spotify.com/album/6Odhs3MSJpuMuRGPzEs4QQ"
+        "name": "\u6ea2\u308c\u51fa\u3059",
+        "url": "https://open.spotify.com/album/2yNfzEkafkkNx9Vs8ivYGb"
       },
       "artists": [
         {
-          "name": "OGRE YOU ASSHOLE",
-          "url": "https://open.spotify.com/artist/0X9vdekJ6sIKcUvwIgVsjW"
+          "name": "ROMANKAKUMEI",
+          "url": "https://open.spotify.com/artist/6jgUFsEBD3a3CW645IVQuN"
         }
       ],
-      "duration_ms": 233236,
-      "name": "\u541b\u3088\u308a\u3082\u541b\u3089\u3057\u3044",
-      "url": "https://open.spotify.com/track/0DwBDvqgXKhtFs7XpS9eEZ"
+      "duration_ms": 223532,
+      "name": "\u541b\u3068\u3044\u3046\u5929\u4f7f",
+      "url": "https://open.spotify.com/track/0S9ZxxN9F1811xKFacBCFs"
     },
     {
       "added_at": "2024-10-01 15:00:00",
@@ -1219,82 +1287,18 @@
     {
       "added_at": "2024-10-01 15:00:00",
       "album": {
-        "name": "\u6ea2\u308c\u51fa\u3059",
-        "url": "https://open.spotify.com/album/2yNfzEkafkkNx9Vs8ivYGb"
+        "name": "\u541b\u3088\u308a\u3082\u541b\u3089\u3057\u3044",
+        "url": "https://open.spotify.com/album/6Odhs3MSJpuMuRGPzEs4QQ"
       },
       "artists": [
         {
-          "name": "ROMANKAKUMEI",
-          "url": "https://open.spotify.com/artist/6jgUFsEBD3a3CW645IVQuN"
+          "name": "OGRE YOU ASSHOLE",
+          "url": "https://open.spotify.com/artist/0X9vdekJ6sIKcUvwIgVsjW"
         }
       ],
-      "duration_ms": 223532,
-      "name": "\u541b\u3068\u3044\u3046\u5929\u4f7f",
-      "url": "https://open.spotify.com/track/0S9ZxxN9F1811xKFacBCFs"
-    },
-    {
-      "added_at": "2024-10-01 15:00:00",
-      "album": {
-        "name": "Higher",
-        "url": "https://open.spotify.com/album/5d9cAMhQ094u3wzKY3iraV"
-      },
-      "artists": [
-        {
-          "name": "luvis",
-          "url": "https://open.spotify.com/artist/0TkhuOSDpZ6NhRiPkmQ77M"
-        }
-      ],
-      "duration_ms": 221943,
-      "name": "Higher",
-      "url": "https://open.spotify.com/track/1xgqWAixmkbPMmW3jypi5Q"
-    },
-    {
-      "added_at": "2024-10-01 15:00:00",
-      "album": {
-        "name": "Electronic Phantoms",
-        "url": "https://open.spotify.com/album/0y8hFBOstlHWL97IYb1uAL"
-      },
-      "artists": [
-        {
-          "name": "maya ongaku",
-          "url": "https://open.spotify.com/artist/2dYBechVJjAf6bTo5se1N5"
-        }
-      ],
-      "duration_ms": 182162,
-      "name": "Love with Phantom",
-      "url": "https://open.spotify.com/track/0F4BawcWjALvX77NEImm37"
-    },
-    {
-      "added_at": "2024-10-01 15:00:00",
-      "album": {
-        "name": "777",
-        "url": "https://open.spotify.com/album/4vxg4elTq7Z6jeJ8EZ3Jof"
-      },
-      "artists": [
-        {
-          "name": "\u30c6\u30a3\u30f3\u30da\u30c3\u30c4",
-          "url": "https://open.spotify.com/artist/75uba7u8cg297V1nx7HGh1"
-        }
-      ],
-      "duration_ms": 234726,
-      "name": "777",
-      "url": "https://open.spotify.com/track/5l6xICeSEsFKASUtPVnhZO"
-    },
-    {
-      "added_at": "2024-10-01 15:00:00",
-      "album": {
-        "name": "\u30b9\u30a6\u30a3\u30fc\u30c8\u30fb\u30b9\u30da\u30fc\u30b9",
-        "url": "https://open.spotify.com/album/4wO3ZeoAg2bfDVWzIIjgnt"
-      },
-      "artists": [
-        {
-          "name": "Nagakumo",
-          "url": "https://open.spotify.com/artist/3iT7qp7T00Ot50wtDct8gw"
-        }
-      ],
-      "duration_ms": 217715,
-      "name": "\u30b9\u30a6\u30a3\u30fc\u30c8\u30fb\u30b9\u30da\u30fc\u30b9",
-      "url": "https://open.spotify.com/track/432JTwXjVFHfS1oEG4JFbO"
+      "duration_ms": 233236,
+      "name": "\u541b\u3088\u308a\u3082\u541b\u3089\u3057\u3044",
+      "url": "https://open.spotify.com/track/0DwBDvqgXKhtFs7XpS9eEZ"
     }
   ],
   "unique_name": "Edge!",

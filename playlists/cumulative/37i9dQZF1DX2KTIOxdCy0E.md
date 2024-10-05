@@ -4,7 +4,7 @@
 
 > Will they...won't they...should they? Listen to the music from Nobody Wants This, curated by Este Haim + Zach Dawes, now streaming on Netflix.
 
-65 songs - 3 hr 48 min
+66 songs - 3 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Milionària](https://open.spotify.com/track/2K3bjojp1sCLdMMoO5lJ2p) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Fucking Money Man](https://open.spotify.com/album/7qJZgNj9IMy9onoTe5uhZc) | 2:18 | 2022-09-16 | 2024-09-20 |
 | [Moody](https://open.spotify.com/track/5BeZELzAySW7mN4aHswS5I) | [ESG](https://open.spotify.com/artist/4EF5vIcCYKMM61oYOG2Tqa) | [Esg](https://open.spotify.com/album/11lQrQFjNkIVdaa4royDt7) | 2:49 | 2024-09-19 |  |
 | [Move](https://open.spotify.com/track/5FoSDKPB0QufTlGbOBye0F) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN) | [Move](https://open.spotify.com/album/1KaLxqjf1O9xnxS5Z3G1ga) | 3:16 | 2022-09-16 | 2024-09-20 |
+| [MY DEMONS](https://open.spotify.com/track/3LUcU1uaK0gp9lBNFlCNII) | [GLU](https://open.spotify.com/artist/2z6598dYz4eQbCJ1t0kT1N), [Phantogram](https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH) | [MY DEMONS](https://open.spotify.com/album/5s5mG6bz04LEXbwO1Fufyp) | 3:29 | 2024-10-04 |  |
 | [Now I'm In It \- Bonus Track](https://open.spotify.com/track/79j4vuHRCd99r5PvgG1zev) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [I Know Alone](https://open.spotify.com/album/4veKZd8uf7TDVo1KQRVhuk) | 3:24 | 2024-09-19 |  |
 | [obsessed](https://open.spotify.com/track/6tNgRQ0K2NYZ0Rb9l9DzL8) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS \(spilled\)](https://open.spotify.com/album/1D06fz3cuob62ysTS8k6gu) | 2:50 | 2024-09-19 |  |
 | [Praise You](https://open.spotify.com/track/3yGy1JYz3zQKlxSgjgpQqX) | [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW) | [You've Come A Long Way Baby](https://open.spotify.com/album/5oF9RaCKaF7e5siW9zdl6L) | 5:23 | 2022-09-16 | 2024-09-20 |

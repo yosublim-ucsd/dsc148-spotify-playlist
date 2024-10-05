@@ -281,6 +281,28 @@
     },
     {
       "album": {
+        "name": "Business Core",
+        "url": "https://open.spotify.com/album/5OdAH4Et1G5crDieu9xroD"
+      },
+      "artists": [
+        {
+          "name": "distraction4ever",
+          "url": "https://open.spotify.com/artist/7thbB90E6B9E50WqGJlcSh"
+        },
+        {
+          "name": "fish narc",
+          "url": "https://open.spotify.com/artist/1IxZyCzEKTCm8z7gSgyfTU"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129000,
+      "name": "5a7",
+      "url": "https://open.spotify.com/track/3Os7vQSGt2CeT2Q8SvGKSP"
+    },
+    {
+      "album": {
         "name": "EYEYE",
         "url": "https://open.spotify.com/album/4DEuMVYWVQHxhE8oNBO8T4"
       },
@@ -1226,7 +1248,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 228040,
       "name": "Already Gone",
       "url": "https://open.spotify.com/track/6QrQIAcvX1OZ0UrOjj2mrJ"
@@ -1778,6 +1800,24 @@
       "duration_ms": 278017,
       "name": "Babe Ruth",
       "url": "https://open.spotify.com/track/3c0xttpVl8Z8L9VpDGRwnh"
+    },
+    {
+      "album": {
+        "name": "Babestation",
+        "url": "https://open.spotify.com/album/2qW4x5XJJbyvUmQd5XeMph"
+      },
+      "artists": [
+        {
+          "name": "Babymorocco",
+          "url": "https://open.spotify.com/artist/6EyzBjjCPBP7s5W8d3wMOe"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115611,
+      "name": "Babestation",
+      "url": "https://open.spotify.com/track/7nT8JIqqQeWQDO9CVgqXb5"
     },
     {
       "album": {
@@ -4189,6 +4229,24 @@
     },
     {
       "album": {
+        "name": "Circle Games",
+        "url": "https://open.spotify.com/album/1GYjylMo8zY4kxIsOgKHSD"
+      },
+      "artists": [
+        {
+          "name": "urika's bedroom",
+          "url": "https://open.spotify.com/artist/6LhbOssuAbrXa5Wzcskhhw"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249761,
+      "name": "Circle Games",
+      "url": "https://open.spotify.com/track/6VZRm4X4getEc5XG1wqDe5"
+    },
+    {
+      "album": {
         "name": "Circulation",
         "url": "https://open.spotify.com/album/1IMM3bKohRoNLfDDH7kzEC"
       },
@@ -5042,7 +5100,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 170400,
       "name": "Crazy Cheap",
       "url": "https://open.spotify.com/track/3BvwN0lAegXbVBEyVcLTlw"
@@ -6125,7 +6183,7 @@
     },
     {
       "album": {
-        "name": "EDITS",
+        "name": "Great Doubt (EDITS)",
         "url": "https://open.spotify.com/album/3Q4ckErENVJA9V1nx3pMS4"
       },
       "artists": [
@@ -6146,7 +6204,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 145125,
-      "name": "Do you wanna - Fine & Molina Edit",
+      "name": "Do you wanna - Fine + Molina EDIT",
       "url": "https://open.spotify.com/track/6xTOSlWaiBRiVj3Xh265FL"
     },
     {
@@ -6344,6 +6402,24 @@
       "duration_ms": 155490,
       "name": "Don't Say",
       "url": "https://open.spotify.com/track/3zpV1pF29S3jPGNY1J8HZo"
+    },
+    {
+      "album": {
+        "name": "Don't Wanna Know How You Feel",
+        "url": "https://open.spotify.com/album/3rkcSbdB7vnlaJ3YeOJB6i"
+      },
+      "artists": [
+        {
+          "name": "Delachute",
+          "url": "https://open.spotify.com/artist/63xoDp7jjgyzogVPxmVgjX"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103973,
+      "name": "Don't Wanna Know How You Feel",
+      "url": "https://open.spotify.com/track/6kAtAcYclMSIOL8MXXAuPp"
     },
     {
       "album": {
@@ -7074,7 +7150,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 185611,
       "name": "Enemy",
       "url": "https://open.spotify.com/track/268NeJoV7OsLvYY8v09WZs"
@@ -9398,6 +9474,24 @@
       "duration_ms": 221733,
       "name": "Got Em (Sango Remix)",
       "url": "https://open.spotify.com/track/52b5Bl2zPRRfZi7uinhGZR"
+    },
+    {
+      "album": {
+        "name": "Honey",
+        "url": "https://open.spotify.com/album/7uxfQPw7jZrMCwmFijglNT"
+      },
+      "artists": [
+        {
+          "name": "Caribou",
+          "url": "https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191065,
+      "name": "Got to Change",
+      "url": "https://open.spotify.com/track/5oV0DfWqOf8hn40u37hepA"
     },
     {
       "album": {
@@ -15234,7 +15328,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 178604,
       "name": "More Than a Lova",
       "url": "https://open.spotify.com/track/3t2cCAri8L6w5pH4OlhqQf"
@@ -15256,7 +15350,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 167111,
       "name": "MORNING DEW",
       "url": "https://open.spotify.com/track/5dZiqJidHLQ0MzO7fcfGv2"
@@ -16796,6 +16890,28 @@
       "duration_ms": 128615,
       "name": "Olympian",
       "url": "https://open.spotify.com/track/0CAyfEyFk3Ux8fF02Av8xF"
+    },
+    {
+      "album": {
+        "name": "Omega (feat. Ralphie Choo)",
+        "url": "https://open.spotify.com/album/5wtVvVmUynbA3Yj1Pqys8w"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        },
+        {
+          "name": "Ralphie Choo",
+          "url": "https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169500,
+      "name": "Omega (feat. Ralphie Choo)",
+      "url": "https://open.spotify.com/track/2ibFPYHzUnqVpS2rv655oF"
     },
     {
       "album": {
@@ -19148,7 +19264,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 196000,
       "name": "Romance ESL",
       "url": "https://open.spotify.com/track/2xN2QDZPQxJNmWHatPfjOc"
@@ -20822,6 +20938,28 @@
       "duration_ms": 186133,
       "name": "SNL",
       "url": "https://open.spotify.com/track/0NNZ07BRhzBvzj0WFDuocV"
+    },
+    {
+      "album": {
+        "name": "Snowpath",
+        "url": "https://open.spotify.com/album/53piZ0a4vXwSbHZrymx7rT"
+      },
+      "artists": [
+        {
+          "name": "Jonah Yano",
+          "url": "https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ"
+        },
+        {
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133000,
+      "name": "Snowpath",
+      "url": "https://open.spotify.com/track/1e1QnRkEXG5HFMOUFo3V4L"
     },
     {
       "album": {
@@ -24782,7 +24920,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 238027,
       "name": "Volume",
       "url": "https://open.spotify.com/track/3FTjdr8D814YDBWxsD1V54"
@@ -24896,6 +25034,24 @@
       "duration_ms": 268776,
       "name": "Waiting For The Day",
       "url": "https://open.spotify.com/track/19WKcEuuC6QVm6C2DdJmQA"
+    },
+    {
+      "album": {
+        "name": "Waiting for the Phone to Ring",
+        "url": "https://open.spotify.com/album/2t50y9DdO7yPhnM54cAIvf"
+      },
+      "artists": [
+        {
+          "name": "HOMESHAKE",
+          "url": "https://open.spotify.com/artist/4DMSJzGjw2SMkKAT5EEE5u"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239999,
+      "name": "Waiting for the Phone to Ring",
+      "url": "https://open.spotify.com/track/6vcI4lCZTei1aZYZqVkTMw"
     },
     {
       "album": {
@@ -26118,7 +26274,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 245933,
       "name": "XTC",
       "url": "https://open.spotify.com/track/1nprNtGeg6usxwk5TZHJNi"

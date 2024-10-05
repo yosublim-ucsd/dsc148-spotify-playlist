@@ -4,7 +4,7 @@
 
 > Beyond titles, beyond genre\. Cover: yuné pinku
 
-256 songs - 14 hr 51 min
+257 songs - 14 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [cutting grass](https://open.spotify.com/track/0ppaXTvuIgsCIEws6shvAX) | [TENDER](https://open.spotify.com/artist/1I9HNoVK6kOQGVZfulXVnm) | [cutting grass](https://open.spotify.com/album/7maQPrZw6mZViTmb2b9isU) | 5:10 | 2024-07-25 | 2024-09-06 |
 | [Dafodil](https://open.spotify.com/track/6VVRLkRdr7EzgKTHzYZ1pa) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [Kelsey Lu](https://open.spotify.com/artist/0fEfMW5bypHZ0A8eLnhwj5), [John Glacier](https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d), [Panda Bear](https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ) | [Dafodil](https://open.spotify.com/album/2lg6Q82rLglSMu4JkvnHDb) | 3:32 | 2024-08-29 |  |
 | [dance of the trees](https://open.spotify.com/track/4bG78LXku0K6bKIQ4IS5Yu) | [Mikayla Geier](https://open.spotify.com/artist/3L7svRFWE5kcIReq1uwC5J) | [dance of the trees](https://open.spotify.com/album/5EE8f2rtxbQsGwVPfVNySX) | 2:31 | 2024-06-27 | 2024-07-05 |
+| [Dancing Circles 2.0](https://open.spotify.com/track/3C5eqElWp0s4of3vTU37bF) | [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Lahai \- Deluxe](https://open.spotify.com/album/0oKro6GftR6X0sk7fVH7T8) | 3:46 | 2024-10-04 |  |
 | [DANCING LIKE WE'LL NEVER DIE](https://open.spotify.com/track/35dwjl1Zr9N6z4zwYdvNfS) | [Yellow Days](https://open.spotify.com/artist/3dv4Q4q3LWOnbLJnC6GgTY) | [HOTEL HEAVEN \- Extended](https://open.spotify.com/album/5AndgFVIQlZ4XyTKsQ6GPH) | 5:10 | 2024-08-08 | 2024-09-28 |
 | [dead giveaway](https://open.spotify.com/track/3Eidg0OLrDYFjsyjJTzieL) | [Nemahsis](https://open.spotify.com/artist/3IoGpeLyopeqGwiD4Nnt1f) | [Verbathim](https://open.spotify.com/album/6aLc5t3mdbmonoCZMAnZ7N) | 2:47 | 2024-09-12 |  |
 | [Death & Romance](https://open.spotify.com/track/5jnlJbBK53L6Nd3ox8T0ot) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Death & Romance](https://open.spotify.com/album/51g8P7ai5xyj970iIdmMFz) | 5:14 | 2024-06-27 | 2024-08-09 |
@@ -67,7 +68,7 @@
 | [devils](https://open.spotify.com/track/2CjTQ2Nn30GEoqHkWOYBFh) | [BAD WITH PHONES](https://open.spotify.com/artist/6pCduVf5CPK2i5C6FdWfaC) | [CRASH](https://open.spotify.com/album/4u4mLQ5FDOc77xCvFtCNXk) | 3:01 | 2024-07-11 | 2024-08-09 |
 | [Dimitri](https://open.spotify.com/track/1a4uzwj1AaLhwWN8rUQxjg) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y) | [Love Heart Cheat Code](https://open.spotify.com/album/4JdePMYeuoe34rqQ1D19K0) | 4:28 | 2024-06-27 | 2024-08-09 |
 | [DISCONNECT!](https://open.spotify.com/track/5L8ePieWLK2VH54T6przZd) | [Jeshi](https://open.spotify.com/artist/0q8eApZJs5WDBxayY9769C), [Fredwave](https://open.spotify.com/artist/2mP7s6geSborhRN3ohxJqz), [Louis Culture](https://open.spotify.com/artist/7k6jdEkR8FoKdOi0iW4VkR), [J\. Caesar](https://open.spotify.com/artist/6ORvJlDfKQanl44XNrLvJK) | [DISCONNECT!](https://open.spotify.com/album/57QnFe5437sz6PBwhTreVf) | 3:55 | 2024-07-25 |  |
-| [Do you wanna \- Fine & Molina Edit](https://open.spotify.com/track/6xTOSlWaiBRiVj3Xh265FL) | [Astrid Sonne](https://open.spotify.com/artist/7qiyPneI60DzZmxVxC7689), [Fine](https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5), [Molina](https://open.spotify.com/artist/0pxhu7zSqPjBTUWMl6piHF) | [EDITS](https://open.spotify.com/album/3Q4ckErENVJA9V1nx3pMS4) | 2:25 | 2024-10-03 |  |
+| [Do you wanna \- Fine + Molina EDIT](https://open.spotify.com/track/6xTOSlWaiBRiVj3Xh265FL) | [Astrid Sonne](https://open.spotify.com/artist/7qiyPneI60DzZmxVxC7689), [Fine](https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5), [Molina](https://open.spotify.com/artist/0pxhu7zSqPjBTUWMl6piHF) | [Great Doubt \(EDITS\)](https://open.spotify.com/album/3Q4ckErENVJA9V1nx3pMS4) | 2:25 | 2024-10-03 |  |
 | [Don't Ask](https://open.spotify.com/track/79bBVxV5lVioQrTtc9Nvgo) | [Kaeto](https://open.spotify.com/artist/49haq8aaaDI1pXbY1XcQaK) | [Don't Ask](https://open.spotify.com/album/3845UbclK8HF1EKsgT6Lc4) | 4:05 | 2024-06-27 | 2024-08-16 |
 | [Don't Go Back To Paris](https://open.spotify.com/track/0jeGTzkvrNRBC8Dt8bsDRN) | [Remy Bond](https://open.spotify.com/artist/2voadhFGdduSYHDvsVqyXo) | [Paris / San Francisco](https://open.spotify.com/album/2VFJG91yaQl6TuCWpP95bw) | 3:47 | 2024-08-15 |  |
 | [don't want u to die](https://open.spotify.com/track/2RKFPVUnx3jtvsTBSC8Tif) | [Thala](https://open.spotify.com/artist/5JkWwSezW4KRFNy0ru3aZU) | [don't want u to die](https://open.spotify.com/album/6GiCET4YvGHfvcnHi4KZJB) | 3:08 | 2024-07-04 | 2024-08-24 |

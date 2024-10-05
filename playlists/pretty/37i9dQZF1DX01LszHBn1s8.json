@@ -1,12 +1,12 @@
 {
   "description": "it's sweater weather \ud83c\udf41\ud83e\uddf6",
-  "num_followers": 264746,
+  "num_followers": 264950,
   "original_name": "pov",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zv6oxgAAAAB9OTvbINVz0vdM8I3G4xFR",
+  "snapshot_id": "Zv/07AAAAABi+ybg05oR6aN8M8mJsQsf",
   "tracks": [
     {
       "added_at": "2024-08-15 08:57:47",
@@ -187,6 +187,26 @@
       "duration_ms": 238173,
       "name": "Don't Dream It's Over",
       "url": "https://open.spotify.com/track/56GbZVwxMdf1DENCluYS8A"
+    },
+    {
+      "added_at": "2024-10-04 14:00:11",
+      "album": {
+        "name": "Vanilj",
+        "url": "https://open.spotify.com/album/5QuG1YYAkTFUF7DETHLleW"
+      },
+      "artists": [
+        {
+          "name": "BoBa",
+          "url": "https://open.spotify.com/artist/4Ui11oqvDCTqw4fxX2XkFW"
+        },
+        {
+          "name": "Malik Dalasi",
+          "url": "https://open.spotify.com/artist/1n3grwmOigAA2UYtlF91gc"
+        }
+      ],
+      "duration_ms": 139516,
+      "name": "Vanilj",
+      "url": "https://open.spotify.com/track/2CBuonjhTSzjzDBKNhjxlF"
     },
     {
       "added_at": "2024-09-18 13:11:58",

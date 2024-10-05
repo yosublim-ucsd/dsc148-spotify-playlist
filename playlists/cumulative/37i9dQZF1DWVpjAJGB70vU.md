@@ -2,7 +2,7 @@
 
 ### [90s Country](https://open.spotify.com/playlist/37i9dQZF1DWVpjAJGB70vU)
 
-> We're celebrating 30 years of Clay Walker's iconic album "If I Could Make a Living" on 90s Country!
+> The country that made country cool\. Cover: George Strait
 
 194 songs - 11 hr 17 min
 

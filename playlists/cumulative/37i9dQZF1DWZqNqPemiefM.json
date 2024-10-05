@@ -2009,6 +2009,28 @@
     },
     {
       "album": {
+        "name": "Secret Life",
+        "url": "https://open.spotify.com/album/1FJVbtVFLARPKbn1HepNh1"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320533,
+      "name": "Cmon",
+      "url": "https://open.spotify.com/track/4kaiSmJrLgQq0w2qFuzAwy"
+    },
+    {
+      "album": {
         "name": "Gathering the Light",
         "url": "https://open.spotify.com/album/1q9AAf9QiUTlgbvHeFM4Ax"
       },
@@ -2468,6 +2490,24 @@
       "duration_ms": 130280,
       "name": "Dear - Haruhisa Tanaka Remix",
       "url": "https://open.spotify.com/track/2ywToZCo1xMtpjNiajUN15"
+    },
+    {
+      "album": {
+        "name": "Been Around Here Before",
+        "url": "https://open.spotify.com/album/06WurVHf23VgwllXpEeC1u"
+      },
+      "artists": [
+        {
+          "name": "Black Brunswicker",
+          "url": "https://open.spotify.com/artist/3EobQTdmT0DDyzqaByPmB4"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211500,
+      "name": "Deep in a Summer Malaise",
+      "url": "https://open.spotify.com/track/55l44sq8bCz2yPVUXRimZS"
     },
     {
       "album": {
@@ -6736,7 +6776,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 261333,
       "name": "Nomozaki",
       "url": "https://open.spotify.com/track/3tUB1UvLWbFkSrPmFftXdp"
@@ -7751,6 +7791,24 @@
     },
     {
       "album": {
+        "name": "Connection",
+        "url": "https://open.spotify.com/album/3iFigjuA451SneLjONrGiK"
+      },
+      "artists": [
+        {
+          "name": "Night Tempo",
+          "url": "https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151000,
+      "name": "Regret",
+      "url": "https://open.spotify.com/track/0Lni2Ik6J0VaJFrNYNFE7S"
+    },
+    {
+      "album": {
         "name": "The Nothings of The North",
         "url": "https://open.spotify.com/album/3Idut3J1biBvpPCoT6eSVj"
       },
@@ -7864,6 +7922,24 @@
       "duration_ms": 307000,
       "name": "Revans",
       "url": "https://open.spotify.com/track/2fkefVBwTkw2KaiY0M84hI"
+    },
+    {
+      "album": {
+        "name": "#3 / Rhubarb Orc. 19.53 Rev",
+        "url": "https://open.spotify.com/album/25tU48vYTi5RyyJzElp1Yc"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 401911,
+      "name": "Rhubarb Orc. 19.53 Rev",
+      "url": "https://open.spotify.com/track/7wOsvlAHz8E0ycT6NYto13"
     },
     {
       "album": {
@@ -9896,7 +9972,7 @@
       ],
       "date_added": "2024-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 201320,
       "name": "TETSUO [\u9244\u96c4] (Remixed by \u4e45\u4fdd\u7530\u9ebb\u7434)",
       "url": "https://open.spotify.com/track/5LVNUYvVuRfcoIC5ZO3RNt"
@@ -11396,7 +11472,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 195681,
       "name": "\u3042\u306a\u305f\u306f\u732b\u3067\u3059",
       "url": "https://open.spotify.com/track/4B8y9ZGZeWoCV0KOIzFSoU"
@@ -11620,7 +11696,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 629007,
       "name": "\u30de\u30b8\u30a8\u30eb\u306e\u307e\u3069\u308d\u307f - Majel's Slumber",
       "url": "https://open.spotify.com/track/5AeZqVy9kG5B5X8lnYCnNX"

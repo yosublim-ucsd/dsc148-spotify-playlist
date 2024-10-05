@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > De beste nieuwe releases van de week! Cover: Coldplay
 
-[Spotify](https://open.spotify.com/user/spotify) - 264,699 likes - 98 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 264,761 likes - 99 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,15 +96,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 86 | [Stop Walking In The Rain](https://open.spotify.com/track/43rhjLzYcgSKqpDCZ4W8rw) | [MISTER & MRS](https://open.spotify.com/artist/5FO3joAbAp6AwuaTlEAnmS) | [Stop Walking In The Rain](https://open.spotify.com/album/2VtOOyw4qRsdZVGtDCRScH) | 3:04 |
 | 87 | [Cover To Cover](https://open.spotify.com/track/4yu891jBP6l633Fy4dBokv) | [Nathan Ball](https://open.spotify.com/artist/5a1CkvrJSjRH8ZzWTMRsCd) | [Cover To Cover](https://open.spotify.com/album/1J1VVBCKfD92IYfEZFAY9I) | 4:00 |
 | 88 | [Doodleverse](https://open.spotify.com/track/5QEySPpoBpiCFq8L1ZxeBh) | [Doodles](https://open.spotify.com/artist/6U0aWTZ4llc1ICfyFPtIzd), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Doodleverse](https://open.spotify.com/album/1Kzhk9pMJOCFUGeTTO1GuW) | 2:49 |
-| 89 | [Recién Soltera](https://open.spotify.com/track/62NnbMclYuQuF09B0ShIPV) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Recién Soltera](https://open.spotify.com/album/5cSGLKp6GpfyYBjtCp2T2D) | 3:03 |
-| 90 | [Akon's Beautiful Day](https://open.spotify.com/track/5z7l1HQ9KzqT8yLcViRG1L) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Akon's Beautiful Day](https://open.spotify.com/album/3XA6fev8Ssr6jAfR8kd7Wa) | 2:37 |
-| 91 | [Magic](https://open.spotify.com/track/1ssJcV4TYevaV87K813ht6) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj) | [Magic](https://open.spotify.com/album/2mXQsMd0DEX5zrFEuI5Zij) | 3:10 |
-| 92 | [What This Could Be](https://open.spotify.com/track/3NaOEouWqMCBwR0vQcVFt7) | [Joe Jonas](https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL) | [What This Could Be / Work It Out](https://open.spotify.com/album/534YIkJVj0Hlpuw0jMpf1h) | 3:18 |
-| 93 | [Dance in the Rain](https://open.spotify.com/track/4ku0V0Ijj4jQ1eaoyRv8tw) | [Tom Frane](https://open.spotify.com/artist/7EJYadnOoXsnXbvULN7YCR), [Flawed Mangoes](https://open.spotify.com/artist/4MrQDA45Gd0llLrwFUzimG) | [Dance in the Rain](https://open.spotify.com/album/0jw0COYbLZlXTDsiBelanO) | 2:41 |
-| 94 | [Ik trek al mijn kleding uit](https://open.spotify.com/track/4HFmsQ1wNEjBKFoWBMr2Vy) | [BARBARA.](https://open.spotify.com/artist/1KowfscHGY7DvEHusHKN17) | [Ik trek al mijn kleding uit](https://open.spotify.com/album/4sg0FbbXiTB23ZVbApS5yW) | 2:56 |
-| 95 | [OUDE DETAILS](https://open.spotify.com/track/4GdGRygo9vCACh7OsVRGCq) | [Tim Beumers](https://open.spotify.com/artist/3gWALRyQeQtkcTYxv2pi2x), [Nosa](https://open.spotify.com/artist/1yiTO5VCQNBGaLcAZYlGD5), [dOOp](https://open.spotify.com/artist/6b9M1MUOtBpiFmrCVOb7mJ), [SKAV](https://open.spotify.com/artist/41rydLwcUIxdc1HQ0Y4Fce), [RED](https://open.spotify.com/artist/5wMB1gqHqfzbd1BT2vZHdy) | [RAFTING GOODS VOLUME 3: B](https://open.spotify.com/album/1qiWLvHbZIYft7i0fnLRYj) | 2:49 |
-| 96 | [Do You Think You're Ready?](https://open.spotify.com/track/33xcQTefyNRpKrYunRtesR) | [Bongloard](https://open.spotify.com/artist/14irVozeTn0DEdXOdaWxow) | [DYTYR?](https://open.spotify.com/album/1lM1Fpnb18ceVWNizkcRfq) | 3:44 |
-| 97 | [Justice](https://open.spotify.com/track/2TvmcOgbKINeTXnGqwRZ87) | [Oh Hazar](https://open.spotify.com/artist/0h3oUO0mB2fFg7yz2Xy4T1) | [Justice](https://open.spotify.com/album/25ZhNnxRABCIDUHX2rEriX) | 2:41 |
-| 98 | [HOTSPOT! In The Jungle Groove \- Live](https://open.spotify.com/track/43WyomxXxcC0Pydr1XejFC) | [Eric Vloeimans](https://open.spotify.com/artist/0GJnVOotvnAmZvUYL8Kpmx) | [HOTSPOT! In The Jungle Groove \(Live\)](https://open.spotify.com/album/45uTfEwPbUHRCFBEMai09q) | 6:28 |
+| 89 | [I Do \(feat\. Muni Long\)](https://open.spotify.com/track/5TbYIeYkGgGtYL7sms7m9N) | [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [JADED](https://open.spotify.com/album/1XcpYmfE4vYCKeLQYINlO7) | 2:46 |
+| 90 | [Recién Soltera](https://open.spotify.com/track/62NnbMclYuQuF09B0ShIPV) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Recién Soltera](https://open.spotify.com/album/5cSGLKp6GpfyYBjtCp2T2D) | 3:03 |
+| 91 | [Akon's Beautiful Day](https://open.spotify.com/track/5z7l1HQ9KzqT8yLcViRG1L) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Akon's Beautiful Day](https://open.spotify.com/album/3XA6fev8Ssr6jAfR8kd7Wa) | 2:37 |
+| 92 | [Magic](https://open.spotify.com/track/1ssJcV4TYevaV87K813ht6) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj) | [Magic](https://open.spotify.com/album/2mXQsMd0DEX5zrFEuI5Zij) | 3:10 |
+| 93 | [What This Could Be](https://open.spotify.com/track/3NaOEouWqMCBwR0vQcVFt7) | [Joe Jonas](https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL) | [What This Could Be / Work It Out](https://open.spotify.com/album/534YIkJVj0Hlpuw0jMpf1h) | 3:18 |
+| 94 | [Dance in the Rain](https://open.spotify.com/track/4ku0V0Ijj4jQ1eaoyRv8tw) | [Tom Frane](https://open.spotify.com/artist/7EJYadnOoXsnXbvULN7YCR), [Flawed Mangoes](https://open.spotify.com/artist/4MrQDA45Gd0llLrwFUzimG) | [Dance in the Rain](https://open.spotify.com/album/0jw0COYbLZlXTDsiBelanO) | 2:41 |
+| 95 | [Ik trek al mijn kleding uit](https://open.spotify.com/track/4HFmsQ1wNEjBKFoWBMr2Vy) | [BARBARA.](https://open.spotify.com/artist/1KowfscHGY7DvEHusHKN17) | [Ik trek al mijn kleding uit](https://open.spotify.com/album/4sg0FbbXiTB23ZVbApS5yW) | 2:56 |
+| 96 | [OUDE DETAILS](https://open.spotify.com/track/4GdGRygo9vCACh7OsVRGCq) | [Tim Beumers](https://open.spotify.com/artist/3gWALRyQeQtkcTYxv2pi2x), [Nosa](https://open.spotify.com/artist/1yiTO5VCQNBGaLcAZYlGD5), [dOOp](https://open.spotify.com/artist/6b9M1MUOtBpiFmrCVOb7mJ), [SKAV](https://open.spotify.com/artist/41rydLwcUIxdc1HQ0Y4Fce), [RED](https://open.spotify.com/artist/5wMB1gqHqfzbd1BT2vZHdy) | [RAFTING GOODS VOLUME 3: B](https://open.spotify.com/album/1qiWLvHbZIYft7i0fnLRYj) | 2:49 |
+| 97 | [Do You Think You're Ready?](https://open.spotify.com/track/33xcQTefyNRpKrYunRtesR) | [Bongloard](https://open.spotify.com/artist/14irVozeTn0DEdXOdaWxow) | [DYTYR?](https://open.spotify.com/album/1lM1Fpnb18ceVWNizkcRfq) | 3:44 |
+| 98 | [Justice](https://open.spotify.com/track/2TvmcOgbKINeTXnGqwRZ87) | [Oh Hazar](https://open.spotify.com/artist/0h3oUO0mB2fFg7yz2Xy4T1) | [Justice](https://open.spotify.com/album/25ZhNnxRABCIDUHX2rEriX) | 2:41 |
+| 99 | [HOTSPOT! In The Jungle Groove \- Live](https://open.spotify.com/track/43WyomxXxcC0Pydr1XejFC) | [Eric Vloeimans](https://open.spotify.com/artist/0GJnVOotvnAmZvUYL8Kpmx) | [HOTSPOT! In The Jungle Groove \(Live\)](https://open.spotify.com/album/45uTfEwPbUHRCFBEMai09q) | 6:28 |
 
-Snapshot ID: `Zv8T4AAAAADLqSXOnAjwKH9mOCXcvPob`
+Snapshot ID: `Zv+hcQAAAABw/yHzzR0r9vJCLgqHCuBd`

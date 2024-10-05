@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-06-27",
-  "description": "Amp up your commute with rock hits, new and old. Cover: Pearl Jam",
+  "description": "Amp up your commute with rock hits, new and old. ",
   "name": "Rock Drive",
   "tracks": [
     {
@@ -70,7 +70,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 229840,
       "name": "Absolute Zero",
       "url": "https://open.spotify.com/track/14EORgkbXqIx5K4Haucmnb"
@@ -160,7 +160,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-04",
+      "date_removed": null,
       "duration_ms": 226735,
       "name": "Angry",
       "url": "https://open.spotify.com/track/0daHbdrLvUmkh81rnolMcG"
@@ -286,7 +286,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 217582,
       "name": "Blood In The Water",
       "url": "https://open.spotify.com/track/5mQCd8RqgT91gK4S9eDG1t"
@@ -322,7 +322,7 @@
       ],
       "date_added": "2024-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-13",
+      "date_removed": null,
       "duration_ms": 240400,
       "name": "Bother",
       "url": "https://open.spotify.com/track/0AfIsqZ4gTUg9CwwW2jLeK"
@@ -524,7 +524,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 222026,
       "name": "Cochise",
       "url": "https://open.spotify.com/track/1TDk2Jmi4dVZhm2dum3Jim"
@@ -560,10 +560,28 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 218920,
       "name": "Come As You Are",
       "url": "https://open.spotify.com/track/4P5KoWXOxwuobLmHXLMobV"
+    },
+    {
+      "album": {
+        "name": "Pandora's Box",
+        "url": "https://open.spotify.com/album/2nnVKqFPutI1hZpBPf20X6"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224583,
+      "name": "Come Together",
+      "url": "https://open.spotify.com/track/6FfE10CNarokEyIGxWhz2g"
     },
     {
       "album": {
@@ -654,6 +672,24 @@
       "duration_ms": 302000,
       "name": "Dark Necessities",
       "url": "https://open.spotify.com/track/2oaK4JLVnmRGIO9ytBE1bt"
+    },
+    {
+      "album": {
+        "name": "TRUE POWER",
+        "url": "https://open.spotify.com/album/6SjY4WK6VMFYEINGVOHzGa"
+      },
+      "artists": [
+        {
+          "name": "I Prevail",
+          "url": "https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206142,
+      "name": "Deep End",
+      "url": "https://open.spotify.com/track/27Nkg5NHILTJUcCyBkvVHt"
     },
     {
       "album": {
@@ -917,6 +953,24 @@
     },
     {
       "album": {
+        "name": "So Much For The Afterglow",
+        "url": "https://open.spotify.com/album/7xk1Tl6UZ8OALZkFEagPsM"
+      },
+      "artists": [
+        {
+          "name": "Everclear",
+          "url": "https://open.spotify.com/artist/694QW15WkebjcrWgQHzRYF"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231400,
+      "name": "Father Of Mine",
+      "url": "https://open.spotify.com/track/2hx4ptqsE8dboLH3NCLmaN"
+    },
+    {
+      "album": {
         "name": "White Blood Cells",
         "url": "https://open.spotify.com/album/6Xvc1TfpVEhDeHhmTQEtp0"
       },
@@ -982,7 +1036,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 189386,
       "name": "Get Back - Remastered 2009",
       "url": "https://open.spotify.com/track/4MLBqAEzNN89o2M9h92Z26"
@@ -1018,7 +1072,7 @@
       ],
       "date_added": "2024-08-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-03",
+      "date_removed": null,
       "duration_ms": 185093,
       "name": "Good",
       "url": "https://open.spotify.com/track/0ttHpMs250dpFkCYAnuhnE"
@@ -1184,7 +1238,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 186813,
       "name": "Hero",
       "url": "https://open.spotify.com/track/4CbKVDZkYKdv69I4bCaKUq"
@@ -1710,7 +1764,7 @@
       ],
       "date_added": "2024-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 245467,
       "name": "Legendary",
       "url": "https://open.spotify.com/track/0NJKX45ZZnGWyDcEnoH7C5"
@@ -1746,7 +1800,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 257053,
       "name": "Lithium",
       "url": "https://open.spotify.com/track/2YodwKJnbPyNKe8XXSE9V7"
@@ -1818,7 +1872,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 199342,
       "name": "Lost",
       "url": "https://open.spotify.com/track/373gDROnujxNTFa1FojYIl"
@@ -1930,6 +1984,24 @@
       "duration_ms": 186196,
       "name": "Mountains At Midnight",
       "url": "https://open.spotify.com/track/5Gd7o89niXpFLpVBvvUPHD"
+    },
+    {
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/1zCNrbPpz5OLSr6mSpPdKm"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258973,
+      "name": "My Hero",
+      "url": "https://open.spotify.com/track/7u5dBtASrtOuBTTZjJrvuJ"
     },
     {
       "album": {
@@ -2056,6 +2128,24 @@
       "duration_ms": 187520,
       "name": "Numb",
       "url": "https://open.spotify.com/track/2nLtzopw4rPReszdYBJU6h"
+    },
+    {
+      "album": {
+        "name": "Finger Eleven",
+        "url": "https://open.spotify.com/album/4KbP58I8HjOsd1S8J7Ahjx"
+      },
+      "artists": [
+        {
+          "name": "Finger Eleven",
+          "url": "https://open.spotify.com/artist/0niJkG4tKkne3zwr7I8n9n"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279573,
+      "name": "One Thing",
+      "url": "https://open.spotify.com/track/2BepFzUWfczDk68DXj10w3"
     },
     {
       "album": {
@@ -2214,7 +2304,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 210653,
       "name": "Psycho",
       "url": "https://open.spotify.com/track/3e2KBwxibC1rq4bA5TNKW2"
@@ -2340,7 +2430,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 238573,
       "name": "Satellite",
       "url": "https://open.spotify.com/track/5sG3G54H21hNfd5etlheoe"
@@ -2358,7 +2448,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-30",
+      "date_removed": null,
       "duration_ms": 242280,
       "name": "Savior",
       "url": "https://open.spotify.com/track/3asFGFY3uLjMDmML1p0tYm"
@@ -2502,7 +2592,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 204128,
       "name": "Short Skirt / Long Jacket",
       "url": "https://open.spotify.com/track/3OOFEF20WqtsUPcRbPY3L7"
@@ -2524,6 +2614,24 @@
       "duration_ms": 277840,
       "name": "Show Me How to Live",
       "url": "https://open.spotify.com/track/1Qdnvn4XlmZANCVy3XjrQo"
+    },
+    {
+      "album": {
+        "name": "Contraband",
+        "url": "https://open.spotify.com/album/64GnrmrpL1fvfF0r1AoZLB"
+      },
+      "artists": [
+        {
+          "name": "Velvet Revolver",
+          "url": "https://open.spotify.com/artist/7CHilrn81OdYjkh4uSVnYM"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248306,
+      "name": "Slither",
+      "url": "https://open.spotify.com/track/7kF1iPJTj3VFJX9XokQ80F"
     },
     {
       "album": {
@@ -2646,7 +2754,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 246920,
       "name": "Spoonman",
       "url": "https://open.spotify.com/track/1jMaB19DiVR8OihLSuYFOt"
@@ -2779,6 +2887,24 @@
     },
     {
       "album": {
+        "name": "Phobia (Explicit Version)",
+        "url": "https://open.spotify.com/album/6yJdQMlMkfYJFiSsL6764c"
+      },
+      "artists": [
+        {
+          "name": "Breaking Benjamin",
+          "url": "https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200546,
+      "name": "The Diary of Jane - Single Version",
+      "url": "https://open.spotify.com/track/5pvJ59i7JxylN8VB24xdMs"
+    },
+    {
+      "album": {
         "name": "Americana",
         "url": "https://open.spotify.com/album/2RNTBrSO8U8XjjEj9RVvZ5"
       },
@@ -2826,7 +2952,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-29",
+      "date_removed": null,
       "duration_ms": 231533,
       "name": "The Kill (Bury Me)",
       "url": "https://open.spotify.com/track/1p1nO35bbi4ZlQgjIA4oa4"
@@ -2844,7 +2970,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-30",
+      "date_removed": null,
       "duration_ms": 246000,
       "name": "The Outsider",
       "url": "https://open.spotify.com/track/6CqYhhUPJORx1vvdTNc8jv"
@@ -2866,6 +2992,24 @@
       "duration_ms": 269373,
       "name": "The Pretender",
       "url": "https://open.spotify.com/track/7x8dCjCr0x6x2lXKujYD34"
+    },
+    {
+      "album": {
+        "name": "The Reason",
+        "url": "https://open.spotify.com/album/7EtK7XiObsZGF6oBKLrvKH"
+      },
+      "artists": [
+        {
+          "name": "Hoobastank",
+          "url": "https://open.spotify.com/artist/2MqhkhX4npxDZ62ObR5ELO"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232800,
+      "name": "The Reason",
+      "url": "https://open.spotify.com/track/1lHtE5JDCas1EwXhQIMOIj"
     },
     {
       "album": {
@@ -2970,7 +3114,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 211080,
       "name": "Tighten Up",
       "url": "https://open.spotify.com/track/2MVwrvjmcdt4MsYYLCYMt8"
@@ -3042,7 +3186,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 176546,
       "name": "Vasoline - 2019 Remaster",
       "url": "https://open.spotify.com/track/4fjsOdrWMaKf70x21h5XbX"
@@ -3060,7 +3204,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-25",
+      "date_removed": null,
       "duration_ms": 185466,
       "name": "Walk On Water",
       "url": "https://open.spotify.com/track/6FT9FZccFD6nE8dMNslz2n"
@@ -3078,7 +3222,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 255560,
       "name": "Wanting and Waiting",
       "url": "https://open.spotify.com/track/2tshfSpT1vLHlMZ88btPOj"
@@ -3096,7 +3240,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-04",
+      "date_removed": null,
       "duration_ms": 474400,
       "name": "War Pigs",
       "url": "https://open.spotify.com/track/0HVQuuXGAcQ2P5mBN521ae"
@@ -3276,7 +3420,7 @@
       ],
       "date_added": "2024-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 300487,
       "name": "Wreckage",
       "url": "https://open.spotify.com/track/4WnQyfhJn0O0LY3SPlxReB"
@@ -3334,6 +3478,24 @@
       "duration_ms": 177826,
       "name": "You're Gonna Go Far, Kid",
       "url": "https://open.spotify.com/track/6TfBA04WJ3X1d1wXhaCFVT"
+    },
+    {
+      "album": {
+        "name": "Anthem Of The Peaceful Army",
+        "url": "https://open.spotify.com/album/7zeCZY6rQRufc8IHGKyXGX"
+      },
+      "artists": [
+        {
+          "name": "Greta Van Fleet",
+          "url": "https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266933,
+      "name": "You're The One",
+      "url": "https://open.spotify.com/track/0iYBNrznkCwhN3xCmNVJpo"
     },
     {
       "album": {

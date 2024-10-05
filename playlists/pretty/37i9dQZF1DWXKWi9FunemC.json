@@ -1,6 +1,6 @@
 {
   "description": "For those who like a little bit of coffee with their Jesus.",
-  "num_followers": 337652,
+  "num_followers": 337751,
   "original_name": "Christian Coffeehouse",
   "owner": {
     "name": "Spotify",
@@ -515,6 +515,22 @@
     {
       "added_at": "2024-08-03 00:38:12",
       "album": {
+        "name": "Holy Forever (Acoustic)",
+        "url": "https://open.spotify.com/album/2PbAV9JMhQr8Rk5myr5AOc"
+      },
+      "artists": [
+        {
+          "name": "Will Morrison",
+          "url": "https://open.spotify.com/artist/34VjmhQP0q93vBQ8eganjB"
+        }
+      ],
+      "duration_ms": 268958,
+      "name": "Holy Forever - Acoustic",
+      "url": "https://open.spotify.com/track/1Qz6A8AWuukckIksROXJCD"
+    },
+    {
+      "added_at": "2024-08-03 00:38:12",
+      "album": {
         "name": "L E P E R S",
         "url": "https://open.spotify.com/album/2H0tX8aY7tv7oEZIUElWBg"
       },
@@ -531,22 +547,6 @@
       "duration_ms": 250555,
       "name": "L E P E R S",
       "url": "https://open.spotify.com/track/2HWybNOk657p30rPcjBDK7"
-    },
-    {
-      "added_at": "2024-08-03 00:38:12",
-      "album": {
-        "name": "Holy Forever (Acoustic)",
-        "url": "https://open.spotify.com/album/2PbAV9JMhQr8Rk5myr5AOc"
-      },
-      "artists": [
-        {
-          "name": "Will Morrison",
-          "url": "https://open.spotify.com/artist/34VjmhQP0q93vBQ8eganjB"
-        }
-      ],
-      "duration_ms": 268958,
-      "name": "Holy Forever - Acoustic",
-      "url": "https://open.spotify.com/track/1Qz6A8AWuukckIksROXJCD"
     },
     {
       "added_at": "2024-08-03 00:38:12",
@@ -651,22 +651,6 @@
     {
       "added_at": "2024-08-03 00:38:12",
       "album": {
-        "name": "SURVEY: Part 1",
-        "url": "https://open.spotify.com/album/4uZlAuQbVCZr4LN8ZOzyg0"
-      },
-      "artists": [
-        {
-          "name": "Amanda Cook",
-          "url": "https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP"
-        }
-      ],
-      "duration_ms": 350783,
-      "name": "Found",
-      "url": "https://open.spotify.com/track/68JEeLG2HrM2jNakDd6YlK"
-    },
-    {
-      "added_at": "2024-08-03 00:38:12",
-      "album": {
         "name": "Songs I've Needed",
         "url": "https://open.spotify.com/album/3qmGo2mmcMfwD1wBaGD8JO"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 391202,
       "name": "Highlands (Song of Ascent)",
       "url": "https://open.spotify.com/track/3Zyz8rGBTpSlCUUwIROIPe"
+    },
+    {
+      "added_at": "2024-08-03 00:38:12",
+      "album": {
+        "name": "SURVEY: Part 1",
+        "url": "https://open.spotify.com/album/4uZlAuQbVCZr4LN8ZOzyg0"
+      },
+      "artists": [
+        {
+          "name": "Amanda Cook",
+          "url": "https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP"
+        }
+      ],
+      "duration_ms": 350783,
+      "name": "Found",
+      "url": "https://open.spotify.com/track/68JEeLG2HrM2jNakDd6YlK"
     },
     {
       "added_at": "2024-08-03 00:38:12",
@@ -923,22 +923,6 @@
     {
       "added_at": "2024-08-03 00:38:12",
       "album": {
-        "name": "Just As I Am (Nothing to Prove)",
-        "url": "https://open.spotify.com/album/0u1NOPtFwXeaedBEGjvkSG"
-      },
-      "artists": [
-        {
-          "name": "Taylor Tripodi",
-          "url": "https://open.spotify.com/artist/4c0Gzsz4JC8OHMN9y5Fw9s"
-        }
-      ],
-      "duration_ms": 316946,
-      "name": "Just As I Am (Nothing to Prove)",
-      "url": "https://open.spotify.com/track/070P8Q3dqNHak5FxNiMP4x"
-    },
-    {
-      "added_at": "2024-08-03 00:38:12",
-      "album": {
         "name": "Still There's Something",
         "url": "https://open.spotify.com/album/4d4EkrXfLUpuQMviLTdNXV"
       },
@@ -959,18 +943,18 @@
     {
       "added_at": "2024-08-03 00:38:12",
       "album": {
-        "name": "The Longing",
-        "url": "https://open.spotify.com/album/6IpXfQ3ZV5OPxtfIUqvgMj"
+        "name": "Just As I Am (Nothing to Prove)",
+        "url": "https://open.spotify.com/album/0u1NOPtFwXeaedBEGjvkSG"
       },
       "artists": [
         {
-          "name": "Ben Ford",
-          "url": "https://open.spotify.com/artist/10WbhRSfvwdGvzcOx0Ezgi"
+          "name": "Taylor Tripodi",
+          "url": "https://open.spotify.com/artist/4c0Gzsz4JC8OHMN9y5Fw9s"
         }
       ],
-      "duration_ms": 289048,
-      "name": "I Never Knew",
-      "url": "https://open.spotify.com/track/3nEEv82nVunaz0kGgyFWV8"
+      "duration_ms": 316946,
+      "name": "Just As I Am (Nothing to Prove)",
+      "url": "https://open.spotify.com/track/070P8Q3dqNHak5FxNiMP4x"
     },
     {
       "added_at": "2024-08-03 00:38:12",
@@ -991,18 +975,18 @@
     {
       "added_at": "2024-08-03 00:38:12",
       "album": {
-        "name": "The Antidote",
-        "url": "https://open.spotify.com/album/1t8xLME4vn0Ev7PtLJ4bL3"
+        "name": "The Longing",
+        "url": "https://open.spotify.com/album/6IpXfQ3ZV5OPxtfIUqvgMj"
       },
       "artists": [
         {
-          "name": "Lion of Judah",
-          "url": "https://open.spotify.com/artist/5xMljsTgyAQODxCMD7K2zH"
+          "name": "Ben Ford",
+          "url": "https://open.spotify.com/artist/10WbhRSfvwdGvzcOx0Ezgi"
         }
       ],
-      "duration_ms": 231773,
-      "name": "Open My Eyes",
-      "url": "https://open.spotify.com/track/6OtT5Foz3yt1uipoxLYuHo"
+      "duration_ms": 289048,
+      "name": "I Never Knew",
+      "url": "https://open.spotify.com/track/3nEEv82nVunaz0kGgyFWV8"
     },
     {
       "added_at": "2024-08-03 00:38:12",
@@ -1019,6 +1003,22 @@
       "duration_ms": 272213,
       "name": "how great thou art",
       "url": "https://open.spotify.com/track/7utnfGm43yniXcoW9Btz5R"
+    },
+    {
+      "added_at": "2024-08-03 00:38:12",
+      "album": {
+        "name": "The Antidote",
+        "url": "https://open.spotify.com/album/1t8xLME4vn0Ev7PtLJ4bL3"
+      },
+      "artists": [
+        {
+          "name": "Lion of Judah",
+          "url": "https://open.spotify.com/artist/5xMljsTgyAQODxCMD7K2zH"
+        }
+      ],
+      "duration_ms": 231773,
+      "name": "Open My Eyes",
+      "url": "https://open.spotify.com/track/6OtT5Foz3yt1uipoxLYuHo"
     },
     {
       "added_at": "2024-08-03 00:38:12",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2024-08-03 00:38:12",
       "album": {
-        "name": "Maybe Just Maybe",
-        "url": "https://open.spotify.com/album/564N7BUtsNurbaPUL5FRg8"
-      },
-      "artists": [
-        {
-          "name": "Becky Higg",
-          "url": "https://open.spotify.com/artist/5ttP4RmwYgmSnhINrRavZv"
-        }
-      ],
-      "duration_ms": 319552,
-      "name": "Like the Dawn",
-      "url": "https://open.spotify.com/track/1RH9Nsu2iiShLD1enwFLaC"
-    },
-    {
-      "added_at": "2024-08-03 00:38:12",
-      "album": {
         "name": "Kingdoms",
         "url": "https://open.spotify.com/album/4yhgyBZOmFGpDOJ9tYIn5R"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 207135,
       "name": "Rest",
       "url": "https://open.spotify.com/track/4fMAalRybyhvf4bVyfpVTp"
+    },
+    {
+      "added_at": "2024-08-03 00:38:12",
+      "album": {
+        "name": "Maybe Just Maybe",
+        "url": "https://open.spotify.com/album/564N7BUtsNurbaPUL5FRg8"
+      },
+      "artists": [
+        {
+          "name": "Becky Higg",
+          "url": "https://open.spotify.com/artist/5ttP4RmwYgmSnhINrRavZv"
+        }
+      ],
+      "duration_ms": 319552,
+      "name": "Like the Dawn",
+      "url": "https://open.spotify.com/track/1RH9Nsu2iiShLD1enwFLaC"
     },
     {
       "added_at": "2024-08-03 00:38:12",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2024-08-03 00:38:12",
       "album": {
-        "name": "Abide",
-        "url": "https://open.spotify.com/album/033oTE2UMHHRG3utN87UvR"
-      },
-      "artists": [
-        {
-          "name": "Ryan Ofei",
-          "url": "https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd"
-        }
-      ],
-      "duration_ms": 181500,
-      "name": "Abide",
-      "url": "https://open.spotify.com/track/5vyCmTsxxRdAQEpEcCxZ7Z"
-    },
-    {
-      "added_at": "2024-08-03 00:38:12",
-      "album": {
         "name": "Holy Here and Now",
         "url": "https://open.spotify.com/album/2SMEwcH1DRXJPyAqzGP91i"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 247336,
       "name": "Holy Here and Now",
       "url": "https://open.spotify.com/track/3K13jFO8mWf23paD3GlQ8U"
+    },
+    {
+      "added_at": "2024-08-03 00:38:12",
+      "album": {
+        "name": "Abide",
+        "url": "https://open.spotify.com/album/033oTE2UMHHRG3utN87UvR"
+      },
+      "artists": [
+        {
+          "name": "Ryan Ofei",
+          "url": "https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd"
+        }
+      ],
+      "duration_ms": 181500,
+      "name": "Abide",
+      "url": "https://open.spotify.com/track/5vyCmTsxxRdAQEpEcCxZ7Z"
     },
     {
       "added_at": "2024-08-03 00:38:12",

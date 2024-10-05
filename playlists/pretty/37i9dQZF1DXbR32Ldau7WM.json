@@ -1,6 +1,6 @@
 {
   "description": "The biggest rock artists in Japan right now!  Cover: Queen Bee (\u5973\u738b\u8702)",
-  "num_followers": 289066,
+  "num_followers": 289075,
   "original_name": "Big in Japan",
   "owner": {
     "name": "Spotify",
@@ -803,22 +803,6 @@
     {
       "added_at": "2024-10-01 15:12:05",
       "album": {
-        "name": "\u5730\u7403\u5100 - Spinning Globe",
-        "url": "https://open.spotify.com/album/2FoCAlugem3yJk6lFxXP0W"
-      },
-      "artists": [
-        {
-          "name": "Kenshi Yonezu",
-          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
-        }
-      ],
-      "duration_ms": 273437,
-      "name": "\u5730\u7403\u5100 - Spinning Globe",
-      "url": "https://open.spotify.com/track/6x7SB38tuekpu4xpH9OIPY"
-    },
-    {
-      "added_at": "2024-10-01 15:12:05",
-      "album": {
         "name": "Everybody!!",
         "url": "https://open.spotify.com/album/1spFHTdEd1oA8htGJxeIac"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 219530,
       "name": "\u30b7\u30b0\u30ca\u30eb",
       "url": "https://open.spotify.com/track/4Ybp3UvVXvraRNwOCWnrNq"
+    },
+    {
+      "added_at": "2024-10-01 15:12:05",
+      "album": {
+        "name": "\u5730\u7403\u5100 - Spinning Globe",
+        "url": "https://open.spotify.com/album/2FoCAlugem3yJk6lFxXP0W"
+      },
+      "artists": [
+        {
+          "name": "Kenshi Yonezu",
+          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
+        }
+      ],
+      "duration_ms": 273437,
+      "name": "\u5730\u7403\u5100 - Spinning Globe",
+      "url": "https://open.spotify.com/track/6x7SB38tuekpu4xpH9OIPY"
     },
     {
       "added_at": "2024-10-01 15:12:05",
@@ -879,6 +879,22 @@
       "duration_ms": 209777,
       "name": "\u7f8e\u3057\u3044\u9c2d",
       "url": "https://open.spotify.com/track/3RauRsiIxUOQTS8h9sVWcP"
+    },
+    {
+      "added_at": "2024-10-01 15:12:05",
+      "album": {
+        "name": "Everybody!!",
+        "url": "https://open.spotify.com/album/1spFHTdEd1oA8htGJxeIac"
+      },
+      "artists": [
+        {
+          "name": "WANIMA",
+          "url": "https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM"
+        }
+      ],
+      "duration_ms": 169697,
+      "name": "\u3084\u3063\u3066\u307f\u3088\u3046",
+      "url": "https://open.spotify.com/track/6ahKnsl2tuTCyaBwt45WAz"
     },
     {
       "added_at": "2024-10-01 15:12:05",
@@ -947,22 +963,6 @@
     {
       "added_at": "2024-10-01 15:12:05",
       "album": {
-        "name": "Everybody!!",
-        "url": "https://open.spotify.com/album/1spFHTdEd1oA8htGJxeIac"
-      },
-      "artists": [
-        {
-          "name": "WANIMA",
-          "url": "https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM"
-        }
-      ],
-      "duration_ms": 169697,
-      "name": "\u3084\u3063\u3066\u307f\u3088\u3046",
-      "url": "https://open.spotify.com/track/6ahKnsl2tuTCyaBwt45WAz"
-    },
-    {
-      "added_at": "2024-10-01 15:12:05",
-      "album": {
         "name": "834.194",
         "url": "https://open.spotify.com/album/5pLmzFu2ienSbr1SxBJvwB"
       },
@@ -1007,6 +1007,22 @@
       "duration_ms": 236073,
       "name": "BROKEN GAMES",
       "url": "https://open.spotify.com/track/77OLrw9sVVNHxnceM9q1i5"
+    },
+    {
+      "added_at": "2024-10-01 15:12:05",
+      "album": {
+        "name": "COMINATCHA!!",
+        "url": "https://open.spotify.com/album/1R6DH3ahYHOQxqQUBFl3au"
+      },
+      "artists": [
+        {
+          "name": "WANIMA",
+          "url": "https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM"
+        }
+      ],
+      "duration_ms": 214088,
+      "name": "\u30a2\u30b2\u30a4\u30f3",
+      "url": "https://open.spotify.com/track/1TdYXsTtYbud0IieSW5wbh"
     },
     {
       "added_at": "2024-10-01 15:12:05",
@@ -1095,22 +1111,6 @@
     {
       "added_at": "2024-10-01 15:12:05",
       "album": {
-        "name": "COMINATCHA!!",
-        "url": "https://open.spotify.com/album/1R6DH3ahYHOQxqQUBFl3au"
-      },
-      "artists": [
-        {
-          "name": "WANIMA",
-          "url": "https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM"
-        }
-      ],
-      "duration_ms": 214088,
-      "name": "\u30a2\u30b2\u30a4\u30f3",
-      "url": "https://open.spotify.com/track/1TdYXsTtYbud0IieSW5wbh"
-    },
-    {
-      "added_at": "2024-10-01 15:12:05",
-      "album": {
         "name": "sakanaction",
         "url": "https://open.spotify.com/album/6fCKQaXvHahkOfGO0BvGSr"
       },
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2024-10-01 15:12:05",
       "album": {
-        "name": "Bu-ikikaesu",
-        "url": "https://open.spotify.com/album/6dxTTn3tLurox31zSM0X1K"
-      },
-      "artists": [
-        {
-          "name": "MAXIMUM THE HORMONE",
-          "url": "https://open.spotify.com/artist/3AMut7lAb1JjINkn8Fmkhu"
-        }
-      ],
-      "duration_ms": 224120,
-      "name": "Zetsubou Billy",
-      "url": "https://open.spotify.com/track/3XurIE0l1l09XBxWmr4ubL"
-    },
-    {
-      "added_at": "2024-10-01 15:12:05",
-      "album": {
         "name": "\u76c6\u30ae\u30ea\u604b\u6b4c",
         "url": "https://open.spotify.com/album/7hgrQHyNvrIdJrviKQsheH"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 259480,
       "name": "\u76c6\u30ae\u30ea\u604b\u6b4c",
       "url": "https://open.spotify.com/track/2kxp3ZUOXssozAGMEXshLO"
+    },
+    {
+      "added_at": "2024-10-01 15:12:05",
+      "album": {
+        "name": "Bu-ikikaesu",
+        "url": "https://open.spotify.com/album/6dxTTn3tLurox31zSM0X1K"
+      },
+      "artists": [
+        {
+          "name": "MAXIMUM THE HORMONE",
+          "url": "https://open.spotify.com/artist/3AMut7lAb1JjINkn8Fmkhu"
+        }
+      ],
+      "duration_ms": 224120,
+      "name": "Zetsubou Billy",
+      "url": "https://open.spotify.com/track/3XurIE0l1l09XBxWmr4ubL"
     },
     {
       "added_at": "2024-10-01 15:12:05",
@@ -1271,6 +1271,22 @@
     {
       "added_at": "2024-10-01 15:12:05",
       "album": {
+        "name": "Relay\uff5e\u675c\u306e\u8a69",
+        "url": "https://open.spotify.com/album/3zn9dmuMkn7RKaVmWQgMR1"
+      },
+      "artists": [
+        {
+          "name": "\u30b5\u30b6\u30f3\u30aa\u30fc\u30eb\u30b9\u30bf\u30fc\u30ba",
+          "url": "https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael"
+        }
+      ],
+      "duration_ms": 239494,
+      "name": "Relay\uff5e\u675c\u306e\u8a69",
+      "url": "https://open.spotify.com/track/00L4r4akuKxe9s1Vr0v58j"
+    },
+    {
+      "added_at": "2024-10-01 15:12:05",
+      "album": {
         "name": "\u5fc3\u5909\u308f\u308a",
         "url": "https://open.spotify.com/album/6TCrimUaueZD1u6QVlWHX3"
       },
@@ -1299,22 +1315,6 @@
       "duration_ms": 201599,
       "name": "I",
       "url": "https://open.spotify.com/track/2izrE4nmtn9fqyCMuxDafg"
-    },
-    {
-      "added_at": "2024-10-01 15:12:05",
-      "album": {
-        "name": "Relay\uff5e\u675c\u306e\u8a69",
-        "url": "https://open.spotify.com/album/3zn9dmuMkn7RKaVmWQgMR1"
-      },
-      "artists": [
-        {
-          "name": "\u30b5\u30b6\u30f3\u30aa\u30fc\u30eb\u30b9\u30bf\u30fc\u30ba",
-          "url": "https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael"
-        }
-      ],
-      "duration_ms": 239494,
-      "name": "Relay\uff5e\u675c\u306e\u8a69",
-      "url": "https://open.spotify.com/track/00L4r4akuKxe9s1Vr0v58j"
     },
     {
       "added_at": "2024-10-01 15:12:05",

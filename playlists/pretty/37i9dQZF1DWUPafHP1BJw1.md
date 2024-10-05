@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUPafHP1BJw1.md) - [plain]
 
 > Your favorite pop songs, classically reimagined.
 
-[Spotify](https://open.spotify.com/user/spotify) - 957,900 likes - 136 songs - 8 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 958,060 likes - 136 songs - 8 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Give Me Everything \- Stripped](https://open.spotify.com/track/5OSCWSmHCaVD8KpMDRsMzX) | [Archer Marsh](https://open.spotify.com/artist/74rnJF4h8ScpbyEhLholBg) | [Bridgerton Season Three \(Covers from the Netflix Series – Pt\. 1\)](https://open.spotify.com/album/4RfuNBOu5bphIjoEc8U4IH) | 2:12 |
 | 2 | [Espresso](https://open.spotify.com/track/6mbrwy2qyswMGrhXcfkjNE) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Espresso](https://open.spotify.com/album/0WSzv4640pPFZ6gqo78TCx) | 2:55 |
 | 3 | [Good Luck, Babe!](https://open.spotify.com/track/7BmSSHBfpq4LsyBURC5rL3) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [VSQ Performs the Hits of 2024](https://open.spotify.com/album/5og9lzNTh4Ak19jLp81Bnk) | 3:36 |
-| 4 | [Running Up That Hill](https://open.spotify.com/track/09efVfgf64MbVRdLKDnIGS) | [Unsecret String Quartet](https://open.spotify.com/artist/3dhWjAIYXpdGhApvNixEKw), [UNSECRET](https://open.spotify.com/artist/721Thvnq29Or9LXUyfF75c) | [Running Up That Hill](https://open.spotify.com/album/0t67C2k4ODzW8atHDODuGJ) | 4:49 |
-| 5 | [Cheap Thrills](https://open.spotify.com/track/5sVPpYTMUQuKL0jC4lQWWO) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Bridgerton Season Three \(Covers from the Netflix Series – Pt\. 1\)](https://open.spotify.com/album/4RfuNBOu5bphIjoEc8U4IH) | 3:28 |
+| 4 | [Cheap Thrills](https://open.spotify.com/track/5sVPpYTMUQuKL0jC4lQWWO) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Bridgerton Season Three \(Covers from the Netflix Series – Pt\. 1\)](https://open.spotify.com/album/4RfuNBOu5bphIjoEc8U4IH) | 3:28 |
+| 5 | [Running Up That Hill](https://open.spotify.com/track/09efVfgf64MbVRdLKDnIGS) | [Unsecret String Quartet](https://open.spotify.com/artist/3dhWjAIYXpdGhApvNixEKw), [UNSECRET](https://open.spotify.com/artist/721Thvnq29Or9LXUyfF75c) | [Running Up That Hill](https://open.spotify.com/album/0t67C2k4ODzW8atHDODuGJ) | 4:49 |
 | 6 | [Dancing On My Own](https://open.spotify.com/track/5zn0ihstICpxoC6rXS2P6t) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Bridgerton Season Two \(Covers from the Netflix Series\)](https://open.spotify.com/album/63xx2KhCMtdl2ks3txobZF) | 4:39 |
 | 7 | [Call Out My Name](https://open.spotify.com/track/4VryBfNbjZ1Wjx6WafYw2B) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [VSQ Performs The Weeknd, Vol\. 2](https://open.spotify.com/album/4Vlnko5pUaUW0pTOB44eng) | 3:49 |
 | 8 | [Killing Me Softly With His Song](https://open.spotify.com/track/6RUSzFE0Qv9YqaIz1qCCpo) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Killing Me Softly With His Song](https://open.spotify.com/album/1crWufifVQchsnAVXSk6UZ) | 1:03 |
@@ -145,4 +145,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUPafHP1BJw1.md) - [plain]
 | 135 | [Such Great Heights](https://open.spotify.com/track/0i75xg1hBO4BQuivKkGio1) | [The Section Quartet](https://open.spotify.com/artist/4XBvsNUbZyZT9eynxBQutr) | [Fuzzbox](https://open.spotify.com/album/5qaF3UTjIIzapiEvfaDnfc) | 4:38 |
 | 136 | [Telephone](https://open.spotify.com/track/7dGI1Zix46a22EPZggjoic) | [Aston](https://open.spotify.com/artist/7sl2Pn0eUTlijsuzJEt2HV) | [Telephone](https://open.spotify.com/album/3tO7eCXXvz3gN9Mkilrf17) | 3:45 |
 
-Snapshot ID: `Zva+lwAAAAA5oPWmZXMTy5fsbuC9snkl`
+Snapshot ID: `Zv/lWAAAAAA03Kz6O8GmJe/h1kqS+FQ8`

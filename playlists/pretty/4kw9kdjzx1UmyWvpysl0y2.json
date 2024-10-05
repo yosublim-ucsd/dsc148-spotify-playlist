@@ -1,13 +1,37 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125777,
+  "num_followers": 125782,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAATGHnEUSJxuA6xlJ/UY/x9ZXdhup0o",
+  "snapshot_id": "AAATGogVWIdRWJX4xNPCQZkkbYYevZOs",
   "tracks": [
+    {
+      "added_at": "2024-10-04 14:25:43",
+      "album": {
+        "name": "Foul",
+        "url": "https://open.spotify.com/album/2Ih0SUroIXP1GRigQxuc8B"
+      },
+      "artists": [
+        {
+          "name": "G-Rex",
+          "url": "https://open.spotify.com/artist/0ZpPLGn0OkRMl2Y9Twn16K"
+        },
+        {
+          "name": "STUCA",
+          "url": "https://open.spotify.com/artist/5W9QwHSJPJ5blGIyn8nSUb"
+        },
+        {
+          "name": "ICECOLDBISHOP",
+          "url": "https://open.spotify.com/artist/04zbRSHjzlQYvV31SW7qZ4"
+        }
+      ],
+      "duration_ms": 179262,
+      "name": "Foul",
+      "url": "https://open.spotify.com/track/6mtSPyT95BNKiUQ4SyijQ3"
+    },
     {
       "added_at": "2024-10-03 13:20:54",
       "album": {
@@ -1167,22 +1191,6 @@
       "duration_ms": 249228,
       "name": "Hardcore Riddim",
       "url": "https://open.spotify.com/track/5R77QOMkCw5Zk7M1Qz016c"
-    },
-    {
-      "added_at": "2024-07-12 05:33:02",
-      "album": {
-        "name": "Pressure",
-        "url": "https://open.spotify.com/album/1Pa9ilp1EF4CoSJAcd25Ma"
-      },
-      "artists": [
-        {
-          "name": "hayve",
-          "url": "https://open.spotify.com/artist/6HT10ZbNJFIRYirBe3PTxs"
-        }
-      ],
-      "duration_ms": 204342,
-      "name": "Pressure",
-      "url": "https://open.spotify.com/track/365IYr43HlceGJWG5ENNQ5"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

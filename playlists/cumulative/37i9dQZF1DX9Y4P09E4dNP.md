@@ -4,7 +4,7 @@
 
 > The big Hip\-Life hits rn\. Cover: Camidoh
 
-223 songs - 14 hr 53 min
+224 songs - 14 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,7 +98,7 @@
 | [Inspector](https://open.spotify.com/track/0MLiCEi33t5Q4rWBOYX7Xp) | [Ofori Amponsah](https://open.spotify.com/artist/5JZrKd8FCWdpkGwn6iEkXg) | [Inspector](https://open.spotify.com/album/7dAEr14zqfHWsGun1kkVup) | 3:53 | 2023-11-17 | 2024-01-11 |
 | [Into The Future](https://open.spotify.com/track/6zF39FfmenMgLFBuzc7Qi1) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [5th Dimension](https://open.spotify.com/album/1stg00x6atjTH6w2MN4KZb) | 2:30 | 2024-03-04 |  |
 | [Iron](https://open.spotify.com/track/0yAOunFIcD2gHV7bLTWqoh) | [Pappy Kojo](https://open.spotify.com/artist/05wqlCGQReohsxStVBR052), [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn) | [Iron](https://open.spotify.com/album/5YIeMa14BClS4EbIyBn5tR) | 2:27 | 2024-09-20 |  |
-| [It's not over](https://open.spotify.com/track/7LRg28E7naQ4qyaONXy2Kv) | [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw) | [It's not over](https://open.spotify.com/album/4m3OS4wQGJSAq9uOxVVsyX) | 3:10 | 2024-09-27 |  |
+| [It's not over](https://open.spotify.com/track/7LRg28E7naQ4qyaONXy2Kv) | [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw) | [It's not over](https://open.spotify.com/album/4m3OS4wQGJSAq9uOxVVsyX) | 3:10 | 2024-09-27 | 2024-10-05 |
 | [Jah Guide](https://open.spotify.com/track/68z8LK5OWx69lhL2Jj2V8R) | [Kweku Smoke](https://open.spotify.com/artist/7AP5AMBQvTzTBB7IUSVLzO) | [Kweku Jesus](https://open.spotify.com/album/5PVHieQPIKB81wkDQ4SBz2) | 3:04 | 2024-04-03 | 2024-05-03 |
 | [Jakpa](https://open.spotify.com/track/0LQCqvg5fiIW0efHyVNw00) | [DopeNation](https://open.spotify.com/artist/25vbw2Uw68Ny6ae7tekmky) | [Jakpa](https://open.spotify.com/album/5prApsrXLxrizUMy12DUNU) | 3:05 | 2024-03-04 | 2024-06-15 |
 | [January 9th](https://open.spotify.com/track/5JL5FbKStegRpZc7OCeRnc) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [January 9th](https://open.spotify.com/album/3luZFzOLzCaNC4bNPb5r28) | 3:42 | 2024-03-04 | 2024-05-10 |
@@ -179,6 +179,7 @@
 | [Questions](https://open.spotify.com/track/3MZroQuOzlxZpVYWvWGHHz) | [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [Skyface SDW](https://open.spotify.com/artist/4R4KEZSjfEuuLyyqTiTVtG) | [Questions](https://open.spotify.com/album/4w559CTP4QThWmWZUKJ8gI) | 3:03 | 2024-04-19 | 2024-06-21 |
 | [Rent Free](https://open.spotify.com/track/320cXn7htYGuAzNyxLDs3M) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [Rent Free](https://open.spotify.com/album/6cryLTyBj54kNA59giEvbA) | 2:16 | 2024-03-04 |  |
 | [Ride or Die](https://open.spotify.com/track/5hyZCXXu0RFA5bMnIVOI36) | [Eno Barony](https://open.spotify.com/artist/4tfgIbOiIFCXPEK3PwdBSN), [Amerado](https://open.spotify.com/artist/4vNCRfPa5uflWbtrBxEZew) | [Ride or Die](https://open.spotify.com/album/4DGELzZap9GFL5wuPaEPIo) | 2:57 | 2024-09-06 | 2024-09-28 |
+| [Road Clear](https://open.spotify.com/track/0l187qGuX2ItgULWOjoRVW) | [Mr Drew](https://open.spotify.com/artist/4pW48O5XBTgEEJWfr8btdK), [Shatta Wale](https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI) | [Road Clear](https://open.spotify.com/album/3GxQNJBWPUtsAXR3dsdgYp) | 2:54 | 2024-10-04 |  |
 | [Sa Me](https://open.spotify.com/track/0BJBJ6hwuRhdjLwLPn5Usa) | [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM), [XlimKid](https://open.spotify.com/artist/2R4dOeNFDtzHkuTXiydZ5c), [City Boy](https://open.spotify.com/artist/2ppps0iwSdww4cfepGnscr) | [Sa Me](https://open.spotify.com/album/3oUyfdqXsO6o81sEHeiPtU) | 2:48 | 2024-03-07 | 2024-04-19 |
 | [Sa Me](https://open.spotify.com/track/0JHLFj7g5S6PVL0sBl7mxR) | [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM), [Xlimkid](https://open.spotify.com/artist/2R4dOeNFDtzHkuTXiydZ5c), [City Boy](https://open.spotify.com/artist/2ppps0iwSdww4cfepGnscr) | [Sa Me](https://open.spotify.com/album/02D9f4yJWVjTViNDyXzgMj) | 2:48 | 2024-03-04 | 2024-05-17 |
 | [Shordy](https://open.spotify.com/track/5OA0sGzIl33nCEf2unAn5o) | [Praye](https://open.spotify.com/artist/3QCB2l3PswjIcNRWgTCq2L) | [Ghana Old School HipLife Essentials](https://open.spotify.com/album/21puoieJiYxAfxXcjQtGmG) | 5:46 | 2020-02-20 | 2022-07-28 |

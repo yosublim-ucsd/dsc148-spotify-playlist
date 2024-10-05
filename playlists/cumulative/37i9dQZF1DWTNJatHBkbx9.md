@@ -2,9 +2,9 @@
 
 ### [Alt\. Ghana](https://open.spotify.com/playlist/37i9dQZF1DWTNJatHBkbx9)
 
-> From the alternative scene in Ghana\. Cover: M3NSA
+> From the alternative scene in Ghana\. Cover: NATAB
 
-124 songs - 6 hr 1 min
+129 songs - 6 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,9 @@
 | [Fallin For U](https://open.spotify.com/track/4CcEhit7ABrZaIzLSnuSmS) | [Her Revenge](https://open.spotify.com/artist/5SrjPqmZawRld9MZNRpmvC) | [Fallin For U](https://open.spotify.com/album/0pw52kEiu0azBzhd7CdpB5) | 2:05 | 2024-08-09 |  |
 | [FALLING IN LOVE](https://open.spotify.com/track/5MgS2ItskwZYqXjREi74n4) | [Sofie](https://open.spotify.com/artist/1EJcOEBbh3yXuat8rF7lR0) | [FALLING IN LOVE / NO PLANS](https://open.spotify.com/album/10ywfC7R74WT1uZmZCZWpu) | 3:11 | 2024-09-13 |  |
 | [Feels Like Magic](https://open.spotify.com/track/6hE9eQNiZDdbHpaxPcSqjD) | [ginius](https://open.spotify.com/artist/1mLnlcLJuK1VpACCwhuciw) | [Her Notions Since '97](https://open.spotify.com/album/6O0LMIl1QM7YBe4UP9Ofyw) | 2:54 | 2024-05-10 |  |
+| [Fire Everywhere](https://open.spotify.com/track/4BGv3EsfJL6wLbQ56BaY5X) | [NATAB](https://open.spotify.com/artist/5sk7DMYabyF7C12HgIG5QF) | [There's A Fire On The Mountain](https://open.spotify.com/album/7AHm7GvOwa5PY8Q22tMuHl) | 4:59 | 2024-10-04 |  |
 | [Flex](https://open.spotify.com/track/45m2Q8cga0lcjRyS2cLwe5) | [CozyPols](https://open.spotify.com/artist/6lAhQepj0Huol204o3M9rL), [Insvne Auggie](https://open.spotify.com/artist/2dNjqvomsDbN1XCYM6wlod) | [Flex](https://open.spotify.com/album/4aQ8zK4K5FGQUHUOM4bwwc) | 2:46 | 2024-05-17 | 2024-07-19 |
+| [Fortified](https://open.spotify.com/track/3QQI0IgPr82JQr9xRAuRE9) | [Freddie Gambini](https://open.spotify.com/artist/4fuRrfCxlAdAUEB0dkLlAg) | [Fortified](https://open.spotify.com/album/25npZ3uCUPutKiwEGHalxP) | 2:44 | 2024-10-04 |  |
 | [Gbonyo Party](https://open.spotify.com/track/74UDz0eNWuVPowvxAo9qTk) | [Marince Omario](https://open.spotify.com/artist/3yqJ0i7h5llZuEgkcrgu7M) | [Tsotsoo](https://open.spotify.com/album/57y1bzHoBIHFlMEz5APeCc) | 2:07 | 2024-05-10 | 2024-06-01 |
 | [Ghana Bop](https://open.spotify.com/track/2tB0TY5qVlyn4Zvk7d3b7Z) | [Moliy](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK) | [WONDERGIRL](https://open.spotify.com/album/4Dr0okleRrumtnKtuWkD5a) | 2:44 | 2024-05-10 | 2024-07-27 |
 | [Give It Back](https://open.spotify.com/track/0GamHHdEZTOeKl6fSCY0I3) | [Marince Omario](https://open.spotify.com/artist/3yqJ0i7h5llZuEgkcrgu7M), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ), [Chief Kellz](https://open.spotify.com/artist/4eHWOufqo0n5FnfpEl25Ly) | [Tsotsoo](https://open.spotify.com/album/57y1bzHoBIHFlMEz5APeCc) | 3:43 | 2024-05-10 |  |
@@ -58,6 +60,7 @@
 | [Hello](https://open.spotify.com/track/15GZYiGVvGfR2FpIQQ4TPX) | [Lali X Lola](https://open.spotify.com/artist/6gQVhg7g1AS2jkNYLjdqb0) | [Hello](https://open.spotify.com/album/42x6GlAegX4dxYKB0R4ALK) | 3:09 | 2024-05-10 | 2024-05-17 |
 | [Here I Stand](https://open.spotify.com/track/6p5SGpqNHHX9r2RcSpGax4) | [S3kyerewaa](https://open.spotify.com/artist/11hUTgOvMopsRpP3JzXsub) | [Here I Stand](https://open.spotify.com/album/0SMjKGc2Hq9NpmmZK3aqaR) | 3:08 | 2024-05-10 | 2024-05-24 |
 | [How Dare You](https://open.spotify.com/track/3zx16CX0uPhOxNvpYq6d64) | [Herman Suede](https://open.spotify.com/artist/795E5FXQUgbjuPBxk6igGm) | [How Dare You](https://open.spotify.com/album/5r1Xarkef6UT6W3jcT2h1t) | 2:27 | 2024-05-10 | 2024-09-13 |
+| [I Cant Think Far](https://open.spotify.com/track/0Dk6cFD6Fe4wcWeMulvc7S) | [Safo Newman](https://open.spotify.com/artist/1XygOZOkRxWKr0vEKgZxFl) | [I Cant Think Far](https://open.spotify.com/album/16gQW4vWgFPH6QUhGoX8BM) | 3:03 | 2024-10-04 |  |
 | [iDENTIFY](https://open.spotify.com/track/4UD9UEti2WwQ89ACAA7lB0) | [95ANTNY](https://open.spotify.com/artist/6PQLGYWDUljiFCQlltL4Cw) | [iDENTIFY](https://open.spotify.com/album/6CHgG3KcZzmxljX8kN0dLq) | 2:22 | 2024-09-06 |  |
 | [JADED \(TO THE GAME\)](https://open.spotify.com/track/5dDGxh8NGe19NF1JlWnkVe) | [Oshunda](https://open.spotify.com/artist/3EcVhJ5cGXTuufus6nko8C) | [JADED \(TO THE GAME\)](https://open.spotify.com/album/6T9OSmFVLMUDvjS1b8hYX1) | 2:35 | 2024-05-17 | 2024-07-12 |
 | [Jolie](https://open.spotify.com/track/2BqNhy0Fc6VZk6TfQu5DDY) | [BiQo](https://open.spotify.com/artist/7ANB4Bn0ymGL0meB4VhR6y) | [Jolie](https://open.spotify.com/album/181bermR5Tqlsp90dHgvdP) | 2:45 | 2024-05-10 | 2024-05-17 |
@@ -70,6 +73,7 @@
 | [Lost Love](https://open.spotify.com/track/42mgtZfLBQDVOlxewhvXfF) | [Akwasi Sage](https://open.spotify.com/artist/1ZLtiMNMicBULG1CNl25Je) | [Lost Love](https://open.spotify.com/album/6KqTfBjmJYeiJPapWjzmHd) | 2:43 | 2024-07-26 | 2024-08-31 |
 | [Love Hard](https://open.spotify.com/track/0FdcLCbPJPvJRKpvCzkTvz) | [BuDu](https://open.spotify.com/artist/3VVnkjuNmz9Vt2UpAZTCXB) | [Love Hard](https://open.spotify.com/album/6g7gnzgDhtzBde95DPS6Mv) | 2:32 | 2024-05-17 |  |
 | [Love Me](https://open.spotify.com/track/3MSuBkZsG0AadmK3zv1laN) | [Kwame O](https://open.spotify.com/artist/2wTlbPw0IBeIlBU4EtygJo), [Valentino Rose](https://open.spotify.com/artist/0qIB4W2DllGjdIdeDK4l8t), [Yu K](https://open.spotify.com/artist/35FzuoWZbS3jewNlG7mCcU) | [Love Me](https://open.spotify.com/album/7D0JDtrNn8qhH816DhCpp1) | 2:40 | 2024-07-19 |  |
+| [Lowkey Reminder](https://open.spotify.com/track/0ydKDzcFE4spe1J46ru4vc) | [Bapi Joss](https://open.spotify.com/artist/650EjRE3msuYaSw2hWLVPH) | [Lowkey Reminder](https://open.spotify.com/album/28eChsNu8NBw8lToHcNeb7) | 3:15 | 2024-10-04 |  |
 | [Maame Water](https://open.spotify.com/track/63jrtMT19fAZsOfEz0sdAU) | [Juma Mufasa](https://open.spotify.com/artist/1qqHchzlrR4QtN0HW0sDIs) | [Maame Water](https://open.spotify.com/album/1g5iCtBlXt5J7DtdDb6iCS) | 2:59 | 2024-05-10 |  |
 | [Mango](https://open.spotify.com/track/4nQwVeAVqJOvb87LRblkzq) | [Aka Kelzz](https://open.spotify.com/artist/6t4XItjt4Lsk0bCBH3KGpb), [Ria Boss](https://open.spotify.com/artist/4RVL6ckos0QWCCz9dTFb5q) | [Mango](https://open.spotify.com/album/3uWMI4berrdyIKLjqMlip4) | 2:12 | 2024-05-10 | 2024-05-18 |
 | [Menko Me Hemaa](https://open.spotify.com/track/3PgrIynhIQ1veOjGDCWroU) | [CozyPols](https://open.spotify.com/artist/6lAhQepj0Huol204o3M9rL) | [Menko Me Hemaa](https://open.spotify.com/album/2DBshbcvgxUz5dk2pC2QMD) | 3:00 | 2024-05-10 |  |
@@ -130,6 +134,7 @@
 | [Wine](https://open.spotify.com/track/2jpy0Amc4lz9rJodkYCUBW) | [Clive](https://open.spotify.com/artist/0LJrjizc2pgyDOy9FRgLsI) | [Wine](https://open.spotify.com/album/7eQpq5QztpKzA25D3EKgEt) | 3:36 | 2024-05-10 | 2024-07-27 |
 | [Wonderful](https://open.spotify.com/track/4p1tpwSTLqFBGEZKQQ03JR) | [Baaba J](https://open.spotify.com/artist/151OS9nfrfYQ8UlnakRMek) | [Okay Baby, Lets Do This](https://open.spotify.com/album/6mF7YvP41L2d40LkDVLsfp) | 3:32 | 2024-05-10 | 2024-08-17 |
 | [Work](https://open.spotify.com/track/3c0apNttNexOLb7QIliIdq) | [B4bonah](https://open.spotify.com/artist/533nTGirqEiUKwUcVxYWv8) | [Work](https://open.spotify.com/album/1nWVhBEmIBJiNN5vyuDmow) | 2:45 | 2024-05-10 |  |
+| [Yawa Go Dey](https://open.spotify.com/track/79ZzuGUmWNmsVEvuLBuX2N) | [Kay\-Ara](https://open.spotify.com/artist/7709KKFLbokr9qyg7Oceb1), [Omenka](https://open.spotify.com/artist/0zvOyfZ2vw7OAXK0bEYDs6) | [Yawa Go Dey](https://open.spotify.com/album/6CY5NFYRFy1tk91tqlkhb5) | 2:42 | 2024-10-04 |  |
 | [Your Place](https://open.spotify.com/track/4rHU2rwt29kZ4jrIWl4vPa) | [Stella Sena](https://open.spotify.com/artist/06DWd2np5gdOvR08UaaiA6) | [Your Place](https://open.spotify.com/album/0moOoMHv8K1A4qY4e95Jt7) | 2:28 | 2024-07-12 |  |
 | [YSL](https://open.spotify.com/track/3DklWVkyKx5gRW1d3Khq6R) | [Odartei](https://open.spotify.com/artist/2IBRGdRZQJzvoeQMTdRoxN) | [cool.](https://open.spotify.com/album/4IbKmVyXzY4bTDkkBcA6KG) | 3:05 | 2024-05-10 |  |
 

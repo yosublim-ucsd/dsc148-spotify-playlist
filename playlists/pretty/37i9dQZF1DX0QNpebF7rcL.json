@@ -1,13 +1,29 @@
 {
   "description": "The best in blues right now. Cover: Toronzo Cannon",
-  "num_followers": 58595,
+  "num_followers": 58607,
   "original_name": "Got Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuzzQAAAAAD114VczbpoeJD6LwheHJvB",
+  "snapshot_id": "Zv9oQAAAAADh5VYCtLPHZoUxhgVbhy8x",
   "tracks": [
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Mine Someday",
+        "url": "https://open.spotify.com/album/4eUzeKYFG75GYymqpkwqBS"
+      },
+      "artists": [
+        {
+          "name": "Jovin Webb",
+          "url": "https://open.spotify.com/artist/7tPs43oKJNTRvGr6IQ8N9k"
+        }
+      ],
+      "duration_ms": 287523,
+      "name": "Mine Someday",
+      "url": "https://open.spotify.com/track/3cJVBaoZlV26GQDMxNcD9B"
+    },
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
@@ -51,22 +67,6 @@
       "duration_ms": 229640,
       "name": "Serves Me Right To Suffer",
       "url": "https://open.spotify.com/track/3EwoYHtePxVs4GzTOucx7J"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
-        "name": "I'm a Drifter",
-        "url": "https://open.spotify.com/album/55caYHfIpi9Ozg2ccIFWsm"
-      },
-      "artists": [
-        {
-          "name": "Jovin Webb",
-          "url": "https://open.spotify.com/artist/7tPs43oKJNTRvGr6IQ8N9k"
-        }
-      ],
-      "duration_ms": 234160,
-      "name": "I'm a Drifter",
-      "url": "https://open.spotify.com/track/1QxmgxAI66Y5Lwp1T9zxcO"
     },
     {
       "added_at": "2024-09-13 04:02:00",

@@ -1,12 +1,12 @@
 {
-  "description": "This Is Ximena Sari\u00f1ana. Los temas esenciales, todos en una lista.",
-  "num_followers": 61057,
+  "description": "This is Ximena Sari\u00f1ana. The essential tracks, all in one playlist.",
+  "num_followers": 61075,
   "original_name": "This Is Ximena Sari\u00f1ana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvyNAAAAAABiGsSSM6TgaXobxjeQedn1",
+  "snapshot_id": "Zv3egAAAAAANwlWn2HYEXAOcOID8tioX",
   "tracks": [
     {
       "added_at": null,
@@ -459,22 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ojos Diamante",
-        "url": "https://open.spotify.com/album/4rtY6WZ5mVN9tPgLw8ta51"
-      },
-      "artists": [
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        }
-      ],
-      "duration_ms": 163432,
-      "name": "Ojos Diamante",
-      "url": "https://open.spotify.com/track/5xhk8G4SbcV3WInNiOy3pt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "ECOS",
         "url": "https://open.spotify.com/album/49Qd6nYCgc2ra4E3TJHEty"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 190500,
       "name": "Contracorriente",
       "url": "https://open.spotify.com/track/1CPHQNAp1sZddA0Wr0Ty6e"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ojos Diamante",
+        "url": "https://open.spotify.com/album/4rtY6WZ5mVN9tPgLw8ta51"
+      },
+      "artists": [
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "duration_ms": 163432,
+      "name": "Ojos Diamante",
+      "url": "https://open.spotify.com/track/5xhk8G4SbcV3WInNiOy3pt"
     },
     {
       "added_at": null,
@@ -631,6 +631,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Homenaje a la M\u00fasica Tropical (En Vivo)",
+        "url": "https://open.spotify.com/album/5QNwAswaESEp3axpv2d6gx"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Santanera",
+          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
+        },
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "duration_ms": 231423,
+      "name": "Pasito Tun Tun (with Ximena Sari\u00f1ana) - En Vivo",
+      "url": "https://open.spotify.com/track/6ofV5vpXVgXE9faaAq5k1o"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lo Sientes T\u00fa?",
         "url": "https://open.spotify.com/album/36Flbad50gwniOiAgA97ff"
       },
@@ -655,26 +675,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Homenaje a la M\u00fasica Tropical (En Vivo)",
-        "url": "https://open.spotify.com/album/5QNwAswaESEp3axpv2d6gx"
-      },
-      "artists": [
-        {
-          "name": "La Sonora Santanera",
-          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
-        },
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        }
-      ],
-      "duration_ms": 231423,
-      "name": "Pasito Tun Tun (with Ximena Sari\u00f1ana) - En Vivo",
-      "url": "https://open.spotify.com/track/6ofV5vpXVgXE9faaAq5k1o"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Melodrama",
         "url": "https://open.spotify.com/album/6Q5EvqV3Vj9wKee5N2fK6E"
       },
@@ -695,22 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u00bfD\u00f3nde Bailar\u00e1n Las Ni\u00f1as?",
-        "url": "https://open.spotify.com/album/6BvR8xqcnvm7Gpmmnr7JKa"
-      },
-      "artists": [
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        }
-      ],
-      "duration_ms": 173450,
-      "name": "Lo Bailado",
-      "url": "https://open.spotify.com/track/5AQFKEETsXkpLsHHq9kpmO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Realismo M\u00e1gico",
         "url": "https://open.spotify.com/album/0MUX7s8aRLGMdu5A7Yoe7P"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 177019,
       "name": "Lo que fuera",
       "url": "https://open.spotify.com/track/7fTZpxKHt6bltWZcZvEB1g"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u00bfD\u00f3nde Bailar\u00e1n Las Ni\u00f1as?",
+        "url": "https://open.spotify.com/album/6BvR8xqcnvm7Gpmmnr7JKa"
+      },
+      "artists": [
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "duration_ms": 173450,
+      "name": "Lo Bailado",
+      "url": "https://open.spotify.com/track/5AQFKEETsXkpLsHHq9kpmO"
     },
     {
       "added_at": null,
@@ -887,22 +887,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mediocre",
-        "url": "https://open.spotify.com/album/268J4Sl3DpX5l7KrxHRv2g"
-      },
-      "artists": [
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        }
-      ],
-      "duration_ms": 263386,
-      "name": "Monitor",
-      "url": "https://open.spotify.com/track/7pEVLSlWDDTnTUOVdwPXrn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Domingo",
         "url": "https://open.spotify.com/album/0Xu5KczP14lEIGIDWqQkr1"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 198800,
       "name": "Domingo",
       "url": "https://open.spotify.com/track/2xH2NbJUNxdFwW3QE1NzIw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mediocre",
+        "url": "https://open.spotify.com/album/268J4Sl3DpX5l7KrxHRv2g"
+      },
+      "artists": [
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "duration_ms": 263386,
+      "name": "Monitor",
+      "url": "https://open.spotify.com/track/7pEVLSlWDDTnTUOVdwPXrn"
     },
     {
       "added_at": null,
@@ -963,6 +963,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mr. Carisma",
+        "url": "https://open.spotify.com/album/7AjCD9Rg4Pv7Fp5SHv3B5n"
+      },
+      "artists": [
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "duration_ms": 231716,
+      "name": "Mr. Carisma",
+      "url": "https://open.spotify.com/track/1hdSsODySd5A7IHDStGjBn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "No Te Vayas",
         "url": "https://open.spotify.com/album/0k4dSQx0YRgv43KFpxNWTb"
       },
@@ -983,38 +999,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mr. Carisma",
-        "url": "https://open.spotify.com/album/7AjCD9Rg4Pv7Fp5SHv3B5n"
-      },
-      "artists": [
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        }
-      ],
-      "duration_ms": 231716,
-      "name": "Mr. Carisma",
-      "url": "https://open.spotify.com/track/1hdSsODySd5A7IHDStGjBn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "No todo lo puedes dar",
-        "url": "https://open.spotify.com/album/5B3qry3tE4rHhgI4pRc7Ld"
-      },
-      "artists": [
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        }
-      ],
-      "duration_ms": 228640,
-      "name": "La Vida No Es F\u00e1cil",
-      "url": "https://open.spotify.com/track/0jGTmc9Z4yczeLzLVaIJgp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vu\u00e9lame el Coraz\u00f3n",
         "url": "https://open.spotify.com/album/0B8yGjETSTqrg08Nmrqn5j"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 201471,
       "name": "A un Paso de Baile de Ti",
       "url": "https://open.spotify.com/track/5sDVzfHhH3RpTPzzbV7qrX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No todo lo puedes dar",
+        "url": "https://open.spotify.com/album/5B3qry3tE4rHhgI4pRc7Ld"
+      },
+      "artists": [
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "duration_ms": 228640,
+      "name": "La Vida No Es F\u00e1cil",
+      "url": "https://open.spotify.com/track/0jGTmc9Z4yczeLzLVaIJgp"
     },
     {
       "added_at": null,

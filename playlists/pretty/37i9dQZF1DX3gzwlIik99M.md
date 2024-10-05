@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gzwlIik99M.md) - [plain]
 
 > Metal hecho en Iberoamérica\. Bandas que ya conoces y que estás a punto de conocer\. Foto: Sepultura
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,895 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,915 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gzwlIik99M.md) - [plain]
 | 35 | [Infiel a Dos Mentiras "Vida"](https://open.spotify.com/track/7mNdPmUqNmp7JqHQUBJPBa) | [Kilcrops](https://open.spotify.com/artist/35RQXAyUyPsRRcank3cohw) | [Javhe Karma](https://open.spotify.com/album/0yKtlTkM61fYXqKXybXVK1) | 7:40 |
 | 36 | [Darse Cuenta](https://open.spotify.com/track/41ijCwVP2PQmGCRxwhKbkH) | [Logos](https://open.spotify.com/artist/4aCWTRWrh5lyIaZTVCP6ja) | [Plan Mundial Para La Destrucción](https://open.spotify.com/album/7fBKqH6kZsrgY2RJWkaiC5) | 4:17 |
 | 37 | [Cenizas‬](https://open.spotify.com/track/4QgSHdxKEtOt3qPXL3lmbG) | [Carajo](https://open.spotify.com/artist/5tDdTDGy0l8rHkeLaaEyyN) | [Basado en Hechos Reales](https://open.spotify.com/album/6lzY4nvVAMGKkdLJDJjqcS) | 4:14 |
-| 38 | [Cacique Yatel](https://open.spotify.com/track/564R2CUjKmBW3hNTghZeKk) | [Aonikenk](https://open.spotify.com/artist/7hjJ0q7oXYcl866xlKLmu7) | [Sentir Metalero](https://open.spotify.com/album/1ptYeB038RINyS0cxPoP4J) | 4:16 |
-| 39 | [Pueblos erguidos](https://open.spotify.com/track/7fpEq4VraGYZZWXfWLk3sP) | [A.N.I.M.A.L.](https://open.spotify.com/artist/6eoz7BtTcC5Q303xQtSgj9), [Mario Altamirano and A.N.I.M.A.L.](https://open.spotify.com/artist/5Szv9SK8b5cY40jhN0mV5m) | [El Nuevo Camino del Hombre](https://open.spotify.com/album/5YoYz3KN6jGFuH9qiCI72f) | 3:18 |
+| 38 | [Pueblos erguidos](https://open.spotify.com/track/7fpEq4VraGYZZWXfWLk3sP) | [A.N.I.M.A.L.](https://open.spotify.com/artist/6eoz7BtTcC5Q303xQtSgj9), [Mario Altamirano and A.N.I.M.A.L.](https://open.spotify.com/artist/5Szv9SK8b5cY40jhN0mV5m) | [El Nuevo Camino del Hombre](https://open.spotify.com/album/5YoYz3KN6jGFuH9qiCI72f) | 3:18 |
+| 39 | [Cacique Yatel](https://open.spotify.com/track/564R2CUjKmBW3hNTghZeKk) | [Aonikenk](https://open.spotify.com/artist/7hjJ0q7oXYcl866xlKLmu7) | [Sentir Metalero](https://open.spotify.com/album/1ptYeB038RINyS0cxPoP4J) | 4:16 |
 | 40 | [Apatrida](https://open.spotify.com/track/5F1qBUKeV22jGhX7oIrOUf) | [Nuclear](https://open.spotify.com/artist/5ODa95P58TRNxymAD9moqt) | [Apatrida](https://open.spotify.com/album/16TSHKfaruA9FCP2K86Vj3) | 3:45 |
 | 41 | [Cantina Del Infierno](https://open.spotify.com/track/0eR2mWPtubdE8Rea23zAc2) | [Dia De Los Muertos](https://open.spotify.com/artist/0zfiIAZ9Pe1zyVz0NLshqD) | [No Money No Fiesta](https://open.spotify.com/album/4alBZkNLtgeGiCI4AbUBtq) | 2:49 |
 | 42 | [Relación Canina 2.0](https://open.spotify.com/track/6a3u4DQ3I26ICkcEN25EcX) | [Medical Negligence](https://open.spotify.com/artist/3jL94uFzu0H6r9vi5nXVAg) | [Evil](https://open.spotify.com/album/2Lx0ZVDWhHAVR01bkGFDHl) | 2:45 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gzwlIik99M.md) - [plain]
 | 45 | [Poseido Por Mezcal](https://open.spotify.com/track/1OqhBWdoqAhKxucWfyL6Dp) | [Gore and Carnage](https://open.spotify.com/artist/17iNOJcVt7aZW0XhoIfHON) | [Carnage Drinking Party](https://open.spotify.com/album/7aepstukqCVA5U97ZbaEYR) | 2:50 |
 | 46 | [La Caperuputa y el Lobo Culión](https://open.spotify.com/track/1zJZ9w43qRt85xZQNsgo9Y) | [Cuentos de los Hermanos Grind](https://open.spotify.com/artist/05q0fmz5AnwuIilO7PxfbC) | [Los Cantipuercos](https://open.spotify.com/album/3kP7B2rRjs3m95HJHKlsjw) | 3:00 |
 | 47 | [Hoy Podes Pudrirte](https://open.spotify.com/track/4taoA7P7oh1whE2Z4EHJGc) | [Avernal](https://open.spotify.com/artist/0Pk6A0iFcoDjG1w0P1OMU2) | [El Sangriento](https://open.spotify.com/album/614yYarWjW9kGJ7HApmS0Y) | 2:40 |
-| 48 | [Victimized](https://open.spotify.com/track/6OSb8LkFYX7kUSDzSmphxH) | [Criminal](https://open.spotify.com/artist/2obZTQu3NO5oRcIZKY9fOh) | [Dead Soul](https://open.spotify.com/album/2vW8nOEvd85a5Uz4u6qjcS) | 3:00 |
-| 49 | [Heavy Drinker](https://open.spotify.com/track/1OCNIGeQ6cI6OM9RlLx7fm) | [Witchtrap](https://open.spotify.com/artist/0eFHyxbByjkMEBK3uumeaW) | [No Anesthesia](https://open.spotify.com/album/192pvxTpcceDYvSMwgOJV6) | 4:35 |
+| 48 | [Heavy Drinker](https://open.spotify.com/track/1OCNIGeQ6cI6OM9RlLx7fm) | [Witchtrap](https://open.spotify.com/artist/0eFHyxbByjkMEBK3uumeaW) | [No Anesthesia](https://open.spotify.com/album/192pvxTpcceDYvSMwgOJV6) | 4:35 |
+| 49 | [Victimized](https://open.spotify.com/track/6OSb8LkFYX7kUSDzSmphxH) | [Criminal](https://open.spotify.com/artist/2obZTQu3NO5oRcIZKY9fOh) | [Dead Soul](https://open.spotify.com/album/2vW8nOEvd85a5Uz4u6qjcS) | 3:00 |
 | 50 | [Strong as Hell](https://open.spotify.com/track/30QNaLNk7w1eOV8HeiATZr) | [Strike Master](https://open.spotify.com/artist/3dalUSTYYdh0GIJWVkZH09) | [Death Based Illusions](https://open.spotify.com/album/3srYoLcpQ2m6oDMyvJQ5af) | 4:19 |
 
 Snapshot ID: `ZgG2dgAAAACE64E1X+Pn+nNnBK7bcTHu`

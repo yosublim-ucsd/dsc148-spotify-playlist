@@ -1,6 +1,6 @@
 {
   "description": "Solo hit rap da ascoltare in loop. Cover: Lazza",
-  "num_followers": 216446,
+  "num_followers": 216512,
   "original_name": "Hit Rap Italiane",
   "owner": {
     "name": "Spotify",
@@ -395,6 +395,22 @@
     {
       "added_at": "2024-05-22 11:01:00",
       "album": {
+        "name": "Fenice",
+        "url": "https://open.spotify.com/album/4Ff34a4maeLObapIe4K89I"
+      },
+      "artists": [
+        {
+          "name": "Izi",
+          "url": "https://open.spotify.com/artist/6289Bbkkk3gaCbh1K7Rv8F"
+        }
+      ],
+      "duration_ms": 212640,
+      "name": "Chic",
+      "url": "https://open.spotify.com/track/7jUJ2RmT4PFHHq4goMWqm3"
+    },
+    {
+      "added_at": "2024-05-22 11:01:00",
+      "album": {
         "name": "In Italia 2024 (feat. Emma & Baby Gang)",
         "url": "https://open.spotify.com/album/312tEWGsN8ssJGl3aHZWuU"
       },
@@ -415,22 +431,6 @@
       "duration_ms": 245292,
       "name": "In Italia 2024 (feat. Emma & Baby Gang)",
       "url": "https://open.spotify.com/track/6nxQV4fJgfvyfZRPPJm1mO"
-    },
-    {
-      "added_at": "2024-05-22 11:01:00",
-      "album": {
-        "name": "Fenice",
-        "url": "https://open.spotify.com/album/4Ff34a4maeLObapIe4K89I"
-      },
-      "artists": [
-        {
-          "name": "Izi",
-          "url": "https://open.spotify.com/artist/6289Bbkkk3gaCbh1K7Rv8F"
-        }
-      ],
-      "duration_ms": 212640,
-      "name": "Chic",
-      "url": "https://open.spotify.com/track/7jUJ2RmT4PFHHq4goMWqm3"
     },
     {
       "added_at": "2024-05-22 11:01:00",
@@ -647,22 +647,18 @@
     {
       "added_at": "2024-05-22 11:01:00",
       "album": {
-        "name": "SIRIO",
-        "url": "https://open.spotify.com/album/2v7KXdLrb81rGL9G7jwcjF"
+        "name": "Re Mida",
+        "url": "https://open.spotify.com/album/4OEhFBWot75bQO4s9K2gGk"
       },
       "artists": [
         {
           "name": "Lazza",
           "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
-        },
-        {
-          "name": "Sfera Ebbasta",
-          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
         }
       ],
-      "duration_ms": 155862,
-      "name": "PIOVE (feat. Sfera Ebbasta)",
-      "url": "https://open.spotify.com/track/6BUueuMQR4k7CuoMEsnGou"
+      "duration_ms": 145640,
+      "name": "Morto Mai",
+      "url": "https://open.spotify.com/track/2Ri0436JKFUsd3B3xa2jCe"
     },
     {
       "added_at": "2024-05-22 11:01:00",
@@ -803,18 +799,22 @@
     {
       "added_at": "2024-05-22 11:01:00",
       "album": {
-        "name": "Re Mida",
-        "url": "https://open.spotify.com/album/4OEhFBWot75bQO4s9K2gGk"
+        "name": "SIRIO",
+        "url": "https://open.spotify.com/album/2v7KXdLrb81rGL9G7jwcjF"
       },
       "artists": [
         {
           "name": "Lazza",
           "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
+        },
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
         }
       ],
-      "duration_ms": 145640,
-      "name": "Morto Mai",
-      "url": "https://open.spotify.com/track/2Ri0436JKFUsd3B3xa2jCe"
+      "duration_ms": 155862,
+      "name": "PIOVE (feat. Sfera Ebbasta)",
+      "url": "https://open.spotify.com/track/6BUueuMQR4k7CuoMEsnGou"
     },
     {
       "added_at": "2024-05-22 11:01:00",
@@ -875,22 +875,22 @@
     {
       "added_at": "2024-05-22 11:01:00",
       "album": {
-        "name": "Potere",
-        "url": "https://open.spotify.com/album/5euEUUI8h8f2lWE5GMi2T1"
+        "name": "Soldi in Nero (feat. Sfera Ebbasta)",
+        "url": "https://open.spotify.com/album/6FQX7kuSlqfWWCPv24HPaH"
       },
       "artists": [
         {
-          "name": "Luch\u00e8",
-          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
         },
         {
           "name": "Sfera Ebbasta",
           "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
         }
       ],
-      "duration_ms": 171375,
-      "name": "Stamm Fort (feat. Sfera Ebbasta)",
-      "url": "https://open.spotify.com/track/7iTTQvztpfrDneVSX9IGBD"
+      "duration_ms": 183797,
+      "name": "Soldi in Nero - feat. Sfera Ebbasta",
+      "url": "https://open.spotify.com/track/1Xm2e1vDwOMeJJioWuG1s7"
     },
     {
       "added_at": "2024-05-22 11:01:00",
@@ -919,22 +919,22 @@
     {
       "added_at": "2024-05-22 11:01:00",
       "album": {
-        "name": "Soldi in Nero (feat. Sfera Ebbasta)",
-        "url": "https://open.spotify.com/album/6FQX7kuSlqfWWCPv24HPaH"
+        "name": "Potere",
+        "url": "https://open.spotify.com/album/5euEUUI8h8f2lWE5GMi2T1"
       },
       "artists": [
         {
-          "name": "Shiva",
-          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+          "name": "Luch\u00e8",
+          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
         },
         {
           "name": "Sfera Ebbasta",
           "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
         }
       ],
-      "duration_ms": 183797,
-      "name": "Soldi in Nero - feat. Sfera Ebbasta",
-      "url": "https://open.spotify.com/track/1Xm2e1vDwOMeJJioWuG1s7"
+      "duration_ms": 171375,
+      "name": "Stamm Fort (feat. Sfera Ebbasta)",
+      "url": "https://open.spotify.com/track/7iTTQvztpfrDneVSX9IGBD"
     },
     {
       "added_at": "2024-05-22 11:01:00",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2024-05-22 11:01:00",
       "album": {
-        "name": "Potere",
-        "url": "https://open.spotify.com/album/2PjyVGPJwYRg9GbNXlicKM"
-      },
-      "artists": [
-        {
-          "name": "Luch\u00e8",
-          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
-        }
-      ],
-      "duration_ms": 180009,
-      "name": "Torna Da Me",
-      "url": "https://open.spotify.com/track/5iSHLCuc0K3pUW16b7sSP4"
-    },
-    {
-      "added_at": "2024-05-22 11:01:00",
-      "album": {
         "name": "Persona",
         "url": "https://open.spotify.com/album/3ZOt77e63uMgJXU7xcFpqu"
       },
@@ -1035,6 +1019,22 @@
     {
       "added_at": "2024-05-22 11:01:00",
       "album": {
+        "name": "Potere",
+        "url": "https://open.spotify.com/album/2PjyVGPJwYRg9GbNXlicKM"
+      },
+      "artists": [
+        {
+          "name": "Luch\u00e8",
+          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
+        }
+      ],
+      "duration_ms": 180009,
+      "name": "Torna Da Me",
+      "url": "https://open.spotify.com/track/5iSHLCuc0K3pUW16b7sSP4"
+    },
+    {
+      "added_at": "2024-05-22 11:01:00",
+      "album": {
         "name": "23 6451",
         "url": "https://open.spotify.com/album/42wflBbrb9OchJfd3qiGRO"
       },
@@ -1047,38 +1047,6 @@
       "duration_ms": 161266,
       "name": "fuck 3x",
       "url": "https://open.spotify.com/track/5YxP1CkunbhUQVvctFOHa7"
-    },
-    {
-      "added_at": "2024-05-22 11:01:00",
-      "album": {
-        "name": "Shakerando",
-        "url": "https://open.spotify.com/album/4ZF92wezwJWluQn4CQcXLJ"
-      },
-      "artists": [
-        {
-          "name": "Rhove",
-          "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
-        }
-      ],
-      "duration_ms": 195555,
-      "name": "Shakerando",
-      "url": "https://open.spotify.com/track/4EC028SvtlC25iHQSG2OIa"
-    },
-    {
-      "added_at": "2024-05-22 11:01:00",
-      "album": {
-        "name": "20",
-        "url": "https://open.spotify.com/album/0KYX8LOknGNZ7CkC5EuHJw"
-      },
-      "artists": [
-        {
-          "name": "Capo Plaza",
-          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
-        }
-      ],
-      "duration_ms": 208813,
-      "name": "Uno squillo",
-      "url": "https://open.spotify.com/track/7zivIUyCw9MmYftdcayXnN"
     },
     {
       "added_at": "2024-05-22 11:01:00",
@@ -1103,6 +1071,38 @@
     {
       "added_at": "2024-05-22 11:01:00",
       "album": {
+        "name": "20",
+        "url": "https://open.spotify.com/album/0KYX8LOknGNZ7CkC5EuHJw"
+      },
+      "artists": [
+        {
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+        }
+      ],
+      "duration_ms": 208813,
+      "name": "Uno squillo",
+      "url": "https://open.spotify.com/track/7zivIUyCw9MmYftdcayXnN"
+    },
+    {
+      "added_at": "2024-05-22 11:01:00",
+      "album": {
+        "name": "Shakerando",
+        "url": "https://open.spotify.com/album/4ZF92wezwJWluQn4CQcXLJ"
+      },
+      "artists": [
+        {
+          "name": "Rhove",
+          "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
+        }
+      ],
+      "duration_ms": 195555,
+      "name": "Shakerando",
+      "url": "https://open.spotify.com/track/4EC028SvtlC25iHQSG2OIa"
+    },
+    {
+      "added_at": "2024-05-22 11:01:00",
+      "album": {
         "name": "Bellaria",
         "url": "https://open.spotify.com/album/68nhU5oObeTv5qNosFuVAD"
       },
@@ -1119,30 +1119,6 @@
     {
       "added_at": "2024-05-22 11:01:00",
       "album": {
-        "name": "T\u00caTE (feat. Medy & VillaBanks)",
-        "url": "https://open.spotify.com/album/5TL8p0VHTb54SA7FGhL8lG"
-      },
-      "artists": [
-        {
-          "name": "AVA",
-          "url": "https://open.spotify.com/artist/7zPS3i8YJBNeDcqXUHfCMr"
-        },
-        {
-          "name": "Medy",
-          "url": "https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn"
-        },
-        {
-          "name": "VillaBanks",
-          "url": "https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL"
-        }
-      ],
-      "duration_ms": 180904,
-      "name": "T\u00caTE (feat. Medy & VillaBanks)",
-      "url": "https://open.spotify.com/track/14XAuSrVFla2uyMiYVwQtq"
-    },
-    {
-      "added_at": "2024-05-22 11:01:00",
-      "album": {
         "name": "Vero",
         "url": "https://open.spotify.com/album/4TJpiqlHBrwm7nLpOIQjZ7"
       },
@@ -1155,6 +1131,30 @@
       "duration_ms": 182232,
       "name": "Eravamo Re",
       "url": "https://open.spotify.com/track/6VwGytUkC11Mj5kcHXggYj"
+    },
+    {
+      "added_at": "2024-05-22 11:01:00",
+      "album": {
+        "name": "Gi\u00f9",
+        "url": "https://open.spotify.com/album/7vo7aun2FjdwkfP81Gy8w3"
+      },
+      "artists": [
+        {
+          "name": "Neima Ezza",
+          "url": "https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK"
+        },
+        {
+          "name": "2nd Roof",
+          "url": "https://open.spotify.com/artist/1eznSku2RY9VSvkhWxXdmx"
+        },
+        {
+          "name": "Vale Pain",
+          "url": "https://open.spotify.com/artist/1ZDu0fOcpCIjDwyl2cvk08"
+        }
+      ],
+      "duration_ms": 200213,
+      "name": "FEDELE AL QUARTIERE (feat. Vale Pain)",
+      "url": "https://open.spotify.com/track/1bCqybo9LtdhrNByWLHWx0"
     },
     {
       "added_at": "2024-05-22 11:01:00",
@@ -1199,6 +1199,30 @@
     {
       "added_at": "2024-05-22 11:01:00",
       "album": {
+        "name": "T\u00caTE (feat. Medy & VillaBanks)",
+        "url": "https://open.spotify.com/album/5TL8p0VHTb54SA7FGhL8lG"
+      },
+      "artists": [
+        {
+          "name": "AVA",
+          "url": "https://open.spotify.com/artist/7zPS3i8YJBNeDcqXUHfCMr"
+        },
+        {
+          "name": "Medy",
+          "url": "https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn"
+        },
+        {
+          "name": "VillaBanks",
+          "url": "https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL"
+        }
+      ],
+      "duration_ms": 180904,
+      "name": "T\u00caTE (feat. Medy & VillaBanks)",
+      "url": "https://open.spotify.com/track/14XAuSrVFla2uyMiYVwQtq"
+    },
+    {
+      "added_at": "2024-05-22 11:01:00",
+      "album": {
         "name": "Cadillac (feat. Artie 5ive)",
         "url": "https://open.spotify.com/album/3mG2cIIIftDcBHTtfQrMMz"
       },
@@ -1219,30 +1243,6 @@
       "duration_ms": 155526,
       "name": "Cadillac (feat. Artie 5ive)",
       "url": "https://open.spotify.com/track/7IpsNYgP87QkLCSnctxSif"
-    },
-    {
-      "added_at": "2024-05-22 11:01:00",
-      "album": {
-        "name": "Gi\u00f9",
-        "url": "https://open.spotify.com/album/7vo7aun2FjdwkfP81Gy8w3"
-      },
-      "artists": [
-        {
-          "name": "Neima Ezza",
-          "url": "https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK"
-        },
-        {
-          "name": "2nd Roof",
-          "url": "https://open.spotify.com/artist/1eznSku2RY9VSvkhWxXdmx"
-        },
-        {
-          "name": "Vale Pain",
-          "url": "https://open.spotify.com/artist/1ZDu0fOcpCIjDwyl2cvk08"
-        }
-      ],
-      "duration_ms": 200213,
-      "name": "FEDELE AL QUARTIERE (feat. Vale Pain)",
-      "url": "https://open.spotify.com/track/1bCqybo9LtdhrNByWLHWx0"
     },
     {
       "added_at": "2024-05-22 11:01:00",
@@ -1887,42 +1887,6 @@
     {
       "added_at": "2024-05-22 11:01:00",
       "album": {
-        "name": "Rozzi",
-        "url": "https://open.spotify.com/album/1VE1SYRNN6bjR1NAoJupok"
-      },
-      "artists": [
-        {
-          "name": "Paky",
-          "url": "https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2"
-        }
-      ],
-      "duration_ms": 163053,
-      "name": "Rozzi",
-      "url": "https://open.spotify.com/track/3Y00k9cPoW8BnJesUEFoWn"
-    },
-    {
-      "added_at": "2024-05-22 11:01:00",
-      "album": {
-        "name": "Pel\u00e9",
-        "url": "https://open.spotify.com/album/329aNexZnIOYq7GaNHCxSC"
-      },
-      "artists": [
-        {
-          "name": "Rhove",
-          "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
-        },
-        {
-          "name": "Madfingerz",
-          "url": "https://open.spotify.com/artist/4VmOlyJsnQB93ZIGMO2XWo"
-        }
-      ],
-      "duration_ms": 133858,
-      "name": "Pel\u00e9",
-      "url": "https://open.spotify.com/track/3UYr4TdhtCthMH9ujhx0BA"
-    },
-    {
-      "added_at": "2024-05-22 11:01:00",
-      "album": {
         "name": "Mattoni",
         "url": "https://open.spotify.com/album/1l1cFQQfIbsDDbPavkCosf"
       },
@@ -1947,6 +1911,42 @@
       "duration_ms": 216000,
       "name": "Stay Away (feat. Ketama126, Side Baby & Franco126)",
       "url": "https://open.spotify.com/track/6oZJl2T2hdHnMYcZR6VJGb"
+    },
+    {
+      "added_at": "2024-05-22 11:01:00",
+      "album": {
+        "name": "Pel\u00e9",
+        "url": "https://open.spotify.com/album/329aNexZnIOYq7GaNHCxSC"
+      },
+      "artists": [
+        {
+          "name": "Rhove",
+          "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
+        },
+        {
+          "name": "Madfingerz",
+          "url": "https://open.spotify.com/artist/4VmOlyJsnQB93ZIGMO2XWo"
+        }
+      ],
+      "duration_ms": 133858,
+      "name": "Pel\u00e9",
+      "url": "https://open.spotify.com/track/3UYr4TdhtCthMH9ujhx0BA"
+    },
+    {
+      "added_at": "2024-05-22 11:01:00",
+      "album": {
+        "name": "Rozzi",
+        "url": "https://open.spotify.com/album/1VE1SYRNN6bjR1NAoJupok"
+      },
+      "artists": [
+        {
+          "name": "Paky",
+          "url": "https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2"
+        }
+      ],
+      "duration_ms": 163053,
+      "name": "Rozzi",
+      "url": "https://open.spotify.com/track/3Y00k9cPoW8BnJesUEFoWn"
     }
   ],
   "unique_name": "Hit Rap Italiane",

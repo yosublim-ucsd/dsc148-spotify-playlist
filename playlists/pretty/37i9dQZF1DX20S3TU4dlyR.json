@@ -1,6 +1,6 @@
 {
   "description": "Este es el Reggae, al sur del continente americano. Foto: Dancing Mood",
-  "num_followers": 62616,
+  "num_followers": 62622,
   "original_name": "Reggae al Sur",
   "owner": {
     "name": "Spotify",
@@ -731,26 +731,6 @@
     {
       "added_at": "2024-10-03 20:51:05",
       "album": {
-        "name": "Soy d\u00e9bil Sr.",
-        "url": "https://open.spotify.com/album/6XLmWFiQkDJ756tIB01dd7"
-      },
-      "artists": [
-        {
-          "name": "Gauchito Club",
-          "url": "https://open.spotify.com/artist/58gIcdW6E0jd0846aI1sVj"
-        },
-        {
-          "name": "El Kuelgue",
-          "url": "https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT"
-        }
-      ],
-      "duration_ms": 225600,
-      "name": "Soy d\u00e9bil Sr.",
-      "url": "https://open.spotify.com/track/4zN8UMrNeEoJSggUC5EfBn"
-    },
-    {
-      "added_at": "2024-10-03 20:51:05",
-      "album": {
         "name": "Andei S\u00f3",
         "url": "https://open.spotify.com/album/6HJf6QbEk7IR6zpDRiHMMd"
       },
@@ -767,6 +747,26 @@
       "duration_ms": 357533,
       "name": "Andei S\u00f3",
       "url": "https://open.spotify.com/track/3SfD0MD4vj9vRRqxbmvhLI"
+    },
+    {
+      "added_at": "2024-10-03 20:51:05",
+      "album": {
+        "name": "Soy d\u00e9bil Sr.",
+        "url": "https://open.spotify.com/album/6XLmWFiQkDJ756tIB01dd7"
+      },
+      "artists": [
+        {
+          "name": "Gauchito Club",
+          "url": "https://open.spotify.com/artist/58gIcdW6E0jd0846aI1sVj"
+        },
+        {
+          "name": "El Kuelgue",
+          "url": "https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT"
+        }
+      ],
+      "duration_ms": 225600,
+      "name": "Soy d\u00e9bil Sr.",
+      "url": "https://open.spotify.com/track/4zN8UMrNeEoJSggUC5EfBn"
     },
     {
       "added_at": "2024-10-03 20:51:05",
@@ -959,6 +959,22 @@
     {
       "added_at": "2024-10-03 20:51:05",
       "album": {
+        "name": "La Vida te Habla",
+        "url": "https://open.spotify.com/album/23aWViVCijrwN9887u0UC0"
+      },
+      "artists": [
+        {
+          "name": "Leonchalon",
+          "url": "https://open.spotify.com/artist/18hhcln4FwPkj2iwxT5yB0"
+        }
+      ],
+      "duration_ms": 223874,
+      "name": "La Vida te Habla",
+      "url": "https://open.spotify.com/track/4oK5MgdWGvfIjICZJf0sCc"
+    },
+    {
+      "added_at": "2024-10-03 20:51:05",
+      "album": {
         "name": "Hombres De Hierro",
         "url": "https://open.spotify.com/album/28PPi09N38AQCzBLW5AMZC"
       },
@@ -979,18 +995,22 @@
     {
       "added_at": "2024-10-03 20:51:05",
       "album": {
-        "name": "La Vida te Habla",
-        "url": "https://open.spotify.com/album/23aWViVCijrwN9887u0UC0"
+        "name": "Rastone (En Vivo en el Teatro de Flores)",
+        "url": "https://open.spotify.com/album/4kENWmOZi09OBZL5ziwi7w"
       },
       "artists": [
         {
-          "name": "Leonchalon",
-          "url": "https://open.spotify.com/artist/18hhcln4FwPkj2iwxT5yB0"
+          "name": "C4 Reggae Combativo",
+          "url": "https://open.spotify.com/artist/2HnAud57JxR0WvtR2XviA0"
+        },
+        {
+          "name": "Viejas Locas",
+          "url": "https://open.spotify.com/artist/7wTu5u7W3kc9Id5JAvSAFV"
         }
       ],
-      "duration_ms": 223874,
-      "name": "La Vida te Habla",
-      "url": "https://open.spotify.com/track/4oK5MgdWGvfIjICZJf0sCc"
+      "duration_ms": 210000,
+      "name": "Rastone (En Vivo en el Teatro de Flores)",
+      "url": "https://open.spotify.com/track/2HQ7tr2KXASyKQJoIWtJiB"
     },
     {
       "added_at": "2024-10-03 20:51:05",
@@ -1023,26 +1043,6 @@
       "duration_ms": 230986,
       "name": "Diablito",
       "url": "https://open.spotify.com/track/2Z1rlQEgYannUuHeJmWYzp"
-    },
-    {
-      "added_at": "2024-10-03 20:51:05",
-      "album": {
-        "name": "Rastone (En Vivo en el Teatro de Flores)",
-        "url": "https://open.spotify.com/album/4kENWmOZi09OBZL5ziwi7w"
-      },
-      "artists": [
-        {
-          "name": "C4 Reggae Combativo",
-          "url": "https://open.spotify.com/artist/2HnAud57JxR0WvtR2XviA0"
-        },
-        {
-          "name": "Viejas Locas",
-          "url": "https://open.spotify.com/artist/7wTu5u7W3kc9Id5JAvSAFV"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Rastone (En Vivo en el Teatro de Flores)",
-      "url": "https://open.spotify.com/track/2HQ7tr2KXASyKQJoIWtJiB"
     },
     {
       "added_at": "2024-10-03 20:51:05",
@@ -1095,38 +1095,6 @@
     {
       "added_at": "2024-10-03 20:51:05",
       "album": {
-        "name": "Negro",
-        "url": "https://open.spotify.com/album/0yw1Sq70Su7ZCEJV8jv9HY"
-      },
-      "artists": [
-        {
-          "name": "El Natty Combo",
-          "url": "https://open.spotify.com/artist/4fH7GgndN1PBmd6S3Ux5W9"
-        }
-      ],
-      "duration_ms": 265216,
-      "name": "Este Mundo",
-      "url": "https://open.spotify.com/track/6WK2LH6KzIN9guZDQgoFxo"
-    },
-    {
-      "added_at": "2024-10-03 20:51:05",
-      "album": {
-        "name": "Groovin' High",
-        "url": "https://open.spotify.com/album/344IQjBlB9LO2sjzvjUtl2"
-      },
-      "artists": [
-        {
-          "name": "Dancing Mood",
-          "url": "https://open.spotify.com/artist/70XauTb6oEJbXxFoH6wY9F"
-        }
-      ],
-      "duration_ms": 435040,
-      "name": "The Chicken",
-      "url": "https://open.spotify.com/track/1ixPeXUL8LA0r6o9Og6Apc"
-    },
-    {
-      "added_at": "2024-10-03 20:51:05",
-      "album": {
         "name": "S\u00ed Ser\u00e1s",
         "url": "https://open.spotify.com/album/0ZToxlCx1Z93ECG3yZWsZ0"
       },
@@ -1159,6 +1127,38 @@
     {
       "added_at": "2024-10-03 20:51:05",
       "album": {
+        "name": "Negro",
+        "url": "https://open.spotify.com/album/0yw1Sq70Su7ZCEJV8jv9HY"
+      },
+      "artists": [
+        {
+          "name": "El Natty Combo",
+          "url": "https://open.spotify.com/artist/4fH7GgndN1PBmd6S3Ux5W9"
+        }
+      ],
+      "duration_ms": 265216,
+      "name": "Este Mundo",
+      "url": "https://open.spotify.com/track/6WK2LH6KzIN9guZDQgoFxo"
+    },
+    {
+      "added_at": "2024-10-03 20:51:05",
+      "album": {
+        "name": "Groovin' High",
+        "url": "https://open.spotify.com/album/344IQjBlB9LO2sjzvjUtl2"
+      },
+      "artists": [
+        {
+          "name": "Dancing Mood",
+          "url": "https://open.spotify.com/artist/70XauTb6oEJbXxFoH6wY9F"
+        }
+      ],
+      "duration_ms": 435040,
+      "name": "The Chicken",
+      "url": "https://open.spotify.com/track/1ixPeXUL8LA0r6o9Og6Apc"
+    },
+    {
+      "added_at": "2024-10-03 20:51:05",
+      "album": {
         "name": "As\u00ed",
         "url": "https://open.spotify.com/album/1Vnxc92RmrxMEoh3wyZFte"
       },
@@ -1171,6 +1171,42 @@
       "duration_ms": 237026,
       "name": "Naufrago",
       "url": "https://open.spotify.com/track/66S8xPH84rlZx8TmXps28o"
+    },
+    {
+      "added_at": "2024-10-03 20:51:05",
+      "album": {
+        "name": "Qui\u00e9n Sos?",
+        "url": "https://open.spotify.com/album/3ciuW3aqUEX2Yx76S6ZrEA"
+      },
+      "artists": [
+        {
+          "name": "Rondamon",
+          "url": "https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP"
+        },
+        {
+          "name": "Julieta Rada",
+          "url": "https://open.spotify.com/artist/5KA95SZBQeMgNMTuqnxzJd"
+        }
+      ],
+      "duration_ms": 231464,
+      "name": "Qui\u00e9n Sos?",
+      "url": "https://open.spotify.com/track/2iq53i4P2VSj3Qc3DYbQTH"
+    },
+    {
+      "added_at": "2024-10-03 20:51:05",
+      "album": {
+        "name": "Amor De Barrio",
+        "url": "https://open.spotify.com/album/2LvjJW52h7wcohlk5hvGCj"
+      },
+      "artists": [
+        {
+          "name": "Leonchalon",
+          "url": "https://open.spotify.com/artist/18hhcln4FwPkj2iwxT5yB0"
+        }
+      ],
+      "duration_ms": 202680,
+      "name": "Lo De Siempre",
+      "url": "https://open.spotify.com/track/6QG5E3dAlrnoj8yIwJFr1X"
     },
     {
       "added_at": "2024-10-03 20:51:05",
@@ -1252,29 +1288,25 @@
           "url": "https://open.spotify.com/artist/18hhcln4FwPkj2iwxT5yB0"
         }
       ],
-      "duration_ms": 202680,
-      "name": "Lo De Siempre",
-      "url": "https://open.spotify.com/track/6QG5E3dAlrnoj8yIwJFr1X"
+      "duration_ms": 267666,
+      "name": "Lo Que Dicta El Tiempo",
+      "url": "https://open.spotify.com/track/5kSkRMrl8p1w63pybLjg0S"
     },
     {
       "added_at": "2024-10-03 20:51:05",
       "album": {
-        "name": "Dimelo Ayer",
-        "url": "https://open.spotify.com/album/3y26sdvr1EWg1hELlXHTm1"
+        "name": "The Lady in Red",
+        "url": "https://open.spotify.com/album/5hY2bdC4Tg8l3x2jjjYANd"
       },
       "artists": [
         {
-          "name": "Coral",
-          "url": "https://open.spotify.com/artist/0G8H711x1d7iYx6JIhMMQq"
-        },
-        {
-          "name": "Cucho Parisi",
-          "url": "https://open.spotify.com/artist/1uuzWNBMb1W3xA1eP3VGHm"
+          "name": "Rondamon",
+          "url": "https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP"
         }
       ],
-      "duration_ms": 159892,
-      "name": "Dimelo Ayer",
-      "url": "https://open.spotify.com/track/3oLLeHt1QC4UZQR2SQ2wyc"
+      "duration_ms": 225703,
+      "name": "The Lady in Red",
+      "url": "https://open.spotify.com/track/2K8NBYKFbKa9UhAGHnN6GX"
     },
     {
       "added_at": "2024-10-03 20:51:05",
@@ -1299,22 +1331,18 @@
     {
       "added_at": "2024-10-03 20:51:05",
       "album": {
-        "name": "Qui\u00e9n Sos?",
-        "url": "https://open.spotify.com/album/3ciuW3aqUEX2Yx76S6ZrEA"
+        "name": "Bebamos de las Copas Lindas",
+        "url": "https://open.spotify.com/album/1Cn8QXjbDdiDEJst9nmWqV"
       },
       "artists": [
         {
-          "name": "Rondamon",
-          "url": "https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP"
-        },
-        {
-          "name": "Julieta Rada",
-          "url": "https://open.spotify.com/artist/5KA95SZBQeMgNMTuqnxzJd"
+          "name": "El Natty Combo",
+          "url": "https://open.spotify.com/artist/4fH7GgndN1PBmd6S3Ux5W9"
         }
       ],
-      "duration_ms": 231464,
-      "name": "Qui\u00e9n Sos?",
-      "url": "https://open.spotify.com/track/2iq53i4P2VSj3Qc3DYbQTH"
+      "duration_ms": 207300,
+      "name": "Bebamos de las Copas Lindas",
+      "url": "https://open.spotify.com/track/0stjjSmOBJfmBvVL8qd7jy"
     },
     {
       "added_at": "2024-10-03 20:51:05",
@@ -1335,6 +1363,46 @@
     {
       "added_at": "2024-10-03 20:51:05",
       "album": {
+        "name": "Dimelo Ayer",
+        "url": "https://open.spotify.com/album/3y26sdvr1EWg1hELlXHTm1"
+      },
+      "artists": [
+        {
+          "name": "Coral",
+          "url": "https://open.spotify.com/artist/0G8H711x1d7iYx6JIhMMQq"
+        },
+        {
+          "name": "Cucho Parisi",
+          "url": "https://open.spotify.com/artist/1uuzWNBMb1W3xA1eP3VGHm"
+        }
+      ],
+      "duration_ms": 159892,
+      "name": "Dimelo Ayer",
+      "url": "https://open.spotify.com/track/3oLLeHt1QC4UZQR2SQ2wyc"
+    },
+    {
+      "added_at": "2024-10-03 20:51:05",
+      "album": {
+        "name": "Que Bonita Vecindad",
+        "url": "https://open.spotify.com/album/2K10aRTR266ouMt2UiGaJh"
+      },
+      "artists": [
+        {
+          "name": "Rondamon",
+          "url": "https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP"
+        },
+        {
+          "name": "Guillermo Bonetto",
+          "url": "https://open.spotify.com/artist/1rijasyRtILod4s1wmI78L"
+        }
+      ],
+      "duration_ms": 223405,
+      "name": "Nadie Sabe",
+      "url": "https://open.spotify.com/track/1OD9E9AtG0bgRgRxNNDeox"
+    },
+    {
+      "added_at": "2024-10-03 20:51:05",
+      "album": {
         "name": "Desglosando el Tiempo",
         "url": "https://open.spotify.com/album/0g9ZHdsYsdOWp7QUibguN8"
       },
@@ -1351,18 +1419,18 @@
     {
       "added_at": "2024-10-03 20:51:05",
       "album": {
-        "name": "Bebamos de las Copas Lindas",
-        "url": "https://open.spotify.com/album/1Cn8QXjbDdiDEJst9nmWqV"
+        "name": "Todo Es As\u00ed",
+        "url": "https://open.spotify.com/album/3BzrCi7FL52ULRUI154X6K"
       },
       "artists": [
         {
-          "name": "El Natty Combo",
-          "url": "https://open.spotify.com/artist/4fH7GgndN1PBmd6S3Ux5W9"
+          "name": "DOMA",
+          "url": "https://open.spotify.com/artist/4aD9Ax5YSotHSD60pph8yU"
         }
       ],
-      "duration_ms": 207300,
-      "name": "Bebamos de las Copas Lindas",
-      "url": "https://open.spotify.com/track/0stjjSmOBJfmBvVL8qd7jy"
+      "duration_ms": 230132,
+      "name": "Todo Es As\u00ed",
+      "url": "https://open.spotify.com/track/0KXw3dbbDFx75viq9HtMT4"
     },
     {
       "added_at": "2024-10-03 20:51:05",
@@ -1383,24 +1451,8 @@
     {
       "added_at": "2024-10-03 20:51:05",
       "album": {
-        "name": "The Lady in Red",
-        "url": "https://open.spotify.com/album/5hY2bdC4Tg8l3x2jjjYANd"
-      },
-      "artists": [
-        {
-          "name": "Rondamon",
-          "url": "https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP"
-        }
-      ],
-      "duration_ms": 225703,
-      "name": "The Lady in Red",
-      "url": "https://open.spotify.com/track/2K8NBYKFbKa9UhAGHnN6GX"
-    },
-    {
-      "added_at": "2024-10-03 20:51:05",
-      "album": {
-        "name": "Amor De Barrio",
-        "url": "https://open.spotify.com/album/2LvjJW52h7wcohlk5hvGCj"
+        "name": "Humo",
+        "url": "https://open.spotify.com/album/7fnXhIC06cyvU9ZOP6BaBE"
       },
       "artists": [
         {
@@ -1408,25 +1460,9 @@
           "url": "https://open.spotify.com/artist/18hhcln4FwPkj2iwxT5yB0"
         }
       ],
-      "duration_ms": 267666,
-      "name": "Lo Que Dicta El Tiempo",
-      "url": "https://open.spotify.com/track/5kSkRMrl8p1w63pybLjg0S"
-    },
-    {
-      "added_at": "2024-10-03 20:51:05",
-      "album": {
-        "name": "Todo Es As\u00ed",
-        "url": "https://open.spotify.com/album/3BzrCi7FL52ULRUI154X6K"
-      },
-      "artists": [
-        {
-          "name": "DOMA",
-          "url": "https://open.spotify.com/artist/4aD9Ax5YSotHSD60pph8yU"
-        }
-      ],
-      "duration_ms": 230132,
-      "name": "Todo Es As\u00ed",
-      "url": "https://open.spotify.com/track/0KXw3dbbDFx75viq9HtMT4"
+      "duration_ms": 239280,
+      "name": "Buena Suerte",
+      "url": "https://open.spotify.com/track/4dr6LUn5QQyBAYuFzJSZfU"
     },
     {
       "added_at": "2024-10-03 20:51:05",
@@ -1479,42 +1515,6 @@
       "duration_ms": 171013,
       "name": "Nada Que Me Venga Mal",
       "url": "https://open.spotify.com/track/3mCh5KP0yBG8j3ZKN32HBo"
-    },
-    {
-      "added_at": "2024-10-03 20:51:05",
-      "album": {
-        "name": "Humo",
-        "url": "https://open.spotify.com/album/7fnXhIC06cyvU9ZOP6BaBE"
-      },
-      "artists": [
-        {
-          "name": "Leonchalon",
-          "url": "https://open.spotify.com/artist/18hhcln4FwPkj2iwxT5yB0"
-        }
-      ],
-      "duration_ms": 239280,
-      "name": "Buena Suerte",
-      "url": "https://open.spotify.com/track/4dr6LUn5QQyBAYuFzJSZfU"
-    },
-    {
-      "added_at": "2024-10-03 20:51:05",
-      "album": {
-        "name": "Que Bonita Vecindad",
-        "url": "https://open.spotify.com/album/2K10aRTR266ouMt2UiGaJh"
-      },
-      "artists": [
-        {
-          "name": "Rondamon",
-          "url": "https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP"
-        },
-        {
-          "name": "Guillermo Bonetto",
-          "url": "https://open.spotify.com/artist/1rijasyRtILod4s1wmI78L"
-        }
-      ],
-      "duration_ms": 223405,
-      "name": "Nadie Sabe",
-      "url": "https://open.spotify.com/track/1OD9E9AtG0bgRgRxNNDeox"
     },
     {
       "added_at": "2024-10-03 20:51:05",

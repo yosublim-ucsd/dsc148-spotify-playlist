@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXSzFkaLsPkN.md) - [plain]
 
 > Hindi hai, Indie hai! Cover\- Akanksha Bhandari
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,059 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,089 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,15 +88,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXSzFkaLsPkN.md) - [plain]
 | 78 | [Shehron Ke Raaz](https://open.spotify.com/track/5e4uOUdrpFCKC2kwnXWWtY) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [Shehron Ke Raaz](https://open.spotify.com/album/3csm5Bav3rCUdEiXvBV3As) | 2:32 |
 | 79 | [Sorry](https://open.spotify.com/track/0wj0UQuHJ8K3hxoTsAavnk) | [maahi](https://open.spotify.com/artist/59cXfBldx8F2Fpq86R4MVV) | [Sorry](https://open.spotify.com/album/56gT7wKR7wzbq7w3l5gU7F) | 3:17 |
 | 80 | [Gumshuda](https://open.spotify.com/track/1qChnX5WTdkE2oCCTyFrTu) | [Akshath](https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo) | [Gumshuda](https://open.spotify.com/album/6J4Cv47ly1iUAheQy6yrEW) | 3:48 |
-| 81 | [Piya](https://open.spotify.com/track/3dA2C0JVTXRS43erFqVLRy) | [Utsavi Jha](https://open.spotify.com/artist/51pcy004juIDA1mruOZJCX) | [Piya](https://open.spotify.com/album/4BHubnTh605e8B4KdYgTYP) | 2:47 |
-| 82 | [Neendein](https://open.spotify.com/track/3L8boIL0HlXw8AtXE8XdIP) | [Mitraz](https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX) | [Neendein](https://open.spotify.com/album/2duQj52ixWnH9cppsg7e63) | 3:14 |
+| 81 | [Neendein](https://open.spotify.com/track/3L8boIL0HlXw8AtXE8XdIP) | [Mitraz](https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX) | [Neendein](https://open.spotify.com/album/2duQj52ixWnH9cppsg7e63) | 3:14 |
+| 82 | [Piya](https://open.spotify.com/track/3dA2C0JVTXRS43erFqVLRy) | [Utsavi Jha](https://open.spotify.com/artist/51pcy004juIDA1mruOZJCX) | [Piya](https://open.spotify.com/album/4BHubnTh605e8B4KdYgTYP) | 2:47 |
 | 83 | [Dhaaga](https://open.spotify.com/track/4yrsSQgfXaHuPQ4prMPvzV) | [SickLot](https://open.spotify.com/artist/2NYWuAn8LPsebNkudbSLA6), [Big Scratch](https://open.spotify.com/artist/5YlvUMiPPR0aT4pfeGlq6u) | [Khaali Panne](https://open.spotify.com/album/6rq6XwTPgShV3wlGkVciqy) | 3:41 |
-| 84 | [Rahguzar](https://open.spotify.com/track/29aAMNNgGe3g5G4CnwlHuL) | [Adarsh Rao](https://open.spotify.com/artist/6RaFiPHsbMRHJ4u4UWf6II) | [Rahguzar](https://open.spotify.com/album/6fsdSpZ9mIXtePUwsNE4v3) | 3:28 |
-| 85 | [Laut Aao Na](https://open.spotify.com/track/4ByPoS1tU7Gvbimkj29GQu) | [Hansika Pareek](https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW) | [Laut Aao Na](https://open.spotify.com/album/6zNjyPHHO10rc7L1Yxr41O) | 3:47 |
+| 84 | [Laut Aao Na](https://open.spotify.com/track/4ByPoS1tU7Gvbimkj29GQu) | [Hansika Pareek](https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW) | [Laut Aao Na](https://open.spotify.com/album/6zNjyPHHO10rc7L1Yxr41O) | 3:47 |
+| 85 | [Rahguzar](https://open.spotify.com/track/29aAMNNgGe3g5G4CnwlHuL) | [Adarsh Rao](https://open.spotify.com/artist/6RaFiPHsbMRHJ4u4UWf6II) | [Rahguzar](https://open.spotify.com/album/6fsdSpZ9mIXtePUwsNE4v3) | 3:28 |
 | 86 | [Rootho Na](https://open.spotify.com/track/3iianNzrInP4BTd6NYCq3g) | [Akanksha Bhandari](https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL), [Raghav Kaushik](https://open.spotify.com/artist/2NSBUoP14iO3vxm14Slc5H) | [Rootho Na](https://open.spotify.com/album/7hqFafe5aIpab9Tx78q5mn) | 3:50 |
-| 87 | [Muskan](https://open.spotify.com/track/16ZcfVSuCcBDdlpvmEIA1i) | [Dikshant](https://open.spotify.com/artist/0kTAB5SUakX286t6K7J3QR) | [Muskan](https://open.spotify.com/album/3NLZpWHd23xx5YYveGbNlv) | 3:18 |
+| 87 | [Tum Jaise Ho](https://open.spotify.com/track/7ofq7AcSmMCB2fKpj1iDoo) | [Utsavi Jha](https://open.spotify.com/artist/51pcy004juIDA1mruOZJCX) | [Tum Jaise Ho](https://open.spotify.com/album/40CMf6LyJR9XT0gaUuQdX0) | 4:10 |
 | 88 | [Meri Baari](https://open.spotify.com/track/0XdDE6lmn5srPDUDBq5xcg) | [Iqlipse Nova](https://open.spotify.com/artist/5tVEtYVMATyQ6OVOetuZlk) | [Meri Baari](https://open.spotify.com/album/6CZIFpN6kaO3BRnlZoACbB) | 3:19 |
-| 89 | [Tum Jaise Ho](https://open.spotify.com/track/7ofq7AcSmMCB2fKpj1iDoo) | [Utsavi Jha](https://open.spotify.com/artist/51pcy004juIDA1mruOZJCX) | [Tum Jaise Ho](https://open.spotify.com/album/40CMf6LyJR9XT0gaUuQdX0) | 4:10 |
+| 89 | [Muskan](https://open.spotify.com/track/16ZcfVSuCcBDdlpvmEIA1i) | [Dikshant](https://open.spotify.com/artist/0kTAB5SUakX286t6K7J3QR) | [Muskan](https://open.spotify.com/album/3NLZpWHd23xx5YYveGbNlv) | 3:18 |
 | 90 | [jaana](https://open.spotify.com/track/5v5G6frYHlwf6YkhR0cYQN) | [Zaeden](https://open.spotify.com/artist/5lMNphVhMLvhFmTWiKiLA2) | [jaana](https://open.spotify.com/album/5bftUl6VwWmOIUdpKret6g) | 3:01 |
 | 91 | [Beqaabu](https://open.spotify.com/track/4bRyiA3wRWx3rnbCxNDete) | [boys from marsss](https://open.spotify.com/artist/5UaZTW4g6ypNCmyXpFiYbU) | [Beqaabu](https://open.spotify.com/album/6GGK1MQ9Pj5dlTYjngHQqg) | 2:14 |
 | 92 | [Sab Rab](https://open.spotify.com/track/04fUBhT63GeEuOhoIONitJ) | [Rochak Kohli](https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe), [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH), [Sanjoy](https://open.spotify.com/artist/6qjhYs5KNSoSU6fNJqDGIo), [Gurpreet Saini](https://open.spotify.com/artist/3nLLr3ShsQC2Hdrwjl14ie) | [Sab Rab](https://open.spotify.com/album/6d31ZraM2g9FyRvsmbxSGp) | 3:04 |

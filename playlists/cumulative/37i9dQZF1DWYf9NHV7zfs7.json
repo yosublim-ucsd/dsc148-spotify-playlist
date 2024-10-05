@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-10-15",
-  "description": "y nada m\u00e1s que pop \u2728\u2728\u2728\n\ud83d\udcf7  Vale Acevedo",
+  "description": "y nada m\u00e1s que pop \u2728\u2728\u2728\n\ud83d\udcf7  Zoe Gotusso",
   "name": "Esto es Pop",
   "tracks": [
     {
@@ -78,7 +78,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-21",
+      "date_removed": null,
       "duration_ms": 172458,
       "name": "4 Paredes",
       "url": "https://open.spotify.com/track/5NdS1ssGwkTP2lAkb79HT2"
@@ -169,6 +169,24 @@
     },
     {
       "album": {
+        "name": "A Paso Lento",
+        "url": "https://open.spotify.com/album/20rfJSXTJuXVi1Khx5YWYA"
+      },
+      "artists": [
+        {
+          "name": "Ele Mariani",
+          "url": "https://open.spotify.com/artist/4E4wkESgUKE5VTB9zo308S"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189040,
+      "name": "A Paso Lento",
+      "url": "https://open.spotify.com/track/47BpQR4x40OaPh3UKPWcMa"
+    },
+    {
+      "album": {
         "name": "A punto (feat. Delfina Campos)",
         "url": "https://open.spotify.com/album/0z8ck6llq2aHAfJ5NjDQ6t"
       },
@@ -242,7 +260,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 166392,
       "name": "Acero",
       "url": "https://open.spotify.com/track/6DLtjuW9k0hVnC4UspBnBf"
@@ -478,7 +496,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-21",
+      "date_removed": null,
       "duration_ms": 180017,
       "name": "As\u00ed Es el Calor",
       "url": "https://open.spotify.com/track/5nFTy6FXjPG9rJOY6tp6cP"
@@ -962,7 +980,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 268016,
       "name": "Coraz\u00f3n Carioca",
       "url": "https://open.spotify.com/track/3y7nbqrMkYPWx4F4wqQyqu"
@@ -1568,7 +1586,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 170720,
       "name": "Faldera",
       "url": "https://open.spotify.com/track/35VIh10XZ4J1PekIJLVyWc"
@@ -1658,7 +1676,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 214706,
       "name": "Final Feliz",
       "url": "https://open.spotify.com/track/0znwYCQWSS5Bupi6ZI4JhM"
@@ -1676,7 +1694,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-21",
+      "date_removed": null,
       "duration_ms": 154033,
       "name": "flashi\u00e9",
       "url": "https://open.spotify.com/track/6zrYtyVwFddDzxY4gUBTNs"
@@ -2487,6 +2505,24 @@
     },
     {
       "album": {
+        "name": "Lara",
+        "url": "https://open.spotify.com/album/3EjNrGYV82jkbxCOYMD7D6"
+      },
+      "artists": [
+        {
+          "name": "Zoe Gotusso",
+          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198650,
+      "name": "Lara",
+      "url": "https://open.spotify.com/track/3mR6x2dlGh2w2bDpsa3m5K"
+    },
+    {
+      "album": {
         "name": "Quiromancia",
         "url": "https://open.spotify.com/album/1KBZbjexyRuJi8ke07XmyY"
       },
@@ -2964,7 +3000,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 210578,
       "name": "Mancharnos la piel",
       "url": "https://open.spotify.com/track/7h4XrjcIiOWvbyyf2Dl6rY"
@@ -3022,7 +3058,7 @@
       ],
       "date_added": "2023-10-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-04",
+      "date_removed": null,
       "duration_ms": 229943,
       "name": "Mar\u00eda",
       "url": "https://open.spotify.com/track/5B3NOiIZkfykH0dk5YekiM"
@@ -3080,7 +3116,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-28",
+      "date_removed": null,
       "duration_ms": 98210,
       "name": "Me Fui",
       "url": "https://open.spotify.com/track/4PQwFIg4CgTMuYraERrJsC"
@@ -3334,7 +3370,7 @@
       ],
       "date_added": "2023-10-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-13",
+      "date_removed": null,
       "duration_ms": 181087,
       "name": "Monoambiente en Capital",
       "url": "https://open.spotify.com/track/1prdmkn7pO2S0FJChx0fN4"
@@ -3786,7 +3822,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 221472,
       "name": "Otro final",
       "url": "https://open.spotify.com/track/1ST6B09uLPXRxf4WEftYw9"
@@ -3892,7 +3928,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-21",
+      "date_removed": null,
       "duration_ms": 208000,
       "name": "Para Siempre",
       "url": "https://open.spotify.com/track/6kJLEzJ4kc9mS5buZz7STw"
@@ -3990,7 +4026,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 168596,
       "name": "Pasos En La Sala",
       "url": "https://open.spotify.com/track/77m83ogYFt7osIKuk0dvmL"
@@ -4504,7 +4540,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 213383,
       "name": "Sanar",
       "url": "https://open.spotify.com/track/59qNULSx1VZBcu5HvdxOSv"
@@ -4752,6 +4788,24 @@
       "duration_ms": 144272,
       "name": "Superpoder",
       "url": "https://open.spotify.com/track/5sMTYHv3AW1aPQGglAEYnL"
+    },
+    {
+      "album": {
+        "name": "S\u00ed Quer\u00eda un S\u00ed",
+        "url": "https://open.spotify.com/album/2CFY3xAFlUXYh12gcT2jiP"
+      },
+      "artists": [
+        {
+          "name": "Chiara Parravicini",
+          "url": "https://open.spotify.com/artist/7CAbOypVuQA9Rk7359TMas"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195533,
+      "name": "S\u00ed Quer\u00eda un S\u00ed",
+      "url": "https://open.spotify.com/track/6NNVahakorwSRLpvq0Bxz5"
     },
     {
       "album": {
@@ -5082,7 +5136,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 159200,
       "name": "Tu C\u00e1rcel",
       "url": "https://open.spotify.com/track/5TcXg6bqwSRie14IVZPkvb"
@@ -5534,7 +5588,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 165490,
       "name": "\u00bfCu\u00e1nto Tiempo?",
       "url": "https://open.spotify.com/track/2KPJZGGDiU4AXImDydkP3s"

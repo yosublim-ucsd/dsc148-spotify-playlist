@@ -4,7 +4,7 @@
 
 > All new music with an Indie twist\. Cover: Pitou, LUWTEN & Naaz
 
-135 songs - 7 hr 47 min
+136 songs - 7 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [DRIVE ME CRAZY](https://open.spotify.com/track/7xF8oyiBBOwgwiwPN9JRFx) | [Jean Valery](https://open.spotify.com/artist/3nKZLWQbRQ57Tj4ZfeGEek) | [DRIVE ME CRAZY](https://open.spotify.com/album/0cFljihYG2lv3kGCygyYFm) | 2:45 | 2024-06-24 | 2024-09-14 |
 | [Easy](https://open.spotify.com/track/4Z4eXYAW69rQrPuv7L3t1f) | [Forre Sterra](https://open.spotify.com/artist/3OfoGrn1x3WYdImtYwUYjg) | [Easy](https://open.spotify.com/album/5QakQ4plBNqVLff9B2eLFY) | 3:38 | 2024-06-24 | 2024-08-31 |
 | [Ego](https://open.spotify.com/track/7dHzPI3YRolg60tFHtTydt) | [Paige Fish](https://open.spotify.com/artist/10djoaqJLN6H4oORnKJ63P) | [Ego](https://open.spotify.com/album/6a51W0b5pxwJZOEvVGIyWm) | 3:43 | 2024-06-24 | 2024-07-27 |
-| [Electro Poetry](https://open.spotify.com/track/3EDuRcNu7dnoRiXypeJhbA) | [Cloud Cafe](https://open.spotify.com/artist/6ZLN3zJF1GLVaSNk7tU3MY) | [Electro Poetry](https://open.spotify.com/album/1yA0VdE5V711Hw6M1YZuoa) | 3:32 | 2024-07-09 |  |
+| [Electro Poetry](https://open.spotify.com/track/3EDuRcNu7dnoRiXypeJhbA) | [Cloud Cafe](https://open.spotify.com/artist/6ZLN3zJF1GLVaSNk7tU3MY) | [Electro Poetry](https://open.spotify.com/album/1yA0VdE5V711Hw6M1YZuoa) | 3:32 | 2024-07-09 | 2024-10-05 |
 | [end game](https://open.spotify.com/track/3YyyTcNUwJU4fS01fppkkZ) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [end game](https://open.spotify.com/album/28Al1lPpcToVKiM8EnNuXz) | 2:26 | 2024-06-24 | 2024-07-27 |
 | [Ever Seen](https://open.spotify.com/track/7pMEJEVSjQBuUAqWOupJk6) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Ever Seen](https://open.spotify.com/album/6XgxDhkbWJy6FsLkwGgk9d) | 3:23 | 2024-07-09 |  |
 | [Everybody Knows](https://open.spotify.com/track/2o7RGgpWWr8eQMidtLlNNi) | [The Bony King of Nowhere](https://open.spotify.com/artist/1yToTiAOIt4mXKlHBP8vyv) | [Everybody Knows](https://open.spotify.com/album/4TSxrcY6rxsiCeTP4QlFEd) | 4:05 | 2024-06-24 | 2024-07-12 |
@@ -86,6 +86,7 @@
 | [Meet Cute](https://open.spotify.com/track/1AGwNYyB2N1bPpGaL77Htz) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Meet Cute](https://open.spotify.com/album/2BizN0b47TcJRtV3HDbxxp) | 2:46 | 2024-08-01 |  |
 | [Midnight](https://open.spotify.com/track/0K69bmjZwfIXmlnFN43SgS) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Bad Cameo](https://open.spotify.com/album/5zncNknK8hrQyTTVWpUyAf) | 4:58 | 2024-07-09 |  |
 | [Midnight Shining](https://open.spotify.com/track/3mYsAOZUuqeqVwQw0BAdgv) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Midnight Shining](https://open.spotify.com/album/3fCh7BiO2OHPrZvjhVGvNP) | 3:32 | 2024-09-05 |  |
+| [Milkshakes](https://open.spotify.com/track/6JbCqm0U3g0K87HAviPRkk) | [Soft Launch](https://open.spotify.com/artist/4hq1lrK8XlrErNZ3xs3586) | [Milkshakes](https://open.spotify.com/album/5ef6naEoTalZAj1Tjy4rMK) | 3:17 | 2024-10-04 |  |
 | [Miss You](https://open.spotify.com/track/37wueS34bitqZI6O0QfgQB) | [Waltzburg](https://open.spotify.com/artist/69vKqcCUoTUAwHaooT1pzv) | [Miss You](https://open.spotify.com/album/778XeIiWHwnTEloYYAGkzI) | 3:55 | 2024-06-24 | 2024-07-27 |
 | [misses](https://open.spotify.com/track/6WTFHKrnZpwEBLRS10Ylqs) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [14 minutes](https://open.spotify.com/album/2qwv7hNjSGfLarHY2adeq9) | 1:14 | 2024-06-24 | 2024-09-06 |
 | [Model, Actress, Whatever](https://open.spotify.com/track/2GxyLVk70vblDcloX4mJsi) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Model, Actress, Whatever](https://open.spotify.com/album/4M6b5oOkKDlbPAjlfXbID2) | 3:32 | 2024-09-13 |  |

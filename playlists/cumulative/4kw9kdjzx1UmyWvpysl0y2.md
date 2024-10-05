@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-830 songs - 1 day 23 hr 18 min
+831 songs - 1 day 23 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -273,6 +273,7 @@
 | [Fool Me](https://open.spotify.com/track/6fviOwXHvwwN7GdAuVaH5v) | [CHYL](https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc) | [Fool Me](https://open.spotify.com/album/3MKJoSKe2eNN8o7bepluyh) | 2:13 | 2023-03-08 | 2023-05-30 |
 | [For Me \- VIP](https://open.spotify.com/track/5ZI2uKHpKza44XVsRZy7lM) | [Throttle](https://open.spotify.com/artist/6mPZJXtFVaakznkRxdgWtC) | [Where U Are \(Deluxe\)](https://open.spotify.com/album/44mrlkVIPFnIttUdp1X4i3) | 3:00 | 2022-05-10 | 2022-07-21 |
 | [Forget About Me](https://open.spotify.com/track/5dvLCzrpzVHYdOUdIL9EHW) | [Nick Smith](https://open.spotify.com/artist/5W5JelsLmCytPXmzN5w8fc) | [Forget About Me](https://open.spotify.com/album/4H71ai7RsurejlGLvjdzoz) | 2:35 | 2022-03-29 | 2022-06-10 |
+| [Foul](https://open.spotify.com/track/6mtSPyT95BNKiUQ4SyijQ3) | [G\-Rex](https://open.spotify.com/artist/0ZpPLGn0OkRMl2Y9Twn16K), [STUCA](https://open.spotify.com/artist/5W9QwHSJPJ5blGIyn8nSUb), [ICECOLDBISHOP](https://open.spotify.com/artist/04zbRSHjzlQYvV31SW7qZ4) | [Foul](https://open.spotify.com/album/2Ih0SUroIXP1GRigQxuc8B) | 2:59 | 2024-10-04 |  |
 | [Frequency Fusion](https://open.spotify.com/track/5VeCxkNBNIp5wwHk6XkQY2) | [VESK GREEN](https://open.spotify.com/artist/4D6SwsmIOKAcd2sMavDqxo) | [Frequency Fusion](https://open.spotify.com/album/4gKmRkOzbynrohmMZQOkwl) | 2:47 | 2023-09-01 | 2023-12-14 |
 | [FULL ASSAULT](https://open.spotify.com/track/3cfaX2K9Jv3Aj8joDU1Iz0) | [Varien](https://open.spotify.com/artist/2g1JSu9UfRcQQYb3b03Km7), [Psylla](https://open.spotify.com/artist/0glz26CRdAXpDqL31326C8), [JACKIE EXTREME](https://open.spotify.com/artist/3lTxQgwx9i1S3u0UoZHCRr) | [FULL ASSAULT / ALL THAT U WANT](https://open.spotify.com/album/377f6e2rHXRuE09ksYvWhS) | 2:44 | 2022-09-29 | 2022-12-02 |
 | [Full Speed](https://open.spotify.com/track/22efJ20TrKDfYaawh85fNj) | [Topi](https://open.spotify.com/artist/6WP0h3qR0awvIWPMvE72F8), [hayve](https://open.spotify.com/artist/6HT10ZbNJFIRYirBe3PTxs) | [Full Speed](https://open.spotify.com/album/6Uy49ZyfFwVoV6sFM9eiHh) | 2:53 | 2023-07-31 | 2023-12-14 |
@@ -558,7 +559,7 @@
 | [POWER](https://open.spotify.com/track/1LwL5ox7cPOS91OVzO7GRF) | [Nitro Fun](https://open.spotify.com/artist/4XU5f8nGiPMr6eetud6epC) | [POWER](https://open.spotify.com/album/5J4PSvk6YU9rMguUJZB5pn) | 3:00 | 2024-09-20 |  |
 | [Power Stone](https://open.spotify.com/track/5FufznQatRZsjumawlLbbo) | [Crankdat](https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb) | [Power Stone](https://open.spotify.com/album/6no9wONT4kamphMKX8DyG0) | 2:47 | 2022-07-28 | 2022-10-08 |
 | [Powerplay](https://open.spotify.com/track/7LL3hlhfrumxAS0vOGO2Ia) | [Pegboard Nerds](https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y), [Bossfight](https://open.spotify.com/artist/1fILrc9B34DjHxSMkJmyBN) | [Powerplay](https://open.spotify.com/album/3OXUzQBV9M1vssUSPHjVi9) | 3:30 | 2023-02-07 | 2023-04-25 |
-| [Pressure](https://open.spotify.com/track/365IYr43HlceGJWG5ENNQ5) | [hayve](https://open.spotify.com/artist/6HT10ZbNJFIRYirBe3PTxs) | [Pressure](https://open.spotify.com/album/1Pa9ilp1EF4CoSJAcd25Ma) | 3:24 | 2024-07-12 |  |
+| [Pressure](https://open.spotify.com/track/365IYr43HlceGJWG5ENNQ5) | [hayve](https://open.spotify.com/artist/6HT10ZbNJFIRYirBe3PTxs) | [Pressure](https://open.spotify.com/album/1Pa9ilp1EF4CoSJAcd25Ma) | 3:24 | 2024-07-12 | 2024-10-05 |
 | [Pressure on the Masses](https://open.spotify.com/track/65OZE1cg3ETRiBeu3R5UbT) | [MUZZ](https://open.spotify.com/artist/4UNnRb4LN2hGtbtMfPzMhg) | [Pressure on the Masses](https://open.spotify.com/album/6cv6BsZtHsPreytOE8jN3S) | 3:55 | 2023-10-23 | 2024-02-07 |
 | [Prism](https://open.spotify.com/track/4Mab2bqF9kXQwvKcoJRPbz) | [Shingo Nakamura](https://open.spotify.com/artist/58zz0VTpGNHn7MGTlW2cxQ) | [Prism](https://open.spotify.com/album/4UnseAiIFrd8FtLkB8YYfB) | 3:15 | 2024-01-30 | 2024-04-20 |
 | [Promise](https://open.spotify.com/track/7lmKzGSg0mGYUdsfmshKmH) | [BEAUZ](https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT), [Yola Recoba](https://open.spotify.com/artist/7gvpJzKMMMQsdLqWF4SKs7), [Darla Jade](https://open.spotify.com/artist/615ZycClQL8KQ8qzZiuP8T) | [Promise](https://open.spotify.com/album/6WuW14efnZAX1Zb8pmPzML) | 2:41 | 2024-03-28 | 2024-06-18 |

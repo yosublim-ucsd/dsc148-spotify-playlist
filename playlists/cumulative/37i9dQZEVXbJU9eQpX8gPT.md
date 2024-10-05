@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Morocco.
 
-1,524 songs - 3 day 11 hr 44 min
+1,525 songs - 3 day 11 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [Adams](https://open.spotify.com/track/22kGpzO0EAdYy9yaPGvKGJ) | [L'morphine](https://open.spotify.com/artist/4vyibjuGePnrB7BzbHkA6u), [Raid](https://open.spotify.com/artist/4BuamTRrqjMmqrCnJ2pUQg) | [Gala](https://open.spotify.com/album/5thNlwr5FFcXWjtZAlfRH0) | 2:54 | 2022-05-07 | 2022-06-13 |
 | [Africain](https://open.spotify.com/track/2SUjVxW58Oof4jbBt8oe5c) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [Africain](https://open.spotify.com/album/0iRz9kDeFzcbXinRnk0jMh) | 3:44 | 2021-04-06 | 2021-06-16 |
 | [Aghach](https://open.spotify.com/track/6up1lIMVpkXlNZ4Es3rGhg) | [LFERDA](https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v) | [Cagoulé](https://open.spotify.com/album/1qD0LUxHxbr5UPw7Rz99C0) | 2:39 | 2022-05-29 | 2022-05-31 |
+| [AGHARAS](https://open.spotify.com/track/1cWINvhvBXtDhK8GpK0gZn) | [Lbenj](https://open.spotify.com/artist/1H0D7p5aN8tGG8DPLt0Nbv) | [AGHARAS](https://open.spotify.com/album/0FJGdzI9d4duBcf0pJfrh2) | 3:27 | 2024-10-04 |  |
 | [Ah Bon](https://open.spotify.com/track/0yYoSGrzF15p22ow5wbcSJ) | [Raste](https://open.spotify.com/artist/7hblKQxMowm5BZpxUjcYQT), [Furelise](https://open.spotify.com/artist/1qqig14uI7sLKGGzYnutyn) | [Ah Bon](https://open.spotify.com/album/0qSLkM5OH8bhCkyxPwEGxC) | 3:42 | 2021-03-27\* | 2021-03-29 |
 | [Ahlam](https://open.spotify.com/track/6cS2fCLwfLs7HueULbZUlJ) | [Leil](https://open.spotify.com/artist/1qSYFEqGFLFOACQJqebin3), [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [Ahlam](https://open.spotify.com/album/2UyRdrXsOWySJOtI1MNWwN) | 3:09 | 2023-05-27 | 2023-06-23 |
 | [Ahoo](https://open.spotify.com/track/2H5rb6rL9p6zKMLYiZDU7Q) | [LFERDA](https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v) | [Cagoulé](https://open.spotify.com/album/1qD0LUxHxbr5UPw7Rz99C0) | 3:58 | 2022-05-28 | 2022-06-06 |
@@ -172,7 +173,7 @@
 | [Basta Baila](https://open.spotify.com/track/758mC7LTvS4Eqgr06egv9U) | [ISSAM](https://open.spotify.com/artist/37lslcg6zP6eAQAONiYvWN) | [Crystal](https://open.spotify.com/album/5DaSVXmnpAJDsXl7AJxYyO) | 3:16 | 2021-05-09 | 2021-05-14 |
 | [Batal L3alam](https://open.spotify.com/track/4yEDdEd4N8eIuntHLlg0MF) | [7liwa](https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3) | [Weld Fatima II](https://open.spotify.com/album/6La450FX0EOdrjQzlWuNrF) | 5:49 | 2021-06-23 | 2021-07-30 |
 | [Batard](https://open.spotify.com/track/7wKVfUXSYpxah188rU3Bud) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [Colors](https://open.spotify.com/album/0laELllYHrj2Zbw4It01B9) | 2:51 | 2021-10-03 | 2021-10-18 |
-| [Be Mine](https://open.spotify.com/track/3LWVXp636uLT356Rj08Jaz) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [MUSE](https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr) | 3:27 | 2024-07-20 |  |
+| [Be Mine](https://open.spotify.com/track/3LWVXp636uLT356Rj08Jaz) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [MUSE](https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr) | 3:27 | 2024-07-20 | 2024-10-05 |
 | [BEAST MODE](https://open.spotify.com/track/0SQPT4wCGUqS2xecqBSwjl) | [Vargas](https://open.spotify.com/artist/5QYFmxyElbfvHtovLIsjDb) | [VENOM](https://open.spotify.com/album/3jPxi5bJXFvXcZIizrmoZe) | 3:26 | 2022-08-13 | 2022-08-19 |
 | [BEAU\-COUP](https://open.spotify.com/track/4Je6j6W8WyBnbofmVoEUHi) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [BEAU\-COUP](https://open.spotify.com/album/12Jze1F3SWKS1pE99i8fOt) | 2:40 | 2021-03-27\* | 2021-07-05 |
 | [Before Iceberg](https://open.spotify.com/track/48B1xKVZkSD1fjTYeUMdOi) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [Before Iceberg](https://open.spotify.com/album/5uEZuaWpVgZhomZ6xdGKVW) | 2:35 | 2023-06-10 | 2023-07-04 |
@@ -786,7 +787,7 @@
 | [Liyem](https://open.spotify.com/track/38dFwM306LaXqnc4hGHpaB) | [Uzishettan](https://open.spotify.com/artist/20Rf6VG9JiegKXpPT416CE) | [Liyem](https://open.spotify.com/album/4EqCG4W6zG8nhT1bMN6qAS) | 3:00 | 2022-03-30 | 2022-06-26 |
 | [Lmadi](https://open.spotify.com/track/5dFEs0UYNN8X05d6SzlPTC) | [Nouamane Belaiachi](https://open.spotify.com/artist/25eYSizNX4BK5ZtqAq8pE8) | [Lmadi](https://open.spotify.com/album/5BtOncH7szKPdItM1i7xJm) | 3:42 | 2021-04-26 | 2021-05-23 |
 | [Lmossiba \(المصيبة\)](https://open.spotify.com/track/0epZr5EAVHCi1VLSb227ky) | [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS) | [Lmossiba \(المصيبة\)](https://open.spotify.com/album/0KIu6uf8aHHY4yebS9Zj0t) | 3:48 | 2023-10-02 | 2023-10-07 |
-| [Lmouje](https://open.spotify.com/track/2HQOumI8CH5kHB3V2ZHwnU) | [7\-Toun](https://open.spotify.com/artist/3IRAzpoLeNDGv7kqwNK3bp) | [Lmouje](https://open.spotify.com/album/1ZT3NtshPwxEiPkQrN9KNV) | 3:22 | 2024-06-11 | 2024-09-20 |
+| [Lmouje](https://open.spotify.com/track/2HQOumI8CH5kHB3V2ZHwnU) | [7\-Toun](https://open.spotify.com/artist/3IRAzpoLeNDGv7kqwNK3bp) | [Lmouje](https://open.spotify.com/album/1ZT3NtshPwxEiPkQrN9KNV) | 3:22 | 2024-06-11 |  |
 | [Local](https://open.spotify.com/track/67SRXY0G8by6iElzIGhTyq) | [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j) | [Réelle vie 3.0](https://open.spotify.com/album/4nqsV5gavODGyZ2lx2M2tw) | 2:53 | 2021-11-28 | 2021-11-28 |
 | [Lore \- Intro](https://open.spotify.com/track/3DcjhqPaJQrbobPrnbadwv) | [Qaayel](https://open.spotify.com/artist/2T6efS085VLyjvrFPnkYDv) | [Lore](https://open.spotify.com/album/6RlqE0VxRuxdXaT8yQK20m) | 1:59 | 2021-04-18 | 2021-04-19 |
 | [Lost](https://open.spotify.com/track/62LM5V7p7Pzq6NVRAwhxay) | [KowKow](https://open.spotify.com/artist/2fNi6fQDoYiOyTj9iUkPih) | [Lost](https://open.spotify.com/album/1RszKGwyHJBvSSa0TW0q1I) | 2:57 | 2022-10-10 | 2022-10-13 |
@@ -1264,7 +1265,7 @@
 | [Sparta](https://open.spotify.com/track/3JrQYOR2x3TL9IyqHxjNCB) | [Don Bigg](https://open.spotify.com/artist/4h4gnapBHEWZMVzjeZ2Ywl), [Dj Mouss](https://open.spotify.com/artist/3HC41EHTcYGT6gOCgKa6on) | [٤in \(Act 3\)](https://open.spotify.com/album/2doGuuy9HguV8Sxo4VcXEv) | 2:25 | 2022-11-18 | 2022-12-03 |
 | [SPECIAL \(feat\. Nekfeu & Fousheé\)](https://open.spotify.com/track/11HLDMuPD3wh88XHw4udKO) | [Laylow](https://open.spotify.com/artist/0LnhY2fzptb0QEs5Q5gM7S), [Nekfeu](https://open.spotify.com/artist/4LXBc13z5EWsc5N32bLxfH), [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [L'Étrange Histoire de Mr.Anderson](https://open.spotify.com/album/1LtG5P8cNErCsn1DZMVbrz) | 3:51 | 2021-07-18 | 2021-07-19 |
 | [SPIDER](https://open.spotify.com/track/2fFTn0f94EopgZyfSGQuyK) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [SPIDER](https://open.spotify.com/album/5stpXgOAVPkVA7WDPB4IZf) | 3:08 | 2024-05-15 | 2024-09-15 |
-| [SPIDER](https://open.spotify.com/track/5NWpquAje6NyvxD57oXNu6) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [LE NORD SE SOUVIENT](https://open.spotify.com/album/55DUcp4pTvwD4VzUnWaXfw) | 3:08 | 2024-09-14 |  |
+| [SPIDER](https://open.spotify.com/track/5NWpquAje6NyvxD57oXNu6) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [LE NORD SE SOUVIENT](https://open.spotify.com/album/55DUcp4pTvwD4VzUnWaXfw) | 3:08 | 2024-09-14 | 2024-10-05 |
 | [Spin Bout U](https://open.spotify.com/track/2ZL7WZcjuYKi1KUDtp4kCC) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 3:34 | 2022-11-05 | 2022-11-07 |
 | [Spirale](https://open.spotify.com/track/48MFRTMZLuCR3LX3HURMSy) | [Raid](https://open.spotify.com/artist/4BuamTRrqjMmqrCnJ2pUQg) | [Ether](https://open.spotify.com/album/0CXnqKIYcABtBBortguwXI) | 3:09 | 2021-03-29 | 2021-03-31 |
 | [Spring Day](https://open.spotify.com/track/5xFoqABWVj4FIAf7vQX8FN) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [You Never Walk Alone](https://open.spotify.com/album/5liZcQeYT5zHkwdZbtRa3M) | 4:34 | 2021-11-16 | 2021-11-17 |

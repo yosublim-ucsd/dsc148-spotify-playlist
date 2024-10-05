@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvYtwAAAAADdYWydsIFc3WRQNohoXbm7",
+  "snapshot_id": "Zv9oQAAAAAAdtepvpVX0P0O1YBWV1TjB",
   "tracks": [
     {
       "added_at": "2024-06-21 04:00:00",
@@ -331,6 +331,34 @@
       "duration_ms": 192146,
       "name": "Dance With Me",
       "url": "https://open.spotify.com/track/2sggS6A5pA0KWaleWsHzmL"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Screambrook (From \"ZOMBIES: The Re-Animated Series\")",
+        "url": "https://open.spotify.com/album/5QVNGRvQQhgpGhF96Kp7Rf"
+      },
+      "artists": [
+        {
+          "name": "Chandler Kinney",
+          "url": "https://open.spotify.com/artist/4GsVpISKE79xqOxIrj9FTk"
+        },
+        {
+          "name": "Ariel Martin",
+          "url": "https://open.spotify.com/artist/1dE8dF47aXT5VYE74R3I42"
+        },
+        {
+          "name": "Trevor Tordjman",
+          "url": "https://open.spotify.com/artist/4cCKeV2O9AE36tLDYlyVZt"
+        },
+        {
+          "name": "ZOMBIES \u2013 Cast",
+          "url": "https://open.spotify.com/artist/2L7RaHwfVU6ge64IJF8GO5"
+        }
+      ],
+      "duration_ms": 62656,
+      "name": "We Own the Night (The Re-Animated Remix)",
+      "url": "https://open.spotify.com/track/4sxaSSQr8JjFfQhkk5PyeK"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -723,6 +751,22 @@
       "duration_ms": 92607,
       "name": "Dance (Da Da Da Da)",
       "url": "https://open.spotify.com/track/0fm0EEe2ObGnSiy0UzbQmw"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Creeping Closer (From \"Kiff: Season 2\")",
+        "url": "https://open.spotify.com/album/6j7OufbjC6wpn5Ly2XYE4y"
+      },
+      "artists": [
+        {
+          "name": "Kiff - Cast",
+          "url": "https://open.spotify.com/artist/0uIH4tpwsBsgQKWtQMYuI1"
+        }
+      ],
+      "duration_ms": 129621,
+      "name": "Creeping Closer - From \"Kiff: Season 2\"",
+      "url": "https://open.spotify.com/track/1fB4TvW3LIFZlAptZVPw65"
     },
     {
       "added_at": "2024-09-27 04:00:00",

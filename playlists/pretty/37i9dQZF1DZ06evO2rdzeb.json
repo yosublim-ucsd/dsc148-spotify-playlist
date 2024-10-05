@@ -1,12 +1,12 @@
 {
-  "description": "This Is Adrianne Lenker. Los temas esenciales, todos en una lista.",
-  "num_followers": 10014,
+  "description": "This is Adrianne Lenker. The essential tracks, all in one playlist.",
+  "num_followers": 10023,
   "original_name": "This Is Adrianne Lenker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvyNAAAAAACaOGU5pKeL66HsyHdqpy9l",
+  "snapshot_id": "Zv3egAAAAADxL1YlqqV0qVICuFP/M3kl",
   "tracks": [
     {
       "added_at": null,
@@ -88,9 +88,9 @@
           "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
         }
       ],
-      "duration_ms": 128700,
-      "name": "half return",
-      "url": "https://open.spotify.com/track/1i8dJGpKO0xQiKGCVslJqB"
+      "duration_ms": 189464,
+      "name": "forwards beckon rebound",
+      "url": "https://open.spotify.com/track/6PBanBy8L1K2Ry4UN186XH"
     },
     {
       "added_at": null,
@@ -156,9 +156,9 @@
           "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
         }
       ],
-      "duration_ms": 189464,
-      "name": "forwards beckon rebound",
-      "url": "https://open.spotify.com/track/6PBanBy8L1K2Ry4UN186XH"
+      "duration_ms": 128700,
+      "name": "half return",
+      "url": "https://open.spotify.com/track/1i8dJGpKO0xQiKGCVslJqB"
     },
     {
       "added_at": null,

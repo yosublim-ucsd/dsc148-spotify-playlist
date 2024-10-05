@@ -735,6 +735,24 @@
     },
     {
       "album": {
+        "name": "Banho de Folhas",
+        "url": "https://open.spotify.com/album/0wLE1tEXT32qRgPidt3r5R"
+      },
+      "artists": [
+        {
+          "name": "Xande De Pilares",
+          "url": "https://open.spotify.com/artist/4IQKOXNGjuRRe0WgOm5YfB"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231017,
+      "name": "Banho de Folhas",
+      "url": "https://open.spotify.com/track/4rnsEw278G3pFjiMSzS4fG"
+    },
+    {
+      "album": {
         "name": "Beb\u00ea",
         "url": "https://open.spotify.com/album/6HvOPuBicSOthMOgXvMPuT"
       },
@@ -1863,6 +1881,28 @@
     },
     {
       "album": {
+        "name": "Dia Manso",
+        "url": "https://open.spotify.com/album/0FgQPssMLOgG7XQcWS7vD4"
+      },
+      "artists": [
+        {
+          "name": "KELVEN",
+          "url": "https://open.spotify.com/artist/1ZRRvGObHNC7IyqB7sH2zz"
+        },
+        {
+          "name": "Mayana Neiva",
+          "url": "https://open.spotify.com/artist/0MeEhWG8kXBAETvF1DZPcc"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209922,
+      "name": "Dia Manso",
+      "url": "https://open.spotify.com/track/1nqUUPdNzRce8f7Z4SNTNV"
+    },
+    {
+      "album": {
         "name": "Dizeres",
         "url": "https://open.spotify.com/album/6iRyot1JljNZA7RnQp4aiK"
       },
@@ -2944,7 +2984,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 133212,
       "name": "ME LIGA",
       "url": "https://open.spotify.com/track/54RUeOrfNtx0Kh1Rep3vpH"
@@ -3884,7 +3924,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 267266,
       "name": "Quando Voc\u00ea Olha Pra Ela",
       "url": "https://open.spotify.com/track/50c0knPGjaJAuE4hRg28Qq"

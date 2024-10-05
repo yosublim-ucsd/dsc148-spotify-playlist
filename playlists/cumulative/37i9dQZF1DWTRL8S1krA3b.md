@@ -4,7 +4,7 @@
 
 > This year's new country holiday songs! Cover: Little Big Town
 
-104 songs - 5 hr 38 min
+107 songs - 5 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Blue Christmas](https://open.spotify.com/track/2WMcDvJi0430qJkerFGLem) | [Colin Stough](https://open.spotify.com/artist/3vT3vK5cuBWPPnaIIZRyds) | [Blue Christmas](https://open.spotify.com/album/4dnJZEUrAovhbUK1xzGEk2) | 2:35 | 2023-11-24 |  |
 | [Blue Christmas](https://open.spotify.com/track/7bPW9SCgNTkATn4bogwQyW) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Blue Christmas](https://open.spotify.com/album/1wQDiRoDF4Y0SGLHG8BdVi) | 2:08 | 2023-11-24 |  |
 | [Blue Christmas](https://open.spotify.com/track/79eHg0b59xtbKPd7Ra7KxX) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Koe Wetzel Presents...Wetzel's Wonderland](https://open.spotify.com/album/6Eaa6S7K1DUq4dRa0fvNga) | 2:23 | 2023-12-01 |  |
+| [Blue Christmas](https://open.spotify.com/track/666HjMnp4A48UROUMcnXo5) | [Sara Evans](https://open.spotify.com/artist/7qvsLYsYP0MHD7jkdv6DAG) | [Children Go / Blue Christmas](https://open.spotify.com/album/5hkJRQ20kibcpZqD7lTgju) | 3:13 | 2024-10-04 |  |
 | [Blue Christmas](https://open.spotify.com/track/4cpfEGfJnZTtoUr23lRFGK) | [William Beckmann](https://open.spotify.com/artist/3AJURVT7BuD01gl1nQS5tb) | [Blue Christmas](https://open.spotify.com/album/0FfnwndZx81v9DSvswzqog) | 2:34 | 2023-11-24 |  |
 | [Blue Christmas \(feat\. Vince Gill\)](https://open.spotify.com/track/48xYHTEI8fQdiTxOTNn0lR) | [Giada Valenti](https://open.spotify.com/artist/5KTmkF9d1mTUKPofH484Wt), [Vince Gill](https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo) | [Love Under The Christmas Tree](https://open.spotify.com/album/5TNnXsMBgzXAXOwxV9heKR) | 3:36 | 2023-11-24 |  |
 | [Celebrate Me Home](https://open.spotify.com/track/5O2jmlWdeLEN7n3LrP7MFB) | [Ryan Kinder](https://open.spotify.com/artist/0GAapPTQR8KFJxrNZOKksy) | [Celebrate Me Home](https://open.spotify.com/album/5doSwgjks8R6LIucsbuPNe) | 3:52 | 2023-11-24 |  |
@@ -43,6 +44,7 @@
 | [For You For Christmas](https://open.spotify.com/track/5LptAkbI6Snv1yRxaZn49r) | [Zach Top](https://open.spotify.com/artist/4FGPzWzgjURDNT7JQ8pYgH) | [For You For Christmas](https://open.spotify.com/album/6DTy9NvZKKEFhixx3Qra3s) | 3:21 | 2023-11-24 |  |
 | [Freeze](https://open.spotify.com/track/6taY9OMJFOyZb4l3QeWCnn) | [Hailey Benedict](https://open.spotify.com/artist/494qaFjOqqQ2NOQfCHSYce) | [Freeze](https://open.spotify.com/album/62bU5WAX5UCkcuTpwVfy2n) | 3:40 | 2023-11-24 |  |
 | [Frosty The Snowman](https://open.spotify.com/track/57VOGNqMY7WENGvVlEdJg2) | [Uncle Kracker](https://open.spotify.com/artist/2DnqqkzzDKm3vAoyHtn8So) | [Frosty The Snowman](https://open.spotify.com/album/7h7IPWqDrGBYGWz4QshfQ7) | 2:53 | 2023-12-01 |  |
+| [Glow](https://open.spotify.com/track/1mFwsE8rLoLibx19s8bXac) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [The Christmas Record](https://open.spotify.com/album/5Zsa3FJk4cjhuvUbtOZzmD) | 3:21 | 2024-10-04 |  |
 | [Hallelujah](https://open.spotify.com/track/3werrgm6Ubsn9E002AvrPk) | [Kimberly Perry](https://open.spotify.com/artist/3JFfODb5r2GSdBlweDQUE2) | [Hallelujah](https://open.spotify.com/album/2bIViPfmWVNHZMFvtwrhwj) | 3:51 | 2023-11-24 |  |
 | [Hallelujah \- Acoustic](https://open.spotify.com/track/4hD9yHWtNlqm9O23KlB5Xn) | [Whey Jennings](https://open.spotify.com/artist/7fHYfHcaxpeTSz9zfvtBvm) | [Hallelujah \(Acoustic\)](https://open.spotify.com/album/39RAwq6SPA2NVC28G1A31h) | 5:33 | 2023-11-24 |  |
 | [Hard Candy Christmas](https://open.spotify.com/track/70z0rebvMVZNPJwB2LYC8u) | [Lola Kirke](https://open.spotify.com/artist/1g5bYOQ7ZHGbn0tuUHxSgE) | [Hard Candy Christmas](https://open.spotify.com/album/59UntnrXY6QbVLQB8XuSXl) | 3:27 | 2023-11-24 |  |
@@ -78,6 +80,7 @@
 | [O Holy Night](https://open.spotify.com/track/1basKOs1JqdhGItHhU3IHM) | [Coffey Anderson](https://open.spotify.com/artist/29YJnMJ7MoLKPM04siMnP5) | [Classic Country Christmas](https://open.spotify.com/album/2oeipRRBTmA3FZBbwqLDu7) | 3:48 | 2023-12-08 |  |
 | [O Holy Night](https://open.spotify.com/track/3132nlQjmjbqTfngpTP9jw) | [Harper Grace](https://open.spotify.com/artist/0iFBiDNiS0JpYjIrj2lsA5) | [O Holy Night](https://open.spotify.com/album/3KLLCWa0AzGm2YwIaJJz1R) | 4:57 | 2023-11-24 |  |
 | [O Holy Night](https://open.spotify.com/track/14K3UQ2IR4UfmAxjadEOB6) | [Jay Allen](https://open.spotify.com/artist/1dmDDdHSzGxdYojQPjh9M0), [Allie Colleen](https://open.spotify.com/artist/4eMzH84zzjn97xfJw5Tqas) | [O Holy Night](https://open.spotify.com/album/085lMH6I79hVVbyATMspdf) | 3:09 | 2023-12-01 |  |
+| [Old Toy Trains \- Bonus Track](https://open.spotify.com/track/1piyBNstQ55S4DO21cwb0l) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Christmas To Christmas](https://open.spotify.com/album/657rEUY3sBhYsW1KKuptPI) | 2:04 | 2024-10-04 |  |
 | [Once A Year](https://open.spotify.com/track/0ZdlHTzPhkKGvIvd7dIMeo) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Once A Year](https://open.spotify.com/album/73xMNATNLhKm7R2HfzgVZc) | 2:57 | 2023-11-24 |  |
 | [Please Come Home For Christmas](https://open.spotify.com/track/6OVrVGKb1Npjj4StFHiXwJ) | [Alex Hall](https://open.spotify.com/artist/0uQBEPm8cAptCNmTWhio8o) | [Season's Greetings From Alex Hall](https://open.spotify.com/album/1Gdwv5PQF6kcgkjuIn3YKr) | 3:01 | 2023-11-24 |  |
 | [Please Come Home For Christmas](https://open.spotify.com/track/2ZQlt4cuWOY6xrNtkP4OsS) | [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [Merry Christmas From Jon Pardi](https://open.spotify.com/album/0rntkIqjxA3mqdfkvB6O8C) | 5:03 | 2023-11-24 |  |

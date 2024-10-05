@@ -4,7 +4,7 @@
 
 > The best newly released songs of the week\. Cover: LISA
 
-12,647 songs - 28 day 21 hr 0 min
+12,650 songs - 28 day 21 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,6 +156,7 @@
 | [40 Days](https://open.spotify.com/track/3D7E73Ifkw97wxLStfM12v) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [L.I.T \(Lost In Translation\)](https://open.spotify.com/album/5Welfv6PlfPJqQcrSmb44F) | 3:06 | 2023-11-09 | 2023-11-17 |
 | [405](https://open.spotify.com/track/10aiqU1b6yK8zm4jOnQsA7) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Good Riddance \(Deluxe\)](https://open.spotify.com/album/78YYcghEDz2dHRx0EcDGXZ) | 3:01 | 2023-06-15 | 2023-06-23 |
 | [42](https://open.spotify.com/track/5PIhpG2ax06QpBLRqlYQql) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [42](https://open.spotify.com/album/1q93Q9Xc7WIcJLNBgOIPBQ) | 2:55 | 2023-12-07 | 2023-12-15 |
+| [44 \(Forget Forever\)](https://open.spotify.com/track/1gB4AZdHNk7jawrX5M7tEm) | [WOOSUNG](https://open.spotify.com/artist/5LHu1iF8m0XtRBEJbbwSoo) | [4444](https://open.spotify.com/album/3gl255N0kUUIkK0GgelT3j) | 5:13 | 2024-10-03 |  |
 | [44ever](https://open.spotify.com/track/40DarBiyfVPEC6OQid9jv6) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L) | [44ever](https://open.spotify.com/album/3l1waWo8qk4IVtyuzKD4bx) | 1:55 | 2024-04-18 | 2024-04-26 |
 | [458](https://open.spotify.com/track/4FHnQdUyWz3clxy3d7loOY) | [CIX](https://open.spotify.com/artist/1lHfzEkKmmvdVDDDLKkcsd) | [CIX 5th EP Album ‘OK’ Episode 1 : OK Not](https://open.spotify.com/album/0awixD0tmDTgB6JWfQxwO0) | 3:14 | 2022-08-25 | 2022-09-02 |
 | [4am](https://open.spotify.com/track/6WXX48O5lE9GwnQH8hUUiW) | [Say Sue Me](https://open.spotify.com/artist/4tvbo17gXpYgSr8sTlkaby) | [4am](https://open.spotify.com/album/6T8Nrg2KG8IPld0wBQmxPC) | 4:18 | 2023-10-19 | 2023-10-27 |
@@ -3544,7 +3545,7 @@
 | [Fobia](https://open.spotify.com/track/1bC1rPq9m5H6HZabnWIWoE) | [Naim Daniel](https://open.spotify.com/artist/5PCDJjJ5dx6Py83CvfvRIO) | [fobia](https://open.spotify.com/album/4vM9n96tW7mFRujvkAxFMg) | 3:46 | 2022-02-24 | 2022-03-04 |
 | [FOCUS](https://open.spotify.com/track/7nj5G4aPUJD0TnNF6SqcrX) | [HA SUNG WOON](https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU) | [Strange World](https://open.spotify.com/album/2eE6EDzzdWYQH6TfwGjz87) | 3:03 | 2022-08-25 | 2022-09-02 |
 | [FOG](https://open.spotify.com/track/3rpdmGoD12xblXFiTyKyFF) | [ego apartment](https://open.spotify.com/artist/20SNDAIdUW3fjTA14UvSj4) | [FOG](https://open.spotify.com/album/5Fi9k1K3IBJV3W7x6FDDTi) | 3:22 | 2022-05-19 | 2022-05-27 |
-| [Folie à Deux \- Music From The Motion Picture](https://open.spotify.com/track/4Twrnhrg6yIFCdor6yoFvW) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Joker: Folie à Deux \(Music From The Motion Picture\)](https://open.spotify.com/album/3X2oYJbZtrmszmNeXRpckc) | 1:44 | 2024-10-03 |  |
+| [Folie à Deux \- Music From The Motion Picture](https://open.spotify.com/track/4Twrnhrg6yIFCdor6yoFvW) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Joker: Folie à Deux \(Music From The Motion Picture\)](https://open.spotify.com/album/3X2oYJbZtrmszmNeXRpckc) | 1:44 | 2024-10-03 | 2024-10-05 |
 | [Folks](https://open.spotify.com/track/2ZBamz4ysAIPWEyILbIt0I) | [LØREN](https://open.spotify.com/artist/18mAiJGFVBU5YdiIUIdzL2) | [Put Up a Fight](https://open.spotify.com/album/3drwQJIp5YRtjFIIPishWG) | 3:21 | 2023-03-23 | 2023-03-31 |
 | [Follow](https://open.spotify.com/track/6qXCg8lIDRuquq0xgRzmU2) | [Flower.far](https://open.spotify.com/artist/4aMPZAY3aJQokQfO5ZEryr) | [Follow](https://open.spotify.com/album/2D9rFCRKSVRruOTZOax12I) | 3:58 | 2023-09-14 | 2023-09-22 |
 | [Follow](https://open.spotify.com/track/4l5Jon0cQVUAKOVRiL66zq) | [Jinna](https://open.spotify.com/artist/6PUtx1AciePcqw4Lf7A5AN) | [Follow](https://open.spotify.com/album/661Vb2ioxZKFZPRQznqM7x) | 3:08 | 2022-02-10 | 2022-02-18 |
@@ -8317,6 +8318,7 @@
 | [r u mine](https://open.spotify.com/track/0LiLk6aYQZOy1uA63pMqQo) | [JAIE](https://open.spotify.com/artist/74Zk4BaTpscIf6k04UoCds) | [r u mine](https://open.spotify.com/album/5g8A7xkBtel2aTFgcjNYXN) | 2:08 | 2023-07-20 | 2023-07-28 |
 | [r u ok or not?](https://open.spotify.com/track/1weqKrMtM4sKO5vUucrKq9) | [Ihasamic!](https://open.spotify.com/artist/1iQWokgeROUSPQ8L39ycdh) | [r u ok or not?](https://open.spotify.com/album/0m4VOncPDZaXAoM3VfxKrQ) | 2:23 | 2024-01-04 | 2024-01-12 |
 | [R U That \(feat\. 21 Savage\)](https://open.spotify.com/track/4G9ASa9c5scdal2puHntMR) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [R U That \(feat\. 21 Savage\)](https://open.spotify.com/album/2R7eCne1bINTDfQpaQ0h8h) | 2:42 | 2022-02-17 | 2022-02-25 |
+| [R.E.M](https://open.spotify.com/track/7D2B5pj751b3MIaU4TwE6e) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [R.E.M](https://open.spotify.com/album/4xcIr0rkoIBPmoSPamCorO) | 2:52 | 2024-10-03 |  |
 | [R.I.P.](https://open.spotify.com/track/1GyscxE7G8aAuR9FSFLkYI) | [WeiBird](https://open.spotify.com/artist/7y3HnWCFEvWj4KM9GFSkiX) | [I'M MORE SOBER WHEN I'M DRUNK](https://open.spotify.com/album/2Am9K7TWhCBvYPM8cSTUNO) | 3:04 | 2021-12-23 | 2021-12-31 |
 | [R.I.P\. \- From THE FIRST TAKE](https://open.spotify.com/track/3zRuaNgSJWZglTMMUg2kuS) | [WeiBird](https://open.spotify.com/artist/7y3HnWCFEvWj4KM9GFSkiX) | [R.I.P\. \- From THE FIRST TAKE](https://open.spotify.com/album/3uSyClD4QM9sFQL7DNe1vs) | 3:12 | 2022-12-01 | 2022-12-09 |
 | [RA TA TA \(Feat\. Lil Cherry\)](https://open.spotify.com/track/37WwbTpUvG0Vi4kvGY14nP) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF), [Lil Cherry](https://open.spotify.com/artist/523GImBnBoIvcq0n8BZIv4) | [RA TA TA](https://open.spotify.com/album/6mf3kFRGFkNDdDEBbvxiap) | 2:57 | 2023-10-12 | 2023-10-20 |
@@ -10690,6 +10692,7 @@
 | [TO GO \(Feat\. Jay Park, DJ Soulscape\)](https://open.spotify.com/track/2SsroOwWC3CYSpEKOsQzvh) | [Lil Moshpit](https://open.spotify.com/artist/0tVSrjQ0NpDlecsJwGmrMy), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [DJ Soulscape](https://open.spotify.com/artist/2FuS8zARv5xaE6h046OxHN) | [TO GO](https://open.spotify.com/album/5rzwTmilL36v8i7BEHlstm) | 3:00 | 2023-04-06 | 2023-04-14 |
 | [To Life](https://open.spotify.com/track/1hqukerMJf9N1qHo2sijii) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [To Life](https://open.spotify.com/album/27QgCa49mAOEPoTcRYFZT6) | 3:11 | 2022-01-06 | 2022-01-14 |
 | [To Love](https://open.spotify.com/track/0a64exvT5aKVaRSmAVMaCT) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [To Love](https://open.spotify.com/album/3ZyQIG8k6Tx28reDJFBbOK) | 3:56 | 2023-03-02 | 2023-03-10 |
+| [To Love Somebody \- Music From The Motion Picture](https://open.spotify.com/track/7FyQqFixAnYRi64pcM63Nx) | [Joaquin Phoenix](https://open.spotify.com/artist/3j507n6aQUbtVxQv2Q6Usv), [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Joker: Folie à Deux \(Music From The Motion Picture\)](https://open.spotify.com/album/3X2oYJbZtrmszmNeXRpckc) | 1:49 | 2024-10-04 |  |
 | [To Love Someone](https://open.spotify.com/track/3PsHulD1zewglcTPcEPnlk) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [To Love Someone](https://open.spotify.com/album/2hOxnlaUHGvYa7pisKzVdC) | 3:16 | 2023-11-09 | 2023-11-17 |
 | [To Me](https://open.spotify.com/track/37PbwartKkgaD6DdnZ41fG) | [J.Fla](https://open.spotify.com/artist/2GbvMs4GBhcjd9d4N9sGUV) | [To Me](https://open.spotify.com/album/2KGBvltgIdhgHbSR0K8umj) | 2:40 | 2023-05-18 | 2023-05-26 |
 | [To My Boyfriend](https://open.spotify.com/track/2WuD4tAn8iCscm1EuZvVWr) | [ILY:1](https://open.spotify.com/artist/3FvFhUWP00xtwBrHtby3v8) | [To My Boyfriend](https://open.spotify.com/album/35tJGKUZuTosrpnCaKghCD) | 3:23 | 2023-10-26 | 2023-11-03 |

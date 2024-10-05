@@ -1,6 +1,6 @@
 {
   "description": "Having a bad day? We know how it feels!",
-  "num_followers": 4023756,
+  "num_followers": 4023552,
   "original_name": "Life Sucks",
   "owner": {
     "name": "Spotify",
@@ -439,22 +439,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Dancing With Your Ghost",
-        "url": "https://open.spotify.com/album/3I677CWVoiOsbMxOQzjShB"
-      },
-      "artists": [
-        {
-          "name": "Sasha Alex Sloan",
-          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
-        }
-      ],
-      "duration_ms": 197732,
-      "name": "Dancing With Your Ghost",
-      "url": "https://open.spotify.com/track/1TQXIltqoZ5XXyfCbAeSQQ"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Back from the Edge",
         "url": "https://open.spotify.com/album/7oiJYvEJHsmYtrgviAVIBD"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 208826,
       "name": "Train Wreck",
       "url": "https://open.spotify.com/track/55Am8neGJkdj2ADaM3aw5H"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Dancing With Your Ghost",
+        "url": "https://open.spotify.com/album/3I677CWVoiOsbMxOQzjShB"
+      },
+      "artists": [
+        {
+          "name": "Sasha Alex Sloan",
+          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
+        }
+      ],
+      "duration_ms": 197732,
+      "name": "Dancing With Your Ghost",
+      "url": "https://open.spotify.com/track/1TQXIltqoZ5XXyfCbAeSQQ"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -555,6 +555,22 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
+        "name": "Back from the Edge",
+        "url": "https://open.spotify.com/album/7oiJYvEJHsmYtrgviAVIBD"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "duration_ms": 246880,
+      "name": "Can I Be Him",
+      "url": "https://open.spotify.com/track/0VhgEqMTNZwYL1ARDLLNCX"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
         "name": "Continuum",
         "url": "https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM"
       },
@@ -619,34 +635,18 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Back from the Edge",
-        "url": "https://open.spotify.com/album/7oiJYvEJHsmYtrgviAVIBD"
+        "name": "Joanne (Deluxe)",
+        "url": "https://open.spotify.com/album/2ZUwFxlWo0gwTsvZ6L4Meh"
       },
       "artists": [
         {
-          "name": "James Arthur",
-          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
         }
       ],
-      "duration_ms": 246880,
-      "name": "Can I Be Him",
-      "url": "https://open.spotify.com/track/0VhgEqMTNZwYL1ARDLLNCX"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "\u00f7 (Deluxe)",
-        "url": "https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 207520,
-      "name": "Happier",
-      "url": "https://open.spotify.com/track/2RttW7RAu5nOAfq6YFvApB"
+      "duration_ms": 205280,
+      "name": "Million Reasons",
+      "url": "https://open.spotify.com/track/7dZ1Odmx9jWIweQSatnRqo"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -667,18 +667,34 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Joanne (Deluxe)",
-        "url": "https://open.spotify.com/album/2ZUwFxlWo0gwTsvZ6L4Meh"
+        "name": "\u00f7 (Deluxe)",
+        "url": "https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu"
       },
       "artists": [
         {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
         }
       ],
-      "duration_ms": 205280,
-      "name": "Million Reasons",
-      "url": "https://open.spotify.com/track/7dZ1Odmx9jWIweQSatnRqo"
+      "duration_ms": 207520,
+      "name": "Happier",
+      "url": "https://open.spotify.com/track/2RttW7RAu5nOAfq6YFvApB"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "James Arthur (Deluxe)",
+        "url": "https://open.spotify.com/album/029WUoBjWc7Js1QiPH3mw0"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "duration_ms": 209440,
+      "name": "Impossible",
+      "url": "https://open.spotify.com/track/5yVIlYEHZxQVLyInCdldoS"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -711,22 +727,6 @@
       "duration_ms": 237933,
       "name": "You & I",
       "url": "https://open.spotify.com/track/2afCBiru10AFckfOa49wIa"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "James Arthur (Deluxe)",
-        "url": "https://open.spotify.com/album/029WUoBjWc7Js1QiPH3mw0"
-      },
-      "artists": [
-        {
-          "name": "James Arthur",
-          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
-        }
-      ],
-      "duration_ms": 209440,
-      "name": "Impossible",
-      "url": "https://open.spotify.com/track/5yVIlYEHZxQVLyInCdldoS"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -819,22 +819,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "30",
-        "url": "https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa"
-      },
-      "artists": [
-        {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
-        }
-      ],
-      "duration_ms": 376169,
-      "name": "I Drink Wine",
-      "url": "https://open.spotify.com/track/6v0UJD4a2FtleHeSYVX02A"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Take Care (Deluxe)",
         "url": "https://open.spotify.com/album/6X1x82kppWZmDzlXXK3y3q"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 347226,
       "name": "Marvins Room",
       "url": "https://open.spotify.com/track/047fCsbO4NdmwCBn8pcUXl"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "30",
+        "url": "https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa"
+      },
+      "artists": [
+        {
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "duration_ms": 376169,
+      "name": "I Drink Wine",
+      "url": "https://open.spotify.com/track/6v0UJD4a2FtleHeSYVX02A"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Lost Boy",
-        "url": "https://open.spotify.com/album/7drYNu2imHk188vP81icR3"
-      },
-      "artists": [
-        {
-          "name": "Ruth B.",
-          "url": "https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY"
-        }
-      ],
-      "duration_ms": 275280,
-      "name": "Lost Boy",
-      "url": "https://open.spotify.com/track/4h0zU3O9R5xzuTmNO7dNDU"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Justice",
         "url": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 158324,
       "name": "Unstable (feat. The Kid LAROI)",
       "url": "https://open.spotify.com/track/137mSruegm1u6x9NvwiagR"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Lost Boy",
+        "url": "https://open.spotify.com/album/7drYNu2imHk188vP81icR3"
+      },
+      "artists": [
+        {
+          "name": "Ruth B.",
+          "url": "https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY"
+        }
+      ],
+      "duration_ms": 275280,
+      "name": "Lost Boy",
+      "url": "https://open.spotify.com/track/4h0zU3O9R5xzuTmNO7dNDU"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1635,18 +1635,18 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Fine Line",
-        "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
+        "name": "Plans",
+        "url": "https://open.spotify.com/album/1NFGnxmeIEBakre4DvLaJq"
       },
       "artists": [
         {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+          "name": "Death Cab for Cutie",
+          "url": "https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx"
         }
       ],
-      "duration_ms": 192080,
-      "name": "To Be So Lonely",
-      "url": "https://open.spotify.com/track/5JiH89mHrv9oWHlD0T326z"
+      "duration_ms": 189186,
+      "name": "I Will Follow You into the Dark",
+      "url": "https://open.spotify.com/track/3kZC0ZmFWrEHdUCmUqlvgZ"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1667,18 +1667,18 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Plans",
-        "url": "https://open.spotify.com/album/1NFGnxmeIEBakre4DvLaJq"
+        "name": "Fine Line",
+        "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
       },
       "artists": [
         {
-          "name": "Death Cab for Cutie",
-          "url": "https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx"
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
         }
       ],
-      "duration_ms": 189186,
-      "name": "I Will Follow You into the Dark",
-      "url": "https://open.spotify.com/track/3kZC0ZmFWrEHdUCmUqlvgZ"
+      "duration_ms": 192080,
+      "name": "To Be So Lonely",
+      "url": "https://open.spotify.com/track/5JiH89mHrv9oWHlD0T326z"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -2315,26 +2315,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "The Thrill Of It All (Special Edition)",
-        "url": "https://open.spotify.com/album/3TJz2UBNYJtlEly0sPeNrQ"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        },
-        {
-          "name": "Yebba",
-          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
-        }
-      ],
-      "duration_ms": 283294,
-      "name": "No Peace",
-      "url": "https://open.spotify.com/track/5ZX1X9Rl4zbx1Wwyn3idVD"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Wishes (Deluxe Version)",
         "url": "https://open.spotify.com/album/3CV2SCBs7wAUoQbmnjQbwa"
       },
@@ -2351,6 +2331,26 @@
       "duration_ms": 280757,
       "name": "Let It All Go",
       "url": "https://open.spotify.com/track/5MzXUNfn8AAcz4Z6j2KgTK"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "The Thrill Of It All (Special Edition)",
+        "url": "https://open.spotify.com/album/3TJz2UBNYJtlEly0sPeNrQ"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        },
+        {
+          "name": "Yebba",
+          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
+        }
+      ],
+      "duration_ms": 283294,
+      "name": "No Peace",
+      "url": "https://open.spotify.com/track/5ZX1X9Rl4zbx1Wwyn3idVD"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -2427,6 +2427,22 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
+        "name": "+",
+        "url": "https://open.spotify.com/album/02pi98kE0nra0yBqCStzbC"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 200755,
+      "name": "Autumn Leaves - Deluxe Edition",
+      "url": "https://open.spotify.com/track/7iBSkXB0pTvZasOLf0Qxk9"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
         "name": "Bad Life",
         "url": "https://open.spotify.com/album/7tcd0KU4YjcAT9jaP8ebs6"
       },
@@ -2447,18 +2463,18 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "+",
-        "url": "https://open.spotify.com/album/02pi98kE0nra0yBqCStzbC"
+        "name": "CHARLIE",
+        "url": "https://open.spotify.com/album/5Jk4Eg7pxYhDrWJCVVzmMt"
       },
       "artists": [
         {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
         }
       ],
-      "duration_ms": 200755,
-      "name": "Autumn Leaves - Deluxe Edition",
-      "url": "https://open.spotify.com/track/7iBSkXB0pTvZasOLf0Qxk9"
+      "duration_ms": 204376,
+      "name": "Loser",
+      "url": "https://open.spotify.com/track/1BCXUbnU0486n4eeTyyVIj"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -2475,22 +2491,6 @@
       "duration_ms": 185495,
       "name": "I Don't Like Myself",
       "url": "https://open.spotify.com/track/3soSAbnGLuJeARGmegvMFJ"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "CHARLIE",
-        "url": "https://open.spotify.com/album/5Jk4Eg7pxYhDrWJCVVzmMt"
-      },
-      "artists": [
-        {
-          "name": "Charlie Puth",
-          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
-        }
-      ],
-      "duration_ms": 204376,
-      "name": "Loser",
-      "url": "https://open.spotify.com/track/1BCXUbnU0486n4eeTyyVIj"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -2859,22 +2859,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Habits of My Heart",
-        "url": "https://open.spotify.com/album/7c4oC2FhDzwu7XU7XRB4lZ"
-      },
-      "artists": [
-        {
-          "name": "Jaymes Young",
-          "url": "https://open.spotify.com/artist/6QrQ7OrISRYIfS5mtacaw2"
-        }
-      ],
-      "duration_ms": 248554,
-      "name": "I'll Be Good",
-      "url": "https://open.spotify.com/track/5WLSak7DN3LY1K71oWYuoN"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Runaway",
         "url": "https://open.spotify.com/album/4iioyYjn5y3TYGTdl7qdL5"
       },
@@ -2887,6 +2871,22 @@
       "duration_ms": 218946,
       "name": "Runaway",
       "url": "https://open.spotify.com/track/7oHijHxh7cI40fNC4S619V"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Habits of My Heart",
+        "url": "https://open.spotify.com/album/7c4oC2FhDzwu7XU7XRB4lZ"
+      },
+      "artists": [
+        {
+          "name": "Jaymes Young",
+          "url": "https://open.spotify.com/artist/6QrQ7OrISRYIfS5mtacaw2"
+        }
+      ],
+      "duration_ms": 248554,
+      "name": "I'll Be Good",
+      "url": "https://open.spotify.com/track/5WLSak7DN3LY1K71oWYuoN"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -2923,22 +2923,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "The Corrs Unplugged",
-        "url": "https://open.spotify.com/album/68QpU7XGT0RIX4NNkPLXzx"
-      },
-      "artists": [
-        {
-          "name": "The Corrs",
-          "url": "https://open.spotify.com/artist/1VbWUxZTRNY2gw3qZ1tg9W"
-        }
-      ],
-      "duration_ms": 349666,
-      "name": "Everybody Hurts - MTV Unplugged Live Version",
-      "url": "https://open.spotify.com/track/3HHTF12zYLGtLsZbBaLMhk"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "The Fault in Our Stars",
         "url": "https://open.spotify.com/album/75K7Ki7WchpgjTHHR4hDmo"
       },
@@ -2951,6 +2935,22 @@
       "duration_ms": 187194,
       "name": "The Fault in Our Stars",
       "url": "https://open.spotify.com/track/6LteLVcW0oWLjuW6nePyWb"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "The Corrs Unplugged",
+        "url": "https://open.spotify.com/album/68QpU7XGT0RIX4NNkPLXzx"
+      },
+      "artists": [
+        {
+          "name": "The Corrs",
+          "url": "https://open.spotify.com/artist/1VbWUxZTRNY2gw3qZ1tg9W"
+        }
+      ],
+      "duration_ms": 349666,
+      "name": "Everybody Hurts - MTV Unplugged Live Version",
+      "url": "https://open.spotify.com/track/3HHTF12zYLGtLsZbBaLMhk"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -3203,18 +3203,18 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "I Loved You.",
-        "url": "https://open.spotify.com/album/3hKjzbCr8wCNcjr54dYYv6"
+        "name": "I Believe You",
+        "url": "https://open.spotify.com/album/7c6s5q0fbvQF5wFQAsmzo7"
       },
       "artists": [
         {
-          "name": "LANY",
-          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+          "name": "FLETCHER",
+          "url": "https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg"
         }
       ],
-      "duration_ms": 232712,
-      "name": "Someone Else",
-      "url": "https://open.spotify.com/track/2JUaGpCrD8tywgj9MeLFbb"
+      "duration_ms": 192992,
+      "name": "I Believe You",
+      "url": "https://open.spotify.com/track/4GUXTRTjQ4voLzwLw9qbPx"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -3235,18 +3235,18 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "I Believe You",
-        "url": "https://open.spotify.com/album/7c6s5q0fbvQF5wFQAsmzo7"
+        "name": "I Loved You.",
+        "url": "https://open.spotify.com/album/3hKjzbCr8wCNcjr54dYYv6"
       },
       "artists": [
         {
-          "name": "FLETCHER",
-          "url": "https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg"
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
         }
       ],
-      "duration_ms": 192992,
-      "name": "I Believe You",
-      "url": "https://open.spotify.com/track/4GUXTRTjQ4voLzwLw9qbPx"
+      "duration_ms": 232712,
+      "name": "Someone Else",
+      "url": "https://open.spotify.com/track/2JUaGpCrD8tywgj9MeLFbb"
     },
     {
       "added_at": "2024-05-22 11:00:00",

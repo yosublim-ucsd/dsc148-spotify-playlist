@@ -4,7 +4,7 @@
 
 > An eclectic mix of past & current indie favourites\. Cover: Nemahsis
 
-765 songs - 1 day 22 hr 5 min
+766 songs - 1 day 22 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -247,7 +247,7 @@
 | [Forgotten Souls](https://open.spotify.com/track/2HXlntIqqIgu4ibdVYk4I3) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [Forgotten Souls](https://open.spotify.com/album/6FsbKlxfpfinK7PUxKTQPD) | 2:55 | 2021-08-19 | 2022-07-15 |
 | [Frankenstein](https://open.spotify.com/track/1xSmjB0t19q4CSJ0X0ymGB) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [Frankenstein](https://open.spotify.com/album/740ehwZADpfoezUB54h6zE) | 3:22 | 2021-07-05 | 2022-08-24 |
 | [Freaks](https://open.spotify.com/track/7EkWXAI1wn8Ii883ecd9xr) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [Freaks](https://open.spotify.com/album/5WjaIWthUR3AjA0UYG3jR5) | 2:27 | 2023-02-10 |  |
-| [Free](https://open.spotify.com/track/7H7SHw3YWXhb4zYqyoPNa1) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Dance Fever](https://open.spotify.com/album/4ohh1zQ4yybSK9FS7LLyDE) | 3:54 | 2022-11-11 |  |
+| [Free](https://open.spotify.com/track/7H7SHw3YWXhb4zYqyoPNa1) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Dance Fever](https://open.spotify.com/album/4ohh1zQ4yybSK9FS7LLyDE) | 3:54 | 2022-11-11 | 2024-10-05 |
 | [Free Animal](https://open.spotify.com/track/6mbg2IS3Lak9kp8qD8O3d6) | [Foreign Air](https://open.spotify.com/artist/5ApQnMT6oR8eLguf24xb9S) | [For the Light](https://open.spotify.com/album/6qO0Vs8Mbx35dZiGkZGXjM) | 3:00 | 2021-03-06 | 2022-04-12 |
 | [French Riviera](https://open.spotify.com/track/78Pn6NfbmrgRLKCnxCPZ66) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [RESONANCE](https://open.spotify.com/album/75bzjoYDBOHkkAfd7hwQ57) | 3:50 | 2021-02-25 | 2022-04-07 |
 | [Friend of a Friend](https://open.spotify.com/track/31ETL8gxaIFLhPWdtZ5god) | [Teen Ravine](https://open.spotify.com/artist/47r9votioiOOvwB9n6grXp) | [Teen Ravine](https://open.spotify.com/album/4nE73Z9RIOYrKLicCmVmYh) | 3:48 | 2021-01-16 | 2022-05-23 |
@@ -369,6 +369,7 @@
 | [Kerosene!](https://open.spotify.com/track/1Kjw0LwdniCWran4PxJqPQ) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Heaven To A Tortured Mind](https://open.spotify.com/album/5wnCTZtzIZxasRSHzI1JeW) | 5:05 | 2022-08-23 | 2023-02-02 |
 | [Kerosene!](https://open.spotify.com/track/2OoKzfr7RB5o9cxHArUoIS) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Heaven To A Tortured Mind](https://open.spotify.com/album/00R4y0gymycDUv9IVY7VvO) | 5:05 | 2022-11-11 | 2023-02-11 |
 | [Kill V\. Maim](https://open.spotify.com/track/3WXhshrs1fzwF3rQE399Gq) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Art Angels](https://open.spotify.com/album/7J84ixPVFehy6FcLk8rhk3) | 4:06 | 2023-02-10 | 2024-01-09 |
+| [Killshot](https://open.spotify.com/track/0LJTfmgOMvlLd0u4HU9twm) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [A Little Rhythm and a Wicked Feeling](https://open.spotify.com/album/5OsXAPcYYYNTtkFuuB8TDc) | 3:56 | 2024-09-21 |  |
 | [Kingston](https://open.spotify.com/track/5WbfFTuIldjL9x7W6y5l7R) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Atlanta Millionaires Club](https://open.spotify.com/album/7jXmmQ1gNTXHyTF7uvH4Tn) | 3:22 | 2024-01-08 |  |
 | [Kissing](https://open.spotify.com/track/4KBut1oQTHuF5uWCnPV9wr) | [POSTDATA](https://open.spotify.com/artist/05mMvlRkzuup4xMEKV8619) | [Twin Flames](https://open.spotify.com/album/1Ol2zdK8I3HJLjIIWTQQVr) | 3:20 | 2021-07-20 | 2022-04-12 |
 | [Kyoto](https://open.spotify.com/track/4vjvx7Zxkb4AltGcZ0BBvI) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Punisher](https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH) | 3:04 | 2022-08-23 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "New jazz for open minds. Cover: WILLOW",
+  "description": "New jazz for open minds. Cover: Kokoroko",
   "name": "State of Jazz",
   "tracks": [
     {
@@ -1146,7 +1146,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 306714,
       "name": "All Black Everything",
       "url": "https://open.spotify.com/track/2qZpjV0ABiaoMBhjslXXkf"
@@ -1578,7 +1578,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 152877,
       "name": "Amor Enfeiti\u00e7ado",
       "url": "https://open.spotify.com/track/0555BKWmKRzhg3b74078FB"
@@ -5580,7 +5580,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 158066,
       "name": "Chubbby (48)",
       "url": "https://open.spotify.com/track/4SsjHCvYNo1NpgG36C7Nje"
@@ -8859,6 +8859,32 @@
     },
     {
       "album": {
+        "name": "Heavier Yet (Lays The Crownless Head)",
+        "url": "https://open.spotify.com/album/2xsxl1780BXMEfxw5ZsTja"
+      },
+      "artists": [
+        {
+          "name": "Seun Kuti",
+          "url": "https://open.spotify.com/artist/1GQur7dDvAWhKT9u9YwBJZ"
+        },
+        {
+          "name": "Egypt 80",
+          "url": "https://open.spotify.com/artist/6L71LxY17w8Yzh1zUphpiW"
+        },
+        {
+          "name": "Sampa the Great",
+          "url": "https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 523306,
+      "name": "Emi Aluta",
+      "url": "https://open.spotify.com/track/0EDeblRUiwI7ICqPj4uELR"
+    },
+    {
+      "album": {
         "name": "Emlilweni",
         "url": "https://open.spotify.com/album/0dWHPV6VdVYUZiY9ma0XKQ"
       },
@@ -10217,6 +10243,32 @@
     },
     {
       "album": {
+        "name": "Fly",
+        "url": "https://open.spotify.com/album/2lN2HpUppxgHZ3S5gzZ1qV"
+      },
+      "artists": [
+        {
+          "name": "Michael Mayo",
+          "url": "https://open.spotify.com/artist/5GPxGRe2IglKP3ZiwwJbP4"
+        },
+        {
+          "name": "Scott Mayo",
+          "url": "https://open.spotify.com/artist/0LFRAB4bQIRsTLIhQAUMGP"
+        },
+        {
+          "name": "Valerie Pinkston",
+          "url": "https://open.spotify.com/artist/5IUEOeBARhhiwTSmvocIeO"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251640,
+      "name": "Fly",
+      "url": "https://open.spotify.com/track/34fWjE24BlikDPyZ7XP8W5"
+    },
+    {
+      "album": {
         "name": "Flying Chicken (feat. Thiago Rabello & Salom\u00e3o Soares)",
         "url": "https://open.spotify.com/album/4RqK5murOrvju4Lel65EzG"
       },
@@ -10828,6 +10880,28 @@
       "duration_ms": 357482,
       "name": "Funky G Sus",
       "url": "https://open.spotify.com/track/5QFO8waIRAMQafRnnzBOyZ"
+    },
+    {
+      "album": {
+        "name": "Futur",
+        "url": "https://open.spotify.com/album/3JwSs8nsmLLY8mIPfZY2fg"
+      },
+      "artists": [
+        {
+          "name": "Gregori Hollis",
+          "url": "https://open.spotify.com/artist/0TAqXJYhhMR8gL7RpzLJyH"
+        },
+        {
+          "name": "Rita Pay\u00e9s",
+          "url": "https://open.spotify.com/artist/1XSmez9xyCCPpOZp0uImwM"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360599,
+      "name": "Futur",
+      "url": "https://open.spotify.com/track/0yj76JthsTj1c8accVzcYK"
     },
     {
       "album": {
@@ -11462,7 +11536,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 262499,
       "name": "GOLD\uff06TURQUOISE",
       "url": "https://open.spotify.com/track/2cce58yqFVClCcy6bDGYiM"
@@ -13906,7 +13980,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 279240,
       "name": "Insecurities (feat. Moses Sumney)",
       "url": "https://open.spotify.com/track/3IiaROiVHOVkwfX1DCHM31"
@@ -17249,6 +17323,32 @@
     },
     {
       "album": {
+        "name": "Acadia",
+        "url": "https://open.spotify.com/album/7FYQpTiE5X0G3tXhagmv39"
+      },
+      "artists": [
+        {
+          "name": "Yasmin Williams",
+          "url": "https://open.spotify.com/artist/4j8CsPzssbM8TCjSvgnmSs"
+        },
+        {
+          "name": "Marcus Gilmore",
+          "url": "https://open.spotify.com/artist/1caVPl46Ta6C8DYns5AAuo"
+        },
+        {
+          "name": "Immanuel Wilkins",
+          "url": "https://open.spotify.com/artist/5szMuuBbDzULkagWIfI5LG"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260480,
+      "name": "Malamu (feat. Marcus Gilmore & Immanuel Wilkins)",
+      "url": "https://open.spotify.com/track/2OmUEDc3Vz1dQtd1PmJXYG"
+    },
+    {
+      "album": {
         "name": "Within This Stone",
         "url": "https://open.spotify.com/album/0w2OgAeFY8VCct4xc8dknD"
       },
@@ -18508,6 +18608,32 @@
       "duration_ms": 222989,
       "name": "More Than This",
       "url": "https://open.spotify.com/track/3fYHcbbE5I88UKIPg2Oa2f"
+    },
+    {
+      "album": {
+        "name": "Jazz Is Dead 021",
+        "url": "https://open.spotify.com/album/0ifdXpNMmpupv9CSXkt2Bo"
+      },
+      "artists": [
+        {
+          "name": "Adrian Younge",
+          "url": "https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd"
+        },
+        {
+          "name": "Ali Shaheed Muhammad",
+          "url": "https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt"
+        },
+        {
+          "name": "The Midnight Hour",
+          "url": "https://open.spotify.com/artist/1S5jf5XWhQTMjGZQxCH0AJ"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338825,
+      "name": "Moreno",
+      "url": "https://open.spotify.com/track/7HCDVy8eIHWLEMchu9Vtha"
     },
     {
       "album": {
@@ -20396,6 +20522,32 @@
       "duration_ms": 257962,
       "name": "Olha Maria",
       "url": "https://open.spotify.com/track/06J8E2lWKBGSjblUZm1sqy"
+    },
+    {
+      "album": {
+        "name": "Om Supreme (feat. Vijay Iyer & Immanuel Wilkins)",
+        "url": "https://open.spotify.com/album/2tQJ6JZhoKMgG5wm0w3N3r"
+      },
+      "artists": [
+        {
+          "name": "Ganavya",
+          "url": "https://open.spotify.com/artist/1NXSMPrdftOB0I4LeSkwjz"
+        },
+        {
+          "name": "Vijay Iyer",
+          "url": "https://open.spotify.com/artist/27DeRe5LjIt9ZPXUjF90h6"
+        },
+        {
+          "name": "Immanuel Wilkins",
+          "url": "https://open.spotify.com/artist/5szMuuBbDzULkagWIfI5LG"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 615177,
+      "name": "Om Supreme (feat. Vijay Iyer & Immanuel Wilkins)",
+      "url": "https://open.spotify.com/track/2lcmMbNGKgCsM081mwdE36"
     },
     {
       "album": {
@@ -25188,7 +25340,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 287191,
       "name": "Silver Lining",
       "url": "https://open.spotify.com/track/3GJyOT58yCvbpnRyD3Deqa"
@@ -27683,6 +27835,32 @@
     },
     {
       "album": {
+        "name": "Take My Hand",
+        "url": "https://open.spotify.com/album/0yne7uQFneR7wftM1WrkuB"
+      },
+      "artists": [
+        {
+          "name": "Greg Spero",
+          "url": "https://open.spotify.com/artist/0zimAUeLZD9gEVSEgc9RRd"
+        },
+        {
+          "name": "Harvey Mason",
+          "url": "https://open.spotify.com/artist/2MNNVXEpagQ3QWiOkXjQyT"
+        },
+        {
+          "name": "Michael Shiono",
+          "url": "https://open.spotify.com/artist/486fu29fZ7O9PXZnHGbvKr"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319108,
+      "name": "Take My Hand",
+      "url": "https://open.spotify.com/track/2CZtyy1ewF8niOUigOriZm"
+    },
+    {
+      "album": {
         "name": "Take The A Train",
         "url": "https://open.spotify.com/album/7AC4vvKoVmo1Fg0qLxV7UH"
       },
@@ -29762,7 +29940,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 198126,
       "name": "The Seventh",
       "url": "https://open.spotify.com/track/72nuJ44wOCgbx9sc7itXB7"
@@ -30466,6 +30644,28 @@
       "duration_ms": 342946,
       "name": "Three Over Steel",
       "url": "https://open.spotify.com/track/3zZUxAQoeucHTg8XUonl1W"
+    },
+    {
+      "album": {
+        "name": "Three Piece Suit (feat. Azekel)",
+        "url": "https://open.spotify.com/album/2Nqaqx256kZBgaIS5FvzBQ"
+      },
+      "artists": [
+        {
+          "name": "Kokoroko",
+          "url": "https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr"
+        },
+        {
+          "name": "Azekel",
+          "url": "https://open.spotify.com/artist/446nYwuXzCKnDwZUu4kGQA"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276733,
+      "name": "Three Piece Suit (feat. Azekel)",
+      "url": "https://open.spotify.com/track/0VIegveYbIaxxTgBNHSl3v"
     },
     {
       "album": {
@@ -31528,6 +31728,24 @@
       "duration_ms": 311729,
       "name": "Un Poco Loco",
       "url": "https://open.spotify.com/track/4MYy4v2SBgzBSYQ0vg5NEE"
+    },
+    {
+      "album": {
+        "name": "Un Poco Loco",
+        "url": "https://open.spotify.com/album/11ulHNjlgRjdpi8gASI1XA"
+      },
+      "artists": [
+        {
+          "name": "Chihiro Yamanaka",
+          "url": "https://open.spotify.com/artist/6o9XvN8S83IlUqiDA4XIqD"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265480,
+      "name": "Un Poco Loco",
+      "url": "https://open.spotify.com/track/6QGESpJ5Olu3J9EAbdyvED"
     },
     {
       "album": {
@@ -32653,6 +32871,24 @@
     },
     {
       "album": {
+        "name": "Waterfilm",
+        "url": "https://open.spotify.com/album/0fur4DVWgZwn44dDy9ZpFs"
+      },
+      "artists": [
+        {
+          "name": "fox capture plan",
+          "url": "https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257221,
+      "name": "Waterfilm",
+      "url": "https://open.spotify.com/track/76KVWgsaoamQvSAdcmahcH"
+    },
+    {
+      "album": {
         "name": "Wave Decay",
         "url": "https://open.spotify.com/album/1CmKCXUb6mRilW1KHYUJTh"
       },
@@ -32682,7 +32918,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 307674,
       "name": "Wave Decay",
       "url": "https://open.spotify.com/track/7rE5bopDSCT6dltTT8WPH9"
@@ -33602,7 +33838,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 293125,
       "name": "Worthy",
       "url": "https://open.spotify.com/track/0n4BeG5oTvxuX6qP3tu7Yr"
@@ -33742,7 +33978,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 315561,
       "name": "Yesterday's Price",
       "url": "https://open.spotify.com/track/76w0UOermXSeAZIj0HfynR"
@@ -34434,7 +34670,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 74000,
       "name": "\u30d9\u30b9\u30c8\u30de\u30c3\u30c1\u30b0\u30e9\u30f3\u30d7\u30ea",
       "url": "https://open.spotify.com/track/0tIWLp37QshtVajg2zplo9"
@@ -34618,6 +34854,24 @@
       "duration_ms": 250000,
       "name": "\u8a69\u7684\u306a\u30e0\u30fc\u30f3\u30de\u30b9\u30bf\u30fc",
       "url": "https://open.spotify.com/track/5euhfTFoPaetjdsaownelz"
+    },
+    {
+      "album": {
+        "name": "\u8ecc\u8de1",
+        "url": "https://open.spotify.com/album/3OeoTPhCDrJjoLv7k4q0xX"
+      },
+      "artists": [
+        {
+          "name": "H ZETTRIO",
+          "url": "https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217000,
+      "name": "\u8ecc\u8de1",
+      "url": "https://open.spotify.com/track/3X4bZvUv6kTIfCSuYlLBSR"
     },
     {
       "album": {

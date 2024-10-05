@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Lydia K\u00e9pinski, Simon Proulx",
+  "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Lara Fabian",
   "name": "Nouveaut\u00e9s francophones",
   "tracks": [
     {
@@ -2136,7 +2136,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 171373,
       "name": "Alin\u00e9a",
       "url": "https://open.spotify.com/track/1JXLr46nARAmiGPyQIlbjD"
@@ -2878,6 +2878,28 @@
       "duration_ms": 176666,
       "name": "Anthracite",
       "url": "https://open.spotify.com/track/2AoDYFB8sKWZunF2hS6Nxh"
+    },
+    {
+      "album": {
+        "name": "ANTI-GU\u00c9RISON",
+        "url": "https://open.spotify.com/album/6hM7kqdd2WkEkQ7g17FMGi"
+      },
+      "artists": [
+        {
+          "name": "Xela Edna",
+          "url": "https://open.spotify.com/artist/5uurP255LK3PxVKgkZWMdS"
+        },
+        {
+          "name": "Eius Echo",
+          "url": "https://open.spotify.com/artist/5HKktNgsAXBcjWG4frwBmE"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231043,
+      "name": "ANTI-GU\u00c9RISON",
+      "url": "https://open.spotify.com/track/3dKLqqYzxWyFK54zhaGc5L"
     },
     {
       "album": {
@@ -3674,7 +3696,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 263106,
       "name": "Aujourd'hui, ma vie c'est d'la marde - Live",
       "url": "https://open.spotify.com/track/5oLR8xjvf1m39ATaihWEOc"
@@ -5051,6 +5073,32 @@
     },
     {
       "album": {
+        "name": "Bermudes",
+        "url": "https://open.spotify.com/album/1PQ2uxec0Z8Ay19WeAZ98c"
+      },
+      "artists": [
+        {
+          "name": "San James",
+          "url": "https://open.spotify.com/artist/0hIJpbVV7O5vBBhTQ4tXiH"
+        },
+        {
+          "name": "Miro",
+          "url": "https://open.spotify.com/artist/5j7ql2sFpKxWvZI6TIDfgj"
+        },
+        {
+          "name": "L'Isle",
+          "url": "https://open.spotify.com/artist/1Dha3TduO0PBC7aRD84PHP"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175796,
+      "name": "Bermudes",
+      "url": "https://open.spotify.com/track/79lTYn64xiWpQaP3AgtFYC"
+    },
+    {
+      "album": {
         "name": "Besoin",
         "url": "https://open.spotify.com/album/1hfiyR4GixCxvmmS3GoBrJ"
       },
@@ -5504,7 +5552,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 199680,
       "name": "Blah",
       "url": "https://open.spotify.com/track/3spog0Dx719qEXRsq5USS4"
@@ -10566,7 +10614,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 173080,
       "name": "Coup de poing",
       "url": "https://open.spotify.com/track/1LaRRI4KI5mp68FvI2OBMv"
@@ -13041,6 +13089,24 @@
     },
     {
       "album": {
+        "name": "Dis-moi dis-moi dis-moi",
+        "url": "https://open.spotify.com/album/4UJjNUEphQH1QHPyYkAqTI"
+      },
+      "artists": [
+        {
+          "name": "Lou-Adriane Cassidy",
+          "url": "https://open.spotify.com/artist/1M8BgMq8VcOlovA92xpxKt"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311106,
+      "name": "Dis-moi dis-moi dis-moi",
+      "url": "https://open.spotify.com/track/4YSYntwxETKO1DJFEjMwZN"
+    },
+    {
+      "album": {
         "name": "Dis-moi si la ville",
         "url": "https://open.spotify.com/album/2G57Hhyh1W3gqlZBWMOnsy"
       },
@@ -13644,7 +13710,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-28",
+      "date_removed": null,
       "duration_ms": 184573,
       "name": "DOUTE (feat. Zamdane)",
       "url": "https://open.spotify.com/track/6TTdUXf9Va6d1MZ39WKQhk"
@@ -16363,6 +16429,24 @@
     },
     {
       "album": {
+        "name": "Fais-moi r\u00eaver",
+        "url": "https://open.spotify.com/album/53aO4Ze0Jp2MtnCgmbDs5Q"
+      },
+      "artists": [
+        {
+          "name": "Alfa Rococo",
+          "url": "https://open.spotify.com/artist/6nG2T7gGBQilOJXPWw0F0n"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195256,
+      "name": "Fais-moi r\u00eaver",
+      "url": "https://open.spotify.com/track/5M7URPl2QApuwqFUQkpRuK"
+    },
+    {
+      "album": {
         "name": "Fais-toi s'en pas",
         "url": "https://open.spotify.com/album/5uogniKxwhAq4l0R9mh8LN"
       },
@@ -18360,7 +18444,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 166126,
       "name": "Gagner ma cause",
       "url": "https://open.spotify.com/track/3DN2jMQC18voS7AHGtVHGy"
@@ -23267,6 +23351,24 @@
     },
     {
       "album": {
+        "name": "Je t'ai cherch\u00e9",
+        "url": "https://open.spotify.com/album/5T8ZZkWPCZQaNPZmrFr25O"
+      },
+      "artists": [
+        {
+          "name": "Lara Fabian",
+          "url": "https://open.spotify.com/artist/7ocwZINHqO9DZJgFtc1B20"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216159,
+      "name": "Je t'ai cherch\u00e9",
+      "url": "https://open.spotify.com/track/28gYJXShLPmWRq9Zn9jGma"
+    },
+    {
+      "album": {
         "name": "Je t'ai manqu\u00e9",
         "url": "https://open.spotify.com/album/330ZfKjrGDutgAkyp0vawf"
       },
@@ -23864,7 +23966,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 185572,
       "name": "Juste amis",
       "url": "https://open.spotify.com/track/2SidL8c6kAfNJCSmSoTlvD"
@@ -27146,7 +27248,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 183626,
       "name": "Last in Line - 2024 Edit",
       "url": "https://open.spotify.com/track/1pVzuj2JaCUDdK57ls4VGV"
@@ -28790,6 +28892,24 @@
       "duration_ms": 172373,
       "name": "Les brais\u00e9s",
       "url": "https://open.spotify.com/track/3Gjvu9dgeOooeEUhPtPIg5"
+    },
+    {
+      "album": {
+        "name": "Dynastie",
+        "url": "https://open.spotify.com/album/7iQA80BCQhFCWe0In1PRp0"
+      },
+      "artists": [
+        {
+          "name": "Tire Le Coyote",
+          "url": "https://open.spotify.com/artist/0IC1NWkemYHVzpF7gISLku"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300360,
+      "name": "Les chemins de travers",
+      "url": "https://open.spotify.com/track/48I7QLC2SNkoLIF5mEqO1j"
     },
     {
       "album": {
@@ -33171,6 +33291,24 @@
     },
     {
       "album": {
+        "name": "Tintamarre",
+        "url": "https://open.spotify.com/album/19JFsi4HUA9pIsTajuK2XQ"
+      },
+      "artists": [
+        {
+          "name": "Les Hay Babies",
+          "url": "https://open.spotify.com/artist/19MYB7a3GOTcbnZrl7juwx"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270881,
+      "name": "Miroir",
+      "url": "https://open.spotify.com/track/6U0EmnsRA7vUUQ24xKwcNa"
+    },
+    {
+      "album": {
         "name": "Album bleu",
         "url": "https://open.spotify.com/album/0Vurm9CBdbkhEWYBuWeorb"
       },
@@ -35714,7 +35852,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-24",
+      "date_removed": null,
       "duration_ms": 192346,
       "name": "Nouvelle vie",
       "url": "https://open.spotify.com/track/4nXsx2uiPr0fOYRLa6xB52"
@@ -39816,7 +39954,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 217365,
       "name": "Pompi\u00e8re",
       "url": "https://open.spotify.com/track/0uXxSRpDnEgpyi35DxKc4k"
@@ -41202,7 +41340,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 236800,
       "name": "Push Hard",
       "url": "https://open.spotify.com/track/4abfijDfzeV78zrkeB8FzK"
@@ -41618,6 +41756,24 @@
       "duration_ms": 158280,
       "name": "Qui d'Autre",
       "url": "https://open.spotify.com/track/6JHjDxkAutkDhDqmlr9UQ8"
+    },
+    {
+      "album": {
+        "name": "La Pieva",
+        "url": "https://open.spotify.com/album/45DPqxb2Dp6gDnwO9gpiSi"
+      },
+      "artists": [
+        {
+          "name": "Barbara Pravi",
+          "url": "https://open.spotify.com/artist/3L4wiBOSDLkJ18OISXZDA8"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168960,
+      "name": "Qui j'\u00e9tais",
+      "url": "https://open.spotify.com/track/5FMRfzp9GVLtTX9Pg1i5Gp"
     },
     {
       "album": {
@@ -42040,7 +42196,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 158400,
       "name": "Rarri",
       "url": "https://open.spotify.com/track/1KNOUbs4A6XcoQrDcIKK7F"
@@ -45041,6 +45197,28 @@
     },
     {
       "album": {
+        "name": "Seul au monde (feat. Soolking)",
+        "url": "https://open.spotify.com/album/6FDNPF6pWDiunpZicIU2fa"
+      },
+      "artists": [
+        {
+          "name": "Corneille",
+          "url": "https://open.spotify.com/artist/2GBDOaCl73BVUs2RerIme7"
+        },
+        {
+          "name": "Soolking",
+          "url": "https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180361,
+      "name": "Seul au monde (feat. Soolking)",
+      "url": "https://open.spotify.com/track/0KrYHoN0qRDv4IO9EDP6gX"
+    },
+    {
+      "album": {
         "name": "Seul sur le vibe",
         "url": "https://open.spotify.com/album/2DAAxmsyE9jnbQHzTkRrVq"
       },
@@ -47199,6 +47377,28 @@
     },
     {
       "album": {
+        "name": "Henri & Simon",
+        "url": "https://open.spotify.com/album/6Or5NkQhfIZHcADUgo4FqK"
+      },
+      "artists": [
+        {
+          "name": "Kinkead",
+          "url": "https://open.spotify.com/artist/5Aly75fTVDrSY5TQMB4K1o"
+        },
+        {
+          "name": "Julyan",
+          "url": "https://open.spotify.com/artist/10ifu6MiIcrhdrUEWJsACG"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165480,
+      "name": "Sugar",
+      "url": "https://open.spotify.com/track/5JlvOWzq0QaLJOem20sjcl"
+    },
+    {
+      "album": {
         "name": "Sugar daddy",
         "url": "https://open.spotify.com/album/6oU1bWzR7toi96GMympG0r"
       },
@@ -47210,7 +47410,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-30",
+      "date_removed": null,
       "duration_ms": 166774,
       "name": "Sugar daddy",
       "url": "https://open.spotify.com/track/1zJNohDPObG94E3SPaKz7U"
@@ -49502,7 +49702,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 185259,
       "name": "Totally Psych",
       "url": "https://open.spotify.com/track/1MaKk6xc0nJ6XCcyglWRkB"
@@ -49702,7 +49902,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-23",
+      "date_removed": null,
       "duration_ms": 178653,
       "name": "Tous ces ongles rong\u00e9s",
       "url": "https://open.spotify.com/track/6XugQIyPKPxE7MaAxNAOhT"
@@ -51094,7 +51294,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 134581,
       "name": "Tu reviendras",
       "url": "https://open.spotify.com/track/12gXcmZ9t34G00dJ7CpIOV"
@@ -51878,7 +52078,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 156150,
       "name": "Under Pressure",
       "url": "https://open.spotify.com/track/53GiARZyas9J5pbBiVz4F1"
@@ -53956,7 +54156,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 178407,
       "name": "xoxo",
       "url": "https://open.spotify.com/track/5b8Up9QurJqiIugs4DAhTv"
@@ -55346,7 +55546,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 193411,
       "name": "\u00c9milie",
       "url": "https://open.spotify.com/track/6YlZeS5VwVPSiRs1ChEms0"
@@ -55376,6 +55576,24 @@
       "duration_ms": 207467,
       "name": "\u00c9ph\u00e9m\u00e8re",
       "url": "https://open.spotify.com/track/5UB0z3TWA2dWPQ8gee8Uqc"
+    },
+    {
+      "album": {
+        "name": "\u00c9tat sauvage",
+        "url": "https://open.spotify.com/album/4iJYoyKYxXRuskQSwWBB5Q"
+      },
+      "artists": [
+        {
+          "name": "Souldia",
+          "url": "https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188800,
+      "name": "\u00c9tat sauvage",
+      "url": "https://open.spotify.com/track/1JutRIZ2wUehAR74oDa8Ot"
     },
     {
       "album": {

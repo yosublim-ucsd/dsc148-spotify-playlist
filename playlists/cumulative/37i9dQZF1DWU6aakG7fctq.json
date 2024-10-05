@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Fresh Latin Indie you should know. Cover: PJ Sin Suela",
+  "description": "Fresh Latin Indie you should know. Cover: Judeline",
   "name": "el nuevo indie",
   "tracks": [
     {
@@ -1470,7 +1470,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 162310,
       "name": "broken heart",
       "url": "https://open.spotify.com/track/5akkEq8y9Zp7vXj9AJg9WJ"
@@ -1640,7 +1640,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 179986,
       "name": "Calles De Madrid",
       "url": "https://open.spotify.com/track/4xZkI6BhMRAVlEHYAhUC9m"
@@ -2008,7 +2008,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 159488,
       "name": "Cholao",
       "url": "https://open.spotify.com/track/5MyyRPOM5OT3jpOvdEXuKN"
@@ -2590,7 +2590,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 166866,
       "name": "cuida",
       "url": "https://open.spotify.com/track/1CTkL5eli1SYcgTjQDNlC6"
@@ -2830,6 +2830,24 @@
       "duration_ms": 188400,
       "name": "Delorean",
       "url": "https://open.spotify.com/track/2jiVXTu5brRC5HWo47obWP"
+    },
+    {
+      "album": {
+        "name": "UNDESASTRE",
+        "url": "https://open.spotify.com/album/3we6FpK61JQs2f1mbkJ1kG"
+      },
+      "artists": [
+        {
+          "name": "Gepe",
+          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222354,
+      "name": "DESASTRE",
+      "url": "https://open.spotify.com/track/1R9s6WJz2kMPP9yNHQArEk"
     },
     {
       "album": {
@@ -3444,7 +3462,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 243830,
       "name": "El Big Bang",
       "url": "https://open.spotify.com/track/61svvvUEUPodjZvXhXv74e"
@@ -4096,6 +4114,24 @@
       "duration_ms": 141200,
       "name": "Esperando",
       "url": "https://open.spotify.com/track/51qtiFrcp7g6QHFHF59FX4"
+    },
+    {
+      "album": {
+        "name": "Remember Me When I Leave",
+        "url": "https://open.spotify.com/album/1lBIkAheCQnPoHOLK39JeO"
+      },
+      "artists": [
+        {
+          "name": "Vortxz",
+          "url": "https://open.spotify.com/artist/1IRl7g7pauvhROf85dKAP8"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209552,
+      "name": "Esperando",
+      "url": "https://open.spotify.com/track/596BJSjocg9Fnxk4zh7u7O"
     },
     {
       "album": {
@@ -5272,7 +5308,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 191426,
       "name": "H\u00e1blame",
       "url": "https://open.spotify.com/track/2MNhIVTYZKH7axq8CmGYA2"
@@ -5352,6 +5388,24 @@
       "duration_ms": 149002,
       "name": "Ilegales",
       "url": "https://open.spotify.com/track/5LyO5Yt71VgMYdzxsLNJin"
+    },
+    {
+      "album": {
+        "name": "Imit\u00e1ndote",
+        "url": "https://open.spotify.com/album/1vIOTSqcNOHM6OEhcGpfsf"
+      },
+      "artists": [
+        {
+          "name": "Indios",
+          "url": "https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174123,
+      "name": "Imit\u00e1ndote",
+      "url": "https://open.spotify.com/track/3DyTHxOyaqFyVma3LUJYMn"
     },
     {
       "album": {
@@ -5753,6 +5807,28 @@
     },
     {
       "album": {
+        "name": "La Mala Onda",
+        "url": "https://open.spotify.com/album/0CKraOZGEWqGD9aDggYcR6"
+      },
+      "artists": [
+        {
+          "name": "Rubytates",
+          "url": "https://open.spotify.com/artist/2Mk7yrY8Dt93tvVhyxh8Zj"
+        },
+        {
+          "name": "Giorgio Siladi",
+          "url": "https://open.spotify.com/artist/70yXUWs47Ej8wyiChPutgj"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242000,
+      "name": "La Mala Onda",
+      "url": "https://open.spotify.com/track/3D61CUTB6GjMhWbifuBo17"
+    },
+    {
+      "album": {
         "name": "LA MOLINA",
         "url": "https://open.spotify.com/album/4vE0Gbo7nKNDdXyhiDuIk8"
       },
@@ -6045,6 +6121,24 @@
     },
     {
       "album": {
+        "name": "Lara",
+        "url": "https://open.spotify.com/album/3EjNrGYV82jkbxCOYMD7D6"
+      },
+      "artists": [
+        {
+          "name": "Zoe Gotusso",
+          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198650,
+      "name": "Lara",
+      "url": "https://open.spotify.com/track/3mR6x2dlGh2w2bDpsa3m5K"
+    },
+    {
+      "album": {
         "name": "las cosas no son lo que parecen",
         "url": "https://open.spotify.com/album/6Zs6kAVDytdZAj7J3aaHRD"
       },
@@ -6212,6 +6306,28 @@
       "duration_ms": 219359,
       "name": "Left of Me",
       "url": "https://open.spotify.com/track/1ePMaox31BBUKy5nxwyYyf"
+    },
+    {
+      "album": {
+        "name": "Lejos De M\u00e1s",
+        "url": "https://open.spotify.com/album/0mCsBuqrZ6P2iflcesQysf"
+      },
+      "artists": [
+        {
+          "name": "pablopablo",
+          "url": "https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ"
+        },
+        {
+          "name": "Helado Negro",
+          "url": "https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246720,
+      "name": "Lejos De M\u00e1s",
+      "url": "https://open.spotify.com/track/3rATXD9GvA54CsDZRNPi6W"
     },
     {
       "album": {
@@ -7742,7 +7858,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 176065,
       "name": "MI \u00c1NGEL",
       "url": "https://open.spotify.com/track/4XbBw1wkTHK6NRshu4qa69"
@@ -9044,7 +9160,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 123802,
       "name": "O FE",
       "url": "https://open.spotify.com/track/1tW2ry8Pfmx3cRhQjQt8iE"
@@ -10533,6 +10649,28 @@
     },
     {
       "album": {
+        "name": "Qui\u00e9reme O \u00c1ndate",
+        "url": "https://open.spotify.com/album/4wlka6GEj5ZpmS4wkE5pO2"
+      },
+      "artists": [
+        {
+          "name": "Francisca Valenzuela",
+          "url": "https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt"
+        },
+        {
+          "name": "Daniela Spalla",
+          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176543,
+      "name": "Qui\u00e9reme O \u00c1ndate",
+      "url": "https://open.spotify.com/track/6fjujdixgZgzrjKDDHETbY"
+    },
+    {
+      "album": {
         "name": "Qu\u00e9 m\u00e1s da (feat. Charlie Rodd)",
         "url": "https://open.spotify.com/album/4J9rqXc6sk1UmjOPFvhuL9"
       },
@@ -10628,6 +10766,24 @@
       "duration_ms": 208666,
       "name": "Radiocaset",
       "url": "https://open.spotify.com/track/3eJxCkekeUGMI237Uc3I4q"
+    },
+    {
+      "album": {
+        "name": "P\u00c1JARO AZUL",
+        "url": "https://open.spotify.com/album/7lUllZVIhNP8mCn9h3HmxO"
+      },
+      "artists": [
+        {
+          "name": "Leo Rizzi",
+          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190031,
+      "name": "RAYO",
+      "url": "https://open.spotify.com/track/4p2Ma4ouvPhsBhvjIFPL9n"
     },
     {
       "album": {
@@ -11177,7 +11333,7 @@
     },
     {
       "album": {
-        "name": "Cutie Pie: 3",
+        "name": "Cutie Pie :3",
         "url": "https://open.spotify.com/album/15qp9JsykZwX2JlkDYJw1R"
       },
       "artists": [
@@ -12312,7 +12468,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 179032,
       "name": "Te Odio / Te Amo",
       "url": "https://open.spotify.com/track/6ln9v1YCxH3e2PvEuTmAdx"
@@ -13648,7 +13804,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 163333,
       "name": "Vicio",
       "url": "https://open.spotify.com/track/62PKxJqTiAuJmGTqcb1MAg"

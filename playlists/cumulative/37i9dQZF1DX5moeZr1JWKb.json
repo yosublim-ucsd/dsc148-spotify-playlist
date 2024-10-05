@@ -1091,6 +1091,32 @@
     },
     {
       "album": {
+        "name": "Honey",
+        "url": "https://open.spotify.com/album/68VqslGxoNFjfc3s6XcZFD"
+      },
+      "artists": [
+        {
+          "name": "VIEF",
+          "url": "https://open.spotify.com/artist/7vsIogMvyeyiquvpwCONUH"
+        },
+        {
+          "name": "Penyair",
+          "url": "https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c"
+        },
+        {
+          "name": "Alka Produce",
+          "url": "https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180402,
+      "name": "Honey",
+      "url": "https://open.spotify.com/track/3ZKTQjeqb1uo3BrnxpfD97"
+    },
+    {
+      "album": {
         "name": "Todos Tienen Que Comer",
         "url": "https://open.spotify.com/album/6vPnYHNVtdT9V76xUy3e2d"
       },
@@ -1350,7 +1376,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 130173,
       "name": "Lejos",
       "url": "https://open.spotify.com/track/3NzRG8I0nAEW6L9m7fccSX"
@@ -1677,6 +1703,24 @@
     },
     {
       "album": {
+        "name": "QUEEN OF TRAP",
+        "url": "https://open.spotify.com/album/19RFiFwKmA8Z3FUjzdVPVi"
+      },
+      "artists": [
+        {
+          "name": "Lil Keren",
+          "url": "https://open.spotify.com/artist/2T2r8MMgDzMeDLABgJw4Xt"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146202,
+      "name": "Mucha Salsa",
+      "url": "https://open.spotify.com/track/7MEam5ltcAIcNUsOTVV0T3"
+    },
+    {
+      "album": {
         "name": "M\u00e1s de Lo Suficiente",
         "url": "https://open.spotify.com/album/0dNK9XsjmqJzzR11ppeNIV"
       },
@@ -1772,7 +1816,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 142767,
       "name": "NASSY",
       "url": "https://open.spotify.com/track/4nSHTVJ02gfFOlsaeXLtgM"
@@ -2327,6 +2371,28 @@
     },
     {
       "album": {
+        "name": "Qu\u00e9 Mentira Tan Perfecta",
+        "url": "https://open.spotify.com/album/1TldCO3Zg4Y5WhueVcV85Y"
+      },
+      "artists": [
+        {
+          "name": "Ali Aka Mind",
+          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
+        },
+        {
+          "name": "T-Chord",
+          "url": "https://open.spotify.com/artist/3GvdERCXrDLLTKzngNIyMW"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169652,
+      "name": "Qu\u00e9 Mentira Tan Perfecta",
+      "url": "https://open.spotify.com/track/5JANca2cKP0GEUH0YORHAN"
+    },
+    {
+      "album": {
         "name": "Manjit",
         "url": "https://open.spotify.com/album/5kWtTiaGy7fsc8SRzP5Grr"
       },
@@ -2780,7 +2846,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 254318,
       "name": "TILIN CHILIN",
       "url": "https://open.spotify.com/track/2k7aMVmc4NDfW464qeDGJi"

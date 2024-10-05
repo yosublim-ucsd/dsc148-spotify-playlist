@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Celebrating women at the centre of innovation in electronic music. Cover: \u00d8TTA",
+  "description": "Celebrating women at the centre of innovation in electronic music. Cover: Memphis LK",
   "name": "Women of Electronic",
   "tracks": [
     {
@@ -917,6 +917,24 @@
     },
     {
       "album": {
+        "name": "BROKEN",
+        "url": "https://open.spotify.com/album/1aHlFkhxyz1Yxmb7sgQh24"
+      },
+      "artists": [
+        {
+          "name": "Ela Minus",
+          "url": "https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271435,
+      "name": "BROKEN",
+      "url": "https://open.spotify.com/track/3n4FkCfKlscDqYPMcTBdXm"
+    },
+    {
+      "album": {
         "name": "blush",
         "url": "https://open.spotify.com/album/6XFmWkqa5i9L4iKQSFZOHK"
       },
@@ -1581,6 +1599,28 @@
     },
     {
       "album": {
+        "name": "Say",
+        "url": "https://open.spotify.com/album/4djFEArMg3PsHqIHxQmtXO"
+      },
+      "artists": [
+        {
+          "name": "Memphis LK",
+          "url": "https://open.spotify.com/artist/7z3XgqpRYdNJ7RvEUlYaUe"
+        },
+        {
+          "name": "DJ BORING",
+          "url": "https://open.spotify.com/artist/3MkIU5jhXTMK9pYQTRVI6p"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241777,
+      "name": "Don't Touch Me Baby",
+      "url": "https://open.spotify.com/track/71AfT3Bewb71c8108NgOMU"
+    },
+    {
+      "album": {
         "name": "Don't Understand",
         "url": "https://open.spotify.com/album/7kGBvuLCHU8s4KnKlCAQjC"
       },
@@ -1896,7 +1936,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 205440,
       "name": "Every Breath",
       "url": "https://open.spotify.com/track/6mTWTcuOnCGktsCXeCEEjK"
@@ -1918,7 +1958,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 348000,
       "name": "Everybody Getting Low",
       "url": "https://open.spotify.com/track/5WPXnr5RYGDJYvSYqzCTey"
@@ -2052,7 +2092,7 @@
       ],
       "date_added": "2024-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 181384,
       "name": "Favourite Things",
       "url": "https://open.spotify.com/track/01MVQusvSv5Dw1Gfo8SFfG"
@@ -2796,6 +2836,24 @@
       "duration_ms": 300195,
       "name": "Gary Mission",
       "url": "https://open.spotify.com/track/1udH7v82zd03uUlGNhzy9f"
+    },
+    {
+      "album": {
+        "name": "Get Busy",
+        "url": "https://open.spotify.com/album/4SHUE12jvWe2VroUpuhM6o"
+      },
+      "artists": [
+        {
+          "name": "Anabel Englund",
+          "url": "https://open.spotify.com/artist/3ky8xBRraNNzxzXEw6Ga0c"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168750,
+      "name": "Get Busy",
+      "url": "https://open.spotify.com/track/1U3HdQECtAOhOzZ05flaY0"
     },
     {
       "album": {
@@ -4851,6 +4909,24 @@
     },
     {
       "album": {
+        "name": "Scarlet Lamb",
+        "url": "https://open.spotify.com/album/5usTfd8cfuQttU2w3Eh0q3"
+      },
+      "artists": [
+        {
+          "name": "yun\u00e8 pinku",
+          "url": "https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206899,
+      "name": "Midnight Oil",
+      "url": "https://open.spotify.com/track/7kxHjAiIYCM3vU8BA9a6Qe"
+    },
+    {
+      "album": {
         "name": "SOS MUSIC VOL. 1",
         "url": "https://open.spotify.com/album/5ffE081DdeFbqJFZ6F6MOY"
       },
@@ -4964,7 +5040,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 244285,
       "name": "Missing You",
       "url": "https://open.spotify.com/track/7ILwo5dXAT8FcgfFJKWgFq"
@@ -5112,7 +5188,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 296170,
       "name": "My Dazed Friend",
       "url": "https://open.spotify.com/track/097wfbHE5h2rHtTA0KWIar"
@@ -5642,6 +5718,28 @@
       "duration_ms": 175414,
       "name": "Planet Blue",
       "url": "https://open.spotify.com/track/5MvfAqLuOzuJ46quLvHhwn"
+    },
+    {
+      "album": {
+        "name": "Spiritual Driveby",
+        "url": "https://open.spotify.com/album/2aQjGvSZNLgf4tuMADUeqr"
+      },
+      "artists": [
+        {
+          "name": "Sara Landry",
+          "url": "https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK"
+        },
+        {
+          "name": "Shl\u00f8mo",
+          "url": "https://open.spotify.com/artist/0ZdNs1hU6aAiaZxvFbtDWF"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218882,
+      "name": "Play With Me",
+      "url": "https://open.spotify.com/track/6PrPWf02VxGUd2jJLs9z1M"
     },
     {
       "album": {
@@ -7405,6 +7503,24 @@
     },
     {
       "album": {
+        "name": "This Summer",
+        "url": "https://open.spotify.com/album/1HZk8E4kfqAyDVGTTwTedZ"
+      },
+      "artists": [
+        {
+          "name": "Anna Reusch",
+          "url": "https://open.spotify.com/artist/0BMS6AqoDN4Fu7QOruxHjh"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242133,
+      "name": "This Summer",
+      "url": "https://open.spotify.com/track/1UKf3GCnrZgchYbNOnfF2g"
+    },
+    {
+      "album": {
         "name": "Power of Panic",
         "url": "https://open.spotify.com/album/1zfxKqa3dLKcXto7XOZT0u"
       },
@@ -8298,7 +8414,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 332126,
       "name": "You Know How",
       "url": "https://open.spotify.com/track/6g6KOjQq93bl3Ujeog9OeJ"

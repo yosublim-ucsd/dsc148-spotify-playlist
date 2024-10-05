@@ -1,13 +1,29 @@
 {
   "description": "So fresh, so smooth. Cover: Boney James",
-  "num_followers": 66575,
+  "num_followers": 66606,
   "original_name": "New Smooth Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvYtwAAAAAB3zZ2FYC8PZeYszZ61Q4lc",
+  "snapshot_id": "Zv9oQAAAAAD+pPfbo06DZiMrU2MtPtSG",
   "tracks": [
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Freedom",
+        "url": "https://open.spotify.com/album/2hv17EL1v430aN9E0sbFZM"
+      },
+      "artists": [
+        {
+          "name": "Kim Scott",
+          "url": "https://open.spotify.com/artist/68nDtoCQKhf7AxQP0q3wSP"
+        }
+      ],
+      "duration_ms": 229436,
+      "name": "Freedom - radio single",
+      "url": "https://open.spotify.com/track/3VrSSFKulCr9Vdex6X4JHP"
+    },
     {
       "added_at": "2024-09-27 04:00:00",
       "album": {
@@ -483,26 +499,6 @@
       "duration_ms": 253235,
       "name": "Groovin' at the Symphony Hall",
       "url": "https://open.spotify.com/track/3qVuajH5vjMaypGAuw4hTr"
-    },
-    {
-      "added_at": "2024-03-22 04:01:00",
-      "album": {
-        "name": "Like Butter",
-        "url": "https://open.spotify.com/album/3uoqyLYjUzMIL33UdX9Ggc"
-      },
-      "artists": [
-        {
-          "name": "Kim Scott",
-          "url": "https://open.spotify.com/artist/68nDtoCQKhf7AxQP0q3wSP"
-        },
-        {
-          "name": "Jeff Ryan",
-          "url": "https://open.spotify.com/artist/0cjzOb6JYN5AOg4WVA9miY"
-        }
-      ],
-      "duration_ms": 249466,
-      "name": "Like Butter - radio single",
-      "url": "https://open.spotify.com/track/0An6pi6xlDUYBeEoy1ln7k"
     },
     {
       "added_at": "2024-03-29 04:01:00",

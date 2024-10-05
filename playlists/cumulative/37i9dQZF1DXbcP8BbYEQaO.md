@@ -4,7 +4,7 @@
 
 > sparkling, shimmery synth pop ✨
 
-693 songs - 1 day 14 hr 59 min
+695 songs - 1 day 15 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [Bloodshot](https://open.spotify.com/track/6njoUYmj7kjQVYTG22K33r) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Bloodshot / Waste](https://open.spotify.com/album/2GkFw24RAab0MJNexdE43z) | 2:59 | 2020-10-13\* | 2020-11-18 |
 | [Blue Escape](https://open.spotify.com/track/2HdJ8CcFR52iKnvoUm2I7I) | [BEA](https://open.spotify.com/artist/3Z3GDBp8qms6GCTWZlBA3M) | [Blue Escape](https://open.spotify.com/album/0RsioaII4X4rhcDGtpdM45) | 3:52 | 2021-08-05 | 2022-04-09 |
 | [Bodies](https://open.spotify.com/track/5mueyPaJsGl0bGiZSu1z0e) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Bodies](https://open.spotify.com/album/16mo5DcJexdaBnL0u5QAoS) | 3:29 | 2021-06-26 | 2022-04-16 |
+| [Bon Voyage](https://open.spotify.com/track/012jGdugVtQMUJn8s6onGo) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [Bon Voyage](https://open.spotify.com/album/7MkPMywDbiUC6QJ7J4Vgt9) | 3:24 | 2024-10-04 |  |
 | [Borderline](https://open.spotify.com/track/164QjgWOxnSZYHQghRKeC0) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Borderline](https://open.spotify.com/album/71bAwRaSVv4NIHmY61UutA) | 3:13 | 2023-02-10 |  |
 | [Bourgeoisieses](https://open.spotify.com/track/056bKm6W5j9QodOftRznUV) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Found Heaven](https://open.spotify.com/album/39gMxRpFKgIVvw3krIIam5) | 2:31 | 2024-04-19 | 2024-08-31 |
 | [Boys Don't Cry](https://open.spotify.com/track/35COLcFjvONwVv6jkG23gI) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Boys Don't Cry](https://open.spotify.com/album/7vvalwoghtZRu2Cv35WDgV) | 2:15 | 2022-01-28 | 2022-03-18 |
@@ -386,6 +387,7 @@
 | [Look To A Star](https://open.spotify.com/track/3Gg65zI31fM6sy7bAGzTOQ) | [Metteson](https://open.spotify.com/artist/6I6dO1Ytvcv32R1uzP5oZD) | [Look To A Star](https://open.spotify.com/album/73q30zKhxmR41pEkSmAZq6) | 3:30 | 2024-02-16 | 2024-05-25 |
 | [Lose Yourself](https://open.spotify.com/track/50BCSiudZXPTLHWkQzulII) | [Tsatsamis](https://open.spotify.com/artist/3z2RaxEObO8hXkvmG5xou0) | [Lose Yourself](https://open.spotify.com/album/31uaGLLLoSZcNLRjFviWfk) | 3:16 | 2022-04-29 | 2024-01-20 |
 | [Lost In The Moment](https://open.spotify.com/track/3nF5FjUP4W0QBxW4JCyUoa) | [Blanks](https://open.spotify.com/artist/7geo7fjTQyp13Wf2ALTZCF) | [Lost In The Moment](https://open.spotify.com/album/68WmmsPnVwG3ltUQaDY0JJ) | 2:33 | 2022-03-25 |  |
+| [Loud](https://open.spotify.com/track/7J73DwQWOPFVhxcCzxNzCj) | [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU) | [For Your Consideration \(Deluxe\)](https://open.spotify.com/album/2SclrCGehY3IuaVhp3MJpP) | 2:19 | 2024-10-04 |  |
 | [Love Her](https://open.spotify.com/track/2hgk8iKN9UdoM4ILlJ9F5N) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Happiness Begins](https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2) | 3:13 | 2020-10-13\* | 2021-02-19 |
 | [LOVE IS A...](https://open.spotify.com/track/26KB6jZEqehXJNpguKRomC) | [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [LOVE IS A...](https://open.spotify.com/album/4t2uQMc6hW16fiIAY1Cx2K) | 3:41 | 2023-05-19 | 2023-08-07 |
 | [LOVE IS A…](https://open.spotify.com/track/6CEwRvoydOQAXfteUT4OUN) | [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [EVERGREEN](https://open.spotify.com/album/4CLLPZzm1QDzUZ8FTkNPyy) | 3:41 | 2023-08-18 | 2023-09-25 |
@@ -693,7 +695,7 @@
 | [You Are In Love](https://open.spotify.com/track/2KrOAg6FftbjgSKdd2a4rS) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Deluxe\)](https://open.spotify.com/album/1yGbNOtRIgdIiGHOEBaZWf) | 4:27 | 2020-10-13\* | 2021-06-19 |
 | [You Better Mean It](https://open.spotify.com/track/0bUhuy0kJtK5P9yOqaJIOy) | [NIMMO](https://open.spotify.com/artist/76MojWoWNPzzKdrEspy5sl) | [You Better Mean It](https://open.spotify.com/album/0vsJlTPrEDe626pmZqVSfq) | 3:20 | 2022-10-28 | 2022-11-19 |
 | [You Know What I Need](https://open.spotify.com/track/5PQFmB2xhRkJTUWDKccBoP) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [You Know What I Need](https://open.spotify.com/album/0kktnSnWwAcdS0PQGAEcSM) | 2:50 | 2022-12-28 | 2023-09-25 |
-| [You Slept On Me](https://open.spotify.com/track/5ck0j6M9T01MxWhesQlGSW) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [Girl With No Face](https://open.spotify.com/album/10o3OFqQt0gqemtIcCh72x) | 4:11 | 2024-02-23 |  |
+| [You Slept On Me](https://open.spotify.com/track/5ck0j6M9T01MxWhesQlGSW) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [Girl With No Face](https://open.spotify.com/album/10o3OFqQt0gqemtIcCh72x) | 4:11 | 2024-02-23 | 2024-10-05 |
 | [You Want My …](https://open.spotify.com/track/7599UxhqJlpV013iiLCfZK) | [Bright Light Bright Light](https://open.spotify.com/artist/25bvQC4jyyFUce6jbzNlwb) | [You Want My ...](https://open.spotify.com/album/27zepHIiwqXIqBYB23Uc5D) | 3:26 | 2024-01-12 | 2024-03-09 |
 | [you were good to me \- shallou remix](https://open.spotify.com/track/4yQluMXsIRql36ErBHux2f) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3), [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp), [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [you were good to me \(shallou remix\)](https://open.spotify.com/album/64g22dqguD1J36xZssN3fe) | 3:49 | 2020-11-18 | 2021-06-19 |
 | [Your Shirt](https://open.spotify.com/track/6zdg9ovHEPx9EblJcc7FGf) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [Your Shirt](https://open.spotify.com/album/4uP2XlSUEX4VmW2nIcEgVb) | 3:50 | 2021-06-26 | 2022-01-08 |

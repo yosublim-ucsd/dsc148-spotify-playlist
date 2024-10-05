@@ -2,7 +2,7 @@
 
 ### [This Is Angelique Kidjo](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2WUSS8)
 
-> This is Angelique Kidjo\. Todos os maiores hits em uma só playlist.
+> This is Angelique Kidjo\. The essential tracks, all in one playlist.
 
 132 songs - 8 hr 44 min
 
@@ -53,7 +53,7 @@
 | [Eyin](https://open.spotify.com/track/6P0qBYmfNVbvydDYgdKS0j) | [Ibrahim Maalouf](https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb), [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Queen of Sheba](https://open.spotify.com/album/0HRNVgQeS6Ue3R1MwLdBQB) | 3:58 | 2022-07-02 | 2023-01-17 |
 | [Fifa](https://open.spotify.com/track/35NQTarBzSMdsGKkGqUOy4) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Fifa](https://open.spotify.com/album/5giLSbodWJ1gDHPgJIKVLm) | 3:57 | 2021-12-28 |  |
 | [Flying High](https://open.spotify.com/track/7bNc9SJKRyxkYbY0YRiMZS) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Mother Nature](https://open.spotify.com/album/3phDjtPilkdOx6nr66aXC5) | 2:53 | 2021-12-28 |  |
-| [Free & Equal](https://open.spotify.com/track/5fbj7p7obnBArZzPLdFiGM) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk) | [Mother Nature](https://open.spotify.com/album/3phDjtPilkdOx6nr66aXC5) | 3:09 | 2022-10-27 | 2024-09-30 |
+| [Free & Equal](https://open.spotify.com/track/5fbj7p7obnBArZzPLdFiGM) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk) | [Mother Nature](https://open.spotify.com/album/3phDjtPilkdOx6nr66aXC5) | 3:09 | 2022-10-27 |  |
 | [Gimme Shelter](https://open.spotify.com/track/3yFCAbInpUiqR1AqfUHizw) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [Joss Stone](https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi) | [Djin Djin](https://open.spotify.com/album/1Bb5UeMGzTX0n8Gm3U86MY) | 4:08 | 2022-03-30 | 2022-07-24 |
 | [Houses in Motion](https://open.spotify.com/track/0jvRTmaJPpR3DdrzhZgiML) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Remain in Light](https://open.spotify.com/album/4RWSXCDIk9HDCAjRFTPVcn) | 4:33 | 2021-12-30 | 2022-10-11 |
 | [Idje Idje](https://open.spotify.com/track/0DghtnUvSyAB0oLPu2rcYt) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Aye](https://open.spotify.com/album/1FmjOQhxwxC0flGj4PNdza) | 5:48 | 2022-01-02 | 2022-10-13 |
@@ -127,7 +127,7 @@
 | [Toda Fé](https://open.spotify.com/track/3xV19rax2PyYyVETsVF5yx) | [Gilmar Gomes](https://open.spotify.com/artist/2WYBgInncdBPxLsQAdr0QH), [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [Richard Bona](https://open.spotify.com/artist/70wm2qxYZ4i2KqcyyH2GyT) | [Toda Fé](https://open.spotify.com/album/6vnLNyaf690RoQr6C2TKbg) | 4:18 | 2023-06-18 | 2024-09-29 |
 | [Toda Fé \(feat\. Richard Bona & Angelique Kidjo\) \- Bonus Track Radio Edit](https://open.spotify.com/track/5zXBlBzpVtugPkzuYunFwA) | [Gilmar Gomes](https://open.spotify.com/artist/2WYBgInncdBPxLsQAdr0QH), [Richard Bona](https://open.spotify.com/artist/70wm2qxYZ4i2KqcyyH2GyT), [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Boarding Pass](https://open.spotify.com/album/3DzsgvhkI94OFVEXlR0u5t) | 3:06 | 2024-06-04 | 2024-08-17 |
 | [Toro Mata](https://open.spotify.com/track/6BgKLB3tbI3RbbWnLuA7qG) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Celia](https://open.spotify.com/album/0RV0acsVSRtBj0ngVHfzDD) | 4:30 | 2021-12-28 | 2023-01-23 |
-| [Try Everything](https://open.spotify.com/track/3V0ILZiWW8TStF12xdllmR) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Jazz Loves Disney 2 \- A Kind Of Magic](https://open.spotify.com/album/4WW0q6UgzpN1eJFqKZQzh7) | 3:40 | 2022-07-14 |  |
+| [Try Everything](https://open.spotify.com/track/3V0ILZiWW8TStF12xdllmR) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Jazz Loves Disney 2 \- A Kind Of Magic](https://open.spotify.com/album/4WW0q6UgzpN1eJFqKZQzh7) | 3:40 | 2022-07-14 | 2024-10-05 |
 | [Try Everything](https://open.spotify.com/track/6EoOCVMcsU0Lt0TssHR7CY) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Jazz Loves Disney 2 \- A Kind Of Magic](https://open.spotify.com/album/7eMvIgsmcohS24bmJ5rckU) | 3:40 | 2022-01-20 | 2023-10-11 |
 | [Voodoo Child \(Slight Return\)](https://open.spotify.com/track/58dd55dzYZDoXVZgBlHbIR) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Oremi](https://open.spotify.com/album/5qmp5Q8tcg2VIJ5mVctnAC) | 3:49 | 2021-12-28 |  |
 | [Wah Fu Dance \(feat\. Angelique Kidjo\)](https://open.spotify.com/track/4owkTdzI6xtBFRbnZQWFiK) | [Calypso Rose](https://open.spotify.com/artist/56QlZ0AFfkaaHyANLVkg5h), [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [So Calypso !](https://open.spotify.com/album/0Cr6LMHp2MfIaAB9wcsbzX) | 4:09 | 2022-05-27 |  |

@@ -1,6 +1,6 @@
 {
   "description": "Uma sele\u00e7\u00e3o sertaneja para voc\u00ea curtir a sua paix\u00e3o sem limites.",
-  "num_followers": 944484,
+  "num_followers": 944532,
   "original_name": "Paix\u00e3o Bandida",
   "owner": {
     "name": "Spotify",
@@ -459,26 +459,6 @@
     {
       "added_at": "2024-07-09 12:39:19",
       "album": {
-        "name": "Tem Moda Pra Tudo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/43Z8iIpoxaCrr27KILZJzs"
-      },
-      "artists": [
-        {
-          "name": "Matheus & Kauan",
-          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
-        },
-        {
-          "name": "Gusttavo Lima",
-          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
-        }
-      ],
-      "duration_ms": 161597,
-      "name": "M\u00e1gica - Live",
-      "url": "https://open.spotify.com/track/5cN5ZOVcYBl4Lnq50Zeqsx"
-    },
-    {
-      "added_at": "2024-07-09 12:39:19",
-      "album": {
         "name": "Namorando Sem Namorar",
         "url": "https://open.spotify.com/album/2ZrusXM8te9UHlB7GRiYfY"
       },
@@ -495,6 +475,26 @@
       "duration_ms": 191791,
       "name": "Namorando Sem Namorar",
       "url": "https://open.spotify.com/track/5h3pLJAZ4TMl4K0oz9GuYU"
+    },
+    {
+      "added_at": "2024-07-09 12:39:19",
+      "album": {
+        "name": "Tem Moda Pra Tudo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/43Z8iIpoxaCrr27KILZJzs"
+      },
+      "artists": [
+        {
+          "name": "Matheus & Kauan",
+          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
+        },
+        {
+          "name": "Gusttavo Lima",
+          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
+        }
+      ],
+      "duration_ms": 161597,
+      "name": "M\u00e1gica - Live",
+      "url": "https://open.spotify.com/track/5cN5ZOVcYBl4Lnq50Zeqsx"
     },
     {
       "added_at": "2024-07-09 12:39:19",
@@ -551,22 +551,18 @@
     {
       "added_at": "2024-07-09 12:39:19",
       "album": {
-        "name": "Vagabundo",
-        "url": "https://open.spotify.com/album/7fUBlrxykadQWJx0Jikf3v"
+        "name": "Identidade, Ep. 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/28lkxsDDOs1MlWhomdvLcF"
       },
       "artists": [
         {
-          "name": "Matheus & Kauan",
-          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
-        },
-        {
-          "name": "Z\u00e9 Vaqueiro",
-          "url": "https://open.spotify.com/artist/5K8Rmjmf4RZFffz94EmBRt"
+          "name": "Maiara & Maraisa",
+          "url": "https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se"
         }
       ],
-      "duration_ms": 165380,
-      "name": "Vagabundo",
-      "url": "https://open.spotify.com/track/6Lrzxd7ST5oQ6FYKXKH7Ia"
+      "duration_ms": 165000,
+      "name": "A Culpa \u00c9 Nossa - Ao Vivo",
+      "url": "https://open.spotify.com/track/7nwHsYxiuHo98dLI7UVkyn"
     },
     {
       "added_at": "2024-07-09 12:39:19",
@@ -587,18 +583,22 @@
     {
       "added_at": "2024-07-09 12:39:19",
       "album": {
-        "name": "Identidade, Ep. 1 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/28lkxsDDOs1MlWhomdvLcF"
+        "name": "Vagabundo",
+        "url": "https://open.spotify.com/album/7fUBlrxykadQWJx0Jikf3v"
       },
       "artists": [
         {
-          "name": "Maiara & Maraisa",
-          "url": "https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se"
+          "name": "Matheus & Kauan",
+          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
+        },
+        {
+          "name": "Z\u00e9 Vaqueiro",
+          "url": "https://open.spotify.com/artist/5K8Rmjmf4RZFffz94EmBRt"
         }
       ],
-      "duration_ms": 165000,
-      "name": "A Culpa \u00c9 Nossa - Ao Vivo",
-      "url": "https://open.spotify.com/track/7nwHsYxiuHo98dLI7UVkyn"
+      "duration_ms": 165380,
+      "name": "Vagabundo",
+      "url": "https://open.spotify.com/track/6Lrzxd7ST5oQ6FYKXKH7Ia"
     },
     {
       "added_at": "2024-07-09 12:39:19",
@@ -635,26 +635,6 @@
     {
       "added_at": "2024-07-09 12:39:19",
       "album": {
-        "name": "Surto De Amor (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6ylhMJnWhwgus36dtMEGWi"
-      },
-      "artists": [
-        {
-          "name": "Bruno & Marrone",
-          "url": "https://open.spotify.com/artist/5JXhkyafynxCvxtov7C1PV"
-        },
-        {
-          "name": "Jorge & Mateus",
-          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
-        }
-      ],
-      "duration_ms": 157202,
-      "name": "Surto De Amor - Ao Vivo Em Uberl\u00e2ndia / 2018",
-      "url": "https://open.spotify.com/track/4N0I8lmbLPmH8qdlFIjuOU"
-    },
-    {
-      "added_at": "2024-07-09 12:39:19",
-      "album": {
         "name": "N\u00e3o Fala N\u00e3o pra Mim",
         "url": "https://open.spotify.com/album/6ARrHdaTbtLGCYzs5ZGrHG"
       },
@@ -675,18 +655,22 @@
     {
       "added_at": "2024-07-09 12:39:19",
       "album": {
-        "name": "Intensamente Hoje!",
-        "url": "https://open.spotify.com/album/537cWg3a0Fn9zmPllBPMGh"
+        "name": "Surto De Amor (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6ylhMJnWhwgus36dtMEGWi"
       },
       "artists": [
         {
-          "name": "Matheus & Kauan",
-          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
+          "name": "Bruno & Marrone",
+          "url": "https://open.spotify.com/artist/5JXhkyafynxCvxtov7C1PV"
+        },
+        {
+          "name": "Jorge & Mateus",
+          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
         }
       ],
-      "duration_ms": 170459,
-      "name": "T\u00f4 Com Moral No C\u00e9u! - Ao Vivo",
-      "url": "https://open.spotify.com/track/0uwaiApk6k7k9POyFjTKeR"
+      "duration_ms": 157202,
+      "name": "Surto De Amor - Ao Vivo Em Uberl\u00e2ndia / 2018",
+      "url": "https://open.spotify.com/track/4N0I8lmbLPmH8qdlFIjuOU"
     },
     {
       "added_at": "2024-07-09 12:39:19",
@@ -703,22 +687,6 @@
       "duration_ms": 173226,
       "name": "Cora\u00e7\u00e3o Na Cama - Ao Vivo",
       "url": "https://open.spotify.com/track/2nZj5YymF54qhAu7RneVP6"
-    },
-    {
-      "added_at": "2024-07-09 12:39:19",
-      "album": {
-        "name": "Tijol\u00e3o (ao Vivo)",
-        "url": "https://open.spotify.com/album/5DE5SfB2vmYatVH6tpAb49"
-      },
-      "artists": [
-        {
-          "name": "Jorge & Mateus",
-          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
-        }
-      ],
-      "duration_ms": 175219,
-      "name": "Tijol\u00e3o - Ao Vivo",
-      "url": "https://open.spotify.com/track/6QwFUcPc5nhsqZuhXUYtV7"
     },
     {
       "added_at": "2024-07-09 12:39:19",
@@ -743,18 +711,18 @@
     {
       "added_at": "2024-07-09 12:39:19",
       "album": {
-        "name": "Ac\u00fastico (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3xCayP2LKZhZotGfzVT9Fx"
+        "name": "Tijol\u00e3o (ao Vivo)",
+        "url": "https://open.spotify.com/album/5DE5SfB2vmYatVH6tpAb49"
       },
       "artists": [
         {
-          "name": "Luan Santana",
-          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
+          "name": "Jorge & Mateus",
+          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
         }
       ],
-      "duration_ms": 243813,
-      "name": "Escreve A\u00ed - Ao Vivo",
-      "url": "https://open.spotify.com/track/69uKYDeTWn1wFssqP6OZjb"
+      "duration_ms": 175219,
+      "name": "Tijol\u00e3o - Ao Vivo",
+      "url": "https://open.spotify.com/track/6QwFUcPc5nhsqZuhXUYtV7"
     },
     {
       "added_at": "2024-07-09 12:39:19",
@@ -795,18 +763,34 @@
     {
       "added_at": "2024-07-09 12:39:19",
       "album": {
-        "name": "Com ou Sem Mim (Ao Vivo)",
-        "url": "https://open.spotify.com/album/17SPskG8HKXZ9kAYzMYz7r"
+        "name": "Intensamente Hoje!",
+        "url": "https://open.spotify.com/album/537cWg3a0Fn9zmPllBPMGh"
       },
       "artists": [
         {
-          "name": "Gustavo Mioto",
-          "url": "https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP"
+          "name": "Matheus & Kauan",
+          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
         }
       ],
-      "duration_ms": 201856,
-      "name": "Com ou Sem Mim - Ao Vivo",
-      "url": "https://open.spotify.com/track/2BU6XXSG8SqiptRuj6EiLA"
+      "duration_ms": 170459,
+      "name": "T\u00f4 Com Moral No C\u00e9u! - Ao Vivo",
+      "url": "https://open.spotify.com/track/0uwaiApk6k7k9POyFjTKeR"
+    },
+    {
+      "added_at": "2024-07-09 12:39:19",
+      "album": {
+        "name": "Ac\u00fastico (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3xCayP2LKZhZotGfzVT9Fx"
+      },
+      "artists": [
+        {
+          "name": "Luan Santana",
+          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
+        }
+      ],
+      "duration_ms": 243813,
+      "name": "Escreve A\u00ed - Ao Vivo",
+      "url": "https://open.spotify.com/track/69uKYDeTWn1wFssqP6OZjb"
     },
     {
       "added_at": "2024-07-09 12:39:19",
@@ -823,6 +807,22 @@
       "duration_ms": 181846,
       "name": "Pulei na Piscina - Ao Vivo",
       "url": "https://open.spotify.com/track/1uA7fD01YlQr1Rm0oyNB4H"
+    },
+    {
+      "added_at": "2024-07-09 12:39:19",
+      "album": {
+        "name": "Com ou Sem Mim (Ao Vivo)",
+        "url": "https://open.spotify.com/album/17SPskG8HKXZ9kAYzMYz7r"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Mioto",
+          "url": "https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP"
+        }
+      ],
+      "duration_ms": 201856,
+      "name": "Com ou Sem Mim - Ao Vivo",
+      "url": "https://open.spotify.com/track/2BU6XXSG8SqiptRuj6EiLA"
     },
     {
       "added_at": "2024-07-09 12:39:19",

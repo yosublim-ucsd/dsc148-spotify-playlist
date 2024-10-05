@@ -1485,6 +1485,24 @@
     },
     {
       "album": {
+        "name": "Amnesia",
+        "url": "https://open.spotify.com/album/0Veqr59WbWNYQYBrASjr67"
+      },
+      "artists": [
+        {
+          "name": "softclouds",
+          "url": "https://open.spotify.com/artist/4rjXInANFMCQfAzadFAi4d"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145781,
+      "name": "Amnesia",
+      "url": "https://open.spotify.com/track/45jbQ3dPOPRXrUfUnRwnCN"
+    },
+    {
+      "album": {
         "name": "among the trees",
         "url": "https://open.spotify.com/album/2xV69A1DRRJmSaNpXTMVBg"
       },
@@ -3066,7 +3084,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 126857,
       "name": "better with time",
       "url": "https://open.spotify.com/track/0Ugvk7jf6yOnhDVr5dM4nl"
@@ -3556,6 +3574,28 @@
       "duration_ms": 140831,
       "name": "Blue Dreams",
       "url": "https://open.spotify.com/track/78O6tbX43PEAEulNlaJSYK"
+    },
+    {
+      "album": {
+        "name": "blue moon",
+        "url": "https://open.spotify.com/album/0WXeO9tFBMFy8bTnGsDNBW"
+      },
+      "artists": [
+        {
+          "name": "johto",
+          "url": "https://open.spotify.com/artist/7B2DA6KU0k3hJaENyOBXB4"
+        },
+        {
+          "name": "Samwise",
+          "url": "https://open.spotify.com/artist/0yFBqybFvMQp2y7AanSl0Z"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138000,
+      "name": "blue moon",
+      "url": "https://open.spotify.com/track/1jTP8vi2XAILpRTDG6xwx7"
     },
     {
       "album": {
@@ -7586,6 +7626,24 @@
       "duration_ms": 131351,
       "name": "Decisions",
       "url": "https://open.spotify.com/track/68zNrXhX4kj7OCXaxGcG45"
+    },
+    {
+      "album": {
+        "name": "Deep Blue Dream",
+        "url": "https://open.spotify.com/album/3CFaRM1b3dehFSsBaBcseB"
+      },
+      "artists": [
+        {
+          "name": "Curli Loxx",
+          "url": "https://open.spotify.com/artist/72VXvG3lgyD6jsQyr6J05m"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181874,
+      "name": "Deep Blue Dream",
+      "url": "https://open.spotify.com/track/4f9InuUz4uZuN2970RymXW"
     },
     {
       "album": {
@@ -12099,6 +12157,28 @@
     },
     {
       "album": {
+        "name": "from me to you",
+        "url": "https://open.spotify.com/album/2zA83nS4c387YDMy3Os69u"
+      },
+      "artists": [
+        {
+          "name": "Lenny Loops",
+          "url": "https://open.spotify.com/artist/6MvnyPinXRQbUCMsPoymhR"
+        },
+        {
+          "name": "Dontcry",
+          "url": "https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135384,
+      "name": "from me to you",
+      "url": "https://open.spotify.com/track/5WSeGLrVasweaWijZOrlyt"
+    },
+    {
+      "album": {
         "name": "Frontal Lowb",
         "url": "https://open.spotify.com/album/2f5GnE9LdGgvKhAPTE6bxC"
       },
@@ -12400,7 +12480,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 136666,
       "name": "Getaway Shack",
       "url": "https://open.spotify.com/track/2g5p0HAHft0wEphhZGFrS1"
@@ -19730,7 +19810,7 @@
       ],
       "date_added": "2023-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 168093,
       "name": "Marina",
       "url": "https://open.spotify.com/track/5u6wwqDd7y1O32Rrm8Fwei"
@@ -25772,7 +25852,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 103210,
       "name": "river of you",
       "url": "https://open.spotify.com/track/73EgHvRzzMU9ARkwprMgTR"

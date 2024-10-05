@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Pasad\u00eda y sabrosura!",
-  "num_followers": 34395,
+  "num_followers": 34434,
   "original_name": "\u00c9xitos de Balneario",
   "owner": {
     "name": "Spotify",
@@ -271,6 +271,22 @@
     {
       "added_at": "2024-07-12 23:11:55",
       "album": {
+        "name": "Con Arena Nueva",
+        "url": "https://open.spotify.com/album/3s4SgRWrFjQYwpEki8HZI5"
+      },
+      "artists": [
+        {
+          "name": "Rikarena",
+          "url": "https://open.spotify.com/artist/2Z0C8UvMoiixS0cRV8Urtr"
+        }
+      ],
+      "duration_ms": 261133,
+      "name": "Cuando el Amor se Da\u00f1a",
+      "url": "https://open.spotify.com/track/4uq7AHJBZbXE6jqIVqQD5A"
+    },
+    {
+      "added_at": "2024-07-12 23:11:55",
+      "album": {
         "name": "\u00c9xitos Armando Hern\u00e1ndez",
         "url": "https://open.spotify.com/album/6kYrAOmvOl0sr7AALZRr6f"
       },
@@ -287,22 +303,6 @@
       "duration_ms": 287459,
       "name": "Loquito por Ti",
       "url": "https://open.spotify.com/track/5pLDHytVHRM7eXnOy6zHM7"
-    },
-    {
-      "added_at": "2024-07-12 23:11:55",
-      "album": {
-        "name": "Con Arena Nueva",
-        "url": "https://open.spotify.com/album/3s4SgRWrFjQYwpEki8HZI5"
-      },
-      "artists": [
-        {
-          "name": "Rikarena",
-          "url": "https://open.spotify.com/artist/2Z0C8UvMoiixS0cRV8Urtr"
-        }
-      ],
-      "duration_ms": 261133,
-      "name": "Cuando el Amor se Da\u00f1a",
-      "url": "https://open.spotify.com/track/4uq7AHJBZbXE6jqIVqQD5A"
     },
     {
       "added_at": "2024-07-12 23:11:55",

@@ -4,7 +4,7 @@
 
 > Coldplay in cover + le migliori uscite di questa settimana!
 
-2,035 songs - 4 day 6 hr 41 min
+2,037 songs - 4 day 6 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -818,6 +818,7 @@
 | [I Cloud](https://open.spotify.com/track/33fBJl6qvjJaHIHdn8NZhG) | [Pan Dan](https://open.spotify.com/artist/4vfG2njRnPeOTEq3OpW3T6) | [I Cloud](https://open.spotify.com/album/4w5Iy95nB5QpGTzantmuUz) | 4:00 | 2024-07-04 | 2024-07-12 |
 | [I colori dell'alba](https://open.spotify.com/track/2vDF8vtgjK2PRbeea9QAYS) | [Aaron](https://open.spotify.com/artist/3ONAXWCJeNG7NwQulOI8e0) | [I colori dell'alba](https://open.spotify.com/album/4czY6mzx9up6r6QWHjDvKO) | 2:54 | 2024-05-09 | 2024-05-17 |
 | [I Do](https://open.spotify.com/track/4lpmTrDLgZeAGinQxRabN1) | [Simon Says!](https://open.spotify.com/artist/186v5tVeJT1K15be0J5vKe) | [I Do](https://open.spotify.com/album/5zEzyahfKKizg2qvUmmn1Z) | 2:35 | 2024-05-31 | 2024-06-07 |
+| [I Do \(feat\. Muni Long\)](https://open.spotify.com/track/5TbYIeYkGgGtYL7sms7m9N) | [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [JADED](https://open.spotify.com/album/1XcpYmfE4vYCKeLQYINlO7) | 2:46 | 2024-10-04 |  |
 | [I don't know](https://open.spotify.com/track/71Smt8JFiuk8VwfaOciWUx) | [Vanarin](https://open.spotify.com/artist/5h8413E0PoCuNBc6tLIANb) | [I don't know](https://open.spotify.com/album/4GYXHpqgZAvXJO56O32sBW) | 3:17 | 2024-08-22 | 2024-08-30 |
 | [I Don't Wanna Go Downtown](https://open.spotify.com/track/7tnvzuwBCzMcSqYlLgOyRU) | [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [WILD CHILD](https://open.spotify.com/album/0BA7J5iUJHMnKrCga3m5pR) | 2:13 | 2024-08-22 | 2024-08-30 |
 | [I Feel You](https://open.spotify.com/track/1FjrTr0IVabwKR93xUR6FS) | [KAWALA](https://open.spotify.com/artist/58bHgbHOExsHSOGlf0uUkL) | [I Feel You](https://open.spotify.com/album/5nO3sdRL4yMFlmFtl7TMJB) | 2:36 | 2024-07-18 | 2024-07-27 |
@@ -1132,6 +1133,7 @@
 | [MI HA PUNTO UN SERPENTE](https://open.spotify.com/track/0AIqgyRJIjrgGqfwIaNyLZ) | [SAMUEL COSTA](https://open.spotify.com/artist/1DE8FISOdzyiTkQuYahig2) | [MI HA PUNTO UN SERPENTE](https://open.spotify.com/album/4LDfYOFcJ7Je1c35U4WB3X) | 1:45 | 2024-06-13 | 2024-06-21 |
 | [Mi piace](https://open.spotify.com/track/5NyXzFAkeyYsCiulVoNf6i) | [Anna Castiglia](https://open.spotify.com/artist/3BSckhNAabodVgd9NkHyJV) | [MI PIACE](https://open.spotify.com/album/4rLZXXONOIbcT6hu55QioY) | 2:35 | 2024-09-26 | 2024-10-04 |
 | [Mi piace](https://open.spotify.com/track/6L1Vn4Sylnvm1aWDVyM5HA) | [Flamen](https://open.spotify.com/artist/0v8ujlLqWIfCTv9aK3nGMe) | [Mi piace](https://open.spotify.com/album/1GG6KWNtIcVYasYtTcERFw) | 2:54 | 2024-08-22 | 2024-08-30 |
+| [Mi Tormenta \(feat\. DannyLux\)](https://open.spotify.com/track/2aWBskyssdR9VyVV3dH65j) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Mi Tormenta \(feat\. DannyLux\)](https://open.spotify.com/album/2fQK7PAhWR8oEsS7nqQCCs) | 3:22 | 2024-10-04 |  |
 | [MIA](https://open.spotify.com/track/4a8jvaNPoKtUPg0lvMYwpy) | [Fata](https://open.spotify.com/artist/2e0HLVyPlF5jP9khNWfV3m) | [MIA](https://open.spotify.com/album/4rMkN9uKA447BTvYU6NZTa) | 2:20 | 2024-07-18 | 2024-07-27 |
 | [MIA](https://open.spotify.com/track/027cL9a3wGIyyKghfDEJEB) | [Sayf](https://open.spotify.com/artist/3HAwumPgGOSXlZSyGWuLhB) | [MIA](https://open.spotify.com/album/4AeYKWj2bcyrKmcO7NURoG) | 2:51 | 2024-07-18 | 2024-07-27 |
 | [Mia / Niente da perdere](https://open.spotify.com/track/1MyPoVnakQSGWtfl1lqFSp) | [Soave](https://open.spotify.com/artist/4lfpDO5m3RdKU2859LXmsN) | [Mia / Niente da perdere](https://open.spotify.com/album/3UTZzJOWjOMPf74nPEsArv) | 2:15 | 2024-07-18 | 2024-07-27 |

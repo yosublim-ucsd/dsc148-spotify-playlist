@@ -4,7 +4,7 @@
 
 > Relaxing classical piano.
 
-111 songs - 7 hr 21 min
+112 songs - 7 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [9 Préludes, Op\. 103: No\. 3 in G Minor](https://open.spotify.com/track/1BOnTkDVtWwyAZt8i9TQ9X) | [Gabriel Fauré](https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO), [Lucas Debargue](https://open.spotify.com/artist/3gGFrz3hjzLPTKFwjzfm3n) | [Fauré: Complete Music for Solo Piano](https://open.spotify.com/album/3wvlEOwMQI0rujg57v9h1m) | 3:35 | 2024-03-22 | 2024-04-19 |
 | [Album Leaf for Kateřina Kolářová in B Major, JB 1:20](https://open.spotify.com/track/77GzaYoAfUtO3Fx4TtuDo1) | [Bedřich Smetana](https://open.spotify.com/artist/25Eab1kIY1gh0Yo1oV04G4), [Jitka Čechová](https://open.spotify.com/artist/5Y25U2cOdB0UQ56nL8RcKX) | [Smetana: Piano Works, Vol\. 6](https://open.spotify.com/album/1bZmZSIFsRl8JJ6uY4vklZ) | 1:57 | 2022-07-08 | 2024-04-19 |
 | [Album Leaves \(Stammbuchblätter\): I\. For Kateřina Kolářová](https://open.spotify.com/track/2czqg4YLVDdeDIvr8rYxyc) | [Bedřich Smetana](https://open.spotify.com/artist/25Eab1kIY1gh0Yo1oV04G4), [Jitka Čechová](https://open.spotify.com/artist/5Y25U2cOdB0UQ56nL8RcKX) | [Smetana: Piano Works 6](https://open.spotify.com/album/03lo5FIUM2JhOs66qCDFtg) | 1:57 | 2022-01-27 |  |
+| [Andante from Piano Concerto No\. 2, Opus 102 \(arr\. Kaviani\)](https://open.spotify.com/track/4UGQgV8EwO6hnUVuZpLxfq) | [Dmitri Shostakovich](https://open.spotify.com/artist/6s1pCNXcbdtQJlsnM1hRIA), [ARSHA KAVIANI](https://open.spotify.com/artist/6X2QoSBLc6zeYdIQrtLNed) | [Accents & Echoes](https://open.spotify.com/album/6hitDfHO4Bhp0709ZY2Mag) | 4:48 | 2024-10-04 |  |
 | [Après un rêve, Op\. 7, No\. 1 \(Arr\. Piano\)](https://open.spotify.com/track/0d71p8tQDxLgdTkEHcxQyl) | [Gabriel Fauré](https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO), [Alan Feinberg](https://open.spotify.com/artist/7cTvdUU1BZYBATq6QdfZO6) | [The American Virtuoso](https://open.spotify.com/album/0vdIwOj00vVbRNxi70rurD) | 3:18 | 2021-12-06 |  |
 | [Bach, JS / Arr\. Kempff: Flute Sonata No\. 2 in E\-Flat Major, BWV 1031: II\. Siciliano](https://open.spotify.com/track/5Zp1QBSyZbfggs3pf08nri) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Andrew von Oeyen](https://open.spotify.com/artist/37DoQwtzVqshZVU8WfmzW0) | [Bach & Beethoven \- Bach: Flute Sonata No\. 2 in E\-Flat Major, BWV 1031: II\. Siciliano \(Arr\. for Piano by Kempff\)](https://open.spotify.com/album/5BHddASCiabmP8SO3RXrGW) | 3:53 | 2021-12-06 |  |
 | [Bach, JS: Goldberg Variations, BWV 988: Aria](https://open.spotify.com/track/5oc54CC6nWMJPmzsgLvYnR) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [David Fray](https://open.spotify.com/artist/6ngR3n1aQ7GLB5w46hqSWR) | [Bach, JS: Goldberg Variations](https://open.spotify.com/album/3WLdlJT0bQwUxN9RW6unsK) | 5:12 | 2021-12-06 |  |

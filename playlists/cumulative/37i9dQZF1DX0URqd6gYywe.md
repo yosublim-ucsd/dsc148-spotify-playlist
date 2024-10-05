@@ -2,9 +2,9 @@
 
 ### [Baladas Rock](https://open.spotify.com/playlist/37i9dQZF1DX0URqd6gYywe)
 
-> Dejate llevar por los mejores lentos del rock\. Foto: El Plan De La Mariposa
+> Dejate llevar por los mejores lentos del rock\. Foto: Turf y Milo j
 
-174 songs - 11 hr 57 min
+176 songs - 12 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [Amor Es Dinero / Remo Erdosain](https://open.spotify.com/track/7pExh21ZPAIiH5mPn3sjYB) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [Futurología Arlt](https://open.spotify.com/album/3ohXbHtGxu0wDg70yOjeCn) | 1:34 | 2022-06-03 | 2022-07-05 |
 | [Ando Ganas \(Llora Llora\)](https://open.spotify.com/track/3JE8qYm4luylvVnhVuUfvC) | [Los Piojos](https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU) | [Ay Ay Ay](https://open.spotify.com/album/7DApDgESPxFvCUbZWVXVHB) | 5:30 | 2022-07-06 | 2024-04-19 |
 | [Ando Ganas \(Llora Llora\)](https://open.spotify.com/track/4vsmIkU6VJa9dXXqasvzx0) | [Los Piojos](https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU) | [Ay Ay Ay](https://open.spotify.com/album/2yk0KfigUqjNZSY0cov92M) | 5:30 | 2022-06-03 | 2024-07-27 |
-| [Arariyo](https://open.spotify.com/track/14WX41twek7T3yKsLUA6JN) | [Eté & Los Problems](https://open.spotify.com/artist/708Cl7fLtLt0QkD1sFOTZk) | [Arariyo](https://open.spotify.com/album/6r3fduiWdDrWIvjdpewheP) | 4:30 | 2024-01-04 |  |
+| [Arariyo](https://open.spotify.com/track/14WX41twek7T3yKsLUA6JN) | [Eté & Los Problems](https://open.spotify.com/artist/708Cl7fLtLt0QkD1sFOTZk) | [Arariyo](https://open.spotify.com/album/6r3fduiWdDrWIvjdpewheP) | 4:30 | 2024-01-04 | 2024-10-05 |
 | [Arrancacorazones](https://open.spotify.com/track/2zogXcCqvKJwh3o67W3GG3) | [Attaque 77](https://open.spotify.com/artist/5rI6C5mJm6GYXbGHhpHTu9) | [Antihumano](https://open.spotify.com/album/3NsuNDcnIc0jAxpC9svIbz) | 4:19 | 2022-06-03 |  |
 | [Así](https://open.spotify.com/track/1UZCVYRJ2qZaUEMrsqIJkI) | [Manuel Wirzt](https://open.spotify.com/artist/27kA8TnszsSYSZDikpz0Ra) | [Así](https://open.spotify.com/album/2J0X6FPGlp14rymZQQN1ZD) | 4:14 | 2024-05-10 |  |
 | [Bajan](https://open.spotify.com/track/6hmYi0E6EBEmDeztQHaH0C) | [Pescado Rabioso](https://open.spotify.com/artist/3q1NXsv9XypOUCJfEatXH9) | [Artaud](https://open.spotify.com/album/5MJR9j21vjEi4ODxzhvoTA) | 3:24 | 2022-06-03 |  |
@@ -111,6 +111,7 @@
 | [Medalla de Oro](https://open.spotify.com/track/3foBo7v9p1AJQ26GgmTq4S) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Súper Terror](https://open.spotify.com/album/7iOJ8uRQ1mylHA2ndpzYkS) | 5:40 | 2023-11-10 | 2024-02-04 |
 | [Medalla de Oro](https://open.spotify.com/track/6AYJMjeqTFhpdZA7vhm1Wd) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Medalla de Oro](https://open.spotify.com/album/3nwloOc33MQQ7meysq3KNU) | 5:40 | 2023-03-03 | 2024-05-12 |
 | [Mejor Callar](https://open.spotify.com/track/5eWPf8IUMtKXCtolSh678f) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [Luz](https://open.spotify.com/album/4C6joZxFL6lTg6tJDE9N6o) | 3:55 | 2022-07-06 |  |
+| [Melodía del Adiós](https://open.spotify.com/track/6tbNnSpsaRBjqszmWU6JEd) | [LOBEL](https://open.spotify.com/artist/6ZYC3LeRCpUZheX0WKVPGl) | [Melodía del Adiós](https://open.spotify.com/album/5xuoOnrivnxR4MOiOoafWY) | 3:38 | 2024-10-04 |  |
 | [Miel](https://open.spotify.com/track/1L8TwjgQ8kgvFJbpp2ODiO) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [Zoe Exitos](https://open.spotify.com/album/0A9jGSvMMxAQr9iNb5p1hr) | 5:18 | 2022-07-06 |  |
 | [Mil Guerras](https://open.spotify.com/track/31sb8D24KYJ1tLvwL6Pdd6) | [RYAN](https://open.spotify.com/artist/3g7K56xAln97Nmy0G1hx8E) | [Vaqueros](https://open.spotify.com/album/3TdceuWSFHJExeVZmKPFbW) | 3:16 | 2024-09-19 |  |
 | [Mirenla](https://open.spotify.com/track/027NtsXW0vpDFhzxsJKmTL) | [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi) | [27](https://open.spotify.com/album/2TzE5fyGKtTkci8iFNf6zW) | 4:16 | 2022-06-03 | 2024-06-07 |
@@ -126,7 +127,7 @@
 | [No Te Apartes de Mí \(feat\. Valeria Bertuccelli\)](https://open.spotify.com/track/74KqkyHbpneHF6JT8EwUOO) | [Vicentico](https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ), [Valeria Bertuccelli](https://open.spotify.com/artist/1Kz4kgtxJWKTmi4w2ZnDEN) | [Vicentico 5](https://open.spotify.com/album/1XKqjErvJYimD94yD3v6ky) | 3:18 | 2022-06-03 |  |
 | [Nos guiarán los mares](https://open.spotify.com/track/4aKCApTgKgCxv1yT90PWoG) | [Manu Pozzi](https://open.spotify.com/artist/0CjS0CI9NnpXEhaS1FHJD0), [El Plan De La Mariposa](https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir) | [Nos guiarán los mares](https://open.spotify.com/album/1NoRK5hqH1yqp8wcJKNEhY) | 4:27 | 2022-06-03 | 2022-07-06 |
 | [Nunca Lo Olvides](https://open.spotify.com/track/1qAMb1y3o7Olwm8pYTuzyV) | [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr) | [Nunca Lo Olvides](https://open.spotify.com/album/6ZDbOUt4FRdFgQEbhJyFui) | 4:59 | 2023-12-08 |  |
-| [Nunca Nos Apagó](https://open.spotify.com/track/21TdNfpltw2dtXnnJiOjcD) | [Wayra Iglesias](https://open.spotify.com/artist/1N7yGYBWACnuv2xw0QGdvw) | [La Suerte de Encontrarme](https://open.spotify.com/album/6Mvw1I6WTBv9RKqwBC9Rol) | 3:21 | 2024-05-10 |  |
+| [Nunca Nos Apagó](https://open.spotify.com/track/21TdNfpltw2dtXnnJiOjcD) | [Wayra Iglesias](https://open.spotify.com/artist/1N7yGYBWACnuv2xw0QGdvw) | [La Suerte de Encontrarme](https://open.spotify.com/album/6Mvw1I6WTBv9RKqwBC9Rol) | 3:21 | 2024-05-10 | 2024-10-05 |
 | [Nunca quise](https://open.spotify.com/track/0ZAJ660VP57lLK4U7NlGOy) | [Intoxicados](https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF) | [Otro Día en el Planeta Tierra](https://open.spotify.com/album/4Q2jY2HQPZxGimNjoKFKaC) | 4:20 | 2022-06-03 |  |
 | [Oda a la Sin Nombre](https://open.spotify.com/track/5l6HQ03qnofn7Us7cADWQg) | [Skay Beilinson](https://open.spotify.com/artist/4K8Mrjr9IvA8QU0Vjj4BED) | [A Través del Mar de los Sargazos](https://open.spotify.com/album/3eES9LlGLw5o7ZNbOfmscZ) | 4:32 | 2022-06-03 |  |
 | [Ojos de Río](https://open.spotify.com/track/34CitYnMwJBLJ7QA8KvEmu) | [Ricardo Mollo](https://open.spotify.com/artist/7M6qgWRcVoBqgkczMPT1x7) | [Ojos de Río](https://open.spotify.com/album/1W25OQ778TBaQavVNcxXm1) | 2:16 | 2022-06-03 | 2024-05-18 |
@@ -136,6 +137,7 @@
 | [Oxidado](https://open.spotify.com/track/32YkpyPZ6taMEEb8TBLcrr) | [Los Caballeros De La Quema](https://open.spotify.com/artist/6Iv9dXeKX45ff7qe0LDuFW) | [La Paciencia De La Araña](https://open.spotify.com/album/7urCdolaxQ3YUQlI8Bhj41) | 5:17 | 2022-06-03 |  |
 | [Pacífico \(Sinfónico\)](https://open.spotify.com/track/5mdslcMMZJ85qapl4JTZ1F) | [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi), [Orquesta Filarmónica de Mendoza](https://open.spotify.com/artist/6Ng5Pb3WWoWPn1dZBKb02s) | [Pacífico \(Sinfónico\)](https://open.spotify.com/album/0Ao4Zv9KNM0D7EW2FG6cF4) | 5:20 | 2022-06-03 | 2022-07-29 |
 | [Pasan las Horas \- En Vivo Acústico](https://open.spotify.com/track/4PZVup7z7oXGhwvzsygBMw) | [Guasones](https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o) | [Acústico Gran Rex](https://open.spotify.com/album/3RBBy6nRQ3BHhLjrJ7m86Q) | 4:36 | 2022-06-03 |  |
+| [Pasos Al Costado](https://open.spotify.com/track/2CHRH34SWRjo1hvvbnpDww) | [Turf](https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1), [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [Pasos Al Costado](https://open.spotify.com/album/0RIsFI6QTHoMkrs46q3ApG) | 4:00 | 2024-10-04 |  |
 | [Pensamientos](https://open.spotify.com/track/1daUWaMsFC5RM4HKydKJoG) | [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr) | [Pensamientos](https://open.spotify.com/album/2RYIfoNF29kFoR60jOpaHf) | 3:53 | 2022-06-03 |  |
 | [Personalmente](https://open.spotify.com/track/7q7XFO9av9VpNJSXKJwJxD) | [Las Pelotas](https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs) | [Despierta](https://open.spotify.com/album/0289kJfdXVBPSDJfQ1fPJz) | 4:10 | 2022-06-03 |  |
 | [Por Mil Noches](https://open.spotify.com/track/10zSgbysU2KyVTrcRmtu62) | [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr) | [Libertad](https://open.spotify.com/album/44V33dl0drKUZAcrGcL0sN) | 4:43 | 2022-06-03 |  |

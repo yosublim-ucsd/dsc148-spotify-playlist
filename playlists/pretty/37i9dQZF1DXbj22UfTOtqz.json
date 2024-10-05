@@ -1,6 +1,6 @@
 {
   "description": "Cl\u00e1sicos del Hip Hop para toda la familia a disfrutar.",
-  "num_followers": 11372,
+  "num_followers": 11382,
   "original_name": "Historia del Hip Hop",
   "owner": {
     "name": "Spotify",
@@ -575,6 +575,22 @@
     {
       "added_at": "2021-04-21 17:09:31",
       "album": {
+        "name": "Rhino Hi-Five: The Sugarhill Gang",
+        "url": "https://open.spotify.com/album/5ccON60mNYkYjzOfu3XBoT"
+      },
+      "artists": [
+        {
+          "name": "The Sugarhill Gang",
+          "url": "https://open.spotify.com/artist/7zliF6Q946WznVk3ZMYhZX"
+        }
+      ],
+      "duration_ms": 427360,
+      "name": "Rapper's Delight",
+      "url": "https://open.spotify.com/track/0FWhGmPVxLI6jOVF0wjALa"
+    },
+    {
+      "added_at": "2021-04-21 17:09:31",
+      "album": {
         "name": "So...How's Your Girl?",
         "url": "https://open.spotify.com/album/5wB26siHPt7fbEeUoZU5j7"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 337200,
       "name": "The Truth",
       "url": "https://open.spotify.com/track/2C0Y5RUvreuiElhHuce9Rv"
-    },
-    {
-      "added_at": "2021-04-21 17:09:31",
-      "album": {
-        "name": "Rhino Hi-Five: The Sugarhill Gang",
-        "url": "https://open.spotify.com/album/5ccON60mNYkYjzOfu3XBoT"
-      },
-      "artists": [
-        {
-          "name": "The Sugarhill Gang",
-          "url": "https://open.spotify.com/artist/7zliF6Q946WznVk3ZMYhZX"
-        }
-      ],
-      "duration_ms": 427360,
-      "name": "Rapper's Delight",
-      "url": "https://open.spotify.com/track/0FWhGmPVxLI6jOVF0wjALa"
     },
     {
       "added_at": "2021-04-21 17:09:31",

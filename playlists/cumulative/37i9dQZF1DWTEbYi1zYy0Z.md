@@ -4,7 +4,7 @@
 
 > So fresh, so smooth\. Cover: Boney James
 
-479 songs - 1 day 9 hr 55 min
+480 songs - 1 day 9 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,6 +169,7 @@
 | [Freddie Freeloader](https://open.spotify.com/track/2vICDXXuj3ceVBHlp2ABYg) | [David Garfield](https://open.spotify.com/artist/3RPnyf7t9phTwwSzQgaZYb), [Rick Braun](https://open.spotify.com/artist/4ThkLup6LmqCUuHuG434zZ), [Eric Marienthal](https://open.spotify.com/artist/4wmaum7AmnVV5riHLEWvaK) | [Freddie Freeloader](https://open.spotify.com/album/1AzwNDfEC7MTfPMEOGYeOo) | 4:41 | 2023-04-14 |  |
 | [Free to Be](https://open.spotify.com/track/1o1v8l3TX3dX8WsoIWFZN9) | [Kim Scott](https://open.spotify.com/artist/68nDtoCQKhf7AxQP0q3wSP), [Jazmin Ghent](https://open.spotify.com/artist/1ObapCOA0O7mr2wXFKEDNY) | [Free to Be](https://open.spotify.com/album/5byOEdHBtEBC2EOoLt2xMl) | 4:31 | 2020-10-30 | 2022-03-11 |
 | [Free to Fly](https://open.spotify.com/track/5ZLSme3rKR8GP11yElvQPh) | [Lawson Rollins](https://open.spotify.com/artist/3blOsom4oRo6dAN4TB7xpv) | [Rise](https://open.spotify.com/album/5JUjW1QvuVEdeBCtzsujXk) | 4:58 | 2021-09-17 | 2022-09-17 |
+| [Freedom \- radio single](https://open.spotify.com/track/3VrSSFKulCr9Vdex6X4JHP) | [Kim Scott](https://open.spotify.com/artist/68nDtoCQKhf7AxQP0q3wSP) | [Freedom](https://open.spotify.com/album/2hv17EL1v430aN9E0sbFZM) | 3:49 | 2024-10-04 |  |
 | [Fresh Air](https://open.spotify.com/track/2Xh0zqD0VwVfo3xgVXiO0Q) | [Matthew Shell](https://open.spotify.com/artist/4XfIiCq9teZp4gSPE0iYC9), [Arun Shenoy](https://open.spotify.com/artist/2z4Hre9Bs3HgruyY01zYwU), [Cord Martin](https://open.spotify.com/artist/63cZyR7rLr6FUBcJXb7tXx), [Sam Ojalvo](https://open.spotify.com/artist/4ZnNAbmDRT7GZe8p3Vjuip) | [Fresh Air](https://open.spotify.com/album/7HOog0MOFLIgCmSDoRz4Fy) | 3:29 | 2024-06-14 | 2024-07-13 |
 | [G\-Wiggle](https://open.spotify.com/track/4HjRmQiDLMQ1VQcVQuuh3d) | [Gerald Albright](https://open.spotify.com/artist/3bhckpkRmz8mqONUceSutp) | [G\-Stream 2\-Turn It Up](https://open.spotify.com/album/69dx6W2l6wJdcvRYhFDlt8) | 4:30 | 2022-04-29 | 2023-09-16 |
 | [Galaxy](https://open.spotify.com/track/4vNMy68DUVib0AtOrUNbba) | [Zach Sanders](https://open.spotify.com/artist/0jSvsAskhfvKwEzWQ07wCn) | [Galaxy](https://open.spotify.com/album/1p3tbkM2DoGdDVqUgelhef) | 3:17 | 2020-10-30 | 2022-03-15 |
@@ -253,7 +254,7 @@
 | [Levante](https://open.spotify.com/track/0cAJLGx79bybrE8ix7hOpC) | [Marc Antoine](https://open.spotify.com/artist/0EpJxgZJDz8YV7MKsTr0Ls) | [Levante](https://open.spotify.com/album/3es4r2kxay6xjDFi20KRMG) | 4:33 | 2024-06-07 |  |
 | [Lifted](https://open.spotify.com/track/0nUK8QO7du1cqA1KW3fzxg) | [Phil Denny](https://open.spotify.com/artist/1qRb36fHSmuSGm6WewqmdH) | [Lifted](https://open.spotify.com/album/2q5FbIK44fNkcw6w2TWXs9) | 4:20 | 2020-10-30 | 2022-03-18 |
 | [Light Within \(feat\. LaShawn D\. Gary and Dave McMurray\)](https://open.spotify.com/track/3v0OEwQsVjR5Rx2ESj5dSk) | [Jeff Canady](https://open.spotify.com/artist/0Oa1kpHHpgTQaxQ9dZUKAI), [LaShawn D\. Gary](https://open.spotify.com/artist/0nzXlRRHKYsEIn6zAmmCvq), [Dave McMurray](https://open.spotify.com/artist/1DOwY4lGFMmu4gqoGAI84x) | [Light Within \(feat\. Lashawn D\. Gary and Dave McMurray\)](https://open.spotify.com/album/1SFrUYKE6Zlk8gzac3aRSZ) | 4:15 | 2023-03-17 | 2024-08-24 |
-| [Like Butter \- radio single](https://open.spotify.com/track/0An6pi6xlDUYBeEoy1ln7k) | [Kim Scott](https://open.spotify.com/artist/68nDtoCQKhf7AxQP0q3wSP), [Jeff Ryan](https://open.spotify.com/artist/0cjzOb6JYN5AOg4WVA9miY) | [Like Butter](https://open.spotify.com/album/3uoqyLYjUzMIL33UdX9Ggc) | 4:09 | 2024-03-22 |  |
+| [Like Butter \- radio single](https://open.spotify.com/track/0An6pi6xlDUYBeEoy1ln7k) | [Kim Scott](https://open.spotify.com/artist/68nDtoCQKhf7AxQP0q3wSP), [Jeff Ryan](https://open.spotify.com/artist/0cjzOb6JYN5AOg4WVA9miY) | [Like Butter](https://open.spotify.com/album/3uoqyLYjUzMIL33UdX9Ggc) | 4:09 | 2024-03-22 | 2024-10-05 |
 | [Limitless \(feat\. Althea Rene\)](https://open.spotify.com/track/4zqOfFCfXkADvDjDPrAiCE) | [J\. White](https://open.spotify.com/artist/10LN78B3CGfkHBYptZGbov), [Althea Rene](https://open.spotify.com/artist/5FnGUGAaOtAqnk6Zxn6nFY) | [Limitless \(feat\. Althea Rene\)](https://open.spotify.com/album/24ECA9LpmOuurQIioCabKC) | 4:20 | 2024-03-29 |  |
 | [Living in This House](https://open.spotify.com/track/5S2PbWaPKAsVf7D2cnzplv) | [Threestyle](https://open.spotify.com/artist/6Dj8bjGUnCYJddzoiTdJjX) | [Living in This House](https://open.spotify.com/album/2pz7mH3t10WshRh1P23qcP) | 3:54 | 2023-02-17 | 2024-08-03 |
 | [Living Inside Myself](https://open.spotify.com/track/1BWIZEEJVbE0nkbGtVgkbg) | [Richard Elliot](https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH) | [Authentic Life](https://open.spotify.com/album/0dwwTaGfMvpCOv7Ikgo8Uq) | 4:20 | 2021-01-29 | 2022-03-18 |

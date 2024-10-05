@@ -2,7 +2,7 @@
 
 ### [2NE1 CONCERT \[WELCOME BACK\]](https://open.spotify.com/playlist/37i9dQZF1DWTaVx3bGepdB)
 
-> 
+> Prepare for the upcoming Seoul concert by listening to 2NE1's best songs! \(2NE1의 베스트 곡들을 들으며 다가오는 서울 콘서트를 준비해보세요!\)
 
 23 songs - 1 hr 24 min
 

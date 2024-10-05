@@ -4,7 +4,7 @@
 
 > The best new indie tracks from independent artists & labels\. Cover: The American Dawn
 
-2,783 songs - 6 day 9 hr 42 min
+2,784 songs - 6 day 9 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1139,6 +1139,7 @@
 | [I Am Your Daughter](https://open.spotify.com/track/6s3DBMoTmoKxZU4kXD5gyq) | [Florence Rose](https://open.spotify.com/artist/63ZyqesWEYQfpkL12NFwre) | [I Am Your Daughter](https://open.spotify.com/album/5xBo2DR5cCyyZQs5TvwsVe) | 3:59 | 2023-10-11 | 2023-11-30 |
 | [I Ask Nothing Of You](https://open.spotify.com/track/7LrMz49Z4NeadIuUA6Gtgn) | [HanyMust](https://open.spotify.com/artist/74gb4hJFDs0sGCwa5Zhxfp) | [I Ask Nothing Of You](https://open.spotify.com/album/2cauSAqpSU8lH3Y5Ntyl1i) | 3:55 | 2023-08-08 | 2023-10-05 |
 | [I Bet Ur](https://open.spotify.com/track/25vwWj2HLhh5BOnaELW5Ig) | [Bridget Kearney](https://open.spotify.com/artist/04fJjgNu00TqqNolrDV0Z0) | [I Bet Ur](https://open.spotify.com/album/2GMITlFwmNxhHcdLIDAYhC) | 5:15 | 2022-01-12 | 2022-02-17 |
+| [I Call To You](https://open.spotify.com/track/0xGcFW7E9ZKRXmP7MH2cmM) | [Kelora](https://open.spotify.com/artist/1KtfXUgc4Xkt0s7trUsmjP) | [I Call To You](https://open.spotify.com/album/4TS8xCi51mAs0zBDmvOSAy) | 2:43 | 2024-10-04 |  |
 | [I Can Dream](https://open.spotify.com/track/4T0V5H3xvsPtc8L7Gt0U3b) | [Luke Temple](https://open.spotify.com/artist/6MUv39LOn5bz2QW4SBKE85) | [I Can Dream](https://open.spotify.com/album/1FXJHXlWYHfQW3Iv5pA8l0) | 4:37 | 2024-05-29 | 2024-07-04 |
 | [I Can't Decide](https://open.spotify.com/track/7ClC8xY2I9yY8rZHpr2epp) | [Margaux](https://open.spotify.com/artist/2ycbMlovjNV5gks2r8Vtsp) | [Inside the Marble](https://open.spotify.com/album/6Tifn26BUT16VlQ3WG2khN) | 3:03 | 2024-06-12 | 2024-07-18 |
 | [I Can't Get Over You](https://open.spotify.com/track/7tdFmz7aTM0MTssyzOSXta) | [Leo Sun](https://open.spotify.com/artist/40F0oisdGBuAC0i1vh2cxW) | [I Can't Get Over You](https://open.spotify.com/album/3OCO1ebyxBC6CXsF99Xara) | 4:21 | 2022-03-30 | 2022-05-05 |

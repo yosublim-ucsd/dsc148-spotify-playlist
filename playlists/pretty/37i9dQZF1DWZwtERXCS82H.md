@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwtERXCS82H.md) - [plain]
 
 > Calm and quiet piano music for reading.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,195,765 likes - 227 songs - 9 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,195,989 likes - 227 songs - 9 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

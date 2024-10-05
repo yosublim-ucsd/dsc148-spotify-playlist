@@ -744,7 +744,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 192072,
       "name": "Frankenstein",
       "url": "https://open.spotify.com/track/4nYUJ36Qj9hIY9mKj8QZFF"
@@ -2072,6 +2072,24 @@
       "duration_ms": 188866,
       "name": "She Wolf",
       "url": "https://open.spotify.com/track/4cS2HQ6jK80vqdY9ofpztx"
+    },
+    {
+      "album": {
+        "name": "UPSAHL PRESENTS: THE PHX TAPES",
+        "url": "https://open.spotify.com/album/4ehJjs7mB5D5sTgsEAKG8Y"
+      },
+      "artists": [
+        {
+          "name": "UPSAHL",
+          "url": "https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136502,
+      "name": "SICK PRETTY MIND (SIDE B)",
+      "url": "https://open.spotify.com/track/4VY6SsgA05tDXC3jAkAE1h"
     },
     {
       "album": {

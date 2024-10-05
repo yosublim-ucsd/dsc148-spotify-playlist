@@ -1,12 +1,12 @@
 {
-  "description": "This Is \u00c1ngela Aguilar. Los temas esenciales, todos en una lista.",
-  "num_followers": 151533,
+  "description": "This is \u00c1ngela Aguilar. The essential tracks, all in one playlist.",
+  "num_followers": 151556,
   "original_name": "This Is \u00c1ngela Aguilar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvyNAAAAAAD4O73Ed4hMOFVkhhc9P1YK",
+  "snapshot_id": "Zv3egAAAAADIqs+9il/HXyegeAP9VgEJ",
   "tracks": [
     {
       "added_at": null,
@@ -615,30 +615,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Homenaje a Los Grandes Compositores",
-        "url": "https://open.spotify.com/album/1JdG9NiSeff8ZcFt5iG3fB"
+        "name": "Que No Se Apague La M\u00fasica",
+        "url": "https://open.spotify.com/album/58nt3Nu5aJypSy7RyVryZK"
       },
       "artists": [
         {
-          "name": "Guadalupe Pineda",
-          "url": "https://open.spotify.com/artist/6xG6oz3V8nZWrwSqpZmPii"
-        },
-        {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
-        },
-        {
           "name": "\u00c1ngela Aguilar",
           "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        },
-        {
-          "name": "Leonardo Aguilar",
-          "url": "https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq"
         }
       ],
-      "duration_ms": 261133,
-      "name": "Medley Ranchero: El Cantador / Tristes Recuerdos (feat. Pepe Aguilar, Angela Aguilar & Leonardo Aguilar)",
-      "url": "https://open.spotify.com/track/5ply4jARRCAQ6UtGij6efs"
+      "duration_ms": 113619,
+      "name": "Amor, Amor de Mis Amores",
+      "url": "https://open.spotify.com/track/15hJAORUQLQnnP6gM9DHrL"
     },
     {
       "added_at": null,
@@ -675,18 +663,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Que No Se Apague La M\u00fasica",
-        "url": "https://open.spotify.com/album/58nt3Nu5aJypSy7RyVryZK"
+        "name": "Homenaje a Los Grandes Compositores",
+        "url": "https://open.spotify.com/album/1JdG9NiSeff8ZcFt5iG3fB"
       },
       "artists": [
         {
+          "name": "Guadalupe Pineda",
+          "url": "https://open.spotify.com/artist/6xG6oz3V8nZWrwSqpZmPii"
+        },
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        },
+        {
           "name": "\u00c1ngela Aguilar",
           "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        },
+        {
+          "name": "Leonardo Aguilar",
+          "url": "https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq"
         }
       ],
-      "duration_ms": 113619,
-      "name": "Amor, Amor de Mis Amores",
-      "url": "https://open.spotify.com/track/15hJAORUQLQnnP6gM9DHrL"
+      "duration_ms": 261133,
+      "name": "Medley Ranchero: El Cantador / Tristes Recuerdos (feat. Pepe Aguilar, Angela Aguilar & Leonardo Aguilar)",
+      "url": "https://open.spotify.com/track/5ply4jARRCAQ6UtGij6efs"
     },
     {
       "added_at": null,
@@ -703,42 +703,6 @@
       "duration_ms": 176365,
       "name": "Como la Flor",
       "url": "https://open.spotify.com/track/7Dmc4o8F7yGSWW60NroUfo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nueva Tradici\u00f3n",
-        "url": "https://open.spotify.com/album/45Y30ZaXQ7tn4SZfZFRPOb"
-      },
-      "artists": [
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        }
-      ],
-      "duration_ms": 213030,
-      "name": "La Chancla",
-      "url": "https://open.spotify.com/track/5hqx9HaZGTwuxj1HdLt15E"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bolero",
-        "url": "https://open.spotify.com/album/2XltOEB0eKfJ8hxoa9tJoy"
-      },
-      "artists": [
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        },
-        {
-          "name": "Trio Los Panchos",
-          "url": "https://open.spotify.com/artist/75iTjtkoZp3DoULrMMGOsF"
-        }
-      ],
-      "duration_ms": 193773,
-      "name": "Quiz\u00e1s Quiz\u00e1s Quiz\u00e1s",
-      "url": "https://open.spotify.com/track/2fHuEEJMbtXsw5BitInQzA"
     },
     {
       "added_at": null,
@@ -763,6 +727,42 @@
       "duration_ms": 462000,
       "name": "La Chancla / el Chivo / Pu\u00f1o de Tierra (En Vivo)",
       "url": "https://open.spotify.com/track/4ykmzBnsAlWN06gSCraH3t"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bolero",
+        "url": "https://open.spotify.com/album/2XltOEB0eKfJ8hxoa9tJoy"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        },
+        {
+          "name": "Trio Los Panchos",
+          "url": "https://open.spotify.com/artist/75iTjtkoZp3DoULrMMGOsF"
+        }
+      ],
+      "duration_ms": 193773,
+      "name": "Quiz\u00e1s Quiz\u00e1s Quiz\u00e1s",
+      "url": "https://open.spotify.com/track/2fHuEEJMbtXsw5BitInQzA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nueva Tradici\u00f3n",
+        "url": "https://open.spotify.com/album/45Y30ZaXQ7tn4SZfZFRPOb"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "duration_ms": 213030,
+      "name": "La Chancla",
+      "url": "https://open.spotify.com/track/5hqx9HaZGTwuxj1HdLt15E"
     },
     {
       "added_at": null,

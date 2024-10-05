@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "New and approved indie pop. Cover: SASAMI",
+  "description": "New and approved indie pop. Cover: Faye Webster",
   "name": "Indie Pop",
   "tracks": [
     {
@@ -586,7 +586,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 162628,
       "name": "a girl like me",
       "url": "https://open.spotify.com/track/2KzkWP9RYW1xz4gqDRArQd"
@@ -882,6 +882,24 @@
       "duration_ms": 204857,
       "name": "After Midnight",
       "url": "https://open.spotify.com/track/4rlQza35DE4Prh5yonxnCs"
+    },
+    {
+      "album": {
+        "name": "After the First Kiss",
+        "url": "https://open.spotify.com/album/1Cvw7CEYBIp4ptnA3UzDxO"
+      },
+      "artists": [
+        {
+          "name": "Faye Webster",
+          "url": "https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214756,
+      "name": "After the First Kiss",
+      "url": "https://open.spotify.com/track/5bPwGutk2BKA46R4hQuZZ0"
     },
     {
       "album": {
@@ -3262,7 +3280,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 211581,
       "name": "Bestie, Move On",
       "url": "https://open.spotify.com/track/0YVWlJfAtGWsJgA7fa37xU"
@@ -19551,6 +19569,24 @@
     },
     {
       "album": {
+        "name": "Lotus Eater",
+        "url": "https://open.spotify.com/album/494g1fkelfoloDvUuqdAED"
+      },
+      "artists": [
+        {
+          "name": "FINNEAS",
+          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231506,
+      "name": "Lotus Eater",
+      "url": "https://open.spotify.com/track/3Y6yJhnGJdNTQwgIyKMLE8"
+    },
+    {
+      "album": {
         "name": "Love / Lover / Friend",
         "url": "https://open.spotify.com/album/3okMe9vhlmt1YLKDVybYGg"
       },
@@ -26278,7 +26314,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 170339,
       "name": "Realms",
       "url": "https://open.spotify.com/track/15hQ5ucr3mYzCQkOFFRX6v"
@@ -26794,7 +26830,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 147981,
       "name": "Run It Back",
       "url": "https://open.spotify.com/track/2gSVKq4fs4rYE6ukeKnVWi"
@@ -28298,6 +28334,24 @@
       "duration_ms": 164213,
       "name": "Sideways",
       "url": "https://open.spotify.com/track/1lVYnUQjno6unaOAGSsJBS"
+    },
+    {
+      "album": {
+        "name": "Submarine",
+        "url": "https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG"
+      },
+      "artists": [
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224840,
+      "name": "Sienna",
+      "url": "https://open.spotify.com/track/0InIeZW4P6VO7dUGRM4AKH"
     },
     {
       "album": {
@@ -34660,6 +34714,24 @@
       "duration_ms": 151142,
       "name": "we're all eating each other",
       "url": "https://open.spotify.com/track/6BrfgV35h3NfTtIdMqhmFQ"
+    },
+    {
+      "album": {
+        "name": "Good Neighbours",
+        "url": "https://open.spotify.com/album/1iArxZvJgmmlTo6VwuHvll"
+      },
+      "artists": [
+        {
+          "name": "Good Neighbours",
+          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171731,
+      "name": "Weekend Boy",
+      "url": "https://open.spotify.com/track/2SBXmWWHWuG12G7S7SKvwA"
     },
     {
       "album": {

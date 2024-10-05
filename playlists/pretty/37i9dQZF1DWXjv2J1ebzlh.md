@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 
 > The magical world map! Play it in shuffle ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,137 likes - 100 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,167 likes - 100 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,9 +19,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 9 | [Darling](https://open.spotify.com/track/6ncNLU982iaD9WFb2gTwKd) | [Esbe](https://open.spotify.com/artist/3Y7Y2CNmpI13IevU3PuzCa) | [Bloomsday](https://open.spotify.com/album/2ceQKxT0GhryrHU5di7tmz) | 3:09 |
 | 10 | [54\-46 Was My Number](https://open.spotify.com/track/1q8gelFgFYUwoWpQV7WNCe) | [Toots & The Maytals](https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK) | [In The Dark](https://open.spotify.com/album/6FuHnw9KkeYH6TSJaNOlto) | 3:24 |
 | 11 | [Marechià](https://open.spotify.com/track/1gE7p3b4J8p4ivOCR2CO0Y) | [Nu Genea](https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ), [Célia Kameni](https://open.spotify.com/artist/7dSwsPGp84lyzlAvuqQhLt) | [Marechià](https://open.spotify.com/album/2VWCyefmIWJn1trgychc0W) | 4:24 |
-| 12 | [El Cuarto de Tula](https://open.spotify.com/track/5UjaOsrdoI4shw9gM2eNPC) | [Buena Vista Social Club](https://open.spotify.com/artist/11kBu957KTYoAltZHDm8gW) | [Buena Vista Social Club](https://open.spotify.com/album/5qcOy8sMqROZ0VEfK8LJZt) | 7:25 |
+| 12 | [La Murga](https://open.spotify.com/track/5O2Id1rWAmR9ff9kGUfikf) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP), [Yomo Toro](https://open.spotify.com/artist/112OOUPY3pq7Hr35s3po6E) | [Asalto Navideño](https://open.spotify.com/album/4TnqBA58KybPV53g95LHLe) | 5:34 |
 | 13 | [La Colegiala](https://open.spotify.com/track/7rDIiNyDgqUb6WQOgskiiF) | [Rodolfo Aicardi](https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414), [La Tipica Ra7](https://open.spotify.com/artist/0WJbT6T0nkWfYO5zEbUPOG) | [Muy Tropical y Bailable \- 16 Exitos](https://open.spotify.com/album/4zqlca5cQmkCPhL0ZZr3P8) | 3:41 |
-| 14 | [La Murga](https://open.spotify.com/track/5O2Id1rWAmR9ff9kGUfikf) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP), [Yomo Toro](https://open.spotify.com/artist/112OOUPY3pq7Hr35s3po6E) | [Asalto Navideño](https://open.spotify.com/album/4TnqBA58KybPV53g95LHLe) | 5:34 |
+| 14 | [El Cuarto de Tula](https://open.spotify.com/track/5UjaOsrdoI4shw9gM2eNPC) | [Buena Vista Social Club](https://open.spotify.com/artist/11kBu957KTYoAltZHDm8gW) | [Buena Vista Social Club](https://open.spotify.com/album/5qcOy8sMqROZ0VEfK8LJZt) | 7:25 |
 | 15 | [Take It Easy My Brother Charles](https://open.spotify.com/track/399Hm1oqfzzQaZRu3CtVMb) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Jorge Ben](https://open.spotify.com/album/3V3XJ3Sh62jPUYUMSQ1Tsf) | 2:35 |
 | 16 | [So We Won't Forget](https://open.spotify.com/track/4HpFU6eMThgW6Cael5AwYy) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Mordechai](https://open.spotify.com/album/2IzUZlhtBvPQYs74KeG6fb) | 4:58 |
 | 17 | [Canta Canta, Minha Gente](https://open.spotify.com/track/57E1ka54d8zrIy0VzE1EAV) | [Martinho Da Vila](https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E) | [Martinho da Vila](https://open.spotify.com/album/6ime25jnzjF1foE0e5RCYB) | 2:33 |
@@ -95,9 +95,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 85 | [Dari Demou'ek](https://open.spotify.com/track/4WkKXTTZuAr9QgIeTAmA6w) | [Hamid Al Shaeri](https://open.spotify.com/artist/7u1V0Ucu5ggW1VaXwh8KeT) | [The SLAM! Years: 1983 \- 1988 \(Habibi Funk 018\)](https://open.spotify.com/album/0PXfnvr4FDsvG0xOWhOzuS) | 4:41 |
 | 86 | [Esperar Pra Ver](https://open.spotify.com/track/5MlrBIIbUYw0Nj1TEHWhmX) | [Evinha](https://open.spotify.com/artist/6cnJ8gP9R3JEh5mCCvOwz3) | [Cartão Postal](https://open.spotify.com/album/7lskQR32sv0sV9zwkdRkKN) | 2:08 |
 | 87 | [Djal Bai Si Camin](https://open.spotify.com/track/68mOFQIOQhT0Lq8p6GyiOX) | [António dos Santos](https://open.spotify.com/artist/2o2ADjRCEAkByBSrzncXXc) | ["Space Echo" \- The mystery behind the "Cosmic Sound” of Cabo Verde finally revealed! \(Analog Africa No\. 20\)](https://open.spotify.com/album/6QUlQVT0P1zqsIfyWTjxVt) | 7:20 |
-| 88 | [Nem Vem Que Não Tem](https://open.spotify.com/track/0oL8aqq5iRE5SnxdxJ6FbK) | [Wilson Simonal](https://open.spotify.com/artist/6DqFCzjARUV3xH9meu3Bya) | [Alegria, Alegria!!!](https://open.spotify.com/album/2dSvUYyuZGDO2yVYXuhSPh) | 2:32 |
+| 88 | [Zungguzungguguzungguzeng](https://open.spotify.com/track/1YpH91YcUZlo2mxKJVhWM8) | [Yellowman](https://open.spotify.com/artist/6yTNMMqumesCWhMJ47HB2a) | [Zungguzungguguzungguzeng!](https://open.spotify.com/album/5hvxysDLuDCZSH7U4j9C9N) | 6:28 |
 | 89 | [I Need Somebody To Love Tonight](https://open.spotify.com/track/0wotnD2zTSOUDwVBN863fi) | [Bacao Rhythm & Steel Band](https://open.spotify.com/artist/0sjhSgEkyVa8QRmkkuckJ0) | [Expansions](https://open.spotify.com/album/1tMUBZE5cSHtJCn0HT9FaW) | 4:02 |
-| 90 | [Zungguzungguguzungguzeng](https://open.spotify.com/track/1YpH91YcUZlo2mxKJVhWM8) | [Yellowman](https://open.spotify.com/artist/6yTNMMqumesCWhMJ47HB2a) | [Zungguzungguguzungguzeng!](https://open.spotify.com/album/5hvxysDLuDCZSH7U4j9C9N) | 6:28 |
+| 90 | [Nem Vem Que Não Tem](https://open.spotify.com/track/0oL8aqq5iRE5SnxdxJ6FbK) | [Wilson Simonal](https://open.spotify.com/artist/6DqFCzjARUV3xH9meu3Bya) | [Alegria, Alegria!!!](https://open.spotify.com/album/2dSvUYyuZGDO2yVYXuhSPh) | 2:32 |
 | 91 | [Pontos De Luz](https://open.spotify.com/track/4ABzNwtzvzvXsQMBIrdF39) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [India](https://open.spotify.com/album/7bxZ0kvGIbJRvBGFrKooub) | 2:41 |
 | 92 | [Lotus 72 D](https://open.spotify.com/track/25JrVa0pOZhb4WvuCK1JVk) | [Zé Roberto](https://open.spotify.com/artist/18pOC3dikx4dLs5znHrZJZ) | [Lotus 72 D](https://open.spotify.com/album/5WSJRs0TjAxxljSfLQZ2ai) | 3:12 |
 | 93 | [Goca Dünya](https://open.spotify.com/track/7jnJSw2SKsNibByy0PeYLC) | [Altin Gün](https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT) | [Goca Dünya](https://open.spotify.com/album/29PYALK2CuniRSxZQdeU1G) | 3:57 |

@@ -4,7 +4,7 @@
 
 > The essential tracks, all in one playlist.
 
-56 songs - 4 hr 7 min
+58 songs - 4 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [A Whisper](https://open.spotify.com/track/7KolrFGhfDi1JTSgQBT5sI) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [A Rush of Blood to the Head](https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ) | 3:58 | 2021-09-24 |  |
 | [Adventure of a Lifetime \- Live from Spotify London](https://open.spotify.com/track/2XiSB3m4WSkxD3xIUrYHfV) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Live from Spotify London](https://open.spotify.com/album/573eP6oKtAJDqnpco7Fn9c) | 4:18 | 2021-09-24 |  |
 | [All I Can Think About Is You](https://open.spotify.com/track/6V6goat94tTJOWXXKZstNX) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Kaleidoscope EP](https://open.spotify.com/album/0CE9VXSH70pz4BQzMPm9gO) | 4:34 | 2021-09-24 |  |
+| [ALL MY LOVE](https://open.spotify.com/track/6iYxkBHyMpsgVxUgfy5fSx) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Moon Music](https://open.spotify.com/album/5SGtrmYbIo0Dsg4kJ4qjM6) | 3:42 | 2024-10-04 |  |
 | [Always in My Head](https://open.spotify.com/track/0FMjqbY3aWo1QDbo3GwXib) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Ghost Stories](https://open.spotify.com/album/2G4AUqfwxcV1UdQjm2ouYr) | 3:36 | 2021-09-24 |  |
 | [Arabesque](https://open.spotify.com/track/0ZlVUhjO8c0bOx1D2Btznf) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Everyday Life](https://open.spotify.com/album/2FeyIYDDAQqcOJKOKhvHdr) | 5:40 | 2021-09-24 |  |
 | [Birds](https://open.spotify.com/track/3HWDWyIqWuLsTHECx9DvXF) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [A Head Full of Dreams](https://open.spotify.com/album/3cfAM8b8KqJRoIzt3zLKqw) | 3:49 | 2021-09-24 |  |
@@ -32,6 +33,7 @@
 | [Fix You \- Live in Buenos Aires](https://open.spotify.com/track/7mGJlNOAOmJ5ptkmujg1Gv) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Live in Buenos Aires](https://open.spotify.com/album/19CvkGjYpifkdwgVJSbog2) | 5:27 | 2021-09-24 |  |
 | [Flags](https://open.spotify.com/track/2RZ8SjEJYJHZ8YCUzls77w) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Flags](https://open.spotify.com/album/4JYjZh7R8F7Na5x1lVqOl9) | 3:36 | 2021-09-24 |  |
 | [God Put a Smile upon Your Face](https://open.spotify.com/track/4hf0hL4kWyjWztZzVsM39V) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [A Rush of Blood to the Head](https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ) | 4:57 | 2021-09-24 |  |
+| [GOOD FEELiNGS](https://open.spotify.com/track/65wzicJctsW9GwnTnLWxQO) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Moon Music](https://open.spotify.com/album/5SGtrmYbIo0Dsg4kJ4qjM6) | 3:37 | 2024-10-04 |  |
 | [High Speed](https://open.spotify.com/track/2DHgvPQD1jApRnT1DBZdrS) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Parachutes](https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra) | 4:16 | 2021-09-24 |  |
 | [Higher Power](https://open.spotify.com/track/0939D7aT18uBDS2MTjWzct) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Higher Power](https://open.spotify.com/album/6wiPmk3powmcz3G7zr6krg) | 3:31 | 2021-09-24 |  |
 | [Hymn for the Weekend](https://open.spotify.com/track/3RiPr603aXAoi4GHyXx0uy) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [A Head Full of Dreams](https://open.spotify.com/album/3cfAM8b8KqJRoIzt3zLKqw) | 4:18 | 2021-09-24 |  |

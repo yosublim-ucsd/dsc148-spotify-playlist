@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-14",
-  "description": "A laid-back trip in the folk scene. Cover: Bon Iver",
+  "description": "A laid-back trip in the folk scene. Cover: Mustafa",
   "name": "Folk & Friends",
   "tracks": [
     {
@@ -3732,7 +3732,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 193155,
       "name": "Do You Haunt Me",
       "url": "https://open.spotify.com/track/2ADlSEarDUKjsnuMMPgnak"
@@ -5335,6 +5335,24 @@
     },
     {
       "album": {
+        "name": "Willfully Blind",
+        "url": "https://open.spotify.com/album/7qj8Yvxy2yJSRFlW1NTeG5"
+      },
+      "artists": [
+        {
+          "name": "Max McNown",
+          "url": "https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139633,
+      "name": "Fishing Line",
+      "url": "https://open.spotify.com/track/0nVHh17GHAJBQUFJb6yFOA"
+    },
+    {
+      "album": {
         "name": "Fix It for You",
         "url": "https://open.spotify.com/album/6iGDbmsiSqnsQunzgqaUWC"
       },
@@ -5466,7 +5484,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 142080,
       "name": "Flowers In My Hair",
       "url": "https://open.spotify.com/track/0WKsH3LlO1H3wNzCRpy403"
@@ -7276,7 +7294,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 178823,
       "name": "I Came Here to Leave You",
       "url": "https://open.spotify.com/track/3IfZFiVOaQ72Pd3UfZjtSC"
@@ -7662,7 +7680,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 215631,
       "name": "I Want What I Don't Need",
       "url": "https://open.spotify.com/track/47I3c9U0uzsgCrrNxWcvEj"
@@ -7738,6 +7756,24 @@
       "duration_ms": 200202,
       "name": "I'm Around",
       "url": "https://open.spotify.com/track/2zfxZsXityOS6bJYWNLgJR"
+    },
+    {
+      "album": {
+        "name": "Goodbye to the Valley Low - Side B",
+        "url": "https://open.spotify.com/album/2SRsyHHPOXRwwe56K8LCcZ"
+      },
+      "artists": [
+        {
+          "name": "Hazlett",
+          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262160,
+      "name": "I'm Not Ready To Go",
+      "url": "https://open.spotify.com/track/5zOaXxYlOm67a6lMn1AE8I"
     },
     {
       "album": {
@@ -10429,6 +10465,24 @@
     },
     {
       "album": {
+        "name": "Much Ado About Nothing",
+        "url": "https://open.spotify.com/album/4gHhAhd9V5f6GkZXQT8xRN"
+      },
+      "artists": [
+        {
+          "name": "Waxahatchee",
+          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229795,
+      "name": "Much Ado About Nothing",
+      "url": "https://open.spotify.com/track/1ptXvuSGFStaYw6eumiesq"
+    },
+    {
+      "album": {
         "name": "Mudroom",
         "url": "https://open.spotify.com/album/4z3Lq0ha127elfRFtkbKsc"
       },
@@ -10699,6 +10753,24 @@
     },
     {
       "album": {
+        "name": "Neon Signs",
+        "url": "https://open.spotify.com/album/42vZKcVepSEpAt2c1LniXQ"
+      },
+      "artists": [
+        {
+          "name": "The Weather Station",
+          "url": "https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307062,
+      "name": "Neon Signs",
+      "url": "https://open.spotify.com/track/1Ar6TClO5jtDLNRDpGbp2w"
+    },
+    {
+      "album": {
         "name": "Never Been More In Love",
         "url": "https://open.spotify.com/album/0eQEOoFPiaBxLK49FioYwM"
       },
@@ -10880,7 +10952,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 236320,
       "name": "Nightvisions",
       "url": "https://open.spotify.com/track/4BXmSAgyCYg39PTjFVWF5a"
@@ -12128,7 +12200,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 256245,
       "name": "People Always Change",
       "url": "https://open.spotify.com/track/6uMlsNZsVHH2MLJx6z44IY"
@@ -13878,6 +13950,28 @@
       "duration_ms": 186133,
       "name": "SNL",
       "url": "https://open.spotify.com/track/0NNZ07BRhzBvzj0WFDuocV"
+    },
+    {
+      "album": {
+        "name": "Snowpath",
+        "url": "https://open.spotify.com/album/53piZ0a4vXwSbHZrymx7rT"
+      },
+      "artists": [
+        {
+          "name": "Jonah Yano",
+          "url": "https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ"
+        },
+        {
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133000,
+      "name": "Snowpath",
+      "url": "https://open.spotify.com/track/1e1QnRkEXG5HFMOUFo3V4L"
     },
     {
       "album": {
@@ -16014,7 +16108,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 332585,
       "name": "Timeline",
       "url": "https://open.spotify.com/track/3T9QstFb2oeBo4QoMVMKKx"
@@ -16304,6 +16398,24 @@
       "duration_ms": 202400,
       "name": "Treasure Hunt",
       "url": "https://open.spotify.com/track/2l8E8NGD1HycrJCvPRSuXP"
+    },
+    {
+      "album": {
+        "name": "Triple Marathon",
+        "url": "https://open.spotify.com/album/2PSzv4iDxvcbfTHL11obmh"
+      },
+      "artists": [
+        {
+          "name": "Medium Build",
+          "url": "https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157223,
+      "name": "Triple Marathon",
+      "url": "https://open.spotify.com/track/6gEl8SZNT90jyNCXVhZ3BO"
     },
     {
       "album": {
@@ -17766,6 +17878,28 @@
       "duration_ms": 231073,
       "name": "With You",
       "url": "https://open.spotify.com/track/56sDeGLrCYgn6ErQt9XWfr"
+    },
+    {
+      "album": {
+        "name": "Without A Leg To Stand On",
+        "url": "https://open.spotify.com/album/4hJ5xoH77zEDmqJONIxSGp"
+      },
+      "artists": [
+        {
+          "name": "Andrew Bird",
+          "url": "https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9"
+        },
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252960,
+      "name": "Without A Leg To Stand On",
+      "url": "https://open.spotify.com/track/31J0OSQnOjWtLBdrcD0rEm"
     },
     {
       "album": {

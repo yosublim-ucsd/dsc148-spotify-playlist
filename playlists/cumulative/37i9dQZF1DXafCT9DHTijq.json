@@ -5,6 +5,32 @@
   "tracks": [
     {
       "album": {
+        "name": "Old Waltzes",
+        "url": "https://open.spotify.com/album/7gd7MTpo7Nv53gqQNdHyhQ"
+      },
+      "artists": [
+        {
+          "name": "Vasiliy Agapkin",
+          "url": "https://open.spotify.com/artist/5xAAO5gXf498L7tV7RYQiB"
+        },
+        {
+          "name": "Nikolai Nazarov",
+          "url": "https://open.spotify.com/artist/0WhSV333SHP0ey8DWzHgv0"
+        },
+        {
+          "name": "\u041e\u0442\u0434\u0435\u043b\u044c\u043d\u044b\u0439 \u043f\u043e\u043a\u0430\u0437\u0430\u0442\u0435\u043b\u044c\u043d\u044b\u0439 \u043e\u0440\u043a\u0435\u0441\u0442\u0440 \u041c\u0438\u043d\u0438\u0441\u0442\u0435\u0440\u0441\u0442\u0432\u0430 \u043e\u0431\u043e\u0440\u043e\u043d\u044b \u0421\u0421\u0421\u0420",
+          "url": "https://open.spotify.com/artist/6WOPNeO16gcTIbpmXPCR56"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186240,
+      "name": "Blue Night",
+      "url": "https://open.spotify.com/track/0Xbbyit5BaEz3h6CxjJgi5"
+    },
+    {
+      "album": {
         "name": "Chernobyl (Music from the Original TV Series)",
         "url": "https://open.spotify.com/album/5q53mBxAsq77kK9aCHcAtZ"
       },
@@ -605,6 +631,24 @@
     },
     {
       "album": {
+        "name": "Crimson Peak (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1h4VIVpLvycmVgk021TBpM"
+      },
+      "artists": [
+        {
+          "name": "Fernando Vel\u00e1zquez",
+          "url": "https://open.spotify.com/artist/2pElTJJ5D3ziEPyvZsW5eF"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101373,
+      "name": "Lullaby Variation",
+      "url": "https://open.spotify.com/track/1qflgCdJ1A7a2U5wtfK31h"
+    },
+    {
+      "album": {
         "name": "Wonderland - Edvard Grieg: Piano Concerto, Lyric Pieces",
         "url": "https://open.spotify.com/album/675zFvCNg3trc61Wm3YRW1"
       },
@@ -646,6 +690,24 @@
       "duration_ms": 176200,
       "name": "Lyric Pieces Book V, Op. 54: No. 3 March Of The Trolls",
       "url": "https://open.spotify.com/track/4BQhgrI8okU15twRPpekyj"
+    },
+    {
+      "album": {
+        "name": "Snow White And The Seven Dwarfs Original Soundtrack",
+        "url": "https://open.spotify.com/album/0Bqy2UNNB9WRS2EyHtpnIn"
+      },
+      "artists": [
+        {
+          "name": "Leigh Harline",
+          "url": "https://open.spotify.com/artist/7aXWrnm0b8kKzTTgzublaZ"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 86413,
+      "name": "Magic Mirror",
+      "url": "https://open.spotify.com/track/70C9ciYWV6m4sC82Q32wTH"
     },
     {
       "album": {
@@ -1405,6 +1467,24 @@
     },
     {
       "album": {
+        "name": "Knives Out (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5SjrBY5Dguvw7UYDIC9Fut"
+      },
+      "artists": [
+        {
+          "name": "Nathan Johnson",
+          "url": "https://open.spotify.com/artist/0zWHBQv6knnmZSovIvl6b1"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97706,
+      "name": "The Thrombey Estate",
+      "url": "https://open.spotify.com/track/39H6QlhWsqMcO9o9LbBzNl"
+    },
+    {
+      "album": {
         "name": "Dvorak: Symphony No. 6 / The Water Goblin",
         "url": "https://open.spotify.com/album/3D1bEF7nCIpp98yMTtIiBD"
       },
@@ -1700,6 +1780,24 @@
       "duration_ms": 79746,
       "name": "Welcome To The Addams Family",
       "url": "https://open.spotify.com/track/655IlK9f17wH6UMzIL8cLe"
+    },
+    {
+      "album": {
+        "name": "Hocus Pocus (Original Score)",
+        "url": "https://open.spotify.com/album/35HW28UZvr9UghP8Ras6mu"
+      },
+      "artists": [
+        {
+          "name": "John Debney",
+          "url": "https://open.spotify.com/artist/7mCsyzq823cXJ5puxUN3aJ"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342906,
+      "name": "Witches' Lair",
+      "url": "https://open.spotify.com/track/03kJgSqwHoHGMnjMjs3b9j"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXafCT9DHTijq"

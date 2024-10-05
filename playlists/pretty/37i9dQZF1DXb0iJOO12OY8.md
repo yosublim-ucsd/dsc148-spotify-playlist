@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb0iJOO12OY8.md) - [plain]
 
 > så længe jeg er sexy 🧡
 
-[Spotify](https://open.spotify.com/user/spotify) - 215,100 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 215,108 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb0iJOO12OY8.md) - [plain]
 | 13 | [For Life \(feat\. Nile Rodgers\)](https://open.spotify.com/track/4QfikoJtCEiOj7G5R9m3sP) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [For Life \(feat\. Nile Rodgers\)](https://open.spotify.com/album/2Cqf3izEp75CqTKgul5Mi1) | 2:55 |
 | 14 | [Death Wish Love \(From Twisters: The Album\)](https://open.spotify.com/track/5CYblb1W46TNSWMR7BBwS2) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Death Wish Love \(From Twisters: The Album\)](https://open.spotify.com/album/30yglxGzvUeX7i6XCcV8JC) | 3:43 |
 | 15 | [Illusion](https://open.spotify.com/track/59xD5osEFsaNt5PXfIKUnX) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Illusion](https://open.spotify.com/album/68mwSgiHv3JF9nrw9feMrt) | 3:08 |
-| 16 | [Heatstroke](https://open.spotify.com/track/5zjS49hh8KF7mnbvgUtiJa) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Sincere](https://open.spotify.com/album/0Tu7Vpu49X7oduL2AVbKZq) | 3:54 |
-| 17 | [Spot a Fake](https://open.spotify.com/track/1svpo8ORIHy4BdgicdyUjx) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Spot a Fake](https://open.spotify.com/album/2LTf2Kj2XJuOR3Vi5AMkcD) | 2:47 |
+| 16 | [Spot a Fake](https://open.spotify.com/track/1svpo8ORIHy4BdgicdyUjx) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Spot a Fake](https://open.spotify.com/album/2LTf2Kj2XJuOR3Vi5AMkcD) | 2:47 |
+| 17 | [Heatstroke](https://open.spotify.com/track/5zjS49hh8KF7mnbvgUtiJa) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Sincere](https://open.spotify.com/album/0Tu7Vpu49X7oduL2AVbKZq) | 3:54 |
 | 18 | [Too Well](https://open.spotify.com/track/6Szgu8v7CAapag3XuuJX0b) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Everything To Everyone](https://open.spotify.com/album/4Kk5hoolfW8UN6cTSo5fXJ) | 2:36 |
 | 19 | [Save You a Seat](https://open.spotify.com/track/6pkRK6iZC2Yhhd172tC9Id) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Save You a Seat](https://open.spotify.com/album/0VPPrXduFjL2zke7XfDDPu) | 3:17 |
 | 20 | [DOUBT IT](https://open.spotify.com/track/7kud2YsUIgEO6L41B98Cih) | [Chase Atlantic](https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT) | [DOUBT IT](https://open.spotify.com/album/4bahK8kuVwjBkqFUgmLmVD) | 3:28 |
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb0iJOO12OY8.md) - [plain]
 | 30 | [Vertigo](https://open.spotify.com/track/7KQejvX8GC4qMjB8vWSp2p) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Vertigo](https://open.spotify.com/album/6zhMdnveqL0wIAZPPaPKPc) | 2:59 |
 | 31 | [Tenke Sjæl](https://open.spotify.com/track/6RNews4WFfXv1fJdwL0ZQb) | [UNDERGRUNN](https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb) | [Norge Elsker Rap](https://open.spotify.com/album/2JLWcW7Qgi5QPYzNcPggoJ) | 2:40 |
 | 32 | [Vin](https://open.spotify.com/track/4UGiylwOx9pBF0D6VlnhpR) | [Beathoven](https://open.spotify.com/artist/6w6TB0XMM0VZ3oDsy7tUYJ) | [Sorgenfri](https://open.spotify.com/album/4n8prSVQyN3Cp4KcfCRyEi) | 2:29 |
-| 33 | [House On Fire](https://open.spotify.com/track/2iHsdUnmKGIuc9oRE3DfgJ) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [House On Fire](https://open.spotify.com/album/4zZ3DDacL1IvmaozxYEGuL) | 2:20 |
-| 34 | [Ring meg opp](https://open.spotify.com/track/6CNjrSMafnMTIDqklY7F99) | [Tigergutt101](https://open.spotify.com/artist/1tjaYa0dBPYGvEHOVUMX5K), [A36](https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt) | [Ring meg opp](https://open.spotify.com/album/1FG8tvdPFJpv1ZA4vQu00P) | 2:12 |
+| 33 | [Ring meg opp](https://open.spotify.com/track/6CNjrSMafnMTIDqklY7F99) | [Tigergutt101](https://open.spotify.com/artist/1tjaYa0dBPYGvEHOVUMX5K), [A36](https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt) | [Ring meg opp](https://open.spotify.com/album/1FG8tvdPFJpv1ZA4vQu00P) | 2:12 |
+| 34 | [House On Fire](https://open.spotify.com/track/2iHsdUnmKGIuc9oRE3DfgJ) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [House On Fire](https://open.spotify.com/album/4zZ3DDacL1IvmaozxYEGuL) | 2:20 |
 | 35 | [Da vi var to](https://open.spotify.com/track/66mAcIc3VtfVTgae4gVeBV) | [Carina Dahl](https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt), [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Da vi var to](https://open.spotify.com/album/5kubT1Uexezpd5eejqQDgZ) | 3:07 |
 | 36 | [You Need Me Now? \(feat\. Sabrina Carpenter\)](https://open.spotify.com/track/3zPGZBbZEGqu7eY7R0NkqI) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9), [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [You Need Me Now? \(feat\. Sabrina Carpenter\)](https://open.spotify.com/album/26H0jinpdi0RSrZq90fNMF) | 3:06 |
 | 37 | [Volare](https://open.spotify.com/track/2g11HhWmh6h2EgnMK3WWSu) | [Delara](https://open.spotify.com/artist/2PVHjhJWIKgb2yfBTmQerg) | [Volare](https://open.spotify.com/album/0pjIyeItcmwcyGjyYElzEg) | 2:38 |
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb0iJOO12OY8.md) - [plain]
 | 41 | [Sånne Som Oss](https://open.spotify.com/track/2c6gm3rPfI0XGgbvm2mK3y) | [El Papi](https://open.spotify.com/artist/54CixfaGAPcjkP7Dx5PjvV) | [Sånne Som Oss](https://open.spotify.com/album/7puoXTrLHsfCvDfj1Rqj61) | 2:52 |
 | 42 | [Kunne vi](https://open.spotify.com/track/2zIQ3Sgm3lEMpVRz2hKQao) | [Kamelen](https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61), [Makosir](https://open.spotify.com/artist/0G7lEqLdSyAiUGMB1P9nsh) | [Kunne vi](https://open.spotify.com/album/285MzfmGoQE0a1MTPzZxPN) | 2:13 |
 | 43 | [hva om jeg slutta å bry meg](https://open.spotify.com/track/4X1EwzdgQpIIqzHO5HVYQ2) | [lille Caesar](https://open.spotify.com/artist/79ydqO3TZ35NwkWtjyvugR) | [hva om jeg slutta å bry meg](https://open.spotify.com/album/0r8iLgMrTIDdsa5ourX69b) | 3:06 |
-| 44 | [Danseproblem](https://open.spotify.com/track/4MyPCOodOr2arMPmDxHqBX) | [Bausa](https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg), [Coucheron](https://open.spotify.com/artist/6ly2Z6h9dOerORbK1l2N8D) | [Danseproblem](https://open.spotify.com/album/5du6PDgOJPuXt6EwK8Y3HE) | 2:43 |
-| 45 | [Kun i kveld](https://open.spotify.com/track/6PIkK5x2L0t4v10BofX67d) | [Søte og Rare Gutter](https://open.spotify.com/artist/2gmup32OWc65WVKSoP4rD8) | [Kun i kveld](https://open.spotify.com/album/4jhm1B2vDAGkhlnVJWoZ3S) | 2:20 |
+| 44 | [Kun i kveld](https://open.spotify.com/track/6PIkK5x2L0t4v10BofX67d) | [Søte og Rare Gutter](https://open.spotify.com/artist/2gmup32OWc65WVKSoP4rD8) | [Kun i kveld](https://open.spotify.com/album/4jhm1B2vDAGkhlnVJWoZ3S) | 2:20 |
+| 45 | [Danseproblem](https://open.spotify.com/track/4MyPCOodOr2arMPmDxHqBX) | [Bausa](https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg), [Coucheron](https://open.spotify.com/artist/6ly2Z6h9dOerORbK1l2N8D) | [Danseproblem](https://open.spotify.com/album/5du6PDgOJPuXt6EwK8Y3HE) | 2:43 |
 | 46 | [Superhelt Steez](https://open.spotify.com/track/4FoRpi0ILF4DEj8rAP578w) | [UNDERGRUNN](https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb) | [Norge Elsker Rap](https://open.spotify.com/album/2JLWcW7Qgi5QPYzNcPggoJ) | 3:02 |
 | 47 | [Lever Livet](https://open.spotify.com/track/03EVFwVKaimcw3ZNkoU6x7) | [Kamelen](https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61) | [Lever Livet](https://open.spotify.com/album/753mxKgIv1sOihb9r6R7Zl) | 2:53 |
 | 48 | [Sjarmør \(Beepolar\)](https://open.spotify.com/track/6KRzKdnFjMabdStm61TQ13) | [Problembarn](https://open.spotify.com/artist/4OL8M4X2h0li7ThNulTjmx) | [Sjarmør \(Beepolar\)](https://open.spotify.com/album/2AnzUlvs4pLnZ4RdawxOzD) | 2:43 |

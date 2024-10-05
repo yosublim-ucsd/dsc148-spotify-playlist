@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HtC0bZzINB.md) - [plain]
 
 > Yerli Afro, Latin ve trap ritimleri ile yazın en hareketli hali.
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,310 likes - 50 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,381 likes - 50 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HtC0bZzINB.md) - [plain]
 | 49 | [BABY BİRTANEM](https://open.spotify.com/track/1aPqj5kIol0lpGiBpWOflL) | [Zen\-G](https://open.spotify.com/artist/4HSiNCPhdU2snKaVJytlUM) | [BABY BİRTANEM](https://open.spotify.com/album/6fyc11DLRRgRZOMVm7PKNL) | 2:47 |
 | 50 | [Seviyo Sevmiyo](https://open.spotify.com/track/6vK6gdUdjOZEziksqwyUf2) | [Umut Timur](https://open.spotify.com/artist/650blPhpj24aloFTk941L3), [Eypio](https://open.spotify.com/artist/6h5P3J0j1x2lhiDk9w4deZ) | [Seviyo Sevmiyo](https://open.spotify.com/album/22cG8bAE9Yip1R4xsmHgCi) | 2:52 |
 
-Snapshot ID: `ZpYv1QAAAACevaIHpKlGkfeIsnjvcdF4`
+Snapshot ID: `Zv+hSgAAAADLcjCkL/E0kfV3B4BfY1nX`

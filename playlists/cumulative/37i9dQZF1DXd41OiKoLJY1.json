@@ -43437,6 +43437,24 @@
     },
     {
       "album": {
+        "name": "She Don't",
+        "url": "https://open.spotify.com/album/66cfmoek7arPIfImWDJyJf"
+      },
+      "artists": [
+        {
+          "name": "Royette",
+          "url": "https://open.spotify.com/artist/7LYfNPFV0kGH7GhKHKlIAU"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216993,
+      "name": "She Don't",
+      "url": "https://open.spotify.com/track/19nRNXTHFIO6kadcO9s7a6"
+    },
+    {
+      "album": {
         "name": "She Knows",
         "url": "https://open.spotify.com/album/1b4haAi4bnHvg9kwInOkmv"
       },

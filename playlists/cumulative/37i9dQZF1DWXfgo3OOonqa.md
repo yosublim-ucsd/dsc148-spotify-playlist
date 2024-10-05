@@ -4,7 +4,7 @@
 
 > håll det 100.
 
-1,615 songs - 2 day 22 hr 20 min
+1,616 songs - 2 day 22 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -434,6 +434,7 @@
 | [Dyrbar tid](https://open.spotify.com/track/7ymV4ydTlFx6YQiBDJQyuu) | [Abadai](https://open.spotify.com/artist/3EAX0xy2xS8pWLu8ZWXRMW) | [AURINHO](https://open.spotify.com/album/4QB2qpnzelipDvMc9ifKMj) | 2:26 | 2022-03-04 | 2022-03-18 |
 | [DÅRHUS](https://open.spotify.com/track/1SKJEblmOgIvPR6hzoEXeb) | [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO) | [DÅRHUS](https://open.spotify.com/album/4GjsAzIrjlchNOlZPeavue) | 2:43 | 2024-06-06 |  |
 | [Déjà vu \(feat\. C.Gambino & 23\)](https://open.spotify.com/track/1bUTP3icgEIjcMFiu1QGh6) | [Robin Kadir](https://open.spotify.com/artist/4juMqlCDk4p6TrM7JXfSw2), [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI), [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA) | [Deja Vu](https://open.spotify.com/album/1wpsPacRm2SljIFYtkZYtF) | 1:14 | 2023-08-31 | 2023-09-08 |
+| [Dör för oss](https://open.spotify.com/track/6XefQa6vfcvAHl2iHzBhQO) | [Luc1ano](https://open.spotify.com/artist/5FrvaIrf2vik2rktPWOrsN), [SHYDE](https://open.spotify.com/artist/45lkyvZqssTcpM1bX5O5Cv) | [Dör för oss](https://open.spotify.com/album/5iAXOi2m8FZfZYgRJ3CxiZ) | 2:35 | 2024-10-04 |  |
 | [E DU VAKEN](https://open.spotify.com/track/72RnbPWj4ZnhzWYKDYqwpy) | [Gee Dixon](https://open.spotify.com/artist/3oJjZweJo9yqNFnKBTlgm0) | [E DU VAKEN](https://open.spotify.com/album/4OZpmBbZVXUCyeQZ21EMPS) | 2:58 | 2024-09-12 |  |
 | [EASTCOAST](https://open.spotify.com/track/1JIrDKkqbxPt3LTkKklPPq) | [Blå](https://open.spotify.com/artist/3FqQMnFmz6Zuz17XZKpbOD) | [EASTCOAST](https://open.spotify.com/album/19DJUhaXapZDdckOdawtgd) | 2:07 | 2023-09-07 | 2023-09-22 |
 | [ED HARDY](https://open.spotify.com/track/6snsrXkJUzGLEqgpZDuVZ3) | [BELL](https://open.spotify.com/artist/2MnEe6M7ibhg3RAG0Ydtp4) | [ED HARDY](https://open.spotify.com/album/1K6Yk1Eae12WUiozsnssOH) | 1:49 | 2022-11-24 | 2023-01-06 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTgSTuHRv7LV.md) - [plain]
 
 > Lo mejor del Hip\-Hop y Rap en español\. Cover: Genio La Musa
 
-[Spotify](https://open.spotify.com/user/spotify) - 496,342 likes - 160 songs - 9 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 496,384 likes - 160 songs - 9 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

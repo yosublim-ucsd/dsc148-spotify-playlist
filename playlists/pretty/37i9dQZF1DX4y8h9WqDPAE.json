@@ -1,28 +1,32 @@
 {
-  "description": "Where R&B meets Hip-Hop, Pop and everything in between !  Cover: Amaarae",
-  "num_followers": 1747011,
+  "description": "Where R&B meets Hip-Hop, Pop and everything in between !  Cover: Jordan Ward & Joony",
+  "num_followers": 1746970,
   "original_name": "Channel-X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zva2WQAAAAAwi0UV6KRhufr2dfTbfIyl",
+  "snapshot_id": "Zv+cTgAAAABIQS5d8NsFA3ZEhtbps3dS",
   "tracks": [
     {
-      "added_at": "2024-06-28 17:36:18",
+      "added_at": "2024-10-04 07:42:06",
       "album": {
-        "name": "roses are red, tears are blue \u2014 A Fountain Baby Extended Play",
-        "url": "https://open.spotify.com/album/7zgIcnbeNavZHeaTuVd6Po"
+        "name": "JRNY",
+        "url": "https://open.spotify.com/album/0ScSPughEFitl5bfKlhvTb"
       },
       "artists": [
         {
-          "name": "Amaarae",
-          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+          "name": "Jordan Ward",
+          "url": "https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf"
+        },
+        {
+          "name": "Joony",
+          "url": "https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35"
         }
       ],
-      "duration_ms": 184805,
-      "name": "this!",
-      "url": "https://open.spotify.com/track/0TpZlEJiAgYGCLIQSCNiSL"
+      "duration_ms": 142666,
+      "name": "Burning Rubber",
+      "url": "https://open.spotify.com/track/1vExubRVvilXeSg8S1IjBK"
     },
     {
       "added_at": "2024-09-27 13:42:49",
@@ -61,6 +65,26 @@
       "url": "https://open.spotify.com/track/7liEa3mZZwh9auF98KYITv"
     },
     {
+      "added_at": "2024-10-04 07:42:06",
+      "album": {
+        "name": "JADED",
+        "url": "https://open.spotify.com/album/1XcpYmfE4vYCKeLQYINlO7"
+      },
+      "artists": [
+        {
+          "name": "Toosii",
+          "url": "https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1"
+        },
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        }
+      ],
+      "duration_ms": 166954,
+      "name": "I Do (feat. Muni Long)",
+      "url": "https://open.spotify.com/track/5TbYIeYkGgGtYL7sms7m9N"
+    },
+    {
       "added_at": "2024-09-27 13:42:49",
       "album": {
         "name": "Timeless",
@@ -81,24 +105,36 @@
       "url": "https://open.spotify.com/track/1Es7AUAhQvapIcoh3qMKDL"
     },
     {
-      "added_at": "2024-08-30 04:49:06",
+      "added_at": "2024-06-28 17:36:18",
       "album": {
-        "name": "While We Wait 2",
-        "url": "https://open.spotify.com/album/6BtMJG0J0QnXIiGRCMgkxA"
+        "name": "roses are red, tears are blue \u2014 A Fountain Baby Extended Play",
+        "url": "https://open.spotify.com/album/7zgIcnbeNavZHeaTuVd6Po"
       },
       "artists": [
         {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        },
-        {
-          "name": "FLO",
-          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
+          "name": "Amaarae",
+          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
         }
       ],
-      "duration_ms": 171172,
-      "name": "8 (feat. FLO) - Remix",
-      "url": "https://open.spotify.com/track/5DLsTmQFQ3yCPowg1nreoh"
+      "duration_ms": 184805,
+      "name": "this!",
+      "url": "https://open.spotify.com/track/0TpZlEJiAgYGCLIQSCNiSL"
+    },
+    {
+      "added_at": "2024-10-04 07:42:06",
+      "album": {
+        "name": "JAGUAR II : Deluxe",
+        "url": "https://open.spotify.com/album/7mHd5i7hgpHiMM3BFyfRdn"
+      },
+      "artists": [
+        {
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+        }
+      ],
+      "duration_ms": 250454,
+      "name": "Love Is Stronger Than Pride",
+      "url": "https://open.spotify.com/track/1upAmogfao9L253WeV9Jk5"
     },
     {
       "added_at": "2024-09-13 08:51:44",
@@ -123,22 +159,22 @@
     {
       "added_at": "2024-08-30 04:49:06",
       "album": {
-        "name": "Revenge",
-        "url": "https://open.spotify.com/album/1q37MEHkdOivTuJJbwRkGS"
+        "name": "While We Wait 2",
+        "url": "https://open.spotify.com/album/6BtMJG0J0QnXIiGRCMgkxA"
       },
       "artists": [
         {
-          "name": "Muni Long",
-          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
         },
         {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+          "name": "FLO",
+          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
         }
       ],
-      "duration_ms": 196040,
-      "name": "Leave My Baby Tonight (feat. GloRilla)",
-      "url": "https://open.spotify.com/track/79Az2dOKvoR2hfVEIRZd1D"
+      "duration_ms": 171172,
+      "name": "8 (feat. FLO) - Remix",
+      "url": "https://open.spotify.com/track/5DLsTmQFQ3yCPowg1nreoh"
     },
     {
       "added_at": "2024-09-27 13:42:49",
@@ -173,6 +209,26 @@
       "url": "https://open.spotify.com/track/7i2H2HgdJjwpxTRt8NW8jY"
     },
     {
+      "added_at": "2024-10-04 07:42:06",
+      "album": {
+        "name": "wings",
+        "url": "https://open.spotify.com/album/46jYkyZi8Ql9jfuJ2IQ8vF"
+      },
+      "artists": [
+        {
+          "name": "th\u1ee7y",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        },
+        {
+          "name": "Blxst",
+          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+        }
+      ],
+      "duration_ms": 171697,
+      "name": "whatcha gotta say (with Blxst)",
+      "url": "https://open.spotify.com/track/4MGD9rpRJlRj8jSfuFh4B9"
+    },
+    {
       "added_at": "2024-08-30 04:49:06",
       "album": {
         "name": "Alligator Bites Never Heal",
@@ -205,20 +261,84 @@
       "url": "https://open.spotify.com/track/27UB48yRwGTsPsswfAbgN1"
     },
     {
-      "added_at": "2024-09-13 08:51:44",
+      "added_at": "2024-10-04 07:42:06",
       "album": {
-        "name": "Gap Year!",
-        "url": "https://open.spotify.com/album/2ObDRU1wRJ2fZ2yD9WXNYy"
+        "name": "Love's Letter (Deluxe)",
+        "url": "https://open.spotify.com/album/1wmUwj9AEOuWtq9eyZjvy2"
       },
       "artists": [
         {
-          "name": "Laila!",
-          "url": "https://open.spotify.com/artist/7tHTnyrdTNM152slc8aQ3t"
+          "name": "Shae Universe",
+          "url": "https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N"
+        },
+        {
+          "name": "ESTA.",
+          "url": "https://open.spotify.com/artist/4KZmpaIhanIo46eaQimtgO"
         }
       ],
-      "duration_ms": 146341,
-      "name": "Want 2",
-      "url": "https://open.spotify.com/track/6yWain3Q65m9WJzq48q24f"
+      "duration_ms": 120000,
+      "name": "Summertime (ESTA. Remix)",
+      "url": "https://open.spotify.com/track/4iGY8xTqJnfTRaOKtyWweE"
+    },
+    {
+      "added_at": "2024-10-04 07:42:06",
+      "album": {
+        "name": "Save Your Tears",
+        "url": "https://open.spotify.com/album/5OsEbjWD8EokWIDtnu7kB9"
+      },
+      "artists": [
+        {
+          "name": "Nippa",
+          "url": "https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq"
+        },
+        {
+          "name": "Gabzy",
+          "url": "https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62"
+        },
+        {
+          "name": "GuiltyBeatz",
+          "url": "https://open.spotify.com/artist/5DCdWXQ0QHQYlok4KK97em"
+        }
+      ],
+      "duration_ms": 144545,
+      "name": "Save Your Tears",
+      "url": "https://open.spotify.com/track/46GFekGGrmoINYhMJInH4e"
+    },
+    {
+      "added_at": "2024-08-30 04:49:06",
+      "album": {
+        "name": "Revenge",
+        "url": "https://open.spotify.com/album/1q37MEHkdOivTuJJbwRkGS"
+      },
+      "artists": [
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "duration_ms": 196040,
+      "name": "Leave My Baby Tonight (feat. GloRilla)",
+      "url": "https://open.spotify.com/track/79Az2dOKvoR2hfVEIRZd1D"
+    },
+    {
+      "added_at": "2024-10-04 07:42:06",
+      "album": {
+        "name": "LEFT EYE",
+        "url": "https://open.spotify.com/album/73a0ZoJbegxvZoLe9pMW77"
+      },
+      "artists": [
+        {
+          "name": "Honey Bxby",
+          "url": "https://open.spotify.com/artist/4a0B39qi5Ks6KCPz0KptTO"
+        }
+      ],
+      "duration_ms": 133234,
+      "name": "LEFT EYE",
+      "url": "https://open.spotify.com/track/6V0bEMXp3ZynscGRT3QBiA"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -259,6 +379,38 @@
       "duration_ms": 209182,
       "name": "FEELINGS ON SILENT (feat. Wale)",
       "url": "https://open.spotify.com/track/0XQFACvy0OCADmCIgHNtXJ"
+    },
+    {
+      "added_at": "2024-09-13 08:51:44",
+      "album": {
+        "name": "Gap Year!",
+        "url": "https://open.spotify.com/album/2ObDRU1wRJ2fZ2yD9WXNYy"
+      },
+      "artists": [
+        {
+          "name": "Laila!",
+          "url": "https://open.spotify.com/artist/7tHTnyrdTNM152slc8aQ3t"
+        }
+      ],
+      "duration_ms": 146341,
+      "name": "Want 2",
+      "url": "https://open.spotify.com/track/6yWain3Q65m9WJzq48q24f"
+    },
+    {
+      "added_at": "2024-10-04 07:42:06",
+      "album": {
+        "name": "JAGUAR II : Deluxe",
+        "url": "https://open.spotify.com/album/7mHd5i7hgpHiMM3BFyfRdn"
+      },
+      "artists": [
+        {
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+        }
+      ],
+      "duration_ms": 149195,
+      "name": "1900's",
+      "url": "https://open.spotify.com/track/79XRUITVajhW5Snn7WF3YQ"
     },
     {
       "added_at": "2024-09-20 04:00:00",

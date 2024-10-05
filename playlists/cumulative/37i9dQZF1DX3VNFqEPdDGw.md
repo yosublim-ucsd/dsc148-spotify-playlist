@@ -4,7 +4,7 @@
 
 > Bhangra is our pride, Bhangra is our culture\. Cover: Sharry Maan
 
-117 songs - 6 hr 10 min
+118 songs - 6 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Let 'em Play](https://open.spotify.com/track/5Cup5xIrEjpqxRbHASY9K7) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Let 'em Play](https://open.spotify.com/album/2gIppPmL10lO7CVK1NBNfW) | 3:12 | 2021-12-18 |  |
 | [Let 'em Play](https://open.spotify.com/track/6S6HSSk9HzWe3pqvUJn6Vq) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Let 'em Play](https://open.spotify.com/album/3eo5DzbsNmG1KYZgwEUeLX) | 3:15 | 2022-07-05 | 2024-04-19 |
 | [Majha Block](https://open.spotify.com/track/3CPvL9ehmERejt7b5RvVAY) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H) | [Majha Block](https://open.spotify.com/album/284tuekFOZ6066Schm1gE7) | 4:09 | 2021-12-18 |  |
+| [Majha Malwa](https://open.spotify.com/track/3SJTSI4YYcAqHPxwoTzuPc) | [Jaswinder Brar](https://open.spotify.com/artist/6r2i43KR94c0Q0fm7OyJEJ), [Bunty Bains](https://open.spotify.com/artist/4eHycMGKslAXJLcLO4F82x), [Chet Singh](https://open.spotify.com/artist/5aWkTGq5O45ES0fDFmN1Wv) | [Majha Malwa](https://open.spotify.com/album/3VBpU3AUhN2OLsuGBmuLNp) | 2:53 | 2024-10-04 |  |
 | [MAJHE AALE](https://open.spotify.com/track/5eN1nmOe9R29OBL6soTJov) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Shinda Kahlon](https://open.spotify.com/artist/6aQfrWHwAcuY8IYItbChZh), [Gurinder Gill](https://open.spotify.com/artist/5DHi2MeoRgAwPE0A0qwRMl), [Gminxr](https://open.spotify.com/artist/4vvW590Gq8dNWsP5BM9FkS) | [HIDDEN GEMS](https://open.spotify.com/album/3fOswFPlmSWKTTFTlksdiv) | 2:50 | 2022-01-10 | 2024-10-02 |
 | [Malwa Block](https://open.spotify.com/track/4d3tiblcaqGdji7XvPGHiq) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ) | [Moosetape](https://open.spotify.com/album/45ZIondgVoMB84MQQaUo9T) | 3:59 | 2021-12-18 |  |
 | [Mandeer](https://open.spotify.com/track/2nxQsbR0Cqy4MPI6vftwyX) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Awara](https://open.spotify.com/album/5yfA6iH6eQ4JkhT0z9mmmF) | 3:10 | 2021-12-18 |  |
@@ -110,7 +111,7 @@
 | [Taur](https://open.spotify.com/track/36rHMZtn1m5BsBkOOCf7l0) | [Dilpreet Dhillon](https://open.spotify.com/artist/5CGQa62CAweD76eHlDmp1m), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2) | [Taur](https://open.spotify.com/album/4qT64NdvLkejlbqsJvZs5T) | 2:46 | 2023-07-26 |  |
 | [Tera Canada](https://open.spotify.com/track/7ghypi2mLGlUPzwbcfPTNe) | [Himmat Sandhu](https://open.spotify.com/artist/3wsrcGXTRAukQgXrUHJMwC), [Jang Dhillon](https://open.spotify.com/artist/04h37X9hVdRuKEbl2y9naq) | [Tera Canada](https://open.spotify.com/album/01bK2JE8QRNyNA6Tb79j3Z) | 3:20 | 2023-09-01 | 2024-02-01 |
 | [These Days \(feat\. Bohemia\)](https://open.spotify.com/track/2zQE8TE5BQDJA11ggnope9) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Bohemia](https://open.spotify.com/artist/0SWOtgI95g7oVrP9halrmP) | [Moosetape](https://open.spotify.com/album/45ZIondgVoMB84MQQaUo9T) | 3:29 | 2021-12-18 | 2023-09-02 |
-| [Throughout India](https://open.spotify.com/track/7j1DG6gSjOJGlJfxlzrERW) | [Pari Pandher](https://open.spotify.com/artist/5FacpiPeQOaDKcKXm1UcyA), [Bunty Bains](https://open.spotify.com/artist/4eHycMGKslAXJLcLO4F82x), [Jassi X](https://open.spotify.com/artist/3rJlJIcCjbAyj4X08YQqsS) | [Throughout India](https://open.spotify.com/album/1ttVBeIUtxc9tL0aYcCUgG) | 2:25 | 2023-12-18 |  |
+| [Throughout India](https://open.spotify.com/track/7j1DG6gSjOJGlJfxlzrERW) | [Pari Pandher](https://open.spotify.com/artist/5FacpiPeQOaDKcKXm1UcyA), [Bunty Bains](https://open.spotify.com/artist/4eHycMGKslAXJLcLO4F82x), [Jassi X](https://open.spotify.com/artist/3rJlJIcCjbAyj4X08YQqsS) | [Throughout India](https://open.spotify.com/album/1ttVBeIUtxc9tL0aYcCUgG) | 2:25 | 2023-12-18 | 2024-10-05 |
 | [Too Much](https://open.spotify.com/track/1mWmBaq051j74b1MviNVLR) | [Garry Sandhu](https://open.spotify.com/artist/7M3xY5iHSzEtoL3FpqOD75), [Nehanda](https://open.spotify.com/artist/0aH7AME258mezNJiDaBi5S) | [Too Much](https://open.spotify.com/album/5fzqXSaWIZvsA0s5zbzu8e) | 2:50 | 2022-01-10 |  |
 | [Top Notch Gabru](https://open.spotify.com/track/5ACacHdqtOjENeTgh4qfmy) | [Vicky](https://open.spotify.com/artist/7zCChitz4Xn1O7OqXjOhhR) | [Top Notch Gabru](https://open.spotify.com/album/00ZQAJAlj1QPNEm8hfHJDG) | 2:38 | 2021-12-18 |  |
 | [Truckan Wale](https://open.spotify.com/track/7LtdzqwjhlIRBiI7FjBYmL) | [R Nait](https://open.spotify.com/artist/4buk1Dwc5ynSnOGVeMJOON), [Jasmeen Akhtar](https://open.spotify.com/artist/26Nqjj62IAXWZJptGopt9C), [Qaistrax](https://open.spotify.com/artist/1V0BZ28beCXcK8kxt1A5fj) | [Truckan Wale](https://open.spotify.com/album/0ZGgq6ThhhhbJhSVaL3kUx) | 4:18 | 2024-09-28 |  |

@@ -3612,7 +3612,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 274500,
       "name": "Julia (deep diving)",
       "url": "https://open.spotify.com/track/5DHSlpd0MX9DfnoAQqolfa"
@@ -3816,6 +3816,24 @@
       "duration_ms": 227384,
       "name": "Lay It All On Me",
       "url": "https://open.spotify.com/track/1MPfyPFjBE0e9GGWImKlXf"
+    },
+    {
+      "album": {
+        "name": "LEAVE IT ALL BEHIND",
+        "url": "https://open.spotify.com/album/6Y9HX9UwK5M6pwICoHkTNA"
+      },
+      "artists": [
+        {
+          "name": "Alex LeMirage",
+          "url": "https://open.spotify.com/artist/2fYtH8OoLTeDIicmFH9dNu"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181818,
+      "name": "LEAVE IT ALL BEHIND",
+      "url": "https://open.spotify.com/track/6UTUFQdLHBHKpvKDGqFwMq"
     },
     {
       "album": {
@@ -4153,6 +4171,28 @@
     },
     {
       "album": {
+        "name": "Lose U",
+        "url": "https://open.spotify.com/album/5INa4Gj1eJQ3s94LUYMbTb"
+      },
+      "artists": [
+        {
+          "name": "Longo",
+          "url": "https://open.spotify.com/artist/6myydsPHqq4xmZD7DWzRjI"
+        },
+        {
+          "name": "Martina Corona",
+          "url": "https://open.spotify.com/artist/58tyddZEZ2XcaKSmTV19aA"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134048,
+      "name": "Lose U",
+      "url": "https://open.spotify.com/track/4UxzIiAZU4FKsvamlYRWZz"
+    },
+    {
+      "album": {
         "name": "Gloria",
         "url": "https://open.spotify.com/album/3Uq1jNGnD412ZvCb6j2DKV"
       },
@@ -4314,6 +4354,24 @@
       "duration_ms": 253121,
       "name": "Love Letter",
       "url": "https://open.spotify.com/track/26wuBc04catG1QQyYupr35"
+    },
+    {
+      "album": {
+        "name": "Love Tonight",
+        "url": "https://open.spotify.com/album/1E7EGXHRWEh1fD66BIUVE5"
+      },
+      "artists": [
+        {
+          "name": "19Clouds",
+          "url": "https://open.spotify.com/artist/0AWnGbHpn20wrP1nlFNSnF"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200004,
+      "name": "Love Tonight",
+      "url": "https://open.spotify.com/track/4O08MXwFgXuoyjmbz8boTe"
     },
     {
       "album": {
@@ -6868,7 +6926,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 237745,
       "name": "Stuck In The Middle",
       "url": "https://open.spotify.com/track/7g7eqjBT36hZ6VsVk4lWRy"
@@ -6992,7 +7050,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 221538,
       "name": "Teardrops",
       "url": "https://open.spotify.com/track/5MgK46SeLyGkhtb81v38Ks"

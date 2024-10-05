@@ -4,7 +4,7 @@
 
 > Rock with a Drop\. Cover: HVDES \\m/
 
-455 songs - 1 day 1 hr 46 min
+456 songs - 1 day 1 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [BANDIT](https://open.spotify.com/track/1fAuOuvbZiQS9tOiTgB9Hf) | [Benda](https://open.spotify.com/artist/0md3NIXueJZSFZ82HMu26M), [Phvge](https://open.spotify.com/artist/75SYxpsFl3pR4GLXkzrCul) | [BANDITS](https://open.spotify.com/album/5aOnHMnFJ8KNdztwaWsVco) | 2:42 | 2024-07-26 |  |
 | [Baptize \- Sullivan King Remix](https://open.spotify.com/track/2BapJncaYH9qOeNizjXv2Q) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv), [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e) | [Baptize \(Sullivan King Remix\)](https://open.spotify.com/album/5uQbdtWsZJNZwD7MUFYwYj) | 4:10 | 2023-04-28 | 2024-04-06 |
 | [Baptize \- Sullivan King Remix](https://open.spotify.com/track/48JuHnroG6NcNMVGcFFVRw) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv), [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e) | [Baptize \(Sullivan King Remix\)](https://open.spotify.com/album/170AbiVPb4OIprabzweN14) | 4:10 | 2022-06-10 | 2023-05-07 |
+| [Bass Face](https://open.spotify.com/track/0r0zDWOaHTD9pZWI2jvM2V) | [SNAILS](https://open.spotify.com/artist/2yT7X3Gg2S51DHz67FAYL6), [NITTI](https://open.spotify.com/artist/21AUdblPrTRzkvJn8FGrlk), [Stained With Silver](https://open.spotify.com/artist/4VOVIahGBqyaFoUbWvrMeo) | [Bass Face](https://open.spotify.com/album/1y8Z4oeuzxfPsQF3wU1It5) | 3:00 | 2024-10-04 |  |
 | [Bass To The Dome](https://open.spotify.com/track/6nVyDjAhify9FGCF8TViJy) | [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb), [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e) | [Bass To The Dome](https://open.spotify.com/album/7wm9Wbf0GZ1wxTEyHQeMu0) | 3:23 | 2023-08-25 |  |
 | [Battle Sirens \(feat\. Knife Party\)](https://open.spotify.com/track/6PeXzqP7E9g3H0aMbBhB9L) | [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed), [Knife Party](https://open.spotify.com/artist/2DuJi13MWHjRHrqRUwk8vH) | [The Atlas Underground](https://open.spotify.com/album/1oNUnZUmjJNjuWoGmY4caC) | 4:03 | 2022-01-07 | 2022-04-21 |
 | [Be Careful What You Say](https://open.spotify.com/track/296Fv8CqhmVqEol73p5y4Q) | [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n) | [Be Careful What You Say](https://open.spotify.com/album/4QsFsQhwDJLUbKLSeceD1w) | 3:30 | 2023-02-10 | 2023-03-28 |
@@ -68,7 +69,7 @@
 | [By Your Side](https://open.spotify.com/track/06KgkNaJPuhFTkiwsLr0xX) | [Caslow](https://open.spotify.com/artist/40zwrE4brs61aEleZQ6SNq), [Bertie Scott](https://open.spotify.com/artist/2m0xNVRx1tAHY3pfNXt7Ro), [PatFromLastYear](https://open.spotify.com/artist/0WqLTgwIxVGym0LlUwiHro) | [By Your Side](https://open.spotify.com/album/18dw5dQmUapO6Io1q20L98) | 3:15 | 2023-12-08 | 2024-03-23 |
 | [California](https://open.spotify.com/track/0o6V0Ij0wf7nZiTxPTiWgQ) | [Gareth Emery](https://open.spotify.com/artist/0hprEC0nsWuQPSHag1O2Vi), [Gid Sedgwick](https://open.spotify.com/artist/3Y43xMeiPftAookVOSKu1Y) | [California](https://open.spotify.com/album/1bwm2WcKV53zVrowa9TdPy) | 3:11 | 2022-10-14 | 2023-12-02 |
 | [Cash Machine \(Remix\) \[feat\. Dillon Francis & grandson\]](https://open.spotify.com/track/6FqS20S6qXlbL3o2htqszT) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe), [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [Cash Machine \(Remix\) \[feat\. Dillon Francis & grandson\]](https://open.spotify.com/album/69pshuUSWZvUCylSdkYrFh) | 2:50 | 2021-12-10 | 2023-07-01 |
-| [Cheerleader](https://open.spotify.com/track/5VlOlh5dIIdhnynEM0tCPp) | [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45) | [Cheerleader](https://open.spotify.com/album/0YVBxt3XNv4ZMSawxI0OzI) | 3:25 | 2024-08-09 |  |
+| [Cheerleader](https://open.spotify.com/track/5VlOlh5dIIdhnynEM0tCPp) | [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45) | [Cheerleader](https://open.spotify.com/album/0YVBxt3XNv4ZMSawxI0OzI) | 3:25 | 2024-08-09 | 2024-10-05 |
 | [Cheerleader](https://open.spotify.com/track/779mhz1mAry946r91qzR1r) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam) | [Cheerleader](https://open.spotify.com/album/0KdbNiljxzEMCwkVJS0wzI) | 3:57 | 2024-03-22 | 2024-04-19 |
 | [Cheerleader](https://open.spotify.com/track/6Nd0zIgpwa1W1faRldX6n8) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam) | [Cheerleader](https://open.spotify.com/album/6P1n6t28uJ48tzyKUIsbel) | 3:58 | 2024-04-19 | 2024-06-13 |
 | [CHOKE \(with grandson & Zero 9:36\)](https://open.spotify.com/track/3AV8nyFN5AgejU5DZI9wKl) | [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh), [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4), [Zero 9:36](https://open.spotify.com/artist/1V599H9vfq6hWe2hGzyzI0) | [CHOKE](https://open.spotify.com/album/6AovsGSkC91dKnj7rXeK0z) | 2:40 | 2022-08-26 |  |

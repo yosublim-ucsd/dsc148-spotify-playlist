@@ -1,12 +1,12 @@
 {
   "description": "The best new dance & electronic by independent artists and labels. Cover: Depart. Artwork by Rewina Beshue.",
-  "num_followers": 185133,
+  "num_followers": 185162,
   "original_name": "Fresh Finds Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zv2KvgAAAADDiuikqYJ3tNQSLzfXTk4s",
+  "snapshot_id": "ZwBLWgAAAAAqtRoGXXBYz9Z6ABixu9dh",
   "tracks": [
     {
       "added_at": "2024-10-02 18:02:38",
@@ -25,20 +25,20 @@
       "url": "https://open.spotify.com/track/5OSzXRTx1msElW0VGB1Dwl"
     },
     {
-      "added_at": "2024-08-28 16:35:01",
+      "added_at": "2024-10-02 18:02:38",
       "album": {
-        "name": "Dance With You (All Night)",
-        "url": "https://open.spotify.com/album/2tnfANxib7urtE2qaqt9zG"
+        "name": "On My Mind",
+        "url": "https://open.spotify.com/album/1LxRC3xEoWJAuNCPTdxlYM"
       },
       "artists": [
         {
-          "name": "Menesix",
-          "url": "https://open.spotify.com/artist/4g6OmxrDFvrYD0PS9Ki0fQ"
+          "name": "Le Boom",
+          "url": "https://open.spotify.com/artist/7MyOyVdHb3cbI7fGZuG6gp"
         }
       ],
-      "duration_ms": 188072,
-      "name": "Dance With You (All Night)",
-      "url": "https://open.spotify.com/track/6XhziaA2fyAnIy9NgnHxqX"
+      "duration_ms": 155003,
+      "name": "On My Mind",
+      "url": "https://open.spotify.com/track/58mO9YgRePOUCrDX2u51sz"
     },
     {
       "added_at": "2024-07-03 22:16:33",
@@ -59,22 +59,6 @@
     {
       "added_at": "2024-10-02 18:02:38",
       "album": {
-        "name": "On My Mind",
-        "url": "https://open.spotify.com/album/1LxRC3xEoWJAuNCPTdxlYM"
-      },
-      "artists": [
-        {
-          "name": "Le Boom",
-          "url": "https://open.spotify.com/artist/7MyOyVdHb3cbI7fGZuG6gp"
-        }
-      ],
-      "duration_ms": 155003,
-      "name": "On My Mind",
-      "url": "https://open.spotify.com/track/58mO9YgRePOUCrDX2u51sz"
-    },
-    {
-      "added_at": "2024-10-02 18:02:38",
-      "album": {
         "name": "You Gotta Be Real",
         "url": "https://open.spotify.com/album/3Bm5tFPRZDc8bPfOh5CDTU"
       },
@@ -87,6 +71,38 @@
       "duration_ms": 171692,
       "name": "You Gotta Be Real",
       "url": "https://open.spotify.com/track/4ubG5aMNisOmR8IpKxL0a0"
+    },
+    {
+      "added_at": "2024-08-28 16:35:01",
+      "album": {
+        "name": "Dance With You (All Night)",
+        "url": "https://open.spotify.com/album/2tnfANxib7urtE2qaqt9zG"
+      },
+      "artists": [
+        {
+          "name": "Menesix",
+          "url": "https://open.spotify.com/artist/4g6OmxrDFvrYD0PS9Ki0fQ"
+        }
+      ],
+      "duration_ms": 188072,
+      "name": "Dance With You (All Night)",
+      "url": "https://open.spotify.com/track/6XhziaA2fyAnIy9NgnHxqX"
+    },
+    {
+      "added_at": "2024-10-04 17:15:55",
+      "album": {
+        "name": "Motor Hombre",
+        "url": "https://open.spotify.com/album/4kLE56x341F6cTrl7eMFe4"
+      },
+      "artists": [
+        {
+          "name": "tulengua",
+          "url": "https://open.spotify.com/artist/2rXUN5oxetpexWoqyMYUhu"
+        }
+      ],
+      "duration_ms": 201290,
+      "name": "Motor Hombre",
+      "url": "https://open.spotify.com/track/6hKknw0wDowLXXh2xehw16"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -181,6 +197,46 @@
       "url": "https://open.spotify.com/track/6YEc6DRqlQTRcmKjYggOnN"
     },
     {
+      "added_at": "2024-10-02 18:02:38",
+      "album": {
+        "name": "Touch",
+        "url": "https://open.spotify.com/album/2qeusg4t9ELOMAAJvFOVeP"
+      },
+      "artists": [
+        {
+          "name": "KAYA",
+          "url": "https://open.spotify.com/artist/7igXJX2v4kumgqAl13JMTJ"
+        },
+        {
+          "name": "NIYA",
+          "url": "https://open.spotify.com/artist/3kl4bR5CCJkf1OdTvUgMGZ"
+        }
+      ],
+      "duration_ms": 175714,
+      "name": "Touch",
+      "url": "https://open.spotify.com/track/4f6oR2hRHLPZPajRrXeCLZ"
+    },
+    {
+      "added_at": "2024-10-04 20:08:58",
+      "album": {
+        "name": "Alicia (feat. Alvin Risk)",
+        "url": "https://open.spotify.com/album/3J1B1TXW08yBdBYjxS2ess"
+      },
+      "artists": [
+        {
+          "name": "Will Sass",
+          "url": "https://open.spotify.com/artist/1yCIbpGEKpVs3fZbGItAXc"
+        },
+        {
+          "name": "Alvin Risk",
+          "url": "https://open.spotify.com/artist/34PyHmCLNSwQGSH2AahyVN"
+        }
+      ],
+      "duration_ms": 146479,
+      "name": "Alicia (feat. Alvin Risk)",
+      "url": "https://open.spotify.com/track/4fv2v6hjonmOzhzOHhUI05"
+    },
+    {
       "added_at": "2024-09-06 17:46:41",
       "album": {
         "name": "Tainted",
@@ -227,6 +283,38 @@
       "duration_ms": 144383,
       "name": "Me & U",
       "url": "https://open.spotify.com/track/7lOWnzFtxRsPYpzeCG8OuS"
+    },
+    {
+      "added_at": "2024-10-04 17:15:55",
+      "album": {
+        "name": "Wherever",
+        "url": "https://open.spotify.com/album/3YYuQ5imBez1kqNikmgDvp"
+      },
+      "artists": [
+        {
+          "name": "Grooze",
+          "url": "https://open.spotify.com/artist/29KJ54WU9BuVVREEfBoQr2"
+        }
+      ],
+      "duration_ms": 321147,
+      "name": "Wherever",
+      "url": "https://open.spotify.com/track/42Z1iJEXzCqSpq78w5wZsA"
+    },
+    {
+      "added_at": "2024-10-02 18:02:38",
+      "album": {
+        "name": "BAND4BAND",
+        "url": "https://open.spotify.com/album/5BwO95meODLYBe4NffRrMZ"
+      },
+      "artists": [
+        {
+          "name": "Magic Flowers",
+          "url": "https://open.spotify.com/artist/5gowyoaFBfchd0dEY3kyxC"
+        }
+      ],
+      "duration_ms": 148153,
+      "name": "BAND4BAND",
+      "url": "https://open.spotify.com/track/7DkA1CzvRIsRcOyqfiFgga"
     },
     {
       "added_at": "2024-05-10 04:00:00",
@@ -297,6 +385,22 @@
       "url": "https://open.spotify.com/track/5ypzyAnVcIJZ7f1rqWhBWI"
     },
     {
+      "added_at": "2024-10-04 17:15:55",
+      "album": {
+        "name": "KIDZ",
+        "url": "https://open.spotify.com/album/3PKpaLHUBdIQmTm4rgroQ7"
+      },
+      "artists": [
+        {
+          "name": "AV AV AV",
+          "url": "https://open.spotify.com/artist/0ElSSC4jDQ7mGvDZoAIafM"
+        }
+      ],
+      "duration_ms": 222237,
+      "name": "KIDZ",
+      "url": "https://open.spotify.com/track/6fnPB3xEaMwWbXIFsLK5bu"
+    },
+    {
       "added_at": "2024-09-13 04:00:00",
       "album": {
         "name": "siempre te pienso",
@@ -311,26 +415,6 @@
       "duration_ms": 182906,
       "name": "siempre te pienso",
       "url": "https://open.spotify.com/track/5N4LejUzOmy6nLe3k8nQvt"
-    },
-    {
-      "added_at": "2024-10-02 18:02:38",
-      "album": {
-        "name": "Touch",
-        "url": "https://open.spotify.com/album/2qeusg4t9ELOMAAJvFOVeP"
-      },
-      "artists": [
-        {
-          "name": "KAYA",
-          "url": "https://open.spotify.com/artist/7igXJX2v4kumgqAl13JMTJ"
-        },
-        {
-          "name": "NIYA",
-          "url": "https://open.spotify.com/artist/3kl4bR5CCJkf1OdTvUgMGZ"
-        }
-      ],
-      "duration_ms": 175714,
-      "name": "Touch",
-      "url": "https://open.spotify.com/track/4f6oR2hRHLPZPajRrXeCLZ"
     },
     {
       "added_at": "2024-09-26 00:11:24",
@@ -429,6 +513,26 @@
       "url": "https://open.spotify.com/track/3HM98iPblYJraH2pQIwlti"
     },
     {
+      "added_at": "2024-10-04 17:15:55",
+      "album": {
+        "name": "Lose U",
+        "url": "https://open.spotify.com/album/5INa4Gj1eJQ3s94LUYMbTb"
+      },
+      "artists": [
+        {
+          "name": "Longo",
+          "url": "https://open.spotify.com/artist/6myydsPHqq4xmZD7DWzRjI"
+        },
+        {
+          "name": "Martina Corona",
+          "url": "https://open.spotify.com/artist/58tyddZEZ2XcaKSmTV19aA"
+        }
+      ],
+      "duration_ms": 134048,
+      "name": "Lose U",
+      "url": "https://open.spotify.com/track/4UxzIiAZU4FKsvamlYRWZz"
+    },
+    {
       "added_at": "2024-09-13 04:00:00",
       "album": {
         "name": "COPY ME",
@@ -479,22 +583,6 @@
       "duration_ms": 298253,
       "name": "ADDY",
       "url": "https://open.spotify.com/track/1coEwDG8qGemFUaw8tFvWX"
-    },
-    {
-      "added_at": "2024-10-02 18:02:38",
-      "album": {
-        "name": "BAND4BAND",
-        "url": "https://open.spotify.com/album/5BwO95meODLYBe4NffRrMZ"
-      },
-      "artists": [
-        {
-          "name": "Magic Flowers",
-          "url": "https://open.spotify.com/artist/5gowyoaFBfchd0dEY3kyxC"
-        }
-      ],
-      "duration_ms": 148153,
-      "name": "BAND4BAND",
-      "url": "https://open.spotify.com/track/7DkA1CzvRIsRcOyqfiFgga"
     },
     {
       "added_at": "2024-08-28 16:35:01",
@@ -1025,22 +1113,6 @@
       "url": "https://open.spotify.com/track/1wfMk1SDMDC6dHeorjsscl"
     },
     {
-      "added_at": "2024-08-21 17:29:31",
-      "album": {
-        "name": "Only One",
-        "url": "https://open.spotify.com/album/2Eb6VZ97H48q7orStHq0Il"
-      },
-      "artists": [
-        {
-          "name": "cutback!",
-          "url": "https://open.spotify.com/artist/3K9E1NNVSshkvpK6Fhjwsg"
-        }
-      ],
-      "duration_ms": 154424,
-      "name": "Only One",
-      "url": "https://open.spotify.com/track/2kmgfAlPhh3kCgSzf1tJkL"
-    },
-    {
       "added_at": "2024-07-26 04:00:00",
       "album": {
         "name": "Push That",
@@ -1171,22 +1243,6 @@
       "duration_ms": 116571,
       "name": "FALLING (breathing slowly)",
       "url": "https://open.spotify.com/track/0Pkwrelbc8cnzZoexCmVeT"
-    },
-    {
-      "added_at": "2024-08-21 17:29:31",
-      "album": {
-        "name": "Bossa",
-        "url": "https://open.spotify.com/album/6SiNyPAzNJASnWYaz0ZrgO"
-      },
-      "artists": [
-        {
-          "name": "Ohmfield",
-          "url": "https://open.spotify.com/artist/49YjxCdOqqRtPByQatxh4z"
-        }
-      ],
-      "duration_ms": 151565,
-      "name": "Bossa",
-      "url": "https://open.spotify.com/track/3h6u0KpvMO0pJ7PtjAvfbe"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1405,26 +1461,6 @@
       "url": "https://open.spotify.com/track/5owyt7S3lYVZN3HInaWGDU"
     },
     {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "MOMENT",
-        "url": "https://open.spotify.com/album/73BuM4vxyFd2pKZ56AgGY4"
-      },
-      "artists": [
-        {
-          "name": "MPC GIRL USAGI",
-          "url": "https://open.spotify.com/artist/5f2e0f0Q7tv69BzuLHvien"
-        },
-        {
-          "name": "Acidclank",
-          "url": "https://open.spotify.com/artist/5F0j8hQsmTuCkgIkb0beLc"
-        }
-      ],
-      "duration_ms": 255114,
-      "name": "MOMENT",
-      "url": "https://open.spotify.com/track/5L5ZgD7kMtYN0ocnkzQMAt"
-    },
-    {
       "added_at": "2024-05-24 04:00:00",
       "album": {
         "name": "bambam",
@@ -1493,22 +1529,6 @@
       "url": "https://open.spotify.com/track/4p8idquHqHHlXXQ1ou3psA"
     },
     {
-      "added_at": "2024-08-16 04:00:00",
-      "album": {
-        "name": "No Fuss",
-        "url": "https://open.spotify.com/album/6eBZIYBzvYIXen9WmKgt0w"
-      },
-      "artists": [
-        {
-          "name": "Allan Low",
-          "url": "https://open.spotify.com/artist/10fRQ9UPedAiR089JYZZPN"
-        }
-      ],
-      "duration_ms": 148680,
-      "name": "No Fuss",
-      "url": "https://open.spotify.com/track/3AwN4UWWMsqKcSZ2DJ75my"
-    },
-    {
       "added_at": "2024-08-04 17:33:18",
       "album": {
         "name": "ok </3",
@@ -1539,22 +1559,6 @@
       "duration_ms": 284267,
       "name": "Badboy No Good",
       "url": "https://open.spotify.com/track/35x0t2rt0o7TE8QC8Mom0v"
-    },
-    {
-      "added_at": "2024-08-16 04:00:00",
-      "album": {
-        "name": "Lost My Mind",
-        "url": "https://open.spotify.com/album/1t2sroUscU3d3ih6JCpmJL"
-      },
-      "artists": [
-        {
-          "name": "BAN DELLO",
-          "url": "https://open.spotify.com/artist/4BrGkYYLoyb06i8FeuXV8v"
-        }
-      ],
-      "duration_ms": 139023,
-      "name": "Lost My Mind",
-      "url": "https://open.spotify.com/track/5ptGCJ91ao9SRTaoZuEoEt"
     },
     {
       "added_at": "2024-08-09 04:00:00",

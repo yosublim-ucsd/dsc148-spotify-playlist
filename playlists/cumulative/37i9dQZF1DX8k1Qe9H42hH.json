@@ -441,6 +441,24 @@
     },
     {
       "album": {
+        "name": "Disney Guitar: Grim Grinning Ghosts",
+        "url": "https://open.spotify.com/album/054i6SZs6LCR7hn8iVKJ0s"
+      },
+      "artists": [
+        {
+          "name": "Disney Peaceful Guitar",
+          "url": "https://open.spotify.com/artist/3oqzxUlHhjJ7auI4dVujKX"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179042,
+      "name": "Grim Grinning Ghosts",
+      "url": "https://open.spotify.com/track/1OsxTNbKvrdaXjmoGmltiP"
+    },
+    {
+      "album": {
         "name": "Lofi Minnie: Focus",
         "url": "https://open.spotify.com/album/37LBLwOpwruXguw0QclQzN"
       },

@@ -1,6 +1,6 @@
 {
   "description": "The south got something to say. Cover: Project Pat",
-  "num_followers": 546997,
+  "num_followers": 547072,
   "original_name": "Down South Classics",
   "owner": {
     "name": "Spotify",
@@ -583,8 +583,8 @@
     {
       "added_at": "2024-08-09 20:18:48",
       "album": {
-        "name": "Back For The First Time",
-        "url": "https://open.spotify.com/album/2kT80DHqRtHQzDhQ2RCoIV"
+        "name": "Word Of Mouf",
+        "url": "https://open.spotify.com/album/1GMj0Rx5Q6EyBYbi9Eu7Vr"
       },
       "artists": [
         {
@@ -592,13 +592,17 @@
           "url": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
         },
         {
-          "name": "Shawnna",
-          "url": "https://open.spotify.com/artist/4gpDA7R5796e6zbvZxGNga"
+          "name": "Mystikal",
+          "url": "https://open.spotify.com/artist/3LIJJJkO7R5RasRwt7xIn5"
+        },
+        {
+          "name": "I-20",
+          "url": "https://open.spotify.com/artist/0qziYi2GvPoLPnchRMQdxk"
         }
       ],
-      "duration_ms": 275906,
-      "name": "What's Your Fantasy (Featuring Shawna)",
-      "url": "https://open.spotify.com/track/4LwOrnuxJwR7C5Sw4liY4Z"
+      "duration_ms": 270866,
+      "name": "Move Bitch",
+      "url": "https://open.spotify.com/track/1Q9b6CeMcDuO0uq5OJCrqu"
     },
     {
       "added_at": "2024-08-09 20:18:48",
@@ -775,8 +779,8 @@
     {
       "added_at": "2024-08-09 20:18:48",
       "album": {
-        "name": "Word Of Mouf",
-        "url": "https://open.spotify.com/album/1GMj0Rx5Q6EyBYbi9Eu7Vr"
+        "name": "Back For The First Time",
+        "url": "https://open.spotify.com/album/2kT80DHqRtHQzDhQ2RCoIV"
       },
       "artists": [
         {
@@ -784,17 +788,13 @@
           "url": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
         },
         {
-          "name": "Mystikal",
-          "url": "https://open.spotify.com/artist/3LIJJJkO7R5RasRwt7xIn5"
-        },
-        {
-          "name": "I-20",
-          "url": "https://open.spotify.com/artist/0qziYi2GvPoLPnchRMQdxk"
+          "name": "Shawnna",
+          "url": "https://open.spotify.com/artist/4gpDA7R5796e6zbvZxGNga"
         }
       ],
-      "duration_ms": 270866,
-      "name": "Move Bitch",
-      "url": "https://open.spotify.com/track/1Q9b6CeMcDuO0uq5OJCrqu"
+      "duration_ms": 275906,
+      "name": "What's Your Fantasy (Featuring Shawna)",
+      "url": "https://open.spotify.com/track/4LwOrnuxJwR7C5Sw4liY4Z"
     },
     {
       "added_at": "2024-08-09 20:18:48",

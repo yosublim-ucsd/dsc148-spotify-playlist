@@ -4,7 +4,7 @@
 
 > Los temas más prendidos del trap desde Venezuela, Colombia, Perú y Ecuador\. Foto: Reboll333
 
-111 songs - 6 hr 2 min
+112 songs - 6 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [BACKWOOD](https://open.spotify.com/track/189NNUc8Maec0KYHUt7QTG) | [Totoy El Frio](https://open.spotify.com/artist/5IYRfypwG9BDDh5ZRPI80z), [Fenix The Producer](https://open.spotify.com/artist/7EutZWNXh33tAPObZ45ba6) | [BACKWOOD](https://open.spotify.com/album/2Edi619mH6cCPSuTiDaBNh) | 3:40 | 2023-03-24 | 2023-11-11 |
 | [Barrio Antioquia](https://open.spotify.com/track/6oPzWRP2VSZf8EMq5WeL03) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [Siempre Blessd](https://open.spotify.com/album/4PR6koe67C7YosjAYriYh4) | 2:50 | 2022-11-03 |  |
 | [Big Soto: Bzrp Music Sessions, Vol\. 28](https://open.spotify.com/track/6nmgafVgxkF3ukzROfrsZO) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU) | [Big Soto: Bzrp Music Sessions, Vol\. 28](https://open.spotify.com/album/7G0tlRenag1LYZ303Ie6dd) | 2:40 | 2021-10-15 |  |
-| [Blow](https://open.spotify.com/track/3QKWk2lLEr1GYjwywLWb5T) | [Yung Sarria](https://open.spotify.com/artist/3vxYNXtM9uOMdRAXTXgtmf) | [Blow](https://open.spotify.com/album/6p6iPFMjvMgcQm4E0VClla) | 3:22 | 2021-10-15 |  |
+| [Blow](https://open.spotify.com/track/3QKWk2lLEr1GYjwywLWb5T) | [Yung Sarria](https://open.spotify.com/artist/3vxYNXtM9uOMdRAXTXgtmf) | [Blow](https://open.spotify.com/album/6p6iPFMjvMgcQm4E0VClla) | 3:22 | 2021-10-15 | 2024-10-05 |
 | [Blow](https://open.spotify.com/track/6RAkTCFYeLuYvGWjVRFuMZ) | [Yung Sarria](https://open.spotify.com/artist/3vxYNXtM9uOMdRAXTXgtmf) | [Blow](https://open.spotify.com/album/76DSYK5UQMOTeiJFyIY0GG) | 3:22 | 2023-03-24 | 2024-04-19 |
 | [Bolero 808](https://open.spotify.com/track/4LFRvZF78H1R5adZZ8gYGL) | [Jaycob Duque](https://open.spotify.com/artist/2NEwLjbrw5RA4KWYhUIM9r), [Argüello](https://open.spotify.com/artist/6igd1VAlbbrTDCMFLXfcwy) | [Bolero 808](https://open.spotify.com/album/0tDqrQpbvpTII7Yf35SthC) | 2:45 | 2021-10-15 | 2022-08-20 |
 | [Bon Appetit](https://open.spotify.com/track/7rKBwaFOnzq0j3FFrgYUQW) | [Reke](https://open.spotify.com/artist/3ioziSz4mXRv5xJ5pENJH4) | [Trapicheando: Una Sangre, Vol\. 3](https://open.spotify.com/album/2qEII4DM0ASNWy49HTvTYH) | 4:09 | 2024-01-26 | 2024-04-19 |
@@ -70,6 +70,7 @@
 | [La Movie](https://open.spotify.com/track/5vXtCT27kRaDJASx4HNlGO) | [Dani Torres](https://open.spotify.com/artist/3FCbl6b1JHLfVADjqG7iP5), [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y), [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym), [Blunted Vato](https://open.spotify.com/artist/15RLdM61VHtknTIYIuNviR) | [La Movie](https://open.spotify.com/album/3uSH8eA5bgrPCHLCBTRGss) | 4:24 | 2022-09-02 |  |
 | [La pasé cabrón](https://open.spotify.com/track/4rKM9EE3torp4wXfqEzzgZ) | [Nobeat](https://open.spotify.com/artist/3TKS1JzWOLAnicuOCOyVlW) | [La pasé cabrón](https://open.spotify.com/album/6ElfLUNrxLvu0kGEBkCjHh) | 3:05 | 2021-10-15 | 2022-04-09 |
 | [La Salsa](https://open.spotify.com/track/696HCNMv6YK7K5Gtl3504C) | [El Clooy](https://open.spotify.com/artist/2iBSDwlk9bvp1aKT4ubGoC), [COQE](https://open.spotify.com/artist/7GAYtrIoXkEFFsSP2nhG0E) | [La Salsa](https://open.spotify.com/album/082ck1VrEmNTwo8vf0cDkQ) | 2:16 | 2023-12-22 | 2024-05-25 |
+| [Las Piponas \(Remix\)](https://open.spotify.com/track/281YJmnThveWjsWVic9Ym6) | [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [Las Piponas \(Remix\)](https://open.spotify.com/album/6FnnT3IOidLkfgQtrC2RJb) | 4:04 | 2024-10-04 |  |
 | [Lastima](https://open.spotify.com/track/7LK6f8PSEBdVHxFky21fYv) | [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y), [Selected Music](https://open.spotify.com/artist/4JfavcBZEpY1vMW8Xqcc6y) | [Lastima](https://open.spotify.com/album/2M3EmYAlbA52gefdceSa05) | 3:43 | 2021-10-15 |  |
 | [Le Falta la Forty](https://open.spotify.com/track/18hTjSSkgVhK4AHMrMe6qE) | [Andy Rivera](https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2), [Pirlo](https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11) | [Le Falta la Forty](https://open.spotify.com/album/7h07MPO9K6uJNIzdkwOQue) | 2:57 | 2024-06-28 |  |
 | [Llanogrande](https://open.spotify.com/track/19j1aiX1XtvV1rjQiB0xnI) | [Kevin Roldan](https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO), [HIT$ MUSIC](https://open.spotify.com/artist/44ALfmkGESKyMbbRrvw9gT) | [Llanogrande](https://open.spotify.com/album/4erHmgwHrYipv67oz7EEhz) | 3:16 | 2022-08-19 | 2023-03-25 |

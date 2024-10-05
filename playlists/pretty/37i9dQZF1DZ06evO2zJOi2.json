@@ -1,12 +1,12 @@
 {
   "description": "This is Morgan Wallen. The essential tracks, all in one playlist.",
-  "num_followers": 653368,
+  "num_followers": 653620,
   "original_name": "This Is Morgan Wallen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvyNAAAAAAD2ohlVyOLy5bkayrvEyHSh",
+  "snapshot_id": "Zv3egAAAAABv5z9Deuu4rVXCUD0jEcr2",
   "tracks": [
     {
       "added_at": null,
@@ -519,6 +519,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dangerous: The Double Album - Bonus",
+        "url": "https://open.spotify.com/album/6LBPsXUjVuNe9ywLY4xgvX"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "duration_ms": 199946,
+      "name": "This Side Of A Dust Cloud",
+      "url": "https://open.spotify.com/track/0UotfxRXpJwpem9QheCD5a"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "NASHVILLE, TENNESSEE",
         "url": "https://open.spotify.com/album/0fbS7loVI8hh7T06iymFU8"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 206146,
       "name": "Hangin\u2019 On (feat. Morgan Wallen)",
       "url": "https://open.spotify.com/track/4arHG0ChWbyag5TB1drif4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dangerous: The Double Album - Bonus",
-        "url": "https://open.spotify.com/album/6LBPsXUjVuNe9ywLY4xgvX"
-      },
-      "artists": [
-        {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
-        }
-      ],
-      "duration_ms": 199946,
-      "name": "This Side Of A Dust Cloud",
-      "url": "https://open.spotify.com/track/0UotfxRXpJwpem9QheCD5a"
     },
     {
       "added_at": null,

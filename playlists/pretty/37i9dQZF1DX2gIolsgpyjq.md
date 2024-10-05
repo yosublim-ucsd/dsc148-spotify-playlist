@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 
 > The best new music by independent artists in the Nordics\. Cover: GUZO
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,503 likes - 101 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,501 likes - 101 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 | 11 | [I made my baby cry](https://open.spotify.com/track/0UuFazFQ0cPYxAgFG4R739) | [Becky and the Birds](https://open.spotify.com/artist/52MMXmgPC7kDNIYUxCeh8d) | [I made my baby cry](https://open.spotify.com/album/63juu0SyImhGnHK8S9HtUZ) | 2:55 |
 | 12 | [I Stay](https://open.spotify.com/track/6YEc6DRqlQTRcmKjYggOnN) | [Megra](https://open.spotify.com/artist/75JMPNQ1B2A6WZydvs06Ok) | [I Stay](https://open.spotify.com/album/74z5d0cBn4c6YdDGWb4gLd) | 3:33 |
 | 13 | [No Goodbyes](https://open.spotify.com/track/48Pa7ntqupTvlLITQ19PSD) | [DJ Roody](https://open.spotify.com/artist/3UI0UmJdHpQkMqgjuOTMYc) | [No Goodbyes](https://open.spotify.com/album/5ei0k8lsiY4hCeXW8m8mkZ) | 3:16 |
-| 14 | [One By One \(with Kooldrink\)](https://open.spotify.com/track/5Szjjv92FYRgLXwlhD28Dl) | [DAYYANI](https://open.spotify.com/artist/2mSRaqgZqtWItVBIoyjE0g), [Kooldrink](https://open.spotify.com/artist/1XQiB7Gp309l4aHhzgGIlY) | [One By One](https://open.spotify.com/album/5DQIle1gEaxQRidaUA7RHw) | 3:33 |
+| 14 | [One By One \(with Kooldrink\)](https://open.spotify.com/track/5Szjjv92FYRgLXwlhD28Dl) | [DAYYANI](https://open.spotify.com/artist/2mSRaqgZqtWItVBIoyjE0g), [Kooldrink](https://open.spotify.com/artist/1XQiB7Gp309l4aHhzgGIlY) | [One By One \(with Kooldrink\)](https://open.spotify.com/album/5DQIle1gEaxQRidaUA7RHw) | 3:33 |
 | 15 | [Gretel Girl \- breadcrumbs](https://open.spotify.com/track/5e1wlfILtOCw2AlbNoR9uY) | [Courtesy](https://open.spotify.com/artist/0osYTSrOpW6YESEC1lClwN), [Sophie Joe](https://open.spotify.com/artist/2u9chNOBtm4RQE7kdH4U12) | [Gretel Girl \(breadcrumbs\)](https://open.spotify.com/album/3txMdJVRSsWSekEHeronvM) | 4:20 |
 | 16 | [Calling](https://open.spotify.com/track/44SIbuXkGeDcd6t4PT2tCu) | [Toska](https://open.spotify.com/artist/3Y7o0EykMnj6Ll6vsF951H), [hanna ögonsten](https://open.spotify.com/artist/35TbZVCiGN4v3OasdUl0G4) | [Calling](https://open.spotify.com/album/1fvj0XjTcbeLhRa8KEnXBT) | 2:13 |
 | 17 | [KIDZ](https://open.spotify.com/track/6fnPB3xEaMwWbXIFsLK5bu) | [AV AV AV](https://open.spotify.com/artist/0ElSSC4jDQ7mGvDZoAIafM) | [KIDZ](https://open.spotify.com/album/3PKpaLHUBdIQmTm4rgroQ7) | 3:42 |
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 | 29 | [A Door! A Window!](https://open.spotify.com/track/4OTFW8sIDAB91ozK3p8Dea) | [Asbjørn](https://open.spotify.com/artist/47rOF45mpciP0KFUlBqKUX) | [A Door! A Window!](https://open.spotify.com/album/0x3eSeOT8h4aOPJaxqvupR) | 3:05 |
 | 30 | [Loco Chanel](https://open.spotify.com/track/2YwyqrP7F8pmTt1RBsIh7I) | [Nápoles](https://open.spotify.com/artist/3Dobjv7S9rOSiQMb1Jjnk1) | [Loco Chanel](https://open.spotify.com/album/03CjoSP0pgzdEb2YxCFim6) | 3:21 |
 | 31 | [what happens next](https://open.spotify.com/track/2yqtysUu4Zs8cr8S34Px3B) | [heartaake](https://open.spotify.com/artist/57vkczkmC48439UWdL7oJa) | [what happens next](https://open.spotify.com/album/4kGPS2b7Z527m0RVAXGwCz) | 2:51 |
-| 32 | [Faded](https://open.spotify.com/track/5WwqEFvtbBur7SQMzVDx2n) | [AV AV AV](https://open.spotify.com/artist/0ElSSC4jDQ7mGvDZoAIafM) | [Faded](https://open.spotify.com/album/3ejmd075cFfLxw24XVAJoT) | 3:42 |
+| 32 | [Faded](https://open.spotify.com/track/5WwqEFvtbBur7SQMzVDx2n) | [AV AV AV](https://open.spotify.com/artist/0ElSSC4jDQ7mGvDZoAIafM) | [Faded](https://open.spotify.com/album/3ejmd075cFfLxw24XVAJoT) | 2:30 |
 | 33 | [Money \(That's What I Want\)](https://open.spotify.com/track/1JlIYkg6FGqmUmw6jAYuDk) | [Moontalk](https://open.spotify.com/artist/4UFhlgDCipgC1LdbaJgIgN), [Wilhelmina](https://open.spotify.com/artist/2ZCcqreFw4auSkxe2wsnbG) | [Money \(That's What I Want\)](https://open.spotify.com/album/6ilTRkJQwS8wrKA2HYxCT1) | 3:35 |
 | 34 | [Heart Attack](https://open.spotify.com/track/0hewiHrikfcmo1elhK6KEj) | [The Bird](https://open.spotify.com/artist/0VToPtDRTYvKFpUYh1IIOn) | [Heart Attack](https://open.spotify.com/album/607GFEtglARTFhyFg8lKKm) | 2:44 |
 | 35 | [Red Light Green Light](https://open.spotify.com/track/3ruGj1XqA7K5mcFCCAkdBF) | [DJ burgerhead](https://open.spotify.com/artist/7tkCO3Cc3NEhjZ3T3PM6ar) | [Red Light Green Light](https://open.spotify.com/album/091Ua5HFHi1DlA4c4NPd4b) | 3:18 |

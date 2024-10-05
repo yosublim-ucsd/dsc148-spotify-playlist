@@ -1,6 +1,6 @@
 {
   "description": "when life gives you lemons \u00af\\_(\u30c4)_/\u00af",
-  "num_followers": 116823,
+  "num_followers": 116817,
   "original_name": "Lemonade",
   "owner": {
     "name": "Spotify",
@@ -655,6 +655,22 @@
     {
       "added_at": "2024-06-14 00:00:00",
       "album": {
+        "name": "a girl like me",
+        "url": "https://open.spotify.com/album/51gIsdlU8UIgzSgDJrEr9Z"
+      },
+      "artists": [
+        {
+          "name": "flowerovlove",
+          "url": "https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj"
+        }
+      ],
+      "duration_ms": 162628,
+      "name": "a girl like me",
+      "url": "https://open.spotify.com/track/2KzkWP9RYW1xz4gqDRArQd"
+    },
+    {
+      "added_at": "2024-06-14 00:00:00",
+      "album": {
         "name": "After Midnight (feat. Clairo)",
         "url": "https://open.spotify.com/album/6xsvkBbeMsrk6HPDBsJEwS"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 188000,
       "name": "After Midnight (feat. Clairo)",
       "url": "https://open.spotify.com/track/0KIpuVYhKUUUpjo6H5NvBY"
-    },
-    {
-      "added_at": "2024-06-14 00:00:00",
-      "album": {
-        "name": "a girl like me",
-        "url": "https://open.spotify.com/album/51gIsdlU8UIgzSgDJrEr9Z"
-      },
-      "artists": [
-        {
-          "name": "flowerovlove",
-          "url": "https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj"
-        }
-      ],
-      "duration_ms": 162628,
-      "name": "a girl like me",
-      "url": "https://open.spotify.com/track/2KzkWP9RYW1xz4gqDRArQd"
     },
     {
       "added_at": "2024-06-14 00:00:00",
@@ -775,6 +775,22 @@
     {
       "added_at": "2024-06-14 00:00:00",
       "album": {
+        "name": "Backwards Directions",
+        "url": "https://open.spotify.com/album/5mhk3C0cKun3x8MoIwkukF"
+      },
+      "artists": [
+        {
+          "name": "Abby Sage",
+          "url": "https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k"
+        }
+      ],
+      "duration_ms": 187072,
+      "name": "Backwards Directions",
+      "url": "https://open.spotify.com/track/5vbnQr1tWSSREmcIONIUm9"
+    },
+    {
+      "added_at": "2024-06-14 00:00:00",
+      "album": {
         "name": "loving u is harder",
         "url": "https://open.spotify.com/album/67ODPUfNcldTSB565u7KZi"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 280016,
       "name": "Showtime",
       "url": "https://open.spotify.com/track/0YLhxYUv69go9H8iirbSWO"
-    },
-    {
-      "added_at": "2024-06-14 00:00:00",
-      "album": {
-        "name": "Backwards Directions",
-        "url": "https://open.spotify.com/album/5mhk3C0cKun3x8MoIwkukF"
-      },
-      "artists": [
-        {
-          "name": "Abby Sage",
-          "url": "https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k"
-        }
-      ],
-      "duration_ms": 187072,
-      "name": "Backwards Directions",
-      "url": "https://open.spotify.com/track/5vbnQr1tWSSREmcIONIUm9"
     },
     {
       "added_at": "2024-06-14 00:00:00",

@@ -1,6 +1,6 @@
 {
   "description": "time-stretching granular synthesis. ",
-  "num_followers": 231021,
+  "num_followers": 231093,
   "original_name": "bleeps ^ glitches",
   "owner": {
     "name": "Spotify",
@@ -509,6 +509,22 @@
       "url": "https://open.spotify.com/track/500NwswktI6j2aVYW5mZkh"
     },
     {
+      "added_at": "2022-03-30 15:08:41",
+      "album": {
+        "name": "Between Voids",
+        "url": "https://open.spotify.com/album/0ledrPUfebeLTGu1Lr4DQE"
+      },
+      "artists": [
+        {
+          "name": "Oils",
+          "url": "https://open.spotify.com/artist/3Q2M9TPSdCOUOw0IStqvdI"
+        }
+      ],
+      "duration_ms": 268000,
+      "name": "The Psychedelic One",
+      "url": "https://open.spotify.com/track/4R9SrmMdJK2kQCWuZjzOsg"
+    },
+    {
       "added_at": "2022-09-15 12:23:59",
       "album": {
         "name": "Nutrition",
@@ -527,22 +543,6 @@
       "duration_ms": 279000,
       "name": "Nutrition - Single Edit",
       "url": "https://open.spotify.com/track/3A6tEuBqrZGmFXZrYEGx00"
-    },
-    {
-      "added_at": "2022-03-30 15:08:41",
-      "album": {
-        "name": "Between Voids",
-        "url": "https://open.spotify.com/album/0ledrPUfebeLTGu1Lr4DQE"
-      },
-      "artists": [
-        {
-          "name": "Oils",
-          "url": "https://open.spotify.com/artist/3Q2M9TPSdCOUOw0IStqvdI"
-        }
-      ],
-      "duration_ms": 268000,
-      "name": "The Psychedelic One",
-      "url": "https://open.spotify.com/track/4R9SrmMdJK2kQCWuZjzOsg"
     },
     {
       "added_at": "2024-04-15 22:50:57",
@@ -659,22 +659,6 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
-        "name": "Panspermia",
-        "url": "https://open.spotify.com/album/4TfQg8g5FV1VvZao3Mj94D"
-      },
-      "artists": [
-        {
-          "name": "Ozoyo",
-          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "Panspermia",
-      "url": "https://open.spotify.com/track/6YQ0EXjwQWT263njOeoe8S"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
         "name": "Glass Bird Movement",
         "url": "https://open.spotify.com/album/2jTiDIgPrDgSmND8PcuKGm"
       },
@@ -691,18 +675,18 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
-        "name": "L'\u00e9treinte Imaginaire",
-        "url": "https://open.spotify.com/album/1E5qllAtZJmSI94vHGMdGn"
+        "name": "Panspermia",
+        "url": "https://open.spotify.com/album/4TfQg8g5FV1VvZao3Mj94D"
       },
       "artists": [
         {
-          "name": "Auscultation",
-          "url": "https://open.spotify.com/artist/5KlOanD5FKL6qWZ8auNVKQ"
+          "name": "Ozoyo",
+          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
         }
       ],
-      "duration_ms": 393717,
-      "name": "Promise You'll Haunt Me",
-      "url": "https://open.spotify.com/track/3ZNoKpRGsNc2xK7yPbg5aI"
+      "duration_ms": 188000,
+      "name": "Panspermia",
+      "url": "https://open.spotify.com/track/6YQ0EXjwQWT263njOeoe8S"
     },
     {
       "added_at": "2022-08-31 04:01:41",
@@ -719,6 +703,22 @@
       "duration_ms": 281986,
       "name": "Odyssey",
       "url": "https://open.spotify.com/track/38CvS1tbJBGBxV4TCJda4M"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "L'\u00e9treinte Imaginaire",
+        "url": "https://open.spotify.com/album/1E5qllAtZJmSI94vHGMdGn"
+      },
+      "artists": [
+        {
+          "name": "Auscultation",
+          "url": "https://open.spotify.com/artist/5KlOanD5FKL6qWZ8auNVKQ"
+        }
+      ],
+      "duration_ms": 393717,
+      "name": "Promise You'll Haunt Me",
+      "url": "https://open.spotify.com/track/3ZNoKpRGsNc2xK7yPbg5aI"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -771,22 +771,6 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
-        "name": "Oquo",
-        "url": "https://open.spotify.com/album/6cTuDue4MAQupjz57fNicv"
-      },
-      "artists": [
-        {
-          "name": "Ozoyo",
-          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
-        }
-      ],
-      "duration_ms": 231529,
-      "name": "Oquo Quooon",
-      "url": "https://open.spotify.com/track/7tzV9VZueBi1IrRwrhCgs5"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
         "name": "Hodes",
         "url": "https://open.spotify.com/album/2CaQbV2NP1EDyeNvGA7LFP"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 307546,
       "name": "Tangente",
       "url": "https://open.spotify.com/track/7CUePB3Lb3EMnNZEuQDMgN"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "Oquo",
+        "url": "https://open.spotify.com/album/6cTuDue4MAQupjz57fNicv"
+      },
+      "artists": [
+        {
+          "name": "Ozoyo",
+          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
+        }
+      ],
+      "duration_ms": 231529,
+      "name": "Oquo Quooon",
+      "url": "https://open.spotify.com/track/7tzV9VZueBi1IrRwrhCgs5"
     },
     {
       "added_at": "2022-07-08 04:56:00",
@@ -849,22 +849,6 @@
       "url": "https://open.spotify.com/track/6svlauimgL7pyT2IciIE6P"
     },
     {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
-        "name": "Comma",
-        "url": "https://open.spotify.com/album/48WQXkdyIVTEek2TTwXVkt"
-      },
-      "artists": [
-        {
-          "name": "Sam Prekop",
-          "url": "https://open.spotify.com/artist/4Vtlz5IfA9y4EBwmp20wwk"
-        }
-      ],
-      "duration_ms": 223750,
-      "name": "Summer Places",
-      "url": "https://open.spotify.com/track/5soyEYI9op1hiyqEhHbtOQ"
-    },
-    {
       "added_at": "2022-02-16 00:42:21",
       "album": {
         "name": "drames rurals",
@@ -897,6 +881,22 @@
       "url": "https://open.spotify.com/track/19xIHqQ06u9gzxbbmeNvx4"
     },
     {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "Comma",
+        "url": "https://open.spotify.com/album/48WQXkdyIVTEek2TTwXVkt"
+      },
+      "artists": [
+        {
+          "name": "Sam Prekop",
+          "url": "https://open.spotify.com/artist/4Vtlz5IfA9y4EBwmp20wwk"
+        }
+      ],
+      "duration_ms": 223750,
+      "name": "Summer Places",
+      "url": "https://open.spotify.com/track/5soyEYI9op1hiyqEhHbtOQ"
+    },
+    {
       "added_at": "2022-03-09 04:45:41",
       "album": {
         "name": "Amygdala",
@@ -913,22 +913,6 @@
       "url": "https://open.spotify.com/track/4Di1dq49uG26tIHEsAxaQy"
     },
     {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
-        "name": "that day, on the beach",
-        "url": "https://open.spotify.com/album/5cL9c4WEeS33FzfbwYb4Ha"
-      },
-      "artists": [
-        {
-          "name": "Matt Kivel",
-          "url": "https://open.spotify.com/artist/2WkXhpsmgr8xeRpfF9Bl1w"
-        }
-      ],
-      "duration_ms": 151302,
-      "name": "memorial park",
-      "url": "https://open.spotify.com/track/4OoGwa6kp9TmsjXopMP5Yo"
-    },
-    {
       "added_at": "2023-06-02 00:27:20",
       "album": {
         "name": "Common Land",
@@ -943,6 +927,22 @@
       "duration_ms": 321482,
       "name": "Common Land",
       "url": "https://open.spotify.com/track/1GzMcuifCMSYlfYkGK3fYW"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "that day, on the beach",
+        "url": "https://open.spotify.com/album/5cL9c4WEeS33FzfbwYb4Ha"
+      },
+      "artists": [
+        {
+          "name": "Matt Kivel",
+          "url": "https://open.spotify.com/artist/2WkXhpsmgr8xeRpfF9Bl1w"
+        }
+      ],
+      "duration_ms": 151302,
+      "name": "memorial park",
+      "url": "https://open.spotify.com/track/4OoGwa6kp9TmsjXopMP5Yo"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -1129,6 +1129,22 @@
       "url": "https://open.spotify.com/track/2nonAYGrtN6R6MmzIWwJjf"
     },
     {
+      "added_at": "2022-02-25 03:59:46",
+      "album": {
+        "name": "Diamond Beach",
+        "url": "https://open.spotify.com/album/6IGCfHfrExdHSnLHRrcngE"
+      },
+      "artists": [
+        {
+          "name": "Modula",
+          "url": "https://open.spotify.com/artist/0UplKQAaI4vQKJ1AheVyE7"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Diamond Beach",
+      "url": "https://open.spotify.com/track/5WVz5up4Vy54E981lOQ17P"
+    },
+    {
       "added_at": "2021-10-06 04:42:05",
       "album": {
         "name": "Vril & R\u00f8dh\u00e5d Presents Out Of Place Artefacts",
@@ -1153,20 +1169,20 @@
       "url": "https://open.spotify.com/track/6xogUp1sNiUs2qQMTLrwjB"
     },
     {
-      "added_at": "2022-02-25 03:59:46",
+      "added_at": "2023-02-16 00:21:45",
       "album": {
-        "name": "Diamond Beach",
-        "url": "https://open.spotify.com/album/6IGCfHfrExdHSnLHRrcngE"
+        "name": "I Can't Die as Well",
+        "url": "https://open.spotify.com/album/2EnPEXGeSR82AuXVVUA7ok"
       },
       "artists": [
         {
-          "name": "Modula",
-          "url": "https://open.spotify.com/artist/0UplKQAaI4vQKJ1AheVyE7"
+          "name": "Fire-Toolz",
+          "url": "https://open.spotify.com/artist/7nJawFIm90c4jAQFLabc1o"
         }
       ],
-      "duration_ms": 184000,
-      "name": "Diamond Beach",
-      "url": "https://open.spotify.com/track/5WVz5up4Vy54E981lOQ17P"
+      "duration_ms": 145774,
+      "name": "I Can't Die as Well",
+      "url": "https://open.spotify.com/track/2raPU3XehkE9fu9i7nPm45"
     },
     {
       "added_at": "2022-03-29 02:05:38",
@@ -1183,22 +1199,6 @@
       "duration_ms": 279601,
       "name": "Quakenbr\u00fcck - version",
       "url": "https://open.spotify.com/track/19NImMMxeU46iLoMSC1Bmu"
-    },
-    {
-      "added_at": "2023-02-16 00:21:45",
-      "album": {
-        "name": "I Can't Die as Well",
-        "url": "https://open.spotify.com/album/2EnPEXGeSR82AuXVVUA7ok"
-      },
-      "artists": [
-        {
-          "name": "Fire-Toolz",
-          "url": "https://open.spotify.com/artist/7nJawFIm90c4jAQFLabc1o"
-        }
-      ],
-      "duration_ms": 145774,
-      "name": "I Can't Die as Well",
-      "url": "https://open.spotify.com/track/2raPU3XehkE9fu9i7nPm45"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -1285,22 +1285,6 @@
       "url": "https://open.spotify.com/track/2e5fQ0Xrn0NoLrKCJEqyqh"
     },
     {
-      "added_at": "2023-08-17 17:21:25",
-      "album": {
-        "name": "Circuit Current",
-        "url": "https://open.spotify.com/album/1Io0KZKAK3f69QO9FpJWuK"
-      },
-      "artists": [
-        {
-          "name": "1tbsp",
-          "url": "https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4"
-        }
-      ],
-      "duration_ms": 247558,
-      "name": "Circuit Current",
-      "url": "https://open.spotify.com/track/2mZZ2QeDPoeJIePGbDmNjX"
-    },
-    {
       "added_at": "2022-08-24 01:27:39",
       "album": {
         "name": "Eve",
@@ -1315,6 +1299,22 @@
       "duration_ms": 180000,
       "name": "Eve",
       "url": "https://open.spotify.com/track/0nFJMIWFrQQkJ8AOcAfvPf"
+    },
+    {
+      "added_at": "2023-08-17 17:21:25",
+      "album": {
+        "name": "Circuit Current",
+        "url": "https://open.spotify.com/album/1Io0KZKAK3f69QO9FpJWuK"
+      },
+      "artists": [
+        {
+          "name": "1tbsp",
+          "url": "https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4"
+        }
+      ],
+      "duration_ms": 247558,
+      "name": "Circuit Current",
+      "url": "https://open.spotify.com/track/2mZZ2QeDPoeJIePGbDmNjX"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
-        "name": "1234,8",
-        "url": "https://open.spotify.com/album/02Roi0ruMSmTSaxoiOEF8G"
-      },
-      "artists": [
-        {
-          "name": "Ulises Conti",
-          "url": "https://open.spotify.com/artist/2GbKQKL9D1dkfoSMeWM7vV"
-        }
-      ],
-      "duration_ms": 358862,
-      "name": "161,1",
-      "url": "https://open.spotify.com/track/3RwTPFqufAXpe1n5Mu5qKo"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
         "name": "Blooms",
         "url": "https://open.spotify.com/album/1kpy3gVhdV8VmstOxIVBIz"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 346479,
       "name": "Blooms",
       "url": "https://open.spotify.com/track/6xan1MjlzLAtVosllpvCjA"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "1234,8",
+        "url": "https://open.spotify.com/album/02Roi0ruMSmTSaxoiOEF8G"
+      },
+      "artists": [
+        {
+          "name": "Ulises Conti",
+          "url": "https://open.spotify.com/artist/2GbKQKL9D1dkfoSMeWM7vV"
+        }
+      ],
+      "duration_ms": 358862,
+      "name": "161,1",
+      "url": "https://open.spotify.com/track/3RwTPFqufAXpe1n5Mu5qKo"
     },
     {
       "added_at": "2023-05-24 01:46:16",
@@ -1419,22 +1419,6 @@
       "duration_ms": 475965,
       "name": "XO 4 - Wolf 1061c",
       "url": "https://open.spotify.com/track/1BmsXPYs9cJ7jiCywPfPjF"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
-        "name": "R\u00f6schen",
-        "url": "https://open.spotify.com/album/4Rfa43vE7rRpU51Q5UIDEv"
-      },
-      "artists": [
-        {
-          "name": "Pole",
-          "url": "https://open.spotify.com/artist/2oAUWVDrNRE76jqj9IkVK6"
-        }
-      ],
-      "duration_ms": 199455,
-      "name": "R\u00f6schen - Edit",
-      "url": "https://open.spotify.com/track/7pbORTNPq5NspCrLEYuoI6"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -1487,6 +1471,22 @@
       "duration_ms": 197142,
       "name": "Muckbirth",
       "url": "https://open.spotify.com/track/7tMe5bFiL485sPdkT6VDXZ"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "R\u00f6schen",
+        "url": "https://open.spotify.com/album/4Rfa43vE7rRpU51Q5UIDEv"
+      },
+      "artists": [
+        {
+          "name": "Pole",
+          "url": "https://open.spotify.com/artist/2oAUWVDrNRE76jqj9IkVK6"
+        }
+      ],
+      "duration_ms": 199455,
+      "name": "R\u00f6schen - Edit",
+      "url": "https://open.spotify.com/track/7pbORTNPq5NspCrLEYuoI6"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -1589,22 +1589,6 @@
       "url": "https://open.spotify.com/track/4PlMwTtwkL0J19Tt6DdBvs"
     },
     {
-      "added_at": "2024-05-08 03:01:37",
-      "album": {
-        "name": "Derrwut",
-        "url": "https://open.spotify.com/album/78l8Xlbky2z4MxW3Jml8b7"
-      },
-      "artists": [
-        {
-          "name": "Rogelio the IIIrd",
-          "url": "https://open.spotify.com/artist/4rUsH3oMKno1XFIXH9Phve"
-        }
-      ],
-      "duration_ms": 161052,
-      "name": "Derrwut",
-      "url": "https://open.spotify.com/track/2YvuaFepDHElKAuZtmjYSB"
-    },
-    {
       "added_at": "2022-08-03 02:50:08",
       "album": {
         "name": "For You Only",
@@ -1619,6 +1603,22 @@
       "duration_ms": 182400,
       "name": "Second Love",
       "url": "https://open.spotify.com/track/0jaYsfrSaAGb4d81qE5APl"
+    },
+    {
+      "added_at": "2024-05-08 03:01:37",
+      "album": {
+        "name": "Derrwut",
+        "url": "https://open.spotify.com/album/78l8Xlbky2z4MxW3Jml8b7"
+      },
+      "artists": [
+        {
+          "name": "Rogelio the IIIrd",
+          "url": "https://open.spotify.com/artist/4rUsH3oMKno1XFIXH9Phve"
+        }
+      ],
+      "duration_ms": 161052,
+      "name": "Derrwut",
+      "url": "https://open.spotify.com/track/2YvuaFepDHElKAuZtmjYSB"
     },
     {
       "added_at": "2022-01-13 00:46:03",
@@ -1637,22 +1637,6 @@
       "url": "https://open.spotify.com/track/3ExkbOfWgrL78xCyTOTeJT"
     },
     {
-      "added_at": "2022-11-09 13:54:27",
-      "album": {
-        "name": "sssssmilinggggg",
-        "url": "https://open.spotify.com/album/2gC9JUs5tlGBgopNouIg7v"
-      },
-      "artists": [
-        {
-          "name": "Kaho Matsui",
-          "url": "https://open.spotify.com/artist/2ahVQ3HBZfU8RGxwIgNfnU"
-        }
-      ],
-      "duration_ms": 404210,
-      "name": "sssssmilinggggg",
-      "url": "https://open.spotify.com/track/6yTewVjFHvPBNyRliPdQOs"
-    },
-    {
       "added_at": "2021-10-06 04:42:05",
       "album": {
         "name": "Endless Staircase",
@@ -1667,6 +1651,22 @@
       "duration_ms": 331034,
       "name": "Endless Staircase",
       "url": "https://open.spotify.com/track/2NfGCYWB1LpLkWuYfDiT0J"
+    },
+    {
+      "added_at": "2022-11-09 13:54:27",
+      "album": {
+        "name": "sssssmilinggggg",
+        "url": "https://open.spotify.com/album/2gC9JUs5tlGBgopNouIg7v"
+      },
+      "artists": [
+        {
+          "name": "Kaho Matsui",
+          "url": "https://open.spotify.com/artist/2ahVQ3HBZfU8RGxwIgNfnU"
+        }
+      ],
+      "duration_ms": 404210,
+      "name": "sssssmilinggggg",
+      "url": "https://open.spotify.com/track/6yTewVjFHvPBNyRliPdQOs"
     },
     {
       "added_at": "2022-07-15 05:19:54",

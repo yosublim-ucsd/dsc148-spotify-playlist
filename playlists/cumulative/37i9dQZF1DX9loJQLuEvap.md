@@ -2,9 +2,9 @@
 
 ### [Great Female Voices](https://open.spotify.com/playlist/37i9dQZF1DX9loJQLuEvap)
 
-> Celebrating some of the most iconic female voices of all time\. Cover: Céline Dion
+> Celebrating some of the most iconic female voices of all time\. Cover: RAYE
 
-124 songs - 8 hr 12 min
+125 songs - 8 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [drivers license](https://open.spotify.com/track/6xB99ltI6FjcqhKWYd1FcB) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [pov: he broke your heart](https://open.spotify.com/album/7q1bOea4TSOQ31pSRLswZr) | 4:02 | 2022-10-28 | 2022-11-13 |
 | [drivers license](https://open.spotify.com/track/7lPN2DXiMsVn7XUKtOW1CS) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [drivers license](https://open.spotify.com/album/66FPnVL9G4CMKy3wvaGTcr) | 4:02 | 2022-04-22 | 2022-04-24 |
 | [Escapism.](https://open.spotify.com/track/5mHdCZtVyb4DcJw8799hZp) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 4:32 | 2024-03-02 | 2024-03-30 |
-| [Evergreen \(Love Theme from "A Star Is Born"\)](https://open.spotify.com/track/2IcqY68BxP1ONPi3ME6aje) | [Barbra Streisand](https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6) | [A Star Is Born](https://open.spotify.com/album/435mubtZvkoTYIPXWy3seP) | 3:04 | 2021-01-08 |  |
+| [Evergreen \(Love Theme from "A Star Is Born"\)](https://open.spotify.com/track/2IcqY68BxP1ONPi3ME6aje) | [Barbra Streisand](https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6) | [A Star Is Born](https://open.spotify.com/album/435mubtZvkoTYIPXWy3seP) | 3:04 | 2021-01-08 | 2024-10-05 |
 | [Ex\-Factor](https://open.spotify.com/track/2VjXGuPVVxyhMgER3Uz2Fe) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [The Miseducation of Lauryn Hill](https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD) | 5:26 | 2022-07-11 | 2024-04-19 |
 | [Ex\-Factor](https://open.spotify.com/track/2XCTU3DJ9W6glWSkM2uQTS) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [The Miseducation of Lauryn Hill](https://open.spotify.com/album/2Uc0HAF0Cj0LAgyzYZX5e3) | 5:26 | 2021-01-08 | 2022-04-24 |
 | [Flowers](https://open.spotify.com/track/0yLdNVWF3Srea0uzk55zFn) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Flowers](https://open.spotify.com/album/7I0tjwFtxUwBC1vgyeMAax) | 3:20 | 2023-01-17 | 2023-08-04 |
@@ -87,6 +87,7 @@
 | [On & On](https://open.spotify.com/track/2EeDqZf3Kh8i7wkPgDprkG) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Erykah Badu](https://open.spotify.com/album/2VEuouQKa12j0utl8BguMo) | 3:46 | 2021-01-08 | 2022-04-23 |
 | [One Day I'll Fly Away](https://open.spotify.com/track/0J8A1ZVyJcRZxFNvtp6jRh) | [Randy Crawford](https://open.spotify.com/artist/1twC2fwPG5FkvYcMpVBQRz) | [Now We May Begin](https://open.spotify.com/album/1nC1gaO03Yk2lnbRZAN3KG) | 5:02 | 2021-01-08 | 2022-11-14 |
 | [Only Love Can Hurt Like This](https://open.spotify.com/track/62ke5zFUJN6RvtXZgVH0F8) | [Paloma Faith](https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa) | [A Perfect Contradiction \(Outsiders' Expanded Edition\)](https://open.spotify.com/album/3jRG3qOfsSSW3SBdeBiIfC) | 3:52 | 2022-04-22 |  |
+| [Oscar Winning Tears.](https://open.spotify.com/track/0iO2iCAjtX0t5duvczNQt6) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 3:03 | 2024-10-04 |  |
 | [Proud Mary](https://open.spotify.com/track/6gJdDnF2TzfA1WPMXuCa3x) | [Tina Turner](https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak) | [What's Love Got to Do with It?](https://open.spotify.com/album/5HmYiJnUkFuciiqRrAAv4o) | 5:27 | 2023-07-03 |  |
 | [Rescue Me](https://open.spotify.com/track/1GY8zOFi8rC39xXnD0tKO8) | [Fontella Bass](https://open.spotify.com/artist/6k3YMXJ1MJLgUEAlSPC6hA) | [The New Look](https://open.spotify.com/album/6PB1ExLaenkyov5q1NrSXd) | 2:51 | 2022-07-11 | 2024-04-19 |
 | [Rescue Me](https://open.spotify.com/track/7cKeMrlyGpfOshlldqoILo) | [Fontella Bass](https://open.spotify.com/artist/6k3YMXJ1MJLgUEAlSPC6hA) | [Soul](https://open.spotify.com/album/5xJJSAj0WIYZ5fW77IfORk) | 2:56 | 2021-05-31 | 2022-07-29 |

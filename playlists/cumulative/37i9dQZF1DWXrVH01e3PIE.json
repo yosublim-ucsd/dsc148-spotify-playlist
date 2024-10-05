@@ -2667,6 +2667,24 @@
     },
     {
       "album": {
+        "name": "Detroit11",
+        "url": "https://open.spotify.com/album/4RO2qCQzhubROJgs1J0COj"
+      },
+      "artists": [
+        {
+          "name": "Frijo",
+          "url": "https://open.spotify.com/artist/4D2d63igYEdzhzFnxrSow7"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133333,
+      "name": "Fumando",
+      "url": "https://open.spotify.com/track/3iKEykOfNQfJeapo6schnr"
+    },
+    {
+      "album": {
         "name": "G-Class",
         "url": "https://open.spotify.com/album/4x8c78mU51FjjpI2A1Tdc0"
       },

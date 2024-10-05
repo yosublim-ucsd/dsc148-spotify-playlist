@@ -1324,7 +1324,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 241113,
       "name": "B Good",
       "url": "https://open.spotify.com/track/7oXnUhFLB4H736YHZEDQi5"
@@ -2234,7 +2234,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 192794,
       "name": "Blinded By Desire",
       "url": "https://open.spotify.com/track/7cFkTvvksmu7l6yoXyaDh7"
@@ -3756,6 +3756,24 @@
       "duration_ms": 146000,
       "name": "Cold Love (feat. Jack Hawitt)",
       "url": "https://open.spotify.com/track/23Hpu8KpFzy6NpycYnvk9L"
+    },
+    {
+      "album": {
+        "name": "COLLECT THE COMMAS",
+        "url": "https://open.spotify.com/album/6AVl6czEyN0v5GRaeCr4WY"
+      },
+      "artists": [
+        {
+          "name": "PAWSA",
+          "url": "https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221339,
+      "name": "COLLECT THE COMMAS",
+      "url": "https://open.spotify.com/track/5e3NwBC0E6xjX9c1Uc8RHy"
     },
     {
       "album": {
@@ -7596,7 +7614,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 245163,
       "name": "Green",
       "url": "https://open.spotify.com/track/2nVivsN3qpFbYUtvDNzi6v"
@@ -17186,7 +17204,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-30",
+      "date_removed": null,
       "duration_ms": 188731,
       "name": "Supersonic",
       "url": "https://open.spotify.com/track/0vxf8HSKtY4xsbIzYUv9Fa"
@@ -20408,6 +20426,36 @@
       "duration_ms": 194310,
       "name": "Yeah The Girls",
       "url": "https://open.spotify.com/track/2ST4u9GusI2ddDfuMvXA5l"
+    },
+    {
+      "album": {
+        "name": "YES B!TCH (feat. Rome Fortune)",
+        "url": "https://open.spotify.com/album/05DAvfknkXbvp2RkYs1R5a"
+      },
+      "artists": [
+        {
+          "name": "DANNY AVILA",
+          "url": "https://open.spotify.com/artist/1Xv1qZHJ1hnRlWHRTZ3uci"
+        },
+        {
+          "name": "Sam WOLFE",
+          "url": "https://open.spotify.com/artist/1Hu2YwTv9wmxC8sppVVUA4"
+        },
+        {
+          "name": "HNTR",
+          "url": "https://open.spotify.com/artist/3R0yz9xgTmCOLQMPcJ6MuU"
+        },
+        {
+          "name": "Rome Fortune",
+          "url": "https://open.spotify.com/artist/0AlOgXaMBLYvxNEhqHM4np"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153569,
+      "name": "YES B!TCH (feat. Rome Fortune)",
+      "url": "https://open.spotify.com/track/02RO8IclcFVLOjHP8AJ033"
     },
     {
       "album": {

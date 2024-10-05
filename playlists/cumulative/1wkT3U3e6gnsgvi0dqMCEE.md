@@ -4,7 +4,7 @@
 
 > All of your favourites, new favourites, live favourites and unearthed soon to be favourites\.  <a href="https://www.umusic.ca/collections/rediscover">here</a>
 
-201 songs - 12 hr 52 min
+202 songs - 12 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Brother Down](https://open.spotify.com/track/32WrsvD69H6sSLCPQo5WNy) | [Sam Roberts Band](https://open.spotify.com/artist/09XH90DXG8hru6NN96GbA0) | [We Were Born In A Flame](https://open.spotify.com/album/3AoWVHZuuu68ZVOy1R55l9) | 4:24 | 2023-10-16 | 2024-05-24 |
 | [Can We Fix Our Nation's Broken Heart](https://open.spotify.com/track/0RjaFK7bRxPrvGTM4cA8zB) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Can We Fix Our Nation's Broken Heart](https://open.spotify.com/album/0xnIaAMnfjEyt6Vxs4DxXK) | 4:38 | 2024-09-06 |  |
 | [Can You Feel the Love Tonight \- From "A Whole New Sound"](https://open.spotify.com/track/372ltCYz1uLID85yHqe7S9) | [Simple Plan](https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Can You Feel the Love Tonight \- From "A Whole New Sound"](https://open.spotify.com/album/3NuSK3YNeKeP1GdnYj8KY9) | 2:53 | 2024-07-19 |  |
+| [Cancelled](https://open.spotify.com/track/6zMBklADPUiVev8tFrMHIy) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Cancelled](https://open.spotify.com/album/5O2RCRX6fCXmynOWl5gFSK) | 4:47 | 2024-10-04 |  |
 | [Cars in the Desert](https://open.spotify.com/track/0EUl8ExEPsPm44z865IYHl) | [Nathaniel Rateliff & The Night Sweats](https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o) | [South of Here](https://open.spotify.com/album/1LOWCHNR8jAauJd35jafkN) | 2:56 | 2024-06-28 |  |
 | [Cecilia And The Satellite](https://open.spotify.com/track/1MSM3Fo2fvnwVqMcz8Jhjq) | [Andrew McMahon in the Wilderness](https://open.spotify.com/artist/716ZwtZBmwROBXcFmCzfdM) | [Andrew McMahon In The Wilderness](https://open.spotify.com/album/4IVdl0FxI7cpwyLh8JWOdG) | 3:43 | 2023-10-16 | 2024-05-24 |
 | [Centuries](https://open.spotify.com/track/04aAxqtGp5pv12UXAg4pkq) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [American Beauty/American Psycho](https://open.spotify.com/album/022DrG7Wp2PSCwzuD0bSzT) | 3:48 | 2024-08-12 |  |

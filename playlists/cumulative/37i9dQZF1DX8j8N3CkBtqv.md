@@ -2,9 +2,9 @@
 
 ### [Naya Indiestan](https://open.spotify.com/playlist/37i9dQZF1DX8j8N3CkBtqv)
 
-> Naye Indie gaano ka khazana! Cover \- Dream Note & Shreya Jain
+> Naye Indie gaano ka khazana! Cover \- maahi
 
-818 songs - 1 day 20 hr 54 min
+820 songs - 1 day 21 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -385,7 +385,7 @@
 | [Khamakha](https://open.spotify.com/track/3qW5asPgcMSJkfecq4ktxJ) | [Madhubanti Bagchi](https://open.spotify.com/artist/0NKNtzhUO3OtwseGKr0O1b), [Akshayraje Shinde](https://open.spotify.com/artist/4VrMHDJPCXIca1awQrc1wc), [Amritanshu Dutta](https://open.spotify.com/artist/5cHoOoSamSybu8lGD4yfB1) | [Khamakha](https://open.spotify.com/album/4zqR3MCe5cPyIbsIwf5yxp) | 2:49 | 2023-05-19 | 2023-07-08 |
 | [Khamakhaa](https://open.spotify.com/track/2xRUa9kABue4LnGZplUtaq) | [Prateeksha Srivastava](https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT) | [Khamakhaa](https://open.spotify.com/album/45hQlqraN1cORIW26NwPBs) | 2:59 | 2023-08-10 | 2023-10-07 |
 | [Khata](https://open.spotify.com/track/1yLEjCfSSO1UXAxgXg48d5) | [Utsavi Jha](https://open.spotify.com/artist/51pcy004juIDA1mruOZJCX) | [Khata](https://open.spotify.com/album/40p7Y3kJSC4J5r9ZBeYyHe) | 4:10 | 2024-07-26 |  |
-| [Kho Diya](https://open.spotify.com/track/4pBvC8CVuBnNsg3cm7Cfi9) | [Pratsofficial](https://open.spotify.com/artist/29ggvWc5EMcSk5RLQ5aXHr) | [Kho Diya](https://open.spotify.com/album/05jQeZR2fmNn2s6JkYgpzp) | 4:45 | 2024-09-06 |  |
+| [Kho Diya](https://open.spotify.com/track/4pBvC8CVuBnNsg3cm7Cfi9) | [Pratsofficial](https://open.spotify.com/artist/29ggvWc5EMcSk5RLQ5aXHr) | [Kho Diya](https://open.spotify.com/album/05jQeZR2fmNn2s6JkYgpzp) | 4:45 | 2024-09-06 | 2024-10-05 |
 | [Kho Gaya Kyun](https://open.spotify.com/track/0IOasZouiW0Zr9osyXhFT0) | [Ronit Vinta](https://open.spotify.com/artist/0FHOJryrpHtkKAZMKULXXn) | [Kho Gaya Kyun](https://open.spotify.com/album/4TTaId3wunhM5YlrXLcu55) | 2:40 | 2023-04-14 | 2023-05-20 |
 | [Kho Ja](https://open.spotify.com/track/3FASTk6GGeW0PtQ0oVLp9h) | [Himonshu Parikh](https://open.spotify.com/artist/0AHysaqWv1LHwqk5P5lTMX) | [Kho Ja](https://open.spotify.com/album/7whhl16hNq2Pyh65Dh3Zvp) | 3:04 | 2023-05-19 | 2023-07-15 |
 | [Kho Jaana Hai](https://open.spotify.com/track/2U3GWKLkfKjWbeWmLXr7q3) | [Yashraj Kapil](https://open.spotify.com/artist/5FVGmxlFLT1qhfFnpCsvvn) | [Kho Jaana Hai](https://open.spotify.com/album/3Elfca1vU0Q6oFpG2oMMHI) | 4:56 | 2023-11-24 | 2023-12-16 |
@@ -419,6 +419,7 @@
 | [Kinni Vaari](https://open.spotify.com/track/5mGZJn4cXERPhKgjlwVZgT) | [Anurag Vashisht](https://open.spotify.com/artist/6o0MDEgo8moHPwQ1QXIs4c) | [Kinni Vaari](https://open.spotify.com/album/1yk4mK6Om2OkClSnNnpP4p) | 2:27 | 2023-10-27 | 2023-12-02 |
 | [Kishmish](https://open.spotify.com/track/0y0PU8VFoud2NTXfkUmr7g) | [Judy on the run](https://open.spotify.com/artist/2Q40QosdAX9Ov9mlFO6oOB) | [Kishmish](https://open.spotify.com/album/1YFzCuDm6sdX1mFvu6ngXA) | 2:23 | 2024-03-01 | 2024-04-13 |
 | [Kismet](https://open.spotify.com/track/5uuN0Br13jpilHaV6OTzpK) | [Raman Negi](https://open.spotify.com/artist/1ZsF8DeNQav5xvu4X5KsYB) | [Kismet](https://open.spotify.com/album/1kYV2ozbBjtCARj0B5JNM1) | 3:36 | 2024-07-05 | 2024-08-10 |
+| [Koi Aayega](https://open.spotify.com/track/4rAW3JZn2LjEueC8OKVQQV) | [Pulkit Jain](https://open.spotify.com/artist/1XUV920NkslALtUg2Msk4U), [PALAK](https://open.spotify.com/artist/647Uu49eunQT9Xe1LIFykI) | [Koi Aayega](https://open.spotify.com/album/1GG363ypMjGaD4Y89Jd0iF) | 3:06 | 2024-10-04 |  |
 | [Koi Aur](https://open.spotify.com/track/7J0jyUZ4nHSPorCmKnbiN4) | [Aditya Kalway](https://open.spotify.com/artist/4Bv0svSVwUEjKsuFpxuJBR) | [Koi Aur](https://open.spotify.com/album/57uBg5wffmgGl9ltQcjoRk) | 2:49 | 2023-06-23 | 2023-07-29 |
 | [Koi Matlab Nahi](https://open.spotify.com/track/44UJTphbSUJX2K7Ba6KBtm) | [Neyhal](https://open.spotify.com/artist/58nYUsnl5ST7wD1VY49b31), [Doie](https://open.spotify.com/artist/61WxZKiXbPoi7rMp1beJf6) | [Koi Matlab Nahi](https://open.spotify.com/album/2VDW1QYt24MvQL92aqP6hM) | 2:57 | 2023-10-13 | 2023-11-25 |
 | [Koi Tumsa Nahi](https://open.spotify.com/track/3eggOTb2ZE0UvLl0U3KFq3) | [Arunima Wali](https://open.spotify.com/artist/2XbJp0erWMnqGVUj3KqhKT) | [Koi Tumsa Nahi](https://open.spotify.com/album/4h2uK5D43Q68jiwaQb4Tz0) | 2:54 | 2023-04-14 | 2023-06-24 |
@@ -468,7 +469,7 @@
 | [Maahi Dekhle](https://open.spotify.com/track/1nWJtWMjH82MLk3iduAi7N) | [Sid Paul](https://open.spotify.com/artist/0hA5srbpLWMvzdVbz4APZF), [Akanksha Bhandari](https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL) | [Maahi Dekhle](https://open.spotify.com/album/3fONz4jUEAG3k3BADifk88) | 3:10 | 2023-07-28 | 2023-09-09 |
 | [Maddham](https://open.spotify.com/track/4tYogjyp5Azr6Jyj5ERkam) | [Vibha Kale](https://open.spotify.com/artist/2nYV3AXefi8GgeP3aFFdCS), [Shriram Iyer](https://open.spotify.com/artist/1WcPYpjOVLe5qfBXhrLbBw) | [Maddham](https://open.spotify.com/album/2Ka2P9lZXZFN7EP48dVLH0) | 3:09 | 2024-03-08 | 2024-04-19 |
 | [Main Awara](https://open.spotify.com/track/73n0BOjhAwenbyx0gwDuSE) | [Nikhil And Rishabh](https://open.spotify.com/artist/6l4yQwWwvtc0CnN5UXMD1l) | [Main Awara](https://open.spotify.com/album/3qs0pQxmXbReMklmyunn00) | 3:23 | 2023-10-13 | 2023-11-18 |
-| [Main Character Energy](https://open.spotify.com/track/78yacUG8akg9bd52nk5RZL) | [Sanjeeta Bhattacharya](https://open.spotify.com/artist/4Kz7utJFZMqzO9lS4mfgvc), [Jhalli](https://open.spotify.com/artist/4WYrwXBnVA79QFb6pI3xEf) | [Main Character Energy](https://open.spotify.com/album/5M9mshylSiOl4Rz7rpykOb) | 3:21 | 2024-09-06 |  |
+| [Main Character Energy](https://open.spotify.com/track/78yacUG8akg9bd52nk5RZL) | [Sanjeeta Bhattacharya](https://open.spotify.com/artist/4Kz7utJFZMqzO9lS4mfgvc), [Jhalli](https://open.spotify.com/artist/4WYrwXBnVA79QFb6pI3xEf) | [Main Character Energy](https://open.spotify.com/album/5M9mshylSiOl4Rz7rpykOb) | 3:21 | 2024-09-06 | 2024-10-05 |
 | [Main Musafir](https://open.spotify.com/track/4keE5HXc6bfrjfMClbprrh) | [Joel Jossy](https://open.spotify.com/artist/2SM7qowtyQhLuoODYREMXQ), [Aditya Rao](https://open.spotify.com/artist/1R1TnxUWLvnOzsBChmemTa), [Sujeet Anahata Thakur](https://open.spotify.com/artist/61CLoY2iiFnPYVNk4HfMcu) | [Main Musafir](https://open.spotify.com/album/2o1f3b2zCNLXWWPJW5kcnV) | 4:27 | 2024-06-07 | 2024-07-06 |
 | [Main Tera](https://open.spotify.com/track/3SqTTLPktoECRmkGriw5bx) | [Accha Insaan](https://open.spotify.com/artist/5kTO2lNG7ub2Bed7CF8zpH), [Dropped Out](https://open.spotify.com/artist/7zN7ZzgJdUZdEcbecViK4N) | [Main Tera](https://open.spotify.com/album/1ICIE713LoYWEf99y8ktsg) | 3:04 | 2024-06-14 | 2024-07-13 |
 | [Majboor E Aag](https://open.spotify.com/track/1fYOKzD7B8I4kDEPNga0xk) | [Shivam Vashisht](https://open.spotify.com/artist/3gyUpopsFDSJ5Cg9N7dJoy) | [Majboor E Aag](https://open.spotify.com/album/6GNZz6ZdtFPp8kA0P6qhEF) | 2:53 | 2024-07-05 | 2024-08-10 |
@@ -820,6 +821,7 @@
 | [Zakhm Purana](https://open.spotify.com/track/4KVxYFQ5i4tZojPBO1x9Gc) | [Kavita Seth](https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv), [Kanishk Seth](https://open.spotify.com/artist/4hGFNXuWut4b2sfJCJJNEo) | [Zakhm Purana](https://open.spotify.com/album/11ulyEpLTiJnvKpDVxhd89) | 3:54 | 2024-05-10 | 2024-07-06 |
 | [Zaroorat](https://open.spotify.com/track/0JhfRcaTCtksBXAtiFfyHH) | [The Rish](https://open.spotify.com/artist/0Eb38FY9vOjiRA10iXPGHI) | [Zaroorat](https://open.spotify.com/album/30O4j3yuur3CfVy7ZyIbu3) | 2:52 | 2023-11-24 | 2023-12-09 |
 | [Zaroori Saman](https://open.spotify.com/track/71WrJaBUsdwsf7NFxMMNcl) | [Neeraj Rajawat](https://open.spotify.com/artist/3yjKvP7LiyIw2dzB5CCGxM) | [Zaroori Saman](https://open.spotify.com/album/21hL4jXoRXtmSQAwFDVChf) | 2:51 | 2023-10-27 | 2023-12-02 |
+| [Zeest](https://open.spotify.com/track/6Zk48NvcVxsjs5YzzVbDxe) | [Raman Negi](https://open.spotify.com/artist/1ZsF8DeNQav5xvu4X5KsYB) | [Chaltey Purzay](https://open.spotify.com/album/6xpfp8um2z8KrDKZbAl5GU) | 3:06 | 2024-10-04 |  |
 | [Zeher](https://open.spotify.com/track/2YaAHGOC5bPKjCFTkNsmji) | [Hanita Bhambri](https://open.spotify.com/artist/3Y5nIabMJLTsWgW6Jqdn7n) | [Zeher](https://open.spotify.com/album/5jzFaJm5jPTkSYwXpO6NQq) | 3:33 | 2024-10-04 |  |
 | [Zindagi](https://open.spotify.com/track/7x2PxTmn3mHPgll8j3Hgjx) | [Salman Elahi](https://open.spotify.com/artist/60X8hzDUpAbID7G8cU2FPT), [Anjum Rehbar](https://open.spotify.com/artist/0zfGITLaaUpGsHqqHXZdEl), [Shubhraj](https://open.spotify.com/artist/2izx5VbbZ5oLFmTPOFCWAs) | [Zindagi](https://open.spotify.com/album/6mGyAJ1zOEQ0KljkrLAqsA) | 3:57 | 2023-07-28 | 2023-08-25 |
 | [Zindagi](https://open.spotify.com/track/1X8tg7QHom6xKCJ8ComZtA) | [Shubham Kabra](https://open.spotify.com/artist/2gxw2IBkHbDFpzqLqx3AQy) | [Zindagi](https://open.spotify.com/album/0LSL5FUCYBK70Hic1zB1Cp) | 3:03 | 2023-08-18 | 2023-09-16 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "The hottest hip-life and highlife bangers from Ghana right now.  Cover: Amerado",
+  "description": "The hottest hip-life and highlife bangers from Ghana right now.  Cover: Fameye",
   "name": "Ghana Party",
   "tracks": [
     {
@@ -1318,6 +1318,28 @@
       "duration_ms": 147272,
       "name": "Blind",
       "url": "https://open.spotify.com/track/05nQi9vhgIRdm4U3Ibt5Ae"
+    },
+    {
+      "album": {
+        "name": "BOA ME (Remix) [feat. Stonebwoy]",
+        "url": "https://open.spotify.com/album/1oooj58qIV0kL7pthD21gf"
+      },
+      "artists": [
+        {
+          "name": "Beeztrap KOTM",
+          "url": "https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn"
+        },
+        {
+          "name": "Stonebwoy",
+          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170880,
+      "name": "BOA ME (Remix) [feat. Stonebwoy]",
+      "url": "https://open.spotify.com/track/4t3Y8144CHXVlZKpkS5E1e"
     },
     {
       "album": {
@@ -3528,7 +3550,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 233333,
       "name": "Insecure",
       "url": "https://open.spotify.com/track/6bA7m0zUC60DAQaL2TjcZp"
@@ -3586,7 +3608,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 168224,
       "name": "Investment",
       "url": "https://open.spotify.com/track/6zauTKUoGLCypiDV9pRTbd"
@@ -3826,7 +3848,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 220000,
       "name": "June July",
       "url": "https://open.spotify.com/track/6JP04ZuKnshngkHsj3LSmP"
@@ -6431,6 +6453,28 @@
     },
     {
       "album": {
+        "name": "Road Clear",
+        "url": "https://open.spotify.com/album/3GxQNJBWPUtsAXR3dsdgYp"
+      },
+      "artists": [
+        {
+          "name": "Mr Drew",
+          "url": "https://open.spotify.com/artist/4pW48O5XBTgEEJWfr8btdK"
+        },
+        {
+          "name": "Shatta Wale",
+          "url": "https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174337,
+      "name": "Road Clear",
+      "url": "https://open.spotify.com/track/0l187qGuX2ItgULWOjoRVW"
+    },
+    {
+      "album": {
         "name": "For the Kulture",
         "url": "https://open.spotify.com/album/4nrewczBwXf6d8PBs3fDV6"
       },
@@ -6924,6 +6968,24 @@
       "duration_ms": 220206,
       "name": "Sober (Soo Bad)",
       "url": "https://open.spotify.com/track/1oXiXYq3yaWcMZueIwglk8"
+    },
+    {
+      "album": {
+        "name": "Somebody",
+        "url": "https://open.spotify.com/album/2jBAGBR9vEW6VX2Rk4eh0F"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Nuna",
+          "url": "https://open.spotify.com/artist/5MMirduKxjz3OQSLiQfBcT"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210526,
+      "name": "Somebody",
+      "url": "https://open.spotify.com/track/13sENmd5vkGo9pRW2a2lh0"
     },
     {
       "album": {

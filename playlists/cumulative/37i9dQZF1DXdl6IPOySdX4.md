@@ -4,7 +4,7 @@
 
 > you up?
 
-470 songs - 1 day 2 hr 19 min
+471 songs - 1 day 2 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -198,7 +198,7 @@
 | [High For This](https://open.spotify.com/track/5fohLPNqO6TqwrZ7BoUWUT) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Trilogy](https://open.spotify.com/album/5EbpxRwbbpCJUepbqVTZ1U) | 4:07 | 2022-03-25 | 2022-04-19 |
 | [Holding Back](https://open.spotify.com/track/7GpYaKxoIl1XzCjF9aGck2) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [Holding Back](https://open.spotify.com/album/2BknuzgtjnuSDuPF2bjWPJ) | 3:52 | 2022-03-04 | 2022-05-02 |
 | [Holding On](https://open.spotify.com/track/4RjwMyr4D2W4py79Heop9l) | [Tirzah](https://open.spotify.com/artist/6f5lOlSFJw9K79gaNnmWAd) | [Devotion](https://open.spotify.com/album/15GocbF7ybkkPP03YXtLqv) | 3:19 | 2022-03-25 | 2022-04-17 |
-| [Hotel](https://open.spotify.com/track/0JzG1wJuB4v9UPkSE7LMXi) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Hotel](https://open.spotify.com/album/0ykf7jcx3yY49RpkIO1byF) | 3:17 | 2022-09-16 |  |
+| [Hotel](https://open.spotify.com/track/0JzG1wJuB4v9UPkSE7LMXi) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Hotel](https://open.spotify.com/album/0ykf7jcx3yY49RpkIO1byF) | 3:17 | 2022-09-16 | 2024-10-05 |
 | [House Of Balloons / Glass Table Girls](https://open.spotify.com/track/2r7BPog74oaTG5shNYiUnV) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [House Of Balloons \- Original](https://open.spotify.com/album/7zCODUHkfuRxsUjtuzNqbd) | 6:47 | 2024-01-26 |  |
 | [Houston](https://open.spotify.com/track/4d9O0gY7JmTXRHNmv4It66) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [Houston](https://open.spotify.com/album/48adyhddPaE5YihkleCu7I) | 4:37 | 2024-09-20 |  |
 | [Hrs & Hrs](https://open.spotify.com/track/3M5azWqeZbfoVkGXygatlb) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Public Displays Of Affection](https://open.spotify.com/album/2ngrG39dI2ofhCxjmFnKv5) | 3:24 | 2022-07-22 | 2022-11-06 |
@@ -343,6 +343,7 @@
 | [Pretty Little Fears \(feat\. J\. Cole\)](https://open.spotify.com/track/4at3d5QWnlibMVN75ECDrp) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [East Atlanta Love Letter](https://open.spotify.com/album/3fc97ZWLIMc1xawhxbKrh2) | 4:00 | 2022-03-28 |  |
 | [Private Landing \(feat\. Justin Bieber & Future\)](https://open.spotify.com/track/52NGJPcLUzQq5w7uv4e5gf) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Love Sick](https://open.spotify.com/album/26z5llzd194mcCZHADWd6k) | 3:58 | 2023-03-03 |  |
 | [Put On Repeat](https://open.spotify.com/track/4ADMbmfzTk6BWBeKOIdfF8) | [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [Put On Repeat](https://open.spotify.com/album/7fkVD3CHttaBT4rnyEZiCN) | 3:05 | 2022-02-11 | 2022-07-29 |
+| [Q U E V A S H A C E R H O Y ?](https://open.spotify.com/track/0Sr7ssScx54yxdM2ols7nW) | [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc), [De La Rose](https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo) | [PRIMERA MUSA](https://open.spotify.com/album/3C5uwdRE5QRoXSGPPxpDd4) | 3:44 | 2024-10-04 |  |
 | [R e a l W o m a n](https://open.spotify.com/track/5bhDnM1VMFDTs3urFBq4Na) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [R e a l W o m a n](https://open.spotify.com/album/05Zpvjm9aGodlwFnnh1rRE) | 3:14 | 2024-04-23 | 2024-05-12 |
 | [Race My Mind](https://open.spotify.com/track/2Q3jFbyE61mCjS3SkW4toJ) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 4:29 | 2022-03-25 | 2022-04-21 |
 | [Red Lights \(feat\. Wale\)](https://open.spotify.com/track/2A9l1TsM78JQqQMYqAQEZe) | [RINI](https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Constellations](https://open.spotify.com/album/0X4X4hGytNt85z9zZQW8F9) | 3:39 | 2022-02-04 | 2022-07-29 |

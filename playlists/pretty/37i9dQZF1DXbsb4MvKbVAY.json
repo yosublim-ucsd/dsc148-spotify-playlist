@@ -1,6 +1,6 @@
 {
   "description": "Mielenkiintoisimmat biisit ensisoitossa. \ud83d\udd25 Kannessa Arppa.",
-  "num_followers": 24072,
+  "num_followers": 24078,
   "original_name": "Ensisoitossa",
   "owner": {
     "name": "Spotify",
@@ -727,6 +727,26 @@
     {
       "added_at": "2024-10-03 21:01:00",
       "album": {
+        "name": "Talk talk featuring troye sivan",
+        "url": "https://open.spotify.com/album/4hSYRtDjN1XbTqBKTw33sj"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        }
+      ],
+      "duration_ms": 173076,
+      "name": "Talk talk featuring troye sivan",
+      "url": "https://open.spotify.com/track/2LUD3874dlzeRa34Hi7ohW"
+    },
+    {
+      "added_at": "2024-10-03 21:01:00",
+      "album": {
         "name": "WE PRAY",
         "url": "https://open.spotify.com/album/3dZE98f3OlxeQlm9qWYekK"
       },
@@ -759,26 +779,6 @@
     {
       "added_at": "2024-10-03 21:01:00",
       "album": {
-        "name": "Talk talk featuring troye sivan",
-        "url": "https://open.spotify.com/album/4hSYRtDjN1XbTqBKTw33sj"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        },
-        {
-          "name": "Troye Sivan",
-          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
-        }
-      ],
-      "duration_ms": 173076,
-      "name": "Talk talk featuring troye sivan",
-      "url": "https://open.spotify.com/track/2LUD3874dlzeRa34Hi7ohW"
-    },
-    {
-      "added_at": "2024-10-03 21:01:00",
-      "album": {
         "name": "Una Velita",
         "url": "https://open.spotify.com/album/2HQzboxa5GyWpk2aiPP5i6"
       },
@@ -795,22 +795,6 @@
     {
       "added_at": "2024-10-03 21:01:00",
       "album": {
-        "name": "Pretty Slowly",
-        "url": "https://open.spotify.com/album/6P8euK0BjgTqallJTGoJTX"
-      },
-      "artists": [
-        {
-          "name": "Benson Boone",
-          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
-        }
-      ],
-      "duration_ms": 261420,
-      "name": "Pretty Slowly",
-      "url": "https://open.spotify.com/track/1QxxBUAx42J8pIFYJJR880"
-    },
-    {
-      "added_at": "2024-10-03 21:01:00",
-      "album": {
         "name": "Soltera",
         "url": "https://open.spotify.com/album/0VRb8B2ls0GDEfmKiL8FWJ"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 214642,
       "name": "Soltera",
       "url": "https://open.spotify.com/track/3OJDtCdYs8QJnui708tEU3"
+    },
+    {
+      "added_at": "2024-10-03 21:01:00",
+      "album": {
+        "name": "Pretty Slowly",
+        "url": "https://open.spotify.com/album/6P8euK0BjgTqallJTGoJTX"
+      },
+      "artists": [
+        {
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+        }
+      ],
+      "duration_ms": 261420,
+      "name": "Pretty Slowly",
+      "url": "https://open.spotify.com/track/1QxxBUAx42J8pIFYJJR880"
     },
     {
       "added_at": "2024-10-03 21:01:00",
@@ -927,22 +927,6 @@
     {
       "added_at": "2024-10-03 21:01:00",
       "album": {
-        "name": "LIFETIMES",
-        "url": "https://open.spotify.com/album/6UEGp3MQnsKoK9rwKcKBUo"
-      },
-      "artists": [
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "LIFETIMES",
-      "url": "https://open.spotify.com/track/0K8sKuo6xLHZgySZmmw2rV"
-    },
-    {
-      "added_at": "2024-10-03 21:01:00",
-      "album": {
         "name": "S P E Y S I D E",
         "url": "https://open.spotify.com/album/5VFsihsTprFnqRHyrNxMPs"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 209077,
       "name": "S P E Y S I D E",
       "url": "https://open.spotify.com/track/6khKJVbTxzfhbGfHMtyOM8"
+    },
+    {
+      "added_at": "2024-10-03 21:01:00",
+      "album": {
+        "name": "LIFETIMES",
+        "url": "https://open.spotify.com/album/6UEGp3MQnsKoK9rwKcKBUo"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "LIFETIMES",
+      "url": "https://open.spotify.com/track/0K8sKuo6xLHZgySZmmw2rV"
     },
     {
       "added_at": "2024-10-03 21:01:00",
@@ -999,6 +999,26 @@
     {
       "added_at": "2024-10-03 21:01:00",
       "album": {
+        "name": "Omega (feat. Ralphie Choo)",
+        "url": "https://open.spotify.com/album/5wtVvVmUynbA3Yj1Pqys8w"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        },
+        {
+          "name": "Ralphie Choo",
+          "url": "https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7"
+        }
+      ],
+      "duration_ms": 169500,
+      "name": "Omega (feat. Ralphie Choo)",
+      "url": "https://open.spotify.com/track/2ibFPYHzUnqVpS2rv655oF"
+    },
+    {
+      "added_at": "2024-10-03 21:01:00",
+      "album": {
         "name": "Ego",
         "url": "https://open.spotify.com/album/6uHcRBlMpgXSXv0I0rpxBx"
       },
@@ -1031,46 +1051,6 @@
       "duration_ms": 260997,
       "name": "just stand there",
       "url": "https://open.spotify.com/track/2D9a9CXeo3HFtVeaNlzp4a"
-    },
-    {
-      "added_at": "2024-10-03 21:01:00",
-      "album": {
-        "name": "Omega (feat. Ralphie Choo)",
-        "url": "https://open.spotify.com/album/5wtVvVmUynbA3Yj1Pqys8w"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        },
-        {
-          "name": "Ralphie Choo",
-          "url": "https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7"
-        }
-      ],
-      "duration_ms": 169500,
-      "name": "Omega (feat. Ralphie Choo)",
-      "url": "https://open.spotify.com/track/2ibFPYHzUnqVpS2rv655oF"
-    },
-    {
-      "added_at": "2024-10-03 21:01:00",
-      "album": {
-        "name": "143",
-        "url": "https://open.spotify.com/album/3jxt1S4JtW4uFalBwlfehS"
-      },
-      "artists": [
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        },
-        {
-          "name": "Kim Petras",
-          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
-        }
-      ],
-      "duration_ms": 197142,
-      "name": "GORGEOUS (feat. Kim Petras)",
-      "url": "https://open.spotify.com/track/2c121Da4d1kLut5aqRgzpK"
     },
     {
       "added_at": "2024-10-03 21:01:00",
@@ -1147,18 +1127,22 @@
     {
       "added_at": "2024-10-03 21:01:00",
       "album": {
-        "name": "C,XOXO - Magic City Edition",
-        "url": "https://open.spotify.com/album/6mym3v2HWcsH1oBN6A7SPm"
+        "name": "143",
+        "url": "https://open.spotify.com/album/3jxt1S4JtW4uFalBwlfehS"
       },
       "artists": [
         {
-          "name": "Camila Cabello",
-          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        },
+        {
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
         }
       ],
-      "duration_ms": 216471,
-      "name": "GODSPEED",
-      "url": "https://open.spotify.com/track/1HA5rqn1k4YQnJ9XxsnApd"
+      "duration_ms": 197142,
+      "name": "GORGEOUS (feat. Kim Petras)",
+      "url": "https://open.spotify.com/track/2c121Da4d1kLut5aqRgzpK"
     },
     {
       "added_at": "2024-10-03 21:01:00",
@@ -1183,6 +1167,26 @@
     {
       "added_at": "2024-10-03 21:01:00",
       "album": {
+        "name": "this is what forever feels like",
+        "url": "https://open.spotify.com/album/71fJ7EFsAMMKkfnZMIbtKI"
+      },
+      "artists": [
+        {
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+        },
+        {
+          "name": "Nick Jonas",
+          "url": "https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi"
+        }
+      ],
+      "duration_ms": 154841,
+      "name": "this is what forever feels like (with Nick Jonas)",
+      "url": "https://open.spotify.com/track/3uTsiaNxy6h6EAd7MsCf9D"
+    },
+    {
+      "added_at": "2024-10-03 21:01:00",
+      "album": {
         "name": "Favourite Girl (with Rema)",
         "url": "https://open.spotify.com/album/4TFhO9eXlG7Xb4RzSz5tOU"
       },
@@ -1203,22 +1207,18 @@
     {
       "added_at": "2024-10-03 21:01:00",
       "album": {
-        "name": "this is what forever feels like",
-        "url": "https://open.spotify.com/album/71fJ7EFsAMMKkfnZMIbtKI"
+        "name": "C,XOXO - Magic City Edition",
+        "url": "https://open.spotify.com/album/6mym3v2HWcsH1oBN6A7SPm"
       },
       "artists": [
         {
-          "name": "JVKE",
-          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
-        },
-        {
-          "name": "Nick Jonas",
-          "url": "https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi"
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
         }
       ],
-      "duration_ms": 154841,
-      "name": "this is what forever feels like (with Nick Jonas)",
-      "url": "https://open.spotify.com/track/3uTsiaNxy6h6EAd7MsCf9D"
+      "duration_ms": 216471,
+      "name": "GODSPEED",
+      "url": "https://open.spotify.com/track/1HA5rqn1k4YQnJ9XxsnApd"
     },
     {
       "added_at": "2024-10-03 21:01:00",
@@ -1263,18 +1263,22 @@
     {
       "added_at": "2024-10-03 21:01:00",
       "album": {
-        "name": "Buzz",
-        "url": "https://open.spotify.com/album/3g73KFee4dbxDq5vTmX92S"
+        "name": "Silverlines - prod. Labrinth",
+        "url": "https://open.spotify.com/album/6xLihtKzCsFZm7nQrAcbF4"
       },
       "artists": [
         {
-          "name": "NIKI",
-          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+          "name": "Damiano David",
+          "url": "https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6"
+        },
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
         }
       ],
-      "duration_ms": 175693,
-      "name": "Buzz",
-      "url": "https://open.spotify.com/track/4fLspOxX39tXzHHqrEqTgf"
+      "duration_ms": 197542,
+      "name": "Silverlines - prod. Labrinth",
+      "url": "https://open.spotify.com/track/1BK1d7b9bhlbKpQPbYGsol"
     },
     {
       "added_at": "2024-10-03 21:01:00",
@@ -1315,22 +1319,18 @@
     {
       "added_at": "2024-10-03 21:01:00",
       "album": {
-        "name": "Silverlines - prod. Labrinth",
-        "url": "https://open.spotify.com/album/6xLihtKzCsFZm7nQrAcbF4"
+        "name": "Buzz",
+        "url": "https://open.spotify.com/album/3g73KFee4dbxDq5vTmX92S"
       },
       "artists": [
         {
-          "name": "Damiano David",
-          "url": "https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6"
-        },
-        {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+          "name": "NIKI",
+          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
         }
       ],
-      "duration_ms": 197542,
-      "name": "Silverlines - prod. Labrinth",
-      "url": "https://open.spotify.com/track/1BK1d7b9bhlbKpQPbYGsol"
+      "duration_ms": 175693,
+      "name": "Buzz",
+      "url": "https://open.spotify.com/track/4fLspOxX39tXzHHqrEqTgf"
     },
     {
       "added_at": "2024-10-03 21:01:00",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2024-10-03 21:01:00",
       "album": {
-        "name": "What Happens Now? (Deluxe)",
-        "url": "https://open.spotify.com/album/12bTJ4RqxjUEhVg8vSMx9d"
-      },
-      "artists": [
-        {
-          "name": "Dasha",
-          "url": "https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I"
-        }
-      ],
-      "duration_ms": 149426,
-      "name": "Bye Bye Bye",
-      "url": "https://open.spotify.com/track/081NX6xSxwSKgleTmGc58F"
-    },
-    {
-      "added_at": "2024-10-03 21:01:00",
-      "album": {
         "name": "Midnight Cowboy",
         "url": "https://open.spotify.com/album/3MzeTpOA8fYyon4Zs5Cral"
       },
@@ -1603,22 +1587,6 @@
     {
       "added_at": "2024-10-03 21:01:00",
       "album": {
-        "name": "WHITNEY",
-        "url": "https://open.spotify.com/album/36M4NAbKJBDPIJbzWcJHDw"
-      },
-      "artists": [
-        {
-          "name": "Tommy Richman",
-          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
-        }
-      ],
-      "duration_ms": 164021,
-      "name": "WHITNEY",
-      "url": "https://open.spotify.com/track/5bYCfnU4JbAANFkxpbAbhR"
-    },
-    {
-      "added_at": "2024-10-03 21:01:00",
-      "album": {
         "name": "Lights Camera Action",
         "url": "https://open.spotify.com/album/0vfm2JsJHRJLlTLpcuX5jf"
       },
@@ -1631,6 +1599,38 @@
       "duration_ms": 162253,
       "name": "Lights Camera Action",
       "url": "https://open.spotify.com/track/1yICUJxGHVxxTXCUXxS78f"
+    },
+    {
+      "added_at": "2024-10-03 21:01:00",
+      "album": {
+        "name": "What Happens Now? (Deluxe)",
+        "url": "https://open.spotify.com/album/12bTJ4RqxjUEhVg8vSMx9d"
+      },
+      "artists": [
+        {
+          "name": "Dasha",
+          "url": "https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I"
+        }
+      ],
+      "duration_ms": 149426,
+      "name": "Bye Bye Bye",
+      "url": "https://open.spotify.com/track/081NX6xSxwSKgleTmGc58F"
+    },
+    {
+      "added_at": "2024-10-03 21:01:00",
+      "album": {
+        "name": "WHITNEY",
+        "url": "https://open.spotify.com/album/36M4NAbKJBDPIJbzWcJHDw"
+      },
+      "artists": [
+        {
+          "name": "Tommy Richman",
+          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
+        }
+      ],
+      "duration_ms": 164021,
+      "name": "WHITNEY",
+      "url": "https://open.spotify.com/track/5bYCfnU4JbAANFkxpbAbhR"
     },
     {
       "added_at": "2024-10-03 21:01:00",
@@ -1655,6 +1655,26 @@
     {
       "added_at": "2024-10-03 21:01:00",
       "album": {
+        "name": "True",
+        "url": "https://open.spotify.com/album/5w8japF2UnvsfCGcoNn2Oo"
+      },
+      "artists": [
+        {
+          "name": "CYRIL",
+          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
+        },
+        {
+          "name": "Kita Alexander",
+          "url": "https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec"
+        }
+      ],
+      "duration_ms": 125806,
+      "name": "True",
+      "url": "https://open.spotify.com/track/2pw12Ta8UfYKesE52ldUFm"
+    },
+    {
+      "added_at": "2024-10-03 21:01:00",
+      "album": {
         "name": "Why I Love You So",
         "url": "https://open.spotify.com/album/4JF0zqoAl589waMex3Y1nx"
       },
@@ -1675,26 +1695,6 @@
       "duration_ms": 173996,
       "name": "Why I Love You So",
       "url": "https://open.spotify.com/track/7dnBSJEnqpf8dK5fKQevqi"
-    },
-    {
-      "added_at": "2024-10-03 21:01:00",
-      "album": {
-        "name": "True",
-        "url": "https://open.spotify.com/album/5w8japF2UnvsfCGcoNn2Oo"
-      },
-      "artists": [
-        {
-          "name": "CYRIL",
-          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
-        },
-        {
-          "name": "Kita Alexander",
-          "url": "https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec"
-        }
-      ],
-      "duration_ms": 125806,
-      "name": "True",
-      "url": "https://open.spotify.com/track/2pw12Ta8UfYKesE52ldUFm"
     },
     {
       "added_at": "2024-10-03 21:01:00",
@@ -1755,6 +1755,22 @@
     {
       "added_at": "2024-10-03 21:01:00",
       "album": {
+        "name": "SOMEONE TO YOU",
+        "url": "https://open.spotify.com/album/24A93xPSOf7aLOVRNtF5Be"
+      },
+      "artists": [
+        {
+          "name": "Matt Hansen",
+          "url": "https://open.spotify.com/artist/6wlhqnATSJIc0NQ64VxOVJ"
+        }
+      ],
+      "duration_ms": 179854,
+      "name": "SOMEONE TO YOU",
+      "url": "https://open.spotify.com/track/5TRueIWflmHqxe997vpwJY"
+    },
+    {
+      "added_at": "2024-10-03 21:01:00",
+      "album": {
         "name": "Young Again",
         "url": "https://open.spotify.com/album/5kVE6Fu72iprhv4sDL26ym"
       },
@@ -1791,22 +1807,6 @@
       "duration_ms": 182159,
       "name": "Suomalainen Superstara",
       "url": "https://open.spotify.com/track/4S61u0InVCx79RqYYMLTgC"
-    },
-    {
-      "added_at": "2024-10-03 21:01:00",
-      "album": {
-        "name": "SOMEONE TO YOU",
-        "url": "https://open.spotify.com/album/24A93xPSOf7aLOVRNtF5Be"
-      },
-      "artists": [
-        {
-          "name": "Matt Hansen",
-          "url": "https://open.spotify.com/artist/6wlhqnATSJIc0NQ64VxOVJ"
-        }
-      ],
-      "duration_ms": 179854,
-      "name": "SOMEONE TO YOU",
-      "url": "https://open.spotify.com/track/5TRueIWflmHqxe997vpwJY"
     }
   ],
   "unique_name": "Ensisoitossa",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0z1epx5KTtS.md) - [plain]
 
 > African dance party music from the continent to Paris\. Photo : Ayanne
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,770 likes - 40 songs - 2 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,821 likes - 40 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0z1epx5KTtS.md) - [plain]
 | 13 | [Chebaba](https://open.spotify.com/track/2GrBcbY5ui7yYD9cz1qalO) | [DOUPI PAPILLON](https://open.spotify.com/artist/0Ndfw3wuP0M6OTL0jv96le) | [Chebaba](https://open.spotify.com/album/1oxFxatESpXiF5NxLToR74) | 3:22 |
 | 14 | [Maman matchôtchô](https://open.spotify.com/track/4K0NpIa9A1vXLg4ZJYUfqo) | [Peroo](https://open.spotify.com/artist/5zWvgu0NI3AhsBmkHQ7Cv4), [Renard Barakissa](https://open.spotify.com/artist/723b4uVlhopiahp6hgHGRj) | [Maman matchôtchô](https://open.spotify.com/album/4c93TYyTUld4cSQuXJEnFV) | 3:36 |
 | 15 | [1 à 1](https://open.spotify.com/track/4Mfk5H01xq6h8pcCvWnvvY) | [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4) | [1 à 1](https://open.spotify.com/album/1oNW8cSIdBQvpupTuHRjZy) | 3:32 |
-| 16 | [J'aime ça](https://open.spotify.com/track/0ddBz53fWZEmCT4LcBQZhE) | [KBMI Jamax](https://open.spotify.com/artist/1x1jDaqV7a7DPSA0RdRP8b), [Dydy Yeman](https://open.spotify.com/artist/6vW6A3qZVzesahMxmW1qvp) | [J'aime ça](https://open.spotify.com/album/0d36TPaXqra7McNYecKZnZ) | 2:49 |
+| 16 | [J'aime ça](https://open.spotify.com/track/0ddBz53fWZEmCT4LcBQZhE) | [KMBI Jamax](https://open.spotify.com/artist/3SKeInahC0cCoji0E3AxTs), [Dydy Yeman](https://open.spotify.com/artist/6vW6A3qZVzesahMxmW1qvp) | [J'aime ça](https://open.spotify.com/album/0d36TPaXqra7McNYecKZnZ) | 2:49 |
 | 17 | [Remontada](https://open.spotify.com/track/7GXRrgvWlaqPQcVVvQopOQ) | [Team Paiya](https://open.spotify.com/artist/5UGLLBEL0U3j4OzxxgVTmk), [Ste Milano](https://open.spotify.com/artist/3z0zOzORjgGBn9NdYfgRYd) | [Remontada](https://open.spotify.com/album/2dkHnxc412xEQUnO39UxZZ) | 2:04 |
 | 18 | [En Kabato](https://open.spotify.com/track/4xE4sAEZSVa9yfT1cszxQ1) | [Black K](https://open.spotify.com/artist/17kX2iCte2ZwbtwhIF7bBq), [La Team de Poy](https://open.spotify.com/artist/1YdkFYfSU2CMKyTxmS9cDd), [AB LE SUPERMAN](https://open.spotify.com/artist/6K0TZzd8j1q00kwLoncFgJ) | [En Kabato](https://open.spotify.com/album/1MWOC8Oh4iqVv7oOhR7I8N) | 2:48 |
 | 19 | [Dosabado](https://open.spotify.com/track/5g9YSheBayQuouTCHXDJt6) | [DJ Arafat](https://open.spotify.com/artist/0ipkUaXENFuJxWcCFfXXQ8) | [Rhythms of Zamunda \(Music Inspired by the Amazon Original Movie: Coming 2 America\)](https://open.spotify.com/album/3OelY3WvwTxAQGBGgdxEPn) | 2:30 |

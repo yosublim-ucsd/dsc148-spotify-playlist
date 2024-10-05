@@ -4,7 +4,7 @@
 
 > it's sweater weather 🍁🧶
 
-1,522 songs - 3 day 8 hr 3 min
+1,523 songs - 3 day 8 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1421,6 +1421,7 @@
 | [Valentine](https://open.spotify.com/track/6cx5CvFhqN19efStehJqoW) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L) | 2:48 | 2024-02-13 |  |
 | [vampire](https://open.spotify.com/track/1kuGVB7EU95pJObxwvfwKS) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:39 | 2023-09-08 | 2024-04-19 |
 | [vampire](https://open.spotify.com/track/3k79jB4aGmMDUQzEwa46Rz) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [vampire](https://open.spotify.com/album/5kqfR7EuGbyp8x27Pr1kY9) | 3:39 | 2023-06-30 |  |
+| [Vanilj](https://open.spotify.com/track/2CBuonjhTSzjzDBKNhjxlF) | [BoBa](https://open.spotify.com/artist/4Ui11oqvDCTqw4fxX2XkFW), [Malik Dalasi](https://open.spotify.com/artist/1n3grwmOigAA2UYtlF91gc) | [Vanilj](https://open.spotify.com/album/5QuG1YYAkTFUF7DETHLleW) | 2:19 | 2024-10-04 |  |
 | [Vegas \(From the Original Motion Picture Soundtrack ELVIS\)](https://open.spotify.com/track/0hquQWY3xvYqN4qtiquniF) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Vegas \(From the Original Motion Picture Soundtrack ELVIS\)](https://open.spotify.com/album/2Q5DPv9uliinOBSdNooIe3) | 3:02 | 2022-06-16 |  |
 | [Vem är jag utan dig](https://open.spotify.com/track/7AsJ01kktOQwx6Ud1281TC) | [Hov1](https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt) | [… men det gör jag egentligen](https://open.spotify.com/album/5DUG2p0EimhnktehrSfZZR) | 3:17 | 2024-09-19 |  |
 | [Very Few Friends](https://open.spotify.com/track/2L0PRavRIQIjVcZK4Qgfgi) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT) | [Very Few Friends](https://open.spotify.com/album/02dJ5uhNo9npWtD9tnpD0y) | 2:12 | 2023-01-05 |  |

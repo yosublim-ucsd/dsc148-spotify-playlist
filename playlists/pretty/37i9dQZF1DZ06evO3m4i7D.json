@@ -1,12 +1,12 @@
 {
   "description": "This Is Eugenio Esquivel. Los temas esenciales, todos en una lista.",
-  "num_followers": 1822,
+  "num_followers": 1823,
   "original_name": "This Is Eugenio Esquivel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvyNAAAAAACSnwiBVHhc0vh2eR+DR7WL",
+  "snapshot_id": "Zv3egAAAAAB+9npc3ys1n0iHqg4ROBhr",
   "tracks": [
     {
       "added_at": null,
@@ -287,30 +287,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "GUZBYE",
-        "url": "https://open.spotify.com/album/0RJZJxSvOBnKSNU9nXQ6zD"
-      },
-      "artists": [
-        {
-          "name": "miguel cornejo",
-          "url": "https://open.spotify.com/artist/67s0oOKE73W45e5UawllhS"
-        },
-        {
-          "name": "Sebastian Esquivel",
-          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
-        },
-        {
-          "name": "Eugenio Esquivel",
-          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "GUZBYE",
-      "url": "https://open.spotify.com/track/6qNktE3ki1AqZThqp5EL7u"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tirando Flow Sesh #9",
         "url": "https://open.spotify.com/album/5nS3MisEg8pZROaMSQLyqy"
       },
@@ -331,6 +307,30 @@
       "duration_ms": 187297,
       "name": "Tirando Flow Sesh #9",
       "url": "https://open.spotify.com/track/1r8mlloMCnHwy40TPrV1U0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "GUZBYE",
+        "url": "https://open.spotify.com/album/0RJZJxSvOBnKSNU9nXQ6zD"
+      },
+      "artists": [
+        {
+          "name": "miguel cornejo",
+          "url": "https://open.spotify.com/artist/67s0oOKE73W45e5UawllhS"
+        },
+        {
+          "name": "Sebastian Esquivel",
+          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
+        },
+        {
+          "name": "Eugenio Esquivel",
+          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "GUZBYE",
+      "url": "https://open.spotify.com/track/6qNktE3ki1AqZThqp5EL7u"
     },
     {
       "added_at": null,

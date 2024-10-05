@@ -4,7 +4,7 @@
 
 > Músicas para dançar e louvar com os pequenos adoradores.
 
-79 songs - 4 hr 20 min
+80 songs - 4 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,8 +51,9 @@
 | [Família Perfeita](https://open.spotify.com/track/25UWTOQyH5eOcvMyWb0VKR) | [Áquila](https://open.spotify.com/artist/4z6EQDJNZwMQ6uHmjL87nQ) | [Família Perfeita](https://open.spotify.com/album/2BOtSzS45MKiRwNHHoPD6V) | 3:16 | 2022-09-02 |  |
 | [Festa das Cores](https://open.spotify.com/track/2OgjuP2rTKfweuPiZDORMw) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Festa das Cores](https://open.spotify.com/album/7y3if5oFUBEKP94vf2mCQW) | 3:26 | 2022-09-02 |  |
 | [Fico Feliz](https://open.spotify.com/track/2wZnSYsdoDHYZ4mYCFl0Sj) | [GBA Stage](https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s), [Rafael de Oliveira](https://open.spotify.com/artist/4qRoHdCs4qUXd7ptMkjs80), [Lara Maria](https://open.spotify.com/artist/2u6lfISZVmVMzhOv5KHWf2), [Alyce Maria](https://open.spotify.com/artist/4wQVjWUP0rzD6PhfFCAMVj), [Ana Lunna](https://open.spotify.com/artist/7DJnoHcMYpn6e685BbPGC8) | [Gba Stage Kids](https://open.spotify.com/album/6Lx7iiv2S1DsYyhUPNVBGW) | 4:40 | 2024-04-19 |  |
+| [Filipenses](https://open.spotify.com/track/0r8wj5qmDS8UmrONRWEyFv) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo), [ImaginAline](https://open.spotify.com/artist/1LAIQWBGrbEFFMnkSnDXHN) | [ImaginAline \- Uma Viagem no Tempo](https://open.spotify.com/album/2YyBG9g0IIqQEGrTiByg4Y) | 4:06 | 2024-10-04 |  |
 | [Galileia](https://open.spotify.com/track/1NxGlZCXHdExP3sPld6UV0) | [3 Palavrinhas](https://open.spotify.com/artist/6apif9UbguC36klKtjMKVL) | [Galileia](https://open.spotify.com/album/1WsqUCNmbFJOsA4Ukmu8lV) | 2:37 | 2022-09-02 | 2024-01-06 |
-| [Gosto de Vitória](https://open.spotify.com/track/5LGCcrDTb8p2HJYYxq2zle) | [Rayne Almeida](https://open.spotify.com/artist/2WtIzFKxQniqeliHt4vIVj) | [Gosto de Vitória](https://open.spotify.com/album/1dTnaLXwqLvMrMcdPjOTAC) | 3:06 | 2024-06-28 |  |
+| [Gosto de Vitória](https://open.spotify.com/track/5LGCcrDTb8p2HJYYxq2zle) | [Rayne Almeida](https://open.spotify.com/artist/2WtIzFKxQniqeliHt4vIVj) | [Gosto de Vitória](https://open.spotify.com/album/1dTnaLXwqLvMrMcdPjOTAC) | 3:06 | 2024-06-28 | 2024-10-05 |
 | [Hit da Formiguinha](https://open.spotify.com/track/2jxOwM1YWNLdVtYKhHjY4r) | [Vaneyse](https://open.spotify.com/artist/3S1zrPd36u0KRCPF6HUAOl) | [Brincando de Escolinha](https://open.spotify.com/album/28QrtBn35MNZOGsNMjUrja) | 3:06 | 2022-09-02 |  |
 | [Jesus Me Ama Tanto](https://open.spotify.com/track/0J8hD8AoGlQipoHU6LF6ZX) | [Arieta Magrini](https://open.spotify.com/artist/3KPggmoiyvKE7nhNdJ3sL5), [Metodista Kids](https://open.spotify.com/artist/2IsqqcA3KOtxZHKplFVUaa) | [Jesus Me Ama Tanto](https://open.spotify.com/album/2Zz9nQm8tCtURbCYJnN0mc) | 3:56 | 2022-09-02 |  |
 | [Medley Crianças DT Toin Toin \- Ao Vivo](https://open.spotify.com/track/26XndRd8wqjXghY0rTIWd1) | [Diante do Trono](https://open.spotify.com/artist/4AeWCU2yUgVFbqKmOezL75), [Ana Paula Valadão](https://open.spotify.com/artist/28rjo4eRvpmLW0EsCIy6FW), [Isaque Valadão Bessa](https://open.spotify.com/artist/054LTzkZ6sYAjYVmvYgyn9), [Gabriel Barreto](https://open.spotify.com/artist/06ii0QUGCLVALU7jqPB1K1), [Lu Alone](https://open.spotify.com/artist/352auYzmQ8KYsRjM2bFD8U), [Nena Lacerda](https://open.spotify.com/artist/6UHyiSKriWWiIldzzXmnBW) | [Medley Crianças Diante do Trono \(Ao Vivo\)](https://open.spotify.com/album/2F0dpBrgay5e2ikGnyBbpj) | 5:38 | 2023-10-13 |  |

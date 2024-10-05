@@ -4,7 +4,7 @@
 
 > Die nuutste Afrikaanse musiek\. Omslag: <a href="https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF?si=5af6ENh4SQeR2B0Iwt4v4Q">Francois van Coke</a>
 
-1,233 songs - 2 day 21 hr 8 min
+1,235 songs - 2 day 21 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -408,6 +408,7 @@
 | [Hallo, Medemens.](https://open.spotify.com/track/01TAnBzy90Kq7PdDhFO5Cq) | [Kristi Boonzaaier](https://open.spotify.com/artist/2sJM434dzEl4573CbPVkFp) | [Hallo, Medemens.](https://open.spotify.com/album/2ifnfDWYW06LS5fXar7OlT) | 2:42 | 2023-11-09 | 2023-11-24 |
 | [Hand Op Die Bybel](https://open.spotify.com/track/2LUmsKhcEiFHfVXGk8cFJi) | [Deon Groot](https://open.spotify.com/artist/68BEr1czs88WHBlzZA25DA) | [Hand Op Die Bybel](https://open.spotify.com/album/02exWmaTVZCMMLvr43frc4) | 3:29 | 2024-04-04 | 2024-05-24 |
 | [Hande Op My Lyf](https://open.spotify.com/track/5L5vGltByF0uGTPUImcTh4) | [Armand Joubert](https://open.spotify.com/artist/5KnlL16gAV2FJVBZgT04Tu) | [Hande Op My Lyf](https://open.spotify.com/album/3VVDXEWmrvsKJNXi8ItmsK) | 2:32 | 2024-08-29 |  |
+| [Hande Op My Lyf \- Shokbasse Remix](https://open.spotify.com/track/5W08ALPUW7VdOwbLJGzzJd) | [Armand Joubert](https://open.spotify.com/artist/5KnlL16gAV2FJVBZgT04Tu), [ShokBasse](https://open.spotify.com/artist/5T2FFt1abRd5ZJKrzB2ZZj) | [Hande Op My Lyf \(Shokbasse Remix\)](https://open.spotify.com/album/4WnmAgC6OB7zYOJQfZSDA3) | 2:38 | 2024-10-03 |  |
 | [Hanrie Visagie](https://open.spotify.com/track/5XzRG1HP6iVtI9hfyInhRN) | [Werner Van Der Hoven](https://open.spotify.com/artist/1z3Cykt3bMtNbrY9SPGSI2) | [Hanrie Visagie](https://open.spotify.com/album/6EBJSVUfHtsBvtUHgzgThc) | 2:38 | 2024-03-14 | 2024-04-19 |
 | [Happy Family](https://open.spotify.com/track/48dgyAaCvCVEL7V1wCa7ir) | [Jack Parow](https://open.spotify.com/artist/2zzOTg1SHx5vuqgcexJRxA), [Early B](https://open.spotify.com/artist/5TPAUNFxyxSe1eyIeY5sQd), [Bliksemstraal](https://open.spotify.com/artist/3o16GHS46wYhqaie5gphhJ) | [Happy Family](https://open.spotify.com/album/578wRRxJyUWvqtvZTQ2V21) | 4:04 | 2022-09-22 | 2022-10-04 |
 | [Harlekyn \- SENSASIE Remix](https://open.spotify.com/track/0DA7vyK4tnHcIdwF9AFeQA) | [Sonja Herholdt](https://open.spotify.com/artist/3r1PUQOx1VzNvHMQMPjcMx), [SENSASIE](https://open.spotify.com/artist/10HlHRiu2de76RWUBTbg14) | [Harlekyn \(SENSASIE Remix\)](https://open.spotify.com/album/2DSIZX2QFouX7AfO0aVfye) | 3:54 | 2024-04-18 | 2024-07-05 |
@@ -789,6 +790,7 @@
 | [Nora Vlok](https://open.spotify.com/track/6TVcrV4TEhQiuKjU5Tactz) | [Die Heuwels Fantasties](https://open.spotify.com/artist/0FrkoXLOCHCWfMXw10Apxb), [Appel](https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd) | [Nora Vlok](https://open.spotify.com/album/28mbGMQoZuM1kwHrKpgLfs) | 3:07 | 2022-12-08 | 2023-05-26 |
 | [Nostalgie](https://open.spotify.com/track/51gmwQ2DysLAzGMDZ9QJbr) | [Carlissa](https://open.spotify.com/artist/4DnxYe01g800MpVYYvN74l) | [Nostalgie](https://open.spotify.com/album/5WEswN1xODOysaRnIxKhsF) | 3:22 | 2023-05-04 | 2023-05-12 |
 | [Nou's Ek Blind](https://open.spotify.com/track/5IsUGhCV7rl11tnQf3jsuA) | [VOLK](https://open.spotify.com/artist/4FvIuLbPat5vSttuzmM7VE) | [Nou's Ek Blind](https://open.spotify.com/album/5egz5Szxe4rFmYUUvsGzLI) | 3:58 | 2024-05-16 | 2024-06-01 |
+| [NUGTER ALLEEN](https://open.spotify.com/track/412y2Y2YRKmzbp5GABwGR0) | [John Conrad](https://open.spotify.com/artist/5V1MTbOqYzsPMDdP5biM01) | [NUGTER ALLEEN](https://open.spotify.com/album/624Tu91zv1nware7B17vPX) | 3:27 | 2024-10-03 |  |
 | [Nuwe Asem](https://open.spotify.com/track/2kSEwoYeaVN7S5Hwe5N77d) | [Touch by Mirror](https://open.spotify.com/artist/0wyKENJo86SfbhWYUiFOc8) | [Nuwe Asem](https://open.spotify.com/album/1UaykSCG7vw3MdwSyfaoav) | 4:02 | 2024-07-04 | 2024-07-12 |
 | [Nuwe Liefde](https://open.spotify.com/track/2UPxiygts8H5sci9D41YWL) | [Nadine Blom](https://open.spotify.com/artist/4xdhhxjDnqlTtI5uIEN2Sd) | [Nuwe Liefde](https://open.spotify.com/album/1385mUopK4X7q2jW76Ma0G) | 3:00 | 2023-10-13 | 2023-10-27 |
 | [Nuwe Reise](https://open.spotify.com/track/6irJs3wXpfMJBwPsx6BZUP) | [Legkaart](https://open.spotify.com/artist/6q148JlUofOrUfcf7Dmac6) | [Nuwe Reise](https://open.spotify.com/album/2eTnfCXIPXQ6ZGKRs30Uy4) | 2:42 | 2023-01-19 | 2023-03-18 |

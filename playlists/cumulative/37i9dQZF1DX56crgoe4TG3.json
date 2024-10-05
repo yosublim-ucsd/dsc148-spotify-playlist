@@ -585,6 +585,24 @@
     },
     {
       "album": {
+        "name": "Blinding Lights",
+        "url": "https://open.spotify.com/album/0l8nQQvBiFAJnTbzbnSK3f"
+      },
+      "artists": [
+        {
+          "name": "Micah Wagner",
+          "url": "https://open.spotify.com/artist/6TvBcI7m0Jq96Br9pAXCGy"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185806,
+      "name": "Blinding Lights",
+      "url": "https://open.spotify.com/track/3V9VuEtA4EYTbK5utLOZZK"
+    },
+    {
+      "album": {
         "name": "Born At The Right Time",
         "url": "https://open.spotify.com/album/3LRnF4dHzSpanoNzgY8THq"
       },
@@ -1904,6 +1922,40 @@
       "duration_ms": 247534,
       "name": "Go Your Own Way",
       "url": "https://open.spotify.com/track/50M460tbcGAaJuX0HQJygx"
+    },
+    {
+      "album": {
+        "name": "Going to California",
+        "url": "https://open.spotify.com/album/3UCiAPojwoDuxzbawjPyCQ"
+      },
+      "artists": [
+        {
+          "name": "Grace Bowers & The Hodge Podge",
+          "url": "https://open.spotify.com/artist/3JX7toZYBPbth2CCq78kBx"
+        },
+        {
+          "name": "Lucie Silvas",
+          "url": "https://open.spotify.com/artist/57HiMjhnxdJflQodRyC5Ju"
+        },
+        {
+          "name": "Caroline Jones",
+          "url": "https://open.spotify.com/artist/3xl6isKUFqJNui79kpdT0Y"
+        },
+        {
+          "name": "SistaStrings",
+          "url": "https://open.spotify.com/artist/4XCzC4PAZ8KyL7wzqU6z8g"
+        },
+        {
+          "name": "Sierra Hull",
+          "url": "https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250000,
+      "name": "Going To California",
+      "url": "https://open.spotify.com/track/1GreApnsVuQ45DwAaTTDgH"
     },
     {
       "album": {

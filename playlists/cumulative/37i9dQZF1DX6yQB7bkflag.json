@@ -11365,6 +11365,24 @@
     },
     {
       "album": {
+        "name": "R.E.M",
+        "url": "https://open.spotify.com/album/4xcIr0rkoIBPmoSPamCorO"
+      },
+      "artists": [
+        {
+          "name": "KISS OF LIFE",
+          "url": "https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172773,
+      "name": "R.E.M",
+      "url": "https://open.spotify.com/track/7D2B5pj751b3MIaU4TwE6e"
+    },
+    {
+      "album": {
         "name": "Rahasia #2",
         "url": "https://open.spotify.com/album/4boRdm48cMp4ojgdsULFxH"
       },

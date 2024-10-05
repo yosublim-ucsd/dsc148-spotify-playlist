@@ -2805,6 +2805,24 @@
     },
     {
       "album": {
+        "name": "Rose Bay",
+        "url": "https://open.spotify.com/album/6EgPZYM69ojeuJdZaHPOJQ"
+      },
+      "artists": [
+        {
+          "name": "Ludovico Einaudi",
+          "url": "https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259120,
+      "name": "Rose Bay",
+      "url": "https://open.spotify.com/track/3fXvaNpYYG1S1pla7P71oF"
+    },
+    {
+      "album": {
         "name": "Debussy Piano Edition",
         "url": "https://open.spotify.com/album/7qdNpLxZ5eazTHCYu0Ssxz"
       },

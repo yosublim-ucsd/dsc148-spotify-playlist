@@ -1,6 +1,6 @@
 {
   "description": "Apaga a luz e deixa rolar.",
-  "num_followers": 313339,
+  "num_followers": 313345,
   "original_name": "Rala e Rola",
   "owner": {
     "name": "Spotify",
@@ -739,6 +739,26 @@
     {
       "added_at": "2024-09-27 03:01:00",
       "album": {
+        "name": "Sentido",
+        "url": "https://open.spotify.com/album/2bSaKc16naXhVcu5LGBj35"
+      },
+      "artists": [
+        {
+          "name": "Jorge Vercillo",
+          "url": "https://open.spotify.com/artist/783AF57UpgTN2fditDRFSs"
+        },
+        {
+          "name": "Mark Exodus",
+          "url": "https://open.spotify.com/artist/5QuaUicw0RJdqHlUJdkQWz"
+        }
+      ],
+      "duration_ms": 229366,
+      "name": "\u00c1guias e Sereias",
+      "url": "https://open.spotify.com/track/0hwTBgo6SYOUyvOmSESHAu"
+    },
+    {
+      "added_at": "2024-09-27 03:01:00",
+      "album": {
         "name": "100 por Hora",
         "url": "https://open.spotify.com/album/60ipg4FiWce9Deo68OWZsA"
       },
@@ -799,26 +819,6 @@
       "duration_ms": 166864,
       "name": "Tara",
       "url": "https://open.spotify.com/track/4s2hl8ZqSkWHH9tGJ72F21"
-    },
-    {
-      "added_at": "2024-09-27 03:01:00",
-      "album": {
-        "name": "Sentido",
-        "url": "https://open.spotify.com/album/2bSaKc16naXhVcu5LGBj35"
-      },
-      "artists": [
-        {
-          "name": "Jorge Vercillo",
-          "url": "https://open.spotify.com/artist/783AF57UpgTN2fditDRFSs"
-        },
-        {
-          "name": "Mark Exodus",
-          "url": "https://open.spotify.com/artist/5QuaUicw0RJdqHlUJdkQWz"
-        }
-      ],
-      "duration_ms": 229366,
-      "name": "\u00c1guias e Sereias",
-      "url": "https://open.spotify.com/track/0hwTBgo6SYOUyvOmSESHAu"
     },
     {
       "added_at": "2024-09-27 03:01:00",

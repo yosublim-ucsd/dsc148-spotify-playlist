@@ -741,6 +741,28 @@
     },
     {
       "album": {
+        "name": "Alone (Remix)",
+        "url": "https://open.spotify.com/album/1bE7lrP5TzEIX3UHiwMhKR"
+      },
+      "artists": [
+        {
+          "name": "FOLA",
+          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
+        },
+        {
+          "name": "Bnxn",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154578,
+      "name": "Alone - Remix",
+      "url": "https://open.spotify.com/track/2GSK9VfsKWpVOV6ZzKiMA4"
+    },
+    {
+      "album": {
         "name": "Alright",
         "url": "https://open.spotify.com/album/0MLdJT6OYklHVHbX6hLhDi"
       },
@@ -7400,6 +7422,28 @@
       "duration_ms": 140399,
       "name": "I Can",
       "url": "https://open.spotify.com/track/1q755nDEIApNtuP9vpc3hr"
+    },
+    {
+      "album": {
+        "name": "JADED",
+        "url": "https://open.spotify.com/album/1XcpYmfE4vYCKeLQYINlO7"
+      },
+      "artists": [
+        {
+          "name": "Toosii",
+          "url": "https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1"
+        },
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166954,
+      "name": "I Do (feat. Muni Long)",
+      "url": "https://open.spotify.com/track/5TbYIeYkGgGtYL7sms7m9N"
     },
     {
       "album": {

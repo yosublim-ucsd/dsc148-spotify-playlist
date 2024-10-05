@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2022-02-24",
-  "description": "The home of Latin R&B. La casa del R&B Latino. Cover: Maluma & Blessd",
+  "description": "The home of Latin R&B \u2764\ufe0f La casa del R&B Latino. Cover: day2k",
   "name": "Latin R&B",
   "tracks": [
+    {
+      "album": {
+        "name": "1000 cartas / dsps de un faje",
+        "url": "https://open.spotify.com/album/7LOo3kTsO24pNoLDzo7DWG"
+      },
+      "artists": [
+        {
+          "name": "day2k",
+          "url": "https://open.spotify.com/artist/6pthLI3SnpAzmSsdky1iy3"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145479,
+      "name": "1000 cartas",
+      "url": "https://open.spotify.com/track/7Hw9wfTO1svTy8yjpV9sL7"
+    },
     {
       "album": {
         "name": "19 HORAS",
@@ -566,6 +584,28 @@
       "duration_ms": 163124,
       "name": "Amor No Correspondido",
       "url": "https://open.spotify.com/track/7DRT78EDLAfW0t6tjpTCHq"
+    },
+    {
+      "album": {
+        "name": "Amor \u2260 Cristal",
+        "url": "https://open.spotify.com/album/7lajp8RcKFyjmTnXfZAROL"
+      },
+      "artists": [
+        {
+          "name": "Flavio Rodriguez",
+          "url": "https://open.spotify.com/artist/0CqjTpL2gwBuLAxCoubs53"
+        },
+        {
+          "name": "Cruz Cafun\u00e9",
+          "url": "https://open.spotify.com/artist/0jeYkqwckGJoHQhhXwgzk3"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172888,
+      "name": "Amor \u2260 Cristal",
+      "url": "https://open.spotify.com/track/4BXJuBVdD6xoX9oD2hrUuU"
     },
     {
       "album": {
@@ -1630,7 +1670,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 194884,
       "name": "Cicatrices",
       "url": "https://open.spotify.com/track/47aJuPKFlwsBcTyECetM4S"
@@ -2791,6 +2831,28 @@
     },
     {
       "album": {
+        "name": "Eclipse",
+        "url": "https://open.spotify.com/album/3vRThDGjH5Zb2aFyuBTjeK"
+      },
+      "artists": [
+        {
+          "name": "Ms. Ambar",
+          "url": "https://open.spotify.com/artist/0jgJv4J29BJiJu1luw2SdA"
+        },
+        {
+          "name": "Alka Produce",
+          "url": "https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180469,
+      "name": "Eclipse",
+      "url": "https://open.spotify.com/track/5sI6c5d8qik6FNN6TuDMmt"
+    },
+    {
+      "album": {
         "name": "El D\u00eda Que Me Odies",
         "url": "https://open.spotify.com/album/1M9FZmp3CMlmR1MGjvZ6cE"
       },
@@ -2984,6 +3046,28 @@
       "duration_ms": 232156,
       "name": "Endulzame",
       "url": "https://open.spotify.com/track/0YlzKmTYc5TGwlieWvNzgx"
+    },
+    {
+      "album": {
+        "name": "Entre Mis Manos",
+        "url": "https://open.spotify.com/album/0wrNtmAbTwV3MzAoqIE5ih"
+      },
+      "artists": [
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        },
+        {
+          "name": "Adehese",
+          "url": "https://open.spotify.com/artist/5DBTPlJ9rAnMJuyu1UZKXi"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220500,
+      "name": "Entre Mis Manos",
+      "url": "https://open.spotify.com/track/1hs4FsYr28Ef1JYlIcYrcp"
     },
     {
       "album": {
@@ -3713,6 +3797,28 @@
     },
     {
       "album": {
+        "name": "I'll Show You",
+        "url": "https://open.spotify.com/album/58nMzmrXTZTUHqadHUoq5m"
+      },
+      "artists": [
+        {
+          "name": "Chicocurlyhead",
+          "url": "https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1"
+        },
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187636,
+      "name": "I'll Show You",
+      "url": "https://open.spotify.com/track/3YMpqqttldtinT0F9cAbjJ"
+    },
+    {
+      "album": {
         "name": "I.W.Y.",
         "url": "https://open.spotify.com/album/0W3AKS1vhthN13diu18bTH"
       },
@@ -3927,6 +4033,24 @@
     },
     {
       "album": {
+        "name": "KINTSUGI",
+        "url": "https://open.spotify.com/album/2icg5AKoqW4jWW9vdkENlZ"
+      },
+      "artists": [
+        {
+          "name": "HUMBE",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237908,
+      "name": "KINTSUGI",
+      "url": "https://open.spotify.com/track/1qbql17v0Hazo94o5RUyWQ"
+    },
+    {
+      "album": {
         "name": "Krusty",
         "url": "https://open.spotify.com/album/2J7N9LFYEc6ftSDGEj45VF"
       },
@@ -4064,6 +4188,28 @@
       "duration_ms": 101739,
       "name": "La Musa",
       "url": "https://open.spotify.com/track/3wjoYxOdPcUTxidHB8kMV5"
+    },
+    {
+      "album": {
+        "name": "LA NOCHE ENTERA",
+        "url": "https://open.spotify.com/album/4eMZ3ADBerlQuAOJ4bYWse"
+      },
+      "artists": [
+        {
+          "name": "Big Soto",
+          "url": "https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU"
+        },
+        {
+          "name": "COSMIC KID",
+          "url": "https://open.spotify.com/artist/4JuwA35M2yrQkpOSokiH9h"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150480,
+      "name": "LA NOCHE ENTERA",
+      "url": "https://open.spotify.com/track/5pUS0vJU3QiRtyhQFIkAqy"
     },
     {
       "album": {
@@ -6953,6 +7099,32 @@
     },
     {
       "album": {
+        "name": "Siguiendo Tu Voz",
+        "url": "https://open.spotify.com/album/3aMx835NabvoX55u65N42y"
+      },
+      "artists": [
+        {
+          "name": "Sharif",
+          "url": "https://open.spotify.com/artist/5pIapcAHb6WV4fUjfQchMf"
+        },
+        {
+          "name": "KYR4",
+          "url": "https://open.spotify.com/artist/1nm61H1nuw0QZ86AuH0wv2"
+        },
+        {
+          "name": "Gordo del Funk",
+          "url": "https://open.spotify.com/artist/5cvgau68BWnLZcjeX7Pdf3"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190685,
+      "name": "Siguiendo Tu Voz",
+      "url": "https://open.spotify.com/track/2hPtSn5rWBtXUygMF1ibio"
+    },
+    {
+      "album": {
         "name": "Metadona",
         "url": "https://open.spotify.com/album/5GXTM6c57KdkBZR6Jt85IO"
       },
@@ -7084,6 +7256,28 @@
       "duration_ms": 223847,
       "name": "Sola - Remix",
       "url": "https://open.spotify.com/track/0RaHJJEltK9qqXPVuxhrwq"
+    },
+    {
+      "album": {
+        "name": "Somos 3",
+        "url": "https://open.spotify.com/album/3qJoZo7FtGMg9cdTVvrQLX"
+      },
+      "artists": [
+        {
+          "name": "LIT killah",
+          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
+        },
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165545,
+      "name": "Somos 3",
+      "url": "https://open.spotify.com/track/7csEjU6jEvfK606QrqoM0i"
     },
     {
       "album": {
@@ -7297,6 +7491,24 @@
     },
     {
       "album": {
+        "name": "ATP",
+        "url": "https://open.spotify.com/album/63YUyakTLOBCWBab1oEtxe"
+      },
+      "artists": [
+        {
+          "name": "Nsqk",
+          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202500,
+      "name": "Tarde o temprano",
+      "url": "https://open.spotify.com/track/09np8TCtg5O6yYsaxKJlJ0"
+    },
+    {
+      "album": {
         "name": "TE EXCITO",
         "url": "https://open.spotify.com/album/39gMLm6ooahFbaF0EDOsdZ"
       },
@@ -7504,6 +7716,28 @@
       "duration_ms": 213733,
       "name": "Thirteen",
       "url": "https://open.spotify.com/track/3CeerksBP1R34v6L79rPvC"
+    },
+    {
+      "album": {
+        "name": "Trufas",
+        "url": "https://open.spotify.com/album/56hMOKXiLHdMflideKYIRq"
+      },
+      "artists": [
+        {
+          "name": "Ad\u00e1n Cruz",
+          "url": "https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR"
+        },
+        {
+          "name": "Shroom",
+          "url": "https://open.spotify.com/artist/4AebNgJr677DWj5kaqLReG"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149999,
+      "name": "Tinta de Tu Piel",
+      "url": "https://open.spotify.com/track/3D0WYRsBpOZG4ScrthWnY1"
     },
     {
       "album": {

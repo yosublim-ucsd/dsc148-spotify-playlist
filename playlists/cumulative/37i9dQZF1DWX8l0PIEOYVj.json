@@ -2759,6 +2759,28 @@
     },
     {
       "album": {
+        "name": "Dimension",
+        "url": "https://open.spotify.com/album/0E2uVMZUjikte4Ggzrgrfl"
+      },
+      "artists": [
+        {
+          "name": "SIREN",
+          "url": "https://open.spotify.com/artist/5GCrxFLckjsBYwr3FTQWir"
+        },
+        {
+          "name": "Mila Falls",
+          "url": "https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217931,
+      "name": "Dimension",
+      "url": "https://open.spotify.com/track/0LKqkTfXvTB1ZVs1yJexm2"
+    },
+    {
+      "album": {
         "name": "Disappearing Now",
         "url": "https://open.spotify.com/album/35UyrSOJxObE9RHEVZcQV3"
       },
@@ -3692,7 +3714,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 232250,
       "name": "ENERGY (feat. What So Not)",
       "url": "https://open.spotify.com/track/56p7iNjfq5CAwYHAUtgcvl"
@@ -7847,6 +7869,36 @@
     },
     {
       "album": {
+        "name": "Light In The Dark",
+        "url": "https://open.spotify.com/album/4WzQpKf7JKLElMBiJ4zZVJ"
+      },
+      "artists": [
+        {
+          "name": "Seven Lions",
+          "url": "https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp"
+        },
+        {
+          "name": "Wooli",
+          "url": "https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc"
+        },
+        {
+          "name": "Trivecta",
+          "url": "https://open.spotify.com/artist/4AT7XlLBevgZIiKvZQ83ye"
+        },
+        {
+          "name": "JIM",
+          "url": "https://open.spotify.com/artist/5ahYpnzCN3IMzBCFqwnKfr"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259862,
+      "name": "Light In The Dark",
+      "url": "https://open.spotify.com/track/5WThXtwIJ4B2VS6TtwDiNF"
+    },
+    {
+      "album": {
         "name": "Light Up The Sky (feat. Scott Stapp)",
         "url": "https://open.spotify.com/album/7IbNjX1uq9D7up01LHX0mw"
       },
@@ -8198,7 +8250,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 209600,
       "name": "Lost (Meant To Be)",
       "url": "https://open.spotify.com/track/7HPMTFu90wrp31dNAQ7EgF"
@@ -10056,7 +10108,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 272000,
       "name": "Out of Frame",
       "url": "https://open.spotify.com/track/3UBc3PbliCYiVHNeyX4Z5b"
@@ -10926,6 +10978,28 @@
       "duration_ms": 166400,
       "name": "Rise Up",
       "url": "https://open.spotify.com/track/7I2eD1bRTXJDkQcg9liRr1"
+    },
+    {
+      "album": {
+        "name": "roundnround",
+        "url": "https://open.spotify.com/album/64B7OhBGGfzPdOE8x5G8AD"
+      },
+      "artists": [
+        {
+          "name": "Conrad",
+          "url": "https://open.spotify.com/artist/788qKGMEh4hfYUTy8yANRC"
+        },
+        {
+          "name": "Perrin Xthona",
+          "url": "https://open.spotify.com/artist/1bNx6UhsCYSNuoIeL9LcnD"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171882,
+      "name": "roundnround",
+      "url": "https://open.spotify.com/track/4sDNyj450xyh8d0BodkMyH"
     },
     {
       "album": {
@@ -12766,7 +12840,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 214005,
       "name": "Take Your Throne",
       "url": "https://open.spotify.com/track/6hZ9RASHR1lgLRtRjjjhDn"
@@ -13590,6 +13664,24 @@
       "duration_ms": 218878,
       "name": "Underneath My Skin",
       "url": "https://open.spotify.com/track/26ZZUpJ2HO3aZUopW9b70h"
+    },
+    {
+      "album": {
+        "name": "Where We Begin EP",
+        "url": "https://open.spotify.com/album/5gVLOOdehYVlQZrRXbIf5G"
+      },
+      "artists": [
+        {
+          "name": "Amidy",
+          "url": "https://open.spotify.com/artist/685c4a84PTRlygc8EUE7tV"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242250,
+      "name": "Undone",
+      "url": "https://open.spotify.com/track/1eO9MlZBzOvH4FEWKrPUNd"
     },
     {
       "album": {

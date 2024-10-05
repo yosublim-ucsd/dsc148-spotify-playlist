@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/7DaNB3xvJ4F96C66mQgmpS.md) - [plain]
 
 > Hip Hop workout hits to get your mental right and blood pumping\. Soundtrack your workout with heavy\-hitting bangers from Offset, Travis Scott, Drake and more!  High Energy Rap \| Hip Hop Workout \| Rap Bangers \| Rap Workout
 
-[Digster Global](https://open.spotify.com/user/digster.fm) - 87,047 likes - 102 songs - 5 hr 45 min
+[Digster Global](https://open.spotify.com/user/digster.fm) - 87,041 likes - 102 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Big Dawgs](https://open.spotify.com/track/0OA00aPt3BV10qeMIs3meW) | [Hanumankind](https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp), [Kalmi](https://open.spotify.com/artist/6tYCSHLtTI54AQJFOMfU45) | [Big Dawgs](https://open.spotify.com/album/6Yw4204wbgmpsGTzjXBhYD) | 3:10 |
 | 2 | [World Tour \(Aquafina\)](https://open.spotify.com/track/261EcPb2XfhnPWSnlMOi3G) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [The Pre\-Party](https://open.spotify.com/album/2rlWVKCWJo4vpOBl8RiYX4) | 2:35 |
 | 3 | [Ten \(feat\. Sexyy Red\)](https://open.spotify.com/track/20orAdOtod5Zr2fJppGnyO) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Big Swerv](https://open.spotify.com/album/0E2aK1mNCG2c0AfMaRs3a4) | 3:04 |
-| 4 | [Hollon](https://open.spotify.com/track/4NHO97Z1GW3cGRer4fiE7f) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Hollon](https://open.spotify.com/album/21lmM75p1hAslaBnuHAaJs) | 2:08 |
+| 4 | [HOLLON](https://open.spotify.com/track/4NHO97Z1GW3cGRer4fiE7f) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Hollon](https://open.spotify.com/album/21lmM75p1hAslaBnuHAaJs) | 2:08 |
 | 5 | [Did It First \(with Central Cee\)](https://open.spotify.com/track/5dEcxWlWnxbcumVEddVCUC) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Did It First \(with Central Cee\)](https://open.spotify.com/album/7f1uY6RHAj9voSkbPyMlFm) | 1:58 |
 | 6 | [What Up Gangsta](https://open.spotify.com/track/59q0gDvWPoL2DQ1SAt5ZLY) | [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [Get Rich Or Die Tryin'](https://open.spotify.com/album/5G5rgQHzdQnw32SI0WjIo5) | 2:59 |
 | 7 | [No Face](https://open.spotify.com/track/1560osUcXrnov6yuOjXvc1) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [No Face](https://open.spotify.com/album/78NIQe42qKXahAeZAb3w0h) | 2:17 |

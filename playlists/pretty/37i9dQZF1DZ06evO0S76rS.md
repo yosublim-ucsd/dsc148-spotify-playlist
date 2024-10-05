@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0S76rS.md) - [plain]
 
 ### [This Is Grupo Niche](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0S76rS)
 
-> This is Grupo Niche\. The essential tracks, all in one playlist.
+> This Is Grupo Niche\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,106 likes - 50 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,154 likes - 50 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,9 +17,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0S76rS.md) - [plain]
 | 7 | [Sin Sentimientos](https://open.spotify.com/track/4ubwzNjqHGaZZ5k06PDx1H) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [The Best](https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm) | 4:53 |
 | 8 | [Enamorada](https://open.spotify.com/track/7pFSymHAQO021YmaKCVDoC) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Control Absoluto](https://open.spotify.com/album/02P7Yan85kfSzMZZR6CFx9) | 4:12 |
 | 9 | [Como Podre Disimular](https://open.spotify.com/track/5hxXKkbhgD8g8Dvd40APFB) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Salsa Romántica de Siempre](https://open.spotify.com/album/31qN90CYlcbqT0ErFJXJzi) | 5:34 |
-| 10 | [Ni Como Amiga Ni Como Amante](https://open.spotify.com/track/5Ua7mixHbm9UTAz3Zjpi2s) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Imaginacion](https://open.spotify.com/album/6wA6aH6FhwbhVxiCC7QfLs) | 4:52 |
+| 10 | [Cali Aji](https://open.spotify.com/track/32gkUsqe0yHTxRyijjADyI) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Cielo De Tambores](https://open.spotify.com/album/3Ze1GGNL2Tw7v7BgnPlzNQ) | 4:37 |
 | 11 | [Busca Por Dentro](https://open.spotify.com/track/2uJyG7lhmZ8bFrbVVlc6AH) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [The Best](https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm) | 5:54 |
-| 12 | [Cali Aji](https://open.spotify.com/track/32gkUsqe0yHTxRyijjADyI) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Cielo De Tambores](https://open.spotify.com/album/3Ze1GGNL2Tw7v7BgnPlzNQ) | 4:37 |
+| 12 | [Ni Como Amiga Ni Como Amante](https://open.spotify.com/track/5Ua7mixHbm9UTAz3Zjpi2s) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Imaginacion](https://open.spotify.com/album/6wA6aH6FhwbhVxiCC7QfLs) | 4:52 |
 | 13 | [Buenaventura y Caney](https://open.spotify.com/track/3kWdP01aQOtBun2FumlqTm) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Querer Es Poder](https://open.spotify.com/album/4OlAW51jIyup0hLzK03fHQ) | 5:09 |
 | 14 | [Entrega](https://open.spotify.com/track/0O2j5GTz60A3K7dMZn4WQC) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Sutil y Contundente](https://open.spotify.com/album/3j3BnIkciRBXtoAvYll1Za) | 5:42 |
 | 15 | [Nuestro Sueño](https://open.spotify.com/track/0g9d2hcBECm8eOuxG9w5kH) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [The Best](https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm) | 5:59 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0S76rS.md) - [plain]
 | 44 | [Digo Yo](https://open.spotify.com/track/1KSjHCJs38NNp3IuaL1EMU) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Querer Es Poder](https://open.spotify.com/album/4OlAW51jIyup0hLzK03fHQ) | 5:38 |
 | 45 | [Un Caso Social](https://open.spotify.com/track/5irSOlA7zXrwkJHVPgyVZQ) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Niche Con Cuerdas](https://open.spotify.com/album/67vT4qNa8WjuzO085IA8v6) | 5:17 |
 | 46 | [Lo Bonito Y Lo Feo](https://open.spotify.com/track/3RviPwWauFFD8FhcsTFGe7) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Siempre Una Aventura](https://open.spotify.com/album/2yAheDQ4qgtbVfHVOhKDNF) | 4:56 |
-| 47 | [Canciones Viejas](https://open.spotify.com/track/6d9S2m4IKhvGxaX89PuBRo) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [40](https://open.spotify.com/album/1uF0bcswgdJBg2aq2r1HPk) | 4:20 |
-| 48 | [No Tuve A Quien Decirle Amor](https://open.spotify.com/track/0e1G4VKnhcVMsRM0bLtHAa) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Llegando Al 100%](https://open.spotify.com/album/3StG3Gf4htUHrDnUiC3eqT) | 5:23 |
+| 47 | [No Tuve A Quien Decirle Amor](https://open.spotify.com/track/0e1G4VKnhcVMsRM0bLtHAa) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Llegando Al 100%](https://open.spotify.com/album/3StG3Gf4htUHrDnUiC3eqT) | 5:23 |
+| 48 | [Canciones Viejas](https://open.spotify.com/track/6d9S2m4IKhvGxaX89PuBRo) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [40](https://open.spotify.com/album/1uF0bcswgdJBg2aq2r1HPk) | 4:20 |
 | 49 | [Tocando el Cielo Con las Manos](https://open.spotify.com/track/4QhxN9hf5LWvYIqJcjwxQ6) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Tocando el Cielo Con las Manos](https://open.spotify.com/album/7lQolVdhEBRtv8Ayzhi2p4) | 4:47 |
 | 50 | [Cielo de Tambores](https://open.spotify.com/track/4yEPR6IZcSBJQV1ITRLn4W) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Siempre Una Aventura](https://open.spotify.com/album/2yAheDQ4qgtbVfHVOhKDNF) | 5:37 |
 
-Snapshot ID: `ZvyNAAAAAACCk49YwdGrVez01LFLMq44`
+Snapshot ID: `Zv3egAAAAACKFxL9iA6uxkgpPvFBxvwH`

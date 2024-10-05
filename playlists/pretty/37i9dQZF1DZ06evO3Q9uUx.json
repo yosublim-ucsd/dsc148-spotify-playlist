@@ -1,12 +1,12 @@
 {
   "description": "This is BIA. The essential tracks, all in one playlist.",
-  "num_followers": 14842,
+  "num_followers": 14851,
   "original_name": "This Is BIA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvyNAAAAAAAjUA/cBqZnuiPl1VT/9R8o",
+  "snapshot_id": "Zv3egAAAAABbvCRD6S3gRnlIfMB5w+1q",
   "tracks": [
     {
       "added_at": null,
@@ -583,26 +583,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "808",
-        "url": "https://open.spotify.com/album/0TMLxS4EwK3d1qgjXZ6AOI"
-      },
-      "artists": [
-        {
-          "name": "DJ Bliss",
-          "url": "https://open.spotify.com/artist/4SePAG9OlC4tupADxTPs9s"
-        },
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        }
-      ],
-      "duration_ms": 141533,
-      "name": "808",
-      "url": "https://open.spotify.com/track/6q2MPZVa5Mb5PjJEVUWvYK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I'M THAT BITCH",
         "url": "https://open.spotify.com/album/3XZmrh1D5RI5kvz5N6i6Lp"
       },
@@ -619,6 +599,26 @@
       "duration_ms": 152043,
       "name": "I'M THAT BITCH",
       "url": "https://open.spotify.com/track/39uEuUEWsAZtozSQRPlf62"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "808",
+        "url": "https://open.spotify.com/album/0TMLxS4EwK3d1qgjXZ6AOI"
+      },
+      "artists": [
+        {
+          "name": "DJ Bliss",
+          "url": "https://open.spotify.com/artist/4SePAG9OlC4tupADxTPs9s"
+        },
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "duration_ms": 141533,
+      "name": "808",
+      "url": "https://open.spotify.com/track/6q2MPZVa5Mb5PjJEVUWvYK"
     },
     {
       "added_at": null,

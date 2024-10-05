@@ -975,6 +975,24 @@
     },
     {
       "album": {
+        "name": "Lahai - Deluxe",
+        "url": "https://open.spotify.com/album/0oKro6GftR6X0sk7fVH7T8"
+      },
+      "artists": [
+        {
+          "name": "Sampha",
+          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226495,
+      "name": "Dancing Circles 2.0",
+      "url": "https://open.spotify.com/track/3C5eqElWp0s4of3vTU37bF"
+    },
+    {
+      "album": {
         "name": "HOTEL HEAVEN - Extended",
         "url": "https://open.spotify.com/album/5AndgFVIQlZ4XyTKsQ6GPH"
       },
@@ -1135,7 +1153,7 @@
     },
     {
       "album": {
-        "name": "EDITS",
+        "name": "Great Doubt (EDITS)",
         "url": "https://open.spotify.com/album/3Q4ckErENVJA9V1nx3pMS4"
       },
       "artists": [
@@ -1156,7 +1174,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 145125,
-      "name": "Do you wanna - Fine & Molina Edit",
+      "name": "Do you wanna - Fine + Molina EDIT",
       "url": "https://open.spotify.com/track/6xTOSlWaiBRiVj3Xh265FL"
     },
     {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eP5ZmHlyY0.md) - [plain]
 
 > 日本で活躍するボーイズグループを特集。cover: King & Prince
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,329 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,335 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,15 +46,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eP5ZmHlyY0.md) - [plain]
 | 36 | [DEAR MY LOVER](https://open.spotify.com/track/6zCa0mAKrk7w4p6lfUnOsS) | [Hey! Say! JUMP](https://open.spotify.com/artist/64BB3FFJokfd3owfpnwxb0) | [P.U!](https://open.spotify.com/album/63j2GyF1WGdRIxPuHbOmoU) | 4:59 |
 | 37 | [Just Like Dat feat\. JP THE WAVY](https://open.spotify.com/track/44jt5m1pRE0rI4VixZbWF6) | [PSYCHIC FEVER from EXILE TRIBE](https://open.spotify.com/artist/0PgE39BqM3dTVk5lyttaBb), [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9) | [99.9 Psychic Radio](https://open.spotify.com/album/0am7ZAy4aq4sAS4ThW4ZhB) | 3:11 |
 | 38 | [Alpha](https://open.spotify.com/track/4NP5Q238mC9FJly7eREWB8) | [なにわ男子](https://open.spotify.com/artist/5V0oa9WaeYkBszHV6ItVD6) | [+Alpha（Special Edition）](https://open.spotify.com/album/01ZMA8tItQb2Xs99Foagdx) | 3:40 |
-| 39 | [366日](https://open.spotify.com/track/66NAy1FnkkF7Phkpkg52nA) | [HY](https://open.spotify.com/artist/3x621ItlHMtX7mrJ8QnEjM), [與那城奨](https://open.spotify.com/artist/3e8u8G5lYrmLijn9JcG2Ly) | [366日](https://open.spotify.com/album/58WW9mLbx7C8G2Ob90ormT) | 5:50 |
+| 39 | [Glitch](https://open.spotify.com/track/4fo8TtOwSvjs2obPzIDxt4) | [BMSG GAIA](https://open.spotify.com/artist/6IKNKSAoepNHWOukpypcGI), [BMSG ALLSTARS](https://open.spotify.com/artist/39qDfqWfhU23Jbclt2ltYe), [Novel Core](https://open.spotify.com/artist/4CNZyuclyT33od27ZSjJMD), [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP), [MAZZEL](https://open.spotify.com/artist/5Zy2tdfVQKbDwpqWcjXg42), [TAIKI](https://open.spotify.com/artist/6PU4CQ9JbpTW3ZPat0vyAP) | [Glitch](https://open.spotify.com/album/45VIk0wV21bdGXqc2PpAVV) | 2:59 |
 | 40 | [Mainstream](https://open.spotify.com/track/6twDMJoG8tzwL21LQ3EEtA) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Mainstream](https://open.spotify.com/album/7ixevog8Pu3jbd3VeZSK7j) | 3:27 |
-| 41 | [Glitch](https://open.spotify.com/track/4fo8TtOwSvjs2obPzIDxt4) | [BMSG GAIA](https://open.spotify.com/artist/6IKNKSAoepNHWOukpypcGI), [BMSG ALLSTARS](https://open.spotify.com/artist/39qDfqWfhU23Jbclt2ltYe), [Novel Core](https://open.spotify.com/artist/4CNZyuclyT33od27ZSjJMD), [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP), [MAZZEL](https://open.spotify.com/artist/5Zy2tdfVQKbDwpqWcjXg42), [TAIKI](https://open.spotify.com/artist/6PU4CQ9JbpTW3ZPat0vyAP) | [Glitch](https://open.spotify.com/album/45VIk0wV21bdGXqc2PpAVV) | 2:59 |
+| 41 | [366日](https://open.spotify.com/track/66NAy1FnkkF7Phkpkg52nA) | [HY](https://open.spotify.com/artist/3x621ItlHMtX7mrJ8QnEjM), [與那城奨](https://open.spotify.com/artist/3e8u8G5lYrmLijn9JcG2Ly) | [366日](https://open.spotify.com/album/58WW9mLbx7C8G2Ob90ormT) | 5:50 |
 | 42 | [Counterattack](https://open.spotify.com/track/39Jr3uGUyooQvBEOF1vyo4) | [MAZZEL](https://open.spotify.com/artist/5Zy2tdfVQKbDwpqWcjXg42) | [Counterattack](https://open.spotify.com/album/2mPY33iJ5So2RSJnYR9YfG) | 3:19 |
 | 43 | [LOUD](https://open.spotify.com/track/312amIo1Pj8FH0vYMy5yOu) | [INI](https://open.spotify.com/artist/73kxDUq2Hl7Upy4o0yFxXv) | [LOUD](https://open.spotify.com/album/6GXhrItMV3o5txOWLETTBA) | 3:12 |
 | 44 | [無責任でええじゃないかLOVE](https://open.spotify.com/track/3HVa5vaMiHGib4ztB7sCLR) | [KAMIGATA BOYZ](https://open.spotify.com/artist/5TjFUvRq3BNyDsCgLWvxKF) | [無責任でええじゃないかLOVE](https://open.spotify.com/album/7uhQhoDa2Q9uQxEeESSXIw) | 3:53 |
 | 45 | [Story](https://open.spotify.com/track/1G3QIdTjFO0DpLZlYwfqzx) | [Da\-iCE](https://open.spotify.com/artist/71UIOLnsacxQHlU55TvfiH) | [Story](https://open.spotify.com/album/3HxXbGrwquGzrjgZAmIcuX) | 2:26 |
-| 46 | [ピアス](https://open.spotify.com/track/4G4GGrJm2mLcDGDNxs9KVI) | [WOLF HOWL HARMONY from EXILE TRIBE](https://open.spotify.com/artist/0SiKVvyHQlgxrfkCH45DVn) | [ピアス](https://open.spotify.com/album/5Bq65Zx3XAb1WADMiVTUmE) | 3:17 |
-| 47 | [君にカエル \(Maybe\)](https://open.spotify.com/track/1z4Ruz3ecnINTOQJpi8qMk) | [&TEAM](https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7) | [君にカエル \(Maybe\)](https://open.spotify.com/album/4Pd1n23po7hNDDpYpco5gr) | 3:10 |
+| 46 | [君にカエル \(Maybe\)](https://open.spotify.com/track/1z4Ruz3ecnINTOQJpi8qMk) | [&TEAM](https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7) | [君にカエル \(Maybe\)](https://open.spotify.com/album/4Pd1n23po7hNDDpYpco5gr) | 3:10 |
+| 47 | [ピアス](https://open.spotify.com/track/4G4GGrJm2mLcDGDNxs9KVI) | [WOLF HOWL HARMONY from EXILE TRIBE](https://open.spotify.com/artist/0SiKVvyHQlgxrfkCH45DVn) | [ピアス](https://open.spotify.com/album/5Bq65Zx3XAb1WADMiVTUmE) | 3:17 |
 | 48 | [T.G.I\. Friday Night](https://open.spotify.com/track/6ZDtOm65oJeSWTigzZjMdI) | [Travis Japan](https://open.spotify.com/artist/28IJpwoVi5R92MtHxkj2Lk) | [T.G.I\. Friday Night](https://open.spotify.com/album/6r5guvSqZvKWNlSNtyJqRT) | 3:35 |
 | 49 | [Lemon Candy](https://open.spotify.com/track/5UfQcGBcUKjWrxl8p4mclk) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [HITCHHIKER \(Special Edition\)](https://open.spotify.com/album/7jraMr9F0Qj67bQ085lNvS) | 3:07 |
 | 50 | [Same Key](https://open.spotify.com/track/6bl0lwuf0okN1QKOer1m2n) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Same Key](https://open.spotify.com/album/13QLqadsR7ld5XzrTslUFY) | 4:03 |

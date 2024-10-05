@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Check out the Latest Romance Tracks.\nCover : Raayan",
+  "description": "Check out the Latest Romance Tracks.\nCover : Amaran",
   "name": "Latest Love Tamil",
   "tracks": [
     {
@@ -448,7 +448,7 @@
       ],
       "date_added": "2023-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 214330,
       "name": "Anbenum (From \"Leo\")",
       "url": "https://open.spotify.com/track/3l198ZkmLWrHYL3WXTOoep"
@@ -1469,6 +1469,36 @@
     },
     {
       "album": {
+        "name": "Hey Minnale (From \"Amaran\") (Tamil)",
+        "url": "https://open.spotify.com/album/0Wmaf5kSAnQ3hSn09w9BYR"
+      },
+      "artists": [
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        },
+        {
+          "name": "Haricharan",
+          "url": "https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4"
+        },
+        {
+          "name": "Shweta Mohan",
+          "url": "https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9"
+        },
+        {
+          "name": "Karthik Netha",
+          "url": "https://open.spotify.com/artist/3o7GGc9KjbLzTCwOq9WL55"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229811,
+      "name": "Hey Minnale (From \"Amaran\") (Tamil)",
+      "url": "https://open.spotify.com/track/1kmJ0EvXClJAt0fSSQLX1m"
+    },
+    {
+      "album": {
         "name": "Hey Sita Hey Rama [From \"Sita Ramam (Tamil)\"]",
         "url": "https://open.spotify.com/album/7anEyzZSsFWAowL1XkyRs6"
       },
@@ -2166,7 +2196,7 @@
       ],
       "date_added": "2024-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 142351,
       "name": "Keerthana",
       "url": "https://open.spotify.com/track/7aa8f9JfAZUZCuBad1dCMf"
@@ -6000,7 +6030,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 220812,
       "name": "Yaarum Kaanadha (From \"Fight Club\")",
       "url": "https://open.spotify.com/track/0eZhnyCegKvjpjwInI7veG"

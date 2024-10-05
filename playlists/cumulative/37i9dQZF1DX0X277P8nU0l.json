@@ -93,6 +93,24 @@
     },
     {
       "album": {
+        "name": "After the First Kiss",
+        "url": "https://open.spotify.com/album/1Cvw7CEYBIp4ptnA3UzDxO"
+      },
+      "artists": [
+        {
+          "name": "Faye Webster",
+          "url": "https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214756,
+      "name": "After the First Kiss",
+      "url": "https://open.spotify.com/track/5bPwGutk2BKA46R4hQuZZ0"
+    },
+    {
+      "album": {
         "name": "Variables",
         "url": "https://open.spotify.com/album/0sW6bNCjzPlrJM100nIST6"
       },
@@ -3232,7 +3250,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 236906,
       "name": "No One Noticed",
       "url": "https://open.spotify.com/track/40QmyP1PmvFYjs8CzYsXA7"
@@ -4173,6 +4191,24 @@
     },
     {
       "album": {
+        "name": "Older (and Wiser)",
+        "url": "https://open.spotify.com/album/0jw9gOg8M1Ve6KpP4Iu7XF"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262518,
+      "name": "Spring Into Summer",
+      "url": "https://open.spotify.com/track/6oCXDaFZYL7sHnowv6pdXb"
+    },
+    {
+      "album": {
         "name": "Start Over",
         "url": "https://open.spotify.com/album/6Lq7GuN8trgDLXgqHBV0VM"
       },
@@ -4695,6 +4731,24 @@
     },
     {
       "album": {
+        "name": "The Rest Of Me",
+        "url": "https://open.spotify.com/album/3JZctelEqYNf7zNBiMQuXh"
+      },
+      "artists": [
+        {
+          "name": "Michael Kiwanuka",
+          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230661,
+      "name": "The Rest Of Me",
+      "url": "https://open.spotify.com/track/4xyZ8TMuWWlSCN3NRUsOCq"
+    },
+    {
+      "album": {
         "name": "The Right Words",
         "url": "https://open.spotify.com/album/42QpFcdpPNsaFUc2kvOseG"
       },
@@ -4804,7 +4858,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 173000,
       "name": "The Wedding Song",
       "url": "https://open.spotify.com/track/0UEmqhF4ae0ELXYjGkogDq"
@@ -4970,7 +5024,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 244600,
       "name": "Time Will Tell",
       "url": "https://open.spotify.com/track/6XhwSh89lYobx3M5LE8vHO"

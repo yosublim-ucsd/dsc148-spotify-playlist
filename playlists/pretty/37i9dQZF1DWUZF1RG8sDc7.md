@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUZF1RG8sDc7.md) - [plain]
 
 > Porque el corazón habla vallenato\. ¡Ay ombe!
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,949 likes - 60 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,044 likes - 60 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,17 +56,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUZF1RG8sDc7.md) - [plain]
 | 46 | [Jaime Molina](https://open.spotify.com/track/00KcJmQZDQoSfTPbd1afPP) | [Rafael Escalona](https://open.spotify.com/artist/1eKIYOevfXDbtnLe5saz94) | [Homenaje a Los Grandes Compositores de la Música Tropical Colombiana Volume 3](https://open.spotify.com/album/3Agn1GrWYPQMVqiES3P9JU) | 4:08 |
 | 47 | [No Te Vayas](https://open.spotify.com/track/2FkdSU3LwrQwtyrKxYQHQN) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [30 Mejores: Binomio de Oro de América](https://open.spotify.com/album/1ciVNBJTfEynm4k1cjQluh) | 4:06 |
 | 48 | [En Cada Rincón](https://open.spotify.com/track/2SXQfJU9ccIXhEnRvBMdqn) | [Luis Mateus](https://open.spotify.com/artist/4jsqU2b9LBP6vjIGl3KWyW), [La Nueva Generación](https://open.spotify.com/artist/3yxxiR793umYevxROWGMqv) | [Con Encanto Juvenil](https://open.spotify.com/album/1s1TCQtgacmElBiT55Dl6X) | 4:49 |
-| 49 | [Anhelos](https://open.spotify.com/track/0WeQDKg5LkQCn3LuplSjgH) | [Alfredo Gutierrez](https://open.spotify.com/artist/7esYnrPzQX1JWWIyWxYu5A) | [Los 50 vallenatos más recordados, dedicados, vendidos y sonados](https://open.spotify.com/album/0GWpPeth4xZ57rVzXsOzam) | 2:58 |
-| 50 | [Sombra Perdida](https://open.spotify.com/track/6CfZqZsIyWKrYGebzivkV6) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [Rafael Orozco El Ídolo de Siempre](https://open.spotify.com/album/3OOfzYCpcJBvIWt4rAN6HX) | 4:24 |
+| 49 | [Sombra Perdida](https://open.spotify.com/track/6CfZqZsIyWKrYGebzivkV6) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [Rafael Orozco El Ídolo de Siempre](https://open.spotify.com/album/3OOfzYCpcJBvIWt4rAN6HX) | 4:24 |
+| 50 | [Anhelos](https://open.spotify.com/track/0WeQDKg5LkQCn3LuplSjgH) | [Alfredo Gutierrez](https://open.spotify.com/artist/7esYnrPzQX1JWWIyWxYu5A) | [Los 50 vallenatos más recordados, dedicados, vendidos y sonados](https://open.spotify.com/album/0GWpPeth4xZ57rVzXsOzam) | 2:58 |
 | 51 | [Dilo](https://open.spotify.com/track/35iIjwxK8iyyedFMlUr76u) | [Adriana Lucia](https://open.spotify.com/artist/5u4ozdMUTJLCJPYkFVoy0o), [Herold Rivera](https://open.spotify.com/artist/4SeZ9gXLtR9Jcols3Blk1R), [Conexión Carito](https://open.spotify.com/artist/6Sj4mpcuLT9GZK2MQdqEIN) | [Destellos de Amor](https://open.spotify.com/album/2fNdyJWJKj6aJjblen9a6r) | 4:15 |
 | 52 | [Muchacha Encantadora](https://open.spotify.com/track/4M3WYnhqRxRSoWTGjhrUtr) | [Los Chiches Vallenatos](https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP), [Amin Martinez](https://open.spotify.com/artist/607isqlxhVW67C1guzVjCi) | [Grandes Éxitos de los Chiches Vallenatos](https://open.spotify.com/album/7DgpZQf6wpxfxIeliadbBB) | 4:17 |
 | 53 | [Vivo por Ti](https://open.spotify.com/track/4YtHcEWXyGYpqhNfBEf9c6) | [Los Gigantes Del Vallenato](https://open.spotify.com/artist/0P8EpsSMekkWtsX331Iebt) | [Son los Gigantes](https://open.spotify.com/album/0Z2iq6VX08puUldiB6Nkfu) | 4:39 |
 | 54 | [Olvídala](https://open.spotify.com/track/0QUnzLeB2USzFv8OqJe8S8) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [30 Mejores: Binomio de Oro de América](https://open.spotify.com/album/1aHXwZk5TZGIxmELnmrFyq) | 5:04 |
-| 55 | [Buscaré Otro Amor](https://open.spotify.com/track/4Kwo97uDhkBOo949pLPmPw) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Por Siempre](https://open.spotify.com/album/5lzjNaRHLgxs4Q5IgLlH3B) | 5:05 |
-| 56 | [Cuando Casi Te Olvidaba](https://open.spotify.com/track/5oPFYXq8KnZuYXiSUkjDFT) | [Los Diablitos](https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd) | [Mas Vallenato](https://open.spotify.com/album/2OVrfcdiMV7N1FGVQhpR9o) | 4:43 |
-| 57 | [Dime que me quieres](https://open.spotify.com/track/44LHIHaC3UrhSt0KuYAfIR) | [La Combinación Vallenata](https://open.spotify.com/artist/2Rerw09apss0UagVOvRNya) | [Los 50 vallenatos más recordados, dedicados, vendidos y sonados](https://open.spotify.com/album/4cVUjJKyfpB5JH7mf34YRA) | 5:16 |
+| 55 | [A Pesar de Todo](https://open.spotify.com/track/6wBJ7gF95WpO8u2QEbyJB6) | [La Combinación Vallenata](https://open.spotify.com/artist/2Rerw09apss0UagVOvRNya), [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ), [Alex Manga](https://open.spotify.com/artist/7nCFUyJyEVRBo3ZXVdocyZ) | [La Combinación Vallenata](https://open.spotify.com/album/1E5OoaxjAjdMzVlY008QCO) | 4:32 |
+| 56 | [Buscaré Otro Amor](https://open.spotify.com/track/4Kwo97uDhkBOo949pLPmPw) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Por Siempre](https://open.spotify.com/album/5lzjNaRHLgxs4Q5IgLlH3B) | 5:05 |
+| 57 | [Cuando Casi Te Olvidaba](https://open.spotify.com/track/5oPFYXq8KnZuYXiSUkjDFT) | [Los Diablitos](https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd) | [Mas Vallenato](https://open.spotify.com/album/2OVrfcdiMV7N1FGVQhpR9o) | 4:43 |
 | 58 | [Mi Diosa Humana](https://open.spotify.com/track/42R1D09Q3wP8qBvHjd0xUy) | [Miguel Morales](https://open.spotify.com/artist/1viot8lL4r3cgRLb2hBUri) | [Sólo Clásicos \- Miguel Morales](https://open.spotify.com/album/2arurJc4cJuCD6USvybpRF) | 4:46 |
-| 59 | [Niña Bonita](https://open.spotify.com/track/1fbRYLGk6VJQheSL5XcFKj) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [30 Mejores: Binomio de Oro de América](https://open.spotify.com/album/1aHXwZk5TZGIxmELnmrFyq) | 5:10 |
-| 60 | [Dime pajarito](https://open.spotify.com/track/2k3691QJP2dunDmktCzg3j) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [Rafael Orozco El Ídolo de Siempre](https://open.spotify.com/album/3OOfzYCpcJBvIWt4rAN6HX) | 4:55 |
+| 59 | [Dime pajarito](https://open.spotify.com/track/2k3691QJP2dunDmktCzg3j) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [Rafael Orozco El Ídolo de Siempre](https://open.spotify.com/album/3OOfzYCpcJBvIWt4rAN6HX) | 4:55 |
+| 60 | [Niña Bonita](https://open.spotify.com/track/1fbRYLGk6VJQheSL5XcFKj) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [30 Mejores: Binomio de Oro de América](https://open.spotify.com/album/1aHXwZk5TZGIxmELnmrFyq) | 5:10 |
 
 Snapshot ID: `ZgTL0AAAAABcpF4pl2tfAMC9AB8DqEfl`

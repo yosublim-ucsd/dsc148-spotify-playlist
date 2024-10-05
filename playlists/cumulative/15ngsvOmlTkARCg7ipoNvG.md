@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-1,807 songs - 1 day 13 hr 12 min
+1,811 songs - 1 day 13 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Affectionate \- Strings Version](https://open.spotify.com/track/0XiIT14siFI6utj8EhBKia) | [Cello Soul](https://open.spotify.com/artist/1g2vVGycdY9Xowsh2mYCqe) | [Affectionate \(Strings Version\)](https://open.spotify.com/album/5IDdfiIpv8zFGz5ogG7nsz) | 1:01 | 2024-02-09 | 2024-02-13 |
 | [Affirmation](https://open.spotify.com/track/5ZXenBNXRLbMcZ8WOGo906) | [Moonlight Echoes](https://open.spotify.com/artist/5eXoCTlZLghzUNQB3xTAuC) | [Journey](https://open.spotify.com/album/2qdg4nzViXZkGjJNP5nvKe) | 2:52 | 2022-01-12 | 2024-01-30 |
 | [Afraid No More](https://open.spotify.com/track/0bDuyAYjD9aXq4DoY2qQ0d) | [Limelight Glow](https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy) | [Dreaming in the Rain](https://open.spotify.com/album/3rGGRbwcJXPeVxaNEiBHyW) | 1:31 | 2024-01-29 |  |
+| [After](https://open.spotify.com/track/1tvlcuGstl9uQEtim4ImT7) | [July Sunrise](https://open.spotify.com/artist/2i0yWCXBGhBWuT0qnM3tmE) | [Before And After](https://open.spotify.com/album/7AqoKV9PpqS9oPqsGE290P) | 1:00 | 2024-10-04 |  |
 | [After Dawn \- Cello Version](https://open.spotify.com/track/61GK3r3FpEEHZCHh01Jjdb) | [Ivory Light](https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi) | [After Dawn](https://open.spotify.com/album/26ZNd2szCLRPKBrnokVp61) | 1:07 | 2024-02-09 | 2024-02-13 |
 | [After The Rain](https://open.spotify.com/track/2K4VeowtqgkBSATH7zSREl) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [Sublime](https://open.spotify.com/album/3Z6v9gv7xJmJlouBNIXMGm) | 1:12 | 2022-01-12 |  |
 | [After The Rain Fell](https://open.spotify.com/track/389aQnH88XwSADOwrzsB8B) | [Slow Rising Hope](https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6) | [In Between](https://open.spotify.com/album/0RQgTq65UjXocAtzzqVScx) | 1:03 | 2022-04-18 |  |
@@ -186,6 +187,7 @@
 | [Beauty In You \- Remastered](https://open.spotify.com/track/4oLXfXDAGTXzaHVMrRGwhe) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Selected Trios](https://open.spotify.com/album/28mNtiGCdqzEFctOdeDxC8) | 1:07 | 2024-02-09 | 2024-02-13 |
 | [Beauty Reflected](https://open.spotify.com/track/5nhY0xzgdJIkubNfFFbOxa) | [Eternal Spring](https://open.spotify.com/artist/6yDo1kCCuaAyfUy37qTiih) | [Beauty Reflected](https://open.spotify.com/album/2vvtOxnomqhdaxWQGah2cZ) | 1:02 | 2022-03-02 |  |
 | [Beethoven Symphony No\. 7 Reimagined](https://open.spotify.com/track/1isFH3lMld4GVuDPB9KeuB) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Beethoven Symphony No\. 7 Reimagined](https://open.spotify.com/album/0Lo52kx4M9Qv1xIqj14owq) | 1:55 | 2022-01-12 | 2024-01-30 |
+| [Before](https://open.spotify.com/track/3wCK60CWjwMWkapH7ysgUi) | [July Sunrise](https://open.spotify.com/artist/2i0yWCXBGhBWuT0qnM3tmE) | [Before And After](https://open.spotify.com/album/7AqoKV9PpqS9oPqsGE290P) | 1:00 | 2024-10-04 |  |
 | [Before \- Ambient Version](https://open.spotify.com/track/0AqdYxDpZSq74yhdRSmP9e) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Before](https://open.spotify.com/album/3KNPPfKroQS3a7QIAN8utt) | 1:14 | 2022-01-12 |  |
 | [Before \- Cello Version](https://open.spotify.com/track/4JaQcW97UExOifwtSiC9eS) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Before](https://open.spotify.com/album/3KNPPfKroQS3a7QIAN8utt) | 1:16 | 2022-01-12 |  |
 | [Before May](https://open.spotify.com/track/1N83Xv8ii73ZaFN5rSfIcD) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [Wishful](https://open.spotify.com/album/4jicqkJQwogoGfVMKcMU5l) | 1:02 | 2022-01-14 |  |
@@ -347,6 +349,7 @@
 | [Clear Skies](https://open.spotify.com/track/3VNQ9IbT8lFTzXaPUXaXxE) | [Wandering River](https://open.spotify.com/artist/68MLCS299SINsPPPTnMZRK) | [Innerscape](https://open.spotify.com/album/7Irucj3F7RZXtGA5ePsBig) | 1:17 | 2022-01-12 |  |
 | [Clearing Gray Sky](https://open.spotify.com/track/13eezqIexmrRmVj7wElsDR) | [Eternal Spring](https://open.spotify.com/artist/6yDo1kCCuaAyfUy37qTiih) | [Imagining You](https://open.spotify.com/album/2XuCxvBzWmjATWAN5esQTg) | 1:08 | 2022-01-27 |  |
 | [Close](https://open.spotify.com/track/5WQsxhsnFnta0G68TqRXEu) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [Close](https://open.spotify.com/album/68aeuZaMMqMpF8nIg1GqLJ) | 1:00 | 2024-04-02 |  |
+| [Close](https://open.spotify.com/track/4KMJwP4ImL2itSozj5Aq99) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [Close And Far](https://open.spotify.com/album/49JS21JbOUU5yO62RxUQvY) | 1:00 | 2024-10-04 |  |
 | [Close To You](https://open.spotify.com/track/4QteNpG8JoPGxODeJy1CdK) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [Remembering](https://open.spotify.com/album/5qmhssquVh9HVjWh1Y5lA3) | 1:27 | 2022-01-20 |  |
 | [Closeness](https://open.spotify.com/track/0DBOSgnVciBxRd7fg43Fs2) | [Slow Rising Hope](https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6) | [Welcoming](https://open.spotify.com/album/71cd4nvUr7XGNSbMm0yfKD) | 1:13 | 2022-01-12 |  |
 | [Closer](https://open.spotify.com/track/1FBUSCNdgbSju72fwxHpuQ) | [July Sunrise](https://open.spotify.com/artist/2i0yWCXBGhBWuT0qnM3tmE) | [Closer](https://open.spotify.com/album/7pmk2JpjM61wubYBWMPDvL) | 1:00 | 2024-04-04 |  |
@@ -568,6 +571,7 @@
 | [Falling Towards You](https://open.spotify.com/track/7cqDDFFx8JPDBFqIYyr4eA) | [Harmony Night](https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY) | [Shifting Sands](https://open.spotify.com/album/0tOrP1XUnI0UU7qZjOhIjD) | 1:02 | 2024-02-09 | 2024-02-13 |
 | [Falling Upwards](https://open.spotify.com/track/6b8SCoOVoMWuEFSylLmxjI) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [Falling Upwards](https://open.spotify.com/album/4QuI6FKrUOZiWWKLBYCGWn) | 1:24 | 2024-01-29 |  |
 | [Familiar](https://open.spotify.com/track/5QIMHRSskQn563jOFCiDvZ) | [Poella](https://open.spotify.com/artist/0to4jGriVUNpgXmdw9C9js) | [Familiar](https://open.spotify.com/album/67c0YKHHbjFpsTeQzhKEKo) | 1:00 | 2024-02-17 |  |
+| [Far](https://open.spotify.com/track/2A8iriskJIlHDFQ6s44jru) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [Close And Far](https://open.spotify.com/album/49JS21JbOUU5yO62RxUQvY) | 1:00 | 2024-10-04 |  |
 | [Far Away](https://open.spotify.com/track/2MXxsq4Wb6g8Apn5ghzWvA) | [Norman Dück](https://open.spotify.com/artist/5v5UYx58FiFAcbWIjZ4kPB) | [Far Away](https://open.spotify.com/album/1DX36E8rgCckXH7kj5zX0N) | 1:34 | 2022-01-12 | 2024-02-13 |
 | [Far Away From Here \- Ambient Version](https://open.spotify.com/track/4Ia0xXLt6VRb68RmnkQpHP) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Love And Light](https://open.spotify.com/album/7JN0UxwNpKDr5von6mV6hm) | 1:08 | 2022-01-12 |  |
 | [Fare Thee Well \- Cello Version](https://open.spotify.com/track/0BqsXXv74gTfCKMvdgdAN2) | [Poella](https://open.spotify.com/artist/0to4jGriVUNpgXmdw9C9js) | [Peaceful Preludes](https://open.spotify.com/album/4tIT4F5ewlUNyT7CttXaZo) | 1:09 | 2022-01-12 | 2024-02-13 |

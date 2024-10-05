@@ -23077,6 +23077,24 @@
     },
     {
       "album": {
+        "name": "coastal road",
+        "url": "https://open.spotify.com/album/5YlMynH0QMvj9mEQ7Op2Nq"
+      },
+      "artists": [
+        {
+          "name": "mellow fox",
+          "url": "https://open.spotify.com/artist/2VVDDOoBIhsMVPJMoUXjUE"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116845,
+      "name": "coastal road",
+      "url": "https://open.spotify.com/track/2pexsH61nhZks5tUbuUzUx"
+    },
+    {
+      "album": {
         "name": "Coastal View",
         "url": "https://open.spotify.com/album/2v8W44dmqzSY8F8yhXW0al"
       },
@@ -26318,7 +26336,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 189760,
       "name": "cozy cabin",
       "url": "https://open.spotify.com/track/7F70IYruoqLK4kAQhE0tp8"
@@ -27558,7 +27576,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 114666,
       "name": "Curve",
       "url": "https://open.spotify.com/track/35bSqW8LExij5iRfq3cYu8"
@@ -65658,7 +65676,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 139591,
       "name": "LEVITATE",
       "url": "https://open.spotify.com/track/6Rs5lwpEVM3GN2h6XTItgZ"
@@ -66606,6 +66624,28 @@
       "duration_ms": 129000,
       "name": "Lilac",
       "url": "https://open.spotify.com/track/6hRHaEUjl2cHW2P60wPywi"
+    },
+    {
+      "album": {
+        "name": "lilac",
+        "url": "https://open.spotify.com/album/5cluglvJrg5Sa1kpVzh0hK"
+      },
+      "artists": [
+        {
+          "name": "little blue",
+          "url": "https://open.spotify.com/artist/5WFsnwKBPWK0uFitm41Dv1"
+        },
+        {
+          "name": "Dontcry",
+          "url": "https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122863,
+      "name": "lilac",
+      "url": "https://open.spotify.com/track/2aIVnvIeWx5gkSi9DAezDF"
     },
     {
       "album": {
@@ -67640,6 +67680,28 @@
       "duration_ms": 146282,
       "name": "Lofi Soup",
       "url": "https://open.spotify.com/track/4z44QqnIxI051gtB6Vko6P"
+    },
+    {
+      "album": {
+        "name": "Orion Express",
+        "url": "https://open.spotify.com/album/3nscIeb38p7djVAGqeIY3y"
+      },
+      "artists": [
+        {
+          "name": "Flitz&Suppe",
+          "url": "https://open.spotify.com/artist/49WbztFLx9iDTh8LHEIF84"
+        },
+        {
+          "name": "Leavv",
+          "url": "https://open.spotify.com/artist/7sNw4pNLLJNGrU62O80WGE"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103783,
+      "name": "lohmar",
+      "url": "https://open.spotify.com/track/4Gio3O6huypk15Z2CLtJ6J"
     },
     {
       "album": {
@@ -104508,7 +104570,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 123133,
       "name": "Skylines",
       "url": "https://open.spotify.com/track/6RgNJnwbaILu1WojxGFwYC"
@@ -106196,7 +106258,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 159573,
       "name": "Smoove it",
       "url": "https://open.spotify.com/track/1TH9qGv02IQYNh8rWweltY"
@@ -114050,6 +114112,24 @@
       "duration_ms": 167874,
       "name": "sunflower",
       "url": "https://open.spotify.com/track/1Dsvo4jg4zbpcAtYTu36Bd"
+    },
+    {
+      "album": {
+        "name": "Sunflower",
+        "url": "https://open.spotify.com/album/6q2ce3gSOf1osMaAHJBAEl"
+      },
+      "artists": [
+        {
+          "name": "Velvet Static",
+          "url": "https://open.spotify.com/artist/0gvY5ddNmoAw3UdKk4pUE1"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133806,
+      "name": "Sunflower",
+      "url": "https://open.spotify.com/track/3a2fLFjazrZlinsXTZB3T3"
     },
     {
       "album": {
@@ -132324,6 +132404,24 @@
       "duration_ms": 133953,
       "name": "Wild Love",
       "url": "https://open.spotify.com/track/2hxiPTXWttnHYVKRk8juTE"
+    },
+    {
+      "album": {
+        "name": "Wild Mellow",
+        "url": "https://open.spotify.com/album/2XUqR0rvvEPpSHRG1ATe4h"
+      },
+      "artists": [
+        {
+          "name": "The Lofi Big Band",
+          "url": "https://open.spotify.com/artist/0A63pWT1p5WGcJfyiSAEkc"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177620,
+      "name": "Wild Mellow",
+      "url": "https://open.spotify.com/track/7Ed0zQz9cAArGzWbxrmhiS"
     },
     {
       "album": {

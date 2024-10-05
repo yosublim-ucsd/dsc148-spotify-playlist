@@ -1,13 +1,45 @@
 {
-  "description": "make it pop! cover: Moody Joody",
-  "num_followers": 216141,
+  "description": "make it pop! cover: Lindsay Ell",
+  "num_followers": 216168,
   "original_name": "soda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvYtwAAAAABfFsQWz1xQoWKpXsYe4x02",
+  "snapshot_id": "Zv9oQAAAAABzUyp0VHDmQ4+ffNj3VtYo",
   "tracks": [
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "story i tell myself",
+        "url": "https://open.spotify.com/album/6SN574dbaX96k0sDGgdlDq"
+      },
+      "artists": [
+        {
+          "name": "Lindsay Ell",
+          "url": "https://open.spotify.com/artist/4lpA7MWpQpY7hKkwfLxw2Q"
+        }
+      ],
+      "duration_ms": 211933,
+      "name": "story i tell myself",
+      "url": "https://open.spotify.com/track/5wAOwTaOQ8dHZgR13d5S7S"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "What This Could Be / Work It Out",
+        "url": "https://open.spotify.com/album/534YIkJVj0Hlpuw0jMpf1h"
+      },
+      "artists": [
+        {
+          "name": "Joe Jonas",
+          "url": "https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL"
+        }
+      ],
+      "duration_ms": 198146,
+      "name": "What This Could Be",
+      "url": "https://open.spotify.com/track/3NaOEouWqMCBwR0vQcVFt7"
+    },
     {
       "added_at": "2024-09-27 04:00:00",
       "album": {
@@ -25,6 +57,22 @@
       "url": "https://open.spotify.com/track/4d3QWnT6shcTiVJem6zEuz"
     },
     {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "One On One",
+        "url": "https://open.spotify.com/album/5P4LHmJvYMQmBRuRIesoDr"
+      },
+      "artists": [
+        {
+          "name": "AJ Mitchell",
+          "url": "https://open.spotify.com/artist/6dn6x1XOng3LOAnfTjUn77"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "One On One",
+      "url": "https://open.spotify.com/track/0dX6TCuCSb5vtqtmNekXec"
+    },
+    {
       "added_at": "2024-09-20 04:00:00",
       "album": {
         "name": "when the rain stopped following me",
@@ -39,6 +87,22 @@
       "duration_ms": 201533,
       "name": "when the rain stops",
       "url": "https://open.spotify.com/track/3GmdapszNp6FVKA07EtUD2"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Two New Malcolm Todd Songs",
+        "url": "https://open.spotify.com/album/2JNBq8nFR1FedwJbYnOF0E"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Todd",
+          "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
+        }
+      ],
+      "duration_ms": 220645,
+      "name": "You Owe Me",
+      "url": "https://open.spotify.com/track/0fVL6EBaQ2X12qQLiFgyg2"
     },
     {
       "added_at": "2024-09-27 04:00:00",
@@ -73,6 +137,22 @@
       "url": "https://open.spotify.com/track/6s2TiZxABduLOjT8DxuLmD"
     },
     {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Double Casket",
+        "url": "https://open.spotify.com/album/2KREFkBR5HsPSEoAt2ECLx"
+      },
+      "artists": [
+        {
+          "name": "44phantom",
+          "url": "https://open.spotify.com/artist/1vwwjIPFeYoRfAUCqqO6cZ"
+        }
+      ],
+      "duration_ms": 161000,
+      "name": "Double Casket",
+      "url": "https://open.spotify.com/track/7rR24CWfEpO61fjSicHQfv"
+    },
+    {
       "added_at": "2024-09-18 14:13:10",
       "album": {
         "name": "worst case scenario",
@@ -103,6 +183,22 @@
       "duration_ms": 175852,
       "name": "Kiss Me Again",
       "url": "https://open.spotify.com/track/7E0j46ZvV0w2Mj5FGEwdxt"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "House With The Blue Door",
+        "url": "https://open.spotify.com/album/7D5rk5d5YQQft2dv1Yoa93"
+      },
+      "artists": [
+        {
+          "name": "Nick Ward",
+          "url": "https://open.spotify.com/artist/1JjlFdZ1LKxyQ8moqDOmS9"
+        }
+      ],
+      "duration_ms": 185946,
+      "name": "Go!",
+      "url": "https://open.spotify.com/track/32dPWlM6CblltDzJy9EmCu"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -855,22 +951,6 @@
       "duration_ms": 174574,
       "name": "I thought that i'd know by now",
       "url": "https://open.spotify.com/track/7yd3WBefexIk6jtlXJr0HN"
-    },
-    {
-      "added_at": "2024-08-30 15:34:12",
-      "album": {
-        "name": "Control",
-        "url": "https://open.spotify.com/album/55LPwJ8TYpTkKqFDgDRaOT"
-      },
-      "artists": [
-        {
-          "name": "Nick Ward",
-          "url": "https://open.spotify.com/artist/1JjlFdZ1LKxyQ8moqDOmS9"
-        }
-      ],
-      "duration_ms": 188106,
-      "name": "Control",
-      "url": "https://open.spotify.com/track/0pdoZhLBiQccQ4Lbd8yGzO"
     },
     {
       "added_at": "2024-08-30 15:34:12",

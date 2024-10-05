@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-30",
-  "description": "M\u00e1s vivo que nunca, m\u00e1s nuestro que siempre. Foto: RYAN",
+  "description": "M\u00e1s vivo que nunca, m\u00e1s nuestro que siempre. Foto: LOBEL",
   "name": "Rock Argentino",
   "tracks": [
     {
@@ -3231,6 +3231,24 @@
     },
     {
       "album": {
+        "name": "Libertad es presi\u00f3n",
+        "url": "https://open.spotify.com/album/0OI4jt9SzJwh43TrUEiX9m"
+      },
+      "artists": [
+        {
+          "name": "Piti Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PJtMqmJX54aKaztYQfFYb"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214512,
+      "name": "Libertad es presi\u00f3n",
+      "url": "https://open.spotify.com/track/1h0eBZEshg04SI0NxrYzxl"
+    },
+    {
+      "album": {
         "name": "Llevo la Palabra",
         "url": "https://open.spotify.com/album/5CEuuHQnySh405nqZ7Njzr"
       },
@@ -3614,6 +3632,24 @@
       "duration_ms": 340200,
       "name": "Medalla de Oro",
       "url": "https://open.spotify.com/track/3e43fFQ7FOO2ic7wTnzwBl"
+    },
+    {
+      "album": {
+        "name": "Melod\u00eda del Adi\u00f3s",
+        "url": "https://open.spotify.com/album/5xuoOnrivnxR4MOiOoafWY"
+      },
+      "artists": [
+        {
+          "name": "LOBEL",
+          "url": "https://open.spotify.com/artist/6ZYC3LeRCpUZheX0WKVPGl"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218557,
+      "name": "Melod\u00eda del Adi\u00f3s",
+      "url": "https://open.spotify.com/track/6tbNnSpsaRBjqszmWU6JEd"
     },
     {
       "album": {
@@ -4324,6 +4360,28 @@
       "duration_ms": 179024,
       "name": "Paradoja",
       "url": "https://open.spotify.com/track/29FRFwLHf0Ec9q6I9K0jLZ"
+    },
+    {
+      "album": {
+        "name": "Pasos Al Costado",
+        "url": "https://open.spotify.com/album/0RIsFI6QTHoMkrs46q3ApG"
+      },
+      "artists": [
+        {
+          "name": "Turf",
+          "url": "https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1"
+        },
+        {
+          "name": "Milo j",
+          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240703,
+      "name": "Pasos Al Costado",
+      "url": "https://open.spotify.com/track/2CHRH34SWRjo1hvvbnpDww"
     },
     {
       "album": {
@@ -5400,6 +5458,28 @@
       "duration_ms": 227376,
       "name": "Todos los Vientos",
       "url": "https://open.spotify.com/track/6xi1npz5rpEhOtEg1LHKUG"
+    },
+    {
+      "album": {
+        "name": "Torment\u00f3n",
+        "url": "https://open.spotify.com/album/5xRvU7dse3mY4cd32mrz9t"
+      },
+      "artists": [
+        {
+          "name": "La Medianera",
+          "url": "https://open.spotify.com/artist/75DO8anWSqwceTHoXKSEKR"
+        },
+        {
+          "name": "SEVANDER",
+          "url": "https://open.spotify.com/artist/2mC1hKeg2XwGITlzQmupS8"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216706,
+      "name": "Torment\u00f3n",
+      "url": "https://open.spotify.com/track/7yWUqFK4tWYH3J7HSSzEm0"
     },
     {
       "album": {

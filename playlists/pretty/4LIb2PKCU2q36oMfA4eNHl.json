@@ -1,15 +1,31 @@
 {
   "description": "The best tracks in downtempo &amp; chill, curated by Anjuna. Perfect for studying, meditating &amp; relaxing. ",
-  "num_followers": 42254,
+  "num_followers": 42255,
   "original_name": "Chill with Anjuna",
   "owner": {
     "name": "Anjunadeep",
     "url": "https://open.spotify.com/user/anjunadeep"
   },
-  "snapshot_id": "AAAKWpUO/+cK4bi7bHQbntXPKDqh5zIE",
+  "snapshot_id": "AAAKXMUjUtXreNRTAeKR9LR4jPuMTW5g",
   "tracks": [
     {
-      "added_at": "2024-09-27 15:15:54",
+      "added_at": "2024-10-04 15:46:42",
+      "album": {
+        "name": "Faber / Faber Sanctum",
+        "url": "https://open.spotify.com/album/6IoW1Q2cLI4iYlaKC2enrk"
+      },
+      "artists": [
+        {
+          "name": "Cephas Azariah",
+          "url": "https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG"
+        }
+      ],
+      "duration_ms": 207923,
+      "name": "Faber",
+      "url": "https://open.spotify.com/track/4e2nmTfgZCxrtJM7TqVsxo"
+    },
+    {
+      "added_at": "2024-10-04 15:46:42",
       "album": {
         "name": "Pandora",
         "url": "https://open.spotify.com/album/4L7o78mSbrbTB6AXSzqgdj"
@@ -25,7 +41,47 @@
       "url": "https://open.spotify.com/track/5e5Q1bAFyR6o3dpB5gufQw"
     },
     {
-      "added_at": "2024-09-27 15:15:54",
+      "added_at": "2024-10-04 15:46:42",
+      "album": {
+        "name": "Painting Out (Robyn Sherwell Revisit)",
+        "url": "https://open.spotify.com/album/343TJWS9VH04cqFffmQgDs"
+      },
+      "artists": [
+        {
+          "name": "BAILE",
+          "url": "https://open.spotify.com/artist/135mViPxje2MED7hOnn2j9"
+        },
+        {
+          "name": "Kauf",
+          "url": "https://open.spotify.com/artist/4T7v6mIRvUB3AEORZRzWUy"
+        },
+        {
+          "name": "Robyn Sherwell",
+          "url": "https://open.spotify.com/artist/6vjYF7rDvsWBtHnPgBmJvs"
+        }
+      ],
+      "duration_ms": 290526,
+      "name": "Painting Out - Robyn Sherwell Revisit",
+      "url": "https://open.spotify.com/track/42BJCTF3U5NU78lrEaNDx3"
+    },
+    {
+      "added_at": "2024-10-04 15:46:42",
+      "album": {
+        "name": "Faber / Faber Sanctum",
+        "url": "https://open.spotify.com/album/6IoW1Q2cLI4iYlaKC2enrk"
+      },
+      "artists": [
+        {
+          "name": "Cephas Azariah",
+          "url": "https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG"
+        }
+      ],
+      "duration_ms": 289121,
+      "name": "Faber Sanctum",
+      "url": "https://open.spotify.com/track/22zhB8qvcx0oU45xmiWCY9"
+    },
+    {
+      "added_at": "2024-10-04 15:46:42",
       "album": {
         "name": "[Strings]",
         "url": "https://open.spotify.com/album/7wimi5iKffa1xaBMjGL6tw"
@@ -41,7 +97,7 @@
       "url": "https://open.spotify.com/track/3dPjBWHW8rgJFFhy5MulzC"
     },
     {
-      "added_at": "2024-09-27 15:15:54",
+      "added_at": "2024-10-04 15:46:42",
       "album": {
         "name": "Contours",
         "url": "https://open.spotify.com/album/7AgmO49GIQuCO5C2pKsmXm"
@@ -57,7 +113,7 @@
       "url": "https://open.spotify.com/track/3Ve1THBjsyIZ9JJ2sE1RQq"
     },
     {
-      "added_at": "2024-09-27 15:15:54",
+      "added_at": "2024-10-04 15:46:42",
       "album": {
         "name": "ten days",
         "url": "https://open.spotify.com/album/3DQueEd1Ft9PHWgovDzPKh"
@@ -73,7 +129,7 @@
       "url": "https://open.spotify.com/track/3DzWFxyzsAVblVNndiU9CW"
     },
     {
-      "added_at": "2024-09-27 15:15:54",
+      "added_at": "2024-10-04 15:46:42",
       "album": {
         "name": "[Strings]",
         "url": "https://open.spotify.com/album/7wimi5iKffa1xaBMjGL6tw"
@@ -89,7 +145,7 @@
       "url": "https://open.spotify.com/track/4SoEq0RSooiICciUo2pL5F"
     },
     {
-      "added_at": "2024-09-27 15:15:54",
+      "added_at": "2024-10-04 15:46:42",
       "album": {
         "name": "Come Together (Nox Vahn & Marsh Revisit)",
         "url": "https://open.spotify.com/album/6m0mLramcaMID73jvYf0Lx"
@@ -109,7 +165,7 @@
       "url": "https://open.spotify.com/track/1a9ShyDtSg8KqVdfa4Kyd0"
     },
     {
-      "added_at": "2024-09-27 15:15:54",
+      "added_at": "2024-10-04 15:46:42",
       "album": {
         "name": "Remember Me",
         "url": "https://open.spotify.com/album/4KJhQTZgKYxewsxHoKy6Mj"
@@ -125,7 +181,7 @@
       "url": "https://open.spotify.com/track/676TDDDpvxBeddNHeJJ5Uy"
     },
     {
-      "added_at": "2024-09-27 15:15:54",
+      "added_at": "2024-10-04 15:46:42",
       "album": {
         "name": "till flowers fall from the cosmic tree",
         "url": "https://open.spotify.com/album/2qqVBnG8l01d8oGIV85bOp"
@@ -141,7 +197,7 @@
       "url": "https://open.spotify.com/track/2i6nhZcuPByazbW0K9cSIU"
     },
     {
-      "added_at": "2024-09-27 15:15:54",
+      "added_at": "2024-10-04 15:46:42",
       "album": {
         "name": "Opals [Strings]",
         "url": "https://open.spotify.com/album/0rQAG1x8En0pK6ibB57C5h"
@@ -157,7 +213,7 @@
       "url": "https://open.spotify.com/track/3sXfYyVPU8qUk6s0ptba63"
     },
     {
-      "added_at": "2024-09-27 15:15:54",
+      "added_at": "2024-10-04 15:46:42",
       "album": {
         "name": "Sleep Is Sacrament",
         "url": "https://open.spotify.com/album/7ySRbBRPt31mah1cwD29g0"
@@ -173,7 +229,7 @@
       "url": "https://open.spotify.com/track/6wdiugsx4HdCiNvEQXh41Y"
     },
     {
-      "added_at": "2024-09-27 15:15:54",
+      "added_at": "2024-10-04 15:46:42",
       "album": {
         "name": "Kintsugi",
         "url": "https://open.spotify.com/album/66k1sZw4tEWuHnDUeNSGvk"
@@ -189,7 +245,7 @@
       "url": "https://open.spotify.com/track/3HZdQS6zV60urA6XVKpUYW"
     },
     {
-      "added_at": "2024-09-27 15:15:54",
+      "added_at": "2024-10-04 15:46:42",
       "album": {
         "name": "Satisfied [Strings]",
         "url": "https://open.spotify.com/album/6yWdmcKUunAkFi4V6rfV1B"
@@ -205,7 +261,7 @@
       "url": "https://open.spotify.com/track/4hUI4xL5nAiY2pAWBfohEH"
     },
     {
-      "added_at": "2024-09-27 15:15:54",
+      "added_at": "2024-10-04 15:46:42",
       "album": {
         "name": "Solace",
         "url": "https://open.spotify.com/album/3jnjfy0d3wpbZ12cy1LlPj"
@@ -221,7 +277,7 @@
       "url": "https://open.spotify.com/track/27DozBowhDYuHNExnzbipt"
     },
     {
-      "added_at": "2024-09-27 15:15:54",
+      "added_at": "2024-10-04 15:46:42",
       "album": {
         "name": "Bloom EP",
         "url": "https://open.spotify.com/album/0KuOmIMUvSvjresvIA4mrq"
@@ -237,7 +293,7 @@
       "url": "https://open.spotify.com/track/6dB4atu4vMdEc4ZsaxRAY4"
     },
     {
-      "added_at": "2024-09-27 15:15:54",
+      "added_at": "2024-10-04 15:46:42",
       "album": {
         "name": "Peaceful Avenues",
         "url": "https://open.spotify.com/album/2tSLZZXtD1PDRuRTNNKnst"
@@ -257,7 +313,7 @@
       "url": "https://open.spotify.com/track/2ucQtiO5cCdbGJGiRfYC3H"
     },
     {
-      "added_at": "2024-09-27 15:15:54",
+      "added_at": "2024-10-04 15:46:42",
       "album": {
         "name": "Memory Morning",
         "url": "https://open.spotify.com/album/2LsEbodgqI6P1q7QEVe3P7"
@@ -273,7 +329,7 @@
       "url": "https://open.spotify.com/track/49MMPosiIrORwUtdrG1eiQ"
     },
     {
-      "added_at": "2024-09-27 15:15:54",
+      "added_at": "2024-10-04 15:46:42",
       "album": {
         "name": "Reflections 09",
         "url": "https://open.spotify.com/album/7pAHMZWxe6SEZVnXIuhPR5"
@@ -289,7 +345,7 @@
       "url": "https://open.spotify.com/track/3uVbMPqILJGZO1ZrlcKRuv"
     },
     {
-      "added_at": "2024-09-27 15:15:54",
+      "added_at": "2024-10-04 15:46:42",
       "album": {
         "name": "[Strings]",
         "url": "https://open.spotify.com/album/7wimi5iKffa1xaBMjGL6tw"
@@ -305,7 +361,7 @@
       "url": "https://open.spotify.com/track/74IToA2SF3WCOdt7is58g1"
     },
     {
-      "added_at": "2024-09-27 15:15:54",
+      "added_at": "2024-10-04 15:46:42",
       "album": {
         "name": "Bloom EP",
         "url": "https://open.spotify.com/album/0KuOmIMUvSvjresvIA4mrq"
@@ -321,7 +377,7 @@
       "url": "https://open.spotify.com/track/1m0TjF8lqIRfkasVGuiQyU"
     },
     {
-      "added_at": "2024-09-27 15:15:54",
+      "added_at": "2024-10-04 15:46:42",
       "album": {
         "name": "Love In Our Hands (Omfeel Remix)",
         "url": "https://open.spotify.com/album/02qpWAHaCW4bcK6TEOgxt6"
@@ -341,7 +397,7 @@
       "url": "https://open.spotify.com/track/13J8zbaMzeLyQ2o0duJ4dh"
     },
     {
-      "added_at": "2024-09-27 15:15:54",
+      "added_at": "2024-10-04 15:46:42",
       "album": {
         "name": "Reflections 09",
         "url": "https://open.spotify.com/album/7pAHMZWxe6SEZVnXIuhPR5"
@@ -357,7 +413,7 @@
       "url": "https://open.spotify.com/track/1Pff8X1sJF7Lh0gi4LV70B"
     },
     {
-      "added_at": "2024-09-27 15:15:54",
+      "added_at": "2024-10-04 15:46:42",
       "album": {
         "name": "Fugue In Twilight",
         "url": "https://open.spotify.com/album/0cv8RApqPNKm5G8w8mOugM"
@@ -373,7 +429,7 @@
       "url": "https://open.spotify.com/track/1aOuKqVx4Myq3Ql4MqW1xK"
     },
     {
-      "added_at": "2024-09-27 15:15:54",
+      "added_at": "2024-10-04 15:46:42",
       "album": {
         "name": "Put You Back Together",
         "url": "https://open.spotify.com/album/2iE2GaYIZCGqCcJdMBFv3v"
@@ -393,7 +449,7 @@
       "url": "https://open.spotify.com/track/4wRgSUpELGyDeKnaG3sFUW"
     },
     {
-      "added_at": "2024-09-27 15:15:54",
+      "added_at": "2024-10-04 15:46:42",
       "album": {
         "name": "Ogou (Pran Ka Mwen) [Turtle Revisit]",
         "url": "https://open.spotify.com/album/7HbnyY0UkqOzyOpgrmcf9Q"
@@ -417,7 +473,7 @@
       "url": "https://open.spotify.com/track/48R6sOFn31bOM199xIXWQv"
     },
     {
-      "added_at": "2024-09-27 15:15:54",
+      "added_at": "2024-10-04 15:46:42",
       "album": {
         "name": "Love In Our Hands",
         "url": "https://open.spotify.com/album/4XSVK3udgsRyaOeBLBUXEv"
@@ -433,7 +489,7 @@
       "url": "https://open.spotify.com/track/54X03H0dMvwn2FlWWsj3nM"
     },
     {
-      "added_at": "2024-09-27 15:15:54",
+      "added_at": "2024-10-04 15:46:42",
       "album": {
         "name": "J\u014dhatsu (\u84b8\u767a)",
         "url": "https://open.spotify.com/album/4jVf3DHrIPgkWowFjkdwMV"
@@ -449,7 +505,7 @@
       "url": "https://open.spotify.com/track/6ScA5iBXkvbu5i8grkh7rO"
     },
     {
-      "added_at": "2024-09-27 15:15:54",
+      "added_at": "2024-10-04 15:46:42",
       "album": {
         "name": "Reflections 09",
         "url": "https://open.spotify.com/album/7pAHMZWxe6SEZVnXIuhPR5"
@@ -465,7 +521,7 @@
       "url": "https://open.spotify.com/track/7M8rxHUoLI7k10qurZ5GyA"
     },
     {
-      "added_at": "2024-09-27 15:15:54",
+      "added_at": "2024-10-04 15:46:42",
       "album": {
         "name": "Closer To You",
         "url": "https://open.spotify.com/album/3eTNzXkrhDwgL8IPDOa1Ax"
@@ -485,7 +541,7 @@
       "url": "https://open.spotify.com/track/2CdyYYqIUW6mhIFQK8r9Hs"
     },
     {
-      "added_at": "2024-09-27 15:15:54",
+      "added_at": "2024-10-04 15:46:42",
       "album": {
         "name": "I Can Hear the Birds",
         "url": "https://open.spotify.com/album/5e2c7ge98FEC2RaAAq0wV1"
@@ -501,7 +557,7 @@
       "url": "https://open.spotify.com/track/0hRCdpKyqN25UFexMue0Pp"
     },
     {
-      "added_at": "2024-09-27 15:15:54",
+      "added_at": "2024-10-04 15:46:42",
       "album": {
         "name": "Reflections 07",
         "url": "https://open.spotify.com/album/1hwOuBjlXZhaEifsDfG14V"
@@ -517,7 +573,7 @@
       "url": "https://open.spotify.com/track/7alJ5Zy3imEzCCzwv9hEtq"
     },
     {
-      "added_at": "2024-09-27 15:15:54",
+      "added_at": "2024-10-04 15:46:42",
       "album": {
         "name": "Erased Dreams",
         "url": "https://open.spotify.com/album/6Q67qjhJcBsMPWS3PXF8kv"
@@ -533,7 +589,7 @@
       "url": "https://open.spotify.com/track/0IZ9KgBNgV0AUw9jStNkvj"
     },
     {
-      "added_at": "2024-09-27 15:15:54",
+      "added_at": "2024-10-04 15:46:42",
       "album": {
         "name": "Beautiful World Field Notes: Unplugged",
         "url": "https://open.spotify.com/album/5W85KtB6tOmqxVJEUD8z8M"
@@ -549,7 +605,7 @@
       "url": "https://open.spotify.com/track/3Q6Cvq1CCuReYxcjz2M5yi"
     },
     {
-      "added_at": "2024-09-27 15:15:54",
+      "added_at": "2024-10-04 15:46:42",
       "album": {
         "name": "Fading Anxieties",
         "url": "https://open.spotify.com/album/29aXvfgMqYrsHIFS9f8UkJ"
@@ -565,7 +621,7 @@
       "url": "https://open.spotify.com/track/16RXlxwUqG5853XArw0Byx"
     },
     {
-      "added_at": "2024-09-27 15:15:54",
+      "added_at": "2024-10-04 15:46:42",
       "album": {
         "name": "Warmth",
         "url": "https://open.spotify.com/album/5tLrwK3TcK1SMqhVAThVEp"
@@ -581,7 +637,7 @@
       "url": "https://open.spotify.com/track/6tbkjEH6uEajWZjrLzd3CK"
     },
     {
-      "added_at": "2024-09-27 15:15:54",
+      "added_at": "2024-10-04 15:46:42",
       "album": {
         "name": "Holding Me Back (The Kite String Tangle's Stripped Back Version)",
         "url": "https://open.spotify.com/album/10C4tAgChwZLtQ04Fd5nja"
@@ -601,7 +657,7 @@
       "url": "https://open.spotify.com/track/1uAqwBlyVpdusW9Y4drUex"
     },
     {
-      "added_at": "2024-09-27 15:15:54",
+      "added_at": "2024-10-04 15:46:42",
       "album": {
         "name": "Reflections 09",
         "url": "https://open.spotify.com/album/7pAHMZWxe6SEZVnXIuhPR5"
@@ -617,7 +673,7 @@
       "url": "https://open.spotify.com/track/2uy39vRSVXKvYzEwJfbCRu"
     },
     {
-      "added_at": "2024-09-27 15:15:54",
+      "added_at": "2024-10-04 15:46:42",
       "album": {
         "name": "The Sounds Inside Of Me When I Think Of You EP",
         "url": "https://open.spotify.com/album/3oajHb9mhmBvgqXvvhj5Bc"
@@ -631,54 +687,6 @@
       "duration_ms": 305000,
       "name": "Inner (for Jen)",
       "url": "https://open.spotify.com/track/4VOVyIBfnrSQ2OZyISkn4g"
-    },
-    {
-      "added_at": "2024-09-27 15:15:54",
-      "album": {
-        "name": "Fugue In Twilight (Instrumentals)",
-        "url": "https://open.spotify.com/album/1hVTt0waA9eZa1yFcNS0Jt"
-      },
-      "artists": [
-        {
-          "name": "Croquet Club",
-          "url": "https://open.spotify.com/artist/6Fn7vKaPgzA6AAIb7EhhV6"
-        }
-      ],
-      "duration_ms": 213825,
-      "name": "Slowly - Instrumental",
-      "url": "https://open.spotify.com/track/3GVLVaWkjpogFy7ZyjzXiI"
-    },
-    {
-      "added_at": "2024-09-27 15:15:54",
-      "album": {
-        "name": "Through The Mirror Glass",
-        "url": "https://open.spotify.com/album/46rNTPpQNcoElCWGS4uZuY"
-      },
-      "artists": [
-        {
-          "name": "Ryan Davis",
-          "url": "https://open.spotify.com/artist/0AHClmU8AZuj9naaENhVrP"
-        }
-      ],
-      "duration_ms": 230460,
-      "name": "Altitudes",
-      "url": "https://open.spotify.com/track/3vUqBuU7k1Ev75Rpb80daj"
-    },
-    {
-      "added_at": "2024-09-27 15:15:54",
-      "album": {
-        "name": "Mono No Aware",
-        "url": "https://open.spotify.com/album/70hyp5k7zuvuI52UZvWBKx"
-      },
-      "artists": [
-        {
-          "name": "Martin Roth",
-          "url": "https://open.spotify.com/artist/4LoSbPey3kklzX5f2KEks1"
-        }
-      ],
-      "duration_ms": 166057,
-      "name": "Just Sine Waves",
-      "url": "https://open.spotify.com/track/7J8NbJZXIbR3JLOUk5BITV"
     }
   ],
   "unique_name": "Chill with Anjuna",

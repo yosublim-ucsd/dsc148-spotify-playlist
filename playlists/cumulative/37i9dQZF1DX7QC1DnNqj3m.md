@@ -4,7 +4,7 @@
 
 > Bask in the sound of soul, old and new.
 
-111 songs - 6 hr 41 min
+112 songs - 6 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,7 @@
 | [No Way](https://open.spotify.com/track/4A3RHFKpMnHqMNyD6DaIUV) | [Debbie](https://open.spotify.com/artist/36qFUmqGdV8FYYhXIDhc17) | [No Way](https://open.spotify.com/album/0Ooe0UKuc913thQffh8XhK) | 2:53 | 2023-11-24 | 2024-02-28 |
 | [Nothing On You](https://open.spotify.com/track/7u8fLctZzIhiiavPuXXwF7) | [Marie Dahlstrom](https://open.spotify.com/artist/49NfOTfSPhrb0sJBVYS1iM), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Nothing On You](https://open.spotify.com/album/3wN5twfbZoolIBd9GgQyBV) | 3:45 | 2024-02-28 |  |
 | [Nothing's Real but Love](https://open.spotify.com/track/5bPhlByRZCue4HveZarBXY) | [Rebecca Ferguson](https://open.spotify.com/artist/0CrCKxXekxMpkYfMEf8mca) | [Heaven \(Expanded Edition\)](https://open.spotify.com/album/5XRvidlLFT4rMytzHK7smn) | 2:53 | 2023-11-24 | 2024-04-19 |
-| [Oh, Wait...](https://open.spotify.com/track/4AG0bAu5QvQacdyOhQLYqF) | [Shae Universe](https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N) | [Love's Letter](https://open.spotify.com/album/2WCUgddua4H6GiwTBK6Zom) | 4:10 | 2024-02-28 |  |
+| [Oh, Wait...](https://open.spotify.com/track/4AG0bAu5QvQacdyOhQLYqF) | [Shae Universe](https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N) | [Love's Letter](https://open.spotify.com/album/2WCUgddua4H6GiwTBK6Zom) | 4:10 | 2024-02-28 | 2024-10-05 |
 | [Old Friends](https://open.spotify.com/track/2bYpjBxpiP3zrKCNYhdURf) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Heaven](https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU) | 2:57 | 2023-11-24 |  |
 | [On God!](https://open.spotify.com/track/3AcH92WhF4cBsbUvoDgu30) | [Tiana Major9](https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9) | [Fool Me Once](https://open.spotify.com/album/15moNc4Pg5E1qXrXHM2WNl) | 3:21 | 2024-02-28 | 2024-09-29 |
 | [Outside](https://open.spotify.com/track/7HUWDK8W290h5FD9G5t3eH) | [Dayo Bello](https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Outside](https://open.spotify.com/album/48GGRBVO34uMUTyCII8ZpY) | 3:25 | 2023-11-24 |  |
@@ -102,6 +102,7 @@
 | [Ten Cane Row \(feat\. Jorja Smith\)](https://open.spotify.com/track/1ObD1mQ91u4yBK46EYNCgl) | [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Ten Cane Row \(feat\. Jorja Smith\)](https://open.spotify.com/album/5BY7i9MB7Ykwf7hMt1npU1) | 3:29 | 2023-11-24 |  |
 | [That's What I Love](https://open.spotify.com/track/6qxPXbJammkI5JkjVctXED) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [That's What I Love](https://open.spotify.com/album/4AO7lU5M0Zj4aWOaZFCj93) | 3:46 | 2024-09-28 |  |
 | [That's You](https://open.spotify.com/track/3rgPcA3yCtvVCxvcVFcBxs) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [That's You](https://open.spotify.com/album/4oFFTDK2Af6FOPvoafwKjV) | 5:19 | 2023-11-24 |  |
+| [The Love Is Gone](https://open.spotify.com/track/4wCKB3BbfuPItNfp0yCg3k) | [Jamilah Barry](https://open.spotify.com/artist/2XSaBoykurbHLXS5WwDewv) | [The Love Is Gone](https://open.spotify.com/album/6H4z12zavQ8N20DKCH257j) | 3:19 | 2024-09-28 |  |
 | [The Tracks Of My Tears](https://open.spotify.com/track/6QyQmdvQ1ywNccYa0pwLNQ) | [Smokey Robinson & The Miracles](https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt) | [Going To A Go\-Go](https://open.spotify.com/album/2NT1Pc0MXlXORHLBkHyKQW) | 2:54 | 2023-11-24 |  |
 | [There Will Be No Crying](https://open.spotify.com/track/2v4fvU8my0WUTy0TOTS36l) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Gold](https://open.spotify.com/album/67DWn1tZ245gendegv7Ioz) | 3:49 | 2023-11-24 |  |
 | [These Days](https://open.spotify.com/track/48R6SMKqCQvrhe0KwDu68u) | [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [These Days](https://open.spotify.com/album/014qHcg2C7guTMP1y2eISt) | 3:14 | 2024-09-28 |  |

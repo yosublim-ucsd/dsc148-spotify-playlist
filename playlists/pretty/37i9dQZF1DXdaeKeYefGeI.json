@@ -1,13 +1,29 @@
 {
   "description": "Wat kan het Nederlands toch mooi zijn. Cover: Herman van Veen",
-  "num_followers": 28020,
+  "num_followers": 28049,
   "original_name": "Mooi Nederlands",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zv8T4AAAAADXKC9VRmd2aIYPnzUn8Enw",
+  "snapshot_id": "Zv+UMQAAAACYcVwW8cJsahRwOcBYfYV3",
   "tracks": [
+    {
+      "added_at": "2024-10-03 22:00:00",
+      "album": {
+        "name": "Er Is Een Lied Geschreven",
+        "url": "https://open.spotify.com/album/1MsOrf7YjeIIFLfbUThuWf"
+      },
+      "artists": [
+        {
+          "name": "Ernst Jansz",
+          "url": "https://open.spotify.com/artist/4coHdOCwAsgKoy4WNp9p92"
+        }
+      ],
+      "duration_ms": 187803,
+      "name": "Er Is Een Lied Geschreven",
+      "url": "https://open.spotify.com/track/2haBhftcHLtjso0v2ZhTgy"
+    },
     {
       "added_at": "2024-10-03 22:00:00",
       "album": {
@@ -71,22 +87,6 @@
       "duration_ms": 211174,
       "name": "Dat heb jij gedaan",
       "url": "https://open.spotify.com/track/4wn7cO2iHlWueXGDd4gH9g"
-    },
-    {
-      "added_at": "2024-10-03 22:00:00",
-      "album": {
-        "name": "Er Is Een Lied Geschreven",
-        "url": "https://open.spotify.com/album/1MsOrf7YjeIIFLfbUThuWf"
-      },
-      "artists": [
-        {
-          "name": "Ernst Jansz",
-          "url": "https://open.spotify.com/artist/4coHdOCwAsgKoy4WNp9p92"
-        }
-      ],
-      "duration_ms": 187803,
-      "name": "Er Is Een Lied Geschreven",
-      "url": "https://open.spotify.com/track/2haBhftcHLtjso0v2ZhTgy"
     },
     {
       "added_at": "2024-10-03 22:00:00",

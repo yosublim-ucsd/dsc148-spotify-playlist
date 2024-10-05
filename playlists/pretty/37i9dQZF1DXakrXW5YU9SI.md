@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakrXW5YU9SI.md) - [plain]
 
 > Jesień nigdy nie brzmiała tak dobrze 🍂
 
-[Spotify](https://open.spotify.com/user/spotify) - 328,402 likes - 70 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 328,475 likes - 70 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakrXW5YU9SI.md) - [plain]
 | 43 | [Cleats](https://open.spotify.com/track/7HWONeQrWpcjflAPGbH5L3) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Cleats](https://open.spotify.com/album/0VZGFBmqzdTFhMgMl7rsxB) | 3:41 |
 | 44 | [Dlugość dźwięku samotności](https://open.spotify.com/track/5ytkHKps6RVVDFZwAqVDCB) | [Myslovitz](https://open.spotify.com/artist/3sntDD4Y2K97qvDq3GPqZ5) | [Miłość w czasach popkultury](https://open.spotify.com/album/7A0cDRZUQt4GhpSrMSfUcQ) | 4:11 |
 | 45 | [Peaceful Place](https://open.spotify.com/track/2OiJ2pEQlLPnOywokPkG4N) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Peaceful Place](https://open.spotify.com/album/6ZJwX0ETt1mAZReAEDbI3X) | 4:15 |
-| 46 | [Baby Blue Movie](https://open.spotify.com/track/6kgn7bCEXk0A5ZrPqrRZwc) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Baby Blue Movie](https://open.spotify.com/album/3T7i2gfwdTmMOUD5wiuoAj) | 4:04 |
-| 47 | [Should Have Known Better](https://open.spotify.com/track/3AyuigFWbuirWHvidbMz8O) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Carrie & Lowell](https://open.spotify.com/album/64xtjfsPHNHch0CZ7fPTjS) | 5:07 |
+| 46 | [Should Have Known Better](https://open.spotify.com/track/3AyuigFWbuirWHvidbMz8O) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Carrie & Lowell](https://open.spotify.com/album/64xtjfsPHNHch0CZ7fPTjS) | 5:07 |
+| 47 | [Baby Blue Movie](https://open.spotify.com/track/6kgn7bCEXk0A5ZrPqrRZwc) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Baby Blue Movie](https://open.spotify.com/album/3T7i2gfwdTmMOUD5wiuoAj) | 4:04 |
 | 48 | [Lonely Fight](https://open.spotify.com/track/2K5UBMkyxh4NuATA6JrMhD) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [Lonely Fight](https://open.spotify.com/album/4tXUFRTPU3KhSBhAYwzWCW) | 3:49 |
 | 49 | [You And I](https://open.spotify.com/track/248XJMcsowzZrF1APvILhF) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [The Greatest Love](https://open.spotify.com/album/3jlE37AdgcZbfsfyMutyCE) | 5:00 |
 | 50 | [The Table](https://open.spotify.com/track/5pCd4dfI9bQ9H3U1EiaLXv) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [The Table](https://open.spotify.com/album/2vmyJbe35Nv4DDyOkTR5Ku) | 2:53 |
@@ -66,17 +66,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakrXW5YU9SI.md) - [plain]
 | 56 | [Dispose of Me](https://open.spotify.com/track/5tffEKZUyEbyThW6FH9VFS) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Dispose of Me](https://open.spotify.com/album/00gOh6il0z2KBhwqWSu3iX) | 3:37 |
 | 57 | [Zdjęcia](https://open.spotify.com/track/4VWFlfcj5LYRKZHper4kHU) | [Kaśka Sochacka](https://open.spotify.com/artist/3ClL18AtCAPwXVT6mUkBDN) | [Zdjęcia](https://open.spotify.com/album/0806pozS2h7r8yVwoKazfV) | 3:07 |
 | 58 | [Big Jet Plane](https://open.spotify.com/track/3HedB2EwVAj5MAx8xFE1ea) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Down the Way](https://open.spotify.com/album/5W1E1tqlKUl7p6KuyCAhji) | 3:59 |
-| 59 | [Image](https://open.spotify.com/track/5LIUI808j8M8bXQd0kRxnp) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Image](https://open.spotify.com/album/7JnlRfxpLRDdeYOPuNcklD) | 3:32 |
-| 60 | [Jak w filmie](https://open.spotify.com/track/2IYpNlrzRoWcIUPAvXKT6n) | [Sarsa](https://open.spotify.com/artist/0lKCO7SCRiTCS4ZEU6l1zx) | [Jak w filmie](https://open.spotify.com/album/2gtLXFybjn3nSZQPqVCsr6) | 3:03 |
-| 61 | [back from the dead \(with mxmtoon\)](https://open.spotify.com/track/7H4G1mhD1qCCeYDPgZ5mgh) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v), [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [back from the dead](https://open.spotify.com/album/3xiULM7K8q360Xg9jmon9x) | 2:38 |
-| 62 | [Czuję Cię Obok](https://open.spotify.com/track/21v4fl1hJ2bAUtp5fnpkoP) | [FANKA](https://open.spotify.com/artist/5wUmzMcZxXPMi2qpddL0wg), [BRSC](https://open.spotify.com/artist/68b1ngOghaULNOIcy2nouz), [Mike Johnson](https://open.spotify.com/artist/1Rv7NvFb9DhfzZcA33jotl) | [Czuję Cię Obok](https://open.spotify.com/album/4UftLy4wwU1yDanxA9DYdN) | 2:32 |
+| 59 | [Jak w filmie](https://open.spotify.com/track/2IYpNlrzRoWcIUPAvXKT6n) | [Sarsa](https://open.spotify.com/artist/0lKCO7SCRiTCS4ZEU6l1zx) | [Jak w filmie](https://open.spotify.com/album/2gtLXFybjn3nSZQPqVCsr6) | 3:03 |
+| 60 | [Image](https://open.spotify.com/track/5LIUI808j8M8bXQd0kRxnp) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Image](https://open.spotify.com/album/7JnlRfxpLRDdeYOPuNcklD) | 3:32 |
+| 61 | [Czuję Cię Obok](https://open.spotify.com/track/21v4fl1hJ2bAUtp5fnpkoP) | [FANKA](https://open.spotify.com/artist/5wUmzMcZxXPMi2qpddL0wg), [BRSC](https://open.spotify.com/artist/68b1ngOghaULNOIcy2nouz), [Mike Johnson](https://open.spotify.com/artist/1Rv7NvFb9DhfzZcA33jotl) | [Czuję Cię Obok](https://open.spotify.com/album/4UftLy4wwU1yDanxA9DYdN) | 2:32 |
+| 62 | [back from the dead \(with mxmtoon\)](https://open.spotify.com/track/7H4G1mhD1qCCeYDPgZ5mgh) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v), [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [back from the dead](https://open.spotify.com/album/3xiULM7K8q360Xg9jmon9x) | 2:38 |
 | 63 | [Mleczna droga](https://open.spotify.com/track/12aZhjbBBFKIm1S9utKiIB) | [sanah](https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE) | [Kaprysy](https://open.spotify.com/album/47tDANOMCmdRDI5CVcjNKY) | 4:08 |
 | 64 | [na nowo](https://open.spotify.com/track/3KVUAC8mscMSocwPkSYMqM) | [Vito Bambino](https://open.spotify.com/artist/5XGkLMcwitYFdwroktQs7o) | [na nowo](https://open.spotify.com/album/3AxccIxhlKZVXQ77xIcF4a) | 2:04 |
 | 65 | [Arachnophobia](https://open.spotify.com/track/238SwKe4AlSzqa7lg1oHUz) | [Jann](https://open.spotify.com/artist/61mjebytLODtxAOS9ULCmb) | [Arachnophobia](https://open.spotify.com/album/3QATSYk5TsPkoEJKvZIM7P) | 4:29 |
 | 66 | [Heathrow](https://open.spotify.com/track/0iNlcioLpaFNEpL0OkN2oa) | [Rhys](https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU) | [Heathrow](https://open.spotify.com/album/4RGF1g5xJjfcd809OFyN4F) | 3:55 |
 | 67 | [Miał się skończyć świat](https://open.spotify.com/track/7mwYU7V6ALgmqBz7So9vKM) | [EMO](https://open.spotify.com/artist/0ORYVI6HcOBBPflrE4EcQM) | [Miał się skończyć świat](https://open.spotify.com/album/2WmsxnoReh20DQZfAB4uek) | 2:27 |
 | 68 | [feel like we used to](https://open.spotify.com/track/3UBNj3GZN0Wf3LjUrxQdH1) | [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX) | [feel like we used to](https://open.spotify.com/album/1HbbsKtw9xMY90dE4C5yM5) | 2:56 |
-| 69 | [list do niej](https://open.spotify.com/track/3AFWlh9Q4qTdqRR0ASqoKL) | [Zalia](https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d) | [list do niej](https://open.spotify.com/album/4qSid7v4Ami0xKyks5uxzT) | 3:05 |
+| 69 | [Parachute](https://open.spotify.com/track/0f5Zp30ih99H6eEBoKiul8) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Mountain Music](https://open.spotify.com/album/1Q1C9JR5mIRc48MgJqu1G5) | 4:10 |
 | 70 | [Where The Names Are Real](https://open.spotify.com/track/6anbHjGgQbYQH5FbF6bAvR) | [Warhaus](https://open.spotify.com/artist/5uy67fWgovgNdbkP1kAf7m) | [Where The Names Are Real](https://open.spotify.com/album/0SnEZObvH4juxuuJEznkGV) | 5:21 |
 
 Snapshot ID: `ZvaPiAAAAACMQhpHEZSrts/SUuaoWJHb`

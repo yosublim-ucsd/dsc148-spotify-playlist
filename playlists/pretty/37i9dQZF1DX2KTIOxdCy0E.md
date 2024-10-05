@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KTIOxdCy0E.md) - [plain]
 
 > Will they...won't they...should they? Listen to the music from Nobody Wants This, curated by Este Haim + Zach Dawes, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,929 likes - 34 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,545 likes - 35 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,5 +42,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KTIOxdCy0E.md) - [plain]
 | 32 | [Love On The Brain](https://open.spotify.com/track/5oO3drDxtziYU2H1X23ZIp) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [ANTI \(Deluxe\)](https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u) | 3:44 |
 | 33 | [Close To You](https://open.spotify.com/track/2bl81llf715VEEbAx03yvB) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us](https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl) | 3:45 |
 | 34 | [Fly](https://open.spotify.com/track/1gJqICniCRvc2JWGnMYxsD) | [Anna Graves](https://open.spotify.com/artist/4j9vFTGkTHf54MjcZvedcT) | [Fly](https://open.spotify.com/album/6n8mLwrO1XoeSv1Nh6GrsO) | 3:26 |
+| 35 | [MY DEMONS](https://open.spotify.com/track/3LUcU1uaK0gp9lBNFlCNII) | [GLU](https://open.spotify.com/artist/2z6598dYz4eQbCJ1t0kT1N), [Phantogram](https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH) | [MY DEMONS](https://open.spotify.com/album/5s5mG6bz04LEXbwO1Fufyp) | 3:29 |
 
-Snapshot ID: `Zv7+swAAAABl8V334QtGAyWZZO5gHDwT`
+Snapshot ID: `ZwBvaAAAAABJQgTL/Ey9Zd4AL0tsOyAt`

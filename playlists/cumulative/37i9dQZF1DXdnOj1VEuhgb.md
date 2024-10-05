@@ -4,7 +4,7 @@
 
 > Türkiye'nin en sıkı çalma listesi\. Kapak: cakal
 
-445 songs - 19 hr 41 min
+446 songs - 19 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,7 +94,7 @@
 | [DAİM](https://open.spotify.com/track/6EtJWgmED5K4zL55g6hxfF) | [Şehinşah](https://open.spotify.com/artist/0FUsrstJwmg4WVHQMTYuUA) | [DAİM](https://open.spotify.com/album/049jPvA9iOQZy7Jt9KPM0q) | 4:05 | 2024-03-28 | 2024-04-12 |
 | [Dale](https://open.spotify.com/track/5NIfOnuujMRqIoNCn86kfE) | [Astral](https://open.spotify.com/artist/7g6rPQyaKLwHpM6JB4lByD), [Organize](https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3) | [Dale](https://open.spotify.com/album/7rK2gabrAs3ugnUEAsRiwp) | 2:19 | 2024-04-11 | 2024-05-24 |
 | [Dale Don Dale](https://open.spotify.com/track/1f9X5YDmXDxyIwhzB06JJd) | [ElMusto](https://open.spotify.com/artist/1Tjaa3WWIVU00kfZ8Dvpcl) | [Dale Don Dale](https://open.spotify.com/album/4vrNgKR0CTcHMHrb8io0nV) | 1:58 | 2024-05-16 |  |
-| [Damlarsın](https://open.spotify.com/track/0pFL8GjwSssk4uLBQafhAn) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2) | [Damlarsın](https://open.spotify.com/album/1HbQWs7ClzwFt5AmEgH8r2) | 2:25 | 2024-05-23 |  |
+| [Damlarsın](https://open.spotify.com/track/0pFL8GjwSssk4uLBQafhAn) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2) | [Damlarsın](https://open.spotify.com/album/1HbQWs7ClzwFt5AmEgH8r2) | 2:25 | 2024-05-23 | 2024-10-05 |
 | [Darmadağın](https://open.spotify.com/track/6bQuAwtlnvNEmFgNa82rhs) | [Lia Shine](https://open.spotify.com/artist/5G3OUmDl3R4rEn9zSWZTpw) | [Darmadağın](https://open.spotify.com/album/0HMPFUcDLhIYDuOUlU8cpl) | 3:14 | 2024-02-29 | 2024-03-29 |
 | [DEFOL](https://open.spotify.com/track/6bZXS4iBLq09KhK6Mr569I) | [Lil Zey](https://open.spotify.com/artist/7Gx2wDVHyW5HJh7dc2t5h7) | [DEFOL](https://open.spotify.com/album/0qclcDdgeV7AM80qcBnWtm) | 2:53 | 2023-05-04 | 2024-02-02 |
 | [Degişir Adresim](https://open.spotify.com/track/04blQ72Bz8isZajEftjYJu) | [Şiir!](https://open.spotify.com/artist/3xAajp4pZmP2HKx0NcTsdf), [No.1](https://open.spotify.com/artist/4fR3W8XFXsqHB8f8IqEr1y) | [Degişir Adresim](https://open.spotify.com/album/2Fxz4mp2wh4Y9ydTSB3kSQ) | 2:33 | 2023-11-09 | 2023-11-18 |
@@ -324,6 +324,7 @@
 | [Patron](https://open.spotify.com/track/7HBvkEYHY8rhn4puR1TcjV) | [Organize](https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3) | [Kalite](https://open.spotify.com/album/3OYu2np3Hm0zpkcNBFV0V9) | 1:50 | 2023-01-10 | 2023-01-13 |
 | [PAVYON](https://open.spotify.com/track/77m8HNEtKmDTD0A3mSIP6J) | [masthon](https://open.spotify.com/artist/7sEM2coB7d8PGVKBbyBWD8) | [KAPITAL](https://open.spotify.com/album/34TsaH9wHudgsQqrSGj1VT) | 2:30 | 2023-05-04 | 2023-05-06 |
 | [PHONK \(200mg\)](https://open.spotify.com/track/4cgVi9Xzj8velq5QsqNhra) | [DEHA INC.](https://open.spotify.com/artist/2qW4eDZVrF6mlcuaTBEMjh) | [CAFFEINEE](https://open.spotify.com/album/7ASieGwTHZPETx33e34bFV) | 1:44 | 2023-04-13 | 2023-06-02 |
+| [PİŞT](https://open.spotify.com/track/2ugG3itPOpM9IANApt473B) | [Era7capone](https://open.spotify.com/artist/4UW9Hdsrx9kX2HdJ90jRKM) | [PİŞT](https://open.spotify.com/album/3hnXIAnReIwV44sfj1GdO4) | 2:08 | 2024-10-04 |  |
 | [Pofuduk](https://open.spotify.com/track/7eaIFSCVBsXIwQ03aG8ClE) | [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL), [Jugglerz](https://open.spotify.com/artist/5dM0ApSI0k1TcOseiik0sY) | [Pofuduk](https://open.spotify.com/album/5eNHvrxTk4IdTgqFB1cLmu) | 2:22 | 2023-08-10 | 2023-10-01 |
 | [POP](https://open.spotify.com/track/1UWEafiPTYY6Ym2GKxTCGg) | [Güneş](https://open.spotify.com/artist/0L3wrFI3QcbXAvFL7IaPQX) | [POP](https://open.spotify.com/album/0EZoxOrmBvdaYl7IY6LBW7) | 2:57 | 2023-11-16 | 2023-12-14 |
 | [PROBLEM](https://open.spotify.com/track/5eiKp3MvvcdRDtj7Wos7W9) | [KÖK$VL](https://open.spotify.com/artist/5fO16dsHVrojWL2mPzcdpq), [Ben Fero](https://open.spotify.com/artist/2kS0jWMkkFBL0mrl0VotD0) | [PROBLEM](https://open.spotify.com/album/5O4QvHmAzleLNEtGCK1cLG) | 2:41 | 2024-07-18 | 2024-08-09 |

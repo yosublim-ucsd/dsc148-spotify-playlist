@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdC7eRcOJUCw.md) - [plain]
 
 > Estas damas sí que tienen carácter\. Ana Gabriel en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,586 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,726 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdC7eRcOJUCw.md) - [plain]
 | 40 | [Potpourrí ranchero \(Copitas de mezcal, La tequilera, La charreada\)](https://open.spotify.com/track/3pTc8iglU79rMrTkI2fS22) | [Beatriz Adriana](https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ) | [¡ Ora pues !](https://open.spotify.com/album/7o88TvoiVuWuHRoXQXsfJA) | 3:44 |
 | 41 | [Todo Todo](https://open.spotify.com/track/0KgGExcX5bvGnPEQLGOwTg) | [Camila Fernández](https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q) | [Todo Todo](https://open.spotify.com/album/7otDsXrHpPrWZNEWhurGCD) | 3:14 |
 | 42 | [Ya Me Voy Para Siempre](https://open.spotify.com/track/1zCfG4iMtCvcCjkoa2kJa7) | [Chayito Valdez](https://open.spotify.com/artist/6gIehxc3KkKZYb4ktiuQ04) | [15 Éxitos: Chayito Valdez](https://open.spotify.com/album/36a05M8c3EUno9kl5gePDs) | 3:17 |
-| 43 | [Resulta](https://open.spotify.com/track/4fsjK8V9s53YyQx5zTlncb) | [Lucha Villa](https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1) | [Lucha Villa Y Aida](https://open.spotify.com/album/3kF64rtPcA7kwv38JKyica) | 4:25 |
-| 44 | [El Herradero](https://open.spotify.com/track/0eruhuXt2G3Vp539IAL0KA) | [Angeles Ochoa](https://open.spotify.com/artist/2prMnWB5tOQxIU1tUlqAnu) | [Divas Rancheras](https://open.spotify.com/album/4jNImotbdAKoAebE11pAaM) | 3:26 |
+| 43 | [El Herradero](https://open.spotify.com/track/0eruhuXt2G3Vp539IAL0KA) | [Angeles Ochoa](https://open.spotify.com/artist/2prMnWB5tOQxIU1tUlqAnu) | [Divas Rancheras](https://open.spotify.com/album/4jNImotbdAKoAebE11pAaM) | 3:26 |
+| 44 | [Resulta](https://open.spotify.com/track/4fsjK8V9s53YyQx5zTlncb) | [Lucha Villa](https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1) | [Lucha Villa Y Aida](https://open.spotify.com/album/3kF64rtPcA7kwv38JKyica) | 4:25 |
 | 45 | [Ojo Por Ojo](https://open.spotify.com/track/2aLFy6p8TtSRwUhi3UYxV4) | [Alicia Villarreal](https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn) | [Ojo Por Ojo](https://open.spotify.com/album/1DupAlEMZXO1evsuZmYYG4) | 3:01 |
 | 46 | [Contigo En La Distancia](https://open.spotify.com/track/1keRDIpM0Kv4wHE5sjuBpy) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Bolero](https://open.spotify.com/album/2XltOEB0eKfJ8hxoa9tJoy) | 3:46 |
 | 47 | [Una Vida](https://open.spotify.com/track/4e3o6V532LdEuBtr3WEPDQ) | [Camila Fernández](https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q) | [Camila Fernández](https://open.spotify.com/album/1x6Dtb9QaGaGDTCzfSpmjq) | 2:57 |

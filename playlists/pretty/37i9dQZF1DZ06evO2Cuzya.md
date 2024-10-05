@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Cuzya.md) - [plain]
 
 > This is Gracie Abrams\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,473 likes - 33 songs - 1 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,702 likes - 33 songs - 1 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,4 +42,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Cuzya.md) - [plain]
 | 32 | [Brush Fire](https://open.spotify.com/track/4jp8ragG1fHm1eucECebYF) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Brush Fire](https://open.spotify.com/album/0q9LcQHXp9DuszlWNJZoLB) | 3:10 |
 | 33 | [i love you, i'm sorry \(gracie abrams\) \- sped up version](https://open.spotify.com/track/3GrmAc2Gi0XMEwi3Scx6w9) | [sped up viral](https://open.spotify.com/artist/3hYgfaELzhbTbvax70GtqM), [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [i love you, i'm sorry \(gracie abrams\) \[sped up version\]](https://open.spotify.com/album/1CR9fymG325FMJhVfKVpqe) | 2:10 |
 
-Snapshot ID: `ZvyNAAAAAAArI2t/Rcxb+00/2ymxV4xn`
+Snapshot ID: `Zv3egAAAAAD/vPTb9PKK/QCG30JuHPCe`

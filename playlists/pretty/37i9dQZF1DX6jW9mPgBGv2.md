@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6jW9mPgBGv2.md) - [plain]
 
 > El rango más alto\. Ellos lo tienen y lo saben\. Ovi y Hades66 plantando cara.
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,432 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,570 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6jW9mPgBGv2.md) - [plain]
 | 35 | [PESO COMPLETO](https://open.spotify.com/track/1nCXy1RQQYMgt97DO8uCSI) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [PESO COMPLETO](https://open.spotify.com/album/0omumEPaOKxBunEn2xh0zQ) | 3:13 |
 | 36 | [Brindemos](https://open.spotify.com/track/5P8TXlZCMwru6DaMsIbbO3) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Real Hasta la Muerte](https://open.spotify.com/album/5pQwQRnQOuKrbVUVnGMEN4) | 3:36 |
 | 37 | [Millo](https://open.spotify.com/track/24AF2GjSvGI0RRXTTUnE6d) | [Dehry](https://open.spotify.com/artist/4LgrJOeMIq6iXZIPK3PczA), [Tivi Gunz](https://open.spotify.com/artist/68KUcl8ndJO5nUcLkuwIjI), [MC Albertico](https://open.spotify.com/artist/4NEqPORTyRAaVwrEAATFWO) | [Millo](https://open.spotify.com/album/4yQ1Fbc1n8DRCrw2DFyBx1) | 3:19 |
-| 38 | [So High](https://open.spotify.com/track/1QrBIMTIramCrU6B1v2DPr) | [Omy de Oro](https://open.spotify.com/artist/65jIUih0ZeTUJhSTRuYxpi), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [So High](https://open.spotify.com/album/2fthPuOBEpenbqKMvCyIAw) | 2:46 |
+| 38 | [SO HIGH](https://open.spotify.com/track/1QrBIMTIramCrU6B1v2DPr) | [Omy de Oro](https://open.spotify.com/artist/65jIUih0ZeTUJhSTRuYxpi), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [SO HIGH](https://open.spotify.com/album/2fthPuOBEpenbqKMvCyIAw) | 2:46 |
 | 39 | [KTM](https://open.spotify.com/track/3EPIt4FqsVQLM48HozrcFr) | [JHAYCO](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [KTM](https://open.spotify.com/album/4tLv0V8sA8pwzlOBwGJgcF) | 6:06 |
 | 40 | [Drug Dealer](https://open.spotify.com/track/2dPAFgazUwT1m0CjLF6pae) | [Kidd Keo](https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km) | [2016](https://open.spotify.com/album/2nkZ7aU11LlxpeFinf2VTL) | 3:08 |
 | 41 | [TSA](https://open.spotify.com/track/2i040t6fajMZuFD8kq6EpF) | [YoGambii](https://open.spotify.com/artist/5RuWFvTN5tmKqn0KUfNruD), [Jamby El Favo](https://open.spotify.com/artist/128ftF9X7Kd7Di2fq3wYVs) | [TSA/Puntos Y Pasto](https://open.spotify.com/album/2eLpnnQTHNyOU4sOSmAHa2) | 2:50 |

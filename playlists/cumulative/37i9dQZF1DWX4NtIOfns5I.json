@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-10-07",
-  "description": "searows and bon iver in rotation \ud83d\udd01",
+  "description": "new music from baby bugs \ud83d\udc1b",
   "name": "juniper",
   "tracks": [
     {
@@ -448,7 +448,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 192961,
       "name": "Bruises Off The Peach",
       "url": "https://open.spotify.com/track/6DdAZ0zZmmSwM8uqoVlepL"
@@ -1350,7 +1350,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 234753,
       "name": "End Of The World",
       "url": "https://open.spotify.com/track/5RXjt2s4HBJw3TcaAzwSrD"
@@ -3431,6 +3431,24 @@
     },
     {
       "album": {
+        "name": "In My Bones",
+        "url": "https://open.spotify.com/album/71SOQSZ4pKoTkwq86AJUxT"
+      },
+      "artists": [
+        {
+          "name": "Baby Bugs",
+          "url": "https://open.spotify.com/artist/3TBTcHpZ3aV1g8rk8i1zb5"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145938,
+      "name": "My Corpse Friend",
+      "url": "https://open.spotify.com/track/1wfwCZIj2bkXUNuZCMkQlQ"
+    },
+    {
+      "album": {
         "name": "Are You Happy Now?",
         "url": "https://open.spotify.com/album/5NaLnnKsTGdzPuSZceQpa9"
       },
@@ -5120,7 +5138,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 139024,
       "name": "The Bell Jar",
       "url": "https://open.spotify.com/track/1LUek8Od6zrrcPxhXrkNIz"
@@ -5531,6 +5549,24 @@
     },
     {
       "album": {
+        "name": "Triple Marathon",
+        "url": "https://open.spotify.com/album/2PSzv4iDxvcbfTHL11obmh"
+      },
+      "artists": [
+        {
+          "name": "Medium Build",
+          "url": "https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157223,
+      "name": "Triple Marathon",
+      "url": "https://open.spotify.com/track/6gEl8SZNT90jyNCXVhZ3BO"
+    },
+    {
+      "album": {
         "name": "the record",
         "url": "https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI"
       },
@@ -5842,7 +5878,7 @@
       ],
       "date_added": "2024-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 224346,
       "name": "What Nightmares Are Made Of",
       "url": "https://open.spotify.com/track/5PuWGjgbFfaxhMLiwmSzHV"

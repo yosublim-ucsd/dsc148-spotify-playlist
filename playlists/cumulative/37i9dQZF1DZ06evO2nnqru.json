@@ -1495,6 +1495,28 @@
     },
     {
       "album": {
+        "name": "Rose Coke",
+        "url": "https://open.spotify.com/album/1fgEgY5hJmMt6wxrSqjTII"
+      },
+      "artists": [
+        {
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        },
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "date_added": "2024-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166374,
+      "name": "Rose Coke",
+      "url": "https://open.spotify.com/track/7MXVUKspl6iGnEgwaY0FyP"
+    },
+    {
+      "album": {
         "name": "Despegando el Vuelo (En vivo)",
         "url": "https://open.spotify.com/album/3Ftnxdxa5fGWKuMMrncCNF"
       },
@@ -1506,7 +1528,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 276035,
       "name": "Sabes Amor - En vivo",
       "url": "https://open.spotify.com/track/70Py0XCeJloi2ERN3w3Mj7"

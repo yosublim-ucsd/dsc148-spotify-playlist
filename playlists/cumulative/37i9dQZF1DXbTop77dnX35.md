@@ -4,7 +4,7 @@
 
 > New Music from Phyno and more
 
-958 songs - 1 day 23 hr 13 min
+960 songs - 1 day 23 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [ALL THE GIRLS](https://open.spotify.com/track/2sB9DOMmlwkZN79v8k5mKS) | [ZIK](https://open.spotify.com/artist/1yALvmHRxEOu3aRW4A2vEk) | [FOR THE TIMES WE'VE LOST](https://open.spotify.com/album/7hlfYHzL8AAxc2ylfCgqwk) | 3:30 | 2024-09-13 | 2024-09-20 |
 | [Allergy](https://open.spotify.com/track/64Ntvzfh6V4Cq7i4O1XxW9) | [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7) | [Allergy](https://open.spotify.com/album/26TnKWNugPfAIOY2wt0vUr) | 2:32 | 2024-09-13 | 2024-09-20 |
 | [Allure \(feat\. Future & Mike WiLL Made\-It\)](https://open.spotify.com/track/2ReP8wMRWXJIF91TZ9CjZZ) | [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Mike WiLL Made\-It](https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk) | [Allure \(feat\. Future & Mike WiLL Made\-It\)](https://open.spotify.com/album/25gXlZRYlLdjd3iOjB0FDQ) | 3:09 | 2024-10-04 |  |
+| [Alone \- Remix](https://open.spotify.com/track/2GSK9VfsKWpVOV6ZzKiMA4) | [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z), [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Alone \(Remix\)](https://open.spotify.com/album/1bE7lrP5TzEIX3UHiwMhKR) | 2:34 | 2024-10-04 |  |
 | [Alright](https://open.spotify.com/track/7CxmcGj4sXX9ZhjGUgOb3f) | [Niphkeys](https://open.spotify.com/artist/6vAWSq2hKcuItyByR5krQV), [Mohbad](https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa), [HADURAH](https://open.spotify.com/artist/4w8lSsts1Kw64Rzp1ItXco) | [Alright](https://open.spotify.com/album/0MLdJT6OYklHVHbX6hLhDi) | 2:54 | 2024-06-14 | 2024-06-21 |
 | [Amazing](https://open.spotify.com/track/5Co4ZSnS3GCLljt8yqHj3Q) | [RCEE](https://open.spotify.com/artist/5aMc9Z99UvAnSOGYAlZsHb) | [How Did We Get Here?](https://open.spotify.com/album/4SlUgqYPbHFdMgCx1HIpNF) | 2:44 | 2024-09-27 | 2024-10-04 |
 | [Amazing Grace](https://open.spotify.com/track/43RN0F4crBoN8Uv4YrRKUG) | [Reekado Banks](https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn), [Yinka Bernie](https://open.spotify.com/artist/5TuVpSIsvh6lKoKLBsAxFL), [Bosco Soundtrack](https://open.spotify.com/artist/4vkkMvu0BYvfIsioM7U7w6) | [Amazing Grace](https://open.spotify.com/album/1kXYVUHCOO5rYsW5kWGXBu) | 3:11 | 2024-09-06 | 2024-09-13 |
@@ -359,6 +360,7 @@
 | [HURTS LIKE HEAVEN](https://open.spotify.com/track/12X4xWpq0wNgHNDtyJhI2E) | [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [La Soülchyld](https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV), [Zowie Kengocha](https://open.spotify.com/artist/2lwHCnbymJQL6WUDaEKdci) | [For The Love of R&B Vol 1](https://open.spotify.com/album/14Vvfpl0hS8n1r3GGIKzoZ) | 4:09 | 2024-10-04 |  |
 | [I BELIEVE](https://open.spotify.com/track/4K31DOojXo1oOWBF5XJOzh) | [Don Crucifixto](https://open.spotify.com/artist/18gL5f3O56nZPsJMPPHTys), [Rotimi](https://open.spotify.com/artist/1xBARhKI09ZTmeePVDWMCf) | [BELIEVE IN FOREVER](https://open.spotify.com/album/7qOKvQ3NOxCkSDKA1p5d9Z) | 3:11 | 2024-07-19 | 2024-07-27 |
 | [I Can](https://open.spotify.com/track/1q755nDEIApNtuP9vpc3hr) | [Demzy Baye](https://open.spotify.com/artist/1DT147s4ZUrZmN1eVcXf23), [Champion rolie](https://open.spotify.com/artist/36gTnhqXIA4IvtsdDe4Sbh), [Dwp Academy](https://open.spotify.com/artist/4Lcg9JcF2mGeXncIyIrr41) | [I Can](https://open.spotify.com/album/6V66xeupaMrCGjGI2klNWg) | 2:20 | 2024-07-05 | 2024-07-12 |
+| [I Do \(feat\. Muni Long\)](https://open.spotify.com/track/5TbYIeYkGgGtYL7sms7m9N) | [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [JADED](https://open.spotify.com/album/1XcpYmfE4vYCKeLQYINlO7) | 2:46 | 2024-10-04 |  |
 | [I Don't Wanna Die](https://open.spotify.com/track/0Ha71IjOuY5K1mbTvXk1XY) | [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP) | [444](https://open.spotify.com/album/1W1wfMUuSh97ji84BqRu7A) | 2:00 | 2024-07-26 | 2024-08-02 |
 | [I Go Nowhere](https://open.spotify.com/track/30lw22MOogItXMtZn9rI1U) | [Dwin, The Stoic](https://open.spotify.com/artist/4G4MrV1YIxHLGXRlhrIPmC) | [I Go Nowhere](https://open.spotify.com/album/2YCOJ9tXv4fJR53khVFFig) | 2:54 | 2024-06-14 | 2024-06-21 |
 | [I Need Your Love](https://open.spotify.com/track/5e8euQ8kelEedWMuulWG5O) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [I'll Always Come Find You](https://open.spotify.com/album/7MXxt6ult07PrDraCxb5EK) | 3:09 | 2024-07-19 | 2024-07-27 |

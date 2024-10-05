@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Le meilleur du hip-hop qu\u00e9b\u00e9cois. Photo: Lost",
+  "description": "Le meilleur du hip-hop qu\u00e9b\u00e9cois. Photo: Souldia",
   "name": "Rap qu\u00e9b",
   "tracks": [
     {
@@ -9444,7 +9444,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 192346,
       "name": "Nouvelle vie",
       "url": "https://open.spotify.com/track/4nXsx2uiPr0fOYRLa6xB52"
@@ -14618,6 +14618,24 @@
       "duration_ms": 220000,
       "name": "\u00c9pitaphe",
       "url": "https://open.spotify.com/track/2HaEfEful55EwS8hEhf97k"
+    },
+    {
+      "album": {
+        "name": "\u00c9tat sauvage",
+        "url": "https://open.spotify.com/album/4iJYoyKYxXRuskQSwWBB5Q"
+      },
+      "artists": [
+        {
+          "name": "Souldia",
+          "url": "https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188800,
+      "name": "\u00c9tat sauvage",
+      "url": "https://open.spotify.com/track/1JutRIZ2wUehAR74oDa8Ot"
     },
     {
       "album": {

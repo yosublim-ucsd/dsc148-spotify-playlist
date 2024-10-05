@@ -4,7 +4,7 @@
 
 > The tracks heating up the continent right now!  Cover:  <a href="https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV?si=rpS8TM7OSmC9Nn2PvkKWvg"> Kizz Daniel</a>
 
-435 songs - 1 day 1 hr 50 min
+436 songs - 1 day 1 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [CHOPLIFE \(feat\. Patoranking\)](https://open.spotify.com/track/5F5OkyidOWn8gj4vQhD7QM) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [CHOPLIFE \(feat\. Patoranking\)](https://open.spotify.com/album/04UO0sJC1oRi1N8kpRKiWf) | 3:33 | 2021-12-09 | 2022-04-01 |
 | [City Boys](https://open.spotify.com/track/4RoKNqyZ9622tcAeNPNv5k) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [I Told Them...](https://open.spotify.com/album/1JzjwUKkPsdHg1SQ7qa5hc) | 2:33 | 2023-08-24 | 2024-05-17 |
 | [Commas](https://open.spotify.com/track/3JozQbIWMHBTKIghXKehVy) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Commas](https://open.spotify.com/album/5UX3Gr5uFrtvRvIScps1gA) | 2:37 | 2024-02-02 | 2024-08-01 |
+| [Constantly](https://open.spotify.com/track/3MldGIMtPcupNBI4Dnxolr) | [Hyce](https://open.spotify.com/artist/1KQuzZH1ix85vt0n3iiRTA), [BoyPee](https://open.spotify.com/artist/1zjv7k3fmK1MJIA2CdaCAh), [Brown Joel](https://open.spotify.com/artist/2A9kNdL3S9DKEIjhZJZZfM) | [Constantly](https://open.spotify.com/album/6tqG51134jDxxuWMaEgn8O) | 3:13 | 2024-10-04 |  |
 | [Continental \(feat\. Shallipopi\)](https://open.spotify.com/track/5p3PWZEHyHxlFhoROX4dzz) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Continental \(feat\. Shallipopi\)](https://open.spotify.com/album/0WjeuE3MxIdRxWUb8PURa8) | 3:00 | 2024-06-14 | 2024-08-30 |
 | [Contour](https://open.spotify.com/track/5OBtqiT5Zg1BqXPx4bBo6T) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Contour](https://open.spotify.com/album/6KEXrw3lLGz9dFro9bwIri) | 3:09 | 2023-05-18 | 2023-10-13 |
 | [Cough \(Odo\)](https://open.spotify.com/track/0u2A4QNAMUyfQbgfVR3HvK) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV), [EMPIRE](https://open.spotify.com/artist/3hPFJ4ShHVEAaL689YeblD) | [Cough \(Odo\)](https://open.spotify.com/album/3j33Z0rLryDGCZFRhppoZq) | 2:56 | 2022-10-28 | 2023-10-13 |
@@ -112,7 +113,7 @@
 | [Dealer](https://open.spotify.com/track/5Wxkvvb6pLky16pwq4gBI3) | [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Dealer](https://open.spotify.com/album/3RShBBcnQmqfmBJgmfz3or) | 3:00 | 2024-07-31 |  |
 | [DECLAN RICE](https://open.spotify.com/track/1sEIkVGd7fG4K5wFQS6f6y) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [DECLAN RICE](https://open.spotify.com/album/2CVwxKWCF92MeTLjmdJFXy) | 2:04 | 2023-04-20 | 2023-06-09 |
 | [Different Pattern](https://open.spotify.com/track/7FB5261Iv3MRbSz13HYP5l) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [NAHAMciaga](https://open.spotify.com/album/25W5Z67RX9uv82fijyx9Yk) | 2:03 | 2024-02-27 | 2024-04-26 |
-| [Disconnect \(feat\. Marioo\)](https://open.spotify.com/track/5QH75Csj5dy5eJA66cyOZ4) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL), [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe) | [Disconnect \(feat\. Marioo\)](https://open.spotify.com/album/5mMzFbsinhdB2lCXOwKc1j) | 3:25 | 2024-06-07 |  |
+| [Disconnect \(feat\. Marioo\)](https://open.spotify.com/track/5QH75Csj5dy5eJA66cyOZ4) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL), [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe) | [Disconnect \(feat\. Marioo\)](https://open.spotify.com/album/5mMzFbsinhdB2lCXOwKc1j) | 3:25 | 2024-06-07 | 2024-10-05 |
 | [DND](https://open.spotify.com/track/0RPXUuLjVHolWYkaXCndXD) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [RAVAGE](https://open.spotify.com/album/4FNo7grg0Z6cbOwgzNwyD9) | 2:46 | 2024-04-19 | 2024-07-12 |
 | [DND](https://open.spotify.com/track/4E8EciYYzTKF4REO51XQiS) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [RAVAGE](https://open.spotify.com/album/53oOgXjjaTx42Sy2exYlH9) | 2:46 | 2023-11-08 | 2024-04-19 |
 | [Do I \- Remix](https://open.spotify.com/track/7yKjDDd9w01nFEOD5adoHq) | [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Do I \(Remix\)](https://open.spotify.com/album/5aVA4avxVgyg1S6iVQpx0m) | 2:18 | 2024-01-26 | 2024-08-01 |

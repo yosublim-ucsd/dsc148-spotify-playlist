@@ -1,6 +1,6 @@
 {
   "description": "welcome to our \ud835\udd9a\ud835\udd93\ud835\udd8e\ud835\udd9b\ud835\udd8a\ud835\udd97\ud835\udd98\ud835\udd8a ft. The Horrors",
-  "num_followers": 719959,
+  "num_followers": 719970,
   "original_name": "misfits 2.0",
   "owner": {
     "name": "Spotify",
@@ -627,6 +627,26 @@
     {
       "added_at": "2024-10-03 23:00:00",
       "album": {
+        "name": "Live & Direct",
+        "url": "https://open.spotify.com/album/6cyktdv1fqQlrqwS6X0os1"
+      },
+      "artists": [
+        {
+          "name": "glaive",
+          "url": "https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565"
+        },
+        {
+          "name": "kurtains",
+          "url": "https://open.spotify.com/artist/7b2FbxYmnpGMPqDe04QmyP"
+        }
+      ],
+      "duration_ms": 107089,
+      "name": "Live & Direct",
+      "url": "https://open.spotify.com/track/1AFB8RNDYOavAYKqAQoZFR"
+    },
+    {
+      "added_at": "2024-10-03 23:00:00",
+      "album": {
         "name": "THE LOOP",
         "url": "https://open.spotify.com/album/08cZo226Nohp96HumDt2HH"
       },
@@ -755,7 +775,7 @@
     {
       "added_at": "2024-10-03 23:00:00",
       "album": {
-        "name": "2BADGYALS",
+        "name": "2BADGYALZ",
         "url": "https://open.spotify.com/album/5Lx2hE5ENvPQJplNUXYxrC"
       },
       "artists": [
@@ -765,7 +785,7 @@
         }
       ],
       "duration_ms": 101500,
-      "name": "2BADGYALS",
+      "name": "2BADGYALZ",
       "url": "https://open.spotify.com/track/2R5vY0DGyGkoW1Q13SNCzr"
     },
     {

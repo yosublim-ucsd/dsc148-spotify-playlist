@@ -1022,7 +1022,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-04",
+      "date_removed": null,
       "duration_ms": 161655,
       "name": "Alibi (with Pabllo Vittar & Yseult)",
       "url": "https://open.spotify.com/track/5496lks6V3fh1mZAB6IAap"
@@ -1048,7 +1048,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 161655,
       "name": "Alibi (with Pabllo Vittar & Yseult)",
       "url": "https://open.spotify.com/track/6G15l720kBWvIQZyoEJEYE"
@@ -11298,7 +11298,7 @@
       ],
       "date_added": "2024-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 187520,
       "name": "Numb",
       "url": "https://open.spotify.com/track/2nLtzopw4rPReszdYBJU6h"
@@ -16668,7 +16668,7 @@
       ],
       "date_added": "2024-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-29",
+      "date_removed": null,
       "duration_ms": 170887,
       "name": "Who",
       "url": "https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU"
@@ -16802,6 +16802,24 @@
       "duration_ms": 259200,
       "name": "Wings of Lina",
       "url": "https://open.spotify.com/track/2wGqFYPabvYLFO7CjXaYue"
+    },
+    {
+      "album": {
+        "name": "The Eminem Show",
+        "url": "https://open.spotify.com/album/2cWBwpqMsDJC1ZUwz813lo"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290320,
+      "name": "Without Me",
+      "url": "https://open.spotify.com/track/7lQ8MOhq6IN2w8EYcFNSUk"
     },
     {
       "album": {
@@ -18288,7 +18306,7 @@
       ],
       "date_added": "2024-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 84000,
       "name": "\u0431\u043e\u043b\u044c\u043d\u043e",
       "url": "https://open.spotify.com/track/2xEFfGz4j5UpL2FNEhVI81"
@@ -26508,7 +26526,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-27",
+      "date_removed": null,
       "duration_ms": 172094,
       "name": "\u043f\u043e\u0440\u0442\u0440\u0435\u0442\u044b - Acoustic",
       "url": "https://open.spotify.com/track/7ojBwkKhmZzXDjrqwfLH26"
@@ -27004,7 +27022,7 @@
       ],
       "date_added": "2024-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 121558,
       "name": "\u0420\u0430\u043d\u0430",
       "url": "https://open.spotify.com/track/4GNVBarJ82ABAYZyPYwinT"
@@ -28656,7 +28674,7 @@
       ],
       "date_added": "2024-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-04",
+      "date_removed": null,
       "duration_ms": 148793,
       "name": "\u0422\u0435\u0430\u0442\u0440",
       "url": "https://open.spotify.com/track/6iNsAoVPOnC2ikhnNygKQM"
@@ -28768,7 +28786,7 @@
       ],
       "date_added": "2024-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 176000,
       "name": "\u0422\u0435\u043c\u043f\u0435\u0440\u0430\u0442\u0443\u0440\u0430",
       "url": "https://open.spotify.com/track/4jv6YqdzJSlDfCbvW3F6o6"

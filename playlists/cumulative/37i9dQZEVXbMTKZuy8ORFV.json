@@ -1170,7 +1170,7 @@
       ],
       "date_added": "2024-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 182969,
       "name": "AUNQUE NO DIGAS NADA",
       "url": "https://open.spotify.com/track/5ppADN6WbBHCglJPN6oqII"
@@ -4120,7 +4120,7 @@
       ],
       "date_added": "2024-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-04",
+      "date_removed": null,
       "duration_ms": 145473,
       "name": "EL LOKERON",
       "url": "https://open.spotify.com/track/6X6m4xmdFcz31p1h7Qg68c"
@@ -5178,7 +5178,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 239400,
       "name": "Gardenias '87",
       "url": "https://open.spotify.com/track/1EA6r1EKa3BUMc9iVpYimv"
@@ -5411,7 +5411,7 @@
     },
     {
       "album": {
-        "name": "Hablame Claro",
+        "name": "HABLAME CLARO",
         "url": "https://open.spotify.com/album/2uAs0cfev3WKGaotTsREhI"
       },
       "artists": [
@@ -5426,9 +5426,9 @@
       ],
       "date_added": "2024-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-03",
+      "date_removed": null,
       "duration_ms": 154969,
-      "name": "Hablame Claro",
+      "name": "HABLAME CLARO",
       "url": "https://open.spotify.com/track/6ZCfGA0bPM50DPmcSlJKGY"
     },
     {
@@ -6680,7 +6680,7 @@
       ],
       "date_added": "2024-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-26",
+      "date_removed": null,
       "duration_ms": 318626,
       "name": "La Magia Est\u00e1 en Tu Piel",
       "url": "https://open.spotify.com/track/1lr3CWBoYPYOmgktzn0gWo"
@@ -6852,7 +6852,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 218119,
       "name": "La Rizos [Dime Si Le Comento a la Pura]",
       "url": "https://open.spotify.com/track/7pvqkMcGzRTWU0YpZoJj6U"
@@ -8658,7 +8658,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 285126,
       "name": "Mix Cumbias VV1 (Mil Preguntas, Doctorado, Mientes)",
       "url": "https://open.spotify.com/track/5Ml3L4YK3g0SjQLo21JWG0"
@@ -14904,6 +14904,24 @@
       "duration_ms": 188010,
       "name": "WOKE UP",
       "url": "https://open.spotify.com/track/4keuUM29CtIWgsPRzRhXoW"
+    },
+    {
+      "album": {
+        "name": "Woops",
+        "url": "https://open.spotify.com/album/5EzsDOIBR4P3uLchihopx5"
+      },
+      "artists": [
+        {
+          "name": "Bountyhunter",
+          "url": "https://open.spotify.com/artist/2LwFrAVwvSN81XO5KogNBl"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258013,
+      "name": "Woops",
+      "url": "https://open.spotify.com/track/2XeqqfeJgtG3mQI5xNeNTy"
     },
     {
       "album": {

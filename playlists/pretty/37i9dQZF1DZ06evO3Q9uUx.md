@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Q9uUx.md) - [plain]
 
 > This is BIA\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,842 likes - 51 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,851 likes - 51 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Q9uUx.md) - [plain]
 | 23 | [Trampoline \(feat\. Missy Elliott, BIA and Doechii\)](https://open.spotify.com/track/0gIVNoo3H05GyR4ExxmQOa) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Trampoline \(feat\. Missy Elliott, BIA and Doechii\)](https://open.spotify.com/album/2Pr2gqGNGdyyqUMCkQ0V2V) | 2:24 |
 | 24 | [BESITO \(feat\. G Herbo\)](https://open.spotify.com/track/1JTJws1FmfNRrF90bns0TT) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [FOR CERTAIN \(Deluxe\)](https://open.spotify.com/album/76j8Cihag4ps0oykYSo0Bc) | 2:11 |
 | 25 | [BIA BIA \(feat\. Lil Jon\)](https://open.spotify.com/track/23xteU6IlMeNxJ2sYcjHlR) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK) | [FOR CERTAIN](https://open.spotify.com/album/5B857SgrQIAmcJGj0sFOSg) | 2:05 |
-| 26 | [808](https://open.spotify.com/track/6q2MPZVa5Mb5PjJEVUWvYK) | [DJ Bliss](https://open.spotify.com/artist/4SePAG9OlC4tupADxTPs9s), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [808](https://open.spotify.com/album/0TMLxS4EwK3d1qgjXZ6AOI) | 2:21 |
-| 27 | [I'M THAT BITCH](https://open.spotify.com/track/39uEuUEWsAZtozSQRPlf62) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ) | [I'M THAT BITCH](https://open.spotify.com/album/3XZmrh1D5RI5kvz5N6i6Lp) | 2:32 |
+| 26 | [I'M THAT BITCH](https://open.spotify.com/track/39uEuUEWsAZtozSQRPlf62) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ) | [I'M THAT BITCH](https://open.spotify.com/album/3XZmrh1D5RI5kvz5N6i6Lp) | 2:32 |
+| 27 | [808](https://open.spotify.com/track/6q2MPZVa5Mb5PjJEVUWvYK) | [DJ Bliss](https://open.spotify.com/artist/4SePAG9OlC4tupADxTPs9s), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [808](https://open.spotify.com/album/0TMLxS4EwK3d1qgjXZ6AOI) | 2:21 |
 | 28 | [FALLBACK](https://open.spotify.com/track/7hnxhq0SI3FWYJtsRnWroM) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [REALLY HER](https://open.spotify.com/album/4acZyhrXnAZR3PSDLAaoX5) | 2:31 |
 | 29 | [COVER GIRL](https://open.spotify.com/track/3l1DD2X1lomNhj6xO3ftcb) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [FOR CERTAIN](https://open.spotify.com/album/5B857SgrQIAmcJGj0sFOSg) | 2:29 |
 | 30 | [Labels\. \(ft\. Moneybagg Yo, BIA\)](https://open.spotify.com/track/3H6jIGAjC93RTm9MihQe3w) | [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [KIKI](https://open.spotify.com/album/6UmILTxwjM8sME3wbsZgQh) | 2:35 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Q9uUx.md) - [plain]
 | 50 | [RAISE THE STAKES](https://open.spotify.com/track/0fA3Ec33j9N38YKaRCl2r8) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [REALLY HER \(INTL DELUXE\)](https://open.spotify.com/album/28Yvo0JYp7oZe1fsNsh7H2) | 2:23 |
 | 51 | [PLATE](https://open.spotify.com/track/7qkmotkXzezx5iJmU7xxfB) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [FOR CERTAIN](https://open.spotify.com/album/5B857SgrQIAmcJGj0sFOSg) | 2:36 |
 
-Snapshot ID: `ZvyNAAAAAAAjUA/cBqZnuiPl1VT/9R8o`
+Snapshot ID: `Zv3egAAAAABbvCRD6S3gRnlIfMB5w+1q`

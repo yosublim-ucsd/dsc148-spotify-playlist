@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Liv35LmYo1.md) - [plain]
 
 > Moody electronica for the night shift
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,225 likes - 50 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,226 likes - 50 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Liv35LmYo1.md) - [plain]
 | 22 | [Whatever Happens, Happens](https://open.spotify.com/track/7JCDUpvqoOsUI80cQezG7M) | [Loverground](https://open.spotify.com/artist/3SvoerawAn5RAZ2N9osc3z) | [Whatever Happens, Happens](https://open.spotify.com/album/1WJ9gGJIFiHEcAgTMMwtD8) | 3:47 |
 | 23 | [RUSH \(Blush\)](https://open.spotify.com/track/6pjI3CKUkIGbvSgo7TuRuu) | [Willo](https://open.spotify.com/artist/7ssD6eT1Te3ugcd1noTNLA) | [RUSH \(Blush\)](https://open.spotify.com/album/3Mb7Mtq5mzfrHsfL8EloXp) | 4:02 |
 | 24 | [Sweet Memory](https://open.spotify.com/track/66Wu67u1XZFn7cBOjWf6lD) | [Kloyd](https://open.spotify.com/artist/2KF47WT2Ju9B5tFlNU7Uz7) | [Sweet Memory](https://open.spotify.com/album/0XR0svgHXksDF4hZSOP44z) | 3:31 |
-| 25 | [Justine](https://open.spotify.com/track/2saPzK0KELO2hH2vBLsZDV) | [Jacana People](https://open.spotify.com/artist/2f0w048dh1LH5QPDvwKECY) | [Justine](https://open.spotify.com/album/7s3RMMU2Bd7Bi239eze4Wt) | 3:39 |
-| 26 | [Cold](https://open.spotify.com/track/7sIPjaEIz3puBvD9eLlSWs) | [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t) | [Cold](https://open.spotify.com/album/0osdfKk3BLKntTr04VYvlo) | 4:42 |
+| 25 | [Cold](https://open.spotify.com/track/7sIPjaEIz3puBvD9eLlSWs) | [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t) | [Cold](https://open.spotify.com/album/0osdfKk3BLKntTr04VYvlo) | 4:42 |
+| 26 | [Justine](https://open.spotify.com/track/2saPzK0KELO2hH2vBLsZDV) | [Jacana People](https://open.spotify.com/artist/2f0w048dh1LH5QPDvwKECY) | [Justine](https://open.spotify.com/album/7s3RMMU2Bd7Bi239eze4Wt) | 3:39 |
 | 27 | [Blush](https://open.spotify.com/track/2Dnh5y1kaUPymUifmimhD7) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh) | [Blush](https://open.spotify.com/album/4QWYTWnk5Cb1a7zUXQLGts) | 3:45 |
 | 28 | [Ante](https://open.spotify.com/track/6zcnsH77evVFfbfCkdpgMT) | [Cousin](https://open.spotify.com/artist/3riNyLWUNSai045asUQE3Q) | [Ante](https://open.spotify.com/album/0luWrdUTM961z0xjXPgJm7) | 4:20 |
 | 29 | [Afterglow](https://open.spotify.com/track/1NhtY0fQV9pna3FW6YH6PK) | [edapollo](https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm), [Jesse Kendal](https://open.spotify.com/artist/70kLAtCzsMiSqLU8qY7QQC) | [Afterglow](https://open.spotify.com/album/3VLtsXibcVJSiiHbSu3DYY) | 4:26 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Liv35LmYo1.md) - [plain]
 | 46 | [Memories In Flight](https://open.spotify.com/track/0c2mirf2nzleq4ctZ5vFKx) | [Sampology](https://open.spotify.com/artist/4si18qS80CBDvSo59qthZJ) | [Memories In Flight](https://open.spotify.com/album/581T6Mw7jPP4IGgFDrQAfE) | 3:49 |
 | 47 | [BOY](https://open.spotify.com/track/6Q3z3LmFRjPTBFaLCbsHOd) | [Ryan Hemsworth](https://open.spotify.com/artist/2CgysNw5B7rFNRtRjQbPZ9) | [BOY / if u wanna cry](https://open.spotify.com/album/79Wtz0l5ubAbkzlRJOk2Ie) | 3:03 |
 | 48 | [Violet \- DJ Python Remix](https://open.spotify.com/track/6JijA1sJukJFkEXlOnK9ZI) | [The Range](https://open.spotify.com/artist/5xsSdtWHooM9IL5WnDWTdD), [DJ Python](https://open.spotify.com/artist/1LoZxxInSyuVFKSMAB4BPl) | [Mercury Remixes](https://open.spotify.com/album/4dgG6jfRwyZyDLtB8F2yVZ) | 3:27 |
-| 49 | [Push Power \( a 1 \)](https://open.spotify.com/track/596CEIVQmslmJ6A179rwJq) | [Actress](https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH) | [Push Power \( a 1 \)](https://open.spotify.com/album/20HPh9pFEF3pRE895QinVJ) | 4:09 |
+| 49 | [I Wanted More](https://open.spotify.com/track/3yJ1WMCnDLJr72kbQdZB3J) | [rRoxymore](https://open.spotify.com/artist/559oW3wcVAW5tcL1DQniyf) | ['I Wanted More' EP](https://open.spotify.com/album/6ZPTQkazeYNUIN2XzInXqM) | 5:33 |
 | 50 | [ENCLOSURE](https://open.spotify.com/track/4izuPtp0dTuJF9xoqQR4W3) | [2XM](https://open.spotify.com/artist/3mvWwdMf9ypJJKRXg6eL32) | [ENCLOSURE](https://open.spotify.com/album/1hcGDnuOuufMcUn2QfmrQ0) | 4:19 |
 
 Snapshot ID: `ZPCc4AAAAAC5J1rGHHuxQ09SHq6yRPHV`

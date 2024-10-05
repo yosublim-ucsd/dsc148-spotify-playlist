@@ -1,6 +1,6 @@
 {
   "description": "Lo \u00faltimo y lo mejor de la salsa. Cover: Mike Bah\u00eda",
-  "num_followers": 1915860,
+  "num_followers": 1915844,
   "original_name": "Salsa Nation",
   "owner": {
     "name": "Spotify",
@@ -827,22 +827,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Cali Pachanguero 40 A\u00f1os",
-        "url": "https://open.spotify.com/album/4a75zchEpeHQj8y1A2kSRC"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 287093,
-      "name": "Cali Pachanguero 40 A\u00f1os",
-      "url": "https://open.spotify.com/track/64H2xGPNjBtXNsTWflotcl"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "Grandes Exitos",
         "url": "https://open.spotify.com/album/5syjNOn67VhltUhaZMkVoZ"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 262746,
       "name": "Abre Que Voy",
       "url": "https://open.spotify.com/track/3ihMiG7GPZdsWJcf7Tyevw"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Cali Pachanguero 40 A\u00f1os",
+        "url": "https://open.spotify.com/album/4a75zchEpeHQj8y1A2kSRC"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 287093,
+      "name": "Cali Pachanguero 40 A\u00f1os",
+      "url": "https://open.spotify.com/track/64H2xGPNjBtXNsTWflotcl"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -911,26 +911,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "La Vida Es Una Fiesta",
-        "url": "https://open.spotify.com/album/16a8ideBSg8vQrmhQy8xSZ"
-      },
-      "artists": [
-        {
-          "name": "Sergio George",
-          "url": "https://open.spotify.com/artist/4Ht1HigABvctq7wW4D3jAC"
-        },
-        {
-          "name": "Wisin",
-          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
-        }
-      ],
-      "duration_ms": 200391,
-      "name": "La Vida Es Una Fiesta",
-      "url": "https://open.spotify.com/track/2fR4C0tal4V0MV4SAcSFEH"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "Yo Deluxe",
         "url": "https://open.spotify.com/album/5dJ9HMLXMR6ALFr4dcBLPU"
       },
@@ -947,6 +927,26 @@
       "duration_ms": 208774,
       "name": "Es Un Secreto",
       "url": "https://open.spotify.com/track/1Wi86cXpfWulFjThqb3JcF"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "La Vida Es Una Fiesta",
+        "url": "https://open.spotify.com/album/16a8ideBSg8vQrmhQy8xSZ"
+      },
+      "artists": [
+        {
+          "name": "Sergio George",
+          "url": "https://open.spotify.com/artist/4Ht1HigABvctq7wW4D3jAC"
+        },
+        {
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
+        }
+      ],
+      "duration_ms": 200391,
+      "name": "La Vida Es Una Fiesta",
+      "url": "https://open.spotify.com/track/2fR4C0tal4V0MV4SAcSFEH"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Oro Salsero",
-        "url": "https://open.spotify.com/album/21W5Yp75UyOaWI2QALA7PS"
-      },
-      "artists": [
-        {
-          "name": "Lalo Rodriguez",
-          "url": "https://open.spotify.com/artist/5LmwELEKyxDFxrbZzR8K4U"
-        }
-      ],
-      "duration_ms": 384800,
-      "name": "Tu No Sabes Querer",
-      "url": "https://open.spotify.com/track/6GRFXhOIdiZmkZiNeGZ9Sm"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "Coraz\u00f3n Roto",
         "url": "https://open.spotify.com/album/4tf4JOp2NMGrOFTje7rg2A"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 208524,
       "name": "Coraz\u00f3n Roto",
       "url": "https://open.spotify.com/track/64NCHXiLhpgX0n9bgAnAaE"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Oro Salsero",
+        "url": "https://open.spotify.com/album/21W5Yp75UyOaWI2QALA7PS"
+      },
+      "artists": [
+        {
+          "name": "Lalo Rodriguez",
+          "url": "https://open.spotify.com/artist/5LmwELEKyxDFxrbZzR8K4U"
+        }
+      ],
+      "duration_ms": 384800,
+      "name": "Tu No Sabes Querer",
+      "url": "https://open.spotify.com/track/6GRFXhOIdiZmkZiNeGZ9Sm"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1719,26 +1719,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Bochinchero",
-        "url": "https://open.spotify.com/album/4QUSOz0vAbOGRAFAduJ6GY"
-      },
-      "artists": [
-        {
-          "name": "Motiff",
-          "url": "https://open.spotify.com/artist/5yjh35rXozitS6KLyjicLj"
-        },
-        {
-          "name": "Tito Nieves",
-          "url": "https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m"
-        }
-      ],
-      "duration_ms": 199656,
-      "name": "Bochinchero",
-      "url": "https://open.spotify.com/track/5ju2uIITK3ZXXhF9e074iG"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "Una Historia Musical",
         "url": "https://open.spotify.com/album/3Upn5Xs3hq5NC0SXlI4W79"
       },
@@ -1755,6 +1735,26 @@
       "duration_ms": 231306,
       "name": "Cuando Te Miro",
       "url": "https://open.spotify.com/track/22q2vb5U0lbiP6WYzJLF7x"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Bochinchero",
+        "url": "https://open.spotify.com/album/4QUSOz0vAbOGRAFAduJ6GY"
+      },
+      "artists": [
+        {
+          "name": "Motiff",
+          "url": "https://open.spotify.com/artist/5yjh35rXozitS6KLyjicLj"
+        },
+        {
+          "name": "Tito Nieves",
+          "url": "https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m"
+        }
+      ],
+      "duration_ms": 199656,
+      "name": "Bochinchero",
+      "url": "https://open.spotify.com/track/5ju2uIITK3ZXXhF9e074iG"
     },
     {
       "added_at": "2024-08-23 04:00:00",

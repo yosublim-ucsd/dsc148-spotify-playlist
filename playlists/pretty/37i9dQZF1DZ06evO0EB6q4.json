@@ -1,12 +1,12 @@
 {
   "description": "This is Nanpa B\u00e1sico. The essential tracks, all in one playlist.",
-  "num_followers": 227026,
+  "num_followers": 227125,
   "original_name": "This Is Nanpa B\u00e1sico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvyNAAAAAACRDrr+QH82D0phnkLJ6FOz",
+  "snapshot_id": "Zv3egAAAAACk3zPGb7NJh0Tj2MdcI6TU",
   "tracks": [
     {
       "added_at": null,
@@ -107,26 +107,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Canela",
-        "url": "https://open.spotify.com/album/6AgxVg5UPdPs5b0GCUEQ38"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        },
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        }
-      ],
-      "duration_ms": 204629,
-      "name": "Canela",
-      "url": "https://open.spotify.com/track/1yTJg3lyUPmwbnve82twH5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dib\u00fajame",
         "url": "https://open.spotify.com/album/46M0YKUmzyQm5yNAmqs3f0"
       },
@@ -147,6 +127,26 @@
       "duration_ms": 236932,
       "name": "Dib\u00fajame",
       "url": "https://open.spotify.com/track/0RKglZdTQ7BLrs6vplb2qm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Canela",
+        "url": "https://open.spotify.com/album/6AgxVg5UPdPs5b0GCUEQ38"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        },
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        }
+      ],
+      "duration_ms": 204629,
+      "name": "Canela",
+      "url": "https://open.spotify.com/track/1yTJg3lyUPmwbnve82twH5"
     },
     {
       "added_at": null,
@@ -683,26 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "HECHO M13RD4",
-        "url": "https://open.spotify.com/album/5XhTnZgcv9l8gUZOVVUxAY"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        },
-        {
-          "name": "SANTU",
-          "url": "https://open.spotify.com/artist/3P3HEwD70uW4S1Gs5fhO9L"
-        }
-      ],
-      "duration_ms": 172768,
-      "name": "Contrato",
-      "url": "https://open.spotify.com/track/1jqP6sxQDxabgEIeoOdT1Y"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vuelve",
         "url": "https://open.spotify.com/album/5lHHOwtZ9cV6A3fCo70MW9"
       },
@@ -719,6 +699,26 @@
       "duration_ms": 229982,
       "name": "Vuelve",
       "url": "https://open.spotify.com/track/7JLsVIpyj7hLi43uHs8BFZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "HECHO M13RD4",
+        "url": "https://open.spotify.com/album/5XhTnZgcv9l8gUZOVVUxAY"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        },
+        {
+          "name": "SANTU",
+          "url": "https://open.spotify.com/artist/3P3HEwD70uW4S1Gs5fhO9L"
+        }
+      ],
+      "duration_ms": 172768,
+      "name": "Contrato",
+      "url": "https://open.spotify.com/track/1jqP6sxQDxabgEIeoOdT1Y"
     },
     {
       "added_at": null,
@@ -783,6 +783,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Nunca Quise Escribirte una Balada",
+        "url": "https://open.spotify.com/album/4wFlI78FEuTROwAzUeRDBf"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        },
+        {
+          "name": "Sabino",
+          "url": "https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy"
+        }
+      ],
+      "duration_ms": 153242,
+      "name": "Nunca Quise Escribirte una Balada",
+      "url": "https://open.spotify.com/track/6NABVmTFslZbB8JEPx2DBl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bulevar (feat. Nanpa B\u00e1sico & Brray) [Remix]",
         "url": "https://open.spotify.com/album/2Zs2mVbPL5ZJyDYD4oshLD"
       },
@@ -811,26 +831,6 @@
       "duration_ms": 360910,
       "name": "Bulevar (feat. Nanpa B\u00e1sico & Brray) - Remix",
       "url": "https://open.spotify.com/track/0YFtiekZdGa81WeWgzbRAG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nunca Quise Escribirte una Balada",
-        "url": "https://open.spotify.com/album/4wFlI78FEuTROwAzUeRDBf"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        },
-        {
-          "name": "Sabino",
-          "url": "https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy"
-        }
-      ],
-      "duration_ms": 153242,
-      "name": "Nunca Quise Escribirte una Balada",
-      "url": "https://open.spotify.com/track/6NABVmTFslZbB8JEPx2DBl"
     },
     {
       "added_at": null,

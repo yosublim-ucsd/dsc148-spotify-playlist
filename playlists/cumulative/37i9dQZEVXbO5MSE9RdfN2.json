@@ -1810,7 +1810,7 @@
       ],
       "date_added": "2024-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 162115,
       "name": "BLAME",
       "url": "https://open.spotify.com/track/6krhdjLqzCefSnaGgUidUq"
@@ -2268,6 +2268,32 @@
       "duration_ms": 111458,
       "name": "BURN",
       "url": "https://open.spotify.com/track/04CyMEHliadfQWMUJb1w99"
+    },
+    {
+      "album": {
+        "name": "GRM 10",
+        "url": "https://open.spotify.com/album/01hcMlcR5FUjoSAKxlVPxK"
+      },
+      "artists": [
+        {
+          "name": "GRM Daily",
+          "url": "https://open.spotify.com/artist/4PCeJ2EIn3YtzYYRsHHWyy"
+        },
+        {
+          "name": "M Huncho",
+          "url": "https://open.spotify.com/artist/491U1PrV1EoQuhM0aUCn9r"
+        },
+        {
+          "name": "dutchavelli",
+          "url": "https://open.spotify.com/artist/2tPR06hLUvH5aIY3JXNIxY"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169714,
+      "name": "Burning (feat. M Huncho & Dutchavelli)",
+      "url": "https://open.spotify.com/track/3fAa5d2KhtXJ1gxB1wobQz"
     },
     {
       "album": {
@@ -5148,7 +5174,7 @@
       ],
       "date_added": "2024-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 143330,
       "name": "Guess featuring Billie Eilish",
       "url": "https://open.spotify.com/track/3WOhcATHxK2SLNeP5W3v1v"
@@ -5284,7 +5310,7 @@
       ],
       "date_added": "2024-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-25",
+      "date_removed": null,
       "duration_ms": 188702,
       "name": "Hard Beat",
       "url": "https://open.spotify.com/track/7Gs5hS0rQsdE5GVjovT5rm"
@@ -5621,6 +5647,24 @@
     },
     {
       "album": {
+        "name": "Kristofferson",
+        "url": "https://open.spotify.com/album/4HN8SWymMSOxquR6wY2vke"
+      },
+      "artists": [
+        {
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141640,
+      "name": "Help Me Make It Through the Night",
+      "url": "https://open.spotify.com/track/2KU944ARlycn1xv8W4I3Oe"
+    },
+    {
+      "album": {
         "name": "The Essential Kris Kristofferson",
         "url": "https://open.spotify.com/album/0gGq5EiYpLZaJNYwEoPRY3"
       },
@@ -5632,7 +5676,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 142760,
       "name": "Help Me Make It Through the Night",
       "url": "https://open.spotify.com/track/5aUEwE5Ta7RpsUcbhUKM9a"
@@ -6264,7 +6308,7 @@
       ],
       "date_added": "2024-09-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-04",
+      "date_removed": null,
       "duration_ms": 224906,
       "name": "I Never Lie",
       "url": "https://open.spotify.com/track/3t6gUcGYLrUuqwpXjOFWQc"
@@ -6648,7 +6692,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 212866,
       "name": "Image",
       "url": "https://open.spotify.com/track/0QW0KPBXXv67haGjbtkRRB"
@@ -8927,6 +8971,24 @@
     },
     {
       "album": {
+        "name": "Kristofferson",
+        "url": "https://open.spotify.com/album/4HN8SWymMSOxquR6wY2vke"
+      },
+      "artists": [
+        {
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260026,
+      "name": "Me and Bobby McGee",
+      "url": "https://open.spotify.com/track/68p2wVoGWkDKGJtdsRZDP6"
+    },
+    {
+      "album": {
         "name": "The Essential Kris Kristofferson",
         "url": "https://open.spotify.com/album/0gGq5EiYpLZaJNYwEoPRY3"
       },
@@ -8938,7 +9000,7 @@
       ],
       "date_added": "2024-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 260133,
       "name": "Me and Bobby McGee",
       "url": "https://open.spotify.com/track/5GDiNqMe76rDS5ZgPaI03R"
@@ -8996,7 +9058,7 @@
       ],
       "date_added": "2024-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-01",
+      "date_removed": null,
       "duration_ms": 172073,
       "name": "MEOW",
       "url": "https://open.spotify.com/track/5LlUJ3HHI2dS0xowdMDXC5"
@@ -9014,7 +9076,7 @@
       ],
       "date_added": "2024-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 172073,
       "name": "MEOW",
       "url": "https://open.spotify.com/track/72gPDy1zVt95zVNali0IhK"
@@ -9460,7 +9522,7 @@
       ],
       "date_added": "2024-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 185456,
       "name": "Murdergram Deux (feat. Eminem)",
       "url": "https://open.spotify.com/track/4Fhph8yWRNFeIoI7iXQL4W"
@@ -10270,6 +10332,10 @@
         {
           "name": "41",
           "url": "https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8"
+        },
+        {
+          "name": "Kyle Richh",
+          "url": "https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU"
         }
       ],
       "date_added": "2024-10-02",
@@ -12799,6 +12865,24 @@
     },
     {
       "album": {
+        "name": "Kristofferson",
+        "url": "https://open.spotify.com/album/4HN8SWymMSOxquR6wY2vke"
+      },
+      "artists": [
+        {
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270706,
+      "name": "Sunday Mornin' Comin' Down",
+      "url": "https://open.spotify.com/track/4JwFrnLLSO4qqxOeHQATf4"
+    },
+    {
+      "album": {
         "name": "Suniyan Suniyan",
         "url": "https://open.spotify.com/album/7fDOsfo0KfyUV2crgrG6zR"
       },
@@ -14425,6 +14509,24 @@
     },
     {
       "album": {
+        "name": "void",
+        "url": "https://open.spotify.com/album/7wMbhXcy5aBZhpv6HYTIlx"
+      },
+      "artists": [
+        {
+          "name": "isq",
+          "url": "https://open.spotify.com/artist/6JjQbtAO09K7qBEW2pdX5s"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101420,
+      "name": "void - super slowed",
+      "url": "https://open.spotify.com/track/0ujPplwuZcH5skG5R2E9Hz"
+    },
+    {
+      "album": {
         "name": "Vois sur ton chemin (Techno Mix)",
         "url": "https://open.spotify.com/album/79Cyc8GRWnLyjdJSMyJ0dB"
       },
@@ -15408,7 +15510,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 206463,
       "name": "You (feat. Hermanos Guti\u00e9rrez)",
       "url": "https://open.spotify.com/track/3r14cTnRNBAXpYfRorUFa7"

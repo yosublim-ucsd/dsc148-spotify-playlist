@@ -2,7 +2,7 @@
 
 ### [Mzansi Raps](https://open.spotify.com/playlist/37i9dQZF1DWVEcPtggpQMu)
 
-> Only the hottest South African rap from the streets\. <br/>Cover: <a href="https://open.spotify.com/artist/7gYT0XHEBgTgfgNK0566DT?si=LURnSwVZThO6B8Ahitusmw">Dee Koala</a>
+> Only the hottest South African rap from the streets\. <br/>Cover: <a href="https://open.spotify.com/artist/0DdgjYMzRw7t9TVwFuBI0V?si=oTilfj6VTeOvCtUDnyTE8g">Roiii</a>,  <a href="https://open.spotify.com/artist/1m1TdFQCnKHcfVlO17avCF?si=YqTngCuDSlq5L6WQLYpVdg">Boity</a>
 
 846 songs - 1 day 21 hr 30 min
 

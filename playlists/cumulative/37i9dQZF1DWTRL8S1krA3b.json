@@ -215,6 +215,24 @@
     },
     {
       "album": {
+        "name": "Children Go / Blue Christmas",
+        "url": "https://open.spotify.com/album/5hkJRQ20kibcpZqD7lTgju"
+      },
+      "artists": [
+        {
+          "name": "Sara Evans",
+          "url": "https://open.spotify.com/artist/7qvsLYsYP0MHD7jkdv6DAG"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193392,
+      "name": "Blue Christmas",
+      "url": "https://open.spotify.com/track/666HjMnp4A48UROUMcnXo5"
+    },
+    {
+      "album": {
         "name": "Blue Christmas",
         "url": "https://open.spotify.com/album/0FfnwndZx81v9DSvswzqog"
       },
@@ -656,6 +674,24 @@
       "duration_ms": 173538,
       "name": "Frosty The Snowman",
       "url": "https://open.spotify.com/track/57VOGNqMY7WENGvVlEdJg2"
+    },
+    {
+      "album": {
+        "name": "The Christmas Record",
+        "url": "https://open.spotify.com/album/5Zsa3FJk4cjhuvUbtOZzmD"
+      },
+      "artists": [
+        {
+          "name": "Little Big Town",
+          "url": "https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201669,
+      "name": "Glow",
+      "url": "https://open.spotify.com/track/1mFwsE8rLoLibx19s8bXac"
     },
     {
       "album": {
@@ -1306,6 +1342,24 @@
       "duration_ms": 189574,
       "name": "O Holy Night",
       "url": "https://open.spotify.com/track/14K3UQ2IR4UfmAxjadEOB6"
+    },
+    {
+      "album": {
+        "name": "Christmas To Christmas",
+        "url": "https://open.spotify.com/album/657rEUY3sBhYsW1KKuptPI"
+      },
+      "artists": [
+        {
+          "name": "Toby Keith",
+          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124720,
+      "name": "Old Toy Trains - Bonus Track",
+      "url": "https://open.spotify.com/track/1piyBNstQ55S4DO21cwb0l"
     },
     {
       "album": {

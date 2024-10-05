@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadBoQSapxCg.md) - [plain]
 
 > Apaga a luz e deixa rolar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 313,339 likes - 60 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 313,345 likes - 60 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,10 +44,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadBoQSapxCg.md) - [plain]
 | 34 | [Tenho Você](https://open.spotify.com/track/2FJrDD1ZvsUg9klCy4LjCj) | [Davi Sabbag](https://open.spotify.com/artist/5XqH779LPE3MY0wFSg9JY8) | [Tenho Você](https://open.spotify.com/album/29PFiWp9zAiwoiIx4gyApm) | 3:05 |
 | 35 | [nós 2](https://open.spotify.com/track/7vuxXAyqByxkVdM2jqu0Jh) | [Jade Baraldo](https://open.spotify.com/artist/5sz2Sp7OkasBBmDkKerv45) | [Mais Que os Olhos Podem Ver](https://open.spotify.com/album/5T9bHYvkePyb0WkBA6Wduz) | 3:06 |
 | 36 | [Também Quero](https://open.spotify.com/track/3bIVh3GF7hNqPpJYxzCcxU) | [Clau](https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ), [Pk](https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm) | [Também Quero](https://open.spotify.com/album/6kW0t87Zimh1JKs91xnc2J) | 3:36 |
-| 37 | [100 por Hora](https://open.spotify.com/track/6UKVh2rVOOTcMI9Hsh8jX2) | [Bagua Records](https://open.spotify.com/artist/2450WxbFxHjnttFAv31zGk), [Agnes Nunes](https://open.spotify.com/artist/0OVOH98bZTn0lsdL7MclGw), [CMK](https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src) | [100 por Hora](https://open.spotify.com/album/60ipg4FiWce9Deo68OWZsA) | 3:16 |
-| 38 | [Jogo Sujo](https://open.spotify.com/track/5VoMWPTG7cAXonm2A3XcAq) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [Nicoby](https://open.spotify.com/artist/1Xd91UbkKjjg6Bk8vvlW9C), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C) | [Jogo Sujo](https://open.spotify.com/album/5qy9homkyTypqh7ibHcDqY) | 3:25 |
-| 39 | [Tara](https://open.spotify.com/track/4s2hl8ZqSkWHH9tGJ72F21) | [Amanda Coronha](https://open.spotify.com/artist/49mOrWygxJo6j4ALdrVX6z) | [Tara](https://open.spotify.com/album/6QvwRnOHrisFhMo9fSmLVV) | 2:46 |
-| 40 | [Águias e Sereias](https://open.spotify.com/track/0hwTBgo6SYOUyvOmSESHAu) | [Jorge Vercillo](https://open.spotify.com/artist/783AF57UpgTN2fditDRFSs), [Mark Exodus](https://open.spotify.com/artist/5QuaUicw0RJdqHlUJdkQWz) | [Sentido](https://open.spotify.com/album/2bSaKc16naXhVcu5LGBj35) | 3:49 |
+| 37 | [Águias e Sereias](https://open.spotify.com/track/0hwTBgo6SYOUyvOmSESHAu) | [Jorge Vercillo](https://open.spotify.com/artist/783AF57UpgTN2fditDRFSs), [Mark Exodus](https://open.spotify.com/artist/5QuaUicw0RJdqHlUJdkQWz) | [Sentido](https://open.spotify.com/album/2bSaKc16naXhVcu5LGBj35) | 3:49 |
+| 38 | [100 por Hora](https://open.spotify.com/track/6UKVh2rVOOTcMI9Hsh8jX2) | [Bagua Records](https://open.spotify.com/artist/2450WxbFxHjnttFAv31zGk), [Agnes Nunes](https://open.spotify.com/artist/0OVOH98bZTn0lsdL7MclGw), [CMK](https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src) | [100 por Hora](https://open.spotify.com/album/60ipg4FiWce9Deo68OWZsA) | 3:16 |
+| 39 | [Jogo Sujo](https://open.spotify.com/track/5VoMWPTG7cAXonm2A3XcAq) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [Nicoby](https://open.spotify.com/artist/1Xd91UbkKjjg6Bk8vvlW9C), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C) | [Jogo Sujo](https://open.spotify.com/album/5qy9homkyTypqh7ibHcDqY) | 3:25 |
+| 40 | [Tara](https://open.spotify.com/track/4s2hl8ZqSkWHH9tGJ72F21) | [Amanda Coronha](https://open.spotify.com/artist/49mOrWygxJo6j4ALdrVX6z) | [Tara](https://open.spotify.com/album/6QvwRnOHrisFhMo9fSmLVV) | 2:46 |
 | 41 | [12 Horas](https://open.spotify.com/track/0sL06GkUHIOiSpzPnOPHFy) | [Valesca Popozuda](https://open.spotify.com/artist/0IpLJsvZHA1op1pw8GAoPu), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2), [Mousik](https://open.spotify.com/artist/0QTxqtxb1Ynangd0fpm3PM) | [12 Horas](https://open.spotify.com/album/5VgIC6o6AQjqxIeLgkEod5) | 2:37 |
 | 42 | [Nenhuma Outra Mulher](https://open.spotify.com/track/1lFeq37jm49qbR95O2pbGt) | [Marô](https://open.spotify.com/artist/7EFHe9IRYS8gKgtrGCV14u) | [Nenhuma Outra Mulher](https://open.spotify.com/album/0CNqE0OVWuB1Bsk4KT7l7n) | 2:27 |
 | 43 | [Meia Noite](https://open.spotify.com/track/2ZkY7Gt9jWppQRrhDsWmf8) | [Clau](https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ) | [VemK](https://open.spotify.com/album/60XOOFfjxGj3k09wS5rF3N) | 3:05 |

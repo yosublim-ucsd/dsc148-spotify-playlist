@@ -1,13 +1,29 @@
 {
   "description": "Jazz voices of today. Cover: Samara Joy",
-  "num_followers": 147357,
+  "num_followers": 147401,
   "original_name": "Vocal Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuzzQAAAAACByRxXqQaiUjFa3Uo8hw8A",
+  "snapshot_id": "Zv9oQAAAAAADLrqWrc5LQ5gzwf+3YFd7",
   "tracks": [
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Tip",
+        "url": "https://open.spotify.com/album/1hzVmeKjODeApmrHRn7C6F"
+      },
+      "artists": [
+        {
+          "name": "Jazzmeia Horn",
+          "url": "https://open.spotify.com/artist/3sRX2AuJCF5rblkGm2wMSM"
+        }
+      ],
+      "duration_ms": 254040,
+      "name": "Tip",
+      "url": "https://open.spotify.com/track/37iPxQArUYztawoasUa4iv"
+    },
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
@@ -25,20 +41,48 @@
       "url": "https://open.spotify.com/track/1o28EvjeYgkrKgBG7gkBx7"
     },
     {
-      "added_at": "2024-09-20 04:00:00",
+      "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Voicemail Blues",
-        "url": "https://open.spotify.com/album/6aDPNDlJbT3aKe1eW9Dt8R"
+        "name": "Truth",
+        "url": "https://open.spotify.com/album/4WdqBsUiK1mj3vhwQyi0Ql"
       },
       "artists": [
         {
-          "name": "Jazzmeia Horn",
-          "url": "https://open.spotify.com/artist/3sRX2AuJCF5rblkGm2wMSM"
+          "name": "Lauren Henderson",
+          "url": "https://open.spotify.com/artist/32l2cWGDfGIqFPxUAogD5l"
+        },
+        {
+          "name": "Sullivan Fortner",
+          "url": "https://open.spotify.com/artist/2kQZjl1wnD42U6rKhAHmz5"
+        },
+        {
+          "name": "Eric Wheeler",
+          "url": "https://open.spotify.com/artist/1TvIn0DgifSGnkJL6VTEF5"
         }
       ],
-      "duration_ms": 233377,
-      "name": "Voicemail Blues",
-      "url": "https://open.spotify.com/track/2hq7WCG25nmQmr3Z4K6CnE"
+      "duration_ms": 132005,
+      "name": "Truth",
+      "url": "https://open.spotify.com/track/09Rn2e12eIjtc4pZy83gxg"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Airport Codes (Big Band Version)",
+        "url": "https://open.spotify.com/album/2YCkxR6qWOk9SL0MMfGRo2"
+      },
+      "artists": [
+        {
+          "name": "Aubrey Logan",
+          "url": "https://open.spotify.com/artist/5GIBLQgzkZKjBDRhVQ4j1z"
+        },
+        {
+          "name": "Mike Sailors",
+          "url": "https://open.spotify.com/artist/6QJDYnfojJWToSMXjUf0Qg"
+        }
+      ],
+      "duration_ms": 419520,
+      "name": "Airport Codes - Big Band Version",
+      "url": "https://open.spotify.com/track/6cOLsEjg2zuLZP8XiOdYJD"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -55,6 +99,22 @@
       "duration_ms": 283586,
       "name": "First Song",
       "url": "https://open.spotify.com/track/5oJrUTDfQw5B8XHwPOudVn"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Rocky Mountain Lullaby",
+        "url": "https://open.spotify.com/album/1OkpHulEyE8HsJqNZIiWni"
+      },
+      "artists": [
+        {
+          "name": "Laila Biali",
+          "url": "https://open.spotify.com/artist/6ioJTe2wSpFulE39iP818I"
+        }
+      ],
+      "duration_ms": 293117,
+      "name": "Rocky Mountain Lullaby",
+      "url": "https://open.spotify.com/track/5a3bfVFvJniPh5Ewkt5kPE"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -75,30 +135,6 @@
       "duration_ms": 112117,
       "name": "A Foggy Day",
       "url": "https://open.spotify.com/track/7tuyPJp1LzwkMPFGf34v7m"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "Love Is Here To Stay",
-        "url": "https://open.spotify.com/album/3oqSxcqpOcoIQUJeHEW5xp"
-      },
-      "artists": [
-        {
-          "name": "Lauren Henderson",
-          "url": "https://open.spotify.com/artist/32l2cWGDfGIqFPxUAogD5l"
-        },
-        {
-          "name": "Sullivan Fortner",
-          "url": "https://open.spotify.com/artist/2kQZjl1wnD42U6rKhAHmz5"
-        },
-        {
-          "name": "Eric Wheeler",
-          "url": "https://open.spotify.com/artist/1TvIn0DgifSGnkJL6VTEF5"
-        }
-      ],
-      "duration_ms": 253226,
-      "name": "Love Is Here To Stay",
-      "url": "https://open.spotify.com/track/1hHbHdcMzXprkNkRuAqjQs"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1305,22 +1341,6 @@
       "url": "https://open.spotify.com/track/1A1VctouaYYVxnyz1IYLuB"
     },
     {
-      "added_at": "2023-03-24 04:01:00",
-      "album": {
-        "name": "M\u00e9lusine",
-        "url": "https://open.spotify.com/album/1AP6E8gCkPzDjFC8DrGFPc"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9cile McLorin Salvant",
-          "url": "https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn"
-        }
-      ],
-      "duration_ms": 140686,
-      "name": "Petite musique terrienne",
-      "url": "https://open.spotify.com/track/6OZn149r8yFdTTI0TvtKhY"
-    },
-    {
       "added_at": "2023-05-26 04:01:00",
       "album": {
         "name": "Bad Girls",
@@ -1335,34 +1355,6 @@
       "duration_ms": 155637,
       "name": "Bad Girls",
       "url": "https://open.spotify.com/track/0PSo8ZtVtaoRYQlO8zaHkg"
-    },
-    {
-      "added_at": "2023-05-19 04:01:00",
-      "album": {
-        "name": "My Foolish Heart",
-        "url": "https://open.spotify.com/album/0w0pgJhk04uc0e7SklDhlM"
-      },
-      "artists": [
-        {
-          "name": "Steven Feifke",
-          "url": "https://open.spotify.com/artist/5YSPlTYVnXaRSQKCE9wH7S"
-        },
-        {
-          "name": "Martina DaSilva",
-          "url": "https://open.spotify.com/artist/3AKEETcbRYtfGanQZjJ48F"
-        },
-        {
-          "name": "Bryan Carter",
-          "url": "https://open.spotify.com/artist/5d7XFMuRIawoRSLC7uYChJ"
-        },
-        {
-          "name": "Alexa Tarantino",
-          "url": "https://open.spotify.com/artist/4iP863xgxxSQUbKm7SVwXh"
-        }
-      ],
-      "duration_ms": 457813,
-      "name": "My Foolish Heart",
-      "url": "https://open.spotify.com/track/0MjqmuJitgjV1E740JPEKl"
     },
     {
       "added_at": "2023-06-02 04:01:00",

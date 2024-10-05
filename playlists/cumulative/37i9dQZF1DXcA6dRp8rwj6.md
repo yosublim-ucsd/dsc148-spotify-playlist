@@ -4,7 +4,7 @@
 
 > The hottest Hip\-Hop of today all over the world\. \(Cover: A$AP Ferg\)
 
-2,330 songs - 4 day 22 hr 11 min
+2,331 songs - 4 day 22 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -943,6 +943,7 @@
 | [I Don't Relate](https://open.spotify.com/track/5Pb6mFbk2FyX0IP2krKfEG) | [Rebel Asia](https://open.spotify.com/artist/01APErOuxifTzQrdN8kOYn) | [I Don't Relate](https://open.spotify.com/album/6Db8i45wkur5lHin5HMKin) | 3:09 | 2024-09-20 |  |
 | [I Dream of Chrome](https://open.spotify.com/track/3QQXpvZd9qmzHZ02wDf2im) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0), [Germ](https://open.spotify.com/artist/4OYIkXBBN6ET96coWyWAXh) | [DIRTIESTNASTIEST$UICIDE](https://open.spotify.com/album/7mxSvZIgElLmVTdUfVNQFz) | 2:25 | 2022-12-15 | 2023-02-03 |
 | [I Feel It So Close \(Feat\. VEKOEL\)](https://open.spotify.com/track/5ViNfkZnAbHKUv1uD7aCJ2) | [V1VA](https://open.spotify.com/artist/04rkE835YxRm7UtD4ksItR), [VEKOEL](https://open.spotify.com/artist/6c1sIisEY5HNqkjgEhgbEo) | [I Feel It So Close](https://open.spotify.com/album/34w34asHyQFbCZJqyD492S) | 2:18 | 2023-02-23 | 2023-03-25 |
+| [I Know \(feat\. Fridayy\)](https://open.spotify.com/track/4km8v5PJ43JUdmjf5qjvwp) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO), [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [Post Traumatic](https://open.spotify.com/album/3xdlCzNYHfEiXnUyWWyAVT) | 3:51 | 2024-10-03 |  |
 | [i know you hate me](https://open.spotify.com/track/1dyGAvhMll39BwCGb6u9pP) | [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8) | [i know you hate me](https://open.spotify.com/album/4ZJoNTkzmI2R9iG5CURjWh) | 2:04 | 2022-02-24 | 2022-03-18 |
 | [i like it](https://open.spotify.com/track/09aO4VPeWw46qecXpHXEV5) | [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9), [Yo\-Sea](https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw), [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF), [IO](https://open.spotify.com/artist/7wJbfRQ42OuzAQfXMVidTd) | [i like it](https://open.spotify.com/album/5NATm6ps7E8oOSmroG4eFv) | 3:04 | 2024-10-03 |  |
 | [I Like You \(A Happier Song\) \(with Doja Cat\)](https://open.spotify.com/track/0O6u0VJ46W86TxN9wgyqDj) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Twelve Carat Toothache](https://open.spotify.com/album/3HHNR44YbP7XogMVwzbodx) | 3:12 | 2022-06-02 | 2022-07-22 |

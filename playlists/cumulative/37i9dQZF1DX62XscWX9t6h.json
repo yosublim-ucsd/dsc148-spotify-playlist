@@ -131,6 +131,28 @@
     },
     {
       "album": {
+        "name": "Templo del Perro",
+        "url": "https://open.spotify.com/album/5tWoAJ3bCVblpucHaRl5Hg"
+      },
+      "artists": [
+        {
+          "name": "Don Couto",
+          "url": "https://open.spotify.com/artist/75RbJtVQX3xaPgV4GE9FxN"
+        },
+        {
+          "name": "Nidia Gongora",
+          "url": "https://open.spotify.com/artist/5Ln6VxkwRDdAH40Lel6Yj8"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192182,
+      "name": "Alberca",
+      "url": "https://open.spotify.com/track/78hqkmkGptt4Z8zNibXe47"
+    },
+    {
+      "album": {
         "name": "Amanheceu",
         "url": "https://open.spotify.com/album/1blDqTfNYs1UcLWMKFiGzF"
       },
@@ -449,6 +471,24 @@
     },
     {
       "album": {
+        "name": "Canton Mambo",
+        "url": "https://open.spotify.com/album/08WUAfWBJF0b4XffDOiQOe"
+      },
+      "artists": [
+        {
+          "name": "Gia Fu",
+          "url": "https://open.spotify.com/artist/3dwN2G3cx8i7rEFDvYhRLi"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269661,
+      "name": "Canton Mambo",
+      "url": "https://open.spotify.com/track/3zkCkUZRwV3L3lqiTQ9koC"
+    },
+    {
+      "album": {
         "name": "Carry Me Home",
         "url": "https://open.spotify.com/album/3BVadsttoBuo4nmzPoax9g"
       },
@@ -525,6 +565,24 @@
     },
     {
       "album": {
+        "name": "Inti Watana - El Retorno del Sol",
+        "url": "https://open.spotify.com/album/0D6YYJNgMsXd1BPt0ea0lL"
+      },
+      "artists": [
+        {
+          "name": "Luzmila Carpio",
+          "url": "https://open.spotify.com/artist/5nerlXgmkkutK76kjPNjCr"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215829,
+      "name": "Chakana Sagrada",
+      "url": "https://open.spotify.com/track/6YBVe0j9lzPnFWCIltIfV4"
+    },
+    {
+      "album": {
         "name": "Charango Dub",
         "url": "https://open.spotify.com/album/1L7MABgdSg4VF8VjYoySmU"
       },
@@ -540,7 +598,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-24",
+      "date_removed": null,
       "duration_ms": 284168,
       "name": "Charango Dub",
       "url": "https://open.spotify.com/track/4Z4WBdtkbCiLhcc28e23Jx"
@@ -594,7 +652,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 215444,
       "name": "Chichu Burru",
       "url": "https://open.spotify.com/track/27Q8Qv1uatsx1Np6gZie9i"
@@ -818,7 +876,7 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 167665,
       "name": "Dois Palitos Fofinhos",
       "url": "https://open.spotify.com/track/6S8AJxUdc95lI4CNiVdKMu"
@@ -1002,7 +1060,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 298714,
       "name": "Ew'aa",
       "url": "https://open.spotify.com/track/24ACpMa5jRoCWqLRn0iyE0"
@@ -1020,7 +1078,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-07",
+      "date_removed": null,
       "duration_ms": 306453,
       "name": "Fant\u00f4me",
       "url": "https://open.spotify.com/track/0ZnswvbOB3b5i4N5so9dad"
@@ -1154,7 +1212,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-19",
+      "date_removed": null,
       "duration_ms": 212946,
       "name": "Geeta duniki",
       "url": "https://open.spotify.com/track/6Y4txHIZfSfFfON6SG8484"
@@ -1469,6 +1527,24 @@
     },
     {
       "album": {
+        "name": "Inti Watana - El Retorno del Sol",
+        "url": "https://open.spotify.com/album/0D6YYJNgMsXd1BPt0ea0lL"
+      },
+      "artists": [
+        {
+          "name": "Luzmila Carpio",
+          "url": "https://open.spotify.com/artist/5nerlXgmkkutK76kjPNjCr"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221029,
+      "name": "Kacharpayita",
+      "url": "https://open.spotify.com/track/5MKFM1T9UdPCOxRCOXMMKU"
+    },
+    {
+      "album": {
         "name": "kamaapy\u00eb",
         "url": "https://open.spotify.com/album/4rVuRc9Re8SOPuOR1rMFph"
       },
@@ -1480,7 +1556,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 459493,
       "name": "kamaapy\u00eb",
       "url": "https://open.spotify.com/track/47RY33H89Tiq36dTmyKLLT"
@@ -1628,7 +1704,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-22",
+      "date_removed": null,
       "duration_ms": 357552,
       "name": "Lam Phu Thai # 1",
       "url": "https://open.spotify.com/track/6dsZAzOrP9af5rmzGl9Tlr"
@@ -1646,7 +1722,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 249228,
       "name": "Les Assassins",
       "url": "https://open.spotify.com/track/1ZNqgaLZfd5AUIYad8IsYF"
@@ -1798,7 +1874,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 296560,
       "name": "Mambu Ma Miondo",
       "url": "https://open.spotify.com/track/65mRq2v09izLLDenAdS1vg"
@@ -2154,7 +2230,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 417186,
       "name": "Mulume/Change",
       "url": "https://open.spotify.com/track/03lPX2XCzQ2AdXuVBQ0dds"
@@ -2236,7 +2312,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-22",
+      "date_removed": null,
       "duration_ms": 319169,
       "name": "Mu\u00ed\u00f1o",
       "url": "https://open.spotify.com/track/6zAuPi2fZsUYgXMIozkowv"
@@ -2276,7 +2352,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 285018,
       "name": "Nanga",
       "url": "https://open.spotify.com/track/5PGvPXckoEHR0pPMms1OwZ"
@@ -2334,7 +2410,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 292340,
       "name": "Ne Yapt\u0131ysam Senin \u0130\u00e7in",
       "url": "https://open.spotify.com/track/1BGAAf5sBYsob5EWCgLWdB"
@@ -2392,7 +2468,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-11",
+      "date_removed": null,
       "duration_ms": 275253,
       "name": "Nomad",
       "url": "https://open.spotify.com/track/5S82EFqseyysMtgTrMrW9K"
@@ -2468,7 +2544,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 340248,
       "name": "Oh France",
       "url": "https://open.spotify.com/track/7cSIjeWP5DTpoKWka988IW"
@@ -2754,7 +2830,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 366000,
       "name": "Rowing High Rowing Low",
       "url": "https://open.spotify.com/track/0aWLipAcgGmCqDD2pQsCUp"
@@ -3114,7 +3190,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-22",
+      "date_removed": null,
       "duration_ms": 187166,
       "name": "Taivshral",
       "url": "https://open.spotify.com/track/0X8xhlGsWrdkcbZrfqOxGO"
@@ -3600,7 +3676,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-06",
+      "date_removed": null,
       "duration_ms": 237000,
       "name": "Vaiv\u00e9n",
       "url": "https://open.spotify.com/track/1g1kzzTZN4AIabY9e1WolT"
@@ -3636,7 +3712,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 277810,
       "name": "Vallahi Yok",
       "url": "https://open.spotify.com/track/5z9vETzqw2MYykOvfwXYWx"
@@ -3654,7 +3730,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 278090,
       "name": "Vida",
       "url": "https://open.spotify.com/track/5WCymp7EQYCo00B9jO37jx"
@@ -3726,7 +3802,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-06",
+      "date_removed": null,
       "duration_ms": 325773,
       "name": "Weird Fishes/ Arpeggi",
       "url": "https://open.spotify.com/track/3A8hPbFFV3YFolz2vSKY83"
@@ -3896,7 +3972,7 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 240121,
       "name": "Yoru Ni",
       "url": "https://open.spotify.com/track/0daxQGhaNTiE8HZn2aoIhH"
@@ -3954,6 +4030,24 @@
       "duration_ms": 263524,
       "name": "Zerzura Theme II",
       "url": "https://open.spotify.com/track/4I7WbrlfomZlIv4mveJ76x"
+    },
+    {
+      "album": {
+        "name": "\u00caCCLAB\u00d4 DE LIBERT\u00c1",
+        "url": "https://open.spotify.com/album/1tVhgN9feZ8I31AC7yKOSp"
+      },
+      "artists": [
+        {
+          "name": "Califato \u00be",
+          "url": "https://open.spotify.com/artist/6APnwoSgygJU8HR7EHVSyK"
+        }
+      ],
+      "date_added": "2024-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216443,
+      "name": "\u00caCCLAB\u00d4 DE LIBERT\u00c1",
+      "url": "https://open.spotify.com/track/10W29dzZ0hjJbf4SvCSQw2"
     },
     {
       "album": {

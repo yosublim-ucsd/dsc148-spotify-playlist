@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadokOfeHaaj.md) - [plain]
 
 ### [Indie Dancefloor](https://open.spotify.com/playlist/37i9dQZF1DXadokOfeHaaj)
 
-> The best new indie dance music\. Cover: Anthony Szmierek
+> The best new indie dance music\. Cover: Antony Szmierek
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,144 likes - 128 songs - 7 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,161 likes - 128 songs - 7 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -137,4 +137,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadokOfeHaaj.md) - [plain]
 | 127 | [Welcome Home](https://open.spotify.com/track/6X4vGx2XIFYFTmeOm142cr) | [Monks](https://open.spotify.com/artist/1EESBfYnqZ9pylHg8n6lBP) | [Welcome Home](https://open.spotify.com/album/2IUiHvXFWEacS7YCnmbvRx) | 3:12 |
 | 128 | [Halo Flip](https://open.spotify.com/track/59SaaebqvxHSui4LbocJYI) | [Vegyn](https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o), [Lauren Auder](https://open.spotify.com/artist/5rxf4rjZ5lyhKt7DWM5dLL) | [Halo Flip](https://open.spotify.com/album/7KChHwaCKJLa1DxvXVHjzz) | 6:55 |
 
-Snapshot ID: `Zv8h8AAAAAB2fCVe9x1YsQDOVW8tHQZ1`
+Snapshot ID: `Zv/HJQAAAADOcLDmbd8neQqRxlmcwkCx`

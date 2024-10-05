@@ -1,13 +1,141 @@
 {
-  "description": "The best Indie sounds from South Africa and beyond. Cover: <a href=\"https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g?si=fpUT3NygSGya_bjVTuWRoQ\">Jeremy Loops</a>",
-  "num_followers": 12137,
+  "description": "The best Indie sounds from South Africa and beyond. Cover: <a href=\"https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV?si=lHSG3jDXRnWPq1a02FSrlg\">HONEYMOAN</a>",
+  "num_followers": 12140,
   "original_name": "Indie GO",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuNkYAAAAACYiRkRDPnsF3y2vOnhwNSr",
+  "snapshot_id": "Zv9tNgAAAAAYdg5YrS5P5NbiUHf39k5Y",
   "tracks": [
+    {
+      "added_at": "2024-10-04 04:21:10",
+      "album": {
+        "name": "Crush",
+        "url": "https://open.spotify.com/album/6J9xn3YSAOGagmTA9E0seq"
+      },
+      "artists": [
+        {
+          "name": "HONEYMOAN",
+          "url": "https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV"
+        }
+      ],
+      "duration_ms": 150691,
+      "name": "Crush",
+      "url": "https://open.spotify.com/track/04hq2kdph0G58ij16nEe6u"
+    },
+    {
+      "added_at": "2024-10-04 04:21:10",
+      "album": {
+        "name": "PRATTS & PAIN",
+        "url": "https://open.spotify.com/album/64vC3GWaE8ryklQD2fNosa"
+      },
+      "artists": [
+        {
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+        }
+      ],
+      "duration_ms": 160786,
+      "name": "Adored",
+      "url": "https://open.spotify.com/track/1J8Gz6rDoKF8xYbcwSgjpe"
+    },
+    {
+      "added_at": "2024-10-04 04:21:10",
+      "album": {
+        "name": "I Get So Lonely",
+        "url": "https://open.spotify.com/album/3OCVQo1Ub9KcF8Iy8g8X5w"
+      },
+      "artists": [
+        {
+          "name": "EASY FREAK",
+          "url": "https://open.spotify.com/artist/5X9T1si7pOUmy2IayH147S"
+        }
+      ],
+      "duration_ms": 193846,
+      "name": "I Get So Lonely",
+      "url": "https://open.spotify.com/track/5JloFQSAYIj0DJcIxtnZfw"
+    },
+    {
+      "added_at": "2024-10-04 04:21:10",
+      "album": {
+        "name": "Enemy",
+        "url": "https://open.spotify.com/album/3lw8rxXPOtJVG1HVHC4ahM"
+      },
+      "artists": [
+        {
+          "name": "SANDY",
+          "url": "https://open.spotify.com/artist/5twIPSpy3iyEBW2PmC4chL"
+        }
+      ],
+      "duration_ms": 253882,
+      "name": "Enemy",
+      "url": "https://open.spotify.com/track/05FUbCmZfAynRkcSkOizUX"
+    },
+    {
+      "added_at": "2024-10-04 04:21:10",
+      "album": {
+        "name": "HEADLIGHTS",
+        "url": "https://open.spotify.com/album/4SY3ekegjkcOZUqCW7qXOY"
+      },
+      "artists": [
+        {
+          "name": "Muzzzoh",
+          "url": "https://open.spotify.com/artist/5dGFDimZDbExhKao9FzqG9"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "HEADLIGHTS",
+      "url": "https://open.spotify.com/track/43qNQ2mBQvdCrQbOVz0U8B"
+    },
+    {
+      "added_at": "2024-10-04 04:21:10",
+      "album": {
+        "name": "Thriftstore",
+        "url": "https://open.spotify.com/album/3Lj40XdTq39lqLZBm2lRjI"
+      },
+      "artists": [
+        {
+          "name": "Hendriek Bleik",
+          "url": "https://open.spotify.com/artist/4k0tcb0DEpNlQzOD8mKtCT"
+        }
+      ],
+      "duration_ms": 177116,
+      "name": "Thriftstore",
+      "url": "https://open.spotify.com/track/2emZx1XCX4Cls2mvTBKbF8"
+    },
+    {
+      "added_at": "2024-10-04 04:21:10",
+      "album": {
+        "name": "Still You",
+        "url": "https://open.spotify.com/album/47Cdt2xqyvUJ4oFvFMCRo4"
+      },
+      "artists": [
+        {
+          "name": "Ben Dey",
+          "url": "https://open.spotify.com/artist/1rFahc69M1LAHTSpwej3c5"
+        }
+      ],
+      "duration_ms": 234364,
+      "name": "Still You",
+      "url": "https://open.spotify.com/track/2ptbWiicXwkNjNczrUn9EL"
+    },
+    {
+      "added_at": "2024-10-04 04:21:10",
+      "album": {
+        "name": "There's A Fire On The Mountain",
+        "url": "https://open.spotify.com/album/7AHm7GvOwa5PY8Q22tMuHl"
+      },
+      "artists": [
+        {
+          "name": "NATAB",
+          "url": "https://open.spotify.com/artist/5sk7DMYabyF7C12HgIG5QF"
+        }
+      ],
+      "duration_ms": 299333,
+      "name": "Fire Everywhere",
+      "url": "https://open.spotify.com/track/4BGv3EsfJL6wLbQ56BaY5X"
+    },
     {
       "added_at": "2024-09-12 22:00:00",
       "album": {
@@ -875,134 +1003,6 @@
       "duration_ms": 176998,
       "name": "Love The Way You Love",
       "url": "https://open.spotify.com/track/556c8oARPcgftAtxRE2Wz9"
-    },
-    {
-      "added_at": "2024-08-09 05:34:37",
-      "album": {
-        "name": "I Got The Gold",
-        "url": "https://open.spotify.com/album/0SqxmTg4DtsaPnUPA6KMLO"
-      },
-      "artists": [
-        {
-          "name": "Nomzi Kumalo",
-          "url": "https://open.spotify.com/artist/62wlee1GtY7GKUntGYpN9U"
-        }
-      ],
-      "duration_ms": 209573,
-      "name": "I Got The Gold",
-      "url": "https://open.spotify.com/track/6MjYaqLYvnuGUqog6v60T3"
-    },
-    {
-      "added_at": "2024-08-01 22:00:00",
-      "album": {
-        "name": "Dust Over Dunes",
-        "url": "https://open.spotify.com/album/6M7uEQsfVaHB89fiyRByHB"
-      },
-      "artists": [
-        {
-          "name": "Jeremy Loops",
-          "url": "https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g"
-        }
-      ],
-      "duration_ms": 221200,
-      "name": "Dust Over Dunes",
-      "url": "https://open.spotify.com/track/6SAta2wxm50bSPp8iwOYFu"
-    },
-    {
-      "added_at": "2024-08-01 22:00:00",
-      "album": {
-        "name": "Bestie, Move On",
-        "url": "https://open.spotify.com/album/7JfiqynEeDKQQVJaAQRgLR"
-      },
-      "artists": [
-        {
-          "name": "Jea Mira",
-          "url": "https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3"
-        }
-      ],
-      "duration_ms": 211581,
-      "name": "Bestie, Move On",
-      "url": "https://open.spotify.com/track/0YVWlJfAtGWsJgA7fa37xU"
-    },
-    {
-      "added_at": "2024-08-01 22:00:00",
-      "album": {
-        "name": "Dance at the Function",
-        "url": "https://open.spotify.com/album/7DIMi5jLdMlWB8rgsMMDwd"
-      },
-      "artists": [
-        {
-          "name": "Amilli",
-          "url": "https://open.spotify.com/artist/6plodklNvq0eGpBOL4ko0D"
-        }
-      ],
-      "duration_ms": 205901,
-      "name": "Dance at the Function",
-      "url": "https://open.spotify.com/track/5USEKBiRFiQCeWy4U8AjKW"
-    },
-    {
-      "added_at": "2024-08-01 22:00:00",
-      "album": {
-        "name": "Sailor Song",
-        "url": "https://open.spotify.com/album/4DWrYvfGXRE8ko5ZxlIpit"
-      },
-      "artists": [
-        {
-          "name": "Gigi Perez",
-          "url": "https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo"
-        }
-      ],
-      "duration_ms": 211978,
-      "name": "Sailor Song",
-      "url": "https://open.spotify.com/track/0UYnhUfnUj5adChuAXvLUB"
-    },
-    {
-      "added_at": "2024-07-11 22:00:00",
-      "album": {
-        "name": "Wish",
-        "url": "https://open.spotify.com/album/1A1zf55JDCIn6qEAb1g8N8"
-      },
-      "artists": [
-        {
-          "name": "an00k",
-          "url": "https://open.spotify.com/artist/5Hz9QzUFgsTi3kuOzaoEUB"
-        }
-      ],
-      "duration_ms": 188899,
-      "name": "Wish",
-      "url": "https://open.spotify.com/track/5swbXHitmJ9RqBrgK8gEYC"
-    },
-    {
-      "added_at": "2024-07-18 22:00:00",
-      "album": {
-        "name": "Lonely? (Come Along)",
-        "url": "https://open.spotify.com/album/1LsqoJNFx5lsQF9JdMayxA"
-      },
-      "artists": [
-        {
-          "name": "Th&o.",
-          "url": "https://open.spotify.com/artist/0RYKFLXXxrpiF7e1zmCZLT"
-        }
-      ],
-      "duration_ms": 224082,
-      "name": "Lonely? (Come Along)",
-      "url": "https://open.spotify.com/track/4Uo9L4l5evGRj8GB3Sddos"
-    },
-    {
-      "added_at": "2024-07-04 22:00:00",
-      "album": {
-        "name": "Under the Moonlight",
-        "url": "https://open.spotify.com/album/7i8IHLeywcf36PUOmwPwXJ"
-      },
-      "artists": [
-        {
-          "name": "Tanaka",
-          "url": "https://open.spotify.com/artist/2nD1C4UjyKoQ1D9ILt1Mph"
-        }
-      ],
-      "duration_ms": 236363,
-      "name": "Under the Moonlight",
-      "url": "https://open.spotify.com/track/4sWpiDLECgAtAvxjGe4S3X"
     }
   ],
   "unique_name": "Indie GO",

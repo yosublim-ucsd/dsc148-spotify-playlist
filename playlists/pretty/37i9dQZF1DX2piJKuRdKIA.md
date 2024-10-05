@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2piJKuRdKIA.md) - [plain]
 
 > Una sensual selección de canciones para bailar en una sola baldosa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 611,908 likes - 50 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 612,312 likes - 50 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2piJKuRdKIA.md) - [plain]
 | 45 | [Y Nos Amamos](https://open.spotify.com/track/0vAA0c6zf8pCWgmIj4Oggx) | [David Pabon](https://open.spotify.com/artist/3L3YHYkS8b2vgAbnqBTXrE) | [Mejor Que Ayer](https://open.spotify.com/album/1GtGW64AKrjOsAOrHO30uW) | 3:49 |
 | 46 | [Quién Piensa en Ti](https://open.spotify.com/track/2PnW8tCjNkP3Ctd8K3d8NS) | [Grupo Caneo](https://open.spotify.com/artist/3dI63iYqCLcCokRcedC58Z) | [Salsa Original](https://open.spotify.com/album/2yeJL6Tv6HBNYL4kIlMPmY) | 4:38 |
 | 47 | [Amiga](https://open.spotify.com/track/4WWHSJEw4nRPlxCZeLFhym) | [Rey Ruiz](https://open.spotify.com/artist/1S0uvW1rgvtkNGma9su3fJ) | [Lo Esencial](https://open.spotify.com/album/5u3nfKd9yOHDwSQ3LIHGge) | 4:39 |
-| 48 | [Extraño Tu Amor](https://open.spotify.com/track/4WcWjBoSYqZBwqeYlz0qey) | [Guayacán Orquesta](https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE), [Ray Sepúlveda](https://open.spotify.com/artist/1SOkKpqQoafBziSZ3m9BfR) | [25 Años, 25 Éxitos, 25 Artistas, Vol\. 1](https://open.spotify.com/album/7vaMXZuLGhTU0dXTKrq0LQ) | 4:27 |
+| 48 | [Extraño Tu Amor](https://open.spotify.com/track/4WcWjBoSYqZBwqeYlz0qey) | [Guayacán](https://open.spotify.com/artist/6qbqVOLEXJzP9ZObZKy0NR), [Ray Sepúlveda](https://open.spotify.com/artist/1SOkKpqQoafBziSZ3m9BfR) | [25 Años, 25 Éxitos, 25 Artistas, Vol\. 1](https://open.spotify.com/album/7vaMXZuLGhTU0dXTKrq0LQ) | 4:27 |
 | 49 | [Quiero Quedarme en Ti](https://open.spotify.com/track/3JBLdVJrLFymAihS70d395) | [La Suprema Corte](https://open.spotify.com/artist/2oQSuDSAp77ozD3JqzEbEm) | [Escombros](https://open.spotify.com/album/5Y1RfqAu5RaqpfsCKY6ouD) | 4:48 |
 | 50 | [Condename A Tu Amor](https://open.spotify.com/track/2C40I3YZiqsNlpBxQ4O1y7) | [Tito Rojas](https://open.spotify.com/artist/2kgCV0fFS0wt3q6M5B39nH) | [Condename](https://open.spotify.com/album/096iagjZ8Ax48eV49j8P3Q) | 6:01 |
 

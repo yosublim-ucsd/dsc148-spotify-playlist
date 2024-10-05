@@ -2,14 +2,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 
 ### [Rap québ](https://open.spotify.com/playlist/37i9dQZF1DWTZeTXqKTge4)
 
-> Le meilleur du hip\-hop québécois\. Photo: Lost
+> Le meilleur du hip\-hop québécois\. Photo: Souldia
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,041 likes - 75 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,048 likes - 75 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Parades Photos](https://open.spotify.com/track/7wc9odIwuIGgPnRpEHEd5B) | [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b), [Dinos](https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2) | [Bonhomme Pendu 4 \(Chapitre Perdu\)](https://open.spotify.com/album/5JWAUtRoJ0Lp2PLy7cn4it) | 3:58 |
-| 2 | [Ceci n'est pas une chanson triste](https://open.spotify.com/track/4vFsK1nytpiiq0pT6m1dQ3) | [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1) | [Ceci n'est pas une chanson triste](https://open.spotify.com/album/7oJcVkwvFeRpLXABS2FZuX) | 3:50 |
+| 1 | [État sauvage](https://open.spotify.com/track/1JutRIZ2wUehAR74oDa8Ot) | [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1) | [État sauvage](https://open.spotify.com/album/4iJYoyKYxXRuskQSwWBB5Q) | 3:08 |
+| 2 | [Parades Photos](https://open.spotify.com/track/7wc9odIwuIGgPnRpEHEd5B) | [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b), [Dinos](https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2) | [Bonhomme Pendu 4 \(Chapitre Perdu\)](https://open.spotify.com/album/5JWAUtRoJ0Lp2PLy7cn4it) | 3:58 |
 | 3 | [Atari](https://open.spotify.com/track/7iIGOm4UGzri6mAMZuIYOP) | [Cupidon](https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV) | [Atari](https://open.spotify.com/album/6qUMwUVNpa89Xyi2YskqN7) | 2:26 |
 | 4 | [Quand le soleil dort](https://open.spotify.com/track/42qKe6HxCMUh8hpJWpxaF0) | [Rymz](https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu), [D4vid Lee](https://open.spotify.com/artist/7LzOVgKtZZlKE2AjJ8qDwy) | [Quand le soleil dort](https://open.spotify.com/album/2xvjP4iuOahJN7wmKGnt6x) | 2:43 |
 | 5 | [Rarri](https://open.spotify.com/track/1KNOUbs4A6XcoQrDcIKK7F) | [TJ DTS](https://open.spotify.com/artist/5uns9i1LQsh6mxqXq1QeAe) | [COINCÉ CHEZ MOI \- ch\. 2](https://open.spotify.com/album/2mpn7OtH4666hO8TVLoVkc) | 2:38 |
@@ -19,9 +19,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 | 9 | [18](https://open.spotify.com/track/1ql8A7vfO3SEedqedSozyX) | [GreenWoodz](https://open.spotify.com/artist/4unjY2cWa4org4JmrS0GES) | [18](https://open.spotify.com/album/4GgfLtSUNl4RhDdGYFUz45) | 2:58 |
 | 10 | [Push Hard](https://open.spotify.com/track/4abfijDfzeV78zrkeB8FzK) | [Connaisseur Ticaso](https://open.spotify.com/artist/6Z7e35747Ty7EmmcOaKa8o), [Monk.E](https://open.spotify.com/artist/0iA2L1Fbkwp3PxiSD22Uou), [Neto Yuth](https://open.spotify.com/artist/25Uj5cijZH1GujWEa9dbUd) | [Rap Life](https://open.spotify.com/album/6VMc6b9oyfPcXkqZEo4Jfw) | 3:56 |
 | 11 | [Tour](https://open.spotify.com/track/4v2DWcJS8tXPMqq9SKX5R5) | [Gutta192](https://open.spotify.com/artist/6xkNjwIRwqWMSw8ARQcppe) | [Tour](https://open.spotify.com/album/2m3epZUipMloYX7ubIeORv) | 3:23 |
-| 12 | [Zoo](https://open.spotify.com/track/7qdSLZGhJSBjB0Ohr37Xt1) | [QCLTUR](https://open.spotify.com/artist/1MIeDvwSEypeVjyu3buPFx), [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp) | [Zoo](https://open.spotify.com/album/2LaE5HhyNSP5eGOswyxPxK) | 3:00 |
-| 13 | [June](https://open.spotify.com/track/6Vo5ENxOavBnY9xANmMqi7) | [LaF](https://open.spotify.com/artist/3fzSQmdffYb5EAzz30qUp8) | [June](https://open.spotify.com/album/3RTNMOpBYxZqtdlU64gMIa) | 2:18 |
-| 14 | [Nouvelle vie](https://open.spotify.com/track/4nXsx2uiPr0fOYRLa6xB52) | [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1) | [Nouvelle vie](https://open.spotify.com/album/5KQCORt6AmV9VcZYYfTWVL) | 3:12 |
+| 12 | [Ceci n'est pas une chanson triste](https://open.spotify.com/track/4vFsK1nytpiiq0pT6m1dQ3) | [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1) | [Ceci n'est pas une chanson triste](https://open.spotify.com/album/7oJcVkwvFeRpLXABS2FZuX) | 3:50 |
+| 13 | [Zoo](https://open.spotify.com/track/7qdSLZGhJSBjB0Ohr37Xt1) | [QCLTUR](https://open.spotify.com/artist/1MIeDvwSEypeVjyu3buPFx), [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp) | [Zoo](https://open.spotify.com/album/2LaE5HhyNSP5eGOswyxPxK) | 3:00 |
+| 14 | [June](https://open.spotify.com/track/6Vo5ENxOavBnY9xANmMqi7) | [LaF](https://open.spotify.com/artist/3fzSQmdffYb5EAzz30qUp8) | [June](https://open.spotify.com/album/3RTNMOpBYxZqtdlU64gMIa) | 2:18 |
 | 15 | [7 Vie Là](https://open.spotify.com/track/02PPZbednkOxP4Q3qpuOHN) | [Frank'emcy](https://open.spotify.com/artist/1U08mG4rKbGFB6kLMg1J0G), [BOLEMVN](https://open.spotify.com/artist/0gGcw3tA1fZoF23qa8KFb7) | [7 Vie Là](https://open.spotify.com/album/3Qhf6BHKSsd1VZlBKOcgK9) | 3:35 |
 | 16 | [GENERAL FINESSE FREESTYLE](https://open.spotify.com/track/5NgnOkOSKphYngPzkx4wlQ) | [Rowjay](https://open.spotify.com/artist/5qMf7CFNNQi7gb1WQb74Pc) | [GENERAL FINESSE FREESTYLE](https://open.spotify.com/album/2CEZwsIJ6Eu5D6CHScYhZh) | 2:23 |
 | 17 | [Chief Keef](https://open.spotify.com/track/5ilRPSFAdxFZReuKUPKzTh) | [Zayo](https://open.spotify.com/artist/12BkdXUWfundfkkXQMiW2n) | [Chief Keef](https://open.spotify.com/album/1Wau0tDMwWxZuELIPdWTPe) | 2:01 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 | 74 | [Gâchis](https://open.spotify.com/track/1IJ7Hr9WZdMDVuscN0guwi) | [Soraï](https://open.spotify.com/artist/38SOUOhlDoh1y9dHlGDbTL) | [Synesthésies](https://open.spotify.com/album/7kRHE7Xjb7sxShWTWC4uf9) | 2:32 |
 | 75 | [Déteste à mort](https://open.spotify.com/track/2pDCWgRRP3zQDgHHCgL6sR) | [Kokujin](https://open.spotify.com/artist/05AB72ti5fWh1ZLzYkBela) | [Déteste à mort](https://open.spotify.com/album/6fCqItTHxqtylCG9frTQ4d) | 2:38 |
 
-Snapshot ID: `ZvYtwAAAAAA2qJpPaeo3aXh45kgDOqxu`
+Snapshot ID: `Zv9oQAAAAAAf7/QeH3MfXQKLGG/lgNMt`

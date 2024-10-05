@@ -647,6 +647,28 @@
     },
     {
       "album": {
+        "name": "California Gold",
+        "url": "https://open.spotify.com/album/5pQs8l0kyftlASrbXp0KU3"
+      },
+      "artists": [
+        {
+          "name": "Nate Smith",
+          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
+        },
+        {
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210026,
+      "name": "Can You Die From a Broken Heart - feat. Avril Lavigne",
+      "url": "https://open.spotify.com/track/7CLZA5K0fklYClw6NUqxhM"
+    },
+    {
+      "album": {
         "name": "Can't Break Up Now",
         "url": "https://open.spotify.com/album/4mwTxDYJxiUMRdGhpiBbx8"
       },
@@ -788,7 +810,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 165921,
       "name": "Cold Feet",
       "url": "https://open.spotify.com/track/2shT6CTsd8TWhFYVqoREDe"
@@ -932,7 +954,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 194346,
       "name": "Daffodils",
       "url": "https://open.spotify.com/track/5UNMwWjbKzj1hn4jSkk9tP"
@@ -1040,7 +1062,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 168271,
       "name": "DESERVE YOU",
       "url": "https://open.spotify.com/track/3lpuOZo3btK6Q2hWGDNo2K"
@@ -1098,7 +1120,7 @@
       ],
       "date_added": "2024-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 196637,
       "name": "Devil's Wine feat. Joe Newton",
       "url": "https://open.spotify.com/track/3FpxNZXWtkfTDCS18ItwlA"
@@ -1228,7 +1250,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 288121,
       "name": "Drowning",
       "url": "https://open.spotify.com/track/22AYv6oubrOclu24nNux0M"
@@ -2073,6 +2095,42 @@
     },
     {
       "album": {
+        "name": "Am I Okay? (I'll Be Fine)",
+        "url": "https://open.spotify.com/album/0AqurYcKg73g81nADrFcyY"
+      },
+      "artists": [
+        {
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220695,
+      "name": "I'll Be Fine",
+      "url": "https://open.spotify.com/track/7r0EPhlEkkKzdLJyPw1wFz"
+    },
+    {
+      "album": {
+        "name": "I'm Still Fine (Live At The Ryman)",
+        "url": "https://open.spotify.com/album/1wjcntBiHDjUXWeuh1dWjn"
+      },
+      "artists": [
+        {
+          "name": "The Red Clay Strays",
+          "url": "https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295050,
+      "name": "I'm Still Fine - Live At The Ryman",
+      "url": "https://open.spotify.com/track/2r0xJVRBoEc6VuuLkVS9jC"
+    },
+    {
+      "album": {
         "name": "COWBOY CARTER",
         "url": "https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ"
       },
@@ -2760,7 +2818,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 190124,
       "name": "One Too Many",
       "url": "https://open.spotify.com/track/2oKAAMhjYdsheJAo8RgtGK"
@@ -3439,6 +3497,24 @@
     },
     {
       "album": {
+        "name": "Takes Me Back",
+        "url": "https://open.spotify.com/album/4LKln6SbewEf7EZcazJomd"
+      },
+      "artists": [
+        {
+          "name": "Tyler Joe Miller",
+          "url": "https://open.spotify.com/artist/1MmpCgmJymS8Etwm9RxuxM"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195290,
+      "name": "Takes Me Back",
+      "url": "https://open.spotify.com/track/3DNAcQ8ChlimJiqGCmmXGz"
+    },
+    {
+      "album": {
         "name": "New Money",
         "url": "https://open.spotify.com/album/6PgLrRwR0H7vgqHhuS5TMc"
       },
@@ -3490,6 +3566,24 @@
       "duration_ms": 233456,
       "name": "TEXAS HOLD 'EM",
       "url": "https://open.spotify.com/track/0Z7nGFVCLfixWctgePsRk9"
+    },
+    {
+      "album": {
+        "name": "That Girl",
+        "url": "https://open.spotify.com/album/2hqp7cdyvx1WEH5O6Aqq5h"
+      },
+      "artists": [
+        {
+          "name": "Kat Luna",
+          "url": "https://open.spotify.com/artist/0ZAMqSlS8quA8VPHdQF6jt"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191233,
+      "name": "That Girl",
+      "url": "https://open.spotify.com/track/1VbtpLopDW6a0GKQEG4Kzb"
     },
     {
       "album": {
@@ -3910,6 +4004,24 @@
       "duration_ms": 217307,
       "name": "Wanna Be Loved",
       "url": "https://open.spotify.com/track/4boa7Bv0VijpxoP1SHjjUb"
+    },
+    {
+      "album": {
+        "name": "weren't for the wind",
+        "url": "https://open.spotify.com/album/2EaHnwT7NSSG207GN94pfN"
+      },
+      "artists": [
+        {
+          "name": "Ella Langley",
+          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193666,
+      "name": "weren't for the wind",
+      "url": "https://open.spotify.com/track/4v9alNvEjLjvqo4LNWwswl"
     },
     {
       "album": {

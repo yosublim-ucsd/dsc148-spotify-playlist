@@ -222,7 +222,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 261068,
       "name": "A Tu Manera",
       "url": "https://open.spotify.com/track/2500EpUpryOBJX0rO8fDuB"
@@ -750,7 +750,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 166453,
       "name": "BARBIEZ",
       "url": "https://open.spotify.com/track/5YZgFW1hURKX02zTayrpGI"
@@ -1272,7 +1272,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 136913,
       "name": "Ch y la Pizza",
       "url": "https://open.spotify.com/track/1ySH55O0zbQBR77q8wQEyn"
@@ -1685,6 +1685,24 @@
     },
     {
       "album": {
+        "name": "Corridos a Lo Maximo",
+        "url": "https://open.spotify.com/album/1s3X0yOH91R03rbWw41Ahv"
+      },
+      "artists": [
+        {
+          "name": "El Rabbanito",
+          "url": "https://open.spotify.com/artist/4VPLEp6rYxqpf6n0QEkS5z"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206461,
+      "name": "David De Los Acme",
+      "url": "https://open.spotify.com/track/1C4notkddInnKftLi0idAW"
+    },
+    {
+      "album": {
         "name": "DDD (Don Dimadon)",
         "url": "https://open.spotify.com/album/57rh0geFIqYsrhh7qq9VGe"
       },
@@ -1708,6 +1726,24 @@
       "duration_ms": 185281,
       "name": "DDD (Don Dimadon)",
       "url": "https://open.spotify.com/track/4RD4bv5iG8233iA3VMgPcF"
+    },
+    {
+      "album": {
+        "name": "DE AMIRI",
+        "url": "https://open.spotify.com/album/1fT0DdRF0jizHPaV0AXDiO"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112840,
+      "name": "DE AMIRI",
+      "url": "https://open.spotify.com/track/0y6utl2xogC5YI2ZLTDCMx"
     },
     {
       "album": {
@@ -1902,7 +1938,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 187352,
       "name": "Disfruto Lo Malo",
       "url": "https://open.spotify.com/track/7LH2UUuyMHt7035PLZQ8wx"
@@ -1936,6 +1972,24 @@
       "duration_ms": 243216,
       "name": "Dos Problemas (feat. Big Soto) - Remix",
       "url": "https://open.spotify.com/track/7bx66Je824Iak8c1CfsMrE"
+    },
+    {
+      "album": {
+        "name": "Drop Shop",
+        "url": "https://open.spotify.com/album/1LGRVtwR1bMvFMQmCpWCQq"
+      },
+      "artists": [
+        {
+          "name": "Antonin Padilla",
+          "url": "https://open.spotify.com/artist/1wlt0D7y3meggHVgSwSqpk"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223190,
+      "name": "Drop Shop",
+      "url": "https://open.spotify.com/track/1vOapxQZPD6ftHk2fhm5EB"
     },
     {
       "album": {
@@ -2158,7 +2212,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 235328,
       "name": "El Doctor",
       "url": "https://open.spotify.com/track/4Eki5zNlMHuBg2IDzNUw5C"
@@ -2180,6 +2234,28 @@
       "duration_ms": 142910,
       "name": "El Drip",
       "url": "https://open.spotify.com/track/5NCBP3ivrIDcHEtzHSW3k0"
+    },
+    {
+      "album": {
+        "name": "El G\u00fcero (En Vivo)",
+        "url": "https://open.spotify.com/album/7JWISvo58VF6E1zefmcMym"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213254,
+      "name": "El G\u00fcero (En Vivo)",
+      "url": "https://open.spotify.com/track/5ZRMUce9HCMJpiIN5rSEYs"
     },
     {
       "album": {
@@ -2237,6 +2313,28 @@
     },
     {
       "album": {
+        "name": "El Mayor de los Ranas",
+        "url": "https://open.spotify.com/album/6Q3K1pFpo5jX2AYrWs9q4h"
+      },
+      "artists": [
+        {
+          "name": "Victor Valverde",
+          "url": "https://open.spotify.com/artist/20nJFshDG1OYH7Qp9K0TXf"
+        },
+        {
+          "name": "JR Torres",
+          "url": "https://open.spotify.com/artist/38Bf9u0Tg0JOEcjxzqSuAj"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172059,
+      "name": "El Mayor de los Ranas",
+      "url": "https://open.spotify.com/track/5E3T0hZ77NXXUtXJocRIOc"
+    },
+    {
+      "album": {
         "name": "El Mexicano Es Cabr\u00f3n",
         "url": "https://open.spotify.com/album/7a3aHh6afvNi5WeTCRatWS"
       },
@@ -2274,6 +2372,28 @@
       "duration_ms": 183953,
       "name": "El Roto",
       "url": "https://open.spotify.com/track/2GrHWsu8r3N8WEQAiiTSlg"
+    },
+    {
+      "album": {
+        "name": "El Roto (En Vivo)",
+        "url": "https://open.spotify.com/album/3wVwuq9AQvjM2duYyhQrCJ"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Los Contacto",
+          "url": "https://open.spotify.com/artist/1T746ELZF5gDelGXV5W5KE"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193237,
+      "name": "El Roto (En Vivo)",
+      "url": "https://open.spotify.com/track/7yPTuRbi0UUUmiT04Jshhc"
     },
     {
       "album": {
@@ -2342,7 +2462,7 @@
       ],
       "date_added": "2022-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 176208,
       "name": "El Vago De Los Nike",
       "url": "https://open.spotify.com/track/3MdhvQ8BprBhd4lYlgtPt2"
@@ -2544,7 +2664,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 147877,
       "name": "Enculado",
       "url": "https://open.spotify.com/track/3RauwC9sLKjxVN7uNw0vAH"
@@ -2829,6 +2949,54 @@
     },
     {
       "album": {
+        "name": "GOMIN0LA",
+        "url": "https://open.spotify.com/album/2r2oiyUHHm0ugOwVmBocoq"
+      },
+      "artists": [
+        {
+          "name": "Plan de Escape",
+          "url": "https://open.spotify.com/artist/4y4uRSNiwurNnkWn9I0z7R"
+        },
+        {
+          "name": "Kevin AMF",
+          "url": "https://open.spotify.com/artist/1XtR9vPQD6cjmHlR5PuHPu"
+        },
+        {
+          "name": "Oscar Ortiz",
+          "url": "https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169440,
+      "name": "GOMIN0LA",
+      "url": "https://open.spotify.com/track/69bGr7FjY7k1DLJEsdRZRy"
+    },
+    {
+      "album": {
+        "name": "Gracias (En Vivo)",
+        "url": "https://open.spotify.com/album/3gtS0XyGrprUswn8LP2xzo"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Grupo Codiciado",
+          "url": "https://open.spotify.com/artist/4aWhlVjiUjYHpVWBPP8AFc"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235221,
+      "name": "Gracias (En Vivo)",
+      "url": "https://open.spotify.com/track/5EaQLzvlO0TefeD4QyUJzx"
+    },
+    {
+      "album": {
         "name": "Gracias (En Vivo)",
         "url": "https://open.spotify.com/album/1J5sBLRkJnpnXOYK31M2ad"
       },
@@ -2966,7 +3134,7 @@
       ],
       "date_added": "2022-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 139842,
       "name": "Guisao",
       "url": "https://open.spotify.com/track/0FPDGbsYjSZUJljhz6FewQ"
@@ -3018,7 +3186,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 190671,
       "name": "Hablando Claro (En Vivo)",
       "url": "https://open.spotify.com/track/5hRFjooNvZWb9gdnXjrv2j"
@@ -3168,7 +3336,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 255000,
       "name": "Hurac\u00e1n",
       "url": "https://open.spotify.com/track/1QSxLf1ldQnoBqOoLKQT9e"
@@ -3377,6 +3545,24 @@
     },
     {
       "album": {
+        "name": "El Caminito",
+        "url": "https://open.spotify.com/album/67epWivg3BVBB4Pjk9B7Q4"
+      },
+      "artists": [
+        {
+          "name": "Virlan Garcia",
+          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178721,
+      "name": "Juan Carlos \"Lefty SM\"",
+      "url": "https://open.spotify.com/track/7h4J9noNJOCTCfKz6iR1FE"
+    },
+    {
+      "album": {
         "name": "Kalashnikov",
         "url": "https://open.spotify.com/album/1tK3FjbSU0jEurD4lcWLPY"
       },
@@ -3410,7 +3596,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 182052,
       "name": "L-Gante Rkt",
       "url": "https://open.spotify.com/track/6EHrppRT1Uj4cyShAujxFu"
@@ -3502,6 +3688,24 @@
       "duration_ms": 226010,
       "name": "La Botella",
       "url": "https://open.spotify.com/track/6GPBXtnSepHovJi1uD1Ggj"
+    },
+    {
+      "album": {
+        "name": "La Brabus",
+        "url": "https://open.spotify.com/album/3TA3TzlJWGWecdKyERJC72"
+      },
+      "artists": [
+        {
+          "name": "Eme MalaFe",
+          "url": "https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209018,
+      "name": "La Brabus",
+      "url": "https://open.spotify.com/track/2Of9oTzvMLeaSncjYf4TDC"
     },
     {
       "album": {
@@ -3702,6 +3906,28 @@
       "duration_ms": 222600,
       "name": "La Marcha De Los Tristes",
       "url": "https://open.spotify.com/track/57RKxckEkdbK7QXbN2ufzp"
+    },
+    {
+      "album": {
+        "name": "No Hay Loco Que No Corone",
+        "url": "https://open.spotify.com/album/5eRGBk1uRevmtq1A9R2HS0"
+      },
+      "artists": [
+        {
+          "name": "El Bogueto",
+          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
+        },
+        {
+          "name": "Uzielito Mix",
+          "url": "https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159182,
+      "name": "La Mariconera",
+      "url": "https://open.spotify.com/track/6YBT8X7UohJrTv5BaRgAu8"
     },
     {
       "album": {
@@ -4521,6 +4747,28 @@
     },
     {
       "album": {
+        "name": "Mejores Jordans",
+        "url": "https://open.spotify.com/album/6gK267rs4q9swdpzj79Roz"
+      },
+      "artists": [
+        {
+          "name": "Victor Mendivil",
+          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
+        },
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234077,
+      "name": "Mejores Jordans",
+      "url": "https://open.spotify.com/track/1cZHUhGz7xJ8c4szDipipd"
+    },
+    {
+      "album": {
         "name": "Atrapado en un Sue\u00f1o",
         "url": "https://open.spotify.com/album/4UmrKzDJX0agxs2VF9lkaF"
       },
@@ -4532,7 +4780,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 192390,
       "name": "Mente Positiva",
       "url": "https://open.spotify.com/track/3WQilym5Vi4ypxb70vx0eY"
@@ -4690,6 +4938,28 @@
       "duration_ms": 165275,
       "name": "Mi\u00e9nteme",
       "url": "https://open.spotify.com/track/0cOa970mzTWAxKtltpkpLc"
+    },
+    {
+      "album": {
+        "name": "MONEY EDITION",
+        "url": "https://open.spotify.com/album/0FHtzHjyMXFagXDyvmTp8i"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        },
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158841,
+      "name": "MONEY EDITION",
+      "url": "https://open.spotify.com/track/1TUEXG5qBYH9f6smXUe5Y0"
     },
     {
       "album": {
@@ -5469,6 +5739,28 @@
     },
     {
       "album": {
+        "name": "PARIENTON",
+        "url": "https://open.spotify.com/album/08cEDf8JBIoxWEtMAZDHvR"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Caro",
+          "url": "https://open.spotify.com/artist/7y6eZQZwyUvR4PlZOVSR7I"
+        },
+        {
+          "name": "JR Torres",
+          "url": "https://open.spotify.com/artist/38Bf9u0Tg0JOEcjxzqSuAj"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149265,
+      "name": "PARIENTON",
+      "url": "https://open.spotify.com/track/1EpNEqoFxHZk5U3StFC1H9"
+    },
+    {
+      "album": {
         "name": "Pari\u0301s",
         "url": "https://open.spotify.com/album/6Ktv94u6eUIZBiUiBwOADD"
       },
@@ -5714,10 +6006,48 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 218250,
       "name": "Por Mi M\u00e9xico",
       "url": "https://open.spotify.com/track/6f3ISIn47Wyg6X0V8eHMjm"
+    },
+    {
+      "album": {
+        "name": "Por Mi M\u00e9xico (Remix)",
+        "url": "https://open.spotify.com/album/3p22kEU3PqsIrYWJpa9Bko"
+      },
+      "artists": [
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        },
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        },
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        },
+        {
+          "name": "C-Kan",
+          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
+        },
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        },
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 405000,
+      "name": "Por Mi M\u00e9xico (Remix)",
+      "url": "https://open.spotify.com/track/2m3Fqmw1mfs39KklPmjq79"
     },
     {
       "album": {
@@ -6060,7 +6390,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 162475,
       "name": "Que Esta Pasando",
       "url": "https://open.spotify.com/track/26xQbFpVg8JCT5NKQFJXg8"
@@ -6412,7 +6742,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 156500,
       "name": "SABOR FRESA",
       "url": "https://open.spotify.com/track/1UMm1Qs3u59Wvk53zBUE8r"
@@ -6540,6 +6870,28 @@
       "duration_ms": 187835,
       "name": "Se Fue La Pantera",
       "url": "https://open.spotify.com/track/7G3h22znCIwaN07Q2s1ukR"
+    },
+    {
+      "album": {
+        "name": "Se Fue La Pantera (En Vivo)",
+        "url": "https://open.spotify.com/album/0RkWV2GJE6IL6u2ceoiyhx"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Grupo Recluta",
+          "url": "https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202021,
+      "name": "Se Fue La Pantera (En Vivo)",
+      "url": "https://open.spotify.com/track/0x9hoejskPyskIfWc0P3uW"
     },
     {
       "album": {
@@ -6862,7 +7214,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 219573,
       "name": "Si Te Vienen a Contar",
       "url": "https://open.spotify.com/track/4058DPUoC7sLPQ05pr3e4C"
@@ -6920,7 +7272,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 200161,
       "name": "Sigo Chambeando",
       "url": "https://open.spotify.com/track/4PR0r2us3a64lTew6TVlF2"
@@ -7038,6 +7390,24 @@
       "duration_ms": 243000,
       "name": "Socios",
       "url": "https://open.spotify.com/track/7d8TPVWQLeW5PKrAb76V3N"
+    },
+    {
+      "album": {
+        "name": "Sold Out",
+        "url": "https://open.spotify.com/album/5XUjM0qIqjfCQ9itrQPfFi"
+      },
+      "artists": [
+        {
+          "name": "Tombochio",
+          "url": "https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198036,
+      "name": "Sold Out",
+      "url": "https://open.spotify.com/track/7EVpvxlgcBcXl8HBBnG0kx"
     },
     {
       "album": {
@@ -7246,7 +7616,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 218045,
       "name": "Te Ire a Buscar",
       "url": "https://open.spotify.com/track/5NEIEghTIfcIIOKuLlaKPc"
@@ -7718,7 +8088,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 158965,
       "name": "TQM",
       "url": "https://open.spotify.com/track/368eeEO3Y2uZUQ6S5oIjcu"
@@ -7810,6 +8180,46 @@
       "duration_ms": 162648,
       "name": "TRES BOTELLAS",
       "url": "https://open.spotify.com/track/2CshODtf7iwe3pKlPmEWF5"
+    },
+    {
+      "album": {
+        "name": "Tronando Ligas",
+        "url": "https://open.spotify.com/album/7idHMYzKwME3BmhHiusrJ3"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155818,
+      "name": "Tronando Ligas",
+      "url": "https://open.spotify.com/track/6Xfu24Hd3ufGrpGyZFy07M"
+    },
+    {
+      "album": {
+        "name": "Tuesday",
+        "url": "https://open.spotify.com/album/097u0yAwcEdC4L0J8ZNF2f"
+      },
+      "artists": [
+        {
+          "name": "Tombochio",
+          "url": "https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153402,
+      "name": "Tuesday",
+      "url": "https://open.spotify.com/track/2J0MnYyJe5yVpETzvDFBdU"
     },
     {
       "album": {
@@ -8062,6 +8472,24 @@
       "duration_ms": 176133,
       "name": "Vaina Loca",
       "url": "https://open.spotify.com/track/48zFZh27QU5qsrBjn4C2FA"
+    },
+    {
+      "album": {
+        "name": "Van Cleef",
+        "url": "https://open.spotify.com/album/547ls3Aoqi2xExYUlW00lT"
+      },
+      "artists": [
+        {
+          "name": "El Padrinito Toys",
+          "url": "https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144104,
+      "name": "Van Cleef",
+      "url": "https://open.spotify.com/track/1yRWBqzIjOrizGaBfxFBvc"
     },
     {
       "album": {
@@ -8358,7 +8786,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 289013,
       "name": "\u00c9xtasis (feat. Cartel de Santa)",
       "url": "https://open.spotify.com/track/4xbMF8jx0msGGgrtJaAuXE"

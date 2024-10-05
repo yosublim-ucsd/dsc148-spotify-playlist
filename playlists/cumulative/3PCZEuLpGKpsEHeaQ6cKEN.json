@@ -913,6 +913,28 @@
     },
     {
       "album": {
+        "name": "Angel",
+        "url": "https://open.spotify.com/album/5k1xcawFrEgQWIANMi4b7C"
+      },
+      "artists": [
+        {
+          "name": "Old Jim",
+          "url": "https://open.spotify.com/artist/6v2YWK8EvCyut0QtBcAypu"
+        },
+        {
+          "name": "VIZE",
+          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161600,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/7lPc9AA8HjgEM0D5Et03Nu"
+    },
+    {
+      "album": {
         "name": "Another Dimension",
         "url": "https://open.spotify.com/album/5F8ZSBIcPgssjylamnByil"
       },
@@ -8986,7 +9008,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 176077,
       "name": "High On Love",
       "url": "https://open.spotify.com/track/0K2VANgf1sgRsgJA3W205u"
@@ -13034,7 +13056,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 182432,
       "name": "Love Is A Drug - Agents Of Time Remix",
       "url": "https://open.spotify.com/track/3MFiwJCd3rMIzFyQkt8FOo"
@@ -15156,7 +15178,7 @@
       ],
       "date_added": "2024-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 160000,
       "name": "Now Love Will Begin",
       "url": "https://open.spotify.com/track/6F25FmoNZ2ESMPmYWMbsIG"
@@ -18456,6 +18478,32 @@
       "duration_ms": 221550,
       "name": "Sand",
       "url": "https://open.spotify.com/track/5wIOba6Tp9lqoOlIkePym5"
+    },
+    {
+      "album": {
+        "name": "Sarabande",
+        "url": "https://open.spotify.com/album/4X7B8PnpBn7jZ1xDGrmIRS"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Vini Vici",
+          "url": "https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy"
+        },
+        {
+          "name": "Anna Timofei",
+          "url": "https://open.spotify.com/artist/4srvcFuQaZHS0KyBvFApWG"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196666,
+      "name": "Sarabande",
+      "url": "https://open.spotify.com/track/5ZwFCHzRbAll8TTvDmAKht"
     },
     {
       "album": {
@@ -23846,6 +23894,28 @@
       "duration_ms": 189102,
       "name": "Vertigo",
       "url": "https://open.spotify.com/track/5rWcCmqVjQpmmhbOpZ65aN"
+    },
+    {
+      "album": {
+        "name": "Vertigo",
+        "url": "https://open.spotify.com/album/5K5VNRZvAXAyVBXN46yBIL"
+      },
+      "artists": [
+        {
+          "name": "Odd Mob",
+          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
+        },
+        {
+          "name": "Ed Graves",
+          "url": "https://open.spotify.com/artist/1Kkcm36k22FT1RWcINq4sI"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148124,
+      "name": "Vertigo",
+      "url": "https://open.spotify.com/track/6BvDqzkCDX5PO02ymVREqp"
     },
     {
       "album": {

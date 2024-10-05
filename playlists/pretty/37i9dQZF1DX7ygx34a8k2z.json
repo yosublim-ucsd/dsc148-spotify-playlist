@@ -1,6 +1,6 @@
 {
   "description": "dig through the record bin.",
-  "num_followers": 242987,
+  "num_followers": 243170,
   "original_name": "Thrifted",
   "owner": {
     "name": "Spotify",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2024-09-04 15:37:25",
       "album": {
-        "name": "13",
-        "url": "https://open.spotify.com/album/5YuZ4DjvtZBywtIbHIqtGJ"
-      },
-      "artists": [
-        {
-          "name": "Blur",
-          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
-        }
-      ],
-      "duration_ms": 208266,
-      "name": "No Distance Left to Run",
-      "url": "https://open.spotify.com/track/0SaRvx9eYudSCQYNjuCQKX"
-    },
-    {
-      "added_at": "2024-09-04 15:37:25",
-      "album": {
         "name": "Porno For Pyros",
         "url": "https://open.spotify.com/album/1wTVRmgk25jTh6VsrxCFDr"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 216733,
       "name": "Pets",
       "url": "https://open.spotify.com/track/5kcQEPksJHTOLQ4In5oGN2"
+    },
+    {
+      "added_at": "2024-09-04 15:37:25",
+      "album": {
+        "name": "13",
+        "url": "https://open.spotify.com/album/5YuZ4DjvtZBywtIbHIqtGJ"
+      },
+      "artists": [
+        {
+          "name": "Blur",
+          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
+        }
+      ],
+      "duration_ms": 208266,
+      "name": "No Distance Left to Run",
+      "url": "https://open.spotify.com/track/0SaRvx9eYudSCQYNjuCQKX"
     },
     {
       "added_at": "2024-09-04 15:37:25",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2024-09-04 15:37:25",
       "album": {
-        "name": "Stoned and Dethroned (Expanded Version)",
-        "url": "https://open.spotify.com/album/6ufoOtpwsgx0wpbQBQOH7H"
-      },
-      "artists": [
-        {
-          "name": "The Jesus and Mary Chain",
-          "url": "https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs"
-        }
-      ],
-      "duration_ms": 151960,
-      "name": "Sometimes Always",
-      "url": "https://open.spotify.com/track/16vuZiAS0YQkQvAkRtI2d3"
-    },
-    {
-      "added_at": "2024-09-04 15:37:25",
-      "album": {
         "name": "Hello Nasty (Deluxe Edition/Remastered)",
         "url": "https://open.spotify.com/album/6eGYLONkDMja0MNtZWnRRB"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 180373,
       "name": "I Don't Know - Remastered 2009",
       "url": "https://open.spotify.com/track/10FLYqpqDN4uo6eWtD6WEB"
+    },
+    {
+      "added_at": "2024-09-04 15:37:25",
+      "album": {
+        "name": "Stoned and Dethroned (Expanded Version)",
+        "url": "https://open.spotify.com/album/6ufoOtpwsgx0wpbQBQOH7H"
+      },
+      "artists": [
+        {
+          "name": "The Jesus and Mary Chain",
+          "url": "https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs"
+        }
+      ],
+      "duration_ms": 151960,
+      "name": "Sometimes Always",
+      "url": "https://open.spotify.com/track/16vuZiAS0YQkQvAkRtI2d3"
     },
     {
       "added_at": "2024-09-04 15:37:25",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2024-09-04 15:37:25",
       "album": {
-        "name": "Screamadelica",
-        "url": "https://open.spotify.com/album/4TECsw2dFHZ1ULrT7OA3OL"
-      },
-      "artists": [
-        {
-          "name": "Primal Scream",
-          "url": "https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze"
-        }
-      ],
-      "duration_ms": 230533,
-      "name": "Movin' on Up",
-      "url": "https://open.spotify.com/track/5Vx3e9PipiEceifVyBzCdj"
-    },
-    {
-      "added_at": "2024-09-04 15:37:25",
-      "album": {
         "name": "Brighten the Corners",
         "url": "https://open.spotify.com/album/1Q6ikDUK4RFtLI3N9Lll9h"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 230973,
       "name": "Shady Lane",
       "url": "https://open.spotify.com/track/0JZAGUbzkwWSnoInuWoBgd"
+    },
+    {
+      "added_at": "2024-09-04 15:37:25",
+      "album": {
+        "name": "Screamadelica",
+        "url": "https://open.spotify.com/album/4TECsw2dFHZ1ULrT7OA3OL"
+      },
+      "artists": [
+        {
+          "name": "Primal Scream",
+          "url": "https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze"
+        }
+      ],
+      "duration_ms": 230533,
+      "name": "Movin' on Up",
+      "url": "https://open.spotify.com/track/5Vx3e9PipiEceifVyBzCdj"
     },
     {
       "added_at": "2024-09-04 15:37:25",

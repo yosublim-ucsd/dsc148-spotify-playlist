@@ -4,23 +4,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 
 > pearls of an oyster\. Cover: Jhon Allan
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,843 likes - 103 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,872 likes - 103 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Waited All Night](https://open.spotify.com/track/0TBETiWtmbXvj0g5RVaRTb) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb), [Oliver Sim](https://open.spotify.com/artist/4KDu9uqzqseVCpQXMa8Pvm), [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [Waited All Night](https://open.spotify.com/album/0pCKkt2fkUpUNuDuV45ei8) | 3:28 |
 | 2 | [Let's Go Back](https://open.spotify.com/track/3fvZo45Y28ly1QBo05pujJ) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Let's Go Back](https://open.spotify.com/album/7CRD6yQGeaAmA5AVXluBul) | 2:49 |
 | 3 | [All I Got](https://open.spotify.com/track/2LMK2xLfWLKbfjZgtBWByM) | [Masšh](https://open.spotify.com/artist/6QRqfE9Na7BRYG1mxRYqGs), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j), [Ninae](https://open.spotify.com/artist/5aTBULJ6efMF1VyzcxMXa6) | [All I Got](https://open.spotify.com/album/7Mmq6Qpis7mg3g8j4uzBTL) | 4:55 |
-| 4 | [I made my baby cry](https://open.spotify.com/track/0UuFazFQ0cPYxAgFG4R739) | [Becky and the Birds](https://open.spotify.com/artist/52MMXmgPC7kDNIYUxCeh8d) | [I made my baby cry](https://open.spotify.com/album/63juu0SyImhGnHK8S9HtUZ) | 2:55 |
-| 5 | [Milkshakes](https://open.spotify.com/track/785wupFFLVza0ZjEJaH5Xy) | [Felix Sandman](https://open.spotify.com/artist/2M6dCv6FDYMum9nPnNB5Vy) | [Milkshakes](https://open.spotify.com/album/1r2Tn585ZGylZPRXe02moV) | 2:27 |
-| 6 | [1900's](https://open.spotify.com/track/79XRUITVajhW5Snn7WF3YQ) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [JAGUAR II : Deluxe](https://open.spotify.com/album/7mHd5i7hgpHiMM3BFyfRdn) | 2:29 |
-| 7 | [Dancing Circles 2.0](https://open.spotify.com/track/3C5eqElWp0s4of3vTU37bF) | [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Lahai \- Deluxe](https://open.spotify.com/album/0oKro6GftR6X0sk7fVH7T8) | 3:46 |
-| 8 | [All Night](https://open.spotify.com/track/2VHlTLNsbMuhxiTasirOIn) | [The Dare](https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb) | [What's Wrong With New York?](https://open.spotify.com/album/7yscvqpYCcpNEgByHSzwrN) | 3:53 |
-| 9 | [Friday \(Alone Right Now\)](https://open.spotify.com/track/3hx5rxhEbaSIoHY1erGnby) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [TANZPARTEI II \(Mixtape\)](https://open.spotify.com/album/6lvniwPO6u3mkNTN3tSQcR) | 2:31 |
-| 10 | [I'M A GREAT DAY](https://open.spotify.com/track/5nYmcW3XwVzEuPRvOh4Cpv) | [Erika Sirola](https://open.spotify.com/artist/1OHw2r7Diz2rc9JktaFV6N) | [I'M A GREAT DAY](https://open.spotify.com/album/0Nzxfeb85vGezniAlYMMK9) | 2:04 |
-| 11 | [Business Blues](https://open.spotify.com/track/4JspSnfiV6X8okxoPthpwt) | [GUZO](https://open.spotify.com/artist/5kYNsgbRhmiRs9FZxwaFwV) | [Caravan](https://open.spotify.com/album/4T2juNoEsMWucQH4aagNLi) | 1:54 |
-| 12 | [Do you wanna \- Fine & Molina Edit](https://open.spotify.com/track/6xTOSlWaiBRiVj3Xh265FL) | [Astrid Sonne](https://open.spotify.com/artist/7qiyPneI60DzZmxVxC7689), [Fine](https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5), [Molina](https://open.spotify.com/artist/0pxhu7zSqPjBTUWMl6piHF) | [EDITS](https://open.spotify.com/album/3Q4ckErENVJA9V1nx3pMS4) | 2:25 |
-| 13 | [RADIO INTERRUPTIONS ABOUT MY FEELINGS](https://open.spotify.com/track/2NeOYUqYCf1hWLTYz0LGS2) | [Jhon Allan](https://open.spotify.com/artist/2ktaLonDF6CapHBx6IP1vS) | [Nothing's TMI](https://open.spotify.com/album/6enIJfJkP7dJTBVkulFuG6) | 1:32 |
+| 4 | [RADIO INTERRUPTIONS ABOUT MY FEELINGS](https://open.spotify.com/track/2NeOYUqYCf1hWLTYz0LGS2) | [Jhon Allan](https://open.spotify.com/artist/2ktaLonDF6CapHBx6IP1vS) | [Nothing's TMI](https://open.spotify.com/album/6enIJfJkP7dJTBVkulFuG6) | 1:32 |
+| 5 | [I made my baby cry](https://open.spotify.com/track/0UuFazFQ0cPYxAgFG4R739) | [Becky and the Birds](https://open.spotify.com/artist/52MMXmgPC7kDNIYUxCeh8d) | [I made my baby cry](https://open.spotify.com/album/63juu0SyImhGnHK8S9HtUZ) | 2:55 |
+| 6 | [Milkshakes](https://open.spotify.com/track/785wupFFLVza0ZjEJaH5Xy) | [Felix Sandman](https://open.spotify.com/artist/2M6dCv6FDYMum9nPnNB5Vy) | [Milkshakes](https://open.spotify.com/album/1r2Tn585ZGylZPRXe02moV) | 2:27 |
+| 7 | [1900's](https://open.spotify.com/track/79XRUITVajhW5Snn7WF3YQ) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [JAGUAR II : Deluxe](https://open.spotify.com/album/7mHd5i7hgpHiMM3BFyfRdn) | 2:29 |
+| 8 | [Dancing Circles 2.0](https://open.spotify.com/track/3C5eqElWp0s4of3vTU37bF) | [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Lahai \- Deluxe](https://open.spotify.com/album/0oKro6GftR6X0sk7fVH7T8) | 3:46 |
+| 9 | [All Night](https://open.spotify.com/track/2VHlTLNsbMuhxiTasirOIn) | [The Dare](https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb) | [What's Wrong With New York?](https://open.spotify.com/album/7yscvqpYCcpNEgByHSzwrN) | 3:53 |
+| 10 | [Friday \(Alone Right Now\)](https://open.spotify.com/track/3hx5rxhEbaSIoHY1erGnby) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [TANZPARTEI II \(Mixtape\)](https://open.spotify.com/album/6lvniwPO6u3mkNTN3tSQcR) | 2:31 |
+| 11 | [I'M A GREAT DAY](https://open.spotify.com/track/5nYmcW3XwVzEuPRvOh4Cpv) | [Erika Sirola](https://open.spotify.com/artist/1OHw2r7Diz2rc9JktaFV6N) | [I'M A GREAT DAY](https://open.spotify.com/album/0Nzxfeb85vGezniAlYMMK9) | 2:04 |
+| 12 | [Business Blues](https://open.spotify.com/track/4JspSnfiV6X8okxoPthpwt) | [GUZO](https://open.spotify.com/artist/5kYNsgbRhmiRs9FZxwaFwV) | [Caravan](https://open.spotify.com/album/4T2juNoEsMWucQH4aagNLi) | 1:54 |
+| 13 | [Do you wanna \- Fine + Molina EDIT](https://open.spotify.com/track/6xTOSlWaiBRiVj3Xh265FL) | [Astrid Sonne](https://open.spotify.com/artist/7qiyPneI60DzZmxVxC7689), [Fine](https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5), [Molina](https://open.spotify.com/artist/0pxhu7zSqPjBTUWMl6piHF) | [Great Doubt \(EDITS\)](https://open.spotify.com/album/3Q4ckErENVJA9V1nx3pMS4) | 2:25 |
 | 14 | [Got to Change](https://open.spotify.com/track/5oV0DfWqOf8hn40u37hepA) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Honey](https://open.spotify.com/album/7uxfQPw7jZrMCwmFijglNT) | 3:11 |
 | 15 | [Digital girl \- funk remix](https://open.spotify.com/track/2mBNIt6P5TPuly5JdKUPzH) | [DJ Suzy](https://open.spotify.com/artist/5RyMh1IvhH3f3mKNItWdMc) | [Digital girl](https://open.spotify.com/album/1WaLWK5ZcxZVSPYy7GAdtY) | 2:54 |
 | 16 | [24 \(Turn It Up\) \(Radio Edit\)](https://open.spotify.com/track/2QJoGGYG3hUZswfzYI6bBC) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [Kurtis Wells](https://open.spotify.com/artist/2HOnhVnbETGW5Q9TVdZm0S) | [24 \(Turn It Up\) \(Radio Edit\)](https://open.spotify.com/album/2s9zNqmUbiwUbF4xSAFFQJ) | 3:16 |
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 | 102 | [Dangerous](https://open.spotify.com/track/16pWwIOwWNrS7Hrt6YDxok) | [HILLARI](https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM) | [Dangerous](https://open.spotify.com/album/0EdDw4yXJ4x1X44QCkM8i1) | 3:30 |
 | 103 | [You're the Best](https://open.spotify.com/track/5vjkYtVO6JVIwqEN7lbtxE) | [Otha](https://open.spotify.com/artist/6UMUvqiDBEJLyx2uYplGCV) | [You're the Best](https://open.spotify.com/album/69jGwOCfLDLfps1E7nXMPg) | 2:01 |
 
-Snapshot ID: `Zv8T4AAAAAAPNcP1lq5JeB47UwyO8ju0`
+Snapshot ID: `Zv+Z3QAAAADf/kNvWahJBXxAdr0CtD6k`

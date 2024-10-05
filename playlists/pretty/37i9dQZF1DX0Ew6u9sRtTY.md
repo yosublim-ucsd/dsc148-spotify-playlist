@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Ew6u9sRtTY.md) - [plain]
 
 > Remember these?
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,287,519 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,287,749 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Ew6u9sRtTY.md) - [plain]
 | 10 | [Bad Day](https://open.spotify.com/track/0mUyMawtxj1CJ76kn9gIZK) | [Daniel Powter](https://open.spotify.com/artist/7xTcuBOIAAIGDOSvwYFPzk) | [Daniel Powter](https://open.spotify.com/album/4zhigAhPwqp43XVHBiVeQI) | 3:53 |
 | 11 | [Stacy's Mom](https://open.spotify.com/track/27L8sESb3KR79asDUBu8nW) | [Fountains Of Wayne](https://open.spotify.com/artist/1pgtr4nhBQjp9oCUBPyYWh) | [Welcome Interstate Managers](https://open.spotify.com/album/6TZp52tXShLQbq8yNMxqNT) | 3:17 |
 | 12 | [Cotton Eye Joe](https://open.spotify.com/track/06hsdMbBxWGqBO0TV0Zrkf) | [Rednex](https://open.spotify.com/artist/22Zqu1yyebVnbve8FxbJ2g) | [Sex & Violins](https://open.spotify.com/album/5DA2dJgKERij9OVWbJDZDj) | 3:14 |
-| 13 | [My Sharona](https://open.spotify.com/track/1HOMkjp0nHMaTnfAkslCQj) | [The Knack](https://open.spotify.com/artist/0Nn9YwJzcaeuU1jJL06e3r) | [Get The Knack](https://open.spotify.com/album/6H0wsYDvFlATzXHn0IqVpi) | 4:55 |
-| 14 | [Ice Ice Baby](https://open.spotify.com/track/3XVozq1aeqsJwpXrEZrDJ9) | [Vanilla Ice](https://open.spotify.com/artist/7GXXMm3DB1VswVcuGyInUd) | [Vanilla Ice Is Back! \- Hip Hop Classics](https://open.spotify.com/album/20O6lfaDAoMhUj5TAvVbb6) | 4:14 |
+| 13 | [Ice Ice Baby](https://open.spotify.com/track/3XVozq1aeqsJwpXrEZrDJ9) | [Vanilla Ice](https://open.spotify.com/artist/7GXXMm3DB1VswVcuGyInUd) | [Vanilla Ice Is Back! \- Hip Hop Classics](https://open.spotify.com/album/20O6lfaDAoMhUj5TAvVbb6) | 4:14 |
+| 14 | [My Sharona](https://open.spotify.com/track/1HOMkjp0nHMaTnfAkslCQj) | [The Knack](https://open.spotify.com/artist/0Nn9YwJzcaeuU1jJL06e3r) | [Get The Knack](https://open.spotify.com/album/6H0wsYDvFlATzXHn0IqVpi) | 4:55 |
 | 15 | [Bitch](https://open.spotify.com/track/3i6qNxyVgIdUZTTi5m25EM) | [Meredith Brooks](https://open.spotify.com/artist/2QmLFuIDtNDmmJY3OtvinN) | [Blurring The Edges](https://open.spotify.com/album/56viTB3cu7FbFwAWDctRz1) | 4:12 |
 | 16 | [Video Killed The Radio Star](https://open.spotify.com/track/7o7E1nrHWncYY7PY94gCiX) | [The Buggles](https://open.spotify.com/artist/057gc1fxmJ2vkctjQJ7Tal) | [The Age Of Plastic](https://open.spotify.com/album/2fgCz9kQCDy0miERCy0sCJ) | 4:12 |
 | 17 | [Hold You \- Hold Yuh](https://open.spotify.com/track/0j55p8YRAPG8yajtNyjt6A) | [Gyptian](https://open.spotify.com/artist/2JX4h8xm0hNxCB0aNBWzyi) | [Hold You](https://open.spotify.com/album/3Oi5j0kqicMfqW51jqrsfe) | 3:53 |
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Ew6u9sRtTY.md) - [plain]
 | 41 | [Do You Really Like It? \- Radio Edit](https://open.spotify.com/track/4Mnw05kNd0j1XDHwtfzofp) | [DJ Pied Piper & The Masters Of Ceremonies](https://open.spotify.com/artist/7KMddxPqjqv0fiucwg0c3D) | [Do You Really Like It? \(Remixes\)](https://open.spotify.com/album/6Q29k7cHbnjX8ErN6B32GV) | 3:37 |
 | 42 | [Babycakes](https://open.spotify.com/track/0dAn58pe2GWDTlqa2Th4mP) | [3 Of A Kind](https://open.spotify.com/artist/0WG74hoaVTaNb3hx3yRqb1) | [Babycakes](https://open.spotify.com/album/4sW39hh7uYqe8zDg7ylPAW) | 2:34 |
 | 43 | [Bom Bom \- Radio Edit](https://open.spotify.com/track/0d5f6gzzW1Pgx9uJsLrSDP) | [Sam And The Womp](https://open.spotify.com/artist/3tgiOZXeC1DIimfprvfL64) | [Bom Bom](https://open.spotify.com/album/69onf0drqjCpyjgJsIb8BJ) | 2:54 |
-| 44 | [Glorious](https://open.spotify.com/track/3Mx6U6CpcvLj4fHYneg5RB) | [Andreas Johnson](https://open.spotify.com/artist/5CKhp4ovgbSd7PdVIza7cC) | [Liebling \(France version\)](https://open.spotify.com/album/5JP2ldSSJOjHsLmiKNZmsP) | 3:27 |
-| 45 | [Here Comes the Hotstepper](https://open.spotify.com/track/4vfzROmNsxedKICcHod5Rh) | [iNi Kamoze](https://open.spotify.com/artist/1VJspRsoC6c0bvqhnSiFCs) | [On Your 90's Radio](https://open.spotify.com/album/3mc83JE8jhpDb9Jd0eNm7M) | 4:04 |
+| 44 | [Here Comes the Hotstepper](https://open.spotify.com/track/4vfzROmNsxedKICcHod5Rh) | [iNi Kamoze](https://open.spotify.com/artist/1VJspRsoC6c0bvqhnSiFCs) | [On Your 90's Radio](https://open.spotify.com/album/3mc83JE8jhpDb9Jd0eNm7M) | 4:04 |
+| 45 | [Glorious](https://open.spotify.com/track/3Mx6U6CpcvLj4fHYneg5RB) | [Andreas Johnson](https://open.spotify.com/artist/5CKhp4ovgbSd7PdVIza7cC) | [Liebling \(France version\)](https://open.spotify.com/album/5JP2ldSSJOjHsLmiKNZmsP) | 3:27 |
 | 46 | [I Just Can't Get Enough](https://open.spotify.com/track/3qvpEn5eo8tfhN4UayKdqZ) | [Herd & Fitz](https://open.spotify.com/artist/7L6QP4RbQLJplFQPAlOr5p), [Abigail Bailey](https://open.spotify.com/artist/0QUNf5BdFRIp6NSs2WbgxM) | [I Just Can't Get Enough](https://open.spotify.com/album/4HBa4HYHabgy1z6yM5Gdil) | 3:12 |
 | 47 | [Fight Song](https://open.spotify.com/track/1m0E5D8cOJyO1A2IBX4w4i) | [Rachel Platten](https://open.spotify.com/artist/3QLIkT4rD2FMusaqmkepbq) | [Fight Song](https://open.spotify.com/album/39WI8tjY7vH68xrNiDKNly) | 3:22 |
 | 48 | [Voodoo Child](https://open.spotify.com/track/5KVll4Si4pL02nmrUvAHrc) | [Rogue Traders](https://open.spotify.com/artist/3YUrEElXpqiPSbffh9XXZd) | [The Sound Of Drums](https://open.spotify.com/album/5o8IrQOjfnuWNpQtzvZEOP) | 3:57 |

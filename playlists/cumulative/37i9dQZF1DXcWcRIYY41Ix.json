@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "La nueva ola de trovadores del Siglo XXI. En portada: Alejandro y Maria Laura.",
+  "description": "La nueva ola de trovadores del siglo XXI. En portada: Lhasa de Sela.",
   "name": "Cancionistas",
   "tracks": [
     {
@@ -38,7 +38,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 174954,
       "name": "21 DE ENERo",
       "url": "https://open.spotify.com/track/7g65PzaqZSmdvhQwmOwc8i"
@@ -1557,6 +1557,24 @@
     },
     {
       "album": {
+        "name": "C/ VIEJOS",
+        "url": "https://open.spotify.com/album/4sncZPHkQoPYhBBSwnFi6a"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda Yfeu",
+          "url": "https://open.spotify.com/artist/46tCymlXwfZS4wog93XK0B"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180279,
+      "name": "C/ VIEJOS",
+      "url": "https://open.spotify.com/track/4hhMoM1eaLHBosahwhNGkw"
+    },
+    {
+      "album": {
         "name": "Cachorros",
         "url": "https://open.spotify.com/album/778keyuS5PtBnrLl9LGbmA"
       },
@@ -1730,7 +1748,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-30",
+      "date_removed": null,
       "duration_ms": 203393,
       "name": "Camino al Bemb\u00e9",
       "url": "https://open.spotify.com/track/4PzPtQgbDCaRajfbppvNBd"
@@ -1948,7 +1966,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 210964,
       "name": "Canto al cansancio",
       "url": "https://open.spotify.com/track/5tfhPCqCpOURWrQq8MTjG8"
@@ -4128,6 +4146,32 @@
       "duration_ms": 255290,
       "name": "El Sol Est\u00e1 Mojado",
       "url": "https://open.spotify.com/track/0S5X7mezP843brjI9SfQr2"
+    },
+    {
+      "album": {
+        "name": "Candombe",
+        "url": "https://open.spotify.com/album/02tFQcbgaxEs6RRiGs6qCl"
+      },
+      "artists": [
+        {
+          "name": "Julieta Rada",
+          "url": "https://open.spotify.com/artist/5KA95SZBQeMgNMTuqnxzJd"
+        },
+        {
+          "name": "Juan Campod\u00f3nico",
+          "url": "https://open.spotify.com/artist/0sadZS0EK146Ej3M0chASN"
+        },
+        {
+          "name": "Mat\u00edas Rada",
+          "url": "https://open.spotify.com/artist/5e5vdboKmw4s7QAMPRUI1N"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173877,
+      "name": "El Tambor",
+      "url": "https://open.spotify.com/track/6Ohp9GIMDh0mvDGo87KWY8"
     },
     {
       "album": {
@@ -6707,6 +6751,28 @@
     },
     {
       "album": {
+        "name": "First Recordings",
+        "url": "https://open.spotify.com/album/4jyIvjfimFU7XkDf5kql9U"
+      },
+      "artists": [
+        {
+          "name": "Lhasa De Sela",
+          "url": "https://open.spotify.com/artist/3IbqRfvnvj5C22pHD38KXI"
+        },
+        {
+          "name": "Yves Desrosiers",
+          "url": "https://open.spotify.com/artist/2VK0ucevGNDKSx7v3Y62cC"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218200,
+      "name": "Los Peces",
+      "url": "https://open.spotify.com/track/6j0KzFyCDDt4Mhkje36qts"
+    },
+    {
+      "album": {
         "name": "Los P\u00e1jaros de Ciudad",
         "url": "https://open.spotify.com/album/5ZFzN977yU8AAMkUmZwVfQ"
       },
@@ -7381,6 +7447,28 @@
     },
     {
       "album": {
+        "name": "Mi canci\u00f3n",
+        "url": "https://open.spotify.com/album/6EDZigC2EE0vzPpBjAyTxh"
+      },
+      "artists": [
+        {
+          "name": "Bruno Sotos",
+          "url": "https://open.spotify.com/artist/5VtAP0zOz2mBVP7x4I6cT8"
+        },
+        {
+          "name": "Alejandro y Maria Laura",
+          "url": "https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195941,
+      "name": "Mi canci\u00f3n",
+      "url": "https://open.spotify.com/track/7Ci5UjgtYfSqMe7PNwco9D"
+    },
+    {
+      "album": {
         "name": "Escorpiano",
         "url": "https://open.spotify.com/album/3KmSLiah0WThmFVfYqEyJt"
       },
@@ -7632,7 +7720,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 160310,
       "name": "Milaka Lore - Miles de Flores",
       "url": "https://open.spotify.com/track/3cMG8a9pwc7ZK34hDLUT9X"
@@ -9536,7 +9624,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 177768,
       "name": "P\u00e1nico (VMG)",
       "url": "https://open.spotify.com/track/4kS8Tc0RHoGNS7dCwY3RJo"
@@ -9998,6 +10086,28 @@
       "duration_ms": 278267,
       "name": "Recu\u00e9rdame",
       "url": "https://open.spotify.com/track/7zpVwSOoFqDa1c42D6EzwF"
+    },
+    {
+      "album": {
+        "name": "REGALAMOS ROSAS EN LA LUNA",
+        "url": "https://open.spotify.com/album/5Ea2j9m1oDcdClu3TfT033"
+      },
+      "artists": [
+        {
+          "name": "Nahuel Briones",
+          "url": "https://open.spotify.com/artist/29HD84lSe1rh2e6JuTE2xR"
+        },
+        {
+          "name": "Papina de Palma",
+          "url": "https://open.spotify.com/artist/2bkcXTFPnDVBhj5s7YEDx3"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280106,
+      "name": "REGALAMOS ROSAS EN LA LUNA",
+      "url": "https://open.spotify.com/track/0M8tyikK7IWZEb4x7Trjfc"
     },
     {
       "album": {
@@ -11186,7 +11296,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 208057,
       "name": "Tambi\u00e9n de dolor se canta",
       "url": "https://open.spotify.com/track/5vLTaMcdh1Dix7hgVgmHpj"
@@ -13084,7 +13194,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 216891,
       "name": "Yo Soy",
       "url": "https://open.spotify.com/track/530CUFzf8pqO9cbSM0C5SB"

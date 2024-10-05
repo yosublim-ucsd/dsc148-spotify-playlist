@@ -679,6 +679,28 @@
     },
     {
       "album": {
+        "name": "MY DEMONS",
+        "url": "https://open.spotify.com/album/5s5mG6bz04LEXbwO1Fufyp"
+      },
+      "artists": [
+        {
+          "name": "GLU",
+          "url": "https://open.spotify.com/artist/2z6598dYz4eQbCJ1t0kT1N"
+        },
+        {
+          "name": "Phantogram",
+          "url": "https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209500,
+      "name": "MY DEMONS",
+      "url": "https://open.spotify.com/track/3LUcU1uaK0gp9lBNFlCNII"
+    },
+    {
+      "album": {
         "name": "I Know Alone",
         "url": "https://open.spotify.com/album/4veKZd8uf7TDVo1KQRVhuk"
       },

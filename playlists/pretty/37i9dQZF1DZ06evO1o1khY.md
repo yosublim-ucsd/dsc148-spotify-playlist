@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1o1khY.md) - [plain]
 
 > This is GloRilla\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,608 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,653 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Hollon](https://open.spotify.com/track/6XVkJ1fM7NkjODPYI7QbAM) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Hollon](https://open.spotify.com/album/1HCjvCCMusvjNzYWW0p60D) | 2:08 |
+| 1 | [HOLLON](https://open.spotify.com/track/6XVkJ1fM7NkjODPYI7QbAM) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Hollon](https://open.spotify.com/album/1HCjvCCMusvjNzYWW0p60D) | 2:08 |
 | 2 | [Yeah Glo!](https://open.spotify.com/track/5A8xI7PN4WDe9e61xEdt94) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Ehhthang Ehhthang](https://open.spotify.com/album/0SW0LplxFID1otCk4bhhHI) | 2:22 |
 | 3 | [TGIF](https://open.spotify.com/track/2hKYtHbwYOSjvYQhVdUpdQ) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [TGIF](https://open.spotify.com/album/3VY29d0cCe38jPSYvAiI0D) | 2:44 |
 | 4 | [Tomorrow 2 \(with Cardi B\)](https://open.spotify.com/track/0WNfQxDGaPTl0yogcMR5v1) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Anyways, Life’s Great…](https://open.spotify.com/album/1kLWQJYzHP0kX6peGevMkC) | 3:29 |
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1o1khY.md) - [plain]
 | 30 | [Internet Trolls \(feat\. Hitkidd\)](https://open.spotify.com/track/7KA9GDEQiMeiuBKunBdwNk) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Hitkidd](https://open.spotify.com/artist/5pR1zWq3UPsOpW1pTWayLf) | [Internet Trolls \(feat\. Hitkidd\)](https://open.spotify.com/album/34wQFCaqldXSuCIaYp6dt3) | 2:20 |
 | 31 | [No More Love](https://open.spotify.com/track/4LDsVBEtxW7Y2liU2wJokp) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Anyways, Life’s Great…](https://open.spotify.com/album/1kLWQJYzHP0kX6peGevMkC) | 3:10 |
 | 32 | [JUST SAY THAT \(feat\. GLORILLA\)](https://open.spotify.com/track/1GumJnMqknYzRT9pyGOU7Z) | [Duke Deuce](https://open.spotify.com/artist/24zj84GShUIcBQYq6VpOYW), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [CRUNKSTAR](https://open.spotify.com/album/6DRGmsZ3SeLptqU9aFEUQV) | 3:35 |
-| 33 | [Embarrassing \(feat\. GloRilla\)](https://open.spotify.com/track/52V0wk4bz20iMjmHGy2i0V) | [YTB Fatt](https://open.spotify.com/artist/1t22AdiJ8P9eXOnoJ8xPJT), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Foxes Only](https://open.spotify.com/album/46hdTAtdzJ0ejF2JanBnYr) | 2:23 |
-| 34 | [Outside](https://open.spotify.com/track/6YiDVrYuJk33GKKzsVUhRE) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Mello Buckzz](https://open.spotify.com/artist/4bAfAX9Zg9XdMKREfURqaw) | [Strictly 4 My Fans 2](https://open.spotify.com/album/5ujM8ZczJbszMvGoWeXmvW) | 3:08 |
+| 33 | [Outside](https://open.spotify.com/track/6YiDVrYuJk33GKKzsVUhRE) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Mello Buckzz](https://open.spotify.com/artist/4bAfAX9Zg9XdMKREfURqaw) | [Strictly 4 My Fans 2](https://open.spotify.com/album/5ujM8ZczJbszMvGoWeXmvW) | 3:08 |
+| 34 | [Embarrassing \(feat\. GloRilla\)](https://open.spotify.com/track/52V0wk4bz20iMjmHGy2i0V) | [YTB Fatt](https://open.spotify.com/artist/1t22AdiJ8P9eXOnoJ8xPJT), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Foxes Only](https://open.spotify.com/album/46hdTAtdzJ0ejF2JanBnYr) | 2:23 |
 | 35 | [Out Loud Thinking](https://open.spotify.com/track/0EF2x6DfhDECvRVTdJvBDs) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Anyways, Life’s Great…](https://open.spotify.com/album/1kLWQJYzHP0kX6peGevMkC) | 2:50 |
 | 36 | [Ex’s \(Phatnall Remix\) \(with Lil Durk\)](https://open.spotify.com/track/7M3h8JeDhIQIsdQdMrWohi) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Anyways, Life’s Great…Bonus Edition](https://open.spotify.com/album/2IzitJYy4iVenjF1odSFnf) | 3:17 |
 | 37 | [Overstood \(GloRilla\)](https://open.spotify.com/track/3Kvlx0keyt38EpBFlJkNv5) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [CMG The Label](https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA) | [Gangsta Art 2](https://open.spotify.com/album/537PniwRvDxpD7zjGsEQlA) | 2:36 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1o1khY.md) - [plain]
 | 49 | [Afford Me](https://open.spotify.com/track/6zNYUZJGEs70HIH40SFhYX) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [JaTavia Akiaa](https://open.spotify.com/artist/2zanO9oR7cBRKmEdi4Gzll) | [Afford Me](https://open.spotify.com/album/5Huo9LyxnF12d2aogAGgeQ) | 3:29 |
 | 50 | [R\-A\-T\-C\-H\-E\-T \(FNF FREESTYLE\) \- Remix](https://open.spotify.com/track/5CbtJ0GNYO7wlybagnOLrg) | [Nosym](https://open.spotify.com/artist/0nKzbENsP5VM3J28NTNxQ4), [Hitkidd](https://open.spotify.com/artist/5pR1zWq3UPsOpW1pTWayLf), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [R\-A\-T\-C\-H\-E\-T \(FNF FREESTYLE\) \[Remix\]](https://open.spotify.com/album/2cMuNulihFoYJFPwWaNHtr) | 2:30 |
 
-Snapshot ID: `ZvyNAAAAAAB5rhpvnHiHTd6pBrghBSLw`
+Snapshot ID: `Zv3egAAAAAAFWgKKgR1D8h/sgvx7QOYN`

@@ -4,7 +4,7 @@
 
 > The best in blues right now\. Cover: Toronzo Cannon
 
-417 songs - 1 day 4 hr 1 min
+418 songs - 1 day 4 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -183,7 +183,7 @@
 | [I Wish I Knew How It Would Feel To Be Free](https://open.spotify.com/track/6y1Yxs016r9gSsZhBKszjW) | [Mavis Staples](https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0), [Levon Helm](https://open.spotify.com/artist/1PWHsS9haruM3AEebZuGs9) | [I Wish I Knew How It Would Feel To Be Free](https://open.spotify.com/album/2zIs5JH5olt903NfR0A1XK) | 3:42 | 2022-04-29 | 2024-06-29 |
 | [I'd Climb Mountains](https://open.spotify.com/track/3Viv0Zuw0FT4EuxdVGfrDo) | [Selwyn Birchwood](https://open.spotify.com/artist/47HxYwXgJsfyQN08FpXfxD) | [Living In A Burning House](https://open.spotify.com/album/1eBYbklgOrUS8hYho7rPXj) | 3:30 | 2021-01-29 | 2022-04-23 |
 | [I'll Be Moving On](https://open.spotify.com/track/3q53EOS9boS1UYg7et96KC) | [Robin Trower](https://open.spotify.com/artist/0MAvx5yzdhylg2ztJC3MD3), [Sari Schorr](https://open.spotify.com/artist/65EcwCjlQu3XbQEbSqYBGl) | [I'll Be Moving On](https://open.spotify.com/album/6b6VYA1u7gpcGq5jPaFezV) | 3:51 | 2023-09-22 | 2023-10-28 |
-| [I'm a Drifter](https://open.spotify.com/track/1QxmgxAI66Y5Lwp1T9zxcO) | [Jovin Webb](https://open.spotify.com/artist/7tPs43oKJNTRvGr6IQ8N9k) | [I'm a Drifter](https://open.spotify.com/album/55caYHfIpi9Ozg2ccIFWsm) | 3:54 | 2024-09-20 |  |
+| [I'm a Drifter](https://open.spotify.com/track/1QxmgxAI66Y5Lwp1T9zxcO) | [Jovin Webb](https://open.spotify.com/artist/7tPs43oKJNTRvGr6IQ8N9k) | [I'm a Drifter](https://open.spotify.com/album/55caYHfIpi9Ozg2ccIFWsm) | 3:54 | 2024-09-20 | 2024-10-05 |
 | [I'm A Woman](https://open.spotify.com/track/58ttzG8XXKZzXkRd0PFagO) | [Count Basie Orchestra](https://open.spotify.com/artist/2Hn9fch2OLB5jZuEAVjTCe), [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee), [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [Charlie Musselwhite](https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc) | [I'm A Woman](https://open.spotify.com/album/0ul0OtmuYOCV00rsaKaHPm) | 4:58 | 2023-08-18 |  |
 | [I'm Free](https://open.spotify.com/track/7CD17NlIJRHmDRfl3oUa1a) | [Bobby Rush](https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi) | [I'm Free](https://open.spotify.com/album/3IW3DJaCMBengGSULp86w8) | 4:12 | 2023-06-30 | 2023-07-29 |
 | [I'm Just Getting Started!](https://open.spotify.com/track/17v5PPcGy8FSN4n9xnKpUd) | [Mick Kolassa](https://open.spotify.com/artist/4uFnksD1TfYQyL8eYRm0eG) | [I'm Just Getting Started!](https://open.spotify.com/album/2Pd2hfBHc4OaM4ZEtBgaoZ) | 2:39 | 2022-07-01 | 2024-09-21 |
@@ -235,6 +235,7 @@
 | [Mama Said](https://open.spotify.com/track/3tl3S4BUNrONIO4OTEsBC7) | [Dion](https://open.spotify.com/artist/15FyiY3ChN0QRspHIQYq0W), [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Girl Friends](https://open.spotify.com/album/7hCroZ1E3ma2zt6UdV3rw0) | 3:17 | 2024-03-08 |  |
 | [Me And My Guitar](https://open.spotify.com/track/22Qh6AHPrwzgSzKFnaZZTr) | [Peter Frampton Band](https://open.spotify.com/artist/0JvNeHGFrPqynXe5EszItO) | [All Blues](https://open.spotify.com/album/1WXRu9aB8wHIwjLqA2DnBu) | 4:23 | 2020-12-14 | 2022-02-26 |
 | [Mind’s Eye](https://open.spotify.com/track/19vLbTpnjkQtcCTaHVPQUm) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Time Clocks](https://open.spotify.com/album/1suaXSbT97Vm2D8x2N6cnD) | 6:17 | 2021-10-29 | 2023-05-20 |
+| [Mine Someday](https://open.spotify.com/track/3cJVBaoZlV26GQDMxNcD9B) | [Jovin Webb](https://open.spotify.com/artist/7tPs43oKJNTRvGr6IQ8N9k) | [Mine Someday](https://open.spotify.com/album/4eUzeKYFG75GYymqpkwqBS) | 4:47 | 2024-10-04 |  |
 | [Mirror Blues](https://open.spotify.com/track/2YrssxTCneR1rjBTzoaaKS) | [Diesel](https://open.spotify.com/artist/4rCLXPaqaUjGa1aHDwkviR) | [Alone With Blues](https://open.spotify.com/album/0BHOezr2qvAzYEt0TVEoRJ) | 3:39 | 2021-07-16 | 2022-11-24 |
 | [Mirror Blues](https://open.spotify.com/track/4mFBpN5jyZCcYLQCw1aoRX) | [Diesel](https://open.spotify.com/artist/4rCLXPaqaUjGa1aHDwkviR) | [Alone With Blues](https://open.spotify.com/album/4zb5t7MpwxLujrl50tSPQN) | 3:39 | 2021-07-16 | 2023-01-14 |
 | [Mischief Man](https://open.spotify.com/track/4nrNyJMtc6i9uvHnXy3cRT) | [Altered Five Blues Band](https://open.spotify.com/artist/7idP7O5Y5lvJw4XFeAJxzg) | [Ten Thousand Watts](https://open.spotify.com/album/3ItR2zuQVdk1tO16cz2GFl) | 3:18 | 2020-12-14 | 2022-02-26 |

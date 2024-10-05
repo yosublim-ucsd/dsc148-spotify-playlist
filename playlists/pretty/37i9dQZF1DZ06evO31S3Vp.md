@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO31S3Vp.md) - [plain]
 
 ### [This Is Jão](https://open.spotify.com/playlist/37i9dQZF1DZ06evO31S3Vp)
 
-> This is Jão\. Todos os maiores hits em uma só playlist.
+> This is Jão\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,814 likes - 38 songs - 1 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,839 likes - 37 songs - 1 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,9 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO31S3Vp.md) - [plain]
 | 32 | [Ressaca](https://open.spotify.com/track/0Fut8bkxJc6H4Rh951Nxc4) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [LOBOS \(Deluxe\)](https://open.spotify.com/album/4nvIgrse8yWtDgx2442N8n) | 3:00 |
 | 33 | [Ainda Te Amo](https://open.spotify.com/track/55GFbaI6W1laRMFdLdRw8Z) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [LOBOS](https://open.spotify.com/album/67a6pDoMKQYOKGMnmUQZbq) | 3:10 |
 | 34 | [VSF](https://open.spotify.com/track/6rL40EhmdDeEeqS0FDZ9Ab) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [ANTI\-HERÓI](https://open.spotify.com/album/3l3LZovnHa1TmtR1V2fxkP) | 3:56 |
-| 35 | [fugitivos :\)](https://open.spotify.com/track/0aV9qW7X0msAci4ATkKgBk) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [DOCE 22](https://open.spotify.com/album/1bR2SlwIKwvCZBFhDfYr6x) | 3:26 |
-| 36 | [Monstros](https://open.spotify.com/track/1y2plShqBMDQ0T6ZhmfmeE) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [LOBOS](https://open.spotify.com/album/67a6pDoMKQYOKGMnmUQZbq) | 4:15 |
-| 37 | [Você Vai Me Destruir](https://open.spotify.com/track/3mPz8WMo0zOWMxezQjyc8n) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [ANTI\-HERÓI](https://open.spotify.com/album/3l3LZovnHa1TmtR1V2fxkP) | 3:04 |
-| 38 | [Triste Pra Sempre](https://open.spotify.com/track/3n7ZwCXQUZekntN3f7dzwD) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [ANTI\-HERÓI](https://open.spotify.com/album/3l3LZovnHa1TmtR1V2fxkP) | 2:59 |
+| 35 | [Monstros](https://open.spotify.com/track/1y2plShqBMDQ0T6ZhmfmeE) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [LOBOS](https://open.spotify.com/album/67a6pDoMKQYOKGMnmUQZbq) | 4:15 |
+| 36 | [Você Vai Me Destruir](https://open.spotify.com/track/3mPz8WMo0zOWMxezQjyc8n) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [ANTI\-HERÓI](https://open.spotify.com/album/3l3LZovnHa1TmtR1V2fxkP) | 3:04 |
+| 37 | [Triste Pra Sempre](https://open.spotify.com/track/3n7ZwCXQUZekntN3f7dzwD) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [ANTI\-HERÓI](https://open.spotify.com/album/3l3LZovnHa1TmtR1V2fxkP) | 2:59 |
 
-Snapshot ID: `ZvyNAAAAAAAKtyZqO2kuLy8xAgGmMVXE`
+Snapshot ID: `Zv3egAAAAAC81oIj6sB9GnZNkoOGH0OT`

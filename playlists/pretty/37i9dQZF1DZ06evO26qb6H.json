@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvyNAAAAAACeTqinJEYZWjFRG4AmFuug",
+  "snapshot_id": "Zv3egAAAAAAcz3epAUmYmDYZ+Qb1DQX0",
   "tracks": [
     {
       "added_at": null,
@@ -571,30 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fendi (feat. Nicki Minaj & Murda Beatz)",
-        "url": "https://open.spotify.com/album/00M4ecLNv6pzPmr5lheMPr"
-      },
-      "artists": [
-        {
-          "name": "PnB Rock",
-          "url": "https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM"
-        },
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        },
-        {
-          "name": "Murda Beatz",
-          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
-        }
-      ],
-      "duration_ms": 180609,
-      "name": "Fendi (feat. Nicki Minaj & Murda Beatz)",
-      "url": "https://open.spotify.com/track/7H1591r6SfmZZh6BUE7Gue"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Beef",
         "url": "https://open.spotify.com/album/0e7ntcb8IOMnnHqJkxihR3"
       },
@@ -615,6 +591,30 @@
       "duration_ms": 181306,
       "name": "Beef",
       "url": "https://open.spotify.com/track/01MnJO1gfqVGACFAWMXNPU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fendi (feat. Nicki Minaj & Murda Beatz)",
+        "url": "https://open.spotify.com/album/00M4ecLNv6pzPmr5lheMPr"
+      },
+      "artists": [
+        {
+          "name": "PnB Rock",
+          "url": "https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        },
+        {
+          "name": "Murda Beatz",
+          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
+        }
+      ],
+      "duration_ms": 180609,
+      "name": "Fendi (feat. Nicki Minaj & Murda Beatz)",
+      "url": "https://open.spotify.com/track/7H1591r6SfmZZh6BUE7Gue"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > Setting sights on banging <a href="spotify:genre:0JQ5DAqbMKFFfBKlpu08ru">trance and progressive</a>.
 
-998 songs - 2 day 12 hr 24 min
+999 songs - 2 day 12 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -896,6 +896,7 @@
 | [This Is Real \- Christopher Corrigan Remix](https://open.spotify.com/track/1rxfxybkU2MH5FPqE7UNqs) | [Roman Messer](https://open.spotify.com/artist/25DnzR3jtrD8StkyyRCvHR), [Gid Sedgwick](https://open.spotify.com/artist/3Y43xMeiPftAookVOSKu1Y), [Christopher Corrigan](https://open.spotify.com/artist/2JJD0m0hYRMyHElA7d3tH8) | [This Is Real \(Christopher Corrigan Remix\)](https://open.spotify.com/album/3MvFKWuD9UdN5MmOFwxb2v) | 4:25 | 2023-06-09 | 2023-10-14 |
 | [Through The Shadows](https://open.spotify.com/track/1G2G5rVFPHIbxzfQLpjgkR) | [Nihil Young](https://open.spotify.com/artist/11OUxHFoGgo2NDSdT6YiEC), [Andrea Martini](https://open.spotify.com/artist/1ys1VqaDEFMz5iN74MuQMr), [Luke Coulson](https://open.spotify.com/artist/5ctD2yNFX7W8uWIxTvirkx) | [Through The Shadows](https://open.spotify.com/album/1eRnXdIeNy842Q5awvTSlC) | 3:37 | 2024-03-01 |  |
 | [Thunderstorm](https://open.spotify.com/track/1W7IB819HPkn1wder2Yq15) | [Myde](https://open.spotify.com/artist/4GLfkXTyojK3BHJJkuUmpq) | [Thunderstorm](https://open.spotify.com/album/5yjnMWHueuTWmPj3B6GBKT) | 3:59 | 2022-04-22 | 2022-05-14 |
+| [Tidal](https://open.spotify.com/track/0WutQwXrfvPljSMC5XJXd1) | [Ben Hemsley](https://open.spotify.com/artist/366L4EjZXBPYbHs9XDQILZ), [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [Tidal](https://open.spotify.com/album/1VDJTays2jtJVsuUVcu4Mh) | 3:51 | 2024-10-04 |  |
 | [Tiger](https://open.spotify.com/track/4uUxMuipFKX8gq4me7pGty) | [DRYM](https://open.spotify.com/artist/0kDuIuxZhlgE9XYRy6NVSq) | [Tiger](https://open.spotify.com/album/19ndH7HNa1DKyt18uyXikg) | 3:19 | 2022-01-21 | 2022-07-26 |
 | [Till The Sun Is Up High](https://open.spotify.com/track/6sS1woPe1F2CHvwr1JamkY) | [Natalie Gioia](https://open.spotify.com/artist/7Im3RJDHc4svDzWNlSvoAO) | [Till The Sun Is Up High](https://open.spotify.com/album/0NaVzChiy0uqs9bcDUDRS5) | 3:18 | 2023-07-21 |  |
 | [Till We Fade](https://open.spotify.com/track/5egP6yTdSchQ4gRrC7kKr9) | [Markus Schulz](https://open.spotify.com/artist/6OO0PboZcIWUWL7j2IyeoL), [Emma Hewitt](https://open.spotify.com/artist/1t65YxEAtU3iii6bCzSGF8) | [Till We Fade](https://open.spotify.com/album/1LTCp8uuRTym8EDraKVjSo) | 3:13 | 2023-10-27 | 2024-07-13 |

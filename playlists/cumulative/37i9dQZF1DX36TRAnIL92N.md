@@ -4,7 +4,7 @@
 
 > High energy Techno to boost your workout.
 
-236 songs - 20 hr 31 min
+238 songs - 20 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Essence](https://open.spotify.com/track/5KgOlepu6lod2ORXYfkqKg) | [Uto Karem](https://open.spotify.com/artist/6KBbbE4QVlVQwFNIXrD8hF) | [Essence](https://open.spotify.com/album/1fO195lO8fjRkNBMObdIWa) | 6:44 | 2022-07-05 | 2022-07-26 |
 | [Experience](https://open.spotify.com/track/6ewzsniysRplwdDRA7eNdn) | [Luna Lucci](https://open.spotify.com/artist/2YDL5wHehd2wcAC9eBKmtp) | [Experience](https://open.spotify.com/album/2mHKmSPCtMud5SwgzMNEQ1) | 5:48 | 2023-04-13 | 2023-10-29 |
 | [Feel It](https://open.spotify.com/track/6iKLdREEci9SyzXl9JNUVk) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [Feel It](https://open.spotify.com/album/1jexRZSS5u38DkCdzcHvTz) | 4:18 | 2023-06-02 |  |
+| [Feeling](https://open.spotify.com/track/1KMru1wRFP6Qhi2jjjQfSb) | [Cosmic Boys](https://open.spotify.com/artist/2jvTYwyzxK1FVYGEoKfZLQ), [Charles D \(USA\)](https://open.spotify.com/artist/4JM9MtRRutmQVooyHnFTD1) | [Feeling](https://open.spotify.com/album/2hYXwW0l3RjqMZSwtm0qcy) | 3:15 | 2024-10-04 |  |
 | [Ferment](https://open.spotify.com/track/5BsHWam3TG9dTkLPv7Da0L) | [Ramsey Neville](https://open.spotify.com/artist/1Y8pFAVjIzar47RDW7dBew) | [Motherboard](https://open.spotify.com/album/5FjRqSIXI8DgHWn4FJE5cx) | 6:16 | 2022-07-05 | 2022-07-09 |
 | [Flash \- Marco Faraone Remix](https://open.spotify.com/track/49xmmvP2Meu4Da3867lA0v) | [Sam Paganini](https://open.spotify.com/artist/50ZyjIaVHOy5Xt7FLJ7RZl), [Zøe](https://open.spotify.com/artist/35GfziDKCTh1aPNFDPuSft), [Marco Faraone](https://open.spotify.com/artist/00IUMN7pWAU2jYWcdOt5c3) | [Light + Shadow Remixes, Vol\. 1](https://open.spotify.com/album/7aBnqZdnNzK0xvQ53vKpkO) | 6:10 | 2022-07-11 | 2022-11-27 |
 | [Flying Octopus](https://open.spotify.com/track/0n2jPpNThUiLaf39k1Jfz7) | [Reinier Zonneveld](https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ), [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [Flying Octopus](https://open.spotify.com/album/5My1BEqn9HJ2ig4pDlsZ0m) | 3:31 | 2023-10-13 | 2024-04-19 |
@@ -105,7 +106,7 @@
 | [Injection \- Original Mix](https://open.spotify.com/track/52nFiIeYWwY5IJRStcbbfj) | [Kaspar](https://open.spotify.com/artist/679xKCdF1dBRH0gGgZfcCC), [A\*S\*Y\*S](https://open.spotify.com/artist/4xfA60YoR4UbBxuOn9WXJq) | [Injection \(Original Mix\)](https://open.spotify.com/album/7tq0Eni5FK1nm27dqXGWyr) | 7:01 | 2022-07-05 | 2024-09-23 |
 | [Inside My Head](https://open.spotify.com/track/3YR7XdHKPA21815NjqWZeB) | [AKKI \(DE\)](https://open.spotify.com/artist/0hReHYoLJG38QBwYIZ8zKs) | [Inside My Head](https://open.spotify.com/album/4hviWBBIv5SqDae4nljvEc) | 6:59 | 2022-08-15 | 2024-06-15 |
 | [Intuition](https://open.spotify.com/track/6nP0K210TKE3VtjkngS0ks) | [Giorgia Angiuli](https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq) | [Intuition](https://open.spotify.com/album/2kORg46W2CuossZxEm5qOO) | 3:23 | 2023-11-10 | 2024-09-07 |
-| [It's a Fine Day](https://open.spotify.com/track/6oJ6E9PromTaQX2shxE5kz) | [Deborah de Luca](https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B), [Valeria Mancini](https://open.spotify.com/artist/2npPeervUSog9B67xmw4h9) | [It's a Fine Day](https://open.spotify.com/album/5G3HQSKAEM1HOtV1g6BAtx) | 5:52 | 2023-11-10 |  |
+| [It's a Fine Day](https://open.spotify.com/track/6oJ6E9PromTaQX2shxE5kz) | [Deborah de Luca](https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B), [Valeria Mancini](https://open.spotify.com/artist/2npPeervUSog9B67xmw4h9) | [It's a Fine Day](https://open.spotify.com/album/5G3HQSKAEM1HOtV1g6BAtx) | 5:52 | 2023-11-10 | 2024-10-05 |
 | [Janfry](https://open.spotify.com/track/20nP0CII4RqFAJLNyyFHuW) | [Spartaque](https://open.spotify.com/artist/2OpUrUeIF1sqWHwSbMPNkB), [Ramiro Lopez](https://open.spotify.com/artist/3jYkj7h3rgKs5irWBPxjrr) | [Janfry](https://open.spotify.com/album/0plksH63rz2lCRa4Im8w13) | 3:35 | 2023-06-02 | 2023-08-20 |
 | [Journey To The Underworld](https://open.spotify.com/track/0O4H5enNBIDR3k0ibZBKa2) | [ANNA](https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om) | [Journey To The Underworld EP](https://open.spotify.com/album/4EJWa7yqX5QKTBMqxugtgB) | 7:39 | 2022-07-11 | 2022-07-27 |
 | [Jump Dance Move Bounce](https://open.spotify.com/track/4BSJd6jkmroYkGKIrrstUa) | [Nicolas Julian](https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb), [NOTMYTYPE](https://open.spotify.com/artist/7hjdOgAfEdNYBGViGyy28U), [AENJAY](https://open.spotify.com/artist/1sDPjXJ8bNlkrzbNLR18AQ) | [Jump Dance Move Bounce](https://open.spotify.com/album/7uqDX4ot0zHwEAG4OpLjby) | 2:29 | 2024-06-21 |  |
@@ -126,6 +127,7 @@
 | [Mars Powder \- Radio Edit](https://open.spotify.com/track/3PJkEdIheSss9bhIdqnQju) | [Chris Veron](https://open.spotify.com/artist/1DgZ9kWEsYktFBYml3iK8S) | [Mars Powder](https://open.spotify.com/album/7cuM14P80mW17Tzi4bYxGm) | 4:03 | 2022-07-05 | 2022-07-09 |
 | [Maschine](https://open.spotify.com/track/5mX46VGRf2zGXrSQ2utxbA) | [Kaufmann \(DE\)](https://open.spotify.com/artist/4vyVLlQZTWLkuvSXaNMv4v) | [Maschine](https://open.spotify.com/album/21s6LGNDIZ6TMdEIDZbgO8) | 6:47 | 2022-07-11 | 2022-07-29 |
 | [ME/AN](https://open.spotify.com/track/1SyfZAsQpy1ITVx96ZCjZy) | [Marco V](https://open.spotify.com/artist/24xpaWFyBOwoB8lBBolWzv), [Vision 20/20](https://open.spotify.com/artist/2H3YaPmQxrV9eHZ9lcmvoM) | [ME/AN](https://open.spotify.com/album/501Goc9jbp4cFU1PN7HRVR) | 3:49 | 2022-07-11 | 2023-02-04 |
+| [Melodia](https://open.spotify.com/track/78dLyf8klcyrmgpwgmRQlE) | [Space 92](https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD) | [Melodia](https://open.spotify.com/album/4LntPSMGgRAOym8Yj684Gw) | 3:42 | 2024-10-04 |  |
 | [Mental Cinema \- Dual DeStress Remix](https://open.spotify.com/track/11j9tefGImXpCegNSekVb9) | [Belocca](https://open.spotify.com/artist/3jcvzSheHd14vjraXHLGPN), [Dual DeStress](https://open.spotify.com/artist/3KechLB76uRdgrVi2d5pyM) | [Remixed 2022](https://open.spotify.com/album/6gUKd1vXmHzBnEaKefAtkd) | 7:00 | 2022-11-17 | 2022-12-08 |
 | [Mental Wall](https://open.spotify.com/track/13jLcyLqDBl4aWz8Lmbami) | [Julien Riess](https://open.spotify.com/artist/2qmoexIy9YzYFb0xmjzh4N) | [Mental Wall](https://open.spotify.com/album/6su07aveL7ZmTQCasR6w3t) | 6:11 | 2022-07-11 | 2022-07-26 |
 | [Mercury](https://open.spotify.com/track/25dFcH5EsCJLMSmFDDJLT3) | [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [Space 92](https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [Mercury](https://open.spotify.com/album/5q2bsjSrluBoWf3F61Fofp) | 3:45 | 2022-08-26 | 2023-10-15 |
@@ -243,6 +245,6 @@
 | [You Look at Me](https://open.spotify.com/track/05L5ExA33eJEEiuTwXB1up) | [Julien Riess](https://open.spotify.com/artist/2qmoexIy9YzYFb0xmjzh4N) | [You Look at Me](https://open.spotify.com/album/5o5sPwEAVLG92IQVlTRTr0) | 6:07 | 2022-07-05 | 2023-03-29 |
 | [You're Toxic](https://open.spotify.com/track/5Ig2RPAPLrkAkFpyr8uAPj) | [Deborah de Luca](https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B) | [You're Toxic](https://open.spotify.com/album/5xMufmAVskrZV4Llusco8r) | 6:11 | 2022-07-05 |  |
 | [Your Mind](https://open.spotify.com/track/5NZdurYcFYOg3s2YyzeVgE) | [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu), [Bart Skils](https://open.spotify.com/artist/6iWBjg4b4ll4jLiParnWXT) | [Your Mind](https://open.spotify.com/album/1r6UqJJNidWeu594zRPySp) | 8:22 | 2024-03-20 | 2024-07-30 |
-| [Zulu](https://open.spotify.com/track/2N0F739pJcD6b4uQe6NxDr) | [A.D.H.S.](https://open.spotify.com/artist/7t6VUymL8RQKVqKQW9VTLl) | [Zulu](https://open.spotify.com/album/49qQ08O2n3E1QqH9hRBEgF) | 4:58 | 2022-07-05 |  |
+| [Zulu](https://open.spotify.com/track/2N0F739pJcD6b4uQe6NxDr) | [A.D.H.S.](https://open.spotify.com/artist/7t6VUymL8RQKVqKQW9VTLl) | [Zulu](https://open.spotify.com/album/49qQ08O2n3E1QqH9hRBEgF) | 4:58 | 2022-07-05 | 2024-10-05 |
 
 \*This playlist was first scraped on 2022-07-07. Prior content cannot be recovered.

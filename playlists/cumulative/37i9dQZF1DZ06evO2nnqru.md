@@ -4,7 +4,7 @@
 
 > This is Marca MP\. The essential tracks, all in one playlist.
 
-111 songs - 5 hr 56 min
+112 songs - 5 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,7 +87,8 @@
 | [R1](https://open.spotify.com/track/4nmaHTyAohQW70OpqHpqfW) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa), [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh) | [Aunque Digan](https://open.spotify.com/album/29b00fvXr3hwLz02dQb3ng) | 3:59 | 2023-08-02 | 2024-08-31 |
 | [Recuerda](https://open.spotify.com/track/2BaBwcllqDMkoD9184xOxP) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Flores](https://open.spotify.com/album/1JWDyNqyEL0FQBaM1jc6KO) | 2:30 | 2022-06-01 |  |
 | [Rios Por Apellido \- En vivo](https://open.spotify.com/track/6AY4yiKt405DygjNOXWDAK) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [En Vivo EP, Vol\. 1 \(En vivo\)](https://open.spotify.com/album/6ewLeV1GpI2Jg1vMXqXBIN) | 3:04 | 2022-06-01 | 2022-12-25 |
-| [Sabes Amor \- En vivo](https://open.spotify.com/track/70Py0XCeJloi2ERN3w3Mj7) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Despegando el Vuelo \(En vivo\)](https://open.spotify.com/album/3Ftnxdxa5fGWKuMMrncCNF) | 4:36 | 2022-06-01 |  |
+| [Rose Coke](https://open.spotify.com/track/7MXVUKspl6iGnEgwaY0FyP) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA), [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Rose Coke](https://open.spotify.com/album/1fgEgY5hJmMt6wxrSqjTII) | 2:46 | 2024-10-05 |  |
+| [Sabes Amor \- En vivo](https://open.spotify.com/track/70Py0XCeJloi2ERN3w3Mj7) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Despegando el Vuelo \(En vivo\)](https://open.spotify.com/album/3Ftnxdxa5fGWKuMMrncCNF) | 4:36 | 2022-06-01 | 2024-10-05 |
 | [Saliste De Mi Mente](https://open.spotify.com/track/4ox1UpoN1U5bUOfU79aHmn) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Brindo](https://open.spotify.com/album/39BGT0v33s4yMplCSCILeI) | 3:50 | 2022-07-30 | 2022-08-24 |
 | [Se Me Olvidaba \- En Vivo](https://open.spotify.com/track/0hldpWDIy3DcupZ0Swu4p8) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Desde El Cantón, Vol\. II \(En Vivo\)](https://open.spotify.com/album/3jZIGZPZ4iijaPksSNWt13) | 3:35 | 2024-06-09 | 2024-06-10 |
 | [Si Tu Te Fueras De Mi](https://open.spotify.com/track/6WssB2o4BjzHzJMl7qprYg) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Brindo](https://open.spotify.com/album/39BGT0v33s4yMplCSCILeI) | 3:07 | 2022-08-11 |  |

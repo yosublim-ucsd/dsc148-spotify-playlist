@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3MgT4c.md) - [plain]
 
 > This is Migos\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 432,142 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 432,164 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3MgT4c.md) - [plain]
 | 49 | [Menace](https://open.spotify.com/track/6J8y4lu18GkXuNhGCuZqzS) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Culture III \- Deluxe](https://open.spotify.com/album/2actLFtpiiBZm1z0TUzMx2) | 2:24 |
 | 50 | [WE GOING CRAZY \(feat\. H.E.R\. & Migos\)](https://open.spotify.com/track/6BvcWv1vfVJSoWix7L5BAP) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [KHALED KHALED](https://open.spotify.com/album/5kE2OAuUYGBqqzscqgBXXf) | 3:16 |
 
-Snapshot ID: `ZvyNAAAAAAA+Rr0pQcCHOgSQuYVu1oE7`
+Snapshot ID: `Zv3egAAAAACXCLkNfqynlj25zNeAwZqj`

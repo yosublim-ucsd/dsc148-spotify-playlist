@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0e23\u0e27\u0e21\u0e17\u0e38\u0e01\u0e2d\u0e34\u0e19\u0e40\u0e19\u0e2d\u0e23\u0e4c\u0e40\u0e1e\u0e25\u0e07\u0e2a\u0e32\u0e01\u0e25\u0e17\u0e35\u0e48\u0e19\u0e35\u0e48\u0e40\u0e25\u0e22. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Henry Moodie",
+  "description": "\u0e23\u0e27\u0e21\u0e17\u0e38\u0e01\u0e2d\u0e34\u0e19\u0e40\u0e19\u0e2d\u0e23\u0e4c\u0e40\u0e1e\u0e25\u0e07\u0e2a\u0e32\u0e01\u0e25\u0e17\u0e35\u0e48\u0e19\u0e35\u0e48\u0e40\u0e25\u0e22. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Coldplay",
   "name": "\u0e2d\u0e34\u0e19\u0e40\u0e19\u0e2d\u0e23\u0e4c \u0e2d\u0e34\u0e19\u0e40\u0e15\u0e2d\u0e23\u0e4c Inner Inter",
   "tracks": [
     {
@@ -20,6 +20,24 @@
       "duration_ms": 189192,
       "name": "15 MINUTES",
       "url": "https://open.spotify.com/track/2Dazu1HgFj1geJOfKKFOpf"
+    },
+    {
+      "album": {
+        "name": "JAGUAR II : Deluxe",
+        "url": "https://open.spotify.com/album/7mHd5i7hgpHiMM3BFyfRdn"
+      },
+      "artists": [
+        {
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149195,
+      "name": "1900's",
+      "url": "https://open.spotify.com/track/79XRUITVajhW5Snn7WF3YQ"
     },
     {
       "album": {
@@ -74,6 +92,24 @@
       "duration_ms": 202414,
       "name": "After Hours",
       "url": "https://open.spotify.com/track/2x03XLsTZ0o86h0cfHrkKF"
+    },
+    {
+      "album": {
+        "name": "Moon Music",
+        "url": "https://open.spotify.com/album/5SGtrmYbIo0Dsg4kJ4qjM6"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222647,
+      "name": "ALL MY LOVE",
+      "url": "https://open.spotify.com/track/6iYxkBHyMpsgVxUgfy5fSx"
     },
     {
       "album": {
@@ -366,7 +402,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 225973,
       "name": "Close To You",
       "url": "https://open.spotify.com/track/5MPi9e7z46wopyad10R6qx"
@@ -775,6 +811,24 @@
     },
     {
       "album": {
+        "name": "Good All Year",
+        "url": "https://open.spotify.com/album/4iu3ExKSjlArExmwzp0Si7"
+      },
+      "artists": [
+        {
+          "name": "Crash Adams",
+          "url": "https://open.spotify.com/artist/6d8NscVVbeMVINZwJDOoN5"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133441,
+      "name": "Good All Year",
+      "url": "https://open.spotify.com/track/7tpZbY9001r2p5ehkaYYmb"
+    },
+    {
+      "album": {
         "name": "Good Luck, Babe!",
         "url": "https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q"
       },
@@ -960,7 +1014,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 245435,
       "name": "Happy Mistake",
       "url": "https://open.spotify.com/track/5DQIZ8XC0EP7cfRFrtzY5h"
@@ -1018,7 +1072,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 167012,
       "name": "Heavy Is the Crown",
       "url": "https://open.spotify.com/track/3fgehc497TFqKH1zBL2YNK"
@@ -1119,6 +1173,24 @@
     },
     {
       "album": {
+        "name": "Changes All The Time",
+        "url": "https://open.spotify.com/album/0RJ06tZn2gom7mAmCIip2z"
+      },
+      "artists": [
+        {
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279429,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/2hPZRSLyKFyJCYTotrmM1q"
+    },
+    {
+      "album": {
         "name": "C,XOXO",
         "url": "https://open.spotify.com/album/004ywPlW72Hgn1Bo9PlNOr"
       },
@@ -1170,7 +1242,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 218004,
       "name": "I Can Do It With a Broken Heart",
       "url": "https://open.spotify.com/track/4q5YezDOIPcoLr8R81x9qy"
@@ -1420,7 +1492,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 162253,
       "name": "Lights Camera Action",
       "url": "https://open.spotify.com/track/1yICUJxGHVxxTXCUXxS78f"
@@ -1460,6 +1532,24 @@
       "duration_ms": 241579,
       "name": "Lonely is the Muse",
       "url": "https://open.spotify.com/track/6m3uTDJZzWymLsXOzlY6TD"
+    },
+    {
+      "album": {
+        "name": "Lotus Eater",
+        "url": "https://open.spotify.com/album/494g1fkelfoloDvUuqdAED"
+      },
+      "artists": [
+        {
+          "name": "FINNEAS",
+          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231506,
+      "name": "Lotus Eater",
+      "url": "https://open.spotify.com/track/3Y6yJhnGJdNTQwgIyKMLE8"
     },
     {
       "album": {
@@ -1510,7 +1600,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 179586,
       "name": "LUNCH",
       "url": "https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE"
@@ -1568,7 +1658,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 148016,
       "name": "Melrose",
       "url": "https://open.spotify.com/track/6yaIAV2KtoXufowCjrbxmP"
@@ -1590,6 +1680,24 @@
       "duration_ms": 155151,
       "name": "MILLION DOLLAR BABY",
       "url": "https://open.spotify.com/track/5AJ9hqTS2wcFQCELCFRO7A"
+    },
+    {
+      "album": {
+        "name": "Moonlit Floor",
+        "url": "https://open.spotify.com/album/2F84s5tvr9RSS6VI772mVb"
+      },
+      "artists": [
+        {
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155757,
+      "name": "Moonlit Floor",
+      "url": "https://open.spotify.com/track/3yDRcs0Y4pPzkvMbUfeF9H"
     },
     {
       "album": {
@@ -1629,6 +1737,24 @@
     },
     {
       "album": {
+        "name": "My World",
+        "url": "https://open.spotify.com/album/3a7cMtEKE1BMV0BoH9MwvV"
+      },
+      "artists": [
+        {
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203650,
+      "name": "My World",
+      "url": "https://open.spotify.com/track/0nKVI2mlBFkdjAdZH61rLF"
+    },
+    {
+      "album": {
         "name": "Nasty",
         "url": "https://open.spotify.com/album/1vMVDUsMWaD5eB4oahCboP"
       },
@@ -1662,7 +1788,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 157173,
       "name": "Neva Play (feat. RM of BTS)",
       "url": "https://open.spotify.com/track/2ZqTbIID9vFPTXaGyzbb4q"
@@ -2299,6 +2425,24 @@
     },
     {
       "album": {
+        "name": "Older (and Wiser)",
+        "url": "https://open.spotify.com/album/0jw9gOg8M1Ve6KpP4Iu7XF"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262518,
+      "name": "Spring Into Summer",
+      "url": "https://open.spotify.com/track/6oCXDaFZYL7sHnowv6pdXb"
+    },
+    {
+      "album": {
         "name": "Stay With Me (feat. Hikaru Utada)",
         "url": "https://open.spotify.com/album/6Y7Keo6YYwgBbB50ShM976"
       },
@@ -2420,7 +2564,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 153656,
       "name": "TENNESSEE",
       "url": "https://open.spotify.com/track/19uJXEzXyp37uw6tOmKMMA"
@@ -2536,7 +2680,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 169081,
       "name": "The Plan",
       "url": "https://open.spotify.com/track/24TBDnrH9ampHrkCGNmHJg"
@@ -2620,6 +2764,28 @@
       "duration_ms": 304812,
       "name": "To Be Loved",
       "url": "https://open.spotify.com/track/3VpCLroRCtkDWIkPnMB3mj"
+    },
+    {
+      "album": {
+        "name": "Joker: Folie \u00e0 Deux (Music From The Motion Picture)",
+        "url": "https://open.spotify.com/album/3X2oYJbZtrmszmNeXRpckc"
+      },
+      "artists": [
+        {
+          "name": "Joaquin Phoenix",
+          "url": "https://open.spotify.com/artist/3j507n6aQUbtVxQv2Q6Usv"
+        },
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109680,
+      "name": "To Love Somebody - Music From The Motion Picture",
+      "url": "https://open.spotify.com/track/7FyQqFixAnYRi64pcM63Nx"
     },
     {
       "album": {
@@ -3032,6 +3198,24 @@
       "duration_ms": 232991,
       "name": "You Don't Remember Me",
       "url": "https://open.spotify.com/track/4XjU4hwBk4KOajDgDQX4yq"
+    },
+    {
+      "album": {
+        "name": "You Go Your Way",
+        "url": "https://open.spotify.com/album/5TfDNyXTjan0eZhELfj1jx"
+      },
+      "artists": [
+        {
+          "name": "Perrie",
+          "url": "https://open.spotify.com/artist/0o18Cfq9RAxRqi5W4JOEPe"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234886,
+      "name": "You Go Your Way",
+      "url": "https://open.spotify.com/track/35jE2icc2pV4QDgbJiYMUe"
     },
     {
       "album": {

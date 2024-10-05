@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Costa Rica.
 
-1,156 songs - 2 day 17 hr 43 min
+1,157 songs - 2 day 17 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -181,6 +181,7 @@
 | [CAROLINA](https://open.spotify.com/track/3goYw6YHoCjA1sfBzpdgzH) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 2:42 | 2023-02-25 | 2024-03-14 |
 | [Carta a Dios](https://open.spotify.com/track/5ZLWuh52L4vvIVlRsjFhga) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [SEN2 KBRN VOL\. 2](https://open.spotify.com/album/3lsdB3dY4odywNI42KV6D9) | 2:01 | 2022-11-19 | 2022-11-21 |
 | [Cartago Vive](https://open.spotify.com/track/7xLk01lIa6MHSVYoC19IGU) | [Fuerza Azul \- Cartaginés](https://open.spotify.com/artist/1Vh7W88iSKpmKtMDFoX6Bz) | [Csc](https://open.spotify.com/album/5WND3hr66BkbLkdegbhAvo) | 1:49 | 2022-07-08 | 2022-07-10 |
+| [Casi Al 100](https://open.spotify.com/track/34vXOwvcodMEKIwWioRIhe) | [Kevin Montero](https://open.spotify.com/artist/6wsANrsSGqwAZLQeaYSXzV) | [Casi Al 100](https://open.spotify.com/album/4ocivrTU84q4h9EXtwJPAP) | 3:38 | 2024-10-04 |  |
 | [Castigo](https://open.spotify.com/track/18pWcEUcUJpBFs7eNBsBht) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [FELIZ CUMPLEAÑOS FERXXO TE PIRATEAMOS EL ÁLBUM](https://open.spotify.com/album/7pijRxgRaBirPz6wDaJIp9) | 2:57 | 2022-09-15 | 2024-09-18 |
 | [Castigo](https://open.spotify.com/track/7INDea2qgB7TlUgpux3hsg) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Castigo](https://open.spotify.com/album/1yUx6Fn9wMxJX7pCvy1CCQ) | 2:58 | 2022-05-14 | 2022-05-16 |
 | [CASUALIDAD](https://open.spotify.com/track/3yIyUQXF050PehHtbkgaDu) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [PARAÍSO](https://open.spotify.com/album/7b3PrkHcWx17AQwlI2M1Uc) | 3:03 | 2022-11-05 | 2022-11-07 |
@@ -346,9 +347,9 @@
 | [Entre Nosotros \(Remix\) \[con Nicki Nicole\]](https://open.spotify.com/track/4TGwERXRlyQtBdggYTHo6j) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Entre Nosotros \(Remix\) \[con Nicki Nicole\]](https://open.spotify.com/album/1RXzQq8DhpkYvvbXE9CqLm) | 4:20 | 2022-01-08 | 2022-02-13 |
 | [Envolver](https://open.spotify.com/track/3FkeNbs9Zeiqkr3WkbOiGp) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Versions of Me](https://open.spotify.com/album/2TPl41Riu1SDbHoxhCIo2D) | 3:13 | 2022-04-14 | 2022-07-02 |
 | [Envolver](https://open.spotify.com/track/3IAfUEeaXRX9s9UdKOJrFI) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Envolver](https://open.spotify.com/album/6UsualeqgzPnb8cfaQ5nL7) | 3:13 | 2022-03-10 | 2022-04-15 |
-| [Es un Secreto](https://open.spotify.com/track/7JwdbqIpiuWvGbRryKSuBz) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [House Of Pleasure](https://open.spotify.com/album/0qmyud8qe8LqaVQ1YQ7S5G) | 3:10 | 2023-06-06 | 2024-09-24 |
+| [Es un Secreto](https://open.spotify.com/track/7JwdbqIpiuWvGbRryKSuBz) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [House Of Pleasure](https://open.spotify.com/album/0qmyud8qe8LqaVQ1YQ7S5G) | 3:10 | 2023-06-06 |  |
 | [Es Un Secreto](https://open.spotify.com/track/1AddbBdKFz8wdqatGVSsYS) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [Cipote Carnaval 2011](https://open.spotify.com/album/14zQ8tAtR4VKcFjIvxop3l) | 3:12 | 2024-08-14 | 2024-08-16 |
-| [Es un Secreto](https://open.spotify.com/track/3KZCP2StVGdWkOKyRZNWA4) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [House of Pleasure](https://open.spotify.com/album/4s9iYsrtBIvkZn5AEbUbl0) | 3:12 | 2023-06-02 |  |
+| [Es un Secreto](https://open.spotify.com/track/3KZCP2StVGdWkOKyRZNWA4) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [House of Pleasure](https://open.spotify.com/album/4s9iYsrtBIvkZn5AEbUbl0) | 3:12 | 2023-06-02 | 2024-10-05 |
 | [Esperaba Más](https://open.spotify.com/track/43tbdcpvzvXa3x0vZAy9DV) | [KAVVO](https://open.spotify.com/artist/7BxfvnCKOvC4pYttjF1gsO) | [Procedente](https://open.spotify.com/album/7EIkMp1lhoELiFfNmYZaxb) | 2:44 | 2022-04-23 | 2022-05-02 |
 | [Espresso](https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Espresso](https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4) | 2:55 | 2024-04-25 | 2024-09-08 |
 | [Estamos Bien](https://open.spotify.com/track/2OWVCFTolecLiGZPquvWvT) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [X 100PRE](https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF) | 3:28 | 2022-11-25 | 2022-11-27 |
@@ -540,7 +541,7 @@
 | [LADY GAGA](https://open.spotify.com/track/7mXuWTczZNxG5EDcjFEuJR) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [GÉNESIS](https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH) | 3:32 | 2023-09-15 | 2024-01-21 |
 | [Lady Mi Amor](https://open.spotify.com/track/30Xh83fw03PZ2Wfm36H4EZ) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [FELIZ CUMPLEAÑOS FERXXO TE PIRATEAMOS EL ÁLBUM](https://open.spotify.com/album/7pijRxgRaBirPz6wDaJIp9) | 2:27 | 2022-09-15 | 2024-09-18 |
 | [LAGUNA](https://open.spotify.com/track/0JLKzgJT62z3jNWsDt6znJ) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [ESTRELLA](https://open.spotify.com/album/0SoJvPHbKVhvmVJOp3kzp3) | 4:06 | 2023-08-30 | 2023-09-04 |
-| [LALA](https://open.spotify.com/track/7ABLbnD53cQK00mhcaOUVG) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LA VIDA ES UNA](https://open.spotify.com/album/3puAvurwvtvi1rodndIPW8) | 3:17 | 2023-06-29 |  |
+| [LALA](https://open.spotify.com/track/7ABLbnD53cQK00mhcaOUVG) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LA VIDA ES UNA](https://open.spotify.com/album/3puAvurwvtvi1rodndIPW8) | 3:17 | 2023-06-29 | 2024-10-05 |
 | [Last Christmas](https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78) | [Wham!](https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM) | [LAST CHRISTMAS](https://open.spotify.com/album/6egzU9NKfora01qaNbvwfZ) | 4:22 | 2021-12-25 | 2022-12-28 |
 | [Last Christmas \- Single Version](https://open.spotify.com/track/06qMRF18gwbOYYbnP2du6i) | [Wham!](https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM) | [The Singles: Echoes from the Edge of Heaven](https://open.spotify.com/album/2wyHNTisH8PtZG8OG58xr6) | 4:25 | 2023-12-24 | 2023-12-30 |
 | [Late Night Talking](https://open.spotify.com/track/1qEmFfgcLObUfQm0j1W2CK) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:57 | 2022-05-21 | 2022-05-30 |

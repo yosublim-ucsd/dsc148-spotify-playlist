@@ -1955,6 +1955,24 @@
     },
     {
       "album": {
+        "name": "DADADOO",
+        "url": "https://open.spotify.com/album/7jThw9jJDU3UitZRESpvGC"
+      },
+      "artists": [
+        {
+          "name": "Moka Only",
+          "url": "https://open.spotify.com/artist/7G9ZUoEjbi5Z2bR5w60S0h"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171506,
+      "name": "DADADOO",
+      "url": "https://open.spotify.com/track/0eYWFMi3v00NOx0tt9ONWI"
+    },
+    {
+      "album": {
         "name": "DaLouIsBack",
         "url": "https://open.spotify.com/album/3hikpXw8GNMNLXt7AE3P9U"
       },
@@ -8086,7 +8104,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 205628,
       "name": "The Eternal Now",
       "url": "https://open.spotify.com/track/0CJL0DuxUtTzTOY3iUUJfK"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "The freshest pop sounds. Cover: Damiano David",
+  "description": "The freshest pop sounds. Cover: FINNEAS",
   "name": "New Pop Revolution",
   "tracks": [
     {
@@ -8492,7 +8492,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 186232,
       "name": "Forget About Us",
       "url": "https://open.spotify.com/track/3wmnP7CY38ajyGfZUZ6vce"
@@ -10370,7 +10370,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 164217,
       "name": "Hell & Never Back",
       "url": "https://open.spotify.com/track/2EdKKrPr5CUrb8oIUtZ7j9"
@@ -10815,6 +10815,24 @@
     },
     {
       "album": {
+        "name": "HOMEWRECKED",
+        "url": "https://open.spotify.com/album/4kEDr96ERhbxbkJfDDzU92"
+      },
+      "artists": [
+        {
+          "name": "AD\u00c9LA",
+          "url": "https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174590,
+      "name": "HOMEWRECKED",
+      "url": "https://open.spotify.com/track/7904wbV03rb4S0gGliqBk4"
+    },
+    {
+      "album": {
         "name": "HONEST",
         "url": "https://open.spotify.com/album/36333qaoBySSvF9KHOoGPz"
       },
@@ -10874,7 +10892,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 227283,
       "name": "Honey Boy (feat. Nile Rodgers & Shenseea)",
       "url": "https://open.spotify.com/track/1xIhiVVntsudPMTRFoODyo"
@@ -14787,6 +14805,24 @@
     },
     {
       "album": {
+        "name": "Lotus Eater",
+        "url": "https://open.spotify.com/album/494g1fkelfoloDvUuqdAED"
+      },
+      "artists": [
+        {
+          "name": "FINNEAS",
+          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231506,
+      "name": "Lotus Eater",
+      "url": "https://open.spotify.com/track/3Y6yJhnGJdNTQwgIyKMLE8"
+    },
+    {
+      "album": {
         "name": "Lotus Inn",
         "url": "https://open.spotify.com/album/3a9jHD4jj7qcrbbVbeCjMo"
       },
@@ -15792,7 +15828,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 168355,
       "name": "Miles On It",
       "url": "https://open.spotify.com/track/4pkb8SbRGeHAvdb87v9rpf"
@@ -16678,6 +16714,24 @@
       "duration_ms": 176027,
       "name": "Nasty",
       "url": "https://open.spotify.com/track/6NjWCIYu1W8xa3HIvcIhd4"
+    },
+    {
+      "album": {
+        "name": "Parked Car Conversations (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4NT4YMnOYMc29uJqQjgS1p"
+      },
+      "artists": [
+        {
+          "name": "Picture This",
+          "url": "https://open.spotify.com/artist/7jLSEPYCYQ5ssWU3BICqrW"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203666,
+      "name": "Natural Disaster",
+      "url": "https://open.spotify.com/track/49PxAddYDPWtMY1HcHAV8B"
     },
     {
       "album": {
@@ -17582,6 +17636,24 @@
       "duration_ms": 216018,
       "name": "Oh Laura",
       "url": "https://open.spotify.com/track/2Lq7rOLcBBTvBa86k1YTW0"
+    },
+    {
+      "album": {
+        "name": "oh my",
+        "url": "https://open.spotify.com/album/5DLmUPr3Fv2OaGrgPMKcRb"
+      },
+      "artists": [
+        {
+          "name": "Alessi Rose",
+          "url": "https://open.spotify.com/artist/6QXtidyXX0uGggafrYdktx"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203400,
+      "name": "oh my",
+      "url": "https://open.spotify.com/track/0fTg49YN2gYmwilA8azvPP"
     },
     {
       "album": {
@@ -21424,7 +21496,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 162019,
       "name": "Sober",
       "url": "https://open.spotify.com/track/0MaRZUe5QjY56E1pfY3hFY"
@@ -21843,6 +21915,24 @@
     },
     {
       "album": {
+        "name": "Love Tune",
+        "url": "https://open.spotify.com/album/4jCiEqSvakhAN2n7Gr2r2r"
+      },
+      "artists": [
+        {
+          "name": "FIFTY FIFTY",
+          "url": "https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187507,
+      "name": "SOS",
+      "url": "https://open.spotify.com/track/3X76Lal4GwBFqriHz1FbLU"
+    },
+    {
+      "album": {
         "name": "Space Girl",
         "url": "https://open.spotify.com/album/6hiGYyZjkFhQ3M7khG2zs7"
       },
@@ -21974,6 +22064,24 @@
       "duration_ms": 170467,
       "name": "Splash",
       "url": "https://open.spotify.com/track/3ZVYZYIOVCwOnSE7WKRjXV"
+    },
+    {
+      "album": {
+        "name": "Spot a Fake",
+        "url": "https://open.spotify.com/album/2LTf2Kj2XJuOR3Vi5AMkcD"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167621,
+      "name": "Spot a Fake",
+      "url": "https://open.spotify.com/track/1svpo8ORIHy4BdgicdyUjx"
     },
     {
       "album": {
@@ -22971,6 +23079,24 @@
     },
     {
       "album": {
+        "name": "Switch",
+        "url": "https://open.spotify.com/album/6OumeSAX4Z4eVfyU816KLM"
+      },
+      "artists": [
+        {
+          "name": "Rose Gray",
+          "url": "https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180713,
+      "name": "Switch",
+      "url": "https://open.spotify.com/track/1bEO8LdFDrYpJleXnVons3"
+    },
+    {
+      "album": {
         "name": "Symptomatic",
         "url": "https://open.spotify.com/album/31CNDRgoCCBHJAlPnDmKns"
       },
@@ -23696,7 +23822,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 212648,
       "name": "The Door",
       "url": "https://open.spotify.com/track/3dj4wgM3cPeuLwMNHDuBon"
@@ -24004,7 +24130,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 186461,
       "name": "The Idea of You",
       "url": "https://open.spotify.com/track/13skFf8DWYHxbZx3jP3V0B"
@@ -25636,7 +25762,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 166000,
       "name": "Vision Remix (feat. Chl\u00f6e)",
       "url": "https://open.spotify.com/track/43ZEiGYEJ5vcmjlBwanwyW"
@@ -27198,6 +27324,24 @@
       "duration_ms": 178470,
       "name": "You Give Me More",
       "url": "https://open.spotify.com/track/4yDN3raV23ADESRpIoW8AO"
+    },
+    {
+      "album": {
+        "name": "You Go Your Way",
+        "url": "https://open.spotify.com/album/5TfDNyXTjan0eZhELfj1jx"
+      },
+      "artists": [
+        {
+          "name": "Perrie",
+          "url": "https://open.spotify.com/artist/0o18Cfq9RAxRqi5W4JOEPe"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234886,
+      "name": "You Go Your Way",
+      "url": "https://open.spotify.com/track/35jE2icc2pV4QDgbJiYMUe"
     },
     {
       "album": {

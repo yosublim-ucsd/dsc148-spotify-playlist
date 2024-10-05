@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "New music discovery is what we're about. Try it on for size. Cover: Dylan Marlowe",
+  "description": "New music discovery is what we're about. Try it on for size. Cover: Nate Smith",
   "name": "New Boots",
   "tracks": [
     {
@@ -457,6 +457,24 @@
     },
     {
       "album": {
+        "name": "5 to 9",
+        "url": "https://open.spotify.com/album/1c8wFzXWGK7yDkLWfctG1Q"
+      },
+      "artists": [
+        {
+          "name": "Hudson Westbrook",
+          "url": "https://open.spotify.com/artist/0C4gtx1iHMfuaQ73GKWvtZ"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203828,
+      "name": "5 to 9",
+      "url": "https://open.spotify.com/track/7aGK202gwOfeCJee5qYCGy"
+    },
+    {
+      "album": {
         "name": "5AM",
         "url": "https://open.spotify.com/album/2FB6kHSCZ9cfzEnqThq7gu"
       },
@@ -832,6 +850,24 @@
       "duration_ms": 195640,
       "name": "About You",
       "url": "https://open.spotify.com/track/1DEFXwlvvlNK4uJtvUA1ZK"
+    },
+    {
+      "album": {
+        "name": "Prayer",
+        "url": "https://open.spotify.com/album/1gRmQg6mIrFKDw1FnOschW"
+      },
+      "artists": [
+        {
+          "name": "Tyler Braden",
+          "url": "https://open.spotify.com/artist/63wjVVauFUQ4gBw6QXTT5N"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182551,
+      "name": "Above The Water",
+      "url": "https://open.spotify.com/track/7s13RtwYOYb3a424eZ1kWw"
     },
     {
       "album": {
@@ -3288,7 +3324,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 186453,
       "name": "better be tough",
       "url": "https://open.spotify.com/track/0gmQyWfN1iSYnwLMOlMPLi"
@@ -4337,6 +4373,24 @@
     },
     {
       "album": {
+        "name": "Am I Okay? (I'll Be Fine)",
+        "url": "https://open.spotify.com/album/0AqurYcKg73g81nADrFcyY"
+      },
+      "artists": [
+        {
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214670,
+      "name": "Break It Right Back",
+      "url": "https://open.spotify.com/track/4UzkT20tkeSqlKLinRQsA7"
+    },
+    {
+      "album": {
         "name": "Break Like You Do",
         "url": "https://open.spotify.com/album/5xY7GlwUtjA7KP7OPQ5E9M"
       },
@@ -5022,7 +5076,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 149426,
       "name": "Bye Bye Bye",
       "url": "https://open.spotify.com/track/081NX6xSxwSKgleTmGc58F"
@@ -5228,6 +5282,28 @@
       "duration_ms": 188636,
       "name": "Can Down",
       "url": "https://open.spotify.com/track/1GIcsaFqm5xn5mkl97v0lV"
+    },
+    {
+      "album": {
+        "name": "Can You Die From a Broken Heart (feat. Avril Lavigne)",
+        "url": "https://open.spotify.com/album/2KDbfU7ZAp8kOdFYZZadim"
+      },
+      "artists": [
+        {
+          "name": "Nate Smith",
+          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
+        },
+        {
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210026,
+      "name": "Can You Die From a Broken Heart - feat. Avril Lavigne",
+      "url": "https://open.spotify.com/track/5GgOktu3FrHdb26jTrS4AK"
     },
     {
       "album": {
@@ -5492,6 +5568,24 @@
       "duration_ms": 185069,
       "name": "Champagne Night - From Songland",
       "url": "https://open.spotify.com/track/5WlA4gg4yyjPQgZ1cu4XYr"
+    },
+    {
+      "album": {
+        "name": "Change My Mind",
+        "url": "https://open.spotify.com/album/5ndkH4RnE1m6TcBhyKpWB8"
+      },
+      "artists": [
+        {
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199533,
+      "name": "Change My Mind",
+      "url": "https://open.spotify.com/track/3iFzZcNK82ytOWr2qHY5pd"
     },
     {
       "album": {
@@ -7475,6 +7569,24 @@
     },
     {
       "album": {
+        "name": "Darkest Hour (Helene Edit)",
+        "url": "https://open.spotify.com/album/4YjKFvfdAqVgxMib41MUP3"
+      },
+      "artists": [
+        {
+          "name": "Eric Church",
+          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247733,
+      "name": "Darkest Hour (Helene Edit)",
+      "url": "https://open.spotify.com/track/3M7Cq1R8cylsGzNEb6QBMU"
+    },
+    {
+      "album": {
         "name": "We All Grow Up",
         "url": "https://open.spotify.com/album/1XXkk3jAPfmW5jyRbRON7x"
       },
@@ -8240,7 +8352,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 192233,
       "name": "Dirt Roads Dirt",
       "url": "https://open.spotify.com/track/1tQG3cYnIDXlrdFPmpt0HZ"
@@ -10098,7 +10210,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 224946,
       "name": "Fall of Summer",
       "url": "https://open.spotify.com/track/5YOAM7GS2QQu1TCGnhVhnh"
@@ -11574,7 +11686,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-14",
+      "date_removed": null,
       "duration_ms": 160160,
       "name": "Get By",
       "url": "https://open.spotify.com/track/5CEkI4CA4yHWEdiRDt1qlr"
@@ -14072,7 +14184,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 202219,
       "name": "Happy Face",
       "url": "https://open.spotify.com/track/7KvZLaYFqBqoADTelAsWWO"
@@ -17609,6 +17721,24 @@
     },
     {
       "album": {
+        "name": "I Love the Way You Love Me",
+        "url": "https://open.spotify.com/album/2XCOqR6y7UzbLmGnhTh4tV"
+      },
+      "artists": [
+        {
+          "name": "Walker Montgomery",
+          "url": "https://open.spotify.com/artist/5vAB5nEXC8gfRxudmFF9jl"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235498,
+      "name": "I Love the Way You Love Me",
+      "url": "https://open.spotify.com/track/48oLajvNQsUqGHl6r24hMY"
+    },
+    {
+      "album": {
         "name": "I Love You More",
         "url": "https://open.spotify.com/album/4KQP0Ov59zHV46sHTehqNI"
       },
@@ -18918,7 +19048,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 139413,
       "name": "Irish Goodbye",
       "url": "https://open.spotify.com/track/7ERPDzFA20PGO1KEyXAM0K"
@@ -19474,7 +19604,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 155573,
       "name": "Just To Say We Did",
       "url": "https://open.spotify.com/track/3xq1nVP7GdWKaWsv0oZ4lT"
@@ -20336,7 +20466,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 204933,
       "name": "Liar",
       "url": "https://open.spotify.com/track/6Gv6oZhbWa1fBGcv5VwW8g"
@@ -22298,7 +22428,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 187017,
       "name": "Man on the Moon",
       "url": "https://open.spotify.com/track/22UE7ARZNnAJHq1TObXLcc"
@@ -23522,7 +23652,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 164089,
       "name": "More Than A Prayer",
       "url": "https://open.spotify.com/track/30hhkjL3FB3Y2BoWsn1oGo"
@@ -25315,6 +25445,24 @@
     },
     {
       "album": {
+        "name": "The Storyteller",
+        "url": "https://open.spotify.com/album/7KypIz0P88XTX6VrtYdC0E"
+      },
+      "artists": [
+        {
+          "name": "Conner Smith",
+          "url": "https://open.spotify.com/artist/0y2FPygoi6LVc75pxCgsMk"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211183,
+      "name": "Nostalgia",
+      "url": "https://open.spotify.com/track/3Z9UDAqfYxU9WVAapTmY62"
+    },
+    {
+      "album": {
         "name": "Not Meant to Be",
         "url": "https://open.spotify.com/album/4qki8EgvxYpYfq4rQjGYxT"
       },
@@ -25846,7 +25994,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 202280,
       "name": "Old Fashioned Feeling",
       "url": "https://open.spotify.com/track/1mlFsqgc3lgTCboLATYHBo"
@@ -31494,7 +31642,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 200966,
       "name": "Someone In This Room (feat. Bailey Zimmerman)",
       "url": "https://open.spotify.com/track/3kvgQZmOgwjfVnuduPPDZG"
@@ -32728,7 +32876,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 189554,
       "name": "Steal My Thunder (feat. Tucker Wetmore) [From Twisters: The Album]",
       "url": "https://open.spotify.com/track/5570h72QV2nxy5AhozdPnG"
@@ -34199,6 +34347,24 @@
     },
     {
       "album": {
+        "name": "That Girl",
+        "url": "https://open.spotify.com/album/2hqp7cdyvx1WEH5O6Aqq5h"
+      },
+      "artists": [
+        {
+          "name": "Kat Luna",
+          "url": "https://open.spotify.com/artist/0ZAMqSlS8quA8VPHdQF6jt"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191233,
+      "name": "That Girl - Spanglish Version",
+      "url": "https://open.spotify.com/track/0uxIp4VU5X3TxVwn8pypXg"
+    },
+    {
+      "album": {
         "name": "Behind The Bar",
         "url": "https://open.spotify.com/album/5okzhzPKByC8n0NxBYD2e5"
       },
@@ -34854,6 +35020,24 @@
       "duration_ms": 207804,
       "name": "The Ride (feat. Jordan Davis)",
       "url": "https://open.spotify.com/track/2uxVZJ82ARCrLXWTh2z7Rw"
+    },
+    {
+      "album": {
+        "name": "Full Moon",
+        "url": "https://open.spotify.com/album/3NccNTsZeAlGl7MFCJkHNt"
+      },
+      "artists": [
+        {
+          "name": "Spencer Crandall",
+          "url": "https://open.spotify.com/artist/6to2NJmRWY1h7rLU4c9TyG"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181558,
+      "name": "The Right One",
+      "url": "https://open.spotify.com/track/4DZU897k6LLzfg1JOEjKjK"
     },
     {
       "album": {
@@ -37949,6 +38133,24 @@
     },
     {
       "album": {
+        "name": "weren't for the wind",
+        "url": "https://open.spotify.com/album/2EaHnwT7NSSG207GN94pfN"
+      },
+      "artists": [
+        {
+          "name": "Ella Langley",
+          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193666,
+      "name": "weren't for the wind",
+      "url": "https://open.spotify.com/track/4v9alNvEjLjvqo4LNWwswl"
+    },
+    {
+      "album": {
         "name": "West Texas Weather",
         "url": "https://open.spotify.com/album/1tUtPFJsbs48xPkgfjsWsP"
       },
@@ -38638,6 +38840,24 @@
       "duration_ms": 170372,
       "name": "What\u2019s Your Country Song",
       "url": "https://open.spotify.com/track/7Cw3yXDA8Uui37SI5FFaA7"
+    },
+    {
+      "album": {
+        "name": "Waves On A Sunset",
+        "url": "https://open.spotify.com/album/3BZLyz9vRkmsw7Q8UyX3dm"
+      },
+      "artists": [
+        {
+          "name": "Tucker Wetmore",
+          "url": "https://open.spotify.com/artist/4sCKpwwEsgReZxjtKFm2A0"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185146,
+      "name": "When I Ain't Lookin'",
+      "url": "https://open.spotify.com/track/0des8iQjWbqSGkn89w7AWr"
     },
     {
       "album": {

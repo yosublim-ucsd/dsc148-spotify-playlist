@@ -4,7 +4,7 @@
 
 > Fall in love with the sensual sounds of Kizomba! Cover: Cleyton David, Tamyris Moiane
 
-419 songs - 1 day 0 hr 44 min
+420 songs - 1 day 0 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,6 +154,7 @@
 | [Fininho](https://open.spotify.com/track/5AGEa2l0h9fEQSbqQdjh2q) | [Filomena Maricoa](https://open.spotify.com/artist/779KPNdHtr7BoEKEAcHxjG) | [Resiliência](https://open.spotify.com/album/5QHssDn672a9cJOsdw1HQ7) | 2:59 | 2021-12-10 | 2022-01-25 |
 | [Focadu na mi](https://open.spotify.com/track/2F8UmE4VDyq01qTdTqVp8V) | [Jennifer Dias](https://open.spotify.com/artist/45qwEAGFSoIAhlRJqYZIml) | [DIAS \(Tome 1\)](https://open.spotify.com/album/3mcuhcsPFPF10MFEn43hn1) | 3:38 | 2022-03-25 | 2022-04-20 |
 | [FORTI SO DA DI](https://open.spotify.com/track/26PYN8A18eUNXJw0BSWHJT) | [Soraia Ramos](https://open.spotify.com/artist/6Hdj9MS399KY29SP12gI0L) | [COCKTAIL](https://open.spotify.com/album/0kWei4i3wj1HEVAggyE9fN) | 2:54 | 2023-10-26 | 2023-11-17 |
+| [Fé](https://open.spotify.com/track/6bp9ivNIHLHqHFPIaqC40u) | [June Freedom](https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC), [ÉLLÀH](https://open.spotify.com/artist/1I5Ae9tdGA0hgjWNTXqmJt) | [Fé](https://open.spotify.com/album/2GDBdMFXsZRxL5fe7GnL5a) | 2:32 | 2024-10-04 |  |
 | [Gogó Gúo Go](https://open.spotify.com/track/2pu3WSzex9of4eztWNPxPv) | [Heavy C](https://open.spotify.com/artist/70LmgRdYKHG2E9owGNTDbB) | [Gogó Gúo Go](https://open.spotify.com/album/2eWpNaolfGSy8Zs9m9KXw7) | 2:09 | 2024-08-08 | 2024-08-23 |
 | [Gostu Sabi](https://open.spotify.com/track/6cosp1xrAB2ibru87qvvqB) | [Gil Semedo](https://open.spotify.com/artist/09vnXoFkZgz4LpDF0xWULu), [Calema](https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um), [Soraia Ramos](https://open.spotify.com/artist/6Hdj9MS399KY29SP12gI0L), [Mito Kaskas](https://open.spotify.com/artist/61B4g2tzV2iOPCxFVXfC7F) | [Gostu Sabi](https://open.spotify.com/album/2Xi1UFTDSzhxS5bOn0uI3t) | 4:24 | 2022-06-16 | 2022-07-01 |
 | [Grega](https://open.spotify.com/track/7cY7ufQTW8XJ62Q9KsNVwh) | [Black Spygo](https://open.spotify.com/artist/2A0VfJYVYzMd2EzexuHvjY), [C4 Pedro](https://open.spotify.com/artist/5IccCciXwIjKPROLcD1Qao), [Bruna Amado](https://open.spotify.com/artist/5pRlnFpk8M6RZabwNbCCTc), [Black Vision](https://open.spotify.com/artist/3nFAsihkHwUHm2fckVtTjJ) | [Grega](https://open.spotify.com/album/3p7jFAdBLyEFhKM4NVwgHx) | 3:10 | 2024-03-15 | 2024-08-02 |
@@ -184,7 +185,7 @@
 | [Karma \- Kriolu Version](https://open.spotify.com/track/37OwL4VPwKjyqu0VaqEizD) | [Lisandro Cuxi](https://open.spotify.com/artist/18B188KE3gPEhXfx15XnhY) | [Karma \(Kriolu Version\)](https://open.spotify.com/album/0Eqgq0Pm3WTzcFM79X2CiN) | 3:05 | 2023-03-03 |  |
 | [Kel Tempo](https://open.spotify.com/track/3PDFuZVewf6fR15SPG528b) | [Ricky Boy](https://open.spotify.com/artist/3b2fO7uOvR5bgzd5IVBGSZ), [Loreta Kba](https://open.spotify.com/artist/3BgAxhLchLBb8Y6h7mVbyk), [Mário Marta](https://open.spotify.com/artist/0qd7Qbrtcuv1ZQusvjM49K) | [Kel Tempo](https://open.spotify.com/album/7DgYcIzCMGpxDMnjuKMs41) | 3:41 | 2024-07-25 | 2024-08-09 |
 | [Keruh](https://open.spotify.com/track/6SMgtwBAsC1WreQJzsQ7EL) | [Zaza The Pi](https://open.spotify.com/artist/4DLzljqWfoI4JjMfhydPJM) | [Keruh](https://open.spotify.com/album/04yKYTsbJEU0FIsR7fcmOk) | 3:49 | 2022-01-10 | 2022-01-17 |
-| [Ku Bo](https://open.spotify.com/track/5nw75kPDOQdmJ4o50MNgSh) | [Neyna](https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7), [KVN LOPES](https://open.spotify.com/artist/1Hox4aVVAzu5JMgeYA0eNL) | [Ku Bo](https://open.spotify.com/album/3509B3p7jecY07ceKKw6KI) | 3:03 | 2024-06-06 |  |
+| [Ku Bo](https://open.spotify.com/track/5nw75kPDOQdmJ4o50MNgSh) | [Neyna](https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7), [KVN LOPES](https://open.spotify.com/artist/1Hox4aVVAzu5JMgeYA0eNL) | [Ku Bo](https://open.spotify.com/album/3509B3p7jecY07ceKKw6KI) | 3:03 | 2024-06-06 | 2024-10-05 |
 | [Kua Buaru](https://open.spotify.com/track/4CleTVckv87HCeEpj05X52) | [Calema](https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um), [Soraia Ramos](https://open.spotify.com/artist/6Hdj9MS399KY29SP12gI0L), [Pérola](https://open.spotify.com/artist/34Gw52pP6ExWNrH6U6fpeO), [Manecas Costa](https://open.spotify.com/artist/4SQUUGQBAKH0w73RjAnozc) | [Kua Buaru](https://open.spotify.com/album/0H4JbF7EeFgoYvLixZpUpS) | 3:01 | 2021-12-10 | 2024-09-20 |
 | [Kuyuyu](https://open.spotify.com/track/2ieA58j9Fsuo35Gwa6oX8P) | [Landrick](https://open.spotify.com/artist/0K7M2QEMiMcok8igQeSsRU) | [Zolana](https://open.spotify.com/album/1QZFUA00SScMMaea5DW1Mn) | 3:54 | 2021-12-10 | 2023-01-27 |
 | [Lambuxa na Bo](https://open.spotify.com/track/4geD496HKKdshBtb5U5Yan) | [Loony Johnson](https://open.spotify.com/artist/0AJ7gzFhNKeCeIpFNikyWv) | [Lambuxa na Bo](https://open.spotify.com/album/38Awfmyez9FhYQr7gSbf1k) | 3:03 | 2022-09-22 | 2022-12-02 |

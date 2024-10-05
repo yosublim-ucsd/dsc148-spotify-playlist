@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaLM83puGG5.md) - [plain]
 
 > Keeping the party going with <a href="spotify:artist:6BjTMFkrQJF8cQlVsLFbUh">Mowalola</a>!
 
-[Spotify](https://open.spotify.com/user/spotify) - 455,411 likes - 50 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 455,423 likes - 50 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

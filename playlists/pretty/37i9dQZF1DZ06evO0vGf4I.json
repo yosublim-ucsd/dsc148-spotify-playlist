@@ -1,12 +1,12 @@
 {
-  "description": "This is Travis Scott. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 1548497,
+  "description": "This Is Travis Scott. Los temas esenciales, todos en una lista.",
+  "num_followers": 1549005,
   "original_name": "This Is Travis Scott",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvyNAAAAAABKijHTMlgcD6GXdPgm7aL8",
+  "snapshot_id": "Zv3egAAAAADgpYZjWaQY5liHkeUN8nC/",
   "tracks": [
     {
       "added_at": null,
@@ -1031,22 +1031,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "HARDSTONE PSYCHO",
-        "url": "https://open.spotify.com/album/0Kzb3u6kMnOJOZXYFSk33F"
+        "name": "Her Loss",
+        "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
       },
       "artists": [
         {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
         },
         {
           "name": "Travis Scott",
           "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
         }
       ],
-      "duration_ms": 218200,
-      "name": "ICE AGE (FEAT. TRAVIS SCOTT)",
-      "url": "https://open.spotify.com/track/4nhcjelU9PidsBzUkazfZs"
+      "duration_ms": 242026,
+      "name": "Pussy & Millions (feat. Travis Scott)",
+      "url": "https://open.spotify.com/track/2KLwPaRDOB87XOYAT2fgxh"
     }
   ],
   "unique_name": "This Is Travis Scott",

@@ -1,12 +1,12 @@
 {
   "description": "\u00c4ntligen fredag och ny musik! Happy New Music Friday!",
-  "num_followers": 216288,
+  "num_followers": 216461,
   "original_name": "New Music Friday Sweden",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zv8T4AAAAAAKqjfwtfyOYrprOIt3702x",
+  "snapshot_id": "Zv+ingAAAAA0vbWQNqqqnjENGOl2JXpb",
   "tracks": [
     {
       "added_at": "2024-10-03 22:00:00",
@@ -593,7 +593,7 @@
         },
         {
           "name": "Amanda Ginsburg",
-          "url": "https://open.spotify.com/artist/4V0OhT2NmvpEjKrhny0xVy"
+          "url": "https://open.spotify.com/artist/0WnqhdeUWBRldiZFW83Ahj"
         }
       ],
       "duration_ms": 213753,
@@ -739,6 +739,30 @@
       "duration_ms": 151447,
       "name": "Selena",
       "url": "https://open.spotify.com/track/5P261rot7GshV5x4H8atpL"
+    },
+    {
+      "added_at": "2024-10-04 08:09:02",
+      "album": {
+        "name": "Sees Igjen",
+        "url": "https://open.spotify.com/album/2ZbDIWIGCKtpK26NRTUw6s"
+      },
+      "artists": [
+        {
+          "name": "Golfklubb",
+          "url": "https://open.spotify.com/artist/1Kj6Km5IuLGKt2cxuhSgLm"
+        },
+        {
+          "name": "Dizzy",
+          "url": "https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy"
+        },
+        {
+          "name": "Philippe",
+          "url": "https://open.spotify.com/artist/23yPgzwt35lJyA3f8ayMfW"
+        }
+      ],
+      "duration_ms": 163142,
+      "name": "Sees Igjen",
+      "url": "https://open.spotify.com/track/2QyL2WhZmOfpVSxy2BaI8U"
     },
     {
       "added_at": "2024-10-03 22:00:00",

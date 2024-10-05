@@ -2,7 +2,7 @@
 
 ### [This Is Dharius](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3Bunfq)
 
-> This Is Dharius\. Los temas esenciales, todos en una lista.
+> This is Dharius\. The essential tracks, all in one playlist.
 
 67 songs - 4 hr 18 min
 
@@ -32,7 +32,7 @@
 | [Inhala](https://open.spotify.com/track/19U70d6IpR3x8XRBfGMXXI) | [Dan Sanchez](https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [Yayo](https://open.spotify.com/artist/74ygGK6cTqo0Q7UadJytEJ) | [Inhala](https://open.spotify.com/album/5BC1qGaUadJLd5y4QIhhJS) | 4:05 | 2023-11-10 |  |
 | [La Durango](https://open.spotify.com/track/4iy8C1xOpkSaDrEufihTIA) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Mala Fama, Buena Vidha](https://open.spotify.com/album/6HDPRXDl3Vsj8ksZyfpP5V) | 4:10 | 2023-11-10 |  |
 | [La Forty \(feat\. Efeblunts\)](https://open.spotify.com/track/5jYUWTBEKSk8hkAD2OidqX) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [Efeblunts](https://open.spotify.com/artist/1nlQxtUgZL8DKBWo24VkDr) | [La Forty \(feat\. Efeblunts\)](https://open.spotify.com/album/2MonKwkwHnYduDrWJRW8uG) | 3:41 | 2023-11-10 | 2024-01-28 |
-| [La Mision 3](https://open.spotify.com/track/11cBc7p39GKbAzpN8izhbh) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu), [Fermin IV](https://open.spotify.com/artist/74OPWhLPyLylAzgqcJlNMm) | [La Mision 3](https://open.spotify.com/album/5gA4AFEjzYhqv1OxixVOK6) | 4:42 | 2023-11-10 |  |
+| [La Mision 3](https://open.spotify.com/track/11cBc7p39GKbAzpN8izhbh) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu), [Fermin IV](https://open.spotify.com/artist/74OPWhLPyLylAzgqcJlNMm) | [La Mision 3](https://open.spotify.com/album/5gA4AFEjzYhqv1OxixVOK6) | 4:42 | 2023-11-10 | 2024-10-05 |
 | [La Misión \(Episodio 2\)](https://open.spotify.com/track/63Ue3S576DpaAaDIZlMYsF) | [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [La Misión \(Episodio 2\)](https://open.spotify.com/album/07gHdHOclypZGhqlaRmuSi) | 5:23 | 2023-11-10 | 2024-03-27 |
 | [La Misión \(Episodio 4\)](https://open.spotify.com/track/3TAzpSBGCZvFe3XuHevWoW) | [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [Tiro Loko](https://open.spotify.com/artist/4Y5HJP3oFOJ8UVBXHYWBgx) | [La Misión \(Episodio 4\)](https://open.spotify.com/album/5TzgFVuMKUDiyYPtMiX66e) | 4:53 | 2024-03-26 |  |
 | [LA PARRANDHA](https://open.spotify.com/track/6XFTqMW87jrYBQ3SS8vYpZ) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [LA PARRANDHA](https://open.spotify.com/album/2OrhT6OwvY3Hdm3EFoW9iM) | 3:58 | 2023-11-10 |  |

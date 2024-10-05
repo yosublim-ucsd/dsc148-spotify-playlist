@@ -1,12 +1,12 @@
 {
   "description": "This is Post Malone. The essential tracks, all in one playlist.",
-  "num_followers": 2726419,
+  "num_followers": 2726644,
   "original_name": "This Is Post Malone",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvyNAAAAAACz/4U97+qemzklYXyGR8dg",
+  "snapshot_id": "Zv3egAAAAABbnk98beCyQ1vZ/SnK1n8U",
   "tracks": [
     {
       "added_at": null,
@@ -246,11 +246,15 @@
         {
           "name": "Post Malone",
           "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
+        {
+          "name": "Blake Shelton",
+          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
         }
       ],
-      "duration_ms": 207176,
-      "name": "What Don't Belong To Me",
-      "url": "https://open.spotify.com/track/0lJNSfWnwJMIh94Dv9jQUt"
+      "duration_ms": 195122,
+      "name": "Pour Me A Drink (Feat. Blake Shelton)",
+      "url": "https://open.spotify.com/track/0mNzElhEofvgMWAJoOA4q9"
     },
     {
       "added_at": null,
@@ -314,15 +318,11 @@
         {
           "name": "Post Malone",
           "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        },
-        {
-          "name": "Blake Shelton",
-          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
         }
       ],
-      "duration_ms": 195122,
-      "name": "Pour Me A Drink (Feat. Blake Shelton)",
-      "url": "https://open.spotify.com/track/0mNzElhEofvgMWAJoOA4q9"
+      "duration_ms": 207176,
+      "name": "What Don't Belong To Me",
+      "url": "https://open.spotify.com/track/0lJNSfWnwJMIh94Dv9jQUt"
     },
     {
       "added_at": null,

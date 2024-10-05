@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlxhE5hLKL2.md) - [plain]
 
 > Digging old Japanese records and flipping them into something new.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,541 likes - 65 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,554 likes - 65 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

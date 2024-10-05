@@ -4,7 +4,7 @@
 
 > Acoustic country songs from the heart of Nashville \- stripped down to the basics.
 
-295 songs - 16 hr 7 min
+296 songs - 16 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Burn It Down \- Live Acoustic](https://open.spotify.com/track/1zOFqMnCN7DUpwJmuc7GV1) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Burn It Down \(Live Acoustic\)](https://open.spotify.com/album/0njPZgMRssflpa2zicNaWf) | 3:46 | 2024-01-05 |  |
 | [Buy Dirt \- Acoustic](https://open.spotify.com/track/6MG2uwCDlqChYAAlzCBd50) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI), [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Buy Dirt \(Acoustic\)](https://open.spotify.com/album/1JQ9Z0M1rA2MCmEdhruP2n) | 3:04 | 2021-12-17 | 2022-01-22 |
 | [Buy Dirt \- Alternate Version](https://open.spotify.com/track/6dYs20Vw8S9pzf8gR7BN0c) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Buy Dirt](https://open.spotify.com/album/3T9Iw4QrkSpiJnqN0ZpNTd) | 2:50 | 2022-01-21 |  |
+| [Bye Bye Bye \- Stripped](https://open.spotify.com/track/0TNomhATGo04D8twLvXRN7) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Bye Bye Bye \(Stripped\)](https://open.spotify.com/album/0oLZnL3k7j99pcrbQPWJC3) | 2:23 | 2024-10-04 |  |
 | [Can't Have Mine \(Find You A Girl\) \[Acoustic\]](https://open.spotify.com/track/6bEnpoQyw1REmp42Ql8iXr) | [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x) | [Can't Have Mine \(Find You A Girl\) \[Acoustic\]](https://open.spotify.com/album/6Z5hiPEf5U9Z3Q9t2atIPn) | 3:04 | 2023-09-22 | 2024-01-14 |
 | [Can't Nobody \- Acoustic](https://open.spotify.com/track/2c12s9u80ml1VTZ7Y5tSj6) | [Mackenzie Carpenter](https://open.spotify.com/artist/1gYlQ5LjfQz9QPaCApCsDZ) | [Can't Nobody \(Acoustic\)](https://open.spotify.com/album/6C3biWX9TVBevi1aA5ucsk) | 3:24 | 2022-08-20 | 2022-08-23 |
 | [Chasing After You \(with Maren Morris\)](https://open.spotify.com/track/1ZIKpMTRPqhwAoVXWY3tXI) | [Ryan Hurd](https://open.spotify.com/artist/7lDVEkjIURPMyUYwoQRrpw), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Chasing After You \(with Maren Morris\)](https://open.spotify.com/album/5QUwCi1lbk0kZ5k87fRNbK) | 3:27 | 2021-12-17 |  |
@@ -220,7 +221,7 @@
 | [Somebody Will \- Acoustic](https://open.spotify.com/track/2QtOfeHiZpoHfYUCpMaMim) | [Christina Taylor](https://open.spotify.com/artist/0ol2YEW9hEgLLF9UyDCB4d) | [Somebody Will \(Acoustic\)](https://open.spotify.com/album/58JPDqiqR0tQdoYr5jgrBt) | 3:19 | 2022-05-06 | 2022-07-18 |
 | [Something Sexy \(Stripped\)](https://open.spotify.com/track/7ahB6NaGsY42NEiLQEgLiw) | [Smithfield](https://open.spotify.com/artist/1aPmWgDU4JXEWg1d2BwH5M) | [Something Sexy \(Stripped\)](https://open.spotify.com/album/6tlU1uRC0bJBesIpAZakkv) | 3:12 | 2021-12-17 | 2022-07-29 |
 | [Something You Ain't Ever Had \- Acoustic](https://open.spotify.com/track/0WdkuR9ZwleXI1MZH37ZCP) | [Waterloo Revival](https://open.spotify.com/artist/3dYdcyW7mhZYVDDkNvkd0c) | [Something You Ain't Ever Had \(Acoustic\)](https://open.spotify.com/album/4p6gQvM1IU97W6vhWNdBkk) | 3:18 | 2021-12-17 | 2022-07-16 |
-| [Something's Gonna Kill Me \- Piano](https://open.spotify.com/track/4zUuhIVPfWkfSWMFIi7WKx) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc) | [Something's Gonna Kill Me \(Piano\)](https://open.spotify.com/album/1Ih4pEKPgOCvcLiVwijzwS) | 3:02 | 2023-09-29 |  |
+| [Something's Gonna Kill Me \- Piano](https://open.spotify.com/track/4zUuhIVPfWkfSWMFIi7WKx) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc) | [Something's Gonna Kill Me \(Piano\)](https://open.spotify.com/album/1Ih4pEKPgOCvcLiVwijzwS) | 3:02 | 2023-09-29 | 2024-10-05 |
 | [Son Of A \(Acoustic\)](https://open.spotify.com/track/6dUVnXkXzVlv9UfxRoJtYN) | [Dillon Carmichael](https://open.spotify.com/artist/3lvYE3o75PNjyvcKuBPXo6) | [Son Of A \(Acoustic\)](https://open.spotify.com/album/3DfnUMdSb5KMIpsJE7BQb3) | 3:16 | 2022-01-28 |  |
 | [St\. Louis](https://open.spotify.com/track/1sJ3GTTKEThu9LuQ2gUWku) | [David Nail](https://open.spotify.com/artist/4DZGvSv2oMkBUnPz67E6z6) | [St\. Louis](https://open.spotify.com/album/5e0JbK04Ky16eiEkULAN7n) | 4:34 | 2021-12-17 | 2023-11-23 |
 | [St\. Louis](https://open.spotify.com/track/3J8QHat7k7nfLwjjece9Ux) | [David Nail](https://open.spotify.com/artist/4DZGvSv2oMkBUnPz67E6z6) | [St\. Louis](https://open.spotify.com/album/11jsnuDKgMn6IjelspL30z) | 4:34 | 2023-12-01 | 2024-04-19 |

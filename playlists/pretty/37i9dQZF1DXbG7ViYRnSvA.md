@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbG7ViYRnSvA.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/officialcoodieandchike/">Coodie & Chike</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,011 likes - 50 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,023 likes - 50 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbG7ViYRnSvA.md) - [plain]
 | 38 | [What Do You Say \(Move It Baby\)](https://open.spotify.com/track/7tHvaEgvR0O5q1WKZtBrKF) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc), [PJ](https://open.spotify.com/artist/4O36cq71Cq7NazopFLBMmb) | [A Beautiful Revolution Pt\. 1 & 2](https://open.spotify.com/album/1HhGNkLtbqBKJH9lISKQPH) | 4:02 |
 | 39 | [Blackboard Jungle Dub \- Version 1](https://open.spotify.com/track/5AWkPGkHD15Yo9IAbliWc9) | [Lee "Scratch" Perry](https://open.spotify.com/artist/1TsG4AumsMt1Tcq2nHpov9) | [Scratch Attack!](https://open.spotify.com/album/4NhRUpUb0d6hh4T8h5peMk) | 4:38 |
 | 40 | [Safe to Say](https://open.spotify.com/track/4Q9EQ3IOxSDbXyKWXGVPcF) | [Tree](https://open.spotify.com/artist/5ABlNXUNKppEgicfzWsaSQ) | [Sunday School II : When Church Lets Out](https://open.spotify.com/album/37RWnHRT1VjCvTqZsLpISj) | 3:36 |
-| 41 | [Finding Home in Rwanda](https://open.spotify.com/track/3B8VmjKKdmkT2XByRT6Kq4) | [J\. Ivy](https://open.spotify.com/artist/0hKpvarswO34Ks5iPNmEXn), [Munyakazi Deo](https://open.spotify.com/artist/7wndHqMTZ3IVrMpR0WKcMD), [1key](https://open.spotify.com/artist/2OnqtAUmwkWba2VqkfnFKt) | [Catching Dreams](https://open.spotify.com/album/6k2MHYTdkGM5Mgmo0dwDtu) | 6:14 |
+| 41 | [Your Time](https://open.spotify.com/track/0FhQccfJxOwixsoqiJo2oz) | [J\. Ivy](https://open.spotify.com/artist/0hKpvarswO34Ks5iPNmEXn) | [Catching Dreams](https://open.spotify.com/album/6k2MHYTdkGM5Mgmo0dwDtu) | 0:48 |
 | 42 | [Just Chill](https://open.spotify.com/track/4kPslnT97Uo6YdNpFcnrk4) | [Project Mayhem](https://open.spotify.com/artist/10ZHewiVCPZxwb4bewgKPl) | [The Mayhem Machine](https://open.spotify.com/album/35EJ8kPWBRUpQH7gKSkSSK) | 4:17 |
 | 43 | [Nakamarra \(feat\. Q\-Tip\)](https://open.spotify.com/track/12v5GBM74fB8WsHJPQRTIe) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y), [Q\-Tip](https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU) | [Tawk Tomahawk](https://open.spotify.com/album/54UDcBALhfyaQ67fsSZrkQ) | 4:35 |
 | 44 | [I Want You Around](https://open.spotify.com/track/2VqKx3HH8gaZPabNWYvksy) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [\- Ugh, those feels again](https://open.spotify.com/album/42wtqDcTQlJJbUzAPBSwaK) | 3:32 |

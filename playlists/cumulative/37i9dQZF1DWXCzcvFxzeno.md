@@ -4,7 +4,7 @@
 
 > 😈 welcome to the rave 😈  Cover: Sara Landry
 
-176 songs - 14 hr 11 min
+177 songs - 14 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,7 +114,7 @@
 | [Never Enough](https://open.spotify.com/track/0g1UEsa2bqif2D0hlmxUfI) | [XRTN](https://open.spotify.com/artist/5oXWx1ZjiyWTt4fhjUQgKR) | [Never Enough](https://open.spotify.com/album/301BTyjA0xlkTu8gDm3ToF) | 5:27 | 2024-04-09 |  |
 | [Never Let Me Down](https://open.spotify.com/track/38MD66rssmeYXu3xwB36k5) | [Vlinder Vos](https://open.spotify.com/artist/0dTdgnb11wkxjzXv9JdXdi), [∏EVER](https://open.spotify.com/artist/7hxEgJocKQ6HDMlpDYXPYf) | [Never Let Me Down](https://open.spotify.com/album/4OE2XbdrJb9q9cUflbOSv2) | 3:01 | 2024-05-03 | 2024-06-22 |
 | [Next Level](https://open.spotify.com/track/0OZcUuoM0InrwuH3UJoFoz) | [Holy Priest](https://open.spotify.com/artist/5UG2ipdnA4vk8Eevkf1s06) | [Next Level](https://open.spotify.com/album/4pSZsF6n4r1O1i3NTtPHBN) | 2:00 | 2024-08-31 |  |
-| [Obey](https://open.spotify.com/track/0cwMgUiZ3AMIbSBdWKUGmR) | [Marie Vaunt](https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5) | [Obey](https://open.spotify.com/album/6mjQBhpD1wm0s3G9oqg0TZ) | 3:39 | 2024-06-28 |  |
+| [Obey](https://open.spotify.com/track/0cwMgUiZ3AMIbSBdWKUGmR) | [Marie Vaunt](https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5) | [Obey](https://open.spotify.com/album/6mjQBhpD1wm0s3G9oqg0TZ) | 3:39 | 2024-06-28 | 2024-10-05 |
 | [Ode To The Bouncer \- Hard Techno Edit](https://open.spotify.com/track/0x3c6okTJMGsYmTYtz8NDA) | [Remon Verhoeve](https://open.spotify.com/artist/56EmpRe6MZOCu8NYE0BG9T), [Studio Killers](https://open.spotify.com/artist/7avo0PmlW8O1YLEt9DnWQT) | [Ode To The Bouncer \(Hard Techno Edit\)](https://open.spotify.com/album/3rU4QBfwX89HyLrfNk1wWF) | 3:17 | 2024-08-05 |  |
 | [Oh My God!](https://open.spotify.com/track/3irLlLh1uTben95eKdEALc) | [Luca Agnelli](https://open.spotify.com/artist/4gF60Mys5KoWdQrf0bhRWq) | [Oh My God!](https://open.spotify.com/album/67SRi5JCLpYvM9GaKDsFWS) | 6:07 | 2024-05-02 |  |
 | [On Da Beat](https://open.spotify.com/track/1BxspcCWrxFVu3HJ4SDAnn) | [OMAKS](https://open.spotify.com/artist/41GRjz5PGO2O66R6aHLVhm), [Dissonne](https://open.spotify.com/artist/6vgIOdboTHh9hQ5P1iza14) | [On Da Beat](https://open.spotify.com/album/2PJf1l8rN5AP4MXDi5VTDu) | 5:06 | 2024-05-22 |  |
@@ -142,6 +142,7 @@
 | [Save Me \- RiVid Remix](https://open.spotify.com/track/4GILYMfBnLHYdOIZZ0C5dX) | [Frankyeffe](https://open.spotify.com/artist/1YeRLPqVEJIpa6jstdiD0O), [RiVid](https://open.spotify.com/artist/5XqhayYhh6DsTzBUMnTvnp) | [Save Me \(Remixes\)](https://open.spotify.com/album/06z8t1UoQWyLymmKW5JrX3) | 4:51 | 2024-04-09 |  |
 | [Sciophobia](https://open.spotify.com/track/0dhK1evthUOmcbXHZ783j6) | [DDRCK](https://open.spotify.com/artist/31Ovy6zggvwVys7H4pfauU), [CDRC](https://open.spotify.com/artist/5zt6G9G28RL3JmkiUiNZCY) | [Sciophobia](https://open.spotify.com/album/3mB37O4ILbfEqwAn8HbE1H) | 4:38 | 2024-04-09 |  |
 | [Shadow Man](https://open.spotify.com/track/1HQ4pTykHMsV0KLJt0eJIk) | [ARENCI](https://open.spotify.com/artist/6flaiu7aIHXBsmy6ntI6PQ), [Karashnikov](https://open.spotify.com/artist/0H6wjgFfHI7vf5SaX2T14n), [GEWOONRAVES](https://open.spotify.com/artist/2DyAvufHza4om6Vgqlt0v8) | [Shadow Man](https://open.spotify.com/album/78bCe5Ms70ueQhdt3H1V1U) | 5:00 | 2024-04-09 | 2024-05-23 |
+| [SHOUT IT](https://open.spotify.com/track/08TB2KbFxrzU6XBbg2D2al) | [Bunker](https://open.spotify.com/artist/3Ak4Weuk8uhYAXbTe5RNy5), [GEWOONRAVES](https://open.spotify.com/artist/2DyAvufHza4om6Vgqlt0v8), [Zentryc](https://open.spotify.com/artist/1C0qYaeK3MtaDfOWbOnme7) | [SHOUT IT](https://open.spotify.com/album/1n4rIAcLbuGnCsejoHIHsx) | 2:45 | 2024-10-04 |  |
 | [Silence Is Oppression](https://open.spotify.com/track/5ggRtRm7mLxjTekV0KWbdO) | [ØTTA](https://open.spotify.com/artist/13Mv9xsTvpgUxCdth9MWnG) | [Various Artists \- EP 5](https://open.spotify.com/album/3Au8eyQxvtvbxPwZlJ3Al8) | 5:54 | 2024-04-09 |  |
 | [So Alive \(VIP\)](https://open.spotify.com/track/4ujGSBsaRjYUybB1dMX0MK) | [GRAVEDGR](https://open.spotify.com/artist/1kiZfWU37oS0pCOV7Os1Pj), [OGUZ](https://open.spotify.com/artist/2n6aFLFLpEBs61Kfy5EX5v), [ANGEL CANNON](https://open.spotify.com/artist/4Ybj0IqmuPWSp023XnJpCD) | [So Alive \(VIP\)](https://open.spotify.com/album/3vRNWYLHxZf8QgVa0eWspB) | 4:13 | 2024-04-09 |  |
 | [Space Train](https://open.spotify.com/track/4eVXJrgK3AXU0IgujAgEjB) | [Kevin D'Angello](https://open.spotify.com/artist/5cg7ESNx1k1NLAkdx78P9y), [Kevin D](https://open.spotify.com/artist/7IwSYMdY2qHT0H6tIGH6l3) | [Space Train](https://open.spotify.com/album/6jFLFLzf3ILnZ1hUF4wGpn) | 2:26 | 2024-04-09 | 2024-06-01 |

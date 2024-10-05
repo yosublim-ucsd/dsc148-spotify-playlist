@@ -4,7 +4,7 @@
 
 > Tune into the finest of Tamil Indie music!<br/>Cover : Sai Abhyankkar
 
-574 songs - 1 day 9 hr 57 min
+575 songs - 1 day 9 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,6 +123,7 @@
 | [Ennai Kollathey](https://open.spotify.com/track/6dkle402E8KU8tSaW7XlTJ) | [Deedar Kaur](https://open.spotify.com/artist/27XlBHWHNZPLkOU1IdAq6q), [Krsna Solo](https://open.spotify.com/artist/1fn1zda146dVI8wNdqi9l6) | [Ennai Kollathey](https://open.spotify.com/album/534zW5I7ia21ulaxDDnNBe) | 2:54 | 2024-08-30 |  |
 | [Ennasai Kaadhaliye](https://open.spotify.com/track/6M9MebuHb3t1N0AgQcGy86) | [Najim Arshad](https://open.spotify.com/artist/4v0D49goEdstHHCMMlbpt1) | [Ennasai Kaadhaliye](https://open.spotify.com/album/3kVBl5qhASlKbXftyDTslf) | 4:11 | 2024-06-14 | 2024-08-13 |
 | [Ennodu Nee Illaye](https://open.spotify.com/track/3zmijrUjdZTZCFKnMkETnw) | [Sanathan Shree Krishnan](https://open.spotify.com/artist/0FkY0miVokq6NnCKVg2Gko) | [Ennodu Nee Illaye](https://open.spotify.com/album/4QJCCKykaWGgmnlVk4qiHd) | 3:05 | 2022-12-02 | 2023-03-18 |
+| [Ezhundu Po](https://open.spotify.com/track/5eWnc4VwFsZV7ITr1d86yz) | [A J Alimirzaq](https://open.spotify.com/artist/5PxF7BJYagnxw4u55WFmpZ), [Madhan Karky](https://open.spotify.com/artist/0MC4IRJmruzbwPInw7vmL7), [Padmalatha](https://open.spotify.com/artist/7xgN0GCVgPxHiU8p8PIYfk) | [Ezhundu Po](https://open.spotify.com/album/644H0OppWK9lIEHCxoqECd) | 2:06 | 2024-10-04 |  |
 | [Falling in Love](https://open.spotify.com/track/5ojSfxtUyEaEBqJOHICOfo) | [Hiphop Tamizha](https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q), [MC DEVESH](https://open.spotify.com/artist/3eelw9NJgb9Gx5X80SHhiT) | [UNO](https://open.spotify.com/album/5jCWwNIkjqZAw1jocQt0sA) | 3:37 | 2024-04-29 |  |
 | [Flow la Povom](https://open.spotify.com/track/7eLPUz0OoBkfywudbcNJMY) | [Vetti Payan Venkat](https://open.spotify.com/artist/6ZeZplJoeBHwk1MwpIj18e), [Santhosh Arumugam](https://open.spotify.com/artist/3arPP9VYEaY6BV2Ekw3McO) | [Flow la Povom](https://open.spotify.com/album/4A2ejRsabVIsL9HnQUIkpL) | 3:56 | 2022-11-07 | 2023-03-09 |
 | [Flowla Povom \(Rerelease\)](https://open.spotify.com/track/1W7bqk1ugI4pAf86WwQ1Na) | [Vetti Payan Venkat](https://open.spotify.com/artist/6ZeZplJoeBHwk1MwpIj18e), [Santhosh Arumugam](https://open.spotify.com/artist/3arPP9VYEaY6BV2Ekw3McO) | [Flowla Povom \(Rerelease\)](https://open.spotify.com/album/4x7j4qp4Fwu7uAFyOwAxWc) | 3:56 | 2024-05-31 |  |

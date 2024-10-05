@@ -1,6 +1,6 @@
 {
   "description": "Keep calm with this mix of laidback, acoustic tracks.",
-  "num_followers": 2291246,
+  "num_followers": 2291232,
   "original_name": "Acoustic Chill",
   "owner": {
     "name": "Spotify",
@@ -519,6 +519,22 @@
     {
       "added_at": "2024-07-05 22:48:35",
       "album": {
+        "name": "America",
+        "url": "https://open.spotify.com/album/1LbsN7ZwjjnafolKPbnDZK"
+      },
+      "artists": [
+        {
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+        }
+      ],
+      "duration_ms": 218240,
+      "name": "America",
+      "url": "https://open.spotify.com/track/228IDYsx1EAHiuh9xLktmj"
+    },
+    {
+      "added_at": "2024-07-05 22:48:35",
+      "album": {
         "name": "A Pillar of Salt",
         "url": "https://open.spotify.com/album/6hlXrXeAAxPOZ4y5lonxiQ"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 319053,
       "name": "Atlantis",
       "url": "https://open.spotify.com/track/4Lp2SmcFyyMiWzfsDV2Qzh"
-    },
-    {
-      "added_at": "2024-07-05 22:48:35",
-      "album": {
-        "name": "America",
-        "url": "https://open.spotify.com/album/1LbsN7ZwjjnafolKPbnDZK"
-      },
-      "artists": [
-        {
-          "name": "First Aid Kit",
-          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
-        }
-      ],
-      "duration_ms": 218240,
-      "name": "America",
-      "url": "https://open.spotify.com/track/228IDYsx1EAHiuh9xLktmj"
     },
     {
       "added_at": "2024-07-05 22:48:35",
@@ -807,22 +807,6 @@
     {
       "added_at": "2024-07-05 22:48:35",
       "album": {
-        "name": "Sofia",
-        "url": "https://open.spotify.com/album/6GjxHAGO2uqKYVZouQiXDa"
-      },
-      "artists": [
-        {
-          "name": "Alexa Popov",
-          "url": "https://open.spotify.com/artist/0qVJFO1tdBqdhHfwcBoHfE"
-        }
-      ],
-      "duration_ms": 138336,
-      "name": "Spring has sprung",
-      "url": "https://open.spotify.com/track/3wsMlLVsaUa2hlUmXAZgzg"
-    },
-    {
-      "added_at": "2024-07-05 22:48:35",
-      "album": {
         "name": "Golden (Acoustic)",
         "url": "https://open.spotify.com/album/1UNOe4qTfiSoUNVtFKQ5br"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 307312,
       "name": "Golden (Acoustic)",
       "url": "https://open.spotify.com/track/3tsrOkDmaJg60XJMkEmYpp"
+    },
+    {
+      "added_at": "2024-07-05 22:48:35",
+      "album": {
+        "name": "Sofia",
+        "url": "https://open.spotify.com/album/6GjxHAGO2uqKYVZouQiXDa"
+      },
+      "artists": [
+        {
+          "name": "Alexa Popov",
+          "url": "https://open.spotify.com/artist/0qVJFO1tdBqdhHfwcBoHfE"
+        }
+      ],
+      "duration_ms": 138336,
+      "name": "Spring has sprung",
+      "url": "https://open.spotify.com/track/3wsMlLVsaUa2hlUmXAZgzg"
     },
     {
       "added_at": "2024-07-05 22:48:35",
@@ -887,22 +887,6 @@
     {
       "added_at": "2024-07-05 22:48:35",
       "album": {
-        "name": "Shore",
-        "url": "https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3"
-      },
-      "artists": [
-        {
-          "name": "Fleet Foxes",
-          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
-        }
-      ],
-      "duration_ms": 230813,
-      "name": "Featherweight",
-      "url": "https://open.spotify.com/track/3ir3Eoj0pi0vlhqunNSyK3"
-    },
-    {
-      "added_at": "2024-07-05 22:48:35",
-      "album": {
         "name": "Dual",
         "url": "https://open.spotify.com/album/4vCwbb8M7HVTPGrDGsTYh4"
       },
@@ -919,18 +903,18 @@
     {
       "added_at": "2024-07-05 22:48:35",
       "album": {
-        "name": "An Alien in Minneapolis",
-        "url": "https://open.spotify.com/album/0v6BWLBbaTRtVIC2d09Jmk"
+        "name": "Shore",
+        "url": "https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3"
       },
       "artists": [
         {
-          "name": "Ondara",
-          "url": "https://open.spotify.com/artist/33saQZHi434TBuDAXbyU2W"
+          "name": "Fleet Foxes",
+          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
         }
       ],
-      "duration_ms": 259607,
-      "name": "An Alien In Minneapolis - Edit",
-      "url": "https://open.spotify.com/track/5YhOK0XMfjtW5L42FODqzK"
+      "duration_ms": 230813,
+      "name": "Featherweight",
+      "url": "https://open.spotify.com/track/3ir3Eoj0pi0vlhqunNSyK3"
     },
     {
       "added_at": "2024-07-05 22:48:35",
@@ -947,6 +931,22 @@
       "duration_ms": 300277,
       "name": "The Meetings of the Waters",
       "url": "https://open.spotify.com/track/3wQXP3617fqclHgzA7dONN"
+    },
+    {
+      "added_at": "2024-07-05 22:48:35",
+      "album": {
+        "name": "An Alien in Minneapolis",
+        "url": "https://open.spotify.com/album/0v6BWLBbaTRtVIC2d09Jmk"
+      },
+      "artists": [
+        {
+          "name": "Ondara",
+          "url": "https://open.spotify.com/artist/33saQZHi434TBuDAXbyU2W"
+        }
+      ],
+      "duration_ms": 259607,
+      "name": "An Alien In Minneapolis - Edit",
+      "url": "https://open.spotify.com/track/5YhOK0XMfjtW5L42FODqzK"
     },
     {
       "added_at": "2024-07-05 22:48:35",
@@ -983,22 +983,6 @@
     {
       "added_at": "2024-07-05 22:48:35",
       "album": {
-        "name": "Evening Machines",
-        "url": "https://open.spotify.com/album/5K7PZiOlAn8sxxhh0QTFuJ"
-      },
-      "artists": [
-        {
-          "name": "Gregory Alan Isakov",
-          "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
-        }
-      ],
-      "duration_ms": 272346,
-      "name": "San Luis",
-      "url": "https://open.spotify.com/track/7gDNQLV9cr8449LFrQbk5J"
-    },
-    {
-      "added_at": "2024-07-05 22:48:35",
-      "album": {
         "name": "Purple Haze",
         "url": "https://open.spotify.com/album/6bGTNWW6F8AMqNhBrGjJgm"
       },
@@ -1011,22 +995,6 @@
       "duration_ms": 205395,
       "name": "Purple Haze",
       "url": "https://open.spotify.com/track/1ZygZX3pyRyGxANo6WrSV0"
-    },
-    {
-      "added_at": "2024-07-05 22:48:35",
-      "album": {
-        "name": "Apple Tree Blues",
-        "url": "https://open.spotify.com/album/1ZQ8wxEdBN5cnZeK0JZ66g"
-      },
-      "artists": [
-        {
-          "name": "Caamp",
-          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
-        }
-      ],
-      "duration_ms": 212680,
-      "name": "Apple Tree Blues",
-      "url": "https://open.spotify.com/track/62lLZOUN0AmYBaw6es63l5"
     },
     {
       "added_at": "2024-07-05 22:48:35",
@@ -1047,6 +1015,22 @@
     {
       "added_at": "2024-07-05 22:48:35",
       "album": {
+        "name": "Apple Tree Blues",
+        "url": "https://open.spotify.com/album/1ZQ8wxEdBN5cnZeK0JZ66g"
+      },
+      "artists": [
+        {
+          "name": "Caamp",
+          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
+        }
+      ],
+      "duration_ms": 212680,
+      "name": "Apple Tree Blues",
+      "url": "https://open.spotify.com/track/62lLZOUN0AmYBaw6es63l5"
+    },
+    {
+      "added_at": "2024-07-05 22:48:35",
+      "album": {
         "name": "Meet The Moonlight",
         "url": "https://open.spotify.com/album/6A5YfsWJbtLqFenuOQCsDG"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 305607,
       "name": "Meet The Moonlight",
       "url": "https://open.spotify.com/track/6M70kLblnAfCQ9uj8BdcUR"
+    },
+    {
+      "added_at": "2024-07-05 22:48:35",
+      "album": {
+        "name": "Evening Machines",
+        "url": "https://open.spotify.com/album/5K7PZiOlAn8sxxhh0QTFuJ"
+      },
+      "artists": [
+        {
+          "name": "Gregory Alan Isakov",
+          "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
+        }
+      ],
+      "duration_ms": 272346,
+      "name": "San Luis",
+      "url": "https://open.spotify.com/track/7gDNQLV9cr8449LFrQbk5J"
     },
     {
       "added_at": "2024-07-05 22:48:35",
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2024-07-05 22:48:35",
       "album": {
+        "name": "If I Didn\u2019t Love You",
+        "url": "https://open.spotify.com/album/3dS67NuXz81GhplmI45iEG"
+      },
+      "artists": [
+        {
+          "name": "Ben Abraham",
+          "url": "https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI"
+        }
+      ],
+      "duration_ms": 246350,
+      "name": "If I Didn\u2019t Love You",
+      "url": "https://open.spotify.com/track/2Zy7SjGT12yzvFohfAKWDq"
+    },
+    {
+      "added_at": "2024-07-05 22:48:35",
+      "album": {
         "name": "Gold",
         "url": "https://open.spotify.com/album/7fxmI2X1OBF3v3rBbrcbyd"
       },
@@ -1095,22 +1111,6 @@
       "duration_ms": 211000,
       "name": "Gold",
       "url": "https://open.spotify.com/track/71u5Z6SNQR4d5SEm1gr9Md"
-    },
-    {
-      "added_at": "2024-07-05 22:48:35",
-      "album": {
-        "name": "If I Didn\u2019t Love You",
-        "url": "https://open.spotify.com/album/3dS67NuXz81GhplmI45iEG"
-      },
-      "artists": [
-        {
-          "name": "Ben Abraham",
-          "url": "https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI"
-        }
-      ],
-      "duration_ms": 246350,
-      "name": "If I Didn\u2019t Love You",
-      "url": "https://open.spotify.com/track/2Zy7SjGT12yzvFohfAKWDq"
     },
     {
       "added_at": "2024-07-05 22:48:35",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2024-07-05 22:48:35",
       "album": {
-        "name": "Thinking About You",
-        "url": "https://open.spotify.com/album/6Av9V14GQ4dIqQj9QLBhec"
-      },
-      "artists": [
-        {
-          "name": "Beck",
-          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
-        }
-      ],
-      "duration_ms": 217463,
-      "name": "Thinking About You",
-      "url": "https://open.spotify.com/track/5gTCp2dIRTLgJ8ZZllw0bR"
-    },
-    {
-      "added_at": "2024-07-05 22:48:35",
-      "album": {
         "name": "Signs of Life",
         "url": "https://open.spotify.com/album/4MOkPB90s3AsnbjNmGJ5x2"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 233026,
       "name": "System",
       "url": "https://open.spotify.com/track/15mRJR5eMKMtV3e5fU2aDE"
+    },
+    {
+      "added_at": "2024-07-05 22:48:35",
+      "album": {
+        "name": "Thinking About You",
+        "url": "https://open.spotify.com/album/6Av9V14GQ4dIqQj9QLBhec"
+      },
+      "artists": [
+        {
+          "name": "Beck",
+          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+        }
+      ],
+      "duration_ms": 217463,
+      "name": "Thinking About You",
+      "url": "https://open.spotify.com/track/5gTCp2dIRTLgJ8ZZllw0bR"
     },
     {
       "added_at": "2024-07-05 22:48:35",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2024-07-05 22:48:35",
       "album": {
-        "name": "More",
-        "url": "https://open.spotify.com/album/7GUGks0NaGRWCGp5ARyGdQ"
-      },
-      "artists": [
-        {
-          "name": "Gatton",
-          "url": "https://open.spotify.com/artist/09wV1iFg4DBtreMGzepTaE"
-        }
-      ],
-      "duration_ms": 222567,
-      "name": "More",
-      "url": "https://open.spotify.com/track/1UX01mLr9tdZoOatFpo1t0"
-    },
-    {
-      "added_at": "2024-07-05 22:48:35",
-      "album": {
         "name": "Rolling On",
         "url": "https://open.spotify.com/album/0LXGdiWrkYMuLxfRbGW4FX"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 176748,
       "name": "Rolling On",
       "url": "https://open.spotify.com/track/5QZHOS6ipp8liMXtvzIscD"
+    },
+    {
+      "added_at": "2024-07-05 22:48:35",
+      "album": {
+        "name": "More",
+        "url": "https://open.spotify.com/album/7GUGks0NaGRWCGp5ARyGdQ"
+      },
+      "artists": [
+        {
+          "name": "Gatton",
+          "url": "https://open.spotify.com/artist/09wV1iFg4DBtreMGzepTaE"
+        }
+      ],
+      "duration_ms": 222567,
+      "name": "More",
+      "url": "https://open.spotify.com/track/1UX01mLr9tdZoOatFpo1t0"
     },
     {
       "added_at": "2024-07-05 22:48:35",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2024-07-05 22:48:35",
       "album": {
-        "name": "New Order T-Shirt",
-        "url": "https://open.spotify.com/album/2r3ZTexCYXDSGmTbcNyqmw"
-      },
-      "artists": [
-        {
-          "name": "The National",
-          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
-        }
-      ],
-      "duration_ms": 296000,
-      "name": "New Order T-Shirt",
-      "url": "https://open.spotify.com/track/6bVQ9ygrzZj9B7Z5hLB1bk"
-    },
-    {
-      "added_at": "2024-07-05 22:48:35",
-      "album": {
         "name": "Cool Girl",
         "url": "https://open.spotify.com/album/0TCc51KQYlnJ6WuFOgN6hI"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 199384,
       "name": "Cool Girl",
       "url": "https://open.spotify.com/track/0FSOenCj42lbikl1vd5ah9"
+    },
+    {
+      "added_at": "2024-07-05 22:48:35",
+      "album": {
+        "name": "New Order T-Shirt",
+        "url": "https://open.spotify.com/album/2r3ZTexCYXDSGmTbcNyqmw"
+      },
+      "artists": [
+        {
+          "name": "The National",
+          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
+        }
+      ],
+      "duration_ms": 296000,
+      "name": "New Order T-Shirt",
+      "url": "https://open.spotify.com/track/6bVQ9ygrzZj9B7Z5hLB1bk"
     },
     {
       "added_at": "2024-07-05 22:48:35",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2024-07-05 22:48:35",
       "album": {
-        "name": "Until You",
-        "url": "https://open.spotify.com/album/03MCMaTPo8CiVxwcCvgyem"
-      },
-      "artists": [
-        {
-          "name": "AHI",
-          "url": "https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH"
-        }
-      ],
-      "duration_ms": 198653,
-      "name": "Until You",
-      "url": "https://open.spotify.com/track/7iH6cflAGYwR82sNMZiGuq"
-    },
-    {
-      "added_at": "2024-07-05 22:48:35",
-      "album": {
         "name": "Palindrome Hunches",
         "url": "https://open.spotify.com/album/6nWn2IqFMPLfo5fEi42XOe"
       },
@@ -1583,22 +1567,18 @@
     {
       "added_at": "2024-07-05 22:48:35",
       "album": {
-        "name": "The Spirit Moves",
-        "url": "https://open.spotify.com/album/77UiJMD9OVYj2YXr2gO9L5"
+        "name": "Until You",
+        "url": "https://open.spotify.com/album/03MCMaTPo8CiVxwcCvgyem"
       },
       "artists": [
         {
-          "name": "Langhorne Slim",
-          "url": "https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy"
-        },
-        {
-          "name": "The Law",
-          "url": "https://open.spotify.com/artist/6DK3E5dh7jJrKyAHfucWBB"
+          "name": "AHI",
+          "url": "https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH"
         }
       ],
-      "duration_ms": 161906,
-      "name": "Changes",
-      "url": "https://open.spotify.com/track/0gKiONJeEtwb3hps4sUgyn"
+      "duration_ms": 198653,
+      "name": "Until You",
+      "url": "https://open.spotify.com/track/7iH6cflAGYwR82sNMZiGuq"
     },
     {
       "added_at": "2024-07-05 22:48:35",
@@ -1619,18 +1599,22 @@
     {
       "added_at": "2024-07-05 22:48:35",
       "album": {
-        "name": "Bashed Out",
-        "url": "https://open.spotify.com/album/7DbfCArRXJvf4cgKWPUHIv"
+        "name": "The Spirit Moves",
+        "url": "https://open.spotify.com/album/77UiJMD9OVYj2YXr2gO9L5"
       },
       "artists": [
         {
-          "name": "This Is The Kit",
-          "url": "https://open.spotify.com/artist/0ZUyFEafMwocvApBjTXvdo"
+          "name": "Langhorne Slim",
+          "url": "https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy"
+        },
+        {
+          "name": "The Law",
+          "url": "https://open.spotify.com/artist/6DK3E5dh7jJrKyAHfucWBB"
         }
       ],
-      "duration_ms": 221120,
-      "name": "Bashed Out",
-      "url": "https://open.spotify.com/track/1chmZUBdfxoLWN1LCZ6HLO"
+      "duration_ms": 161906,
+      "name": "Changes",
+      "url": "https://open.spotify.com/track/0gKiONJeEtwb3hps4sUgyn"
     },
     {
       "added_at": "2024-07-05 22:48:35",
@@ -1647,6 +1631,22 @@
       "duration_ms": 218160,
       "name": "Sweetpie",
       "url": "https://open.spotify.com/track/1jhyCkUOc475Tb6BhT2AO0"
+    },
+    {
+      "added_at": "2024-07-05 22:48:35",
+      "album": {
+        "name": "Bashed Out",
+        "url": "https://open.spotify.com/album/7DbfCArRXJvf4cgKWPUHIv"
+      },
+      "artists": [
+        {
+          "name": "This Is The Kit",
+          "url": "https://open.spotify.com/artist/0ZUyFEafMwocvApBjTXvdo"
+        }
+      ],
+      "duration_ms": 221120,
+      "name": "Bashed Out",
+      "url": "https://open.spotify.com/track/1chmZUBdfxoLWN1LCZ6HLO"
     },
     {
       "added_at": "2024-07-05 22:48:35",
@@ -1683,26 +1683,6 @@
     {
       "added_at": "2024-07-05 22:48:35",
       "album": {
-        "name": "IOWA",
-        "url": "https://open.spotify.com/album/4jLnoqNXzY7DquELf6mz46"
-      },
-      "artists": [
-        {
-          "name": "Donovan Woods",
-          "url": "https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti"
-        },
-        {
-          "name": "Aoife O'Donovan",
-          "url": "https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa"
-        }
-      ],
-      "duration_ms": 275170,
-      "name": "IOWA",
-      "url": "https://open.spotify.com/track/3c9srkZXPYH5969NYxVXZS"
-    },
-    {
-      "added_at": "2024-07-05 22:48:35",
-      "album": {
         "name": "Neon",
         "url": "https://open.spotify.com/album/0vOvZxXtpGfj8lguolWtcZ"
       },
@@ -1731,6 +1711,26 @@
       "duration_ms": 265973,
       "name": "It Wasn't Enough",
       "url": "https://open.spotify.com/track/2RbS3JyHde84ytV36H884Q"
+    },
+    {
+      "added_at": "2024-07-05 22:48:35",
+      "album": {
+        "name": "IOWA",
+        "url": "https://open.spotify.com/album/4jLnoqNXzY7DquELf6mz46"
+      },
+      "artists": [
+        {
+          "name": "Donovan Woods",
+          "url": "https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti"
+        },
+        {
+          "name": "Aoife O'Donovan",
+          "url": "https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa"
+        }
+      ],
+      "duration_ms": 275170,
+      "name": "IOWA",
+      "url": "https://open.spotify.com/track/3c9srkZXPYH5969NYxVXZS"
     },
     {
       "added_at": "2024-07-05 22:48:35",
@@ -1799,6 +1799,22 @@
     {
       "added_at": "2024-07-05 22:48:35",
       "album": {
+        "name": "Wary + Strange",
+        "url": "https://open.spotify.com/album/75g27i85SR6XYAXKRRfOda"
+      },
+      "artists": [
+        {
+          "name": "Amythyst Kiah",
+          "url": "https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl"
+        }
+      ],
+      "duration_ms": 272080,
+      "name": "Wild Turkey",
+      "url": "https://open.spotify.com/track/2U2zfWWmmrdm3rld8CVwIZ"
+    },
+    {
+      "added_at": "2024-07-05 22:48:35",
+      "album": {
         "name": "I Hope It Takes You Higher (Acoustic)",
         "url": "https://open.spotify.com/album/6NmGBBMgSEzqXprwqAIGad"
       },
@@ -1815,22 +1831,6 @@
       "duration_ms": 220864,
       "name": "I Hope It Takes You Higher - Acoustic",
       "url": "https://open.spotify.com/track/71aHrUacV9bMtm1qCqJuwZ"
-    },
-    {
-      "added_at": "2024-07-05 22:48:35",
-      "album": {
-        "name": "Wary + Strange",
-        "url": "https://open.spotify.com/album/75g27i85SR6XYAXKRRfOda"
-      },
-      "artists": [
-        {
-          "name": "Amythyst Kiah",
-          "url": "https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl"
-        }
-      ],
-      "duration_ms": 272080,
-      "name": "Wild Turkey",
-      "url": "https://open.spotify.com/track/2U2zfWWmmrdm3rld8CVwIZ"
     },
     {
       "added_at": "2024-07-05 22:48:35",
@@ -1907,22 +1907,6 @@
     {
       "added_at": "2024-07-05 22:48:35",
       "album": {
-        "name": "The Doubles",
-        "url": "https://open.spotify.com/album/1qGM9zumfbz1UjQ1DQO83V"
-      },
-      "artists": [
-        {
-          "name": "Matt the Electrician",
-          "url": "https://open.spotify.com/artist/4OqDaxbU5qV78AIr6HneTn"
-        }
-      ],
-      "duration_ms": 264866,
-      "name": "The Bear (Trio)",
-      "url": "https://open.spotify.com/track/3IMVnJdSxf273uAT13oWVV"
-    },
-    {
-      "added_at": "2024-07-05 22:48:35",
-      "album": {
         "name": "Day Plan",
         "url": "https://open.spotify.com/album/5pgIguDeta2y82ccJTWK3w"
       },
@@ -1935,6 +1919,22 @@
       "duration_ms": 226033,
       "name": "Day Plan",
       "url": "https://open.spotify.com/track/0erC8baMqhTGIHIGjvrxXD"
+    },
+    {
+      "added_at": "2024-07-05 22:48:35",
+      "album": {
+        "name": "The Doubles",
+        "url": "https://open.spotify.com/album/1qGM9zumfbz1UjQ1DQO83V"
+      },
+      "artists": [
+        {
+          "name": "Matt the Electrician",
+          "url": "https://open.spotify.com/artist/4OqDaxbU5qV78AIr6HneTn"
+        }
+      ],
+      "duration_ms": 264866,
+      "name": "The Bear (Trio)",
+      "url": "https://open.spotify.com/track/3IMVnJdSxf273uAT13oWVV"
     },
     {
       "added_at": "2024-07-05 22:48:35",
@@ -1963,22 +1963,6 @@
     {
       "added_at": "2024-07-05 22:48:35",
       "album": {
-        "name": "Cherie",
-        "url": "https://open.spotify.com/album/4Au5ndqAZDgpPJZUIWBslg"
-      },
-      "artists": [
-        {
-          "name": "Brandon",
-          "url": "https://open.spotify.com/artist/08HpiyWkp2Z7gFTkVae265"
-        }
-      ],
-      "duration_ms": 205536,
-      "name": "Cherie",
-      "url": "https://open.spotify.com/track/6vhrwbHQjl4klPXlPLnar4"
-    },
-    {
-      "added_at": "2024-07-05 22:48:35",
-      "album": {
         "name": "River",
         "url": "https://open.spotify.com/album/3mwl5ZDO95E4v1iJJkQhux"
       },
@@ -1991,6 +1975,22 @@
       "duration_ms": 243776,
       "name": "River",
       "url": "https://open.spotify.com/track/73VzzfuoQ6CxBQ9TtVhJKa"
+    },
+    {
+      "added_at": "2024-07-05 22:48:35",
+      "album": {
+        "name": "Cherie",
+        "url": "https://open.spotify.com/album/4Au5ndqAZDgpPJZUIWBslg"
+      },
+      "artists": [
+        {
+          "name": "Brandon",
+          "url": "https://open.spotify.com/artist/08HpiyWkp2Z7gFTkVae265"
+        }
+      ],
+      "duration_ms": 205536,
+      "name": "Cherie",
+      "url": "https://open.spotify.com/track/6vhrwbHQjl4klPXlPLnar4"
     },
     {
       "added_at": "2024-07-05 22:48:35",

@@ -2,9 +2,9 @@
 
 ### [soda](https://open.spotify.com/playlist/37i9dQZF1DXaK0O81Xtkis)
 
-> make it pop! cover: Moody Joody
+> make it pop! cover: Lindsay Ell
 
-1,142 songs - 2 day 8 hr 49 min
+1,148 songs - 2 day 9 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -212,7 +212,7 @@
 | [Concrete](https://open.spotify.com/track/0IX0wJhC4YKzQIluzeaIgY) | [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [Concrete](https://open.spotify.com/album/5u9QWNmLMfopDTmAPLLaRs) | 3:19 | 2024-08-30 |  |
 | [confessions](https://open.spotify.com/track/1qu6whtoKkt2q4KPX8Zvoa) | [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [age tape 12](https://open.spotify.com/album/0alLVuUOnDoOUpELioQNoF) | 3:12 | 2024-03-08 | 2024-04-27 |
 | [Congrats](https://open.spotify.com/track/3pJMOvec8R8OKzEmB9PRJD) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [Congrats](https://open.spotify.com/album/0URAkeg7psYrEr9Qj0KTIL) | 3:37 | 2022-08-26 | 2023-02-11 |
-| [Control](https://open.spotify.com/track/0pdoZhLBiQccQ4Lbd8yGzO) | [Nick Ward](https://open.spotify.com/artist/1JjlFdZ1LKxyQ8moqDOmS9) | [Control](https://open.spotify.com/album/55LPwJ8TYpTkKqFDgDRaOT) | 3:08 | 2024-08-23 |  |
+| [Control](https://open.spotify.com/track/0pdoZhLBiQccQ4Lbd8yGzO) | [Nick Ward](https://open.spotify.com/artist/1JjlFdZ1LKxyQ8moqDOmS9) | [Control](https://open.spotify.com/album/55LPwJ8TYpTkKqFDgDRaOT) | 3:08 | 2024-08-23 | 2024-10-05 |
 | [Cool Kids](https://open.spotify.com/track/13P5rwmk2EsoFRIz9UCeh9) | [Echosmith](https://open.spotify.com/artist/1PbBg2aYjWLKRk84zJK15x) | [Talking Dreams \(Deluxe Edition\)](https://open.spotify.com/album/1oHY6eQmEG8skElDvFgKz2) | 3:57 | 2022-07-15 | 2022-10-29 |
 | [Cool Kids](https://open.spotify.com/track/4PLuCa10ULsd3t9bGV7MH5) | [Justus Bennetts](https://open.spotify.com/artist/4PcesEvU9iICf7dwNt5B3l) | [Cool Kids](https://open.spotify.com/album/5L0YcnTzbGjQQ0AKX7GjtG) | 2:12 | 2021-11-12 | 2022-02-26 |
 | [Cool Kids](https://open.spotify.com/track/6w9kwKYCCL2YapGsXLasxq) | [Max Frost](https://open.spotify.com/artist/7r8xR0LmnaAM623MmRDn1V) | [Cool Kids](https://open.spotify.com/album/3SlkRa6qs5qeEg7H2yk9yW) | 2:59 | 2022-04-15 | 2022-06-18 |
@@ -280,6 +280,7 @@
 | [Don't Stop the Car](https://open.spotify.com/track/72OrO3uJtMEGRlPyKLogvk) | [Blake Rose](https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe) | [You'll Get It When You're Older](https://open.spotify.com/album/3Cyholll5qarrrlnIlxiCu) | 2:39 | 2023-02-24 | 2023-07-01 |
 | [don't wanna be your friend](https://open.spotify.com/track/2sMH4QWOM6pho9EY2RTPoO) | [joan](https://open.spotify.com/artist/3HXLY1sNXIxHfulrjPiRf5) | [don't wanna be your friend](https://open.spotify.com/album/1mkkEUHXdKdejjCLXDzdzr) | 2:45 | 2022-10-14 | 2022-12-03 |
 | [Don't You Worry](https://open.spotify.com/track/47xOrQT2xcdIA9fPKg07uQ) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [Don't You Worry](https://open.spotify.com/album/7gIkct34Wk2H6rGuk9w7yV) | 2:42 | 2022-07-15 | 2022-09-17 |
+| [Double Casket](https://open.spotify.com/track/7rR24CWfEpO61fjSicHQfv) | [44phantom](https://open.spotify.com/artist/1vwwjIPFeYoRfAUCqqO6cZ) | [Double Casket](https://open.spotify.com/album/2KREFkBR5HsPSEoAt2ECLx) | 2:41 | 2024-10-04 |  |
 | [Dover Beach](https://open.spotify.com/track/5BCYtpbTyUQSMRwDVPb5wk) | [Baby Queen](https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd) | [The Yearbook](https://open.spotify.com/album/5AxHpSJXhis5BFb1AA24pe) | 3:38 | 2022-04-29 | 2023-02-11 |
 | [downbad](https://open.spotify.com/track/6AvBCzO8LUh0MFLLoEDuBO) | [pj frantz](https://open.spotify.com/artist/1lhIL1YVgF6X1I8IMluKZi) | [downbad](https://open.spotify.com/album/1MBbmnRrnpmYxIiyDPVe6p) | 2:33 | 2022-07-29 | 2022-09-17 |
 | [Downsize](https://open.spotify.com/track/3SvYs68Wn1Z4U845Cdi0jg) | [Mills](https://open.spotify.com/artist/7MceGzCJ3bPNyErb440Izo) | [Final Thoughts](https://open.spotify.com/album/0PHkrjK9UIgFRM186LuR1q) | 3:01 | 2021-11-12 | 2022-02-05 |
@@ -376,6 +377,7 @@
 | [Go Fast Go Slow](https://open.spotify.com/track/3oZrkb4jSbqgCnHpe7x6Bz) | [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [Go Fast Go Slow](https://open.spotify.com/album/4guZazBU1hvkD6Cyr6rVcG) | 3:39 | 2024-05-31 | 2024-07-19 |
 | [Go Go Gadget](https://open.spotify.com/track/0LpqhIXxMm4VGXbybsNyBG) | [Jesse Gold](https://open.spotify.com/artist/0ScLk4lNexNrtkDmGQicRx), [Marc E\. Bassy](https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa) | [If Not Now](https://open.spotify.com/album/4xgOwzb89ZUFQ7U5lYGbcV) | 2:29 | 2022-10-28 | 2023-03-04 |
 | [Go Go Gadget Feat\. Marc E\. Bassy](https://open.spotify.com/track/5MJn7PREQVxQV0zzDEAUw3) | [Jesse Gold](https://open.spotify.com/artist/0ScLk4lNexNrtkDmGQicRx), [Marc E\. Bassy](https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa) | [If Not Now](https://open.spotify.com/album/3bnUQXYTmyk3b3JerLWmza) | 2:29 | 2022-10-28 | 2022-12-11 |
+| [Go!](https://open.spotify.com/track/32dPWlM6CblltDzJy9EmCu) | [Nick Ward](https://open.spotify.com/artist/1JjlFdZ1LKxyQ8moqDOmS9) | [House With The Blue Door](https://open.spotify.com/album/7D5rk5d5YQQft2dv1Yoa93) | 3:05 | 2024-10-04 |  |
 | [god of the sunsets](https://open.spotify.com/track/5gOyjqIifZ9NqVcaIIlqv7) | [SEB](https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi) | [god of the sunsets](https://open.spotify.com/album/5ZrAjc3ME3ghkUikJiYrms) | 2:04 | 2021-10-29 | 2022-01-08 |
 | [Gold Rush](https://open.spotify.com/track/14hZlv0RnqQGFAhLdEJpWR) | [Bryce Vine](https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I) | [Gold Rush](https://open.spotify.com/album/6SV9jJwVtwhTg6sHClkXqi) | 2:36 | 2023-02-10 | 2023-02-25 |
 | [Golden](https://open.spotify.com/track/37EENqOKD6uxLwthqxhKLt) | [Zella Day](https://open.spotify.com/artist/100sLnojEpcadRx4edEBA6) | [Golden](https://open.spotify.com/album/15y5YIZTkfg6tgoVCwPEoa) | 3:21 | 2021-10-29 | 2021-12-25 |
@@ -753,6 +755,7 @@
 | [one before the one](https://open.spotify.com/track/0IveFmA4WZfTIhp6uoANDO) | [Haiden Henderson](https://open.spotify.com/artist/79xvSUqngetd6CbJ1bgb4p) | [lover boy](https://open.spotify.com/album/2KvPFsQl591kXKkhhEtnMe) | 3:05 | 2024-07-12 | 2024-09-28 |
 | [one day before i die](https://open.spotify.com/track/1Q9ZEONnl5uedGaWs6Pq8x) | [nobody likes you pat](https://open.spotify.com/artist/7pxMZWBZWMMRH3USeGtu1I) | [one day before i die](https://open.spotify.com/album/73JqpHRaGZYBRTrAQ7ocTc) | 3:01 | 2022-03-11 | 2022-04-29 |
 | [One More Night](https://open.spotify.com/track/25U7mv53Dbe3JzzDcSrTPB) | [Only The Poets](https://open.spotify.com/artist/3Z40kLBFU7C8532e2YLE9t) | [One More Night](https://open.spotify.com/album/1Rveuvo2p2tNinGgfSEW3w) | 3:10 | 2024-02-02 | 2024-03-30 |
+| [One On One](https://open.spotify.com/track/0dX6TCuCSb5vtqtmNekXec) | [AJ Mitchell](https://open.spotify.com/artist/6dn6x1XOng3LOAnfTjUn77) | [One On One](https://open.spotify.com/album/5P4LHmJvYMQmBRuRIesoDr) | 2:50 | 2024-10-04 |  |
 | [One That Got Away](https://open.spotify.com/track/55RszydvrfNlZ2BQdF1c4q) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [One That Got Away](https://open.spotify.com/album/2FAHnRUhqr0Scl92hrAond) | 3:52 | 2023-04-21 | 2024-01-05 |
 | [Only Fan \(feat\. Cordae\)](https://open.spotify.com/track/6514uhzGpeyocCHv5kBih4) | [Bazzi](https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl), [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv) | [Infinite Dream](https://open.spotify.com/album/7CY2Iv5eX7eGAOdRNHfIBr) | 2:33 | 2022-09-16 | 2022-11-12 |
 | [only human](https://open.spotify.com/track/1XLZcAceP6w4b7f6IdhYZ8) | [Munn](https://open.spotify.com/artist/3cKS6z9VNfN9u5ZyNiph4l), [Delanie Leclerc](https://open.spotify.com/artist/547XK7rrl55NSCTqDa7TUx) | [only human.](https://open.spotify.com/album/0IB5gkV5Te5PRuA2KKXqhQ) | 2:30 | 2021-10-29 | 2022-01-22 |
@@ -925,6 +928,7 @@
 | [Still Yours \(From The Doc\)](https://open.spotify.com/track/7gJr3ockQ0fezUXuUXvaSq) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Still Yours \(From The Doc\)](https://open.spotify.com/album/03uCCaOFlRAJkE6oDInrLz) | 2:38 | 2024-03-01 | 2024-04-27 |
 | [Stoned](https://open.spotify.com/track/1r2FylqxMZfyiftoH1iEqp) | [GUS](https://open.spotify.com/artist/3SdiTECGpryAOC4TKsA2ij) | [The Humid Summer](https://open.spotify.com/album/0CWif3WSQ1qKAiTyMYtNzz) | 3:00 | 2022-07-29 | 2022-08-20 |
 | [stop and stare](https://open.spotify.com/track/104Jrr3kQh6l1ZEQjGWyIr) | [joan](https://open.spotify.com/artist/3HXLY1sNXIxHfulrjPiRf5) | [portra](https://open.spotify.com/album/1vYK6K7KnpkvG2ifULBW0W) | 3:21 | 2022-04-01 | 2022-04-09 |
+| [story i tell myself](https://open.spotify.com/track/5wAOwTaOQ8dHZgR13d5S7S) | [Lindsay Ell](https://open.spotify.com/artist/4lpA7MWpQpY7hKkwfLxw2Q) | [story i tell myself](https://open.spotify.com/album/6SN574dbaX96k0sDGgdlDq) | 3:31 | 2024-10-04 |  |
 | [Story of a Boy](https://open.spotify.com/track/7atzImo7vWrKHrsqkFrMuQ) | [JORDY](https://open.spotify.com/artist/0p9SPN0Vhv6aDRZCz4W13E) | [Story of a Boy](https://open.spotify.com/album/1emFHl6oXIJRrXS3yS4hj4) | 2:36 | 2023-01-27 | 2023-02-04 |
 | [Story of a Boy](https://open.spotify.com/track/7cbmG4OPQ9ghcewYIlNiuS) | [JORDY](https://open.spotify.com/artist/0p9SPN0Vhv6aDRZCz4W13E) | [Story of a Boy](https://open.spotify.com/album/2RUbaX7TWnJIKY3irozBP3) | 2:36 | 2023-02-03 | 2023-04-22 |
 | [Straightjacket](https://open.spotify.com/track/51LIqkda3pTeECZUhMnool) | [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd) | [The Story of Us](https://open.spotify.com/album/7j7cqgeWmYH9PbKe3S5oJj) | 3:26 | 2022-02-04 | 2022-07-30 |
@@ -1095,6 +1099,7 @@
 | [What If You Change?](https://open.spotify.com/track/0X1zc021vthGFkGD8jBfYS) | [The Wldlfe](https://open.spotify.com/artist/2Vvj76fff5uAw10W1sW54W) | [What If You Change?](https://open.spotify.com/album/5uDT1HnHn2QqFoABrcEnJ9) | 3:25 | 2024-05-24 | 2024-06-15 |
 | [What If?](https://open.spotify.com/track/5t9JVqGBFC3rFVqARXS5tM) | [Trella](https://open.spotify.com/artist/4YpLN8ZByubASuWnxWokRT) | [What If?](https://open.spotify.com/album/1JZwNXx3JcM5iipgNlnrO4) | 3:00 | 2024-07-05 | 2024-08-31 |
 | [WHAT THE HELL](https://open.spotify.com/track/7fjd7XOn6Bp8PMNdp7YZDO) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [WHAT THE HELL](https://open.spotify.com/album/3ipWal9rIQJcZHztmB8tLQ) | 2:52 | 2024-03-15 | 2024-06-01 |
+| [What This Could Be](https://open.spotify.com/track/3NaOEouWqMCBwR0vQcVFt7) | [Joe Jonas](https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL) | [What This Could Be / Work It Out](https://open.spotify.com/album/534YIkJVj0Hlpuw0jMpf1h) | 3:18 | 2024-10-04 |  |
 | [What We Wanted](https://open.spotify.com/track/5GjQuycV1lNwXWOPNx62U0) | [Stephen Dawes](https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose) | [What We Wanted](https://open.spotify.com/album/4olIbtgqWVhl3yQN7xp5Qb) | 2:48 | 2024-04-26 | 2024-06-01 |
 | [What's Been On Your Mind?](https://open.spotify.com/track/3lpshfvmjrxGm9xr3x47F2) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [What's Been On Your Mind?](https://open.spotify.com/album/7HYuwChe92i9qPG4QFJ0Rs) | 2:52 | 2022-06-10 | 2022-08-13 |
 | [Whatever Comes My Way](https://open.spotify.com/track/5VjVqlPfslXPqORPGk5HlH) | [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [I had a beautiful time, now I have to leave](https://open.spotify.com/album/6uQgWP0yooJzPcr2bYYmrN) | 2:29 | 2023-12-08 | 2024-02-03 |
@@ -1143,6 +1148,7 @@
 | [you fake your british accent](https://open.spotify.com/track/5Jb3MSibBv8ioC1Q5OrGmR) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [you fake your british accent](https://open.spotify.com/album/68TfQ3tnoUR6MwkO3658it) | 3:08 | 2024-08-16 |  |
 | [You Make Me Mad](https://open.spotify.com/track/5WyBmMS2qDyOz8O0OIQUY5) | [Aquilo](https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw) | [A Safe Place To Be](https://open.spotify.com/album/2Bn7ms5tZRXGvZOOT55OOf) | 3:06 | 2021-10-29 | 2022-01-08 |
 | [You Need Jesus](https://open.spotify.com/track/2JJjWLvlJhfYSfj4umyaTc) | [BABY GRAVY](https://open.spotify.com/artist/46VgqDxDEn45y1t0zBS7Do), [Yung Gravy](https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ), [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [You Need Jesus](https://open.spotify.com/album/2JhiffKjGgJ1DcjNPE0WHG) | 2:14 | 2023-06-30 | 2023-11-25 |
+| [You Owe Me](https://open.spotify.com/track/0fVL6EBaQ2X12qQLiFgyg2) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Two New Malcolm Todd Songs](https://open.spotify.com/album/2JNBq8nFR1FedwJbYnOF0E) | 3:40 | 2024-10-04 |  |
 | [You Shaped Hole](https://open.spotify.com/track/5AoSpWbDyhpHvB6RwjM2c7) | [Baby Queen](https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd) | [The Yearbook](https://open.spotify.com/album/5AxHpSJXhis5BFb1AA24pe) | 2:59 | 2021-10-29 | 2022-01-08 |
 | [You Won't](https://open.spotify.com/track/3KqTfgqq5Y7LO2MABzz8el) | [Marko](https://open.spotify.com/artist/1gBpdTK92fXFog9vxL9eL5) | [You Won't](https://open.spotify.com/album/6JR0yX7Orycek9RVRUFyH2) | 2:55 | 2022-12-23 | 2023-03-25 |
 | [Your Bones](https://open.spotify.com/track/7zBg6qxuNUz0mBdr85l6ng) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [Stellaria](https://open.spotify.com/album/5UHVVt48bKChmsZNguXZIu) | 2:39 | 2024-01-05 | 2024-03-16 |

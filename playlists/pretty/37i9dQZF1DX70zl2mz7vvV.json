@@ -1,6 +1,6 @@
 {
   "description": "The essential tracks from the label VP Records. Cover: Beenie Man",
-  "num_followers": 56289,
+  "num_followers": 56332,
   "original_name": "Legendary Labels: VP Records",
   "owner": {
     "name": "Spotify",
@@ -751,6 +751,22 @@
     {
       "added_at": "2020-10-19 09:02:25",
       "album": {
+        "name": "Reggae Anthology: Winston Riley - Quintessential Techniques",
+        "url": "https://open.spotify.com/album/3IPuQhufdjBHf3kpi3oHav"
+      },
+      "artists": [
+        {
+          "name": "Super Beagle",
+          "url": "https://open.spotify.com/artist/2MprrXEYOTnjaG87J2Mwdr"
+        }
+      ],
+      "duration_ms": 217840,
+      "name": "Dust A Sound Boy",
+      "url": "https://open.spotify.com/track/3iGtu69TVhOuGVZY6PXcza"
+    },
+    {
+      "added_at": "2020-10-19 09:02:25",
+      "album": {
         "name": "Together We Stand",
         "url": "https://open.spotify.com/album/1eUOFuDvLbju6Dbqj2KqlK"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 265053,
       "name": "Unity We Need (feat. Chronixx)",
       "url": "https://open.spotify.com/track/5LHsnh2rrAunWXUSI7xqtO"
-    },
-    {
-      "added_at": "2020-10-19 09:02:25",
-      "album": {
-        "name": "Reggae Anthology: Winston Riley - Quintessential Techniques",
-        "url": "https://open.spotify.com/album/3IPuQhufdjBHf3kpi3oHav"
-      },
-      "artists": [
-        {
-          "name": "Super Beagle",
-          "url": "https://open.spotify.com/artist/2MprrXEYOTnjaG87J2Mwdr"
-        }
-      ],
-      "duration_ms": 217840,
-      "name": "Dust A Sound Boy",
-      "url": "https://open.spotify.com/track/3iGtu69TVhOuGVZY6PXcza"
     },
     {
       "added_at": "2020-10-19 09:02:25",

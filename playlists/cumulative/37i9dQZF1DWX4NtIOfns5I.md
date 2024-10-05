@@ -2,9 +2,9 @@
 
 ### [juniper](https://open.spotify.com/playlist/37i9dQZF1DWX4NtIOfns5I)
 
-> searows and bon iver in rotation 🔁
+> new music from baby bugs 🐛
 
-337 songs - 19 hr 36 min
+339 songs - 19 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [Blood Moon](https://open.spotify.com/track/37J6sYIBny0g0YJi88FPnc) | [Josiah and the Bonnevilles](https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC) | [2022](https://open.spotify.com/album/0oYyYL3eh3JFQa6BoncBJC) | 2:48 | 2023-10-13 | 2024-07-27 |
 | [Bluebird Singing](https://open.spotify.com/track/7LlmSAqvcpjheDytACHfDu) | [John Vincent III](https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb) | [Songs For The Canyon](https://open.spotify.com/album/1k7iymTuRK6I4tvn0SX38I) | 4:00 | 2023-11-17 | 2024-08-10 |
 | [boys, bugs and men](https://open.spotify.com/track/6DE23VfUZNpmOnRhYuUMy6) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [boys, bugs and men](https://open.spotify.com/album/5lngAYTf5pP5BNXSRiRIvJ) | 3:06 | 2024-05-10 | 2024-08-31 |
-| [Bruises Off The Peach](https://open.spotify.com/track/6DdAZ0zZmmSwM8uqoVlepL) | [Ryan Beatty](https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ) | [Calico](https://open.spotify.com/album/5OWpskyoZl9UMkHQwgA05O) | 3:12 | 2023-10-06 |  |
+| [Bruises Off The Peach](https://open.spotify.com/track/6DdAZ0zZmmSwM8uqoVlepL) | [Ryan Beatty](https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ) | [Calico](https://open.spotify.com/album/5OWpskyoZl9UMkHQwgA05O) | 3:12 | 2023-10-06 | 2024-10-05 |
 | [Bubble Gum](https://open.spotify.com/track/3zksbXteOCeSusJ5Xltr3t) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Bubble Gum](https://open.spotify.com/album/4IlnBRDEsHcr9EWxmbgMC2) | 2:55 | 2024-01-14 | 2024-04-06 |
 | [Buffalo Replaced \- Spotify Singles](https://open.spotify.com/track/2Io4hOyIeXESirgQWXMlDB) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Spotify Singles](https://open.spotify.com/album/7424HIQbzV8bI0JSYwTFni) | 2:33 | 2024-03-15 | 2024-04-06 |
 | [Bumper Sticker](https://open.spotify.com/track/7MUslKGuUlcOPAcYpYEpco) | [Bloomsday](https://open.spotify.com/artist/6DhYH5Yx7mZG0qkBmioMbI) | [Heart of the Artichoke](https://open.spotify.com/album/01Y6gij1vhxRlST9TEfDSK) | 3:42 | 2024-06-07 |  |
@@ -81,7 +81,7 @@
 | [Eidolon](https://open.spotify.com/track/5ttu0jY3rOQuaW3D2AN6OU) | [Tapir!](https://open.spotify.com/artist/7dYpljfleToKnSmBFqjqkd) | [Act 2 \(Their God\)](https://open.spotify.com/album/20tEagJfooo80QqJND3FMR) | 3:30 | 2023-10-06 | 2024-04-13 |
 | [Either Way](https://open.spotify.com/track/1B6EfeMzx4lgAFHSdlg3qf) | [Odie Leigh](https://open.spotify.com/artist/7AgbNZPRrvTpWjVbbPoUmU) | [Either Way](https://open.spotify.com/album/6xCFqOoJGxMDOQR0JEx8ly) | 4:12 | 2024-03-22 |  |
 | [Electric Lizard](https://open.spotify.com/track/2vctZ5ZX7cRMFGjcZzwWcK) | [Angela Autumn](https://open.spotify.com/artist/2gyodrfLfK8xF0sSaxBZXQ) | [Rocky Doom](https://open.spotify.com/album/18dZNZb5ijjIfVAmZSR0sT) | 3:26 | 2024-05-31 |  |
-| [End Of The World](https://open.spotify.com/track/5RXjt2s4HBJw3TcaAzwSrD) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [End Of The World](https://open.spotify.com/album/0yZgstl288CsPgZaS0wmVz) | 3:54 | 2023-12-08 |  |
+| [End Of The World](https://open.spotify.com/track/5RXjt2s4HBJw3TcaAzwSrD) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [End Of The World](https://open.spotify.com/album/0yZgstl288CsPgZaS0wmVz) | 3:54 | 2023-12-08 | 2024-10-05 |
 | [Eulogy For Nobody](https://open.spotify.com/track/11ozTm1ilFrLxwtdWt1iK0) | [Debbii Dawson](https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh) | [Learning](https://open.spotify.com/album/0g1hqdwk04yfQdXgt3ifzG) | 2:16 | 2023-10-27 | 2024-04-06 |
 | [Euphor](https://open.spotify.com/track/4CiqKccFFYGmFPz7HVTjfW) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi), [Lowswimmer](https://open.spotify.com/artist/7FW2qwsY0zLV9GppWatQ5P) | [Heiress](https://open.spotify.com/album/4poxm3vY9nKdqcyeWv5h0a) | 4:03 | 2023-10-17 | 2024-03-13 |
 | [Evergreen](https://open.spotify.com/track/6me7F0aaZjwDo6RJ5MrfBD) | [Richy Mitch & The Coal Miners](https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau) | [RMCM](https://open.spotify.com/album/2weOG4ZiOjfxiuFMsHm9JQ) | 1:27 | 2023-10-06 | 2024-03-13 |
@@ -195,6 +195,7 @@
 | [mud on my superstars](https://open.spotify.com/track/7Hhw8ulCFF8ZyxEiHnwkc6) | [Keni Titus](https://open.spotify.com/artist/3TCkIp7RQLM4MzP5q9iyzj) | [mud on my superstars](https://open.spotify.com/album/3hFlIKU66qbWphgI9DcUVP) | 2:43 | 2023-10-20 | 2023-12-09 |
 | [Mudroom](https://open.spotify.com/track/6UJaQZTvpWUWp7FZDJJUXj) | [Tiny Habits](https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn) | [Mudroom](https://open.spotify.com/album/4z3Lq0ha127elfRFtkbKsc) | 3:59 | 2024-03-01 | 2024-05-25 |
 | [My Best Friend Needs](https://open.spotify.com/track/460fiLttrlcZYSfc7c7Uus) | [Babehoven](https://open.spotify.com/artist/3Yjr5lVbAr2Fe7Lmpwja70) | [Water's Here In You](https://open.spotify.com/album/3aM1dE1P2ikP9ERa1hmtri) | 2:49 | 2024-04-26 | 2024-05-11 |
+| [My Corpse Friend](https://open.spotify.com/track/1wfwCZIj2bkXUNuZCMkQlQ) | [Baby Bugs](https://open.spotify.com/artist/3TBTcHpZ3aV1g8rk8i1zb5) | [In My Bones](https://open.spotify.com/album/71SOQSZ4pKoTkwq86AJUxT) | 2:25 | 2024-10-04 |  |
 | [My Ego Dies At The End](https://open.spotify.com/track/2qpmDv8xnUxULb5TlDk9yS) | [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj) | [Are You Happy Now?](https://open.spotify.com/album/5NaLnnKsTGdzPuSZceQpa9) | 4:02 | 2023-10-17 | 2024-06-29 |
 | [My farewells to the fields](https://open.spotify.com/track/5B0LlNrqXQqnafdrvfJHji) | [Yaelokre](https://open.spotify.com/artist/3rRyfgGByetsaaujkjQ7rY) | [Songs of Origin](https://open.spotify.com/album/2l9etGpqZ3uyqa5I2xozjv) | 2:04 | 2024-09-27 |  |
 | [my friend's toyota](https://open.spotify.com/track/5klqVId6gE0LT4QkbPUKCf) | [asiris](https://open.spotify.com/artist/4YFxglwXwymzvkPYndX3G2) | [my friend's toyota](https://open.spotify.com/album/3nIvomXE7fMgjtLvrkLTPg) | 3:14 | 2023-10-20 |  |
@@ -286,7 +287,7 @@
 | [Taste The Dirt](https://open.spotify.com/track/4tZbVjtbfPj5KpRAEXQQgP) | [Steinza](https://open.spotify.com/artist/6Q868mSv5AUeLn44rc77sD) | [Taste The Dirt](https://open.spotify.com/album/5SFkvjzqD5QmOARqp1MIDm) | 2:56 | 2024-07-19 |  |
 | [Tequila or Whiskey](https://open.spotify.com/track/6O2a8YfuHdfXrdGUvgzjJc) | [Willow Avalon](https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR) | [Tequila or Whiskey](https://open.spotify.com/album/0XBrVw8ciKPQK2IIcLWexj) | 2:13 | 2024-06-28 |  |
 | [That’s Just The Way It Is, Babe](https://open.spotify.com/track/7I5Kv0uTItrFKOA2C2ls4M) | [John Vincent III](https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb) | [That's Just The Way It Is, Babe](https://open.spotify.com/album/02Zc3D5tiEHFXMeEdvGcFE) | 3:28 | 2023-10-06 | 2023-11-18 |
-| [The Bell Jar](https://open.spotify.com/track/1LUek8Od6zrrcPxhXrkNIz) | [Chrissy](https://open.spotify.com/artist/3QwRBjTeM46BQmREpCiL6f) | [The Bell Jar](https://open.spotify.com/album/4ZbxxQPdwBFmFHsq3JAjLK) | 2:19 | 2024-04-05 |  |
+| [The Bell Jar](https://open.spotify.com/track/1LUek8Od6zrrcPxhXrkNIz) | [Chrissy](https://open.spotify.com/artist/3QwRBjTeM46BQmREpCiL6f) | [The Bell Jar](https://open.spotify.com/album/4ZbxxQPdwBFmFHsq3JAjLK) | 2:19 | 2024-04-05 | 2024-10-05 |
 | [The Bug Collector](https://open.spotify.com/track/5nVE45ithgyVocZp5XLAk6) | [Haley Heynderickx](https://open.spotify.com/artist/73MDShZzdL4vUGMkmXOG6X) | [I Need to Start a Garden](https://open.spotify.com/album/4I8BEAiq1kPqRRlvWLTo5B) | 3:48 | 2023-10-06 | 2024-06-01 |
 | [The Favorite](https://open.spotify.com/track/5fOJ2ER7TB9DNjFchr9m3P) | [India Thieriot](https://open.spotify.com/artist/6MuOTOv4gVJpTYFPBb3awg) | [The Favorite](https://open.spotify.com/album/42zSMFzegNPqbs8roRvI43) | 3:05 | 2024-04-12 | 2024-09-14 |
 | [The Former](https://open.spotify.com/track/6CNKcu9SBPWKMkBvMkPRBT) | [Steinza](https://open.spotify.com/artist/6Q868mSv5AUeLn44rc77sD) | [The Former](https://open.spotify.com/album/2UKLjLYN14h5m1f5pHVr3i) | 2:37 | 2023-10-06 | 2024-03-16 |
@@ -309,6 +310,7 @@
 | [To Watch the World Spin Without You](https://open.spotify.com/track/0BdpYdgNeEZwHqP1vSrsw0) | [Mon RovÎa](https://open.spotify.com/artist/6pvai2QB2c0defVI0UTFos) | [To Watch the World Spin Without You](https://open.spotify.com/album/1yFRhLSA5QlBIodWNqNoGh) | 2:32 | 2023-10-06 | 2024-04-19 |
 | [Too Sweet](https://open.spotify.com/track/4IadxL6BUymXlh8RCJJu7T) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unheard](https://open.spotify.com/album/1KZC0cX0qq6hodR9YVgh9F) | 4:11 | 2024-03-29 | 2024-09-07 |
 | [toothache](https://open.spotify.com/track/6vca0aMELa1kc6mIs6w39c) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [toothache](https://open.spotify.com/album/3rjjYmNxsyWkmrDLEKtXF4) | 3:28 | 2024-09-27 |  |
+| [Triple Marathon](https://open.spotify.com/track/6gEl8SZNT90jyNCXVhZ3BO) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [Triple Marathon](https://open.spotify.com/album/2PSzv4iDxvcbfTHL11obmh) | 2:37 | 2024-10-04 |  |
 | [True Blue](https://open.spotify.com/track/48Qes8IUekSZpcNDQgYzUX) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI) | 4:56 | 2023-12-15 | 2024-04-06 |
 | [Turned Into Missing You](https://open.spotify.com/track/74PUiV5qVX8Cbs1xeWNEND) | [Max McNown](https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp) | [Turned Into Missing You](https://open.spotify.com/album/2US5Vh8gLLhmH4mTm9eadW) | 3:08 | 2024-04-05 | 2024-10-03 |
 | [Uncovered](https://open.spotify.com/track/0u3Ck6jifvedbQL0ZjBP1l) | [Max Helgemo](https://open.spotify.com/artist/25tISYfzQFqAvNdmWPspGS) | [Uncovered](https://open.spotify.com/album/7A8zAcXTRDKJdt7HpRmwAT) | 3:44 | 2023-10-06 | 2024-01-27 |
@@ -325,7 +327,7 @@
 | [Vortex](https://open.spotify.com/track/7ySoma7tOtUTPSELihpcko) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Older](https://open.spotify.com/album/30fIbIvd1AN04FrBt12KhM) | 5:43 | 2024-04-12 | 2024-05-25 |
 | [Voyager](https://open.spotify.com/track/6Xl18Edf3v9Z2FLw1H69cr) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw) | [the rest](https://open.spotify.com/album/1n0esOkFQdL74PwMwTVgtz) | 2:48 | 2023-10-17 | 2023-12-16 |
 | [Weatherman](https://open.spotify.com/track/4yEkhMRfKJVYVgFmO1dLuj) | [Zach Hood](https://open.spotify.com/artist/5aHlyw2WWqZW0HLICBuv7U) | [Weatherman](https://open.spotify.com/album/6YZiUZWUDdRigGpPW4O4SB) | 2:55 | 2024-05-24 | 2024-08-27 |
-| [What Nightmares Are Made Of](https://open.spotify.com/track/5PuWGjgbFfaxhMLiwmSzHV) | [Ullah](https://open.spotify.com/artist/6DJbA69u1iLhG6s8H9tVqP) | [What Nightmares Are Made Of](https://open.spotify.com/album/6lJ3GIVObuvE2xbigZOpnC) | 3:44 | 2024-07-08 |  |
+| [What Nightmares Are Made Of](https://open.spotify.com/track/5PuWGjgbFfaxhMLiwmSzHV) | [Ullah](https://open.spotify.com/artist/6DJbA69u1iLhG6s8H9tVqP) | [What Nightmares Are Made Of](https://open.spotify.com/album/6lJ3GIVObuvE2xbigZOpnC) | 3:44 | 2024-07-08 | 2024-10-05 |
 | [Where Did I Go Wrong](https://open.spotify.com/track/13VtzJP8HQuK6jQRJrP6xL) | [Crowe Boys](https://open.spotify.com/artist/5k7X7qq43uKpB09FSYS5id) | [Where Did I Go Wrong](https://open.spotify.com/album/3zBmaB2rxw5YjX2kqUsgTa) | 2:59 | 2024-03-01 |  |
 | [Where'd The Time Go?](https://open.spotify.com/track/2dXU17E5YrtwfQBlpyu8Ut) | [Kaleah Lee](https://open.spotify.com/artist/6JgC582KHI4BpHIhbFHVAQ) | [Where'd The Time Go?](https://open.spotify.com/album/7ttGJ6CYogFKE2twKTjSHM) | 1:45 | 2023-10-20 | 2024-02-14 |
 | [Where's My Love](https://open.spotify.com/track/1B62o4CbdL9ckGvwsz2cgn) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [SYML](https://open.spotify.com/album/7Lwn8CSE6bv6VYScebUGiz) | 3:22 | 2024-05-23 |  |

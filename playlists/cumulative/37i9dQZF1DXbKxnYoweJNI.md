@@ -4,7 +4,7 @@
 
 > 獨立就是硬地自主，音樂就要展現風格，加起來就是痛快！Cover: 美秀集團 \(Amazing Show\)
 
-773 songs - 1 day 20 hr 45 min
+774 songs - 1 day 20 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -780,6 +780,7 @@
 | [鴻門宴](https://open.spotify.com/track/3ePwOICwLhZDLOPeCXy3sv) | [Ronghao Li](https://open.spotify.com/artist/0rTP0x4vRFSDbhtqcCqc8K) | [鴻門宴](https://open.spotify.com/album/1sd4SLjhnFEw11pZhAv6oE) | 3:24 | 2024-09-26 |  |
 | [黎明](https://open.spotify.com/track/646xvE1FZYfKBGYGiatR5C) | [163 braces](https://open.spotify.com/artist/6gtUGnqU4qnJ2ZB2bvp5TZ) | [黎明](https://open.spotify.com/album/1l07yu99KS9fNc16eTGq1a) | 3:33 | 2024-07-25 | 2024-08-16 |
 | [黑洞](https://open.spotify.com/track/7sWMk8eW2Eu1wzcoaZu6As) | [吳是閎](https://open.spotify.com/artist/1gjgosK4xDv4S0zGOgcKhH) | [黑洞](https://open.spotify.com/album/0g9fRU7wD5drH3k6hKofrQ) | 3:59 | 2024-09-12 |  |
+| [龍鳴](https://open.spotify.com/track/2MWKC5HFNdjrcitnXKOz8O) | [王晨宇IceCraz](https://open.spotify.com/artist/2Hn1JOz00GeUV7iEfdYfYM) | [龍鳴](https://open.spotify.com/album/5N7mbahzhR82Legypi8Vd6) | 2:20 | 2024-10-03 |  |
 | [Ｇ開頭](https://open.spotify.com/track/2IAk3vI96F0jTpRpRAgmdT) | [STACO](https://open.spotify.com/artist/2zztZu8VnEsHm25yTJfof9) | [G開頭](https://open.spotify.com/album/7GzXDyBSsYU4H05d8kGwaK) | 3:25 | 2024-06-27 | 2024-07-12 |
 
 \*This playlist was first scraped on 2024-07-02. Prior content cannot be recovered.

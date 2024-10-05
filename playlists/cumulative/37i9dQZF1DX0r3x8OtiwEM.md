@@ -4,7 +4,7 @@
 
 > Chill techno, melodic house and tech house.
 
-657 songs - 2 day 16 hr 44 min
+658 songs - 2 day 16 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,7 +137,7 @@
 | [Demons](https://open.spotify.com/track/1SzvT33osUubyxQoazUuH3) | [Klanglos](https://open.spotify.com/artist/1jV311C5ADuBqCPpprsjUp) | [Demons](https://open.spotify.com/album/1loRstRPYmkC0uuqWZWZxA) | 6:55 | 2020-06-12 | 2020-09-11 |
 | [Der Blaue Reiter](https://open.spotify.com/track/6I5EyRfFFWlLuXlaBVy1up) | [GHEIST](https://open.spotify.com/artist/60pOigPjgmU7AzmZmWEQZU) | [Der Blaue Reiter](https://open.spotify.com/album/3vGeL7X0hGe20Ayx167YoM) | 7:11 | 2019-08-06\* | 2019-09-27 |
 | [Desert Summer](https://open.spotify.com/track/0eaJO6Z3WiAXxIU70NioDD) | [Adam Stacks](https://open.spotify.com/artist/2L6tFQkfIxssirVgyNtVaL) | [Desert Summer](https://open.spotify.com/album/5V25eE1mNBASDqZTcksQQU) | 4:08 | 2019-12-13 | 2022-04-05 |
-| [Designer Love \- Short Version](https://open.spotify.com/track/5NfgFRdfNQ4HFVPGRoVMU6) | [MARIA Die RUHE](https://open.spotify.com/artist/2h7LIGXwIr6m1tZ27JHgxQ) | [Designer Love](https://open.spotify.com/album/6OK84B4MX87uzZ7umm25f3) | 4:20 | 2021-05-07 |  |
+| [Designer Love \- Short Version](https://open.spotify.com/track/5NfgFRdfNQ4HFVPGRoVMU6) | [MARIA Die RUHE](https://open.spotify.com/artist/2h7LIGXwIr6m1tZ27JHgxQ) | [Designer Love](https://open.spotify.com/album/6OK84B4MX87uzZ7umm25f3) | 4:20 | 2021-05-07 | 2024-10-05 |
 | [Desire \- Single Edit](https://open.spotify.com/track/36Lb2L21fDT7vtl0r7zpa5) | [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5), [ZHU](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2) | [Desire](https://open.spotify.com/album/3rviuWcN9sn7p55Bcl7p3M) | 4:25 | 2020-08-15 | 2022-01-24 |
 | [Desires](https://open.spotify.com/track/4FB0RAvP0rHrEETFtMgxfI) | [Paul Hazendonk](https://open.spotify.com/artist/1WvOL031HYqthvhtxb9Eh6), [Felix Raphael](https://open.spotify.com/artist/4nknUpUYu4baxWwkunq81Z) | [Desires](https://open.spotify.com/album/3B2YexEqQKNaxgHoKXfhAy) | 7:33 | 2020-05-29 | 2020-09-19 |
 | [Detached \- Single Version](https://open.spotify.com/track/5PC9D7nIdDqk1t8ZruIgJn) | [Tim Engelhardt](https://open.spotify.com/artist/74HdscE6G74tt01dbVZULE) | [Yours](https://open.spotify.com/album/38HVg8MDbBwJqnqvidkLAZ) | 6:47 | 2020-08-30 | 2020-11-07 |
@@ -375,6 +375,7 @@
 | [Never Ending](https://open.spotify.com/track/1SGbmqB3dxlrp4YkKzZUto) | [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5) | [Never Ending](https://open.spotify.com/album/1emHqizAHsvhYxVEt6YHXo) | 4:02 | 2022-04-04 | 2024-06-01 |
 | [Never Enough](https://open.spotify.com/track/63oLL7nhjCx3hqNQWfwYVM) | [Tonic Walter](https://open.spotify.com/artist/6HfRl1vZ3mVDGkXb7Pknjv) | [Never Enough](https://open.spotify.com/album/66YANI4iTibEQOQ1zHjbbO) | 3:32 | 2023-11-27 |  |
 | [Never Give Up \- Diplo Remix](https://open.spotify.com/track/0wg87AgRmF2wdrheB5JAPE) | [Mathame](https://open.spotify.com/artist/6QSwQEz8CDMg8Rqk8dEkxS), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Never Give Up \(Diplo Remix\)](https://open.spotify.com/album/6Li4q1edOIieNeysAsdSdH) | 4:18 | 2020-07-25 | 2022-04-21 |
+| [Neverender \- Rampa Remix](https://open.spotify.com/track/5EtJ3keh0umOlQ0kHXvNIS) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb), [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [Neverender \(Rampa Remix\)](https://open.spotify.com/album/5Yd3nNyeFQa0CcYCMV8IUa) | 6:24 | 2024-10-04 |  |
 | [New Day](https://open.spotify.com/track/7548lIowWrwIbVIbAOSewT) | [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa) | [HI](https://open.spotify.com/album/2s9XE5PNK54oSIzhRpkPMs) | 8:17 | 2019-08-06\* | 2022-02-13 |
 | [Newness Nowness](https://open.spotify.com/track/6MFhxtGh7NI1sXSQhOqPqM) | [Hannah Fernando](https://open.spotify.com/artist/1pemw59Uf20tXE3i5eTBiY), [desseydoll](https://open.spotify.com/artist/6Uei1pujSRehmkLcdfvCRq) | [Newness Nowness](https://open.spotify.com/album/6tEfKu3A4UDxl5U2rVRMjV) | 6:30 | 2022-02-25 | 2022-07-29 |
 | [Next to Me](https://open.spotify.com/track/0sDL6c7BZGffS71ICuJqF4) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Next to Me](https://open.spotify.com/album/4g7tDntrExaV34ee2yU4jN) | 5:14 | 2021-09-08 |  |

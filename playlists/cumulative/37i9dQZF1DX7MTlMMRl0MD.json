@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "Tu lista favorita de Bachata \u2764\ufe0f Cover: NATTI NATASHA",
+  "description": "Tu lista favorita de Bachata \u2764\ufe0f Cover: Manuel Turizo & Kapo",
   "name": "Bachata Lovers",
   "tracks": [
     {
@@ -1381,6 +1381,32 @@
     },
     {
       "album": {
+        "name": "Confundido",
+        "url": "https://open.spotify.com/album/3IMcWtuZ5UoFIa1Jpbqe4C"
+      },
+      "artists": [
+        {
+          "name": "Ralphy Dreamz",
+          "url": "https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm"
+        },
+        {
+          "name": "Fernando Villalona",
+          "url": "https://open.spotify.com/artist/4391zvuuIvVziLtsvq13Cu"
+        },
+        {
+          "name": "Abelito en la guitarra",
+          "url": "https://open.spotify.com/artist/4y9Qtv16V5TmWIM0pNxn00"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191221,
+      "name": "Confundido",
+      "url": "https://open.spotify.com/track/1IKRUfAVw29BKEmNOgb2qJ"
+    },
+    {
+      "album": {
         "name": "Consuelo",
         "url": "https://open.spotify.com/album/1N6xTNae8l8OefNXZttihO"
       },
@@ -1926,7 +1952,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 187000,
       "name": "Di Que S\u00ed",
       "url": "https://open.spotify.com/track/3SwU6NpaZ257IYLkOINHuM"
@@ -2706,6 +2732,28 @@
       "duration_ms": 232954,
       "name": "Eso Es Amor",
       "url": "https://open.spotify.com/track/3ZKJvmw8fTozLYGHbftkGn"
+    },
+    {
+      "album": {
+        "name": "Espacio en Tu Coraz\u00f3n (Remix)",
+        "url": "https://open.spotify.com/album/0QbMnLTWFzzs9qiyUJ4Eco"
+      },
+      "artists": [
+        {
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+        },
+        {
+          "name": "Ana Mena",
+          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179271,
+      "name": "Espacio en Tu Coraz\u00f3n - Remix",
+      "url": "https://open.spotify.com/track/7umNc6U2AVcL0RwQIi7xZG"
     },
     {
       "album": {
@@ -4822,7 +4870,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 222421,
       "name": "No Voy a Morir Por ti",
       "url": "https://open.spotify.com/track/0WvY6XcW1illQAlR61HrpM"
@@ -5774,6 +5822,28 @@
       "duration_ms": 213283,
       "name": "Qui\u00e9reme Menos",
       "url": "https://open.spotify.com/track/08lj7xleA0SBiLhrDZUqIU"
+    },
+    {
+      "album": {
+        "name": "Qu\u00e9 Pecao",
+        "url": "https://open.spotify.com/album/753zWh3I26DZ8pCOfJFZfA"
+      },
+      "artists": [
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        },
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230073,
+      "name": "Qu\u00e9 Pecao",
+      "url": "https://open.spotify.com/track/456U68M8lIymkz56Zroxh8"
     },
     {
       "album": {
@@ -6860,7 +6930,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 189000,
       "name": "Tokyo",
       "url": "https://open.spotify.com/track/3uCspcbDztT97O4NOSLzLW"
@@ -6958,6 +7028,28 @@
       "duration_ms": 239666,
       "name": "Tu Eres Ajena - Bachata",
       "url": "https://open.spotify.com/track/64zjvItFmkY8Q96tcmGQ6n"
+    },
+    {
+      "album": {
+        "name": "Tu Eres Mi Amor (Bachata Version)",
+        "url": "https://open.spotify.com/album/1WIwGwoD15YXNCFPhruPNg"
+      },
+      "artists": [
+        {
+          "name": "Kazzabe",
+          "url": "https://open.spotify.com/artist/758FKId0OeNnHwnFP2pwFv"
+        },
+        {
+          "name": "Frank Reyes",
+          "url": "https://open.spotify.com/artist/4vQV1LCGBdYAt5rIIPjSFZ"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221564,
+      "name": "Tu Eres Mi Amor - Bachata Version",
+      "url": "https://open.spotify.com/track/2PgyPxXOTDKFPiDbtcdLFE"
     },
     {
       "album": {
@@ -7518,7 +7610,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 186339,
       "name": "\u00bfQui\u00e9n de Ustedes?",
       "url": "https://open.spotify.com/track/0uZDAWitKcqqtq5nUcXn1w"

@@ -4,7 +4,7 @@
 
 > Glitch and giggle with these whimsically warped bouncy bops 🤖
 
-212 songs - 15 hr 50 min
+213 songs - 15 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,6 +163,7 @@
 | [SHEEP](https://open.spotify.com/track/5GCfrtUTMag66ZXcyBUwcd) | [Hiroshi Yoshimura](https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB) | [Green](https://open.spotify.com/album/07KJ48Y7pbXvz3Q4H44GZl) | 5:19 | 2023-02-17 |  |
 | [Shimmer and Glimmer](https://open.spotify.com/track/4ij6tfkN13bt1jfWGWXg9S) | [Chants](https://open.spotify.com/artist/1bboGoBc0rr3oXFdFlAjSC) | [Poly Pointillism](https://open.spotify.com/album/66zkrppo8OPQq9kMhxhzp0) | 2:10 | 2023-02-17 | 2024-08-12 |
 | [Shimmer and Glimmer](https://open.spotify.com/track/4w7JDDgv13YI0ZiIwplRSy) | [Chants](https://open.spotify.com/artist/1bboGoBc0rr3oXFdFlAjSC) | [Poly Pointillism](https://open.spotify.com/album/7zmMRLwzf3PPnzEBWI2cLi) | 2:10 | 2023-02-17 | 2024-03-31 |
+| [Side Two](https://open.spotify.com/track/3pF1nA7Yman56XhJrVx619) | [Submotion Orchestra](https://open.spotify.com/artist/3ceOFG1q86nQVpJliylpgA) | [Side Two](https://open.spotify.com/album/41tCgU8N21F069SHpUn9CI) | 5:27 | 2024-10-04 |  |
 | [Silhouettes \(I, II, III\)](https://open.spotify.com/track/2D4VTAyHTFegKvcw9oRZhX) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Elaenia](https://open.spotify.com/album/51QBkcL7S3KYdXSSA0zM9R) | 10:42 | 2023-02-17 |  |
 | [Sister](https://open.spotify.com/track/2StEq5J2bCq5JiwCKbansz) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [Sister](https://open.spotify.com/album/4INuwtV1B2dNCUbFkUXtFL) | 4:28 | 2023-02-17 |  |
 | [Sister Species](https://open.spotify.com/track/0xi81plszmA40tDw7cefN1) | [Holly Waxwing](https://open.spotify.com/artist/65vLeQ3wfcwF6NJobtlpBv) | [Meridians](https://open.spotify.com/album/0F5Aw2ovWdzcW7by2vEToC) | 5:04 | 2023-02-17 |  |
@@ -205,7 +206,7 @@
 | [Too Far](https://open.spotify.com/track/4bXwtTkkedf9RHndi65kcC) | [obli](https://open.spotify.com/artist/5bVwCv4C9KQXdUVTCVSjy4) | [Too Far](https://open.spotify.com/album/4cGbgxMQWj4KD99pLSVfdF) | 4:26 | 2023-02-17 |  |
 | [Treat Em Right \- Boards of Canada Remix Instrumental](https://open.spotify.com/track/3AETAMXWqZTE1ezv2G8bzG) | [Nevermen](https://open.spotify.com/artist/09P3wPH0MvtLnhwfbtzrRq), [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Treat Em Right \(Boards Of Canada Remix\)](https://open.spotify.com/album/3biP5TpmbP1eQBjnMVo2cm) | 4:29 | 2023-02-17 |  |
 | [Tropic Air](https://open.spotify.com/track/2owNgQt1ScFjfm7rjFUEuX) | [RUMTUM](https://open.spotify.com/artist/6RnzEFYNyKinHv6r86yeBI) | [Isles in Indigo](https://open.spotify.com/album/2Eb8ILQvNTEJ1JpjxPfHIc) | 3:44 | 2023-02-17 | 2024-04-19 |
-| [Tropic Air](https://open.spotify.com/track/3myrvhxZL6nf2UPOYt9TiQ) | [RUMTUM](https://open.spotify.com/artist/6RnzEFYNyKinHv6r86yeBI) | [Tropic Air](https://open.spotify.com/album/3uxmV2Ce5KiIcZXgDlBuOh) | 3:44 | 2023-02-17 |  |
+| [Tropic Air](https://open.spotify.com/track/3myrvhxZL6nf2UPOYt9TiQ) | [RUMTUM](https://open.spotify.com/artist/6RnzEFYNyKinHv6r86yeBI) | [Tropic Air](https://open.spotify.com/album/3uxmV2Ce5KiIcZXgDlBuOh) | 3:44 | 2023-02-17 | 2024-10-05 |
 | [Truffles Sprinkles](https://open.spotify.com/track/6IcvrVg1YFoLGH6mcuZtZL) | [Salamanda](https://open.spotify.com/artist/2ABEVwxsESCBsCBjN6qFru) | [Truffles Sprinkles](https://open.spotify.com/album/1UtC4DLLQyHEFPHO7AM0hS) | 4:11 | 2023-02-17 |  |
 | [Trusted](https://open.spotify.com/track/0lX858dF2YgUxNEUcgN8Gi) | [machìna](https://open.spotify.com/artist/0WOOrXTvgnjErVjsXSOOxn) | [Trusted EP](https://open.spotify.com/album/3fXh9MA7D3t2T4ir3R2tB9) | 3:14 | 2023-02-17 |  |
 | [Two Dots](https://open.spotify.com/track/3NcOlyaj8fEPbVfvNOKeaD) | [Lusine](https://open.spotify.com/artist/2fMe9lZs5HGGOwh8cMSIub) | [A Certain Distance](https://open.spotify.com/album/46mWSylF7wmYKSACYkkjNf) | 4:38 | 2023-02-17 |  |

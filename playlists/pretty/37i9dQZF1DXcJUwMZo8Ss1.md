@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcJUwMZo8Ss1.md) - [plain]
 
 > Find out the hottest tracks in the UAE\. Cover: Sabrina Carpenter
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,452 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,461 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcJUwMZo8Ss1.md) - [plain]
 | 34 | [i like the way you kiss me](https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [i like the way you kiss me](https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z) | 2:22 |
 | 35 | [808](https://open.spotify.com/track/6q2MPZVa5Mb5PjJEVUWvYK) | [DJ Bliss](https://open.spotify.com/artist/4SePAG9OlC4tupADxTPs9s), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [808](https://open.spotify.com/album/0TMLxS4EwK3d1qgjXZ6AOI) | 2:21 |
 | 36 | [Espresso](https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Espresso](https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4) | 2:55 |
-| 37 | [Popular \(with Playboi Carti & Madonna\)](https://open.spotify.com/track/7GUhiAHLoVy1V8ucQuZ3CB) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [The Highlights \- Deluxe](https://open.spotify.com/album/18sR8zHx4zsVJUI4bHWuPC) | 3:35 |
+| 37 | [Popular \(with Playboi Carti & Madonna\)](https://open.spotify.com/track/7GUhiAHLoVy1V8ucQuZ3CB) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [The Highlights \(Deluxe\)](https://open.spotify.com/album/18sR8zHx4zsVJUI4bHWuPC) | 3:35 |
 | 38 | [Aasa Kooda \- From "Think Indie"](https://open.spotify.com/track/0MTdYgTZ25sLCO6kVnDoje) | [Sai Abhyankkar](https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc), [Sai Smriti](https://open.spotify.com/artist/139FRgoVcJ82jogPttiWcc) | [Aasa Kooda \(From "Think Indie"\)](https://open.spotify.com/album/4AGLzJHGevDOnuHsQ0gxO5) | 3:35 |
 | 39 | [Water](https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Water](https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw) | 3:20 |
 | 40 | [كلام عينيه](https://open.spotify.com/track/6g95dK7o7vVh8ZCnDAseU5) | [Sherine](https://open.spotify.com/artist/2Wk167T0fY1fABsHM5qFcI) | [نساى](https://open.spotify.com/album/1aCq7XjXXVc3WxPYYUrbeP) | 3:55 |

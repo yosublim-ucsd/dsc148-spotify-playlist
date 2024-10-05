@@ -1,13 +1,29 @@
 {
   "description": "As\u00ed suena la m\u00fasica urbana de Panam\u00e1 hoy. Foto: Barbel",
-  "num_followers": 120735,
+  "num_followers": 120774,
   "original_name": "Flow Panam\u00e1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvoTIgAAAAB6TvtrGBUvUyNbyC9TsoF8",
+  "snapshot_id": "Zv9oQAAAAABJ+MskvPIFMoQMxhDUVE97",
   "tracks": [
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Coexistencia",
+        "url": "https://open.spotify.com/album/2rFhnxpo2YKEyUnqo5REIX"
+      },
+      "artists": [
+        {
+          "name": "BARBEL",
+          "url": "https://open.spotify.com/artist/6oYwraA8pyfDH4Otny6ooZ"
+        }
+      ],
+      "duration_ms": 150577,
+      "name": "Cuarentena",
+      "url": "https://open.spotify.com/track/5xISuVLHn3eobzZUsyzIDZ"
+    },
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
@@ -65,30 +81,6 @@
       "url": "https://open.spotify.com/track/5pVJ3IlnpIorU44oXizzG5"
     },
     {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
-        "name": "Parchecito (Remix)",
-        "url": "https://open.spotify.com/album/61tU9TRC76dXYRYzfmoequ"
-      },
-      "artists": [
-        {
-          "name": "Makano",
-          "url": "https://open.spotify.com/artist/5F73ZVq8ivLhsYF2pGg4Fc"
-        },
-        {
-          "name": "Bayriton",
-          "url": "https://open.spotify.com/artist/29fcEFHRcOhfTYXvS8POPV"
-        },
-        {
-          "name": "Gustavo Elis",
-          "url": "https://open.spotify.com/artist/2MmmFlTRNXxmrat4kdglT4"
-        }
-      ],
-      "duration_ms": 191128,
-      "name": "Parchecito (Remix)",
-      "url": "https://open.spotify.com/track/2MECt4ADCKVxGijkAxUIbH"
-    },
-    {
       "added_at": "2024-09-30 02:55:30",
       "album": {
         "name": "Fans",
@@ -107,22 +99,6 @@
       "duration_ms": 168445,
       "name": "Fans",
       "url": "https://open.spotify.com/track/16QsGYythDEi35Pr2I7uLC"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
-        "name": "RIO",
-        "url": "https://open.spotify.com/album/1NT5O5w81WoYyOU233kn6i"
-      },
-      "artists": [
-        {
-          "name": "BCA",
-          "url": "https://open.spotify.com/artist/4KXIxHcPgLB1xiPXZHlqxf"
-        }
-      ],
-      "duration_ms": 167000,
-      "name": "RIO",
-      "url": "https://open.spotify.com/track/3FyLmihMU6uQ8DZ8haZWe0"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -193,24 +169,24 @@
       "url": "https://open.spotify.com/track/2H5lq3Gn1t7FBX5l4as2im"
     },
     {
-      "added_at": "2024-09-20 04:00:00",
+      "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Te Vas",
-        "url": "https://open.spotify.com/album/6XYX6pdP67mlrAfTBfkZAN"
+        "name": "GROSERIA",
+        "url": "https://open.spotify.com/album/5DemjrjVcPNJtzmt2bQfUW"
       },
       "artists": [
         {
-          "name": "At' Fat",
-          "url": "https://open.spotify.com/artist/455JBMYIT1lWf1Djj4rDc7"
+          "name": "BCA",
+          "url": "https://open.spotify.com/artist/4KXIxHcPgLB1xiPXZHlqxf"
         },
         {
-          "name": "Makano",
-          "url": "https://open.spotify.com/artist/5F73ZVq8ivLhsYF2pGg4Fc"
+          "name": "Maxiolly",
+          "url": "https://open.spotify.com/artist/6BYNqaolBRE6cHA707Sl0a"
         }
       ],
-      "duration_ms": 180000,
-      "name": "Te Vas",
-      "url": "https://open.spotify.com/track/591VEQvLB3OKAjDM1nOOae"
+      "duration_ms": 163301,
+      "name": "GROSERIA",
+      "url": "https://open.spotify.com/track/3Z2xYWz3Eq3Hefk9MFLPxA"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -277,42 +253,6 @@
       "url": "https://open.spotify.com/track/5IWsYLhoYS1kTaMh2bVnhz"
     },
     {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
-        "name": "Tu Traici\u00f3n",
-        "url": "https://open.spotify.com/album/23zddyJgHjyJIWldCJBYJX"
-      },
-      "artists": [
-        {
-          "name": "At' Fat",
-          "url": "https://open.spotify.com/artist/455JBMYIT1lWf1Djj4rDc7"
-        },
-        {
-          "name": "Aspirante",
-          "url": "https://open.spotify.com/artist/0lsWSzy0GnThN26ko4tCMf"
-        }
-      ],
-      "duration_ms": 190909,
-      "name": "Tu Traici\u00f3n",
-      "url": "https://open.spotify.com/track/1RbQZ3W5fsve8oAF7ui96y"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
-        "name": "Humo & Party",
-        "url": "https://open.spotify.com/album/1QDMWYQWOGEAhR0xzQ4b1N"
-      },
-      "artists": [
-        {
-          "name": "Jorkan",
-          "url": "https://open.spotify.com/artist/7LCgsRll55YeMXV0LGYYCm"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "Humo & Party",
-      "url": "https://open.spotify.com/track/5rsan8lppmmLdAd6pEhRiQ"
-    },
-    {
       "added_at": "2024-08-23 04:00:00",
       "album": {
         "name": "FAVELA",
@@ -369,28 +309,28 @@
       "url": "https://open.spotify.com/track/3k09BifCNcHUNKHNmkNv6G"
     },
     {
-      "added_at": "2024-09-20 04:00:00",
+      "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Exclu$ivo",
-        "url": "https://open.spotify.com/album/1k6gftNAi1M6kRnxrTxC1G"
+        "name": "OTRA LIGA",
+        "url": "https://open.spotify.com/album/5OFRwSBvjgYvdJP4aJ4Puk"
       },
       "artists": [
         {
-          "name": "Eriky",
-          "url": "https://open.spotify.com/artist/4yAUOM9VITseWhLAUk7E1r"
+          "name": "Shen",
+          "url": "https://open.spotify.com/artist/1dRtmjJQURdArwFrsUugZm"
         },
         {
-          "name": "Eiby",
-          "url": "https://open.spotify.com/artist/09hiuib0jApNPaf9sDXlSn"
+          "name": "Kenny Man",
+          "url": "https://open.spotify.com/artist/6SGvRyZuaSuWmP6IWUKpGf"
         },
         {
-          "name": "Real Boss",
-          "url": "https://open.spotify.com/artist/5Tt8mIEodxHYHf4UZPZohf"
+          "name": "Rythmy",
+          "url": "https://open.spotify.com/artist/7k5FrnV0zp3FYjTXUHFUP4"
         }
       ],
-      "duration_ms": 246953,
-      "name": "Exclu$ivo",
-      "url": "https://open.spotify.com/track/3yk9eoK5VagUA9zfTaRnK6"
+      "duration_ms": 159157,
+      "name": "OTRA LIGA",
+      "url": "https://open.spotify.com/track/1GgE3Et7kx551FNJIy2xKA"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -443,22 +383,6 @@
       "duration_ms": 198718,
       "name": "Energias",
       "url": "https://open.spotify.com/track/2mfuy75A61Qnx3qApmZWMt"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
-        "name": "CAMAVINGA",
-        "url": "https://open.spotify.com/album/1s7QRjvk34afjpscR1vnc6"
-      },
-      "artists": [
-        {
-          "name": "T.O.T",
-          "url": "https://open.spotify.com/artist/0KEa1ChgXvRCPL9Jju7cbw"
-        }
-      ],
-      "duration_ms": 106000,
-      "name": "CAMAVINGA",
-      "url": "https://open.spotify.com/track/2ym5HGarbFQOAs7JP9EMqj"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -559,26 +483,6 @@
       "duration_ms": 234057,
       "name": "Mojaita",
       "url": "https://open.spotify.com/track/7JHUlJCUhUvMLNGsrDf4K1"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
-        "name": "Mexicano",
-        "url": "https://open.spotify.com/album/5uwsm1fHlt5xPJp1BRQgyx"
-      },
-      "artists": [
-        {
-          "name": "Don Pablo Mures",
-          "url": "https://open.spotify.com/artist/4YcotSTsnWhSSizEgJlH5k"
-        },
-        {
-          "name": "Eiby",
-          "url": "https://open.spotify.com/artist/09hiuib0jApNPaf9sDXlSn"
-        }
-      ],
-      "duration_ms": 200024,
-      "name": "Mexicano",
-      "url": "https://open.spotify.com/track/1m5l1h26xuPIdEFIPNwGnH"
     },
     {
       "added_at": "2024-02-15 17:30:32",

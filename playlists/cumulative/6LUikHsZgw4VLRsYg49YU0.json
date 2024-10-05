@@ -3019,6 +3019,28 @@
     },
     {
       "album": {
+        "name": "bLACKbLUE",
+        "url": "https://open.spotify.com/album/1ulr9SX47HJ1SNRvGPFOli"
+      },
+      "artists": [
+        {
+          "name": "Hiroyuki Sawano",
+          "url": "https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y"
+        },
+        {
+          "name": "Awich",
+          "url": "https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200053,
+      "name": "Twin Fates",
+      "url": "https://open.spotify.com/track/6B2JgQ8k7cLhuyJ50TtFaH"
+    },
+    {
+      "album": {
         "name": "Belle (Original Motion Picture Soundtrack) [English Edition]",
         "url": "https://open.spotify.com/album/7MK9ztclhDon7AgJroo6l4"
       },

@@ -1444,10 +1444,36 @@
       ],
       "date_added": "2024-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 161655,
       "name": "Alibi (with Pabllo Vittar & Yseult)",
       "url": "https://open.spotify.com/track/5496lks6V3fh1mZAB6IAap"
+    },
+    {
+      "album": {
+        "name": "Alibi (with Pabllo Vittar & Yseult)",
+        "url": "https://open.spotify.com/album/4AobWNA72kqOymcHxjhQb7"
+      },
+      "artists": [
+        {
+          "name": "Sevdaliza",
+          "url": "https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie"
+        },
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        },
+        {
+          "name": "Yseult",
+          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161655,
+      "name": "Alibi (with Pabllo Vittar & Yseult)",
+      "url": "https://open.spotify.com/track/6G15l720kBWvIQZyoEJEYE"
     },
     {
       "album": {
@@ -3258,7 +3284,7 @@
       ],
       "date_added": "2024-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 207347,
       "name": "Be Mine",
       "url": "https://open.spotify.com/track/3LWVXp636uLT356Rj08Jaz"
@@ -6780,7 +6806,7 @@
       ],
       "date_added": "2024-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 201230,
       "name": "Combin Rom",
       "url": "https://open.spotify.com/track/2w1L0bFNsy6fDEX7KiQ62S"
@@ -10622,7 +10648,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-02",
+      "date_removed": null,
       "duration_ms": 158740,
       "name": "Fana",
       "url": "https://open.spotify.com/track/1eln2C07r6xDo06kErYrFn"
@@ -17182,7 +17208,7 @@
       ],
       "date_added": "2024-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 166666,
       "name": "Las-o a\u0219a",
       "url": "https://open.spotify.com/track/0I0hHI96Gl0Q7xE3EWeZLG"
@@ -20760,7 +20786,7 @@
       ],
       "date_added": "2024-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 177598,
       "name": "Move",
       "url": "https://open.spotify.com/track/1BJJbSX6muJVF2AK7uH1x4"
@@ -21884,7 +21910,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-04",
+      "date_removed": null,
       "duration_ms": 163723,
       "name": "NOPTILE ALBASTRE - Master Edition",
       "url": "https://open.spotify.com/track/7zOSW5YiUFBXIvrKs4RInV"
@@ -23594,7 +23620,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-02",
+      "date_removed": null,
       "duration_ms": 210811,
       "name": "Papusa Barbie",
       "url": "https://open.spotify.com/track/5hlKmxQyK8TXVsuUBY0ZLo"
@@ -29284,6 +29310,24 @@
       "duration_ms": 247160,
       "name": "Something Just Like This",
       "url": "https://open.spotify.com/track/6RUKPb4LETWmmr3iAEQktW"
+    },
+    {
+      "album": {
+        "name": "Spania",
+        "url": "https://open.spotify.com/album/6of64Cn0GSvyv3lxXMNIzc"
+      },
+      "artists": [
+        {
+          "name": "Dani Mocanu",
+          "url": "https://open.spotify.com/artist/60KR2lVVoYd6GIcfLoUjPI"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159194,
+      "name": "Spania",
+      "url": "https://open.spotify.com/track/6YnNRZZH53YVue4gpk7jYQ"
     },
     {
       "album": {

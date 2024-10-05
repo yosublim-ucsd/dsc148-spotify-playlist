@@ -432,7 +432,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 271875,
       "name": "Amp Service",
       "url": "https://open.spotify.com/track/2D3MaJH9pGk816fvn4TAfQ"
@@ -454,6 +454,24 @@
       "duration_ms": 298226,
       "name": "Andiamo",
       "url": "https://open.spotify.com/track/0GPqCGCznoaNLVdW59HYMV"
+    },
+    {
+      "album": {
+        "name": "Angry Elektro",
+        "url": "https://open.spotify.com/album/0rIvRGJNz9ysf8zlb2Oixq"
+      },
+      "artists": [
+        {
+          "name": "Extrawelt",
+          "url": "https://open.spotify.com/artist/3VRvi42U8SsiT4YKP5LNCB"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 370237,
+      "name": "Angry Elektro",
+      "url": "https://open.spotify.com/track/3Jfla0mzJMN37SlT6Q1vod"
     },
     {
       "album": {
@@ -2021,6 +2039,28 @@
     },
     {
       "album": {
+        "name": "Say",
+        "url": "https://open.spotify.com/album/4djFEArMg3PsHqIHxQmtXO"
+      },
+      "artists": [
+        {
+          "name": "Memphis LK",
+          "url": "https://open.spotify.com/artist/7z3XgqpRYdNJ7RvEUlYaUe"
+        },
+        {
+          "name": "DJ BORING",
+          "url": "https://open.spotify.com/artist/3MkIU5jhXTMK9pYQTRVI6p"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241777,
+      "name": "Don't Touch Me Baby",
+      "url": "https://open.spotify.com/track/71AfT3Bewb71c8108NgOMU"
+    },
+    {
+      "album": {
         "name": "Dreaming Still",
         "url": "https://open.spotify.com/album/2qjqxXYfAeJIpIsq79UDFC"
       },
@@ -2138,7 +2178,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 328820,
       "name": "Entombed in Ice (Young Marco Remix)",
       "url": "https://open.spotify.com/track/386jozKdS5w8xNYEiNYTxH"
@@ -2292,7 +2332,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 467455,
       "name": "Feel The Rush - Mr. G's Love Mantra",
       "url": "https://open.spotify.com/track/11Hu1CVjAl4hDFi5hm6uG5"
@@ -2589,6 +2629,28 @@
     },
     {
       "album": {
+        "name": "Ganzfeld",
+        "url": "https://open.spotify.com/album/3itAWXq1cWcvMe6w6l5v7g"
+      },
+      "artists": [
+        {
+          "name": "Objekt",
+          "url": "https://open.spotify.com/artist/44z1nVVXZE8d4njcQmQLWc"
+        },
+        {
+          "name": "Piezo",
+          "url": "https://open.spotify.com/artist/4vr49Ycb253qEyUuXnlYaM"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 390000,
+      "name": "Ganzfeld - Piezo Remix",
+      "url": "https://open.spotify.com/track/0z0AWs9zLhkg7xKYrqjaYf"
+    },
+    {
+      "album": {
         "name": "Gbadolite B-Sides",
         "url": "https://open.spotify.com/album/3M5kKxofLNMyTLvUkJnmP7"
       },
@@ -2872,6 +2934,28 @@
       "duration_ms": 171000,
       "name": "GO AWFF",
       "url": "https://open.spotify.com/track/4mavsLIM2B5ZOrR5ob2xhZ"
+    },
+    {
+      "album": {
+        "name": "Fragments",
+        "url": "https://open.spotify.com/album/2qj7qjzvBiSTCNSvNb6wFP"
+      },
+      "artists": [
+        {
+          "name": "Blck Mamba",
+          "url": "https://open.spotify.com/artist/7IY7Mk9PhK0ttxbkdAUDhC"
+        },
+        {
+          "name": "TT The Artist",
+          "url": "https://open.spotify.com/artist/1T6Em6UJ7pSdgXw5V72YHr"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217125,
+      "name": "Go Crazy",
+      "url": "https://open.spotify.com/track/6mH4rmjZg4jC0ONIqTWDnU"
     },
     {
       "album": {
@@ -3428,7 +3512,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 230049,
       "name": "HOW U FEELIN (DUB MIX)",
       "url": "https://open.spotify.com/track/0I4UOALVpd0BghHRJUGpMr"
@@ -3610,6 +3694,28 @@
       "duration_ms": 176640,
       "name": "I Miss The Club",
       "url": "https://open.spotify.com/track/1kGXL1YKRNgmTM1niMUsyO"
+    },
+    {
+      "album": {
+        "name": "I Need A Modem",
+        "url": "https://open.spotify.com/album/3GmVK4P6rNCToh5Bg6rKEl"
+      },
+      "artists": [
+        {
+          "name": "Khalab",
+          "url": "https://open.spotify.com/artist/7y31SHFbPMfSy2pJbeYQI3"
+        },
+        {
+          "name": "Kasai Allstars",
+          "url": "https://open.spotify.com/artist/391GEzsFayFVG5aGEBkrtq"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229380,
+      "name": "I Need A Modem",
+      "url": "https://open.spotify.com/track/2BK6cFk1utC4ZI3BnQC3eH"
     },
     {
       "album": {
@@ -4121,6 +4227,24 @@
     },
     {
       "album": {
+        "name": "Krylon",
+        "url": "https://open.spotify.com/album/3VdkF0PvW7YXT9ik1LILV1"
+      },
+      "artists": [
+        {
+          "name": "Dorothys Fortress",
+          "url": "https://open.spotify.com/artist/6VLxD1WKg1ykIzBC9nuDAN"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295680,
+      "name": "Krylon",
+      "url": "https://open.spotify.com/track/5DE5Rd22uuo6XxDZN4MkyE"
+    },
+    {
+      "album": {
         "name": "L-EV8",
         "url": "https://open.spotify.com/album/1me51JkWUzELdWToBRm0zc"
       },
@@ -4460,7 +4584,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 452697,
       "name": "Merpa",
       "url": "https://open.spotify.com/track/6TmHSrZTZY48z3OvSxBS9L"
@@ -4562,7 +4686,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 296170,
       "name": "My Dazed Friend",
       "url": "https://open.spotify.com/track/097wfbHE5h2rHtTA0KWIar"
@@ -4744,6 +4868,24 @@
       "duration_ms": 187445,
       "name": "Nothing Else",
       "url": "https://open.spotify.com/track/4gMyCZA8aerwcDk6g4kpT0"
+    },
+    {
+      "album": {
+        "name": "Number (DJ-Kicks)",
+        "url": "https://open.spotify.com/album/2xomwLXH31AobXFz6OiwRr"
+      },
+      "artists": [
+        {
+          "name": "Steven Julien",
+          "url": "https://open.spotify.com/artist/37pVxtkN0BLmY6QOliGkJK"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260367,
+      "name": "Number (DJ-Kicks)",
+      "url": "https://open.spotify.com/track/6oMItEYck563PsDgYkpO0S"
     },
     {
       "album": {
@@ -5132,7 +5274,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 401875,
       "name": "Poking Someone Else's Fire",
       "url": "https://open.spotify.com/track/6A9mu9OyHoNHV70VoVKSAE"
@@ -5220,6 +5362,36 @@
       "duration_ms": 280620,
       "name": "Pree Me (Chris Lorenzo Remix)",
       "url": "https://open.spotify.com/track/6X6LIhmk6XVblq7meVQ4Kn"
+    },
+    {
+      "album": {
+        "name": "Pressure Cumbia",
+        "url": "https://open.spotify.com/album/76dFWMX8K86rxpd5usNihV"
+      },
+      "artists": [
+        {
+          "name": "Florentino",
+          "url": "https://open.spotify.com/artist/1rhVQSyhxNOMN6RHi2sB44"
+        },
+        {
+          "name": "Alan Vega",
+          "url": "https://open.spotify.com/artist/2jlt5Z6VojDVMzSj1JHkcd"
+        },
+        {
+          "name": "MJ Nebreda",
+          "url": "https://open.spotify.com/artist/1h6b4y2ObngnFpgEwry7Fy"
+        },
+        {
+          "name": "Shygirl",
+          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153600,
+      "name": "Pressure Cumbia",
+      "url": "https://open.spotify.com/track/7lJpSczDgU2YDxyNmZsMRp"
     },
     {
       "album": {
@@ -5318,6 +5490,24 @@
       "duration_ms": 201606,
       "name": "Pulgueiro Baile",
       "url": "https://open.spotify.com/track/6STxAo5kKX2XWRFftsfeE0"
+    },
+    {
+      "album": {
+        "name": "Pull Up",
+        "url": "https://open.spotify.com/album/6SWDIQ7ig3uipY6NYAY6Pi"
+      },
+      "artists": [
+        {
+          "name": "Lunice",
+          "url": "https://open.spotify.com/artist/5I0593TTVPzkanWW8xsTns"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208500,
+      "name": "Pull Up",
+      "url": "https://open.spotify.com/track/4saRjwihATVCpaphNwC5QR"
     },
     {
       "album": {
@@ -5738,7 +5928,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 369344,
       "name": "Saturday Night",
       "url": "https://open.spotify.com/track/09kVCKFKnUZlMEE9iFfZoy"
@@ -5906,6 +6096,24 @@
       "duration_ms": 166974,
       "name": "Shake My Ass",
       "url": "https://open.spotify.com/track/2ef86L53IXDgx6iyIALdQS"
+    },
+    {
+      "album": {
+        "name": "SHELLAC",
+        "url": "https://open.spotify.com/album/3A0NU3KoG0k9U36b4S7e9b"
+      },
+      "artists": [
+        {
+          "name": "Leon Vynehall",
+          "url": "https://open.spotify.com/artist/2o7L9DNcmzocYll1o0GGTU"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231860,
+      "name": "SHELLAC - Edit",
+      "url": "https://open.spotify.com/track/2i9agRnat2vvCkp5PEsRfd"
     },
     {
       "album": {
@@ -6172,7 +6380,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 353052,
       "name": "Souk 96",
       "url": "https://open.spotify.com/track/7qivJP1yj2oIUyA7iGiuhM"
@@ -6320,7 +6528,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 332002,
       "name": "Stand Up",
       "url": "https://open.spotify.com/track/0lRMFznrQu9fUMyY4EeLKw"
@@ -6906,6 +7114,28 @@
       "duration_ms": 234441,
       "name": "Touch - Leonce Remix",
       "url": "https://open.spotify.com/track/2ktWS8sHNDJ7hgRmxDHsXb"
+    },
+    {
+      "album": {
+        "name": "THE TRAX",
+        "url": "https://open.spotify.com/album/108rUw41D3uYSnuAIlnebh"
+      },
+      "artists": [
+        {
+          "name": "MoMa Ready",
+          "url": "https://open.spotify.com/artist/5X6LaznpXYDwhSt5eirvRV"
+        },
+        {
+          "name": "Regal86",
+          "url": "https://open.spotify.com/artist/18BWZFP35cPhvqC66DJ613"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294306,
+      "name": "TRACK 5",
+      "url": "https://open.spotify.com/track/2s8KQ2Z0ybztYbWaruoClN"
     },
     {
       "album": {
@@ -7602,7 +7832,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 246466,
       "name": "WHISTLE TIP",
       "url": "https://open.spotify.com/track/3uYmhMx9L4bxkGeWSbJvII"

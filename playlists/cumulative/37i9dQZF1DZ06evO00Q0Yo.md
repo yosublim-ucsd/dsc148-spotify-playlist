@@ -2,7 +2,7 @@
 
 ### [This Is Flo Milli](https://open.spotify.com/playlist/37i9dQZF1DZ06evO00Q0Yo)
 
-> This is Flo Milli\. The essential tracks, all in one playlist.
+> This Is Flo Milli\. Los temas esenciales, todos en una lista.
 
 86 songs - 3 hr 58 min
 
@@ -42,7 +42,7 @@
 | [F'd Up \(feat\. Flo Milli\)](https://open.spotify.com/track/1tV2tvirWkLkBhj2y2j5ZU) | [Savannah Cristina](https://open.spotify.com/artist/7EsWLpczyTXU6zyfWt7ZkN), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [F'd Up \(feat\. Flo Milli\)](https://open.spotify.com/album/6D0Sma90a30imii8y1y0kN) | 3:09 | 2022-10-28 | 2024-03-17 |
 | [F.N.G.M.](https://open.spotify.com/track/1Dzr6fYP7xU0DHD4U7C6WG) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [You Still Here, Ho ?](https://open.spotify.com/album/42C76ZnwdWqEu6zs6NFW1A) | 1:54 | 2022-10-28 | 2023-11-11 |
 | [Fruit Loop](https://open.spotify.com/track/2vgoeRVrxhxuE7vvUSOVim) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Fruit Loop](https://open.spotify.com/album/1eGfr1AwGJ3bI2ONUhikpg) | 2:17 | 2023-07-29 |  |
-| [Goddess \(feat\. Flo Milli\)](https://open.spotify.com/track/415nBazKdZWwejNCNhkoqQ) | [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Where The Flowers Don't Die](https://open.spotify.com/album/0oKgiQKCek2KARB2vjo7Tf) | 2:28 | 2024-05-21 |  |
+| [Goddess \(feat\. Flo Milli\)](https://open.spotify.com/track/415nBazKdZWwejNCNhkoqQ) | [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Where The Flowers Don't Die](https://open.spotify.com/album/0oKgiQKCek2KARB2vjo7Tf) | 2:28 | 2024-05-21 | 2024-10-05 |
 | [Good](https://open.spotify.com/track/5wwF03ucQEDL2JO6aAUCSi) | [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq) | [Bleu Vandross 3](https://open.spotify.com/album/5gNVVayf3ReHePkP9HeDgz) | 2:42 | 2022-10-28 | 2023-07-09 |
 | [Got The Juice](https://open.spotify.com/track/4cDMiCvsWskTW4LHtZqscq) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Fine Ho, Stay](https://open.spotify.com/album/4tNtjyBBXMhGRwqOQTbh6i) | 1:47 | 2024-03-16 |  |
 | [HOT \(with Sean Paul & Flo Milli\) \- Remix](https://open.spotify.com/track/2uPfFGg18EsXxWR8m8I7O5) | [Pia Mia](https://open.spotify.com/artist/1BhWF9W2PngtPSyobKg0rP), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [HOT \(Remix\)](https://open.spotify.com/album/5LEpzGrWKZJDfSDd6Xccfp) | 3:25 | 2022-10-28 | 2024-03-23 |

@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "50 Years",
+        "url": "https://open.spotify.com/album/2xIu15pj34gpXGXchk48D6"
+      },
+      "artists": [
+        {
+          "name": "Hayd\u00e9",
+          "url": "https://open.spotify.com/artist/0fIXG1H4UrLacQO7viC5vu"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193813,
+      "name": "50 Years",
+      "url": "https://open.spotify.com/track/44e2wBM4lKjSCFoOjFtc9J"
+    },
+    {
+      "album": {
         "name": "5AM",
         "url": "https://open.spotify.com/album/50BDfvJzk82bU01qEjy02Q"
       },

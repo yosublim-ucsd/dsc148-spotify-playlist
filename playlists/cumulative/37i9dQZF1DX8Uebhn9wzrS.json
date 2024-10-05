@@ -3616,7 +3616,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 147272,
       "name": "Bird Eye",
       "url": "https://open.spotify.com/track/0Ag2FDxOVElHuBYn0BDYjQ"
@@ -11544,7 +11544,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-14",
+      "date_removed": null,
       "duration_ms": 139503,
       "name": "fight the flab",
       "url": "https://open.spotify.com/track/5NkFP4QgCvAA050xLpTxBk"
@@ -18628,7 +18628,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 112508,
       "name": "Levitate",
       "url": "https://open.spotify.com/track/0W92S1Fd3LrA7zxjPvMyD5"
@@ -22952,7 +22952,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 160000,
       "name": "Nattchill",
       "url": "https://open.spotify.com/track/3fHa2jk3OL2KtLTAFk2qst"
@@ -25002,6 +25002,28 @@
       "duration_ms": 85714,
       "name": "orchid",
       "url": "https://open.spotify.com/track/6bUKrVPt01nwmIC543H6fx"
+    },
+    {
+      "album": {
+        "name": "Orchids",
+        "url": "https://open.spotify.com/album/4soSzFXAu8rstK2p9bLy1D"
+      },
+      "artists": [
+        {
+          "name": "Jam'addict",
+          "url": "https://open.spotify.com/artist/0VzXnkUTwKDYznbgEvn3Ca"
+        },
+        {
+          "name": "luv pug",
+          "url": "https://open.spotify.com/artist/5oYQJceaUGHcz6d7TGry4q"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126857,
+      "name": "Orchids",
+      "url": "https://open.spotify.com/track/1VCvqlbVdacKqen5LH8vu7"
     },
     {
       "album": {
@@ -30591,6 +30613,28 @@
     },
     {
       "album": {
+        "name": "Sleepwalking",
+        "url": "https://open.spotify.com/album/23t8Dd1yV098PZsgel640c"
+      },
+      "artists": [
+        {
+          "name": "FLU JIVERS",
+          "url": "https://open.spotify.com/artist/2aLOsT7lgMGFs22JeXolng"
+        },
+        {
+          "name": "Lola",
+          "url": "https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135750,
+      "name": "Sleepwalking",
+      "url": "https://open.spotify.com/track/4kh3haCMUw8labM1PRRJYb"
+    },
+    {
+      "album": {
         "name": "PEACE",
         "url": "https://open.spotify.com/album/3JBEOeDCFn4VswlfoIAILD"
       },
@@ -31946,7 +31990,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 132000,
       "name": "Spring in winter",
       "url": "https://open.spotify.com/track/737FxPwt7KEzSIvE9XzCY3"
@@ -32290,7 +32334,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-25",
+      "date_removed": null,
       "duration_ms": 169691,
       "name": "Stoplight",
       "url": "https://open.spotify.com/track/4rl9BtI2ieHybBIVbjf1tG"

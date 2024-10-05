@@ -153,7 +153,7 @@
     },
     {
       "album": {
-        "name": "2BADGYALS",
+        "name": "2BADGYALZ",
         "url": "https://open.spotify.com/album/5Lx2hE5ENvPQJplNUXYxrC"
       },
       "artists": [
@@ -166,7 +166,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 101500,
-      "name": "2BADGYALS",
+      "name": "2BADGYALZ",
       "url": "https://open.spotify.com/track/2R5vY0DGyGkoW1Q13SNCzr"
     },
     {
@@ -10184,6 +10184,28 @@
       "duration_ms": 169363,
       "name": "Little Idiot",
       "url": "https://open.spotify.com/track/6W9k26vOGte8OWV5Aewghg"
+    },
+    {
+      "album": {
+        "name": "Live & Direct",
+        "url": "https://open.spotify.com/album/6cyktdv1fqQlrqwS6X0os1"
+      },
+      "artists": [
+        {
+          "name": "glaive",
+          "url": "https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565"
+        },
+        {
+          "name": "kurtains",
+          "url": "https://open.spotify.com/artist/7b2FbxYmnpGMPqDe04QmyP"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107089,
+      "name": "Live & Direct",
+      "url": "https://open.spotify.com/track/1AFB8RNDYOavAYKqAQoZFR"
     },
     {
       "album": {

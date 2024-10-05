@@ -1,6 +1,6 @@
 {
   "description": "This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord. Cover:  <a href=https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU?si=eMGAGfGpQsWF4Xx05Adw2g>Sunmisola Agbebi</a>",
-  "num_followers": 11067,
+  "num_followers": 11079,
   "original_name": "Redeemed",
   "owner": {
     "name": "Spotify",
@@ -269,26 +269,6 @@
       "url": "https://open.spotify.com/track/6RfDMsCx6fqjQONO9TzWIO"
     },
     {
-      "added_at": "2024-02-02 00:01:00",
-      "album": {
-        "name": "Emperor of the Universe",
-        "url": "https://open.spotify.com/album/3jglQn9MUN5mI9mLwKpidK"
-      },
-      "artists": [
-        {
-          "name": "Dunsin Oyekan",
-          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
-        },
-        {
-          "name": "Theophilus Sunday",
-          "url": "https://open.spotify.com/artist/5CRJcreFWIr5d3UsIc9aD6"
-        }
-      ],
-      "duration_ms": 965565,
-      "name": "Emperor of the Universe",
-      "url": "https://open.spotify.com/track/4ewwe3fstt2FezTYwZehvo"
-    },
-    {
       "added_at": "2024-09-13 00:01:00",
       "album": {
         "name": "Umbrella",
@@ -335,6 +315,26 @@
       "duration_ms": 188727,
       "name": "Umbrella",
       "url": "https://open.spotify.com/track/3WQqOfbWCiVSbJebeqdvxx"
+    },
+    {
+      "added_at": "2024-02-02 00:01:00",
+      "album": {
+        "name": "Emperor of the Universe",
+        "url": "https://open.spotify.com/album/3jglQn9MUN5mI9mLwKpidK"
+      },
+      "artists": [
+        {
+          "name": "Dunsin Oyekan",
+          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
+        },
+        {
+          "name": "Theophilus Sunday",
+          "url": "https://open.spotify.com/artist/5CRJcreFWIr5d3UsIc9aD6"
+        }
+      ],
+      "duration_ms": 965565,
+      "name": "Emperor of the Universe",
+      "url": "https://open.spotify.com/track/4ewwe3fstt2FezTYwZehvo"
     },
     {
       "added_at": "2024-04-26 00:01:00",
@@ -509,20 +509,24 @@
       "url": "https://open.spotify.com/track/08nS6fLDRnrMH9k5JxT6hr"
     },
     {
-      "added_at": "2024-05-03 00:01:00",
+      "added_at": "2024-09-27 00:01:00",
       "album": {
-        "name": "El-Roi",
-        "url": "https://open.spotify.com/album/6JNS9zkZHiyaTJTmBKqzHD"
+        "name": "Glory On The Other Side",
+        "url": "https://open.spotify.com/album/4cAYM1eOOFhKWgaHoWyrJo"
       },
       "artists": [
         {
-          "name": "Prinx Emmanuel",
-          "url": "https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz"
+          "name": "Folabi Nuel",
+          "url": "https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe"
+        },
+        {
+          "name": "Matt Redman",
+          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
         }
       ],
-      "duration_ms": 224070,
-      "name": "El-Roi",
-      "url": "https://open.spotify.com/track/16AsClB7Id63bSJRp4ThqG"
+      "duration_ms": 299871,
+      "name": "Glory On The Other Side",
+      "url": "https://open.spotify.com/track/0V4pcOAzmN6e4t9dLPlbmw"
     },
     {
       "added_at": "2024-03-08 00:01:00",
@@ -543,6 +547,22 @@
       "duration_ms": 181710,
       "name": "Good God II",
       "url": "https://open.spotify.com/track/19GRiA2ef367zIrmAm54e1"
+    },
+    {
+      "added_at": "2024-05-03 00:01:00",
+      "album": {
+        "name": "El-Roi",
+        "url": "https://open.spotify.com/album/6JNS9zkZHiyaTJTmBKqzHD"
+      },
+      "artists": [
+        {
+          "name": "Prinx Emmanuel",
+          "url": "https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz"
+        }
+      ],
+      "duration_ms": 224070,
+      "name": "El-Roi",
+      "url": "https://open.spotify.com/track/16AsClB7Id63bSJRp4ThqG"
     },
     {
       "added_at": "2024-03-01 00:01:00",
@@ -579,22 +599,26 @@
     {
       "added_at": "2024-09-27 00:01:00",
       "album": {
-        "name": "Glory On The Other Side",
-        "url": "https://open.spotify.com/album/4cAYM1eOOFhKWgaHoWyrJo"
+        "name": "My Jesus",
+        "url": "https://open.spotify.com/album/6UEazzBMYexzHKaoQVMvRl"
       },
       "artists": [
         {
-          "name": "Folabi Nuel",
-          "url": "https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe"
+          "name": "Anthem Worship",
+          "url": "https://open.spotify.com/artist/71LGmy4toAaXKJP7IK8xvG"
         },
         {
-          "name": "Matt Redman",
-          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
+          "name": "Remnant House",
+          "url": "https://open.spotify.com/artist/0oCYQlLFMypU2RxjCRvpgR"
+        },
+        {
+          "name": "Mass Anthem",
+          "url": "https://open.spotify.com/artist/0KVR8D2dx5Td8ONhNZRLkM"
         }
       ],
-      "duration_ms": 299871,
-      "name": "Glory On The Other Side",
-      "url": "https://open.spotify.com/track/0V4pcOAzmN6e4t9dLPlbmw"
+      "duration_ms": 199949,
+      "name": "My Jesus",
+      "url": "https://open.spotify.com/track/2ryEDwlc0i1KSjFXggX6hG"
     },
     {
       "added_at": "2024-06-14 00:01:00",
@@ -633,30 +657,6 @@
       "url": "https://open.spotify.com/track/6RatjnXFpxZJUIm4GJh124"
     },
     {
-      "added_at": "2024-09-27 00:01:00",
-      "album": {
-        "name": "My Jesus",
-        "url": "https://open.spotify.com/album/6UEazzBMYexzHKaoQVMvRl"
-      },
-      "artists": [
-        {
-          "name": "Anthem Worship",
-          "url": "https://open.spotify.com/artist/71LGmy4toAaXKJP7IK8xvG"
-        },
-        {
-          "name": "Remnant House",
-          "url": "https://open.spotify.com/artist/0oCYQlLFMypU2RxjCRvpgR"
-        },
-        {
-          "name": "Mass Anthem",
-          "url": "https://open.spotify.com/artist/0KVR8D2dx5Td8ONhNZRLkM"
-        }
-      ],
-      "duration_ms": 199949,
-      "name": "My Jesus",
-      "url": "https://open.spotify.com/track/2ryEDwlc0i1KSjFXggX6hG"
-    },
-    {
       "added_at": "2024-01-05 00:01:00",
       "album": {
         "name": "after all these years",
@@ -673,20 +673,20 @@
       "url": "https://open.spotify.com/track/3ruNtWNKVsgAZ4YF9ybSl6"
     },
     {
-      "added_at": "2024-09-06 00:01:00",
+      "added_at": "2024-08-16 00:01:00",
       "album": {
-        "name": "Hold On",
-        "url": "https://open.spotify.com/album/5IT0DNo7zHmPjhZdDDKxfS"
+        "name": "NO TURNING BACK",
+        "url": "https://open.spotify.com/album/0EPrh1j8nCXxkBEcLSRyID"
       },
       "artists": [
         {
-          "name": "K3ndrick",
-          "url": "https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5"
+          "name": "Gaise Baba",
+          "url": "https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo"
         }
       ],
-      "duration_ms": 165510,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/7u1TRg7Si7fgKy9TDQ3cj7"
+      "duration_ms": 127317,
+      "name": "NO TURNING BACK",
+      "url": "https://open.spotify.com/track/6PG6ax7e9yKzZ7whHsfWHJ"
     },
     {
       "added_at": "2024-06-07 00:01:00",
@@ -713,6 +713,22 @@
       "url": "https://open.spotify.com/track/3moHocFcyX5Ek77GoG0532"
     },
     {
+      "added_at": "2024-09-06 00:01:00",
+      "album": {
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/5IT0DNo7zHmPjhZdDDKxfS"
+      },
+      "artists": [
+        {
+          "name": "K3ndrick",
+          "url": "https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5"
+        }
+      ],
+      "duration_ms": 165510,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/7u1TRg7Si7fgKy9TDQ3cj7"
+    },
+    {
       "added_at": "2024-03-22 00:01:00",
       "album": {
         "name": "iZono Zami",
@@ -727,22 +743,6 @@
       "duration_ms": 319334,
       "name": "iZono Zami",
       "url": "https://open.spotify.com/track/43c0XDVLdVzxeu3lWrmxLp"
-    },
-    {
-      "added_at": "2024-08-16 00:01:00",
-      "album": {
-        "name": "NO TURNING BACK",
-        "url": "https://open.spotify.com/album/0EPrh1j8nCXxkBEcLSRyID"
-      },
-      "artists": [
-        {
-          "name": "Gaise Baba",
-          "url": "https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo"
-        }
-      ],
-      "duration_ms": 127317,
-      "name": "NO TURNING BACK",
-      "url": "https://open.spotify.com/track/6PG6ax7e9yKzZ7whHsfWHJ"
     },
     {
       "added_at": "2024-01-26 00:01:00",

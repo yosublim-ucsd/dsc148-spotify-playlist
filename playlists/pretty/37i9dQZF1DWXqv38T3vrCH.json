@@ -1,6 +1,6 @@
 {
   "description": "Hard rock and hair-raising tracks for a head-banging halloween ",
-  "num_followers": 328817,
+  "num_followers": 329229,
   "original_name": "Headbanger Halloween",
   "owner": {
     "name": "Spotify",
@@ -643,22 +643,6 @@
     {
       "added_at": "2023-10-13 04:01:00",
       "album": {
-        "name": "Baby You're a Haunted House",
-        "url": "https://open.spotify.com/album/3OyBzPBEniYPTNgIIHfTXS"
-      },
-      "artists": [
-        {
-          "name": "Gerard Way",
-          "url": "https://open.spotify.com/artist/4YZ5ECfbM2xSTSQTJGBbO5"
-        }
-      ],
-      "duration_ms": 166361,
-      "name": "Baby You're a Haunted House",
-      "url": "https://open.spotify.com/track/4c38yr2PflGI2DSIzqsnmF"
-    },
-    {
-      "added_at": "2023-10-13 04:01:00",
-      "album": {
         "name": "Collection 2",
         "url": "https://open.spotify.com/album/7dUrduNuWHYQ8pdDKtBedD"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 112426,
       "name": "Halloween",
       "url": "https://open.spotify.com/track/5h5reMGNpL19vdn5wMkbNn"
+    },
+    {
+      "added_at": "2023-10-13 04:01:00",
+      "album": {
+        "name": "Baby You're a Haunted House",
+        "url": "https://open.spotify.com/album/3OyBzPBEniYPTNgIIHfTXS"
+      },
+      "artists": [
+        {
+          "name": "Gerard Way",
+          "url": "https://open.spotify.com/artist/4YZ5ECfbM2xSTSQTJGBbO5"
+        }
+      ],
+      "duration_ms": 166361,
+      "name": "Baby You're a Haunted House",
+      "url": "https://open.spotify.com/track/4c38yr2PflGI2DSIzqsnmF"
     },
     {
       "added_at": "2023-10-13 04:01:00",
@@ -707,22 +707,6 @@
     {
       "added_at": "2023-10-13 04:01:00",
       "album": {
-        "name": "Death By Rock And Roll",
-        "url": "https://open.spotify.com/album/2ysgEIHY4aOMMbbu0uV6ey"
-      },
-      "artists": [
-        {
-          "name": "The Pretty Reckless",
-          "url": "https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq"
-        }
-      ],
-      "duration_ms": 234466,
-      "name": "Death By Rock And Roll",
-      "url": "https://open.spotify.com/track/6ISZ6sKcNBdYJS7XYHm5cV"
-    },
-    {
-      "added_at": "2023-10-13 04:01:00",
-      "album": {
         "name": "Scary Monsters (And Super Creeps) [2017 Remaster]",
         "url": "https://open.spotify.com/album/5fxvWHvIDPIALfTfRiwyB0"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 313453,
       "name": "Scary Monsters (And Super Creeps) - 2017 Remaster",
       "url": "https://open.spotify.com/track/4mm9p1NTNBYnyA89jfss3Z"
+    },
+    {
+      "added_at": "2023-10-13 04:01:00",
+      "album": {
+        "name": "Death By Rock And Roll",
+        "url": "https://open.spotify.com/album/2ysgEIHY4aOMMbbu0uV6ey"
+      },
+      "artists": [
+        {
+          "name": "The Pretty Reckless",
+          "url": "https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq"
+        }
+      ],
+      "duration_ms": 234466,
+      "name": "Death By Rock And Roll",
+      "url": "https://open.spotify.com/track/6ISZ6sKcNBdYJS7XYHm5cV"
     },
     {
       "added_at": "2023-10-13 04:01:00",
@@ -931,22 +931,6 @@
     {
       "added_at": "2023-10-13 04:01:00",
       "album": {
-        "name": "Don't Wait 'Til Tomorrow",
-        "url": "https://open.spotify.com/album/20XIFoAtLYdFGnDoqNwnbf"
-      },
-      "artists": [
-        {
-          "name": "YONAKA",
-          "url": "https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu"
-        }
-      ],
-      "duration_ms": 185840,
-      "name": "Creature",
-      "url": "https://open.spotify.com/track/3KFcKLDTG0KuWw3CCAdFFR"
-    },
-    {
-      "added_at": "2023-10-13 04:01:00",
-      "album": {
         "name": "The Triumph of King Freak (A Crypt of Preservation and Superstition)",
         "url": "https://open.spotify.com/album/7mdbCagfxurdPgceZXaccP"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 247040,
       "name": "The Triumph of King Freak (A Crypt of Preservation and Superstition)",
       "url": "https://open.spotify.com/track/5mf3p8pyhLHoS4EWeD354I"
+    },
+    {
+      "added_at": "2023-10-13 04:01:00",
+      "album": {
+        "name": "Don't Wait 'Til Tomorrow",
+        "url": "https://open.spotify.com/album/20XIFoAtLYdFGnDoqNwnbf"
+      },
+      "artists": [
+        {
+          "name": "YONAKA",
+          "url": "https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu"
+        }
+      ],
+      "duration_ms": 185840,
+      "name": "Creature",
+      "url": "https://open.spotify.com/track/3KFcKLDTG0KuWw3CCAdFFR"
     },
     {
       "added_at": "2023-10-13 04:01:00",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2023-10-13 04:01:00",
       "album": {
-        "name": "Devil Inside",
-        "url": "https://open.spotify.com/album/42VxwbDQ4YorE3wuS7ofYq"
-      },
-      "artists": [
-        {
-          "name": "Wednesday 13",
-          "url": "https://open.spotify.com/artist/6Cvzf33JDzCIw2eJU8npQo"
-        }
-      ],
-      "duration_ms": 314357,
-      "name": "Devil Inside",
-      "url": "https://open.spotify.com/track/2kzVZTBUQG3CzuFTUknaRo"
-    },
-    {
-      "added_at": "2023-10-13 04:01:00",
-      "album": {
         "name": "Am I Evil?",
         "url": "https://open.spotify.com/album/3Kq7zsHEu1aueV2ukmjwKA"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 505146,
       "name": "Am I Evil?",
       "url": "https://open.spotify.com/track/1bqxO1wuMODj6x7fiCCovB"
+    },
+    {
+      "added_at": "2023-10-13 04:01:00",
+      "album": {
+        "name": "Devil Inside",
+        "url": "https://open.spotify.com/album/42VxwbDQ4YorE3wuS7ofYq"
+      },
+      "artists": [
+        {
+          "name": "Wednesday 13",
+          "url": "https://open.spotify.com/artist/6Cvzf33JDzCIw2eJU8npQo"
+        }
+      ],
+      "duration_ms": 314357,
+      "name": "Devil Inside",
+      "url": "https://open.spotify.com/track/2kzVZTBUQG3CzuFTUknaRo"
     },
     {
       "added_at": "2023-10-13 04:01:00",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2023-10-13 04:01:00",
       "album": {
-        "name": "Fangs",
-        "url": "https://open.spotify.com/album/53sP17YO0wLNr6dqqQ362O"
-      },
-      "artists": [
-        {
-          "name": "Snaggletooth",
-          "url": "https://open.spotify.com/artist/0xjDbJ1jJAQTW5bc51cA1n"
-        }
-      ],
-      "duration_ms": 212957,
-      "name": "Fangs",
-      "url": "https://open.spotify.com/track/5CmHmD89cmI1F7XiNXhvYT"
-    },
-    {
-      "added_at": "2023-10-13 04:01:00",
-      "album": {
         "name": "Ghostbusters (Ultimate Version)",
         "url": "https://open.spotify.com/album/4ETYCLvy5jSGoz59UE9Mvd"
       },
@@ -1259,18 +1243,50 @@
     {
       "added_at": "2023-10-13 04:01:00",
       "album": {
-        "name": "Spook & Destroy",
-        "url": "https://open.spotify.com/album/63TepuFjeJtCjOqkDu5Gb9"
+        "name": "Fangs",
+        "url": "https://open.spotify.com/album/53sP17YO0wLNr6dqqQ362O"
       },
       "artists": [
         {
-          "name": "Wednesday 13",
-          "url": "https://open.spotify.com/artist/6Cvzf33JDzCIw2eJU8npQo"
+          "name": "Snaggletooth",
+          "url": "https://open.spotify.com/artist/0xjDbJ1jJAQTW5bc51cA1n"
         }
       ],
-      "duration_ms": 233226,
-      "name": "Halloween 13-13",
-      "url": "https://open.spotify.com/track/0eTAk9UnA1BWlpBN67J7yG"
+      "duration_ms": 212957,
+      "name": "Fangs",
+      "url": "https://open.spotify.com/track/5CmHmD89cmI1F7XiNXhvYT"
+    },
+    {
+      "added_at": "2023-10-13 04:01:00",
+      "album": {
+        "name": "Am I Evil?: The Best Of",
+        "url": "https://open.spotify.com/album/3uidvgJilaGwhwsVKcFKuA"
+      },
+      "artists": [
+        {
+          "name": "Diamond Head",
+          "url": "https://open.spotify.com/artist/3z3KnhKZObj216IgfHYGVf"
+        }
+      ],
+      "duration_ms": 460946,
+      "name": "Am I Evil?",
+      "url": "https://open.spotify.com/track/4Dbgmi3ex27nUh2aEIBgHf"
+    },
+    {
+      "added_at": "2023-10-13 04:01:00",
+      "album": {
+        "name": "Halloween",
+        "url": "https://open.spotify.com/album/62myWRYmIPEDvAnoowJmJ5"
+      },
+      "artists": [
+        {
+          "name": "Hexvessel",
+          "url": "https://open.spotify.com/artist/3rLgIB7dHh2MGYpiOMajJI"
+        }
+      ],
+      "duration_ms": 239624,
+      "name": "Halloween",
+      "url": "https://open.spotify.com/track/3DpQh6dqj032o9aqpYYkzn"
     },
     {
       "added_at": "2023-10-13 04:01:00",
@@ -1307,22 +1323,6 @@
       "duration_ms": 200479,
       "name": "This Is Halloween",
       "url": "https://open.spotify.com/track/4Ih7q9N7eVVEqT9EzyUGS1"
-    },
-    {
-      "added_at": "2023-10-13 04:01:00",
-      "album": {
-        "name": "Halloween",
-        "url": "https://open.spotify.com/album/62myWRYmIPEDvAnoowJmJ5"
-      },
-      "artists": [
-        {
-          "name": "Hexvessel",
-          "url": "https://open.spotify.com/artist/3rLgIB7dHh2MGYpiOMajJI"
-        }
-      ],
-      "duration_ms": 239624,
-      "name": "Halloween",
-      "url": "https://open.spotify.com/track/3DpQh6dqj032o9aqpYYkzn"
     },
     {
       "added_at": "2023-10-13 04:01:00",

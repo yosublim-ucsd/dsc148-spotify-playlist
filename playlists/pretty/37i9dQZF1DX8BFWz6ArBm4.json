@@ -1,6 +1,6 @@
 {
   "description": "\u039a\u03b1\u03c4\u03b5\u03c5\u03b8\u03b5\u03af\u03b1\u03bd \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03c0\u03af\u03c3\u03c4\u03b1, \u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03bb\u03b1\u03ca\u03ba\u03ac \u03c4\u03c1\u03b1\u03b3\u03bf\u03cd\u03b4\u03b9\u03b1 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bfr: Dimos Anastasiadis",
-  "num_followers": 31496,
+  "num_followers": 31512,
   "original_name": "Laika tou Simera",
   "owner": {
     "name": "Spotify",
@@ -215,18 +215,18 @@
     {
       "added_at": "2024-10-03 21:00:00",
       "album": {
-        "name": "Siko Kardia Mou",
-        "url": "https://open.spotify.com/album/5ajdrgdF5xCgO2GMLo5ecY"
+        "name": "1994",
+        "url": "https://open.spotify.com/album/6GpAkvjB1iVZ9ulHtkq1yp"
       },
       "artists": [
         {
-          "name": "Giorgos Kakosaios",
-          "url": "https://open.spotify.com/artist/4uyuai6Pqgz3kSx1Jme2PJ"
+          "name": "Katerina Lioliou",
+          "url": "https://open.spotify.com/artist/6vgi3CIDWWdGEGJ6NMgQdD"
         }
       ],
-      "duration_ms": 177029,
-      "name": "Siko Kardia Mou",
-      "url": "https://open.spotify.com/track/1p7kfXL2ny9cQrRiAXeIAC"
+      "duration_ms": 211998,
+      "name": "I Gineka Tis Zois Sou",
+      "url": "https://open.spotify.com/track/4VJ7nzs9uF3i9rIVmaDyxt"
     },
     {
       "added_at": "2024-10-03 21:00:00",
@@ -263,18 +263,18 @@
     {
       "added_at": "2024-10-03 21:00:00",
       "album": {
-        "name": "1994",
-        "url": "https://open.spotify.com/album/6GpAkvjB1iVZ9ulHtkq1yp"
+        "name": "Siko Kardia Mou",
+        "url": "https://open.spotify.com/album/5ajdrgdF5xCgO2GMLo5ecY"
       },
       "artists": [
         {
-          "name": "Katerina Lioliou",
-          "url": "https://open.spotify.com/artist/6vgi3CIDWWdGEGJ6NMgQdD"
+          "name": "Giorgos Kakosaios",
+          "url": "https://open.spotify.com/artist/4uyuai6Pqgz3kSx1Jme2PJ"
         }
       ],
-      "duration_ms": 211998,
-      "name": "I Gineka Tis Zois Sou",
-      "url": "https://open.spotify.com/track/4VJ7nzs9uF3i9rIVmaDyxt"
+      "duration_ms": 177029,
+      "name": "Siko Kardia Mou",
+      "url": "https://open.spotify.com/track/1p7kfXL2ny9cQrRiAXeIAC"
     },
     {
       "added_at": "2024-10-03 21:00:00",
@@ -651,6 +651,22 @@
     {
       "added_at": "2024-10-03 21:00:00",
       "album": {
+        "name": "Xilia Spirta",
+        "url": "https://open.spotify.com/album/6TdaBD325HwRRt5ULUJ4uC"
+      },
+      "artists": [
+        {
+          "name": "Antonis Remos",
+          "url": "https://open.spotify.com/artist/6s26Q38Zqc4hY3xe7jrEBG"
+        }
+      ],
+      "duration_ms": 222537,
+      "name": "Xilia Spirta",
+      "url": "https://open.spotify.com/track/2oROjBec2WOa4vMIUfFgj6"
+    },
+    {
+      "added_at": "2024-10-03 21:00:00",
+      "album": {
         "name": "Eimai Gunaika",
         "url": "https://open.spotify.com/album/6GrpUFuJGnoA2T9SQhENUu"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 162777,
       "name": "Eimai Gunaika",
       "url": "https://open.spotify.com/track/0UUvTGK23QN4qBvypAziwQ"
-    },
-    {
-      "added_at": "2024-10-03 21:00:00",
-      "album": {
-        "name": "Xilia Spirta",
-        "url": "https://open.spotify.com/album/6TdaBD325HwRRt5ULUJ4uC"
-      },
-      "artists": [
-        {
-          "name": "Antonis Remos",
-          "url": "https://open.spotify.com/artist/6s26Q38Zqc4hY3xe7jrEBG"
-        }
-      ],
-      "duration_ms": 222537,
-      "name": "Xilia Spirta",
-      "url": "https://open.spotify.com/track/2oROjBec2WOa4vMIUfFgj6"
     },
     {
       "added_at": "2024-10-03 21:00:00",

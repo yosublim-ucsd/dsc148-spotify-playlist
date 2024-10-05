@@ -1,6 +1,6 @@
 {
   "description": "The hottest Hip-Hop of today all over the world. (Cover: A$AP Ferg)",
-  "num_followers": 445167,
+  "num_followers": 445188,
   "original_name": "Beats & Rhymes",
   "owner": {
     "name": "Spotify",
@@ -823,6 +823,26 @@
       "duration_ms": 165853,
       "name": "Tell Me Why",
       "url": "https://open.spotify.com/track/4XLQ3WbDbTYosMJsRXji2q"
+    },
+    {
+      "added_at": "2024-10-03 15:00:00",
+      "album": {
+        "name": "Post Traumatic",
+        "url": "https://open.spotify.com/album/3xdlCzNYHfEiXnUyWWyAVT"
+      },
+      "artists": [
+        {
+          "name": "Tee Grizzley",
+          "url": "https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO"
+        },
+        {
+          "name": "Fridayy",
+          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
+        }
+      ],
+      "duration_ms": 231360,
+      "name": "I Know (feat. Fridayy)",
+      "url": "https://open.spotify.com/track/4km8v5PJ43JUdmjf5qjvwp"
     },
     {
       "added_at": "2024-10-03 15:00:00",

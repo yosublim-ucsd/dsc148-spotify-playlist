@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49\u0e17\u0e35\u0e48\u0e1b\u0e31\u0e07 \u0e15\u0e49\u0e2d\u0e07\u0e1f\u0e31\u0e07\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49\u0e28\u0e32\u0e2a\u0e15\u0e23\u0e4c! \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Uncle Ben",
+  "description": "\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49\u0e17\u0e35\u0e48\u0e1b\u0e31\u0e07 \u0e15\u0e49\u0e2d\u0e07\u0e1f\u0e31\u0e07\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49\u0e28\u0e32\u0e2a\u0e15\u0e23\u0e4c! \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: QLER",
   "name": "\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49\u0e28\u0e32\u0e2a\u0e15\u0e23\u0e4c Indieology",
   "tracks": [
     {
@@ -114,6 +114,28 @@
       "duration_ms": 249500,
       "name": "Manila",
       "url": "https://open.spotify.com/track/7IOQobXnONFEYsvbngKiho"
+    },
+    {
+      "album": {
+        "name": "old school",
+        "url": "https://open.spotify.com/album/6TvwzGyMKhyedURaA9IqpV"
+      },
+      "artists": [
+        {
+          "name": "QLER",
+          "url": "https://open.spotify.com/artist/1P3bwZsaq5vobeBAmrsAFk"
+        },
+        {
+          "name": "\u30af\u30ec\u30ca\u30ba\u30e0",
+          "url": "https://open.spotify.com/artist/72PvGatrHUWZIbyyntvdpM"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177554,
+      "name": "old school",
+      "url": "https://open.spotify.com/track/1e2Bj05yKyGAwXG2hxLwc7"
     },
     {
       "album": {
@@ -312,7 +334,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 288024,
       "name": "\u0e09\u0e31\u0e19\u0e04\u0e37\u0e2d\u0e19\u0e31\u0e01\u0e2a\u0e30\u0e2a\u0e21\u0e04\u0e27\u0e32\u0e21\u0e40\u0e28\u0e23\u0e49\u0e32",
       "url": "https://open.spotify.com/track/4pfjFUrtfnnkADqijqKmzP"
@@ -983,6 +1005,28 @@
     },
     {
       "album": {
+        "name": "\u0e40\u0e27\u0e25\u0e32\u0e01\u0e30\u0e40\u0e25\u0e22\u0e17\u0e38\u0e22 (otwwwww) (feat. Pearprapa)",
+        "url": "https://open.spotify.com/album/1GKeEQ1JOV89q69IAMmR5X"
+      },
+      "artists": [
+        {
+          "name": "_less",
+          "url": "https://open.spotify.com/artist/16XaZ9bhtFCLUow2Z1Y7Of"
+        },
+        {
+          "name": "Pearprapa",
+          "url": "https://open.spotify.com/artist/7q2IazWT2XhmFEoct5vw47"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190280,
+      "name": "\u0e40\u0e27\u0e25\u0e32\u0e01\u0e30\u0e40\u0e25\u0e22\u0e17\u0e38\u0e22 (otwwwww) (feat. Pearprapa)",
+      "url": "https://open.spotify.com/track/1LQ1mZIeVfIED2q2KgXd2H"
+    },
+    {
+      "album": {
         "name": "\u0e40\u0e2d\u0e32\u0e04\u0e27\u0e32\u0e21\u0e40\u0e2a\u0e35\u0e22\u0e43\u0e08\u0e21\u0e32\u0e44\u0e27\u0e49\u0e17\u0e35\u0e48\u0e09\u0e31\u0e19 (Vasopressin)",
         "url": "https://open.spotify.com/album/4eGLMhfvQ4qCHFZ1XqDTnC"
       },
@@ -1084,7 +1128,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 197432,
       "name": "\u0e43\u0e08\u0e25\u0e2d\u0e22",
       "url": "https://open.spotify.com/track/3MIVadmVbWGZR0VzNceGt1"

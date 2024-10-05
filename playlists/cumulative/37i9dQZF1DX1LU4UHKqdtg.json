@@ -14577,6 +14577,24 @@
     },
     {
       "album": {
+        "name": "R.E.M",
+        "url": "https://open.spotify.com/album/4xcIr0rkoIBPmoSPamCorO"
+      },
+      "artists": [
+        {
+          "name": "KISS OF LIFE",
+          "url": "https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172773,
+      "name": "R.E.M",
+      "url": "https://open.spotify.com/track/7D2B5pj751b3MIaU4TwE6e"
+    },
+    {
+      "album": {
         "name": "RACE",
         "url": "https://open.spotify.com/album/6fa2O5Ph59LzOm0N4hiFwL"
       },
@@ -18070,6 +18088,24 @@
       "duration_ms": 185013,
       "name": "Super Bowl -Japanese ver.-",
       "url": "https://open.spotify.com/track/74zvsuvIImK08x0SyRdw78"
+    },
+    {
+      "album": {
+        "name": "Super Duper Ride",
+        "url": "https://open.spotify.com/album/1rVGw87A7c18DVW3IU15YK"
+      },
+      "artists": [
+        {
+          "name": "APOKI",
+          "url": "https://open.spotify.com/artist/0JVB3oaSxGrbnhzIiKwiR9"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189457,
+      "name": "Super Duper Ride",
+      "url": "https://open.spotify.com/track/2OvgKDomaqyhPpgRAGQaki"
     },
     {
       "album": {

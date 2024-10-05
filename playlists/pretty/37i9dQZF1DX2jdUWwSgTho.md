@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2jdUWwSgTho.md) - [plain]
 
 > Les hits préférés des enfants \(et de leurs parents\).
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,520 likes - 40 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,527 likes - 40 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

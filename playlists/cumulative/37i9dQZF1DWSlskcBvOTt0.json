@@ -3734,7 +3734,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-28",
+      "date_removed": null,
       "duration_ms": 298168,
       "name": "Distant Memories",
       "url": "https://open.spotify.com/track/2N8ZFBdIBvoCkQCWbc09I8"
@@ -3804,7 +3804,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 217280,
       "name": "Dope Dance",
       "url": "https://open.spotify.com/track/3wLOypLdLw1SGdbEUmivEj"
@@ -5844,7 +5844,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 251472,
       "name": "House - Solomun Remix",
       "url": "https://open.spotify.com/track/4dOeUyueTWItNBN1ylSee2"
@@ -5870,7 +5870,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-01",
+      "date_removed": null,
       "duration_ms": 206580,
       "name": "How It Feels (feat. Lauren L'aimant)",
       "url": "https://open.spotify.com/track/76UBVe7ZXMJj8rXwIfFUPZ"
@@ -6076,6 +6076,28 @@
       "duration_ms": 556908,
       "name": "I Feel Love - Monkey Safari Remix",
       "url": "https://open.spotify.com/track/37nppJzOgypngu1szTRD06"
+    },
+    {
+      "album": {
+        "name": "I Forgive You (Remixes)",
+        "url": "https://open.spotify.com/album/57aBdbmYeOzOdKpVM1FihB"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        },
+        {
+          "name": "Luzi Tudor",
+          "url": "https://open.spotify.com/artist/0P4MdjIcZqLtx676443ZGd"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280125,
+      "name": "I Forgive You - Luzi Tudor Remix",
+      "url": "https://open.spotify.com/track/2aTCaOzrqND5VM5V0EnI2d"
     },
     {
       "album": {
@@ -7446,7 +7468,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-04",
+      "date_removed": null,
       "duration_ms": 366829,
       "name": "Lean Into The Sunshine",
       "url": "https://open.spotify.com/track/1FC909ieY6lAD7U4pz6Hvl"
@@ -7762,7 +7784,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 208937,
       "name": "Light up my dark",
       "url": "https://open.spotify.com/track/7rjw941RoxmJD9v4nuPUQW"
@@ -8467,6 +8489,28 @@
     },
     {
       "album": {
+        "name": "Made For Me (HoneyLuv AfroLuv Remix)",
+        "url": "https://open.spotify.com/album/3bZFsyIthTUca3rBsVgHcy"
+      },
+      "artists": [
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        },
+        {
+          "name": "HoneyLuv",
+          "url": "https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228750,
+      "name": "Made For Me - HoneyLuv AfroLuv Remix",
+      "url": "https://open.spotify.com/track/5yY3eGexmfm4rxuWXEibn6"
+    },
+    {
+      "album": {
         "name": "Madison",
         "url": "https://open.spotify.com/album/0RdOwSB4S1a8aobCCcM1CD"
       },
@@ -8536,7 +8580,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-03",
+      "date_removed": null,
       "duration_ms": 229180,
       "name": "Magic Circus",
       "url": "https://open.spotify.com/track/2kRuYyYqUMl9TSNuiKGuq7"
@@ -8796,7 +8840,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-23",
+      "date_removed": null,
       "duration_ms": 136500,
       "name": "Maundu",
       "url": "https://open.spotify.com/track/3M9zD6847EoxgW0b2YEvBs"
@@ -9362,7 +9406,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 371897,
       "name": "More Love - Rampa &ME Remix",
       "url": "https://open.spotify.com/track/70ofkwt6aIb4bPQ51OQMQO"
@@ -9514,7 +9558,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 193280,
       "name": "Move On",
       "url": "https://open.spotify.com/track/2hRd8sG0Qx15VNx4Jk8E7u"
@@ -9650,7 +9694,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 257608,
       "name": "My Reflection",
       "url": "https://open.spotify.com/track/2wUOPi5t2EsSXguK0Gnkht"
@@ -10720,7 +10764,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 434232,
       "name": "Only You - &ME Remix",
       "url": "https://open.spotify.com/track/6Pot7RIYFgzOOadIG1IMBv"
@@ -10932,6 +10976,24 @@
       "duration_ms": 345228,
       "name": "Oudara - Club Mix",
       "url": "https://open.spotify.com/track/0QX9AiK3RhrJuJEHBlpYVd"
+    },
+    {
+      "album": {
+        "name": "Oui",
+        "url": "https://open.spotify.com/album/67FpC9iDSgusXtLlAFjNLz"
+      },
+      "artists": [
+        {
+          "name": "Monkey Safari",
+          "url": "https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 372096,
+      "name": "Oui",
+      "url": "https://open.spotify.com/track/0ul0kiAntcvHNjFxmalmAH"
     },
     {
       "album": {
@@ -13450,7 +13512,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 268000,
       "name": "Sunrise To The Morning",
       "url": "https://open.spotify.com/track/3emVhc0IE2PTmy2XUFqHmF"

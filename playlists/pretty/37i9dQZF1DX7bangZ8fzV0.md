@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7bangZ8fzV0.md) - [plain]
 
 > Net die beste Afrikaanse musiek\. Omslag: <a href="https://open.spotify.com/artist/4C448Mfxj3pcyU9pgHTTpe?si=Ui9RM25sQ3quVOKlNu9xhQ">Ruhan Du Toit</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,480 likes - 75 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,574 likes - 75 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

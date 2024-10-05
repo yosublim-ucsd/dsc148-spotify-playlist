@@ -4,7 +4,7 @@
 
 > Grind day motivation
 
-596 songs - 1 day 4 hr 43 min
+598 songs - 1 day 4 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,7 +86,7 @@
 | [Billing](https://open.spotify.com/track/5Uf7FM6gBCvAp8NRXEeghY) | [Spyro](https://open.spotify.com/artist/5ZJQWu95i72nZXLD8VC5ys) | [Billing](https://open.spotify.com/album/453klLTlEAFDEBFvJiR3Xw) | 2:45 | 2022-07-28 | 2023-07-01 |
 | [Billion Dollar](https://open.spotify.com/track/2Se3sIu5cf3iVbZ7XFgmgZ) | [Victor AD](https://open.spotify.com/artist/0yUUty3Foto0aVQ0qElM3N) | [Realness Over Hype](https://open.spotify.com/album/5Lr8uyHyEVzyHj4yTUF6JW) | 3:07 | 2024-03-29 | 2024-05-10 |
 | [Billionaire](https://open.spotify.com/track/67BVAiOqovJtuKUMpqfFXM) | [Kelvyn Boy](https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy) | [Billionaire](https://open.spotify.com/album/4u2kjSO5FlYAp2GC8MzWaH) | 3:11 | 2022-11-18 | 2022-12-10 |
-| [Billionaire](https://open.spotify.com/track/3y2ZMeoLoyPIMPd2fNoR1u) | [Lonair](https://open.spotify.com/artist/0ZJXedhsvR55FN31vLkn06), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Cramps](https://open.spotify.com/album/1qQH0EkB9ZqzIFxeys49lZ) | 3:12 | 2024-09-27 |  |
+| [Billionaire](https://open.spotify.com/track/3y2ZMeoLoyPIMPd2fNoR1u) | [Lonair](https://open.spotify.com/artist/0ZJXedhsvR55FN31vLkn06), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Cramps](https://open.spotify.com/album/1qQH0EkB9ZqzIFxeys49lZ) | 3:12 | 2024-09-27 | 2024-10-05 |
 | [Billions](https://open.spotify.com/track/06KTlwAvk8ioxuSpHZISoc) | [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [Billions](https://open.spotify.com/album/2BwLuz9L140VU4vu1bMvV2) | 3:44 | 2024-05-17 |  |
 | [Blessed](https://open.spotify.com/track/6CXRRCv2CM0bRn4RgmNR8J) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V), [Mavado](https://open.spotify.com/artist/0eezS9KmhdjGN436RdTIXu) | [Blessed](https://open.spotify.com/album/0WeSQZI8q1oY5FkCJh8sH7) | 2:55 | 2022-06-30 | 2022-07-23 |
 | [BLESSED](https://open.spotify.com/track/0yHnMci6HNtbL85kv2zuL1) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [OFA \(Oxlade From Africa\)](https://open.spotify.com/album/1QCCsP9vKzAFLklbRwvTC5) | 3:31 | 2024-09-27 |  |
@@ -234,7 +234,8 @@
 | [HA RARARA](https://open.spotify.com/track/5NRomkgCbB9yFwfWVfqgCa) | [9ice](https://open.spotify.com/artist/0AJdNiFdUdmiU2TNg5fSzH) | [OBSERVATORY](https://open.spotify.com/album/79Ikxj5lhRWWRbDb0Z7GGw) | 2:38 | 2024-04-26 | 2024-06-01 |
 | [Hallelujah](https://open.spotify.com/track/6JNLAYsRE0JAES5arxN0nY) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [Rozzz](https://open.spotify.com/artist/3wIYjte1HLaehiGvrSxUju), [Morrelo](https://open.spotify.com/artist/5NRc0M274Rv77nzXtH0avd) | [Hallelujah](https://open.spotify.com/album/7y3LiQvJhZtj3cuuT596LH) | 3:18 | 2024-04-19 |  |
 | [HALLELUJAH \(feat\. Blaqbonez\)](https://open.spotify.com/track/05pGxMUPDOu3lQVDMg6nqS) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [HALLELUJAH \(feat\. Blaqbonez\)](https://open.spotify.com/album/1AyItMJ8g0claNyariIM6z) | 2:17 | 2023-05-04 | 2024-06-28 |
-| [Hard Knock Life](https://open.spotify.com/track/699kLcoceODQX29VNqI5D4) | [Fuzi Vybz](https://open.spotify.com/artist/15o6lF891jNjK44eCSR5Qz) | [Hard Knock Life](https://open.spotify.com/album/3wPRsJRVLH9VYo0l05lWr7) | 2:43 | 2024-05-17 |  |
+| [Halleluyah \[Biza\]](https://open.spotify.com/track/0oyObKOS1AZ0hELKrhPPoJ) | [Kashcoming](https://open.spotify.com/artist/5yJLqKU6LRfzliSQIVnJMI) | [Halleluyah + Okay](https://open.spotify.com/album/0LzN4nio4upuBZQW9wyzuI) | 2:45 | 2024-10-04 |  |
+| [Hard Knock Life](https://open.spotify.com/track/699kLcoceODQX29VNqI5D4) | [Fuzi Vybz](https://open.spotify.com/artist/15o6lF891jNjK44eCSR5Qz) | [Hard Knock Life](https://open.spotify.com/album/3wPRsJRVLH9VYo0l05lWr7) | 2:43 | 2024-05-17 | 2024-10-05 |
 | [Hat\-trick](https://open.spotify.com/track/33ohxqNJdE1QXNSnJihNbN) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Hat\-trick](https://open.spotify.com/album/7jYk45lrUzw0NTDk9WBbqU) | 2:40 | 2023-06-02 | 2024-06-28 |
 | [Hat\-trick](https://open.spotify.com/track/6kq3Twa8T9Rf9nxpf111hx) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Vibe Till Thy Kingdom Come](https://open.spotify.com/album/5sXH36sWuho5Xei85Ru5sj) | 2:40 | 2023-11-17 | 2024-04-19 |
 | [HBP](https://open.spotify.com/track/3xY9AUbeibAeVDyPkHm8Kj) | [Llona](https://open.spotify.com/artist/3hz0ZIs5SlEnlK0ML7FmNc) | [HBP](https://open.spotify.com/album/5SOS13paz0WPPdIf9CL0Y8) | 2:47 | 2023-08-17 |  |
@@ -401,6 +402,7 @@
 | [Normally](https://open.spotify.com/track/4cPKw3rzgmaU4zixJe6wge) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF), [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Body & Soul](https://open.spotify.com/album/1TGcgugu0CxUp5rhS7SyCW) | 3:24 | 2023-05-19 | 2024-06-28 |
 | [Not God \- Remix](https://open.spotify.com/track/3WOjwhAJopm0H1d7Z804JP) | [Fameye](https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L), [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [Not God \(Remix\)](https://open.spotify.com/album/05ruDWqO8oNBoz4L66xzG2) | 3:35 | 2023-10-13 | 2023-11-28 |
 | [Nothing Matter](https://open.spotify.com/track/2VKwMLgRnO9Y41869IeCWO) | [KwesiSoul](https://open.spotify.com/artist/2zaQxkROhBUJAyLyNnUuWr) | [Nothing Matter](https://open.spotify.com/album/5IvYoSr6zrOMpCqFCUTr5e) | 2:42 | 2023-01-27 | 2023-02-04 |
+| [NSN](https://open.spotify.com/track/2VsWuilHfcBXfYmnt2n0lK) | [T\-Classic](https://open.spotify.com/artist/2nR9FjLTz90sFqGrhYdzXE) | [NSN](https://open.spotify.com/album/5JCMLtnCckuTySErkWcFrQ) | 2:39 | 2024-10-04 |  |
 | [Nuff Chat](https://open.spotify.com/track/2IgxOCeRiJ0Qm9RDDsNhN0) | [Korshi T](https://open.spotify.com/artist/6LYgIKATg0RJj86yCqAxnc) | [Nuff Chat](https://open.spotify.com/album/1YtqOsHQccqkJmZzDdCFJm) | 3:19 | 2022-08-12 | 2022-10-01 |
 | [NYEM EGO \(feat\. Jeriq\)](https://open.spotify.com/track/2GG6ETOQ8jiXcKYrwhNi0M) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk) | [Emeka Must Shine](https://open.spotify.com/album/0PhhdE2E1kmaCWIvomj6Fj) | 2:35 | 2023-11-03 | 2024-08-31 |
 | [Nzaza](https://open.spotify.com/track/0VjzaXw81JQJM61pzWwP8b) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Mr\. Money With The Vibe](https://open.spotify.com/album/0lzPMIAYhhUSD2BPT0VQWI) | 3:03 | 2022-10-13 | 2023-02-11 |

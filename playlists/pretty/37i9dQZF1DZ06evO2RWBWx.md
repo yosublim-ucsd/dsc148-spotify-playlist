@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2RWBWx.md) - [plain]
 
 ### [This Is imase](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2RWBWx)
 
-> This Is imase\. Los temas esenciales, todos en una lista.
+> This is imase\. أغانٍ رائعة في قائمة أغانٍ واحدة.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,317 likes - 32 songs - 1 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,329 likes - 32 songs - 1 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,4 +41,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2RWBWx.md) - [plain]
 | 31 | [ツナガルウチュウ！](https://open.spotify.com/track/2ZM2H6KsI5pFJaa9O6PT9P) | [ニャンちゅうオールスターズ](https://open.spotify.com/artist/4rHAi3k9q5g3pmlmM0JDEf), [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27), [asmi](https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza) | [ツナガルウチュウ！](https://open.spotify.com/album/39TMwItqzO5ze6rmqGKPuz) | 2:40 |
 | 32 | [Greedy Greedy \- feat.imase](https://open.spotify.com/track/6I3iulO4fB0hbsWV62CeK9) | [KUROMI](https://open.spotify.com/artist/1nah1bp3mzMd4FhMUxhU4d), [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [Greedy Greedy \(feat.imase\)](https://open.spotify.com/album/6rxL4plJ3rWifn4MwpmBR1) | 3:10 |
 
-Snapshot ID: `ZvyNAAAAAAA2FAKCz1LLPIWLeKdQqwJu`
+Snapshot ID: `Zv3egAAAAAB/XnWO9zkuHZ19TPpV51en`

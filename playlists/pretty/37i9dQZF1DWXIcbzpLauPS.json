@@ -1,6 +1,6 @@
 {
   "description": "brutality and technicality collide. fresh metalcore awaits Cover: 156/Silence",
-  "num_followers": 934042,
+  "num_followers": 934082,
   "original_name": "The Core",
   "owner": {
     "name": "Spotify",
@@ -551,6 +551,22 @@
     {
       "added_at": "2024-09-20 14:56:45",
       "album": {
+        "name": "PAY ATTENTION",
+        "url": "https://open.spotify.com/album/7mj8VbPfzMTYNnt20FmUFz"
+      },
+      "artists": [
+        {
+          "name": "Our Last Night",
+          "url": "https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5"
+        }
+      ],
+      "duration_ms": 200344,
+      "name": "PAY ATTENTION",
+      "url": "https://open.spotify.com/track/3Z6ReZyj8uKeiGUYf0JElU"
+    },
+    {
+      "added_at": "2024-09-20 14:56:45",
+      "album": {
         "name": "Skin & Bones",
         "url": "https://open.spotify.com/album/5J5bCon0bHWLYFRGi7BZu2"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 225278,
       "name": "Creature",
       "url": "https://open.spotify.com/track/6sSxQwz5SBYSLfiyRKWSkC"
-    },
-    {
-      "added_at": "2024-09-20 14:56:45",
-      "album": {
-        "name": "PAY ATTENTION",
-        "url": "https://open.spotify.com/album/7mj8VbPfzMTYNnt20FmUFz"
-      },
-      "artists": [
-        {
-          "name": "Our Last Night",
-          "url": "https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5"
-        }
-      ],
-      "duration_ms": 200344,
-      "name": "PAY ATTENTION",
-      "url": "https://open.spotify.com/track/3Z6ReZyj8uKeiGUYf0JElU"
     },
     {
       "added_at": "2024-09-20 14:56:45",
@@ -819,6 +819,22 @@
     {
       "added_at": "2024-09-20 14:56:45",
       "album": {
+        "name": "FiftyFive",
+        "url": "https://open.spotify.com/album/18eAYthBPUxAGeejX9yK8K"
+      },
+      "artists": [
+        {
+          "name": "Our Promise",
+          "url": "https://open.spotify.com/artist/4ISeDymLgZtEyx5Dy4BaqD"
+        }
+      ],
+      "duration_ms": 204827,
+      "name": "FiftyFive",
+      "url": "https://open.spotify.com/track/3lwxrFRSKVNDkACdsYkl5M"
+    },
+    {
+      "added_at": "2024-09-20 14:56:45",
+      "album": {
         "name": "Sacrifice Me",
         "url": "https://open.spotify.com/album/2WmsvVSrYIXgFXMfLoNcPN"
       },
@@ -859,26 +875,6 @@
     {
       "added_at": "2024-09-20 14:56:45",
       "album": {
-        "name": "Forgive and Forget (feat. Fit For A King)",
-        "url": "https://open.spotify.com/album/2fgiy6FWbaru2ezpUNQ5bN"
-      },
-      "artists": [
-        {
-          "name": "Miss May I",
-          "url": "https://open.spotify.com/artist/2OTuoIi28WybVbVcykc237"
-        },
-        {
-          "name": "Fit For A King",
-          "url": "https://open.spotify.com/artist/0OgdRTPItr9dw4XYp4JJUx"
-        }
-      ],
-      "duration_ms": 215666,
-      "name": "Forgive And Forget (feat. Fit For A King)",
-      "url": "https://open.spotify.com/track/1SahhLAsfDwQnE83ga46Ak"
-    },
-    {
-      "added_at": "2024-09-20 14:56:45",
-      "album": {
         "name": "Liminal",
         "url": "https://open.spotify.com/album/3GNcQlnhJl4TDH5E8QMj7N"
       },
@@ -895,22 +891,6 @@
     {
       "added_at": "2024-09-20 14:56:45",
       "album": {
-        "name": "FiftyFive",
-        "url": "https://open.spotify.com/album/18eAYthBPUxAGeejX9yK8K"
-      },
-      "artists": [
-        {
-          "name": "Our Promise",
-          "url": "https://open.spotify.com/artist/4ISeDymLgZtEyx5Dy4BaqD"
-        }
-      ],
-      "duration_ms": 204827,
-      "name": "FiftyFive",
-      "url": "https://open.spotify.com/track/3lwxrFRSKVNDkACdsYkl5M"
-    },
-    {
-      "added_at": "2024-09-20 14:56:45",
-      "album": {
         "name": "Granite",
         "url": "https://open.spotify.com/album/35zx0t2picyGskSU3QceVr"
       },
@@ -923,6 +903,26 @@
       "duration_ms": 225426,
       "name": "Granite",
       "url": "https://open.spotify.com/track/0rcJX1gJdAAm7vnqY1H7O2"
+    },
+    {
+      "added_at": "2024-09-20 14:56:45",
+      "album": {
+        "name": "Forgive and Forget (feat. Fit For A King)",
+        "url": "https://open.spotify.com/album/2fgiy6FWbaru2ezpUNQ5bN"
+      },
+      "artists": [
+        {
+          "name": "Miss May I",
+          "url": "https://open.spotify.com/artist/2OTuoIi28WybVbVcykc237"
+        },
+        {
+          "name": "Fit For A King",
+          "url": "https://open.spotify.com/artist/0OgdRTPItr9dw4XYp4JJUx"
+        }
+      ],
+      "duration_ms": 215666,
+      "name": "Forgive And Forget (feat. Fit For A King)",
+      "url": "https://open.spotify.com/track/1SahhLAsfDwQnE83ga46Ak"
     },
     {
       "added_at": "2024-09-20 14:56:45",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2024-09-20 14:56:45",
       "album": {
-        "name": "Molotov",
-        "url": "https://open.spotify.com/album/7LUSsBkuyyv0X49NiV8735"
-      },
-      "artists": [
-        {
-          "name": "Resolve",
-          "url": "https://open.spotify.com/artist/52tIYMYQgBbgOFIJHaOPxY"
-        }
-      ],
-      "duration_ms": 200210,
-      "name": "Molotov",
-      "url": "https://open.spotify.com/track/0J3zKZ2mKOuE54nU2BWhLN"
-    },
-    {
-      "added_at": "2024-09-20 14:56:45",
-      "album": {
         "name": "Fade",
         "url": "https://open.spotify.com/album/7cFNlL6pXQpLXRn09MvdsI"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 254173,
       "name": "Afterimage (feat. Ian Kenny, Karnivool)",
       "url": "https://open.spotify.com/track/1MHCrrThxRZaWLNDo7bEjC"
+    },
+    {
+      "added_at": "2024-09-20 14:56:45",
+      "album": {
+        "name": "Molotov",
+        "url": "https://open.spotify.com/album/7LUSsBkuyyv0X49NiV8735"
+      },
+      "artists": [
+        {
+          "name": "Resolve",
+          "url": "https://open.spotify.com/artist/52tIYMYQgBbgOFIJHaOPxY"
+        }
+      ],
+      "duration_ms": 200210,
+      "name": "Molotov",
+      "url": "https://open.spotify.com/track/0J3zKZ2mKOuE54nU2BWhLN"
     },
     {
       "added_at": "2024-09-20 14:56:45",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2024-09-20 14:56:45",
       "album": {
-        "name": "Hellstar",
-        "url": "https://open.spotify.com/album/1Wf7jVZ6EzQnLTfAfjmhuv"
-      },
-      "artists": [
-        {
-          "name": "Magnolia Park",
-          "url": "https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY"
-        }
-      ],
-      "duration_ms": 192748,
-      "name": "Hellstar",
-      "url": "https://open.spotify.com/track/2zIh2Co85pom5yJ51yvMbO"
-    },
-    {
-      "added_at": "2024-09-20 14:56:45",
-      "album": {
         "name": "What I'll Leave Behind",
         "url": "https://open.spotify.com/album/0nf58EhAHjLY46K0wqpb3b"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 159280,
       "name": "Invisible Rain",
       "url": "https://open.spotify.com/track/6UxqRS5vDYkFDScGdBX5IO"
+    },
+    {
+      "added_at": "2024-09-20 14:56:45",
+      "album": {
+        "name": "Hellstar",
+        "url": "https://open.spotify.com/album/1Wf7jVZ6EzQnLTfAfjmhuv"
+      },
+      "artists": [
+        {
+          "name": "Magnolia Park",
+          "url": "https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY"
+        }
+      ],
+      "duration_ms": 192748,
+      "name": "Hellstar",
+      "url": "https://open.spotify.com/track/2zIh2Co85pom5yJ51yvMbO"
     },
     {
       "added_at": "2024-09-20 14:56:45",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2024-09-20 14:56:45",
       "album": {
-        "name": "The Worst in Me",
-        "url": "https://open.spotify.com/album/0WGSrc4P7JfVAYdNzde2MQ"
-      },
-      "artists": [
-        {
-          "name": "Our Hollow, Our Home",
-          "url": "https://open.spotify.com/artist/6zrSK4adBQJaCJuhGNKJEl"
-        }
-      ],
-      "duration_ms": 221932,
-      "name": "The Worst in Me",
-      "url": "https://open.spotify.com/track/2kTsI1xJyJa1Oiw7jdibwN"
-    },
-    {
-      "added_at": "2024-09-20 14:56:45",
-      "album": {
         "name": "New Devil",
         "url": "https://open.spotify.com/album/208ZYeARcVCbjryVLd6Ynk"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 139826,
       "name": "New Devil",
       "url": "https://open.spotify.com/track/0ohSJgHGItbcNmirqBGdHM"
+    },
+    {
+      "added_at": "2024-09-20 14:56:45",
+      "album": {
+        "name": "The Worst in Me",
+        "url": "https://open.spotify.com/album/0WGSrc4P7JfVAYdNzde2MQ"
+      },
+      "artists": [
+        {
+          "name": "Our Hollow, Our Home",
+          "url": "https://open.spotify.com/artist/6zrSK4adBQJaCJuhGNKJEl"
+        }
+      ],
+      "duration_ms": 221932,
+      "name": "The Worst in Me",
+      "url": "https://open.spotify.com/track/2kTsI1xJyJa1Oiw7jdibwN"
     },
     {
       "added_at": "2024-09-20 14:56:45",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2024-09-20 14:56:45",
       "album": {
-        "name": "Phenomena II",
-        "url": "https://open.spotify.com/album/3f9kyaXtbKIFuSh85ZBHQo"
-      },
-      "artists": [
-        {
-          "name": "Within The Ruins",
-          "url": "https://open.spotify.com/artist/5mscNJ6lE9Kj7tWv4iCk7y"
-        }
-      ],
-      "duration_ms": 318000,
-      "name": "Demon Killer",
-      "url": "https://open.spotify.com/track/491Y81WE8NvyqRdHGMODPu"
-    },
-    {
-      "added_at": "2024-09-20 14:56:45",
-      "album": {
         "name": "A Mind Short Circuiting",
         "url": "https://open.spotify.com/album/3MZOhrdAca9B4N1gm15BZQ"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 267956,
       "name": "A Mind Short Circuiting",
       "url": "https://open.spotify.com/track/3oelMc06qyF7tuA55tPnJQ"
+    },
+    {
+      "added_at": "2024-09-20 14:56:45",
+      "album": {
+        "name": "Phenomena II",
+        "url": "https://open.spotify.com/album/3f9kyaXtbKIFuSh85ZBHQo"
+      },
+      "artists": [
+        {
+          "name": "Within The Ruins",
+          "url": "https://open.spotify.com/artist/5mscNJ6lE9Kj7tWv4iCk7y"
+        }
+      ],
+      "duration_ms": 318000,
+      "name": "Demon Killer",
+      "url": "https://open.spotify.com/track/491Y81WE8NvyqRdHGMODPu"
     },
     {
       "added_at": "2024-09-20 14:56:45",
@@ -1587,6 +1587,22 @@
     {
       "added_at": "2024-09-20 14:56:45",
       "album": {
+        "name": "Doom + Gloom",
+        "url": "https://open.spotify.com/album/7JosnS7Ttco0A7hMV5Ctp0"
+      },
+      "artists": [
+        {
+          "name": "Set for Tomorrow",
+          "url": "https://open.spotify.com/artist/38G81lySCkQhDVRchYGZzK"
+        }
+      ],
+      "duration_ms": 189000,
+      "name": "Doom + Gloom",
+      "url": "https://open.spotify.com/track/6MI4QzIiJIfIZcdTSlDXnq"
+    },
+    {
+      "added_at": "2024-09-20 14:56:45",
+      "album": {
         "name": "Frvst",
         "url": "https://open.spotify.com/album/73fgc0bIk0N7jumKsQVwYY"
       },
@@ -1603,22 +1619,6 @@
       "duration_ms": 261506,
       "name": "Frvst",
       "url": "https://open.spotify.com/track/1jjjjubZ6PMuoJexEy82DA"
-    },
-    {
-      "added_at": "2024-09-20 14:56:45",
-      "album": {
-        "name": "Doom + Gloom",
-        "url": "https://open.spotify.com/album/7JosnS7Ttco0A7hMV5Ctp0"
-      },
-      "artists": [
-        {
-          "name": "Set for Tomorrow",
-          "url": "https://open.spotify.com/artist/38G81lySCkQhDVRchYGZzK"
-        }
-      ],
-      "duration_ms": 189000,
-      "name": "Doom + Gloom",
-      "url": "https://open.spotify.com/track/6MI4QzIiJIfIZcdTSlDXnq"
     },
     {
       "added_at": "2024-09-20 14:56:45",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2024-09-20 14:56:45",
       "album": {
-        "name": "House of Cards",
-        "url": "https://open.spotify.com/album/1MqezT0MiTKKIsysfrYT8C"
-      },
-      "artists": [
-        {
-          "name": "Awaken I Am",
-          "url": "https://open.spotify.com/artist/3BwbgahlwovSpRfctWi8zY"
-        }
-      ],
-      "duration_ms": 239934,
-      "name": "House of Cards",
-      "url": "https://open.spotify.com/track/5hV45IS5XiCf1HPhmss5wu"
-    },
-    {
-      "added_at": "2024-09-20 14:56:45",
-      "album": {
         "name": "Lore",
         "url": "https://open.spotify.com/album/1ieLuRpnnX8EYrzCdZuQSB"
       },
@@ -1707,34 +1691,50 @@
     {
       "added_at": "2024-09-20 14:56:45",
       "album": {
-        "name": "Blood $oda",
-        "url": "https://open.spotify.com/album/0qgmBQ4wi11o8SMR1onUNH"
+        "name": "House of Cards",
+        "url": "https://open.spotify.com/album/1MqezT0MiTKKIsysfrYT8C"
       },
       "artists": [
         {
-          "name": "SWARM6IX",
-          "url": "https://open.spotify.com/artist/7DYdJ6bspShavDgUNiGAYp"
+          "name": "Awaken I Am",
+          "url": "https://open.spotify.com/artist/3BwbgahlwovSpRfctWi8zY"
         }
       ],
-      "duration_ms": 184370,
-      "name": "Blood $oda",
-      "url": "https://open.spotify.com/track/3aY20b8Gp7v95zWYeyR9OK"
+      "duration_ms": 239934,
+      "name": "House of Cards",
+      "url": "https://open.spotify.com/track/5hV45IS5XiCf1HPhmss5wu"
     },
     {
       "added_at": "2024-09-20 14:56:45",
       "album": {
-        "name": "Dead But So Alive",
-        "url": "https://open.spotify.com/album/5b71BIlmIkQ2EFdYBw10YL"
+        "name": "Castaway",
+        "url": "https://open.spotify.com/album/7ocVnSLHPixmSoQyVqRby2"
       },
       "artists": [
         {
-          "name": "Bleeding Through",
-          "url": "https://open.spotify.com/artist/41btkKEfOGIHsd7WNahMCi"
+          "name": "Of Mice & Men",
+          "url": "https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA"
         }
       ],
-      "duration_ms": 207545,
-      "name": "Dead But So Alive",
-      "url": "https://open.spotify.com/track/6udHlgNJSp4NMnkHdYrL8q"
+      "duration_ms": 211000,
+      "name": "Castaway",
+      "url": "https://open.spotify.com/track/5M6DHWW8omQHWg7Oyx0HAB"
+    },
+    {
+      "added_at": "2024-09-20 14:56:45",
+      "album": {
+        "name": "CTRL",
+        "url": "https://open.spotify.com/album/3ygJ8CQHYRGGD6hkESVgi3"
+      },
+      "artists": [
+        {
+          "name": "Set for Tomorrow",
+          "url": "https://open.spotify.com/artist/38G81lySCkQhDVRchYGZzK"
+        }
+      ],
+      "duration_ms": 163000,
+      "name": "CTRL",
+      "url": "https://open.spotify.com/track/4WNyYOoxDl97rKtmx7PAox"
     }
   ],
   "unique_name": "The Core",

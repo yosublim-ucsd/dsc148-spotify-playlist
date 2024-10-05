@@ -4,7 +4,7 @@
 
 > Fresh releases from your future favorite artists\. Cover: Good Luck Mito Sam Artwork: Isu Kim
 
-2,810 songs - 6 day 20 hr 48 min
+2,811 songs - 6 day 20 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2264,6 +2264,7 @@
 | [Shatter Matter](https://open.spotify.com/track/3wsgZQ1CNEWKlN6QjcVUyI) | [SUGARKISS](https://open.spotify.com/artist/0nQjXAizuIhTIWCmlkmA6w) | [Shatter Matter](https://open.spotify.com/album/1H1CMmldrtgY2UDo6b2by2) | 3:43 | 2024-02-29 | 2024-03-22 |
 | [SHE A BAD BIH! \(FLEX\)](https://open.spotify.com/track/0Tw9JoZURY595XLdseFfeL) | [notmetro](https://open.spotify.com/artist/1z0DK5LhwUlPkJvkst4pFW), [Jixn](https://open.spotify.com/artist/4dRLTp4cr5vmUkRB7Kb35Q), [ezfromtheL](https://open.spotify.com/artist/0EYXejLKHpiOiB1cETsOkP), [YoungTray](https://open.spotify.com/artist/1a5TVQGuNmvrxulyC3bZt3) | [SHE A BAD BIH! \(FLEX\)](https://open.spotify.com/album/1jX3zCcUa5HQQz6uG4VUAj) | 2:10 | 2024-05-02 | 2024-06-14 |
 | [She a Stunna](https://open.spotify.com/track/0R0i53rxHtKAwyjHuthAoG) | [kiddotin](https://open.spotify.com/artist/3xiz68yzDrgtVF0ikJ3dQL) | [She a Stunna](https://open.spotify.com/album/2QdhFnjvJC2Nx8shHPjUkv) | 2:58 | 2023-06-22 | 2023-07-14 |
+| [She Don't](https://open.spotify.com/track/19nRNXTHFIO6kadcO9s7a6) | [Royette](https://open.spotify.com/artist/7LYfNPFV0kGH7GhKHKlIAU) | [She Don't](https://open.spotify.com/album/66cfmoek7arPIfImWDJyJf) | 3:36 | 2024-10-03 |  |
 | [She Knows](https://open.spotify.com/track/2Ud0oqQ38Z4ySxY3ueKVwd) | [2 Wavy](https://open.spotify.com/artist/5RliiYKuid443aymavwt72) | [She Knows](https://open.spotify.com/album/1b4haAi4bnHvg9kwInOkmv) | 3:12 | 2024-05-02 | 2024-06-14 |
 | [she wunna!](https://open.spotify.com/track/7KvP7V9kkf2ElU5ZaaZxAk) | [sxber](https://open.spotify.com/artist/5Xb3coCF1TSOuJkZMJqdz2), [yxngtrevon!](https://open.spotify.com/artist/0oMV512h7jxQSQ1BMiutuj) | [she wunna!](https://open.spotify.com/album/3Pci6X4GaHj5s77iEaiiF7) | 2:19 | 2023-09-28 | 2023-10-24 |
 | [She's a Playa](https://open.spotify.com/track/4wGx6L5l0DBmdtu0VvVsiJ) | [Cali Dynasty](https://open.spotify.com/artist/5xaQYk4yIjHNl3xbWb7ENC) | [She's a Playa](https://open.spotify.com/album/0YVwKz5zCYDQtZUsdxJplF) | 5:36 | 2024-02-22 | 2024-03-22 |

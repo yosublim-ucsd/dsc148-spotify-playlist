@@ -1,13 +1,41 @@
 {
-  "description": "Check out the Latest Romance Tracks.\nCover : Raayan",
-  "num_followers": 94104,
+  "description": "Check out the Latest Romance Tracks.\nCover : Amaran",
+  "num_followers": 94159,
   "original_name": "Latest Love Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvFXcwAAAABpG0pAbTf/i02Mp5LfRD+Q",
+  "snapshot_id": "Zv/+OgAAAAA3XHMlxFoSme0BGwgt6DxK",
   "tracks": [
+    {
+      "added_at": "2024-10-04 14:39:54",
+      "album": {
+        "name": "Hey Minnale (From \"Amaran\") (Tamil)",
+        "url": "https://open.spotify.com/album/0Wmaf5kSAnQ3hSn09w9BYR"
+      },
+      "artists": [
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        },
+        {
+          "name": "Haricharan",
+          "url": "https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4"
+        },
+        {
+          "name": "Shweta Mohan",
+          "url": "https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9"
+        },
+        {
+          "name": "Karthik Netha",
+          "url": "https://open.spotify.com/artist/3o7GGc9KjbLzTCwOq9WL55"
+        }
+      ],
+      "duration_ms": 229811,
+      "name": "Hey Minnale (From \"Amaran\") (Tamil)",
+      "url": "https://open.spotify.com/track/1kmJ0EvXClJAt0fSSQLX1m"
+    },
     {
       "added_at": "2024-05-24 12:56:45",
       "album": {
@@ -55,30 +83,6 @@
       "duration_ms": 250129,
       "name": "Spark (From \"The Greatest Of All Time\")",
       "url": "https://open.spotify.com/track/0ZBKLzSSLZ88BunaWrcKPX"
-    },
-    {
-      "added_at": "2024-09-23 11:49:25",
-      "album": {
-        "name": "Kadaisi Ulaga Por (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4WtnnFU79T9DmcGETED4v5"
-      },
-      "artists": [
-        {
-          "name": "Hiphop Tamizha",
-          "url": "https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q"
-        },
-        {
-          "name": "Rakhooo",
-          "url": "https://open.spotify.com/artist/4taC6D2Loslf6n6YBTWjzd"
-        },
-        {
-          "name": "Vignesh Srikanth",
-          "url": "https://open.spotify.com/artist/4tJEEeKyEuYWQLzBz0a8p1"
-        }
-      ],
-      "duration_ms": 142351,
-      "name": "Keerthana",
-      "url": "https://open.spotify.com/track/7aa8f9JfAZUZCuBad1dCMf"
     },
     {
       "added_at": "2024-09-01 11:32:52",
@@ -277,40 +281,20 @@
       "url": "https://open.spotify.com/track/18EZxvtfNcAu6t2i437pAd"
     },
     {
-      "added_at": "2024-09-23 11:50:28",
+      "added_at": "2023-10-19 10:26:34",
       "album": {
-        "name": "Kadaisi Ulaga Por (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4WtnnFU79T9DmcGETED4v5"
+        "name": "Kushi (Tamil)",
+        "url": "https://open.spotify.com/album/6SvZcM22xYa6X2bDhPG8NU"
       },
       "artists": [
         {
-          "name": "Hiphop Tamizha",
-          "url": "https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q"
+          "name": "Hesham Abdul Wahab",
+          "url": "https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ"
         }
       ],
-      "duration_ms": 136603,
-      "name": "Unakaaga",
-      "url": "https://open.spotify.com/track/5acaiOH1zE6TkWVadZbaQV"
-    },
-    {
-      "added_at": "2024-04-05 09:19:53",
-      "album": {
-        "name": "Pon Ondru Kanden",
-        "url": "https://open.spotify.com/album/7FGND2yTrOIB3Qguok4Fvj"
-      },
-      "artists": [
-        {
-          "name": "Yuvan Shankar Raja",
-          "url": "https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy"
-        },
-        {
-          "name": "Haricharan",
-          "url": "https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4"
-        }
-      ],
-      "duration_ms": 222766,
-      "name": "Un Azhagai Rasithu",
-      "url": "https://open.spotify.com/track/2JXQEzgyJrPYohFDjqHAaA"
+      "duration_ms": 243947,
+      "name": "En Rojaa Neeye",
+      "url": "https://open.spotify.com/track/7hb1WHRDjOORxIoB4XwD0I"
     },
     {
       "added_at": "2024-09-23 11:49:25",
@@ -353,6 +337,22 @@
       "url": "https://open.spotify.com/track/0lttJ9CNuTWRojQmg9ytla"
     },
     {
+      "added_at": "2024-09-23 11:50:28",
+      "album": {
+        "name": "Kadaisi Ulaga Por (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4WtnnFU79T9DmcGETED4v5"
+      },
+      "artists": [
+        {
+          "name": "Hiphop Tamizha",
+          "url": "https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q"
+        }
+      ],
+      "duration_ms": 136603,
+      "name": "Unakaaga",
+      "url": "https://open.spotify.com/track/5acaiOH1zE6TkWVadZbaQV"
+    },
+    {
       "added_at": "2024-03-26 06:58:03",
       "album": {
         "name": "Maayoney (From \"Inga Naan Thaan Kingu\")",
@@ -375,6 +375,30 @@
       "duration_ms": 236212,
       "name": "Maayoney (From \"Inga Naan Thaan Kingu\")",
       "url": "https://open.spotify.com/track/4lIOKV52mXIsm8P6jjo1Ja"
+    },
+    {
+      "added_at": "2024-09-23 11:49:25",
+      "album": {
+        "name": "Chithha (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4N2LYZUpZRdVq2344dCeGO"
+      },
+      "artists": [
+        {
+          "name": "Dhibu Ninan Thomas",
+          "url": "https://open.spotify.com/artist/1QHr8p3h0ayWLaaYK0X6bi"
+        },
+        {
+          "name": "Pradeep Kumar",
+          "url": "https://open.spotify.com/artist/15ClyGUe5g2vllncIC4tp6"
+        },
+        {
+          "name": "Karthika Vaidyanathan",
+          "url": "https://open.spotify.com/artist/6JU9Z6CZZFeOO4pqZUJ3TS"
+        }
+      ],
+      "duration_ms": 242249,
+      "name": "Kangal Edho",
+      "url": "https://open.spotify.com/track/7CfNtzLIwNZ6ze4TXFD0bH"
     },
     {
       "added_at": "2024-06-07 12:45:58",
@@ -421,6 +445,26 @@
       "url": "https://open.spotify.com/track/3pJ4xvGuBWN7a7qCeffiyu"
     },
     {
+      "added_at": "2024-04-05 09:19:53",
+      "album": {
+        "name": "Pon Ondru Kanden",
+        "url": "https://open.spotify.com/album/7FGND2yTrOIB3Qguok4Fvj"
+      },
+      "artists": [
+        {
+          "name": "Yuvan Shankar Raja",
+          "url": "https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy"
+        },
+        {
+          "name": "Haricharan",
+          "url": "https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4"
+        }
+      ],
+      "duration_ms": 222766,
+      "name": "Un Azhagai Rasithu",
+      "url": "https://open.spotify.com/track/2JXQEzgyJrPYohFDjqHAaA"
+    },
+    {
       "added_at": "2024-05-08 05:47:35",
       "album": {
         "name": "Kutty Pisasey (From \"PT Sir\")",
@@ -459,30 +503,6 @@
       "duration_ms": 205565,
       "name": "Kannadi Nilave",
       "url": "https://open.spotify.com/track/6o6qco57cMAqBkSmoW68yP"
-    },
-    {
-      "added_at": "2024-09-23 11:49:25",
-      "album": {
-        "name": "Chithha (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4N2LYZUpZRdVq2344dCeGO"
-      },
-      "artists": [
-        {
-          "name": "Dhibu Ninan Thomas",
-          "url": "https://open.spotify.com/artist/1QHr8p3h0ayWLaaYK0X6bi"
-        },
-        {
-          "name": "Pradeep Kumar",
-          "url": "https://open.spotify.com/artist/15ClyGUe5g2vllncIC4tp6"
-        },
-        {
-          "name": "Karthika Vaidyanathan",
-          "url": "https://open.spotify.com/artist/6JU9Z6CZZFeOO4pqZUJ3TS"
-        }
-      ],
-      "duration_ms": 242249,
-      "name": "Kangal Edho",
-      "url": "https://open.spotify.com/track/7CfNtzLIwNZ6ze4TXFD0bH"
     },
     {
       "added_at": "2024-04-10 06:45:19",
@@ -953,22 +973,6 @@
       "url": "https://open.spotify.com/track/1C72T6JjexqbzIVrpIdIXi"
     },
     {
-      "added_at": "2023-10-19 10:26:34",
-      "album": {
-        "name": "Kushi (Tamil)",
-        "url": "https://open.spotify.com/album/6SvZcM22xYa6X2bDhPG8NU"
-      },
-      "artists": [
-        {
-          "name": "Hesham Abdul Wahab",
-          "url": "https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ"
-        }
-      ],
-      "duration_ms": 243947,
-      "name": "En Rojaa Neeye",
-      "url": "https://open.spotify.com/track/7hb1WHRDjOORxIoB4XwD0I"
-    },
-    {
       "added_at": "2024-01-19 11:17:16",
       "album": {
         "name": "Nee Yen (From \"Nanban Oruvan Vantha Piragu\")",
@@ -1037,26 +1041,6 @@
       "url": "https://open.spotify.com/track/0Qe8uzIYTnnz4BOJw4Hki7"
     },
     {
-      "added_at": "2023-10-11 14:48:17",
-      "album": {
-        "name": "Anbenum (From \"Leo\")",
-        "url": "https://open.spotify.com/album/4bf7T0AXRlgHjLZVxhIkfz"
-      },
-      "artists": [
-        {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
-        },
-        {
-          "name": "Lothika",
-          "url": "https://open.spotify.com/artist/7yZDrVInKssNCaZkAkQGTX"
-        }
-      ],
-      "duration_ms": 214330,
-      "name": "Anbenum (From \"Leo\")",
-      "url": "https://open.spotify.com/track/3l198ZkmLWrHYL3WXTOoep"
-    },
-    {
       "added_at": "2024-01-03 06:16:27",
       "album": {
         "name": "Velagaadha (From \"Lover\")",
@@ -1079,30 +1063,6 @@
       "duration_ms": 202888,
       "name": "Velagaadha - From \"Lover\"",
       "url": "https://open.spotify.com/track/0KTyfuhoHpgiC9KMyQ4uMg"
-    },
-    {
-      "added_at": "2023-12-14 09:57:34",
-      "album": {
-        "name": "Yaarum Kaanadha (From \"Fight Club\")",
-        "url": "https://open.spotify.com/album/2US3NIwQ7DavSK8mODYRIJ"
-      },
-      "artists": [
-        {
-          "name": "Govind Vasantha",
-          "url": "https://open.spotify.com/artist/5AWtJTaoFmLLrPwDR5dLPB"
-        },
-        {
-          "name": "Kapil Kapilan",
-          "url": "https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2"
-        },
-        {
-          "name": "Keerthana Vaidyanathan",
-          "url": "https://open.spotify.com/artist/4L2JVt0fmwYdNB6TsKSyd8"
-        }
-      ],
-      "duration_ms": 220812,
-      "name": "Yaarum Kaanadha (From \"Fight Club\")",
-      "url": "https://open.spotify.com/track/0eZhnyCegKvjpjwInI7veG"
     },
     {
       "added_at": "2024-01-04 04:53:28",

@@ -3240,7 +3240,7 @@
       ],
       "date_added": "2021-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 187040,
       "name": "Parklife",
       "url": "https://open.spotify.com/track/3mqRLlD9j92BBv1ueFhJ1l"
@@ -4198,6 +4198,24 @@
       "duration_ms": 245293,
       "name": "The Wire",
       "url": "https://open.spotify.com/track/6golelYKuy85o3u0cxIxFK"
+    },
+    {
+      "album": {
+        "name": "Days Are Gone (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7CzrzGbCwqT8Y43tvIUPBX"
+      },
+      "artists": [
+        {
+          "name": "HAIM",
+          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245800,
+      "name": "The Wire",
+      "url": "https://open.spotify.com/track/7KdF7Zac5eC9jutk9Qret4"
     },
     {
       "album": {

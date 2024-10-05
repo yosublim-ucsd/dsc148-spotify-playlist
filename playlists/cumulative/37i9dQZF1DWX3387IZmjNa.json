@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-10-07",
-  "description": "Hip-Hop + R&B: Before. Anything. Else. Cover: Bryson Tiller,  Jeremih, Chris Brown",
+  "description": "Hip-Hop + R&B: Before. Anything. Else. Cover: Hunxho",
   "name": "B.A.E.",
   "tracks": [
     {
@@ -242,7 +242,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 142987,
       "name": "4U",
       "url": "https://open.spotify.com/track/60SgHjJSxTh7FuJm6E5fTS"
@@ -3205,6 +3205,24 @@
     },
     {
       "album": {
+        "name": "Fall Fast in Love",
+        "url": "https://open.spotify.com/album/7cJpvSog0CL1J7hWZ2JtHo"
+      },
+      "artists": [
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        }
+      ],
+      "date_added": "2024-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172602,
+      "name": "Fall Fast in Love",
+      "url": "https://open.spotify.com/track/1mg8rzws9v1V7OrHAIwT84"
+    },
+    {
+      "album": {
         "name": "Fallback Queen (feat. Vory)",
         "url": "https://open.spotify.com/album/2qYeK1QWdV9oMmYSzWzy6v"
       },
@@ -3569,6 +3587,24 @@
     },
     {
       "album": {
+        "name": "JADED",
+        "url": "https://open.spotify.com/album/1XcpYmfE4vYCKeLQYINlO7"
+      },
+      "artists": [
+        {
+          "name": "Toosii",
+          "url": "https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163731,
+      "name": "Foxxy Brown",
+      "url": "https://open.spotify.com/track/0Wft9IUVpVwN7Ldftah8R4"
+    },
+    {
+      "album": {
         "name": "Free Agency",
         "url": "https://open.spotify.com/album/3DROwl7wh2rr8k266bLdob"
       },
@@ -3624,7 +3660,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 176363,
       "name": "Fuk You Mean",
       "url": "https://open.spotify.com/track/7LORHC77uHgfpmCTzlP3Hw"
@@ -4748,6 +4784,28 @@
       "duration_ms": 194208,
       "name": "I Am",
       "url": "https://open.spotify.com/track/5VlZvuR3Ja1l2T3ZJNeaUK"
+    },
+    {
+      "album": {
+        "name": "JADED",
+        "url": "https://open.spotify.com/album/1XcpYmfE4vYCKeLQYINlO7"
+      },
+      "artists": [
+        {
+          "name": "Toosii",
+          "url": "https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1"
+        },
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166954,
+      "name": "I Do (feat. Muni Long)",
+      "url": "https://open.spotify.com/track/5TbYIeYkGgGtYL7sms7m9N"
     },
     {
       "album": {
@@ -6764,7 +6822,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 178921,
       "name": "My Baby (feat. STAR BANDZ)",
       "url": "https://open.spotify.com/track/5mx5lXpouQi2BnlGTHFvQZ"
@@ -7758,7 +7816,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 161943,
       "name": "Party @ 4am (feat. Ty Dolla $ign)",
       "url": "https://open.spotify.com/track/1HIrjPCvNQm3Zd4LmHrUZD"
@@ -8625,6 +8683,28 @@
     },
     {
       "album": {
+        "name": "Post Traumatic",
+        "url": "https://open.spotify.com/album/3xdlCzNYHfEiXnUyWWyAVT"
+      },
+      "artists": [
+        {
+          "name": "Tee Grizzley",
+          "url": "https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO"
+        },
+        {
+          "name": "Tink",
+          "url": "https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179627,
+      "name": "Ride or Die (feat. Tink)",
+      "url": "https://open.spotify.com/track/7kUTRfkuj9IuBOgSk8AWUF"
+    },
+    {
+      "album": {
         "name": "Ride With You",
         "url": "https://open.spotify.com/album/1FWNVxWin3t5KlGgDRMUKo"
       },
@@ -9438,6 +9518,28 @@
       "duration_ms": 190224,
       "name": "Single & Happy (feat. Wale & Eric Bellinger)",
       "url": "https://open.spotify.com/track/6n9G36q0JwCS12oQRXCeMi"
+    },
+    {
+      "album": {
+        "name": "Post Traumatic",
+        "url": "https://open.spotify.com/album/3xdlCzNYHfEiXnUyWWyAVT"
+      },
+      "artists": [
+        {
+          "name": "Tee Grizzley",
+          "url": "https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO"
+        },
+        {
+          "name": "Mariah the Scientist",
+          "url": "https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192068,
+      "name": "Situationship",
+      "url": "https://open.spotify.com/track/7LU236iqqnOIbsO2O7LFzK"
     },
     {
       "album": {
@@ -10330,7 +10432,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 163014,
       "name": "Tell Me Again (with Bay Swag)",
       "url": "https://open.spotify.com/track/4XtliFaBmh2ID7LiDwHjCK"

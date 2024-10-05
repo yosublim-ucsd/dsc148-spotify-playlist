@@ -1,12 +1,12 @@
 {
   "description": "This Is Yandel. Los temas esenciales, todos en una lista.",
-  "num_followers": 169670,
+  "num_followers": 169689,
   "original_name": "This Is Yandel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvyNAAAAAAA5xtIFt/jO6IysLY2/xLI0",
+  "snapshot_id": "Zv3egAAAAABK3FDP7UNQidArS23LHNA0",
   "tracks": [
     {
       "added_at": null,
@@ -747,6 +747,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "GANGSTER (PQFNEDG)",
+        "url": "https://open.spotify.com/album/1q4RVq8faHbRP2v1OnoRxl"
+      },
+      "artists": [
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        },
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "duration_ms": 215470,
+      "name": "GANGSTER (PQFNEDG)",
+      "url": "https://open.spotify.com/track/3Yw6KJjm8ycybvl6UdW9dq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Amor de tu Vida (feat. Lenny Tav\u00e1rez & Best) [Remix]",
         "url": "https://open.spotify.com/album/1gOZkfjt7XYXBbfZWWSjPT"
       },
@@ -775,30 +799,6 @@
       "duration_ms": 270869,
       "name": "El Amor de tu Vida (feat. Lenny Tav\u00e1rez & Best) - Remix",
       "url": "https://open.spotify.com/track/0e09Q1sQWzAsP2Yo62la9F"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "GANGSTER (PQFNEDG)",
-        "url": "https://open.spotify.com/album/1q4RVq8faHbRP2v1OnoRxl"
-      },
-      "artists": [
-        {
-          "name": "Ovy On The Drums",
-          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
-        },
-        {
-          "name": "Quevedo",
-          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
-        },
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        }
-      ],
-      "duration_ms": 215470,
-      "name": "GANGSTER (PQFNEDG)",
-      "url": "https://open.spotify.com/track/3Yw6KJjm8ycybvl6UdW9dq"
     },
     {
       "added_at": null,
@@ -903,8 +903,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "CASERIO",
-        "url": "https://open.spotify.com/album/4NDSlhOifFUl2MNv3D9dYy"
+        "name": "En Cero",
+        "url": "https://open.spotify.com/album/6g2Cu0rMNRxTkRovhkGgcq"
       },
       "artists": [
         {
@@ -912,13 +912,37 @@
           "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
         },
         {
-          "name": "Saiko",
-          "url": "https://open.spotify.com/artist/2Og0ncAuCVTlSTzBfIZv0h"
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        },
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
         }
       ],
-      "duration_ms": 189524,
-      "name": "CASERIO",
-      "url": "https://open.spotify.com/track/5mFPPKfPrFOuArc4ePJEyG"
+      "duration_ms": 223586,
+      "name": "En Cero",
+      "url": "https://open.spotify.com/track/51uLQESb4VnYAbs5WtGxho"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Saliendo del Planeta",
+        "url": "https://open.spotify.com/album/0ct1nMrWBi5B93RKXAZJEf"
+      },
+      "artists": [
+        {
+          "name": "SAIKO",
+          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "CORLEONE",
+      "url": "https://open.spotify.com/track/4XCIp44SX79A7spTo4O40y"
     },
     {
       "added_at": null,
@@ -971,8 +995,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Cero",
-        "url": "https://open.spotify.com/album/6g2Cu0rMNRxTkRovhkGgcq"
+        "name": "CASERIO",
+        "url": "https://open.spotify.com/album/4NDSlhOifFUl2MNv3D9dYy"
       },
       "artists": [
         {
@@ -980,37 +1004,13 @@
           "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
         },
         {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        },
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+          "name": "Saiko",
+          "url": "https://open.spotify.com/artist/2Og0ncAuCVTlSTzBfIZv0h"
         }
       ],
-      "duration_ms": 223586,
-      "name": "En Cero",
-      "url": "https://open.spotify.com/track/51uLQESb4VnYAbs5WtGxho"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Saliendo del Planeta",
-        "url": "https://open.spotify.com/album/0ct1nMrWBi5B93RKXAZJEf"
-      },
-      "artists": [
-        {
-          "name": "SAIKO",
-          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
-        },
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "CORLEONE",
-      "url": "https://open.spotify.com/track/4XCIp44SX79A7spTo4O40y"
+      "duration_ms": 189524,
+      "name": "CASERIO",
+      "url": "https://open.spotify.com/track/5mFPPKfPrFOuArc4ePJEyG"
     },
     {
       "added_at": null,

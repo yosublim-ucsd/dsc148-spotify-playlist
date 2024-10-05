@@ -1832,7 +1832,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 190971,
       "name": "It's not over",
       "url": "https://open.spotify.com/track/7LRg28E7naQ4qyaONXy2Kv"
@@ -3448,6 +3448,28 @@
       "duration_ms": 177523,
       "name": "Ride or Die",
       "url": "https://open.spotify.com/track/5hyZCXXu0RFA5bMnIVOI36"
+    },
+    {
+      "album": {
+        "name": "Road Clear",
+        "url": "https://open.spotify.com/album/3GxQNJBWPUtsAXR3dsdgYp"
+      },
+      "artists": [
+        {
+          "name": "Mr Drew",
+          "url": "https://open.spotify.com/artist/4pW48O5XBTgEEJWfr8btdK"
+        },
+        {
+          "name": "Shatta Wale",
+          "url": "https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174337,
+      "name": "Road Clear",
+      "url": "https://open.spotify.com/track/0l187qGuX2ItgULWOjoRVW"
     },
     {
       "album": {

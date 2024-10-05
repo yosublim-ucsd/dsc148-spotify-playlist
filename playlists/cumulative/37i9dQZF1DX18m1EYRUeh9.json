@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-08-11",
-  "description": "Smooth indie jazz joints from around the globe. Cover: Thee Marloes",
+  "description": "Smooth indie jazz joints from around the globe. Cover: Kokoroko",
   "name": "Rarities",
   "tracks": [
     {
@@ -20,6 +20,28 @@
       "duration_ms": 202063,
       "name": "(re)Turn",
       "url": "https://open.spotify.com/track/1KRQUeWejtAvB4oZIeBMtI"
+    },
+    {
+      "album": {
+        "name": "Speak In The Dark",
+        "url": "https://open.spotify.com/album/0b13zZwIhnVC4ODUZh5ilo"
+      },
+      "artists": [
+        {
+          "name": "Tara Lily",
+          "url": "https://open.spotify.com/artist/1bt3qLrv0clLAZStcQf4zy"
+        },
+        {
+          "name": "Theo Croker",
+          "url": "https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168500,
+      "name": "6 Feet Down",
+      "url": "https://open.spotify.com/track/4SPSgPUa4PphdcbE7TFaei"
     },
     {
       "album": {
@@ -216,6 +238,24 @@
       "duration_ms": 178173,
       "name": "Apho",
       "url": "https://open.spotify.com/track/6EMP27Iax2P3LrfFggIt1c"
+    },
+    {
+      "album": {
+        "name": "Are You Gonna Find It",
+        "url": "https://open.spotify.com/album/6zwboIYLz6IaKYCrfom8lR"
+      },
+      "artists": [
+        {
+          "name": "Thandii",
+          "url": "https://open.spotify.com/artist/68YD0oUAF8k1NqEFAIx60M"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286589,
+      "name": "Are You Gonna Find It",
+      "url": "https://open.spotify.com/track/40JMY9lsbHd3UXIsrALDDQ"
     },
     {
       "album": {
@@ -965,6 +1005,28 @@
     },
     {
       "album": {
+        "name": "Odyssey",
+        "url": "https://open.spotify.com/album/1ZoZu4AeEVIKybGiGgOYdd"
+      },
+      "artists": [
+        {
+          "name": "Nubya Garcia",
+          "url": "https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ"
+        },
+        {
+          "name": "Esperanza Spalding",
+          "url": "https://open.spotify.com/artist/5bepW5vcdRzheNc0F8lHJ5"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292786,
+      "name": "Dawn [ft. esperanza spalding]",
+      "url": "https://open.spotify.com/track/26LFjnGEFsVB7J6iMecb1A"
+    },
+    {
+      "album": {
         "name": "Souvenir",
         "url": "https://open.spotify.com/album/2AsALnfIz6b3mgSKc3cYu1"
       },
@@ -1132,7 +1194,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 390000,
       "name": "Dogtown",
       "url": "https://open.spotify.com/track/5ktCZMdlQ5jf1o6vqKFSso"
@@ -1362,6 +1424,24 @@
       "duration_ms": 142417,
       "name": "Electric",
       "url": "https://open.spotify.com/track/1prB2IsyoUHw8bEjhprqFL"
+    },
+    {
+      "album": {
+        "name": "Emerge (For Sarah)",
+        "url": "https://open.spotify.com/album/4K7rrFZvxgDyDGD3SvJHfJ"
+      },
+      "artists": [
+        {
+          "name": "Jerome Blaz\u00e9",
+          "url": "https://open.spotify.com/artist/4Xugx9BOIAE45eFzvzEN6e"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307500,
+      "name": "Emerge (For Sarah)",
+      "url": "https://open.spotify.com/track/5Xo4uNxFINswfad0bMQHrt"
     },
     {
       "album": {
@@ -1780,7 +1860,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 232195,
       "name": "Hot",
       "url": "https://open.spotify.com/track/4LCWffAoLQJ2AAJupPR91a"
@@ -2198,7 +2278,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 215800,
       "name": "Knocked Down",
       "url": "https://open.spotify.com/track/6eqB9nHqFg5lXl0R4KJOfn"
@@ -2447,6 +2527,24 @@
     },
     {
       "album": {
+        "name": "Make Way For The Sun",
+        "url": "https://open.spotify.com/album/2JdcUs31SRdt9vC8hYUjd0"
+      },
+      "artists": [
+        {
+          "name": "O & The Mo",
+          "url": "https://open.spotify.com/artist/6BxU8WANw4zXnBceJykdKX"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192464,
+      "name": "Make Way For The Sun",
+      "url": "https://open.spotify.com/track/4qRnz706aq9y1QOxmR4XwA"
+    },
+    {
+      "album": {
         "name": "Marching Band (feat. Masego)",
         "url": "https://open.spotify.com/album/7MTqfU7Opx2Z85w4HrFESt"
       },
@@ -2520,7 +2618,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 79518,
       "name": "meek // flip",
       "url": "https://open.spotify.com/track/0nEPmXlrxnugrEdJQxc2L2"
@@ -2797,6 +2895,28 @@
     },
     {
       "album": {
+        "name": "Dance, No One's Watching",
+        "url": "https://open.spotify.com/album/08jeayZieCHTosu0K5tzf9"
+      },
+      "artists": [
+        {
+          "name": "Ezra Collective",
+          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
+        },
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262306,
+      "name": "No One's Watching Me (feat. Olivia Dean)",
+      "url": "https://open.spotify.com/track/0g8prUwwlED3F3y0ZNe8p0"
+    },
+    {
+      "album": {
         "name": "Not Today",
         "url": "https://open.spotify.com/album/2K87oatrnBkym4oCLTgISN"
       },
@@ -2833,6 +2953,24 @@
     },
     {
       "album": {
+        "name": "The Making of Silk",
+        "url": "https://open.spotify.com/album/6KBKOiiUG7akDFH4J0mQDT"
+      },
+      "artists": [
+        {
+          "name": "Allysha Joy",
+          "url": "https://open.spotify.com/artist/3CzYPWEnpaODw56A53qxh3"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254034,
+      "name": "nothing to prove",
+      "url": "https://open.spotify.com/track/1BL1fu0ToUrnrTh1M9wVRG"
+    },
+    {
+      "album": {
         "name": "SOLAR SONATAS VOL. 1",
         "url": "https://open.spotify.com/album/6nDRwKGZzAd3uWI491uIWQ"
       },
@@ -2852,6 +2990,24 @@
       "duration_ms": 273604,
       "name": "Obsessed",
       "url": "https://open.spotify.com/track/5bh6cGE3I3npgmQ835rcN9"
+    },
+    {
+      "album": {
+        "name": "Omen",
+        "url": "https://open.spotify.com/album/0UhsLckMXwTvr7rTWglH8C"
+      },
+      "artists": [
+        {
+          "name": "Ella Thompson",
+          "url": "https://open.spotify.com/artist/54o0UmPHSaZ2ADMID5o6y3"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224577,
+      "name": "Omen",
+      "url": "https://open.spotify.com/track/0BKhef93QmTKCW4ub1lNNa"
     },
     {
       "album": {
@@ -3134,7 +3290,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 193653,
       "name": "Please, Forever Keep Me Near",
       "url": "https://open.spotify.com/track/4ilO1SUKWXJJdQUgBpIkAb"
@@ -3746,7 +3902,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 139500,
       "name": "Soon We'll Make It",
       "url": "https://open.spotify.com/track/1aVJfYAryZWDqwa6IOiHzE"
@@ -3866,6 +4022,24 @@
       "duration_ms": 199500,
       "name": "Stay Soft",
       "url": "https://open.spotify.com/track/5oHTLHLHVbuVK5YY1yO3rt"
+    },
+    {
+      "album": {
+        "name": "Stornoway",
+        "url": "https://open.spotify.com/album/24rGvKbPywuiWbYrr0p1wD"
+      },
+      "artists": [
+        {
+          "name": "Skinshape",
+          "url": "https://open.spotify.com/artist/1itM5tXaK5THggpXA7ovAe"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250760,
+      "name": "Stornoway",
+      "url": "https://open.spotify.com/track/0kTDBxEim0NTjToDyViQM3"
     },
     {
       "album": {
@@ -4135,6 +4309,24 @@
     },
     {
       "album": {
+        "name": "The Rest Of Me",
+        "url": "https://open.spotify.com/album/3JZctelEqYNf7zNBiMQuXh"
+      },
+      "artists": [
+        {
+          "name": "Michael Kiwanuka",
+          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230661,
+      "name": "The Rest Of Me",
+      "url": "https://open.spotify.com/track/4xyZ8TMuWWlSCN3NRUsOCq"
+    },
+    {
+      "album": {
         "name": "portrait of a dog",
         "url": "https://open.spotify.com/album/6SsOunBXV82rQ7xhiQlYi5"
       },
@@ -4262,6 +4454,28 @@
       "duration_ms": 244754,
       "name": "Thoughtless Feeling",
       "url": "https://open.spotify.com/track/2NyK5vwOERvp3LU2lNwufk"
+    },
+    {
+      "album": {
+        "name": "Three Piece Suit (feat. Azekel)",
+        "url": "https://open.spotify.com/album/2Nqaqx256kZBgaIS5FvzBQ"
+      },
+      "artists": [
+        {
+          "name": "Kokoroko",
+          "url": "https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr"
+        },
+        {
+          "name": "Azekel",
+          "url": "https://open.spotify.com/artist/446nYwuXzCKnDwZUu4kGQA"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276733,
+      "name": "Three Piece Suit (feat. Azekel)",
+      "url": "https://open.spotify.com/track/0VIegveYbIaxxTgBNHSl3v"
     },
     {
       "album": {

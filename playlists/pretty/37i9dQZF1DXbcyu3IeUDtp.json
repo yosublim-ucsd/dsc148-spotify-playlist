@@ -1,15 +1,31 @@
 {
   "description": "<a href=\"spotify:artist:4rdJkXHNrMgowlwUdQAg8T\">Ela Minus</a>' favorite tracks. Updated regularly. Curated by Ela Minus. Discover more track IDs playlists <a href=\"spotify:genre:track_id\">here</a>.",
-  "num_followers": 25418,
+  "num_followers": 25425,
   "original_name": "Ela Minus' track IDs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsOpfQAAAABbv3TXtoCaT1EmIaVm5Ruu",
+  "snapshot_id": "Zv/tGwAAAADI6pu2hJOT1JMnvtNtJ4V9",
   "tracks": [
     {
-      "added_at": "2024-08-19 20:22:21",
+      "added_at": "2024-10-04 13:26:51",
+      "album": {
+        "name": "Birds Of Venezuela",
+        "url": "https://open.spotify.com/album/7k8XeDt1IEBcnb5RalP6gY"
+      },
+      "artists": [
+        {
+          "name": "Jean C. Roch\u00e9",
+          "url": "https://open.spotify.com/artist/4n4OEedfdCvF1453mAsXpB"
+        }
+      ],
+      "duration_ms": 290000,
+      "name": "Gran Sabana",
+      "url": "https://open.spotify.com/track/2athXULHTP5VOyzXzaBO7k"
+    },
+    {
+      "added_at": "2024-10-04 13:26:51",
       "album": {
         "name": "COMBAT",
         "url": "https://open.spotify.com/album/42jsGc1o1OVyaLqg0eIr0o"
@@ -25,7 +41,223 @@
       "url": "https://open.spotify.com/track/0kE1xahTX5tGkOeSWqpQWi"
     },
     {
-      "added_at": "2024-08-19 20:22:21",
+      "added_at": "2024-10-04 13:26:51",
+      "album": {
+        "name": "BROKEN",
+        "url": "https://open.spotify.com/album/1aHlFkhxyz1Yxmb7sgQh24"
+      },
+      "artists": [
+        {
+          "name": "Ela Minus",
+          "url": "https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T"
+        }
+      ],
+      "duration_ms": 271435,
+      "name": "BROKEN",
+      "url": "https://open.spotify.com/track/3n4FkCfKlscDqYPMcTBdXm"
+    },
+    {
+      "added_at": "2024-10-04 13:26:51",
+      "album": {
+        "name": "Love Divide / The Knife (Bubble Love Remixes)",
+        "url": "https://open.spotify.com/album/48a5z32orq8hPAIIyDfQzp"
+      },
+      "artists": [
+        {
+          "name": "Ross from Friends",
+          "url": "https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF"
+        },
+        {
+          "name": "Bubble Love",
+          "url": "https://open.spotify.com/artist/0Uu5MoqXbYYsMb6HLw0X62"
+        }
+      ],
+      "duration_ms": 387123,
+      "name": "Love Divide - Bubble Love Remix",
+      "url": "https://open.spotify.com/track/77xrEjHvl3b8MEiUU5aMSn"
+    },
+    {
+      "added_at": "2024-10-04 13:26:51",
+      "album": {
+        "name": "Neptunes",
+        "url": "https://open.spotify.com/album/6yBhQtwTwB9WNpBOvbjRiP"
+      },
+      "artists": [
+        {
+          "name": "Kaitlyn Aurelia Smith",
+          "url": "https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH"
+        },
+        {
+          "name": "Joe Goddard",
+          "url": "https://open.spotify.com/artist/380fnmlGnkyueBMqGWx2k5"
+        }
+      ],
+      "duration_ms": 330580,
+      "name": "Neptunes",
+      "url": "https://open.spotify.com/track/2Xrbukz6tXgmSS0K7l7kYV"
+    },
+    {
+      "added_at": "2024-10-04 13:26:51",
+      "album": {
+        "name": "Cascade",
+        "url": "https://open.spotify.com/album/4IYnAmZ8GvmNFF2ZxxKT8L"
+      },
+      "artists": [
+        {
+          "name": "Floating Points",
+          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
+        }
+      ],
+      "duration_ms": 398784,
+      "name": "Afflecks Palace",
+      "url": "https://open.spotify.com/track/15lb3M395advtEyLKLAIy0"
+    },
+    {
+      "added_at": "2024-10-04 13:26:51",
+      "album": {
+        "name": "Traffic Jams",
+        "url": "https://open.spotify.com/album/2HEvv6LAWeKF29ZuLQswNX"
+      },
+      "artists": [
+        {
+          "name": "Theo Parrish",
+          "url": "https://open.spotify.com/artist/3qMRvSHJpaRjGDkIeNMoGz"
+        }
+      ],
+      "duration_ms": 665114,
+      "name": "Traffic Jams",
+      "url": "https://open.spotify.com/track/1fcRwdRZGwoTpaff2Fn4bd"
+    },
+    {
+      "added_at": "2024-10-04 13:26:51",
+      "album": {
+        "name": "Deceltica",
+        "url": "https://open.spotify.com/album/0jNukRS8SdKiRknjc8iyGL"
+      },
+      "artists": [
+        {
+          "name": "Koreless",
+          "url": "https://open.spotify.com/artist/3TsEEdpuuCN1G0dPxV4uOA"
+        }
+      ],
+      "duration_ms": 298490,
+      "name": "Deceltica",
+      "url": "https://open.spotify.com/track/2eSYJNS1tIahDojepc8rF5"
+    },
+    {
+      "added_at": "2024-10-04 13:26:51",
+      "album": {
+        "name": "Echo Point Drive",
+        "url": "https://open.spotify.com/album/5ZSzL3UAYZgpGRTmQnPjK1"
+      },
+      "artists": [
+        {
+          "name": "Louf",
+          "url": "https://open.spotify.com/artist/6FuiYA7qfyWvCzyWxepEjy"
+        }
+      ],
+      "duration_ms": 280181,
+      "name": "Warning Call",
+      "url": "https://open.spotify.com/track/15hv4Z6FoehFeibBqU0XWT"
+    },
+    {
+      "added_at": "2024-10-04 13:26:51",
+      "album": {
+        "name": "Naive Step One (Part of Dekmantel Ten: A Decade of Dekmantel Festival - The Loop)",
+        "url": "https://open.spotify.com/album/5zs22Z17Ah4WUBEummEwSH"
+      },
+      "artists": [
+        {
+          "name": "Call Super",
+          "url": "https://open.spotify.com/artist/1FVo44KTXqxo3JxXADWTd9"
+        }
+      ],
+      "duration_ms": 268654,
+      "name": "Naive Step One",
+      "url": "https://open.spotify.com/track/5NFgTTCFrf6cRsDECD6D2E"
+    },
+    {
+      "added_at": "2024-10-04 13:26:51",
+      "album": {
+        "name": "Come Find Me",
+        "url": "https://open.spotify.com/album/2bAerToDNEFtvwLt93CJ59"
+      },
+      "artists": [
+        {
+          "name": "Caribou",
+          "url": "https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54"
+        }
+      ],
+      "duration_ms": 236332,
+      "name": "Come Find Me",
+      "url": "https://open.spotify.com/track/6o3H1TeAuT8KJOiU8G856R"
+    },
+    {
+      "added_at": "2024-10-04 13:26:51",
+      "album": {
+        "name": "Ultra Truth",
+        "url": "https://open.spotify.com/album/4qw8zs6nZyjpgPPBxZWpTI"
+      },
+      "artists": [
+        {
+          "name": "Daniel Avery",
+          "url": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
+        }
+      ],
+      "duration_ms": 317183,
+      "name": "Ultra Truth",
+      "url": "https://open.spotify.com/track/5XJbxQd5go9wRFpYq4fChY"
+    },
+    {
+      "added_at": "2024-10-04 13:26:51",
+      "album": {
+        "name": "Endlessness",
+        "url": "https://open.spotify.com/album/51CQQ3tQLRZlZJZ5jcpoGE"
+      },
+      "artists": [
+        {
+          "name": "Nala Sinephro",
+          "url": "https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO"
+        }
+      ],
+      "duration_ms": 433750,
+      "name": "Continuum 1",
+      "url": "https://open.spotify.com/track/0DeymXCmEkaP84aGgzoI6I"
+    },
+    {
+      "added_at": "2024-10-04 13:26:51",
+      "album": {
+        "name": "Percussive Counterpoint",
+        "url": "https://open.spotify.com/album/2ouOC24z4c8Fnyj5pymylB"
+      },
+      "artists": [
+        {
+          "name": "Svet Stoyanov",
+          "url": "https://open.spotify.com/artist/5rhkJDapJojVLUICCMUq0e"
+        }
+      ],
+      "duration_ms": 405826,
+      "name": "Electric Counterpoint - Fast",
+      "url": "https://open.spotify.com/track/2vvfErqamth02Skdq2TTKX"
+    },
+    {
+      "added_at": "2024-10-04 13:26:51",
+      "album": {
+        "name": "Keira",
+        "url": "https://open.spotify.com/album/4RYg4wd3xq5aHVImUfpbw4"
+      },
+      "artists": [
+        {
+          "name": "Susso",
+          "url": "https://open.spotify.com/artist/6eSUQltc7DkN4OiPgOl4VP"
+        }
+      ],
+      "duration_ms": 163212,
+      "name": "Mamadou",
+      "url": "https://open.spotify.com/track/4U9jbqzSu3aUMXQMUZUIQb"
+    },
+    {
+      "added_at": "2024-10-04 13:26:51",
       "album": {
         "name": "A Museum Of Contradiction",
         "url": "https://open.spotify.com/album/3m0PIFv2mh0ytlTroWklbd"
@@ -45,23 +277,7 @@
       "url": "https://open.spotify.com/track/64tgANMtVxmUzIYfuZSZrx"
     },
     {
-      "added_at": "2024-08-19 20:22:21",
-      "album": {
-        "name": "Deceltica",
-        "url": "https://open.spotify.com/album/0jNukRS8SdKiRknjc8iyGL"
-      },
-      "artists": [
-        {
-          "name": "Koreless",
-          "url": "https://open.spotify.com/artist/3TsEEdpuuCN1G0dPxV4uOA"
-        }
-      ],
-      "duration_ms": 298490,
-      "name": "Deceltica",
-      "url": "https://open.spotify.com/track/2eSYJNS1tIahDojepc8rF5"
-    },
-    {
-      "added_at": "2024-08-19 20:22:21",
+      "added_at": "2024-10-04 13:26:51",
       "album": {
         "name": "Zeal / Sunday",
         "url": "https://open.spotify.com/album/50BtBk9BSzhMoM1yybmSM8"
@@ -77,7 +293,7 @@
       "url": "https://open.spotify.com/track/2TckgebCdGiCfSPuh6CUys"
     },
     {
-      "added_at": "2024-08-19 20:22:21",
+      "added_at": "2024-10-04 13:26:51",
       "album": {
         "name": "Treacle",
         "url": "https://open.spotify.com/album/3OA4iV106FX6hE24PYOq6F"
@@ -93,7 +309,7 @@
       "url": "https://open.spotify.com/track/7hdZkXnculeyD2NaiatIPu"
     },
     {
-      "added_at": "2024-08-19 20:22:21",
+      "added_at": "2024-10-04 13:26:51",
       "album": {
         "name": "Key103",
         "url": "https://open.spotify.com/album/449cSwxW2mczsRKAV8BetQ"
@@ -109,7 +325,7 @@
       "url": "https://open.spotify.com/track/2rqHRjIdGqFNgOqq3nNPkT"
     },
     {
-      "added_at": "2024-08-19 20:22:21",
+      "added_at": "2024-10-04 13:26:51",
       "album": {
         "name": "Breathe\u2026 Godspeed",
         "url": "https://open.spotify.com/album/3md1CdsAIbnLZ0dQRIfrVx"
@@ -125,7 +341,7 @@
       "url": "https://open.spotify.com/track/1X5UvAwms3ncpFHj9fZmaK"
     },
     {
-      "added_at": "2024-08-19 20:22:21",
+      "added_at": "2024-10-04 13:26:51",
       "album": {
         "name": "The Benefits of Living in a Hole",
         "url": "https://open.spotify.com/album/43aGCOxbfRWSJvZON5YF4B"
@@ -141,7 +357,7 @@
       "url": "https://open.spotify.com/track/7ls2LV2nY6b48DwCGyBizG"
     },
     {
-      "added_at": "2024-08-19 20:22:21",
+      "added_at": "2024-10-04 13:26:51",
       "album": {
         "name": "flight fm",
         "url": "https://open.spotify.com/album/7z6MsabW7ZDqtcgmV9fZrv"
@@ -157,7 +373,7 @@
       "url": "https://open.spotify.com/track/4Wrd7TpAgRmlUtcbpJCW3T"
     },
     {
-      "added_at": "2024-08-19 20:22:21",
+      "added_at": "2024-10-04 13:26:51",
       "album": {
         "name": "Serenity",
         "url": "https://open.spotify.com/album/3ONfRjgCmbdzVo7m1Yh6C2"
@@ -173,7 +389,7 @@
       "url": "https://open.spotify.com/track/1kDqntrhTIOeFyuQAJfTs0"
     },
     {
-      "added_at": "2024-08-19 20:22:21",
+      "added_at": "2024-10-04 13:26:51",
       "album": {
         "name": "Broke My Heart Remixes",
         "url": "https://open.spotify.com/album/7dWvTR3sRZEdPAOan5PHVu"
@@ -193,7 +409,7 @@
       "url": "https://open.spotify.com/track/6jFkEKWJUgJUM0hHU9PMV5"
     },
     {
-      "added_at": "2024-08-19 20:22:21",
+      "added_at": "2024-10-04 13:26:51",
       "album": {
         "name": "To Em",
         "url": "https://open.spotify.com/album/2ZaDgz3AaGkO7lDXwsBzCw"
@@ -209,7 +425,7 @@
       "url": "https://open.spotify.com/track/5KeZAAiHTv7F1nSwVrUsv2"
     },
     {
-      "added_at": "2024-08-19 20:22:21",
+      "added_at": "2024-10-04 13:26:51",
       "album": {
         "name": "Baile do Bruxo",
         "url": "https://open.spotify.com/album/4gTpoHQozYg3jI7KTbFsfx"
@@ -241,7 +457,7 @@
       "url": "https://open.spotify.com/track/00ZKeP47bZtswtANkvxz2j"
     },
     {
-      "added_at": "2024-08-19 20:22:21",
+      "added_at": "2024-10-04 13:26:51",
       "album": {
         "name": "Fe, Esperanza y Caridad",
         "url": "https://open.spotify.com/album/6vJ37s97d7zDUj9rvlJsII"
@@ -257,7 +473,7 @@
       "url": "https://open.spotify.com/track/3pL77Aed5ZBnS5IRjPcGF4"
     },
     {
-      "added_at": "2024-08-19 20:22:21",
+      "added_at": "2024-10-04 13:26:51",
       "album": {
         "name": "Deceltica",
         "url": "https://open.spotify.com/album/0jNukRS8SdKiRknjc8iyGL"
@@ -273,7 +489,7 @@
       "url": "https://open.spotify.com/track/2U6fgaNjH4QzQMvGwXn9Jc"
     },
     {
-      "added_at": "2024-08-19 20:22:21",
+      "added_at": "2024-10-04 13:26:51",
       "album": {
         "name": "Transcendence",
         "url": "https://open.spotify.com/album/3y85Xxe4zGsvRwkfq2DamR"
@@ -289,7 +505,7 @@
       "url": "https://open.spotify.com/track/1NgTlda4obXkxAdIIEdo0D"
     },
     {
-      "added_at": "2024-08-19 20:22:21",
+      "added_at": "2024-10-04 13:26:51",
       "album": {
         "name": "Mind Expander",
         "url": "https://open.spotify.com/album/0H0w7Lun7TqAohBmHvHgV5"
@@ -305,7 +521,7 @@
       "url": "https://open.spotify.com/track/03W2mDuBKoyQ7TKCtBITD0"
     },
     {
-      "added_at": "2024-08-19 20:22:21",
+      "added_at": "2024-10-04 13:26:51",
       "album": {
         "name": "UH-03",
         "url": "https://open.spotify.com/album/4MEOuDXxxqwBgeU06qS68X"
@@ -321,7 +537,7 @@
       "url": "https://open.spotify.com/track/5BPxgDSG2damhSq6oLUSk3"
     },
     {
-      "added_at": "2024-08-19 20:22:21",
+      "added_at": "2024-10-04 13:26:51",
       "album": {
         "name": "Cloudy (Kelbin Remix)",
         "url": "https://open.spotify.com/album/53JK9SLZCpbiCzNfcEGgHa"
@@ -341,7 +557,7 @@
       "url": "https://open.spotify.com/track/4OtqragtOuKh41rBNnFXuK"
     },
     {
-      "added_at": "2024-08-19 20:22:21",
+      "added_at": "2024-10-04 13:26:51",
       "album": {
         "name": "Same Old Story (Blood Orange Remix)",
         "url": "https://open.spotify.com/album/3vBVLkN1HFcVKyQtwkbfkf"
@@ -361,7 +577,7 @@
       "url": "https://open.spotify.com/track/4FLgBJvr9gtgpjBATWlNGj"
     },
     {
-      "added_at": "2024-08-19 20:22:21",
+      "added_at": "2024-10-04 13:26:51",
       "album": {
         "name": "Maldito Aparato",
         "url": "https://open.spotify.com/album/2PWpTTn7HWEGcQjI1f91O3"
@@ -377,7 +593,31 @@
       "url": "https://open.spotify.com/track/05Tjtg0ysmaULQxQ8NFfn7"
     },
     {
-      "added_at": "2024-08-19 20:22:21",
+      "added_at": "2024-10-04 13:26:51",
+      "album": {
+        "name": "Ready. Set. Flex.",
+        "url": "https://open.spotify.com/album/341Q4IMlmtS6FuaJ37tLLH"
+      },
+      "artists": [
+        {
+          "name": "Shigeto",
+          "url": "https://open.spotify.com/artist/48C2RLG6w7o4jAJjCJKZM8"
+        },
+        {
+          "name": "Zelooperz",
+          "url": "https://open.spotify.com/artist/5j93hwFBNo29RJMsWvtzj8"
+        },
+        {
+          "name": "Ian Maciak",
+          "url": "https://open.spotify.com/artist/7ClAiV4e08Hi2EJMCFWwTX"
+        }
+      ],
+      "duration_ms": 239175,
+      "name": "Ready. Set. Flex.",
+      "url": "https://open.spotify.com/track/4k03SShBhcMy7dZuhmRZFc"
+    },
+    {
+      "added_at": "2024-10-04 13:26:51",
       "album": {
         "name": "Mecha",
         "url": "https://open.spotify.com/album/6a8VbX45UZnPCaFtwSRAId"
@@ -393,7 +633,7 @@
       "url": "https://open.spotify.com/track/0bXXHzugyOU4viojtnJvMd"
     },
     {
-      "added_at": "2024-08-19 20:22:21",
+      "added_at": "2024-10-04 13:26:51",
       "album": {
         "name": "How Could U",
         "url": "https://open.spotify.com/album/2KWVWPEOaM8u1Bdm3dWmxd"
@@ -413,7 +653,7 @@
       "url": "https://open.spotify.com/track/0bZl04jQ6Qc8QjTWonDA2S"
     },
     {
-      "added_at": "2024-08-19 20:22:21",
+      "added_at": "2024-10-04 13:26:51",
       "album": {
         "name": "Untitled (G4)",
         "url": "https://open.spotify.com/album/0kEj3KACvjPGJDg41xYaBP"
@@ -429,7 +669,7 @@
       "url": "https://open.spotify.com/track/59EmID80R4hu0n7UPyzOT4"
     },
     {
-      "added_at": "2024-08-19 20:22:21",
+      "added_at": "2024-10-04 13:26:51",
       "album": {
         "name": "Lahai",
         "url": "https://open.spotify.com/album/5GuWww4OaildzkmTTlfMN3"
@@ -445,7 +685,7 @@
       "url": "https://open.spotify.com/track/5exI5swI6LNxrwdEDbL16y"
     },
     {
-      "added_at": "2024-08-19 20:22:21",
+      "added_at": "2024-10-04 13:26:51",
       "album": {
         "name": "GUETO CLUB",
         "url": "https://open.spotify.com/album/2wRH4MifoleaIAhevuOn0O"
@@ -461,7 +701,7 @@
       "url": "https://open.spotify.com/track/24orcxfAdgvrdnyLOnvuFQ"
     },
     {
-      "added_at": "2024-08-19 20:22:21",
+      "added_at": "2024-10-04 13:26:51",
       "album": {
         "name": "Broke with Expensive Taste",
         "url": "https://open.spotify.com/album/6hORzuqVAquk6Szm1NRoRt"
@@ -477,7 +717,7 @@
       "url": "https://open.spotify.com/track/57vU19otI0eWzcotGdi091"
     },
     {
-      "added_at": "2024-08-19 20:22:21",
+      "added_at": "2024-10-04 13:26:51",
       "album": {
         "name": "Minimal Cuts",
         "url": "https://open.spotify.com/album/5X3Jd5TJbC0inKTQI04vRv"
@@ -493,7 +733,7 @@
       "url": "https://open.spotify.com/track/6v6SIvXA1fkswQDgomyvY8"
     },
     {
-      "added_at": "2024-08-19 20:22:21",
+      "added_at": "2024-10-04 13:26:51",
       "album": {
         "name": "Hablando Conmigo",
         "url": "https://open.spotify.com/album/1N0EM6zJQpZusPYmZloLKC"
@@ -509,7 +749,7 @@
       "url": "https://open.spotify.com/track/5AKprfKZeFmNr4KQS3sgFo"
     },
     {
-      "added_at": "2024-08-19 20:22:21",
+      "added_at": "2024-10-04 13:26:51",
       "album": {
         "name": "Digital Arpeggios",
         "url": "https://open.spotify.com/album/08r5s5wKHCSqO2CUZwFvgm"
@@ -525,7 +765,7 @@
       "url": "https://open.spotify.com/track/1DILB9JfEc7qDffFExkY3f"
     },
     {
-      "added_at": "2024-08-19 20:22:21",
+      "added_at": "2024-10-04 13:26:51",
       "album": {
         "name": "Dimension Intrusion (25th Anniversary Edition)",
         "url": "https://open.spotify.com/album/3BSEkF5PStiNQYKZB2RQKE"
@@ -545,7 +785,7 @@
       "url": "https://open.spotify.com/track/15OAhM2KvgLrBoDp5PhAgQ"
     },
     {
-      "added_at": "2024-08-19 20:22:21",
+      "added_at": "2024-10-04 13:26:51",
       "album": {
         "name": "Tri Repetae",
         "url": "https://open.spotify.com/album/3p1ZD8q3sGC6tf81QeVrYI"
@@ -561,7 +801,7 @@
       "url": "https://open.spotify.com/track/4uRXAyNL5T4KY7iawdfJBZ"
     },
     {
-      "added_at": "2024-08-19 20:22:21",
+      "added_at": "2024-10-04 13:26:51",
       "album": {
         "name": "Zoo",
         "url": "https://open.spotify.com/album/6IrDDp7YZwxDSekcsuUOgs"
@@ -581,7 +821,7 @@
       "url": "https://open.spotify.com/track/64mUeY9UBfU6eaVMfD0EKd"
     },
     {
-      "added_at": "2024-08-19 20:22:21",
+      "added_at": "2024-10-04 13:26:51",
       "album": {
         "name": "DANZAAA",
         "url": "https://open.spotify.com/album/5qTwb1KGly0bTI9KhBr1OT"
@@ -597,7 +837,7 @@
       "url": "https://open.spotify.com/track/2Mhs1SKYf04aLMQmfBOyo3"
     },
     {
-      "added_at": "2024-08-19 20:22:21",
+      "added_at": "2024-10-04 13:26:51",
       "album": {
         "name": "Dang",
         "url": "https://open.spotify.com/album/3DZodwqZN2YkjgI0NAwyS8"
@@ -613,7 +853,7 @@
       "url": "https://open.spotify.com/track/7ddHGUPt5bOpVFAtX6TJN8"
     },
     {
-      "added_at": "2024-08-19 20:22:21",
+      "added_at": "2024-10-04 13:26:51",
       "album": {
         "name": "Timbales",
         "url": "https://open.spotify.com/album/52430q4Ou7SLlyAQCWcaz3"
@@ -629,7 +869,7 @@
       "url": "https://open.spotify.com/track/30kV31r8eGjOsGZBbUBqGT"
     },
     {
-      "added_at": "2024-08-19 20:22:21",
+      "added_at": "2024-10-04 13:26:51",
       "album": {
         "name": "The Road To Hell Is Paved With Good Intentions",
         "url": "https://open.spotify.com/album/6geXPbIGVA3lSoA9CrQGhR"
@@ -649,23 +889,7 @@
       "url": "https://open.spotify.com/track/3WPSqHf6rvPMImARWnV8d4"
     },
     {
-      "added_at": "2024-08-19 20:22:21",
-      "album": {
-        "name": "Ghettoville",
-        "url": "https://open.spotify.com/album/3aAvMKQtLLxIHGsW2qsTRA"
-      },
-      "artists": [
-        {
-          "name": "Actress",
-          "url": "https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH"
-        }
-      ],
-      "duration_ms": 152032,
-      "name": "Our",
-      "url": "https://open.spotify.com/track/09YJgxGg4P88zre3weRucL"
-    },
-    {
-      "added_at": "2024-08-19 20:22:21",
+      "added_at": "2024-10-04 13:26:51",
       "album": {
         "name": "Quaristice",
         "url": "https://open.spotify.com/album/21mZBXYBKljtRluyCoCqCK"
@@ -681,7 +905,7 @@
       "url": "https://open.spotify.com/track/0uqSV2Q6vvlxhqd1Go0tMh"
     },
     {
-      "added_at": "2024-08-19 20:22:21",
+      "added_at": "2024-10-04 13:26:51",
       "album": {
         "name": "Circle Game",
         "url": "https://open.spotify.com/album/1mtgrM7P4mC7Ed67wvNN4B"
@@ -697,7 +921,7 @@
       "url": "https://open.spotify.com/track/3WsZapEbeN6YmvpfWtyyxU"
     },
     {
-      "added_at": "2024-08-19 20:22:21",
+      "added_at": "2024-10-04 13:26:51",
       "album": {
         "name": "trip9love...???",
         "url": "https://open.spotify.com/album/0kgD4sTUloCGUbDGyTxqV7"
@@ -711,6 +935,102 @@
       "duration_ms": 157519,
       "name": "Promises",
       "url": "https://open.spotify.com/track/02bDs4bBbp7qzW5E62JMu5"
+    },
+    {
+      "added_at": "2024-10-04 13:26:51",
+      "album": {
+        "name": "Mother",
+        "url": "https://open.spotify.com/album/2PMAHlFSIxrf1i42NPA83I"
+      },
+      "artists": [
+        {
+          "name": "Logic1000",
+          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
+        }
+      ],
+      "duration_ms": 246795,
+      "name": "From Within",
+      "url": "https://open.spotify.com/track/6Dgqi1yKObRppdhonCdpQm"
+    },
+    {
+      "added_at": "2024-10-04 13:26:51",
+      "album": {
+        "name": "Ocotillo",
+        "url": "https://open.spotify.com/album/6nhojCNg9ggxmaEXrVxLCH"
+      },
+      "artists": [
+        {
+          "name": "Floating Points",
+          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
+        }
+      ],
+      "duration_ms": 523556,
+      "name": "Ocotillo",
+      "url": "https://open.spotify.com/track/0VmJyEuoZ3nIzpHgahM05I"
+    },
+    {
+      "added_at": "2024-10-04 13:26:51",
+      "album": {
+        "name": "Derritientes",
+        "url": "https://open.spotify.com/album/4vA2p1432MoICzevvsHfUT"
+      },
+      "artists": [
+        {
+          "name": "Rogelio the IIIrd",
+          "url": "https://open.spotify.com/artist/4rUsH3oMKno1XFIXH9Phve"
+        }
+      ],
+      "duration_ms": 161052,
+      "name": "Derrwut",
+      "url": "https://open.spotify.com/track/4vAgnOJWXHwdgazdc0nKWi"
+    },
+    {
+      "added_at": "2024-10-04 13:26:51",
+      "album": {
+        "name": "\u4e4b / OF",
+        "url": "https://open.spotify.com/album/5L5vwUgHoR5wiJK2wRZaIV"
+      },
+      "artists": [
+        {
+          "name": "LI YILEI",
+          "url": "https://open.spotify.com/artist/791gUmsH46HMASQZvPwXsp"
+        }
+      ],
+      "duration_ms": 143815,
+      "name": "CHU / \u8655",
+      "url": "https://open.spotify.com/track/3BISxa1qpfWo6lGzN37Dlu"
+    },
+    {
+      "added_at": "2024-10-04 13:26:51",
+      "album": {
+        "name": "Ghettoville",
+        "url": "https://open.spotify.com/album/3aAvMKQtLLxIHGsW2qsTRA"
+      },
+      "artists": [
+        {
+          "name": "Actress",
+          "url": "https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH"
+        }
+      ],
+      "duration_ms": 152032,
+      "name": "Our",
+      "url": "https://open.spotify.com/track/09YJgxGg4P88zre3weRucL"
+    },
+    {
+      "added_at": "2024-10-04 13:26:51",
+      "album": {
+        "name": "#3 / Rhubarb Orc. 19.53 Rev",
+        "url": "https://open.spotify.com/album/25tU48vYTi5RyyJzElp1Yc"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "duration_ms": 401911,
+      "name": "Rhubarb Orc. 19.53 Rev",
+      "url": "https://open.spotify.com/track/7wOsvlAHz8E0ycT6NYto13"
     }
   ],
   "unique_name": "Ela Minus' track IDs",

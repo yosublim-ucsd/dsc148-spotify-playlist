@@ -1,6 +1,6 @@
 {
   "description": "A sprinkle of bass, warm vocal drizzle, and dreamy <a href=\"spotify:genre:edm_dance\">dance music</a>, featuring Louis The Child",
-  "num_followers": 778992,
+  "num_followers": 778989,
   "original_name": "creamy",
   "owner": {
     "name": "Spotify",
@@ -220,7 +220,7 @@
           "url": "https://open.spotify.com/artist/0ElSSC4jDQ7mGvDZoAIafM"
         }
       ],
-      "duration_ms": 222625,
+      "duration_ms": 150447,
       "name": "Faded",
       "url": "https://open.spotify.com/track/5WwqEFvtbBur7SQMzVDx2n"
     },
@@ -891,26 +891,18 @@
     {
       "added_at": "2024-10-03 22:00:00",
       "album": {
-        "name": "disappear",
-        "url": "https://open.spotify.com/album/5ux1z2tIfu3AHA6VogGuv3"
+        "name": "library",
+        "url": "https://open.spotify.com/album/7a2Gvdzcg91guMenhk4W6G"
       },
       "artists": [
         {
-          "name": "San Holo",
-          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
-        },
-        {
-          "name": "artemis orion",
-          "url": "https://open.spotify.com/artist/6xLeeQEqxKiq6mXCgvFKSg"
-        },
-        {
-          "name": "dobi",
-          "url": "https://open.spotify.com/artist/4QlfcAMb5uq3SwpHVRjace"
+          "name": "Boone",
+          "url": "https://open.spotify.com/artist/38AjHGnP1jV6bCn2fnx4F5"
         }
       ],
-      "duration_ms": 172847,
-      "name": "disappear",
-      "url": "https://open.spotify.com/track/5BzLCBy61N1a6la0MVtueV"
+      "duration_ms": 166153,
+      "name": "library",
+      "url": "https://open.spotify.com/track/6mz3QCVaJ2RAKqLJiokShY"
     },
     {
       "added_at": "2024-10-03 22:00:00",
@@ -939,18 +931,26 @@
     {
       "added_at": "2024-10-03 22:00:00",
       "album": {
-        "name": "library",
-        "url": "https://open.spotify.com/album/7a2Gvdzcg91guMenhk4W6G"
+        "name": "disappear",
+        "url": "https://open.spotify.com/album/5ux1z2tIfu3AHA6VogGuv3"
       },
       "artists": [
         {
-          "name": "Boone",
-          "url": "https://open.spotify.com/artist/38AjHGnP1jV6bCn2fnx4F5"
+          "name": "San Holo",
+          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
+        },
+        {
+          "name": "artemis orion",
+          "url": "https://open.spotify.com/artist/6xLeeQEqxKiq6mXCgvFKSg"
+        },
+        {
+          "name": "dobi",
+          "url": "https://open.spotify.com/artist/4QlfcAMb5uq3SwpHVRjace"
         }
       ],
-      "duration_ms": 166153,
-      "name": "library",
-      "url": "https://open.spotify.com/track/6mz3QCVaJ2RAKqLJiokShY"
+      "duration_ms": 172847,
+      "name": "disappear",
+      "url": "https://open.spotify.com/track/5BzLCBy61N1a6la0MVtueV"
     },
     {
       "added_at": "2024-10-03 22:00:00",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2024-10-03 22:00:00",
       "album": {
-        "name": "Falling",
-        "url": "https://open.spotify.com/album/4wLNOgkbDWPAIoRmJ8PUhS"
-      },
-      "artists": [
-        {
-          "name": "Camo & Krooked",
-          "url": "https://open.spotify.com/artist/2N8IPNZTiNo3nj4mreOlHU"
-        }
-      ],
-      "duration_ms": 198857,
-      "name": "Falling",
-      "url": "https://open.spotify.com/track/0ySW1vdmqRwA95VvQOc0GC"
-    },
-    {
-      "added_at": "2024-10-03 22:00:00",
-      "album": {
         "name": "Broke My Heart",
         "url": "https://open.spotify.com/album/22TAmmHGJNDO7fDwlf0RE7"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 166523,
       "name": "Broke My Heart",
       "url": "https://open.spotify.com/track/4jf9aWVk63e8c8lC7HABbK"
+    },
+    {
+      "added_at": "2024-10-03 22:00:00",
+      "album": {
+        "name": "Falling",
+        "url": "https://open.spotify.com/album/4wLNOgkbDWPAIoRmJ8PUhS"
+      },
+      "artists": [
+        {
+          "name": "Camo & Krooked",
+          "url": "https://open.spotify.com/artist/2N8IPNZTiNo3nj4mreOlHU"
+        }
+      ],
+      "duration_ms": 198857,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/0ySW1vdmqRwA95VvQOc0GC"
     },
     {
       "added_at": "2024-10-03 22:00:00",
@@ -1295,26 +1295,6 @@
     {
       "added_at": "2024-10-03 22:00:00",
       "album": {
-        "name": "We Are Making Out",
-        "url": "https://open.spotify.com/album/04S5Dt209BG3Gzci4HdrFs"
-      },
-      "artists": [
-        {
-          "name": "Mura Masa",
-          "url": "https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot"
-        },
-        {
-          "name": "yeule",
-          "url": "https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X"
-        }
-      ],
-      "duration_ms": 170975,
-      "name": "We Are Making Out",
-      "url": "https://open.spotify.com/track/2edyh4YVEmmyvv8BosK5rw"
-    },
-    {
-      "added_at": "2024-10-03 22:00:00",
-      "album": {
         "name": "Windhorse",
         "url": "https://open.spotify.com/album/4sz5jike641ayFQ12d1wRu"
       },
@@ -1331,6 +1311,26 @@
       "duration_ms": 234244,
       "name": "Windhorse",
       "url": "https://open.spotify.com/track/6tTDDMmEJpyA97VNYQjjeP"
+    },
+    {
+      "added_at": "2024-10-03 22:00:00",
+      "album": {
+        "name": "We Are Making Out",
+        "url": "https://open.spotify.com/album/04S5Dt209BG3Gzci4HdrFs"
+      },
+      "artists": [
+        {
+          "name": "Mura Masa",
+          "url": "https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot"
+        },
+        {
+          "name": "yeule",
+          "url": "https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X"
+        }
+      ],
+      "duration_ms": 170975,
+      "name": "We Are Making Out",
+      "url": "https://open.spotify.com/track/2edyh4YVEmmyvv8BosK5rw"
     },
     {
       "added_at": "2024-10-03 22:00:00",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2024-10-03 22:00:00",
       "album": {
-        "name": "CHROMA 001",
-        "url": "https://open.spotify.com/album/1RC0P594vzP00VYIEH8yNZ"
-      },
-      "artists": [
-        {
-          "name": "BICEP",
-          "url": "https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga"
-        }
-      ],
-      "duration_ms": 287447,
-      "name": "CHROMA 001 HELIUM",
-      "url": "https://open.spotify.com/track/7zVP6H7YeyHEL9f6w6Bmqm"
-    },
-    {
-      "added_at": "2024-10-03 22:00:00",
-      "album": {
         "name": "Things to Come",
         "url": "https://open.spotify.com/album/27vIEhBrsAL30xLMS41ZyA"
       },
@@ -1391,42 +1375,54 @@
     {
       "added_at": "2024-10-03 22:00:00",
       "album": {
-        "name": "Believe It (with Madeon)",
-        "url": "https://open.spotify.com/album/19wYBYcGqvKbpmuUz8YFuA"
+        "name": "CHROMA 001",
+        "url": "https://open.spotify.com/album/1RC0P594vzP00VYIEH8yNZ"
       },
       "artists": [
         {
-          "name": "Louis The Child",
-          "url": "https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0"
-        },
-        {
-          "name": "Madeon",
-          "url": "https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc"
+          "name": "BICEP",
+          "url": "https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga"
         }
       ],
-      "duration_ms": 150464,
-      "name": "Believe It (with Madeon)",
-      "url": "https://open.spotify.com/track/5glaxT4IXZtym1ea6RFW49"
+      "duration_ms": 287447,
+      "name": "CHROMA 001 HELIUM",
+      "url": "https://open.spotify.com/track/7zVP6H7YeyHEL9f6w6Bmqm"
     },
     {
       "added_at": "2024-10-03 22:00:00",
       "album": {
-        "name": "Life of a Wallflower , Vol. 2",
-        "url": "https://open.spotify.com/album/3GSWRznG9Mtu1AXjPNb18T"
+        "name": "The lights on your face. (DROELOE Remix)",
+        "url": "https://open.spotify.com/album/1DmuirmdZ33y065q9ZD962"
       },
       "artists": [
         {
-          "name": "Whethan",
-          "url": "https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP"
+          "name": "The Caracal Project",
+          "url": "https://open.spotify.com/artist/1m3Z3kHjeDDFzKNWqvTlYN"
         },
         {
-          "name": "shy martin",
-          "url": "https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM"
+          "name": "DROELOE",
+          "url": "https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA"
         }
       ],
-      "duration_ms": 166158,
-      "name": "PLACE IN MY MIND (feat. shy martin)",
-      "url": "https://open.spotify.com/track/0JALW2dwPffv5nNeKCIS0N"
+      "duration_ms": 208555,
+      "name": "The lights on your face. - DROELOE Remix",
+      "url": "https://open.spotify.com/track/4vPR2m9tS4v7F7JXCqgdJU"
+    },
+    {
+      "added_at": "2024-10-03 22:00:00",
+      "album": {
+        "name": "SENESCENCE",
+        "url": "https://open.spotify.com/album/3ibzGjl8ndao9xMTtMEPf9"
+      },
+      "artists": [
+        {
+          "name": "BAYNK",
+          "url": "https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj"
+        }
+      ],
+      "duration_ms": 176706,
+      "name": "Older",
+      "url": "https://open.spotify.com/track/5iYllqp8cdbFSjU3sHzoKn"
     },
     {
       "added_at": "2024-10-03 22:00:00",
@@ -1455,26 +1451,22 @@
     {
       "added_at": "2024-10-03 22:00:00",
       "album": {
-        "name": "Criminal",
-        "url": "https://open.spotify.com/album/1uyc31Iw3pbYXstxykjzfr"
+        "name": "Life of a Wallflower , Vol. 2",
+        "url": "https://open.spotify.com/album/3GSWRznG9Mtu1AXjPNb18T"
       },
       "artists": [
         {
-          "name": "Zeds Dead",
-          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
+          "name": "Whethan",
+          "url": "https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP"
         },
         {
-          "name": "Hamdi",
-          "url": "https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg"
-        },
-        {
-          "name": "Warrior Queen",
-          "url": "https://open.spotify.com/artist/6MGlEnPgJhFkC8P8DdKtsT"
+          "name": "shy martin",
+          "url": "https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM"
         }
       ],
-      "duration_ms": 251862,
-      "name": "Criminal",
-      "url": "https://open.spotify.com/track/1wlsLLlTQjtqBvrPbKXHXd"
+      "duration_ms": 166158,
+      "name": "PLACE IN MY MIND (feat. shy martin)",
+      "url": "https://open.spotify.com/track/0JALW2dwPffv5nNeKCIS0N"
     },
     {
       "added_at": "2024-10-03 22:00:00",
@@ -1503,6 +1495,30 @@
     {
       "added_at": "2024-10-03 22:00:00",
       "album": {
+        "name": "Criminal",
+        "url": "https://open.spotify.com/album/1uyc31Iw3pbYXstxykjzfr"
+      },
+      "artists": [
+        {
+          "name": "Zeds Dead",
+          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
+        },
+        {
+          "name": "Hamdi",
+          "url": "https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg"
+        },
+        {
+          "name": "Warrior Queen",
+          "url": "https://open.spotify.com/artist/6MGlEnPgJhFkC8P8DdKtsT"
+        }
+      ],
+      "duration_ms": 251862,
+      "name": "Criminal",
+      "url": "https://open.spotify.com/track/1wlsLLlTQjtqBvrPbKXHXd"
+    },
+    {
+      "added_at": "2024-10-03 22:00:00",
+      "album": {
         "name": "S.O.S",
         "url": "https://open.spotify.com/album/5sudLLMrf4J9ymgG8f07Ba"
       },
@@ -1527,6 +1543,26 @@
     {
       "added_at": "2024-10-03 22:00:00",
       "album": {
+        "name": "Believe It (with Madeon)",
+        "url": "https://open.spotify.com/album/19wYBYcGqvKbpmuUz8YFuA"
+      },
+      "artists": [
+        {
+          "name": "Louis The Child",
+          "url": "https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0"
+        },
+        {
+          "name": "Madeon",
+          "url": "https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc"
+        }
+      ],
+      "duration_ms": 150464,
+      "name": "Believe It (with Madeon)",
+      "url": "https://open.spotify.com/track/5glaxT4IXZtym1ea6RFW49"
+    },
+    {
+      "added_at": "2024-10-03 22:00:00",
+      "album": {
         "name": "Leave Me Like This",
         "url": "https://open.spotify.com/album/2U5XHV8AMBojtjxB6AWP6U"
       },
@@ -1543,54 +1579,6 @@
       "duration_ms": 188571,
       "name": "Leave Me Like This",
       "url": "https://open.spotify.com/track/7vzWtCVhEKDmDkMmT3AiUL"
-    },
-    {
-      "added_at": "2024-10-03 22:00:00",
-      "album": {
-        "name": "Slow (with \u0141aszewo & pluko)",
-        "url": "https://open.spotify.com/album/1PgLV682VcIkeUabDEEDqa"
-      },
-      "artists": [
-        {
-          "name": "Louis The Child",
-          "url": "https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0"
-        },
-        {
-          "name": "\u0141aszewo",
-          "url": "https://open.spotify.com/artist/6jxGLrn1I14RIeRYodOpLN"
-        },
-        {
-          "name": "pluko",
-          "url": "https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5"
-        }
-      ],
-      "duration_ms": 191573,
-      "name": "Slow (with \u0141aszewo & pluko)",
-      "url": "https://open.spotify.com/track/1xM4as4z4qfqXzk4HR8GPb"
-    },
-    {
-      "added_at": "2024-10-03 22:00:00",
-      "album": {
-        "name": "Slow Motion",
-        "url": "https://open.spotify.com/album/366r6mv4J4Qsv5EunUmu9Z"
-      },
-      "artists": [
-        {
-          "name": "What So Not",
-          "url": "https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi"
-        },
-        {
-          "name": "IMANU",
-          "url": "https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1"
-        },
-        {
-          "name": "MNDR",
-          "url": "https://open.spotify.com/artist/7gQNLR8mykA1KjGClbPYHe"
-        }
-      ],
-      "duration_ms": 195789,
-      "name": "Slow Motion",
-      "url": "https://open.spotify.com/track/2WtJS2zwWmGVJr07XLhQDC"
     },
     {
       "added_at": "2024-10-03 22:00:00",
@@ -1615,18 +1603,26 @@
     {
       "added_at": "2024-10-03 22:00:00",
       "album": {
-        "name": "anywhere but here",
-        "url": "https://open.spotify.com/album/5Ivp78PXSv4ljWonz8thzm"
+        "name": "Slow Motion",
+        "url": "https://open.spotify.com/album/366r6mv4J4Qsv5EunUmu9Z"
       },
       "artists": [
         {
-          "name": "demotapes",
-          "url": "https://open.spotify.com/artist/7J3jiKIiROsYOlJeEml34X"
+          "name": "What So Not",
+          "url": "https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi"
+        },
+        {
+          "name": "IMANU",
+          "url": "https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1"
+        },
+        {
+          "name": "MNDR",
+          "url": "https://open.spotify.com/artist/7gQNLR8mykA1KjGClbPYHe"
         }
       ],
-      "duration_ms": 131612,
-      "name": "anywhere but here",
-      "url": "https://open.spotify.com/track/0uR4Uhv8MiGJOYHPh0ZaB1"
+      "duration_ms": 195789,
+      "name": "Slow Motion",
+      "url": "https://open.spotify.com/track/2WtJS2zwWmGVJr07XLhQDC"
     },
     {
       "added_at": "2024-10-03 22:00:00",
@@ -1675,6 +1671,22 @@
     {
       "added_at": "2024-10-03 22:00:00",
       "album": {
+        "name": "anywhere but here",
+        "url": "https://open.spotify.com/album/5Ivp78PXSv4ljWonz8thzm"
+      },
+      "artists": [
+        {
+          "name": "demotapes",
+          "url": "https://open.spotify.com/artist/7J3jiKIiROsYOlJeEml34X"
+        }
+      ],
+      "duration_ms": 131612,
+      "name": "anywhere but here",
+      "url": "https://open.spotify.com/track/0uR4Uhv8MiGJOYHPh0ZaB1"
+    },
+    {
+      "added_at": "2024-10-03 22:00:00",
+      "album": {
         "name": "INTROSPECTIVE",
         "url": "https://open.spotify.com/album/1VWigZ4X83wAkWPNwH0hGW"
       },
@@ -1687,62 +1699,6 @@
       "duration_ms": 226024,
       "name": "INTROSPECTIVE",
       "url": "https://open.spotify.com/track/5mxk3kAPTFubXtE6m5xKw2"
-    },
-    {
-      "added_at": "2024-10-03 22:00:00",
-      "album": {
-        "name": "Exhilarate (feat. Bibi Bourelly)",
-        "url": "https://open.spotify.com/album/2hRxMeM5JeYjHLjGRrQ3lL"
-      },
-      "artists": [
-        {
-          "name": "SOPHIE",
-          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
-        },
-        {
-          "name": "Bibi Bourelly",
-          "url": "https://open.spotify.com/artist/3jDtqAKltRxJi64svLZGj7"
-        }
-      ],
-      "duration_ms": 263122,
-      "name": "Exhilarate (feat. Bibi Bourelly)",
-      "url": "https://open.spotify.com/track/077XTAiMeMkjv6Tz464t0r"
-    },
-    {
-      "added_at": "2024-10-03 22:00:00",
-      "album": {
-        "name": "SENESCENCE",
-        "url": "https://open.spotify.com/album/3ibzGjl8ndao9xMTtMEPf9"
-      },
-      "artists": [
-        {
-          "name": "BAYNK",
-          "url": "https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj"
-        }
-      ],
-      "duration_ms": 176706,
-      "name": "Older",
-      "url": "https://open.spotify.com/track/5iYllqp8cdbFSjU3sHzoKn"
-    },
-    {
-      "added_at": "2024-10-03 22:00:00",
-      "album": {
-        "name": "The lights on your face. (DROELOE Remix)",
-        "url": "https://open.spotify.com/album/1DmuirmdZ33y065q9ZD962"
-      },
-      "artists": [
-        {
-          "name": "The Caracal Project",
-          "url": "https://open.spotify.com/artist/1m3Z3kHjeDDFzKNWqvTlYN"
-        },
-        {
-          "name": "DROELOE",
-          "url": "https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA"
-        }
-      ],
-      "duration_ms": 208555,
-      "name": "The lights on your face. - DROELOE Remix",
-      "url": "https://open.spotify.com/track/4vPR2m9tS4v7F7JXCqgdJU"
     },
     {
       "added_at": "2024-10-03 22:00:00",
@@ -1767,6 +1723,50 @@
     {
       "added_at": "2024-10-03 22:00:00",
       "album": {
+        "name": "Exhilarate (feat. Bibi Bourelly)",
+        "url": "https://open.spotify.com/album/2hRxMeM5JeYjHLjGRrQ3lL"
+      },
+      "artists": [
+        {
+          "name": "SOPHIE",
+          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
+        },
+        {
+          "name": "Bibi Bourelly",
+          "url": "https://open.spotify.com/artist/3jDtqAKltRxJi64svLZGj7"
+        }
+      ],
+      "duration_ms": 263122,
+      "name": "Exhilarate (feat. Bibi Bourelly)",
+      "url": "https://open.spotify.com/track/077XTAiMeMkjv6Tz464t0r"
+    },
+    {
+      "added_at": "2024-10-03 22:00:00",
+      "album": {
+        "name": "Slow (with \u0141aszewo & pluko)",
+        "url": "https://open.spotify.com/album/1PgLV682VcIkeUabDEEDqa"
+      },
+      "artists": [
+        {
+          "name": "Louis The Child",
+          "url": "https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0"
+        },
+        {
+          "name": "\u0141aszewo",
+          "url": "https://open.spotify.com/artist/6jxGLrn1I14RIeRYodOpLN"
+        },
+        {
+          "name": "pluko",
+          "url": "https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5"
+        }
+      ],
+      "duration_ms": 191573,
+      "name": "Slow (with \u0141aszewo & pluko)",
+      "url": "https://open.spotify.com/track/1xM4as4z4qfqXzk4HR8GPb"
+    },
+    {
+      "added_at": "2024-10-03 22:00:00",
+      "album": {
         "name": "TALKING WALLS",
         "url": "https://open.spotify.com/album/023LW9WoSCeEDUwLBPIsHJ"
       },
@@ -1779,22 +1779,6 @@
       "duration_ms": 152380,
       "name": "TALKING WALLS",
       "url": "https://open.spotify.com/track/2EgVyvvuU95B3DqEZxbtj5"
-    },
-    {
-      "added_at": "2024-10-03 22:00:00",
-      "album": {
-        "name": "CHROMA 004",
-        "url": "https://open.spotify.com/album/7cUJWzpsqr0derOqCfJxol"
-      },
-      "artists": [
-        {
-          "name": "BICEP",
-          "url": "https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga"
-        }
-      ],
-      "duration_ms": 289054,
-      "name": "CHROMA 004 ROLA",
-      "url": "https://open.spotify.com/track/3YTLL48dJGvXU7NrtiXDFQ"
     },
     {
       "added_at": "2024-10-03 22:00:00",
@@ -1819,6 +1803,42 @@
       "duration_ms": 240454,
       "name": "Lights Go Out",
       "url": "https://open.spotify.com/track/0FJ57QkOsbHFKJxwpiRgNP"
+    },
+    {
+      "added_at": "2024-10-03 22:00:00",
+      "album": {
+        "name": "CHROMA 004",
+        "url": "https://open.spotify.com/album/7cUJWzpsqr0derOqCfJxol"
+      },
+      "artists": [
+        {
+          "name": "BICEP",
+          "url": "https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga"
+        }
+      ],
+      "duration_ms": 289054,
+      "name": "CHROMA 004 ROLA",
+      "url": "https://open.spotify.com/track/3YTLL48dJGvXU7NrtiXDFQ"
+    },
+    {
+      "added_at": "2024-10-03 22:00:00",
+      "album": {
+        "name": "what is life?",
+        "url": "https://open.spotify.com/album/5MhjGemaJZAgIqHxcXyiRz"
+      },
+      "artists": [
+        {
+          "name": "San Holo",
+          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
+        },
+        {
+          "name": "Bipolar Sunshine",
+          "url": "https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H"
+        }
+      ],
+      "duration_ms": 181231,
+      "name": "what is life?",
+      "url": "https://open.spotify.com/track/4nBTt4n122lScgQwHzKVCV"
     },
     {
       "added_at": "2024-10-03 22:00:00",
@@ -1859,26 +1879,6 @@
     {
       "added_at": "2024-10-03 22:00:00",
       "album": {
-        "name": "Love You Better",
-        "url": "https://open.spotify.com/album/4Atnbyh27j1EORSgaGSQl6"
-      },
-      "artists": [
-        {
-          "name": "Killen.",
-          "url": "https://open.spotify.com/artist/0faVSLrVTvEXkpSVBUQ3Wt"
-        },
-        {
-          "name": "Oaks",
-          "url": "https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO"
-        }
-      ],
-      "duration_ms": 185524,
-      "name": "Love You Better",
-      "url": "https://open.spotify.com/track/2kWNyEz9kIN6SDZwW2TbXU"
-    },
-    {
-      "added_at": "2024-10-03 22:00:00",
-      "album": {
         "name": "NOT ANGRY",
         "url": "https://open.spotify.com/album/3JJC8SfFjR0yKGV2SEOWSF"
       },
@@ -1895,18 +1895,22 @@
     {
       "added_at": "2024-10-03 22:00:00",
       "album": {
-        "name": "ok </3",
-        "url": "https://open.spotify.com/album/7Cp4NjG6vmRiPDOfihtSg1"
+        "name": "Love You Better",
+        "url": "https://open.spotify.com/album/4Atnbyh27j1EORSgaGSQl6"
       },
       "artists": [
         {
-          "name": "okgiorgio",
-          "url": "https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg"
+          "name": "Killen.",
+          "url": "https://open.spotify.com/artist/0faVSLrVTvEXkpSVBUQ3Wt"
+        },
+        {
+          "name": "Oaks",
+          "url": "https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO"
         }
       ],
-      "duration_ms": 204760,
-      "name": "ok </3",
-      "url": "https://open.spotify.com/track/7EF7xI1dSQj1dN1dP3YPPW"
+      "duration_ms": 185524,
+      "name": "Love You Better",
+      "url": "https://open.spotify.com/track/2kWNyEz9kIN6SDZwW2TbXU"
     },
     {
       "added_at": "2024-10-03 22:00:00",
@@ -1935,22 +1939,18 @@
     {
       "added_at": "2024-10-03 22:00:00",
       "album": {
-        "name": "what is life?",
-        "url": "https://open.spotify.com/album/5MhjGemaJZAgIqHxcXyiRz"
+        "name": "ok </3",
+        "url": "https://open.spotify.com/album/7Cp4NjG6vmRiPDOfihtSg1"
       },
       "artists": [
         {
-          "name": "San Holo",
-          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
-        },
-        {
-          "name": "Bipolar Sunshine",
-          "url": "https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H"
+          "name": "okgiorgio",
+          "url": "https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg"
         }
       ],
-      "duration_ms": 181231,
-      "name": "what is life?",
-      "url": "https://open.spotify.com/track/4nBTt4n122lScgQwHzKVCV"
+      "duration_ms": 204760,
+      "name": "ok </3",
+      "url": "https://open.spotify.com/track/7EF7xI1dSQj1dN1dP3YPPW"
     },
     {
       "added_at": "2024-10-03 22:00:00",
@@ -1971,26 +1971,26 @@
     {
       "added_at": "2024-10-03 22:00:00",
       "album": {
-        "name": "USB",
-        "url": "https://open.spotify.com/album/6ZnRegEJuZRhLGrOKh0Y7n"
+        "name": "HEADSH\u00d6T",
+        "url": "https://open.spotify.com/album/1c5e7aPE2A16KQDZVImEE2"
       },
       "artists": [
         {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+          "name": "8\u00d68",
+          "url": "https://open.spotify.com/artist/7rzhW5cgtn6da9Ixg8quoU"
         },
         {
-          "name": "Duoteque",
-          "url": "https://open.spotify.com/artist/1fDV6gCETmlkCUugBxq59g"
+          "name": "Sh\u00f6ckface",
+          "url": "https://open.spotify.com/artist/4PNtYvG1kZcGx80M9G9EoM"
         },
         {
-          "name": "Orion Sun",
-          "url": "https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m"
+          "name": "ero808",
+          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
         }
       ],
-      "duration_ms": 327508,
-      "name": "ItsNotREEAALLLLLLLL",
-      "url": "https://open.spotify.com/track/397GpgLAJnwQDBwIJ8ko1t"
+      "duration_ms": 157036,
+      "name": "HEADSH\u00d6T",
+      "url": "https://open.spotify.com/track/1I53j1Vvwkla8P2JIecioT"
     }
   ],
   "unique_name": "creamy",

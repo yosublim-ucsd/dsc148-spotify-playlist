@@ -647,6 +647,24 @@
     },
     {
       "album": {
+        "name": "Be Someone",
+        "url": "https://open.spotify.com/album/4lqmF9FjM1SXTkSAGNt1LW"
+      },
+      "artists": [
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225542,
+      "name": "Be Someone",
+      "url": "https://open.spotify.com/track/0IxSrOKtHS5O561qA7JJaV"
+    },
+    {
+      "album": {
         "name": "The Ride",
         "url": "https://open.spotify.com/album/4XibEeMTF3nDZK8zpUXDoS"
       },
@@ -1930,7 +1948,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 345680,
       "name": "Forever [Feat. PJ Morton & India.Arie]",
       "url": "https://open.spotify.com/track/2IXLSYxZBRa7KiQm6yyFYo"
@@ -3362,7 +3380,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 217800,
       "name": "Just for the Day",
       "url": "https://open.spotify.com/track/0QmULc4I1zVKUU9BoI2dqd"
@@ -4238,7 +4256,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 268600,
       "name": "Message",
       "url": "https://open.spotify.com/track/4tE4vdQo0FziPi2NeGFBym"
@@ -5496,6 +5514,28 @@
       "duration_ms": 202560,
       "name": "Quarantined With You",
       "url": "https://open.spotify.com/track/6ZxWtJqM3r2imGqHFxZSDr"
+    },
+    {
+      "album": {
+        "name": "Quiet in a World Full of Noise",
+        "url": "https://open.spotify.com/album/731xzbAjZ9q07B0rEssiwu"
+      },
+      "artists": [
+        {
+          "name": "Dawn Richard",
+          "url": "https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9"
+        },
+        {
+          "name": "Spencer Zahn",
+          "url": "https://open.spotify.com/artist/7Besl9VdibJqiIjJ40fphx"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241753,
+      "name": "Quiet in a World Full of Noise",
+      "url": "https://open.spotify.com/track/5P8nNe0VPbeADTQkpykoKx"
     },
     {
       "album": {
@@ -7328,6 +7368,24 @@
       "duration_ms": 190317,
       "name": "What We Found",
       "url": "https://open.spotify.com/track/60npzcMuSF3IgdQoAHIFfx"
+    },
+    {
+      "album": {
+        "name": "What've We Got To Lose",
+        "url": "https://open.spotify.com/album/6uaJKHcBFvi54Gp29bwgfT"
+      },
+      "artists": [
+        {
+          "name": "Lilly Winwood",
+          "url": "https://open.spotify.com/artist/3mU9T77X4VyIE2Eb9Av8Sp"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306106,
+      "name": "What've We Got To Lose",
+      "url": "https://open.spotify.com/track/1JSnp4c1aamiTuDKsDUPeG"
     },
     {
       "album": {

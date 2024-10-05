@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvyNAAAAAAAKGWveknz5X3HC0XJPc/yu",
+  "snapshot_id": "Zv3egAAAAACyqcW8Ju6g0RzLD+GRdIGu",
   "tracks": [
     {
       "added_at": null,
@@ -147,22 +147,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Good As Gone",
-        "url": "https://open.spotify.com/album/6xyZUAYOK1HYK9Wb1LV1BB"
+        "name": "Good Person",
+        "url": "https://open.spotify.com/album/3Ua9kX869krW1M3UjEJVPv"
       },
       "artists": [
-        {
-          "name": "Marc Scibilia",
-          "url": "https://open.spotify.com/artist/4CHiVarfTsFhkFOk5vHS77"
-        },
         {
           "name": "Ingrid Andress",
           "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
         }
       ],
-      "duration_ms": 187341,
-      "name": "Good As Gone",
-      "url": "https://open.spotify.com/track/5y3WVqKQS4IVUMAP32vIy5"
+      "duration_ms": 212435,
+      "name": "Yearbook",
+      "url": "https://open.spotify.com/track/0V4kaCT7kbYjB3xDVBYWLP"
     },
     {
       "added_at": null,
@@ -183,18 +179,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Good Person",
-        "url": "https://open.spotify.com/album/3Ua9kX869krW1M3UjEJVPv"
+        "name": "Good As Gone",
+        "url": "https://open.spotify.com/album/6xyZUAYOK1HYK9Wb1LV1BB"
       },
       "artists": [
+        {
+          "name": "Marc Scibilia",
+          "url": "https://open.spotify.com/artist/4CHiVarfTsFhkFOk5vHS77"
+        },
         {
           "name": "Ingrid Andress",
           "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
         }
       ],
-      "duration_ms": 212435,
-      "name": "Yearbook",
-      "url": "https://open.spotify.com/track/0V4kaCT7kbYjB3xDVBYWLP"
+      "duration_ms": 187341,
+      "name": "Good As Gone",
+      "url": "https://open.spotify.com/track/5y3WVqKQS4IVUMAP32vIy5"
     },
     {
       "added_at": null,

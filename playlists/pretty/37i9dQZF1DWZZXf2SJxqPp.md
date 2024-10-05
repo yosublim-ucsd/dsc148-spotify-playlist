@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZXf2SJxqPp.md) - [plain]
 
 > Canciones deliciosas para relajarse y pasarla chill junto a la piscina\. 🏖️🏊🍹
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,882 likes - 100 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,897 likes - 100 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,11 +83,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZXf2SJxqPp.md) - [plain]
 | 73 | [Sister](https://open.spotify.com/track/2StEq5J2bCq5JiwCKbansz) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [Sister](https://open.spotify.com/album/4INuwtV1B2dNCUbFkUXtFL) | 4:28 |
 | 74 | [Rooftop](https://open.spotify.com/track/2kFkb913w3d49GBzdXqarM) | [Tabú](https://open.spotify.com/artist/3ixqu2cJbIKBGVVmAd9KY3) | [Rooftop](https://open.spotify.com/album/3vjgqeZ3T1cDCY0RJnjAMD) | 3:40 |
 | 75 | [Don't Sing \(Polo & Pan Remix\)](https://open.spotify.com/track/3e4OoM7ltrDn63xcZccpj1) | [Data](https://open.spotify.com/artist/75QkeG5yBHVCybZurCrMa8), [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM) | [Don't Sing](https://open.spotify.com/album/7HGiUWfOslsBiDEeJkzy4V) | 5:11 |
-| 76 | [Don´t Give Up](https://open.spotify.com/track/145Hd5EtKOkJKyoWUIddzM) | [Travelers All Stars](https://open.spotify.com/artist/648TQGLrKzZRl8sxfcM6QH) | [BOSS REGGAE FROM MEXICO \- REGGAE GORDO](https://open.spotify.com/album/4tOQx2JFrcweaQ7ASv9XJT) | 2:50 |
-| 77 | [Through The Night](https://open.spotify.com/track/6cC17xWrGqAFqJ3DNBOrqp) | [André Aguado](https://open.spotify.com/artist/6USxBSmx4wkhLW61dT1DgC) | [Luminous](https://open.spotify.com/album/2nTexLdtmJEpfFSftYb7C0) | 4:00 |
+| 76 | [Through The Night](https://open.spotify.com/track/6cC17xWrGqAFqJ3DNBOrqp) | [André Aguado](https://open.spotify.com/artist/6USxBSmx4wkhLW61dT1DgC) | [Luminous](https://open.spotify.com/album/2nTexLdtmJEpfFSftYb7C0) | 4:00 |
+| 77 | [Don´t Give Up](https://open.spotify.com/track/145Hd5EtKOkJKyoWUIddzM) | [Travelers All Stars](https://open.spotify.com/artist/648TQGLrKzZRl8sxfcM6QH) | [BOSS REGGAE FROM MEXICO \- REGGAE GORDO](https://open.spotify.com/album/4tOQx2JFrcweaQ7ASv9XJT) | 2:50 |
 | 78 | [Discoman](https://open.spotify.com/track/5YpB83TMSxvNw3F7SMikHq) | [YoSoyMatt](https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV), [French Braids](https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E) | [Discoman](https://open.spotify.com/album/0A2nttPiJAdDfjkmt9l2vT) | 3:40 |
-| 79 | [Burnt Orange \- Edit](https://open.spotify.com/track/1O73n53LZxJNLeGdhwChtt) | [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS) | [Burnt Orange](https://open.spotify.com/album/3krmis8XpyRrEGKQ4LXRf4) | 4:31 |
-| 80 | [Rain Check](https://open.spotify.com/track/0qSAag81S96PZ38BBQlk7B) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [Rain Check](https://open.spotify.com/album/48N0TU0by4ICq7n8UFn7q8) | 2:16 |
+| 79 | [Rain Check](https://open.spotify.com/track/0qSAag81S96PZ38BBQlk7B) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [Rain Check](https://open.spotify.com/album/48N0TU0by4ICq7n8UFn7q8) | 2:16 |
+| 80 | [Burnt Orange \- Edit](https://open.spotify.com/track/1O73n53LZxJNLeGdhwChtt) | [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS) | [Burnt Orange](https://open.spotify.com/album/3krmis8XpyRrEGKQ4LXRf4) | 4:31 |
 | 81 | [How Long](https://open.spotify.com/track/1uOtAQ7g9zVKf8vh0dcO4d) | [Bag Raiders](https://open.spotify.com/artist/6fXEqmGQEt6ONuqVmwrN46), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI) | [Horizons](https://open.spotify.com/album/0cvFQyuT54tOUaVJVSTB5y) | 4:21 |
 | 82 | [Stranded](https://open.spotify.com/track/5Guana9cMolXSB28I8NG7w) | [Art of November](https://open.spotify.com/artist/1jLcY4U2jXPcyzUg6FANBq) | [Stranded](https://open.spotify.com/album/1h2qxdjCHwe1KmiDPOi3CT) | 3:49 |
 | 83 | [Une Beat Encore](https://open.spotify.com/track/1IcvRPjADDdJVqraXMk5W0) | [Maulisé](https://open.spotify.com/artist/00Z5AOJft0KxS7v35Btgm1) | [Une Beat Encore](https://open.spotify.com/album/2LZbXiTsLFaX6tiERnEYfu) | 3:16 |
@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZXf2SJxqPp.md) - [plain]
 | 87 | [Boney M Down](https://open.spotify.com/track/4o4lNCu3RYVl7B9BB3YEzF) | [Lindstrøm](https://open.spotify.com/artist/2vTtjIqZ7hW0W15t1ApKTB), [Prins Thomas](https://open.spotify.com/artist/4rsEVNO1tGTY0beCnsnHi6) | [Lindstrom & Prins Thomas](https://open.spotify.com/album/0wjx77A92ow66hxXmwapcM) | 3:49 |
 | 88 | [Lost in Music](https://open.spotify.com/track/5HTIpHpGL1GJDxEpyaipK9) | [Maulisé](https://open.spotify.com/artist/00Z5AOJft0KxS7v35Btgm1) | [Lost in Music](https://open.spotify.com/album/4Q3jOD21FwVdIHrKHQQJIG) | 3:28 |
 | 89 | [El Sabor del Viejo Mar](https://open.spotify.com/track/29vzHaxX9UoRuRX1iBSbbl) | [YoSoyMatt](https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV), [French Braids](https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E) | [El Sabor del Viejo Mar](https://open.spotify.com/album/3tq5mJs63eWyYYHsv1sdE1) | 4:23 |
-| 90 | [Station Romance](https://open.spotify.com/track/5sh4Ro1zrlpTrh07dVDTIn) | [Crade](https://open.spotify.com/artist/0sv3Ei5QResLibVKGeW1HM) | [Station Romance](https://open.spotify.com/album/4x5EIKMMxPIHVrRT2HfPAV) | 7:39 |
-| 91 | [Canta](https://open.spotify.com/track/4BkwcPvGeKVat4mXCHBORN) | [Amo Amo](https://open.spotify.com/artist/6IXFZ8obsCsz6YcPuPwSSm) | [Canta](https://open.spotify.com/album/2rmC6nJOCMzUn2VqTxbFik) | 4:35 |
+| 90 | [Canta](https://open.spotify.com/track/4BkwcPvGeKVat4mXCHBORN) | [Amo Amo](https://open.spotify.com/artist/6IXFZ8obsCsz6YcPuPwSSm) | [Canta](https://open.spotify.com/album/2rmC6nJOCMzUn2VqTxbFik) | 4:35 |
+| 91 | [Station Romance](https://open.spotify.com/track/5sh4Ro1zrlpTrh07dVDTIn) | [Crade](https://open.spotify.com/artist/0sv3Ei5QResLibVKGeW1HM) | [Station Romance](https://open.spotify.com/album/4x5EIKMMxPIHVrRT2HfPAV) | 7:39 |
 | 92 | [Don't Stop Me Now](https://open.spotify.com/track/4G5NyEbu42sYIBeobEa1Pd) | [Nathan Behrens](https://open.spotify.com/artist/5R5BFqktonbS13NFJKJKLc) | [Don't Stop Me Now](https://open.spotify.com/album/6omAkoBcsxk9kdAz9SZ2N1) | 3:28 |
 | 93 | [L'amour, l'amour, l'amour](https://open.spotify.com/track/1wMjKNDoHNZxTfPlGTfPA5) | [Bon Entendeur](https://open.spotify.com/artist/2lwjwKfYZCuPEJOo8t32CD), [Mouloudji](https://open.spotify.com/artist/4pZgpCHvAI14ug9dSfxTjp) | [L'amour, l'amour, l'amour](https://open.spotify.com/album/6oj9nooSiowSdAl3Qhg66u) | 3:08 |
 | 94 | [Shut Down](https://open.spotify.com/track/4voScCHrWmAGe5iAHrFMmk) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR) | [Last Dream](https://open.spotify.com/album/19hum2Jtf27MsPyb9nEHK9) | 4:02 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZXf2SJxqPp.md) - [plain]
 | 97 | [Beginning \- Totally Enormous Extinct Dinosaurs Remix](https://open.spotify.com/track/6DKILAX03B9oLWDaLkw1Vp) | [LA Priest](https://open.spotify.com/artist/2JYMUWD8r1jFFjD1V3WcCX), [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [Beginning \(Totally Enormous Extinct Dinosaurs Remix\)](https://open.spotify.com/album/7DcdXnMiadzyxSlQnLIsCo) | 5:50 |
 | 98 | [Fou de toi](https://open.spotify.com/track/32w1T02SEa3WVJIukZjvEe) | [Pupkulies & Rebecca](https://open.spotify.com/artist/0LtDMZWibqA2ET2EG6ny0K) | [Looking for the Sea](https://open.spotify.com/album/7e00Ls1IiRJSXyaT5deW6Z) | 3:33 |
 | 99 | [Backdrops](https://open.spotify.com/track/1L6yd85lGhfCGbNwKKvcAp) | [Walientinho](https://open.spotify.com/artist/4qVK77FWzEGLmP1Vw1I9or) | [Backdrops](https://open.spotify.com/album/7uabdAZxN8OvV4ZO3yRoJC) | 3:06 |
-| 100 | [A bite of papaya](https://open.spotify.com/track/2jwKTqnvzrhj4b6Dhm07lW) | [Miynt](https://open.spotify.com/artist/4grFkvUAEj8IWdGDEJ2F4b) | [A bite of papaya](https://open.spotify.com/album/6qAd2bXuzauRuwzHYCHu3n) | 4:17 |
+| 100 | [Hold On](https://open.spotify.com/track/33mBfdwbMkOflInZGaLGJ2) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Hold On](https://open.spotify.com/album/26TRY87O1WOXeGyq4oKacJ) | 3:30 |
 
 Snapshot ID: `Ztn2RwAAAAALko8kPenl0nMlol7R99Bz`

@@ -2,9 +2,9 @@
 
 ### [mint Japan](https://open.spotify.com/playlist/37i9dQZF1DWZASvfwxHkco)
 
-> 世界中で話題のエレクトリック・ダンスミュージックを一つのプレイリストに！Cover: TSHA
+> 世界中で話題のエレクトロニック・ダンスミュージックを一つのプレイリストに！Cover: TSHA
 
-477 songs - 1 day 0 hr 13 min
+478 songs - 1 day 0 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [Body Moving](https://open.spotify.com/track/5SFCEkybGYmmzKqewtDEaN) | [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP), [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [Body Moving](https://open.spotify.com/album/5EcypjAXyzxlrF5AKCNg9K) | 2:34 | 2023-11-16 | 2024-06-14 |
 | [Body Talk](https://open.spotify.com/track/7nZUNopZZQX1PhfuvrXTWN) | [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw), [SVEA](https://open.spotify.com/artist/4XtfY4CBieEfqF3CSiPrRx) | [Body Talk](https://open.spotify.com/album/4Q8dLRUpvVFqK1uosJv6zp) | 2:19 | 2023-03-16 | 2023-08-29 |
 | [Body Type](https://open.spotify.com/track/7iD8SlzwQB6zOVEA4wm3oN) | [Badger](https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3), [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw) | [Body Type](https://open.spotify.com/album/6pteqWmVaX9tkjvzUbdmvG) | 2:12 | 2024-09-05 | 2024-09-20 |
+| [Boost Up](https://open.spotify.com/track/07Sm4SlYGZ4CRSxgwP3hUr) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4) | [Boost Up](https://open.spotify.com/album/58koXuocSFzeYdnmC4gyFK) | 3:31 | 2024-10-04 |  |
 | [BOTH](https://open.spotify.com/track/7mobUfp1aL8A6CdugCMWft) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [BOTH](https://open.spotify.com/album/4WithBxkUVDf6Xe0KbTOkL) | 3:08 | 2023-08-31 | 2024-06-07 |
 | [BOTH \- David Guetta & Seth Hills Remix](https://open.spotify.com/track/6b7Z5ICFy6TbQwshMr9ORO) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Seth Hills](https://open.spotify.com/artist/5nFt7a5Du2MkdAr1KniXh7) | [BOTH \(David Guetta & Seth Hills Remix\)](https://open.spotify.com/album/0a37PLxAStKKjYghd2E7lX) | 2:41 | 2023-12-07 | 2024-01-26 |
 | [BOW \- Submerse Remix](https://open.spotify.com/track/3iZzgnrXkTGOydY1rBc5gi) | [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd), [Submerse](https://open.spotify.com/artist/6iNVICWoG8BfqoyejEQdpF) | [BOW \(Submerse Remix\)](https://open.spotify.com/album/5ixsuu7RrYyZiQsE1sf0Xd) | 2:51 | 2024-01-10 | 2024-02-16 |
@@ -449,7 +450,7 @@
 | [Waiting Forever](https://open.spotify.com/track/4Slh7mZfToAtPaQXdoBM3c) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Yellow House](https://open.spotify.com/artist/2jAzx88tHo3KNYauXANisl), [Preston.](https://open.spotify.com/artist/6N69WEWIfckF4KpLH6WLLC) | [Flaws in Our Design](https://open.spotify.com/album/6qhaIg3gQcKrcQYv8BzCso) | 3:06 | 2023-07-20 | 2023-07-28 |
 | [Wake Up \- feat\. Lilly Ahlberg](https://open.spotify.com/track/161hSAPDwk98yuyMeGmkdX) | [AmPm](https://open.spotify.com/artist/5Xcbv83o11Ez2XPHa1n8Pf), [Lilly Ahlberg](https://open.spotify.com/artist/2s8bgT1CE6KOA0a2omeCDk) | [Wake Up \(feat\. Lilly Ahlberg\)](https://open.spotify.com/album/1rK42vxnzXX64eV9LKKzYW) | 3:44 | 2023-05-25 | 2023-07-21 |
 | [Waking Up](https://open.spotify.com/track/2eYw2v771lwzFUQ9sSBGpK) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC) | [Waking Up](https://open.spotify.com/album/1QZ1DFVR4DNchZMURegY1H) | 2:34 | 2024-01-11 | 2024-02-02 |
-| [Water](https://open.spotify.com/track/4Q2IUQo8YuoCqiRrDazKK4) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T) | [Water](https://open.spotify.com/album/2GyIYK9C2K870xKjo5HI9D) | 3:11 | 2023-11-30 |  |
+| [Water](https://open.spotify.com/track/4Q2IUQo8YuoCqiRrDazKK4) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T) | [Water](https://open.spotify.com/album/2GyIYK9C2K870xKjo5HI9D) | 3:11 | 2023-11-30 | 2024-10-05 |
 | [Waterfall](https://open.spotify.com/track/7aJgh6LCvhXJfD7PHjhG70) | [Michael Schulte](https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Waterfall](https://open.spotify.com/album/11tmmS5xSi2aa7VNokfYCD) | 2:17 | 2023-03-23 | 2023-12-20 |
 | [Waterslides](https://open.spotify.com/track/1SBfaO3swtjh8dV07MExuP) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [Waterslides](https://open.spotify.com/album/5U1HyVpo9zeSC8K8LhHx4i) | 2:38 | 2024-01-25 | 2024-02-09 |
 | [We Bang](https://open.spotify.com/track/31OJcv5UVPzLxFJYQOcUDj) | [Cartoon](https://open.spotify.com/artist/1orMjDUHnRdjdeKhVjylgT) | [We Bang](https://open.spotify.com/album/2ZwecRTjhjmNnIpOp8e0f4) | 3:47 | 2023-10-03 | 2023-11-10 |

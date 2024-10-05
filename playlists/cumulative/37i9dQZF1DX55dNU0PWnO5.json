@@ -3869,6 +3869,24 @@
     },
     {
       "album": {
+        "name": "GOLDILOX",
+        "url": "https://open.spotify.com/album/4IPHs5pOr57kUsD1nHBoSU"
+      },
+      "artists": [
+        {
+          "name": "Trap Rabbit",
+          "url": "https://open.spotify.com/artist/66PSCfmOi8qw6DUFrfdDM8"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125666,
+      "name": "Integers Ain't",
+      "url": "https://open.spotify.com/track/4uDmxKAGTvpBZ61NTFwmgi"
+    },
+    {
+      "album": {
         "name": "Sci-Fi Jazz Directions",
         "url": "https://open.spotify.com/album/0HD8XFL6F0sWMA73qPf78M"
       },
@@ -4572,7 +4590,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 172638,
       "name": "manbagpig",
       "url": "https://open.spotify.com/track/1wZhYYwCav22JOYycYzuCJ"
@@ -5056,6 +5074,24 @@
       "duration_ms": 293306,
       "name": "No Sleep Til MTL",
       "url": "https://open.spotify.com/track/4gUlRAieJFmg3np9cyE7pj"
+    },
+    {
+      "album": {
+        "name": "Soft Serve (Saxually Active Vol. 2)",
+        "url": "https://open.spotify.com/album/2sv1Ftc2iiBM52DJwvLYZt"
+      },
+      "artists": [
+        {
+          "name": "FKAjazz",
+          "url": "https://open.spotify.com/artist/6a9Z8FfjrfedFsKkB8HYIr"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173520,
+      "name": "No-One (K)new",
+      "url": "https://open.spotify.com/track/54haHgocgHPec2TrAdjRmA"
     },
     {
       "album": {
@@ -6682,7 +6718,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 200306,
       "name": "Smile Back",
       "url": "https://open.spotify.com/track/2VRKth87FcwoY3WZPO2uGI"

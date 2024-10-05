@@ -4,7 +4,7 @@
 
 > All the best in new and classic Christmas Pop! Cover: Ariana Grande
 
-257 songs - 14 hr 12 min
+258 songs - 14 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,7 +97,8 @@
 | [Hard Candy Christmas](https://open.spotify.com/track/5OotiuR5xoCmLqeq1P8PFn) | [Ralph](https://open.spotify.com/artist/1Ss8sy3C3XXQgxYRwjDln8) | [Hard Candy Christmas](https://open.spotify.com/album/29bRAOozywfaeNNM3hQi2r) | 3:28 | 2023-11-23 | 2024-04-19 |
 | [Hard Candy Christmas](https://open.spotify.com/track/6V5MkZb6BkvfcppHRO8zvf) | [Ralph](https://open.spotify.com/artist/1Ss8sy3C3XXQgxYRwjDln8) | [Hard Candy Christmas](https://open.spotify.com/album/3etDoLyTmP4B9CFJj7rsiz) | 3:28 | 2022-11-30 | 2023-11-30 |
 | [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/0iV9yfj1knFNOSEiuTHZwl) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [My Kind Of Christmas](https://open.spotify.com/album/0EmIJRj74RImuDbGJh4iOu) | 4:03 | 2021-12-24 | 2022-11-12 |
-| [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/1Qi2wh8fFgDV7tl4Sj3f2K) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Have Yourself A Merry Little Christmas](https://open.spotify.com/album/3nCpXy6LlyXWuFR08tMycK) | 2:50 | 2021-12-24 |  |
+| [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/0jPnNZS9IJ0awbpFLZr3EY) | [Kate Hudson](https://open.spotify.com/artist/5AILMlfEtVO0ehMpDhesME) | [Have Yourself a Merry Little Christmas](https://open.spotify.com/album/7qZx1FWE5Li3mAPmUlyCHx) | 3:55 | 2024-10-04 |  |
+| [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/1Qi2wh8fFgDV7tl4Sj3f2K) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Have Yourself A Merry Little Christmas](https://open.spotify.com/album/3nCpXy6LlyXWuFR08tMycK) | 2:50 | 2021-12-24 | 2024-10-05 |
 | [Have Yourself a Merry Little Christmas \(feat\. Esperanza Spalding\)](https://open.spotify.com/track/0FuXrVBkBEn7WmPm8rT4GV) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Esperanza Spalding](https://open.spotify.com/artist/5bepW5vcdRzheNc0F8lHJ5) | [A Legendary Christmas](https://open.spotify.com/album/67vlDQxXPo2JKnZ5e6tHKY) | 3:43 | 2021-12-24 | 2022-10-26 |
 | [Have Yourself a Merry Little Christmas \(feat\. Esperanza Spalding\)](https://open.spotify.com/track/3yQbBL8hsYtUhXSrmbKq8X) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Esperanza Spalding](https://open.spotify.com/artist/5bepW5vcdRzheNc0F8lHJ5) | [A Legendary Christmas](https://open.spotify.com/album/1rJRpYs4BJ7GIDG0zZCJSM) | 3:43 | 2021-12-24 | 2022-07-29 |
 | [Have Yourself A Very Merry Little Christmas](https://open.spotify.com/track/25b2YgwaSV8IMD51SkJHRB) | [Catherine MacLellan](https://open.spotify.com/artist/0EsKh62P5Wwr6GTFCpa7WC) | [Holiday](https://open.spotify.com/album/6M8fEHkHLArO5zq1xWW1My) | 4:14 | 2021-12-24 | 2022-10-26 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The shape of noise to come with Split Chain (pictured), Superbloom, Boston Manor, Footballhead and more.",
+  "description": "The shape of noise to come with Semantics (pictured), Slow Joy, Gleemer, Split Chain and more.",
   "name": "adrenaline",
   "tracks": [
     {
@@ -640,7 +640,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 252000,
       "name": "Aubrey Plaza",
       "url": "https://open.spotify.com/track/4RRhVadj4ZUfxosBavoJlF"
@@ -3805,6 +3805,24 @@
     },
     {
       "album": {
+        "name": "Evergreen",
+        "url": "https://open.spotify.com/album/6Vn4TX8VdT2zXsMPGj2LrX"
+      },
+      "artists": [
+        {
+          "name": "Dear Seattle",
+          "url": "https://open.spotify.com/artist/5gWPNlps947GENk32pRV3S"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187267,
+      "name": "Evergreen",
+      "url": "https://open.spotify.com/track/0B2x5WZe10wZwQymjH4cKL"
+    },
+    {
+      "album": {
         "name": "Everything Blu",
         "url": "https://open.spotify.com/album/0CWPNy15VAmkYMX8BpnR1R"
       },
@@ -4000,6 +4018,24 @@
       "duration_ms": 208869,
       "name": "Fear",
       "url": "https://open.spotify.com/track/1Zo3Qf54R4NWY7otptNRAc"
+    },
+    {
+      "album": {
+        "name": "feeL",
+        "url": "https://open.spotify.com/album/4EUbD9eZXFT8R0idZ4a4hT"
+      },
+      "artists": [
+        {
+          "name": "dye",
+          "url": "https://open.spotify.com/artist/76YHUJWHU2wgGBZjIg3itT"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248860,
+      "name": "feeL",
+      "url": "https://open.spotify.com/track/5DyWv22uBarGeTDh8Hji0a"
     },
     {
       "album": {
@@ -4799,6 +4835,24 @@
     },
     {
       "album": {
+        "name": "This Place I'm Forgetting, Replaced with an Ending.",
+        "url": "https://open.spotify.com/album/2ggl0S6JP5xAnwPe8TGvi0"
+      },
+      "artists": [
+        {
+          "name": "MERCURY",
+          "url": "https://open.spotify.com/artist/7nZUfrzMjY1kuooTJcg5s2"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245750,
+      "name": "Gradient",
+      "url": "https://open.spotify.com/track/5YShlRQKMKKBvkhAFKi1SA"
+    },
+    {
+      "album": {
         "name": "Great Mass of Color",
         "url": "https://open.spotify.com/album/5ddrqR2Joahx06ydwYTLAp"
       },
@@ -5026,7 +5080,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 214672,
       "name": "Hate",
       "url": "https://open.spotify.com/track/38fEg5g0CYvxxm1m4sp1q9"
@@ -5404,7 +5458,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 211250,
       "name": "Honesty",
       "url": "https://open.spotify.com/track/4ZUoLYECPAqI7LMekVoq5p"
@@ -7476,7 +7530,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-25",
+      "date_removed": null,
       "duration_ms": 178000,
       "name": "Myopic",
       "url": "https://open.spotify.com/track/02PbIkn24emrkP1LDBymUp"
@@ -7498,6 +7552,24 @@
       "duration_ms": 140027,
       "name": "Never Fucked Up Once",
       "url": "https://open.spotify.com/track/1PaGbgK8KEwtaukD0YzGsi"
+    },
+    {
+      "album": {
+        "name": "Never Speak / Faulty by Design",
+        "url": "https://open.spotify.com/album/6pmCnigSXfVunZLcqn22tV"
+      },
+      "artists": [
+        {
+          "name": "Fake Eyes",
+          "url": "https://open.spotify.com/artist/59Ui4tw8UnaMQ5XEBHIbSk"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150557,
+      "name": "Never Speak",
+      "url": "https://open.spotify.com/track/4TtyuFuP2AfZDU8RGcxblH"
     },
     {
       "album": {
@@ -9536,7 +9608,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 157626,
       "name": "Slide 2 Me",
       "url": "https://open.spotify.com/track/0nB4xFTYsIMUon9vQdPnIG"
@@ -10358,7 +10430,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 180234,
       "name": "Sungazer",
       "url": "https://open.spotify.com/track/4d0iW7Fl3u9BNdsXZdFAgb"

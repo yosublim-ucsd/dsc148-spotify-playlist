@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4BaAkp.md) - [plain]
 
 ### [This Is Arctic Monkeys](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4BaAkp)
 
-> This Is Arctic Monkeys\. Los temas esenciales, todos en una lista.
+> This is Arctic Monkeys\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,676,925 likes - 55 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,677,147 likes - 55 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4BaAkp.md) - [plain]
 | 54 | [7](https://open.spotify.com/track/5IKz3HfzRT3EAhxCsrBqwf) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [When The Sun Goes Down](https://open.spotify.com/album/4L2Rh2ogH9nwQNVbNAWRa7) | 2:08 |
 | 55 | [The Car](https://open.spotify.com/track/0C6dSPCqwKqwos6s1CrDrh) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [The Car](https://open.spotify.com/album/2GROf0WKoP5Er2M9RXVNNs) | 3:18 |
 
-Snapshot ID: `ZvyNAAAAAAC214LPUpH7qNBDnvuDEpvs`
+Snapshot ID: `Zv3egAAAAAA6eoY1q/CN5otu693qID//`

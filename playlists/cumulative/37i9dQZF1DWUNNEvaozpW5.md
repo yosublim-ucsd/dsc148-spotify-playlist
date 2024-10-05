@@ -4,7 +4,7 @@
 
 > Lo mejor del rock de aquí, como Coque Malla y Leiva.
 
-466 songs - 1 day 6 hr 3 min
+467 songs - 1 day 6 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -231,6 +231,7 @@
 | [La flaca](https://open.spotify.com/track/0ll9JAIrM3NVBOMl45sxSX) | [Jarabe De Palo](https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5) | [La Flaca](https://open.spotify.com/album/1O5kJTerozuI2WLgzvIz2m) | 4:21 | 2022-07-21 | 2023-03-01 |
 | [La flaca](https://open.spotify.com/track/2LsbizbOeNa4x6qsi2jAMb) | [Jarabe De Palo](https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5) | [La Flaca](https://open.spotify.com/album/6mD9lN6mqu4313KpY1RfIp) | 4:21 | 2022-06-16 |  |
 | [La Guarida](https://open.spotify.com/track/7fE07t0An6dmhgeJvGiOcL) | [La Fuga](https://open.spotify.com/artist/5YyScSZOuBHpoFhGvHFedc) | [La Guarida](https://open.spotify.com/album/3qS55NGnROWVe23UcBMfxZ) | 3:45 | 2024-01-25 | 2024-03-08 |
+| [La Hornacina](https://open.spotify.com/track/1EBPP4vUNTWH27DVvV0zEh) | [Los Premodernos](https://open.spotify.com/artist/6PjN4tz1EIf2KXK2ejhnBY) | [La Hornacina](https://open.spotify.com/album/1obVCSYENyV88OI2LvMGMg) | 3:17 | 2024-10-03 |  |
 | [La increíble historia entre tú y yo](https://open.spotify.com/track/1MAbXU7OMsOSEH9RoGT5Rs) | [Maldita Nerea](https://open.spotify.com/artist/3heR1it0slFXjaa7E62zpw) | [La increíble historia entre tú y yo](https://open.spotify.com/album/4EL0ZRW1VcZN1KIe1GrLYC) | 2:39 | 2022-09-29 | 2022-10-07 |
 | [La luna me sabe a poco](https://open.spotify.com/track/16taQAqrrfqCwbkbKFr2OH) | [Marea](https://open.spotify.com/artist/5EBH204cwRkvAWknwTAjCQ) | [Besos de Perro](https://open.spotify.com/album/3ZaBh55fphLCCkgYdsWMyz) | 4:27 | 2022-05-19 |  |
 | [La mala reputación \- XX Aniversario \- Nueva mezcla](https://open.spotify.com/track/2ZdSU3fOZRsm9C5YD6yUAq) | [Loquillo](https://open.spotify.com/artist/5Fv0DQ1ZBuc2DlidtOUCZr) | [Mujeres en pie de guerra \(XX Aniversario \- Nuevas mezclas\)](https://open.spotify.com/album/1HC71nLZnofa18oTENj0VJ) | 2:14 | 2024-10-03 |  |

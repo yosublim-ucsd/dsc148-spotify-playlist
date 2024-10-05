@@ -1,12 +1,12 @@
 {
   "description": "This is Montell Fish. The essential tracks, all in one playlist.",
-  "num_followers": 58564,
+  "num_followers": 58611,
   "original_name": "This Is Montell Fish",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvyNAAAAAACkHLjFBHJf1ivdBOFTdPNL",
+  "snapshot_id": "Zv3egAAAAADLgDrWzw94Uie4dQiLrbPc",
   "tracks": [
     {
       "added_at": null,
@@ -783,6 +783,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bedroom Lofi",
+        "url": "https://open.spotify.com/album/6zvGIAgWSOkS1w8F4C42Mi"
+      },
+      "artists": [
+        {
+          "name": "Lord's Child",
+          "url": "https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC"
+        },
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 67171,
+      "name": "A Piece Called Butterflies.",
+      "url": "https://open.spotify.com/track/1yqtrIUcRBXHOXPrHRcbjh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Show the Signs.",
         "url": "https://open.spotify.com/album/1oc8h9nIQClaRvwaEpeSvl"
       },
@@ -807,8 +827,24 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bedroom Lofi",
-        "url": "https://open.spotify.com/album/6zvGIAgWSOkS1w8F4C42Mi"
+        "name": "CHARLOTTE",
+        "url": "https://open.spotify.com/album/7BjL0ThFxMTESHJ0xxsg3v"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 276279,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/5cyMPZoc97YPHHC3gH5lVq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nights & Days.",
+        "url": "https://open.spotify.com/album/13G65Pa4a3yM8pfN8wLrH3"
       },
       "artists": [
         {
@@ -820,9 +856,9 @@
           "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
         }
       ],
-      "duration_ms": 67171,
-      "name": "A Piece Called Butterflies.",
-      "url": "https://open.spotify.com/track/1yqtrIUcRBXHOXPrHRcbjh"
+      "duration_ms": 244453,
+      "name": "Your Love Has Called Me Back",
+      "url": "https://open.spotify.com/track/0ObkGoEBWzsWHvO9AcxptJ"
     },
     {
       "added_at": null,
@@ -851,42 +887,6 @@
       "duration_ms": 248531,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/5c2yqU4vbxkQQbZ2ePb5wJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nights & Days.",
-        "url": "https://open.spotify.com/album/13G65Pa4a3yM8pfN8wLrH3"
-      },
-      "artists": [
-        {
-          "name": "Lord's Child",
-          "url": "https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC"
-        },
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 244453,
-      "name": "Your Love Has Called Me Back",
-      "url": "https://open.spotify.com/track/0ObkGoEBWzsWHvO9AcxptJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "CHARLOTTE",
-        "url": "https://open.spotify.com/album/7BjL0ThFxMTESHJ0xxsg3v"
-      },
-      "artists": [
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 276279,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/5cyMPZoc97YPHHC3gH5lVq"
     },
     {
       "added_at": null,

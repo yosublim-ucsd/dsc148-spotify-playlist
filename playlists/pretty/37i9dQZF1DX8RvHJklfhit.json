@@ -1,6 +1,6 @@
 {
   "description": "Your favorite Latin Indie classics. Cover: Mon Laferte",
-  "num_followers": 189357,
+  "num_followers": 189438,
   "original_name": "Latin Indie Classics",
   "owner": {
     "name": "Spotify",
@@ -551,22 +551,6 @@
     {
       "added_at": "2024-07-12 18:08:37",
       "album": {
-        "name": "Amor Libre",
-        "url": "https://open.spotify.com/album/3ZNcUIksSrVfc5Ow7f4J6F"
-      },
-      "artists": [
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        }
-      ],
-      "duration_ms": 249426,
-      "name": "Fuimos Amor",
-      "url": "https://open.spotify.com/track/6wkPUUWrRhBUFAqC5UCcG4"
-    },
-    {
-      "added_at": "2024-07-12 18:08:37",
-      "album": {
         "name": "Cabildo y Juramento",
         "url": "https://open.spotify.com/album/5N3ahntioMGhMCkEOuNJUn"
       },
@@ -583,18 +567,34 @@
     {
       "added_at": "2024-07-12 18:08:37",
       "album": {
-        "name": "Eres Diamante",
-        "url": "https://open.spotify.com/album/6phS5YYVMKIpCKeymOdL7v"
+        "name": "Amor Libre",
+        "url": "https://open.spotify.com/album/3ZNcUIksSrVfc5Ow7f4J6F"
       },
       "artists": [
         {
-          "name": "Elsa y Elmar",
-          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
         }
       ],
-      "duration_ms": 240295,
-      "name": "Ojos Noche",
-      "url": "https://open.spotify.com/track/6ltxt8idwnKPqZ5wmTEkpV"
+      "duration_ms": 249426,
+      "name": "Fuimos Amor",
+      "url": "https://open.spotify.com/track/6wkPUUWrRhBUFAqC5UCcG4"
+    },
+    {
+      "added_at": "2024-07-12 18:08:37",
+      "album": {
+        "name": "Fruta (Vol. II)",
+        "url": "https://open.spotify.com/album/1CKiIYZCELUISFQOsKt2DP"
+      },
+      "artists": [
+        {
+          "name": "Caloncho",
+          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
+        }
+      ],
+      "duration_ms": 193626,
+      "name": "Palmar",
+      "url": "https://open.spotify.com/track/1INtYY3PE2RP7NrhHOsBaz"
     },
     {
       "added_at": "2024-07-12 18:08:37",
@@ -623,18 +623,18 @@
     {
       "added_at": "2024-07-12 18:08:37",
       "album": {
-        "name": "Fruta (Vol. II)",
-        "url": "https://open.spotify.com/album/1CKiIYZCELUISFQOsKt2DP"
+        "name": "Eres Diamante",
+        "url": "https://open.spotify.com/album/6phS5YYVMKIpCKeymOdL7v"
       },
       "artists": [
         {
-          "name": "Caloncho",
-          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
         }
       ],
-      "duration_ms": 193626,
-      "name": "Palmar",
-      "url": "https://open.spotify.com/track/1INtYY3PE2RP7NrhHOsBaz"
+      "duration_ms": 240295,
+      "name": "Ojos Noche",
+      "url": "https://open.spotify.com/track/6ltxt8idwnKPqZ5wmTEkpV"
     },
     {
       "added_at": "2024-07-12 18:08:37",
@@ -1003,26 +1003,6 @@
     {
       "added_at": "2024-07-12 18:08:37",
       "album": {
-        "name": "nadie me cae bien",
-        "url": "https://open.spotify.com/album/5xvQJ17xAeaFUV2OApBBea"
-      },
-      "artists": [
-        {
-          "name": "Little Jesus",
-          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
-        },
-        {
-          "name": "Jesse Baez",
-          "url": "https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3"
-        }
-      ],
-      "duration_ms": 228400,
-      "name": "nadie me cae bien",
-      "url": "https://open.spotify.com/track/35bu49h6EEYptKobXmBQma"
-    },
-    {
-      "added_at": "2024-07-12 18:08:37",
-      "album": {
         "name": "Nuevos Aires",
         "url": "https://open.spotify.com/album/1pmuUGKQdl3yIAIMZucjKu"
       },
@@ -1039,6 +1019,26 @@
       "duration_ms": 212894,
       "name": "fuckhim (feat. Ximena Sari\u00f1ana)",
       "url": "https://open.spotify.com/track/0D2JmflHSZwCVqle0RqxAz"
+    },
+    {
+      "added_at": "2024-07-12 18:08:37",
+      "album": {
+        "name": "nadie me cae bien",
+        "url": "https://open.spotify.com/album/5xvQJ17xAeaFUV2OApBBea"
+      },
+      "artists": [
+        {
+          "name": "Little Jesus",
+          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
+        },
+        {
+          "name": "Jesse Baez",
+          "url": "https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3"
+        }
+      ],
+      "duration_ms": 228400,
+      "name": "nadie me cae bien",
+      "url": "https://open.spotify.com/track/35bu49h6EEYptKobXmBQma"
     },
     {
       "added_at": "2024-07-12 18:08:37",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCk2se27jFX.md) - [plain]
 
 > ¡Las propuestas independientes que marcan el sonido de Colombia! Foto: Lika Nova
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,942 likes - 100 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,944 likes - 100 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,22 +12,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCk2se27jFX.md) - [plain]
 | 2 | [Tenerlo Todo](https://open.spotify.com/track/4A1AUgroSbwqntkE5wZjW5) | [Armenia](https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx), [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [ARMN](https://open.spotify.com/album/5ZKQlMu308fEdUEOYXUjIp) | 3:07 |
 | 3 | [Yo Cuidé a Tu Amor](https://open.spotify.com/track/2rlnTBTeAYRCiWRV5OiSug) | [Bella Álvarez](https://open.spotify.com/artist/6dqfuonDrw9UdawWJIAGjs) | [Yo Cuidé a Tu Amor](https://open.spotify.com/album/3wyR3TSvyR0tn6m3OFnyAU) | 3:54 |
 | 4 | [Nada Que Extrañar](https://open.spotify.com/track/27SOl55VMSsvBTrNTmnBL6) | [Piel Camaleón](https://open.spotify.com/artist/1cfJThcgMhg9IU5kYVhUbq) | [Nada Que Extrañar](https://open.spotify.com/album/26VRbNvZy0xLUdvmBYcBMb) | 3:24 |
-| 5 | [El Derroche \(La Brisa\)](https://open.spotify.com/track/4Gzh7FVoWkK6naSGUosYf0) | [Felipe Orjuela](https://open.spotify.com/artist/4HOjhQlHtSRkt1ywi5JTMs), [Gato e' Monte](https://open.spotify.com/artist/25lIeZ7Kyh0meagwUiGyTf), [Yeison Perilla](https://open.spotify.com/artist/3Gjrbl9DgXGhwvHC0QZk8f) | [El Derroche](https://open.spotify.com/album/5AVAJEQBc2EwhrEh5KoQrY) | 3:57 |
-| 6 | [No Es Tan Simple](https://open.spotify.com/track/39arkeng7T81lC2yHM6Wvw) | [Matar Fuma](https://open.spotify.com/artist/5QtJsmPyO7fPTh5wZzebTZ) | [No Es Tan Simple](https://open.spotify.com/album/7AOTGfAah3ni08RZbNcBP8) | 2:56 |
-| 7 | [Marchito](https://open.spotify.com/track/7EYVt3gOAG8bOq3D5sqXLb) | [TELEBIT](https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI) | [Marchito](https://open.spotify.com/album/7KNK4fSGZlkMJ3ItyrM06H) | 3:56 |
-| 8 | [paseo en carro a la costa](https://open.spotify.com/track/31R22n6xtllkynO6SVWayS) | [raquel](https://open.spotify.com/artist/5kbQRJ14wqLdFlnphxZlEB) | [Paseo En Carro A La Costa](https://open.spotify.com/album/3QokOGS56AylJxy7sYmcGo) | 4:18 |
-| 9 | [Música Gigante \(Anti\-Anti\)](https://open.spotify.com/track/0SgoBed7vjSKnYecYl5rOw) | [llilli](https://open.spotify.com/artist/4QXDj9kt5lBanHAtDi6yK0) | [Música Gigante \(Anti\-Anti\)](https://open.spotify.com/album/7Dh00B989MlLpQUpLxyabG) | 4:53 |
-| 10 | [Destino](https://open.spotify.com/track/0ELDsNFntqHq5bEokxAIMP) | [Oh'laville](https://open.spotify.com/artist/5uDxyttOUh6KJic2MFbwQ7), [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Destino](https://open.spotify.com/album/7hVQeF8N8SkIHLUEEGgW5p) | 3:56 |
-| 11 | [Viernes](https://open.spotify.com/track/1qZ9xDBnQ8vORJoN7kGv1f) | [Armenia](https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx) | [Viernes](https://open.spotify.com/album/4aAnbqUTQj3anbIkY8cbqe) | 3:16 |
-| 12 | [Tengo Que Decirte Que No](https://open.spotify.com/track/7EMCWX0sQnNP1LAJ2rwkvQ) | [Pio Perilla](https://open.spotify.com/artist/3mto9pTx9i31Xqr68CzgX8) | [Tengo Que Decirte Que No](https://open.spotify.com/album/2R3Kd5NLYZu1NXgWc9n8ak) | 2:50 |
-| 13 | [Volver](https://open.spotify.com/track/4pZPJaI6TrN2QLqGCFpltE) | [La Banda del Bisonte](https://open.spotify.com/artist/363z8t8XMXCozcLQorLiPD) | [Volver](https://open.spotify.com/album/4oB6uXr2p32z2PzzkGZ4Yh) | 2:53 |
-| 14 | [Desde Que No Estás](https://open.spotify.com/track/3mD8y1JQZr9dAzstv5gLvi) | [Lika Nova](https://open.spotify.com/artist/7MXtSubvSLMgfnnVkJrKoy) | [Portales](https://open.spotify.com/album/67Mp4fHi5VrLQaOAkcvjSK) | 3:12 |
-| 15 | [Remordimiento](https://open.spotify.com/track/65kKolUtR9SvLnsH7EBG7Y) | [Armenia](https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx) | [Remordimiento](https://open.spotify.com/album/6QeAG0mPeiMdQKv1fYw5FA) | 3:39 |
-| 16 | [Quizás](https://open.spotify.com/track/5Ngde5wQSWBf4CB76Uvugo) | [Paula Pera y el fin de los Tiempos](https://open.spotify.com/artist/5zuGV6u9UobNW3KPGXui6o) | [Fin De Los Tiempos](https://open.spotify.com/album/1sAIlus0nePmPgjEGJkqSL) | 3:54 |
-| 17 | [Engáñate](https://open.spotify.com/track/6RGz1S7FWiya3aLDMUXnJV) | [Pirineos En Llamas](https://open.spotify.com/artist/522pAy9TuhE7aqrhl8tVFd) | [Engáñate](https://open.spotify.com/album/5HXkHlkENQcA6FIqwnmzSC) | 3:01 |
-| 18 | [Fractal](https://open.spotify.com/track/6TIXTXy6L0jc60dDr8I7KD) | [Margarita Siempre Viva](https://open.spotify.com/artist/2XNJ1dXD5AjaHZTSM7qPlH) | [Un Lugar Más Cierto](https://open.spotify.com/album/55zE2uof8VlS0kZgUNDULu) | 4:23 |
-| 19 | [Carmesí](https://open.spotify.com/track/6pKNtg7bn0YyK8n4J2Cmw9) | [Espíritus Animales](https://open.spotify.com/artist/5De9OVirSnf64Zs59MmGtJ) | [Carmesí](https://open.spotify.com/album/6Sc07lO8NaWHkIs78Dkp4x) | 3:21 |
-| 20 | [LUNA](https://open.spotify.com/track/5VcH2H6qFcBwPfu2fBjx8d) | [MAGNA](https://open.spotify.com/artist/3r7eiuLSmaw4jXeUG6NatF) | [LUNA](https://open.spotify.com/album/4NnzCBRcLk79SZ10FMWpfV) | 2:54 |
+| 5 | [Las Olas](https://open.spotify.com/track/6uD9TBxKOcTERyinvPwtiF) | [Oh'laville](https://open.spotify.com/artist/5uDxyttOUh6KJic2MFbwQ7) | [Las Olas](https://open.spotify.com/album/0LRqzDjRWb4MSPoDnaKnvJ) | 3:34 |
+| 6 | [El Derroche \(La Brisa\)](https://open.spotify.com/track/4Gzh7FVoWkK6naSGUosYf0) | [Felipe Orjuela](https://open.spotify.com/artist/4HOjhQlHtSRkt1ywi5JTMs), [Gato e' Monte](https://open.spotify.com/artist/25lIeZ7Kyh0meagwUiGyTf), [Yeison Perilla](https://open.spotify.com/artist/3Gjrbl9DgXGhwvHC0QZk8f) | [El Derroche](https://open.spotify.com/album/5AVAJEQBc2EwhrEh5KoQrY) | 3:57 |
+| 7 | [No Es Tan Simple](https://open.spotify.com/track/39arkeng7T81lC2yHM6Wvw) | [Matar Fuma](https://open.spotify.com/artist/5QtJsmPyO7fPTh5wZzebTZ) | [No Es Tan Simple](https://open.spotify.com/album/7AOTGfAah3ni08RZbNcBP8) | 2:56 |
+| 8 | [Marchito](https://open.spotify.com/track/7EYVt3gOAG8bOq3D5sqXLb) | [TELEBIT](https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI) | [Marchito](https://open.spotify.com/album/7KNK4fSGZlkMJ3ItyrM06H) | 3:56 |
+| 9 | [paseo en carro a la costa](https://open.spotify.com/track/31R22n6xtllkynO6SVWayS) | [raquel](https://open.spotify.com/artist/5kbQRJ14wqLdFlnphxZlEB) | [Paseo En Carro A La Costa](https://open.spotify.com/album/3QokOGS56AylJxy7sYmcGo) | 4:18 |
+| 10 | [Música Gigante \(Anti\-Anti\)](https://open.spotify.com/track/0SgoBed7vjSKnYecYl5rOw) | [llilli](https://open.spotify.com/artist/4QXDj9kt5lBanHAtDi6yK0) | [Música Gigante \(Anti\-Anti\)](https://open.spotify.com/album/7Dh00B989MlLpQUpLxyabG) | 4:53 |
+| 11 | [Destino](https://open.spotify.com/track/0ELDsNFntqHq5bEokxAIMP) | [Oh'laville](https://open.spotify.com/artist/5uDxyttOUh6KJic2MFbwQ7), [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Destino](https://open.spotify.com/album/7hVQeF8N8SkIHLUEEGgW5p) | 3:56 |
+| 12 | [Viernes](https://open.spotify.com/track/1qZ9xDBnQ8vORJoN7kGv1f) | [Armenia](https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx) | [Viernes](https://open.spotify.com/album/4aAnbqUTQj3anbIkY8cbqe) | 3:16 |
+| 13 | [Tengo Que Decirte Que No](https://open.spotify.com/track/7EMCWX0sQnNP1LAJ2rwkvQ) | [Pio Perilla](https://open.spotify.com/artist/3mto9pTx9i31Xqr68CzgX8) | [Tengo Que Decirte Que No](https://open.spotify.com/album/2R3Kd5NLYZu1NXgWc9n8ak) | 2:50 |
+| 14 | [Volver](https://open.spotify.com/track/4pZPJaI6TrN2QLqGCFpltE) | [La Banda del Bisonte](https://open.spotify.com/artist/363z8t8XMXCozcLQorLiPD) | [Volver](https://open.spotify.com/album/4oB6uXr2p32z2PzzkGZ4Yh) | 2:53 |
+| 15 | [Desde Que No Estás](https://open.spotify.com/track/3mD8y1JQZr9dAzstv5gLvi) | [Lika Nova](https://open.spotify.com/artist/7MXtSubvSLMgfnnVkJrKoy) | [Portales](https://open.spotify.com/album/67Mp4fHi5VrLQaOAkcvjSK) | 3:12 |
+| 16 | [Remordimiento](https://open.spotify.com/track/65kKolUtR9SvLnsH7EBG7Y) | [Armenia](https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx) | [Remordimiento](https://open.spotify.com/album/6QeAG0mPeiMdQKv1fYw5FA) | 3:39 |
+| 17 | [Quizás](https://open.spotify.com/track/5Ngde5wQSWBf4CB76Uvugo) | [Paula Pera y el fin de los Tiempos](https://open.spotify.com/artist/5zuGV6u9UobNW3KPGXui6o) | [Fin De Los Tiempos](https://open.spotify.com/album/1sAIlus0nePmPgjEGJkqSL) | 3:54 |
+| 18 | [Engáñate](https://open.spotify.com/track/6RGz1S7FWiya3aLDMUXnJV) | [Pirineos En Llamas](https://open.spotify.com/artist/522pAy9TuhE7aqrhl8tVFd) | [Engáñate](https://open.spotify.com/album/5HXkHlkENQcA6FIqwnmzSC) | 3:01 |
+| 19 | [Fractal](https://open.spotify.com/track/6TIXTXy6L0jc60dDr8I7KD) | [Margarita Siempre Viva](https://open.spotify.com/artist/2XNJ1dXD5AjaHZTSM7qPlH) | [Un Lugar Más Cierto](https://open.spotify.com/album/55zE2uof8VlS0kZgUNDULu) | 4:23 |
+| 20 | [Carmesí](https://open.spotify.com/track/6pKNtg7bn0YyK8n4J2Cmw9) | [Espíritus Animales](https://open.spotify.com/artist/5De9OVirSnf64Zs59MmGtJ) | [Carmesí](https://open.spotify.com/album/6Sc07lO8NaWHkIs78Dkp4x) | 3:21 |
 | 21 | [Ramen](https://open.spotify.com/track/7AQ5qL6356wqgex8ibPi3U) | [Ev](https://open.spotify.com/artist/21EczEifDKebasemX58Jp8) | [Ramen](https://open.spotify.com/album/21O3k6iIWFSREY2YGbtbwb) | 2:37 |
 | 22 | [Ver Tus Ojos Mirándome](https://open.spotify.com/track/2Xxh2rUEtoEouNW8rxzEoT) | [Volcán](https://open.spotify.com/artist/1DIDvOLPitMH37cPk30xIY) | [Ver Tus Ojos Mirándome](https://open.spotify.com/album/5krMOq6LzqIrC7h8FBjaw1) | 3:30 |
 | 23 | [Sonámbulos](https://open.spotify.com/track/5WcdnmiTRE4PHzmSBwZuoA) | [Sofia Cordoba](https://open.spotify.com/artist/4tskMdZP6z8sUf46Q4ThqM) | [Sonámbulos](https://open.spotify.com/album/0yGnWZZyz9iKsCzXQzhpYf) | 3:13 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCk2se27jFX.md) - [plain]
 | 99 | [Salvavidas](https://open.spotify.com/track/26sncSwReSsEXl5CxS1hMX) | [Aerophon](https://open.spotify.com/artist/6nfNQvqechLUJaFHYAciep), [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [Horizonte](https://open.spotify.com/album/5JZJDct3WLX67mhEfJOJiZ) | 4:11 |
 | 100 | [Luces Neón](https://open.spotify.com/track/1KggS8Fk7lofj9rjtCEKv3) | [Cohetes](https://open.spotify.com/artist/2GufoITj4S642hU8qARWyQ) | [Luces Neón](https://open.spotify.com/album/7npVc4YI5A14JlrIqOG2wH) | 3:47 |
 
-Snapshot ID: `Zn5awAAAAAAYHdUmR9mYy8Hc+wn3ieGs`
+Snapshot ID: `Zv9ktAAAAACddfaW/kFYhZNN7LQmzJZG`

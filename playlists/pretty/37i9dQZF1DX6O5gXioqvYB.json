@@ -1,6 +1,6 @@
 {
   "description": "La nuova scena indie italiana! Cover: Delicatoni",
-  "num_followers": 33665,
+  "num_followers": 33671,
   "original_name": "Scuola Indie",
   "owner": {
     "name": "Spotify",
@@ -359,22 +359,6 @@
     {
       "added_at": "2024-10-03 22:01:00",
       "album": {
-        "name": "Piramidi",
-        "url": "https://open.spotify.com/album/0rUoe7hmJhdMutnxyM8Q8X"
-      },
-      "artists": [
-        {
-          "name": "Paul Giorgi",
-          "url": "https://open.spotify.com/artist/0xR9GzTwiXo7mZpoqOL0pG"
-        }
-      ],
-      "duration_ms": 192846,
-      "name": "Piramidi",
-      "url": "https://open.spotify.com/track/3sxc1l4kbAdHRQQeOC7PQj"
-    },
-    {
-      "added_at": "2024-10-03 22:01:00",
-      "album": {
         "name": "U mari",
         "url": "https://open.spotify.com/album/4YlpSZ3HRsHEex7uo7LYec"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 166216,
       "name": "U mari",
       "url": "https://open.spotify.com/track/2eeSKDRJPFmgx2t0EYHGRM"
+    },
+    {
+      "added_at": "2024-10-03 22:01:00",
+      "album": {
+        "name": "Piramidi",
+        "url": "https://open.spotify.com/album/0rUoe7hmJhdMutnxyM8Q8X"
+      },
+      "artists": [
+        {
+          "name": "Paul Giorgi",
+          "url": "https://open.spotify.com/artist/0xR9GzTwiXo7mZpoqOL0pG"
+        }
+      ],
+      "duration_ms": 192846,
+      "name": "Piramidi",
+      "url": "https://open.spotify.com/track/3sxc1l4kbAdHRQQeOC7PQj"
     },
     {
       "added_at": "2024-10-03 22:01:00",
@@ -455,22 +455,6 @@
     {
       "added_at": "2024-10-03 22:01:00",
       "album": {
-        "name": "ROCCASECCA",
-        "url": "https://open.spotify.com/album/3m5LwAf3fBdc9THwhe0rj7"
-      },
-      "artists": [
-        {
-          "name": "Teseghella",
-          "url": "https://open.spotify.com/artist/7iJcABhFmM1ZgpG24dHK7D"
-        }
-      ],
-      "duration_ms": 157624,
-      "name": "Penso Penso Penso",
-      "url": "https://open.spotify.com/track/0Yx37LRuzSAWq3pfkWAh68"
-    },
-    {
-      "added_at": "2024-10-03 22:01:00",
-      "album": {
         "name": "Pasquale (guarda i cantieri)",
         "url": "https://open.spotify.com/album/0odog0F3DL9ccdSZt6YRlj"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 154200,
       "name": "Pasquale (guarda i cantieri)",
       "url": "https://open.spotify.com/track/5Lxf6ww2twlVd0kkeTrICS"
+    },
+    {
+      "added_at": "2024-10-03 22:01:00",
+      "album": {
+        "name": "ROCCASECCA",
+        "url": "https://open.spotify.com/album/3m5LwAf3fBdc9THwhe0rj7"
+      },
+      "artists": [
+        {
+          "name": "Teseghella",
+          "url": "https://open.spotify.com/artist/7iJcABhFmM1ZgpG24dHK7D"
+        }
+      ],
+      "duration_ms": 157624,
+      "name": "Penso Penso Penso",
+      "url": "https://open.spotify.com/track/0Yx37LRuzSAWq3pfkWAh68"
     },
     {
       "added_at": "2024-10-03 22:01:00",
@@ -539,6 +539,22 @@
     {
       "added_at": "2024-10-03 22:01:00",
       "album": {
+        "name": "Alta Marea",
+        "url": "https://open.spotify.com/album/6b0oSugc2sJtkBtVIsQSn5"
+      },
+      "artists": [
+        {
+          "name": "Dorian",
+          "url": "https://open.spotify.com/artist/6V9EZvDzdaPnzYg8VgsFGk"
+        }
+      ],
+      "duration_ms": 133109,
+      "name": "Alta Marea",
+      "url": "https://open.spotify.com/track/4iYNr3EOixzqAmFfFdvOMC"
+    },
+    {
+      "added_at": "2024-10-03 22:01:00",
+      "album": {
         "name": "Sale",
         "url": "https://open.spotify.com/album/3ZhujgOVWlxkPbxQal8Eul"
       },
@@ -587,6 +603,22 @@
     {
       "added_at": "2024-10-03 22:01:00",
       "album": {
+        "name": "ULTRAFRAGOLA",
+        "url": "https://open.spotify.com/album/2nKUWSfMt5T1uUw0dG246Q"
+      },
+      "artists": [
+        {
+          "name": "Giovanni Ti Amo",
+          "url": "https://open.spotify.com/artist/29OsfkIbRZNyCeodZ0uc6K"
+        }
+      ],
+      "duration_ms": 159586,
+      "name": "SUPERORGASMO",
+      "url": "https://open.spotify.com/track/76oSCqmn2ur4jxICmp5ZKz"
+    },
+    {
+      "added_at": "2024-10-03 22:01:00",
+      "album": {
         "name": "Colleghi borghesi",
         "url": "https://open.spotify.com/album/4v3Gt0SRVsGEPi4q0jJKib"
       },
@@ -603,34 +635,18 @@
     {
       "added_at": "2024-10-03 22:01:00",
       "album": {
-        "name": "Alta Marea",
-        "url": "https://open.spotify.com/album/6b0oSugc2sJtkBtVIsQSn5"
+        "name": "Rigacuore",
+        "url": "https://open.spotify.com/album/78QsClkLzrtgMKMTEBQ7O0"
       },
       "artists": [
         {
-          "name": "Dorian",
-          "url": "https://open.spotify.com/artist/6V9EZvDzdaPnzYg8VgsFGk"
+          "name": "CRETA",
+          "url": "https://open.spotify.com/artist/2GoVj8Yh4VGg4JibTBLAXS"
         }
       ],
-      "duration_ms": 133109,
-      "name": "Alta Marea",
-      "url": "https://open.spotify.com/track/4iYNr3EOixzqAmFfFdvOMC"
-    },
-    {
-      "added_at": "2024-10-03 22:01:00",
-      "album": {
-        "name": "ULTRAFRAGOLA",
-        "url": "https://open.spotify.com/album/2nKUWSfMt5T1uUw0dG246Q"
-      },
-      "artists": [
-        {
-          "name": "Giovanni Ti Amo",
-          "url": "https://open.spotify.com/artist/29OsfkIbRZNyCeodZ0uc6K"
-        }
-      ],
-      "duration_ms": 159586,
-      "name": "SUPERORGASMO",
-      "url": "https://open.spotify.com/track/76oSCqmn2ur4jxICmp5ZKz"
+      "duration_ms": 145945,
+      "name": "Rigacuore",
+      "url": "https://open.spotify.com/track/6xxdfwJGr1qEUeWt3J1YBB"
     },
     {
       "added_at": "2024-10-03 22:01:00",
@@ -655,38 +671,6 @@
     {
       "added_at": "2024-10-03 22:01:00",
       "album": {
-        "name": "CAPELLI CORTI CALIFORNIA",
-        "url": "https://open.spotify.com/album/5AEtPyvBjuCnH5TZWaYNMW"
-      },
-      "artists": [
-        {
-          "name": "Cartapesta",
-          "url": "https://open.spotify.com/artist/1WbhtNbZgCyZaqYdKnAwKU"
-        }
-      ],
-      "duration_ms": 146550,
-      "name": "CAPELLI CORTI CALIFORNIA",
-      "url": "https://open.spotify.com/track/11sVx6FxPPxfuPBCc4pYxp"
-    },
-    {
-      "added_at": "2024-10-03 22:01:00",
-      "album": {
-        "name": "Rigacuore",
-        "url": "https://open.spotify.com/album/78QsClkLzrtgMKMTEBQ7O0"
-      },
-      "artists": [
-        {
-          "name": "CRETA",
-          "url": "https://open.spotify.com/artist/2GoVj8Yh4VGg4JibTBLAXS"
-        }
-      ],
-      "duration_ms": 145945,
-      "name": "Rigacuore",
-      "url": "https://open.spotify.com/track/6xxdfwJGr1qEUeWt3J1YBB"
-    },
-    {
-      "added_at": "2024-10-03 22:01:00",
-      "album": {
         "name": "tutte le tue onde",
         "url": "https://open.spotify.com/album/6G5IxcL8FjeqPCbnvkZHLi"
       },
@@ -703,50 +687,18 @@
     {
       "added_at": "2024-10-03 22:01:00",
       "album": {
-        "name": "zagara",
-        "url": "https://open.spotify.com/album/6fdtPEoQCNrpLje2JnzD35"
+        "name": "BRONCIO",
+        "url": "https://open.spotify.com/album/4b85jG8dhfsMaSQeChdSQ5"
       },
       "artists": [
         {
-          "name": "CALLIOPE",
-          "url": "https://open.spotify.com/artist/4gUnnJ8JMuSQjd0oyDmbDt"
+          "name": "Greta",
+          "url": "https://open.spotify.com/artist/13GjdjA8k3fmCHSfcAxTH0"
         }
       ],
-      "duration_ms": 159567,
-      "name": "zagara",
-      "url": "https://open.spotify.com/track/6LJes6Kj0wkA6PWiKNQMGG"
-    },
-    {
-      "added_at": "2024-10-03 22:01:00",
-      "album": {
-        "name": ") ) ) echo ( ( ( (",
-        "url": "https://open.spotify.com/album/1VlMacT6VojUdWYnQgUZVB"
-      },
-      "artists": [
-        {
-          "name": "Memento",
-          "url": "https://open.spotify.com/artist/0aLqxZ1Hht4j1C66IZ57oR"
-        }
-      ],
-      "duration_ms": 127049,
-      "name": "( ARIA )",
-      "url": "https://open.spotify.com/track/6cGfmikL06aSeiIUltKd5T"
-    },
-    {
-      "added_at": "2024-10-03 22:01:00",
-      "album": {
-        "name": "TILT",
-        "url": "https://open.spotify.com/album/2yxMMVRkLIgMjmbb2MwaML"
-      },
-      "artists": [
-        {
-          "name": "Bartolini",
-          "url": "https://open.spotify.com/artist/4c0Z0oDeS1pLt1Rkaf6MLd"
-        }
-      ],
-      "duration_ms": 164568,
-      "name": "Salem",
-      "url": "https://open.spotify.com/track/5dYCv09QzcMR7TaxFhHv4P"
+      "duration_ms": 139826,
+      "name": "BRONCIO",
+      "url": "https://open.spotify.com/track/2Gn6bZ72AmbPrG0eueI3Hs"
     },
     {
       "added_at": "2024-10-03 22:01:00",
@@ -767,6 +719,70 @@
     {
       "added_at": "2024-10-03 22:01:00",
       "album": {
+        "name": ") ) ) echo ( ( ( (",
+        "url": "https://open.spotify.com/album/1VlMacT6VojUdWYnQgUZVB"
+      },
+      "artists": [
+        {
+          "name": "Memento",
+          "url": "https://open.spotify.com/artist/0aLqxZ1Hht4j1C66IZ57oR"
+        }
+      ],
+      "duration_ms": 127049,
+      "name": "( ARIA )",
+      "url": "https://open.spotify.com/track/6cGfmikL06aSeiIUltKd5T"
+    },
+    {
+      "added_at": "2024-10-03 22:01:00",
+      "album": {
+        "name": "CAPELLI CORTI CALIFORNIA",
+        "url": "https://open.spotify.com/album/5AEtPyvBjuCnH5TZWaYNMW"
+      },
+      "artists": [
+        {
+          "name": "Cartapesta",
+          "url": "https://open.spotify.com/artist/1WbhtNbZgCyZaqYdKnAwKU"
+        }
+      ],
+      "duration_ms": 146550,
+      "name": "CAPELLI CORTI CALIFORNIA",
+      "url": "https://open.spotify.com/track/11sVx6FxPPxfuPBCc4pYxp"
+    },
+    {
+      "added_at": "2024-10-03 22:01:00",
+      "album": {
+        "name": "zagara",
+        "url": "https://open.spotify.com/album/6fdtPEoQCNrpLje2JnzD35"
+      },
+      "artists": [
+        {
+          "name": "CALLIOPE",
+          "url": "https://open.spotify.com/artist/4gUnnJ8JMuSQjd0oyDmbDt"
+        }
+      ],
+      "duration_ms": 159567,
+      "name": "zagara",
+      "url": "https://open.spotify.com/track/6LJes6Kj0wkA6PWiKNQMGG"
+    },
+    {
+      "added_at": "2024-10-03 22:01:00",
+      "album": {
+        "name": "TILT",
+        "url": "https://open.spotify.com/album/2yxMMVRkLIgMjmbb2MwaML"
+      },
+      "artists": [
+        {
+          "name": "Bartolini",
+          "url": "https://open.spotify.com/artist/4c0Z0oDeS1pLt1Rkaf6MLd"
+        }
+      ],
+      "duration_ms": 164568,
+      "name": "Salem",
+      "url": "https://open.spotify.com/track/5dYCv09QzcMR7TaxFhHv4P"
+    },
+    {
+      "added_at": "2024-10-03 22:01:00",
+      "album": {
         "name": "\u00c8 uscita la carta del diavolo (feat. MILLE)",
         "url": "https://open.spotify.com/album/4KxFwXWmzkN6rPJ1UXsd2Z"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 246750,
       "name": "\u00c8 uscita la carta del diavolo (feat. MILLE)",
       "url": "https://open.spotify.com/track/0jOUmxv7YZgZEZRjTlhUJx"
-    },
-    {
-      "added_at": "2024-10-03 22:01:00",
-      "album": {
-        "name": "BRONCIO",
-        "url": "https://open.spotify.com/album/4b85jG8dhfsMaSQeChdSQ5"
-      },
-      "artists": [
-        {
-          "name": "Greta",
-          "url": "https://open.spotify.com/artist/13GjdjA8k3fmCHSfcAxTH0"
-        }
-      ],
-      "duration_ms": 139826,
-      "name": "BRONCIO",
-      "url": "https://open.spotify.com/track/2Gn6bZ72AmbPrG0eueI3Hs"
     },
     {
       "added_at": "2024-10-03 22:01:00",
@@ -907,6 +907,22 @@
     {
       "added_at": "2024-10-03 22:01:00",
       "album": {
+        "name": "Pennette alla vodka",
+        "url": "https://open.spotify.com/album/61Qk1gg5rV9RVlZ797Ry1s"
+      },
+      "artists": [
+        {
+          "name": "L'operazione Camarillo",
+          "url": "https://open.spotify.com/artist/6tiaKBsvIaM6UPWWO4yMO4"
+        }
+      ],
+      "duration_ms": 181191,
+      "name": "Pennette alla vodka",
+      "url": "https://open.spotify.com/track/1vFOFOiGA3wKDZiyMacHFk"
+    },
+    {
+      "added_at": "2024-10-03 22:01:00",
+      "album": {
         "name": "i miei fiumi",
         "url": "https://open.spotify.com/album/5OqAfiOugii6FdqxyhgDk6"
       },
@@ -939,6 +955,22 @@
     {
       "added_at": "2024-10-03 22:01:00",
       "album": {
+        "name": "Se crolla il mondo poi ti salvo io",
+        "url": "https://open.spotify.com/album/3SYOrz4zKgRN4FnRg3cYma"
+      },
+      "artists": [
+        {
+          "name": "Destro",
+          "url": "https://open.spotify.com/artist/6yKsozMFOdRQFgaMw7BXsT"
+        }
+      ],
+      "duration_ms": 202500,
+      "name": "Se crolla il mondo poi ti salvo io",
+      "url": "https://open.spotify.com/track/0mqC0ZUnfyzfN6IN3PtNE4"
+    },
+    {
+      "added_at": "2024-10-03 22:01:00",
+      "album": {
         "name": "SALSEDINE",
         "url": "https://open.spotify.com/album/7Ja1YAam0nHvWF6beAof7C"
       },
@@ -959,50 +991,18 @@
     {
       "added_at": "2024-10-03 22:01:00",
       "album": {
-        "name": "Pennette alla vodka",
-        "url": "https://open.spotify.com/album/61Qk1gg5rV9RVlZ797Ry1s"
+        "name": "ALICE+",
+        "url": "https://open.spotify.com/album/6NSx4CI3u5ejunZLxvCjAT"
       },
       "artists": [
         {
-          "name": "L'operazione Camarillo",
-          "url": "https://open.spotify.com/artist/6tiaKBsvIaM6UPWWO4yMO4"
+          "name": "Zeta",
+          "url": "https://open.spotify.com/artist/6gRamOYCDmzgHxeWxO1RRP"
         }
       ],
-      "duration_ms": 181191,
-      "name": "Pennette alla vodka",
-      "url": "https://open.spotify.com/track/1vFOFOiGA3wKDZiyMacHFk"
-    },
-    {
-      "added_at": "2024-10-03 22:01:00",
-      "album": {
-        "name": "Canterino",
-        "url": "https://open.spotify.com/album/4iJp38ZlC8au8XklWLt4Gk"
-      },
-      "artists": [
-        {
-          "name": "tellynonpiangere",
-          "url": "https://open.spotify.com/artist/2n8rCH14DAnaBWMdkfj9hv"
-        }
-      ],
-      "duration_ms": 164444,
-      "name": "Canterino",
-      "url": "https://open.spotify.com/track/1SfPYnnRSfYJnwOBbziCyn"
-    },
-    {
-      "added_at": "2024-10-03 22:01:00",
-      "album": {
-        "name": "Settembre",
-        "url": "https://open.spotify.com/album/0C4Yadhn7f2NgtSFsuKQa5"
-      },
-      "artists": [
-        {
-          "name": "Nuela",
-          "url": "https://open.spotify.com/artist/7nAlVysgaD9U8Ys4D8WNIP"
-        }
-      ],
-      "duration_ms": 181978,
-      "name": "Settembre",
-      "url": "https://open.spotify.com/track/1IvmmcluFY1biohRwZqITX"
+      "duration_ms": 122666,
+      "name": "ALICE+",
+      "url": "https://open.spotify.com/track/0uG97bjEa7Gr12VdnG7wgO"
     }
   ],
   "unique_name": "Scuola Indie",

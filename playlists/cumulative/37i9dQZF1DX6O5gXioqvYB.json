@@ -146,7 +146,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-04",
+      "date_removed": null,
       "duration_ms": 122666,
       "name": "ALICE+",
       "url": "https://open.spotify.com/track/0uG97bjEa7Gr12VdnG7wgO"
@@ -416,7 +416,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 164444,
       "name": "Canterino",
       "url": "https://open.spotify.com/track/1SfPYnnRSfYJnwOBbziCyn"
@@ -2457,6 +2457,24 @@
     },
     {
       "album": {
+        "name": "Se crolla il mondo poi ti salvo io",
+        "url": "https://open.spotify.com/album/3SYOrz4zKgRN4FnRg3cYma"
+      },
+      "artists": [
+        {
+          "name": "Destro",
+          "url": "https://open.spotify.com/artist/6yKsozMFOdRQFgaMw7BXsT"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202500,
+      "name": "Se crolla il mondo poi ti salvo io",
+      "url": "https://open.spotify.com/track/0mqC0ZUnfyzfN6IN3PtNE4"
+    },
+    {
+      "album": {
         "name": "Se non passasse aria",
         "url": "https://open.spotify.com/album/2QamJXYhdVkK1uJAUcf2yu"
       },
@@ -2544,7 +2562,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 181978,
       "name": "Settembre",
       "url": "https://open.spotify.com/track/1IvmmcluFY1biohRwZqITX"

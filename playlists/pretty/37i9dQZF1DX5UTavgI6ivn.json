@@ -1,12 +1,12 @@
 {
   "description": "Made pa' perrear, pa' cantar y pa' brindar. Made pa' ac\u00e1 y pa' all\u00e1. Made in Colombia. Foto: Shakira",
-  "num_followers": 831585,
+  "num_followers": 831670,
   "original_name": "Made in Colombia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zvb5lQAAAAA96jH4uPgj+R9yO1MU/XxY",
+  "snapshot_id": "Zv9kRAAAAAC4dG+iEPgnBLAnBUCt2yar",
   "tracks": [
     {
       "added_at": "2024-09-27 18:29:41",
@@ -79,6 +79,26 @@
       "duration_ms": 225373,
       "name": "SE ME OLVIDA",
       "url": "https://open.spotify.com/track/2gmd7lY3QSzLh0xIY4cRvi"
+    },
+    {
+      "added_at": "2024-10-04 03:43:00",
+      "album": {
+        "name": "Qu\u00e9 Pecao",
+        "url": "https://open.spotify.com/album/753zWh3I26DZ8pCOfJFZfA"
+      },
+      "artists": [
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        },
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        }
+      ],
+      "duration_ms": 230073,
+      "name": "Qu\u00e9 Pecao",
+      "url": "https://open.spotify.com/track/456U68M8lIymkz56Zroxh8"
     },
     {
       "added_at": "2024-09-19 20:04:13",
@@ -471,22 +491,6 @@
       "duration_ms": 152500,
       "name": "SI SABE FERXXO",
       "url": "https://open.spotify.com/track/7chTH3GBjjAyagf0SPCZDL"
-    },
-    {
-      "added_at": "2024-09-19 20:04:13",
-      "album": {
-        "name": "Mil Vidas",
-        "url": "https://open.spotify.com/album/3vM8nNOW9eSapGQzJeW6m8"
-      },
-      "artists": [
-        {
-          "name": "Nico Hern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip"
-        }
-      ],
-      "duration_ms": 154001,
-      "name": "Mil Vidas",
-      "url": "https://open.spotify.com/track/6wUai114wCT3cnQh0tA9XG"
     },
     {
       "added_at": "2024-09-19 20:04:13",

@@ -4,7 +4,7 @@
 
 > Music from "Love Live! Superstar!!" 「ラブライブ！スーパースター!!」の楽曲を1つのプレイリストで。©2022 プロジェクトラブライブ！スーパースター!!
 
-107 songs - 6 hr 51 min
+108 songs - 6 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [Departure](https://open.spotify.com/track/1vbi6yaJevCD0a6pixRXMW) | [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn) | [リエラのうた](https://open.spotify.com/album/7KwBG3qnGU2FBsfXMkIVjn) | 4:45 | 2022-10-18 | 2023-03-15 |
 | [Dream Rainbow](https://open.spotify.com/track/3VEcR24kaYLvBvuYqkVchx) | [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn) | [ノンフィクション!! / Starlight Prologue \(第12話盤\)](https://open.spotify.com/album/5tNjxI6HcxmeEhTl4Q7pwf) | 4:23 | 2022-10-18 | 2023-03-15 |
 | [Dreamer Coaster \- 桜小路きな子 Ver.](https://open.spotify.com/track/5Mo1Rl1U1n2WTruqGDtAYB) | [桜小路きな子 \(CV.鈴原希実\)](https://open.spotify.com/artist/6CsJiRhS9wVBUwzqfmhFwD) | [リエラのうた2](https://open.spotify.com/album/4uALKWcmsB7CZX4ZtUqEhB) | 3:33 | 2022-10-25 |  |
-| [Dreamer Coaster \- 澁谷かのん Ver.](https://open.spotify.com/track/1xiqPO3GW5Z9TweNzNdC1i) | [澁谷かのん \(CV.伊達さゆり\)](https://open.spotify.com/artist/2KO3nQQqN4LJAKQebedEHF) | [リエラのうた2](https://open.spotify.com/album/4uALKWcmsB7CZX4ZtUqEhB) | 3:34 | 2022-10-25 |  |
+| [Dreamer Coaster \- 澁谷かのん Ver.](https://open.spotify.com/track/1xiqPO3GW5Z9TweNzNdC1i) | [澁谷かのん \(CV.伊達さゆり\)](https://open.spotify.com/artist/2KO3nQQqN4LJAKQebedEHF) | [リエラのうた2](https://open.spotify.com/album/4uALKWcmsB7CZX4ZtUqEhB) | 3:34 | 2022-10-25 | 2024-10-05 |
 | [Dreaming Energy](https://open.spotify.com/track/0OvbH8jtqdiX4yZITT3mVS) | [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn) | [始まりは君の空](https://open.spotify.com/album/2VSJLU9QyXK68Q2IDKcXd2) | 4:55 | 2022-10-18 | 2023-03-15 |
 | [Eyeをちょうだい](https://open.spotify.com/track/4zpo5aWr2n1LTjpUYu8awo) | [鬼塚夏美 \(CV.絵森 彩\)](https://open.spotify.com/artist/5ULB8cHC1ldMNZDOJc065u) | [Second Sparkle](https://open.spotify.com/album/174XCy9uPbeni6paFwenJP) | 3:34 | 2023-03-14 |  |
 | [FANTASTiC](https://open.spotify.com/track/1SPxFa5hwBkGa4BOLF2TFp) | [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn) | [Shekira](https://open.spotify.com/album/6omYirdfRVRWanhMVbCLBM) | 3:35 | 2024-01-09 | 2024-04-19 |
@@ -91,6 +91,7 @@
 | [勇気のカケラ](https://open.spotify.com/track/3NtiL2Mdlt9w0sHL75Dnue) | [嵐 千砂都 \(CV.岬 なこ\)](https://open.spotify.com/artist/44iPyW0GCQm1Qk5e5UPT8H) | [勇気のカケラ](https://open.spotify.com/album/15D2JjywVgOZxhlKWD5rYZ) | 2:55 | 2024-10-01 |  |
 | [名前呼びあうように](https://open.spotify.com/track/4tKLEyHi0uE6YN57AphyKA) | [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn) | [Sing!Shine!Smile! / 未来の音が聴こえる \(第10話盤\)](https://open.spotify.com/album/5mKov3lKYFvgHWMpBZjxaJ) | 4:40 | 2022-10-18 | 2023-03-15 |
 | [君を想う花になる](https://open.spotify.com/track/1FVbpHeODljyh4ppzVimHr) | [嵐 千砂都 \(CV.岬 なこ\)](https://open.spotify.com/artist/44iPyW0GCQm1Qk5e5UPT8H) | [Second Sparkle](https://open.spotify.com/album/174XCy9uPbeni6paFwenJP) | 3:35 | 2023-03-14 |  |
+| [変わらないすべて](https://open.spotify.com/track/7h0BBoDxVkGsAh0oHUUsm6) | [澁谷かのん \(CV.伊達さゆり\)](https://open.spotify.com/artist/2KO3nQQqN4LJAKQebedEHF), [嵐 千砂都 \(CV.岬 なこ\)](https://open.spotify.com/artist/44iPyW0GCQm1Qk5e5UPT8H) | [変わらないすべて](https://open.spotify.com/album/4OByCHwJJ9b2S1jxd7j1Tr) | 4:00 | 2024-10-03 |  |
 | [始まりは君の空](https://open.spotify.com/track/3MLmsSy2wq9Ko73GSDUwNM) | [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn) | [始まりは君の空](https://open.spotify.com/album/2VSJLU9QyXK68Q2IDKcXd2) | 5:01 | 2022-10-18 |  |
 | [微熱のワルツ](https://open.spotify.com/track/4g8oD02yWau9P3bruCVSiD) | [葉月 恋 \(CV.青山なぎさ\)](https://open.spotify.com/artist/0VWeMWIDKNxCARCogBoyyD) | [What a Wonderful Dream!!](https://open.spotify.com/album/2zzWtgloCBJXKTilI5ioJ1) | 4:16 | 2022-10-18 |  |
 | [心キラララ](https://open.spotify.com/track/5qnyyQDnoaBrrJrzV3WQm5) | [澁谷かのん \(CV.伊達さゆり\)](https://open.spotify.com/artist/2KO3nQQqN4LJAKQebedEHF) | [心キラララ](https://open.spotify.com/album/2pnYfYP4Jki32IDSFRnM5K) | 3:28 | 2024-10-01 |  |

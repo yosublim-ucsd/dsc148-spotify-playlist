@@ -1,12 +1,12 @@
 {
   "description": "The freshest tech house &amp; techno | Submit via Instagram: @subshiftmusic",
-  "num_followers": 11394,
+  "num_followers": 11403,
   "original_name": "SUBSHIFT SELECTS ",
   "owner": {
     "name": "SUBSHIFT",
     "url": "https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv"
   },
-  "snapshot_id": "AAAjtV0jLMu8JN6w7Gt/e9JXbb0NXIlH",
+  "snapshot_id": "AAAjzMv8iRNDf9qLcNjCGlFVD253cEqi",
   "tracks": [
     {
       "added_at": "2024-09-26 23:11:49",
@@ -45,6 +45,42 @@
       "url": "https://open.spotify.com/track/1KPJ8va5CxcrWrpZ62HE5f"
     },
     {
+      "added_at": "2024-10-04 08:54:23",
+      "album": {
+        "name": "GETAWAY",
+        "url": "https://open.spotify.com/album/6HtqNgGjK86kJ8orgIccpt"
+      },
+      "artists": [
+        {
+          "name": "Riordan",
+          "url": "https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao"
+        },
+        {
+          "name": "Ellis Moss",
+          "url": "https://open.spotify.com/artist/0XOfJ1JJXwMVJG26ZZj3UQ"
+        }
+      ],
+      "duration_ms": 163871,
+      "name": "GETAWAY",
+      "url": "https://open.spotify.com/track/29vEfX4XhKR4teS4mhyf2v"
+    },
+    {
+      "added_at": "2024-10-04 08:54:30",
+      "album": {
+        "name": "COLLECT THE COMMAS",
+        "url": "https://open.spotify.com/album/6AVl6czEyN0v5GRaeCr4WY"
+      },
+      "artists": [
+        {
+          "name": "PAWSA",
+          "url": "https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS"
+        }
+      ],
+      "duration_ms": 221339,
+      "name": "COLLECT THE COMMAS",
+      "url": "https://open.spotify.com/track/5e3NwBC0E6xjX9c1Uc8RHy"
+    },
+    {
       "added_at": "2024-09-26 23:13:51",
       "album": {
         "name": "in2minds",
@@ -65,24 +101,20 @@
       "url": "https://open.spotify.com/track/3zaExCzGSQDEAI03RfneN0"
     },
     {
-      "added_at": "2024-09-13 08:26:33",
+      "added_at": "2024-10-04 08:54:15",
       "album": {
-        "name": "Firestarter",
-        "url": "https://open.spotify.com/album/6IDyDOPO6hJIe5l2zZXe7h"
+        "name": "Dance Naked",
+        "url": "https://open.spotify.com/album/6lnZ0X8y7Krw0fBqkx2Qcz"
       },
       "artists": [
         {
-          "name": "Joshwa",
-          "url": "https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5"
-        },
-        {
-          "name": "Scrufizzer",
-          "url": "https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1"
+          "name": "Tony Romera",
+          "url": "https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5"
         }
       ],
-      "duration_ms": 184290,
-      "name": "Firestarter",
-      "url": "https://open.spotify.com/track/40zrIbnQI3a3JRUvlKqoHT"
+      "duration_ms": 210937,
+      "name": "Dance Naked",
+      "url": "https://open.spotify.com/track/02004T36dT91vxe7vfdRa1"
     },
     {
       "added_at": "2024-07-18 23:01:54",
@@ -107,6 +139,58 @@
       "duration_ms": 149956,
       "name": "Get Loose (feat. LexBlaze)",
       "url": "https://open.spotify.com/track/0qRMIJvnJRicT1XI0zkFYH"
+    },
+    {
+      "added_at": "2024-10-04 08:54:02",
+      "album": {
+        "name": "Discoth\u00e8que Records Vol. 5",
+        "url": "https://open.spotify.com/album/3vhAcOznjYIbVQXfZnVcyI"
+      },
+      "artists": [
+        {
+          "name": "SUBSHIFT",
+          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
+        },
+        {
+          "name": "Confession",
+          "url": "https://open.spotify.com/artist/415eldbC7phpeLkk7p5SG1"
+        }
+      ],
+      "duration_ms": 153000,
+      "name": "Shaka",
+      "url": "https://open.spotify.com/track/4JjsTeJOcfvpj5t3IJijXr"
+    },
+    {
+      "added_at": "2024-10-04 08:54:19",
+      "album": {
+        "name": "Benz",
+        "url": "https://open.spotify.com/album/364A2rolpAtWuuohl5ddfm"
+      },
+      "artists": [
+        {
+          "name": "Cave Studio",
+          "url": "https://open.spotify.com/artist/0kSX3QNjUAn4USb074y9GE"
+        }
+      ],
+      "duration_ms": 155624,
+      "name": "Benz",
+      "url": "https://open.spotify.com/track/3CvknGic0uoaKO7v450Dxb"
+    },
+    {
+      "added_at": "2024-10-04 08:54:13",
+      "album": {
+        "name": "Soul Snatcher",
+        "url": "https://open.spotify.com/album/6FC8kzQ4Bq4NvhQuq0VOiO"
+      },
+      "artists": [
+        {
+          "name": "Josh Baker",
+          "url": "https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6"
+        }
+      ],
+      "duration_ms": 340800,
+      "name": "Soul Snatcher",
+      "url": "https://open.spotify.com/track/7L7RIF825ARJWDNlrVfnP2"
     },
     {
       "added_at": "2024-09-13 08:29:54",
@@ -161,22 +245,6 @@
       "url": "https://open.spotify.com/track/4QRHDjBu4J6LBHmMriV12P"
     },
     {
-      "added_at": "2024-08-31 14:35:42",
-      "album": {
-        "name": "As The Beat Goes Onnn",
-        "url": "https://open.spotify.com/album/0VvJHxPuQ1PvnOU3iXbjN6"
-      },
-      "artists": [
-        {
-          "name": "Riordan",
-          "url": "https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao"
-        }
-      ],
-      "duration_ms": 159283,
-      "name": "As The Beat Goes Onnn",
-      "url": "https://open.spotify.com/track/5lzRFLsYxeAyRiO7r6H1qm"
-    },
-    {
       "added_at": "2024-09-13 08:29:15",
       "album": {
         "name": "Switch",
@@ -191,6 +259,26 @@
       "duration_ms": 200000,
       "name": "Switch",
       "url": "https://open.spotify.com/track/6TPSIqsx3GasdWStGelRqs"
+    },
+    {
+      "added_at": "2024-10-04 08:54:06",
+      "album": {
+        "name": "Bass Go Boom (Collier Remix)",
+        "url": "https://open.spotify.com/album/7jDzqqtw3O7q33iLA7LhlH"
+      },
+      "artists": [
+        {
+          "name": "Joshwa",
+          "url": "https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5"
+        },
+        {
+          "name": "Collier",
+          "url": "https://open.spotify.com/artist/44KWTN5dWQd0oAzu1p5xCj"
+        }
+      ],
+      "duration_ms": 168327,
+      "name": "Bass Go Boom - Collier Remix",
+      "url": "https://open.spotify.com/track/1nTHK6Qln7sWicfmlhMUe7"
     },
     {
       "added_at": "2024-09-13 08:28:05",
@@ -285,26 +373,6 @@
       "url": "https://open.spotify.com/track/04GYAnoZJajIurWLcjTMIF"
     },
     {
-      "added_at": "2024-08-19 15:36:03",
-      "album": {
-        "name": "I've Arrived (with Tomike)",
-        "url": "https://open.spotify.com/album/2W1UzcHNaKiSHpbAgMnWZM"
-      },
-      "artists": [
-        {
-          "name": "Obsk\u00fcr",
-          "url": "https://open.spotify.com/artist/29MTNlaVntQaQiDyj8KGwx"
-        },
-        {
-          "name": "Tomike",
-          "url": "https://open.spotify.com/artist/1kETB3sIaKJ2uuC9xb6eCI"
-        }
-      ],
-      "duration_ms": 150923,
-      "name": "I've Arrived (with Tomike)",
-      "url": "https://open.spotify.com/track/2EPbupudXMt2oYC3iyl31o"
-    },
-    {
       "added_at": "2024-09-06 11:41:18",
       "album": {
         "name": "Deep Inside",
@@ -345,22 +413,6 @@
       "url": "https://open.spotify.com/track/00GvqqIkMdHaxChyhZf9Nx"
     },
     {
-      "added_at": "2024-08-31 14:36:34",
-      "album": {
-        "name": "Do It Like This",
-        "url": "https://open.spotify.com/album/2uz53eIlyRS6g2rNms8wsa"
-      },
-      "artists": [
-        {
-          "name": "Chapter & Verse",
-          "url": "https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t"
-        }
-      ],
-      "duration_ms": 206250,
-      "name": "Do It Like This",
-      "url": "https://open.spotify.com/track/5BdUzqEtecxcPOhLholdqb"
-    },
-    {
       "added_at": "2024-09-13 08:26:45",
       "album": {
         "name": "Go Back",
@@ -393,6 +445,22 @@
       "url": "https://open.spotify.com/track/4Oc42aPOweEPZyNvTJSoBE"
     },
     {
+      "added_at": "2024-10-04 08:57:53",
+      "album": {
+        "name": "Do It Like This",
+        "url": "https://open.spotify.com/album/3DjKXKeMukozWmQPXd9cft"
+      },
+      "artists": [
+        {
+          "name": "Duke & Jones",
+          "url": "https://open.spotify.com/artist/3jNm5wvIx1eR5NDdXhMkNV"
+        }
+      ],
+      "duration_ms": 212578,
+      "name": "Do It Like This",
+      "url": "https://open.spotify.com/track/0T7rY2sXT0BJ7XpinOd6xt"
+    },
+    {
       "added_at": "2024-09-12 15:48:04",
       "album": {
         "name": "So Deep",
@@ -407,70 +475,6 @@
       "duration_ms": 344508,
       "name": "So Deep",
       "url": "https://open.spotify.com/track/7vaLOu63uCBn1Rj3buCNJs"
-    },
-    {
-      "added_at": "2024-08-31 14:36:06",
-      "album": {
-        "name": "212",
-        "url": "https://open.spotify.com/album/4J5YT80bIX48JsmtlKnhIB"
-      },
-      "artists": [
-        {
-          "name": "Wax Motif",
-          "url": "https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R"
-        },
-        {
-          "name": "Truth x Lies",
-          "url": "https://open.spotify.com/artist/3bh4M54m4LRs41WQs07Jy0"
-        },
-        {
-          "name": "AK RENNY",
-          "url": "https://open.spotify.com/artist/7J0b2c5hn6vsok7dPwtQMX"
-        }
-      ],
-      "duration_ms": 138750,
-      "name": "212",
-      "url": "https://open.spotify.com/track/2qCKJpRqf9qcG2VsyGbqtF"
-    },
-    {
-      "added_at": "2024-08-19 10:37:58",
-      "album": {
-        "name": "Freakk",
-        "url": "https://open.spotify.com/album/23KzxbEO0NmaCR08VZdWW6"
-      },
-      "artists": [
-        {
-          "name": "Juan Valencia",
-          "url": "https://open.spotify.com/artist/5Afyw95iiiAg0cpCU0EwoJ"
-        },
-        {
-          "name": "Alexander Zabbi",
-          "url": "https://open.spotify.com/artist/6vYrqzg2DLvAfsf0VMAeQI"
-        }
-      ],
-      "duration_ms": 245639,
-      "name": "Freakk",
-      "url": "https://open.spotify.com/track/6h9bBSHQOcLVmqkcD4gIY4"
-    },
-    {
-      "added_at": "2024-08-31 14:36:10",
-      "album": {
-        "name": "The Empty Spaces",
-        "url": "https://open.spotify.com/album/7he0W4vF0v0ozEIg2tXfLk"
-      },
-      "artists": [
-        {
-          "name": "Yolanda Be Cool",
-          "url": "https://open.spotify.com/artist/4KkHjCe8ouh8C2P9LPoD4F"
-        },
-        {
-          "name": "Tony Romera",
-          "url": "https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5"
-        }
-      ],
-      "duration_ms": 177724,
-      "name": "The Empty Spaces",
-      "url": "https://open.spotify.com/track/7DYuawZFCKbnEwU79ALZRu"
     },
     {
       "added_at": "2024-09-12 15:46:13",
@@ -517,22 +521,6 @@
       "url": "https://open.spotify.com/track/5QaDPXmJsjNfTy9ISwSbAQ"
     },
     {
-      "added_at": "2024-08-10 00:07:42",
-      "album": {
-        "name": "Mommy",
-        "url": "https://open.spotify.com/album/3PfaelgRiI601wUtYNDXct"
-      },
-      "artists": [
-        {
-          "name": "BRN",
-          "url": "https://open.spotify.com/artist/3yujwOo5L5DZDOcGj8K9fj"
-        }
-      ],
-      "duration_ms": 206769,
-      "name": "Mommy",
-      "url": "https://open.spotify.com/track/6ChqMdxPeCDn5i6C8j7JZs"
-    },
-    {
       "added_at": "2024-06-13 23:03:26",
       "album": {
         "name": "More Acid",
@@ -553,22 +541,6 @@
       "url": "https://open.spotify.com/track/76mLFEljVN42gbLT8Q7bBC"
     },
     {
-      "added_at": "2024-08-31 14:35:49",
-      "album": {
-        "name": "Uh",
-        "url": "https://open.spotify.com/album/1easyt3ubeaHSvJZueMLZW"
-      },
-      "artists": [
-        {
-          "name": "Bessey",
-          "url": "https://open.spotify.com/artist/2Y8520emzk5wmRe9zFSVzA"
-        }
-      ],
-      "duration_ms": 197419,
-      "name": "Uh",
-      "url": "https://open.spotify.com/track/0Nu4AEUKydpFh5LSdUaxh8"
-    },
-    {
       "added_at": "2024-09-06 11:41:28",
       "album": {
         "name": "Bambilibam",
@@ -583,42 +555,6 @@
       "duration_ms": 139750,
       "name": "Bambilibam",
       "url": "https://open.spotify.com/track/0shvn8hv6MzQRedCHzeP6Z"
-    },
-    {
-      "added_at": "2024-08-26 20:35:40",
-      "album": {
-        "name": "Fall EP",
-        "url": "https://open.spotify.com/album/6mtRWEWZ6lJZkkD3yPMbes"
-      },
-      "artists": [
-        {
-          "name": "Louis Millne",
-          "url": "https://open.spotify.com/artist/6oVWsUniV39LusFsC7axlb"
-        },
-        {
-          "name": "Ell Jordan",
-          "url": "https://open.spotify.com/artist/3ZfwdqNPzevAjnBlRCkBKl"
-        }
-      ],
-      "duration_ms": 177230,
-      "name": "Fall",
-      "url": "https://open.spotify.com/track/2QNXbKeLQWsSJkPiyfmL3d"
-    },
-    {
-      "added_at": "2024-08-31 14:36:08",
-      "album": {
-        "name": "Mwaki",
-        "url": "https://open.spotify.com/album/5HRsCU7tSGg1vZsSQ5YgNy"
-      },
-      "artists": [
-        {
-          "name": "JUNTARO",
-          "url": "https://open.spotify.com/artist/2UMKCxDFAAy154VgUJHKN9"
-        }
-      ],
-      "duration_ms": 227172,
-      "name": "Mwaki",
-      "url": "https://open.spotify.com/track/6vmTwYZ9Vc6UIp15jRJz9Z"
     },
     {
       "added_at": "2024-09-06 13:56:13",
@@ -641,22 +577,6 @@
       "url": "https://open.spotify.com/track/4woUIybgBhx11EmDI9iVQZ"
     },
     {
-      "added_at": "2024-08-31 14:35:46",
-      "album": {
-        "name": "Promise",
-        "url": "https://open.spotify.com/album/6z3dWgKm7JBsjxOSwNyfvP"
-      },
-      "artists": [
-        {
-          "name": "Maur",
-          "url": "https://open.spotify.com/artist/2LhJEX3HxU9pJFLa8RkvUC"
-        }
-      ],
-      "duration_ms": 182143,
-      "name": "Promise",
-      "url": "https://open.spotify.com/track/0T4wkxReOE9f1cr9ymQbIQ"
-    },
-    {
       "added_at": "2024-01-12 00:02:36",
       "album": {
         "name": "Reasons",
@@ -671,22 +591,6 @@
       "duration_ms": 154941,
       "name": "Reasons",
       "url": "https://open.spotify.com/track/2UV4as6h8ps2pQKVtojacQ"
-    },
-    {
-      "added_at": "2024-08-31 14:35:59",
-      "album": {
-        "name": "Do It Like That",
-        "url": "https://open.spotify.com/album/6ucwVo1fkaYnd59K019EdH"
-      },
-      "artists": [
-        {
-          "name": "Malcolm Zeller",
-          "url": "https://open.spotify.com/artist/5LlefWbu524mwqs5ZmFuvm"
-        }
-      ],
-      "duration_ms": 191931,
-      "name": "Do It Like That",
-      "url": "https://open.spotify.com/track/0h4S0B2nRZrnIOej34O6TA"
     },
     {
       "added_at": "2024-08-31 14:36:38",
@@ -721,20 +625,24 @@
       "url": "https://open.spotify.com/track/2azPJNICoNaxiTaAYi11Vg"
     },
     {
-      "added_at": "2024-08-15 09:31:07",
+      "added_at": "2024-10-04 08:56:19",
       "album": {
-        "name": "Planet Bass EP",
-        "url": "https://open.spotify.com/album/19Vy3V9OWtfe9MNKFi2Irz"
+        "name": "House Party",
+        "url": "https://open.spotify.com/album/2pIOt3QbbGrxwNj64stMRT"
       },
       "artists": [
         {
-          "name": "Dan Fresco",
-          "url": "https://open.spotify.com/artist/2g2PlDZQoNih53dy2I14zB"
+          "name": "Ozzie Guven",
+          "url": "https://open.spotify.com/artist/6VjxkdeZYfc1U2pC3JmwLy"
+        },
+        {
+          "name": "Chris Gialanze",
+          "url": "https://open.spotify.com/artist/0Slntwm25yYlqpzONDfq86"
         }
       ],
-      "duration_ms": 234461,
-      "name": "Planet Bass",
-      "url": "https://open.spotify.com/track/5rNcvTadVp1GtW3G2OYNds"
+      "duration_ms": 390000,
+      "name": "House Party",
+      "url": "https://open.spotify.com/track/09WiBVowNXacBhTCtzoY5z"
     },
     {
       "added_at": "2023-11-10 00:01:41",
@@ -757,20 +665,20 @@
       "url": "https://open.spotify.com/track/5hj1JdeMFcm7bAoX1Pmb6B"
     },
     {
-      "added_at": "2023-12-01 00:04:12",
+      "added_at": "2024-10-04 08:55:12",
       "album": {
-        "name": "Move With Tha",
-        "url": "https://open.spotify.com/album/35YXlOPsyhZtgcELZcN4nJ"
+        "name": "Savage",
+        "url": "https://open.spotify.com/album/4VH8YngXsLz68N0eQYiYpS"
       },
       "artists": [
         {
-          "name": "SUBSHIFT",
-          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
+          "name": "Angel Heredia",
+          "url": "https://open.spotify.com/artist/6CQEcdCb4eIWDQPxCFfFRN"
         }
       ],
-      "duration_ms": 186933,
-      "name": "Move With Tha",
-      "url": "https://open.spotify.com/track/5voZGXGTFZBn3nKZ6UJyxK"
+      "duration_ms": 378750,
+      "name": "Savage",
+      "url": "https://open.spotify.com/track/3r6i3zJ5LhJH7KnIeOPZa1"
     },
     {
       "added_at": "2024-08-31 14:36:55",

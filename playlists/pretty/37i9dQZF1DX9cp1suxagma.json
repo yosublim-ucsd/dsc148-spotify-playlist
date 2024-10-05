@@ -1,12 +1,12 @@
 {
   "description": "Pop de los mejores artistas colombianos. \u00a1Dale play! Foto: Morat",
-  "num_followers": 120178,
+  "num_followers": 120198,
   "original_name": "Pop Colombia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvYJtwAAAAB4Oz1mQtDdCFrOwJLw2Vyr",
+  "snapshot_id": "Zv9mZAAAAAB5G/sPIkMgUAVv8ryZEJh3",
   "tracks": [
     {
       "added_at": "2024-09-13 07:34:00",
@@ -57,6 +57,22 @@
       "url": "https://open.spotify.com/track/3OJDtCdYs8QJnui708tEU3"
     },
     {
+      "added_at": "2024-10-04 03:52:04",
+      "album": {
+        "name": "Summer En Par\u00eds",
+        "url": "https://open.spotify.com/album/3qLo8V07kEVNmjuklblbk5"
+      },
+      "artists": [
+        {
+          "name": "Loyal Lobos",
+          "url": "https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf"
+        }
+      ],
+      "duration_ms": 185720,
+      "name": "Summer En Par\u00eds",
+      "url": "https://open.spotify.com/track/3uunvMbxsCZmzgHmOJJe4Y"
+    },
+    {
       "added_at": "2024-09-13 07:34:00",
       "album": {
         "name": "Los Domingos",
@@ -71,22 +87,6 @@
       "duration_ms": 214000,
       "name": "Los Domingos",
       "url": "https://open.spotify.com/track/40Ne4Y9gf5fdZyy7WDZhQu"
-    },
-    {
-      "added_at": "2024-09-27 01:26:15",
-      "album": {
-        "name": "Entre Comillas",
-        "url": "https://open.spotify.com/album/2Uu89iIqcG4WVVJITBpDxM"
-      },
-      "artists": [
-        {
-          "name": "Natalia Natalia",
-          "url": "https://open.spotify.com/artist/0SY7fk6yoGlOzdUQNAueXQ"
-        }
-      ],
-      "duration_ms": 173142,
-      "name": "Entre Comillas",
-      "url": "https://open.spotify.com/track/3ypWJV6odQeCmujaWg1MBv"
     },
     {
       "added_at": "2024-09-13 07:34:00",
@@ -171,6 +171,22 @@
       "duration_ms": 207745,
       "name": "Antes De Los 30 - En Sue\u00f1o Desde Madrid",
       "url": "https://open.spotify.com/track/4igZX8SIbQbLDl0UxZWQpr"
+    },
+    {
+      "added_at": "2024-09-27 01:26:15",
+      "album": {
+        "name": "Entre Comillas",
+        "url": "https://open.spotify.com/album/2Uu89iIqcG4WVVJITBpDxM"
+      },
+      "artists": [
+        {
+          "name": "Natalia Natalia",
+          "url": "https://open.spotify.com/artist/0SY7fk6yoGlOzdUQNAueXQ"
+        }
+      ],
+      "duration_ms": 173142,
+      "name": "Entre Comillas",
+      "url": "https://open.spotify.com/track/3ypWJV6odQeCmujaWg1MBv"
     },
     {
       "added_at": "2024-09-27 01:26:15",
@@ -275,26 +291,6 @@
       "duration_ms": 219157,
       "name": "Te doy las gracias",
       "url": "https://open.spotify.com/track/60ftxYw9vpJsw2texcOguV"
-    },
-    {
-      "added_at": "2024-09-13 07:34:00",
-      "album": {
-        "name": "Mosaico Pirata",
-        "url": "https://open.spotify.com/album/5D86xGaD8KNU6H6JH9Rftz"
-      },
-      "artists": [
-        {
-          "name": "Duplat",
-          "url": "https://open.spotify.com/artist/74Bgwc5zD9KyNHiMqy2QJO"
-        },
-        {
-          "name": "Juan Pablo Vega",
-          "url": "https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0"
-        }
-      ],
-      "duration_ms": 179725,
-      "name": "Mosaico Pirata",
-      "url": "https://open.spotify.com/track/5lnqF1tIXA4SDd4wxQVsaV"
     },
     {
       "added_at": "2024-09-13 07:34:00",

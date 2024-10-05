@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbENHm2OgowX.md) - [plain]
 
 > wandering the forest as the fog floats through the trees
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,966 likes - 69 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,177 likes - 69 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbENHm2OgowX.md) - [plain]
 | 54 | [Close](https://open.spotify.com/track/2qZBYY1G1guH9FjToCn0g4) | [Deaf Center](https://open.spotify.com/artist/0GQJRlsTD8irKEDcClYiiA) | [Vintage Well](https://open.spotify.com/album/6Yq2E5sFMqeT3SsOsdVHTm) | 2:50 |
 | 55 | [Locale](https://open.spotify.com/track/7EmVoBw3vXMwBpIhPA4KEF) | [Violet A\. Foster](https://open.spotify.com/artist/3OKmOc5V850cI1rAjyo9Gi) | [Moments.](https://open.spotify.com/album/0bl0GAtHn9TGtr5Gwxoa4t) | 2:36 |
 | 56 | [hexa](https://open.spotify.com/track/6BWIrKTvVD1w1zB1WhbRmP) | [Maxx](https://open.spotify.com/artist/058CZbsaJmJbRQvDRAAErr) | [hexa](https://open.spotify.com/album/3142OVL5k96lO51q7Hmiqs) | 2:29 |
-| 57 | [Slow Bloom](https://open.spotify.com/track/39W0Sl0GtgiLvr15Lq9vju) | [air hunger](https://open.spotify.com/artist/40UUOCP3GVEKusB4RZ50W0) | [Slow Bloom](https://open.spotify.com/album/2Vz8SP9YrEhrCK0seyZw2n) | 4:45 |
-| 58 | [Dry Retch \- 2021 Remaster](https://open.spotify.com/track/6unZyubxwrlThrvlfMw1Ot) | [Donnacha Costello](https://open.spotify.com/artist/4E4E7r2hvqQjmNVaHnKXiz) | [Together Is The New Alone \(2021 Remaster\)](https://open.spotify.com/album/50IrZoBBRl0nlOnnPxYS1U) | 10:45 |
+| 57 | [Dry Retch \- 2021 Remaster](https://open.spotify.com/track/6unZyubxwrlThrvlfMw1Ot) | [Donnacha Costello](https://open.spotify.com/artist/4E4E7r2hvqQjmNVaHnKXiz) | [Together Is The New Alone \(2021 Remaster\)](https://open.spotify.com/album/50IrZoBBRl0nlOnnPxYS1U) | 10:45 |
+| 58 | [Slow Bloom](https://open.spotify.com/track/39W0Sl0GtgiLvr15Lq9vju) | [air hunger](https://open.spotify.com/artist/40UUOCP3GVEKusB4RZ50W0) | [Slow Bloom](https://open.spotify.com/album/2Vz8SP9YrEhrCK0seyZw2n) | 4:45 |
 | 59 | [Chlorine Gargoyle](https://open.spotify.com/track/3QOuzsquI4xuxKDLIwhqmo) | [thin air](https://open.spotify.com/artist/65OVOH6e3BNhnFJX3qramL) | [Dreams of a Wake](https://open.spotify.com/album/5suvbQk4ehNtmw4dKFXeIi) | 4:43 |
 | 60 | [As Bright as the Night](https://open.spotify.com/track/7dTFtjtn0P1SmCDMdgm1DA) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Angel's Flight](https://open.spotify.com/album/33d7YxK49GlKrzATMvdhyR) | 4:56 |
 | 61 | [Take My Hand](https://open.spotify.com/track/2li1k57BZcIGJrISHXlOmh) | [Luke Taylor](https://open.spotify.com/artist/2DxAWfvhrcylvjEZILMyhR) | [Take My Hand](https://open.spotify.com/album/2KVKBlcWmJ49mhV4wfQ50I) | 2:39 |

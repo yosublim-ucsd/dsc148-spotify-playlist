@@ -4,7 +4,7 @@
 
 > a unique mix of rock, punk, alt & indie\. Cover: Being Dead
 
-742 songs - 1 day 17 hr 28 min
+743 songs - 1 day 17 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [Brainwashin’](https://open.spotify.com/track/2ILW2QaDIhd4uSPRtb4106) | [Fade 'Em All](https://open.spotify.com/artist/5KPgrRE2BkgShDII1cH1HN) | [Brainwashin’](https://open.spotify.com/album/5EiW8PeUPcDDwh2ehy2x5B) | 2:55 | 2022-02-21 | 2022-11-05 |
 | [Brass Bell](https://open.spotify.com/track/0vNu5t0o0R57Xy1e10d5zI) | [Screaming Females](https://open.spotify.com/artist/3pZ666b6CyO1KGpVYirY0t) | [Brass Bell](https://open.spotify.com/album/6Q7cmkyTXxQO6FKIqrUFhv) | 4:23 | 2023-02-13 | 2024-08-03 |
 | [Brass Bell](https://open.spotify.com/track/2P1kSwV2hQFxf6jjsOwsMj) | [Screaming Females](https://open.spotify.com/artist/3pZ666b6CyO1KGpVYirY0t) | [Desire Pathway](https://open.spotify.com/album/4ijKOsVWOcCxMK2Xt2gvLx) | 4:23 | 2023-04-14 | 2024-04-19 |
+| [Break The Tension](https://open.spotify.com/track/0xDcb79YbOWM9izkdd26gi) | [Maruja](https://open.spotify.com/artist/71ISXR7gtIq5E2AdI3jGf0) | [Break The Tension](https://open.spotify.com/album/4oMSL9GDnGiU7wkFjkChvo) | 3:45 | 2024-10-04 |  |
 | [BREAKFAST IN SPACE](https://open.spotify.com/track/0p23x26aIZJs0bROjthbLl) | [Destructo Disk](https://open.spotify.com/artist/2kc0DEfYci8CKkvQmnivj9) | [BAD GRAVITY](https://open.spotify.com/album/2DbYairkSUm4YbVXd0sHwa) | 2:40 | 2022-06-10 | 2022-08-06 |
 | [Brown Paper Bag](https://open.spotify.com/track/1305CPBxxAlpxmTciVehNu) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Brown Paper Bag](https://open.spotify.com/album/6ST5FAXR1PGdcke9lHZYyY) | 4:25 | 2024-02-16 |  |
 | [Bubblegum Infinity](https://open.spotify.com/track/3et7oRd1VMvQ3805uuor7N) | [Psychedelic Porn Crumpets](https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80) | [Night Gnomes](https://open.spotify.com/album/03v97YHEAK4SfVd4QuIuOt) | 3:10 | 2022-04-29 | 2022-07-09 |
@@ -309,7 +310,7 @@
 | [Honest Living](https://open.spotify.com/track/3YTusZlExW8QCdrlDR1HTR) | [Meat Wave](https://open.spotify.com/artist/1BFVh82YuUOyM8XKZIRaBL) | [Honest Living](https://open.spotify.com/album/5EkpUpnQL3kgBH904GNHXH) | 2:06 | 2022-03-11 | 2023-04-09 |
 | [Honey](https://open.spotify.com/track/3EGN9B0DmjSBMBKzZVMSAM) | [PACKS](https://open.spotify.com/artist/1ZgzpPiODfKa4B9Fkw1dWm) | [Honey](https://open.spotify.com/album/7dQTDkq3YrRmbEs7fMatlJ) | 2:36 | 2023-10-02 |  |
 | [Honey Hive](https://open.spotify.com/track/2z7Ok5lURMKsvbuP42ihH1) | [LURK](https://open.spotify.com/artist/3HUD6tXPRpqbXIBqJMdNCR) | [Honey Hive](https://open.spotify.com/album/7keOKRUL6ramxL43hoc3hc) | 4:01 | 2023-05-22 | 2024-07-31 |
-| [Honeycrash](https://open.spotify.com/track/49MS1LeGxzcG9LOvpzhAQr) | [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz) | [Honeycrash](https://open.spotify.com/album/65c74y1vN6hMca1Zs4hkVo) | 3:08 | 2024-06-04 |  |
+| [Honeycrash](https://open.spotify.com/track/49MS1LeGxzcG9LOvpzhAQr) | [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz) | [Honeycrash](https://open.spotify.com/album/65c74y1vN6hMca1Zs4hkVo) | 3:08 | 2024-06-04 | 2024-10-05 |
 | [Hot Ghee](https://open.spotify.com/track/3sGn6o0Dl1Pi7aEMWFDGbC) | [Night Beats](https://open.spotify.com/artist/07dZirN9KFAGIHeBvSDfuO) | [Hot Ghee](https://open.spotify.com/album/4k6plX8548lKZzlEcpPMA1) | 3:44 | 2024-04-12 | 2024-07-31 |
 | [Hot Ghee](https://open.spotify.com/track/7LjukeeqaeWESbiVJ26Wd4) | [Night Beats](https://open.spotify.com/artist/07dZirN9KFAGIHeBvSDfuO) | [Hot Ghee](https://open.spotify.com/album/0qyyECaJgUaV73J9Cczszh) | 3:44 | 2023-04-14 | 2023-07-17 |
 | [Hot Ghee](https://open.spotify.com/track/7y6xvtRLOMbJzc8g27N01p) | [Night Beats](https://open.spotify.com/artist/07dZirN9KFAGIHeBvSDfuO) | [Rajan](https://open.spotify.com/album/0Xpiosb3si75dyOvQ6avF0) | 3:44 | 2023-07-14 | 2024-04-19 |

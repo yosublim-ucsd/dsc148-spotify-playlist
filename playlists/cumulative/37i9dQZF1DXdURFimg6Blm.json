@@ -185,6 +185,28 @@
     },
     {
       "album": {
+        "name": "7 Seconds (feat. Shamiya Battles) - Radio Edit",
+        "url": "https://open.spotify.com/album/6i3MFLyojYO4kteUSnWaVG"
+      },
+      "artists": [
+        {
+          "name": "James Hype",
+          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
+        },
+        {
+          "name": "Shamiya Battles",
+          "url": "https://open.spotify.com/artist/3NTdPQSh0JSz5c5AGngQyE"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92226,
+      "name": "7 Seconds (feat. Shamiya Battles) - Radio Edit",
+      "url": "https://open.spotify.com/track/4HVELk51Nc1UF7jb1nzIRT"
+    },
+    {
+      "album": {
         "name": "A Drug From God",
         "url": "https://open.spotify.com/album/6tZzL3lTVgWhJb2cE2jz1f"
       },
@@ -651,6 +673,28 @@
     },
     {
       "album": {
+        "name": "Another World",
+        "url": "https://open.spotify.com/album/72ArwEgG0egqM3vmQKxWVZ"
+      },
+      "artists": [
+        {
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+        },
+        {
+          "name": "HAYLA",
+          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Another World",
+      "url": "https://open.spotify.com/track/5U0iZCQ9e8PaLYxup0pcnO"
+    },
+    {
+      "album": {
         "name": "Anywhere With You",
         "url": "https://open.spotify.com/album/0JaOI27aTExNAnLHpKi2wl"
       },
@@ -940,6 +984,32 @@
       "duration_ms": 146249,
       "name": "Baila Conmigo",
       "url": "https://open.spotify.com/track/3KruoUtSkm84Az0bJunnxl"
+    },
+    {
+      "album": {
+        "name": "Bar Song (Tipsy Techno)",
+        "url": "https://open.spotify.com/album/6eAhvsBUMtub3ha90qexgI"
+      },
+      "artists": [
+        {
+          "name": "GRATIFY",
+          "url": "https://open.spotify.com/artist/5vLZlXIqghQxwSIiq3lgnh"
+        },
+        {
+          "name": "Keanu Silva",
+          "url": "https://open.spotify.com/artist/1zLMhO4zzzxt5PMV4wMS3y"
+        },
+        {
+          "name": "Norman Alexander",
+          "url": "https://open.spotify.com/artist/6ELWY3ndzSYY82O8sR81Ts"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135242,
+      "name": "Bar Song (Tipsy Techno)",
+      "url": "https://open.spotify.com/track/3KyuAMSYdYdEiBoAvB9xDh"
     },
     {
       "album": {
@@ -1676,7 +1746,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 154639,
       "name": "Chase It (Mmm Da Da Da)",
       "url": "https://open.spotify.com/track/08APpCYHGsbJ2N9jhRgLQY"
@@ -2374,7 +2444,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 179161,
       "name": "Desire (with Sam Smith)",
       "url": "https://open.spotify.com/track/22dUzMFttcR3uU17NcOAIv"
@@ -6487,6 +6557,28 @@
     },
     {
       "album": {
+        "name": "Mamma Mia (feat. Mentissa) - Techno Mix",
+        "url": "https://open.spotify.com/album/19w0jhRAHEnurkWpsKQFTf"
+      },
+      "artists": [
+        {
+          "name": "BENNETT",
+          "url": "https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48"
+        },
+        {
+          "name": "Mentissa",
+          "url": "https://open.spotify.com/artist/0cb0p26TbAeBeekZHfxWlS"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200683,
+      "name": "Mamma Mia (feat. Mentissa) - Techno Mix",
+      "url": "https://open.spotify.com/track/3qpsSAfHgTdTwkaraJLe0V"
+    },
+    {
+      "album": {
         "name": "World Of Walker",
         "url": "https://open.spotify.com/album/3KrkQ77DF9OUB0aOzKFYOF"
       },
@@ -9552,7 +9644,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 146230,
       "name": "Sippin' Yak",
       "url": "https://open.spotify.com/track/1LldihpfcYdxAnCigKijW2"
@@ -9692,7 +9784,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 161627,
       "name": "Sorry (with Madonna)",
       "url": "https://open.spotify.com/track/5dW0cgZ9uV1W3PXtuTS5uP"
@@ -10624,7 +10716,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 159161,
       "name": "TMO (Turn Me On) [feat. Kevin Lyttle]",
       "url": "https://open.spotify.com/track/6WwzdsP1Y1bb4NYXpgn5CD"
@@ -10946,6 +11038,28 @@
       "duration_ms": 176898,
       "name": "Vent",
       "url": "https://open.spotify.com/track/4yMXKeuRDOIzrh3fBiJYds"
+    },
+    {
+      "album": {
+        "name": "VHS RAVE",
+        "url": "https://open.spotify.com/album/6jBRSFPY0Kbg7V3Ey2uDYX"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Swimming Paul",
+          "url": "https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191250,
+      "name": "VHS RAVE",
+      "url": "https://open.spotify.com/track/1zgs6QpTBuJ67TQvXMtp7L"
     },
     {
       "album": {

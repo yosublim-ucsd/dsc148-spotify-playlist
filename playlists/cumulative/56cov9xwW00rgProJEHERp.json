@@ -517,6 +517,24 @@
     },
     {
       "album": {
+        "name": "Chemical",
+        "url": "https://open.spotify.com/album/5ZLmMyn2KqI1R3Tzr9vRTu"
+      },
+      "artists": [
+        {
+          "name": "Maddie Jay",
+          "url": "https://open.spotify.com/artist/0eelrX0AcylGwVNf1HW77h"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247000,
+      "name": "Chemical",
+      "url": "https://open.spotify.com/track/4WyuYATlsnHmdjfPQInnr2"
+    },
+    {
+      "album": {
         "name": "Cinnamon Curls",
         "url": "https://open.spotify.com/album/49F31VHQxwOLpTRBsQboBL"
       },
@@ -2429,6 +2447,24 @@
     },
     {
       "album": {
+        "name": "So Many Ways To Say I Love You",
+        "url": "https://open.spotify.com/album/7Ld0nJtPBxkJRqq2mFgsFr"
+      },
+      "artists": [
+        {
+          "name": "Jeremie Albino",
+          "url": "https://open.spotify.com/artist/69fOAbSc6FEOFmvvMzlNgY"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166652,
+      "name": "So Many Ways To Say I Love You",
+      "url": "https://open.spotify.com/track/5KJKKDAtaZdH962ET3HPEu"
+    },
+    {
+      "album": {
         "name": "Nerve",
         "url": "https://open.spotify.com/album/67njACuhii6ppE1nFoHazz"
       },
@@ -3068,6 +3104,24 @@
       "duration_ms": 201533,
       "name": "Wait For You",
       "url": "https://open.spotify.com/track/0JjecOzaIzBTfIY35QGmgw"
+    },
+    {
+      "album": {
+        "name": "Water Running",
+        "url": "https://open.spotify.com/album/05fAPkkDUFONZWEJRLk3ss"
+      },
+      "artists": [
+        {
+          "name": "Delaney Bailey",
+          "url": "https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235724,
+      "name": "Water Running",
+      "url": "https://open.spotify.com/track/1M7OIUPCi2htd1LuoGZBZ3"
     },
     {
       "album": {

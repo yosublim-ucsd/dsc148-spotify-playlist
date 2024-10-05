@@ -1,12 +1,12 @@
 {
-  "description": "This is Kemilly Santos. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 4484,
+  "description": "This is Kemilly Santos. The essential tracks, all in one playlist.",
+  "num_followers": 4487,
   "original_name": "This Is Kemilly Santos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvyNAAAAAAAJwmJXjpwIsqvKQhyTycd7",
+  "snapshot_id": "Zv3egAAAAACY4gwSEwbFWRsdIVSAUnWx",
   "tracks": [
     {
       "added_at": null,
@@ -27,26 +27,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Escritor",
-        "url": "https://open.spotify.com/album/1EvoEIiPtezj0uAVKyvlVd"
-      },
-      "artists": [
-        {
-          "name": "Misaias Oliveira",
-          "url": "https://open.spotify.com/artist/0nQgkrgwYvnmvP4UihHaQt"
-        },
-        {
-          "name": "Kemilly Santos",
-          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
-        }
-      ],
-      "duration_ms": 289248,
-      "name": "Escritor",
-      "url": "https://open.spotify.com/track/0PBoBEHYRIdBV5JNywK2IN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Far\u00e1s Outra Vez",
         "url": "https://open.spotify.com/album/4pSM69zSpIVcRggt4YxVpY"
       },
@@ -63,6 +43,26 @@
       "duration_ms": 247013,
       "name": "Far\u00e1s Outra Vez",
       "url": "https://open.spotify.com/track/2EW0dzdF4CRdbz6I1z2yJV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Escritor",
+        "url": "https://open.spotify.com/album/1EvoEIiPtezj0uAVKyvlVd"
+      },
+      "artists": [
+        {
+          "name": "Misaias Oliveira",
+          "url": "https://open.spotify.com/artist/0nQgkrgwYvnmvP4UihHaQt"
+        },
+        {
+          "name": "Kemilly Santos",
+          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+        }
+      ],
+      "duration_ms": 289248,
+      "name": "Escritor",
+      "url": "https://open.spotify.com/track/0PBoBEHYRIdBV5JNywK2IN"
     },
     {
       "added_at": null,
@@ -123,18 +123,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Limite (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3vdnEGDteYJDJATiUvMaSC"
+        "name": "Sonhador (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5BBal0yfHCqk2WMBS3wiRb"
       },
       "artists": [
         {
           "name": "Kemilly Santos",
           "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+        },
+        {
+          "name": "Thalles Roberto",
+          "url": "https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1"
         }
       ],
-      "duration_ms": 278613,
-      "name": "Limite (Ao Vivo)",
-      "url": "https://open.spotify.com/track/2AfkBRIkeL12Jhwsqwyu0i"
+      "duration_ms": 233093,
+      "name": "Sonhador (Ao Vivo)",
+      "url": "https://open.spotify.com/track/115fT6bA6oiR4mHVrnZzG2"
     },
     {
       "added_at": null,
@@ -171,22 +175,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sonhador (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5BBal0yfHCqk2WMBS3wiRb"
+        "name": "Limite (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3vdnEGDteYJDJATiUvMaSC"
       },
       "artists": [
         {
           "name": "Kemilly Santos",
           "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
-        },
-        {
-          "name": "Thalles Roberto",
-          "url": "https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1"
         }
       ],
-      "duration_ms": 233093,
-      "name": "Sonhador (Ao Vivo)",
-      "url": "https://open.spotify.com/track/115fT6bA6oiR4mHVrnZzG2"
+      "duration_ms": 278613,
+      "name": "Limite (Ao Vivo)",
+      "url": "https://open.spotify.com/track/2AfkBRIkeL12Jhwsqwyu0i"
     },
     {
       "added_at": null,
@@ -250,11 +250,15 @@
         {
           "name": "Kemilly Santos",
           "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+        },
+        {
+          "name": "Sued Silva",
+          "url": "https://open.spotify.com/artist/4EaUmdr2olpJ9n2OARYRJ2"
         }
       ],
-      "duration_ms": 304210,
-      "name": "Acredite",
-      "url": "https://open.spotify.com/track/2FlAWTMqyJcbdxujlebgS8"
+      "duration_ms": 217500,
+      "name": "Calma",
+      "url": "https://open.spotify.com/track/2jpAVrNOYTHLguyC7ccPGj"
     },
     {
       "added_at": null,
@@ -322,15 +326,11 @@
         {
           "name": "Kemilly Santos",
           "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
-        },
-        {
-          "name": "Sued Silva",
-          "url": "https://open.spotify.com/artist/4EaUmdr2olpJ9n2OARYRJ2"
         }
       ],
-      "duration_ms": 217500,
-      "name": "Calma",
-      "url": "https://open.spotify.com/track/2jpAVrNOYTHLguyC7ccPGj"
+      "duration_ms": 304210,
+      "name": "Acredite",
+      "url": "https://open.spotify.com/track/2FlAWTMqyJcbdxujlebgS8"
     },
     {
       "added_at": null,

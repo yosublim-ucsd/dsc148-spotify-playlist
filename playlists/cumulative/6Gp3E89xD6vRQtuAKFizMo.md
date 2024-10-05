@@ -4,7 +4,7 @@
 
 > Brand new music from Steve Aoki’s Dim Mak Records, updated every Tuesday and Friday!
 
-352 songs - 16 hr 55 min
+354 songs - 17 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Bebiendo \(feat\. Ms Nina\)](https://open.spotify.com/track/1ZFTwYqAi4QYtZ0AEesGvC) | [La Favi](https://open.spotify.com/artist/5lnsY88L4HEVxNUMCefego), [Ms Nina](https://open.spotify.com/artist/43Hr2FjhVehkROIIEb7EfQ) | [Bebiendo \(feat\. Ms Nina\)](https://open.spotify.com/album/3ceLFqR6p8w0JlcsAjudsk) | 2:48 | 2023-05-06 |  |
 | [Beg For It \(feat\. Britt Lari\)](https://open.spotify.com/track/1b5bA4rk56LmFBZCvi55tj) | [Cheyenne Giles](https://open.spotify.com/artist/2FoyDZAnGzikijRdXrocmj), [Britt Lari](https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159) | [Beg For It \(feat\. Britt Lari\)](https://open.spotify.com/album/7qH5pAokhhH8qpJ064xRu0) | 2:59 | 2024-03-15 |  |
 | [Believer](https://open.spotify.com/track/7dYBCDao1pYAKvqzAexYod) | [BRKLYN](https://open.spotify.com/artist/0sSB3cIRBuBGa1UXLsQtaw) | [Believer](https://open.spotify.com/album/7LgLoJOnLn4yvDOe6vFthx) | 2:09 | 2023-05-26 |  |
+| [Better Off Alone \(feat\. LaPetite\)](https://open.spotify.com/track/6dOiQuHSM5R8FonZg1x4aQ) | [T\-Mass](https://open.spotify.com/artist/0M3cZtjQZ8fz3Hbw1A4CwF), [LaPetite](https://open.spotify.com/artist/3GOb5J15JfoYrlO2AKQBQm) | [Better Off Alone \(feat\. LaPetite\)](https://open.spotify.com/album/3wkSaNUjJX8zNwYjIQLuag) | 2:56 | 2024-10-04 |  |
 | [Blade](https://open.spotify.com/track/2xfuUnHrsftleiNvhxrBis) | [Fox Beach](https://open.spotify.com/artist/3oscL02LJvKEkbxByDKRGs) | [Blade](https://open.spotify.com/album/3mfFOwMkEYMwZqKwu7su28) | 2:18 | 2022-09-13 | 2022-11-05 |
 | [Blink](https://open.spotify.com/track/3ivU4AKYS5NgBpodGp61IQ) | [Austin Atlas](https://open.spotify.com/artist/4TkDe8MLTpt4FcOCKxl1WC), [.dru](https://open.spotify.com/artist/3Uhwyjj7LKNzEfWhAT0u9L), [Jackson](https://open.spotify.com/artist/63S5cwgY5HmZyuqKlwP1BE) | [Blink](https://open.spotify.com/album/5dLDAqx33v36RkZ7cg81fl) | 3:21 | 2022-05-06 | 2022-08-13 |
 | [Blow The Socket](https://open.spotify.com/track/3o9c2W2OrQe4i1KE0QjQdW) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [Teddy Killerz](https://open.spotify.com/artist/4xaF2VIGwhWyEMbM6GuLdm), [PAV4N](https://open.spotify.com/artist/1csMDtU42ZYNaqadbA4TAK) | [Blow The Socket](https://open.spotify.com/album/6Vg0yJzjpsJdwlrAN0dyzh) | 3:12 | 2022-09-09 | 2023-01-14 |
@@ -302,6 +303,7 @@
 | [Summer Lasts Forever \(feat\. Love Jesse\)](https://open.spotify.com/track/32piXs0Tz0bkuYMfB4Cazk) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [Love Jesse](https://open.spotify.com/artist/1PrmIUrwSolIGJfWzJ1qD5) | [A Slushii Summer](https://open.spotify.com/album/10DadGGffvTnLB0kyr9YZn) | 2:40 | 2022-09-23 | 2022-12-07 |
 | [Summertime in New York](https://open.spotify.com/track/6kBvishfePtr8auksmpGUn) | [aboywithabag](https://open.spotify.com/artist/6PqSrv8S89SEEpHAAqpUtY) | [Summertime in New York](https://open.spotify.com/album/4heCdWP7dkEcGtHWQUfXMF) | 3:19 | 2022-05-06 | 2022-07-28 |
 | [sunlight](https://open.spotify.com/track/6a3x9zlNGV7p0W1OiAqwsE) | [juuku](https://open.spotify.com/artist/2ixBQngmF4ZFXYHi8sJTfl) | [sunlight](https://open.spotify.com/album/2Mo4wiX9gCcL69yyCwhvdU) | 2:51 | 2022-05-06 | 2023-01-05 |
+| [Surrounded](https://open.spotify.com/track/71sxnW8hXbYa8Evm8bxEEV) | [Vincent](https://open.spotify.com/artist/7ymczLNmjz6AVMGApVNWbB) | [Surrounded](https://open.spotify.com/album/72r8Fuz8PHExhXN6pSoTm9) | 3:19 | 2024-10-04 |  |
 | [Sweet Kicks](https://open.spotify.com/track/4pYN7XYrDE2NWcdgc16lON) | [Solomon France](https://open.spotify.com/artist/2NGEzvIbogjqVnEEnksrXp) | [Sweet Kicks](https://open.spotify.com/album/1x15z67Mn5RVMBvAc7ayhk) | 2:47 | 2023-08-09 |  |
 | [Switch \(with Nat James\)](https://open.spotify.com/track/6hncI5tUk2z4KwtGT5sxSM) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ), [Whales](https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR), [Nat James](https://open.spotify.com/artist/3OyUmeS7InBZFjCduVVhGa) | [Switch \(with Nat James\)](https://open.spotify.com/album/1rTeQInxlDWx708GG11jK4) | 2:35 | 2023-04-07 |  |
 | [Switch \(with Nat James\) \- OG Nixin Remix](https://open.spotify.com/track/1YroL5r8iNqxOS6AaRbJjH) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ), [Whales](https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR), [Nat James](https://open.spotify.com/artist/3OyUmeS7InBZFjCduVVhGa), [OG Nixin](https://open.spotify.com/artist/6AzehpPyhn3Qrwg6pQfPXz) | [SHEEESH \(The Remixes\)](https://open.spotify.com/album/6MyjLsUkdDVPOuu21TG5MW) | 3:18 | 2023-07-31 | 2023-12-14 |

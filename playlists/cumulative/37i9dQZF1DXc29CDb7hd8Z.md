@@ -4,7 +4,7 @@
 
 > Everything will look beautiful if you're inspired by the simplicity of instrumental music.
 
-163 songs - 8 hr 48 min
+164 songs - 8 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,6 +157,7 @@
 | [Unmasked](https://open.spotify.com/track/6LzOEMWZPX3AuKZuaNePpr) | [Adelisé](https://open.spotify.com/artist/4zcNEIub6cCZlkS6mzy63N) | [Unmasked](https://open.spotify.com/album/3Y2uvRS9AJYzwhyTGmRx9F) | 1:38 | 2021-09-10 |  |
 | [Vals de los Duendes](https://open.spotify.com/track/238UQu2KnnEku5SzaZHVqV) | [Pedro Dabdoub](https://open.spotify.com/artist/5Rvj0WLMmzRd0vKFxKHkDN) | [Valses de Películas Perdidas](https://open.spotify.com/album/7Lvn18V9ypZ08Kl39Y68Fp) | 3:23 | 2022-01-21 |  |
 | [Vals de Los Duendes \- Remastered 2023](https://open.spotify.com/track/2ErXOAEQSsveFtGLLWfVRI) | [Pedro Dabdoub](https://open.spotify.com/artist/5Rvj0WLMmzRd0vKFxKHkDN) | [Valses de Películas Perdidas \(Remastered 2023\)](https://open.spotify.com/album/7byCmt4Bg2cBpJNoX38xeH) | 3:23 | 2022-01-21 | 2024-04-19 |
+| [Vendaval](https://open.spotify.com/track/6zh6wcyml9eVcwdHyocRHX) | [Ismael Pinkler](https://open.spotify.com/artist/3EDLCEnPXba2OItpKW1Drx) | [Vendaval](https://open.spotify.com/album/4uEePaWttHHNAJffGzSrQB) | 2:39 | 2024-10-04 |  |
 | [Vindheks](https://open.spotify.com/track/1skDvegcWUNLybsy2IcpKf) | [Rumpistol](https://open.spotify.com/artist/3GopsVcnzdMhVAvWCzfFLv) | [Vindheks](https://open.spotify.com/album/6FClmHVEARb7TGeckSKLAF) | 5:14 | 2022-01-07 |  |
 | [Vindheks](https://open.spotify.com/track/0k7W32ROqCNUuzRFb0tDxE) | [Rumpistol](https://open.spotify.com/artist/3GopsVcnzdMhVAvWCzfFLv) | [Isola](https://open.spotify.com/album/3ba4E9NJcmPzgxcP6SeggA) | 5:15 | 2022-01-07 | 2024-04-19 |
 | [Vocalise, Op\. 34, No\. 14](https://open.spotify.com/track/1ceQjLSObUMLnqMs7xbKp7) | [Sergei Rachmaninoff](https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51), [Anita Emmery](https://open.spotify.com/artist/5BH2HdXaKZ8rau4ZhhYLDh) | [The Great Composers](https://open.spotify.com/album/4mWn7tS8Fk6C8SZY3cmXlQ) | 3:15 | 2021-09-10 |  |

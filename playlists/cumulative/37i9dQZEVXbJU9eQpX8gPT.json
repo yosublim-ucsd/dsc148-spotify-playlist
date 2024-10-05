@@ -1395,6 +1395,24 @@
     },
     {
       "album": {
+        "name": "AGHARAS",
+        "url": "https://open.spotify.com/album/0FJGdzI9d4duBcf0pJfrh2"
+      },
+      "artists": [
+        {
+          "name": "Lbenj",
+          "url": "https://open.spotify.com/artist/1H0D7p5aN8tGG8DPLt0Nbv"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207761,
+      "name": "AGHARAS",
+      "url": "https://open.spotify.com/track/1cWINvhvBXtDhK8GpK0gZn"
+    },
+    {
+      "album": {
         "name": "Ah Bon",
         "url": "https://open.spotify.com/album/0qSLkM5OH8bhCkyxPwEGxC"
       },
@@ -3180,7 +3198,7 @@
       ],
       "date_added": "2024-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 207347,
       "name": "Be Mine",
       "url": "https://open.spotify.com/track/3LWVXp636uLT356Rj08Jaz"
@@ -15380,7 +15398,7 @@
       ],
       "date_added": "2024-06-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-20",
+      "date_removed": null,
       "duration_ms": 202191,
       "name": "Lmouje",
       "url": "https://open.spotify.com/track/2HQOumI8CH5kHB3V2ZHwnU"
@@ -24856,7 +24874,7 @@
       ],
       "date_added": "2024-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 188818,
       "name": "SPIDER",
       "url": "https://open.spotify.com/track/5NWpquAje6NyvxD57oXNu6"

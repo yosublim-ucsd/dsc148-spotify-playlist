@@ -4,7 +4,7 @@
 
 > Música brasileira fora da curva\. Foto: Dani Bessa
 
-703 songs - 1 day 16 hr 5 min
+704 songs - 1 day 16 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -399,6 +399,7 @@
 | [Nascer, Viver, Morrer](https://open.spotify.com/track/188u45zEKJJFaeIO0aMlpF) | [Tim Bernardes](https://open.spotify.com/artist/5SVFuUaS3BKAdJs6I8rVa4) | [Nascer, Viver, Morrer](https://open.spotify.com/album/6oabmbCAly8cR8j6I8SqOg) | 1:53 | 2022-05-06 | 2022-06-25 |
 | [nem sempre foi assim](https://open.spotify.com/track/00SaOQz2IJCWaxik1UM05P) | [gorduratrans](https://open.spotify.com/artist/5XgdNH4XKiXwbXUTytIZnX) | [nem sempre foi assim](https://open.spotify.com/album/6qJ4djzuo97V866oqDnkUn) | 3:32 | 2022-06-03 | 2022-08-20 |
 | [Nem Sempre Fui Assim](https://open.spotify.com/track/0kCc2xrwESCbpGqtr3qer8) | [Raça](https://open.spotify.com/artist/7LC3Unc4kVkoX7yLCZbyg5) | [Nem Sempre Fui Assim](https://open.spotify.com/album/2goR0VRITyLz5FMQ0Pm8W7) | 1:38 | 2024-06-28 | 2024-07-13 |
+| [Neotropical](https://open.spotify.com/track/12emg4mvfx5IlCoqVxqNJT) | [AQUINO](https://open.spotify.com/artist/36bs3UPyK4QNUJtyFvsBmu) | [Nada Fica Muito Tempo Exposto ao Sol](https://open.spotify.com/album/6z86xP0ZcFOFtTp2qkCNGO) | 2:52 | 2024-10-04 |  |
 | [nesse verão](https://open.spotify.com/track/2o7Dnb3uCe2NRJhSEAruNv) | [Ente](https://open.spotify.com/artist/2lOXiSPGZ3mm6JpMhmL1bZ) | [nesse verão](https://open.spotify.com/album/51jNv8hQZrxuUg1tGbNU1A) | 2:47 | 2023-08-18 | 2023-12-02 |
 | [Netuno](https://open.spotify.com/track/4txAAaLKHl9ZZGx3Zm0vDy) | [Walfredo em Busca da Simbiose](https://open.spotify.com/artist/6PzQC3kTcWcJcH8p4d7yJl), [Fernando Rischbieter](https://open.spotify.com/artist/5G8onWVn2gx1OL3YuptZ6G) | [Netuno](https://open.spotify.com/album/42JEz98glWhal7Nte70EXS) | 5:50 | 2022-03-18 | 2022-05-07 |
 | [New Hit](https://open.spotify.com/track/2zp5qO1PlJJ5qb6eycAmI2) | [Bruno Berle](https://open.spotify.com/artist/6wUEejDd6aQJtchKP5c7Q0), [batata boy](https://open.spotify.com/artist/5NslOaAzwiiyBpEASSUzkA) | [No Reino Dos Afetos 2](https://open.spotify.com/album/6dDeOUl4ZbHeCmJSWx03xw) | 2:43 | 2024-04-12 | 2024-08-03 |

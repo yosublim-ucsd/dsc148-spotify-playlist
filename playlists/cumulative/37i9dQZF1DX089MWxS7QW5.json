@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "\ud55c\uad6d R&B. The new & fresh K-R&B is here. (Cover: Hannah Jang(\uc7a5\ud55c\ub098))",
+  "description": "\ud55c\uad6d R&B. The new & fresh K-R&B is here. (Cover: Min Jiwoon(\ubbfc\uc9c0\uc6b4))",
   "name": "K-R&B Now",
   "tracks": [
     {
@@ -6288,6 +6288,24 @@
       "duration_ms": 255253,
       "name": "Seed",
       "url": "https://open.spotify.com/track/49eleLPCqnwgBSICKgcL0z"
+    },
+    {
+      "album": {
+        "name": "Sentimental Love",
+        "url": "https://open.spotify.com/album/32V9wJHI9Mt9vnYCiUuX9N"
+      },
+      "artists": [
+        {
+          "name": "\ubbfc\uc9c0\uc6b4",
+          "url": "https://open.spotify.com/artist/5kgihglqsCaqCbtsJ0ef6v"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134724,
+      "name": "Sentimental Love",
+      "url": "https://open.spotify.com/track/3AXhW63USQmXX3d4Efzmdd"
     },
     {
       "album": {

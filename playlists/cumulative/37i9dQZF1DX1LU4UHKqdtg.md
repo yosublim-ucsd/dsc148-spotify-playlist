@@ -4,7 +4,7 @@
 
 > The freshest K\-Pop of today!  //最先端のK\-Popをピックアップ！ Cover: LISA
 
-1,209 songs - 2 day 17 hr 2 min
+1,211 songs - 2 day 17 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -782,6 +782,7 @@
 | [Queencard](https://open.spotify.com/track/4uOBL4DDWWVx4RhYKlPbPC) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I feel](https://open.spotify.com/album/3PQZnr5gf699uYEaGH93uG) | 2:41 | 2023-05-15 | 2023-09-21 |
 | [Queens](https://open.spotify.com/track/2dOk0o89ue9pQoNut1ArWm) | [KARA](https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192) | [MOVE AGAIN \(Japan Edition\)](https://open.spotify.com/album/0ltOqWTjaKRCkoQ53dDHmy) | 3:10 | 2022-12-21 | 2023-03-11 |
 | [QUINCY \- The Greatest Ver.](https://open.spotify.com/track/2KtMiAgFluozh8ZeMxHy5x) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [QUINCY \(The Greatest Ver.\)](https://open.spotify.com/album/01hBZCUobgWupslzzdgoV7) | 3:08 | 2022-05-10 | 2022-07-07 |
+| [R.E.M](https://open.spotify.com/track/7D2B5pj751b3MIaU4TwE6e) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [R.E.M](https://open.spotify.com/album/4xcIr0rkoIBPmoSPamCorO) | 2:52 | 2024-10-04 |  |
 | [RACE](https://open.spotify.com/track/6ZRDqsJlFXzbIquKhaMdQe) | [BANG YONGGUK](https://open.spotify.com/artist/6g6zaR4B3WDZXphDRmsVGF) | [RACE](https://open.spotify.com/album/6fa2O5Ph59LzOm0N4hiFwL) | 3:21 | 2021-12-23 | 2021-12-29 |
 | [Rain Day](https://open.spotify.com/track/07lK6LoH13tGwxziXWIp16) | [NCT U](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) | [Rain Day \- SM STATION : NCT LAB](https://open.spotify.com/album/58uFef7QCVv7hVQZDur3n0) | 3:10 | 2022-07-19 | 2022-10-12 |
 | [Rains in Heaven](https://open.spotify.com/track/17IcI8xMok8qFNhSPRufjo) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Rains in Heaven](https://open.spotify.com/album/2SUJuWIru2k3m8RkjwcSsW) | 3:57 | 2024-08-23 |  |
@@ -968,6 +969,7 @@
 | [Super](https://open.spotify.com/track/3AOf6YEpxQ894FmrwI9k96) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 10th Mini Album 'FML'](https://open.spotify.com/album/1JBzeeCJ3axQMVkqWbKh0I) | 3:20 | 2023-04-24 | 2023-08-23 |
 | [Super \(Workout Remix\)](https://open.spotify.com/track/6P7m3AZlTUm39hkeAgQNMk) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [Super \(Workout Remix\)](https://open.spotify.com/album/6oeww5DTxCKE4h5sSkoRjI) | 3:13 | 2024-02-15 | 2024-04-10 |
 | [Super Bowl \-Japanese ver.\-](https://open.spotify.com/track/74zvsuvIImK08x0SyRdw78) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Super Bowl \-Japanese ver.\-](https://open.spotify.com/album/2jUvXg4evkoQmyM9GU3CN3) | 3:05 | 2023-08-09 | 2023-11-04 |
+| [Super Duper Ride](https://open.spotify.com/track/2OvgKDomaqyhPpgRAGQaki) | [APOKI](https://open.spotify.com/artist/0JVB3oaSxGrbnhzIiKwiR9) | [Super Duper Ride](https://open.spotify.com/album/1rVGw87A7c18DVW3IU15YK) | 3:09 | 2024-10-04 |  |
 | [Super Lady](https://open.spotify.com/track/105qee9D4ARiRZPZDvGDoH) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [2](https://open.spotify.com/album/0AxwDje2klNIOVKvMTtwdZ) | 2:32 | 2024-04-18 | 2024-08-30 |
 | [Super Lady](https://open.spotify.com/track/5qI5EUqfDJpQ7w6sMECK7U) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [2](https://open.spotify.com/album/0mC9MXPddkzggVsOXh5gd3) | 2:32 | 2024-01-29 | 2024-04-19 |
 | [Super Shy](https://open.spotify.com/track/5sdQOyqq2IDhvmx2lHOpwd) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 'Super Shy'](https://open.spotify.com/album/5V729UqvhwNOcMejx0m55I) | 2:34 | 2023-07-07 | 2024-02-07 |

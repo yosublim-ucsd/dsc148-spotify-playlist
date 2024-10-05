@@ -588,7 +588,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 254558,
       "name": "Calm\u00f4",
       "url": "https://open.spotify.com/track/5DHApowmRCAlCHRiLapAPh"
@@ -970,7 +970,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 246136,
       "name": "Estrela",
       "url": "https://open.spotify.com/track/0ksvjOeB4HMDAkLIPcVpra"
@@ -2285,6 +2285,24 @@
     },
     {
       "album": {
+        "name": "Segunda-feira",
+        "url": "https://open.spotify.com/album/5hCIkJZTU1evnvnA1QWxQM"
+      },
+      "artists": [
+        {
+          "name": "Sued Nunes",
+          "url": "https://open.spotify.com/artist/3CFyVJRAmjkptSfvwMljQi"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160912,
+      "name": "Prop\u00f3sito",
+      "url": "https://open.spotify.com/track/2mXDGKKzNW0PwBBnYnHhnO"
+    },
+    {
+      "album": {
         "name": "Pearl",
         "url": "https://open.spotify.com/album/7zwPBW2cZWLHNHxeOunZoO"
       },
@@ -2772,7 +2790,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 134161,
       "name": "Te espero ou fujo?",
       "url": "https://open.spotify.com/track/2mMhzxpuFKe1ohryBgDYyo"
@@ -2794,6 +2812,54 @@
       "duration_ms": 208470,
       "name": "Tempo Perdido (Vers\u00e3o Os Dias Eram Assim)",
       "url": "https://open.spotify.com/track/5nJNdtx7ZtkNRKiYdhb87Z"
+    },
+    {
+      "album": {
+        "name": "Terna Transforma\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/4LkR6hEEiHWkK7N36CjFOA"
+      },
+      "artists": [
+        {
+          "name": "Guil\u00e9",
+          "url": "https://open.spotify.com/artist/3LcImgfMSyblXrPbb2FeZl"
+        },
+        {
+          "name": "Ossuna Braza",
+          "url": "https://open.spotify.com/artist/77gn5npwqf0nbfbgiqnMA3"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280256,
+      "name": "Terna Transforma\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/1BxqbiThmXOjDdgiGUCeC0"
+    },
+    {
+      "album": {
+        "name": "Toda Cor",
+        "url": "https://open.spotify.com/album/7fvPZrBlqo7hcvxK65c3ET"
+      },
+      "artists": [
+        {
+          "name": "anaiis",
+          "url": "https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl"
+        },
+        {
+          "name": "Grupo Cosmo",
+          "url": "https://open.spotify.com/artist/2CA1UE5DbfT3CeX06Vbu9k"
+        },
+        {
+          "name": "Luedji Luna",
+          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231049,
+      "name": "Toda Cor",
+      "url": "https://open.spotify.com/track/1oA6MATf7n8LAu1fPOY0Lb"
     },
     {
       "album": {

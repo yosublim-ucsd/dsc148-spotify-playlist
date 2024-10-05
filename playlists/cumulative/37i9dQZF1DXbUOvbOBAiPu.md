@@ -4,7 +4,7 @@
 
 > The best new songs of the week! Cover: blackwave\. and Compact Disk Dummies
 
-2,092 songs - 4 day 14 hr 56 min
+2,093 songs - 4 day 14 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -842,6 +842,7 @@
 | [I Am The Light](https://open.spotify.com/track/6M98Q37hOfEMUUfvwD9k5e) | [Equal Idiots](https://open.spotify.com/artist/4nljEo4gnUFgczxjNt5KOR) | [I Am The Light](https://open.spotify.com/album/7p91TEFK3TsWLI9rM426SX) | 2:34 | 2024-05-02 | 2024-05-10 |
 | [I Can't Escape](https://open.spotify.com/track/5BasvwKujZKewgvgBY9lpk) | [NYA & CHRLY](https://open.spotify.com/artist/1wu7bxBfti6u9ibHJmruzp) | [I Can't Escape](https://open.spotify.com/album/0rCXUruREJ5K8vGJ2QSPUI) | 3:04 | 2024-05-09 | 2024-05-17 |
 | [I Care](https://open.spotify.com/track/4zQcvbrSSkq7DFljXActPO) | [JAZMYN](https://open.spotify.com/artist/6axezvjsY79g2rkEp65ynf) | [Chapter One](https://open.spotify.com/album/67wdKGcVFy5zUk9r0OGyAf) | 3:57 | 2024-10-03 |  |
+| [I Do \(feat\. Muni Long\)](https://open.spotify.com/track/5TbYIeYkGgGtYL7sms7m9N) | [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [JADED](https://open.spotify.com/album/1XcpYmfE4vYCKeLQYINlO7) | 2:46 | 2024-10-03 |  |
 | [I Don't Wanna Go Downtown](https://open.spotify.com/track/7tnvzuwBCzMcSqYlLgOyRU) | [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [WILD CHILD](https://open.spotify.com/album/0BA7J5iUJHMnKrCga3m5pR) | 2:13 | 2024-08-22 | 2024-08-30 |
 | [I Don't Wanna Party Anymore \(Feat\. Kacey Musgraves\)](https://open.spotify.com/track/616pKgs2dHcWAygreRapKM) | [Vlad Holiday](https://open.spotify.com/artist/4kzBapiIVMxwhJLsTm28Gc), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [I Don't Wanna Party Anymore \(Feat\. Kacey Musgraves\)](https://open.spotify.com/album/6cSRavtBLkklc8TjWTi91S) | 2:52 | 2024-08-16 | 2024-08-23 |
 | [I Forget \(I’m So Young\)](https://open.spotify.com/track/64Arxcm1BKaKaXhq8aWoCy) | [Sofie Royer](https://open.spotify.com/artist/2P2BXSc0Wxpf10Fpno38rl) | [I Forget \(I’m So Young\)](https://open.spotify.com/album/3gsfSprEh8MiW0ir872S1Z) | 4:19 | 2024-08-22 | 2024-08-30 |
@@ -1453,7 +1454,7 @@
 | [push me over](https://open.spotify.com/track/4APakyNxphnhzMWutMzLWX) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Intermission](https://open.spotify.com/album/4AArez9tyeiLb4TZuf8Y5c) | 3:36 | 2024-08-01 | 2024-08-09 |
 | [Pushing It Down and Praying](https://open.spotify.com/track/4wO2JlPZw72Xlu6dGUW4Ce) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Pushing It Down and Praying](https://open.spotify.com/album/6bfpmfxEWqXsQHU9xc553O) | 3:54 | 2024-09-19 | 2024-09-27 |
 | [PUT EM IN THE FRIDGE](https://open.spotify.com/track/2BACqEbfDpPMOO7xhSOz2B) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [ÉXODO](https://open.spotify.com/album/5kvw1bAOvzJdNi4hdgfaNf) | 2:34 | 2024-06-20 | 2024-06-28 |
-| [Pétunia](https://open.spotify.com/track/4csiR0voWHzg46BFnQZ0kp) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh) | [Pétunia](https://open.spotify.com/album/1xF3GugX1r1Jj3xsljohcv) | 3:30 | 2024-10-03 |  |
+| [Pétunias](https://open.spotify.com/track/4csiR0voWHzg46BFnQZ0kp) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh) | [Pétunias](https://open.spotify.com/album/1xF3GugX1r1Jj3xsljohcv) | 3:31 | 2024-10-03 |  |
 | [Quand Je Serai Grande](https://open.spotify.com/track/2rRrFbiMy62h8fnr7qpOAV) | [C'est Karma](https://open.spotify.com/artist/1vguzZkCrYKOlgHCXldU5t) | [Quand Je Serai Grande](https://open.spotify.com/album/0rReAZNNzSXvWyD0LNBUgB) | 2:32 | 2024-05-16 | 2024-05-24 |
 | [Que Je T'aime](https://open.spotify.com/track/74v3gMwZ4tMCJubgIXmuXi) | [Walter Grootaers](https://open.spotify.com/artist/0vAHKCJuZZSYXo1MZf5WEy) | [Optimisten Blues](https://open.spotify.com/album/42CLGHcXLSjrUVe70z6YoF) | 3:34 | 2024-10-03 |  |
 | [Que tu restes](https://open.spotify.com/track/1ckpbpRvFOlDZ006AVXw7Y) | [Keen' V](https://open.spotify.com/artist/5iZMWWLoDJH1u6Ru2rOEsd) | [Équilibre \(Summer Édition\)](https://open.spotify.com/album/4aX6qGfTFevsgX6v4yBMvU) | 2:59 | 2024-07-04 | 2024-07-12 |

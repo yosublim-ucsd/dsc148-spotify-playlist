@@ -1,6 +1,6 @@
 {
   "description": "focus modus is aan en leren maar",
-  "num_followers": 33220,
+  "num_followers": 33240,
   "original_name": "Studeermuziek",
   "owner": {
     "name": "Spotify",
@@ -295,6 +295,22 @@
     {
       "added_at": "2024-10-03 22:00:00",
       "album": {
+        "name": "x (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 281560,
+      "name": "Thinking out Loud",
+      "url": "https://open.spotify.com/track/34gCuhDGsG4bRPIf9bb02f"
+    },
+    {
+      "added_at": "2024-10-03 22:00:00",
+      "album": {
         "name": "25",
         "url": "https://open.spotify.com/album/6TVfiWmo8KtflUAmkK9gGF"
       },
@@ -307,26 +323,6 @@
       "duration_ms": 285935,
       "name": "Love In The Dark",
       "url": "https://open.spotify.com/track/0DuWDLjriRPjDRoPgaCslY"
-    },
-    {
-      "added_at": "2024-10-03 22:00:00",
-      "album": {
-        "name": "Icarus Falls",
-        "url": "https://open.spotify.com/album/1DF9B2hfwX4EdgEFwGcRwh"
-      },
-      "artists": [
-        {
-          "name": "ZAYN",
-          "url": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
-        },
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 239000,
-      "name": "Dusk Till Dawn (feat. Sia) - Radio Edit",
-      "url": "https://open.spotify.com/track/3e7sxremeOE3wTySiOhGiP"
     },
     {
       "added_at": "2024-10-03 22:00:00",
@@ -347,18 +343,22 @@
     {
       "added_at": "2024-10-03 22:00:00",
       "album": {
-        "name": "x (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd"
+        "name": "Icarus Falls",
+        "url": "https://open.spotify.com/album/1DF9B2hfwX4EdgEFwGcRwh"
       },
       "artists": [
         {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+          "name": "ZAYN",
+          "url": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
+        },
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
         }
       ],
-      "duration_ms": 281560,
-      "name": "Thinking out Loud",
-      "url": "https://open.spotify.com/track/34gCuhDGsG4bRPIf9bb02f"
+      "duration_ms": 239000,
+      "name": "Dusk Till Dawn (feat. Sia) - Radio Edit",
+      "url": "https://open.spotify.com/track/3e7sxremeOE3wTySiOhGiP"
     },
     {
       "added_at": "2024-10-03 22:00:00",
@@ -463,22 +463,6 @@
     {
       "added_at": "2024-10-03 22:00:00",
       "album": {
-        "name": "Dancing With Your Ghost",
-        "url": "https://open.spotify.com/album/3I677CWVoiOsbMxOQzjShB"
-      },
-      "artists": [
-        {
-          "name": "Sasha Alex Sloan",
-          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
-        }
-      ],
-      "duration_ms": 197732,
-      "name": "Dancing With Your Ghost",
-      "url": "https://open.spotify.com/track/1TQXIltqoZ5XXyfCbAeSQQ"
-    },
-    {
-      "added_at": "2024-10-03 22:00:00",
-      "album": {
         "name": "FourFiveSeconds",
         "url": "https://open.spotify.com/album/7yBl4uFyJzH48Vy6tPieXL"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 188238,
       "name": "FourFiveSeconds",
       "url": "https://open.spotify.com/track/78TTtXnFQPzwqlbtbwqN0y"
+    },
+    {
+      "added_at": "2024-10-03 22:00:00",
+      "album": {
+        "name": "Dancing With Your Ghost",
+        "url": "https://open.spotify.com/album/3I677CWVoiOsbMxOQzjShB"
+      },
+      "artists": [
+        {
+          "name": "Sasha Alex Sloan",
+          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
+        }
+      ],
+      "duration_ms": 197732,
+      "name": "Dancing With Your Ghost",
+      "url": "https://open.spotify.com/track/1TQXIltqoZ5XXyfCbAeSQQ"
     },
     {
       "added_at": "2024-10-03 22:00:00",
@@ -2127,22 +2127,6 @@
     {
       "added_at": "2024-10-03 22:00:00",
       "album": {
-        "name": "In A Perfect World",
-        "url": "https://open.spotify.com/album/29Tc7Ue6KVfc5mzXxoMgEL"
-      },
-      "artists": [
-        {
-          "name": "Kodaline",
-          "url": "https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4"
-        }
-      ],
-      "duration_ms": 305746,
-      "name": "All I Want",
-      "url": "https://open.spotify.com/track/2PwXOevGUSkU8qaYZjgLq2"
-    },
-    {
-      "added_at": "2024-10-03 22:00:00",
-      "album": {
         "name": "Amigo",
         "url": "https://open.spotify.com/album/1jkWbtGWX47YAIYHmRONUg"
       },
@@ -2159,18 +2143,34 @@
     {
       "added_at": "2024-10-03 22:00:00",
       "album": {
-        "name": "7 Years",
-        "url": "https://open.spotify.com/album/2EiK8K5y2z2RFVP6ZBnnOO"
+        "name": "Dancing On My Own",
+        "url": "https://open.spotify.com/album/5Hq4LcmCQ6BP3kM8J5lgga"
       },
       "artists": [
         {
-          "name": "Lukas Graham",
-          "url": "https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7"
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
         }
       ],
-      "duration_ms": 237300,
-      "name": "7 Years",
-      "url": "https://open.spotify.com/track/2vDT1uU6hZgdp3PbWGr0Xy"
+      "duration_ms": 260004,
+      "name": "Dancing On My Own",
+      "url": "https://open.spotify.com/track/02WacdrRpm4zlP8H7X6bnQ"
+    },
+    {
+      "added_at": "2024-10-03 22:00:00",
+      "album": {
+        "name": "In A Perfect World",
+        "url": "https://open.spotify.com/album/29Tc7Ue6KVfc5mzXxoMgEL"
+      },
+      "artists": [
+        {
+          "name": "Kodaline",
+          "url": "https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4"
+        }
+      ],
+      "duration_ms": 305746,
+      "name": "All I Want",
+      "url": "https://open.spotify.com/track/2PwXOevGUSkU8qaYZjgLq2"
     },
     {
       "added_at": "2024-10-03 22:00:00",
@@ -2187,6 +2187,22 @@
       "duration_ms": 295502,
       "name": "Hello",
       "url": "https://open.spotify.com/track/4aebBr4JAihzJQR0CiIZJv"
+    },
+    {
+      "added_at": "2024-10-03 22:00:00",
+      "album": {
+        "name": "7 Years",
+        "url": "https://open.spotify.com/album/2EiK8K5y2z2RFVP6ZBnnOO"
+      },
+      "artists": [
+        {
+          "name": "Lukas Graham",
+          "url": "https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7"
+        }
+      ],
+      "duration_ms": 237300,
+      "name": "7 Years",
+      "url": "https://open.spotify.com/track/2vDT1uU6hZgdp3PbWGr0Xy"
     },
     {
       "added_at": "2024-10-03 22:00:00",
@@ -2223,18 +2239,18 @@
     {
       "added_at": "2024-10-03 22:00:00",
       "album": {
-        "name": "Dancing On My Own",
-        "url": "https://open.spotify.com/album/5Hq4LcmCQ6BP3kM8J5lgga"
+        "name": "Control",
+        "url": "https://open.spotify.com/album/7kunNk4rQrxOtatKGidJO4"
       },
       "artists": [
         {
-          "name": "Calum Scott",
-          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+          "name": "Kensington",
+          "url": "https://open.spotify.com/artist/5hHcAWKNV84BEbkRnbQ6A7"
         }
       ],
-      "duration_ms": 260004,
-      "name": "Dancing On My Own",
-      "url": "https://open.spotify.com/track/02WacdrRpm4zlP8H7X6bnQ"
+      "duration_ms": 227440,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/39HyltGRsg2q0s5PMA9ala"
     },
     {
       "added_at": "2024-10-03 22:00:00",
@@ -2255,34 +2271,18 @@
     {
       "added_at": "2024-10-03 22:00:00",
       "album": {
-        "name": "Control",
-        "url": "https://open.spotify.com/album/7kunNk4rQrxOtatKGidJO4"
+        "name": "In The Lonely Hour (Drowning Shadows Edition)",
+        "url": "https://open.spotify.com/album/0kJbDT8VGMScK8YDzNNvzV"
       },
       "artists": [
         {
-          "name": "Kensington",
-          "url": "https://open.spotify.com/artist/5hHcAWKNV84BEbkRnbQ6A7"
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
         }
       ],
-      "duration_ms": 227440,
-      "name": "Sorry",
-      "url": "https://open.spotify.com/track/39HyltGRsg2q0s5PMA9ala"
-    },
-    {
-      "added_at": "2024-10-03 22:00:00",
-      "album": {
-        "name": "Purpose (Deluxe)",
-        "url": "https://open.spotify.com/album/7fZH0aUAjY3ay25obOUf2a"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 210160,
-      "name": "Purpose",
-      "url": "https://open.spotify.com/track/3jHCXrZNz8fQEEf4BpWCAj"
+      "duration_ms": 239316,
+      "name": "I'm Not The Only One",
+      "url": "https://open.spotify.com/track/5WLtenwEwifJHYTUw514RH"
     },
     {
       "added_at": "2024-10-03 22:00:00",
@@ -2303,6 +2303,22 @@
     {
       "added_at": "2024-10-03 22:00:00",
       "album": {
+        "name": "Purpose (Deluxe)",
+        "url": "https://open.spotify.com/album/7fZH0aUAjY3ay25obOUf2a"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 210160,
+      "name": "Purpose",
+      "url": "https://open.spotify.com/track/3jHCXrZNz8fQEEf4BpWCAj"
+    },
+    {
+      "added_at": "2024-10-03 22:00:00",
+      "album": {
         "name": "House of Cards",
         "url": "https://open.spotify.com/album/4ElbBl74bLrx5yu8RXqh9z"
       },
@@ -2315,6 +2331,22 @@
       "duration_ms": 214285,
       "name": "House of Cards",
       "url": "https://open.spotify.com/track/58GufL5ouunj41e6QV65bw"
+    },
+    {
+      "added_at": "2024-10-03 22:00:00",
+      "album": {
+        "name": "One Call Away (Acoustic)",
+        "url": "https://open.spotify.com/album/1KMGNGGzMCjT5p9l87bY3A"
+      },
+      "artists": [
+        {
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+        }
+      ],
+      "duration_ms": 189052,
+      "name": "One Call Away - Acoustic",
+      "url": "https://open.spotify.com/track/4qE36yuwYbHnsPzlwhrO3M"
     },
     {
       "added_at": "2024-10-03 22:00:00",
@@ -2335,6 +2367,22 @@
     {
       "added_at": "2024-10-03 22:00:00",
       "album": {
+        "name": "In My Head",
+        "url": "https://open.spotify.com/album/5u9T6HcXTS04b6QYpA6hn1"
+      },
+      "artists": [
+        {
+          "name": "Peter Manos",
+          "url": "https://open.spotify.com/artist/4K9aclpXgCPNFGEqRlFPal"
+        }
+      ],
+      "duration_ms": 214533,
+      "name": "In My Head",
+      "url": "https://open.spotify.com/track/3InxJ55D8l1e4ZER6DRqvP"
+    },
+    {
+      "added_at": "2024-10-03 22:00:00",
+      "album": {
         "name": "Shoes Of Lightning",
         "url": "https://open.spotify.com/album/0zT2eT5admBRV8rKz3jFiG"
       },
@@ -2347,22 +2395,6 @@
       "duration_ms": 221346,
       "name": "Shoes Of Lightning",
       "url": "https://open.spotify.com/track/3X9V5tgeuiQXCjI6okauuK"
-    },
-    {
-      "added_at": "2024-10-03 22:00:00",
-      "album": {
-        "name": "In The Lonely Hour (Drowning Shadows Edition)",
-        "url": "https://open.spotify.com/album/0kJbDT8VGMScK8YDzNNvzV"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 239316,
-      "name": "I'm Not The Only One",
-      "url": "https://open.spotify.com/track/5WLtenwEwifJHYTUw514RH"
     },
     {
       "added_at": "2024-10-03 22:00:00",
@@ -2383,22 +2415,6 @@
       "duration_ms": 271813,
       "name": "Beneath Your Beautiful (feat. Emeli Sand\u00e9)",
       "url": "https://open.spotify.com/track/1wVcLKdJ4AFKPhKucNvEpy"
-    },
-    {
-      "added_at": "2024-10-03 22:00:00",
-      "album": {
-        "name": "One Call Away (Acoustic)",
-        "url": "https://open.spotify.com/album/1KMGNGGzMCjT5p9l87bY3A"
-      },
-      "artists": [
-        {
-          "name": "Charlie Puth",
-          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
-        }
-      ],
-      "duration_ms": 189052,
-      "name": "One Call Away - Acoustic",
-      "url": "https://open.spotify.com/track/4qE36yuwYbHnsPzlwhrO3M"
     },
     {
       "added_at": "2024-10-03 22:00:00",
@@ -2499,22 +2515,6 @@
       "duration_ms": 209687,
       "name": "Hungry",
       "url": "https://open.spotify.com/track/5Va4EmNp4g8lniR5MiR4oT"
-    },
-    {
-      "added_at": "2024-10-03 22:00:00",
-      "album": {
-        "name": "In My Head",
-        "url": "https://open.spotify.com/album/5u9T6HcXTS04b6QYpA6hn1"
-      },
-      "artists": [
-        {
-          "name": "Peter Manos",
-          "url": "https://open.spotify.com/artist/4K9aclpXgCPNFGEqRlFPal"
-        }
-      ],
-      "duration_ms": 214533,
-      "name": "In My Head",
-      "url": "https://open.spotify.com/track/3InxJ55D8l1e4ZER6DRqvP"
     },
     {
       "added_at": "2024-10-03 22:00:00",

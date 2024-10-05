@@ -1,12 +1,12 @@
 {
   "description": "Fall in love with the sensual sounds of Kizomba! Cover: Cleyton David, Tamyris Moiane",
-  "num_followers": 208910,
+  "num_followers": 208964,
   "original_name": "Dancing Kizomba",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zv8h8AAAAABwGPgphKWGY2b50+qjfmtm",
+  "snapshot_id": "Zv+vHwAAAADo2Miuq36fSxFBMHKmIeYa",
   "tracks": [
     {
       "added_at": "2024-10-03 23:00:00",
@@ -213,20 +213,24 @@
       "url": "https://open.spotify.com/track/0I2KjbYEBm2mE8Dc9KbIYB"
     },
     {
-      "added_at": "2024-10-03 23:00:00",
+      "added_at": "2024-10-04 09:02:23",
       "album": {
-        "name": "Como Antes",
-        "url": "https://open.spotify.com/album/5Ja0yJ2hIVxWq5lOtGQ6Ih"
+        "name": "F\u00e9",
+        "url": "https://open.spotify.com/album/2GDBdMFXsZRxL5fe7GnL5a"
       },
       "artists": [
         {
-          "name": "Matias Dam\u00e1sio",
-          "url": "https://open.spotify.com/artist/0E0XPqa6BzxSkhmhvzA3k2"
+          "name": "June Freedom",
+          "url": "https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC"
+        },
+        {
+          "name": "\u00c9LL\u00c0H",
+          "url": "https://open.spotify.com/artist/1I5Ae9tdGA0hgjWNTXqmJt"
         }
       ],
-      "duration_ms": 224354,
-      "name": "Como Antes",
-      "url": "https://open.spotify.com/track/0dAZ5dCofHy6rquqU6YG29"
+      "duration_ms": 152410,
+      "name": "F\u00e9",
+      "url": "https://open.spotify.com/track/6bp9ivNIHLHqHFPIaqC40u"
     },
     {
       "added_at": "2024-10-03 23:00:00",
@@ -247,18 +251,18 @@
     {
       "added_at": "2024-10-03 23:00:00",
       "album": {
-        "name": "Viaja",
-        "url": "https://open.spotify.com/album/5PasfkH4nK8fillN3pAZRR"
+        "name": "Como Antes",
+        "url": "https://open.spotify.com/album/5Ja0yJ2hIVxWq5lOtGQ6Ih"
       },
       "artists": [
         {
-          "name": "Irina Barros",
-          "url": "https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj"
+          "name": "Matias Dam\u00e1sio",
+          "url": "https://open.spotify.com/artist/0E0XPqa6BzxSkhmhvzA3k2"
         }
       ],
-      "duration_ms": 225507,
-      "name": "Viaja",
-      "url": "https://open.spotify.com/track/2DDBsczCQqIQ09t7Uf2uG2"
+      "duration_ms": 224354,
+      "name": "Como Antes",
+      "url": "https://open.spotify.com/track/0dAZ5dCofHy6rquqU6YG29"
     },
     {
       "added_at": "2024-10-03 23:00:00",
@@ -331,22 +335,18 @@
     {
       "added_at": "2024-10-03 23:00:00",
       "album": {
-        "name": "O Nosso Amor",
-        "url": "https://open.spotify.com/album/0g47qzEGZUVkYQJzMQhIcU"
+        "name": "Viaja",
+        "url": "https://open.spotify.com/album/5PasfkH4nK8fillN3pAZRR"
       },
       "artists": [
         {
-          "name": "Soraia Ramos",
-          "url": "https://open.spotify.com/artist/6Hdj9MS399KY29SP12gI0L"
-        },
-        {
-          "name": "Calema",
-          "url": "https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um"
+          "name": "Irina Barros",
+          "url": "https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj"
         }
       ],
-      "duration_ms": 286378,
-      "name": "O Nosso Amor",
-      "url": "https://open.spotify.com/track/23bemRVqcUNl1ujD87upis"
+      "duration_ms": 225507,
+      "name": "Viaja",
+      "url": "https://open.spotify.com/track/2DDBsczCQqIQ09t7Uf2uG2"
     },
     {
       "added_at": "2024-10-03 23:00:00",
@@ -367,6 +367,26 @@
     {
       "added_at": "2024-10-03 23:00:00",
       "album": {
+        "name": "O Nosso Amor",
+        "url": "https://open.spotify.com/album/0g47qzEGZUVkYQJzMQhIcU"
+      },
+      "artists": [
+        {
+          "name": "Soraia Ramos",
+          "url": "https://open.spotify.com/artist/6Hdj9MS399KY29SP12gI0L"
+        },
+        {
+          "name": "Calema",
+          "url": "https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um"
+        }
+      ],
+      "duration_ms": 286378,
+      "name": "O Nosso Amor",
+      "url": "https://open.spotify.com/track/23bemRVqcUNl1ujD87upis"
+    },
+    {
+      "added_at": "2024-10-03 23:00:00",
+      "album": {
         "name": "Tentason",
         "url": "https://open.spotify.com/album/60h79pB92rRHM2u1lFrCUp"
       },
@@ -379,22 +399,6 @@
       "duration_ms": 166913,
       "name": "Tentason",
       "url": "https://open.spotify.com/track/6eLqJZ7VHTHTxJWPWkZQdd"
-    },
-    {
-      "added_at": "2024-10-03 23:00:00",
-      "album": {
-        "name": "Jeito Dela",
-        "url": "https://open.spotify.com/album/1mGf42MV0CF54Jq8Ran4x1"
-      },
-      "artists": [
-        {
-          "name": "Landrick",
-          "url": "https://open.spotify.com/artist/0K7M2QEMiMcok8igQeSsRU"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Jeito Dela",
-      "url": "https://open.spotify.com/track/2KlwnCnbMC5s5CGu95vNgK"
     },
     {
       "added_at": "2024-10-03 23:00:00",
@@ -415,22 +419,18 @@
     {
       "added_at": "2024-10-03 23:00:00",
       "album": {
-        "name": "Solteiros",
-        "url": "https://open.spotify.com/album/1oh19k6mxh4bSGkEKE91md"
+        "name": "Jeito Dela",
+        "url": "https://open.spotify.com/album/1mGf42MV0CF54Jq8Ran4x1"
       },
       "artists": [
         {
-          "name": "Deejay Telio",
-          "url": "https://open.spotify.com/artist/7BWNRZyZ9mhgp5t0m7Ny0n"
-        },
-        {
-          "name": "Yasmine",
-          "url": "https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr"
+          "name": "Landrick",
+          "url": "https://open.spotify.com/artist/0K7M2QEMiMcok8igQeSsRU"
         }
       ],
-      "duration_ms": 179023,
-      "name": "Solteiros",
-      "url": "https://open.spotify.com/track/2e3OSiCXg1AcLFQ3HuiW42"
+      "duration_ms": 208000,
+      "name": "Jeito Dela",
+      "url": "https://open.spotify.com/track/2KlwnCnbMC5s5CGu95vNgK"
     },
     {
       "added_at": "2024-10-03 23:00:00",
@@ -475,22 +475,22 @@
     {
       "added_at": "2024-10-03 23:00:00",
       "album": {
-        "name": "Bu Ka Speraba",
-        "url": "https://open.spotify.com/album/4upXh4NnYwvnsVby7e1WwY"
+        "name": "Solteiros",
+        "url": "https://open.spotify.com/album/1oh19k6mxh4bSGkEKE91md"
       },
       "artists": [
         {
-          "name": "Djodje",
-          "url": "https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo"
+          "name": "Deejay Telio",
+          "url": "https://open.spotify.com/artist/7BWNRZyZ9mhgp5t0m7Ny0n"
         },
         {
-          "name": "Neyna",
-          "url": "https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7"
+          "name": "Yasmine",
+          "url": "https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr"
         }
       ],
-      "duration_ms": 195266,
-      "name": "Bu Ka Speraba",
-      "url": "https://open.spotify.com/track/7eVclayVLOT5NOyDYLZNhJ"
+      "duration_ms": 179023,
+      "name": "Solteiros",
+      "url": "https://open.spotify.com/track/2e3OSiCXg1AcLFQ3HuiW42"
     },
     {
       "added_at": "2024-10-03 23:00:00",
@@ -555,6 +555,26 @@
     {
       "added_at": "2024-10-03 23:00:00",
       "album": {
+        "name": "Bu Ka Speraba",
+        "url": "https://open.spotify.com/album/4upXh4NnYwvnsVby7e1WwY"
+      },
+      "artists": [
+        {
+          "name": "Djodje",
+          "url": "https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo"
+        },
+        {
+          "name": "Neyna",
+          "url": "https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7"
+        }
+      ],
+      "duration_ms": 195266,
+      "name": "Bu Ka Speraba",
+      "url": "https://open.spotify.com/track/7eVclayVLOT5NOyDYLZNhJ"
+    },
+    {
+      "added_at": "2024-10-03 23:00:00",
+      "album": {
         "name": "Tempo",
         "url": "https://open.spotify.com/album/0WcU99EEi8NWEHrzkxHugx"
       },
@@ -611,22 +631,6 @@
     {
       "added_at": "2024-10-03 23:00:00",
       "album": {
-        "name": "AV\u00c9",
-        "url": "https://open.spotify.com/album/4Yqrh5FabMU4qXPf4161BA"
-      },
-      "artists": [
-        {
-          "name": "Djodje",
-          "url": "https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo"
-        }
-      ],
-      "duration_ms": 172195,
-      "name": "AV\u00c9",
-      "url": "https://open.spotify.com/track/6D9rsde59fT5cHjTqyWz6c"
-    },
-    {
-      "added_at": "2024-10-03 23:00:00",
-      "album": {
         "name": "Segredo",
         "url": "https://open.spotify.com/album/3uUtzU3MSm7NSLlDCSEyNi"
       },
@@ -639,6 +643,22 @@
       "duration_ms": 207640,
       "name": "Segredo",
       "url": "https://open.spotify.com/track/034IlOlEs16xC7Pl4j9RTk"
+    },
+    {
+      "added_at": "2024-10-03 23:00:00",
+      "album": {
+        "name": "AV\u00c9",
+        "url": "https://open.spotify.com/album/4Yqrh5FabMU4qXPf4161BA"
+      },
+      "artists": [
+        {
+          "name": "Djodje",
+          "url": "https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo"
+        }
+      ],
+      "duration_ms": 172195,
+      "name": "AV\u00c9",
+      "url": "https://open.spotify.com/track/6D9rsde59fT5cHjTqyWz6c"
     },
     {
       "added_at": "2024-10-03 23:00:00",
@@ -711,6 +731,22 @@
     {
       "added_at": "2024-10-03 23:00:00",
       "album": {
+        "name": "Magui",
+        "url": "https://open.spotify.com/album/3RU3fQ1GCm1o4tpWviIUrf"
+      },
+      "artists": [
+        {
+          "name": "Matias Dam\u00e1sio",
+          "url": "https://open.spotify.com/artist/0E0XPqa6BzxSkhmhvzA3k2"
+        }
+      ],
+      "duration_ms": 217853,
+      "name": "Magui",
+      "url": "https://open.spotify.com/track/63DKLdGdgOCxrf8oIPbKnb"
+    },
+    {
+      "added_at": "2024-10-03 23:00:00",
+      "album": {
         "name": "Fica longi bo",
         "url": "https://open.spotify.com/album/4aWV8TxkTIf0FItHx20cOc"
       },
@@ -727,22 +763,6 @@
       "duration_ms": 198799,
       "name": "Fica longi bo",
       "url": "https://open.spotify.com/track/74CP5TIs7o1S14ArcC8Jdz"
-    },
-    {
-      "added_at": "2024-10-03 23:00:00",
-      "album": {
-        "name": "Magui",
-        "url": "https://open.spotify.com/album/3RU3fQ1GCm1o4tpWviIUrf"
-      },
-      "artists": [
-        {
-          "name": "Matias Dam\u00e1sio",
-          "url": "https://open.spotify.com/artist/0E0XPqa6BzxSkhmhvzA3k2"
-        }
-      ],
-      "duration_ms": 217853,
-      "name": "Magui",
-      "url": "https://open.spotify.com/track/63DKLdGdgOCxrf8oIPbKnb"
     },
     {
       "added_at": "2024-10-03 23:00:00",
@@ -783,6 +803,22 @@
     {
       "added_at": "2024-10-03 23:00:00",
       "album": {
+        "name": "In\u00edcio do Fim",
+        "url": "https://open.spotify.com/album/7dqjUyl7pKYDWuqRHL1olI"
+      },
+      "artists": [
+        {
+          "name": "Irina Barros",
+          "url": "https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj"
+        }
+      ],
+      "duration_ms": 191698,
+      "name": "In\u00edcio do Fim",
+      "url": "https://open.spotify.com/track/5HPczsgqYZb0Ux7v3JWXGT"
+    },
+    {
+      "added_at": "2024-10-03 23:00:00",
+      "album": {
         "name": "Batom",
         "url": "https://open.spotify.com/album/6w1tgURgujpFVofGsctRC7"
       },
@@ -815,42 +851,6 @@
     {
       "added_at": "2024-10-03 23:00:00",
       "album": {
-        "name": "In\u00edcio do Fim",
-        "url": "https://open.spotify.com/album/7dqjUyl7pKYDWuqRHL1olI"
-      },
-      "artists": [
-        {
-          "name": "Irina Barros",
-          "url": "https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj"
-        }
-      ],
-      "duration_ms": 191698,
-      "name": "In\u00edcio do Fim",
-      "url": "https://open.spotify.com/track/5HPczsgqYZb0Ux7v3JWXGT"
-    },
-    {
-      "added_at": "2024-10-03 23:00:00",
-      "album": {
-        "name": "Estou a Ficar Maluco",
-        "url": "https://open.spotify.com/album/0dPDfiIKVsdjYnItoDqdio"
-      },
-      "artists": [
-        {
-          "name": "Khiaro",
-          "url": "https://open.spotify.com/artist/1F9fj23YI3lhbe8IX5mHRb"
-        },
-        {
-          "name": "Badoxa",
-          "url": "https://open.spotify.com/artist/5ZOMkfINXvTF4GqNwHPsfW"
-        }
-      ],
-      "duration_ms": 173858,
-      "name": "Estou a Ficar Maluco",
-      "url": "https://open.spotify.com/track/3U031aTlvrvNQxGTJxAp5O"
-    },
-    {
-      "added_at": "2024-10-03 23:00:00",
-      "album": {
         "name": "Momentos",
         "url": "https://open.spotify.com/album/7y3xk4lkwaN3Eq56tTav1B"
       },
@@ -875,6 +875,26 @@
     {
       "added_at": "2024-10-03 23:00:00",
       "album": {
+        "name": "Estou a Ficar Maluco",
+        "url": "https://open.spotify.com/album/0dPDfiIKVsdjYnItoDqdio"
+      },
+      "artists": [
+        {
+          "name": "Khiaro",
+          "url": "https://open.spotify.com/artist/1F9fj23YI3lhbe8IX5mHRb"
+        },
+        {
+          "name": "Badoxa",
+          "url": "https://open.spotify.com/artist/5ZOMkfINXvTF4GqNwHPsfW"
+        }
+      ],
+      "duration_ms": 173858,
+      "name": "Estou a Ficar Maluco",
+      "url": "https://open.spotify.com/track/3U031aTlvrvNQxGTJxAp5O"
+    },
+    {
+      "added_at": "2024-10-03 23:00:00",
+      "album": {
         "name": "Clima",
         "url": "https://open.spotify.com/album/4qj9obJTYNr27vbvyFb6GX"
       },
@@ -891,6 +911,22 @@
       "duration_ms": 243750,
       "name": "Clima",
       "url": "https://open.spotify.com/track/2ma0izMC7acJputUXY0Q7J"
+    },
+    {
+      "added_at": "2024-10-03 23:00:00",
+      "album": {
+        "name": "O Jeito Dela",
+        "url": "https://open.spotify.com/album/3soRnkMgKurzDLFH41Zb8g"
+      },
+      "artists": [
+        {
+          "name": "Gasso",
+          "url": "https://open.spotify.com/artist/4vmi92Wdt4eTFUA6o4ST0i"
+        }
+      ],
+      "duration_ms": 285116,
+      "name": "O Jeito Dela - Original Mix",
+      "url": "https://open.spotify.com/track/5sWHddw9qAaa5nlfNzYeCn"
     },
     {
       "added_at": "2024-10-03 23:00:00",
@@ -919,22 +955,6 @@
     {
       "added_at": "2024-10-03 23:00:00",
       "album": {
-        "name": "O Jeito Dela",
-        "url": "https://open.spotify.com/album/3soRnkMgKurzDLFH41Zb8g"
-      },
-      "artists": [
-        {
-          "name": "Gasso",
-          "url": "https://open.spotify.com/artist/4vmi92Wdt4eTFUA6o4ST0i"
-        }
-      ],
-      "duration_ms": 285116,
-      "name": "O Jeito Dela - Original Mix",
-      "url": "https://open.spotify.com/track/5sWHddw9qAaa5nlfNzYeCn"
-    },
-    {
-      "added_at": "2024-10-03 23:00:00",
-      "album": {
         "name": "Menta",
         "url": "https://open.spotify.com/album/5m12RKdPcPwMzRwb9EIECk"
       },
@@ -951,6 +971,30 @@
       "duration_ms": 196330,
       "name": "Menta",
       "url": "https://open.spotify.com/track/6WXfOiRWXLAPjWGkExCaUj"
+    },
+    {
+      "added_at": "2024-10-03 23:00:00",
+      "album": {
+        "name": "RED",
+        "url": "https://open.spotify.com/album/5wNjW2Z5HwxBy8ljV6BKff"
+      },
+      "artists": [
+        {
+          "name": "William Araujo",
+          "url": "https://open.spotify.com/artist/0Y8ziaoma06j8kuFH2rjon"
+        },
+        {
+          "name": "Dynamo",
+          "url": "https://open.spotify.com/artist/6QIDj58kioY2urnpvAttwi"
+        },
+        {
+          "name": "Djodje",
+          "url": "https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo"
+        }
+      ],
+      "duration_ms": 200598,
+      "name": "Suleban",
+      "url": "https://open.spotify.com/track/6nDSopKJiyH5XfhwNSsKYG"
     },
     {
       "added_at": "2024-10-03 23:00:00",
@@ -983,30 +1027,6 @@
       "duration_ms": 167180,
       "name": "Hey Odja",
       "url": "https://open.spotify.com/track/1QhtXQu9c9HJsGUmuJf4yd"
-    },
-    {
-      "added_at": "2024-10-03 23:00:00",
-      "album": {
-        "name": "RED",
-        "url": "https://open.spotify.com/album/5wNjW2Z5HwxBy8ljV6BKff"
-      },
-      "artists": [
-        {
-          "name": "William Araujo",
-          "url": "https://open.spotify.com/artist/0Y8ziaoma06j8kuFH2rjon"
-        },
-        {
-          "name": "Dynamo",
-          "url": "https://open.spotify.com/artist/6QIDj58kioY2urnpvAttwi"
-        },
-        {
-          "name": "Djodje",
-          "url": "https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo"
-        }
-      ],
-      "duration_ms": 200598,
-      "name": "Suleban",
-      "url": "https://open.spotify.com/track/6nDSopKJiyH5XfhwNSsKYG"
     },
     {
       "added_at": "2024-10-03 23:00:00",
@@ -1091,22 +1111,6 @@
     {
       "added_at": "2024-10-03 23:00:00",
       "album": {
-        "name": "Nha Mos",
-        "url": "https://open.spotify.com/album/4YsmkX7Bv5xoCcGYQEKxa0"
-      },
-      "artists": [
-        {
-          "name": "Neyna",
-          "url": "https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7"
-        }
-      ],
-      "duration_ms": 196923,
-      "name": "Nha Mos",
-      "url": "https://open.spotify.com/track/0qD5EcVudLAqPhJfnkdA3m"
-    },
-    {
-      "added_at": "2024-10-03 23:00:00",
-      "album": {
         "name": "Meu Marido",
         "url": "https://open.spotify.com/album/35GN3dkUAe9pzWBlnIondq"
       },
@@ -1163,22 +1167,18 @@
     {
       "added_at": "2024-10-03 23:00:00",
       "album": {
-        "name": "Ref\u00fagio",
-        "url": "https://open.spotify.com/album/3mlR2ML69miWGHrnyaEySa"
+        "name": "Nha Mos",
+        "url": "https://open.spotify.com/album/4YsmkX7Bv5xoCcGYQEKxa0"
       },
       "artists": [
         {
-          "name": "Landrick",
-          "url": "https://open.spotify.com/artist/0K7M2QEMiMcok8igQeSsRU"
-        },
-        {
-          "name": "Jord\u00e2nia",
-          "url": "https://open.spotify.com/artist/2c5g1W3OmA7GkOPZSWiwod"
+          "name": "Neyna",
+          "url": "https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7"
         }
       ],
-      "duration_ms": 237570,
-      "name": "Ref\u00fagio",
-      "url": "https://open.spotify.com/track/2X340mkvzsLi2xRAIXrQZM"
+      "duration_ms": 196923,
+      "name": "Nha Mos",
+      "url": "https://open.spotify.com/track/0qD5EcVudLAqPhJfnkdA3m"
     },
     {
       "added_at": "2024-10-03 23:00:00",
@@ -1199,6 +1199,26 @@
     {
       "added_at": "2024-10-03 23:00:00",
       "album": {
+        "name": "Ref\u00fagio",
+        "url": "https://open.spotify.com/album/3mlR2ML69miWGHrnyaEySa"
+      },
+      "artists": [
+        {
+          "name": "Landrick",
+          "url": "https://open.spotify.com/artist/0K7M2QEMiMcok8igQeSsRU"
+        },
+        {
+          "name": "Jord\u00e2nia",
+          "url": "https://open.spotify.com/artist/2c5g1W3OmA7GkOPZSWiwod"
+        }
+      ],
+      "duration_ms": 237570,
+      "name": "Ref\u00fagio",
+      "url": "https://open.spotify.com/track/2X340mkvzsLi2xRAIXrQZM"
+    },
+    {
+      "added_at": "2024-10-03 23:00:00",
+      "album": {
         "name": "BTLV",
         "url": "https://open.spotify.com/album/4p7bM6yutMVmZkWiFMes4a"
       },
@@ -1211,26 +1231,6 @@
       "duration_ms": 163426,
       "name": "Limbisa - Kriolu Version",
       "url": "https://open.spotify.com/track/6kJ1Teb1Tx6XHYhbIkfmn2"
-    },
-    {
-      "added_at": "2024-10-03 23:00:00",
-      "album": {
-        "name": "Monarquia",
-        "url": "https://open.spotify.com/album/5W7CSMrEuK1X5zq4ardsF2"
-      },
-      "artists": [
-        {
-          "name": "Kizomba da Boa",
-          "url": "https://open.spotify.com/artist/5s5qErKST3QG1Lsiqg4v3i"
-        },
-        {
-          "name": "Mylson",
-          "url": "https://open.spotify.com/artist/6aJR2QPqDVcIcBtVSFIb9Y"
-        }
-      ],
-      "duration_ms": 202032,
-      "name": "Monarquia",
-      "url": "https://open.spotify.com/track/2jGlCW68RFTCgFKI6dydPR"
     },
     {
       "added_at": "2024-10-03 23:00:00",
@@ -1267,6 +1267,26 @@
       "duration_ms": 224256,
       "name": "Vai Por Mim",
       "url": "https://open.spotify.com/track/4iVckCZapMMHjbaJFyNxRz"
+    },
+    {
+      "added_at": "2024-10-03 23:00:00",
+      "album": {
+        "name": "Monarquia",
+        "url": "https://open.spotify.com/album/5W7CSMrEuK1X5zq4ardsF2"
+      },
+      "artists": [
+        {
+          "name": "Kizomba da Boa",
+          "url": "https://open.spotify.com/artist/5s5qErKST3QG1Lsiqg4v3i"
+        },
+        {
+          "name": "Mylson",
+          "url": "https://open.spotify.com/artist/6aJR2QPqDVcIcBtVSFIb9Y"
+        }
+      ],
+      "duration_ms": 202032,
+      "name": "Monarquia",
+      "url": "https://open.spotify.com/track/2jGlCW68RFTCgFKI6dydPR"
     },
     {
       "added_at": "2024-10-03 23:00:00",
@@ -1371,22 +1391,30 @@
     {
       "added_at": "2024-10-03 23:00:00",
       "album": {
-        "name": "Alice",
-        "url": "https://open.spotify.com/album/0bqU2C6XuX8vM8ryvDTp2M"
+        "name": "Deusa do Amor",
+        "url": "https://open.spotify.com/album/07eHTr7xC266F2C6LxKPXS"
       },
       "artists": [
         {
-          "name": "Joelson JB",
-          "url": "https://open.spotify.com/artist/5RK5GOWNUzzjJBUVmOAiQ8"
+          "name": "Kizomba da Boa",
+          "url": "https://open.spotify.com/artist/5s5qErKST3QG1Lsiqg4v3i"
         },
         {
-          "name": "Dam\u00e1sio Brothers",
-          "url": "https://open.spotify.com/artist/6FRydQu73AnR88FL2Pndtu"
+          "name": "Anderson Mario",
+          "url": "https://open.spotify.com/artist/6REvCEamm1KPVrULbpAmdh"
+        },
+        {
+          "name": "Button",
+          "url": "https://open.spotify.com/artist/0ZdXdsO7mcsS6921sIGKdL"
+        },
+        {
+          "name": "Edgar Domingos",
+          "url": "https://open.spotify.com/artist/24ln2MhGkr8aWPhqrgQ7LZ"
         }
       ],
-      "duration_ms": 219375,
-      "name": "Alice",
-      "url": "https://open.spotify.com/track/1slZ4CnuSiCp3xfq766Fce"
+      "duration_ms": 279024,
+      "name": "Deusa do Amor",
+      "url": "https://open.spotify.com/track/6JHiXHpIkZH7dR5B2INFjT"
     },
     {
       "added_at": "2024-10-03 23:00:00",
@@ -1419,34 +1447,6 @@
     {
       "added_at": "2024-10-03 23:00:00",
       "album": {
-        "name": "Deusa do Amor",
-        "url": "https://open.spotify.com/album/07eHTr7xC266F2C6LxKPXS"
-      },
-      "artists": [
-        {
-          "name": "Kizomba da Boa",
-          "url": "https://open.spotify.com/artist/5s5qErKST3QG1Lsiqg4v3i"
-        },
-        {
-          "name": "Anderson Mario",
-          "url": "https://open.spotify.com/artist/6REvCEamm1KPVrULbpAmdh"
-        },
-        {
-          "name": "Button",
-          "url": "https://open.spotify.com/artist/0ZdXdsO7mcsS6921sIGKdL"
-        },
-        {
-          "name": "Edgar Domingos",
-          "url": "https://open.spotify.com/artist/24ln2MhGkr8aWPhqrgQ7LZ"
-        }
-      ],
-      "duration_ms": 279024,
-      "name": "Deusa do Amor",
-      "url": "https://open.spotify.com/track/6JHiXHpIkZH7dR5B2INFjT"
-    },
-    {
-      "added_at": "2024-10-03 23:00:00",
-      "album": {
         "name": "Mika Mendes",
         "url": "https://open.spotify.com/album/7eJwbjpb27cnOxjH5vXr5q"
       },
@@ -1459,62 +1459,6 @@
       "duration_ms": 283973,
       "name": "Criola",
       "url": "https://open.spotify.com/track/2Huk69nfKmAqeN4m2S7Ybj"
-    },
-    {
-      "added_at": "2024-10-03 23:00:00",
-      "album": {
-        "name": "Mais Nada",
-        "url": "https://open.spotify.com/album/4qUns8RK2Sjqz9lHKCbPhT"
-      },
-      "artists": [
-        {
-          "name": "Cubita",
-          "url": "https://open.spotify.com/artist/22uy6DyvpF9Vt2PMWSm5di"
-        }
-      ],
-      "duration_ms": 176770,
-      "name": "Mais Nada",
-      "url": "https://open.spotify.com/track/2DDBR1QD9d9Qjg0a1hwOAJ"
-    },
-    {
-      "added_at": "2024-10-03 23:00:00",
-      "album": {
-        "name": "Cura",
-        "url": "https://open.spotify.com/album/2OnIj9WrPNoetyHNbGwgpX"
-      },
-      "artists": [
-        {
-          "name": "Josslyn",
-          "url": "https://open.spotify.com/artist/7DaYWbVfmn3AtcUJua9yYF"
-        },
-        {
-          "name": "Dynamo",
-          "url": "https://open.spotify.com/artist/6QIDj58kioY2urnpvAttwi"
-        }
-      ],
-      "duration_ms": 217754,
-      "name": "Cura",
-      "url": "https://open.spotify.com/track/5GlPkahjTM2G5PdiN3eQhG"
-    },
-    {
-      "added_at": "2024-10-03 23:00:00",
-      "album": {
-        "name": "Jaj\u00e3o (feat. Eddy Flow)",
-        "url": "https://open.spotify.com/album/6EXDkJvIsctHejnqH1aQyN"
-      },
-      "artists": [
-        {
-          "name": "Master Jake",
-          "url": "https://open.spotify.com/artist/7tdSrdoqbAniXIyahnjsXX"
-        },
-        {
-          "name": "Eddy Flow",
-          "url": "https://open.spotify.com/artist/3Hr0eR1NAk4mjPW9WXjsMi"
-        }
-      ],
-      "duration_ms": 248913,
-      "name": "Jaj\u00e3o (feat. Eddy Flow)",
-      "url": "https://open.spotify.com/track/3wgRc4Rkba9wxgJ8gxgX8I"
     },
     {
       "added_at": "2024-10-03 23:00:00",
@@ -1539,6 +1483,62 @@
     {
       "added_at": "2024-10-03 23:00:00",
       "album": {
+        "name": "Alice",
+        "url": "https://open.spotify.com/album/0bqU2C6XuX8vM8ryvDTp2M"
+      },
+      "artists": [
+        {
+          "name": "Joelson JB",
+          "url": "https://open.spotify.com/artist/5RK5GOWNUzzjJBUVmOAiQ8"
+        },
+        {
+          "name": "Dam\u00e1sio Brothers",
+          "url": "https://open.spotify.com/artist/6FRydQu73AnR88FL2Pndtu"
+        }
+      ],
+      "duration_ms": 219375,
+      "name": "Alice",
+      "url": "https://open.spotify.com/track/1slZ4CnuSiCp3xfq766Fce"
+    },
+    {
+      "added_at": "2024-10-03 23:00:00",
+      "album": {
+        "name": "Cura",
+        "url": "https://open.spotify.com/album/2OnIj9WrPNoetyHNbGwgpX"
+      },
+      "artists": [
+        {
+          "name": "Josslyn",
+          "url": "https://open.spotify.com/artist/7DaYWbVfmn3AtcUJua9yYF"
+        },
+        {
+          "name": "Dynamo",
+          "url": "https://open.spotify.com/artist/6QIDj58kioY2urnpvAttwi"
+        }
+      ],
+      "duration_ms": 217754,
+      "name": "Cura",
+      "url": "https://open.spotify.com/track/5GlPkahjTM2G5PdiN3eQhG"
+    },
+    {
+      "added_at": "2024-10-03 23:00:00",
+      "album": {
+        "name": "Mais Nada",
+        "url": "https://open.spotify.com/album/4qUns8RK2Sjqz9lHKCbPhT"
+      },
+      "artists": [
+        {
+          "name": "Cubita",
+          "url": "https://open.spotify.com/artist/22uy6DyvpF9Vt2PMWSm5di"
+        }
+      ],
+      "duration_ms": 176770,
+      "name": "Mais Nada",
+      "url": "https://open.spotify.com/track/2DDBR1QD9d9Qjg0a1hwOAJ"
+    },
+    {
+      "added_at": "2024-10-03 23:00:00",
+      "album": {
         "name": "Cuiar Assim",
         "url": "https://open.spotify.com/album/79wdIV83MzqZW2WlrWpAEM"
       },
@@ -1555,6 +1555,26 @@
       "duration_ms": 230217,
       "name": "Cuiar Assim",
       "url": "https://open.spotify.com/track/1624vqUVv4mXnaV1M4z6Fd"
+    },
+    {
+      "added_at": "2024-10-03 23:00:00",
+      "album": {
+        "name": "Jaj\u00e3o (feat. Eddy Flow)",
+        "url": "https://open.spotify.com/album/6EXDkJvIsctHejnqH1aQyN"
+      },
+      "artists": [
+        {
+          "name": "Master Jake",
+          "url": "https://open.spotify.com/artist/7tdSrdoqbAniXIyahnjsXX"
+        },
+        {
+          "name": "Eddy Flow",
+          "url": "https://open.spotify.com/artist/3Hr0eR1NAk4mjPW9WXjsMi"
+        }
+      ],
+      "duration_ms": 248913,
+      "name": "Jaj\u00e3o (feat. Eddy Flow)",
+      "url": "https://open.spotify.com/track/3wgRc4Rkba9wxgJ8gxgX8I"
     },
     {
       "added_at": "2024-10-03 23:00:00",
@@ -1591,26 +1611,6 @@
     {
       "added_at": "2024-10-03 23:00:00",
       "album": {
-        "name": "Marilia Mendon\u00e7a",
-        "url": "https://open.spotify.com/album/6HE6oZIUPnHaoui0RccW8B"
-      },
-      "artists": [
-        {
-          "name": "Cleyton David",
-          "url": "https://open.spotify.com/artist/6SjhlmHzqfTKSChQ1k8lzq"
-        },
-        {
-          "name": "Tamyris Moiane",
-          "url": "https://open.spotify.com/artist/0DcdMBubONMXpTlmcWui2g"
-        }
-      ],
-      "duration_ms": 174342,
-      "name": "Marilia Mendon\u00e7a",
-      "url": "https://open.spotify.com/track/7fi9jQkoaLn4xVvjR4ZoQ1"
-    },
-    {
-      "added_at": "2024-10-03 23:00:00",
-      "album": {
         "name": "J\u00e1 Deu",
         "url": "https://open.spotify.com/album/4rgy3MldlssfZpgzOFCq8G"
       },
@@ -1627,6 +1627,26 @@
       "duration_ms": 227685,
       "name": "J\u00e1 Deu",
       "url": "https://open.spotify.com/track/4eo1CxcskGhl9oZmuUBHOK"
+    },
+    {
+      "added_at": "2024-10-03 23:00:00",
+      "album": {
+        "name": "Marilia Mendon\u00e7a",
+        "url": "https://open.spotify.com/album/6HE6oZIUPnHaoui0RccW8B"
+      },
+      "artists": [
+        {
+          "name": "Cleyton David",
+          "url": "https://open.spotify.com/artist/6SjhlmHzqfTKSChQ1k8lzq"
+        },
+        {
+          "name": "Tamyris Moiane",
+          "url": "https://open.spotify.com/artist/0DcdMBubONMXpTlmcWui2g"
+        }
+      ],
+      "duration_ms": 174342,
+      "name": "Marilia Mendon\u00e7a",
+      "url": "https://open.spotify.com/track/7fi9jQkoaLn4xVvjR4ZoQ1"
     },
     {
       "added_at": "2024-10-03 23:00:00",
@@ -1707,26 +1727,6 @@
     {
       "added_at": "2024-10-03 23:00:00",
       "album": {
-        "name": "Si Ki Min Kr\u00e8",
-        "url": "https://open.spotify.com/album/0VW7FjphPCaebGCrlTlpzW"
-      },
-      "artists": [
-        {
-          "name": "June Freedom",
-          "url": "https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC"
-        },
-        {
-          "name": "Djodje",
-          "url": "https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo"
-        }
-      ],
-      "duration_ms": 159157,
-      "name": "Si Ki Min Kr\u00e8",
-      "url": "https://open.spotify.com/track/5XG59w0v2cDzu4Al2xcUMl"
-    },
-    {
-      "added_at": "2024-10-03 23:00:00",
-      "album": {
         "name": "Teu Ego",
         "url": "https://open.spotify.com/album/2Q1f06VzUef6eeyAwa4QKa"
       },
@@ -1743,6 +1743,26 @@
       "duration_ms": 286093,
       "name": "Teu Ego",
       "url": "https://open.spotify.com/track/2ZQdBUpl0oLp97sZ1F5vdQ"
+    },
+    {
+      "added_at": "2024-10-03 23:00:00",
+      "album": {
+        "name": "Si Ki Min Kr\u00e8",
+        "url": "https://open.spotify.com/album/0VW7FjphPCaebGCrlTlpzW"
+      },
+      "artists": [
+        {
+          "name": "June Freedom",
+          "url": "https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC"
+        },
+        {
+          "name": "Djodje",
+          "url": "https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo"
+        }
+      ],
+      "duration_ms": 159157,
+      "name": "Si Ki Min Kr\u00e8",
+      "url": "https://open.spotify.com/track/5XG59w0v2cDzu4Al2xcUMl"
     },
     {
       "added_at": "2024-10-03 23:00:00",
@@ -1855,26 +1875,6 @@
       "duration_ms": 205181,
       "name": "Nha beb\u00e9",
       "url": "https://open.spotify.com/track/5HpO8wk2BrbW1F3F57brE7"
-    },
-    {
-      "added_at": "2024-10-03 23:00:00",
-      "album": {
-        "name": "Ku Bo",
-        "url": "https://open.spotify.com/album/3509B3p7jecY07ceKKw6KI"
-      },
-      "artists": [
-        {
-          "name": "Neyna",
-          "url": "https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7"
-        },
-        {
-          "name": "KVN LOPES",
-          "url": "https://open.spotify.com/artist/1Hox4aVVAzu5JMgeYA0eNL"
-        }
-      ],
-      "duration_ms": 183529,
-      "name": "Ku Bo",
-      "url": "https://open.spotify.com/track/5nw75kPDOQdmJ4o50MNgSh"
     }
   ],
   "unique_name": "Dancing Kizomba",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "All your girl crushes(\uac78\ud06c\ub7ec\uc26c) in one place. Cover: HYO (\b\ud6a8\uc5f0)",
+  "description": "All your girl crushes(\uac78\ud06c\ub7ec\uc26c) in one place. Cover: KISS OF LIFE",
   "name": "Girl Krush",
   "tracks": [
     {
@@ -3014,7 +3014,7 @@
       ],
       "date_added": "2024-05-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-27",
+      "date_removed": null,
       "duration_ms": 187920,
       "name": "Girls Never Die",
       "url": "https://open.spotify.com/track/45OflED18VsURGw2z0Y6Cv"
@@ -5206,7 +5206,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 163657,
       "name": "NA",
       "url": "https://open.spotify.com/track/4UVsqRoSys14kMLBfpJDTQ"
@@ -6137,6 +6137,24 @@
     },
     {
       "album": {
+        "name": "R.E.M",
+        "url": "https://open.spotify.com/album/4xcIr0rkoIBPmoSPamCorO"
+      },
+      "artists": [
+        {
+          "name": "KISS OF LIFE",
+          "url": "https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172773,
+      "name": "R.E.M",
+      "url": "https://open.spotify.com/track/7D2B5pj751b3MIaU4TwE6e"
+    },
+    {
+      "album": {
         "name": "RA TA TA",
         "url": "https://open.spotify.com/album/6mf3kFRGFkNDdDEBbvxiap"
       },
@@ -6278,7 +6296,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 152426,
       "name": "Retro Romance",
       "url": "https://open.spotify.com/track/0V7Hp8ZnDlaYasJoNtcExF"

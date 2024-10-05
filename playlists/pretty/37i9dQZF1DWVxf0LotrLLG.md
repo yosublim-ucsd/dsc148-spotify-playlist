@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 
 > Descubre los nuevos álbumes del 2024\. Hit shuffle for a mixed listening experience\. Cover: Omar Courtz
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,448 likes - 545 songs - 1 day 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,464 likes - 545 songs - 1 day 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,9 +95,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 | 85 | [Me Fui](https://open.spotify.com/track/4PQwFIg4CgTMuYraERrJsC) | [Leanys](https://open.spotify.com/artist/0e1Zih19iuVEnhZPOuqL9V) | [Nova](https://open.spotify.com/album/5hCxkCTUg1CSBjcwJYTtnN) | 1:38 |
 | 86 | [No Volveré](https://open.spotify.com/track/5fbdwmA3mVyuu8lMM7FlEu) | [Leanys](https://open.spotify.com/artist/0e1Zih19iuVEnhZPOuqL9V) | [Nova](https://open.spotify.com/album/5hCxkCTUg1CSBjcwJYTtnN) | 3:28 |
 | 87 | [Make You Feel It](https://open.spotify.com/track/3xYK7AQZhAt6ier9n2bVC8) | [Leanys](https://open.spotify.com/artist/0e1Zih19iuVEnhZPOuqL9V) | [Nova](https://open.spotify.com/album/5hCxkCTUg1CSBjcwJYTtnN) | 3:22 |
-| 88 | [Shibari 緊縛](https://open.spotify.com/track/7bJLcYJusVPXFR3xph2l44) | [Gyanma](https://open.spotify.com/artist/2aja7fWFLLR3pBUk2BYf6s) | [Cutie Pie: 3](https://open.spotify.com/album/15qp9JsykZwX2JlkDYJw1R) | 2:59 |
-| 89 | [POCHACCO <3](https://open.spotify.com/track/3Ls7wsFXKiD1b4bX81TG42) | [Gyanma](https://open.spotify.com/artist/2aja7fWFLLR3pBUk2BYf6s) | [Cutie Pie: 3](https://open.spotify.com/album/15qp9JsykZwX2JlkDYJw1R) | 2:56 |
-| 90 | [Restart](https://open.spotify.com/track/0gNFoRwHfBUhsLsfs6lhiY) | [Gyanma](https://open.spotify.com/artist/2aja7fWFLLR3pBUk2BYf6s), [deadperrx](https://open.spotify.com/artist/4ORqnU8vMpCkUZeE14ZEVm) | [Cutie Pie: 3](https://open.spotify.com/album/15qp9JsykZwX2JlkDYJw1R) | 1:10 |
+| 88 | [Shibari 緊縛](https://open.spotify.com/track/7bJLcYJusVPXFR3xph2l44) | [Gyanma](https://open.spotify.com/artist/2aja7fWFLLR3pBUk2BYf6s) | [Cutie Pie :3](https://open.spotify.com/album/15qp9JsykZwX2JlkDYJw1R) | 2:59 |
+| 89 | [POCHACCO <3](https://open.spotify.com/track/3Ls7wsFXKiD1b4bX81TG42) | [Gyanma](https://open.spotify.com/artist/2aja7fWFLLR3pBUk2BYf6s) | [Cutie Pie :3](https://open.spotify.com/album/15qp9JsykZwX2JlkDYJw1R) | 2:56 |
+| 90 | [Restart](https://open.spotify.com/track/0gNFoRwHfBUhsLsfs6lhiY) | [Gyanma](https://open.spotify.com/artist/2aja7fWFLLR3pBUk2BYf6s), [deadperrx](https://open.spotify.com/artist/4ORqnU8vMpCkUZeE14ZEVm) | [Cutie Pie :3](https://open.spotify.com/album/15qp9JsykZwX2JlkDYJw1R) | 1:10 |
 | 91 | [Por Si Me Vuelves a Querer](https://open.spotify.com/track/1rBeu1vaULdjMNOBa7JerW) | [Camila](https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU) | [Regresa](https://open.spotify.com/album/4LMUMQt5TC9rXcXLaQoFNb) | 3:38 |
 | 92 | [Regresa](https://open.spotify.com/track/6cohdgBn0bmj1wcShwVGIU) | [Camila](https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU) | [Regresa](https://open.spotify.com/album/4LMUMQt5TC9rXcXLaQoFNb) | 3:31 |
 | 93 | [Supernova](https://open.spotify.com/track/4iDH8rnxTQATr1WS1zhVZT) | [Camila](https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU) | [Regresa](https://open.spotify.com/album/4LMUMQt5TC9rXcXLaQoFNb) | 2:48 |

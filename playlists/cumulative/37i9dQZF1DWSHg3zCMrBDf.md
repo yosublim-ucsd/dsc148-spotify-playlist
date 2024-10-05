@@ -4,7 +4,7 @@
 
 > The hottest tracks in Ghana\. Cover: Fameye
 
-309 songs - 15 hr 51 min
+310 songs - 15 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -242,6 +242,7 @@
 | [Rent Free](https://open.spotify.com/track/320cXn7htYGuAzNyxLDs3M) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [Rent Free](https://open.spotify.com/album/6cryLTyBj54kNA59giEvbA) | 2:16 | 2023-11-13 |  |
 | [Ring My Line \(feat\. Headie One\)](https://open.spotify.com/track/3zSxIsQe6ezMc1Xr8Fuvz4) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh) | [Ring My Line \(feat\. Headie One\)](https://open.spotify.com/album/4kQjfos3CoetMeTYxZoGxe) | 3:23 | 2021-08-20 | 2023-05-27 |
 | [Risk](https://open.spotify.com/track/6qS9yoAUIXNfno5t4YLQdn) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Stubborn](https://open.spotify.com/album/1dfsKiTgOKzA8sLHCNMuKc) | 3:22 | 2024-08-29 |  |
+| [Road Clear](https://open.spotify.com/track/0l187qGuX2ItgULWOjoRVW) | [Mr Drew](https://open.spotify.com/artist/4pW48O5XBTgEEJWfr8btdK), [Shatta Wale](https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI) | [Road Clear](https://open.spotify.com/album/3GxQNJBWPUtsAXR3dsdgYp) | 2:54 | 2024-10-04 |  |
 | [ROAD RUNNERS \(feat\. Black Sherif\)](https://open.spotify.com/track/1YQAHol95T2hkZISywS0VO) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Emeka Must Shine](https://open.spotify.com/album/0PhhdE2E1kmaCWIvomj6Fj) | 2:26 | 2023-11-13 | 2024-05-15 |
 | [RTID \(Rich Till I Die\)](https://open.spotify.com/track/47rtDAZmqRUjba0V1en3XY) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [RTID \(Rich Till I Die\)](https://open.spotify.com/album/1VXKPWoui5j6UsxWrhvSDV) | 2:52 | 2023-03-24 | 2023-05-27 |
 | [Run](https://open.spotify.com/track/5pXffsFBnfGGFG7Gjz7moX) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ), [EMPIRE](https://open.spotify.com/artist/3hPFJ4ShHVEAaL689YeblD) | [Where We Come From, Vol\. 01](https://open.spotify.com/album/6w7LwKRKvtm3XjmUCvhVWO) | 2:32 | 2023-05-26 |  |

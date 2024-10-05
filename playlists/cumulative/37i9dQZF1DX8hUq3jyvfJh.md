@@ -2,7 +2,7 @@
 
 ### [EQUAL Brasil](https://open.spotify.com/playlist/37i9dQZF1DX8hUq3jyvfJh)
 
-> Escute Mc Luanna e mais mulheres no volume máximo!
+> Escute Mc Luanna e mais mulheres no volume máximo! Co\-curadoria com <a href="spotify:playlist:37i9dQZF1DZ06evO45TXx1">Mc Luanna</a>.
 
 1,194 songs - 2 day 13 hr 21 min
 

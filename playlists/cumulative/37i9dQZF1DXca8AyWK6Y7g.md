@@ -2,9 +2,9 @@
 
 ### [young & free](https://open.spotify.com/playlist/37i9dQZF1DXca8AyWK6Y7g)
 
-> Livin' life! cover: Remy Bond
+> i'm too perfect 'til I open my big mouth cover: Lola Young
 
-2,190 songs - 4 day 14 hr 8 min
+2,193 songs - 4 day 14 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1275,7 +1275,7 @@
 | [Miss Me Too](https://open.spotify.com/track/1sfg5AQ5NFecKm6GO7dkdo) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Miss Me Too](https://open.spotify.com/album/3rS947KA8g4uIG5zd5JH7N) | 3:02 | 2024-03-01 | 2024-07-09 |
 | [Miss Me Too](https://open.spotify.com/track/3BxbORnLyAri7AhJS8a2G1) | [Katherine Li](https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI) | [Crush\(ed\)](https://open.spotify.com/album/1ywjVKTQbH3wRO6EwFbbEG) | 2:30 | 2022-10-28 | 2022-12-24 |
 | [Miss Me Too](https://open.spotify.com/track/7dCZc6VWhdROmkol6ZlBOr) | [Katherine Li](https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI) | [Miss Me Too](https://open.spotify.com/album/0DYdkkaZ6fjwmJ0pVAfOxB) | 2:30 | 2022-10-21 | 2022-10-30 |
-| [misses](https://open.spotify.com/track/6WTFHKrnZpwEBLRS10Ylqs) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [14 minutes](https://open.spotify.com/album/2qwv7hNjSGfLarHY2adeq9) | 1:14 | 2024-05-15 |  |
+| [misses](https://open.spotify.com/track/6WTFHKrnZpwEBLRS10Ylqs) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [14 minutes](https://open.spotify.com/album/2qwv7hNjSGfLarHY2adeq9) | 1:14 | 2024-05-15 | 2024-10-05 |
 | [missin u](https://open.spotify.com/track/4TQCxVR2rmR3ozusDumesX) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [missin u](https://open.spotify.com/album/6ZkHlcIqV4N7cNyqNtvpNk) | 2:57 | 2023-03-17 | 2024-01-05 |
 | [Missing Out](https://open.spotify.com/track/2kAYu8GaEILjHWtqYg83TD) | [Maya Hawke](https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x) | [Missing Out](https://open.spotify.com/album/0QKpvLKm47m5FNPmGUwzMH) | 3:37 | 2024-02-16 |  |
 | [Missing Somebody](https://open.spotify.com/track/7sdBSpr1CRXtPE6yjKLDk2) | [NERIAH](https://open.spotify.com/artist/1dUrqVHcv2FCXxlIqzIbiG) | [This Is How The World Made Me](https://open.spotify.com/album/3ttrsJgrYIHhpbk1p85TGs) | 3:19 | 2022-06-24 | 2022-06-28 |
@@ -1485,6 +1485,7 @@
 | [Perfect For You](https://open.spotify.com/track/4BYKEjoZaJrw3qwCPhGpbP) | [Peach PRC](https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS) | [Perfect For You](https://open.spotify.com/album/1FCUqRoNBgaoLJFqbA13ir) | 2:58 | 2023-02-03 | 2023-04-23 |
 | [Perfect Revenge](https://open.spotify.com/track/7eh46uUIwMCTs0XoU3Xm42) | [Dylan](https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk) | [Perfect Revenge](https://open.spotify.com/album/5Fmcrqw6XJEVeZ0YQ08Wnz) | 2:53 | 2024-06-07 | 2024-09-14 |
 | [Perfume](https://open.spotify.com/track/5CBZHzvgJ7bOB9WPWmWbwq) | [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [Perfume](https://open.spotify.com/album/7tbsKocOD59BcX2FJKfqUH) | 3:39 | 2024-07-05 | 2024-09-14 |
+| [Person Place Thing](https://open.spotify.com/track/5D84Zz4oYp31jbtJJBUdcY) | [Alexa Cappelli](https://open.spotify.com/artist/3L733apFuBmRr4GEVvhh9x) | [The Process of Elimination](https://open.spotify.com/album/1cNUOEj2yAzDKPFpYjAFfX) | 3:03 | 2024-10-04 |  |
 | [Persona](https://open.spotify.com/track/73b1rZFO0vJSWZwTYhmCS4) | [Gabi Sklar](https://open.spotify.com/artist/72K82D7yyKc8TZ45IZvPrj) | [Persona](https://open.spotify.com/album/7aRO1Gd0fxAKGy4iD7dsmb) | 2:35 | 2024-06-28 | 2024-08-03 |
 | [Personal Heaven](https://open.spotify.com/track/2NnUOg9dghRfOm7WB95qYF) | [Michael Medrano](https://open.spotify.com/artist/1m19wFvOFvPm15no62SlAD) | [Personal Heaven](https://open.spotify.com/album/1lSlCtrnrEgucgXsgFfY0j) | 3:04 | 2021-11-19 | 2022-01-29 |
 | [phoenix](https://open.spotify.com/track/0jcSQEXvXQba514O6oMeS2) | [again&again](https://open.spotify.com/artist/3CIq9N0VQGWfBpCAMzMZZN) | [phoenix](https://open.spotify.com/album/5BieDRKjT842fbfPZZRTt4) | 2:43 | 2020-05-04 | 2021-10-14 |
@@ -1513,7 +1514,7 @@
 | [Playground](https://open.spotify.com/track/0cVaY6PNGxCPi1gOIapr26) | [More Giraffes](https://open.spotify.com/artist/1SKIyebAAhyPaaFp4x1Vp0), [Sweater Beats](https://open.spotify.com/artist/62Jfwxon19ZOT9eSL6bvtY) | [Playground](https://open.spotify.com/album/0uVhMIPB5oi4TB6oFvaNPQ) | 3:05 | 2019-06-15 | 2020-04-18 |
 | [Playin' Me Back](https://open.spotify.com/track/0xlsgO2emLkMCn43RmAL4w) | [bülow](https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4) | [Playin' Me Back](https://open.spotify.com/album/7FGYJNAwHm33pUIl7vOwPo) | 1:49 | 2022-03-18 | 2022-06-07 |
 | [Please \- Single Edit](https://open.spotify.com/track/7mJGrZIFA5MO6W2QBcWBDX) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Please](https://open.spotify.com/album/0ugWOJ1e8Q2Qp7rukfH4YR) | 3:39 | 2021-05-08 | 2021-10-11 |
-| [Please Please Please](https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Please Please Please](https://open.spotify.com/album/5bBaoign62r1i7OV8w7mi9) | 3:06 | 2024-06-07 |  |
+| [Please Please Please](https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Please Please Please](https://open.spotify.com/album/5bBaoign62r1i7OV8w7mi9) | 3:06 | 2024-06-07 | 2024-10-05 |
 | [plz don't waste my youth](https://open.spotify.com/track/3acJw53672cWOK1kZSLM7X) | [Au/Ra](https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV) | [plz don't waste my youth](https://open.spotify.com/album/3VpkorL453Wksq34OWy5Rp) | 3:03 | 2022-01-21 | 2022-03-26 |
 | [Poison](https://open.spotify.com/track/5StQDoFQTDElQjMnfk8qIy) | [Stevie Bill](https://open.spotify.com/artist/72TRHiF9vPzDe78D4PmHWv) | [Messy](https://open.spotify.com/album/5M8iOqYh57aru97YQcqFSD) | 2:04 | 2022-11-11 | 2024-01-05 |
 | [Poison Poison](https://open.spotify.com/track/7e1arKsP7vPjdwssVPHgZk) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Snow Angel](https://open.spotify.com/album/3RqO05jxT9YYgNtMdQmo8Z) | 3:11 | 2023-08-29 | 2023-09-16 |
@@ -1588,12 +1589,13 @@
 | [rest in peace](https://open.spotify.com/track/20ACQf24bEwSVnKAhVfH5u) | [BLÜ EYES](https://open.spotify.com/artist/2gI1WfmpFmmgSRojy4Jup2) | [rest in peace](https://open.spotify.com/album/0sE1YP1nRz29DgpaogCRsE) | 3:11 | 2022-05-20 | 2022-08-27 |
 | [Returning](https://open.spotify.com/track/4EYbngh7hMndlGfHrVid10) | [Erthlings](https://open.spotify.com/artist/7l66fxCnEL8pBlzI5QwGBe) | [Indigo](https://open.spotify.com/album/4EGEvPEXUTrCQaIaBjOwJs) | 3:36 | 2019-09-27 | 2021-02-12 |
 | [Rewind](https://open.spotify.com/track/2BQNTGlTRAyTcS0w9f78ox) | [Wake the Wild](https://open.spotify.com/artist/3gi0dYfoSKUqGYRO9Ixhf9) | [Rewind](https://open.spotify.com/album/7CQltivAela43AXz4ZpdTI) | 4:08 | 2021-01-07 | 2021-11-10 |
+| [Rhetorical Questions](https://open.spotify.com/track/4QR8axjkh9dPhey4BxOdpE) | [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ) | [Rhetorical Questions](https://open.spotify.com/album/3j4QdU7FlRNF7eXJTJKUS7) | 2:55 | 2024-10-04 |  |
 | [Rich Like That \- deluxe](https://open.spotify.com/track/4Z9MKWCUTDwZJB1tyetkto) | [ELIO](https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA) | [ELIO'S INFERNO \(deluxe\)](https://open.spotify.com/album/4EUU93K9tSEGUJ7tXgcEsn) | 2:21 | 2022-12-02 | 2023-01-21 |
 | [Ride or Die \(feat\. Foster the People\)](https://open.spotify.com/track/3uJsg8xIH7OpWHxuJaMLJX) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Ride or Die \(feat\. Foster the People\)](https://open.spotify.com/album/4NSPREWQ2t8VdRGqK45UkD) | 4:02 | 2019-05-26\* | 2019-08-13 |
 | [Right Back \- Basenji Remix](https://open.spotify.com/track/1zFBRDYr5U9ekpvM1IK7so) | [Miquela](https://open.spotify.com/artist/7licaqhcEBQUzz9FownRaJ), [Basenji](https://open.spotify.com/artist/4FH1qQ5KcTtomryu4O5pgX) | [Right Back \(Club 404 Edits\)](https://open.spotify.com/album/1lIVSWUzSPfuPdpqK89AYf) | 3:14 | 2019-06-27 | 2019-09-14 |
 | [Right Where You Like](https://open.spotify.com/track/4ZxwGZzFXsXBhmpddnnrql) | [Andrea Chahayed](https://open.spotify.com/artist/2V6GNbrXanLBlMLCx5nXZN) | [Right Where You Like](https://open.spotify.com/album/16JcuVXVJSpyRYr55MSp0d) | 2:52 | 2021-08-18 | 2022-01-08 |
 | [RIP](https://open.spotify.com/track/6sy5XzSPzBB5JuJ9berpu3) | [Amy Allen](https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x) | [AWW!](https://open.spotify.com/album/12I0nO2QVc1NMLvKqZp3W8) | 3:17 | 2021-11-05 | 2022-01-15 |
-| [Risk](https://open.spotify.com/track/73c7iqH4lCVqu4tm66i0tY) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Risk](https://open.spotify.com/album/3oFBS1h6VV2eJl1Ynhq4Yw) | 3:11 | 2024-05-03 |  |
+| [Risk](https://open.spotify.com/track/73c7iqH4lCVqu4tm66i0tY) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Risk](https://open.spotify.com/album/3oFBS1h6VV2eJl1Ynhq4Yw) | 3:11 | 2024-05-03 | 2024-10-05 |
 | [Rockstar](https://open.spotify.com/track/538txyi52ZOwzWxIQsCT12) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp) | [Rockstar](https://open.spotify.com/album/3jhePBQL0zg0dXac7CUAvf) | 3:13 | 2023-02-10 | 2023-03-25 |
 | [roll the dice](https://open.spotify.com/track/2TX7IPBBgfq4zL4TSZTp0D) | [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [roll the dice](https://open.spotify.com/album/54S0bDLXUsFIzxBssBkrul) | 2:14 | 2021-03-28 | 2021-10-20 |
 | [Roller Coasters Make Me Sad](https://open.spotify.com/track/15D8qDyRL6NuyxxmQRWosK) | [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Roller Coasters Make Me Sad](https://open.spotify.com/album/16M3QY0xlHJ1CtnmEwbiy1) | 3:11 | 2023-02-24 | 2023-04-23 |
@@ -2098,6 +2100,7 @@
 | [Weirdo](https://open.spotify.com/track/2bXZrZbhRU6IQha9s5I2X2) | [More Fatter](https://open.spotify.com/artist/2pM3a5lWWUSNOPRGYcmGqT) | [Weirdo](https://open.spotify.com/album/2vmFFnnKahsKFQ4xeQhf9N) | 3:01 | 2020-09-22 | 2021-03-19 |
 | [Welcome To My Mind](https://open.spotify.com/track/7nzql8a3IiReUSRBl6Wp0f) | [Spencer Barnett](https://open.spotify.com/artist/036LxbpsZt0VzZAgxYOEM5) | [Welcome To My Mind](https://open.spotify.com/album/6fl5LVepYW1aXMJTJ0DKnz) | 2:16 | 2020-06-12 | 2021-02-03 |
 | [well…](https://open.spotify.com/track/3fp8Zt7cjlnH6E44VTiCgI) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [PANORAMA](https://open.spotify.com/album/2TJlASpVb5tgcEY0RMyZjQ) | 3:24 | 2022-07-31 | 2022-08-27 |
+| [What Are You Doing Here?](https://open.spotify.com/track/57FNK9FzW5uJuzurGOlDbX) | [ella jane](https://open.spotify.com/artist/3gBjSrNsYzzbeo0nwsL21J) | [What Are You Doing Here?](https://open.spotify.com/album/47Jhe9iSYmvhoIxEqwYMsy) | 3:44 | 2024-10-04 |  |
 | [What Everybody Wants](https://open.spotify.com/track/6xkghIDZwnZtTfpjEqccrr) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [When I Close My Eyes \(Deluxe\)](https://open.spotify.com/album/6M3X8VGDuFXvqoj1mLS0eV) | 2:30 | 2022-03-04 | 2022-03-26 |
 | [What Happened to Forever?](https://open.spotify.com/track/6ICGj9koDOkKXNda8lEpMH) | [Luke Alvin](https://open.spotify.com/artist/484n5top8RJk6NL3mGasDc) | [What Happened to Forever?](https://open.spotify.com/album/60xOgVSjEdjBG4rfZllE03) | 2:31 | 2022-09-09 | 2022-09-26 |
 | [What Happens Now?](https://open.spotify.com/track/4cQ8Os8Gf1GgAkzoFQg8Az) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [What Happens Now?](https://open.spotify.com/album/40HsqPqeSR9Xe3IyAJWr6e) | 2:33 | 2024-04-05 | 2024-07-09 |

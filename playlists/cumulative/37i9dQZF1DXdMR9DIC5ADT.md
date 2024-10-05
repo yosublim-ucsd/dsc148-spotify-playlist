@@ -4,7 +4,7 @@
 
 > フェス関係者の皆様、Let's book them! いま聴きたい、注目の洋楽アーティストを特集！ cover: Tommy Richman
 
-468 songs - 1 day 1 hr 52 min
+469 songs - 1 day 1 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -202,6 +202,7 @@
 | [honeymoon \- Spotify Singles](https://open.spotify.com/track/1HF4nVwcWoLIIE6vyyuwcP) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc) | [Spotify Singles](https://open.spotify.com/album/3rYLPJVwn2FzXnG5oI6noQ) | 2:53 | 2024-08-29 |  |
 | [Hrs & Hrs](https://open.spotify.com/track/3ncmoWTwJgx63LwMTyBCXf) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Public Displays Of Affection: The Album](https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9) | 3:24 | 2023-03-15 | 2023-06-09 |
 | [I AM](https://open.spotify.com/track/3SP86A20TPRFJnOksCgke7) | [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [I AM](https://open.spotify.com/album/16PMPA18bWzRcard7KzueH) | 2:41 | 2024-09-05 | 2024-09-13 |
+| [I Do \(feat\. Muni Long\)](https://open.spotify.com/track/5TbYIeYkGgGtYL7sms7m9N) | [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [JADED](https://open.spotify.com/album/1XcpYmfE4vYCKeLQYINlO7) | 2:46 | 2024-10-03 |  |
 | [I DON'T WANNA BE LIKE YOU](https://open.spotify.com/track/6kZs5onGsFyRkTTAW624u0) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [I DON'T WANNA BE LIKE YOU](https://open.spotify.com/album/6q5C6TAynyMnt9vfiPAuPT) | 2:43 | 2023-03-15 | 2023-03-25 |
 | [I Don’t Think That I Like Her](https://open.spotify.com/track/0Ts1lnK3lYa2dwE2orDJc5) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [CHARLIE](https://open.spotify.com/album/2LTqBgZUH4EkDcj8hdkNjK) | 3:08 | 2023-07-06 | 2023-09-22 |
 | [I Inhabit My Life \(And It Feels So Good\)](https://open.spotify.com/track/1guarMYBLktq8irSVW7VN5) | [Golden Vessel](https://open.spotify.com/artist/6bJCrLZcvsBMzve04BmgwS), [Headaches](https://open.spotify.com/artist/385XMCKUEnTVlM7UVFRLHl) | [I Inhabit My Life \(And It Feels So Good\)](https://open.spotify.com/album/5oOB78P3SfrUIIYag71Mbq) | 2:19 | 2024-01-25 | 2024-06-07 |

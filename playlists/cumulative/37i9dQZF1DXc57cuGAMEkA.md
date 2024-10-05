@@ -4,7 +4,7 @@
 
 > 洋楽を中心に今週の新曲をチェック。Creepy Nuts, Coldplay, King Gnu, Eve, Leon Bridges and more! cover: Creepy Nuts
 
-6,991 songs - 16 day 8 hr 44 min
+6,994 songs - 16 day 8 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,6 +86,7 @@
 | [4.11](https://open.spotify.com/track/24ou6Re0MOzjWrSBrrI369) | [Takaya Kawasaki](https://open.spotify.com/artist/3BjFX1nExMNHvSaoLd1I1k) | [4.11](https://open.spotify.com/album/1J739DquXjmYnfUEviK9IT) | 6:13 | 2023-03-17 | 2023-03-25 |
 | [405](https://open.spotify.com/track/10aiqU1b6yK8zm4jOnQsA7) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Good Riddance \(Deluxe\)](https://open.spotify.com/album/78YYcghEDz2dHRx0EcDGXZ) | 3:01 | 2023-06-15 | 2023-06-23 |
 | [42](https://open.spotify.com/track/5PIhpG2ax06QpBLRqlYQql) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [42](https://open.spotify.com/album/1q93Q9Xc7WIcJLNBgOIPBQ) | 2:55 | 2023-12-08 | 2023-12-15 |
+| [44 \(Forget Forever\)](https://open.spotify.com/track/1gB4AZdHNk7jawrX5M7tEm) | [WOOSUNG](https://open.spotify.com/artist/5LHu1iF8m0XtRBEJbbwSoo) | [4444](https://open.spotify.com/album/3gl255N0kUUIkK0GgelT3j) | 5:13 | 2024-10-03 |  |
 | [440hz \(feat\. Daichi Yamamoto x Koh\)](https://open.spotify.com/track/1bWEsD4W8gClixY0NpZh91) | [DJ Q](https://open.spotify.com/artist/7dDPt2xIGymSDddx80OfF1), [tofubeats](https://open.spotify.com/artist/2FzqIT8JP1gd3Tlo6ix1fT), [Daichi Yamamoto](https://open.spotify.com/artist/5jgE1ulvZ7sJpjlTwAOWPd), [KOH](https://open.spotify.com/artist/0b3KYCtaiOQbtq95mlefTb) | [A440](https://open.spotify.com/album/2xTFImWVQRC1PfDMCOxwwe) | 4:27 | 2023-01-29 | 2023-02-03 |
 | [44ever](https://open.spotify.com/track/40DarBiyfVPEC6OQid9jv6) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L) | [44ever](https://open.spotify.com/album/3l1waWo8qk4IVtyuzKD4bx) | 1:55 | 2024-04-19 | 2024-04-26 |
 | [4AM](https://open.spotify.com/track/0irMdkppdBxssDcDPA8O4J) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [4AM](https://open.spotify.com/album/1ubsYit9EabHvaVlxIaGNU) | 2:58 | 2024-09-27 | 2024-10-04 |
@@ -2620,6 +2621,7 @@
 | [I Do](https://open.spotify.com/track/3hloQkKHL9wqfkt15VnSW6) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [I Do](https://open.spotify.com/album/1g8m9B1I0HHfvNCwYqGETM) | 2:46 | 2024-02-08 | 2024-02-16 |
 | [I Do](https://open.spotify.com/track/6sl8thmAsTzYfVw3jJ9z49) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Snow Angel \(Deluxe\)](https://open.spotify.com/album/7pPV0OFuytqNj7ar82Hizf) | 2:39 | 2023-11-16 | 2023-12-09 |
 | [I Do \(feat\. Maddie & Tae\)](https://open.spotify.com/track/5hmPSqHHEE6mHZofGHj6Pb) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj), [Maddie & Tae](https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y) | [I Do \(feat\. Maddie & Tae\)](https://open.spotify.com/album/2c9wumdrF1G7CGk0ckyCLF) | 3:15 | 2024-08-01 | 2024-08-09 |
+| [I Do \(feat\. Muni Long\)](https://open.spotify.com/track/5TbYIeYkGgGtYL7sms7m9N) | [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [JADED](https://open.spotify.com/album/1XcpYmfE4vYCKeLQYINlO7) | 2:46 | 2024-10-03 |  |
 | [I do! Do you?](https://open.spotify.com/track/7wFeVMTlgOu910OH9RctRI) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [I do! Do you?](https://open.spotify.com/album/3UZfvVHePm0ROe6EcJEwMl) | 3:34 | 2023-02-23 | 2023-03-03 |
 | [I Don't Feel Alive](https://open.spotify.com/track/3sB0Rw1n029dIYnzaLyQFd) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [I Don't Feel Alive](https://open.spotify.com/album/1WG4x5TpVKcN4oDBDeZuxa) | 3:23 | 2023-07-13 | 2023-07-21 |
 | [I Don't Know How To Say Goodbye \(Bang Bang Boom Boom\)](https://open.spotify.com/track/1syRhE7HRKfMu24bgBIRPT) | [Dwight Yoakam](https://open.spotify.com/artist/2sxmKe3CUrWnx7eoXMhOlW), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [I Don't Know How To Say Goodbye \(Bang Bang Boom Boom\)](https://open.spotify.com/album/4qeMOx94PKBKg5J1XGTvF7) | 3:26 | 2024-09-05 | 2024-09-13 |
@@ -4472,6 +4474,7 @@
 | [QWERTY](https://open.spotify.com/track/4XyH7K2OWCkpABzPU18B2B) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Papercuts](https://open.spotify.com/album/1xyqxAgu1JMOQe9AdRTNSl) | 3:21 | 2024-04-12 | 2024-04-19 |
 | [R e a l W o m a n](https://open.spotify.com/track/5bhDnM1VMFDTs3urFBq4Na) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [R e a l W o m a n](https://open.spotify.com/album/05Zpvjm9aGodlwFnnh1rRE) | 3:14 | 2024-03-14 | 2024-03-22 |
 | [R e s e n t m e n t](https://open.spotify.com/track/4HISFDmENrT1reZ5nMUe4l) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [R e s e n t m e n t](https://open.spotify.com/album/6mHQX0imf1GfctUD5cQEWi) | 3:44 | 2023-07-06 | 2023-07-14 |
+| [R.E.M](https://open.spotify.com/track/7D2B5pj751b3MIaU4TwE6e) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [R.E.M](https://open.spotify.com/album/4xcIr0rkoIBPmoSPamCorO) | 2:52 | 2024-10-03 |  |
 | [Raat Ki Rani](https://open.spotify.com/track/5bYvn1VEE4f4kjug81vwmE) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Raat Ki Rani](https://open.spotify.com/album/595nZRWp2upqW6m8ZWA6Tx) | 5:13 | 2024-04-19 | 2024-04-26 |
 | [Rabbit](https://open.spotify.com/track/2YUM2QFAUS7LQTGvfw10wp) | [Youth Lagoon](https://open.spotify.com/artist/1Z2KInfSmPOzAIYyiaXeti) | [Heaven Is a Junkyard](https://open.spotify.com/album/1k5sG5y99N3xzVzxoJcmVA) | 3:36 | 2023-06-08 | 2023-06-10 |
 | [Rabbit](https://open.spotify.com/track/6zOy33O1PzuGWzDnjsfXLe) | [Youth Lagoon](https://open.spotify.com/artist/1Z2KInfSmPOzAIYyiaXeti) | [Heaven Is a Junkyard](https://open.spotify.com/album/2ORI4KGuGYO14sxdwbmOBY) | 3:36 | 2023-06-09 | 2023-06-16 |

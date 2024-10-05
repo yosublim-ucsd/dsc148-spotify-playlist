@@ -1,6 +1,6 @@
 {
   "description": "",
-  "num_followers": 138684,
+  "num_followers": 138733,
   "original_name": "Sons da Natureza",
   "owner": {
     "name": "Spotify",
@@ -567,18 +567,18 @@
     {
       "added_at": "2024-08-23 13:01:20",
       "album": {
-        "name": "Soothing Birdsong by the River",
-        "url": "https://open.spotify.com/album/5Lf0jb8zb9ylmubTVx6xtf"
+        "name": "Waves",
+        "url": "https://open.spotify.com/album/22XlTgyhVbZZPzPLmrBS87"
       },
       "artists": [
         {
-          "name": "El Naturel",
-          "url": "https://open.spotify.com/artist/2OSqVGR0G4PUJkOskabGEX"
+          "name": "Relaxed Minds",
+          "url": "https://open.spotify.com/artist/0AuDQR88HtZsQXLnbq007R"
         }
       ],
-      "duration_ms": 184186,
-      "name": "Soothing Birdsong by the River",
-      "url": "https://open.spotify.com/track/1c7KLz2RGsDoW58JiTT2L1"
+      "duration_ms": 249739,
+      "name": "Wave Foam",
+      "url": "https://open.spotify.com/track/22TrxuTE2bllUWnZVJ3Qcp"
     },
     {
       "added_at": "2024-08-23 13:01:20",
@@ -599,18 +599,18 @@
     {
       "added_at": "2024-08-23 13:01:20",
       "album": {
-        "name": "Waves",
-        "url": "https://open.spotify.com/album/22XlTgyhVbZZPzPLmrBS87"
+        "name": "Soothing Birdsong by the River",
+        "url": "https://open.spotify.com/album/5Lf0jb8zb9ylmubTVx6xtf"
       },
       "artists": [
         {
-          "name": "Relaxed Minds",
-          "url": "https://open.spotify.com/artist/0AuDQR88HtZsQXLnbq007R"
+          "name": "El Naturel",
+          "url": "https://open.spotify.com/artist/2OSqVGR0G4PUJkOskabGEX"
         }
       ],
-      "duration_ms": 249739,
-      "name": "Wave Foam",
-      "url": "https://open.spotify.com/track/22TrxuTE2bllUWnZVJ3Qcp"
+      "duration_ms": 184186,
+      "name": "Soothing Birdsong by the River",
+      "url": "https://open.spotify.com/track/1c7KLz2RGsDoW58JiTT2L1"
     },
     {
       "added_at": "2024-08-23 13:01:20",
@@ -711,22 +711,6 @@
     {
       "added_at": "2024-08-23 13:01:20",
       "album": {
-        "name": "Happy Birds",
-        "url": "https://open.spotify.com/album/0uVgQ8CdK3P98VGpUdLjuw"
-      },
-      "artists": [
-        {
-          "name": "WeatherBug",
-          "url": "https://open.spotify.com/artist/0uU87nlGO0v4JcxS7tMPdB"
-        }
-      ],
-      "duration_ms": 169500,
-      "name": "Happy Happy Birds",
-      "url": "https://open.spotify.com/track/1DiHtwsWDVvaT2UaBu3IEY"
-    },
-    {
-      "added_at": "2024-08-23 13:01:20",
-      "album": {
         "name": "Nature",
         "url": "https://open.spotify.com/album/01cbQN8XXD53sRV31mpARQ"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 165296,
       "name": "Zen Nature Sounds",
       "url": "https://open.spotify.com/track/5AltIifJScpUdJyQNxf3oj"
+    },
+    {
+      "added_at": "2024-08-23 13:01:20",
+      "album": {
+        "name": "Happy Birds",
+        "url": "https://open.spotify.com/album/0uVgQ8CdK3P98VGpUdLjuw"
+      },
+      "artists": [
+        {
+          "name": "WeatherBug",
+          "url": "https://open.spotify.com/artist/0uU87nlGO0v4JcxS7tMPdB"
+        }
+      ],
+      "duration_ms": 169500,
+      "name": "Happy Happy Birds",
+      "url": "https://open.spotify.com/track/1DiHtwsWDVvaT2UaBu3IEY"
     },
     {
       "added_at": "2024-08-23 13:01:20",

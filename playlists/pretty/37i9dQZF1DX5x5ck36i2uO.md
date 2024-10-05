@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5x5ck36i2uO.md) - [plain]
 
 > 부드럽고 고급스러운 재즈향이 가미된 힙합음악을 즐겨보세요\. \(Enjoy hip\-hop music with a soft, luxurious jazz flavor.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,677 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,694 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5x5ck36i2uO.md) - [plain]
 | 9 | [Let's Not Love Each Other](https://open.spotify.com/track/6MPAgclYe1F9LSYXxOuoBC) | [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq) | [Like A Film : 4 Songs](https://open.spotify.com/album/0fMEdEjJHaK4IAIZ7xM7pp) | 4:02 |
 | 10 | [Habit](https://open.spotify.com/track/1RQqbSlookHZBgm5Cf3Sg4) | [I.M](https://open.spotify.com/artist/49tkHHS0mXwa5eLYvyvKyd) | [OVERDRIVE](https://open.spotify.com/album/0IypTpMarJExzpoVXFPmW1) | 3:04 |
 | 11 | [小心温差](https://open.spotify.com/track/2A9syyjDKXse0q4X4YHmUD) | [Matt Lv](https://open.spotify.com/artist/71vPRIlP7xw7wawonVE4ax) | [Fresh Soul](https://open.spotify.com/album/7sRWMxB5twLohS7lsj0V6r) | 3:48 |
-| 12 | [VISTA \(feat\. gaeko, THAMA\)](https://open.spotify.com/track/7dBgD0N3hnFq8euHEryShz) | [John Park](https://open.spotify.com/artist/4mbvd7ZJ2goftjy1L33LiB), [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79), [THAMA](https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld) | [VISTA](https://open.spotify.com/album/6jghSUiZlBVm7isqJfYqtG) | 3:59 |
-| 13 | [City Life](https://open.spotify.com/track/3yp1VIzV5AjvvzzrgJ18SM) | [GroovyRoom](https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB), [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0) | [ROOM SERVICE](https://open.spotify.com/album/1GbGtBHI4yiKprKQq81El0) | 3:15 |
+| 12 | [City Life](https://open.spotify.com/track/3yp1VIzV5AjvvzzrgJ18SM) | [GroovyRoom](https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB), [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0) | [ROOM SERVICE](https://open.spotify.com/album/1GbGtBHI4yiKprKQq81El0) | 3:15 |
+| 13 | [VISTA \(feat\. gaeko, THAMA\)](https://open.spotify.com/track/7dBgD0N3hnFq8euHEryShz) | [John Park](https://open.spotify.com/artist/4mbvd7ZJ2goftjy1L33LiB), [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79), [THAMA](https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld) | [VISTA](https://open.spotify.com/album/6jghSUiZlBVm7isqJfYqtG) | 3:59 |
 | 14 | [Girl, Interrupted](https://open.spotify.com/track/1cBNzkPsAdI7XJaKIsjKUk) | [2xxx](https://open.spotify.com/artist/4cMtnnGdRvh8KIi2RA7ZeU), [Miso](https://open.spotify.com/artist/04xEkodoWyFji8icX911jM) | [Life](https://open.spotify.com/album/2vEU8SL0eLzr3P9jjagEw3) | 3:00 |
 | 15 | [NOT SORRY \(Feat\. pH\-1\) \(Prod\. by Slom\)](https://open.spotify.com/track/5UOY3OZib7H4KFwTfsT66g) | [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [SHOW ME THE MONEY 11 Episode 3](https://open.spotify.com/album/5LsGOvNXMG46qugdghRGRF) | 3:56 |
 | 16 | [Black & White Film \(Prod\. BOYCOLD\)](https://open.spotify.com/track/0V9VGJZxsJYodarhAolMy9) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0) | [Black & White Film](https://open.spotify.com/album/6PIfLssUGUbQwFYf1frasa) | 2:39 |

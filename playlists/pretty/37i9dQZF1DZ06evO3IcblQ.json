@@ -1,12 +1,12 @@
 {
-  "description": "This is Pennywise. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 32782,
+  "description": "This is Pennywise. The essential tracks, all in one playlist.",
+  "num_followers": 32791,
   "original_name": "This Is Pennywise",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvyNAAAAAABRc/RRSpufkdRcbk6pXOWy",
+  "snapshot_id": "Zv3egAAAAADPIdLTH+TOecn5mWdOJBSB",
   "tracks": [
     {
       "added_at": null,
@@ -419,6 +419,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pennywise (2005 Remaster)",
+        "url": "https://open.spotify.com/album/5NHEi9LvFF2IEOct2BTUMt"
+      },
+      "artists": [
+        {
+          "name": "Pennywise",
+          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
+        }
+      ],
+      "duration_ms": 187786,
+      "name": "Living for Today - 2005 Remaster",
+      "url": "https://open.spotify.com/track/4FlT6zFCK2hIdfQld4lPU6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Unknown Road (2005 Remaster)",
         "url": "https://open.spotify.com/album/0l680tJFfovpGiaaFC6a4H"
       },
@@ -451,22 +467,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pennywise (2005 Remaster)",
-        "url": "https://open.spotify.com/album/5NHEi9LvFF2IEOct2BTUMt"
-      },
-      "artists": [
-        {
-          "name": "Pennywise",
-          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
-        }
-      ],
-      "duration_ms": 187786,
-      "name": "Living for Today - 2005 Remaster",
-      "url": "https://open.spotify.com/track/4FlT6zFCK2hIdfQld4lPU6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Full Circle (2005 Remaster)",
         "url": "https://open.spotify.com/album/0QX9rRHnywYqgvnWQyOykU"
       },
@@ -479,6 +479,22 @@
       "duration_ms": 175853,
       "name": "Date With Destiny - 2005 Remaster",
       "url": "https://open.spotify.com/track/4yVw3NIv9RTBRM6TQnv6fo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pennywise (2005 Remaster)",
+        "url": "https://open.spotify.com/album/5NHEi9LvFF2IEOct2BTUMt"
+      },
+      "artists": [
+        {
+          "name": "Pennywise",
+          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
+        }
+      ],
+      "duration_ms": 97840,
+      "name": "Pennywise - 2005 Remaster",
+      "url": "https://open.spotify.com/track/1WaEl2RKIUq7gxakfucrch"
     },
     {
       "added_at": null,
@@ -515,22 +531,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pennywise (2005 Remaster)",
-        "url": "https://open.spotify.com/album/5NHEi9LvFF2IEOct2BTUMt"
-      },
-      "artists": [
-        {
-          "name": "Pennywise",
-          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
-        }
-      ],
-      "duration_ms": 97840,
-      "name": "Pennywise - 2005 Remaster",
-      "url": "https://open.spotify.com/track/1WaEl2RKIUq7gxakfucrch"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Land Of The Free?",
         "url": "https://open.spotify.com/album/6oEh869vJQY1QdfZlVQ0ly"
       },
@@ -563,22 +563,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Straight Ahead",
-        "url": "https://open.spotify.com/album/03ScC00zLbzJ5GrVp6Y5M1"
-      },
-      "artists": [
-        {
-          "name": "Pennywise",
-          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
-        }
-      ],
-      "duration_ms": 195333,
-      "name": "Greed",
-      "url": "https://open.spotify.com/track/17emFflIwwnd4B5naKzv4r"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "About Time (2005 Remaster)",
         "url": "https://open.spotify.com/album/2MyjkvQLos52FxpyHJZsfE"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 175066,
       "name": "Searching - 2005 Remaster",
       "url": "https://open.spotify.com/track/1hpWskveq87EPrdQ1Rk1UZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Straight Ahead",
+        "url": "https://open.spotify.com/album/03ScC00zLbzJ5GrVp6Y5M1"
+      },
+      "artists": [
+        {
+          "name": "Pennywise",
+          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
+        }
+      ],
+      "duration_ms": 195333,
+      "name": "Greed",
+      "url": "https://open.spotify.com/track/17emFflIwwnd4B5naKzv4r"
     },
     {
       "added_at": null,
@@ -627,22 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Full Circle (2005 Remaster)",
-        "url": "https://open.spotify.com/album/0QX9rRHnywYqgvnWQyOykU"
-      },
-      "artists": [
-        {
-          "name": "Pennywise",
-          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
-        }
-      ],
-      "duration_ms": 191173,
-      "name": "Final Day - 2005 Remaster",
-      "url": "https://open.spotify.com/track/1IbACCa6rZ9fTuI6YYS1cF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Unknown Road (2005 Remaster)",
         "url": "https://open.spotify.com/album/0l680tJFfovpGiaaFC6a4H"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 185493,
       "name": "Dying to Know - 2005 Remaster",
       "url": "https://open.spotify.com/track/6wHh6CHqcIQR1gpmmjeaKL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Full Circle (2005 Remaster)",
+        "url": "https://open.spotify.com/album/0QX9rRHnywYqgvnWQyOykU"
+      },
+      "artists": [
+        {
+          "name": "Pennywise",
+          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
+        }
+      ],
+      "duration_ms": 191173,
+      "name": "Final Day - 2005 Remaster",
+      "url": "https://open.spotify.com/track/1IbACCa6rZ9fTuI6YYS1cF"
     },
     {
       "added_at": null,
@@ -700,9 +700,9 @@
           "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
         }
       ],
-      "duration_ms": 131480,
-      "name": "American Lies",
-      "url": "https://open.spotify.com/track/2XzzP3HXqdzK907sGFewD4"
+      "duration_ms": 182266,
+      "name": "Won't Give Up The Fight",
+      "url": "https://open.spotify.com/track/60O4BYfrtOOcq9rywcEyi3"
     },
     {
       "added_at": null,
@@ -764,9 +764,9 @@
           "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
         }
       ],
-      "duration_ms": 182266,
-      "name": "Won't Give Up The Fight",
-      "url": "https://open.spotify.com/track/60O4BYfrtOOcq9rywcEyi3"
+      "duration_ms": 131480,
+      "name": "American Lies",
+      "url": "https://open.spotify.com/track/2XzzP3HXqdzK907sGFewD4"
     },
     {
       "added_at": null,

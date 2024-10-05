@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3jgeSr.md) - [plain]
 
 > This is Labi Siffre\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,060 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,061 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3jgeSr.md) - [plain]
 | 13 | [Doctor Doctor](https://open.spotify.com/track/7rzCydzyXY6gtjFHVCy4SV) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [Happy](https://open.spotify.com/album/17aYOCF5PDgv9TQaWFGNTu) | 4:21 |
 | 14 | ['Till Forever](https://open.spotify.com/track/7vVywc6HuOtPzwdMkSxhI2) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [Crying, Laughing, Loving, Lying](https://open.spotify.com/album/3KJxMjUnBZu3jLeQTIe6aQ) | 1:15 |
 | 15 | [Rocking Chair](https://open.spotify.com/track/53qn0116gOP48ns8zcr0sL) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [The Singer & The Song](https://open.spotify.com/album/5vVrfTlAZqwpdCs52MjdZH) | 2:28 |
-| 16 | [To Find Love](https://open.spotify.com/track/5LztLV2HEE7H5pjhiTD6FN) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [Crying, Laughing, Loving, Lying \(Deluxe Edition\)](https://open.spotify.com/album/5sFwr2JkKjNf46waqdF8KR) | 2:01 |
-| 17 | [Seasons Come, Seasons Go](https://open.spotify.com/track/3PjBSTYctUXzr2levZNNgc) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [The Singer & The Song \(Deluxe Edition\)](https://open.spotify.com/album/6vI4NNwyHDsMnxeC5QVl1w) | 2:10 |
+| 16 | [Seasons Come, Seasons Go](https://open.spotify.com/track/3PjBSTYctUXzr2levZNNgc) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [The Singer & The Song \(Deluxe Edition\)](https://open.spotify.com/album/6vI4NNwyHDsMnxeC5QVl1w) | 2:10 |
+| 17 | [To Find Love](https://open.spotify.com/track/5LztLV2HEE7H5pjhiTD6FN) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [Crying, Laughing, Loving, Lying \(Deluxe Edition\)](https://open.spotify.com/album/5sFwr2JkKjNf46waqdF8KR) | 2:01 |
 | 18 | [It Must Be Love](https://open.spotify.com/track/70Y4jSu8zk3l8gyKTUz3l0) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [Crying, Laughing, Loving, Lying](https://open.spotify.com/album/3KJxMjUnBZu3jLeQTIe6aQ) | 3:56 |
 | 19 | [Talkabout](https://open.spotify.com/track/2dGUGJmo9wSRB4vmgX61lb) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [The Singer & The Song](https://open.spotify.com/album/5vVrfTlAZqwpdCs52MjdZH) | 2:42 |
 | 20 | [Sadie and the Devil \- 2006 Remaster](https://open.spotify.com/track/2WvwMBkSC9jg5eYJ9AWXhR) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [Remember My Song](https://open.spotify.com/album/1wTqD7FSQ8XgKPy8xBUaEV) | 3:53 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3jgeSr.md) - [plain]
 | 49 | [Sally Came to Stay](https://open.spotify.com/track/49mJWMhvpbhhuyFR0WZYIC) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [The Music Of Labi Siffre](https://open.spotify.com/album/7tyc9SuNusJlTI6Dkhsajy) | 4:31 |
 | 50 | [When You're Lonely](https://open.spotify.com/track/23Vhc0SDblDARyCo3CIOQC) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [So Strong](https://open.spotify.com/album/1eY6wnXsy13mXFzMyP5Iuk) | 2:11 |
 
-Snapshot ID: `ZvyNAAAAAADn5METmk97l9empmTA9z7S`
+Snapshot ID: `Zv3egAAAAABuBtOrO4MNLx7G4bBHiR0a`

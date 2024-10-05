@@ -1,12 +1,12 @@
 {
-  "description": "This is Grupo Arriesgado. The essential tracks, all in one playlist.",
-  "num_followers": 110112,
+  "description": "This Is Grupo Arriesgado. Los temas esenciales, todos en una lista.",
+  "num_followers": 110129,
   "original_name": "This Is Grupo Arriesgado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvyNAAAAAABG49PCz851r6SiuCp+7RIj",
+  "snapshot_id": "Zv3egAAAAACmNsqbANdFcENjXytlHtSt",
   "tracks": [
     {
       "added_at": null,
@@ -171,22 +171,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Fiesta",
-        "url": "https://open.spotify.com/album/0H2PeujiXUo7qOnRLLmrKz"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 189504,
-      "name": "La Fiesta",
-      "url": "https://open.spotify.com/track/2jjrH4sgaGxgDWss3XWenX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Que Las Cuartitos No Falten",
         "url": "https://open.spotify.com/album/2gdVut9gbjgP5m6puh7QK3"
       },
@@ -243,6 +227,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Fiesta",
+        "url": "https://open.spotify.com/album/0H2PeujiXUo7qOnRLLmrKz"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 189504,
+      "name": "La Fiesta",
+      "url": "https://open.spotify.com/track/2jjrH4sgaGxgDWss3XWenX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pistiando Con Mi Tata, Vol. 1 (En Vivo)",
         "url": "https://open.spotify.com/album/05uudYnuSJPNR6tFefx699"
       },
@@ -275,22 +275,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A La Sombra De Un \u00c1rbol, Vol. II (En Vivo)",
-        "url": "https://open.spotify.com/album/5E7iMK7m675htoXMQigyeM"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 153344,
-      "name": "La Linea Directa (En Vivo)",
-      "url": "https://open.spotify.com/track/0JOWzbC7M759dmqEm85TSM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Puras De Servando ZL, Vol. 2 (En Vivo)",
         "url": "https://open.spotify.com/album/3K2tobst8dJSvsRmsFDDPa"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 189000,
       "name": "El Yuko (En vivo)",
       "url": "https://open.spotify.com/track/2lc60LnmhcgHEPkEabgmMs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A La Sombra De Un \u00c1rbol, Vol. II (En Vivo)",
+        "url": "https://open.spotify.com/album/5E7iMK7m675htoXMQigyeM"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 153344,
+      "name": "La Linea Directa (En Vivo)",
+      "url": "https://open.spotify.com/track/0JOWzbC7M759dmqEm85TSM"
     },
     {
       "added_at": null,
@@ -347,6 +347,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Puras De Servando ZL, Vol. 2 (En Vivo)",
+        "url": "https://open.spotify.com/album/3K2tobst8dJSvsRmsFDDPa"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 164257,
+      "name": "La Muchacha Del Salado \"La Nicholette\" (En vivo)",
+      "url": "https://open.spotify.com/track/5dgSrp2BNzQXzYblHtzAao"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Pato Nada",
         "url": "https://open.spotify.com/album/6nWyosgrGdpADFNBALolyt"
       },
@@ -363,22 +379,6 @@
       "duration_ms": 164989,
       "name": "El Pato Nada",
       "url": "https://open.spotify.com/track/63VicIXgAYX11BIS5vvfbA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Puras De Servando ZL, Vol. 2 (En Vivo)",
-        "url": "https://open.spotify.com/album/3K2tobst8dJSvsRmsFDDPa"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 164257,
-      "name": "La Muchacha Del Salado \"La Nicholette\" (En vivo)",
-      "url": "https://open.spotify.com/track/5dgSrp2BNzQXzYblHtzAao"
     },
     {
       "added_at": null,
@@ -543,6 +543,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Los Tiempos De Aguas",
+        "url": "https://open.spotify.com/album/3RPyUzWLR3liD40Lpytjxg"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 171989,
+      "name": "El Bolas",
+      "url": "https://open.spotify.com/track/68qYyjg8Y10HVr3YcY8Yp8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Amor No Es Para Todos",
         "url": "https://open.spotify.com/album/3yDNbHOaUo0r9yafxBkAJl"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 142341,
       "name": "El Amor No Es Para Todos",
       "url": "https://open.spotify.com/track/3oazxJTMSqk0KCupesUq7B"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Los Tiempos De Aguas",
-        "url": "https://open.spotify.com/album/3RPyUzWLR3liD40Lpytjxg"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 171989,
-      "name": "El Bolas",
-      "url": "https://open.spotify.com/track/68qYyjg8Y10HVr3YcY8Yp8"
     },
     {
       "added_at": null,
@@ -775,22 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Que Las Cuartitos No Falten",
-        "url": "https://open.spotify.com/album/2gdVut9gbjgP5m6puh7QK3"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 179170,
-      "name": "Que las Cuartitos No Falten",
-      "url": "https://open.spotify.com/track/1J5y2EFPoqlUp995jiMiD9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Birria",
         "url": "https://open.spotify.com/album/4U50pciWwb1rE8RzjIKuDM"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 135220,
       "name": "Chaparrita Batallosa",
       "url": "https://open.spotify.com/track/1kILvuXDaiV2Li1a8fid9u"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Que Las Cuartitos No Falten",
+        "url": "https://open.spotify.com/album/2gdVut9gbjgP5m6puh7QK3"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 179170,
+      "name": "Que las Cuartitos No Falten",
+      "url": "https://open.spotify.com/track/1J5y2EFPoqlUp995jiMiD9"
     },
     {
       "added_at": null,

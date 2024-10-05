@@ -1839,6 +1839,28 @@
     },
     {
       "album": {
+        "name": "BIBI FODE DAN\u00c7A",
+        "url": "https://open.spotify.com/album/47AO9AnERHiEwocwd55kNp"
+      },
+      "artists": [
+        {
+          "name": "PHNKR",
+          "url": "https://open.spotify.com/artist/43d1H0MLIskJBPmNnF8boH"
+        },
+        {
+          "name": "Bibi Babydoll",
+          "url": "https://open.spotify.com/artist/6R26kGib2ubbZJMh7kKVGV"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107373,
+      "name": "BIBI FODE DAN\u00c7A",
+      "url": "https://open.spotify.com/track/6gBROB0lW3S616gCTi0nni"
+    },
+    {
+      "album": {
         "name": "BIBI PHONK BR",
         "url": "https://open.spotify.com/album/4cfBuRZw1az5lIdTYxuOPq"
       },
@@ -5302,6 +5324,24 @@
       "duration_ms": 114909,
       "name": "FULL SEND",
       "url": "https://open.spotify.com/track/7LZ5kABpaC3XiXQEOlJ6LA"
+    },
+    {
+      "album": {
+        "name": "FUNK DO BOUNCE (Slowed)",
+        "url": "https://open.spotify.com/album/6Zd0Hg3HKVH7xhBPgESQy1"
+      },
+      "artists": [
+        {
+          "name": "Ariis",
+          "url": "https://open.spotify.com/artist/09cKncAQn28NqTUORLMwSR"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107539,
+      "name": "FUNK DO BOUNCE (Slowed)",
+      "url": "https://open.spotify.com/track/7IBqHkoP94VrgYKVns4eNz"
     },
     {
       "album": {
@@ -8963,6 +9003,36 @@
     },
     {
       "album": {
+        "name": "Montagem Melodia Explosiva",
+        "url": "https://open.spotify.com/album/3D2j7JQjj9Kjc8sOfikmV6"
+      },
+      "artists": [
+        {
+          "name": "Vermillion",
+          "url": "https://open.spotify.com/artist/1PvcWjADPMezv8CTyJO9Uk"
+        },
+        {
+          "name": "ICEDMANE",
+          "url": "https://open.spotify.com/artist/4cM6xcafBAbS9bOa8kAjRj"
+        },
+        {
+          "name": "DYSMANE",
+          "url": "https://open.spotify.com/artist/1pFLuMBwabtFITLNJlEZ9z"
+        },
+        {
+          "name": "Mc Dido",
+          "url": "https://open.spotify.com/artist/3AbeBDqk7IsG1JZEWVVcpY"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104368,
+      "name": "Montagem Melodia Explosiva - Slowed",
+      "url": "https://open.spotify.com/track/2SQp5yapF1ZwiuKgaFuFMJ"
+    },
+    {
+      "album": {
         "name": "Montagem Mysterious Game",
         "url": "https://open.spotify.com/album/1l8if9zQ8F0MEHVWYrMREe"
       },
@@ -9878,7 +9948,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 152925,
       "name": "OneShot",
       "url": "https://open.spotify.com/track/65YPiyiBBGQgqjiSG8jkvM"
@@ -10696,7 +10766,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 160029,
       "name": "POOR",
       "url": "https://open.spotify.com/track/0LDUzTvKVEla4L7GusNck2"
@@ -15204,7 +15274,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 129697,
       "name": "YUM YUM",
       "url": "https://open.spotify.com/track/0R902FnwJO8kBZYvtpQLrL"

@@ -1,6 +1,6 @@
 {
   "description": "de skarpeste nye knive i dansk musik  \ud83d\udcf8 <a href=\"spotify:artist:0Qb0B1f0uVNSiNbT4SAwGi\">Julie Ellinor</a>",
-  "num_followers": 45402,
+  "num_followers": 45399,
   "original_name": "ung kniv ",
   "owner": {
     "name": "Spotify",
@@ -459,18 +459,22 @@
     {
       "added_at": "2024-10-03 22:00:00",
       "album": {
-        "name": "Ulykkelig",
-        "url": "https://open.spotify.com/album/7h7vLjEEYuicY1oBmN37Fc"
+        "name": "Coast II Coast (feat. USSEL)",
+        "url": "https://open.spotify.com/album/1tLKNTlOQhdGg9CnzznpwE"
       },
       "artists": [
         {
-          "name": "Karoline Mousing",
-          "url": "https://open.spotify.com/artist/0BqpiQJEK4jycSLmjLN6z0"
+          "name": "Rune Rask",
+          "url": "https://open.spotify.com/artist/3zuy1LOMq0y8aHZn4Ogax0"
+        },
+        {
+          "name": "USSEL",
+          "url": "https://open.spotify.com/artist/13wADF4gMaMun7o6VzOzZp"
         }
       ],
-      "duration_ms": 136950,
-      "name": "Ulykkelig",
-      "url": "https://open.spotify.com/track/2YDLTIoCXWBw77xk2Irxe9"
+      "duration_ms": 128616,
+      "name": "Coast II Coast (feat. USSEL)",
+      "url": "https://open.spotify.com/track/0HKBq5BnA2JOiLy85H0JxL"
     },
     {
       "added_at": "2024-10-03 22:00:00",
@@ -491,6 +495,22 @@
     {
       "added_at": "2024-10-03 22:00:00",
       "album": {
+        "name": "Ulykkelig",
+        "url": "https://open.spotify.com/album/7h7vLjEEYuicY1oBmN37Fc"
+      },
+      "artists": [
+        {
+          "name": "Karoline Mousing",
+          "url": "https://open.spotify.com/artist/0BqpiQJEK4jycSLmjLN6z0"
+        }
+      ],
+      "duration_ms": 136950,
+      "name": "Ulykkelig",
+      "url": "https://open.spotify.com/track/2YDLTIoCXWBw77xk2Irxe9"
+    },
+    {
+      "added_at": "2024-10-03 22:00:00",
+      "album": {
         "name": "Gi' Mig Lige",
         "url": "https://open.spotify.com/album/1RbqPsFleMMtKhkvwufqjA"
       },
@@ -503,26 +523,6 @@
       "duration_ms": 161608,
       "name": "Gi' Mig Lige",
       "url": "https://open.spotify.com/track/6cgvpCN5EDQOGQdYyK8e3a"
-    },
-    {
-      "added_at": "2024-10-03 22:00:00",
-      "album": {
-        "name": "Coast II Coast (feat. USSEL)",
-        "url": "https://open.spotify.com/album/1tLKNTlOQhdGg9CnzznpwE"
-      },
-      "artists": [
-        {
-          "name": "Rune Rask",
-          "url": "https://open.spotify.com/artist/3zuy1LOMq0y8aHZn4Ogax0"
-        },
-        {
-          "name": "USSEL",
-          "url": "https://open.spotify.com/artist/13wADF4gMaMun7o6VzOzZp"
-        }
-      ],
-      "duration_ms": 128616,
-      "name": "Coast II Coast (feat. USSEL)",
-      "url": "https://open.spotify.com/track/0HKBq5BnA2JOiLy85H0JxL"
     },
     {
       "added_at": "2024-10-03 22:00:00",
@@ -659,22 +659,6 @@
     {
       "added_at": "2024-10-03 22:00:00",
       "album": {
-        "name": "Jaloux",
-        "url": "https://open.spotify.com/album/3mIgrmII5V9ELRviikw1oW"
-      },
-      "artists": [
-        {
-          "name": "August H\u00f8yen",
-          "url": "https://open.spotify.com/artist/3nvGdNkcrq1IYHgJBw28Nm"
-        }
-      ],
-      "duration_ms": 157000,
-      "name": "Jaloux",
-      "url": "https://open.spotify.com/track/5XjrY4alxaOIBkQou85wnW"
-    },
-    {
-      "added_at": "2024-10-03 22:00:00",
-      "album": {
         "name": "Berlin (feat. Marcus.wav)",
         "url": "https://open.spotify.com/album/3UoNkriZF8Mtot3EcPU7cL"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 172079,
       "name": "Berlin (feat. Marcus.wav)",
       "url": "https://open.spotify.com/track/79pkpQo5RSxW8QKzktg7Su"
+    },
+    {
+      "added_at": "2024-10-03 22:00:00",
+      "album": {
+        "name": "Jaloux",
+        "url": "https://open.spotify.com/album/3mIgrmII5V9ELRviikw1oW"
+      },
+      "artists": [
+        {
+          "name": "August H\u00f8yen",
+          "url": "https://open.spotify.com/artist/3nvGdNkcrq1IYHgJBw28Nm"
+        }
+      ],
+      "duration_ms": 157000,
+      "name": "Jaloux",
+      "url": "https://open.spotify.com/track/5XjrY4alxaOIBkQou85wnW"
     },
     {
       "added_at": "2024-10-03 22:00:00",
@@ -759,34 +759,18 @@
     {
       "added_at": "2024-10-03 22:00:00",
       "album": {
-        "name": "ENGLE & BLAA MAERKER",
-        "url": "https://open.spotify.com/album/5uhCZB1SB8Lo0wsNylID2x"
+        "name": "Bl\u00f8d",
+        "url": "https://open.spotify.com/album/6SYYzhXwDRTRUzHQIrAx6O"
       },
       "artists": [
         {
-          "name": "USSEL",
-          "url": "https://open.spotify.com/artist/13wADF4gMaMun7o6VzOzZp"
+          "name": "Bette",
+          "url": "https://open.spotify.com/artist/4gepV1NXit1T15YxX0Bv27"
         }
       ],
-      "duration_ms": 174017,
-      "name": "oslo til k\u00f8benhavn",
-      "url": "https://open.spotify.com/track/4FFE1XM8TPBwG0C6kUkBdg"
-    },
-    {
-      "added_at": "2024-10-03 22:00:00",
-      "album": {
-        "name": "D\u00e5rligste Bedste Id\u00e9",
-        "url": "https://open.spotify.com/album/0fsi7iQLNKjjs2zsWjNzyl"
-      },
-      "artists": [
-        {
-          "name": "LUCY",
-          "url": "https://open.spotify.com/artist/3YYCYfeypDt0g0kwgNYIWw"
-        }
-      ],
-      "duration_ms": 196510,
-      "name": "D\u00e5rligste Bedste Id\u00e9",
-      "url": "https://open.spotify.com/track/3MMQxJeAw1A9jjqyGHz8DF"
+      "duration_ms": 141653,
+      "name": "Bl\u00f8d",
+      "url": "https://open.spotify.com/track/73IX0AWJ5BcAyosnQ3QalA"
     },
     {
       "added_at": "2024-10-03 22:00:00",
@@ -807,6 +791,22 @@
     {
       "added_at": "2024-10-03 22:00:00",
       "album": {
+        "name": "D\u00e5rligste Bedste Id\u00e9",
+        "url": "https://open.spotify.com/album/0fsi7iQLNKjjs2zsWjNzyl"
+      },
+      "artists": [
+        {
+          "name": "LUCY",
+          "url": "https://open.spotify.com/artist/3YYCYfeypDt0g0kwgNYIWw"
+        }
+      ],
+      "duration_ms": 196510,
+      "name": "D\u00e5rligste Bedste Id\u00e9",
+      "url": "https://open.spotify.com/track/3MMQxJeAw1A9jjqyGHz8DF"
+    },
+    {
+      "added_at": "2024-10-03 22:00:00",
+      "album": {
         "name": "G\u00e5r Bare",
         "url": "https://open.spotify.com/album/5kXbhTjVsHBCl33NDSawoD"
       },
@@ -823,39 +823,23 @@
     {
       "added_at": "2024-10-03 22:00:00",
       "album": {
-        "name": "Bl\u00f8d",
-        "url": "https://open.spotify.com/album/6SYYzhXwDRTRUzHQIrAx6O"
+        "name": "ENGLE & BLAA MAERKER",
+        "url": "https://open.spotify.com/album/5uhCZB1SB8Lo0wsNylID2x"
       },
       "artists": [
         {
-          "name": "Bette",
-          "url": "https://open.spotify.com/artist/4gepV1NXit1T15YxX0Bv27"
+          "name": "USSEL",
+          "url": "https://open.spotify.com/artist/13wADF4gMaMun7o6VzOzZp"
         }
       ],
-      "duration_ms": 141653,
-      "name": "Bl\u00f8d",
-      "url": "https://open.spotify.com/track/73IX0AWJ5BcAyosnQ3QalA"
+      "duration_ms": 174017,
+      "name": "oslo til k\u00f8benhavn",
+      "url": "https://open.spotify.com/track/4FFE1XM8TPBwG0C6kUkBdg"
     },
     {
       "added_at": "2024-10-03 22:00:00",
       "album": {
-        "name": "1000 H\u00e6nder",
-        "url": "https://open.spotify.com/album/7jKVBenHoh5NFs7TCum46z"
-      },
-      "artists": [
-        {
-          "name": "Elsked",
-          "url": "https://open.spotify.com/artist/1nrf4XbO46RDXE4iuJYKzJ"
-        }
-      ],
-      "duration_ms": 185760,
-      "name": "1000 H\u00e6nder",
-      "url": "https://open.spotify.com/track/26cx3JVqR0zBa2WWsqUl6c"
-    },
-    {
-      "added_at": "2024-10-03 22:00:00",
-      "album": {
-        "name": "EDITS",
+        "name": "Great Doubt (EDITS)",
         "url": "https://open.spotify.com/album/3Q4ckErENVJA9V1nx3pMS4"
       },
       "artists": [
@@ -873,7 +857,7 @@
         }
       ],
       "duration_ms": 145125,
-      "name": "Do you wanna - Fine & Molina Edit",
+      "name": "Do you wanna - Fine + Molina EDIT",
       "url": "https://open.spotify.com/track/6xTOSlWaiBRiVj3Xh265FL"
     },
     {
@@ -891,6 +875,22 @@
       "duration_ms": 202243,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/5Zy4JPMVwISXB1amTXQCaH"
+    },
+    {
+      "added_at": "2024-10-03 22:00:00",
+      "album": {
+        "name": "1000 H\u00e6nder",
+        "url": "https://open.spotify.com/album/7jKVBenHoh5NFs7TCum46z"
+      },
+      "artists": [
+        {
+          "name": "Elsked",
+          "url": "https://open.spotify.com/artist/1nrf4XbO46RDXE4iuJYKzJ"
+        }
+      ],
+      "duration_ms": 185760,
+      "name": "1000 H\u00e6nder",
+      "url": "https://open.spotify.com/track/26cx3JVqR0zBa2WWsqUl6c"
     },
     {
       "added_at": "2024-10-03 22:00:00",
@@ -947,22 +947,6 @@
     {
       "added_at": "2024-10-03 22:00:00",
       "album": {
-        "name": "H\u00f8jhus (Hvor G\u00e5r Vi Hen)",
-        "url": "https://open.spotify.com/album/1RpzwZgl2SKr1h5fvTbV50"
-      },
-      "artists": [
-        {
-          "name": "Statisk",
-          "url": "https://open.spotify.com/artist/3iMPlKfT0MyTfFKht7LfgN"
-        }
-      ],
-      "duration_ms": 191673,
-      "name": "H\u00f8jhus (Hvor G\u00e5r Vi Hen)",
-      "url": "https://open.spotify.com/track/2yGQDtB1DuJqFGrLKh6yrF"
-    },
-    {
-      "added_at": "2024-10-03 22:00:00",
-      "album": {
         "name": "dagdr\u00f8mmer (akustisk version)",
         "url": "https://open.spotify.com/album/7f6dsDteuo24cgM9vK5RSh"
       },
@@ -979,6 +963,22 @@
     {
       "added_at": "2024-10-03 22:00:00",
       "album": {
+        "name": "H\u00f8jhus (Hvor G\u00e5r Vi Hen)",
+        "url": "https://open.spotify.com/album/1RpzwZgl2SKr1h5fvTbV50"
+      },
+      "artists": [
+        {
+          "name": "Statisk",
+          "url": "https://open.spotify.com/artist/3iMPlKfT0MyTfFKht7LfgN"
+        }
+      ],
+      "duration_ms": 191673,
+      "name": "H\u00f8jhus (Hvor G\u00e5r Vi Hen)",
+      "url": "https://open.spotify.com/track/2yGQDtB1DuJqFGrLKh6yrF"
+    },
+    {
+      "added_at": "2024-10-03 22:00:00",
+      "album": {
         "name": "Infinity Action",
         "url": "https://open.spotify.com/album/6GLTwo1oKgINl5zKMPuBWM"
       },
@@ -991,6 +991,22 @@
       "duration_ms": 243306,
       "name": "Brev Fra En Forr\u00e6der",
       "url": "https://open.spotify.com/track/0SDWa22lSLNpGnr5bF3f2z"
+    },
+    {
+      "added_at": "2024-10-03 22:00:00",
+      "album": {
+        "name": "Caroline",
+        "url": "https://open.spotify.com/album/32mo9QQbaLGnv7C8kXMNxx"
+      },
+      "artists": [
+        {
+          "name": "School of X",
+          "url": "https://open.spotify.com/artist/4VL17UwE7ktJcG04WdbR9B"
+        }
+      ],
+      "duration_ms": 190200,
+      "name": "Caroline",
+      "url": "https://open.spotify.com/track/49LGe1i7eznRGUyOHD4tVM"
     },
     {
       "added_at": "2024-10-03 22:00:00",
@@ -1027,18 +1043,18 @@
     {
       "added_at": "2024-10-03 22:00:00",
       "album": {
-        "name": "Caroline",
-        "url": "https://open.spotify.com/album/32mo9QQbaLGnv7C8kXMNxx"
+        "name": "Dopa min",
+        "url": "https://open.spotify.com/album/2bwcQANrSwHeZtJDyttd9b"
       },
       "artists": [
         {
-          "name": "School of X",
-          "url": "https://open.spotify.com/artist/4VL17UwE7ktJcG04WdbR9B"
+          "name": "Bette",
+          "url": "https://open.spotify.com/artist/4gepV1NXit1T15YxX0Bv27"
         }
       ],
-      "duration_ms": 190200,
-      "name": "Caroline",
-      "url": "https://open.spotify.com/track/49LGe1i7eznRGUyOHD4tVM"
+      "duration_ms": 161911,
+      "name": "Dopa min",
+      "url": "https://open.spotify.com/track/7jxowF3F2CJoEjoX8P8Hl7"
     },
     {
       "added_at": "2024-10-03 22:00:00",
@@ -1075,38 +1091,6 @@
     {
       "added_at": "2024-10-03 22:00:00",
       "album": {
-        "name": "Dopa min",
-        "url": "https://open.spotify.com/album/2bwcQANrSwHeZtJDyttd9b"
-      },
-      "artists": [
-        {
-          "name": "Bette",
-          "url": "https://open.spotify.com/artist/4gepV1NXit1T15YxX0Bv27"
-        }
-      ],
-      "duration_ms": 161911,
-      "name": "Dopa min",
-      "url": "https://open.spotify.com/track/7jxowF3F2CJoEjoX8P8Hl7"
-    },
-    {
-      "added_at": "2024-10-03 22:00:00",
-      "album": {
-        "name": "Syreregn",
-        "url": "https://open.spotify.com/album/0IZtOod9T7rvTCAYcoEsfz"
-      },
-      "artists": [
-        {
-          "name": "BONF\u00cd",
-          "url": "https://open.spotify.com/artist/3rDUvh74JdHkHrgV7xyEia"
-        }
-      ],
-      "duration_ms": 170192,
-      "name": "Syreregn",
-      "url": "https://open.spotify.com/track/1P6IhxWSo9KtdCZj87wYo2"
-    },
-    {
-      "added_at": "2024-10-03 22:00:00",
-      "album": {
         "name": "Sunshine In Atalaya",
         "url": "https://open.spotify.com/album/7i2joJdXELNzwEi1dNmkC9"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 262071,
       "name": "Sunshine In Atalaya",
       "url": "https://open.spotify.com/track/10OBHEnPXKI3Bym1Fwmpe3"
+    },
+    {
+      "added_at": "2024-10-03 22:00:00",
+      "album": {
+        "name": "Syreregn",
+        "url": "https://open.spotify.com/album/0IZtOod9T7rvTCAYcoEsfz"
+      },
+      "artists": [
+        {
+          "name": "BONF\u00cd",
+          "url": "https://open.spotify.com/artist/3rDUvh74JdHkHrgV7xyEia"
+        }
+      ],
+      "duration_ms": 170192,
+      "name": "Syreregn",
+      "url": "https://open.spotify.com/track/1P6IhxWSo9KtdCZj87wYo2"
     },
     {
       "added_at": "2024-10-03 22:00:00",
@@ -1159,18 +1159,18 @@
     {
       "added_at": "2024-10-03 22:00:00",
       "album": {
-        "name": "Den Ud\u00f8delige Historie",
-        "url": "https://open.spotify.com/album/1ZKRFDbKOtPOjYFldzIx3I"
+        "name": "GENSTART",
+        "url": "https://open.spotify.com/album/7ypSM0c6URwWDv5GhSCk11"
       },
       "artists": [
         {
-          "name": "Soleima",
-          "url": "https://open.spotify.com/artist/71le7jtjw9hq389Fnvi6XM"
+          "name": "PATINA",
+          "url": "https://open.spotify.com/artist/6SQ0yQG7sRlasn0yrSz7Gh"
         }
       ],
-      "duration_ms": 152729,
-      "name": "Den Ud\u00f8delige Historie",
-      "url": "https://open.spotify.com/track/4FyI2dMr12t6aNisuEW9PT"
+      "duration_ms": 280244,
+      "name": "Genstart",
+      "url": "https://open.spotify.com/track/1RzNsIIgaXfiAghwM0btqC"
     }
   ],
   "unique_name": "ung kniv ",

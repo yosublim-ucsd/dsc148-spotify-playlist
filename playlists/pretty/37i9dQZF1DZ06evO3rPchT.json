@@ -1,12 +1,12 @@
 {
-  "description": "This is HARDY. The essential tracks, all in one playlist.",
-  "num_followers": 72382,
+  "description": "This is HARDY. Tutti i brani in un'unica playlist.",
+  "num_followers": 72411,
   "original_name": "This Is HARDY",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvyNAAAAAAAqhZBcTkRloXTAZ5QIXyyz",
+  "snapshot_id": "Zv3egAAAAAAYqHcTO1f0Shexd3S7N2oj",
   "tracks": [
     {
       "added_at": null,
@@ -268,9 +268,9 @@
           "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
         }
       ],
-      "duration_ms": 168630,
-      "name": "JACK",
-      "url": "https://open.spotify.com/track/34t98bNg4yQxO32BXU5RzC"
+      "duration_ms": 202912,
+      "name": "SOLD OUT",
+      "url": "https://open.spotify.com/track/0onJhWTvfPCb5F7gUT3VPA"
     },
     {
       "added_at": null,
@@ -336,9 +336,9 @@
           "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
         }
       ],
-      "duration_ms": 202912,
-      "name": "SOLD OUT",
-      "url": "https://open.spotify.com/track/0onJhWTvfPCb5F7gUT3VPA"
+      "duration_ms": 168630,
+      "name": "JACK",
+      "url": "https://open.spotify.com/track/34t98bNg4yQxO32BXU5RzC"
     },
     {
       "added_at": null,
@@ -375,22 +375,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Whiskey On Whiskey",
-        "url": "https://open.spotify.com/album/1cb4T5ulohQQrgRiDkVPnO"
+        "name": "HIXTAPE: Vol. 2",
+        "url": "https://open.spotify.com/album/2xCINfSz32yE1z6IFqwGPj"
       },
       "artists": [
         {
-          "name": "Drew Green",
-          "url": "https://open.spotify.com/artist/7xZTozOYTK6YKaxcQxeBdP"
+          "name": "HIXTAPE",
+          "url": "https://open.spotify.com/artist/4Y8LpEiP4uKTP02lSYEWJV"
         },
         {
           "name": "HARDY",
           "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        },
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        },
+        {
+          "name": "Chris Shiflett",
+          "url": "https://open.spotify.com/artist/5tv5SsSRqR7uLtpKZgcRrg"
         }
       ],
-      "duration_ms": 168525,
-      "name": "Colorado (feat. HARDY)",
-      "url": "https://open.spotify.com/track/3ill9VgMqx02I8REhoXbLL"
+      "duration_ms": 189153,
+      "name": "Goin\u2019 Nowhere (feat. HARDY, Morgan Wallen & Chris Shiflett)",
+      "url": "https://open.spotify.com/track/7G66MHMKZFlajn5iNiH8Uc"
     },
     {
       "added_at": null,
@@ -447,30 +455,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "HIXTAPE: Vol. 2",
-        "url": "https://open.spotify.com/album/2xCINfSz32yE1z6IFqwGPj"
+        "name": "Whiskey On Whiskey",
+        "url": "https://open.spotify.com/album/1cb4T5ulohQQrgRiDkVPnO"
       },
       "artists": [
         {
-          "name": "HIXTAPE",
-          "url": "https://open.spotify.com/artist/4Y8LpEiP4uKTP02lSYEWJV"
+          "name": "Drew Green",
+          "url": "https://open.spotify.com/artist/7xZTozOYTK6YKaxcQxeBdP"
         },
         {
           "name": "HARDY",
           "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        },
-        {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
-        },
-        {
-          "name": "Chris Shiflett",
-          "url": "https://open.spotify.com/artist/5tv5SsSRqR7uLtpKZgcRrg"
         }
       ],
-      "duration_ms": 189153,
-      "name": "Goin\u2019 Nowhere (feat. HARDY, Morgan Wallen & Chris Shiflett)",
-      "url": "https://open.spotify.com/track/7G66MHMKZFlajn5iNiH8Uc"
+      "duration_ms": 168525,
+      "name": "Colorado (feat. HARDY)",
+      "url": "https://open.spotify.com/track/3ill9VgMqx02I8REhoXbLL"
     },
     {
       "added_at": null,
@@ -603,22 +603,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Body Language (Deluxe)",
-        "url": "https://open.spotify.com/album/6ObNVnYp53VJNtIcdo03WJ"
+        "name": "Father\u2019s S\u00f8n - Acoustic",
+        "url": "https://open.spotify.com/album/26IijVPURwviGtk84ZZoBN"
       },
       "artists": [
         {
-          "name": "Blake Shelton",
-          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
+          "name": "Stephen Wilson Jr.",
+          "url": "https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd"
         },
         {
           "name": "HARDY",
           "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
         }
       ],
-      "duration_ms": 192466,
-      "name": "Fire up the Night (feat. HARDY)",
-      "url": "https://open.spotify.com/track/5dHF4UXvJ70xefCqD2Wj9N"
+      "duration_ms": 272821,
+      "name": "Father\u2019s S\u00f8n - Acoustic",
+      "url": "https://open.spotify.com/track/2kfV0ZcYANdBXvfvGQGXUz"
     },
     {
       "added_at": null,
@@ -655,22 +655,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Father\u2019s S\u00f8n - Acoustic",
-        "url": "https://open.spotify.com/album/26IijVPURwviGtk84ZZoBN"
+        "name": "Body Language (Deluxe)",
+        "url": "https://open.spotify.com/album/6ObNVnYp53VJNtIcdo03WJ"
       },
       "artists": [
         {
-          "name": "Stephen Wilson Jr.",
-          "url": "https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd"
+          "name": "Blake Shelton",
+          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
         },
         {
           "name": "HARDY",
           "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
         }
       ],
-      "duration_ms": 272821,
-      "name": "Father\u2019s S\u00f8n - Acoustic",
-      "url": "https://open.spotify.com/track/2kfV0ZcYANdBXvfvGQGXUz"
+      "duration_ms": 192466,
+      "name": "Fire up the Night (feat. HARDY)",
+      "url": "https://open.spotify.com/track/5dHF4UXvJ70xefCqD2Wj9N"
     },
     {
       "added_at": null,
@@ -995,22 +995,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dear Joe,",
-        "url": "https://open.spotify.com/album/5S9KGKorBFNaLxpviyydiI"
+        "name": "WHERE TO FIND ME",
+        "url": "https://open.spotify.com/album/36XfuyICPjeP7EJVbuo7WF"
       },
       "artists": [
-        {
-          "name": "Jax",
-          "url": "https://open.spotify.com/artist/7DQYAz99eM3Y5PkP9WtUew"
-        },
         {
           "name": "HARDY",
           "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
         }
       ],
-      "duration_ms": 192367,
-      "name": "zombieland (feat. HARDY)",
-      "url": "https://open.spotify.com/track/5hTz0E9uieW4dl6YF34yMy"
+      "duration_ms": 207298,
+      "name": "I'LL QUIT LOVIN' YOU",
+      "url": "https://open.spotify.com/track/7CZzjj7siHfqvWnbSqEfXw"
     }
   ],
   "unique_name": "This Is HARDY",

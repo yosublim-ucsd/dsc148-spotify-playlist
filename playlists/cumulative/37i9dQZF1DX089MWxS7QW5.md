@@ -2,9 +2,9 @@
 
 ### [K\-R&B Now](https://open.spotify.com/playlist/37i9dQZF1DX089MWxS7QW5)
 
-> 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: Hannah Jang\(장한나\)\)
+> 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: Min Jiwoon\(민지운\)\)
 
-430 songs - 23 hr 28 min
+431 songs - 23 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -325,6 +325,7 @@
 | [Say My Name](https://open.spotify.com/track/2Sicd3C7DWxRN9KXpDJVFc) | [MORE](https://open.spotify.com/artist/3sG5lKhIKPneoceflZon1C) | [Say My Name](https://open.spotify.com/album/0FtfIPuIazFRQGTgl6vG4c) | 2:32 | 2024-06-17 | 2024-08-22 |
 | [Scent](https://open.spotify.com/track/1neROuQxafANebAEXLRFWf) | [oceanfromtheblue](https://open.spotify.com/artist/76eIrOIqck4yuOhrYZGx3a) | [Scent](https://open.spotify.com/album/3xgGdTJNMCDOb2KpqL5ul0) | 2:08 | 2023-01-18 | 2023-08-18 |
 | [Seed](https://open.spotify.com/track/49eleLPCqnwgBSICKgcL0z) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV) | [Down to Earth](https://open.spotify.com/album/6uMu4poce5OdMd1HYglZux) | 4:15 | 2023-05-05 | 2023-10-17 |
+| [Sentimental Love](https://open.spotify.com/track/3AXhW63USQmXX3d4Efzmdd) | [민지운](https://open.spotify.com/artist/5kgihglqsCaqCbtsJ0ef6v) | [Sentimental Love](https://open.spotify.com/album/32V9wJHI9Mt9vnYCiUuX9N) | 2:14 | 2024-10-04 |  |
 | [Shining on Your Night](https://open.spotify.com/track/0w8gFJyJ2QmNDsHYy0KEa6) | [Jinyoung](https://open.spotify.com/artist/0cA67OQaC4zDkxvGmWqKu7) | [YUMI's Cells 2, Pt\. 3 \(Original Television Soundtrack\)](https://open.spotify.com/album/5mwZc68D7ZattMx8VPUDLN) | 3:42 | 2022-07-04 | 2022-10-08 |
 | [SIDE](https://open.spotify.com/track/6tQxgxb63XBelPTNtD02I2) | [blessed.](https://open.spotify.com/artist/54Y80c5eEYbnlvCmIPKf6W) | [SIDE](https://open.spotify.com/album/6GO5T0RNrBgnwppYd0CLO3) | 3:50 | 2024-03-25 | 2024-08-02 |
 | [Sing for Love \(feat\. amin, Saula & H!\)](https://open.spotify.com/track/1L9RCVv1btqs0A75MKVmHP) | [merrymerryseoul](https://open.spotify.com/artist/5vePfIx5trgioIznzp2cuy), [amin](https://open.spotify.com/artist/05FbaV2QkbVQoHri4l491N), [Saula](https://open.spotify.com/artist/46GT1NQLJZsnVuxWKwuLET), [H!](https://open.spotify.com/artist/3gVpUJcNNDu43pV4xlzmyJ) | [I wanna be your deepest heart](https://open.spotify.com/album/7INMtslivPf4Op0LaJ8X6T) | 3:05 | 2023-09-08 | 2023-12-19 |

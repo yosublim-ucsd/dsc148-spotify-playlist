@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 
 > Solo artistas independientes, actualizada todos los miércoles\. Foto: trashi.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,930 likes - 60 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,953 likes - 60 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 | 59 | [un día](https://open.spotify.com/track/5JxJcYdnsTZB2jwGPdiOVr) | [verni](https://open.spotify.com/artist/6KIJGtygXkAq1Q0LuHcgGt) | [un día](https://open.spotify.com/album/5q2YrymkOfxvuMLkH7iiA0) | 2:40 |
 | 60 | [Playa de abril](https://open.spotify.com/track/3UNFFOTWgqtLCx3fgK5xHN) | [piojo](https://open.spotify.com/artist/67KTGLKqcV2giPRThlRF52) | [se me quemó la casa](https://open.spotify.com/album/0ksgWOzxtme571NDichVTi) | 3:12 |
 
-Snapshot ID: `Zvxw4AAAAADAjHdw/qTIq6VF3zs3Wvug`
+Snapshot ID: `Zv/FeQAAAAD4SfOI/WeZ0S4PceTI1PbC`

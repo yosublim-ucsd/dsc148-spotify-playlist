@@ -4,7 +4,7 @@
 
 > Club tracks and dancefloor essentials\. The best floor fillers\. Change your living room to a nightclub with these tracks!
 
-732 songs - 1 day 12 hr 42 min
+733 songs - 1 day 12 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -343,6 +343,7 @@
 | [Let Me Love You](https://open.spotify.com/track/1wuLKsmd4e8UwKb5T1Ss2n) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [Let Me Love You](https://open.spotify.com/album/3tFfD8hmcjfKCjfFZjR3Lp) | 2:27 | 2023-09-22 | 2023-12-23 |
 | [Let Me Think About It Again](https://open.spotify.com/track/4J4Fk7x2y8jQBxm332n0oY) | [Showtek](https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7), [Ida Corr](https://open.spotify.com/artist/30ut8L4gmEz4vNr1zNhpbh) | [Let Me Think About It Again](https://open.spotify.com/album/5BiDACecOtLeeDR7ElF7zz) | 3:15 | 2023-09-08 | 2023-12-23 |
 | [Let's Get Jack](https://open.spotify.com/track/1yB2wsHFZfeMHoD5GclFAq) | [Wade](https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR) | [Let's Get Jack](https://open.spotify.com/album/6WH9b8YDdMxFwXTFqpaqIL) | 3:22 | 2024-04-12 | 2024-04-26 |
+| [Let's Go Dancing](https://open.spotify.com/track/5se4SpUxbStmWGZngKWqLU) | [Layton Giordani](https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4), [Tiga](https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC), [Audion](https://open.spotify.com/artist/1ygSVTF0A998n2Z3nmLei8) | [Let's Go Dancing](https://open.spotify.com/album/3ey1jQ8gUe2E8KRT8Flfjv) | 3:48 | 2024-10-04 |  |
 | [Let's Go Dancing](https://open.spotify.com/track/0YKEHiqRlU6347BTqofCni) | [VNSSA](https://open.spotify.com/artist/6fjbZ7zQBYEy3kvB5JL5PM) | [Let's Go Dancing](https://open.spotify.com/album/7yomCnMwuxDBz7a9Zv9ekM) | 3:08 | 2023-10-26 |  |
 | [Levitate](https://open.spotify.com/track/1Kbbyf7ptwd1R43cSWrBmR) | [BZRK](https://open.spotify.com/artist/5DOnC6OSQcnXYOPhNo3sxk) | [Levitate](https://open.spotify.com/album/3WrIGOYUdVNrdAdgVwMdxF) | 2:44 | 2024-04-26 |  |
 | [Libre](https://open.spotify.com/track/4E7QloZyOgGP35MIiogYj2) | [Charles B](https://open.spotify.com/artist/1r2acF91AoYoHYrQYY9wCO), [G4BBA](https://open.spotify.com/artist/1P4pmBbuQwsKKV39MfzGVd), [Coopex](https://open.spotify.com/artist/3UV0wVQkft6lKLDGioqnyO) | [Libre](https://open.spotify.com/album/3MXymmqjjWTmwOjSLQaGiI) | 2:01 | 2023-02-12 | 2023-04-13 |

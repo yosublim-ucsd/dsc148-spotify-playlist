@@ -1386,6 +1386,24 @@
     {
       "album": {
         "name": "The Secret of Us",
+        "url": "https://open.spotify.com/album/4XXTsu7r9865VvXdvF2iQP"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157138,
+      "name": "I Love You, I'm Sorry",
+      "url": "https://open.spotify.com/track/7lds2u3vnXRR23K4llVwmm"
+    },
+    {
+      "album": {
+        "name": "The Secret of Us",
         "url": "https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl"
       },
       "artists": [
@@ -1396,7 +1414,7 @@
       ],
       "date_added": "2024-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 157146,
       "name": "I Love You, I'm Sorry",
       "url": "https://open.spotify.com/track/51rfRCiUSvxXlCSCfIztBy"
@@ -2568,6 +2586,24 @@
       "duration_ms": 208517,
       "name": "Running",
       "url": "https://open.spotify.com/track/1TX83ZAjBcPPch8iy0aNve"
+    },
+    {
+      "album": {
+        "name": "Sailor Song",
+        "url": "https://open.spotify.com/album/68CN2LzY8MoxO2udy2C22e"
+      },
+      "artists": [
+        {
+          "name": "Gigi Perez",
+          "url": "https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211978,
+      "name": "Sailor Song",
+      "url": "https://open.spotify.com/track/2262bWmqomIaJXwCRHr13j"
     },
     {
       "album": {

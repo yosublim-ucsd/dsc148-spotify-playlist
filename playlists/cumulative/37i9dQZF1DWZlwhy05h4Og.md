@@ -2,9 +2,9 @@
 
 ### [SUGAR](https://open.spotify.com/playlist/37i9dQZF1DWZlwhy05h4Og)
 
-> The sweetest bops\. Cover: LE SSERAFIM
+> The sweetest bops\. Cover: MEOVV
 
-192 songs - 9 hr 31 min
+193 songs - 9 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Boys Like You](https://open.spotify.com/track/34y2pV3RGFiCHSP12bNHVk) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Boys Like You](https://open.spotify.com/album/1KYgerdWcEqB7KbppYtdXU) | 3:43 | 2023-03-22 | 2023-08-19 |
 | [Break My Heart Myself \(feat\. YEJI & RYUJIN of ITZY\)](https://open.spotify.com/track/5Av4jZOAbtY8STz7KPsNDB) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3), [YEJI & RYUJIN of ITZY](https://open.spotify.com/artist/4TYswX6bKUjM9rbEL7CMBH) | [Break My Heart Myself \(feat\. YEJI & RYUJIN of ITZY\)](https://open.spotify.com/album/6nHECY2OnWXVmd4QjGhJEm) | 2:42 | 2023-03-22 |  |
 | [CAKE](https://open.spotify.com/track/3syxwxJqX5jpgjNYmvzdW6) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [KILL MY DOUBT](https://open.spotify.com/album/6P01cKb7sdwfnNpuMLNEik) | 3:18 | 2023-08-04 | 2024-01-11 |
-| [Can't Complain](https://open.spotify.com/track/1vDMeYgFqDeicy8OtIr9nB) | [Chase Behar](https://open.spotify.com/artist/28B346ru2FJIXLEW859YbG) | [Can't Complain](https://open.spotify.com/album/0nRdDiS1USIQgFr0fCLhQL) | 2:40 | 2024-07-05 |  |
+| [Can't Complain](https://open.spotify.com/track/1vDMeYgFqDeicy8OtIr9nB) | [Chase Behar](https://open.spotify.com/artist/28B346ru2FJIXLEW859YbG) | [Can't Complain](https://open.spotify.com/album/0nRdDiS1USIQgFr0fCLhQL) | 2:40 | 2024-07-05 | 2024-10-05 |
 | [Cardboard Box](https://open.spotify.com/track/2rf9i0Enr8cw1JRME8Rsvq) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Cardboard Box](https://open.spotify.com/album/51OgsspyNulg111Dti5Sdj) | 2:41 | 2023-03-22 | 2024-07-06 |
 | [Caught in Your Love](https://open.spotify.com/track/2xpbZxV34gnvg3QwUvG370) | [Boys World](https://open.spotify.com/artist/0YgZTREOQz8oOGVABXEoXi) | [Caught in Your Love](https://open.spotify.com/album/4fNIHOD3cYbbTT09tGt8xH) | 2:18 | 2024-04-12 |  |
 | [Chasin' \(feat\. Meghan Trainor\)](https://open.spotify.com/track/4FtJXKZofhG9jt9reeahSg) | [Paris Hilton](https://open.spotify.com/artist/1vkJFCwstOoJO7yQ4lTtLK), [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Chasin' \(feat\. Meghan Trainor\)](https://open.spotify.com/album/5GzcpXxpQsBKJGPX2oDvvj) | 3:17 | 2024-07-26 |  |
@@ -86,7 +86,7 @@
 | [Gone Girl](https://open.spotify.com/track/2VUXv03kwwet6EXIFn9ykA) | [Boys World](https://open.spotify.com/artist/0YgZTREOQz8oOGVABXEoXi) | [Gone Girl](https://open.spotify.com/album/3Dso0eUbQmuZFgLX5rN2sd) | 2:32 | 2023-10-27 | 2024-07-06 |
 | [GRL GVNG](https://open.spotify.com/track/5OqMZ8In8CkCa0SbknnDPl) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [GRL GVNG](https://open.spotify.com/album/0s6tMsTvOqtqmFxJogsIJS) | 3:08 | 2023-06-30 | 2023-09-28 |
 | [Hare Hare](https://open.spotify.com/track/0h3dJV8JA5oxPzSF4tkz2t) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Hare Hare](https://open.spotify.com/album/0ymqvaOiilJa797C3Y2mZh) | 3:23 | 2023-05-12 | 2024-02-03 |
-| [Harleys In Hawaii](https://open.spotify.com/track/5nCthAh3jt4xKuLJAifAaR) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Harleys In Hawaii](https://open.spotify.com/album/30UjBkRwwBeCdspCGPBB8V) | 3:05 | 2023-03-22 |  |
+| [Harleys In Hawaii](https://open.spotify.com/track/5nCthAh3jt4xKuLJAifAaR) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Harleys In Hawaii](https://open.spotify.com/album/30UjBkRwwBeCdspCGPBB8V) | 3:05 | 2023-03-22 | 2024-10-05 |
 | [Hold On Tight](https://open.spotify.com/track/1o844wI52S3TjXGBwvGcc7) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Hold On Tight](https://open.spotify.com/album/4bWGRs1SqNwFXaRDXRAANN) | 2:29 | 2023-03-31 |  |
 | [Hot Mess](https://open.spotify.com/track/1SaLI6o5GhfcaxPVAJoD3r) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Hot Mess](https://open.spotify.com/album/2PvpuCui1GVO8DkFcCHzYU) | 3:12 | 2024-07-05 |  |
 | [Hype Boy](https://open.spotify.com/track/0a4MMyCrzT0En247IhqZbD) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 1st EP 'New Jeans'](https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV) | 2:59 | 2023-03-22 | 2023-05-13 |
@@ -125,6 +125,7 @@
 | [me, my girls & i](https://open.spotify.com/track/2K7CqNeCpbO0RoD4bAZ5tU) | [Boys World](https://open.spotify.com/artist/0YgZTREOQz8oOGVABXEoXi) | [me, my girls & i](https://open.spotify.com/album/1P0f6gRBid1YPgdkMtaWij) | 2:29 | 2023-06-02 | 2023-10-28 |
 | [MEOW](https://open.spotify.com/track/72gPDy1zVt95zVNali0IhK) | [MEOVV](https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv) | [MEOW](https://open.spotify.com/album/7mtt73Ch1hIRXT5qScF4s5) | 2:52 | 2024-09-06 |  |
 | [MOONLIGHT SUNRISE](https://open.spotify.com/track/5NcLyVjUgG0yfwHgr5t81w) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [MOONLIGHT SUNRISE](https://open.spotify.com/album/3Haj0Fa9S49LCeYcOiODcL) | 3:00 | 2023-03-22 | 2024-04-13 |
+| [Moonlit Floor](https://open.spotify.com/track/3yDRcs0Y4pPzkvMbUfeF9H) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Moonlit Floor](https://open.spotify.com/album/2F84s5tvr9RSS6VI772mVb) | 2:35 | 2024-10-04 |  |
 | [Mr Right \(with Meghan Trainor\)](https://open.spotify.com/track/0nNARbTLwzLGz51aUEZPnp) | [Mae Stephens](https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E), [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Mr Right \(with Meghan Trainor\)](https://open.spotify.com/album/1AkVEhlI2czYOj5h0f2xDH) | 2:47 | 2023-08-04 | 2023-10-28 |
 | [MY DREAM](https://open.spotify.com/track/3Ai9IjVhRy5eMWFQ3luIG6) | [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx) | [MY DREAM](https://open.spotify.com/album/2wrsym38hvB4Wp9BYkCQxS) | 3:35 | 2023-03-22 | 2023-08-19 |
 | [No Business On The Dancefloor](https://open.spotify.com/track/47EttOPfJblOFsztpSseEm) | [Keira](https://open.spotify.com/artist/5DEU6xCvrSgrpI5GsMFZng) | [No Business On The Dancefloor](https://open.spotify.com/album/2PBGkaNBeBpkHedZ9J7eXH) | 2:47 | 2023-03-22 | 2024-03-16 |
@@ -147,7 +148,7 @@
 | [positions](https://open.spotify.com/track/35mvY5S1H3J2QZyna3TFe0) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Positions](https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd) | 2:52 | 2023-03-22 | 2024-03-16 |
 | [Potential Breakup Song](https://open.spotify.com/track/6fyzsHCwnt8oL4XgGIMrdN) | [Aly & AJ](https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i) | [Potential Breakup Song](https://open.spotify.com/album/49mFTJkOKu0labagCQyURy) | 3:38 | 2023-03-22 |  |
 | [Pretty Boys](https://open.spotify.com/track/698ehyxjqZ7i06vUJQFviN) | [Caity Baser](https://open.spotify.com/artist/7dJCdUO0l0K2WXzrzjYpmC) | [Thanks For Nothing, See You Never](https://open.spotify.com/album/3z0cezSSci6BbzON9y9LXc) | 2:20 | 2023-03-22 | 2024-08-31 |
-| [Pretty Girl Era](https://open.spotify.com/track/3w6JB9UckmYZBn4Tsq2kpM) | [LU KALA](https://open.spotify.com/artist/5R1cUyk9ysrruOo4ErpGjg) | [Pretty Girl Era](https://open.spotify.com/album/6G32ymoo3YjIUKVMGIKJUY) | 2:35 | 2023-03-22 |  |
+| [Pretty Girl Era](https://open.spotify.com/track/3w6JB9UckmYZBn4Tsq2kpM) | [LU KALA](https://open.spotify.com/artist/5R1cUyk9ysrruOo4ErpGjg) | [Pretty Girl Era](https://open.spotify.com/album/6G32ymoo3YjIUKVMGIKJUY) | 2:35 | 2023-03-22 | 2024-10-05 |
 | [PUPPET SHOW](https://open.spotify.com/track/7sDkXyDikXhpRz715MdiEp) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [NEW DNA](https://open.spotify.com/album/5ltOyfF29bg84gvBJPLOgj) | 3:19 | 2023-09-27 | 2024-07-06 |
 | [Queencard](https://open.spotify.com/track/4uOBL4DDWWVx4RhYKlPbPC) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I feel](https://open.spotify.com/album/3PQZnr5gf699uYEaGH93uG) | 2:41 | 2023-05-15 | 2024-04-13 |
 | [Read your Mind](https://open.spotify.com/track/4Wos0h9ECU2Z3oJMTQxpbc) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can't send](https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz) | 3:27 | 2023-03-22 | 2024-04-13 |

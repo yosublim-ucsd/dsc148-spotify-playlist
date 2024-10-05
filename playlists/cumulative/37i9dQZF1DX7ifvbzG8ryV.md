@@ -2,9 +2,9 @@
 
 ### [GLOW Songwriters](https://open.spotify.com/playlist/37i9dQZF1DX7ifvbzG8ryV)
 
-> From the LGBTQIA+ songwriters that make the music happen\. This month's cover: <a href="spotify:artist:6oSTtYd3B3OJubFU8mVhHQ">JHart</a>
+> From the LGBTQIA+ songwriters that make the music happen\. This month's cover: <a href="spotify:artist:6mNtYUHVwuFUmiTYPiRKFw">Ghostryder</a>
 
-60 songs - 3 hr 24 min
+65 songs - 3 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Champagne Coast](https://open.spotify.com/track/3JKpzoLnIP2UVcinkb3eOf) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Champagne Coast](https://open.spotify.com/album/5UVv2D9UGTTUr969JVzoUq) | 4:52 | 2024-06-04 |  |
 | [chasing the bus](https://open.spotify.com/track/2nvb9TWAONy5kzsqEUyT2z) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT) | [chasing the bus](https://open.spotify.com/album/1YT9NhBcdQG2dlWouHhaSp) | 3:08 | 2024-03-27 |  |
 | [Come Back To Life](https://open.spotify.com/track/062C1QjfQc42gk1VjZyRtN) | [SKAAR](https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ) | [Mad Woman](https://open.spotify.com/album/1jG11sbwvgBovDtIvWMQlq) | 3:32 | 2024-06-04 |  |
+| [Dandelion](https://open.spotify.com/track/3bqmErC7qZn0BMQHGfnxby) | [JAEHYUN](https://open.spotify.com/artist/0qQI2kmsvSe2ex9k94T5vu) | [Roses/Dandelion](https://open.spotify.com/album/6cKYPQdKPYElQMIQfZD8z3) | 2:30 | 2024-10-04 |  |
 | [Everglades](https://open.spotify.com/track/1NbOtqGrqZn57jryxVXeSn) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Everglades](https://open.spotify.com/album/7cPOTKMqiMjvtYvmJXXEbB) | 3:43 | 2024-03-27 |  |
 | [Father's Son](https://open.spotify.com/track/4U1vvzrtgWiBZZGsylNaLn) | [JHart](https://open.spotify.com/artist/6oSTtYd3B3OJubFU8mVhHQ) | [The Wishing, The Wanting, The Longing](https://open.spotify.com/album/4Fks75uJTwftRTJRFlBRkl) | 3:54 | 2024-03-27 | 2024-08-29 |
 | [For Forever \(From "Dear Evan Hansen"\)](https://open.spotify.com/track/5NIUbwidSGYpktALK89hey) | [Benj Pasek](https://open.spotify.com/artist/0qKRRwXdVtrVIEdPFr8vvo) | [Behind the Curtain \- Broadway Composers & Lyricists Sing Their Songs](https://open.spotify.com/album/0YXUWVX1yF2VP8H0llWQTS) | 5:02 | 2024-03-27 | 2024-06-05 |
@@ -36,6 +37,7 @@
 | [Higher \(Ty Sunderland Remix\)](https://open.spotify.com/track/3hJnH01oKI2NQKNp4x1ZrM) | [VINCINT](https://open.spotify.com/artist/6glcVV5wCi1hU4nxqJItqd), [Ty Sunderland](https://open.spotify.com/artist/31JqNN8V3p95rXgJ7WjeOI) | [Higher \(Ty Sunderland Remix\)](https://open.spotify.com/album/5n6ZV6vOBb1pOmVWJ1MLNj) | 3:40 | 2024-03-27 |  |
 | [Hollywood's Not America \- Matrix Version](https://open.spotify.com/track/5wizvr1JlRR3XWmKkOmEtV) | [Ferras](https://open.spotify.com/artist/3ZajykUFFll0Xwgal0fQfO) | [Aliens & Rainbows](https://open.spotify.com/album/2fYGqY3ELfZ5goVJJjXIWi) | 3:15 | 2024-03-27 |  |
 | [I Don't Wanna Hear Anything Is Wrong](https://open.spotify.com/track/4fHsZtCBC2QsETMLxlm0ki) | [Matias Mora](https://open.spotify.com/artist/7cPDCjz53xa2E5zYTWNpIb) | [Basic Rich](https://open.spotify.com/album/3TgHWdvJyjcrFnentt9jDf) | 2:41 | 2024-03-27 |  |
+| [Indie Alt Boys](https://open.spotify.com/track/7JlVmQxB13lLM2mqfDa5fu) | [Ghostryder](https://open.spotify.com/artist/6mNtYUHVwuFUmiTYPiRKFw) | [Indie Alt Boys](https://open.spotify.com/album/3o4jtOwM01CSf6r9gbzabz) | 2:49 | 2024-10-04 |  |
 | [Let Them \(It's All Love\)](https://open.spotify.com/track/6YxYTXQN4trhMHSAFMj4iC) | [Tom Aspaul](https://open.spotify.com/artist/413Q41cUdyDSRGezXozb54) | [Life In Plastic](https://open.spotify.com/album/6u5RnuC327BY3arCzImhm0) | 3:03 | 2024-03-27 | 2024-06-05 |
 | [Little Fires](https://open.spotify.com/track/5DqueuZvSp6DQGg855Eez4) | [Parson James](https://open.spotify.com/artist/48sLioddyaXkuhyHXSkpsB) | [Little Fires \(Sistek Remix\)](https://open.spotify.com/album/6UvuV94S0gPUf7cbyGubw5) | 3:18 | 2024-03-27 |  |
 | [Love On Repeat](https://open.spotify.com/track/4IOhOvxeaI9rhYbdpb0xUF) | [SAKIMA](https://open.spotify.com/artist/2tg1rWk2rWaltTk0baRjRu) | [Love On Repeat](https://open.spotify.com/album/0f2TR4e0rXqQ4HfiEEunLW) | 2:09 | 2024-03-27 | 2024-06-05 |
@@ -49,6 +51,7 @@
 | [One Time](https://open.spotify.com/track/0tWzCEYjVzFQtcGfMXuaWb) | [Vindata](https://open.spotify.com/artist/1Vxf1UfzcxqzqItoOA0DDT), [Kaydence](https://open.spotify.com/artist/1LSEHcEojfn4kn3z1KkRP2) | [One Time](https://open.spotify.com/album/1IVfi5Dr68MXxiphQShO5p) | 4:22 | 2024-03-27 |  |
 | [Only Lonely](https://open.spotify.com/track/310QXrjCNF3IAzquz1lS40) | [Alex Hope](https://open.spotify.com/artist/4vYPr06Tg8byX6r8i2Q3rP) | [Tina Arena \(Greatest Hits & Interpretations\)](https://open.spotify.com/album/46uy7fPI5aTSeZ9gyuAg0t) | 3:27 | 2024-03-27 |  |
 | [Only Sorry](https://open.spotify.com/track/1Kriq5ncfgGwoZ4evrIPC5) | [Arlissa](https://open.spotify.com/artist/7wzaSKTsjE9HnuDuZTX452) | [Only Sorry](https://open.spotify.com/album/2a12VHkgSHMoPQP4jhVU3M) | 3:10 | 2024-03-27 |  |
+| [Pretender](https://open.spotify.com/track/209ANSkGIsfA5M5GewdMGi) | [Carlie Hanson](https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR) | [Wisconsin](https://open.spotify.com/album/31RR4pZy65rFv65pX37zyG) | 2:08 | 2024-10-04 |  |
 | [Rush](https://open.spotify.com/track/4ZnkygoWLzcGbQYCm3lkae) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Something To Give Each Other](https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E) | 2:36 | 2024-08-28 |  |
 | [Say My Name](https://open.spotify.com/track/2P1kNZVpnEuVBnkeozS1iU) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [This World Fucking Sucks](https://open.spotify.com/album/2PqUPBcCT4mR9CTZXEmg1B) | 2:42 | 2024-08-28 |  |
 | [Somewhere With You](https://open.spotify.com/track/5qDzMkr3H14W0j6XAT5Mjl) | [Shane McAnally](https://open.spotify.com/artist/0DxKYZItTwmdZYicUhm05C) | [Original Songwriter Demos](https://open.spotify.com/album/4pntx2ihrs8TnmGP1QmDSA) | 3:13 | 2024-03-27 |  |
@@ -57,7 +60,9 @@
 | [Teenage Craze](https://open.spotify.com/track/0YHQir43vZDV4I8M1GP1aZ) | [KLOE](https://open.spotify.com/artist/0Olr5bDiMEkn5Z9eQwUIAq) | [Teenage Craze \- EP](https://open.spotify.com/album/3dI5C5vKok81IYSSPY97Xx) | 3:45 | 2024-03-27 | 2024-06-05 |
 | [Teenage Craze](https://open.spotify.com/track/5384G2YXgXksvoPOWJMGEB) | [KLOE](https://open.spotify.com/artist/0Olr5bDiMEkn5Z9eQwUIAq) | [Teenage Craze](https://open.spotify.com/album/3mgiInwKb3TmGaThM0dl9H) | 3:45 | 2024-03-27 | 2024-04-19 |
 | [Tell It To My Heart](https://open.spotify.com/track/4UIE7f7D2BoaMsjN57vv3y) | [Kieran Armitage](https://open.spotify.com/artist/3RCjhGXVQU0PhGNCmcIMF4), [Joe Morrison](https://open.spotify.com/artist/1khFPCSu6aoMnPAaIoqCmp) | [Tell It To My Heart](https://open.spotify.com/album/14Vl2hwHjKMfI6ek3FOezl) | 3:09 | 2024-03-27 | 2024-06-05 |
+| [Terrified](https://open.spotify.com/track/2eHfoMJkgkiphZjmTjEY8w) | [Debbii Dawson](https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh) | [Learning](https://open.spotify.com/album/554MxT5oLIyLo2fX5Ed0ld) | 3:57 | 2024-10-04 |  |
 | [The Village](https://open.spotify.com/track/6epvwUINain4iSHCTWA0sj) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [The Village](https://open.spotify.com/album/1tVsOrPK4fwQB6kN7jIZxy) | 3:50 | 2024-03-27 |  |
+| [Things Won't Go My Way](https://open.spotify.com/track/4YcsQjc0ENUD0TQO1q1IPL) | [Peach Tree Rascals](https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe) | [Things Won't Go My Way](https://open.spotify.com/album/4CTb2mxsBAFLUL1f1Wq4wC) | 2:50 | 2024-10-04 |  |
 | [Thunda Thighs](https://open.spotify.com/track/6s8IJGj8S8KQtAugPz590O) | [Moonchild Sanelly](https://open.spotify.com/artist/6aDX1jzNVAI9enlQzW0Pgw) | [Thunda Thighs](https://open.spotify.com/album/24HIJnSXvGvpACPPQOAbO7) | 4:26 | 2024-03-27 |  |
 | [TRYNA NOT MISS ME](https://open.spotify.com/track/0AUKa9mzJ9hH6YotIO84td) | [kennedi](https://open.spotify.com/artist/5eWCWtbcFDjLGPisPgqcy8) | [TRYNA NOT MISS ME](https://open.spotify.com/album/3N7HSIsXdyBT0rHGXEGEzg) | 2:41 | 2024-08-28 |  |
 | [Unfinished](https://open.spotify.com/track/2z1qAkmyeZgKSWqruUuufl) | [Peter Thomas](https://open.spotify.com/artist/2MhPVBzM72QjbQPhybKjyr), [your friend polly](https://open.spotify.com/artist/7BMiTAo49FakImrjEyEFFN) | [Unfinished](https://open.spotify.com/album/54f036fGtMuSs8TrxqGlI2) | 2:10 | 2024-03-27 | 2024-06-05 |

@@ -1,6 +1,6 @@
 {
   "description": "Pronto pra pool party? Vem com a gente!",
-  "num_followers": 333826,
+  "num_followers": 333833,
   "original_name": "Festa na Piscina",
   "owner": {
     "name": "Spotify",
@@ -1127,6 +1127,26 @@
     {
       "added_at": "2023-01-17 01:33:36",
       "album": {
+        "name": "Permanecer (feat. MC G15)",
+        "url": "https://open.spotify.com/album/5w9U9duIPCVzHmgzEQWeZX"
+      },
+      "artists": [
+        {
+          "name": "Lucas Lucco",
+          "url": "https://open.spotify.com/artist/06cd30Cv9US973Ika84gDw"
+        },
+        {
+          "name": "MC G15",
+          "url": "https://open.spotify.com/artist/3Nipsl6GVwwGyeAk0J29C6"
+        }
+      ],
+      "duration_ms": 202521,
+      "name": "Permanecer (feat. MC G15)",
+      "url": "https://open.spotify.com/track/3sIMCkwUZbQbWeNOTG3ET4"
+    },
+    {
+      "added_at": "2023-01-17 01:33:36",
+      "album": {
         "name": "Solta a batida",
         "url": "https://open.spotify.com/album/37ENHzff2cXEOqVbJ4WjY4"
       },
@@ -1155,26 +1175,6 @@
       "duration_ms": 203894,
       "name": "Pra voc\u00ea acreditar - Ao vivo",
       "url": "https://open.spotify.com/track/2M9RqfIzNKzN1EoedTWEWz"
-    },
-    {
-      "added_at": "2023-01-17 01:33:36",
-      "album": {
-        "name": "Permanecer (feat. MC G15)",
-        "url": "https://open.spotify.com/album/5w9U9duIPCVzHmgzEQWeZX"
-      },
-      "artists": [
-        {
-          "name": "Lucas Lucco",
-          "url": "https://open.spotify.com/artist/06cd30Cv9US973Ika84gDw"
-        },
-        {
-          "name": "MC G15",
-          "url": "https://open.spotify.com/artist/3Nipsl6GVwwGyeAk0J29C6"
-        }
-      ],
-      "duration_ms": 202521,
-      "name": "Permanecer (feat. MC G15)",
-      "url": "https://open.spotify.com/track/3sIMCkwUZbQbWeNOTG3ET4"
     },
     {
       "added_at": "2023-01-17 01:33:36",
@@ -1295,26 +1295,18 @@
     {
       "added_at": "2023-01-17 01:33:36",
       "album": {
-        "name": "Deixe-Me Ir (Kiko Franco e Woak Remix)",
-        "url": "https://open.spotify.com/album/6zG3uIr7njYZBzXe2s2juU"
+        "name": "Pirata e tesouro (Ao vivo)",
+        "url": "https://open.spotify.com/album/7CRx2qo53oZiaycSmsxwsm"
       },
       "artists": [
         {
-          "name": "1Kilo",
-          "url": "https://open.spotify.com/artist/6E2st8OqIaS7PU5gj95FSE"
-        },
-        {
-          "name": "Kiko Franco",
-          "url": "https://open.spotify.com/artist/3SNKZ8uTQoSyMsUNqNBOD2"
-        },
-        {
-          "name": "WOAK",
-          "url": "https://open.spotify.com/artist/0YlRs4DoQ4WctkmsbUUpBb"
+          "name": "Ferrugem",
+          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
         }
       ],
-      "duration_ms": 214462,
-      "name": "Deixe-Me Ir - Kiko Franco e Woak Remix",
-      "url": "https://open.spotify.com/track/19kNNsdVTF4Bq06Oxv8WhT"
+      "duration_ms": 219592,
+      "name": "Pirata e tesouro - Ao vivo",
+      "url": "https://open.spotify.com/track/4gOgVYsfTUNp8GifD8GI7e"
     }
   ],
   "unique_name": "Festa na Piscina",

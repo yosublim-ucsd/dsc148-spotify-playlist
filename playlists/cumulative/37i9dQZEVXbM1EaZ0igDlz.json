@@ -16,7 +16,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 105331,
       "name": "1994",
       "url": "https://open.spotify.com/track/5QllDVWTd3lOLcceZsekwX"
@@ -314,7 +314,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-04",
+      "date_removed": null,
       "duration_ms": 244360,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/3JvKfv6T31zO0ini8iNItO"
@@ -350,7 +350,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 244360,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ"
@@ -496,7 +496,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 123640,
       "name": "a\u00e7 bleiben",
       "url": "https://open.spotify.com/track/7xLbQTeLpeqlxxTPLSiM20"
@@ -918,6 +918,24 @@
       "duration_ms": 186479,
       "name": "Blue Porsche (feat. Niska)",
       "url": "https://open.spotify.com/track/3gOVMei7c4BD6oIfed24dc"
+    },
+    {
+      "album": {
+        "name": "Bossbaby Tape",
+        "url": "https://open.spotify.com/album/5GWhPUtYOpjZo28JNQaFzq"
+      },
+      "artists": [
+        {
+          "name": "Souly",
+          "url": "https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97391,
+      "name": "Bundeswehr",
+      "url": "https://open.spotify.com/track/5JLbgRkto4OrrkWgAHcJZT"
     },
     {
       "album": {
@@ -1536,7 +1554,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-21",
+      "date_removed": null,
       "duration_ms": 249600,
       "name": "Don't Stop Believin' (2022 Remaster)",
       "url": "https://open.spotify.com/track/5RKQ5NdjSh2QzD4MaunT91"
@@ -1671,6 +1689,24 @@
     },
     {
       "album": {
+        "name": "Short n' Sweet",
+        "url": "https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175459,
+      "name": "Espresso",
+      "url": "https://open.spotify.com/track/2HRqTpkrJO5ggZyyK6NPWz"
+    },
+    {
+      "album": {
         "name": "Espresso",
         "url": "https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4"
       },
@@ -1682,7 +1718,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 175459,
       "name": "Espresso",
       "url": "https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75"
@@ -1776,7 +1812,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-21",
+      "date_removed": null,
       "duration_ms": 162106,
       "name": "Faint",
       "url": "https://open.spotify.com/track/4Yf5bqU3NK4kNOypcrLYwU"
@@ -2844,7 +2880,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 150000,
       "name": "Ich bring dir keine Blumen",
       "url": "https://open.spotify.com/track/4oevkKHMUdSJkCspP2ebAE"
@@ -3222,7 +3258,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 132000,
       "name": "Leave It - Solven Remix",
       "url": "https://open.spotify.com/track/6BfKdypkSis6aTgNTHpMmz"
@@ -3292,6 +3328,24 @@
       "duration_ms": 193091,
       "name": "LET'S GO",
       "url": "https://open.spotify.com/track/5YU6E3o8PGh6MoqVIyOBih"
+    },
+    {
+      "album": {
+        "name": "LID",
+        "url": "https://open.spotify.com/album/7KAE2VKLE6BMQIvhri7Ylf"
+      },
+      "artists": [
+        {
+          "name": "LACAZETTE",
+          "url": "https://open.spotify.com/artist/7rBed6Ya7Hwa2fXbh5btJE"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144516,
+      "name": "LID",
+      "url": "https://open.spotify.com/track/5U8jvRKKzcc3XjBB2CNZaZ"
     },
     {
       "album": {
@@ -4046,7 +4100,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-14",
+      "date_removed": null,
       "duration_ms": 86983,
       "name": "NIGHTS LIKE THIS",
       "url": "https://open.spotify.com/track/1XBYiRV30ykHw5f4wm6qEn"
@@ -4734,7 +4788,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 206259,
       "name": "RED CUPS (feat. Paula Hartmann)",
       "url": "https://open.spotify.com/track/4MQEO1kn7nPytvAImsLyzs"
@@ -5432,7 +5486,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 165313,
       "name": "Subhanallah",
       "url": "https://open.spotify.com/track/6qzetQfgRVyAGEg8QhqzYD"
@@ -5472,7 +5526,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-04",
+      "date_removed": null,
       "duration_ms": 240400,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
@@ -5490,7 +5544,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 240426,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/0cQVqPuHQP4KEwc7ZUQmj6"
@@ -5938,6 +5992,28 @@
       "duration_ms": 206142,
       "name": "Time",
       "url": "https://open.spotify.com/track/32QpSQhOWrFbSYOEVvXV8F"
+    },
+    {
+      "album": {
+        "name": "Timeless",
+        "url": "https://open.spotify.com/album/2IRxVVqbSbqHJo8Zx50LYn"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256000,
+      "name": "Timeless (with Playboi Carti)",
+      "url": "https://open.spotify.com/track/1Es7AUAhQvapIcoh3qMKDL"
     },
     {
       "album": {

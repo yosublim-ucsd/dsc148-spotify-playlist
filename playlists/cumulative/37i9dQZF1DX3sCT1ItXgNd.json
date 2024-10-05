@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-20",
-  "description": "Lo mejor del pop en espa\u00f1ol. Foto: Dani Fern\u00e1ndez",
+  "description": "Lo mejor del pop en espa\u00f1ol. Foto: Kapo, Manuel Turizo",
   "name": "Pop con \u00d1",
   "tracks": [
     {
@@ -383,6 +383,24 @@
     },
     {
       "album": {
+        "name": "MOTEL",
+        "url": "https://open.spotify.com/album/6kxmI5IXzefHAoXao1oFeI"
+      },
+      "artists": [
+        {
+          "name": "Paula Koops",
+          "url": "https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150240,
+      "name": "ah ah",
+      "url": "https://open.spotify.com/track/03PINrLIFJP9YSHSqel4S6"
+    },
+    {
+      "album": {
         "name": "Ahora Que No Te Tengo",
         "url": "https://open.spotify.com/album/62AI6DFXsSSVWV5l0ZBOVl"
       },
@@ -576,7 +594,7 @@
       ],
       "date_added": "2024-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 136791,
       "name": "AMALFI",
       "url": "https://open.spotify.com/track/5dZWpk7YHEY9EqhXJRLlsf"
@@ -972,7 +990,7 @@
       ],
       "date_added": "2024-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 185546,
       "name": "Bailarina",
       "url": "https://open.spotify.com/track/3MTzCXM4r6yTOLhiuIaRfh"
@@ -1518,6 +1536,28 @@
       "duration_ms": 243806,
       "name": "Casanova",
       "url": "https://open.spotify.com/track/0qZhK4gFB5c1Wxsnd6WA8U"
+    },
+    {
+      "album": {
+        "name": "Catira (feat. Neutro Shorty)",
+        "url": "https://open.spotify.com/album/5N4avOZpzaFrMbB2XJrsCY"
+      },
+      "artists": [
+        {
+          "name": "ELENA ROSE",
+          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
+        },
+        {
+          "name": "Neutro Shorty",
+          "url": "https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184040,
+      "name": "Catira (feat. Neutro Shorty)",
+      "url": "https://open.spotify.com/track/1RrkjcfPa9p4ZCo2fL5qnE"
     },
     {
       "album": {
@@ -2256,7 +2296,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 164599,
       "name": "Cupido",
       "url": "https://open.spotify.com/track/6h3U07z62eGIuyOprHwzgZ"
@@ -3605,6 +3645,28 @@
     },
     {
       "album": {
+        "name": "Espacio en Tu Coraz\u00f3n (Remix)",
+        "url": "https://open.spotify.com/album/0QbMnLTWFzzs9qiyUJ4Eco"
+      },
+      "artists": [
+        {
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+        },
+        {
+          "name": "Ana Mena",
+          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179271,
+      "name": "Espacio en Tu Coraz\u00f3n - Remix",
+      "url": "https://open.spotify.com/track/7umNc6U2AVcL0RwQIi7xZG"
+    },
+    {
+      "album": {
         "name": "Especial",
         "url": "https://open.spotify.com/album/1qYYKmUgYaoMcEvScUhpLS"
       },
@@ -4005,6 +4067,24 @@
     },
     {
       "album": {
+        "name": "Frente al Mar",
+        "url": "https://open.spotify.com/album/0Wf0E2diHQJRdkPR12BcXs"
+      },
+      "artists": [
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165178,
+      "name": "Frente al Mar",
+      "url": "https://open.spotify.com/track/60u6hcpH5Qm1M3xESdNBrB"
+    },
+    {
+      "album": {
         "name": "Fr\u00eda",
         "url": "https://open.spotify.com/album/77OtfyQRt7k1nPFa9FqqlJ"
       },
@@ -4337,6 +4417,24 @@
     },
     {
       "album": {
+        "name": "Hola, qu\u00e9 tal?",
+        "url": "https://open.spotify.com/album/1v2rSqToiSoXpvqk0WTaPN"
+      },
+      "artists": [
+        {
+          "name": "Beret",
+          "url": "https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183170,
+      "name": "Hola, qu\u00e9 tal?",
+      "url": "https://open.spotify.com/track/5Z8nG5FVaBbASxtlVBu44v"
+    },
+    {
+      "album": {
         "name": "HOMBRE LIBRE",
         "url": "https://open.spotify.com/album/7aZEM8ZNEOeOXDf0zdKdwK"
       },
@@ -4530,6 +4628,24 @@
       "duration_ms": 145919,
       "name": "JET_Set.mp3",
       "url": "https://open.spotify.com/track/4AINuhTujSI5LmfO7sJRA8"
+    },
+    {
+      "album": {
+        "name": "KINTSUGI",
+        "url": "https://open.spotify.com/album/2icg5AKoqW4jWW9vdkENlZ"
+      },
+      "artists": [
+        {
+          "name": "HUMBE",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237908,
+      "name": "KINTSUGI",
+      "url": "https://open.spotify.com/track/1qbql17v0Hazo94o5RUyWQ"
     },
     {
       "album": {
@@ -5440,7 +5556,7 @@
       ],
       "date_added": "2024-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 187503,
       "name": "Lo he intentado",
       "url": "https://open.spotify.com/track/5keRPCEuoUfmM4sxMtPvNZ"
@@ -6980,7 +7096,7 @@
       ],
       "date_added": "2024-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 138986,
       "name": "ni regalao",
       "url": "https://open.spotify.com/track/0ySzud3GsHz4U7HVQmbHVM"
@@ -7609,6 +7725,24 @@
     },
     {
       "album": {
+        "name": "Para qu\u00e9 me escribes",
+        "url": "https://open.spotify.com/album/4j5f4aVHrqhFBaZ1EVkSnN"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Mart\u00ednez",
+          "url": "https://open.spotify.com/artist/4t75tim4RSC1FXQJcHXS4x"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190871,
+      "name": "Para qu\u00e9 me escribes",
+      "url": "https://open.spotify.com/track/6SuybaaCzmRXaohQdLHn1T"
+    },
+    {
+      "album": {
         "name": "Paranoia",
         "url": "https://open.spotify.com/album/3yJW0HcMSssOheVWwXiOkq"
       },
@@ -7762,7 +7896,7 @@
       ],
       "date_added": "2024-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 266787,
       "name": "Pasaporte",
       "url": "https://open.spotify.com/track/3LkVlYZK41uDwBHX26m8mi"
@@ -8579,6 +8713,28 @@
     },
     {
       "album": {
+        "name": "Qu\u00e9 Pecao",
+        "url": "https://open.spotify.com/album/753zWh3I26DZ8pCOfJFZfA"
+      },
+      "artists": [
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        },
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230073,
+      "name": "Qu\u00e9 Pecao",
+      "url": "https://open.spotify.com/track/456U68M8lIymkz56Zroxh8"
+    },
+    {
+      "album": {
         "name": "Rauw Alejandro: Bzrp Music Sessions, Vol. 56",
         "url": "https://open.spotify.com/album/6N4eyhCAqaGoT3lcEpzBmf"
       },
@@ -8740,6 +8896,24 @@
       "duration_ms": 236506,
       "name": "Rosas",
       "url": "https://open.spotify.com/track/4waqcUQWdj0yH26STWl2Rq"
+    },
+    {
+      "album": {
+        "name": "Rota",
+        "url": "https://open.spotify.com/album/2YW8mKvm9VsJ1wVweMxEu1"
+      },
+      "artists": [
+        {
+          "name": "Mar Lucas",
+          "url": "https://open.spotify.com/artist/7K5OqI5GnphpZMfIRs2UsI"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182586,
+      "name": "Rota",
+      "url": "https://open.spotify.com/track/7uFEmDQoGJH2wgMCqDqBCo"
     },
     {
       "album": {
@@ -10082,7 +10256,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 170106,
       "name": "TODAV\u00cdA",
       "url": "https://open.spotify.com/track/6T4PDkwPhKi5qFwJuOZaKJ"
@@ -11090,6 +11264,24 @@
       "duration_ms": 147640,
       "name": "\u00bfPara Qu\u00e9?",
       "url": "https://open.spotify.com/track/2gcwAmAnJ3EztIvP5R4bp2"
+    },
+    {
+      "album": {
+        "name": "\u00bfPor Qu\u00e9 Soy As\u00ed?",
+        "url": "https://open.spotify.com/album/0nx6GtmpkRxmbj1gX2pRP2"
+      },
+      "artists": [
+        {
+          "name": "Ela Taubert",
+          "url": "https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189693,
+      "name": "\u00bfPor Qu\u00e9 Soy As\u00ed?",
+      "url": "https://open.spotify.com/track/1N9n5G6elGqnLm3KSVG7Ir"
     },
     {
       "album": {

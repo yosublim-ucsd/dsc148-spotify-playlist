@@ -2,9 +2,9 @@
 
 ### [Jazzy Korea](https://open.spotify.com/playlist/37i9dQZF1DX3Cii9ioWjQP)
 
-> All about Korean Jazz hits & new \(Cover: U.BAR.E\(유발이\)\)
+> All about Korean Jazz hits & new \(Cover: YUJIN KIM\(김유진\)\)
 
-218 songs - 15 hr 39 min
+219 songs - 15 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Diaspora](https://open.spotify.com/track/4LxjliHXyosD6sqDp9vMjU) | [Woong San](https://open.spotify.com/artist/3FYwrGRWL93eQGcUoVkDO1) | [Diaspora](https://open.spotify.com/album/424WFw7apETzYjkgOsyOs5) | 5:03 | 2022-05-18 | 2024-04-19 |
 | [Difference \(with Park Chan Young\)](https://open.spotify.com/track/6VuslUo78MrJiJTmlbPUhQ) | [Jinju Yi](https://open.spotify.com/artist/1wOcvOmQJOR1LUMF0cIQS5), [Park Chan Young](https://open.spotify.com/artist/4lqCOKaW6ZcRwDL6yEJJo9) | [Difference](https://open.spotify.com/album/6hroMp0MzJ4UThj5OehuZG) | 3:23 | 2022-11-11 | 2024-09-20 |
 | [Don’t Blame Yourself](https://open.spotify.com/track/4ZucTmhwzc3vp0AhIOtY2r) | [Pudditorium](https://open.spotify.com/artist/7uhOcLi85Fj8PlOempXh6z) | [Prologue : Hope](https://open.spotify.com/album/3soUCShTrQXB69QUv0CuYj) | 4:34 | 2024-09-04 |  |
+| [dudndudndudn](https://open.spotify.com/track/6l5HTEXfhpcGAGqigEpLSb) | [YUJIN KIM](https://open.spotify.com/artist/5XvMdIgNV79lvoBrUvmUPb) | [dudndudndudn](https://open.spotify.com/album/6lTeQXswOMjX1E2Le2YduD) | 3:36 | 2024-10-04 |  |
 | [DUO](https://open.spotify.com/track/4qy4NFSM69Ttu5RyZTYQvp) | [HUS](https://open.spotify.com/artist/23m7tUHLULVyBAAIYHbsgT) | [DUO](https://open.spotify.com/album/4WhNgdDFTuoA3YUhKMLBhi) | 3:10 | 2024-06-07 |  |
 | [END AND \(Feat\. Nicola Sergio\)](https://open.spotify.com/track/3P4vnvUu03m0kjoLWNWvTa) | [Youjin KO](https://open.spotify.com/artist/4DwpWXyj4LSXRDaB2zmfcj), [Nicola Sergio](https://open.spotify.com/artist/2bxce9EIkMF99r0baqX9Sy) | [END AND \(Feat\. Nicola Sergio\)](https://open.spotify.com/album/1Aur1rcwdfRJXyG8VtRFRr) | 5:59 | 2023-03-31 |  |
 | [Entropy](https://open.spotify.com/track/5Csh0PKROPzYGlUJOPyXDc) | [Urban Forest](https://open.spotify.com/artist/3Byry2lVyIyWfS0wkFNIbj) | [Entropy](https://open.spotify.com/album/40GVHu5UsuObOAoAhPgcdr) | 8:13 | 2023-07-19 | 2024-08-11 |

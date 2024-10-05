@@ -4,7 +4,7 @@
 
 > Lagu\-lagu teranyar yang akan menjadi favoritmu selanjutnya\. Cover: BINI, AGNEZ MO
 
-901 songs - 2 day 4 hr 47 min
+902 songs - 2 day 4 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -604,6 +604,7 @@
 | [Pulang \(Robbighfirlii\)](https://open.spotify.com/track/40xD1oDjPZVHt5AyIPBX7h) | [Wali](https://open.spotify.com/artist/5pnSNZZRyYViu2n58Zlw1J) | [Pulang \(Robbighfirlii\)](https://open.spotify.com/album/6aR6TWWlaWYauxklZKnD4Z) | 4:23 | 2024-03-14 | 2024-04-12 |
 | [Pussy Don't Lie \(from the Netflix Series "Big Mouth"\)](https://open.spotify.com/track/1FOwWRFyJQh0EHthcdlcVE) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Big Mouth Cast](https://open.spotify.com/artist/1DqX6y6PeSke9Y3ojgq95w) | [Pussy Don't Lie \(from the Netflix Series "Big Mouth"\)](https://open.spotify.com/album/1BrbqpyUhXOquJzNd4rEza) | 2:21 | 2024-01-18 | 2024-02-17 |
 | [Putus](https://open.spotify.com/track/1Z9mn9WZC1pOLrIK3hxdg3) | [Pamungkas](https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C) | [Putus](https://open.spotify.com/album/1Qh6C1BoR26xAOVdvZEwqp) | 3:33 | 2024-07-25 | 2024-09-14 |
+| [R.E.M](https://open.spotify.com/track/7D2B5pj751b3MIaU4TwE6e) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [R.E.M](https://open.spotify.com/album/4xcIr0rkoIBPmoSPamCorO) | 2:52 | 2024-10-04 |  |
 | [Rahasia \#2](https://open.spotify.com/track/6jQa4jKWIgwUX4EW2R8UND) | [RAN](https://open.spotify.com/artist/5DSVjHy2YWufmRUHBM3PLX) | [Rahasia \#2](https://open.spotify.com/album/4boRdm48cMp4ojgdsULFxH) | 3:14 | 2024-09-05 |  |
 | [Rahsia Tuhan](https://open.spotify.com/track/6twyTAZjH3ap9GFkGukraz) | [Noh Salleh](https://open.spotify.com/artist/4fVYwG8RsbJsREFFniszhf) | [Rahsia Tuhan](https://open.spotify.com/album/4t9LkUma3iBV9PWJQG5cKP) | 4:47 | 2024-09-05 |  |
 | [Rains in Heaven](https://open.spotify.com/track/17IcI8xMok8qFNhSPRufjo) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Rains in Heaven](https://open.spotify.com/album/2SUJuWIru2k3m8RkjwcSsW) | 3:57 | 2024-08-22 | 2024-10-04 |

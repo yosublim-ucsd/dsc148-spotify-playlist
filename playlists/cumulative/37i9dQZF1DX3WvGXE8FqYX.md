@@ -4,7 +4,7 @@
 
 > Celebrating the power of amazing female pop artists\.  Cover: Christina Aguilera
 
-575 songs - 1 day 10 hr 18 min
+576 songs - 1 day 10 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,7 @@
 | [Blame It on Your Love \(feat\. Lizzo\)](https://open.spotify.com/track/1MfuskV4ODUp14C2dnyPgW) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Blame It on Your Love](https://open.spotify.com/album/7taiT9oVLbid3rJ7KwM9jf) | 3:11 | 2019-08-29 | 2021-12-03 |
 | [Blank Space](https://open.spotify.com/track/1p80LdxRV74UKvL8gnD7ky) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989](https://open.spotify.com/album/2QJmrSgbdM35R67eoGQo4j) | 3:51 | 2022-10-28 | 2023-02-07 |
 | [Blank Space](https://open.spotify.com/track/580t2NTEMOuCHV1sN3uhyD) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989](https://open.spotify.com/album/6w36pmMA5bxECalu5rxQAw) | 3:51 | 2019-05-26\* | 2022-07-29 |
-| [Bleeding Love](https://open.spotify.com/track/7wZUrN8oemZfsEd1CGkbXE) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm) | [Spirit](https://open.spotify.com/album/0VaAFegRAAn4OCg7p4QjN5) | 4:22 | 2019-05-27 | 2024-10-01 |
+| [Bleeding Love](https://open.spotify.com/track/7wZUrN8oemZfsEd1CGkbXE) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm) | [Spirit](https://open.spotify.com/album/0VaAFegRAAn4OCg7p4QjN5) | 4:22 | 2019-05-27 |  |
 | [Blow Your Mind \(Mwah\)](https://open.spotify.com/track/7kJlTKjNZVT26iwiDUVhRm) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Blow Your Mind \(Mwah\)](https://open.spotify.com/album/7fb7W4noziWjuzWsdr3DzT) | 2:58 | 2019-05-26\* | 2020-06-12 |
 | [Body Say](https://open.spotify.com/track/7xrA11O07xo57Bbg6p4hck) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Body Say](https://open.spotify.com/album/7eh0AAzV329H8VmPnjlSXF) | 3:13 | 2019-06-16 | 2019-06-26 |
 | [Bonbon](https://open.spotify.com/track/6LN0AFFZgc85SaNgRPfn2V) | [Era Istrefi](https://open.spotify.com/artist/4poL7YCSkG7kMnWjAdDU91) | [Bonbon](https://open.spotify.com/album/2pPHbVElnCjEEh9iuaoYuv) | 2:47 | 2021-03-07 | 2022-04-15 |
@@ -105,7 +105,7 @@
 | [Church Bells](https://open.spotify.com/track/67citk3uzWs5qbaIVKTeg8) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Storyteller](https://open.spotify.com/album/4q3SkZWPYJtKno1RbnrjL4) | 3:13 | 2019-06-21 | 2021-10-14 |
 | [Come Back Home](https://open.spotify.com/track/1I4dwH7C0jBAEtz5DjlJgQ) | [Sofia Carson](https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ) | [Purple Hearts \(Original Soundtrack\)](https://open.spotify.com/album/3wDjzYFS8eWE3bLSpXK4gd) | 2:56 | 2022-08-12 | 2022-12-29 |
 | [Come Home To Me](https://open.spotify.com/track/2K8elWg8ihrZRwZJ7Gy6L3) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [LÉON](https://open.spotify.com/album/4rH2e0qPw9MrwOSdk9rKNe) | 3:45 | 2020-06-12 | 2022-04-20 |
-| [Come on over Baby \(All I Want Is You\) \- Radio Version](https://open.spotify.com/track/7A0apkTSTvMbSI7yplcmlh) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Christina Aguilera \(Expanded Edition\)](https://open.spotify.com/album/6fpPZS13ImRVpr7Tqs6yP9) | 3:23 | 2024-09-20 |  |
+| [Come on over Baby \(All I Want Is You\) \- Radio Version](https://open.spotify.com/track/7A0apkTSTvMbSI7yplcmlh) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Christina Aguilera \(Expanded Edition\)](https://open.spotify.com/album/6fpPZS13ImRVpr7Tqs6yP9) | 3:23 | 2024-09-20 | 2024-10-05 |
 | [Come To My Window](https://open.spotify.com/track/4LmlGaGTEbTGE5VngAbpA3) | [Melissa Etheridge](https://open.spotify.com/artist/01Ppu7N8uYJI8SAONo2YZA) | [Yes I Am](https://open.spotify.com/album/1qzfqlEyzPD0VyCcSSQwZD) | 3:56 | 2021-03-06 | 2022-04-20 |
 | [Como en las Vegas](https://open.spotify.com/track/4n2KA318CSOYiX79be9Vmq) | [Olga Tañón](https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE), [Chyno Miranda](https://open.spotify.com/artist/1VrWc8r4AjrR8YfT0vlsc7) | [Como en las Vegas](https://open.spotify.com/album/7LSmHZO6cl7fxec0dyZ4s3) | 3:24 | 2021-03-07 | 2022-04-20 |
 | [Complicated](https://open.spotify.com/track/5xEM5hIgJ1jjgcEBfpkt2F) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Let Go](https://open.spotify.com/album/3zXjR3y2dUWklKmmp6lEhy) | 4:04 | 2019-06-24 |  |
@@ -199,7 +199,7 @@
 | [Good Days](https://open.spotify.com/track/3YJJjQPAbDT7mGpX3WtQ9A) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Good Days](https://open.spotify.com/album/781cKhbTPwLnPmo9BALQl7) | 4:39 | 2021-03-01 |  |
 | [Good Luck, Babe!](https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Good Luck, Babe!](https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q) | 3:38 | 2024-08-09 |  |
 | [Good Without](https://open.spotify.com/track/0xqHkO5570zlGpLpCnd4MG) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Seven Shades of Heartbreak](https://open.spotify.com/album/7kYQPT7i8PrKsTG3dsXe4r) | 3:02 | 2022-03-08 | 2022-07-29 |
-| [GORGEOUS \(feat\. Kim Petras\)](https://open.spotify.com/track/2c121Da4d1kLut5aqRgzpK) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [143](https://open.spotify.com/album/3jxt1S4JtW4uFalBwlfehS) | 3:17 | 2024-09-20 |  |
+| [GORGEOUS \(feat\. Kim Petras\)](https://open.spotify.com/track/2c121Da4d1kLut5aqRgzpK) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [143](https://open.spotify.com/album/3jxt1S4JtW4uFalBwlfehS) | 3:17 | 2024-09-20 | 2024-10-05 |
 | [greedy](https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [greedy](https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN) | 2:11 | 2023-10-02 |  |
 | [Green Light](https://open.spotify.com/track/0gbBzIqrECJOEPvQJIBFs5) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Melodrama](https://open.spotify.com/album/4JeJPyNnsB3tqnHR7RL5v5) | 3:54 | 2019-06-23 | 2022-04-19 |
 | [Halo](https://open.spotify.com/track/4JehYebiI9JE8sR8MisGVb) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [I AM...SASHA FIERCE](https://open.spotify.com/album/39P7VD7qlg3Z0ltq60eHp7) | 4:21 | 2019-05-26\* | 2022-04-20 |
@@ -253,6 +253,7 @@
 | [I'm a Slave 4 U](https://open.spotify.com/track/6ldwfK0yWgTAlmIfuQkTYN) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Britney \(Digital Deluxe Version\)](https://open.spotify.com/album/5ax3GTsfX5uCUaNgnJsSG5) | 3:23 | 2024-09-11 | 2024-09-21 |
 | [I'm Gonna Show You Crazy](https://open.spotify.com/track/5LtNBCM2ve0SxP0dlRVvMu) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [I'm Gonna Show You Crazy](https://open.spotify.com/album/1jjRCEFt2eCfCNWHV7AtEk) | 3:27 | 2022-09-02 | 2022-10-25 |
 | [I'm Good \(Blue\)](https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [I'm Good \(Blue\)](https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3) | 2:55 | 2022-09-02 |  |
+| [If I Could Turn Back Time](https://open.spotify.com/track/6mYrhCAGWzTdF8QnKuchXM) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Heart Of Stone](https://open.spotify.com/album/3srdrIrP3V7LTmRujRfLhK) | 3:59 | 2024-09-20 |  |
 | [If You Had My Love](https://open.spotify.com/track/3wvg3Jpee5NzpSBZhBqFdE) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [On The 6](https://open.spotify.com/album/43CV8Hxctvm8BUCesUaxMk) | 4:24 | 2021-03-09 | 2022-04-19 |
 | [If You're Gonna Lie](https://open.spotify.com/track/4X2caEGywKxXKGImqNkBmt) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [If You're Gonna Lie](https://open.spotify.com/album/3HJzsf1y8Z3HX2qa1lcsa9) | 3:23 | 2019-08-29 | 2022-04-21 |
 | [In the Name of Love](https://open.spotify.com/track/23L5CiUhw2jV1OIMwthR3S) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [In the Name of Love](https://open.spotify.com/album/1FOJ5IXGXe8dl0cXvCU6wK) | 3:15 | 2019-05-27 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "De la musique qu\u00e9b\u00e9coise pour tous les go\u00fbts. Photo: Pierre Lapointe",
+  "description": "De la musique qu\u00e9b\u00e9coise pour tous les go\u00fbts. Photo: Marilou",
   "name": "Qu\u00e9b\u00e9cois Contemporain",
   "tracks": [
     {
@@ -451,6 +451,24 @@
     },
     {
       "album": {
+        "name": "Fais-moi r\u00eaver",
+        "url": "https://open.spotify.com/album/53aO4Ze0Jp2MtnCgmbDs5Q"
+      },
+      "artists": [
+        {
+          "name": "Alfa Rococo",
+          "url": "https://open.spotify.com/artist/6nG2T7gGBQilOJXPWw0F0n"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195256,
+      "name": "Fais-moi r\u00eaver",
+      "url": "https://open.spotify.com/track/5M7URPl2QApuwqFUQkpRuK"
+    },
+    {
+      "album": {
         "name": "Fake Friends",
         "url": "https://open.spotify.com/album/4PCTm05PE1ULKyzKJGiNfO"
       },
@@ -649,6 +667,24 @@
     },
     {
       "album": {
+        "name": "Je t'ai cherch\u00e9",
+        "url": "https://open.spotify.com/album/5T8ZZkWPCZQaNPZmrFr25O"
+      },
+      "artists": [
+        {
+          "name": "Lara Fabian",
+          "url": "https://open.spotify.com/artist/7ocwZINHqO9DZJgFtc1B20"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216159,
+      "name": "Je t'ai cherch\u00e9",
+      "url": "https://open.spotify.com/track/28gYJXShLPmWRq9Zn9jGma"
+    },
+    {
+      "album": {
         "name": "Je t'aimais, je t'aime, je t'aimerai",
         "url": "https://open.spotify.com/album/03qYkWL3NxKrDLVjtmqYAf"
       },
@@ -768,7 +804,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 236680,
       "name": "La libert\u00e9 (c'est de suivre le plan)",
       "url": "https://open.spotify.com/track/4kNA1PnPZKrcmKItCEjSoE"
@@ -1022,6 +1058,24 @@
       "duration_ms": 143055,
       "name": "Le stade",
       "url": "https://open.spotify.com/track/4CLliCkjzI04eoHKXMI68H"
+    },
+    {
+      "album": {
+        "name": "Dynastie",
+        "url": "https://open.spotify.com/album/7iQA80BCQhFCWe0In1PRp0"
+      },
+      "artists": [
+        {
+          "name": "Tire Le Coyote",
+          "url": "https://open.spotify.com/artist/0IC1NWkemYHVzpF7gISLku"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300360,
+      "name": "Les chemins de travers",
+      "url": "https://open.spotify.com/track/48I7QLC2SNkoLIF5mEqO1j"
     },
     {
       "album": {
@@ -1632,7 +1686,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 164479,
       "name": "Ta peine",
       "url": "https://open.spotify.com/track/0BC2xNaWziKYeXfU8CzIe0"
@@ -1852,7 +1906,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 230706,
       "name": "Voler",
       "url": "https://open.spotify.com/track/3eXDWw4syMm0zpacdBW8E6"

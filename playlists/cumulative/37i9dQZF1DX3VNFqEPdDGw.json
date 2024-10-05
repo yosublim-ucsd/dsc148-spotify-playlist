@@ -1367,6 +1367,32 @@
     },
     {
       "album": {
+        "name": "Majha Malwa",
+        "url": "https://open.spotify.com/album/3VBpU3AUhN2OLsuGBmuLNp"
+      },
+      "artists": [
+        {
+          "name": "Jaswinder Brar",
+          "url": "https://open.spotify.com/artist/6r2i43KR94c0Q0fm7OyJEJ"
+        },
+        {
+          "name": "Bunty Bains",
+          "url": "https://open.spotify.com/artist/4eHycMGKslAXJLcLO4F82x"
+        },
+        {
+          "name": "Chet Singh",
+          "url": "https://open.spotify.com/artist/5aWkTGq5O45ES0fDFmN1Wv"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173674,
+      "name": "Majha Malwa",
+      "url": "https://open.spotify.com/track/3SJTSI4YYcAqHPxwoTzuPc"
+    },
+    {
+      "album": {
         "name": "HIDDEN GEMS",
         "url": "https://open.spotify.com/album/3fOswFPlmSWKTTFTlksdiv"
       },
@@ -2192,7 +2218,7 @@
       ],
       "date_added": "2023-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 145714,
       "name": "Throughout India",
       "url": "https://open.spotify.com/track/7j1DG6gSjOJGlJfxlzrERW"

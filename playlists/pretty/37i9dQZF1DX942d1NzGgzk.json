@@ -1,6 +1,6 @@
 {
   "description": "100% British - 100% R&B. Cover: Nippa",
-  "num_followers": 149894,
+  "num_followers": 149922,
   "original_name": "R&B UK",
   "owner": {
     "name": "Spotify",
@@ -131,22 +131,6 @@
     {
       "added_at": "2024-10-03 23:00:00",
       "album": {
-        "name": "Light Work",
-        "url": "https://open.spotify.com/album/6FNasJ0jCCBUinHhm00oOe"
-      },
-      "artists": [
-        {
-          "name": "Elmiene",
-          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
-        }
-      ],
-      "duration_ms": 217304,
-      "name": "Light Work",
-      "url": "https://open.spotify.com/track/2N9pTSlybRM6XIqOvSfkM1"
-    },
-    {
-      "added_at": "2024-10-03 23:00:00",
-      "album": {
         "name": "Take Your Time (feat. 6LACK)",
         "url": "https://open.spotify.com/album/2wLeTuNrfg5OVQ5OLbghX6"
       },
@@ -163,6 +147,22 @@
       "duration_ms": 235461,
       "name": "Take Your Time (feat. 6LACK)",
       "url": "https://open.spotify.com/track/36zutQQkUnFPbLYIcVxJi8"
+    },
+    {
+      "added_at": "2024-10-03 23:00:00",
+      "album": {
+        "name": "Light Work",
+        "url": "https://open.spotify.com/album/6FNasJ0jCCBUinHhm00oOe"
+      },
+      "artists": [
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        }
+      ],
+      "duration_ms": 217304,
+      "name": "Light Work",
+      "url": "https://open.spotify.com/track/2N9pTSlybRM6XIqOvSfkM1"
     },
     {
       "added_at": "2024-10-03 23:00:00",
@@ -411,26 +411,6 @@
     {
       "added_at": "2024-10-03 23:00:00",
       "album": {
-        "name": "MET YOU AT A BAR",
-        "url": "https://open.spotify.com/album/5XFDNmKIETmCv4YabIQRHP"
-      },
-      "artists": [
-        {
-          "name": "Jaz Karis",
-          "url": "https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I"
-        },
-        {
-          "name": "Tone Stith",
-          "url": "https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44"
-        }
-      ],
-      "duration_ms": 160941,
-      "name": "MET YOU AT A BAR",
-      "url": "https://open.spotify.com/track/1tqDKxcXd2dlni26L3BGQ3"
-    },
-    {
-      "added_at": "2024-10-03 23:00:00",
-      "album": {
         "name": "Thoughts I Never Said",
         "url": "https://open.spotify.com/album/2Sz9KQ4T0nCCXBMDQ8TjFl"
       },
@@ -447,6 +427,26 @@
       "duration_ms": 181290,
       "name": "Gave You My All",
       "url": "https://open.spotify.com/track/2WEgOHRhsCMNiV4qcWNxAX"
+    },
+    {
+      "added_at": "2024-10-03 23:00:00",
+      "album": {
+        "name": "MET YOU AT A BAR",
+        "url": "https://open.spotify.com/album/5XFDNmKIETmCv4YabIQRHP"
+      },
+      "artists": [
+        {
+          "name": "Jaz Karis",
+          "url": "https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I"
+        },
+        {
+          "name": "Tone Stith",
+          "url": "https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44"
+        }
+      ],
+      "duration_ms": 160941,
+      "name": "MET YOU AT A BAR",
+      "url": "https://open.spotify.com/track/1tqDKxcXd2dlni26L3BGQ3"
     },
     {
       "added_at": "2024-10-03 23:00:00",
@@ -563,22 +563,6 @@
     {
       "added_at": "2024-10-03 23:00:00",
       "album": {
-        "name": "OOTW",
-        "url": "https://open.spotify.com/album/3dKsoVM86jYYP7AHEN3qDX"
-      },
-      "artists": [
-        {
-          "name": "Shae Universe",
-          "url": "https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N"
-        }
-      ],
-      "duration_ms": 139458,
-      "name": "OOTW",
-      "url": "https://open.spotify.com/track/39POBulxadsYQ7hQgni7Z4"
-    },
-    {
-      "added_at": "2024-10-03 23:00:00",
-      "album": {
         "name": "SUNSET BLVD",
         "url": "https://open.spotify.com/album/7KHNgbzkWGvK13wzjvUCig"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 159131,
       "name": "SUNSET BLVD",
       "url": "https://open.spotify.com/track/3rW0QUNJRgzXLVCvML6uZM"
+    },
+    {
+      "added_at": "2024-10-03 23:00:00",
+      "album": {
+        "name": "OOTW",
+        "url": "https://open.spotify.com/album/3dKsoVM86jYYP7AHEN3qDX"
+      },
+      "artists": [
+        {
+          "name": "Shae Universe",
+          "url": "https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N"
+        }
+      ],
+      "duration_ms": 139458,
+      "name": "OOTW",
+      "url": "https://open.spotify.com/track/39POBulxadsYQ7hQgni7Z4"
     },
     {
       "added_at": "2024-10-03 23:00:00",
@@ -635,26 +635,6 @@
     {
       "added_at": "2024-10-03 23:00:00",
       "album": {
-        "name": "Best Interest",
-        "url": "https://open.spotify.com/album/2DIGbvisJJIIf2xYU9xrW2"
-      },
-      "artists": [
-        {
-          "name": "Juls",
-          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
-        },
-        {
-          "name": "JayO",
-          "url": "https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "Best Interest",
-      "url": "https://open.spotify.com/track/5IQUPSzuNlYmSzHK8fO0yH"
-    },
-    {
-      "added_at": "2024-10-03 23:00:00",
-      "album": {
         "name": "Sweetness",
         "url": "https://open.spotify.com/album/1KUuc0hHQkpURbaw07xgFS"
       },
@@ -671,22 +651,22 @@
     {
       "added_at": "2024-10-03 23:00:00",
       "album": {
-        "name": "TEQUILA",
-        "url": "https://open.spotify.com/album/5zpxn2BLJyQ9gZcKfKq8RX"
+        "name": "Best Interest",
+        "url": "https://open.spotify.com/album/2DIGbvisJJIIf2xYU9xrW2"
       },
       "artists": [
         {
-          "name": "Jaz Karis",
-          "url": "https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I"
+          "name": "Juls",
+          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
         },
         {
-          "name": "Reekado Banks",
-          "url": "https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn"
+          "name": "JayO",
+          "url": "https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD"
         }
       ],
-      "duration_ms": 205000,
-      "name": "TEQUILA",
-      "url": "https://open.spotify.com/track/3meLEmr860diy8furP4Bff"
+      "duration_ms": 198000,
+      "name": "Best Interest",
+      "url": "https://open.spotify.com/track/5IQUPSzuNlYmSzHK8fO0yH"
     },
     {
       "added_at": "2024-10-03 23:00:00",
@@ -711,26 +691,6 @@
     {
       "added_at": "2024-10-03 23:00:00",
       "album": {
-        "name": "Eating out",
-        "url": "https://open.spotify.com/album/3biafmyFPcKBz7DY2hfKys"
-      },
-      "artists": [
-        {
-          "name": "Pip Millett",
-          "url": "https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR"
-        },
-        {
-          "name": "Rae Khalil",
-          "url": "https://open.spotify.com/artist/7cIx4IDh0zLqXBxuNSqFNq"
-        }
-      ],
-      "duration_ms": 173369,
-      "name": "Eating out",
-      "url": "https://open.spotify.com/track/3HPJLLqf4qdKm6xbXiW979"
-    },
-    {
-      "added_at": "2024-10-03 23:00:00",
-      "album": {
         "name": "Hennessy (feat. Blxst)",
         "url": "https://open.spotify.com/album/6yhGlErwPSocayEPnkT9Vk"
       },
@@ -747,6 +707,46 @@
       "duration_ms": 144710,
       "name": "Hennessy (feat. Blxst)",
       "url": "https://open.spotify.com/track/61mRlOaLDoj6dhSuM81t3t"
+    },
+    {
+      "added_at": "2024-10-03 23:00:00",
+      "album": {
+        "name": "TEQUILA",
+        "url": "https://open.spotify.com/album/5zpxn2BLJyQ9gZcKfKq8RX"
+      },
+      "artists": [
+        {
+          "name": "Jaz Karis",
+          "url": "https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I"
+        },
+        {
+          "name": "Reekado Banks",
+          "url": "https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn"
+        }
+      ],
+      "duration_ms": 205000,
+      "name": "TEQUILA",
+      "url": "https://open.spotify.com/track/3meLEmr860diy8furP4Bff"
+    },
+    {
+      "added_at": "2024-10-03 23:00:00",
+      "album": {
+        "name": "Eating out",
+        "url": "https://open.spotify.com/album/3biafmyFPcKBz7DY2hfKys"
+      },
+      "artists": [
+        {
+          "name": "Pip Millett",
+          "url": "https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR"
+        },
+        {
+          "name": "Rae Khalil",
+          "url": "https://open.spotify.com/artist/7cIx4IDh0zLqXBxuNSqFNq"
+        }
+      ],
+      "duration_ms": 173369,
+      "name": "Eating out",
+      "url": "https://open.spotify.com/track/3HPJLLqf4qdKm6xbXiW979"
     },
     {
       "added_at": "2024-10-03 23:00:00",
@@ -771,6 +771,22 @@
     {
       "added_at": "2024-10-03 23:00:00",
       "album": {
+        "name": "Give Up The Fear",
+        "url": "https://open.spotify.com/album/3MS50q90DYesShrGsqAFve"
+      },
+      "artists": [
+        {
+          "name": "Nia Smith",
+          "url": "https://open.spotify.com/artist/50MUpOKyCZMtBcYlBQP260"
+        }
+      ],
+      "duration_ms": 159493,
+      "name": "Give Up The Fear",
+      "url": "https://open.spotify.com/track/10tpSojwAIsgZAy4xbAiMB"
+    },
+    {
+      "added_at": "2024-10-03 23:00:00",
+      "album": {
         "name": "For Someone Somewhere Who Isn't Us",
         "url": "https://open.spotify.com/album/1chZE5RjHe3KrE242WlAIk"
       },
@@ -787,18 +803,22 @@
     {
       "added_at": "2024-10-03 23:00:00",
       "album": {
-        "name": "Give Up The Fear",
-        "url": "https://open.spotify.com/album/3MS50q90DYesShrGsqAFve"
+        "name": "CHILL ON ME",
+        "url": "https://open.spotify.com/album/1amVbKXct9YO5r2q7KK242"
       },
       "artists": [
         {
-          "name": "Nia Smith",
-          "url": "https://open.spotify.com/artist/50MUpOKyCZMtBcYlBQP260"
+          "name": "Jaz Karis",
+          "url": "https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I"
+        },
+        {
+          "name": "June Freedom",
+          "url": "https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC"
         }
       ],
-      "duration_ms": 159493,
-      "name": "Give Up The Fear",
-      "url": "https://open.spotify.com/track/10tpSojwAIsgZAy4xbAiMB"
+      "duration_ms": 215544,
+      "name": "CHILL ON ME",
+      "url": "https://open.spotify.com/track/31DeTEQ3Y8G0I7DmwqLusq"
     },
     {
       "added_at": "2024-10-03 23:00:00",
@@ -851,26 +871,6 @@
     {
       "added_at": "2024-10-03 23:00:00",
       "album": {
-        "name": "CHILL ON ME",
-        "url": "https://open.spotify.com/album/1amVbKXct9YO5r2q7KK242"
-      },
-      "artists": [
-        {
-          "name": "Jaz Karis",
-          "url": "https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I"
-        },
-        {
-          "name": "June Freedom",
-          "url": "https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC"
-        }
-      ],
-      "duration_ms": 215544,
-      "name": "CHILL ON ME",
-      "url": "https://open.spotify.com/track/31DeTEQ3Y8G0I7DmwqLusq"
-    },
-    {
-      "added_at": "2024-10-03 23:00:00",
-      "album": {
         "name": "Love's Letter",
         "url": "https://open.spotify.com/album/2WCUgddua4H6GiwTBK6Zom"
       },
@@ -883,6 +883,42 @@
       "duration_ms": 250462,
       "name": "Oh, Wait...",
       "url": "https://open.spotify.com/track/4AG0bAu5QvQacdyOhQLYqF"
+    },
+    {
+      "added_at": "2024-10-03 23:00:00",
+      "album": {
+        "name": "BAD4U",
+        "url": "https://open.spotify.com/album/4qHTcBrDRkp7X9gfypo0RX"
+      },
+      "artists": [
+        {
+          "name": "H33RA",
+          "url": "https://open.spotify.com/artist/1NHGoS1F3ejgcKg5sE95LM"
+        }
+      ],
+      "duration_ms": 217757,
+      "name": "BAD4U",
+      "url": "https://open.spotify.com/track/5299KaEOLIQoPBO69jMRgN"
+    },
+    {
+      "added_at": "2024-10-03 23:00:00",
+      "album": {
+        "name": "Tell Jimmy I'm fine",
+        "url": "https://open.spotify.com/album/4LGyLyBYD059xQ1xsqzJ9N"
+      },
+      "artists": [
+        {
+          "name": "Pip Millett",
+          "url": "https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR"
+        },
+        {
+          "name": "Mariah the Scientist",
+          "url": "https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E"
+        }
+      ],
+      "duration_ms": 187396,
+      "name": "Have your babies",
+      "url": "https://open.spotify.com/track/11pUhRUIkMIeSTVktv6ddL"
     },
     {
       "added_at": "2024-10-03 23:00:00",
@@ -923,26 +959,6 @@
     {
       "added_at": "2024-10-03 23:00:00",
       "album": {
-        "name": "Tell Jimmy I'm fine",
-        "url": "https://open.spotify.com/album/4LGyLyBYD059xQ1xsqzJ9N"
-      },
-      "artists": [
-        {
-          "name": "Pip Millett",
-          "url": "https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR"
-        },
-        {
-          "name": "Mariah the Scientist",
-          "url": "https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E"
-        }
-      ],
-      "duration_ms": 187396,
-      "name": "Have your babies",
-      "url": "https://open.spotify.com/track/11pUhRUIkMIeSTVktv6ddL"
-    },
-    {
-      "added_at": "2024-10-03 23:00:00",
-      "album": {
         "name": "Escape Plan",
         "url": "https://open.spotify.com/album/62DboXMp5tBqZGDVxdaiVy"
       },
@@ -963,38 +979,6 @@
     {
       "added_at": "2024-10-03 23:00:00",
       "album": {
-        "name": "Peace in the Madness",
-        "url": "https://open.spotify.com/album/35tJhjmneu0LOm19AD7HSw"
-      },
-      "artists": [
-        {
-          "name": "Sipprell",
-          "url": "https://open.spotify.com/artist/065qyjvmeguYcKpAln7buu"
-        }
-      ],
-      "duration_ms": 189473,
-      "name": "Wish You Were Here",
-      "url": "https://open.spotify.com/track/1Ft2AZ6MlRlhNUb0ylOCG7"
-    },
-    {
-      "added_at": "2024-10-03 23:00:00",
-      "album": {
-        "name": "Crying",
-        "url": "https://open.spotify.com/album/5wvfwEFmnrUsbmVi9mRT9N"
-      },
-      "artists": [
-        {
-          "name": "Sekou",
-          "url": "https://open.spotify.com/artist/1mYgKcXdbklH5RwjU6XA8c"
-        }
-      ],
-      "duration_ms": 173686,
-      "name": "Crying",
-      "url": "https://open.spotify.com/track/3lpLpwUF7KTJVj9yoySNwM"
-    },
-    {
-      "added_at": "2024-10-03 23:00:00",
-      "album": {
         "name": "Fallin 4 A Thug",
         "url": "https://open.spotify.com/album/08two7eshES8TNEHi6WBGl"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 150400,
       "name": "Fallin 4 A Thug",
       "url": "https://open.spotify.com/track/21LvidSXOuc5jgy5ttnCkP"
+    },
+    {
+      "added_at": "2024-10-03 23:00:00",
+      "album": {
+        "name": "Peace in the Madness",
+        "url": "https://open.spotify.com/album/35tJhjmneu0LOm19AD7HSw"
+      },
+      "artists": [
+        {
+          "name": "Sipprell",
+          "url": "https://open.spotify.com/artist/065qyjvmeguYcKpAln7buu"
+        }
+      ],
+      "duration_ms": 189473,
+      "name": "Wish You Were Here",
+      "url": "https://open.spotify.com/track/1Ft2AZ6MlRlhNUb0ylOCG7"
     },
     {
       "added_at": "2024-10-03 23:00:00",
@@ -1031,34 +1031,18 @@
     {
       "added_at": "2024-10-03 23:00:00",
       "album": {
-        "name": "Boundaries",
-        "url": "https://open.spotify.com/album/2UmzFdvxHsHnO7ZhIdvSzp"
+        "name": "Crying",
+        "url": "https://open.spotify.com/album/5wvfwEFmnrUsbmVi9mRT9N"
       },
       "artists": [
         {
-          "name": "Sin\u00e9ad Harnett",
-          "url": "https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo"
+          "name": "Sekou",
+          "url": "https://open.spotify.com/artist/1mYgKcXdbklH5RwjU6XA8c"
         }
       ],
-      "duration_ms": 161773,
-      "name": "Unfamiliar",
-      "url": "https://open.spotify.com/track/2du9UaU0EwtkVr7zfpq5QK"
-    },
-    {
-      "added_at": "2024-10-03 23:00:00",
-      "album": {
-        "name": "Heaven",
-        "url": "https://open.spotify.com/album/1WUmhAZpjr4WS7QwHfiyco"
-      },
-      "artists": [
-        {
-          "name": "Mnelia",
-          "url": "https://open.spotify.com/artist/4DDsQzXhKIC2F70cjMP7ec"
-        }
-      ],
-      "duration_ms": 152181,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/3Wqossbsoiwknv6unRnPlK"
+      "duration_ms": 173686,
+      "name": "Crying",
+      "url": "https://open.spotify.com/track/3lpLpwUF7KTJVj9yoySNwM"
     },
     {
       "added_at": "2024-10-03 23:00:00",
@@ -1075,6 +1059,22 @@
       "duration_ms": 200000,
       "name": "Undone",
       "url": "https://open.spotify.com/track/4eRQ0iaCuuojLwKDZJQdc9"
+    },
+    {
+      "added_at": "2024-10-03 23:00:00",
+      "album": {
+        "name": "Boundaries",
+        "url": "https://open.spotify.com/album/2UmzFdvxHsHnO7ZhIdvSzp"
+      },
+      "artists": [
+        {
+          "name": "Sin\u00e9ad Harnett",
+          "url": "https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo"
+        }
+      ],
+      "duration_ms": 161773,
+      "name": "Unfamiliar",
+      "url": "https://open.spotify.com/track/2du9UaU0EwtkVr7zfpq5QK"
     }
   ],
   "unique_name": "R&B UK",

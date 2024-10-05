@@ -1,6 +1,6 @@
 {
   "description": "Las divas del pop latino de ayer y hoy. Foto: Maria Becerra",
-  "num_followers": 179004,
+  "num_followers": 179049,
   "original_name": "Mujeres del Pop Latino",
   "owner": {
     "name": "Spotify",
@@ -723,6 +723,22 @@
     {
       "added_at": "2024-09-12 21:36:25",
       "album": {
+        "name": "Laundry Service",
+        "url": "https://open.spotify.com/album/4DyMK9x2gnmRkRa16zHaEV"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "duration_ms": 194106,
+      "name": "Suerte (Whenever, Wherever)",
+      "url": "https://open.spotify.com/track/3TY1PFZXmYeiLcXygB74My"
+    },
+    {
+      "added_at": "2024-09-12 21:36:25",
+      "album": {
         "name": "Indeleble",
         "url": "https://open.spotify.com/album/5Y5vZKwOXADxWD4NjMCoUB"
       },
@@ -735,26 +751,6 @@
       "duration_ms": 220720,
       "name": "Volverte a Amar",
       "url": "https://open.spotify.com/track/6fgjHINGw77nBccZ0Fzj9n"
-    },
-    {
-      "added_at": "2024-09-12 21:36:25",
-      "album": {
-        "name": "MALA SANTA",
-        "url": "https://open.spotify.com/album/13MHW8hoLFjX7SaVEVmj3X"
-      },
-      "artists": [
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        },
-        {
-          "name": "NATTI NATASHA",
-          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
-        }
-      ],
-      "duration_ms": 190160,
-      "name": "Sin Pijama",
-      "url": "https://open.spotify.com/track/62vDrkBEyJYEOFj1ScBqM7"
     },
     {
       "added_at": "2024-09-12 21:36:25",
@@ -775,18 +771,22 @@
     {
       "added_at": "2024-09-12 21:36:25",
       "album": {
-        "name": "Laundry Service",
-        "url": "https://open.spotify.com/album/4DyMK9x2gnmRkRa16zHaEV"
+        "name": "MALA SANTA",
+        "url": "https://open.spotify.com/album/13MHW8hoLFjX7SaVEVmj3X"
       },
       "artists": [
         {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        },
+        {
+          "name": "NATTI NATASHA",
+          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
         }
       ],
-      "duration_ms": 194106,
-      "name": "Suerte (Whenever, Wherever)",
-      "url": "https://open.spotify.com/track/3TY1PFZXmYeiLcXygB74My"
+      "duration_ms": 190160,
+      "name": "Sin Pijama",
+      "url": "https://open.spotify.com/track/62vDrkBEyJYEOFj1ScBqM7"
     },
     {
       "added_at": "2024-09-12 21:36:25",
@@ -863,18 +863,18 @@
     {
       "added_at": "2024-09-12 21:36:25",
       "album": {
-        "name": "De Piel Negra",
-        "url": "https://open.spotify.com/album/4i0eMiYUxt1ESu6SrHQpVg"
+        "name": "Pies Descalzos",
+        "url": "https://open.spotify.com/album/3HLngzP9wVd8p3SMDQgyd9"
       },
       "artists": [
         {
-          "name": "Alejandra Guzman",
-          "url": "https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO"
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
         }
       ],
-      "duration_ms": 206440,
-      "name": "Eternamente Bella",
-      "url": "https://open.spotify.com/track/3pIgumKqXX7ge7lT9rCvNy"
+      "duration_ms": 205800,
+      "name": "Pies Descalzos, Sue\u00f1os Blancos",
+      "url": "https://open.spotify.com/track/5yKQTwznar5I75UyYJ9CnR"
     },
     {
       "added_at": "2024-09-12 21:36:25",
@@ -915,18 +915,18 @@
     {
       "added_at": "2024-09-12 21:36:25",
       "album": {
-        "name": "Gloria",
-        "url": "https://open.spotify.com/album/2130NP0O4zNPLiPDWWKacF"
+        "name": "De Piel Negra",
+        "url": "https://open.spotify.com/album/4i0eMiYUxt1ESu6SrHQpVg"
       },
       "artists": [
         {
-          "name": "Gloria Trevi",
-          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
+          "name": "Alejandra Guzman",
+          "url": "https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO"
         }
       ],
-      "duration_ms": 245693,
-      "name": "Vestida De Az\u00facar",
-      "url": "https://open.spotify.com/track/4pBNlXfyVL5VEx1AyglZUW"
+      "duration_ms": 206440,
+      "name": "Eternamente Bella",
+      "url": "https://open.spotify.com/track/3pIgumKqXX7ge7lT9rCvNy"
     },
     {
       "added_at": "2024-09-12 21:36:25",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1E0cNUolZdz3hMZiGNUi8V.md) - [plain]
 
 > 🔥 All the hottest hip hop tracks in one spot!
 
-[Topsify Canada](https://open.spotify.com/user/playlistmecanada) - 38,899 likes - 68 songs - 3 hr 7 min
+[Topsify Canada](https://open.spotify.com/user/playlistmecanada) - 38,895 likes - 68 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/1E0cNUolZdz3hMZiGNUi8V.md) - [plain]
 | 67 | [NISSAN ALTIMA](https://open.spotify.com/track/0fsgieABBLYkx6rk5N3JUD) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [NISSAN ALTIMA](https://open.spotify.com/album/3P3ODJQfeECySRtPV8cJBZ) | 2:08 |
 | 68 | [NEW DROP](https://open.spotify.com/track/2c7z5oRcPBbqRaBY2mLWcf) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [HARDSTONE PSYCHO](https://open.spotify.com/album/0Kzb3u6kMnOJOZXYFSk33F) | 3:37 |
 
-Snapshot ID: `AAAe+rnU0f6A4PxIe26MvB+KT+jCPtEE`
+Snapshot ID: `AAAe/HDm/Nku7sFFD/aeSKtzwrdi4TFq`

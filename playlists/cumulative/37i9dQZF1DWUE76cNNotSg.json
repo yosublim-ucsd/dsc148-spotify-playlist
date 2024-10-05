@@ -4442,7 +4442,7 @@
       ],
       "date_added": "2024-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 221089,
       "name": "JOY (Sun On My Skin)",
       "url": "https://open.spotify.com/track/4w66XUSDQjYIh2SrgqmSHr"
@@ -6688,6 +6688,28 @@
       "duration_ms": 156688,
       "name": "open this wall",
       "url": "https://open.spotify.com/track/4m30cfL2qOwlFsuGqMOZ8k"
+    },
+    {
+      "album": {
+        "name": "Otherside",
+        "url": "https://open.spotify.com/album/3BYf1IG8EqDbhzdpljcFWY"
+      },
+      "artists": [
+        {
+          "name": "Maribou State",
+          "url": "https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg"
+        },
+        {
+          "name": "Holly Walker",
+          "url": "https://open.spotify.com/artist/5vssQp6TyMHsx4mihKVAsC"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233211,
+      "name": "Otherside",
+      "url": "https://open.spotify.com/track/2pj2A25YQK4uMxhZheNx7R"
     },
     {
       "album": {
@@ -9129,7 +9151,7 @@
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 232737,
+      "duration_ms": 232738,
       "name": "TOGETHER",
       "url": "https://open.spotify.com/track/4Ihb3pHMTaLicABO47QMGM"
     },

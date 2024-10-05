@@ -1568,7 +1568,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 192471,
       "name": "Billionaire",
       "url": "https://open.spotify.com/track/3y2ZMeoLoyPIMPd2fNoR1u"
@@ -4593,6 +4593,24 @@
     },
     {
       "album": {
+        "name": "Halleluyah + Okay",
+        "url": "https://open.spotify.com/album/0LzN4nio4upuBZQW9wyzuI"
+      },
+      "artists": [
+        {
+          "name": "Kashcoming",
+          "url": "https://open.spotify.com/artist/5yJLqKU6LRfzliSQIVnJMI"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165923,
+      "name": "Halleluyah [Biza]",
+      "url": "https://open.spotify.com/track/0oyObKOS1AZ0hELKrhPPoJ"
+    },
+    {
+      "album": {
         "name": "Hard Knock Life",
         "url": "https://open.spotify.com/album/3wPRsJRVLH9VYo0l05lWr7"
       },
@@ -4604,7 +4622,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 163395,
       "name": "Hard Knock Life",
       "url": "https://open.spotify.com/track/699kLcoceODQX29VNqI5D4"
@@ -8004,6 +8022,24 @@
       "duration_ms": 162500,
       "name": "Nothing Matter",
       "url": "https://open.spotify.com/track/2VKwMLgRnO9Y41869IeCWO"
+    },
+    {
+      "album": {
+        "name": "NSN",
+        "url": "https://open.spotify.com/album/5JCMLtnCckuTySErkWcFrQ"
+      },
+      "artists": [
+        {
+          "name": "T-Classic",
+          "url": "https://open.spotify.com/artist/2nR9FjLTz90sFqGrhYdzXE"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159272,
+      "name": "NSN",
+      "url": "https://open.spotify.com/track/2VsWuilHfcBXfYmnt2n0lK"
     },
     {
       "album": {

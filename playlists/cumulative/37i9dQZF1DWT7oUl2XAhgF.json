@@ -4993,6 +4993,24 @@
     },
     {
       "album": {
+        "name": "My Heart is Drowning",
+        "url": "https://open.spotify.com/album/27MkfKfFf4AONvPedCeBrX"
+      },
+      "artists": [
+        {
+          "name": "Thee Sacred Souls",
+          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163813,
+      "name": "My Heart is Drowning",
+      "url": "https://open.spotify.com/track/3ULdoOEdHUrfoi7D1B4IC5"
+    },
+    {
+      "album": {
         "name": "My Oh My",
         "url": "https://open.spotify.com/album/3rWudFlMS9OWpxneFqm8yq"
       },
@@ -5192,6 +5210,28 @@
       "duration_ms": 135345,
       "name": "Nobody But You",
       "url": "https://open.spotify.com/track/6Oao4bGYFGXppmlI0cjIiS"
+    },
+    {
+      "album": {
+        "name": "Nobody Knows",
+        "url": "https://open.spotify.com/album/6pAdeErcUZeVFa4L7K3gV1"
+      },
+      "artists": [
+        {
+          "name": "Baby Bash",
+          "url": "https://open.spotify.com/artist/12PSlydMSjEHzSCj9X5qv7"
+        },
+        {
+          "name": "Micayla Rivera",
+          "url": "https://open.spotify.com/artist/3Sz03iUdsJZy5ucOO1ptYE"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175103,
+      "name": "Nobody Knows",
+      "url": "https://open.spotify.com/track/3wtwBpc3DAlbPtvSdKl73f"
     },
     {
       "album": {
@@ -5698,7 +5738,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 176879,
       "name": "Pure Intentions (feat. Gabriella)",
       "url": "https://open.spotify.com/track/4AnEPPs5a8lmsEY75mikDd"
@@ -5734,7 +5774,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 228000,
       "name": "Queen Of Hearts",
       "url": "https://open.spotify.com/track/4Qzm4q1oM6LPchREYr8Bmq"
@@ -6006,6 +6046,24 @@
       "duration_ms": 270600,
       "name": "River",
       "url": "https://open.spotify.com/track/2nn2TnyajaSRTbcZQxYVL7"
+    },
+    {
+      "album": {
+        "name": "Rocking My Boat",
+        "url": "https://open.spotify.com/album/0KEbI9xxTx7us0RRFwm8lM"
+      },
+      "artists": [
+        {
+          "name": "MT Jones",
+          "url": "https://open.spotify.com/artist/0DLNLJyVZ55oPrSrsbiD5m"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162522,
+      "name": "Rocking My Boat",
+      "url": "https://open.spotify.com/track/5iJtFfrTB0W8GXPPA0Nc28"
     },
     {
       "album": {
@@ -7677,6 +7735,24 @@
     },
     {
       "album": {
+        "name": "Tied To You",
+        "url": "https://open.spotify.com/album/1glLyrDFBwTwsurwQiQlrh"
+      },
+      "artists": [
+        {
+          "name": "Isak Thomas and The Stoop Boys",
+          "url": "https://open.spotify.com/artist/7gxsKHFFOFtx2zpx2Ur5Sa"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197000,
+      "name": "Tied To You",
+      "url": "https://open.spotify.com/track/1ADA4esDt0WOq5cpOHRT8a"
+    },
+    {
+      "album": {
         "name": "Shades of Yesterday",
         "url": "https://open.spotify.com/album/1IcqyDz4QNFHVipsoYcArU"
       },
@@ -7778,7 +7854,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 257920,
       "name": "Tough Love",
       "url": "https://open.spotify.com/track/5bHUq1YnLxcF8LWjnvFUVp"
@@ -8100,7 +8176,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 219786,
       "name": "Waiting on the Right Time",
       "url": "https://open.spotify.com/track/7rqR6MqQX8x2eDlAmleCRl"

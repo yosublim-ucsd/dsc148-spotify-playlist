@@ -4,7 +4,7 @@
 
 > Silky sounds for the sheets.
 
-235 songs - 13 hr 29 min
+236 songs - 13 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,7 @@
 | [F.U.C.K.](https://open.spotify.com/track/0iDuW211AjTsYDPsLxyqX4) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [F.U.C.K.](https://open.spotify.com/album/5ECJ8Rfo3VvvGz7MeBfhFC) | 3:25 | 2022-10-03 |  |
 | [Face Down](https://open.spotify.com/track/78XffyRIuVtqiYAZY6VzyW) | [Vedo](https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL), [OG Parker](https://open.spotify.com/artist/5hhgghBFkLDdMn93GW4x3I) | [Face Down](https://open.spotify.com/album/4HHcIQeI1O1QouiYCzROZN) | 2:48 | 2022-09-09 | 2023-02-03 |
 | [Facetime](https://open.spotify.com/track/2q4cLqUTbjtvlXIcaa85TA) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Shea Butter Baby](https://open.spotify.com/album/3hejjJbFsinMBc1KBqF71w) | 2:31 | 2022-10-03 | 2024-09-18 |
-| [FALLING](https://open.spotify.com/track/3cF6uekOdMpiyBauNJAqFJ) | [Che Ecru](https://open.spotify.com/artist/45AMD9qU0ERQY5RvR7deHR) | [PREJECTION](https://open.spotify.com/album/2QecXFCdxhwwee5vHbRGLX) | 2:14 | 2022-10-03 |  |
+| [FALLING](https://open.spotify.com/track/3cF6uekOdMpiyBauNJAqFJ) | [Che Ecru](https://open.spotify.com/artist/45AMD9qU0ERQY5RvR7deHR) | [PREJECTION](https://open.spotify.com/album/2QecXFCdxhwwee5vHbRGLX) | 2:14 | 2022-10-03 | 2024-10-05 |
 | [Fast Car](https://open.spotify.com/track/18kMrxuEwLL0i4lHnlF5rK) | [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [Fast Car](https://open.spotify.com/album/1sh8dsfPPlCVXVux5NgX5d) | 3:30 | 2021-08-13 | 2022-10-04 |
 | [Fingers Crossed](https://open.spotify.com/track/0XU0mcPnmFzj0bN6uSxKJW) | [Léonie Barbot](https://open.spotify.com/artist/3FtbcwEbxflXP8nItuw2rA) | [Fingers Crossed](https://open.spotify.com/album/3Vsw4BUQwZAgssAOIWQfNk) | 3:38 | 2022-10-03 | 2023-01-06 |
 | [Fire & Desire](https://open.spotify.com/track/4BhGTc3Cgay2U1QcTS7vQe) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Views](https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb) | 3:58 | 2022-10-03 |  |
@@ -191,6 +191,7 @@
 | [single af](https://open.spotify.com/track/3LcFNj04sHJson5SIrRPAe) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [single af](https://open.spotify.com/album/0NVib4XqpW1Yx4nOtbCDyh) | 3:06 | 2021-08-13 | 2022-10-04 |
 | [Skin Tight \(feat\. Steve Lacy\)](https://open.spotify.com/track/4KVSdwwJ67JHu5s9vIA0zi) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [HYPNOS](https://open.spotify.com/album/5Y4hUd0FPvCed5lu7loMXZ) | 3:47 | 2022-03-25 | 2024-04-19 |
 | [Skin Tight \(feat\. Steve Lacy\)](https://open.spotify.com/track/5qrPtPZ0o6pXIwdJrzASTs) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Skin Tight \(feat\. Steve Lacy\)](https://open.spotify.com/album/26eVDoCWYUMJ42dEAlsgDe) | 3:47 | 2022-02-04 | 2023-02-13 |
+| [SLO MO](https://open.spotify.com/track/3FYaHKp86M6wx5OnnqU4PO) | [Dylan Sinclair](https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx) | [FOR THE BOY IN ME](https://open.spotify.com/album/4ljESylaJog8Mc5VAWHEB3) | 4:07 | 2024-09-27 |  |
 | [Slow Down](https://open.spotify.com/track/5nRm6kz4ntiBGtygxGg5Dy) | [VanJess](https://open.spotify.com/artist/0Ek89uaJyo6NfWK22awFvI) | [Slow Down](https://open.spotify.com/album/4iDt95eDvKRfuf8fsVXNzl) | 3:48 | 2021-08-13 | 2022-10-04 |
 | [Slowly](https://open.spotify.com/track/6ghBp3GVUIorWj6fMQSie6) | [JON VINYL](https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu) | [PALISADE](https://open.spotify.com/album/7u21OnTH4Ve4lOD1qwwe8r) | 2:48 | 2022-12-02 | 2023-04-10 |
 | [Snooze](https://open.spotify.com/track/4iZ4pt7kvcaH6Yo8UoZ4s2) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:21 | 2023-02-02 |  |

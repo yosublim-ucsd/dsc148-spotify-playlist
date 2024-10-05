@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Mi gusto, mi estilo mi flow, puro perreo Mexa, beb\u00e9 \ud83c\udf51 El Chacal M\u00e1s Caro en portada ",
+  "description": "Mi gusto, mi estilo mi flow, puro perreo Mexa, beb\u00e9 \ud83c\udf51 La Chica de Las Poes\u00edas en portada ",
   "name": "Reggaet\u00f3n Mexa ",
   "tracks": [
     {
@@ -372,7 +372,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 179445,
       "name": "AFERRAFTER",
       "url": "https://open.spotify.com/track/5yocGyDqLyFOWAuuRF3nRf"
@@ -1506,7 +1506,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 150155,
       "name": "Booty Booty",
       "url": "https://open.spotify.com/track/5A8lUMKGNV5QWvneOkWWYc"
@@ -1610,7 +1610,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 230816,
       "name": "Brattiputy",
       "url": "https://open.spotify.com/track/4NRvhgXpBfLCPjdDbZHjp7"
@@ -2585,6 +2585,28 @@
     },
     {
       "album": {
+        "name": "Croketita",
+        "url": "https://open.spotify.com/album/3CjX01NbNniBDmTIhMzWaj"
+      },
+      "artists": [
+        {
+          "name": "Yeri Mua",
+          "url": "https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M"
+        },
+        {
+          "name": "La Loquera",
+          "url": "https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168300,
+      "name": "Croketita",
+      "url": "https://open.spotify.com/track/2viKn02L839kO9ka0FqCkm"
+    },
+    {
+      "album": {
         "name": "Crush",
         "url": "https://open.spotify.com/album/5JsA9FTFp25Else4NmAtRP"
       },
@@ -2820,6 +2842,28 @@
       "duration_ms": 187200,
       "name": "Dale Bogueto",
       "url": "https://open.spotify.com/track/57pTW0VdhvcQUYKtHby8MD"
+    },
+    {
+      "album": {
+        "name": "LA REINA DEL REGGAETON MEXICANO: TOMO I: La chica de las poes\u00edas",
+        "url": "https://open.spotify.com/album/1R1vycz825HAGn6wZIJe7F"
+      },
+      "artists": [
+        {
+          "name": "Bellakath",
+          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
+        },
+        {
+          "name": "Dani Flow",
+          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136285,
+      "name": "DANONINO",
+      "url": "https://open.spotify.com/track/4pqXzba0vyVasbDJDDQByK"
     },
     {
       "album": {
@@ -5112,7 +5156,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 188518,
       "name": "Hocico Caliente (feat. Alexito Mix)",
       "url": "https://open.spotify.com/track/0dkI99cPwW3TbstRfSv5m4"
@@ -10496,7 +10540,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 192266,
       "name": "QU\u00c9 ROLLITO PRIMAVERA",
       "url": "https://open.spotify.com/track/3WoxwWoay78KXzGRlAm7J7"
@@ -11620,6 +11664,32 @@
       "duration_ms": 212435,
       "name": "Sincero",
       "url": "https://open.spotify.com/track/5dk1nsQ2N2zHP4HmpYIxYa"
+    },
+    {
+      "album": {
+        "name": "Skinny",
+        "url": "https://open.spotify.com/album/3Mxgt2aVIUc5PnIeHDSudD"
+      },
+      "artists": [
+        {
+          "name": "Joss ML",
+          "url": "https://open.spotify.com/artist/1iwzxDCn3LikHvzTC3OFZA"
+        },
+        {
+          "name": "Alan Dazmel",
+          "url": "https://open.spotify.com/artist/3C1SUHXW7THF8hkOP7Rekm"
+        },
+        {
+          "name": "Dj Hate",
+          "url": "https://open.spotify.com/artist/0CE9Pp45uCrBkCsL4COjfS"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162727,
+      "name": "Skinny",
+      "url": "https://open.spotify.com/track/6UI6qrwAlmT7pCRL41afdu"
     },
     {
       "album": {
@@ -12793,6 +12863,28 @@
     },
     {
       "album": {
+        "name": "LA REINA DEL REGGAETON MEXICANO: TOMO I: La chica de las poes\u00edas",
+        "url": "https://open.spotify.com/album/1R1vycz825HAGn6wZIJe7F"
+      },
+      "artists": [
+        {
+          "name": "Bellakath",
+          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
+        },
+        {
+          "name": "Los Menores",
+          "url": "https://open.spotify.com/artist/51YrdVc67EHkCDRJMHxJal"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166437,
+      "name": "TRIPLE P",
+      "url": "https://open.spotify.com/track/6qsj7miSiFODBWWP3FR7Qe"
+    },
+    {
+      "album": {
         "name": "Triple P",
         "url": "https://open.spotify.com/album/2pJ6OlCOxGLNTYGaza5hN8"
       },
@@ -13272,6 +13364,28 @@
       "duration_ms": 127264,
       "name": "Uy K Raro",
       "url": "https://open.spotify.com/track/526lL7I17vKOuiD9Wd2vMt"
+    },
+    {
+      "album": {
+        "name": "UY!",
+        "url": "https://open.spotify.com/album/55PIrIUCPczknySwrDZE8b"
+      },
+      "artists": [
+        {
+          "name": "Dani Flow",
+          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
+        },
+        {
+          "name": "Go Golden Junk",
+          "url": "https://open.spotify.com/artist/2tU377oBzcCBbRNeVve8FC"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156089,
+      "name": "UY!",
+      "url": "https://open.spotify.com/track/2NjbaMlBbfRqFkylLtjfeJ"
     },
     {
       "album": {

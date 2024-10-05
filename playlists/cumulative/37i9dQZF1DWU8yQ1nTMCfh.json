@@ -2493,6 +2493,24 @@
     },
     {
       "album": {
+        "name": "Las Olas",
+        "url": "https://open.spotify.com/album/0LRqzDjRWb4MSPoDnaKnvJ"
+      },
+      "artists": [
+        {
+          "name": "Oh'laville",
+          "url": "https://open.spotify.com/artist/5uDxyttOUh6KJic2MFbwQ7"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214556,
+      "name": "Las Olas",
+      "url": "https://open.spotify.com/track/6uD9TBxKOcTERyinvPwtiF"
+    },
+    {
+      "album": {
         "name": "Leche de Tigre",
         "url": "https://open.spotify.com/album/2jWdBKOz7I73GULBYQU0k8"
       },
@@ -3065,6 +3083,28 @@
     },
     {
       "album": {
+        "name": "Mi Tormenta (feat. DannyLux)",
+        "url": "https://open.spotify.com/album/2fQK7PAhWR8oEsS7nqQCCs"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        },
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202479,
+      "name": "Mi Tormenta (feat. DannyLux)",
+      "url": "https://open.spotify.com/track/2aWBskyssdR9VyVV3dH65j"
+    },
+    {
+      "album": {
         "name": "Miento",
         "url": "https://open.spotify.com/album/0AKbl4MBCdVIRCn1qQ2vne"
       },
@@ -3634,7 +3674,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 293866,
       "name": "Noches Largas (feat. Bruses)",
       "url": "https://open.spotify.com/track/5cOp5gpIT6HTJ2oDgaQsNu"
@@ -3840,6 +3880,28 @@
       "duration_ms": 216040,
       "name": "Para Siempre",
       "url": "https://open.spotify.com/track/2VqVScPVFQLtg6bDtnhQW3"
+    },
+    {
+      "album": {
+        "name": "Pasos Al Costado",
+        "url": "https://open.spotify.com/album/0RIsFI6QTHoMkrs46q3ApG"
+      },
+      "artists": [
+        {
+          "name": "Turf",
+          "url": "https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1"
+        },
+        {
+          "name": "Milo j",
+          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240703,
+      "name": "Pasos Al Costado",
+      "url": "https://open.spotify.com/track/2CHRH34SWRjo1hvvbnpDww"
     },
     {
       "album": {
@@ -4236,7 +4298,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 250746,
       "name": "Quetzal",
       "url": "https://open.spotify.com/track/79TPB4n8m3evt7RUJZ1Kqe"
@@ -4898,7 +4960,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 171904,
       "name": "Su\u00e9ltate el pelo",
       "url": "https://open.spotify.com/track/3MGZVhOFo5ihrcUjFkE8mb"
@@ -5621,7 +5683,7 @@
     },
     {
       "album": {
-        "name": "Volver a cero",
+        "name": "VOLVER A CERO",
         "url": "https://open.spotify.com/album/0RYkXZaDl8Ts08iSuP9GmA"
       },
       "artists": [
@@ -5634,7 +5696,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 186250,
-      "name": "Volver a cero",
+      "name": "VOLVER A CERO",
       "url": "https://open.spotify.com/track/7qbWxkPj2QexzkWIGz9sxs"
     },
     {

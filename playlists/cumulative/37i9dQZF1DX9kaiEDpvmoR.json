@@ -99,6 +99,24 @@
     },
     {
       "album": {
+        "name": "Moon Music",
+        "url": "https://open.spotify.com/album/5SGtrmYbIo0Dsg4kJ4qjM6"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222647,
+      "name": "ALL MY LOVE",
+      "url": "https://open.spotify.com/track/6iYxkBHyMpsgVxUgfy5fSx"
+    },
+    {
+      "album": {
         "name": "All v\u00e5r dans",
         "url": "https://open.spotify.com/album/1XSg5n8WaCQ3y5QM25CZ0K"
       },
@@ -690,7 +708,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 191229,
       "name": "Du \u00e4r inte ensam",
       "url": "https://open.spotify.com/track/6hysTRJfm36bH5gyGhMokz"
@@ -2469,7 +2487,7 @@
         },
         {
           "name": "Amanda Ginsburg",
-          "url": "https://open.spotify.com/artist/4V0OhT2NmvpEjKrhny0xVy"
+          "url": "https://open.spotify.com/artist/0WnqhdeUWBRldiZFW83Ahj"
         }
       ],
       "date_added": "2024-10-03",
@@ -3140,7 +3158,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-04",
+      "date_removed": null,
       "duration_ms": 169246,
       "name": "S\u00e4g vad du t\u00e4nker",
       "url": "https://open.spotify.com/track/0xzGKqSRbmUPfAMkxvvKOw"
@@ -3306,7 +3324,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 206304,
       "name": "Tiden f\u00f6rsvinner",
       "url": "https://open.spotify.com/track/3THkpuPm9r1eu2Y2YXsHjb"

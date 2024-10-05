@@ -4,24 +4,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtEjm4ihp5w.md) - [plain]
 
 > had chher, atl9a chi trackate fayt khrjou f Octobre\. Updated every Thursday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,681 likes - 45 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,777 likes - 45 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Fi Derbi \(feat\. ElGrandeToto\)](https://open.spotify.com/track/0wKhdPK4fHXRnOskjvgWqe) | [SKY](https://open.spotify.com/artist/5yviYTy79A8vuWF8iR6nPS), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Fi Derbi \(feat\. ElGrandeToto\)](https://open.spotify.com/album/51tY4pBj3dgPwBGdgioUQp) | 3:03 |
 | 2 | [Messi](https://open.spotify.com/track/47x0OLzz5GUTS0fZOHpS8v) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [Messi](https://open.spotify.com/album/3DN32dCAFQUobrMOFECRyk) | 3:30 |
-| 3 | [Sality Wla Ba91](https://open.spotify.com/track/6qEennteH7K9g4Lw1sb9Hn) | [Dizzy DROS](https://open.spotify.com/artist/5eA2wbwYcQ2iOJ3uc8byIh) | [Sality Wla Ba91](https://open.spotify.com/album/15pDNMHadZGbwQBwev9SwP) | 3:09 |
+| 3 | [OU TT](https://open.spotify.com/track/7AWvPNgwHdkVypwKao03Zh) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh), [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [OU TT](https://open.spotify.com/album/7AyaR72XJIBdIqkN3NW94E) | 4:04 |
 | 4 | [Lalla w Mali](https://open.spotify.com/track/3Thycu4Wd5AwGFDYYWiioT) | [Figoshin](https://open.spotify.com/artist/7vg7wkmGzMEM7p2ZkMPHJS) | [Lalla w Mali](https://open.spotify.com/album/1PJZUE8mS0n32Rbf7buCXl) | 2:56 |
 | 5 | [Bilal](https://open.spotify.com/track/78yskfJqcpFfRFDTyo3XVN) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [7liwa](https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3) | [Bilal](https://open.spotify.com/album/4D6AoXPlCkQX18mJLtzVJD) | 3:12 |
 | 6 | [6 STARS](https://open.spotify.com/track/4Lozk0H98Zzu7iEoOMQy2t) | [Vargas](https://open.spotify.com/artist/5QYFmxyElbfvHtovLIsjDb) | [6 STARS](https://open.spotify.com/album/1mUqezppyVhmPDJHX7E1tq) | 2:40 |
-| 7 | [OU TT](https://open.spotify.com/track/7AWvPNgwHdkVypwKao03Zh) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh), [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [OU TT](https://open.spotify.com/album/7AyaR72XJIBdIqkN3NW94E) | 4:04 |
-| 8 | [9awdooha](https://open.spotify.com/track/47KfyhP2ug5y5kyOSOtxl9) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx), [LFERDA](https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v) | [9awdooha](https://open.spotify.com/album/03uT25cdW6GeUcRRE3Ulv3) | 3:47 |
-| 9 | [Douwi Douwi](https://open.spotify.com/track/7wFJmDfeb7CtN8xAr4ftSV) | [7liwa](https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3) | [Douwi Douwi](https://open.spotify.com/album/17Zn5YkVV8L3sNpBDTS71K) | 3:02 |
-| 10 | [3A9EL](https://open.spotify.com/track/3kbQeJnwvrhxKS9CExZlSI) | [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6), [IZI](https://open.spotify.com/artist/4zpYVC3SJ9r47ztLrd94N5) | [3A9EL](https://open.spotify.com/album/6712T5yLZMI1AZlRGH9eOx) | 4:27 |
-| 11 | [Cabo Marsilia](https://open.spotify.com/track/5oYNFgjcI54w0S0xWvyw6z) | [Msaweb Hakka](https://open.spotify.com/artist/3RTgG5hrcDpBeakIHCwqhf) | [Leêjb V](https://open.spotify.com/album/7wqLrgT0JgH0KXgbpEzTSz) | 2:38 |
-| 12 | [MARADONA](https://open.spotify.com/track/1GxUG5xWcY2R9hQ3NcE5ya) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [ICEBERG](https://open.spotify.com/album/3zKwuAbA8kBGjwgGhebvI5) | 2:40 |
-| 13 | [MAGHRIBI](https://open.spotify.com/track/1Z420TiuEXtSn9SEUIC3ks) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [27](https://open.spotify.com/album/7reIwvnsIotYtgBcyud7SC) | 4:14 |
-| 14 | [We9tna](https://open.spotify.com/track/2rh4EGUcaSSSir82rbfoua) | [L'morphine](https://open.spotify.com/artist/4vyibjuGePnrB7BzbHkA6u) | [YAKINE](https://open.spotify.com/album/5LuZWDplnk8b6cL0BV3SJ9) | 3:20 |
+| 7 | [Douwi Douwi](https://open.spotify.com/track/7wFJmDfeb7CtN8xAr4ftSV) | [7liwa](https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3) | [Douwi Douwi](https://open.spotify.com/album/17Zn5YkVV8L3sNpBDTS71K) | 3:02 |
+| 8 | [Cabo Marsilia](https://open.spotify.com/track/5oYNFgjcI54w0S0xWvyw6z) | [Msaweb Hakka](https://open.spotify.com/artist/3RTgG5hrcDpBeakIHCwqhf) | [Leêjb V](https://open.spotify.com/album/7wqLrgT0JgH0KXgbpEzTSz) | 2:38 |
+| 9 | [9awdooha](https://open.spotify.com/track/47KfyhP2ug5y5kyOSOtxl9) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx), [LFERDA](https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v) | [9awdooha](https://open.spotify.com/album/03uT25cdW6GeUcRRE3Ulv3) | 3:47 |
+| 10 | [MARADONA](https://open.spotify.com/track/1GxUG5xWcY2R9hQ3NcE5ya) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [ICEBERG](https://open.spotify.com/album/3zKwuAbA8kBGjwgGhebvI5) | 2:40 |
+| 11 | [Sality Wla Ba91](https://open.spotify.com/track/6qEennteH7K9g4Lw1sb9Hn) | [Dizzy DROS](https://open.spotify.com/artist/5eA2wbwYcQ2iOJ3uc8byIh) | [Sality Wla Ba91](https://open.spotify.com/album/15pDNMHadZGbwQBwev9SwP) | 3:09 |
+| 12 | [3A9EL](https://open.spotify.com/track/3kbQeJnwvrhxKS9CExZlSI) | [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6), [IZI](https://open.spotify.com/artist/4zpYVC3SJ9r47ztLrd94N5) | [3A9EL](https://open.spotify.com/album/6712T5yLZMI1AZlRGH9eOx) | 4:27 |
+| 13 | [We9tna](https://open.spotify.com/track/2rh4EGUcaSSSir82rbfoua) | [L'morphine](https://open.spotify.com/artist/4vyibjuGePnrB7BzbHkA6u) | [YAKINE](https://open.spotify.com/album/5LuZWDplnk8b6cL0BV3SJ9) | 3:20 |
+| 14 | [MAGHRIBI](https://open.spotify.com/track/1Z420TiuEXtSn9SEUIC3ks) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [27](https://open.spotify.com/album/7reIwvnsIotYtgBcyud7SC) | 4:14 |
 | 15 | [CADABRA](https://open.spotify.com/track/5Tar0bByzTkBdCtAx1qDHv) | [Dada](https://open.spotify.com/artist/7prKK2GchmQEkgUsAFXEz0), [Abduh](https://open.spotify.com/artist/3Urq8zrlV3dLnLnL40xqWk) | [ABRACADABRA](https://open.spotify.com/album/5gjYTipqa2zQnwG0LUkFUx) | 2:42 |
 | 16 | [Calimero](https://open.spotify.com/track/4W4KSpJ4ZLCP6IiqBjfLOu) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [Calimero](https://open.spotify.com/album/1lhGymNRIst8WkZBMT2FSv) | 4:22 |
 | 17 | [Obligación](https://open.spotify.com/track/5YyO478uZQNJ9s9B1cBB3z) | [Delarue](https://open.spotify.com/artist/5k63RPpkbbyVuufLXS2GTe), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [NO STOP](https://open.spotify.com/album/6FPY0EcDgbE3bNaFPAtfVv) | 4:30 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtEjm4ihp5w.md) - [plain]
 | 44 | [M3a L3echrane](https://open.spotify.com/track/39Tt3K2AHv4hJS4W6QIPgZ) | [Dizzy DROS](https://open.spotify.com/artist/5eA2wbwYcQ2iOJ3uc8byIh) | [M3a L3echrane](https://open.spotify.com/album/0wmeXAtXpjaeevmIFsLPGh) | 3:52 |
 | 45 | [MTV CRIBS](https://open.spotify.com/track/2pMw5VOlOtM7q5j2vp3QbF) | [Fat Mizzo](https://open.spotify.com/artist/4sGgnHfL5rjJqK5WxQl9bU) | [MTV CRIBS](https://open.spotify.com/album/1OXlhfKHKoXmHBVBhAlSFi) | 3:44 |
 
-Snapshot ID: `Zv7CMwAAAAC7eogwy4J4IDbw5KMzsb3R`
+Snapshot ID: `Zv/pQgAAAADXxQ6DdLMmAvpXdA0LL44Z`

@@ -2126,7 +2126,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 216770,
       "name": "Dopamine (feat. Eyelar)",
       "url": "https://open.spotify.com/track/62102D1yfhWdzW39Vj06FR"
@@ -2926,6 +2926,24 @@
       "duration_ms": 234493,
       "name": "Free Yourself",
       "url": "https://open.spotify.com/track/1BXAyGazbybUVNQ0VmGsdl"
+    },
+    {
+      "album": {
+        "name": "TANZPARTEI II (Mixtape)",
+        "url": "https://open.spotify.com/album/6lvniwPO6u3mkNTN3tSQcR"
+      },
+      "artists": [
+        {
+          "name": "ATRIP",
+          "url": "https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151599,
+      "name": "Friday (Alone Right Now)",
+      "url": "https://open.spotify.com/track/3hx5rxhEbaSIoHY1erGnby"
     },
     {
       "album": {
@@ -5484,7 +5502,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 207813,
       "name": "Loved By U",
       "url": "https://open.spotify.com/track/1SldN7GTd0ADTjspv96wCl"
@@ -5780,7 +5798,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 197648,
       "name": "Midnight Rapture",
       "url": "https://open.spotify.com/track/1c5sVhqoQvLHTXTYJTb98i"
@@ -6920,7 +6938,7 @@
       ],
       "date_added": "2023-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 191053,
       "name": "Relax My Eyes",
       "url": "https://open.spotify.com/track/1J3C8kdqUckBrTtgttm0AA"
@@ -8835,6 +8853,28 @@
     },
     {
       "album": {
+        "name": "True",
+        "url": "https://open.spotify.com/album/5w8japF2UnvsfCGcoNn2Oo"
+      },
+      "artists": [
+        {
+          "name": "CYRIL",
+          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
+        },
+        {
+          "name": "Kita Alexander",
+          "url": "https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125806,
+      "name": "True",
+      "url": "https://open.spotify.com/track/2pw12Ta8UfYKesE52ldUFm"
+    },
+    {
+      "album": {
         "name": "Turn Back Time",
         "url": "https://open.spotify.com/album/6ISAjoZeji9okRE4icKBmB"
       },
@@ -8993,6 +9033,28 @@
     },
     {
       "album": {
+        "name": "We Are Family",
+        "url": "https://open.spotify.com/album/7xIWzkfjtty0GSWvD53ttB"
+      },
+      "artists": [
+        {
+          "name": "Cedric Gervais",
+          "url": "https://open.spotify.com/artist/4Wjf8diP59VmPG7fi4y724"
+        },
+        {
+          "name": "Nile Rodgers",
+          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153750,
+      "name": "We Are Family",
+      "url": "https://open.spotify.com/track/0XxPbVN8z9kyqarkrsl43J"
+    },
+    {
+      "album": {
         "name": "We Are The People (feat. Bono & The Edge) [Official UEFA EURO 2020 Song]",
         "url": "https://open.spotify.com/album/06RhAj4FSp8YlDyrxulgbt"
       },
@@ -9126,6 +9188,32 @@
       "duration_ms": 158312,
       "name": "We'll Be Dancing Soon",
       "url": "https://open.spotify.com/track/39CyGsoGoW4yayA731IP4s"
+    },
+    {
+      "album": {
+        "name": "Weekend Release",
+        "url": "https://open.spotify.com/album/7cs732dE0Paj8fGS4nxdxQ"
+      },
+      "artists": [
+        {
+          "name": "Janika Tenn",
+          "url": "https://open.spotify.com/artist/5JJ2mNTKFgulclDJxMIyOC"
+        },
+        {
+          "name": "Todd Terry",
+          "url": "https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu"
+        },
+        {
+          "name": "Tristan Henry",
+          "url": "https://open.spotify.com/artist/6UyRsPqWooGjDexC857b1T"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185957,
+      "name": "Weekend Release",
+      "url": "https://open.spotify.com/track/4nuSOZtY2jRO2hdiKW5ehL"
     },
     {
       "album": {

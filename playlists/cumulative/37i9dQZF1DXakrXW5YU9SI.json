@@ -1758,7 +1758,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 185786,
       "name": "list do niej",
       "url": "https://open.spotify.com/track/3AFWlh9Q4qTdqRR0ASqoKL"
@@ -2416,6 +2416,24 @@
       "duration_ms": 189500,
       "name": "pami\u0119tam",
       "url": "https://open.spotify.com/track/5m4uTLWkLzT5fCX6yW1rTz"
+    },
+    {
+      "album": {
+        "name": "Mountain Music",
+        "url": "https://open.spotify.com/album/1Q1C9JR5mIRc48MgJqu1G5"
+      },
+      "artists": [
+        {
+          "name": "Nina Nesbitt",
+          "url": "https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250272,
+      "name": "Parachute",
+      "url": "https://open.spotify.com/track/0f5Zp30ih99H6eEBoKiul8"
     },
     {
       "album": {

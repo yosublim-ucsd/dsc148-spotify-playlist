@@ -411,6 +411,24 @@
     },
     {
       "album": {
+        "name": "Amor Clandestino",
+        "url": "https://open.spotify.com/album/5fONermHT1f2oYa1AwMBGL"
+      },
+      "artists": [
+        {
+          "name": "Monada",
+          "url": "https://open.spotify.com/artist/5ts3iw277wUG2DUKnqktAD"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169701,
+      "name": "Amor Clandestino",
+      "url": "https://open.spotify.com/track/2WpEo1QdYomT2CKwIaYpEN"
+    },
+    {
+      "album": {
         "name": "Soy Cordobes",
         "url": "https://open.spotify.com/album/20PWLBvxLIh1mo0Cq4tek3"
       },
@@ -826,6 +844,28 @@
       "duration_ms": 232514,
       "name": "A\u00fan Te Quiero - (En Vivo)",
       "url": "https://open.spotify.com/track/3Pp8IwkIi9SNPrgRyC5G00"
+    },
+    {
+      "album": {
+        "name": "Balas Perdidas",
+        "url": "https://open.spotify.com/album/3FuOxabcnQnmG1AykUZOR3"
+      },
+      "artists": [
+        {
+          "name": "La K'onga",
+          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
+        },
+        {
+          "name": "Eugenia Quevedo",
+          "url": "https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181960,
+      "name": "Balas Perdidas",
+      "url": "https://open.spotify.com/track/1IvUu9AOjyUdYZpAvUxjAo"
     },
     {
       "album": {
@@ -1476,7 +1516,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 190045,
       "name": "Conv\u00e9nceme",
       "url": "https://open.spotify.com/track/3Oa9oxOLUYGQgzKXGIMpWy"
@@ -1956,7 +1996,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 387552,
       "name": "De Quien Es la Culpa / Como Lo Hacias Con El",
       "url": "https://open.spotify.com/track/0GWrX4qSvHTnpWLhHRRrZi"

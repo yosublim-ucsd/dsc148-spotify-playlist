@@ -1,6 +1,6 @@
 {
   "description": "Hop in.",
-  "num_followers": 1110151,
+  "num_followers": 1110286,
   "original_name": "Indie Rock Road Trip",
   "owner": {
     "name": "Spotify",
@@ -303,18 +303,18 @@
     {
       "added_at": "2024-08-15 21:23:27",
       "album": {
-        "name": "Wolfgang Amadeus Phoenix",
-        "url": "https://open.spotify.com/album/0xG5b9nkWxKc5VTpo6Fq5I"
+        "name": "Fever To Tell (Deluxe Remastered)",
+        "url": "https://open.spotify.com/album/44ePwTuWK88vnalqutqJEG"
       },
       "artists": [
         {
-          "name": "Phoenix",
-          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
         }
       ],
-      "duration_ms": 241640,
-      "name": "Lisztomania",
-      "url": "https://open.spotify.com/track/7fmJGzyvOcbh6UANsH8Cp6"
+      "duration_ms": 219986,
+      "name": "Maps",
+      "url": "https://open.spotify.com/track/0hDQV9X1Da5JrwhK8gu86p"
     },
     {
       "added_at": "2024-08-15 21:23:27",
@@ -355,18 +355,18 @@
     {
       "added_at": "2024-08-15 21:23:27",
       "album": {
-        "name": "Fever To Tell (Deluxe Remastered)",
-        "url": "https://open.spotify.com/album/44ePwTuWK88vnalqutqJEG"
+        "name": "Wolfgang Amadeus Phoenix",
+        "url": "https://open.spotify.com/album/0xG5b9nkWxKc5VTpo6Fq5I"
       },
       "artists": [
         {
-          "name": "Yeah Yeah Yeahs",
-          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
         }
       ],
-      "duration_ms": 219986,
-      "name": "Maps",
-      "url": "https://open.spotify.com/track/0hDQV9X1Da5JrwhK8gu86p"
+      "duration_ms": 241640,
+      "name": "Lisztomania",
+      "url": "https://open.spotify.com/track/7fmJGzyvOcbh6UANsH8Cp6"
     },
     {
       "added_at": "2024-08-15 21:23:27",
@@ -401,6 +401,22 @@
       "url": "https://open.spotify.com/track/7e8utCy2JlSB8dRHKi49xM"
     },
     {
+      "added_at": "2024-08-29 16:36:01",
+      "album": {
+        "name": "Her",
+        "url": "https://open.spotify.com/album/3YsLlWQ9dzG0dFQQZO1jEv"
+      },
+      "artists": [
+        {
+          "name": "The American Dawn",
+          "url": "https://open.spotify.com/artist/3EXC0gkpntFvtLS1R0yf11"
+        }
+      ],
+      "duration_ms": 214086,
+      "name": "Her",
+      "url": "https://open.spotify.com/track/2vlkTkPqdATznKHu9gD2c1"
+    },
+    {
       "added_at": "2024-08-15 21:23:27",
       "album": {
         "name": "Freakin' Out On The Interstate (Acoustic Version [Live])",
@@ -431,22 +447,6 @@
       "duration_ms": 180872,
       "name": "Murder on the Dance Floor - triple j Like A Version",
       "url": "https://open.spotify.com/track/1swz9stsbG1p34SJHJqiww"
-    },
-    {
-      "added_at": "2024-08-29 16:36:01",
-      "album": {
-        "name": "Her",
-        "url": "https://open.spotify.com/album/3YsLlWQ9dzG0dFQQZO1jEv"
-      },
-      "artists": [
-        {
-          "name": "The American Dawn",
-          "url": "https://open.spotify.com/artist/3EXC0gkpntFvtLS1R0yf11"
-        }
-      ],
-      "duration_ms": 214086,
-      "name": "Her",
-      "url": "https://open.spotify.com/track/2vlkTkPqdATznKHu9gD2c1"
     },
     {
       "added_at": "2024-08-15 21:23:27",
@@ -483,22 +483,6 @@
     {
       "added_at": "2024-08-15 21:23:27",
       "album": {
-        "name": "How Will You Know If You Never Try",
-        "url": "https://open.spotify.com/album/4TJUrdwbeKC9qcouPlBuLe"
-      },
-      "artists": [
-        {
-          "name": "COIN",
-          "url": "https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE"
-        }
-      ],
-      "duration_ms": 187133,
-      "name": "Talk Too Much",
-      "url": "https://open.spotify.com/track/4djIFfof5TpbSGRZUpsTXq"
-    },
-    {
-      "added_at": "2024-08-15 21:23:27",
-      "album": {
         "name": "The Slow Rush",
         "url": "https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 249586,
       "name": "Lost In Yesterday",
       "url": "https://open.spotify.com/track/5JWPUEov2wlX7c0jhYZpeB"
+    },
+    {
+      "added_at": "2024-08-15 21:23:27",
+      "album": {
+        "name": "How Will You Know If You Never Try",
+        "url": "https://open.spotify.com/album/4TJUrdwbeKC9qcouPlBuLe"
+      },
+      "artists": [
+        {
+          "name": "COIN",
+          "url": "https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE"
+        }
+      ],
+      "duration_ms": 187133,
+      "name": "Talk Too Much",
+      "url": "https://open.spotify.com/track/4djIFfof5TpbSGRZUpsTXq"
     },
     {
       "added_at": "2024-08-15 21:23:27",
@@ -531,18 +531,18 @@
     {
       "added_at": "2024-08-15 21:23:27",
       "album": {
-        "name": "Sofa Kings",
-        "url": "https://open.spotify.com/album/6qKsVbDuX5sKB4OTqkNc0C"
+        "name": "The Suburbs (Deluxe)",
+        "url": "https://open.spotify.com/album/0gkUcpkyW2SXN49Yktkf6F"
       },
       "artists": [
         {
-          "name": "Royel Otis",
-          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+          "name": "Arcade Fire",
+          "url": "https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB"
         }
       ],
-      "duration_ms": 196317,
-      "name": "Sofa King",
-      "url": "https://open.spotify.com/track/25HgUJf69zb3K7TJw7LGCQ"
+      "duration_ms": 315026,
+      "name": "The Suburbs",
+      "url": "https://open.spotify.com/track/5iItYl3Q6wCnKVfpK1uNVf"
     },
     {
       "added_at": "2024-08-15 21:23:27",
@@ -579,22 +579,6 @@
     {
       "added_at": "2024-08-15 21:23:27",
       "album": {
-        "name": "The Suburbs (Deluxe)",
-        "url": "https://open.spotify.com/album/0gkUcpkyW2SXN49Yktkf6F"
-      },
-      "artists": [
-        {
-          "name": "Arcade Fire",
-          "url": "https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB"
-        }
-      ],
-      "duration_ms": 315026,
-      "name": "The Suburbs",
-      "url": "https://open.spotify.com/track/5iItYl3Q6wCnKVfpK1uNVf"
-    },
-    {
-      "added_at": "2024-08-15 21:23:27",
-      "album": {
         "name": "Robbers & Cowards",
         "url": "https://open.spotify.com/album/1LTbo93CjLo48yNP8Ysaz5"
       },
@@ -611,18 +595,18 @@
     {
       "added_at": "2024-08-15 21:23:27",
       "album": {
-        "name": "Calling After Me",
-        "url": "https://open.spotify.com/album/0nwCSeTiLqsDU07k4MopnW"
+        "name": "Sofa Kings",
+        "url": "https://open.spotify.com/album/6qKsVbDuX5sKB4OTqkNc0C"
       },
       "artists": [
         {
-          "name": "Wallows",
-          "url": "https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL"
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
         }
       ],
-      "duration_ms": 187692,
-      "name": "Calling After Me",
-      "url": "https://open.spotify.com/track/2WGcpz55A2vrvh6foEGCNL"
+      "duration_ms": 196317,
+      "name": "Sofa King",
+      "url": "https://open.spotify.com/track/25HgUJf69zb3K7TJw7LGCQ"
     },
     {
       "added_at": "2024-08-15 21:23:27",
@@ -639,6 +623,22 @@
       "duration_ms": 117173,
       "name": "The Sunshine",
       "url": "https://open.spotify.com/track/63k361zOGEhmvgzBdzzSGP"
+    },
+    {
+      "added_at": "2024-08-15 21:23:27",
+      "album": {
+        "name": "Calling After Me",
+        "url": "https://open.spotify.com/album/0nwCSeTiLqsDU07k4MopnW"
+      },
+      "artists": [
+        {
+          "name": "Wallows",
+          "url": "https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL"
+        }
+      ],
+      "duration_ms": 187692,
+      "name": "Calling After Me",
+      "url": "https://open.spotify.com/track/2WGcpz55A2vrvh6foEGCNL"
     },
     {
       "added_at": "2024-08-15 21:23:27",
@@ -675,22 +675,6 @@
     {
       "added_at": "2024-08-15 21:23:27",
       "album": {
-        "name": "Sure Sure",
-        "url": "https://open.spotify.com/album/7EfgATnOllXJ96s4sSdzei"
-      },
-      "artists": [
-        {
-          "name": "Sure Sure",
-          "url": "https://open.spotify.com/artist/1anAI9P9iSzc9qzLv6AtHZ"
-        }
-      ],
-      "duration_ms": 219260,
-      "name": "This Must Be The Place",
-      "url": "https://open.spotify.com/track/6PuoZT4kgw5DrUEdnQ6e01"
-    },
-    {
-      "added_at": "2024-08-15 21:23:27",
-      "album": {
         "name": "Tonight",
         "url": "https://open.spotify.com/album/6ppF24fU5pqbPrPuK5zVnS"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 232200,
       "name": "The High Road",
       "url": "https://open.spotify.com/track/5cwN1htZyoWqZCc33f3RfE"
+    },
+    {
+      "added_at": "2024-08-15 21:23:27",
+      "album": {
+        "name": "Sure Sure",
+        "url": "https://open.spotify.com/album/7EfgATnOllXJ96s4sSdzei"
+      },
+      "artists": [
+        {
+          "name": "Sure Sure",
+          "url": "https://open.spotify.com/artist/1anAI9P9iSzc9qzLv6AtHZ"
+        }
+      ],
+      "duration_ms": 219260,
+      "name": "This Must Be The Place",
+      "url": "https://open.spotify.com/track/6PuoZT4kgw5DrUEdnQ6e01"
     },
     {
       "added_at": "2024-08-15 21:23:27",
@@ -787,22 +787,6 @@
     {
       "added_at": "2024-08-15 21:23:27",
       "album": {
-        "name": "Sylvan Esso",
-        "url": "https://open.spotify.com/album/1862qnxqsLeiNDblknjtiL"
-      },
-      "artists": [
-        {
-          "name": "Sylvan Esso",
-          "url": "https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv"
-        }
-      ],
-      "duration_ms": 268213,
-      "name": "Coffee",
-      "url": "https://open.spotify.com/track/30GGIrrJdSNtecPiFcVP5O"
-    },
-    {
-      "added_at": "2024-08-15 21:23:27",
-      "album": {
         "name": "Miike Snow",
         "url": "https://open.spotify.com/album/3EqIz9KGQakhATc71OGQQi"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 263426,
       "name": "Animal",
       "url": "https://open.spotify.com/track/6vSq5q5DCs1IvwKIq53hj2"
+    },
+    {
+      "added_at": "2024-08-15 21:23:27",
+      "album": {
+        "name": "Sylvan Esso",
+        "url": "https://open.spotify.com/album/1862qnxqsLeiNDblknjtiL"
+      },
+      "artists": [
+        {
+          "name": "Sylvan Esso",
+          "url": "https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv"
+        }
+      ],
+      "duration_ms": 268213,
+      "name": "Coffee",
+      "url": "https://open.spotify.com/track/30GGIrrJdSNtecPiFcVP5O"
     },
     {
       "added_at": "2024-08-15 21:23:27",
@@ -903,22 +903,6 @@
     {
       "added_at": "2024-08-15 21:23:27",
       "album": {
-        "name": "Days Are Gone",
-        "url": "https://open.spotify.com/album/729Vh0HApsm7hGDVjbmtrf"
-      },
-      "artists": [
-        {
-          "name": "HAIM",
-          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
-        }
-      ],
-      "duration_ms": 245293,
-      "name": "The Wire",
-      "url": "https://open.spotify.com/track/6golelYKuy85o3u0cxIxFK"
-    },
-    {
-      "added_at": "2024-08-15 21:23:27",
-      "album": {
         "name": "Broken Bells",
         "url": "https://open.spotify.com/album/0X7WyEKdm5afGj1fmD7Blx"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 198040,
       "name": "The Ghost Inside",
       "url": "https://open.spotify.com/track/32fmQsWSAaDas2MJRyMSGG"
+    },
+    {
+      "added_at": "2024-08-15 21:23:27",
+      "album": {
+        "name": "Days Are Gone",
+        "url": "https://open.spotify.com/album/729Vh0HApsm7hGDVjbmtrf"
+      },
+      "artists": [
+        {
+          "name": "HAIM",
+          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
+        }
+      ],
+      "duration_ms": 245293,
+      "name": "The Wire",
+      "url": "https://open.spotify.com/track/6golelYKuy85o3u0cxIxFK"
     },
     {
       "added_at": "2024-08-15 21:23:27",
@@ -1111,6 +1111,22 @@
     {
       "added_at": "2024-08-15 21:23:27",
       "album": {
+        "name": "Lancaster Nights",
+        "url": "https://open.spotify.com/album/6VjvYY8DPNwlybF40UyrCl"
+      },
+      "artists": [
+        {
+          "name": "Charlie Burg",
+          "url": "https://open.spotify.com/artist/0ubGY2CcC0tvR0eE6hJaT8"
+        }
+      ],
+      "duration_ms": 190469,
+      "name": "Lancaster Nights",
+      "url": "https://open.spotify.com/track/48jV8AW50589btXi0Hs5f4"
+    },
+    {
+      "added_at": "2024-08-15 21:23:27",
+      "album": {
         "name": "the record",
         "url": "https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI"
       },
@@ -1135,22 +1151,6 @@
       "duration_ms": 290360,
       "name": "Satanist",
       "url": "https://open.spotify.com/track/4QEsxFZRA3RnjQAPYS3UXa"
-    },
-    {
-      "added_at": "2024-08-15 21:23:27",
-      "album": {
-        "name": "Lancaster Nights",
-        "url": "https://open.spotify.com/album/6VjvYY8DPNwlybF40UyrCl"
-      },
-      "artists": [
-        {
-          "name": "Charlie Burg",
-          "url": "https://open.spotify.com/artist/0ubGY2CcC0tvR0eE6hJaT8"
-        }
-      ],
-      "duration_ms": 190469,
-      "name": "Lancaster Nights",
-      "url": "https://open.spotify.com/track/48jV8AW50589btXi0Hs5f4"
     },
     {
       "added_at": "2024-08-15 21:23:27",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2024-08-15 21:23:27",
       "album": {
-        "name": "Cleopatra",
-        "url": "https://open.spotify.com/album/2zbTrm2pIAErzFSopinkbN"
-      },
-      "artists": [
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-        }
-      ],
-      "duration_ms": 160097,
-      "name": "Ophelia",
-      "url": "https://open.spotify.com/track/3d8y0t70g7hw2FOWl9Z4Fm"
-    },
-    {
-      "added_at": "2024-08-15 21:23:27",
-      "album": {
         "name": "Now & Then",
         "url": "https://open.spotify.com/album/6uR4bPGGdQHDphbyubK9zc"
       },
@@ -1235,18 +1219,18 @@
     {
       "added_at": "2024-08-15 21:23:27",
       "album": {
-        "name": "Sky Blue Sky",
-        "url": "https://open.spotify.com/album/6dbcDWUXEFpNrmCJoqZsk4"
+        "name": "Cleopatra",
+        "url": "https://open.spotify.com/album/2zbTrm2pIAErzFSopinkbN"
       },
       "artists": [
         {
-          "name": "Wilco",
-          "url": "https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM"
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
         }
       ],
-      "duration_ms": 357160,
-      "name": "Impossible Germany",
-      "url": "https://open.spotify.com/track/6L0BBPYeWnaQJeDa0ox0IA"
+      "duration_ms": 160097,
+      "name": "Ophelia",
+      "url": "https://open.spotify.com/track/3d8y0t70g7hw2FOWl9Z4Fm"
     },
     {
       "added_at": "2024-08-15 21:23:27",
@@ -1263,6 +1247,22 @@
       "duration_ms": 279240,
       "name": "Golden",
       "url": "https://open.spotify.com/track/3kQDykkw9HVowlm3HxTcuR"
+    },
+    {
+      "added_at": "2024-08-15 21:23:27",
+      "album": {
+        "name": "Sky Blue Sky",
+        "url": "https://open.spotify.com/album/6dbcDWUXEFpNrmCJoqZsk4"
+      },
+      "artists": [
+        {
+          "name": "Wilco",
+          "url": "https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM"
+        }
+      ],
+      "duration_ms": 357160,
+      "name": "Impossible Germany",
+      "url": "https://open.spotify.com/track/6L0BBPYeWnaQJeDa0ox0IA"
     },
     {
       "added_at": "2024-08-15 21:23:27",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2024-08-15 21:23:27",
       "album": {
-        "name": "She's Leaving You",
-        "url": "https://open.spotify.com/album/07Wpt6vMno7YmKR4F5AoFp"
-      },
-      "artists": [
-        {
-          "name": "MJ Lenderman",
-          "url": "https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT"
-        }
-      ],
-      "duration_ms": 278226,
-      "name": "She's Leaving You",
-      "url": "https://open.spotify.com/track/10cGyorRXoOc9RhVhY9Sru"
-    },
-    {
-      "added_at": "2024-08-15 21:23:27",
-      "album": {
         "name": "The Party",
         "url": "https://open.spotify.com/album/35FWLG8Ysjj1BF3sx4F6zM"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 231838,
       "name": "The Magician",
       "url": "https://open.spotify.com/track/3dsd09qrt34YuS6NPbQtYq"
+    },
+    {
+      "added_at": "2024-08-15 21:23:27",
+      "album": {
+        "name": "Lucifer On The Sofa",
+        "url": "https://open.spotify.com/album/1szMY4QqnQZgNuyLBC4jUQ"
+      },
+      "artists": [
+        {
+          "name": "Spoon",
+          "url": "https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe"
+        }
+      ],
+      "duration_ms": 193277,
+      "name": "Wild",
+      "url": "https://open.spotify.com/track/05uhED0miR9OJYPalPi7tx"
     },
     {
       "added_at": "2024-08-15 21:23:27",
@@ -1511,18 +1511,18 @@
     {
       "added_at": "2024-08-15 21:23:27",
       "album": {
-        "name": "Lucifer On The Sofa",
-        "url": "https://open.spotify.com/album/1szMY4QqnQZgNuyLBC4jUQ"
+        "name": "She's Leaving You",
+        "url": "https://open.spotify.com/album/07Wpt6vMno7YmKR4F5AoFp"
       },
       "artists": [
         {
-          "name": "Spoon",
-          "url": "https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe"
+          "name": "MJ Lenderman",
+          "url": "https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT"
         }
       ],
-      "duration_ms": 193277,
-      "name": "Wild",
-      "url": "https://open.spotify.com/track/05uhED0miR9OJYPalPi7tx"
+      "duration_ms": 278226,
+      "name": "She's Leaving You",
+      "url": "https://open.spotify.com/track/10cGyorRXoOc9RhVhY9Sru"
     },
     {
       "added_at": "2024-08-15 21:23:27",

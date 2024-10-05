@@ -2,9 +2,9 @@
 
 ### [Coração Partido](https://open.spotify.com/playlist/37i9dQZF1DWVK7iaoNgUk9)
 
-> se for pra sofrer, que seja com trilha sonora né não??
+> se for pra sofrer, que seja com trilha sonora
 
-112 songs - 6 hr 35 min
+116 songs - 6 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,9 +25,11 @@
 | [Carta Aberta](https://open.spotify.com/track/69Q81hch5PAcKbqAXuFfej) | [WD](https://open.spotify.com/artist/0h1aO8j7tyQ45Ws8xnjcq5) | [Carta Aberta](https://open.spotify.com/album/19xqgrFltFQOFvEJi8yHVo) | 3:23 | 2023-10-13 | 2023-10-24 |
 | [Casa Vazia](https://open.spotify.com/track/1kk6OvG4d6ExWv1hEzoNVl) | [UM44K](https://open.spotify.com/artist/3zhKxZr516VdNDa8v3oft2) | [Casa Vazia](https://open.spotify.com/album/3aSlWYSZ0fynAkCI2rrEg5) | 2:48 | 2023-12-22 | 2024-01-13 |
 | [Chasing\_\(Demo\)](https://open.spotify.com/track/4f80SteKqaB6M2JytEUrwT) | [NF](https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz), [Mikayla Sippel](https://open.spotify.com/artist/4XRSNOy4w4E4euNeu3aIfr) | [Chasing\_\(Demo\)](https://open.spotify.com/album/1wo8JeDRslm23n6rqpb3jk) | 3:01 | 2024-04-02 |  |
+| [Com Acento ou Sem](https://open.spotify.com/track/1d1el8AKMK9XGl6amXBtq7) | [Kell Smith](https://open.spotify.com/artist/74WDLxBsm1TLxV6WVwD994) | [Com Acento ou Sem](https://open.spotify.com/album/0KFfixsFOhZ3oJvGWBdXD0) | 4:08 | 2024-10-04 |  |
 | [Come Back Home](https://open.spotify.com/track/1I4dwH7C0jBAEtz5DjlJgQ) | [Sofia Carson](https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ) | [Purple Hearts \(Original Soundtrack\)](https://open.spotify.com/album/3wDjzYFS8eWE3bLSpXK4gd) | 2:56 | 2023-10-06 |  |
-| [Cê Sabe](https://open.spotify.com/track/54CdTvlpOPN0KC6Lagzvd5) | [Cacá Magalhães](https://open.spotify.com/artist/0kV11iUwok3iJ3p32ollyk) | [Só Sinto](https://open.spotify.com/album/1B69BwQ41WdWl3d0etscfA) | 2:39 | 2024-09-17 |  |
+| [Cê Sabe](https://open.spotify.com/track/54CdTvlpOPN0KC6Lagzvd5) | [Cacá Magalhães](https://open.spotify.com/artist/0kV11iUwok3iJ3p32ollyk) | [Só Sinto](https://open.spotify.com/album/1B69BwQ41WdWl3d0etscfA) | 2:39 | 2024-09-17 | 2024-10-05 |
 | [Daylight](https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Daylight](https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv) | 3:32 | 2023-10-06 |  |
+| [Deixo Você Ir](https://open.spotify.com/track/7xXjpb8i4EEZiyAawKJCAe) | [VERANEIO](https://open.spotify.com/artist/1kd539qlSc0grHevSVHYRH) | [Veraneio, Ep\. 1](https://open.spotify.com/album/3fF8HeUO9GpgrXCNysksn4) | 3:28 | 2024-10-04 |  |
 | [DEPOIS DO UNIVERSO](https://open.spotify.com/track/6T5TyMUmqcg8ZIvTDYaJ1o) | [GIULIA BE](https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6) | [DEPOIS DO UNIVERSO](https://open.spotify.com/album/4jsJ7WsXvoyiwYFx16MlqG) | 3:04 | 2024-05-30 | 2024-09-12 |
 | [desculpa, qualquer coisa](https://open.spotify.com/track/2S71g46OHOnyqmTmXns42D) | [Clarissa](https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK) | [tudo, eu, enfim.](https://open.spotify.com/album/61c5R2RNKApj9EuAVFQIQq) | 3:54 | 2023-10-06 | 2023-12-23 |
 | [Don't Watch Me Cry](https://open.spotify.com/track/202lm9YX5WmAac83tOGlVn) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Lost & Found](https://open.spotify.com/album/3AlSuZnX4ZCab8eoWnnfbm) | 3:10 | 2024-04-02 | 2024-09-18 |
@@ -38,8 +40,9 @@
 | [Ghost](https://open.spotify.com/track/1Vmju1rSpfjg2Zg6WflRrB) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [Ghost](https://open.spotify.com/album/0Ouza74Vj3Cl51NIJhUIbc) | 3:33 | 2023-10-06 | 2023-10-24 |
 | [Goodbye](https://open.spotify.com/track/5PihYbt4uNnVt68l5D1SGb) | [Air Supply](https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW) | [The Vanishing Race](https://open.spotify.com/album/1WVavkGT7qfAwjCRrgYLN5) | 4:02 | 2023-10-06 |  |
 | [Halo](https://open.spotify.com/track/4JehYebiI9JE8sR8MisGVb) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [I AM...SASHA FIERCE](https://open.spotify.com/album/39P7VD7qlg3Z0ltq60eHp7) | 4:21 | 2023-10-06 |  |
+| [Happy Mistake](https://open.spotify.com/track/5DQIZ8XC0EP7cfRFrtzY5h) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Harlequin](https://open.spotify.com/album/6eKdAMXNBlXNtPy7OdBL50) | 4:05 | 2024-10-04 |  |
 | [Haven't You Ever Been In Love Before?](https://open.spotify.com/track/7136zBuda3024ZQUTBB1Vg) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Broken By Desire To Be Heavenly Sent](https://open.spotify.com/album/0ECSyPejfD7oL95dD3jgoi) | 3:50 | 2023-10-06 |  |
-| [Heartbeat](https://open.spotify.com/track/2RSHP21KqTUkCfy4xgwuN1) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Heartbeat](https://open.spotify.com/album/5Bsydl8rvTJkqZBFU8vv0d) | 3:51 | 2024-04-02 |  |
+| [Heartbeat](https://open.spotify.com/track/2RSHP21KqTUkCfy4xgwuN1) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Heartbeat](https://open.spotify.com/album/5Bsydl8rvTJkqZBFU8vv0d) | 3:51 | 2024-04-02 | 2024-10-05 |
 | [Heartbreak Anniversary](https://open.spotify.com/track/3FAJ6O0NOHQV8Mc5Ri6ENp) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [TAKE TIME](https://open.spotify.com/album/1zHR48K6XtWYm6bhrw4J6C) | 3:18 | 2023-10-06 |  |
 | [Heather](https://open.spotify.com/track/4xqrdfXkTW4T0RauPLv3WA) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Kid Krow](https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5) | 3:18 | 2023-12-15 |  |
 | [Hello](https://open.spotify.com/track/62PaSfnXSMyLshYJrlTuL3) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [25](https://open.spotify.com/album/3AvPX1B1HiFROvYjLb5Qwi) | 4:55 | 2023-10-06 | 2024-04-19 |
@@ -76,8 +79,9 @@
 | [Piada Besta \(Ao Vivo\)](https://open.spotify.com/track/1me7agx2hXvvbXJsKiL6mL) | [Claudia Leitte](https://open.spotify.com/artist/2OjoIDVPQKT9B7loZbPEfp) | [Piada Besta \(Ao Vivo\)](https://open.spotify.com/album/2icKRBa2yr1s0urtrA7NKY) | 3:39 | 2024-07-12 | 2024-08-31 |
 | [Please Don't Fall In Love With Me](https://open.spotify.com/track/7jEpRsSusmGqKFISucMnV7) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Please Don't Fall In Love With Me](https://open.spotify.com/album/6PRJURaaU6YmwLW0rn44rt) | 2:57 | 2024-04-26 |  |
 | [Pointless](https://open.spotify.com/track/44G9fSM6qI8zRoG6Qwn3eq) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Broken By Desire To Be Heavenly Sent](https://open.spotify.com/album/0ECSyPejfD7oL95dD3jgoi) | 3:51 | 2023-10-06 | 2024-04-19 |
+| [Pq Vc Me Odeia Assim?](https://open.spotify.com/track/1Fvm656VZ9qfjhcrcqRKP5) | [Hiosaki](https://open.spotify.com/artist/7wYvRV1aFfU9UlGDxoZQFY) | [Pq Vc Me Odeia Assim?](https://open.spotify.com/album/1mm56Eg2srSHWb4RyQpRZm) | 2:57 | 2024-10-04 |  |
 | [puro osso](https://open.spotify.com/track/7v7Nd6owrtzpCuSttYrrfp) | [Lou Garcia](https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov) | [puro osso](https://open.spotify.com/album/5fr6TVmir3T7hUCQWZWUw0) | 3:37 | 2023-10-13 | 2023-10-24 |
-| [Raio X \- Ao Vivo](https://open.spotify.com/track/3iGwvlMJT1GAH9WcRKHwMi) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN) | [Numanice \#3 \(Ao Vivo\)](https://open.spotify.com/album/2uNEA9woVB0GKJuv4vA9Af) | 3:00 | 2024-02-22 |  |
+| [Raio X \- Ao Vivo](https://open.spotify.com/track/3iGwvlMJT1GAH9WcRKHwMi) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN) | [Numanice \#3 \(Ao Vivo\)](https://open.spotify.com/album/2uNEA9woVB0GKJuv4vA9Af) | 3:00 | 2024-02-22 | 2024-10-05 |
 | [Romantic Homicide](https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Romantic Homicide](https://open.spotify.com/album/4B3FsNFguOEJ4TWEsct83B) | 2:12 | 2023-10-06 |  |
 | [Sand](https://open.spotify.com/track/3HYUKa1HkaSRk4C0xK4O5q) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Sand](https://open.spotify.com/album/6K8VcnG6HUSp59xNOpEJhP) | 3:39 | 2023-11-10 | 2024-04-21 |
 | [Saudade Dura \(Ao Vivo\)](https://open.spotify.com/track/7pBvW8GDTlkqOf4my2tXR5) | [Lary](https://open.spotify.com/artist/4qn9aKmT3CaRVPWnlTQCwX) | [Saudade Dura \(Ao Vivo\)](https://open.spotify.com/album/0gEdWHAW0CwDhJpGM0Q2VN) | 2:34 | 2024-07-12 | 2024-08-31 |
@@ -92,7 +96,7 @@
 | [Stay With Me](https://open.spotify.com/track/5Nm9ERjJZ5oyfXZTECKmRt) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The Lonely Hour](https://open.spotify.com/album/08jWgM4vSkTose4blKBWov) | 2:52 | 2023-10-06 | 2024-04-19 |
 | [Swan Upon Leda](https://open.spotify.com/track/3TjoLn6AliBGi3QbwwTxKp) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Swan Upon Leda](https://open.spotify.com/album/7m6BGvx8EBvA7VXsoOKMuk) | 3:42 | 2024-04-02 | 2024-07-29 |
 | [Te Amar Demais](https://open.spotify.com/track/70maGr0lQYDj0tcpcA2ORM) | [Sodré](https://open.spotify.com/artist/07qgzS86XBNsyrY6MAVDAc) | [Te Amar Demais](https://open.spotify.com/album/1mZhSh8FpeL2ZE9dcexXWR) | 2:11 | 2023-10-27 |  |
-| [Te espero ou fujo?](https://open.spotify.com/track/2mMhzxpuFKe1ohryBgDYyo) | [Gabriel Froede](https://open.spotify.com/artist/4qmLb4nnhd2KPmnUi5Xlkx), [Joyce Alane](https://open.spotify.com/artist/3oDfBqnWBkgMSag02YYXHG) | [Te espero ou fujo?](https://open.spotify.com/album/77fHiZuvOXQ4o4WSCSu8Vr) | 2:14 | 2024-09-17 |  |
+| [Te espero ou fujo?](https://open.spotify.com/track/2mMhzxpuFKe1ohryBgDYyo) | [Gabriel Froede](https://open.spotify.com/artist/4qmLb4nnhd2KPmnUi5Xlkx), [Joyce Alane](https://open.spotify.com/artist/3oDfBqnWBkgMSag02YYXHG) | [Te espero ou fujo?](https://open.spotify.com/album/77fHiZuvOXQ4o4WSCSu8Vr) | 2:14 | 2024-09-17 | 2024-10-05 |
 | [TE ODEIO](https://open.spotify.com/track/5W9RiXy0RIO3sQi2dQxF96) | [CHAMELEO](https://open.spotify.com/artist/2ZteSwWooU45Mec1C2EdA0) | [TE ODEIO](https://open.spotify.com/album/6gvXPaIkbnjAI0TdKbMp1W) | 2:22 | 2023-10-13 | 2023-10-24 |
 | [Te Procurei](https://open.spotify.com/track/2RZzQJKn6byIPL1ldj8nca) | [Elana Dara](https://open.spotify.com/artist/4wh03gpwWgB5koOyZr8XxB) | [Te Procurei](https://open.spotify.com/album/4OOoEFmG410X2Ww1YyX9IN) | 2:41 | 2024-04-02 | 2024-04-27 |
 | [The End](https://open.spotify.com/track/1KNI1JuCWWGet03MmoRp4R) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [The End](https://open.spotify.com/album/5O2KoaZbV8Op3Tsl0Fq7lI) | 3:17 | 2024-06-14 | 2024-09-17 |

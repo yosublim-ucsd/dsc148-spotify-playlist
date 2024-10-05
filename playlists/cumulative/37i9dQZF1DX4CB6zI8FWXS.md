@@ -4,7 +4,7 @@
 
 > R&Bの最新話題曲をまとめてお届けします。cover: Kimbra
 
-593 songs - 1 day 7 hr 54 min
+594 songs - 1 day 7 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -219,6 +219,7 @@
 | [How You Feel](https://open.spotify.com/track/3LIhLCx8GJIxEgBjjliNAt) | [Crystal Kay](https://open.spotify.com/artist/3yzQHdj9G34CVZ5rVUDrOM) | [How You Feel](https://open.spotify.com/album/3qgty8ZFzuSYC7WNG0GOQX) | 3:03 | 2023-03-16 | 2024-06-22 |
 | [Hypé \(feat\. Ayra Starr\)](https://open.spotify.com/track/6oi6AAmRd2IbanRMQZC39J) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Hypé \(feat\. Ayra Starr\)](https://open.spotify.com/album/5RuD9wVp96jSA1Lx1pZNYD) | 2:37 | 2024-03-07 | 2024-03-15 |
 | [I Choose U \(feat\. RINI\)](https://open.spotify.com/track/7zHOs0OLz4CmB8LHcf1NNv) | [RIMON](https://open.spotify.com/artist/4DtUsfaVQBhypuwYmobdSm), [RINI](https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3) | [I Choose U \(feat\. RINI\)](https://open.spotify.com/album/0DcgdM3SS9A8wEig25dsqh) | 3:22 | 2023-03-23 | 2023-05-05 |
+| [I Do \(feat\. Muni Long\)](https://open.spotify.com/track/5TbYIeYkGgGtYL7sms7m9N) | [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [JADED](https://open.spotify.com/album/1XcpYmfE4vYCKeLQYINlO7) | 2:46 | 2024-10-03 |  |
 | [I don't care](https://open.spotify.com/track/31mcHhrlzBMtRCWdmpm2uw) | [SARA\-J](https://open.spotify.com/artist/5o11pS7iIyQ2H4Uw587jyL), [FOFU](https://open.spotify.com/artist/0s7Hki24pRQahhMRpU7n1U) | [I don't care](https://open.spotify.com/album/6vx87qHXfuGHuqFpwXRSKp) | 2:36 | 2023-06-29 | 2023-07-28 |
 | [i like it](https://open.spotify.com/track/5S14RsWa0spDpV6ek557Wa) | [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9), [Yo\-Sea](https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw), [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF), [IO](https://open.spotify.com/artist/7wJbfRQ42OuzAQfXMVidTd) | [i like it](https://open.spotify.com/album/3z3jThgipmiUWDf9RzRPrU) | 3:04 | 2024-10-03 |  |
 | [I Need U \~君に頼ってもいい?\~](https://open.spotify.com/track/5UyJogrgcVhrP3auoMpRVI) | [RIRI](https://open.spotify.com/artist/2UmhByzSum8X2lQZ7pWvWp) | [I Need U \~君に頼ってもいい?\~](https://open.spotify.com/album/5R0qqaGPA0rGhpmzehMjOr) | 3:37 | 2023-03-16 | 2023-03-25 |

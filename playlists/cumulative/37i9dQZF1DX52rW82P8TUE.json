@@ -847,6 +847,28 @@
     },
     {
       "album": {
+        "name": "ImaginAline - Uma Viagem no Tempo",
+        "url": "https://open.spotify.com/album/2YyBG9g0IIqQEGrTiByg4Y"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        },
+        {
+          "name": "ImaginAline",
+          "url": "https://open.spotify.com/artist/1LAIQWBGrbEFFMnkSnDXHN"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246912,
+      "name": "Filipenses",
+      "url": "https://open.spotify.com/track/0r8wj5qmDS8UmrONRWEyFv"
+    },
+    {
+      "album": {
         "name": "Galileia",
         "url": "https://open.spotify.com/album/1WsqUCNmbFJOsA4Ukmu8lV"
       },
@@ -876,7 +898,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 186264,
       "name": "Gosto de Vit\u00f3ria",
       "url": "https://open.spotify.com/track/5LGCcrDTb8p2HJYYxq2zle"

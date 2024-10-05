@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-06",
-  "description": "Easy listening mix of recent hits, everyday favorites & some new songs you'll love. Cover: Tom Grennan",
+  "description": "Easy listening mix of recent hits, everyday favorites & some new songs you'll love. Cover: Joe Jonas",
   "name": "Everyday Favorites ",
   "tracks": [
     {
@@ -478,6 +478,24 @@
       "duration_ms": 242220,
       "name": "All My Broken Pieces",
       "url": "https://open.spotify.com/track/4VmFqEEqbLReGKJQhDl9c0"
+    },
+    {
+      "album": {
+        "name": "Moon Music",
+        "url": "https://open.spotify.com/album/5SGtrmYbIo0Dsg4kJ4qjM6"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222647,
+      "name": "ALL MY LOVE",
+      "url": "https://open.spotify.com/track/6iYxkBHyMpsgVxUgfy5fSx"
     },
     {
       "album": {
@@ -2664,7 +2682,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 173361,
       "name": "Dirty (feat. Teddy Swims)",
       "url": "https://open.spotify.com/track/2ZAEbGGj1yXJRCoVaEn16K"
@@ -2884,7 +2902,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 190782,
       "name": "Double Life - From \"Despicable Me 4\"",
       "url": "https://open.spotify.com/track/07oO1U722crtVcavi6frX6"
@@ -3672,7 +3690,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 237803,
       "name": "feelslikeimfallinginlove - Single Version",
       "url": "https://open.spotify.com/track/1YsU8rW2u8z4F0pwOBQ4Ea"
@@ -5491,6 +5509,24 @@
     },
     {
       "album": {
+        "name": "Changes All The Time",
+        "url": "https://open.spotify.com/album/0RJ06tZn2gom7mAmCIip2z"
+      },
+      "artists": [
+        {
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279429,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/2hPZRSLyKFyJCYTotrmM1q"
+    },
+    {
+      "album": {
         "name": "Give Me The Future + Dreams Of The Past",
         "url": "https://open.spotify.com/album/2dssFgPLHm6Y1mINk3JNJ8"
       },
@@ -5718,7 +5754,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 161976,
       "name": "Hurt",
       "url": "https://open.spotify.com/track/5OR5cpJpHTlM8sL1ABKUOM"
@@ -7890,7 +7926,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 220533,
       "name": "lost cause",
       "url": "https://open.spotify.com/track/15yqPpsLKCPEGIVhqE7dUD"
@@ -7912,6 +7948,24 @@
       "duration_ms": 180953,
       "name": "Lost Me",
       "url": "https://open.spotify.com/track/6TSO4hwz9WGrEUY7ABGVim"
+    },
+    {
+      "album": {
+        "name": "Lotus Eater",
+        "url": "https://open.spotify.com/album/494g1fkelfoloDvUuqdAED"
+      },
+      "artists": [
+        {
+          "name": "FINNEAS",
+          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231506,
+      "name": "Lotus Eater",
+      "url": "https://open.spotify.com/track/3Y6yJhnGJdNTQwgIyKMLE8"
     },
     {
       "album": {
@@ -8118,6 +8172,24 @@
       "duration_ms": 134256,
       "name": "Made You Look",
       "url": "https://open.spotify.com/track/0QHEIqNKsMoOY5urbzN48u"
+    },
+    {
+      "album": {
+        "name": "Magic",
+        "url": "https://open.spotify.com/album/2mXQsMd0DEX5zrFEuI5Zij"
+      },
+      "artists": [
+        {
+          "name": "Andy Grammer",
+          "url": "https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190790,
+      "name": "Magic",
+      "url": "https://open.spotify.com/track/1ssJcV4TYevaV87K813ht6"
     },
     {
       "album": {
@@ -8754,6 +8826,24 @@
       "duration_ms": 208865,
       "name": "My Valentine",
       "url": "https://open.spotify.com/track/03SuyWE6YU5bRO7rp7sASB"
+    },
+    {
+      "album": {
+        "name": "My World",
+        "url": "https://open.spotify.com/album/3a7cMtEKE1BMV0BoH9MwvV"
+      },
+      "artists": [
+        {
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203650,
+      "name": "My World",
+      "url": "https://open.spotify.com/track/0nKVI2mlBFkdjAdZH61rLF"
     },
     {
       "album": {
@@ -12838,7 +12928,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 233406,
       "name": "WE PRAY - Single Version",
       "url": "https://open.spotify.com/track/2sKHevALE8DKDkwEo04Pbh"
@@ -13012,6 +13102,24 @@
       "duration_ms": 194890,
       "name": "What Other People Say",
       "url": "https://open.spotify.com/track/2h9TDNEXRhcDIV3fsoEVq9"
+    },
+    {
+      "album": {
+        "name": "What This Could Be / Work It Out",
+        "url": "https://open.spotify.com/album/534YIkJVj0Hlpuw0jMpf1h"
+      },
+      "artists": [
+        {
+          "name": "Joe Jonas",
+          "url": "https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198146,
+      "name": "What This Could Be",
+      "url": "https://open.spotify.com/track/3NaOEouWqMCBwR0vQcVFt7"
     },
     {
       "album": {
@@ -13464,7 +13572,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 150474,
       "name": "Work It Out",
       "url": "https://open.spotify.com/track/1zepNi2GSE216osBwSn4ZD"

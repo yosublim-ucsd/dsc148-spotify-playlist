@@ -2,9 +2,9 @@
 
 ### [folk & primavera](https://open.spotify.com/playlist/37i9dQZF1DX6LVkNunXMAU)
 
-> indie folk latino de estación\. Foto: lisandro skar
+> indie folk latino de estación\. Foto: Inés Errandonea
 
-305 songs - 16 hr 40 min
+306 songs - 16 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,7 +90,7 @@
 | [Dame](https://open.spotify.com/track/297Vr1chPCF0607I0g80IJ) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF), [Anyi](https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD) | [Dame](https://open.spotify.com/album/3QSi2Fj1FUjE3Uu2K5Gfh4) | 4:04 | 2023-04-07 | 2023-10-07 |
 | [De Viaje](https://open.spotify.com/track/0YwrqRHtpvlQChhbiYoQI5) | [Cata Raybaud](https://open.spotify.com/artist/4CSP9JAlJTUjWGkTrlX03I) | [De Viaje](https://open.spotify.com/album/3vNCP5XY6ZuYMbqrLj3ChU) | 3:22 | 2022-07-15 |  |
 | [Deseo](https://open.spotify.com/track/50hyNWjdwIF9scfR90eODz) | [Agustina Pampin](https://open.spotify.com/artist/1SzhQpRiCh3rCfkjTmPcfv) | [Deseo](https://open.spotify.com/album/1rsiAjtt1h6xohktk6jfHe) | 3:09 | 2023-05-19 | 2023-06-24 |
-| [Disfonía](https://open.spotify.com/track/0uJDoMbRcfmojaIOqOOMs7) | [Sofía Lombilla](https://open.spotify.com/artist/4SB2xVfkvR6IZqTPRoQnjV), [Simón Altgelt](https://open.spotify.com/artist/4mkyTjyoJuHvEq8Mr6suBz) | [Disfonía](https://open.spotify.com/album/6O1TAFDVgBj9d04MltQQ9b) | 2:29 | 2022-05-20 |  |
+| [Disfonía](https://open.spotify.com/track/0uJDoMbRcfmojaIOqOOMs7) | [Sofía Lombilla](https://open.spotify.com/artist/4SB2xVfkvR6IZqTPRoQnjV), [Simón Altgelt](https://open.spotify.com/artist/4mkyTjyoJuHvEq8Mr6suBz) | [Disfonía](https://open.spotify.com/album/6O1TAFDVgBj9d04MltQQ9b) | 2:29 | 2022-05-20 | 2024-10-05 |
 | [Dolor](https://open.spotify.com/track/0chHnBvvMZPlYhu9zng97m) | [Maria Campos](https://open.spotify.com/artist/6MyLptpVK60BMHEDBl1oxu) | [Dolor](https://open.spotify.com/album/6zB720K3Qqm1dpiZPJB60h) | 2:48 | 2023-07-07 |  |
 | [Dos Extraños](https://open.spotify.com/track/1A6WHBHrOBZTdGcQrc3HAV) | [Juan Ingaramo](https://open.spotify.com/artist/2XVoz4hoXgQ3C2BTGxl9V2), [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Dos Extraños](https://open.spotify.com/album/1LtqPrw7WHFks31bbxZ3LM) | 3:01 | 2023-06-16 | 2024-09-27 |
 | [Dos Hemisferios](https://open.spotify.com/track/3oV54WIjzyy9Bi1dFUtfN4) | [Alejandro y Maria Laura](https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u), [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Dos Hemisferios](https://open.spotify.com/album/0qOwKIT9GbWmRMUNi84yF8) | 3:35 | 2024-03-07 | 2024-09-27 |
@@ -140,6 +140,7 @@
 | [Insurgentes](https://open.spotify.com/track/6ADCLS1XOCRC1ZK66TlXyH) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF) | [Gran Turismo](https://open.spotify.com/album/3h1wAtr3lIasoLwOMFuRIn) | 2:13 | 2023-07-07 | 2023-10-07 |
 | [Interludio en el Ataúd](https://open.spotify.com/track/6yGcgmZiOO34DJdELn0nGn) | [Aerobot](https://open.spotify.com/artist/7BO2i1MVKhUrwQHFBkvBfQ) | [Canciones de Mal Gusto para Gente Depresiva](https://open.spotify.com/album/0pZmjDbReA06ma8eX6Raqx) | 3:12 | 2022-07-15 | 2023-07-15 |
 | [Isla](https://open.spotify.com/track/3B32feO30ttYUIIFe0RD0l) | [Mauro Samaniego](https://open.spotify.com/artist/1mV80wU5C7aFDPn7GYRw9L) | [Isla](https://open.spotify.com/album/4vT2DYTDbxcsY6uHohDshb) | 3:42 | 2022-05-20 | 2023-04-15 |
+| [Iuju](https://open.spotify.com/track/27YowSHQvUV4YASt8UdKyJ) | [Inés Errandonea](https://open.spotify.com/artist/40NRwJQe7AYuOLWWea6IZk) | [Agua Viva](https://open.spotify.com/album/0XpLMbMt5M57kNA679ihdi) | 1:50 | 2024-10-04 |  |
 | [Jugando a los Sims](https://open.spotify.com/track/7ayopKtCQTOEDpRB5xpU6I) | [Jimena Amarillo](https://open.spotify.com/artist/29cPgYFoxExwmptUrlnYmm) | [Cómo decirte, mi amor](https://open.spotify.com/album/5iwpXxPIQS2wGBhUZpbwTY) | 2:39 | 2022-05-20 | 2023-04-15 |
 | [Kilómetros](https://open.spotify.com/track/6fAToGuBw5lPlWvzdzGyYx) | [Ainda](https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE), [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [Kilómetros](https://open.spotify.com/album/4yitWO4wI8bRLSSIZ74E0L) | 3:32 | 2022-05-20 | 2023-04-15 |
 | [LA ARAÑA](https://open.spotify.com/track/2XsgW6lzGWGCmw9DoOkZ2S) | [Mi Amigo Invencible](https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7) | [LA ARAÑA](https://open.spotify.com/album/3StTP7lHsMyNlt092aOsCl) | 3:28 | 2022-07-15 | 2024-05-26 |

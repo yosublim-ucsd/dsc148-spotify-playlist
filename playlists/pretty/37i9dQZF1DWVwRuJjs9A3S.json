@@ -1,12 +1,12 @@
 {
   "description": "All the highlights from the world of indie! Cover: flora cash",
-  "num_followers": 39005,
+  "num_followers": 39029,
   "original_name": "Indie Highlights",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zv8T4AAAAAA7vISE3laeP8Ix1wcDKRhL",
+  "snapshot_id": "Zv+ZyQAAAADB1AaLbLkTDdOWQDaYvU7W",
   "tracks": [
     {
       "added_at": "2024-10-03 22:00:00",
@@ -43,6 +43,22 @@
       "duration_ms": 209077,
       "name": "S P E Y S I D E",
       "url": "https://open.spotify.com/track/6khKJVbTxzfhbGfHMtyOM8"
+    },
+    {
+      "added_at": "2024-10-03 22:00:00",
+      "album": {
+        "name": "just wanna feel you",
+        "url": "https://open.spotify.com/album/6lH3TikBHRhxBRr6sMsKzQ"
+      },
+      "artists": [
+        {
+          "name": "flora cash",
+          "url": "https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd"
+        }
+      ],
+      "duration_ms": 220952,
+      "name": "just wanna feel you",
+      "url": "https://open.spotify.com/track/7JRnhZufyoIWh3N7kjyDOd"
     },
     {
       "added_at": "2024-10-03 22:00:00",
@@ -127,22 +143,6 @@
       "duration_ms": 212105,
       "name": "Midnight Shining",
       "url": "https://open.spotify.com/track/3mYsAOZUuqeqVwQw0BAdgv"
-    },
-    {
-      "added_at": "2024-10-03 22:00:00",
-      "album": {
-        "name": "just wanna feel you",
-        "url": "https://open.spotify.com/album/6lH3TikBHRhxBRr6sMsKzQ"
-      },
-      "artists": [
-        {
-          "name": "flora cash",
-          "url": "https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd"
-        }
-      ],
-      "duration_ms": 220952,
-      "name": "just wanna feel you",
-      "url": "https://open.spotify.com/track/7JRnhZufyoIWh3N7kjyDOd"
     },
     {
       "added_at": "2024-10-03 22:00:00",
@@ -499,7 +499,7 @@
     {
       "added_at": "2024-10-03 22:00:00",
       "album": {
-        "name": "EDITS",
+        "name": "Great Doubt (EDITS)",
         "url": "https://open.spotify.com/album/3Q4ckErENVJA9V1nx3pMS4"
       },
       "artists": [
@@ -517,7 +517,7 @@
         }
       ],
       "duration_ms": 145125,
-      "name": "Do you wanna - Fine & Molina Edit",
+      "name": "Do you wanna - Fine + Molina EDIT",
       "url": "https://open.spotify.com/track/6xTOSlWaiBRiVj3Xh265FL"
     },
     {
@@ -895,7 +895,7 @@
     {
       "added_at": "2024-10-03 22:00:00",
       "album": {
-        "name": "EDITS",
+        "name": "Great Doubt (EDITS)",
         "url": "https://open.spotify.com/album/3Q4ckErENVJA9V1nx3pMS4"
       },
       "artists": [
@@ -909,7 +909,7 @@
         }
       ],
       "duration_ms": 190849,
-      "name": "Give my all - Blood Orange Edit",
+      "name": "Give my all - Blood Orange EDIT",
       "url": "https://open.spotify.com/track/7pIZ4V6hb57l25JMAwPXg7"
     },
     {

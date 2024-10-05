@@ -1,12 +1,12 @@
 {
   "description": "Spain minus the S =",
-  "num_followers": 546964,
+  "num_followers": 547059,
   "original_name": "teen angst",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvrOmgAAAABX8yaAB0BGj1Avamjec1SP",
+  "snapshot_id": "ZwAyzwAAAAAVFnCdEodVOu1AhFx7hLS3",
   "tracks": [
     {
       "added_at": "2024-09-30 16:15:22",
@@ -143,6 +143,22 @@
     {
       "added_at": "2024-09-30 16:15:22",
       "album": {
+        "name": "Vienna (Everything\u2019s Fine)",
+        "url": "https://open.spotify.com/album/47wbE9QX926Oc3UIFAnKFQ"
+      },
+      "artists": [
+        {
+          "name": "Vienna Vienna",
+          "url": "https://open.spotify.com/artist/5ZVQRC3rtUNBJVrrrSl17r"
+        }
+      ],
+      "duration_ms": 177035,
+      "name": "Vienna (Everything\u2019s Fine)",
+      "url": "https://open.spotify.com/track/4MZkA1wOfqYclYkQt7MUEd"
+    },
+    {
+      "added_at": "2024-09-30 16:15:22",
+      "album": {
         "name": "Freaks",
         "url": "https://open.spotify.com/album/5WjaIWthUR3AjA0UYG3jR5"
       },
@@ -155,22 +171,6 @@
       "duration_ms": 147062,
       "name": "Freaks",
       "url": "https://open.spotify.com/track/7EkWXAI1wn8Ii883ecd9xr"
-    },
-    {
-      "added_at": "2024-09-30 16:15:22",
-      "album": {
-        "name": "Elephant",
-        "url": "https://open.spotify.com/album/6D9urpsOWWKtYvF6PaorGE"
-      },
-      "artists": [
-        {
-          "name": "The White Stripes",
-          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
-        }
-      ],
-      "duration_ms": 232106,
-      "name": "Seven Nation Army",
-      "url": "https://open.spotify.com/track/3dPQuX8Gs42Y7b454ybpMR"
     },
     {
       "added_at": "2024-09-30 16:15:22",
@@ -195,6 +195,22 @@
       "duration_ms": 163934,
       "name": "You Hear Yes",
       "url": "https://open.spotify.com/track/72KK2zfWDMXDwHk2WEUUCv"
+    },
+    {
+      "added_at": "2024-09-30 16:15:22",
+      "album": {
+        "name": "Elephant",
+        "url": "https://open.spotify.com/album/6D9urpsOWWKtYvF6PaorGE"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "duration_ms": 232106,
+      "name": "Seven Nation Army",
+      "url": "https://open.spotify.com/track/3dPQuX8Gs42Y7b454ybpMR"
     },
     {
       "added_at": "2024-09-30 16:15:22",
@@ -311,26 +327,6 @@
     {
       "added_at": "2024-09-30 16:15:22",
       "album": {
-        "name": "Nosebleeds: Encore",
-        "url": "https://open.spotify.com/album/19BoWVjerUhTZXmTlVGCoJ"
-      },
-      "artists": [
-        {
-          "name": "MisterWives",
-          "url": "https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z"
-        },
-        {
-          "name": "PVRIS",
-          "url": "https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy"
-        }
-      ],
-      "duration_ms": 178333,
-      "name": "Vultures (feat. PVRIS)",
-      "url": "https://open.spotify.com/track/0O1APvs7Bfe7YaQO8ekg1z"
-    },
-    {
-      "added_at": "2024-09-30 16:15:22",
-      "album": {
         "name": "One-X",
         "url": "https://open.spotify.com/album/4ZDwEvXIKxWdwhAQK8ndBU"
       },
@@ -375,6 +371,22 @@
       "duration_ms": 186480,
       "name": "I'm Not Okay (I Promise)",
       "url": "https://open.spotify.com/track/7lRlq939cDG4SzWOF4VAnd"
+    },
+    {
+      "added_at": "2024-09-30 16:15:22",
+      "album": {
+        "name": "From Under The Cork Tree",
+        "url": "https://open.spotify.com/album/5nkUSlIhtoJZMOUlB0sNCp"
+      },
+      "artists": [
+        {
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+        }
+      ],
+      "duration_ms": 229093,
+      "name": "Sugar, We're Goin Down",
+      "url": "https://open.spotify.com/track/2TfSHkHiFO4gRztVIkggkE"
     },
     {
       "added_at": "2024-09-30 16:15:22",
@@ -447,18 +459,18 @@
     {
       "added_at": "2024-09-30 16:15:22",
       "album": {
-        "name": "From Under The Cork Tree",
-        "url": "https://open.spotify.com/album/5nkUSlIhtoJZMOUlB0sNCp"
+        "name": "Don't You Fake It",
+        "url": "https://open.spotify.com/album/6TyPSzd5rA2rQ9yLJJ1Gg2"
       },
       "artists": [
         {
-          "name": "Fall Out Boy",
-          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+          "name": "The Red Jumpsuit Apparatus",
+          "url": "https://open.spotify.com/artist/1SImpQO0GbjRgvlwCcCtFo"
         }
       ],
-      "duration_ms": 229093,
-      "name": "Sugar, We're Goin Down",
-      "url": "https://open.spotify.com/track/2TfSHkHiFO4gRztVIkggkE"
+      "duration_ms": 192000,
+      "name": "Face Down",
+      "url": "https://open.spotify.com/track/4wzjNqjKAKDU82e8uMhzmr"
     },
     {
       "added_at": "2024-09-30 16:15:22",
@@ -475,22 +487,6 @@
       "duration_ms": 175093,
       "name": "The Anthem",
       "url": "https://open.spotify.com/track/0BRHnOFm6sjxN1i9LJrUDu"
-    },
-    {
-      "added_at": "2024-09-30 16:15:22",
-      "album": {
-        "name": "Don't You Fake It",
-        "url": "https://open.spotify.com/album/6TyPSzd5rA2rQ9yLJJ1Gg2"
-      },
-      "artists": [
-        {
-          "name": "The Red Jumpsuit Apparatus",
-          "url": "https://open.spotify.com/artist/1SImpQO0GbjRgvlwCcCtFo"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Face Down",
-      "url": "https://open.spotify.com/track/4wzjNqjKAKDU82e8uMhzmr"
     },
     {
       "added_at": "2024-09-30 16:15:22",
@@ -775,22 +771,6 @@
     {
       "added_at": "2024-09-30 16:15:22",
       "album": {
-        "name": "Habits",
-        "url": "https://open.spotify.com/album/7xpjpdislqMXOCw5xsDt4g"
-      },
-      "artists": [
-        {
-          "name": "Neon Trees",
-          "url": "https://open.spotify.com/artist/0RpddSzUHfncUWNJXKOsjy"
-        }
-      ],
-      "duration_ms": 212293,
-      "name": "Animal",
-      "url": "https://open.spotify.com/track/1fBl642IhJOE5U319Gy2Go"
-    },
-    {
-      "added_at": "2024-09-30 16:15:22",
-      "album": {
         "name": "Homesick",
         "url": "https://open.spotify.com/album/6MEv8dNtVbKDW1WG4Hk6WZ"
       },
@@ -803,6 +783,22 @@
       "duration_ms": 209093,
       "name": "The Downfall Of Us All",
       "url": "https://open.spotify.com/track/1KHKeIouP04dDtl0EetgED"
+    },
+    {
+      "added_at": "2024-09-30 16:15:22",
+      "album": {
+        "name": "Habits",
+        "url": "https://open.spotify.com/album/7xpjpdislqMXOCw5xsDt4g"
+      },
+      "artists": [
+        {
+          "name": "Neon Trees",
+          "url": "https://open.spotify.com/artist/0RpddSzUHfncUWNJXKOsjy"
+        }
+      ],
+      "duration_ms": 212293,
+      "name": "Animal",
+      "url": "https://open.spotify.com/track/1fBl642IhJOE5U319Gy2Go"
     },
     {
       "added_at": "2024-09-30 16:15:22",
@@ -1071,22 +1067,6 @@
     {
       "added_at": "2024-09-30 16:15:22",
       "album": {
-        "name": "SPINE",
-        "url": "https://open.spotify.com/album/0Cid17L0G17hI9bmEuR5G2"
-      },
-      "artists": [
-        {
-          "name": "WesGhost",
-          "url": "https://open.spotify.com/artist/6YmJPuYzqe1HsJArGYcHBJ"
-        }
-      ],
-      "duration_ms": 180715,
-      "name": "SPINE",
-      "url": "https://open.spotify.com/track/6Stz1dIY7OD61gU7SdVR22"
-    },
-    {
-      "added_at": "2024-09-30 16:15:22",
-      "album": {
         "name": "LosT",
         "url": "https://open.spotify.com/album/3zZBB971MYFVBYlzNrYpoA"
       },
@@ -1115,6 +1095,22 @@
       "duration_ms": 199341,
       "name": "Beachboy",
       "url": "https://open.spotify.com/track/70uQzsAyJ1vmloywhrO0ss"
+    },
+    {
+      "added_at": "2024-09-30 16:15:22",
+      "album": {
+        "name": "SPINE",
+        "url": "https://open.spotify.com/album/0Cid17L0G17hI9bmEuR5G2"
+      },
+      "artists": [
+        {
+          "name": "WesGhost",
+          "url": "https://open.spotify.com/artist/6YmJPuYzqe1HsJArGYcHBJ"
+        }
+      ],
+      "duration_ms": 180715,
+      "name": "SPINE",
+      "url": "https://open.spotify.com/track/6Stz1dIY7OD61gU7SdVR22"
     },
     {
       "added_at": "2024-09-30 16:15:22",
@@ -1383,22 +1379,6 @@
     {
       "added_at": "2024-09-30 16:15:22",
       "album": {
-        "name": "Prom Queen",
-        "url": "https://open.spotify.com/album/1lgr82yCJYR5lgsSyxXgBH"
-      },
-      "artists": [
-        {
-          "name": "Beach Bunny",
-          "url": "https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H"
-        }
-      ],
-      "duration_ms": 136562,
-      "name": "Prom Queen",
-      "url": "https://open.spotify.com/track/6MpCaSIOfqBqbMED4kXgNY"
-    },
-    {
-      "added_at": "2024-09-30 16:15:22",
-      "album": {
         "name": "HOW 2 GET AWAY WITH MURDER",
         "url": "https://open.spotify.com/album/3BTXpSYeLv97CKmcVId9TI"
       },
@@ -1427,6 +1407,22 @@
       "duration_ms": 133351,
       "name": "I Miss Having Sex But At Least I Don't Wanna Die Anymore",
       "url": "https://open.spotify.com/track/2Rmw7J0krEU75ffhkaK93D"
+    },
+    {
+      "added_at": "2024-09-30 16:15:22",
+      "album": {
+        "name": "Prom Queen",
+        "url": "https://open.spotify.com/album/1lgr82yCJYR5lgsSyxXgBH"
+      },
+      "artists": [
+        {
+          "name": "Beach Bunny",
+          "url": "https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H"
+        }
+      ],
+      "duration_ms": 136562,
+      "name": "Prom Queen",
+      "url": "https://open.spotify.com/track/6MpCaSIOfqBqbMED4kXgNY"
     },
     {
       "added_at": "2024-09-30 16:15:22",
@@ -1639,18 +1635,18 @@
     {
       "added_at": "2024-09-30 16:15:22",
       "album": {
-        "name": "LOSER!!",
-        "url": "https://open.spotify.com/album/0V7dIK9Bf6aVqSZuV0fqhD"
+        "name": "Candy Coated Lie$",
+        "url": "https://open.spotify.com/album/2hqp0oGlkPppaDtmROiUmN"
       },
       "artists": [
         {
-          "name": "Mckenna Grace",
-          "url": "https://open.spotify.com/artist/1ZjXhESKpjsv31L7ykuJBE"
+          "name": "Hot Milk",
+          "url": "https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK"
         }
       ],
-      "duration_ms": 228133,
-      "name": "LOSER!!",
-      "url": "https://open.spotify.com/track/5lHh9CANIUY82y1HEzoeIX"
+      "duration_ms": 177626,
+      "name": "Candy Coated Lie$",
+      "url": "https://open.spotify.com/track/5Xr1q4GLTnNZu6c4K9rsNh"
     }
   ],
   "unique_name": "teen angst",

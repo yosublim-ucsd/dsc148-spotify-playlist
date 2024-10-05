@@ -1,6 +1,6 @@
 {
   "description": "Tu karaoke personal para darlo todo cantando.",
-  "num_followers": 1708064,
+  "num_followers": 1707998,
   "original_name": "Karaoke 2024",
   "owner": {
     "name": "Spotify",
@@ -339,22 +339,6 @@
     {
       "added_at": "2024-07-09 14:42:11",
       "album": {
-        "name": "Slippery When Wet",
-        "url": "https://open.spotify.com/album/0kBfgEilUFCMIQY5IOjG4t"
-      },
-      "artists": [
-        {
-          "name": "Bon Jovi",
-          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
-        }
-      ],
-      "duration_ms": 222706,
-      "name": "You Give Love A Bad Name",
-      "url": "https://open.spotify.com/track/0rmGAIH9LNJewFw7nKzZnc"
-    },
-    {
-      "added_at": "2024-07-09 14:42:11",
-      "album": {
         "name": "Uptown Special",
         "url": "https://open.spotify.com/album/3vLaOYCNCzngDf8QdBg2V1"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 269666,
       "name": "Uptown Funk (feat. Bruno Mars)",
       "url": "https://open.spotify.com/track/32OlwWuMpZ6b0aN2RZOeMS"
+    },
+    {
+      "added_at": "2024-07-09 14:42:11",
+      "album": {
+        "name": "Slippery When Wet",
+        "url": "https://open.spotify.com/album/0kBfgEilUFCMIQY5IOjG4t"
+      },
+      "artists": [
+        {
+          "name": "Bon Jovi",
+          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+        }
+      ],
+      "duration_ms": 222706,
+      "name": "You Give Love A Bad Name",
+      "url": "https://open.spotify.com/track/0rmGAIH9LNJewFw7nKzZnc"
     },
     {
       "added_at": "2024-07-09 14:42:11",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2024-07-09 14:42:11",
       "album": {
-        "name": "Wish",
-        "url": "https://open.spotify.com/album/0aEL0zQ4XLuxQP0j7sLlS1"
-      },
-      "artists": [
-        {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
-        }
-      ],
-      "duration_ms": 215160,
-      "name": "Friday I'm In Love",
-      "url": "https://open.spotify.com/track/4QlzkaRHtU8gAdwqjWmO8n"
-    },
-    {
-      "added_at": "2024-07-09 14:42:11",
-      "album": {
         "name": "Just Once In My Life",
         "url": "https://open.spotify.com/album/0oeMysdC6eeivvWbvQ9JNm"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 218013,
       "name": "Unchained Melody",
       "url": "https://open.spotify.com/track/2qhASBzpbFhPRtrnZ5lLnz"
+    },
+    {
+      "added_at": "2024-07-09 14:42:11",
+      "album": {
+        "name": "Wish",
+        "url": "https://open.spotify.com/album/0aEL0zQ4XLuxQP0j7sLlS1"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "duration_ms": 215160,
+      "name": "Friday I'm In Love",
+      "url": "https://open.spotify.com/track/4QlzkaRHtU8gAdwqjWmO8n"
     },
     {
       "added_at": "2024-07-09 14:42:11",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2024-07-09 14:42:11",
       "album": {
-        "name": "Everytime We Touch (Premium Edition)",
-        "url": "https://open.spotify.com/album/2unbJ7dUr9mITQiMwWFqQD"
-      },
-      "artists": [
-        {
-          "name": "Cascada",
-          "url": "https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp"
-        }
-      ],
-      "duration_ms": 197124,
-      "name": "Everytime We Touch",
-      "url": "https://open.spotify.com/track/5YJtMNWKe55yr49cyJgxva"
-    },
-    {
-      "added_at": "2024-07-09 14:42:11",
-      "album": {
         "name": "Making Mirrors",
         "url": "https://open.spotify.com/album/1HjSyGjmLNjRAKgT9t1cna"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 244973,
       "name": "Somebody That I Used To Know",
       "url": "https://open.spotify.com/track/4wCmqSrbyCgxEXROQE6vtV"
+    },
+    {
+      "added_at": "2024-07-09 14:42:11",
+      "album": {
+        "name": "Everytime We Touch (Premium Edition)",
+        "url": "https://open.spotify.com/album/2unbJ7dUr9mITQiMwWFqQD"
+      },
+      "artists": [
+        {
+          "name": "Cascada",
+          "url": "https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp"
+        }
+      ],
+      "duration_ms": 197124,
+      "name": "Everytime We Touch",
+      "url": "https://open.spotify.com/track/5YJtMNWKe55yr49cyJgxva"
     },
     {
       "added_at": "2024-07-09 14:42:11",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2024-07-09 14:42:11",
       "album": {
-        "name": "Seal",
-        "url": "https://open.spotify.com/album/1mSECpFqHRW6leG4idqTE1"
-      },
-      "artists": [
-        {
-          "name": "Seal",
-          "url": "https://open.spotify.com/artist/5GtMEZEeFFsuHY8ad4kOxv"
-        }
-      ],
-      "duration_ms": 288426,
-      "name": "Kiss from a Rose",
-      "url": "https://open.spotify.com/track/3YKptz29AsOlm7WAVnztBh"
-    },
-    {
-      "added_at": "2024-07-09 14:42:11",
-      "album": {
         "name": "Hot Chocolate",
         "url": "https://open.spotify.com/album/10oMdAuUD0Tcc4BowCWUni"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 244920,
       "name": "You Sexy Thing",
       "url": "https://open.spotify.com/track/714hERk9U1W8FMYkoC83CO"
+    },
+    {
+      "added_at": "2024-07-09 14:42:11",
+      "album": {
+        "name": "Seal",
+        "url": "https://open.spotify.com/album/1mSECpFqHRW6leG4idqTE1"
+      },
+      "artists": [
+        {
+          "name": "Seal",
+          "url": "https://open.spotify.com/artist/5GtMEZEeFFsuHY8ad4kOxv"
+        }
+      ],
+      "duration_ms": 288426,
+      "name": "Kiss from a Rose",
+      "url": "https://open.spotify.com/track/3YKptz29AsOlm7WAVnztBh"
     },
     {
       "added_at": "2024-07-09 14:42:11",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2024-07-09 14:42:11",
       "album": {
-        "name": "The Rhythm of the Night",
-        "url": "https://open.spotify.com/album/6rrPmmb2lQd5pNRL6HKBZx"
-      },
-      "artists": [
-        {
-          "name": "Corona",
-          "url": "https://open.spotify.com/artist/26T6b8maqEVltcmE4kSDUl"
-        }
-      ],
-      "duration_ms": 264280,
-      "name": "The Rhythm of the Night",
-      "url": "https://open.spotify.com/track/0ofMkI3jzmGCElAOgOLeo3"
-    },
-    {
-      "added_at": "2024-07-09 14:42:11",
-      "album": {
         "name": "Back To Black",
         "url": "https://open.spotify.com/album/097eYvf9NKjFnv4xA9s2oV"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 240440,
       "name": "Back To Black",
       "url": "https://open.spotify.com/track/30FURVTCpbKyykjSEQzGkH"
+    },
+    {
+      "added_at": "2024-07-09 14:42:11",
+      "album": {
+        "name": "The Rhythm of the Night",
+        "url": "https://open.spotify.com/album/6rrPmmb2lQd5pNRL6HKBZx"
+      },
+      "artists": [
+        {
+          "name": "Corona",
+          "url": "https://open.spotify.com/artist/26T6b8maqEVltcmE4kSDUl"
+        }
+      ],
+      "duration_ms": 264280,
+      "name": "The Rhythm of the Night",
+      "url": "https://open.spotify.com/track/0ofMkI3jzmGCElAOgOLeo3"
     },
     {
       "added_at": "2024-07-09 14:42:11",
@@ -1751,22 +1751,6 @@
     {
       "added_at": "2024-07-09 14:42:11",
       "album": {
-        "name": "Parallel Lines - Remastered",
-        "url": "https://open.spotify.com/album/5wc12ZsmXNIlppTmNFZFLU"
-      },
-      "artists": [
-        {
-          "name": "Blondie",
-          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
-        }
-      ],
-      "duration_ms": 215106,
-      "name": "One Way Or Another - Remastered 2001",
-      "url": "https://open.spotify.com/track/4cQJ27R11K634x5qCOwKW5"
-    },
-    {
-      "added_at": "2024-07-09 14:42:11",
-      "album": {
         "name": "Donde Estan Los Ladrones",
         "url": "https://open.spotify.com/album/5hcKSTqKOLuzJgYIQileAe"
       },
@@ -1779,6 +1763,22 @@
       "duration_ms": 210266,
       "name": "Si Te Vas",
       "url": "https://open.spotify.com/track/7Apo6o7oxgFyXaSmdx6NHN"
+    },
+    {
+      "added_at": "2024-07-09 14:42:11",
+      "album": {
+        "name": "Parallel Lines - Remastered",
+        "url": "https://open.spotify.com/album/5wc12ZsmXNIlppTmNFZFLU"
+      },
+      "artists": [
+        {
+          "name": "Blondie",
+          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
+        }
+      ],
+      "duration_ms": 215106,
+      "name": "One Way Or Another - Remastered 2001",
+      "url": "https://open.spotify.com/track/4cQJ27R11K634x5qCOwKW5"
     },
     {
       "added_at": "2024-07-09 14:42:11",
@@ -1967,22 +1967,6 @@
     {
       "added_at": "2024-07-09 14:42:11",
       "album": {
-        "name": "Take The Heat Off Me",
-        "url": "https://open.spotify.com/album/1KQUrny9y5zGpktF6hAGd4"
-      },
-      "artists": [
-        {
-          "name": "Boney M.",
-          "url": "https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb"
-        }
-      ],
-      "duration_ms": 242240,
-      "name": "Sunny",
-      "url": "https://open.spotify.com/track/3pf96IFggfQuT6Gafqx2rt"
-    },
-    {
-      "added_at": "2024-07-09 14:42:11",
-      "album": {
         "name": "Lo mas lejos a tu lado",
         "url": "https://open.spotify.com/album/5ARI6MI0J9CnAqT9vfhd4n"
       },
@@ -1999,18 +1983,34 @@
     {
       "added_at": "2024-07-09 14:42:11",
       "album": {
-        "name": "Suavemente",
-        "url": "https://open.spotify.com/album/01dkVTJhjXbhGCW4VUelmq"
+        "name": "Take The Heat Off Me",
+        "url": "https://open.spotify.com/album/1KQUrny9y5zGpktF6hAGd4"
       },
       "artists": [
         {
-          "name": "Elvis Crespo",
-          "url": "https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df"
+          "name": "Boney M.",
+          "url": "https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb"
         }
       ],
-      "duration_ms": 267160,
-      "name": "Suavemente",
-      "url": "https://open.spotify.com/track/7JIjUx3GsL0upxmNJacmtz"
+      "duration_ms": 242240,
+      "name": "Sunny",
+      "url": "https://open.spotify.com/track/3pf96IFggfQuT6Gafqx2rt"
+    },
+    {
+      "added_at": "2024-07-09 14:42:11",
+      "album": {
+        "name": "When a Man Loves a Woman",
+        "url": "https://open.spotify.com/album/0lj5tDBUt1i1b1Llobu23M"
+      },
+      "artists": [
+        {
+          "name": "Percy Sledge",
+          "url": "https://open.spotify.com/artist/3rRmDmzPcAFwcUDvG5gBqO"
+        }
+      ],
+      "duration_ms": 173866,
+      "name": "When a Man Loves a Woman",
+      "url": "https://open.spotify.com/track/51FpzuGkRYXFgsE2zXt9av"
     },
     {
       "added_at": "2024-07-09 14:42:11",
@@ -2035,6 +2035,22 @@
       "duration_ms": 243413,
       "name": "Bailando - Spanish Version",
       "url": "https://open.spotify.com/track/32lm3769IRfcnrQV11LO4E"
+    },
+    {
+      "added_at": "2024-07-09 14:42:11",
+      "album": {
+        "name": "Suavemente",
+        "url": "https://open.spotify.com/album/01dkVTJhjXbhGCW4VUelmq"
+      },
+      "artists": [
+        {
+          "name": "Elvis Crespo",
+          "url": "https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df"
+        }
+      ],
+      "duration_ms": 267160,
+      "name": "Suavemente",
+      "url": "https://open.spotify.com/track/7JIjUx3GsL0upxmNJacmtz"
     },
     {
       "added_at": "2024-07-09 14:42:11",
@@ -2071,22 +2087,6 @@
     {
       "added_at": "2024-07-09 14:42:11",
       "album": {
-        "name": "When a Man Loves a Woman",
-        "url": "https://open.spotify.com/album/0lj5tDBUt1i1b1Llobu23M"
-      },
-      "artists": [
-        {
-          "name": "Percy Sledge",
-          "url": "https://open.spotify.com/artist/3rRmDmzPcAFwcUDvG5gBqO"
-        }
-      ],
-      "duration_ms": 173866,
-      "name": "When a Man Loves a Woman",
-      "url": "https://open.spotify.com/track/51FpzuGkRYXFgsE2zXt9av"
-    },
-    {
-      "added_at": "2024-07-09 14:42:11",
-      "album": {
         "name": "Estopa",
         "url": "https://open.spotify.com/album/5EiebUqlX025HxiCvVTsNs"
       },
@@ -2099,22 +2099,6 @@
       "duration_ms": 202826,
       "name": "Por la Raja de Tu Falda",
       "url": "https://open.spotify.com/track/5OaqffbeQyVVqtnA71Ci7K"
-    },
-    {
-      "added_at": "2024-07-09 14:42:11",
-      "album": {
-        "name": "I AM...SASHA FIERCE",
-        "url": "https://open.spotify.com/album/39P7VD7qlg3Z0ltq60eHp7"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 193213,
-      "name": "Single Ladies (Put a Ring on It)",
-      "url": "https://open.spotify.com/track/5R9a4t5t5O0IsznsrKPVro"
     },
     {
       "added_at": "2024-07-09 14:42:11",
@@ -2147,6 +2131,22 @@
       "duration_ms": 269373,
       "name": "Por la boca vive el pez",
       "url": "https://open.spotify.com/track/24UStI5AYA7g5ufFDh3LH0"
+    },
+    {
+      "added_at": "2024-07-09 14:42:11",
+      "album": {
+        "name": "I AM...SASHA FIERCE",
+        "url": "https://open.spotify.com/album/39P7VD7qlg3Z0ltq60eHp7"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 193213,
+      "name": "Single Ladies (Put a Ring on It)",
+      "url": "https://open.spotify.com/track/5R9a4t5t5O0IsznsrKPVro"
     },
     {
       "added_at": "2024-07-09 14:42:11",
@@ -2631,6 +2631,22 @@
     {
       "added_at": "2024-07-09 14:42:11",
       "album": {
+        "name": "New Gold Hits",
+        "url": "https://open.spotify.com/album/4YOXmT7qlIjaDC3muRuEHY"
+      },
+      "artists": [
+        {
+          "name": "Frankie Valli & The Four Seasons",
+          "url": "https://open.spotify.com/artist/6mcrZQmgzFGRWf7C0SObou"
+        }
+      ],
+      "duration_ms": 170626,
+      "name": "Beggin'",
+      "url": "https://open.spotify.com/track/2S6XOQqWqUBIySUU00vMru"
+    },
+    {
+      "added_at": "2024-07-09 14:42:11",
+      "album": {
         "name": "Estados de Animo",
         "url": "https://open.spotify.com/album/6Fs4ZLz6N8IZtXR20zjwjy"
       },
@@ -2667,22 +2683,6 @@
       "duration_ms": 233600,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/72SpPFrMYCXLB3Fbw9tEgf"
-    },
-    {
-      "added_at": "2024-07-09 14:42:11",
-      "album": {
-        "name": "New Gold Hits",
-        "url": "https://open.spotify.com/album/4YOXmT7qlIjaDC3muRuEHY"
-      },
-      "artists": [
-        {
-          "name": "Frankie Valli & The Four Seasons",
-          "url": "https://open.spotify.com/artist/6mcrZQmgzFGRWf7C0SObou"
-        }
-      ],
-      "duration_ms": 170626,
-      "name": "Beggin'",
-      "url": "https://open.spotify.com/track/2S6XOQqWqUBIySUU00vMru"
     },
     {
       "added_at": "2024-07-09 14:42:11",
@@ -2903,22 +2903,6 @@
     {
       "added_at": "2024-07-09 14:42:11",
       "album": {
-        "name": "Dance Hits - 80s & 90s",
-        "url": "https://open.spotify.com/album/0LvOMujcrO1z87O3vAOsJL"
-      },
-      "artists": [
-        {
-          "name": "The Weather Girls",
-          "url": "https://open.spotify.com/artist/19xz1vcuKNjniGEftTOSSH"
-        }
-      ],
-      "duration_ms": 211533,
-      "name": "It's Raining Men - Single Version",
-      "url": "https://open.spotify.com/track/4caiYv89C9GZdDD1RzshWd"
-    },
-    {
-      "added_at": "2024-07-09 14:42:11",
-      "album": {
         "name": "Fever (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2QDWFfsBr3EngvBwPtxoIY"
       },
@@ -2931,6 +2915,22 @@
       "duration_ms": 230640,
       "name": "Can't Get You out of My Head",
       "url": "https://open.spotify.com/track/7MoKXLQeI0Bh2QodCjDO4K"
+    },
+    {
+      "added_at": "2024-07-09 14:42:11",
+      "album": {
+        "name": "Dance Hits - 80s & 90s",
+        "url": "https://open.spotify.com/album/0LvOMujcrO1z87O3vAOsJL"
+      },
+      "artists": [
+        {
+          "name": "The Weather Girls",
+          "url": "https://open.spotify.com/artist/19xz1vcuKNjniGEftTOSSH"
+        }
+      ],
+      "duration_ms": 211533,
+      "name": "It's Raining Men - Single Version",
+      "url": "https://open.spotify.com/track/4caiYv89C9GZdDD1RzshWd"
     },
     {
       "added_at": "2024-07-09 14:42:11",
@@ -3243,6 +3243,22 @@
     {
       "added_at": "2024-07-09 14:42:11",
       "album": {
+        "name": "Elephant",
+        "url": "https://open.spotify.com/album/0rRNLpdA8nA8Sm8Fk490b9"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "duration_ms": 231920,
+      "name": "Seven Nation Army",
+      "url": "https://open.spotify.com/track/3m6KkYKdnbffMpGd9Pm9FP"
+    },
+    {
+      "added_at": "2024-07-09 14:42:11",
+      "album": {
         "name": "Coti",
         "url": "https://open.spotify.com/album/1msFprmU8cqzLu66TOX4rf"
       },
@@ -3259,22 +3275,6 @@
       "duration_ms": 208200,
       "name": "Nada Fue Un Error",
       "url": "https://open.spotify.com/track/5QhOF5HXgZ0OFUZSE5kEv1"
-    },
-    {
-      "added_at": "2024-07-09 14:42:11",
-      "album": {
-        "name": "Elephant",
-        "url": "https://open.spotify.com/album/0rRNLpdA8nA8Sm8Fk490b9"
-      },
-      "artists": [
-        {
-          "name": "The White Stripes",
-          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
-        }
-      ],
-      "duration_ms": 231920,
-      "name": "Seven Nation Army",
-      "url": "https://open.spotify.com/track/3m6KkYKdnbffMpGd9Pm9FP"
     },
     {
       "added_at": "2024-07-09 14:42:11",
@@ -3327,22 +3327,18 @@
     {
       "added_at": "2024-07-09 14:42:11",
       "album": {
-        "name": "Coti",
-        "url": "https://open.spotify.com/album/1msFprmU8cqzLu66TOX4rf"
+        "name": "Out Of Time (U.S. Version)",
+        "url": "https://open.spotify.com/album/4v5hSLj6ClyLqj2nnaPbfD"
       },
       "artists": [
         {
-          "name": "Coti",
-          "url": "https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj"
-        },
-        {
-          "name": "Dani Mart\u00edn",
-          "url": "https://open.spotify.com/artist/3AIPhNgeF9S1Kyg9Yy3UQW"
+          "name": "R.E.M.",
+          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
         }
       ],
-      "duration_ms": 221626,
-      "name": "Antes Que Ver El Sol",
-      "url": "https://open.spotify.com/track/0BJdpD3m8414QOj8iqFYMR"
+      "duration_ms": 267733,
+      "name": "Losing My Religion",
+      "url": "https://open.spotify.com/track/74EV0g12ihUoOUXMprFpZB"
     }
   ],
   "unique_name": "Karaoke 2024",

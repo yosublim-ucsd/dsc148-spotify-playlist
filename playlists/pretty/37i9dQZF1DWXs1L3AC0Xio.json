@@ -1,6 +1,6 @@
 {
   "description": "lighters up.",
-  "num_followers": 745673,
+  "num_followers": 745819,
   "original_name": "Rock Ballads",
   "owner": {
     "name": "Spotify",
@@ -547,22 +547,6 @@
     {
       "added_at": "2024-06-26 02:18:14",
       "album": {
-        "name": "AfterLife",
-        "url": "https://open.spotify.com/album/2xO5zlCGNyap7Jx1ED3HgG"
-      },
-      "artists": [
-        {
-          "name": "Five Finger Death Punch",
-          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
-        }
-      ],
-      "duration_ms": 209976,
-      "name": "Times Like These",
-      "url": "https://open.spotify.com/track/6bo13cPb5M0B6LhQEl0A3E"
-    },
-    {
-      "added_at": "2024-06-26 02:18:14",
-      "album": {
         "name": "Dark Before Dawn",
         "url": "https://open.spotify.com/album/09asAAZJ7rXedp9J8wqvBR"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 200066,
       "name": "Swing Life Away",
       "url": "https://open.spotify.com/track/6GrrkiCRO3HYdgRpO4eKEL"
+    },
+    {
+      "added_at": "2024-06-26 02:18:14",
+      "album": {
+        "name": "AfterLife",
+        "url": "https://open.spotify.com/album/2xO5zlCGNyap7Jx1ED3HgG"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "duration_ms": 209976,
+      "name": "Times Like These",
+      "url": "https://open.spotify.com/track/6bo13cPb5M0B6LhQEl0A3E"
     },
     {
       "added_at": "2024-06-26 02:18:14",

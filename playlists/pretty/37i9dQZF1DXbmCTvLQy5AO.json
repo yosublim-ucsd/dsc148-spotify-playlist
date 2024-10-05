@@ -1,6 +1,6 @@
 {
   "description": "Empowered rhymes and vibes. Cover: Tinashe",
-  "num_followers": 475502,
+  "num_followers": 475527,
   "original_name": "Work It, Own It",
   "owner": {
     "name": "Spotify",
@@ -399,6 +399,22 @@
     {
       "added_at": "2024-06-12 09:07:18",
       "album": {
+        "name": "The Lo-Fis",
+        "url": "https://open.spotify.com/album/6m5qlaMzLtNsQDj3DQY5ji"
+      },
+      "artists": [
+        {
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+        }
+      ],
+      "duration_ms": 141055,
+      "name": "Out of Me Head",
+      "url": "https://open.spotify.com/track/3G9tyuUoBVNTDXY0icrUVf"
+    },
+    {
+      "added_at": "2024-06-12 09:07:18",
+      "album": {
         "name": "On My Mama",
         "url": "https://open.spotify.com/album/3KAqJe3dwWZFukNlOS6JXS"
       },
@@ -411,22 +427,6 @@
       "duration_ms": 186678,
       "name": "On My Mama",
       "url": "https://open.spotify.com/track/1o8Z7GD1CeOaVBEyuzu4HO"
-    },
-    {
-      "added_at": "2024-06-12 09:07:18",
-      "album": {
-        "name": "Up",
-        "url": "https://open.spotify.com/album/5BNrcvfbLyADks4RXPW7VP"
-      },
-      "artists": [
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        }
-      ],
-      "duration_ms": 156944,
-      "name": "Up",
-      "url": "https://open.spotify.com/track/1XXimziG1uhM0eDNCZCrUl"
     },
     {
       "added_at": "2024-06-12 09:07:18",
@@ -467,18 +467,18 @@
     {
       "added_at": "2024-06-12 09:07:18",
       "album": {
-        "name": "The Lo-Fis",
-        "url": "https://open.spotify.com/album/6m5qlaMzLtNsQDj3DQY5ji"
+        "name": "Up",
+        "url": "https://open.spotify.com/album/5BNrcvfbLyADks4RXPW7VP"
       },
       "artists": [
         {
-          "name": "Steve Lacy",
-          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
         }
       ],
-      "duration_ms": 141055,
-      "name": "Out of Me Head",
-      "url": "https://open.spotify.com/track/3G9tyuUoBVNTDXY0icrUVf"
+      "duration_ms": 156944,
+      "name": "Up",
+      "url": "https://open.spotify.com/track/1XXimziG1uhM0eDNCZCrUl"
     },
     {
       "added_at": "2024-06-12 09:07:18",
@@ -919,18 +919,22 @@
     {
       "added_at": "2024-06-12 09:07:18",
       "album": {
-        "name": "Fountain Baby",
-        "url": "https://open.spotify.com/album/3dKdkVeR6hPjAOH5K2nYTh"
+        "name": "THE ANGEL YOU DON'T KNOW",
+        "url": "https://open.spotify.com/album/1cceIhCQ8R79pwy8jbZFqE"
       },
       "artists": [
         {
           "name": "Amaarae",
           "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+        },
+        {
+          "name": "Moliy",
+          "url": "https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK"
         }
       ],
-      "duration_ms": 148573,
-      "name": "Wasted Eyes",
-      "url": "https://open.spotify.com/track/7dEXXV4xk5OpEdswCWC3GX"
+      "duration_ms": 196420,
+      "name": "SAD GIRLZ LUV MONEY",
+      "url": "https://open.spotify.com/track/2pgDBO0ZAgvye7joSmdDm8"
     },
     {
       "added_at": "2024-06-12 09:07:18",
@@ -1023,22 +1027,18 @@
     {
       "added_at": "2024-06-12 09:07:18",
       "album": {
-        "name": "THE ANGEL YOU DON'T KNOW",
-        "url": "https://open.spotify.com/album/1cceIhCQ8R79pwy8jbZFqE"
+        "name": "Fountain Baby",
+        "url": "https://open.spotify.com/album/3dKdkVeR6hPjAOH5K2nYTh"
       },
       "artists": [
         {
           "name": "Amaarae",
           "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
-        },
-        {
-          "name": "Moliy",
-          "url": "https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK"
         }
       ],
-      "duration_ms": 196420,
-      "name": "SAD GIRLZ LUV MONEY",
-      "url": "https://open.spotify.com/track/2pgDBO0ZAgvye7joSmdDm8"
+      "duration_ms": 148573,
+      "name": "Wasted Eyes",
+      "url": "https://open.spotify.com/track/7dEXXV4xk5OpEdswCWC3GX"
     },
     {
       "added_at": "2024-06-12 09:07:18",

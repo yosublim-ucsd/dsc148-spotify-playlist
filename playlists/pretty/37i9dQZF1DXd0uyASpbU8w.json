@@ -1,6 +1,6 @@
 {
   "description": "The hottest tracks picked from the latest new releases in South Africa and the world. Cover: <a href=\"https://open.spotify.com/artist/2aIcnnHTA16VbmhNJGLrGs?si=zKFfVWGpSeWjsOFqHf_6CA\">Makhadzi</a>",
-  "num_followers": 101403,
+  "num_followers": 101602,
   "original_name": "New Music Friday South Africa",
   "owner": {
     "name": "Spotify",
@@ -191,6 +191,26 @@
     {
       "added_at": "2024-10-03 23:13:32",
       "album": {
+        "name": "JADED",
+        "url": "https://open.spotify.com/album/1XcpYmfE4vYCKeLQYINlO7"
+      },
+      "artists": [
+        {
+          "name": "Toosii",
+          "url": "https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1"
+        },
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        }
+      ],
+      "duration_ms": 166954,
+      "name": "I Do (feat. Muni Long)",
+      "url": "https://open.spotify.com/track/5TbYIeYkGgGtYL7sms7m9N"
+    },
+    {
+      "added_at": "2024-10-03 23:13:32",
+      "album": {
         "name": "Sthandaneni",
         "url": "https://open.spotify.com/album/6mZOjurcX3JNReTocz81y1"
       },
@@ -307,7 +327,7 @@
     {
       "added_at": "2024-10-03 23:13:32",
       "album": {
-        "name": "2k'thele (feat. Nandipha808, Visca, Marcus MC, Tranqullio, Rivalz & Tshepo Keyz)",
+        "name": "2k'thele (feat. Nandipha808, Visca, Marcus MC, Rivalz, Tshepo Keyz & Tranquillo)",
         "url": "https://open.spotify.com/album/5lzVpG86JEnvgLUAyRQevw"
       },
       "artists": [
@@ -316,8 +336,8 @@
           "url": "https://open.spotify.com/artist/5Sgtj9tFA2TAYXDeh1sJTc"
         },
         {
-          "name": "LutroDaMusic",
-          "url": "https://open.spotify.com/artist/6WhcQZDoP5Q39LWWgth3QH"
+          "name": "Lutroo Da-Music",
+          "url": "https://open.spotify.com/artist/1vzXdLLXggXev40QrIbVrS"
         },
         {
           "name": "LeeMcKrazy",
@@ -336,20 +356,20 @@
           "url": "https://open.spotify.com/artist/5LeS8sVgl3TCntQM7TVAHf"
         },
         {
-          "name": "Tranqullio",
-          "url": "https://open.spotify.com/artist/4jbYAjaaqViNEe7sbfLv9q"
-        },
-        {
           "name": "RIVALZ",
           "url": "https://open.spotify.com/artist/4X3O9f5Bs7lKcOyUFoV75y"
         },
         {
           "name": "Tshepo Keyz",
           "url": "https://open.spotify.com/artist/7Ie7V6GpND9z2TvEb0jm7T"
+        },
+        {
+          "name": "Tranquillo",
+          "url": "https://open.spotify.com/artist/32TvTT0hZmelw2ZmrJpM31"
         }
       ],
       "duration_ms": 437142,
-      "name": "2k'thele (feat. Nandipha808, Visca, Marcus MC, Tranqullio, Rivalz & Tshepo Keyz)",
+      "name": "2k'thele (feat. Nandipha808, Visca, Marcus MC, Rivalz, Tshepo Keyz & Tranquillo)",
       "url": "https://open.spotify.com/track/3r6OJWuLgGNYGE9kHTlScO"
     },
     {
@@ -947,6 +967,26 @@
     {
       "added_at": "2024-10-03 23:13:32",
       "album": {
+        "name": "Alone (Remix)",
+        "url": "https://open.spotify.com/album/1bE7lrP5TzEIX3UHiwMhKR"
+      },
+      "artists": [
+        {
+          "name": "FOLA",
+          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
+        },
+        {
+          "name": "Bnxn",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 154578,
+      "name": "Alone - Remix",
+      "url": "https://open.spotify.com/track/2GSK9VfsKWpVOV6ZzKiMA4"
+    },
+    {
+      "added_at": "2024-10-03 23:13:32",
+      "album": {
         "name": "Life Of The Party",
         "url": "https://open.spotify.com/album/6FnDL1rGjjtE86FuBV2Lk0"
       },
@@ -1388,8 +1428,8 @@
           "url": "https://open.spotify.com/artist/2dYBmQBoPF1u097KQasvdv"
         },
         {
-          "name": "Worst Behaviours",
-          "url": "https://open.spotify.com/artist/418RnCs39ZAOpahmEEcgMU"
+          "name": "Worst Behaviour",
+          "url": "https://open.spotify.com/artist/53j4It5K8cVfNn3WMuOGwk"
         }
       ],
       "duration_ms": 302362,

@@ -2,9 +2,9 @@
 
 ### [R&B Rising](https://open.spotify.com/playlist/37i9dQZF1DWUbo613Z2iWO)
 
-> R&B of the moment by the artists of the future\. Cover: Dylan Sinclair
+> R&B of the moment by the artists of the future\. Cover: Shae Universe
 
-1,053 songs - 2 day 5 hr 42 min
+1,058 songs - 2 day 5 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [Be Without You](https://open.spotify.com/track/5vdSk60SVmxr2ISu17KHB5) | [Natasha Mosley](https://open.spotify.com/artist/1fYdgyGBrMIEML5cuo5FpZ) | [Natasha Mosley](https://open.spotify.com/album/2ljiL5OmK8EXW21ROuggvz) | 3:25 | 2022-05-27 | 2022-07-16 |
 | [Beach](https://open.spotify.com/track/591OojQCkyOLyMqmJRVyyc) | [Idman](https://open.spotify.com/artist/6N13mUTgkfYEUmW8R2GH0G) | [Risk](https://open.spotify.com/album/1slDbdhOlw9i2XDsaEVQeo) | 2:06 | 2023-07-14 | 2024-01-11 |
 | [Beautiful](https://open.spotify.com/track/5tsPiNGuiztScsTjhqEubO) | [Byron Juane](https://open.spotify.com/artist/4UMCjCFEBDWVqw9tTrfxkb), [Xavier Omär](https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg) | [A Little Crazy](https://open.spotify.com/album/0LBh1y6QL1c3ChY53Y3mK0) | 3:18 | 2022-08-05 | 2023-04-01 |
+| [Before the First Leaf Falls](https://open.spotify.com/track/0SBfWdjywgRx5CGvKcnfEP) | [James Savage](https://open.spotify.com/artist/0NJU41dLwF6OcBPRZwhAV5) | [Before the First Leaf Falls](https://open.spotify.com/album/3LxTnPm4Mky0twNdfZKZUY) | 2:00 | 2024-10-04 |  |
 | [Beggie Beggie](https://open.spotify.com/track/6zublRIkZocboXucqc8hgB) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [19 & Dangerous](https://open.spotify.com/album/0AjdvP8p42lwSzmN0PpwJv) | 3:28 | 2022-11-27 | 2022-12-03 |
 | [Beggin'](https://open.spotify.com/track/0yJIF1o3HggZCMgTSGWlEj) | [Amaria](https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1) | [Beggin'](https://open.spotify.com/album/3dcCGh01JOXtrefNVmOpsk) | 3:57 | 2024-03-22 | 2024-06-22 |
 | [bend you](https://open.spotify.com/track/2Eh66WrkqVpTjKHZDGSoBM) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Boy Alone](https://open.spotify.com/album/673wWns8iuEBeBLRAQU68A) | 2:39 | 2022-07-15 | 2022-11-13 |
@@ -203,6 +204,7 @@
 | [Cranes in the Sky \- Spotify Singles](https://open.spotify.com/track/0vtTKF9vZSaPY81sNHwpz4) | [Khamari](https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ) | [Cranes in the Sky \(Spotify Singles\)](https://open.spotify.com/album/260Kae28MIGcLpp248A869) | 4:28 | 2024-08-02 |  |
 | [Crash & Burn](https://open.spotify.com/track/2fHKzcFXMme56EJMgFsudr) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Electric Dusk](https://open.spotify.com/album/5u7OrPu6BbadcZNWuH10VT) | 2:27 | 2024-01-10 | 2024-04-13 |
 | [Crash & Burn](https://open.spotify.com/track/7JOtjhuqqUIvPNAhaeE5Qu) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Crash & Burn](https://open.spotify.com/album/7MjT0zzh0LfxADDOli4cd2) | 2:27 | 2023-04-07 | 2023-09-02 |
+| [crash & burn](https://open.spotify.com/track/4xZ2DCv0AhOg7NUuqjRbCl) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [wings](https://open.spotify.com/album/46jYkyZi8Ql9jfuJ2IQ8vF) | 3:11 | 2024-10-04 |  |
 | [Crazy Down](https://open.spotify.com/track/3zFmqleGOMgKmkXYZH5WID) | [LAYA](https://open.spotify.com/artist/7JNff2HS8nrk3x0VZ5pT2X) | [Crazy Down](https://open.spotify.com/album/7v64XYcrShDR2SvQiV7mzU) | 3:04 | 2022-03-25 | 2022-11-17 |
 | [Crazy Down](https://open.spotify.com/track/6Dp3TqrwcYRs3KChuVlPMx) | [LAYA](https://open.spotify.com/artist/7JNff2HS8nrk3x0VZ5pT2X) | [Um, Hello](https://open.spotify.com/album/6WtGNBLv5568Clwzd8u4vj) | 3:04 | 2022-07-15 | 2023-07-08 |
 | [CRYBABY](https://open.spotify.com/track/2Xyzl5wumWGTvbZSQXH3aD) | [Rae Khalil](https://open.spotify.com/artist/7cIx4IDh0zLqXBxuNSqFNq) | [CRYBABY](https://open.spotify.com/album/0h3cx9s1TA0Bdflp2LiJ6V) | 3:59 | 2024-07-12 | 2024-08-10 |
@@ -599,6 +601,7 @@
 | [Merlot](https://open.spotify.com/track/1qWEIjCuCRlRbtrPmtEvjb) | [Ye Ali](https://open.spotify.com/artist/0Maq4Nk8ZM6keGZjTCXGIH), [Dende](https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF), [Sidney Gilliam](https://open.spotify.com/artist/4f3YbRd80O0uo81hswwwo5) | [Merlot](https://open.spotify.com/album/5GznepRbxSMHnnnxPNUYGt) | 4:06 | 2024-07-19 |  |
 | [MET YOU AT A BAR](https://open.spotify.com/track/1tqDKxcXd2dlni26L3BGQ3) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I), [Tone Stith](https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44) | [MET YOU AT A BAR](https://open.spotify.com/album/5XFDNmKIETmCv4YabIQRHP) | 2:40 | 2024-02-23 | 2024-07-20 |
 | [MF \(feat\. 24kGoldn\)](https://open.spotify.com/track/7v27vTy3PP70lBHgfvPnKQ) | [Bailey Bryan](https://open.spotify.com/artist/2YcTXkrGXpftY9AR0BKEz0), [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [MF \(feat\. 24kGoldn\)](https://open.spotify.com/album/5EXnj8f715BdwncOrZQ2H1) | 2:42 | 2022-03-25 | 2022-04-16 |
+| [Mi Amor](https://open.spotify.com/track/1GBk5m0nHSV2nwWv0fxpzA) | [AYLØ](https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd), [Le Mav](https://open.spotify.com/artist/59MU62wyOLf8FlV7l8fewL) | [Mi Amor](https://open.spotify.com/album/0PJi5AejTSG6WN9JvqeMds) | 1:57 | 2024-10-04 |  |
 | [Millionth Time](https://open.spotify.com/track/3IoF0Dezdcv1VP6sX4GfXS) | [Joël Lobban](https://open.spotify.com/artist/1aKxOOjrr9tPOCat11beik) | [Millionth Time](https://open.spotify.com/album/6wLI2RFwsRXMCUOOglSzm6) | 2:41 | 2024-01-19 | 2024-03-16 |
 | [mind now \(with Skilla Baby\)](https://open.spotify.com/track/1Ilmqzog50GYbstZ8ZjYbr) | [N3WYRKLA](https://open.spotify.com/artist/1GMy1NJjIXk6bejCuYdLT9), [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI) | [mind now \(with Skilla Baby\)](https://open.spotify.com/album/1njs3NgfXzCJOWFdWTwfCg) | 3:10 | 2024-09-13 |  |
 | [Mine](https://open.spotify.com/track/4w1tInexl8p2Tc13q2T1NI) | [Upstrz](https://open.spotify.com/artist/36Jhnuvj1ZVWty7io450Fi) | [Meet Me Upstrz](https://open.spotify.com/album/3g0MhX3p1UViH1m3H660LY) | 2:36 | 2022-12-16 | 2023-07-01 |
@@ -629,6 +632,7 @@
 | [My, My, My](https://open.spotify.com/track/6i4HcGUwlfdiamDN8TJi8h) | [Billymaree](https://open.spotify.com/artist/54WEGLBrZDqfZgZaJgrxj2) | [My, My, My](https://open.spotify.com/album/4tTpotB7s3xrsTSu1QPo66) | 3:16 | 2022-03-25 | 2022-04-16 |
 | [Nasty](https://open.spotify.com/track/4Z973kxz9iOlxwTlCDskpl) | [RAAHiiM](https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9) | [Nasty](https://open.spotify.com/album/6p6WVSuVgt1Jimwnz6fdy2) | 2:59 | 2024-06-28 |  |
 | [Nasty Remix ft Saint Levant](https://open.spotify.com/track/6ONNprntoihbrQMFkNUPlO) | [Zeina](https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI), [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT) | [Nasty Remix ft Saint Levant](https://open.spotify.com/album/0RtZh2OWBGwidoGGZ221GM) | 2:50 | 2023-04-28 | 2023-06-24 |
+| [Natural High](https://open.spotify.com/track/7GMXtSyoJ2xAs9abge7E1s) | [Gemaine](https://open.spotify.com/artist/6WnCnGe06iOO6fTPYAPF03), [Lekan](https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv) | [Natural High](https://open.spotify.com/album/1FLtRgrXDoaFc1b71MX43S) | 3:45 | 2024-10-04 |  |
 | [Naturally](https://open.spotify.com/track/2nQF3xgFXtXVUlaQNiUARI) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Naturally](https://open.spotify.com/album/3iAuliy1vZqifIJEfXRbK3) | 3:14 | 2022-02-18 | 2022-03-26 |
 | [Need 2 Know](https://open.spotify.com/track/3uGWtQPSUH7ylZy8HjkQj6) | [LAYA](https://open.spotify.com/artist/7JNff2HS8nrk3x0VZ5pT2X) | [Need 2 Know](https://open.spotify.com/album/618hLEFqLhd2F5pkf3MOsk) | 3:35 | 2023-08-11 | 2023-09-02 |
 | [Need U Tonite \(with Genia\)](https://open.spotify.com/track/0DFrS6DTGOH3CEWFuPDKtk) | [Breez Kennedy](https://open.spotify.com/artist/6ydm4dOCCkVb40LPqkhH3p), [Genia](https://open.spotify.com/artist/4aAD0IqgpuOUyFGFZKEgNB) | [Need U Tonite](https://open.spotify.com/album/1fosbY1jCipe3rYvEU8S8V) | 2:25 | 2023-10-27 | 2024-01-11 |
@@ -789,6 +793,7 @@
 | [Risky](https://open.spotify.com/track/3AQyDEYGTFG6TJiZPBhq3G) | [TA Thomas](https://open.spotify.com/artist/04EdUc6wcBIZXMc9dtC1Ul) | [Risky](https://open.spotify.com/album/0AIIBXCTsv1tWuFv4hO64y) | 3:05 | 2024-06-21 | 2024-08-10 |
 | [RM\. 143 \- Remix](https://open.spotify.com/track/6hsdEzWVMtvFNoE4mjXk9A) | [Reggie Becton](https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC), [Kenyon Dixon](https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be) | [RM\. 143 \(Remix\)](https://open.spotify.com/album/39Xoc3ZGurFosNJDsc919A) | 2:58 | 2022-02-12 | 2022-03-26 |
 | [RM\. 143 \- RM112 Remix](https://open.spotify.com/track/5nEXSU70UNltl8Q1PS7AWR) | [Reggie Becton](https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC), [Slim](https://open.spotify.com/artist/33nrND6ODgesoa1Qmr5DbD), [Ye Ali](https://open.spotify.com/artist/0Maq4Nk8ZM6keGZjTCXGIH), [112](https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4) | [RM\. 143 \(RM112 Remix\)](https://open.spotify.com/album/6rRZCZwQU02DKN6EfCrGi2) | 3:00 | 2023-06-30 | 2023-10-14 |
+| [RN \(Right Now\)](https://open.spotify.com/track/4c4u5ExVRuo9SnzPqol94P) | [DCMBR](https://open.spotify.com/artist/6sjYoprgk0hVjBA77kIXUr) | [RN \(Right Now\)](https://open.spotify.com/album/6kHjOT4SNHe6OiclmBMFdG) | 3:00 | 2024-10-04 |  |
 | [Rock Steady](https://open.spotify.com/track/2ntw401pdhJCTDKRBAT2ZP) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo), [Le Mav](https://open.spotify.com/artist/59MU62wyOLf8FlV7l8fewL), [GOLD](https://open.spotify.com/artist/3G7vnr4LuKUuDU3hgIZSMM) | [GOLD II](https://open.spotify.com/album/7gLdGJsMu7LdkvLrzRfBXn) | 3:11 | 2024-07-12 |  |
 | [Rodeo Clown](https://open.spotify.com/track/7MrklDIUaRUecz3RDCcjM5) | [Casper Sage](https://open.spotify.com/artist/1a1XGqoicVjPifnA1fBtLE) | [Rodeo Clown](https://open.spotify.com/album/53EOHuMzRCZOaN62bzwQ4i) | 3:30 | 2022-11-18 | 2023-03-11 |
 | [Roll With Me](https://open.spotify.com/track/4MbUtjvqoNZaCC7SdNZm6G) | [Jean Deaux](https://open.spotify.com/artist/4JqpJeNOhP6bAkolNMLwFg) | [Roll With Me](https://open.spotify.com/album/6MDeXfz6FV2ssjJj690UXD) | 2:54 | 2023-12-08 | 2024-01-11 |

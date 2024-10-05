@@ -2,9 +2,9 @@
 
 ### [Girl Krush](https://open.spotify.com/playlist/37i9dQZF1DXbSWYCNwaARB)
 
-> All your girl crushes\(걸크러쉬\) in one place\. Cover: HYO \(효연\)
+> All your girl crushes\(걸크러쉬\) in one place\. Cover: KISS OF LIFE
 
-482 songs - 1 day 1 hr 21 min
+483 songs - 1 day 1 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,7 +171,7 @@
 | [GingaMingaYo \(the strange world\)](https://open.spotify.com/track/3jHg6QE70y2FTdnsxSrCbv) | [Billlie](https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0) | [the collective soul and unconscious: chapter one](https://open.spotify.com/album/4ophrgcnwWi1I5nWYImyhw) | 3:35 | 2022-02-23 | 2022-08-17 |
 | [Girls](https://open.spotify.com/track/2WTHLEVjfefbGoW7F3dXIg) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Girls \- The 2nd Mini Album](https://open.spotify.com/album/4w1dbvUy1crv0knXQvcSeY) | 4:00 | 2022-07-08 | 2023-07-13 |
 | [Girls](https://open.spotify.com/track/64HHzg4ILYpcYOGS0XQzOo) | [NATURE](https://open.spotify.com/artist/5WUom9mTTEewPdUmI4qnQi) | [NATURE WORLD: CODE M](https://open.spotify.com/album/3XJnhd1OJGfH3qXbIz02l4) | 3:31 | 2020-10-13\* | 2022-04-20 |
-| [Girls Never Die](https://open.spotify.com/track/45OflED18VsURGw2z0Y6Cv) | [tripleS](https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK) | [<ASSEMBLE24>](https://open.spotify.com/album/1FEdDqMaOL8oZYzI4n27GM) | 3:07 | 2024-05-08 | 2024-09-27 |
+| [Girls Never Die](https://open.spotify.com/track/45OflED18VsURGw2z0Y6Cv) | [tripleS](https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK) | [<ASSEMBLE24>](https://open.spotify.com/album/1FEdDqMaOL8oZYzI4n27GM) | 3:07 | 2024-05-08 |  |
 | [Girls’ Night](https://open.spotify.com/track/0hnxybqZeJzU85jSwf5cdG) | [Loossemble](https://open.spotify.com/artist/1kbVoxpFh1eDOXumLmVdKY) | [One Of A Kind](https://open.spotify.com/album/2sN27KkVSnHvqi0MA2YxcZ) | 3:24 | 2024-04-16 | 2024-05-06 |
 | [Gleam](https://open.spotify.com/track/4dOrfL6qgxnjCMSmkekFhB) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [Gleam](https://open.spotify.com/album/1HWezHtB1jFWZ96uy4cRq9) | 3:04 | 2020-10-20 | 2022-07-01 |
 | [Go or Stop?](https://open.spotify.com/track/5ZQt1BxZ25CYGgxC7g3XFt) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [Go or Stop?](https://open.spotify.com/album/1oMfb1X1wk1cyc60tNrqaA) | 2:38 | 2021-10-13 | 2022-04-21 |
@@ -291,7 +291,7 @@
 | [MY COLOR](https://open.spotify.com/track/5elQqjmREJkadJWsNMW4ej) | [ILY:1](https://open.spotify.com/artist/3FvFhUWP00xtwBrHtby3v8) | [New Chapter](https://open.spotify.com/album/2t3Ph06OHzPdaOz457yYJG) | 3:21 | 2023-07-25 | 2023-08-03 |
 | [My Way](https://open.spotify.com/track/0Tx0C5SLkF8IxQdbADxP7L) | [AOA](https://open.spotify.com/artist/54gWVQFHf8IIqbjxAoOarN) | [NEW MOON](https://open.spotify.com/album/61mlBNUkU8QKvYOfTiwFR5) | 3:13 | 2021-02-27 | 2021-02-28 |
 | [My Way](https://open.spotify.com/track/3zUxQpCyUrfEjz6Y07yg4b) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [SIS \(Soft Is Strong\)](https://open.spotify.com/album/48t47MKCsynkPx3rRg7EWr) | 2:34 | 2024-08-15 |  |
-| [NA](https://open.spotify.com/track/4UVsqRoSys14kMLBfpJDTQ) | [HWASA](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [O](https://open.spotify.com/album/6WI6u7X7Vlme8gROHyDUrY) | 2:43 | 2024-09-19 |  |
+| [NA](https://open.spotify.com/track/4UVsqRoSys14kMLBfpJDTQ) | [HWASA](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [O](https://open.spotify.com/album/6WI6u7X7Vlme8gROHyDUrY) | 2:43 | 2024-09-19 | 2024-10-05 |
 | [Naked](https://open.spotify.com/track/2dFIqSB5r0IrqJFJS367Kx) | [xooos](https://open.spotify.com/artist/0OqnFLmTWiVGm3Ifk6mahQ) | [Naked](https://open.spotify.com/album/2zpxFjdb5JINyMyvTpyGOc) | 2:54 | 2023-01-14 | 2023-02-15 |
 | [Naughty](https://open.spotify.com/track/0P8lbWigAHXPKxUG60xh79) | [Red Velvet \- IRENE & SEULGI](https://open.spotify.com/artist/6bwp9ObI8FWvMPCIWVBmhl) | [Naughty](https://open.spotify.com/album/2lkUE2gkw5sX0fGzZZCs0N) | 3:18 | 2020-10-13\* | 2022-04-19 |
 | [Nerdy](https://open.spotify.com/track/6KExHY2Eo0DphK63s2dfYi) | [PURPLE KISS](https://open.spotify.com/artist/62T5PGHWJ9sxP2SJq20IHq) | [Geekyland](https://open.spotify.com/album/7EDCoH5wfSGYdZ7wXCmTF4) | 2:58 | 2022-07-25 | 2022-08-19 |
@@ -342,6 +342,7 @@
 | [Purr](https://open.spotify.com/track/5T5OjYnQ9yemW2Eqn9piCx) | [VIVIZ](https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ), [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [<Queendom2> Position Unit Battle Part.1\-2](https://open.spotify.com/album/1w8AYEGlbx03HhNxUvNPj8) | 3:26 | 2022-05-28 | 2022-06-04 |
 | [QUEEN](https://open.spotify.com/track/7kDw5mRoi0Vw7eGZSID5Y5) | [3YE](https://open.spotify.com/artist/65SWpUO42tdFbEhdfj1ryf) | [QUEEN](https://open.spotify.com/album/0Fv8OYPlcfmzfS42xJq2Lc) | 3:33 | 2021-02-27 | 2022-04-21 |
 | [Queencard](https://open.spotify.com/track/4uOBL4DDWWVx4RhYKlPbPC) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I feel](https://open.spotify.com/album/3PQZnr5gf699uYEaGH93uG) | 2:41 | 2023-05-16 | 2024-04-19 |
+| [R.E.M](https://open.spotify.com/track/7D2B5pj751b3MIaU4TwE6e) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [R.E.M](https://open.spotify.com/album/4xcIr0rkoIBPmoSPamCorO) | 2:52 | 2024-10-04 |  |
 | [RA TA TA \(Feat\. Lil Cherry\)](https://open.spotify.com/track/37WwbTpUvG0Vi4kvGY14nP) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF), [Lil Cherry](https://open.spotify.com/artist/523GImBnBoIvcq0n8BZIv4) | [RA TA TA](https://open.spotify.com/album/6mf3kFRGFkNDdDEBbvxiap) | 2:57 | 2023-10-12 | 2023-11-01 |
 | [Rap Queen](https://open.spotify.com/track/6STVMOIuRpzfuBmXxp2CEh) | [Yoon Mirae](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) | [Gemini 2](https://open.spotify.com/album/7L6gqLdAo3t6DOJKiVInks) | 2:07 | 2020-10-13\* | 2021-03-15 |
 | [RED SUN \(With LOTTE DEPARTMENT STORE\)](https://open.spotify.com/track/3HIAlVUMAsg2WzSvxETFbi) | [Brave Girls](https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB) | [RED SUN \(With LOTTE DEPARTMENT STORE\)](https://open.spotify.com/album/5NdzPZhyIA3JaEpSqq9JM3) | 3:23 | 2021-07-23 | 2022-04-21 |
@@ -349,7 +350,7 @@
 | [Remember](https://open.spotify.com/track/2ukD1180Mw0HYDIuS3Lcqu) | [9MUSES](https://open.spotify.com/artist/55tJwpPIz9BMrSLM45iEXX) | [Remember](https://open.spotify.com/album/5jHGdQ70hzjdgPtjoOgo2B) | 3:39 | 2021-03-02 | 2022-04-15 |
 | [Remember](https://open.spotify.com/track/2eJAj4Jw8XfVz2Ywy7hyj3) | [KATIE](https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO) | [Remember](https://open.spotify.com/album/7lNHpLeY44QipZ73VToWmO) | 3:06 | 2021-04-23 | 2022-04-19 |
 | [Respect](https://open.spotify.com/track/2b8wiA0rT5h1ONtW9HsXUt) | [안신애](https://open.spotify.com/artist/5lt17V0z9fzfwRDFCZVWIQ) | [Respect](https://open.spotify.com/album/3oikuOBybmjw4rW7SBFWwD) | 3:01 | 2023-09-26 | 2023-10-05 |
-| [Retro Romance](https://open.spotify.com/track/0V7Hp8ZnDlaYasJoNtcExF) | [HYO](https://open.spotify.com/artist/3U7bOaJLuFkrmDQ1C1OqKl) | [Retro Romance](https://open.spotify.com/album/2G7tH2r50gCP2HYGsVG9UN) | 2:32 | 2024-09-26 |  |
+| [Retro Romance](https://open.spotify.com/track/0V7Hp8ZnDlaYasJoNtcExF) | [HYO](https://open.spotify.com/artist/3U7bOaJLuFkrmDQ1C1OqKl) | [Retro Romance](https://open.spotify.com/album/2G7tH2r50gCP2HYGsVG9UN) | 2:32 | 2024-09-26 | 2024-10-05 |
 | [RISE UP \(Korean ver.\)](https://open.spotify.com/track/1dRjox4xKpbrMHanzC2rNq) | [NiziU](https://open.spotify.com/artist/3z8diLlUCkN1j9N9ZdnfBJ) | [RISE UP \(English & Korean ver.\)](https://open.spotify.com/album/5tUbuoBQvv7bbvDNO6jfP8) | 2:59 | 2024-07-10 | 2024-08-03 |
 | [Rising](https://open.spotify.com/track/6QCPweR3aP6nj7P43WpiZs) | [tripleS](https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK) | [ASSEMBLE](https://open.spotify.com/album/6ArYgWdHk7mcG4knENgPN5) | 2:39 | 2023-02-14 | 2023-03-28 |
 | [Roll Up](https://open.spotify.com/track/2KIyd36V2ejCrvlYU1Ci1K) | [BLACKSWAN](https://open.spotify.com/artist/2ujaWf015QoP7x1u20Yq5G) | [Roll Up](https://open.spotify.com/album/2mIf1bG4rK1Z9XHn04gSZE) | 2:32 | 2024-08-01 | 2024-08-07 |

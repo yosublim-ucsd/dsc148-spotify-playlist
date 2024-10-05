@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "Today's top country hits. Cover: Luke Bryan",
+  "description": "Today's top country hits. Cover: Tucker Wetmore",
   "name": "Hot Country",
   "tracks": [
     {
@@ -838,7 +838,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 183477,
       "name": "Arkansas Diamond",
       "url": "https://open.spotify.com/track/75SAnNqcLsh5rg17isiPM8"
@@ -914,7 +914,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 171782,
       "name": "Austin",
       "url": "https://open.spotify.com/track/6b81dy3WjbozXK6b7C1gu5"
@@ -2102,6 +2102,24 @@
       "duration_ms": 206293,
       "name": "Buy My Own Drinks",
       "url": "https://open.spotify.com/track/7IVTmZGRp264dILwTNXzjG"
+    },
+    {
+      "album": {
+        "name": "What Happens Now? (Deluxe)",
+        "url": "https://open.spotify.com/album/12bTJ4RqxjUEhVg8vSMx9d"
+      },
+      "artists": [
+        {
+          "name": "Dasha",
+          "url": "https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149426,
+      "name": "Bye Bye Bye",
+      "url": "https://open.spotify.com/track/081NX6xSxwSKgleTmGc58F"
     },
     {
       "album": {
@@ -5423,6 +5441,24 @@
     },
     {
       "album": {
+        "name": "Happy Face",
+        "url": "https://open.spotify.com/album/3WkZ84AAJDPimDKV1FH3pI"
+      },
+      "artists": [
+        {
+          "name": "Treaty Oak Revival",
+          "url": "https://open.spotify.com/artist/3444S3C4U9Ts86BnCtSPRV"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202219,
+      "name": "Happy Face",
+      "url": "https://open.spotify.com/track/7KvZLaYFqBqoADTelAsWWO"
+    },
+    {
+      "album": {
         "name": "Happy in This Bar",
         "url": "https://open.spotify.com/album/6Ibrf4RYLLKOYFQGNO7xFl"
       },
@@ -6306,7 +6342,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 197133,
       "name": "I Am Not Okay",
       "url": "https://open.spotify.com/track/76ODTQOl0JZQbhfxs6nRV9"
@@ -7730,6 +7766,24 @@
       "duration_ms": 196026,
       "name": "Let Your Boys Be Country",
       "url": "https://open.spotify.com/track/23bEisUvcSmIELLy4CMhkN"
+    },
+    {
+      "album": {
+        "name": "Liar",
+        "url": "https://open.spotify.com/album/1ZBApW42FpN1UPruOhf2Mp"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204933,
+      "name": "Liar",
+      "url": "https://open.spotify.com/track/6Gv6oZhbWa1fBGcv5VwW8g"
     },
     {
       "album": {
@@ -11659,6 +11713,28 @@
     },
     {
       "album": {
+        "name": "That Ain't No Man That's The Devil",
+        "url": "https://open.spotify.com/album/4BnCr0behKaGscMMhpiHX7"
+      },
+      "artists": [
+        {
+          "name": "Jessie Murph",
+          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
+        },
+        {
+          "name": "Bailey Zimmerman",
+          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200966,
+      "name": "Someone In This Room (feat. Bailey Zimmerman)",
+      "url": "https://open.spotify.com/track/3kvgQZmOgwjfVnuduPPDZG"
+    },
+    {
+      "album": {
         "name": "Somethin' Bout You",
         "url": "https://open.spotify.com/album/4ejJyrAvRvhVRadKmVPByS"
       },
@@ -14322,7 +14398,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 133016,
       "name": "Whiskey Blues",
       "url": "https://open.spotify.com/track/0mVYqxsm3ReFqAuxG9Orrk"

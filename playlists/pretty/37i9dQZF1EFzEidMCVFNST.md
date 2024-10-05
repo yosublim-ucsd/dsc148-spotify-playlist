@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzEidMCVFNST.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/39SNiObet41EA7ooyHRZRo">Vinicius Poeta</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 173 likes - 364 songs - 17 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 174 likes - 364 songs - 17 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -373,4 +373,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzEidMCVFNST.md) - [plain]
 | 363 | [Me Perdoa](https://open.spotify.com/track/35Q9lkIZ41LgBvhw9YcZhV) | [Henzo & Vinicius](https://open.spotify.com/artist/1ccw4Eimn9DDkATmxZTXfj) | [Ele Te Ama](https://open.spotify.com/album/3Fm72AxQOKmxOOKos5iB6u) | 2:37 |
 | 364 | [Pra Mim Já Deu](https://open.spotify.com/track/5pqxxqrimhw4MvWt2VpF5N) | [Marcos Junior](https://open.spotify.com/artist/21qtIXMQloy90K1297vwAx) | [Terceiro Disco](https://open.spotify.com/album/0gL5IspFhmEyN44gjTvHfs) | 2:43 |
 
-Snapshot ID: `Abd0vgAAAAA1zuCJaLpXEZt8EEYWhmSN`
+Snapshot ID: `Abd6VAAAAAB6T2GMHTVB9I9a0kwE6F7c`

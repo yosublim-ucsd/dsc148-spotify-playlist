@@ -19077,6 +19077,28 @@
     },
     {
       "album": {
+        "name": "Tidal",
+        "url": "https://open.spotify.com/album/1VDJTays2jtJVsuUVcu4Mh"
+      },
+      "artists": [
+        {
+          "name": "Ben Hemsley",
+          "url": "https://open.spotify.com/artist/366L4EjZXBPYbHs9XDQILZ"
+        },
+        {
+          "name": "Rose Gray",
+          "url": "https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231702,
+      "name": "Tidal",
+      "url": "https://open.spotify.com/track/0WutQwXrfvPljSMC5XJXd1"
+    },
+    {
+      "album": {
         "name": "Tiger",
         "url": "https://open.spotify.com/album/19ndH7HNa1DKyt18uyXikg"
       },

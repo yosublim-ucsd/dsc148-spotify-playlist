@@ -4,7 +4,7 @@
 
 > Aquele som que é pura brisa\. 🍃 Foto: Delacruz
 
-411 songs - 21 hr 26 min
+412 songs - 21 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -302,9 +302,10 @@
 | [PRIMEIRA VISTA](https://open.spotify.com/track/46qcIwcdt2NSuiH8hHJVob) | [Agostta](https://open.spotify.com/artist/76DjxkWnHza9Q02cejvQhc) | [ALÉM DE LOVE](https://open.spotify.com/album/3SHJwSFzUcc7xiNt4eqsq3) | 2:20 | 2022-09-20 | 2023-02-06 |
 | [PRIMEIRA VISTA](https://open.spotify.com/track/4hkYMXUKY6HS3JreKVj7xs) | [Agostta](https://open.spotify.com/artist/76DjxkWnHza9Q02cejvQhc) | [PRIMEIRA VISTA](https://open.spotify.com/album/47lAPANo6Dr5BKnU7x0RLM) | 2:20 | 2022-05-23 | 2022-09-09 |
 | [Proposital \(Citação Aquele Abraço\)](https://open.spotify.com/track/4I1dCogzyGuaP5uIXrMTs2) | [Vitão](https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP), [Ferrugem](https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2), [WC no Beat](https://open.spotify.com/artist/2QjS2N6sORI7H4qbf6xitS) | [Proposital \(Citação Aquele Abraço\)](https://open.spotify.com/album/0jWlOY3pDrv5eQpoz9ds2X) | 2:48 | 2023-10-20 |  |
-| [Proposta](https://open.spotify.com/track/3JjVi4FNH1Olg5DnqhRZJM) | [Bufalô](https://open.spotify.com/artist/0wFcHlIKNWSBmSH8nBrpT0), [IVYO](https://open.spotify.com/artist/3HbuQbAHMPwBb4mQyNllCa) | [Proposta](https://open.spotify.com/album/6636DDtl0HZgUNGQYkE4Lw) | 2:42 | 2024-09-13 |  |
+| [Proposta](https://open.spotify.com/track/3JjVi4FNH1Olg5DnqhRZJM) | [Bufalô](https://open.spotify.com/artist/0wFcHlIKNWSBmSH8nBrpT0), [IVYO](https://open.spotify.com/artist/3HbuQbAHMPwBb4mQyNllCa) | [Proposta](https://open.spotify.com/album/6636DDtl0HZgUNGQYkE4Lw) | 2:42 | 2024-09-13 | 2024-10-05 |
 | [Proposta](https://open.spotify.com/track/1TLFwJfrTZgoX4bYWidddd) | [Kiaz](https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C) | [Melhor Agora](https://open.spotify.com/album/71GFZXdtEJiLy3KH4GfLOi) | 3:46 | 2022-10-14 | 2023-07-15 |
 | [Puto de Luxo](https://open.spotify.com/track/07ju745iEQFzrMsX7UUzVc) | [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [Gustah](https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L) | [Puto de Luxo](https://open.spotify.com/album/6znvdqy8BOk5pPExvi18f5) | 2:24 | 2022-12-02 | 2023-07-15 |
+| [Púrpura](https://open.spotify.com/track/4elZOvjR7KDUEw8rMz2tAT) | [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO), [Delacruz](https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4), [Tibery](https://open.spotify.com/artist/2ECTJpRqtJ5BbavpnhHT01) | [Púrpura](https://open.spotify.com/album/2SXORkzxQrYi0ueO5v6wCC) | 3:10 | 2024-10-04 |  |
 | [Qatar Freestyle \(Papatracks \#9\)](https://open.spotify.com/track/7zYU3eU3vjLs44vUJivpO8) | [Papatinho](https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv), [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf) | [Qatar Freestyle \(Papatracks \#9\)](https://open.spotify.com/album/0lxY3vzM1UydsvM3uKj5hF) | 2:23 | 2023-03-17 | 2023-06-24 |
 | [Quadrantes](https://open.spotify.com/track/4c0D88soVytSSLYS0m3FCl) | [Yumee](https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX) | [Quadrantes](https://open.spotify.com/album/4rBGuWhliwok2qvqUrF3Yn) | 2:17 | 2023-12-15 | 2024-01-27 |
 | [Qual É](https://open.spotify.com/track/6CHhx9h0q9aJZAD4hNfhgf) | [ÀTTØØXXÁ](https://open.spotify.com/artist/43jyzP3h86XvtC8FQm4ow3), [Rico Dalasam](https://open.spotify.com/artist/5nbaj9RaJdFNlS5ZxoqN97) | [Summer Groove](https://open.spotify.com/album/2PV7rqE4GaBBboe739T1m5) | 2:42 | 2024-01-26 |  |

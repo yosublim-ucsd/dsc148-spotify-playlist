@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-612 songs - 1 day 7 hr 2 min
+613 songs - 1 day 7 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -534,6 +534,7 @@
 | [The Rage](https://open.spotify.com/track/46rsDvRdmRS4gT0B3FjYtO) | [OMAS](https://open.spotify.com/artist/6TwO05VN5ZM3DYVEsP9vjK), [Awon](https://open.spotify.com/artist/3PHUMTV0xDmeztu4D3fhbz), [Micah Martin](https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3) | [The Rage](https://open.spotify.com/album/3BVuOvZv08198bgIlFe9u7) | 2:46 | 2023-03-23 | 2023-08-10 |
 | [The Rave](https://open.spotify.com/track/7cB1JVWbvr1xCuPtKierCZ) | [Toxic Joy](https://open.spotify.com/artist/6MS6Rb2iRyXYFpHyT0B5to) | [The Rave](https://open.spotify.com/album/7ejaovPspMQwffUKEc7zwp) | 2:56 | 2023-05-31 | 2023-08-10 |
 | [The Raven](https://open.spotify.com/track/2w2iMR6n4qVqshzSqRvxb8) | [ATSMXN](https://open.spotify.com/artist/0SfWpeYPEYKn732iefQThW), [XTOM](https://open.spotify.com/artist/4zB6ahEJIuTVI5AgzqYrH5) | [The Raven](https://open.spotify.com/album/6RWjPQmoIP50S14aLXBS8E) | 1:55 | 2023-04-14 | 2023-08-10 |
+| [The Riot](https://open.spotify.com/track/5NLdmEFbJIl6z3XNyYiXo4) | [NIVIRO](https://open.spotify.com/artist/2nsCjA4fEasmnlOK0wXU7T) | [The Riot](https://open.spotify.com/album/4LJhlX7i3YpdeRgVmyPvom) | 3:05 | 2024-10-04 |  |
 | [The Rocks](https://open.spotify.com/track/7fAzUkWPy7LKXNfvZs7W3V) | [Maze](https://open.spotify.com/artist/6lAnJw7YqGPgG1ShMCjcbQ) | [The Rocks](https://open.spotify.com/album/2AIbgGVrYnbOhuYWAUzTiV) | 4:01 | 2024-01-30 | 2024-08-28 |
 | [The Time](https://open.spotify.com/track/4BBZYc1dqFnjg7Q0FBifkE) | [Tatsunoshin](https://open.spotify.com/artist/6dDL4IB1qW60paulrb2ZvP) | [The Time](https://open.spotify.com/album/5c4WYL7FNA1Q5CtkWURneS) | 3:30 | 2023-06-28 | 2023-08-10 |
 | [Think About Me](https://open.spotify.com/track/58D90FJE3U4HMZG8yZT0Ha) | [Yancle](https://open.spotify.com/artist/4O1BpPjKtbmon4QJDaYFGM) | [Think About Me](https://open.spotify.com/album/4Vg4b2iTQKB2uGe5Isi1VI) | 3:07 | 2023-07-19 | 2023-08-10 |

@@ -7299,6 +7299,28 @@
     },
     {
       "album": {
+        "name": "Lunar Eclipse",
+        "url": "https://open.spotify.com/album/03L6gLurM4itwkwJrImRdp"
+      },
+      "artists": [
+        {
+          "name": "Besso",
+          "url": "https://open.spotify.com/artist/3aCuS8b1HzTgrJGTzddyOJ"
+        },
+        {
+          "name": "Miriam Cooper",
+          "url": "https://open.spotify.com/artist/2QBcmdWm0u9p6rDOJP1z2X"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173322,
+      "name": "Lunar Eclipse",
+      "url": "https://open.spotify.com/track/5kJcizlIh307M97sktNJ1y"
+    },
+    {
+      "album": {
         "name": "Mad World",
         "url": "https://open.spotify.com/album/6FTTNTI66J6TDulSeVwYbO"
       },

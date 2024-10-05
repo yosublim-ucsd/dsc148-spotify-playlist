@@ -4,7 +4,7 @@
 
 > welcome to our 𝖚𝖓𝖎𝖛𝖊𝖗𝖘𝖊 ft\. The Horrors
 
-984 songs - 1 day 23 hr 42 min
+985 songs - 1 day 23 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [18+](https://open.spotify.com/track/3SqPQRaxS6A6G7rlE7lvhs) | [Scene Queen](https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4) | [18+](https://open.spotify.com/album/6oveIE1VtjcawBs2UlM3Mn) | 3:13 | 2023-03-17 | 2023-09-29 |
 | [1x1 \(feat\. Nova Twins\)](https://open.spotify.com/track/6sIbv1oWOuma2qV907MUbk) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF), [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [POST HUMAN: SURVIVAL HORROR](https://open.spotify.com/album/0e1WaSNDZnoPixaxDNdWo4) | 3:29 | 2023-06-12 | 2023-07-28 |
 | [21ST CENTURY BITCH](https://open.spotify.com/track/2car32KMDF9AbUTbRYq5q4) | [Holy Wars](https://open.spotify.com/artist/2dTOWcCL0cYviin0Uz1lj4) | [EAT IT UP SPIT IT OUT](https://open.spotify.com/album/0dAQn8Qq1L1olB4QqQvARM) | 2:45 | 2023-01-21 | 2023-08-25 |
-| [2BADGYALS](https://open.spotify.com/track/2R5vY0DGyGkoW1Q13SNCzr) | [Bree Runway](https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w) | [2BADGYALS](https://open.spotify.com/album/5Lx2hE5ENvPQJplNUXYxrC) | 1:41 | 2024-10-03 |  |
+| [2BADGYALZ](https://open.spotify.com/track/2R5vY0DGyGkoW1Q13SNCzr) | [Bree Runway](https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w) | [2BADGYALZ](https://open.spotify.com/album/5Lx2hE5ENvPQJplNUXYxrC) | 1:41 | 2024-10-03 |  |
 | [2much](https://open.spotify.com/track/3Cy5Dua2zVvH8YvJ5ORILo) | [Petal Supply](https://open.spotify.com/artist/3QpNnKSjUIIMwFei8h3eOj) | [2much](https://open.spotify.com/album/5OJZzfiSO8qZ7KM5A7U3F6) | 3:58 | 2022-04-19 | 2022-04-29 |
 | [3310](https://open.spotify.com/track/1vxK7sEWuAqmoAOBfUWz7S) | [Sega Bodega](https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077) | [Ess B](https://open.spotify.com/album/7ktAbAO30k59mgWJ9yMKJq) | 4:24 | 2024-05-28 | 2024-06-07 |
 | [70% Dead \(with Corey Taylor\)](https://open.spotify.com/track/4gFhDuhoCailJyDV99V0Ww) | [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB), [Corey Taylor](https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q) | [70% Dead](https://open.spotify.com/album/1wmcwUhzuxcM56xaBqd0dC) | 3:42 | 2024-07-11 |  |
@@ -549,6 +549,7 @@
 | [LIPSTICK](https://open.spotify.com/track/36LI0NMcZCEMDum03tPJvy) | [Scotty Overdose](https://open.spotify.com/artist/1oqCZv7Ggltj1xEC5gYjFS) | [LIPSTICK](https://open.spotify.com/album/7yHn0R98t9ozswcXXBRWbO) | 2:12 | 2022-10-27 | 2023-01-13 |
 | [Literal Legend](https://open.spotify.com/track/69yvAav3DrSy27zXqJKTIS) | [Ayesha Erotica](https://open.spotify.com/artist/6TMGw1UYn6DFEtn2f9mv8J), [Princess Ayesha](https://open.spotify.com/artist/0Pp9K2XkoY77SjmjT1pKqy) | [Literal Legend](https://open.spotify.com/album/76SjHJD2ba8enBmHCAkZZa) | 2:36 | 2022-03-31 | 2022-04-15 |
 | [Little Idiot](https://open.spotify.com/track/6W9k26vOGte8OWV5Aewghg) | [Elohim](https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY) | [Little Idiot](https://open.spotify.com/album/526U6qGZw3OurkTCzxBBNi) | 2:49 | 2022-04-19 | 2022-04-29 |
+| [Live & Direct](https://open.spotify.com/track/1AFB8RNDYOavAYKqAQoZFR) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565), [kurtains](https://open.spotify.com/artist/7b2FbxYmnpGMPqDe04QmyP) | [Live & Direct](https://open.spotify.com/album/6cyktdv1fqQlrqwS6X0os1) | 1:47 | 2024-10-03 |  |
 | [Living & Surfing](https://open.spotify.com/track/2xicgtm6ERHswB3w5LAXDH) | [BAD WITH PHONES](https://open.spotify.com/artist/6pCduVf5CPK2i5C6FdWfaC) | [Living & Surfing](https://open.spotify.com/album/2RdtBKGtz77ptP08DE4qX3) | 2:51 | 2022-01-28 | 2022-02-13 |
 | [Loathe](https://open.spotify.com/track/06lunGWo5mSF7wdERI8jh4) | [FKA Rayne](https://open.spotify.com/artist/39ONBEBBOmsAwyANl4tsPt) | [Loathe](https://open.spotify.com/album/0KtkJuIHKm4E6E2WdGX12E) | 2:21 | 2023-02-10 | 2023-09-08 |
 | [Locals \(Girls like us\) \[with gabby start\]](https://open.spotify.com/track/2MMHDP5jHn6oNoBJvEA88L) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7), [gabby start](https://open.spotify.com/artist/33L1klom7IXmoAP8fjrGm9) | [Locals \(Girls like us\) \[with gabby start\]](https://open.spotify.com/album/6iCbxmNk6vmXTGLYInRVJX) | 4:18 | 2023-07-13 | 2024-03-08 |

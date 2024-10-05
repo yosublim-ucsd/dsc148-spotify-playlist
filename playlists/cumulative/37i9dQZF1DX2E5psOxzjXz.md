@@ -4,7 +4,7 @@
 
 > Explore Pakistan's thriving independent scene\. Discover more on <a href="https://open.spotify.com/playlist/37i9dQZF1DX30DGof92rQX?si=b3603f2de11c43a7">Pakistani Indie Rising</a>\. Cover: Maanu
 
-300 songs - 16 hr 57 min
+304 songs - 17 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [Gawara](https://open.spotify.com/track/30SraUQbTd11TDrzkgeK4z) | [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1), [Shahmeer Raza Khan](https://open.spotify.com/artist/6j3aIgBaZMbcAJuTjGhhoK) | [Gawara](https://open.spotify.com/album/7cEtQI6vTHbXbrRNWDKqdd) | 3:05 | 2022-11-02 |  |
 | [Ghuroor](https://open.spotify.com/track/7jMjMcyt3qxEkbC0s8LJQf) | [Izzchughtai](https://open.spotify.com/artist/211ei6ZiUeBMIXUZGBaJ4S), [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1) | [Ghuroor](https://open.spotify.com/album/4XcK8cuV6rHuppTwoJrEiG) | 3:18 | 2021-12-06 |  |
 | [Groove](https://open.spotify.com/track/7zEq55JeOwrWvnkjkH0q1q) | [Jokhay](https://open.spotify.com/artist/0Nl4kTPLk2ucrARvaf55zQ), [HASHAM](https://open.spotify.com/artist/3b2KqMPwMeN8zchJ9CljtG), [JJ47](https://open.spotify.com/artist/1SlrUQlFRfExXSCkHsQgBc) | [Groove](https://open.spotify.com/album/57KwsyVN6KOg4h9kHJrMge) | 3:16 | 2023-03-01 | 2023-03-13 |
+| [Gulaab](https://open.spotify.com/track/5MLckXKxjkRHdVsg0pIet1) | [Izzchughtai](https://open.spotify.com/artist/211ei6ZiUeBMIXUZGBaJ4S), [Shehryar Khan](https://open.spotify.com/artist/4QBidSQvLomFezTJ0aLQtp) | [Gulaab](https://open.spotify.com/album/4FG6lDwYZQrGGvk2KMHvXr) | 2:07 | 2024-10-04 |  |
 | [Gumm](https://open.spotify.com/track/14REs7jJd4v4QA7EOaPDiy) | [Hamza Jahangir](https://open.spotify.com/artist/6JIeeCINgVPeCxowfoOBmo) | [Gumm](https://open.spotify.com/album/4HoeJSANDO9zCueiAHI0QY) | 3:04 | 2021-12-06 | 2023-04-09 |
 | [Haaray](https://open.spotify.com/track/2LCvypYL9a21Hln4A4EdWU) | [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1) | [Haaray](https://open.spotify.com/album/5yRZJ8DeZ2eeDbYqW83KOd) | 3:04 | 2022-11-30 |  |
 | [Harkalay](https://open.spotify.com/track/4Z7C2MuZAG6zGiHfwwsNeK) | [Zahoor](https://open.spotify.com/artist/3ghaUlIMSuUGOowj9wdUoD), [REHMA](https://open.spotify.com/artist/528kmCx2HGqrT4G9sXCDuD) | [Harkalay](https://open.spotify.com/album/1N6dxbYWMi9p5hyxbdKPJH) | 3:47 | 2024-05-05 | 2024-08-10 |
@@ -233,6 +234,7 @@
 | [Sab Acha Hai](https://open.spotify.com/track/0p5xSLSblGV9sS2QV3JKGu) | [Shajie](https://open.spotify.com/artist/72Uj5s1nJQ5G6qZCulNoCX) | [Sab Acha Hai](https://open.spotify.com/album/4ijewIuA0Nmopy5l88oeyn) | 3:45 | 2021-12-06 | 2022-03-05 |
 | [Sab Theek Ho Jaye Ga](https://open.spotify.com/track/1eFgdsMjnVZV23vakr5One) | [Biryani Brothers](https://open.spotify.com/artist/6uI5DSR9jmYd0IptIoZYRZ) | [Sab Theek Ho Jaye Ga](https://open.spotify.com/album/5UUAnC69c8DbUuU0nmPRRi) | 4:07 | 2021-12-06 | 2022-03-05 |
 | [Sadqay](https://open.spotify.com/track/2lX53kXvYnvpV8Vqfe4S7s) | [Aashir Wajahat](https://open.spotify.com/artist/4Kd6rJWBl4KpwRYct9PFMo), [NAYEL](https://open.spotify.com/artist/7B0H8l9inK2UBRm5Xsc9zO), [Nehaal Naseem](https://open.spotify.com/artist/6YSVUxXGsQQD2cWSJhN8re) | [Sadqay](https://open.spotify.com/album/6DCDw6OlKLmVlVrp9J6YWD) | 2:34 | 2024-04-12 |  |
+| [Safar](https://open.spotify.com/track/0q4442eIt44kTWEhkoTlh8) | [Bayaan](https://open.spotify.com/artist/3atMq790wQ7IqjeSO0HFeP), [Sherazam](https://open.spotify.com/artist/36BLIKK4GrUzHNiM1t5dqN) | [Safar](https://open.spotify.com/album/6E5pORwJWiSggsnzD1yWfU) | 3:36 | 2024-10-04 |  |
 | [SAFARISH](https://open.spotify.com/track/3dMIW6GxoDGyIlG5JHTyrz) | [HYDR](https://open.spotify.com/artist/40CEytkVli5Le5CFOYnONw) | [SAFARISH](https://open.spotify.com/album/4nmNtsMvp7xJMF60WLXUWX) | 3:42 | 2022-04-15 | 2023-04-09 |
 | [Sahara](https://open.spotify.com/track/2wixiINOjX8L2ciIkLmnia) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Shamsher Rana](https://open.spotify.com/artist/77XstydhnCGfW4wfVm3RRk), [Varqa Faraid](https://open.spotify.com/artist/58Sy8Jc3tHOFT5KLBgr8Xp) | [1 2 3 4 5](https://open.spotify.com/album/41NSZy9hW6WWrHYpIqyH0a) | 2:58 | 2024-08-16 |  |
 | [Sajna](https://open.spotify.com/track/2YJORD2YXFoIDhiqD3bLKg) | [Yashal Shahid](https://open.spotify.com/artist/3ILK3wZ5nqQr7O79aF8G53) | [Sajna](https://open.spotify.com/album/4i3JnEdAldFPqaDYVSNI0p) | 2:37 | 2022-11-30 | 2023-09-01 |
@@ -271,6 +273,7 @@
 | [Take Me Home](https://open.spotify.com/track/5AUv6RJO2JBJ2BFcu4ErCO) | [Marshall Ahmad](https://open.spotify.com/artist/3c7YStlXDTZyJjiIcsJDJP), [ChillBazaar](https://open.spotify.com/artist/2NAjKl5QHznzsMfHy6cGOJ) | [Take Me Home](https://open.spotify.com/album/4TqDP0UAdkvYEcy9OwWl6P) | 3:06 | 2022-09-14 | 2024-04-13 |
 | [Take Your Turn](https://open.spotify.com/track/1IPDQby1evDO1L3xEQId0d) | [Umair Ali](https://open.spotify.com/artist/7lMOrU8n2Q6m9j74CtTPBs), [Zoha Zuberi](https://open.spotify.com/artist/7q7OAPH7UHoaTYL4DXe1LK) | [Take Your Turn](https://open.spotify.com/album/2WZnTtOIz6YawtLj8E2AFN) | 4:16 | 2021-12-06 | 2022-11-03 |
 | [Talking To My Heart](https://open.spotify.com/track/7pj46Hvk3pZPG3mzEWJ7Nq) | [Adnan Dhool](https://open.spotify.com/artist/4XTiRlcZr4ACFHAXgV34Sc), [Kabeer Khan](https://open.spotify.com/artist/0IdnVmNY5znWCoM5xM9ibt) | [Talking To My Heart](https://open.spotify.com/album/1O0ve8bN9wyIsJFVUKsNF2) | 2:34 | 2024-06-21 |  |
+| [Tamasha](https://open.spotify.com/track/4nX0hE5O7O5ssZ0RBnBRUf) | [The Tamaashbeens](https://open.spotify.com/artist/6dArdZ3NhrB1sbyo2s5poV) | [Tamasha](https://open.spotify.com/album/70R43DKN4pKOHBE7guBU6m) | 3:48 | 2024-10-04 |  |
 | [Taras](https://open.spotify.com/track/41Yk3zyCwtsQbaeRPVccgU) | [Emira Mir](https://open.spotify.com/artist/21LZ9LvFeqYYoZKGGt6VRv) | [Taras](https://open.spotify.com/album/6JHcBSeikADiPIYNnmKnGo) | 3:30 | 2024-09-13 |  |
 | [Tera Suna](https://open.spotify.com/track/38mne9HRPU9JxWVYEf6YXg) | [Auj](https://open.spotify.com/artist/6j8CtrSU03lHurd79ojYpO) | [Tera Suna](https://open.spotify.com/album/30h8wa7E6VJkfaaBNfX9ri) | 3:31 | 2021-12-06 | 2022-09-06 |
 | [Teray Naal](https://open.spotify.com/track/6ZkFBPYesUv0PzI8V3PZH6) | [HYDR](https://open.spotify.com/artist/40CEytkVli5Le5CFOYnONw) | [Teray Naal](https://open.spotify.com/album/4JsZodknDILTDTnswlIYIf) | 3:28 | 2024-05-17 |  |
@@ -307,6 +310,7 @@
 | [Zamanay](https://open.spotify.com/track/6o1DfORVD5ACPgDFqCDl6R) | [Ali Alvi](https://open.spotify.com/artist/07cs9v2qoU2I5sshqk56Fz), [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1), [Shahmeer Raza Khan](https://open.spotify.com/artist/6j3aIgBaZMbcAJuTjGhhoK) | [Zamanay](https://open.spotify.com/album/2bW42L4X55NqzHM4B76Akk) | 2:42 | 2022-11-23 | 2024-01-10 |
 | [Zardarazir](https://open.spotify.com/track/6tlbPyku9OaRFwrhg1HRCb) | [Poor Rich Boy](https://open.spotify.com/artist/2DtZwsXs6iF0xOAF17ziBP) | [Old Money](https://open.spotify.com/album/1D00gmVqD6Uoj6m4gDaDhv) | 3:16 | 2021-12-06 | 2022-07-29 |
 | [Zardarazir](https://open.spotify.com/track/72r78Fn09sIr0TZVdd8KlM) | [Poor Rich Boy](https://open.spotify.com/artist/2DtZwsXs6iF0xOAF17ziBP) | [Old Money](https://open.spotify.com/album/3taQvmtkWiEAQcA0zQwwwc) | 3:16 | 2022-07-05 | 2023-02-14 |
+| [Zaroori Hai](https://open.spotify.com/track/5jFwxhVtOnEU4U6aUM1JnR) | [Turhan James](https://open.spotify.com/artist/2ox32lGyYOobDvszKTITkP), [Ashal Haider Khan](https://open.spotify.com/artist/2COEn08mrNoQLfsRzjN9MR), [Mohsin Raza Shah](https://open.spotify.com/artist/21iESpk5OYSSJiuH3e7Z2Z) | [Zaroori Hai](https://open.spotify.com/album/4QaDYp8zCslfKI0ljs3oND) | 4:18 | 2024-10-04 |  |
 | [Zooted](https://open.spotify.com/track/62PH2BRDOFw0AHZYar3zfD) | [Yung Pakei](https://open.spotify.com/artist/1oXF5VeAEmTvXK4OwDLWdA) | [Zooted](https://open.spotify.com/album/4yL8vNrO9vE7i59jK28Xhi) | 3:41 | 2021-12-06 | 2022-03-05 |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

@@ -4,7 +4,7 @@
 
 > Epic tunes for the open road.
 
-469 songs - 1 day 5 hr 58 min
+471 songs - 1 day 6 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Blown Wide Open](https://open.spotify.com/track/3KyDvRT8RdsBcRkvKmy4M2) | [Big Wreck](https://open.spotify.com/artist/557SGrCJ59ysjCE1xjVZbS) | [In Loving Memory Of \- 20th Anniversary Special Edition](https://open.spotify.com/album/6Agfrk7oe0H7WsXauqMPR6) | 5:55 | 2023-12-01 | 2024-01-05 |
 | [Bobcaygeon](https://open.spotify.com/track/2oPzisApHGH3hbcu4C9UJS) | [The Tragically Hip](https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0) | [Phantom Power](https://open.spotify.com/album/3HWQXn3dGZPSnIhVkvHIOz) | 4:55 | 2022-05-02 | 2024-04-19 |
 | [bodyache](https://open.spotify.com/track/4gWvy90PdAXgY39Z7S8zSe) | [Purity Ring](https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4) | [another eternity](https://open.spotify.com/album/5ydKh3bO3jF6oZWkBrzwpn) | 2:53 | 2023-06-09 | 2023-07-15 |
+| [Bon Voyage](https://open.spotify.com/track/012jGdugVtQMUJn8s6onGo) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [Bon Voyage](https://open.spotify.com/album/7MkPMywDbiUC6QJ7J4Vgt9) | 3:24 | 2024-10-04 |  |
 | [Bon Voyage](https://open.spotify.com/track/4Okyax7cvVoNfoBKYr2RA0) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Better Luck In The Next Life](https://open.spotify.com/album/6ZBuUw48zAYn98M1YKACfH) | 2:47 | 2023-06-09 | 2024-06-23 |
 | [Born To Be Wild \- Single Version](https://open.spotify.com/track/3lN8PP6R2IxbLP05QpYXng) | [Steppenwolf](https://open.spotify.com/artist/1WRM9i067hd2ujxxi8FI3m) | [Steppenwolf](https://open.spotify.com/album/64q58AfjSrrX9Egp7Zryw8) | 3:32 | 2022-05-02 | 2024-04-19 |
 | [Borrow Trouble](https://open.spotify.com/track/461JI71P8eY2zUWAkyKs7b) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Multitudes](https://open.spotify.com/album/1p4Q0pUvvURdCwC842Abjn) | 4:05 | 2023-06-28 | 2023-09-01 |
@@ -277,7 +278,7 @@
 | [Old Ties and Companions](https://open.spotify.com/track/6n7Aj8Ok0kyktLxFjcUreo) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Such Jubilee](https://open.spotify.com/album/3hwYI0XK165g3EOCedgOMZ) | 3:08 | 2024-04-19 |  |
 | [On A Different Night](https://open.spotify.com/track/4cF4vuC7Ci29yhnbuoFRZx) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [On A Different Night](https://open.spotify.com/album/7e2cKmW21NqkGQUfbDyPdF) | 3:09 | 2023-07-14 | 2024-04-13 |
 | [On the Hood](https://open.spotify.com/track/1g82MrdFflRqyHExNxQG0Y) | [Matt Mays](https://open.spotify.com/artist/0VlFTYaJsPHdN3Vb3EvBsn) | [Matt Mays & El Torpedo](https://open.spotify.com/album/5TNLRd0U6x8FMp9nh3dFmr) | 4:56 | 2023-10-06 | 2023-10-14 |
-| [One Less Question](https://open.spotify.com/track/1lPOg6A053ay6AAUOh3mij) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az), [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [One Less Question](https://open.spotify.com/album/03IgjqBqPp0aTNiOxtpIiz) | 3:10 | 2024-04-19 |  |
+| [One Less Question](https://open.spotify.com/track/1lPOg6A053ay6AAUOh3mij) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az), [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [One Less Question](https://open.spotify.com/album/03IgjqBqPp0aTNiOxtpIiz) | 3:10 | 2024-04-19 | 2024-10-05 |
 | [One More Astronaut](https://open.spotify.com/track/3kJw8wpzrB5WLFcdmIvXew) | [I Mother Earth](https://open.spotify.com/artist/3zEJAyZ1qSHSx9936UfXuM) | [Scenery & Fish](https://open.spotify.com/album/2ghGUuQNwMOVl5HNIPSKeU) | 5:24 | 2022-05-02 | 2022-07-29 |
 | [One Week](https://open.spotify.com/track/1C0pmryC2MdXfa7MZ9uIrU) | [Barenaked Ladies](https://open.spotify.com/artist/0dEvJpkqhrcn64d3oI8v79) | [Stunt](https://open.spotify.com/album/4FsibLgkGMV9AfbLtEqvxT) | 2:49 | 2022-05-02 | 2022-07-29 |
 | [One Week](https://open.spotify.com/track/29hBRadFZf9QTGRHZmxm65) | [Barenaked Ladies](https://open.spotify.com/artist/0dEvJpkqhrcn64d3oI8v79) | [Stunt \(20th Anniversary Edition\)](https://open.spotify.com/album/0DuFDnZcj7B4R0Jik1aDmY) | 2:49 | 2022-05-02 | 2024-04-19 |
@@ -305,6 +306,7 @@
 | [Push + Pull](https://open.spotify.com/track/2mtydMx5aKuBk22E9a8cUQ) | [July Talk](https://open.spotify.com/artist/3EaMbsBlExxNxLvTJcZvDq) | [Touch](https://open.spotify.com/album/5W33XMFTkmUBeY9rIGlSKc) | 2:51 | 2022-05-02 | 2022-06-13 |
 | [Put Your Hand in the Hand](https://open.spotify.com/track/2Fn8e9B1yKwXT0SeS6AcIU) | [Ocean](https://open.spotify.com/artist/5sLCGVQxw6AoqmZhVwswzG) | [Put Your Hand in the Hand](https://open.spotify.com/album/34Dfn2nuYLniM6eCZeXxNY) | 2:53 | 2022-05-02 | 2022-07-13 |
 | [Put Your Records On](https://open.spotify.com/track/2nGFzvICaeEWjIrBrL2RAx) | [Corinne Bailey Rae](https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn) | [Corinne Bailey Rae](https://open.spotify.com/album/141Mp3P2VKHQMhtkW1DyQg) | 3:35 | 2022-09-10 | 2022-09-15 |
+| [Quitter](https://open.spotify.com/track/7EkB5YHjZaOL9f3Wk3kiRw) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Quitter](https://open.spotify.com/album/6qOS75v0sTFE3K1VrIM4mz) | 2:41 | 2024-10-04 |  |
 | [R.E.D.](https://open.spotify.com/track/0E2ydjbrsOYbWFZzexOyYd) | [The Halluci Nation](https://open.spotify.com/artist/2jlWF9ltd8UtoaqW0PxY4z), [Yasiin Bey](https://open.spotify.com/artist/6r2niOTnexy9xss5g8GWXH), [NARCY](https://open.spotify.com/artist/0dkcQCK8GjDBCGrjlUJhlg), [Black Bear](https://open.spotify.com/artist/0yA6zmKmNXjUPSZyfDZji7) | [We Are the Halluci Nation](https://open.spotify.com/album/2iQBWB6FgiNl1mrzNX7ei4) | 3:29 | 2022-05-02 | 2024-04-19 |
 | [Raise A Little Hell](https://open.spotify.com/track/1yNz3A4ubmE5IEvpNFkjdc) | [Trooper](https://open.spotify.com/artist/2bT4eELLlSuDTtZWV2Z3jN) | [Thick As Thieves](https://open.spotify.com/album/4LyTOb4shQjOLSwE0zUpk0) | 3:42 | 2022-05-02 | 2023-05-19 |
 | [Rare](https://open.spotify.com/track/41qpL4RAfuPkkQ4bbf7gSu) | [Bullion](https://open.spotify.com/artist/6vcPgFOkMWBoY6Ks6eMEWj), [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Rare](https://open.spotify.com/album/1ZsgV2rrIt0wXzWfaJnMI1) | 3:41 | 2024-04-19 | 2024-06-17 |
@@ -441,7 +443,7 @@
 | [Walls Fall Down](https://open.spotify.com/track/5usjfPpql6LIYsGXkptHdd) | [Bedouin Soundclash](https://open.spotify.com/artist/2Au2mS47rMRkqbU4XJqKMh) | [Street Gospels](https://open.spotify.com/album/0IWTeegOAps8fVWRYQaCCy) | 2:31 | 2022-05-02 | 2022-07-17 |
 | [Want What You Got](https://open.spotify.com/track/7wBWg3hTj2MUFe02GhMBkA) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [The Professional](https://open.spotify.com/album/4pQU5z5Y0CT1aR0AW6QDDL) | 4:28 | 2022-05-02 | 2022-07-22 |
 | [We're Here For A Good Time \(Not A Long Time\)](https://open.spotify.com/track/5QSf82Wy6anGZ1NEUr1neJ) | [Trooper](https://open.spotify.com/artist/2bT4eELLlSuDTtZWV2Z3jN) | [Knock 'Em Dead Kid](https://open.spotify.com/album/4lRGegSdH4MiZGY0dCCIDQ) | 3:34 | 2022-05-02 | 2024-04-19 |
-| [Weighty Ghost](https://open.spotify.com/track/1kVEX9FBvKC8531ALTrNfl) | [Wintersleep](https://open.spotify.com/artist/1VrpL9mx2a6WRolLh7mHrE) | [Welcome To The Night Sky](https://open.spotify.com/album/0vz1SlNzlwZ4Qyes30dXFL) | 3:38 | 2022-05-02 |  |
+| [Weighty Ghost](https://open.spotify.com/track/1kVEX9FBvKC8531ALTrNfl) | [Wintersleep](https://open.spotify.com/artist/1VrpL9mx2a6WRolLh7mHrE) | [Welcome To The Night Sky](https://open.spotify.com/album/0vz1SlNzlwZ4Qyes30dXFL) | 3:38 | 2022-05-02 | 2024-10-05 |
 | [Western Wind](https://open.spotify.com/track/0Q2FDq304w57PGAKKcC3Qk) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Western Wind](https://open.spotify.com/album/5WCdg2iITZNONNV8Wp5P7M) | 3:45 | 2022-09-10 | 2022-09-15 |
 | [What Do You See?](https://open.spotify.com/track/1subTAioNMipssKxYXXqpv) | [Skydiggers](https://open.spotify.com/artist/7laI3diMt9Gpz0GAp85qLb) | [Road Radio](https://open.spotify.com/album/6MVp95dO0IgQxLiAbLXuAg) | 2:53 | 2023-10-06 | 2023-10-14 |
 | [What I Got](https://open.spotify.com/track/3B4q6KbHbGV51HO3GznBFF) | [Sublime](https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J) | [Sublime](https://open.spotify.com/album/14eK347GdWO4mBBx78tsut) | 2:50 | 2022-09-10 | 2022-09-15 |

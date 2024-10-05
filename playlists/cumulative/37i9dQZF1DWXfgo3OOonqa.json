@@ -8549,6 +8549,28 @@
     },
     {
       "album": {
+        "name": "D\u00f6r f\u00f6r oss",
+        "url": "https://open.spotify.com/album/5iAXOi2m8FZfZYgRJ3CxiZ"
+      },
+      "artists": [
+        {
+          "name": "Luc1ano",
+          "url": "https://open.spotify.com/artist/5FrvaIrf2vik2rktPWOrsN"
+        },
+        {
+          "name": "SHYDE",
+          "url": "https://open.spotify.com/artist/45lkyvZqssTcpM1bX5O5Cv"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155761,
+      "name": "D\u00f6r f\u00f6r oss",
+      "url": "https://open.spotify.com/track/6XefQa6vfcvAHl2iHzBhQO"
+    },
+    {
+      "album": {
         "name": "E DU VAKEN",
         "url": "https://open.spotify.com/album/4OZpmBbZVXUCyeQZ21EMPS"
       },

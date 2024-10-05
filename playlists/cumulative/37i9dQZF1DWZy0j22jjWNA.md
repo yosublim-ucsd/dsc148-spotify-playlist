@@ -4,7 +4,7 @@
 
 > Let these songs help you start your day filled with faith and hope!
 
-191 songs - 11 hr 57 min
+192 songs - 12 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Beloved](https://open.spotify.com/track/5V0nHhlYIjUMfcSoJ5ziRD) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Delta](https://open.spotify.com/album/3thbkS5Ijz41mAbAOat7wc) | 4:25 | 2020-09-04 | 2024-06-26 |
 | [Best Days](https://open.spotify.com/track/0fOqwn5POfpZeW00X7iaew) | [Sarah Reeves](https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL) | [Best Days](https://open.spotify.com/album/2ZqzpPyKOpp9Wj1vdKA0lp) | 3:15 | 2024-08-03 |  |
 | [Blessed](https://open.spotify.com/track/5TZQFrjxHT5rkR43PA4aF6) | [Kevin Quinn](https://open.spotify.com/artist/3HTHz4rj84gMMV8T3u81op) | [Blessed](https://open.spotify.com/album/4GC0oRuVTZR2a0yCnQRaNz) | 2:43 | 2024-08-03 |  |
+| [Brand New](https://open.spotify.com/track/6VvG67rVJmeFUKsr0k0jhn) | [Bay Turner](https://open.spotify.com/artist/5Swex8uNIDsDJecu35hSRV), [Terrian](https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP) | [Brand New](https://open.spotify.com/album/7fJpxRI9nTu4iloWvOquOJ) | 2:55 | 2024-10-05 |  |
 | [Breathe](https://open.spotify.com/track/4QvchxEDRzAosUOkZzJGI6) | [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW) | [Note To Self](https://open.spotify.com/album/4Yj28bUARn3tih4X7zrdaw) | 2:52 | 2024-08-03 |  |
 | [Bridges](https://open.spotify.com/track/3VPFV5Xj8QjXDJKl2rVce7) | [Johnnyswim](https://open.spotify.com/artist/4igDSX1kgfWbVTDCywcBGm) | [Moonlight](https://open.spotify.com/album/3ZU0AW8kgxxyR48yUFUiK5) | 3:36 | 2020-09-04 | 2024-08-04 |
 | [Bridges](https://open.spotify.com/track/4nFeTtjyFepN3X0cCP1OSK) | [Johnnyswim](https://open.spotify.com/artist/4igDSX1kgfWbVTDCywcBGm) | [Moonlight](https://open.spotify.com/album/5p0GFMS6qjdeC9ZCa95TVP) | 3:36 | 2020-09-04 | 2024-04-19 |
@@ -111,7 +112,7 @@
 | [Jersey on the Wall \- I'm Just Asking](https://open.spotify.com/track/5mzW3aQKYlE4wewY1Sui7K) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [Jersey on the Wall \(I'm Just Asking\)](https://open.spotify.com/album/3187dXQrJ8RASDdfgnUzkF) | 4:05 | 2020-09-04 | 2024-06-26 |
 | [JOY](https://open.spotify.com/track/7DG3O7eF9D6R92qLL53VHX) | [Aaron Barbosa](https://open.spotify.com/artist/1Quj802oMwtYGjXmEarwwk), [Charlin Neal](https://open.spotify.com/artist/0G2JgRnw6Uw0J4UEd2kfWX) | [JOY](https://open.spotify.com/album/7hyXyBdUlTicCK9kGQzxzE) | 3:49 | 2024-08-03 |  |
 | [JOY](https://open.spotify.com/track/6B6N8a0SvyEyJ77h1fuCwA) | [Phil the Voice](https://open.spotify.com/artist/5MZ5XLMvg4UQA7l2ipaU3E) | [JOY](https://open.spotify.com/album/2uLur9asrRPLo1hBUbh0t6) | 2:34 | 2024-08-03 |  |
-| [JOY](https://open.spotify.com/track/2sDjhZ2xCbF8BSi6EpFp2Q) | [Saint James](https://open.spotify.com/artist/0i3IFzWtRtl3IDWx6GhECi), [Jeremiah Paltan](https://open.spotify.com/artist/7gaLLumDYrznRYzpPtvrru) | [JOY](https://open.spotify.com/album/1J0OJZkwcBIAddvjofj1h8) | 3:14 | 2024-08-03 |  |
+| [JOY](https://open.spotify.com/track/2sDjhZ2xCbF8BSi6EpFp2Q) | [Saint James](https://open.spotify.com/artist/0i3IFzWtRtl3IDWx6GhECi), [Jeremiah Paltan](https://open.spotify.com/artist/7gaLLumDYrznRYzpPtvrru) | [JOY](https://open.spotify.com/album/1J0OJZkwcBIAddvjofj1h8) | 3:14 | 2024-08-03 | 2024-10-05 |
 | [Joy Comes](https://open.spotify.com/track/11cM33H4S1YN6iSjB7uAvQ) | [Tori Harper](https://open.spotify.com/artist/2lDf4hYD0RvgNtYgblvb4i) | [Joy Comes](https://open.spotify.com/album/6zZi74NcUwGK0uX7lvnACy) | 3:51 | 2024-08-03 |  |
 | [Joy In The Morning \- Remix](https://open.spotify.com/track/38xvrudag6EpgxK369Cn9B) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4), [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [Joy In The Morning \- Horizon Edition](https://open.spotify.com/album/4k9NfmigtkDZLHB5MJ04RQ) | 3:53 | 2024-08-03 |  |
 | [JOY INVINCIBLE \[Feat\. Jenn Johnson\]](https://open.spotify.com/track/6iIgdvJREEhUmLz9wJnMlw) | [Switchfoot](https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu), [Jenn Johnson](https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO) | [JOY INVINCIBLE \[Feat\. Jenn Johnson\]](https://open.spotify.com/album/6dKqzlIA9TDzx6SlfoZgI2) | 3:42 | 2020-09-04 | 2024-08-04 |
@@ -193,7 +194,7 @@
 | [Who Am I](https://open.spotify.com/track/7onxJa5Fj3nCciU5TCICwh) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G) | [Who Am I \(feat\. Elle King\)](https://open.spotify.com/album/6eZ5PLrRC9TiEUZXPFDvsn) | 3:27 | 2020-09-04 | 2022-11-13 |
 | [Windows](https://open.spotify.com/track/1dO1PUvhwXHsMvL5LCR57C) | [Pastor Mike Jr.](https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS) | [Windows](https://open.spotify.com/album/5FdJUxaEsL1ExnwYXsDVVl) | 4:35 | 2024-08-03 |  |
 | [WON'T LET TOMORROW](https://open.spotify.com/track/0PFlqBbPx0Yszs1deYB5uH) | [Joseph O'Brien](https://open.spotify.com/artist/1ibVSKkKjRcDYXTJrUprGa) | [WON'T LET TOMORROW](https://open.spotify.com/album/304o5rOyRwgbSuHOhlqttH) | 2:40 | 2024-06-25 | 2024-08-04 |
-| [Worry About Nothing](https://open.spotify.com/track/4gEkiIg4XatM4x10HcAdMy) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL), [Terrian](https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP) | [Worry About Nothing](https://open.spotify.com/album/1VKHWGZru3AKfEzA9zn15s) | 3:24 | 2024-08-03 |  |
+| [Worry About Nothing](https://open.spotify.com/track/4gEkiIg4XatM4x10HcAdMy) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL), [Terrian](https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP) | [Worry About Nothing](https://open.spotify.com/album/1VKHWGZru3AKfEzA9zn15s) | 3:24 | 2024-08-03 | 2024-10-05 |
 | [You](https://open.spotify.com/track/45W0GYB7YQO5wq6ePZPA4F) | [Apollo LTD](https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp) | [Nothing is Ordinary\. Everything is Beautiful.](https://open.spotify.com/album/78lm2RBBywrBwkbxwIqL6P) | 3:46 | 2020-09-04 | 2024-04-19 |
 | [You](https://open.spotify.com/track/6OW9DM0XwDzdiIlKcTuPD3) | [Apollo LTD](https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp) | [You](https://open.spotify.com/album/2mgnhYvHdQQzVOM2LDkuXU) | 3:46 | 2020-09-04 | 2024-06-26 |
 | [You Have Made Me Glad](https://open.spotify.com/track/2o6XwbRgn42tK3EphA7Tkv) | [Harvest](https://open.spotify.com/artist/2VbBcqyGs1Q6BPDH9XVQjV) | [Glad](https://open.spotify.com/album/0TBJXPXOzn8eT4X9RP23SE) | 4:08 | 2024-08-03 |  |

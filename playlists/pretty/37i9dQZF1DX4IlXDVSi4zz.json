@@ -1,6 +1,6 @@
 {
   "description": "Dance the night away and just blame it on Tulum!",
-  "num_followers": 836077,
+  "num_followers": 836252,
   "original_name": "Tulum Party",
   "owner": {
     "name": "Spotify",
@@ -947,30 +947,6 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "Weak",
-        "url": "https://open.spotify.com/album/7M457yfuVeLaiYrtiKTvqn"
-      },
-      "artists": [
-        {
-          "name": "Vintage Culture",
-          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
-        },
-        {
-          "name": "Maverick Sabre",
-          "url": "https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q"
-        },
-        {
-          "name": "Tom Breu",
-          "url": "https://open.spotify.com/artist/4Y4jZlaPkgIlzMp6kmcr9h"
-        }
-      ],
-      "duration_ms": 202560,
-      "name": "Weak",
-      "url": "https://open.spotify.com/track/62gzfhHi2supfHWfi6iHbA"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
         "name": "BED",
         "url": "https://open.spotify.com/album/36tML2tWjDrbLW4FgrX17U"
       },
@@ -1015,22 +991,26 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "Teka (with Peso Pluma)",
-        "url": "https://open.spotify.com/album/4MGpOqMU3FlZ7li35laoBu"
+        "name": "Weak",
+        "url": "https://open.spotify.com/album/7M457yfuVeLaiYrtiKTvqn"
       },
       "artists": [
         {
-          "name": "DJ Snake",
-          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
         },
         {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+          "name": "Maverick Sabre",
+          "url": "https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q"
+        },
+        {
+          "name": "Tom Breu",
+          "url": "https://open.spotify.com/artist/4Y4jZlaPkgIlzMp6kmcr9h"
         }
       ],
-      "duration_ms": 163809,
-      "name": "Teka (with Peso Pluma)",
-      "url": "https://open.spotify.com/track/555maXFEF9m0lE4UGRzCHk"
+      "duration_ms": 202560,
+      "name": "Weak",
+      "url": "https://open.spotify.com/track/62gzfhHi2supfHWfi6iHbA"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -1051,26 +1031,22 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "Heartbreak Anthem (with David Guetta & Little Mix)",
-        "url": "https://open.spotify.com/album/6kBuGNoOGE7uiPhN82dcJ1"
+        "name": "Teka (with Peso Pluma)",
+        "url": "https://open.spotify.com/album/4MGpOqMU3FlZ7li35laoBu"
       },
       "artists": [
         {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
         },
         {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Little Mix",
-          "url": "https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp"
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
         }
       ],
-      "duration_ms": 183725,
-      "name": "Heartbreak Anthem (with David Guetta & Little Mix)",
-      "url": "https://open.spotify.com/track/5K6Ssv4Z3zRvxt0P6EKUAP"
+      "duration_ms": 163809,
+      "name": "Teka (with Peso Pluma)",
+      "url": "https://open.spotify.com/track/555maXFEF9m0lE4UGRzCHk"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -1099,6 +1075,30 @@
       "duration_ms": 140500,
       "name": "Forever (feat. Malou & Yuna)",
       "url": "https://open.spotify.com/track/0WS1qLcXKsCGt5e3dqq30S"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "Heartbreak Anthem (with David Guetta & Little Mix)",
+        "url": "https://open.spotify.com/album/6kBuGNoOGE7uiPhN82dcJ1"
+      },
+      "artists": [
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Little Mix",
+          "url": "https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp"
+        }
+      ],
+      "duration_ms": 183725,
+      "name": "Heartbreak Anthem (with David Guetta & Little Mix)",
+      "url": "https://open.spotify.com/track/5K6Ssv4Z3zRvxt0P6EKUAP"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "Won't Forget You",
-        "url": "https://open.spotify.com/album/36b1UkMwoVCfTVlRqgkp3J"
-      },
-      "artists": [
-        {
-          "name": "Shouse",
-          "url": "https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB"
-        }
-      ],
-      "duration_ms": 230945,
-      "name": "Won't Forget You (Edit)",
-      "url": "https://open.spotify.com/track/3I10tZ5MgEMo4WryCNJkZQ"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
         "name": "Giant (with Rag'n'Bone Man)",
         "url": "https://open.spotify.com/album/4PwXTHenZZx7ebgsnTM65K"
       },
@@ -1171,26 +1155,6 @@
       "duration_ms": 229184,
       "name": "Giant (with Rag'n'Bone Man)",
       "url": "https://open.spotify.com/track/5itOtNx0WxtJmi1TQ3RuRd"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
-        "name": "Mad World",
-        "url": "https://open.spotify.com/album/35LVfE1wsiXr4tdKnYliJ8"
-      },
-      "artists": [
-        {
-          "name": "Timmy Trumpet",
-          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
-        },
-        {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
-        }
-      ],
-      "duration_ms": 153303,
-      "name": "Mad World",
-      "url": "https://open.spotify.com/track/6WsaEpK2Bky9ZGCCaQPyg4"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -1215,6 +1179,58 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
+        "name": "Won't Forget You",
+        "url": "https://open.spotify.com/album/36b1UkMwoVCfTVlRqgkp3J"
+      },
+      "artists": [
+        {
+          "name": "Shouse",
+          "url": "https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB"
+        }
+      ],
+      "duration_ms": 230945,
+      "name": "Won't Forget You (Edit)",
+      "url": "https://open.spotify.com/track/3I10tZ5MgEMo4WryCNJkZQ"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "Mad World",
+        "url": "https://open.spotify.com/album/35LVfE1wsiXr4tdKnYliJ8"
+      },
+      "artists": [
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        }
+      ],
+      "duration_ms": 153303,
+      "name": "Mad World",
+      "url": "https://open.spotify.com/track/6WsaEpK2Bky9ZGCCaQPyg4"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "Never Going Home",
+        "url": "https://open.spotify.com/album/3M2ev0LMKExe0Y9HaNrkfA"
+      },
+      "artists": [
+        {
+          "name": "Kungs",
+          "url": "https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d"
+        }
+      ],
+      "duration_ms": 169944,
+      "name": "Never Going Home",
+      "url": "https://open.spotify.com/track/0xfMlIW8lS40qvpsUw1l0X"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
         "name": "Marianela (Que Pasa)",
         "url": "https://open.spotify.com/album/5As1VmPUMn4HIgYSbFD6l0"
       },
@@ -1235,22 +1251,6 @@
       "duration_ms": 145766,
       "name": "Marianela (Que Pasa)",
       "url": "https://open.spotify.com/track/5bZjb7xKqLqa58QiUBcVvl"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
-        "name": "Never Going Home",
-        "url": "https://open.spotify.com/album/3M2ev0LMKExe0Y9HaNrkfA"
-      },
-      "artists": [
-        {
-          "name": "Kungs",
-          "url": "https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d"
-        }
-      ],
-      "duration_ms": 169944,
-      "name": "Never Going Home",
-      "url": "https://open.spotify.com/track/0xfMlIW8lS40qvpsUw1l0X"
     },
     {
       "added_at": "2024-09-20 04:00:00",

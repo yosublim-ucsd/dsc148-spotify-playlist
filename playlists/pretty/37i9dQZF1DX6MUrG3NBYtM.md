@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MUrG3NBYtM.md) - [plain]
 
 > De beste Alternative, Indie en Rock van nu! Cover: Franz Ferdinand
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,638 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,633 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MUrG3NBYtM.md) - [plain]
 | 49 | [Little Love](https://open.spotify.com/track/6ZgMOBLTFTiznbKhEDeqnw) | [Marta Arpini](https://open.spotify.com/artist/1g5EUXyT6FupMoKyy6Q1M8) | [Little Love](https://open.spotify.com/album/4mErgfMcAlJ6WLQkRvHozj) | 3:08 |
 | 50 | [Your Apartment](https://open.spotify.com/track/2F8GiqfSE1JSjLGHlHMmQa) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Your Apartment](https://open.spotify.com/album/4bchmgK2VJWV9fHapF5nms) | 3:18 |
 
-Snapshot ID: `Zv8T4AAAAAATcPCocICfbgEdOKptZUSf`
+Snapshot ID: `Zv+84gAAAABJ5dx87+sC9yWdxBzDFltS`

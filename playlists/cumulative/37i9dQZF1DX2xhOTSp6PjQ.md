@@ -2,9 +2,9 @@
 
 ### [Bhinca Nation](https://open.spotify.com/playlist/37i9dQZF1DX2xhOTSp6PjQ)
 
-> Khuphuka lapho… seku\-late! Cover:  <a href="https://open.spotify.com/artist/16Sxr5Kd5KJIUXTUVtmVOV?si=PP8\-ehKbRIG\-k1KFiqccmg">Mshinwemali</a>
+> Khuphuka lapho… seku\-late! Cover:  <a href="https://open.spotify.com/artist/1MLyzirvUgvt90R9DISyeJ?si=4qHdG1oES2Wwg4ra293T\_A">Zwide</a>
 
-208 songs - 16 hr 40 min
+209 songs - 16 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Hit after Hit](https://open.spotify.com/track/5TY9ovYtBeJTY9s7K3ijEd) | [Ugatsheni](https://open.spotify.com/artist/2kUReuoaNS6Thgl4zFQA60) | [Uyihlo nonyoko](https://open.spotify.com/album/7aNmPlwAQeVPY8P7qjuGhs) | 4:39 | 2024-01-11 |  |
 | [Hlala Nam](https://open.spotify.com/track/0nPqPgBHcvVCmajDTxwsNr) | [Yallunder](https://open.spotify.com/artist/4TT5ne6u5XRUIhTUKhZyOo) | [KUM](https://open.spotify.com/album/1NpVWcAz4p9bv0Q4Grzk2P) | 3:42 | 2023-08-03 | 2023-09-22 |
 | [I'm Happy](https://open.spotify.com/track/5wuZ7biZx3qqGnO1YBvjiG) | [Shabalala Rhythm](https://open.spotify.com/artist/4yqgRp5LrmRXgSKpAqTBdl) | [I'm Happy](https://open.spotify.com/album/0DpvdwG7l5D2TbDyibQzG6) | 3:49 | 2023-08-24 | 2023-10-27 |
+| [iAttention \(feat\. Inkos'yamagcokama & Ashantiey\)](https://open.spotify.com/track/4zb5lmp4fKXkB6fENFp2h5) | [Zwide](https://open.spotify.com/artist/1MLyzirvUgvt90R9DISyeJ), [Inkos'yamagcokama](https://open.spotify.com/artist/6wq5brCC7NSFUDJ8rL0fcF), [Ashantiey](https://open.spotify.com/artist/5Y27ZPdDBCA7vofb3xXKpk) | [iAttention \(feat\. Inkos'yamagcokama & Ashantiey\)](https://open.spotify.com/album/2Z7UEzd0BEVdcJ29bpjfHI) | 4:20 | 2024-10-04 |  |
 | [Ijele](https://open.spotify.com/track/2OYomh3wz8TWpfnQKxua2F) | [Khuzani](https://open.spotify.com/artist/1ltbNKMXKKXkjaXCTGZYUs), [Luve Dubazane](https://open.spotify.com/artist/2qn1ZfGigw6BNbf2MNuEJc) | [Ispoki Esingafi](https://open.spotify.com/album/3riM8V5qRqXKn09JuWHcAu) | 4:29 | 2021-01-14 |  |
 | [Ijuba](https://open.spotify.com/track/5jsO87ShnH2lEXhIfjMAUj) | [Mzukulu](https://open.spotify.com/artist/2cvAWNKeSNVAfSZqAQIIS3), [Shenge wasehlalankosi](https://open.spotify.com/artist/6OtlecLaA62XUdzRZDSeBz) | [Ijuba](https://open.spotify.com/album/0vfOenK6KA9EexqpixRjMF) | 5:12 | 2024-01-18 |  |
 | [iKhaya Lakithi](https://open.spotify.com/track/3LN2byEuqn8MnltdLeIQcA) | [Big Zulu](https://open.spotify.com/artist/6sNKQgLUy4LVNEX3r1kG1A), [Ugatsheni](https://open.spotify.com/artist/2kUReuoaNS6Thgl4zFQA60) | [Ngises'Congweni](https://open.spotify.com/album/4gS9ymNhuDkgtY5yofRJ7V) | 4:26 | 2024-03-28 |  |
@@ -214,7 +215,7 @@
 | [Wenhliziyo Yami](https://open.spotify.com/track/1tvDDR0ZAowEqKLN15g7tH) | [Zwide](https://open.spotify.com/artist/1MLyzirvUgvt90R9DISyeJ), [Umafikizolo](https://open.spotify.com/artist/3aznFYhXZNLiZYfF2nIt6K), [uMehlabomvu](https://open.spotify.com/artist/108KwQSLKiaZbIPgNg1pBm) | [Wenhliziyo Yami](https://open.spotify.com/album/0MVveVP2vKqPJmFSEns1G8) | 4:21 | 2024-03-15 |  |
 | [Xola \(feat\. Nobuhle, Ze2 & Young Stunna\)](https://open.spotify.com/track/5uWDenxq03AYLOq83WzLNo) | [Kabza De Small](https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR), [Young Stunna](https://open.spotify.com/artist/6WQFTzqYHmh8Ph2X0L0QLQ), [Nobuhle](https://open.spotify.com/artist/4PmzNF4U54l7yVubziJ10U), [Ze2](https://open.spotify.com/artist/3oFeP83KftctMRhFh3SPtF) | [KOA II Part 1](https://open.spotify.com/album/3DbMb03o8Wu2BCipvcdw7q) | 7:30 | 2023-01-30 | 2023-02-03 |
 | [Yimi Isiqhwaga](https://open.spotify.com/track/22EGSr4xGc8zDs3TSjgBXV) | [Falabo](https://open.spotify.com/artist/1tlK89N9NdqIWVXRSyClAw) | [Yimi Isqhwaga](https://open.spotify.com/album/51MFGbYVjczIbS9aR20D5d) | 4:09 | 2023-12-08 | 2024-06-07 |
-| [Zamalek](https://open.spotify.com/track/4bn9tdvdNPUYXycnSxqBF6) | [Mnqobi Yazo](https://open.spotify.com/artist/59IoFDxTdsmr1m1z8euRFu), [Big Zulu](https://open.spotify.com/artist/6sNKQgLUy4LVNEX3r1kG1A) | [iStiff](https://open.spotify.com/album/406LRBBJauqbHIurtDKm7d) | 4:11 | 2023-01-30 |  |
+| [Zamalek](https://open.spotify.com/track/4bn9tdvdNPUYXycnSxqBF6) | [Mnqobi Yazo](https://open.spotify.com/artist/59IoFDxTdsmr1m1z8euRFu), [Big Zulu](https://open.spotify.com/artist/6sNKQgLUy4LVNEX3r1kG1A) | [iStiff](https://open.spotify.com/album/406LRBBJauqbHIurtDKm7d) | 4:11 | 2023-01-30 | 2024-10-05 |
 | [Zonga Kanjani](https://open.spotify.com/track/6eAkUwh6sgNnGOtHXZOt1j) | [U'mjik' Jelwa](https://open.spotify.com/artist/6CtPmBW0KxaanNVN8ZIJjv) | [iChallenge](https://open.spotify.com/album/1xYSfs18C1r2dUzrJrD2Z7) | 4:22 | 2018-09-25 | 2023-02-01 |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

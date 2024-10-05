@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-10",
-  "description": "Nothing but precious sounds from the 90s & 2000s. Cover: Massari",
+  "description": "Nothing but precious sounds from the 90s & 2000s. Cover: Jully Black",
   "name": "Millennium Hip-Hop/R&B: Canada",
   "tracks": [
     {
@@ -1493,6 +1493,36 @@
     },
     {
       "album": {
+        "name": "Champion Sound",
+        "url": "https://open.spotify.com/album/0zkhTVHYyDMxFdhVCKGNFa"
+      },
+      "artists": [
+        {
+          "name": "Jaylib",
+          "url": "https://open.spotify.com/artist/7BWVFnoB7Qy9biFNCoRCMI"
+        },
+        {
+          "name": "Madlib",
+          "url": "https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf"
+        },
+        {
+          "name": "J Dilla",
+          "url": "https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp"
+        },
+        {
+          "name": "Frank N Dank",
+          "url": "https://open.spotify.com/artist/2ZTaLRGGGwQKyO9spJbthl"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175786,
+      "name": "McNasty Filth",
+      "url": "https://open.spotify.com/track/6bcszExuP00JoOq7I8tN4P"
+    },
+    {
+      "album": {
         "name": "Pressure",
         "url": "https://open.spotify.com/album/2eiHKaQos3omBLYWOZYde4"
       },
@@ -1696,7 +1726,7 @@
       ],
       "date_added": "2022-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 217640,
       "name": "Nice 2 Meet U (Original)",
       "url": "https://open.spotify.com/track/3BfVW09wYHVKbUqT0tvq6D"

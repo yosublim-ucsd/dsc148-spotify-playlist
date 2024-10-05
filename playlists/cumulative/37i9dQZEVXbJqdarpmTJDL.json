@@ -11192,7 +11192,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 162356,
       "name": "ESY",
       "url": "https://open.spotify.com/track/4NLPNwBdr1MeJDuFaMpbhz"
@@ -11294,7 +11294,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 159340,
       "name": "Euro Gangsta",
       "url": "https://open.spotify.com/track/0ifihkLHfnm6Ym3jekzZQv"
@@ -14246,7 +14246,7 @@
       ],
       "date_added": "2024-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 207719,
       "name": "Grace Kelly",
       "url": "https://open.spotify.com/track/5tBpNcPoCTHYVVfOK2ZgAb"
@@ -26948,7 +26948,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-27",
+      "date_removed": null,
       "duration_ms": 155714,
       "name": "PAPAGOU",
       "url": "https://open.spotify.com/track/2Z165nc2FmSVJzzkqCskpT"
@@ -29008,6 +29008,32 @@
       "duration_ms": 166000,
       "name": "PULL UP",
       "url": "https://open.spotify.com/track/1pVRN4ppqzn4sQ1jwX451z"
+    },
+    {
+      "album": {
+        "name": "EYE OF THE TIGER",
+        "url": "https://open.spotify.com/album/61sB6y1OGLHk585htCrZET"
+      },
+      "artists": [
+        {
+          "name": "Ivan Greko",
+          "url": "https://open.spotify.com/artist/0cy6ZMOTeautXRNJsR6PiV"
+        },
+        {
+          "name": "SNIK",
+          "url": "https://open.spotify.com/artist/6wN4QyhoM6fN49kEB25rnl"
+        },
+        {
+          "name": "BeTaf Beats",
+          "url": "https://open.spotify.com/artist/5qDpS8QhKjNRZ6aRrcpY1Z"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150484,
+      "name": "PULVO",
+      "url": "https://open.spotify.com/track/39zEhtL1tPzBUD8T1ZOWKR"
     },
     {
       "album": {
@@ -31258,6 +31284,32 @@
       "duration_ms": 165730,
       "name": "Silence",
       "url": "https://open.spotify.com/track/1t688kUX91zvCvMOak9UbO"
+    },
+    {
+      "album": {
+        "name": "EYE OF THE TIGER",
+        "url": "https://open.spotify.com/album/61sB6y1OGLHk585htCrZET"
+      },
+      "artists": [
+        {
+          "name": "Ivan Greko",
+          "url": "https://open.spotify.com/artist/0cy6ZMOTeautXRNJsR6PiV"
+        },
+        {
+          "name": "Trannos",
+          "url": "https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc"
+        },
+        {
+          "name": "BeTaf Beats",
+          "url": "https://open.spotify.com/artist/5qDpS8QhKjNRZ6aRrcpY1Z"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170821,
+      "name": "SILLY BOY",
+      "url": "https://open.spotify.com/track/14JWdvYsWAx7csssKvakQK"
     },
     {
       "album": {

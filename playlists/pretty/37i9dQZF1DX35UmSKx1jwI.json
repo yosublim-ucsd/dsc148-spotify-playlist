@@ -1,6 +1,6 @@
 {
   "description": "Feel good, high energy beats to keep you motivated for that every day workout!",
-  "num_followers": 129924,
+  "num_followers": 129944,
   "original_name": "Gym Beats",
   "owner": {
     "name": "Spotify",
@@ -551,6 +551,22 @@
     {
       "added_at": "2024-07-24 13:57:08",
       "album": {
+        "name": "Blah Blah Blah",
+        "url": "https://open.spotify.com/album/1oqv6oabMXbNpgZ6gmjAIN"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        }
+      ],
+      "duration_ms": 183518,
+      "name": "Blah Blah Blah",
+      "url": "https://open.spotify.com/track/2xkrujtSjZz7EKAYGbIIzH"
+    },
+    {
+      "added_at": "2024-07-24 13:57:08",
+      "album": {
         "name": "Paradise",
         "url": "https://open.spotify.com/album/7Ddr2KE2jdn3QRvcuFGDE3"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 197640,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/3ol5EIFVcL4XneXKXjQpfx"
-    },
-    {
-      "added_at": "2024-07-24 13:57:08",
-      "album": {
-        "name": "Blah Blah Blah",
-        "url": "https://open.spotify.com/album/1oqv6oabMXbNpgZ6gmjAIN"
-      },
-      "artists": [
-        {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
-        }
-      ],
-      "duration_ms": 183518,
-      "name": "Blah Blah Blah",
-      "url": "https://open.spotify.com/track/2xkrujtSjZz7EKAYGbIIzH"
     },
     {
       "added_at": "2024-07-24 13:57:08",

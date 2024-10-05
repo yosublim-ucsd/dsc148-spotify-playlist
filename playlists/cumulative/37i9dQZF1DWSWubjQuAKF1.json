@@ -5,6 +5,28 @@
   "tracks": [
     {
       "album": {
+        "name": "\"Z TOB\u0104\" INTERLUDE",
+        "url": "https://open.spotify.com/album/6aWHzzG4xZ99MZZEmlTV8Y"
+      },
+      "artists": [
+        {
+          "name": "Kajetan Wolas",
+          "url": "https://open.spotify.com/artist/6tpxFh5TlBxnHzrAfFlCXj"
+        },
+        {
+          "name": "ciiicho",
+          "url": "https://open.spotify.com/artist/0rQ5OCXcg33fZtgN6hv76Z"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173365,
+      "name": "\"Z TOB\u0104\" INTERLUDE",
+      "url": "https://open.spotify.com/track/6sF1vU8ICcM0FP0dqhBR6Y"
+    },
+    {
+      "album": {
         "name": "#omg",
         "url": "https://open.spotify.com/album/3OPVO954VEkzkoqNxjjitu"
       },
@@ -74,6 +96,24 @@
       "duration_ms": 137500,
       "name": "2late",
       "url": "https://open.spotify.com/track/17Z53SXn00P5bkME5asSvF"
+    },
+    {
+      "album": {
+        "name": "a mo\u017ce nie?",
+        "url": "https://open.spotify.com/album/1ETEZPz5LDI15kDa3Q6crm"
+      },
+      "artists": [
+        {
+          "name": "Julia Mre\u0144ca",
+          "url": "https://open.spotify.com/artist/0o67bNa457im54EQIpinH2"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "a mo\u017ce nie?",
+      "url": "https://open.spotify.com/track/5uqA8dbykXOfO0mMqSqYF7"
     },
     {
       "album": {
@@ -586,7 +626,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 161899,
       "name": "CHC\u0118 TYLKO KRZYCZE\u0106",
       "url": "https://open.spotify.com/track/1pHyRBjIwgNvmKYCsI3BRD"
@@ -988,7 +1028,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 152750,
       "name": "Fake ID",
       "url": "https://open.spotify.com/track/5gcokYc6au92x8EUbgJ3KR"
@@ -1068,6 +1108,24 @@
       "duration_ms": 172000,
       "name": "fotki",
       "url": "https://open.spotify.com/track/6TA7gJh2nvKnCgIHaxTH2H"
+    },
+    {
+      "album": {
+        "name": "z papieru",
+        "url": "https://open.spotify.com/album/7uQvbQsog1LioDPDODHOqx"
+      },
+      "artists": [
+        {
+          "name": "Livka",
+          "url": "https://open.spotify.com/artist/0eWYWLizN5us1MOF1rdyh9"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142336,
+      "name": "Gadu\u0142a",
+      "url": "https://open.spotify.com/track/0PW79OISoSCzmPwoqyphnV"
     },
     {
       "album": {
@@ -1180,6 +1238,24 @@
       "duration_ms": 178181,
       "name": "I Just Need A Friend",
       "url": "https://open.spotify.com/track/407q3NjRIfCG4N75zPeTsU"
+    },
+    {
+      "album": {
+        "name": "I like that",
+        "url": "https://open.spotify.com/album/0qNCipvVGfpKa2OZVLY6as"
+      },
+      "artists": [
+        {
+          "name": "Elena",
+          "url": "https://open.spotify.com/artist/27cGum5CmUlUoCKxaiKqnn"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135978,
+      "name": "I like that",
+      "url": "https://open.spotify.com/track/5cVrhm5TnQ3DVzrhCvcmeP"
     },
     {
       "album": {
@@ -1729,6 +1805,24 @@
     },
     {
       "album": {
+        "name": "mamy siebie",
+        "url": "https://open.spotify.com/album/2VtVTHgyjHXBnXqkdqmrYU"
+      },
+      "artists": [
+        {
+          "name": "Zuyeh",
+          "url": "https://open.spotify.com/artist/74p0HdOXjtYHdi4TkMxYSi"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156760,
+      "name": "mamy siebie",
+      "url": "https://open.spotify.com/track/05TlRHEcFWIDdDgcweyCvE"
+    },
+    {
+      "album": {
         "name": "MAZZY STAR",
         "url": "https://open.spotify.com/album/3EXUZm3KoRRZBccd8kyuno"
       },
@@ -2056,7 +2150,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 139821,
       "name": "Nasze lato",
       "url": "https://open.spotify.com/track/5F0ljs66WoL6VGL8vtcYlz"
@@ -2894,7 +2988,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 160714,
       "name": "Sangria",
       "url": "https://open.spotify.com/track/2eOZVNpzl3BxAlUduZfUPu"
@@ -3260,7 +3354,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 137898,
       "name": "Tam czeka mnie dom",
       "url": "https://open.spotify.com/track/2R5JI5M63xGVesrcwILZ0B"

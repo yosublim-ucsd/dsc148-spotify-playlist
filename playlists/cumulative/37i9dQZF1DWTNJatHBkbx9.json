@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-05-14",
-  "description": "From the alternative scene in Ghana. Cover: M3NSA",
+  "description": "From the alternative scene in Ghana. Cover: NATAB",
   "name": "Alt. Ghana",
   "tracks": [
     {
@@ -803,6 +803,24 @@
     },
     {
       "album": {
+        "name": "There's A Fire On The Mountain",
+        "url": "https://open.spotify.com/album/7AHm7GvOwa5PY8Q22tMuHl"
+      },
+      "artists": [
+        {
+          "name": "NATAB",
+          "url": "https://open.spotify.com/artist/5sk7DMYabyF7C12HgIG5QF"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299333,
+      "name": "Fire Everywhere",
+      "url": "https://open.spotify.com/track/4BGv3EsfJL6wLbQ56BaY5X"
+    },
+    {
+      "album": {
         "name": "Flex",
         "url": "https://open.spotify.com/album/4aQ8zK4K5FGQUHUOM4bwwc"
       },
@@ -822,6 +840,24 @@
       "duration_ms": 166956,
       "name": "Flex",
       "url": "https://open.spotify.com/track/45m2Q8cga0lcjRyS2cLwe5"
+    },
+    {
+      "album": {
+        "name": "Fortified",
+        "url": "https://open.spotify.com/album/25npZ3uCUPutKiwEGHalxP"
+      },
+      "artists": [
+        {
+          "name": "Freddie Gambini",
+          "url": "https://open.spotify.com/artist/4fuRrfCxlAdAUEB0dkLlAg"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "Fortified",
+      "url": "https://open.spotify.com/track/3QQI0IgPr82JQr9xRAuRE9"
     },
     {
       "album": {
@@ -1022,6 +1058,24 @@
       "duration_ms": 147169,
       "name": "How Dare You",
       "url": "https://open.spotify.com/track/3zx16CX0uPhOxNvpYq6d64"
+    },
+    {
+      "album": {
+        "name": "I Cant Think Far",
+        "url": "https://open.spotify.com/album/16gQW4vWgFPH6QUhGoX8BM"
+      },
+      "artists": [
+        {
+          "name": "Safo Newman",
+          "url": "https://open.spotify.com/artist/1XygOZOkRxWKr0vEKgZxFl"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183971,
+      "name": "I Cant Think Far",
+      "url": "https://open.spotify.com/track/0Dk6cFD6Fe4wcWeMulvc7S"
     },
     {
       "album": {
@@ -1278,6 +1332,24 @@
       "duration_ms": 160026,
       "name": "Love Me",
       "url": "https://open.spotify.com/track/3MSuBkZsG0AadmK3zv1laN"
+    },
+    {
+      "album": {
+        "name": "Lowkey Reminder",
+        "url": "https://open.spotify.com/album/28eChsNu8NBw8lToHcNeb7"
+      },
+      "artists": [
+        {
+          "name": "Bapi Joss",
+          "url": "https://open.spotify.com/artist/650EjRE3msuYaSw2hWLVPH"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195428,
+      "name": "Lowkey Reminder",
+      "url": "https://open.spotify.com/track/0ydKDzcFE4spe1J46ru4vc"
     },
     {
       "album": {
@@ -2478,6 +2550,28 @@
       "duration_ms": 165773,
       "name": "Work",
       "url": "https://open.spotify.com/track/3c0apNttNexOLb7QIliIdq"
+    },
+    {
+      "album": {
+        "name": "Yawa Go Dey",
+        "url": "https://open.spotify.com/album/6CY5NFYRFy1tk91tqlkhb5"
+      },
+      "artists": [
+        {
+          "name": "Kay-Ara",
+          "url": "https://open.spotify.com/artist/7709KKFLbokr9qyg7Oceb1"
+        },
+        {
+          "name": "Omenka",
+          "url": "https://open.spotify.com/artist/0zvOyfZ2vw7OAXK0bEYDs6"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162742,
+      "name": "Yawa Go Dey",
+      "url": "https://open.spotify.com/track/79ZzuGUmWNmsVEvuLBuX2N"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "For full-volume lovers. Cover: Beartooth",
+  "description": "For full-volume lovers. Cover: Trash Boat",
   "name": "Hard Rock",
   "tracks": [
     {
@@ -148,6 +148,24 @@
       "duration_ms": 216771,
       "name": "1987",
       "url": "https://open.spotify.com/track/3yn4cBZTTeCZf2sD70Mnes"
+    },
+    {
+      "album": {
+        "name": "20/20 Vision",
+        "url": "https://open.spotify.com/album/7h4yt2jXMs1WSzMn1EecLd"
+      },
+      "artists": [
+        {
+          "name": "BRKN LOVE",
+          "url": "https://open.spotify.com/artist/2Hkg1gn2Hpar1sVP8adtNp"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227064,
+      "name": "20/20 Vision",
+      "url": "https://open.spotify.com/track/3rzUxFVoUazdBrFkslPmYx"
     },
     {
       "album": {
@@ -1024,7 +1042,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 215929,
       "name": "Are You Ready Now?",
       "url": "https://open.spotify.com/track/5IEQUM87X2zSFfsFJ9vir7"
@@ -1520,7 +1538,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 212173,
       "name": "Before You Go",
       "url": "https://open.spotify.com/track/7xaiwsZI7GTsMr4I9K5tCj"
@@ -1758,7 +1776,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 149327,
       "name": "Bite Down",
       "url": "https://open.spotify.com/track/0bd2IBJCwqemeDmmpylmAV"
@@ -1976,6 +1994,24 @@
       "duration_ms": 198346,
       "name": "Bleeding",
       "url": "https://open.spotify.com/track/6WPEREfyyWXcOUsRmrTlEM"
+    },
+    {
+      "album": {
+        "name": "Blind Side Sonny",
+        "url": "https://open.spotify.com/album/3Q8URHjCFx82FDBf6BUeFJ"
+      },
+      "artists": [
+        {
+          "name": "Coheed and Cambria",
+          "url": "https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142853,
+      "name": "Blind Side Sonny",
+      "url": "https://open.spotify.com/track/3yJIHyPa3J6SadRkhp5QsZ"
     },
     {
       "album": {
@@ -2518,6 +2554,24 @@
       "duration_ms": 184440,
       "name": "Can't Stop Falling Apart",
       "url": "https://open.spotify.com/track/0m0bclACA3EBxFzC5e0JVQ"
+    },
+    {
+      "album": {
+        "name": "Cancelled",
+        "url": "https://open.spotify.com/album/5O2RCRX6fCXmynOWl5gFSK"
+      },
+      "artists": [
+        {
+          "name": "M\u00f6tley Cr\u00fce",
+          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287840,
+      "name": "Cancelled",
+      "url": "https://open.spotify.com/track/6zMBklADPUiVev8tFrMHIy"
     },
     {
       "album": {
@@ -4034,7 +4088,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 244466,
       "name": "Dogs Of War",
       "url": "https://open.spotify.com/track/1AuwWGznBvI76jOF8cZ4E4"
@@ -5281,6 +5335,28 @@
     },
     {
       "album": {
+        "name": "filthy/RIGHTEOUS (feat. Kenta Koie of Crossfaith)",
+        "url": "https://open.spotify.com/album/22OGFESsnG4chRM0pPEwLE"
+      },
+      "artists": [
+        {
+          "name": "Trash Boat",
+          "url": "https://open.spotify.com/artist/0XGJ3GUPwslwFJ66yNbHeh"
+        },
+        {
+          "name": "Crossfaith",
+          "url": "https://open.spotify.com/artist/3gfA40vRbx6YX8oCDXDCDh"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236924,
+      "name": "filthy/RIGHTEOUS (feat. Kenta Koie of Crossfaith)",
+      "url": "https://open.spotify.com/track/2pxsyhvXrWCvjXBYCOilQ4"
+    },
+    {
+      "album": {
         "name": "Final Battle",
         "url": "https://open.spotify.com/album/42xU4unJwuJzUkd40KP9ek"
       },
@@ -5830,7 +5906,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 228967,
       "name": "Ghost Inside The Shell",
       "url": "https://open.spotify.com/track/49HsFAhcWNTjQx2eBkd7bo"
@@ -6159,6 +6235,24 @@
     },
     {
       "album": {
+        "name": "Shame On Me (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2b3QhRrFnyLEjYsLOfFOB0"
+      },
+      "artists": [
+        {
+          "name": "Catch Your Breath",
+          "url": "https://open.spotify.com/artist/2fqPOGxG12nEERj8YG7p22"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218537,
+      "name": "Good In Goodbye",
+      "url": "https://open.spotify.com/track/1eDMcpnxaWCIBVzv9ZSR8X"
+    },
+    {
+      "album": {
         "name": "GOOD THINGS",
         "url": "https://open.spotify.com/album/7GkXgBvyDbg6la9fXPvD5R"
       },
@@ -6463,6 +6557,24 @@
     },
     {
       "album": {
+        "name": "Until God Shows",
+        "url": "https://open.spotify.com/album/4rulQIJ8pBtWY5cyx549gS"
+      },
+      "artists": [
+        {
+          "name": "Destroy Rebuild Until God Shows",
+          "url": "https://open.spotify.com/artist/6XjXff8FNS5CqpF8dVAtoo"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218505,
+      "name": "Headcase",
+      "url": "https://open.spotify.com/track/0CCGsR0C4nuAhmrdKqATEQ"
+    },
+    {
+      "album": {
         "name": "Heart Astray",
         "url": "https://open.spotify.com/album/3cFvjKlsWB4e8JAd12mKJg"
       },
@@ -6594,6 +6706,24 @@
       "duration_ms": 227678,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/6gJw4xzsGKbY3fcgTGQqws"
+    },
+    {
+      "album": {
+        "name": "Heavy Is the Crown",
+        "url": "https://open.spotify.com/album/3Su6Sgi0YjcUFuCzjLKYYq"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167012,
+      "name": "Heavy Is the Crown",
+      "url": "https://open.spotify.com/track/3fgehc497TFqKH1zBL2YNK"
     },
     {
       "album": {
@@ -6950,7 +7080,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 196243,
       "name": "HOSTAGE",
       "url": "https://open.spotify.com/track/1VHZgaqB64B497QL7RyrUQ"
@@ -7590,7 +7720,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 242106,
       "name": "Illusion",
       "url": "https://open.spotify.com/track/0rAg1EXU8PNb3t4tYYEfwD"
@@ -7648,7 +7778,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 213000,
       "name": "In The Mean Time (feat. Ash Costello)",
       "url": "https://open.spotify.com/track/6DTbne2r9AyM2rNFTEUZvF"
@@ -8750,7 +8880,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 237818,
       "name": "Light Up the Sky - Reignited",
       "url": "https://open.spotify.com/track/1UJGgtUFroQf5DK4jVMJnZ"
@@ -9246,6 +9376,24 @@
       "duration_ms": 198393,
       "name": "MAD (feat. Ice Nine Kills)",
       "url": "https://open.spotify.com/track/7EP3LwGH0bAhDuupm4xspD"
+    },
+    {
+      "album": {
+        "name": "PRUDE",
+        "url": "https://open.spotify.com/album/4SiGEjeock157xR33nCQdb"
+      },
+      "artists": [
+        {
+          "name": "Drug Church",
+          "url": "https://open.spotify.com/artist/6q4AmzK3GzCuEzkurnYuEQ"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145266,
+      "name": "Mad Care",
+      "url": "https://open.spotify.com/track/6JN8exConeYRUdfGkqmYfO"
     },
     {
       "album": {
@@ -11859,6 +12007,24 @@
     },
     {
       "album": {
+        "name": "Pretend",
+        "url": "https://open.spotify.com/album/4xohbt8vyQmpeq9ULNxMl6"
+      },
+      "artists": [
+        {
+          "name": "The Plot In You",
+          "url": "https://open.spotify.com/artist/1cJ5tVoeAEFcZBAwSZ0CtF"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185346,
+      "name": "Pretend",
+      "url": "https://open.spotify.com/track/3pTCy3GDllLC0wHXtMSVZh"
+    },
+    {
+      "album": {
         "name": "Pretty People",
         "url": "https://open.spotify.com/album/0GljcamggtwZqcZcKpuODJ"
       },
@@ -13546,7 +13712,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 157626,
       "name": "Slide 2 Me",
       "url": "https://open.spotify.com/track/0nB4xFTYsIMUon9vQdPnIG"
@@ -17812,6 +17978,24 @@
       "duration_ms": 306706,
       "name": "Wilted Rose (feat. Lainey Wilson)",
       "url": "https://open.spotify.com/track/0JedqBjEii51nak0kCLiVo"
+    },
+    {
+      "album": {
+        "name": "Things Are Different Now",
+        "url": "https://open.spotify.com/album/4NcoXQa5SMjILciWjMpHZg"
+      },
+      "artists": [
+        {
+          "name": "Rain City Drive",
+          "url": "https://open.spotify.com/artist/4rMxZovfLSDjEL9eI2pKo7"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174428,
+      "name": "Wish You The Best",
+      "url": "https://open.spotify.com/track/1MtgVw093BemZtwbDZyHqj"
     },
     {
       "album": {

@@ -446,7 +446,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-03",
+      "date_removed": null,
       "duration_ms": 259838,
       "name": "All That I Lost",
       "url": "https://open.spotify.com/track/4iiQHKy1dIbYyRscZuaWTo"
@@ -5521,6 +5521,24 @@
     },
     {
       "album": {
+        "name": "Losing Control",
+        "url": "https://open.spotify.com/album/0l2UYOy36Y0sbfS5GXrlpd"
+      },
+      "artists": [
+        {
+          "name": "Leena Punks",
+          "url": "https://open.spotify.com/artist/4v86SW8ZXq6cYAvMnaqYWt"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175000,
+      "name": "Losing Control",
+      "url": "https://open.spotify.com/track/4mfA9cs3xfdNv315e8PPqD"
+    },
+    {
+      "album": {
         "name": "Losing Control (feat. Nathan Nicholson)",
         "url": "https://open.spotify.com/album/5w42DeUYoCaocV1PqDx7QF"
       },
@@ -5740,7 +5758,7 @@
       ],
       "date_added": "2023-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 198750,
       "name": "Made Of Gold",
       "url": "https://open.spotify.com/track/6vykEbbae3Z5LnEMgXUsSg"
@@ -11190,7 +11208,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 197213,
       "name": "Yumi - edit",
       "url": "https://open.spotify.com/track/6PK96Y20GrGeiU8yptYGfl"

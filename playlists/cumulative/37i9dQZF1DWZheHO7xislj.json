@@ -232,7 +232,7 @@
       ],
       "date_added": "2023-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 196133,
       "name": "A Sunday Kind Of Love",
       "url": "https://open.spotify.com/track/0zGLlXbHlrAyBN1x6sY0rb"
@@ -344,7 +344,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-01",
+      "date_removed": null,
       "duration_ms": 264920,
       "name": "After The Love Has Gone",
       "url": "https://open.spotify.com/track/0c3Xqt6MesEzKVGdoKandP"
@@ -1958,7 +1958,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-28",
+      "date_removed": null,
       "duration_ms": 251533,
       "name": "Feelin' Alright",
       "url": "https://open.spotify.com/track/6hNtkl5bclIoL5MJQmHKt7"
@@ -2318,7 +2318,7 @@
       ],
       "date_added": "2023-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 255133,
       "name": "Got To Give It Up - Pt. 1",
       "url": "https://open.spotify.com/track/7ohR0qPH6f2Vuj2pUNanJG"
@@ -2658,6 +2658,28 @@
       "duration_ms": 254893,
       "name": "Holding On",
       "url": "https://open.spotify.com/track/0NnM0CgQaifZmhDquugyZV"
+    },
+    {
+      "album": {
+        "name": "Holding On",
+        "url": "https://open.spotify.com/album/4ZlV13oHyTpo3S3LjZRvRU"
+      },
+      "artists": [
+        {
+          "name": "Gregory Porter",
+          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
+        },
+        {
+          "name": "Kem",
+          "url": "https://open.spotify.com/artist/1f2e3RQf7LHOum8NU61q0R"
+        }
+      ],
+      "date_added": "2024-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254893,
+      "name": "Holding On",
+      "url": "https://open.spotify.com/track/7hrUma6oSEaVwnlwkQa7XB"
     },
     {
       "album": {
@@ -3426,7 +3448,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-09",
+      "date_removed": null,
       "duration_ms": 428240,
       "name": "I'm Gonna Love You Just A Little More Baby",
       "url": "https://open.spotify.com/track/4sfcHQgJdkB3g9itexwsvk"
@@ -4498,7 +4520,7 @@
       ],
       "date_added": "2024-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-06",
+      "date_removed": null,
       "duration_ms": 154160,
       "name": "Love Is A Losing Game",
       "url": "https://open.spotify.com/track/3RE6wbVJOxpE0CTTajuLPq"
@@ -6088,7 +6110,7 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 185293,
       "name": "Sara Smile",
       "url": "https://open.spotify.com/track/1qjrYozGqc7upUgfN776lZ"
@@ -6554,7 +6576,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 164173,
       "name": "Spooky",
       "url": "https://open.spotify.com/track/3MtP9T0WF4xbIo8vqHYeXM"
@@ -8638,7 +8660,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 187266,
       "name": "Your Precious Love",
       "url": "https://open.spotify.com/track/28ydVrYvtWIdwJO5MsUa2E"

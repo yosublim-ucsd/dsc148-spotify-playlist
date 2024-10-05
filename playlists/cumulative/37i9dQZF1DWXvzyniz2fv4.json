@@ -5,6 +5,40 @@
   "tracks": [
     {
       "album": {
+        "name": "+1 Pra Jah",
+        "url": "https://open.spotify.com/album/3oLmfaHYQfBTuacELzA2To"
+      },
+      "artists": [
+        {
+          "name": "Predella",
+          "url": "https://open.spotify.com/artist/3lMQtpA4i6FrIe6DmDfDVa"
+        },
+        {
+          "name": "Mc Kadu",
+          "url": "https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv"
+        },
+        {
+          "name": "Dj Murillo e LT no Beat",
+          "url": "https://open.spotify.com/artist/1Zl5Ac1YyOHBkJKInGxbaS"
+        },
+        {
+          "name": "Cidade Verde Sounds",
+          "url": "https://open.spotify.com/artist/2tVU8TVXlrwk6KESQxLwH8"
+        },
+        {
+          "name": "Mc PP da VS",
+          "url": "https://open.spotify.com/artist/2z8FuS3crq9QwDVKlR31hP"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329999,
+      "name": "+1 Pra Jah",
+      "url": "https://open.spotify.com/track/6EWAYE0qxsgHy9PvKi8B90"
+    },
+    {
+      "album": {
         "name": "27 Dias",
         "url": "https://open.spotify.com/album/6qT1jE8wcY0PvuV9gBBjOX"
       },
@@ -326,7 +360,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 353814,
       "name": "Andar Sozinho",
       "url": "https://open.spotify.com/track/12ai0My0EHz7QCUIZ4VTZ3"
@@ -486,7 +520,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-27",
+      "date_removed": null,
       "duration_ms": 228191,
       "name": "Bem Vindx \u00e0 Lyra",
       "url": "https://open.spotify.com/track/2qQpfNUbSknXrr3p467tRj"
@@ -516,7 +550,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 162000,
       "name": "Boa Noite Mo\u00e7a",
       "url": "https://open.spotify.com/track/2PbzRTnmac3yqvI1bjk1ri"
@@ -638,7 +672,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 166615,
       "name": "Carolina",
       "url": "https://open.spotify.com/track/10f31lUtjFtbbOH01HT3ja"
@@ -988,7 +1022,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 168960,
       "name": "De F\u00e9rias Com O WEY",
       "url": "https://open.spotify.com/track/44gLlJcTjyTRJ2KFip1I6r"
@@ -1084,7 +1118,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-30",
+      "date_removed": null,
       "duration_ms": 170700,
       "name": "Deixa Queimar",
       "url": "https://open.spotify.com/track/6jj0UwiD4y1LnlNJ5FuxZf"
@@ -1254,7 +1288,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-29",
+      "date_removed": null,
       "duration_ms": 206210,
       "name": "Doses",
       "url": "https://open.spotify.com/track/6wlLKk88zURUCDZqKwwqFr"
@@ -1272,7 +1306,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 168976,
       "name": "DOUTOR",
       "url": "https://open.spotify.com/track/0vDhaB1GfGp1lpzVipq4pR"
@@ -1338,7 +1372,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 175000,
       "name": "Ela \u00c9 Um V\u00edcio",
       "url": "https://open.spotify.com/track/4rn4T3egGnLa8i7TsKaozp"
@@ -1710,7 +1744,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-27",
+      "date_removed": null,
       "duration_ms": 252367,
       "name": "Guts Sessions #1: Menina Linda",
       "url": "https://open.spotify.com/track/1Mh5FuKoe5I0UvfzjYYkMQ"
@@ -2240,7 +2274,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 194400,
       "name": "Mais Um Voo",
       "url": "https://open.spotify.com/track/39uMV1Ix79vlMNssVxACuU"
@@ -2288,7 +2322,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 186067,
       "name": "Manual Da Bandida",
       "url": "https://open.spotify.com/track/1Lgdi8yfpK2RTMHuJxHcAA"
@@ -2332,7 +2366,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-01",
+      "date_removed": null,
       "duration_ms": 105600,
       "name": "Mar Azul",
       "url": "https://open.spotify.com/track/0O7mQ3AEwQnfRctOT7n8tt"
@@ -2618,7 +2652,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 237419,
       "name": "Meu Passado",
       "url": "https://open.spotify.com/track/19rYsBUNClYidByVMkY3H1"
@@ -3028,7 +3062,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 186000,
       "name": "O Cravo e a Flor",
       "url": "https://open.spotify.com/track/7xWbDSH4hl6lQYAq3MKBec"
@@ -3238,7 +3272,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-03",
+      "date_removed": null,
       "duration_ms": 168292,
       "name": "Perto do Sol",
       "url": "https://open.spotify.com/track/7nnxD1h7mXYgWVTKsb2uib"
@@ -3412,10 +3446,32 @@
       ],
       "date_added": "2023-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 680816,
       "name": "Poesia Ac\u00fastica 15",
       "url": "https://open.spotify.com/track/1kolqJR4ZYYfuZy7v5GwBx"
+    },
+    {
+      "album": {
+        "name": "Poseidon",
+        "url": "https://open.spotify.com/album/408vTULsOGuZc8BvZ6wqAz"
+      },
+      "artists": [
+        {
+          "name": "Menestrel",
+          "url": "https://open.spotify.com/artist/4eQ4RMjplRznwHA1UBNnXT"
+        },
+        {
+          "name": "Beats By Hyden",
+          "url": "https://open.spotify.com/artist/2cUGt8RNoJuc6NOEIlqSDi"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178144,
+      "name": "Poseidon",
+      "url": "https://open.spotify.com/track/7bDg5jVkv41akvlmzTUYvv"
     },
     {
       "album": {
@@ -3886,7 +3942,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-27",
+      "date_removed": null,
       "duration_ms": 150361,
       "name": "Sabe Qual \u00c9",
       "url": "https://open.spotify.com/track/3mctWBqWWKZn7rsyjWVtDe"
@@ -4212,7 +4268,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-27",
+      "date_removed": null,
       "duration_ms": 128000,
       "name": "Stories",
       "url": "https://open.spotify.com/track/0ooXXsObAmmfgYEB9dlIdc"
@@ -4628,7 +4684,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-27",
+      "date_removed": null,
       "duration_ms": 169409,
       "name": "Vento Bom",
       "url": "https://open.spotify.com/track/3TstCrqLn3542vXjNKCpV2"

@@ -3607,6 +3607,24 @@
     },
     {
       "album": {
+        "name": "Casi Al 100",
+        "url": "https://open.spotify.com/album/4ocivrTU84q4h9EXtwJPAP"
+      },
+      "artists": [
+        {
+          "name": "Kevin Montero",
+          "url": "https://open.spotify.com/artist/6wsANrsSGqwAZLQeaYSXzV"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218365,
+      "name": "Casi Al 100",
+      "url": "https://open.spotify.com/track/34vXOwvcodMEKIwWioRIhe"
+    },
+    {
+      "album": {
         "name": "FELIZ CUMPLEA\u00d1OS FERXXO TE PIRATEAMOS EL \u00c1LBUM",
         "url": "https://open.spotify.com/album/7pijRxgRaBirPz6wDaJIp9"
       },
@@ -7064,7 +7082,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-24",
+      "date_removed": null,
       "duration_ms": 190560,
       "name": "Es un Secreto",
       "url": "https://open.spotify.com/track/7JwdbqIpiuWvGbRryKSuBz"
@@ -7100,7 +7118,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 192120,
       "name": "Es un Secreto",
       "url": "https://open.spotify.com/track/3KZCP2StVGdWkOKyRZNWA4"
@@ -11044,7 +11062,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 197920,
       "name": "LALA",
       "url": "https://open.spotify.com/track/7ABLbnD53cQK00mhcaOUVG"

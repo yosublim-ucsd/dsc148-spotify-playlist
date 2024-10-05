@@ -4,7 +4,7 @@
 
 > New and trending tracks from Texas Country icons and rising stars\. Cover: Jenna Paulette
 
-664 songs - 1 day 15 hr 35 min
+665 songs - 1 day 15 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -407,6 +407,7 @@
 | [OK Cowboy](https://open.spotify.com/track/01lARb2d5zmKIVUaHjSfZM) | [Catie Offerman](https://open.spotify.com/artist/5uB8p8cO6UniAn2rnOsaXT) | [OK Cowboy](https://open.spotify.com/album/0n9B105tgMqX1zG6qtvCoZ) | 3:24 | 2023-10-20 | 2024-01-29 |
 | [Oklahoma](https://open.spotify.com/track/6whzN4pEb9ArYN4z9FqijU) | [Casey Donahew](https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib) | [Oklahoma](https://open.spotify.com/album/4UjSoAyBIRZu3cGSEA6MXM) | 3:39 | 2023-11-17 |  |
 | [Oklahoma Smokeshow](https://open.spotify.com/track/0OWhKvvsHptt6vnnNUSM9a) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Summertime Blues](https://open.spotify.com/album/2qPki6xBkJ1Mbra43t7hnA) | 3:31 | 2022-09-02 | 2024-02-03 |
+| [Old Fashioned Feeling](https://open.spotify.com/track/1mlFsqgc3lgTCboLATYHBo) | [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi) | [Old Fashioned Feeling](https://open.spotify.com/album/3ojGoD6lwIzSjHKqgndFD9) | 3:22 | 2024-10-04 |  |
 | [On My Way](https://open.spotify.com/track/5KZzV6eNfHLFjQW4tSoTnr) | [Keller Cox](https://open.spotify.com/artist/7kxALHF5FOUlUZz3g67T1u) | [On My Way](https://open.spotify.com/album/18lEO0bUtImvRtUHn9FDgy) | 3:03 | 2022-06-10 | 2022-07-16 |
 | [Once in a Blue Moon](https://open.spotify.com/track/0T57qwTgUjH26XH3mmHWNq) | [Triston Marez](https://open.spotify.com/artist/34J7mIMU9nyg5px9m3ur88), [Jenna Paulette](https://open.spotify.com/artist/6wCypaPtud9fC2djKw9PDX) | [Once in a Blue Moon](https://open.spotify.com/album/7il1OFIKfeTBSiYBFlH1Mk) | 3:07 | 2022-04-01 | 2023-02-12 |
 | [One Honky Tonk Town](https://open.spotify.com/track/1j3aYPaCzk1ENO4dL9nxw5) | [David Adam Byrnes](https://open.spotify.com/artist/1A4vcbjzJ0M1wbuCqEY6cU) | [One Honky Tonk Town](https://open.spotify.com/album/1ZtExQ6KB7P60h9QyyC1VO) | 3:20 | 2022-04-29 | 2022-07-10 |
@@ -423,7 +424,7 @@
 | [Outlaws and Mustangs](https://open.spotify.com/track/3NfiPeYsjdrsyO4kVIEdtr) | [Cody Jinks](https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD) | [Outlaws and Mustangs](https://open.spotify.com/album/0Arug5WNIfQYYlkrN2q6Rs) | 4:00 | 2023-10-20 |  |
 | [Outta Dirt](https://open.spotify.com/track/0iUAgtPIBPFzAXqdy9sDb5) | [Rodell Duff](https://open.spotify.com/artist/4JMY9dX6C0SYxm1YEGAEky), [George Birge](https://open.spotify.com/artist/27R1aBy7FfkYevfYen4sMp) | [Outta Dirt](https://open.spotify.com/album/16CEupIepvrJlX6ay6NM9n) | 2:44 | 2023-09-01 |  |
 | [Outta the Country](https://open.spotify.com/track/7K4yuNVRCq5sAzXvAwwFdN) | [Cian Pedersen](https://open.spotify.com/artist/55iTDt1OrQMIHMNKHUPAaQ) | [Outta the Country](https://open.spotify.com/album/7l1wjpNRumuHLvNrIMdzQ6) | 3:12 | 2022-05-27 | 2022-07-09 |
-| [Over](https://open.spotify.com/track/1VbOWB3O8M0shS5fcMhlU8) | [The Droptines](https://open.spotify.com/artist/5MKl9FP3O6MpQhVx7QRFyc) | [The Droptines](https://open.spotify.com/album/6MA3iRkOZWHzGKsnoozibl) | 3:02 | 2024-02-02 |  |
+| [Over](https://open.spotify.com/track/1VbOWB3O8M0shS5fcMhlU8) | [The Droptines](https://open.spotify.com/artist/5MKl9FP3O6MpQhVx7QRFyc) | [The Droptines](https://open.spotify.com/album/6MA3iRkOZWHzGKsnoozibl) | 3:02 | 2024-02-02 | 2024-10-05 |
 | [Pancho and Lefty](https://open.spotify.com/track/6j3GYmozEYsyunxO0RH2Wg) | [Shane Smith & the Saints](https://open.spotify.com/artist/4pLxUMyDrijXynrUP59whJ), [Hayes Carll](https://open.spotify.com/artist/6UWifcscEdbjPgmbevBxZV) | [Pancho and Lefty](https://open.spotify.com/album/6Pv3AMeGAbaucnS8aeatwX) | 5:09 | 2023-08-18 | 2024-08-31 |
 | [Peace and Quiet](https://open.spotify.com/track/5gyC7qx0Cc6SF98AmchcoT) | [Drew Kennedy](https://open.spotify.com/artist/6nxLsUCzEsyK6B4nIqZFmT) | [Peace and Quiet](https://open.spotify.com/album/6SiiVm6Fp8U8onjRUtR2mT) | 3:50 | 2022-05-20 | 2022-07-09 |
 | [Pedal Steel](https://open.spotify.com/track/6cwZuax4oVUxdOMudUo2dQ) | [Amanda Kate Ferris](https://open.spotify.com/artist/70fLCgRxbluMfGRaiWAr49) | [Pedal Steel](https://open.spotify.com/album/3C2sVGBUwQKqRlY6QCC7Rs) | 3:40 | 2023-03-10 | 2023-07-01 |

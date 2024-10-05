@@ -14649,6 +14649,24 @@
     },
     {
       "album": {
+        "name": "\u9f8d\u9cf4",
+        "url": "https://open.spotify.com/album/5N7mbahzhR82Legypi8Vd6"
+      },
+      "artists": [
+        {
+          "name": "\u738b\u6668\u5b87IceCraz",
+          "url": "https://open.spotify.com/artist/2Hn1JOz00GeUV7iEfdYfYM"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140198,
+      "name": "\u9f8d\u9cf4",
+      "url": "https://open.spotify.com/track/2MWKC5HFNdjrcitnXKOz8O"
+    },
+    {
+      "album": {
         "name": "G\u958b\u982d",
         "url": "https://open.spotify.com/album/7GzXDyBSsYU4H05d8kGwaK"
       },

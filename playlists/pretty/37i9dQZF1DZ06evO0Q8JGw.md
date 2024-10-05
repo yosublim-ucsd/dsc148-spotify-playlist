@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Q8JGw.md) - [plain]
 
 ### [This Is Pearl Jam](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0Q8JGw)
 
-> This is Pearl Jam\. Todos os maiores hits em uma só playlist.
+> This is Pearl Jam\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 763,075 likes - 49 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 763,147 likes - 49 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,9 +41,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Q8JGw.md) - [plain]
 | 31 | [Running](https://open.spotify.com/track/6EnWm7fQBUku6EuNc3xPmi) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Dark Matter](https://open.spotify.com/album/7MNrrItJpom6uMJWdT0XD8) | 2:19 |
 | 32 | [Immortality \- Remastered](https://open.spotify.com/track/5TxUedy2CM04QihDdOFnsk) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Vitalogy](https://open.spotify.com/album/5pd9B3KQWKshHw4lnsSLNy) | 5:18 |
 | 33 | [Go \- Remastered](https://open.spotify.com/track/7M1L2Cv5025QeywNsdfPDK) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Vs.](https://open.spotify.com/album/3BSOiAas8BpJOii3kCPyjV) | 3:13 |
-| 34 | [Come Back](https://open.spotify.com/track/0sHdUji2tWxiRDfShSWHUN) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Pearl Jam](https://open.spotify.com/album/5PY2mZGCOMezmWH7hiCwFH) | 5:26 |
+| 34 | [Unthought Known](https://open.spotify.com/track/0mGBA5vtFH58DucfqaW6oG) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Backspacer](https://open.spotify.com/album/4DCwNXpnKEBYbls0T4LQzN) | 4:08 |
 | 35 | [Upper Hand](https://open.spotify.com/track/15tI78zBMKToM9A4Bq0TsF) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Dark Matter](https://open.spotify.com/album/7MNrrItJpom6uMJWdT0XD8) | 5:57 |
-| 36 | [Unthought Known](https://open.spotify.com/track/0mGBA5vtFH58DucfqaW6oG) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Backspacer](https://open.spotify.com/album/4DCwNXpnKEBYbls0T4LQzN) | 4:08 |
+| 36 | [Come Back](https://open.spotify.com/track/0sHdUji2tWxiRDfShSWHUN) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Pearl Jam](https://open.spotify.com/album/5PY2mZGCOMezmWH7hiCwFH) | 5:26 |
 | 37 | [Off He Goes](https://open.spotify.com/track/0G6qDSSFmjzb9N0PK8PjGm) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [No Code](https://open.spotify.com/album/3FKhxgSZdtJBIjdHsjbxI0) | 5:58 |
 | 38 | [Future Days](https://open.spotify.com/track/22sDLvlzAJzH0BHiMSOfRP) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Lightning Bolt](https://open.spotify.com/album/01WEcEzoa9mfh8fIDhvV1M) | 4:22 |
 | 39 | [Man of the Hour](https://open.spotify.com/track/6WcIDvzwZDqarmaHDy3DoR) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [rearviewmirror \(greatest hits 1991\-2003\)](https://open.spotify.com/album/1G1R5dY01DSyti3NaWnOp3) | 3:43 |
@@ -53,9 +53,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Q8JGw.md) - [plain]
 | 43 | [Dance Of The Clairvoyants](https://open.spotify.com/track/58AraOVFl5hUtZuPvaOXFw) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Gigaton](https://open.spotify.com/album/5bTixyz2GHx1YUqNUdzfut) | 4:25 |
 | 44 | [Light Years](https://open.spotify.com/track/1Tnixg8lMEydzmBsZzxQpR) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Binaural](https://open.spotify.com/album/1RuYprt6Qlqu286h1f4dzZ) | 5:06 |
 | 45 | [Smile](https://open.spotify.com/track/5707A8XNKQT26Ciek7H9KV) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [No Code](https://open.spotify.com/album/3FKhxgSZdtJBIjdHsjbxI0) | 3:51 |
-| 46 | [Getaway](https://open.spotify.com/track/5NHZFD1TXeBwAFV3EzRKjT) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Lightning Bolt](https://open.spotify.com/album/01WEcEzoa9mfh8fIDhvV1M) | 3:26 |
-| 47 | [Spin the Black Circle \- Remastered](https://open.spotify.com/track/7Al0ADUt8SCPiQIBbTcNdR) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Vitalogy](https://open.spotify.com/album/5pd9B3KQWKshHw4lnsSLNy) | 2:47 |
+| 46 | [Spin the Black Circle \- Remastered](https://open.spotify.com/track/7Al0ADUt8SCPiQIBbTcNdR) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Vitalogy](https://open.spotify.com/album/5pd9B3KQWKshHw4lnsSLNy) | 2:47 |
+| 47 | [Getaway](https://open.spotify.com/track/5NHZFD1TXeBwAFV3EzRKjT) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Lightning Bolt](https://open.spotify.com/album/01WEcEzoa9mfh8fIDhvV1M) | 3:26 |
 | 48 | [Present Tense](https://open.spotify.com/track/679zqcQuKakOGI93NPCqB8) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [No Code](https://open.spotify.com/album/3FKhxgSZdtJBIjdHsjbxI0) | 5:45 |
 | 49 | [Hail, Hail](https://open.spotify.com/track/5cpnyC2TLztgxOWNzoxqbY) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [No Code](https://open.spotify.com/album/3FKhxgSZdtJBIjdHsjbxI0) | 3:41 |
 
-Snapshot ID: `ZvyNAAAAAAAOErA/Dji73x9K18quB34e`
+Snapshot ID: `Zv3egAAAAABU8QcUuWmYNl+Thict45ON`

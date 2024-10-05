@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXG4Kg5rawni.md) - [plain]
 
 > Amor abençoado por Deus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,135 likes - 65 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,151 likes - 65 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXG4Kg5rawni.md) - [plain]
 | 5 | [Que Bom Você Chegou](https://open.spotify.com/track/2lzxlbHjyE0us72Q3LRV5A) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Bruna Karla Falando de Amor](https://open.spotify.com/album/1q2US0j78yaS4FJNIfrJ28) | 4:25 |
 | 6 | [Só Você](https://open.spotify.com/track/14rFBRzVUWjVqo9qAHJFxt) | [Anderson Freire](https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B) | [Amo Você Vol\. 17](https://open.spotify.com/album/1TrtJ1uPEolNGRW4tC2QzM) | 3:22 |
 | 7 | [Te Amaria Outra Vez](https://open.spotify.com/track/4ZkGjVqwuUurX1BD89CJFh) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Fernanda Brum \- Falando de Amor](https://open.spotify.com/album/3FKNtBneKWOHMAr7GyuPeE) | 4:23 |
-| 8 | [A Bênção do Senhor](https://open.spotify.com/track/483Dxv8LdL4Ink5r6g8ZB9) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [A Bênção do Senhor](https://open.spotify.com/album/6JYB97cfmq5wOBa2u0ZvY9) | 4:10 |
-| 9 | [A Dois](https://open.spotify.com/track/6Y6BkX0NThqimi5UxWLeG9) | [Paulo Cesar Baruk](https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD) | [A Dois](https://open.spotify.com/album/0cEbSXoFpciH0qSdL4SU1T) | 3:56 |
+| 8 | [A Dois](https://open.spotify.com/track/6Y6BkX0NThqimi5UxWLeG9) | [Paulo Cesar Baruk](https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD) | [A Dois](https://open.spotify.com/album/0cEbSXoFpciH0qSdL4SU1T) | 3:56 |
+| 9 | [A Bênção do Senhor](https://open.spotify.com/track/483Dxv8LdL4Ink5r6g8ZB9) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [A Bênção do Senhor](https://open.spotify.com/album/6JYB97cfmq5wOBa2u0ZvY9) | 4:10 |
 | 10 | [Beijo no Altar](https://open.spotify.com/track/2WOezAtyBM1RupEiU70bpp) | [Wilian Nascimento](https://open.spotify.com/artist/4PjjeofQKolTepWdilslSR) | [Wilian Nascimento Falando de Amor](https://open.spotify.com/album/66cFFmk9f3pqGsvVVYaDXj) | 4:21 |
 | 11 | [Mais \- Studio Session](https://open.spotify.com/track/0o6nEehnkqsyy1J4pMvoEZ) | [Amanda Rodrigues](https://open.spotify.com/artist/02UTfx9pxLYkiuMENQe2IW), [Pedro Mariano](https://open.spotify.com/artist/3flF2SJ6De8yPikxEI5bpY) | [Mais \(Studio Session\)](https://open.spotify.com/album/4jSX0OJw7dzgzvT3GSWleW) | 4:10 |
 | 12 | [Escolhi Te Esperar](https://open.spotify.com/track/0Ifj8NQ3Xl2Ia9s6XCphrz) | [Marcela Tais](https://open.spotify.com/artist/5gkNoT08CuWtH3NOwrdvrt) | [Cabelo solto \- Playback](https://open.spotify.com/album/2FoLg1Bm7PED4YTIayK0Cg) | 3:56 |
@@ -28,11 +28,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXG4Kg5rawni.md) - [plain]
 | 18 | [Meu Bem](https://open.spotify.com/track/10xATNb0pIGuxHD31B6EFb) | [Marcela Tais](https://open.spotify.com/artist/5gkNoT08CuWtH3NOwrdvrt) | [Meu Bem](https://open.spotify.com/album/5EXAIjwCYVpVZ5xEgWF4Dd) | 3:50 |
 | 19 | [Disse Sim](https://open.spotify.com/track/3nzRymxESTUVKiIJ2Hr7jy) | [Mariana Aguiar](https://open.spotify.com/artist/5htTpNujBXYl3Dtsdw3fOw) | [Disse Sim](https://open.spotify.com/album/05znoZeEDSkuU66gVAEi9Y) | 3:21 |
 | 20 | [A Perfeição de Deus](https://open.spotify.com/track/4Y2OYqXrNvozhJn8QY7UAO) | [Ton Carfi](https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756) | [Cantando o Amor Vol\. 2](https://open.spotify.com/album/2T1fi32Ku2MXPzS0NQlCOU) | 5:03 |
-| 21 | [À Moda Antiga](https://open.spotify.com/track/4B5Wm6heL2bPEPYytaEfmL) | [Lu Alone](https://open.spotify.com/artist/352auYzmQ8KYsRjM2bFD8U) | [À Moda Antiga](https://open.spotify.com/album/09VERYRPeBBYDhlDcJMDaB) | 3:02 |
-| 22 | [Meu Sonho](https://open.spotify.com/track/3gpr0jaK2CXuv2EZKAHHGd) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Eyshila Falando de Amor](https://open.spotify.com/album/34ioOgwliXxkWJ6aJOn96Y) | 4:18 |
-| 23 | [Como Eu Não Poderia Amar Você](https://open.spotify.com/track/4iN9STysQ3gjrpsKkv8EoW) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Como Eu Não Poderia Amar Você](https://open.spotify.com/album/7rFskntBzgFrrDxG76VHCT) | 4:27 |
+| 21 | [Meu Sonho](https://open.spotify.com/track/3gpr0jaK2CXuv2EZKAHHGd) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Eyshila Falando de Amor](https://open.spotify.com/album/34ioOgwliXxkWJ6aJOn96Y) | 4:18 |
+| 22 | [Deus Me Deu Você](https://open.spotify.com/track/2UfgNRxseC9S9Hmf8sW7tm) | [Thiago e Jéssica](https://open.spotify.com/artist/47Avc96OLqdMeyZldOlIhF) | [Deus Me Deu Você](https://open.spotify.com/album/27QzsDGSDFsnEQMqf6CyOl) | 4:23 |
+| 23 | [À Moda Antiga](https://open.spotify.com/track/4B5Wm6heL2bPEPYytaEfmL) | [Lu Alone](https://open.spotify.com/artist/352auYzmQ8KYsRjM2bFD8U) | [À Moda Antiga](https://open.spotify.com/album/09VERYRPeBBYDhlDcJMDaB) | 3:02 |
 | 24 | [Don Juan](https://open.spotify.com/track/1y3SxHr9aDEcy69mabuDBE) | [Wilian Nascimento](https://open.spotify.com/artist/4PjjeofQKolTepWdilslSR) | [Wilian Nascimento Falando de Amor](https://open.spotify.com/album/66cFFmk9f3pqGsvVVYaDXj) | 3:27 |
-| 25 | [Deus Me Deu Você](https://open.spotify.com/track/2UfgNRxseC9S9Hmf8sW7tm) | [Thiago e Jéssica](https://open.spotify.com/artist/47Avc96OLqdMeyZldOlIhF) | [Deus Me Deu Você](https://open.spotify.com/album/27QzsDGSDFsnEQMqf6CyOl) | 4:23 |
+| 25 | [Como Eu Não Poderia Amar Você](https://open.spotify.com/track/4iN9STysQ3gjrpsKkv8EoW) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Como Eu Não Poderia Amar Você](https://open.spotify.com/album/7rFskntBzgFrrDxG76VHCT) | 4:27 |
 | 26 | [Te Amo](https://open.spotify.com/track/4ri0UC7hws6BdVYyrKMSCg) | [Bruna Karla e Anderson Freire](https://open.spotify.com/artist/6atbugoUErn0KuLPnAvvi0) | [Amo Você Vol\. 17](https://open.spotify.com/album/1TrtJ1uPEolNGRW4tC2QzM) | 3:40 |
 | 27 | [Eu te Amo](https://open.spotify.com/track/3r9MGWtEhYs21v7HGpDa2X) | [Paloma Possi](https://open.spotify.com/artist/322iN0WHlqAkxvgRrYpikS), [Melk Vilar](https://open.spotify.com/artist/6jNeGEo4cKvVRmsKwwJyvN) | [Cantando o Amor Vol\. 2](https://open.spotify.com/album/2T1fi32Ku2MXPzS0NQlCOU) | 4:17 |
 | 28 | [Isso é Amor](https://open.spotify.com/track/4zmStTJkuik7l8IJA0BeaM) | [Paulo Cesar Baruk](https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD), [Rebeca Nemer](https://open.spotify.com/artist/1mQU9ZMrrU8FcbjfePJBsk) | [Cantando o Amor Vol\. 2](https://open.spotify.com/album/2T1fi32Ku2MXPzS0NQlCOU) | 3:52 |

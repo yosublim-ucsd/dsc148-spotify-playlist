@@ -4,7 +4,7 @@
 
 > De beste nieuwe releases van de week! Cover: Coldplay
 
-8,102 songs - 17 day 16 hr 43 min
+8,103 songs - 17 day 16 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3291,6 +3291,7 @@
 | [I Do](https://open.spotify.com/track/0QTI2S5oOheSLU8WQuGmja) | [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434) | [Beste Zangers 2023 \(Duncan Laurence\)](https://open.spotify.com/album/7d9Z8E52D6So8lzxJQ67y3) | 2:51 | 2023-09-07 | 2023-09-15 |
 | [I Do](https://open.spotify.com/track/3hloQkKHL9wqfkt15VnSW6) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [I Do](https://open.spotify.com/album/1g8m9B1I0HHfvNCwYqGETM) | 2:46 | 2024-02-09 | 2024-02-16 |
 | [I Do](https://open.spotify.com/track/6sl8thmAsTzYfVw3jJ9z49) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Snow Angel \(Deluxe\)](https://open.spotify.com/album/7pPV0OFuytqNj7ar82Hizf) | 2:39 | 2023-11-16 | 2023-11-25 |
+| [I Do \(feat\. Muni Long\)](https://open.spotify.com/track/5TbYIeYkGgGtYL7sms7m9N) | [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [JADED](https://open.spotify.com/album/1XcpYmfE4vYCKeLQYINlO7) | 2:46 | 2024-10-03 |  |
 | [I Don't Care](https://open.spotify.com/track/2UIKMsHPB8n4E0ci2wvftx) | [Mark Sixma](https://open.spotify.com/artist/3ePCIHipMKD4n8IBXBYWSm), [Achilles](https://open.spotify.com/artist/1BgLi10FdtjQtMigV9Ddka) | [Crash & Smile in Dada Land \- May](https://open.spotify.com/album/4PjuJ33WzlVy4RpcxLCKJ1) | 3:04 | 2023-05-25 | 2023-06-02 |
 | [I Don't Know What To Do With Myself](https://open.spotify.com/track/5vYT5IoyVtv69d22ESm7Zy) | [Lucas Hamming](https://open.spotify.com/artist/4iDpNIlF0YzksZ35iQf196) | [Moodswings Vol\. 1](https://open.spotify.com/album/2Opvrg2V3WLYA4NcTjMrrg) | 3:11 | 2023-11-09 | 2023-11-17 |
 | [I don't mind](https://open.spotify.com/track/7HROxTv7ex1luLOecAHLLC) | [The Mercians](https://open.spotify.com/artist/0kz8fYoOzRWWWBVjyI98mE) | [I don't mind](https://open.spotify.com/album/0ZyNRuCQVQ3wYvMFowfnvI) | 2:46 | 2023-04-06 | 2023-04-14 |

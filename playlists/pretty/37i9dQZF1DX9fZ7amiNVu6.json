@@ -1,6 +1,6 @@
 {
   "description": "Kick back and enjoy these classic summer songs.",
-  "num_followers": 448884,
+  "num_followers": 448908,
   "original_name": "Feel Good Summer",
   "owner": {
     "name": "Spotify",
@@ -283,22 +283,6 @@
     {
       "added_at": "2024-07-14 16:19:42",
       "album": {
-        "name": "Stealers Wheel",
-        "url": "https://open.spotify.com/album/5ApN9lqru1t3Xh1IaEGTll"
-      },
-      "artists": [
-        {
-          "name": "Stealers Wheel",
-          "url": "https://open.spotify.com/artist/7bPU7cvfoD20ixGD9Qnqki"
-        }
-      ],
-      "duration_ms": 208946,
-      "name": "Stuck In The Middle With You",
-      "url": "https://open.spotify.com/track/3Vby4nGmtbDo7HDJamOWkT"
-    },
-    {
-      "added_at": "2024-07-14 16:19:42",
-      "album": {
         "name": "Oh, Pretty Woman",
         "url": "https://open.spotify.com/album/2jTbcSPVTBRAoc3mHU6hy0"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 178933,
       "name": "Oh, Pretty Woman",
       "url": "https://open.spotify.com/track/48i055G1OT5KxGGftwFxWy"
+    },
+    {
+      "added_at": "2024-07-14 16:19:42",
+      "album": {
+        "name": "Stealers Wheel",
+        "url": "https://open.spotify.com/album/5ApN9lqru1t3Xh1IaEGTll"
+      },
+      "artists": [
+        {
+          "name": "Stealers Wheel",
+          "url": "https://open.spotify.com/artist/7bPU7cvfoD20ixGD9Qnqki"
+        }
+      ],
+      "duration_ms": 208946,
+      "name": "Stuck In The Middle With You",
+      "url": "https://open.spotify.com/track/3Vby4nGmtbDo7HDJamOWkT"
     },
     {
       "added_at": "2024-07-14 16:19:42",
@@ -443,22 +443,6 @@
     {
       "added_at": "2024-07-14 16:19:42",
       "album": {
-        "name": "Idlewild South (Deluxe Edition Remastered)",
-        "url": "https://open.spotify.com/album/1K9yhJFW4FR8Rc1VURWA5T"
-      },
-      "artists": [
-        {
-          "name": "Allman Brothers Band",
-          "url": "https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR"
-        }
-      ],
-      "duration_ms": 180066,
-      "name": "Midnight Rider",
-      "url": "https://open.spotify.com/track/1hHGUdFaiJHw9hVZGJWYO2"
-    },
-    {
-      "added_at": "2024-07-14 16:19:42",
-      "album": {
         "name": "Bridge Over Troubled Water",
         "url": "https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 174826,
       "name": "Cecilia",
       "url": "https://open.spotify.com/track/6QhXQOpyYvbpdbyjgAqKdY"
+    },
+    {
+      "added_at": "2024-07-14 16:19:42",
+      "album": {
+        "name": "Idlewild South (Deluxe Edition Remastered)",
+        "url": "https://open.spotify.com/album/1K9yhJFW4FR8Rc1VURWA5T"
+      },
+      "artists": [
+        {
+          "name": "Allman Brothers Band",
+          "url": "https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR"
+        }
+      ],
+      "duration_ms": 180066,
+      "name": "Midnight Rider",
+      "url": "https://open.spotify.com/track/1hHGUdFaiJHw9hVZGJWYO2"
     },
     {
       "added_at": "2024-07-14 16:19:42",
@@ -863,22 +863,6 @@
     {
       "added_at": "2024-07-14 16:19:42",
       "album": {
-        "name": "Chicago V (Expanded & Remastered)",
-        "url": "https://open.spotify.com/album/2oSXXINsWGuEsc4udgWxh8"
-      },
-      "artists": [
-        {
-          "name": "Chicago",
-          "url": "https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0"
-        }
-      ],
-      "duration_ms": 235666,
-      "name": "Saturday in the Park - 2002 Remaster",
-      "url": "https://open.spotify.com/track/4OJFkrRQqol4FsPesF8eu4"
-    },
-    {
-      "added_at": "2024-07-14 16:19:42",
-      "album": {
         "name": "Everybody Loves The Sunshine (Reissue)",
         "url": "https://open.spotify.com/album/5JehGpTedBPXzhUcwXoIlf"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 239666,
       "name": "Everybody Loves The Sunshine",
       "url": "https://open.spotify.com/track/5le4sn0iMcnKU56bdmNzso"
+    },
+    {
+      "added_at": "2024-07-14 16:19:42",
+      "album": {
+        "name": "Tapestry",
+        "url": "https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS"
+      },
+      "artists": [
+        {
+          "name": "Carole King",
+          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
+        }
+      ],
+      "duration_ms": 178560,
+      "name": "I Feel the Earth Move",
+      "url": "https://open.spotify.com/track/1BWsOxeMx83OrKGCV4gxly"
     },
     {
       "added_at": "2024-07-14 16:19:42",
@@ -911,18 +911,18 @@
     {
       "added_at": "2024-07-14 16:19:42",
       "album": {
-        "name": "Tapestry",
-        "url": "https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS"
+        "name": "Chicago V (Expanded & Remastered)",
+        "url": "https://open.spotify.com/album/2oSXXINsWGuEsc4udgWxh8"
       },
       "artists": [
         {
-          "name": "Carole King",
-          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
+          "name": "Chicago",
+          "url": "https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0"
         }
       ],
-      "duration_ms": 178560,
-      "name": "I Feel the Earth Move",
-      "url": "https://open.spotify.com/track/1BWsOxeMx83OrKGCV4gxly"
+      "duration_ms": 235666,
+      "name": "Saturday in the Park - 2002 Remaster",
+      "url": "https://open.spotify.com/track/4OJFkrRQqol4FsPesF8eu4"
     },
     {
       "added_at": "2024-07-14 16:19:42",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2024-07-14 16:19:42",
       "album": {
-        "name": "We All Are One: The Best Of Jimmy Cliff",
-        "url": "https://open.spotify.com/album/0g0F1l0hQ1nZTelBbmlmB5"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Cliff",
-          "url": "https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "I Can See Clearly Now",
-      "url": "https://open.spotify.com/track/7aJZxI6TVdIvQSuWxQ4rqp"
-    },
-    {
-      "added_at": "2024-07-14 16:19:42",
-      "album": {
         "name": "Disraeli Gears",
         "url": "https://open.spotify.com/album/6fRqzJT070Kp9RWlSXmKcY"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 250000,
       "name": "Sunshine Of Your Love",
       "url": "https://open.spotify.com/track/6FRwDxXsvSasw0y2eDArsz"
+    },
+    {
+      "added_at": "2024-07-14 16:19:42",
+      "album": {
+        "name": "We All Are One: The Best Of Jimmy Cliff",
+        "url": "https://open.spotify.com/album/0g0F1l0hQ1nZTelBbmlmB5"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Cliff",
+          "url": "https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "I Can See Clearly Now",
+      "url": "https://open.spotify.com/track/7aJZxI6TVdIvQSuWxQ4rqp"
     },
     {
       "added_at": "2024-07-14 16:19:42",
@@ -1299,6 +1299,22 @@
     {
       "added_at": "2024-07-14 16:19:42",
       "album": {
+        "name": "Under the Boardwalk",
+        "url": "https://open.spotify.com/album/7AgI5vniflcbh86Znea7yM"
+      },
+      "artists": [
+        {
+          "name": "The Drifters",
+          "url": "https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT"
+        }
+      ],
+      "duration_ms": 157173,
+      "name": "Up on the Roof",
+      "url": "https://open.spotify.com/track/7cNRqg0lbiqBaGeOlA4AEU"
+    },
+    {
+      "added_at": "2024-07-14 16:19:42",
+      "album": {
         "name": "The Age Of Aquarius",
         "url": "https://open.spotify.com/album/1kVipwgtVNAaHM7Py341Ch"
       },
@@ -1327,22 +1343,6 @@
       "duration_ms": 171360,
       "name": "This Will Be (An Everlasting Love) - 2003 Remaster",
       "url": "https://open.spotify.com/track/241RmK77gecJ1y7jOoQ5lu"
-    },
-    {
-      "added_at": "2024-07-14 16:19:42",
-      "album": {
-        "name": "Under the Boardwalk",
-        "url": "https://open.spotify.com/album/7AgI5vniflcbh86Znea7yM"
-      },
-      "artists": [
-        {
-          "name": "The Drifters",
-          "url": "https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT"
-        }
-      ],
-      "duration_ms": 157173,
-      "name": "Up on the Roof",
-      "url": "https://open.spotify.com/track/7cNRqg0lbiqBaGeOlA4AEU"
     },
     {
       "added_at": "2024-07-14 16:19:42",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2024-07-14 16:19:42",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/0UM9SydcBtsklCTFgGLvcT"
-      },
-      "artists": [
-        {
-          "name": "Sly & The Family Stone",
-          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
-        }
-      ],
-      "duration_ms": 157040,
-      "name": "Hot Fun in the Summertime",
-      "url": "https://open.spotify.com/track/4t6NQkpUmvpvLDCkl3XuwA"
-    },
-    {
-      "added_at": "2024-07-14 16:19:42",
-      "album": {
         "name": "Pipeline",
         "url": "https://open.spotify.com/album/272xBcLuC3UmRttQnvUIdn"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 139253,
       "name": "Pipeline",
       "url": "https://open.spotify.com/track/3Wwy5wlxd8CpKMZGc4Mgjf"
+    },
+    {
+      "added_at": "2024-07-14 16:19:42",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/0UM9SydcBtsklCTFgGLvcT"
+      },
+      "artists": [
+        {
+          "name": "Sly & The Family Stone",
+          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
+        }
+      ],
+      "duration_ms": 157040,
+      "name": "Hot Fun in the Summertime",
+      "url": "https://open.spotify.com/track/4t6NQkpUmvpvLDCkl3XuwA"
     },
     {
       "added_at": "2024-07-14 16:19:42",

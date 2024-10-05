@@ -4,7 +4,7 @@
 
 > Fearless sounds at the crossroads of country and folk\. Cover: Owen Riegling
 
-494 songs - 1 day 6 hr 7 min
+495 songs - 1 day 6 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -177,7 +177,7 @@
 | [Free in the Morning](https://open.spotify.com/track/4BfyZX63uVxk2cMPGhx9Iv) | [Steel Saddle](https://open.spotify.com/artist/5cTnIEVg8jeAcqzSYWT3ed) | [Steel Saddle](https://open.spotify.com/album/7ou48ilkhLeInWfpTeIwG6) | 3:16 | 2024-07-19 | 2024-07-27 |
 | [From Austin](https://open.spotify.com/track/3X0V4uEujns3TlpoDa2TvP) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [From Austin](https://open.spotify.com/album/2URKspvbbsk7oo4ISroxzG) | 3:27 | 2022-05-13 | 2022-08-27 |
 | [From Friends To Strangers](https://open.spotify.com/track/0cJJN21I6njClZyPJeXMgS) | [Geneviève Racette](https://open.spotify.com/artist/3puoZ6FIQPCCA2mX9Yh6fU) | [From Friends To Strangers](https://open.spotify.com/album/57gpvZPjR7eZACFtu0eZNf) | 3:15 | 2024-05-24 | 2024-07-27 |
-| [Funny Black Lines](https://open.spotify.com/track/6X6Znaazqzi1EHrGKPz2n2) | [Kieran Campbell](https://open.spotify.com/artist/0x1TEBrFldjKRcch1M7mjK) | [Funny Black Lines](https://open.spotify.com/album/6JaQdJcEU4rzdq3NjWDo7N) | 2:58 | 2023-10-27 |  |
+| [Funny Black Lines](https://open.spotify.com/track/6X6Znaazqzi1EHrGKPz2n2) | [Kieran Campbell](https://open.spotify.com/artist/0x1TEBrFldjKRcch1M7mjK) | [Funny Black Lines](https://open.spotify.com/album/6JaQdJcEU4rzdq3NjWDo7N) | 2:58 | 2023-10-27 | 2024-10-05 |
 | [Ghost Town](https://open.spotify.com/track/1wpANfPJEzSKc5JhEIGYQ1) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Million Eyes](https://open.spotify.com/album/5jrPhnzA00KBWc3bJJUqTY) | 2:48 | 2023-10-13 | 2023-11-18 |
 | [Ghost Town](https://open.spotify.com/track/2U8gE23QKFcJKNtOE39f50) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Ghost Town](https://open.spotify.com/album/6h4kEmbmGNXFEADoyjwIaK) | 2:48 | 2023-05-19 | 2023-10-20 |
 | [Give and Take](https://open.spotify.com/track/1m1yaWUGx0qQgl5bqGrcZm) | [Amy Blake](https://open.spotify.com/artist/3mgJBpa8Mp23JoxA1CWxol) | [Give and Take](https://open.spotify.com/album/6uiekTC9PgG5afPi4OWrNo) | 4:28 | 2022-05-13 | 2023-03-25 |
@@ -400,6 +400,7 @@
 | [Snakes and Waterfalls](https://open.spotify.com/track/684tjAMxT8Bdm7RSv6vgzC) | [Nick Shoulders](https://open.spotify.com/artist/4Vydw38lzh6aKIGqzZdwRS) | [Lonely Like Me](https://open.spotify.com/album/7yeUolKNVVSu3jpK5JuK3b) | 4:02 | 2023-04-21 | 2023-04-30 |
 | [Snakes and Waterfalls](https://open.spotify.com/track/6f3lNzsCCWKFWfAG4uuqpC) | [Nick Shoulders](https://open.spotify.com/artist/4Vydw38lzh6aKIGqzZdwRS) | [Lonely Like Me](https://open.spotify.com/album/2apvtGe2jSNLqT0vOJvwmf) | 4:02 | 2023-04-28 | 2024-04-19 |
 | [So Easy](https://open.spotify.com/track/1yVG9iuNxfOe30LRKy1dJf) | [Ariel Posen](https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y) | [Reasons Why](https://open.spotify.com/album/3RfPLlT6L2KXC1meUTVeoh) | 3:33 | 2023-09-08 | 2024-05-27 |
+| [Sober](https://open.spotify.com/track/7mZcHbpk2U6nZimDW4okd2) | [Bartees Strange](https://open.spotify.com/artist/6Gl4Q3ePw6HKMfIOix5QpG) | [Sober](https://open.spotify.com/album/0F6zv5oKgDzgI4NSDago87) | 3:41 | 2024-10-04 |  |
 | [Somebody Just Like Me](https://open.spotify.com/track/3N8P57zfeILMnUP90DZH40) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [BOOTCUT](https://open.spotify.com/album/3tvR5wPT639FKdAfdzPcuC) | 2:33 | 2023-07-14 | 2023-11-18 |
 | [Somebody Like You](https://open.spotify.com/track/3wlO7uuhoREZLDQtbnXjqu) | [Ken Presse](https://open.spotify.com/artist/0GAFnMAhzV7sDRxYu4AB7Z) | [Somebody Like You](https://open.spotify.com/album/21vWay9Lyd98bUJuYHmTXJ) | 3:21 | 2022-05-13 | 2022-08-06 |
 | [Something in the Orange](https://open.spotify.com/track/3WMj8moIAXJhHsyLaqIIHI) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Something in the Orange](https://open.spotify.com/album/1CmTOKCeyz1aHH04OwvTPv) | 3:48 | 2022-11-11 |  |

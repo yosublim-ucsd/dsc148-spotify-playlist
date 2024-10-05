@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "Fresh Latin pop on the rise. Cover: Humbe",
+  "description": "Fresh Latin pop on the rise. Cover: Ela Taubert",
   "name": "el nuevo pop",
   "tracks": [
     {
@@ -744,7 +744,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 196500,
       "name": "Alma",
       "url": "https://open.spotify.com/track/38DHJSK0GixJXoE1C9zexl"
@@ -878,6 +878,24 @@
       "duration_ms": 196000,
       "name": "Anoche",
       "url": "https://open.spotify.com/track/5cVzHV40StU3nmMBMKR4n6"
+    },
+    {
+      "album": {
+        "name": "Antes de Ti",
+        "url": "https://open.spotify.com/album/3xRcnSvQXy2zpTdmcJwKf5"
+      },
+      "artists": [
+        {
+          "name": "Delilah",
+          "url": "https://open.spotify.com/artist/5O2rJN2gJncIfM5iNSNiYR"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214552,
+      "name": "Antes de Ti",
+      "url": "https://open.spotify.com/track/0uzZEwZRambYj8Ar6RW3N1"
     },
     {
       "album": {
@@ -2892,7 +2910,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 173092,
       "name": "contra la corriente",
       "url": "https://open.spotify.com/track/1XJ77vGJYj4D0huExOdCCh"
@@ -4304,7 +4322,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 147468,
       "name": "Ella",
       "url": "https://open.spotify.com/track/1AhHMKj1fyenGv86vJLHQ6"
@@ -5704,7 +5722,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 150291,
       "name": "Hechizado",
       "url": "https://open.spotify.com/track/6IqqPa90DqA4LtgpF0ON0U"
@@ -8196,7 +8214,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 153431,
       "name": "Mi Lady",
       "url": "https://open.spotify.com/track/0f3W7KNHd2WOQed15FETCs"
@@ -9548,6 +9566,24 @@
       "duration_ms": 160826,
       "name": "Noche Fr\u00eda",
       "url": "https://open.spotify.com/track/6oCXKOBPwCE98zaHtbTMqD"
+    },
+    {
+      "album": {
+        "name": "NOMEVOY",
+        "url": "https://open.spotify.com/album/1FGsFJjH3esGA7sGj49TfU"
+      },
+      "artists": [
+        {
+          "name": "Immasoul",
+          "url": "https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158802,
+      "name": "NOMEVOY",
+      "url": "https://open.spotify.com/track/1lYgibYocdGNmsjyNHoaUe"
     },
     {
       "album": {
@@ -12637,6 +12673,24 @@
     },
     {
       "album": {
+        "name": "Summer En Par\u00eds",
+        "url": "https://open.spotify.com/album/3qLo8V07kEVNmjuklblbk5"
+      },
+      "artists": [
+        {
+          "name": "Loyal Lobos",
+          "url": "https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185720,
+      "name": "Summer En Par\u00eds",
+      "url": "https://open.spotify.com/track/3uunvMbxsCZmzgHmOJJe4Y"
+    },
+    {
+      "album": {
         "name": "Summer Nights",
         "url": "https://open.spotify.com/album/3noBkmNZz14QcgIRgIzAZQ"
       },
@@ -14724,6 +14778,24 @@
       "duration_ms": 167960,
       "name": "\u00bfPor Qu\u00e9 No Me Fui Antes?",
       "url": "https://open.spotify.com/track/6sYMPSRtbjiPjksAfrjszr"
+    },
+    {
+      "album": {
+        "name": "\u00bfPor Qu\u00e9 Soy As\u00ed?",
+        "url": "https://open.spotify.com/album/0nx6GtmpkRxmbj1gX2pRP2"
+      },
+      "artists": [
+        {
+          "name": "Ela Taubert",
+          "url": "https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189693,
+      "name": "\u00bfPor Qu\u00e9 Soy As\u00ed?",
+      "url": "https://open.spotify.com/track/1N9n5G6elGqnLm3KSVG7Ir"
     },
     {
       "album": {

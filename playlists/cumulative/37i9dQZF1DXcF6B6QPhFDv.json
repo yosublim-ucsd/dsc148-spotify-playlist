@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-10-20",
-  "description": "rock never dies | feel it in your bones.  \ud83d\udcf8: Linkin Park",
+  "description": "rock never dies | feel it in your bones.  \ud83d\udcf8: beabadoobee",
   "name": "MARROW",
   "tracks": [
     {
@@ -535,6 +535,24 @@
     },
     {
       "album": {
+        "name": "Always, Everytime",
+        "url": "https://open.spotify.com/album/3eJOnQipfXT3Z2ubwqb7sn"
+      },
+      "artists": [
+        {
+          "name": "The Wrecks",
+          "url": "https://open.spotify.com/artist/458aS6ALc3QkzwfR5USt34"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171748,
+      "name": "Always, Everytime",
+      "url": "https://open.spotify.com/track/1DbeTcnfS7kLnHhVsRlvqg"
+    },
+    {
+      "album": {
         "name": "RAT TRAP 5: the beginning",
         "url": "https://open.spotify.com/album/1VznxDXEvTGtos0ElI7CRn"
       },
@@ -672,7 +690,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 168488,
       "name": "Another High",
       "url": "https://open.spotify.com/track/2q5ByXv4sljfsPL3XvglUm"
@@ -1087,6 +1105,24 @@
     },
     {
       "album": {
+        "name": "Big Dreams",
+        "url": "https://open.spotify.com/album/7oHWgJ63008TX5ezUmGQKL"
+      },
+      "artists": [
+        {
+          "name": "Amyl and The Sniffers",
+          "url": "https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191700,
+      "name": "Big Dreams",
+      "url": "https://open.spotify.com/track/0lInhiFmT2Dk9RlJItxzIG"
+    },
+    {
+      "album": {
         "name": "All Born Screaming",
         "url": "https://open.spotify.com/album/3nRlJXz5W39luXRto5hc4f"
       },
@@ -1098,7 +1134,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 178722,
       "name": "Big Time Nothing",
       "url": "https://open.spotify.com/track/7F1xUyDoz9vSbwSaCryT5x"
@@ -1902,7 +1938,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 262653,
       "name": "Chicken",
       "url": "https://open.spotify.com/track/0nEVjbu58y0cghChyOoxW8"
@@ -1942,6 +1978,24 @@
       "duration_ms": 187920,
       "name": "clairbourne practice",
       "url": "https://open.spotify.com/track/0WOkDmX7J2SGm8MDe2rWBc"
+    },
+    {
+      "album": {
+        "name": "Clueless",
+        "url": "https://open.spotify.com/album/2H3XOt3oaqB6rAVKhmdUd3"
+      },
+      "artists": [
+        {
+          "name": "Beach Bunny",
+          "url": "https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208298,
+      "name": "Clueless",
+      "url": "https://open.spotify.com/track/55Hlg31EQDXQn71p1KIr8r"
     },
     {
       "album": {
@@ -2550,7 +2604,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 217765,
       "name": "Dirty Mirror Selfie",
       "url": "https://open.spotify.com/track/4qhudJ2bO4rZs4ANNPmJAI"
@@ -5144,7 +5198,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 275586,
       "name": "I Just Needed You To Know",
       "url": "https://open.spotify.com/track/1LCovl7CSqDuKJRlFQEA5V"
@@ -5927,6 +5981,24 @@
     },
     {
       "album": {
+        "name": "La fiesta",
+        "url": "https://open.spotify.com/album/6EYpdrkCw5yb5ltJc9S9gw"
+      },
+      "artists": [
+        {
+          "name": "shego",
+          "url": "https://open.spotify.com/artist/1DiDa1DfTjldKJQeonyP33"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158870,
+      "name": "La fiesta",
+      "url": "https://open.spotify.com/track/1xus48hrSAzqjkjnhwtDnl"
+    },
+    {
+      "album": {
         "name": "Landmines",
         "url": "https://open.spotify.com/album/4qbFtX3gAZCiNDkkDMYGCR"
       },
@@ -6314,6 +6386,24 @@
       "duration_ms": 241222,
       "name": "Line It Up (feat. LP)",
       "url": "https://open.spotify.com/track/6pt3VzqcJ5jIUR5JyBtkmW"
+    },
+    {
+      "album": {
+        "name": "Living A Lie",
+        "url": "https://open.spotify.com/album/5zkvA4NOwqPYSf0Tm5AEBg"
+      },
+      "artists": [
+        {
+          "name": "The Amazons",
+          "url": "https://open.spotify.com/artist/7243txmysJ4KbRmH8UAMKO"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273337,
+      "name": "Living A Lie",
+      "url": "https://open.spotify.com/track/60m6nJnTF7AFOztDSmYqMh"
     },
     {
       "album": {
@@ -7080,6 +7170,28 @@
       "duration_ms": 134373,
       "name": "Metaverse",
       "url": "https://open.spotify.com/track/56awJyqhhuQW0p0bu1yTCo"
+    },
+    {
+      "album": {
+        "name": "Mi Tormenta (feat. DannyLux)",
+        "url": "https://open.spotify.com/album/2fQK7PAhWR8oEsS7nqQCCs"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        },
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202479,
+      "name": "Mi Tormenta (feat. DannyLux)",
+      "url": "https://open.spotify.com/track/2aWBskyssdR9VyVV3dH65j"
     },
     {
       "album": {
@@ -10884,7 +10996,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 206563,
       "name": "Stranger",
       "url": "https://open.spotify.com/track/2ysmyfV4hwLGsHjowCN3GU"
@@ -10920,7 +11032,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 153603,
       "name": "STRAY",
       "url": "https://open.spotify.com/track/7MCtZJoabikk4AVQp8o6rP"
@@ -12349,6 +12461,24 @@
     },
     {
       "album": {
+        "name": "Tiny Screens",
+        "url": "https://open.spotify.com/album/1ZeGBiEqsfeO25dU7kid1p"
+      },
+      "artists": [
+        {
+          "name": "Chloe Slater",
+          "url": "https://open.spotify.com/artist/43R8Umt7qVmJCcOZGWJy24"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178015,
+      "name": "Tiny Screens",
+      "url": "https://open.spotify.com/track/0P25VNpeP4L3NMOEMI68Yp"
+    },
+    {
+      "album": {
         "name": "Tippa My Tongue",
         "url": "https://open.spotify.com/album/58As6ZmLLmhtkF8l5voV9p"
       },
@@ -12630,7 +12760,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 206659,
       "name": "U Should Not Be Doing That",
       "url": "https://open.spotify.com/track/3gq0rDxpS9e6sbO72PBWbn"
@@ -12774,7 +12904,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 148326,
       "name": "Vertigo",
       "url": "https://open.spotify.com/track/7q32daOSf12k8WynvXBcyh"
@@ -13306,6 +13436,24 @@
       "duration_ms": 193886,
       "name": "when we were young",
       "url": "https://open.spotify.com/track/5wTfzzRW8ddRdgW2kASbox"
+    },
+    {
+      "album": {
+        "name": "Feeling Not Found",
+        "url": "https://open.spotify.com/album/4tljXNTOiaHaXiKMhqLdyj"
+      },
+      "artists": [
+        {
+          "name": "Origami Angel",
+          "url": "https://open.spotify.com/artist/0cmSXx965Hnm6fP42oW6vY"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200292,
+      "name": "Where Blue Light Blooms",
+      "url": "https://open.spotify.com/track/5JK1baqYwbfNQaLkwaLEdX"
     },
     {
       "album": {

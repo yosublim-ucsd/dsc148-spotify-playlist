@@ -1,6 +1,6 @@
 {
   "description": "D\u00e9couvrez les artistes \u00e0 l'affiche de l\u2019\u00e9dition 2024 des Francos de Montr\u00e9al.",
-  "num_followers": 6447,
+  "num_followers": 6451,
   "original_name": "Francos de Montr\u00e9al 2024",
   "owner": {
     "name": "Spotify",
@@ -951,26 +951,6 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "J'aime quand on danse (tes mains sur mes hanches)",
-        "url": "https://open.spotify.com/album/5CN5KW3obIjkuigvnQ8SfV"
-      },
-      "artists": [
-        {
-          "name": "Lydia K\u00e9pinski",
-          "url": "https://open.spotify.com/artist/6lqpzCZWhymonpvpAVKx0C"
-        },
-        {
-          "name": "Les Louanges",
-          "url": "https://open.spotify.com/artist/57GQLJX1O8guO5PVj46e6l"
-        }
-      ],
-      "duration_ms": 214647,
-      "name": "J'aime quand on danse (tes mains sur mes hanches)",
-      "url": "https://open.spotify.com/track/2j1yHPxBBPfz8jgr4eSnp9"
-    },
-    {
-      "added_at": "2024-06-19 20:38:05",
-      "album": {
         "name": "TPL",
         "url": "https://open.spotify.com/album/3xASLbzCdazOv4wGh3oHmZ"
       },
@@ -987,26 +967,22 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "Sauvage",
-        "url": "https://open.spotify.com/album/4MJxVWiDg1K9hs7QLeORHt"
+        "name": "J'aime quand on danse (tes mains sur mes hanches)",
+        "url": "https://open.spotify.com/album/5CN5KW3obIjkuigvnQ8SfV"
       },
       "artists": [
         {
-          "name": "Los Eclipses",
-          "url": "https://open.spotify.com/artist/21EtvnD59JJJiUP0qZP7WY"
+          "name": "Lydia K\u00e9pinski",
+          "url": "https://open.spotify.com/artist/6lqpzCZWhymonpvpAVKx0C"
         },
         {
-          "name": "Eva de Marce",
-          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
-        },
-        {
-          "name": "Dan Solo",
-          "url": "https://open.spotify.com/artist/7E1ZwNnXreZgJpmTNUJva7"
+          "name": "Les Louanges",
+          "url": "https://open.spotify.com/artist/57GQLJX1O8guO5PVj46e6l"
         }
       ],
-      "duration_ms": 331746,
-      "name": "Sauvage",
-      "url": "https://open.spotify.com/track/3ZUyQN89uCsjlLKIOvfYxb"
+      "duration_ms": 214647,
+      "name": "J'aime quand on danse (tes mains sur mes hanches)",
+      "url": "https://open.spotify.com/track/2j1yHPxBBPfz8jgr4eSnp9"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -1039,6 +1015,30 @@
       "duration_ms": 178426,
       "name": "Alice",
       "url": "https://open.spotify.com/track/6ybS1WcfNXf1hmx8bE3lgi"
+    },
+    {
+      "added_at": "2024-06-19 20:38:05",
+      "album": {
+        "name": "Sauvage",
+        "url": "https://open.spotify.com/album/4MJxVWiDg1K9hs7QLeORHt"
+      },
+      "artists": [
+        {
+          "name": "Los Eclipses",
+          "url": "https://open.spotify.com/artist/21EtvnD59JJJiUP0qZP7WY"
+        },
+        {
+          "name": "Eva de Marce",
+          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
+        },
+        {
+          "name": "Dan Solo",
+          "url": "https://open.spotify.com/artist/7E1ZwNnXreZgJpmTNUJva7"
+        }
+      ],
+      "duration_ms": 331746,
+      "name": "Sauvage",
+      "url": "https://open.spotify.com/track/3ZUyQN89uCsjlLKIOvfYxb"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "Emmanuelle",
-        "url": "https://open.spotify.com/album/7EAwquK65E1LEcnBJS7Ply"
-      },
-      "artists": [
-        {
-          "name": "Rosie Valland",
-          "url": "https://open.spotify.com/artist/4lJWbDc6yz6JDL99fbSq5C"
-        }
-      ],
-      "duration_ms": 146853,
-      "name": "Non merci",
-      "url": "https://open.spotify.com/track/0dawdOrZLjHjKDlh0oMV0Y"
-    },
-    {
-      "added_at": "2024-06-19 20:38:05",
-      "album": {
         "name": "\u00c9chapper \u00e0 la nuit",
         "url": "https://open.spotify.com/album/7tuf8ByiAjlsfAEMjuxdBy"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 191360,
       "name": "Je vais te faire danser",
       "url": "https://open.spotify.com/track/5vnSIodkn5kokXyxJXs76l"
+    },
+    {
+      "added_at": "2024-06-19 20:38:05",
+      "album": {
+        "name": "Emmanuelle",
+        "url": "https://open.spotify.com/album/7EAwquK65E1LEcnBJS7Ply"
+      },
+      "artists": [
+        {
+          "name": "Rosie Valland",
+          "url": "https://open.spotify.com/artist/4lJWbDc6yz6JDL99fbSq5C"
+        }
+      ],
+      "duration_ms": 146853,
+      "name": "Non merci",
+      "url": "https://open.spotify.com/track/0dawdOrZLjHjKDlh0oMV0Y"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "La nuit s'ach\u00e8ve",
-        "url": "https://open.spotify.com/album/3NqfaAqglu8mp1Nny0vOZS"
-      },
-      "artists": [
-        {
-          "name": "Valence",
-          "url": "https://open.spotify.com/artist/64SLcw5gWgSlsdXNQfEs44"
-        }
-      ],
-      "duration_ms": 190506,
-      "name": "Onze",
-      "url": "https://open.spotify.com/track/34X5qDkzSrzpKhKjHb5RCk"
-    },
-    {
-      "added_at": "2024-06-19 20:38:05",
-      "album": {
         "name": "Et on pleurera ensemble",
         "url": "https://open.spotify.com/album/1xS5iWIeXKgWqNfWX1x7CM"
       },
@@ -1223,18 +1207,18 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "Les gens qu'on aime",
-        "url": "https://open.spotify.com/album/66ONm5qZ9HVGandRHuk4O9"
+        "name": "La nuit s'ach\u00e8ve",
+        "url": "https://open.spotify.com/album/3NqfaAqglu8mp1Nny0vOZS"
       },
       "artists": [
         {
-          "name": "Philippe Brach",
-          "url": "https://open.spotify.com/artist/1ZyKRTkzuio6OSVVGeVgQt"
+          "name": "Valence",
+          "url": "https://open.spotify.com/artist/64SLcw5gWgSlsdXNQfEs44"
         }
       ],
-      "duration_ms": 229253,
-      "name": "Last Call",
-      "url": "https://open.spotify.com/track/6RSUIrQvidRiMwNIKQTze0"
+      "duration_ms": 190506,
+      "name": "Onze",
+      "url": "https://open.spotify.com/track/34X5qDkzSrzpKhKjHb5RCk"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -1251,6 +1235,22 @@
       "duration_ms": 191603,
       "name": "Anyway, Mommy Love",
       "url": "https://open.spotify.com/track/3rKIdoC3bgM6UoiRQvvDdi"
+    },
+    {
+      "added_at": "2024-06-19 20:38:05",
+      "album": {
+        "name": "Les gens qu'on aime",
+        "url": "https://open.spotify.com/album/66ONm5qZ9HVGandRHuk4O9"
+      },
+      "artists": [
+        {
+          "name": "Philippe Brach",
+          "url": "https://open.spotify.com/artist/1ZyKRTkzuio6OSVVGeVgQt"
+        }
+      ],
+      "duration_ms": 229253,
+      "name": "Last Call",
+      "url": "https://open.spotify.com/track/6RSUIrQvidRiMwNIKQTze0"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "Jour",
-        "url": "https://open.spotify.com/album/1WbuV4tbecNNhcudpZn8hS"
-      },
-      "artists": [
-        {
-          "name": "Walter Astral",
-          "url": "https://open.spotify.com/artist/70OFPH4Nv3kFhCgUU9oGqC"
-        }
-      ],
-      "duration_ms": 205855,
-      "name": "Soleil",
-      "url": "https://open.spotify.com/track/5DqD5ofjvx3AnXMDPgyUnX"
-    },
-    {
-      "added_at": "2024-06-19 20:38:05",
-      "album": {
         "name": "Du feu dans les lilas",
         "url": "https://open.spotify.com/album/2gpYjjb2JFM6B6VwHQNE5V"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 211600,
       "name": "Derri\u00e8re le jour",
       "url": "https://open.spotify.com/track/24Wd3taBrCp1XibT2sr6Kp"
+    },
+    {
+      "added_at": "2024-06-19 20:38:05",
+      "album": {
+        "name": "Jour",
+        "url": "https://open.spotify.com/album/1WbuV4tbecNNhcudpZn8hS"
+      },
+      "artists": [
+        {
+          "name": "Walter Astral",
+          "url": "https://open.spotify.com/artist/70OFPH4Nv3kFhCgUU9oGqC"
+        }
+      ],
+      "duration_ms": 205855,
+      "name": "Soleil",
+      "url": "https://open.spotify.com/track/5DqD5ofjvx3AnXMDPgyUnX"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "La fess\u00e9e",
-        "url": "https://open.spotify.com/album/0TXhfvemA79THgrX4Jcwet"
-      },
-      "artists": [
-        {
-          "name": "Raccoon",
-          "url": "https://open.spotify.com/artist/7nzgBxjw2Co88MGWjMnl4c"
-        }
-      ],
-      "duration_ms": 237691,
-      "name": "La fess\u00e9e",
-      "url": "https://open.spotify.com/track/58yY0A77OhfNWhTJ6wyWW1"
-    },
-    {
-      "added_at": "2024-06-19 20:38:05",
-      "album": {
         "name": "SAC \u00c0 SURPRISE",
         "url": "https://open.spotify.com/album/2YEflT4OhLEpsQWoNsaP8E"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 169567,
       "name": "\u00c7A APPELLE",
       "url": "https://open.spotify.com/track/7lVXC2IpkKj7J91C3mVdaS"
+    },
+    {
+      "added_at": "2024-06-19 20:38:05",
+      "album": {
+        "name": "La fess\u00e9e",
+        "url": "https://open.spotify.com/album/0TXhfvemA79THgrX4Jcwet"
+      },
+      "artists": [
+        {
+          "name": "Raccoon",
+          "url": "https://open.spotify.com/artist/7nzgBxjw2Co88MGWjMnl4c"
+        }
+      ],
+      "duration_ms": 237691,
+      "name": "La fess\u00e9e",
+      "url": "https://open.spotify.com/track/58yY0A77OhfNWhTJ6wyWW1"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "Il n'y a rien que je ne suis pas",
-        "url": "https://open.spotify.com/album/7yn7BiFIFfeTwf5V42Eu6S"
-      },
-      "artists": [
-        {
-          "name": "Arielle Soucy",
-          "url": "https://open.spotify.com/artist/6xeAWvZ8hB33vfmGeyLPoG"
-        }
-      ],
-      "duration_ms": 172500,
-      "name": "Promenade",
-      "url": "https://open.spotify.com/track/5YJYDoASP3gSBP3oApGsPX"
-    },
-    {
-      "added_at": "2024-06-19 20:38:05",
-      "album": {
         "name": "C'est pire et c'est mieux",
         "url": "https://open.spotify.com/album/1gs9QEyRSZHgDr3edcKzD8"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 196572,
       "name": "C'est pire et c'est mieux",
       "url": "https://open.spotify.com/track/2nQSmjPsB6EmGUSTGf5AlF"
+    },
+    {
+      "added_at": "2024-06-19 20:38:05",
+      "album": {
+        "name": "Il n'y a rien que je ne suis pas",
+        "url": "https://open.spotify.com/album/7yn7BiFIFfeTwf5V42Eu6S"
+      },
+      "artists": [
+        {
+          "name": "Arielle Soucy",
+          "url": "https://open.spotify.com/artist/6xeAWvZ8hB33vfmGeyLPoG"
+        }
+      ],
+      "duration_ms": 172500,
+      "name": "Promenade",
+      "url": "https://open.spotify.com/track/5YJYDoASP3gSBP3oApGsPX"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -1659,6 +1659,22 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
+        "name": "Don't Lose The Funk",
+        "url": "https://open.spotify.com/album/1OCeIkoYpv3BEJskCa7bQw"
+      },
+      "artists": [
+        {
+          "name": "Arielle Roberge",
+          "url": "https://open.spotify.com/artist/3vlFs1TJBZwN7WY1v6nkNe"
+        }
+      ],
+      "duration_ms": 247687,
+      "name": "Don't Lose The Funk",
+      "url": "https://open.spotify.com/track/1QZlFIvEatwyW17faW1GOg"
+    },
+    {
+      "added_at": "2024-06-19 20:38:05",
+      "album": {
         "name": "AlgeVita",
         "url": "https://open.spotify.com/album/5cH69HuM6EUg7Onj2rMzbt"
       },
@@ -1675,18 +1691,18 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "Don't Lose The Funk",
-        "url": "https://open.spotify.com/album/1OCeIkoYpv3BEJskCa7bQw"
+        "name": "Revoir le monde",
+        "url": "https://open.spotify.com/album/5CR4XEKyc3ipMnKjevgkfk"
       },
       "artists": [
         {
-          "name": "Arielle Roberge",
-          "url": "https://open.spotify.com/artist/3vlFs1TJBZwN7WY1v6nkNe"
+          "name": "Michelle & Les Gar\u00e7ons",
+          "url": "https://open.spotify.com/artist/4pkiINtgqRjnKwflzhlH2z"
         }
       ],
-      "duration_ms": 247687,
-      "name": "Don't Lose The Funk",
-      "url": "https://open.spotify.com/track/1QZlFIvEatwyW17faW1GOg"
+      "duration_ms": 168680,
+      "name": "Revoir le monde",
+      "url": "https://open.spotify.com/track/2EOIAHCr3irNh5NEhv0qzN"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -1707,22 +1723,6 @@
       "duration_ms": 203322,
       "name": "Chien Mang\u00e9 Chien",
       "url": "https://open.spotify.com/track/46fStnezu8JLXjCJd7gQUN"
-    },
-    {
-      "added_at": "2024-06-19 20:38:05",
-      "album": {
-        "name": "Revoir le monde",
-        "url": "https://open.spotify.com/album/5CR4XEKyc3ipMnKjevgkfk"
-      },
-      "artists": [
-        {
-          "name": "Michelle & Les Gar\u00e7ons",
-          "url": "https://open.spotify.com/artist/4pkiINtgqRjnKwflzhlH2z"
-        }
-      ],
-      "duration_ms": 168680,
-      "name": "Revoir le monde",
-      "url": "https://open.spotify.com/track/2EOIAHCr3irNh5NEhv0qzN"
     },
     {
       "added_at": "2024-06-19 20:38:05",

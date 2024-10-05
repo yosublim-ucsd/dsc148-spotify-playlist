@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Serj Tankian on top of today's best Metal playlist.",
+  "description": "Mastodon on top of today's best Metal playlist.",
   "name": "Kickass Metal",
   "tracks": [
     {
@@ -485,6 +485,24 @@
     },
     {
       "album": {
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/5Vk1XNAWSV7mWfTnSM6qlB"
+      },
+      "artists": [
+        {
+          "name": "Seven Hours After Violet",
+          "url": "https://open.spotify.com/artist/55VwLwkPAOGFgYdU3QwE8Z"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189604,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/4xjIW6ZI4SL0DKya6P4ECA"
+    },
+    {
+      "album": {
         "name": "Lifestyles of the Sick & Dangerous",
         "url": "https://open.spotify.com/album/2kcAri2GgDTQD7k8k727Mb"
       },
@@ -766,6 +784,24 @@
       "duration_ms": 221340,
       "name": "Antimatter",
       "url": "https://open.spotify.com/track/4b3FN7tBCRrkLcbN5ae4v9"
+    },
+    {
+      "album": {
+        "name": "Exhibition Of Prowess",
+        "url": "https://open.spotify.com/album/3UqEHbnms5ixC6YPuPZTfi"
+      },
+      "artists": [
+        {
+          "name": "Kublai Khan TX",
+          "url": "https://open.spotify.com/artist/5BIOo2mCAokFcLHXO2Llb4"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 56897,
+      "name": "Antpile 2",
+      "url": "https://open.spotify.com/track/2RUoqLciHUTzsrzPW1czjT"
     },
     {
       "album": {
@@ -4155,6 +4191,24 @@
     },
     {
       "album": {
+        "name": "Every Bridge Burning",
+        "url": "https://open.spotify.com/album/269SQRalfaebSVSDnIQe1g"
+      },
+      "artists": [
+        {
+          "name": "Nails",
+          "url": "https://open.spotify.com/artist/69a2GzMCkrrTrN9iVmP8Ys"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117743,
+      "name": "Every Bridge Burning",
+      "url": "https://open.spotify.com/track/63wgvClNeIgTujtmiY1Peh"
+    },
+    {
+      "album": {
         "name": "Evidence",
         "url": "https://open.spotify.com/album/3mL6qoKcWmnbwNP3ycAqEG"
       },
@@ -5459,6 +5513,24 @@
     },
     {
       "album": {
+        "name": "Hatred",
+        "url": "https://open.spotify.com/album/7sIHuZVKvvgzknGjVmBoHc"
+      },
+      "artists": [
+        {
+          "name": "Paleface Swiss",
+          "url": "https://open.spotify.com/artist/467M2s2YxXdlL2ZpDUNL3A"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183964,
+      "name": "Hatred",
+      "url": "https://open.spotify.com/track/4OfKo7WsPOqueL2V2YmK7c"
+    },
+    {
+      "album": {
         "name": "HAWATARI NIOKU CENTI [2-hundred-million-centimeter-long blades] (TV edit)",
         "url": "https://open.spotify.com/album/22bkV1gcP9weQRmRktdCM4"
       },
@@ -6274,6 +6346,24 @@
       "duration_ms": 213345,
       "name": "In Your Head",
       "url": "https://open.spotify.com/track/5xp2T1ghPN6uNOfeoqD0uY"
+    },
+    {
+      "album": {
+        "name": "Infested",
+        "url": "https://open.spotify.com/album/0kjUWh9d41E0oZbberxxqV"
+      },
+      "artists": [
+        {
+          "name": "Bodysnatcher",
+          "url": "https://open.spotify.com/artist/2tCl0ipvwJJRJLAuIGf6tm"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238053,
+      "name": "Infested",
+      "url": "https://open.spotify.com/track/1cEnkOGW4qXk7QIm2bAq8W"
     },
     {
       "album": {
@@ -7240,7 +7330,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 197437,
       "name": "Lubricant Like Kerosene",
       "url": "https://open.spotify.com/track/1YKw45N7mTTsuyZPxe4Klz"
@@ -7714,7 +7804,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 228493,
       "name": "Murder8",
       "url": "https://open.spotify.com/track/1iujWexZauOlEulLxjEzKm"
@@ -8430,7 +8520,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 258857,
       "name": "Okapi",
       "url": "https://open.spotify.com/track/50KjEgqnSXYfNGSbtV4zjq"
@@ -8564,6 +8654,24 @@
       "duration_ms": 182963,
       "name": "Only Human (feat. AJ Channer)",
       "url": "https://open.spotify.com/track/4AsbaXQRctKkAJ8IWGAarU"
+    },
+    {
+      "album": {
+        "name": "Devoured by the Mouth of Hell",
+        "url": "https://open.spotify.com/album/4vZr6vNAUHUjLNmbjGI62l"
+      },
+      "artists": [
+        {
+          "name": "Heriot",
+          "url": "https://open.spotify.com/artist/49O77SKrEk1b9sNjhI0kM4"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201466,
+      "name": "Opaline",
+      "url": "https://open.spotify.com/track/3LMWOBPxDCAdJXaQfcSjk1"
     },
     {
       "album": {
@@ -9040,7 +9148,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 219775,
       "name": "PLAYING FAVORITES",
       "url": "https://open.spotify.com/track/5tX2K6XrciEGZeMPEyNA0t"
@@ -9170,6 +9278,28 @@
       "duration_ms": 204000,
       "name": "PSYCHO",
       "url": "https://open.spotify.com/track/4hML3fFHY3xtJdGqlmNgw0"
+    },
+    {
+      "album": {
+        "name": "Psychopath (feat. Joe Bad)",
+        "url": "https://open.spotify.com/album/5qrhkfZ4OYytIfpglXgihZ"
+      },
+      "artists": [
+        {
+          "name": "Body Count",
+          "url": "https://open.spotify.com/artist/5KCph1z3jaSwhtwPzoYp6i"
+        },
+        {
+          "name": "Joe Bad",
+          "url": "https://open.spotify.com/artist/1GI7k8gduzXUlQrnH3Aizp"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199586,
+      "name": "Psychopath (feat. Joe Bad)",
+      "url": "https://open.spotify.com/track/0xbDLHfn1F4FGNExKmNEpR"
     },
     {
       "album": {
@@ -9588,7 +9718,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 223405,
       "name": "Ritual",
       "url": "https://open.spotify.com/track/1PVD8pnxk9bRaiBnGTJRA1"
@@ -9896,7 +10026,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 330453,
       "name": "Screaming Suicide",
       "url": "https://open.spotify.com/track/2hBn08QphNtdnhwDNtnZMg"
@@ -10757,6 +10887,24 @@
     },
     {
       "album": {
+        "name": "Spirit Of No Return",
+        "url": "https://open.spotify.com/album/4io0QUe3HCaYXFH2j1cBFn"
+      },
+      "artists": [
+        {
+          "name": "Soilwork",
+          "url": "https://open.spotify.com/artist/7wqP36o9lqWteOCxBnXlwx"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294026,
+      "name": "Spirit Of No Return",
+      "url": "https://open.spotify.com/track/1hihjb5dQTw4otuRxQy5cj"
+    },
+    {
+      "album": {
         "name": "YOU DON\u2019T KNOW WHAT LOVE MEANS",
         "url": "https://open.spotify.com/album/1BfOMEIpEQE8Xj2yYJLHPR"
       },
@@ -11274,7 +11422,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 54242,
       "name": "Supreme Ruler",
       "url": "https://open.spotify.com/track/55QDYIACL3Ze1gWBjVBUXz"
@@ -12038,6 +12186,28 @@
       "duration_ms": 244186,
       "name": "The Needless End",
       "url": "https://open.spotify.com/track/5xwl73peQHvNesc12UVNwC"
+    },
+    {
+      "album": {
+        "name": "The Path",
+        "url": "https://open.spotify.com/album/4iZM0ieSYmfdxaPrKceTu5"
+      },
+      "artists": [
+        {
+          "name": "Sylosis",
+          "url": "https://open.spotify.com/artist/2RiGIRDi4GoJpDbjDnPVJl"
+        },
+        {
+          "name": "Heriot",
+          "url": "https://open.spotify.com/artist/49O77SKrEk1b9sNjhI0kM4"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291639,
+      "name": "The Path",
+      "url": "https://open.spotify.com/track/1O3LoiZkCtRgW3AWJ5z7fp"
     },
     {
       "album": {
@@ -13140,7 +13310,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 219330,
       "name": "Villain Arc",
       "url": "https://open.spotify.com/track/1uX9dEAb6lIuAgndCYZcQl"
@@ -13390,7 +13560,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 214710,
       "name": "Wash It Away",
       "url": "https://open.spotify.com/track/0sTCKil0qqD6PDco3M6iyn"

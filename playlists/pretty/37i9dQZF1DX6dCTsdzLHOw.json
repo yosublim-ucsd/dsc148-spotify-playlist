@@ -1,15 +1,15 @@
 {
   "description": "Don't spill your popcorn... these scary movie themes will scare the bejeezus out of you!",
-  "num_followers": 28248,
+  "num_followers": 28261,
   "original_name": "Fright Fest",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZgKkqwAAAADf4sDOifiGedPO+4lK51zB",
+  "snapshot_id": "Zv/B3wAAAAABdCctpad8ZpxRAyyQPBn+",
   "tracks": [
     {
-      "added_at": "2024-03-26 10:34:19",
+      "added_at": "2024-10-04 10:22:23",
       "album": {
         "name": "Halloween Themes / Horror Movie Music That Will Scare You More Than Sound Fx",
         "url": "https://open.spotify.com/album/0ZbEWtaLdNW3MNbeFf7ZVf"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/40cXtLMqZo33qFeY2uVhFn"
     },
     {
-      "added_at": "2024-03-26 10:34:19",
+      "added_at": "2024-10-04 10:22:23",
       "album": {
         "name": "Halloween Party",
         "url": "https://open.spotify.com/album/1AQGra8TF7PX94whCy7tsY"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/2hJyhHWeDrnTuy24TtD4sd"
     },
     {
-      "added_at": "2024-03-26 10:34:19",
+      "added_at": "2024-10-04 10:22:23",
       "album": {
         "name": "Horror Movie Themes",
         "url": "https://open.spotify.com/album/6Chs33S4yeaFZn5HDI6g5S"
@@ -57,7 +57,7 @@
       "url": "https://open.spotify.com/track/6St1IyTh829WEWRP1wXVXc"
     },
     {
-      "added_at": "2024-03-26 10:34:19",
+      "added_at": "2024-10-04 10:22:23",
       "album": {
         "name": "Stranger Things, Vol. 1 (A Netflix Original Series Soundtrack)",
         "url": "https://open.spotify.com/album/1puplOrvmUGoq2VxsB0ENJ"
@@ -73,7 +73,27 @@
       "url": "https://open.spotify.com/track/0kwuKfWntoGh0EWyYb7Mpf"
     },
     {
-      "added_at": "2024-03-26 10:34:19",
+      "added_at": "2024-10-04 10:22:23",
+      "album": {
+        "name": "Agatha's Theme (From \"Agatha All Along\")",
+        "url": "https://open.spotify.com/album/3AMZyBSKCheBzS2Gg1VrD1"
+      },
+      "artists": [
+        {
+          "name": "Christophe Beck",
+          "url": "https://open.spotify.com/artist/1GjWNGbMtHDQ7CNYf2d7cw"
+        },
+        {
+          "name": "Michael Paraskevas",
+          "url": "https://open.spotify.com/artist/4fIXHW5d4kdlUQq5NWqi84"
+        }
+      ],
+      "duration_ms": 131416,
+      "name": "Agatha's Theme - From \"Agatha All Along\"",
+      "url": "https://open.spotify.com/track/6CFQUEanwUiBxW5rfsh590"
+    },
+    {
+      "added_at": "2024-10-04 10:22:23",
       "album": {
         "name": "Halloween Motion Picture Soundtrack",
         "url": "https://open.spotify.com/album/1eA3cq4WvDR4yVKChvZewP"
@@ -89,7 +109,23 @@
       "url": "https://open.spotify.com/track/7swocJUCUWTCiRUAU9oerC"
     },
     {
-      "added_at": "2024-03-26 10:34:19",
+      "added_at": "2024-10-04 10:22:23",
+      "album": {
+        "name": "Tim Burton's Corpse Bride Original Motion Picture Soundtrack (U.S. Release)",
+        "url": "https://open.spotify.com/album/7EB12gs5cyRcj9TsdZwYEd"
+      },
+      "artists": [
+        {
+          "name": "Danny Elfman",
+          "url": "https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD"
+        }
+      ],
+      "duration_ms": 88213,
+      "name": "Moon Dance",
+      "url": "https://open.spotify.com/track/1sttnTNN2V2KHi7TQzN9Fz"
+    },
+    {
+      "added_at": "2024-10-04 10:22:23",
       "album": {
         "name": "Jaws (The Collector's Edition Soundtrack)",
         "url": "https://open.spotify.com/album/6qUytVWmtw4xh2tjCv39GE"
@@ -105,7 +141,7 @@
       "url": "https://open.spotify.com/track/1g10rYqM3jJQsWRnXCFcx7"
     },
     {
-      "added_at": "2024-03-26 10:34:19",
+      "added_at": "2024-10-04 10:22:23",
       "album": {
         "name": "80 Great Movie Themes",
         "url": "https://open.spotify.com/album/2x9EQrzdD7mkgoR7EsOEpu"
@@ -121,7 +157,23 @@
       "url": "https://open.spotify.com/track/0MtSRAb1ELE19QvKBumQqy"
     },
     {
-      "added_at": "2024-03-26 10:34:19",
+      "added_at": "2024-10-04 10:22:23",
+      "album": {
+        "name": "Hocus Pocus (Original Score)",
+        "url": "https://open.spotify.com/album/35HW28UZvr9UghP8Ras6mu"
+      },
+      "artists": [
+        {
+          "name": "John Debney",
+          "url": "https://open.spotify.com/artist/7mCsyzq823cXJ5puxUN3aJ"
+        }
+      ],
+      "duration_ms": 342906,
+      "name": "Witches' Lair",
+      "url": "https://open.spotify.com/track/03kJgSqwHoHGMnjMjs3b9j"
+    },
+    {
+      "added_at": "2024-10-04 10:22:23",
       "album": {
         "name": "IT (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5tVCAKqFXuBvDMO5Jh3dZF"
@@ -137,7 +189,23 @@
       "url": "https://open.spotify.com/track/3UJWTHeEruyf2rWAf518hf"
     },
     {
-      "added_at": "2024-03-26 10:34:19",
+      "added_at": "2024-10-04 10:22:23",
+      "album": {
+        "name": "The Haunting of Bly Manor (Music from the Netflix Horror Series)",
+        "url": "https://open.spotify.com/album/3Aszp8uII3RV05ZZJ7mpBo"
+      },
+      "artists": [
+        {
+          "name": "The Newton Brothers",
+          "url": "https://open.spotify.com/artist/7dlJy6RJTqYprtHmWYBOv3"
+        }
+      ],
+      "duration_ms": 124346,
+      "name": "Perfectly Splendid",
+      "url": "https://open.spotify.com/track/2fi4FCGkSNtCA771jNOggL"
+    },
+    {
+      "added_at": "2024-10-04 10:22:23",
       "album": {
         "name": "Twin Peaks: Fire Walk With Me - Soundtrack",
         "url": "https://open.spotify.com/album/7KTThkarRqhJX5DVkDOo7Z"
@@ -153,7 +221,23 @@
       "url": "https://open.spotify.com/track/6ov87ZmFzA62REV8KrbWXj"
     },
     {
-      "added_at": "2024-03-26 10:34:19",
+      "added_at": "2024-10-04 10:22:23",
+      "album": {
+        "name": "Harry Potter and The Chamber of Secrets/ Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/5nzzU118YRlXdhjRMb3fq0"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        }
+      ],
+      "duration_ms": 272866,
+      "name": "The Spiders",
+      "url": "https://open.spotify.com/track/2hmrTlC0t5Izl3V8ISdg8b"
+    },
+    {
+      "added_at": "2024-10-04 10:22:23",
       "album": {
         "name": "Bram Stoker's Dracula: Original Motion Picture Soundtrack",
         "url": "https://open.spotify.com/album/4WDRuinnAhb1taYx3RNAxr"
@@ -169,7 +253,7 @@
       "url": "https://open.spotify.com/track/00De7REGurYkmfrKAh6CU1"
     },
     {
-      "added_at": "2024-03-26 10:34:19",
+      "added_at": "2024-10-04 10:22:23",
       "album": {
         "name": "Van Helsing (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4VckGtju6IjUW2SbRl4FTb"
@@ -185,7 +269,23 @@
       "url": "https://open.spotify.com/track/5aiYeHriQN24oORufX8KrT"
     },
     {
-      "added_at": "2024-03-26 10:34:19",
+      "added_at": "2024-10-04 10:22:23",
+      "album": {
+        "name": "Crimson Peak (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1h4VIVpLvycmVgk021TBpM"
+      },
+      "artists": [
+        {
+          "name": "Fernando Vel\u00e1zquez",
+          "url": "https://open.spotify.com/artist/2pElTJJ5D3ziEPyvZsW5eF"
+        }
+      ],
+      "duration_ms": 101373,
+      "name": "Lullaby Variation",
+      "url": "https://open.spotify.com/track/1qflgCdJ1A7a2U5wtfK31h"
+    },
+    {
+      "added_at": "2024-10-04 10:22:23",
       "album": {
         "name": "Friday the 13th (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5pI4R0WAaQLHywFINSqaHl"
@@ -201,7 +301,39 @@
       "url": "https://open.spotify.com/track/1bBvch0ad2VfBuPUXJTV8I"
     },
     {
-      "added_at": "2024-03-26 10:34:19",
+      "added_at": "2024-10-04 10:22:23",
+      "album": {
+        "name": "Bagman (Original Motion Picture Score)",
+        "url": "https://open.spotify.com/album/31gOi5lxTcVv9DJpFdoC9o"
+      },
+      "artists": [
+        {
+          "name": "Timothy Williams",
+          "url": "https://open.spotify.com/artist/3rYGGDSKzvvH2JdqgVvfee"
+        }
+      ],
+      "duration_ms": 127080,
+      "name": "Bagman Main Title",
+      "url": "https://open.spotify.com/track/6kYndH7CwSzuZcitSXDZ67"
+    },
+    {
+      "added_at": "2024-10-04 10:22:23",
+      "album": {
+        "name": "Knives Out (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5SjrBY5Dguvw7UYDIC9Fut"
+      },
+      "artists": [
+        {
+          "name": "Nathan Johnson",
+          "url": "https://open.spotify.com/artist/0zWHBQv6knnmZSovIvl6b1"
+        }
+      ],
+      "duration_ms": 97706,
+      "name": "The Thrombey Estate",
+      "url": "https://open.spotify.com/track/39H6QlhWsqMcO9o9LbBzNl"
+    },
+    {
+      "added_at": "2024-10-04 10:22:23",
       "album": {
         "name": "Suspiria",
         "url": "https://open.spotify.com/album/66X1aX8OnQZROjTlxHWYtg"
@@ -217,7 +349,7 @@
       "url": "https://open.spotify.com/track/0DrihQ3QVHvYbdpPKCUmoN"
     },
     {
-      "added_at": "2024-03-26 10:34:19",
+      "added_at": "2024-10-04 10:22:23",
       "album": {
         "name": "Paranormal Activity",
         "url": "https://open.spotify.com/album/7HuR76g5Rpg6vWaFhNB0Go"
@@ -233,7 +365,7 @@
       "url": "https://open.spotify.com/track/67AxhHs7ur6AlOkx95hZRh"
     },
     {
-      "added_at": "2024-03-26 10:34:19",
+      "added_at": "2024-10-04 10:22:23",
       "album": {
         "name": "A Nightmare On Elm Street: Original Motion Picture Score",
         "url": "https://open.spotify.com/album/0btrQddJBGxVVJXJCkv7Sm"
@@ -249,7 +381,23 @@
       "url": "https://open.spotify.com/track/0o1SKUvwGAFZ3km9ZMDXoT"
     },
     {
-      "added_at": "2024-03-26 10:34:19",
+      "added_at": "2024-10-04 10:22:23",
+      "album": {
+        "name": "Snow White And The Seven Dwarfs Original Soundtrack",
+        "url": "https://open.spotify.com/album/0Bqy2UNNB9WRS2EyHtpnIn"
+      },
+      "artists": [
+        {
+          "name": "Leigh Harline",
+          "url": "https://open.spotify.com/artist/7aXWrnm0b8kKzTTgzublaZ"
+        }
+      ],
+      "duration_ms": 246173,
+      "name": "I've Been Tricked",
+      "url": "https://open.spotify.com/track/226XOQzrG1uu1C0XVevRCd"
+    },
+    {
+      "added_at": "2024-10-04 10:22:23",
       "album": {
         "name": "Harry Potter and The Sorcerer's Stone Original Motion Picture Soundtrack",
         "url": "https://open.spotify.com/album/6zeHM5CV0CjcS0K8ouWE4N"
@@ -265,7 +413,7 @@
       "url": "https://open.spotify.com/track/1n8NKQRg8LVHy7oUhUgbFF"
     },
     {
-      "added_at": "2024-03-26 10:34:19",
+      "added_at": "2024-10-04 10:22:23",
       "album": {
         "name": "The Sixth Sense - Original Motion Picture Soundtrack",
         "url": "https://open.spotify.com/album/1Cdpyr3pRNtiErT7QRbOxI"
@@ -281,7 +429,7 @@
       "url": "https://open.spotify.com/track/1F3yUGDxCfGH9Zx3KePnmK"
     },
     {
-      "added_at": "2024-03-26 10:34:19",
+      "added_at": "2024-10-04 10:22:23",
       "album": {
         "name": "Alien",
         "url": "https://open.spotify.com/album/0kRM4B6TRITAcjLebvS12N"
@@ -297,7 +445,23 @@
       "url": "https://open.spotify.com/track/3mgO7YAlNvmGoZNEaEjfaA"
     },
     {
-      "added_at": "2024-03-26 10:34:19",
+      "added_at": "2024-10-04 10:22:23",
+      "album": {
+        "name": "A Cure For Wellness (Original Soundtrack Album)",
+        "url": "https://open.spotify.com/album/1JpTP5zaoj0ud6lLu3gqZ0"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Wallfisch",
+          "url": "https://open.spotify.com/artist/2xOp0rCDPAmYqnL2UFbaDY"
+        }
+      ],
+      "duration_ms": 131200,
+      "name": "Magnificent, Isn't It",
+      "url": "https://open.spotify.com/track/244zUPDZ1nb7kN9SrxgHGX"
+    },
+    {
+      "added_at": "2024-10-04 10:22:23",
       "album": {
         "name": "IT (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5tVCAKqFXuBvDMO5Jh3dZF"
@@ -313,7 +477,7 @@
       "url": "https://open.spotify.com/track/2oZBR0rdkFfgkyQ4lVShfd"
     },
     {
-      "added_at": "2024-03-26 10:34:19",
+      "added_at": "2024-10-04 10:22:23",
       "album": {
         "name": "Shock",
         "url": "https://open.spotify.com/album/7d38p5xz6uCm4PZInK3EmA"
@@ -329,7 +493,7 @@
       "url": "https://open.spotify.com/track/7ywQ5kMHhMIzPnq1pWnx4P"
     },
     {
-      "added_at": "2024-03-26 10:34:19",
+      "added_at": "2024-10-04 10:22:23",
       "album": {
         "name": "Theme from \"Beetlejuice: The Animated Series\" by Danny Elfman",
         "url": "https://open.spotify.com/album/13wjqvHMQ6xDJ0JpEHWvln"
@@ -345,7 +509,7 @@
       "url": "https://open.spotify.com/track/1r8fZ2HxjBWDEvs7lqXWAJ"
     },
     {
-      "added_at": "2024-03-26 10:34:19",
+      "added_at": "2024-10-04 10:22:23",
       "album": {
         "name": "Wednesday (Original Series Soundtrack)",
         "url": "https://open.spotify.com/album/2uuGxhpcN88ctFFHAYOzxF"
@@ -361,7 +525,7 @@
       "url": "https://open.spotify.com/track/3dd9uXh41vmFLO3UvqLJL6"
     },
     {
-      "added_at": "2024-03-26 10:34:19",
+      "added_at": "2024-10-04 10:22:23",
       "album": {
         "name": "Jeepers Creepers (Score)",
         "url": "https://open.spotify.com/album/1tDx9id2MipEJLN5MVYhHk"
@@ -381,7 +545,7 @@
       "url": "https://open.spotify.com/track/3q7ssMXeWyeoPyTGsqOUpO"
     },
     {
-      "added_at": "2024-03-26 10:34:19",
+      "added_at": "2024-10-04 10:22:23",
       "album": {
         "name": "The Descent",
         "url": "https://open.spotify.com/album/6uMeD1KqvgJal9rGSa55Ml"
@@ -397,7 +561,7 @@
       "url": "https://open.spotify.com/track/2KuDGIejkCwPV00plTqiej"
     },
     {
-      "added_at": "2024-03-26 10:34:19",
+      "added_at": "2024-10-04 10:22:23",
       "album": {
         "name": "Hannibal - Original Motion Picture Soundtrack",
         "url": "https://open.spotify.com/album/6JgvWFkxKiG6Z2rDWZCLGV"
@@ -425,7 +589,7 @@
       "url": "https://open.spotify.com/track/3p4ZezCzbv5iXLyxNowByt"
     },
     {
-      "added_at": "2024-03-26 10:34:19",
+      "added_at": "2024-10-04 10:22:23",
       "album": {
         "name": "TV Hits Volume 1",
         "url": "https://open.spotify.com/album/472xZX7rmaZUFgybcruPwd"
@@ -441,7 +605,7 @@
       "url": "https://open.spotify.com/track/5u72Vlsj6XLEOvx5TLTJMC"
     },
     {
-      "added_at": "2024-03-26 10:34:19",
+      "added_at": "2024-10-04 10:22:23",
       "album": {
         "name": "99 Must-Have Halloween Classics",
         "url": "https://open.spotify.com/album/0b9hNMy12w8qGs8eYNwM1L"
@@ -457,7 +621,7 @@
       "url": "https://open.spotify.com/track/2AfA142FyTrSA58SArYR5r"
     },
     {
-      "added_at": "2024-03-26 10:34:19",
+      "added_at": "2024-10-04 10:22:23",
       "album": {
         "name": "The Addams Family (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/42gNmvl1nDLFdZh6nEA7KS"
@@ -473,7 +637,23 @@
       "url": "https://open.spotify.com/track/655IlK9f17wH6UMzIL8cLe"
     },
     {
-      "added_at": "2024-03-26 10:34:19",
+      "added_at": "2024-10-04 10:22:23",
+      "album": {
+        "name": "Snow White And The Seven Dwarfs Original Soundtrack",
+        "url": "https://open.spotify.com/album/0Bqy2UNNB9WRS2EyHtpnIn"
+      },
+      "artists": [
+        {
+          "name": "Frank Churchill",
+          "url": "https://open.spotify.com/artist/5HxxQWbYtQSFMKTjx9LPtZ"
+        }
+      ],
+      "duration_ms": 45106,
+      "name": "Queen Theme",
+      "url": "https://open.spotify.com/track/2WVagfUEBd08FUZlgPBcdP"
+    },
+    {
+      "added_at": "2024-10-04 10:22:23",
       "album": {
         "name": "Re-Animator: Prologue and Main Title",
         "url": "https://open.spotify.com/album/2HNiURAevNka5UetR9us36"
@@ -489,7 +669,23 @@
       "url": "https://open.spotify.com/track/6w8V10yvjN3cU9iqJYwXqq"
     },
     {
-      "added_at": "2024-03-26 10:34:19",
+      "added_at": "2024-10-04 10:22:23",
+      "album": {
+        "name": "Princess Mononoke Soundtrack",
+        "url": "https://open.spotify.com/album/2ZHxPDTCRU5STetdmXeW6p"
+      },
+      "artists": [
+        {
+          "name": "Joe Hisaishi",
+          "url": "https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB"
+        }
+      ],
+      "duration_ms": 99626,
+      "name": "The Legend of Ashitaka",
+      "url": "https://open.spotify.com/track/6JqEDCqvAQx4F1D8TuQMw1"
+    },
+    {
+      "added_at": "2024-10-04 10:22:23",
       "album": {
         "name": "The Omen - Deluxe Edition",
         "url": "https://open.spotify.com/album/5wuC3fOv5p1g4GgIpoNHHt"
@@ -505,7 +701,7 @@
       "url": "https://open.spotify.com/track/2FjW6XLCZCQORjl2RQpIMP"
     },
     {
-      "added_at": "2024-03-26 10:34:19",
+      "added_at": "2024-10-04 10:22:23",
       "album": {
         "name": "The Woman In Black (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/38VQvWEXOVCYLRW8LhqkP2"
@@ -521,7 +717,7 @@
       "url": "https://open.spotify.com/track/1bKscSGDTcxM3f5qYjgRMV"
     },
     {
-      "added_at": "2024-03-26 10:34:19",
+      "added_at": "2024-10-04 10:22:23",
       "album": {
         "name": "The Fog (Original Soundtrack)",
         "url": "https://open.spotify.com/album/1T9FXEBAlOOUvwNxjI2Jad"
@@ -537,7 +733,7 @@
       "url": "https://open.spotify.com/track/1pRGFSv1jsiVsTLMSTpQRB"
     },
     {
-      "added_at": "2024-03-26 10:34:19",
+      "added_at": "2024-10-04 10:22:23",
       "album": {
         "name": "Eraserhead Soundtrack",
         "url": "https://open.spotify.com/album/1l0NtS7ohVK9xqByCKVSlQ"
@@ -553,7 +749,7 @@
       "url": "https://open.spotify.com/track/4s7BAf0bNlxyANBVVPRLKt"
     },
     {
-      "added_at": "2024-03-26 10:34:19",
+      "added_at": "2024-10-04 10:22:23",
       "album": {
         "name": "Nightmare Before Christmas Special Edition",
         "url": "https://open.spotify.com/album/32hXKuDkMnpQaOI67xQj86"
@@ -569,7 +765,7 @@
       "url": "https://open.spotify.com/track/1CYjYSg9sdtbBoxSf8uhFD"
     },
     {
-      "added_at": "2024-03-26 10:34:19",
+      "added_at": "2024-10-04 10:22:23",
       "album": {
         "name": "The Witches of Eastwick (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6biRMMkj61KdyfFzH36y6K"
@@ -585,7 +781,7 @@
       "url": "https://open.spotify.com/track/0x5xRTV6l8tCr8ShASj9Wd"
     },
     {
-      "added_at": "2024-03-26 10:34:19",
+      "added_at": "2024-10-04 10:22:23",
       "album": {
         "name": "Halloween's Gravest Hits",
         "url": "https://open.spotify.com/album/7I2eOFPEM14Yjh9cOPlYOh"
@@ -609,7 +805,7 @@
       "url": "https://open.spotify.com/track/2pdqaNUADr4vkmml8wveJd"
     },
     {
-      "added_at": "2024-03-26 10:34:19",
+      "added_at": "2024-10-04 10:22:23",
       "album": {
         "name": "Us (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1gkLMuAnI8U5z2yhyhhRQk"
@@ -625,7 +821,7 @@
       "url": "https://open.spotify.com/track/3OHCNumN480cuIojhklljX"
     },
     {
-      "added_at": "2024-03-26 10:34:19",
+      "added_at": "2024-10-04 10:22:23",
       "album": {
         "name": "Hellraiser 30th Anniversary Edition (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/7kStQ1fN11Yv9tajnZ2vN1"
@@ -641,7 +837,7 @@
       "url": "https://open.spotify.com/track/1Vya0Wd5w4HGeEvCipqg74"
     },
     {
-      "added_at": "2024-03-26 10:34:19",
+      "added_at": "2024-10-04 10:22:23",
       "album": {
         "name": "The Cabin In The Woods (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/21fvIEu1CUSkdkU6paAsYC"
@@ -657,7 +853,7 @@
       "url": "https://open.spotify.com/track/3hdquxjWlgbFvT4Uh7oIF5"
     },
     {
-      "added_at": "2024-03-26 10:34:19",
+      "added_at": "2024-10-04 10:22:23",
       "album": {
         "name": "Scream And Scream 2 (Music From The Dimension Motion Pictures)",
         "url": "https://open.spotify.com/album/6O5CLPCsZzKLSqyCo0XbJS"
@@ -673,7 +869,7 @@
       "url": "https://open.spotify.com/track/0V7wkk4c6GUJyVs8Ou2XpF"
     },
     {
-      "added_at": "2024-03-26 10:34:19",
+      "added_at": "2024-10-04 10:22:23",
       "album": {
         "name": "Curse of Chucky (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5PoC4zyUUmYyJIm4rlgpaJ"

@@ -265,6 +265,24 @@
     },
     {
       "album": {
+        "name": "Amigos Con Derechos",
+        "url": "https://open.spotify.com/album/6Gv0ijdvtXUz8zGuavTv9j"
+      },
+      "artists": [
+        {
+          "name": "Julio Chaidez",
+          "url": "https://open.spotify.com/artist/0iMKZWAsycF13Uu67duuj7"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209352,
+      "name": "Amigos Con Derechos",
+      "url": "https://open.spotify.com/track/4ssouMO9j21l7YvqkPYLaP"
+    },
+    {
+      "album": {
         "name": "Amor Plat\u00f3nico",
         "url": "https://open.spotify.com/album/1RejCnEA2V94czIZo8uuhC"
       },
@@ -557,6 +575,28 @@
     },
     {
       "album": {
+        "name": "Cada Vez Te Extra\u00f1o M\u00e1s",
+        "url": "https://open.spotify.com/album/2EPeCWh8O4lxM4OGT3NTIH"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Luis Alfonso Partida El Yaki",
+          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250686,
+      "name": "Cada Vez Te Extra\u00f1o M\u00e1s",
+      "url": "https://open.spotify.com/track/0oEv4Hy4kWmKUqdWHleOua"
+    },
+    {
+      "album": {
         "name": "PRESENTE",
         "url": "https://open.spotify.com/album/0JoUcdNtc8iAKHGFj7Ppf9"
       },
@@ -604,7 +644,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 154318,
       "name": "Como No Quererte",
       "url": "https://open.spotify.com/track/7mfdX4DRVX18IUSi2F1Cki"
@@ -712,7 +752,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-23",
+      "date_removed": null,
       "duration_ms": 177058,
       "name": "Creo en Ti",
       "url": "https://open.spotify.com/track/417X6wL1dS22GIqC84qaKD"
@@ -842,6 +882,28 @@
       "duration_ms": 233706,
       "name": "De Uno Y De Todos Los Modos - Version Bolero",
       "url": "https://open.spotify.com/track/6DkNnb8nBR1uuqaSVWQgfm"
+    },
+    {
+      "album": {
+        "name": "Decide T\u00fa",
+        "url": "https://open.spotify.com/album/6lapM6uMQXvBBDu5Zky2d4"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Banda la Sinaloense de Alex Ojeda",
+          "url": "https://open.spotify.com/artist/6ucSqPKWD0QdphhjNrVnUf"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232611,
+      "name": "Decide T\u00fa",
+      "url": "https://open.spotify.com/track/3HtNPv4uWc7MSk7hpu2pwA"
     },
     {
       "album": {
@@ -1048,7 +1110,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 182680,
       "name": "El Amor So\u00f1ado",
       "url": "https://open.spotify.com/track/6Yd0OVYMrixawNof73Q3pC"
@@ -1102,7 +1164,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 176226,
       "name": "El Mundo a Tus Pies",
       "url": "https://open.spotify.com/track/4MDLvDUSbL6TEtc12CxNyp"
@@ -1354,7 +1416,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 180653,
       "name": "Fendi",
       "url": "https://open.spotify.com/track/7oey14Rg8UhqMCQjOp0OST"
@@ -1644,7 +1706,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 129500,
       "name": "Levantando Polvadera (En Vivo) [feat. Los Populares del Llano]",
       "url": "https://open.spotify.com/track/065QGFIfARtgUoTeJifVvJ"
@@ -1828,7 +1890,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 153088,
       "name": "ME GUSTAS",
       "url": "https://open.spotify.com/track/6at0Z3uwhUEP0EJeqqN7fz"
@@ -2203,6 +2265,28 @@
     },
     {
       "album": {
+        "name": "Nadie Como T\u00fa",
+        "url": "https://open.spotify.com/album/1E96ajg4gmUDbxbYGR6pBW"
+      },
+      "artists": [
+        {
+          "name": "Max Peraza",
+          "url": "https://open.spotify.com/artist/40XLXsvXDPJuQ6adeK9zh7"
+        },
+        {
+          "name": "Luis Alfonso Partida El Yaki",
+          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197426,
+      "name": "Nadie Como T\u00fa",
+      "url": "https://open.spotify.com/track/4rLtVsNQOzEgJkjeTU2Nda"
+    },
+    {
+      "album": {
         "name": "Nadie Va A Pensar En Ti Mejor Que Yo",
         "url": "https://open.spotify.com/album/1NsJ6u8jcjsyZi9igmkbqw"
       },
@@ -2384,7 +2468,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 256170,
       "name": "Pideme - En Vivo",
       "url": "https://open.spotify.com/track/4OvWsid9gwU8nimd6KIXN6"
@@ -2442,7 +2526,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 243346,
       "name": "Por Ella (Poco A Poco)",
       "url": "https://open.spotify.com/track/4WWITxzEgGZJcB1JyzPvbc"
@@ -2525,6 +2609,28 @@
     },
     {
       "album": {
+        "name": "Qu\u00e9 Fuimos (En Vivo)",
+        "url": "https://open.spotify.com/album/6Q4VubIV6GiT3HZrjGKg8b"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Hernan Sepulveda",
+          "url": "https://open.spotify.com/artist/00CEIWvwRzWGVahslNZW0Z"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230034,
+      "name": "Qu\u00e9 Fuimos (En Vivo)",
+      "url": "https://open.spotify.com/track/1VkaO9P9BwH327jnM9VX1K"
+    },
+    {
+      "album": {
         "name": "Qu\u00e9 Maldici\u00f3n",
         "url": "https://open.spotify.com/album/6oRHxFUQKBLocEBeWw24gb"
       },
@@ -2544,6 +2650,28 @@
       "duration_ms": 203360,
       "name": "Qu\u00e9 Maldici\u00f3n",
       "url": "https://open.spotify.com/track/1ovCSSWps8DWQwEDgmGiFp"
+    },
+    {
+      "album": {
+        "name": "Qu\u00e9 Onda Perdida",
+        "url": "https://open.spotify.com/album/6kbhZqFlf80O9LW2EAWz15"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Gerardo Coronel",
+          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239637,
+      "name": "Qu\u00e9 Onda Perdida",
+      "url": "https://open.spotify.com/track/3upTB6o5YgeALHgDp3mzte"
     },
     {
       "album": {
@@ -2616,6 +2744,24 @@
       "duration_ms": 214035,
       "name": "Reina de mi Coraz\u00f3n",
       "url": "https://open.spotify.com/track/6pBV756dsPFIMGfLi29Obk"
+    },
+    {
+      "album": {
+        "name": "Atento Aviso ... Rey Sin Reina",
+        "url": "https://open.spotify.com/album/38uizvY4xqOiAq750FDmW2"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150523,
+      "name": "Rey Sin Reina",
+      "url": "https://open.spotify.com/track/0BiDnJFB3TlRB6aji7jUz3"
     },
     {
       "album": {
@@ -2978,7 +3124,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 185642,
       "name": "Suspiros (En Vivo)",
       "url": "https://open.spotify.com/track/6E5VcTGyXcUmAPCq41sLIb"
@@ -3220,7 +3366,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 237640,
       "name": "Terrenal",
       "url": "https://open.spotify.com/track/1Uy7p71RYE0uRvA6Kirr3O"
@@ -3470,7 +3616,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 185770,
       "name": "Un Amor Como Este",
       "url": "https://open.spotify.com/track/5xdUo9vjyv5RRR48QYiv1Q"
@@ -3542,7 +3688,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-03",
+      "date_removed": null,
       "duration_ms": 250120,
       "name": "Una Noche Mas Contigo",
       "url": "https://open.spotify.com/track/0Uee9J71CUB05o9os8oplV"
@@ -3719,6 +3865,24 @@
     },
     {
       "album": {
+        "name": "Ya Sup\u00e9rame (En Vivo)",
+        "url": "https://open.spotify.com/album/5r9uHTRrLBLtLNTL6AH669"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189050,
+      "name": "Ya Sup\u00e9rame (En Vivo)",
+      "url": "https://open.spotify.com/track/230KSxk14541umr44W2vCM"
+    },
+    {
+      "album": {
         "name": "Yo Te Prefiero a Ti (Versi\u00f3n Banda)",
         "url": "https://open.spotify.com/album/0eC8XatLfvAQ6awg5JUCi5"
       },
@@ -3742,6 +3906,28 @@
       "duration_ms": 227106,
       "name": "Yo Te Prefiero a Ti - Versi\u00f3n Banda",
       "url": "https://open.spotify.com/track/2kXmdHCcnnXyizXzZEL6up"
+    },
+    {
+      "album": {
+        "name": "Yo Ya No Vuelvo Contigo (En Vivo)",
+        "url": "https://open.spotify.com/album/78OOLWnOyjDZRqxZXlfNk9"
+      },
+      "artists": [
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        },
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240456,
+      "name": "Yo Ya No Vuelvo Contigo - En Vivo",
+      "url": "https://open.spotify.com/track/1s59X35jDULAyOGmBuTAnd"
     },
     {
       "album": {

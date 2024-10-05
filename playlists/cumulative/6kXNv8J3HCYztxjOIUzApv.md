@@ -4,7 +4,7 @@
 
 > Rock out while you work out! Follow for updates!
 
-279 songs - 17 hr 34 min
+280 songs - 17 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -236,6 +236,7 @@
 | [The Retaliators Theme \(21 Bullets\) \(feat\. Mötley Crüe, Asking Alexandria, Ice Nine Kills, From Ashes To New\)](https://open.spotify.com/track/3iEmgajStVBooooNaltdOv) | [The Retaliators](https://open.spotify.com/artist/0DqFxv4ZnxzDc6KPt6cUD5), [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL), [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ), [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt), [From Ashes to New](https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX) | [The Retaliators Theme Song \(21 Bullets\) \[feat\. Motley Crue, Asking Alexandria, Ice Nine Kills, From Ashes To New\]](https://open.spotify.com/album/5vyHnq2QdGJWMzjrjn4S6k) | 4:02 | 2022-08-17 | 2023-01-04 |
 | [The Retaliators Theme \(21 Bullets\) \(feat\. Mötley Crüe, Asking Alexandria, Ice Nine Kills, From Ashes To New\)](https://open.spotify.com/track/63sD6W8AU9YbDrSjelxtCM) | [The Retaliators](https://open.spotify.com/artist/0DqFxv4ZnxzDc6KPt6cUD5), [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL), [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ), [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt), [From Ashes to New](https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX) | [The Retaliators \(Music from the Motion Picture\)](https://open.spotify.com/album/0AVXaODN5ZfCP675t8tMQo) | 4:02 | 2022-09-21 | 2023-01-04 |
 | [The Shift](https://open.spotify.com/track/6kHDKPCxgANtgHbZ84Lc0B) | [10 Years](https://open.spotify.com/artist/0REMf7H0VP6DwfZ9MbuWph) | [The Shift](https://open.spotify.com/album/2qIdZyANJmQeSTTxyuwF1R) | 3:00 | 2022-01-24 | 2023-01-04 |
+| [The Trooper](https://open.spotify.com/track/3X9TaoUaAgBCQ3G9DLCBOZ) | [The HU](https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc) | [The Trooper](https://open.spotify.com/album/6we9preGiPMKlAlHFWx4FH) | 4:11 | 2024-10-04 |  |
 | [The Violence](https://open.spotify.com/track/62ovcuwlrPHfLxueBGokp1) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [The Violence](https://open.spotify.com/album/5xvpam8ZQLu5xuwTg9LwwN) | 3:48 | 2021-08-20 |  |
 | [This Is Mongol](https://open.spotify.com/track/17Ps0qbxzIbNbg4tTMv6CU) | [The HU](https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc) | [The Retaliators \(Music from the Motion Picture\)](https://open.spotify.com/album/0AVXaODN5ZfCP675t8tMQo) | 3:44 | 2022-09-21 |  |
 | [This Is Mongol \(Warrior Souls\) \[feat\. William DuVall of Alice In Chains\]](https://open.spotify.com/track/7lRsKDo94Xy3y1uqash1Xv) | [The HU](https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc), [William DuVall](https://open.spotify.com/artist/7i706LwoMxh1uYYnrMuQUR), [Alice In Chains](https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL) | [This Is Mongol \(Warrior Souls\) \[feat\. William DuVall of Alice In Chains\]](https://open.spotify.com/album/2Bf7EZvzpauSKhyUhBjUFK) | 3:41 | 2023-02-10 |  |

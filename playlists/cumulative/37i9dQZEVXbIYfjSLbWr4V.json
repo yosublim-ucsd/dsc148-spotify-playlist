@@ -462,7 +462,7 @@
       ],
       "date_added": "2024-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 148051,
       "name": "Chk Chk Boom",
       "url": "https://open.spotify.com/track/09keT5ocFhEd5W5HidiUNq"
@@ -600,7 +600,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-04",
+      "date_removed": null,
       "duration_ms": 110638,
       "name": "CRANKI",
       "url": "https://open.spotify.com/track/1dwuA3034avUaHBlIOUSlg"
@@ -1184,7 +1184,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 107539,
       "name": "FUNK DO BOUNCE (Slowed)",
       "url": "https://open.spotify.com/track/7IBqHkoP94VrgYKVns4eNz"
@@ -5178,7 +5178,7 @@
       ],
       "date_added": "2024-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 197771,
       "name": "\u041f\u043e\u0436\u0430\u0440\u044b",
       "url": "https://open.spotify.com/track/5pZaiIokYGUANMAJiZg8tt"
@@ -5552,6 +5552,24 @@
       "duration_ms": 93257,
       "name": "\u0421\u0430\u043c\u044b\u0439 \u043b\u0443\u0447\u0448\u0438\u0439 \u0434\u0435\u043d\u044c",
       "url": "https://open.spotify.com/track/6aZw4hMz6ZZqjALf0GAbKy"
+    },
+    {
+      "album": {
+        "name": "\u0421\u0432\u0435\u0442\u043b\u0430\u044f \u043f\u043e\u043b\u043e\u0441\u0430",
+        "url": "https://open.spotify.com/album/2sDeV8QHnqP6NeiMHxl1LU"
+      },
+      "artists": [
+        {
+          "name": "Noize MC",
+          "url": "https://open.spotify.com/artist/69v4ZOOomf1TNp59YYB1j7"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231290,
+      "name": "\u0421\u0432\u0435\u0442\u043b\u0430\u044f \u043f\u043e\u043b\u043e\u0441\u0430",
+      "url": "https://open.spotify.com/track/4k2ecnkRjMNKyqQcqBBolD"
     },
     {
       "album": {
@@ -6324,7 +6342,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-06",
+      "date_removed": null,
       "duration_ms": 147000,
       "name": "\u0423\u0442\u0440\u043e",
       "url": "https://open.spotify.com/track/0aKl63MnUIVKkXlVtp2vLr"

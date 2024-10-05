@@ -4,7 +4,7 @@
 
 > أحدث الأغاني المصرية هنا 🤩 الغلاف: مسلم
 
-1,173 songs - 2 day 17 hr 32 min
+1,175 songs - 2 day 17 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -756,6 +756,7 @@
 | [Wleeh](https://open.spotify.com/track/5QIatrUnbjkDqftJbfZo5B) | [Mohamed Maghraby](https://open.spotify.com/artist/5YzWtu1xGAMgt1ZXDbBTSV) | [Wleeh](https://open.spotify.com/album/6Zuvzyj59U0Q1xKMSFo0xG) | 3:50 | 2022-03-18 | 2022-07-11 |
 | [Woseltelha](https://open.spotify.com/track/1oh3WIRKgoNi60o9SMykwS) | [Haifa Wehbe](https://open.spotify.com/artist/05ai8foZsZwk0cni0IOuNj) | [Woseltelha](https://open.spotify.com/album/6RrDEMqADohA3DYvWkulNB) | 4:08 | 2024-01-16 | 2024-02-16 |
 | [Ya 3araf](https://open.spotify.com/track/6v9noMonS9GMI3Yx9CsSmF) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V), [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn), [Ahmed Zaeem](https://open.spotify.com/artist/36vOw5rJH8SM7GymEeg73T) | [Ya 3araf](https://open.spotify.com/album/39Vo4WKz2TYSBflvVgckfi) | 4:40 | 2023-01-06 | 2023-02-17 |
+| [Ya Bahr](https://open.spotify.com/track/2yJCX51fBGHqzSTq2SlBFi) | [Diana Karazon](https://open.spotify.com/artist/3faPN9ZqiY5AFpYAe8WqGE) | [Ya Bahr](https://open.spotify.com/album/2muAeXjgfziF7GDdMtaXaK) | 3:59 | 2024-10-04 |  |
 | [Ya Bakhty Beh](https://open.spotify.com/track/1CEYTW1P2mKpZgxouGDw8f) | [Jannat](https://open.spotify.com/artist/3MpEY93FasSif1w2qbutch) | [Ya Bakhty Beh](https://open.spotify.com/album/0tFBtGwjlCel82hP0xN1hy) | 3:15 | 2022-11-08 | 2023-01-20 |
 | [Ya Bay](https://open.spotify.com/track/1tIjCjZggwGIIviiOn4qkB) | [Moustafa Hagag](https://open.spotify.com/artist/5jii08sWD8V92EdOofQo52) | [Ya Bay](https://open.spotify.com/album/3pLAjS8pQIbluq04CPZMVB) | 3:07 | 2021-12-23 | 2022-03-04 |
 | [Ya Dayra](https://open.spotify.com/track/1zeJfLgJYRjCSQGl6mxdke) | [Amr Mostafa](https://open.spotify.com/artist/6YZXwVnjrIIz9SlBd8l2Cg) | [Ya Dayra](https://open.spotify.com/album/12YT8SErqyPtdaoc6XMEqu) | 3:26 | 2022-12-26 | 2023-02-17 |
@@ -948,6 +949,7 @@
 | [حكايتنا منهيه](https://open.spotify.com/track/0JPcPUucXP7jweuhlZ95A6) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [حكايتنا منهيه](https://open.spotify.com/album/5XI16cGZpAQzd2Zv8Ztcyd) | 4:39 | 2023-08-10 | 2023-11-29 |
 | [حلوة منك \(من فيلم "فوي! فوي! فوي!"\)](https://open.spotify.com/track/0UDDU3BpxRA9tuXvXXp8hY) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [حلوة منك \(من فيلم "فوي! فوي! فوي!"\)](https://open.spotify.com/album/68OVb1DYVsSjAbAVCl03SW) | 3:30 | 2023-09-07 | 2023-12-25 |
 | [حمد الله على السلامة](https://open.spotify.com/track/2iKkj34fFU0fiQQm2HPuEx) | [3enba](https://open.spotify.com/artist/4U7K3Xm1CXe5FpBGYUcHUZ) | [حمد الله على السلامة](https://open.spotify.com/album/6otpGoLEbwlOE4Zm5UZmtv) | 2:55 | 2023-03-27 | 2023-05-12 |
+| [حوش الدلع](https://open.spotify.com/track/1bmpsrIYMeY9VmveBYu6Cc) | [Nedaa Shrara](https://open.spotify.com/artist/73GigUB11JrOl85L4ma1AI) | [حوش الدلع](https://open.spotify.com/album/0Xg67d18Abk7FgLGE9PDBQ) | 2:10 | 2024-10-04 |  |
 | [حياتي ناقصة](https://open.spotify.com/track/7fKN49oFs9bw5i9xZLCMCo) | [Mohamed Youssef](https://open.spotify.com/artist/3qVa7avCXcTdFZrXRI5Upz) | [حياتي ناقصة](https://open.spotify.com/album/25tkkJfxvTlOrz7yj6gz03) | 5:14 | 2024-07-11 | 2024-08-29 |
 | [خبط خبط](https://open.spotify.com/track/4yECK82XOZ7UUi50TREPxC) | [Abd El Fattah Grini](https://open.spotify.com/artist/6ncRJcK3BssZxM1vE8M3J2) | [خبط خبط](https://open.spotify.com/album/4C85aQZ62amt2opB2Ls8Ti) | 2:27 | 2024-04-11 | 2024-04-26 |
 | [خد بوسة \(من فيلم عصابة الماكس\)](https://open.spotify.com/track/4VBJjLh7pIvW7cTWmmW3DX) | [Ruby](https://open.spotify.com/artist/2lMy93l58wzjh8DepKL814) | [خد بوسة \(من فيلم عصابة الماكس\)](https://open.spotify.com/album/0Lz5buevocRlWNTzBMyIjG) | 2:57 | 2024-06-11 | 2024-07-25 |

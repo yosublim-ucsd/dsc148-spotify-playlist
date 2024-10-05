@@ -4,7 +4,7 @@
 
 > Música para enamorarse.
 
-229 songs - 14 hr 39 min
+230 songs - 14 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [Contigo](https://open.spotify.com/track/55CJCECkPMd9ZhGr4JOKn7) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Contigo](https://open.spotify.com/album/6fv6tD2JlEMZaFf6tF0GcH) | 3:28 | 2022-09-06 |  |
 | [Contigo Siempre](https://open.spotify.com/track/17LxkTp8UNbPcYrDrI6UOq) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Contigo Siempre](https://open.spotify.com/album/1DuXr4GCQLue0kTKvI6Txa) | 3:21 | 2021-12-06 |  |
 | [Corazones Invencibles](https://open.spotify.com/track/1vrq0gc8U6kxkNNnD79gEp) | [Aleks Syntek](https://open.spotify.com/artist/0r8toju2ecKaVtItkzAnNi) | [Romántico Desliz](https://open.spotify.com/album/6UlH9VLq1S6TJtY0xojINt) | 3:37 | 2021-12-06 |  |
-| [Costumbres](https://open.spotify.com/track/28ANj8vuad6phtclxhmPYO) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Amor Eterno](https://open.spotify.com/album/0UuQzzrlyxMseEttP9hL3C) | 4:32 | 2021-12-06 |  |
+| [Costumbres](https://open.spotify.com/track/28ANj8vuad6phtclxhmPYO) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Amor Eterno](https://open.spotify.com/album/0UuQzzrlyxMseEttP9hL3C) | 4:32 | 2021-12-06 | 2024-10-05 |
 | [Creo en Ti](https://open.spotify.com/track/0xXhgLXfEHnWJHVgRvFvdn) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Peligro](https://open.spotify.com/album/0zbw6YNuejcVp8XgDKO0yF) | 2:43 | 2021-12-06 |  |
 | [Cuando Tu Me Besas](https://open.spotify.com/track/626F53aUbrz0lMzYZOJ3RT) | [Griss Romero](https://open.spotify.com/artist/36eqG3jM0MhxTR7Cuw7BQA) | [Mis Canciones De La Web](https://open.spotify.com/album/5Cpv2FIiZHAGFrYHtVTDNP) | 3:15 | 2022-02-01 | 2024-04-19 |
 | [Cuando Tú Me Besas](https://open.spotify.com/track/04OjZcQ3hQABzBqBrVG7Yx) | [Griss Romero](https://open.spotify.com/artist/36eqG3jM0MhxTR7Cuw7BQA) | [Mis Canciones De La Web](https://open.spotify.com/album/6SRsRrJOUjYYqJC1NfPPev) | 3:15 | 2021-12-06 | 2022-07-29 |
@@ -97,6 +97,7 @@
 | [Hey \- Spanish](https://open.spotify.com/track/3X8buu765D59qlQ6z78I8A) | [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5) | [Begin the Beguine](https://open.spotify.com/album/5siSTOhozc4kGQxQgbFhvS) | 5:00 | 2022-02-01 | 2024-04-17 |
 | [Hilo Rojo](https://open.spotify.com/track/3XMJLE4cS4ug7i4tnz09dP) | [Río Roma](https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt) | [Rojo](https://open.spotify.com/album/3n0zkanqLGhc1R0O7Ddl1G) | 3:42 | 2022-09-06 | 2022-11-01 |
 | [Hilo Rojo](https://open.spotify.com/track/5c17sD5ibjougPh0bNnBTj) | [Río Roma](https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt) | [Hilo Rojo](https://open.spotify.com/album/1LozXeHCsZN3rseluCVGfu) | 3:42 | 2021-12-06 | 2022-07-29 |
+| [Hola, qué tal?](https://open.spotify.com/track/5Z8nG5FVaBbASxtlVBu44v) | [Beret](https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl) | [Hola, qué tal?](https://open.spotify.com/album/1v2rSqToiSoXpvqk0WTaPN) | 3:03 | 2024-10-04 |  |
 | [Hoy Tengo Ganas De Ti](https://open.spotify.com/track/0qO4GfXADY9QfgcgtrasT9) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9), [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Confidencias](https://open.spotify.com/album/3g2uS0IsIdaKqRiBSFrbBk) | 4:51 | 2024-04-19 |  |
 | [Imagíname Sin Ti](https://open.spotify.com/track/6on7Jc476Z1uX3P0URYB0j) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [Las Numero 1 Del Amor Pop](https://open.spotify.com/album/5RSXQ3HcVjDUIc9GBWYxX2) | 4:07 | 2021-12-06 | 2022-07-29 |
 | [Insoportablemente Bella](https://open.spotify.com/track/24jLRb0lLtk4U3F2xPh2AH) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [Intimamente](https://open.spotify.com/album/5K5nnSuTpYNG2dc4mtDiRY) | 3:37 | 2024-04-16 |  |

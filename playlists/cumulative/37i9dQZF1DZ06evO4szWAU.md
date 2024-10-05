@@ -2,7 +2,7 @@
 
 ### [This Is Willie Colón](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4szWAU)
 
-> This is Willie Colón\. The essential tracks, all in one playlist.
+> This Is Willie Colón\. Los temas esenciales, todos en una lista.
 
 72 songs - 6 hr 33 min
 
@@ -23,7 +23,7 @@
 | [Celo](https://open.spotify.com/track/0JWnqFLENqVGs4yNss52gy) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Fantasmas](https://open.spotify.com/album/7dY91yvJXIeBrzDhiMnYDW) | 4:01 | 2023-01-08 | 2024-03-19 |
 | [Ché Ché Colé](https://open.spotify.com/track/4rPtnAmfvHkVSCO2KKkiC1) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Crime Pays](https://open.spotify.com/album/31FDxX16G7sPB3p5bNhf8K) | 3:31 | 2022-09-08 |  |
 | [Cueste Lo Que Cueste](https://open.spotify.com/track/4BNDskrn6uPYQAbenwJSDD) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Mis Favoritas](https://open.spotify.com/album/44rPp1bnN1eL9ld3QE1t9c) | 5:18 | 2022-09-11 |  |
-| [De Que? \- Remastered 2024](https://open.spotify.com/track/5j5gwF2aVjbjQSpnavcOY5) | [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj), [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Canciones del Solar de los Aburridos \- Remastered 2024](https://open.spotify.com/album/6F9qxvLy24e23SrOVaRhI2) | 6:10 | 2024-09-08 |  |
+| [De Que? \- Remastered 2024](https://open.spotify.com/track/5j5gwF2aVjbjQSpnavcOY5) | [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj), [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Canciones del Solar de los Aburridos \- Remastered 2024](https://open.spotify.com/album/6F9qxvLy24e23SrOVaRhI2) | 6:10 | 2024-09-08 | 2024-10-05 |
 | [De Qué Me Vale](https://open.spotify.com/track/6IyG68Ky7od38nGF6p1zIZ) | [Gaitanes](https://open.spotify.com/artist/6KinpmF6ieaCpwaKICc6y2), [Jeinson Manuel](https://open.spotify.com/artist/2F8zZMz5wMWE9axyo5zflt), [You Salsa](https://open.spotify.com/artist/4kYoLs6okVQkRPGtrzMgcU), [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Cielo Torres](https://open.spotify.com/artist/7AqX9JGo4WdLp5gPNSRoDJ) | [De Qué Me Vale](https://open.spotify.com/album/3saoPv6Oe7bkBQhL2VxKLE) | 4:06 | 2024-07-22 | 2024-07-23 |
 | [Demasiado Corazon](https://open.spotify.com/track/203xPsmlzOYbPoUv4WL2kM) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Demasiado Corazon](https://open.spotify.com/album/2IgZZffWbFgLioltFU54VE) | 3:50 | 2022-09-08 |  |
 | [Dime](https://open.spotify.com/track/1qrJSmYy08r64JG7h5NG0r) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj) | [Siembra \(Special Edition\)](https://open.spotify.com/album/0eEepSVOpeDUxu5TKcaZHJ) | 7:01 | 2022-09-08 | 2024-04-25 |

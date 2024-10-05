@@ -10021,6 +10021,32 @@
     },
     {
       "album": {
+        "name": "Chuttamalle (From \"Devara Part 1\")",
+        "url": "https://open.spotify.com/album/77bk7awXNSGEQkZTcTp2Gj"
+      },
+      "artists": [
+        {
+          "name": "Shilpa Rao",
+          "url": "https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB"
+        },
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Ramajogayya Sastry",
+          "url": "https://open.spotify.com/artist/4GISoVSxo2LkF5EyorXs9W"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222063,
+      "name": "Chuttamalle (From \"Devara Part 1\")",
+      "url": "https://open.spotify.com/track/1bxzr3JK05fMTcweGAZUHp"
+    },
+    {
+      "album": {
         "name": "Eulogize",
         "url": "https://open.spotify.com/album/0KVshV8BH234oVUlRDVaaE"
       },
@@ -20878,7 +20904,7 @@
       ],
       "date_added": "2024-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 202219,
       "name": "Happy Face",
       "url": "https://open.spotify.com/track/7KvZLaYFqBqoADTelAsWWO"
@@ -38710,6 +38736,10 @@
         {
           "name": "41",
           "url": "https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8"
+        },
+        {
+          "name": "Kyle Richh",
+          "url": "https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU"
         }
       ],
       "date_added": "2024-09-28",
@@ -46775,6 +46805,32 @@
     },
     {
       "album": {
+        "name": "SLUT SZN",
+        "url": "https://open.spotify.com/album/1oA2UN6nt7jhEuVtiCeCke"
+      },
+      "artists": [
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        },
+        {
+          "name": "Whethan",
+          "url": "https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP"
+        },
+        {
+          "name": "Carey Washington",
+          "url": "https://open.spotify.com/artist/1o69wyMnma62W8juhb8gAH"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142848,
+      "name": "SLUT ME OUT 3 (feat. Carey Washington)",
+      "url": "https://open.spotify.com/track/7pByCEzUGLxZ8Gvvng5Vfx"
+    },
+    {
+      "album": {
         "name": "SMACK TALK",
         "url": "https://open.spotify.com/album/0F1AHBmHwzLNiOvqXc1bnc"
       },
@@ -49169,6 +49225,24 @@
     },
     {
       "album": {
+        "name": "The Essential Kris Kristofferson",
+        "url": "https://open.spotify.com/album/0gGq5EiYpLZaJNYwEoPRY3"
+      },
+      "artists": [
+        {
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270800,
+      "name": "Sunday Mornin' Comin' Down",
+      "url": "https://open.spotify.com/track/4mLo5ouQ9giUdWSAOtn5TK"
+    },
+    {
+      "album": {
         "name": "Sundown",
         "url": "https://open.spotify.com/album/2IPD9EcNjUmsHvqULDMU9Y"
       },
@@ -51428,7 +51502,7 @@
       ],
       "date_added": "2024-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 158400,
       "name": "the cutest pair",
       "url": "https://open.spotify.com/track/0VVD95cRAppHSOGPYrfIG2"
@@ -53240,7 +53314,7 @@
       ],
       "date_added": "2024-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 100367,
       "name": "TIMELESS (PLAYBOI CARTI x The Weeknd)",
       "url": "https://open.spotify.com/track/2Qyn3zKIq2S0gmMZJPvpzy"

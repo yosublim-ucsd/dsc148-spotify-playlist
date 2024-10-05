@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO43KjLi.md) - [plain]
 
 > This is Esteban Gabriel\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,361 likes - 42 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,365 likes - 42 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,11 +25,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO43KjLi.md) - [plain]
 | 15 | [Que Tiene de Malo](https://open.spotify.com/track/3uUvQGiUZMj8WzG5Vo1MCz) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Don Esteban](https://open.spotify.com/album/4TdFGG8K4OW4O0e8G6udtr) | 3:51 |
 | 16 | [Whiskey and Tequila](https://open.spotify.com/track/7rJCLLO5ukvTRQxjpmDvOd) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Cumbias Light, Vol\. 2](https://open.spotify.com/album/50On6TIoLAj9Ljf1gBzi99) | 3:35 |
 | 17 | [La Güera](https://open.spotify.com/track/6QedahwFMlsiWRILwtZJUG) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Tragos y Cigarros](https://open.spotify.com/album/7yeopeDDLOvHmgtgyTYG9S) | 2:57 |
-| 18 | [5 Estrellas \- En Vivo](https://open.spotify.com/track/3JoFfvjusTX1Bh29gJHQi9) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Cumbias Light, Vol\. 1 \(En Vivo\)](https://open.spotify.com/album/7aDOqwmjK9NlYsut1SN6VT) | 2:42 |
+| 18 | [Mil Horas \- En Vivo](https://open.spotify.com/track/7MaFVQ1ZYwXk0K5ehUU9dX) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Cumbias Light, Vol\. 1 \(En Vivo\)](https://open.spotify.com/album/7aDOqwmjK9NlYsut1SN6VT) | 2:49 |
 | 19 | [Zumbando Terrenos](https://open.spotify.com/track/3cydPWRwnndcp2C2lIlUt1) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN), [Nietos Del Viejo](https://open.spotify.com/artist/3sC7anQFAQtZNYpADNh5EH) | [Don Esteban](https://open.spotify.com/album/4TdFGG8K4OW4O0e8G6udtr) | 3:23 |
 | 20 | [Yo Se](https://open.spotify.com/track/5L7CkAus4rvfu0AsqSXH9K) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Cumbias Light, Vol\. 2](https://open.spotify.com/album/50On6TIoLAj9Ljf1gBzi99) | 3:01 |
 | 21 | [Aqui Se Acaba Todo](https://open.spotify.com/track/61542EPiVTyYQw4SsOeXb5) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Tragos y Cigarros](https://open.spotify.com/album/7yeopeDDLOvHmgtgyTYG9S) | 3:25 |
-| 22 | [Mil Horas \- En Vivo](https://open.spotify.com/track/7MaFVQ1ZYwXk0K5ehUU9dX) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Cumbias Light, Vol\. 1 \(En Vivo\)](https://open.spotify.com/album/7aDOqwmjK9NlYsut1SN6VT) | 2:49 |
+| 22 | [5 Estrellas \- En Vivo](https://open.spotify.com/track/3JoFfvjusTX1Bh29gJHQi9) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Cumbias Light, Vol\. 1 \(En Vivo\)](https://open.spotify.com/album/7aDOqwmjK9NlYsut1SN6VT) | 2:42 |
 | 23 | [Morro Loco](https://open.spotify.com/track/13jmfAORh7hAITtCvzVJ9i) | [Los Bravos De La H](https://open.spotify.com/artist/1ZsgdJmEpCrG7a4fMeiFOr), [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN), [Nietos Del Viejo](https://open.spotify.com/artist/3sC7anQFAQtZNYpADNh5EH) | [Morro Loco](https://open.spotify.com/album/5SqZnMWQE3La3QJSeeOX0c) | 3:11 |
 | 24 | [Novela](https://open.spotify.com/track/5Apn8JMVmW1sWEsXLWoTdQ) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Cumbias Light, Vol\. 2](https://open.spotify.com/album/50On6TIoLAj9Ljf1gBzi99) | 2:34 |
 | 25 | [Mi Reyna](https://open.spotify.com/track/4iynrE7kJRxQgpQ9XTr9Wy) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Don Esteban](https://open.spotify.com/album/4TdFGG8K4OW4O0e8G6udtr) | 3:10 |
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO43KjLi.md) - [plain]
 | 41 | [Es Prohibido](https://open.spotify.com/track/7s4uLGtxqsyxQEjmCkvCok) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Damas y Placeres](https://open.spotify.com/album/5v8HgiTLQwBAdYetXbRVfC) | 2:50 |
 | 42 | [Intro](https://open.spotify.com/track/453sDOvAWU4QVvGegD46du) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Damas y Placeres](https://open.spotify.com/album/5v8HgiTLQwBAdYetXbRVfC) | 2:32 |
 
-Snapshot ID: `ZvyNAAAAAABIdKo2EZyCq6nv5j/9VbFN`
+Snapshot ID: `Zv3egAAAAABzNNtZ9q9tLldHLjqM8m1j`

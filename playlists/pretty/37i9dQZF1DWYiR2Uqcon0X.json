@@ -1,6 +1,6 @@
 {
   "description": "The Country Coffeehouse is open! Grab a cup and lean back to some low-key country.",
-  "num_followers": 725904,
+  "num_followers": 725933,
   "original_name": "Country Coffeehouse",
   "owner": {
     "name": "Spotify",
@@ -831,26 +831,6 @@
     {
       "added_at": "2024-08-19 19:57:57",
       "album": {
-        "name": "The Other Way",
-        "url": "https://open.spotify.com/album/1BjtuA4CufCsT4myvX3WpQ"
-      },
-      "artists": [
-        {
-          "name": "Donovan Woods",
-          "url": "https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti"
-        },
-        {
-          "name": "Tenille Townes",
-          "url": "https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z"
-        }
-      ],
-      "duration_ms": 199594,
-      "name": "I Ain't Ever Loved No One - Acoustic",
-      "url": "https://open.spotify.com/track/2z3HKlpENvfz1Am2MNF2pL"
-    },
-    {
-      "added_at": "2024-08-19 19:57:57",
-      "album": {
         "name": "Carolina In My Mind",
         "url": "https://open.spotify.com/album/096rv9JgHgwoc4VTICs8Np"
       },
@@ -879,6 +859,26 @@
       "duration_ms": 186316,
       "name": "Home To Me",
       "url": "https://open.spotify.com/track/0aE6UUxRrKXQPL4f24PhDL"
+    },
+    {
+      "added_at": "2024-08-19 19:57:57",
+      "album": {
+        "name": "The Other Way",
+        "url": "https://open.spotify.com/album/1BjtuA4CufCsT4myvX3WpQ"
+      },
+      "artists": [
+        {
+          "name": "Donovan Woods",
+          "url": "https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti"
+        },
+        {
+          "name": "Tenille Townes",
+          "url": "https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z"
+        }
+      ],
+      "duration_ms": 199594,
+      "name": "I Ain't Ever Loved No One - Acoustic",
+      "url": "https://open.spotify.com/track/2z3HKlpENvfz1Am2MNF2pL"
     },
     {
       "added_at": "2024-08-19 19:57:57",
@@ -947,6 +947,22 @@
     {
       "added_at": "2024-08-19 19:57:57",
       "album": {
+        "name": "Because Of Yours",
+        "url": "https://open.spotify.com/album/1brc4oeT2JHZmmVXXTrrrS"
+      },
+      "artists": [
+        {
+          "name": "Jeffrey East",
+          "url": "https://open.spotify.com/artist/3f8yNgA4o9YVIq87Kv0O0S"
+        }
+      ],
+      "duration_ms": 240837,
+      "name": "Because Of Yours",
+      "url": "https://open.spotify.com/track/71gcKI3CKHIrkJPkk20USG"
+    },
+    {
+      "added_at": "2024-08-19 19:57:57",
+      "album": {
         "name": "Crystal Eyes",
         "url": "https://open.spotify.com/album/1jQ2IrQ8tqYquBkQz0LJ4Y"
       },
@@ -991,22 +1007,6 @@
       "duration_ms": 91554,
       "name": "Bulleit Blues",
       "url": "https://open.spotify.com/track/6tEVS3afsZXcv4Q99aEfN7"
-    },
-    {
-      "added_at": "2024-08-19 19:57:57",
-      "album": {
-        "name": "Because Of Yours",
-        "url": "https://open.spotify.com/album/1brc4oeT2JHZmmVXXTrrrS"
-      },
-      "artists": [
-        {
-          "name": "Jeffrey East",
-          "url": "https://open.spotify.com/artist/3f8yNgA4o9YVIq87Kv0O0S"
-        }
-      ],
-      "duration_ms": 240837,
-      "name": "Because Of Yours",
-      "url": "https://open.spotify.com/track/71gcKI3CKHIrkJPkk20USG"
     },
     {
       "added_at": "2024-08-19 19:57:57",
@@ -1059,6 +1059,22 @@
     {
       "added_at": "2024-08-19 19:57:57",
       "album": {
+        "name": "Nothing New",
+        "url": "https://open.spotify.com/album/3M7n1eOFNiyAkn8rbBayee"
+      },
+      "artists": [
+        {
+          "name": "Jeffrey East",
+          "url": "https://open.spotify.com/artist/3f8yNgA4o9YVIq87Kv0O0S"
+        }
+      ],
+      "duration_ms": 218174,
+      "name": "Nothing New",
+      "url": "https://open.spotify.com/track/3lcPNrCGKYelcmE6PnInp4"
+    },
+    {
+      "added_at": "2024-08-19 19:57:57",
+      "album": {
         "name": "End of the Rain",
         "url": "https://open.spotify.com/album/2AjVO7FIhjSQLqtLDm8xAb"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 224626,
       "name": "Back to You",
       "url": "https://open.spotify.com/track/5tXygo2KgUWVhpvYW7r0I5"
-    },
-    {
-      "added_at": "2024-08-19 19:57:57",
-      "album": {
-        "name": "Nothing New",
-        "url": "https://open.spotify.com/album/3M7n1eOFNiyAkn8rbBayee"
-      },
-      "artists": [
-        {
-          "name": "Jeffrey East",
-          "url": "https://open.spotify.com/artist/3f8yNgA4o9YVIq87Kv0O0S"
-        }
-      ],
-      "duration_ms": 218174,
-      "name": "Nothing New",
-      "url": "https://open.spotify.com/track/3lcPNrCGKYelcmE6PnInp4"
     },
     {
       "added_at": "2024-08-19 19:57:57",
@@ -1187,6 +1187,22 @@
     {
       "added_at": "2024-08-19 19:57:57",
       "album": {
+        "name": "Time Is Cold (Coffee House Version)",
+        "url": "https://open.spotify.com/album/4sCjovt0vwuCj9aMMSW4dL"
+      },
+      "artists": [
+        {
+          "name": "Jeffrey East",
+          "url": "https://open.spotify.com/artist/3f8yNgA4o9YVIq87Kv0O0S"
+        }
+      ],
+      "duration_ms": 188541,
+      "name": "Time Is Cold (Coffee House Version)",
+      "url": "https://open.spotify.com/track/0BYkrYRN04xUnZG53OHfGS"
+    },
+    {
+      "added_at": "2024-08-19 19:57:57",
+      "album": {
         "name": "Mountain Song",
         "url": "https://open.spotify.com/album/2LSEZyWtzulIr0vS1mD4Xy"
       },
@@ -1215,22 +1231,6 @@
       "duration_ms": 211293,
       "name": "Heartland",
       "url": "https://open.spotify.com/track/5o0hAYrXcdGYUlDC8j3x34"
-    },
-    {
-      "added_at": "2024-08-19 19:57:57",
-      "album": {
-        "name": "Without A Word",
-        "url": "https://open.spotify.com/album/1rzbmMngXvWTlfm2FyMFbr"
-      },
-      "artists": [
-        {
-          "name": "Sara Watkins",
-          "url": "https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek"
-        }
-      ],
-      "duration_ms": 238560,
-      "name": "Without A Word",
-      "url": "https://open.spotify.com/track/4e6dpHanuFVUxou9bKkLDN"
     }
   ],
   "unique_name": "Country Coffeehouse",

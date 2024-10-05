@@ -1,12 +1,12 @@
 {
   "description": "Driving songs acoustic style! Sit back and enjoy the ride!",
-  "num_followers": 9033,
+  "num_followers": 9031,
   "original_name": "Acoustic Driving Songs",
   "owner": {
     "name": "Matt Johnson",
     "url": "https://open.spotify.com/user/117687144"
   },
-  "snapshot_id": "AAAFDbc4C9PxO9xWJjc/DUGVQKzW/DUA",
+  "snapshot_id": "AAAFEL/7DskwAeSb93JHMXWedDAqx8TN",
   "tracks": [
     {
       "added_at": "2024-07-26 20:16:22",
@@ -449,10 +449,10 @@
       "url": "https://open.spotify.com/track/5Rylkdnez4Jye4YHucM3M4"
     },
     {
-      "added_at": "2023-04-01 05:48:56",
+      "added_at": "2024-10-04 19:38:29",
       "album": {
-        "name": "Wouldn't It Be Nice (Acoustic)",
-        "url": "https://open.spotify.com/album/085kDnx6X3C0TI7uocKr1C"
+        "name": "Dancing Queen (Acoustic)",
+        "url": "https://open.spotify.com/album/70EnDLWEFJv2HyqaFuxlCt"
       },
       "artists": [
         {
@@ -460,9 +460,9 @@
           "url": "https://open.spotify.com/artist/1tTQcokfKcsCxZaHF2pIhw"
         }
       ],
-      "duration_ms": 169277,
-      "name": "Wouldn't It Be Nice - Acoustic",
-      "url": "https://open.spotify.com/track/2ppKBymgYtlGBzWjRTkrKQ"
+      "duration_ms": 143851,
+      "name": "Dancing Queen - Acoustic",
+      "url": "https://open.spotify.com/track/4PGaZTakItG48FENLQhDyv"
     },
     {
       "added_at": "2019-10-13 06:38:53",
@@ -679,6 +679,22 @@
       "duration_ms": 228506,
       "name": "Love Me Now - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/2pPRgFEENF3LtuxYUPuT24"
+    },
+    {
+      "added_at": "2024-10-04 19:40:47",
+      "album": {
+        "name": "All the Small Things (Acoustic)",
+        "url": "https://open.spotify.com/album/61Ksn6jZJhZvhDktHwSYFW"
+      },
+      "artists": [
+        {
+          "name": "Adam Christopher",
+          "url": "https://open.spotify.com/artist/22QkuOmdRnasuuVgUjhrVw"
+        }
+      ],
+      "duration_ms": 145620,
+      "name": "All the Small Things - Acoustic",
+      "url": "https://open.spotify.com/track/6k0ypm2d1pK54eO4QmpwPv"
     },
     {
       "added_at": "2023-05-29 04:50:01",

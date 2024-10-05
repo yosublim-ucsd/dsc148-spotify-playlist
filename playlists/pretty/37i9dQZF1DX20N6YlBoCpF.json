@@ -1,6 +1,6 @@
 {
   "description": "Die nuutste Afrikaanse musiek. Omslag: <a href=\"https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF?si=5af6ENh4SQeR2B0Iwt4v4Q\">Francois van Coke</a>  ",
-  "num_followers": 27240,
+  "num_followers": 27277,
   "original_name": "Nuwe Afrikaans",
   "owner": {
     "name": "Spotify",
@@ -229,6 +229,22 @@
       "url": "https://open.spotify.com/track/5BrbGLJ4eELmDNfOrQfhQa"
     },
     {
+      "added_at": "2024-10-03 22:00:00",
+      "album": {
+        "name": "NUGTER ALLEEN",
+        "url": "https://open.spotify.com/album/624Tu91zv1nware7B17vPX"
+      },
+      "artists": [
+        {
+          "name": "John Conrad",
+          "url": "https://open.spotify.com/artist/5V1MTbOqYzsPMDdP5biM01"
+        }
+      ],
+      "duration_ms": 207205,
+      "name": "NUGTER ALLEEN",
+      "url": "https://open.spotify.com/track/412y2Y2YRKmzbp5GABwGR0"
+    },
+    {
       "added_at": "2024-09-26 22:00:00",
       "album": {
         "name": "Pa Se Honne, Ma Se Brak",
@@ -411,6 +427,26 @@
       "duration_ms": 231719,
       "name": "As Ek Kon Kies",
       "url": "https://open.spotify.com/track/0psSavtlTA1rd9aVz7qcSa"
+    },
+    {
+      "added_at": "2024-10-03 22:00:00",
+      "album": {
+        "name": "Hande Op My Lyf (Shokbasse Remix)",
+        "url": "https://open.spotify.com/album/4WnmAgC6OB7zYOJQfZSDA3"
+      },
+      "artists": [
+        {
+          "name": "Armand Joubert",
+          "url": "https://open.spotify.com/artist/5KnlL16gAV2FJVBZgT04Tu"
+        },
+        {
+          "name": "ShokBasse",
+          "url": "https://open.spotify.com/artist/5T2FFt1abRd5ZJKrzB2ZZj"
+        }
+      ],
+      "duration_ms": 158563,
+      "name": "Hande Op My Lyf - Shokbasse Remix",
+      "url": "https://open.spotify.com/track/5W08ALPUW7VdOwbLJGzzJd"
     },
     {
       "added_at": "2024-06-28 08:55:30",

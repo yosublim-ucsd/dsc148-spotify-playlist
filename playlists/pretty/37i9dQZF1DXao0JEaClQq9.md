@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXao0JEaClQq9.md) - [plain]
 
 > Modern heavenly sounds\. Cover: Oklou
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,622,840 likes - 75 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,622,930 likes - 75 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXao0JEaClQq9.md) - [plain]
 | 7 | [kisses \- Daniel Avery Remix](https://open.spotify.com/track/1Pk3nzbEP2iYN6Qn10PIAw) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF), [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [kisses \(Daniel Avery Remix\) b/w kisses \- sky ii](https://open.spotify.com/album/59iYqAJNi4w4HZoB7jEVgD) | 3:31 |
 | 8 | [Spring Is Coming With A Strawberry In The Mouth](https://open.spotify.com/track/0BpAmsdYjaf08yE9y2YgoF) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Desire, I Want To Turn Into You: Everasking Edition](https://open.spotify.com/album/2LytSeOYiM6yUcEArt9hxn) | 3:53 |
 | 9 | [Continuum 3](https://open.spotify.com/track/0AXfx8KBcjY3TlrHmApvNr) | [Nala Sinephro](https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO) | [Endlessness](https://open.spotify.com/album/51CQQ3tQLRZlZJZ5jcpoGE) | 4:07 |
-| 10 | [High On You](https://open.spotify.com/track/6JAm8W16oxTqx7aieTGldM) | [Buzzy Lee](https://open.spotify.com/artist/0cz2DZrX5wGn1XUdIPKYYQ) | [Spoiled Love](https://open.spotify.com/album/1HbxkJzKE1DsjvnqfBiQHh) | 4:22 |
+| 10 | [I Call To You](https://open.spotify.com/track/0xGcFW7E9ZKRXmP7MH2cmM) | [Kelora](https://open.spotify.com/artist/1KtfXUgc4Xkt0s7trUsmjP) | [I Call To You](https://open.spotify.com/album/4TS8xCi51mAs0zBDmvOSAy) | 2:43 |
 | 11 | [family and friends](https://open.spotify.com/track/3CkNXbhCLFk4o7GJduateb) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw) | [family and friends](https://open.spotify.com/album/6y6YITcW11LC9K83uH6XYR) | 2:56 |
 | 12 | [Chama](https://open.spotify.com/track/57T2OCgiu5OEP2RUHRBZuY) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj), [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ) | [Chama](https://open.spotify.com/album/43c9YAds3Zha8eldLhHK2A) | 3:16 |
 | 13 | [Life of the Forbidden](https://open.spotify.com/track/0HSksF0v6icsEsnl0CU4VT) | [Clarissa Connelly](https://open.spotify.com/artist/5YTJVNTfb9qDXATTlzuR5S) | [World of Work](https://open.spotify.com/album/7r1cQPyAwQfhQIw9H9eGB5) | 3:56 |
@@ -51,9 +51,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXao0JEaClQq9.md) - [plain]
 | 41 | [Sea, Swallow Me](https://open.spotify.com/track/7vPHiwgCOAjSBRjAirbMvS) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp), [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [The Moon and the Melodies](https://open.spotify.com/album/5v2I3i4RPD8T1XV0pjvPNo) | 3:09 |
 | 42 | [all over u](https://open.spotify.com/track/7LZ3gGKfJIjf1jNWkzU637) | [Rowena Fysx](https://open.spotify.com/artist/6y4JQgtvRMTNfA5YVMPv3p) | [don't text me back](https://open.spotify.com/album/5rIZhiJ4oRq0y1tdC5gf0c) | 3:21 |
 | 43 | [Limerence](https://open.spotify.com/track/2wiV5iKq5F5A0KUee4OrlK) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Mono No Aware](https://open.spotify.com/album/1YbSlMGiAAaTfR9Kk9HNxk) | 5:29 |
-| 44 | [Just for Now](https://open.spotify.com/track/6ifbPf9vldlIJwYKrBFktx) | [Imogen Heap](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz) | [Speak for Yourself](https://open.spotify.com/album/0t0Cr8jA63wlm8nWj7qfvJ) | 3:00 |
+| 44 | [The Dress](https://open.spotify.com/track/0YMe6PHRbeDcN7KJdCG0bW) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [Absolutely](https://open.spotify.com/album/4E691gbRgo2Zb6ToII2DWO) | 3:04 |
 | 45 | [Kept The Water Inside Of My Mouth](https://open.spotify.com/track/1hvQTXyqGaV3A7xI8qdIGi) | [Richard Orofino](https://open.spotify.com/artist/3xXUZ2bPGudLudm2eBE7I0) | [Kept The Water Inside Of My Mouth](https://open.spotify.com/album/6IFf5UeuhCUhknhc57xPdu) | 5:11 |
-| 46 | [The Dress](https://open.spotify.com/track/0YMe6PHRbeDcN7KJdCG0bW) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [Absolutely](https://open.spotify.com/album/4E691gbRgo2Zb6ToII2DWO) | 3:04 |
+| 46 | [Just for Now](https://open.spotify.com/track/6ifbPf9vldlIJwYKrBFktx) | [Imogen Heap](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz) | [Speak for Yourself](https://open.spotify.com/album/0t0Cr8jA63wlm8nWj7qfvJ) | 3:00 |
 | 47 | [HAUNTED](https://open.spotify.com/track/5ff77CZZUpY8Gvu5GuA6vb) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [HAUNTED](https://open.spotify.com/album/4QhZwVQuNbbXtMgjp2Ngp2) | 2:17 |
 | 48 | [Paradise Circus](https://open.spotify.com/track/2BndJYJQ17UcEeUFJP5JmY) | [Massive Attack](https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X), [Hope Sandoval](https://open.spotify.com/artist/7zS53Xa6sVgfoh00kckgyV) | [Heligoland](https://open.spotify.com/album/1F8y2bg9V9nRoy8zuxo3Jt) | 4:57 |
 | 49 | [Goddess](https://open.spotify.com/track/4R3AU2pjv8ge2siX1fVbZs) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Goddess](https://open.spotify.com/album/6iud55ph203oHsmq9VQBRQ) | 4:27 |
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXao0JEaClQq9.md) - [plain]
 | 72 | [Takes Me Back Home](https://open.spotify.com/track/5SBzve5oEsGhZSE8uZ8tjc) | [Wasia Project](https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0) | [Takes Me Back Home](https://open.spotify.com/album/6CJPML4dEb9v01jaLeoXZ1) | 3:13 |
 | 73 | [I'm Not In Love](https://open.spotify.com/track/7InHgiDyJ0GtvnIVslWNPK) | [Kelsey Lu](https://open.spotify.com/artist/0fEfMW5bypHZ0A8eLnhwj5) | [Blood](https://open.spotify.com/album/6NLWgp3R9U9v8KMueE6i9C) | 6:54 |
 | 74 | [NO SZNS](https://open.spotify.com/track/0dn6S6lJqAIQg90kMmWtVj) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [NO SZNS](https://open.spotify.com/album/05kT1p6wyim40HJVzg7tt3) | 3:33 |
-| 75 | [Lejos de Ti](https://open.spotify.com/track/4ZKpTM2wfcj4Mg3vRHH66m) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Lejos de Ti](https://open.spotify.com/album/0Hoxr5rskasCFC4Y2LLCRR) | 2:59 |
+| 75 | [Call For Help](https://open.spotify.com/track/3l5qctI4FqhfjIZzs06cbk) | [Pearly Drops](https://open.spotify.com/artist/2eMb96S1ZJ1YQ7FhWAzWJL) | [Call For Help](https://open.spotify.com/album/2T0LDUVshmydIaKywFCDKX) | 3:18 |
 
-Snapshot ID: `Zv9OTAAAAADx50FvWKlcOzogKpupSYvr`
+Snapshot ID: `ZwAipAAAAAAF6jyJI1uzYhItIS3tLPG8`

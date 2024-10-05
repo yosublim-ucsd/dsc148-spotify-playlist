@@ -883,6 +883,24 @@
     },
     {
       "album": {
+        "name": "Have Yourself a Merry Little Christmas",
+        "url": "https://open.spotify.com/album/7qZx1FWE5Li3mAPmUlyCHx"
+      },
+      "artists": [
+        {
+          "name": "Kate Hudson",
+          "url": "https://open.spotify.com/artist/5AILMlfEtVO0ehMpDhesME"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235271,
+      "name": "Have Yourself a Merry Little Christmas",
+      "url": "https://open.spotify.com/track/0jPnNZS9IJ0awbpFLZr3EY"
+    },
+    {
+      "album": {
         "name": "I Dream Of Christmas (Deluxe)",
         "url": "https://open.spotify.com/album/1QGL60gbmLX8f4mWFP0xBw"
       },
@@ -894,7 +912,7 @@
       ],
       "date_added": "2022-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 256440,
       "name": "Have Yourself a Merry Little Christmas",
       "url": "https://open.spotify.com/track/1x86q4ESOVmMpdoK0FMbya"
@@ -2162,7 +2180,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 206480,
       "name": "The Light Of Christmas Day - From \"Love The Coopers\" Soundtrack",
       "url": "https://open.spotify.com/track/0bJ8bS3aRtsA3zIIjr7Ool"
@@ -2368,6 +2386,24 @@
       "duration_ms": 182293,
       "name": "White Christmas",
       "url": "https://open.spotify.com/track/4ud5nPW0fN8Li4FyIq0rh5"
+    },
+    {
+      "album": {
+        "name": "I Dream Of Christmas (Deluxe)",
+        "url": "https://open.spotify.com/album/1QGL60gbmLX8f4mWFP0xBw"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185120,
+      "name": "White Christmas",
+      "url": "https://open.spotify.com/track/4j5ybw5yYBVKnyN9Ei0DF8"
     },
     {
       "album": {

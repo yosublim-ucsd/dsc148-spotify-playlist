@@ -3676,7 +3676,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 172000,
       "name": "Benny",
       "url": "https://open.spotify.com/track/09JUir78ynEmNxcLfsMu1G"
@@ -4160,7 +4160,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 165868,
       "name": "Bitter",
       "url": "https://open.spotify.com/track/2D26NQRWpAbnGcI86h3Iaj"
@@ -5530,7 +5530,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 207909,
       "name": "buried alive",
       "url": "https://open.spotify.com/track/2yHcSn169Hjj5UjjLubk8U"
@@ -11401,6 +11401,24 @@
     },
     {
       "album": {
+        "name": "wings",
+        "url": "https://open.spotify.com/album/46jYkyZi8Ql9jfuJ2IQ8vF"
+      },
+      "artists": [
+        {
+          "name": "th\u1ee7y",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163027,
+      "name": "fairy godmother",
+      "url": "https://open.spotify.com/track/7zstoq2sK1AKvlnzJNVEol"
+    },
+    {
+      "album": {
         "name": "Fake",
         "url": "https://open.spotify.com/album/6pbBHbkfs6i0JzhWjDmvb1"
       },
@@ -11822,7 +11840,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 151040,
       "name": "Feeling Lucky",
       "url": "https://open.spotify.com/track/53x0Yk1qOyurd2MefyF3Ny"
@@ -12922,7 +12940,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 168800,
       "name": "Gentleman",
       "url": "https://open.spotify.com/track/7mQCONtuyTnXtRLrjalQTF"
@@ -14303,6 +14321,24 @@
     },
     {
       "album": {
+        "name": "Ground Control",
+        "url": "https://open.spotify.com/album/1dvGoaIzAkcrpnPOUeJzUk"
+      },
+      "artists": [
+        {
+          "name": "Moody Joody",
+          "url": "https://open.spotify.com/artist/0ndpuECxVStTsHhzq4Euxz"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203908,
+      "name": "Ground Control",
+      "url": "https://open.spotify.com/track/4d3QWnT6shcTiVJem6zEuz"
+    },
+    {
+      "album": {
         "name": "Groundhog Day",
         "url": "https://open.spotify.com/album/4Ldjmrt8HH2KiMdYTnSoAS"
       },
@@ -15628,6 +15664,24 @@
       "duration_ms": 149108,
       "name": "Home To Another One",
       "url": "https://open.spotify.com/track/7culXP38P58h83PXwLQqyg"
+    },
+    {
+      "album": {
+        "name": "HOMEWRECKED",
+        "url": "https://open.spotify.com/album/4kEDr96ERhbxbkJfDDzU92"
+      },
+      "artists": [
+        {
+          "name": "AD\u00c9LA",
+          "url": "https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174590,
+      "name": "HOMEWRECKED",
+      "url": "https://open.spotify.com/track/7904wbV03rb4S0gGliqBk4"
     },
     {
       "album": {
@@ -22693,6 +22747,24 @@
     },
     {
       "album": {
+        "name": "Messy",
+        "url": "https://open.spotify.com/album/2QWd1BsO7J0zLwxhsKl3zh"
+      },
+      "artists": [
+        {
+          "name": "Lola Young",
+          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284068,
+      "name": "Messy",
+      "url": "https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2"
+    },
+    {
+      "album": {
         "name": "Meteorite",
         "url": "https://open.spotify.com/album/0fwTvb0Qo1pjmAr82hCE7t"
       },
@@ -28745,6 +28817,24 @@
     },
     {
       "album": {
+        "name": "Safety Net",
+        "url": "https://open.spotify.com/album/2pBq9bR5JzslASyvcQDRq8"
+      },
+      "artists": [
+        {
+          "name": "Bea and her Business",
+          "url": "https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203621,
+      "name": "Safety Net",
+      "url": "https://open.spotify.com/track/78VpLcR9t7mSZGOBEsYOfp"
+    },
+    {
+      "album": {
         "name": "F*CK LOVE 3: OVER YOU",
         "url": "https://open.spotify.com/album/4bZJWQhHKJckFLJuYdvyX2"
       },
@@ -30296,7 +30386,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 182840,
       "name": "Smeraldo Garden Marching Band (feat. Loco)",
       "url": "https://open.spotify.com/track/1kPhV0KQui1phEpjnWIqUN"
@@ -32823,6 +32913,24 @@
     },
     {
       "album": {
+        "name": "Take My Phone Away",
+        "url": "https://open.spotify.com/album/7I6HvzNOc1MTYHZmint1K1"
+      },
+      "artists": [
+        {
+          "name": "Caroline Kingsbury",
+          "url": "https://open.spotify.com/artist/0uE0bzpIfuZ9XVduu0byzg"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146800,
+      "name": "Take My Phone Away",
+      "url": "https://open.spotify.com/track/5iIRm1NPeb4EhR6I2bKtvC"
+    },
+    {
+      "album": {
         "name": "everything and nothing",
         "url": "https://open.spotify.com/album/1V78TBOwsEy3F87x0rAxhO"
       },
@@ -35163,6 +35271,24 @@
     },
     {
       "album": {
+        "name": "TOURIST",
+        "url": "https://open.spotify.com/album/3rngU1YiZ9z6o6hBNdz99D"
+      },
+      "artists": [
+        {
+          "name": "Jillian Rossi",
+          "url": "https://open.spotify.com/artist/2u2MvYsk6gZY0Khn9SAMeO"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145288,
+      "name": "TOURIST",
+      "url": "https://open.spotify.com/track/6pT4XrJXq3uWYlfaKiflce"
+    },
+    {
+      "album": {
         "name": "Faded",
         "url": "https://open.spotify.com/album/1C9KIpgrisvGtCxTfNBBaJ"
       },
@@ -35412,7 +35538,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 211242,
       "name": "Try Again",
       "url": "https://open.spotify.com/track/2Jdo2UwlQMc0AySBT7T2EZ"

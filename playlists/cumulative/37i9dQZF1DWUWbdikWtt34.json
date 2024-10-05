@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Dendang Dangdut teratas. Cover: Riri Chantika",
+  "description": "Dendang Dangdut teratas. Cover: King Nassar",
   "name": "Dangdut Top",
   "tracks": [
     {
@@ -60,6 +60,28 @@
       "duration_ms": 223000,
       "name": "Ada Dia Antara Kita",
       "url": "https://open.spotify.com/track/5NBFdXpSQM9bcJPFvU4Rrb"
+    },
+    {
+      "album": {
+        "name": "Ada Rindu",
+        "url": "https://open.spotify.com/album/3ejVb2oUzdJiGRjMqaA2Zj"
+      },
+      "artists": [
+        {
+          "name": "OM Adella",
+          "url": "https://open.spotify.com/artist/4AyqsAJtq9WJR8J1v1eZWg"
+        },
+        {
+          "name": "Difarina Indra",
+          "url": "https://open.spotify.com/artist/5XIRSzjzxVZRrUnOYd8L4V"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324568,
+      "name": "Ada Rindu",
+      "url": "https://open.spotify.com/track/4lTELaWuppMIZVkwp9Wg2S"
     },
     {
       "album": {
@@ -2759,6 +2781,24 @@
     },
     {
       "album": {
+        "name": "Samira",
+        "url": "https://open.spotify.com/album/2Jb7eQXavnheWW3j0Wz0Ap"
+      },
+      "artists": [
+        {
+          "name": "King nassar",
+          "url": "https://open.spotify.com/artist/2SsGOU0OZ5ElIz6PN7aSYg"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309032,
+      "name": "Samira",
+      "url": "https://open.spotify.com/track/2UNIOm160O0c3EHq3kKy2I"
+    },
+    {
+      "album": {
         "name": "Satru",
         "url": "https://open.spotify.com/album/6iVngjCW7DXIg4Q5f60OVi"
       },
@@ -3142,6 +3182,28 @@
       "duration_ms": 323672,
       "name": "Sugeng Dalu",
       "url": "https://open.spotify.com/track/0qyzO8E6IBxZv48FG9R3KQ"
+    },
+    {
+      "album": {
+        "name": "Suratan",
+        "url": "https://open.spotify.com/album/3MaaepFhcUUuHPmSAq3IUD"
+      },
+      "artists": [
+        {
+          "name": "Sasya Arkhisna",
+          "url": "https://open.spotify.com/artist/7lI4C2dx9SKfc3DD4zzkXA"
+        },
+        {
+          "name": "Risa Amel",
+          "url": "https://open.spotify.com/artist/6pqO787uECZjC2ZfLOi9QU"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310153,
+      "name": "Suratan",
+      "url": "https://open.spotify.com/track/7rEx000N7r1YF095T1195J"
     },
     {
       "album": {

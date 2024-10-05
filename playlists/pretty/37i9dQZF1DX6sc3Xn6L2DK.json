@@ -1,6 +1,6 @@
 {
   "description": "Explore the stellar corners of the genre's expansive and marvelous universe.",
-  "num_followers": 38522,
+  "num_followers": 38528,
   "original_name": "Cosmic Country",
   "owner": {
     "name": "Spotify",
@@ -855,6 +855,22 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
+        "name": "Love Can Find You Anywhere",
+        "url": "https://open.spotify.com/album/2nDKXMbt6lOU460Yi30M24"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Terrell",
+          "url": "https://open.spotify.com/artist/2SQQDXpVix78q2nKkks3E3"
+        }
+      ],
+      "duration_ms": 219182,
+      "name": "Love Can Find You Anywhere",
+      "url": "https://open.spotify.com/track/7fxxqxe5EAp0dQ674C6g2b"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
         "name": "When A Cowboy Trades His Spurs For Wings",
         "url": "https://open.spotify.com/album/12oUJEpXjAjVAgRWtQ50s9"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 183894,
       "name": "When A Cowboy Trades His Spurs For Wings",
       "url": "https://open.spotify.com/track/6KXIT7swzbtBjIepVzbarJ"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "Love Can Find You Anywhere",
-        "url": "https://open.spotify.com/album/2nDKXMbt6lOU460Yi30M24"
-      },
-      "artists": [
-        {
-          "name": "Jonathan Terrell",
-          "url": "https://open.spotify.com/artist/2SQQDXpVix78q2nKkks3E3"
-        }
-      ],
-      "duration_ms": 219182,
-      "name": "Love Can Find You Anywhere",
-      "url": "https://open.spotify.com/track/7fxxqxe5EAp0dQ674C6g2b"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "You've Got Other Girls for That",
-        "url": "https://open.spotify.com/album/0SwMHWz5Av4WNhffxJwPgQ"
-      },
-      "artists": [
-        {
-          "name": "Lillie Mae",
-          "url": "https://open.spotify.com/artist/32bF8EkwKNXBZyEo371paF"
-        }
-      ],
-      "duration_ms": 243010,
-      "name": "You've Got Other Girls for That",
-      "url": "https://open.spotify.com/track/5YmUheNKfm5UiZ3q1mxVEF"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "Workin' Woman",
         "url": "https://open.spotify.com/album/7bBq1QuARjBme4nclMsr5T"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 291673,
       "name": "Angels Among Us",
       "url": "https://open.spotify.com/track/5RfGLT4G5YeY5niIYc5GnI"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "You've Got Other Girls for That",
+        "url": "https://open.spotify.com/album/0SwMHWz5Av4WNhffxJwPgQ"
+      },
+      "artists": [
+        {
+          "name": "Lillie Mae",
+          "url": "https://open.spotify.com/artist/32bF8EkwKNXBZyEo371paF"
+        }
+      ],
+      "duration_ms": 243010,
+      "name": "You've Got Other Girls for That",
+      "url": "https://open.spotify.com/track/5YmUheNKfm5UiZ3q1mxVEF"
     },
     {
       "added_at": "2024-08-23 04:00:00",

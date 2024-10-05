@@ -1521,6 +1521,28 @@
     },
     {
       "album": {
+        "name": "Aqua Surface",
+        "url": "https://open.spotify.com/album/2kzWMc0tsVOMJZn4fOlIwn"
+      },
+      "artists": [
+        {
+          "name": "NEI",
+          "url": "https://open.spotify.com/artist/1TxxPD6FTYXeDfzdGDG5my"
+        },
+        {
+          "name": "Campanella",
+          "url": "https://open.spotify.com/artist/1HCVppGB3oVA6Kt7pRVifZ"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262300,
+      "name": "Aqua Surface",
+      "url": "https://open.spotify.com/track/6mZ0i7wAEgfcGoqAKbUOWl"
+    },
+    {
+      "album": {
         "name": "Are you serious?",
         "url": "https://open.spotify.com/album/1VkcEVXoIxaOXyfgw28DYi"
       },
@@ -4880,7 +4902,7 @@
       ],
       "date_added": "2024-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 156000,
       "name": "DMT",
       "url": "https://open.spotify.com/track/37jJeIfPXO654qdYeTdCAK"
@@ -7276,7 +7298,7 @@
       ],
       "date_added": "2024-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 100219,
       "name": "G.O.A.T",
       "url": "https://open.spotify.com/track/1uApzLM9ksJn4CqWuMrBKZ"
@@ -7398,7 +7420,7 @@
       ],
       "date_added": "2024-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 225819,
       "name": "Gear 5 - Remix",
       "url": "https://open.spotify.com/track/09qFuP62AreGvLsjpEoqhv"
@@ -7936,7 +7958,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 214166,
       "name": "Good for nothing - Remix",
       "url": "https://open.spotify.com/track/3OMN9C3cb2EjIAL4pR6FJH"
@@ -8182,7 +8204,7 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 274074,
       "name": "H.B.Y.S.",
       "url": "https://open.spotify.com/track/42hyOzIVfVZRiUnZ8DoBrp"
@@ -9218,7 +9240,7 @@
       ],
       "date_added": "2024-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 128000,
       "name": "I Know You",
       "url": "https://open.spotify.com/track/27NbjcreI0jVyHMpBiXtm1"
@@ -9270,7 +9292,7 @@
       ],
       "date_added": "2024-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 117321,
       "name": "I&I",
       "url": "https://open.spotify.com/track/6gExdJSBCQWalHneNf2QLt"
@@ -9808,7 +9830,7 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 135579,
       "name": "Island Flow",
       "url": "https://open.spotify.com/track/0xVdwG46vYzsq9EfaFsaXo"
@@ -13004,7 +13026,7 @@
       ],
       "date_added": "2024-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 212293,
       "name": "MULTIPLAYER",
       "url": "https://open.spotify.com/track/5vkQYWUr3ThIGKVPwUF0UZ"
@@ -14172,7 +14194,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 174120,
       "name": "No Hook (044 Freestyle)",
       "url": "https://open.spotify.com/track/0PSVvrz99pPEDeXHmvXk2z"
@@ -15648,7 +15670,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 185898,
       "name": "PICTURE PERFECT feat. Novel Core",
       "url": "https://open.spotify.com/track/13pk2JtpmwY0gnfINSpXMc"
@@ -19310,7 +19332,7 @@
       ],
       "date_added": "2024-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 98400,
       "name": "Sunglasses freestyle",
       "url": "https://open.spotify.com/track/3wK2MRrbVI24W7kmrRDYvx"
@@ -20258,7 +20280,7 @@
       ],
       "date_added": "2024-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 195583,
       "name": "Tokyo",
       "url": "https://open.spotify.com/track/4hydYHUVheu8FAfrynegHI"
@@ -23662,7 +23684,7 @@
       ],
       "date_added": "2024-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 184000,
       "name": "\u4e00\u65e5\u76ee",
       "url": "https://open.spotify.com/track/0NaTrHvSqvdVgD7QUT3Agj"

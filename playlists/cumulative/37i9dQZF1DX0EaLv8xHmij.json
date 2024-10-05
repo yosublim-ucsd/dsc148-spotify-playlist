@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "O grime e o drill feitos no Brasil, naquele pique: tracksuit, camisa de time e flow emba\u00e7ado. Foto: Kyan, Mc Binn, Jovem MK, Dalsin, Mu540",
+  "description": "O grime e o drill feitos no Brasil, naquele pique: tracksuit, camisa de time e flow emba\u00e7ado. Foto: Kyan, Mu540",
   "name": "Rima Avan\u00e7ada",
   "tracks": [
     {
@@ -256,7 +256,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 143164,
       "name": "700ML",
       "url": "https://open.spotify.com/track/2cTxdvJ4lMnAq8jRRkP0yo"
@@ -1889,6 +1889,28 @@
     },
     {
       "album": {
+        "name": "CLIMA QUENTE",
+        "url": "https://open.spotify.com/album/33pRWPxggdXTCp7N6AhVbU"
+      },
+      "artists": [
+        {
+          "name": "Puyol",
+          "url": "https://open.spotify.com/artist/3I40IzmWD1UYZzZM5U5Q0x"
+        },
+        {
+          "name": "Babidi",
+          "url": "https://open.spotify.com/artist/1S2Wiv7Swqnnvp1ktoWaul"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131612,
+      "name": "CLIMA QUENTE",
+      "url": "https://open.spotify.com/track/5UXLMNEFbp70L1YWQ25XKL"
+    },
+    {
+      "album": {
         "name": "Confronto",
         "url": "https://open.spotify.com/album/5FPovaISsbqW32pxy852rw"
       },
@@ -2346,7 +2368,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 135857,
       "name": "Deixa Pensar - NEZQ REMIX",
       "url": "https://open.spotify.com/track/6jwve5VyehWjt7OrCvcv2X"
@@ -6102,7 +6124,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 206197,
       "name": "POUCAS!",
       "url": "https://open.spotify.com/track/7aqI7ALSi75LyHPcbBsAnj"
@@ -6144,6 +6166,28 @@
       "duration_ms": 157762,
       "name": "Pra Baixo da Terra",
       "url": "https://open.spotify.com/track/0P69PdIN7osL5ML2uWeQ2K"
+    },
+    {
+      "album": {
+        "name": "Predestinado",
+        "url": "https://open.spotify.com/album/5gciCYQILHsJAgyUPiRaOs"
+      },
+      "artists": [
+        {
+          "name": "Myth7",
+          "url": "https://open.spotify.com/artist/4njsOKBV5BcuC9LXUJB0Sh"
+        },
+        {
+          "name": "Choice",
+          "url": "https://open.spotify.com/artist/4kqedTxyE5EDJWLLplYXpu"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171482,
+      "name": "Predestinado",
+      "url": "https://open.spotify.com/track/3cZMea5EGc3W0d7UHIAnwm"
     },
     {
       "album": {
@@ -6196,6 +6240,32 @@
       "duration_ms": 203333,
       "name": "Programado pra Morrer",
       "url": "https://open.spotify.com/track/0Zo1u04qDDlH2qhWqXGCN8"
+    },
+    {
+      "album": {
+        "name": "Pura Nata",
+        "url": "https://open.spotify.com/album/1DS0PtUi2w4r3LqsvDsOKm"
+      },
+      "artists": [
+        {
+          "name": "tchelo rodrigues",
+          "url": "https://open.spotify.com/artist/77JxPSGO8x7rYEWNZMSSIY"
+        },
+        {
+          "name": "Kyan",
+          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
+        },
+        {
+          "name": "retroboy",
+          "url": "https://open.spotify.com/artist/4R7j2XUkuutFO0MePvfASY"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168655,
+      "name": "Pura Nata",
+      "url": "https://open.spotify.com/track/0BLU6ZLfShdBHucQgXcqUs"
     },
     {
       "album": {
@@ -7478,7 +7548,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 169014,
       "name": "Tecnologia Nova",
       "url": "https://open.spotify.com/track/1NDmdoZa9Jv4squxaCpA8d"
@@ -7784,7 +7854,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 166000,
       "name": "TREMBARBIE",
       "url": "https://open.spotify.com/track/7yx2ojlzOVGT4xSDY7mzPw"
@@ -8154,6 +8224,28 @@
       "duration_ms": 182648,
       "name": "Vila Tolstoi II",
       "url": "https://open.spotify.com/track/0Sl5JHRCF4mmJZjkBELSkC"
+    },
+    {
+      "album": {
+        "name": "Vil\u00e3o da M\u00eddia!",
+        "url": "https://open.spotify.com/album/4Rzf5vUSLRMgsR6z0jew6Z"
+      },
+      "artists": [
+        {
+          "name": "Kyan",
+          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
+        },
+        {
+          "name": "Mu540",
+          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242007,
+      "name": "Vil\u00e3o da M\u00eddia!",
+      "url": "https://open.spotify.com/track/1QruZLnz4JAyCf06OjxHvK"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-11-08",
-  "description": "From Toronto to Nashville - country is more than a genre, it's a lifestyle! Subscribe <a href=\"https://forms.umusic-online.com/forms/-MzVRuWCJewxwySP2ZdQ\">here</a> for the most up to date country music news, sneak peeks, contests and more! Cover: Post Malone",
+  "description": "From Toronto to Nashville - country is more than a genre, it's a lifestyle! Subscribe <a href=\"https://forms.umusic-online.com/forms/-MzVRuWCJewxwySP2ZdQ\">here</a> for the most up to date country music news, sneak peeks, contests and more! Cover: Tucker Wetmore",
   "name": "New Country Hits (Country Life)",
   "tracks": [
     {
@@ -178,7 +178,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 183820,
       "name": "American Girl",
       "url": "https://open.spotify.com/track/3PRTKWFigJCi47YAEsBpiP"
@@ -611,6 +611,24 @@
     },
     {
       "album": {
+        "name": "Change My Mind",
+        "url": "https://open.spotify.com/album/5ndkH4RnE1m6TcBhyKpWB8"
+      },
+      "artists": [
+        {
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199533,
+      "name": "Change My Mind",
+      "url": "https://open.spotify.com/track/3iFzZcNK82ytOWr2qHY5pd"
+    },
+    {
+      "album": {
         "name": "Killed The Cowboy",
         "url": "https://open.spotify.com/album/7qOcM822LYEaTksCBUImpb"
       },
@@ -872,6 +890,24 @@
       "duration_ms": 179645,
       "name": "Dancin\u2019 In The Country",
       "url": "https://open.spotify.com/track/6Z1bV93BP95h4YjIavrQPf"
+    },
+    {
+      "album": {
+        "name": "Darkest Hour (Helene Edit)",
+        "url": "https://open.spotify.com/album/4YjKFvfdAqVgxMib41MUP3"
+      },
+      "artists": [
+        {
+          "name": "Eric Church",
+          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247733,
+      "name": "Darkest Hour (Helene Edit)",
+      "url": "https://open.spotify.com/track/3M7Cq1R8cylsGzNEb6QBMU"
     },
     {
       "album": {
@@ -1478,7 +1514,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 202000,
       "name": "Goodnight Into Good Morning",
       "url": "https://open.spotify.com/track/5gG9NdRDVie8Ylxe0ZQ5DL"
@@ -1858,7 +1894,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 203077,
       "name": "If I Had a Lover",
       "url": "https://open.spotify.com/track/6a9VsSmDtb7wxv1oRgCfIa"
@@ -1912,7 +1948,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 139413,
       "name": "Irish Goodbye",
       "url": "https://open.spotify.com/track/7ERPDzFA20PGO1KEyXAM0K"
@@ -2664,6 +2700,24 @@
       "duration_ms": 189070,
       "name": "Nobody's Nobody",
       "url": "https://open.spotify.com/track/1Q7kOSZkgeCkVpWRmNBAcI"
+    },
+    {
+      "album": {
+        "name": "The Storyteller",
+        "url": "https://open.spotify.com/album/7KypIz0P88XTX6VrtYdC0E"
+      },
+      "artists": [
+        {
+          "name": "Conner Smith",
+          "url": "https://open.spotify.com/artist/0y2FPygoi6LVc75pxCgsMk"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211183,
+      "name": "Nostalgia",
+      "url": "https://open.spotify.com/track/3Z9UDAqfYxU9WVAapTmY62"
     },
     {
       "album": {
@@ -4162,6 +4216,24 @@
       "duration_ms": 219854,
       "name": "Whatever It Is",
       "url": "https://open.spotify.com/track/23s4QWE0SAFXDKqpCl8Olq"
+    },
+    {
+      "album": {
+        "name": "Waves On A Sunset",
+        "url": "https://open.spotify.com/album/3BZLyz9vRkmsw7Q8UyX3dm"
+      },
+      "artists": [
+        {
+          "name": "Tucker Wetmore",
+          "url": "https://open.spotify.com/artist/4sCKpwwEsgReZxjtKFm2A0"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185146,
+      "name": "When I Ain't Lookin'",
+      "url": "https://open.spotify.com/track/0des8iQjWbqSGkn89w7AWr"
     },
     {
       "album": {

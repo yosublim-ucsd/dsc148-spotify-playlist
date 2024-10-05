@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Noise distortion amongst the hazy clouds \u2601\ufe0f (Cover: The Whisperer)",
+  "description": "Noise distortion amongst the hazy clouds \u2601\ufe0f (Cover: BUBBLE TEA AND CIGARETTES)",
   "name": "Haze ",
   "tracks": [
     {
@@ -312,6 +312,24 @@
       "duration_ms": 293522,
       "name": "Dead End",
       "url": "https://open.spotify.com/track/5LN5ZQOFnWCSD7iz1dfzcG"
+    },
+    {
+      "album": {
+        "name": "Dead Flowers",
+        "url": "https://open.spotify.com/album/22N0Ls1yNyFrZz9oemD4xH"
+      },
+      "artists": [
+        {
+          "name": "BUBBLE TEA AND CIGARETTES",
+          "url": "https://open.spotify.com/artist/2UMeX51X1prCFgi51RHo9P"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149000,
+      "name": "Dead Flowers",
+      "url": "https://open.spotify.com/track/3UzhTyx3msFqAeEnxsUqYR"
     },
     {
       "album": {

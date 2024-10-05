@@ -4,7 +4,7 @@
 
 > A mix of folk and bluegrass covers of pop, rock, hip\-hop, folk, and indie songs\. Cover: Lukas Nelson & Sierra Ferrell
 
-293 songs - 19 hr 4 min
+295 songs - 19 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Black Muddy River](https://open.spotify.com/track/62lkirMIvYO6h6o07xwZpH) | [Sierra Hull](https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB) | [Black Muddy River](https://open.spotify.com/album/60dyRHRGrAEPYlDE3WA7AO) | 5:00 | 2024-09-27 |  |
 | [Black Peter](https://open.spotify.com/track/4rQyvLAxf6ENq0dB4WFbOR) | [Leftover Salmon](https://open.spotify.com/artist/2dU9NlAClSjQtKoVgUQwdz) | [Grass Roots](https://open.spotify.com/album/6A9zPtwsWCWvHOSuRGD2N0) | 5:30 | 2023-05-19 |  |
 | [Blinding Lights](https://open.spotify.com/track/6Yha6zZt78YGfpUT8pZZHD) | [Heather Sarona](https://open.spotify.com/artist/5cne7YJw2nterSfuPr16W0) | [Blinding Lights](https://open.spotify.com/album/7falZh1l6FbSfdXBRRGeWm) | 3:35 | 2022-12-02 | 2024-09-28 |
+| [Blinding Lights](https://open.spotify.com/track/3V9VuEtA4EYTbK5utLOZZK) | [Micah Wagner](https://open.spotify.com/artist/6TvBcI7m0Jq96Br9pAXCGy) | [Blinding Lights](https://open.spotify.com/album/0l8nQQvBiFAJnTbzbnSK3f) | 3:05 | 2024-10-04 |  |
 | [Born At The Right Time](https://open.spotify.com/track/4dR5U0ARtEkuIVI17zilxf) | [Chris Roberts](https://open.spotify.com/artist/0wrLBy1hHUUDMRjdL9xxGr) | [Born At The Right Time](https://open.spotify.com/album/3LRnF4dHzSpanoNzgY8THq) | 4:48 | 2024-02-23 |  |
 | [Born to Run](https://open.spotify.com/track/3ZMEwdh8QGsUSOmXGsLcAu) | [Craig Duncan](https://open.spotify.com/artist/0zYyfhX87rISSc9dyJQK5t) | [Born to Run](https://open.spotify.com/album/6XXtLt6TrZqAEpf075BH6X) | 4:41 | 2024-07-26 |  |
 | [Brain Damage](https://open.spotify.com/track/2dcZFrC8XkdxhVxmb8p2kO) | [The Austin Lounge Lizards](https://open.spotify.com/artist/4O4nf1pPdZh0crQObAC8um) | [Lizard Vision](https://open.spotify.com/album/39wW3gZkVGupQpLXw2ogs9) | 2:31 | 2021-08-20 | 2023-04-15 |
@@ -109,6 +110,7 @@
 | [Gin and Juice](https://open.spotify.com/track/7v7ytRZIWuZuNxXSGwxIhK) | [The Gourds](https://open.spotify.com/artist/2gk28RNJaPStV8BnugHYpF) | [Shinebox](https://open.spotify.com/album/6tqUpnBCm5rYkmVdHfJjzP) | 6:23 | 2021-08-20 |  |
 | [Girl From the North Country \(Bob Dylan Cover\)](https://open.spotify.com/track/2wQLflu5Z6WQE5LVEfQTQD) | [Hayde Bluegrass Orchestra](https://open.spotify.com/artist/5L3ac0hlDxpbLBj3oQq3Ly) | [Amerikakoffert](https://open.spotify.com/album/2oi19N452zDFw7zbsnRiac) | 4:18 | 2023-10-27 | 2024-08-03 |
 | [Go Your Own Way](https://open.spotify.com/track/50M460tbcGAaJuX0HQJygx) | [SloCoast](https://open.spotify.com/artist/1pqfEZcU2ZglurzGnEkaNd) | [Go Your Own Way](https://open.spotify.com/album/3USoKckUZmdxDJsOoUZipo) | 4:07 | 2024-03-22 |  |
+| [Going To California](https://open.spotify.com/track/1GreApnsVuQ45DwAaTTDgH) | [Grace Bowers & The Hodge Podge](https://open.spotify.com/artist/3JX7toZYBPbth2CCq78kBx), [Lucie Silvas](https://open.spotify.com/artist/57HiMjhnxdJflQodRyC5Ju), [Caroline Jones](https://open.spotify.com/artist/3xl6isKUFqJNui79kpdT0Y), [SistaStrings](https://open.spotify.com/artist/4XCzC4PAZ8KyL7wzqU6z8g), [Sierra Hull](https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB) | [Going to California](https://open.spotify.com/album/3UCiAPojwoDuxzbawjPyCQ) | 4:10 | 2024-10-04 |  |
 | [good 4 u \- Spotify Sessions](https://open.spotify.com/track/3ruHm5bxqfPnAO14kYGvFx) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE), [Molly Tuttle & Golden Highway](https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n) | [good 4 u / Dooley's Farm \(Spotify Singles\)](https://open.spotify.com/album/65mrgLaC6S4drN9PoJRxKm) | 3:36 | 2023-02-03 |  |
 | [Goodbye Yellow Brick Road](https://open.spotify.com/track/3V0vJXkBDGEZsG2mMzm32S) | [Fireside Collective](https://open.spotify.com/artist/5pTVgcphr57bYahGLO4bSC) | [Goodbye Yellow Brick Road](https://open.spotify.com/album/1XtucozRRB6IZq6m8vj8nm) | 4:29 | 2023-03-10 |  |
 | [Graceland \(Live Session\)](https://open.spotify.com/track/2JHkGl5zdenvGo63yTDgH4) | [Ramsey Thornton](https://open.spotify.com/artist/16Yf6ZfrDTWu4jt7GQrjdL) | [Graceland \(Live Session\)](https://open.spotify.com/album/4LdhAmf3FFE23z5GfpyV7A) | 3:06 | 2023-09-22 |  |

@@ -27055,6 +27055,28 @@
     },
     {
       "album": {
+        "name": "Vanilj",
+        "url": "https://open.spotify.com/album/5QuG1YYAkTFUF7DETHLleW"
+      },
+      "artists": [
+        {
+          "name": "BoBa",
+          "url": "https://open.spotify.com/artist/4Ui11oqvDCTqw4fxX2XkFW"
+        },
+        {
+          "name": "Malik Dalasi",
+          "url": "https://open.spotify.com/artist/1n3grwmOigAA2UYtlF91gc"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139516,
+      "name": "Vanilj",
+      "url": "https://open.spotify.com/track/2CBuonjhTSzjzDBKNhjxlF"
+    },
+    {
+      "album": {
         "name": "Vegas (From the Original Motion Picture Soundtrack ELVIS)",
         "url": "https://open.spotify.com/album/2Q5DPv9uliinOBSdNooIe3"
       },

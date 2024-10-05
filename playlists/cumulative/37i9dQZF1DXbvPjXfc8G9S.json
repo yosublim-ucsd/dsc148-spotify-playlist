@@ -628,7 +628,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 163979,
       "name": "CASI ALGO",
       "url": "https://open.spotify.com/track/6tuLAQURf4P97dD750iTaJ"
@@ -1787,6 +1787,24 @@
     },
     {
       "album": {
+        "name": "Frente al Mar",
+        "url": "https://open.spotify.com/album/0Wf0E2diHQJRdkPR12BcXs"
+      },
+      "artists": [
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165178,
+      "name": "Frente al Mar",
+      "url": "https://open.spotify.com/track/60u6hcpH5Qm1M3xESdNBrB"
+    },
+    {
+      "album": {
         "name": "en dormir sin Madrid",
         "url": "https://open.spotify.com/album/4NMv3cMkDwkkR6EdLloQDB"
       },
@@ -2205,6 +2223,24 @@
     },
     {
       "album": {
+        "name": "KINTSUGI",
+        "url": "https://open.spotify.com/album/2icg5AKoqW4jWW9vdkENlZ"
+      },
+      "artists": [
+        {
+          "name": "HUMBE",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237908,
+      "name": "KINTSUGI",
+      "url": "https://open.spotify.com/track/1qbql17v0Hazo94o5RUyWQ"
+    },
+    {
+      "album": {
         "name": "KLKNTOKI",
         "url": "https://open.spotify.com/album/7gESv8nqIStiWMjTT4C4Wc"
       },
@@ -2382,7 +2418,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 242573,
       "name": "LA CANCI\u00d3N",
       "url": "https://open.spotify.com/track/0fea68AdmYNygeTGI4RC18"
@@ -3670,7 +3706,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 201935,
       "name": "offline",
       "url": "https://open.spotify.com/track/7s4emXHJwAuo5VvGBXmnBL"
@@ -3880,6 +3916,24 @@
       "duration_ms": 179693,
       "name": "Pa' La Playa",
       "url": "https://open.spotify.com/track/21LcaVx8JTXBBN0Cthatx7"
+    },
+    {
+      "album": {
+        "name": "El Fenomeno",
+        "url": "https://open.spotify.com/album/5MLBEmgDNIltSfxvXesq9s"
+      },
+      "artists": [
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214120,
+      "name": "Pa' Que La Pases Bien",
+      "url": "https://open.spotify.com/track/1pLCpA1RN8avJxSD3ZCwhj"
     },
     {
       "album": {
@@ -4464,7 +4518,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 150618,
       "name": "QUEMA",
       "url": "https://open.spotify.com/track/2hn2zOA2XFlv6DSmesylrL"
@@ -4508,6 +4562,28 @@
       "duration_ms": 191945,
       "name": "Qui\u00e9reme Mientras Se Pueda",
       "url": "https://open.spotify.com/track/1WH3iquIQXnSPwUzlROT8R"
+    },
+    {
+      "album": {
+        "name": "Qu\u00e9 Pecao",
+        "url": "https://open.spotify.com/album/753zWh3I26DZ8pCOfJFZfA"
+      },
+      "artists": [
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        },
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230073,
+      "name": "Qu\u00e9 Pecao",
+      "url": "https://open.spotify.com/track/456U68M8lIymkz56Zroxh8"
     },
     {
       "album": {
@@ -5638,7 +5714,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 239986,
       "name": "Una Velita",
       "url": "https://open.spotify.com/track/059qzhNaJb8tsqpdl2bHfF"
@@ -6128,6 +6204,28 @@
       "duration_ms": 236110,
       "name": "Ziploc (Blessd Version)",
       "url": "https://open.spotify.com/track/3JYw9n3rJTVQryVz1rwlH4"
+    },
+    {
+      "album": {
+        "name": "\u00bfQue Te Pas\u00f3?",
+        "url": "https://open.spotify.com/album/7aNA8T8Ycq3EG3tQJr1q9h"
+      },
+      "artists": [
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        },
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168266,
+      "name": "\u00bfQue Te Pas\u00f3?",
+      "url": "https://open.spotify.com/track/6TyzdTASQrRujdjPP93AJe"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXbvPjXfc8G9S"

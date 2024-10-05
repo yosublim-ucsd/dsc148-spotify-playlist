@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3F1zmg.md) - [plain]
 
 ### [This Is Saweetie](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3F1zmg)
 
-> This is Saweetie\. The essential tracks, all in one playlist.
+> This Is Saweetie\. Les titres incontournables, réunis dans une seule et même playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,989 likes - 51 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,054 likes - 51 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3F1zmg.md) - [plain]
 | 9 | [ICY GRL](https://open.spotify.com/track/1sl1cpix9GnwNwaVt04BIu) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [High Maintenance](https://open.spotify.com/album/4Sz0PugCLKo0CEA7zgPplW) | 1:49 |
 | 10 | [My Best](https://open.spotify.com/track/3qAMlVUvNZVpxA85pFPxOT) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [My Best](https://open.spotify.com/album/6Jntu9qLC1fkwjDFm9hWMK) | 2:01 |
 | 11 | [rock your hips \(with Saweetie\)](https://open.spotify.com/track/4bqA1tazvCKspZmLRvaSyo) | [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [rock your hips \(with Saweetie\)](https://open.spotify.com/album/7uVBdFdbVktWF8ULRD5k8i) | 2:12 |
-| 12 | [Proclivities \(feat\. Saweetie\)](https://open.spotify.com/track/2sOnlJG7pZXYM7s1z8S5Qk) | [LL COOL J](https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [THE FORCE](https://open.spotify.com/album/1Q7mpQ7mDOK2snlbb0g5Q2) | 3:39 |
-| 13 | [Sway With Me \(with GALXARA\)](https://open.spotify.com/track/5gqLY5H1ZyT3BScVr0nDMs) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [GALXARA](https://open.spotify.com/artist/0tu3jGW89NZZ8qrpd8c7xC) | [Sway With Me \(with GALXARA\)](https://open.spotify.com/album/5uC0YWUVDKRZD9x1cRgjyu) | 2:48 |
+| 12 | [Sway With Me \(with GALXARA\)](https://open.spotify.com/track/5gqLY5H1ZyT3BScVr0nDMs) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [GALXARA](https://open.spotify.com/artist/0tu3jGW89NZZ8qrpd8c7xC) | [Sway With Me \(with GALXARA\)](https://open.spotify.com/album/5uC0YWUVDKRZD9x1cRgjyu) | 2:48 |
+| 13 | [Proclivities \(feat\. Saweetie\)](https://open.spotify.com/track/2sOnlJG7pZXYM7s1z8S5Qk) | [LL COOL J](https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [THE FORCE](https://open.spotify.com/album/1Q7mpQ7mDOK2snlbb0g5Q2) | 3:39 |
 | 14 | [Kings & Queens, Pt\. 2 \(feat\. Lauv & Saweetie\)](https://open.spotify.com/track/5rB5mfeFCkUI3nkHQMMZ3K) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F), [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Kings & Queens, Pt\. 2 \(feat\. Lauv & Saweetie\)](https://open.spotify.com/album/2kzL3gkr5jufUyowwonTlf) | 2:55 |
 | 15 | [Back to the Streets \(feat\. Jhené Aiko\)](https://open.spotify.com/track/3MEruRteiUZXkStfTlZqRn) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Back to the Streets \(feat\. Jhené Aiko\)](https://open.spotify.com/album/5Qg2XXhV3sxOgfbXtAhU3N) | 3:09 |
 | 16 | [Faking Love \(feat\. Saweetie\)](https://open.spotify.com/track/3V7jLMYvvg4BHi4tmDveNc) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Faking Love \(feat\. Saweetie\)](https://open.spotify.com/album/0keCRGjhQNl2Wba6nSwqgx) | 2:28 |
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3F1zmg.md) - [plain]
 | 36 | [Talkin' Bout \(feat\. Saweetie\)](https://open.spotify.com/track/66vs64VphiHrtFcLR6Qeav) | [Loui](https://open.spotify.com/artist/053fl1QPQFGqSPPxSPcacT), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Pretty Summer Playlist: Season 1](https://open.spotify.com/album/2HOYNp9NxRakR9u9na7Wth) | 2:06 |
 | 37 | [SHOT O' CLOCK](https://open.spotify.com/track/1c99LA5Cf1agM5NMMAzVwc) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [SHOT O' CLOCK](https://open.spotify.com/album/0FGFaLjqjVkavZbKtFTWXJ) | 2:30 |
 | 38 | [Pretty Bitch Freestyle](https://open.spotify.com/track/7Hhtz9zeiTz03DSIcXjV4V) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Pretty Bitch Freestyle](https://open.spotify.com/album/4AFMc41peNA5Pf2JbXEpdK) | 2:09 |
-| 39 | [Tip Toes \(feat\. Quavo\)](https://open.spotify.com/track/6001xXfECxjyKrrbbRF0Vl) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [ICY](https://open.spotify.com/album/7mdpibDh6Sec6o6zItcSEH) | 2:51 |
-| 40 | [High Maintenance](https://open.spotify.com/track/3pxHcgYG8aKkclfWXBFSWv) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [High Maintenance](https://open.spotify.com/album/4Sz0PugCLKo0CEA7zgPplW) | 0:49 |
+| 39 | [High Maintenance](https://open.spotify.com/track/3pxHcgYG8aKkclfWXBFSWv) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [High Maintenance](https://open.spotify.com/album/4Sz0PugCLKo0CEA7zgPplW) | 0:49 |
+| 40 | [Tip Toes \(feat\. Quavo\)](https://open.spotify.com/track/6001xXfECxjyKrrbbRF0Vl) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [ICY](https://open.spotify.com/album/7mdpibDh6Sec6o6zItcSEH) | 2:51 |
 | 41 | [Feels](https://open.spotify.com/track/6jdkNQpwclqrrgcxbz6GA5) | [Nissy](https://open.spotify.com/artist/4L9VSeE7K3BTBndqEL9A6q), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Feels](https://open.spotify.com/album/7KkdRBQs12lylKXSrWHbx8) | 3:28 |
 | 42 | [Addiction \(feat\. Lil Wayne & Saweetie\)](https://open.spotify.com/track/62TseHr3oK08tbDG5LgdUv) | [Big K.R.I.T.](https://open.spotify.com/artist/0CKa42Jqrc9fSFbDjePaXP), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [K.R.I.T\. IZ HERE](https://open.spotify.com/album/0d8sN1OuLU70PyYVBJzBmG) | 2:49 |
 | 43 | [You Come First \(feat\. Saweetie\)](https://open.spotify.com/track/5Ef2noaxqTAfa5gLVw05OJ) | [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [You Come First \(feat\. Saweetie\)](https://open.spotify.com/album/53fnJWISeZ4hjXYXBDVqB0) | 3:11 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3F1zmg.md) - [plain]
 | 50 | [GIVE IT TO EM \(feat\. Saweetie\)](https://open.spotify.com/track/1kvt3N2KmoSAunaEJNrgNM) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [QUAVO HUNCHO](https://open.spotify.com/album/2DjfazR5N3TgXBQ7oVALA1) | 3:02 |
 | 51 | [Up Now \(feat\. G\-Eazy and Rich The Kid\)](https://open.spotify.com/track/01TreyTchXP0J1Mn6wcVHt) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [London On Da Track](https://open.spotify.com/artist/5Nf5yishRW9Ye174sJISkg), [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI) | [Up Now \(feat\. G\-Eazy and Rich The Kid\)](https://open.spotify.com/album/3joOEhJbsckuCFIF5G8veI) | 3:18 |
 
-Snapshot ID: `ZvyNAAAAAADp8ZyCCGwiwjc8rzzB260y`
+Snapshot ID: `Zv3egAAAAAAsFml86IewtsFcoQq24r76`

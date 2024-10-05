@@ -1,6 +1,6 @@
 {
   "description": "calma malvadeza \ud83d\udc40 \ud83d\ude30",
-  "num_followers": 57815,
+  "num_followers": 57853,
   "original_name": "Baby Hair",
   "owner": {
     "name": "Spotify",
@@ -371,8 +371,8 @@
     {
       "added_at": "2024-09-13 03:01:00",
       "album": {
-        "name": "Piranha",
-        "url": "https://open.spotify.com/album/7Msb9eEGxaujbKTFzL9ykK"
+        "name": "44",
+        "url": "https://open.spotify.com/album/54SQtN4KEfykOFgjtKXLzr"
       },
       "artists": [
         {
@@ -380,17 +380,13 @@
           "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
         },
         {
-          "name": "Ajuliacosta",
-          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
-        },
-        {
-          "name": "Mello Santana",
-          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
+          "name": "Marcos Beatman",
+          "url": "https://open.spotify.com/artist/42VxOCKKlEXQ1kgDZBXnfk"
         }
       ],
-      "duration_ms": 176098,
-      "name": "Piranha",
-      "url": "https://open.spotify.com/track/3FVtG5hvfbOpcQipyovIZE"
+      "duration_ms": 196165,
+      "name": "Rotina",
+      "url": "https://open.spotify.com/track/5lnUkWihFa5guFzLi8y8Hb"
     },
     {
       "added_at": "2024-09-13 03:01:00",
@@ -531,8 +527,8 @@
     {
       "added_at": "2024-09-13 03:01:00",
       "album": {
-        "name": "44",
-        "url": "https://open.spotify.com/album/54SQtN4KEfykOFgjtKXLzr"
+        "name": "Piranha",
+        "url": "https://open.spotify.com/album/7Msb9eEGxaujbKTFzL9ykK"
       },
       "artists": [
         {
@@ -540,13 +536,17 @@
           "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
         },
         {
-          "name": "Marcos Beatman",
-          "url": "https://open.spotify.com/artist/42VxOCKKlEXQ1kgDZBXnfk"
+          "name": "Ajuliacosta",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        },
+        {
+          "name": "Mello Santana",
+          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
         }
       ],
-      "duration_ms": 196165,
-      "name": "Rotina",
-      "url": "https://open.spotify.com/track/5lnUkWihFa5guFzLi8y8Hb"
+      "duration_ms": 176098,
+      "name": "Piranha",
+      "url": "https://open.spotify.com/track/3FVtG5hvfbOpcQipyovIZE"
     },
     {
       "added_at": "2024-09-13 03:01:00",
@@ -983,6 +983,22 @@
     {
       "added_at": "2024-09-13 03:01:00",
       "album": {
+        "name": "Trik Trik",
+        "url": "https://open.spotify.com/album/06vB960YqXyLlWcR8xZmpw"
+      },
+      "artists": [
+        {
+          "name": "Paige",
+          "url": "https://open.spotify.com/artist/1XqfMFbATKSRu5nDy2AZO9"
+        }
+      ],
+      "duration_ms": 183370,
+      "name": "Trik Trik",
+      "url": "https://open.spotify.com/track/0RrCvxhHeL45xX9VZqzZbn"
+    },
+    {
+      "added_at": "2024-09-13 03:01:00",
+      "album": {
         "name": "Aquecimento",
         "url": "https://open.spotify.com/album/7D9ko1HfH2A1tTOA8UYyaw"
       },
@@ -999,22 +1015,6 @@
       "duration_ms": 123444,
       "name": "Aquecimento",
       "url": "https://open.spotify.com/track/50xFtTjve71h0UwBRM5aWW"
-    },
-    {
-      "added_at": "2024-09-13 03:01:00",
-      "album": {
-        "name": "Trik Trik",
-        "url": "https://open.spotify.com/album/06vB960YqXyLlWcR8xZmpw"
-      },
-      "artists": [
-        {
-          "name": "Paige",
-          "url": "https://open.spotify.com/artist/1XqfMFbATKSRu5nDy2AZO9"
-        }
-      ],
-      "duration_ms": 183370,
-      "name": "Trik Trik",
-      "url": "https://open.spotify.com/track/0RrCvxhHeL45xX9VZqzZbn"
     },
     {
       "added_at": "2024-09-13 03:01:00",
@@ -1070,6 +1070,10 @@
         {
           "name": "\u00c1urea Semiseria",
           "url": "https://open.spotify.com/artist/79ZAZiRVZscNhWmqN5HBHg"
+        },
+        {
+          "name": "El Lif Beatz",
+          "url": "https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k"
         }
       ],
       "duration_ms": 173419,

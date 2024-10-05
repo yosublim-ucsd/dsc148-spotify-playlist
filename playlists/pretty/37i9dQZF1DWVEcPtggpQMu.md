@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEcPtggpQMu.md) - [plain]
 
 ### [Mzansi Raps](https://open.spotify.com/playlist/37i9dQZF1DWVEcPtggpQMu)
 
-> Only the hottest South African rap from the streets\. <br/>Cover: <a href="https://open.spotify.com/artist/7gYT0XHEBgTgfgNK0566DT?si=LURnSwVZThO6B8Ahitusmw">Dee Koala</a>
+> Only the hottest South African rap from the streets\. <br/>Cover: <a href="https://open.spotify.com/artist/0DdgjYMzRw7t9TVwFuBI0V?si=oTilfj6VTeOvCtUDnyTE8g">Roiii</a>,  <a href="https://open.spotify.com/artist/1m1TdFQCnKHcfVlO17avCF?si=YqTngCuDSlq5L6WQLYpVdg">Boity</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,103 likes - 70 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,176 likes - 70 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEcPtggpQMu.md) - [plain]
 | 69 | [Iller Than](https://open.spotify.com/track/4knUyn0BwHlm3gJkoK5rVV) | [ZuluMecca](https://open.spotify.com/artist/0NP68X3OIbbv98djUruUKU) | [SEAMS.](https://open.spotify.com/album/7nH0y4NPxC4EX8ZHFfjxwN) | 2:49 |
 | 70 | [Uyabona Nawe Mos](https://open.spotify.com/track/2rZyUezasQb12s14LbjX9R) | [Uno July](https://open.spotify.com/artist/1mQqEaVRBOBiS8xpPiRw5i) | [Uyabona Nawe Mos](https://open.spotify.com/album/3PZZyIQEYsauTJFlvld1RE) | 1:50 |
 
-Snapshot ID: `Zv8yogAAAACGgatajdKkXClAZ9PKKFeB`
+Snapshot ID: `Zv+vbAAAAACcpf4mw5YJ415NL62GRXrK`

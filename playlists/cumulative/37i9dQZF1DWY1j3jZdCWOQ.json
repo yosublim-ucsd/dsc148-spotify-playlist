@@ -856,7 +856,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-01",
+      "date_removed": null,
       "duration_ms": 177626,
       "name": "Candy Coated Lie$",
       "url": "https://open.spotify.com/track/5Xr1q4GLTnNZu6c4K9rsNh"
@@ -2890,7 +2890,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 228133,
       "name": "LOSER!!",
       "url": "https://open.spotify.com/track/5lHh9CANIUY82y1HEzoeIX"
@@ -5035,6 +5035,24 @@
     },
     {
       "album": {
+        "name": "Vienna (Everything\u2019s Fine)",
+        "url": "https://open.spotify.com/album/47wbE9QX926Oc3UIFAnKFQ"
+      },
+      "artists": [
+        {
+          "name": "Vienna Vienna",
+          "url": "https://open.spotify.com/artist/5ZVQRC3rtUNBJVrrrSl17r"
+        }
+      ],
+      "date_added": "2024-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177035,
+      "name": "Vienna (Everything\u2019s Fine)",
+      "url": "https://open.spotify.com/track/4MZkA1wOfqYclYkQt7MUEd"
+    },
+    {
+      "album": {
         "name": "Violent Things",
         "url": "https://open.spotify.com/album/1KLBdhphdiK82hYpAiw8DR"
       },
@@ -5104,7 +5122,7 @@
       ],
       "date_added": "2024-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 178333,
       "name": "Vultures (feat. PVRIS)",
       "url": "https://open.spotify.com/track/0O1APvs7Bfe7YaQO8ekg1z"

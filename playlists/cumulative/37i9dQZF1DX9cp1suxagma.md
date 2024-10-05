@@ -4,7 +4,7 @@
 
 > Pop de los mejores artistas colombianos\. ¡Dale play! Foto: Morat
 
-239 songs - 12 hr 39 min
+240 songs - 12 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,7 +138,7 @@
 | [Mi Mejor Versión](https://open.spotify.com/track/12h7391GtB8rPilYJIMTGn) | [Estereobeat](https://open.spotify.com/artist/4i70orTITjlYP1lDoHPsZr) | [Mi Mejor Versión](https://open.spotify.com/album/7jdnTfdrHDHAD20lF1BYaZ) | 2:29 | 2023-12-15 | 2024-02-03 |
 | [Mi Pecadito](https://open.spotify.com/track/5yrbKnKL9mKC61StX948w1) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Mi Pecadito](https://open.spotify.com/album/2YsZcOI0c1Eyo0JlDAGwXD) | 3:17 | 2023-03-17 |  |
 | [Miel](https://open.spotify.com/track/3wGbZ2074p60hhavjQMF6l) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Si Te Soy Sincera](https://open.spotify.com/album/70uZwbL7dkxlCxuYhNmrSS) | 2:39 | 2023-05-19 |  |
-| [Mosaico Pirata](https://open.spotify.com/track/5lnqF1tIXA4SDd4wxQVsaV) | [Duplat](https://open.spotify.com/artist/74Bgwc5zD9KyNHiMqy2QJO), [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [Mosaico Pirata](https://open.spotify.com/album/5D86xGaD8KNU6H6JH9Rftz) | 2:59 | 2024-07-26 |  |
+| [Mosaico Pirata](https://open.spotify.com/track/5lnqF1tIXA4SDd4wxQVsaV) | [Duplat](https://open.spotify.com/artist/74Bgwc5zD9KyNHiMqy2QJO), [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [Mosaico Pirata](https://open.spotify.com/album/5D86xGaD8KNU6H6JH9Rftz) | 2:59 | 2024-07-26 | 2024-10-05 |
 | [Mundos Aparte](https://open.spotify.com/track/5sfnG7xd8angYVfT9RgdgQ) | [Wamba](https://open.spotify.com/artist/70psacNWL8yL2MPne6sgaB) | [Mundos Aparte](https://open.spotify.com/album/1X6UZEiG0dCcwaz8n0gUMO) | 2:44 | 2023-02-17 | 2024-05-04 |
 | [Muriendo en Vida](https://open.spotify.com/track/1cP7B6Fn6hOzZnvoKVOyBo) | [Sinisterra](https://open.spotify.com/artist/46hFpNlGbQT8hFf233H29I) | [Muriendo en Vida](https://open.spotify.com/album/5HzmWdLS7wuVNcjd8sBRZB) | 2:45 | 2023-03-09 |  |
 | [Máquina del Tiempo](https://open.spotify.com/track/7rGpG81sWMUcxkyJwvmlAq) | [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK) | [Máquina del Tiempo](https://open.spotify.com/album/7oXFKwMbYhY6K8P6Skp3hM) | 2:33 | 2023-09-15 | 2024-06-29 |
@@ -201,6 +201,7 @@
 | [Soltar](https://open.spotify.com/track/5iKm6jYs4eJIQROWw69Faf) | [Wamba](https://open.spotify.com/artist/70psacNWL8yL2MPne6sgaB), [Andy G](https://open.spotify.com/artist/7rzrrEp4bNPTsktfkWphSQ) | [Soltar](https://open.spotify.com/album/6cjPFGtVkGI1KwJM2AQc3C) | 3:15 | 2023-06-30 | 2023-08-12 |
 | [Soltera](https://open.spotify.com/track/3OJDtCdYs8QJnui708tEU3) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Soltera](https://open.spotify.com/album/0VRb8B2ls0GDEfmKiL8FWJ) | 3:34 | 2024-09-27 |  |
 | [Suerte \(Whenever, Wherever\)](https://open.spotify.com/track/3TY1PFZXmYeiLcXygB74My) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Laundry Service](https://open.spotify.com/album/4DyMK9x2gnmRkRa16zHaEV) | 3:14 | 2023-09-25 | 2023-10-07 |
+| [Summer En París](https://open.spotify.com/track/3uunvMbxsCZmzgHmOJJe4Y) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [Summer En París](https://open.spotify.com/album/3qLo8V07kEVNmjuklblbk5) | 3:05 | 2024-10-04 |  |
 | [Tabaco y Chanel \- Re\-Recorded](https://open.spotify.com/track/4HDgFMEOyaqsashrPpeAu2) | [Bacilos](https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl), [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Tabaco y Chanel \(Re\-Recorded\)](https://open.spotify.com/album/5icBj9TnIae7ihDILXJfW9) | 5:15 | 2023-02-17 |  |
 | [Tacones Rojos](https://open.spotify.com/track/0Be7sopyKMv8Y8npsUkax2) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Tacones Rojos](https://open.spotify.com/album/4mdWMx4VouAqsIqgLt3R6S) | 3:09 | 2023-02-17 |  |
 | [Tarde](https://open.spotify.com/track/2TjbYeDUbfTK9xTdj6oyuR) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Antes De Que Amanezca](https://open.spotify.com/album/2gg7wgRW4yK27ex7rNvWuW) | 2:42 | 2023-12-15 | 2024-04-19 |

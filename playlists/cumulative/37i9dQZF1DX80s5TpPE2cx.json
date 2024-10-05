@@ -143,6 +143,28 @@
     },
     {
       "album": {
+        "name": "All Night",
+        "url": "https://open.spotify.com/album/2B6i1KEFu7lM0zkOB8eMX9"
+      },
+      "artists": [
+        {
+          "name": "Tim Lyre",
+          "url": "https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx"
+        },
+        {
+          "name": "Boj",
+          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161239,
+      "name": "All Night",
+      "url": "https://open.spotify.com/track/25uJVYALP00tDoPMUzquV7"
+    },
+    {
+      "album": {
         "name": "rare.",
         "url": "https://open.spotify.com/album/2rCQfEwg1KO3gksFF2Wq48"
       },
@@ -202,7 +224,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 280888,
       "name": "ARE YOU ALRiGHT?",
       "url": "https://open.spotify.com/track/6NvzVmhpOTyITRRdt9ibmF"
@@ -540,7 +562,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 172800,
       "name": "China Designer",
       "url": "https://open.spotify.com/track/67OocI3BccxEbDwPoJGwk0"
@@ -985,6 +1007,24 @@
     },
     {
       "album": {
+        "name": "Happy",
+        "url": "https://open.spotify.com/album/6h0gTnUQ4Af24CpoCQrYrN"
+      },
+      "artists": [
+        {
+          "name": "Mellissa",
+          "url": "https://open.spotify.com/artist/30OlnKlh10yCfIuAWBmBkW"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182428,
+      "name": "Happy",
+      "url": "https://open.spotify.com/track/18YxsuoZE1aPf5xs5WIwtY"
+    },
+    {
+      "album": {
         "name": "Happy Hour (feat. Okuntakinte)",
         "url": "https://open.spotify.com/album/2Jedf85FITOVIpd8VzGc4J"
       },
@@ -1004,6 +1044,24 @@
       "duration_ms": 260075,
       "name": "Happy Hour (feat. Okuntakinte)",
       "url": "https://open.spotify.com/track/37PhY5sfXk1yiIdHquMrn5"
+    },
+    {
+      "album": {
+        "name": "Head Start",
+        "url": "https://open.spotify.com/album/02OOD9WmhXOFZEUsZ7CYQb"
+      },
+      "artists": [
+        {
+          "name": "Bloody Civilian",
+          "url": "https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134547,
+      "name": "Head Start",
+      "url": "https://open.spotify.com/track/4N7alCheeoFUxAAKkuTzU5"
     },
     {
       "album": {
@@ -1376,6 +1434,24 @@
       "duration_ms": 153846,
       "name": "LEANING",
       "url": "https://open.spotify.com/track/0WGjqLXOGnMWXG1fI40k6q"
+    },
+    {
+      "album": {
+        "name": "Let It Flow",
+        "url": "https://open.spotify.com/album/009Hlm8szvOBi5HbUGiNvY"
+      },
+      "artists": [
+        {
+          "name": "Maya Amolo",
+          "url": "https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178348,
+      "name": "Let It Flow",
+      "url": "https://open.spotify.com/track/0bUfQU4x6h1pkq7L1ztxi5"
     },
     {
       "album": {
@@ -2152,7 +2228,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 151578,
       "name": "Smooth Criminal",
       "url": "https://open.spotify.com/track/4hVnFwqGpRQJexdLoNwCFn"
@@ -2230,7 +2306,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 193249,
       "name": "SPACE",
       "url": "https://open.spotify.com/track/2pdBq0lWsGjSiDP2T6NSZ0"
@@ -2751,6 +2827,24 @@
     },
     {
       "album": {
+        "name": "Unruly",
+        "url": "https://open.spotify.com/album/1oqD64QwyyRfz3h8gWDD1T"
+      },
+      "artists": [
+        {
+          "name": "Rukmani",
+          "url": "https://open.spotify.com/artist/4lz2CgyavcVw3XfnvID7FV"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153548,
+      "name": "Unruly",
+      "url": "https://open.spotify.com/track/58Wujfnk39NKHNwmEXqGx2"
+    },
+    {
+      "album": {
         "name": "Bri's Lounge",
         "url": "https://open.spotify.com/album/5RZYdZDTZdvlVl11IXCPU4"
       },
@@ -2806,7 +2900,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 164680,
       "name": "WASTELINE",
       "url": "https://open.spotify.com/track/6zwNCNnzNfhC5XEhnG9F7Z"

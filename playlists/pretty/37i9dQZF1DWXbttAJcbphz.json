@@ -1,28 +1,28 @@
 {
-  "description": "Celebrating 10 years of \"Souled Out\". Cover: Jhen\u00e9 Aiko",
-  "num_followers": 1691600,
+  "description": "Celebrating 5 years of \"Over It\". Cover: Summer Walker",
+  "num_followers": 1691893,
   "original_name": "I Love My '10s R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zt5ywAAAAAC2DtogrMvTYw4wzGx9rsRQ",
+  "snapshot_id": "Zv9oQAAAAABMR3fwjH2AVjjYZssHGnj9",
   "tracks": [
     {
-      "added_at": "2024-09-09 04:00:00",
+      "added_at": "2022-08-21 21:13:22",
       "album": {
-        "name": "Souled Out (Deluxe)",
-        "url": "https://open.spotify.com/album/6UKXuiWFuwxzC5rd0SW4Bo"
+        "name": "Over It",
+        "url": "https://open.spotify.com/album/1qgJNWnPIeK9rx7hF8JCPK"
       },
       "artists": [
         {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
         }
       ],
-      "duration_ms": 217026,
-      "name": "Blue Dream",
-      "url": "https://open.spotify.com/track/4Y8MG7qcAMk7JB7Eebpcvu"
+      "duration_ms": 143666,
+      "name": "Playing Games",
+      "url": "https://open.spotify.com/track/4hWgC5BV5M7EtTleKVXNxw"
     },
     {
       "added_at": "2020-10-02 17:39:19",
@@ -81,20 +81,20 @@
       "url": "https://open.spotify.com/track/0KKkJNfGyhkQ5aFogxQAPU"
     },
     {
-      "added_at": "2024-09-09 04:00:00",
+      "added_at": "2022-08-21 21:13:22",
       "album": {
-        "name": "Souled Out (Deluxe)",
-        "url": "https://open.spotify.com/album/6UKXuiWFuwxzC5rd0SW4Bo"
+        "name": "Over It",
+        "url": "https://open.spotify.com/album/1qgJNWnPIeK9rx7hF8JCPK"
       },
       "artists": [
         {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
         }
       ],
-      "duration_ms": 238773,
-      "name": "W.A.Y.S.",
-      "url": "https://open.spotify.com/track/7jjKsW39O1i8hKF31ShpV9"
+      "duration_ms": 193840,
+      "name": "Body",
+      "url": "https://open.spotify.com/track/7vxLj7MREliG5i5vSnqSVr"
     },
     {
       "added_at": "2020-10-02 17:39:19",
@@ -637,26 +637,6 @@
       "url": "https://open.spotify.com/track/0wwPcA6wtMf6HUMpIRdeP7"
     },
     {
-      "added_at": "2022-08-21 21:13:22",
-      "album": {
-        "name": "Last Day Of Summer",
-        "url": "https://open.spotify.com/album/4hTM8jZ8DCCqglmZUDMSPz"
-      },
-      "artists": [
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 222374,
-      "name": "Girls Need Love (with Drake) - Remix",
-      "url": "https://open.spotify.com/track/14SaZBTjxlorHJQxXh01Hu"
-    },
-    {
       "added_at": "2020-10-02 17:39:19",
       "album": {
         "name": "Indigo",
@@ -675,6 +655,26 @@
       "duration_ms": 260640,
       "name": "No Guidance (feat. Drake)",
       "url": "https://open.spotify.com/track/6XHVuErjQ4XNm6nDPVCxVX"
+    },
+    {
+      "added_at": "2022-08-21 21:13:22",
+      "album": {
+        "name": "Last Day Of Summer",
+        "url": "https://open.spotify.com/album/4hTM8jZ8DCCqglmZUDMSPz"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 222374,
+      "name": "Girls Need Love (with Drake) - Remix",
+      "url": "https://open.spotify.com/track/14SaZBTjxlorHJQxXh01Hu"
     },
     {
       "added_at": "2022-08-21 21:13:22",
@@ -1157,20 +1157,20 @@
       "url": "https://open.spotify.com/track/25cUhiAod71TIQSNicOaW3"
     },
     {
-      "added_at": "2022-08-04 19:06:56",
+      "added_at": "2020-10-02 17:39:19",
       "album": {
-        "name": "Last Day Of Summer",
-        "url": "https://open.spotify.com/album/4hTM8jZ8DCCqglmZUDMSPz"
+        "name": "Trip",
+        "url": "https://open.spotify.com/album/7CAAClnSiXdMibPT1oyl4k"
       },
       "artists": [
         {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
         }
       ],
-      "duration_ms": 188906,
-      "name": "Karma",
-      "url": "https://open.spotify.com/track/2Fyjjpg03fn7n5cj0Qm380"
+      "duration_ms": 236160,
+      "name": "While We're Young",
+      "url": "https://open.spotify.com/track/4mL59LVbKgOpEACxraGYdr"
     },
     {
       "added_at": "2022-08-21 21:13:22",
@@ -1375,26 +1375,6 @@
     {
       "added_at": "2020-10-02 17:39:19",
       "album": {
-        "name": "Late Nights: The Album",
-        "url": "https://open.spotify.com/album/7DMyQuDPe8xzjC0UDSDa96"
-      },
-      "artists": [
-        {
-          "name": "Jeremih",
-          "url": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg"
-        },
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        }
-      ],
-      "duration_ms": 240320,
-      "name": "Planez",
-      "url": "https://open.spotify.com/track/08zJpaUQVi9FrKv2e32Bah"
-    },
-    {
-      "added_at": "2020-10-02 17:39:19",
-      "album": {
         "name": "Call Me Crazy, But...",
         "url": "https://open.spotify.com/album/3QpNG7nH0VRIeKmMz7lEi7"
       },
@@ -1415,6 +1395,26 @@
     {
       "added_at": "2020-10-02 17:39:19",
       "album": {
+        "name": "Late Nights: The Album",
+        "url": "https://open.spotify.com/album/7DMyQuDPe8xzjC0UDSDa96"
+      },
+      "artists": [
+        {
+          "name": "Jeremih",
+          "url": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 240320,
+      "name": "Planez",
+      "url": "https://open.spotify.com/track/08zJpaUQVi9FrKv2e32Bah"
+    },
+    {
+      "added_at": "2020-10-02 17:39:19",
+      "album": {
         "name": "Trigga Reloaded",
         "url": "https://open.spotify.com/album/3pKTKC0AAe3yTcXQLzvpSW"
       },
@@ -1427,22 +1427,6 @@
       "duration_ms": 197854,
       "name": "Slow Motion",
       "url": "https://open.spotify.com/track/4NYwy0R3NdvORX2B6OZXBT"
-    },
-    {
-      "added_at": "2022-08-21 21:13:22",
-      "album": {
-        "name": "Over It",
-        "url": "https://open.spotify.com/album/1qgJNWnPIeK9rx7hF8JCPK"
-      },
-      "artists": [
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        }
-      ],
-      "duration_ms": 193840,
-      "name": "Body",
-      "url": "https://open.spotify.com/track/7vxLj7MREliG5i5vSnqSVr"
     },
     {
       "added_at": "2022-08-21 21:13:22",
@@ -1475,6 +1459,22 @@
       "duration_ms": 161200,
       "name": "Pour It Up",
       "url": "https://open.spotify.com/track/76VtA90NKurNqaQpV126Ue"
+    },
+    {
+      "added_at": "2024-09-09 04:00:00",
+      "album": {
+        "name": "Souled Out (Deluxe)",
+        "url": "https://open.spotify.com/album/6UKXuiWFuwxzC5rd0SW4Bo"
+      },
+      "artists": [
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "duration_ms": 217026,
+      "name": "Blue Dream",
+      "url": "https://open.spotify.com/track/4Y8MG7qcAMk7JB7Eebpcvu"
     },
     {
       "added_at": "2022-08-21 23:21:50",

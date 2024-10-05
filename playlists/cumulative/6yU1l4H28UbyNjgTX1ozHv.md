@@ -4,7 +4,7 @@
 
 > Driving songs acoustic style! Sit back and enjoy the ride!
 
-255 songs - 13 hr 10 min
+257 songs - 13 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Ain't Nobody \- Acoustic](https://open.spotify.com/track/5WjvEQDGeckLD5BfsE3QnR) | [Kevin Simm](https://open.spotify.com/artist/1CuoMwkIXKILoyW9dIXziU), [Jae Hall](https://open.spotify.com/artist/1rxN6Kd4PGaLmhhW8ktW3d) | [Ain't Nobody \(Acoustic\)](https://open.spotify.com/album/43zIXrsyryxFsZhrTQooND) | 3:04 | 2023-02-10 | 2023-02-28 |
 | [All I Have to Do Is Dream \- Acoustic](https://open.spotify.com/track/1ZInn6dKkIyQv8YFDgmsBD) | [Mysha Didi](https://open.spotify.com/artist/69XUUcGUrO85U9pCZGcWgI) | [All I Have to Do Is Dream \(Acoustic\)](https://open.spotify.com/album/0kG9UJ3SqUt8vAq7g9jRcs) | 2:12 | 2023-01-06 |  |
 | [All I Want](https://open.spotify.com/track/10MfRY0BlY64cFKsmNWbzw) | [Tanaë](https://open.spotify.com/artist/5a4jgwRzY0q9KopqjYrIe1), [Damien McFly](https://open.spotify.com/artist/2ft7APiBr9l00FbsSnu92x) | [All I Want](https://open.spotify.com/album/2CCjWEsPiaGoFrlTJUruCc) | 3:37 | 2019-10-13 |  |
+| [All the Small Things \- Acoustic](https://open.spotify.com/track/6k0ypm2d1pK54eO4QmpwPv) | [Adam Christopher](https://open.spotify.com/artist/22QkuOmdRnasuuVgUjhrVw) | [All the Small Things \(Acoustic\)](https://open.spotify.com/album/61Ksn6jZJhZvhDktHwSYFW) | 2:25 | 2024-10-04 |  |
 | [All the Small Things \- Acoustic](https://open.spotify.com/track/3l4bwhzSFGV2WSE475EOnh) | [Jay Filson](https://open.spotify.com/artist/7uRzmsDR6QQL4zYgHv2O6p) | [All the Small Things \(Acoustic\)](https://open.spotify.com/album/7aoAhLDhaeBR1dTK7Z5Tgx) | 2:46 | 2024-01-19 |  |
 | [Alone \- Acoustic](https://open.spotify.com/track/1B9WxRqdKbP0gAAL3q9Ohe) | [Beth](https://open.spotify.com/artist/0Tazr7cok0ZIzVWH27sqeY) | [Alone \(Acoustic\)](https://open.spotify.com/album/420N4bPQPoz5sYIhCfF0Z7) | 2:59 | 2023-01-20 | 2023-05-10 |
 | [Are You Lonesome Tonight \- Acoustic](https://open.spotify.com/track/66YElTd7MwaseFmQrl7fml) | [Mack Myles](https://open.spotify.com/artist/3Z3DcVvd27IgmmFqkV7WoW) | [Are You Lonesome Tonight \(Acoustic\)](https://open.spotify.com/album/2TcO9xgFjQFpuxIHpLazvO) | 2:45 | 2022-07-19 | 2023-02-02 |
@@ -46,6 +47,7 @@
 | [Creep](https://open.spotify.com/track/7BRwh1bemr9rFMDeTbcy5S) | [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu) | [Creep](https://open.spotify.com/album/2XbaujqgmPJn92LT1wbKRe) | 3:54 | 2019-10-13 |  |
 | [Dance The Night \- Acoustic](https://open.spotify.com/track/5Rylkdnez4Jye4YHucM3M4) | [Phil Halo](https://open.spotify.com/artist/6dyzieLNuthwQsahZSxbOv), [Julia Ross](https://open.spotify.com/artist/6fOD5mThYrqHe1cyTrKcyu) | [Dance The Night](https://open.spotify.com/album/2LBVTDsPoquLbnLRmwKlMS) | 2:52 | 2023-08-24 |  |
 | [Dancing in the Moonlight \- Acoustic](https://open.spotify.com/track/15ITqJqQ7f3EW9HmSQnzR4) | [Mateo Oxley](https://open.spotify.com/artist/1BJ81QRILzVFcTt8fmqN9r) | [Dancing in the Moonlight \(Acoustic\)](https://open.spotify.com/album/0ldEDXECSxV2KJrwScStqq) | 2:59 | 2021-10-01 | 2023-12-14 |
+| [Dancing Queen \- Acoustic](https://open.spotify.com/track/4PGaZTakItG48FENLQhDyv) | [Bailey Rushlow](https://open.spotify.com/artist/1tTQcokfKcsCxZaHF2pIhw) | [Dancing Queen \(Acoustic\)](https://open.spotify.com/album/70EnDLWEFJv2HyqaFuxlCt) | 2:23 | 2024-10-04 |  |
 | [Daydream Believer \- Acoustic](https://open.spotify.com/track/2tq6QHha0InhddKVEbfHiy) | [Grace George](https://open.spotify.com/artist/5twhJoJJtAOsHl6KQjji8Z) | [Daydream Believer \(Acoustic\)](https://open.spotify.com/album/3qwvjINzC7FN11ZRxVwmsE) | 2:13 | 2023-03-17 | 2024-03-04 |
 | [Dignity \- Acoustic](https://open.spotify.com/track/6WaOpI5POr5KaIFiOTIb1E) | [Richard Watts](https://open.spotify.com/artist/3cGb8b9Zwvka0MWD5RyMDI) | [Dignity \(Acoustic\)](https://open.spotify.com/album/79Dxyo0UTmGpOn14wgQWDM) | 2:53 | 2021-05-28 |  |
 | [Don't Speak \- Acoustic](https://open.spotify.com/track/5x3YOV6iWvn4fe76r6uu61) | [Beth](https://open.spotify.com/artist/0Tazr7cok0ZIzVWH27sqeY) | [Don't Speak \(Acoustic\)](https://open.spotify.com/album/5j7PmYcdv8uHKESf2Byzdy) | 2:20 | 2019-10-13 | 2024-03-09 |
@@ -245,7 +247,7 @@
 | [Wings \- Acoustic](https://open.spotify.com/track/6RABQoaafYVilegWAT8iQK) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Wings \(Acoustic\)](https://open.spotify.com/album/0zKFZC6ieoYGW8IRvRWmoh) | 3:42 | 2019-10-13 |  |
 | [Wonderwall \- Acoustic](https://open.spotify.com/track/12kgqcYiPVRykCQOY0DO75) | [Jacob Wellfair](https://open.spotify.com/artist/3ltleRPN7qd0CQ3rNVMW2V) | [Wonderwall \(Acoustic\)](https://open.spotify.com/album/0xEBQH5UWYX4HFYSGAhgNy) | 3:56 | 2024-05-10 |  |
 | [Wonderwall \- Acoustic](https://open.spotify.com/track/19YPudY9wVuadI8IaFOmIZ) | [John Adams](https://open.spotify.com/artist/4LaimQU44rsz2kMWQmY6Bi) | [Wonderwall \(Acoustic\)](https://open.spotify.com/album/2bWC9zgX6UiPqThc6TtYsF) | 3:16 | 2021-08-06 | 2022-10-15 |
-| [Wouldn't It Be Nice \- Acoustic](https://open.spotify.com/track/2ppKBymgYtlGBzWjRTkrKQ) | [Bailey Rushlow](https://open.spotify.com/artist/1tTQcokfKcsCxZaHF2pIhw) | [Wouldn't It Be Nice \(Acoustic\)](https://open.spotify.com/album/085kDnx6X3C0TI7uocKr1C) | 2:49 | 2023-04-01 |  |
+| [Wouldn't It Be Nice \- Acoustic](https://open.spotify.com/track/2ppKBymgYtlGBzWjRTkrKQ) | [Bailey Rushlow](https://open.spotify.com/artist/1tTQcokfKcsCxZaHF2pIhw) | [Wouldn't It Be Nice \(Acoustic\)](https://open.spotify.com/album/085kDnx6X3C0TI7uocKr1C) | 2:49 | 2023-04-01 | 2024-10-05 |
 | [Wrecking Ball \- Acoustic](https://open.spotify.com/track/6qjfaap6n00ayRLpKRitPE) | [Two Worlds](https://open.spotify.com/artist/472pLATJRRVRxQSxnnlcrB), [Nick Voelker](https://open.spotify.com/artist/1ioHUd8iMMyBVm20hxrhv3), [Adiel Mitchell](https://open.spotify.com/artist/7r2Kask1ZMP3i9Ak4qlfp8) | [Wrecking Ball \(Acoustic\)](https://open.spotify.com/album/0W0N2EV8TziBOv5eyd3NiN) | 3:33 | 2019-10-13 |  |
 | [Yellow \- Acoustic](https://open.spotify.com/track/4cNXu88dudLEAhsIbikLvU) | [Jonah Baker](https://open.spotify.com/artist/6cpVjPOo5Ozn28hUfYBXqm) | [Yellow \(Acoustic\)](https://open.spotify.com/album/1hcpmhJzMlYjKjyuGOEmMh) | 3:25 | 2020-10-16 | 2023-01-14 |
 | [You & Me Song \- Acoustic](https://open.spotify.com/track/1BGqPCs8lTqaRHc6AWBvts) | [Paul Canning](https://open.spotify.com/artist/6KJzTOkw6FCQx81JK09TJN) | [You & Me Song \(Acoustic\)](https://open.spotify.com/album/7dKiRJqvMpIOMkbMafTc8k) | 2:52 | 2023-01-18 | 2023-04-11 |

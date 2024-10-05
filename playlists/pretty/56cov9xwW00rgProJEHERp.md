@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/56cov9xwW00rgProJEHERp.md) - [plain]
 
 > Tunes from your favourite coffee shop.
 
-[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 10,587 likes - 60 songs - 3 hr 19 min
+[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 10,586 likes - 63 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,5 +68,8 @@ pretty - [cumulative](/playlists/cumulative/56cov9xwW00rgProJEHERp.md) - [plain]
 | 58 | [Love You Still \(abcdefu romantic version\)](https://open.spotify.com/track/31fMJwgrgNdk1IbWZEchX2) | [Tyler Shaw](https://open.spotify.com/artist/3jERgGiTwNAPxNmDasAb31) | [Love You Still \(abcdefu romantic version\)](https://open.spotify.com/album/1XuLPOSr7B79aSSJdL9MRw) | 2:30 |
 | 59 | [Easy On Me](https://open.spotify.com/track/0gplL1WMoJ6iYaPgMCL0gX) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [Easy On Me](https://open.spotify.com/album/224jZ4sUX7OhAuMwaxp86S) | 3:44 |
 | 60 | [This Life](https://open.spotify.com/track/4dRqYKhLVujxiBXcq50YzG) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Father of the Bride](https://open.spotify.com/album/1A3nVEWRJ8yvlPzawHI1pQ) | 4:28 |
+| 61 | [So Many Ways To Say I Love You](https://open.spotify.com/track/5KJKKDAtaZdH962ET3HPEu) | [Jeremie Albino](https://open.spotify.com/artist/69fOAbSc6FEOFmvvMzlNgY) | [So Many Ways To Say I Love You](https://open.spotify.com/album/7Ld0nJtPBxkJRqq2mFgsFr) | 2:46 |
+| 62 | [Chemical](https://open.spotify.com/track/4WyuYATlsnHmdjfPQInnr2) | [Maddie Jay](https://open.spotify.com/artist/0eelrX0AcylGwVNf1HW77h) | [Chemical](https://open.spotify.com/album/5ZLmMyn2KqI1R3Tzr9vRTu) | 4:07 |
+| 63 | [Water Running](https://open.spotify.com/track/1M7OIUPCi2htd1LuoGZBZ3) | [Delaney Bailey](https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp) | [Water Running](https://open.spotify.com/album/05fAPkkDUFONZWEJRLk3ss) | 3:55 |
 
-Snapshot ID: `AAAUj1/R8NltUnqzsnK6d98hMXK/wVFy`
+Snapshot ID: `AAAUkvcvnf6J8TlwP9fy17i693EKniKg`

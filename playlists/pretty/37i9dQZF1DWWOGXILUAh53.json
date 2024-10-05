@@ -1,13 +1,29 @@
 {
-  "description": "The hottest new pop with all the drops. Cover: Kygo & Imagine Dragons",
-  "num_followers": 190096,
+  "description": "The hottest new pop with all the drops. Cover: Anabel Englund",
+  "num_followers": 190266,
   "original_name": "New Dance Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvYtwAAAAACerZXnJHM6JKOHtMnV+xlA",
+  "snapshot_id": "Zv9oQAAAAACDfzkCYYjpD3J85WqjgPm+",
   "tracks": [
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Get Busy",
+        "url": "https://open.spotify.com/album/4SHUE12jvWe2VroUpuhM6o"
+      },
+      "artists": [
+        {
+          "name": "Anabel Englund",
+          "url": "https://open.spotify.com/artist/3ky8xBRraNNzxzXEw6Ga0c"
+        }
+      ],
+      "duration_ms": 168750,
+      "name": "Get Busy",
+      "url": "https://open.spotify.com/track/1U3HdQECtAOhOzZ05flaY0"
+    },
     {
       "added_at": "2024-09-27 04:00:00",
       "album": {
@@ -27,6 +43,102 @@
       "duration_ms": 234366,
       "name": "Stars Will Align",
       "url": "https://open.spotify.com/track/5REMa10O4aA2mLtYyflWxs"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "ORIGIN (Deluxe)",
+        "url": "https://open.spotify.com/album/72wRkJIO27W7JPUEQ0r3sK"
+      },
+      "artists": [
+        {
+          "name": "Frank Walker",
+          "url": "https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq"
+        },
+        {
+          "name": "Alexander Stewart",
+          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
+        }
+      ],
+      "duration_ms": 187675,
+      "name": "Crossfire",
+      "url": "https://open.spotify.com/track/2M9g1BMhqVT51XpDw1gThu"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Waterfall",
+        "url": "https://open.spotify.com/album/2fCZvC9ZJ20A3c5783myiS"
+      },
+      "artists": [
+        {
+          "name": "Syn Cole",
+          "url": "https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH"
+        },
+        {
+          "name": "Alida",
+          "url": "https://open.spotify.com/artist/1kiq2kUV0cbLUhJsr7cpW0"
+        }
+      ],
+      "duration_ms": 187007,
+      "name": "Waterfall",
+      "url": "https://open.spotify.com/track/7eJcQOMpRy9CRMZA6J3XAq"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Born To Love Ya",
+        "url": "https://open.spotify.com/album/4dx4jGH35HYUcRT6vNQjPo"
+      },
+      "artists": [
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        },
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        },
+        {
+          "name": "NATTI NATASHA",
+          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
+        }
+      ],
+      "duration_ms": 155076,
+      "name": "Born To Love Ya",
+      "url": "https://open.spotify.com/track/5Nwh8kghoqebxmco5ZWbDt"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Spill My Liquor",
+        "url": "https://open.spotify.com/album/7L9Jr8azDGQBn8TJ6JWOx7"
+      },
+      "artists": [
+        {
+          "name": "Oscar and the Wolf",
+          "url": "https://open.spotify.com/artist/0dLWSYE7my9AbpQYNJ0ABV"
+        }
+      ],
+      "duration_ms": 189946,
+      "name": "Spill My Liquor",
+      "url": "https://open.spotify.com/track/5QYzGkONWgCQreMLSrnxd9"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Rhetorical Questions",
+        "url": "https://open.spotify.com/album/3j4QdU7FlRNF7eXJTJKUS7"
+      },
+      "artists": [
+        {
+          "name": "GRACEY",
+          "url": "https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ"
+        }
+      ],
+      "duration_ms": 175493,
+      "name": "Rhetorical Questions",
+      "url": "https://open.spotify.com/track/4QR8axjkh9dPhey4BxOdpE"
     },
     {
       "added_at": "2024-09-27 04:00:00",
@@ -943,26 +1055,6 @@
     {
       "added_at": "2024-09-03 21:46:52",
       "album": {
-        "name": "Lucky (feat. Remi Wolf)",
-        "url": "https://open.spotify.com/album/76Jj7hac3l9fzFerLzckVV"
-      },
-      "artists": [
-        {
-          "name": "Zedd",
-          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
-        },
-        {
-          "name": "Remi Wolf",
-          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
-        }
-      ],
-      "duration_ms": 127380,
-      "name": "Lucky (feat. Remi Wolf)",
-      "url": "https://open.spotify.com/track/7cXOERtbj4ZOk0I6ivACvb"
-    },
-    {
-      "added_at": "2024-09-03 21:46:52",
-      "album": {
         "name": "Crush",
         "url": "https://open.spotify.com/album/2TpzrA8WwmRSYYu1v9drok"
       },
@@ -983,26 +1075,6 @@
     {
       "added_at": "2024-09-03 21:46:52",
       "album": {
-        "name": "True",
-        "url": "https://open.spotify.com/album/5w8japF2UnvsfCGcoNn2Oo"
-      },
-      "artists": [
-        {
-          "name": "CYRIL",
-          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
-        },
-        {
-          "name": "Kita Alexander",
-          "url": "https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec"
-        }
-      ],
-      "duration_ms": 125806,
-      "name": "True",
-      "url": "https://open.spotify.com/track/2pw12Ta8UfYKesE52ldUFm"
-    },
-    {
-      "added_at": "2024-09-03 21:46:52",
-      "album": {
         "name": "Elevated",
         "url": "https://open.spotify.com/album/3MxUZpfSx87dfeUcHZqXe4"
       },
@@ -1015,26 +1087,6 @@
       "duration_ms": 147490,
       "name": "Elevated",
       "url": "https://open.spotify.com/track/08X5wbCDFSR2DEXWUlnA4r"
-    },
-    {
-      "added_at": "2024-09-03 21:46:52",
-      "album": {
-        "name": "Chains",
-        "url": "https://open.spotify.com/album/7xqR7N9ez7TmKEKv9XNr8D"
-      },
-      "artists": [
-        {
-          "name": "Tina Arena",
-          "url": "https://open.spotify.com/artist/1ZTCpKWDwHhbjhkdHhvTm8"
-        },
-        {
-          "name": "Shouse",
-          "url": "https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB"
-        }
-      ],
-      "duration_ms": 215649,
-      "name": "Chains",
-      "url": "https://open.spotify.com/track/3hV1IkFNIDdPciUFbOL4i6"
     },
     {
       "added_at": "2024-09-03 21:46:52",
@@ -1251,26 +1303,6 @@
     {
       "added_at": "2024-09-03 21:46:52",
       "album": {
-        "name": "On My Way Up (PRETTY YOUNG Remix)",
-        "url": "https://open.spotify.com/album/3820zZJYicXgDU97BQQulr"
-      },
-      "artists": [
-        {
-          "name": "Mergui",
-          "url": "https://open.spotify.com/artist/6grXi1oBW9ayoP4FTt4r2Z"
-        },
-        {
-          "name": "PRETTY YOUNG",
-          "url": "https://open.spotify.com/artist/3OYs1ddotHRvkUDETp3ICh"
-        }
-      ],
-      "duration_ms": 181714,
-      "name": "On My Way Up (PRETTY YOUNG Remix)",
-      "url": "https://open.spotify.com/track/0RIgo2fRqtmTFnT2jLDUOe"
-    },
-    {
-      "added_at": "2024-09-03 21:46:52",
-      "album": {
         "name": "I Love You, Bye",
         "url": "https://open.spotify.com/album/490YCL3HcoKj3SDA7vMK8T"
       },
@@ -1371,26 +1403,6 @@
     {
       "added_at": "2024-09-03 21:46:52",
       "album": {
-        "name": "Body Say",
-        "url": "https://open.spotify.com/album/0a4wdZN2wkmeXEgTWS34gB"
-      },
-      "artists": [
-        {
-          "name": "XANDRA",
-          "url": "https://open.spotify.com/artist/0R7QDPXqFaQ9F0FdTZUeca"
-        },
-        {
-          "name": "GiGi Grombacher",
-          "url": "https://open.spotify.com/artist/4F18x5o9JJ3TbuXfyry04n"
-        }
-      ],
-      "duration_ms": 135357,
-      "name": "Body Say",
-      "url": "https://open.spotify.com/track/25ArkZpdsdxliawDn8mRMb"
-    },
-    {
-      "added_at": "2024-09-03 21:46:52",
-      "album": {
         "name": "Superhuman",
         "url": "https://open.spotify.com/album/7LfaJ1Ar48pT5M0h06bOM0"
       },
@@ -1423,26 +1435,6 @@
       "duration_ms": 159055,
       "name": "Ready For Your Love",
       "url": "https://open.spotify.com/track/3Kr7UHOUkgaH4PK3Mp1fUP"
-    },
-    {
-      "added_at": "2024-09-03 21:46:52",
-      "album": {
-        "name": "Wrong Way",
-        "url": "https://open.spotify.com/album/7ezbuwRqByOoFxJbs9G7dm"
-      },
-      "artists": [
-        {
-          "name": "Two Friends",
-          "url": "https://open.spotify.com/artist/44Ewva5aHOX00EwaX2D2mh"
-        },
-        {
-          "name": "Alexander Stewart",
-          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
-        }
-      ],
-      "duration_ms": 177026,
-      "name": "Wrong Way",
-      "url": "https://open.spotify.com/track/0FXcLWA1NO6MxAe9yiK3oo"
     },
     {
       "added_at": "2024-09-03 21:46:52",

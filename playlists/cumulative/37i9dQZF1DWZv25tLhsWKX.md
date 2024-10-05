@@ -4,7 +4,7 @@
 
 > Where Nashville, Memphis & the Shoals meet\. Cover: The War and Treaty
 
-98 songs - 6 hr 1 min
+100 songs - 6 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Can't Nobody Love You](https://open.spotify.com/track/1ovGm2RHnWlTmbbtIxd2f8) | [Solomon Burke](https://open.spotify.com/artist/4nts0oxMT67lVUoi5Kjxrb) | [Rock 'N Soul](https://open.spotify.com/album/152R8N9N0ACnWPNOBIO4M8) | 2:33 | 2021-02-17 |  |
 | [Cry](https://open.spotify.com/track/3wxJXJsgEr1hBV4ej5sUCY) | [Hueston](https://open.spotify.com/artist/5ak6WzG7TJnqL6x6CRYoxP) | [Cry](https://open.spotify.com/album/0KcAmKDwqxuKpL8o3jEyva) | 2:48 | 2023-05-26 | 2024-04-19 |
 | [Cry](https://open.spotify.com/track/4AkWJQqHEEi8H7fuRTJl3b) | [Hueston](https://open.spotify.com/artist/5ak6WzG7TJnqL6x6CRYoxP) | [Cry](https://open.spotify.com/album/7cMRrnL36PuZKENGx2tAkD) | 2:48 | 2022-08-26 |  |
+| [Darkest Hour \(Helene Edit\)](https://open.spotify.com/track/3M7Cq1R8cylsGzNEb6QBMU) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [Darkest Hour \(Helene Edit\)](https://open.spotify.com/album/4YjKFvfdAqVgxMib41MUP3) | 4:07 | 2024-10-04 |  |
 | [Faraway Look](https://open.spotify.com/track/1dWv8VqVEW8xkWgCIISxxm) | [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14) | [Walk Through Fire \(Deluxe Edition\)](https://open.spotify.com/album/0XOpyZAAkGomyeXBSQcFiL) | 3:09 | 2021-02-17 |  |
 | [Games People Play](https://open.spotify.com/track/50t8gshcAtXiUdk7nHfYDp) | [Joe South](https://open.spotify.com/artist/7s2L0cftC6UBVVxADuyfwS) | [Introspect \- Expanded Edition](https://open.spotify.com/album/0efmkx26DQ4OSiPCdKsQgB) | 3:35 | 2021-02-17 |  |
 | [Georgia Morning Dew](https://open.spotify.com/track/0vxWC7gqoQBS6uEKVG0nHS) | [Johnny Adams](https://open.spotify.com/artist/24qtJegdRiX2TPRvPN6rzk) | [Heart and Soul](https://open.spotify.com/album/1wDtgCR0JI2PM9B3jTJZ5e) | 3:17 | 2021-02-17 |  |
@@ -74,6 +75,7 @@
 | [Shotgun Willie](https://open.spotify.com/track/7fMOzTcT7U5A9hVCwCfWgD) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Shotgun Willie](https://open.spotify.com/album/6ja7Fceq3F7Igb2DrLKN6y) | 2:37 | 2021-02-17 |  |
 | [Simple Life](https://open.spotify.com/track/0dHodhXJPnhuHPIrF0i10b) | [Lukas Nelson and Promise of the Real](https://open.spotify.com/artist/5iXYJYmMcjlTFL1qA8UfgY) | [Turn Off The News \(Build A Garden\)](https://open.spotify.com/album/4pq1gNWh38JQfazZqxjH5m) | 4:43 | 2021-02-17 |  |
 | [Sober](https://open.spotify.com/track/79mK0g0E4VxwY8MroggugG) | [Jamey Johnson](https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8) | [Sober](https://open.spotify.com/album/1RiA5Wa5zMTNkUhFhkEl51) | 4:57 | 2024-09-06 |  |
+| [Someday When I'm Old](https://open.spotify.com/track/52KcBpnnHyfHJ0Iic0IpT5) | [Jamey Johnson](https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8) | [Someday When I'm Old](https://open.spotify.com/album/0N15pB4ToXfzUxxAGlAnJA) | 3:40 | 2024-10-04 |  |
 | [Stealing A Kiss](https://open.spotify.com/track/5kdZiJ0KIPEyQ42xLj61Gt) | [The War And Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Stealing A Kiss](https://open.spotify.com/album/5i9nk8WvKRe0d78UaCba9u) | 4:55 | 2024-03-22 |  |
 | [Stockholm Syndrome](https://open.spotify.com/track/35PvBFZRh58hFbqWBwjBZn) | [Early James](https://open.spotify.com/artist/6fJpluuZmZ2tX2AviJ3bNY) | [Singing for My Supper](https://open.spotify.com/album/777Mw0hAnTtnE7YiVtJvBw) | 3:14 | 2021-02-17 |  |
 | [Sun Come Ease Me In](https://open.spotify.com/track/0xGgtbsW3ynbaqR1eUczst) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Run Home Slow](https://open.spotify.com/album/2VXeD0hKkY9i8TyGb0chVi) | 2:55 | 2021-02-17 |  |

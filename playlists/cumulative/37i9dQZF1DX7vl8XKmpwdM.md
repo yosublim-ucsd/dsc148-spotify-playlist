@@ -4,7 +4,7 @@
 
 > Dance Machi Dance<br/>Cover : NEEK
 
-157 songs - 9 hr 26 min
+158 songs - 9 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [Naadodi Mannan](https://open.spotify.com/track/2Vf4t6mDApwQuWk9MAcZYM) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Anthony Daasan](https://open.spotify.com/artist/1lDx24tVvy8JVKOVjnlJfv) | [Vaathi](https://open.spotify.com/album/788JAnrm2ALh2sMjTT7BuZ) | 3:23 | 2023-01-17 | 2023-08-08 |
 | [Naan Siricha](https://open.spotify.com/track/3FRp7fZcmmXqn68iMmH8jB) | [Hiphop Tamizha](https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q), [Kaushik Krish](https://open.spotify.com/artist/0qkE3ei6S9JhPheroVpzqn), [Gana Vinoth](https://open.spotify.com/artist/49Wry38kE5CrnzGGaRtT8q) | [Naan Sirithal \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2EDWe5j1Ytb2h0og0RvxOg) | 1:51 | 2021-12-01 | 2022-08-17 |
 | [Naanga Vera Maari \(From "Valimai"\)](https://open.spotify.com/track/3huCRjAX12zNPxtX9JqX2X) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om) | [Naanga Vera Maari \(From "Valimai"\)](https://open.spotify.com/album/57EwhOeKmfQPDC7IUjKubv) | 4:14 | 2021-12-01 | 2024-08-04 |
+| [Naattu Koothu](https://open.spotify.com/track/7IV5c9eF72Y9FxRQaHJ0bd) | [Rahul Sipligunj](https://open.spotify.com/artist/1H4ZvA2yyK7wCmbvEUWvPn), [Yazin Nizar](https://open.spotify.com/artist/2pVurQy6iuWWx707gilSdX) | [RRR](https://open.spotify.com/album/3qzW3ECUvV4xb6MpHEnSAW) | 3:34 | 2024-10-04 |  |
 | [Naattu Koothu \(From "Rrr"\)](https://open.spotify.com/track/61LeFCT6Nnkv55AiSgZCre) | [Rahul Sipligunj](https://open.spotify.com/artist/1H4ZvA2yyK7wCmbvEUWvPn), [Yazin Nizar](https://open.spotify.com/artist/2pVurQy6iuWWx707gilSdX), [Maragadhamani](https://open.spotify.com/artist/1bRcW8SnU3AKrhzxnbdR64) | [Naattu Koothu \(From "Rrr"\)](https://open.spotify.com/album/7DbivwZgoK0AXocXHom4RV) | 3:34 | 2021-12-01 | 2023-11-25 |
 | [Nalla Irumaa \(From "DSP"\)](https://open.spotify.com/track/0JwMT9HTLxoHvmUah7BMGT) | [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K), [Senthil Ganesh](https://open.spotify.com/artist/5r2as9TFFeuCfRL71BUkTA), [Maalavika Sundar](https://open.spotify.com/artist/6FziTGxRwHQviQ4uZdSdIP), [Vijay Muthupandi](https://open.spotify.com/artist/4IJfevJjFBOHeYCA6dJbh6), [D\. Imman](https://open.spotify.com/artist/1QcBqYUeQ4Ux3itkdDaFi0) | [Nalla Irumaa \(From "DSP"\)](https://open.spotify.com/album/0WseWQ9FB9yjuGBNSDkw88) | 4:13 | 2022-11-17 | 2023-03-29 |
 | [Namma Satham \(From "Pathu Thala"\)](https://open.spotify.com/track/1DUaZdBqnc18ja3DY6h0dS) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Yogi Sekar](https://open.spotify.com/artist/4n32jWbOVtfNDsOJAGQJcs) | [Namma Satham \(From "Pathu Thala"\)](https://open.spotify.com/album/4LgQVd0XGV8AKiszUTsBSa) | 3:35 | 2023-02-03 |  |

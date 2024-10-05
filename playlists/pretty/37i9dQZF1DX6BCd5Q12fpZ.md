@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6BCd5Q12fpZ.md) - [plain]
 
 > Floor fillers from the long, illustrious history of the show\. Cover: Verka Serduchka
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,866 likes - 75 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,865 likes - 75 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6BCd5Q12fpZ.md) - [plain]
 | 28 | [La La Love](https://open.spotify.com/track/3rhnT5RoN7bvPUpMHt1aM9) | [Ivi Adamou](https://open.spotify.com/artist/2arQ0lfcNGLrJOHoJksWOw) | [La La Love](https://open.spotify.com/album/6xJymtqqQWpwKmJzIies07) | 3:02 |
 | 29 | [Ooh Aah..\. Just A Little Bit \- Eurovision Version](https://open.spotify.com/track/5KsGeqTJgJMAWuyTZ5WmMn) | [Gina G](https://open.spotify.com/artist/25tu0d8Po5c4IVXsZnXUU8) | [Ooh Aah...Just a Little Bit \(Eurovision Version\)](https://open.spotify.com/album/4k2cMbg4lC05pS47zHnwc1) | 3:02 |
 | 30 | [Hold Me Closer \- Eurovision Version](https://open.spotify.com/track/6cTWJgNkmhATsI6RJgTPH4) | [Cornelia Jakobs](https://open.spotify.com/artist/7cYZ8F0N2jby95FsxU9hh4) | [Hold Me Closer \(Eurovision Version\)](https://open.spotify.com/album/1DUJ7u6fKeEkfVeTvE3FAq) | 3:00 |
-| 31 | [Adrenalina](https://open.spotify.com/track/5sckZhskSmeF8TFJ05oSCB) | [Senhit](https://open.spotify.com/artist/0kgOnYSaZeTf3ZnErgwkGT), [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY) | [Adrenalina](https://open.spotify.com/album/7aEMUNrcbMQtaVsBvJUGlO) | 2:59 |
-| 32 | [Replay](https://open.spotify.com/track/2UOyQB26wSQzM0jiTcUg50) | [Tamta](https://open.spotify.com/artist/0VGybH10ziMPo99SYOwMoQ) | [Replay](https://open.spotify.com/album/4CfWfExyyIuTxTXd7jjmy7) | 2:53 |
+| 31 | [Replay](https://open.spotify.com/track/2UOyQB26wSQzM0jiTcUg50) | [Tamta](https://open.spotify.com/artist/0VGybH10ziMPo99SYOwMoQ) | [Replay](https://open.spotify.com/album/4CfWfExyyIuTxTXd7jjmy7) | 2:53 |
+| 32 | [Adrenalina](https://open.spotify.com/track/5sckZhskSmeF8TFJ05oSCB) | [Senhit](https://open.spotify.com/artist/0kgOnYSaZeTf3ZnErgwkGT), [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY) | [Adrenalina](https://open.spotify.com/album/7aEMUNrcbMQtaVsBvJUGlO) | 2:59 |
 | 33 | [If Love Was a Crime \- Eurovision 2016 \- Bulgaria](https://open.spotify.com/track/1G5qDCiqei7ozj5ku43TuR) | [Poli Genova](https://open.spotify.com/artist/0KTsEyWGtkglulYb0INR5g) | [If Love Was a Crime \(Eurovision 2016 \- Bulgaria\)](https://open.spotify.com/album/1CeeOXzTsGhGGvjIaDiocW) | 2:59 |
 | 34 | [Shake It \- Eurovision Version](https://open.spotify.com/track/2xagoLNhrbVA2fpOkxs2Ze) | [Sakis Rouvas](https://open.spotify.com/artist/0VuyN0xzSqykiDB2MxihTe) | [To Hrono Stamatao](https://open.spotify.com/album/7hiRylz4CAVyfLftuszLVJ) | 3:00 |
 | 35 | [Je t'adore \- Eurovision Mix](https://open.spotify.com/track/1YuXoPqkTQOXpFJtjf5GWd) | [Kate Ryan](https://open.spotify.com/artist/47BNWfpngeFHYvBlPPyraM) | [Essential](https://open.spotify.com/album/6itpfGpKsuAVBgtr5JUuS3) | 3:02 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6BCd5Q12fpZ.md) - [plain]
 | 61 | [Verona \- Eurovision 2017 \- Estonia](https://open.spotify.com/track/6xGmMh9K4Z3oeLCwzIuCaD) | [Laura](https://open.spotify.com/artist/4PIW6aNu2AfeKQqkMGWVmS), [KOIT TOOME](https://open.spotify.com/artist/5eRi1IKofAOO9rEGHCgOGc) | [Verona](https://open.spotify.com/album/4ctbznUsA8d2ZEqXzuy7iY) | 3:02 |
 | 62 | [Parlez\-vous francais?](https://open.spotify.com/track/673foE9F1zexKf0VPCIB4k) | [Baccara](https://open.spotify.com/artist/4dn4KQgTE4P3jrwa3iIVzQ) | [Best Of](https://open.spotify.com/album/40coqImDQgGDlN8TxMhJwJ) | 4:24 |
 | 63 | [Is It Right](https://open.spotify.com/track/4BxMRmdcUYW1sBHc1Nv9jo) | [Elaiza](https://open.spotify.com/artist/3p45HHDBKyxCDJeOnOWuSo) | [Is It Right / Fight Against Myself](https://open.spotify.com/album/4ogKZm7zO6URn3a3EVNd8U) | 3:54 |
-| 64 | [My Heart Goes Boom](https://open.spotify.com/track/6GViWczPtH2ky3RBYycDhI) | [Charmed](https://open.spotify.com/artist/438uz6Ss2rTiWYPw0dDwF8) | [Charmed](https://open.spotify.com/album/1dl3hAtvGLmsuDJVzJcY9D) | 3:03 |
-| 65 | [Moustache](https://open.spotify.com/track/3XiEknHgHpwCuk3CuA2RIV) | [Twin Twin](https://open.spotify.com/artist/2hJPfJfj1VpL2AJvelxxzx) | [Moustache \(Eurovision 2014\)](https://open.spotify.com/album/6AMLDrreLMmEvFYPUbBHh7) | 2:49 |
+| 64 | [Moustache](https://open.spotify.com/track/3XiEknHgHpwCuk3CuA2RIV) | [Twin Twin](https://open.spotify.com/artist/2hJPfJfj1VpL2AJvelxxzx) | [Moustache \(Eurovision 2014\)](https://open.spotify.com/album/6AMLDrreLMmEvFYPUbBHh7) | 2:49 |
+| 65 | [My Heart Goes Boom](https://open.spotify.com/track/6GViWczPtH2ky3RBYycDhI) | [Charmed](https://open.spotify.com/artist/438uz6Ss2rTiWYPw0dDwF8) | [Charmed](https://open.spotify.com/album/1dl3hAtvGLmsuDJVzJcY9D) | 3:03 |
 | 66 | [What about my dreams? \- Main](https://open.spotify.com/track/4coje85K8iSAup8z4G9y64) | [Kati Wolf](https://open.spotify.com/artist/0XjBRZN6v699jxgtiEBuHM) | [What About My Dreams?](https://open.spotify.com/album/70sLEEOucejT9jhRDmPNAW) | 4:09 |
 | 67 | [Take Me to Your Heaven](https://open.spotify.com/track/6Phb8GhIzQKi6O7VOGj0QU) | [Charlotte Perrelli](https://open.spotify.com/artist/39Waq6UmqYCBEuyv8M8kjl) | [Take Me To Your Heaven](https://open.spotify.com/album/1oV6KRIP47RM7SdIcDBYm6) | 3:03 |
 | 68 | [If I Had Your Love](https://open.spotify.com/track/46P3Hgp98JG5t3sszNDaGu) | [Selma](https://open.spotify.com/artist/1o0TSkHxzo6fCAMy2nVexo) | [Iceland Eurovision Party](https://open.spotify.com/album/0HWqAQCNZmBA925kcIv4xq) | 3:13 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6BCd5Q12fpZ.md) - [plain]
 | 70 | [Toy](https://open.spotify.com/track/6n2eIfLj0wOOUkUfNmYzlh) | [Netta](https://open.spotify.com/artist/4Z4afeDmHFxPmJorIwupbZ) | [Toy](https://open.spotify.com/album/21YEfZ84TzdjNvOWEdwjeF) | 3:00 |
 | 71 | [Spirit in the Sky](https://open.spotify.com/track/4w6Aheza0D2Ixjc0rEB0EP) | [KEiiNO](https://open.spotify.com/artist/0chh7dlaUzEreDTulHiOlm) | [OKTA](https://open.spotify.com/album/4aYLNUrkHzYLnq9pdFEHyT) | 3:05 |
 | 72 | [Runaway \- Bonus Track](https://open.spotify.com/track/7uSeUTnMWH7CgEyl2rNtMC) | [Anna Sahlene](https://open.spotify.com/artist/4dNOj2smSK7guw4JeUW1uW) | [It's Been a While](https://open.spotify.com/album/1MfUDsswH0G8RK0TDvWo71) | 2:52 |
-| 73 | [She Got Me](https://open.spotify.com/track/6TNK1SFt77MvTFoiTloiFQ) | [Luca Hänni](https://open.spotify.com/artist/5JbALDn35ZrLwVAle4xVqZ) | [She Got Me](https://open.spotify.com/album/49NV91ZkaohMBJdoBA16ek) | 3:00 |
-| 74 | [Waterloo](https://open.spotify.com/track/10fRfvMo6WCO9Gaawxy2U9) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Waterloo](https://open.spotify.com/album/5JGTMU2ovYCxC6nfJbft8W) | 2:48 |
-| 75 | [Shady Lady](https://open.spotify.com/track/5devjcsxeVnwYQbaYJ2Ewx) | [Ani Lorak](https://open.spotify.com/artist/1J9vlx72A2T3kbRckBu04o) | [Солнце](https://open.spotify.com/album/0vNpW5mnoZwxtWFOkCCavU) | 2:58 |
+| 73 | [Shady Lady](https://open.spotify.com/track/5devjcsxeVnwYQbaYJ2Ewx) | [Ani Lorak](https://open.spotify.com/artist/1J9vlx72A2T3kbRckBu04o) | [Солнце](https://open.spotify.com/album/0vNpW5mnoZwxtWFOkCCavU) | 2:58 |
+| 74 | [She Got Me](https://open.spotify.com/track/6TNK1SFt77MvTFoiTloiFQ) | [Luca Hänni](https://open.spotify.com/artist/5JbALDn35ZrLwVAle4xVqZ) | [She Got Me](https://open.spotify.com/album/49NV91ZkaohMBJdoBA16ek) | 3:00 |
+| 75 | [Waterloo](https://open.spotify.com/track/10fRfvMo6WCO9Gaawxy2U9) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Waterloo](https://open.spotify.com/album/5JGTMU2ovYCxC6nfJbft8W) | 2:48 |
 
 Snapshot ID: `Zd74JAAAAADkUtUWYyK9cQy/MRPV+FU8`

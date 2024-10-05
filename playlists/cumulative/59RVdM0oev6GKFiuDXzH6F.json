@@ -6908,6 +6908,32 @@
     {
       "album": {
         "name": "Let's Go Dancing",
+        "url": "https://open.spotify.com/album/3ey1jQ8gUe2E8KRT8Flfjv"
+      },
+      "artists": [
+        {
+          "name": "Layton Giordani",
+          "url": "https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4"
+        },
+        {
+          "name": "Tiga",
+          "url": "https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC"
+        },
+        {
+          "name": "Audion",
+          "url": "https://open.spotify.com/artist/1ygSVTF0A998n2Z3nmLei8"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228372,
+      "name": "Let's Go Dancing",
+      "url": "https://open.spotify.com/track/5se4SpUxbStmWGZngKWqLU"
+    },
+    {
+      "album": {
+        "name": "Let's Go Dancing",
         "url": "https://open.spotify.com/album/7yomCnMwuxDBz7a9Zv9ekM"
       },
       "artists": [

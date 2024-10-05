@@ -4,7 +4,7 @@
 
 > Uptempo instrumental hip hop beats.
 
-963 songs - 1 day 13 hr 21 min
+964 songs - 1 day 13 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -418,7 +418,7 @@
 | [Layovers](https://open.spotify.com/track/11fKCRvb1iBkuHK7Etq3bv) | [Shapes N Clouds](https://open.spotify.com/artist/1hzy68RXMgXkGADAtpTHBl), [CHG](https://open.spotify.com/artist/19wrYTgQ1HpOBX5cjB58tl) | [Layovers](https://open.spotify.com/album/0IBctredI1PfDUiPFP3OkB) | 2:49 | 2022-08-05 | 2022-10-14 |
 | [Lazy Days](https://open.spotify.com/track/7suskOPZ8onOtynAzhT0Qg) | [My Ol' Man](https://open.spotify.com/artist/37j2MNjIAKO9lXKTXlhxJM) | [Lazy Days](https://open.spotify.com/album/66aCELdbiAYIzRN55S0SyN) | 2:43 | 2022-04-15 | 2022-07-08 |
 | [Lazy Dreams](https://open.spotify.com/track/0MeDQSiROjluPfu8hF00bT) | [Goslow](https://open.spotify.com/artist/4vc0hwDIdfnY7qAYAk9hqn), [VOLKHIN](https://open.spotify.com/artist/4zLct3dcGnskzifqZebi2p) | [Lazy Dreams](https://open.spotify.com/album/0dsR4JBGi6wYvVh8NF9PB9) | 2:12 | 2022-08-19 | 2023-09-11 |
-| [Lazy Wave](https://open.spotify.com/track/0NnNuDaIWS2aPRkKCgTDvE) | [Zeyn](https://open.spotify.com/artist/1NR5IwCw7nBTNjTQSKOb7Z) | [Lazy Wave](https://open.spotify.com/album/1gXyrT30rMvmePGUziVIVO) | 2:26 | 2022-10-14 |  |
+| [Lazy Wave](https://open.spotify.com/track/0NnNuDaIWS2aPRkKCgTDvE) | [Zeyn](https://open.spotify.com/artist/1NR5IwCw7nBTNjTQSKOb7Z) | [Lazy Wave](https://open.spotify.com/album/1gXyrT30rMvmePGUziVIVO) | 2:26 | 2022-10-14 | 2024-10-05 |
 | [Leaves in the Wind](https://open.spotify.com/track/5M9p88M16vOx2r4WzDWghD) | [Tristan Wolf](https://open.spotify.com/artist/5IAm7Y4cKtHu7UC0ctNi7f), [Odd Panda](https://open.spotify.com/artist/0Sd0BsazzL4j7U88C3v2iB) | [Leaves in the Wind](https://open.spotify.com/album/3cK3SJKB0XOsULFz01Sx2r) | 2:18 | 2022-08-05 | 2022-08-12 |
 | [Left Behind](https://open.spotify.com/track/5nerxClu54joJ7YWik41y8) | [Son Of Arn](https://open.spotify.com/artist/725aXOndVSiKmldfKJ6Rnr) | [Left Behind](https://open.spotify.com/album/0FMVhAsPlHxnzT1IFSjyot) | 2:05 | 2023-12-08 |  |
 | [lemon](https://open.spotify.com/track/5ACcn12wzLSQb7OqfXvX0w) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [lemon](https://open.spotify.com/album/5k0NV7xszABRC2JSFcE5Lz) | 1:54 | 2022-04-15 | 2022-07-29 |
@@ -450,6 +450,7 @@
 | [Love Is Being Stupid Together](https://open.spotify.com/track/4kjYlte22vgJfHr48NSPRO) | [Dpsht](https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3) | [Love Is Being Stupid Together](https://open.spotify.com/album/5cF1s5q3TCm53jR9vIPaOH) | 2:10 | 2022-08-19 | 2023-10-08 |
 | [Love Potion](https://open.spotify.com/track/2zJLvAcYQVAsRQuNNu05BL) | [Jazzinuf](https://open.spotify.com/artist/6rJ1GwtHin2BJbKLuNn9pi) | [Love Potion](https://open.spotify.com/album/4qGPC8agy2yto2IgqKFoRn) | 2:46 | 2022-04-15 | 2022-06-25 |
 | [Love Snip](https://open.spotify.com/track/5TfqA1PGQJRZyng0480Zre) | [Gibun](https://open.spotify.com/artist/2UjKSDLr7jx5VWshKXQ0bT) | [Love Snip](https://open.spotify.com/album/1VL10DhdUCPKdNjbIkQwsY) | 1:32 | 2022-04-15 | 2022-09-09 |
+| [lovefi](https://open.spotify.com/track/45jqHHqNWz1x7ccIIHL27b) | [favorite mug](https://open.spotify.com/artist/70VofI7CJOx9Qfcd07BgPj) | [lovefi](https://open.spotify.com/album/077MBDNlBQi7bbUqMp7G3S) | 2:26 | 2024-10-04 |  |
 | [Low Jump](https://open.spotify.com/track/0fdLkJqb4NrPUVzyxO8Gxn) | [Gidde](https://open.spotify.com/artist/5DwyCd0VM31aNwkklawG0l) | [Low Jump](https://open.spotify.com/album/6AGB5bdyxvecqWmGO6XKyJ) | 1:36 | 2022-09-23 |  |
 | [Low Key](https://open.spotify.com/track/2rdlNy8ioOeyHNzcgp5lRw) | [Cloudchord](https://open.spotify.com/artist/5EjKjFGvMmVUGCfAyDY2lG), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN), [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [Low Key](https://open.spotify.com/album/54hYfTvuY6nCGCV8E32qAP) | 2:35 | 2022-04-15 | 2022-08-12 |
 | [Low Key](https://open.spotify.com/track/4oKcLLpaDDPMVKCaj6LLtn) | [Cloudchord](https://open.spotify.com/artist/5EjKjFGvMmVUGCfAyDY2lG), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN), [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [Koi Pond, Vol\. 2](https://open.spotify.com/album/14z4NIAzr09883HI24poVP) | 2:35 | 2022-04-15 | 2022-07-22 |
@@ -626,7 +627,7 @@
 | [Principles](https://open.spotify.com/track/0dgAgBQijLtATLnQ9wxjrk) | [\_91nova](https://open.spotify.com/artist/0fZYZqIGnT5RimC1YWfWP2) | [Eggz Benny](https://open.spotify.com/album/3zuujkBis1epFkensMUnp7) | 2:05 | 2022-04-15 | 2024-07-13 |
 | [Propellerlegs](https://open.spotify.com/track/4VflLDzpRzgCIE6JQksTsO) | [Orange Roundabout](https://open.spotify.com/artist/5MLibyV1Zt03HCKOvJCHnB) | [Propellerlegs](https://open.spotify.com/album/2de7g11IxnvxK7GSm4EDX0) | 2:08 | 2022-04-15 | 2022-09-30 |
 | [Punch Tropical](https://open.spotify.com/track/2oS6CVKvmSq7W3w1csy6jn) | [Mellowdrastic](https://open.spotify.com/artist/5iM6lzU1v2k5FbuTUG2FnV) | [The Cotton Candy Creamery](https://open.spotify.com/album/7469geWNpqJN2D3sOYZCsH) | 2:56 | 2022-04-15 | 2022-05-14 |
-| [Purple Dye](https://open.spotify.com/track/3vVMkpipMN0Ps0SBixQDmQ) | [calle de phnk](https://open.spotify.com/artist/5eyxNQ9zwz01mW4vogEcEY) | [Purple Dye](https://open.spotify.com/album/3AQVZ5POGGPq6mZfPu8qD6) | 2:09 | 2022-04-22 | 2024-10-01 |
+| [Purple Dye](https://open.spotify.com/track/3vVMkpipMN0Ps0SBixQDmQ) | [calle de phnk](https://open.spotify.com/artist/5eyxNQ9zwz01mW4vogEcEY) | [Purple Dye](https://open.spotify.com/album/3AQVZ5POGGPq6mZfPu8qD6) | 2:09 | 2022-04-22 |  |
 | [purple growth](https://open.spotify.com/track/2pWoOr9umRytPP9jfQUD4K) | [chilliance](https://open.spotify.com/artist/6C1x6L8cNFWEw8fbnocXZC) | [purple growth](https://open.spotify.com/album/62gXgpJMgOYFirMW4N6KvK) | 2:48 | 2022-09-02 |  |
 | [Purple Hue](https://open.spotify.com/track/0LiN7h1mBp9kCbbCpZs3Ii) | [Dreams On Vinyl](https://open.spotify.com/artist/2ikWLWXTdUo9oOudnHUXjw) | [Purple Hue](https://open.spotify.com/album/69448mTpDDiJT3ix1zziay) | 2:31 | 2023-09-08 |  |
 | [Purple love](https://open.spotify.com/track/62zRN7mgvNl61YSXGjGXk4) | [Discant Of Venus](https://open.spotify.com/artist/3GqXOi7G86eK1uMNOiuTTn) | [Sandman Express](https://open.spotify.com/album/2tg3PxwbIdpQW8OQq18yMw) | 1:52 | 2022-04-15 | 2024-08-15 |
@@ -674,7 +675,7 @@
 | [rodeo](https://open.spotify.com/track/1tCNCWswBD2eoaYnrQGKFi) | [lofi potato](https://open.spotify.com/artist/6Xb3mzhQf3hYzwgY5eiwtU) | [rodeo](https://open.spotify.com/album/3cFp5vviCaISNjybqFHaH5) | 2:09 | 2024-06-05 | 2024-06-29 |
 | [Rododendron](https://open.spotify.com/track/7bPT9pBJaTdl5L4J5SfAI5) | [Nacho Datúr](https://open.spotify.com/artist/5tqsx6BPIV6KA02eum8i5m) | [Tripping At The Amusement Park Vol\. 2](https://open.spotify.com/album/7aUrSHxhKcltENe45QHYkG) | 2:09 | 2023-09-22 |  |
 | [Rooftop](https://open.spotify.com/track/4YLtJCjDkmw5dAbVuxpy7v) | [Cookin Soul](https://open.spotify.com/artist/06s35sbFfZJUEwFjAaZfiW), [FS Green](https://open.spotify.com/artist/2xjVYIMLS3nR5Y1UOr02Vb) | [Rooftop](https://open.spotify.com/album/5OOYTWekc4Zw1uQWvz9v0l) | 2:26 | 2022-04-15 | 2023-09-22 |
-| [Roronoa](https://open.spotify.com/track/1rMkIrW3SoR42ZLX3d26m0) | [Koby 808](https://open.spotify.com/artist/43y8HzuEyK246soWSYULOJ) | [Roronoa](https://open.spotify.com/album/4ELgzCYaKWZ0ShzrH1mnKK) | 2:14 | 2022-12-09 |  |
+| [Roronoa](https://open.spotify.com/track/1rMkIrW3SoR42ZLX3d26m0) | [Koby 808](https://open.spotify.com/artist/43y8HzuEyK246soWSYULOJ) | [Roronoa](https://open.spotify.com/album/4ELgzCYaKWZ0ShzrH1mnKK) | 2:14 | 2022-12-09 | 2024-10-05 |
 | [Rose Cruise](https://open.spotify.com/track/48QMprf8rodxvXB6HbgxoJ) | [Macem Ly](https://open.spotify.com/artist/73vYL25O91Vg80WBvkEa7K) | [Rose Cruise](https://open.spotify.com/album/0ryWLsNdVLeRdfMYBQsJVp) | 3:00 | 2022-04-15 | 2022-07-22 |
 | [rose quartz](https://open.spotify.com/track/6QCZUHBxTk7Fa05l0RFhMn) | [Cyan\_95](https://open.spotify.com/artist/2F0ArRuBoD4jl4bM8fNyiU) | [rose quartz](https://open.spotify.com/album/6Vzlg6lBDOAUBXUARsv4ky) | 2:04 | 2024-01-12 |  |
 | [Round on Me](https://open.spotify.com/track/37iYwXkFgvgFcTXBkYkzrz) | [Justnormal](https://open.spotify.com/artist/2YCz7aHoRoAZ435UDLOKOs) | [Round On Me](https://open.spotify.com/album/2TvkgXoOUKmAfbHQfQNcM8) | 2:21 | 2022-04-15 | 2024-02-02 |

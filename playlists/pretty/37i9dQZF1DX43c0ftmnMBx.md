@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43c0ftmnMBx.md) - [plain]
 
 > ¡Esto sí es Bachata! Portada: Manuel Turizo
 
-[Spotify](https://open.spotify.com/user/spotify) - 245,659 likes - 100 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 245,709 likes - 100 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,10 +76,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43c0ftmnMBx.md) - [plain]
 | 66 | [La Pared](https://open.spotify.com/track/6OXuPBJvkktBQ5I0B3wLgR) | [Joe Veras](https://open.spotify.com/artist/3pbg6hZGMHg6G5TiuCh21K) | [Tonto Corazón](https://open.spotify.com/album/3F0W5hKLkbgGsyhwxSKmwi) | 4:44 |
 | 67 | [Busco Un Confidente](https://open.spotify.com/track/6B52JCVw2F1ZjlkNjzq2Rc) | [Alex Bueno](https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4) | [Bachata A Su Tiempo](https://open.spotify.com/album/0aYodOFwKkkWLymZj4yBOK) | 3:55 |
 | 68 | [Vine A Decirte Adios](https://open.spotify.com/track/40dliSTZf3ABIqfvenH9TI) | [Frank Reyes](https://open.spotify.com/artist/4vQV1LCGBdYAt5rIIPjSFZ) | [Vine a Decirte Adios](https://open.spotify.com/album/5QShP54MICYu2VqkwfEnGm) | 4:37 |
-| 69 | [Mismo Error](https://open.spotify.com/track/0R2wIS2XiKpiSz9RubneBP) | [Mr\. Don](https://open.spotify.com/artist/12YP3RGVLp3c36Zi6lFRtR), [DerekVinci](https://open.spotify.com/artist/7du7SizqDeaP96ds19p1yu) | [Mismo Error](https://open.spotify.com/album/0PwT45LwSSgOk93unwJGxz) | 3:19 |
-| 70 | [Sangre De Mis Venas](https://open.spotify.com/track/6y7zN0mg5yfkZXTz1kD7NL) | [Vena](https://open.spotify.com/artist/6lt3lJcAlHKrDfDZuKscZd) | [Sangre De Mis Venas](https://open.spotify.com/album/4lxga8GAH3aaPPNuiAkBKo) | 4:09 |
-| 71 | [Quíteme La Inocencia](https://open.spotify.com/track/6w7Ku2mTaB2NKg59Gx2lxA) | [Henry Santos](https://open.spotify.com/artist/1cUfMJtWJXfhTQvYGJQtaF) | [2.0](https://open.spotify.com/album/4tuxS7kkwSZ3IGqJpuc2Kd) | 4:10 |
-| 72 | [A Quien Le Importa \(Versión Bachata\)](https://open.spotify.com/track/0PjlzKDwfuFVpvCT2Ev7KO) | [Andy Andy](https://open.spotify.com/artist/6uEyybDR7K1r88t6iT1oBw) | [Ironia](https://open.spotify.com/album/6KjK5fJcSWe7sayESVW6VB) | 4:05 |
+| 69 | [Sangre De Mis Venas](https://open.spotify.com/track/6y7zN0mg5yfkZXTz1kD7NL) | [Vena](https://open.spotify.com/artist/6lt3lJcAlHKrDfDZuKscZd) | [Sangre De Mis Venas](https://open.spotify.com/album/4lxga8GAH3aaPPNuiAkBKo) | 4:09 |
+| 70 | [Mismo Error](https://open.spotify.com/track/0R2wIS2XiKpiSz9RubneBP) | [Mr\. Don](https://open.spotify.com/artist/12YP3RGVLp3c36Zi6lFRtR), [DerekVinci](https://open.spotify.com/artist/7du7SizqDeaP96ds19p1yu) | [Mismo Error](https://open.spotify.com/album/0PwT45LwSSgOk93unwJGxz) | 3:19 |
+| 71 | [A Quien Le Importa \(Versión Bachata\)](https://open.spotify.com/track/0PjlzKDwfuFVpvCT2Ev7KO) | [Andy Andy](https://open.spotify.com/artist/6uEyybDR7K1r88t6iT1oBw) | [Ironia](https://open.spotify.com/album/6KjK5fJcSWe7sayESVW6VB) | 4:05 |
+| 72 | [Quíteme La Inocencia](https://open.spotify.com/track/6w7Ku2mTaB2NKg59Gx2lxA) | [Henry Santos](https://open.spotify.com/artist/1cUfMJtWJXfhTQvYGJQtaF) | [2.0](https://open.spotify.com/album/4tuxS7kkwSZ3IGqJpuc2Kd) | 4:10 |
 | 73 | [Vete y Alejate de Mi](https://open.spotify.com/track/66CYjKNVEp21AsDGQkmywV) | [Anthony Santos](https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A) | [Vete](https://open.spotify.com/album/0hGEDazwHxaPUBg0DTB9rY) | 4:36 |
 | 74 | [Carta De Verano](https://open.spotify.com/track/0XmmFaLwnQt1mDL5VP8c4q) | [Joe Veras](https://open.spotify.com/artist/3pbg6hZGMHg6G5TiuCh21K) | [Carta De Verano](https://open.spotify.com/album/0ycfoja65NlV6hdnikma8k) | 4:02 |
 | 75 | [Ese Hombre Soy Yo](https://open.spotify.com/track/4dGuCncg3xydBZ6A5vYI2Z) | [Alex Bueno](https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4) | [Bachata A Su Tiempo](https://open.spotify.com/album/0aYodOFwKkkWLymZj4yBOK) | 4:04 |
@@ -87,9 +87,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43c0ftmnMBx.md) - [plain]
 | 77 | [atravesao](https://open.spotify.com/track/00HU2RYUeBcOVJPbdOtdJ2) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [atravesao](https://open.spotify.com/album/2NQf4yrGL2SCUFvOYIKdFr) | 3:20 |
 | 78 | [Mujer de las Mil Batallas](https://open.spotify.com/track/4CKNP0H3WEWQBSNGeOvjFU) | [Frank Reyes](https://open.spotify.com/artist/4vQV1LCGBdYAt5rIIPjSFZ) | [Devuélveme Mi Libertad](https://open.spotify.com/album/2fde5WKTf4YilScZxEdd07) | 3:24 |
 | 79 | [Bellas](https://open.spotify.com/track/5MSlG8Mg7OQkgJ0on0Qrhl) | [Anthony Santos](https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A), [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [La Historia de Mi Vida: El Final, Vol\. 1](https://open.spotify.com/album/3nMrjtBVZUCgiFTQ0SKvZk) | 4:03 |
-| 80 | [Weekend](https://open.spotify.com/track/2xSQ05tzoYMBIuJQUWUe56) | [Henry Santos](https://open.spotify.com/artist/1cUfMJtWJXfhTQvYGJQtaF), [Lirow](https://open.spotify.com/artist/7DstIz9YAYYupeK7r5tbbs), [Daniel Santacruz](https://open.spotify.com/artist/4tLUnrSgMM7tT0zVs3wX61) | [Weekend](https://open.spotify.com/album/5CpHJgQXcBXROlsDnlRY4b) | 3:48 |
-| 81 | [La Luz De Mis Ojos](https://open.spotify.com/track/31lScgOqA8PkbSHDTyLsfJ) | [Elvis Martinez](https://open.spotify.com/artist/66U02qGDesTqZImnLSiYeE) | [La Luz De Mis Ojos](https://open.spotify.com/album/5v6JO2CVfD3jReTRSkmYO7) | 3:49 |
-| 82 | [Los Recuerdos](https://open.spotify.com/track/2huEu8faRAhs0OAtTa5hpH) | [Zacarias Ferreira](https://open.spotify.com/artist/1LKPL2O3vA3ozNsmshDg3o) | [Los Recuerdos](https://open.spotify.com/album/0xGbVhKSRFIzUFLDWsmJYV) | 2:41 |
+| 80 | [La Luz De Mis Ojos](https://open.spotify.com/track/31lScgOqA8PkbSHDTyLsfJ) | [Elvis Martinez](https://open.spotify.com/artist/66U02qGDesTqZImnLSiYeE) | [La Luz De Mis Ojos](https://open.spotify.com/album/5v6JO2CVfD3jReTRSkmYO7) | 3:49 |
+| 81 | [Los Recuerdos](https://open.spotify.com/track/2huEu8faRAhs0OAtTa5hpH) | [Zacarias Ferreira](https://open.spotify.com/artist/1LKPL2O3vA3ozNsmshDg3o) | [Los Recuerdos](https://open.spotify.com/album/0xGbVhKSRFIzUFLDWsmJYV) | 2:41 |
+| 82 | [Weekend](https://open.spotify.com/track/2xSQ05tzoYMBIuJQUWUe56) | [Henry Santos](https://open.spotify.com/artist/1cUfMJtWJXfhTQvYGJQtaF), [Lirow](https://open.spotify.com/artist/7DstIz9YAYYupeK7r5tbbs), [Daniel Santacruz](https://open.spotify.com/artist/4tLUnrSgMM7tT0zVs3wX61) | [Weekend](https://open.spotify.com/album/5CpHJgQXcBXROlsDnlRY4b) | 3:48 |
 | 83 | [Decidí](https://open.spotify.com/track/3njDbyJILSgFmUkvztIw4h) | [Frank Reyes](https://open.spotify.com/artist/4vQV1LCGBdYAt5rIIPjSFZ) | [Decidí](https://open.spotify.com/album/4D36ldGdxrsKprFudusBbs) | 3:14 |
 | 84 | [Corazón Culpable](https://open.spotify.com/track/198HWHhymECcoWD5udzWzH) | [Anthony Santos](https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A) | [Aqui Esta La Bachata, Vol\. 2: Con Sus Interpretes Originales](https://open.spotify.com/album/5k70ucpuyCsNdA32zviCZ9) | 6:01 |
 | 85 | [Besito en la Boca](https://open.spotify.com/track/4sXYZFBtkrLwGQdu9vFLsF) | [Samanez](https://open.spotify.com/artist/0tBrvJqdSBhoQ8zDnGIP5V), [Gaby Zambrano](https://open.spotify.com/artist/4jIRqX8X6rSrmxIIl1ytFX) | [Besito en la Boca](https://open.spotify.com/album/6sMoPwb6EtFj5wBF60GYWk) | 4:11 |

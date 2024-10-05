@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2GlwF5.md) - [plain]
 
 ### [This Is 坂本真綾](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2GlwF5)
 
-> This is 坂本真綾\. The essential tracks, all in one playlist.
+> This is 坂本真綾。アーティストの代表曲をひとつのプレイリストに。
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,261 likes - 50 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,259 likes - 50 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,19 +44,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2GlwF5.md) - [plain]
 | 34 | [あなたを保つもの](https://open.spotify.com/track/4lG7PjB4Hpkil5G1xmO1yZ) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw), [Cornelius](https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9) | [25周年記念アルバム　シングルコレクション＋ アチコチ](https://open.spotify.com/album/5YA5rEjEEPUkb1xq3EJ5Uf) | 3:58 |
 | 35 | [Remedy](https://open.spotify.com/track/4XAdNPY1UfDyQyqBkpZGuL) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [かぜよみ](https://open.spotify.com/album/0lhUq6EneNsa5onks6pTIl) | 4:31 |
 | 36 | [action!](https://open.spotify.com/track/3TNvQjJyFZyMcxu16b62rW) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [シングルコレクション+ ミツバチ](https://open.spotify.com/album/6RLHiCgqAnKz0yGIO8bDAP) | 4:16 |
-| 37 | [Aoi Hitomi](https://open.spotify.com/track/1qq3YfabdCwpHFhqnWSnUz) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [The Vision of Escaflowne \(Original Motion Picture Soundtrack 3\)](https://open.spotify.com/album/7o8sLz2KsnZ0ykcQS6OxYM) | 3:17 |
-| 38 | [宇宙の記憶](https://open.spotify.com/track/3uaZprGpodif2hd4GPEZGA) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [宇宙の記憶](https://open.spotify.com/album/4dqKz3OlI0w5ug6Gd9wI7p) | 3:15 |
-| 39 | [タイムトラベラー](https://open.spotify.com/track/7Dc37v0COV1aIovtGL6osA) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [11thアルバム　記憶の図書館](https://open.spotify.com/album/37FOxaHocFMsIZRSQcfGkS) | 5:30 |
+| 37 | [宇宙の記憶](https://open.spotify.com/track/3uaZprGpodif2hd4GPEZGA) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [宇宙の記憶](https://open.spotify.com/album/4dqKz3OlI0w5ug6Gd9wI7p) | 3:15 |
+| 38 | [Aoi Hitomi](https://open.spotify.com/track/1qq3YfabdCwpHFhqnWSnUz) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [The Vision of Escaflowne \(Original Motion Picture Soundtrack 3\)](https://open.spotify.com/album/7o8sLz2KsnZ0ykcQS6OxYM) | 3:17 |
+| 39 | [スクラップ\~別れの詩](https://open.spotify.com/track/1emTsOgvferh5g2qRoxQmN) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [少年アリス](https://open.spotify.com/album/5C1IE2qoBSHKwp8U8mlNec) | 4:43 |
 | 40 | [やさしさに包まれたなら](https://open.spotify.com/track/5Hu070bWBz5I4QDLo267N1) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [シングルコレクション+ ミツバチ](https://open.spotify.com/album/6RLHiCgqAnKz0yGIO8bDAP) | 3:51 |
-| 41 | [cloud 9](https://open.spotify.com/track/2qGC7Kxul7KDS8Mi8u59B6) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [25周年記念アルバム　シングルコレクション＋ アチコチ](https://open.spotify.com/album/5YA5rEjEEPUkb1xq3EJ5Uf) | 5:00 |
-| 42 | [スクラップ\~別れの詩](https://open.spotify.com/track/1emTsOgvferh5g2qRoxQmN) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [少年アリス](https://open.spotify.com/album/5C1IE2qoBSHKwp8U8mlNec) | 4:43 |
-| 43 | [体温](https://open.spotify.com/track/3YVx1paxbHPuaMiPyOGa8e) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [11thアルバム　記憶の図書館](https://open.spotify.com/album/37FOxaHocFMsIZRSQcfGkS) | 4:18 |
-| 44 | [CLEAR ～TVサイズ～](https://open.spotify.com/track/1RCEEjexdySvwstGnBEVJs) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [「カードキャプターさくら クリアカード編」オリジナルサウンドトラック](https://open.spotify.com/album/6U04R6FklDZ45KsVchJWMM) | 1:32 |
-| 45 | [Million Clouds](https://open.spotify.com/track/3AXxeu6r2EvXgndlh7aKRf) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [25周年記念アルバム　シングルコレクション＋ アチコチ](https://open.spotify.com/album/5YA5rEjEEPUkb1xq3EJ5Uf) | 4:58 |
-| 46 | [レプリカ](https://open.spotify.com/track/0XBq9Gk2ikiyDWJOuwNiP3) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [レプリカ](https://open.spotify.com/album/4De7ETw90nNYeBADeq3EGN) | 4:00 |
-| 47 | [蒼のエーテル](https://open.spotify.com/track/6paDGwUHD2mYO9vyAodtVb) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [かぜよみ](https://open.spotify.com/album/0lhUq6EneNsa5onks6pTIl) | 3:58 |
-| 48 | [うちゅうひこうしのうた](https://open.spotify.com/track/2FFC8bRZrTtflfvPNCcich) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [少年アリス](https://open.spotify.com/album/5C1IE2qoBSHKwp8U8mlNec) | 3:47 |
+| 41 | [タイムトラベラー](https://open.spotify.com/track/7Dc37v0COV1aIovtGL6osA) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [11thアルバム　記憶の図書館](https://open.spotify.com/album/37FOxaHocFMsIZRSQcfGkS) | 5:30 |
+| 42 | [cloud 9](https://open.spotify.com/track/2qGC7Kxul7KDS8Mi8u59B6) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [25周年記念アルバム　シングルコレクション＋ アチコチ](https://open.spotify.com/album/5YA5rEjEEPUkb1xq3EJ5Uf) | 5:00 |
+| 43 | [CLEAR ～TVサイズ～](https://open.spotify.com/track/1RCEEjexdySvwstGnBEVJs) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [「カードキャプターさくら クリアカード編」オリジナルサウンドトラック](https://open.spotify.com/album/6U04R6FklDZ45KsVchJWMM) | 1:32 |
+| 44 | [レプリカ](https://open.spotify.com/track/0XBq9Gk2ikiyDWJOuwNiP3) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [レプリカ](https://open.spotify.com/album/4De7ETw90nNYeBADeq3EGN) | 4:00 |
+| 45 | [体温](https://open.spotify.com/track/3YVx1paxbHPuaMiPyOGa8e) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [11thアルバム　記憶の図書館](https://open.spotify.com/album/37FOxaHocFMsIZRSQcfGkS) | 4:18 |
+| 46 | [Million Clouds](https://open.spotify.com/track/3AXxeu6r2EvXgndlh7aKRf) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [25周年記念アルバム　シングルコレクション＋ アチコチ](https://open.spotify.com/album/5YA5rEjEEPUkb1xq3EJ5Uf) | 4:58 |
+| 47 | [うちゅうひこうしのうた](https://open.spotify.com/track/2FFC8bRZrTtflfvPNCcich) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [少年アリス](https://open.spotify.com/album/5C1IE2qoBSHKwp8U8mlNec) | 3:47 |
+| 48 | [蒼のエーテル](https://open.spotify.com/track/6paDGwUHD2mYO9vyAodtVb) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [かぜよみ](https://open.spotify.com/album/0lhUq6EneNsa5onks6pTIl) | 3:58 |
 | 49 | [抱きしめて](https://open.spotify.com/track/2vETGnAnQLNQFl6VR84Bfo) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [抱きしめて](https://open.spotify.com/album/5c44hFzL4fj1h6P6uhgREi) | 4:47 |
 | 50 | [un\_mute](https://open.spotify.com/track/3u5awR3XHHpmdn0nQWf5ul) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [WOWOW Original Animation "The Fire Hunter" Ending Theme Song / TV Animation "REVENGER" Ending Theme Song Mada Tooku ni Iru / un\_mute](https://open.spotify.com/album/4N1Iw4L0uoPVrjNl3GfZPn) | 4:57 |
 
-Snapshot ID: `ZvyNAAAAAABbPKyABcLpjieAEYkvOK9o`
+Snapshot ID: `Zv3egAAAAACj5Ivbx2Kh93w6yncb0Ztn`

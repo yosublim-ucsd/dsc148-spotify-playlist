@@ -4,7 +4,7 @@
 
 > Warm indie dance vibes, the music you need at golden hour 🌞
 
-520 songs - 1 day 8 hr 46 min
+521 songs - 1 day 8 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -231,7 +231,7 @@
 | [Jasmine \- Demo](https://open.spotify.com/track/44LAHDPaM5dvkmmD5w1W84) | [Jai Paul](https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc) | [Leak 04\-13 \(Bait Ones\)](https://open.spotify.com/album/4bCsLPQuCdQQBQOLs5MuNr) | 4:13 | 2020-12-22 | 2024-01-27 |
 | [jazz is for ordinary people](https://open.spotify.com/track/12BaQt9aYdTlEtKreqB5V4) | [berlioz](https://open.spotify.com/artist/3k3RY7kR8f0vp8Cq27P141) | [jazz is for ordinary people](https://open.spotify.com/album/0EZTn2obuqMf9AbBG2PUKp) | 2:44 | 2024-01-26 |  |
 | [Jeanie \(feat\. Bon Iver\)](https://open.spotify.com/track/6nv9RCo0IXNzCSGeYtzT82) | [Jim\-E Stack](https://open.spotify.com/artist/4GmataFSHOSQWxuuUX57Bh), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Jeanie \(feat\. Bon Iver\)](https://open.spotify.com/album/5jWHspWCxRbx19wglIUYkd) | 2:47 | 2020-12-22 | 2022-07-29 |
-| [JOY \(Sun On My Skin\)](https://open.spotify.com/track/4w66XUSDQjYIh2SrgqmSHr) | [Joy Anonymous](https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R), [Todd Edwards](https://open.spotify.com/artist/6MFopqejpmTUUZlcRmGzgg), [Reggie Watts](https://open.spotify.com/artist/3ni9LX95aVQksOuoHFEbEx) | [Joyous People \(South East Corner\)](https://open.spotify.com/album/4IozdS021KNnLFZse14reT) | 3:41 | 2024-09-30 |  |
+| [JOY \(Sun On My Skin\)](https://open.spotify.com/track/4w66XUSDQjYIh2SrgqmSHr) | [Joy Anonymous](https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R), [Todd Edwards](https://open.spotify.com/artist/6MFopqejpmTUUZlcRmGzgg), [Reggie Watts](https://open.spotify.com/artist/3ni9LX95aVQksOuoHFEbEx) | [Joyous People \(South East Corner\)](https://open.spotify.com/album/4IozdS021KNnLFZse14reT) | 3:41 | 2024-09-30 | 2024-10-05 |
 | [joycelyn's dance](https://open.spotify.com/track/6OI1stBQI4YHH2ceWVIrk4) | [berlioz](https://open.spotify.com/artist/3k3RY7kR8f0vp8Cq27P141) | [joycelyn's dance](https://open.spotify.com/album/1ZmhzQQWURtuF9K7yPcAoJ) | 3:18 | 2024-04-05 |  |
 | [Jubel](https://open.spotify.com/track/27ZhKzjHoE0UUlyMXu0ZFa) | [Klingande](https://open.spotify.com/artist/1L9i6qZYIGQedgM9QLSyzb) | [The Album](https://open.spotify.com/album/3Q1fYsdTHS2PYz4IKp0Jnc) | 4:43 | 2022-05-13 | 2022-06-04 |
 | [Kaleidoscope](https://open.spotify.com/track/54lEP2AiBdnVrqh49PoUqN) | [Joey Pecoraro](https://open.spotify.com/artist/44insiIQApkRaCMIbuaISJ) | [Sea Monster](https://open.spotify.com/album/13N9WZkBPSuQYXKKkSN9Ud) | 3:46 | 2020-12-22 | 2022-07-29 |
@@ -343,6 +343,7 @@
 | [Only](https://open.spotify.com/track/0A9fNzuRa0WqaCmxY7FOLK) | [Patrick Baker](https://open.spotify.com/artist/73PTYegu3D1i5vRERzcBhT) | [Only](https://open.spotify.com/album/1XuuSIOYNqPcZSlgkl9H06) | 4:23 | 2020-12-22 | 2022-04-21 |
 | [Only You](https://open.spotify.com/track/5147NKHUT2KvPhmQBp4PHp) | [Ginger Root](https://open.spotify.com/artist/4UAW69682T7N0wrABUhqx0) | [Only You](https://open.spotify.com/album/4mBg8H35g1bajfKDR0AlOy) | 3:29 | 2024-08-16 |  |
 | [open this wall](https://open.spotify.com/track/4m30cfL2qOwlFsuGqMOZ8k) | [berlioz](https://open.spotify.com/artist/3k3RY7kR8f0vp8Cq27P141) | [open this wall](https://open.spotify.com/album/1NjMj1u1EQxn8oESg40bPA) | 2:36 | 2024-07-12 |  |
+| [Otherside](https://open.spotify.com/track/2pj2A25YQK4uMxhZheNx7R) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg), [Holly Walker](https://open.spotify.com/artist/5vssQp6TyMHsx4mihKVAsC) | [Otherside](https://open.spotify.com/album/3BYf1IG8EqDbhzdpljcFWY) | 3:53 | 2024-10-04 |  |
 | [Our Way \- Edit](https://open.spotify.com/track/4IC1Sx6gOC9PSx5EYJR8yi) | [Paco Versailles](https://open.spotify.com/artist/5VptPtXbT0T4imW6GcobiW) | [Cortados \(Edit\)](https://open.spotify.com/album/4TvhcQ8jpcSeWXcNMjlzG2) | 2:45 | 2024-03-22 |  |
 | [Outer Sunset](https://open.spotify.com/track/4Zwo8D1koSzLJCYd5NlX81) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry) | [Simulcast](https://open.spotify.com/album/09kooFexe8JArV583iIkaj) | 4:10 | 2020-12-22 | 2022-05-08 |
 | [Over Now \(with The Weeknd\)](https://open.spotify.com/track/58AGoOGbwsQMhBbH0eFLRR) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Over Now \(with The Weeknd\)](https://open.spotify.com/album/3GPiefSRSOxqTrgKJIB7RL) | 3:30 | 2020-12-22 | 2023-11-18 |

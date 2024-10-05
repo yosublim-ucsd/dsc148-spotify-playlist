@@ -4,7 +4,7 @@
 
 > This Is Ali Aka Mind\. Los temas esenciales, todos en una lista.
 
-59 songs - 3 hr 23 min
+60 songs - 3 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Palabras del Alma](https://open.spotify.com/track/503bBnziEGq0pxwV5DHacZ) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [ALI Prod.](https://open.spotify.com/artist/3dF74LMMxII0PDwlMXaPEu) | [Palabras del Alma](https://open.spotify.com/album/4JTGFe7NhpEVSInPEasMhV) | 3:35 | 2023-12-30 |  |
 | [Paraíso Fiscal](https://open.spotify.com/track/5S5c4qZw9xQIYsoRgEdlPY) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [Doble Porcion](https://open.spotify.com/artist/4PLGokgPkAapRsKDwXq408) | [Paraíso Fiscal](https://open.spotify.com/album/5slBLS7tgewaXLg8y9AWt8) | 3:00 | 2023-12-30 |  |
 | [Pasaporte Colombiano](https://open.spotify.com/track/6pnaNZn44tnO71640OEEB8) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [ALI Prod.](https://open.spotify.com/artist/3dF74LMMxII0PDwlMXaPEu) | [Rap Conciencia](https://open.spotify.com/album/6CVQjIWT0jNTyFVcsJfksR) | 3:46 | 2023-12-30 |  |
+| [Qué Mentira Tan Perfecta](https://open.spotify.com/track/5JANca2cKP0GEUH0YORHAN) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [T\-Chord](https://open.spotify.com/artist/3GvdERCXrDLLTKzngNIyMW) | [Qué Mentira Tan Perfecta](https://open.spotify.com/album/1TldCO3Zg4Y5WhueVcV85Y) | 2:49 | 2024-10-05 |  |
 | [Recreo](https://open.spotify.com/track/0vzTHnDY9h03jTosxJbE8V) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl) | [Manjit](https://open.spotify.com/album/5kWtTiaGy7fsc8SRzP5Grr) | 2:49 | 2023-12-30 |  |
 | [Resiste](https://open.spotify.com/track/6NXti8tVz8vE6udH1UJkYD) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [ALI Prod.](https://open.spotify.com/artist/3dF74LMMxII0PDwlMXaPEu), [Unknown Mizery de Babylon Warchild](https://open.spotify.com/artist/56o7VNkbWKgVZpmvSe2jqu) | [Mestizo](https://open.spotify.com/album/3q3CUqz2XqQwDOFjmWphbw) | 3:13 | 2023-12-30 | 2024-07-05 |
 | [Sentimiento Cotidiano](https://open.spotify.com/track/1Zpw8tdhQVVvFG8ih0eNg5) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl) | [Universos Mixtape](https://open.spotify.com/album/0CIIttetz5Ts1zwEBki0rN) | 2:01 | 2024-02-05 | 2024-08-09 |

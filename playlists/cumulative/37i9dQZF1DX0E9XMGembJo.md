@@ -4,7 +4,7 @@
 
 > your daily dose of dopamine
 
-620 songs - 1 day 9 hr 44 min
+621 songs - 1 day 9 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -251,7 +251,7 @@
 | [Have U Seen Her](https://open.spotify.com/track/62ipKcuoX7tDEdiRsl1uTK) | [Kid Bloom](https://open.spotify.com/artist/5CXdWANGwYYRPClH6hhC0P) | [Have U Seen Her](https://open.spotify.com/album/4J1zQkSh1FdtLiXHMZy1xK) | 2:58 | 2022-04-01 | 2022-05-28 |
 | [Head In The Clouds](https://open.spotify.com/track/1fAE0TQ3xblvOgnmM7yL1s) | [BabyJake](https://open.spotify.com/artist/07Asx51VtMw5kbNXKrpZlq) | [Don't give me problems, give me wine](https://open.spotify.com/album/0zdCctCFiHeLyZ4mzV7aY8) | 2:27 | 2021-12-29 | 2022-07-28 |
 | [Heart of Glass \(Coeur de Verre\)](https://open.spotify.com/track/7iF9Sl2EqwoNyuXTTBS39R) | [DO not DO](https://open.spotify.com/artist/7ipFE8S09qHrx6zoLKVGqi) | [Emily in Paris Season 4 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/79BnehvOChmwJkg3fbXNry) | 3:25 | 2024-09-16 |  |
-| [heartbodymindsoul](https://open.spotify.com/track/3jYnrUml3eWrtvcF1kmThi) | [joan](https://open.spotify.com/artist/3HXLY1sNXIxHfulrjPiRf5) | [heartbodymindsoul](https://open.spotify.com/album/6ag3PAAUPS3Drlx8ziDTsZ) | 2:41 | 2024-09-20 |  |
+| [heartbodymindsoul](https://open.spotify.com/track/3jYnrUml3eWrtvcF1kmThi) | [joan](https://open.spotify.com/artist/3HXLY1sNXIxHfulrjPiRf5) | [heartbodymindsoul](https://open.spotify.com/album/6ag3PAAUPS3Drlx8ziDTsZ) | 2:41 | 2024-09-20 | 2024-10-05 |
 | [Heat Waves](https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland \(+ Bonus Levels\)](https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV) | 3:58 | 2021-12-29 | 2023-04-16 |
 | [Heat Waves](https://open.spotify.com/track/3USxtqRwSYz57Ewm6wWRMp) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland](https://open.spotify.com/album/5bfpRtBW7RNRdsm3tRyl3R) | 3:58 | 2023-03-31 | 2024-04-19 |
 | [Heaven Falls / Fall on Me](https://open.spotify.com/track/7yHqOZfsXYlicyoMt62yC6) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Heaven Falls / Fall on Me](https://open.spotify.com/album/47FlG4nYHBCVO0DKbdMbCz) | 4:00 | 2021-12-29 | 2022-05-14 |
@@ -386,6 +386,7 @@
 | [Moment](https://open.spotify.com/track/3RZwiJMiAeiSObHO25qGK1) | [Johnny Yukon](https://open.spotify.com/artist/4fLF7NyMYLaMxUmZCSp5ex) | [Moment](https://open.spotify.com/album/5llzZfuUMShvnGzWL7x07d) | 2:12 | 2022-11-04 | 2022-11-12 |
 | [Money Trees](https://open.spotify.com/track/0UtnpKaReKUg2GquaSxCyD) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Jay Rock](https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3) | [good kid, m.A.A.d city \(Deluxe\)](https://open.spotify.com/album/748dZDqSZy6aPXKcI9H80u) | 6:26 | 2022-03-28 | 2022-04-17 |
 | [Money Trees](https://open.spotify.com/track/2HbKqm4o0w5wEeEFXm2sD4) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Jay Rock](https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3) | [good kid, m.A.A.d city](https://open.spotify.com/album/6PBZN8cbwkqm1ERj2BGXJ1) | 6:26 | 2022-07-25 | 2024-04-19 |
+| [Moonlit Floor](https://open.spotify.com/track/3yDRcs0Y4pPzkvMbUfeF9H) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Moonlit Floor](https://open.spotify.com/album/2F84s5tvr9RSS6VI772mVb) | 2:35 | 2024-10-04 |  |
 | [Moped](https://open.spotify.com/track/78qpxyEBuaJucHP2SURndk) | [Peach Tree Rascals](https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe) | [Does A Fish Know It's Wet?](https://open.spotify.com/album/2Zi2zHzjT6aMypTgEXY2zw) | 3:05 | 2022-07-22 | 2022-07-29 |
 | [More Than A Woman \- SG's Paradise Edit](https://open.spotify.com/track/0L3XCv9i9IHs8cJEVhsJ3J) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN), [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [More Than A Woman \(SG's Paradise Edit\)](https://open.spotify.com/album/2iTmTEm55PIjLdYjDCKh96) | 5:57 | 2021-12-29 | 2022-04-20 |
 | [More Than Friends](https://open.spotify.com/track/7f6CYOMT6sXv35ZTJRtXtA) | [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [More Than Friends](https://open.spotify.com/album/0r9uTlzVUjnRvBTGjTLC54) | 2:54 | 2022-02-25 | 2022-04-17 |

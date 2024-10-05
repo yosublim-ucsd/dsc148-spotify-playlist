@@ -2,9 +2,9 @@
 
 ### [RADAR Songwriters](https://open.spotify.com/playlist/37i9dQZF1DX2TlTLxcIo6J)
 
-> New songwriters on the horizon from around the world\. Cover: BLVSH ✨
+> New songwriters on the horizon from around the world\. Cover: DUKE
 
-113 songs - 5 hr 56 min
+117 songs - 6 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,9 +32,11 @@
 | [Creature \- MYRNE Remix](https://open.spotify.com/track/2tv8ppFp8QeGsWxk9I05az) | [Linying](https://open.spotify.com/artist/5IIP34JBy1d8kBYlAGnRaW), [MYRNE](https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg) | [Creature \(MYRNE Remix\)](https://open.spotify.com/album/1ARlBuNQfm3t9pljmDwbsv) | 6:56 | 2024-05-28 |  |
 | [Crocodiles](https://open.spotify.com/track/03pMITmL4qouGlrfTAhX9W) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Crocodiles](https://open.spotify.com/album/6cLS5tRoyiw8U6lH1Zc4UX) | 4:00 | 2024-03-22 |  |
 | [Crocodiles](https://open.spotify.com/track/3S83qk7cILQeQhguBaWi7x) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Make Believe](https://open.spotify.com/album/6Cg42RsUj2uTvThXnIHedJ) | 4:00 | 2024-02-26 | 2024-04-19 |
+| [Do Am Again](https://open.spotify.com/track/3cctXWWs1Z8j5BYp9TyV98) | [DUKE.](https://open.spotify.com/artist/3h1Z9rpBcFzTmW47vymTQA), [The Cavemen.](https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD) | [Nothing Like I Feel](https://open.spotify.com/album/4xPplqhlQ0AW1nivLgbKJz) | 2:54 | 2024-10-04 |  |
 | [Dolls](https://open.spotify.com/track/5lXddHmtOgU4ZXZno3nypA) | [Bella Poarch](https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm) | [Dolls EP](https://open.spotify.com/album/4W8QhTVggLgkJLdsXLLnnz) | 2:12 | 2024-09-12 |  |
 | [don't let go](https://open.spotify.com/track/3vjGBhmD8YrmfpbPITTetz) | [Rowlene](https://open.spotify.com/artist/0pEJe38UHfdkFEEaPgwH0P) | [Moments In Between](https://open.spotify.com/album/009HGDGLlzZtCaAxKJjTOt) | 3:00 | 2024-08-05 | 2024-09-13 |
 | [Downtown](https://open.spotify.com/track/1agzjKir1PVW91rkCbiXks) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Downtown](https://open.spotify.com/album/1QRMi6OGmvL3PR7uctgSa7) | 2:11 | 2024-03-21 |  |
+| [Dreaming](https://open.spotify.com/track/2BNWWQ51ZuP6uQHNWRvQzP) | [DUKE.](https://open.spotify.com/artist/3h1Z9rpBcFzTmW47vymTQA), [Harry Stone](https://open.spotify.com/artist/6rq7VcWeCTjiBIIuGt0D96) | [Dreaming](https://open.spotify.com/album/6vtJCIuHJ4mpti8K7iZ0kv) | 2:45 | 2024-10-04 |  |
 | [Everyone Who Falls In Love \(Has Someone Else They’re Thinking Of\)](https://open.spotify.com/track/3BRI2KJHYRJfse5DYmyoxM) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Victory](https://open.spotify.com/album/4T0KHJNt0mCuAyXSXfhQc3) | 2:36 | 2024-02-26 | 2024-03-22 |
 | [Favourite Song](https://open.spotify.com/track/51Gpkl6MSosRyZD1OQPrmF) | [Tim Chadwick](https://open.spotify.com/artist/01xLuKvTWah7tIPATY3MfL) | [Favourite Song](https://open.spotify.com/album/1TWDDWs0gQV3YKnQSCbOgh) | 3:39 | 2024-02-26 |  |
 | [FOR THE ROAD](https://open.spotify.com/track/0SGea6cYbJWWz0MW1MYWlD) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Timeless](https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS) | 2:27 | 2023-08-15 | 2023-10-05 |
@@ -58,6 +60,7 @@
 | [Like Crazy](https://open.spotify.com/track/3Ua0m0YmEjrMi9XErKcNiR) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [FACE](https://open.spotify.com/album/4xc3Lc9yASZgEJGH7acWMB) | 3:32 | 2024-09-12 |  |
 | [Lose It All](https://open.spotify.com/track/1rLKLphzEdI1YQqHn4n0OD) | [James Carter](https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq), [Dominic Neill](https://open.spotify.com/artist/4PIv3Lyk3erxjcwBZFVNgi) | [Lose It All](https://open.spotify.com/album/4dPAqSKXgdO0YosVpLNbE4) | 2:54 | 2023-06-28 | 2023-10-05 |
 | [Lotus](https://open.spotify.com/track/3TGGENjrxEOwl1zBZZqKGc) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Hope For Sale](https://open.spotify.com/album/2opiJIrYClkW7qD2vM6vSi) | 2:18 | 2023-10-05 |  |
+| [Love](https://open.spotify.com/track/0uXOQ3Mh3buBmSBV9ZTi0g) | [DUKE.](https://open.spotify.com/artist/3h1Z9rpBcFzTmW47vymTQA), [Tomi Thomas](https://open.spotify.com/artist/1W6kAvOt2N7X3Rta12vPGR), [Thisizlondon](https://open.spotify.com/artist/30SVAanrbFS6o0cIVDZ9ta), [YKB](https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE) | [Love](https://open.spotify.com/album/64U9s10EhvqbUYknglkeNg) | 2:40 | 2024-10-04 |  |
 | [Love Under The Influence](https://open.spotify.com/track/7zU7vNJiit9Ep9AtPyuKBl) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [Love Under The Influence](https://open.spotify.com/album/11x2KmXabLf3gs30g7Wa5d) | 3:08 | 2023-06-28 | 2023-10-05 |
 | [love you more than me](https://open.spotify.com/track/3jc0jdopFsv3dYz5uo8OCr) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [love you more than me](https://open.spotify.com/album/5iA8uhhLMIfh8CUu6sJWd6) | 2:21 | 2022-07-22 |  |
 | [Luccica](https://open.spotify.com/track/2MRNpRQLaErjmGBk6c9OQJ) | [Matteo Bocelli](https://open.spotify.com/artist/3SzmIPVTtVc0AzbR8kwk0w) | [Matteo](https://open.spotify.com/album/5VeLRPwjs2yLnNklcluzlc) | 2:47 | 2023-10-05 | 2024-09-13 |
@@ -72,6 +75,7 @@
 | [No Romeo](https://open.spotify.com/track/2GNH6YhM2rBaJoxYKy0iF8) | [Dylan](https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk) | [No Romeo EP](https://open.spotify.com/album/09ItArIl88LxU5InoksUTo) | 3:11 | 2022-05-27 | 2022-10-13 |
 | [No Romeo](https://open.spotify.com/track/2n4U8Qf9vkpl6rFQnXtLK5) | [Dylan](https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk) | [No Romeo EP](https://open.spotify.com/album/6dpPmjQADL8JE813YWKfQ3) | 3:11 | 2022-05-27 | 2024-04-19 |
 | [No Romeo](https://open.spotify.com/track/4qnZCHbYsdUzjeyRXPDjlB) | [Dylan](https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk) | [No Romeo](https://open.spotify.com/album/3uCOV1a01TIpU0BOr2B0CX) | 3:11 | 2024-03-22 |  |
+| [Nothing Like I Feel](https://open.spotify.com/track/2DOf1mESOQI6CwojghFI8B) | [DUKE.](https://open.spotify.com/artist/3h1Z9rpBcFzTmW47vymTQA), [Braye](https://open.spotify.com/artist/7wGQ0lfuBST1l3WyiJGVY0) | [Nothing Like I Feel](https://open.spotify.com/album/57ZPkm9bpfCILgNmye91Jc) | 2:57 | 2024-10-04 |  |
 | [Nuez](https://open.spotify.com/track/4xNsLmMkJW8dq9b8NMDAm5) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Si Te Soy Más Sincera](https://open.spotify.com/album/3j5jBheSpnsonl8m8Fdga3) | 3:32 | 2023-11-06 |  |
 | [Obsessed With You](https://open.spotify.com/track/4PYfFHKfjYz6dwAtZhBy1z) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Obsessed With You](https://open.spotify.com/album/1gXyOc0Unev5AqD9X248v9) | 1:48 | 2022-05-27 |  |
 | [okokok](https://open.spotify.com/track/5VML2SOtSpYIKxtAQ3oAzq) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [okokok](https://open.spotify.com/album/0a6WPtwGDH6doaQoBiIp2C) | 2:38 | 2024-04-28 |  |

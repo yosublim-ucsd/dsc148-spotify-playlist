@@ -11113,6 +11113,24 @@
     },
     {
       "album": {
+        "name": "The Riot",
+        "url": "https://open.spotify.com/album/4LJhlX7i3YpdeRgVmyPvom"
+      },
+      "artists": [
+        {
+          "name": "NIVIRO",
+          "url": "https://open.spotify.com/artist/2nsCjA4fEasmnlOK0wXU7T"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185357,
+      "name": "The Riot",
+      "url": "https://open.spotify.com/track/5NLdmEFbJIl6z3XNyYiXo4"
+    },
+    {
+      "album": {
         "name": "The Rocks",
         "url": "https://open.spotify.com/album/2AIbgGVrYnbOhuYWAUzTiV"
       },

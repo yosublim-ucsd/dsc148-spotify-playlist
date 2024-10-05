@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1i8qVD.md) - [plain]
 
 > This Is Buddy Guy\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,195 likes - 50 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,200 likes - 50 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1i8qVD.md) - [plain]
 | 24 | [Jam On A Monday Morning](https://open.spotify.com/track/6UQMeYLE04t3PJY2OYYhA4) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [A Man And The Blues](https://open.spotify.com/album/3cx4CSrzwft7UVlsoZxbTZ) | 2:52 |
 | 25 | [A Few Good Years](https://open.spotify.com/track/6MT9ikZ0SnOU48rBMReIAT) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [The Blues Is Alive And Well](https://open.spotify.com/album/425gWaQU4t3KOvcM7z3VGk) | 4:47 |
 | 26 | [Texas Louisiana](https://open.spotify.com/track/6OdFdXQR5gm1uCJYzA5RqH) | [Ally Venable](https://open.spotify.com/artist/6aQSBUOuFKlxJYrBWI5gVM), [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Real Gone](https://open.spotify.com/album/53kQpuZzu1Yd5gyBtfgvr6) | 2:55 |
-| 27 | [Chitlin Con Carne](https://open.spotify.com/track/1VuusegWcz4R6DVA4pOOFI) | [Junior Wells](https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK), [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Hoodoo Man Blues](https://open.spotify.com/album/6whq5Ok1wCTlrXRNyzDSJ4) | 2:14 |
-| 28 | [One Day Away \(feat\. Keith Urban\)](https://open.spotify.com/track/15e3leRc1c26oStnjjiex6) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Rhythm & Blues](https://open.spotify.com/album/5IyOwYWSw2m1mwD4OEpFeM) | 3:44 |
+| 27 | [One Day Away \(feat\. Keith Urban\)](https://open.spotify.com/track/15e3leRc1c26oStnjjiex6) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Rhythm & Blues](https://open.spotify.com/album/5IyOwYWSw2m1mwD4OEpFeM) | 3:44 |
+| 28 | [Chitlin Con Carne](https://open.spotify.com/track/1VuusegWcz4R6DVA4pOOFI) | [Junior Wells](https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK), [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Hoodoo Man Blues](https://open.spotify.com/album/6whq5Ok1wCTlrXRNyzDSJ4) | 2:14 |
 | 29 | [Blue No More \(feat\. James Bay\)](https://open.spotify.com/track/4qsvEqf7xQVKxgu53WspSn) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [The Blues Is Alive And Well](https://open.spotify.com/album/425gWaQU4t3KOvcM7z3VGk) | 3:39 |
 | 30 | [Just Teasin'](https://open.spotify.com/track/7qR9FrZIWNzOMkfzjINkiH) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [DJ Play My Blues](https://open.spotify.com/album/0wN1Cv8D4Ht38g8TMx7psy) | 4:42 |
 | 31 | [Messin' with the Kid](https://open.spotify.com/track/6VkaGRe98A6x7S5dGmxd30) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [Junior Wells](https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK) | [Buddy Guy & Junior Wells Play The Blues](https://open.spotify.com/album/1GGe9Rkv0Yby4ZiEc54pLu) | 2:15 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1i8qVD.md) - [plain]
 | 41 | [I Go By Feel](https://open.spotify.com/track/599KFVKTx45bNXIYhdVCxn) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Rhythm & Blues](https://open.spotify.com/album/5IyOwYWSw2m1mwD4OEpFeM) | 4:15 |
 | 42 | [Wear You Out \(feat\. Billy Gibbons\)](https://open.spotify.com/track/41DyUcEAiyVtNCrWElC32R) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [Billy F Gibbons](https://open.spotify.com/artist/69Iibc3uQ7x2vDeZxTwKCw) | [Born To Play Guitar](https://open.spotify.com/album/05GcLcffb84BOLzo7BMz9W) | 3:30 |
 | 43 | [I Need You Tonight](https://open.spotify.com/track/3zMdVdZtvJ5wN3onnAecsq) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Heavy Love](https://open.spotify.com/album/5ihjiZb9879Hd3MjOBaxRu) | 5:17 |
-| 44 | [I Got My Eyes On You](https://open.spotify.com/track/5Hm4G8TmOoaVdNWA7okYvn) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [I Was Walking Through The Woods \(Expanded Edition\)](https://open.spotify.com/album/0eE5l0Q2pRLlKsrt7sOEPk) | 2:19 |
-| 45 | [Sweet Home Chicago \- Mono Rough Mix](https://open.spotify.com/track/5zGssSIGlzrEWZOH3M8Bn6) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [Junior Wells](https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK) | [Buddy Guy & Junior Wells Play The Blues \(Expanded\)](https://open.spotify.com/album/258nJWLkWNsQshy4AZUDaQ) | 4:00 |
+| 44 | [Sweet Home Chicago \- Mono Rough Mix](https://open.spotify.com/track/5zGssSIGlzrEWZOH3M8Bn6) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [Junior Wells](https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK) | [Buddy Guy & Junior Wells Play The Blues \(Expanded\)](https://open.spotify.com/album/258nJWLkWNsQshy4AZUDaQ) | 4:00 |
+| 45 | [I Got My Eyes On You](https://open.spotify.com/track/5Hm4G8TmOoaVdNWA7okYvn) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [I Was Walking Through The Woods \(Expanded Edition\)](https://open.spotify.com/album/0eE5l0Q2pRLlKsrt7sOEPk) | 2:19 |
 | 46 | [Miss Ida B](https://open.spotify.com/track/0BX4XzYSTD4HBz2BzcQ8Iu) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Can't Quit The Blues](https://open.spotify.com/album/5CIK2RIt6REWTwC7p44yst) | 6:24 |
 | 47 | [Midnight Train \(feat\. Jonny Lang\)](https://open.spotify.com/track/3zhWfTjCmrfcYTZy7C4OaD) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [Jonny Lang](https://open.spotify.com/artist/5rX1EodZfwxmW4fQX2Caot) | [Heavy Love](https://open.spotify.com/album/5ihjiZb9879Hd3MjOBaxRu) | 5:20 |
 | 48 | [I Can't Quit The Blues](https://open.spotify.com/track/7odv5siIsQdOEUmsk7Mjsv) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [A Man And The Blues](https://open.spotify.com/album/3cx4CSrzwft7UVlsoZxbTZ) | 3:20 |
 | 49 | [Meet Me in Chicago](https://open.spotify.com/track/35sEYu9d2rT5BPLiOiMYob) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Rhythm & Blues](https://open.spotify.com/album/5IyOwYWSw2m1mwD4OEpFeM) | 3:45 |
 | 50 | [I Put a Spell On You \(feat\. Carlos Santana\)](https://open.spotify.com/track/3e1vsLS7W9LNOofXgGccH3) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [Carlos Santana](https://open.spotify.com/artist/0MsXN56oNCyqorqEPViWgQ) | [Bring 'Em In](https://open.spotify.com/album/6q80QMqBZJMht2f7c4bLL6) | 4:04 |
 
-Snapshot ID: `ZvyNAAAAAAA124mE13NeP+kVb8qzFWS4`
+Snapshot ID: `Zv3egAAAAAANBL8S/lzMjXisC2n0DUEJ`

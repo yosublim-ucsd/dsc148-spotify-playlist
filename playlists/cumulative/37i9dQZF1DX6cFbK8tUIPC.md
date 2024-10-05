@@ -4,7 +4,7 @@
 
 > The cinnamon\-infused, crisp\-air\-breathing, crunchy\-leaves\-walking, chunky\-knit\-wearing, seasonal\-latte\-drinking playlist.
 
-357 songs - 22 hr 39 min
+358 songs - 22 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [All I Want](https://open.spotify.com/track/0NlGoUyOJSuSHmngoibVAs) | [Kodaline](https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4) | [In A Perfect World \(Expanded Edition\)](https://open.spotify.com/album/1ttGpGzOEi6JDDOHO4qD1y) | 5:05 | 2022-06-22 | 2024-04-19 |
 | [All I Want](https://open.spotify.com/track/2jTidefcsTu6VQhpIImJrt) | [Kodaline](https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4) | [In A Perfect World \(Deluxe\)](https://open.spotify.com/album/3YHf7ooFmrTOsp4jPM3aFj) | 5:05 | 2021-12-03 | 2024-08-19 |
 | [All I Want](https://open.spotify.com/track/7eOJSUJ5ErZX28KdzD1vNK) | [Kodaline](https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4) | [Summer Hits of the 10s](https://open.spotify.com/album/3Cc3sTKGBCesLQcpNS3f3e) | 5:06 | 2022-10-06 | 2022-11-13 |
+| [ALL MY LOVE](https://open.spotify.com/track/6iYxkBHyMpsgVxUgfy5fSx) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Moon Music](https://open.spotify.com/album/5SGtrmYbIo0Dsg4kJ4qjM6) | 3:42 | 2024-10-03 |  |
 | [All Seeing All The Time](https://open.spotify.com/track/5i4tZwRUYI6Re4QimX6PjH) | [Chartreuse](https://open.spotify.com/artist/3U58oqsrbpLo0EbARkZrBW) | [All Seeing All The Time / Morning Ritual](https://open.spotify.com/album/2FRsx0aR9kMm6QFd4tOS8R) | 2:58 | 2023-09-14 | 2024-08-19 |
 | [All That You Are](https://open.spotify.com/track/6V7BW7mCfARAhKOlI4SkuM) | [Bear's Den](https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi) | [Blue Hours](https://open.spotify.com/album/1tqkCIUs7aGktIJ2J5WKFz) | 4:10 | 2022-06-22 | 2022-08-16 |
 | [All That You Are](https://open.spotify.com/track/7G1EM2JFj32L6UBsPJrhoH) | [Bear's Den](https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi) | [All That You Are](https://open.spotify.com/album/5QKtAAUxkQLhKT1hLX910o) | 4:11 | 2021-12-03 | 2022-08-13 |
@@ -64,7 +65,7 @@
 | [Call Your Mom](https://open.spotify.com/track/3yn01PcU95PTbiZ3xvop2j) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season \(We'll All Be Here Forever\)](https://open.spotify.com/album/1pb3je8gXTs5dpRRTKhHRC) | 4:38 | 2024-08-18 |  |
 | [Change](https://open.spotify.com/track/5WZGUtMLcqOMPem9J7PzVs) | [The War On Drugs](https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU) | [Change](https://open.spotify.com/album/0RmOC132NVM3iENECtcmYb) | 6:04 | 2021-12-03 | 2022-08-16 |
 | [Cherry](https://open.spotify.com/track/6hrH6nUOPoB9kW2dT4GXzy) | [Christian Lee Hutson](https://open.spotify.com/artist/5B7NeaqVrmXPyF05C9tnZ3) | [Cherry](https://open.spotify.com/album/1tC67mJvSOPmzKqglQKrzw) | 3:32 | 2022-06-22 | 2022-08-27 |
-| [Child of Summer](https://open.spotify.com/track/31tYotXu03oqTo8Avxbwdc) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Palomino Deluxe \(Child of Summer Edition\)](https://open.spotify.com/album/1zQPgJzwxqFxwQbw8SmMGd) | 3:41 | 2023-08-08 |  |
+| [Child of Summer](https://open.spotify.com/track/31tYotXu03oqTo8Avxbwdc) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Palomino Deluxe \(Child of Summer Edition\)](https://open.spotify.com/album/1zQPgJzwxqFxwQbw8SmMGd) | 3:41 | 2023-08-08 | 2024-10-05 |
 | [Chin Up](https://open.spotify.com/track/4ej7HdyF2slBRORpkxbC1J) | [Copeland](https://open.spotify.com/artist/31HpswGOiF0Mc2wm11sIoN) | [Revolving Doors](https://open.spotify.com/album/10W7EP88lFtvz3uiNof1DR) | 3:47 | 2022-09-16 | 2022-09-24 |
 | [Cinnamon](https://open.spotify.com/track/4XT9wAQ1malGGztBCmVX3m) | [Jome](https://open.spotify.com/artist/4rUMcxwZhidyj6FTbMSXse) | [Tunnels](https://open.spotify.com/album/5ecZDJWYsd0RFfUJ7NeBFX) | 3:24 | 2022-10-06 | 2024-04-19 |
 | [Cinnamon](https://open.spotify.com/track/7pJ8EpupQvfomVNPtfneql) | [Jome](https://open.spotify.com/artist/4rUMcxwZhidyj6FTbMSXse) | [Tunnels](https://open.spotify.com/album/7LhNffG8tDqV6o1vnjY88E) | 3:24 | 2021-12-03 | 2024-08-19 |
@@ -168,7 +169,7 @@
 | [I Let the Good Ones Go](https://open.spotify.com/track/3Q30mwHAXv4cYoIQFiIWt8) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90) | [A Chosen Family](https://open.spotify.com/album/5edXe34CzaJQps4q5ADGdr) | 3:55 | 2024-09-06 |  |
 | [I Never Danced](https://open.spotify.com/track/5cUsHnbf2tthokeAMQR5km) | [Winnie Raeder](https://open.spotify.com/artist/1QnifH4HAt0yWP9A9IcoMK) | [I Never Danced](https://open.spotify.com/album/1gglryfErGNk6ZiuIPb2u7) | 2:55 | 2022-10-06 | 2024-08-19 |
 | [I See It Now](https://open.spotify.com/track/7hZjNFPZsglEWpy87XxMXE) | [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [Songs From A Thousand Frames Of Mind](https://open.spotify.com/album/0D0cJqtudEFf6rpe3RJsgS) | 3:27 | 2024-10-03 |  |
-| [I Wanna Be A Mother](https://open.spotify.com/track/0tPOkNqkI2TM0gvqHLEgty) | [Nick Ward](https://open.spotify.com/artist/1JjlFdZ1LKxyQ8moqDOmS9) | [I Wanna Be A Mother](https://open.spotify.com/album/74uhmB7i7u3hGPiHUyijn3) | 3:43 | 2024-10-03 |  |
+| [I Wanna Be A Mother](https://open.spotify.com/track/0tPOkNqkI2TM0gvqHLEgty) | [Nick Ward](https://open.spotify.com/artist/1JjlFdZ1LKxyQ8moqDOmS9) | [I Wanna Be A Mother](https://open.spotify.com/album/74uhmB7i7u3hGPiHUyijn3) | 3:43 | 2024-10-03 | 2024-10-05 |
 | [i went outside](https://open.spotify.com/track/4FqqjYkdjKttebtiv6ovJL) | [Arny Margret](https://open.spotify.com/artist/0is0GJzcvwz5jg1qVZyOwW) | [i went outside](https://open.spotify.com/album/62WGQjLeIZ2aZ5yA8Tth25) | 4:53 | 2023-08-08 | 2024-04-19 |
 | [i went outside](https://open.spotify.com/track/6kV6ZzRW1h7I6eU9910mvJ) | [Arny Margret](https://open.spotify.com/artist/0is0GJzcvwz5jg1qVZyOwW) | [i went outside](https://open.spotify.com/album/0V6oGX0dgiLotHW6DwEF4F) | 4:53 | 2023-09-21 | 2024-09-26 |
 | [I'll Be There](https://open.spotify.com/track/4fIw0XD56hLGb7MCEqSs0K) | [Strawberry Guy](https://open.spotify.com/artist/1AbJ2cmwK400LSvdvBL5Jc) | [Sun Outside My Window](https://open.spotify.com/album/3njJDE85untcXnz7ZEhs4a) | 4:10 | 2021-12-03 | 2022-07-29 |
@@ -196,7 +197,7 @@
 | [Love of Her Life](https://open.spotify.com/track/5SF2uq9nZItW8MXNy6I4zE) | [Lizzie Reid](https://open.spotify.com/artist/0GytihetIdprntMyuyAJm6) | [Love of Her Life](https://open.spotify.com/album/3BUfowBL6EwLo9O9X2ASAJ) | 4:01 | 2022-08-15 | 2023-08-09 |
 | [Lovers to Strangers](https://open.spotify.com/track/401qSkk4KOeBVld2aiCAoK) | [Chance Peña](https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh) | [Lovers to Strangers](https://open.spotify.com/album/3x9bBb8Tl9ri8I3FxYU5CN) | 2:54 | 2023-08-08 |  |
 | [Lucky](https://open.spotify.com/track/3LvJ7Dj8WsWu7RufNvbOYe) | [Zeph](https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd) | [Lucky](https://open.spotify.com/album/5Vz1CD0A4VfUMELRUeysXM) | 3:12 | 2021-12-03 | 2022-08-27 |
-| [Luna Moth](https://open.spotify.com/track/2UqdJ97NrOsUgbEzeiyAlL) | [Maya Hawke](https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x) | [Luna Moth](https://open.spotify.com/album/6CVNKZmRRunfdXutT9TTw8) | 3:24 | 2022-09-23 | 2024-10-04 |
+| [Luna Moth](https://open.spotify.com/track/2UqdJ97NrOsUgbEzeiyAlL) | [Maya Hawke](https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x) | [Luna Moth](https://open.spotify.com/album/6CVNKZmRRunfdXutT9TTw8) | 3:24 | 2022-09-23 |  |
 | [Magical](https://open.spotify.com/track/20uknEOwx3PpiGL2Es2vCg) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Autumn Variations](https://open.spotify.com/album/5LXOgcszGvUkYzYL4v6wYg) | 3:14 | 2023-09-28 |  |
 | [Mansion](https://open.spotify.com/track/0dPrl278qhdSTxnIy4qsB3) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Anger](https://open.spotify.com/album/4inkmCqix6rQcYAvPta2ZR) | 3:31 | 2024-08-18 |  |
 | [Margaux](https://open.spotify.com/track/7r8gXkNiJJqv2Wb8i8sT1i) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Margaux](https://open.spotify.com/album/66qOyZqMF1BlrenvYYMoJk) | 2:26 | 2022-08-15 |  |

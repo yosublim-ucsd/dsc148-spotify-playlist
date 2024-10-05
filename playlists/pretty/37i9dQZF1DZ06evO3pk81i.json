@@ -1,12 +1,12 @@
 {
-  "description": "This Is Los Primos del Este. Los temas esenciales, todos en una lista.",
-  "num_followers": 6152,
+  "description": "This is Los Primos del Este. The essential tracks, all in one playlist.",
+  "num_followers": 6165,
   "original_name": "This Is Los Primos del Este",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvyNAAAAAABhIm91njiog87NnNxNTAjl",
+  "snapshot_id": "Zv3egAAAAAAbo466lmC7WnAStAn/q5BC",
   "tracks": [
     {
       "added_at": null,
@@ -443,6 +443,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Una Rosa Blanca",
+        "url": "https://open.spotify.com/album/6ZrH3aoxhVjBWZu0Cjj49o"
+      },
+      "artists": [
+        {
+          "name": "Los Primos del Este",
+          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+        }
+      ],
+      "duration_ms": 200615,
+      "name": "Una Rosa Blanca",
+      "url": "https://open.spotify.com/track/1HWfuahHaDu2JAmqhpNMB5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Me Ama Sin Temor",
         "url": "https://open.spotify.com/album/6hLommr7Wr5zxefGelqMT9"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 193874,
       "name": "SATIRO",
       "url": "https://open.spotify.com/track/00e7R21236OX75ACaT8HH0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Una Rosa Blanca",
-        "url": "https://open.spotify.com/album/6ZrH3aoxhVjBWZu0Cjj49o"
-      },
-      "artists": [
-        {
-          "name": "Los Primos del Este",
-          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
-        }
-      ],
-      "duration_ms": 200615,
-      "name": "Una Rosa Blanca",
-      "url": "https://open.spotify.com/track/1HWfuahHaDu2JAmqhpNMB5"
     },
     {
       "added_at": null,
@@ -511,6 +511,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Marc\u00e1ndote",
+        "url": "https://open.spotify.com/album/3ZxRpyYUN1tEAusn7aG3N1"
+      },
+      "artists": [
+        {
+          "name": "Los Primos del Este",
+          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+        }
+      ],
+      "duration_ms": 179066,
+      "name": "Marc\u00e1ndote",
+      "url": "https://open.spotify.com/track/0rtoh7bC7nW9clwmnCTeAe"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Me Ama Sin Temor",
         "url": "https://open.spotify.com/album/6hLommr7Wr5zxefGelqMT9"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 223874,
       "name": "Hoy",
       "url": "https://open.spotify.com/track/6aQgAhpCebGWOqrMdY2VhP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Marc\u00e1ndote",
-        "url": "https://open.spotify.com/album/3ZxRpyYUN1tEAusn7aG3N1"
-      },
-      "artists": [
-        {
-          "name": "Los Primos del Este",
-          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
-        }
-      ],
-      "duration_ms": 179066,
-      "name": "Marc\u00e1ndote",
-      "url": "https://open.spotify.com/track/0rtoh7bC7nW9clwmnCTeAe"
     },
     {
       "added_at": null,
@@ -583,6 +583,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fue Mi Culpa",
+        "url": "https://open.spotify.com/album/4ixj7UNFpQvZ4J0vRNlrI7"
+      },
+      "artists": [
+        {
+          "name": "Los Primos del Este",
+          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+        }
+      ],
+      "duration_ms": 212453,
+      "name": "Fue Mi Culpa",
+      "url": "https://open.spotify.com/track/3s9tXoVLXkea4zI3ly3OHV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Me Ama Sin Temor",
         "url": "https://open.spotify.com/album/6hLommr7Wr5zxefGelqMT9"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 218500,
       "name": "Sin Mi Sufre",
       "url": "https://open.spotify.com/track/3r9WCxHvUoyibVjLy3TJmL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fue Mi Culpa",
-        "url": "https://open.spotify.com/album/4ixj7UNFpQvZ4J0vRNlrI7"
-      },
-      "artists": [
-        {
-          "name": "Los Primos del Este",
-          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
-        }
-      ],
-      "duration_ms": 212453,
-      "name": "Fue Mi Culpa",
-      "url": "https://open.spotify.com/track/3s9tXoVLXkea4zI3ly3OHV"
     },
     {
       "added_at": null,
@@ -703,22 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "PDE",
-        "url": "https://open.spotify.com/album/1dyaVG9mr6sHveJI0RWaUT"
-      },
-      "artists": [
-        {
-          "name": "Los Primos del Este",
-          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
-        }
-      ],
-      "duration_ms": 176359,
-      "name": "Solita Bailando",
-      "url": "https://open.spotify.com/track/5heDv0socwkLa4lAiNar0H"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dile",
         "url": "https://open.spotify.com/album/4SyZjya75uUPpzfrKwS2XO"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 233250,
       "name": "Dile",
       "url": "https://open.spotify.com/track/21vFXhM6whAImWe4p8WwOp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PDE",
+        "url": "https://open.spotify.com/album/1dyaVG9mr6sHveJI0RWaUT"
+      },
+      "artists": [
+        {
+          "name": "Los Primos del Este",
+          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+        }
+      ],
+      "duration_ms": 176359,
+      "name": "Solita Bailando",
+      "url": "https://open.spotify.com/track/5heDv0socwkLa4lAiNar0H"
     },
     {
       "added_at": null,

@@ -231,6 +231,32 @@
     },
     {
       "album": {
+        "name": "Baahubali 2 - The Conclusion",
+        "url": "https://open.spotify.com/album/3R0kYCOKF48AP5Rvhtnhqs"
+      },
+      "artists": [
+        {
+          "name": "Daler Mehndi",
+          "url": "https://open.spotify.com/artist/6wa1AsxB9oJP7lwNSmbcYx"
+        },
+        {
+          "name": "Maragadhamani",
+          "url": "https://open.spotify.com/artist/1bRcW8SnU3AKrhzxnbdR64"
+        },
+        {
+          "name": "Mounima C.H.",
+          "url": "https://open.spotify.com/artist/5dmqGDhUAhpE8WGKqsxdAd"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204778,
+      "name": "Bale Bale Bale",
+      "url": "https://open.spotify.com/track/7nQjB2fBeA1vx7Q7CJylGX"
+    },
+    {
+      "album": {
         "name": "Anjaan (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6qIAKHcqa007lIbjxorQOv"
       },

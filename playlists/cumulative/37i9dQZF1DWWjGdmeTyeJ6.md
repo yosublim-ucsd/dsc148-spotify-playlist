@@ -4,7 +4,7 @@
 
 > The best new music by independent artists and labels\. Cover: Rowena Fysx, Artwork: Isu Kim
 
-7,136 songs - 16 day 3 hr 0 min
+7,137 songs - 16 day 3 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3164,6 +3164,7 @@
 | [Illusion](https://open.spotify.com/track/2du5P5ONNBbrn4vHiqV0dY) | [Ghita](https://open.spotify.com/artist/0oZLmVQhyT6zFb7EjpJRrR) | [Illusion](https://open.spotify.com/album/4z3b2ipdkf4WijSlYcI6Gv) | 2:38 | 2024-02-07 | 2024-02-29 |
 | [im gonna kill you \(feat\. Sahati\)](https://open.spotify.com/track/4jSctcEMRrrjbOo60pbfmj) | [CHEEYA](https://open.spotify.com/artist/6yFEAMfnclFaaurukvlVqu), [Sahati](https://open.spotify.com/artist/3PGzj3O66abGPzQNmKELCf) | [im gonna kill you \(feat\. Sahati\)](https://open.spotify.com/album/2Bom4X9Z5VZRH2tvWXRjx9) | 3:30 | 2023-04-05 | 2023-04-13 |
 | [im not important](https://open.spotify.com/track/4idQrHSD0CPe5jHrPcEHNb) | [Llunr](https://open.spotify.com/artist/1r2EC1UsQXwtqVN9valnT2) | [im not important](https://open.spotify.com/album/2ZwUbHoAJeIer3MOACR5uJ) | 2:05 | 2022-03-09 | 2022-03-17 |
+| [im not really spiritual!](https://open.spotify.com/track/4uaod62fHdeQD7JbfIk6ML) | [Chow Lee](https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL), [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U) | [SEX DRIVE](https://open.spotify.com/album/5cAEY0anGcXg5bneAMAKXh) | 2:44 | 2024-10-04 |  |
 | [Imaginary Friend](https://open.spotify.com/track/67nyi3arxNLGjvw2l9ejkS) | [Fake Dad](https://open.spotify.com/artist/1PdmgC2URr5bdLpcS5YBdk) | [Imaginary Friend](https://open.spotify.com/album/46OBXgzAaHMuzZhFKXSRhk) | 3:04 | 2023-06-14 | 2023-06-29 |
 | [IMAGINATION](https://open.spotify.com/track/7ebNx4kBG9gRMgQXuLs5HS) | [Davide Silva](https://open.spotify.com/artist/3yaLdSXPSOi6FvjtCSNpbW), [PELLY](https://open.spotify.com/artist/5BzowgdrpKOXEqLm92pfrk), [Sooph](https://open.spotify.com/artist/3qB8TudtZnMF1P6GuJUmNp) | [IMAGINATION](https://open.spotify.com/album/4rnxa5NqiFO8zJdu8yidMg) | 5:37 | 2022-06-08 | 2022-06-16 |
 | [Imagine How God Feels](https://open.spotify.com/track/2gVr9AbbxPungXGmtfAUX8) | [Hannah Flora](https://open.spotify.com/artist/04HrT1syJLhvjzSRTY2lcH) | [Imagine How God Feels](https://open.spotify.com/album/1065II0ZOAnlaxVJjOauxL) | 4:07 | 2023-04-12 | 2023-04-27 |

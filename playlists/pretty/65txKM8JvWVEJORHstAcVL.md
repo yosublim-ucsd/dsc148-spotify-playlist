@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/65txKM8JvWVEJORHstAcVL.md) - [plain]
 
 > La Llista amb els 45 èxits de Flaixbac\. Actualitzada cada diumenge de 17 h a 21 h amb en Jordi Cuadras\. Vota el pròxim número 1 de La Llista a la nostra web: https:&\#x2F;&\#x2F;flaixbac.cat&\#x2F;la\-llista
 
-[flaixbacoficial](https://open.spotify.com/user/flaixbacoficial) - 29,075 likes - 45 songs - 2 hr 15 min
+[flaixbacoficial](https://open.spotify.com/user/flaixbacoficial) - 29,077 likes - 45 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/65txKM8JvWVEJORHstAcVL.md) - [plain]
 | 17 | [I Don't Wanna Wait](https://open.spotify.com/track/331l3xABO0HMr1Kkyh2LZq) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [I Don't Wanna Wait](https://open.spotify.com/album/0wCLHkBRKcndhMQQpeo8Ji) | 2:29 |
 | 18 | [Barcelona](https://open.spotify.com/track/2GE3k8I0Sbh0puCjI15KGy) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Ina Wroldsen](https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3) | [Barcelona](https://open.spotify.com/album/34yBJhr8zlBAHMEMSwrISN) | 3:25 |
 | 19 | [Que Chévere](https://open.spotify.com/track/6rfxWe3VOvqDoZfUiKuVTP) | [Mama Dousha](https://open.spotify.com/artist/4jT1Pg2Ji7Zr2XnxrH1fsN), [Scotty DK](https://open.spotify.com/artist/0gOjPKtrlU8B7w11OkbYdo), [Dj Panko](https://open.spotify.com/artist/3aBY9bY6YpfQP5laY923lF) | [Que Chévere](https://open.spotify.com/album/4jmI5Ofn3t2s4LEfX9J3kz) | 2:13 |
-| 20 | [WE PRAY](https://open.spotify.com/track/4ePie7AbHKyKdQtCte6SYC) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [WE PRAY \(TINI Version\)](https://open.spotify.com/album/7JTrcbIR88dkMfNvdxcZBO) | 3:53 |
+| 20 | [WE PRAY \- Single Version](https://open.spotify.com/track/4ePie7AbHKyKdQtCte6SYC) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [WE PRAY \(TINI Version\)](https://open.spotify.com/album/7JTrcbIR88dkMfNvdxcZBO) | 3:53 |
 | 21 | [Octubre del 24](https://open.spotify.com/track/5ZpJgKS6rTMoP78WMlsUFg) | [Joan Dausà](https://open.spotify.com/artist/1GRFao1QTh0i5Wx5Ms0A3I), [Paula Koops](https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0) | [Octubre del 24](https://open.spotify.com/album/3qEuV0K77UIdIbtojbrvlK) | 3:10 |
 | 22 | [The Sound of Silence \- CYRIL Remix](https://open.spotify.com/track/1LY3GhF0zxIVgbYEQjCbUO) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa), [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom) | [The Sound of Silence \(CYRIL Remix\)](https://open.spotify.com/album/4AaJMesGEVwF7QpWMSG29p) | 3:05 |
 | 23 | [Good Luck, Babe!](https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Good Luck, Babe!](https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q) | 3:38 |

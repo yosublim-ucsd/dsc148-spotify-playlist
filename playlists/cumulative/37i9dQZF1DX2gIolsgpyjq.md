@@ -4,7 +4,7 @@
 
 > The best new music by independent artists in the Nordics\. Cover: GUZO
 
-577 songs - 1 day 6 hr 22 min
+577 songs - 1 day 6 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,7 +164,7 @@
 | [Exhale](https://open.spotify.com/track/4nhwDQKDuKfMyfKAihTN5W) | [haugust](https://open.spotify.com/artist/07KhVOf8HbWRfk3rkiyUqT) | [Anger Management](https://open.spotify.com/album/399ke7Bcdg609a5s6ETPu6) | 2:57 | 2024-02-08 | 2024-03-22 |
 | [Expired](https://open.spotify.com/track/4quQsfygttrbZIW3FyV2h7) | [Harrison First](https://open.spotify.com/artist/0lcIRzEVZTKyNiEct4UKTo), [Rue Melo](https://open.spotify.com/artist/7mXgLOfqbhy5Y2HKHhsGxc) | [Expired](https://open.spotify.com/album/3GPXrI6jUD2ttVDBtoT0pN) | 2:25 | 2024-08-29 |  |
 | [Eyelids](https://open.spotify.com/track/4gsrsoIaVOWcjg14pYoF8L) | [Kindsight](https://open.spotify.com/artist/69INXmdJGXIPAZQuThqRjw) | [Eyelids](https://open.spotify.com/album/12PtVO5W5etL49DnxEPddj) | 3:59 | 2024-04-04 | 2024-04-12 |
-| [Faded](https://open.spotify.com/track/5WwqEFvtbBur7SQMzVDx2n) | [AV AV AV](https://open.spotify.com/artist/0ElSSC4jDQ7mGvDZoAIafM) | [Faded](https://open.spotify.com/album/3ejmd075cFfLxw24XVAJoT) | 3:42 | 2024-10-03 |  |
+| [Faded](https://open.spotify.com/track/5WwqEFvtbBur7SQMzVDx2n) | [AV AV AV](https://open.spotify.com/artist/0ElSSC4jDQ7mGvDZoAIafM) | [Faded](https://open.spotify.com/album/3ejmd075cFfLxw24XVAJoT) | 2:30 | 2024-10-03 |  |
 | [Fantasy World](https://open.spotify.com/track/5x3zU8vOwZ7aXdmvyRxfSC) | [FLAVA](https://open.spotify.com/artist/0iFemN19xhxGX63QjJfQEg) | [Fantasy World](https://open.spotify.com/album/35BvVx35qDzoZ4FcwPu8s2) | 3:46 | 2024-03-21 | 2024-04-05 |
 | [Faster](https://open.spotify.com/track/32wWoepx8MRN4zf2rzIZEK) | [HUMS](https://open.spotify.com/artist/5QjAqXjrOtaLmrUuT2U1CE) | [Faster](https://open.spotify.com/album/2GF8ON7y9f8dhs3aGGVHNY) | 3:21 | 2024-02-15 | 2024-03-22 |
 | [Favourite](https://open.spotify.com/track/0hTum5GVwn7NSegzA4G9Mj) | [Nora Toure](https://open.spotify.com/artist/3Mo1ZXmpbD9cckUQTtXiBS), [Ngb Muni](https://open.spotify.com/artist/7CMDKouH1YHU3pJacnDrzm) | [NORA](https://open.spotify.com/album/6URjNnmKYaDCAcHOvJ0UCb) | 3:28 | 2024-07-25 | 2024-09-06 |
@@ -377,7 +377,7 @@
 | [On My Mind](https://open.spotify.com/track/0VxawdFFzxm7usnnOEKfpd) | [Jörgen](https://open.spotify.com/artist/73Wx53eXdgFpipAJJ5PJPo) | [On My Mind](https://open.spotify.com/album/1fxihx6FJNn3bnYdGmCTOi) | 3:13 | 2024-05-09 | 2024-06-14 |
 | [On My Own](https://open.spotify.com/track/6muKIQgJPJRk5D9p07MHp5) | [V\. Christie](https://open.spotify.com/artist/63sAE1NYTAlj2Oi77mMDmm) | [On My Own](https://open.spotify.com/album/0NQddsB7zwntWpH9RVvYPt) | 3:26 | 2024-05-02 | 2024-06-28 |
 | [Once in a lifetime](https://open.spotify.com/track/4ww7J3d3qKyvqvxcNKCNJx) | [Gordon Lake](https://open.spotify.com/artist/1iynFnCCNv7tPoERuH9Tfc) | [Once in a lifetime](https://open.spotify.com/album/1lWBc5Ye5vRF7dF5LL9K22) | 1:39 | 2024-03-28 | 2024-04-12 |
-| [One By One \(with Kooldrink\)](https://open.spotify.com/track/5Szjjv92FYRgLXwlhD28Dl) | [DAYYANI](https://open.spotify.com/artist/2mSRaqgZqtWItVBIoyjE0g), [Kooldrink](https://open.spotify.com/artist/1XQiB7Gp309l4aHhzgGIlY) | [One By One](https://open.spotify.com/album/5DQIle1gEaxQRidaUA7RHw) | 3:33 | 2024-10-03 |  |
+| [One By One \(with Kooldrink\)](https://open.spotify.com/track/5Szjjv92FYRgLXwlhD28Dl) | [DAYYANI](https://open.spotify.com/artist/2mSRaqgZqtWItVBIoyjE0g), [Kooldrink](https://open.spotify.com/artist/1XQiB7Gp309l4aHhzgGIlY) | [One By One \(with Kooldrink\)](https://open.spotify.com/album/5DQIle1gEaxQRidaUA7RHw) | 3:33 | 2024-10-03 |  |
 | [one good reason](https://open.spotify.com/track/28m6u1EywxomZiKMGhfL9x) | [Howlan](https://open.spotify.com/artist/0ZmunMZUP2AH3nPuoNRILY) | [one good reason](https://open.spotify.com/album/6i5est68crDfNVDSAw7nZs) | 3:10 | 2024-06-20 | 2024-08-16 |
 | [ONE TO LEAVE YOU](https://open.spotify.com/track/6yUktaDZMn3YG4fseyIwLE) | [J\. Ludvig III](https://open.spotify.com/artist/1PcRkI1gwX2uUYQcuTIjUr) | [ONE TO LEAVE YOU](https://open.spotify.com/album/0jtO348y2sbYcnJNcjjHPA) | 2:50 | 2024-02-29 | 2024-04-05 |
 | [Only Love](https://open.spotify.com/track/5lzoAofjjMVqeB3CLEzah4) | [OLING](https://open.spotify.com/artist/2saqEnwA5wcTmHPpvVM1cv) | [Only Love](https://open.spotify.com/album/1asQljRHSidWiazVxe3Bud) | 3:35 | 2024-06-13 | 2024-09-27 |

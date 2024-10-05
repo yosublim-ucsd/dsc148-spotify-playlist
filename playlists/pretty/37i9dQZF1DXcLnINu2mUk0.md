@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: Richie Campbell
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,339 likes - 75 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,353 likes - 75 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 57 | [Dona do Love](https://open.spotify.com/track/0yJDSlfiupPOhmBFFZaWrQ) | [MENDEZ](https://open.spotify.com/artist/7LDFDwC3WaP3aD9KSIblvb), [Soarito](https://open.spotify.com/artist/4Gbn1gCF4FzZ08ST13lesv), [MOBBERS](https://open.spotify.com/artist/0o2CVefufFC0laiAQozokD) | [Dona do Love](https://open.spotify.com/album/5n6ndgfRieqDfbQ6vJhI7U) | 3:27 |
 | 58 | [That's Me](https://open.spotify.com/track/1ktNayJwoiwQoWq7ffKMJf) | [mishlawi](https://open.spotify.com/artist/27zRRhF2K0ai7JQxgAOZMF), [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [That's Me](https://open.spotify.com/album/3Pv2DAxh8Fql8dPafV4I7u) | 3:23 |
 | 59 | [Povo](https://open.spotify.com/track/1QuMSpSKb8TddULszTHRDH) | [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Festival da Canção 2023](https://open.spotify.com/album/57v1ACsenMa34vYqhuLl0d) | 2:54 |
-| 60 | [longe.com](https://open.spotify.com/track/5tuN13MrEiNOGFW9cvhhzv) | [pikika](https://open.spotify.com/artist/2l9cXS6ljQtg4wOGYR94WN) | [longe.com](https://open.spotify.com/album/6egKDfB8eutMUNy9pyxbbA) | 3:17 |
-| 61 | [À Tua Porta](https://open.spotify.com/track/5gWEoHkpYex8mi50RCZ3ll) | [Van Zee](https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS), [Carolina Deslandes](https://open.spotify.com/artist/6xolQjWFT24ykWke55u9fU) | [À Tua Porta](https://open.spotify.com/album/7gYGEPMjrZIad5Lk6mous8) | 3:31 |
+| 60 | [À Tua Porta](https://open.spotify.com/track/5gWEoHkpYex8mi50RCZ3ll) | [Van Zee](https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS), [Carolina Deslandes](https://open.spotify.com/artist/6xolQjWFT24ykWke55u9fU) | [À Tua Porta](https://open.spotify.com/album/7gYGEPMjrZIad5Lk6mous8) | 3:31 |
+| 61 | [longe.com](https://open.spotify.com/track/5tuN13MrEiNOGFW9cvhhzv) | [pikika](https://open.spotify.com/artist/2l9cXS6ljQtg4wOGYR94WN) | [longe.com](https://open.spotify.com/album/6egKDfB8eutMUNy9pyxbbA) | 3:17 |
 | 62 | [Ojé Ojé](https://open.spotify.com/track/1QBJJ3EFiE933KnPuNa9PG) | [Supa Squad](https://open.spotify.com/artist/4kMEocHCIwaO4u4J01U8Dw) | [Ojé Ojé](https://open.spotify.com/album/1QbfyEPfk1NXG8VeobR64P) | 2:52 |
 | 63 | [Agradeço](https://open.spotify.com/track/5GXJgx3zcR3m3ihcqbFBLv) | [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G), [PL Quest](https://open.spotify.com/artist/6J6U2JAv7LUF0cSQ98gpjM), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt) | [ORDEM & PROGRESSO](https://open.spotify.com/album/3zKhMzs8Hw9XQJVYovzcW1) | 3:29 |
 | 64 | [GUUD](https://open.spotify.com/track/2Ug7Rcy1Cd9Z0y4RqGgPNk) | [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [GUUD](https://open.spotify.com/album/0sLx2K52GRknvH8AwYBsDI) | 2:48 |
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 67 | [SINAIS](https://open.spotify.com/track/509CUFQtHu6p5PULNw6D5t) | [MUN](https://open.spotify.com/artist/0XWmIDUMxka9p2aayQ9MOr), [Catarina Filipe](https://open.spotify.com/artist/4OhowqCgfvzq9Fc2qcSbc8), [Cunha Beats](https://open.spotify.com/artist/7D094QVmbEkI7e2df0VUq7) | [SINAIS](https://open.spotify.com/album/5loNhqIOFE1wsdKVF8Yd6K) | 3:26 |
 | 68 | [Lugar Favorito](https://open.spotify.com/track/52gj1McTFcNmZRlIq3EpO3) | [Aragão](https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4) | [Lugar Favorito](https://open.spotify.com/album/0mTmzf6wbxNPsRbDNOotHU) | 3:17 |
 | 69 | [Fica Pra Depois](https://open.spotify.com/track/3W8iBFxQEgAnWYXjx8hrzI) | [Yang](https://open.spotify.com/artist/1v0CIz79JpKd2QJgQ3Gxci) | [Fica Pra Depois](https://open.spotify.com/album/67vj2sSj58MBegTAI4DZog) | 3:33 |
-| 70 | [Slow Motion](https://open.spotify.com/track/5LnYHgSZjEJxNvooOXv643) | [Kel\-P](https://open.spotify.com/artist/4j2hypl84JFGRz00du5JT8), [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS) | [Bully Season Vol.2 : Pretty Girls Love Afrobeats](https://open.spotify.com/album/4W7ver0Okhl78vyo1emv2c) | 2:42 |
-| 71 | [Accelerate](https://open.spotify.com/track/6F037kDQvzNndsorXVKT8h) | [Florito](https://open.spotify.com/artist/6ktGTLhw33T6F08my0ZRQH) | [Accelerate](https://open.spotify.com/album/5VAYpc1ZX3S3ZDfQguDqNm) | 2:59 |
+| 70 | [Accelerate](https://open.spotify.com/track/6F037kDQvzNndsorXVKT8h) | [Florito](https://open.spotify.com/artist/6ktGTLhw33T6F08my0ZRQH) | [Accelerate](https://open.spotify.com/album/5VAYpc1ZX3S3ZDfQguDqNm) | 2:59 |
+| 71 | [Slow Motion](https://open.spotify.com/track/5LnYHgSZjEJxNvooOXv643) | [Kel\-P](https://open.spotify.com/artist/4j2hypl84JFGRz00du5JT8), [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS) | [Bully Season Vol.2 : Pretty Girls Love Afrobeats](https://open.spotify.com/album/4W7ver0Okhl78vyo1emv2c) | 2:42 |
 | 72 | [Convite](https://open.spotify.com/track/3MLsf0fu4JmIywg73Bs2ej) | [CADU](https://open.spotify.com/artist/632Kw78b8XGotuWxpKV2A3) | [Par Perfeito](https://open.spotify.com/album/6TjeNnMWpVYxdNwxOndcLP) | 2:33 |
 | 73 | [Anos 90](https://open.spotify.com/track/0snvFcmwl5kXUTj5PsEbJl) | [Palazzi](https://open.spotify.com/artist/4jTBGfN0o7LuueW6vtVAK8), [João Maia Ferreira](https://open.spotify.com/artist/2XWfm5Ts8pvNzZMENVZ65I) | [Anos 90](https://open.spotify.com/album/3Wh3pWc5yYWpy5JerOiP8T) | 2:58 |
 | 74 | [Partimento](https://open.spotify.com/track/2YEA1CW7n1Aa60AU2Vp9gM) | [Supa Squad](https://open.spotify.com/artist/4kMEocHCIwaO4u4J01U8Dw) | [Partimento](https://open.spotify.com/album/4BpbosuLKEhM0UTvKHcAF7) | 1:53 |

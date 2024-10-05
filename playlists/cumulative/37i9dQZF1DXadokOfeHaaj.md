@@ -2,7 +2,7 @@
 
 ### [Indie Dancefloor](https://open.spotify.com/playlist/37i9dQZF1DXadokOfeHaaj)
 
-> The best new indie dance music\. Cover: Anthony Szmierek
+> The best new indie dance music\. Cover: Antony Szmierek
 
 231 songs - 14 hr 49 min
 

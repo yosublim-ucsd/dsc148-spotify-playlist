@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Najlepsi i najlepiej rockuj\u0105cy na polskiej scenie. Cover: Kazik & Kwartet ProForma",
+  "description": "Najlepsi i najlepiej rockuj\u0105cy na polskiej scenie. Cover: Terrific Sunday",
   "name": "Tylko Polski Rock",
   "tracks": [
     {
@@ -110,6 +110,24 @@
       "duration_ms": 156434,
       "name": "Amatorka",
       "url": "https://open.spotify.com/track/6WbWkJ2edOY6ACv72zx74Z"
+    },
+    {
+      "album": {
+        "name": "Wzloty Bez Upadk\u00f3w",
+        "url": "https://open.spotify.com/album/1q9xyeG3RgJtw20P31WbIr"
+      },
+      "artists": [
+        {
+          "name": "Terrific Sunday",
+          "url": "https://open.spotify.com/artist/5jponzXxXIzb5bA5mO9BX1"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181672,
+      "name": "Antylopy & Lwy",
+      "url": "https://open.spotify.com/track/3mZSN65mRWoGXDvF9O7X4H"
     },
     {
       "album": {
@@ -380,7 +398,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 255924,
       "name": "chcesz?",
       "url": "https://open.spotify.com/track/10FYf8xCgiuxlLbnzjIctb"
@@ -402,7 +420,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 251586,
       "name": "Chodzili\u015bmy nocami",
       "url": "https://open.spotify.com/track/69uRisdCC3xO68sokXIo6U"
@@ -666,7 +684,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 178360,
       "name": "Dupa Jak Sofa",
       "url": "https://open.spotify.com/track/7kW76DuZKGLfKWVNGUifsu"
@@ -941,6 +959,24 @@
     },
     {
       "album": {
+        "name": "Hel",
+        "url": "https://open.spotify.com/album/51K0DsBaACJBNzIqz9fRnr"
+      },
+      "artists": [
+        {
+          "name": "Czechoslovakia",
+          "url": "https://open.spotify.com/artist/4fxdQaj7wSUA9Q81VPcsBt"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193966,
+      "name": "Hel",
+      "url": "https://open.spotify.com/track/4fK1k1T3LAJHnnxrUwcmlx"
+    },
+    {
+      "album": {
         "name": "Hide a Lie",
         "url": "https://open.spotify.com/album/0G1kJkQPPs7DAJovQ7xp20"
       },
@@ -1068,6 +1104,24 @@
       "duration_ms": 195542,
       "name": "Jak dobrze, \u017ce dzwonisz",
       "url": "https://open.spotify.com/track/2FBEsfIb8BScwzXgsA6X6A"
+    },
+    {
+      "album": {
+        "name": "GODOT",
+        "url": "https://open.spotify.com/album/6Mvi94l1NVIlwzSxusvDIw"
+      },
+      "artists": [
+        {
+          "name": "PTAKY",
+          "url": "https://open.spotify.com/artist/2QpScKOp6pEUeEg5NVkgHf"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227076,
+      "name": "Jaskinia",
+      "url": "https://open.spotify.com/track/1HyVlwXZ7LQLtodoivSuay"
     },
     {
       "album": {
@@ -1681,6 +1735,24 @@
     },
     {
       "album": {
+        "name": "na chwil\u0119",
+        "url": "https://open.spotify.com/album/4UJxSdeDu0pKqnLmCGx8iC"
+      },
+      "artists": [
+        {
+          "name": "daysdaysdays",
+          "url": "https://open.spotify.com/artist/2QLQnuxBwO6XzrUt0wcl9Z"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159233,
+      "name": "na chwil\u0119",
+      "url": "https://open.spotify.com/track/3Sh7RhmYa3lnF9gVC0Ql5m"
+    },
+    {
+      "album": {
         "name": "Na Dwa",
         "url": "https://open.spotify.com/album/7JOdCXQZDm9ii1RhBp8d3T"
       },
@@ -1990,7 +2062,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 359586,
       "name": "Niuan",
       "url": "https://open.spotify.com/track/54PpHphKDh8lkEoNdK7iQq"
@@ -2552,7 +2624,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 164652,
       "name": "Skinhead",
       "url": "https://open.spotify.com/track/7fixc5NMNIzWVbkoVzEak1"
@@ -2718,7 +2790,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 308666,
       "name": "Surv",
       "url": "https://open.spotify.com/track/23Vm7QsbkK8rYJMDslCwwB"
@@ -2946,6 +3018,32 @@
       "duration_ms": 221860,
       "name": "Twoja mi\u0142o\u015b\u0107",
       "url": "https://open.spotify.com/track/0bjUX2Fm71AMebqvRUZPZd"
+    },
+    {
+      "album": {
+        "name": "tylko \u0141EB (feat. Piotr Pro\u0144ko)",
+        "url": "https://open.spotify.com/album/79GKNdyAF5Lbkd4zRLgags"
+      },
+      "artists": [
+        {
+          "name": "kieras",
+          "url": "https://open.spotify.com/artist/6xwejcjlfQ9o20SQzt28Fu"
+        },
+        {
+          "name": "Wrotas",
+          "url": "https://open.spotify.com/artist/3547Ll8PWSHA5hbAH6Lz8L"
+        },
+        {
+          "name": "Piotr Pro\u0144ko",
+          "url": "https://open.spotify.com/artist/3v8cp9R5ddE0jJpgZ66IyI"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242324,
+      "name": "tylko \u0141EB (feat. Piotr Pro\u0144ko)",
+      "url": "https://open.spotify.com/track/3W0gU0VkGLTx0AFfUhl1IU"
     },
     {
       "album": {
@@ -3242,6 +3340,24 @@
       "duration_ms": 297162,
       "name": "Wyje\u017cd\u017cam",
       "url": "https://open.spotify.com/track/5jvbzpgNKvCKknJfy3RnGa"
+    },
+    {
+      "album": {
+        "name": "Wyrasta Nam",
+        "url": "https://open.spotify.com/album/7sZFD2UGH2WU4DpxzdGt99"
+      },
+      "artists": [
+        {
+          "name": "Uvaga",
+          "url": "https://open.spotify.com/artist/6tB29oOxXYmQJ3S9Mw1j78"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205714,
+      "name": "Wyrasta Nam",
+      "url": "https://open.spotify.com/track/1S6w2r7bqwMxQMV0240GU1"
     },
     {
       "album": {

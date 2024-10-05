@@ -173,6 +173,24 @@
     },
     {
       "album": {
+        "name": "All My Friends Are Hot",
+        "url": "https://open.spotify.com/album/73VTNr5Sfek6XuuudiVaM0"
+      },
+      "artists": [
+        {
+          "name": "Jackie Hollander",
+          "url": "https://open.spotify.com/artist/5ykY9Uweo3gl5VFpb6z6pQ"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179076,
+      "name": "All My Friends Are Hot",
+      "url": "https://open.spotify.com/track/2bRM3rvHhI9cb2TCnnZIAR"
+    },
+    {
+      "album": {
         "name": "Ameno Amapiano (You Wanna Bamba) [Todd Terry Remix]",
         "url": "https://open.spotify.com/album/1p8WJo98RIGtAVRIFrXFsh"
       },
@@ -413,6 +431,32 @@
     },
     {
       "album": {
+        "name": "MAW Lost Tapes 18",
+        "url": "https://open.spotify.com/album/66ut3hDN8xjTIaNaYyOMkJ"
+      },
+      "artists": [
+        {
+          "name": "Masters At Work",
+          "url": "https://open.spotify.com/artist/5Fkj0k7EPUhIsESSIEA9f1"
+        },
+        {
+          "name": "Louie Vega",
+          "url": "https://open.spotify.com/artist/5dncbrnveDMX9DgxcedeUg"
+        },
+        {
+          "name": "Kenny Dope",
+          "url": "https://open.spotify.com/artist/1TrfxjXu8quyDw05p2bacX"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 390466,
+      "name": "Blue Moon",
+      "url": "https://open.spotify.com/track/56YmqEQ6QB97pQEPodO3x3"
+    },
+    {
+      "album": {
         "name": "Body Moving",
         "url": "https://open.spotify.com/album/5EcypjAXyzxlrF5AKCNg9K"
       },
@@ -630,7 +674,7 @@
       ],
       "date_added": "2024-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 205429,
       "name": "Can't Stop",
       "url": "https://open.spotify.com/track/4lsHkNkJccz58VrEmA1o3q"
@@ -894,7 +938,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 222273,
       "name": "Cruel Intentions",
       "url": "https://open.spotify.com/track/6UF4Bj3prR1bNu8IW8zpzh"
@@ -942,7 +986,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 158095,
       "name": "Dance To The Music",
       "url": "https://open.spotify.com/track/0izF9lgQMFggcKXaia48Xa"
@@ -1136,7 +1180,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 135967,
       "name": "Don't Abuse It",
       "url": "https://open.spotify.com/track/5E9ulwLRaDx2tO9liULCuE"
@@ -1417,6 +1461,24 @@
     },
     {
       "album": {
+        "name": "Faith",
+        "url": "https://open.spotify.com/album/4APiHWAj158eSGMbeCLzdU"
+      },
+      "artists": [
+        {
+          "name": "Neon Hustler",
+          "url": "https://open.spotify.com/artist/6VoQWkKiaeGNzl4fYhf28y"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Faith - Edit",
+      "url": "https://open.spotify.com/track/1RlNss2pXUQmr7dSfiA6mJ"
+    },
+    {
+      "album": {
         "name": "Feel Good",
         "url": "https://open.spotify.com/album/6Asr9gAzTSVmwt5FyHjfzk"
       },
@@ -1512,10 +1574,36 @@
       ],
       "date_added": "2024-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 175081,
       "name": "Fly Like An Eagle - Oscar P Deep Edit",
       "url": "https://open.spotify.com/track/4u23Fxi5QkFhk0TVbNRCRG"
+    },
+    {
+      "album": {
+        "name": "For The Weekend",
+        "url": "https://open.spotify.com/album/7pyBFzdn9AmZilactoHqeX"
+      },
+      "artists": [
+        {
+          "name": "Ferreck Dawn",
+          "url": "https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8"
+        },
+        {
+          "name": "Maverick Sabre",
+          "url": "https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q"
+        },
+        {
+          "name": "New Machine",
+          "url": "https://open.spotify.com/artist/6wSxVh97cc5ZTSXvPgvv81"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169722,
+      "name": "For The Weekend",
+      "url": "https://open.spotify.com/track/3TIVP3c5tT1rlDjAmzSaqF"
     },
     {
       "album": {
@@ -1846,6 +1934,28 @@
       "duration_ms": 130692,
       "name": "He's Gonna Lie - Radio Edit",
       "url": "https://open.spotify.com/track/0rc2ZJSBMcrYs0Gu0WVNRq"
+    },
+    {
+      "album": {
+        "name": "Hear Me Out",
+        "url": "https://open.spotify.com/album/4BZWz0naU3NBtVZ83MWNdI"
+      },
+      "artists": [
+        {
+          "name": "CASSIMM",
+          "url": "https://open.spotify.com/artist/1dA7pt23MNLlDsLpABATtG"
+        },
+        {
+          "name": "Mahalia Fontaine",
+          "url": "https://open.spotify.com/artist/1asOp99xmKnDYookkkt3il"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160005,
+      "name": "Hear Me Out",
+      "url": "https://open.spotify.com/track/7dzAqPbgIqbBuSvz9j8wRH"
     },
     {
       "album": {
@@ -2925,6 +3035,32 @@
     },
     {
       "album": {
+        "name": "Kiss From A Rose",
+        "url": "https://open.spotify.com/album/7hWYQeuLz8pL88CqfFLroi"
+      },
+      "artists": [
+        {
+          "name": "Green Velvet",
+          "url": "https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2"
+        },
+        {
+          "name": "Marco Lys",
+          "url": "https://open.spotify.com/artist/5WiohqjMNs7MtChjoHE9D1"
+        },
+        {
+          "name": "Walter Phillips",
+          "url": "https://open.spotify.com/artist/59WleqeZMvAUVl6ROkjahJ"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155624,
+      "name": "Kiss From A Rose",
+      "url": "https://open.spotify.com/track/5LNFAjkC0DhgUfiQcKHrX4"
+    },
+    {
+      "album": {
         "name": "La Samba",
         "url": "https://open.spotify.com/album/2JurI8lOhpvZZQFwrNu4rH"
       },
@@ -2958,7 +3094,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 254765,
       "name": "Lake Shore Drive",
       "url": "https://open.spotify.com/track/03MYJLMSCxtxuiTInWaqXS"
@@ -3028,7 +3164,7 @@
       ],
       "date_added": "2024-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 492960,
       "name": "Le Plus Beau Cul Du Monde - Dj Sneak Remix",
       "url": "https://open.spotify.com/track/2t13CQMenyylrpueKDJK2d"
@@ -4058,7 +4194,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 173377,
       "name": "Real Love",
       "url": "https://open.spotify.com/track/4HrLjuPDoxwofY6azxdzb0"
@@ -4106,7 +4242,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 168750,
       "name": "Release Me",
       "url": "https://open.spotify.com/track/0dyNRRAiEnX98U4BlZkbfT"
@@ -4385,6 +4521,28 @@
     },
     {
       "album": {
+        "name": "She's In The Club (feat. Asal)",
+        "url": "https://open.spotify.com/album/2cCyfh2RY9xz21ixS9icZn"
+      },
+      "artists": [
+        {
+          "name": "MK",
+          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
+        },
+        {
+          "name": "Asal",
+          "url": "https://open.spotify.com/artist/2CPDwyokR2lgqu0yNGe2cU"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188011,
+      "name": "She's In The Club (feat. Asal)",
+      "url": "https://open.spotify.com/track/277aQ7uvOPlWmULkOdufco"
+    },
+    {
+      "album": {
         "name": "Show Me Some Love (feat. Sadie Walker)",
         "url": "https://open.spotify.com/album/2eWGZxSgyBoixLT4t76AXI"
       },
@@ -4408,6 +4566,32 @@
       "duration_ms": 232400,
       "name": "Show Me Some Love (feat. Sadie Walker)",
       "url": "https://open.spotify.com/track/4qUx0Q2kGLwjkweKThS3rj"
+    },
+    {
+      "album": {
+        "name": "Smiling Faces",
+        "url": "https://open.spotify.com/album/1R3smd9EqHg4pEYdrx9DCz"
+      },
+      "artists": [
+        {
+          "name": "Todd Terry",
+          "url": "https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu"
+        },
+        {
+          "name": "Alex Adair",
+          "url": "https://open.spotify.com/artist/1mrrvBvbrm28iYaPlJ9mG5"
+        },
+        {
+          "name": "Bottom Lip",
+          "url": "https://open.spotify.com/artist/1kGshKeUGUyFii95MRyIiJ"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156190,
+      "name": "Smiling Faces",
+      "url": "https://open.spotify.com/track/1LEnBEX4NgtmGcBJYjHNmb"
     },
     {
       "album": {
@@ -4557,6 +4741,24 @@
     },
     {
       "album": {
+        "name": "Sun Comes Up",
+        "url": "https://open.spotify.com/album/1AEvHdZiCZmUEqFZ9IVIAk"
+      },
+      "artists": [
+        {
+          "name": "Carl The Jackal",
+          "url": "https://open.spotify.com/artist/6KRuEtVuMERZAMFBh6vmVe"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188571,
+      "name": "Sun Comes Up - Edit",
+      "url": "https://open.spotify.com/track/2eIokiVCcbejbUrcRX5WQZ"
+    },
+    {
+      "album": {
         "name": "Sunday School",
         "url": "https://open.spotify.com/album/3ySVaJhq6NJhZ8Xk33RmCA"
       },
@@ -4696,6 +4898,24 @@
       "duration_ms": 171670,
       "name": "Take My Hand (feat. Josh Barry)",
       "url": "https://open.spotify.com/track/78zqqw3oLhwiifmbqHoBaN"
+    },
+    {
+      "album": {
+        "name": "Take That Groove",
+        "url": "https://open.spotify.com/album/2trhBnyY5pwB3NZvreRRWt"
+      },
+      "artists": [
+        {
+          "name": "Todd Terry",
+          "url": "https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186666,
+      "name": "Take That Groove",
+      "url": "https://open.spotify.com/track/7vYotNsMaq6LA5SMzFizL2"
     },
     {
       "album": {
@@ -5126,7 +5346,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 181992,
       "name": "This Is My Life",
       "url": "https://open.spotify.com/track/5oOUGZNKsx5LEE1FYyLcoB"
@@ -5192,7 +5412,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 158095,
       "name": "To The Sky - Edit",
       "url": "https://open.spotify.com/track/5GkdchB8RZ5yABpqIMZTLY"
@@ -5268,7 +5488,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 211200,
       "name": "Ubana",
       "url": "https://open.spotify.com/track/6vjGhyzSDwZROpDftP6uYV"
@@ -5364,7 +5584,7 @@
       ],
       "date_added": "2024-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 206893,
       "name": "Walk In My Shoes",
       "url": "https://open.spotify.com/track/5zjljSlsHEM9UydJ0b0xJZ"
@@ -5511,6 +5731,32 @@
     },
     {
       "album": {
+        "name": "Weekend Release",
+        "url": "https://open.spotify.com/album/7cs732dE0Paj8fGS4nxdxQ"
+      },
+      "artists": [
+        {
+          "name": "Janika Tenn",
+          "url": "https://open.spotify.com/artist/5JJ2mNTKFgulclDJxMIyOC"
+        },
+        {
+          "name": "Todd Terry",
+          "url": "https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu"
+        },
+        {
+          "name": "Tristan Henry",
+          "url": "https://open.spotify.com/artist/6UyRsPqWooGjDexC857b1T"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185957,
+      "name": "Weekend Release",
+      "url": "https://open.spotify.com/track/4nuSOZtY2jRO2hdiKW5ehL"
+    },
+    {
+      "album": {
         "name": "What",
         "url": "https://open.spotify.com/album/6nVoH09T4a1v5kNeOnE63C"
       },
@@ -5650,7 +5896,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 554515,
       "name": "Wishing",
       "url": "https://open.spotify.com/track/14K7iUaAUov4UGp1mQj42B"

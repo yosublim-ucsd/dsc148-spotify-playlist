@@ -2,12 +2,13 @@
 
 ### [RADAR Philippines](https://open.spotify.com/playlist/37i9dQZF1DWVp4cWdnm5ws)
 
-> Discover new artists on the horizon this 2024\. Cover: Cup of Joe
+> Discover new artists on the horizon this 2024\. Cover: dwta
 
-212 songs - 13 hr 2 min
+214 songs - 13 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| ['Di Naman](https://open.spotify.com/track/4Wmi7Sy5S9jjsw9rJ5t9Yk) | [dwta](https://open.spotify.com/artist/1UwnrHfh8Kd8Y8Ax8a3qWy) | ['Di Naman](https://open.spotify.com/album/3RhTarxAG6Gc5jQXESwlZq) | 4:25 | 2024-10-04 |  |
 | [3:33](https://open.spotify.com/track/55rICajyesqUiny8nmtioj) | [Lesha](https://open.spotify.com/artist/796yJgEbZmYnqJKvWNfeIi), [CARELESS](https://open.spotify.com/artist/6ZPADYpgSS0VwqZPJeX54p) | [3: 33](https://open.spotify.com/album/4cIP6UY95sLoJuMM6JQKdI) | 3:32 | 2022-04-21 | 2022-12-01 |
 | [3rd Eye](https://open.spotify.com/track/1Rmg6e9FO4C0RLtXpFtA4G) | [Lesha](https://open.spotify.com/artist/796yJgEbZmYnqJKvWNfeIi), [CARELESS](https://open.spotify.com/artist/6ZPADYpgSS0VwqZPJeX54p) | [3rd Eye](https://open.spotify.com/album/4AD7IVbMSuXMZWES5pZCKg) | 2:45 | 2022-09-01 | 2022-12-01 |
 | [5678](https://open.spotify.com/track/2hAoi72sQzqmRwj4eXRjeh) | [KAIA](https://open.spotify.com/artist/5UWPjwwieMFFohWLHe4Usy) | [5678](https://open.spotify.com/album/0UYm7AHI0WoaCDajD1Dwdt) | 2:51 | 2023-04-13 | 2024-04-03 |
@@ -63,6 +64,7 @@
 | [Fake Friends](https://open.spotify.com/track/1qFvMil1TioIjDWSwYMjaB) | [Alex Bruce](https://open.spotify.com/artist/65896yX3ZMa0af70HRYNVX) | [Fake Friends](https://open.spotify.com/album/2uWessfZbbv4YtDZMlwIVw) | 3:00 | 2021-11-25 | 2022-03-25 |
 | [Fake Love](https://open.spotify.com/track/1XR7JW85VGvDqbtcDBMuXf) | [of Mercury](https://open.spotify.com/artist/7b5ESQnv2E9bBUn4aa1ZUb) | [Fake Love](https://open.spotify.com/album/2O2yvHrN3CNNNaeUj7b8AG) | 3:34 | 2021-11-25 | 2022-03-25 |
 | [Fantasy](https://open.spotify.com/track/4rbF4dsT1wGGBfzYD5QvlY) | [dia maté](https://open.spotify.com/artist/4UcpNyDTbuLdGygQNjuXfd) | [Fantasy](https://open.spotify.com/album/1c6rZYnAwbqtP143pk75SL) | 3:41 | 2022-03-24 | 2023-04-14 |
+| [Favorite Song](https://open.spotify.com/track/6pb9teTllbc7fiDrj4FqjM) | [Jason Dhakal](https://open.spotify.com/artist/7Hb2cm4pIeCUKwfzutKyjp), [DENȲ](https://open.spotify.com/artist/23TaZ3Av1DTes3E8aO2QsZ) | [Favorite Song](https://open.spotify.com/album/7KZALqdD9hM0Fq5eeauP5r) | 3:17 | 2024-10-04 |  |
 | [Fools](https://open.spotify.com/track/6DrkG6Um9xknX1s1EEAiOt) | [of Mercury](https://open.spotify.com/artist/7b5ESQnv2E9bBUn4aa1ZUb) | [Fools](https://open.spotify.com/album/72KInjGAd2d3lnnUfq4kSH) | 4:58 | 2021-11-25 | 2022-03-25 |
 | [Gayuma](https://open.spotify.com/track/6afFPpTmuVBwZ8OpCSBSYe) | [Alamat](https://open.spotify.com/artist/5n85IrVFHhxKEa65tcXFgW) | [Pasulong](https://open.spotify.com/album/6AdDhvJCm1PxzwqYzS1uE2) | 4:12 | 2023-04-13 | 2024-04-03 |
 | [GET THIS BREAD PT\. I](https://open.spotify.com/track/7wNF4ciwy22SbgKGBTsFHY) | [Nobrvnd](https://open.spotify.com/artist/44ddWVfxC8kq46MqQgIoJf) | [GET THIS BREAD](https://open.spotify.com/album/0oCyTQxXS70olcur2hSe9R) | 3:33 | 2021-11-25 | 2022-03-25 |

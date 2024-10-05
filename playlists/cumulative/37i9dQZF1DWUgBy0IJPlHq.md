@@ -2,9 +2,9 @@
 
 ### [Indigo](https://open.spotify.com/playlist/37i9dQZF1DWUgBy0IJPlHq)
 
-> A new shade of Country\. Cover: MJ Lenderman
+> A new shade of Country\. Cover: Waxahatchee
 
-593 songs - 1 day 12 hr 15 min
+594 songs - 1 day 12 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -319,7 +319,7 @@
 | [Little Reminders](https://open.spotify.com/track/1t9t8EHLXIhSgp0ffBB8oQ) | [Caleb Caudle](https://open.spotify.com/artist/2FZLOlw11Ta6hcSK6a7FPU) | [Little Reminders](https://open.spotify.com/album/6jnwhFn1h5eQpgyb6HGeES) | 3:40 | 2022-04-29 | 2022-06-04 |
 | [Live Forever](https://open.spotify.com/track/4ofZpP3iFaQ1GRtxOPbySO) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3), [Lucinda Williams](https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP) | [Live Forever](https://open.spotify.com/album/61IyMbppx5SvsZO0i3FJnf) | 3:00 | 2022-08-19 | 2023-08-26 |
 | [Live Off](https://open.spotify.com/track/3967Uo1G05njseUUCnev2w) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Bell Bottom Country](https://open.spotify.com/album/06q6BDUpP6OS8Xnx3YC2M0) | 3:35 | 2023-11-10 | 2024-04-19 |
-| [Live Off](https://open.spotify.com/track/62NCBgd9im9741RNTVNahK) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Live Off](https://open.spotify.com/album/6H501XrhEEyC0ptAfiWO1C) | 3:35 | 2022-09-23 |  |
+| [Live Off](https://open.spotify.com/track/62NCBgd9im9741RNTVNahK) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Live Off](https://open.spotify.com/album/6H501XrhEEyC0ptAfiWO1C) | 3:35 | 2022-09-23 | 2024-10-05 |
 | [Live With Me](https://open.spotify.com/track/0XvNERkCNQXBfnlwYLOLma) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [Live With Me](https://open.spotify.com/album/4BE1HH4fHulpfVc2XGd4iL) | 3:23 | 2022-04-15 | 2022-06-04 |
 | [Long Game](https://open.spotify.com/track/0fE8J2qGiRxq2ybixfBygG) | [Emily Nenni](https://open.spotify.com/artist/63BuZ8jcRTEc8SLZdGlXQy) | [Long Game](https://open.spotify.com/album/0FbB9CA6nnPmFmz1Ka0zQy) | 3:00 | 2021-12-17 | 2022-03-05 |
 | [Long Journey Home](https://open.spotify.com/track/1LSTsFWHtku4E76HlIAOYm) | [Billy Strings](https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf) | [Long Journey Home / Life To Go](https://open.spotify.com/album/5d7E0CoRDHwdPE0i3JW53C) | 2:57 | 2022-10-07 | 2023-05-06 |
@@ -358,6 +358,7 @@
 | [Mountain Song](https://open.spotify.com/track/2mDdkeVuUsyIepwzLCxuu6) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav) | [Mountain Song](https://open.spotify.com/album/2LSEZyWtzulIr0vS1mD4Xy) | 4:09 | 2022-08-26 | 2023-11-18 |
 | [Movin'](https://open.spotify.com/track/5mwr49vu0RI3RJG8NLiJ1z) | [Colby Acuff](https://open.spotify.com/artist/2L9DVKDXY3W8uRl5TwLbMC) | [Western White Pines \(Deluxe\)](https://open.spotify.com/album/6FhBeqNsOEnj1RHGeVlgae) | 2:41 | 2023-09-22 | 2024-08-03 |
 | [Movin' On](https://open.spotify.com/track/5pVzFUkzm4MSTNwlvyaNbu) | [Jonathan Tyler](https://open.spotify.com/artist/5p6wXe8rGh3RBbhZlLj9qU) | [Movin' On](https://open.spotify.com/album/2udPmoj4l0rBZ6HlsxQpY6) | 3:47 | 2022-09-16 | 2023-04-22 |
+| [Much Ado About Nothing](https://open.spotify.com/track/1ptXvuSGFStaYw6eumiesq) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Much Ado About Nothing](https://open.spotify.com/album/4gHhAhd9V5f6GkZXQT8xRN) | 3:49 | 2024-10-04 |  |
 | [My Love Mine All Mine](https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 2:17 | 2023-09-29 |  |
 | [Neon Blue](https://open.spotify.com/track/20LTvIfOH5vjhXC1E7WFxk) | [Joshua Hedley](https://open.spotify.com/artist/6OJg4GNkAEtu0cfDVRbnjh) | [Neon Blue](https://open.spotify.com/album/7tGi2TSrjFhjJ6W6BbD1wQ) | 2:51 | 2022-02-04 | 2022-06-11 |
 | [Never Love You Again \(Feat\. Sierra Ferrell\)](https://open.spotify.com/track/1hpeLq6qX83kCsfh9C8RNI) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [F\-1 Trillion](https://open.spotify.com/album/3gHZ4w03gbuZtGTEwztrtw) | 3:06 | 2024-08-16 |  |
@@ -489,7 +490,7 @@
 | [Tear Drop](https://open.spotify.com/track/1AXUPeXgY7NM5XC8qvGaP1) | [Nolan Taylor](https://open.spotify.com/artist/3AvHLKVKOBsr66Jo67MTMo) | [Life & Love](https://open.spotify.com/album/6kHaj9UYr9j0WB3XgtvZkO) | 4:12 | 2023-11-17 | 2024-02-03 |
 | [Tear Us Apart \(From Twisters: The Album\)](https://open.spotify.com/track/56pp07JfYir7wnjKPwXLME) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Tear Us Apart \(From Twisters: The Album\)](https://open.spotify.com/album/7a7Ntqg1B2y1RKM4BvmZJI) | 2:45 | 2024-07-19 |  |
 | [Tehachapi](https://open.spotify.com/track/7MfjR1LV7kumgLcAfpCXN2) | [Margo Cilker](https://open.spotify.com/artist/5E9q1sbVJ2MCiI8MMdPvj7) | [Tehachapi](https://open.spotify.com/album/4XxGDVn3sIpcFmdw3tGyZ3) | 3:07 | 2021-12-17 | 2023-04-01 |
-| [Tequila or Whiskey](https://open.spotify.com/track/6O2a8YfuHdfXrdGUvgzjJc) | [Willow Avalon](https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR) | [Tequila or Whiskey](https://open.spotify.com/album/0XBrVw8ciKPQK2IIcLWexj) | 2:13 | 2024-06-28 |  |
+| [Tequila or Whiskey](https://open.spotify.com/track/6O2a8YfuHdfXrdGUvgzjJc) | [Willow Avalon](https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR) | [Tequila or Whiskey](https://open.spotify.com/album/0XBrVw8ciKPQK2IIcLWexj) | 2:13 | 2024-06-28 | 2024-10-05 |
 | [Terrifying Nature](https://open.spotify.com/track/4iMBmVAHtNuPm82ZE375GI) | [Jason Boland & The Stragglers](https://open.spotify.com/artist/1sX1MkGoDKuMzzhaALPFyZ) | [The Light Saw Me](https://open.spotify.com/album/2wbryQP9ji9Bfy1b91NcT1) | 4:57 | 2022-04-01 | 2022-04-29 |
 | [Texas](https://open.spotify.com/track/3XIfx3GzMzoEXUDF2vEbBZ) | [Jonathan Terrell](https://open.spotify.com/artist/2SQQDXpVix78q2nKkks3E3) | [Texas](https://open.spotify.com/album/57JqhOplFcXZLR8mZ7p3q5) | 3:42 | 2022-07-29 | 2022-09-17 |
 | [That's How Hearts Get Broken](https://open.spotify.com/track/5zNG6YomADdsWvvqzC2Z6R) | [Kree Harrison](https://open.spotify.com/artist/69EZtIpAexeay0SwCf5EKY) | [That's How Hearts Get Broken](https://open.spotify.com/album/0PxMhagfNNwzZFrCk9mwQN) | 3:41 | 2021-12-17 | 2022-02-05 |

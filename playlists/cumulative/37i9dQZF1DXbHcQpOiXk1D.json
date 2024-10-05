@@ -512,7 +512,7 @@
       ],
       "date_added": "2024-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 261733,
       "name": "Ajala - Single Edit",
       "url": "https://open.spotify.com/track/7vRQeQcvAuf35fgKMou99k"
@@ -6672,7 +6672,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 207857,
       "name": "Losing You",
       "url": "https://open.spotify.com/track/4umLhAXqcyQ2ZTcdsfipYG"
@@ -7721,6 +7721,24 @@
     },
     {
       "album": {
+        "name": "Dance, No One's Watching",
+        "url": "https://open.spotify.com/album/08jeayZieCHTosu0K5tzf9"
+      },
+      "artists": [
+        {
+          "name": "Ezra Collective",
+          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202360,
+      "name": "N29",
+      "url": "https://open.spotify.com/track/4MJjEf9wD9V0TwxKDYxLhP"
+    },
+    {
+      "album": {
         "name": "Never Doubt",
         "url": "https://open.spotify.com/album/7JBHfFH8n8HNHvwZTgMmr3"
       },
@@ -8310,6 +8328,28 @@
       "duration_ms": 240298,
       "name": "On The Fence",
       "url": "https://open.spotify.com/track/4NAEalETvuL5nT4cSpZWx3"
+    },
+    {
+      "album": {
+        "name": "ON THE MOVE",
+        "url": "https://open.spotify.com/album/5GbCUbN3cBFa1nPhCwuExU"
+      },
+      "artists": [
+        {
+          "name": "Close Counters",
+          "url": "https://open.spotify.com/artist/1b94FVTCNMq9gU78ByW6iY"
+        },
+        {
+          "name": "Tiana Khasi",
+          "url": "https://open.spotify.com/artist/6kM1b2Ze9w94VPfq4KhJF3"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222931,
+      "name": "ON THE MOVE",
+      "url": "https://open.spotify.com/track/6o5ZepiUT0EnHyJvnynnoU"
     },
     {
       "album": {

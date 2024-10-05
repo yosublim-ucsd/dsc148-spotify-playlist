@@ -4,7 +4,7 @@
 
 > Um bom sambinha para acompanhar cada gole.
 
-91 songs - 5 hr 18 min
+92 songs - 5 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Argumento](https://open.spotify.com/track/7Fpa5YcWRvaYfwNyGjnAqQ) | [Paulinho Da Viola](https://open.spotify.com/artist/0t2xdTxRXnffsmpMamH8Ls) | [Meus Momentos: Paulinho Da Viola](https://open.spotify.com/album/5DJ8Iu9nfpGykmggpCLsYu) | 3:14 | 2022-03-08 | 2023-08-05 |
 | [Argumento \- 2012 Remaster](https://open.spotify.com/track/6cB8s0RjeWV8HmrftZB3ua) | [Paulinho Da Viola](https://open.spotify.com/artist/0t2xdTxRXnffsmpMamH8Ls) | [Carnaval Samba](https://open.spotify.com/album/42TRJqMGcShiWlnhLR9IKm) | 3:16 | 2022-03-08 | 2022-11-14 |
 | [Asfalto Selvagem](https://open.spotify.com/track/3cCQPtsEBDGVhupAzHYx48) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Asfalto Selvagem](https://open.spotify.com/album/3l7cmXYZgUZz7DH3o1YtD8) | 2:55 | 2024-08-16 |  |
+| [Banho de Folhas](https://open.spotify.com/track/4rnsEw278G3pFjiMSzS4fG) | [Xande De Pilares](https://open.spotify.com/artist/4IQKOXNGjuRRe0WgOm5YfB) | [Banho de Folhas](https://open.spotify.com/album/0wLE1tEXT32qRgPidt3r5R) | 3:51 | 2024-10-04 |  |
 | [Bota Pra Tocar Tim Maia](https://open.spotify.com/track/60a5kYlSisLg8291QSfsh4) | [Diogo Nogueira](https://open.spotify.com/artist/57xRtfFlssbpntpRQOBodd) | [Bota Pra Tocar Tim Maia](https://open.spotify.com/album/2EAtqaRZeyW3V4U5FNOWzs) | 3:42 | 2022-03-08 |  |
 | [Boteco do Arlindo](https://open.spotify.com/track/0zRnv0rsYvYNdt9as7kHmm) | [João Nogueira](https://open.spotify.com/artist/5gcpKqNGPhEtKW5G1ZUZPK) | [Focus \- O Essencial de João Nogueira](https://open.spotify.com/album/1V4HN6xdGBhu4u6wB2pNsI) | 2:48 | 2022-03-08 |  |
 | [Cabide](https://open.spotify.com/track/6Uhnj8W9qflWLavYUfHkPJ) | [Mart'nália](https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX) | [Menino do Rio](https://open.spotify.com/album/48katkMd5Hkb14rUEgo0YO) | 2:33 | 2022-03-08 |  |
@@ -41,7 +42,7 @@
 | [Faz uma loucura por mim \- Recorded At Mosh Studios, São Paulo](https://open.spotify.com/track/7jYmFjZ8l40WFNVf9mhX9P) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Spotify Singles](https://open.spotify.com/album/12khkvFs0A8wiIYYmRIQgk) | 3:14 | 2022-03-08 | 2024-08-17 |
 | [Feijoada Completa](https://open.spotify.com/track/7MxVCTR3xD55xikxKiGCrv) | [Chico Buarque](https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t) | [Chico Buarque](https://open.spotify.com/album/4K3E5bhJb92E7eyeIJ16QR) | 2:51 | 2022-03-08 |  |
 | [Feitio de paixão \- Ao vivo](https://open.spotify.com/track/5ZAE7mG7SUcHAkorXb2poH) | [Jorge Aragão](https://open.spotify.com/artist/2cAooeeHKk2UvzUgIxpS0y) | [Ao vivo](https://open.spotify.com/album/3InSZxw9rH0JDmiEy9zxnA) | 4:49 | 2022-03-08 |  |
-| [Festa Da Vinda](https://open.spotify.com/track/5KfWGOC0Ql9ATrCVw3w3ky) | [Cartola](https://open.spotify.com/artist/0RSWHhBUwW7lhCqXqxKxWN) | [Cartola \(1974\)](https://open.spotify.com/album/0z2cTD6XcPLajQbL5EMisU) | 1:59 | 2022-03-08 |  |
+| [Festa Da Vinda](https://open.spotify.com/track/5KfWGOC0Ql9ATrCVw3w3ky) | [Cartola](https://open.spotify.com/artist/0RSWHhBUwW7lhCqXqxKxWN) | [Cartola \(1974\)](https://open.spotify.com/album/0z2cTD6XcPLajQbL5EMisU) | 1:59 | 2022-03-08 | 2024-10-05 |
 | [Festa Da Vinda](https://open.spotify.com/track/0bOGxsTpvqleMEuLQUGDUP) | [Cartola](https://open.spotify.com/artist/0RSWHhBUwW7lhCqXqxKxWN) | [Raizes Do Samba](https://open.spotify.com/album/0i9SwtLwZ8cOuH5qtkwTvT) | 2:01 | 2022-03-08 | 2023-01-26 |
 | [Foi Um Rio Que Passou Em Minha Vida](https://open.spotify.com/track/7mkvi46DO25BAkcD9OWrpz) | [Paulinho Da Viola](https://open.spotify.com/artist/0t2xdTxRXnffsmpMamH8Ls) | [Eu Sou O Samba](https://open.spotify.com/album/5F3t6SwYT1S8RITt8lvHd6) | 2:35 | 2022-03-08 |  |
 | [Gente](https://open.spotify.com/track/4N2qVdPVkeBX0d89WflVbc) | [Xande De Pilares](https://open.spotify.com/artist/4IQKOXNGjuRRe0WgOm5YfB) | [Xande Canta Caetano](https://open.spotify.com/album/7DG96zvwE2rauCCLwO1JWV) | 3:55 | 2023-08-04 |  |

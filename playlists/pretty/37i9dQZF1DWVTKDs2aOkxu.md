@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTKDs2aOkxu.md) - [plain]
 
 > The best indie music of the moment\. Good Neighbours release their debut EP.
 
-[Spotify](https://open.spotify.com/user/spotify) - 729,668 likes - 82 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 729,653 likes - 82 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

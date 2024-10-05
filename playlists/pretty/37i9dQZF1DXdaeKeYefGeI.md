@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdaeKeYefGeI.md) - [plain]
 
 > Wat kan het Nederlands toch mooi zijn\. Cover: Herman van Veen
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,020 likes - 70 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,049 likes - 70 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Door De Wind](https://open.spotify.com/track/58trym7xUwRuXnBY7hKqC9) | [Miss Montreal](https://open.spotify.com/artist/06eTdzI1FA6c2cPQAeVHY2) | [Beste Zangers Seizoen 2020 \(Miss Montreal\)](https://open.spotify.com/album/51TTjYKKpHX2zlaRejnpaS) | 2:50 |
-| 2 | [Liefde Van Later](https://open.spotify.com/track/06IedMIA8r8jSgWzGcW6o5) | [Herman van Veen](https://open.spotify.com/artist/5jWFYMXC1s1pj0u22ps4Sh) | [20 Jaar Herman Van Veen \- In Vogelvlucht](https://open.spotify.com/album/5YVe7mgjlq0FThqEIgo1ze) | 4:12 |
-| 3 | [Vaderdag \(deel 2\)](https://open.spotify.com/track/34ihQUWfBW2pI0fVruWhkF) | [Simon Keizer](https://open.spotify.com/artist/2dUSZq5IktJI18xdpIEjs2) | [Vaderdag \(deel 2\)](https://open.spotify.com/album/3SA3Wh7wmIS8K3xUtzVIUD) | 3:18 |
-| 4 | [Dat heb jij gedaan](https://open.spotify.com/track/4wn7cO2iHlWueXGDd4gH9g) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Dat heb jij gedaan](https://open.spotify.com/album/1MwiN9zv6V9GWHdVPsR4Q1) | 3:31 |
-| 5 | [Er Is Een Lied Geschreven](https://open.spotify.com/track/2haBhftcHLtjso0v2ZhTgy) | [Ernst Jansz](https://open.spotify.com/artist/4coHdOCwAsgKoy4WNp9p92) | [Er Is Een Lied Geschreven](https://open.spotify.com/album/1MsOrf7YjeIIFLfbUThuWf) | 3:07 |
+| 1 | [Er Is Een Lied Geschreven](https://open.spotify.com/track/2haBhftcHLtjso0v2ZhTgy) | [Ernst Jansz](https://open.spotify.com/artist/4coHdOCwAsgKoy4WNp9p92) | [Er Is Een Lied Geschreven](https://open.spotify.com/album/1MsOrf7YjeIIFLfbUThuWf) | 3:07 |
+| 2 | [Door De Wind](https://open.spotify.com/track/58trym7xUwRuXnBY7hKqC9) | [Miss Montreal](https://open.spotify.com/artist/06eTdzI1FA6c2cPQAeVHY2) | [Beste Zangers Seizoen 2020 \(Miss Montreal\)](https://open.spotify.com/album/51TTjYKKpHX2zlaRejnpaS) | 2:50 |
+| 3 | [Liefde Van Later](https://open.spotify.com/track/06IedMIA8r8jSgWzGcW6o5) | [Herman van Veen](https://open.spotify.com/artist/5jWFYMXC1s1pj0u22ps4Sh) | [20 Jaar Herman Van Veen \- In Vogelvlucht](https://open.spotify.com/album/5YVe7mgjlq0FThqEIgo1ze) | 4:12 |
+| 4 | [Vaderdag \(deel 2\)](https://open.spotify.com/track/34ihQUWfBW2pI0fVruWhkF) | [Simon Keizer](https://open.spotify.com/artist/2dUSZq5IktJI18xdpIEjs2) | [Vaderdag \(deel 2\)](https://open.spotify.com/album/3SA3Wh7wmIS8K3xUtzVIUD) | 3:18 |
+| 5 | [Dat heb jij gedaan](https://open.spotify.com/track/4wn7cO2iHlWueXGDd4gH9g) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Dat heb jij gedaan](https://open.spotify.com/album/1MwiN9zv6V9GWHdVPsR4Q1) | 3:31 |
 | 6 | [Het Geluid Van Stilte](https://open.spotify.com/track/4Gc4IS0KIKC64MYOZqkL9V) | [Boudewijn de Groot](https://open.spotify.com/artist/3h6rezLYXc5QU08SCKZtyO) | [Boudewijn De Groot](https://open.spotify.com/album/6RWqHflqY4Y5AFmSfvVOiG) | 2:59 |
 | 7 | [Lindeboom](https://open.spotify.com/track/3XEMH6bcN5yI3ALWRwyfcq) | [Brent Beukelaer](https://open.spotify.com/artist/1Ngq1CTE4lYGXg2OBWfhVg) | [Ramen Als Ogen](https://open.spotify.com/album/3aMPLrQQ4vk5VaQie7Pjmj) | 4:09 |
 | 8 | [Alle Tijd \- met strijkkwartet](https://open.spotify.com/track/4qMCB0CBcOx3iAVabVgDxm) | [Stephanie Struijk](https://open.spotify.com/artist/2D2KkoPYCe9SDUQwp6G8ff) | [Alle Tijd \(met strijkkwartet\)](https://open.spotify.com/album/598oGC430zLkUlXltaXLgq) | 3:12 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdaeKeYefGeI.md) - [plain]
 | 69 | [Geen Kind Meer](https://open.spotify.com/track/4ZMBna8ky5JR1gocyYCiML) | [Karin Bloemen](https://open.spotify.com/artist/7CKdAdmSeZxUgSZqugSkKx) | [Kameleon](https://open.spotify.com/album/7bEv36tsd3IBSvP4TJRDpA) | 4:23 |
 | 70 | [Kronenburg Park](https://open.spotify.com/track/5l0mUA4hwewx7cj8KzBGGE) | [Frank Boeijen Groep](https://open.spotify.com/artist/1HoWbJFK5RdH4OAtpoxbgR) | [Foto Van Een Mooie Dag](https://open.spotify.com/album/69JWMizDVll3nRlU7YIEEF) | 4:03 |
 
-Snapshot ID: `Zv8T4AAAAADXKC9VRmd2aIYPnzUn8Enw`
+Snapshot ID: `Zv+UMQAAAACYcVwW8cJsahRwOcBYfYV3`

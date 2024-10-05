@@ -2,29 +2,29 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZlwhy05h4Og.md) - [plain]
 
 ### [SUGAR](https://open.spotify.com/playlist/37i9dQZF1DWZlwhy05h4Og)
 
-> The sweetest bops\. Cover: LE SSERAFIM
+> The sweetest bops\. Cover: MEOVV
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,160 likes - 82 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,188 likes - 80 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [CRAZY](https://open.spotify.com/track/3AoEQRuFf8zVXWqSLo2UOi) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [CRAZY](https://open.spotify.com/album/538vEfAgLJ6g2I8ubuOlap) | 2:44 |
-| 2 | [Touch](https://open.spotify.com/track/6aJn7Cst74cj4lNIiPRgav) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Touch](https://open.spotify.com/album/1hjqg3TuQ2YqooaPhxHwdv) | 2:09 |
-| 3 | [Starry Night](https://open.spotify.com/track/0guoHdAofMWLQELiKSZfsf) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [Starry Night](https://open.spotify.com/album/78apBBu1uPlG87Da0InFhr) | 3:04 |
-| 4 | [MEOW](https://open.spotify.com/track/72gPDy1zVt95zVNali0IhK) | [MEOVV](https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv) | [MEOW](https://open.spotify.com/album/7mtt73Ch1hIRXT5qScF4s5) | 2:52 |
-| 5 | [Chasin' \(feat\. Meghan Trainor\)](https://open.spotify.com/track/4FtJXKZofhG9jt9reeahSg) | [Paris Hilton](https://open.spotify.com/artist/1vkJFCwstOoJO7yQ4lTtLK), [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Chasin' \(feat\. Meghan Trainor\)](https://open.spotify.com/album/5GzcpXxpQsBKJGPX2oDvvj) | 3:17 |
-| 6 | [SOMETHING AIN'T RIGHT](https://open.spotify.com/track/4xzrnTQ0CVRj6LBisVyTum) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [SOMETHING AIN'T RIGHT](https://open.spotify.com/album/1reE28qY4WnZLHJ6gTh5Rh) | 3:10 |
-| 7 | [Run Away](https://open.spotify.com/track/3iDGRv7rqwDYRlHoTaVE96) | [TZUYU](https://open.spotify.com/artist/1arCVYXeStgCY2UazBNBLK) | [abouTZU](https://open.spotify.com/album/13a0SjtqEvhGLv5J46vURm) | 3:18 |
-| 8 | [Sugar](https://open.spotify.com/track/6qHGucTO3ieXDbBXEv30TH) | [Pia Mia](https://open.spotify.com/artist/1BhWF9W2PngtPSyobKg0rP) | [Sugar](https://open.spotify.com/album/7asxGpNrTbB849BLWI5KDm) | 2:22 |
-| 9 | [Underground • アンダーグラウンド](https://open.spotify.com/track/2QzOxrOZeP95cy5fEKzfwQ) | [f5ve](https://open.spotify.com/artist/6aiCF0pornq0j11wvKG4dy) | [Underground • アンダーグラウンド](https://open.spotify.com/album/6qnk2D0xy1jzmfnyDd8pBe) | 2:21 |
-| 10 | [Summer so hot](https://open.spotify.com/track/3zNe3xToIc07PYAuQboqhq) | [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [Summer so hot](https://open.spotify.com/album/7GfvDon5u02GU3TbTOl1J1) | 2:46 |
-| 11 | [Apple](https://open.spotify.com/track/19RybK6XDbAVpcdxSbZL1o) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 2:31 |
-| 12 | [SUPERPOWER](https://open.spotify.com/track/3kfQuU6FXW4OXHIHjuups7) | [VALORANT](https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t), [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky), [Mark Tuan](https://open.spotify.com/artist/4l1q0z9xeJcJw73Gxc6gCB) | [SUPERPOWER](https://open.spotify.com/album/5uCFinoHAfvh3RM5UuBhZ6) | 3:02 |
-| 13 | [BOYS](https://open.spotify.com/track/1U0UUDLyBN8ENq3gjNJq6S) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [BOYS](https://open.spotify.com/album/3ar9EPv1ddMgvDnOCONH15) | 2:25 |
-| 14 | [FOREVER](https://open.spotify.com/track/47QP509sXnE54NwhzoMHAi) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [FOREVER](https://open.spotify.com/album/4MxSuIIvLMFtfL5pwa0cJh) | 3:32 |
-| 15 | [Lucky](https://open.spotify.com/track/7gdAgbYxtwwXsWsItU1apk) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Lucky](https://open.spotify.com/album/5roHm7qHxEBlV2xqbrbWjX) | 3:18 |
-| 16 | [DIVE](https://open.spotify.com/track/5vK3WrTOp6rEoASx1jAsp1) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [DIVE](https://open.spotify.com/album/0riep5s1F9ynpobjOSzbcr) | 3:01 |
-| 17 | [Can't Complain](https://open.spotify.com/track/1vDMeYgFqDeicy8OtIr9nB) | [Chase Behar](https://open.spotify.com/artist/28B346ru2FJIXLEW859YbG) | [Can't Complain](https://open.spotify.com/album/0nRdDiS1USIQgFr0fCLhQL) | 2:40 |
+| 1 | [MEOW](https://open.spotify.com/track/72gPDy1zVt95zVNali0IhK) | [MEOVV](https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv) | [MEOW](https://open.spotify.com/album/7mtt73Ch1hIRXT5qScF4s5) | 2:52 |
+| 2 | [Moonlit Floor](https://open.spotify.com/track/3yDRcs0Y4pPzkvMbUfeF9H) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Moonlit Floor](https://open.spotify.com/album/2F84s5tvr9RSS6VI772mVb) | 2:35 |
+| 3 | [CRAZY](https://open.spotify.com/track/3AoEQRuFf8zVXWqSLo2UOi) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [CRAZY](https://open.spotify.com/album/538vEfAgLJ6g2I8ubuOlap) | 2:44 |
+| 4 | [Touch](https://open.spotify.com/track/6aJn7Cst74cj4lNIiPRgav) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Touch](https://open.spotify.com/album/1hjqg3TuQ2YqooaPhxHwdv) | 2:09 |
+| 5 | [Starry Night](https://open.spotify.com/track/0guoHdAofMWLQELiKSZfsf) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [Starry Night](https://open.spotify.com/album/78apBBu1uPlG87Da0InFhr) | 3:04 |
+| 6 | [Chasin' \(feat\. Meghan Trainor\)](https://open.spotify.com/track/4FtJXKZofhG9jt9reeahSg) | [Paris Hilton](https://open.spotify.com/artist/1vkJFCwstOoJO7yQ4lTtLK), [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Chasin' \(feat\. Meghan Trainor\)](https://open.spotify.com/album/5GzcpXxpQsBKJGPX2oDvvj) | 3:17 |
+| 7 | [SOMETHING AIN'T RIGHT](https://open.spotify.com/track/4xzrnTQ0CVRj6LBisVyTum) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [SOMETHING AIN'T RIGHT](https://open.spotify.com/album/1reE28qY4WnZLHJ6gTh5Rh) | 3:10 |
+| 8 | [Run Away](https://open.spotify.com/track/3iDGRv7rqwDYRlHoTaVE96) | [TZUYU](https://open.spotify.com/artist/1arCVYXeStgCY2UazBNBLK) | [abouTZU](https://open.spotify.com/album/13a0SjtqEvhGLv5J46vURm) | 3:18 |
+| 9 | [Sugar](https://open.spotify.com/track/6qHGucTO3ieXDbBXEv30TH) | [Pia Mia](https://open.spotify.com/artist/1BhWF9W2PngtPSyobKg0rP) | [Sugar](https://open.spotify.com/album/7asxGpNrTbB849BLWI5KDm) | 2:22 |
+| 10 | [Underground • アンダーグラウンド](https://open.spotify.com/track/2QzOxrOZeP95cy5fEKzfwQ) | [f5ve](https://open.spotify.com/artist/6aiCF0pornq0j11wvKG4dy) | [Underground • アンダーグラウンド](https://open.spotify.com/album/6qnk2D0xy1jzmfnyDd8pBe) | 2:21 |
+| 11 | [Summer so hot](https://open.spotify.com/track/3zNe3xToIc07PYAuQboqhq) | [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [Summer so hot](https://open.spotify.com/album/7GfvDon5u02GU3TbTOl1J1) | 2:46 |
+| 12 | [Apple](https://open.spotify.com/track/19RybK6XDbAVpcdxSbZL1o) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 2:31 |
+| 13 | [SUPERPOWER](https://open.spotify.com/track/3kfQuU6FXW4OXHIHjuups7) | [VALORANT](https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t), [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky), [Mark Tuan](https://open.spotify.com/artist/4l1q0z9xeJcJw73Gxc6gCB) | [SUPERPOWER](https://open.spotify.com/album/5uCFinoHAfvh3RM5UuBhZ6) | 3:02 |
+| 14 | [BOYS](https://open.spotify.com/track/1U0UUDLyBN8ENq3gjNJq6S) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [BOYS](https://open.spotify.com/album/3ar9EPv1ddMgvDnOCONH15) | 2:25 |
+| 15 | [FOREVER](https://open.spotify.com/track/47QP509sXnE54NwhzoMHAi) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [FOREVER](https://open.spotify.com/album/4MxSuIIvLMFtfL5pwa0cJh) | 3:32 |
+| 16 | [Lucky](https://open.spotify.com/track/7gdAgbYxtwwXsWsItU1apk) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Lucky](https://open.spotify.com/album/5roHm7qHxEBlV2xqbrbWjX) | 3:18 |
+| 17 | [DIVE](https://open.spotify.com/track/5vK3WrTOp6rEoASx1jAsp1) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [DIVE](https://open.spotify.com/album/0riep5s1F9ynpobjOSzbcr) | 3:01 |
 | 18 | [Bloom](https://open.spotify.com/track/6VMWKUfMM8l0Toddh1Lqto) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I SWAY](https://open.spotify.com/album/5WzUVTkKAvOayPui3DnsDz) | 3:14 |
 | 19 | [Cherry On Top](https://open.spotify.com/track/6EpoDm2IoOkTfcPkNwhf07) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [Cherry On Top](https://open.spotify.com/album/3ZIjUhwlei1sT2yetvypvJ) | 2:55 |
 | 20 | [Espresso](https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Espresso](https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4) | 2:55 |
@@ -84,11 +84,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZlwhy05h4Og.md) - [plain]
 | 74 | [On The Ground](https://open.spotify.com/track/2pn8dNVSpYnAtlKFC8Q0DJ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [R](https://open.spotify.com/album/5BQcoDfcZ8aBcikYX9B7Ob) | 2:48 |
 | 75 | [SHOULD I BE OK?](https://open.spotify.com/track/5hjFHVGPvLLpVYObgG6TBB) | [Tiffany Day](https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu) | [THE GRATITUDE PROJECT](https://open.spotify.com/album/5GmVEGGzn9IgPMOySz1k8K) | 3:37 |
 | 76 | [PANDORA](https://open.spotify.com/track/70yszWsLJvNZuZwaHNMROf) | [MAVE:](https://open.spotify.com/artist/2ec7y2L98sHDYFylr7KqEx) | [PANDORA'S BOX](https://open.spotify.com/album/3uYJ8J1nYZB3sXjRNKWHGz) | 3:16 |
-| 77 | [Pretty Girl Era](https://open.spotify.com/track/3w6JB9UckmYZBn4Tsq2kpM) | [LU KALA](https://open.spotify.com/artist/5R1cUyk9ysrruOo4ErpGjg) | [Pretty Girl Era](https://open.spotify.com/album/6G32ymoo3YjIUKVMGIKJUY) | 2:35 |
-| 78 | [Break My Heart Myself \(feat\. YEJI & RYUJIN of ITZY\)](https://open.spotify.com/track/5Av4jZOAbtY8STz7KPsNDB) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3), [YEJI & RYUJIN of ITZY](https://open.spotify.com/artist/4TYswX6bKUjM9rbEL7CMBH) | [Break My Heart Myself \(feat\. YEJI & RYUJIN of ITZY\)](https://open.spotify.com/album/6nHECY2OnWXVmd4QjGhJEm) | 2:42 |
-| 79 | [Harleys In Hawaii](https://open.spotify.com/track/5nCthAh3jt4xKuLJAifAaR) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Harleys In Hawaii](https://open.spotify.com/album/30UjBkRwwBeCdspCGPBB8V) | 3:05 |
-| 80 | [Mad at Disney](https://open.spotify.com/track/7aGyRfJWtLqgJaZoG9lJhE) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [Mad at Disney](https://open.spotify.com/album/1xWYSg7J7pxTZ113CJVy1P) | 2:16 |
-| 81 | [Potential Breakup Song](https://open.spotify.com/track/6fyzsHCwnt8oL4XgGIMrdN) | [Aly & AJ](https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i) | [Potential Breakup Song](https://open.spotify.com/album/49mFTJkOKu0labagCQyURy) | 3:38 |
-| 82 | [Touch](https://open.spotify.com/track/1gG5MoWK5SmHUcQPa2jxdP) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Glory Days \(Expanded Edition\)](https://open.spotify.com/album/4w49hcqZt66HZX0MJHfW0m) | 3:33 |
+| 77 | [Break My Heart Myself \(feat\. YEJI & RYUJIN of ITZY\)](https://open.spotify.com/track/5Av4jZOAbtY8STz7KPsNDB) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3), [YEJI & RYUJIN of ITZY](https://open.spotify.com/artist/4TYswX6bKUjM9rbEL7CMBH) | [Break My Heart Myself \(feat\. YEJI & RYUJIN of ITZY\)](https://open.spotify.com/album/6nHECY2OnWXVmd4QjGhJEm) | 2:42 |
+| 78 | [Mad at Disney](https://open.spotify.com/track/7aGyRfJWtLqgJaZoG9lJhE) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [Mad at Disney](https://open.spotify.com/album/1xWYSg7J7pxTZ113CJVy1P) | 2:16 |
+| 79 | [Potential Breakup Song](https://open.spotify.com/track/6fyzsHCwnt8oL4XgGIMrdN) | [Aly & AJ](https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i) | [Potential Breakup Song](https://open.spotify.com/album/49mFTJkOKu0labagCQyURy) | 3:38 |
+| 80 | [Touch](https://open.spotify.com/track/1gG5MoWK5SmHUcQPa2jxdP) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Glory Days \(Expanded Edition\)](https://open.spotify.com/album/4w49hcqZt66HZX0MJHfW0m) | 3:33 |
 
-Snapshot ID: `Ztp+QAAAAADa/H+sslnXseA2QypfJ6FT`
+Snapshot ID: `Zv9uzwAAAACJAKRI+CZTgWHmE/8Rzu1W`

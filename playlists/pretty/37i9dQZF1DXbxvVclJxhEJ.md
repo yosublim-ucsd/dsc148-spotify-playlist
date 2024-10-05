@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbxvVclJxhEJ.md) - [plain]
 
 > Iconic women from the history of the Blues\. Cover: Bessie Smith
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,993 likes - 75 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,032 likes - 75 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbxvVclJxhEJ.md) - [plain]
 | 31 | [Early One Mornin’ Blues \- Live](https://open.spotify.com/track/0hWwUHWSJs0JAboIatACFX) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Early One Mornin’ Blues \(Live\)](https://open.spotify.com/album/5sQqi3Ce7MkX1h6gj2pVWz) | 4:14 |
 | 32 | [Keep A Song In Your Soul](https://open.spotify.com/track/0cS0A1fUEUd1EW3FcF8AEI) | [Mamie Smith](https://open.spotify.com/artist/2HS2wQTJXpA65XWOKlAVxk) | [Crazy Blues: The Best Of Mamie Smith](https://open.spotify.com/album/6os2Mv58OYnQClPf7B9E1s) | 2:48 |
 | 33 | [I Used to Be Your Sweet Mama](https://open.spotify.com/track/7EXLOCF4QW35UJrHeyEgIX) | [Bessie Smith](https://open.spotify.com/artist/5ESobCkc6JI4tIMxQttqeg) | [The Complete Recordings, Vol\. 3](https://open.spotify.com/album/7x1eFt9zjyqvhscJu8CcjY) | 2:48 |
-| 34 | [Billie's Blues \- Take 1](https://open.spotify.com/track/0ba6zT47oQ4ELmAxIN2YJ3) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [The Essential Billie Holiday](https://open.spotify.com/album/43CdmtAd6dQuMvBdHJ8F6x) | 2:37 |
-| 35 | [It's Tight Like That](https://open.spotify.com/track/5qBpfZS59XfbTnLtFDl3t4) | [Clara Smith](https://open.spotify.com/artist/2It5hXbGPFBNCCJQQr7iHH) | [I Ain't a Gamblin' Woman, I Got Such\-A Rowdy Ways](https://open.spotify.com/album/4kXm3wdVpJoxedVAknvV6D) | 3:15 |
+| 34 | [It's Tight Like That](https://open.spotify.com/track/5qBpfZS59XfbTnLtFDl3t4) | [Clara Smith](https://open.spotify.com/artist/2It5hXbGPFBNCCJQQr7iHH) | [I Ain't a Gamblin' Woman, I Got Such\-A Rowdy Ways](https://open.spotify.com/album/4kXm3wdVpJoxedVAknvV6D) | 3:15 |
+| 35 | [Billie's Blues \- Take 1](https://open.spotify.com/track/0ba6zT47oQ4ELmAxIN2YJ3) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [The Essential Billie Holiday](https://open.spotify.com/album/43CdmtAd6dQuMvBdHJ8F6x) | 2:37 |
 | 36 | [Back Water Blues](https://open.spotify.com/track/2ABW9AYFdHh1QTGYNVmurr) | [LaVern Baker](https://open.spotify.com/artist/0V6zo2mJw9FdwWLClKC9yw) | [Sings Bessie Smith](https://open.spotify.com/album/2Em2NnnKeKydoEMzlcSHr4) | 4:45 |
 | 37 | [B.D\. Woman's Blues](https://open.spotify.com/track/4xDfDNIn7RW19nZJQsTcp3) | [Lucille Bogan](https://open.spotify.com/artist/2cDKW2JF97WZ5ruG9Obfdf) | [Shave 'Em Dry: The Best Of Lucille Bogan](https://open.spotify.com/album/6lt3PCrLIoE3ozSlq9QuMw) | 2:57 |
 | 38 | [A Little Bird Told Me](https://open.spotify.com/track/3Glgih28u8fdw7cac5Kv2j) | [Blue Lu Barker](https://open.spotify.com/artist/3VkdiA1x4W2ISeJPWHswtQ) | [Capitol Records From The Vaults: "Vine Street Divas"](https://open.spotify.com/album/5zgbJkwtiJlKxBRkuRzIrw) | 2:14 |

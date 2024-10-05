@@ -2,7 +2,7 @@
 
 ### [Canadian '90s Hits](https://open.spotify.com/playlist/37i9dQZF1DX9NmM48Aqz3e)
 
-> Favourites from Canadians who dominated the 1990s\. Cover: Prozzak
+> Favourites from Canadians who dominated the 1990s\. Cover: Melanie C & Bryan Adams
 
 160 songs - 11 hr 12 min
 

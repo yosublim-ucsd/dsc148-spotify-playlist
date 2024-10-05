@@ -1,12 +1,12 @@
 {
-  "description": "This Is Grupo Firme. Los temas esenciales, todos en una lista.",
-  "num_followers": 998037,
+  "description": "This is Grupo Firme. The essential tracks, all in one playlist.",
+  "num_followers": 998240,
   "original_name": "This Is Grupo Firme",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvyNAAAAAABILCIsB9pYW7SOasDOOzbC",
+  "snapshot_id": "Zv3egAAAAADyWJn3MMNu6cjJXhh+qmnL",
   "tracks": [
     {
       "added_at": null,
@@ -67,26 +67,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Haciendo Lo M\u00edo",
-        "url": "https://open.spotify.com/album/4QZT8OKrozrzH5IIJGVZBx"
-      },
-      "artists": [
-        {
-          "name": "Luis Mexia",
-          "url": "https://open.spotify.com/artist/4IEP61D1hdCPQVzAYzP9VC"
-        },
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        }
-      ],
-      "duration_ms": 170053,
-      "name": "Calidad",
-      "url": "https://open.spotify.com/track/4rX1QSvkaQE2y5LJLVjFqG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El T\u00f3xico",
         "url": "https://open.spotify.com/album/2kYTqAuJhgYQ0p4694Ve8s"
       },
@@ -103,6 +83,26 @@
       "duration_ms": 179745,
       "name": "El T\u00f3xico",
       "url": "https://open.spotify.com/track/41QD8eEf8HLLpy20d8j2Kx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Haciendo Lo M\u00edo",
+        "url": "https://open.spotify.com/album/4QZT8OKrozrzH5IIJGVZBx"
+      },
+      "artists": [
+        {
+          "name": "Luis Mexia",
+          "url": "https://open.spotify.com/artist/4IEP61D1hdCPQVzAYzP9VC"
+        },
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "duration_ms": 170053,
+      "name": "Calidad",
+      "url": "https://open.spotify.com/track/4rX1QSvkaQE2y5LJLVjFqG"
     },
     {
       "added_at": null,
@@ -699,6 +699,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Vali\u00f3 La Pena Equivocarme (En Vivo)",
+        "url": "https://open.spotify.com/album/7adBn21cJiGl0qGhmFy12R"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "duration_ms": 241536,
+      "name": "Vali\u00f3 La Pena Equivocarme (En Vivo)",
+      "url": "https://open.spotify.com/track/6bANxR8naOx4pnq1795q31"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "DOMPERI",
         "url": "https://open.spotify.com/album/1M8UQoknR4Pp2PybeNErLM"
       },
@@ -719,26 +739,6 @@
       "duration_ms": 125747,
       "name": "DOMPERI",
       "url": "https://open.spotify.com/track/74ehWksBSyGTp7ytioyxf4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Vali\u00f3 La Pena Equivocarme (En Vivo)",
-        "url": "https://open.spotify.com/album/7adBn21cJiGl0qGhmFy12R"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
-          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
-        }
-      ],
-      "duration_ms": 241536,
-      "name": "Vali\u00f3 La Pena Equivocarme (En Vivo)",
-      "url": "https://open.spotify.com/track/6bANxR8naOx4pnq1795q31"
     },
     {
       "added_at": null,

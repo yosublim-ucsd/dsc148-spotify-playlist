@@ -2,9 +2,9 @@
 
 ### [Café montréalais](https://open.spotify.com/playlist/37i9dQZF1DXcgNXUHsZlwX)
 
-> De la douceur pour accompagner votre journée\. 🌷
+> De la douceur pour accompagner votre journée\. 🍂
 
-474 songs - 1 day 4 hr 19 min
+476 songs - 1 day 4 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -209,7 +209,7 @@
 | [La couleur du vent](https://open.spotify.com/track/6nfD0dsDhOePkShWpABOKh) | [Tire Le Coyote](https://open.spotify.com/artist/0IC1NWkemYHVzpF7gISLku) | [Au premier tour de l'évidence](https://open.spotify.com/album/5ZGmH9Byd2dddSLWZbHLL8) | 3:49 | 2022-02-11 | 2022-06-21 |
 | [La Fille qui Chante](https://open.spotify.com/track/6g3aFXb3tFJR3iSkiDS3ci) | [Rosier](https://open.spotify.com/artist/2mIqD0kh2TtNDYpB4weMe1) | [Légèrement](https://open.spotify.com/album/7mcl8oaboZdSJQKq7mFX7r) | 4:33 | 2021-01-30 | 2021-05-03 |
 | [La Fin du Monde](https://open.spotify.com/track/1yvOuYHUOrFWMk3k5dUjvi) | [Joseph Carré](https://open.spotify.com/artist/3UH656Ymcof34g5I9EVZ44) | [La Fin du Monde](https://open.spotify.com/album/1Mftp1y25xbwPnIVumAo6o) | 3:38 | 2023-06-30 | 2023-10-24 |
-| [La flamme](https://open.spotify.com/track/2ZGHA6poKjdYF53JdhJfMl) | [David Fleury](https://open.spotify.com/artist/58Hv0n1q9rM1PuvsqXnrAy) | [La flamme](https://open.spotify.com/album/4kWOaiNyfIJ6r0K9JIKLyS) | 3:54 | 2021-01-03\* |  |
+| [La flamme](https://open.spotify.com/track/2ZGHA6poKjdYF53JdhJfMl) | [David Fleury](https://open.spotify.com/artist/58Hv0n1q9rM1PuvsqXnrAy) | [La flamme](https://open.spotify.com/album/4kWOaiNyfIJ6r0K9JIKLyS) | 3:54 | 2021-01-03\* | 2024-10-05 |
 | [La forêt](https://open.spotify.com/track/307TfFnAVG0MN2pSFXz2AW) | [Jay Trepanier](https://open.spotify.com/artist/5GAcHj0ZkPL07NNkfgW7do) | [La forêt](https://open.spotify.com/album/1GMaKOEve0K68gFGPjjXbF) | 2:22 | 2024-09-13 |  |
 | [La fumée des bougies](https://open.spotify.com/track/7IsofhSconuBgXO2cvpbVL) | [Marilou](https://open.spotify.com/artist/502LJ9OJfK5m2p1CGDx8vf) | [La fumée des bougies](https://open.spotify.com/album/0s5d7SHgMqa5EJlz24vsLp) | 3:57 | 2022-12-16 | 2023-08-26 |
 | [La lettre](https://open.spotify.com/track/5T0pz4KYzXrOBWxrBvpZ8W) | [Juste Robert](https://open.spotify.com/artist/4lll5qbnN7kMIi5jOZUpVi) | [Ta théorie sur la lumière](https://open.spotify.com/album/16smfu1rntYNsY9yYqvDDC) | 3:24 | 2022-02-11 | 2022-07-23 |
@@ -228,7 +228,7 @@
 | [Laissez\-Moi](https://open.spotify.com/track/7KEPFYAiLCen71RTOMUzup) | [Rosier](https://open.spotify.com/artist/2mIqD0kh2TtNDYpB4weMe1) | [Rosier](https://open.spotify.com/album/0vQeuOk0tohIHflikV8jWg) | 3:35 | 2021-01-03\* | 2022-07-26 |
 | [Le bois](https://open.spotify.com/track/48rln9BcoGPT5WlLzns2FP) | [Vanille](https://open.spotify.com/artist/3tHAfDZrW7zR6hXd4FzWWn) | [Le bois](https://open.spotify.com/album/485Zc5MM4peA0rQQzLCAiC) | 2:59 | 2022-11-11 |  |
 | [Le coeur est sans appel](https://open.spotify.com/track/7ihpGFLkznBBwML4MxOfrl) | [Noé Talbot](https://open.spotify.com/artist/5NlqN0zhm9dM0WgtvKvsKU) | [Remercier les accidents](https://open.spotify.com/album/3V66hVSBgfMtfGWNSqzBVZ) | 3:01 | 2021-05-23 | 2021-08-21 |
-| [Le jardin se meurt](https://open.spotify.com/track/6igzj55Dq55ESWR9mAKeCu) | [Vincent Vallières](https://open.spotify.com/artist/2iG6QPoQAVjR93cWyMKqen) | [Le jardin se meurt](https://open.spotify.com/album/3OxNxv43AH0Gcx7mZ4WPx8) | 5:47 | 2021-03-20 |  |
+| [Le jardin se meurt](https://open.spotify.com/track/6igzj55Dq55ESWR9mAKeCu) | [Vincent Vallières](https://open.spotify.com/artist/2iG6QPoQAVjR93cWyMKqen) | [Le jardin se meurt](https://open.spotify.com/album/3OxNxv43AH0Gcx7mZ4WPx8) | 5:47 | 2021-03-20 | 2024-10-05 |
 | [Le jour](https://open.spotify.com/track/2FCGlkyYXNxnoPhio8eNfL) | [Andréanne A\. Malette](https://open.spotify.com/artist/7Cm84tcv4znPwVFtFyIdBB) | [Sitka](https://open.spotify.com/album/6xfRooWnbdEwXfD3dAU3dK) | 3:34 | 2021-01-29 | 2022-02-12 |
 | [Le monarque des Indes](https://open.spotify.com/track/2iGFdHJ9PNdXuPWCpjw61T) | [Pierre Lapointe](https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP) | [Pour déjouer l'ennui](https://open.spotify.com/album/096tQ53nMSEYJrCiIMrEgE) | 2:50 | 2021-01-03\* |  |
 | [Le pont](https://open.spotify.com/track/2zj9ku9XufSFWYNKLLK1fC) | [Étienne Drapeau](https://open.spotify.com/artist/29v1NWROhbx8Zfjh2DuWW5) | [Le pont](https://open.spotify.com/album/4H87yefc5YdOCyBgk5CRal) | 4:18 | 2021-03-19 | 2021-05-07 |
@@ -266,6 +266,7 @@
 | [Loin, loin, loin \- Radio Edit](https://open.spotify.com/track/24pjVbHPz2vxwbBSVIVQkb) | [Joseph Edgar](https://open.spotify.com/artist/0hVqrbvEPj0tPpkOj9zFyD) | [Loin, loin, loin \(Radio Edit\) \- Single](https://open.spotify.com/album/4ApjGnbUOFXzIMlHebBR1C) | 2:40 | 2021-01-17 | 2021-01-28 |
 | [Looking At Me](https://open.spotify.com/track/0hrNXTJiypltvxA7NtvDDD) | [Willa Owen](https://open.spotify.com/artist/4530YXk5QycIMohu512pcC) | [Looking At Me](https://open.spotify.com/album/3hr3L6NI0FyqQOYMzUoOue) | 3:12 | 2023-04-02 |  |
 | [Looking At Me](https://open.spotify.com/track/7MmcBM454plU5ZnamhC7D1) | [Willa Owen](https://open.spotify.com/artist/4530YXk5QycIMohu512pcC) | [Looking At Me](https://open.spotify.com/album/3uZRDyduIzyv3NtAcakEwS) | 3:12 | 2024-01-12 | 2024-04-19 |
+| [Los Peces](https://open.spotify.com/track/6j0KzFyCDDt4Mhkje36qts) | [Lhasa De Sela](https://open.spotify.com/artist/3IbqRfvnvj5C22pHD38KXI), [Yves Desrosiers](https://open.spotify.com/artist/2VK0ucevGNDKSx7v3Y62cC) | [First Recordings](https://open.spotify.com/album/4jyIvjfimFU7XkDf5kql9U) | 3:38 | 2024-10-04 |  |
 | [Lost River](https://open.spotify.com/track/7lNvSd4Tmx7UBfXljzsDhY) | [Cœur De Pirate](https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA) | [Perséides](https://open.spotify.com/album/5xmDoybU1nIqKIevFsGIEG) | 2:55 | 2021-05-03 | 2022-07-29 |
 | [Lost River](https://open.spotify.com/track/7B5iVq1KpRI6KwomC6W1Ge) | [Cœur De Pirate](https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA), [Beatrice Martin](https://open.spotify.com/artist/67z5ieiEhnEwsCKPKpgvgo) | [Perséides](https://open.spotify.com/album/7nfOshpjsyOUdXfnWSINOA) | 2:55 | 2022-07-08 | 2024-04-19 |
 | [Lost With You](https://open.spotify.com/track/1zqxYmUku2McZZe7tXibAt) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Lost With You](https://open.spotify.com/album/6ciXEklHW7OVLHlZXZXobj) | 2:55 | 2024-04-12 | 2024-04-19 |
@@ -399,6 +400,7 @@
 | [Saying Something](https://open.spotify.com/track/2lnDQ3UhWyiW74IW8IPB4Q) | [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0) | [Goodnight Summerland](https://open.spotify.com/album/0MVltcSSdlgnlSNMLmJGFn) | 4:16 | 2024-03-08 |  |
 | [Si jamais](https://open.spotify.com/track/6NxtWlb6CoJIJfdfz8VesK) | [Laurence St\-Martin](https://open.spotify.com/artist/1DAZpwKWPQ4VnPSD2RcpgG) | [Si jamais](https://open.spotify.com/album/3QCebuc5TzgSQTkwXRCCvk) | 3:13 | 2021-01-03\* | 2021-09-26 |
 | [Si tu reviens](https://open.spotify.com/track/4jfDgYNK4VcADKD6mSSyFs) | [Louis\-Jean Cormier](https://open.spotify.com/artist/6ZsvBr9pLJY16NqVRKO88G) | [Les grandes artères](https://open.spotify.com/album/2HGCx9cx51b0MlkBdzUiaY) | 3:24 | 2022-01-07 |  |
+| [Snowpath](https://open.spotify.com/track/1e1QnRkEXG5HFMOUFo3V4L) | [Jonah Yano](https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Snowpath](https://open.spotify.com/album/53piZ0a4vXwSbHZrymx7rT) | 2:13 | 2024-10-04 |  |
 | [Solitudes](https://open.spotify.com/track/7IjR9x7qM8WFVKYXcZX7PR) | [Matt Holubowski](https://open.spotify.com/artist/384YLF1kNQk9Ccl8pn7BSO) | [Solitudes](https://open.spotify.com/album/0q7qInfdzXEaJxQt1YNvvi) | 4:08 | 2021-10-03 |  |
 | [Sommeil pesant](https://open.spotify.com/track/7iPlZhBBjKJMgyof1FJETR) | [Catherine Durand](https://open.spotify.com/artist/5AmMLTm7GBQ5AHCGioFshD) | [Sommeil pesant](https://open.spotify.com/album/7I6qbi6qSOUuVUJ6AavicA) | 3:18 | 2022-07-08 | 2022-07-27 |
 | [Sorcière \- r.e](https://open.spotify.com/track/0iJmZj9ksm28CpStd0QN1V) | [Jessica Charlie](https://open.spotify.com/artist/0nBaWM1NoLFB7kPSftK6op) | [Sorcière \(r.e\)](https://open.spotify.com/album/474oFgCMLIrxrqhSgi6fPc) | 2:40 | 2021-10-23 | 2021-10-31 |

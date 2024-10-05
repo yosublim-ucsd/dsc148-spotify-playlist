@@ -1963,6 +1963,24 @@
     },
     {
       "album": {
+        "name": "Lotus",
+        "url": "https://open.spotify.com/album/0Z9uE1lFTTQVwPPuaKYbdJ"
+      },
+      "artists": [
+        {
+          "name": "Gia Fu",
+          "url": "https://open.spotify.com/artist/3dwN2G3cx8i7rEFDvYhRLi"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297468,
+      "name": "Lotus",
+      "url": "https://open.spotify.com/track/4wx8KI6mcAT2yjab2hgeul"
+    },
+    {
+      "album": {
         "name": "Luna Villera",
         "url": "https://open.spotify.com/album/5Vm7UF6GDOFqCNfOMDtxwi"
       },
@@ -3004,7 +3022,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 280821,
       "name": "Sonido Yoryi",
       "url": "https://open.spotify.com/track/6NOq1ssPUVhIOjhAPzaRxt"

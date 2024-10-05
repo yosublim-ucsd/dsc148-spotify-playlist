@@ -2472,7 +2472,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 619333,
       "name": "God Turned It Around",
       "url": "https://open.spotify.com/track/5DGDEsOU9MovPuq0QRnbUG"
@@ -3464,6 +3464,28 @@
       "duration_ms": 309600,
       "name": "Intentional",
       "url": "https://open.spotify.com/track/7amI71zqlFSwDF3jFjHa2l"
+    },
+    {
+      "album": {
+        "name": "Involved",
+        "url": "https://open.spotify.com/album/5jF4u2Au0Tbqifnr2qtzfH"
+      },
+      "artists": [
+        {
+          "name": "Uniekgrace",
+          "url": "https://open.spotify.com/artist/2F7jyBFPwP1J8guQnTRaP7"
+        },
+        {
+          "name": "Ko'rale",
+          "url": "https://open.spotify.com/artist/4Fvr1wBzDl0Qy3QwcbAVnS"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220714,
+      "name": "Involved",
+      "url": "https://open.spotify.com/track/5pb5B5hA3h3EF0s7cW1ykL"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > roots run deep
 
-331 songs - 19 hr 57 min
+333 songs - 20 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [23](https://open.spotify.com/track/1ZpPaBDswjV3VSUKqLDXPE) | [Chayce Beckham](https://open.spotify.com/artist/5ujvZU2thXjZgFKPUt1rDt) | [23](https://open.spotify.com/album/2LTt0pFwjPS5Zdc7tlmwyl) | 3:48 | 2023-11-10 | 2024-04-08 |
 | [23](https://open.spotify.com/track/2ixkIrn45mNfdLDLHuyfRt) | [Chayce Beckham](https://open.spotify.com/artist/5ujvZU2thXjZgFKPUt1rDt) | [23](https://open.spotify.com/album/2iooIm9txIXCow2rvSg7Aa) | 3:48 | 2023-02-24 |  |
 | [23](https://open.spotify.com/track/5NU6kBZORKaoqS09mOqgXs) | [Chayce Beckham](https://open.spotify.com/artist/5ujvZU2thXjZgFKPUt1rDt) | [Bad For Me](https://open.spotify.com/album/6vuwxb0fLibvV8pIh071QY) | 3:48 | 2024-04-05 | 2024-04-19 |
+| [5 to 9](https://open.spotify.com/track/7aGK202gwOfeCJee5qYCGy) | [Hudson Westbrook](https://open.spotify.com/artist/0C4gtx1iHMfuaQ73GKWvtZ) | [5 to 9](https://open.spotify.com/album/1c8wFzXWGK7yDkLWfctG1Q) | 3:23 | 2024-10-04 |  |
 | [68](https://open.spotify.com/track/6LtSvOXW9K6oo4lmJZmMji) | [Nolan Taylor](https://open.spotify.com/artist/3AvHLKVKOBsr66Jo67MTMo) | [68](https://open.spotify.com/album/7B9cPzzx0ZuOcGveznlL53) | 3:27 | 2023-04-21 | 2024-08-29 |
 | [68](https://open.spotify.com/track/1qlyWMMDGkXAjFehdUKGJ7) | [Nolan Taylor](https://open.spotify.com/artist/3AvHLKVKOBsr66Jo67MTMo) | [68](https://open.spotify.com/album/51JORfnib4vdjiXHAouErb) | 3:27 | 2023-09-08 | 2024-04-19 |
 | [68 \- Live](https://open.spotify.com/track/40TGxZwQQG6cDHelPqiQSp) | [Nolan Taylor](https://open.spotify.com/artist/3AvHLKVKOBsr66Jo67MTMo) | [Live at Bo Bash 2021](https://open.spotify.com/album/58QZnkI7wZjq1OhHyBoo0M) | 3:28 | 2023-03-21 | 2023-04-22 |
@@ -123,7 +124,7 @@
 | [Glitter](https://open.spotify.com/track/0dZSiJXOSzOG5KBwGfYYnG) | [Chayce Beckham](https://open.spotify.com/artist/5ujvZU2thXjZgFKPUt1rDt) | [Bad For Me](https://open.spotify.com/album/6vuwxb0fLibvV8pIh071QY) | 3:18 | 2024-04-05 | 2024-07-03 |
 | [Going Home \- Live](https://open.spotify.com/track/0IFwRqhkQZdKpUW1uvOaDO) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Going Home \(Live\)](https://open.spotify.com/album/69BlZSkkD9n0sIV1Z0ISWg) | 4:02 | 2024-04-26 | 2024-05-11 |
 | [Golden Hour](https://open.spotify.com/track/0pMfPzdRiPAoSM9yWF4OcT) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Golden Hour](https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c) | 3:18 | 2023-09-26 | 2024-01-19 |
-| [Good Godly Woman](https://open.spotify.com/track/6GWMddXRoGtOQRMwxItviV) | [The Red Clay Strays](https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ) | [Good Godly Woman](https://open.spotify.com/album/7iYaPN9HmhLoEPCnptvOfw) | 2:27 | 2023-09-28 |  |
+| [Good Godly Woman](https://open.spotify.com/track/6GWMddXRoGtOQRMwxItviV) | [The Red Clay Strays](https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ) | [Good Godly Woman](https://open.spotify.com/album/7iYaPN9HmhLoEPCnptvOfw) | 2:27 | 2023-09-28 | 2024-10-05 |
 | [Good Horses \(feat\. Miranda Lambert\)](https://open.spotify.com/track/2Y55wplSMT3ltQQOPvMC75) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Good Horses \(feat\. Miranda Lambert\)](https://open.spotify.com/album/51LSHfJxKu0e6V9N8TcdEG) | 3:57 | 2024-08-09 |  |
 | [Goodbye World](https://open.spotify.com/track/2R1FGbXB0bELZvaP1hmOmz) | [Ward Davis](https://open.spotify.com/artist/2Tpxz9WfPRZGQNSCzrjk0a) | [Sunday Morning](https://open.spotify.com/album/2A9iLSQg4UvUDFBOMxWaoo) | 3:28 | 2023-05-19 | 2023-07-01 |
 | [Greener Pasture](https://open.spotify.com/track/3fA0FKdkPmBa62MSxwewKE) | [Carter Faith](https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko) | [Greener Pasture](https://open.spotify.com/album/2ua2VjahAuE1LsjiGIQWu3) | 3:09 | 2023-10-14 |  |
@@ -148,6 +149,7 @@
 | [I Can Lie \(The Truth Is\)](https://open.spotify.com/track/5qqIccBZC1LfSGPU04Px26) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [I Can Lie \(The Truth Is\)](https://open.spotify.com/album/6QwfWouiQcSPcnh8t6GYvF) | 3:30 | 2023-06-22 | 2023-12-09 |
 | [I Never Lie](https://open.spotify.com/track/3t6gUcGYLrUuqwpXjOFWQc) | [Zach Top](https://open.spotify.com/artist/4FGPzWzgjURDNT7JQ8pYgH) | [Cold Beer & Country Music](https://open.spotify.com/album/2liHjGjIgWvjrfBgKGBYuF) | 3:44 | 2024-08-28 |  |
 | [I Remember Everything \(feat\. Kacey Musgraves\)](https://open.spotify.com/track/4KULAymBBJcPRpk1yO4dOG) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Zach Bryan](https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf) | 3:47 | 2023-08-25 |  |
+| [I'm Still Fine](https://open.spotify.com/track/1s0B0dkZHfynScpLO0UzJX) | [The Red Clay Strays](https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ) | [Made by These Moments](https://open.spotify.com/album/0UQr4EfIUbii2ufru3mnKe) | 3:52 | 2024-10-04 |  |
 | [If I Was a Cowboy](https://open.spotify.com/track/7eqCfMp6Lle7Ij3QjOwrya) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Palomino](https://open.spotify.com/album/69z5d2iu6PdaRZWvx8YVUl) | 3:14 | 2023-07-27 | 2023-12-09 |
 | [If I Were the Devil](https://open.spotify.com/track/3lsWwQnDg99gtni4g5V0UG) | [Colby Acuff](https://open.spotify.com/artist/2L9DVKDXY3W8uRl5TwLbMC) | [If I Were the Devil](https://open.spotify.com/album/6h3QqAyUznHmGJj90J3WZl) | 4:02 | 2023-02-24 |  |
 | [If Not for the Rain](https://open.spotify.com/track/09KLleKjGJXVYKlkRB548W) | [The Steel Woods](https://open.spotify.com/artist/69B1gu9EjC0rNb59YYNVPM) | [If Not for the Rain](https://open.spotify.com/album/5vuJo51lWThirFEhqYQpVm) | 5:30 | 2023-06-30 | 2023-08-21 |

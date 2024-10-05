@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Rasy4eR1v.md) - [plain]
 
 > Editor's picks of freshest Pakistani discoveries you have not heard before\. Cover: Ali Raza, AliSoomroMusic
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,791 likes - 76 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,809 likes - 76 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

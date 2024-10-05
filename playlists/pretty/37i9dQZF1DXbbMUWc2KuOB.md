@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbMUWc2KuOB.md) - [plain]
 
 > Enjoy your favourite K\-drama's OST instrumentals\. \(Cover: Queen of Tears\(눈물의 여왕\)\) \(한국 OST 반주곡과 함께 여유로운 시간을 즐겨보세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,985 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,001 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbMUWc2KuOB.md) - [plain]
 | 33 | [Count On Me \- Instrumental](https://open.spotify.com/track/666MdibRvPC1BdY4nwaDdo) | [NINGNING](https://open.spotify.com/artist/5t1uryofgueHrjrryqX8vM) | [The Midnight Studio, Pt\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/4KyXcvakvVBugwPdVSRDK5) | 3:17 |
 | 34 | [If you're with me \- Instrumental](https://open.spotify.com/track/6GBgCbLWz03xdW5RjQniLv) | [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [Snowdrop \(Original Television Soundtrack, Pt\. 1\)](https://open.spotify.com/album/1mp8PisOMZvtAZWfwv9vlS) | 3:51 |
 | 35 | [Your world \(Inst.\)](https://open.spotify.com/track/1DElktBD30P1aiIQXErMLG) | [Seol Hoseung \(SURL\)](https://open.spotify.com/artist/74eigHxPC6nhip2jnAili4) | [Twenty\-Five Twenty\-One OST Part 9](https://open.spotify.com/album/3y6Nrs4DvKVlRiaMoWowh9) | 3:27 |
-| 36 | [시간의 상처 \(Inst.\)](https://open.spotify.com/track/6xdFDuOy3aJLAdfa0Z5Mtk) | [Kim So Yeon](https://open.spotify.com/artist/3t6l8ErtkVQRpMuqfAfBd9) | [내 남편과 결혼해줘 OST Part.4](https://open.spotify.com/album/5QXH2tKwc5DVyawOzIHgDy) | 4:37 |
-| 37 | [Love, This \- Instrumental](https://open.spotify.com/track/6cnIxIEf69ZwGgZcCmjyKm) | [LAS](https://open.spotify.com/artist/4tObzkvo2Bc9EoWszG8gY4) | [Nevertheless, \(Original Television Soundtrack, Pt\. 9\)](https://open.spotify.com/album/2DNfUCOCsKzUBLBD79cU2L) | 3:12 |
+| 36 | [Love, This \- Instrumental](https://open.spotify.com/track/6cnIxIEf69ZwGgZcCmjyKm) | [LAS](https://open.spotify.com/artist/4tObzkvo2Bc9EoWszG8gY4) | [Nevertheless, \(Original Television Soundtrack, Pt\. 9\)](https://open.spotify.com/album/2DNfUCOCsKzUBLBD79cU2L) | 3:12 |
+| 37 | [시간의 상처 \(Inst.\)](https://open.spotify.com/track/6xdFDuOy3aJLAdfa0Z5Mtk) | [Kim So Yeon](https://open.spotify.com/artist/3t6l8ErtkVQRpMuqfAfBd9) | [내 남편과 결혼해줘 OST Part.4](https://open.spotify.com/album/5QXH2tKwc5DVyawOzIHgDy) | 4:37 |
 | 38 | [나는 볼 수 없던 이야기 \(Inst.\) \(Instrumental\)](https://open.spotify.com/track/2gWhI5qs1hx9VrCzmFyqbb) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [로맨스는 별책부록 OST Part.1](https://open.spotify.com/album/5ouASCTRr1UL6S5g9k9C1R) | 3:44 |
 | 39 | [The Moment My Heart \(She is My Type♡ X KYUHYUN\) \(Inst.\)](https://open.spotify.com/track/749UBIskacge8qFMxeoZOn) | [KYUHYUN](https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln) | [The Moment My Heart \(She is My Type♡ X KYUHYUN\)](https://open.spotify.com/album/4i1sZysnsbV5bIAyALa04J) | 3:53 |
 | 40 | [Memories More than love \- Instrumental](https://open.spotify.com/track/1CltdzmU5Fdaq4fe6tgfE8) | [Kevin Oh](https://open.spotify.com/artist/3XgMCDrTkw1mcmeBE48Pqy) | [Snowdrop \(Original Television Soundtrack, Pt\. 5\)](https://open.spotify.com/album/1GnkuJvrXWsNJfNDhQfaB2) | 4:45 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbMUWc2KuOB.md) - [plain]
 | 45 | [That Person \- Instrumental](https://open.spotify.com/track/7JhEKgTX5WoIWJkJk4tBUy) | [Monogram](https://open.spotify.com/artist/527XQt0xJFseCh4cu50LuC) | [A Poem a Day \(tvN DRAMA\) OST Part.7](https://open.spotify.com/album/01neY4Yc8lzmHDagkIuYW2) | 3:32 |
 | 46 | [Those Days \(without you\) \- Instrument](https://open.spotify.com/track/52cO1XrWkAUNYhCgExD3vy) | [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby) | [Prison Playbook \(Original Television Soundtrack\), Pt\. 9](https://open.spotify.com/album/17wx44kco8t7rZW796KlF1) | 3:04 |
 | 47 | [I'm in love \- Instrumental](https://open.spotify.com/track/6jYfbkPQKXmsLDfv0dQ6T4) | [Bada](https://open.spotify.com/artist/18IwGkcIzn689YpIkzEKZj) | [Homemade Love Story \(Original Television Soundtrack\) Pt\. 8](https://open.spotify.com/album/32GncUmsWV0ZO2JpxSXhbf) | 4:05 |
-| 48 | [Say I Love U \- Instrumental](https://open.spotify.com/track/253auyXWaaHMBWJXs63h5m) | [Kim Mi Jeong](https://open.spotify.com/artist/62i8ukH7NagOk7lZE6B3xA) | [Love Interference Season3 \(Original Television Soundtrack\), Pt\. 17](https://open.spotify.com/album/21fVkmQsDvSeGP5jQ1k2CG) | 2:50 |
-| 49 | [Not alone \- Instrumental](https://open.spotify.com/track/5C5qLui0HhsmYAayjUBFRA) | [HYNN](https://open.spotify.com/artist/64jfAecBriamQmMs0WAKtj) | [Doctor Slump \(Original Television Soundtrack\) Pt.2](https://open.spotify.com/album/2xVoamsnR6AmT4JtEJINAe) | 4:12 |
+| 48 | [Not alone \- Instrumental](https://open.spotify.com/track/5C5qLui0HhsmYAayjUBFRA) | [HYNN](https://open.spotify.com/artist/64jfAecBriamQmMs0WAKtj) | [Doctor Slump \(Original Television Soundtrack\) Pt.2](https://open.spotify.com/album/2xVoamsnR6AmT4JtEJINAe) | 4:12 |
+| 49 | [Say I Love U \- Instrumental](https://open.spotify.com/track/253auyXWaaHMBWJXs63h5m) | [Kim Mi Jeong](https://open.spotify.com/artist/62i8ukH7NagOk7lZE6B3xA) | [Love Interference Season3 \(Original Television Soundtrack\), Pt\. 17](https://open.spotify.com/album/21fVkmQsDvSeGP5jQ1k2CG) | 2:50 |
 | 50 | [Melting \- Inst.](https://open.spotify.com/track/5zx2UcgNu7CIpczUCgYghY) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [Forecasting Love and Weather \(Original Television Soundtrack\), Pt\. 1](https://open.spotify.com/album/3Rble1wgbwvGEqvpOaZ63b) | 3:06 |
 
 Snapshot ID: `ZgQzhQAAAABN4Hffi6TQfmBXJiDRUHPd`

@@ -2,9 +2,9 @@
 
 ### [This Is The Three Degrees](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1trEdl)
 
-> This is The Three Degrees\. Todos os maiores hits em uma só playlist.
+> This is The Three Degrees\. The essential tracks, all in one playlist.
 
-109 songs - 6 hr 45 min
+110 songs - 6 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,8 @@
 | [Free Ride \- Live at Bailey's, London, England \- 1975](https://open.spotify.com/track/6p31MRw6SHnG4B2FOV8I0Z) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Three Degrees Live](https://open.spotify.com/album/793TTHJPK3W7Np8E2Duufl) | 2:43 | 2022-05-25 |  |
 | [Gee Baby \(I'm Sorry\)](https://open.spotify.com/track/5jCUuFAc348edhtmHBBbtr) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [Gee Baby \(I'm Sorry\) / Do What You're Supposed to Do](https://open.spotify.com/album/1RF9jf8VW7R8nbQkzKxKbT) | 2:04 | 2022-05-25 |  |
 | [Gee Baby I'm Sorry / Take Good Care of Yourself / The Runner \- Live Medley](https://open.spotify.com/track/1ZI40a48FO8d3OTUfAdYwn) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa), [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [T.S.O.P\. The Sound of Philadelphia \(Live in Concert\)](https://open.spotify.com/album/53dg6uhcVd1YFB5LPUh8mr) | 4:53 | 2022-05-28 |  |
-| [Get Your Love Back](https://open.spotify.com/track/5sgrsPuLZZrUn9g2tGESRp) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Best Of The Three Degrees: When Will I See You Again](https://open.spotify.com/album/0GO4Ee0UN5cyB1FnWPfOzz) | 3:23 | 2022-06-18 |  |
+| [Get Your Love Back](https://open.spotify.com/track/5sgrsPuLZZrUn9g2tGESRp) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Best Of The Three Degrees: When Will I See You Again](https://open.spotify.com/album/0GO4Ee0UN5cyB1FnWPfOzz) | 3:23 | 2022-06-18 | 2024-10-05 |
+| [Get Your Love Back](https://open.spotify.com/track/02ApvI4KwIke5ykDbDzfSK) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [International \(Expanded Edition\)](https://open.spotify.com/album/6tu9mnYgTCsVpyqWUd6YFG) | 3:23 | 2024-10-05 |  |
 | [Givin' Up Givin' In](https://open.spotify.com/track/69F4BXLcsrlHg2s2mViAfG) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Best Of](https://open.spotify.com/album/4URmx7IbGKCfW5eXWC5zfG) | 3:54 | 2022-05-25 |  |
 | [Giving Up, Giving In](https://open.spotify.com/track/4Aj2Midm2Nyhb9C68ba95c) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [New Dimensions](https://open.spotify.com/album/0UxCcD713JwIalWQPy5nkg) | 6:07 | 2024-03-08 |  |
 | [Gotta Draw the Line](https://open.spotify.com/track/7HNVtnLuq2lmKMPB9kFj1A) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [Close Your Eyes / Gotta Draw the Line](https://open.spotify.com/album/4SkEdHeraLeqe5stv41pq9) | 3:02 | 2022-05-25 | 2024-07-01 |

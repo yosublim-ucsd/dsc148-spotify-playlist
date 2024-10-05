@@ -578,7 +578,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 133571,
       "name": "Die For You!",
       "url": "https://open.spotify.com/track/5jUEEzElqWd91VuHcNg2Ri"
@@ -875,6 +875,24 @@
     },
     {
       "album": {
+        "name": "Her\u00e1ldica +",
+        "url": "https://open.spotify.com/album/5uC2ijosFc8oET650PF88C"
+      },
+      "artists": [
+        {
+          "name": "Saramalacara",
+          "url": "https://open.spotify.com/artist/3QchzUOTSCKWmaRGEEiuir"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115016,
+      "name": "Fotolove!",
+      "url": "https://open.spotify.com/track/2iKkPx35MLrK527bW59OOw"
+    },
+    {
+      "album": {
         "name": "Fuk on Me! (Look At Me!)",
         "url": "https://open.spotify.com/album/0Q7YfXN6pPH8fjJfnf6upc"
       },
@@ -1008,7 +1026,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 192275,
       "name": "GANGSIGNS",
       "url": "https://open.spotify.com/track/5CqdLxkrB5r8pp1gvNRe0C"
@@ -1707,6 +1725,24 @@
     },
     {
       "album": {
+        "name": "narcisista artificial",
+        "url": "https://open.spotify.com/album/4Ik4Aoa2UgBoRPTY5SdfyE"
+      },
+      "artists": [
+        {
+          "name": "Conico",
+          "url": "https://open.spotify.com/artist/585mUNJeJoLyRHXH0E7nX8"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96004,
+      "name": "narcisista artificial",
+      "url": "https://open.spotify.com/track/5zYvn7bjZvqXg64t6c1XYI"
+    },
+    {
+      "album": {
         "name": "no escape",
         "url": "https://open.spotify.com/album/0s0eJPOPYUIx6aD3gtcFm5"
       },
@@ -2164,7 +2200,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 139680,
       "name": "REPL4CE!",
       "url": "https://open.spotify.com/track/3oXlxZ4teZ1iLon3NmN0bn"
@@ -2446,6 +2482,32 @@
       "duration_ms": 162668,
       "name": "tra$h star",
       "url": "https://open.spotify.com/track/0BeeUTcg5PMKnDzIWaTT8C"
+    },
+    {
+      "album": {
+        "name": "Trampa",
+        "url": "https://open.spotify.com/album/623bhHJ2Car37LNluqQZxb"
+      },
+      "artists": [
+        {
+          "name": "Rufus Kluge",
+          "url": "https://open.spotify.com/artist/5jsbg1J3E1AETPgaCDuLWH"
+        },
+        {
+          "name": "Cross MX",
+          "url": "https://open.spotify.com/artist/7g54DTnLOS70qX8oOrUnBN"
+        },
+        {
+          "name": "YG Greed",
+          "url": "https://open.spotify.com/artist/5Gvfq6ZtxvvVG35S1N5Stn"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238344,
+      "name": "Trampa",
+      "url": "https://open.spotify.com/track/0nPfUqitTzEsgSOG5Y0l3m"
     },
     {
       "album": {

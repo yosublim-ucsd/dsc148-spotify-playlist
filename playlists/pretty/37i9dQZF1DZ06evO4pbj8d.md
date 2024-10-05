@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4pbj8d.md) - [plain]
 
 > This is Joy Oladokun\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,059 likes - 51 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,081 likes - 51 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4pbj8d.md) - [plain]
 | 20 | [Changes](https://open.spotify.com/track/11pocbaq7T3ouJd4oa64Xn) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Changes](https://open.spotify.com/album/2Q8EuF1l9sDpbVAmRRiW7e) | 3:09 |
 | 21 | [breathe again](https://open.spotify.com/track/2exUyljlhoH86MlcicuUXd) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [in defense of my own happiness \(the beginnings\)](https://open.spotify.com/album/376qFRUbcROL5XR8jdFzg4) | 3:49 |
 | 22 | [You At The Table \(with Manchester Orchestra\)](https://open.spotify.com/track/1I5XT1jCeaxVJXJ4mQ9INX) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9), [Manchester Orchestra](https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f) | [Proof Of Life](https://open.spotify.com/album/75o3sk5btG5NX8JaPw190o) | 3:50 |
-| 23 | [QUESTIONS, CHAOS & FAITH](https://open.spotify.com/track/7dwszn3bUo9ozTx5SjRzZa) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [QUESTIONS, CHAOS & FAITH](https://open.spotify.com/album/1fztGf3wviZe3XgCpBmpH3) | 3:57 |
-| 24 | [NO COUNTRY](https://open.spotify.com/track/3kdsJl2DIuphGlswsCVsu0) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [NO COUNTRY](https://open.spotify.com/album/7ruqdZtzBceRy4B5WVvAlg) | 4:17 |
+| 23 | [NO COUNTRY](https://open.spotify.com/track/3kdsJl2DIuphGlswsCVsu0) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [NO COUNTRY](https://open.spotify.com/album/7ruqdZtzBceRy4B5WVvAlg) | 4:17 |
+| 24 | [QUESTIONS, CHAOS & FAITH](https://open.spotify.com/track/7dwszn3bUo9ozTx5SjRzZa) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [QUESTIONS, CHAOS & FAITH](https://open.spotify.com/album/1fztGf3wviZe3XgCpBmpH3) | 3:57 |
 | 25 | [heaven from here \(with Penny and Sparrow\)](https://open.spotify.com/track/14zduMrtXG6iAyoozpQhDA) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9), [Penny and Sparrow](https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur) | [in defense of my own happiness](https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ) | 3:03 |
 | 26 | [Somebody Like Me](https://open.spotify.com/track/0uxLU5nNE35ZxNwoKm8XLq) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Proof Of Life](https://open.spotify.com/album/0F9RwW1ScEh2gNEADX67BO) | 3:56 |
 | 27 | [Blink Twice](https://open.spotify.com/track/15mBjCfIMBnW92VxkswM2P) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Blink Twice](https://open.spotify.com/album/0YXMnmlNlrJhL1nC8NXAoT) | 3:17 |
@@ -47,17 +47,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4pbj8d.md) - [plain]
 | 37 | [Wild Enough](https://open.spotify.com/track/3nq6KWRl5C0aedpJTYbKWV) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Proof Of Life \(Deluxe\)](https://open.spotify.com/album/30lZLey3bIVaqxlkAnKrg4) | 2:46 |
 | 38 | [judas](https://open.spotify.com/track/03x5RegHjby0lwfcqQ2GjI) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [in defense of my own happiness \- complete](https://open.spotify.com/album/4FzapZZ2S0xvuB5yJLebUM) | 2:41 |
 | 39 | [younger days](https://open.spotify.com/track/2agvjfJOq8U16b5IOjH1YC) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [in defense of my own happiness \(the beginnings\)](https://open.spotify.com/album/376qFRUbcROL5XR8jdFzg4) | 3:34 |
-| 40 | [Sober](https://open.spotify.com/track/0VTJh1k8GwxCOdSHpcDe9s) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Sober](https://open.spotify.com/album/2LAq8CGSyEPEWDadcMmMRs) | 3:21 |
-| 41 | [Fortune Favors The Bold](https://open.spotify.com/track/3pfibYzsaexMHmLnmQ8iMH) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9), [Tim Gent](https://open.spotify.com/artist/3zt7KD1sd6pwQ3PgWPZiln) | [Fortune Favors The Bold](https://open.spotify.com/album/6Z4nwjLYejRAzZo1HeyyPy) | 3:38 |
+| 40 | [Fortune Favors The Bold](https://open.spotify.com/track/3pfibYzsaexMHmLnmQ8iMH) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9), [Tim Gent](https://open.spotify.com/artist/3zt7KD1sd6pwQ3PgWPZiln) | [Fortune Favors The Bold](https://open.spotify.com/album/6Z4nwjLYejRAzZo1HeyyPy) | 3:38 |
+| 41 | [Sober](https://open.spotify.com/track/0VTJh1k8GwxCOdSHpcDe9s) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Sober](https://open.spotify.com/album/2LAq8CGSyEPEWDadcMmMRs) | 3:21 |
 | 42 | [Carry](https://open.spotify.com/track/6drp4VbnWwVxfn5v5jzqp7) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Carry](https://open.spotify.com/album/0yUV7CmhrBa3a30vrzk3dt) | 4:02 |
 | 43 | [Way of Nature Way of Grace](https://open.spotify.com/track/6XvIVhREinnOkdeh1v6Ut0) | [Aly & AJ](https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i), [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [With Love From](https://open.spotify.com/album/3oFIKpX63uWlFve7BaVK1r) | 4:00 |
 | 44 | [Memphis](https://open.spotify.com/track/1yeSznrghGszZVKvN5DZ2f) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Memphis](https://open.spotify.com/album/3Q4xfrse6fqosRqjAzqF7s) | 4:06 |
 | 45 | [brick by brick](https://open.spotify.com/track/4JUSXwDFcncj0TbXByi0U7) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [in defense of my own happiness \(complete\)](https://open.spotify.com/album/7yemOBr0RNb26tsE0lKaDB) | 3:33 |
-| 46 | [I Wished On The Moon \(The New Look: Season 1 \(Apple TV+ Original Series Soundtrack\)\)](https://open.spotify.com/track/4zbQAxqxkidxKlnJG88IgU) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [I Wished On The Moon \(The New Look: Season 1 \(Apple TV+ Original Series Soundtrack\)\)](https://open.spotify.com/album/2WU0X6u4eSNd8sLCauvKNL) | 3:34 |
-| 47 | [Spotlight](https://open.spotify.com/track/6Vg2zBT0AFSoKhV7L5csFf) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Proof Of Life \(Deluxe\)](https://open.spotify.com/album/30lZLey3bIVaqxlkAnKrg4) | 3:15 |
-| 48 | [smoke](https://open.spotify.com/track/282iiFgHe0vEhEWZOE5v73) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [in defense of my own happiness \(the beginnings\)](https://open.spotify.com/album/376qFRUbcROL5XR8jdFzg4) | 2:50 |
+| 46 | [Spotlight](https://open.spotify.com/track/6Vg2zBT0AFSoKhV7L5csFf) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Proof Of Life \(Deluxe\)](https://open.spotify.com/album/30lZLey3bIVaqxlkAnKrg4) | 3:15 |
+| 47 | [smoke](https://open.spotify.com/track/282iiFgHe0vEhEWZOE5v73) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [in defense of my own happiness \(the beginnings\)](https://open.spotify.com/album/376qFRUbcROL5XR8jdFzg4) | 2:50 |
+| 48 | [I Wished On The Moon \(The New Look: Season 1 \(Apple TV+ Original Series Soundtrack\)\)](https://open.spotify.com/track/4zbQAxqxkidxKlnJG88IgU) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [I Wished On The Moon \(The New Look: Season 1 \(Apple TV+ Original Series Soundtrack\)\)](https://open.spotify.com/album/2WU0X6u4eSNd8sLCauvKNL) | 3:34 |
 | 49 | [Who Are You](https://open.spotify.com/track/6hpR4wi9DNXQNSdp63RiiL) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Who Are You](https://open.spotify.com/album/5daVnBVz3xKJCpNdGIbKxa) | 3:52 |
 | 50 | [Blame](https://open.spotify.com/track/5PtVPNgUwUDeN0rWMJDmzp) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Blame](https://open.spotify.com/album/6p8BW3TYnDRWENfV8PwoiV) | 3:35 |
 | 51 | [Animals & Angels](https://open.spotify.com/track/0UIIvj8kMxJCxi831RpS4c) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Carry](https://open.spotify.com/album/0yUV7CmhrBa3a30vrzk3dt) | 4:39 |
 
-Snapshot ID: `ZvyNAAAAAADhZsVvh/36RD6jpZPbSZOF`
+Snapshot ID: `Zv3egAAAAAATCMXzALmhMHiWxTiILLxM`

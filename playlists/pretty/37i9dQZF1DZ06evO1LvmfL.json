@@ -1,12 +1,12 @@
 {
   "description": "This is Teddy Swims. The essential tracks, all in one playlist.",
-  "num_followers": 270503,
+  "num_followers": 271123,
   "original_name": "This Is Teddy Swims",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvyNAAAAAADeFBXwifnzje3ZqEZibrU5",
+  "snapshot_id": "Zv3egAAAAADB4EPiMHxW+adWBqgQb7hC",
   "tracks": [
     {
       "added_at": null,
@@ -207,6 +207,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sleep is Exhausting",
+        "url": "https://open.spotify.com/album/0fc1W53T3llTmKSzRgaj3s"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 180807,
+      "name": "dose",
+      "url": "https://open.spotify.com/track/26ETsbVhx34daSYeBGmvgl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dirty (feat. Teddy Swims)",
         "url": "https://open.spotify.com/album/3AOLCTndOLnlC2jbi71beG"
       },
@@ -223,22 +239,6 @@
       "duration_ms": 173361,
       "name": "Dirty (feat. Teddy Swims)",
       "url": "https://open.spotify.com/track/2ZAEbGGj1yXJRCoVaEn16K"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sleep is Exhausting",
-        "url": "https://open.spotify.com/album/0fc1W53T3llTmKSzRgaj3s"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 180807,
-      "name": "dose",
-      "url": "https://open.spotify.com/track/26ETsbVhx34daSYeBGmvgl"
     },
     {
       "added_at": null,
@@ -767,22 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tough Love",
-        "url": "https://open.spotify.com/album/5DAnXvsWlrq2zTPrjb8rjB"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 198676,
-      "name": "For the Rest of Your Life",
-      "url": "https://open.spotify.com/track/7fz1pTAybj22pbsSiLwugA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Elephant in the Room (feat. Teddy Swims)",
         "url": "https://open.spotify.com/album/26WmAEmGUvMtHOd1emDVgG"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 163672,
       "name": "Elephant in the Room (feat. Teddy Swims)",
       "url": "https://open.spotify.com/track/66c9N3zuJe0mpC1JrJc1u1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tough Love",
+        "url": "https://open.spotify.com/album/5DAnXvsWlrq2zTPrjb8rjB"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 198676,
+      "name": "For the Rest of Your Life",
+      "url": "https://open.spotify.com/track/7fz1pTAybj22pbsSiLwugA"
     },
     {
       "added_at": null,
@@ -835,22 +835,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tough Love",
-        "url": "https://open.spotify.com/album/5DAnXvsWlrq2zTPrjb8rjB"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 178657,
-      "name": "Please Turn Green",
-      "url": "https://open.spotify.com/track/16QJxLYW4UgUnx2yd4mK45"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Night Off",
         "url": "https://open.spotify.com/album/4RC8AQINYpJrohzaxq6gSW"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 202715,
       "name": "Night Off",
       "url": "https://open.spotify.com/track/1Dyxoge6qSmCddVjspic8S"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tough Love",
+        "url": "https://open.spotify.com/album/5DAnXvsWlrq2zTPrjb8rjB"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 178657,
+      "name": "Please Turn Green",
+      "url": "https://open.spotify.com/track/16QJxLYW4UgUnx2yd4mK45"
     },
     {
       "added_at": null,

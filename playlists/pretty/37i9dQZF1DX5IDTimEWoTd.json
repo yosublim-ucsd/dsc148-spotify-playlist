@@ -1,12 +1,12 @@
 {
   "description": "Beautiful songs to give you that warm, fuzzy feeling.",
-  "num_followers": 2636679,
+  "num_followers": 2636940,
   "original_name": "Warm Fuzzy Feeling",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvCMvgAAAAAvbXCzyh1bQSKnheJNZi+U",
+  "snapshot_id": "Zv9oQAAAAAAErMIBMIKOpi409zZJoDnf",
   "tracks": [
     {
       "added_at": "2024-08-12 15:54:12",
@@ -639,6 +639,22 @@
     {
       "added_at": "2024-08-12 15:54:12",
       "album": {
+        "name": "Justice",
+        "url": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 156467,
+      "name": "Off My Face",
+      "url": "https://open.spotify.com/track/3T03rPwlL8NVk1yIaxeD8U"
+    },
+    {
+      "added_at": "2024-08-12 15:54:12",
+      "album": {
         "name": "Different Man",
         "url": "https://open.spotify.com/album/7dfTBn7wtgKEchVmyipBl1"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 174560,
       "name": "Thank God",
       "url": "https://open.spotify.com/track/1brnLTvarI9D1hLP6z2Ar8"
-    },
-    {
-      "added_at": "2024-08-12 15:54:12",
-      "album": {
-        "name": "Justice",
-        "url": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 156467,
-      "name": "Off My Face",
-      "url": "https://open.spotify.com/track/3T03rPwlL8NVk1yIaxeD8U"
     },
     {
       "added_at": "2024-08-12 15:54:12",
@@ -695,22 +695,6 @@
     {
       "added_at": "2024-08-12 15:54:12",
       "album": {
-        "name": "Nicole",
-        "url": "https://open.spotify.com/album/7gK4I6eM9fYJCfq4IeHx1t"
-      },
-      "artists": [
-        {
-          "name": "NIKI",
-          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
-        }
-      ],
-      "duration_ms": 303933,
-      "name": "Take A Chance With Me",
-      "url": "https://open.spotify.com/track/0x7PmByJWVXdeipevd6KZS"
-    },
-    {
-      "added_at": "2024-08-12 15:54:12",
-      "album": {
         "name": "If You Love Her",
         "url": "https://open.spotify.com/album/5hgwPA78vCrhEDaTazNMyR"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 217351,
       "name": "If You Love Her",
       "url": "https://open.spotify.com/track/727Z2S2mtNH46CbP9EWPwY"
+    },
+    {
+      "added_at": "2024-08-12 15:54:12",
+      "album": {
+        "name": "Nicole",
+        "url": "https://open.spotify.com/album/7gK4I6eM9fYJCfq4IeHx1t"
+      },
+      "artists": [
+        {
+          "name": "NIKI",
+          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+        }
+      ],
+      "duration_ms": 303933,
+      "name": "Take A Chance With Me",
+      "url": "https://open.spotify.com/track/0x7PmByJWVXdeipevd6KZS"
     },
     {
       "added_at": "2024-08-12 15:54:12",
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2024-08-12 15:54:12",
       "album": {
+        "name": "Absolutely",
+        "url": "https://open.spotify.com/album/4E691gbRgo2Zb6ToII2DWO"
+      },
+      "artists": [
+        {
+          "name": "Dijon",
+          "url": "https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4"
+        }
+      ],
+      "duration_ms": 184767,
+      "name": "The Dress",
+      "url": "https://open.spotify.com/track/0YMe6PHRbeDcN7KJdCG0bW"
+    },
+    {
+      "added_at": "2024-08-12 15:54:12",
+      "album": {
         "name": "Red (Taylor's Version)",
         "url": "https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9"
       },
@@ -1107,22 +1123,6 @@
       "duration_ms": 240226,
       "name": "Run (feat. Ed Sheeran) (Taylor\u2019s Version) (From The Vault)",
       "url": "https://open.spotify.com/track/4IQkfUsrwXol38VV3U7t7T"
-    },
-    {
-      "added_at": "2024-08-12 15:54:12",
-      "album": {
-        "name": "Absolutely",
-        "url": "https://open.spotify.com/album/4E691gbRgo2Zb6ToII2DWO"
-      },
-      "artists": [
-        {
-          "name": "Dijon",
-          "url": "https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4"
-        }
-      ],
-      "duration_ms": 184767,
-      "name": "The Dress",
-      "url": "https://open.spotify.com/track/0YMe6PHRbeDcN7KJdCG0bW"
     },
     {
       "added_at": "2024-08-12 15:54:12",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2024-08-12 15:54:12",
       "album": {
-        "name": "Speak Now",
-        "url": "https://open.spotify.com/album/5MfAxS5zz8MlfROjGQVXhy"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 352186,
-      "name": "Enchanted",
-      "url": "https://open.spotify.com/track/10eBRyImhfqVvkiVEGf0N0"
-    },
-    {
-      "added_at": "2024-08-12 15:54:12",
-      "album": {
         "name": "In Your Love",
         "url": "https://open.spotify.com/album/2LmPlAxpD5cS5ne6dQvxbc"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 225826,
       "name": "In Your Love",
       "url": "https://open.spotify.com/track/1olWQ1LOUYs4VBwx5N8Lz9"
+    },
+    {
+      "added_at": "2024-08-12 15:54:12",
+      "album": {
+        "name": "Speak Now",
+        "url": "https://open.spotify.com/album/5MfAxS5zz8MlfROjGQVXhy"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 352186,
+      "name": "Enchanted",
+      "url": "https://open.spotify.com/track/10eBRyImhfqVvkiVEGf0N0"
     },
     {
       "added_at": "2024-08-12 15:54:12",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2024-08-12 15:54:12",
       "album": {
-        "name": "I Choose You",
-        "url": "https://open.spotify.com/album/4rbl87dwD8DuREheLUJsyR"
-      },
-      "artists": [
-        {
-          "name": "Forest Blakk",
-          "url": "https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc"
-        }
-      ],
-      "duration_ms": 180040,
-      "name": "I Choose You",
-      "url": "https://open.spotify.com/track/01twL64hJwU3kAiSsUsIVa"
-    },
-    {
-      "added_at": "2024-08-12 15:54:12",
-      "album": {
         "name": "Love You Still (abcdefu romantic version)",
         "url": "https://open.spotify.com/album/1XuLPOSr7B79aSSJdL9MRw"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 150173,
       "name": "Love You Still (abcdefu romantic version)",
       "url": "https://open.spotify.com/track/31fMJwgrgNdk1IbWZEchX2"
+    },
+    {
+      "added_at": "2024-08-12 15:54:12",
+      "album": {
+        "name": "I Choose You",
+        "url": "https://open.spotify.com/album/4rbl87dwD8DuREheLUJsyR"
+      },
+      "artists": [
+        {
+          "name": "Forest Blakk",
+          "url": "https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc"
+        }
+      ],
+      "duration_ms": 180040,
+      "name": "I Choose You",
+      "url": "https://open.spotify.com/track/01twL64hJwU3kAiSsUsIVa"
     },
     {
       "added_at": "2024-08-12 15:54:12",

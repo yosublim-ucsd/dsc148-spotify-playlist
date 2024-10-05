@@ -2,9 +2,9 @@
 
 ### [Millennium Hip\-Hop/R&B: Canada](https://open.spotify.com/playlist/37i9dQZF1DX1tOeW0T94Z0)
 
-> Nothing but precious sounds from the 90s & 2000s\. Cover: Massari
+> Nothing but precious sounds from the 90s & 2000s\. Cover: Jully Black
 
-145 songs - 9 hr 31 min
+146 songs - 9 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [Lost Without U](https://open.spotify.com/track/4V2F0DZrAXOWq9hkwMMG3x) | [Robin Thicke](https://open.spotify.com/artist/0ZrpamOxcZybMHGg1AYtHP) | [The Evolution of Robin Thicke](https://open.spotify.com/album/55ErdDg54WTAEySb0r7yzb) | 4:14 | 2022-07-01 | 2022-12-29 |
 | [Magic Touch \- Extended](https://open.spotify.com/track/1YnpOewGrWskSENwS05FON) | [Robin Thicke](https://open.spotify.com/artist/0ZrpamOxcZybMHGg1AYtHP), [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [Magic Touch](https://open.spotify.com/album/3ulZv9agxM6bBn0cq1dzll) | 3:49 | 2022-09-02 | 2024-04-19 |
 | [Man I Used To Be](https://open.spotify.com/track/1jVudwSMKdHz3Fod2dI5Ma) | [K\-OS](https://open.spotify.com/artist/3EZWlSBWlPsC8lCI2Y36Gl) | [Collected](https://open.spotify.com/album/6uNDNflKRjEjnEESQUQrXT) | 3:43 | 2022-07-01 |  |
+| [McNasty Filth](https://open.spotify.com/track/6bcszExuP00JoOq7I8tN4P) | [Jaylib](https://open.spotify.com/artist/7BWVFnoB7Qy9biFNCoRCMI), [Madlib](https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf), [J Dilla](https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp), [Frank N Dank](https://open.spotify.com/artist/2ZTaLRGGGwQKyO9spJbthl) | [Champion Sound](https://open.spotify.com/album/0zkhTVHYyDMxFdhVCKGNFa) | 2:55 | 2024-10-04 |  |
 | [Mind Over Matter](https://open.spotify.com/track/34tZKRrp49Iox1kcMkBXEU) | [Devon](https://open.spotify.com/artist/6Ly03qEEwW4vIQJDOInukA), [Rated\-R](https://open.spotify.com/artist/0x4UFqj0tCrQwtnjdpMvPM) | [Pressure](https://open.spotify.com/album/2eiHKaQos3omBLYWOZYde4) | 4:03 | 2023-07-20 | 2024-04-19 |
 | [Missed Your Chance](https://open.spotify.com/track/1dzYBoC286S0UpHO4S8FH5) | [Ray Robinson](https://open.spotify.com/artist/4w0YXf91PUV9T1zlTK6yPr) | [Missed Your Chance](https://open.spotify.com/album/7s66TCMuBvl0Qi2usflqk1) | 4:14 | 2024-04-18 |  |
 | [Missed Your Chance](https://open.spotify.com/track/3uVUL7r2Z6kEIurmQURWCL) | [Ray Robinson](https://open.spotify.com/artist/2HSZwphXEa7hKWKnOCN0Dq) | [What It Is.](https://open.spotify.com/album/1xI8g1hZhPF4eBEzwPQl9s) | 4:15 | 2022-08-31 | 2024-04-19 |
@@ -94,7 +95,7 @@
 | [Movie Star](https://open.spotify.com/track/0LeAapYrSVObwOVgT1g2ay) | [Rascalz](https://open.spotify.com/artist/74LVRFFZZEDYha9qZXsPHF) | [Reloaded](https://open.spotify.com/album/4RRmXoHUZKq1rMjYTOkjLM) | 3:33 | 2022-07-01 | 2022-12-29 |
 | [My Definition Of A Boombastic Jazz Style \- Radio Mix](https://open.spotify.com/track/75Cz7AVd6T3PHSnLoqWhh9) | [Dream Warriors](https://open.spotify.com/artist/4FrJKQblIjEyw8rbqYHNpU) | [Black History Month: Funk + Hip\-Hop](https://open.spotify.com/album/0kBDIcvYaIeUrMq8JtkHV2) | 3:38 | 2022-07-01 | 2022-12-29 |
 | [My Definition Of A Boombastic Jazz Style \- Radio Mix](https://open.spotify.com/track/5vmxVtt3hyQQvVnNXJtvJC) | [Dream Warriors](https://open.spotify.com/artist/4FrJKQblIjEyw8rbqYHNpU) | [Danger "The Hip Hop Collection 5"](https://open.spotify.com/album/4jAQqJmuUDVwLrvduYK9vn) | 3:44 | 2022-07-01 | 2022-07-29 |
-| [Nice 2 Meet U \(Original\)](https://open.spotify.com/track/3BfVW09wYHVKbUqT0tvq6D) | [Frank N Dank](https://open.spotify.com/artist/2ZTaLRGGGwQKyO9spJbthl) | [Nice 2 Meet U \('06 Version\) 12"](https://open.spotify.com/album/18hpvcziLJHrKT3vJJclBB) | 3:37 | 2022-08-31 |  |
+| [Nice 2 Meet U \(Original\)](https://open.spotify.com/track/3BfVW09wYHVKbUqT0tvq6D) | [Frank N Dank](https://open.spotify.com/artist/2ZTaLRGGGwQKyO9spJbthl) | [Nice 2 Meet U \('06 Version\) 12"](https://open.spotify.com/album/18hpvcziLJHrKT3vJJclBB) | 3:37 | 2022-08-31 | 2024-10-05 |
 | [Ninety Nine \(Flash the Message\)](https://open.spotify.com/track/1shRBEykFXAQFgnAF02nZ7) | [John Forte](https://open.spotify.com/artist/1damanY48OjG8KZHLdsSNo) | [Poly Sci](https://open.spotify.com/album/7qoINiypl437qPXXGjykGe) | 3:43 | 2022-07-01 |  |
 | [No Regrets](https://open.spotify.com/track/0y48Vn1QnEnD3evUyFRmCz) | [X\-Quisite](https://open.spotify.com/artist/6AdCSR2BYiv4YyHAr2mijR) | [X\-Quisite](https://open.spotify.com/album/1Nht4EBrdySVyoRI6hYuqf) | 3:25 | 2022-08-31 |  |
 | [Nobody's Supposed to Be Here](https://open.spotify.com/track/51QxenFmXlJXUN9mpvxlaL) | [Deborah Cox](https://open.spotify.com/artist/601893mmW5hl1FBOykWZHG) | [One Wish](https://open.spotify.com/album/16FPcGpqQfcvqpCLvZsWWD) | 4:22 | 2022-07-01 | 2022-12-29 |

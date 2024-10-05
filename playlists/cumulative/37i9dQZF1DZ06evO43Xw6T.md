@@ -2,9 +2,9 @@
 
 ### [This Is Gabito Ballesteros](https://open.spotify.com/playlist/37i9dQZF1DZ06evO43Xw6T)
 
-> This Is Gabito Ballesteros\. Los temas esenciales, todos en una lista.
+> This is Gabito Ballesteros\. The essential tracks, all in one playlist.
 
-79 songs - 3 hr 54 min
+80 songs - 3 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,8 @@
 | [Fendi](https://open.spotify.com/track/7oey14Rg8UhqMCQjOp0OST) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Fendi](https://open.spotify.com/album/5aczlIix8ceVTmh7nbmPkb) | 3:00 | 2024-01-29 |  |
 | [La Bolsa Gucci](https://open.spotify.com/track/7KBTLsYW2sI42vdlVP079C) | [miguel cornejo](https://open.spotify.com/artist/67s0oOKE73W45e5UawllhS), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [La Bolsa Gucci](https://open.spotify.com/album/1LMGPTkDnylJGOiojhF11C) | 2:16 | 2024-01-29 |  |
 | [La Fresa](https://open.spotify.com/track/2DzHUSTaK8KWDYjiPuHzPu) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [La Fresa](https://open.spotify.com/album/6o8WsqrJDQBPxG2gxnZIpu) | 2:54 | 2024-01-29 |  |
-| [La Mamoncita del Insta](https://open.spotify.com/track/4Dg3WEqGpBbSu4EKjudiwV) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [La Mamoncita del Insta](https://open.spotify.com/album/4bzLOdILYkhPvhrErSjLxn) | 3:13 | 2024-01-29 |  |
+| [La Mamoncita del Insta](https://open.spotify.com/track/2nNcHQLFf62ArlArXjBaiY) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [La Mamoncita del Insta](https://open.spotify.com/album/4KuUfV5YK4Ru8GHi2V0pB0) | 3:13 | 2024-10-05 |  |
+| [La Mamoncita del Insta](https://open.spotify.com/track/4Dg3WEqGpBbSu4EKjudiwV) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [La Mamoncita del Insta](https://open.spotify.com/album/4bzLOdILYkhPvhrErSjLxn) | 3:13 | 2024-01-29 | 2024-10-05 |
 | [LA NENA](https://open.spotify.com/track/3G1MmrIyPcSJnP6w2xyeXf) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [LA NENA](https://open.spotify.com/album/47qwD2S4QZc1LVWBDxUZdN) | 2:44 | 2024-01-29 | 2024-05-26 |
 | [La Neta Ahí Te Ves](https://open.spotify.com/track/1xzJ1wOqlqPscsIVaEnDwZ) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Remmy Valenzuela](https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX) | [SS23](https://open.spotify.com/album/3lHvL6z4Xy7QNiRFfCMK6S) | 2:05 | 2024-01-29 | 2024-05-26 |
 | [La Niña](https://open.spotify.com/track/1ufvUzb22WGWvNoHecXWZn) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [THE GB](https://open.spotify.com/album/1O51JYs5jdmREsm45dyeGc) | 2:35 | 2024-05-26 | 2024-05-27 |

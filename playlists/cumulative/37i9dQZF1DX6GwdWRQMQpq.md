@@ -2,9 +2,9 @@
 
 ### [Feelin' Myself](https://open.spotify.com/playlist/37i9dQZF1DX6GwdWRQMQpq)
 
-> The hip\-hop playlist that's a whole mood\. Art By Laci Jordan; Cover: Saweetie
+> The hip\-hop playlist that's a whole mood\. Art By Laci Jordan; Cover: Cardi B
 
-588 songs - 1 day 2 hr 32 min
+589 songs - 1 day 2 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,7 +152,7 @@
 | [Diamond in the Rough](https://open.spotify.com/track/7o4YKb7XhbLGvzJ7CXrkHD) | [Queen Key](https://open.spotify.com/artist/3IhYHKVt0Q9vxCCwiCHahR) | [Diamond in the Rough](https://open.spotify.com/album/0OyiVMDfxkwIfXn5U32iWn) | 2:31 | 2022-12-02 | 2022-12-17 |
 | [Diamond in the Rough \- Remix](https://open.spotify.com/track/5w1e87MPoDZnDufw2Hxt6Z) | [Queen Key](https://open.spotify.com/artist/3IhYHKVt0Q9vxCCwiCHahR), [Gloss Up](https://open.spotify.com/artist/7eDFwYpqsAROCZibWYr5C1) | [Diamond in the Rough \(Remix\)](https://open.spotify.com/album/4FkOrfQaU4WwZgf94uBzGL) | 2:07 | 2023-01-13 | 2023-01-21 |
 | [Did It First \(with Central Cee\)](https://open.spotify.com/track/57lsYy0OZLNb5OQ7fEa3Hs) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Did It First \(with Central Cee\)](https://open.spotify.com/album/1SiWjniEb94wSFZ5YjZDHr) | 1:58 | 2024-07-12 |  |
-| [Different Color Stones](https://open.spotify.com/track/5KsQoGiUey27gt0topwkz4) | [TiaCorine](https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW) | [Different Color Stones](https://open.spotify.com/album/2qYEpKKguukYifo8ksbxcl) | 2:21 | 2024-09-20 |  |
+| [Different Color Stones](https://open.spotify.com/track/5KsQoGiUey27gt0topwkz4) | [TiaCorine](https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW) | [Different Color Stones](https://open.spotify.com/album/2qYEpKKguukYifo8ksbxcl) | 2:21 | 2024-09-20 | 2024-10-05 |
 | [DILEMMA](https://open.spotify.com/track/6NWFWNjsFTQVno7hwkKqFh) | [Azealia Banks](https://open.spotify.com/artist/7gRhy3MIPHQo5CXYfWaw9I) | [DILEMMA](https://open.spotify.com/album/1wOUp25BDqFPJrC8fgImy1) | 2:07 | 2023-10-27 | 2023-11-18 |
 | [Diva](https://open.spotify.com/track/3DUkMATtjCLnic8KjPgx66) | [Princess Nokia](https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL) | [Diva](https://open.spotify.com/album/2nOhBMGUd7zru4hDhlV1ih) | 3:27 | 2022-06-10 | 2022-09-17 |
 | [Diva \(feat\. Emilia\)](https://open.spotify.com/track/0Be0IFTqpOBkJeGQYaXvY6) | [Princess Nokia](https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Diva \(feat\. Emilia\)](https://open.spotify.com/album/74e4WmTJM2riGEO94bnG6i) | 3:35 | 2022-08-05 | 2022-10-15 |
@@ -250,7 +250,7 @@
 | [Hey, Mickey!](https://open.spotify.com/track/7r6uppLBApzJPMpDmdFoi4) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Hey, Mickey!](https://open.spotify.com/album/1Qpd1fT9Vgp2uuuZ533By0) | 2:53 | 2023-03-24 | 2024-03-09 |
 | [HISS](https://open.spotify.com/track/79AHPJd8upvNxyK2qQcY8J) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [HISS](https://open.spotify.com/album/2QfxtFVJK1qh8pj2DEFHlA) | 3:12 | 2024-01-26 | 2024-09-14 |
 | [Hoe Please](https://open.spotify.com/track/7F5arGBPyG6QnYNwB1Cc8i) | [Erica Banks](https://open.spotify.com/artist/2SXhbucehn00OBVKhzxDyM) | [Hoe Please](https://open.spotify.com/album/2fkpDFhCAihdVOb4GXPhpH) | 2:22 | 2024-08-09 | 2024-08-31 |
-| [Hollon](https://open.spotify.com/track/6XVkJ1fM7NkjODPYI7QbAM) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Hollon](https://open.spotify.com/album/1HCjvCCMusvjNzYWW0p60D) | 2:08 | 2024-09-20 |  |
+| [HOLLON](https://open.spotify.com/track/6XVkJ1fM7NkjODPYI7QbAM) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Hollon](https://open.spotify.com/album/1HCjvCCMusvjNzYWW0p60D) | 2:08 | 2024-09-20 |  |
 | [Hood Rats \(with Sukihana\)](https://open.spotify.com/track/3bdyyYQ9Ykldt7XOgxWNQY) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [Sukihana](https://open.spotify.com/artist/3EJmmU8C3pk268dP7IbOt7) | [Hood Rats \(with Sukihana\)](https://open.spotify.com/album/1dkqNDedqxeSUyFnmHL8Nx) | 2:55 | 2023-08-21 | 2023-09-16 |
 | [Hot Girl Maybach](https://open.spotify.com/track/5UHGNDDDc7XxGsF6ZcQs9I) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Hot Girl Maybach](https://open.spotify.com/album/7nVTJT6oLE0KEZ7KspkxjC) | 2:20 | 2024-09-20 |  |
 | [Hot Shit \(feat\. Ye & Lil Durk\)](https://open.spotify.com/track/3uJFmluXzYedoJcvhpC1AW) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Hot Shit \(feat\. Ye & Lil Durk\)](https://open.spotify.com/album/2qTIltFPwJzsyssGeOwdRO) | 3:31 | 2022-07-01 | 2023-03-25 |
@@ -589,6 +589,7 @@
 | [WOULD YOU?](https://open.spotify.com/track/4375FaARAe3R3PMzdIdtKS) | [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [After 7](https://open.spotify.com/album/3jMiuPdLcZ3svm5u2hSmnj) | 2:35 | 2024-05-31 | 2024-06-15 |
 | [Wrong One \(with Gloss Up & Slimeroni feat\. K Carbon, Aleza, Tay Keith\)](https://open.spotify.com/track/52WoZbGVLrEW0w6AGT9wNS) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Gloss Up](https://open.spotify.com/artist/7eDFwYpqsAROCZibWYr5C1), [Slimeroni](https://open.spotify.com/artist/1aSHAWLQKX1Ln5yoHh8mTq), [CMG The Label](https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA), [K Carbon](https://open.spotify.com/artist/5LxoXQBUoD5oftz6xQLv9y), [Aleza](https://open.spotify.com/artist/0cTIgkgGfLEoAAKV7tJnRz), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [Wrong One \(with Gloss Up & Slimeroni feat\. K Carbon, Aleza, Tay Keith\)](https://open.spotify.com/album/0TkJa6iqDtjK4ojpfO8PwG) | 2:57 | 2023-09-08 | 2024-01-20 |
 | [WYA](https://open.spotify.com/track/1xQuEUlBKgx3VbLlyQU637) | [Tay Money](https://open.spotify.com/artist/6R6EfP43F8ZuMcilsE4zs7), [Hitkidd](https://open.spotify.com/artist/5pR1zWq3UPsOpW1pTWayLf) | [WYA](https://open.spotify.com/album/2TARZXvled2I0ZyGxD1mWf) | 2:10 | 2024-09-13 | 2024-09-28 |
+| [Yea Yea](https://open.spotify.com/track/2VIJ6TJoMNc0KeXgrCUSLu) | [STAR BANDZ](https://open.spotify.com/artist/5qhDQveADDnjIZQ85AtgDM) | [Yea Yea](https://open.spotify.com/album/32kB87vZ7B8xYXjM3i4B3h) | 2:01 | 2024-10-04 |  |
 | [Yeah B\*tch \(feat\. DaBaby\)](https://open.spotify.com/track/3zT7dmfVjHOMXnUgPl0AQe) | [Kayykilo](https://open.spotify.com/artist/0gh7zTXiSZH7MQ7OrHy0SG), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Yeah B\*tch \(feat\. DaBaby\)](https://open.spotify.com/album/1eWVV8w19pY6yzdxu01DAS) | 2:12 | 2021-10-29 | 2022-02-05 |
 | [Yeah Glo!](https://open.spotify.com/track/0SdBkFh6u5IHIXqlBu0NyI) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Yeah Glo!](https://open.spotify.com/album/4C6tr5dhwjMXTLkWL86Rqa) | 2:22 | 2024-02-09 |  |
 | [You \(feat\. Bryson Tiller\)](https://open.spotify.com/track/6TkH5GHcf1U8kfqTkMFsau) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [You \(feat\. Bryson Tiller\)](https://open.spotify.com/album/7DMxs55TJunN8qsvbGDBXl) | 2:41 | 2023-09-22 | 2024-06-08 |

@@ -2,9 +2,9 @@
 
 ### [RADAR PAKISTAN](https://open.spotify.com/playlist/37i9dQZF1DWU6NlIeT95t9)
 
-> Meet the future\.  Cover: Umair
+> Meet the future\.  Cover: Natasha Noorani
 
-102 songs - 5 hr 37 min
+103 songs - 5 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [Saazish](https://open.spotify.com/track/0rIFaLZnR5zy1AAxQOV4kA) | [Ali Alvi](https://open.spotify.com/artist/07cs9v2qoU2I5sshqk56Fz) | [Saazish](https://open.spotify.com/album/7k07DkXFCBMGlWfbeB7iwf) | 3:34 | 2023-11-29 | 2024-04-19 |
 | [Saazish](https://open.spotify.com/track/17251D1EDAoyd0pQFMG7y5) | [Ali Alvi](https://open.spotify.com/artist/07cs9v2qoU2I5sshqk56Fz) | [Saazish](https://open.spotify.com/album/1xZxe1HTPiMJlKZ5NJATpc) | 3:34 | 2023-07-31 |  |
 | [Saddiyan](https://open.spotify.com/track/0qoORzqrSxpIvREz58ugkW) | [Soch the Band](https://open.spotify.com/artist/1Z6C3R1dyF4aTvBofGXGfp), [Rabi Ahmed](https://open.spotify.com/artist/7o7GKafH7LeVDLVzl2kTsn), [Adnan Dhool](https://open.spotify.com/artist/4XTiRlcZr4ACFHAXgV34Sc) | [Saddiyan](https://open.spotify.com/album/6g27JelkjIlYYVfGY3Jbaq) | 2:49 | 2023-07-31 |  |
+| [Safar](https://open.spotify.com/track/0q4442eIt44kTWEhkoTlh8) | [Bayaan](https://open.spotify.com/artist/3atMq790wQ7IqjeSO0HFeP), [Sherazam](https://open.spotify.com/artist/36BLIKK4GrUzHNiM1t5dqN) | [Safar](https://open.spotify.com/album/6E5pORwJWiSggsnzD1yWfU) | 3:36 | 2024-10-04 |  |
 | [Sahara](https://open.spotify.com/track/2wixiINOjX8L2ciIkLmnia) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Shamsher Rana](https://open.spotify.com/artist/77XstydhnCGfW4wfVm3RRk), [Varqa Faraid](https://open.spotify.com/artist/58Sy8Jc3tHOFT5KLBgr8Xp) | [1 2 3 4 5](https://open.spotify.com/album/41NSZy9hW6WWrHYpIqyH0a) | 2:58 | 2024-08-16 |  |
 | [SAHI HO](https://open.spotify.com/track/1Y5WFyPuEzuBXx8qC76iNW) | [JJ47](https://open.spotify.com/artist/1SlrUQlFRfExXSCkHsQgBc) | [SAHI HO](https://open.spotify.com/album/2xFigGgtJ8yE66lC6hPs8H) | 2:41 | 2023-07-31 | 2024-07-23 |
 | [SAHI HO](https://open.spotify.com/track/7klqQjK3sKkxN9zDUEvyLS) | [JJ47](https://open.spotify.com/artist/1SlrUQlFRfExXSCkHsQgBc) | [SAHI HO](https://open.spotify.com/album/4haO3WH3xLa7aRkciThjQ1) | 2:41 | 2024-02-23 | 2024-04-19 |

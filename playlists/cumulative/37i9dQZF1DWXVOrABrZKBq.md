@@ -2,9 +2,9 @@
 
 ### [Rap francophone](https://open.spotify.com/playlist/37i9dQZF1DWXVOrABrZKBq)
 
-> Le rap francophone est en forme\. Photo: Tiakola
+> Le rap francophone est en forme\. Photo: SDM
 
-199 songs - 10 hr 16 min
+200 songs - 10 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [BALLE DANS LE COEUR](https://open.spotify.com/track/42koItqq5r5ZoXj8TTt36D) | [Ikaz Boi](https://open.spotify.com/artist/1h0vYLWMAElSWYCjm6RBpe), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [BRUT4L](https://open.spotify.com/album/7FOTaCV4JRGvOazWA0dcfC) | 2:40 | 2023-10-13 | 2024-07-13 |
 | [Bando](https://open.spotify.com/track/6cdv3hsd42vgkyGloyPSRl) | [Cupidon](https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV), [Tizzo](https://open.spotify.com/artist/0NAWq4CW7DxGwgIm1Ock5C) | [Bando](https://open.spotify.com/album/12ETKZ6rG26pNR4J7m3nfv) | 3:12 | 2023-10-20 | 2024-07-27 |
 | [Bang](https://open.spotify.com/track/1Cam8hAddVp0uNaUMhUxXD) | [Rymz](https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu) | [Bang](https://open.spotify.com/album/2RFXO4vDJzbIp8zHw2YuIV) | 3:47 | 2024-07-12 |  |
-| [barcelona92](https://open.spotify.com/track/0ex0EZnrO2mMPIkYp3ewZX) | [Green Montana](https://open.spotify.com/artist/0zhMujl1yB8pkB023Qm4Y2), [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [SAUDADE](https://open.spotify.com/album/5ORwfRIZBQiJ1dQ2cQDIFO) | 2:52 | 2024-06-14 |  |
+| [barcelona92](https://open.spotify.com/track/0ex0EZnrO2mMPIkYp3ewZX) | [Green Montana](https://open.spotify.com/artist/0zhMujl1yB8pkB023Qm4Y2), [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [SAUDADE](https://open.spotify.com/album/5ORwfRIZBQiJ1dQ2cQDIFO) | 2:52 | 2024-06-14 | 2024-10-05 |
 | [Belle](https://open.spotify.com/track/1GTwuwkt4hejBcymq849Cg) | [QCLTUR](https://open.spotify.com/artist/1MIeDvwSEypeVjyu3buPFx), [Rosalvo](https://open.spotify.com/artist/6AWsl1xDv2sVXnWjBPgR7q), [Boris levrai](https://open.spotify.com/artist/44MDXreyQDVfctriHR8TgN) | [QCLTUR](https://open.spotify.com/album/4bHZOMo5sjb7SrSvaevvKy) | 3:18 | 2023-03-03 | 2023-07-15 |
 | [Big Pharma](https://open.spotify.com/track/2HhKYAgFjRf63cXqSMMr5w) | [Yes\*](https://open.spotify.com/artist/4jZA2jnUB8cz6EgOto9sMS), [Hubert Lenoir](https://open.spotify.com/artist/0TZ8Slkdu2G6nobZiDsNEj), [Prinzly](https://open.spotify.com/artist/6CecCbMlZKpr8sovW5ucq1) | [Club des Coeurs Solitaires](https://open.spotify.com/album/1D3Pv7udHK5UQ8OTj748qo) | 4:35 | 2023-12-08 | 2024-03-23 |
 | [Black Card](https://open.spotify.com/track/5ejzQ4vFa8FQkHT6qcCBmd) | [Raccoon](https://open.spotify.com/artist/7nzgBxjw2Co88MGWjMnl4c) | [Black Card](https://open.spotify.com/album/20KFfsB3DWh2V2i2DHqvhc) | 3:46 | 2023-03-03 | 2023-06-24 |
@@ -151,6 +151,7 @@
 | [Piranha \(feat\. Vacra\)](https://open.spotify.com/track/74x0GjLf1nolNFBYY8gddI) | [Nahir](https://open.spotify.com/artist/3x3gsBtmPOSQVqdBzO7N5E), [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu) | [Piranha \(feat\. Vacra\)](https://open.spotify.com/album/3Xbe6mnLoyn78J25dsXgwK) | 2:35 | 2023-06-23 | 2023-06-26 |
 | [Pont Champlain](https://open.spotify.com/track/2Gqd3aQoirH3bwRytPhnpC) | [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b) | [Pont Champlain](https://open.spotify.com/album/1fumWxp522ocJH8odkks3L) | 3:30 | 2023-03-17 | 2023-08-12 |
 | [PORT D'ARME](https://open.spotify.com/track/3RdzJ2qCGDEFkSGe9jFgCJ) | [Enima](https://open.spotify.com/artist/47cHAE0NFwzGOlc3L4oszT), [RK](https://open.spotify.com/artist/2s7fZ34RK8RUJQ2ewsh6I5) | [DZ D’AMERIQUE](https://open.spotify.com/album/6AYsObXMfjrgj5qaH4zLRA) | 3:02 | 2024-04-19 | 2024-06-29 |
+| [POUR ELLE](https://open.spotify.com/track/5jX61gvbNenSDMldQrbtsU) | [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [A LA VIE A LA MORT](https://open.spotify.com/album/22NwdsP47PnWsA58u3z7S9) | 2:59 | 2024-10-04 |  |
 | [Prequel](https://open.spotify.com/track/0y2JXGqNraYN2gbnSLguWk) | [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [JVLIVS Prequel : Giulio](https://open.spotify.com/album/4xR5GFngZglie60Cc3DvoS) | 3:30 | 2024-06-14 |  |
 | [Prime](https://open.spotify.com/track/7E9hKUhfpbm4CNnlSdP407) | [Loud](https://open.spotify.com/artist/5DXzQwj6Kgr5kBjVlYdSHo), [EDGE](https://open.spotify.com/artist/0ZCX1rGywF2LATUUCq0nOg) | [Prime](https://open.spotify.com/album/2Nd1U9DsZdDmTYbjuQ7ZwP) | 2:58 | 2024-01-19 |  |
 | [Protéger et Servir](https://open.spotify.com/track/3CsD5Pl7fVItNzxuQ5rwYm) | [Raccoon](https://open.spotify.com/artist/7nzgBxjw2Co88MGWjMnl4c) | [Protéger et Servir](https://open.spotify.com/album/4J4K8pPTI4ruWL5wAhJv8e) | 3:23 | 2024-04-19 | 2024-07-13 |

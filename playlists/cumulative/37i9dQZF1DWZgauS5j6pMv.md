@@ -4,7 +4,7 @@
 
 > The best of today's funk\. Cover: MonoNeon
 
-451 songs - 1 day 2 hr 31 min
+452 songs - 1 day 2 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,6 +139,7 @@
 | [Funk Ain't Ova](https://open.spotify.com/track/5v5NO8ME6meZ9HAehiQ1Av) | [Brooklyn Funk Essentials](https://open.spotify.com/artist/4r4tRC1EUpfUCLjwQXP5EA), [Alison Limerick](https://open.spotify.com/artist/0ELXBCSsRl2m92MgnOsA69), [Desmond Foster](https://open.spotify.com/artist/3qqFMYoELTj4g9yzuQEALf) | [Stay Good](https://open.spotify.com/album/08Nm6oGGiZT2dbaCUsRJG5) | 3:51 | 2020-11-20 | 2022-04-09 |
 | [Funk Money](https://open.spotify.com/track/1Y5VqpjzxCSMNYpT81LvBt) | [Marcel Vogel](https://open.spotify.com/artist/58cSkLlJKQgbPGKph5569D), [LYMA](https://open.spotify.com/artist/5RlTfdqlSGGASLxhDAHYtP) | [Games Change](https://open.spotify.com/album/6YhSgWYRG0Z2543CY3gtjv) | 4:35 | 2023-03-24 | 2023-11-04 |
 | [Funk Olympics](https://open.spotify.com/track/7v1WsgCocJ5tLwDXqllQ8n) | [JORDANN](https://open.spotify.com/artist/1qlafOeHOtRUZR4AOxlOkF) | [Funk Olympics](https://open.spotify.com/album/3agMx8gTl9bBWasc3sbSo9) | 3:18 | 2021-07-30 | 2022-08-27 |
+| [FYMB \(Free Your Mind Baby\)](https://open.spotify.com/track/7fY9syk6ncZMGwCzNOLGMI) | [Outasight](https://open.spotify.com/artist/1zuG3w1Zgeou53fb3Vu3bO) | [FYMB \(Free Your Mind Baby\)](https://open.spotify.com/album/5pBglwuuUxAtlXGQsB0SBj) | 2:15 | 2024-10-04 |  |
 | [Get Down](https://open.spotify.com/track/3QWAJIKolXy48uNu5Arms2) | [Freekbass](https://open.spotify.com/artist/1abdeL1cpNSTlJp5NQchch) | [Get Down](https://open.spotify.com/album/3AqLlB80sloKlgipS9UJ1z) | 2:35 | 2021-05-28 | 2022-01-29 |
 | [GET DOWN](https://open.spotify.com/track/3zylRjS84s0SgiB72bvxR0) | [Marlon McClain](https://open.spotify.com/artist/4koQLefRqeoEQcHYt4lMKq), [BD3](https://open.spotify.com/artist/7HXr3w238HsQoQInMLxosZ) | [GET DOWN](https://open.spotify.com/album/0tWjDz7dJv6Hrh2J4vO8eZ) | 1:39 | 2021-09-17 | 2022-09-03 |
 | [Get Down](https://open.spotify.com/track/15tuK1pTwQdy3GQH0OaBJ8) | [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q) | [Don't Forget to Look Up](https://open.spotify.com/album/5tjk1ytGtD0o0uSS52VkeK) | 3:13 | 2022-01-28 | 2022-11-12 |
@@ -249,7 +250,7 @@
 | [lockdown](https://open.spotify.com/track/6JvM4RyaFmEdiV58dpv1Jr) | [GARDENA](https://open.spotify.com/artist/0HjFA96a8v0dDyN58HGhrB), [Ethan Dufault](https://open.spotify.com/artist/5c7oIOloT3runmK9YMayzJ) | [lockdown](https://open.spotify.com/album/6ZgBNr3doJZ1IIWjB9snwZ) | 3:21 | 2023-02-24 | 2024-03-30 |
 | [Lockstep](https://open.spotify.com/track/7y6fgrmnX6HF4pbyQugSTQ) | [Family Company](https://open.spotify.com/artist/68TMIdW3csuFrzKleLKrM0), [MacKenzie](https://open.spotify.com/artist/7boixvIKSl9OEnvnsJNws6) | [Lockstep](https://open.spotify.com/album/5iH6tJElNHGHMrUEmpgs6j) | 5:18 | 2023-09-08 | 2024-05-25 |
 | [Lola](https://open.spotify.com/track/5wncqbdGEyrmowwIGddZCs) | [Nic Hanson](https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc) | [Lola](https://open.spotify.com/album/2eMcFHmOIAepZqmlt15wOY) | 3:32 | 2024-05-17 | 2024-07-06 |
-| [Look Around](https://open.spotify.com/track/4cH9h6nvtxYNo450VXEo1s) | [Dux](https://open.spotify.com/artist/4KhjcdYNau3U89mU0hLuqr), [Moorea Masa & the Mood](https://open.spotify.com/artist/4Hs0J7IFJzXGJLhnytbCfR), [Swatkins](https://open.spotify.com/artist/0HnF3y5xRlNr6eGQmFZgjP) | [Look Around](https://open.spotify.com/album/6ttL4crGEJOfpcIiEVQFmM) | 3:41 | 2024-03-22 |  |
+| [Look Around](https://open.spotify.com/track/4cH9h6nvtxYNo450VXEo1s) | [Dux](https://open.spotify.com/artist/4KhjcdYNau3U89mU0hLuqr), [Moorea Masa & the Mood](https://open.spotify.com/artist/4Hs0J7IFJzXGJLhnytbCfR), [Swatkins](https://open.spotify.com/artist/0HnF3y5xRlNr6eGQmFZgjP) | [Look Around](https://open.spotify.com/album/6ttL4crGEJOfpcIiEVQFmM) | 3:41 | 2024-03-22 | 2024-10-05 |
 | [Look At Me](https://open.spotify.com/track/3MmyrLEMNBwGicrY8x7jTs) | [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU), [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa) | [Look At Me](https://open.spotify.com/album/4W0Gyfy905bzv92GLkyoat) | 3:53 | 2023-05-23 |  |
 | [Look In The Mirror](https://open.spotify.com/track/6rwRf8DFQsadNxevwfUcSX) | [Dabeull](https://open.spotify.com/artist/7sw3xJMTpdcpfssx17hfrb), [Reva DeVito](https://open.spotify.com/artist/00jACgDWIBdPM4eH8nORwz) | [Analog Love](https://open.spotify.com/album/5g9mJsxT9wg3SyBbeAPUmx) | 4:13 | 2024-04-12 |  |
 | [Lost And Found](https://open.spotify.com/track/29Ll2LiajriSkFHX3SIgK2) | [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [Adult Contemporary](https://open.spotify.com/album/3QtPRkz8qZRSxy0slIW1Ea) | 3:34 | 2024-02-16 |  |

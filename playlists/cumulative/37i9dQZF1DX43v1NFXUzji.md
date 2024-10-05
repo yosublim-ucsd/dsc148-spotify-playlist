@@ -4,7 +4,7 @@
 
 > Latin music bangers for your gaming session! Bad Bunny on cover
 
-671 songs - 1 day 13 hr 13 min
+672 songs - 1 day 13 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,7 +138,7 @@
 | [Cuando Te Toca](https://open.spotify.com/track/6N5kayELaZsZUOwW9uCBU2) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Resistencia](https://open.spotify.com/album/5xefnzEqKIWnmTWYFzekGZ) | 2:56 | 2023-04-03 | 2024-04-30 |
 | [Cuarentena](https://open.spotify.com/track/3NzO25bvpU4lUf8kYvcrd1) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Cuarentena](https://open.spotify.com/album/6gNn20ucl04E91XvLdMc1Z) | 2:11 | 2022-01-01 | 2022-07-29 |
 | [CUENTA](https://open.spotify.com/track/57JxDNtEe4iDhKFiwQT6Uo) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [CUENTA](https://open.spotify.com/album/4HKm0BAbVpTdwb1dru6uem) | 2:36 | 2021-12-16 | 2022-04-21 |
-| [Cuerpecito](https://open.spotify.com/track/79euszUrA1kga1kK5PRmDo) | [JHAYCO](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [Cuerpecito](https://open.spotify.com/album/10C7yBcN3lezb79Dcznwad) | 3:15 | 2023-04-03 |  |
+| [Cuerpecito](https://open.spotify.com/track/79euszUrA1kga1kK5PRmDo) | [JHAYCO](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [Cuerpecito](https://open.spotify.com/album/10C7yBcN3lezb79Dcznwad) | 3:15 | 2023-04-03 | 2024-10-05 |
 | [Cupido](https://open.spotify.com/track/2xVcCDRgG3TrH69TatsUxp) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Cupido](https://open.spotify.com/album/3j0DrBixQhCQCucPr8hC13) | 2:54 | 2023-04-03 |  |
 | [Curazao](https://open.spotify.com/track/2gMau9LsRZtWOrq5cBGywB) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Chael Produciendo](https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Curazao](https://open.spotify.com/album/6uzezSBR2loiWEjeRFu8VM) | 3:59 | 2021-12-16 | 2023-04-04 |
 | [cómo dormiste?](https://open.spotify.com/track/3fjN3y5x4hN53rykAN2LHQ) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [cómo dormiste?](https://open.spotify.com/album/2jt6z03JV7Ax8ZdlOrs9BK) | 1:52 | 2023-04-03 |  |
@@ -281,6 +281,7 @@
 | [Jordan](https://open.spotify.com/track/2rDZhKnPaPG054ExZ6nXUS) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Jordan](https://open.spotify.com/album/1GuZxmifdAu3zq2189iT5M) | 2:56 | 2022-04-29 | 2022-07-29 |
 | [Jordan](https://open.spotify.com/track/6y8z28epOv5FlaxDv1Lo5B) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Jordan](https://open.spotify.com/album/5NXNrP5J2LhfkbI9ZfcNXI) | 2:56 | 2022-06-08 | 2023-04-04 |
 | [JS4E](https://open.spotify.com/track/5iaFGC7XdmWmfwxV9JUPY6) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [JS4E](https://open.spotify.com/album/1SKRBnPekNhaxB503BgR8U) | 3:57 | 2023-04-03 | 2024-02-03 |
+| [kada viernes](https://open.spotify.com/track/3O6MKCzDzI4Vj7Ij24oEp3) | [KUINA](https://open.spotify.com/artist/2fjInVWSawW5FUnXd3QLqb), [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE), [Ovyze](https://open.spotify.com/artist/4jzpU8H3P6UJYFUWwwwCx4) | [kada viernes](https://open.spotify.com/album/4z9SHcq8ON6c6w9dUUbd20) | 3:12 | 2024-10-04 |  |
 | [Katteyes \| Omar Algo Anda Mal \#7](https://open.spotify.com/track/73PfF0cZt7xpsZdHQjE9Qp) | [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU), [Katteyes](https://open.spotify.com/artist/4kKazhy9tDfOgKSWm5g3F9) | [Katteyes \| Omar Algo Anda Mal \#7](https://open.spotify.com/album/5CXsMBF7dfS7c7wMqNpZrk) | 2:32 | 2023-10-20 | 2023-10-28 |
 | [Kemba Walker](https://open.spotify.com/track/38kLHBjtWJaPXcyFhwRVtI) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Kemba Walker](https://open.spotify.com/album/0vHmXJNuSKs3Tbgt811AMe) | 2:32 | 2023-06-02 |  |
 | [Kemba Walker](https://open.spotify.com/track/4jhHaLksdP8DJZzxYAjOSz) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Sauce Boyz](https://open.spotify.com/album/2JwUsV3QP7FMWx1Fzt6dHQ) | 2:32 | 2021-12-16 | 2023-04-04 |

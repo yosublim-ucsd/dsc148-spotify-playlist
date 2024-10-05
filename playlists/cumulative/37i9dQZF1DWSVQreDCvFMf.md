@@ -4,12 +4,13 @@
 
 > Mga bago at lumilitaw sa mundo ng OPM\. Cover: Cup of Joe
 
-168 songs - 10 hr 41 min
+174 songs - 11 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | ['Di Bale Na Lang](https://open.spotify.com/track/3pSEi2X7aUdBwLlx8iffjX) | [I Belong to the Zoo](https://open.spotify.com/artist/7tKpXx21KVUOR6vvDs6xtg) | ['Di Bale Na Lang](https://open.spotify.com/album/612S8FDN4b3o6kZJXD1kW6) | 4:05 | 2024-07-02 | 2024-09-07 |
 | ['Di Na Posible](https://open.spotify.com/track/5dVLtXuGXzaFBoAiwE6YZU) | [Similar Sky](https://open.spotify.com/artist/5v3Pm6onpGC3AHLCO6Da45) | ['Di Na Posible](https://open.spotify.com/album/5izTM1H44RMmfFiEG1urbC) | 4:35 | 2024-07-02 | 2024-08-24 |
+| ['Di Naman](https://open.spotify.com/track/4Wmi7Sy5S9jjsw9rJ5t9Yk) | [dwta](https://open.spotify.com/artist/1UwnrHfh8Kd8Y8Ax8a3qWy) | ['Di Naman](https://open.spotify.com/album/3RhTarxAG6Gc5jQXESwlZq) | 4:25 | 2024-10-04 |  |
 | [1999](https://open.spotify.com/track/2VPFmPbdgKbU2FJ2caXMC5) | [JOSH CULLEN](https://open.spotify.com/artist/3xn2W0ziGURPYJj372a6jQ) | [1999](https://open.spotify.com/album/2CvhO76IfFWsRXyMjDoqj4) | 3:33 | 2024-09-06 |  |
 | [7:07 \(Hay Buhay\)](https://open.spotify.com/track/5KesauCcOmAPJNUBPB3I3y) | [Kai Buizon](https://open.spotify.com/artist/5E0ONvPoq9Y6C6BI0uz430) | [7:07 \(Hay Buhay\)](https://open.spotify.com/album/37Dhm53dSWWKUAO21BD2Mn) | 3:10 | 2024-07-02 | 2024-07-19 |
 | [A Tale of Us](https://open.spotify.com/track/5fCd7HfQzCDWplEJMaVr5O) | [Huni](https://open.spotify.com/artist/00ZKfj5ZkA4F4KvipCDZQc) | [A Tale of Us](https://open.spotify.com/album/0LEvapJu0hYIKtKo7Ak1JM) | 4:12 | 2024-07-02 | 2024-07-13 |
@@ -43,7 +44,9 @@
 | [edsa](https://open.spotify.com/track/64p2tRd4zsBsJUucEnfWrX) | [PABLO](https://open.spotify.com/artist/7wY8cwtF13xDJIHO7htMNk) | [edsa](https://open.spotify.com/album/5CZgNybZewlmzA8aS9h21y) | 3:28 | 2024-07-02 | 2024-08-03 |
 | [EL CHAPO](https://open.spotify.com/track/2DbrW7nxlnFEPTPB1rEsbr) | [Kristina Dawn](https://open.spotify.com/artist/5Two5JCWeQdaAbGKUFQx8d) | [EL CHAPO](https://open.spotify.com/album/5UTVGVCRmc1DU24M5Fu93Q) | 2:56 | 2024-07-19 |  |
 | [Euphoria](https://open.spotify.com/track/6ZqRDyqdQXyUmJBbBTvH8g) | [The Ridleys](https://open.spotify.com/artist/03KZ3tIgA3DSCU4o8PahVG) | [All These and More](https://open.spotify.com/album/7kJi6tJj8GvOoBdhttiO6x) | 3:29 | 2024-08-23 |  |
+| [Favorite Song](https://open.spotify.com/track/6pb9teTllbc7fiDrj4FqjM) | [Jason Dhakal](https://open.spotify.com/artist/7Hb2cm4pIeCUKwfzutKyjp), [DENȲ](https://open.spotify.com/artist/23TaZ3Av1DTes3E8aO2QsZ) | [Favorite Song](https://open.spotify.com/album/7KZALqdD9hM0Fq5eeauP5r) | 3:17 | 2024-10-04 |  |
 | [Feel This Way](https://open.spotify.com/track/5VqFa9E5BNTBsDd7uKE5R0) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [Feel This Way](https://open.spotify.com/album/0v5fmGTPGUHJR1tq8x0r3W) | 3:50 | 2024-07-02 | 2024-08-03 |
+| [Foolish](https://open.spotify.com/track/6CBECmTOulQcPCw3ufGtNk) | [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22) | [II: The second](https://open.spotify.com/album/5OWcchm5l2CZDOeJnL5oqw) | 3:44 | 2024-10-04 |  |
 | [FOOLISHLY](https://open.spotify.com/track/7Ei0sWKIjUA1Q5DlWAlhab) | [Lucas Miguel](https://open.spotify.com/artist/0iXMbg56YghBO3Fx2dZFwA), [Athena Gail](https://open.spotify.com/artist/7B2olqCA3cYn1IrKE13V5F) | [FOOLISHLY](https://open.spotify.com/album/7IawnKqyCJY4JXRp7PcQ0E) | 3:12 | 2024-07-02 | 2024-07-09 |
 | [Fruitcake \- From "Fruitcake"](https://open.spotify.com/track/6RMAZ62wCGBCoY7q86SkrH) | [Yeng Constantino](https://open.spotify.com/artist/0DnjaQqb436AH1idffI6CQ) | [Fruitcake \(From "Fruitcake"\)](https://open.spotify.com/album/2Eb8N686jvzJXWjtF4kOZY) | 4:41 | 2024-07-02 | 2024-08-15 |
 | [Gabi](https://open.spotify.com/track/2WJv0Oat2e39R4iAWZVm0l) | [Nameless Kids](https://open.spotify.com/artist/2a1RUFZ0eOATyKlPhTxOt2) | [Gabi](https://open.spotify.com/album/5MJpKfU02ZKk1pv1vCf2Rb) | 4:25 | 2024-08-14 |  |
@@ -64,12 +67,14 @@
 | [Ikot](https://open.spotify.com/track/3u1zzx0i2JTAWID3QniB24) | [Over October](https://open.spotify.com/artist/1hMAGfvamVXuSWBFQRFMeq) | [Ikot](https://open.spotify.com/album/180aHzJ4pfhSTmcRk5DRig) | 4:10 | 2024-07-02 | 2024-08-03 |
 | [Isa Dalawa Tatlo](https://open.spotify.com/track/62SdZXo2n3AmOLn648P9A9) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [Isa Dalawa Tatlo](https://open.spotify.com/album/73WP1jO9F9KtKRo0nt6Fmv) | 4:36 | 2024-08-16 |  |
 | [Janice](https://open.spotify.com/track/0BewsYUbEIKdJmdap9oI7V) | [Dilaw](https://open.spotify.com/artist/6Dp4LInLyMVA2qhRqQ6AGL) | [Janice](https://open.spotify.com/album/1jUJQ4XUDTbGTq1hR33fR6) | 3:55 | 2024-07-02 | 2024-09-07 |
+| [jeep](https://open.spotify.com/track/5NgjXaVAsC3JIia1h9cxcG) | [rhodessa](https://open.spotify.com/artist/0XRPxTyrrVeDXLt6Wxw4UD) | [jeep](https://open.spotify.com/album/6WeVmgeFWZrMQAQBNHszqx) | 4:21 | 2024-10-04 |  |
 | [Kaakit\-akit](https://open.spotify.com/track/6GPfKhdih8hhpC0MJXDu6G) | [Over October](https://open.spotify.com/artist/1hMAGfvamVXuSWBFQRFMeq) | [Kaakit\-akit](https://open.spotify.com/album/1CMNY2NlvTax6Tkb2X2ov2) | 4:06 | 2024-07-19 |  |
 | [Kahit Saglit](https://open.spotify.com/track/7GtJ65ONCbbcDYizn9T4lE) | [Similar Sky](https://open.spotify.com/artist/5v3Pm6onpGC3AHLCO6Da45) | [Kahit Saglit](https://open.spotify.com/album/7rMoGXai8iHlLPxzyvAGW5) | 3:33 | 2024-08-02 |  |
 | [kaibigan](https://open.spotify.com/track/3rwioq6hSNjwynK8rVPCma) | [justin](https://open.spotify.com/artist/20XuMlpFudMP9rDHMTkyar) | [kaibigan](https://open.spotify.com/album/4evefz8rfDGKLURrEzwEzy) | 3:26 | 2024-07-19 |  |
 | [KAMEHAMEHA](https://open.spotify.com/track/4vt5xae70yXSP9jwy42q9e) | [SunKissed Lola](https://open.spotify.com/artist/4bLLB1dbsRVUTcMpnDGDO2) | [Olaholah](https://open.spotify.com/album/0HMzFaO7tbJus5v3QkmRJn) | 3:48 | 2024-09-27 |  |
 | [kapoy \(feat\. ZOYA\)](https://open.spotify.com/track/6zvWIAJtrJutkPdQUCMwHf) | [Up Dharma Down](https://open.spotify.com/artist/3wbCeEPAW6po7J46netxMT), [ZOYA](https://open.spotify.com/artist/2XZdgmh8MbWzuc40zrFf0J) | [kapoy \(feat\. ZOYA\)](https://open.spotify.com/album/48E4msn8F7pNljqrcdfC4X) | 4:13 | 2024-08-16 |  |
 | [Karera](https://open.spotify.com/track/6xfsvHFXr8GgRzaFAkmjAY) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [Karera](https://open.spotify.com/album/6eG8V6yBx09xmexOLpcn9R) | 4:28 | 2024-07-02 | 2024-07-19 |
+| [Kasama](https://open.spotify.com/track/1qA0gniLfP4RIRmVTEe1eM) | [Flow G](https://open.spotify.com/artist/3PDFGpPl4ienSn5Vwisfrh), [Chito Miranda](https://open.spotify.com/artist/72VBk3SEsEFPF948CmkHT4) | [Kasama](https://open.spotify.com/album/2t6TUKXucrJSErtNohifVu) | 4:19 | 2024-10-04 |  |
 | [Kasayaw](https://open.spotify.com/track/5ocqqw7odUNJXBdnGUJCQa) | [Kiss n Tell](https://open.spotify.com/artist/4SJq9qpSpGvbKfCEGqnFqQ) | [Kasayaw](https://open.spotify.com/album/6s1WZe88wGse9q4e5Y5q0q) | 4:10 | 2024-07-17 |  |
 | [Kumusta](https://open.spotify.com/track/6efSjoVRFHM6nS8v6PF8wD) | [Winrich Adarlo](https://open.spotify.com/artist/5qqDnSwcDVRKgyV0UhbfJz) | [Kumusta](https://open.spotify.com/album/1AvywRk8Rwbbcz4Q3t5zVK) | 4:52 | 2024-07-08 | 2024-09-25 |
 | [Kusapiling](https://open.spotify.com/track/52gnVgaEDDNtq2g0wubuYg) | [Anthony Meneses](https://open.spotify.com/artist/5hWdDTngERKdHiuLgb3IEj) | [Kusapiling](https://open.spotify.com/album/2wCj8SFPA6PJFREeDai5SV) | 4:36 | 2024-08-30 |  |
@@ -85,6 +90,7 @@
 | [Limang Taon](https://open.spotify.com/track/7d4sWEXBTj6qShMbMWpEd3) | [juan karlos](https://open.spotify.com/artist/0a4r2EnsevvHCukoJ1xFwJ) | [Limang Taon](https://open.spotify.com/album/2EwDlMDhz7mRqS9lMWbGdL) | 5:14 | 2024-07-02 | 2024-08-03 |
 | [Little Paradise](https://open.spotify.com/track/34l48eopIEbS9l475GAFDy) | [TJ Monterde](https://open.spotify.com/artist/7LvDTuFCBv08xm6u1pOMK0) | [Little Paradise](https://open.spotify.com/album/3Dnwf0bINwnc20LQ033gfI) | 3:18 | 2024-07-02 | 2024-07-19 |
 | [Love Is](https://open.spotify.com/track/2SABOK9LGZ68jM5TPPHBvD) | [The Ridleys](https://open.spotify.com/artist/03KZ3tIgA3DSCU4o8PahVG) | [Love Is](https://open.spotify.com/album/4RU1GrHbHIXBlrVOrUdwfw) | 3:52 | 2024-07-26 |  |
+| [Lumayo](https://open.spotify.com/track/6EaSUjAd1Zi2jK6PMqWKEz) | [Over October](https://open.spotify.com/artist/1hMAGfvamVXuSWBFQRFMeq) | [Make Believe](https://open.spotify.com/album/0eVAbAiekijNEO7xTvGn23) | 2:55 | 2024-10-04 |  |
 | [Mad](https://open.spotify.com/track/12bFyPA8NKbNKrK6jjCoW6) | [aunt robert](https://open.spotify.com/artist/4FCZToYRNlXiC9nAxnnix9) | [Mad](https://open.spotify.com/album/7xr4n4xmcaLFEhlc76fjn4) | 2:34 | 2024-08-09 |  |
 | [Mahal Na Yata Kita](https://open.spotify.com/track/0lE7yCSaySzXOAYESodkJQ) | [Noah Raquel](https://open.spotify.com/artist/3cXAOAlL3hdCbm2SGTagr2) | [Mahal Na Yata Kita](https://open.spotify.com/album/33Y14HJbItjGY1UifH9dHj) | 3:07 | 2024-07-19 |  |
 | [Malabong Ugnayan \(feat\. jikamarie\)](https://open.spotify.com/track/4jkS21cAiVFz9rpWfW50g0) | [Arthur Miguel](https://open.spotify.com/artist/2Ev7vtPI38BE2kQvwmH4ce), [jikamarie](https://open.spotify.com/artist/2M1iyuNJojQoNdyfIMr54j) | [MU](https://open.spotify.com/album/4bGMCLUG61Fveyy16lxbIM) | 3:22 | 2024-07-02 | 2024-07-27 |

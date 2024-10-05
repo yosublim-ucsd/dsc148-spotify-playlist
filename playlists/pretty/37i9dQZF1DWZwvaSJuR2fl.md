@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwvaSJuR2fl.md) - [plain]
 
 > Dvorak was deeply passionate about his homeland, traditional folk music, pigeons and train spotting; immerse yourself in his extraordinary world with this essential playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,940 likes - 75 songs - 10 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,958 likes - 75 songs - 10 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

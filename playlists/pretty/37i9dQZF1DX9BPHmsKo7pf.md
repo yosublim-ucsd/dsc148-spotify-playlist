@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9BPHmsKo7pf.md) - [plain]
 
 > Cele mai de succes 50 de hituri în România\. Cover: The Weeknd, Playboi Carti
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,519 likes - 50 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,585 likes - 50 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

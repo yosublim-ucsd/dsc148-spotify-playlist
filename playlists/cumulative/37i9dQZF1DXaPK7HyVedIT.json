@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-23",
-  "description": "Eletr\u00f4nico do momento para curtir onde estiver. Foto: Devochka",
+  "description": "Eletr\u00f4nico do momento para curtir onde estiver. Foto: Chemical Surf",
   "name": "Dance Paradise",
   "tracks": [
     {
@@ -991,6 +991,32 @@
     },
     {
       "album": {
+        "name": "Black Friday (pretty like the sun) (Zerb Remix)",
+        "url": "https://open.spotify.com/album/3POShtMkrLA9Sx5TnjF3aL"
+      },
+      "artists": [
+        {
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        },
+        {
+          "name": "Zerb",
+          "url": "https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy"
+        },
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169652,
+      "name": "Black Friday (pretty like the sun) (Zerb Remix)",
+      "url": "https://open.spotify.com/track/5H09TpsYAnJjmbkAnD7eHF"
+    },
+    {
+      "album": {
         "name": "BLACK WIDOW",
         "url": "https://open.spotify.com/album/0ddT2dGSomsrtalEHqI9MK"
       },
@@ -1927,6 +1953,24 @@
     },
     {
       "album": {
+        "name": "Deep End - VIP Mix",
+        "url": "https://open.spotify.com/album/3awVZY09UDAWzX4UgmYchs"
+      },
+      "artists": [
+        {
+          "name": "Kyllow",
+          "url": "https://open.spotify.com/artist/6nui7g90m8m7RWTdqMljnM"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242000,
+      "name": "Deep End - VIP Mix",
+      "url": "https://open.spotify.com/track/1ptHpULRhvFV3te7c58eJX"
+    },
+    {
+      "album": {
         "name": "Deep In Your Love",
         "url": "https://open.spotify.com/album/3QkffLjHLnGMUgMAvrOgrs"
       },
@@ -2086,6 +2130,28 @@
       "duration_ms": 236065,
       "name": "Disco Ball",
       "url": "https://open.spotify.com/track/6ktJMFOkWEya3GL3nL02u9"
+    },
+    {
+      "album": {
+        "name": "Disco Shit",
+        "url": "https://open.spotify.com/album/4pTDPdlW4mkmPNneqFrzlo"
+      },
+      "artists": [
+        {
+          "name": "Vittor",
+          "url": "https://open.spotify.com/artist/3epyeoRc1gn7KoFUSi77Ud"
+        },
+        {
+          "name": "ONNE",
+          "url": "https://open.spotify.com/artist/4CYh95bpSaKKF9AvEI6G6X"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172263,
+      "name": "Disco Shit",
+      "url": "https://open.spotify.com/track/6Od1L6369vboOOofSij7mj"
     },
     {
       "album": {
@@ -2534,7 +2600,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 283902,
       "name": "Emori\u00f4",
       "url": "https://open.spotify.com/track/5HNtxw94hQ7sQdKkiZKTLv"
@@ -4260,7 +4326,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 217742,
       "name": "If Everything Was Good (Almanac Remix)",
       "url": "https://open.spotify.com/track/2VSRVhl6uaToSdNsz3ghwq"
@@ -4550,7 +4616,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 133953,
       "name": "Jazzy",
       "url": "https://open.spotify.com/track/39b1zUeTZhaYpsXMH8qyka"
@@ -5659,6 +5725,32 @@
     },
     {
       "album": {
+        "name": "Molly",
+        "url": "https://open.spotify.com/album/14ODkgiFnF1t2ob4e7ygUW"
+      },
+      "artists": [
+        {
+          "name": "KVSH",
+          "url": "https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB"
+        },
+        {
+          "name": "CERES",
+          "url": "https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic"
+        },
+        {
+          "name": "\u00d6wnboss",
+          "url": "https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200952,
+      "name": "Molly",
+      "url": "https://open.spotify.com/track/1n7TLaImP9HxG4FkfuLmT9"
+    },
+    {
+      "album": {
         "name": "Momentum",
         "url": "https://open.spotify.com/album/27wsjTX2TxtblrurPT5rgb"
       },
@@ -6158,7 +6250,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 224390,
       "name": "No More",
       "url": "https://open.spotify.com/track/2C4MdwrfFhWAp4p5tOiIOG"
@@ -6206,6 +6298,28 @@
       "duration_ms": 300120,
       "name": "Nobody's Perfect (feat. Dana Williams)",
       "url": "https://open.spotify.com/track/6YmGoncnyDLR0nTgCLihyE"
+    },
+    {
+      "album": {
+        "name": "NOISE",
+        "url": "https://open.spotify.com/album/495OeMIyzgOt0Cp2m4PP5A"
+      },
+      "artists": [
+        {
+          "name": "Almanac",
+          "url": "https://open.spotify.com/artist/2EJxcRlcIa5W1u2v42PvTv"
+        },
+        {
+          "name": "FatSync",
+          "url": "https://open.spotify.com/artist/6H11mqvcME7dP66oQ9Nf8U"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165581,
+      "name": "NOISE",
+      "url": "https://open.spotify.com/track/0mUiwuaBeGHn2YFMRfeue2"
     },
     {
       "album": {
@@ -6316,6 +6430,24 @@
       "duration_ms": 205500,
       "name": "N\u00e3o Sei Parar",
       "url": "https://open.spotify.com/track/620eMyji7XM9zf0kHwDsys"
+    },
+    {
+      "album": {
+        "name": "O Superman",
+        "url": "https://open.spotify.com/album/0jMCx6S66Rwbi0n3yvzdRw"
+      },
+      "artists": [
+        {
+          "name": "Chemical Surf",
+          "url": "https://open.spotify.com/artist/7LgAW1ZiEd8f3HtCMGFaGx"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259680,
+      "name": "O Superman",
+      "url": "https://open.spotify.com/track/7HNSmEyUHRY5ssO5VnYQHA"
     },
     {
       "album": {
@@ -7754,7 +7886,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 159692,
       "name": "SEM PARAR",
       "url": "https://open.spotify.com/track/1YbQEiVH34gYKgfl88e1Jf"
@@ -9356,7 +9488,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 208062,
       "name": "Voc\u00ea Chegou",
       "url": "https://open.spotify.com/track/33nXKnlbDs5zsI5A4tMkCi"
@@ -9764,6 +9896,32 @@
       "duration_ms": 167598,
       "name": "You Talkin'",
       "url": "https://open.spotify.com/track/0V3OXJgLiRK8yezOxVsr49"
+    },
+    {
+      "album": {
+        "name": "You'll Be Mine",
+        "url": "https://open.spotify.com/album/2WWeuXHJoZGwvrP7iuasDS"
+      },
+      "artists": [
+        {
+          "name": "Fullmode",
+          "url": "https://open.spotify.com/artist/3EckbiziIUECy2zu32NoMp"
+        },
+        {
+          "name": "Vondeck",
+          "url": "https://open.spotify.com/artist/5EFGKg5aiEaMYwFycRtRuh"
+        },
+        {
+          "name": "LEMON DROPS",
+          "url": "https://open.spotify.com/artist/50ANvd7tfvmNJf2JhcjguF"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176129,
+      "name": "You'll Be Mine",
+      "url": "https://open.spotify.com/track/3A5f21zhjkjGj7wnXnJK3i"
     },
     {
       "album": {

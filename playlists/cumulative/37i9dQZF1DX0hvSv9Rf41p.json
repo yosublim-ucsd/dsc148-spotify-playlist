@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "All things <a href=\"spotify:genre:bass\">bass</a> with Levity",
+  "description": "All things <a href=\"spotify:genre:bass\">bass</a>  \ud83d\ude80\ud83d\ude80 with Knock2",
   "name": "Bass Arcade",
   "tracks": [
     {
@@ -848,6 +848,24 @@
       "duration_ms": 198400,
       "name": "Arcadia",
       "url": "https://open.spotify.com/track/5ejKUS1gyCQlizpaYYk7uO"
+    },
+    {
+      "album": {
+        "name": "ARE WE HAVING FUN OR WHAT?",
+        "url": "https://open.spotify.com/album/4O4RcK8tOjhR5hC4XqbIkq"
+      },
+      "artists": [
+        {
+          "name": "Hgods",
+          "url": "https://open.spotify.com/artist/1mrXo5fhYhx3gEiLjbOtYA"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147487,
+      "name": "ARE WE HAVING FUN OR WHAT?",
+      "url": "https://open.spotify.com/track/1haJ3BSPGuZ7f3CCkZwHnA"
     },
     {
       "album": {
@@ -1886,6 +1904,24 @@
       "duration_ms": 287000,
       "name": "Before You Leave",
       "url": "https://open.spotify.com/track/5tkIlZJ0rIGFpNg0q94H10"
+    },
+    {
+      "album": {
+        "name": "Believe What You Want",
+        "url": "https://open.spotify.com/album/2x0aTQEZATNEOcXEUINCwe"
+      },
+      "artists": [
+        {
+          "name": "Virtual Riot",
+          "url": "https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278400,
+      "name": "Believe What You Want",
+      "url": "https://open.spotify.com/track/3RH3mCy2PIH6289cqQWgdl"
     },
     {
       "album": {
@@ -5256,7 +5292,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 163862,
       "name": "DOODLE",
       "url": "https://open.spotify.com/track/5DphXBn0OLpQHBXHkVmoyP"
@@ -6936,7 +6972,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 202758,
       "name": "Feels Like You",
       "url": "https://open.spotify.com/track/0F1VAVqj021UkGntiDz4nx"
@@ -7569,6 +7605,32 @@
     },
     {
       "album": {
+        "name": "Foul",
+        "url": "https://open.spotify.com/album/2Ih0SUroIXP1GRigQxuc8B"
+      },
+      "artists": [
+        {
+          "name": "G-Rex",
+          "url": "https://open.spotify.com/artist/0ZpPLGn0OkRMl2Y9Twn16K"
+        },
+        {
+          "name": "STUCA",
+          "url": "https://open.spotify.com/artist/5W9QwHSJPJ5blGIyn8nSUb"
+        },
+        {
+          "name": "ICECOLDBISHOP",
+          "url": "https://open.spotify.com/artist/04zbRSHjzlQYvV31SW7qZ4"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179262,
+      "name": "Foul",
+      "url": "https://open.spotify.com/track/6mtSPyT95BNKiUQ4SyijQ3"
+    },
+    {
+      "album": {
         "name": "Freefall",
         "url": "https://open.spotify.com/album/3NlzrvC7EEGG7CDBvQXEDb"
       },
@@ -8012,7 +8074,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 137491,
       "name": "Give It To Me",
       "url": "https://open.spotify.com/track/41P1RlldZuKjnw2Pd8lGjQ"
@@ -10549,6 +10611,24 @@
     },
     {
       "album": {
+        "name": "Kick Back",
+        "url": "https://open.spotify.com/album/1WP54EBpUKdWeGMA7zChgj"
+      },
+      "artists": [
+        {
+          "name": "MUST DIE!",
+          "url": "https://open.spotify.com/artist/4aBx7mA6lUOVhEsjokZrXb"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Kick Back",
+      "url": "https://open.spotify.com/track/4L9SAF40SFewdrkl74b27M"
+    },
+    {
+      "album": {
         "name": "Kill Me With Your Love",
         "url": "https://open.spotify.com/album/1iO64sEfOWxk7KGLpr8l31"
       },
@@ -11250,7 +11330,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 216000,
       "name": "Like That - Tape B Remix",
       "url": "https://open.spotify.com/track/0DGC66VWaB2tamRaOEvRLe"
@@ -11478,7 +11558,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 208279,
       "name": "LOSE CONTROL",
       "url": "https://open.spotify.com/track/6dGm7Nbq7TCho3U8jew0HG"
@@ -13077,6 +13157,28 @@
     },
     {
       "album": {
+        "name": "Next Up",
+        "url": "https://open.spotify.com/album/7K7u6MSUnadC8QJIWig5rF"
+      },
+      "artists": [
+        {
+          "name": "Jon Casey",
+          "url": "https://open.spotify.com/artist/5ttBnysifryX99bjzeFPGr"
+        },
+        {
+          "name": "Wreckno",
+          "url": "https://open.spotify.com/artist/6j78LtFLqDG65Ju57NUM5N"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153931,
+      "name": "Next Up",
+      "url": "https://open.spotify.com/track/70PesUD5AQBzkhqVRoEDzC"
+    },
+    {
+      "album": {
         "name": "NGMF",
         "url": "https://open.spotify.com/album/5eOjDPcOskmMG3syjwodSN"
       },
@@ -13205,6 +13307,24 @@
     },
     {
       "album": {
+        "name": "No Brakes",
+        "url": "https://open.spotify.com/album/0qiV7IIlpdFca8AUboS3P3"
+      },
+      "artists": [
+        {
+          "name": "TroyBoi",
+          "url": "https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108669,
+      "name": "No Brakes",
+      "url": "https://open.spotify.com/track/7t47Clhjv0tivc9lPCV61Q"
+    },
+    {
+      "album": {
         "name": "NO FEAR",
         "url": "https://open.spotify.com/album/36SmlBYQsx9egrbscTMe9D"
       },
@@ -13272,6 +13392,28 @@
       "duration_ms": 180800,
       "name": "No Limit",
       "url": "https://open.spotify.com/track/7IVzMMlDsh4W4mIavGdKi0"
+    },
+    {
+      "album": {
+        "name": "Noisy Boys",
+        "url": "https://open.spotify.com/album/5lxwsxClvVt8C4XOxtTGjV"
+      },
+      "artists": [
+        {
+          "name": "Cookie Monsta",
+          "url": "https://open.spotify.com/artist/2uGNBmaWvxF6HAcWuhK7OP"
+        },
+        {
+          "name": "Doctor P",
+          "url": "https://open.spotify.com/artist/0tgjwsn1Lpjj8kKEvWm0KQ"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195186,
+      "name": "Noisy Boys",
+      "url": "https://open.spotify.com/track/3JCckl9tjLZnfjguaxyckw"
     },
     {
       "album": {
@@ -18221,6 +18363,24 @@
     },
     {
       "album": {
+        "name": "STRATOSPHERE",
+        "url": "https://open.spotify.com/album/4m3ldQAHJvqyZ2NBABw9oe"
+      },
+      "artists": [
+        {
+          "name": "ALLEYCVT",
+          "url": "https://open.spotify.com/artist/4JxRK2gxmri7L7OWaxnVD1"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198041,
+      "name": "STRATOSPHERE",
+      "url": "https://open.spotify.com/track/3B5XMQi9y9GjRODZhOUfE5"
+    },
+    {
+      "album": {
         "name": "Strictly 4 Tha",
         "url": "https://open.spotify.com/album/0CfTs0imoYBls6zTPdqRVH"
       },
@@ -19386,7 +19546,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 140142,
       "name": "Throw It Back",
       "url": "https://open.spotify.com/track/6mjAMJjMb5FUvRFOyBLeKv"
@@ -20012,7 +20172,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 186461,
       "name": "Trippy Land",
       "url": "https://open.spotify.com/track/0vN6M8uGKNGFAFgJtHKvFz"
@@ -20356,7 +20516,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 144615,
       "name": "UPSIDE DOWN",
       "url": "https://open.spotify.com/track/1linJZ2rIUG7ElGR22uDat"

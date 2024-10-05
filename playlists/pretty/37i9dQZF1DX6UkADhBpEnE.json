@@ -1,6 +1,6 @@
 {
   "description": "\u4eca\u65e51\u65e5\u3092\u3001\u5143\u6c17\u306b\u8fce\u3048\u308b\u305f\u3081\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\uff01",
-  "num_followers": 144510,
+  "num_followers": 144549,
   "original_name": "\u5143\u6c17Booster",
   "owner": {
     "name": "Spotify",
@@ -687,22 +687,6 @@
     {
       "added_at": "2024-10-03 15:00:00",
       "album": {
-        "name": "Lovin On Me",
-        "url": "https://open.spotify.com/album/6VCO0fDBGbRW8mCEvV95af"
-      },
-      "artists": [
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        }
-      ],
-      "duration_ms": 138411,
-      "name": "Lovin On Me",
-      "url": "https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU"
-    },
-    {
-      "added_at": "2024-10-03 15:00:00",
-      "album": {
         "name": "Bad Dreams",
         "url": "https://open.spotify.com/album/2VxQFEEnhwiV5LpMuHKViR"
       },
@@ -719,6 +703,22 @@
     {
       "added_at": "2024-10-03 15:00:00",
       "album": {
+        "name": "Lovin On Me",
+        "url": "https://open.spotify.com/album/6VCO0fDBGbRW8mCEvV95af"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 138411,
+      "name": "Lovin On Me",
+      "url": "https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU"
+    },
+    {
+      "added_at": "2024-10-03 15:00:00",
+      "album": {
         "name": "Shawn",
         "url": "https://open.spotify.com/album/1Gjj4lJko9J5Xh3VDWziyE"
       },
@@ -731,6 +731,26 @@
       "duration_ms": 169041,
       "name": "Why Why Why",
       "url": "https://open.spotify.com/track/52A0oY4u5ufxrHC85JGf4x"
+    },
+    {
+      "added_at": "2024-10-03 15:00:00",
+      "album": {
+        "name": "Talk talk featuring troye sivan",
+        "url": "https://open.spotify.com/album/4hSYRtDjN1XbTqBKTw33sj"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        }
+      ],
+      "duration_ms": 173076,
+      "name": "Talk talk featuring troye sivan",
+      "url": "https://open.spotify.com/track/2LUD3874dlzeRa34Hi7ohW"
     },
     {
       "added_at": "2024-10-03 15:00:00",
@@ -779,26 +799,6 @@
       "duration_ms": 166812,
       "name": "Never Let Go",
       "url": "https://open.spotify.com/track/2nRMW95dnOILirpjbksLTs"
-    },
-    {
-      "added_at": "2024-10-03 15:00:00",
-      "album": {
-        "name": "Talk talk featuring troye sivan",
-        "url": "https://open.spotify.com/album/4hSYRtDjN1XbTqBKTw33sj"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        },
-        {
-          "name": "Troye Sivan",
-          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
-        }
-      ],
-      "duration_ms": 173076,
-      "name": "Talk talk featuring troye sivan",
-      "url": "https://open.spotify.com/track/2LUD3874dlzeRa34Hi7ohW"
     },
     {
       "added_at": "2024-10-03 15:00:00",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2024-10-03 15:00:00",
       "album": {
-        "name": "Cherry On Top",
-        "url": "https://open.spotify.com/album/3ZIjUhwlei1sT2yetvypvJ"
-      },
-      "artists": [
-        {
-          "name": "BINI",
-          "url": "https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga"
-        }
-      ],
-      "duration_ms": 175461,
-      "name": "Cherry On Top",
-      "url": "https://open.spotify.com/track/6EpoDm2IoOkTfcPkNwhf07"
-    },
-    {
-      "added_at": "2024-10-03 15:00:00",
-      "album": {
         "name": "familie",
         "url": "https://open.spotify.com/album/4jX0nfsyTW1uhGXIHQiQun"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 201533,
       "name": "Wait For You",
       "url": "https://open.spotify.com/track/0JjecOzaIzBTfIY35QGmgw"
+    },
+    {
+      "added_at": "2024-10-03 15:00:00",
+      "album": {
+        "name": "Cherry On Top",
+        "url": "https://open.spotify.com/album/3ZIjUhwlei1sT2yetvypvJ"
+      },
+      "artists": [
+        {
+          "name": "BINI",
+          "url": "https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga"
+        }
+      ],
+      "duration_ms": 175461,
+      "name": "Cherry On Top",
+      "url": "https://open.spotify.com/track/6EpoDm2IoOkTfcPkNwhf07"
     },
     {
       "added_at": "2024-10-03 15:00:00",
@@ -1231,26 +1231,6 @@
     {
       "added_at": "2024-10-03 15:00:00",
       "album": {
-        "name": "Pour Me A Drink",
-        "url": "https://open.spotify.com/album/1WE56xSN0l6bnwGyLeQWdz"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        },
-        {
-          "name": "Blake Shelton",
-          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
-        }
-      ],
-      "duration_ms": 195122,
-      "name": "Pour Me A Drink (Feat. Blake Shelton)",
-      "url": "https://open.spotify.com/track/5ZLL6wYXeqg0k35ZkDRfhZ"
-    },
-    {
-      "added_at": "2024-10-03 15:00:00",
-      "album": {
         "name": "\u30d5\u30a1\u30bf\u30fc\u30eb - Fatal",
         "url": "https://open.spotify.com/album/6OBk036VgLGkxpggcFPqJL"
       },
@@ -1275,18 +1255,22 @@
     {
       "added_at": "2024-10-03 15:00:00",
       "album": {
-        "name": "LIFETIMES",
-        "url": "https://open.spotify.com/album/6UEGp3MQnsKoK9rwKcKBUo"
+        "name": "Pour Me A Drink",
+        "url": "https://open.spotify.com/album/1WE56xSN0l6bnwGyLeQWdz"
       },
       "artists": [
         {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
+        {
+          "name": "Blake Shelton",
+          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
         }
       ],
-      "duration_ms": 192000,
-      "name": "LIFETIMES",
-      "url": "https://open.spotify.com/track/0K8sKuo6xLHZgySZmmw2rV"
+      "duration_ms": 195122,
+      "name": "Pour Me A Drink (Feat. Blake Shelton)",
+      "url": "https://open.spotify.com/track/5ZLL6wYXeqg0k35ZkDRfhZ"
     },
     {
       "added_at": "2024-10-03 15:00:00",
@@ -1307,6 +1291,22 @@
     {
       "added_at": "2024-10-03 15:00:00",
       "album": {
+        "name": "LIFETIMES",
+        "url": "https://open.spotify.com/album/6UEGp3MQnsKoK9rwKcKBUo"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "LIFETIMES",
+      "url": "https://open.spotify.com/track/0K8sKuo6xLHZgySZmmw2rV"
+    },
+    {
+      "added_at": "2024-10-03 15:00:00",
+      "album": {
         "name": "I wonder",
         "url": "https://open.spotify.com/album/2Pwsp7jElXMU0fUwzHo1je"
       },
@@ -1319,22 +1319,6 @@
       "duration_ms": 157746,
       "name": "I wonder",
       "url": "https://open.spotify.com/track/00Q3uYmFKFVYTRjbsnUq7H"
-    },
-    {
-      "added_at": "2024-10-03 15:00:00",
-      "album": {
-        "name": "WOKE UP",
-        "url": "https://open.spotify.com/album/2e9eizo3Euh2aaBef2B2bw"
-      },
-      "artists": [
-        {
-          "name": "XG",
-          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
-        }
-      ],
-      "duration_ms": 188010,
-      "name": "WOKE UP",
-      "url": "https://open.spotify.com/track/4keuUM29CtIWgsPRzRhXoW"
     },
     {
       "added_at": "2024-10-03 15:00:00",
@@ -1359,6 +1343,42 @@
     {
       "added_at": "2024-10-03 15:00:00",
       "album": {
+        "name": "WOKE UP",
+        "url": "https://open.spotify.com/album/2e9eizo3Euh2aaBef2B2bw"
+      },
+      "artists": [
+        {
+          "name": "XG",
+          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
+        }
+      ],
+      "duration_ms": 188010,
+      "name": "WOKE UP",
+      "url": "https://open.spotify.com/track/4keuUM29CtIWgsPRzRhXoW"
+    },
+    {
+      "added_at": "2024-10-03 15:00:00",
+      "album": {
+        "name": "Stars Will Align",
+        "url": "https://open.spotify.com/album/5q923PscX4aJaonXBWTDcj"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "duration_ms": 234366,
+      "name": "Stars Will Align",
+      "url": "https://open.spotify.com/track/5REMa10O4aA2mLtYyflWxs"
+    },
+    {
+      "added_at": "2024-10-03 15:00:00",
+      "album": {
         "name": "SPECIALZ",
         "url": "https://open.spotify.com/album/16Wxo6FKPXPzU9IApZfdlc"
       },
@@ -1371,6 +1391,22 @@
       "duration_ms": 238986,
       "name": "SPECIALZ",
       "url": "https://open.spotify.com/track/0GWNtMohuYUEHVZ40tcnHF"
+    },
+    {
+      "added_at": "2024-10-03 15:00:00",
+      "album": {
+        "name": "yes, and?",
+        "url": "https://open.spotify.com/album/2B9amdrHDIKOoEiPUfZGtb"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 214994,
+      "name": "yes, and?",
+      "url": "https://open.spotify.com/track/7gaA3wERFkFkgivjwbSvkG"
     },
     {
       "added_at": "2024-10-03 15:00:00",
@@ -1391,22 +1427,6 @@
       "duration_ms": 182840,
       "name": "Smeraldo Garden Marching Band (feat. Loco)",
       "url": "https://open.spotify.com/track/1kPhV0KQui1phEpjnWIqUN"
-    },
-    {
-      "added_at": "2024-10-03 15:00:00",
-      "album": {
-        "name": "yes, and?",
-        "url": "https://open.spotify.com/album/2B9amdrHDIKOoEiPUfZGtb"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 214994,
-      "name": "yes, and?",
-      "url": "https://open.spotify.com/track/7gaA3wERFkFkgivjwbSvkG"
     },
     {
       "added_at": "2024-10-03 15:00:00",
@@ -1463,22 +1483,18 @@
     {
       "added_at": "2024-10-03 15:00:00",
       "album": {
-        "name": "Stars Will Align",
-        "url": "https://open.spotify.com/album/5q923PscX4aJaonXBWTDcj"
+        "name": "Charm",
+        "url": "https://open.spotify.com/album/1KNUCVXgIxKUGiuEB8eG0i"
       },
       "artists": [
         {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
         }
       ],
-      "duration_ms": 234366,
-      "name": "Stars Will Align",
-      "url": "https://open.spotify.com/track/5REMa10O4aA2mLtYyflWxs"
+      "duration_ms": 205263,
+      "name": "Add Up My Love",
+      "url": "https://open.spotify.com/track/6FcDxtnGfsYHOcGkXN2OIG"
     },
     {
       "added_at": "2024-10-03 15:00:00",
@@ -1495,22 +1511,6 @@
       "duration_ms": 223955,
       "name": "Death Wish Love (From Twisters: The Album)",
       "url": "https://open.spotify.com/track/5CYblb1W46TNSWMR7BBwS2"
-    },
-    {
-      "added_at": "2024-10-03 15:00:00",
-      "album": {
-        "name": "Charm",
-        "url": "https://open.spotify.com/album/1KNUCVXgIxKUGiuEB8eG0i"
-      },
-      "artists": [
-        {
-          "name": "Clairo",
-          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
-        }
-      ],
-      "duration_ms": 205263,
-      "name": "Add Up My Love",
-      "url": "https://open.spotify.com/track/6FcDxtnGfsYHOcGkXN2OIG"
     },
     {
       "added_at": "2024-10-03 15:00:00",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2024-10-03 15:00:00",
       "album": {
-        "name": "Shampoo de Coco",
-        "url": "https://open.spotify.com/album/2s85lQ8aH3Uw6Wff9nzYKZ"
-      },
-      "artists": [
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        }
-      ],
-      "duration_ms": 240306,
-      "name": "Shampoo de Coco",
-      "url": "https://open.spotify.com/track/6W8qT0SkyfZRfqaB3nWIan"
-    },
-    {
-      "added_at": "2024-10-03 15:00:00",
-      "album": {
         "name": "Free (with Ellie Goulding)",
         "url": "https://open.spotify.com/album/6guctDCaYE7AhYqtX6RxNE"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 212345,
       "name": "Free (with Ellie Goulding)",
       "url": "https://open.spotify.com/track/3NxB1jubUWY6zit9rOk8ZC"
+    },
+    {
+      "added_at": "2024-10-03 15:00:00",
+      "album": {
+        "name": "Shampoo de Coco",
+        "url": "https://open.spotify.com/album/2s85lQ8aH3Uw6Wff9nzYKZ"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "duration_ms": 240306,
+      "name": "Shampoo de Coco",
+      "url": "https://open.spotify.com/track/6W8qT0SkyfZRfqaB3nWIan"
     },
     {
       "added_at": "2024-10-03 15:00:00",
@@ -1631,18 +1631,18 @@
     {
       "added_at": "2024-10-03 15:00:00",
       "album": {
-        "name": "Troubled Waters",
-        "url": "https://open.spotify.com/album/54V4i5OLHNmaiXIgK7urCp"
+        "name": "Nobody (from Kaiju No. 8)",
+        "url": "https://open.spotify.com/album/3YmKf1haPAblZIrIPpuRTf"
       },
       "artists": [
         {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
         }
       ],
-      "duration_ms": 197775,
-      "name": "Troubled Waters",
-      "url": "https://open.spotify.com/track/3xohRHSBI2i0HolJPlN85v"
+      "duration_ms": 153626,
+      "name": "Nobody - from Kaiju No. 8",
+      "url": "https://open.spotify.com/track/47N81NMkB488fuOwOC3Oip"
     },
     {
       "added_at": "2024-10-03 15:00:00",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2024-10-03 15:00:00",
       "album": {
-        "name": "Nobody (from Kaiju No. 8)",
-        "url": "https://open.spotify.com/album/3YmKf1haPAblZIrIPpuRTf"
-      },
-      "artists": [
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        }
-      ],
-      "duration_ms": 153626,
-      "name": "Nobody - from Kaiju No. 8",
-      "url": "https://open.spotify.com/track/47N81NMkB488fuOwOC3Oip"
-    },
-    {
-      "added_at": "2024-10-03 15:00:00",
-      "album": {
         "name": "143",
         "url": "https://open.spotify.com/album/3jxt1S4JtW4uFalBwlfehS"
       },
@@ -1695,6 +1679,22 @@
       "duration_ms": 197142,
       "name": "GORGEOUS (feat. Kim Petras)",
       "url": "https://open.spotify.com/track/2c121Da4d1kLut5aqRgzpK"
+    },
+    {
+      "added_at": "2024-10-03 15:00:00",
+      "album": {
+        "name": "Troubled Waters",
+        "url": "https://open.spotify.com/album/54V4i5OLHNmaiXIgK7urCp"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "duration_ms": 197775,
+      "name": "Troubled Waters",
+      "url": "https://open.spotify.com/track/3xohRHSBI2i0HolJPlN85v"
     },
     {
       "added_at": "2024-10-03 15:00:00",

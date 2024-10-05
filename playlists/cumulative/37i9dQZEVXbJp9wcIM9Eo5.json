@@ -1816,7 +1816,7 @@
       ],
       "date_added": "2024-10-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-04",
+      "date_removed": null,
       "duration_ms": 167058,
       "name": "Bandida",
       "url": "https://open.spotify.com/track/342HVXsEqyIH3bLSTYDKnT"
@@ -2354,7 +2354,7 @@
       ],
       "date_added": "2024-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 207306,
       "name": "Borro Cassette",
       "url": "https://open.spotify.com/track/6DUdDIRgLqCGq1DwkNWQTN"
@@ -3242,7 +3242,7 @@
       ],
       "date_added": "2024-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 182427,
       "name": "Cobarde",
       "url": "https://open.spotify.com/track/2M81RsCKAbabDXfKxBDEO9"
@@ -4866,7 +4866,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-11",
+      "date_removed": null,
       "duration_ms": 165848,
       "name": "EL AMOR DE SU VIDA",
       "url": "https://open.spotify.com/track/0O3U5iwTbiXCREMkvotJuN"
@@ -8468,6 +8468,24 @@
       "duration_ms": 234352,
       "name": "La Bebe - Remix",
       "url": "https://open.spotify.com/track/2UW7JaomAMuX9pZrjVpHAU"
+    },
+    {
+      "album": {
+        "name": "La Caja de Pandora",
+        "url": "https://open.spotify.com/album/0uZrDylgoRkGht7mPi2ukd"
+      },
+      "artists": [
+        {
+          "name": "Bimbo el Oso Ma\u00f1oso",
+          "url": "https://open.spotify.com/artist/2P5WbTImnPSJQV4ZbQuQZ3"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182357,
+      "name": "La Caja de Pandora",
+      "url": "https://open.spotify.com/track/2iDZnPVCIKU8vzllooT6Ui"
     },
     {
       "album": {
@@ -13068,7 +13086,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-26",
+      "date_removed": null,
       "duration_ms": 151666,
       "name": "Pa' Que Retozen",
       "url": "https://open.spotify.com/track/5YJ4BVvTFmVCxUyhKejHfR"
@@ -14488,7 +14506,7 @@
       ],
       "date_added": "2024-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 235133,
       "name": "Propuesta Indecente",
       "url": "https://open.spotify.com/track/5PycBIeabfvX3n9ILG7Vrv"
@@ -15750,7 +15768,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 237026,
       "name": "Rosas",
       "url": "https://open.spotify.com/track/06p2Ij0lXD45LODQDCov0u"

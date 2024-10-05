@@ -923,6 +923,28 @@
     },
     {
       "album": {
+        "name": "Full Time Job",
+        "url": "https://open.spotify.com/album/0VtcGxV1o8WCUz7YBX3EtX"
+      },
+      "artists": [
+        {
+          "name": "Phyno",
+          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
+        },
+        {
+          "name": "Cheque",
+          "url": "https://open.spotify.com/artist/4oQyXxDBq8FBhsjjS7MbcM"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185068,
+      "name": "Back Outside",
+      "url": "https://open.spotify.com/track/3AmcpUoHdrnK7NfhPTG7QE"
+    },
+    {
+      "album": {
         "name": "Back to Back",
         "url": "https://open.spotify.com/album/0BmVStHOqEVBwsxVO1H1Cj"
       },
@@ -1748,7 +1770,7 @@
       ],
       "date_added": "2024-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 193125,
       "name": "BOMBING",
       "url": "https://open.spotify.com/track/0dtwzfXcb6lKIkuFw7w8nC"
@@ -2446,7 +2468,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 180720,
       "name": "Continental (feat. Shallipopi)",
       "url": "https://open.spotify.com/track/5p3PWZEHyHxlFhoROX4dzz"
@@ -4616,6 +4638,24 @@
       "duration_ms": 190103,
       "name": "Happy",
       "url": "https://open.spotify.com/track/4K4ePgfFyaENPjNzsXIWCv"
+    },
+    {
+      "album": {
+        "name": "Happy People",
+        "url": "https://open.spotify.com/album/70TPFsb10L2Tya74jZdsl3"
+      },
+      "artists": [
+        {
+          "name": "KAESTYLE",
+          "url": "https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171493,
+      "name": "Happy People",
+      "url": "https://open.spotify.com/track/1qKJYnVtLg7pwT5JtOcB11"
     },
     {
       "album": {

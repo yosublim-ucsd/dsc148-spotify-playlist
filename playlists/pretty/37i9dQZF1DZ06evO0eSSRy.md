@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0eSSRy.md) - [plain]
 
 ### [This Is PÆRISH](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0eSSRy)
 
-> This is PÆRISH\. Todos os maiores hits em uma só playlist.
+> This is PÆRISH\. The essential tracks, all in one playlist.
 
 [Spotify](https://open.spotify.com/user/spotify) - 687 likes - 23 songs - 1 hr 21 min
 
@@ -32,4 +32,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0eSSRy.md) - [plain]
 | 22 | [412](https://open.spotify.com/track/4HAUQ35gRU5GS1VuhqlqLw) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Fixed It All](https://open.spotify.com/album/5F9Aavpfp58NVEnDqtNU6W) | 3:54 |
 | 23 | [Party's over, Biff](https://open.spotify.com/track/07eiHw5s87pBGVrLlXyV2n) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Semi Finalists](https://open.spotify.com/album/16LfAB0rsKN5dbcYEGLhTb) | 3:48 |
 
-Snapshot ID: `ZvyNAAAAAAB4/UHsV0S7fejmUqVfF/Zr`
+Snapshot ID: `Zv3egAAAAADEE9OEGUCRIGOHv7NtY7Gv`

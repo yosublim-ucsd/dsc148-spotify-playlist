@@ -74,7 +74,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 190644,
       "name": "1+1=11 - Edit",
       "url": "https://open.spotify.com/track/2HMas4DrtQoPebT1VL52Dr"
@@ -268,7 +268,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 151961,
       "name": "A Bar Song (Tipsy) [Remix]",
       "url": "https://open.spotify.com/track/0baUuonAecT31Sju50YgOB"
@@ -9892,7 +9892,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 202857,
       "name": "I Don't Wanna Wait - Hypaton Remix",
       "url": "https://open.spotify.com/track/0fWEiUDScOulPx57WQk1Bo"
@@ -12898,6 +12898,24 @@
       "duration_ms": 210946,
       "name": "Meet Again - VIVID Remix",
       "url": "https://open.spotify.com/track/6Fa2ZuCZ6M7Wje5BFozAXb"
+    },
+    {
+      "album": {
+        "name": "Melodia",
+        "url": "https://open.spotify.com/album/4LntPSMGgRAOym8Yj684Gw"
+      },
+      "artists": [
+        {
+          "name": "Space 92",
+          "url": "https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222043,
+      "name": "Melodia",
+      "url": "https://open.spotify.com/track/78dLyf8klcyrmgpwgmRQlE"
     },
     {
       "album": {
@@ -16299,6 +16317,24 @@
     },
     {
       "album": {
+        "name": "Pressure",
+        "url": "https://open.spotify.com/album/3LKzgCd8XZzsRRi3CRRsv7"
+      },
+      "artists": [
+        {
+          "name": "R\u00dcF\u00dcS DU SOL",
+          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279346,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/1ubTFuP9rXCYzYQM7jUoWM"
+    },
+    {
+      "album": {
         "name": "Pressure (feat. MAO)",
         "url": "https://open.spotify.com/album/2rsVfcdCNU6XGqDZyKgGaV"
       },
@@ -18266,7 +18302,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 213230,
       "name": "Satisfaction",
       "url": "https://open.spotify.com/track/7wSEDWlXFMqBhDHyB9Ojw6"
@@ -19984,6 +20020,28 @@
       "duration_ms": 161904,
       "name": "Stars Align (with Jolin Tsai)",
       "url": "https://open.spotify.com/track/0xDQPgYdTQZCn92Ee1W0WW"
+    },
+    {
+      "album": {
+        "name": "Stars Will Align",
+        "url": "https://open.spotify.com/album/5q923PscX4aJaonXBWTDcj"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234366,
+      "name": "Stars Will Align",
+      "url": "https://open.spotify.com/track/5REMa10O4aA2mLtYyflWxs"
     },
     {
       "album": {
@@ -25006,6 +25064,36 @@
       "duration_ms": 154620,
       "name": "Wrong or Right (The Riddle)",
       "url": "https://open.spotify.com/track/78VSoe3vn4gR4pYSTBiAXA"
+    },
+    {
+      "album": {
+        "name": "YES B!TCH (feat. Rome Fortune)",
+        "url": "https://open.spotify.com/album/05DAvfknkXbvp2RkYs1R5a"
+      },
+      "artists": [
+        {
+          "name": "DANNY AVILA",
+          "url": "https://open.spotify.com/artist/1Xv1qZHJ1hnRlWHRTZ3uci"
+        },
+        {
+          "name": "Sam WOLFE",
+          "url": "https://open.spotify.com/artist/1Hu2YwTv9wmxC8sppVVUA4"
+        },
+        {
+          "name": "HNTR",
+          "url": "https://open.spotify.com/artist/3R0yz9xgTmCOLQMPcJ6MuU"
+        },
+        {
+          "name": "Rome Fortune",
+          "url": "https://open.spotify.com/artist/0AlOgXaMBLYvxNEhqHM4np"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153569,
+      "name": "YES B!TCH (feat. Rome Fortune)",
+      "url": "https://open.spotify.com/track/02RO8IclcFVLOjHP8AJ033"
     },
     {
       "album": {

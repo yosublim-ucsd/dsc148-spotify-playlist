@@ -355,6 +355,24 @@
     },
     {
       "album": {
+        "name": "The Silver Tongued Devil and I",
+        "url": "https://open.spotify.com/album/4wj7dvOFqAEIiFS1WbpQdw"
+      },
+      "artists": [
+        {
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        }
+      ],
+      "date_added": "2024-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162226,
+      "name": "Breakdown (A Long Way from Home)",
+      "url": "https://open.spotify.com/track/0W3Z6CmxQAF2h07TWmBM0l"
+    },
+    {
+      "album": {
         "name": "The Essential Kris Kristofferson",
         "url": "https://open.spotify.com/album/0gGq5EiYpLZaJNYwEoPRY3"
       },
@@ -1506,7 +1524,7 @@
       ],
       "date_added": "2024-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 342857,
       "name": "The Lonely Night - Reprise Version",
       "url": "https://open.spotify.com/track/1RvndHj1xvKJVfe32aKgIv"

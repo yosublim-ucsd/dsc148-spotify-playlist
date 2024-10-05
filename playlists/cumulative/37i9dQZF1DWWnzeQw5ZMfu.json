@@ -2118,7 +2118,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 486889,
       "name": "Latch - Live From Madison Square Garden",
       "url": "https://open.spotify.com/track/1M6IbIQY2yf9we4LlT2keJ"
@@ -2444,7 +2444,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 232200,
       "name": "Make You Feel My Love (Live at Hotel Cafe)",
       "url": "https://open.spotify.com/track/16nQF9mLw4qMKnz9cJ2cpn"
@@ -2905,6 +2905,24 @@
     },
     {
       "album": {
+        "name": "The 25th Anniversary of Christina Aguilera | Spotify Anniversaries LIVE",
+        "url": "https://open.spotify.com/album/72220mUyaNDhUhz5oIk5yo"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159000,
+      "name": "Reflection - Live - Spotify Anniversaries Version",
+      "url": "https://open.spotify.com/track/5xhjz2n0e7KYAb9sVdl9Pz"
+    },
+    {
+      "album": {
         "name": "AMY (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5Fb59VtYjJNTXPcNGpoDU3"
       },
@@ -2988,7 +3006,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-23",
+      "date_removed": null,
       "duration_ms": 266418,
       "name": "Say You'll Be There - Live From Abdi \u0130pek\u00e7i Arena, Istanbul, Turkey/1997",
       "url": "https://open.spotify.com/track/05GA2KEnd9MysHPKJacrId"
@@ -3911,6 +3929,24 @@
     },
     {
       "album": {
+        "name": "eternal sunshine (slightly deluxe and also live)",
+        "url": "https://open.spotify.com/album/70DwGIQRimyF7nk7cyRC09"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204069,
+      "name": "we can\u2019t be friends (wait for your love) - live version",
+      "url": "https://open.spotify.com/track/1COKXjj8bIlQNjvx4MGOVD"
+    },
+    {
+      "album": {
         "name": "Pandemonium (Live at the O2 Arena, London - 21 December 2009)",
         "url": "https://open.spotify.com/album/3ndAvT7Tca2KclpKe9BbbL"
       },
@@ -4160,7 +4196,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 181093,
       "name": "You - Live",
       "url": "https://open.spotify.com/track/66MhEsUuahsQOxNR4RJv9Z"

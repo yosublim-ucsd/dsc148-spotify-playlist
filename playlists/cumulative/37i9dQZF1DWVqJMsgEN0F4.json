@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Twenty One Pilots along with the hottest alternative songs right now.",
+  "description": "Good Neighbours along with the hottest alternative songs right now.",
   "name": "ALT NOW",
   "tracks": [
     {
@@ -494,6 +494,24 @@
       "duration_ms": 226133,
       "name": "All We Ever Do Is Talk",
       "url": "https://open.spotify.com/track/11sca0kohiR73mPDy9qhZv"
+    },
+    {
+      "album": {
+        "name": "Alone",
+        "url": "https://open.spotify.com/album/5Fe0AaIdua2BPx5cTXMM4M"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 408690,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/7zHhP0CHO4cONkImJ0Oau6"
     },
     {
       "album": {
@@ -1351,6 +1369,24 @@
     },
     {
       "album": {
+        "name": "Saviors",
+        "url": "https://open.spotify.com/album/4AIeqAMDyIT884A9uA2A0i"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224310,
+      "name": "Bobby Sox",
+      "url": "https://open.spotify.com/track/7DXBItTPwL8OpsbXdj58Fl"
+    },
+    {
+      "album": {
         "name": "Body",
         "url": "https://open.spotify.com/album/3swueKx3F4dUACphPJOBy3"
       },
@@ -2058,6 +2094,24 @@
       "duration_ms": 221373,
       "name": "Cleats",
       "url": "https://open.spotify.com/track/7HWONeQrWpcjflAPGbH5L3"
+    },
+    {
+      "album": {
+        "name": "Clueless",
+        "url": "https://open.spotify.com/album/2H3XOt3oaqB6rAVKhmdUd3"
+      },
+      "artists": [
+        {
+          "name": "Beach Bunny",
+          "url": "https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208298,
+      "name": "Clueless",
+      "url": "https://open.spotify.com/track/55Hlg31EQDXQn71p1KIr8r"
     },
     {
       "album": {
@@ -2770,7 +2824,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 198324,
       "name": "Dilemma",
       "url": "https://open.spotify.com/track/4NrGMEm5SvvpJ9Tk1Rq3cP"
@@ -4597,6 +4651,24 @@
     },
     {
       "album": {
+        "name": "Good Neighbours",
+        "url": "https://open.spotify.com/album/1iArxZvJgmmlTo6VwuHvll"
+      },
+      "artists": [
+        {
+          "name": "Good Neighbours",
+          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157485,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/0CxoJLHMOp7K87hKGGF8rM"
+    },
+    {
+      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/140NIeh2n6kSX9BHAsvlwy"
       },
@@ -4608,7 +4680,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 157485,
       "name": "Home",
       "url": "https://open.spotify.com/track/68mOSKT4uBkKddEAhlMO61"
@@ -4684,6 +4756,24 @@
       "duration_ms": 137404,
       "name": "hotline",
       "url": "https://open.spotify.com/track/0ZUZmQiHvcHJY3375xsk3F"
+    },
+    {
+      "album": {
+        "name": "Houston",
+        "url": "https://open.spotify.com/album/48adyhddPaE5YihkleCu7I"
+      },
+      "artists": [
+        {
+          "name": "Jean Dawson",
+          "url": "https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277894,
+      "name": "Houston",
+      "url": "https://open.spotify.com/track/4d9O0gY7JmTXRHNmv4It66"
     },
     {
       "album": {
@@ -4790,7 +4880,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 172493,
       "name": "I Don't Wanna Party Anymore (Feat. Kacey Musgraves)",
       "url": "https://open.spotify.com/track/616pKgs2dHcWAygreRapKM"
@@ -6154,7 +6244,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 214053,
       "name": "Make It All Right",
       "url": "https://open.spotify.com/track/1N0O2fiLHAPkscHxa3ccW2"
@@ -6372,6 +6462,28 @@
       "duration_ms": 170437,
       "name": "messy in heaven",
       "url": "https://open.spotify.com/track/5RobAV5ROH5KARimi7n3cO"
+    },
+    {
+      "album": {
+        "name": "Mi Tormenta (feat. DannyLux)",
+        "url": "https://open.spotify.com/album/2fQK7PAhWR8oEsS7nqQCCs"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        },
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202479,
+      "name": "Mi Tormenta (feat. DannyLux)",
+      "url": "https://open.spotify.com/track/2aWBskyssdR9VyVV3dH65j"
     },
     {
       "album": {
@@ -7131,6 +7243,32 @@
     },
     {
       "album": {
+        "name": "Nightcall",
+        "url": "https://open.spotify.com/album/05OLq8nG4L5WYZXTfXVYM7"
+      },
+      "artists": [
+        {
+          "name": "Kavinsky",
+          "url": "https://open.spotify.com/artist/0UF7XLthtbSF2Eur7559oV"
+        },
+        {
+          "name": "Ang\u00e8le",
+          "url": "https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli"
+        },
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179306,
+      "name": "Nightcall",
+      "url": "https://open.spotify.com/track/2KejCKgm7l3uefW9cFt8cH"
+    },
+    {
+      "album": {
         "name": "No Love In LA / Punching Bag",
         "url": "https://open.spotify.com/album/6F5Nq2vim1uZ960TmhVuLd"
       },
@@ -7502,7 +7640,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 220584,
       "name": "Nowhere To Run",
       "url": "https://open.spotify.com/track/44R1ZALac20AijYr5TtPgr"
@@ -8166,7 +8304,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 219964,
       "name": "Perfume",
       "url": "https://open.spotify.com/track/5CBZHzvgJ7bOB9WPWmWbwq"
@@ -8888,7 +9026,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 261966,
       "name": "Save It For Later",
       "url": "https://open.spotify.com/track/2rs6UMzlu1pMGGVw60tiHm"
@@ -9641,6 +9779,24 @@
     },
     {
       "album": {
+        "name": "Can We Please Have Fun",
+        "url": "https://open.spotify.com/album/2FKCYNTlVVub7yPDncWamQ"
+      },
+      "artists": [
+        {
+          "name": "Kings of Leon",
+          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303005,
+      "name": "Split Screen",
+      "url": "https://open.spotify.com/track/72axgzzIesvooaE3TTjWKp"
+    },
+    {
+      "album": {
         "name": "Zach Bryan",
         "url": "https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf"
       },
@@ -9912,7 +10068,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 242410,
       "name": "Summer 2000 Baby",
       "url": "https://open.spotify.com/track/6x83tnP3E6Oga5ULleHjt9"
@@ -11564,7 +11720,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 251424,
       "name": "Too Sweet",
       "url": "https://open.spotify.com/track/4IadxL6BUymXlh8RCJJu7T"
@@ -11922,7 +12078,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 148326,
       "name": "Vertigo",
       "url": "https://open.spotify.com/track/7q32daOSf12k8WynvXBcyh"
@@ -12532,6 +12688,28 @@
       "duration_ms": 182197,
       "name": "When The Devil Speaks\u2026",
       "url": "https://open.spotify.com/track/2FKnNu9PmgcUSXXBgR2phR"
+    },
+    {
+      "album": {
+        "name": "Dragon in Harmony",
+        "url": "https://open.spotify.com/album/7BiKEf58x9WCD7ysIWCLYC"
+      },
+      "artists": [
+        {
+          "name": "Marcin",
+          "url": "https://open.spotify.com/artist/2F7PtF4lRVIufJd6Sjud71"
+        },
+        {
+          "name": "Portugal. The Man",
+          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198053,
+      "name": "When the Light Goes (feat. Portugal. The Man)",
+      "url": "https://open.spotify.com/track/42LosPywlCAQnvtZf4hK46"
     },
     {
       "album": {

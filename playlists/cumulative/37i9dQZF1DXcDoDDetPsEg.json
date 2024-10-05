@@ -982,7 +982,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 254922,
       "name": "Alone",
       "url": "https://open.spotify.com/track/3fULF5CQpgCGpnUeLmRvTL"
@@ -10312,7 +10312,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 128858,
-      "name": "Hollon",
+      "name": "HOLLON",
       "url": "https://open.spotify.com/track/2AB83f5ztHiCFA6DIgodzc"
     },
     {
@@ -15396,6 +15396,24 @@
       "duration_ms": 186426,
       "name": "Money, Money, Money",
       "url": "https://open.spotify.com/track/3lKN03PDeBnXZS7sDukRBt"
+    },
+    {
+      "album": {
+        "name": "Monitoring Me",
+        "url": "https://open.spotify.com/album/4gihDInzv5b57Fy5fhcsGV"
+      },
+      "artists": [
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144746,
+      "name": "Monitoring Me",
+      "url": "https://open.spotify.com/track/5et07CoblayzSAQIFLtP3d"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > The R&B and good vibe tracks for your current mood\. Cover: Noni
 
-929 songs - 2 day 2 hr 9 min
+931 songs - 2 day 2 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,6 +126,7 @@
 | [Cardboard Box](https://open.spotify.com/track/2rf9i0Enr8cw1JRME8Rsvq) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Cardboard Box](https://open.spotify.com/album/51OgsspyNulg111Dti5Sdj) | 2:41 | 2022-09-22 | 2024-01-05 |
 | [Careful \(From The Original Motion Picture "Magic Mike's Last Dance"\)](https://open.spotify.com/track/5VRVc5Cq5MbKJG5llJ8XvH) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Careful \(From The Original Motion Picture "Magic Mike's Last Dance"\)](https://open.spotify.com/album/1TzD43H8N0nGO5GRIvlDge) | 3:12 | 2023-02-09 | 2023-02-18 |
 | [Casper](https://open.spotify.com/track/0pYiZVUm2jZyTUz9zzKV8s) | [Rayi Putra](https://open.spotify.com/artist/3FduEXHFSq8Hboekc8JMUR), [Noni](https://open.spotify.com/artist/5qKvIYld9MeIwjut9otxti) | [Casper](https://open.spotify.com/album/3Atgb7xr6Rs3akwH2v6bgV) | 2:44 | 2024-06-27 | 2024-07-19 |
+| [Castaway](https://open.spotify.com/track/5EyDNXBrCh3MI6IsIkiy3f) | [Wildberry](https://open.spotify.com/artist/1YQcUhWjs1NGWi24wLDkgf) | [AGAPE](https://open.spotify.com/album/516miCkYlNwL5xq6fXoopb) | 3:56 | 2024-10-03 |  |
 | [castle](https://open.spotify.com/track/27iZAhkSm6AHLf65pxvQBz) | [asheu](https://open.spotify.com/artist/3ft1JIPPDsSpFr6y6Xvqu3), [yedira](https://open.spotify.com/artist/2NqUNNVaealnNxAUcSX9Xq) | [castle](https://open.spotify.com/album/4Ezj9rf825Qgnr7mheGVsR) | 2:48 | 2023-05-25 | 2023-06-09 |
 | [cat person](https://open.spotify.com/track/4qTxDDWrH2Wxu5JBPjIW1P) | [LIU KOI](https://open.spotify.com/artist/08oPfsqJWRQaDYTupwwXrE) | [cat person](https://open.spotify.com/album/03bTs0yoDu72dXh8gtPjKD) | 2:38 | 2023-09-07 | 2023-11-10 |
 | [Caught Up](https://open.spotify.com/track/4XmQYIwiP6wveSj9bBGCyQ) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Caught Up](https://open.spotify.com/album/4rG8urpRqy180HcCWO1mML) | 3:50 | 2024-05-24 | 2024-08-09 |
@@ -688,6 +689,7 @@
 | [Shadow In The Storm](https://open.spotify.com/track/5baV4ZFU0mhUVbrcZyv4FD) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Passing](https://open.spotify.com/album/3oPVTRtA5zQKKSgBPlYpzG) | 3:35 | 2023-03-09 | 2023-04-01 |
 | [Shallow Water](https://open.spotify.com/track/3Uf7CHxUovGESEK2YvcGAY) | [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du) | [Shallow Water](https://open.spotify.com/album/6vxwXV8w20fsU50YID7cKI) | 2:43 | 2024-02-01 | 2024-07-27 |
 | [SHAME](https://open.spotify.com/track/4dv6f5PpEIf5nt1vE1xu6M) | [tanny ng](https://open.spotify.com/artist/6SmToDyj12uS8WGrc6m8ei), [kinu](https://open.spotify.com/artist/2P04gMM2tzgMQFKL3e4UTm) | [SHAME](https://open.spotify.com/album/2Kt26AIMRk6hdkHfJ6csB5) | 2:34 | 2023-07-13 | 2023-08-04 |
+| [She Don't](https://open.spotify.com/track/19nRNXTHFIO6kadcO9s7a6) | [Royette](https://open.spotify.com/artist/7LYfNPFV0kGH7GhKHKlIAU) | [She Don't](https://open.spotify.com/album/66cfmoek7arPIfImWDJyJf) | 3:36 | 2024-10-03 |  |
 | [Shelter From The Rain](https://open.spotify.com/track/6k3JfHzpYLZ9vrQZlFEauR) | [KEYANA](https://open.spotify.com/artist/55xVPquXFuGsZjvx4i68GZ) | [Shelter From The Rain](https://open.spotify.com/album/3p9jJToxnkDDqVtuPeuGSl) | 2:21 | 2023-05-25 | 2023-06-09 |
 | [Shirt](https://open.spotify.com/track/34ZAzO78a5DAVNrYIGWcPm) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Shirt](https://open.spotify.com/album/6Kqm5aSp69hTaOHTx38hsD) | 3:01 | 2022-10-28 | 2022-11-11 |
 | [SHOW ME OUT](https://open.spotify.com/track/6h0yJ8bTlpxfwiJ0aXbKxG) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [talking to the wind](https://open.spotify.com/album/1cVxRuTFcepbaLF1Tc1C47) | 2:13 | 2024-01-18 | 2024-02-16 |

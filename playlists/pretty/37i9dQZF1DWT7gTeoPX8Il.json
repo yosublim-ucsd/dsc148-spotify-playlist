@@ -1,6 +1,6 @@
 {
   "description": "layan je",
-  "num_followers": 126976,
+  "num_followers": 127066,
   "original_name": "galau rabak",
   "owner": {
     "name": "Spotify",
@@ -323,22 +323,6 @@
     {
       "added_at": "2024-10-03 17:00:00",
       "album": {
-        "name": "Mati-Matian",
-        "url": "https://open.spotify.com/album/22rc3bBMyJemUaLBe7chVV"
-      },
-      "artists": [
-        {
-          "name": "Mahalini",
-          "url": "https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4"
-        }
-      ],
-      "duration_ms": 244137,
-      "name": "Mati-Matian",
-      "url": "https://open.spotify.com/track/6XKEElbr3cWmnUw6a5HRBV"
-    },
-    {
-      "added_at": "2024-10-03 17:00:00",
-      "album": {
         "name": "Duka",
         "url": "https://open.spotify.com/album/6RUEyCnpcBsm3uSv08NY8q"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 325147,
       "name": "Duka",
       "url": "https://open.spotify.com/track/5MIpcd16T59wFeqAChSYwC"
+    },
+    {
+      "added_at": "2024-10-03 17:00:00",
+      "album": {
+        "name": "Mati-Matian",
+        "url": "https://open.spotify.com/album/22rc3bBMyJemUaLBe7chVV"
+      },
+      "artists": [
+        {
+          "name": "Mahalini",
+          "url": "https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4"
+        }
+      ],
+      "duration_ms": 244137,
+      "name": "Mati-Matian",
+      "url": "https://open.spotify.com/track/6XKEElbr3cWmnUw6a5HRBV"
     },
     {
       "added_at": "2024-10-03 17:00:00",
@@ -683,26 +683,6 @@
     {
       "added_at": "2024-10-03 17:00:00",
       "album": {
-        "name": "Cintanya Aku",
-        "url": "https://open.spotify.com/album/2qEHRe3bIRZ1DLyYMmnBK4"
-      },
-      "artists": [
-        {
-          "name": "Tiara Andini",
-          "url": "https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm"
-        },
-        {
-          "name": "Arsy Widianto",
-          "url": "https://open.spotify.com/artist/7j5PGC0BF48rRtcmgbVvOT"
-        }
-      ],
-      "duration_ms": 234125,
-      "name": "Cintanya Aku",
-      "url": "https://open.spotify.com/track/53fKDMfQhWMSw7QKVDOTBP"
-    },
-    {
-      "added_at": "2024-10-03 17:00:00",
-      "album": {
         "name": "Aura",
         "url": "https://open.spotify.com/album/59ptvvKVVgt5Oo8R6uYDda"
       },
@@ -723,18 +703,22 @@
     {
       "added_at": "2024-10-03 17:00:00",
       "album": {
-        "name": "Nanti Kita Seperti Ini",
-        "url": "https://open.spotify.com/album/2UF7W9r1nqberWW2Bkx4ZT"
+        "name": "Cintanya Aku",
+        "url": "https://open.spotify.com/album/2qEHRe3bIRZ1DLyYMmnBK4"
       },
       "artists": [
         {
-          "name": "Batas Senja",
-          "url": "https://open.spotify.com/artist/4AhHkaGz7W2bKKJK90IaV2"
+          "name": "Tiara Andini",
+          "url": "https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm"
+        },
+        {
+          "name": "Arsy Widianto",
+          "url": "https://open.spotify.com/artist/7j5PGC0BF48rRtcmgbVvOT"
         }
       ],
-      "duration_ms": 209647,
-      "name": "Nanti Kita Seperti Ini",
-      "url": "https://open.spotify.com/track/2NjbJR8y083mOV59255QSe"
+      "duration_ms": 234125,
+      "name": "Cintanya Aku",
+      "url": "https://open.spotify.com/track/53fKDMfQhWMSw7QKVDOTBP"
     },
     {
       "added_at": "2024-10-03 17:00:00",
@@ -751,6 +735,22 @@
       "duration_ms": 242640,
       "name": "Aku Yang Tersakiti",
       "url": "https://open.spotify.com/track/5pzblRSSo6YWd2dQR3sp2m"
+    },
+    {
+      "added_at": "2024-10-03 17:00:00",
+      "album": {
+        "name": "Nanti Kita Seperti Ini",
+        "url": "https://open.spotify.com/album/2UF7W9r1nqberWW2Bkx4ZT"
+      },
+      "artists": [
+        {
+          "name": "Batas Senja",
+          "url": "https://open.spotify.com/artist/4AhHkaGz7W2bKKJK90IaV2"
+        }
+      ],
+      "duration_ms": 209647,
+      "name": "Nanti Kita Seperti Ini",
+      "url": "https://open.spotify.com/track/2NjbJR8y083mOV59255QSe"
     },
     {
       "added_at": "2024-10-03 17:00:00",

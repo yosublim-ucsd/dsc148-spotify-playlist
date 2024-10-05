@@ -4,11 +4,12 @@
 
 > Suomi\-indien tuoreimpia helmiä\. Kannessa Aksel Kankaanranta.
 
-294 songs - 17 hr 28 min
+295 songs - 17 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(You Wouldn't\) So I Don't](https://open.spotify.com/track/7iiWL2YS2jEG0vjJHQ01jB) | [Ingrid Alaina](https://open.spotify.com/artist/0eL3qlry7fIu26GJZA7QeP) | [\(You Wouldn't\) So I Don't](https://open.spotify.com/album/4YRnjcQi6fvjTRVrM9mP6M) | 3:05 | 2024-07-11 | 2024-09-06 |
+| [50 Years](https://open.spotify.com/track/44e2wBM4lKjSCFoOjFtc9J) | [Haydé](https://open.spotify.com/artist/0fIXG1H4UrLacQO7viC5vu) | [50 Years](https://open.spotify.com/album/2xIu15pj34gpXGXchk48D6) | 3:13 | 2024-10-04 |  |
 | [5AM](https://open.spotify.com/track/6DVO1YMYhnGVzMhGJ6YTYj) | [Folks](https://open.spotify.com/artist/3CvmHRkZZFXMZEiC1QvoXb) | [5AM](https://open.spotify.com/album/50BDfvJzk82bU01qEjy02Q) | 3:02 | 2024-07-11 | 2024-08-16 |
 | [A Time for Everything](https://open.spotify.com/track/24LNDWJB6unfsSFNiUwd2Y) | [Sätilä](https://open.spotify.com/artist/7C64gqcTl8N3ethokcN5KD) | [A Time for Everything](https://open.spotify.com/album/4BGg5nGLMeesg71iOu1cja) | 3:56 | 2024-07-02 | 2024-08-30 |
 | [AB\_remix](https://open.spotify.com/track/2JRwyEl2tXDs84XrCufsGI) | [Nelma U](https://open.spotify.com/artist/5nDJjSWGoWmMhIi4h5SaLV), [Torch Arts](https://open.spotify.com/artist/3FKkBQdfTrIdUlt2kpLPrM) | [AB\_remix](https://open.spotify.com/album/4L5PoE6DODVRit45OVDQ16) | 2:55 | 2024-08-15 | 2024-09-20 |

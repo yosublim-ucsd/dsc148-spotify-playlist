@@ -1,12 +1,12 @@
 {
   "description": "Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat. Cover: Coldplay",
-  "num_followers": 175621,
+  "num_followers": 175657,
   "original_name": "New Music Friday Indonesia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zv7NkAAAAACXGUN1O28IEQW26/27uD1p",
+  "snapshot_id": "Zv+bEQAAAAAX82aHAUnjo7aWnZWygDqt",
   "tracks": [
     {
       "added_at": "2024-10-03 17:00:00",
@@ -41,20 +41,24 @@
       "url": "https://open.spotify.com/track/3yDRcs0Y4pPzkvMbUfeF9H"
     },
     {
-      "added_at": "2024-10-03 17:00:00",
+      "added_at": "2024-10-04 07:36:49",
       "album": {
         "name": "Joker: Folie \u00e0 Deux (Music From The Motion Picture)",
         "url": "https://open.spotify.com/album/3X2oYJbZtrmszmNeXRpckc"
       },
       "artists": [
         {
+          "name": "Joaquin Phoenix",
+          "url": "https://open.spotify.com/artist/3j507n6aQUbtVxQv2Q6Usv"
+        },
+        {
           "name": "Lady Gaga",
           "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
         }
       ],
-      "duration_ms": 104000,
-      "name": "Folie \u00e0 Deux - Music From The Motion Picture",
-      "url": "https://open.spotify.com/track/4Twrnhrg6yIFCdor6yoFvW"
+      "duration_ms": 109680,
+      "name": "To Love Somebody - Music From The Motion Picture",
+      "url": "https://open.spotify.com/track/7FyQqFixAnYRi64pcM63Nx"
     },
     {
       "added_at": "2024-10-03 17:00:00",
@@ -131,6 +135,22 @@
       "duration_ms": 305533,
       "name": "Sendiri",
       "url": "https://open.spotify.com/track/0W6UGr30FSAbxgDi4RK1zO"
+    },
+    {
+      "added_at": "2024-10-03 17:00:00",
+      "album": {
+        "name": "R.E.M",
+        "url": "https://open.spotify.com/album/4xcIr0rkoIBPmoSPamCorO"
+      },
+      "artists": [
+        {
+          "name": "KISS OF LIFE",
+          "url": "https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky"
+        }
+      ],
+      "duration_ms": 172773,
+      "name": "R.E.M",
+      "url": "https://open.spotify.com/track/7D2B5pj751b3MIaU4TwE6e"
     },
     {
       "added_at": "2024-10-03 17:00:00",
@@ -851,6 +871,22 @@
       "duration_ms": 200000,
       "name": "Retro Petrol",
       "url": "https://open.spotify.com/track/59oQuPQ71B9TcwbO6kJOUv"
+    },
+    {
+      "added_at": "2024-10-03 17:00:00",
+      "album": {
+        "name": "4444",
+        "url": "https://open.spotify.com/album/3gl255N0kUUIkK0GgelT3j"
+      },
+      "artists": [
+        {
+          "name": "WOOSUNG",
+          "url": "https://open.spotify.com/artist/5LHu1iF8m0XtRBEJbbwSoo"
+        }
+      ],
+      "duration_ms": 313866,
+      "name": "44 (Forget Forever)",
+      "url": "https://open.spotify.com/track/1gB4AZdHNk7jawrX5M7tEm"
     },
     {
       "added_at": "2024-10-03 17:00:00",

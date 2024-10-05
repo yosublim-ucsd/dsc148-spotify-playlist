@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-15",
-  "description": "n\u00fc-metal revival is happening here and now with Linkin Park.",
+  "description": "n\u00fc-metal revival is happening here and now with Blind Channel.",
   "name": "new n\u00fc",
   "tracks": [
     {
@@ -38,7 +38,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 182099,
       "name": "(Re)-Extract",
       "url": "https://open.spotify.com/track/3dP3PfCwcvmzJlI6NUZurb"
@@ -216,7 +216,7 @@
       ],
       "date_added": "2023-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 218859,
       "name": "Animal",
       "url": "https://open.spotify.com/track/1BO5Y7G9ukdTRVw1ER0HuC"
@@ -1119,6 +1119,28 @@
     },
     {
       "album": {
+        "name": "filthy/RIGHTEOUS (feat. Kenta Koie of Crossfaith)",
+        "url": "https://open.spotify.com/album/22OGFESsnG4chRM0pPEwLE"
+      },
+      "artists": [
+        {
+          "name": "Trash Boat",
+          "url": "https://open.spotify.com/artist/0XGJ3GUPwslwFJ66yNbHeh"
+        },
+        {
+          "name": "Crossfaith",
+          "url": "https://open.spotify.com/artist/3gfA40vRbx6YX8oCDXDCDh"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236924,
+      "name": "filthy/RIGHTEOUS (feat. Kenta Koie of Crossfaith)",
+      "url": "https://open.spotify.com/track/2pxsyhvXrWCvjXBYCOilQ4"
+    },
+    {
+      "album": {
         "name": "FLY AWAY",
         "url": "https://open.spotify.com/album/7v3QQTTbPLDoUZ9lUhVbLd"
       },
@@ -1238,7 +1260,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 210164,
       "name": "Funny Man",
       "url": "https://open.spotify.com/track/2sIz8tMsAfyXyQVsGTBQcN"
@@ -1260,6 +1282,24 @@
       "duration_ms": 193853,
       "name": "Gimme That Boom",
       "url": "https://open.spotify.com/track/5aZ9mfnT8jp3ZdrMQaF76j"
+    },
+    {
+      "album": {
+        "name": "God Complex",
+        "url": "https://open.spotify.com/album/1Xa3Q3nF9WpKdf2ICVJ8S9"
+      },
+      "artists": [
+        {
+          "name": "Sunk Loto",
+          "url": "https://open.spotify.com/artist/7MGHuj52nFdF1mAYRl0zkG"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229144,
+      "name": "God Complex",
+      "url": "https://open.spotify.com/track/18lxHacUb6124MN6ftbT92"
     },
     {
       "album": {
@@ -1570,7 +1610,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 178342,
       "name": "JOYKILLER",
       "url": "https://open.spotify.com/track/4x5CQ8DdRQFAJSq5lfXwuh"
@@ -2315,6 +2355,24 @@
     },
     {
       "album": {
+        "name": "plastic",
+        "url": "https://open.spotify.com/album/3VdXEoYTcxD5wqzPqESOWU"
+      },
+      "artists": [
+        {
+          "name": "Twiztid",
+          "url": "https://open.spotify.com/artist/2aMAN8kMJ7eUOAuPUYOwI7"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238560,
+      "name": "plastic",
+      "url": "https://open.spotify.com/track/4i2PsRhDtXbxelmxT5CIlU"
+    },
+    {
+      "album": {
         "name": "Playing Favorites",
         "url": "https://open.spotify.com/album/4CNimXIiD2DvMpHHUxPepY"
       },
@@ -2496,7 +2554,7 @@
       ],
       "date_added": "2023-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 234159,
       "name": "RED",
       "url": "https://open.spotify.com/track/6fv8sI48halTMxJBLqUEmv"
@@ -2742,7 +2800,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 196293,
       "name": "SO RAUS (feat. Fred Durst)",
       "url": "https://open.spotify.com/track/47QjPV3o8PqDnruovlyc1F"

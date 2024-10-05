@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7eWGbr5dV3X.md) - [plain]
 
 > Celebrate, amplify, and support LGBTQ+ API musicians\. Cover: Towa Bird.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,718 likes - 45 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,719 likes - 45 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,14 +31,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7eWGbr5dV3X.md) - [plain]
 | 21 | [Crutches](https://open.spotify.com/track/4MdxHfa5fmIdvPwYXM56gS) | [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [Crutches](https://open.spotify.com/album/4U59RIA6eisih8TNjz7CzP) | 2:50 |
 | 22 | [Robbed](https://open.spotify.com/track/29IHIrE9eWpH8j6c3P10nq) | [Manila Luzon](https://open.spotify.com/artist/1cJCVvFLO8SLM8W9EITe1g) | [Rules!](https://open.spotify.com/album/0kk6iwrHZ2eoRyHXMFhwga) | 3:22 |
 | 23 | [Mess](https://open.spotify.com/track/0qGy2mmBbemdvjHy1cfmrD) | [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz) | [Mess](https://open.spotify.com/album/3RYjGPpZvBQmNHu9QUUywN) | 3:32 |
-| 24 | [No New Friends](https://open.spotify.com/track/3F3sFq64qFLeTcXqvjttH3) | [Priyanka](https://open.spotify.com/artist/1RSalo3q49NotNwKB2jtjO) | [No New Friends](https://open.spotify.com/album/0JCwDW8OoRosByl0NWgluA) | 2:58 |
-| 25 | [Need Ya](https://open.spotify.com/track/7DdiwiiHRuqRZizeq6s1NM) | [Jujubee](https://open.spotify.com/artist/4YJKhu78Ddth48vou16B7U) | [good juju : vol\. 1](https://open.spotify.com/album/2JBGnfjeAuIK26Ysk3XlIS) | 3:01 |
+| 24 | [Need Ya](https://open.spotify.com/track/7DdiwiiHRuqRZizeq6s1NM) | [Jujubee](https://open.spotify.com/artist/4YJKhu78Ddth48vou16B7U) | [good juju : vol\. 1](https://open.spotify.com/album/2JBGnfjeAuIK26Ysk3XlIS) | 3:01 |
+| 25 | [No New Friends](https://open.spotify.com/track/3F3sFq64qFLeTcXqvjttH3) | [Priyanka](https://open.spotify.com/artist/1RSalo3q49NotNwKB2jtjO) | [No New Friends](https://open.spotify.com/album/0JCwDW8OoRosByl0NWgluA) | 2:58 |
 | 26 | [Masterpiece \(80s Remix\)](https://open.spotify.com/track/3LspHgoGctRuW3lccLI5gx) | [Summer C](https://open.spotify.com/artist/4q0x2gtJstAX1i8B95hLO7) | [Masterpiece \(80s Remix\)](https://open.spotify.com/album/2tJRA9WA7MHc8WbmHHAE9z) | 3:58 |
 | 27 | [Honey Understand](https://open.spotify.com/track/3q5eBVe8qOa1x3f24xoBkc) | [NoSo](https://open.spotify.com/artist/09Wl9YiRr5l1rChWktQD4o) | [Honey Understand](https://open.spotify.com/album/5fNeCyH1z4hzntsX0bfRrM) | 4:01 |
 | 28 | [Goals\_](https://open.spotify.com/track/26kLjAnE9RZhySfSBkASND) | [SuperKnova](https://open.spotify.com/artist/7om8BpNIYHtacdW2rDVHuD) | [Goals\_](https://open.spotify.com/album/6zs8IZxCicVdrnUnpGC82a) | 3:29 |
 | 29 | [K I'm Mortal](https://open.spotify.com/track/4YOfMkWDidWbIFyDy7l39o) | [Kimmortal](https://open.spotify.com/artist/0ioYxkShKhYOKpQh0ERVFS) | [K I'm Mortal](https://open.spotify.com/album/2qzYOiBrWiN5QTMCu8km9P) | 3:40 |
-| 30 | [Round and Round \(Bright Light Bright Light Remix\)](https://open.spotify.com/track/2OeJvSrwnM8fb64WJ4YUXC) | [Jujubee](https://open.spotify.com/artist/4YJKhu78Ddth48vou16B7U), [Bright Light Bright Light](https://open.spotify.com/artist/25bvQC4jyyFUce6jbzNlwb) | [Round and Round \(Bright Light Bright Light Remix\)](https://open.spotify.com/album/3MX5f6IsfLSCvWHkjS11CD) | 3:36 |
-| 31 | [All I Have To Do Is Dream](https://open.spotify.com/track/3pSjlLIbZZ67aWL1DwGXoE) | [Polartropica](https://open.spotify.com/artist/594UCPHorID2NPzhboCuWl) | [All I Have To Do Is Dream](https://open.spotify.com/album/0uoZnGYyRF3QWuf0RKU1mo) | 3:41 |
+| 30 | [All I Have To Do Is Dream](https://open.spotify.com/track/3pSjlLIbZZ67aWL1DwGXoE) | [Polartropica](https://open.spotify.com/artist/594UCPHorID2NPzhboCuWl) | [All I Have To Do Is Dream](https://open.spotify.com/album/0uoZnGYyRF3QWuf0RKU1mo) | 3:41 |
+| 31 | [Round and Round \(Bright Light Bright Light Remix\)](https://open.spotify.com/track/2OeJvSrwnM8fb64WJ4YUXC) | [Jujubee](https://open.spotify.com/artist/4YJKhu78Ddth48vou16B7U), [Bright Light Bright Light](https://open.spotify.com/artist/25bvQC4jyyFUce6jbzNlwb) | [Round and Round \(Bright Light Bright Light Remix\)](https://open.spotify.com/album/3MX5f6IsfLSCvWHkjS11CD) | 3:36 |
 | 32 | [You Matter](https://open.spotify.com/track/1arOj3xVlQB9veK0piJnC4) | [Telly Leung](https://open.spotify.com/artist/7jY4WHm9t4mWwBjg0bTB4N) | [You Matter](https://open.spotify.com/album/731OCmxzYhwwkRpxbt1Onq) | 4:07 |
 | 33 | [out!](https://open.spotify.com/track/7BB8XTZKAuFkgQavowZUxN) | [Pyra](https://open.spotify.com/artist/6W78HC7M6stHwJalKYMTt9) | [out!](https://open.spotify.com/album/6pJwhmtkfyJ4nVsENdViPp) | 2:40 |
 | 34 | [Could I Break Your Heart](https://open.spotify.com/track/6CdyxDDTj4t1lH6WcRAywe) | [TRACE](https://open.spotify.com/artist/5k7Y2t4cB5dG219QgFCvXW) | [Cry, Baby](https://open.spotify.com/album/5hqZIXEQrx1qd5t85v5Rzw) | 3:55 |

@@ -1,13 +1,241 @@
 {
   "description": "New releases for the kids. Cover: Lisa Loeb",
-  "num_followers": 32722,
+  "num_followers": 32768,
   "original_name": "New Kids Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvYtwAAAAAAO/3ZAgmT99VYZIFfT2MGN",
+  "snapshot_id": "Zv9oQAAAAADLwe9ZL5MpPx90PBj1FeU1",
   "tracks": [
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Good Luck, Babe!",
+        "url": "https://open.spotify.com/album/4mlUohsTRlocyVik8trXIs"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "duration_ms": 216228,
+      "name": "Good Luck, Babe!",
+      "url": "https://open.spotify.com/track/5QNPIe0ROSkymWH1j5cDMh"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "How's the Weather?",
+        "url": "https://open.spotify.com/album/5awBufyYK60IUTACUCkH9x"
+      },
+      "artists": [
+        {
+          "name": "Super Simple Songs",
+          "url": "https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a"
+        },
+        {
+          "name": "Noodle & Pals",
+          "url": "https://open.spotify.com/artist/5r4Bnflqc1rt8z3UIhwwKf"
+        }
+      ],
+      "duration_ms": 116928,
+      "name": "How's the Weather?",
+      "url": "https://open.spotify.com/track/0hH2evhfnC8viymlc7yA16"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Halloween Songs",
+        "url": "https://open.spotify.com/album/6W2tIdBTW9jKKlbSra9g0F"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "duration_ms": 159692,
+      "name": "Count JJ All Day!",
+      "url": "https://open.spotify.com/track/26V8pwWlIZ7gqUDqIKoQVX"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Bubbles",
+        "url": "https://open.spotify.com/album/0JIx0Do9ciiaWCsLOuNDHt"
+      },
+      "artists": [
+        {
+          "name": "Whistle & Trick",
+          "url": "https://open.spotify.com/artist/4unAH8bJlqpucBxdCs7HCH"
+        }
+      ],
+      "duration_ms": 173909,
+      "name": "Bubbles",
+      "url": "https://open.spotify.com/track/08Yif8kRGImGDtQIMvxVbM"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Buffalo Kids (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5Nm3j6TUPfnD9QcIsbc5pN"
+      },
+      "artists": [
+        {
+          "name": "Fernando Vel\u00e1zquez",
+          "url": "https://open.spotify.com/artist/2pElTJJ5D3ziEPyvZsW5eF"
+        }
+      ],
+      "duration_ms": 153400,
+      "name": "Show Me",
+      "url": "https://open.spotify.com/track/623mhijjASUaftZdCv2jkx"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Dracula Spectacular",
+        "url": "https://open.spotify.com/album/1rtVFcWEp7y8OvgRaszQHc"
+      },
+      "artists": [
+        {
+          "name": "Itty Bitty Beats",
+          "url": "https://open.spotify.com/artist/1mfp4yLNgjAdhr5soYvNqo"
+        },
+        {
+          "name": "John Bayne",
+          "url": "https://open.spotify.com/artist/0ZoZ7pugjYl61hJRsq78AE"
+        }
+      ],
+      "duration_ms": 149513,
+      "name": "Dracula Spectacular",
+      "url": "https://open.spotify.com/track/6gwDeVwI15lBvjmwD8DDJy"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Spooky Sing-Along Halloween Songs",
+        "url": "https://open.spotify.com/album/3Pqck35IQqpzHjsDmIoz4B"
+      },
+      "artists": [
+        {
+          "name": "The Kiboomers",
+          "url": "https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI"
+        }
+      ],
+      "duration_ms": 103687,
+      "name": "The Wheels on the Halloween Bus",
+      "url": "https://open.spotify.com/track/0s1UgIZsNTIsaeuJ9ahVGa"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Bluey Theme Tune (Vocal Version)",
+        "url": "https://open.spotify.com/album/5c7hjw3czDNPf6Ni4Zc9ES"
+      },
+      "artists": [
+        {
+          "name": "Bluey",
+          "url": "https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu"
+        },
+        {
+          "name": "Joff Bush",
+          "url": "https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV"
+        }
+      ],
+      "duration_ms": 83440,
+      "name": "Bluey Theme Tune - Vocal Version",
+      "url": "https://open.spotify.com/track/3gdxFjvOJCy2Th5VtoOm6i"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Halloween Countdown",
+        "url": "https://open.spotify.com/album/1hIYWPFeioHQYLnJLHzj1C"
+      },
+      "artists": [
+        {
+          "name": "Blippi",
+          "url": "https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn"
+        },
+        {
+          "name": "Meekah",
+          "url": "https://open.spotify.com/artist/7vXebg7HlyNsHfRPJnelJ3"
+        }
+      ],
+      "duration_ms": 145555,
+      "name": "Party Like It's Halloween",
+      "url": "https://open.spotify.com/track/0gRQ47Opbtm5dKFA2FquFM"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Everyone Is Special (In Their Own Way) [From Barney's World: Vol. 1]",
+        "url": "https://open.spotify.com/album/3MuEXDQLm4kionCbl7cNm5"
+      },
+      "artists": [
+        {
+          "name": "Barney",
+          "url": "https://open.spotify.com/artist/4rB5wLJLaXdMrXaYsOYLmK"
+        }
+      ],
+      "duration_ms": 131327,
+      "name": "Everyone is Special (In Their Own Way)",
+      "url": "https://open.spotify.com/track/16kM1crKdpOAASMln1WPWT"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "ABC Boo (Caitie)",
+        "url": "https://open.spotify.com/album/4ca7iydzxw93rvcX8WGACN"
+      },
+      "artists": [
+        {
+          "name": "Caitie's Classroom",
+          "url": "https://open.spotify.com/artist/7KqTz4iDBYBRvVyReA3SHo"
+        }
+      ],
+      "duration_ms": 192628,
+      "name": "ABC Boo (Caitie)",
+      "url": "https://open.spotify.com/track/3vg4EfjcqPCfQQgE9T89KF"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Plim Plim Halloween Kids Songs Vol. 3",
+        "url": "https://open.spotify.com/album/29sOx2UQ773shDn6LNC7da"
+      },
+      "artists": [
+        {
+          "name": "Plim Plim",
+          "url": "https://open.spotify.com/artist/0XGgmwDOrlZE5O7GHCHJy8"
+        }
+      ],
+      "duration_ms": 165154,
+      "name": "If You Like to Trick or Treat",
+      "url": "https://open.spotify.com/track/1gnZW95REPFgMDLxm8DlGx"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Roller Disco",
+        "url": "https://open.spotify.com/album/39w7O5Yx04XQZQVS6x0KuC"
+      },
+      "artists": [
+        {
+          "name": "Tiny Totz Kidz",
+          "url": "https://open.spotify.com/artist/54vwxOSuLxx758lpaUjTst"
+        },
+        {
+          "name": "3 Rex",
+          "url": "https://open.spotify.com/artist/4kI7rI511NvNrpyllBxwvM"
+        }
+      ],
+      "duration_ms": 158601,
+      "name": "Roller Disco",
+      "url": "https://open.spotify.com/track/2tzcKjTuwFjgrqfXpK5nT3"
+    },
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {

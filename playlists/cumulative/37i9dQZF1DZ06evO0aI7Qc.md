@@ -4,7 +4,7 @@
 
 > This is Luis R Conriquez\. The essential tracks, all in one playlist.
 
-172 songs - 8 hr 33 min
+173 songs - 8 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,7 +105,8 @@
 | [LA 701](https://open.spotify.com/track/7Jk86fYuucnJRzp3XlYK4C) | [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [INCÓMODO](https://open.spotify.com/album/27GWSFRITD8JJcSGMgEfTN) | 2:44 | 2024-09-14 |  |
 | [La Belikiza](https://open.spotify.com/track/5tSt4evQmEStMoVBsq7mzT) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [La Belikiza](https://open.spotify.com/album/4hxTlTfCesXn8NjNDqr4QA) | 2:09 | 2023-08-01 | 2024-01-07 |
 | [La Fiesta](https://open.spotify.com/track/26ffMA2QIHjbQZpBlv6GmA) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [José Guicho](https://open.spotify.com/artist/7IiCm7VkqzW7vN0MY9AzHe), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [La Fiesta](https://open.spotify.com/album/4kAXXZpIKhMlmj62OBnj7g) | 2:32 | 2024-06-09 |  |
-| [La Mamoncita del Insta](https://open.spotify.com/track/4Dg3WEqGpBbSu4EKjudiwV) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [La Mamoncita del Insta](https://open.spotify.com/album/4bzLOdILYkhPvhrErSjLxn) | 3:13 | 2023-06-14 |  |
+| [La Mamoncita del Insta](https://open.spotify.com/track/2nNcHQLFf62ArlArXjBaiY) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [La Mamoncita del Insta](https://open.spotify.com/album/4KuUfV5YK4Ru8GHi2V0pB0) | 3:13 | 2024-10-05 |  |
+| [La Mamoncita del Insta](https://open.spotify.com/track/4Dg3WEqGpBbSu4EKjudiwV) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [La Mamoncita del Insta](https://open.spotify.com/album/4bzLOdILYkhPvhrErSjLxn) | 3:13 | 2023-06-14 | 2024-10-05 |
 | [La Mercedes Cuadradita \(En Vivo\)](https://open.spotify.com/track/3f6tKxLFAOtpo5dJ4Fv9hY) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [La Mercedes Cuadradita \(En Vivo\)](https://open.spotify.com/album/77qwbVpJge8AbCHu0OPIoq) | 2:35 | 2023-06-21 | 2023-10-02 |
 | [La Pobreza Buena](https://open.spotify.com/track/6znmbSFyJDp4diXQWO5QW8) | [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [La Pobreza Buena](https://open.spotify.com/album/5pvt7RiMn0dNrzHbxg2NAI) | 3:29 | 2023-09-09 | 2024-06-23 |
 | [La Tamalera](https://open.spotify.com/track/3UNYe5t3IqkJq0m8OBZw82) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [La Tamalera](https://open.spotify.com/album/6XBGCAXEeBcbxItgTV54YV) | 2:33 | 2023-05-02 | 2024-01-31 |

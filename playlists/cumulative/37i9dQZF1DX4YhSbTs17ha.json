@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-09",
-  "description": "Las canciones de pop m\u00e1s exitosas en M\u00e9xico. Carin Leon en portada.\n",
+  "description": "Las canciones de pop m\u00e1s exitosas en M\u00e9xico. Grupo Frontera en portada.\n",
   "name": "S\u00f3lo Pop",
   "tracks": [
     {
@@ -432,7 +432,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 198839,
       "name": "Adios",
       "url": "https://open.spotify.com/track/56egMSOttQh3ztykSqsk0u"
@@ -824,6 +824,24 @@
       "duration_ms": 226535,
       "name": "Amor Clandestino",
       "url": "https://open.spotify.com/track/0zmd3kkK4FL9qYBXhWiOKW"
+    },
+    {
+      "album": {
+        "name": "Amor Eterno",
+        "url": "https://open.spotify.com/album/1kr2ajwgiK7Evj83Q6WLyB"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288367,
+      "name": "Amor Eterno",
+      "url": "https://open.spotify.com/track/2hu7EGMBif7scYUT4zu5wG"
     },
     {
       "album": {
@@ -3622,7 +3640,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 154226,
       "name": "Ese Final Ya Me Lo S\u00e9",
       "url": "https://open.spotify.com/track/5I7hlK0h9KYP1zAIFgzMq8"
@@ -4269,6 +4287,24 @@
     },
     {
       "album": {
+        "name": "Hecha Pa' M\u00ed",
+        "url": "https://open.spotify.com/album/3Z9jjBDBjKUkf7CXPm5aSF"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195845,
+      "name": "Hecha Pa' M\u00ed",
+      "url": "https://open.spotify.com/track/1uGUbgZuO1kD1JZ0UeFupN"
+    },
+    {
+      "album": {
         "name": "OzuTochi",
         "url": "https://open.spotify.com/album/1kjfMVBNhsDeRyAu9zbLfF"
       },
@@ -4599,6 +4635,24 @@
     },
     {
       "album": {
+        "name": "KINTSUGI",
+        "url": "https://open.spotify.com/album/2icg5AKoqW4jWW9vdkENlZ"
+      },
+      "artists": [
+        {
+          "name": "HUMBE",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237908,
+      "name": "KINTSUGI",
+      "url": "https://open.spotify.com/track/1qbql17v0Hazo94o5RUyWQ"
+    },
+    {
+      "album": {
         "name": "Pink Aura",
         "url": "https://open.spotify.com/album/1a08d11kkHSjdTLCUnYXad"
       },
@@ -4848,7 +4902,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 144602,
       "name": "LA MALA",
       "url": "https://open.spotify.com/track/4qd4H8TaQRtPE3yfyQWk8B"
@@ -6888,7 +6942,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 142000,
       "name": "Mucho Drama",
       "url": "https://open.spotify.com/track/76T5yoiiHKtZPmLFVkZMdk"
@@ -8694,6 +8748,28 @@
       "duration_ms": 203213,
       "name": "QUIZ\u00c1S SI QUIZ\u00c1S NO",
       "url": "https://open.spotify.com/track/3WQhuJnlOTV9RiDZx2tDFF"
+    },
+    {
+      "album": {
+        "name": "Qui\u00e9reme O \u00c1ndate",
+        "url": "https://open.spotify.com/album/4wlka6GEj5ZpmS4wkE5pO2"
+      },
+      "artists": [
+        {
+          "name": "Francisca Valenzuela",
+          "url": "https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt"
+        },
+        {
+          "name": "Daniela Spalla",
+          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176543,
+      "name": "Qui\u00e9reme O \u00c1ndate",
+      "url": "https://open.spotify.com/track/6fjujdixgZgzrjKDDHETbY"
     },
     {
       "album": {

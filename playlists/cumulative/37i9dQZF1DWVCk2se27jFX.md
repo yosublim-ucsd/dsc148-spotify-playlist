@@ -4,7 +4,7 @@
 
 > ¡Las propuestas independientes que marcan el sonido de Colombia! Foto: Lika Nova
 
-137 songs - 8 hr 19 min
+138 songs - 8 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,13 +72,14 @@
 | [Joderlo Todo](https://open.spotify.com/track/1G93uVHCm8fegsmYKCsJTA) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [Joderlo Todo](https://open.spotify.com/album/3a5u1dS9MeqrQtSLqrXxrs) | 3:47 | 2023-09-25 |  |
 | [Juego](https://open.spotify.com/track/7za0cW9mZQRu0n4HYjd0dl) | [Ana Sanz](https://open.spotify.com/artist/1wFieEqzZtcjkSIHtVk2YD) | [Juego](https://open.spotify.com/album/0Ne1rhsv5UKWtR9zF0f1LU) | 3:09 | 2023-09-25 |  |
 | [Juno \(Heridas Abiertas\)](https://open.spotify.com/track/1E6g38yUc5FgjO0DmxezLW) | [Piel Camaleón](https://open.spotify.com/artist/1cfJThcgMhg9IU5kYVhUbq), [Lika Nova](https://open.spotify.com/artist/7MXtSubvSLMgfnnVkJrKoy) | [Juno \(Heridas Abiertas\)](https://open.spotify.com/album/2Riv8GUr2oulH8wMknmSz0) | 2:59 | 2023-09-25 |  |
+| [Las Olas](https://open.spotify.com/track/6uD9TBxKOcTERyinvPwtiF) | [Oh'laville](https://open.spotify.com/artist/5uDxyttOUh6KJic2MFbwQ7) | [Las Olas](https://open.spotify.com/album/0LRqzDjRWb4MSPoDnaKnvJ) | 3:34 | 2024-10-04 |  |
 | [Lo Cura](https://open.spotify.com/track/3ilKo71h84ybq78up74ho0) | [Soy Emilia](https://open.spotify.com/artist/09MCzRiOuz48BY0imXgFFM) | [Lo Cura](https://open.spotify.com/album/3p11AWGzvHZL4o3Cm9jtba) | 3:30 | 2023-09-25 |  |
 | [Los Árboles \(Briela Ojeda\)](https://open.spotify.com/track/5aALfFoHbBVY3aibjVwitF) | [Oh'laville](https://open.spotify.com/artist/5uDxyttOUh6KJic2MFbwQ7), [Briela Ojeda](https://open.spotify.com/artist/1MbehwcqhGMlU79kDBYOxo) | [Los Árboles \(Briela Ojeda\)](https://open.spotify.com/album/711frSE6jmH7Tgb4Zcch7K) | 4:18 | 2023-09-25 | 2024-04-19 |
 | [Los Árboles Ft\. Briela Ojeda](https://open.spotify.com/track/4av6LyXzHl3bNtqIr3ZuGg) | [Oh'laville](https://open.spotify.com/artist/5uDxyttOUh6KJic2MFbwQ7), [Briela Ojeda](https://open.spotify.com/artist/1MbehwcqhGMlU79kDBYOxo) | [Los Árboles Ft\. Briela Ojeda](https://open.spotify.com/album/2anj5qCJRdX28bxYJliavk) | 4:18 | 2024-04-12 |  |
 | [Love Con Espacio](https://open.spotify.com/track/4hqll5UMqiiwwJDZxjJLjk) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [Una Freak](https://open.spotify.com/album/602FjmtHZi8FHXMcvKoK1E) | 3:23 | 2023-09-25 | 2024-06-29 |
 | [Luces Neón](https://open.spotify.com/track/1KggS8Fk7lofj9rjtCEKv3) | [Cohetes](https://open.spotify.com/artist/2GufoITj4S642hU8qARWyQ) | [Luces Neón](https://open.spotify.com/album/7npVc4YI5A14JlrIqOG2wH) | 3:47 | 2024-04-12 |  |
 | [Luces Neón](https://open.spotify.com/track/3Y8EuhwZ6LdGi3leKQHBXZ) | [Cohetes](https://open.spotify.com/artist/2GufoITj4S642hU8qARWyQ) | [Luces Neón](https://open.spotify.com/album/1e4X4ReVQErGDwchkE34sN) | 3:47 | 2023-09-25 | 2024-04-19 |
-| [LUNA](https://open.spotify.com/track/5VcH2H6qFcBwPfu2fBjx8d) | [MAGNA](https://open.spotify.com/artist/3r7eiuLSmaw4jXeUG6NatF) | [LUNA](https://open.spotify.com/album/4NnzCBRcLk79SZ10FMWpfV) | 2:54 | 2024-04-12 |  |
+| [LUNA](https://open.spotify.com/track/5VcH2H6qFcBwPfu2fBjx8d) | [MAGNA](https://open.spotify.com/artist/3r7eiuLSmaw4jXeUG6NatF) | [LUNA](https://open.spotify.com/album/4NnzCBRcLk79SZ10FMWpfV) | 2:54 | 2024-04-12 | 2024-10-05 |
 | [Ma\-Pa](https://open.spotify.com/track/1qpbCxo2Rr8mYYhEcu8bKK) | [Paula Pera y el fin de los Tiempos](https://open.spotify.com/artist/5zuGV6u9UobNW3KPGXui6o) | [Ma\-Pa](https://open.spotify.com/album/0KDRK3l2l0KswomYYA8Fpr) | 4:28 | 2023-09-25 |  |
 | [Manos al Fuego](https://open.spotify.com/track/3oGlMejab90xmaoizmkdHe) | [Lika Nova](https://open.spotify.com/artist/7MXtSubvSLMgfnnVkJrKoy) | [No Hay Mal Que Dure una Vida](https://open.spotify.com/album/5VLrQqAQRhUIYSiAE1HxEd) | 3:52 | 2023-09-25 | 2024-04-19 |
 | [Manos al Fuego](https://open.spotify.com/track/4iaLgMm0Y79jrPiIm13FNn) | [Lika Nova](https://open.spotify.com/artist/7MXtSubvSLMgfnnVkJrKoy) | [Manos al Fuego](https://open.spotify.com/album/1LRqlp2bAaVeaptfQdLnq3) | 3:52 | 2024-04-12 | 2024-06-29 |

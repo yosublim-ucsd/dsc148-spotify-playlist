@@ -95,6 +95,24 @@
     },
     {
       "album": {
+        "name": "ABC Boo (Caitie)",
+        "url": "https://open.spotify.com/album/4ca7iydzxw93rvcX8WGACN"
+      },
+      "artists": [
+        {
+          "name": "Caitie's Classroom",
+          "url": "https://open.spotify.com/artist/7KqTz4iDBYBRvVyReA3SHo"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192628,
+      "name": "ABC Boo (Caitie)",
+      "url": "https://open.spotify.com/track/3vg4EfjcqPCfQQgE9T89KF"
+    },
+    {
+      "album": {
         "name": "Halloween for Kids: Party Songs and Sound Effects",
         "url": "https://open.spotify.com/album/6UBoipzz4mxE0SGs6IRuzN"
       },
@@ -308,7 +326,7 @@
       ],
       "date_added": "2023-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 124022,
       "name": "BOO!",
       "url": "https://open.spotify.com/track/2mCzGRsiuMYDZnc9q7N7Hu"
@@ -438,7 +456,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 265332,
       "name": "Costume Party",
       "url": "https://open.spotify.com/track/1Gac8490Qd6yH90MEYIRB3"
@@ -626,6 +644,28 @@
       "duration_ms": 142628,
       "name": "Dracula",
       "url": "https://open.spotify.com/track/5yWfv221O1PWuEmq2FRMEn"
+    },
+    {
+      "album": {
+        "name": "Dracula Spectacular",
+        "url": "https://open.spotify.com/album/1rtVFcWEp7y8OvgRaszQHc"
+      },
+      "artists": [
+        {
+          "name": "Itty Bitty Beats",
+          "url": "https://open.spotify.com/artist/1mfp4yLNgjAdhr5soYvNqo"
+        },
+        {
+          "name": "John Bayne",
+          "url": "https://open.spotify.com/artist/0ZoZ7pugjYl61hJRsq78AE"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149513,
+      "name": "Dracula Spectacular",
+      "url": "https://open.spotify.com/track/6gwDeVwI15lBvjmwD8DDJy"
     },
     {
       "album": {
@@ -2276,7 +2316,7 @@
       ],
       "date_added": "2021-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 180386,
       "name": "Pumpkin Party",
       "url": "https://open.spotify.com/track/6fO6QFBBG58vfmBpiFVh0X"
@@ -3303,6 +3343,24 @@
     },
     {
       "album": {
+        "name": "The Witch with the Candy Shop",
+        "url": "https://open.spotify.com/album/1anOxP9vHeD9m0xhAGgsE3"
+      },
+      "artists": [
+        {
+          "name": "Claudia Robin Gunn",
+          "url": "https://open.spotify.com/artist/1Dnn2mwwu3QwyQjXJFqyZN"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "The Witch with the Candy Shop",
+      "url": "https://open.spotify.com/track/3eUQj8Drc7lWpzmizwbpXB"
+    },
+    {
+      "album": {
         "name": "Nightmare Before Christmas Special Edition",
         "url": "https://open.spotify.com/album/32hXKuDkMnpQaOI67xQj86"
       },
@@ -3581,6 +3639,24 @@
     },
     {
       "album": {
+        "name": "Toodly Doodly Boo",
+        "url": "https://open.spotify.com/album/3ugTiT5GGB23CRaDhZwuUd"
+      },
+      "artists": [
+        {
+          "name": "Super Simple Songs",
+          "url": "https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209802,
+      "name": "Toodly Doodly Boo",
+      "url": "https://open.spotify.com/track/2UeUAHIyYNa5tPJSqLxtzO"
+    },
+    {
+      "album": {
         "name": "Blippi Essentials",
         "url": "https://open.spotify.com/album/0nQmUSkS86JEi9B3aJiioI"
       },
@@ -3610,7 +3686,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 179000,
       "name": "Trick or Treat",
       "url": "https://open.spotify.com/track/73qnmF0SLhNOTpyU6NUGsn"

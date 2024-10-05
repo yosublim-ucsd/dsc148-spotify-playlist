@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Los \u00e9xitos del pop latino con KAROL G.",
+  "description": "Los \u00e9xitos del pop latino con Shakira.",
   "name": "La Lista Pop",
   "tracks": [
     {
@@ -210,7 +210,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 213306,
       "name": "3 Noches",
       "url": "https://open.spotify.com/track/172obmKke2oySVKvoaGWXj"
@@ -2728,7 +2728,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 160312,
       "name": "Drogada de Emociones",
       "url": "https://open.spotify.com/track/7nUWS3PiYx9LmrLKInsLzM"
@@ -3257,6 +3257,28 @@
     },
     {
       "album": {
+        "name": "Espacio en Tu Coraz\u00f3n (Remix)",
+        "url": "https://open.spotify.com/album/0QbMnLTWFzzs9qiyUJ4Eco"
+      },
+      "artists": [
+        {
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+        },
+        {
+          "name": "Ana Mena",
+          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179271,
+      "name": "Espacio en Tu Coraz\u00f3n - Remix",
+      "url": "https://open.spotify.com/track/7umNc6U2AVcL0RwQIi7xZG"
+    },
+    {
+      "album": {
         "name": "Espectacular",
         "url": "https://open.spotify.com/album/2HLdCDKtyV4VxHLYk5xvAS"
       },
@@ -3604,6 +3626,24 @@
       "duration_ms": 207333,
       "name": "Formentera",
       "url": "https://open.spotify.com/track/3nfICwo20uiFdEGzgNUSrG"
+    },
+    {
+      "album": {
+        "name": "Frente al Mar",
+        "url": "https://open.spotify.com/album/0Wf0E2diHQJRdkPR12BcXs"
+      },
+      "artists": [
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165178,
+      "name": "Frente al Mar",
+      "url": "https://open.spotify.com/track/60u6hcpH5Qm1M3xESdNBrB"
     },
     {
       "album": {
@@ -4212,6 +4252,24 @@
       "duration_ms": 176575,
       "name": "KESI - Remix",
       "url": "https://open.spotify.com/track/0IqCoZ168iRc9LqfrYgpZy"
+    },
+    {
+      "album": {
+        "name": "KINTSUGI",
+        "url": "https://open.spotify.com/album/2icg5AKoqW4jWW9vdkENlZ"
+      },
+      "artists": [
+        {
+          "name": "HUMBE",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237908,
+      "name": "KINTSUGI",
+      "url": "https://open.spotify.com/track/1qbql17v0Hazo94o5RUyWQ"
     },
     {
       "album": {
@@ -5192,7 +5250,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 216980,
       "name": "Low Key (feat. Humby)",
       "url": "https://open.spotify.com/track/4PfR2vNZ3ig9OCyZmWsQL2"
@@ -5400,7 +5458,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 170454,
       "name": "Manhattan",
       "url": "https://open.spotify.com/track/6ldYT93XPVpr70Qh9H0gN5"
@@ -7406,7 +7464,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 182479,
       "name": "por la peque\u00f1a Venecia",
       "url": "https://open.spotify.com/track/0SFvSc2qggsVQqnfYzeCv4"
@@ -7682,6 +7740,28 @@
       "duration_ms": 167251,
       "name": "qu\u00e9 le pasa conmigo?",
       "url": "https://open.spotify.com/track/4TrYGTVgWOe2s3ZPn5qFTa"
+    },
+    {
+      "album": {
+        "name": "Qu\u00e9 Pecao",
+        "url": "https://open.spotify.com/album/753zWh3I26DZ8pCOfJFZfA"
+      },
+      "artists": [
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        },
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230073,
+      "name": "Qu\u00e9 Pecao",
+      "url": "https://open.spotify.com/track/456U68M8lIymkz56Zroxh8"
     },
     {
       "album": {
@@ -9946,6 +10026,24 @@
       "duration_ms": 147640,
       "name": "\u00bfPara Qu\u00e9?",
       "url": "https://open.spotify.com/track/2gcwAmAnJ3EztIvP5R4bp2"
+    },
+    {
+      "album": {
+        "name": "\u00bfPor Qu\u00e9 Soy As\u00ed?",
+        "url": "https://open.spotify.com/album/0nx6GtmpkRxmbj1gX2pRP2"
+      },
+      "artists": [
+        {
+          "name": "Ela Taubert",
+          "url": "https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189693,
+      "name": "\u00bfPor Qu\u00e9 Soy As\u00ed?",
+      "url": "https://open.spotify.com/track/1N9n5G6elGqnLm3KSVG7Ir"
     },
     {
       "album": {

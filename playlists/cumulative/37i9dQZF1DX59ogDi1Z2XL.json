@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "The coldest sounds in hip-hop, coming out of Canada. Cover: SadBoi & Cash Cobain",
+  "description": "The coldest sounds in hip-hop, coming out of Canada. Cover: The Weeknd",
   "name": "Northern Bars",
   "tracks": [
     {
@@ -92,7 +92,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 100244,
       "name": "1 into 2",
       "url": "https://open.spotify.com/track/6wz0RnxaTOeQFO9QSek3T5"
@@ -658,7 +658,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 234893,
       "name": "410",
       "url": "https://open.spotify.com/track/0R1AZYXc34nfMaiengrkRc"
@@ -790,7 +790,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 277379,
       "name": "6 Fathers (feat. Gangis Khan, Honcho Hoodlum, Roney & Pvrx)",
       "url": "https://open.spotify.com/track/6o7t33oflRPUxCPcTVauCF"
@@ -2270,7 +2270,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 158117,
       "name": "Are You Sure?",
       "url": "https://open.spotify.com/track/76J3lBIDNInDaWDohDhJjo"
@@ -2310,6 +2310,28 @@
       "duration_ms": 121569,
       "name": "Art Basel",
       "url": "https://open.spotify.com/track/2U6PV9GDL3FLQGIi7UsCSK"
+    },
+    {
+      "album": {
+        "name": "AS MAN FIGHT HIMSELF",
+        "url": "https://open.spotify.com/album/6P5t0pdWbeFGDJes590iQc"
+      },
+      "artists": [
+        {
+          "name": "Raz Fresco",
+          "url": "https://open.spotify.com/artist/08RVkVEdLLoTgd5YbXHOIC"
+        },
+        {
+          "name": "Dibia$E",
+          "url": "https://open.spotify.com/artist/21H0kHbS41lECHguMnjGpb"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147969,
+      "name": "AS MAN FIGHTS HIMSELF",
+      "url": "https://open.spotify.com/track/5jfBGoLa8i0N7CelNVIg1F"
     },
     {
       "album": {
@@ -2760,7 +2782,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 139691,
       "name": "Bad Meets Evil (Feat. Kwazii)",
       "url": "https://open.spotify.com/track/5jhSNCXs2Ye42IfCcLmh5A"
@@ -3094,7 +3116,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 160644,
       "name": "BE WHAT IT BE (feat. NorthsideBenji)",
       "url": "https://open.spotify.com/track/2b42SNWyDxwZHUhoxrA7Eu"
@@ -5035,6 +5057,24 @@
     },
     {
       "album": {
+        "name": "Can't Escape",
+        "url": "https://open.spotify.com/album/3JPtu0JjmLVZKR8Dj6B5Cg"
+      },
+      "artists": [
+        {
+          "name": "Sayzee",
+          "url": "https://open.spotify.com/artist/1z5quJYr5jxx1ETXNmylsa"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169289,
+      "name": "Can't Escape",
+      "url": "https://open.spotify.com/track/20Vlc7sLXN57uRAoAbG0oF"
+    },
+    {
+      "album": {
         "name": "Tory Time",
         "url": "https://open.spotify.com/album/3NbzU5FgHXRMmPwaNHR3Bv"
       },
@@ -5138,6 +5178,32 @@
       "duration_ms": 179162,
       "name": "CAN'T TELL ME NOTHING",
       "url": "https://open.spotify.com/track/5Ch6ZcfUCDzoJsMfhxmK46"
+    },
+    {
+      "album": {
+        "name": "Hair Brained Schemes",
+        "url": "https://open.spotify.com/album/19Luu1HN36BKgtr7XxX5Xx"
+      },
+      "artists": [
+        {
+          "name": "Daniel Son",
+          "url": "https://open.spotify.com/artist/6Hrq57am01Bxyp89bUWqFF"
+        },
+        {
+          "name": "Finn",
+          "url": "https://open.spotify.com/artist/0kUXMuI3MV2N8vIfk8hLfb"
+        },
+        {
+          "name": "Pro Dillinger",
+          "url": "https://open.spotify.com/artist/7iTgKob0QAhPFudE0itzrY"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195124,
+      "name": "Capital Gains",
+      "url": "https://open.spotify.com/track/2URNopbH21ugLNbyt0iX8V"
     },
     {
       "album": {
@@ -5448,7 +5514,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 133750,
       "name": "Chalk Brothers",
       "url": "https://open.spotify.com/track/5ovzmBEZRKyfKeGAmV7USe"
@@ -6730,6 +6796,24 @@
       "duration_ms": 169704,
       "name": "D.W.M",
       "url": "https://open.spotify.com/track/4Q2WTrni2tQqUYIiOhY83g"
+    },
+    {
+      "album": {
+        "name": "DADADOO",
+        "url": "https://open.spotify.com/album/7jThw9jJDU3UitZRESpvGC"
+      },
+      "artists": [
+        {
+          "name": "Moka Only",
+          "url": "https://open.spotify.com/artist/7G9ZUoEjbi5Z2bR5w60S0h"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171506,
+      "name": "DADADOO",
+      "url": "https://open.spotify.com/track/0eYWFMi3v00NOx0tt9ONWI"
     },
     {
       "album": {
@@ -10576,7 +10660,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 146479,
       "name": "Freak One",
       "url": "https://open.spotify.com/track/7I8XCZxV1dJsARf86MN2ok"
@@ -10848,7 +10932,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 187802,
       "name": "Front Door",
       "url": "https://open.spotify.com/track/1GQG9Hi4ZlXgJlFqZhZBYQ"
@@ -12104,7 +12188,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 166666,
       "name": "Grind Some More",
       "url": "https://open.spotify.com/track/5RCi95eVECzjgQkf5lD61P"
@@ -12470,7 +12554,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 169918,
       "name": "Have Her",
       "url": "https://open.spotify.com/track/5nilJ4BHbGwuawFBy11z6Q"
@@ -13614,7 +13698,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 165374,
       "name": "I Don't Mind",
       "url": "https://open.spotify.com/track/20sWWxArw7fRWQxDACfqSf"
@@ -14708,7 +14792,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 156153,
       "name": "Jane Street",
       "url": "https://open.spotify.com/track/1Luh3oqseL6jUAFJ6ub15u"
@@ -15125,6 +15209,28 @@
     },
     {
       "album": {
+        "name": "Reel Speakers",
+        "url": "https://open.spotify.com/album/42BW56jChd7zVwviXD5VTg"
+      },
+      "artists": [
+        {
+          "name": "Shad",
+          "url": "https://open.spotify.com/artist/15lOM8PWY9pXQoURZwSZlK"
+        },
+        {
+          "name": "14KT",
+          "url": "https://open.spotify.com/artist/5S8L0diSZfnelH2OH2VVIf"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157750,
+      "name": "Keep Going (And Don't Forget)",
+      "url": "https://open.spotify.com/track/0L91LicotwTmW73OtnSBWy"
+    },
+    {
+      "album": {
         "name": "Keep It Coming",
         "url": "https://open.spotify.com/album/3ZA9CgVTDiS28gZVu1Hjyz"
       },
@@ -15158,7 +15264,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 101558,
       "name": "Keep It Playa (feat. 8ae)",
       "url": "https://open.spotify.com/track/4H7keLEwnjlpYHqV2HxwiL"
@@ -15428,7 +15534,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 149300,
       "name": "KIMBO",
       "url": "https://open.spotify.com/track/21sWHdYhWKHGWmVtKJCDid"
@@ -20772,7 +20878,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 157624,
       "name": "Old Head",
       "url": "https://open.spotify.com/track/7CW2GK8hvtjLskynueVWfj"
@@ -25381,6 +25487,28 @@
     },
     {
       "album": {
+        "name": "Send Her Home (feat. Luh Tyler)",
+        "url": "https://open.spotify.com/album/4EZjpdXQpSdQRKk01N0akc"
+      },
+      "artists": [
+        {
+          "name": "Swavy",
+          "url": "https://open.spotify.com/artist/6CHTgEfOTvm5flR5Cpzw0I"
+        },
+        {
+          "name": "Luh Tyler",
+          "url": "https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150870,
+      "name": "Send Her Home (feat. Luh Tyler)",
+      "url": "https://open.spotify.com/track/3lmTQobz9kKkqb5kszxIXV"
+    },
+    {
+      "album": {
         "name": "Servers",
         "url": "https://open.spotify.com/album/50X63n63KARnIwphuKEZql"
       },
@@ -25490,7 +25618,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 120000,
       "name": "SHE LUV",
       "url": "https://open.spotify.com/track/6qhQ8NGCH0abKGt4EDkK4D"
@@ -25900,7 +26028,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 153857,
       "name": "SKSB",
       "url": "https://open.spotify.com/track/1T5x3ZGEnKMkyfqDsJ08Hi"
@@ -26094,6 +26222,32 @@
       "duration_ms": 244072,
       "name": "Sober Sunday",
       "url": "https://open.spotify.com/track/3EXe52s0EdRao29JYefCTE"
+    },
+    {
+      "album": {
+        "name": "SODA PARTY",
+        "url": "https://open.spotify.com/album/7hsLgh6l8MgstcIceYkJKB"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Yitty",
+          "url": "https://open.spotify.com/artist/2oOPVizPrUkoNmnqo7wdBx"
+        },
+        {
+          "name": "Tee.Scott",
+          "url": "https://open.spotify.com/artist/3hKEtr1mD55eZCioLjtONz"
+        },
+        {
+          "name": "Sammi Shyne",
+          "url": "https://open.spotify.com/artist/58MB9dPufKNUuoA1c3MVsO"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132800,
+      "name": "SODA PARTY",
+      "url": "https://open.spotify.com/track/3C2ZXa3c9Df2HSg7cQVSbr"
     },
     {
       "album": {
@@ -26884,7 +27038,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 211890,
       "name": "Still Got Love",
       "url": "https://open.spotify.com/track/5XeXoq6bSIrzWdFX1kgzZ8"
@@ -27106,7 +27260,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 166686,
       "name": "Strange Fruit",
       "url": "https://open.spotify.com/track/62PjbA0jkzUKIE1GYyNC5j"
@@ -27498,6 +27652,24 @@
       "duration_ms": 180087,
       "name": "Sunday Sessions",
       "url": "https://open.spotify.com/track/1cEJtvzcCX8eJjTLwqk0Gb"
+    },
+    {
+      "album": {
+        "name": "Sunday Shoes",
+        "url": "https://open.spotify.com/album/0P827w8zgPBkrFubdQcD4c"
+      },
+      "artists": [
+        {
+          "name": "Boslen",
+          "url": "https://open.spotify.com/artist/7mX72Bq2iXNr8fZdu23fQL"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248851,
+      "name": "Sunday Shoes",
+      "url": "https://open.spotify.com/track/1PSZbxfCOY5cdXhNDl3q8E"
     },
     {
       "album": {
@@ -28634,7 +28806,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 173220,
       "name": "The Law",
       "url": "https://open.spotify.com/track/1wkAeucKMCb2LYgvaNvgf1"
@@ -30038,7 +30210,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 205293,
       "name": "Truth (Is In The Eyes)",
       "url": "https://open.spotify.com/track/5WKWhXU2uRXhQyxEIs6wB4"
@@ -31312,7 +31484,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 243380,
       "name": "We Don't Make Sense",
       "url": "https://open.spotify.com/track/25WdkhsSsNdc0Fa2EjfLim"

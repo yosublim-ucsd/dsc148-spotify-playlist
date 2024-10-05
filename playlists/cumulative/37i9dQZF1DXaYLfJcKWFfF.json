@@ -853,6 +853,24 @@
     },
     {
       "album": {
+        "name": "Fall",
+        "url": "https://open.spotify.com/album/2WxjpVtftn4jmB8mcDBJpK"
+      },
+      "artists": [
+        {
+          "name": "Njoki Karu",
+          "url": "https://open.spotify.com/artist/0pGewSIX8FwwBqZLsbDk7F"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343800,
+      "name": "Fall",
+      "url": "https://open.spotify.com/track/3F9tYNM8ssz7cCVDqDkSZz"
+    },
+    {
+      "album": {
         "name": "ROOTS",
         "url": "https://open.spotify.com/album/2OU0uJWqRBeAokBzjvAiRF"
       },
@@ -886,6 +904,24 @@
       "duration_ms": 306464,
       "name": "Fallo Fall",
       "url": "https://open.spotify.com/track/04BumdOBKWl5LcGkUAMZTU"
+    },
+    {
+      "album": {
+        "name": "There's A Fire On The Mountain",
+        "url": "https://open.spotify.com/album/7AHm7GvOwa5PY8Q22tMuHl"
+      },
+      "artists": [
+        {
+          "name": "NATAB",
+          "url": "https://open.spotify.com/artist/5sk7DMYabyF7C12HgIG5QF"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299333,
+      "name": "Fire Everywhere",
+      "url": "https://open.spotify.com/track/4BGv3EsfJL6wLbQ56BaY5X"
     },
     {
       "album": {
@@ -1201,6 +1237,24 @@
     },
     {
       "album": {
+        "name": "How is Summer Over?",
+        "url": "https://open.spotify.com/album/7L1LfkPke0zvF5gRRJAzB1"
+      },
+      "artists": [
+        {
+          "name": "Nasrene",
+          "url": "https://open.spotify.com/artist/1OnltwuE09tqRxUgAK4UHB"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179396,
+      "name": "How is Summer Over?",
+      "url": "https://open.spotify.com/track/52SjgHZpjJtAxy867ZT3NK"
+    },
+    {
+      "album": {
         "name": "HURTING",
         "url": "https://open.spotify.com/album/4xpvcoxHFtD7JjRs0FyJ42"
       },
@@ -1234,7 +1288,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 273840,
       "name": "Ibaasi",
       "url": "https://open.spotify.com/track/4FFAIsIjrbkA8W7lP64v2y"
@@ -1709,6 +1763,36 @@
     },
     {
       "album": {
+        "name": "DON'T LOSE IT",
+        "url": "https://open.spotify.com/album/3GTFIfoStofAx6M1vd5FiJ"
+      },
+      "artists": [
+        {
+          "name": "Black Girls Glow",
+          "url": "https://open.spotify.com/artist/2rzelYNts2hxyccqXrIESK"
+        },
+        {
+          "name": "Dumama",
+          "url": "https://open.spotify.com/artist/3uBcYRD2CiHrtAXRDc2zFq"
+        },
+        {
+          "name": "Lamisi",
+          "url": "https://open.spotify.com/artist/798tI1G2jVOPuvernIU8iQ"
+        },
+        {
+          "name": "Massy",
+          "url": "https://open.spotify.com/artist/6Dsxr7e36tDUdQ38Y4wZxt"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199635,
+      "name": "Liberate Woman",
+      "url": "https://open.spotify.com/track/4Oof3yvBa2qUVo0uFfTTrQ"
+    },
+    {
+      "album": {
         "name": "Milk & Honey / Light",
         "url": "https://open.spotify.com/album/7bPhbpX3wRkmgf75CFSd6m"
       },
@@ -1750,7 +1834,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 160821,
       "name": "Love",
       "url": "https://open.spotify.com/track/0uXOQ3Mh3buBmSBV9ZTi0g"
@@ -2048,7 +2132,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 218500,
       "name": "Mogre",
       "url": "https://open.spotify.com/track/0o2BUgkstqJoA6L8eebVqS"
@@ -3868,7 +3952,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 270613,
       "name": "What a Day That Was",
       "url": "https://open.spotify.com/track/3hmUo3gs1HBv2OfrM4hhgp"

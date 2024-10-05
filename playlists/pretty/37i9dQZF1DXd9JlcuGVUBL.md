@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9JlcuGVUBL.md) - [plain]
 
 > Die beste country musiek\. Omslag: <a href="https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF?si=Nf70BPuJRFOusU5etiipvQ">Kelsea Ballerini</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,928 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,975 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9JlcuGVUBL.md) - [plain]
 | 28 | [Park](https://open.spotify.com/track/119cU5gffLzRlsEGSshPNQ) | [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [Strong](https://open.spotify.com/album/2HLqoccnVNqOfm7gpN1Svo) | 2:44 |
 | 29 | [Whirlwind](https://open.spotify.com/track/1avlmOsNBhIaHDxpEOPQYz) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Whirlwind](https://open.spotify.com/album/3YJeGDPwWmpqxm5xlIqjO8) | 4:00 |
 | 30 | [After All The Bars Are Closed](https://open.spotify.com/track/0oBbkZuDLkT8DY9DK67kfr) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [After All The Bars Are Closed](https://open.spotify.com/album/07gfJHUBVX2VxXovVuUGjA) | 3:11 |
-| 31 | [Indifferent](https://open.spotify.com/track/4WtllVoPahHbtOGnLvS8Wk) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Indifferent](https://open.spotify.com/album/7nKCQbT5TOu7AAug3vlRLM) | 2:56 |
-| 32 | [To Be A Man \(feat\. Darius Rucker\)](https://open.spotify.com/track/0dXPW8HPmTl4oIGkshXo9F) | [Dax](https://open.spotify.com/artist/5icKdCmMhNMYoAzVBAWt39), [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ) | [To Be A Man \(feat\. Darius Rucker\)](https://open.spotify.com/album/4ME9Moy4lllcM9KQilk4m8) | 3:39 |
+| 31 | [To Be A Man \(feat\. Darius Rucker\)](https://open.spotify.com/track/0dXPW8HPmTl4oIGkshXo9F) | [Dax](https://open.spotify.com/artist/5icKdCmMhNMYoAzVBAWt39), [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ) | [To Be A Man \(feat\. Darius Rucker\)](https://open.spotify.com/album/4ME9Moy4lllcM9KQilk4m8) | 3:39 |
+| 32 | [Indifferent](https://open.spotify.com/track/4WtllVoPahHbtOGnLvS8Wk) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Indifferent](https://open.spotify.com/album/7nKCQbT5TOu7AAug3vlRLM) | 2:56 |
 | 33 | [My Fault \(feat\. Noah Cyrus\)](https://open.spotify.com/track/3T3sbHYwPvhTCfEeUtvbMF) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH), [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Where I've Been, Isn't Where I'm Going](https://open.spotify.com/album/0DLvFVIfwt3OHdK9kGeEM3) | 3:56 |
 | 34 | [4×4×U](https://open.spotify.com/track/0ZHdP6TzcInPSdQwQ1fkBZ) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [4×4×U](https://open.spotify.com/album/0mfQ7QpjPEoeHZJZdGOsZD) | 3:59 |
 | 35 | [CHUCK TAYLORS](https://open.spotify.com/track/5LCwWKC7mc2naS8aG503oG) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [HIGH](https://open.spotify.com/album/5GUHKnk99fGz2Ry4Jc6Fpw) | 3:34 |

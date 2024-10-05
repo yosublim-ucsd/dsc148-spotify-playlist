@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nvAQ5.md) - [plain]
 
 ### [This Is J Boog](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4nvAQ5)
 
-> This Is J Boog\. Los temas esenciales, todos en una lista.
+> This is J Boog\. The essential tracks, all in one playlist.
 
 [Spotify](https://open.spotify.com/user/spotify) - 14,640 likes - 50 songs - 3 hr 2 min
 
@@ -15,9 +15,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nvAQ5.md) - [plain]
 | 5 | [Here I Am](https://open.spotify.com/track/6L4mF7uao67PDOhvY5Wc4h) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [Hear Me Roar](https://open.spotify.com/album/4sJryrOLwDCYOQo5lJhrGo) | 3:33 |
 | 6 | [Let's Do It Again](https://open.spotify.com/track/4TBtGrMgUYH7D5Tf5HLvyz) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [Backyard Boogie](https://open.spotify.com/album/7oyBRhMZuVDSdDk7uQOGzI) | 3:12 |
 | 7 | [Catching Feelings \(feat\. J Boog\) \- Bimwala Remix](https://open.spotify.com/track/2mjlROYtPqKp9mWANqGtCf) | [Inigo Pascual](https://open.spotify.com/artist/0XOSmu9Qn1agQULUVe0dAK), [Moophs](https://open.spotify.com/artist/3HaL9ONkedXrAybTHYA3w1), [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4), [Bimwala](https://open.spotify.com/artist/6pXPBMM6APBn2Ffnh9M55C) | [Catching Feelings \(feat\. J Boog\) \[Bimwala Remix\]](https://open.spotify.com/album/6fkFfPMRuu19AOV1OjNBvJ) | 3:20 |
-| 8 | [Liki Tiki \- Reggae Remix](https://open.spotify.com/track/6QQK85nnBzFxRyW4qkMHHY) | [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6), [Maoli](https://open.spotify.com/artist/6EKzehEG2fwJtRMH4KbjsA), [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4), [J Perry](https://open.spotify.com/artist/4fkonOVOD4ehVOd2gAxgyZ), [Michaël Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV) | [Liki Tiki \(Reggae Remix\)](https://open.spotify.com/album/5vRwOtrAawwlBjuq3a8fW6) | 4:10 |
+| 8 | [Press Rewind](https://open.spotify.com/track/1Js26hznhkLlFeRoxCtyNq) | [SOJA](https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE), [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4), [Collie Buddz](https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1) | [Beauty In The Silence](https://open.spotify.com/album/7A0gqTE9Jk3FwwADecN9w8) | 4:34 |
 | 9 | [Ganja Farmer](https://open.spotify.com/track/1VPnps7LuU2ryN2fQrmsfA) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [Hear Me Roar](https://open.spotify.com/album/4sJryrOLwDCYOQo5lJhrGo) | 3:51 |
-| 10 | [Press Rewind](https://open.spotify.com/track/1Js26hznhkLlFeRoxCtyNq) | [SOJA](https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE), [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4), [Collie Buddz](https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1) | [Beauty In The Silence](https://open.spotify.com/album/7A0gqTE9Jk3FwwADecN9w8) | 4:34 |
+| 10 | [Liki Tiki \- Reggae Remix](https://open.spotify.com/track/6QQK85nnBzFxRyW4qkMHHY) | [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6), [Maoli](https://open.spotify.com/artist/6EKzehEG2fwJtRMH4KbjsA), [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4), [J Perry](https://open.spotify.com/artist/4fkonOVOD4ehVOd2gAxgyZ), [Michaël Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV) | [Liki Tiki \(Reggae Remix\)](https://open.spotify.com/album/5vRwOtrAawwlBjuq3a8fW6) | 4:10 |
 | 11 | [Fire Up Di Roses \(with The Green, Common Kings & Fiji\)](https://open.spotify.com/track/3Y9kBavkO9sD8K7QZki0se) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4), [The Green](https://open.spotify.com/artist/5RkXaPxdZ8L7ERNgDZXlKh), [Common Kings](https://open.spotify.com/artist/4j0qbafzqnGf4ARF8tY4VL), [Fiji](https://open.spotify.com/artist/0DAaoRtoM8z0DHIhIzP4mJ) | [Fire Up Di Roses \(with The Green, Common Kings & Fiji\)](https://open.spotify.com/album/5mo5nalgXTB1DSfAtSK93e) | 3:56 |
 | 12 | [Leaving With Me](https://open.spotify.com/track/0jREd56kAWsJUGsQbBsWPl) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [Live Up](https://open.spotify.com/album/1ZvSUAW5du5OC4D3aMB7VZ) | 4:01 |
 | 13 | [Lifetime Lover](https://open.spotify.com/track/3mm6WxGLfv4RfnTgTP0mYI) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [Hear Me Roar](https://open.spotify.com/album/4sJryrOLwDCYOQo5lJhrGo) | 3:50 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nvAQ5.md) - [plain]
 | 49 | [Cool Down The Pace](https://open.spotify.com/track/48vVcRVvJxD5zB0ODldx2C) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [We Remember Gregory Isaacs](https://open.spotify.com/album/5qx0HddioFaXTSTykAG6nu) | 4:11 |
 | 50 | [Feelings \(with J Boog & Gyptian\)](https://open.spotify.com/track/05LWBvN1FeUHot4CdIowmL) | [The Green](https://open.spotify.com/artist/5RkXaPxdZ8L7ERNgDZXlKh), [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4), [Gyptian](https://open.spotify.com/artist/2JX4h8xm0hNxCB0aNBWzyi) | [Feelings \(with J Boog & Gyptian\)](https://open.spotify.com/album/0qwr73RDAt6DloQiEuljUS) | 3:14 |
 
-Snapshot ID: `ZvyNAAAAAABeDD2lBwpHm+ifgI0SwJMR`
+Snapshot ID: `Zv3egAAAAACdNE13kjFWConvXSQHIOfP`

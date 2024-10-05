@@ -1,13 +1,109 @@
 {
-  "description": "Dark, hard hitting pop. Cover: Slayyyter",
-  "num_followers": 419733,
+  "description": "Dark, hard hitting pop. Cover: Allie X",
+  "num_followers": 419810,
   "original_name": "SALT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvYtwAAAAACN2jRNFYOuKxzmyx03y9og",
+  "snapshot_id": "Zv9oQAAAAABuGN5I9RX9xA97GUQdoc13",
   "tracks": [
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Bon Voyage",
+        "url": "https://open.spotify.com/album/7MkPMywDbiUC6QJ7J4Vgt9"
+      },
+      "artists": [
+        {
+          "name": "Allie X",
+          "url": "https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32"
+        }
+      ],
+      "duration_ms": 204678,
+      "name": "Bon Voyage",
+      "url": "https://open.spotify.com/track/012jGdugVtQMUJn8s6onGo"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "PANIC ATTACK",
+        "url": "https://open.spotify.com/album/3CNRa6ky0qtoGT9Huz7yK1"
+      },
+      "artists": [
+        {
+          "name": "PEGGY",
+          "url": "https://open.spotify.com/artist/1E6ADXoD9nUhFEwKgwjEdh"
+        }
+      ],
+      "duration_ms": 140454,
+      "name": "PANIC ATTACK",
+      "url": "https://open.spotify.com/track/2eedk1GWWMQddPLcGdMnqW"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Tiny Screens",
+        "url": "https://open.spotify.com/album/1ZeGBiEqsfeO25dU7kid1p"
+      },
+      "artists": [
+        {
+          "name": "Chloe Slater",
+          "url": "https://open.spotify.com/artist/43R8Umt7qVmJCcOZGWJy24"
+        }
+      ],
+      "duration_ms": 178015,
+      "name": "Tiny Screens",
+      "url": "https://open.spotify.com/track/0P25VNpeP4L3NMOEMI68Yp"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "EDEN",
+        "url": "https://open.spotify.com/album/06jsjVmCYGPnkTHE81zwrc"
+      },
+      "artists": [
+        {
+          "name": "Ashley Sienna",
+          "url": "https://open.spotify.com/artist/2dfNhCW7cElnUBvmDvKGGi"
+        }
+      ],
+      "duration_ms": 198933,
+      "name": "angel boy",
+      "url": "https://open.spotify.com/track/5UrpuVlEd2W69QMZQg0hZR"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "HAPPY SEXY SKINNY PILL!!",
+        "url": "https://open.spotify.com/album/6EGkjpLUKfgOSAyt6kl3Pv"
+      },
+      "artists": [
+        {
+          "name": "Kate Grahn",
+          "url": "https://open.spotify.com/artist/3uKUYOnOlOpYj7quHnLtFv"
+        }
+      ],
+      "duration_ms": 191484,
+      "name": "HAPPY SEXY SKINNY PILL!!",
+      "url": "https://open.spotify.com/track/6JP9UMpKfvLGPJ2GAjQ9Pm"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Patience",
+        "url": "https://open.spotify.com/album/4YKJfZZhocCHRhkAEDyXni"
+      },
+      "artists": [
+        {
+          "name": "Elohim",
+          "url": "https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY"
+        }
+      ],
+      "duration_ms": 155294,
+      "name": "Patience",
+      "url": "https://open.spotify.com/track/3aS7kFsjgveM02x2EM29xp"
+    },
     {
       "added_at": "2024-09-27 04:00:00",
       "album": {
@@ -25,6 +121,22 @@
       "url": "https://open.spotify.com/track/1HpwlMAZx46pCOoJkqKFRA"
     },
     {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Big Mouth",
+        "url": "https://open.spotify.com/album/7rIPvB80UTjuHkg0X25x6i"
+      },
+      "artists": [
+        {
+          "name": "Brooke Alexx",
+          "url": "https://open.spotify.com/artist/76OGIUhWyFyKOvhRuueDa7"
+        }
+      ],
+      "duration_ms": 118700,
+      "name": "Super Famous",
+      "url": "https://open.spotify.com/track/0Yy44jx6Qmn7gneGfJENE5"
+    },
+    {
       "added_at": "2024-09-20 04:00:00",
       "album": {
         "name": "No Comma",
@@ -39,6 +151,38 @@
       "duration_ms": 161266,
       "name": "No Comma",
       "url": "https://open.spotify.com/track/33Wh5qaiRVWuVIDnGGNlHh"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "The Effect",
+        "url": "https://open.spotify.com/album/22AvgFCDKVyEw7clejTJcT"
+      },
+      "artists": [
+        {
+          "name": "Precious Pepala",
+          "url": "https://open.spotify.com/artist/2i6GoBzXmwxdD44bUM26M1"
+        }
+      ],
+      "duration_ms": 203423,
+      "name": "The Effect",
+      "url": "https://open.spotify.com/track/6uaP5kz6aWbiKIi76LktX0"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "A Haunted House",
+        "url": "https://open.spotify.com/album/0V5HTTrz4k7Ryiy4iOZJxF"
+      },
+      "artists": [
+        {
+          "name": "LEXXE",
+          "url": "https://open.spotify.com/artist/0lDo9zbShSX0EXnxLpUZIU"
+        }
+      ],
+      "duration_ms": 186285,
+      "name": "All Black Mansion",
+      "url": "https://open.spotify.com/track/5Gj8WfSRNAxRsiJXYuwo1H"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -391,42 +535,6 @@
       "duration_ms": 169465,
       "name": "broken",
       "url": "https://open.spotify.com/track/592U0yWrX8m2XP6VGSenOG"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "Galina",
-        "url": "https://open.spotify.com/album/0KYNpXFnKd9FTtHUOlx6tx"
-      },
-      "artists": [
-        {
-          "name": "Allie X",
-          "url": "https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32"
-        },
-        {
-          "name": "Empress Of",
-          "url": "https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU"
-        }
-      ],
-      "duration_ms": 270448,
-      "name": "Galina",
-      "url": "https://open.spotify.com/track/41ZNfWxvTOgPZBukjhIjCe"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "gold",
-        "url": "https://open.spotify.com/album/6TBuustrEb2bHAzt2aduZa"
-      },
-      "artists": [
-        {
-          "name": "Ashley Sienna",
-          "url": "https://open.spotify.com/artist/2dfNhCW7cElnUBvmDvKGGi"
-        }
-      ],
-      "duration_ms": 163800,
-      "name": "gold",
-      "url": "https://open.spotify.com/track/5i5q4FAgCuktMvdyEdNpbJ"
     },
     {
       "added_at": "2024-08-30 15:37:20",
@@ -951,22 +1059,6 @@
     {
       "added_at": "2024-08-26 14:52:18",
       "album": {
-        "name": "Rockstar",
-        "url": "https://open.spotify.com/album/7wIIhHPyaxAHRvdNQQO2G9"
-      },
-      "artists": [
-        {
-          "name": "LISA",
-          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
-        }
-      ],
-      "duration_ms": 138213,
-      "name": "Rockstar",
-      "url": "https://open.spotify.com/track/6vvPecFTmWxDfEJ6cYT1wa"
-    },
-    {
-      "added_at": "2024-08-26 14:52:18",
-      "album": {
         "name": "AIKONIC",
         "url": "https://open.spotify.com/album/3D3e4B1bGx5FWmCCWbHAYv"
       },
@@ -1143,22 +1235,6 @@
       "duration_ms": 142265,
       "name": "Guess",
       "url": "https://open.spotify.com/track/0xzBmAsCfu3AzX1W0GYtMJ"
-    },
-    {
-      "added_at": "2024-08-26 14:52:18",
-      "album": {
-        "name": "DEAR READER",
-        "url": "https://open.spotify.com/album/1JsRmuktjMsrdolUuZ5UMp"
-      },
-      "artists": [
-        {
-          "name": "PEGGY",
-          "url": "https://open.spotify.com/artist/1E6ADXoD9nUhFEwKgwjEdh"
-        }
-      ],
-      "duration_ms": 147798,
-      "name": "FEMININE RAGE",
-      "url": "https://open.spotify.com/track/08iDzwXKP72XYGnjXLSwW2"
     }
   ],
   "unique_name": "SALT",

@@ -1,6 +1,6 @@
 {
   "description": "Your favorite Latin anthems to get the party started!\nCover: Daddy Yankee",
-  "num_followers": 2072400,
+  "num_followers": 2072422,
   "original_name": "Latin Party Anthems",
   "owner": {
     "name": "Spotify",
@@ -343,22 +343,6 @@
     {
       "added_at": "2024-07-11 16:34:57",
       "album": {
-        "name": "Hombres G (Edici\u00f3n 30 Aniversario)",
-        "url": "https://open.spotify.com/album/2iMF2NlOZMfBTdHyubrg6y"
-      },
-      "artists": [
-        {
-          "name": "Hombres G",
-          "url": "https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0"
-        }
-      ],
-      "duration_ms": 194080,
-      "name": "Devu\u00e9lveme a mi chica",
-      "url": "https://open.spotify.com/track/1Wrzhfa5bNlqvsnCztz190"
-    },
-    {
-      "added_at": "2024-07-11 16:34:57",
-      "album": {
         "name": "Odisea",
         "url": "https://open.spotify.com/album/4s05NbwGgw5SO42AdsN5Oo"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 188080,
       "name": "Se Prepar\u00f3",
       "url": "https://open.spotify.com/track/1m69ELEgE6k5ZWsap40ozt"
+    },
+    {
+      "added_at": "2024-07-11 16:34:57",
+      "album": {
+        "name": "Hombres G (Edici\u00f3n 30 Aniversario)",
+        "url": "https://open.spotify.com/album/2iMF2NlOZMfBTdHyubrg6y"
+      },
+      "artists": [
+        {
+          "name": "Hombres G",
+          "url": "https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0"
+        }
+      ],
+      "duration_ms": 194080,
+      "name": "Devu\u00e9lveme a mi chica",
+      "url": "https://open.spotify.com/track/1Wrzhfa5bNlqvsnCztz190"
     },
     {
       "added_at": "2024-07-11 16:34:57",
@@ -1051,26 +1051,6 @@
     {
       "added_at": "2024-07-11 16:34:57",
       "album": {
-        "name": "MAMIII",
-        "url": "https://open.spotify.com/album/6GHUywBU0u92lg0Dhrt40R"
-      },
-      "artists": [
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        },
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 226088,
-      "name": "MAMIII",
-      "url": "https://open.spotify.com/track/1ri9ZUkBJVFUdgwzCnfcYs"
-    },
-    {
-      "added_at": "2024-07-11 16:34:57",
-      "album": {
         "name": "Victory",
         "url": "https://open.spotify.com/album/6I32dRerwcm3jYRsprxb5k"
       },
@@ -1091,6 +1071,26 @@
     {
       "added_at": "2024-07-11 16:34:57",
       "album": {
+        "name": "MAMIII",
+        "url": "https://open.spotify.com/album/6GHUywBU0u92lg0Dhrt40R"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        },
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 226088,
+      "name": "MAMIII",
+      "url": "https://open.spotify.com/track/1ri9ZUkBJVFUdgwzCnfcYs"
+    },
+    {
+      "added_at": "2024-07-11 16:34:57",
+      "album": {
         "name": "Desde Abajo",
         "url": "https://open.spotify.com/album/7dhQWDiTlbp3Np8sdLMY3R"
       },
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2024-07-11 16:34:57",
       "album": {
-        "name": "Nibiru",
-        "url": "https://open.spotify.com/album/7f6r6ijWtMJ0QYydwuCYvH"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 158760,
-      "name": "Baila Baila Baila",
-      "url": "https://open.spotify.com/track/5PXsZaT8cOxb4mXrA20PMQ"
-    },
-    {
-      "added_at": "2024-07-11 16:34:57",
-      "album": {
         "name": "Para La Eternidad",
         "url": "https://open.spotify.com/album/2MSP1JG7KflqYqAHtk7wlB"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 278866,
       "name": "La Vida Es Un Carnaval",
       "url": "https://open.spotify.com/track/1BwrMGGhPA6GarWIYaFrW8"
+    },
+    {
+      "added_at": "2024-07-11 16:34:57",
+      "album": {
+        "name": "Nibiru",
+        "url": "https://open.spotify.com/album/7f6r6ijWtMJ0QYydwuCYvH"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 158760,
+      "name": "Baila Baila Baila",
+      "url": "https://open.spotify.com/track/5PXsZaT8cOxb4mXrA20PMQ"
     },
     {
       "added_at": "2024-07-11 16:34:57",
@@ -1199,38 +1199,6 @@
     {
       "added_at": "2024-07-11 16:34:57",
       "album": {
-        "name": "Clasicos de la Provincia",
-        "url": "https://open.spotify.com/album/2WtC5PE25yxWNPpAinn2in"
-      },
-      "artists": [
-        {
-          "name": "Carlos Vives",
-          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
-        }
-      ],
-      "duration_ms": 215493,
-      "name": "La Gota Fria",
-      "url": "https://open.spotify.com/track/4tXR895KKljrC2VptgyEhJ"
-    },
-    {
-      "added_at": "2024-07-11 16:34:57",
-      "album": {
-        "name": "In Da House",
-        "url": "https://open.spotify.com/album/6AbWKVD3idhjdTxk7BQtKe"
-      },
-      "artists": [
-        {
-          "name": "Proyecto Uno",
-          "url": "https://open.spotify.com/artist/6w1XCiB8efbfnusJ2jzmvu"
-        }
-      ],
-      "duration_ms": 303106,
-      "name": "Tiburon",
-      "url": "https://open.spotify.com/track/2GcjfckZexh9wRRjg9KtQG"
-    },
-    {
-      "added_at": "2024-07-11 16:34:57",
-      "album": {
         "name": "N.O.R.E. Y La Familia",
         "url": "https://open.spotify.com/album/0RLMAxS9mhy149lu93u7GA"
       },
@@ -1259,6 +1227,38 @@
       "duration_ms": 240973,
       "name": "Oye Mi Canto",
       "url": "https://open.spotify.com/track/3J6vrRMz6EfwH2sgYiyNhc"
+    },
+    {
+      "added_at": "2024-07-11 16:34:57",
+      "album": {
+        "name": "Clasicos de la Provincia",
+        "url": "https://open.spotify.com/album/2WtC5PE25yxWNPpAinn2in"
+      },
+      "artists": [
+        {
+          "name": "Carlos Vives",
+          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+        }
+      ],
+      "duration_ms": 215493,
+      "name": "La Gota Fria",
+      "url": "https://open.spotify.com/track/4tXR895KKljrC2VptgyEhJ"
+    },
+    {
+      "added_at": "2024-07-11 16:34:57",
+      "album": {
+        "name": "In Da House",
+        "url": "https://open.spotify.com/album/6AbWKVD3idhjdTxk7BQtKe"
+      },
+      "artists": [
+        {
+          "name": "Proyecto Uno",
+          "url": "https://open.spotify.com/artist/6w1XCiB8efbfnusJ2jzmvu"
+        }
+      ],
+      "duration_ms": 303106,
+      "name": "Tiburon",
+      "url": "https://open.spotify.com/track/2GcjfckZexh9wRRjg9KtQG"
     },
     {
       "added_at": "2024-07-11 16:34:57",
@@ -1295,30 +1295,26 @@
     {
       "added_at": "2024-07-11 16:34:57",
       "album": {
-        "name": "Music is the Weapon",
-        "url": "https://open.spotify.com/album/0xJyM0DFwty067hIBH5fql"
+        "name": "Dale",
+        "url": "https://open.spotify.com/album/5PZWGWwRwA0PJCET9BwBAm"
       },
       "artists": [
         {
-          "name": "Major Lazer",
-          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
         },
         {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+          "name": "Sensato",
+          "url": "https://open.spotify.com/artist/7iJrDbKM5fEkGdm5kpjFzS"
         },
         {
-          "name": "El Alfa",
-          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
-        },
-        {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+          "name": "Osmani Garcia \"La Voz\"",
+          "url": "https://open.spotify.com/artist/37G8DfNgO4mQ3PKh5droSo"
         }
       ],
-      "duration_ms": 169997,
-      "name": "Que Calor",
-      "url": "https://open.spotify.com/track/2jozk0z8f2VISmr83Leyqh"
+      "duration_ms": 249800,
+      "name": "El Taxi",
+      "url": "https://open.spotify.com/track/1LbGorB0xOfpiXQJFKB2Nd"
     },
     {
       "added_at": "2024-07-11 16:34:57",
@@ -1343,26 +1339,30 @@
     {
       "added_at": "2024-07-11 16:34:57",
       "album": {
-        "name": "Dale",
-        "url": "https://open.spotify.com/album/5PZWGWwRwA0PJCET9BwBAm"
+        "name": "Music is the Weapon",
+        "url": "https://open.spotify.com/album/0xJyM0DFwty067hIBH5fql"
       },
       "artists": [
         {
-          "name": "Pitbull",
-          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+          "name": "Major Lazer",
+          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
         },
         {
-          "name": "Sensato",
-          "url": "https://open.spotify.com/artist/7iJrDbKM5fEkGdm5kpjFzS"
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
         },
         {
-          "name": "Osmani Garcia \"La Voz\"",
-          "url": "https://open.spotify.com/artist/37G8DfNgO4mQ3PKh5droSo"
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
         }
       ],
-      "duration_ms": 249800,
-      "name": "El Taxi",
-      "url": "https://open.spotify.com/track/1LbGorB0xOfpiXQJFKB2Nd"
+      "duration_ms": 169997,
+      "name": "Que Calor",
+      "url": "https://open.spotify.com/track/2jozk0z8f2VISmr83Leyqh"
     },
     {
       "added_at": "2024-07-11 16:34:57",

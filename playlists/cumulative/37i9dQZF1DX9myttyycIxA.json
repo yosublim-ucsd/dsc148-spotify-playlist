@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Underground indie rock gems. Cover: Christian Lee Hutson",
+  "description": "Underground indie rock gems. Cover: Half Waif",
   "name": "undercurrents",
   "tracks": [
     {
@@ -2442,7 +2442,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 127185,
       "name": "Bite Me",
       "url": "https://open.spotify.com/track/0Gs26tFXxFrZNZm2lXQfDg"
@@ -3346,7 +3346,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 244160,
       "name": "Burn It Out",
       "url": "https://open.spotify.com/track/05mZml20CLpCAnmv4A8TtY"
@@ -3508,7 +3508,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 195173,
       "name": "Can You See Me Tonight?",
       "url": "https://open.spotify.com/track/0zirRjZmsGJZAuSWLAXrUo"
@@ -3796,7 +3796,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 212958,
       "name": "Change",
       "url": "https://open.spotify.com/track/2LP4LllG0k6nSvAtbe60Xr"
@@ -6390,7 +6390,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 129600,
       "name": "drain",
       "url": "https://open.spotify.com/track/12pZ8Iyk84bJ3AYHTOzKS7"
@@ -6686,6 +6686,24 @@
       "duration_ms": 239899,
       "name": "Dry",
       "url": "https://open.spotify.com/track/3B1BzvXzF4Xhre3SLxTDz7"
+    },
+    {
+      "album": {
+        "name": "Dust",
+        "url": "https://open.spotify.com/album/262dBxlmjPa3S0pjUaEalc"
+      },
+      "artists": [
+        {
+          "name": "Half Waif",
+          "url": "https://open.spotify.com/artist/28mCmWkgrWHZ4fm5c3OcIj"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221986,
+      "name": "Dust",
+      "url": "https://open.spotify.com/track/2jlCjWDVMETerCxcYLUV6c"
     },
     {
       "album": {
@@ -7888,7 +7906,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 207204,
       "name": "Feel Okay",
       "url": "https://open.spotify.com/track/7FQrN7KVgfqCXc6RjW3WB1"
@@ -8142,6 +8160,24 @@
       "duration_ms": 228600,
       "name": "Flames shards goo",
       "url": "https://open.spotify.com/track/03vUSQpYEQryhvhI4VUsqb"
+    },
+    {
+      "album": {
+        "name": "Flies",
+        "url": "https://open.spotify.com/album/41vy2QrFsS5tLVz8fM3IKb"
+      },
+      "artists": [
+        {
+          "name": "Cheekface",
+          "url": "https://open.spotify.com/artist/32kCEAvtuFzIZA15zrhQDW"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196835,
+      "name": "Flies",
+      "url": "https://open.spotify.com/track/4Opsw8gkQZB7ArERdDUlFJ"
     },
     {
       "album": {
@@ -9692,7 +9728,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 266544,
       "name": "Hangman",
       "url": "https://open.spotify.com/track/10GrSejQ7WMLBtQCnrynig"
@@ -10604,7 +10640,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 173043,
       "name": "Hometown Hero",
       "url": "https://open.spotify.com/track/2yFLZqpRnGWzLQ9MbZ6nSh"
@@ -15417,6 +15453,24 @@
     },
     {
       "album": {
+        "name": "Nice enough words",
+        "url": "https://open.spotify.com/album/75uVNd34yRpMdImCLOlKRr"
+      },
+      "artists": [
+        {
+          "name": "Clothesline From Hell",
+          "url": "https://open.spotify.com/artist/06DLdmvJIJm0yd6G9XfPMS"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146000,
+      "name": "Nice enough words",
+      "url": "https://open.spotify.com/track/2N8k0QJ4tGJitOywToZBKg"
+    },
+    {
+      "album": {
         "name": "Night Sports",
         "url": "https://open.spotify.com/album/0ejShf7B7mjNEeduHZbVnP"
       },
@@ -16177,6 +16231,24 @@
     },
     {
       "album": {
+        "name": "Omophagia",
+        "url": "https://open.spotify.com/album/1G0RUYmzsuiqhkyHAixsGx"
+      },
+      "artists": [
+        {
+          "name": "Susannah Joffe",
+          "url": "https://open.spotify.com/artist/3JGxLjd5coSPknSlbYyNLw"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189600,
+      "name": "Omophagia",
+      "url": "https://open.spotify.com/track/1Mr3Q6p42q7REF5DAuhtj6"
+    },
+    {
+      "album": {
         "name": "On Fire",
         "url": "https://open.spotify.com/album/4XcXyoxuSTavad15AaOTIp"
       },
@@ -16794,7 +16866,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 218031,
       "name": "Piano Hands",
       "url": "https://open.spotify.com/track/5qXO90zyTU5Ch5aI9j0uzf"
@@ -16878,6 +16950,24 @@
       "duration_ms": 241271,
       "name": "Pieces of Gold",
       "url": "https://open.spotify.com/track/5TtOVNkBiVYxs4MRgwOTqy"
+    },
+    {
+      "album": {
+        "name": "pinky girl",
+        "url": "https://open.spotify.com/album/4Q0lBUApWnjRmkjN3yiKwR"
+      },
+      "artists": [
+        {
+          "name": "ratbag",
+          "url": "https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234901,
+      "name": "pinky girl",
+      "url": "https://open.spotify.com/track/4ZvoE03wSTX4gSneaH1L2J"
     },
     {
       "album": {
@@ -18840,7 +18930,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 258092,
       "name": "Shot",
       "url": "https://open.spotify.com/track/0UbmlnXRMJJiIv4ek1lvJT"
@@ -19436,7 +19526,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 143819,
       "name": "Soak it In",
       "url": "https://open.spotify.com/track/4bkj4j64FkMlf6nvobCVOJ"
@@ -19692,6 +19782,24 @@
       "duration_ms": 259696,
       "name": "Something Else",
       "url": "https://open.spotify.com/track/6bZ5iC1vemFxvVPHfmixbI"
+    },
+    {
+      "album": {
+        "name": "something new",
+        "url": "https://open.spotify.com/album/24jOjoJr6F2chxZiDBtqBF"
+      },
+      "artists": [
+        {
+          "name": "cumgirl8",
+          "url": "https://open.spotify.com/artist/0Y0U54wBpoCl8KvkYc9Ej6"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231701,
+      "name": "something new",
+      "url": "https://open.spotify.com/track/1Qot7BYHZjUqFpdlcJZqZm"
     },
     {
       "album": {
@@ -21050,7 +21158,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 212426,
       "name": "Taller Than Me",
       "url": "https://open.spotify.com/track/7Hz9Rlm3EvkQBro4WGzIhq"
@@ -21202,7 +21310,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 157874,
       "name": "tell me feat. Kississippi",
       "url": "https://open.spotify.com/track/1jlrgAUhb2GTGSkqMmoKuJ"
@@ -23416,7 +23524,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 171973,
       "name": "Vaughn",
       "url": "https://open.spotify.com/track/3QWLuJZ2A5TJ1BN6H0AMg7"
@@ -24756,7 +24864,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 281178,
       "name": "You Don't Know",
       "url": "https://open.spotify.com/track/5NDyOh0RpCpUuVA1IQTReh"
@@ -24962,10 +25070,28 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 263760,
       "name": "Your Desire in Food",
       "url": "https://open.spotify.com/track/22DaMb0Q6nde3ozb2qMDYl"
+    },
+    {
+      "album": {
+        "name": "Your Dog",
+        "url": "https://open.spotify.com/album/736y0JBkHDPbrll16m0EQ3"
+      },
+      "artists": [
+        {
+          "name": "Ellur",
+          "url": "https://open.spotify.com/artist/4uG8VYp1GLQpZVokfG2Ui7"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209047,
+      "name": "Your Dog",
+      "url": "https://open.spotify.com/track/1LHRpiGObRt9Y3WDgoj9l8"
     },
     {
       "album": {

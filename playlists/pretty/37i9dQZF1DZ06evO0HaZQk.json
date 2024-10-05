@@ -1,12 +1,12 @@
 {
   "description": "This Is Natalia Lafourcade. Los temas esenciales, todos en una lista.",
-  "num_followers": 500762,
+  "num_followers": 500827,
   "original_name": "This Is Natalia Lafourcade",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvyNAAAAAADmawjJidBXNtrAvVopzZ25",
+  "snapshot_id": "Zv3egAAAAAAwS4WCWA6i0tFv9P5F0Tut",
   "tracks": [
     {
       "added_at": null,
@@ -419,26 +419,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cuando Te Muerdes el Labio",
-        "url": "https://open.spotify.com/album/0MYpaG2Kjp6ss5g0IgKrE4"
-      },
-      "artists": [
-        {
-          "name": "Leiva",
-          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
-        },
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        }
-      ],
-      "duration_ms": 217400,
-      "name": "Diazepam",
-      "url": "https://open.spotify.com/track/2KrXkY8yRsncGk2kXPD4Zt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MTV Unplugged",
         "url": "https://open.spotify.com/album/4B0mVzwgm0IihR4Qzg82FO"
       },
@@ -463,6 +443,26 @@
       "duration_ms": 257493,
       "name": "Gulliver (with Natalia Lafourcade, \u00c1lex Gonz\u00e1lez y Sergio Vall\u00edn) - MTV Unplugged",
       "url": "https://open.spotify.com/track/3O38qNyWTWL4QOdFNJqMS2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cuando Te Muerdes el Labio",
+        "url": "https://open.spotify.com/album/0MYpaG2Kjp6ss5g0IgKrE4"
+      },
+      "artists": [
+        {
+          "name": "Leiva",
+          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
+        },
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 217400,
+      "name": "Diazepam",
+      "url": "https://open.spotify.com/track/2KrXkY8yRsncGk2kXPD4Zt"
     },
     {
       "added_at": null,

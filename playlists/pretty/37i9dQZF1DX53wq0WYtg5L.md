@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX53wq0WYtg5L.md) - [plain]
 
 > Celebremos el orgullo mexicano con estas alegres canciones.
 
-[Spotify](https://open.spotify.com/user/spotify) - 555,844 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 555,876 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX53wq0WYtg5L.md) - [plain]
 | 51 | [Popurrí de Sones](https://open.spotify.com/track/3M3fXgsaeOLSSq3lBq4ABT) | [Mariachi Nuevo Ordaz de Purépero](https://open.spotify.com/artist/17L3NKBruc70djZG4gKVIs) | [Cuando México Canta](https://open.spotify.com/album/5XU80uT7Z4FEcMoIyonTIW) | 5:22 |
 | 52 | [Juan Colorado](https://open.spotify.com/track/2qqdRSEgnCaxg3gXnCQGJC) | [Mariachi Arriba Juárez](https://open.spotify.com/artist/1QTNMV42e1fk8xoHv0bfpy) | [Mariachi](https://open.spotify.com/album/0s0sjgCn8JRkEYObt8YA93) | 2:58 |
 | 53 | [La Mulita Prieta](https://open.spotify.com/track/2dCICTepTYf3CgfITnxQ4f) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Pepe Aguilar Interpreta A Joan Sebastian](https://open.spotify.com/album/3tIHIHQhkjShT31Br8nreb) | 2:31 |
-| 54 | [El Barzon](https://open.spotify.com/track/3WALh4MuKxt00oJO7vSrjk) | [Luis Pérez Meza](https://open.spotify.com/artist/1njDUvTLxvzE1QO8wN39eT) | [Lo Mejor De Rancheras](https://open.spotify.com/album/1byRtvyAmS4gGeTbSRCwv8) | 2:44 |
-| 55 | [Caminos de Guanajuato](https://open.spotify.com/track/2NYtb44MFHpDadBfNFcQXd) | [José Alfredo Jimenez](https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9) | [El Rey](https://open.spotify.com/album/6ugwfm6B8ToDlJndtQJ7jf) | 3:14 |
+| 54 | [Caminos de Guanajuato](https://open.spotify.com/track/2NYtb44MFHpDadBfNFcQXd) | [José Alfredo Jimenez](https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9) | [El Rey](https://open.spotify.com/album/6ugwfm6B8ToDlJndtQJ7jf) | 3:14 |
+| 55 | [El Barzon](https://open.spotify.com/track/3WALh4MuKxt00oJO7vSrjk) | [Luis Pérez Meza](https://open.spotify.com/artist/1njDUvTLxvzE1QO8wN39eT) | [Lo Mejor De Rancheras](https://open.spotify.com/album/1byRtvyAmS4gGeTbSRCwv8) | 2:44 |
 | 56 | [La Marcha De Zacatecas](https://open.spotify.com/track/1yNvdltBhsqVc6LwK33SCn) | [Mariachi México de Pepe Villa](https://open.spotify.com/artist/2pTMHhbToqVd0nXzEiwaRz) | [Polkas Mexicanas](https://open.spotify.com/album/2mUqMvwE655JirAbrd3sTb) | 3:01 |
 | 57 | [Cancion Mexicana](https://open.spotify.com/track/0vCKgfSk9GmKGkfWrr0io5) | [María de Lourdes](https://open.spotify.com/artist/3jDbRC3mbW9SwWYDZatz5R) | [La Cancion Mexicana, Vol\. I](https://open.spotify.com/album/5jMc3Jzu9tUzJken0caYyS) | 2:46 |
 | 58 | [La Culebra](https://open.spotify.com/track/6CWx5jNxAoHsnM7TPcHBoO) | [Mariachi Silvestre Vargas](https://open.spotify.com/artist/16RPDOVQlVowqfNnRuRlRG) | [Pedro Infante y Mariachi Silvestre Vargas](https://open.spotify.com/album/6lWpobNNKaneq15AsRQ4xw) | 2:48 |
@@ -101,9 +101,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX53wq0WYtg5L.md) - [plain]
 | 91 | [El Hidalguense](https://open.spotify.com/track/0hPhkx33UhHLy0cx4HcPsJ) | [Mariachi Vargas De Tecalitlán](https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78) | [Viva el Mariachi!](https://open.spotify.com/album/5WL94bwHqhT6nKGgHdZYZG) | 3:17 |
 | 92 | [Camino Real de Colima](https://open.spotify.com/track/2JA99uajFc8S2fyiiHjCZ6) | [Mariachi Vargas De Tecalitlán](https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78) | [Peerless 80 Aniversario \- 24 Exitos](https://open.spotify.com/album/4LnVq0V93CA5eievIW2Kmo) | 2:43 |
 | 93 | [La Verdolaga \(Huapango\)](https://open.spotify.com/track/3sZHqEOkquQLgcKddk2UfQ) | [Mariachi Vargas De Tecalitlán](https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78) | [Rubén Fuentes, Miguel Martínez, Silvestre Vargas](https://open.spotify.com/album/4Zraph4xdA7evbLQbwT7In) | 3:10 |
-| 94 | [Popurri de Sones Jalisciences](https://open.spotify.com/track/2Pg0Zu7QpzYN1he0VfsN6L) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Bicentenario](https://open.spotify.com/album/6tFbIEt2apg5Zj1KPCdyMi) | 4:01 |
-| 95 | [El Tapatio](https://open.spotify.com/track/2c7hsQ1qRngj4GhMopLE5W) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Lástima Que Sean Ajenas](https://open.spotify.com/album/1aSlbjdsAjY93SiXsqwfIL) | 3:08 |
-| 96 | [Mi Zacatecas Querido](https://open.spotify.com/track/7HkXxQLscUki9gCeMMMwPM) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [A la Medida](https://open.spotify.com/album/6efOKRzidSTHQXjUyHmCM4) | 3:21 |
+| 94 | [Mi Zacatecas Querido](https://open.spotify.com/track/7HkXxQLscUki9gCeMMMwPM) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [A la Medida](https://open.spotify.com/album/6efOKRzidSTHQXjUyHmCM4) | 3:21 |
+| 95 | [Popurri de Sones Jalisciences](https://open.spotify.com/track/2Pg0Zu7QpzYN1he0VfsN6L) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Bicentenario](https://open.spotify.com/album/6tFbIEt2apg5Zj1KPCdyMi) | 4:01 |
+| 96 | [El Tapatio](https://open.spotify.com/track/2c7hsQ1qRngj4GhMopLE5W) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Lástima Que Sean Ajenas](https://open.spotify.com/album/1aSlbjdsAjY93SiXsqwfIL) | 3:08 |
 | 97 | [Cielito Lindo](https://open.spotify.com/track/2GzOrRCr4yyz2DqcEqTdBS) | [Mariachi Vargas De Tecalitlán](https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78) | [Lo Mejor De La Música Mexicana](https://open.spotify.com/album/35XRyDZl5xoWF0wVNQ5VeL) | 3:41 |
 | 98 | [Popurri de Sones Jarochos](https://open.spotify.com/track/2TYitjWzuBzwuX6bPJn3uK) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Bicentenario](https://open.spotify.com/album/6tFbIEt2apg5Zj1KPCdyMi) | 3:35 |
 | 99 | [La Vaquilla \- El Son de la Vaquilla \-](https://open.spotify.com/track/4ej2mbnMxjyUI5ZjcnqPcf) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Joyas Musicales Vol\. 2 Chiquilla Bonita](https://open.spotify.com/album/742XRieSWUGGAPTrjzU1Yy) | 2:10 |

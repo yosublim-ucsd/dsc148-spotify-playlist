@@ -483,6 +483,24 @@
     },
     {
       "album": {
+        "name": "Antes de Ti",
+        "url": "https://open.spotify.com/album/3xRcnSvQXy2zpTdmcJwKf5"
+      },
+      "artists": [
+        {
+          "name": "Delilah",
+          "url": "https://open.spotify.com/artist/5O2rJN2gJncIfM5iNSNiYR"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214552,
+      "name": "Antes de Ti",
+      "url": "https://open.spotify.com/track/0uzZEwZRambYj8Ar6RW3N1"
+    },
+    {
+      "album": {
         "name": "Pies Descalzos",
         "url": "https://open.spotify.com/album/3HLngzP9wVd8p3SMDQgyd9"
       },
@@ -512,7 +530,7 @@
       ],
       "date_added": "2022-09-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-11",
+      "date_removed": null,
       "duration_ms": 205624,
       "name": "Aqui Se Acaba Todo",
       "url": "https://open.spotify.com/track/61542EPiVTyYQw4SsOeXb5"
@@ -1085,6 +1103,28 @@
     },
     {
       "album": {
+        "name": "Decide T\u00fa",
+        "url": "https://open.spotify.com/album/6lapM6uMQXvBBDu5Zky2d4"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Banda la Sinaloense de Alex Ojeda",
+          "url": "https://open.spotify.com/artist/6ucSqPKWD0QdphhjNrVnUf"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232611,
+      "name": "Decide T\u00fa",
+      "url": "https://open.spotify.com/track/3HtNPv4uWc7MSk7hpu2pwA"
+    },
+    {
+      "album": {
         "name": "dEsANiMaO :(",
         "url": "https://open.spotify.com/album/6uNrdApJivQeMBQHprupcZ"
       },
@@ -1371,6 +1411,24 @@
     },
     {
       "album": {
+        "name": "EL AG\u00dcITADO (En Vivo)",
+        "url": "https://open.spotify.com/album/6y3DRL0KesjmHjXNS8Edf5"
+      },
+      "artists": [
+        {
+          "name": "Octavio Cuadras",
+          "url": "https://open.spotify.com/artist/2DleHTnLZ18SJy0LCcoIGp"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154906,
+      "name": "EL AG\u00dcITADO - En Vivo",
+      "url": "https://open.spotify.com/track/4BQu6DJrItRhPoFZ1bGOM0"
+    },
+    {
+      "album": {
         "name": "Ya Aprend\u00ed la Lecci\u00f3n",
         "url": "https://open.spotify.com/album/4mruyGpiOW9uR1nqyE3xoE"
       },
@@ -1578,6 +1636,24 @@
       "duration_ms": 240654,
       "name": "Extssy Model",
       "url": "https://open.spotify.com/track/24teIhDYO2RocTA2v5dY0r"
+    },
+    {
+      "album": {
+        "name": "Amor Perdido",
+        "url": "https://open.spotify.com/album/78GGHOJMRmOy2WlmZSQomL"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178080,
+      "name": "Faldita",
+      "url": "https://open.spotify.com/track/1TKBveWY8Ahq5SEnSMcNGa"
     },
     {
       "album": {
@@ -2056,7 +2132,7 @@
       ],
       "date_added": "2023-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 172264,
       "name": "La Diabla",
       "url": "https://open.spotify.com/track/0R6NfOiLzLj4O5VbYSJAjf"
@@ -2252,7 +2328,7 @@
       ],
       "date_added": "2022-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 249421,
       "name": "Las Razones",
       "url": "https://open.spotify.com/track/1iYYianrZZiSmIKldBfFq9"
@@ -2288,7 +2364,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 194851,
       "name": "Lejos de T\u00ed",
       "url": "https://open.spotify.com/track/30pCOQE19RvNmHq78Svlkm"
@@ -2582,7 +2658,7 @@
       ],
       "date_added": "2023-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 300791,
       "name": "Me Hace Da\u00f1o Verte",
       "url": "https://open.spotify.com/track/4dyzxv5SsdBtunuU3qj7Ti"
@@ -2788,7 +2864,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 141428,
       "name": "misa",
       "url": "https://open.spotify.com/track/0sfpzvSPMTq14wpUyIQZvQ"
@@ -3541,6 +3617,24 @@
     },
     {
       "album": {
+        "name": "DEL Records Presenta: Por Causa DEL Amor",
+        "url": "https://open.spotify.com/album/5C9kXIfkA9DMLQXfWsbYC9"
+      },
+      "artists": [
+        {
+          "name": "Ruben Figueroa",
+          "url": "https://open.spotify.com/artist/39sUQ6z3CTsNB4BhBecLOg"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189440,
+      "name": "Pistie Tu Recuerdo",
+      "url": "https://open.spotify.com/track/5edYmfswIoo71qY54fKpJx"
+    },
+    {
+      "album": {
         "name": "$AD BOYZ 4 LIFE II",
         "url": "https://open.spotify.com/album/7Lv6VzSqIz1sAssK2JUskG"
       },
@@ -3786,10 +3880,28 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 182073,
       "name": "Pr\u00e9stame Tu Coraz\u00f3n",
       "url": "https://open.spotify.com/track/1bnSKjuPEd8FPACxqA5Mos"
+    },
+    {
+      "album": {
+        "name": "Libre Por Naturaleza",
+        "url": "https://open.spotify.com/album/2XsiX1tRabcnYmJatmnsSK"
+      },
+      "artists": [
+        {
+          "name": "Duelo",
+          "url": "https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192760,
+      "name": "Pu\u00f1o De Diamantes",
+      "url": "https://open.spotify.com/track/1IzGf1RLpHuImi5lsCD3T9"
     },
     {
       "album": {
@@ -3874,6 +3986,28 @@
       "duration_ms": 188206,
       "name": "Qu\u00e9 Agon\u00eda - Remix",
       "url": "https://open.spotify.com/track/6X7wUIz4tP7JcAauyU0h2j"
+    },
+    {
+      "album": {
+        "name": "Qu\u00e9 Onda Perdida",
+        "url": "https://open.spotify.com/album/7b01UUiyCasivZJP3Suj4C"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Gerardo Coronel",
+          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239637,
+      "name": "Qu\u00e9 Onda Perdida",
+      "url": "https://open.spotify.com/track/6IV5Y1eWaQZ1jV5apkUMS4"
     },
     {
       "album": {
@@ -3968,7 +4102,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 181503,
       "name": "Sad Loqueron",
       "url": "https://open.spotify.com/track/1VykDC2twhsRrlhgxJHKRZ"
@@ -4810,7 +4944,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 141000,
       "name": "Terapia",
       "url": "https://open.spotify.com/track/6iCFPzvvt0AcpmvnWbrGfg"
@@ -5526,10 +5660,32 @@
       ],
       "date_added": "2024-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 216317,
       "name": "Ya Te Olvide",
       "url": "https://open.spotify.com/track/6Bcy1jJFcIAuAzJMtfpImi"
+    },
+    {
+      "album": {
+        "name": "Yo Ya No Vuelvo Contigo (En Vivo)",
+        "url": "https://open.spotify.com/album/78OOLWnOyjDZRqxZXlfNk9"
+      },
+      "artists": [
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        },
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240456,
+      "name": "Yo Ya No Vuelvo Contigo - En Vivo",
+      "url": "https://open.spotify.com/track/1s59X35jDULAyOGmBuTAnd"
     },
     {
       "album": {

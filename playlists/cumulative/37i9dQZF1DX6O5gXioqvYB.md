@@ -4,7 +4,7 @@
 
 > La nuova scena indie italiana! Cover: Delicatoni
 
-166 songs - 8 hr 3 min
+167 songs - 8 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [a prendermi](https://open.spotify.com/track/0kUWwQBuzwjUjI2BLyQFdQ) | [Akhila](https://open.spotify.com/artist/08tRBT6zwTBNIovhJpntVf) | [a prendermi](https://open.spotify.com/album/0qNqylonB7WjCe1IxH2d8z) | 2:54 | 2024-08-29 | 2024-09-27 |
 | [Acqua Naturale](https://open.spotify.com/track/0JVhUr00Aj9Ki9TQDJzhsf) | [sigarettewest](https://open.spotify.com/artist/2nEh4UiWE9OnyQy7hDTZZ1) | [Acqua Naturale](https://open.spotify.com/album/5Pa6ybBScqSvCpUX9gIUTX) | 2:25 | 2024-06-27 | 2024-09-27 |
 | [Airbag](https://open.spotify.com/track/1MGStIoi8Lyy6tZIwiapi7) | [Bueno](https://open.spotify.com/artist/0j8bZXM94A3yeUIZ2GPRjB) | [Airbag](https://open.spotify.com/album/48SbuykbI9JB52sy1kNMLT) | 2:53 | 2024-06-27 | 2024-07-05 |
-| [ALICE+](https://open.spotify.com/track/0uG97bjEa7Gr12VdnG7wgO) | [Zeta](https://open.spotify.com/artist/6gRamOYCDmzgHxeWxO1RRP) | [ALICE+](https://open.spotify.com/album/6NSx4CI3u5ejunZLxvCjAT) | 2:02 | 2024-09-19 | 2024-10-04 |
+| [ALICE+](https://open.spotify.com/track/0uG97bjEa7Gr12VdnG7wgO) | [Zeta](https://open.spotify.com/artist/6gRamOYCDmzgHxeWxO1RRP) | [ALICE+](https://open.spotify.com/album/6NSx4CI3u5ejunZLxvCjAT) | 2:02 | 2024-09-19 |  |
 | [Alta Marea](https://open.spotify.com/track/4iYNr3EOixzqAmFfFdvOMC) | [Dorian](https://open.spotify.com/artist/6V9EZvDzdaPnzYg8VgsFGk) | [Alta Marea](https://open.spotify.com/album/6b0oSugc2sJtkBtVIsQSn5) | 2:13 | 2024-09-26 |  |
 | [AMORE DISPERATO](https://open.spotify.com/track/2ghQwXaYq4nembNG5vhN4X) | [Fettuccine](https://open.spotify.com/artist/2ObpF6jimPBMsJuD7UHn7m) | [PUTTO](https://open.spotify.com/album/0OUhI3GBCCVIbzezqJDL54) | 2:10 | 2024-06-27 | 2024-07-05 |
 | [Amore fai presto!](https://open.spotify.com/track/0MFwAbakcyf587x7evQW9i) | [marzo](https://open.spotify.com/artist/20LOUqAbkWCYwND5CarWCR) | [Amore fai presto!](https://open.spotify.com/album/3pETZo1uiS3FmziALnV9ei) | 2:47 | 2024-07-04 |  |
@@ -30,7 +30,7 @@
 | [Bene Bene](https://open.spotify.com/track/0xJJgvSmh55Ens4WYFXzJg) | [Paul Giorgi](https://open.spotify.com/artist/0xR9GzTwiXo7mZpoqOL0pG) | [Bene Bene](https://open.spotify.com/album/0WHSOXBqxlvXQaiCzDyMF3) | 2:30 | 2024-06-27 | 2024-07-27 |
 | [BRONCIO](https://open.spotify.com/track/2Gn6bZ72AmbPrG0eueI3Hs) | [Greta](https://open.spotify.com/artist/13GjdjA8k3fmCHSfcAxTH0) | [BRONCIO](https://open.spotify.com/album/4b85jG8dhfsMaSQeChdSQ5) | 2:19 | 2024-09-26 |  |
 | [BYE BYE](https://open.spotify.com/track/3fKmFNT3A8EZ3h2TsH0bZN) | [Ophelia Lia](https://open.spotify.com/artist/3VBPvCalDAaE5MJHkMAuDk) | [BYE BYE](https://open.spotify.com/album/6hw4vPdcvTUobDbLuInXmG) | 2:50 | 2024-07-04 | 2024-09-27 |
-| [Canterino](https://open.spotify.com/track/1SfPYnnRSfYJnwOBbziCyn) | [tellynonpiangere](https://open.spotify.com/artist/2n8rCH14DAnaBWMdkfj9hv) | [Canterino](https://open.spotify.com/album/4iJp38ZlC8au8XklWLt4Gk) | 2:44 | 2024-09-26 |  |
+| [Canterino](https://open.spotify.com/track/1SfPYnnRSfYJnwOBbziCyn) | [tellynonpiangere](https://open.spotify.com/artist/2n8rCH14DAnaBWMdkfj9hv) | [Canterino](https://open.spotify.com/album/4iJp38ZlC8au8XklWLt4Gk) | 2:44 | 2024-09-26 | 2024-10-05 |
 | [Canzoni alla radio](https://open.spotify.com/track/715BG7KwhtLc6Lyi5PIZ3B) | [Lacrima](https://open.spotify.com/artist/1DVa4ZxXZ1LevzahcMWVhX) | [Canzoni alla radio](https://open.spotify.com/album/7l2sf9KBG6MBqVszdCC68V) | 2:54 | 2024-07-18 | 2024-09-27 |
 | [CAPELLI CORTI CALIFORNIA](https://open.spotify.com/track/11sVx6FxPPxfuPBCc4pYxp) | [Cartapesta](https://open.spotify.com/artist/1WbhtNbZgCyZaqYdKnAwKU) | [CAPELLI CORTI CALIFORNIA](https://open.spotify.com/album/5AEtPyvBjuCnH5TZWaYNMW) | 2:26 | 2024-08-22 |  |
 | [Cartine](https://open.spotify.com/track/5mJTdLjHkmSKUpuVHu5bGQ) | [Rebecca](https://open.spotify.com/artist/4qglWCdo4uyHaBay75PWYM) | [Immobile](https://open.spotify.com/album/3a09IEJS59f4uNfCbVPwyc) | 2:54 | 2024-09-19 | 2024-09-27 |
@@ -140,11 +140,12 @@
 | [Sambo \(feat\. Serepocaiontas\)](https://open.spotify.com/track/4naSIMDBisxCcAK9dVC260) | [MOX](https://open.spotify.com/artist/4eU1G77ExeXQw8FdsQA8It), [Serepocaiontas](https://open.spotify.com/artist/1E0z4tZ543qWy0oe9Xe4u2) | [Sambo \(feat\. Serepocaiontas\)](https://open.spotify.com/album/4brRghFWddD7RNfAxPPBde) | 4:09 | 2024-07-11 | 2024-09-28 |
 | [Sassi](https://open.spotify.com/track/26OptEgY9h0hwHFEQy3uWo) | [Meli](https://open.spotify.com/artist/64Z6UXWQgg7R9HvgQuzW3q) | [Sassi](https://open.spotify.com/album/3zcEYoS9SWPk4V3bzJL2lp) | 3:04 | 2024-06-27 | 2024-07-05 |
 | [Scatoloni](https://open.spotify.com/track/66jgjmSQPsjZcUUg9eOz4J) | [Lost Kids](https://open.spotify.com/artist/5ly3ec0V7ETrC9fSvOX9G6), [Close Listen](https://open.spotify.com/artist/1nYewcxiLilP3ju14xOaov) | [Scatoloni](https://open.spotify.com/album/5d3kZvPSoQQvkfB5DzLrls) | 3:01 | 2024-06-27 | 2024-07-05 |
+| [Se crolla il mondo poi ti salvo io](https://open.spotify.com/track/0mqC0ZUnfyzfN6IN3PtNE4) | [Destro](https://open.spotify.com/artist/6yKsozMFOdRQFgaMw7BXsT) | [Se crolla il mondo poi ti salvo io](https://open.spotify.com/album/3SYOrz4zKgRN4FnRg3cYma) | 3:22 | 2024-10-03 |  |
 | [Se non passasse aria](https://open.spotify.com/track/1KYm3VmTG8jXvRzYsQ7Ft5) | [montag](https://open.spotify.com/artist/3tace7aJONiUqExBPqfYb0) | [Se non passasse aria](https://open.spotify.com/album/2QamJXYhdVkK1uJAUcf2yu) | 3:22 | 2024-10-03 |  |
 | [Se voglio salvarmi la vita](https://open.spotify.com/track/2EvzaukzjxXpAiQMN365Yq) | [Vienna](https://open.spotify.com/artist/2fNMHLg3XxoufUqKuYNNN2) | [Se voglio salvarmi la vita](https://open.spotify.com/album/47llmaF6VEih4r0rNE5Ynd) | 2:32 | 2024-09-05 | 2024-09-27 |
 | [senza parole](https://open.spotify.com/track/7eV5CmkNPxfxqnRPIKozec) | [Drojette](https://open.spotify.com/artist/7ilioqEIB98582y6xSR9ln), [Swann](https://open.spotify.com/artist/56uj5pVUXA8jELaj096IJX) | [senza parole](https://open.spotify.com/album/4yhQHP0D98k0om3n1zCqk5) | 2:41 | 2024-08-29 |  |
 | [Senza Stelle](https://open.spotify.com/track/6WyZIUaJ3gfEs3TCYAEK3n) | [ceneri](https://open.spotify.com/artist/1RpjdVVigmI1T1UW8gxXJz) | [Senza Stelle](https://open.spotify.com/album/2e7RzeKKHgTUHsUNxfQJBC) | 2:52 | 2024-09-19 |  |
-| [Settembre](https://open.spotify.com/track/1IvmmcluFY1biohRwZqITX) | [Nuela](https://open.spotify.com/artist/7nAlVysgaD9U8Ys4D8WNIP) | [Settembre](https://open.spotify.com/album/0C4Yadhn7f2NgtSFsuKQa5) | 3:01 | 2024-09-26 |  |
+| [Settembre](https://open.spotify.com/track/1IvmmcluFY1biohRwZqITX) | [Nuela](https://open.spotify.com/artist/7nAlVysgaD9U8Ys4D8WNIP) | [Settembre](https://open.spotify.com/album/0C4Yadhn7f2NgtSFsuKQa5) | 3:01 | 2024-09-26 | 2024-10-05 |
 | [SISSI 2](https://open.spotify.com/track/7kOXcYjbXmUW2dTF6DRdsV) | [EDN](https://open.spotify.com/artist/2FfgO1FC4Bp1snTrGYZz9u) | [SISSI 2](https://open.spotify.com/album/3RRSr7oDLfuUHVMI8ajtOJ) | 2:45 | 2024-06-27 | 2024-07-19 |
 | [soli soli](https://open.spotify.com/track/5T3kVq65Kjxg4698zdogLI) | [Giuze](https://open.spotify.com/artist/2drbYqHcAqNoLoEhrzaZ5B) | [soli soli](https://open.spotify.com/album/0Ki0cUpTBIoipeFO26lJKu) | 2:40 | 2024-08-22 |  |
 | [Solo per guardarti](https://open.spotify.com/track/7KjSp39rTMRU7FaasDEzpa) | [ALBE.x](https://open.spotify.com/artist/20pY261He7JCdV1FbbGZQb), [Kr1](https://open.spotify.com/artist/4vsRoPHf54OF5D85j8jKej) | [Solo per guardarti](https://open.spotify.com/album/6ocvw6K862kzRuEd2PDgAK) | 1:56 | 2024-07-25 | 2024-09-30 |

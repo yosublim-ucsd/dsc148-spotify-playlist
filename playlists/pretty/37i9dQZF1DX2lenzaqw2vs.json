@@ -1,6 +1,6 @@
 {
   "description": "Artistas LGBTQIA+ que brillan e inspiran.\nCover: Arca & Tokischa",
-  "num_followers": 134783,
+  "num_followers": 134796,
   "original_name": "BRILLO",
   "owner": {
     "name": "Spotify",
@@ -215,6 +215,22 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
+        "name": "Tiene Que Ser Para M\u00ed",
+        "url": "https://open.spotify.com/album/2J5ARQTTYCX2j7WTDA6HKK"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lacunza",
+          "url": "https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP"
+        }
+      ],
+      "duration_ms": 151786,
+      "name": "Muchas Cosas",
+      "url": "https://open.spotify.com/track/1DHrUYdgRoAptl0DFOCyuj"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
         "name": "Tiki Tiki",
         "url": "https://open.spotify.com/album/27WZ3udXyjazvsInPtfuIQ"
       },
@@ -231,22 +247,6 @@
       "duration_ms": 131437,
       "name": "Tiki Tiki",
       "url": "https://open.spotify.com/track/2J8lIDwvxPZQQ0I0wt1oRO"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
-        "name": "Tiene Que Ser Para M\u00ed",
-        "url": "https://open.spotify.com/album/2J5ARQTTYCX2j7WTDA6HKK"
-      },
-      "artists": [
-        {
-          "name": "Natalia Lacunza",
-          "url": "https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP"
-        }
-      ],
-      "duration_ms": 151786,
-      "name": "Muchas Cosas",
-      "url": "https://open.spotify.com/track/1DHrUYdgRoAptl0DFOCyuj"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -751,22 +751,6 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "vivir en los dosmil",
-        "url": "https://open.spotify.com/album/0XXM9pJOGUKNJHwiLkExak"
-      },
-      "artists": [
-        {
-          "name": "Gala Nell",
-          "url": "https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY"
-        }
-      ],
-      "duration_ms": 142439,
-      "name": "vivir en los dosmil",
-      "url": "https://open.spotify.com/track/3WUlTT5mSRZNmPfbtkvwAS"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
         "name": "Bellakosa",
         "url": "https://open.spotify.com/album/5tUZWuzaD4vnLJRnH5zxPc"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 173333,
       "name": "Bellakosa",
       "url": "https://open.spotify.com/track/3zmjT7DVb5s01CC8Iy8BlN"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "vivir en los dosmil",
+        "url": "https://open.spotify.com/album/0XXM9pJOGUKNJHwiLkExak"
+      },
+      "artists": [
+        {
+          "name": "Gala Nell",
+          "url": "https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY"
+        }
+      ],
+      "duration_ms": 142439,
+      "name": "vivir en los dosmil",
+      "url": "https://open.spotify.com/track/3WUlTT5mSRZNmPfbtkvwAS"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -883,22 +883,6 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "Clonazepamela",
-        "url": "https://open.spotify.com/album/2oaC1GdSFnaSIWXiIJbdB4"
-      },
-      "artists": [
-        {
-          "name": "Villano Antillano",
-          "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
-        }
-      ],
-      "duration_ms": 130461,
-      "name": "Clonazepamela",
-      "url": "https://open.spotify.com/track/0m2HMCgaTuCKIn1iJqFWW4"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
         "name": "Mojigata",
         "url": "https://open.spotify.com/album/5U8SvHu7gGsae0izVjA9QS"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 225879,
       "name": "Amuleto",
       "url": "https://open.spotify.com/track/0mHrAGsrbfmQEBxmstxS21"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "Clonazepamela",
+        "url": "https://open.spotify.com/album/2oaC1GdSFnaSIWXiIJbdB4"
+      },
+      "artists": [
+        {
+          "name": "Villano Antillano",
+          "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
+        }
+      ],
+      "duration_ms": 130461,
+      "name": "Clonazepamela",
+      "url": "https://open.spotify.com/track/0m2HMCgaTuCKIn1iJqFWW4"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -987,18 +987,18 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "Sue\u00f1o",
-        "url": "https://open.spotify.com/album/7z7pDIZ6snsyjddw5oi3bB"
+        "name": "nada mejor",
+        "url": "https://open.spotify.com/album/4fe8cH92WZmb9rQVyy3aEK"
       },
       "artists": [
         {
-          "name": "Jimena Amarillo",
-          "url": "https://open.spotify.com/artist/29cPgYFoxExwmptUrlnYmm"
+          "name": "Lara91k",
+          "url": "https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW"
         }
       ],
-      "duration_ms": 187428,
-      "name": "Sue\u00f1o",
-      "url": "https://open.spotify.com/track/2uEchvRtFmNNvTiQQSi2am"
+      "duration_ms": 197894,
+      "name": "nada mejor",
+      "url": "https://open.spotify.com/track/3kWuBlBpeKyaZzlGxVHG2e"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -1023,18 +1023,18 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "nada mejor",
-        "url": "https://open.spotify.com/album/4fe8cH92WZmb9rQVyy3aEK"
+        "name": "Sue\u00f1o",
+        "url": "https://open.spotify.com/album/7z7pDIZ6snsyjddw5oi3bB"
       },
       "artists": [
         {
-          "name": "Lara91k",
-          "url": "https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW"
+          "name": "Jimena Amarillo",
+          "url": "https://open.spotify.com/artist/29cPgYFoxExwmptUrlnYmm"
         }
       ],
-      "duration_ms": 197894,
-      "name": "nada mejor",
-      "url": "https://open.spotify.com/track/3kWuBlBpeKyaZzlGxVHG2e"
+      "duration_ms": 187428,
+      "name": "Sue\u00f1o",
+      "url": "https://open.spotify.com/track/2uEchvRtFmNNvTiQQSi2am"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -1103,6 +1103,26 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
+        "name": "Voy en Auto",
+        "url": "https://open.spotify.com/album/45VXxqHvTgdEicrCiIBXnu"
+      },
+      "artists": [
+        {
+          "name": "Andru",
+          "url": "https://open.spotify.com/artist/3oOQ670Uw0UyVnmj9XM58W"
+        },
+        {
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        }
+      ],
+      "duration_ms": 178686,
+      "name": "Voy en Auto",
+      "url": "https://open.spotify.com/track/0kVHMFM0cLUU3LVxP3Ps4F"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
         "name": "Querer Querer",
         "url": "https://open.spotify.com/album/17sfERphTZkMfRkIzKFVHh"
       },
@@ -1135,26 +1155,6 @@
       "duration_ms": 222115,
       "name": "Otros Ritmos",
       "url": "https://open.spotify.com/track/090MzGykdRx3XjeQAuUOlE"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
-        "name": "Voy en Auto",
-        "url": "https://open.spotify.com/album/45VXxqHvTgdEicrCiIBXnu"
-      },
-      "artists": [
-        {
-          "name": "Andru",
-          "url": "https://open.spotify.com/artist/3oOQ670Uw0UyVnmj9XM58W"
-        },
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        }
-      ],
-      "duration_ms": 178686,
-      "name": "Voy en Auto",
-      "url": "https://open.spotify.com/track/0kVHMFM0cLUU3LVxP3Ps4F"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "Amor, Locura & Otros Vicios",
-        "url": "https://open.spotify.com/album/3RM6JchSNTtRsZ8Do0iWRD"
-      },
-      "artists": [
-        {
-          "name": "Ni\u00f1a Dioz",
-          "url": "https://open.spotify.com/artist/7G4N4GY4l0qHm1yflRvsQ0"
-        }
-      ],
-      "duration_ms": 170160,
-      "name": "Brillo",
-      "url": "https://open.spotify.com/track/6AiM0XGlc0R03v2Z1wlTWn"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
         "name": "Paradise",
         "url": "https://open.spotify.com/album/3SYPjBFJeTW2sb4kMPQk6O"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 196363,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/4W8k1VqecfTy4nOaHPc4cY"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "Amor, Locura & Otros Vicios",
+        "url": "https://open.spotify.com/album/3RM6JchSNTtRsZ8Do0iWRD"
+      },
+      "artists": [
+        {
+          "name": "Ni\u00f1a Dioz",
+          "url": "https://open.spotify.com/artist/7G4N4GY4l0qHm1yflRvsQ0"
+        }
+      ],
+      "duration_ms": 170160,
+      "name": "Brillo",
+      "url": "https://open.spotify.com/track/6AiM0XGlc0R03v2Z1wlTWn"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "Si Me Ven",
-        "url": "https://open.spotify.com/album/3O18rkimzgbRRELQmXZQKa"
-      },
-      "artists": [
-        {
-          "name": "Leyo",
-          "url": "https://open.spotify.com/artist/3aZ2G1elrxO4ZMWcafMriO"
-        }
-      ],
-      "duration_ms": 157909,
-      "name": "Si Me Ven",
-      "url": "https://open.spotify.com/track/18SRZukL28XCF4nKKQp2UM"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
         "name": "TORQUE: Vol. 1",
         "url": "https://open.spotify.com/album/1GTyjbV1GQXFWjOCDsmNne"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 171857,
       "name": "Fue",
       "url": "https://open.spotify.com/track/4NmkoTBB02LmKn8GdvOLUN"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "Si Me Ven",
+        "url": "https://open.spotify.com/album/3O18rkimzgbRRELQmXZQKa"
+      },
+      "artists": [
+        {
+          "name": "Leyo",
+          "url": "https://open.spotify.com/artist/3aZ2G1elrxO4ZMWcafMriO"
+        }
+      ],
+      "duration_ms": 157909,
+      "name": "Si Me Ven",
+      "url": "https://open.spotify.com/track/18SRZukL28XCF4nKKQp2UM"
     },
     {
       "added_at": "2024-09-20 04:00:00",

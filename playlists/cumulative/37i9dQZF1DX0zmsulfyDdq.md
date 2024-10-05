@@ -4,7 +4,7 @@
 
 > Help your little one drift off to sleep with this soothing playlist of Disney favorites, including Wish.
 
-216 songs - 10 hr 49 min
+217 songs - 10 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [For the First Time in Forever](https://open.spotify.com/track/3mZ5cGdehGztF45dECOuoV) | [Disney Peaceful Guitar](https://open.spotify.com/artist/3oqzxUlHhjJ7auI4dVujKX), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Guitar: Joy](https://open.spotify.com/album/11x60QHsoQa9rJVkIVFccW) | 3:27 | 2022-04-15 |  |
 | [Friend Like Me \- Orgel Version](https://open.spotify.com/track/0ennZs5RBFdSoXSgWhjvUh) | [Disney Orgel](https://open.spotify.com/artist/2NiGKii6cldvRKyHjVxRH8) | [Disney Orgel/Oyasumi BGM Vol\. 2](https://open.spotify.com/album/0iswLGj4W2QE1ou9vK7Mqn) | 5:07 | 2024-03-19 |  |
 | [Going on a Mission](https://open.spotify.com/track/2U40NPBtjoinwsVjoYzRQt) | [Rob Cantor](https://open.spotify.com/artist/1NtYiv70buGwaMspHuD49I) | [Disney Junior Music: Lullabies Vol\. 1](https://open.spotify.com/album/6CPPr8LjolXUFAiEMiLQgb) | 1:24 | 2022-04-15 |  |
+| [Grim Grinning Ghosts](https://open.spotify.com/track/1OsxTNbKvrdaXjmoGmltiP) | [Disney Peaceful Guitar](https://open.spotify.com/artist/3oqzxUlHhjJ7auI4dVujKX) | [Disney Guitar: Grim Grinning Ghosts](https://open.spotify.com/album/054i6SZs6LCR7hn8iVKJ0s) | 2:59 | 2024-10-04 |  |
 | [Hakuna Matata](https://open.spotify.com/track/5l5rUCU2QAA1sXTuNPlMHZ) | [Purrple Cat](https://open.spotify.com/artist/73aKnLT4O8G2pBEfdlQzrE), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO), [Disney Lofi](https://open.spotify.com/artist/2ETOhMwFhRRTCH8M1ge17v) | [Lofi Minnie: Focus](https://open.spotify.com/album/37LBLwOpwruXguw0QclQzN) | 2:48 | 2022-04-15 |  |
 | [Happy Working Song](https://open.spotify.com/track/1v4uRGAMORpaj7E8Fc4V6z) | [Disney Peaceful Piano](https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN) | [Disney Peaceful Piano: Relax](https://open.spotify.com/album/7FNfj52JTCxxGbaX2c2ky2) | 2:34 | 2023-08-25 |  |
 | [Hawaiian Roller Coaster Ride](https://open.spotify.com/track/1RDQoUE3pE44TOKKKP8FQC) | [Disney Ukulele](https://open.spotify.com/artist/2L8azGZexr4bN58bhEB7wm), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Ukulele: Happy](https://open.spotify.com/album/0bcbleewCHnbRNDfBls4UI) | 2:13 | 2022-04-22 |  |

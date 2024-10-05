@@ -1,12 +1,12 @@
 {
   "description": "The best new music by Experimental independent artists and labels. Mabe Fratti on cover. Artwork by Thami Nabil",
-  "num_followers": 173274,
+  "num_followers": 173373,
   "original_name": "Fresh Finds Experimental",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zv2OVwAAAABWVePYZquUhL+9Z/Pr65xf",
+  "snapshot_id": "Zv/1bgAAAAB2z1b8l/745VLRsUWHYaZc",
   "tracks": [
     {
       "added_at": "2024-10-02 15:46:42",
@@ -80,9 +80,9 @@
           "url": "https://open.spotify.com/artist/7yHfb2D8qIBgrzclpSsTeo"
         }
       ],
-      "duration_ms": 229823,
-      "name": "Plant",
-      "url": "https://open.spotify.com/track/6w1rQ82vsGF8zX9eock33Y"
+      "duration_ms": 216566,
+      "name": "Balancing Stones",
+      "url": "https://open.spotify.com/track/2Tfsh6Ryh0Zc4Le6WMiFaI"
     },
     {
       "added_at": "2024-10-02 15:46:42",
@@ -385,26 +385,6 @@
       "url": "https://open.spotify.com/track/3QLQJLs8WjbwnYUer3HEoP"
     },
     {
-      "added_at": "2024-10-02 18:17:59",
-      "album": {
-        "name": "Things We Have In Common",
-        "url": "https://open.spotify.com/album/7nbZ6zoCutfdWwFM4Bekpn"
-      },
-      "artists": [
-        {
-          "name": "Efterklang",
-          "url": "https://open.spotify.com/artist/3DL71JYSG6VREkmLSzfWhU"
-        },
-        {
-          "name": "Mabe Fratti",
-          "url": "https://open.spotify.com/artist/7yHfb2D8qIBgrzclpSsTeo"
-        }
-      ],
-      "duration_ms": 216566,
-      "name": "Balancing Stones",
-      "url": "https://open.spotify.com/track/2Tfsh6Ryh0Zc4Le6WMiFaI"
-    },
-    {
       "added_at": "2024-08-21 04:00:00",
       "album": {
         "name": "Continuum 1",
@@ -593,6 +573,22 @@
       "url": "https://open.spotify.com/track/5EfkwvbIj8lGTUCppaKcL1"
     },
     {
+      "added_at": "2024-08-14 16:44:33",
+      "album": {
+        "name": "NONAGE",
+        "url": "https://open.spotify.com/album/7me7mcscTcEqnOpB6DM8TZ"
+      },
+      "artists": [
+        {
+          "name": "LI YILEI",
+          "url": "https://open.spotify.com/artist/791gUmsH46HMASQZvPwXsp"
+        }
+      ],
+      "duration_ms": 145344,
+      "name": "O O O O",
+      "url": "https://open.spotify.com/track/1QmsT9YmuXrE0371eYFmiw"
+    },
+    {
       "added_at": "2024-05-08 03:43:46",
       "album": {
         "name": "The Turning Ground",
@@ -625,22 +621,6 @@
       "url": "https://open.spotify.com/track/5OWX5oNVa0xfn3VAIPVfJl"
     },
     {
-      "added_at": "2024-08-14 16:44:33",
-      "album": {
-        "name": "NONAGE",
-        "url": "https://open.spotify.com/album/7me7mcscTcEqnOpB6DM8TZ"
-      },
-      "artists": [
-        {
-          "name": "LI YILEI",
-          "url": "https://open.spotify.com/artist/791gUmsH46HMASQZvPwXsp"
-        }
-      ],
-      "duration_ms": 145344,
-      "name": "O O O O",
-      "url": "https://open.spotify.com/track/1QmsT9YmuXrE0371eYFmiw"
-    },
-    {
       "added_at": "2024-09-18 13:50:00",
       "album": {
         "name": "Selva",
@@ -657,6 +637,26 @@
       "url": "https://open.spotify.com/track/4nYr5YeDEXAKXh0JOvmF8G"
     },
     {
+      "added_at": "2024-10-02 18:17:59",
+      "album": {
+        "name": "Things We Have In Common",
+        "url": "https://open.spotify.com/album/7nbZ6zoCutfdWwFM4Bekpn"
+      },
+      "artists": [
+        {
+          "name": "Efterklang",
+          "url": "https://open.spotify.com/artist/3DL71JYSG6VREkmLSzfWhU"
+        },
+        {
+          "name": "Mabe Fratti",
+          "url": "https://open.spotify.com/artist/7yHfb2D8qIBgrzclpSsTeo"
+        }
+      ],
+      "duration_ms": 229823,
+      "name": "Plant",
+      "url": "https://open.spotify.com/track/6w1rQ82vsGF8zX9eock33Y"
+    },
+    {
       "added_at": "2024-08-14 14:21:25",
       "album": {
         "name": "Hooked Paw",
@@ -671,22 +671,6 @@
       "duration_ms": 200378,
       "name": "Hooked Paw",
       "url": "https://open.spotify.com/track/5O0NtSxrPa8nNCMrPqyxrQ"
-    },
-    {
-      "added_at": "2024-09-11 04:16:56",
-      "album": {
-        "name": "Vou Ficar Neste Quadrado",
-        "url": "https://open.spotify.com/album/2PhGH5fdz5o8r0eyhVr9KT"
-      },
-      "artists": [
-        {
-          "name": "Ana Lua Caiano",
-          "url": "https://open.spotify.com/artist/6TeD6DGSCfviinhl40SvYF"
-        }
-      ],
-      "duration_ms": 152218,
-      "name": "O Bicho Anda Por A\u00ed",
-      "url": "https://open.spotify.com/track/5uANt3MxUB5VA7Idi4lsXe"
     },
     {
       "added_at": "2024-09-18 04:00:00",
@@ -709,6 +693,22 @@
       "url": "https://open.spotify.com/track/2zbtE3hz1Zb5chqQnw0BB0"
     },
     {
+      "added_at": "2024-09-11 04:16:56",
+      "album": {
+        "name": "Vou Ficar Neste Quadrado",
+        "url": "https://open.spotify.com/album/2PhGH5fdz5o8r0eyhVr9KT"
+      },
+      "artists": [
+        {
+          "name": "Ana Lua Caiano",
+          "url": "https://open.spotify.com/artist/6TeD6DGSCfviinhl40SvYF"
+        }
+      ],
+      "duration_ms": 152218,
+      "name": "O Bicho Anda Por A\u00ed",
+      "url": "https://open.spotify.com/track/5uANt3MxUB5VA7Idi4lsXe"
+    },
+    {
       "added_at": "2024-07-17 04:00:00",
       "album": {
         "name": "All good?",
@@ -723,6 +723,22 @@
       "duration_ms": 483180,
       "name": "be a",
       "url": "https://open.spotify.com/track/7gcEP1HTUtSNLhTOvgUPsj"
+    },
+    {
+      "added_at": "2024-08-21 04:00:00",
+      "album": {
+        "name": "Whispering Ln",
+        "url": "https://open.spotify.com/album/1f7GOOEzx2OfD2TLT2n951"
+      },
+      "artists": [
+        {
+          "name": "Volodja Brodsky",
+          "url": "https://open.spotify.com/artist/3j7qT7OdjOJBQTkJS5jwtd"
+        }
+      ],
+      "duration_ms": 234828,
+      "name": "Serenade of Secrets",
+      "url": "https://open.spotify.com/track/15eZJIz2RatCBhAWXVhVoS"
     },
     {
       "added_at": "2024-08-07 03:33:24",
@@ -747,22 +763,6 @@
       "duration_ms": 219427,
       "name": "Young Archimedes (feat. BBC National Orchestra Of Wales)",
       "url": "https://open.spotify.com/track/2B6Dur458zHxVlkNrVlWmc"
-    },
-    {
-      "added_at": "2024-08-21 04:00:00",
-      "album": {
-        "name": "Whispering Ln",
-        "url": "https://open.spotify.com/album/1f7GOOEzx2OfD2TLT2n951"
-      },
-      "artists": [
-        {
-          "name": "Volodja Brodsky",
-          "url": "https://open.spotify.com/artist/3j7qT7OdjOJBQTkJS5jwtd"
-        }
-      ],
-      "duration_ms": 234828,
-      "name": "Serenade of Secrets",
-      "url": "https://open.spotify.com/track/15eZJIz2RatCBhAWXVhVoS"
     },
     {
       "added_at": "2024-08-21 04:00:00",
@@ -897,22 +897,6 @@
       "url": "https://open.spotify.com/track/4lNLdVzSRXbCHvH9UdAJgo"
     },
     {
-      "added_at": "2024-08-21 04:00:00",
-      "album": {
-        "name": "Bird",
-        "url": "https://open.spotify.com/album/72dw1Ozom9l6V7t76FBYAI"
-      },
-      "artists": [
-        {
-          "name": "Hey Lu",
-          "url": "https://open.spotify.com/artist/1cEFbjnZBo3n1CrsGQHVuE"
-        }
-      ],
-      "duration_ms": 178496,
-      "name": "Bird",
-      "url": "https://open.spotify.com/track/74ljaJiF5MqA703WWqLIYX"
-    },
-    {
       "added_at": "2024-09-11 04:16:56",
       "album": {
         "name": "light dreams",
@@ -933,6 +917,22 @@
       "url": "https://open.spotify.com/track/3p80zUJZCSijOoENzaN0qR"
     },
     {
+      "added_at": "2024-08-21 04:00:00",
+      "album": {
+        "name": "Bird",
+        "url": "https://open.spotify.com/album/72dw1Ozom9l6V7t76FBYAI"
+      },
+      "artists": [
+        {
+          "name": "Hey Lu",
+          "url": "https://open.spotify.com/artist/1cEFbjnZBo3n1CrsGQHVuE"
+        }
+      ],
+      "duration_ms": 178496,
+      "name": "Bird",
+      "url": "https://open.spotify.com/track/74ljaJiF5MqA703WWqLIYX"
+    },
+    {
       "added_at": "2024-09-18 04:00:00",
       "album": {
         "name": "Blue Note",
@@ -949,22 +949,6 @@
       "url": "https://open.spotify.com/track/3ukcMPzV23eKxUKLmQQtEZ"
     },
     {
-      "added_at": "2024-09-11 04:16:56",
-      "album": {
-        "name": "Vou Ficar Neste Quadrado",
-        "url": "https://open.spotify.com/album/2PhGH5fdz5o8r0eyhVr9KT"
-      },
-      "artists": [
-        {
-          "name": "Ana Lua Caiano",
-          "url": "https://open.spotify.com/artist/6TeD6DGSCfviinhl40SvYF"
-        }
-      ],
-      "duration_ms": 169504,
-      "name": "Deixem O Morto Morrer",
-      "url": "https://open.spotify.com/track/7jPeAtYfIk0jQjUUtSoHhK"
-    },
-    {
       "added_at": "2024-09-18 04:00:00",
       "album": {
         "name": "Night of the Endless Beyond",
@@ -979,6 +963,22 @@
       "duration_ms": 471667,
       "name": "Endless Beyond",
       "url": "https://open.spotify.com/track/4ub4EbgH4bQAViw3TriseI"
+    },
+    {
+      "added_at": "2024-09-11 04:16:56",
+      "album": {
+        "name": "Vou Ficar Neste Quadrado",
+        "url": "https://open.spotify.com/album/2PhGH5fdz5o8r0eyhVr9KT"
+      },
+      "artists": [
+        {
+          "name": "Ana Lua Caiano",
+          "url": "https://open.spotify.com/artist/6TeD6DGSCfviinhl40SvYF"
+        }
+      ],
+      "duration_ms": 169504,
+      "name": "Deixem O Morto Morrer",
+      "url": "https://open.spotify.com/track/7jPeAtYfIk0jQjUUtSoHhK"
     },
     {
       "added_at": "2024-08-14 14:21:25",
@@ -1069,6 +1069,22 @@
       "url": "https://open.spotify.com/track/3qoY2HMgcyJTDEQVBm9Xx5"
     },
     {
+      "added_at": "2024-09-18 04:00:00",
+      "album": {
+        "name": "Sincerity",
+        "url": "https://open.spotify.com/album/1oRyrNuN88oKSQY5KaLBnF"
+      },
+      "artists": [
+        {
+          "name": "Permanent Loss",
+          "url": "https://open.spotify.com/artist/14xgZwvZVI4yCuT0LE5qA7"
+        }
+      ],
+      "duration_ms": 153128,
+      "name": "Sincerity",
+      "url": "https://open.spotify.com/track/183b1N2ZTg6UFH6njaEN2x"
+    },
+    {
       "added_at": "2024-08-21 04:00:00",
       "album": {
         "name": "Small Medium Large",
@@ -1099,22 +1115,6 @@
       "duration_ms": 159026,
       "name": "Vou Ficar Neste Quadrado",
       "url": "https://open.spotify.com/track/6B8LVrElkXeTdIJooLtMTP"
-    },
-    {
-      "added_at": "2024-09-18 04:00:00",
-      "album": {
-        "name": "Sincerity",
-        "url": "https://open.spotify.com/album/1oRyrNuN88oKSQY5KaLBnF"
-      },
-      "artists": [
-        {
-          "name": "Permanent Loss",
-          "url": "https://open.spotify.com/artist/14xgZwvZVI4yCuT0LE5qA7"
-        }
-      ],
-      "duration_ms": 153128,
-      "name": "Sincerity",
-      "url": "https://open.spotify.com/track/183b1N2ZTg6UFH6njaEN2x"
     },
     {
       "added_at": "2024-08-21 04:00:00",
@@ -1213,22 +1213,6 @@
       "url": "https://open.spotify.com/track/4rWmroQk2m8xBtNxpDVSXv"
     },
     {
-      "added_at": "2024-09-11 04:16:56",
-      "album": {
-        "name": "Amateur",
-        "url": "https://open.spotify.com/album/4T8sQPpeuJGZ3NXCqP9Q9E"
-      },
-      "artists": [
-        {
-          "name": "FURIO",
-          "url": "https://open.spotify.com/artist/3ZnjyLqoUPP2XH6zigNF2K"
-        }
-      ],
-      "duration_ms": 115764,
-      "name": "Hipercari\u00f1o (o, c\u00f3mo aprend\u00ed a entrenar la ternura)",
-      "url": "https://open.spotify.com/track/5RcTbnnriwsl6PGGskre6v"
-    },
-    {
       "added_at": "2024-05-08 03:43:46",
       "album": {
         "name": "hope's return",
@@ -1243,6 +1227,22 @@
       "duration_ms": 103250,
       "name": "hope's return",
       "url": "https://open.spotify.com/track/33Go1mGHePH38jrBcd2CMd"
+    },
+    {
+      "added_at": "2024-09-11 04:16:56",
+      "album": {
+        "name": "Amateur",
+        "url": "https://open.spotify.com/album/4T8sQPpeuJGZ3NXCqP9Q9E"
+      },
+      "artists": [
+        {
+          "name": "FURIO",
+          "url": "https://open.spotify.com/artist/3ZnjyLqoUPP2XH6zigNF2K"
+        }
+      ],
+      "duration_ms": 115764,
+      "name": "Hipercari\u00f1o (o, c\u00f3mo aprend\u00ed a entrenar la ternura)",
+      "url": "https://open.spotify.com/track/5RcTbnnriwsl6PGGskre6v"
     },
     {
       "added_at": "2024-07-17 04:00:00",
@@ -1513,6 +1513,22 @@
       "url": "https://open.spotify.com/track/42swVwBM6DiiIJnQMj53UE"
     },
     {
+      "added_at": "2024-08-21 04:00:00",
+      "album": {
+        "name": "Bearings: Soundtracks for the Bardos",
+        "url": "https://open.spotify.com/album/1qDLRV6CagogjyTHxSnwxE"
+      },
+      "artists": [
+        {
+          "name": "Ka Baird",
+          "url": "https://open.spotify.com/artist/5IzFojkr5NLxvRExo2OnG6"
+        }
+      ],
+      "duration_ms": 240868,
+      "name": "Gate VIII",
+      "url": "https://open.spotify.com/track/0Zzwh201mYmQCxHtDKSkI2"
+    },
+    {
       "added_at": "2024-08-14 14:21:25",
       "album": {
         "name": "DJ HUMBLE (Expanded Edition)",
@@ -1569,22 +1585,6 @@
       "url": "https://open.spotify.com/track/676csBHpEkLxunlWpYtAT3"
     },
     {
-      "added_at": "2024-08-21 04:00:00",
-      "album": {
-        "name": "Bearings: Soundtracks for the Bardos",
-        "url": "https://open.spotify.com/album/1qDLRV6CagogjyTHxSnwxE"
-      },
-      "artists": [
-        {
-          "name": "Ka Baird",
-          "url": "https://open.spotify.com/artist/5IzFojkr5NLxvRExo2OnG6"
-        }
-      ],
-      "duration_ms": 240868,
-      "name": "Gate VIII",
-      "url": "https://open.spotify.com/track/0Zzwh201mYmQCxHtDKSkI2"
-    },
-    {
       "added_at": "2024-08-14 14:21:25",
       "album": {
         "name": "Meta",
@@ -1601,22 +1601,6 @@
       "url": "https://open.spotify.com/track/5SpL9m07PFHdW7WoWzwbN0"
     },
     {
-      "added_at": "2024-09-11 04:16:56",
-      "album": {
-        "name": "Dots",
-        "url": "https://open.spotify.com/album/37vqkrSRu7lMRzsRP1ka37"
-      },
-      "artists": [
-        {
-          "name": "6zm",
-          "url": "https://open.spotify.com/artist/7LB4wq9odJ0CzZXr0HYpIJ"
-        }
-      ],
-      "duration_ms": 448227,
-      "name": "Dots Revisited",
-      "url": "https://open.spotify.com/track/7eDDosKY7yPLdLudAru8ej"
-    },
-    {
       "added_at": "2024-08-21 04:00:00",
       "album": {
         "name": "R.N.A.O Meets P.O.P.O",
@@ -1631,6 +1615,22 @@
       "duration_ms": 251000,
       "name": "Weimar 22",
       "url": "https://open.spotify.com/track/45tyh3NtIfD37jlNOj6rGp"
+    },
+    {
+      "added_at": "2024-09-11 04:16:56",
+      "album": {
+        "name": "Dots",
+        "url": "https://open.spotify.com/album/37vqkrSRu7lMRzsRP1ka37"
+      },
+      "artists": [
+        {
+          "name": "6zm",
+          "url": "https://open.spotify.com/artist/7LB4wq9odJ0CzZXr0HYpIJ"
+        }
+      ],
+      "duration_ms": 448227,
+      "name": "Dots Revisited",
+      "url": "https://open.spotify.com/track/7eDDosKY7yPLdLudAru8ej"
     },
     {
       "added_at": "2024-09-18 04:00:00",

@@ -2,7 +2,7 @@
 
 ### [This Is Sister Rosetta Tharpe](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1gxbKi)
 
-> This is Sister Rosetta Tharpe\. Todos os maiores hits em uma só playlist.
+> This is Sister Rosetta Tharpe\. The essential tracks, all in one playlist.
 
 125 songs - 6 hr 15 min
 
@@ -17,7 +17,7 @@
 | [Beams Of Heaven](https://open.spotify.com/track/4NuXIH3TvC2RehKx5SoxYT) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Gospel Train \(Expanded Edition\)](https://open.spotify.com/album/3OGOZW8wCyD0zj254FZ0Ei) | 3:24 | 2022-05-26 |  |
 | [Bells Of St\. Mary's](https://open.spotify.com/track/611n0U5H1a1KW9fyDlJGja) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [The Decca Singles, Vol\. 4](https://open.spotify.com/album/1MqOy16zLy7kv7oBWLs6K5) | 2:22 | 2022-05-25 |  |
 | [Blessed Assurance](https://open.spotify.com/track/078IX8fLu9cRunf9urGp7Q) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7), [The Rosettes](https://open.spotify.com/artist/41AAQ12p0hQJzH0ze5ANVD) | [Blessed Assurance \(Expanded Edition\)](https://open.spotify.com/album/0uwIyZoW8IFjkQzdSjllQc) | 3:00 | 2022-05-28 | 2022-10-13 |
-| [Bring Back Those Happy Days](https://open.spotify.com/track/6wJlP5q82nxBKwBpGpOD48) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Rock Me](https://open.spotify.com/album/0e5wVllhThB1d91oUItDG0) | 2:55 | 2023-12-23 | 2024-06-30 |
+| [Bring Back Those Happy Days](https://open.spotify.com/track/6wJlP5q82nxBKwBpGpOD48) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Rock Me](https://open.spotify.com/album/0e5wVllhThB1d91oUItDG0) | 2:55 | 2023-12-23 |  |
 | [Bring Back Those Happy Days](https://open.spotify.com/track/1fHrhF3z0fNvtpA2aavvab) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Bring Back Those Happy Days](https://open.spotify.com/album/7FunazLrYxpr4cuyP8oL11) | 2:57 | 2022-07-11 | 2022-10-18 |
 | [Bring Back Those Happy Days \- Remastered](https://open.spotify.com/track/6tZmfHh3DgJ6JXy1yobXyq) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [The Godmather of Rock'n'roll \- a Bluesy Twist on Gospel Music \(Remastered\)](https://open.spotify.com/album/02M2XVAfZLvasD7eTJ3V4z) | 2:56 | 2023-07-05 | 2023-07-07 |
 | [Cain't No Grave Hold My Body Down](https://open.spotify.com/track/2O89VddEOv4BywX9bad9Vm) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Gospel Train \(Expanded Edition\)](https://open.spotify.com/album/3OGOZW8wCyD0zj254FZ0Ei) | 2:44 | 2022-05-26 |  |
@@ -101,7 +101,7 @@
 | [Somebody Needs Jesus](https://open.spotify.com/track/6814OBIGcgQOKA0mx52p70) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7), [The Rosettes](https://open.spotify.com/artist/41AAQ12p0hQJzH0ze5ANVD), [Sam Price Trio](https://open.spotify.com/artist/2RWOiWqyH0TkExmKSjZ9sd) | [Blessed Assurance \(Expanded Edition\)](https://open.spotify.com/album/0uwIyZoW8IFjkQzdSjllQc) | 2:27 | 2022-05-29 |  |
 | [Stand By Me](https://open.spotify.com/track/6wNOmArJVUaztEClcF2r4D) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [The Decca Singles, Vol\. 1](https://open.spotify.com/album/4KNYUWaNkzdOHQQ2xWlRwD) | 2:51 | 2022-08-09 | 2022-10-11 |
 | [Stand by Me](https://open.spotify.com/track/2MWYCAWmPLl5ILNgwDhL60) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Rock Me](https://open.spotify.com/album/0e5wVllhThB1d91oUItDG0) | 2:53 | 2023-12-19 | 2024-08-23 |
-| [Stand by Me](https://open.spotify.com/track/7j3gsabZNOnUJ8XlvL9WFq) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [The Original Soul Sister](https://open.spotify.com/album/6O3zPjpqUdG4dg9i9ZLANF) | 3:34 | 2022-05-25 |  |
+| [Stand by Me](https://open.spotify.com/track/7j3gsabZNOnUJ8XlvL9WFq) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [The Original Soul Sister](https://open.spotify.com/album/6O3zPjpqUdG4dg9i9ZLANF) | 3:34 | 2022-05-25 | 2024-10-05 |
 | [Stand by Me \- Remastered](https://open.spotify.com/track/7ap282geVp4sKzLn93iYG2) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [The Godmather of Rock'n'roll \- a Bluesy Twist on Gospel Music \(Remastered\)](https://open.spotify.com/album/02M2XVAfZLvasD7eTJ3V4z) | 2:54 | 2023-05-11 | 2023-09-03 |
 | [Strange Things Are Happening](https://open.spotify.com/track/53RPjPo21M6JzNDZd0HQ2N) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Singing In My Soul](https://open.spotify.com/album/4Si6lSCmJNqUil1buKI4zw) | 3:21 | 2022-05-25 |  |
 | [Strange Things Happening Every Day](https://open.spotify.com/track/0uUBfmp0ulkpf6EJzsZJZl) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Sister Rosetta Tharpe Vol\. 2 1942\-1944](https://open.spotify.com/album/4FkQ3aw8yWpFGEuAcNIM4f) | 2:47 | 2022-05-25 |  |

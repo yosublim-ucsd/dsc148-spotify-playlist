@@ -10569,6 +10569,32 @@
     },
     {
       "album": {
+        "name": "Envergado",
+        "url": "https://open.spotify.com/album/23yXNwaFYytmRDaa4gF7sl"
+      },
+      "artists": [
+        {
+          "name": "Mestre Nano",
+          "url": "https://open.spotify.com/artist/58GBn5aUAV6aqr5n5utMRI"
+        },
+        {
+          "name": "Will BL",
+          "url": "https://open.spotify.com/artist/2BnCntxaxxCQzlB3s4wcVm"
+        },
+        {
+          "name": "Lord Johwn",
+          "url": "https://open.spotify.com/artist/56z6tUOr4q10M7IUyJT9Fr"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194571,
+      "name": "Envergado",
+      "url": "https://open.spotify.com/track/72PmxZmutSY7f46oIYJFBT"
+    },
+    {
+      "album": {
         "name": "Envy",
         "url": "https://open.spotify.com/album/6uVDjY4mV8YUyIKNhaYxF1"
       },
@@ -10736,7 +10762,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-03",
+      "date_removed": null,
       "duration_ms": 252387,
       "name": "Esjan",
       "url": "https://open.spotify.com/track/1tCcIkkqlbgLoYGub8bNzV"
@@ -17980,7 +18006,7 @@
       ],
       "date_added": "2024-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 209600,
       "name": "I Miss You",
       "url": "https://open.spotify.com/track/7zN8hG6Y509iDKnoZidbck"
@@ -18252,6 +18278,24 @@
       "duration_ms": 271840,
       "name": "I'M DAT N****",
       "url": "https://open.spotify.com/track/0AAVJIN4plafvmNKqRCltG"
+    },
+    {
+      "album": {
+        "name": "All Or Nothing",
+        "url": "https://open.spotify.com/album/6s8bfXrXEqaFFmAi02m7k4"
+      },
+      "artists": [
+        {
+          "name": "Milli Vanilli",
+          "url": "https://open.spotify.com/artist/3vRclCt9VnNhYIxFMQCxuM"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238866,
+      "name": "I'm Gonna Miss You",
+      "url": "https://open.spotify.com/track/2dThEJP9S344qzNhePcSzj"
     },
     {
       "album": {
@@ -21692,7 +21736,7 @@
       ],
       "date_added": "2024-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 198120,
       "name": "Lifa af",
       "url": "https://open.spotify.com/track/5cFYLpNErj9k9JjjZL8Vft"
@@ -27886,7 +27930,7 @@
       ],
       "date_added": "2024-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-05",
+      "date_removed": null,
       "duration_ms": 206340,
       "name": "Overdrive",
       "url": "https://open.spotify.com/track/4PPwTxASRmrUkAJ08Fd0Hg"
@@ -30636,7 +30680,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 212560,
       "name": "RESTIN AF \u00deEIM",
       "url": "https://open.spotify.com/track/5CWTBK1g8c42dEvKfWAHca"
@@ -37354,7 +37398,7 @@
       ],
       "date_added": "2024-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 190427,
       "name": "The Emptiness Machine",
       "url": "https://open.spotify.com/track/2PnlsTsOTLE5jnBnNe2K0A"
@@ -38334,7 +38378,7 @@
       ],
       "date_added": "2024-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 251424,
       "name": "Too Sweet",
       "url": "https://open.spotify.com/track/19XpFsce28aByvCC4g89tJ"
@@ -38370,7 +38414,7 @@
       ],
       "date_added": "2024-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-04",
+      "date_removed": null,
       "duration_ms": 251424,
       "name": "Too Sweet",
       "url": "https://open.spotify.com/track/76JKIsdKrAfWUMjaA0u7v5"

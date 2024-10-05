@@ -4,7 +4,7 @@
 
 > New and classic sounds from the world of Anime featuring the latest tracks from Solo Leveling, Chainsaw Man, Cyberpunk, BLEACH &amp; more!
 
-221 songs - 12 hr 57 min
+222 songs - 13 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,6 +157,7 @@
 | [to the next stage](https://open.spotify.com/track/1ukcAeTgId93fR3WCNo3N7) | [梶浦 由記](https://open.spotify.com/artist/0BLHMPWOZ2aTI0ZCCbtZem) | [劇場版 ソードアート・オンライン \-プログレッシブ\- 冥き夕闇のスケルツォ Original Soundtrack](https://open.spotify.com/album/1DfXRV8cYs5ynt9duCeF5w) | 2:47 | 2023-02-03 | 2023-02-11 |
 | [Tongue Tied \(with YUNGBLUD & blackbear\) \- PatrickReza Remix](https://open.spotify.com/track/3cLZPpfnpZ7YgNpaxaPiQe) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM), [PatrickReza](https://open.spotify.com/artist/1tJnPDE5oPDB6ZqMsCTTYx) | [Tongue Tied \- Remix EP](https://open.spotify.com/album/1evkFNsIDqYM23bc1YH9YE) | 3:09 | 2022-02-18 | 2022-12-10 |
 | [Towards the Light \(from "The Apothecary Diaries" Soundtrack\)](https://open.spotify.com/track/5mGYUEVZ9UR7JYKCbgWnkV) | [XAI](https://open.spotify.com/artist/2r3DAIz6afSzxVnM1Rzj3N), [神前 暁](https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk) | [Towards the Light \(from "The Apothecary Diaries" Soundtrack\)](https://open.spotify.com/album/3SOGVZE05ZKcJSLIm3BLR6) | 2:28 | 2023-12-08 |  |
+| [Twin Fates](https://open.spotify.com/track/6B2JgQ8k7cLhuyJ50TtFaH) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y), [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5) | [bLACKbLUE](https://open.spotify.com/album/1ulr9SX47HJ1SNRvGPFOli) | 3:20 | 2024-10-04 |  |
 | [U \- English Version](https://open.spotify.com/track/169YBmYRX0JNR3o4CJVWXY) | [ꉈꀧ꒒꒒ꁄꍈꍈꀧ꒦ꉈ ꉣꅔꎡꅔꁕꁄ](https://open.spotify.com/artist/3PvbcfORzI3TVPlBxsTmhU), [Belle](https://open.spotify.com/artist/1m9ZvxLFfX9avls54a0y40) | [Belle \(Original Motion Picture Soundtrack\) \[English Edition\]](https://open.spotify.com/album/7MK9ztclhDon7AgJroo6l4) | 3:03 | 2022-12-09 | 2024-07-13 |
 | [Uebok Gotta Run](https://open.spotify.com/track/45yj92asiOxf45vXfjeTwF) | [Apashe](https://open.spotify.com/artist/1fd3fmwlhrDl2U5wbbPQYN), [INSTASAMKA](https://open.spotify.com/artist/2SeRP5iAIhVec4azKHJzjX) | [Renaissance](https://open.spotify.com/album/4aN2EaQB4G7z6BqcEClnMd) | 2:43 | 2022-02-18 | 2022-12-10 |
 | [Undead Murder Farce](https://open.spotify.com/track/4n3tx3Ur7Yf5504K0Iog9W) | [Mara Carlyle](https://open.spotify.com/artist/165UIU9o6ULboTQs0QYXj1), [yuma yamaguchi](https://open.spotify.com/artist/4k0moLthcxudxdBCI3SUb8) | [Undead Murder Farce \(Original Series Soundtrack\)](https://open.spotify.com/album/6NYKmuUwNeJW3IYaG2Bngq) | 4:25 | 2023-07-28 |  |

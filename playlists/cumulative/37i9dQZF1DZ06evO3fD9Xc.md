@@ -2,7 +2,7 @@
 
 ### [This Is Carolina Ross](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3fD9Xc)
 
-> This Is Carolina Ross\. Los temas esenciales, todos en una lista.
+> This is Carolina Ross\. The essential tracks, all in one playlist.
 
 74 songs - 4 hr 6 min
 
@@ -21,7 +21,7 @@
 | [Cuando Caiga La Noche](https://open.spotify.com/track/25xtqmANsVCuTfdoEHMnAv) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Cuestión De Tiempo](https://open.spotify.com/album/1mLr3RcaBKzPJJqrlDEdv7) | 3:21 | 2024-08-16 |  |
 | [Cuando Fuimos Nada](https://open.spotify.com/track/4aVZpMuRkWElSJwJdRCa8n) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mis Covers, Vol\. 2](https://open.spotify.com/album/5jjsvm8MJ01dNvgZjzBNmR) | 3:05 | 2023-03-10 |  |
 | [Cuestión De Tiempo](https://open.spotify.com/track/76TSxUT33s9fslNr8fIqIJ) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Cuestión De Tiempo](https://open.spotify.com/album/6WtWj2Hdjw61IsBgx2xc7W) | 2:38 | 2023-03-10 | 2024-06-16 |
-| [Cómo le Hago](https://open.spotify.com/track/1xsqv1DSAyaT3LO8FUf85p) | [Paulina B](https://open.spotify.com/artist/2RyrPKQVFJuMkFQiLyKK6Z), [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Cómo le Hago](https://open.spotify.com/album/0PALoWuU2iFGm3s4BnzozG) | 2:59 | 2024-04-12 |  |
+| [Cómo le Hago](https://open.spotify.com/track/1xsqv1DSAyaT3LO8FUf85p) | [Paulina B](https://open.spotify.com/artist/2RyrPKQVFJuMkFQiLyKK6Z), [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Cómo le Hago](https://open.spotify.com/album/0PALoWuU2iFGm3s4BnzozG) | 2:59 | 2024-04-12 | 2024-10-05 |
 | [Decide Qué Somos](https://open.spotify.com/track/0gYEHUYvIBgNnNLiUKYoHg) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Cuestión De Tiempo](https://open.spotify.com/album/1mLr3RcaBKzPJJqrlDEdv7) | 2:49 | 2024-06-19 |  |
 | [Decide Qué Somos](https://open.spotify.com/track/2iYpbxARwexmEnzvNH598e) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Cuestión De Tiempo](https://open.spotify.com/album/6WtWj2Hdjw61IsBgx2xc7W) | 2:49 | 2023-03-10 | 2024-06-19 |
 | [Despacito](https://open.spotify.com/track/0anEuO11FGUN4Y9hDHGuym) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mis Covers, Vol\. 3](https://open.spotify.com/album/3Z5c9YxXkoRBfbPfgMgXsy) | 3:51 | 2023-03-10 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUq7EFlkBFv.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/akademiks/">DJ Akademiks</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,193 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,209 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUq7EFlkBFv.md) - [plain]
 | 8 | [SUVs \(Black on Black\)](https://open.spotify.com/track/1MIGkQxcdAt2lDx6ySpsc5) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [Pooh Shiesty](https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe) | [SUVs \(Black on Black\)](https://open.spotify.com/album/4K3SQSfKMXLcVnyUSFELZw) | 2:37 |
 | 9 | [Neighbors \(feat\. BIG30\)](https://open.spotify.com/track/2xlOJSbScxrHHOmlNmILpD) | [Pooh Shiesty](https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe), [BIG30](https://open.spotify.com/artist/4nZmMrwH6LxHnCzQv4IFUE) | [Shiesty Season](https://open.spotify.com/album/2UwJ4Nt10VStLczYefhcEV) | 2:51 |
 | 10 | [No Friends In The Industry](https://open.spotify.com/track/2tUL6dZf1mywCj5WvCPZw6) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 3:24 |
-| 11 | [Maybach \(feat\. Future\)](https://open.spotify.com/track/2Qt8qG9SWPdtRiaWcPNJRm) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Free Dem Boyz](https://open.spotify.com/album/4zJiUubJvgUJNq0BVD9Mvs) | 3:19 |
-| 12 | [Allegations \(feat\. Pooh Shiesty\)](https://open.spotify.com/track/1Fhb9neDPyEyTaZZ3qmIn4) | [BIG30](https://open.spotify.com/artist/4nZmMrwH6LxHnCzQv4IFUE), [Pooh Shiesty](https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe) | [King Of Killbranch](https://open.spotify.com/album/1NDrL1t8NNB233FRqbzzoK) | 2:40 |
+| 11 | [Allegations \(feat\. Pooh Shiesty\)](https://open.spotify.com/track/1Fhb9neDPyEyTaZZ3qmIn4) | [BIG30](https://open.spotify.com/artist/4nZmMrwH6LxHnCzQv4IFUE), [Pooh Shiesty](https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe) | [King Of Killbranch](https://open.spotify.com/album/1NDrL1t8NNB233FRqbzzoK) | 2:40 |
+| 12 | [Maybach \(feat\. Future\)](https://open.spotify.com/track/2Qt8qG9SWPdtRiaWcPNJRm) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Free Dem Boyz](https://open.spotify.com/album/4zJiUubJvgUJNq0BVD9Mvs) | 3:19 |
 | 13 | [Clash \(feat\. Stormzy\)](https://open.spotify.com/track/2oUwMN5VfdGX10XeQJLBBi) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Clash \(feat\. Stormzy\)](https://open.spotify.com/album/58GjA2xPMQ8PjNKyddHIqP) | 4:11 |
 | 14 | [5500 Degrees \(feat\. Lil Baby, 42 Dugg & Rylo Rodriguez\)](https://open.spotify.com/track/6uTID2glulLOXYhcwMETS1) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [Rylo Rodriguez](https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq) | [Bigger Than Life Or Death](https://open.spotify.com/album/1RsqFdvHFKN9VGpBmJtUku) | 3:04 |
 | 15 | [NEVER LEFT](https://open.spotify.com/track/21UkXrc9kD48rNpTMI2ecz) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [NEVER LEFT](https://open.spotify.com/album/0PMJvFnZxXl9LToaZFHhxp) | 2:48 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Miranda Lambert. The essential tracks, all in one playlist.",
-  "num_followers": 171046,
+  "num_followers": 171058,
   "original_name": "This Is Miranda Lambert",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvyNAAAAAADR9lLHQ2m5qzU4uhGcddwE",
+  "snapshot_id": "Zv3egAAAAADvrcIoBh3u0SAVhc8mI/kE",
   "tracks": [
     {
       "added_at": null,
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
         }
       ],
-      "duration_ms": 215222,
-      "name": "I Hate Love Songs",
-      "url": "https://open.spotify.com/track/60FQC7n8SYjf8zHjifFJ7U"
+      "duration_ms": 253265,
+      "name": "January Heart",
+      "url": "https://open.spotify.com/track/3g7rmzh7O5ojlKHEOlgRKx"
     },
     {
       "added_at": null,
@@ -695,6 +695,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Annie Up",
+        "url": "https://open.spotify.com/album/2npDnxNIX1mnm332JezYVG"
+      },
+      "artists": [
+        {
+          "name": "Pistol Annies",
+          "url": "https://open.spotify.com/artist/2wSgVsgLUZeDJwoLcPO7ny"
+        },
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        },
+        {
+          "name": "Ashley Monroe",
+          "url": "https://open.spotify.com/artist/37BiX28I6pF104F92U1hDP"
+        },
+        {
+          "name": "Angaleena Presley",
+          "url": "https://open.spotify.com/artist/7hmwyQifkGl8GgOMVJZvW0"
+        }
+      ],
+      "duration_ms": 198640,
+      "name": "I Feel A Sin Comin' On",
+      "url": "https://open.spotify.com/track/2UJCeZzKOzrH6utaz7NoFr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Revolution",
         "url": "https://open.spotify.com/album/3uczBfJFFSNjSiF8ScC1pA"
       },
@@ -727,34 +755,6 @@
       "duration_ms": 191746,
       "name": "We Were Us",
       "url": "https://open.spotify.com/track/5Net7uzpcqkJtOwR22onye"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Annie Up",
-        "url": "https://open.spotify.com/album/2npDnxNIX1mnm332JezYVG"
-      },
-      "artists": [
-        {
-          "name": "Pistol Annies",
-          "url": "https://open.spotify.com/artist/2wSgVsgLUZeDJwoLcPO7ny"
-        },
-        {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
-        },
-        {
-          "name": "Ashley Monroe",
-          "url": "https://open.spotify.com/artist/37BiX28I6pF104F92U1hDP"
-        },
-        {
-          "name": "Angaleena Presley",
-          "url": "https://open.spotify.com/artist/7hmwyQifkGl8GgOMVJZvW0"
-        }
-      ],
-      "duration_ms": 198640,
-      "name": "I Feel A Sin Comin' On",
-      "url": "https://open.spotify.com/track/2UJCeZzKOzrH6utaz7NoFr"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "This is how we do it, This is our style.\nCover: Sidhu Moose Wala",
-  "num_followers": 507245,
+  "num_followers": 507477,
   "original_name": "Hip Te Hop",
   "owner": {
     "name": "Spotify",
@@ -512,12 +512,12 @@
       },
       "artists": [
         {
-          "name": "Prem Dhillon",
-          "url": "https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H"
-        },
-        {
           "name": "Gill Madhipuriya",
           "url": "https://open.spotify.com/artist/5HK0k0FIFR1al68TrZkfdp"
+        },
+        {
+          "name": "Prem Dhillon",
+          "url": "https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H"
         }
       ],
       "duration_ms": 225319,

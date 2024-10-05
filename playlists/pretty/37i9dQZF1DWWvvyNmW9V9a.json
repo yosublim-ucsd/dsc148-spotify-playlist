@@ -1,12 +1,12 @@
 {
   "description": "teen beats found screaming \ud83d\udc80\ud83d\udc95",
-  "num_followers": 2154543,
+  "num_followers": 2154499,
   "original_name": "teen beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zva7XwAAAADJ9t6Nnaqj9/wX/1y150BD",
+  "snapshot_id": "ZwBQ0AAAAACw6jpNFwbWS9vfQuNWwQBa",
   "tracks": [
     {
       "added_at": "2024-09-23 04:00:00",
@@ -29,6 +29,38 @@
       "url": "https://open.spotify.com/track/3U7M2pRGnFk41lVf6bF2fH"
     },
     {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Moonlit Floor",
+        "url": "https://open.spotify.com/album/2F84s5tvr9RSS6VI772mVb"
+      },
+      "artists": [
+        {
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+        }
+      ],
+      "duration_ms": 155757,
+      "name": "Moonlit Floor",
+      "url": "https://open.spotify.com/track/3yDRcs0Y4pPzkvMbUfeF9H"
+    },
+    {
+      "added_at": "2024-09-26 19:09:58",
+      "album": {
+        "name": "I Love You. (Sped Up)",
+        "url": "https://open.spotify.com/album/6nDM0bDRJ1Ni1sMzx7YQ0J"
+      },
+      "artists": [
+        {
+          "name": "The Neighbourhood",
+          "url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
+        }
+      ],
+      "duration_ms": 218938,
+      "name": "Sweater Weather - Sped Up",
+      "url": "https://open.spotify.com/track/5HzMZWEwP8baubqhmpjX75"
+    },
+    {
       "added_at": "2024-09-13 04:00:00",
       "album": {
         "name": "It's ok I'm ok",
@@ -43,6 +75,86 @@
       "duration_ms": 156521,
       "name": "It's ok I'm ok",
       "url": "https://open.spotify.com/track/24XihnoVPWXlKJ4BgXqjVM"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "Burning Down",
+        "url": "https://open.spotify.com/album/1v9bkQK8p2Za27mavQqu1V"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "duration_ms": 179437,
+      "name": "Burning Down",
+      "url": "https://open.spotify.com/track/7gxQXemQ5MBeK9PUrKRtfV"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "eternal sunshine (slightly deluxe and also live)",
+        "url": "https://open.spotify.com/album/3L2iweH45rVdTBPldbY6dp"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 163574,
+      "name": "supernatural - live version",
+      "url": "https://open.spotify.com/track/0FnkhFA4h80IYaYGgKFI2M"
+    },
+    {
+      "added_at": "2024-09-23 04:00:00",
+      "album": {
+        "name": "Soft Spot",
+        "url": "https://open.spotify.com/album/5huqwJ6gDBbuyjNOOVOTrP"
+      },
+      "artists": [
+        {
+          "name": "keshi",
+          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
+        }
+      ],
+      "duration_ms": 204223,
+      "name": "Soft Spot",
+      "url": "https://open.spotify.com/track/5pmITEphUtjpCLmKiYIPl9"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY",
+        "url": "https://open.spotify.com/album/5H7ixXZfsNMGbIE5OBSpcb"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 228800,
+      "name": "So High School",
+      "url": "https://open.spotify.com/track/7Mts0OfPorF4iwOomvfqn1"
+    },
+    {
+      "added_at": "2024-09-23 04:00:00",
+      "album": {
+        "name": "The Secret of Us",
+        "url": "https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 225973,
+      "name": "Close To You",
+      "url": "https://open.spotify.com/track/2bl81llf715VEEbAx03yvB"
     },
     {
       "added_at": "2024-08-22 04:00:00",
@@ -65,52 +177,84 @@
       "url": "https://open.spotify.com/track/72gv4zhNvRVdQA0eOenCal"
     },
     {
-      "added_at": "2024-09-23 04:00:00",
+      "added_at": "2024-10-04 20:32:16",
       "album": {
-        "name": "The Secret of Us",
-        "url": "https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl"
+        "name": "NewJeans 2nd EP 'Get Up'",
+        "url": "https://open.spotify.com/album/4N1fROq2oeyLGAlQ1C1j18"
       },
       "artists": [
         {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
         }
       ],
-      "duration_ms": 225973,
-      "name": "Close To You",
-      "url": "https://open.spotify.com/track/2bl81llf715VEEbAx03yvB"
+      "duration_ms": 151373,
+      "name": "ETA",
+      "url": "https://open.spotify.com/track/56v8WEnGzLByGsDAXDiv4d"
     },
     {
-      "added_at": "2024-09-20 04:00:00",
+      "added_at": "2024-08-06 19:54:48",
       "album": {
-        "name": "Burning Down",
-        "url": "https://open.spotify.com/album/1v9bkQK8p2Za27mavQqu1V"
+        "name": "HIT ME HARD AND SOFT",
+        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
       },
       "artists": [
         {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
         }
       ],
-      "duration_ms": 179437,
-      "name": "Burning Down",
-      "url": "https://open.spotify.com/track/7gxQXemQ5MBeK9PUrKRtfV"
+      "duration_ms": 261466,
+      "name": "WILDFLOWER",
+      "url": "https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h"
     },
     {
-      "added_at": "2024-09-26 19:09:58",
+      "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "I Love You. (Sped Up)",
-        "url": "https://open.spotify.com/album/6nDM0bDRJ1Ni1sMzx7YQ0J"
+        "name": "One On One",
+        "url": "https://open.spotify.com/album/5P4LHmJvYMQmBRuRIesoDr"
       },
       "artists": [
         {
-          "name": "The Neighbourhood",
-          "url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
+          "name": "AJ Mitchell",
+          "url": "https://open.spotify.com/artist/6dn6x1XOng3LOAnfTjUn77"
         }
       ],
-      "duration_ms": 218938,
-      "name": "Sweater Weather - Sped Up",
-      "url": "https://open.spotify.com/track/5HzMZWEwP8baubqhmpjX75"
+      "duration_ms": 170000,
+      "name": "One On One",
+      "url": "https://open.spotify.com/track/0dX6TCuCSb5vtqtmNekXec"
+    },
+    {
+      "added_at": "2024-08-26 19:02:13",
+      "album": {
+        "name": "Short n' Sweet",
+        "url": "https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 157279,
+      "name": "Taste",
+      "url": "https://open.spotify.com/track/5G2f63n7IPVPPjfNIGih7Q"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "MEOW",
+        "url": "https://open.spotify.com/album/7mtt73Ch1hIRXT5qScF4s5"
+      },
+      "artists": [
+        {
+          "name": "MEOVV",
+          "url": "https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv"
+        }
+      ],
+      "duration_ms": 172073,
+      "name": "MEOW",
+      "url": "https://open.spotify.com/track/72gPDy1zVt95zVNali0IhK"
     },
     {
       "added_at": "2024-08-28 21:23:37",
@@ -145,68 +289,72 @@
       "url": "https://open.spotify.com/track/1YLzM2u0jpPxKTcrovSSZP"
     },
     {
-      "added_at": "2024-09-23 04:00:00",
+      "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Soft Spot",
-        "url": "https://open.spotify.com/album/5huqwJ6gDBbuyjNOOVOTrP"
+        "name": "In My Bones",
+        "url": "https://open.spotify.com/album/71SOQSZ4pKoTkwq86AJUxT"
       },
       "artists": [
         {
-          "name": "keshi",
-          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
+          "name": "Baby Bugs",
+          "url": "https://open.spotify.com/artist/3TBTcHpZ3aV1g8rk8i1zb5"
         }
       ],
-      "duration_ms": 204223,
-      "name": "Soft Spot",
-      "url": "https://open.spotify.com/track/5pmITEphUtjpCLmKiYIPl9"
+      "duration_ms": 145938,
+      "name": "My Corpse Friend",
+      "url": "https://open.spotify.com/track/1wfwCZIj2bkXUNuZCMkQlQ"
     },
     {
-      "added_at": "2024-08-26 19:02:13",
+      "added_at": "2024-09-23 04:00:00",
       "album": {
-        "name": "Short n' Sweet",
-        "url": "https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH"
+        "name": "fangirl",
+        "url": "https://open.spotify.com/album/46n9YK2DE6B0CMk8qx4Twt"
       },
       "artists": [
         {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+          "name": "Regina Song",
+          "url": "https://open.spotify.com/artist/3Y7gOnKYWfQlEdgXag0Z6W"
         }
       ],
-      "duration_ms": 157279,
-      "name": "Taste",
-      "url": "https://open.spotify.com/track/5G2f63n7IPVPPjfNIGih7Q"
+      "duration_ms": 158400,
+      "name": "the cutest pair",
+      "url": "https://open.spotify.com/track/0VVD95cRAppHSOGPYrfIG2"
     },
     {
       "added_at": "2024-09-27 04:00:00",
       "album": {
-        "name": "Harlequin",
-        "url": "https://open.spotify.com/album/6eKdAMXNBlXNtPy7OdBL50"
+        "name": "darling, he lied",
+        "url": "https://open.spotify.com/album/3nxnsxuJGAPsJWZcXgwm3v"
       },
       "artists": [
         {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+          "name": "bixby",
+          "url": "https://open.spotify.com/artist/3vqtY7Lhhuw6sEwU4HmIRv"
+        },
+        {
+          "name": "starfall",
+          "url": "https://open.spotify.com/artist/6h0Wppb5dQnlGpY2zuGstd"
         }
       ],
-      "duration_ms": 174734,
-      "name": "The Joker",
-      "url": "https://open.spotify.com/track/5zZoEDawAlJNgUzxknlV9V"
+      "duration_ms": 157894,
+      "name": "darling, he lied",
+      "url": "https://open.spotify.com/track/5e9DY1HEsK4XrNASmvNUlk"
     },
     {
-      "added_at": "2024-09-18 15:51:53",
+      "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Somebody Else - Spotify Singles",
-        "url": "https://open.spotify.com/album/2x1pqv8DQ5JaR5bbZFiwYq"
+        "name": "Touch",
+        "url": "https://open.spotify.com/album/1hjqg3TuQ2YqooaPhxHwdv"
       },
       "artists": [
         {
-          "name": "ROLE MODEL",
-          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
+          "name": "KATSEYE",
+          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
         }
       ],
-      "duration_ms": 300341,
-      "name": "Somebody Else - Spotify Singles",
-      "url": "https://open.spotify.com/track/5gMZytf2L5iBLiyBEaSAhh"
+      "duration_ms": 129882,
+      "name": "Touch",
+      "url": "https://open.spotify.com/track/6aJn7Cst74cj4lNIiPRgav"
     },
     {
       "added_at": "2024-07-01 17:54:09",
@@ -293,6 +441,38 @@
       "url": "https://open.spotify.com/track/3X76Lal4GwBFqriHz1FbLU"
     },
     {
+      "added_at": "2024-09-09 19:12:20",
+      "album": {
+        "name": "we can't be friends (wait for your love) - acoustic (live from jungle city studios)",
+        "url": "https://open.spotify.com/album/65X8oNWJyq6abR094X1hlD"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 187781,
+      "name": "we can't be friends (wait for your love) - acoustic (live from jungle city studios)",
+      "url": "https://open.spotify.com/track/23itJEBZlued974YuPPLlq"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "PANIC ATTACK",
+        "url": "https://open.spotify.com/album/3CNRa6ky0qtoGT9Huz7yK1"
+      },
+      "artists": [
+        {
+          "name": "PEGGY",
+          "url": "https://open.spotify.com/artist/1E6ADXoD9nUhFEwKgwjEdh"
+        }
+      ],
+      "duration_ms": 140454,
+      "name": "PANIC ATTACK",
+      "url": "https://open.spotify.com/track/2eedk1GWWMQddPLcGdMnqW"
+    },
+    {
       "added_at": "2024-09-06 04:00:00",
       "album": {
         "name": "C,XOXO - Magic City Edition",
@@ -341,20 +521,36 @@
       "url": "https://open.spotify.com/track/30QYxvXOJZhGBF6DvpNb8w"
     },
     {
-      "added_at": "2024-07-26 04:00:00",
+      "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Touch",
-        "url": "https://open.spotify.com/album/1hjqg3TuQ2YqooaPhxHwdv"
+        "name": "Pushing It Down and Praying",
+        "url": "https://open.spotify.com/album/6bfpmfxEWqXsQHU9xc553O"
       },
       "artists": [
         {
-          "name": "KATSEYE",
-          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
         }
       ],
-      "duration_ms": 129882,
-      "name": "Touch",
-      "url": "https://open.spotify.com/track/6aJn7Cst74cj4lNIiPRgav"
+      "duration_ms": 234076,
+      "name": "Pushing It Down and Praying",
+      "url": "https://open.spotify.com/track/4wO2JlPZw72Xlu6dGUW4Ce"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Messy",
+        "url": "https://open.spotify.com/album/2QWd1BsO7J0zLwxhsKl3zh"
+      },
+      "artists": [
+        {
+          "name": "Lola Young",
+          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
+        }
+      ],
+      "duration_ms": 284068,
+      "name": "Messy",
+      "url": "https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2"
     },
     {
       "added_at": "2024-08-26 19:07:57",
@@ -389,42 +585,6 @@
       "url": "https://open.spotify.com/track/73kuwAWSxFDK1wT8ec1S6K"
     },
     {
-      "added_at": "2024-09-09 19:12:20",
-      "album": {
-        "name": "we can't be friends (wait for your love) - acoustic (live from jungle city studios)",
-        "url": "https://open.spotify.com/album/65X8oNWJyq6abR094X1hlD"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 187781,
-      "name": "we can't be friends (wait for your love) - acoustic (live from jungle city studios)",
-      "url": "https://open.spotify.com/track/23itJEBZlued974YuPPLlq"
-    },
-    {
-      "added_at": "2024-09-27 04:00:00",
-      "album": {
-        "name": "darling, he lied",
-        "url": "https://open.spotify.com/album/3nxnsxuJGAPsJWZcXgwm3v"
-      },
-      "artists": [
-        {
-          "name": "bixby",
-          "url": "https://open.spotify.com/artist/3vqtY7Lhhuw6sEwU4HmIRv"
-        },
-        {
-          "name": "starfall",
-          "url": "https://open.spotify.com/artist/6h0Wppb5dQnlGpY2zuGstd"
-        }
-      ],
-      "duration_ms": 157894,
-      "name": "darling, he lied",
-      "url": "https://open.spotify.com/track/5e9DY1HEsK4XrNASmvNUlk"
-    },
-    {
       "added_at": "2024-08-26 19:07:57",
       "album": {
         "name": "Short n' Sweet",
@@ -457,20 +617,40 @@
       "url": "https://open.spotify.com/track/2KCHayVgv4Svp1ETPNsk7l"
     },
     {
-      "added_at": "2024-09-23 04:00:00",
+      "added_at": "2024-09-27 04:00:00",
       "album": {
-        "name": "fangirl",
-        "url": "https://open.spotify.com/album/46n9YK2DE6B0CMk8qx4Twt"
+        "name": "Harlequin",
+        "url": "https://open.spotify.com/album/6eKdAMXNBlXNtPy7OdBL50"
       },
       "artists": [
         {
-          "name": "Regina Song",
-          "url": "https://open.spotify.com/artist/3Y7gOnKYWfQlEdgXag0Z6W"
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
         }
       ],
-      "duration_ms": 158400,
-      "name": "the cutest pair",
-      "url": "https://open.spotify.com/track/0VVD95cRAppHSOGPYrfIG2"
+      "duration_ms": 174734,
+      "name": "The Joker",
+      "url": "https://open.spotify.com/track/5zZoEDawAlJNgUzxknlV9V"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Happy Ever After",
+        "url": "https://open.spotify.com/album/6LK0kNhlz19MhiTuxWkOIl"
+      },
+      "artists": [
+        {
+          "name": "Zach Hood",
+          "url": "https://open.spotify.com/artist/5aHlyw2WWqZW0HLICBuv7U"
+        },
+        {
+          "name": "ROSIE",
+          "url": "https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL"
+        }
+      ],
+      "duration_ms": 200439,
+      "name": "Happy Ever After",
+      "url": "https://open.spotify.com/track/4PbUHeQucvx6RvlhRkMJII"
     },
     {
       "added_at": "2024-09-18 15:51:53",
@@ -1037,22 +1217,6 @@
       "url": "https://open.spotify.com/track/72qoGgyiAXxCNUoUN5nJMF"
     },
     {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "I Hope It Hurts",
-        "url": "https://open.spotify.com/album/1SNCkRMxIeVz7XRZLcqYpF"
-      },
-      "artists": [
-        {
-          "name": "Jessie Murph",
-          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
-        }
-      ],
-      "duration_ms": 249003,
-      "name": "I Hope It Hurts",
-      "url": "https://open.spotify.com/track/3MGrDQiB3KrfPELCzOJlE2"
-    },
-    {
       "added_at": "2024-05-07 01:08:27",
       "album": {
         "name": "THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY",
@@ -1253,38 +1417,6 @@
       "url": "https://open.spotify.com/track/51rfRCiUSvxXlCSCfIztBy"
     },
     {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "They Know I'm Bored",
-        "url": "https://open.spotify.com/album/1Ijudy4I61SaNFp8xCMuXd"
-      },
-      "artists": [
-        {
-          "name": "Presley Regier",
-          "url": "https://open.spotify.com/artist/7AAHfakMQan4p04ozZhhwc"
-        }
-      ],
-      "duration_ms": 130332,
-      "name": "They Know I'm Bored",
-      "url": "https://open.spotify.com/track/7zKfjOLymdXIts4v18jqAw"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Erase You",
-        "url": "https://open.spotify.com/album/0gqv9uDThyDmIPxIh4YdA7"
-      },
-      "artists": [
-        {
-          "name": "Mimi Webb",
-          "url": "https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz"
-        }
-      ],
-      "duration_ms": 149683,
-      "name": "Erase You",
-      "url": "https://open.spotify.com/track/6FATUHeXuMpHg0u0UPnVD5"
-    },
-    {
       "added_at": "2024-07-26 04:00:00",
       "album": {
         "name": "Sailor Song",
@@ -1299,22 +1431,6 @@
       "duration_ms": 211978,
       "name": "Sailor Song",
       "url": "https://open.spotify.com/track/0UYnhUfnUj5adChuAXvLUB"
-    },
-    {
-      "added_at": "2024-08-12 15:40:07",
-      "album": {
-        "name": "Disco",
-        "url": "https://open.spotify.com/album/46LE2xR4e92aVvo1QlUiS3"
-      },
-      "artists": [
-        {
-          "name": "Surf Curse",
-          "url": "https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D"
-        }
-      ],
-      "duration_ms": 152760,
-      "name": "Disco",
-      "url": "https://open.spotify.com/track/2Lumsra3kuU61wXkEKzKaK"
     },
     {
       "added_at": "2024-08-16 04:00:00",
@@ -1385,22 +1501,6 @@
       "url": "https://open.spotify.com/track/62bOmKYxYg7dhrC6gH9vFn"
     },
     {
-      "added_at": "2024-08-06 19:54:48",
-      "album": {
-        "name": "HIT ME HARD AND SOFT",
-        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 261466,
-      "name": "WILDFLOWER",
-      "url": "https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h"
-    },
-    {
       "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "I Lied, I'm Sorry",
@@ -1465,106 +1565,6 @@
       "url": "https://open.spotify.com/track/2Dazu1HgFj1geJOfKKFOpf"
     },
     {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "biting my tongue",
-        "url": "https://open.spotify.com/album/4Xl9cCcZARYBmV4SK9SysK"
-      },
-      "artists": [
-        {
-          "name": "kenzie",
-          "url": "https://open.spotify.com/artist/5pWUVnrc1y0FpWZ6VCy0Hg"
-        }
-      ],
-      "duration_ms": 180816,
-      "name": "the me i was",
-      "url": "https://open.spotify.com/track/5CPsaOIdRdBROb4dvIfKfM"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
-        "name": "KEHLANI",
-        "url": "https://open.spotify.com/album/5Zwbll6KYxOjZSuxRjQDEm"
-      },
-      "artists": [
-        {
-          "name": "Jordan Adetunji",
-          "url": "https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY"
-        }
-      ],
-      "duration_ms": 122360,
-      "name": "KEHLANI",
-      "url": "https://open.spotify.com/track/2hrycoFU1mZw6YPvMcn8yC"
-    },
-    {
-      "added_at": "2024-07-03 22:44:45",
-      "album": {
-        "name": "Tough",
-        "url": "https://open.spotify.com/album/58XIBpQOAw7E2qCL1jxWCd"
-      },
-      "artists": [
-        {
-          "name": "Quavo",
-          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
-        },
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 188828,
-      "name": "Tough",
-      "url": "https://open.spotify.com/track/22DH8NChecsgPxDjA4pqer"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "SOMETHING AIN'T RIGHT",
-        "url": "https://open.spotify.com/album/1reE28qY4WnZLHJ6gTh5Rh"
-      },
-      "artists": [
-        {
-          "name": "XG",
-          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
-        }
-      ],
-      "duration_ms": 190666,
-      "name": "SOMETHING AIN'T RIGHT",
-      "url": "https://open.spotify.com/track/4xzrnTQ0CVRj6LBisVyTum"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "Kansas Anymore",
-        "url": "https://open.spotify.com/album/4OZ6nCbn8w0cHr1m0qiD2s"
-      },
-      "artists": [
-        {
-          "name": "ROLE MODEL",
-          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
-        }
-      ],
-      "duration_ms": 183189,
-      "name": "Scumbag",
-      "url": "https://open.spotify.com/track/5NJQHLtg873KNDOUJS6Ga0"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "lover boy",
-        "url": "https://open.spotify.com/album/2KvPFsQl591kXKkhhEtnMe"
-      },
-      "artists": [
-        {
-          "name": "Haiden Henderson",
-          "url": "https://open.spotify.com/artist/79xvSUqngetd6CbJ1bgb4p"
-        }
-      ],
-      "duration_ms": 185800,
-      "name": "one before the one",
-      "url": "https://open.spotify.com/track/0IveFmA4WZfTIhp6uoANDO"
-    },
-    {
       "added_at": "2024-07-05 04:00:00",
       "album": {
         "name": "Memories",
@@ -1611,22 +1611,6 @@
       "duration_ms": 156106,
       "name": "July",
       "url": "https://open.spotify.com/track/6J2LdBN97cDWn0MLxYh9HB"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
-        "name": "Close To You",
-        "url": "https://open.spotify.com/album/2gxGzfvXQvjVbQiuVcfKDM"
-      },
-      "artists": [
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        }
-      ],
-      "duration_ms": 225973,
-      "name": "Close To You",
-      "url": "https://open.spotify.com/track/5MPi9e7z46wopyad10R6qx"
     },
     {
       "added_at": "2024-06-14 04:00:00",

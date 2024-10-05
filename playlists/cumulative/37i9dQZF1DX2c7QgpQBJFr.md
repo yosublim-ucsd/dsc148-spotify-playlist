@@ -2,7 +2,7 @@
 
 ### [Caleido](https://open.spotify.com/playlist/37i9dQZF1DX2c7QgpQBJFr)
 
-> Gli astri nascenti del pop italiano 🔮 Cover: Delicatoni
+> Gli astri nascenti del pop italiano 🔮 Cover: Olly e Angelina Mango
 
 214 songs - 10 hr 19 min
 

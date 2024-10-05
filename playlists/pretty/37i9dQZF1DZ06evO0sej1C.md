@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0sej1C.md) - [plain]
 
 > This is Yoss Bones\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,030 likes - 51 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,045 likes - 51 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0sej1C.md) - [plain]
 | 50 | [Me Levanté](https://open.spotify.com/track/1zDoyt30lppzmdUKxLZR3Q) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Me Levanté](https://open.spotify.com/album/1LPzgOWPbJoopfLvwgVbBR) | 2:58 |
 | 51 | [Nagasaki](https://open.spotify.com/track/2l630OkikzDGx20oh3lRsK) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Nagasaki](https://open.spotify.com/album/0JOSqpYff2eSTjPqr8drus) | 4:05 |
 
-Snapshot ID: `ZvyNAAAAAAAGZHs4oO1qxDaHqOk6sk4I`
+Snapshot ID: `Zv3egAAAAAB0nLG2DDKll+GmpCK6HoEs`

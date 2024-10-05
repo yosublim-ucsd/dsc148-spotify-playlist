@@ -1,6 +1,6 @@
 {
   "description": "The future hits of today. \nCover: Minz",
-  "num_followers": 75265,
+  "num_followers": 75297,
   "original_name": "Bubblin'",
   "owner": {
     "name": "Spotify",
@@ -67,6 +67,26 @@
       "duration_ms": 403392,
       "name": "Sabali",
       "url": "https://open.spotify.com/track/4j7nohR8s3Q8XjDrC5hQZ0"
+    },
+    {
+      "added_at": "2024-10-04 00:01:00",
+      "album": {
+        "name": "Alone (Remix)",
+        "url": "https://open.spotify.com/album/1bE7lrP5TzEIX3UHiwMhKR"
+      },
+      "artists": [
+        {
+          "name": "FOLA",
+          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
+        },
+        {
+          "name": "Bnxn",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 154578,
+      "name": "Alone - Remix",
+      "url": "https://open.spotify.com/track/2GSK9VfsKWpVOV6ZzKiMA4"
     },
     {
       "added_at": "2024-10-04 00:01:00",

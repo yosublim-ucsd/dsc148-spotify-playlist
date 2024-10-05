@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-28",
-  "description": "Ritmos c\u00e1lidos y alternativos para relajarte y tirarse bajo el sol #IndieTropical \ud83c\udf3a\u2600\ufe0f\ud83c\udf34\ud83c\udfb6 Buscabulla en portada.",
+  "description": "Ritmos c\u00e1lidos y alternativos para relajarte y tirarse bajo el sol #IndieTropical \ud83c\udf3a\u2600\ufe0f\ud83c\udf34\ud83c\udfb6 Manu Chao en portada.",
   "name": "tropic.alt",
   "tracks": [
     {
@@ -1573,6 +1573,28 @@
     },
     {
       "album": {
+        "name": "First Recordings",
+        "url": "https://open.spotify.com/album/4jyIvjfimFU7XkDf5kql9U"
+      },
+      "artists": [
+        {
+          "name": "Lhasa De Sela",
+          "url": "https://open.spotify.com/artist/3IbqRfvnvj5C22pHD38KXI"
+        },
+        {
+          "name": "Yves Desrosiers",
+          "url": "https://open.spotify.com/artist/2VK0ucevGNDKSx7v3Y62cC"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259280,
+      "name": "Desde\u00f1osa",
+      "url": "https://open.spotify.com/track/5apMellkBcfARdQ2wRYXl8"
+    },
+    {
+      "album": {
         "name": "Dese\u00e1ndote",
         "url": "https://open.spotify.com/album/6Oh76OL4xlX3YdARyWNqMD"
       },
@@ -2122,7 +2144,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 251080,
       "name": "Era Primavera",
       "url": "https://open.spotify.com/track/4c3aBhvubTdAbP7aSDmhNn"
@@ -2274,7 +2296,7 @@
       ],
       "date_added": "2024-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 332000,
       "name": "Forever - Tonga Conga Remix",
       "url": "https://open.spotify.com/track/5u4rVp6lsWZRgkVmHNPDV2"
@@ -2857,6 +2879,24 @@
     },
     {
       "album": {
+        "name": "Viva Tu",
+        "url": "https://open.spotify.com/album/0de0VSMdg29Rwoe9MG4ck2"
+      },
+      "artists": [
+        {
+          "name": "Manu Chao",
+          "url": "https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128528,
+      "name": "La Couleur du Temps",
+      "url": "https://open.spotify.com/track/7bdWu6AowUFLI6xcb3Khz4"
+    },
+    {
+      "album": {
         "name": "La Culebra",
         "url": "https://open.spotify.com/album/7dUAcht0jlp9S3mTCc9ye9"
       },
@@ -2996,7 +3036,7 @@
       ],
       "date_added": "2024-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 223098,
       "name": "La Luz",
       "url": "https://open.spotify.com/track/52gzLw5jwmb0UPhsjbL1Xb"
@@ -5964,7 +6004,7 @@
       ],
       "date_added": "2024-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 213186,
       "name": "The Way You Say It",
       "url": "https://open.spotify.com/track/5d4tz59Zk8S3MYIc5N6Nwo"
@@ -6323,6 +6363,24 @@
     },
     {
       "album": {
+        "name": "Viva Tu",
+        "url": "https://open.spotify.com/album/0de0VSMdg29Rwoe9MG4ck2"
+      },
+      "artists": [
+        {
+          "name": "Manu Chao",
+          "url": "https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157522,
+      "name": "Vecinos En El Mar",
+      "url": "https://open.spotify.com/track/195eYP40HulXbt0kNt3Cnz"
+    },
+    {
+      "album": {
         "name": "Ven Vamos",
         "url": "https://open.spotify.com/album/3E8idq0ECWEwgb8FpbZCdG"
       },
@@ -6413,6 +6471,24 @@
     },
     {
       "album": {
+        "name": "Tofu",
+        "url": "https://open.spotify.com/album/5tquufgGqNZBek4qn3Zngj"
+      },
+      "artists": [
+        {
+          "name": "Caloncho",
+          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218173,
+      "name": "Wacha Checa",
+      "url": "https://open.spotify.com/track/1X4G8m0XwzECdjnTXLMa2c"
+    },
+    {
+      "album": {
         "name": "wepa (Eggglub Remix)",
         "url": "https://open.spotify.com/album/3X4m5g2WPBlQ3e1qzjCHub"
       },
@@ -6460,7 +6536,7 @@
       ],
       "date_added": "2023-01-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-24",
+      "date_removed": null,
       "duration_ms": 202066,
       "name": "Window Seat",
       "url": "https://open.spotify.com/track/5rpxuwiJIMouwlIodvNhJr"
@@ -6568,7 +6644,7 @@
       ],
       "date_added": "2024-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 162717,
       "name": "Z.E.R",
       "url": "https://open.spotify.com/track/1DONgPg5AVcK2i8kCqyyDM"

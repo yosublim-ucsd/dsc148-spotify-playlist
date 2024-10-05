@@ -2,7 +2,7 @@
 
 ### [This Is Alex Favela](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3tgAuY)
 
-> This is Alex Favela\. The essential tracks, all in one playlist.
+> This Is Alex Favela\. Los temas esenciales, todos en una lista.
 
 58 songs - 2 hr 40 min
 
@@ -62,7 +62,7 @@
 | [Sin Faramaya](https://open.spotify.com/track/5HwVM6aaOp7uJvFIrtgYt7) | [Ely Rosario](https://open.spotify.com/artist/4q8CrAeEOvqwXcwkOtUVZn), [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [Sin Faramaya](https://open.spotify.com/album/5TxSrxxAuzOXdZPTqaOHaY) | 2:24 | 2024-08-08 |  |
 | [This Is The End \- En Vivo](https://open.spotify.com/track/71e3w7ws39md8KgfP7LVlR) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Hector Rubio](https://open.spotify.com/artist/2uSJ9ywE44eIRoTMatARAy) | [This Is The End \(En Vivo\)](https://open.spotify.com/album/2Gv0dgR654JYphwcViwYwU) | 3:16 | 2024-08-08 |  |
 | [Tiempo Duros](https://open.spotify.com/track/6M2aZA9L6kkpn6O8UHhGU2) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [Tiempos Duros](https://open.spotify.com/album/1grOOSZFlQSPqxZEvo4t6C) | 2:44 | 2024-08-08 |  |
-| [Tirando Barra \- En Vivo](https://open.spotify.com/track/3eACDMVDI0gidg5P8dfTpM) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [En Vivo Desde CLN Tololoche Edition](https://open.spotify.com/album/0nQSOTRnaZSOyj3pF15S9z) | 2:42 | 2024-08-14 |  |
+| [Tirando Barra \- En Vivo](https://open.spotify.com/track/3eACDMVDI0gidg5P8dfTpM) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [En Vivo Desde CLN Tololoche Edition](https://open.spotify.com/album/0nQSOTRnaZSOyj3pF15S9z) | 2:42 | 2024-08-14 | 2024-10-05 |
 | [TOMORROWLAND](https://open.spotify.com/track/7ECjK3j7dTauos87ndRH0N) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Victor Mendivil](https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce), [El Padrinito Toys](https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm) | [TOMORROWLAND](https://open.spotify.com/album/7cTAEbPBIwniEGP6CVW5qD) | 3:05 | 2024-08-08 |  |
 | [Vino Rosa](https://open.spotify.com/track/3ena8KYMBtkIqBkDSXYaJd) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Ingratax](https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8) | [Vino Rosa](https://open.spotify.com/album/1nCaK6GQAZmvzGZuWeyeqz) | 3:19 | 2024-08-08 |  |
 | [Ya Tocó \- En Vivo](https://open.spotify.com/track/5aszJrVkcABWGnFgIWKA61) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [Desde CLN Banda Edition \(En Vivo\)](https://open.spotify.com/album/7aHQlvqy4LaBEnnHYQweqn) | 2:24 | 2024-08-14 | 2024-09-03 |

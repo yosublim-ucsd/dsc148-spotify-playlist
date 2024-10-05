@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "\u00a1Lo mejor de la Cumbia Pop! \nFoto: Valentino Merlo, Big One & Emanero.",
+  "description": "\u00a1Lo mejor de la Cumbia Pop! \nFoto: La Joaqui, Big One & Tiago PZK.",
   "name": "Dame M\u00e1s Cumbia",
   "tracks": [
     {
@@ -1112,6 +1112,32 @@
       "duration_ms": 181740,
       "name": "BORRACHO",
       "url": "https://open.spotify.com/track/3ZMWr0qweJWTT3hrTqnJe2"
+    },
+    {
+      "album": {
+        "name": "BORRACHO Y LOCO",
+        "url": "https://open.spotify.com/album/1wHiSIZldLNeICiNOABSLT"
+      },
+      "artists": [
+        {
+          "name": "Emanero",
+          "url": "https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB"
+        },
+        {
+          "name": "Abel Pintos",
+          "url": "https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa"
+        },
+        {
+          "name": "The La Planta",
+          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232781,
+      "name": "BORRACHO Y LOCO",
+      "url": "https://open.spotify.com/track/2UIFEzinNxkSv9fY93SYhx"
     },
     {
       "album": {
@@ -2545,6 +2571,32 @@
     },
     {
       "album": {
+        "name": "Desp\u00f3jate Vol.2",
+        "url": "https://open.spotify.com/album/2rIGm59XDgX2eYwiOWtFgV"
+      },
+      "artists": [
+        {
+          "name": "Hernan y La Champion's Liga",
+          "url": "https://open.spotify.com/artist/04XdCDDrPnnqidaVBTOQjt"
+        },
+        {
+          "name": "Callejero Fino",
+          "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
+        },
+        {
+          "name": "BM",
+          "url": "https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240435,
+      "name": "Desp\u00f3jate Vol.2",
+      "url": "https://open.spotify.com/track/6ViJgiKfyqfs52x2pGhuPF"
+    },
+    {
+      "album": {
         "name": "Diabla / Amor Tumbado",
         "url": "https://open.spotify.com/album/3UhaXsDT0JyOyXaE87juoJ"
       },
@@ -3558,7 +3610,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 146138,
       "name": "Esc\u00e1ndalo",
       "url": "https://open.spotify.com/track/1H51wUDrLNB4AIOAnqE8Px"
@@ -5760,7 +5812,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 126593,
       "name": "Mala",
       "url": "https://open.spotify.com/track/5njEYHoFcK0OaAEsoI7qga"
@@ -7639,6 +7691,32 @@
     },
     {
       "album": {
+        "name": "Pa\u00b4 Que Te Acuerdes | CROSSOVER #8",
+        "url": "https://open.spotify.com/album/6Es6kN0L82XnLAaKV02ZoC"
+      },
+      "artists": [
+        {
+          "name": "Big One",
+          "url": "https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e"
+        },
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        },
+        {
+          "name": "La Joaqui",
+          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172800,
+      "name": "Pa\u00b4Que Te Acuerdes | CROSSOVER #8",
+      "url": "https://open.spotify.com/track/5aZ8rf2aPfZrnRWLA7bByo"
+    },
+    {
+      "album": {
         "name": "Pechito Partido",
         "url": "https://open.spotify.com/album/2DSB1Vljm1tDrcH6Hk06F7"
       },
@@ -9462,7 +9540,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 161874,
       "name": "Sin Valent\u00edn",
       "url": "https://open.spotify.com/track/4qjw6B9bJWb3jd0RInF1RY"

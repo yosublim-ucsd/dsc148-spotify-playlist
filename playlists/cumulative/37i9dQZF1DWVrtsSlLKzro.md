@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">electronic</a> melancholy < / 3
 
-353 songs - 20 hr 57 min
+355 songs - 21 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Borderline](https://open.spotify.com/track/2EE9mbf0apCytvK4cq8qSl) | [Camp Kubrick](https://open.spotify.com/artist/3RCqYRekSt6ttwZdkFhmnk), [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [Borderline](https://open.spotify.com/album/35QBNIbrgjMWlMu6B2WDbU) | 2:54 | 2021-12-03 | 2022-02-12 |
 | [Break The Same](https://open.spotify.com/track/06e5O2EVUkUIRrDGGXsegJ) | [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq), [MATTN](https://open.spotify.com/artist/1RQ3ZwCNI7KniEKIN5kkio) | [Break The Same](https://open.spotify.com/album/5H5YKFjy1FRbo5TCN1MDvZ) | 3:16 | 2022-04-29 | 2023-06-10 |
 | [Broken](https://open.spotify.com/track/68Pr1RFCmybF7eK7m99a1n) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys) | [Broken](https://open.spotify.com/album/4ZBR5lkFXiVqI1oCehQZVO) | 3:18 | 2023-02-24 | 2024-06-22 |
+| [BROKEN](https://open.spotify.com/track/3n4FkCfKlscDqYPMcTBdXm) | [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T) | [BROKEN](https://open.spotify.com/album/1aHlFkhxyz1Yxmb7sgQh24) | 4:31 | 2024-10-04 |  |
 | [Broken](https://open.spotify.com/track/2yg53XBaQDtIk6hYT2VFSD) | [William Black](https://open.spotify.com/artist/7d5SfGXKpgS3JK8BFIq59h), [Fairlane](https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO) | [Broken](https://open.spotify.com/album/7ghIKFtH1hzdB3dLXgRcOf) | 3:48 | 2022-07-15 | 2024-04-19 |
 | [Broken](https://open.spotify.com/track/5hXuLtstJptYmLodghFa8V) | [William Black](https://open.spotify.com/artist/7d5SfGXKpgS3JK8BFIq59h), [Fairlane](https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO) | [Pieces](https://open.spotify.com/album/2Mzaihfp9i7m6UO5HSRtHb) | 3:48 | 2022-07-15 | 2022-09-03 |
 | [Broken](https://open.spotify.com/track/7En6WS40qUdd9NMWLnOKiz) | [William Black](https://open.spotify.com/artist/7d5SfGXKpgS3JK8BFIq59h), [Fairlane](https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO) | [Pieces](https://open.spotify.com/album/41zOUkivBUd5X0KRWPO3CB) | 3:48 | 2021-12-03 |  |
@@ -280,6 +281,7 @@
 | [Save Yourself](https://open.spotify.com/track/3sfYpzimgCeLiPIshgbIRn) | [Tom Finster](https://open.spotify.com/artist/0jA09tU838A2JRveNgDSGa), [barking continues](https://open.spotify.com/artist/5CXAbK2R1Jepg9bl76AZ39) | [Save Yourself](https://open.spotify.com/album/2VXFiPevUK5R98J8CsUjQi) | 3:31 | 2022-04-15 |  |
 | [Saving Lives](https://open.spotify.com/track/6OK7OQyyvNPd2XQIHCB1wz) | [ARMNHMR](https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1), [Bella Renee](https://open.spotify.com/artist/7od8NRvfdfAanx6IcY7JSa) | [Saving Lives](https://open.spotify.com/album/1q3TxKjmvdwSE8SmOsAsjt) | 4:27 | 2021-12-03 | 2022-05-07 |
 | [Scared Of Us](https://open.spotify.com/track/4R7P9MgPwDpaXGBseZx9W5) | [Scorz](https://open.spotify.com/artist/2WSmz7fObdRrG8ZTXz7kcn), [Mokita](https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE) | [Scared Of Us](https://open.spotify.com/album/0qnOC5xzY2pkubcrNUjYNV) | 3:31 | 2022-01-14 |  |
+| [set me free](https://open.spotify.com/track/2C3oAqU1XpVO2a7MssURkk) | [Aaron Hibell](https://open.spotify.com/artist/6KJPsGYJN54GllYOKTleaj), [Alex Wann](https://open.spotify.com/artist/6PTNNcLg90Kkl89JcEwKhT) | [set me free](https://open.spotify.com/album/004HrUsnT6v50zlNn2g153) | 3:38 | 2024-10-04 |  |
 | [Shipwreck](https://open.spotify.com/track/06AuNyqPNwKBvZ7a0G6rZP) | [Otherwise Fine](https://open.spotify.com/artist/0n255T84TbJje4U9RcKHGP), [Emily Rowed](https://open.spotify.com/artist/0f1BcubFYDkGOTA0bJ0u1w) | [Shipwreck](https://open.spotify.com/album/7snKIaGE7juwYtQjIQQe87) | 2:56 | 2021-12-03 | 2024-06-22 |
 | [Should Have Seen It Coming](https://open.spotify.com/track/5XU99uJiaZIlfy1ID23veH) | [Franky Wah](https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco), [AETHO](https://open.spotify.com/artist/6d1k1QqEg5v7gVCJmbilHG) | [Should Have Seen It Coming](https://open.spotify.com/album/6yVQrYmOxFjvS4875yrfGa) | 3:58 | 2021-12-03 | 2023-04-22 |
 | [Shut The World Out](https://open.spotify.com/track/3Up1MsHqcxUVgB2iuqFRq2) | [Kasbo](https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq), [Frida Sundemo](https://open.spotify.com/artist/5vuIOnOp6NI06rjLgTpYiY) | [The Making of a Paracosm](https://open.spotify.com/album/4yrjPmonSHiJIHum5TrqEe) | 4:28 | 2021-12-03 |  |

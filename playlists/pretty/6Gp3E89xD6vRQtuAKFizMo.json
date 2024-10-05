@@ -1,13 +1,49 @@
 {
   "description": "Brand new music from Steve Aoki\u2019s Dim Mak Records, updated every Tuesday and Friday!",
-  "num_followers": 44224,
+  "num_followers": 44228,
   "original_name": "Dim Mak New Releases",
   "owner": {
     "name": "Dim Mak Records",
     "url": "https://open.spotify.com/user/dimmakrecords"
   },
-  "snapshot_id": "AAAZq2FQVCMN7EuO9nai5frn/l/ntksn",
+  "snapshot_id": "AAAZrQDslWZAIVpoBw1vm0M9wGIHvQW7",
   "tracks": [
+    {
+      "added_at": "2024-10-04 16:21:45",
+      "album": {
+        "name": "Surrounded",
+        "url": "https://open.spotify.com/album/72r8Fuz8PHExhXN6pSoTm9"
+      },
+      "artists": [
+        {
+          "name": "Vincent",
+          "url": "https://open.spotify.com/artist/7ymczLNmjz6AVMGApVNWbB"
+        }
+      ],
+      "duration_ms": 199921,
+      "name": "Surrounded",
+      "url": "https://open.spotify.com/track/71sxnW8hXbYa8Evm8bxEEV"
+    },
+    {
+      "added_at": "2024-10-04 16:21:57",
+      "album": {
+        "name": "Better Off Alone (feat. LaPetite)",
+        "url": "https://open.spotify.com/album/3wkSaNUjJX8zNwYjIQLuag"
+      },
+      "artists": [
+        {
+          "name": "T-Mass",
+          "url": "https://open.spotify.com/artist/0M3cZtjQZ8fz3Hbw1A4CwF"
+        },
+        {
+          "name": "LaPetite",
+          "url": "https://open.spotify.com/artist/3GOb5J15JfoYrlO2AKQBQm"
+        }
+      ],
+      "duration_ms": 176408,
+      "name": "Better Off Alone (feat. LaPetite)",
+      "url": "https://open.spotify.com/track/6dOiQuHSM5R8FonZg1x4aQ"
+    },
     {
       "added_at": "2024-09-27 15:42:40",
       "album": {

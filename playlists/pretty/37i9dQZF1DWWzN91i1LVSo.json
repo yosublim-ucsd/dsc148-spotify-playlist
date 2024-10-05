@@ -1,6 +1,6 @@
 {
   "description": "a fresh & mellow mix from some of today's best singer-songwriters. Cover: Bre Kennedy",
-  "num_followers": 123723,
+  "num_followers": 123720,
   "original_name": "Chill Singer-Songwriter",
   "owner": {
     "name": "Spotify",
@@ -519,22 +519,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Son Little (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2jGQieA1EggldcxFAiQHjJ"
-      },
-      "artists": [
-        {
-          "name": "Son Little",
-          "url": "https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "Lay Down",
-      "url": "https://open.spotify.com/track/3x8IsQzb1KhPPo6zNGzzL1"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "Wildfire",
         "url": "https://open.spotify.com/album/1oYKM818Z1hEdfking1DEP"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 151913,
       "name": "Wildfire",
       "url": "https://open.spotify.com/track/69xOrL71OeGz5fqXFTnJ5L"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Son Little (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2jGQieA1EggldcxFAiQHjJ"
+      },
+      "artists": [
+        {
+          "name": "Son Little",
+          "url": "https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "Lay Down",
+      "url": "https://open.spotify.com/track/3x8IsQzb1KhPPo6zNGzzL1"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -823,26 +823,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/7fxmI2X1OBF3v3rBbrcbyd"
-      },
-      "artists": [
-        {
-          "name": "Jake Isaac",
-          "url": "https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB"
-        },
-        {
-          "name": "India.Arie",
-          "url": "https://open.spotify.com/artist/7Gf3LSwa5hh8Cjo60WhVjC"
-        }
-      ],
-      "duration_ms": 211000,
-      "name": "Gold",
-      "url": "https://open.spotify.com/track/71u5Z6SNQR4d5SEm1gr9Md"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "O",
         "url": "https://open.spotify.com/album/6aHBpqM0YAMfYxfTBjfmk1"
       },
@@ -871,6 +851,26 @@
       "duration_ms": 217973,
       "name": "Save My Life - Radio Edit",
       "url": "https://open.spotify.com/track/2s5QYW4Ls3GsxWKhEKGraJ"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/7fxmI2X1OBF3v3rBbrcbyd"
+      },
+      "artists": [
+        {
+          "name": "Jake Isaac",
+          "url": "https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB"
+        },
+        {
+          "name": "India.Arie",
+          "url": "https://open.spotify.com/artist/7Gf3LSwa5hh8Cjo60WhVjC"
+        }
+      ],
+      "duration_ms": 211000,
+      "name": "Gold",
+      "url": "https://open.spotify.com/track/71u5Z6SNQR4d5SEm1gr9Md"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "K.",
-        "url": "https://open.spotify.com/album/5zm06yB6kALQUeaUxc8NCO"
-      },
-      "artists": [
-        {
-          "name": "Rosie Carney",
-          "url": "https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9"
-        }
-      ],
-      "duration_ms": 269000,
-      "name": "K.",
-      "url": "https://open.spotify.com/track/6vG1pcmNGdG6Vu62I9nLGL"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "In Plain Sight",
         "url": "https://open.spotify.com/album/5ucZskRXstBtzif13kXYM0"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 156802,
       "name": "In Plain Sight",
       "url": "https://open.spotify.com/track/266v6l2hpwcRVrmMxNZkp4"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "K.",
+        "url": "https://open.spotify.com/album/5zm06yB6kALQUeaUxc8NCO"
+      },
+      "artists": [
+        {
+          "name": "Rosie Carney",
+          "url": "https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9"
+        }
+      ],
+      "duration_ms": 269000,
+      "name": "K.",
+      "url": "https://open.spotify.com/track/6vG1pcmNGdG6Vu62I9nLGL"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Devil On My Shoulder",
-        "url": "https://open.spotify.com/album/1ZSDwevftMUQ8SqGx6clvZ"
-      },
-      "artists": [
-        {
-          "name": "Chelsea Cutler",
-          "url": "https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp"
-        }
-      ],
-      "duration_ms": 212493,
-      "name": "Devil On My Shoulder",
-      "url": "https://open.spotify.com/track/1jLUaPGjk5zwV9kXUt4Jt1"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "Fool For Waiting",
         "url": "https://open.spotify.com/album/1PA2kEj3hK95dBfkzCPxdl"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 243200,
       "name": "Fool For Waiting",
       "url": "https://open.spotify.com/track/2ISrBfPX4YBkwiMgvdbV4V"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Devil On My Shoulder",
+        "url": "https://open.spotify.com/album/1ZSDwevftMUQ8SqGx6clvZ"
+      },
+      "artists": [
+        {
+          "name": "Chelsea Cutler",
+          "url": "https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp"
+        }
+      ],
+      "duration_ms": 212493,
+      "name": "Devil On My Shoulder",
+      "url": "https://open.spotify.com/track/1jLUaPGjk5zwV9kXUt4Jt1"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "call me when you land",
-        "url": "https://open.spotify.com/album/3IJmWElpsCmDmzZyemFc1h"
-      },
-      "artists": [
-        {
-          "name": "Madilyn Mei",
-          "url": "https://open.spotify.com/artist/3MHgwXo5vVzHqGMKWRoLer"
-        }
-      ],
-      "duration_ms": 92453,
-      "name": "call me when you land",
-      "url": "https://open.spotify.com/track/1jfH3q06PG0Jo0Lb0jD4lB"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "More Like You",
         "url": "https://open.spotify.com/album/2zX0uZRqO9wEG6Wq79T5jw"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 219720,
       "name": "More Like You",
       "url": "https://open.spotify.com/track/1UpFb9izAOYlcxWTOQzGf6"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "call me when you land",
+        "url": "https://open.spotify.com/album/3IJmWElpsCmDmzZyemFc1h"
+      },
+      "artists": [
+        {
+          "name": "Madilyn Mei",
+          "url": "https://open.spotify.com/artist/3MHgwXo5vVzHqGMKWRoLer"
+        }
+      ],
+      "duration_ms": 92453,
+      "name": "call me when you land",
+      "url": "https://open.spotify.com/track/1jfH3q06PG0Jo0Lb0jD4lB"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1367,6 +1367,22 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
+        "name": "Don't Let Me Disappear",
+        "url": "https://open.spotify.com/album/3Oliq76kwRgabXMJOtuUz7"
+      },
+      "artists": [
+        {
+          "name": "Ben Harper",
+          "url": "https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN"
+        }
+      ],
+      "duration_ms": 264522,
+      "name": "Don't Let Me Disappear",
+      "url": "https://open.spotify.com/track/1StMd0fcQFpwrkYTJuHj8z"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
         "name": "IOWA",
         "url": "https://open.spotify.com/album/4jLnoqNXzY7DquELf6mz46"
       },
@@ -1383,22 +1399,6 @@
       "duration_ms": 275170,
       "name": "IOWA",
       "url": "https://open.spotify.com/track/3c9srkZXPYH5969NYxVXZS"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "Don't Let Me Disappear",
-        "url": "https://open.spotify.com/album/3Oliq76kwRgabXMJOtuUz7"
-      },
-      "artists": [
-        {
-          "name": "Ben Harper",
-          "url": "https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN"
-        }
-      ],
-      "duration_ms": 264522,
-      "name": "Don't Let Me Disappear",
-      "url": "https://open.spotify.com/track/1StMd0fcQFpwrkYTJuHj8z"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Better Off",
-        "url": "https://open.spotify.com/album/0oE9bup0oJzDRbokjpeMzn"
-      },
-      "artists": [
-        {
-          "name": "Trousdale",
-          "url": "https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE"
-        }
-      ],
-      "duration_ms": 226153,
-      "name": "Better Off",
-      "url": "https://open.spotify.com/track/20mb9SDTZugEbNwU5knL58"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "Lay It on Me (Acoustic)",
         "url": "https://open.spotify.com/album/7dtiKh6AIZDNNDduDZdoR7"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 201561,
       "name": "Lay It on Me - Acoustic",
       "url": "https://open.spotify.com/track/0ikmhbH2wPx0iFayhraSWp"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Better Off",
+        "url": "https://open.spotify.com/album/0oE9bup0oJzDRbokjpeMzn"
+      },
+      "artists": [
+        {
+          "name": "Trousdale",
+          "url": "https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE"
+        }
+      ],
+      "duration_ms": 226153,
+      "name": "Better Off",
+      "url": "https://open.spotify.com/track/20mb9SDTZugEbNwU5knL58"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "The Hating Game (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/46SxMCDnnCR3Qceso4Dga5"
-      },
-      "artists": [
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        }
-      ],
-      "duration_ms": 196606,
-      "name": "Count On Me",
-      "url": "https://open.spotify.com/track/5VLhD6BQRgXAtKCqlS1hMJ"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "Never Let Go",
         "url": "https://open.spotify.com/album/0JPqs21tIWq25cOmjdrjlb"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 220373,
       "name": "Never Let Go",
       "url": "https://open.spotify.com/track/46UslmWIYHWp5Irp3xfFMD"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "The Hating Game (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/46SxMCDnnCR3Qceso4Dga5"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "duration_ms": 196606,
+      "name": "Count On Me",
+      "url": "https://open.spotify.com/track/5VLhD6BQRgXAtKCqlS1hMJ"
     },
     {
       "added_at": "2024-05-24 04:00:00",

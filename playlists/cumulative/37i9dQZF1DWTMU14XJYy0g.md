@@ -2,9 +2,9 @@
 
 ### [Rock Argentino](https://open.spotify.com/playlist/37i9dQZF1DWTMU14XJYy0g)
 
-> Más vivo que nunca, más nuestro que siempre\. Foto: RYAN
+> Más vivo que nunca, más nuestro que siempre\. Foto: LOBEL
 
-309 songs - 19 hr 9 min
+313 songs - 19 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,6 +175,7 @@
 | [Le Di Sol](https://open.spotify.com/track/0vslbOoaPP1sglPchHGrX9) | [Vanthra](https://open.spotify.com/artist/3APvOv4wyrZTgdYZxtCZ8l), [Abril Sosa](https://open.spotify.com/artist/7roniIo6ZzxBLAlFCf5fcl) | [Le Di Sol](https://open.spotify.com/album/0puy8tSxqpaYpy4FHY0NK9) | 4:21 | 2022-06-24 | 2023-03-11 |
 | [Lejos de Acá](https://open.spotify.com/track/7I1bJimgthpduRHR4CIoKp) | [La Mississippi](https://open.spotify.com/artist/2haNFSI2XvHycF4x0nhp2w), [EL MISMO](https://open.spotify.com/artist/5SSPAJQe4pqnz9gKnRB9g3) | [Lejos de Acá](https://open.spotify.com/album/6Ujn6SsPlnTvDZJejYsapF) | 3:38 | 2023-07-28 | 2024-04-06 |
 | [Lejos Estoy](https://open.spotify.com/track/7p9hMuHlKpiJoeoBWT1jic) | [2 minutos](https://open.spotify.com/artist/5sASmkskUJsvYDSYKRkkYd), [Ciro Pertusi](https://open.spotify.com/artist/1WfuDfBxYtT6FmhKaLKFJc) | [Lejos Estoy](https://open.spotify.com/album/6eBMJM8ZcUFxeP7rXMVgL8) | 3:32 | 2023-09-22 | 2023-12-02 |
+| [Libertad es presión](https://open.spotify.com/track/1h0eBZEshg04SI0NxrYzxl) | [Piti Fernández](https://open.spotify.com/artist/4PJtMqmJX54aKaztYQfFYb) | [Libertad es presión](https://open.spotify.com/album/0OI4jt9SzJwh43TrUEiX9m) | 3:34 | 2024-10-04 |  |
 | [Llevo la Palabra](https://open.spotify.com/track/7D5JntNLDnWLe02CCm6C7O) | [Pez](https://open.spotify.com/artist/00demsNI1p5KmzWGlrnrdh) | [Llevo la Palabra](https://open.spotify.com/album/5CEuuHQnySh405nqZ7Njzr) | 3:01 | 2023-09-01 | 2023-09-23 |
 | [Llévame](https://open.spotify.com/track/0BzARH6DR0vksVpTWm2RHN) | [Los Tipitos](https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt), [Vale Acevedo](https://open.spotify.com/artist/4uM6IUL3hMaxnhAKCZCKQJ) | [Llévame](https://open.spotify.com/album/3TeYluIyLa3vhmWuvAMJ5C) | 3:35 | 2022-06-24 | 2023-09-23 |
 | [Lo Mejor](https://open.spotify.com/track/5VEcvQd59L5xKySsXAbJ6h) | [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Lo Mejor](https://open.spotify.com/album/1eUGnfmBWoPfsNXUHQsMEL) | 4:10 | 2024-02-09 |  |
@@ -194,6 +195,7 @@
 | [Me Cansé](https://open.spotify.com/track/6fbEx1uVW5uLzeUdfcgZ2Z) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j), [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Me Cansé](https://open.spotify.com/album/5E5NaXKPK3LZTLkOtL5USb) | 3:19 | 2024-01-12 |  |
 | [Medalla de Oro](https://open.spotify.com/track/2wEQksM7haYpwSXPuHR6Lb) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Medalla de Oro](https://open.spotify.com/album/138ThWg8gQiGFqprVhXy3e) | 5:40 | 2023-03-03 | 2023-03-10 |
 | [Medalla de Oro](https://open.spotify.com/track/3e43fFQ7FOO2ic7wTnzwBl) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Medalla de Oro](https://open.spotify.com/album/1BTJdsNvbyccpP6UgEP6YF) | 5:40 | 2023-03-03 | 2023-06-03 |
+| [Melodía del Adiós](https://open.spotify.com/track/6tbNnSpsaRBjqszmWU6JEd) | [LOBEL](https://open.spotify.com/artist/6ZYC3LeRCpUZheX0WKVPGl) | [Melodía del Adiós](https://open.spotify.com/album/5xuoOnrivnxR4MOiOoafWY) | 3:38 | 2024-10-04 |  |
 | [Mi Dios](https://open.spotify.com/track/2k6o3Lq8ZZXtLPby7SkgeD) | [Ella Es Tan Cargosa](https://open.spotify.com/artist/2fGM1BtKeCWjnriro6BaPS) | [Fuera de Moda](https://open.spotify.com/album/0IVrP8hRUEnOiPYKln5wNV) | 3:23 | 2024-04-26 | 2024-05-25 |
 | [Miedo](https://open.spotify.com/track/2OJqUom0FBpJ9OdiUVIlk2) | [Estelares](https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF) | [Miedo](https://open.spotify.com/album/4ASiIcEpLwd67EyucGsuwY) | 4:18 | 2022-08-05 | 2022-12-03 |
 | [Mimos Son Mimos](https://open.spotify.com/track/0AK6oKtH1xi0y66ZkN6OGT) | [Babasonicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Trinchera](https://open.spotify.com/album/5oLaRXGevqs8RYxXhYe9PG) | 2:57 | 2024-09-20 |  |
@@ -231,6 +233,7 @@
 | [Otras Puertas Otros Mundos](https://open.spotify.com/track/39p5pfqX8AJlnmI1jw2dzF) | [Skay Beilinson](https://open.spotify.com/artist/4K8Mrjr9IvA8QU0Vjj4BED) | [Otras Puertas Otros Mundos](https://open.spotify.com/album/2HBWXCLzuLDicoGfgksBJv) | 2:28 | 2022-06-24 | 2023-06-03 |
 | [Pacífico](https://open.spotify.com/track/4YDACzNhZTeo9YvYC533SP) | [Los Piojos](https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU) | [Ritual Piojoso \(En Vivo en River Plate\)](https://open.spotify.com/album/7v7UBXatukF69a99XWjjX6) | 4:44 | 2024-05-31 |  |
 | [Paradoja](https://open.spotify.com/track/29FRFwLHf0Ec9q6I9K0jLZ) | [Babasonicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Trinchera](https://open.spotify.com/album/5oLaRXGevqs8RYxXhYe9PG) | 2:59 | 2022-06-24 |  |
+| [Pasos Al Costado](https://open.spotify.com/track/2CHRH34SWRjo1hvvbnpDww) | [Turf](https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1), [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [Pasos Al Costado](https://open.spotify.com/album/0RIsFI6QTHoMkrs46q3ApG) | 4:00 | 2024-10-04 |  |
 | [Peaky Blinders](https://open.spotify.com/track/0kN5zA13KIt644GzozKGgc) | [Los Perez García](https://open.spotify.com/artist/4WEyRDFePTrRVfpV0Vdjs3) | [Peaky Blinders](https://open.spotify.com/album/5AVbHKr5ejED0soXxFbYut) | 3:53 | 2022-06-24 | 2023-09-27 |
 | [Perdido](https://open.spotify.com/track/4vlrKddAtbNTgxXvr24ovy) | [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr) | [Perdido](https://open.spotify.com/album/7wJl5MItC0c8sdRdTkKPBA) | 4:07 | 2022-06-24 | 2022-10-15 |
 | [Pistolas](https://open.spotify.com/track/2mAAt8iqdujWGKcB3RDB9D) | [Los Piojos](https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU) | [Ay Ay Ay](https://open.spotify.com/album/5kgCug9cl7cMJ5BY3wigRK) | 4:55 | 2022-07-15 | 2023-09-27 |
@@ -287,6 +290,7 @@
 | [Todo Cambia](https://open.spotify.com/track/53bAxP7G04UBs7aqGj0ffu) | [La Beriso](https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ) | [Todo Cambia](https://open.spotify.com/album/71QDqQiuKYbBIOI4HJ83nZ) | 3:33 | 2022-06-24 | 2023-09-27 |
 | [Todo Se Quema](https://open.spotify.com/track/35i3PHmoD6toLs4RVDAY2U) | [León Gieco](https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq), [Jaime López](https://open.spotify.com/artist/7u8Y6Gwnm0LJZWZCYEv02m) | [Todo Se Quema](https://open.spotify.com/album/5RVbgOgc59Pz2cA0BM57wK) | 5:02 | 2022-06-24 | 2023-09-27 |
 | [Todos los Vientos](https://open.spotify.com/track/6xi1npz5rpEhOtEg1LHKUG) | [La Franela](https://open.spotify.com/artist/5P57GCRyvU7ln5GwNXU8ku), [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs) | [Todos los Vientos](https://open.spotify.com/album/1hdoOfhsWQ05avZZunec0C) | 3:47 | 2022-06-24 | 2022-08-06 |
+| [Tormentón](https://open.spotify.com/track/7yWUqFK4tWYH3J7HSSzEm0) | [La Medianera](https://open.spotify.com/artist/75DO8anWSqwceTHoXKSEKR), [SEVANDER](https://open.spotify.com/artist/2mC1hKeg2XwGITlzQmupS8) | [Tormentón](https://open.spotify.com/album/5xRvU7dse3mY4cd32mrz9t) | 3:36 | 2024-10-04 |  |
 | [TRAS](https://open.spotify.com/track/7AnsmqpKKsxrLSp4GiXDu7) | [Usted Señalemelo](https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j) | [Tripolar](https://open.spotify.com/album/6ud8dLSruWnM0i6qdIBHjS) | 2:59 | 2023-06-02 | 2023-09-27 |
 | [Trinchera](https://open.spotify.com/track/5gGQIro4l0L55dfk85WxUP) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Trinchera \- Single](https://open.spotify.com/album/7e6wpR5m0K1S3cWkDGQEBm) | 3:20 | 2022-09-02 | 2023-09-27 |
 | [Tu buen amor](https://open.spotify.com/track/30vfQShBGylqKudc19bfbP) | [Andando Descalzo](https://open.spotify.com/artist/6NHW6BsssESLzyucE7DFId), [Los Perez García](https://open.spotify.com/artist/4WEyRDFePTrRVfpV0Vdjs3) | [Paradójico](https://open.spotify.com/album/6CTGtVDOt5f5u6sV37qK4B) | 3:54 | 2024-08-16 |  |

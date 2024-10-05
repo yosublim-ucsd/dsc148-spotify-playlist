@@ -1,79 +1,15 @@
 {
-  "description": "The hip-hop playlist that's a whole mood. Art By Laci Jordan; Cover: Saweetie",
-  "num_followers": 3180323,
+  "description": "The hip-hop playlist that's a whole mood. Art By Laci Jordan; Cover: Cardi B",
+  "num_followers": 3180715,
   "original_name": "Feelin' Myself",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvYtwAAAAAC+NKSDDuSRQMhJWhXSWirZ",
+  "snapshot_id": "Zv9oQAAAAABw/1B7Li6GurPXi1IcmN2Z",
   "tracks": [
     {
-      "added_at": "2024-09-27 04:00:00",
-      "album": {
-        "name": "Sugar Honey Iced Tea",
-        "url": "https://open.spotify.com/album/1S9LGRodo5jsXGsMeVaYNp"
-      },
-      "artists": [
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        }
-      ],
-      "duration_ms": 217613,
-      "name": "Brokey",
-      "url": "https://open.spotify.com/track/1JF8LkQWZ8grXb2emqrNKn"
-    },
-    {
-      "added_at": "2024-09-27 04:00:00",
-      "album": {
-        "name": "OKAY",
-        "url": "https://open.spotify.com/album/7AmtY0qyLuqkGXYu7lOLjL"
-      },
-      "artists": [
-        {
-          "name": "JT",
-          "url": "https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m"
-        }
-      ],
-      "duration_ms": 164074,
-      "name": "OKAY",
-      "url": "https://open.spotify.com/track/0e1KTuawmiFLiK0Lh3nNtM"
-    },
-    {
-      "added_at": "2024-09-27 04:00:00",
-      "album": {
-        "name": "Is It The Way",
-        "url": "https://open.spotify.com/album/4yvcCQ6riOr6XvigkpItWN"
-      },
-      "artists": [
-        {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        }
-      ],
-      "duration_ms": 152973,
-      "name": "Is It The Way",
-      "url": "https://open.spotify.com/track/4aY0JD0iHm1VIAQelgYkw7"
-    },
-    {
-      "added_at": "2024-09-27 04:00:00",
-      "album": {
-        "name": "Get It Sexyy",
-        "url": "https://open.spotify.com/album/3ahxhuhmGJiN0CWLOff9Sw"
-      },
-      "artists": [
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 148551,
-      "name": "Get It Sexyy",
-      "url": "https://open.spotify.com/track/2MjXWroB9wlTG2kqv3avfS"
-    },
-    {
-      "added_at": "2024-09-27 04:00:00",
+      "added_at": "2024-10-04 04:00:00",
       "album": {
         "name": "TGIF",
         "url": "https://open.spotify.com/album/3VY29d0cCe38jPSYvAiI0D"
@@ -89,7 +25,71 @@
       "url": "https://open.spotify.com/track/2hKYtHbwYOSjvYQhVdUpdQ"
     },
     {
-      "added_at": "2024-09-27 04:00:00",
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Get It Sexyy",
+        "url": "https://open.spotify.com/album/3ahxhuhmGJiN0CWLOff9Sw"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 148551,
+      "name": "Get It Sexyy",
+      "url": "https://open.spotify.com/track/2MjXWroB9wlTG2kqv3avfS"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "OKAY",
+        "url": "https://open.spotify.com/album/7AmtY0qyLuqkGXYu7lOLjL"
+      },
+      "artists": [
+        {
+          "name": "JT",
+          "url": "https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m"
+        }
+      ],
+      "duration_ms": 164074,
+      "name": "OKAY",
+      "url": "https://open.spotify.com/track/0e1KTuawmiFLiK0Lh3nNtM"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Sugar Honey Iced Tea",
+        "url": "https://open.spotify.com/album/1S9LGRodo5jsXGsMeVaYNp"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 217613,
+      "name": "Brokey",
+      "url": "https://open.spotify.com/track/1JF8LkQWZ8grXb2emqrNKn"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Enough (Miami)",
+        "url": "https://open.spotify.com/album/5TlQ2moqWicDMAFASeeCZY"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "duration_ms": 158727,
+      "name": "Enough (Miami)",
+      "url": "https://open.spotify.com/track/4XqBLxDaEdlqkHlSlb1Rzq"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
       "album": {
         "name": "PISSED OFF",
         "url": "https://open.spotify.com/album/1EOlxTFy3bmyFZGfiYz45e"
@@ -109,43 +109,27 @@
       "url": "https://open.spotify.com/track/3JM5u17oBXiwif2EG9pKXv"
     },
     {
-      "added_at": "2024-09-27 04:00:00",
+      "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Enough (Miami)",
-        "url": "https://open.spotify.com/album/5TlQ2moqWicDMAFASeeCZY"
+        "name": "In Sexyy We Trust",
+        "url": "https://open.spotify.com/album/5PmtX9B5vNa4uaiXQVn4Gx"
       },
       "artists": [
         {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        }
-      ],
-      "duration_ms": 158727,
-      "name": "Enough (Miami)",
-      "url": "https://open.spotify.com/track/4XqBLxDaEdlqkHlSlb1Rzq"
-    },
-    {
-      "added_at": "2024-09-27 04:00:00",
-      "album": {
-        "name": "Throwing Bows",
-        "url": "https://open.spotify.com/album/4eK0tskh6kKkNny0wRrqg3"
-      },
-      "artists": [
-        {
-          "name": "Monaleo",
-          "url": "https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb"
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
         },
         {
-          "name": "Sauce Walka",
-          "url": "https://open.spotify.com/artist/42yf4QkiE9a252krn9OUCb"
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 144659,
-      "name": "Ee-er",
-      "url": "https://open.spotify.com/track/6j2bOHZKtXzVcytOse2Lmc"
+      "duration_ms": 225132,
+      "name": "U My Everything (feat. Drake)",
+      "url": "https://open.spotify.com/track/1TgStpMGTflN84asKJ8VU3"
     },
     {
-      "added_at": "2024-09-27 04:00:00",
+      "added_at": "2024-10-04 04:00:00",
       "album": {
         "name": "Hollon",
         "url": "https://open.spotify.com/album/1HCjvCCMusvjNzYWW0p60D"
@@ -157,31 +141,11 @@
         }
       ],
       "duration_ms": 128858,
-      "name": "Hollon",
+      "name": "HOLLON",
       "url": "https://open.spotify.com/track/6XVkJ1fM7NkjODPYI7QbAM"
     },
     {
-      "added_at": "2024-09-27 04:00:00",
-      "album": {
-        "name": "Neva Play (feat. RM of BTS)",
-        "url": "https://open.spotify.com/album/0Wmt50XH9EZvSuML0t1hlb"
-      },
-      "artists": [
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        },
-        {
-          "name": "RM",
-          "url": "https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs"
-        }
-      ],
-      "duration_ms": 157173,
-      "name": "Neva Play (feat. RM of BTS)",
-      "url": "https://open.spotify.com/track/2ZqTbIID9vFPTXaGyzbb4q"
-    },
-    {
-      "added_at": "2024-09-27 04:00:00",
+      "added_at": "2024-10-04 04:00:00",
       "album": {
         "name": "Sunday Service (feat. Megan Thee Stallion & Flo Milli)",
         "url": "https://open.spotify.com/album/2IrJlw610VJwdfYPiSG8Ae"
@@ -205,27 +169,43 @@
       "url": "https://open.spotify.com/track/7unrQrmU8i2Roc1Dkj0ST2"
     },
     {
-      "added_at": "2024-09-27 04:00:00",
+      "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "In Sexyy We Trust",
-        "url": "https://open.spotify.com/album/5PmtX9B5vNa4uaiXQVn4Gx"
+        "name": "Neva Play (feat. RM of BTS)",
+        "url": "https://open.spotify.com/album/0Wmt50XH9EZvSuML0t1hlb"
       },
       "artists": [
         {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
         },
         {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          "name": "RM",
+          "url": "https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs"
         }
       ],
-      "duration_ms": 225132,
-      "name": "U My Everything (feat. Drake)",
-      "url": "https://open.spotify.com/track/1TgStpMGTflN84asKJ8VU3"
+      "duration_ms": 157173,
+      "name": "Neva Play (feat. RM of BTS)",
+      "url": "https://open.spotify.com/track/2ZqTbIID9vFPTXaGyzbb4q"
     },
     {
-      "added_at": "2024-09-27 04:00:00",
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Is It The Way",
+        "url": "https://open.spotify.com/album/4yvcCQ6riOr6XvigkpItWN"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "duration_ms": 152973,
+      "name": "Is It The Way",
+      "url": "https://open.spotify.com/track/4aY0JD0iHm1VIAQelgYkw7"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
       "album": {
         "name": "Flush Em",
         "url": "https://open.spotify.com/album/3BiLSwYY5MYLOhpyzOWPqY"
@@ -245,7 +225,7 @@
       "url": "https://open.spotify.com/track/53hdiPtasasa17cyJFDvyw"
     },
     {
-      "added_at": "2024-09-27 04:00:00",
+      "added_at": "2024-10-04 04:00:00",
       "album": {
         "name": "Wanna Be (with Megan Thee Stallion)",
         "url": "https://open.spotify.com/album/06VGCe5MitPzT9VuqH4u1C"
@@ -265,7 +245,7 @@
       "url": "https://open.spotify.com/track/0Izt8MdEU7zDy2hDsm5YkH"
     },
     {
-      "added_at": "2024-09-27 04:00:00",
+      "added_at": "2024-10-04 04:00:00",
       "album": {
         "name": "Hot Girl Maybach",
         "url": "https://open.spotify.com/album/7nVTJT6oLE0KEZ7KspkxjC"
@@ -281,7 +261,7 @@
       "url": "https://open.spotify.com/track/5UHGNDDDc7XxGsF6ZcQs9I"
     },
     {
-      "added_at": "2024-09-27 04:00:00",
+      "added_at": "2024-10-04 04:00:00",
       "album": {
         "name": "Never Lose Me",
         "url": "https://open.spotify.com/album/4K5YnziH8o3NoEsxv8zviL"
@@ -297,23 +277,7 @@
       "url": "https://open.spotify.com/track/6uTPdRrEDeH8Fyg5L5qmeU"
     },
     {
-      "added_at": "2024-09-27 04:00:00",
-      "album": {
-        "name": "Nasty",
-        "url": "https://open.spotify.com/album/1vMVDUsMWaD5eB4oahCboP"
-      },
-      "artists": [
-        {
-          "name": "Tinashe",
-          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
-        }
-      ],
-      "duration_ms": 176027,
-      "name": "Nasty",
-      "url": "https://open.spotify.com/track/6NjWCIYu1W8xa3HIvcIhd4"
-    },
-    {
-      "added_at": "2024-09-27 04:00:00",
+      "added_at": "2024-10-04 04:00:00",
       "album": {
         "name": "NISSAN ALTIMA",
         "url": "https://open.spotify.com/album/3P3ODJQfeECySRtPV8cJBZ"
@@ -329,7 +293,23 @@
       "url": "https://open.spotify.com/track/0fsgieABBLYkx6rk5N3JUD"
     },
     {
-      "added_at": "2024-09-27 04:00:00",
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Nasty",
+        "url": "https://open.spotify.com/album/1vMVDUsMWaD5eB4oahCboP"
+      },
+      "artists": [
+        {
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+        }
+      ],
+      "duration_ms": 176027,
+      "name": "Nasty",
+      "url": "https://open.spotify.com/track/6NjWCIYu1W8xa3HIvcIhd4"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
       "album": {
         "name": "Scarlet",
         "url": "https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl"
@@ -345,7 +325,7 @@
       "url": "https://open.spotify.com/track/7dJYggqjKo71KI9sLzqCs8"
     },
     {
-      "added_at": "2024-09-27 04:00:00",
+      "added_at": "2024-10-04 04:00:00",
       "album": {
         "name": "Now You See Me",
         "url": "https://open.spotify.com/album/6WFa2y2gaNb7561mFsYG7T"
@@ -361,7 +341,7 @@
       "url": "https://open.spotify.com/track/7nn4MXs89QymmNzRreTywe"
     },
     {
-      "added_at": "2024-09-27 04:00:00",
+      "added_at": "2024-10-04 04:00:00",
       "album": {
         "name": "PRINCESS POP THAT",
         "url": "https://open.spotify.com/album/0aMQ5jGWMxqIOB5JjhOU3a"
@@ -381,27 +361,7 @@
       "url": "https://open.spotify.com/track/0WGLtCw9w9ZjCBqvY8rXCL"
     },
     {
-      "added_at": "2024-09-27 04:00:00",
-      "album": {
-        "name": "MEGAN",
-        "url": "https://open.spotify.com/album/0FzWvaeMBfKBCqxHTLVlB8"
-      },
-      "artists": [
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        },
-        {
-          "name": "\u5343\u8449\u96c4\u559c",
-          "url": "https://open.spotify.com/artist/6Qhgat07PNOdnJSnCXJigu"
-        }
-      ],
-      "duration_ms": 156988,
-      "name": "Mamushi (feat. Yuki Chiba)",
-      "url": "https://open.spotify.com/track/5b3XJ1pjrHO5JtY2PcTjnI"
-    },
-    {
-      "added_at": "2024-09-27 04:00:00",
+      "added_at": "2024-10-04 04:00:00",
       "album": {
         "name": "Pink Friday 2",
         "url": "https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2"
@@ -417,7 +377,7 @@
       "url": "https://open.spotify.com/track/1a73gcEg6h6Re6hHXoVltJ"
     },
     {
-      "added_at": "2024-09-27 04:00:00",
+      "added_at": "2024-10-04 04:00:00",
       "album": {
         "name": "Did It First (with Central Cee)",
         "url": "https://open.spotify.com/album/1SiWjniEb94wSFZ5YjZDHr"
@@ -437,7 +397,43 @@
       "url": "https://open.spotify.com/track/57lsYy0OZLNb5OQ7fEa3Hs"
     },
     {
-      "added_at": "2024-09-27 04:00:00",
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "MEGAN",
+        "url": "https://open.spotify.com/album/0FzWvaeMBfKBCqxHTLVlB8"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        },
+        {
+          "name": "\u5343\u8449\u96c4\u559c",
+          "url": "https://open.spotify.com/artist/6Qhgat07PNOdnJSnCXJigu"
+        }
+      ],
+      "duration_ms": 156988,
+      "name": "Mamushi (feat. Yuki Chiba)",
+      "url": "https://open.spotify.com/track/5b3XJ1pjrHO5JtY2PcTjnI"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Yea Yea",
+        "url": "https://open.spotify.com/album/32kB87vZ7B8xYXjM3i4B3h"
+      },
+      "artists": [
+        {
+          "name": "STAR BANDZ",
+          "url": "https://open.spotify.com/artist/5qhDQveADDnjIZQ85AtgDM"
+        }
+      ],
+      "duration_ms": 121887,
+      "name": "Yea Yea",
+      "url": "https://open.spotify.com/track/2VIJ6TJoMNc0KeXgrCUSLu"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
       "album": {
         "name": "Don Who Leo",
         "url": "https://open.spotify.com/album/4DkigH1XDNwEBW3WHcdoEK"
@@ -453,7 +449,7 @@
       "url": "https://open.spotify.com/track/1cyTVV6UFeoazuBGX3MXFw"
     },
     {
-      "added_at": "2024-09-27 04:00:00",
+      "added_at": "2024-10-04 04:00:00",
       "album": {
         "name": "U Kno What To Do (UKWTD)",
         "url": "https://open.spotify.com/album/2MBtDCT8SgVFw5VHU8lWX7"
@@ -469,7 +465,7 @@
       "url": "https://open.spotify.com/track/1ZrzdArzDJj71mCOFa2qmV"
     },
     {
-      "added_at": "2024-09-27 04:00:00",
+      "added_at": "2024-10-04 04:00:00",
       "album": {
         "name": "Yeah Glo!",
         "url": "https://open.spotify.com/album/4C6tr5dhwjMXTLkWL86Rqa"
@@ -485,23 +481,7 @@
       "url": "https://open.spotify.com/track/0SdBkFh6u5IHIXqlBu0NyI"
     },
     {
-      "added_at": "2024-09-27 04:00:00",
-      "album": {
-        "name": "WOKE UP",
-        "url": "https://open.spotify.com/album/2e9eizo3Euh2aaBef2B2bw"
-      },
-      "artists": [
-        {
-          "name": "XG",
-          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
-        }
-      ],
-      "duration_ms": 188010,
-      "name": "WOKE UP",
-      "url": "https://open.spotify.com/track/4keuUM29CtIWgsPRzRhXoW"
-    },
-    {
-      "added_at": "2024-09-27 04:00:00",
+      "added_at": "2024-10-04 04:00:00",
       "album": {
         "name": "Not My Problem (Flyer Than U)",
         "url": "https://open.spotify.com/album/6G6eCUDFNO5A8rgWrxKddR"
@@ -517,7 +497,7 @@
       "url": "https://open.spotify.com/track/1T6dUV1mqXyA2bSP3lK0IZ"
     },
     {
-      "added_at": "2024-09-27 04:00:00",
+      "added_at": "2024-10-04 04:00:00",
       "album": {
         "name": "Tell Ur Girlfriend",
         "url": "https://open.spotify.com/album/0S8DGX9LmBkRSVi3ywcCOT"
@@ -533,23 +513,27 @@
       "url": "https://open.spotify.com/track/3lMzT16MjAKKXF7pSZn13B"
     },
     {
-      "added_at": "2024-09-27 04:00:00",
+      "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "MEGAN",
-        "url": "https://open.spotify.com/album/0FzWvaeMBfKBCqxHTLVlB8"
+        "name": "Throwing Bows",
+        "url": "https://open.spotify.com/album/4eK0tskh6kKkNny0wRrqg3"
       },
       "artists": [
         {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+          "name": "Monaleo",
+          "url": "https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb"
+        },
+        {
+          "name": "Sauce Walka",
+          "url": "https://open.spotify.com/artist/42yf4QkiE9a252krn9OUCb"
         }
       ],
-      "duration_ms": 158663,
-      "name": "Otaku Hot Girl",
-      "url": "https://open.spotify.com/track/6saYisCUAZXc505blie9kZ"
+      "duration_ms": 144659,
+      "name": "Ee-er",
+      "url": "https://open.spotify.com/track/6j2bOHZKtXzVcytOse2Lmc"
     },
     {
-      "added_at": "2024-09-27 04:00:00",
+      "added_at": "2024-10-04 04:00:00",
       "album": {
         "name": "Big Mama",
         "url": "https://open.spotify.com/album/48QEe8MSJns89FcFSzSfky"
@@ -565,7 +549,39 @@
       "url": "https://open.spotify.com/track/5NVOE8wRgmgNGTJNys871J"
     },
     {
-      "added_at": "2024-09-27 04:00:00",
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "MEGAN",
+        "url": "https://open.spotify.com/album/0FzWvaeMBfKBCqxHTLVlB8"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "duration_ms": 158663,
+      "name": "Otaku Hot Girl",
+      "url": "https://open.spotify.com/track/6saYisCUAZXc505blie9kZ"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "WOKE UP",
+        "url": "https://open.spotify.com/album/2e9eizo3Euh2aaBef2B2bw"
+      },
+      "artists": [
+        {
+          "name": "XG",
+          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
+        }
+      ],
+      "duration_ms": 188010,
+      "name": "WOKE UP",
+      "url": "https://open.spotify.com/track/4keuUM29CtIWgsPRzRhXoW"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
       "album": {
         "name": "Pink Friday 2",
         "url": "https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2"
@@ -585,7 +601,7 @@
       "url": "https://open.spotify.com/track/5ZJGv7aGdIr9IGpxzSG18T"
     },
     {
-      "added_at": "2024-09-27 04:00:00",
+      "added_at": "2024-10-04 04:00:00",
       "album": {
         "name": "Alter Ego (with JT)",
         "url": "https://open.spotify.com/album/3CvGbx2f7ZMoUZLz8ZjOQd"
@@ -605,7 +621,7 @@
       "url": "https://open.spotify.com/track/2xaaJcmvMOmpDbTwlWnjFh"
     },
     {
-      "added_at": "2024-09-27 04:00:00",
+      "added_at": "2024-10-04 04:00:00",
       "album": {
         "name": "After Hours",
         "url": "https://open.spotify.com/album/062urW4KS66GPlEHIueefz"
@@ -621,7 +637,7 @@
       "url": "https://open.spotify.com/track/2x03XLsTZ0o86h0cfHrkKF"
     },
     {
-      "added_at": "2024-09-27 04:00:00",
+      "added_at": "2024-10-04 04:00:00",
       "album": {
         "name": "City Cinderella",
         "url": "https://open.spotify.com/album/66HrXUpGRlJdwXIw7B9SQI"
@@ -637,7 +653,7 @@
       "url": "https://open.spotify.com/track/3Ur9zMHlzsCTnuEW9vXNyT"
     },
     {
-      "added_at": "2024-09-27 04:00:00",
+      "added_at": "2024-10-04 04:00:00",
       "album": {
         "name": "Jump",
         "url": "https://open.spotify.com/album/4xbpCWaXMdAaDvEKAi02PX"
@@ -661,7 +677,7 @@
       "url": "https://open.spotify.com/track/0ve0CavjqrUqVmZ605RhTV"
     },
     {
-      "added_at": "2024-09-27 04:00:00",
+      "added_at": "2024-10-04 04:00:00",
       "album": {
         "name": "Bad Boys: Ride Or Die Soundtrack",
         "url": "https://open.spotify.com/album/5ZeYTX0MWneFbHTk7mZd9l"
@@ -677,7 +693,7 @@
       "url": "https://open.spotify.com/track/10gY0uKOkUD7Kz3utYykZ7"
     },
     {
-      "added_at": "2024-09-27 04:00:00",
+      "added_at": "2024-10-04 04:00:00",
       "album": {
         "name": "Like What (Freestyle)",
         "url": "https://open.spotify.com/album/5lkEeOxdNc0SYt91lz7miv"
@@ -693,7 +709,7 @@
       "url": "https://open.spotify.com/track/3ytbtkmMnkfwMrBi32a7FD"
     },
     {
-      "added_at": "2024-09-27 04:00:00",
+      "added_at": "2024-10-04 04:00:00",
       "album": {
         "name": "Extra",
         "url": "https://open.spotify.com/album/2TALbqpMCkY81EYSlzO3xo"
@@ -713,7 +729,7 @@
       "url": "https://open.spotify.com/track/4QoR7gJ9h4TAhkgCsK8pfK"
     },
     {
-      "added_at": "2024-09-27 04:00:00",
+      "added_at": "2024-10-04 04:00:00",
       "album": {
         "name": "IT GIRL",
         "url": "https://open.spotify.com/album/6Dbkq4a0KggLhGxxt8p1lH"
@@ -729,7 +745,7 @@
       "url": "https://open.spotify.com/track/4wQmwPWCUn6gi11Gep2qsP"
     },
     {
-      "added_at": "2024-09-27 04:00:00",
+      "added_at": "2024-10-04 04:00:00",
       "album": {
         "name": "My Best",
         "url": "https://open.spotify.com/album/6Jntu9qLC1fkwjDFm9hWMK"
@@ -745,7 +761,7 @@
       "url": "https://open.spotify.com/track/3qAMlVUvNZVpxA85pFPxOT"
     },
     {
-      "added_at": "2024-09-27 04:00:00",
+      "added_at": "2024-10-04 04:00:00",
       "album": {
         "name": "BOA",
         "url": "https://open.spotify.com/album/0oXRheajSwu5UTpcDzloop"
@@ -761,7 +777,23 @@
       "url": "https://open.spotify.com/track/3tUwmCcdunuXKwHu8u2aBn"
     },
     {
-      "added_at": "2024-09-27 04:00:00",
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Hood Hottest Princess",
+        "url": "https://open.spotify.com/album/6uoGeT623i76TwlgYFfe42"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 130707,
+      "name": "Looking For The Hoes (Ain\u2019t My Fault)",
+      "url": "https://open.spotify.com/track/4LadsagnXZM7SEOpHjHIHA"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
       "album": {
         "name": "Wet Dreams (feat. coop & gg)",
         "url": "https://open.spotify.com/album/65NAjD3jks0YWWLVkl2VnO"
@@ -785,7 +817,7 @@
       "url": "https://open.spotify.com/track/20LfID5lY83tDZAHZqpFtC"
     },
     {
-      "added_at": "2024-09-27 04:00:00",
+      "added_at": "2024-10-04 04:00:00",
       "album": {
         "name": "Alligator Bites Never Heal",
         "url": "https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc"
@@ -801,7 +833,7 @@
       "url": "https://open.spotify.com/track/3QQvSQKV8YmQxGolwwWe59"
     },
     {
-      "added_at": "2024-09-27 04:00:00",
+      "added_at": "2024-10-04 04:00:00",
       "album": {
         "name": "No One Else (feat. Jeremih)",
         "url": "https://open.spotify.com/album/68eKgnFOq19PENZkcJ5grM"
@@ -821,7 +853,7 @@
       "url": "https://open.spotify.com/track/5zr6snM3WQRoYC0QfnD9n7"
     },
     {
-      "added_at": "2024-09-27 04:00:00",
+      "added_at": "2024-10-04 04:00:00",
       "album": {
         "name": "TYLA",
         "url": "https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE"
@@ -837,7 +869,7 @@
       "url": "https://open.spotify.com/track/7axl6v0Yv4ksLVMt6XItpc"
     },
     {
-      "added_at": "2024-09-27 04:00:00",
+      "added_at": "2024-10-04 04:00:00",
       "album": {
         "name": "Scarlet 2 CLAUDE",
         "url": "https://open.spotify.com/album/2IUoE0jqkViW6gGfqLcjG2"
@@ -851,38 +883,6 @@
       "duration_ms": 169066,
       "name": "OKLOSER",
       "url": "https://open.spotify.com/track/3Vlt0DKYBK0h3Vf92nywhp"
-    },
-    {
-      "added_at": "2024-09-27 04:00:00",
-      "album": {
-        "name": "Hood Hottest Princess",
-        "url": "https://open.spotify.com/album/6uoGeT623i76TwlgYFfe42"
-      },
-      "artists": [
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 130707,
-      "name": "Looking For The Hoes (Ain\u2019t My Fault)",
-      "url": "https://open.spotify.com/track/4LadsagnXZM7SEOpHjHIHA"
-    },
-    {
-      "added_at": "2024-09-27 04:00:00",
-      "album": {
-        "name": "Different Color Stones",
-        "url": "https://open.spotify.com/album/2qYEpKKguukYifo8ksbxcl"
-      },
-      "artists": [
-        {
-          "name": "TiaCorine",
-          "url": "https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW"
-        }
-      ],
-      "duration_ms": 141754,
-      "name": "Different Color Stones",
-      "url": "https://open.spotify.com/track/5KsQoGiUey27gt0topwkz4"
     }
   ],
   "unique_name": "Feelin' Myself",

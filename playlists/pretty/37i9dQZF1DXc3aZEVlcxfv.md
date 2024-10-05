@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc3aZEVlcxfv.md) - [plain]
 
 > I am blessed!
 
-[Spotify](https://open.spotify.com/user/spotify) - 279 likes - 50 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 616 likes - 50 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc3aZEVlcxfv.md) - [plain]
 | 26 | [I Have Decided To Follow Jesus](https://open.spotify.com/track/6briCXTsGwU0Mfx87T5LXm) | [Jadon Lavik](https://open.spotify.com/artist/4LIG4IMVuzGJjAhMxXtll1) | [I Have Decided To Follow Jesus \- Single](https://open.spotify.com/album/71401Xfgja31gy4HIlOQwK) | 3:08 |
 | 27 | [Adonai](https://open.spotify.com/track/7axctArGc7dtaEJSl3IZge) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn) | [Names of God](https://open.spotify.com/album/3WCZbOcvzRlzyEnRVPtKQF) | 8:31 |
 | 28 | [Dependable God \(Medley\)](https://open.spotify.com/track/0nFJXe8v5S5J6Jihb33RkN) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Dependable God \(Medley\)](https://open.spotify.com/album/7CzRW6l3bcarSQ8w1wAoKj) | 3:52 |
-| 29 | [On Christ the Solid Rock](https://open.spotify.com/track/7f76fuhNITKqRtUJaTXnzE) | [Vinesong](https://open.spotify.com/artist/2GBZhtZkXs2SjxoGJSWLo6) | [Our God Reigns](https://open.spotify.com/album/2goNu8zaAUIhrKnhMmLpya) | 2:58 |
-| 30 | [Spirit Chant](https://open.spotify.com/track/6SmLWZs2HkAX17zcvFGcln) | [Victoria Orenze](https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso) | [Spirit Chant](https://open.spotify.com/album/7FzNCkKKqToJjJGXFhWkrf) | 10:10 |
+| 29 | [Spirit Chant](https://open.spotify.com/track/6SmLWZs2HkAX17zcvFGcln) | [Victoria Orenze](https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso) | [Spirit Chant](https://open.spotify.com/album/7FzNCkKKqToJjJGXFhWkrf) | 10:10 |
+| 30 | [On Christ the Solid Rock](https://open.spotify.com/track/7f76fuhNITKqRtUJaTXnzE) | [Vinesong](https://open.spotify.com/artist/2GBZhtZkXs2SjxoGJSWLo6) | [Our God Reigns](https://open.spotify.com/album/2goNu8zaAUIhrKnhMmLpya) | 2:58 |
 | 31 | [Wonder](https://open.spotify.com/track/7lu3WaqWNpyipOU14owmub) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Elevated](https://open.spotify.com/album/0G4EjDz1aJ77Cry03hGIqg) | 3:54 |
 | 32 | [All That Matters](https://open.spotify.com/track/7aDw6ABFrazUlM4PRfUYLI) | [Minister GUC](https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL) | [The Message](https://open.spotify.com/album/4Ms9jXii2uQWm8mjxvnqLd) | 6:10 |
 | 33 | [The Blessing \(Live\)](https://open.spotify.com/track/5O306r2a9Nl7rm5ZlaTqka) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2), [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [Graves Into Gardens \(Live\)](https://open.spotify.com/album/3obyvHd0Ja2gZaPQMerTU6) | 8:27 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc3aZEVlcxfv.md) - [plain]
 | 46 | [Under The Canopy](https://open.spotify.com/track/59SR0FpZzENp1Xa5yXExzW) | [Frank Edwards](https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg) | [Under The Canopy](https://open.spotify.com/album/0m4KXfassO1hsCsQBnQBkb) | 5:13 |
 | 47 | [Reckless Love](https://open.spotify.com/track/0rH0mprtecH3grD9HFM5AD) | [Cory Asbury](https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU) | [Reckless Love](https://open.spotify.com/album/63fUIyRGFTFdVlDMTT5tLB) | 5:33 |
 | 48 | [Sisi Ni Wale](https://open.spotify.com/track/7fw4Nzwa0FB7Qwu3zyFaY9) | [Phina](https://open.spotify.com/artist/1gFTuZHiQgl5NAgqNEK2Rl) | [Sisi Ni Wale](https://open.spotify.com/album/62kTShyCsFUxCyrqcs5Rb3) | 3:48 |
-| 49 | [Gratitude](https://open.spotify.com/track/0cXV6AoJBnrnrXK0toJHpB) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [House Of Miracles](https://open.spotify.com/album/0UJqeXmYE9Bs5jxXL0tCtW) | 5:37 |
-| 50 | [My Jesus](https://open.spotify.com/track/2ryEDwlc0i1KSjFXggX6hG) | [Anthem Worship](https://open.spotify.com/artist/71LGmy4toAaXKJP7IK8xvG), [Remnant House](https://open.spotify.com/artist/0oCYQlLFMypU2RxjCRvpgR), [Mass Anthem](https://open.spotify.com/artist/0KVR8D2dx5Td8ONhNZRLkM) | [My Jesus](https://open.spotify.com/album/6UEazzBMYexzHKaoQVMvRl) | 3:19 |
+| 49 | [My Jesus](https://open.spotify.com/track/2ryEDwlc0i1KSjFXggX6hG) | [Anthem Worship](https://open.spotify.com/artist/71LGmy4toAaXKJP7IK8xvG), [Remnant House](https://open.spotify.com/artist/0oCYQlLFMypU2RxjCRvpgR), [Mass Anthem](https://open.spotify.com/artist/0KVR8D2dx5Td8ONhNZRLkM) | [My Jesus](https://open.spotify.com/album/6UEazzBMYexzHKaoQVMvRl) | 3:19 |
+| 50 | [Gratitude](https://open.spotify.com/track/0cXV6AoJBnrnrXK0toJHpB) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [House Of Miracles](https://open.spotify.com/album/0UJqeXmYE9Bs5jxXL0tCtW) | 5:37 |
 
 Snapshot ID: `Zv8wPAAAAABI3AOM+Z2NEcEwO1LV77tS`

@@ -2,9 +2,9 @@
 
 ### [This Is HARDY](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3rPchT)
 
-> This is HARDY\. The essential tracks, all in one playlist.
+> This is HARDY\. Tutti i brani in un'unica playlist.
 
-116 songs - 6 hr 27 min
+117 songs - 6 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [I AIN'T IN THE COUNTRY NO MORE](https://open.spotify.com/track/0RI2PWj7erLkPnA11N3Vn9) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [the mockingbird & THE CROW](https://open.spotify.com/album/6Oynwy3OABCiAqN9w9UqBN) | 4:14 | 2023-02-08 | 2023-08-07 |
 | [I DON'T MISS](https://open.spotify.com/track/0m22YjrIi3UzD0XpSS9pW4) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [Quit!!](https://open.spotify.com/album/0zzZdwpH6br3OJ6po0nu8e) | 2:33 | 2024-07-14 | 2024-08-07 |
 | [I'LL QUIT LOVIN' YOU](https://open.spotify.com/track/0A0xAsq5n8A3CQufm7JF3v) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [WHERE TO FIND ME](https://open.spotify.com/album/1ODlC6LpJ2Pw0MDawMtEsB) | 3:27 | 2023-02-08 | 2024-07-27 |
+| [I'LL QUIT LOVIN' YOU](https://open.spotify.com/track/7CZzjj7siHfqvWnbSqEfXw) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [WHERE TO FIND ME](https://open.spotify.com/album/36XfuyICPjeP7EJVbuo7WF) | 3:27 | 2024-10-05 |  |
 | [In Love With My Problems \(feat\. Jon Pardi\)](https://open.spotify.com/track/4JzBPOh3OALX4vneDcPzOL) | [Larry Fleet](https://open.spotify.com/artist/6MWr1SmTaCU5BJzOZxwJEw), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy), [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [Stack of Records](https://open.spotify.com/album/7AzZB0UHZtWu7Ya8yQN3iW) | 3:03 | 2023-02-08 | 2024-07-27 |
 | [In The Bible \(feat\. HARDY\)](https://open.spotify.com/track/2aw1aEAxMe05MZIS5XiK8U) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [One Thing At A Time](https://open.spotify.com/album/6i7mF7whyRJuLJ4ogbH2wh) | 3:15 | 2023-03-04 |  |
 | [JACK](https://open.spotify.com/track/189D3XLBjj2YTCTD6QKdJY) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [JACK](https://open.spotify.com/album/46dR56iHGOs4sN5CAOfZnc) | 2:48 | 2023-02-08 | 2023-03-18 |
@@ -122,7 +123,7 @@
 | [WHYBMWL](https://open.spotify.com/track/7E3BoCMKxdeW7ZqxnL0zs1) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [Quit!!](https://open.spotify.com/album/0zzZdwpH6br3OJ6po0nu8e) | 3:13 | 2024-07-14 |  |
 | [Y’all Boys](https://open.spotify.com/track/1NJnv7vvUZ5xM1DIWbngmN) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [Can't Say I Ain't Country](https://open.spotify.com/album/64nhe9s692yKECAoMcEQ8U) | 2:32 | 2023-02-08 |  |
 | [zombieland \(feat\. HARDY\)](https://open.spotify.com/track/3xGi8NYBHKM8mKsheBWV0G) | [Jax](https://open.spotify.com/artist/7DQYAz99eM3Y5PkP9WtUew), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [zombieland \(feat\. HARDY\)](https://open.spotify.com/album/1HB5u33KcIukGAlu6lTu2Y) | 3:12 | 2024-05-19 | 2024-07-09 |
-| [zombieland \(feat\. HARDY\)](https://open.spotify.com/track/5hTz0E9uieW4dl6YF34yMy) | [Jax](https://open.spotify.com/artist/7DQYAz99eM3Y5PkP9WtUew), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [Dear Joe,](https://open.spotify.com/album/5S9KGKorBFNaLxpviyydiI) | 3:12 | 2024-07-27 |  |
+| [zombieland \(feat\. HARDY\)](https://open.spotify.com/track/5hTz0E9uieW4dl6YF34yMy) | [Jax](https://open.spotify.com/artist/7DQYAz99eM3Y5PkP9WtUew), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [Dear Joe,](https://open.spotify.com/album/5S9KGKorBFNaLxpviyydiI) | 3:12 | 2024-07-27 | 2024-10-05 |
 | [zombieland \(feat\. HARDY\)](https://open.spotify.com/track/2RtIK8NXQr9hILPatp9qrh) | [Jax](https://open.spotify.com/artist/7DQYAz99eM3Y5PkP9WtUew), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [zombieland \(feat\. HARDY\)](https://open.spotify.com/album/1melLSxJUfXvY7sDZv1U6Z) | 3:12 | 2024-05-10 | 2024-05-19 |
 
 \*This playlist was first scraped on 2023-02-09. Prior content cannot be recovered.

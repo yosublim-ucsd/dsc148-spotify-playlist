@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4173ENNA5eMzHrz9pipvxI.md) - [plain]
 
 > New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover: Blasterjaxx &amp; Timmy Trumpet
 
-[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 120,216 likes - 16 songs - 45 min 53 sec
+[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 120,221 likes - 16 songs - 45 min 53 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,4 +25,4 @@ pretty - [cumulative](/playlists/cumulative/4173ENNA5eMzHrz9pipvxI.md) - [plain]
 | 15 | [Elbows \(feat\. Trozé\)](https://open.spotify.com/track/3p0z5sooMDJyprzbm9JD3N) | [illusionize](https://open.spotify.com/artist/3RloA7E4XMItSP4FjMBv3L), [Troze](https://open.spotify.com/artist/55P3gPnko8eY36IyUHC5gF) | [Elbows \(feat\. Trozé\)](https://open.spotify.com/album/65ebxZ9lVdUnhWT94Okw7K) | 2:44 |
 | 16 | [I'm Too Sexy \(Eric Kupper Remix\)](https://open.spotify.com/track/79luzgoRfJUmHakzks602J) | [MaWayy](https://open.spotify.com/artist/6p6hgLendP25D8QRQINsPp), [Right Said Fred](https://open.spotify.com/artist/15ajdFAi5bjj5pS9laBfBL), [Eric Kupper](https://open.spotify.com/artist/2ATkDceAaeLUkxPnJPHGkz) | [I'm Too Sexy \(Eric Kupper Remix\)](https://open.spotify.com/album/3zeM8aaMzhu4imh09FQ5fi) | 4:01 |
 
-Snapshot ID: `AAAePmCtpi2sHpXPqF2Gej8l1kKaRyhA`
+Snapshot ID: `AAAeP80A5yaA73omqZBQAOzQMn9ZWeAa`

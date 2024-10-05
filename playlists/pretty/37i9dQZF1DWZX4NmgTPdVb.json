@@ -1,6 +1,6 @@
 {
   "description": "The songs of the 1970s that will make you dance all summer long!",
-  "num_followers": 265055,
+  "num_followers": 265176,
   "original_name": "Summer Hits of the 70s",
   "owner": {
     "name": "Spotify",
@@ -467,22 +467,6 @@
     {
       "added_at": "2024-03-22 15:16:12",
       "album": {
-        "name": "Born to Be Alive (The Original)",
-        "url": "https://open.spotify.com/album/0kVK9lFFTzhnEb4ETElbCD"
-      },
-      "artists": [
-        {
-          "name": "Patrick Hernandez",
-          "url": "https://open.spotify.com/artist/1CcEgi464SWZsKY5579u7z"
-        }
-      ],
-      "duration_ms": 188133,
-      "name": "Born to Be Alive - The Original",
-      "url": "https://open.spotify.com/track/3XIEWK1V9n25PS9Vb6axj5"
-    },
-    {
-      "added_at": "2024-03-22 15:16:12",
-      "album": {
         "name": "Rejoice",
         "url": "https://open.spotify.com/album/7iJCy3T66FJmXT7LGVd3QA"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 220560,
       "name": "Best of My Love",
       "url": "https://open.spotify.com/track/2M2WJ7gBlcKNxdhyfPp9zY"
+    },
+    {
+      "added_at": "2024-03-22 15:16:12",
+      "album": {
+        "name": "Born to Be Alive (The Original)",
+        "url": "https://open.spotify.com/album/0kVK9lFFTzhnEb4ETElbCD"
+      },
+      "artists": [
+        {
+          "name": "Patrick Hernandez",
+          "url": "https://open.spotify.com/artist/1CcEgi464SWZsKY5579u7z"
+        }
+      ],
+      "duration_ms": 188133,
+      "name": "Born to Be Alive - The Original",
+      "url": "https://open.spotify.com/track/3XIEWK1V9n25PS9Vb6axj5"
     },
     {
       "added_at": "2024-03-22 15:16:12",
@@ -871,22 +871,6 @@
     {
       "added_at": "2024-03-22 15:16:12",
       "album": {
-        "name": "Kaya",
-        "url": "https://open.spotify.com/album/13dXX35pYjr8FqRla40K2a"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        }
-      ],
-      "duration_ms": 298506,
-      "name": "Sun Is Shining",
-      "url": "https://open.spotify.com/track/2pZJhvpin385eqAFRp3ASJ"
-    },
-    {
-      "added_at": "2024-03-22 15:16:12",
-      "album": {
         "name": "Fire And Water",
         "url": "https://open.spotify.com/album/1ydlm89JR8cV8VuSaNvHNL"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 330643,
       "name": "All Right Now",
       "url": "https://open.spotify.com/track/1gcESexgftSuLuML57Y69q"
+    },
+    {
+      "added_at": "2024-03-22 15:16:12",
+      "album": {
+        "name": "Kaya",
+        "url": "https://open.spotify.com/album/13dXX35pYjr8FqRla40K2a"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "duration_ms": 298506,
+      "name": "Sun Is Shining",
+      "url": "https://open.spotify.com/track/2pZJhvpin385eqAFRp3ASJ"
     },
     {
       "added_at": "2024-03-22 15:16:12",
@@ -967,22 +967,6 @@
     {
       "added_at": "2024-03-22 15:16:12",
       "album": {
-        "name": "Chicago V (Expanded & Remastered)",
-        "url": "https://open.spotify.com/album/2oSXXINsWGuEsc4udgWxh8"
-      },
-      "artists": [
-        {
-          "name": "Chicago",
-          "url": "https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0"
-        }
-      ],
-      "duration_ms": 235666,
-      "name": "Saturday in the Park - 2002 Remaster",
-      "url": "https://open.spotify.com/track/4OJFkrRQqol4FsPesF8eu4"
-    },
-    {
-      "added_at": "2024-03-22 15:16:12",
-      "album": {
         "name": "Tapestry",
         "url": "https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS"
       },
@@ -999,18 +983,18 @@
     {
       "added_at": "2024-03-22 15:16:12",
       "album": {
-        "name": "Commodores",
-        "url": "https://open.spotify.com/album/2tzbNCAUTmW4MIM2Ulvrwl"
+        "name": "Chicago V (Expanded & Remastered)",
+        "url": "https://open.spotify.com/album/2oSXXINsWGuEsc4udgWxh8"
       },
       "artists": [
         {
-          "name": "Commodores",
-          "url": "https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm"
+          "name": "Chicago",
+          "url": "https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0"
         }
       ],
-      "duration_ms": 208893,
-      "name": "Brick House",
-      "url": "https://open.spotify.com/track/5VJjhHyG8NZ5xdgG6uTb3P"
+      "duration_ms": 235666,
+      "name": "Saturday in the Park - 2002 Remaster",
+      "url": "https://open.spotify.com/track/4OJFkrRQqol4FsPesF8eu4"
     },
     {
       "added_at": "2024-03-22 15:16:12",
@@ -1027,6 +1011,22 @@
       "duration_ms": 249600,
       "name": "I'm Every Woman",
       "url": "https://open.spotify.com/track/1oFiPGBafH9Woo9AMwgBSl"
+    },
+    {
+      "added_at": "2024-03-22 15:16:12",
+      "album": {
+        "name": "Commodores",
+        "url": "https://open.spotify.com/album/2tzbNCAUTmW4MIM2Ulvrwl"
+      },
+      "artists": [
+        {
+          "name": "Commodores",
+          "url": "https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm"
+        }
+      ],
+      "duration_ms": 208893,
+      "name": "Brick House",
+      "url": "https://open.spotify.com/track/5VJjhHyG8NZ5xdgG6uTb3P"
     },
     {
       "added_at": "2024-03-22 15:16:12",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2024-03-22 15:16:12",
       "album": {
+        "name": "Ladies of the Canyon",
+        "url": "https://open.spotify.com/album/7JOdtLDLyXJIppDRB7kxr9"
+      },
+      "artists": [
+        {
+          "name": "Joni Mitchell",
+          "url": "https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve"
+        }
+      ],
+      "duration_ms": 134800,
+      "name": "Big Yellow Taxi",
+      "url": "https://open.spotify.com/track/6UkMcAA19lTdjs22jtB7o2"
+    },
+    {
+      "added_at": "2024-03-22 15:16:12",
+      "album": {
         "name": "Risqu\u00e9",
         "url": "https://open.spotify.com/album/1UFBJkKiBe3Lzjr307UhuU"
       },
@@ -1127,38 +1143,6 @@
     {
       "added_at": "2024-03-22 15:16:12",
       "album": {
-        "name": "Ladies of the Canyon",
-        "url": "https://open.spotify.com/album/7JOdtLDLyXJIppDRB7kxr9"
-      },
-      "artists": [
-        {
-          "name": "Joni Mitchell",
-          "url": "https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve"
-        }
-      ],
-      "duration_ms": 134800,
-      "name": "Big Yellow Taxi",
-      "url": "https://open.spotify.com/track/6UkMcAA19lTdjs22jtB7o2"
-    },
-    {
-      "added_at": "2024-03-22 15:16:12",
-      "album": {
-        "name": "Cruisin'",
-        "url": "https://open.spotify.com/album/3kdp1PnxkKlshMP3qG2CUG"
-      },
-      "artists": [
-        {
-          "name": "Village People",
-          "url": "https://open.spotify.com/artist/0dCKce6tJJdHvlWnDMwzPW"
-        }
-      ],
-      "duration_ms": 286666,
-      "name": "Y.M.C.A.",
-      "url": "https://open.spotify.com/track/4YOJFyjqh8eAcbKFfv88mV"
-    },
-    {
-      "added_at": "2024-03-22 15:16:12",
-      "album": {
         "name": "Machine Head",
         "url": "https://open.spotify.com/album/1EK3a0Yctg4d3nGQzE4Uty"
       },
@@ -1171,22 +1155,6 @@
       "duration_ms": 342173,
       "name": "Smoke on the Water",
       "url": "https://open.spotify.com/track/5SAUIWdZ04OxYfJFDchC7S"
-    },
-    {
-      "added_at": "2024-03-22 15:16:12",
-      "album": {
-        "name": "How Can You Mend A Broken Heart",
-        "url": "https://open.spotify.com/album/4vAhQeeWkSjVn0p5GAaLBx"
-      },
-      "artists": [
-        {
-          "name": "Bee Gees",
-          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
-        }
-      ],
-      "duration_ms": 212800,
-      "name": "Night Fever - From \"Saturday Night Fever\" Soundtrack",
-      "url": "https://open.spotify.com/track/0qemIQjSxcKyf42VPfZnfa"
     },
     {
       "added_at": "2024-03-22 15:16:12",
@@ -1207,18 +1175,50 @@
     {
       "added_at": "2024-03-22 15:16:12",
       "album": {
-        "name": "Seals & Crofts' Greatest Hits",
-        "url": "https://open.spotify.com/album/4dkdQY484elFRfcVNY6uzj"
+        "name": "Cruisin'",
+        "url": "https://open.spotify.com/album/3kdp1PnxkKlshMP3qG2CUG"
       },
       "artists": [
         {
-          "name": "Seals and Crofts",
-          "url": "https://open.spotify.com/artist/6jdObwsrIjSRnBbMw6lPBj"
+          "name": "Village People",
+          "url": "https://open.spotify.com/artist/0dCKce6tJJdHvlWnDMwzPW"
         }
       ],
-      "duration_ms": 205480,
-      "name": "Summer Breeze",
-      "url": "https://open.spotify.com/track/01UYpHuzHi4eB9PAbDoPY2"
+      "duration_ms": 286666,
+      "name": "Y.M.C.A.",
+      "url": "https://open.spotify.com/track/4YOJFyjqh8eAcbKFfv88mV"
+    },
+    {
+      "added_at": "2024-03-22 15:16:12",
+      "album": {
+        "name": "How Can You Mend A Broken Heart",
+        "url": "https://open.spotify.com/album/4vAhQeeWkSjVn0p5GAaLBx"
+      },
+      "artists": [
+        {
+          "name": "Bee Gees",
+          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
+        }
+      ],
+      "duration_ms": 212800,
+      "name": "Night Fever - From \"Saturday Night Fever\" Soundtrack",
+      "url": "https://open.spotify.com/track/0qemIQjSxcKyf42VPfZnfa"
+    },
+    {
+      "added_at": "2024-03-22 15:16:12",
+      "album": {
+        "name": "Naturally",
+        "url": "https://open.spotify.com/album/2v8XEhOPoKX7iVWq5mWWBM"
+      },
+      "artists": [
+        {
+          "name": "Three Dog Night",
+          "url": "https://open.spotify.com/artist/4FAEZeJcsYYBkNq2D3KGTV"
+        }
+      ],
+      "duration_ms": 220573,
+      "name": "Joy To The World",
+      "url": "https://open.spotify.com/track/2ymeOsYijJz09LfKw3yM2x"
     }
   ],
   "unique_name": "Summer Hits of the 70s",

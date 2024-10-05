@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4iJL4k.md) - [plain]
 
 > This is Filipe Ret\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 272,876 likes - 51 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 273,000 likes - 51 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4iJL4k.md) - [plain]
 | 47 | [EU SOU O TREM](https://open.spotify.com/track/7cHfnWEkL5KqfLg03G7Gic) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [LITTLE HAIR](https://open.spotify.com/album/1KAZ4CtfGW7JgVvh6lq30V) | 3:45 |
 | 48 | [Dentro de Você](https://open.spotify.com/track/15kW9fqlnorhFhzJosKu0F) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ) | [Dentro de Você](https://open.spotify.com/album/5wSXLd7oIgwI6LGo3e0QzH) | 3:55 |
 | 49 | [Vizão de Cria 3](https://open.spotify.com/track/7BE8gYIIFPJsx3EjXk77yT) | [Caio Luccas](https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL), [PJ HOUDINI](https://open.spotify.com/artist/3nfVTPYDnppERKGCRS4vim), [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Anezzi](https://open.spotify.com/artist/1RaUlYy9nsEiDlucisa5Bk), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7), [MC Maneirinho](https://open.spotify.com/artist/3M8aD9XWxfel3jZakRbibZ), [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW) | [Vizão de Cria 3](https://open.spotify.com/album/1g1yMCBXSznyHPyf2YAK0l) | 5:24 |
-| 50 | [Richard Mille](https://open.spotify.com/track/3MNNDtNV2IUJRVBrBs07Cp) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Victor WAO](https://open.spotify.com/artist/1ew4rMO5r0Oon1R9xZxo8Q), [HHR](https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu) | [IRRASTREÁVEL](https://open.spotify.com/album/02xKTYrVQ1gSN8Lo4w7JmG) | 3:11 |
-| 51 | [Acende a Vela](https://open.spotify.com/track/4aTa2DgvWg9njylIa5KMl7) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [WEY](https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk) | [Imaterial \(Deluxe\)](https://open.spotify.com/album/74v9BLECHPqKGRLfa24LRn) | 2:48 |
+| 50 | [Acende a Vela](https://open.spotify.com/track/4aTa2DgvWg9njylIa5KMl7) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [WEY](https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk) | [Imaterial \(Deluxe\)](https://open.spotify.com/album/74v9BLECHPqKGRLfa24LRn) | 2:48 |
+| 51 | [Richard Mille](https://open.spotify.com/track/3MNNDtNV2IUJRVBrBs07Cp) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Victor WAO](https://open.spotify.com/artist/1ew4rMO5r0Oon1R9xZxo8Q), [HHR](https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu) | [IRRASTREÁVEL](https://open.spotify.com/album/02xKTYrVQ1gSN8Lo4w7JmG) | 3:11 |
 
-Snapshot ID: `ZvyNAAAAAAAgyGx6nfpBLOIbLDgLnreb`
+Snapshot ID: `Zv3egAAAAAA6MFtnuDU6YzkwM1xEjI2O`

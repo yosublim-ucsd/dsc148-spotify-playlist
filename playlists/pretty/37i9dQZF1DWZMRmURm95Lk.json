@@ -1,6 +1,6 @@
 {
   "description": "Beat e rime, oggi come una volta. Club Dogo in cover.",
-  "num_followers": 43082,
+  "num_followers": 43102,
   "original_name": "Radici Hip-Hop",
   "owner": {
     "name": "Spotify",
@@ -555,18 +555,26 @@
     {
       "added_at": "2024-09-26 22:01:00",
       "album": {
-        "name": "Musica Cicatrene",
-        "url": "https://open.spotify.com/album/2lT5pe1rUrrhzLY0AYvu5d"
+        "name": "Sedicinoni",
+        "url": "https://open.spotify.com/album/7tIWAR5flU4Qej47dd5zOV"
       },
       "artists": [
         {
-          "name": "Mezzosangue",
-          "url": "https://open.spotify.com/artist/63isdzBiMOaYkMiX6XddfB"
+          "name": "Jack The Smoker",
+          "url": "https://open.spotify.com/artist/0vZAzVAFQL1gKLBPfnXMaS"
+        },
+        {
+          "name": "Big Joe",
+          "url": "https://open.spotify.com/artist/4J0rxYDON5UzQSrZpS5adI"
+        },
+        {
+          "name": "Massimo Pericolo",
+          "url": "https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq"
         }
       ],
-      "duration_ms": 173253,
-      "name": "STILL PROUD (Scratch Dj Shocca)",
-      "url": "https://open.spotify.com/track/6DGUt4w8zj493XLikmxC2r"
+      "duration_ms": 176470,
+      "name": "Quadrato (feat. Massimo Pericolo)",
+      "url": "https://open.spotify.com/track/7t1zhYgyeLNXfcxSHGlGU9"
     },
     {
       "added_at": "2024-09-26 22:01:00",
@@ -651,26 +659,18 @@
     {
       "added_at": "2024-09-26 22:01:00",
       "album": {
-        "name": "Sedicinoni",
-        "url": "https://open.spotify.com/album/7tIWAR5flU4Qej47dd5zOV"
+        "name": "Musica Cicatrene",
+        "url": "https://open.spotify.com/album/2lT5pe1rUrrhzLY0AYvu5d"
       },
       "artists": [
         {
-          "name": "Jack The Smoker",
-          "url": "https://open.spotify.com/artist/0vZAzVAFQL1gKLBPfnXMaS"
-        },
-        {
-          "name": "Big Joe",
-          "url": "https://open.spotify.com/artist/4J0rxYDON5UzQSrZpS5adI"
-        },
-        {
-          "name": "Massimo Pericolo",
-          "url": "https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq"
+          "name": "Mezzosangue",
+          "url": "https://open.spotify.com/artist/63isdzBiMOaYkMiX6XddfB"
         }
       ],
-      "duration_ms": 176470,
-      "name": "Quadrato (feat. Massimo Pericolo)",
-      "url": "https://open.spotify.com/track/7t1zhYgyeLNXfcxSHGlGU9"
+      "duration_ms": 173253,
+      "name": "STILL PROUD (Scratch Dj Shocca)",
+      "url": "https://open.spotify.com/track/6DGUt4w8zj493XLikmxC2r"
     },
     {
       "added_at": "2024-09-26 22:01:00",
@@ -811,46 +811,6 @@
     {
       "added_at": "2024-09-26 22:01:00",
       "album": {
-        "name": "Numero zero ep",
-        "url": "https://open.spotify.com/album/3XDfQm5UcWmaxSvax7r5ha"
-      },
-      "artists": [
-        {
-          "name": "Nerone",
-          "url": "https://open.spotify.com/artist/7kG6A2lZMXeaD5YkubF5Kn"
-        },
-        {
-          "name": "Biggie Paul",
-          "url": "https://open.spotify.com/artist/1OyAhAPFH8Z4bIJewzy3mE"
-        },
-        {
-          "name": "Nitro",
-          "url": "https://open.spotify.com/artist/6jQZzWW3JlEtcRDSzFVKSP"
-        }
-      ],
-      "duration_ms": 160574,
-      "name": "Lasciami solo",
-      "url": "https://open.spotify.com/track/4neRbVUtymiGGS8rhhofvB"
-    },
-    {
-      "added_at": "2024-09-26 22:01:00",
-      "album": {
-        "name": "Verano Zombie",
-        "url": "https://open.spotify.com/album/5Nd8JR6mCH4ePxGWjhcJvV"
-      },
-      "artists": [
-        {
-          "name": "Noyz Narcos",
-          "url": "https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY"
-        }
-      ],
-      "duration_ms": 163626,
-      "name": "Quelle Notti",
-      "url": "https://open.spotify.com/track/4xXwGmvUUT69n1xoaKxucB"
-    },
-    {
-      "added_at": "2024-09-26 22:01:00",
-      "album": {
         "name": "Fritz",
         "url": "https://open.spotify.com/album/71OwUP6CTR5Kzsv6T9jcl0"
       },
@@ -871,6 +831,46 @@
       "duration_ms": 219104,
       "name": "With Or Without It",
       "url": "https://open.spotify.com/track/6RqplPMqcfjFWvlqPycNDe"
+    },
+    {
+      "added_at": "2024-09-26 22:01:00",
+      "album": {
+        "name": "Verano Zombie",
+        "url": "https://open.spotify.com/album/5Nd8JR6mCH4ePxGWjhcJvV"
+      },
+      "artists": [
+        {
+          "name": "Noyz Narcos",
+          "url": "https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY"
+        }
+      ],
+      "duration_ms": 163626,
+      "name": "Quelle Notti",
+      "url": "https://open.spotify.com/track/4xXwGmvUUT69n1xoaKxucB"
+    },
+    {
+      "added_at": "2024-09-26 22:01:00",
+      "album": {
+        "name": "Numero zero ep",
+        "url": "https://open.spotify.com/album/3XDfQm5UcWmaxSvax7r5ha"
+      },
+      "artists": [
+        {
+          "name": "Nerone",
+          "url": "https://open.spotify.com/artist/7kG6A2lZMXeaD5YkubF5Kn"
+        },
+        {
+          "name": "Biggie Paul",
+          "url": "https://open.spotify.com/artist/1OyAhAPFH8Z4bIJewzy3mE"
+        },
+        {
+          "name": "Nitro",
+          "url": "https://open.spotify.com/artist/6jQZzWW3JlEtcRDSzFVKSP"
+        }
+      ],
+      "duration_ms": 160574,
+      "name": "Lasciami solo",
+      "url": "https://open.spotify.com/track/4neRbVUtymiGGS8rhhofvB"
     },
     {
       "added_at": "2024-09-26 22:01:00",
@@ -991,26 +991,6 @@
     {
       "added_at": "2024-09-26 22:01:00",
       "album": {
-        "name": "Ferro del mestiere",
-        "url": "https://open.spotify.com/album/3MmCBPYzRAiMZc5tFMu0NL"
-      },
-      "artists": [
-        {
-          "name": "Jake La Furia",
-          "url": "https://open.spotify.com/artist/6JFRI91YaCXREGQYzHSnUH"
-        },
-        {
-          "name": "Emis Killa",
-          "url": "https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G"
-        }
-      ],
-      "duration_ms": 130593,
-      "name": "Yeah (feat. Emis Killa)",
-      "url": "https://open.spotify.com/track/2CxCmoViEZSnWZU60K4tW3"
-    },
-    {
-      "added_at": "2024-09-26 22:01:00",
-      "album": {
         "name": "Musica Eterna",
         "url": "https://open.spotify.com/album/5ritGnvfEDvOGq3Tu3aadT"
       },
@@ -1031,6 +1011,26 @@
     {
       "added_at": "2024-09-26 22:01:00",
       "album": {
+        "name": "Ferro del mestiere",
+        "url": "https://open.spotify.com/album/3MmCBPYzRAiMZc5tFMu0NL"
+      },
+      "artists": [
+        {
+          "name": "Jake La Furia",
+          "url": "https://open.spotify.com/artist/6JFRI91YaCXREGQYzHSnUH"
+        },
+        {
+          "name": "Emis Killa",
+          "url": "https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G"
+        }
+      ],
+      "duration_ms": 130593,
+      "name": "Yeah (feat. Emis Killa)",
+      "url": "https://open.spotify.com/track/2CxCmoViEZSnWZU60K4tW3"
+    },
+    {
+      "added_at": "2024-09-26 22:01:00",
+      "album": {
         "name": "Heavy Metal",
         "url": "https://open.spotify.com/album/1vw8sbkCqUAyXJfEFSGI6f"
       },
@@ -1043,46 +1043,6 @@
       "duration_ms": 236573,
       "name": "Un mestiere qualunque",
       "url": "https://open.spotify.com/track/68OwzL0UGfgIKTpn0p1azy"
-    },
-    {
-      "added_at": "2024-09-26 22:01:00",
-      "album": {
-        "name": "Lettering Chicano",
-        "url": "https://open.spotify.com/album/2iKRemKxzwzQo1rvbKciuT"
-      },
-      "artists": [
-        {
-          "name": "DJ Skizo",
-          "url": "https://open.spotify.com/artist/22ZKZgLocbcA5rGu5KgXBZ"
-        },
-        {
-          "name": "Jangy Leeon",
-          "url": "https://open.spotify.com/artist/1WTZw0SzZvDGPqO9uYkFx7"
-        },
-        {
-          "name": "Murubutu",
-          "url": "https://open.spotify.com/artist/1UAY1hWd5x69hPVXMXIeri"
-        }
-      ],
-      "duration_ms": 154666,
-      "name": "Lettering Chicano",
-      "url": "https://open.spotify.com/track/4J1yVvGR9HZfcUhw5t2nsh"
-    },
-    {
-      "added_at": "2024-09-26 22:01:00",
-      "album": {
-        "name": "Marracash",
-        "url": "https://open.spotify.com/album/6FruZpllb4sNFIQ8i6hr7B"
-      },
-      "artists": [
-        {
-          "name": "Marracash",
-          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
-        }
-      ],
-      "duration_ms": 265840,
-      "name": "Chiedi Alla Polvere 2008",
-      "url": "https://open.spotify.com/track/6ycbD7mOJ5ZmdgAWaf7fXG"
     },
     {
       "added_at": "2024-09-26 22:01:00",
@@ -1111,6 +1071,46 @@
       "duration_ms": 219053,
       "name": "MILANO BY NIGHT (feat. Jake La Furia & Emis Killa)",
       "url": "https://open.spotify.com/track/35eg1LKLGpEjsgbYurh5xL"
+    },
+    {
+      "added_at": "2024-09-26 22:01:00",
+      "album": {
+        "name": "Marracash",
+        "url": "https://open.spotify.com/album/6FruZpllb4sNFIQ8i6hr7B"
+      },
+      "artists": [
+        {
+          "name": "Marracash",
+          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
+        }
+      ],
+      "duration_ms": 265840,
+      "name": "Chiedi Alla Polvere 2008",
+      "url": "https://open.spotify.com/track/6ycbD7mOJ5ZmdgAWaf7fXG"
+    },
+    {
+      "added_at": "2024-09-26 22:01:00",
+      "album": {
+        "name": "Lettering Chicano",
+        "url": "https://open.spotify.com/album/2iKRemKxzwzQo1rvbKciuT"
+      },
+      "artists": [
+        {
+          "name": "DJ Skizo",
+          "url": "https://open.spotify.com/artist/22ZKZgLocbcA5rGu5KgXBZ"
+        },
+        {
+          "name": "Jangy Leeon",
+          "url": "https://open.spotify.com/artist/1WTZw0SzZvDGPqO9uYkFx7"
+        },
+        {
+          "name": "Murubutu",
+          "url": "https://open.spotify.com/artist/1UAY1hWd5x69hPVXMXIeri"
+        }
+      ],
+      "duration_ms": 154666,
+      "name": "Lettering Chicano",
+      "url": "https://open.spotify.com/track/4J1yVvGR9HZfcUhw5t2nsh"
     },
     {
       "added_at": "2024-09-26 22:01:00",
@@ -1215,30 +1215,6 @@
     {
       "added_at": "2024-09-26 22:01:00",
       "album": {
-        "name": "Disertore",
-        "url": "https://open.spotify.com/album/04v0GY5PNVHIJjhmDTlNGW"
-      },
-      "artists": [
-        {
-          "name": "DJ Skizo",
-          "url": "https://open.spotify.com/artist/22ZKZgLocbcA5rGu5KgXBZ"
-        },
-        {
-          "name": "Colle Der Fomento",
-          "url": "https://open.spotify.com/artist/7582dstv99hhZhryUNCn3u"
-        },
-        {
-          "name": "Dj Baro",
-          "url": "https://open.spotify.com/artist/5MwhzzkTUrx7HzFqreGMoj"
-        }
-      ],
-      "duration_ms": 201333,
-      "name": "Disertore",
-      "url": "https://open.spotify.com/track/1d3GzThn2EwfTO8LARoQzT"
-    },
-    {
-      "added_at": "2024-09-26 22:01:00",
-      "album": {
         "name": "Neffa E I Messaggeri Della Dopa - Remastered 2021",
         "url": "https://open.spotify.com/album/3l2WnzMd3rByRRvFqI8UX2"
       },
@@ -1315,6 +1291,30 @@
       "duration_ms": 202666,
       "name": "Purple Haze",
       "url": "https://open.spotify.com/track/4o7olxYueLIX4Kzy4tfg4a"
+    },
+    {
+      "added_at": "2024-09-26 22:01:00",
+      "album": {
+        "name": "Disertore",
+        "url": "https://open.spotify.com/album/04v0GY5PNVHIJjhmDTlNGW"
+      },
+      "artists": [
+        {
+          "name": "DJ Skizo",
+          "url": "https://open.spotify.com/artist/22ZKZgLocbcA5rGu5KgXBZ"
+        },
+        {
+          "name": "Colle Der Fomento",
+          "url": "https://open.spotify.com/artist/7582dstv99hhZhryUNCn3u"
+        },
+        {
+          "name": "Dj Baro",
+          "url": "https://open.spotify.com/artist/5MwhzzkTUrx7HzFqreGMoj"
+        }
+      ],
+      "duration_ms": 201333,
+      "name": "Disertore",
+      "url": "https://open.spotify.com/track/1d3GzThn2EwfTO8LARoQzT"
     },
     {
       "added_at": "2024-09-26 22:01:00",
@@ -1419,6 +1419,38 @@
     {
       "added_at": "2024-09-26 22:01:00",
       "album": {
+        "name": "SXM",
+        "url": "https://open.spotify.com/album/5JVXc3bFttHELmo19la6dL"
+      },
+      "artists": [
+        {
+          "name": "Sangue Misto",
+          "url": "https://open.spotify.com/artist/2aLBxDxa6Mt4i36cUY7lTL"
+        }
+      ],
+      "duration_ms": 250786,
+      "name": "Lo straniero",
+      "url": "https://open.spotify.com/track/6ne3ofJbU2NZQCrzvZPaEh"
+    },
+    {
+      "added_at": "2024-09-26 22:01:00",
+      "album": {
+        "name": "CAPITAN PRESENTE",
+        "url": "https://open.spotify.com/album/0c8OB9DN5l6b7uw6eNMtMd"
+      },
+      "artists": [
+        {
+          "name": "Mezzosangue",
+          "url": "https://open.spotify.com/artist/63isdzBiMOaYkMiX6XddfB"
+        }
+      ],
+      "duration_ms": 120746,
+      "name": "CAPITAN PRESENTE",
+      "url": "https://open.spotify.com/track/1HUfGuLTRF56qn8EZHQ6j0"
+    },
+    {
+      "added_at": "2024-09-26 22:01:00",
+      "album": {
         "name": "Portami lontano",
         "url": "https://open.spotify.com/album/20l63Ki5O4fMMKlNy2MIdg"
       },
@@ -1443,38 +1475,6 @@
       "duration_ms": 201818,
       "name": "Portami lontano",
       "url": "https://open.spotify.com/track/1iWumdzVHTdebdSLqhIh02"
-    },
-    {
-      "added_at": "2024-09-26 22:01:00",
-      "album": {
-        "name": "CAPITAN PRESENTE",
-        "url": "https://open.spotify.com/album/0c8OB9DN5l6b7uw6eNMtMd"
-      },
-      "artists": [
-        {
-          "name": "Mezzosangue",
-          "url": "https://open.spotify.com/artist/63isdzBiMOaYkMiX6XddfB"
-        }
-      ],
-      "duration_ms": 120746,
-      "name": "CAPITAN PRESENTE",
-      "url": "https://open.spotify.com/track/1HUfGuLTRF56qn8EZHQ6j0"
-    },
-    {
-      "added_at": "2024-09-26 22:01:00",
-      "album": {
-        "name": "SXM",
-        "url": "https://open.spotify.com/album/5JVXc3bFttHELmo19la6dL"
-      },
-      "artists": [
-        {
-          "name": "Sangue Misto",
-          "url": "https://open.spotify.com/artist/2aLBxDxa6Mt4i36cUY7lTL"
-        }
-      ],
-      "duration_ms": 250786,
-      "name": "Lo straniero",
-      "url": "https://open.spotify.com/track/6ne3ofJbU2NZQCrzvZPaEh"
     },
     {
       "added_at": "2024-09-26 22:01:00",
@@ -1583,6 +1583,22 @@
     {
       "added_at": "2024-09-26 22:01:00",
       "album": {
+        "name": "Nuova Forma",
+        "url": "https://open.spotify.com/album/5CAxhDrQzlRVSWZHj8zPUs"
+      },
+      "artists": [
+        {
+          "name": "Davide Shorty",
+          "url": "https://open.spotify.com/artist/5nZ6WgYH6mSPf2YaKXOZso"
+        }
+      ],
+      "duration_ms": 199365,
+      "name": "Nuova Forma",
+      "url": "https://open.spotify.com/track/5kdVto9S0QQwZXyfn3J0oH"
+    },
+    {
+      "added_at": "2024-09-26 22:01:00",
+      "album": {
         "name": "Neurodeliri 2024",
         "url": "https://open.spotify.com/album/68oOfd51ZVekGtvxR17RnZ"
       },
@@ -1603,22 +1619,6 @@
       "duration_ms": 176470,
       "name": "Neurodeliri 2024",
       "url": "https://open.spotify.com/track/2GbXcZNDy5naiSe5OTN3Cb"
-    },
-    {
-      "added_at": "2024-09-26 22:01:00",
-      "album": {
-        "name": "Perfect Days",
-        "url": "https://open.spotify.com/album/6JNqm2o3YaGMfWmwGzCkuA"
-      },
-      "artists": [
-        {
-          "name": "Rak",
-          "url": "https://open.spotify.com/artist/3tnVct3V6mIWk5FnBGCuVt"
-        }
-      ],
-      "duration_ms": 162666,
-      "name": "Perfect Days",
-      "url": "https://open.spotify.com/track/6Gma5OTVHAbNHmRe95O3xI"
     },
     {
       "added_at": "2024-09-26 22:01:00",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2024-09-26 22:01:00",
       "album": {
-        "name": "Dio lodato",
-        "url": "https://open.spotify.com/album/1LYlr506rnjgDipxwXwkzV"
-      },
-      "artists": [
-        {
-          "name": "Joe Cassano",
-          "url": "https://open.spotify.com/artist/5ZPb4m701cVcj87M0qbqtL"
-        }
-      ],
-      "duration_ms": 260183,
-      "name": "Dio lodato per sta chanche",
-      "url": "https://open.spotify.com/track/114hZLY1cAfvd9gFaDAxoN"
-    },
-    {
-      "added_at": "2024-09-26 22:01:00",
-      "album": {
         "name": "SXM",
         "url": "https://open.spotify.com/album/5JVXc3bFttHELmo19la6dL"
       },
@@ -1679,34 +1663,34 @@
     {
       "added_at": "2024-09-26 22:01:00",
       "album": {
-        "name": "Chico Pisco",
-        "url": "https://open.spotify.com/album/1jrbZu9ir8N5jydnX9hURa"
+        "name": "Dio lodato",
+        "url": "https://open.spotify.com/album/1LYlr506rnjgDipxwXwkzV"
       },
       "artists": [
         {
-          "name": "Neffa",
-          "url": "https://open.spotify.com/artist/54dqxLAclwu0QSaTwCyCaF"
+          "name": "Joe Cassano",
+          "url": "https://open.spotify.com/artist/5ZPb4m701cVcj87M0qbqtL"
         }
       ],
-      "duration_ms": 222186,
-      "name": "L'Incognita",
-      "url": "https://open.spotify.com/track/36pzqH7yKnD8re2r17CUwF"
+      "duration_ms": 260183,
+      "name": "Dio lodato per sta chanche",
+      "url": "https://open.spotify.com/track/114hZLY1cAfvd9gFaDAxoN"
     },
     {
       "added_at": "2024-09-26 22:01:00",
       "album": {
-        "name": "Nuova Forma",
-        "url": "https://open.spotify.com/album/5CAxhDrQzlRVSWZHj8zPUs"
+        "name": "Perfect Days",
+        "url": "https://open.spotify.com/album/6JNqm2o3YaGMfWmwGzCkuA"
       },
       "artists": [
         {
-          "name": "Davide Shorty",
-          "url": "https://open.spotify.com/artist/5nZ6WgYH6mSPf2YaKXOZso"
+          "name": "Rak",
+          "url": "https://open.spotify.com/artist/3tnVct3V6mIWk5FnBGCuVt"
         }
       ],
-      "duration_ms": 199365,
-      "name": "Nuova Forma",
-      "url": "https://open.spotify.com/track/5kdVto9S0QQwZXyfn3J0oH"
+      "duration_ms": 162666,
+      "name": "Perfect Days",
+      "url": "https://open.spotify.com/track/6Gma5OTVHAbNHmRe95O3xI"
     },
     {
       "added_at": "2024-09-26 22:01:00",
@@ -1727,6 +1711,22 @@
       "duration_ms": 121874,
       "name": "Delacroix",
       "url": "https://open.spotify.com/track/0mW9Y9YZqGKCON2QJ1HSbB"
+    },
+    {
+      "added_at": "2024-09-26 22:01:00",
+      "album": {
+        "name": "Chico Pisco",
+        "url": "https://open.spotify.com/album/1jrbZu9ir8N5jydnX9hURa"
+      },
+      "artists": [
+        {
+          "name": "Neffa",
+          "url": "https://open.spotify.com/artist/54dqxLAclwu0QSaTwCyCaF"
+        }
+      ],
+      "duration_ms": 222186,
+      "name": "L'Incognita",
+      "url": "https://open.spotify.com/track/36pzqH7yKnD8re2r17CUwF"
     },
     {
       "added_at": "2024-09-26 22:01:00",
@@ -1763,26 +1763,6 @@
     {
       "added_at": "2024-09-26 22:01:00",
       "album": {
-        "name": "Amore puro",
-        "url": "https://open.spotify.com/album/4ghCrqj3HwLzKeeqAfO4rD"
-      },
-      "artists": [
-        {
-          "name": "Inoki",
-          "url": "https://open.spotify.com/artist/0nKxW51VOD6px2uMM4ehfF"
-        },
-        {
-          "name": "Norick",
-          "url": "https://open.spotify.com/artist/6QpEp4wXCGHehb8OeyqUDo"
-        }
-      ],
-      "duration_ms": 204081,
-      "name": "Amore puro",
-      "url": "https://open.spotify.com/track/17beKSnTNuVjiQd2lIOonB"
-    },
-    {
-      "added_at": "2024-09-26 22:01:00",
-      "album": {
         "name": "BASTA SESSION N\u00b01",
         "url": "https://open.spotify.com/album/3OmHIlmFZS8ntlMN3uUunp"
       },
@@ -1815,6 +1795,26 @@
       "duration_ms": 158394,
       "name": "BASTA SESSION N\u00b01",
       "url": "https://open.spotify.com/track/05zm3yVavcLtevyhsCgOO3"
+    },
+    {
+      "added_at": "2024-09-26 22:01:00",
+      "album": {
+        "name": "Amore puro",
+        "url": "https://open.spotify.com/album/4ghCrqj3HwLzKeeqAfO4rD"
+      },
+      "artists": [
+        {
+          "name": "Inoki",
+          "url": "https://open.spotify.com/artist/0nKxW51VOD6px2uMM4ehfF"
+        },
+        {
+          "name": "Norick",
+          "url": "https://open.spotify.com/artist/6QpEp4wXCGHehb8OeyqUDo"
+        }
+      ],
+      "duration_ms": 204081,
+      "name": "Amore puro",
+      "url": "https://open.spotify.com/track/17beKSnTNuVjiQd2lIOonB"
     },
     {
       "added_at": "2024-09-26 22:01:00",
@@ -2307,34 +2307,6 @@
     {
       "added_at": "2024-09-26 22:01:00",
       "album": {
-        "name": "Prima che sfaso",
-        "url": "https://open.spotify.com/album/4gFaHLGVGSvGMuezPz6BlS"
-      },
-      "artists": [
-        {
-          "name": "DJ Skizo",
-          "url": "https://open.spotify.com/artist/22ZKZgLocbcA5rGu5KgXBZ"
-        },
-        {
-          "name": "Inoki",
-          "url": "https://open.spotify.com/artist/0nKxW51VOD6px2uMM4ehfF"
-        },
-        {
-          "name": "Nerone",
-          "url": "https://open.spotify.com/artist/7kG6A2lZMXeaD5YkubF5Kn"
-        },
-        {
-          "name": "Dj Ghost aka Steeni",
-          "url": "https://open.spotify.com/artist/6ztRFZRLvogVldoYGP8PGO"
-        }
-      ],
-      "duration_ms": 151409,
-      "name": "Prima che sfaso",
-      "url": "https://open.spotify.com/track/591GgFJ87VKpYRnsdKtNn4"
-    },
-    {
-      "added_at": "2024-09-26 22:01:00",
-      "album": {
         "name": "Disco Inverno",
         "url": "https://open.spotify.com/album/7ahoWKetSziBPjNTbs9xLe"
       },
@@ -2383,6 +2355,34 @@
       "duration_ms": 235329,
       "name": "Pallottole Sull'Amore (feat. Fabri Fibra)",
       "url": "https://open.spotify.com/track/5ZgSHdkSfuTZcO157LTxuz"
+    },
+    {
+      "added_at": "2024-09-26 22:01:00",
+      "album": {
+        "name": "Prima che sfaso",
+        "url": "https://open.spotify.com/album/4gFaHLGVGSvGMuezPz6BlS"
+      },
+      "artists": [
+        {
+          "name": "DJ Skizo",
+          "url": "https://open.spotify.com/artist/22ZKZgLocbcA5rGu5KgXBZ"
+        },
+        {
+          "name": "Inoki",
+          "url": "https://open.spotify.com/artist/0nKxW51VOD6px2uMM4ehfF"
+        },
+        {
+          "name": "Nerone",
+          "url": "https://open.spotify.com/artist/7kG6A2lZMXeaD5YkubF5Kn"
+        },
+        {
+          "name": "Dj Ghost aka Steeni",
+          "url": "https://open.spotify.com/artist/6ztRFZRLvogVldoYGP8PGO"
+        }
+      ],
+      "duration_ms": 151409,
+      "name": "Prima che sfaso",
+      "url": "https://open.spotify.com/track/591GgFJ87VKpYRnsdKtNn4"
     },
     {
       "added_at": "2024-09-26 22:01:00",
@@ -2667,30 +2667,6 @@
     {
       "added_at": "2024-09-26 22:01:00",
       "album": {
-        "name": "Delorean",
-        "url": "https://open.spotify.com/album/66RJpmsJezgMhz1MegmyZe"
-      },
-      "artists": [
-        {
-          "name": "DJ Fede",
-          "url": "https://open.spotify.com/artist/7Jvp6QTJqEQqdRXP389Pm8"
-        },
-        {
-          "name": "Willie Peyote",
-          "url": "https://open.spotify.com/artist/00CsjN69YCczmdW0bDKaCC"
-        },
-        {
-          "name": "Dj Tsura",
-          "url": "https://open.spotify.com/artist/7lne06t55Q9jZAR7Cg81lD"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "Delorean",
-      "url": "https://open.spotify.com/track/2BedkqoRhSUlK5XObeEAVZ"
-    },
-    {
-      "added_at": "2024-09-26 22:01:00",
-      "album": {
         "name": "FEGATO",
         "url": "https://open.spotify.com/album/08voNOMFTP8gbfUj1a8af0"
       },
@@ -2715,6 +2691,30 @@
       "duration_ms": 174000,
       "name": "Detersivo",
       "url": "https://open.spotify.com/track/4DZkasAnr7Vq9oEskZP2Ky"
+    },
+    {
+      "added_at": "2024-09-26 22:01:00",
+      "album": {
+        "name": "Delorean",
+        "url": "https://open.spotify.com/album/66RJpmsJezgMhz1MegmyZe"
+      },
+      "artists": [
+        {
+          "name": "DJ Fede",
+          "url": "https://open.spotify.com/artist/7Jvp6QTJqEQqdRXP389Pm8"
+        },
+        {
+          "name": "Willie Peyote",
+          "url": "https://open.spotify.com/artist/00CsjN69YCczmdW0bDKaCC"
+        },
+        {
+          "name": "Dj Tsura",
+          "url": "https://open.spotify.com/artist/7lne06t55Q9jZAR7Cg81lD"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "Delorean",
+      "url": "https://open.spotify.com/track/2BedkqoRhSUlK5XObeEAVZ"
     },
     {
       "added_at": "2024-09-26 22:01:00",
@@ -2807,6 +2807,38 @@
     {
       "added_at": "2024-09-26 22:01:00",
       "album": {
+        "name": "Deep Challenger (Reloaded Version)",
+        "url": "https://open.spotify.com/album/577TJqF08tPT4SiHV3w7FQ"
+      },
+      "artists": [
+        {
+          "name": "DJ Fede",
+          "url": "https://open.spotify.com/artist/7Jvp6QTJqEQqdRXP389Pm8"
+        },
+        {
+          "name": "Masito",
+          "url": "https://open.spotify.com/artist/6VOekI1m0svP9Z9WJ4tsuQ"
+        },
+        {
+          "name": "Il Turco",
+          "url": "https://open.spotify.com/artist/0suOr4vmNOOc03g5LLsufn"
+        },
+        {
+          "name": "Dj Double S",
+          "url": "https://open.spotify.com/artist/6dtsFkULezFnergRkRlQv0"
+        },
+        {
+          "name": "DJ Lil Cut",
+          "url": "https://open.spotify.com/artist/239ssUhwi2I11zknlfybGJ"
+        }
+      ],
+      "duration_ms": 272195,
+      "name": "Deep Challenger - Reloaded Version",
+      "url": "https://open.spotify.com/track/6VuHwT0qI2PCAgUCzxbbT1"
+    },
+    {
+      "added_at": "2024-09-26 22:01:00",
+      "album": {
         "name": "Zaffiro",
         "url": "https://open.spotify.com/album/3NnBwoPNQ3CvIPxBLyDZuh"
       },
@@ -2875,38 +2907,6 @@
     {
       "added_at": "2024-09-26 22:01:00",
       "album": {
-        "name": "Deep Challenger (Reloaded Version)",
-        "url": "https://open.spotify.com/album/577TJqF08tPT4SiHV3w7FQ"
-      },
-      "artists": [
-        {
-          "name": "DJ Fede",
-          "url": "https://open.spotify.com/artist/7Jvp6QTJqEQqdRXP389Pm8"
-        },
-        {
-          "name": "Masito",
-          "url": "https://open.spotify.com/artist/6VOekI1m0svP9Z9WJ4tsuQ"
-        },
-        {
-          "name": "Il Turco",
-          "url": "https://open.spotify.com/artist/0suOr4vmNOOc03g5LLsufn"
-        },
-        {
-          "name": "Dj Double S",
-          "url": "https://open.spotify.com/artist/6dtsFkULezFnergRkRlQv0"
-        },
-        {
-          "name": "DJ Lil Cut",
-          "url": "https://open.spotify.com/artist/239ssUhwi2I11zknlfybGJ"
-        }
-      ],
-      "duration_ms": 272195,
-      "name": "Deep Challenger - Reloaded Version",
-      "url": "https://open.spotify.com/track/6VuHwT0qI2PCAgUCzxbbT1"
-    },
-    {
-      "added_at": "2024-09-26 22:01:00",
-      "album": {
         "name": "Il Supermercato delle dittature",
         "url": "https://open.spotify.com/album/3f0bQj6OB4xM9yCOW9a3C8"
       },
@@ -2923,6 +2923,26 @@
       "duration_ms": 237000,
       "name": "Il Supermercato delle dittature",
       "url": "https://open.spotify.com/track/37tTbV5m09Nn5k6ucwIJmV"
+    },
+    {
+      "added_at": "2024-09-26 22:01:00",
+      "album": {
+        "name": "Milano Monster",
+        "url": "https://open.spotify.com/album/2anO1UBugnkwHURnxQKt20"
+      },
+      "artists": [
+        {
+          "name": "Jangy Leeon",
+          "url": "https://open.spotify.com/artist/1WTZw0SzZvDGPqO9uYkFx7"
+        },
+        {
+          "name": "Lexotan",
+          "url": "https://open.spotify.com/artist/7cm5iwu932G8LwzcTM0afg"
+        }
+      ],
+      "duration_ms": 185522,
+      "name": "Milano Monster",
+      "url": "https://open.spotify.com/track/1YeQkvyy0mnETxy1eQTEUe"
     },
     {
       "added_at": "2024-09-26 22:01:00",
@@ -2947,6 +2967,34 @@
     {
       "added_at": "2024-09-26 22:01:00",
       "album": {
+        "name": "Young Veterans - Terzo Occhio - EP",
+        "url": "https://open.spotify.com/album/1QqaaVKakZw3Wn23YCs8mo"
+      },
+      "artists": [
+        {
+          "name": "DJ Fede",
+          "url": "https://open.spotify.com/artist/7Jvp6QTJqEQqdRXP389Pm8"
+        },
+        {
+          "name": "Dafa",
+          "url": "https://open.spotify.com/artist/0XL3wakjeNxxacLlnGAqXv"
+        },
+        {
+          "name": "Inoki",
+          "url": "https://open.spotify.com/artist/0nKxW51VOD6px2uMM4ehfF"
+        },
+        {
+          "name": "DJ Bront",
+          "url": "https://open.spotify.com/artist/62vW0gU3UTCWeCaYWc1nhv"
+        }
+      ],
+      "duration_ms": 181000,
+      "name": "Tutto Deve Cambiare",
+      "url": "https://open.spotify.com/track/1YyxgxwPoPZuS98zd2p0Ew"
+    },
+    {
+      "added_at": "2024-09-26 22:01:00",
+      "album": {
         "name": "PALIFORNIA",
         "url": "https://open.spotify.com/album/4mEKiX9VzmZJGpicUczrSA"
       },
@@ -2967,26 +3015,6 @@
       "duration_ms": 155745,
       "name": "Qgino",
       "url": "https://open.spotify.com/track/7Jn9Heg6GjVSabucO9CJLN"
-    },
-    {
-      "added_at": "2024-09-26 22:01:00",
-      "album": {
-        "name": "Milano Monster",
-        "url": "https://open.spotify.com/album/2anO1UBugnkwHURnxQKt20"
-      },
-      "artists": [
-        {
-          "name": "Jangy Leeon",
-          "url": "https://open.spotify.com/artist/1WTZw0SzZvDGPqO9uYkFx7"
-        },
-        {
-          "name": "Lexotan",
-          "url": "https://open.spotify.com/artist/7cm5iwu932G8LwzcTM0afg"
-        }
-      ],
-      "duration_ms": 185522,
-      "name": "Milano Monster",
-      "url": "https://open.spotify.com/track/1YeQkvyy0mnETxy1eQTEUe"
     },
     {
       "added_at": "2024-09-26 22:01:00",
@@ -3019,34 +3047,6 @@
       "duration_ms": 283480,
       "name": "Chi more pe' mme",
       "url": "https://open.spotify.com/track/25flWdPdXnkAUnaAYiptsJ"
-    },
-    {
-      "added_at": "2024-09-26 22:01:00",
-      "album": {
-        "name": "Young Veterans - Terzo Occhio - EP",
-        "url": "https://open.spotify.com/album/1QqaaVKakZw3Wn23YCs8mo"
-      },
-      "artists": [
-        {
-          "name": "DJ Fede",
-          "url": "https://open.spotify.com/artist/7Jvp6QTJqEQqdRXP389Pm8"
-        },
-        {
-          "name": "Dafa",
-          "url": "https://open.spotify.com/artist/0XL3wakjeNxxacLlnGAqXv"
-        },
-        {
-          "name": "Inoki",
-          "url": "https://open.spotify.com/artist/0nKxW51VOD6px2uMM4ehfF"
-        },
-        {
-          "name": "DJ Bront",
-          "url": "https://open.spotify.com/artist/62vW0gU3UTCWeCaYWc1nhv"
-        }
-      ],
-      "duration_ms": 181000,
-      "name": "Tutto Deve Cambiare",
-      "url": "https://open.spotify.com/track/1YyxgxwPoPZuS98zd2p0Ew"
     },
     {
       "added_at": "2024-09-26 22:01:00",
@@ -3167,6 +3167,26 @@
     {
       "added_at": "2024-09-26 22:01:00",
       "album": {
+        "name": "Luigi XVI",
+        "url": "https://open.spotify.com/album/2UUL2KiO5wsQxH4GWpPgnR"
+      },
+      "artists": [
+        {
+          "name": "Lanz Khan",
+          "url": "https://open.spotify.com/artist/2AtGepWdw4TVBnE8cBszuL"
+        },
+        {
+          "name": "Axos",
+          "url": "https://open.spotify.com/artist/7fE7lNK6tsXhCOfYfxQ3wT"
+        }
+      ],
+      "duration_ms": 183880,
+      "name": "Hashishin (feat. Axos)",
+      "url": "https://open.spotify.com/track/0uOVYFcPUSqp3i5o6KGv5L"
+    },
+    {
+      "added_at": "2024-09-26 22:01:00",
+      "album": {
         "name": "Classe 73",
         "url": "https://open.spotify.com/album/5ojuD49ScbKa49NyxyaqMx"
       },
@@ -3187,34 +3207,6 @@
       "duration_ms": 222000,
       "name": "Giorni matti",
       "url": "https://open.spotify.com/track/0rn3RZZWJz10OQts57pnX9"
-    },
-    {
-      "added_at": "2024-09-26 22:01:00",
-      "album": {
-        "name": "TOTEM (Ultimate Edition)",
-        "url": "https://open.spotify.com/album/5WXz7x9m9JrYpS3TFsW5ux"
-      },
-      "artists": [
-        {
-          "name": "En?gma",
-          "url": "https://open.spotify.com/artist/5pbBGJlVCUzwmdfd1Q1tEX"
-        },
-        {
-          "name": "Kaiz\u00e9n",
-          "url": "https://open.spotify.com/artist/7K8Z773fJViM0yXQ8xmpsW"
-        },
-        {
-          "name": "Macaboro",
-          "url": "https://open.spotify.com/artist/7mtZP3UQaCaWhM2K8ubgF9"
-        },
-        {
-          "name": "Silent Bob",
-          "url": "https://open.spotify.com/artist/4oEO6Ud3efrjTNSR9SMleI"
-        }
-      ],
-      "duration_ms": 233363,
-      "name": "Un Bacio sulla Fronte",
-      "url": "https://open.spotify.com/track/2GMjPlQYLSPajBmj5TdTke"
     }
   ],
   "unique_name": "Radici Hip-Hop",

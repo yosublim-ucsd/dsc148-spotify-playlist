@@ -4,7 +4,7 @@
 
 > Made pa' perrear, pa' cantar y pa' brindar\. Made pa' acá y pa' allá\. Made in Colombia\. Foto: Shakira
 
-342 songs - 19 hr 11 min
+343 songs - 19 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -189,7 +189,7 @@
 | [Medellificación](https://open.spotify.com/track/00jmSvshmJtTF8m3tc7xit) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D), [Jeronimo](https://open.spotify.com/artist/1GL3jFkc6YUeQGseYHS1hC) | [Medellificación](https://open.spotify.com/album/6EOAPxFmNwLMaJ6aPmfwsP) | 3:52 | 2024-01-19 | 2024-04-05 |
 | [Mi Palabra Contra la de Ellos \- En Vivo](https://open.spotify.com/track/0sBVn4NN8VlR9WMmyZ1Cek) | [Luis Alfonso](https://open.spotify.com/artist/0GchaVw5KfSVEm0xl0OXEe) | [El Señorazo \(En Vivo\)](https://open.spotify.com/album/01eo94qU3vhVzEsgAjMLz2) | 3:01 | 2024-02-26 | 2024-06-19 |
 | [Mi Pecadito](https://open.spotify.com/track/5yrbKnKL9mKC61StX948w1) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Mi Pecadito](https://open.spotify.com/album/2YsZcOI0c1Eyo0JlDAGwXD) | 3:17 | 2023-03-17 | 2024-06-19 |
-| [Mil Vidas](https://open.spotify.com/track/6wUai114wCT3cnQh0tA9XG) | [Nico Hernández](https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip) | [Mil Vidas](https://open.spotify.com/album/3vM8nNOW9eSapGQzJeW6m8) | 2:34 | 2024-06-19 |  |
+| [Mil Vidas](https://open.spotify.com/track/6wUai114wCT3cnQh0tA9XG) | [Nico Hernández](https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip) | [Mil Vidas](https://open.spotify.com/album/3vM8nNOW9eSapGQzJeW6m8) | 2:34 | 2024-06-19 | 2024-10-05 |
 | [Millones](https://open.spotify.com/track/3YAnNBdk0uHyakXXzMbNJq) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Mis Manos](https://open.spotify.com/album/1PuH88Md0tzB8UrnBfboJA) | 3:41 | 2022-01-12 | 2024-02-27 |
 | [MIONCA](https://open.spotify.com/track/3UxRvZWhEfSJmNDsbEjKOY) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Pirlo](https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11) | [MIONCA](https://open.spotify.com/album/3jjWzpGtGBUoMEDduwVvrB) | 3:06 | 2024-05-17 | 2024-06-19 |
 | [Mirame](https://open.spotify.com/track/2btNsI4OvcVl7SAHQQDHFB) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [Mirame](https://open.spotify.com/album/5oCAS6VzHoESewtXUGMqbz) | 2:37 | 2024-06-19 |  |
@@ -263,6 +263,7 @@
 | [Quiéreme](https://open.spotify.com/track/5N99e6LuN2tknGikNAwl8n) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Quiéreme](https://open.spotify.com/album/680aKPMc7XA59sKyJ8mTCv) | 3:02 | 2022-01-12 | 2024-02-27 |
 | [Qué Lástima](https://open.spotify.com/track/0ojvxgSTugVPVlNWka3hOb) | [ChocQuibTown](https://open.spotify.com/artist/6tkyhGe9hGI3Lcfo4gVh6Z), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Qué Lástima](https://open.spotify.com/album/2JLM2HtL1xnfZ6WuJF9lgv) | 3:44 | 2022-01-12 | 2022-03-05 |
 | [Qué Más Pues?](https://open.spotify.com/track/6hf0RpxTbOprT5nnwzkk8e) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Qué Más Pues?](https://open.spotify.com/album/53ul5SFjVUQCotbJhjCkkK) | 3:37 | 2022-01-12 | 2024-03-02 |
+| [Qué Pecao](https://open.spotify.com/track/456U68M8lIymkz56Zroxh8) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [Qué Pecao](https://open.spotify.com/album/753zWh3I26DZ8pCOfJFZfA) | 3:50 | 2024-10-04 |  |
 | [Qué Pena](https://open.spotify.com/track/5099x34vBakWpGkHourFxP) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Qué Pena](https://open.spotify.com/album/1Db95k6t4rCPHSmdfsTeDl) | 3:32 | 2022-01-12 | 2024-02-27 |
 | [Q´Hubo Bebé](https://open.spotify.com/track/2TPWn36SvcFXT2lEfEvm0p) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Q´Hubo Bebé](https://open.spotify.com/album/5mENGsx78U8fn1xigykmwj) | 3:00 | 2022-05-27 | 2023-02-11 |
 | [Rara](https://open.spotify.com/track/58c299NMWH1asn2ISIpivs) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Rara](https://open.spotify.com/album/0SxFRrk8ceiqrFag2K3EbI) | 3:46 | 2023-03-31 | 2023-04-15 |

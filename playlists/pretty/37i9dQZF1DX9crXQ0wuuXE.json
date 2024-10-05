@@ -1,6 +1,6 @@
 {
   "description": "A blend of the best from years past\u2014from indie folk and pop grass to roots rock and Americana. Cover: The Lumineers",
-  "num_followers": 619318,
+  "num_followers": 619348,
   "original_name": "Roots Revival",
   "owner": {
     "name": "Spotify",
@@ -43,22 +43,6 @@
     {
       "added_at": "2024-08-28 14:08:37",
       "album": {
-        "name": "Dream Your Life Away (Special Edition)",
-        "url": "https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH"
-      },
-      "artists": [
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 204280,
-      "name": "Riptide",
-      "url": "https://open.spotify.com/track/3JvrhDOgAt6p7K8mDyZwRd"
-    },
-    {
-      "added_at": "2024-08-28 14:08:37",
-      "album": {
         "name": "This Empty Northern Hemisphere",
         "url": "https://open.spotify.com/album/06UoTVgpPiGnRPGjowrG3g"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 217466,
       "name": "Big Black Car",
       "url": "https://open.spotify.com/track/3Kj2EWpIBnvETsYq4cq0IH"
+    },
+    {
+      "added_at": "2024-08-28 14:08:37",
+      "album": {
+        "name": "Dream Your Life Away (Special Edition)",
+        "url": "https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "duration_ms": 204280,
+      "name": "Riptide",
+      "url": "https://open.spotify.com/track/3JvrhDOgAt6p7K8mDyZwRd"
     },
     {
       "added_at": "2024-08-28 14:08:37",
@@ -171,6 +171,22 @@
     {
       "added_at": "2024-08-28 14:08:37",
       "album": {
+        "name": "The Weatherman",
+        "url": "https://open.spotify.com/album/3IcfYXw7lTtLfG5XWLlSZi"
+      },
+      "artists": [
+        {
+          "name": "Gregory Alan Isakov",
+          "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
+        }
+      ],
+      "duration_ms": 198640,
+      "name": "Amsterdam",
+      "url": "https://open.spotify.com/track/7iQmjnDXYngWGsbjVnDc1U"
+    },
+    {
+      "added_at": "2024-08-28 14:08:37",
+      "album": {
         "name": "First Mind",
         "url": "https://open.spotify.com/album/0ntJpgznXrZ6Qc8wTxtcXh"
       },
@@ -183,22 +199,6 @@
       "duration_ms": 252960,
       "name": "Fever To The Form",
       "url": "https://open.spotify.com/track/1QJnDJuYOGj05iSc4eWGr5"
-    },
-    {
-      "added_at": "2024-08-28 14:08:37",
-      "album": {
-        "name": "Living Mirage",
-        "url": "https://open.spotify.com/album/27LNgTSAGxE2fitrsCukmT"
-      },
-      "artists": [
-        {
-          "name": "The Head And The Heart",
-          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
-        }
-      ],
-      "duration_ms": 196055,
-      "name": "Honeybee",
-      "url": "https://open.spotify.com/track/5CalS8Gn69OOrR9aiw0ZO9"
     },
     {
       "added_at": "2024-08-28 14:08:37",
@@ -219,18 +219,18 @@
     {
       "added_at": "2024-08-28 14:08:37",
       "album": {
-        "name": "The Weatherman",
-        "url": "https://open.spotify.com/album/3IcfYXw7lTtLfG5XWLlSZi"
+        "name": "Living Mirage",
+        "url": "https://open.spotify.com/album/27LNgTSAGxE2fitrsCukmT"
       },
       "artists": [
         {
-          "name": "Gregory Alan Isakov",
-          "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
         }
       ],
-      "duration_ms": 198640,
-      "name": "Amsterdam",
-      "url": "https://open.spotify.com/track/7iQmjnDXYngWGsbjVnDc1U"
+      "duration_ms": 196055,
+      "name": "Honeybee",
+      "url": "https://open.spotify.com/track/5CalS8Gn69OOrR9aiw0ZO9"
     },
     {
       "added_at": "2024-08-28 14:08:37",
@@ -311,22 +311,6 @@
     {
       "added_at": "2024-08-28 14:08:37",
       "album": {
-        "name": "Signs of Light",
-        "url": "https://open.spotify.com/album/0EFitK3T7hqin7iGMbpltM"
-      },
-      "artists": [
-        {
-          "name": "The Head And The Heart",
-          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
-        }
-      ],
-      "duration_ms": 225560,
-      "name": "All We Ever Knew",
-      "url": "https://open.spotify.com/track/72zmwnbXjx9fMUjw3mbDSs"
-    },
-    {
-      "added_at": "2024-08-28 14:08:37",
-      "album": {
         "name": "And It\u2019s Still Alright",
         "url": "https://open.spotify.com/album/2bWrnSJNyGevb1pr2VYEGW"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 235746,
       "name": "And It's Still Alright",
       "url": "https://open.spotify.com/track/2tRxHjEkdgGMv9kZbOyqOH"
+    },
+    {
+      "added_at": "2024-08-28 14:08:37",
+      "album": {
+        "name": "Signs of Light",
+        "url": "https://open.spotify.com/album/0EFitK3T7hqin7iGMbpltM"
+      },
+      "artists": [
+        {
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        }
+      ],
+      "duration_ms": 225560,
+      "name": "All We Ever Knew",
+      "url": "https://open.spotify.com/track/72zmwnbXjx9fMUjw3mbDSs"
     },
     {
       "added_at": "2024-08-28 14:08:37",
@@ -455,22 +455,6 @@
     {
       "added_at": "2024-08-28 14:08:37",
       "album": {
-        "name": "Hozier",
-        "url": "https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 240146,
-      "name": "Cherry Wine - Live",
-      "url": "https://open.spotify.com/track/0bZ52QzCCKfrfOqs7za6lI"
-    },
-    {
-      "added_at": "2024-08-28 14:08:37",
-      "album": {
         "name": "The Recordings of the Middle East",
         "url": "https://open.spotify.com/album/144r7yfO4RiEqyMcPmTXeJ"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 326920,
       "name": "Blood",
       "url": "https://open.spotify.com/track/13yuX1iqobZtQtq5lr8UoC"
+    },
+    {
+      "added_at": "2024-08-28 14:08:37",
+      "album": {
+        "name": "Hozier",
+        "url": "https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 240146,
+      "name": "Cherry Wine - Live",
+      "url": "https://open.spotify.com/track/0bZ52QzCCKfrfOqs7za6lI"
     },
     {
       "added_at": "2024-08-28 14:08:37",
@@ -599,22 +599,6 @@
     {
       "added_at": "2024-08-28 14:08:37",
       "album": {
-        "name": "By and By",
-        "url": "https://open.spotify.com/album/4Ib3LE6FimfhNVnY7Tc1zM"
-      },
-      "artists": [
-        {
-          "name": "Caamp",
-          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
-        }
-      ],
-      "duration_ms": 280794,
-      "name": "By and By",
-      "url": "https://open.spotify.com/track/75nZ4W6quZhI55LKiqCXWh"
-    },
-    {
-      "added_at": "2024-08-28 14:08:37",
-      "album": {
         "name": "Quietly Blowing It",
         "url": "https://open.spotify.com/album/1iNOO5VSJciTGogwlClRsa"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 266756,
       "name": "Sanctuary",
       "url": "https://open.spotify.com/track/1Y4N7rL8XF0vMpFGHmjiJO"
+    },
+    {
+      "added_at": "2024-08-28 14:08:37",
+      "album": {
+        "name": "By and By",
+        "url": "https://open.spotify.com/album/4Ib3LE6FimfhNVnY7Tc1zM"
+      },
+      "artists": [
+        {
+          "name": "Caamp",
+          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
+        }
+      ],
+      "duration_ms": 280794,
+      "name": "By and By",
+      "url": "https://open.spotify.com/track/75nZ4W6quZhI55LKiqCXWh"
     },
     {
       "added_at": "2024-08-28 14:08:37",
@@ -847,18 +847,18 @@
     {
       "added_at": "2024-08-28 14:08:37",
       "album": {
-        "name": "Mt. Joy",
-        "url": "https://open.spotify.com/album/5h9FO7QRZMcrcnSYvihQ01"
+        "name": "Cold Little Heart (Acoustic)",
+        "url": "https://open.spotify.com/album/4d1Len7ZUGFqZJ2GCBwR12"
       },
       "artists": [
         {
-          "name": "Mt. Joy",
-          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
+          "name": "Michael Kiwanuka",
+          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
         }
       ],
-      "duration_ms": 198600,
-      "name": "Silver Lining",
-      "url": "https://open.spotify.com/track/0i5QVxsK3IvEDbUjTA64Li"
+      "duration_ms": 269386,
+      "name": "Cold Little Heart - Acoustic",
+      "url": "https://open.spotify.com/track/5bMtpnI01NMBbCLd8XFFOd"
     },
     {
       "added_at": "2024-08-28 14:08:37",
@@ -879,18 +879,18 @@
     {
       "added_at": "2024-08-28 14:08:37",
       "album": {
-        "name": "Cold Little Heart (Acoustic)",
-        "url": "https://open.spotify.com/album/4d1Len7ZUGFqZJ2GCBwR12"
+        "name": "Mt. Joy",
+        "url": "https://open.spotify.com/album/5h9FO7QRZMcrcnSYvihQ01"
       },
       "artists": [
         {
-          "name": "Michael Kiwanuka",
-          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+          "name": "Mt. Joy",
+          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
         }
       ],
-      "duration_ms": 269386,
-      "name": "Cold Little Heart - Acoustic",
-      "url": "https://open.spotify.com/track/5bMtpnI01NMBbCLd8XFFOd"
+      "duration_ms": 198600,
+      "name": "Silver Lining",
+      "url": "https://open.spotify.com/track/0i5QVxsK3IvEDbUjTA64Li"
     },
     {
       "added_at": "2024-08-28 14:08:37",
@@ -911,22 +911,6 @@
     {
       "added_at": "2024-08-28 14:08:37",
       "album": {
-        "name": "The Lumineers",
-        "url": "https://open.spotify.com/album/6NWYmlHxAME5KXtxrTlUxW"
-      },
-      "artists": [
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-        }
-      ],
-      "duration_ms": 109735,
-      "name": "Flowers in Your Hair",
-      "url": "https://open.spotify.com/track/3Hvg5tRKsQlX25wYwgMF9p"
-    },
-    {
-      "added_at": "2024-08-28 14:08:37",
-      "album": {
         "name": "Hozier",
         "url": "https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 219213,
       "name": "Angel of Small Death and the Codeine Scene",
       "url": "https://open.spotify.com/track/7uY7jZs5srSx3xMmyCI48T"
+    },
+    {
+      "added_at": "2024-08-28 14:08:37",
+      "album": {
+        "name": "The Lumineers",
+        "url": "https://open.spotify.com/album/6NWYmlHxAME5KXtxrTlUxW"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "duration_ms": 109735,
+      "name": "Flowers in Your Hair",
+      "url": "https://open.spotify.com/track/3Hvg5tRKsQlX25wYwgMF9p"
     },
     {
       "added_at": "2024-08-28 14:08:37",
@@ -1055,6 +1055,22 @@
     {
       "added_at": "2024-08-28 14:08:37",
       "album": {
+        "name": "If I Was (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2VxNr0ZeGhWJ8rQNe4d8vS"
+      },
+      "artists": [
+        {
+          "name": "The Staves",
+          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
+        }
+      ],
+      "duration_ms": 208893,
+      "name": "Steady",
+      "url": "https://open.spotify.com/track/7nPISm9kJLgZVhkIozoLZS"
+    },
+    {
+      "added_at": "2024-08-28 14:08:37",
+      "album": {
         "name": "The Pet Parade",
         "url": "https://open.spotify.com/album/4fyZyhtsOevsFYLbLitaHZ"
       },
@@ -1083,22 +1099,6 @@
       "duration_ms": 279000,
       "name": "Stubborn Love",
       "url": "https://open.spotify.com/track/3ekNuTF3UpOvIZCfiejpnC"
-    },
-    {
-      "added_at": "2024-08-28 14:08:37",
-      "album": {
-        "name": "If I Was (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2VxNr0ZeGhWJ8rQNe4d8vS"
-      },
-      "artists": [
-        {
-          "name": "The Staves",
-          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
-        }
-      ],
-      "duration_ms": 208893,
-      "name": "Steady",
-      "url": "https://open.spotify.com/track/7nPISm9kJLgZVhkIozoLZS"
     },
     {
       "added_at": "2024-08-28 14:08:37",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2024-08-28 14:08:37",
       "album": {
-        "name": "Evening Machines",
-        "url": "https://open.spotify.com/album/5K7PZiOlAn8sxxhh0QTFuJ"
-      },
-      "artists": [
-        {
-          "name": "Gregory Alan Isakov",
-          "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
-        }
-      ],
-      "duration_ms": 272346,
-      "name": "San Luis",
-      "url": "https://open.spotify.com/track/7gDNQLV9cr8449LFrQbk5J"
-    },
-    {
-      "added_at": "2024-08-28 14:08:37",
-      "album": {
         "name": "The Fray",
         "url": "https://open.spotify.com/album/1r16zCSIhxkc5b9dSQ9DpT"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 291826,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/4FxBG9VPpxPXMDgqLgW5ZD"
+    },
+    {
+      "added_at": "2024-08-28 14:08:37",
+      "album": {
+        "name": "Evening Machines",
+        "url": "https://open.spotify.com/album/5K7PZiOlAn8sxxhh0QTFuJ"
+      },
+      "artists": [
+        {
+          "name": "Gregory Alan Isakov",
+          "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
+        }
+      ],
+      "duration_ms": 272346,
+      "name": "San Luis",
+      "url": "https://open.spotify.com/track/7gDNQLV9cr8449LFrQbk5J"
     },
     {
       "added_at": "2024-08-28 14:08:37",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2024-08-28 14:08:37",
       "album": {
-        "name": "Colony of Bees",
-        "url": "https://open.spotify.com/album/22ydepp9MkmGOVOG89v9DU"
-      },
-      "artists": [
-        {
-          "name": "Beta Radio",
-          "url": "https://open.spotify.com/artist/0syIRg9MPSpJIC0QCPUaHB"
-        }
-      ],
-      "duration_ms": 219480,
-      "name": "On the Frame",
-      "url": "https://open.spotify.com/track/4ZeCZyI1Zhh1tVkThl34px"
-    },
-    {
-      "added_at": "2024-08-28 14:08:37",
-      "album": {
         "name": "Good Woman",
         "url": "https://open.spotify.com/album/66A7X1EqFQEEvuE5Nezqrl"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 197640,
       "name": "Good Woman",
       "url": "https://open.spotify.com/track/1jQoqq9UMkt4IASvOYe6TU"
+    },
+    {
+      "added_at": "2024-08-28 14:08:37",
+      "album": {
+        "name": "Colony of Bees",
+        "url": "https://open.spotify.com/album/22ydepp9MkmGOVOG89v9DU"
+      },
+      "artists": [
+        {
+          "name": "Beta Radio",
+          "url": "https://open.spotify.com/artist/0syIRg9MPSpJIC0QCPUaHB"
+        }
+      ],
+      "duration_ms": 219480,
+      "name": "On the Frame",
+      "url": "https://open.spotify.com/track/4ZeCZyI1Zhh1tVkThl34px"
     },
     {
       "added_at": "2024-08-28 14:08:37",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2024-08-28 14:08:37",
       "album": {
-        "name": "Trouble",
-        "url": "https://open.spotify.com/album/2DQHgaOMVOs2OKLaksiMx9"
-      },
-      "artists": [
-        {
-          "name": "Ray LaMontagne",
-          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
-        }
-      ],
-      "duration_ms": 250866,
-      "name": "Jolene",
-      "url": "https://open.spotify.com/track/2fSIF8CJhoc9CJhF9vJDXp"
-    },
-    {
-      "added_at": "2024-08-28 14:08:37",
-      "album": {
         "name": "Freedom Highway",
         "url": "https://open.spotify.com/album/1CVuPxNHwY5ORJ8MhjD0UB"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 237160,
       "name": "Old Friend",
       "url": "https://open.spotify.com/track/3pvTrpsqbBF3OduTOPOkii"
+    },
+    {
+      "added_at": "2024-08-28 14:08:37",
+      "album": {
+        "name": "Trouble",
+        "url": "https://open.spotify.com/album/2DQHgaOMVOs2OKLaksiMx9"
+      },
+      "artists": [
+        {
+          "name": "Ray LaMontagne",
+          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
+        }
+      ],
+      "duration_ms": 250866,
+      "name": "Jolene",
+      "url": "https://open.spotify.com/track/2fSIF8CJhoc9CJhF9vJDXp"
     },
     {
       "added_at": "2024-08-28 14:08:37",
@@ -1583,22 +1583,18 @@
     {
       "added_at": "2024-08-28 14:08:37",
       "album": {
-        "name": "The Spirit Moves",
-        "url": "https://open.spotify.com/album/77UiJMD9OVYj2YXr2gO9L5"
+        "name": "Genuine Negro Jig",
+        "url": "https://open.spotify.com/album/7gXh0cuAlgJhr9sr3bi3l9"
       },
       "artists": [
         {
-          "name": "Langhorne Slim",
-          "url": "https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy"
-        },
-        {
-          "name": "The Law",
-          "url": "https://open.spotify.com/artist/6DK3E5dh7jJrKyAHfucWBB"
+          "name": "Carolina Chocolate Drops",
+          "url": "https://open.spotify.com/artist/6H8Sj9gFyDYJ3T63LA3DKz"
         }
       ],
-      "duration_ms": 161906,
-      "name": "Changes",
-      "url": "https://open.spotify.com/track/0gKiONJeEtwb3hps4sUgyn"
+      "duration_ms": 232866,
+      "name": "Snowden's Jig (Genuine Negro Jig)",
+      "url": "https://open.spotify.com/track/7qQ0kz6o0LQOLK3m0xKzYp"
     },
     {
       "added_at": "2024-08-28 14:08:37",
@@ -1619,18 +1615,22 @@
     {
       "added_at": "2024-08-28 14:08:37",
       "album": {
-        "name": "Genuine Negro Jig",
-        "url": "https://open.spotify.com/album/7gXh0cuAlgJhr9sr3bi3l9"
+        "name": "The Spirit Moves",
+        "url": "https://open.spotify.com/album/77UiJMD9OVYj2YXr2gO9L5"
       },
       "artists": [
         {
-          "name": "Carolina Chocolate Drops",
-          "url": "https://open.spotify.com/artist/6H8Sj9gFyDYJ3T63LA3DKz"
+          "name": "Langhorne Slim",
+          "url": "https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy"
+        },
+        {
+          "name": "The Law",
+          "url": "https://open.spotify.com/artist/6DK3E5dh7jJrKyAHfucWBB"
         }
       ],
-      "duration_ms": 232866,
-      "name": "Snowden's Jig (Genuine Negro Jig)",
-      "url": "https://open.spotify.com/track/7qQ0kz6o0LQOLK3m0xKzYp"
+      "duration_ms": 161906,
+      "name": "Changes",
+      "url": "https://open.spotify.com/track/0gKiONJeEtwb3hps4sUgyn"
     },
     {
       "added_at": "2024-08-28 14:08:37",

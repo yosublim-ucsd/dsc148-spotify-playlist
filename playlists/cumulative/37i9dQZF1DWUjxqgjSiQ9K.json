@@ -638,7 +638,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 283425,
       "name": "Al Que Tenga O\u00eddos",
       "url": "https://open.spotify.com/track/6lvxBy3WOcvso7klc5Yr3F"
@@ -1428,7 +1428,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 176232,
       "name": "Avivamiento (Reimagined)",
       "url": "https://open.spotify.com/track/1IXrlpz8Xal4vfnaiNUtYp"
@@ -4653,6 +4653,28 @@
     },
     {
       "album": {
+        "name": "En Su Nombre (En Vivo)",
+        "url": "https://open.spotify.com/album/0BGeOUsynuNYPVgva9pfbD"
+      },
+      "artists": [
+        {
+          "name": "Som Do Reino",
+          "url": "https://open.spotify.com/artist/4Bei91U4XakJsOUQVxH2Cq"
+        },
+        {
+          "name": "TOMATULUGAR",
+          "url": "https://open.spotify.com/artist/44RfC7kgNNz6s2MD3gJqXX"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 637285,
+      "name": "En Su Nombre - En Vivo",
+      "url": "https://open.spotify.com/track/0AA3VqQQAhZXn5Za2ablx7"
+    },
+    {
+      "album": {
         "name": "En Ti Esperamos",
         "url": "https://open.spotify.com/album/4q0sY1u8JRyXTnXIoWXroG"
       },
@@ -5056,6 +5078,32 @@
       "duration_ms": 167769,
       "name": "Esperanza",
       "url": "https://open.spotify.com/track/3fQ18uqKUp4Lk9SjMX9JmY"
+    },
+    {
+      "album": {
+        "name": "Esp\u00edritu Santo (Live Set)",
+        "url": "https://open.spotify.com/album/4UHZwRlNuh3YxTLTrwqf5O"
+      },
+      "artists": [
+        {
+          "name": "Sarai Rivera",
+          "url": "https://open.spotify.com/artist/202VnAr2CvQpJJrYXK78jk"
+        },
+        {
+          "name": "Oasis Ministry",
+          "url": "https://open.spotify.com/artist/71Q7jmvxx7g06qlWNEU45p"
+        },
+        {
+          "name": "Grupo Grace",
+          "url": "https://open.spotify.com/artist/6toUclayfnCvKyLtLSmyqb"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 404343,
+      "name": "Esp\u00edritu Santo - Live Set",
+      "url": "https://open.spotify.com/track/2ZZvvIBOBcJ314DJ6X3fq8"
     },
     {
       "album": {
@@ -6860,7 +6908,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 287692,
       "name": "La Sangre (Himno)",
       "url": "https://open.spotify.com/track/4sFAH2K79ZmGGFWo1uzJks"
@@ -8047,6 +8095,40 @@
     },
     {
       "album": {
+        "name": "Mi Libertador / My Deliverer [Versi\u00f3n en Espa\u00f1ol e Ingl\u00e9s]",
+        "url": "https://open.spotify.com/album/5L82CcNuM3eaAaDF95QV3A"
+      },
+      "artists": [
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        },
+        {
+          "name": "Josh Morales",
+          "url": "https://open.spotify.com/artist/4BzluhaYmHa9iCkX7pehgS"
+        },
+        {
+          "name": "Waleska Morales",
+          "url": "https://open.spotify.com/artist/6C0t2XuoPExvGxcVfo7aHc"
+        },
+        {
+          "name": "Matthew Morales",
+          "url": "https://open.spotify.com/artist/7hRLiC2CsmaKDjcIxNyFMj"
+        },
+        {
+          "name": "Luis Morales Jr.",
+          "url": "https://open.spotify.com/artist/2u08hrNlco1QqvcgRCdnKh"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278274,
+      "name": "Mi Libertador / My Deliverer [Versi\u00f3n en Espa\u00f1ol e Ingl\u00e9s]",
+      "url": "https://open.spotify.com/track/2gSXfmbsFjPspt3uxLDGk9"
+    },
+    {
+      "album": {
         "name": "Hijos Live",
         "url": "https://open.spotify.com/album/7g8q6VD5RuRgqIsg26frJE"
       },
@@ -8196,6 +8278,28 @@
       "duration_ms": 420773,
       "name": "Mi Shalom",
       "url": "https://open.spotify.com/track/58japnj5Xn49Wpi5WpMiUT"
+    },
+    {
+      "album": {
+        "name": "Mi Tesoro",
+        "url": "https://open.spotify.com/album/225RI4sJvEZmyydyuTUXNu"
+      },
+      "artists": [
+        {
+          "name": "Marco Barrientos",
+          "url": "https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ"
+        },
+        {
+          "name": "Daniela Barrientos",
+          "url": "https://open.spotify.com/artist/3fF7bK7ymM5vUeyG3XP0Lv"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 875000,
+      "name": "Mi Tesoro",
+      "url": "https://open.spotify.com/track/5JXj9Sm3DdLUS87a7dMAtg"
     },
     {
       "album": {
@@ -9372,7 +9476,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 455885,
       "name": "Para Siempre te Bendecir\u00e9",
       "url": "https://open.spotify.com/track/3j7kQdXknNWpjQgzH59LBJ"
@@ -11642,7 +11746,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 337239,
       "name": "S\u00e9 Fuerte - Live Set",
       "url": "https://open.spotify.com/track/4vl7en9sudHqIn4lrWSBKi"
@@ -11982,6 +12086,32 @@
       "duration_ms": 347848,
       "name": "Te Veo",
       "url": "https://open.spotify.com/track/020ZLoCGgsXIEGKFA1tLmc"
+    },
+    {
+      "album": {
+        "name": "Temprano Yo Te Buscar\u00e9 / Yo Te Busco",
+        "url": "https://open.spotify.com/album/5fmeSELeEd0jAndRiYNGWS"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        },
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        },
+        {
+          "name": "Waleska Morales",
+          "url": "https://open.spotify.com/artist/6C0t2XuoPExvGxcVfo7aHc"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271266,
+      "name": "Temprano Yo Te Buscar\u00e9 / Yo Te Busco",
+      "url": "https://open.spotify.com/track/197MVjLeXOx40bfsRy9mMw"
     },
     {
       "album": {

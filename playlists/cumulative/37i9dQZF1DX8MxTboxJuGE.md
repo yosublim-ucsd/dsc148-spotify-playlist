@@ -4,7 +4,7 @@
 
 > Os monstros e as novas caras do Metal nacional e internacional! Foto: Nightwish
 
-128 songs - 9 hr 39 min
+129 songs - 9 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Born to Raise Hell \(Live at University of East Anglia, Norwich, 18th October 1998\)](https://open.spotify.com/track/7nHMMu5QIqvX783we02wIa) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [The Löst Tapes Vol\. 2 \(Live in Norwich, 1998\)](https://open.spotify.com/album/4PEh2b38J4LJCfc7FzhtlK) | 5:13 | 2023-11-03 | 2024-03-09 |
 | [Born to Raise Hell \- Live at University of East Anglia, Norwich, 18th October 1998](https://open.spotify.com/track/6UKz0a6V2ccLkAx8cB4ASR) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [The Löst Tapes, Vol\. 2 \(Live in Norwich, 1998\)](https://open.spotify.com/album/4Sp70MOzkvRxY0wdf7nsj1) | 5:13 | 2023-07-14 | 2023-11-04 |
 | [Bring It](https://open.spotify.com/track/7vEZUuh4pRvBBlXaKh8gn0) | [Hanislip](https://open.spotify.com/artist/7qK0Kc4CpKUB5biozdRI2F) | [Bring It](https://open.spotify.com/album/1QjcBrVZ4rbwS1JEehIiiM) | 4:06 | 2023-07-14 |  |
+| [BUSHIDO](https://open.spotify.com/track/5UsNUK4UJofzOp9TUewxuR) | [Bayside Kings](https://open.spotify.com/artist/1ixRGSR7pOSWqLTtbjL62p) | [\(R\)EVOLUÇÃO \#LIVREPARATODOS](https://open.spotify.com/album/34I6fic9CpfSs3wzL3MwJW) | 2:13 | 2024-10-04 |  |
 | [Can You Hear Me](https://open.spotify.com/track/5VXeawVov6ikGAaT0If8n9) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [The Nothing](https://open.spotify.com/album/6mWsWVsfWpoZ2d6uxm1ND1) | 2:52 | 2023-07-14 | 2024-04-19 |
 | [Can You Hear Me](https://open.spotify.com/track/77CCfbJgFZvKYpL2GY6XN9) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Can You Hear Me / Cold / You'll Never Find Me](https://open.spotify.com/album/2pV3LWeXJ6cMqNKvkzAXKf) | 2:52 | 2024-04-05 |  |
 | [Checkmate](https://open.spotify.com/track/3xu91T5DMRDq72pDQU2tfN) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Lamb of God](https://open.spotify.com/album/7FEBQOq6SXl4CsqR6wTTGy) | 4:30 | 2023-07-14 | 2024-04-19 |
@@ -41,7 +42,7 @@
 | [Faster](https://open.spotify.com/track/3Q8fUwTH6tRIUfwLcZq3U8) | [Soulspell](https://open.spotify.com/artist/4YmdAxENgEABrxFj8zRSsA), [Talita Quintano](https://open.spotify.com/artist/6GaYWEd64lYBWbemxq0sP7), [Fábio Caldeira](https://open.spotify.com/artist/6p28jKesBQisadiTLVwCiS), [Victor Emeka](https://open.spotify.com/artist/7DICtuyHfL4tNDtM9AneG7) | [Faster](https://open.spotify.com/album/6iFeDARJar04FmDL4fz1aB) | 4:10 | 2023-07-14 | 2024-04-27 |
 | [Fighting Gravity](https://open.spotify.com/track/0bLslvYS3YLWjzNarlieUn) | [Of Mice & Men](https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA) | [Echo](https://open.spotify.com/album/5pCBuV5mhXIUonyuWL5EZd) | 4:56 | 2023-07-14 | 2024-04-19 |
 | [Fighting Gravity](https://open.spotify.com/track/4g0mCLGfAuDATAfmTggACN) | [Of Mice & Men](https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA) | [Fighting Gravity](https://open.spotify.com/album/0lPt244kh0WjCRgkSLBicz) | 4:56 | 2024-04-05 |  |
-| [Flanger Halen](https://open.spotify.com/track/6RF75LPULQRDy0jDq3TLIH) | [Vns Vinicius the Guitar Ripping](https://open.spotify.com/artist/6QAFhpCpL85jFpLSBeAJLj) | [Flanger Halen](https://open.spotify.com/album/7Mb5i8A5V3jdUDJIv9f2Ux) | 4:02 | 2023-07-14 |  |
+| [Flanger Halen](https://open.spotify.com/track/6RF75LPULQRDy0jDq3TLIH) | [Vns Vinicius the Guitar Ripping](https://open.spotify.com/artist/6QAFhpCpL85jFpLSBeAJLj) | [Flanger Halen](https://open.spotify.com/album/7Mb5i8A5V3jdUDJIv9f2Ux) | 4:02 | 2023-07-14 | 2024-10-05 |
 | [Gods Of The World](https://open.spotify.com/track/2iYBWJgNMqyezqWGUsPK6l) | [ANGRA](https://open.spotify.com/artist/7IAXZaLTb6nkJr8RmVPn5y) | [Gods Of The World](https://open.spotify.com/album/2wignG8fzELVtVgMOOnifA) | 4:43 | 2023-10-13 |  |
 | [Hard Skool](https://open.spotify.com/track/1Pvmzboyxwp1rOVYqwKIgU) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Hard Skool](https://open.spotify.com/album/2UWJ1UJybSEmQZ87lQHmp0) | 3:41 | 2023-07-14 |  |
 | [Hate](https://open.spotify.com/track/0ltqN1L7AMMXtGjVKgCDkM) | [antiSOCIAL](https://open.spotify.com/artist/07yUOyXATUrsJWEWQU7xBb) | [Hate](https://open.spotify.com/album/6qLPDR80q4SKtSUH3o6UWR) | 3:36 | 2023-07-14 | 2024-06-29 |
@@ -104,7 +105,7 @@
 | [The Doctor \- Jacksons Studio Demos \- October 1981](https://open.spotify.com/track/4uEkNKrTju3mBgJwkq4UQz) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Iron Fist \(Deluxe 40th Anniversary Edition\)](https://open.spotify.com/album/2tkYl59Gdw4kLSXGCkEgN8) | 3:10 | 2023-07-14 | 2023-11-04 |
 | [The Essence of Being Human](https://open.spotify.com/track/6iwwJmekGU5s17xwCSAEJP) | [United For Distortion](https://open.spotify.com/artist/3DUCTnzBpcCgbNOAewbwSQ) | [The Essence of Being Human](https://open.spotify.com/album/25zJkatGEUwzg33mpAIrDp) | 5:41 | 2023-07-14 | 2023-09-16 |
 | [The Gallows](https://open.spotify.com/track/6lF3rwnMFBlbZeCWwZTWoS) | [Black Label Society](https://open.spotify.com/artist/0zfT626RwO6zN3RDYeRit5) | [The Gallows](https://open.spotify.com/album/2OanGtG5sW8esAhY25EMoH) | 3:50 | 2024-09-30 |  |
-| [The Gang's All Here](https://open.spotify.com/track/1k2wpoh1lyf4lNBUFtdLNK) | [Skid Row](https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg) | [The Gang's All Here](https://open.spotify.com/album/6vLJmmaxCG3wGckRBKc8H7) | 3:37 | 2024-04-05 |  |
+| [The Gang's All Here](https://open.spotify.com/track/1k2wpoh1lyf4lNBUFtdLNK) | [Skid Row](https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg) | [The Gang's All Here](https://open.spotify.com/album/6vLJmmaxCG3wGckRBKc8H7) | 3:37 | 2024-04-05 | 2024-10-05 |
 | [The Gang's All Here](https://open.spotify.com/track/4fvyexikP6xn7wHdsg1sGc) | [Skid Row](https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg) | [The Gang's All Here](https://open.spotify.com/album/3CNgCf8Xnno0GH9EhXMMQR) | 3:38 | 2023-07-14 | 2024-04-19 |
 | [The Hour of the Wolf](https://open.spotify.com/track/67vVGpe4YboSOFxQf5EA2q) | [Midnight Guest](https://open.spotify.com/artist/6RRkpb9ozPwOjXpsolUqGx) | [The Hour of the Wolf](https://open.spotify.com/album/0TqcCofh2UkHlrhHISeJn4) | 3:54 | 2023-07-14 | 2023-08-12 |
 | [The Other Side Of Anger](https://open.spotify.com/track/363gIIVGtXzJriTcbn0Tsv) | [Crypta](https://open.spotify.com/artist/0w1xNkvjKVskWP7GvbiwRB) | [The Other Side Of Anger](https://open.spotify.com/album/5pznPcAEHaBZbCG8dLz04l) | 4:23 | 2024-04-05 |  |

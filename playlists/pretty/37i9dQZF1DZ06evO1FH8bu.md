@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1FH8bu.md) - [plain]
 
 > This is Neck Deep\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,411 likes - 46 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,427 likes - 46 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,11 +14,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1FH8bu.md) - [plain]
 | 4 | [Dumbstruck Dumbf\*\*k](https://open.spotify.com/track/7peo1MPjb3r1gtmySPe8uj) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [Neck Deep](https://open.spotify.com/album/5dJ7QsXRqsX5oErJatoERd) | 2:58 |
 | 5 | [In Bloom](https://open.spotify.com/track/0lgiIwUU7Y10uXfKkgXdjk) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [The Peace And The Panic](https://open.spotify.com/album/76NbbdvTc4yP50p5m4u9H3) | 3:38 |
 | 6 | [Can't Kick Up The Roots](https://open.spotify.com/track/1iKjPM2YygFxUqjUakAI4n) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [Life's Not Out To Get You](https://open.spotify.com/album/3umOBqXWR9VnJTQoe9Qkkj) | 2:49 |
-| 7 | [When You Know](https://open.spotify.com/track/3DaSurzbFuzWE45tQm1TO5) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [All Distortions Are Intentional](https://open.spotify.com/album/3fM2J0ilTBGwnzcN3SqUcG) | 3:09 |
+| 7 | [Torn](https://open.spotify.com/track/55SMBnlZaMebqCYUkFU2dT) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [Torn](https://open.spotify.com/album/5zF5pEzJQgwu97Qze67WRL) | 4:04 |
 | 8 | [Heartbreak Of The Century](https://open.spotify.com/track/4ijqpIWc6VhVRTvHPJlBMw) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [Neck Deep](https://open.spotify.com/album/5dJ7QsXRqsX5oErJatoERd) | 3:49 |
 | 9 | [Motion Sickness](https://open.spotify.com/track/2JcQF1cSeyFx34F8ItVTRN) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [The Peace And The Panic](https://open.spotify.com/album/76NbbdvTc4yP50p5m4u9H3) | 3:25 |
 | 10 | [Gold Steps](https://open.spotify.com/track/3wcT7Bndd1w4dVsKhEXcEm) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [Life's Not Out To Get You](https://open.spotify.com/album/3umOBqXWR9VnJTQoe9Qkkj) | 3:12 |
-| 11 | [Torn](https://open.spotify.com/track/55SMBnlZaMebqCYUkFU2dT) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [Torn](https://open.spotify.com/album/5zF5pEzJQgwu97Qze67WRL) | 4:04 |
+| 11 | [When You Know](https://open.spotify.com/track/3DaSurzbFuzWE45tQm1TO5) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [All Distortions Are Intentional](https://open.spotify.com/album/3fM2J0ilTBGwnzcN3SqUcG) | 3:09 |
 | 12 | [Sort Yourself Out](https://open.spotify.com/track/60wZ1Xej8lpqK5t9LEH9Qp) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [Neck Deep](https://open.spotify.com/album/5dJ7QsXRqsX5oErJatoERd) | 3:13 |
 | 13 | [Parachute](https://open.spotify.com/track/1gXAB8LVnrNFVkj4kBdaSE) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [The Peace And The Panic](https://open.spotify.com/album/76NbbdvTc4yP50p5m4u9H3) | 3:40 |
 | 14 | [Kali Ma](https://open.spotify.com/track/4HsWOiIPuQ6tCT3suvGWMK) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [Life's Not Out To Get You](https://open.spotify.com/album/3umOBqXWR9VnJTQoe9Qkkj) | 2:50 |
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1FH8bu.md) - [plain]
 | 45 | [All Hype, No Heart](https://open.spotify.com/track/2aMm7yVRfx4VdPr6dRnsp7) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [Rain In July / A History Of Bad Decisions](https://open.spotify.com/album/13xBAYqsGgjXnoawJEMkr8) | 0:42 |
 | 46 | [Damsel In Distress](https://open.spotify.com/track/7HuZXpNRta1mVgOmqCJssL) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [Wishful Thinking](https://open.spotify.com/album/7GZW60VRzrKiVNZDmzZiz1) | 3:22 |
 
-Snapshot ID: `ZvyNAAAAAACCK9clYLhjCFIZHAQqDmEx`
+Snapshot ID: `Zv3egAAAAABBvHgWT4bxA9naS9fxvSim`

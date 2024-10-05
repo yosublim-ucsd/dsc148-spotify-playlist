@@ -4,7 +4,7 @@
 
 > Las grandes del Despecho y el Género Popular\. Foto: Luis Alfonso & Yeison Jiménez
 
-265 songs - 13 hr 39 min
+266 songs - 13 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -160,6 +160,7 @@
 | [Mi Venganza](https://open.spotify.com/track/4MAGNMEAi6yUpC5w58eHLN) | [Alzate](https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu), [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT) | [Mi Venganza](https://open.spotify.com/album/0GfKEcyPtvzo7hNNJFCAfZ) | 3:11 | 2022-08-12 | 2024-04-19 |
 | [Mi Versión](https://open.spotify.com/track/7BkUWGC6AACZxHzTul75SH) | [Joaquin Guiller](https://open.spotify.com/artist/2AHbxv3jnfIDz6BmPn979c) | [Mi Versión](https://open.spotify.com/album/3iile2EGSgnKX5sWiMKRUj) | 3:08 | 2024-03-08 | 2024-03-21 |
 | [Mil Vidas](https://open.spotify.com/track/6wUai114wCT3cnQh0tA9XG) | [Nico Hernández](https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip) | [Mil Vidas](https://open.spotify.com/album/3vM8nNOW9eSapGQzJeW6m8) | 2:34 | 2024-04-05 | 2024-07-13 |
+| [Mirame \(feat\. Blessd\) \- Remix](https://open.spotify.com/track/72BPA1JIC8LBrPP1uu1UNO) | [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [Mirame \(feat\. Blessd\) \[Remix\]](https://open.spotify.com/album/0VwgnKU3yLwiMnkutv5btR) | 3:13 | 2024-10-04 |  |
 | [Mis Borracheras](https://open.spotify.com/track/3V9ZEYBGRNiogfBzY5kffn) | [Alzate](https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu) | [Mis Borracheras](https://open.spotify.com/album/7gq0O9v34SWXIzggHHOZli) | 2:47 | 2022-08-12 | 2024-04-19 |
 | [Mis Borracheras](https://open.spotify.com/track/5NSljTmp3TVnCxXw7Ru43B) | [Alzate](https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu) | [YT Rocket Hits](https://open.spotify.com/album/5AHZY3HQTNVPpKYbRwj7gO) | 2:47 | 2022-11-04 | 2022-11-14 |
 | [Mis Borracheras](https://open.spotify.com/track/5pSv10cnwgc4J1237PebIK) | [Alzate](https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu) | [Mis Borracheras](https://open.spotify.com/album/2pB6pJ5wfo5O8f3Qwc1gEI) | 2:47 | 2024-04-05 |  |
@@ -229,7 +230,7 @@
 | [Si Dios Perdona](https://open.spotify.com/track/1RtvzGGRmDnATLCd3HrTFT) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY), [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng) | [Si Dios Perdona](https://open.spotify.com/album/70fClqkoidHfZivofJHZmc) | 3:00 | 2023-09-15 | 2023-12-02 |
 | [Si Me Vas Abandonar \(Norteño\)](https://open.spotify.com/track/3F0M7Ug02v7jsA0WTooFHz) | [Adriana Bottina](https://open.spotify.com/artist/3CBKZfqKn3KtCO4uQXhMHO) | [Si Me Vas Abandonar \(Norteño\)](https://open.spotify.com/album/1IIkANQG0n9nmNBpeF3huX) | 2:59 | 2023-09-29 | 2023-11-05 |
 | [Si Me Vas Abandonar \(Norteño\)](https://open.spotify.com/track/5i5OIawLy7YP0mq2S8eOMN) | [Adriana Bottina](https://open.spotify.com/artist/3CBKZfqKn3KtCO4uQXhMHO) | [Si Me Vas Abandonar \(Norteño\)](https://open.spotify.com/album/5f9qt2svDGSn6zZ6bOwNaI) | 2:59 | 2023-10-18 | 2023-11-11 |
-| [Si Me Ven Llorando](https://open.spotify.com/track/5v6eE5Wn65VSoBiJnOUyTm) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [Si Me Ven Llorando](https://open.spotify.com/album/7mHFFCcfWQiOQL9iRMb2g6) | 2:43 | 2022-08-12 |  |
+| [Si Me Ven Llorando](https://open.spotify.com/track/5v6eE5Wn65VSoBiJnOUyTm) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [Si Me Ven Llorando](https://open.spotify.com/album/7mHFFCcfWQiOQL9iRMb2g6) | 2:43 | 2022-08-12 | 2024-10-05 |
 | [Si Supieras](https://open.spotify.com/track/7cZB9m0xJlmHtAPx981dsC) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS), [Luisito Muñoz](https://open.spotify.com/artist/0ajy8rupiCOgvmsOtaG83P) | [Si Supieras](https://open.spotify.com/album/0Oi2DcpQozGUnvWbx9OZA0) | 3:24 | 2022-08-26 | 2023-09-30 |
 | [Sin Ropa Eres Mía](https://open.spotify.com/track/5ByaGTrmhcpIXu6sasjagm) | [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng) | [Sin Ropa Eres Mía](https://open.spotify.com/album/3uAysXq7cISny7dDI93JRO) | 2:40 | 2022-08-12 |  |
 | [Sin Sentimientos](https://open.spotify.com/track/1bsNI5RBmiv9AQ8aPbl5yN) | [Jhon Alex Castaño](https://open.spotify.com/artist/5pbzj8JGUpUCMHESd1yHFv) | [Sin Sentimientos](https://open.spotify.com/album/55TBlsqyVYB03SrGdq3F9h) | 2:28 | 2024-04-05 |  |

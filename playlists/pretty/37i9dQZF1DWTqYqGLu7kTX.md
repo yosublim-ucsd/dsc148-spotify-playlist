@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTqYqGLu7kTX.md) - [plain]
 
 > This is how we do it, This is our style.<br/>Cover: Sidhu Moose Wala
 
-[Spotify](https://open.spotify.com/user/spotify) - 507,245 likes - 75 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 507,477 likes - 75 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTqYqGLu7kTX.md) - [plain]
 | 22 | [Safety Off](https://open.spotify.com/track/3NwmvlTYDZPRBGDMGgJH8K) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Leo](https://open.spotify.com/album/1h0Yw7Wm49GGiGpN2gd3o2) | 2:23 |
 | 23 | [Ambarsaria](https://open.spotify.com/track/6eCA1w1FBvYeMcFTD6BWzl) | [Navaan Sandhu](https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1), [Homeboy](https://open.spotify.com/artist/1ZGICPQ7A8H3vsWxHV9GO7), [Kaater](https://open.spotify.com/artist/12bMjwsp9WCkVM3kscRAUE) | [The Finest](https://open.spotify.com/album/47gUYtnZNZBbbcwc6YMdAy) | 3:32 |
 | 24 | [DASS JATTA](https://open.spotify.com/track/7040CjemGFRjCvVzVEwa6R) | [Sukha](https://open.spotify.com/artist/6FDDxz6lYakINkmWPOlIZG), [Prodgk](https://open.spotify.com/artist/2E6ODN4Dna1vkh6s8sxHC0), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [2003](https://open.spotify.com/album/3xaN6DbmCjuDsBclF2xSaF) | 2:35 |
-| 25 | [Wake Up Call](https://open.spotify.com/track/4a4RBRrHoYe4akc8lYSPX7) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H), [Gill Madhipuriya](https://open.spotify.com/artist/5HK0k0FIFR1al68TrZkfdp) | [Wake Up Call](https://open.spotify.com/album/1wP7zwsGUxHsZu5dD5Dzvt) | 3:45 |
+| 25 | [Wake Up Call](https://open.spotify.com/track/4a4RBRrHoYe4akc8lYSPX7) | [Gill Madhipuriya](https://open.spotify.com/artist/5HK0k0FIFR1al68TrZkfdp), [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H) | [Wake Up Call](https://open.spotify.com/album/1wP7zwsGUxHsZu5dD5Dzvt) | 3:45 |
 | 26 | [WYS](https://open.spotify.com/track/5GG8UKvp8FzRSM21DSNl5M) | [Real Boss](https://open.spotify.com/artist/7mAbpafXc2MIAZn4ldxEuP), [Baggh\-e SMG](https://open.spotify.com/artist/4eu7AyzvnafwOygTQlfAMu), [Farmaan SMG](https://open.spotify.com/artist/3yXzSYXBOTZ0m1QAfjlzKK), [BIG KAY SMG](https://open.spotify.com/artist/0z4Mzficie9vUzDmz4Hy9G) | [WHEN WE RIDE](https://open.spotify.com/album/2x1eisYz2DSHg76V6HkaH5) | 2:57 |
 | 27 | [Toronto Wala Gabhru](https://open.spotify.com/track/3sDN39Dmqny4KiNAVn9JYk) | [Amantej Hundal](https://open.spotify.com/artist/28kGdf2ant8i73Fab2F7xq), [Jay Trak](https://open.spotify.com/artist/47SaOSOqcrxSJNZUuqpLuu) | [Lost Treasures](https://open.spotify.com/album/60224gsHzqN70VFJ3EsTuX) | 2:24 |
 | 28 | [Wah Wah](https://open.spotify.com/track/3WeFxzuyUnNHgnqyIiTvNz) | [The Landers](https://open.spotify.com/artist/7KEQQy9VJpx2xaojUu2VTp), [Desi Trap Music](https://open.spotify.com/artist/7uZQ7O3hu5Z90Wg09ZB1ge) | [Wah Wah](https://open.spotify.com/album/0K5WkQXSeRg74IhgfuDF15) | 2:32 |

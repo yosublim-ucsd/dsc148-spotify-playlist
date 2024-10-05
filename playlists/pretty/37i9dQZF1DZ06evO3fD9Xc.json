@@ -1,12 +1,12 @@
 {
-  "description": "This Is Carolina Ross. Los temas esenciales, todos en una lista.",
-  "num_followers": 103586,
+  "description": "This is Carolina Ross. The essential tracks, all in one playlist.",
+  "num_followers": 103587,
   "original_name": "This Is Carolina Ross",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvyNAAAAAACWXD0RmPmw9H40qx4kk3ZU",
+  "snapshot_id": "Zv3egAAAAADj/TS+kk1trmvpw8otO/1L",
   "tracks": [
     {
       "added_at": null,
@@ -347,6 +347,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mis Covers, Vol. 4",
+        "url": "https://open.spotify.com/album/1oRruxE4tO17YAgbjrzwl7"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "duration_ms": 153994,
+      "name": "No Le Hago Falta",
+      "url": "https://open.spotify.com/track/61F4sjhQSAw2veDWVRjEQi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mis Covers, Vol. 5",
         "url": "https://open.spotify.com/album/269CUSn61yMvZIcJqkxGgH"
       },
@@ -363,18 +379,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mis Covers, Vol. 4",
-        "url": "https://open.spotify.com/album/1oRruxE4tO17YAgbjrzwl7"
+        "name": "La Marea (feat. Carolina Ross)",
+        "url": "https://open.spotify.com/album/2YpckMEZN0Z2w6FtGMRcj0"
       },
       "artists": [
+        {
+          "name": "Polo Gonzalez",
+          "url": "https://open.spotify.com/artist/0OpXeanba0vYnyoft00BP6"
+        },
         {
           "name": "Carolina Ross",
           "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
         }
       ],
-      "duration_ms": 153994,
-      "name": "No Le Hago Falta",
-      "url": "https://open.spotify.com/track/61F4sjhQSAw2veDWVRjEQi"
+      "duration_ms": 255000,
+      "name": "La Marea (feat. Carolina Ross)",
+      "url": "https://open.spotify.com/track/6tB3TN8NjXiTUIYvflp8P5"
     },
     {
       "added_at": null,
@@ -423,26 +443,6 @@
       "duration_ms": 148656,
       "name": "La Mejor Versi\u00f3n de M\u00ed",
       "url": "https://open.spotify.com/track/7pA5y7FE8t6T34ig8TCwsY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Marea (feat. Carolina Ross)",
-        "url": "https://open.spotify.com/album/2YpckMEZN0Z2w6FtGMRcj0"
-      },
-      "artists": [
-        {
-          "name": "Polo Gonzalez",
-          "url": "https://open.spotify.com/artist/0OpXeanba0vYnyoft00BP6"
-        },
-        {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
-        }
-      ],
-      "duration_ms": 255000,
-      "name": "La Marea (feat. Carolina Ross)",
-      "url": "https://open.spotify.com/track/6tB3TN8NjXiTUIYvflp8P5"
     },
     {
       "added_at": null,
@@ -543,22 +543,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Menos Mal Que Me Quer\u00edas",
-        "url": "https://open.spotify.com/album/3YCAsPCW0YoyeXIghCfqVW"
-      },
-      "artists": [
-        {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
-        }
-      ],
-      "duration_ms": 157638,
-      "name": "Menos Mal Que Me Quer\u00edas",
-      "url": "https://open.spotify.com/track/0Y6mbQ5tc2w0wLVDwPH0t4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Si Quieres (Versi\u00f3n Mariachi)",
         "url": "https://open.spotify.com/album/3C836EDbA7xMYdCKS42MLc"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 258480,
       "name": "Si Quieres - Versi\u00f3n Mariachi",
       "url": "https://open.spotify.com/track/1KOoIXcpacszpKQMhHhY1A"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Menos Mal Que Me Quer\u00edas",
+        "url": "https://open.spotify.com/album/3YCAsPCW0YoyeXIghCfqVW"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "duration_ms": 157638,
+      "name": "Menos Mal Que Me Quer\u00edas",
+      "url": "https://open.spotify.com/track/0Y6mbQ5tc2w0wLVDwPH0t4"
     },
     {
       "added_at": null,
@@ -611,22 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cuesti\u00f3n De Tiempo",
-        "url": "https://open.spotify.com/album/1mLr3RcaBKzPJJqrlDEdv7"
-      },
-      "artists": [
-        {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
-        }
-      ],
-      "duration_ms": 209702,
-      "name": "Para No Pensar En Ti",
-      "url": "https://open.spotify.com/track/1cOetj4g4wbYZu6wSe2bJK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mis Covers, Vol. 2",
         "url": "https://open.spotify.com/album/5jjsvm8MJ01dNvgZjzBNmR"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 242091,
       "name": "Tengo Que Colgar",
       "url": "https://open.spotify.com/track/5k9In7MRqmG3fSxjpaLIzD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cuesti\u00f3n De Tiempo",
+        "url": "https://open.spotify.com/album/1mLr3RcaBKzPJJqrlDEdv7"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "duration_ms": 209702,
+      "name": "Para No Pensar En Ti",
+      "url": "https://open.spotify.com/track/1cOetj4g4wbYZu6wSe2bJK"
     },
     {
       "added_at": null,
@@ -679,22 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cuesti\u00f3n De Tiempo",
-        "url": "https://open.spotify.com/album/1mLr3RcaBKzPJJqrlDEdv7"
-      },
-      "artists": [
-        {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
-        }
-      ],
-      "duration_ms": 169750,
-      "name": "Decide Qu\u00e9 Somos",
-      "url": "https://open.spotify.com/track/0gYEHUYvIBgNnNLiUKYoHg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pu\u00f1etas Mentales",
         "url": "https://open.spotify.com/album/2CgMSZgcZAVyhq0vVSk7kn"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 139571,
       "name": "Pu\u00f1etas Mentales",
       "url": "https://open.spotify.com/track/4M54nkILKhxGO73bEMr3hU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cuesti\u00f3n De Tiempo",
+        "url": "https://open.spotify.com/album/1mLr3RcaBKzPJJqrlDEdv7"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "duration_ms": 169750,
+      "name": "Decide Qu\u00e9 Somos",
+      "url": "https://open.spotify.com/track/0gYEHUYvIBgNnNLiUKYoHg"
     },
     {
       "added_at": null,
@@ -751,22 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cuesti\u00f3n De Tiempo",
-        "url": "https://open.spotify.com/album/1mLr3RcaBKzPJJqrlDEdv7"
-      },
-      "artists": [
-        {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
-        }
-      ],
-      "duration_ms": 226618,
-      "name": "El Barco",
-      "url": "https://open.spotify.com/track/0qcj9j5w8dZhFcCj9e3hvK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Merecemos Perdonarnos (En Vivo)",
         "url": "https://open.spotify.com/album/4vUxy6TypvUYyRcVUfPjhS"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 195000,
       "name": "Merecemos Perdonarnos (En Vivo)",
       "url": "https://open.spotify.com/track/0Xlne6EwDCM8qpBnIfvwUm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cuesti\u00f3n De Tiempo",
+        "url": "https://open.spotify.com/album/1mLr3RcaBKzPJJqrlDEdv7"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "duration_ms": 226618,
+      "name": "El Barco",
+      "url": "https://open.spotify.com/track/0qcj9j5w8dZhFcCj9e3hvK"
     },
     {
       "added_at": null,
@@ -819,22 +819,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cuesti\u00f3n De Tiempo",
-        "url": "https://open.spotify.com/album/1mLr3RcaBKzPJJqrlDEdv7"
-      },
-      "artists": [
-        {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
-        }
-      ],
-      "duration_ms": 201802,
-      "name": "Cuando Caiga La Noche",
-      "url": "https://open.spotify.com/track/25xtqmANsVCuTfdoEHMnAv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mis Covers, Vol. 4",
         "url": "https://open.spotify.com/album/1oRruxE4tO17YAgbjrzwl7"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 240593,
       "name": "Si Me Ten\u00edas",
       "url": "https://open.spotify.com/track/5KQqFvTyDGh7eumS8WpbD5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cuesti\u00f3n De Tiempo",
+        "url": "https://open.spotify.com/album/1mLr3RcaBKzPJJqrlDEdv7"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "duration_ms": 201802,
+      "name": "Cuando Caiga La Noche",
+      "url": "https://open.spotify.com/track/25xtqmANsVCuTfdoEHMnAv"
     },
     {
       "added_at": null,
@@ -867,26 +867,6 @@
       "duration_ms": 155409,
       "name": "Dos Balas",
       "url": "https://open.spotify.com/track/0nFrXmyVlEN34M29mN1xiv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "C\u00f3mo le Hago",
-        "url": "https://open.spotify.com/album/0PALoWuU2iFGm3s4BnzozG"
-      },
-      "artists": [
-        {
-          "name": "Paulina B",
-          "url": "https://open.spotify.com/artist/2RyrPKQVFJuMkFQiLyKK6Z"
-        },
-        {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
-        }
-      ],
-      "duration_ms": 179823,
-      "name": "C\u00f3mo le Hago",
-      "url": "https://open.spotify.com/track/1xsqv1DSAyaT3LO8FUf85p"
     }
   ],
   "unique_name": "This Is Carolina Ross",

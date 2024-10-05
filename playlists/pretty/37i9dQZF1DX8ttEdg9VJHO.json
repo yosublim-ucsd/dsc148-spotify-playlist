@@ -1,6 +1,6 @@
 {
   "description": "F\u00fcr ein bisschen mehr Leichtigkeit.",
-  "num_followers": 353885,
+  "num_followers": 353900,
   "original_name": "Feelgood Pop",
   "owner": {
     "name": "Spotify",
@@ -75,22 +75,6 @@
     {
       "added_at": "2024-09-26 06:20:19",
       "album": {
-        "name": "Carry You Home",
-        "url": "https://open.spotify.com/album/42eRSINaWEzBXj7aqTB2cu"
-      },
-      "artists": [
-        {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
-        }
-      ],
-      "duration_ms": 166880,
-      "name": "Carry You Home",
-      "url": "https://open.spotify.com/track/4uzKAj0mIyYmyhsRRyPXaQ"
-    },
-    {
-      "added_at": "2024-09-26 06:20:19",
-      "album": {
         "name": "Justice",
         "url": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 153190,
       "name": "Ghost",
       "url": "https://open.spotify.com/track/6I3mqTwhRpn34SLVafSH7G"
+    },
+    {
+      "added_at": "2024-09-26 06:20:19",
+      "album": {
+        "name": "Carry You Home",
+        "url": "https://open.spotify.com/album/42eRSINaWEzBXj7aqTB2cu"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "duration_ms": 166880,
+      "name": "Carry You Home",
+      "url": "https://open.spotify.com/track/4uzKAj0mIyYmyhsRRyPXaQ"
     },
     {
       "added_at": "2024-09-26 06:20:19",
@@ -507,22 +507,6 @@
     {
       "added_at": "2024-09-26 06:20:19",
       "album": {
-        "name": "Kuss.",
-        "url": "https://open.spotify.com/album/6o39VGaYw6CC8gJL3e0rGs"
-      },
-      "artists": [
-        {
-          "name": "Haller",
-          "url": "https://open.spotify.com/artist/62U6nJKR1V8QOspXUzWle3"
-        }
-      ],
-      "duration_ms": 198218,
-      "name": "Sch\u00f6n genug",
-      "url": "https://open.spotify.com/track/2S5FeDvQmmI9iLq8SdCsB2"
-    },
-    {
-      "added_at": "2024-09-26 06:20:19",
-      "album": {
         "name": "20s",
         "url": "https://open.spotify.com/album/4CAB4B2b8yi1NYcqmz3ZDc"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 184457,
       "name": "20s",
       "url": "https://open.spotify.com/track/62Vz24WH66GYadBPFJKwT7"
+    },
+    {
+      "added_at": "2024-09-26 06:20:19",
+      "album": {
+        "name": "Kuss.",
+        "url": "https://open.spotify.com/album/6o39VGaYw6CC8gJL3e0rGs"
+      },
+      "artists": [
+        {
+          "name": "Haller",
+          "url": "https://open.spotify.com/artist/62U6nJKR1V8QOspXUzWle3"
+        }
+      ],
+      "duration_ms": 198218,
+      "name": "Sch\u00f6n genug",
+      "url": "https://open.spotify.com/track/2S5FeDvQmmI9iLq8SdCsB2"
     },
     {
       "added_at": "2024-09-26 06:20:19",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2024-09-26 06:20:19",
       "album": {
-        "name": "You Make Me Happy",
-        "url": "https://open.spotify.com/album/7bpDg2iX5pdMWvUapiLVmj"
-      },
-      "artists": [
-        {
-          "name": "My Sun and Stars",
-          "url": "https://open.spotify.com/artist/6ZzQtFgvmqdNtmB3pvh6UR"
-        }
-      ],
-      "duration_ms": 201942,
-      "name": "You Make Me Happy",
-      "url": "https://open.spotify.com/track/68pmau9FpqIwRjryGd2dDn"
-    },
-    {
-      "added_at": "2024-09-26 06:20:19",
-      "album": {
         "name": "Best Night Ever",
         "url": "https://open.spotify.com/album/1fPkLLMbiHl9v9L2JyBVoJ"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 133142,
       "name": "Best Night Ever",
       "url": "https://open.spotify.com/track/3WPLO5uBmbT050ogKdxT5C"
+    },
+    {
+      "added_at": "2024-09-26 06:20:19",
+      "album": {
+        "name": "You Make Me Happy",
+        "url": "https://open.spotify.com/album/7bpDg2iX5pdMWvUapiLVmj"
+      },
+      "artists": [
+        {
+          "name": "My Sun and Stars",
+          "url": "https://open.spotify.com/artist/6ZzQtFgvmqdNtmB3pvh6UR"
+        }
+      ],
+      "duration_ms": 201942,
+      "name": "You Make Me Happy",
+      "url": "https://open.spotify.com/track/68pmau9FpqIwRjryGd2dDn"
     },
     {
       "added_at": "2024-09-26 06:20:19",

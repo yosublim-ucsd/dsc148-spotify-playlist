@@ -511,6 +511,32 @@
     },
     {
       "album": {
+        "name": "Bass Face",
+        "url": "https://open.spotify.com/album/1y8Z4oeuzxfPsQF3wU1It5"
+      },
+      "artists": [
+        {
+          "name": "SNAILS",
+          "url": "https://open.spotify.com/artist/2yT7X3Gg2S51DHz67FAYL6"
+        },
+        {
+          "name": "NITTI",
+          "url": "https://open.spotify.com/artist/21AUdblPrTRzkvJn8FGrlk"
+        },
+        {
+          "name": "Stained With Silver",
+          "url": "https://open.spotify.com/artist/4VOVIahGBqyaFoUbWvrMeo"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180800,
+      "name": "Bass Face",
+      "url": "https://open.spotify.com/track/0r0zDWOaHTD9pZWI2jvM2V"
+    },
+    {
+      "album": {
         "name": "Bass To The Dome",
         "url": "https://open.spotify.com/album/7wm9Wbf0GZ1wxTEyHQeMu0"
       },
@@ -1316,7 +1342,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 205241,
       "name": "Cheerleader",
       "url": "https://open.spotify.com/track/5VlOlh5dIIdhnynEM0tCPp"

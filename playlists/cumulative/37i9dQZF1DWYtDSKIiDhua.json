@@ -2341,6 +2341,24 @@
     },
     {
       "album": {
+        "name": "AGAPE",
+        "url": "https://open.spotify.com/album/516miCkYlNwL5xq6fXoopb"
+      },
+      "artists": [
+        {
+          "name": "Wildberry",
+          "url": "https://open.spotify.com/artist/1YQcUhWjs1NGWi24wLDkgf"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236190,
+      "name": "Castaway",
+      "url": "https://open.spotify.com/track/5EyDNXBrCh3MI6IsIkiy3f"
+    },
+    {
+      "album": {
         "name": "castle",
         "url": "https://open.spotify.com/album/4Ezj9rf825Qgnr7mheGVsR"
       },
@@ -13382,6 +13400,24 @@
       "duration_ms": 154015,
       "name": "SHAME",
       "url": "https://open.spotify.com/track/4dv6f5PpEIf5nt1vE1xu6M"
+    },
+    {
+      "album": {
+        "name": "She Don't",
+        "url": "https://open.spotify.com/album/66cfmoek7arPIfImWDJyJf"
+      },
+      "artists": [
+        {
+          "name": "Royette",
+          "url": "https://open.spotify.com/artist/7LYfNPFV0kGH7GhKHKlIAU"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216993,
+      "name": "She Don't",
+      "url": "https://open.spotify.com/track/19nRNXTHFIO6kadcO9s7a6"
     },
     {
       "album": {

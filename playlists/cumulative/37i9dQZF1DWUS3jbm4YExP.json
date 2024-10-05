@@ -543,6 +543,28 @@
     },
     {
       "album": {
+        "name": "Templo del Perro",
+        "url": "https://open.spotify.com/album/5tWoAJ3bCVblpucHaRl5Hg"
+      },
+      "artists": [
+        {
+          "name": "Don Couto",
+          "url": "https://open.spotify.com/artist/75RbJtVQX3xaPgV4GE9FxN"
+        },
+        {
+          "name": "Nidia Gongora",
+          "url": "https://open.spotify.com/artist/5Ln6VxkwRDdAH40Lel6Yj8"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192182,
+      "name": "Alberca",
+      "url": "https://open.spotify.com/track/78hqkmkGptt4Z8zNibXe47"
+    },
+    {
+      "album": {
         "name": "Alech / Soul Brother (Habibi Funk 001)",
         "url": "https://open.spotify.com/album/7wTjMhrmXcWkWKiIWB372u"
       },
@@ -2314,6 +2336,24 @@
       "duration_ms": 267426,
       "name": "Circular Movimento",
       "url": "https://open.spotify.com/track/0JQM8wWBFFjgy2iLCA0llY"
+    },
+    {
+      "album": {
+        "name": "Consider It Done",
+        "url": "https://open.spotify.com/album/4eRgGGaoaIFT4x9JymYsH3"
+      },
+      "artists": [
+        {
+          "name": "Cocobolo",
+          "url": "https://open.spotify.com/artist/2KL4LWA8Ed7B5SscFbaLsu"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195993,
+      "name": "Cocobolo",
+      "url": "https://open.spotify.com/track/7vtxV54DvYQDTSpAcFcjzZ"
     },
     {
       "album": {
@@ -5152,7 +5192,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 149947,
       "name": "Gypsy Woman",
       "url": "https://open.spotify.com/track/3xt0wOjQFYUcIdVGByFps0"
@@ -8325,6 +8365,24 @@
     },
     {
       "album": {
+        "name": "Metaphors",
+        "url": "https://open.spotify.com/album/2SK7bkRYmMLyI5qHQ3DvME"
+      },
+      "artists": [
+        {
+          "name": "Goldkimono",
+          "url": "https://open.spotify.com/artist/3krHIfEy37pVe0zjdisDBk"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191824,
+      "name": "Metaphors",
+      "url": "https://open.spotify.com/track/3VKv346IPntZiz24FT9aK4"
+    },
+    {
+      "album": {
         "name": "Mi Conga Es De Akok\u00e1n",
         "url": "https://open.spotify.com/album/7j6GwM7a2pz8J1kIfOTodZ"
       },
@@ -10218,7 +10276,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 216240,
       "name": "Political Incorrect",
       "url": "https://open.spotify.com/track/4MBJzFfLTkg6KDfvANj3xs"
@@ -13488,7 +13546,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 202104,
       "name": "Verde",
       "url": "https://open.spotify.com/track/6sqG1sGiZ5xy58TDkeo9rS"

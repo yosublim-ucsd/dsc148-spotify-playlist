@@ -1,12 +1,12 @@
 {
   "description": "This is Bear McCreary. The essential tracks, all in one playlist.",
-  "num_followers": 10065,
+  "num_followers": 10071,
   "original_name": "This Is Bear McCreary",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvyNAAAAAAC4QaFMMYPEeKLqBvaks+Z8",
+  "snapshot_id": "Zv3egAAAAAB09Z031a+Mnwivr+bRLreB",
   "tracks": [
     {
       "added_at": null,
@@ -96,9 +96,9 @@
           "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
         }
       ],
-      "duration_ms": 223533,
-      "name": "Galadriel",
-      "url": "https://open.spotify.com/track/4aLoiQsOE0oMx0pAFLOrow"
+      "duration_ms": 200293,
+      "name": "Khazad-d\u00fbm",
+      "url": "https://open.spotify.com/track/5gai8pjmX0756SfAOPnEZE"
     },
     {
       "added_at": null,
@@ -172,9 +172,9 @@
           "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
         }
       ],
-      "duration_ms": 200293,
-      "name": "Khazad-d\u00fbm",
-      "url": "https://open.spotify.com/track/5gai8pjmX0756SfAOPnEZE"
+      "duration_ms": 223533,
+      "name": "Galadriel",
+      "url": "https://open.spotify.com/track/4aLoiQsOE0oMx0pAFLOrow"
     },
     {
       "added_at": null,
@@ -344,9 +344,9 @@
           "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
         }
       ],
-      "duration_ms": 105760,
-      "name": "Comin' Thro' The Rye",
-      "url": "https://open.spotify.com/track/0L2v0KjmMxTMDFbtfLsZZi"
+      "duration_ms": 338280,
+      "name": "Fallen Through Time",
+      "url": "https://open.spotify.com/track/77vdkjZCPZRECcDfZsdPmy"
     },
     {
       "added_at": null,
@@ -412,9 +412,9 @@
           "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
         }
       ],
-      "duration_ms": 338280,
-      "name": "Fallen Through Time",
-      "url": "https://open.spotify.com/track/77vdkjZCPZRECcDfZsdPmy"
+      "duration_ms": 105760,
+      "name": "Comin' Thro' The Rye",
+      "url": "https://open.spotify.com/track/0L2v0KjmMxTMDFbtfLsZZi"
     },
     {
       "added_at": null,
@@ -468,9 +468,9 @@
           "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
         }
       ],
-      "duration_ms": 565666,
-      "name": "Letting Go",
-      "url": "https://open.spotify.com/track/5rBXF4jd4xsenZnv5h3mfn"
+      "duration_ms": 210970,
+      "name": "A Son's Path",
+      "url": "https://open.spotify.com/track/0bLjwGh7rtnDZrwbmF31ge"
     },
     {
       "added_at": null,
@@ -536,9 +536,9 @@
           "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
         }
       ],
-      "duration_ms": 210970,
-      "name": "A Son's Path",
-      "url": "https://open.spotify.com/track/0bLjwGh7rtnDZrwbmF31ge"
+      "duration_ms": 565666,
+      "name": "Letting Go",
+      "url": "https://open.spotify.com/track/5rBXF4jd4xsenZnv5h3mfn"
     },
     {
       "added_at": null,
@@ -639,6 +639,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Black Sails (A Starz Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/504RcsupcUwvcgNdQXoAtU"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        }
+      ],
+      "duration_ms": 197640,
+      "name": "Theme from Black Sails",
+      "url": "https://open.spotify.com/track/5KXtl8RNG1uFrZinr6hxWh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Lord of the Rings: The Rings of Power (Season One, Episode Four: The Great Wave - Amazon Original Series Soundtrack)",
         "url": "https://open.spotify.com/album/4weUG3UZYTKHrVpzXkdCno"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 227386,
       "name": "A Plea to the Rocks",
       "url": "https://open.spotify.com/track/3TJv4muSnTh31frWAhXM7l"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Black Sails (A Starz Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/504RcsupcUwvcgNdQXoAtU"
-      },
-      "artists": [
-        {
-          "name": "Bear McCreary",
-          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
-        }
-      ],
-      "duration_ms": 197640,
-      "name": "Theme from Black Sails",
-      "url": "https://open.spotify.com/track/5KXtl8RNG1uFrZinr6hxWh"
     },
     {
       "added_at": null,

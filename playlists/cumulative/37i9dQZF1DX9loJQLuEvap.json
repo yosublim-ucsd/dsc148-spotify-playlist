@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Celebrating some of the most iconic female voices of all time. Cover: C\u00e9line Dion",
+  "description": "Celebrating some of the most iconic female voices of all time. Cover: RAYE",
   "name": "Great Female Voices",
   "tracks": [
     {
@@ -542,7 +542,7 @@
       ],
       "date_added": "2021-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 184800,
       "name": "Evergreen (Love Theme from \"A Star Is Born\")",
       "url": "https://open.spotify.com/track/2IcqY68BxP1ONPi3ME6aje"
@@ -1432,6 +1432,24 @@
       "duration_ms": 232893,
       "name": "Only Love Can Hurt Like This",
       "url": "https://open.spotify.com/track/62ke5zFUJN6RvtXZgVH0F8"
+    },
+    {
+      "album": {
+        "name": "My 21st Century Blues",
+        "url": "https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183653,
+      "name": "Oscar Winning Tears.",
+      "url": "https://open.spotify.com/track/0iO2iCAjtX0t5duvczNQt6"
     },
     {
       "album": {

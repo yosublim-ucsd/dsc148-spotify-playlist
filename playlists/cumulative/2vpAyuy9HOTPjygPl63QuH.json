@@ -152,7 +152,7 @@
       ],
       "date_added": "2024-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 138750,
       "name": "212",
       "url": "https://open.spotify.com/track/2qCKJpRqf9qcG2VsyGbqtF"
@@ -1744,7 +1744,7 @@
       ],
       "date_added": "2024-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 159283,
       "name": "As The Beat Goes Onnn",
       "url": "https://open.spotify.com/track/5lzRFLsYxeAyRiO7r6H1qm"
@@ -2719,6 +2719,28 @@
     },
     {
       "album": {
+        "name": "Bass Go Boom (Collier Remix)",
+        "url": "https://open.spotify.com/album/7jDzqqtw3O7q33iLA7LhlH"
+      },
+      "artists": [
+        {
+          "name": "Joshwa",
+          "url": "https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5"
+        },
+        {
+          "name": "Collier",
+          "url": "https://open.spotify.com/artist/44KWTN5dWQd0oAzu1p5xCj"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168327,
+      "name": "Bass Go Boom - Collier Remix",
+      "url": "https://open.spotify.com/track/1nTHK6Qln7sWicfmlhMUe7"
+    },
+    {
+      "album": {
         "name": "Bass Into the Future",
         "url": "https://open.spotify.com/album/4ZnC1xEkr40JxLTugK4d6H"
       },
@@ -3200,6 +3222,24 @@
       "duration_ms": 199842,
       "name": "Bell Hoppa",
       "url": "https://open.spotify.com/track/3ZCgx0fzTZQuGHYdpnTnh7"
+    },
+    {
+      "album": {
+        "name": "Benz",
+        "url": "https://open.spotify.com/album/364A2rolpAtWuuohl5ddfm"
+      },
+      "artists": [
+        {
+          "name": "Cave Studio",
+          "url": "https://open.spotify.com/artist/0kSX3QNjUAn4USb074y9GE"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155624,
+      "name": "Benz",
+      "url": "https://open.spotify.com/track/3CvknGic0uoaKO7v450Dxb"
     },
     {
       "album": {
@@ -6045,6 +6085,24 @@
     },
     {
       "album": {
+        "name": "COLLECT THE COMMAS",
+        "url": "https://open.spotify.com/album/6AVl6czEyN0v5GRaeCr4WY"
+      },
+      "artists": [
+        {
+          "name": "PAWSA",
+          "url": "https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221339,
+      "name": "COLLECT THE COMMAS",
+      "url": "https://open.spotify.com/track/5e3NwBC0E6xjX9c1Uc8RHy"
+    },
+    {
+      "album": {
         "name": "Come Back",
         "url": "https://open.spotify.com/album/6gBfCSCkqlqUjSicznlAAK"
       },
@@ -7074,6 +7132,24 @@
       "duration_ms": 168750,
       "name": "Dance Lapse",
       "url": "https://open.spotify.com/track/5wbxaVhha6KUXecFt6vwga"
+    },
+    {
+      "album": {
+        "name": "Dance Naked",
+        "url": "https://open.spotify.com/album/6lnZ0X8y7Krw0fBqkx2Qcz"
+      },
+      "artists": [
+        {
+          "name": "Tony Romera",
+          "url": "https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210937,
+      "name": "Dance Naked",
+      "url": "https://open.spotify.com/track/02004T36dT91vxe7vfdRa1"
     },
     {
       "album": {
@@ -8354,7 +8430,7 @@
       ],
       "date_added": "2024-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 191931,
       "name": "Do It Like That",
       "url": "https://open.spotify.com/track/0h4S0B2nRZrnIOej34O6TA"
@@ -8372,10 +8448,28 @@
       ],
       "date_added": "2024-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 206250,
       "name": "Do It Like This",
       "url": "https://open.spotify.com/track/5BdUzqEtecxcPOhLholdqb"
+    },
+    {
+      "album": {
+        "name": "Do It Like This",
+        "url": "https://open.spotify.com/album/3DjKXKeMukozWmQPXd9cft"
+      },
+      "artists": [
+        {
+          "name": "Duke & Jones",
+          "url": "https://open.spotify.com/artist/3jNm5wvIx1eR5NDdXhMkNV"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212578,
+      "name": "Do It Like This",
+      "url": "https://open.spotify.com/track/0T7rY2sXT0BJ7XpinOd6xt"
     },
     {
       "album": {
@@ -10870,7 +10964,7 @@
       ],
       "date_added": "2024-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 177230,
       "name": "Fall",
       "url": "https://open.spotify.com/track/2QNXbKeLQWsSJkPiyfmL3d"
@@ -11730,7 +11824,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 184290,
       "name": "Firestarter",
       "url": "https://open.spotify.com/track/40zrIbnQI3a3JRUvlKqoHT"
@@ -12200,7 +12294,7 @@
       ],
       "date_added": "2024-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 245639,
       "name": "Freakk",
       "url": "https://open.spotify.com/track/6h9bBSHQOcLVmqkcD4gIY4"
@@ -13370,6 +13464,28 @@
       "duration_ms": 230645,
       "name": "Getaway",
       "url": "https://open.spotify.com/track/3mREWT3SWgL5eNevye37bG"
+    },
+    {
+      "album": {
+        "name": "GETAWAY",
+        "url": "https://open.spotify.com/album/6HtqNgGjK86kJ8orgIccpt"
+      },
+      "artists": [
+        {
+          "name": "Riordan",
+          "url": "https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao"
+        },
+        {
+          "name": "Ellis Moss",
+          "url": "https://open.spotify.com/artist/0XOfJ1JJXwMVJG26ZZj3UQ"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163871,
+      "name": "GETAWAY",
+      "url": "https://open.spotify.com/track/29vEfX4XhKR4teS4mhyf2v"
     },
     {
       "album": {
@@ -15675,6 +15791,28 @@
     },
     {
       "album": {
+        "name": "House Party",
+        "url": "https://open.spotify.com/album/2pIOt3QbbGrxwNj64stMRT"
+      },
+      "artists": [
+        {
+          "name": "Ozzie Guven",
+          "url": "https://open.spotify.com/artist/6VjxkdeZYfc1U2pC3JmwLy"
+        },
+        {
+          "name": "Chris Gialanze",
+          "url": "https://open.spotify.com/artist/0Slntwm25yYlqpzONDfq86"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 390000,
+      "name": "House Party",
+      "url": "https://open.spotify.com/track/09WiBVowNXacBhTCtzoY5z"
+    },
+    {
+      "album": {
         "name": "House Shakin'",
         "url": "https://open.spotify.com/album/3RogXbj2plG96Slk6QiSIM"
       },
@@ -16560,7 +16698,7 @@
       ],
       "date_added": "2024-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 150923,
       "name": "I've Arrived (with Tomike)",
       "url": "https://open.spotify.com/track/2EPbupudXMt2oYC3iyl31o"
@@ -22574,7 +22712,7 @@
       ],
       "date_added": "2024-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 206769,
       "name": "Mommy",
       "url": "https://open.spotify.com/track/6ChqMdxPeCDn5i6C8j7JZs"
@@ -22986,7 +23124,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 186933,
       "name": "Move With Tha",
       "url": "https://open.spotify.com/track/5voZGXGTFZBn3nKZ6UJyxK"
@@ -23220,7 +23358,7 @@
       ],
       "date_added": "2024-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 227172,
       "name": "Mwaki",
       "url": "https://open.spotify.com/track/6vmTwYZ9Vc6UIp15jRJz9Z"
@@ -26740,7 +26878,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 234461,
       "name": "Planet Bass",
       "url": "https://open.spotify.com/track/5rNcvTadVp1GtW3G2OYNds"
@@ -27282,7 +27420,7 @@
       ],
       "date_added": "2024-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 182143,
       "name": "Promise",
       "url": "https://open.spotify.com/track/0T4wkxReOE9f1cr9ymQbIQ"
@@ -29687,6 +29825,24 @@
     },
     {
       "album": {
+        "name": "Savage",
+        "url": "https://open.spotify.com/album/4VH8YngXsLz68N0eQYiYpS"
+      },
+      "artists": [
+        {
+          "name": "Angel Heredia",
+          "url": "https://open.spotify.com/artist/6CQEcdCb4eIWDQPxCFfFRN"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 378750,
+      "name": "Savage",
+      "url": "https://open.spotify.com/track/3r6i3zJ5LhJH7KnIeOPZa1"
+    },
+    {
+      "album": {
         "name": "Genesys",
         "url": "https://open.spotify.com/album/7rCb8j8kaVvoKE44Dxf21y"
       },
@@ -30170,6 +30326,28 @@
       "duration_ms": 191040,
       "name": "Sexy303",
       "url": "https://open.spotify.com/track/6wUOvCrC8dRU4V9W9yDFQv"
+    },
+    {
+      "album": {
+        "name": "Discoth\u00e8que Records Vol. 5",
+        "url": "https://open.spotify.com/album/3vhAcOznjYIbVQXfZnVcyI"
+      },
+      "artists": [
+        {
+          "name": "SUBSHIFT",
+          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
+        },
+        {
+          "name": "Confession",
+          "url": "https://open.spotify.com/artist/415eldbC7phpeLkk7p5SG1"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153000,
+      "name": "Shaka",
+      "url": "https://open.spotify.com/track/4JjsTeJOcfvpj5t3IJijXr"
     },
     {
       "album": {
@@ -31598,6 +31776,24 @@
       "duration_ms": 298995,
       "name": "Soul - Extended",
       "url": "https://open.spotify.com/track/4n44U3URhByNH1BdXenHkx"
+    },
+    {
+      "album": {
+        "name": "Soul Snatcher",
+        "url": "https://open.spotify.com/album/6FC8kzQ4Bq4NvhQuq0VOiO"
+      },
+      "artists": [
+        {
+          "name": "Josh Baker",
+          "url": "https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340800,
+      "name": "Soul Snatcher",
+      "url": "https://open.spotify.com/track/7L7RIF825ARJWDNlrVfnP2"
     },
     {
       "album": {
@@ -34014,7 +34210,7 @@
       ],
       "date_added": "2024-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 177724,
       "name": "The Empty Spaces",
       "url": "https://open.spotify.com/track/7DYuawZFCKbnEwU79ALZRu"
@@ -36750,7 +36946,7 @@
       ],
       "date_added": "2024-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 197419,
       "name": "Uh",
       "url": "https://open.spotify.com/track/0Nu4AEUKydpFh5LSdUaxh8"

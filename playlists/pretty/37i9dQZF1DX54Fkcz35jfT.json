@@ -1,6 +1,6 @@
 {
   "description": "\u56fd\u5185\u5916\u306e\u69d8\u3005\u306a\u30b7\u30fc\u30f3\u3068\u5171\u9cf4\u3059\u308b\u65e5\u672c\u306e\u30e9\u30a6\u30c9\u30fb\u30ed\u30c3\u30af\u3092\u7279\u96c6\u3002Cover: Dragon Ash",
-  "num_followers": 45888,
+  "num_followers": 45895,
   "original_name": "Loud Rock Japan",
   "owner": {
     "name": "Spotify",
@@ -919,22 +919,6 @@
     {
       "added_at": "2024-10-01 15:00:00",
       "album": {
-        "name": "Cure",
-        "url": "https://open.spotify.com/album/1HwSii3IuxWnn2X3TgEPYg"
-      },
-      "artists": [
-        {
-          "name": "waterweed",
-          "url": "https://open.spotify.com/artist/3xo2d6Mjw5Gkb14HFOwFkQ"
-        }
-      ],
-      "duration_ms": 170232,
-      "name": "Cure",
-      "url": "https://open.spotify.com/track/4WP75fmmfAP4lPEC6eCFJB"
-    },
-    {
-      "added_at": "2024-10-01 15:00:00",
-      "album": {
         "name": "Yours",
         "url": "https://open.spotify.com/album/660LlaSFIjdfpzi7pwBjs1"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 153866,
       "name": "Love song",
       "url": "https://open.spotify.com/track/1Xv3BEDnnkYdJbBnoclyA4"
+    },
+    {
+      "added_at": "2024-10-01 15:00:00",
+      "album": {
+        "name": "Cure",
+        "url": "https://open.spotify.com/album/1HwSii3IuxWnn2X3TgEPYg"
+      },
+      "artists": [
+        {
+          "name": "waterweed",
+          "url": "https://open.spotify.com/artist/3xo2d6Mjw5Gkb14HFOwFkQ"
+        }
+      ],
+      "duration_ms": 170232,
+      "name": "Cure",
+      "url": "https://open.spotify.com/track/4WP75fmmfAP4lPEC6eCFJB"
     },
     {
       "added_at": "2024-10-01 15:00:00",
@@ -1083,18 +1083,18 @@
     {
       "added_at": "2024-10-01 15:00:00",
       "album": {
-        "name": "6or9",
-        "url": "https://open.spotify.com/album/37YSueAOHDxEEDW2SKmmBW"
+        "name": "Nonnegative",
+        "url": "https://open.spotify.com/album/2XA78l6T2geC3hfxcnOs6V"
       },
       "artists": [
         {
-          "name": "HYDE",
-          "url": "https://open.spotify.com/artist/0ZXSQd2JNOfwJcLNbX0jpN"
+          "name": "coldrain",
+          "url": "https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM"
         }
       ],
-      "duration_ms": 215220,
-      "name": "6or9",
-      "url": "https://open.spotify.com/track/5b2AjbOnzdOEQvbap9ZQdF"
+      "duration_ms": 233678,
+      "name": "From Today",
+      "url": "https://open.spotify.com/track/7qLbPd5yhm0Vne45PXPabV"
     },
     {
       "added_at": "2024-10-01 15:00:00",
@@ -1115,18 +1115,34 @@
     {
       "added_at": "2024-10-01 15:00:00",
       "album": {
-        "name": "Nonnegative",
-        "url": "https://open.spotify.com/album/2XA78l6T2geC3hfxcnOs6V"
+        "name": "YAEN",
+        "url": "https://open.spotify.com/album/3hZXeTpEDbl0gIRlUz6a3m"
       },
       "artists": [
         {
-          "name": "coldrain",
-          "url": "https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM"
+          "name": "\u30cf\u30eb\u30ab\u30df\u30e9\u30a4",
+          "url": "https://open.spotify.com/artist/75md6zjRjnsWICkdIzl8iI"
         }
       ],
-      "duration_ms": 233678,
-      "name": "From Today",
-      "url": "https://open.spotify.com/track/7qLbPd5yhm0Vne45PXPabV"
+      "duration_ms": 139892,
+      "name": "YAEN",
+      "url": "https://open.spotify.com/track/1UDmCjvSERuwfm71qJoOqs"
+    },
+    {
+      "added_at": "2024-10-01 15:00:00",
+      "album": {
+        "name": "6or9",
+        "url": "https://open.spotify.com/album/37YSueAOHDxEEDW2SKmmBW"
+      },
+      "artists": [
+        {
+          "name": "HYDE",
+          "url": "https://open.spotify.com/artist/0ZXSQd2JNOfwJcLNbX0jpN"
+        }
+      ],
+      "duration_ms": 215220,
+      "name": "6or9",
+      "url": "https://open.spotify.com/track/5b2AjbOnzdOEQvbap9ZQdF"
     },
     {
       "added_at": "2024-10-01 15:00:00",
@@ -1143,22 +1159,6 @@
       "duration_ms": 285700,
       "name": "THE LAST ROCKSTARS (PARIS MIX)",
       "url": "https://open.spotify.com/track/3V3BVSPAsXD3keTsZTXF4k"
-    },
-    {
-      "added_at": "2024-10-01 15:00:00",
-      "album": {
-        "name": "YAEN",
-        "url": "https://open.spotify.com/album/3hZXeTpEDbl0gIRlUz6a3m"
-      },
-      "artists": [
-        {
-          "name": "\u30cf\u30eb\u30ab\u30df\u30e9\u30a4",
-          "url": "https://open.spotify.com/artist/75md6zjRjnsWICkdIzl8iI"
-        }
-      ],
-      "duration_ms": 139892,
-      "name": "YAEN",
-      "url": "https://open.spotify.com/track/1UDmCjvSERuwfm71qJoOqs"
     },
     {
       "added_at": "2024-10-01 15:00:00",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2024-10-01 15:00:00",
       "album": {
-        "name": "TAKING THEM DOWN",
-        "url": "https://open.spotify.com/album/4SRTjaKlxpG3Y1UKnQaVrU"
-      },
-      "artists": [
-        {
-          "name": "HYDE",
-          "url": "https://open.spotify.com/artist/0ZXSQd2JNOfwJcLNbX0jpN"
-        }
-      ],
-      "duration_ms": 172974,
-      "name": "TAKING THEM DOWN",
-      "url": "https://open.spotify.com/track/3c1lVormOG2JXVtRXCQBOX"
-    },
-    {
-      "added_at": "2024-10-01 15:00:00",
-      "album": {
         "name": "smileY:)",
         "url": "https://open.spotify.com/album/4EfIqf312U2naIxOfWuxIn"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 115769,
       "name": "smileY:)",
       "url": "https://open.spotify.com/track/7D6gePpoootFzZr1f8lONE"
+    },
+    {
+      "added_at": "2024-10-01 15:00:00",
+      "album": {
+        "name": "TAKING THEM DOWN",
+        "url": "https://open.spotify.com/album/4SRTjaKlxpG3Y1UKnQaVrU"
+      },
+      "artists": [
+        {
+          "name": "HYDE",
+          "url": "https://open.spotify.com/artist/0ZXSQd2JNOfwJcLNbX0jpN"
+        }
+      ],
+      "duration_ms": 172974,
+      "name": "TAKING THEM DOWN",
+      "url": "https://open.spotify.com/track/3c1lVormOG2JXVtRXCQBOX"
     },
     {
       "added_at": "2024-10-01 15:00:00",
@@ -1471,18 +1471,18 @@
     {
       "added_at": "2024-10-01 15:00:00",
       "album": {
-        "name": "\u30ab\u30e2\u30f3\u6804\u4e00",
-        "url": "https://open.spotify.com/album/3Q67hGPemhh0Zj7WYVm9g7"
+        "name": "JUNGLE BUN DEM",
+        "url": "https://open.spotify.com/album/34W77zpgAiCyRDQ4RwhFwe"
       },
       "artists": [
         {
-          "name": "GOKUMON(UchikubiGokumonDoukoukai)",
-          "url": "https://open.spotify.com/artist/3EJLTLWBKED6IQdsGgOscG"
+          "name": "SPARK!!SOUND!!SHOW!!",
+          "url": "https://open.spotify.com/artist/1bFs9Etj0H2sq0vmmwmmDU"
         }
       ],
-      "duration_ms": 218242,
-      "name": "\u30ab\u30e2\u30f3\u6804\u4e00",
-      "url": "https://open.spotify.com/track/5y2qz18Ryt51C2WHnqOkYR"
+      "duration_ms": 193520,
+      "name": "JUNGLE BUN DEM",
+      "url": "https://open.spotify.com/track/63db8vQEJP7cjNgmGLQJ3G"
     },
     {
       "added_at": "2024-10-01 15:00:00",
@@ -1503,18 +1503,18 @@
     {
       "added_at": "2024-10-01 15:00:00",
       "album": {
-        "name": "JUNGLE BUN DEM",
-        "url": "https://open.spotify.com/album/34W77zpgAiCyRDQ4RwhFwe"
+        "name": "\u30ab\u30e2\u30f3\u6804\u4e00",
+        "url": "https://open.spotify.com/album/3Q67hGPemhh0Zj7WYVm9g7"
       },
       "artists": [
         {
-          "name": "SPARK!!SOUND!!SHOW!!",
-          "url": "https://open.spotify.com/artist/1bFs9Etj0H2sq0vmmwmmDU"
+          "name": "GOKUMON(UchikubiGokumonDoukoukai)",
+          "url": "https://open.spotify.com/artist/3EJLTLWBKED6IQdsGgOscG"
         }
       ],
-      "duration_ms": 193520,
-      "name": "JUNGLE BUN DEM",
-      "url": "https://open.spotify.com/track/63db8vQEJP7cjNgmGLQJ3G"
+      "duration_ms": 218242,
+      "name": "\u30ab\u30e2\u30f3\u6804\u4e00",
+      "url": "https://open.spotify.com/track/5y2qz18Ryt51C2WHnqOkYR"
     },
     {
       "added_at": "2024-10-01 15:00:00",
@@ -1643,18 +1643,22 @@
     {
       "added_at": "2024-10-01 15:00:00",
       "album": {
-        "name": "800TRIBUTE-champloo is the BEST!!2-",
-        "url": "https://open.spotify.com/album/2zzC7u1h87UCWnnT60zTTm"
+        "name": "living dead!!",
+        "url": "https://open.spotify.com/album/01wPQIcyuFaHT5OzqKjIVI"
       },
       "artists": [
         {
-          "name": "HEY-SMITH",
-          "url": "https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL"
+          "name": "(sic)boy",
+          "url": "https://open.spotify.com/artist/19FI3bwyW062xAmEy3rzsk"
+        },
+        {
+          "name": "KM",
+          "url": "https://open.spotify.com/artist/2Nz5XwOa02deTyyS2vw5Wa"
         }
       ],
-      "duration_ms": 164313,
-      "name": "HAPPY BIRTHDAY",
-      "url": "https://open.spotify.com/track/7x7giWw9D02rZ29zrcVEth"
+      "duration_ms": 147157,
+      "name": "living dead!!",
+      "url": "https://open.spotify.com/track/3oamfw1nAipiBdqnnaIMHL"
     },
     {
       "added_at": "2024-10-01 15:00:00",
@@ -1675,22 +1679,18 @@
     {
       "added_at": "2024-10-01 15:00:00",
       "album": {
-        "name": "living dead!!",
-        "url": "https://open.spotify.com/album/01wPQIcyuFaHT5OzqKjIVI"
+        "name": "800TRIBUTE-champloo is the BEST!!2-",
+        "url": "https://open.spotify.com/album/2zzC7u1h87UCWnnT60zTTm"
       },
       "artists": [
         {
-          "name": "(sic)boy",
-          "url": "https://open.spotify.com/artist/19FI3bwyW062xAmEy3rzsk"
-        },
-        {
-          "name": "KM",
-          "url": "https://open.spotify.com/artist/2Nz5XwOa02deTyyS2vw5Wa"
+          "name": "HEY-SMITH",
+          "url": "https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL"
         }
       ],
-      "duration_ms": 147157,
-      "name": "living dead!!",
-      "url": "https://open.spotify.com/track/3oamfw1nAipiBdqnnaIMHL"
+      "duration_ms": 164313,
+      "name": "HAPPY BIRTHDAY",
+      "url": "https://open.spotify.com/track/7x7giWw9D02rZ29zrcVEth"
     }
   ],
   "unique_name": "Loud Rock Japan",

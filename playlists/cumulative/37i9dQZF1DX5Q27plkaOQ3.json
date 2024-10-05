@@ -470,7 +470,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 171058,
       "name": "Always Wanna Talk",
       "url": "https://open.spotify.com/track/37WgviAL9YLn5HHCCFZLmd"
@@ -766,7 +766,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 243200,
       "name": "Asteroid",
       "url": "https://open.spotify.com/track/3twU0ngWzakD9k07Kb5eoV"
@@ -1178,10 +1178,28 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 204798,
       "name": "BANG YOUR HEAD",
       "url": "https://open.spotify.com/track/2vk63a0DpsEDiCG4k0mjCF"
+    },
+    {
+      "album": {
+        "name": "Bariatric Bass",
+        "url": "https://open.spotify.com/album/1kdRZbW6gaOfi2Kv1avsv4"
+      },
+      "artists": [
+        {
+          "name": "TRAWMA",
+          "url": "https://open.spotify.com/artist/7yJTHjPkoxiyBnHq3iVGIn"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177935,
+      "name": "Bariatric Bass",
+      "url": "https://open.spotify.com/track/1nUns6KCqp5Z5GUeRvoTdo"
     },
     {
       "album": {
@@ -1200,10 +1218,36 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 173200,
       "name": "BASS FACE",
       "url": "https://open.spotify.com/track/1BmHjaoOzE4bkBBbNdVnCq"
+    },
+    {
+      "album": {
+        "name": "Bass Face",
+        "url": "https://open.spotify.com/album/1y8Z4oeuzxfPsQF3wU1It5"
+      },
+      "artists": [
+        {
+          "name": "SNAILS",
+          "url": "https://open.spotify.com/artist/2yT7X3Gg2S51DHz67FAYL6"
+        },
+        {
+          "name": "NITTI",
+          "url": "https://open.spotify.com/artist/21AUdblPrTRzkvJn8FGrlk"
+        },
+        {
+          "name": "Stained With Silver",
+          "url": "https://open.spotify.com/artist/4VOVIahGBqyaFoUbWvrMeo"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180800,
+      "name": "Bass Face",
+      "url": "https://open.spotify.com/track/0r0zDWOaHTD9pZWI2jvM2V"
     },
     {
       "album": {
@@ -1324,6 +1368,24 @@
       "duration_ms": 234666,
       "name": "Bear Witness",
       "url": "https://open.spotify.com/track/407XWCEUEGIpqbEmqZchHj"
+    },
+    {
+      "album": {
+        "name": "Become A God EP",
+        "url": "https://open.spotify.com/album/010HgN9zQOgL78IepoEliq"
+      },
+      "artists": [
+        {
+          "name": "Perry Wayne",
+          "url": "https://open.spotify.com/artist/1sJO9NMvEseJKrVeXEwTqB"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222857,
+      "name": "Become A God",
+      "url": "https://open.spotify.com/track/40kpDixmgcVgLp1mbnk9py"
     },
     {
       "album": {
@@ -1448,7 +1510,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 256000,
       "name": "Big Boss - Zomboy Remix",
       "url": "https://open.spotify.com/track/22HbOaQNUoOQ9jQ5TRpvkD"
@@ -1716,7 +1778,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 202758,
       "name": "Bone Breaker",
       "url": "https://open.spotify.com/track/6t7QJBcI7xDcjKjRO4mBDf"
@@ -2218,7 +2280,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-27",
+      "date_removed": null,
       "duration_ms": 144000,
       "name": "Caffeine Induced Psychosis",
       "url": "https://open.spotify.com/track/0zQxgmvnWOFOgWVyt3OOoh"
@@ -2298,7 +2360,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-01",
+      "date_removed": null,
       "duration_ms": 136000,
       "name": "Canal Street Crook",
       "url": "https://open.spotify.com/track/4uNO3gJ1u3PYuaZjYbqU7P"
@@ -2492,7 +2554,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 219428,
       "name": "Certified",
       "url": "https://open.spotify.com/track/3mYP9Tec1OzcwNKuCEqJzE"
@@ -3122,7 +3184,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 231724,
       "name": "CYBERHELL",
       "url": "https://open.spotify.com/track/2NfAq9xX1bEVWueNRDZh7n"
@@ -3396,7 +3458,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-11",
+      "date_removed": null,
       "duration_ms": 216998,
       "name": "Death Wish (with Micah Martin)",
       "url": "https://open.spotify.com/track/0dZTEB9raQkSRtZkSzFx0h"
@@ -4537,6 +4599,28 @@
     },
     {
       "album": {
+        "name": "Eat Your Heart Out",
+        "url": "https://open.spotify.com/album/2f8DPiKpgp6NHcrK8VZNc1"
+      },
+      "artists": [
+        {
+          "name": "Oliverse",
+          "url": "https://open.spotify.com/artist/3fFMSweDNwFGyHcxjN7MWp"
+        },
+        {
+          "name": "Dani King",
+          "url": "https://open.spotify.com/artist/3IoL23eRnUfAwnOTsbTLVp"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264000,
+      "name": "Eat Your Heart Out",
+      "url": "https://open.spotify.com/track/2MymKtopdFwaGQfecL4rQY"
+    },
+    {
+      "album": {
         "name": "Eclipse",
         "url": "https://open.spotify.com/album/3XjD5Vaq09m61AYKjQth7K"
       },
@@ -5074,7 +5158,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 228800,
       "name": "Fall Apart - GHENGAR Remix",
       "url": "https://open.spotify.com/track/5iL0iMVwZVVfi3VxlVzf1A"
@@ -5092,7 +5176,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 220974,
       "name": "Fallout",
       "url": "https://open.spotify.com/track/37wgdvYBFxYsLTTQKwqctw"
@@ -5245,6 +5329,24 @@
     },
     {
       "album": {
+        "name": "FEEL THIS",
+        "url": "https://open.spotify.com/album/4XmAELT7o9pCbK0L5I4TzQ"
+      },
+      "artists": [
+        {
+          "name": "TRXGGX",
+          "url": "https://open.spotify.com/artist/1JnzIVfoK5jO7HhyHJuk9A"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181846,
+      "name": "FEEL THIS",
+      "url": "https://open.spotify.com/track/3YKVO9jYj0hcadXjcUrb0Y"
+    },
+    {
+      "album": {
         "name": "Feral",
         "url": "https://open.spotify.com/album/5hfXeWane0cxOaaiCzADrK"
       },
@@ -5300,7 +5402,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 172800,
       "name": "FINAL BOSS",
       "url": "https://open.spotify.com/track/380VILV9jrUUVxKPHO0VSA"
@@ -5454,7 +5556,7 @@
       ],
       "date_added": "2024-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-01",
+      "date_removed": null,
       "duration_ms": 166400,
       "name": "FLAMES",
       "url": "https://open.spotify.com/track/0LEIDdz54zBe9QoyZKaF9q"
@@ -5634,7 +5736,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-22",
+      "date_removed": null,
       "duration_ms": 198857,
       "name": "Forgive Forget",
       "url": "https://open.spotify.com/track/3DyZ0jw7mjRdcwiDvAL26Q"
@@ -7220,7 +7322,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-08",
+      "date_removed": null,
       "duration_ms": 182800,
       "name": "Hypnotic Cycle",
       "url": "https://open.spotify.com/track/3waqzZPc7fwEx3JKB5gqqZ"
@@ -7730,7 +7832,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-01",
+      "date_removed": null,
       "duration_ms": 177103,
       "name": "Internet G",
       "url": "https://open.spotify.com/track/0WfQUDK0wxEjecrAzQL84y"
@@ -8156,7 +8258,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 185379,
       "name": "Kiss of Death",
       "url": "https://open.spotify.com/track/0AHXy0dHUQWSryFkIJXPx0"
@@ -8178,7 +8280,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 171982,
       "name": "KNOCKOUT",
       "url": "https://open.spotify.com/track/4vUP3RvK7Sk0RpGvHsLYLr"
@@ -8474,7 +8576,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 192732,
       "name": "Like That",
       "url": "https://open.spotify.com/track/3FDyCoOHVoiSRmNeAlZnM0"
@@ -9124,7 +9226,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 270857,
       "name": "Mind Pluck",
       "url": "https://open.spotify.com/track/3W9xukFv9kGLkLbEe2YITe"
@@ -9406,7 +9508,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 223200,
       "name": "Mutation",
       "url": "https://open.spotify.com/track/0p2dTl1xjRTa7Q3OZBS5zW"
@@ -9815,6 +9917,24 @@
     },
     {
       "album": {
+        "name": "No Love",
+        "url": "https://open.spotify.com/album/5CY1wqfjnCowKym2EwyHKv"
+      },
+      "artists": [
+        {
+          "name": "Hostage Situation",
+          "url": "https://open.spotify.com/artist/1UnA09CtdmT16mvmzbXnON"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135724,
+      "name": "No Love",
+      "url": "https://open.spotify.com/track/2zPSCwMQCrLczV78bUCldh"
+    },
+    {
+      "album": {
         "name": "No Man's Land",
         "url": "https://open.spotify.com/album/3GXvMlbnXFqM8TwtWmQlr8"
       },
@@ -9830,7 +9950,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-11",
+      "date_removed": null,
       "duration_ms": 185142,
       "name": "No Man's Land",
       "url": "https://open.spotify.com/track/3nALdbtF15cI6X8BC4b1vP"
@@ -9920,10 +10040,32 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-28",
+      "date_removed": null,
       "duration_ms": 168800,
       "name": "No Tomorrow",
       "url": "https://open.spotify.com/track/5I6QPCmh3gks5rs7XaQQ60"
+    },
+    {
+      "album": {
+        "name": "Noisy Boys",
+        "url": "https://open.spotify.com/album/5lxwsxClvVt8C4XOxtTGjV"
+      },
+      "artists": [
+        {
+          "name": "Cookie Monsta",
+          "url": "https://open.spotify.com/artist/2uGNBmaWvxF6HAcWuhK7OP"
+        },
+        {
+          "name": "Doctor P",
+          "url": "https://open.spotify.com/artist/0tgjwsn1Lpjj8kKEvWm0KQ"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195186,
+      "name": "Noisy Boys",
+      "url": "https://open.spotify.com/track/3JCckl9tjLZnfjguaxyckw"
     },
     {
       "album": {
@@ -10106,7 +10248,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 209400,
       "name": "Oh Dang!",
       "url": "https://open.spotify.com/track/6RfJ36FxithGj2P3bfbG1L"
@@ -10222,7 +10364,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 222608,
       "name": "Omnidirectional",
       "url": "https://open.spotify.com/track/3Uadv5DQG3qXZ1jFYIQBVT"
@@ -11056,7 +11198,7 @@
       ],
       "date_added": "2024-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 225212,
       "name": "Project Z",
       "url": "https://open.spotify.com/track/3CLhTFlOw3qvfQhl4ax4Qg"
@@ -11128,7 +11270,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-26",
+      "date_removed": null,
       "duration_ms": 210482,
       "name": "Pugilist Pit",
       "url": "https://open.spotify.com/track/5o8jJo5vTJtVQfIWeceveB"
@@ -11264,6 +11406,24 @@
       "duration_ms": 148000,
       "name": "Pushing On",
       "url": "https://open.spotify.com/track/2eK7XCveaHytVpdCdzVwtp"
+    },
+    {
+      "album": {
+        "name": "Pyro",
+        "url": "https://open.spotify.com/album/3MftRi1eDzP3R2TTDoR0mU"
+      },
+      "artists": [
+        {
+          "name": "MY BAD",
+          "url": "https://open.spotify.com/artist/63L7fapgmG0gsJPlsMr6ui"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193600,
+      "name": "Pyro",
+      "url": "https://open.spotify.com/track/0sggDUdbjmBBh0aNfjweuo"
     },
     {
       "album": {
@@ -11480,7 +11640,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-30",
+      "date_removed": null,
       "duration_ms": 283943,
       "name": "Rave Operator",
       "url": "https://open.spotify.com/track/37vXJPguVozs4XKe31ilWD"
@@ -11502,7 +11662,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 184000,
       "name": "RAVEN",
       "url": "https://open.spotify.com/track/6tk1LRABEXt2zygYj3jmPt"
@@ -11970,7 +12130,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-15",
+      "date_removed": null,
       "duration_ms": 186625,
       "name": "Riot - Kompany Remix",
       "url": "https://open.spotify.com/track/74tFYoNHmTSQ9z3rhGKD0X"
@@ -12178,7 +12338,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 219427,
       "name": "Rude Boy - EAZYBAKED Remix",
       "url": "https://open.spotify.com/track/2VsXJnwpCgPjoj84rMwBdY"
@@ -12204,6 +12364,28 @@
       "duration_ms": 195250,
       "name": "Ruin U",
       "url": "https://open.spotify.com/track/6fvdPHXZnUl9UX2OgoT7Cq"
+    },
+    {
+      "album": {
+        "name": "RUN DAT AGAIN",
+        "url": "https://open.spotify.com/album/2JUHMebAGGbqSWIu7ZU7An"
+      },
+      "artists": [
+        {
+          "name": "HURTBOX",
+          "url": "https://open.spotify.com/artist/7rGhKsxlC6oLrCZmvh9rX6"
+        },
+        {
+          "name": "Aweminus",
+          "url": "https://open.spotify.com/artist/3sS9RKjrDJMl7zpG3cWHk7"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198870,
+      "name": "RUN DAT AGAIN",
+      "url": "https://open.spotify.com/track/6eJNvhpwaeh5AoozuiSmtr"
     },
     {
       "album": {
@@ -12726,7 +12908,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 194839,
       "name": "Shape Shifter",
       "url": "https://open.spotify.com/track/48QPjsjPblbFMV33O0k8Qx"
@@ -12806,7 +12988,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-20",
+      "date_removed": null,
       "duration_ms": 158896,
       "name": "Shibuya",
       "url": "https://open.spotify.com/track/0COch7JwRyW0c7N8eZTC5w"
@@ -12908,7 +13090,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-13",
+      "date_removed": null,
       "duration_ms": 145333,
       "name": "Show Me",
       "url": "https://open.spotify.com/track/18fkKMZ9OA0NBBRSOOVWNj"
@@ -13064,7 +13246,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 195310,
       "name": "Skull Machine",
       "url": "https://open.spotify.com/track/2cOWubLiLHeYDpUMIxq0qM"
@@ -13174,7 +13356,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 222315,
       "name": "Smoak & Sip",
       "url": "https://open.spotify.com/track/48abYOiPEloRHZ4XsMmVDA"
@@ -13356,7 +13538,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-22",
+      "date_removed": null,
       "duration_ms": 193866,
       "name": "Sonic Beef",
       "url": "https://open.spotify.com/track/5ge5D4RdUvclju1DBaTFcM"
@@ -13810,7 +13992,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 156924,
       "name": "STFU",
       "url": "https://open.spotify.com/track/0v1nobrUSVLIXrYaI4zwkw"
@@ -13970,7 +14152,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-02",
+      "date_removed": null,
       "duration_ms": 248275,
       "name": "Strapped",
       "url": "https://open.spotify.com/track/5LRjTa2Gx621pNhX0i04RU"
@@ -14222,7 +14404,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 136615,
       "name": "Sylky",
       "url": "https://open.spotify.com/track/5gfIjW3jXyvLAcRV8Fr2lj"
@@ -14240,7 +14422,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 193714,
       "name": "Symphony of the Dead",
       "url": "https://open.spotify.com/track/6xaRlWKa6wPQX2PqYFaD0z"
@@ -14262,7 +14444,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 178758,
       "name": "T.O.A.D.",
       "url": "https://open.spotify.com/track/255aqjr60zsuqvu7yJPUZM"
@@ -14746,7 +14928,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-02",
+      "date_removed": null,
       "duration_ms": 153600,
       "name": "The Epic",
       "url": "https://open.spotify.com/track/0AhFGeVzLGn3VaPplKhSKZ"
@@ -15124,7 +15306,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-07",
+      "date_removed": null,
       "duration_ms": 296571,
       "name": "Third Eye Vision",
       "url": "https://open.spotify.com/track/1waLYktQF1ByPCP3PjTTfb"
@@ -15304,7 +15486,7 @@
       ],
       "date_added": "2023-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 210000,
       "name": "Titans",
       "url": "https://open.spotify.com/track/0StQdn3iO5vdHFH8ZR6Cuo"
@@ -15562,7 +15744,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 185142,
       "name": "Trip Sitter",
       "url": "https://open.spotify.com/track/2kRU9Bg9OnV0xZXSHWi2h1"
@@ -15676,7 +15858,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 212571,
       "name": "Turmoil",
       "url": "https://open.spotify.com/track/2oJxVoQI9QxXRt8EYN8mEA"
@@ -15716,7 +15898,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-13",
+      "date_removed": null,
       "duration_ms": 238344,
       "name": "Turn It Up - Slushii & Afinity VIP",
       "url": "https://open.spotify.com/track/1Z0sPQusIl7lmuIcee9HYa"
@@ -15848,7 +16030,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-21",
+      "date_removed": null,
       "duration_ms": 161280,
       "name": "Undaground",
       "url": "https://open.spotify.com/track/5utbHoL1W47GeoQfNXK7J9"
@@ -16134,7 +16316,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-01",
+      "date_removed": null,
       "duration_ms": 220941,
       "name": "WAR",
       "url": "https://open.spotify.com/track/2kUq2iP9VsoIyH48plCbE8"
@@ -16218,7 +16400,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 218630,
       "name": "WATCH YA MOUTH",
       "url": "https://open.spotify.com/track/62HS7iWAxnrOuM8oD9fDML"
@@ -16417,7 +16599,7 @@
     },
     {
       "album": {
-        "name": "Whoah, Fire!",
+        "name": "Whoa Fire!",
         "url": "https://open.spotify.com/album/0n9MXGkIxBwC0NvHH1wzvD"
       },
       "artists": [
@@ -16428,9 +16610,9 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-06",
+      "date_removed": null,
       "duration_ms": 188689,
-      "name": "Whoah, Fire!",
+      "name": "Whoa Fire!",
       "url": "https://open.spotify.com/track/1m3PihD00HUc3eNeabNCEg"
     },
     {
@@ -16508,7 +16690,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-14",
+      "date_removed": null,
       "duration_ms": 210857,
       "name": "You Liar",
       "url": "https://open.spotify.com/track/15xbZhlUpwLzaY6fFz60lQ"

@@ -4,7 +4,7 @@
 
 > Home is where the main stage is 💗 with Swedish House Mafia
 
-702 songs - 1 day 12 hr 4 min
+703 songs - 1 day 12 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -206,7 +206,8 @@
 | [Forget You](https://open.spotify.com/track/5yo9aAVvgiINP2lowSXP5Y) | [Yves V](https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV), [Robert Falcon](https://open.spotify.com/artist/5CVwY7MrkxGF1aM4f1u6Xk), [Jimmy Clash](https://open.spotify.com/artist/0Aa2FUc7MciV28GazFTWJb) | [Forget You](https://open.spotify.com/album/52ZSrn0YqEzPtIlzpQjhv3) | 2:45 | 2022-03-18 | 2022-04-18 |
 | [Freak](https://open.spotify.com/track/1XyAphE6uebTqvrJw174Cp) | [Tujamo](https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh), [Azteck](https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS), [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [Freak](https://open.spotify.com/album/5GbbjwLHtRH8qSB1LfkyVn) | 2:33 | 2023-07-28 | 2024-02-20 |
 | [Free](https://open.spotify.com/track/5Y4L2jaSYxvPlhz6T8HRAl) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Free](https://open.spotify.com/album/3iwNd4M1ghGUUb86BUq6qo) | 3:18 | 2023-09-01 | 2023-10-24 |
-| [Free \(with Ellie Goulding\)](https://open.spotify.com/track/3NxB1jubUWY6zit9rOk8ZC) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Free \(with Ellie Goulding\)](https://open.spotify.com/album/6guctDCaYE7AhYqtX6RxNE) | 3:32 | 2024-07-26 |  |
+| [Free \(with Ellie Goulding\)](https://open.spotify.com/track/3NxB1jubUWY6zit9rOk8ZC) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Free \(with Ellie Goulding\)](https://open.spotify.com/album/6guctDCaYE7AhYqtX6RxNE) | 3:32 | 2024-07-26 | 2024-10-05 |
+| [Free \(with Ellie Goulding\) \- Nicky Romero Remix](https://open.spotify.com/track/5teofOpFb6BllwQT8OmqIf) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Free \(with Ellie Goulding\) \[Nicky Romero Remix\]](https://open.spotify.com/album/2MObLeDrhGjJMULsc9kAzp) | 3:44 | 2024-10-04 |  |
 | [Freedom](https://open.spotify.com/track/2v0d2zo4bgHkge4B1O6e3c) | [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo) | [Freedom](https://open.spotify.com/album/7C6Oa0Myixsesf55mp5yO1) | 2:38 | 2022-11-18 | 2023-10-16 |
 | [Freeze](https://open.spotify.com/track/4X66U6SUjvZqiKYIpCWXnq) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4) | [Freeze](https://open.spotify.com/album/3R2mQavCvrDfM3kZL2B8dh) | 8:07 | 2022-05-06 | 2023-07-29 |
 | [Friendly Fires](https://open.spotify.com/track/7mY5rHx11vyazThG8xIBzO) | [Gareth Emery](https://open.spotify.com/artist/0hprEC0nsWuQPSHag1O2Vi), [Dani Poppitt](https://open.spotify.com/artist/2fSGqh4BJpl0T1LHtd9TQ8) | [Friendly Fires](https://open.spotify.com/album/5DSqWQweJZuWicITrNXwOA) | 4:52 | 2021-06-04 | 2022-07-25 |

@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor de la nueva. Foto: AKRIILA, TAICHU",
-  "num_followers": 76366,
+  "num_followers": 76394,
   "original_name": "Academia Reggaet\u00f3n",
   "owner": {
     "name": "Spotify",
@@ -935,6 +935,26 @@
     {
       "added_at": "2024-09-13 18:46:32",
       "album": {
+        "name": "Tus Besos (Remix)",
+        "url": "https://open.spotify.com/album/4M0AZNWr6KbYVxtcsXjCNH"
+      },
+      "artists": [
+        {
+          "name": "Juanka",
+          "url": "https://open.spotify.com/artist/3Wb38LDP3N4tkobValgE9D"
+        },
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        }
+      ],
+      "duration_ms": 229106,
+      "name": "Tus Besos - Remix",
+      "url": "https://open.spotify.com/track/4SieMb6AQmQgbjv9TfC5Qm"
+    },
+    {
+      "added_at": "2024-09-13 18:46:32",
+      "album": {
         "name": "Cartagena",
         "url": "https://open.spotify.com/album/7GWo7V5ynQbXrLOKB2aX4u"
       },
@@ -955,26 +975,6 @@
       "duration_ms": 195163,
       "name": "Cartagena",
       "url": "https://open.spotify.com/track/04xYsXTqDPw63leBivg2pf"
-    },
-    {
-      "added_at": "2024-09-13 18:46:32",
-      "album": {
-        "name": "Tus Besos (Remix)",
-        "url": "https://open.spotify.com/album/4M0AZNWr6KbYVxtcsXjCNH"
-      },
-      "artists": [
-        {
-          "name": "Juanka",
-          "url": "https://open.spotify.com/artist/3Wb38LDP3N4tkobValgE9D"
-        },
-        {
-          "name": "Jay Wheeler",
-          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
-        }
-      ],
-      "duration_ms": 229106,
-      "name": "Tus Besos - Remix",
-      "url": "https://open.spotify.com/track/4SieMb6AQmQgbjv9TfC5Qm"
     },
     {
       "added_at": "2024-09-13 18:46:32",

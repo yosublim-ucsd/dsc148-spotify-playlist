@@ -1,12 +1,12 @@
 {
   "description": "This is Gunna. The essential tracks, all in one playlist.",
-  "num_followers": 155282,
+  "num_followers": 155354,
   "original_name": "This Is Gunna",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvyNAAAAAADgv6f/vNk4NcjzrWgPzu7B",
+  "snapshot_id": "Zv3egAAAAABgYqdvf5LC4QmmWzNiX6K1",
   "tracks": [
     {
       "added_at": null,
@@ -23,26 +23,6 @@
       "duration_ms": 125040,
       "name": "fukumean",
       "url": "https://open.spotify.com/track/4rXLjWdF2ZZpXCVTfWcshS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Champs \u00c9lys\u00e9es (feat. Gunna)",
-        "url": "https://open.spotify.com/album/4a9IJ72QKdzVHFoj6jflQz"
-      },
-      "artists": [
-        {
-          "name": "Toosii",
-          "url": "https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1"
-        },
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 156097,
-      "name": "Champs \u00c9lys\u00e9es (feat. Gunna)",
-      "url": "https://open.spotify.com/track/2b7jU3d9AZAotfi0pvLaec"
     },
     {
       "added_at": null,
@@ -223,6 +203,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Champs \u00c9lys\u00e9es (feat. Gunna)",
+        "url": "https://open.spotify.com/album/4a9IJ72QKdzVHFoj6jflQz"
+      },
+      "artists": [
+        {
+          "name": "Toosii",
+          "url": "https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 156097,
+      "name": "Champs \u00c9lys\u00e9es (feat. Gunna)",
+      "url": "https://open.spotify.com/track/2b7jU3d9AZAotfi0pvLaec"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Happiness (feat. Asake & Gunna)",
         "url": "https://open.spotify.com/album/0D5fIo40wr5QpfUQ2l26vf"
       },
@@ -263,6 +263,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "One of Wun",
+        "url": "https://open.spotify.com/album/7g0PJ7VbsOkYTECUFkyNPN"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        },
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        }
+      ],
+      "duration_ms": 165346,
+      "name": "prada dem (feat. Offset)",
+      "url": "https://open.spotify.com/track/7fzN9lz890zav0HERLvVKZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Harder Than Ever",
         "url": "https://open.spotify.com/album/7yf9ZJyHRbp8sHtpDKfPpt"
       },
@@ -283,26 +303,6 @@
       "duration_ms": 247054,
       "name": "Life Goes On",
       "url": "https://open.spotify.com/track/2bSk87AVkCIIC3Bcligq1z"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "One of Wun",
-        "url": "https://open.spotify.com/album/7g0PJ7VbsOkYTECUFkyNPN"
-      },
-      "artists": [
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        },
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        }
-      ],
-      "duration_ms": 165346,
-      "name": "prada dem (feat. Offset)",
-      "url": "https://open.spotify.com/track/7fzN9lz890zav0HERLvVKZ"
     },
     {
       "added_at": null,
@@ -343,6 +343,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "One of Wun",
+        "url": "https://open.spotify.com/album/7g0PJ7VbsOkYTECUFkyNPN"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        },
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        }
+      ],
+      "duration_ms": 200786,
+      "name": "let it breathe (feat. Roddy Ricch)",
+      "url": "https://open.spotify.com/track/4vpx4cL7IRedZul0j0bL2c"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Receipts (feat. Gunna)",
         "url": "https://open.spotify.com/album/44hwz3eFAgDFt5NzOtBaqd"
       },
@@ -363,26 +383,6 @@
       "duration_ms": 234461,
       "name": "Receipts (feat. Gunna)",
       "url": "https://open.spotify.com/track/5fiKIc9nFfSt1FsBHrSvWZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "One of Wun",
-        "url": "https://open.spotify.com/album/7g0PJ7VbsOkYTECUFkyNPN"
-      },
-      "artists": [
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        },
-        {
-          "name": "Roddy Ricch",
-          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
-        }
-      ],
-      "duration_ms": 200786,
-      "name": "let it breathe (feat. Roddy Ricch)",
-      "url": "https://open.spotify.com/track/4vpx4cL7IRedZul0j0bL2c"
     },
     {
       "added_at": null,
@@ -431,6 +431,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "One of Wun",
+        "url": "https://open.spotify.com/album/7g0PJ7VbsOkYTECUFkyNPN"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 147720,
+      "name": "collage",
+      "url": "https://open.spotify.com/track/41TXadM22OIJY04xSW9iuv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "WUNNA",
         "url": "https://open.spotify.com/album/0gA0nZrZ55PLUp7ARfrICu"
       },
@@ -451,18 +467,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "One of Wun",
-        "url": "https://open.spotify.com/album/7g0PJ7VbsOkYTECUFkyNPN"
+        "name": "BABY I'M BACK (Remix)",
+        "url": "https://open.spotify.com/album/4TCXp0ZTbzKsmRIAmRPofE"
       },
       "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        },
         {
           "name": "Gunna",
           "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
         }
       ],
-      "duration_ms": 147720,
-      "name": "collage",
-      "url": "https://open.spotify.com/track/41TXadM22OIJY04xSW9iuv"
+      "duration_ms": 230540,
+      "name": "BABY I'M BACK - Remix",
+      "url": "https://open.spotify.com/track/2vlUAb1FCGBt2hLKIOVjN7"
     },
     {
       "added_at": null,
@@ -575,22 +595,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "BABY I'M BACK (Remix)",
-        "url": "https://open.spotify.com/album/4TCXp0ZTbzKsmRIAmRPofE"
+        "name": "Style Rare (with Gunna)",
+        "url": "https://open.spotify.com/album/05MZLUrinCJorGmOMcnXF0"
       },
       "artists": [
         {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
         },
         {
           "name": "Gunna",
           "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
         }
       ],
-      "duration_ms": 230540,
-      "name": "BABY I'M BACK - Remix",
-      "url": "https://open.spotify.com/track/2vlUAb1FCGBt2hLKIOVjN7"
+      "duration_ms": 208800,
+      "name": "Style Rare (with Gunna)",
+      "url": "https://open.spotify.com/track/16k6Mkih2WIccEjhtRmMni"
     },
     {
       "added_at": null,
@@ -615,26 +635,6 @@
       "duration_ms": 136266,
       "name": "pushin P (feat. Young Thug)",
       "url": "https://open.spotify.com/track/3XOalgusokruzA5ZBA2Qcb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Style Rare (with Gunna)",
-        "url": "https://open.spotify.com/album/05MZLUrinCJorGmOMcnXF0"
-      },
-      "artists": [
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        },
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 208800,
-      "name": "Style Rare (with Gunna)",
-      "url": "https://open.spotify.com/track/16k6Mkih2WIccEjhtRmMni"
     },
     {
       "added_at": null,
@@ -871,30 +871,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Slime Language 2",
-        "url": "https://open.spotify.com/album/3ihwKkIMJWmmp1huNH0iWC"
-      },
-      "artists": [
-        {
-          "name": "Young Stoner Life",
-          "url": "https://open.spotify.com/artist/1xr2G8Hlx4QWmT9HaUbmoO"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        },
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 152333,
-      "name": "Ski",
-      "url": "https://open.spotify.com/track/6755DFiZ7CWe2WMdTGW5C1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Good Intentions",
         "url": "https://open.spotify.com/album/0jk3nAmtiIfwLU4CvDDMaS"
       },
@@ -915,6 +891,30 @@
       "duration_ms": 161319,
       "name": "Turks (with Gunna & ft. Travis Scott)",
       "url": "https://open.spotify.com/track/7IMwEtpAiJanqF6vQteZN2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Slime Language 2",
+        "url": "https://open.spotify.com/album/3ihwKkIMJWmmp1huNH0iWC"
+      },
+      "artists": [
+        {
+          "name": "Young Stoner Life",
+          "url": "https://open.spotify.com/artist/1xr2G8Hlx4QWmT9HaUbmoO"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 152333,
+      "name": "Ski",
+      "url": "https://open.spotify.com/track/6755DFiZ7CWe2WMdTGW5C1"
     },
     {
       "added_at": null,
@@ -1031,26 +1031,6 @@
       "duration_ms": 131493,
       "name": "ca$h $hit",
       "url": "https://open.spotify.com/track/48rsYvIQXUAtxcmIoStOaM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Twelve Carat Toothache",
-        "url": "https://open.spotify.com/album/3HHNR44YbP7XogMVwzbodx"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        },
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 169824,
-      "name": "I Cannot Be (A Sadder Song) (with Gunna)",
-      "url": "https://open.spotify.com/track/4IxeKzzxUSEgivgtbSbyIK"
     }
   ],
   "unique_name": "This Is Gunna",

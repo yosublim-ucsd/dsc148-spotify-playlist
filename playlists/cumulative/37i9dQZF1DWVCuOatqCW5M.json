@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Latest music from your fav I-Pop artists. Cover- Sunidhi Chauhan",
+  "description": "Latest music from your fav I-Pop artists. Cover- Jyoti Nooran",
   "name": "New Music Friday I-Pop ",
   "tracks": [
     {
@@ -5547,6 +5547,28 @@
     },
     {
       "album": {
+        "name": "Dhinna Dhinna",
+        "url": "https://open.spotify.com/album/4MRU5k3O8QKLSc5CJdwWpF"
+      },
+      "artists": [
+        {
+          "name": "Javed Ali",
+          "url": "https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7"
+        },
+        {
+          "name": "Suhit Abhyankar",
+          "url": "https://open.spotify.com/artist/5ntiM8jjfZlkb4yB3Ll99E"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174857,
+      "name": "Dhinna Dhinna",
+      "url": "https://open.spotify.com/track/701EaiUHWyxJ3R9cGbNXc4"
+    },
+    {
+      "album": {
         "name": "Dhokha",
         "url": "https://open.spotify.com/album/4UxasMhO2PhweEc6TszpKl"
       },
@@ -7182,6 +7204,24 @@
       "duration_ms": 272756,
       "name": "Ek Samay",
       "url": "https://open.spotify.com/track/0mo7QWcntm7G2syqkf0cNP"
+    },
+    {
+      "album": {
+        "name": "Ek Sheher",
+        "url": "https://open.spotify.com/album/6SeoTDuP6PEqifNIFoDujy"
+      },
+      "artists": [
+        {
+          "name": "Raj Barman",
+          "url": "https://open.spotify.com/artist/5qERXbPWPdUePjrAW00vuU"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233641,
+      "name": "Ek Sheher",
+      "url": "https://open.spotify.com/track/6u5YoYzSZNXLmmm1ioeUGF"
     },
     {
       "album": {
@@ -12683,6 +12723,32 @@
     },
     {
       "album": {
+        "name": "Kehna Galat Galat",
+        "url": "https://open.spotify.com/album/1dWevVFLLY3djj918zBvx8"
+      },
+      "artists": [
+        {
+          "name": "Javed-Mohsin",
+          "url": "https://open.spotify.com/artist/2zvJLk0gTH7r7A5Q6X5Bq8"
+        },
+        {
+          "name": "Nusrat Fateh Ali Khan",
+          "url": "https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl"
+        },
+        {
+          "name": "Jyoti Nooran",
+          "url": "https://open.spotify.com/artist/7ezZ4ix4QBrKkvxanGClFB"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227826,
+      "name": "Kehna Galat Galat",
+      "url": "https://open.spotify.com/track/6ZCjqm4QlYPEOtd4GZPKxL"
+    },
+    {
+      "album": {
         "name": "Kehne Do",
         "url": "https://open.spotify.com/album/5BeVeaLPq6ZKyvIWSCcq61"
       },
@@ -14756,7 +14822,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 213877,
       "name": "Lo Aayi Baarishein",
       "url": "https://open.spotify.com/track/5xkNOFtqybVpHQj3Av8Cu8"
@@ -15546,7 +15612,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 276666,
       "name": "Mann Laage Na",
       "url": "https://open.spotify.com/track/0mjAJHCCIZMW9vTjdbjXym"
@@ -24508,7 +24574,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 195000,
       "name": "Tu Hai Nayaa",
       "url": "https://open.spotify.com/track/3co1w80yVdZ6qK6sbWI2kX"
@@ -24798,7 +24864,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 184888,
       "name": "Tu Kahe Toh",
       "url": "https://open.spotify.com/track/6FD1esyjW0w7ApFuzg73Y0"
@@ -26780,6 +26846,28 @@
       "duration_ms": 234461,
       "name": "Zakhm Purana",
       "url": "https://open.spotify.com/track/4KVxYFQ5i4tZojPBO1x9Gc"
+    },
+    {
+      "album": {
+        "name": "Zamaana",
+        "url": "https://open.spotify.com/album/1t0TxWQNKZrpUOomGJDBSv"
+      },
+      "artists": [
+        {
+          "name": "Shazia Manzoor",
+          "url": "https://open.spotify.com/artist/5k8TaNhru2hLU3PRDGNS2S"
+        },
+        {
+          "name": "Anmol Daniel",
+          "url": "https://open.spotify.com/artist/0kcv0RnAZxw2dnUwq7bz9h"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159782,
+      "name": "Zamaana",
+      "url": "https://open.spotify.com/track/6lsm8EHNoxB4AbhindOSub"
     },
     {
       "album": {

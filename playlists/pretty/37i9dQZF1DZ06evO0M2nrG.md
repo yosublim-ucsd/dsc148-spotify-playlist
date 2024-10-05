@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0M2nrG.md) - [plain]
 
 ### [This Is Mike Bahía](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0M2nrG)
 
-> This Is Mike Bahía\. Los temas esenciales, todos en una lista.
+> This is Mike Bahía\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,744 likes - 52 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,757 likes - 52 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,10 +29,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0M2nrG.md) - [plain]
 | 19 | [La Depre](https://open.spotify.com/track/0YUH9q1hmcW9QbTYWElH6t) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [La Depre](https://open.spotify.com/album/4LjAsqNOhbLgWRmwbEYrA4) | 2:03 |
 | 20 | [El Egoísmo](https://open.spotify.com/track/5vAfbp5YrAkpi6X8jNZ7YY) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6), [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE), [Keityn](https://open.spotify.com/artist/70gmCJBwFhY24cRxl4FqUu) | [Contigo](https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2) | 2:50 |
 | 21 | [La Lá](https://open.spotify.com/track/1MYMEtHi6fmmGiDFLrBiY3) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [Navegando](https://open.spotify.com/album/3UbZvsLswQE2L5mBiGlzO0) | 3:17 |
-| 22 | [La Rutina](https://open.spotify.com/track/4b1bx2WDzy9UHu500DnEx9) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Contento](https://open.spotify.com/album/1bopo1g0hnpGoYAhgKLMO9) | 3:12 |
-| 23 | [La Mitad](https://open.spotify.com/track/0129zNnaJ2w1eXqKxjMRI4) | [Nacho](https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu), [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr), [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [La Mitad](https://open.spotify.com/album/58yoUfo0t6EqVrJCPGdKSe) | 3:01 |
+| 22 | [La Pena](https://open.spotify.com/track/1ixyB5FPbpXJQGRG4jSIdK) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [La Pena](https://open.spotify.com/album/5AZrYlE2IghdBW9MZsA9Zu) | 2:02 |
+| 23 | [La Rutina](https://open.spotify.com/track/4b1bx2WDzy9UHu500DnEx9) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Contento](https://open.spotify.com/album/1bopo1g0hnpGoYAhgKLMO9) | 3:12 |
 | 24 | [Corazón](https://open.spotify.com/track/53ZLUs4cvMmPvodm3mVTPi) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Contigo](https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2) | 2:28 |
-| 25 | [La Pena](https://open.spotify.com/track/1ixyB5FPbpXJQGRG4jSIdK) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [La Pena](https://open.spotify.com/album/5AZrYlE2IghdBW9MZsA9Zu) | 2:02 |
+| 25 | [La Mitad](https://open.spotify.com/track/0129zNnaJ2w1eXqKxjMRI4) | [Nacho](https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu), [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr), [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [La Mitad](https://open.spotify.com/album/58yoUfo0t6EqVrJCPGdKSe) | 3:01 |
 | 26 | [Quédate Aquí](https://open.spotify.com/track/3BACFM8lX32l9N6jVqxsiY) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Navegando](https://open.spotify.com/album/3UbZvsLswQE2L5mBiGlzO0) | 3:03 |
 | 27 | [Contigo Hasta El Final](https://open.spotify.com/track/34Iw1vdwNttY3t9pbFA8iQ) | [Gian Marco](https://open.spotify.com/artist/2gDqGAadPIPiA7LtmNn74g), [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Contigo Hasta El Final](https://open.spotify.com/album/4XfWnAyKndaUkwOPahhjbn) | 2:48 |
 | 28 | [El Que Ama Sufre](https://open.spotify.com/track/0FLKPJQtOzb0Xw1qKWXuzm) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Contigo](https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2) | 2:49 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0M2nrG.md) - [plain]
 | 51 | [Noche en Hawaii](https://open.spotify.com/track/2nnsC44cFHGgIXvKLadXUK) | [Bonny Lovy](https://open.spotify.com/artist/2oM7LqPaoCUcHHHnsTtgn1), [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Noche en Hawaii](https://open.spotify.com/album/4tv9iIalEyMy3AMZ1ybFrM) | 2:57 |
 | 52 | [Colorao](https://open.spotify.com/track/6Jufm9ebf323m7IqC32UEN) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd) | [Colorao](https://open.spotify.com/album/6e6Hm48gs1vaQvsKPH9PTZ) | 3:18 |
 
-Snapshot ID: `ZvyNAAAAAADAUgmMbxrC99IV+6Kk+nJY`
+Snapshot ID: `Zv3egAAAAACGdNrn21ss30TGI5kae7Gj`

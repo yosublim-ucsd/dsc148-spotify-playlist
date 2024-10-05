@@ -1,6 +1,6 @@
 {
   "description": "Musiquita, calorcito y pura buena vibra \ud83c\udf1e\u2728 ",
-  "num_followers": 359295,
+  "num_followers": 359278,
   "original_name": "Buen Vibe",
   "owner": {
     "name": "Spotify",
@@ -871,6 +871,26 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
+        "name": "Never Walk Alone",
+        "url": "https://open.spotify.com/album/1BuWrjAiFiHMHtCYHuUIKM"
+      },
+      "artists": [
+        {
+          "name": "BLOND:ISH",
+          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
+        },
+        {
+          "name": "Stevie Appleton",
+          "url": "https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ"
+        }
+      ],
+      "duration_ms": 188360,
+      "name": "Never Walk Alone",
+      "url": "https://open.spotify.com/track/4HB7ECLzrbgapiZyLlFbxz"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
         "name": "Hecho En Medell\u00edn",
         "url": "https://open.spotify.com/album/50SdnzlrXUMadt9JYeaJSh"
       },
@@ -907,26 +927,6 @@
       "duration_ms": 142758,
       "name": "If We Ever Broke Up",
       "url": "https://open.spotify.com/track/6maTPqynTmrkWIralgGaoP"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
-        "name": "Never Walk Alone",
-        "url": "https://open.spotify.com/album/1BuWrjAiFiHMHtCYHuUIKM"
-      },
-      "artists": [
-        {
-          "name": "BLOND:ISH",
-          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
-        },
-        {
-          "name": "Stevie Appleton",
-          "url": "https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ"
-        }
-      ],
-      "duration_ms": 188360,
-      "name": "Never Walk Alone",
-      "url": "https://open.spotify.com/track/4HB7ECLzrbgapiZyLlFbxz"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
+        "name": "Frente al Mar",
+        "url": "https://open.spotify.com/album/0Wf0E2diHQJRdkPR12BcXs"
+      },
+      "artists": [
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "duration_ms": 165178,
+      "name": "Frente al Mar",
+      "url": "https://open.spotify.com/track/60u6hcpH5Qm1M3xESdNBrB"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
         "name": "C,XOXO",
         "url": "https://open.spotify.com/album/004ywPlW72Hgn1Bo9PlNOr"
       },
@@ -1167,22 +1183,6 @@
       "duration_ms": 150746,
       "name": "HOT UPTOWN (feat. Drake)",
       "url": "https://open.spotify.com/track/4sFnOjqO3s7Iphbg2MPKDd"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
-        "name": "Frente al Mar",
-        "url": "https://open.spotify.com/album/0Wf0E2diHQJRdkPR12BcXs"
-      },
-      "artists": [
-        {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
-        }
-      ],
-      "duration_ms": 165178,
-      "name": "Frente al Mar",
-      "url": "https://open.spotify.com/track/60u6hcpH5Qm1M3xESdNBrB"
     }
   ],
   "unique_name": "Buen Vibe",

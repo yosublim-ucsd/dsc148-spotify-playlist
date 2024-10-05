@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbQ1kpdsa9FU.md) - [plain]
 
 > Everyday\. Every time\.  These are the songs you can count on\. Always\. Cover: <a href="spotify:artist:4sdhhi6q1Ez9l5PagQsykC">Katy Nichole</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 614,853 likes - 75 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 614,980 likes - 75 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,16 +55,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbQ1kpdsa9FU.md) - [plain]
 | 45 | [Let It Begin](https://open.spotify.com/track/5GRk64fuIMFDUY6MJ5HpeO) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [Let It Begin](https://open.spotify.com/album/5uaE6PEmXaM9qkEknV2qFj) | 4:12 |
 | 46 | [Everlasting God](https://open.spotify.com/track/6eYawsVsCvja8wXmcshtdI) | [Lincoln Brewster](https://open.spotify.com/artist/1aoy0R8uP3x33eqKZOLpN1) | [Let the Praises Ring: The Best of Lincoln Brewster](https://open.spotify.com/album/4YI4aVaQzJhT9XZdLpPBHE) | 4:47 |
 | 47 | [I Will Fear No More](https://open.spotify.com/track/7IKh3MlTFsgFOaqKc0z7If) | [The Afters](https://open.spotify.com/artist/1Q9nxD19emMUTTWtFi7jZc) | [The Beginning & Everything After](https://open.spotify.com/album/30Cu7H7abvkKw8EuWckmG0) | 3:22 |
-| 48 | [King Of The World](https://open.spotify.com/track/2sHDB7pY43GVTsl0X3ob1B) | [Natalie Grant](https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh) | [Be One \(Deluxe Version\)](https://open.spotify.com/album/1BA61ZwyerWAKW9hsPMAlt) | 3:36 |
-| 49 | [Praise God For That](https://open.spotify.com/track/4pzEeXT5WheKAndcLI5OG0) | [Jordan Feliz](https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA) | [Praise God For That](https://open.spotify.com/album/0tG451tu6ZxZg8J3xPP8ww) | 3:12 |
+| 48 | [Praise God For That](https://open.spotify.com/track/4pzEeXT5WheKAndcLI5OG0) | [Jordan Feliz](https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA) | [Praise God For That](https://open.spotify.com/album/0tG451tu6ZxZg8J3xPP8ww) | 3:12 |
+| 49 | [King Of The World](https://open.spotify.com/track/2sHDB7pY43GVTsl0X3ob1B) | [Natalie Grant](https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh) | [Be One \(Deluxe Version\)](https://open.spotify.com/album/1BA61ZwyerWAKW9hsPMAlt) | 3:36 |
 | 50 | [The Words I Would Say](https://open.spotify.com/track/0HxKVc6xb4WFhWRDzlj7sS) | [Sidewalk Prophets](https://open.spotify.com/artist/2SMYoM2Kbcj6rI6U3FRc4U) | [These Simple Truths](https://open.spotify.com/album/6UtlWkAxBuVPSzFNwiIPqj) | 3:20 |
 | 51 | [In Awe](https://open.spotify.com/track/053yoApAqzVFYZQUcf60Zv) | [Hollyn](https://open.spotify.com/artist/2E6Nnh7AAOVajEHHRDALav) | [One\-Way Conversations](https://open.spotify.com/album/2iB2b6Vw1eOWJc4ZNQPLhW) | 3:38 |
 | 52 | [Because He Lives \(Amen\)](https://open.spotify.com/track/4vhKRjmiboAhfunCabpXap) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Saints and Sinners](https://open.spotify.com/album/2p4nNg7P6ckP0D7MFOUTgP) | 3:19 |
 | 53 | [That Was Then, This Is Now](https://open.spotify.com/track/3ji2WLLlpJmvvSOlAyqB6p) | [Josh Wilson](https://open.spotify.com/artist/1SbnQl7KrIVnXhYcQcMjL2) | [That Was Then, This Is Now](https://open.spotify.com/album/1a2cVtWsamtbng2W0mgLPq) | 3:17 |
 | 54 | [Loved By You](https://open.spotify.com/track/7gG1zqIVyFeowQEo4iZiAd) | [Riley Clemmons](https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG) | [Church Pew](https://open.spotify.com/album/28nagL70UdAzAs1ZgNOGnN) | 3:03 |
 | 55 | [Make It Through](https://open.spotify.com/track/1QACLpTCUyBSBxjDK9NQYA) | [Leanna Crawford](https://open.spotify.com/artist/3dm6lDgdQh05XDHGhb9XQf) | [Make It Through](https://open.spotify.com/album/23hx765YanrKMEPLdNDgHm) | 3:12 |
-| 56 | [Always Only Jesus \- Single Version](https://open.spotify.com/track/2WoikaPwX24vxIv0ABp2LH) | [MercyMe](https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q) | [Always Only Jesus](https://open.spotify.com/album/5fmYFHD0y6zDlUKQLnCf1b) | 3:22 |
-| 57 | [Hallelujah Even Here](https://open.spotify.com/track/5fRvZNPLgsUntaKPOLuwc6) | [Lydia Laird](https://open.spotify.com/artist/6zuKZ8dwAsS828nS4xyZ9y) | [Lydia Laird](https://open.spotify.com/album/3erGyrIRfmyAx7bQpiYc8N) | 3:24 |
+| 56 | [Hallelujah Even Here](https://open.spotify.com/track/5fRvZNPLgsUntaKPOLuwc6) | [Lydia Laird](https://open.spotify.com/artist/6zuKZ8dwAsS828nS4xyZ9y) | [Lydia Laird](https://open.spotify.com/album/3erGyrIRfmyAx7bQpiYc8N) | 3:24 |
+| 57 | [Always Only Jesus \- Single Version](https://open.spotify.com/track/2WoikaPwX24vxIv0ABp2LH) | [MercyMe](https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q) | [Always Only Jesus](https://open.spotify.com/album/5fmYFHD0y6zDlUKQLnCf1b) | 3:22 |
 | 58 | [All Because of Mercy](https://open.spotify.com/track/1bq21JiVUbQG41ukuhC8MT) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [Healer \(Deluxe\)](https://open.spotify.com/album/0WMEBJvWLGzgMMToZMitk4) | 3:47 |
 | 59 | [Just Be](https://open.spotify.com/track/65O1Ry1edYOixyVOCXXY7R) | [Kim Walker\-Smith](https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz) | [Just Be](https://open.spotify.com/album/3HHaO3Bpaf6UEt225M55Us) | 4:33 |
 | 60 | [Finish Line \(feat\. Adam Gontier\)](https://open.spotify.com/track/3zkge7duYNYjsByp6Q0qZM) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8), [Adam Gontier](https://open.spotify.com/artist/2NkpmkcWNxbWydBaETRfqT) | [Dominion: Day of Destiny](https://open.spotify.com/album/0yppsQTW8pACnrnH75Rvhv) | 3:27 |

@@ -4,7 +4,7 @@
 
 > La casa del trap chileno al mando de Lleflight & Jairo Vera.
 
-245 songs - 12 hr 37 min
+246 songs - 12 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,7 +101,7 @@
 | [HIPOCRESÍA](https://open.spotify.com/track/1407BXnFbdE9bZvAL57NxB) | [Loyaltty](https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf) | [HIPOCRESÍA](https://open.spotify.com/album/1j4TNRcTJAKBphndDuLsuC) | 1:21 | 2024-03-29 | 2024-08-24 |
 | [Hipócritas](https://open.spotify.com/track/4QmL5s4KnF8YVm2SN3z0dx) | [Ak4:20](https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl) | [Hipócritas](https://open.spotify.com/album/30x4G19KBdgl92wWku4Mn0) | 2:35 | 2022-01-20 |  |
 | [Hood](https://open.spotify.com/track/5dLd9IBu8aZe47JKwhKvLi) | [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL) | [Hood](https://open.spotify.com/album/79LOfwxYQhNeU2bg3EdaXr) | 2:31 | 2022-01-28 |  |
-| [ICONIC PERRA](https://open.spotify.com/track/4udJEnv5tkrOBPfax7FzVs) | [Akatumamy](https://open.spotify.com/artist/38DOU02BQmlcooCqxr3aSd), [Viangogh](https://open.spotify.com/artist/1Y0wxtA4ZbblGP75RLsFnJ) | [ICONIC PERRA](https://open.spotify.com/album/71fdXu0gwv3mFrhrxkrsoU) | 2:04 | 2024-07-26 |  |
+| [ICONIC PERRA](https://open.spotify.com/track/4udJEnv5tkrOBPfax7FzVs) | [Akatumamy](https://open.spotify.com/artist/38DOU02BQmlcooCqxr3aSd), [Viangogh](https://open.spotify.com/artist/1Y0wxtA4ZbblGP75RLsFnJ) | [ICONIC PERRA](https://open.spotify.com/album/71fdXu0gwv3mFrhrxkrsoU) | 2:04 | 2024-07-26 | 2024-10-05 |
 | [Icy](https://open.spotify.com/track/38RWfnV3ZAkI0nGjWGOeFb) | [DrefQuila](https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5) | [Aunque Estén Todos Mirando](https://open.spotify.com/album/1gDzwCyVLOBrmBdVCKqKsa) | 3:27 | 2022-01-20 | 2023-03-08 |
 | [Illuminati \- Remix](https://open.spotify.com/track/6fGyrAxqgdvhzcOKlMQq5s) | [Kiddtetoon](https://open.spotify.com/artist/2zfwez4uxbP8NcFy3kaNLF), [Diego Smith](https://open.spotify.com/artist/60d7XKY1qqY5cPnXOCVvo6), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Illuminati \(Remix\)](https://open.spotify.com/album/1hYkac7PNbTZlOOXwZJSam) | 4:50 | 2022-01-20 |  |
 | [Instinto](https://open.spotify.com/track/2AK5fEIhlG6Od3P3gPxtZP) | [Harry Nach](https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH), [Jackboy](https://open.spotify.com/artist/2S2mt1DiA4QKdKvtqwxrbB) | [Instinto](https://open.spotify.com/album/5c5huROnywDnMjJhSr2vIh) | 2:34 | 2022-01-20 | 2024-08-24 |
@@ -209,6 +209,7 @@
 | [Singapur \(feat\. Yung Beef\)](https://open.spotify.com/track/1Q7NJD40pBK47Ii1ZdBTyi) | [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [Yung Beef](https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch) | [S.U.N.O](https://open.spotify.com/album/6V18lHqeCbGGFxtpkOJVpk) | 2:49 | 2022-01-20 |  |
 | [Sismo](https://open.spotify.com/track/12k3cUC5NGSljgZKZTyv8R) | [Gianluca](https://open.spotify.com/artist/7q9P9jadKe86eEavevbEvK), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D) | [Sismo](https://open.spotify.com/album/4PE50mQjdk0hHwWFf2ymEB) | 2:37 | 2022-01-20 | 2024-09-14 |
 | [Sismo](https://open.spotify.com/track/43Ck3mpcuSWeTQZPRDF4KU) | [Gianluca](https://open.spotify.com/artist/7q9P9jadKe86eEavevbEvK), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D) | [Yin Yang](https://open.spotify.com/album/3BgRFVJWjNkwseVvuGcS6O) | 2:37 | 2022-08-25 | 2024-04-19 |
+| [SO HIGH](https://open.spotify.com/track/452vnm4c6cCo9EZCJoOAWq) | [nick near](https://open.spotify.com/artist/718QnoFcMo3XaWS7g1Rcyx), [Kiddtetoon](https://open.spotify.com/artist/2zfwez4uxbP8NcFy3kaNLF) | [SO HIGH](https://open.spotify.com/album/39nLCVzGW01PMNJCDo0SCq) | 3:10 | 2024-10-04 |  |
 | [SOLO DIME](https://open.spotify.com/track/76NtZCaYVQHxEkB6mrm1DQ) | [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9), [El BAI](https://open.spotify.com/artist/2vnaEm73LHWfchNiQccNBa), [Dj Osar](https://open.spotify.com/artist/1QfMokd89daz2p3JvQFrSB), [Mateo on the Beatz](https://open.spotify.com/artist/07WSqyexqFJM0ZeQVPqJJg) | [PROYECTO A\-KLEIN](https://open.spotify.com/album/4XVIEmQkAh94hMVod4yh3k) | 3:19 | 2024-06-07 |  |
 | [South Beach](https://open.spotify.com/track/72APDBxXJYdznq3YL9iGqZ) | [Diego Smith](https://open.spotify.com/artist/60d7XKY1qqY5cPnXOCVvo6), [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE), [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL) | [Déjà Vu](https://open.spotify.com/album/3uvDfKZqZaIbnFYR4qGAJa) | 3:49 | 2022-01-20 | 2022-05-28 |
 | [SPLASH](https://open.spotify.com/track/27syJ4nzaZtklP6IBSw70W) | [Sinco12](https://open.spotify.com/artist/5O5Pz7R7eLIplDnQk0xhkL), [Aqua VS](https://open.spotify.com/artist/0bcZsLQV8MCeU0ylWbw23p) | [SPLASH](https://open.spotify.com/album/3CLBJ7yjtRCU1ULij23iL7) | 3:30 | 2022-05-27 | 2022-06-18 |

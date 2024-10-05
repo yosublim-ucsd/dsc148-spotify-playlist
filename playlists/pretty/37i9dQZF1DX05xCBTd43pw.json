@@ -1,6 +1,6 @@
 {
   "description": "Gr\u00fcezi! This is 100% made in Switzerland. ",
-  "num_followers": 36741,
+  "num_followers": 36743,
   "original_name": "Swiss Made",
   "owner": {
     "name": "Spotify",
@@ -371,6 +371,22 @@
     {
       "added_at": "2024-10-03 22:00:00",
       "album": {
+        "name": "Waves & Wishes",
+        "url": "https://open.spotify.com/album/1UrgZCspl0lQQU6NSZDZ7m"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Benedek",
+          "url": "https://open.spotify.com/artist/0BBZxotcIVnEEPhjA4iSiu"
+        }
+      ],
+      "duration_ms": 172791,
+      "name": "Bird",
+      "url": "https://open.spotify.com/track/7H16kWPboswDLyH76lHpIA"
+    },
+    {
+      "added_at": "2024-10-03 22:00:00",
+      "album": {
         "name": "Descontrol",
         "url": "https://open.spotify.com/album/39VSGS38v6WGZsucZ1wa0r"
       },
@@ -387,22 +403,6 @@
       "duration_ms": 158838,
       "name": "Descontrol",
       "url": "https://open.spotify.com/track/2USP7uCFfx4BFm8KXual18"
-    },
-    {
-      "added_at": "2024-10-03 22:00:00",
-      "album": {
-        "name": "Waves & Wishes",
-        "url": "https://open.spotify.com/album/1UrgZCspl0lQQU6NSZDZ7m"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Benedek",
-          "url": "https://open.spotify.com/artist/0BBZxotcIVnEEPhjA4iSiu"
-        }
-      ],
-      "duration_ms": 172791,
-      "name": "Bird",
-      "url": "https://open.spotify.com/track/7H16kWPboswDLyH76lHpIA"
     },
     {
       "added_at": "2024-10-03 22:00:00",
@@ -623,22 +623,6 @@
     {
       "added_at": "2024-10-03 22:00:00",
       "album": {
-        "name": "Counting Days",
-        "url": "https://open.spotify.com/album/61hyS4rmGow2ddAzSQkfr2"
-      },
-      "artists": [
-        {
-          "name": "Jared Lembo",
-          "url": "https://open.spotify.com/artist/7m40p3LDka0BxsiX0tZT9g"
-        }
-      ],
-      "duration_ms": 164501,
-      "name": "Counting Days",
-      "url": "https://open.spotify.com/track/6ujzmWSyfa57nVtjNO54G0"
-    },
-    {
-      "added_at": "2024-10-03 22:00:00",
-      "album": {
         "name": "blonde",
         "url": "https://open.spotify.com/album/79NREFnWQHD376rxBfNrTv"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 186969,
       "name": "blonde",
       "url": "https://open.spotify.com/track/2HFoavqtZRWTM9uvTagD75"
+    },
+    {
+      "added_at": "2024-10-03 22:00:00",
+      "album": {
+        "name": "Counting Days",
+        "url": "https://open.spotify.com/album/61hyS4rmGow2ddAzSQkfr2"
+      },
+      "artists": [
+        {
+          "name": "Jared Lembo",
+          "url": "https://open.spotify.com/artist/7m40p3LDka0BxsiX0tZT9g"
+        }
+      ],
+      "duration_ms": 164501,
+      "name": "Counting Days",
+      "url": "https://open.spotify.com/track/6ujzmWSyfa57nVtjNO54G0"
     },
     {
       "added_at": "2024-10-03 22:00:00",
@@ -711,18 +711,18 @@
     {
       "added_at": "2024-10-03 22:00:00",
       "album": {
-        "name": "2560",
-        "url": "https://open.spotify.com/album/2dr4Cl4sfBrLoqvFzZcwdv"
+        "name": "Can't Be Loved",
+        "url": "https://open.spotify.com/album/5YmdC1mjV30uWAUfqT8uQo"
       },
       "artists": [
         {
-          "name": "James Gruntz",
-          "url": "https://open.spotify.com/artist/3vyUTiW9vClzOUXCHVNWsy"
+          "name": "Bastian Baker",
+          "url": "https://open.spotify.com/artist/1mwbzhowyG1SDxFSWyLeKC"
         }
       ],
-      "duration_ms": 198586,
-      "name": "2560",
-      "url": "https://open.spotify.com/track/20hvdVSrSkh8wZZKSVBH6o"
+      "duration_ms": 171696,
+      "name": "Can't Be Loved",
+      "url": "https://open.spotify.com/track/69H5EfyNRLIKd0WAPNQr0T"
     },
     {
       "added_at": "2024-10-03 22:00:00",
@@ -759,34 +759,18 @@
     {
       "added_at": "2024-10-03 22:00:00",
       "album": {
-        "name": "Can't Be Loved",
-        "url": "https://open.spotify.com/album/5YmdC1mjV30uWAUfqT8uQo"
+        "name": "2560",
+        "url": "https://open.spotify.com/album/2dr4Cl4sfBrLoqvFzZcwdv"
       },
       "artists": [
         {
-          "name": "Bastian Baker",
-          "url": "https://open.spotify.com/artist/1mwbzhowyG1SDxFSWyLeKC"
+          "name": "James Gruntz",
+          "url": "https://open.spotify.com/artist/3vyUTiW9vClzOUXCHVNWsy"
         }
       ],
-      "duration_ms": 171696,
-      "name": "Can't Be Loved",
-      "url": "https://open.spotify.com/track/69H5EfyNRLIKd0WAPNQr0T"
-    },
-    {
-      "added_at": "2024-10-03 22:00:00",
-      "album": {
-        "name": "Ehrlich",
-        "url": "https://open.spotify.com/album/3SxtFi80kNDFfnjSHBoZe3"
-      },
-      "artists": [
-        {
-          "name": "Baschi",
-          "url": "https://open.spotify.com/artist/6XzAV5lONpTgoSJDsF2Ubz"
-        }
-      ],
-      "duration_ms": 230310,
-      "name": "Ehrlich",
-      "url": "https://open.spotify.com/track/2CpYkZOMP8Xmac4akYnAxF"
+      "duration_ms": 198586,
+      "name": "2560",
+      "url": "https://open.spotify.com/track/20hvdVSrSkh8wZZKSVBH6o"
     },
     {
       "added_at": "2024-10-03 22:00:00",
@@ -803,6 +787,22 @@
       "duration_ms": 162836,
       "name": "Where Were You",
       "url": "https://open.spotify.com/track/0wQX5IoDmttPaz7imkbrCQ"
+    },
+    {
+      "added_at": "2024-10-03 22:00:00",
+      "album": {
+        "name": "Ehrlich",
+        "url": "https://open.spotify.com/album/3SxtFi80kNDFfnjSHBoZe3"
+      },
+      "artists": [
+        {
+          "name": "Baschi",
+          "url": "https://open.spotify.com/artist/6XzAV5lONpTgoSJDsF2Ubz"
+        }
+      ],
+      "duration_ms": 230310,
+      "name": "Ehrlich",
+      "url": "https://open.spotify.com/track/2CpYkZOMP8Xmac4akYnAxF"
     },
     {
       "added_at": "2024-10-03 22:00:00",
@@ -859,22 +859,6 @@
     {
       "added_at": "2024-10-03 22:00:00",
       "album": {
-        "name": "Stories of the XXI",
-        "url": "https://open.spotify.com/album/5nGM72Vr3X2zq1bqxtC6GG"
-      },
-      "artists": [
-        {
-          "name": "Bastian Baker",
-          "url": "https://open.spotify.com/artist/1mwbzhowyG1SDxFSWyLeKC"
-        }
-      ],
-      "duration_ms": 175093,
-      "name": "Call Me in L.A.",
-      "url": "https://open.spotify.com/track/0AQa2zcUia32ZfDTUqL617"
-    },
-    {
-      "added_at": "2024-10-03 22:00:00",
-      "album": {
         "name": "Julia?",
         "url": "https://open.spotify.com/album/0yb32DY8k0di8YqzkyQAKi"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 224464,
       "name": "Julia?",
       "url": "https://open.spotify.com/track/6AUxnfBgpjkcM5qBgGGlPD"
+    },
+    {
+      "added_at": "2024-10-03 22:00:00",
+      "album": {
+        "name": "Stories of the XXI",
+        "url": "https://open.spotify.com/album/5nGM72Vr3X2zq1bqxtC6GG"
+      },
+      "artists": [
+        {
+          "name": "Bastian Baker",
+          "url": "https://open.spotify.com/artist/1mwbzhowyG1SDxFSWyLeKC"
+        }
+      ],
+      "duration_ms": 175093,
+      "name": "Call Me in L.A.",
+      "url": "https://open.spotify.com/track/0AQa2zcUia32ZfDTUqL617"
     },
     {
       "added_at": "2024-10-03 22:00:00",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2024-10-03 22:00:00",
       "album": {
+        "name": "Sauvage",
+        "url": "https://open.spotify.com/album/4wBXS39epHlWGL54qZ5kCL"
+      },
+      "artists": [
+        {
+          "name": "Julie Meletta",
+          "url": "https://open.spotify.com/artist/6dtKZZx0OeZgjHzrTLm8z1"
+        }
+      ],
+      "duration_ms": 177299,
+      "name": "Sauvage",
+      "url": "https://open.spotify.com/track/45GjmzkcuWflHGLuNJPCDv"
+    },
+    {
+      "added_at": "2024-10-03 22:00:00",
+      "album": {
         "name": "We Got Love",
         "url": "https://open.spotify.com/album/2KBis9Of82TXR9ZDtwGrpL"
       },
@@ -1111,22 +1127,6 @@
       "duration_ms": 140571,
       "name": "We Got Love",
       "url": "https://open.spotify.com/track/6o2HzZfazmewxdXpYufWRx"
-    },
-    {
-      "added_at": "2024-10-03 22:00:00",
-      "album": {
-        "name": "Zeilen f\u00fcr dich",
-        "url": "https://open.spotify.com/album/4aKndM39CDDcGyx1wBYx4P"
-      },
-      "artists": [
-        {
-          "name": "Luca H\u00e4nni",
-          "url": "https://open.spotify.com/artist/5JbALDn35ZrLwVAle4xVqZ"
-        }
-      ],
-      "duration_ms": 197506,
-      "name": "Zeilen f\u00fcr dich",
-      "url": "https://open.spotify.com/track/79jLtzgfJDXcEbMiTGzOUV"
     },
     {
       "added_at": "2024-10-03 22:00:00",
@@ -1151,18 +1151,18 @@
     {
       "added_at": "2024-10-03 22:00:00",
       "album": {
-        "name": "Sauvage",
-        "url": "https://open.spotify.com/album/4wBXS39epHlWGL54qZ5kCL"
+        "name": "Zeilen f\u00fcr dich",
+        "url": "https://open.spotify.com/album/4aKndM39CDDcGyx1wBYx4P"
       },
       "artists": [
         {
-          "name": "Julie Meletta",
-          "url": "https://open.spotify.com/artist/6dtKZZx0OeZgjHzrTLm8z1"
+          "name": "Luca H\u00e4nni",
+          "url": "https://open.spotify.com/artist/5JbALDn35ZrLwVAle4xVqZ"
         }
       ],
-      "duration_ms": 177299,
-      "name": "Sauvage",
-      "url": "https://open.spotify.com/track/45GjmzkcuWflHGLuNJPCDv"
+      "duration_ms": 197506,
+      "name": "Zeilen f\u00fcr dich",
+      "url": "https://open.spotify.com/track/79jLtzgfJDXcEbMiTGzOUV"
     },
     {
       "added_at": "2024-10-03 22:00:00",

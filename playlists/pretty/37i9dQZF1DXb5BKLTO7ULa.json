@@ -1,12 +1,12 @@
 {
   "description": "De beste nieuwe releases van de week! Cover: Coldplay",
-  "num_followers": 264699,
+  "num_followers": 264761,
   "original_name": "New Music Friday NL",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zv8T4AAAAADLqSXOnAjwKH9mOCXcvPob",
+  "snapshot_id": "Zv+hcQAAAABw/yHzzR0r9vJCLgqHCuBd",
   "tracks": [
     {
       "added_at": "2024-10-03 22:00:00",
@@ -1519,6 +1519,26 @@
       "duration_ms": 169136,
       "name": "Doodleverse",
       "url": "https://open.spotify.com/track/5QEySPpoBpiCFq8L1ZxeBh"
+    },
+    {
+      "added_at": "2024-10-03 22:00:00",
+      "album": {
+        "name": "JADED",
+        "url": "https://open.spotify.com/album/1XcpYmfE4vYCKeLQYINlO7"
+      },
+      "artists": [
+        {
+          "name": "Toosii",
+          "url": "https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1"
+        },
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        }
+      ],
+      "duration_ms": 166954,
+      "name": "I Do (feat. Muni Long)",
+      "url": "https://open.spotify.com/track/5TbYIeYkGgGtYL7sms7m9N"
     },
     {
       "added_at": "2024-10-03 22:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/60VayqPuLXaftoj2Wrqpti.md) - [plain]
 
 > Explore this week’s new additions to KEXP’s rotation! Our rotation consists of key new releases made available for our DJs to select from during their shows\. You can tune in 24/7 to independent, listener powered KEXP through our website and mobile apps\. Learn more and join our community at kexp.org!
 
-[KEXP](https://open.spotify.com/user/kexp_official) - 1,379 likes - 75 songs - 4 hr 33 min
+[KEXP](https://open.spotify.com/user/kexp_official) - 1,387 likes - 75 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/60VayqPuLXaftoj2Wrqpti.md) - [plain]
 | 4 | [raise up](https://open.spotify.com/track/7HHg88Tw3AMhLKNdr4zoBx) | [Allysha Joy](https://open.spotify.com/artist/3CzYPWEnpaODw56A53qxh3) | [The Making of Silk](https://open.spotify.com/album/6KBKOiiUG7akDFH4J0mQDT) | 4:37 |
 | 5 | [Gotta Give It Up](https://open.spotify.com/track/5ijYLtagjF6IZCpjZsBEoz) | [Annie J](https://open.spotify.com/artist/0Gdb2yCu7pAMUhcL3wm7bu) | [Gotta Give It Up](https://open.spotify.com/album/6BDccXdYILy4yTmUWgsaJ7) | 3:05 |
 | 6 | [Sad Eyes](https://open.spotify.com/track/2nIaMxBQsI2VthL6CR3qgH) | [A/S/L](https://open.spotify.com/artist/2BX74Qt23X4mO6oAK28KBh), [Negative Shawdy](https://open.spotify.com/artist/6wjXYvyHnrOuFWRygEL2bY) | [Sad Eyes](https://open.spotify.com/album/2qFZLTDtHBkfSNbz65Es25) | 2:26 |
-| 7 | [Give my all \- Blood Orange Edit](https://open.spotify.com/track/7pIZ4V6hb57l25JMAwPXg7) | [Astrid Sonne](https://open.spotify.com/artist/7qiyPneI60DzZmxVxC7689), [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [EDITS](https://open.spotify.com/album/3Q4ckErENVJA9V1nx3pMS4) | 3:10 |
+| 7 | [Give my all \- Blood Orange EDIT](https://open.spotify.com/track/7pIZ4V6hb57l25JMAwPXg7) | [Astrid Sonne](https://open.spotify.com/artist/7qiyPneI60DzZmxVxC7689), [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Great Doubt \(EDITS\)](https://open.spotify.com/album/3Q4ckErENVJA9V1nx3pMS4) | 3:10 |
 | 8 | [Jocelyn](https://open.spotify.com/track/4kTJ1qEFzbqt1sSigWVzWJ) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Jocelyn](https://open.spotify.com/album/2irLfxkqc0T040cfaQ5EkT) | 3:32 |
 | 9 | [Stuck Here](https://open.spotify.com/track/7CTmNiBMP8w8xO7VWCxYOt) | [Beach Vacation](https://open.spotify.com/artist/5r5uCVk3IIzm2jdfGDpl8C) | [Stuck Here](https://open.spotify.com/album/455RSgM8rD9GKHK6CJpZMy) | 2:34 |
 | 10 | [Blanket of my Bone](https://open.spotify.com/track/2S1nolVgxMVRu7CB4Bq2Bh) | [Being Dead](https://open.spotify.com/artist/3EFae6NKxawpxdiZDQPqp8) | [EELS](https://open.spotify.com/album/2gQOY7nW9BsZjdztVloaFT) | 3:13 |

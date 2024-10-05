@@ -1,6 +1,6 @@
 {
   "description": "el nombre lo dice todo.",
-  "num_followers": 1030733,
+  "num_followers": 1030677,
   "original_name": "perrear y llorar \ud83e\udd72",
   "owner": {
     "name": "Spotify",
@@ -123,30 +123,6 @@
     {
       "added_at": "2024-06-07 09:33:04",
       "album": {
-        "name": "Volando (Remix)",
-        "url": "https://open.spotify.com/album/4MCZWUKxkvdMITh4KapBKX"
-      },
-      "artists": [
-        {
-          "name": "Mora",
-          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
-        }
-      ],
-      "duration_ms": 273474,
-      "name": "Volando - Remix",
-      "url": "https://open.spotify.com/track/0G2zPzWqVjR68iNPmx2TBe"
-    },
-    {
-      "added_at": "2024-06-07 09:33:04",
-      "album": {
         "name": "Sola (Remix)",
         "url": "https://open.spotify.com/album/2ucmNNr2Y9ZI7fP4oAMdIj"
       },
@@ -175,6 +151,30 @@
       "duration_ms": 307910,
       "name": "Sola (Remix)",
       "url": "https://open.spotify.com/track/5q2JbCNi4FcnglgPfxcV65"
+    },
+    {
+      "added_at": "2024-06-07 09:33:04",
+      "album": {
+        "name": "Volando (Remix)",
+        "url": "https://open.spotify.com/album/4MCZWUKxkvdMITh4KapBKX"
+      },
+      "artists": [
+        {
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        }
+      ],
+      "duration_ms": 273474,
+      "name": "Volando - Remix",
+      "url": "https://open.spotify.com/track/0G2zPzWqVjR68iNPmx2TBe"
     },
     {
       "added_at": "2024-06-07 09:33:04",
@@ -471,26 +471,22 @@
     {
       "added_at": "2024-06-07 09:33:04",
       "album": {
-        "name": "Lo Siento BB:/ (with Bad Bunny & Julieta Venegas)",
-        "url": "https://open.spotify.com/album/4589OIFRZp41qbsp7TWFCx"
+        "name": "Te Amo",
+        "url": "https://open.spotify.com/album/0sF2dhoiBLVMvuv6qRIpYI"
       },
       "artists": [
         {
-          "name": "Tainy",
-          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
         },
         {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
         }
       ],
-      "duration_ms": 207301,
-      "name": "Lo Siento BB:/ (with Bad Bunny & Julieta Venegas)",
-      "url": "https://open.spotify.com/track/4gzsuuZypVbxs0Af1LSZyB"
+      "duration_ms": 201122,
+      "name": "Te Amo",
+      "url": "https://open.spotify.com/track/2RVrdr062uLFxXwIxwdXPH"
     },
     {
       "added_at": "2024-06-07 09:33:04",
@@ -515,22 +511,26 @@
     {
       "added_at": "2024-06-07 09:33:04",
       "album": {
-        "name": "Te Amo",
-        "url": "https://open.spotify.com/album/0sF2dhoiBLVMvuv6qRIpYI"
+        "name": "Lo Siento BB:/ (with Bad Bunny & Julieta Venegas)",
+        "url": "https://open.spotify.com/album/4589OIFRZp41qbsp7TWFCx"
       },
       "artists": [
         {
-          "name": "Piso 21",
-          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
         },
         {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
         }
       ],
-      "duration_ms": 201122,
-      "name": "Te Amo",
-      "url": "https://open.spotify.com/track/2RVrdr062uLFxXwIxwdXPH"
+      "duration_ms": 207301,
+      "name": "Lo Siento BB:/ (with Bad Bunny & Julieta Venegas)",
+      "url": "https://open.spotify.com/track/4gzsuuZypVbxs0Af1LSZyB"
     },
     {
       "added_at": "2024-06-07 09:33:04",
@@ -1139,26 +1139,6 @@
     {
       "added_at": "2024-06-07 09:33:04",
       "album": {
-        "name": "Me Enter\u00e9",
-        "url": "https://open.spotify.com/album/6KBwgofbUBuXuFTuKmi9Js"
-      },
-      "artists": [
-        {
-          "name": "Tiago PZK",
-          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
-        },
-        {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        }
-      ],
-      "duration_ms": 182075,
-      "name": "Me Enter\u00e9",
-      "url": "https://open.spotify.com/track/5FWQLEX0lavdxiWGBNkBQ4"
-    },
-    {
-      "added_at": "2024-06-07 09:33:04",
-      "album": {
         "name": "Cuando Te Bes\u00e9",
         "url": "https://open.spotify.com/album/1rNj1DvnXIH5irucrzT4zo"
       },
@@ -1175,6 +1155,26 @@
       "duration_ms": 254383,
       "name": "Cuando Te Bes\u00e9",
       "url": "https://open.spotify.com/track/2XXMDz7SPZ4mSFN1PXfHUy"
+    },
+    {
+      "added_at": "2024-06-07 09:33:04",
+      "album": {
+        "name": "Me Enter\u00e9",
+        "url": "https://open.spotify.com/album/6KBwgofbUBuXuFTuKmi9Js"
+      },
+      "artists": [
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        },
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        }
+      ],
+      "duration_ms": 182075,
+      "name": "Me Enter\u00e9",
+      "url": "https://open.spotify.com/track/5FWQLEX0lavdxiWGBNkBQ4"
     },
     {
       "added_at": "2024-06-07 09:33:04",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2024-06-07 09:33:04",
       "album": {
-        "name": "Otro Nivel de M\u00fasica",
-        "url": "https://open.spotify.com/album/4zBoN1dVPUT2w4b1fFNFEh"
-      },
-      "artists": [
-        {
-          "name": "J Alvarez",
-          "url": "https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY"
-        }
-      ],
-      "duration_ms": 269591,
-      "name": "La Pregunta",
-      "url": "https://open.spotify.com/track/5GChYjT0HJVDtJMjcfhYmS"
-    },
-    {
-      "added_at": "2024-06-07 09:33:04",
-      "album": {
         "name": "Tal Vez",
         "url": "https://open.spotify.com/album/039RvHRSbMCfQLsYcg70BQ"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 264483,
       "name": "Tal Vez",
       "url": "https://open.spotify.com/track/46lvmzK8wxAy66tjzXXSh0"
+    },
+    {
+      "added_at": "2024-06-07 09:33:04",
+      "album": {
+        "name": "Otro Nivel de M\u00fasica",
+        "url": "https://open.spotify.com/album/4zBoN1dVPUT2w4b1fFNFEh"
+      },
+      "artists": [
+        {
+          "name": "J Alvarez",
+          "url": "https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY"
+        }
+      ],
+      "duration_ms": 269591,
+      "name": "La Pregunta",
+      "url": "https://open.spotify.com/track/5GChYjT0HJVDtJMjcfhYmS"
     },
     {
       "added_at": "2024-06-07 09:33:04",
@@ -1731,26 +1731,6 @@
     {
       "added_at": "2024-06-07 09:33:04",
       "album": {
-        "name": "Esclavo de Tus Besos",
-        "url": "https://open.spotify.com/album/6NzT9eDEkJvnbL2gLcT6ai"
-      },
-      "artists": [
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 219302,
-      "name": "Esclavo de Tus Besos",
-      "url": "https://open.spotify.com/track/3g4UyIcQwutiG0TfW32GnX"
-    },
-    {
-      "added_at": "2024-06-07 09:33:04",
-      "album": {
         "name": "Dime Cuantas Veces (Remix) [feat. Justin Quiles]",
         "url": "https://open.spotify.com/album/6qvGkkeW9g7I2k04lEwGU0"
       },
@@ -1775,6 +1755,26 @@
       "duration_ms": 207248,
       "name": "Dime Cuantas Veces (Remix) [feat. Justin Quiles]",
       "url": "https://open.spotify.com/track/4MWb6mltydQn84NrTm7Gpl"
+    },
+    {
+      "added_at": "2024-06-07 09:33:04",
+      "album": {
+        "name": "Esclavo de Tus Besos",
+        "url": "https://open.spotify.com/album/6NzT9eDEkJvnbL2gLcT6ai"
+      },
+      "artists": [
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 219302,
+      "name": "Esclavo de Tus Besos",
+      "url": "https://open.spotify.com/track/3g4UyIcQwutiG0TfW32GnX"
     },
     {
       "added_at": "2024-06-07 09:33:04",
@@ -1887,18 +1887,22 @@
     {
       "added_at": "2024-06-07 09:33:04",
       "album": {
-        "name": "Esper\u00e1ndote",
-        "url": "https://open.spotify.com/album/1PEgEtk3DMrUxG6Mkco3Zg"
+        "name": "Demasiado Tarde",
+        "url": "https://open.spotify.com/album/6ZWbDDl3KHIruXOq6rZxGa"
       },
       "artists": [
         {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+          "name": "Micro TDH",
+          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
+        },
+        {
+          "name": "Lenny Tav\u00e1rez",
+          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
         }
       ],
-      "duration_ms": 199813,
-      "name": "Esper\u00e1ndote",
-      "url": "https://open.spotify.com/track/1nfyE13arjOuO54HH0zmqj"
+      "duration_ms": 271548,
+      "name": "Demasiado Tarde",
+      "url": "https://open.spotify.com/track/5KFx45L84KmBINWLh6TEiL"
     },
     {
       "added_at": "2024-06-07 09:33:04",
@@ -1939,22 +1943,18 @@
     {
       "added_at": "2024-06-07 09:33:04",
       "album": {
-        "name": "Demasiado Tarde",
-        "url": "https://open.spotify.com/album/6ZWbDDl3KHIruXOq6rZxGa"
+        "name": "Esper\u00e1ndote",
+        "url": "https://open.spotify.com/album/1PEgEtk3DMrUxG6Mkco3Zg"
       },
       "artists": [
         {
-          "name": "Micro TDH",
-          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
-        },
-        {
-          "name": "Lenny Tav\u00e1rez",
-          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
         }
       ],
-      "duration_ms": 271548,
-      "name": "Demasiado Tarde",
-      "url": "https://open.spotify.com/track/5KFx45L84KmBINWLh6TEiL"
+      "duration_ms": 199813,
+      "name": "Esper\u00e1ndote",
+      "url": "https://open.spotify.com/track/1nfyE13arjOuO54HH0zmqj"
     },
     {
       "added_at": "2024-06-07 09:33:04",

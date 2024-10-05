@@ -237,6 +237,28 @@
     },
     {
       "album": {
+        "name": "Bad Company",
+        "url": "https://open.spotify.com/album/0rsXdSK6e9S9YT5DjZPaLC"
+      },
+      "artists": [
+        {
+          "name": "Jodha",
+          "url": "https://open.spotify.com/artist/4lW5ng5q45zXLg4FeGwcFs"
+        },
+        {
+          "name": "ITS VIBEE",
+          "url": "https://open.spotify.com/artist/1UZc3uZyScqHHUTRrzbbVB"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188202,
+      "name": "Bad Company",
+      "url": "https://open.spotify.com/track/30zRC8Lm6rXgCauxTnazbc"
+    },
+    {
+      "album": {
         "name": "Balle Jatta",
         "url": "https://open.spotify.com/album/5TSOrVokaOvXbRXJOkJ1b5"
       },
@@ -690,7 +712,7 @@
       ],
       "date_added": "2024-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 148363,
       "name": "Excited",
       "url": "https://open.spotify.com/track/1DqKLJLywjvmLDNwINeAFG"

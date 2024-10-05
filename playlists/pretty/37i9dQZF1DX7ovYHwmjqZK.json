@@ -1,6 +1,6 @@
 {
   "description": "Bossa Nova e MPB como acompanhamento / Bossa y m\u00fasica brasile\u00f1a para todo momento.",
-  "num_followers": 233299,
+  "num_followers": 233383,
   "original_name": "Caf\u00e9 Bossa",
   "owner": {
     "name": "Spotify",
@@ -371,6 +371,22 @@
     {
       "added_at": "2024-09-27 03:00:00",
       "album": {
+        "name": "S\u00f3 Tinha de Ser com Voc\u00ea",
+        "url": "https://open.spotify.com/album/7nUM7a3z2pGH5pII2MEy8n"
+      },
+      "artists": [
+        {
+          "name": "Joao Silva Oliveira",
+          "url": "https://open.spotify.com/artist/2H9tPIniwpdz9EvKYvRKFq"
+        }
+      ],
+      "duration_ms": 238310,
+      "name": "S\u00f3 Tinha de Ser com Voc\u00ea",
+      "url": "https://open.spotify.com/track/5KrmPhZXWsrn1xVey30806"
+    },
+    {
+      "added_at": "2024-09-27 03:00:00",
+      "album": {
         "name": "Edu & Tom, Tom & Edu",
         "url": "https://open.spotify.com/album/5ttzMNvNxUiCtKlKiCnQLm"
       },
@@ -391,18 +407,18 @@
     {
       "added_at": "2024-09-27 03:00:00",
       "album": {
-        "name": "S\u00f3 Tinha de Ser com Voc\u00ea",
-        "url": "https://open.spotify.com/album/7nUM7a3z2pGH5pII2MEy8n"
+        "name": "After You've Gone",
+        "url": "https://open.spotify.com/album/5AqFZGWYwyvmg8t8EyvG1i"
       },
       "artists": [
         {
-          "name": "Joao Silva Oliveira",
-          "url": "https://open.spotify.com/artist/2H9tPIniwpdz9EvKYvRKFq"
+          "name": "Magpie Jazz Trio",
+          "url": "https://open.spotify.com/artist/4TOpL8dUMkZ1oydrBsfuWf"
         }
       ],
-      "duration_ms": 238310,
-      "name": "S\u00f3 Tinha de Ser com Voc\u00ea",
-      "url": "https://open.spotify.com/track/5KrmPhZXWsrn1xVey30806"
+      "duration_ms": 191174,
+      "name": "Blue Bossa",
+      "url": "https://open.spotify.com/track/0rotku7FgElbTKbks8Zof5"
     },
     {
       "added_at": "2024-09-27 03:00:00",
@@ -423,22 +439,6 @@
       "duration_ms": 181226,
       "name": "Vaga-Lumes",
       "url": "https://open.spotify.com/track/4tmiDNIEre4ltERgyXkhBK"
-    },
-    {
-      "added_at": "2024-09-27 03:00:00",
-      "album": {
-        "name": "After You've Gone",
-        "url": "https://open.spotify.com/album/5AqFZGWYwyvmg8t8EyvG1i"
-      },
-      "artists": [
-        {
-          "name": "Magpie Jazz Trio",
-          "url": "https://open.spotify.com/artist/4TOpL8dUMkZ1oydrBsfuWf"
-        }
-      ],
-      "duration_ms": 191174,
-      "name": "Blue Bossa",
-      "url": "https://open.spotify.com/track/0rotku7FgElbTKbks8Zof5"
     },
     {
       "added_at": "2024-09-27 03:00:00",
@@ -579,6 +579,22 @@
     {
       "added_at": "2024-09-27 03:00:00",
       "album": {
+        "name": "Anos Dourados",
+        "url": "https://open.spotify.com/album/5uap9XbIdjhq3W1b6YjiKx"
+      },
+      "artists": [
+        {
+          "name": "Luiz Lucas",
+          "url": "https://open.spotify.com/artist/37Z26WT0bfNIrRztWbGv0p"
+        }
+      ],
+      "duration_ms": 333251,
+      "name": "A Paz",
+      "url": "https://open.spotify.com/track/55TtEDqfXTOKdjI53ruLpA"
+    },
+    {
+      "added_at": "2024-09-27 03:00:00",
+      "album": {
         "name": "Navegante - Dudu Sperb Recebe Guinga",
         "url": "https://open.spotify.com/album/0joPmEYgF2tleXLSTt2ZOT"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 285613,
       "name": "Choro Pro Z\u00e9",
       "url": "https://open.spotify.com/track/3OXUEy3N0ZsQKcxy5x1VwG"
-    },
-    {
-      "added_at": "2024-09-27 03:00:00",
-      "album": {
-        "name": "Anos Dourados",
-        "url": "https://open.spotify.com/album/5uap9XbIdjhq3W1b6YjiKx"
-      },
-      "artists": [
-        {
-          "name": "Luiz Lucas",
-          "url": "https://open.spotify.com/artist/37Z26WT0bfNIrRztWbGv0p"
-        }
-      ],
-      "duration_ms": 333251,
-      "name": "A Paz",
-      "url": "https://open.spotify.com/track/55TtEDqfXTOKdjI53ruLpA"
     },
     {
       "added_at": "2024-09-27 03:00:00",
@@ -635,6 +635,22 @@
     {
       "added_at": "2024-09-27 03:00:00",
       "album": {
+        "name": "Fub\u00e1 Mimoso",
+        "url": "https://open.spotify.com/album/1cWWDCemEyE8D3I7lDwhu0"
+      },
+      "artists": [
+        {
+          "name": "Seu Elias",
+          "url": "https://open.spotify.com/artist/4Y9OReA2h64LtMZLcVVe8v"
+        }
+      ],
+      "duration_ms": 160458,
+      "name": "Tantas Coisas",
+      "url": "https://open.spotify.com/track/7l8uRccZrtk5Duo21VaI6j"
+    },
+    {
+      "added_at": "2024-09-27 03:00:00",
+      "album": {
         "name": "Saudade Fez um Samba",
         "url": "https://open.spotify.com/album/7nUUtvmgriNDiRYrgJmiG7"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 170880,
       "name": "Saudade Fez um Samba",
       "url": "https://open.spotify.com/track/6DqwMVBqftG7yoPb2Uu0Rq"
-    },
-    {
-      "added_at": "2024-09-27 03:00:00",
-      "album": {
-        "name": "Fub\u00e1 Mimoso",
-        "url": "https://open.spotify.com/album/1cWWDCemEyE8D3I7lDwhu0"
-      },
-      "artists": [
-        {
-          "name": "Seu Elias",
-          "url": "https://open.spotify.com/artist/4Y9OReA2h64LtMZLcVVe8v"
-        }
-      ],
-      "duration_ms": 160458,
-      "name": "Tantas Coisas",
-      "url": "https://open.spotify.com/track/7l8uRccZrtk5Duo21VaI6j"
     },
     {
       "added_at": "2024-09-27 03:00:00",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2024-09-27 03:00:00",
       "album": {
-        "name": "Saudades de Amanh\u00e3",
-        "url": "https://open.spotify.com/album/6VKuQwVim6GLWbwegH0ECr"
-      },
-      "artists": [
-        {
-          "name": "Antonio Carlos Bigonha",
-          "url": "https://open.spotify.com/artist/3ZrD9pRjj9UkrKTyKIyvvK"
-        }
-      ],
-      "duration_ms": 275370,
-      "name": "Perto do Tom",
-      "url": "https://open.spotify.com/track/64Emni7MfcsbRs1Q0r2g5d"
-    },
-    {
-      "added_at": "2024-09-27 03:00:00",
-      "album": {
         "name": "Samba Doce",
         "url": "https://open.spotify.com/album/2vKAuIaTIb9QTQdfoFo6fh"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 213800,
       "name": "Samba Doce",
       "url": "https://open.spotify.com/track/6jEzvYcZm5HIpuGpRXutzf"
+    },
+    {
+      "added_at": "2024-09-27 03:00:00",
+      "album": {
+        "name": "Saudades de Amanh\u00e3",
+        "url": "https://open.spotify.com/album/6VKuQwVim6GLWbwegH0ECr"
+      },
+      "artists": [
+        {
+          "name": "Antonio Carlos Bigonha",
+          "url": "https://open.spotify.com/artist/3ZrD9pRjj9UkrKTyKIyvvK"
+        }
+      ],
+      "duration_ms": 275370,
+      "name": "Perto do Tom",
+      "url": "https://open.spotify.com/track/64Emni7MfcsbRs1Q0r2g5d"
     },
     {
       "added_at": "2024-09-27 03:00:00",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2024-09-27 03:00:00",
       "album": {
-        "name": "Autoral",
-        "url": "https://open.spotify.com/album/4QuWHriFgdVwmnOwwtNl0s"
-      },
-      "artists": [
-        {
-          "name": "Hamleto Stamato",
-          "url": "https://open.spotify.com/artist/7EqWQMcDQbK4mtYb1pgmeI"
-        }
-      ],
-      "duration_ms": 240458,
-      "name": "Cris",
-      "url": "https://open.spotify.com/track/2tyj2m04JFJQmJolMfSzXU"
-    },
-    {
-      "added_at": "2024-09-27 03:00:00",
-      "album": {
         "name": "No Jeito",
         "url": "https://open.spotify.com/album/2s9LJjJJgI3WskTqhu9wx8"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 221300,
       "name": "No Gurufim do Tio Sam",
       "url": "https://open.spotify.com/track/4GbVxEoS43Q8TfmvLveiuP"
+    },
+    {
+      "added_at": "2024-09-27 03:00:00",
+      "album": {
+        "name": "Autoral",
+        "url": "https://open.spotify.com/album/4QuWHriFgdVwmnOwwtNl0s"
+      },
+      "artists": [
+        {
+          "name": "Hamleto Stamato",
+          "url": "https://open.spotify.com/artist/7EqWQMcDQbK4mtYb1pgmeI"
+        }
+      ],
+      "duration_ms": 240458,
+      "name": "Cris",
+      "url": "https://open.spotify.com/track/2tyj2m04JFJQmJolMfSzXU"
     },
     {
       "added_at": "2024-09-27 03:00:00",

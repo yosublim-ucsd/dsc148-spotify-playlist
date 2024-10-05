@@ -177,6 +177,24 @@
     },
     {
       "album": {
+        "name": "A Cloud",
+        "url": "https://open.spotify.com/album/4VK7vHghiO2oJELa4GAvEY"
+      },
+      "artists": [
+        {
+          "name": "BLESSED MANE",
+          "url": "https://open.spotify.com/artist/4RsEAdLhbUy7j3zHWauPwF"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132923,
+      "name": "A Cloud",
+      "url": "https://open.spotify.com/track/3wR8GPN8EeoIC3GimOTNMY"
+    },
+    {
+      "album": {
         "name": "without u",
         "url": "https://open.spotify.com/album/4SsXKvJuR3CIJh1CKLzNgR"
       },
@@ -338,7 +356,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 156843,
       "name": "AVANGARD",
       "url": "https://open.spotify.com/track/3cTgvsTJZA5qwSZ3F8sKDz"
@@ -1132,7 +1150,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 88000,
       "name": "Die Sterne",
       "url": "https://open.spotify.com/track/6baLPwIPJ26kB37mp5bHad"
@@ -1763,6 +1781,32 @@
     },
     {
       "album": {
+        "name": "Get Nasty (w/ Rico Nasty & Whethan)",
+        "url": "https://open.spotify.com/album/44YEnC1OGauYLEtGFabrXD"
+      },
+      "artists": [
+        {
+          "name": "6arelyhuman",
+          "url": "https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN"
+        },
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        },
+        {
+          "name": "Whethan",
+          "url": "https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131391,
+      "name": "Get Nasty (w/ Rico Nasty & Whethan)",
+      "url": "https://open.spotify.com/track/6aQTUN8woa742emFXZ8wbu"
+    },
+    {
+      "album": {
         "name": "get ya money!",
         "url": "https://open.spotify.com/album/63tf9aVUJM4I8olr13hGuX"
       },
@@ -1894,7 +1938,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 170322,
       "name": "Grim Reaper",
       "url": "https://open.spotify.com/track/1TWC0DUf4xXC2QqpBovlws"
@@ -2128,7 +2172,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 110769,
       "name": "HOUSE PARTY",
       "url": "https://open.spotify.com/track/63BMFfN0SjDw7mPzp8S2kn"
@@ -2482,7 +2526,7 @@
       ],
       "date_added": "2023-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 134237,
       "name": "Just A Hint",
       "url": "https://open.spotify.com/track/7hE0JjXftoo3euDhjwgNIQ"
@@ -3228,7 +3272,7 @@
       ],
       "date_added": "2024-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 201028,
       "name": "New Species",
       "url": "https://open.spotify.com/track/43IxujU228QDYxlnMcotzW"
@@ -3272,6 +3316,24 @@
       "duration_ms": 97711,
       "name": "noir",
       "url": "https://open.spotify.com/track/1Qv9RlQrACS2sIvuVZQHiO"
+    },
+    {
+      "album": {
+        "name": "NOW YOU KNOW",
+        "url": "https://open.spotify.com/album/4Vu4SRjlpaW7bVF70ZnHlv"
+      },
+      "artists": [
+        {
+          "name": "V.I.P.N",
+          "url": "https://open.spotify.com/artist/2gtZypy6QDN8UfPbDQG6ro"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140952,
+      "name": "NOW YOU KNOW",
+      "url": "https://open.spotify.com/track/6NgiRS8rt57wpckZVzcT0K"
     },
     {
       "album": {
@@ -3762,7 +3824,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 115094,
       "name": "POSSESSIVE LOVE DISORDER",
       "url": "https://open.spotify.com/track/0D2xaGV4gxw3gKYnjbxrjz"
@@ -4366,7 +4428,7 @@
       ],
       "date_added": "2024-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-05",
       "duration_ms": 146865,
       "name": "So What If I'm A Freak",
       "url": "https://open.spotify.com/track/3Om0j8yTp9MMMvrf4Xe94N"
