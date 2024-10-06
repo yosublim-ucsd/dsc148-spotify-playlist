@@ -1,6 +1,6 @@
 {
   "description": "Electronic music with Mediterranean and Eastern influences.",
-  "num_followers": 336447,
+  "num_followers": 336579,
   "original_name": "mosaic",
   "owner": {
     "name": "Spotify",
@@ -275,26 +275,6 @@
     {
       "added_at": "2024-09-14 18:17:38",
       "album": {
-        "name": "I Lost You",
-        "url": "https://open.spotify.com/album/3JHjeBkB7ouscnfXrhnPh8"
-      },
-      "artists": [
-        {
-          "name": "Havana",
-          "url": "https://open.spotify.com/artist/3usZAPBaH3bub6atukdf7I"
-        },
-        {
-          "name": "Yaar",
-          "url": "https://open.spotify.com/artist/34KdXwVrhwtbEQQ2aKk2ll"
-        }
-      ],
-      "duration_ms": 225558,
-      "name": "I Lost You - Radio Edit",
-      "url": "https://open.spotify.com/track/05rm5OoJaVWImXZ4GMkekr"
-    },
-    {
-      "added_at": "2024-09-14 18:17:38",
-      "album": {
         "name": "Dripping",
         "url": "https://open.spotify.com/album/62lsuElEt64tDV7ZGxlFvo"
       },
@@ -311,6 +291,26 @@
       "duration_ms": 194234,
       "name": "Dripping",
       "url": "https://open.spotify.com/track/4SKKmtA5ZgbcLzcjTzl8iP"
+    },
+    {
+      "added_at": "2024-09-14 18:17:38",
+      "album": {
+        "name": "I Lost You",
+        "url": "https://open.spotify.com/album/3JHjeBkB7ouscnfXrhnPh8"
+      },
+      "artists": [
+        {
+          "name": "Havana",
+          "url": "https://open.spotify.com/artist/3usZAPBaH3bub6atukdf7I"
+        },
+        {
+          "name": "Yaar",
+          "url": "https://open.spotify.com/artist/34KdXwVrhwtbEQQ2aKk2ll"
+        }
+      ],
+      "duration_ms": 225558,
+      "name": "I Lost You - Radio Edit",
+      "url": "https://open.spotify.com/track/05rm5OoJaVWImXZ4GMkekr"
     },
     {
       "added_at": "2024-09-14 18:17:38",
@@ -415,6 +415,26 @@
     {
       "added_at": "2024-09-14 18:17:38",
       "album": {
+        "name": "Alone",
+        "url": "https://open.spotify.com/album/0aEauJP7jXHDBkdibASYlU"
+      },
+      "artists": [
+        {
+          "name": "Furkan Sert",
+          "url": "https://open.spotify.com/artist/4IzsCody9kpNcm6FKl459I"
+        },
+        {
+          "name": "Elnur Mikayilov",
+          "url": "https://open.spotify.com/artist/7hdMO5XGg4Dgy0hVYA9BIi"
+        }
+      ],
+      "duration_ms": 225226,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/6h8NuIBrwMcXkoLZNPqCzt"
+    },
+    {
+      "added_at": "2024-09-14 18:17:38",
+      "album": {
         "name": "Dle Yaman (116 Deep Mix)",
         "url": "https://open.spotify.com/album/0ZVGtpSt8qU5zDGWm2A7Mj"
       },
@@ -447,26 +467,6 @@
       "duration_ms": 262647,
       "name": "Journey - Mahmut Orhan Remix",
       "url": "https://open.spotify.com/track/3ePcCqdWyYvtyKY95qjCZ0"
-    },
-    {
-      "added_at": "2024-09-14 18:17:38",
-      "album": {
-        "name": "Alone",
-        "url": "https://open.spotify.com/album/0aEauJP7jXHDBkdibASYlU"
-      },
-      "artists": [
-        {
-          "name": "Furkan Sert",
-          "url": "https://open.spotify.com/artist/4IzsCody9kpNcm6FKl459I"
-        },
-        {
-          "name": "Elnur Mikayilov",
-          "url": "https://open.spotify.com/artist/7hdMO5XGg4Dgy0hVYA9BIi"
-        }
-      ],
-      "duration_ms": 225226,
-      "name": "Alone",
-      "url": "https://open.spotify.com/track/6h8NuIBrwMcXkoLZNPqCzt"
     },
     {
       "added_at": "2024-09-14 18:17:38",
@@ -823,42 +823,6 @@
     {
       "added_at": "2024-09-14 18:17:38",
       "album": {
-        "name": "Bangladesh",
-        "url": "https://open.spotify.com/album/7LBsacPrDzwsZgZcrrHyKl"
-      },
-      "artists": [
-        {
-          "name": "Esotique",
-          "url": "https://open.spotify.com/artist/5s8gdykqfA3923GVtrtSUF"
-        },
-        {
-          "name": "Sandra N.",
-          "url": "https://open.spotify.com/artist/0UrGage3kU3APQxGDFhc9L"
-        }
-      ],
-      "duration_ms": 147806,
-      "name": "Bangladesh",
-      "url": "https://open.spotify.com/track/2vmgBSWj0JLDIfvfqiflGf"
-    },
-    {
-      "added_at": "2024-09-14 18:17:38",
-      "album": {
-        "name": "Amare",
-        "url": "https://open.spotify.com/album/7ELZffIkSkgSeSZwXfuh4K"
-      },
-      "artists": [
-        {
-          "name": "Valeron",
-          "url": "https://open.spotify.com/artist/1Y2TujuCl2jLHQGlbevTip"
-        }
-      ],
-      "duration_ms": 410526,
-      "name": "Euphrates",
-      "url": "https://open.spotify.com/track/2clyVcUj199ccetJU2Bkej"
-    },
-    {
-      "added_at": "2024-09-14 18:17:38",
-      "album": {
         "name": "Closer",
         "url": "https://open.spotify.com/album/2pdsZI9LOKyZMROMEFQ3qb"
       },
@@ -883,6 +847,42 @@
     {
       "added_at": "2024-09-14 18:17:38",
       "album": {
+        "name": "Amare",
+        "url": "https://open.spotify.com/album/7ELZffIkSkgSeSZwXfuh4K"
+      },
+      "artists": [
+        {
+          "name": "Valeron",
+          "url": "https://open.spotify.com/artist/1Y2TujuCl2jLHQGlbevTip"
+        }
+      ],
+      "duration_ms": 410526,
+      "name": "Euphrates",
+      "url": "https://open.spotify.com/track/2clyVcUj199ccetJU2Bkej"
+    },
+    {
+      "added_at": "2024-09-14 18:17:38",
+      "album": {
+        "name": "Bangladesh",
+        "url": "https://open.spotify.com/album/7LBsacPrDzwsZgZcrrHyKl"
+      },
+      "artists": [
+        {
+          "name": "Esotique",
+          "url": "https://open.spotify.com/artist/5s8gdykqfA3923GVtrtSUF"
+        },
+        {
+          "name": "Sandra N.",
+          "url": "https://open.spotify.com/artist/0UrGage3kU3APQxGDFhc9L"
+        }
+      ],
+      "duration_ms": 147806,
+      "name": "Bangladesh",
+      "url": "https://open.spotify.com/track/2vmgBSWj0JLDIfvfqiflGf"
+    },
+    {
+      "added_at": "2024-09-14 18:17:38",
+      "album": {
         "name": "CEWRESAMIN",
         "url": "https://open.spotify.com/album/6VcbjdUGUj4Ch0RixouL1Q"
       },
@@ -903,22 +903,18 @@
     {
       "added_at": "2024-09-14 18:17:38",
       "album": {
-        "name": "Lamouni",
-        "url": "https://open.spotify.com/album/52Oz7HNLmvzVBmFdzNEAUZ"
+        "name": "Younan",
+        "url": "https://open.spotify.com/album/26WARN8fvuRh322ZoKuFi3"
       },
       "artists": [
         {
-          "name": "Faylasuf",
-          "url": "https://open.spotify.com/artist/62pD2B6fmRXxLqZYAyvK74"
-        },
-        {
-          "name": "CHAAMA",
-          "url": "https://open.spotify.com/artist/5qwjinowvQNDqyspseSofL"
+          "name": "Al\u00ec Farahani",
+          "url": "https://open.spotify.com/artist/6R7amlI5rHTNVDpOnldyfT"
         }
       ],
-      "duration_ms": 217647,
-      "name": "Lamouni",
-      "url": "https://open.spotify.com/track/388VvqIYj3edEMaHUXNUcN"
+      "duration_ms": 418413,
+      "name": "Younan",
+      "url": "https://open.spotify.com/track/1AgmGgtc24tcBwK4eSNTlx"
     },
     {
       "added_at": "2024-09-14 18:17:38",
@@ -939,18 +935,22 @@
     {
       "added_at": "2024-09-14 18:17:38",
       "album": {
-        "name": "Younan",
-        "url": "https://open.spotify.com/album/26WARN8fvuRh322ZoKuFi3"
+        "name": "Lamouni",
+        "url": "https://open.spotify.com/album/52Oz7HNLmvzVBmFdzNEAUZ"
       },
       "artists": [
         {
-          "name": "Al\u00ec Farahani",
-          "url": "https://open.spotify.com/artist/6R7amlI5rHTNVDpOnldyfT"
+          "name": "Faylasuf",
+          "url": "https://open.spotify.com/artist/62pD2B6fmRXxLqZYAyvK74"
+        },
+        {
+          "name": "CHAAMA",
+          "url": "https://open.spotify.com/artist/5qwjinowvQNDqyspseSofL"
         }
       ],
-      "duration_ms": 418413,
-      "name": "Younan",
-      "url": "https://open.spotify.com/track/1AgmGgtc24tcBwK4eSNTlx"
+      "duration_ms": 217647,
+      "name": "Lamouni",
+      "url": "https://open.spotify.com/track/388VvqIYj3edEMaHUXNUcN"
     },
     {
       "added_at": "2024-09-14 18:17:38",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2024-09-14 18:17:38",
       "album": {
-        "name": "Roots LP",
-        "url": "https://open.spotify.com/album/4LpDKNBhUxXstCFvEieOcR"
-      },
-      "artists": [
-        {
-          "name": "Mr. ID",
-          "url": "https://open.spotify.com/artist/4Bv3GYUzNM11yYGQslJOkp"
-        }
-      ],
-      "duration_ms": 178153,
-      "name": "Roots",
-      "url": "https://open.spotify.com/track/4jK03yPAqhrh2juS3IgE0i"
-    },
-    {
-      "added_at": "2024-09-14 18:17:38",
-      "album": {
         "name": "La Blanche",
         "url": "https://open.spotify.com/album/1o7CTbxk7JsML7VSot5CsZ"
       },
@@ -1407,18 +1391,18 @@
     {
       "added_at": "2024-09-14 18:17:38",
       "album": {
-        "name": "Need U",
-        "url": "https://open.spotify.com/album/3LsEuZvOQzvosI3IYTYqzo"
+        "name": "Roots LP",
+        "url": "https://open.spotify.com/album/4LpDKNBhUxXstCFvEieOcR"
       },
       "artists": [
         {
-          "name": "John Neo",
-          "url": "https://open.spotify.com/artist/2elFwsVoQgp6d5x7fl68De"
+          "name": "Mr. ID",
+          "url": "https://open.spotify.com/artist/4Bv3GYUzNM11yYGQslJOkp"
         }
       ],
-      "duration_ms": 131070,
-      "name": "Need U",
-      "url": "https://open.spotify.com/track/5QQbY1pT2kOfYW48UXz03c"
+      "duration_ms": 178153,
+      "name": "Roots",
+      "url": "https://open.spotify.com/track/4jK03yPAqhrh2juS3IgE0i"
     },
     {
       "added_at": "2024-09-14 18:17:38",
@@ -1443,6 +1427,22 @@
     {
       "added_at": "2024-09-14 18:17:38",
       "album": {
+        "name": "El Hob",
+        "url": "https://open.spotify.com/album/1V2RgQJtSriNJc5ai9CgPw"
+      },
+      "artists": [
+        {
+          "name": "Pharonic Electronic",
+          "url": "https://open.spotify.com/artist/2gQv5UbFmjuJ6jDIeLG6TA"
+        }
+      ],
+      "duration_ms": 214634,
+      "name": "El Hob",
+      "url": "https://open.spotify.com/track/07fRbyvuAdno6U4NtnlI2c"
+    },
+    {
+      "added_at": "2024-09-14 18:17:38",
+      "album": {
         "name": "Anatolieni",
         "url": "https://open.spotify.com/album/5eStJjR5hOHlfsA4so6ddY"
       },
@@ -1463,18 +1463,18 @@
     {
       "added_at": "2024-09-14 18:17:38",
       "album": {
-        "name": "El Hob",
-        "url": "https://open.spotify.com/album/1V2RgQJtSriNJc5ai9CgPw"
+        "name": "Need U",
+        "url": "https://open.spotify.com/album/3LsEuZvOQzvosI3IYTYqzo"
       },
       "artists": [
         {
-          "name": "Pharonic Electronic",
-          "url": "https://open.spotify.com/artist/2gQv5UbFmjuJ6jDIeLG6TA"
+          "name": "John Neo",
+          "url": "https://open.spotify.com/artist/2elFwsVoQgp6d5x7fl68De"
         }
       ],
-      "duration_ms": 214634,
-      "name": "El Hob",
-      "url": "https://open.spotify.com/track/07fRbyvuAdno6U4NtnlI2c"
+      "duration_ms": 131070,
+      "name": "Need U",
+      "url": "https://open.spotify.com/track/5QQbY1pT2kOfYW48UXz03c"
     },
     {
       "added_at": "2024-09-14 18:17:38",
@@ -1535,6 +1535,38 @@
     {
       "added_at": "2024-09-14 18:17:38",
       "album": {
+        "name": "Eternal Roots",
+        "url": "https://open.spotify.com/album/6k8dJjNShTIPhwU9vA5sCL"
+      },
+      "artists": [
+        {
+          "name": "SAFAR",
+          "url": "https://open.spotify.com/artist/249QVZLSwrDyleKNapaapm"
+        }
+      ],
+      "duration_ms": 305005,
+      "name": "Eternal Roots",
+      "url": "https://open.spotify.com/track/6FhUtyw0Y8q1xR22XlFNXg"
+    },
+    {
+      "added_at": "2024-09-14 18:17:38",
+      "album": {
+        "name": "All I Know",
+        "url": "https://open.spotify.com/album/0eFzQD38n2GQyjlJ77YSxt"
+      },
+      "artists": [
+        {
+          "name": "Malik",
+          "url": "https://open.spotify.com/artist/4sEcx9wubbX4TLdaCQTqGI"
+        }
+      ],
+      "duration_ms": 161577,
+      "name": "All I Know",
+      "url": "https://open.spotify.com/track/7uaxj9HeCBClIywN7I1N9J"
+    },
+    {
+      "added_at": "2024-09-14 18:17:38",
+      "album": {
         "name": "Tawada",
         "url": "https://open.spotify.com/album/20J0aexp1w6k1KJKQPzR2M"
       },
@@ -1559,38 +1591,6 @@
       "duration_ms": 435121,
       "name": "Tawada - Saint Evo Remix",
       "url": "https://open.spotify.com/track/0cGExArMSYGaEE41Gu9WAO"
-    },
-    {
-      "added_at": "2024-09-14 18:17:38",
-      "album": {
-        "name": "All I Know",
-        "url": "https://open.spotify.com/album/0eFzQD38n2GQyjlJ77YSxt"
-      },
-      "artists": [
-        {
-          "name": "Malik",
-          "url": "https://open.spotify.com/artist/4sEcx9wubbX4TLdaCQTqGI"
-        }
-      ],
-      "duration_ms": 161577,
-      "name": "All I Know",
-      "url": "https://open.spotify.com/track/7uaxj9HeCBClIywN7I1N9J"
-    },
-    {
-      "added_at": "2024-09-14 18:17:38",
-      "album": {
-        "name": "Eternal Roots",
-        "url": "https://open.spotify.com/album/6k8dJjNShTIPhwU9vA5sCL"
-      },
-      "artists": [
-        {
-          "name": "SAFAR",
-          "url": "https://open.spotify.com/artist/249QVZLSwrDyleKNapaapm"
-        }
-      ],
-      "duration_ms": 305005,
-      "name": "Eternal Roots",
-      "url": "https://open.spotify.com/track/6FhUtyw0Y8q1xR22XlFNXg"
     },
     {
       "added_at": "2024-09-14 18:17:38",
@@ -1715,22 +1715,18 @@
     {
       "added_at": "2024-09-14 18:17:38",
       "album": {
-        "name": "3ala bali",
-        "url": "https://open.spotify.com/album/5aO9m9qYapKXLtOIWQPwj5"
+        "name": "Arabian Soul",
+        "url": "https://open.spotify.com/album/3UZabin8ielzRfA8A7UZx9"
       },
       "artists": [
         {
-          "name": "Obeidmusic",
-          "url": "https://open.spotify.com/artist/3kW6Vte9jUSL600uy9qsks"
-        },
-        {
-          "name": "Pamela Antoun",
-          "url": "https://open.spotify.com/artist/68gE2RqxSG5FlbLan5voiN"
+          "name": "DJ Oscar Sharm",
+          "url": "https://open.spotify.com/artist/5A1daDDPvGd67LVKCYXCXJ"
         }
       ],
-      "duration_ms": 210132,
-      "name": "3ala bali",
-      "url": "https://open.spotify.com/track/3qLyA3AChnCW7nsX8f6SOo"
+      "duration_ms": 312125,
+      "name": "Arabian Soul",
+      "url": "https://open.spotify.com/track/4Mmaa0o0jcxDW2HaJK2iS4"
     },
     {
       "added_at": "2024-09-14 18:17:38",
@@ -1751,22 +1747,6 @@
     {
       "added_at": "2024-09-14 18:17:38",
       "album": {
-        "name": "Arabian Soul",
-        "url": "https://open.spotify.com/album/3UZabin8ielzRfA8A7UZx9"
-      },
-      "artists": [
-        {
-          "name": "DJ Oscar Sharm",
-          "url": "https://open.spotify.com/artist/5A1daDDPvGd67LVKCYXCXJ"
-        }
-      ],
-      "duration_ms": 312125,
-      "name": "Arabian Soul",
-      "url": "https://open.spotify.com/track/4Mmaa0o0jcxDW2HaJK2iS4"
-    },
-    {
-      "added_at": "2024-09-14 18:17:38",
-      "album": {
         "name": "Alchemist EP",
         "url": "https://open.spotify.com/album/6gfX8ITCeBz0QzdHson0Rv"
       },
@@ -1783,6 +1763,26 @@
       "duration_ms": 515120,
       "name": "Alchemist",
       "url": "https://open.spotify.com/track/3ZSINKOsHPDMp39Ttqqjee"
+    },
+    {
+      "added_at": "2024-09-14 18:17:38",
+      "album": {
+        "name": "3ala bali",
+        "url": "https://open.spotify.com/album/5aO9m9qYapKXLtOIWQPwj5"
+      },
+      "artists": [
+        {
+          "name": "Obeidmusic",
+          "url": "https://open.spotify.com/artist/3kW6Vte9jUSL600uy9qsks"
+        },
+        {
+          "name": "Pamela Antoun",
+          "url": "https://open.spotify.com/artist/68gE2RqxSG5FlbLan5voiN"
+        }
+      ],
+      "duration_ms": 210132,
+      "name": "3ala bali",
+      "url": "https://open.spotify.com/track/3qLyA3AChnCW7nsX8f6SOo"
     },
     {
       "added_at": "2024-09-14 18:17:38",
@@ -1823,22 +1823,6 @@
     {
       "added_at": "2024-09-14 18:17:38",
       "album": {
-        "name": "Bora",
-        "url": "https://open.spotify.com/album/6pVj4l5un6ObmtEKn6bxqK"
-      },
-      "artists": [
-        {
-          "name": "Kerem Gell",
-          "url": "https://open.spotify.com/artist/2xLxdnNSnIi1Wle7okLjpi"
-        }
-      ],
-      "duration_ms": 304918,
-      "name": "Bora",
-      "url": "https://open.spotify.com/track/0KtcZzw505bzrQGAjVqGuf"
-    },
-    {
-      "added_at": "2024-09-14 18:17:38",
-      "album": {
         "name": "Angelic",
         "url": "https://open.spotify.com/album/7r880xGu2aoZTb3S7gk4a3"
       },
@@ -1855,6 +1839,26 @@
       "duration_ms": 269378,
       "name": "Angelic",
       "url": "https://open.spotify.com/track/7kJ6JKPAQOsoMIt1BTQdVC"
+    },
+    {
+      "added_at": "2024-09-14 18:17:38",
+      "album": {
+        "name": "Mawjou3 Galbi",
+        "url": "https://open.spotify.com/album/450bx2egvP32rGdLekadr0"
+      },
+      "artists": [
+        {
+          "name": "D33pSoul",
+          "url": "https://open.spotify.com/artist/2HZLJwBLZN8etpz2ZvHqlL"
+        },
+        {
+          "name": "Najwa Farouk",
+          "url": "https://open.spotify.com/artist/0nGyyjulhM4IB5kNqyKvGq"
+        }
+      ],
+      "duration_ms": 198200,
+      "name": "Mawjou3 Galbi",
+      "url": "https://open.spotify.com/track/6TG4s4lyrLJ8OpaGbgfqGl"
     },
     {
       "added_at": "2024-09-14 18:17:38",
@@ -1879,22 +1883,18 @@
     {
       "added_at": "2024-09-14 18:17:38",
       "album": {
-        "name": "Mawjou3 Galbi",
-        "url": "https://open.spotify.com/album/450bx2egvP32rGdLekadr0"
+        "name": "Bora",
+        "url": "https://open.spotify.com/album/6pVj4l5un6ObmtEKn6bxqK"
       },
       "artists": [
         {
-          "name": "D33pSoul",
-          "url": "https://open.spotify.com/artist/2HZLJwBLZN8etpz2ZvHqlL"
-        },
-        {
-          "name": "Najwa Farouk",
-          "url": "https://open.spotify.com/artist/0nGyyjulhM4IB5kNqyKvGq"
+          "name": "Kerem Gell",
+          "url": "https://open.spotify.com/artist/2xLxdnNSnIi1Wle7okLjpi"
         }
       ],
-      "duration_ms": 198200,
-      "name": "Mawjou3 Galbi",
-      "url": "https://open.spotify.com/track/6TG4s4lyrLJ8OpaGbgfqGl"
+      "duration_ms": 304918,
+      "name": "Bora",
+      "url": "https://open.spotify.com/track/0KtcZzw505bzrQGAjVqGuf"
     },
     {
       "added_at": "2024-09-14 18:17:38",

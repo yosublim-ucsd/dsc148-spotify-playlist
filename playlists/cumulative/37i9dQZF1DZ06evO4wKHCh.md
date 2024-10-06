@@ -2,7 +2,7 @@
 
 ### [This Is Emei](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4wKHCh)
 
-> This Is Emei\. Les titres incontournables, réunis dans une seule et même playlist.
+> This Is Emei\. Todas as faixas essenciais numa única playlist.
 
 24 songs - 56 min 29 sec
 

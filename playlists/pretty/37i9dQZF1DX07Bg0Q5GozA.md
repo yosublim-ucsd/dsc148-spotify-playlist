@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 
 > New music off the beaten track\. Cover: Âme, Curses
 
-[Spotify](https://open.spotify.com/user/spotify) - 440,421 likes - 75 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 440,438 likes - 75 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 | 24 | [TEARDROPS](https://open.spotify.com/track/42Ncw4TTGb1MO1WchSVSaQ) | [Mild Minds](https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW) | [TEARDROPS](https://open.spotify.com/album/5xb1WKKpThyoit6HhVLbfD) | 3:23 |
 | 25 | [Let's Go Back](https://open.spotify.com/track/3fvZo45Y28ly1QBo05pujJ) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Let's Go Back](https://open.spotify.com/album/7CRD6yQGeaAmA5AVXluBul) | 2:49 |
 | 26 | [All You Children](https://open.spotify.com/track/1zYuc5YFYlFfSSq6IslHVY) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [The Avalanches](https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED) | [All You Children](https://open.spotify.com/album/5mBSawja8ThkqKHqMagoCk) | 4:14 |
-| 27 | [ELEVATE](https://open.spotify.com/track/2UBgrpkC33yx7DVFMVsvU2) | [Rahim C Redcar](https://open.spotify.com/artist/4fWWr45mgLHAV8DPJR3vdW) | [HOPECORE](https://open.spotify.com/album/7ipRsT2BVjkSXzZoljpRbw) | 6:16 |
+| 27 | [ELEVATE](https://open.spotify.com/track/2UBgrpkC33yx7DVFMVsvU2) | [Rahim Redcar](https://open.spotify.com/artist/4fWWr45mgLHAV8DPJR3vdW) | [HOPECORE](https://open.spotify.com/album/7ipRsT2BVjkSXzZoljpRbw) | 6:16 |
 | 28 | [Petit Boy](https://open.spotify.com/track/0MSN9A0nVONYW8E3Ml7k3E) | [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX), [Porij](https://open.spotify.com/artist/5Ph4BCHTBnS7CJctvtUDkp) | [Petit Boy](https://open.spotify.com/album/4V9Cce5LCcaxbWxzHIyTVg) | 3:09 |
 | 29 | [In drei Leben](https://open.spotify.com/track/1vJFO92AqNrWOk3sHvHCvH) | [Oehl](https://open.spotify.com/artist/0LLCimRswRk6Ks5oBJ4Abp) | [TOM](https://open.spotify.com/album/1VaykcRPyeTw5LoA21RheU) | 4:12 |
 | 30 | [Round](https://open.spotify.com/track/7r1gaUJMOm7NPLOM7KUtSU) | [Two Shell](https://open.spotify.com/artist/4mcHKwboFDmpDBQ4fiOrf3), [Sugababes](https://open.spotify.com/artist/7rZNSLWMjTbwdLNskFbzFf) | [Round](https://open.spotify.com/album/2kS5zyWNmmh4xbEVxwv8Y7) | 3:26 |

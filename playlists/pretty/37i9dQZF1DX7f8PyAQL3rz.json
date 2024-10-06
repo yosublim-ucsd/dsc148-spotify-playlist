@@ -1,6 +1,6 @@
 {
   "description": "cabelinho, tt e os fantasmas se divertem",
-  "num_followers": 1401325,
+  "num_followers": 1401305,
   "original_name": "creme",
   "owner": {
     "name": "Spotify",
@@ -1819,6 +1819,22 @@
     {
       "added_at": "2024-10-04 03:03:00",
       "album": {
+        "name": "MUITA LUTA MIXTAPE",
+        "url": "https://open.spotify.com/album/2mQYx7MIWjcV3DuUvCVeyD"
+      },
+      "artists": [
+        {
+          "name": "Big Bllakk",
+          "url": "https://open.spotify.com/artist/2676LWh4GgqdAaYkRpqTcd"
+        }
+      ],
+      "duration_ms": 186461,
+      "name": "BrusaDaNike e GShock",
+      "url": "https://open.spotify.com/track/7rBEfUy7v0ptREXUh1BJi8"
+    },
+    {
+      "added_at": "2024-10-04 03:03:00",
+      "album": {
         "name": "Dacoromode",
         "url": "https://open.spotify.com/album/4wsh2d30QdwnFQLEpSkXKz"
       },
@@ -1847,22 +1863,6 @@
       "duration_ms": 200039,
       "name": "Ela joga no 7",
       "url": "https://open.spotify.com/track/5vyu6cCIflFAmGZwnjyrq7"
-    },
-    {
-      "added_at": "2024-10-04 03:03:00",
-      "album": {
-        "name": "MUITA LUTA MIXTAPE",
-        "url": "https://open.spotify.com/album/2mQYx7MIWjcV3DuUvCVeyD"
-      },
-      "artists": [
-        {
-          "name": "Big Bllakk",
-          "url": "https://open.spotify.com/artist/2676LWh4GgqdAaYkRpqTcd"
-        }
-      ],
-      "duration_ms": 186461,
-      "name": "BrusaDaNike e GShock",
-      "url": "https://open.spotify.com/track/7rBEfUy7v0ptREXUh1BJi8"
     },
     {
       "added_at": "2024-10-04 03:03:00",

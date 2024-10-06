@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 
 > The best new songs of the week! Cover: blackwave\. and Compact Disk Dummies
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,090 likes - 89 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,095 likes - 89 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 | 15 | [The Rest Of Me](https://open.spotify.com/track/4xyZ8TMuWWlSCN3NRUsOCq) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [The Rest Of Me](https://open.spotify.com/album/3JZctelEqYNf7zNBiMQuXh) | 3:50 |
 | 16 | [Hope](https://open.spotify.com/track/2hPZRSLyKFyJCYTotrmM1q) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Changes All The Time](https://open.spotify.com/album/0RJ06tZn2gom7mAmCIip2z) | 4:39 |
 | 17 | [Eurostar](https://open.spotify.com/track/6uDqKkOeYnE7W1KZMMBPve) | [Nemo](https://open.spotify.com/artist/5Wg72TowYBWIcSo3K2r84N) | [Eurostar](https://open.spotify.com/album/3TIuWz1xtNlre0XVZqm0BS) | 2:45 |
-| 18 | [Planga \(feat\. Chivv\)](https://open.spotify.com/track/2MmF0gikbHDryK9Db5yoYV) | [Jinho 9](https://open.spotify.com/artist/3gPtUdMiLkJgmQIxFpEhAk), [Chivv](https://open.spotify.com/artist/2hBfmHHnM4dS4pJgEJENCg) | [Planga \(feat\. Chivv\)](https://open.spotify.com/album/1fsn1JwBC8RZ89qym4N8KK) | 2:13 |
+| 18 | [Planga](https://open.spotify.com/track/2MmF0gikbHDryK9Db5yoYV) | [Jinho 9](https://open.spotify.com/artist/3gPtUdMiLkJgmQIxFpEhAk), [Chivv](https://open.spotify.com/artist/0fXYDoSMO5PoGPrwB7ymij), [Puri](https://open.spotify.com/artist/3ADyFy1orEwODaiHmRRMQp) | [Planga](https://open.spotify.com/album/1fsn1JwBC8RZ89qym4N8KK) | 2:13 |
 | 19 | [Allure \(feat\. Future & Mike WiLL Made\-It\)](https://open.spotify.com/track/2ReP8wMRWXJIF91TZ9CjZZ) | [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Mike WiLL Made\-It](https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk) | [Allure \(feat\. Future & Mike WiLL Made\-It\)](https://open.spotify.com/album/25gXlZRYlLdjd3iOjB0FDQ) | 3:09 |
 | 20 | [Bloom](https://open.spotify.com/track/45jDy30AdgovP88gjPPdmB) | [Sevens](https://open.spotify.com/artist/16TJwfQFZXTDDkPwG1FOzd) | [Bloom](https://open.spotify.com/album/1SIcq11Bdm5HE1S7JlORXe) | 4:35 |
 | 21 | [T'en aller](https://open.spotify.com/track/59MVdyazjn9ExcL2C8xuTY) | [Claudio Capéo](https://open.spotify.com/artist/5KBbs98MK59UNMF1VTwMmz) | [T'en aller](https://open.spotify.com/album/00nbP0PHv8JjqtS82B1hYN) | 3:11 |

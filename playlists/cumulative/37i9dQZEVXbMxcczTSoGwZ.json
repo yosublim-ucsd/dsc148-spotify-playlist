@@ -1555,6 +1555,42 @@
     },
     {
       "album": {
+        "name": "ALL IN",
+        "url": "https://open.spotify.com/album/72fCTQ0lNg5vXQ0Bynhy58"
+      },
+      "artists": [
+        {
+          "name": "Mikko Harju",
+          "url": "https://open.spotify.com/artist/4d5lT8L9TN7RfbYCs1sa8n"
+        }
+      ],
+      "date_added": "2024-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175240,
+      "name": "ALL IN",
+      "url": "https://open.spotify.com/track/5WSW4kZ4lO6nACET8FgGqJ"
+    },
+    {
+      "album": {
+        "name": "Moon Music",
+        "url": "https://open.spotify.com/album/5SGtrmYbIo0Dsg4kJ4qjM6"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "date_added": "2024-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222647,
+      "name": "ALL MY LOVE",
+      "url": "https://open.spotify.com/track/6iYxkBHyMpsgVxUgfy5fSx"
+    },
+    {
+      "album": {
         "name": "30",
         "url": "https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa"
       },
@@ -3270,7 +3306,7 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-06",
       "duration_ms": 210373,
       "name": "BIRDS OF A FEATHER",
       "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
@@ -7653,6 +7689,28 @@
     },
     {
       "album": {
+        "name": "En tunne mit\u00e4\u00e4n",
+        "url": "https://open.spotify.com/album/1C9U1TeUv97mFMTsecCycO"
+      },
+      "artists": [
+        {
+          "name": "Bizi",
+          "url": "https://open.spotify.com/artist/3sMD9js59UX6gYODxbg1VV"
+        },
+        {
+          "name": "Vesta",
+          "url": "https://open.spotify.com/artist/0KzoK9bz1M6R9cDBLAOF4q"
+        }
+      ],
+      "date_added": "2024-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184224,
+      "name": "En tunne mit\u00e4\u00e4n",
+      "url": "https://open.spotify.com/track/2Tq6TvRPymUrGdWgILUxj9"
+    },
+    {
+      "album": {
         "name": "DECIDE",
         "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
       },
@@ -10986,7 +11044,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-06",
       "duration_ms": 167012,
       "name": "Heavy Is the Crown",
       "url": "https://open.spotify.com/track/3fgehc497TFqKH1zBL2YNK"
@@ -12249,6 +12307,24 @@
     },
     {
       "album": {
+        "name": "Kuivaa kyyneleet",
+        "url": "https://open.spotify.com/album/4zyg8ORJNwWejgZgu9gFoP"
+      },
+      "artists": [
+        {
+          "name": "TUULI",
+          "url": "https://open.spotify.com/artist/4CvGI7cUCGi7gcG0X0nrwc"
+        }
+      ],
+      "date_added": "2024-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177830,
+      "name": "Huuto",
+      "url": "https://open.spotify.com/track/5jWdC7hsYj7EMk83U3SXGT"
+    },
+    {
+      "album": {
         "name": "UTOPIA",
         "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
       },
@@ -13398,7 +13474,7 @@
       ],
       "date_added": "2024-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-06",
       "duration_ms": 234093,
       "name": "Ikuinen elokuu",
       "url": "https://open.spotify.com/track/5L1Zw17VPvmxuWa8PppvbY"
@@ -13914,6 +13990,24 @@
       "duration_ms": 206774,
       "name": "ISI MAKSAA",
       "url": "https://open.spotify.com/track/0MtR1vbS7UeJa0jvXGCwmY"
+    },
+    {
+      "album": {
+        "name": "Iskelm\u00e4\u00e4",
+        "url": "https://open.spotify.com/album/2LXiIuRUeyfAcjZnZcrcDF"
+      },
+      "artists": [
+        {
+          "name": "OLGA",
+          "url": "https://open.spotify.com/artist/5lrrAnWHek9LEQgB3MCfub"
+        }
+      ],
+      "date_added": "2024-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136740,
+      "name": "Iskelm\u00e4\u00e4",
+      "url": "https://open.spotify.com/track/0dqtnUAiNVHoffw7FUGi6D"
     },
     {
       "album": {
@@ -14554,7 +14648,7 @@
       ],
       "date_added": "2024-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-06",
       "duration_ms": 170846,
       "name": "Jos m\u00e4 l\u00e4hden",
       "url": "https://open.spotify.com/track/0HbvSt0kGpZuSFC75TBn5r"
@@ -15062,7 +15156,7 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-29",
+      "date_removed": null,
       "duration_ms": 201333,
       "name": "Juostaan (feat. Sexmane)",
       "url": "https://open.spotify.com/track/5Yn8jOYR59KhHQdhwiQdXO"
@@ -17200,7 +17294,7 @@
       ],
       "date_added": "2024-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-06",
       "duration_ms": 165583,
       "name": "Kissa (feat. Averagekidluke)",
       "url": "https://open.spotify.com/track/5gLl4Zq68qpJZPVbY3EBZg"
@@ -18922,6 +19016,24 @@
       "duration_ms": 199105,
       "name": "Laiffii",
       "url": "https://open.spotify.com/track/7fQRZtAla6g2k57LTizQkI"
+    },
+    {
+      "album": {
+        "name": "Lainasyd\u00e4n",
+        "url": "https://open.spotify.com/album/1TmaqVzm3YoCZiTHaca06U"
+      },
+      "artists": [
+        {
+          "name": "ANI",
+          "url": "https://open.spotify.com/artist/7aaGp8b4O2FQUwHY23MV0T"
+        }
+      ],
+      "date_added": "2024-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171520,
+      "name": "Lainasyd\u00e4n",
+      "url": "https://open.spotify.com/track/0taCC3ocM3n9k6SQwofsTA"
     },
     {
       "album": {
@@ -23311,6 +23423,24 @@
     },
     {
       "album": {
+        "name": "Muovipussi kummittelee",
+        "url": "https://open.spotify.com/album/7JLo7BNOhxESepJvUhIRPt"
+      },
+      "artists": [
+        {
+          "name": "Arppa",
+          "url": "https://open.spotify.com/artist/7BLe6O1Q3UbUsAUh5x6wuv"
+        }
+      ],
+      "date_added": "2024-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198506,
+      "name": "Miss\u00e4 s\u00e4 oot",
+      "url": "https://open.spotify.com/track/5HOfloc2j0lHmZfmUxtTdJ"
+    },
+    {
+      "album": {
         "name": "UHKA",
         "url": "https://open.spotify.com/album/5j5RgFRUeytc8eO8jYNZLo"
       },
@@ -27622,7 +27752,7 @@
       ],
       "date_added": "2024-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-06",
       "duration_ms": 179267,
       "name": "Painajaiset",
       "url": "https://open.spotify.com/track/4uja2Q6sXUYoGgjvWUlFez"
@@ -30564,7 +30694,7 @@
       ],
       "date_added": "2024-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-06",
       "duration_ms": 159236,
       "name": "Rich Man (feat. Turisti)",
       "url": "https://open.spotify.com/track/7ixwvAH5KCIvMM9RU2ZQtU"
@@ -30648,6 +30778,28 @@
       "duration_ms": 122039,
       "name": "Riidell\u00e4\u00e4n",
       "url": "https://open.spotify.com/track/6FPbXTKc9DZCeseA5Gzv27"
+    },
+    {
+      "album": {
+        "name": "Riitt\u00e4m\u00e4t\u00f6n (feat. Tomi Saario)",
+        "url": "https://open.spotify.com/album/5BwWhNeYf1w9Kol1PbnDeL"
+      },
+      "artists": [
+        {
+          "name": "Sexmane",
+          "url": "https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq"
+        },
+        {
+          "name": "Tomi Saario",
+          "url": "https://open.spotify.com/artist/1p1Q1tRavrbMGCgJdf9G0H"
+        }
+      ],
+      "date_added": "2024-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213220,
+      "name": "Riitt\u00e4m\u00e4t\u00f6n (feat. Tomi Saario)",
+      "url": "https://open.spotify.com/track/4IM8WcV6lgjQeBbOA4JaDl"
     },
     {
       "album": {
@@ -39486,7 +39638,7 @@
       ],
       "date_added": "2024-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-06",
       "duration_ms": 237506,
       "name": "valssi",
       "url": "https://open.spotify.com/track/5enVWJXH9X2Biou4niupoJ"
@@ -41160,7 +41312,7 @@
       ],
       "date_added": "2024-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-06",
       "duration_ms": 182579,
       "name": "V\u00e4\u00e4r\u00e4\u00e4n aikaan (feat. HUGO)",
       "url": "https://open.spotify.com/track/0HHQoono8fCyLgZOgAwosN"

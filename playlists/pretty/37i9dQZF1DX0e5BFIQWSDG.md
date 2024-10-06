@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0e5BFIQWSDG.md) - [plain]
 
 > Οι μεγαλύτερες επιτυχίες του σήμερα και του αύριο, επιλεγμένες από την ομάδα μας\. Εξώφυλλο: FLY LO, Strat
 
-[Spotify](https://open.spotify.com/user/spotify) - 249,782 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 249,902 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0e5BFIQWSDG.md) - [plain]
 | 14 | [MA BELLA](https://open.spotify.com/track/6D5QFkJLHYuv5f7hvslZxz) | [RACK](https://open.spotify.com/artist/6YYOTK6Qyv6PuFipPxCCoe), [TOQUEL](https://open.spotify.com/artist/7AWAljMatr7bxddF4kWzXG), [Beyond](https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP) | [EGO THERAPY](https://open.spotify.com/album/1q26U80QVKg26wIZpBGFi8) | 2:52 |
 | 15 | [Alli Mia Fora](https://open.spotify.com/track/12zzuRnz63FyuBtgTP464y) | [Konstantinos Argiros](https://open.spotify.com/artist/5YquORfLTx6nWMlBzJstx7), [Light](https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2) | [Alli Mia Fora](https://open.spotify.com/album/1pUYR2ijEcc0m2ts0c9tD2) | 3:23 |
 | 16 | [FANTA](https://open.spotify.com/track/6wx0UEozv6e3X16awO0BCS) | [DIFF](https://open.spotify.com/artist/4rtNK25TiSGNcibilGWcQK), [Arab](https://open.spotify.com/artist/3h3WR8UDyRk15U74xAXE7a) | [FANTA](https://open.spotify.com/album/28Z5ChSUUkD9xuUjy9xuBq) | 2:33 |
-| 17 | [Panama](https://open.spotify.com/track/59TU63XlKvPgYYnTu3mnc0) | [Trannos](https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc), [AR\-AB](https://open.spotify.com/artist/22PN8q6f33B3WpZI7u6CbG) | [Panama](https://open.spotify.com/album/6EmezhSz87ge2ma2CDeEJK) | 2:12 |
+| 17 | [Panama](https://open.spotify.com/track/59TU63XlKvPgYYnTu3mnc0) | [Trannos](https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc), [Arab test](https://open.spotify.com/artist/1GUvd0frO0vgGhR9Qb1KQF) | [Panama](https://open.spotify.com/album/6EmezhSz87ge2ma2CDeEJK) | 2:12 |
 | 18 | [XWRIS](https://open.spotify.com/track/0l3lG8DrnazizwBxGeJ9Qy) | [Kidd](https://open.spotify.com/artist/1RqOmrtivmvKrfBO81j1ou), [Echo](https://open.spotify.com/artist/0JfrxGQOdnHYZWBAtzPezD) | [BABYSHARK](https://open.spotify.com/album/07dJAiFnDIzhB9hMrUfohG) | 2:10 |
 | 19 | [OMERTA](https://open.spotify.com/track/3SX7Wbl2uotkaeKUJkrP85) | [RACK](https://open.spotify.com/artist/6YYOTK6Qyv6PuFipPxCCoe), [Light](https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2), [Beyond](https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP) | [EGO THERAPY](https://open.spotify.com/album/1q26U80QVKg26wIZpBGFi8) | 2:49 |
 | 20 | [Makigiaz](https://open.spotify.com/track/0zQydXtbVjEVMwsymWUBIA) | [Yolte](https://open.spotify.com/artist/41Pv6UAIHbAoaWNKRTdENm), [MG](https://open.spotify.com/artist/6SWOdiks4Ac3lMM8NCqDm0) | [Makigiaz](https://open.spotify.com/album/5KY0qPCraEdJZvXMhHMRB2) | 2:09 |

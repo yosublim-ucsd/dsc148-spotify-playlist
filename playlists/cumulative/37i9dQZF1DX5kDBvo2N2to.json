@@ -1233,6 +1233,24 @@
     },
     {
       "album": {
+        "name": "Hur ska jag sova inatt",
+        "url": "https://open.spotify.com/album/7Lb2uA2vkXMu75VszwGXNh"
+      },
+      "artists": [
+        {
+          "name": "Norlie & KKV",
+          "url": "https://open.spotify.com/artist/2u8P7EawurNYoIzRtr5Knk"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161434,
+      "name": "Hur ska jag sova inatt",
+      "url": "https://open.spotify.com/track/23pO9ZdhArX2NTfoxfy0bU"
+    },
+    {
+      "album": {
         "name": "I HATE IT!",
         "url": "https://open.spotify.com/album/5354Xi5KXJ6EtjB1qrQP82"
       },
@@ -2204,7 +2222,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-06",
       "duration_ms": 106666,
       "name": "phonetic",
       "url": "https://open.spotify.com/track/58xtrlvib5PVvshQ4u3oPC"
@@ -2532,7 +2550,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-06",
       "duration_ms": 270250,
       "name": "Sjuk i Huvudet",
       "url": "https://open.spotify.com/track/74mqrObPeUlI7eOO1ZM9UE"
@@ -3172,6 +3190,24 @@
       "duration_ms": 225394,
       "name": "Vem?",
       "url": "https://open.spotify.com/track/5W90tHshx7hSbmHNIgsHYi"
+    },
+    {
+      "album": {
+        "name": "V\u00e4rlden \u00e4r inte vacker (men det \u00e4r vi)",
+        "url": "https://open.spotify.com/album/0G2qck3MgeAeBACj0q0dZR"
+      },
+      "artists": [
+        {
+          "name": "estraden",
+          "url": "https://open.spotify.com/artist/2Osj5g9VkHReOlZgfoEQao"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188800,
+      "name": "V\u00e4rlden \u00e4r inte vacker (men det \u00e4r vi)",
+      "url": "https://open.spotify.com/track/4kpu0HVUbw1Ozb1pV1pXIX"
     },
     {
       "album": {

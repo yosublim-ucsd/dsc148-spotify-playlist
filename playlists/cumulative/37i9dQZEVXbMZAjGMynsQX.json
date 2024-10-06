@@ -3618,7 +3618,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-06",
       "duration_ms": 218365,
       "name": "Casi Al 100",
       "url": "https://open.spotify.com/track/34vXOwvcodMEKIwWioRIhe"
@@ -7082,7 +7082,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-06",
       "duration_ms": 190560,
       "name": "Es un Secreto",
       "url": "https://open.spotify.com/track/7JwdbqIpiuWvGbRryKSuBz"
@@ -7118,7 +7118,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-05",
+      "date_removed": null,
       "duration_ms": 192120,
       "name": "Es un Secreto",
       "url": "https://open.spotify.com/track/3KZCP2StVGdWkOKyRZNWA4"
@@ -7350,6 +7350,24 @@
       "duration_ms": 187331,
       "name": "FEEL ME??",
       "url": "https://open.spotify.com/track/4kELKaXaNP4EQR8Q8xNIID"
+    },
+    {
+      "album": {
+        "name": "Feeling My Mind",
+        "url": "https://open.spotify.com/album/0WfI1jaUbJKuhqgHCaepmm"
+      },
+      "artists": [
+        {
+          "name": "Joe Mesmar",
+          "url": "https://open.spotify.com/artist/6FcKiLiXqVUbEOAe7hhTua"
+        }
+      ],
+      "date_added": "2024-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268064,
+      "name": "Feeling My Mind - Radio Edit",
+      "url": "https://open.spotify.com/track/54GIpKWCbM8qNRp0DVk7U0"
     },
     {
       "album": {

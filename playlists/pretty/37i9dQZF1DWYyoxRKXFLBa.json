@@ -1,6 +1,6 @@
 {
   "description": "pura morra rifada. RPLK en portada.",
-  "num_followers": 10336,
+  "num_followers": 10342,
   "original_name": "Ruidosas",
   "owner": {
     "name": "Spotify",
@@ -807,22 +807,6 @@
     {
       "added_at": "2024-06-07 12:38:26",
       "album": {
-        "name": "Lejos De La Ciudad",
-        "url": "https://open.spotify.com/album/4JAk0mbWKQjrUATbfDjpRf"
-      },
-      "artists": [
-        {
-          "name": "Daniela Spalla",
-          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
-        }
-      ],
-      "duration_ms": 188680,
-      "name": "Lejos De La Ciudad",
-      "url": "https://open.spotify.com/track/6ZPx4OfYVHv7FkPAF2Khbm"
-    },
-    {
-      "added_at": "2024-06-07 12:38:26",
-      "album": {
         "name": "Sweet & Sour - Hot & Spicy",
         "url": "https://open.spotify.com/album/0MpryzsjWVwyYfb5YyAJG7"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 262066,
       "name": "Ojos Claros, Labios Rosas",
       "url": "https://open.spotify.com/track/34tCEtUZP9JaPZ6KqFUHvh"
+    },
+    {
+      "added_at": "2024-06-07 12:38:26",
+      "album": {
+        "name": "Lejos De La Ciudad",
+        "url": "https://open.spotify.com/album/4JAk0mbWKQjrUATbfDjpRf"
+      },
+      "artists": [
+        {
+          "name": "Daniela Spalla",
+          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
+        }
+      ],
+      "duration_ms": 188680,
+      "name": "Lejos De La Ciudad",
+      "url": "https://open.spotify.com/track/6ZPx4OfYVHv7FkPAF2Khbm"
     },
     {
       "added_at": "2024-06-07 12:38:26",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2024-06-07 12:38:26",
       "album": {
-        "name": "Bancarrota (Soundtrack Cindy La Regia: La Serie)",
-        "url": "https://open.spotify.com/album/60yp0ERmEOJORfGHva6llS"
-      },
-      "artists": [
-        {
-          "name": "Paty Cant\u00fa",
-          "url": "https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT"
-        }
-      ],
-      "duration_ms": 145190,
-      "name": "Bancarrota - Soundtrack Cindy La Regia: La Serie",
-      "url": "https://open.spotify.com/track/4vJd3ap2VmfTZBYUaIAqje"
-    },
-    {
-      "added_at": "2024-06-07 12:38:26",
-      "album": {
         "name": "Voy en Auto",
         "url": "https://open.spotify.com/album/45VXxqHvTgdEicrCiIBXnu"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 178686,
       "name": "Voy en Auto",
       "url": "https://open.spotify.com/track/0kVHMFM0cLUU3LVxP3Ps4F"
+    },
+    {
+      "added_at": "2024-06-07 12:38:26",
+      "album": {
+        "name": "Bancarrota (Soundtrack Cindy La Regia: La Serie)",
+        "url": "https://open.spotify.com/album/60yp0ERmEOJORfGHva6llS"
+      },
+      "artists": [
+        {
+          "name": "Paty Cant\u00fa",
+          "url": "https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT"
+        }
+      ],
+      "duration_ms": 145190,
+      "name": "Bancarrota - Soundtrack Cindy La Regia: La Serie",
+      "url": "https://open.spotify.com/track/4vJd3ap2VmfTZBYUaIAqje"
     },
     {
       "added_at": "2024-06-07 12:38:26",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2024-06-07 12:38:26",
       "album": {
-        "name": "Quiero",
-        "url": "https://open.spotify.com/album/1GYAiTrFqi5raLcCxP6A6x"
-      },
-      "artists": [
-        {
-          "name": "Valentina Moretti",
-          "url": "https://open.spotify.com/artist/1smi39GfJBKzbFCPwogmRS"
-        }
-      ],
-      "duration_ms": 213000,
-      "name": "Quiero",
-      "url": "https://open.spotify.com/track/1xklTrnCEhu2E4I3xLaGLf"
-    },
-    {
-      "added_at": "2024-06-07 12:38:26",
-      "album": {
         "name": "ni\u00f1o azul",
         "url": "https://open.spotify.com/album/7uSH6G3Z9z5yGBk9LIH2Zk"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 91328,
       "name": "Agujas",
       "url": "https://open.spotify.com/track/3eMnL4Yec1hCJzs8G6sXET"
+    },
+    {
+      "added_at": "2024-06-07 12:38:26",
+      "album": {
+        "name": "Quiero",
+        "url": "https://open.spotify.com/album/1GYAiTrFqi5raLcCxP6A6x"
+      },
+      "artists": [
+        {
+          "name": "Valentina Moretti",
+          "url": "https://open.spotify.com/artist/1smi39GfJBKzbFCPwogmRS"
+        }
+      ],
+      "duration_ms": 213000,
+      "name": "Quiero",
+      "url": "https://open.spotify.com/track/1xklTrnCEhu2E4I3xLaGLf"
     },
     {
       "added_at": "2024-06-07 12:38:26",

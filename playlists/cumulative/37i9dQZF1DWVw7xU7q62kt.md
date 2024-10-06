@@ -4,7 +4,7 @@
 
 > Beats with a flavour of Jazz\. Cover: Blue Lab Beats
 
-268 songs - 13 hr 38 min
+269 songs - 13 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,7 @@
 | [Croydon Smash](https://open.spotify.com/track/3ArFJR37rzbtmyqypgQN0m) | [Kit Downes](https://open.spotify.com/artist/5KAxF8BtuqO5emnRCjorwk), [Petter Eldh](https://open.spotify.com/artist/2q0DyP2pqqNHI4OiC50IKx), [James Maddren](https://open.spotify.com/artist/6ke4GTfhO9er0IPiwHW1Zw), [ENEMY](https://open.spotify.com/artist/4bl36sH2M86WGlzhX4TqaC) | [The Betrayal](https://open.spotify.com/album/77UysfbnlDD2AIoeFABimZ) | 1:57 | 2023-10-13 | 2024-09-14 |
 | [Cruize](https://open.spotify.com/track/00z49c0uNlNKolUw3ydft4) | [Neo.](https://open.spotify.com/artist/3Zymx551K3z6vUXnF5coV9) | [Cruize](https://open.spotify.com/album/2bew9784OB2atUJHZEfEZr) | 2:40 | 2023-08-22 | 2024-04-19 |
 | [Cruize](https://open.spotify.com/track/10Ijt9xLWRgYFdaTVRXSxR) | [Neo.](https://open.spotify.com/artist/3Zymx551K3z6vUXnF5coV9) | [Cruize](https://open.spotify.com/album/3bLAV4r4Gye5irDLho7p5y) | 2:40 | 2024-03-20 | 2024-08-25 |
-| [Crystal Tears](https://open.spotify.com/track/2ZW39GOe6sVnDJhsuJfE5V) | [Danæ](https://open.spotify.com/artist/0bZJlYfMkcOIjtBCbSvsys), [Drxnk](https://open.spotify.com/artist/0wN7ALPeSqOb16sG7vl4RC) | [Crystal Tears](https://open.spotify.com/album/1OdVKI8bK4ffgnoSswNmpz) | 2:19 | 2024-09-20 |  |
+| [Crystal Tears](https://open.spotify.com/track/2ZW39GOe6sVnDJhsuJfE5V) | [Danæ](https://open.spotify.com/artist/0bZJlYfMkcOIjtBCbSvsys), [Drxnk](https://open.spotify.com/artist/0wN7ALPeSqOb16sG7vl4RC) | [Crystal Tears](https://open.spotify.com/album/1OdVKI8bK4ffgnoSswNmpz) | 2:19 | 2024-09-20 | 2024-10-06 |
 | [Cuffies](https://open.spotify.com/track/4VNGKsfFQCmLMnIsQfbEs6) | [Soundspretty](https://open.spotify.com/artist/5VDHYoxsF1BT3b0AzeVAHr), [7apes](https://open.spotify.com/artist/4smeBjKru2y3oeQkGSfotv), [the intern](https://open.spotify.com/artist/1ZntZlDRZbQGsSIYJhxog2) | [Cuffies](https://open.spotify.com/album/3lzsdyojumISAiNp4gbNBY) | 2:26 | 2024-06-07 |  |
 | [Cycles](https://open.spotify.com/track/5eMNHvVloaTLdWD2qxaIn3) | [Svaneborg Kardyb](https://open.spotify.com/artist/2aGCFk3Mvhs9Am7JHwoyRr) | [Cycles](https://open.spotify.com/album/2tkvHgxZAjDZZb6eQ2lGkZ) | 4:19 | 2024-08-23 |  |
 | [DARKER THAN DISCO](https://open.spotify.com/track/1rYX45ZNl3PKxHedn4PaTR) | [Jazzbois](https://open.spotify.com/artist/0jq1z5MQSlFtvpbnLzeEul) | [Still Blunted](https://open.spotify.com/album/7roR8DoB7C96sd5ahoiCZJ) | 4:49 | 2024-09-06 |  |
@@ -258,6 +258,7 @@
 | [Valencia](https://open.spotify.com/track/5Fy8kjcF0moa6jtC0e1eJd) | [.multibeat](https://open.spotify.com/artist/4QQM0xwh18KQeE0CrnSqyj), [Noflik](https://open.spotify.com/artist/4adNSdgdmFQ1vVIebJxwVt) | [Valencia](https://open.spotify.com/album/1fYibTIKGYuOV0le0LwMvZ) | 2:28 | 2023-08-22 | 2024-04-19 |
 | [Valencia](https://open.spotify.com/track/73BMJYyFBU2Awsz8HL27cz) | [.multibeat](https://open.spotify.com/artist/4QQM0xwh18KQeE0CrnSqyj), [Noflik](https://open.spotify.com/artist/4adNSdgdmFQ1vVIebJxwVt) | [Valencia](https://open.spotify.com/album/4HMi4x83Z9sJHOUi5MhVsE) | 2:28 | 2024-03-20 | 2024-08-24 |
 | [Velvet Keys](https://open.spotify.com/track/2lLWYl54En7wmYWO5FVhOf) | [KLIM](https://open.spotify.com/artist/2mI6A1by7u32RZH8Kf61Kw), [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt) | [Velvet Keys](https://open.spotify.com/album/7wHdZd8aY5ivOMG7phgPTD) | 2:22 | 2024-09-06 |  |
+| [Verano](https://open.spotify.com/track/1i5dxe63PNyL7Ofvy6GtLR) | [Moderator](https://open.spotify.com/artist/6fynenqBn7lrlAgVCw5YnB), [Drips Zacheer](https://open.spotify.com/artist/6evg3DBRRbN4YNlzbeS6VN), [Billa Qause](https://open.spotify.com/artist/7aHDFeKOQ2mgSGb8DTQf8Y), [Mononome](https://open.spotify.com/artist/23Xbt1RdcMA2glA3aeHtZ3) | [Verano](https://open.spotify.com/album/0emU3hp1Cq68y6T7Wrh8Cq) | 2:19 | 2024-10-04 |  |
 | [Verdant](https://open.spotify.com/track/6eopX3Kongrg9P751naBpe) | [khoa](https://open.spotify.com/artist/2Sytd0z30yOj3b5IOfOUWj) | [Verdant](https://open.spotify.com/album/4P5lOaPUYQ5bhpiBVq9w1t) | 2:26 | 2023-08-31 |  |
 | [Viaggio](https://open.spotify.com/track/2CbRmg4lse3yTJOLm6AK9q) | [Billa Qause](https://open.spotify.com/artist/7aHDFeKOQ2mgSGb8DTQf8Y) | [Viaggio](https://open.spotify.com/album/0WzejcXI9XV7uLNxLJa6x2) | 2:19 | 2024-09-06 |  |
 | [Vibra](https://open.spotify.com/track/7n2sf4iKVww9HOEc7UJjCQ) | [flâneur](https://open.spotify.com/artist/1u1zs47JhYDIbDkFjamdzx), [Dani Catalá](https://open.spotify.com/artist/47KS10JqzPOZND1Uxr7U1i) | [Vibra](https://open.spotify.com/album/5P0bAHsX56p24XjjqWf3Yi) | 2:14 | 2024-09-20 |  |

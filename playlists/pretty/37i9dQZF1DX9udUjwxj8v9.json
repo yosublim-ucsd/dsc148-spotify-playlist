@@ -1,6 +1,6 @@
 {
   "description": "minha carne \u00e9 de carnaval, meu cora\u00e7\u00e3o \u00e9 igual",
-  "num_followers": 146371,
+  "num_followers": 146393,
   "original_name": "carnavalizar",
   "owner": {
     "name": "Spotify",
@@ -771,6 +771,22 @@
     {
       "added_at": "2023-03-06 22:48:04",
       "album": {
+        "name": "Cuscuz Cl\u00e3",
+        "url": "https://open.spotify.com/album/5wPTwkTaWBJWnOGhhcPNAd"
+      },
+      "artists": [
+        {
+          "name": "Chico C\u00e9sar",
+          "url": "https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH"
+        }
+      ],
+      "duration_ms": 235240,
+      "name": "Pedra De Responsa",
+      "url": "https://open.spotify.com/track/6nNfJTbmDbFFEsc8yxBqxV"
+    },
+    {
+      "added_at": "2023-03-06 22:48:04",
+      "album": {
         "name": "BaianaSystem",
         "url": "https://open.spotify.com/album/1oAU4OkP63pBrWTvLPGlRS"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 263146,
       "name": "O Carnaval Quem \u00c9 Que Faz?",
       "url": "https://open.spotify.com/track/2TPCINjlzZ9Hbp0tCRQC2b"
-    },
-    {
-      "added_at": "2023-03-06 22:48:04",
-      "album": {
-        "name": "Cuscuz Cl\u00e3",
-        "url": "https://open.spotify.com/album/5wPTwkTaWBJWnOGhhcPNAd"
-      },
-      "artists": [
-        {
-          "name": "Chico C\u00e9sar",
-          "url": "https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH"
-        }
-      ],
-      "duration_ms": 235240,
-      "name": "Pedra De Responsa",
-      "url": "https://open.spotify.com/track/6nNfJTbmDbFFEsc8yxBqxV"
     },
     {
       "added_at": "2023-03-06 22:48:04",

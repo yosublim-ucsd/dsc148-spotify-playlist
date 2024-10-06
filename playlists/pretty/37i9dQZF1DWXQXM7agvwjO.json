@@ -1,6 +1,6 @@
 {
   "description": "Hottest indie sound from Asia. Cover: Dinosaur\u2019s Skin (Taiwan)",
-  "num_followers": 101193,
+  "num_followers": 101211,
   "original_name": ".ORG",
   "owner": {
     "name": "Spotify",
@@ -763,18 +763,18 @@
     {
       "added_at": "2024-10-03 16:00:00",
       "album": {
-        "name": "Our Beloved Summer (Original Television Soundtrack), Pt. 11",
-        "url": "https://open.spotify.com/album/460wwJJ7kVYYue0MfHTsVD"
+        "name": "\u0e19\u0e35\u0e48\u0e09\u0e31\u0e19\u0e40\u0e2d\u0e07\u0e04\u0e19\u0e17\u0e35\u0e48...",
+        "url": "https://open.spotify.com/album/11gCYa9lh1X1QyxnIZGArK"
       },
       "artists": [
         {
-          "name": "Kim Kyung Hee",
-          "url": "https://open.spotify.com/artist/35CFI6iSFTyM0scQKBu8eE"
+          "name": "PURPEECH",
+          "url": "https://open.spotify.com/artist/3xlC7Dw0uiwprXDHCU9SAu"
         }
       ],
-      "duration_ms": 192466,
-      "name": "Our Beloved Summer",
-      "url": "https://open.spotify.com/track/6Nw6XxOGVgKPOgi8LidyPq"
+      "duration_ms": 256000,
+      "name": "\u0e19\u0e35\u0e48\u0e09\u0e31\u0e19\u0e40\u0e2d\u0e07\u0e04\u0e19\u0e17\u0e35\u0e48...",
+      "url": "https://open.spotify.com/track/7xIA2UmWstNzDU3tba4VP1"
     },
     {
       "added_at": "2024-10-03 16:00:00",
@@ -799,18 +799,18 @@
     {
       "added_at": "2024-10-03 16:00:00",
       "album": {
-        "name": "\u0e19\u0e35\u0e48\u0e09\u0e31\u0e19\u0e40\u0e2d\u0e07\u0e04\u0e19\u0e17\u0e35\u0e48...",
-        "url": "https://open.spotify.com/album/11gCYa9lh1X1QyxnIZGArK"
+        "name": "Our Beloved Summer (Original Television Soundtrack), Pt. 11",
+        "url": "https://open.spotify.com/album/460wwJJ7kVYYue0MfHTsVD"
       },
       "artists": [
         {
-          "name": "PURPEECH",
-          "url": "https://open.spotify.com/artist/3xlC7Dw0uiwprXDHCU9SAu"
+          "name": "Kim Kyung Hee",
+          "url": "https://open.spotify.com/artist/35CFI6iSFTyM0scQKBu8eE"
         }
       ],
-      "duration_ms": 256000,
-      "name": "\u0e19\u0e35\u0e48\u0e09\u0e31\u0e19\u0e40\u0e2d\u0e07\u0e04\u0e19\u0e17\u0e35\u0e48...",
-      "url": "https://open.spotify.com/track/7xIA2UmWstNzDU3tba4VP1"
+      "duration_ms": 192466,
+      "name": "Our Beloved Summer",
+      "url": "https://open.spotify.com/track/6Nw6XxOGVgKPOgi8LidyPq"
     },
     {
       "added_at": "2024-10-03 16:00:00",
@@ -935,6 +935,22 @@
     {
       "added_at": "2024-10-03 16:00:00",
       "album": {
+        "name": "Rahsia Tuhan",
+        "url": "https://open.spotify.com/album/4t9LkUma3iBV9PWJQG5cKP"
+      },
+      "artists": [
+        {
+          "name": "Noh Salleh",
+          "url": "https://open.spotify.com/artist/4fVYwG8RsbJsREFFniszhf"
+        }
+      ],
+      "duration_ms": 287071,
+      "name": "Rahsia Tuhan",
+      "url": "https://open.spotify.com/track/6twyTAZjH3ap9GFkGukraz"
+    },
+    {
+      "added_at": "2024-10-03 16:00:00",
+      "album": {
         "name": "RAD MILLI",
         "url": "https://open.spotify.com/album/3K6rQw58z3oIzrPlvS63Dg"
       },
@@ -971,22 +987,6 @@
       "duration_ms": 230250,
       "name": "Mr. Feelgood",
       "url": "https://open.spotify.com/track/7wYA8mWTOnHltpaxBU7rKH"
-    },
-    {
-      "added_at": "2024-10-03 16:00:00",
-      "album": {
-        "name": "Rahsia Tuhan",
-        "url": "https://open.spotify.com/album/4t9LkUma3iBV9PWJQG5cKP"
-      },
-      "artists": [
-        {
-          "name": "Noh Salleh",
-          "url": "https://open.spotify.com/artist/4fVYwG8RsbJsREFFniszhf"
-        }
-      ],
-      "duration_ms": 287071,
-      "name": "Rahsia Tuhan",
-      "url": "https://open.spotify.com/track/6twyTAZjH3ap9GFkGukraz"
     },
     {
       "added_at": "2024-10-03 16:00:00",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2024-10-03 16:00:00",
       "album": {
-        "name": "Weirdo",
-        "url": "https://open.spotify.com/album/3UXtvSzgnZGaPl9w9jnPn2"
-      },
-      "artists": [
-        {
-          "name": "WIM",
-          "url": "https://open.spotify.com/artist/5cHJ17GlywtrrS6ax9xqQz"
-        }
-      ],
-      "duration_ms": 253917,
-      "name": "Weirdo",
-      "url": "https://open.spotify.com/track/6qjKT6qI5AeGajCaKq2mfS"
-    },
-    {
-      "added_at": "2024-10-03 16:00:00",
-      "album": {
         "name": "DREAM LIKE ME",
         "url": "https://open.spotify.com/album/2H6wEzaX0tu67DTAXjRDEo"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 302903,
       "name": "\u0e44\u0e21\u0e48\u0e40\u0e04\u0e22\u0e23\u0e39\u0e49",
       "url": "https://open.spotify.com/track/5HCwzA8KgJa7MVj0Gs3pL6"
+    },
+    {
+      "added_at": "2024-10-03 16:00:00",
+      "album": {
+        "name": "Weirdo",
+        "url": "https://open.spotify.com/album/3UXtvSzgnZGaPl9w9jnPn2"
+      },
+      "artists": [
+        {
+          "name": "WIM",
+          "url": "https://open.spotify.com/artist/5cHJ17GlywtrrS6ax9xqQz"
+        }
+      ],
+      "duration_ms": 253917,
+      "name": "Weirdo",
+      "url": "https://open.spotify.com/track/6qjKT6qI5AeGajCaKq2mfS"
     },
     {
       "added_at": "2024-10-03 16:00:00",
@@ -1331,18 +1331,22 @@
     {
       "added_at": "2024-10-03 16:00:00",
       "album": {
-        "name": "Fragile",
-        "url": "https://open.spotify.com/album/0Mhyp9JonvP6cHv2HWQChq"
+        "name": "Amazing Show\u540c\u540d\u5c08\u8f2f",
+        "url": "https://open.spotify.com/album/7DEWBNaWhhqgjai4w7Mcau"
       },
       "artists": [
         {
-          "name": "Dreane",
-          "url": "https://open.spotify.com/artist/3jGBrkfigCO8a21DpyiOMa"
+          "name": "Amazing Show",
+          "url": "https://open.spotify.com/artist/3n16EAnJtz6SZGx2zJssrI"
+        },
+        {
+          "name": "Crowd Lu",
+          "url": "https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD"
         }
       ],
-      "duration_ms": 218000,
-      "name": "Fragile",
-      "url": "https://open.spotify.com/track/2aQ5TojQsR4rTe1zyiJamc"
+      "duration_ms": 200346,
+      "name": "\u624b\u6a5f\u9322\u5305\u9470\u5319\u83f8 feat.Crowd Lu",
+      "url": "https://open.spotify.com/track/67aEhtXw9vYZKgyVLhkblq"
     },
     {
       "added_at": "2024-10-03 16:00:00",
@@ -1399,6 +1403,22 @@
     {
       "added_at": "2024-10-03 16:00:00",
       "album": {
+        "name": "Fragile",
+        "url": "https://open.spotify.com/album/0Mhyp9JonvP6cHv2HWQChq"
+      },
+      "artists": [
+        {
+          "name": "Dreane",
+          "url": "https://open.spotify.com/artist/3jGBrkfigCO8a21DpyiOMa"
+        }
+      ],
+      "duration_ms": 218000,
+      "name": "Fragile",
+      "url": "https://open.spotify.com/track/2aQ5TojQsR4rTe1zyiJamc"
+    },
+    {
+      "added_at": "2024-10-03 16:00:00",
+      "album": {
         "name": "Now and Ever",
         "url": "https://open.spotify.com/album/27u7Lg41vdi6Ku1KGW1UrU"
       },
@@ -1411,22 +1431,6 @@
       "duration_ms": 220161,
       "name": "Now and Ever",
       "url": "https://open.spotify.com/track/1VHM91Ost9UKZYPg7rRdhK"
-    },
-    {
-      "added_at": "2024-10-03 16:00:00",
-      "album": {
-        "name": "Toast",
-        "url": "https://open.spotify.com/album/6fWQVnWx02ri1fW8vtRaqb"
-      },
-      "artists": [
-        {
-          "name": "CLAUDIA",
-          "url": "https://open.spotify.com/artist/2kUBwtoPkA9ZoJxcQUtL2P"
-        }
-      ],
-      "duration_ms": 154105,
-      "name": "Toast",
-      "url": "https://open.spotify.com/track/0rdkMTuORAVbsxIdiRCu8s"
     },
     {
       "added_at": "2024-10-03 16:00:00",
@@ -1487,6 +1491,22 @@
     {
       "added_at": "2024-10-03 16:00:00",
       "album": {
+        "name": "Toast",
+        "url": "https://open.spotify.com/album/6fWQVnWx02ri1fW8vtRaqb"
+      },
+      "artists": [
+        {
+          "name": "CLAUDIA",
+          "url": "https://open.spotify.com/artist/2kUBwtoPkA9ZoJxcQUtL2P"
+        }
+      ],
+      "duration_ms": 154105,
+      "name": "Toast",
+      "url": "https://open.spotify.com/track/0rdkMTuORAVbsxIdiRCu8s"
+    },
+    {
+      "added_at": "2024-10-03 16:00:00",
+      "album": {
         "name": "LosE tO yOu",
         "url": "https://open.spotify.com/album/2MooXNaTRtM9XNfajmvdcs"
       },
@@ -1499,6 +1519,70 @@
       "duration_ms": 201176,
       "name": "LosE tO yOu",
       "url": "https://open.spotify.com/track/6lTJOAfoSWVgRpCPiztujD"
+    },
+    {
+      "added_at": "2024-10-03 16:00:00",
+      "album": {
+        "name": "\u7406\u60f3\u72c0\u614b",
+        "url": "https://open.spotify.com/album/1cUvSBEiW9ZfRJycMHRCaY"
+      },
+      "artists": [
+        {
+          "name": "Cosmos People",
+          "url": "https://open.spotify.com/artist/0tNjyz75Px29Yuf1sjs25G"
+        }
+      ],
+      "duration_ms": 241317,
+      "name": "\u4f60\u7684\u6a23\u5b50",
+      "url": "https://open.spotify.com/track/1sMvq3uR6whC43orwSTHCz"
+    },
+    {
+      "added_at": "2024-10-03 16:00:00",
+      "album": {
+        "name": "Together",
+        "url": "https://open.spotify.com/album/5F4nx93yqmXlEhBMdxBJ2g"
+      },
+      "artists": [
+        {
+          "name": "James Alyn",
+          "url": "https://open.spotify.com/artist/2kkcOVicqa6SBIZqBSUCy5"
+        }
+      ],
+      "duration_ms": 190777,
+      "name": "Together",
+      "url": "https://open.spotify.com/track/6O0OJF1r7cUKLeKCwdW4tS"
+    },
+    {
+      "added_at": "2024-10-03 16:00:00",
+      "album": {
+        "name": "WELL DONE",
+        "url": "https://open.spotify.com/album/3ZYrXylEYlFvr3HDv1wJqJ"
+      },
+      "artists": [
+        {
+          "name": "HYBS",
+          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
+        }
+      ],
+      "duration_ms": 224725,
+      "name": "Tip Toe",
+      "url": "https://open.spotify.com/track/2xW9Wlw6oKVCyzo9IhQaAh"
+    },
+    {
+      "added_at": "2024-10-03 16:00:00",
+      "album": {
+        "name": "New Feeling",
+        "url": "https://open.spotify.com/album/4tSmSKg7v1BYVuKzcyOFDs"
+      },
+      "artists": [
+        {
+          "name": "Pamungkas",
+          "url": "https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C"
+        }
+      ],
+      "duration_ms": 257380,
+      "name": "New Feeling",
+      "url": "https://open.spotify.com/track/3lhBdBZRpf9uVQPswDYjK4"
     },
     {
       "added_at": "2024-10-03 16:00:00",
@@ -1523,86 +1607,6 @@
     {
       "added_at": "2024-10-03 16:00:00",
       "album": {
-        "name": "\u7406\u60f3\u72c0\u614b",
-        "url": "https://open.spotify.com/album/1cUvSBEiW9ZfRJycMHRCaY"
-      },
-      "artists": [
-        {
-          "name": "Cosmos People",
-          "url": "https://open.spotify.com/artist/0tNjyz75Px29Yuf1sjs25G"
-        }
-      ],
-      "duration_ms": 241317,
-      "name": "\u4f60\u7684\u6a23\u5b50",
-      "url": "https://open.spotify.com/track/1sMvq3uR6whC43orwSTHCz"
-    },
-    {
-      "added_at": "2024-10-03 16:00:00",
-      "album": {
-        "name": "Love, Again",
-        "url": "https://open.spotify.com/album/4h6KumY8NGiN5wVXexLl18"
-      },
-      "artists": [
-        {
-          "name": "CLAUDIA",
-          "url": "https://open.spotify.com/artist/2kUBwtoPkA9ZoJxcQUtL2P"
-        }
-      ],
-      "duration_ms": 170578,
-      "name": "Oh My God!",
-      "url": "https://open.spotify.com/track/05Jx8FESfPgEabByGDbukL"
-    },
-    {
-      "added_at": "2024-10-03 16:00:00",
-      "album": {
-        "name": "WELL DONE",
-        "url": "https://open.spotify.com/album/3ZYrXylEYlFvr3HDv1wJqJ"
-      },
-      "artists": [
-        {
-          "name": "HYBS",
-          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
-        }
-      ],
-      "duration_ms": 224725,
-      "name": "Tip Toe",
-      "url": "https://open.spotify.com/track/2xW9Wlw6oKVCyzo9IhQaAh"
-    },
-    {
-      "added_at": "2024-10-03 16:00:00",
-      "album": {
-        "name": "Together",
-        "url": "https://open.spotify.com/album/5F4nx93yqmXlEhBMdxBJ2g"
-      },
-      "artists": [
-        {
-          "name": "James Alyn",
-          "url": "https://open.spotify.com/artist/2kkcOVicqa6SBIZqBSUCy5"
-        }
-      ],
-      "duration_ms": 190777,
-      "name": "Together",
-      "url": "https://open.spotify.com/track/6O0OJF1r7cUKLeKCwdW4tS"
-    },
-    {
-      "added_at": "2024-10-03 16:00:00",
-      "album": {
-        "name": "New Feeling",
-        "url": "https://open.spotify.com/album/4tSmSKg7v1BYVuKzcyOFDs"
-      },
-      "artists": [
-        {
-          "name": "Pamungkas",
-          "url": "https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C"
-        }
-      ],
-      "duration_ms": 257380,
-      "name": "New Feeling",
-      "url": "https://open.spotify.com/track/3lhBdBZRpf9uVQPswDYjK4"
-    },
-    {
-      "added_at": "2024-10-03 16:00:00",
-      "album": {
         "name": "tired",
         "url": "https://open.spotify.com/album/6NIR1zEyjL76C1aiyOWPLA"
       },
@@ -1623,22 +1627,18 @@
     {
       "added_at": "2024-10-03 16:00:00",
       "album": {
-        "name": "Amazing Show\u540c\u540d\u5c08\u8f2f",
-        "url": "https://open.spotify.com/album/7DEWBNaWhhqgjai4w7Mcau"
+        "name": "REGRETS",
+        "url": "https://open.spotify.com/album/3tEGJIfvTdBI3VkherQsCm"
       },
       "artists": [
         {
-          "name": "Amazing Show",
-          "url": "https://open.spotify.com/artist/3n16EAnJtz6SZGx2zJssrI"
-        },
-        {
-          "name": "Crowd Lu",
-          "url": "https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD"
+          "name": "LAYYI",
+          "url": "https://open.spotify.com/artist/76ZCgPpNcZEokvxJRFfSgr"
         }
       ],
-      "duration_ms": 200346,
-      "name": "\u624b\u6a5f\u9322\u5305\u9470\u5319\u83f8 feat.Crowd Lu",
-      "url": "https://open.spotify.com/track/67aEhtXw9vYZKgyVLhkblq"
+      "duration_ms": 176796,
+      "name": "REGRETS",
+      "url": "https://open.spotify.com/track/3oLGjRA6SFnQcajSwTanSs"
     },
     {
       "added_at": "2024-10-03 16:00:00",
@@ -1659,42 +1659,18 @@
     {
       "added_at": "2024-10-03 16:00:00",
       "album": {
-        "name": "REGRETS",
-        "url": "https://open.spotify.com/album/3tEGJIfvTdBI3VkherQsCm"
+        "name": "Love, Again",
+        "url": "https://open.spotify.com/album/4h6KumY8NGiN5wVXexLl18"
       },
       "artists": [
         {
-          "name": "LAYYI",
-          "url": "https://open.spotify.com/artist/76ZCgPpNcZEokvxJRFfSgr"
+          "name": "CLAUDIA",
+          "url": "https://open.spotify.com/artist/2kUBwtoPkA9ZoJxcQUtL2P"
         }
       ],
-      "duration_ms": 176796,
-      "name": "REGRETS",
-      "url": "https://open.spotify.com/track/3oLGjRA6SFnQcajSwTanSs"
-    },
-    {
-      "added_at": "2024-10-03 16:00:00",
-      "album": {
-        "name": "tell me, will we survive?",
-        "url": "https://open.spotify.com/album/70G0Vz66zfhGLqeKkQvMQk"
-      },
-      "artists": [
-        {
-          "name": "PRYVT",
-          "url": "https://open.spotify.com/artist/2EoyTW14yqnbqmk90NjbLT"
-        },
-        {
-          "name": "hanuel",
-          "url": "https://open.spotify.com/artist/5W87E8NmLc9OQwqwJlVVIk"
-        },
-        {
-          "name": "HNATA",
-          "url": "https://open.spotify.com/artist/2SeuwGHnHYfUmvUOMzc23O"
-        }
-      ],
-      "duration_ms": 194142,
-      "name": "tell me, will we survive?",
-      "url": "https://open.spotify.com/track/2TksKegWgcUKDpiG5sTY44"
+      "duration_ms": 170578,
+      "name": "Oh My God!",
+      "url": "https://open.spotify.com/track/05Jx8FESfPgEabByGDbukL"
     },
     {
       "added_at": "2024-10-03 16:00:00",
@@ -1711,6 +1687,30 @@
       "duration_ms": 260682,
       "name": "\"L\"",
       "url": "https://open.spotify.com/track/6bnM3mthxSY6fWrk15msxM"
+    },
+    {
+      "added_at": "2024-10-03 16:00:00",
+      "album": {
+        "name": "UMAMI",
+        "url": "https://open.spotify.com/album/1Ja6sE2nTmSFRUWJKuo48g"
+      },
+      "artists": [
+        {
+          "name": "SIRUP",
+          "url": "https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh"
+        },
+        {
+          "name": "The Crane",
+          "url": "https://open.spotify.com/artist/7naloiyHdmw1HsJd95OYDL"
+        },
+        {
+          "name": "whoosh",
+          "url": "https://open.spotify.com/artist/75SZZT7Gh4mjvmAbuKdzLA"
+        }
+      ],
+      "duration_ms": 202000,
+      "name": "UMAMI",
+      "url": "https://open.spotify.com/track/2O69clP6C6Jipc9jSOYWx8"
     }
   ],
   "unique_name": ".ORG",

@@ -1,12 +1,12 @@
 {
-  "description": "In the mood for live Christian and Gospel music? This is the one. Cover: Jimmy D Psalmist",
-  "num_followers": 13569,
+  "description": "In the mood for live Christian and Gospel music? This is the one. Cover: Abby Godwin & IBK Sings",
+  "num_followers": 13606,
   "original_name": "Come Alive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zv8wPAAAAAA9MlAXfTxeFuWeWEeEO+a8",
+  "snapshot_id": "ZwD9vgAAAABq45/w0hYT+bkYetb3bVba",
   "tracks": [
     {
       "added_at": "2024-02-23 00:01:00",
@@ -43,6 +43,26 @@
       "duration_ms": 808677,
       "name": "Worthy of My Praise",
       "url": "https://open.spotify.com/track/2TfDq6YUBAiX09xTlH2bhX"
+    },
+    {
+      "added_at": "2024-10-05 08:49:00",
+      "album": {
+        "name": "None As Great (feat. IBKSings)",
+        "url": "https://open.spotify.com/album/0Tnya0sXXeYwRgsrFAowtD"
+      },
+      "artists": [
+        {
+          "name": "Abby Godwin",
+          "url": "https://open.spotify.com/artist/2vKfioYB4bNu6OIXMkwC6I"
+        },
+        {
+          "name": "IBKSings",
+          "url": "https://open.spotify.com/artist/5H4j32gWFbJQnjImeuaHhU"
+        }
+      ],
+      "duration_ms": 424315,
+      "name": "None As Great (feat. IBKSings)",
+      "url": "https://open.spotify.com/track/04uOK00GAvZa8UCf3bX5Hd"
     },
     {
       "added_at": "2024-08-16 00:01:00",
@@ -199,7 +219,7 @@
     {
       "added_at": "2024-10-04 00:01:00",
       "album": {
-        "name": "No Weapon - Live",
+        "name": "No Weapon (Live)",
         "url": "https://open.spotify.com/album/3WZc9y8iZRqWOzhxTO0WQu"
       },
       "artists": [

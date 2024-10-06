@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXm4aFD88nJT.md) - [plain]
 
 > Топ українських поп пісень у 2023 році\. Обкладинка: DOROFEEVA
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,612 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,631 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXm4aFD88nJT.md) - [plain]
 | 33 | [Тобі](https://open.spotify.com/track/2cvVqEnUZOyYgVymo4Gcct) | [Kadnay](https://open.spotify.com/artist/5uXIaMULUstVp4F5Jq1irJ) | [Тобі](https://open.spotify.com/album/5Q3605VHDbQnuHfhAqdmGo) | 3:07 |
 | 34 | [Кропива](https://open.spotify.com/track/60NEFApEE5eMNIJZ4Z0YNf) | [Анна Трінчер](https://open.spotify.com/artist/71Lczal1i7u1Emcp0UfY9E) | [Кропива](https://open.spotify.com/album/440GwxUauaYjHmwBe6tG5V) | 2:36 |
 | 35 | [Чекає вдома \(feat\. DOVI\)](https://open.spotify.com/track/5F9CLUvuRyku0ZdT4ljPQt) | [YAKTAK](https://open.spotify.com/artist/5zjgy7grnZbt2L12meuxog), [DOVI](https://open.spotify.com/artist/3PI6jFJpFKYyrHmTw0yxo5) | [Чекає вдома \(feat\. DOVI\)](https://open.spotify.com/album/0tfQPR51z0FTCwPsd2OSvz) | 2:49 |
-| 36 | [ДИМ](https://open.spotify.com/track/3l2uKZ5dJk8iZSl7aWbmyi) | [BEZ OBMEZHEN](https://open.spotify.com/artist/6jc6H0uwSfRE3Tnd4628cL) | [ДИМ](https://open.spotify.com/album/5IZLSN3fncCkUOUcVKww54) | 3:42 |
+| 36 | [ДИМ](https://open.spotify.com/track/3l2uKZ5dJk8iZSl7aWbmyi) | [БЕЗ ОБМЕЖЕНЬ](https://open.spotify.com/artist/6jc6H0uwSfRE3Tnd4628cL) | [ДИМ](https://open.spotify.com/album/5IZLSN3fncCkUOUcVKww54) | 3:42 |
 | 37 | [Печаль](https://open.spotify.com/track/2LmRQfDxbr7BDJi7InFpRY) | [CHEEV](https://open.spotify.com/artist/0PWfuxCvPtyeCLLWjf4EzJ) | [Noir](https://open.spotify.com/album/5558G7OI6BydlAwOuqAJIa) | 2:52 |
 | 38 | [Останній день](https://open.spotify.com/track/5KGQlaUywD8JlroELN5NOg) | [MamaRika](https://open.spotify.com/artist/6N2neiZftq16Phw99zxLDS) | [Останній день](https://open.spotify.com/album/1PA54gYrc2R8O4YRAdGMKF) | 2:29 |
 | 39 | [Не можу так](https://open.spotify.com/track/29ttXe74PzcdPkp0jP5CNd) | [Tery](https://open.spotify.com/artist/7N01QxNI9inYVGY6kTVUwt), [Libenson](https://open.spotify.com/artist/5WKDr18VQpdy1dBHkBi8O1) | [Теплий сніг](https://open.spotify.com/album/2qdGHGIVtCpIBx5OCAVJuj) | 2:17 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 
 > håll det 100.
 
-[Spotify](https://open.spotify.com/user/spotify) - 334,722 likes - 101 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 334,769 likes - 101 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 9 | [TRUST ISSUES](https://open.spotify.com/track/5hjwsWJrIE21lDZfN8ZkNv) | [Dani M](https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF), [B.Baby](https://open.spotify.com/artist/0uuwZ3aC3dhl9e7J66Ag13) | [TRUST ISSUES](https://open.spotify.com/album/0qNAYC6fxhowCmds4BXqdh) | 2:34 |
 | 10 | [Vanilj](https://open.spotify.com/track/2CBuonjhTSzjzDBKNhjxlF) | [BoBa](https://open.spotify.com/artist/4Ui11oqvDCTqw4fxX2XkFW), [Malik Dalasi](https://open.spotify.com/artist/1n3grwmOigAA2UYtlF91gc) | [Vanilj](https://open.spotify.com/album/5QuG1YYAkTFUF7DETHLleW) | 2:19 |
 | 11 | [Popcorn](https://open.spotify.com/track/25z8RJhqfqcS17K0v7eX0L) | [Tasha17k](https://open.spotify.com/artist/3QgpgRgnODIPgu5NDEkcgd), [Viktor Ax](https://open.spotify.com/artist/4qp8Vfo8zlEF8ZqJxQJt84) | [Popcorn](https://open.spotify.com/album/5DodLYY4UcnFWPeEBEgxry) | 2:15 |
-| 12 | [Må såhär \- Original](https://open.spotify.com/track/5fWjO67nSoZZ1GadZfYOQl) | [Naod](https://open.spotify.com/artist/31KGMx2XwpugdUpJzeZOv1) | [Må såhär](https://open.spotify.com/album/730nvnsHUsv78YX7DXyL1u) | 2:21 |
+| 12 | [Må såhär](https://open.spotify.com/track/5fWjO67nSoZZ1GadZfYOQl) | [Naod](https://open.spotify.com/artist/31KGMx2XwpugdUpJzeZOv1) | [Må såhär](https://open.spotify.com/album/730nvnsHUsv78YX7DXyL1u) | 2:21 |
 | 13 | [I Might](https://open.spotify.com/track/2UX821OXiIYGp67PdMqmoe) | [Sarettii](https://open.spotify.com/artist/4kUfJdASJDMPLuo1t1N2zi) | [I Might](https://open.spotify.com/album/0BV35xKFmcMBLRuQqnB78d) | 2:38 |
 | 14 | [Dör för oss](https://open.spotify.com/track/6XefQa6vfcvAHl2iHzBhQO) | [Luc1ano](https://open.spotify.com/artist/5FrvaIrf2vik2rktPWOrsN), [SHYDE](https://open.spotify.com/artist/45lkyvZqssTcpM1bX5O5Cv) | [Dör för oss](https://open.spotify.com/album/5iAXOi2m8FZfZYgRJ3CxiZ) | 2:35 |
 | 15 | [Aiko](https://open.spotify.com/track/3jEU1V6aIJR8cQWiKT8BNT) | [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG), [Shiro](https://open.spotify.com/artist/2r9JAY6ISvp0VvZsT6cBJo) | [Aiko](https://open.spotify.com/album/4HXJUqCo77UmYUR4USxu3F) | 2:26 |

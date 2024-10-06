@@ -1843,6 +1843,28 @@
     },
     {
       "album": {
+        "name": "Dorothy - 10th Anniversary Edition",
+        "url": "https://open.spotify.com/album/3CVX0TnEq9ZsE20t4nVavI"
+      },
+      "artists": [
+        {
+          "name": "Polo & Pan",
+          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
+        },
+        {
+          "name": "Bolis Pupul",
+          "url": "https://open.spotify.com/artist/0dSnTqwXok006MwsjjlzUl"
+        }
+      ],
+      "date_added": "2024-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284703,
+      "name": "Dorothy - Bolis Pupul 10th Anniversary Version",
+      "url": "https://open.spotify.com/track/5s8PhhTY5hlcX5FehUNVjs"
+    },
+    {
+      "album": {
         "name": "Dreams Away",
         "url": "https://open.spotify.com/album/04iUPOlqZk4toyXcRKaite"
       },
@@ -6774,7 +6796,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-06",
       "duration_ms": 289208,
       "name": "The Semimodular Bird of Jazz",
       "url": "https://open.spotify.com/track/30w0Ow2tuaZL26ep5pEn2M"

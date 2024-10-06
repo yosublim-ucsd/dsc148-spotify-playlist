@@ -4,7 +4,7 @@
 
 > 
 
-803 songs - 2 day 15 hr 4 min
+804 songs - 2 day 15 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -258,6 +258,7 @@
 | [Furu Djougou](https://open.spotify.com/track/2cdJBO7MCy4nvthEFcueqm) | [Kaba Blon](https://open.spotify.com/artist/3LOLZ74N22a2Inn6XWL17Z) | [Balani Show Super Hits \- Electronic Street Parties from Mali](https://open.spotify.com/album/7x1et2nWj52a343dHvTr5T) | 4:16 | 2022-09-06 |  |
 | [Gape](https://open.spotify.com/track/2ZvRXHGTPumPju9lNIK41U) | [Mafikizolo](https://open.spotify.com/artist/04Hrgux8cIaNJKUAX7WwJN) | [Gate Crashers](https://open.spotify.com/album/3AWB8SR0Dmd8ksFYJfq2Mh) | 4:53 | 2019-08-24 |  |
 | [Gapu](https://open.spotify.com/track/73LKLBdzAIFbYV4hUTkt59) | [Yothu Yindi](https://open.spotify.com/artist/5sHPYevv4ykaH79HIHqBDP) | [Litmus Original Soundtrack](https://open.spotify.com/album/7GS3lPgAA7LQ5iAR6Z162s) | 5:09 | 2019-09-07 |  |
+| [Gate Crash](https://open.spotify.com/track/2DJpule67eaYaBBMlRhkxP) | [Mafikizolo](https://open.spotify.com/artist/04Hrgux8cIaNJKUAX7WwJN) | [Gate Crashers](https://open.spotify.com/album/1XCOtw4cTIZuA4X1ZAwPhS) | 6:33 | 2024-10-05 |  |
 | [Gente Aberta](https://open.spotify.com/track/0MT6ecgiLweuA4nd9NTGll) | [Erasmo Carlos](https://open.spotify.com/artist/6cHQUDAPGKRE2NbVjBlOcz) | [Carlos, Erasmo \[Versão Com Bônus \(1971\)\]](https://open.spotify.com/album/2qimhNvbQmkAxG9GS8wj5M) | 2:20 | 2021-09-19 |  |
 | [Gentes e Coisas da Bahía \- Remasterizado](https://open.spotify.com/track/7FUMWDwiJGs2Qo1HLE1bQa) | [Jayme Marques](https://open.spotify.com/artist/35jsvUlsZ3Oc0YJZcCB6pB) | [Stop \(Remasterizado\)](https://open.spotify.com/album/6bnzQkwt2p8F2HcLBRuehQ) | 3:12 | 2024-04-11 |  |
 | [Gnosienne No.1](https://open.spotify.com/track/5QNaj0xZ9ZbcIj83I4vp9w) | [Chicha Libre](https://open.spotify.com/artist/1eiodDx0lIftKNviQGG95x) | [Sonido Amazonico](https://open.spotify.com/album/0p5Iiuaj58qCxzMYqgP7B1) | 4:33 | 2023-08-22 |  |

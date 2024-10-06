@@ -1,6 +1,6 @@
 {
   "description": "The latest straight bars and Afro-Trap. Cover: Phyno",
-  "num_followers": 158888,
+  "num_followers": 158925,
   "original_name": "Afro Bars ",
   "owner": {
     "name": "Spotify",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2024-10-04 05:05:41",
       "album": {
+        "name": "Gwara Gwara",
+        "url": "https://open.spotify.com/album/1tTCpNbAR3vpq3PUFQw1Zm"
+      },
+      "artists": [
+        {
+          "name": "Moonchild Sanelly",
+          "url": "https://open.spotify.com/artist/6aDX1jzNVAI9enlQzW0Pgw"
+        }
+      ],
+      "duration_ms": 198533,
+      "name": "Gwara Gwara",
+      "url": "https://open.spotify.com/track/3ITpuImbmMtavdxCPoYQsX"
+    },
+    {
+      "added_at": "2024-10-04 05:05:41",
+      "album": {
         "name": "No Love In Lagos",
         "url": "https://open.spotify.com/album/3qUxHQMBLeBWsBTkPnhXb3"
       },
@@ -1115,22 +1131,6 @@
       "duration_ms": 189199,
       "name": "No Love In Lagos",
       "url": "https://open.spotify.com/track/3S612TExInLWnYOsQ9Ti9y"
-    },
-    {
-      "added_at": "2024-10-04 05:05:41",
-      "album": {
-        "name": "Gwara Gwara",
-        "url": "https://open.spotify.com/album/1tTCpNbAR3vpq3PUFQw1Zm"
-      },
-      "artists": [
-        {
-          "name": "Moonchild Sanelly",
-          "url": "https://open.spotify.com/artist/6aDX1jzNVAI9enlQzW0Pgw"
-        }
-      ],
-      "duration_ms": 198533,
-      "name": "Gwara Gwara",
-      "url": "https://open.spotify.com/track/3ITpuImbmMtavdxCPoYQsX"
     },
     {
       "added_at": "2024-10-04 05:05:41",

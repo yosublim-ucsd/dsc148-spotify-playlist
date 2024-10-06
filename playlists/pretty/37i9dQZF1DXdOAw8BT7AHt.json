@@ -1,6 +1,6 @@
 {
   "description": "The best in modern punk rock music. Cover: Speed",
-  "num_followers": 467609,
+  "num_followers": 467612,
   "original_name": "Today's Punk",
   "owner": {
     "name": "Spotify",
@@ -233,22 +233,6 @@
       "url": "https://open.spotify.com/track/7peo1MPjb3r1gtmySPe8uj"
     },
     {
-      "added_at": "2024-07-12 11:48:19",
-      "album": {
-        "name": "Blow It",
-        "url": "https://open.spotify.com/album/19O52p5ZCj30KUQ6rwPrpk"
-      },
-      "artists": [
-        {
-          "name": "Jack Kays",
-          "url": "https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54"
-        }
-      ],
-      "duration_ms": 164283,
-      "name": "Blow It",
-      "url": "https://open.spotify.com/track/4uCDa4YimMEPVYux3C41Cl"
-    },
-    {
       "added_at": "2024-07-05 04:00:00",
       "album": {
         "name": "U Should Not Be Doing That / Facts",
@@ -263,6 +247,22 @@
       "duration_ms": 206659,
       "name": "U Should Not Be Doing That",
       "url": "https://open.spotify.com/track/20H3uanVBm4oOZ27yHco3Y"
+    },
+    {
+      "added_at": "2024-07-12 11:48:19",
+      "album": {
+        "name": "Blow It",
+        "url": "https://open.spotify.com/album/19O52p5ZCj30KUQ6rwPrpk"
+      },
+      "artists": [
+        {
+          "name": "Jack Kays",
+          "url": "https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54"
+        }
+      ],
+      "duration_ms": 164283,
+      "name": "Blow It",
+      "url": "https://open.spotify.com/track/4uCDa4YimMEPVYux3C41Cl"
     },
     {
       "added_at": "2024-07-05 04:00:00",
@@ -497,22 +497,6 @@
       "url": "https://open.spotify.com/track/2qD3qR21DrjeU11wIBoipE"
     },
     {
-      "added_at": "2024-07-05 04:00:00",
-      "album": {
-        "name": "All This Time",
-        "url": "https://open.spotify.com/album/5OPXL5SBb2I59vfWNzNQ30"
-      },
-      "artists": [
-        {
-          "name": "The Story So Far",
-          "url": "https://open.spotify.com/artist/6meTcQ79DrfkIuSLPZkpBg"
-        }
-      ],
-      "duration_ms": 168903,
-      "name": "All This Time",
-      "url": "https://open.spotify.com/track/4VeSg59VpH2nVTAh98jRWn"
-    },
-    {
       "added_at": "2024-07-19 10:43:52",
       "album": {
         "name": "Demolition Man",
@@ -527,6 +511,22 @@
       "duration_ms": 165786,
       "name": "Demolition Man",
       "url": "https://open.spotify.com/track/7A2KxqI16tEpJhxZn6Ji1P"
+    },
+    {
+      "added_at": "2024-07-05 04:00:00",
+      "album": {
+        "name": "All This Time",
+        "url": "https://open.spotify.com/album/5OPXL5SBb2I59vfWNzNQ30"
+      },
+      "artists": [
+        {
+          "name": "The Story So Far",
+          "url": "https://open.spotify.com/artist/6meTcQ79DrfkIuSLPZkpBg"
+        }
+      ],
+      "duration_ms": 168903,
+      "name": "All This Time",
+      "url": "https://open.spotify.com/track/4VeSg59VpH2nVTAh98jRWn"
     },
     {
       "added_at": "2024-07-12 11:48:19",
@@ -545,22 +545,6 @@
       "url": "https://open.spotify.com/track/2EKuvzu6No8dBqJDXUS8b2"
     },
     {
-      "added_at": "2024-07-19 10:43:52",
-      "album": {
-        "name": "GET A JOB!",
-        "url": "https://open.spotify.com/album/5Htr73zW5tGvolH7foL7X6"
-      },
-      "artists": [
-        {
-          "name": "Jack Kays",
-          "url": "https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54"
-        }
-      ],
-      "duration_ms": 154564,
-      "name": "GET A JOB!",
-      "url": "https://open.spotify.com/track/33P7T4AeMmNi7aaVRD0IB3"
-    },
-    {
       "added_at": "2024-07-05 04:00:00",
       "album": {
         "name": "Mirror Muscles",
@@ -575,6 +559,22 @@
       "duration_ms": 163257,
       "name": "Mirror Muscles",
       "url": "https://open.spotify.com/track/62i7ZpVSxDbgPe1JKHrPHu"
+    },
+    {
+      "added_at": "2024-07-19 10:43:52",
+      "album": {
+        "name": "GET A JOB!",
+        "url": "https://open.spotify.com/album/5Htr73zW5tGvolH7foL7X6"
+      },
+      "artists": [
+        {
+          "name": "Jack Kays",
+          "url": "https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54"
+        }
+      ],
+      "duration_ms": 154564,
+      "name": "GET A JOB!",
+      "url": "https://open.spotify.com/track/33P7T4AeMmNi7aaVRD0IB3"
     },
     {
       "added_at": "2024-07-05 04:00:00",
@@ -855,6 +855,22 @@
     {
       "added_at": "2024-07-05 04:00:00",
       "album": {
+        "name": "3 DAY HEADACHE",
+        "url": "https://open.spotify.com/album/499mEC3ZLcprlNXqgHMZEK"
+      },
+      "artists": [
+        {
+          "name": "NOAHFINNCE",
+          "url": "https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM"
+        }
+      ],
+      "duration_ms": 114284,
+      "name": "3 DAY HEADACHE",
+      "url": "https://open.spotify.com/track/5u4MPbgZPmajC5vVf1O5xb"
+    },
+    {
+      "added_at": "2024-07-05 04:00:00",
+      "album": {
         "name": "Walk Alone",
         "url": "https://open.spotify.com/album/0Cpkr1J8G7a1ntNd1ZLdyg"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 195608,
       "name": "Walk Alone",
       "url": "https://open.spotify.com/track/6hpIW8zOcktH6AbRuDWwjr"
-    },
-    {
-      "added_at": "2024-07-05 04:00:00",
-      "album": {
-        "name": "3 DAY HEADACHE",
-        "url": "https://open.spotify.com/album/499mEC3ZLcprlNXqgHMZEK"
-      },
-      "artists": [
-        {
-          "name": "NOAHFINNCE",
-          "url": "https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM"
-        }
-      ],
-      "duration_ms": 114284,
-      "name": "3 DAY HEADACHE",
-      "url": "https://open.spotify.com/track/5u4MPbgZPmajC5vVf1O5xb"
     },
     {
       "added_at": "2024-07-19 10:43:52",
@@ -927,22 +927,6 @@
     {
       "added_at": "2024-07-05 04:00:00",
       "album": {
-        "name": "Antidote",
-        "url": "https://open.spotify.com/album/5BtsIlGeClmz7o8B4aq6MK"
-      },
-      "artists": [
-        {
-          "name": "Greywind",
-          "url": "https://open.spotify.com/artist/3QFfYJq7jdx8GnVrePpZm4"
-        }
-      ],
-      "duration_ms": 165393,
-      "name": "Antidote",
-      "url": "https://open.spotify.com/track/207bcqHODbUfxAsyhi1fkR"
-    },
-    {
-      "added_at": "2024-07-05 04:00:00",
-      "album": {
         "name": "wallflower",
         "url": "https://open.spotify.com/album/3n1eCljBLZcM6YOBbNevEt"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 190000,
       "name": "wallflower",
       "url": "https://open.spotify.com/track/1uSCWWZnyo78wKELz8pXlD"
+    },
+    {
+      "added_at": "2024-07-05 04:00:00",
+      "album": {
+        "name": "Antidote",
+        "url": "https://open.spotify.com/album/5BtsIlGeClmz7o8B4aq6MK"
+      },
+      "artists": [
+        {
+          "name": "Greywind",
+          "url": "https://open.spotify.com/artist/3QFfYJq7jdx8GnVrePpZm4"
+        }
+      ],
+      "duration_ms": 165393,
+      "name": "Antidote",
+      "url": "https://open.spotify.com/track/207bcqHODbUfxAsyhi1fkR"
     },
     {
       "added_at": "2024-07-05 04:00:00",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2024-07-05 04:00:00",
       "album": {
-        "name": "aftermath/afterthought",
-        "url": "https://open.spotify.com/album/4ZqVCoQf60h1VE2kM3uz2o"
-      },
-      "artists": [
-        {
-          "name": "Four Year Strong",
-          "url": "https://open.spotify.com/artist/0qqxspZOkbN00bu6DaRIrn"
-        }
-      ],
-      "duration_ms": 146746,
-      "name": "aftermath/afterthought",
-      "url": "https://open.spotify.com/track/7HfE6JGX9PVJXE3zf6aZb3"
-    },
-    {
-      "added_at": "2024-07-05 04:00:00",
-      "album": {
         "name": "Get Down",
         "url": "https://open.spotify.com/album/1q6grMLrlXI4o1fANDnovc"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 219720,
       "name": "Get Down",
       "url": "https://open.spotify.com/track/1PNkX69uB2KUsmJIAh5yiB"
+    },
+    {
+      "added_at": "2024-07-05 04:00:00",
+      "album": {
+        "name": "aftermath/afterthought",
+        "url": "https://open.spotify.com/album/4ZqVCoQf60h1VE2kM3uz2o"
+      },
+      "artists": [
+        {
+          "name": "Four Year Strong",
+          "url": "https://open.spotify.com/artist/0qqxspZOkbN00bu6DaRIrn"
+        }
+      ],
+      "duration_ms": 146746,
+      "name": "aftermath/afterthought",
+      "url": "https://open.spotify.com/track/7HfE6JGX9PVJXE3zf6aZb3"
     },
     {
       "added_at": "2024-07-05 04:00:00",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2024-07-05 04:00:00",
       "album": {
-        "name": "Cold World",
-        "url": "https://open.spotify.com/album/3puZVzk32SvGkXZd7P4FXI"
-      },
-      "artists": [
-        {
-          "name": "Death Lens",
-          "url": "https://open.spotify.com/artist/4WqVsCKvGiqrgF9v27Dsa8"
-        }
-      ],
-      "duration_ms": 105556,
-      "name": "Disturb The Peace",
-      "url": "https://open.spotify.com/track/3XI4kmQJv04KUT1DiUgvjn"
-    },
-    {
-      "added_at": "2024-07-05 04:00:00",
-      "album": {
         "name": "Cheapskate",
         "url": "https://open.spotify.com/album/4J3fxlyKmCqkgK6C9jwJkG"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 191761,
       "name": "Cheapskate",
       "url": "https://open.spotify.com/track/3ydtco4AwW0uPKi3GFpnGQ"
+    },
+    {
+      "added_at": "2024-07-05 04:00:00",
+      "album": {
+        "name": "Cold World",
+        "url": "https://open.spotify.com/album/3puZVzk32SvGkXZd7P4FXI"
+      },
+      "artists": [
+        {
+          "name": "Death Lens",
+          "url": "https://open.spotify.com/artist/4WqVsCKvGiqrgF9v27Dsa8"
+        }
+      ],
+      "duration_ms": 105556,
+      "name": "Disturb The Peace",
+      "url": "https://open.spotify.com/track/3XI4kmQJv04KUT1DiUgvjn"
     },
     {
       "added_at": "2024-07-05 04:00:00",

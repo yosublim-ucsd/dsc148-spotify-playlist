@@ -4,7 +4,7 @@
 
 > Bravías, románticas y rancheras, las mejores canciones norteñas\. Régulo Caro en portada.
 
-572 songs - 1 day 6 hr 26 min
+573 songs - 1 day 6 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -254,6 +254,7 @@
 | [Hablar De Ti](https://open.spotify.com/track/5Tepzmd5UKcLKQL2K1mLnO) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Tiempo Al Tiempo](https://open.spotify.com/album/2QnEyYe3GrDMi8gMTTn62U) | 3:32 | 2023-04-21 | 2023-11-28 |
 | [Haciendo Mil Cosas](https://open.spotify.com/track/5MeC9hQFfXg8ZylieyMMzO) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Haciendo Mil Cosas](https://open.spotify.com/album/7vKfja3R6wFGwFos31XREP) | 4:50 | 2023-02-24 | 2023-03-09 |
 | [Hasta la Raíz](https://open.spotify.com/track/4Bo8GqM6x6D1J3CsIjQJBl) | [Herencia De Grandes](https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz) | [Lo Que La Gente Estaba Esperando](https://open.spotify.com/album/5dvRYXt7xSY8EDSlvnWtAm) | 2:46 | 2023-04-14 |  |
+| [Hay Que Celebrar](https://open.spotify.com/track/59LbnmPTnrEcPM0YA3g5ig) | [Tapy Quintero](https://open.spotify.com/artist/1CTYCiBGcZTsZBzYoa4pxM), [Los Juniors de California](https://open.spotify.com/artist/2LzpZgJG6QEj4DWRo5poNT) | [Hay Que Celebrar](https://open.spotify.com/album/2lQcLnzVtZTNY28Z22Ndtz) | 2:37 | 2024-09-25 |  |
 | [Hey There Delilah](https://open.spotify.com/track/6DcuRMCIu66fLSGiS0MgZ8) | [EZ Band](https://open.spotify.com/artist/2gTWLwanLiNZFR0iNPD847) | [Make it Norteño Vol\. 1](https://open.spotify.com/album/7h2wTuvmqp4qoDfrOh10rs) | 3:52 | 2023-01-27 | 2023-02-25 |
 | [Hierba Mala Nunca Muere \(Música Original de la Serie el Señor de los Cielos 8\)](https://open.spotify.com/track/5v6jSoZb9VVYeJaiUQ8xxF) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Hierba Mala Nunca Muere \(Música Original de la Serie el Señor de los Cielos 8\)](https://open.spotify.com/album/6gLvcZQeELJuG9Xsy30A6u) | 3:18 | 2023-01-20 | 2023-12-16 |
 | [Hombre de Negocios](https://open.spotify.com/track/2bhQa2q4GVecKDjc9ZGqpr) | [La Zenda Norteña](https://open.spotify.com/artist/01brs471Oes6kMnkVJBfGG), [Tapy Quintero](https://open.spotify.com/artist/1CTYCiBGcZTsZBzYoa4pxM) | [Hombre de Negocios](https://open.spotify.com/album/1kFMSFZIRR3zs4PtYg2Db2) | 3:15 | 2023-12-15 | 2024-01-13 |
@@ -376,7 +377,7 @@
 | [Nada De Nada](https://open.spotify.com/track/78PFDzdmPuMpTHLgMpIkKU) | [Los Rojos](https://open.spotify.com/artist/4N76v8ETS7Q5sod9W0dgIo), [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Nada De Nada](https://open.spotify.com/album/49gCKCeoM3fmWI4jNv71PK) | 3:01 | 2023-05-26 | 2023-12-02 |
 | [Nadie](https://open.spotify.com/track/7jwqJhuyPK50TcltlkI7NF) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Corridos De Alto Calibre \(Vol\. II\)](https://open.spotify.com/album/7wqVdv2T7Z7b1vDyRSjcIk) | 2:48 | 2022-09-30 | 2023-01-10 |
 | [Nadie Es Como Tú](https://open.spotify.com/track/6VnZwLCdTyVfkaw2f54IVG) | [La Zenda Norteña](https://open.spotify.com/artist/01brs471Oes6kMnkVJBfGG) | [Nadie Es Como Tú](https://open.spotify.com/album/0U4cdPpYoMg6x1Ft8FrPu4) | 2:49 | 2024-02-09 | 2024-03-09 |
-| [Nadie Va A Pensar En Ti Mejor Que Yo](https://open.spotify.com/track/30eHHpkjMNqb2F0V8nXjbJ) | [Conjunto Rienda Real](https://open.spotify.com/artist/5N3AyFVEE8vJa7AZEl7nD3) | [Nadie Va A Pensar En Ti Mejor Que Yo](https://open.spotify.com/album/1NsJ6u8jcjsyZi9igmkbqw) | 2:52 | 2021-12-17 |  |
+| [Nadie Va A Pensar En Ti Mejor Que Yo](https://open.spotify.com/track/30eHHpkjMNqb2F0V8nXjbJ) | [Conjunto Rienda Real](https://open.spotify.com/artist/5N3AyFVEE8vJa7AZEl7nD3) | [Nadie Va A Pensar En Ti Mejor Que Yo](https://open.spotify.com/album/1NsJ6u8jcjsyZi9igmkbqw) | 2:52 | 2021-12-17 | 2024-10-06 |
 | [NEPTUNO](https://open.spotify.com/track/6oo5gvZqYmTxivDGELT8s6) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [NEPTUNO](https://open.spotify.com/album/6vQLZiZwK4XctII0RdWhqg) | 2:41 | 2024-03-22 |  |
 | [Neta Que No](https://open.spotify.com/track/19cazderNza33zgCCpxLxH) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Neta Que No](https://open.spotify.com/album/376fuA7QIoerG2gtjViYaC) | 2:44 | 2023-08-11 |  |
 | [Ni Como Ni cuando \(En Vivo\)](https://open.spotify.com/track/2Gs4NvmZXYfVPxizpZ892I) | [Doble Vision](https://open.spotify.com/artist/5YQwShxECKFKPcmHRx9LDa) | [Ni Como Ni Cuando \(En Vivo\)](https://open.spotify.com/album/00LPgUJSYt1X5UQRK6YIu3) | 2:08 | 2023-01-27 | 2023-02-25 |

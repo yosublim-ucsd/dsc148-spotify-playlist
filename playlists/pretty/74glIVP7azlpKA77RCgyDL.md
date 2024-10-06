@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/74glIVP7azlpKA77RCgyDL.md) - [plain]
 
 > Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure\. Cover artist: Sol Invicto.
 
-[revolvermagazine](https://open.spotify.com/user/revolvermagazine) - 8,720 likes - 231 songs - 13 hr 45 min
+[revolvermagazine](https://open.spotify.com/user/revolvermagazine) - 8,722 likes - 231 songs - 13 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,7 +109,7 @@ pretty - [cumulative](/playlists/cumulative/74glIVP7azlpKA77RCgyDL.md) - [plain]
 | 99 | [Imposing Will](https://open.spotify.com/track/1DctDqwwzM62QrJgktLtHK) | [Nails](https://open.spotify.com/artist/69a2GzMCkrrTrN9iVmP8Ys) | [Imposing Will](https://open.spotify.com/album/2z0nYg2homkOgcdpCteFCt) | 1:22 |
 | 100 | [World War 3](https://open.spotify.com/track/2GrvKvbQ9K8xhyWyDJfoov) | [Juice B.C.](https://open.spotify.com/artist/20VnPDnScnvQpzLe7JUeOs) | [World War 3](https://open.spotify.com/album/2pydovq47fk1mmo4scjQAa) | 2:56 |
 | 101 | [ENDLESS](https://open.spotify.com/track/4Hl1JJxdzEjhvXi3L3SFE8) | [NXCRE](https://open.spotify.com/artist/4pEYvg65h3If6TKxwgzkQw), [The Villains](https://open.spotify.com/artist/3u5FARONWz8eCYD5hPsd5k) | [ENDLESS](https://open.spotify.com/album/7aByOZkdJqsGvIplvnNrq1) | 4:23 |
-| 102 | [New Way Out](https://open.spotify.com/track/7rQeehJRFCNTwqDffP8c5t) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [New Way Out](https://open.spotify.com/album/5O5jhPYHp94APEJRWR9XSD) | 3:22 |
+| 102 | [new way out](https://open.spotify.com/track/7rQeehJRFCNTwqDffP8c5t) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [new way out](https://open.spotify.com/album/5O5jhPYHp94APEJRWR9XSD) | 3:22 |
 | 103 | [Hide & Seek](https://open.spotify.com/track/7tJwNCxACiqdewg8dODKAL) | [The Jesus Lizard](https://open.spotify.com/artist/6r26MaDr8bqNALjXgYPXMa) | [Hide & Seek](https://open.spotify.com/album/2OUAkno2xG9rjGhHlt0pqM) | 3:04 |
 | 104 | [Wounds Never Healed](https://open.spotify.com/track/05xztNser5Tg4Ba2kkngy2) | [Oceano](https://open.spotify.com/artist/79A0IUxQD9skV7LVjPq53s) | [Wounds Never Healed](https://open.spotify.com/album/7jlhQ4iWfpSwF4zho7eTo4) | 4:22 |
 | 105 | [We Know the Score](https://open.spotify.com/track/4QvqNvGxSXTywCFV03ALU4) | [Stand Still](https://open.spotify.com/artist/7Ep4mjRwM3fETDvQE9gZPb), [Pain of Truth](https://open.spotify.com/artist/6tnuL2AIiA5wCpO5Pm8Xql) | [We Know the Score](https://open.spotify.com/album/3JCjnhwMA1BcnJtygujjIF) | 2:27 |

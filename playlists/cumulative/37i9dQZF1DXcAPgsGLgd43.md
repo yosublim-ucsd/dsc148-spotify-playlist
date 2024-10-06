@@ -4,7 +4,7 @@
 
 > The pulse of Latin House 💃🏻💃🏻
 
-318 songs - 16 hr 59 min
+319 songs - 17 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,10 +89,11 @@
 | [Cuando Fue \(feat\. Jay Wheeler\)](https://open.spotify.com/track/4ZO5ZKx2VaTILp5oZGOY61) | [Malóne](https://open.spotify.com/artist/7fQMET8UaHL3gpH9LhqINM), [Sounds Of Rituals](https://open.spotify.com/artist/1s7o0js6ITLMl4EN2m9YvK), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Cuando Fue \(feat\. Jay Wheeler\)](https://open.spotify.com/album/57iSYR56c4nm0b0IOOMFU6) | 3:03 | 2024-07-26 |  |
 | [Cuarto Oscuro \(feat\. Pacho Carnaval\)](https://open.spotify.com/track/2KHh21KhHHNk9odrdFwXdB) | [Presi On](https://open.spotify.com/artist/4d6KcA6bohrqQTprSUWhEp), [Renate](https://open.spotify.com/artist/1GyJvwv01yQ6KfdV2yet6F), [Augusto Yepes](https://open.spotify.com/artist/4Fii6zdHW1hbQw0LS4qeTs), [Pacho Carnaval](https://open.spotify.com/artist/782eGsJcQXQ4uPl3x0gRs2) | [Cuarto Oscuro / BAQ Spicy](https://open.spotify.com/album/4aYbDplG4136xb7Umtfq6r) | 3:56 | 2024-02-09 | 2024-07-27 |
 | [Cuban Riddim](https://open.spotify.com/track/6alU7gZpSPKGy1VD2gCnPb) | [Simon Fava](https://open.spotify.com/artist/3tVEEXCoTAVMHyZqQ5kTyc), [Yvvan Back](https://open.spotify.com/artist/68fI3XKiTlRMJBYuxKJFU3) | [Cuban Riddim](https://open.spotify.com/album/5Ey7YhSN7in831mPWfA1C1) | 2:47 | 2021-10-08 | 2023-11-11 |
+| [Culo](https://open.spotify.com/track/6HD1Fez3zHqBLVAG92i06U) | [Mariline](https://open.spotify.com/artist/3NLFKv17mDCARVJdf3a2s4), [Big O](https://open.spotify.com/artist/4uBuaf1JOKbUdSXGw5eusl), [Jonfy](https://open.spotify.com/artist/028DpH7rTwRlVFTXPDY3LJ) | [Culo](https://open.spotify.com/album/5JVaZThemCsRFGs94NnMID) | 2:14 | 2024-10-04 |  |
 | [Cumbia Tropical](https://open.spotify.com/track/1H8sxtzrwWhFGiGamurqnW) | [Ilary Montanari](https://open.spotify.com/artist/5hSt4Q5c4lReEZr6Uaz8BA) | [Cumbia Tropical](https://open.spotify.com/album/1AB9MImjBERGHTLNwhUnUn) | 6:21 | 2021-11-05 | 2023-10-02 |
 | [DALE](https://open.spotify.com/track/6DbEX6iIjLuEV9j4zvDdp0) | [Draxx \(ITA\)](https://open.spotify.com/artist/57QKWHmmY0jb44T2w7ln73), [ESSED](https://open.spotify.com/artist/2OIFoELOhUQ0FJF4H2Qrlo) | [DALE](https://open.spotify.com/album/4iikrDQdEDTJtWKGMmlZZA) | 2:33 | 2024-03-01 | 2024-06-01 |
 | [Dale](https://open.spotify.com/track/7KDkVer6KDHahrjFABNGww) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Peppe Citarella](https://open.spotify.com/artist/5DWjZ2hLuK8Mfdoua8lkJB), [Billy the Diamond](https://open.spotify.com/artist/7sjiAjXjA4ncQE7cJTcMb5) | [Dale](https://open.spotify.com/album/2U5JuUDjUjAkP7gcd5QY4N) | 2:47 | 2023-12-08 |  |
-| [Dale Bien Duro](https://open.spotify.com/track/3A0SJSbFpecaK6uJtcaBlQ) | [Juan Dileju](https://open.spotify.com/artist/00es8O5qsOBGlhNSvPJtS0), [Dazed](https://open.spotify.com/artist/2KkAz09DAbDp3yHn1cjDCi) | [Dale Bien Duro](https://open.spotify.com/album/7sF73l2hJQgbnRJmdy3xDE) | 2:46 | 2024-08-30 |  |
+| [Dale Bien Duro](https://open.spotify.com/track/3A0SJSbFpecaK6uJtcaBlQ) | [Juan Dileju](https://open.spotify.com/artist/00es8O5qsOBGlhNSvPJtS0), [Dazed](https://open.spotify.com/artist/2KkAz09DAbDp3yHn1cjDCi) | [Dale Bien Duro](https://open.spotify.com/album/7sF73l2hJQgbnRJmdy3xDE) | 2:46 | 2024-08-30 | 2024-10-06 |
 | [Dame](https://open.spotify.com/track/1UAcCJPaCXLYOoHrbb5xPV) | [El Mukuka](https://open.spotify.com/artist/3z0l518027gIZvLtoXQCkd), [HVMZA](https://open.spotify.com/artist/7lrf9DRS7RmffYzVN7PYfK), [Marocco](https://open.spotify.com/artist/5B9vLiWjfK3LnZRBqCSizt) | [Dame](https://open.spotify.com/album/1NcxQQUO6a3rhVLTtNBFr7) | 3:34 | 2021-10-08 | 2023-11-11 |
 | [Dame De Eso](https://open.spotify.com/track/5JOnEA0t4lW9ZAR3NB6AhP) | [Wade](https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR) | [Dame De Eso](https://open.spotify.com/album/4WvuIoyZFw4jLWCUNcQXEy) | 3:34 | 2024-06-28 |  |
 | [Dame Mas](https://open.spotify.com/track/5lCS7wZgRyCvJia3VSAvpu) | [BADDIES ONLY](https://open.spotify.com/artist/1aRWWqUGxjgTSGQYHGZbot), [CAVALLI](https://open.spotify.com/artist/3uNSAoHkmTzDxc369XtOv4), [Mathieu Ruz](https://open.spotify.com/artist/3ZGI3NmbFQIhEDMiYekU08) | [Dame Mas](https://open.spotify.com/album/1F5d2cfWJjOYIiDnxtmm2B) | 3:05 | 2024-04-12 |  |

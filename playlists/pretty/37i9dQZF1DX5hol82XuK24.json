@@ -1,6 +1,6 @@
 {
   "description": "Are you afraid of the dark?",
-  "num_followers": 444356,
+  "num_followers": 444513,
   "original_name": "Spooky",
   "owner": {
     "name": "Spotify",
@@ -239,22 +239,6 @@
     {
       "added_at": "2024-09-13 13:43:33",
       "album": {
-        "name": "Romance",
-        "url": "https://open.spotify.com/album/287QQ922OsJYh8aFNGdJG5"
-      },
-      "artists": [
-        {
-          "name": "Fontaines D.C.",
-          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
-        }
-      ],
-      "duration_ms": 187690,
-      "name": "Horseness Is The Whatness",
-      "url": "https://open.spotify.com/track/0kwMhCBpF1vlTTip2oqVs8"
-    },
-    {
-      "added_at": "2024-09-13 13:43:33",
-      "album": {
         "name": "England Made Me",
         "url": "https://open.spotify.com/album/1PVtgkCZPW8AVll0gKsHDS"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 248266,
       "name": "Child Psychology",
       "url": "https://open.spotify.com/track/7Bj4wIqRzM6vx278EFYoBh"
+    },
+    {
+      "added_at": "2024-09-13 13:43:33",
+      "album": {
+        "name": "Romance",
+        "url": "https://open.spotify.com/album/287QQ922OsJYh8aFNGdJG5"
+      },
+      "artists": [
+        {
+          "name": "Fontaines D.C.",
+          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
+        }
+      ],
+      "duration_ms": 187690,
+      "name": "Horseness Is The Whatness",
+      "url": "https://open.spotify.com/track/0kwMhCBpF1vlTTip2oqVs8"
     },
     {
       "added_at": "2024-09-13 13:43:33",
@@ -663,22 +663,6 @@
     {
       "added_at": "2024-09-13 13:43:33",
       "album": {
-        "name": "This Could Be Texas",
-        "url": "https://open.spotify.com/album/4gd3XcQ7dR37m8GimBfiYT"
-      },
-      "artists": [
-        {
-          "name": "English Teacher",
-          "url": "https://open.spotify.com/artist/5H9IFTRxSICj24uxO15ScU"
-        }
-      ],
-      "duration_ms": 281663,
-      "name": "Mastermind Specialism",
-      "url": "https://open.spotify.com/track/3l15uHUQYJJjtKOvOec5Xc"
-    },
-    {
-      "added_at": "2024-09-13 13:43:33",
-      "album": {
         "name": "Space Heavy",
         "url": "https://open.spotify.com/album/36tUlc8fGxaUTv4cLmC9UJ"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 127150,
       "name": "Empty Stomach Space Cadet",
       "url": "https://open.spotify.com/track/3iMc9mplMBY32uAWGRbtWU"
+    },
+    {
+      "added_at": "2024-09-13 13:43:33",
+      "album": {
+        "name": "This Could Be Texas",
+        "url": "https://open.spotify.com/album/4gd3XcQ7dR37m8GimBfiYT"
+      },
+      "artists": [
+        {
+          "name": "English Teacher",
+          "url": "https://open.spotify.com/artist/5H9IFTRxSICj24uxO15ScU"
+        }
+      ],
+      "duration_ms": 281663,
+      "name": "Mastermind Specialism",
+      "url": "https://open.spotify.com/track/3l15uHUQYJJjtKOvOec5Xc"
     },
     {
       "added_at": "2024-09-13 13:43:33",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2024-09-13 13:43:33",
       "album": {
+        "name": "Treat Her Strangely",
+        "url": "https://open.spotify.com/album/160v3MwjFlmnBYCFXbTxzH"
+      },
+      "artists": [
+        {
+          "name": "doubleVee",
+          "url": "https://open.spotify.com/artist/44ctaVe3os7HsW3ad0JbIt"
+        }
+      ],
+      "duration_ms": 205786,
+      "name": "Your Love Is It Real?",
+      "url": "https://open.spotify.com/track/5AGYajXy8psPb1d18TC20G"
+    },
+    {
+      "added_at": "2024-09-13 13:43:33",
+      "album": {
         "name": "Dancing with Ghosts",
         "url": "https://open.spotify.com/album/1yLAAVq1QqUKEhKJKkHjdl"
       },
@@ -1163,22 +1179,6 @@
       "duration_ms": 299400,
       "name": "Dancing with Ghosts",
       "url": "https://open.spotify.com/track/2vXq4DzEwtxMyc5WLOg6EY"
-    },
-    {
-      "added_at": "2024-09-13 13:43:33",
-      "album": {
-        "name": "Treat Her Strangely",
-        "url": "https://open.spotify.com/album/160v3MwjFlmnBYCFXbTxzH"
-      },
-      "artists": [
-        {
-          "name": "doubleVee",
-          "url": "https://open.spotify.com/artist/44ctaVe3os7HsW3ad0JbIt"
-        }
-      ],
-      "duration_ms": 205786,
-      "name": "Your Love Is It Real?",
-      "url": "https://open.spotify.com/track/5AGYajXy8psPb1d18TC20G"
     },
     {
       "added_at": "2024-09-13 13:43:33",
@@ -1247,18 +1247,18 @@
     {
       "added_at": "2024-09-13 13:43:33",
       "album": {
-        "name": "Tears In The Typing Pool [Demo]",
-        "url": "https://open.spotify.com/album/68w71VR1Kdxxe7ZKFsFz34"
+        "name": "melanchole",
+        "url": "https://open.spotify.com/album/23KJrzHF1IBfjzpRgTtaJx"
       },
       "artists": [
         {
-          "name": "Broadcast",
-          "url": "https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU"
+          "name": "salvia palth",
+          "url": "https://open.spotify.com/artist/0pg0Zm8FsGAYy5kdHuBnSo"
         }
       ],
-      "duration_ms": 127832,
-      "name": "Tears In The Typing Pool [Demo]",
-      "url": "https://open.spotify.com/track/4cFJWQsjExGHzy72SU7LBI"
+      "duration_ms": 161462,
+      "name": "i was all over her",
+      "url": "https://open.spotify.com/track/7svpAkwc6xaSxlbZ7V7JiS"
     },
     {
       "added_at": "2024-09-13 13:43:33",
@@ -1279,18 +1279,18 @@
     {
       "added_at": "2024-09-13 13:43:33",
       "album": {
-        "name": "melanchole",
-        "url": "https://open.spotify.com/album/23KJrzHF1IBfjzpRgTtaJx"
+        "name": "Tears In The Typing Pool [Demo]",
+        "url": "https://open.spotify.com/album/68w71VR1Kdxxe7ZKFsFz34"
       },
       "artists": [
         {
-          "name": "salvia palth",
-          "url": "https://open.spotify.com/artist/0pg0Zm8FsGAYy5kdHuBnSo"
+          "name": "Broadcast",
+          "url": "https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU"
         }
       ],
-      "duration_ms": 161462,
-      "name": "i was all over her",
-      "url": "https://open.spotify.com/track/7svpAkwc6xaSxlbZ7V7JiS"
+      "duration_ms": 127832,
+      "name": "Tears In The Typing Pool [Demo]",
+      "url": "https://open.spotify.com/track/4cFJWQsjExGHzy72SU7LBI"
     },
     {
       "added_at": "2024-09-13 13:43:33",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2024-09-13 13:43:33",
       "album": {
-        "name": "May I Comply",
-        "url": "https://open.spotify.com/album/3tptDsJCV21MvbEdTJl18c"
-      },
-      "artists": [
-        {
-          "name": "Heartworms",
-          "url": "https://open.spotify.com/artist/1slmc4uUMOsz7J3pQqeWPP"
-        }
-      ],
-      "duration_ms": 240551,
-      "name": "May I Comply",
-      "url": "https://open.spotify.com/track/7BCv8kdJnH5NSUL8d4kzh5"
-    },
-    {
-      "added_at": "2024-09-13 13:43:33",
-      "album": {
         "name": "You are the Problem Here",
         "url": "https://open.spotify.com/album/0gtFtyQ2fVOutl4TWJspTV"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 218373,
       "name": "You are the Problem Here",
       "url": "https://open.spotify.com/track/1wSGgkDKaX5OXM7NPqJv4U"
+    },
+    {
+      "added_at": "2024-09-13 13:43:33",
+      "album": {
+        "name": "May I Comply",
+        "url": "https://open.spotify.com/album/3tptDsJCV21MvbEdTJl18c"
+      },
+      "artists": [
+        {
+          "name": "Heartworms",
+          "url": "https://open.spotify.com/artist/1slmc4uUMOsz7J3pQqeWPP"
+        }
+      ],
+      "duration_ms": 240551,
+      "name": "May I Comply",
+      "url": "https://open.spotify.com/track/7BCv8kdJnH5NSUL8d4kzh5"
     },
     {
       "added_at": "2024-09-13 13:43:33",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2024-09-13 13:43:33",
       "album": {
-        "name": "Within a Dream",
-        "url": "https://open.spotify.com/album/4cK5huBF9awOCUrbx3hqNL"
-      },
-      "artists": [
-        {
-          "name": "White Flowers",
-          "url": "https://open.spotify.com/artist/3Rge2zrmllt5FBUahfoX8J"
-        }
-      ],
-      "duration_ms": 233556,
-      "name": "Blue May",
-      "url": "https://open.spotify.com/track/6vlN4TQsjWS6mQKvJX2ERP"
-    },
-    {
-      "added_at": "2024-09-13 13:43:33",
-      "album": {
         "name": "Wicked Animal",
         "url": "https://open.spotify.com/album/3gTAR3ksapRN0d01BRYr9i"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 284745,
       "name": "Wicked Animal",
       "url": "https://open.spotify.com/track/3OU685WYjjsCh8PJ39KU73"
+    },
+    {
+      "added_at": "2024-09-13 13:43:33",
+      "album": {
+        "name": "Within a Dream",
+        "url": "https://open.spotify.com/album/4cK5huBF9awOCUrbx3hqNL"
+      },
+      "artists": [
+        {
+          "name": "White Flowers",
+          "url": "https://open.spotify.com/artist/3Rge2zrmllt5FBUahfoX8J"
+        }
+      ],
+      "duration_ms": 233556,
+      "name": "Blue May",
+      "url": "https://open.spotify.com/track/6vlN4TQsjWS6mQKvJX2ERP"
     },
     {
       "added_at": "2024-09-13 13:43:33",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2024-09-13 13:43:33",
       "album": {
-        "name": "Toner",
-        "url": "https://open.spotify.com/album/1Ut15hcUKgPHMWtUDrbBGq"
-      },
-      "artists": [
-        {
-          "name": "PVA",
-          "url": "https://open.spotify.com/artist/2d2ElnqC2cMPp7zcSyv3yG"
-        }
-      ],
-      "duration_ms": 340813,
-      "name": "Exhaust / Surroundings",
-      "url": "https://open.spotify.com/track/1ZxkEYMc2koZHb62qmUBzW"
-    },
-    {
-      "added_at": "2024-09-13 13:43:33",
-      "album": {
         "name": "Spinning Wheel",
         "url": "https://open.spotify.com/album/6vef9mkcfhLjq8tUnujtrA"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 205703,
       "name": "Spinning Wheel",
       "url": "https://open.spotify.com/track/35AFp3kz5PoMNU0TQGFwEz"
+    },
+    {
+      "added_at": "2024-09-13 13:43:33",
+      "album": {
+        "name": "Toner",
+        "url": "https://open.spotify.com/album/1Ut15hcUKgPHMWtUDrbBGq"
+      },
+      "artists": [
+        {
+          "name": "PVA",
+          "url": "https://open.spotify.com/artist/2d2ElnqC2cMPp7zcSyv3yG"
+        }
+      ],
+      "duration_ms": 340813,
+      "name": "Exhaust / Surroundings",
+      "url": "https://open.spotify.com/track/1ZxkEYMc2koZHb62qmUBzW"
     },
     {
       "added_at": "2024-09-13 13:43:33",

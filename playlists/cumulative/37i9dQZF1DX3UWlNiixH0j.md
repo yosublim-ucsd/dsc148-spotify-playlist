@@ -4,7 +4,7 @@
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: Bialystocks
 
-1,911 songs - 4 day 22 hr 49 min
+1,912 songs - 4 day 22 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1438,6 +1438,7 @@
 | [タオルケットは穏やかな](https://open.spotify.com/track/51DmDYJpw2V9ORZUIyL2vD) | [Kaneko Ayano](https://open.spotify.com/artist/4XKIIegkRbSJft0PmMv9NB) | [タオルケットは穏やかな](https://open.spotify.com/album/2byWdUAtCOUaxDe73nGfhU) | 4:11 | 2023-01-24 | 2023-03-29 |
 | [ダンス・デカダンス](https://open.spotify.com/track/3MuPlYnGnFXvQEeBvMy365) | [Chevon](https://open.spotify.com/artist/5eOzdoFyAe6ugv5bhf1wQr) | [ダンス・デカダンス](https://open.spotify.com/album/3h5YMuHYruQ5w2t1KYhE37) | 3:14 | 2024-01-30 | 2024-09-18 |
 | [チャイコフスキーでよろしく](https://open.spotify.com/track/7iWedHFDFQHeyZUQDcT7tc) | [ZAZEN BOYS](https://open.spotify.com/artist/6oAUOiOlMM5wvNfu2xikvM) | [らんど](https://open.spotify.com/album/1BjIp3n5i8q6VjJT8LbC7v) | 4:26 | 2024-01-23 | 2024-04-10 |
+| [チャーミー](https://open.spotify.com/track/2uYVZuH5I0V7ttt6K1joAY) | [Sundae May Club](https://open.spotify.com/artist/75EyBBrypGbb1fNT8dagLM) | [チャーミー](https://open.spotify.com/album/4be8Zrc2bh0nwNx8ylHlp5) | 3:57 | 2024-10-01 |  |
 | [チョコレート](https://open.spotify.com/track/1FhcDHsPF10O1Padlv0nMl) | [mitsume](https://open.spotify.com/artist/59tUUyuaTFMty5kJE9Ojrq) | [チョコレート](https://open.spotify.com/album/62Dw3XXgYGO6s8HEbCnUar) | 3:45 | 2023-03-14 | 2023-05-11 |
 | [チルチルクラブ](https://open.spotify.com/track/3sHny0lv31L1D0EhogKEpt) | [グソクムズ](https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk) | [チルチルクラブ](https://open.spotify.com/album/62Z9g2fCTSC64htta3ZFB7) | 3:49 | 2023-06-20 | 2023-09-20 |
 | [デッドエンド](https://open.spotify.com/track/7yhdsc2KmPgEgo1PY3NP3Z) | [Enfants](https://open.spotify.com/artist/03ZFwTgzAUndCMkWtb2PCn) | [E.](https://open.spotify.com/album/6uzOFkqEtJRx9QY5p0gSVR) | 2:53 | 2024-01-23 | 2024-05-01 |
@@ -1598,7 +1599,7 @@
 | [君の番号](https://open.spotify.com/track/6hmzZaa6oeyC2ioXjusveZ) | [エンヤコーラーズ](https://open.spotify.com/artist/2VmYWki0mkdmHAgbacjdZE) | [君の番号](https://open.spotify.com/album/70aM48fVaokzKGhQhP4MVf) | 5:10 | 2024-01-16 | 2024-01-24 |
 | [君の隣](https://open.spotify.com/track/71DbWOpzCisKYVvOJiQNrm) | [グソクムズ](https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk) | [君の隣](https://open.spotify.com/album/3XaeNTwBhtr0IeMzcP8lPk) | 5:16 | 2024-02-20 | 2024-03-20 |
 | [君はきっとずっと知らない](https://open.spotify.com/track/6e2hujM6wRXaFbiP4ymEBZ) | [スカート](https://open.spotify.com/artist/1rOnNKoQhifOY4rIH4wMtk) | [君はきっとずっと知らない](https://open.spotify.com/album/0D4JE4zZolmrUF19ALtgFo) | 3:40 | 2024-04-23 | 2024-05-22 |
-| [君よりも君らしい](https://open.spotify.com/track/0DwBDvqgXKhtFs7XpS9eEZ) | [OGRE YOU ASSHOLE](https://open.spotify.com/artist/0X9vdekJ6sIKcUvwIgVsjW) | [君よりも君らしい](https://open.spotify.com/album/6Odhs3MSJpuMuRGPzEs4QQ) | 3:53 | 2024-09-10 |  |
+| [君よりも君らしい](https://open.spotify.com/track/0DwBDvqgXKhtFs7XpS9eEZ) | [OGRE YOU ASSHOLE](https://open.spotify.com/artist/0X9vdekJ6sIKcUvwIgVsjW) | [君よりも君らしい](https://open.spotify.com/album/6Odhs3MSJpuMuRGPzEs4QQ) | 3:53 | 2024-09-10 | 2024-10-06 |
 | [吹くからに](https://open.spotify.com/track/42XfwSC7utfzObv92fhOml) | [まんぷく](https://open.spotify.com/artist/20Wm3Gk1SOfk0QQRRGECNV) | [吹くからに](https://open.spotify.com/album/6GyrLNjbrPp1OQ33GYiAas) | 4:34 | 2023-11-21 | 2023-11-23 |
 | [味](https://open.spotify.com/track/2I9C72UutqvI5ItLCDXTU6) | [SAMOEDO](https://open.spotify.com/artist/7g6Mug4G6xLqi1odQOWdMp) | [味](https://open.spotify.com/album/06Rb7kOZq0BexBsInUnfrX) | 3:37 | 2023-08-08 | 2023-08-16 |
 | [命の容量](https://open.spotify.com/track/0Pd5HvGFrJUPOQRt2988JZ) | [yourness](https://open.spotify.com/artist/1u1NJZJgYCF6BVsjSYf2BM) | [Ⅶ](https://open.spotify.com/album/6Q716A6pSJDGlIn9MGgKXV) | 4:05 | 2024-02-20 | 2024-03-08 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8VlzsR6EEFY.md) - [plain]
 
 > Lo más fresco de la <a href="spotify:genre:0JQ5DAqbMKFDTEtSaS4R92"> Música Mexicana</a>, las que van pegar\. Bronco en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,978 likes - 75 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,025 likes - 75 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8VlzsR6EEFY.md) - [plain]
 | 66 | [Noqueado](https://open.spotify.com/track/2PfxXfnoKEnlKEuRC6tZWQ) | [Kevin Aguilar](https://open.spotify.com/artist/1z9SxBHvg62Cq1nMCDPL6y) | [NACÍ PARA CANTAR](https://open.spotify.com/album/07Pw5W4cOW1VEzkyfsEzyR) | 2:39 |
 | 67 | [DOCTOR](https://open.spotify.com/track/5DSMm0BZXlSvqArsTX00Ge) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [DOCTOR](https://open.spotify.com/album/3Z9VnhuHM0BmsNUVPWMd7y) | 2:24 |
 | 68 | [No Me Digas Amor](https://open.spotify.com/track/4N6ptPHdpOhd2ZrCRbUXxt) | [El Mimoso Luis Antonio López](https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g), [Meño Segovia](https://open.spotify.com/artist/10yoMUJRhiYQXeSBqyckcK) | [Obra Maestra](https://open.spotify.com/album/6H5D1HZktbeGJN8iDGNORq) | 3:25 |
-| 69 | [Deluxe](https://open.spotify.com/track/25gBI72Y98PLAjMYHEZzsE) | [Octavio Cuadras](https://open.spotify.com/artist/2DleHTnLZ18SJy0LCcoIGp), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [CORRIDOS FELICES \- DELUXE](https://open.spotify.com/album/6aUFW1CXXtZfeZJ6hTZhPo) | 2:10 |
+| 69 | [Deluxe](https://open.spotify.com/track/25gBI72Y98PLAjMYHEZzsE) | [Octavio Cuadras](https://open.spotify.com/artist/2DleHTnLZ18SJy0LCcoIGp), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [CORRIDOS FELICES \(DELUXE\)](https://open.spotify.com/album/6aUFW1CXXtZfeZJ6hTZhPo) | 2:10 |
 | 70 | [Generación Tumbada](https://open.spotify.com/track/4UTahnQbQsLzCrQ7KHRTuc) | [Wuicho kun](https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E), [Ulises Flores](https://open.spotify.com/artist/194zxYYGqenaKZJyQ3CsLY), [Alejandro’s](https://open.spotify.com/artist/5Xdh9PyfYDL6dzpVvZuPXa) | [Generación Tumbada](https://open.spotify.com/album/2rdWfqqq1lVoDmuhuMHMhF) | 3:54 |
 | 71 | [Las Solicitudes](https://open.spotify.com/track/51kLagUGoJepiE2VjK8xoR) | [Don Zares](https://open.spotify.com/artist/1qDZG8dXTf2EBxHUACVPdf) | [Las Solicitudes](https://open.spotify.com/album/2wLx6AguseKODAAwsetCHR) | 3:42 |
 | 72 | [GT3](https://open.spotify.com/track/0txqKUMibb0dxsjeA7XpEp) | [El Colorado](https://open.spotify.com/artist/6eqWqn0QAGLuktQBzgU20F) | [GT3](https://open.spotify.com/album/6NQ6OnEavgeMBkFZlVwAkP) | 3:03 |

@@ -2,7 +2,7 @@
 
 ### [Winter 2024](https://open.spotify.com/playlist/37i9dQZF1DXcx1szy2g67M)
 
-> Het najaar van 2024 beleef je hier!
+> Het najaar van 2024 beleef je hier! 🍁
 
 512 songs - 1 day 1 hr 51 min
 

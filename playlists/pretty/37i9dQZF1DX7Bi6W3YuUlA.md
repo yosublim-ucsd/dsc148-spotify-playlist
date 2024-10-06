@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Bi6W3YuUlA.md) - [plain]
 
 > Inspirational hip hop\. Cover:  <a href="spotify:artist:1CFCsEqKrCyvAFKOATQHiW">Lecrae</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,289 likes - 85 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,320 likes - 85 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Bi6W3YuUlA.md) - [plain]
 | 11 | [leave it to God](https://open.spotify.com/track/0fPdM4EC9Fyh7Wk6SWVTht) | [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4) | [the people we became](https://open.spotify.com/album/1NuQiiqZzBM60N8KMiFUhE) | 2:11 |
 | 12 | [NOBODY KNOWS](https://open.spotify.com/track/33Vhm96V7UkegsXlfhMgXq) | [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI), [Anthony Hamilton](https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo) | [Michael & The Mighty Midnight Revival, Songs For Sinners And Saints](https://open.spotify.com/album/4uusjgOWMeitjvIrSA1HXO) | 3:05 |
 | 13 | [PRAISE!](https://open.spotify.com/track/1jZendUOQVhjPxMBPoh86b) | [WHATUPRG](https://open.spotify.com/artist/6YgYm3f9ifsz4OwQt8jql7), [Foggieraw](https://open.spotify.com/artist/1dbTwUlL11ZYdC1YAR07AM), [Ty Brasel](https://open.spotify.com/artist/419NjKezGEJOVPtiymCp2p), [Parris Chariz](https://open.spotify.com/artist/2Vt6gyhUH7Vj2cybfQWOqM), [Not Klyde](https://open.spotify.com/artist/052Mwr5vCyfzG81pUr19Kw), [1K Phew](https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl), [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4), [Aha Gazelle](https://open.spotify.com/artist/7suLW93RkuQKWb4WTI5F14), [350](https://open.spotify.com/artist/7tLS8BRv5KP3jPwm3KdsPl), [Kaleb Mitchell](https://open.spotify.com/artist/5HfuDsFVNaxn4NAW00HqbH) | [PRAISE!](https://open.spotify.com/album/5duxSW1GJxNxMmap4GRJlL) | 6:22 |
-| 14 | [Rachel Nichols](https://open.spotify.com/track/40ut9Aovbpod1bqc3WS5uM) | [Parris Chariz](https://open.spotify.com/artist/2Vt6gyhUH7Vj2cybfQWOqM), [PLM](https://open.spotify.com/artist/5DzQqgrd5W9aaQVY0e1Sqq) | [Rachel Nichols](https://open.spotify.com/album/6aCe8ecx2ADcOTqj5qL6Am) | 2:06 |
+| 14 | [Rachel Nichols](https://open.spotify.com/track/40ut9Aovbpod1bqc3WS5uM) | [Parris Chariz](https://open.spotify.com/artist/2Vt6gyhUH7Vj2cybfQWOqM), [PLM](https://open.spotify.com/artist/7kaiGuiUczs4GKLGaFXxRU) | [Rachel Nichols](https://open.spotify.com/album/6aCe8ecx2ADcOTqj5qL6Am) | 2:06 |
 | 15 | [Imagine This](https://open.spotify.com/track/6dN5kHjCSl3J7FgoCPBS01) | [Kijan Boone](https://open.spotify.com/artist/3dAXZ2iCLGeHz5IMhAi12V) | [Just 4 Fun](https://open.spotify.com/album/6elf8ceNjPFJD0lFNvA7ND) | 2:38 |
 | 16 | [Jesus Called My Name](https://open.spotify.com/track/749CMDRkLnWFXTYGT123S4) | [Zauntee](https://open.spotify.com/artist/7jyr9Co4MKL1iWML1G7vch) | [Jesus Called My Name](https://open.spotify.com/album/53KVcS6ZFxmvtXbNxamie3) | 4:20 |
 | 17 | [Saved You Too](https://open.spotify.com/track/0F0DeGGgX48CIeKWRKgdCQ) | [Y Shadey](https://open.spotify.com/artist/2NSMsMCNZzqNA1jlVO9M9t) | [Saved You Too](https://open.spotify.com/album/5HRjNTg2Q3N2OyNR6ISdc9) | 1:58 |

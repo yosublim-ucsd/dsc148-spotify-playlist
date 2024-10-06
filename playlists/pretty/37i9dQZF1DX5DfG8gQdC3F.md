@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Coldplay, Caribou, Jonah Yano, FINNEAS and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 533,665 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 533,685 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 15 | [Ever New \- Single Version](https://open.spotify.com/track/3TXjItvy5G7Td2OrhslAAY) | [Beverly Glenn\-Copeland](https://open.spotify.com/artist/2bN5hXtWZXEIfnHO34eXfe), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Red Hot Org](https://open.spotify.com/artist/7ydpneBAwLegNysaViOxHA) | [Ever New](https://open.spotify.com/album/2SOtQJ5vNtbbkQizTdqnEO) | 4:50 |
 | 16 | [YOU CRY LOVE.](https://open.spotify.com/track/7iDkEUp4KuUIWR9HPOyvXZ) | [jev.](https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF) | [YOU CRY LOVE.](https://open.spotify.com/album/2QKuLOLIQ8rD4aPXNr6rxR) | 2:38 |
 | 17 | [Dancing Circles 2.0](https://open.spotify.com/track/3C5eqElWp0s4of3vTU37bF) | [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Lahai \- Deluxe](https://open.spotify.com/album/0oKro6GftR6X0sk7fVH7T8) | 3:46 |
-| 18 | [People Are Dancing](https://open.spotify.com/track/4N15M6bfYDbjtQF2jHXn1J) | [Keys N Krates](https://open.spotify.com/artist/6c1pBXHYjFcGQQNO5MMsdd), [Rimarkable](https://open.spotify.com/artist/4t1z5s4veUPuhIwzvAvTle) | [People Were Dancing](https://open.spotify.com/album/2Bqlcyqq8UerhVB18B1Kcq) | 3:43 |
+| 18 | [People Were Dancing](https://open.spotify.com/track/4N15M6bfYDbjtQF2jHXn1J) | [Keys N Krates](https://open.spotify.com/artist/6c1pBXHYjFcGQQNO5MMsdd), [Rimarkable](https://open.spotify.com/artist/4t1z5s4veUPuhIwzvAvTle) | [People Were Dancing](https://open.spotify.com/album/2Bqlcyqq8UerhVB18B1Kcq) | 3:43 |
 | 19 | [Crossfire](https://open.spotify.com/track/2M9g1BMhqVT51XpDw1gThu) | [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq), [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [ORIGIN \(Deluxe\)](https://open.spotify.com/album/72wRkJIO27W7JPUEQ0r3sK) | 3:07 |
 | 20 | [My World](https://open.spotify.com/track/0nKVI2mlBFkdjAdZH61rLF) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [My World](https://open.spotify.com/album/3a7cMtEKE1BMV0BoH9MwvV) | 3:23 |
 | 21 | [Monitoring Me](https://open.spotify.com/track/5et07CoblayzSAQIFLtP3d) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Monitoring Me](https://open.spotify.com/album/4gihDInzv5b57Fy5fhcsGV) | 2:24 |

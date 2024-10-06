@@ -1,6 +1,6 @@
 {
   "description": "Only the biggest Hardstyle tracks!",
-  "num_followers": 1340565,
+  "num_followers": 1340954,
   "original_name": "Hardstyle Bangers",
   "owner": {
     "name": "Spotify",
@@ -523,22 +523,6 @@
     {
       "added_at": "2024-10-04 07:05:55",
       "album": {
-        "name": "Gimme Bass",
-        "url": "https://open.spotify.com/album/4tGntCkV48pCNwIlKAMays"
-      },
-      "artists": [
-        {
-          "name": "Outsiders",
-          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
-        }
-      ],
-      "duration_ms": 164129,
-      "name": "Gimme Bass",
-      "url": "https://open.spotify.com/track/29mAlA42YLtpgMDWBmKb17"
-    },
-    {
-      "added_at": "2024-10-04 07:05:55",
-      "album": {
         "name": "Weekend!",
         "url": "https://open.spotify.com/album/5Gqc1Uoo4Zfmwhmx3ZnNYu"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 186991,
       "name": "Weekend!",
       "url": "https://open.spotify.com/track/1lV8sXL01UVaw6g0fawtsC"
+    },
+    {
+      "added_at": "2024-10-04 07:05:55",
+      "album": {
+        "name": "Gimme Bass",
+        "url": "https://open.spotify.com/album/4tGntCkV48pCNwIlKAMays"
+      },
+      "artists": [
+        {
+          "name": "Outsiders",
+          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
+        }
+      ],
+      "duration_ms": 164129,
+      "name": "Gimme Bass",
+      "url": "https://open.spotify.com/track/29mAlA42YLtpgMDWBmKb17"
     },
     {
       "added_at": "2024-10-04 07:05:55",
@@ -803,26 +803,6 @@
     {
       "added_at": "2024-10-04 07:05:55",
       "album": {
-        "name": "U Are The High",
-        "url": "https://open.spotify.com/album/0Ith2nwQnLsATxI4pF2Ur3"
-      },
-      "artists": [
-        {
-          "name": "Coone",
-          "url": "https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C"
-        },
-        {
-          "name": "D-Block & S-te-Fan",
-          "url": "https://open.spotify.com/artist/6L7a6wPGpvLtTwOsMLnF1z"
-        }
-      ],
-      "duration_ms": 198193,
-      "name": "U Are The High",
-      "url": "https://open.spotify.com/track/2ssPLm5u7KiGXAwpTIBvEl"
-    },
-    {
-      "added_at": "2024-10-04 07:05:55",
-      "album": {
         "name": "Free (feat. Starsplash)",
         "url": "https://open.spotify.com/album/3g4YQYRWn89pIIAGhRIqNf"
       },
@@ -843,6 +823,26 @@
       "duration_ms": 150000,
       "name": "Free (feat. Starsplash)",
       "url": "https://open.spotify.com/track/1Juo1H8h7Gbg4m0d9qOdxq"
+    },
+    {
+      "added_at": "2024-10-04 07:05:55",
+      "album": {
+        "name": "U Are The High",
+        "url": "https://open.spotify.com/album/0Ith2nwQnLsATxI4pF2Ur3"
+      },
+      "artists": [
+        {
+          "name": "Coone",
+          "url": "https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C"
+        },
+        {
+          "name": "D-Block & S-te-Fan",
+          "url": "https://open.spotify.com/artist/6L7a6wPGpvLtTwOsMLnF1z"
+        }
+      ],
+      "duration_ms": 198193,
+      "name": "U Are The High",
+      "url": "https://open.spotify.com/track/2ssPLm5u7KiGXAwpTIBvEl"
     },
     {
       "added_at": "2024-10-04 07:05:55",
@@ -999,22 +999,6 @@
     {
       "added_at": "2024-10-04 07:05:55",
       "album": {
-        "name": "Rise",
-        "url": "https://open.spotify.com/album/5PacTGJNhF766ROoqHqPPn"
-      },
-      "artists": [
-        {
-          "name": "DJ Isaac",
-          "url": "https://open.spotify.com/artist/2FmgW6Jee0JQKtb6EnBWCq"
-        }
-      ],
-      "duration_ms": 174967,
-      "name": "Rise",
-      "url": "https://open.spotify.com/track/1rT7b6aDpU8jERHwOoRbi4"
-    },
-    {
-      "added_at": "2024-10-04 07:05:55",
-      "album": {
         "name": "Creep (Hardstyle Remix)",
         "url": "https://open.spotify.com/album/0Qi2ncqZObbbkOlAt8MI92"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 187000,
       "name": "Creep - Hardstyle Remix",
       "url": "https://open.spotify.com/track/3VwxvFdVh7i0NdroGxP3oz"
+    },
+    {
+      "added_at": "2024-10-04 07:05:55",
+      "album": {
+        "name": "Rise",
+        "url": "https://open.spotify.com/album/5PacTGJNhF766ROoqHqPPn"
+      },
+      "artists": [
+        {
+          "name": "DJ Isaac",
+          "url": "https://open.spotify.com/artist/2FmgW6Jee0JQKtb6EnBWCq"
+        }
+      ],
+      "duration_ms": 174967,
+      "name": "Rise",
+      "url": "https://open.spotify.com/track/1rT7b6aDpU8jERHwOoRbi4"
     },
     {
       "added_at": "2024-10-04 07:05:55",
@@ -1571,6 +1571,26 @@
     {
       "added_at": "2024-10-04 07:05:55",
       "album": {
+        "name": "INTO THE WILD (Official Intents Festival 2024 Anthem)",
+        "url": "https://open.spotify.com/album/3v87LZmAPs0JON6tY85zy3"
+      },
+      "artists": [
+        {
+          "name": "Rooler",
+          "url": "https://open.spotify.com/artist/2lpFs8QJyIeVDb2Sq4vZYi"
+        },
+        {
+          "name": "Atmozfears",
+          "url": "https://open.spotify.com/artist/0MBGxwmCdXdO26ojaNcT64"
+        }
+      ],
+      "duration_ms": 248484,
+      "name": "INTO THE WILD - Official Intents Festival 2024 Anthem",
+      "url": "https://open.spotify.com/track/0uB4Gw3Qggi9dxHnH3FNp5"
+    },
+    {
+      "added_at": "2024-10-04 07:05:55",
+      "album": {
         "name": "The Showdown",
         "url": "https://open.spotify.com/album/1HVwxjRTjijCJfMWQLfGCA"
       },
@@ -1595,42 +1615,6 @@
     {
       "added_at": "2024-10-04 07:05:55",
       "album": {
-        "name": "INTO THE WILD (Official Intents Festival 2024 Anthem)",
-        "url": "https://open.spotify.com/album/3v87LZmAPs0JON6tY85zy3"
-      },
-      "artists": [
-        {
-          "name": "Rooler",
-          "url": "https://open.spotify.com/artist/2lpFs8QJyIeVDb2Sq4vZYi"
-        },
-        {
-          "name": "Atmozfears",
-          "url": "https://open.spotify.com/artist/0MBGxwmCdXdO26ojaNcT64"
-        }
-      ],
-      "duration_ms": 248484,
-      "name": "INTO THE WILD - Official Intents Festival 2024 Anthem",
-      "url": "https://open.spotify.com/track/0uB4Gw3Qggi9dxHnH3FNp5"
-    },
-    {
-      "added_at": "2024-10-04 07:05:55",
-      "album": {
-        "name": "Power of the Tribe (Defqon.1 2024 Anthem)",
-        "url": "https://open.spotify.com/album/0oObHHYsI5qalv9UMSOz6n"
-      },
-      "artists": [
-        {
-          "name": "Sound Rush",
-          "url": "https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK"
-        }
-      ],
-      "duration_ms": 325494,
-      "name": "Power of the Tribe (Defqon.1 2024 Anthem)",
-      "url": "https://open.spotify.com/track/0Bwq1DvIe3YSN2nVQ1n5Am"
-    },
-    {
-      "added_at": "2024-10-04 07:05:55",
-      "album": {
         "name": "Make That Body Move (Warrior Workout 2024 OST)",
         "url": "https://open.spotify.com/album/1N5W8EOuPiQ3YP351AK7Vh"
       },
@@ -1647,22 +1631,18 @@
     {
       "added_at": "2024-10-04 07:05:55",
       "album": {
-        "name": "Warrior Cry",
-        "url": "https://open.spotify.com/album/47EV2t9QoqQ7D3hCr9UJhT"
+        "name": "Power of the Tribe (Defqon.1 2024 Anthem)",
+        "url": "https://open.spotify.com/album/0oObHHYsI5qalv9UMSOz6n"
       },
       "artists": [
         {
-          "name": "Coone",
-          "url": "https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C"
-        },
-        {
-          "name": "Nolz",
-          "url": "https://open.spotify.com/artist/6kudMw2A0xOBJHpW8VNaDA"
+          "name": "Sound Rush",
+          "url": "https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK"
         }
       ],
-      "duration_ms": 207483,
-      "name": "Warrior Cry",
-      "url": "https://open.spotify.com/track/3MKGucsbvdG7RgfoFOqDaj"
+      "duration_ms": 325494,
+      "name": "Power of the Tribe (Defqon.1 2024 Anthem)",
+      "url": "https://open.spotify.com/track/0Bwq1DvIe3YSN2nVQ1n5Am"
     },
     {
       "added_at": "2024-10-04 07:05:55",
@@ -1691,6 +1671,26 @@
     {
       "added_at": "2024-10-04 07:05:55",
       "album": {
+        "name": "Warrior Cry",
+        "url": "https://open.spotify.com/album/47EV2t9QoqQ7D3hCr9UJhT"
+      },
+      "artists": [
+        {
+          "name": "Coone",
+          "url": "https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C"
+        },
+        {
+          "name": "Nolz",
+          "url": "https://open.spotify.com/artist/6kudMw2A0xOBJHpW8VNaDA"
+        }
+      ],
+      "duration_ms": 207483,
+      "name": "Warrior Cry",
+      "url": "https://open.spotify.com/track/3MKGucsbvdG7RgfoFOqDaj"
+    },
+    {
+      "added_at": "2024-10-04 07:05:55",
+      "album": {
         "name": "Battlefield",
         "url": "https://open.spotify.com/album/5GSLv4dJrExZmK9tvAaeXf"
       },
@@ -1707,26 +1707,6 @@
       "duration_ms": 187794,
       "name": "Battlefield",
       "url": "https://open.spotify.com/track/1EbRl91ytoWtnOoLO7Z91p"
-    },
-    {
-      "added_at": "2024-10-04 07:05:55",
-      "album": {
-        "name": "Bring It On",
-        "url": "https://open.spotify.com/album/3cUjOkczwQfDYCwykax7lg"
-      },
-      "artists": [
-        {
-          "name": "Aversion",
-          "url": "https://open.spotify.com/artist/2ecqtRdHGMT1SSSaYXoYlC"
-        },
-        {
-          "name": "E-Force",
-          "url": "https://open.spotify.com/artist/77faXTf6wXs3L2CVol0c8C"
-        }
-      ],
-      "duration_ms": 148406,
-      "name": "Bring It On",
-      "url": "https://open.spotify.com/track/2wwkUAQnTjsW2PPCe5MIkE"
     },
     {
       "added_at": "2024-10-04 07:05:55",
@@ -1751,6 +1731,26 @@
       "duration_ms": 189000,
       "name": "Rave Love",
       "url": "https://open.spotify.com/track/0YHL0wDP6b7ov6h0yEhorO"
+    },
+    {
+      "added_at": "2024-10-04 07:05:55",
+      "album": {
+        "name": "Bring It On",
+        "url": "https://open.spotify.com/album/3cUjOkczwQfDYCwykax7lg"
+      },
+      "artists": [
+        {
+          "name": "Aversion",
+          "url": "https://open.spotify.com/artist/2ecqtRdHGMT1SSSaYXoYlC"
+        },
+        {
+          "name": "E-Force",
+          "url": "https://open.spotify.com/artist/77faXTf6wXs3L2CVol0c8C"
+        }
+      ],
+      "duration_ms": 148406,
+      "name": "Bring It On",
+      "url": "https://open.spotify.com/track/2wwkUAQnTjsW2PPCe5MIkE"
     },
     {
       "added_at": "2024-10-04 07:05:55",
@@ -1923,6 +1923,22 @@
     {
       "added_at": "2024-10-04 07:05:55",
       "album": {
+        "name": "Feel So Good",
+        "url": "https://open.spotify.com/album/1JuieeW86pG1yMTvmis54g"
+      },
+      "artists": [
+        {
+          "name": "DJ Isaac",
+          "url": "https://open.spotify.com/artist/2FmgW6Jee0JQKtb6EnBWCq"
+        }
+      ],
+      "duration_ms": 215225,
+      "name": "Feel So Good",
+      "url": "https://open.spotify.com/track/0fnrHmbApoVm9Zt8jIwKsi"
+    },
+    {
+      "added_at": "2024-10-04 07:05:55",
+      "album": {
         "name": "Cambodia",
         "url": "https://open.spotify.com/album/4HtUIpG6VJUovQ7Ki6rtIU"
       },
@@ -1939,22 +1955,6 @@
       "duration_ms": 158940,
       "name": "Cambodia",
       "url": "https://open.spotify.com/track/43yq4RWhzp5nIxDUWlU3mD"
-    },
-    {
-      "added_at": "2024-10-04 07:05:55",
-      "album": {
-        "name": "Feel So Good",
-        "url": "https://open.spotify.com/album/1JuieeW86pG1yMTvmis54g"
-      },
-      "artists": [
-        {
-          "name": "DJ Isaac",
-          "url": "https://open.spotify.com/artist/2FmgW6Jee0JQKtb6EnBWCq"
-        }
-      ],
-      "duration_ms": 215225,
-      "name": "Feel So Good",
-      "url": "https://open.spotify.com/track/0fnrHmbApoVm9Zt8jIwKsi"
     },
     {
       "added_at": "2024-10-04 07:05:55",
@@ -2055,6 +2055,22 @@
     {
       "added_at": "2024-10-04 07:05:55",
       "album": {
+        "name": "Dia De Los Muertos",
+        "url": "https://open.spotify.com/album/5VvNMLeMWPdGKhDj8fr5VY"
+      },
+      "artists": [
+        {
+          "name": "Gunz For Hire",
+          "url": "https://open.spotify.com/artist/0WbAxASsYdodSlqwserDAW"
+        }
+      ],
+      "duration_ms": 215590,
+      "name": "Dia De Los Muertos",
+      "url": "https://open.spotify.com/track/50nwmMcvFwPpbTU85WZC7h"
+    },
+    {
+      "added_at": "2024-10-04 07:05:55",
+      "album": {
         "name": "Oh Fortuna",
         "url": "https://open.spotify.com/album/65JHmOAmfng9D1jKIcwza0"
       },
@@ -2075,22 +2091,6 @@
       "duration_ms": 170117,
       "name": "Oh Fortuna - Carmina Burana",
       "url": "https://open.spotify.com/track/1EvtCODhDxZAg8xqe5cqev"
-    },
-    {
-      "added_at": "2024-10-04 07:05:55",
-      "album": {
-        "name": "Dia De Los Muertos",
-        "url": "https://open.spotify.com/album/5VvNMLeMWPdGKhDj8fr5VY"
-      },
-      "artists": [
-        {
-          "name": "Gunz For Hire",
-          "url": "https://open.spotify.com/artist/0WbAxASsYdodSlqwserDAW"
-        }
-      ],
-      "duration_ms": 215590,
-      "name": "Dia De Los Muertos",
-      "url": "https://open.spotify.com/track/50nwmMcvFwPpbTU85WZC7h"
     },
     {
       "added_at": "2024-10-04 07:05:55",
@@ -2171,22 +2171,6 @@
     {
       "added_at": "2024-10-04 07:05:55",
       "album": {
-        "name": "LONELY",
-        "url": "https://open.spotify.com/album/1aB4kn1R5Ez8jzrPs1x16v"
-      },
-      "artists": [
-        {
-          "name": "TOZA",
-          "url": "https://open.spotify.com/artist/4EGv5uSV4xrFpAfrkvW71L"
-        }
-      ],
-      "duration_ms": 141000,
-      "name": "LONELY",
-      "url": "https://open.spotify.com/track/0mYZauuxk7kIH8erPBTJE3"
-    },
-    {
-      "added_at": "2024-10-04 07:05:55",
-      "album": {
         "name": "Unbreakable",
         "url": "https://open.spotify.com/album/1SruYWLrRC5VdxOD23HJsr"
       },
@@ -2207,26 +2191,34 @@
     {
       "added_at": "2024-10-04 07:05:55",
       "album": {
-        "name": "Bring Me To Life",
-        "url": "https://open.spotify.com/album/6zz4nAkQb00Vld0rQpaflZ"
+        "name": "LONELY",
+        "url": "https://open.spotify.com/album/1aB4kn1R5Ez8jzrPs1x16v"
       },
       "artists": [
         {
-          "name": "Aftershock",
-          "url": "https://open.spotify.com/artist/6KlY7jizsLWQcXR1F2Sn9j"
-        },
-        {
-          "name": "Frequencerz",
-          "url": "https://open.spotify.com/artist/5cPNMq5lKAoAKyv5kdpz9s"
-        },
-        {
-          "name": "TCM",
-          "url": "https://open.spotify.com/artist/26JDxOz4FrVBX1AquFCzdp"
+          "name": "TOZA",
+          "url": "https://open.spotify.com/artist/4EGv5uSV4xrFpAfrkvW71L"
         }
       ],
-      "duration_ms": 275670,
-      "name": "Bring Me To Life",
-      "url": "https://open.spotify.com/track/0ybeBySpjF210NlRszIzZM"
+      "duration_ms": 141000,
+      "name": "LONELY",
+      "url": "https://open.spotify.com/track/0mYZauuxk7kIH8erPBTJE3"
+    },
+    {
+      "added_at": "2024-10-04 07:05:55",
+      "album": {
+        "name": "Imagine",
+        "url": "https://open.spotify.com/album/69XAJqiyCPEEdnlnkZThVE"
+      },
+      "artists": [
+        {
+          "name": "Bass Modulators",
+          "url": "https://open.spotify.com/artist/1Uk4IDpF1OIuTzANugS5JC"
+        }
+      ],
+      "duration_ms": 244133,
+      "name": "Imagine",
+      "url": "https://open.spotify.com/track/0mWGz6hPTPuOK3SaETnqCo"
     },
     {
       "added_at": "2024-10-04 07:05:55",
@@ -2247,22 +2239,6 @@
       "duration_ms": 179200,
       "name": "Angels & Demons",
       "url": "https://open.spotify.com/track/0YVx5YZIgfYHzlq19hqDeE"
-    },
-    {
-      "added_at": "2024-10-04 07:05:55",
-      "album": {
-        "name": "Imagine",
-        "url": "https://open.spotify.com/album/69XAJqiyCPEEdnlnkZThVE"
-      },
-      "artists": [
-        {
-          "name": "Bass Modulators",
-          "url": "https://open.spotify.com/artist/1Uk4IDpF1OIuTzANugS5JC"
-        }
-      ],
-      "duration_ms": 244133,
-      "name": "Imagine",
-      "url": "https://open.spotify.com/track/0mWGz6hPTPuOK3SaETnqCo"
     },
     {
       "added_at": "2024-10-04 07:05:55",
@@ -2291,6 +2267,30 @@
       "duration_ms": 238875,
       "name": "DISCOVER THE MAYHEM (Official REBiRTH Festival 2024 Anthem)",
       "url": "https://open.spotify.com/track/1Wv5JiJLCJL8xZ5PNH1IEB"
+    },
+    {
+      "added_at": "2024-10-04 07:05:55",
+      "album": {
+        "name": "Bring Me To Life",
+        "url": "https://open.spotify.com/album/6zz4nAkQb00Vld0rQpaflZ"
+      },
+      "artists": [
+        {
+          "name": "Aftershock",
+          "url": "https://open.spotify.com/artist/6KlY7jizsLWQcXR1F2Sn9j"
+        },
+        {
+          "name": "Frequencerz",
+          "url": "https://open.spotify.com/artist/5cPNMq5lKAoAKyv5kdpz9s"
+        },
+        {
+          "name": "TCM",
+          "url": "https://open.spotify.com/artist/26JDxOz4FrVBX1AquFCzdp"
+        }
+      ],
+      "duration_ms": 275670,
+      "name": "Bring Me To Life",
+      "url": "https://open.spotify.com/track/0ybeBySpjF210NlRszIzZM"
     },
     {
       "added_at": "2024-10-04 07:05:55",
@@ -2339,26 +2339,6 @@
     {
       "added_at": "2024-10-04 07:05:55",
       "album": {
-        "name": "ONE IN A MILLION",
-        "url": "https://open.spotify.com/album/7MDHanMahglxsPCi2GYasg"
-      },
-      "artists": [
-        {
-          "name": "The Purge",
-          "url": "https://open.spotify.com/artist/4CyjDlfEi7Sb4NLgWP0x3w"
-        },
-        {
-          "name": "Sanctuary",
-          "url": "https://open.spotify.com/artist/4Jz2XNJkFwCCMe01IcGzbZ"
-        }
-      ],
-      "duration_ms": 142503,
-      "name": "ONE IN A MILLION",
-      "url": "https://open.spotify.com/track/0fVcAL0U9lQhhEYdBJ8kO4"
-    },
-    {
-      "added_at": "2024-10-04 07:05:55",
-      "album": {
         "name": "One More Night",
         "url": "https://open.spotify.com/album/3Y6VZtjdLOo0PmcqtHPsID"
       },
@@ -2375,6 +2355,26 @@
       "duration_ms": 197142,
       "name": "One More Night",
       "url": "https://open.spotify.com/track/0A6H7CLOfNV01YVDDuCQs1"
+    },
+    {
+      "added_at": "2024-10-04 07:05:55",
+      "album": {
+        "name": "HEAR THE NOISE",
+        "url": "https://open.spotify.com/album/1wTPukZeH3Vn1M9UzLb4ye"
+      },
+      "artists": [
+        {
+          "name": "The Purge",
+          "url": "https://open.spotify.com/artist/4CyjDlfEi7Sb4NLgWP0x3w"
+        },
+        {
+          "name": "Bloodlust",
+          "url": "https://open.spotify.com/artist/1vDMUXdbIJHTSC8ZAf2Zqp"
+        }
+      ],
+      "duration_ms": 166988,
+      "name": "HEAR THE NOISE",
+      "url": "https://open.spotify.com/track/2CDVqCda38968ZRoo4LO3Z"
     },
     {
       "added_at": "2024-10-04 07:05:55",
@@ -2399,6 +2399,26 @@
       "duration_ms": 150400,
       "name": "Gemini",
       "url": "https://open.spotify.com/track/16ji1BU5uDmBUgZoWS4SpU"
+    },
+    {
+      "added_at": "2024-10-04 07:05:55",
+      "album": {
+        "name": "DEFAULT DAMAGER",
+        "url": "https://open.spotify.com/album/7tQPAbuclDfur3s39BDttD"
+      },
+      "artists": [
+        {
+          "name": "TOZA",
+          "url": "https://open.spotify.com/artist/4EGv5uSV4xrFpAfrkvW71L"
+        },
+        {
+          "name": "Imperatorz",
+          "url": "https://open.spotify.com/artist/7eS0sxPiRLeafMwpgLJml1"
+        }
+      ],
+      "duration_ms": 147558,
+      "name": "DEFAULT DAMAGER",
+      "url": "https://open.spotify.com/track/4CKQnxHlMgDwyHAcnnOnjp"
     },
     {
       "added_at": "2024-10-04 07:05:55",
@@ -2435,46 +2455,6 @@
       "duration_ms": 167294,
       "name": "Faith",
       "url": "https://open.spotify.com/track/5tlmO0EqsLwqS2CGxVVjEe"
-    },
-    {
-      "added_at": "2024-10-04 07:05:55",
-      "album": {
-        "name": "DEFAULT DAMAGER",
-        "url": "https://open.spotify.com/album/7tQPAbuclDfur3s39BDttD"
-      },
-      "artists": [
-        {
-          "name": "TOZA",
-          "url": "https://open.spotify.com/artist/4EGv5uSV4xrFpAfrkvW71L"
-        },
-        {
-          "name": "Imperatorz",
-          "url": "https://open.spotify.com/artist/7eS0sxPiRLeafMwpgLJml1"
-        }
-      ],
-      "duration_ms": 147558,
-      "name": "DEFAULT DAMAGER",
-      "url": "https://open.spotify.com/track/4CKQnxHlMgDwyHAcnnOnjp"
-    },
-    {
-      "added_at": "2024-10-04 07:05:55",
-      "album": {
-        "name": "HEAR THE NOISE",
-        "url": "https://open.spotify.com/album/1wTPukZeH3Vn1M9UzLb4ye"
-      },
-      "artists": [
-        {
-          "name": "The Purge",
-          "url": "https://open.spotify.com/artist/4CyjDlfEi7Sb4NLgWP0x3w"
-        },
-        {
-          "name": "Bloodlust",
-          "url": "https://open.spotify.com/artist/1vDMUXdbIJHTSC8ZAf2Zqp"
-        }
-      ],
-      "duration_ms": 166988,
-      "name": "HEAR THE NOISE",
-      "url": "https://open.spotify.com/track/2CDVqCda38968ZRoo4LO3Z"
     },
     {
       "added_at": "2024-10-04 07:05:55",
@@ -2567,46 +2547,6 @@
     {
       "added_at": "2024-10-04 07:05:55",
       "album": {
-        "name": "Turn The Tide Revisited",
-        "url": "https://open.spotify.com/album/6lO0IvuTGuO9zlpgC2NUCz"
-      },
-      "artists": [
-        {
-          "name": "Lowriderz",
-          "url": "https://open.spotify.com/artist/6r2jFoPfqDkcIFa0WlQTg6"
-        },
-        {
-          "name": "Sylver",
-          "url": "https://open.spotify.com/artist/1i9NxPRrKcoW34XTMnvzJy"
-        }
-      ],
-      "duration_ms": 188800,
-      "name": "Turn The Tide Revisited",
-      "url": "https://open.spotify.com/track/6HZMjW77EJTRimMarTJVnh"
-    },
-    {
-      "added_at": "2024-10-04 07:05:55",
-      "album": {
-        "name": "BEUK D\u2019R IN",
-        "url": "https://open.spotify.com/album/2qZv9BX5KsakUEFgRGGSiT"
-      },
-      "artists": [
-        {
-          "name": "The Purge",
-          "url": "https://open.spotify.com/artist/4CyjDlfEi7Sb4NLgWP0x3w"
-        },
-        {
-          "name": "EZG",
-          "url": "https://open.spotify.com/artist/19a4917FBnuYz90ezDrKv4"
-        }
-      ],
-      "duration_ms": 165660,
-      "name": "BEUK D\u2019R IN",
-      "url": "https://open.spotify.com/track/6cmEnw1xI9c4bmsm43fsKk"
-    },
-    {
-      "added_at": "2024-10-04 07:05:55",
-      "album": {
         "name": "Where I Belong",
         "url": "https://open.spotify.com/album/1NPmIyN3g1B42Ii24pVNsd"
       },
@@ -2627,6 +2567,26 @@
     {
       "added_at": "2024-10-04 07:05:55",
       "album": {
+        "name": "ONE IN A MILLION",
+        "url": "https://open.spotify.com/album/7MDHanMahglxsPCi2GYasg"
+      },
+      "artists": [
+        {
+          "name": "The Purge",
+          "url": "https://open.spotify.com/artist/4CyjDlfEi7Sb4NLgWP0x3w"
+        },
+        {
+          "name": "Sanctuary",
+          "url": "https://open.spotify.com/artist/4Jz2XNJkFwCCMe01IcGzbZ"
+        }
+      ],
+      "duration_ms": 142503,
+      "name": "ONE IN A MILLION",
+      "url": "https://open.spotify.com/track/0fVcAL0U9lQhhEYdBJ8kO4"
+    },
+    {
+      "added_at": "2024-10-04 07:05:55",
+      "album": {
         "name": "Use Somebody",
         "url": "https://open.spotify.com/album/092vyskf9htiWRdTiGtTel"
       },
@@ -2643,6 +2603,26 @@
       "duration_ms": 174400,
       "name": "Use Somebody",
       "url": "https://open.spotify.com/track/0zXKokbGrtZe67VxYJYwN0"
+    },
+    {
+      "added_at": "2024-10-04 07:05:55",
+      "album": {
+        "name": "Turn The Tide Revisited",
+        "url": "https://open.spotify.com/album/6lO0IvuTGuO9zlpgC2NUCz"
+      },
+      "artists": [
+        {
+          "name": "Lowriderz",
+          "url": "https://open.spotify.com/artist/6r2jFoPfqDkcIFa0WlQTg6"
+        },
+        {
+          "name": "Sylver",
+          "url": "https://open.spotify.com/artist/1i9NxPRrKcoW34XTMnvzJy"
+        }
+      ],
+      "duration_ms": 188800,
+      "name": "Turn The Tide Revisited",
+      "url": "https://open.spotify.com/track/6HZMjW77EJTRimMarTJVnh"
     },
     {
       "added_at": "2024-10-04 07:05:55",
@@ -2711,22 +2691,6 @@
     {
       "added_at": "2024-10-04 07:05:55",
       "album": {
-        "name": "The Flame Inside",
-        "url": "https://open.spotify.com/album/3UJaCyCiERfPBcfIJbPzqr"
-      },
-      "artists": [
-        {
-          "name": "Headhunterz",
-          "url": "https://open.spotify.com/artist/6C0KWmCdqrLU2LzzWBPbOy"
-        }
-      ],
-      "duration_ms": 256258,
-      "name": "The Flame Inside",
-      "url": "https://open.spotify.com/track/0bwI14sF0aR97qxjp4AAqV"
-    },
-    {
-      "added_at": "2024-10-04 07:05:55",
-      "album": {
         "name": "Fiyaaah!",
         "url": "https://open.spotify.com/album/56tXG4Pa5WwioAsT2ZIeQe"
       },
@@ -2743,6 +2707,42 @@
       "duration_ms": 234021,
       "name": "Fiyaaah!",
       "url": "https://open.spotify.com/track/1gWAtvmMbhH6WPLes1swNh"
+    },
+    {
+      "added_at": "2024-10-04 07:05:55",
+      "album": {
+        "name": "The Flame Inside",
+        "url": "https://open.spotify.com/album/3UJaCyCiERfPBcfIJbPzqr"
+      },
+      "artists": [
+        {
+          "name": "Headhunterz",
+          "url": "https://open.spotify.com/artist/6C0KWmCdqrLU2LzzWBPbOy"
+        }
+      ],
+      "duration_ms": 256258,
+      "name": "The Flame Inside",
+      "url": "https://open.spotify.com/track/0bwI14sF0aR97qxjp4AAqV"
+    },
+    {
+      "added_at": "2024-10-04 07:05:55",
+      "album": {
+        "name": "BEUK D\u2019R IN",
+        "url": "https://open.spotify.com/album/2qZv9BX5KsakUEFgRGGSiT"
+      },
+      "artists": [
+        {
+          "name": "The Purge",
+          "url": "https://open.spotify.com/artist/4CyjDlfEi7Sb4NLgWP0x3w"
+        },
+        {
+          "name": "EZG",
+          "url": "https://open.spotify.com/artist/19a4917FBnuYz90ezDrKv4"
+        }
+      ],
+      "duration_ms": 165660,
+      "name": "BEUK D\u2019R IN",
+      "url": "https://open.spotify.com/track/6cmEnw1xI9c4bmsm43fsKk"
     },
     {
       "added_at": "2024-10-04 07:05:55",
@@ -2827,26 +2827,6 @@
     {
       "added_at": "2024-10-04 07:05:55",
       "album": {
-        "name": "Kids",
-        "url": "https://open.spotify.com/album/6NLWTRopducZJWVcygmaFq"
-      },
-      "artists": [
-        {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
-        },
-        {
-          "name": "Tony Junior",
-          "url": "https://open.spotify.com/artist/17esEoE9uEHFKuzkar2UL0"
-        }
-      ],
-      "duration_ms": 248471,
-      "name": "Kids",
-      "url": "https://open.spotify.com/track/5G2gw64OPqCc26U8bsjb4g"
-    },
-    {
-      "added_at": "2024-10-04 07:05:55",
-      "album": {
         "name": "Sky Fall",
         "url": "https://open.spotify.com/album/5jtPNpTgbhoDusNUlRKpsP"
       },
@@ -2863,22 +2843,22 @@
     {
       "added_at": "2024-10-04 07:05:55",
       "album": {
-        "name": "Garden Of Magic",
-        "url": "https://open.spotify.com/album/5h0gbPjUfmsOdrwKyV6EoI"
+        "name": "Kids",
+        "url": "https://open.spotify.com/album/6NLWTRopducZJWVcygmaFq"
       },
       "artists": [
         {
-          "name": "Psyko Punkz",
-          "url": "https://open.spotify.com/artist/18pYFSeMi7sOL6nGMICHtS"
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
         },
         {
-          "name": "Zac Aynsley",
-          "url": "https://open.spotify.com/artist/4n6xUSrgVHhTJoc8JTcrIK"
+          "name": "Tony Junior",
+          "url": "https://open.spotify.com/artist/17esEoE9uEHFKuzkar2UL0"
         }
       ],
-      "duration_ms": 177387,
-      "name": "Garden Of Magic",
-      "url": "https://open.spotify.com/track/4SadIiJGMYMFltjEbqG3Ik"
+      "duration_ms": 248471,
+      "name": "Kids",
+      "url": "https://open.spotify.com/track/5G2gw64OPqCc26U8bsjb4g"
     },
     {
       "added_at": "2024-10-04 07:05:55",
@@ -2903,6 +2883,26 @@
       "duration_ms": 173499,
       "name": "Morgenlicht",
       "url": "https://open.spotify.com/track/7dWbcOsfWgjjM4PIsCBl1D"
+    },
+    {
+      "added_at": "2024-10-04 07:05:55",
+      "album": {
+        "name": "Garden Of Magic",
+        "url": "https://open.spotify.com/album/5h0gbPjUfmsOdrwKyV6EoI"
+      },
+      "artists": [
+        {
+          "name": "Psyko Punkz",
+          "url": "https://open.spotify.com/artist/18pYFSeMi7sOL6nGMICHtS"
+        },
+        {
+          "name": "Zac Aynsley",
+          "url": "https://open.spotify.com/artist/4n6xUSrgVHhTJoc8JTcrIK"
+        }
+      ],
+      "duration_ms": 177387,
+      "name": "Garden Of Magic",
+      "url": "https://open.spotify.com/track/4SadIiJGMYMFltjEbqG3Ik"
     },
     {
       "added_at": "2024-10-04 07:05:55",
@@ -2939,26 +2939,6 @@
     {
       "added_at": "2024-10-04 07:05:55",
       "album": {
-        "name": "Broken Dreams",
-        "url": "https://open.spotify.com/album/6IR0IsypKtxWm2UKyFXimX"
-      },
-      "artists": [
-        {
-          "name": "Re-Style",
-          "url": "https://open.spotify.com/artist/2kK1cYRoYo24RzsHADtD0E"
-        },
-        {
-          "name": "Hysta",
-          "url": "https://open.spotify.com/artist/5b4R0928g89y6qmOgtEN1O"
-        }
-      ],
-      "duration_ms": 222631,
-      "name": "Broken Dreams",
-      "url": "https://open.spotify.com/track/08eoEMJAcewxsEGvole0gx"
-    },
-    {
-      "added_at": "2024-10-04 07:05:55",
-      "album": {
         "name": "Superstring (Aftershock Remix)",
         "url": "https://open.spotify.com/album/11wftEXsKjwB4ghjI5x15Y"
       },
@@ -2979,26 +2959,42 @@
     {
       "added_at": "2024-10-04 07:05:55",
       "album": {
-        "name": "Into the Night",
-        "url": "https://open.spotify.com/album/0LL0D6ryvVY1qF5lh98Tuo"
+        "name": "Rave From The Grave",
+        "url": "https://open.spotify.com/album/7BJ7QAzzef1Bsydy4gajiW"
       },
       "artists": [
         {
-          "name": "Neptunica",
-          "url": "https://open.spotify.com/artist/5dGsIOepO9ufQlXjW8KrPL"
+          "name": "Warface",
+          "url": "https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs"
         },
         {
-          "name": "Jerome",
-          "url": "https://open.spotify.com/artist/4xcDVatLFh6qlcm41er3LV"
-        },
-        {
-          "name": "Marc Blou",
-          "url": "https://open.spotify.com/artist/3NqSZ6T8QqQLyA5baayI19"
+          "name": "Carola",
+          "url": "https://open.spotify.com/artist/00d3cwrk9aduzfVDCG0Hgp"
         }
       ],
-      "duration_ms": 173571,
-      "name": "Into the Night",
-      "url": "https://open.spotify.com/track/2EPHUV16WoWXHVxxoJzvi2"
+      "duration_ms": 177016,
+      "name": "Rave From The Grave",
+      "url": "https://open.spotify.com/track/5hnmpL3XJwHP9McJ0RSkxl"
+    },
+    {
+      "added_at": "2024-10-04 07:05:55",
+      "album": {
+        "name": "Broken Dreams",
+        "url": "https://open.spotify.com/album/6IR0IsypKtxWm2UKyFXimX"
+      },
+      "artists": [
+        {
+          "name": "Re-Style",
+          "url": "https://open.spotify.com/artist/2kK1cYRoYo24RzsHADtD0E"
+        },
+        {
+          "name": "Hysta",
+          "url": "https://open.spotify.com/artist/5b4R0928g89y6qmOgtEN1O"
+        }
+      ],
+      "duration_ms": 222631,
+      "name": "Broken Dreams",
+      "url": "https://open.spotify.com/track/08eoEMJAcewxsEGvole0gx"
     },
     {
       "added_at": "2024-10-04 07:05:55",
@@ -3027,6 +3023,30 @@
     {
       "added_at": "2024-10-04 07:05:55",
       "album": {
+        "name": "Into the Night",
+        "url": "https://open.spotify.com/album/0LL0D6ryvVY1qF5lh98Tuo"
+      },
+      "artists": [
+        {
+          "name": "Neptunica",
+          "url": "https://open.spotify.com/artist/5dGsIOepO9ufQlXjW8KrPL"
+        },
+        {
+          "name": "Jerome",
+          "url": "https://open.spotify.com/artist/4xcDVatLFh6qlcm41er3LV"
+        },
+        {
+          "name": "Marc Blou",
+          "url": "https://open.spotify.com/artist/3NqSZ6T8QqQLyA5baayI19"
+        }
+      ],
+      "duration_ms": 173571,
+      "name": "Into the Night",
+      "url": "https://open.spotify.com/track/2EPHUV16WoWXHVxxoJzvi2"
+    },
+    {
+      "added_at": "2024-10-04 07:05:55",
+      "album": {
         "name": "Somebody to Love",
         "url": "https://open.spotify.com/album/66EPs3ZWUIRSNxer3yqIyS"
       },
@@ -3043,26 +3063,6 @@
       "duration_ms": 188076,
       "name": "Somebody to Love",
       "url": "https://open.spotify.com/track/14oLZpSIlMYf62kUthUTLL"
-    },
-    {
-      "added_at": "2024-10-04 07:05:55",
-      "album": {
-        "name": "Rave From The Grave",
-        "url": "https://open.spotify.com/album/7BJ7QAzzef1Bsydy4gajiW"
-      },
-      "artists": [
-        {
-          "name": "Warface",
-          "url": "https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs"
-        },
-        {
-          "name": "Carola",
-          "url": "https://open.spotify.com/artist/00d3cwrk9aduzfVDCG0Hgp"
-        }
-      ],
-      "duration_ms": 177016,
-      "name": "Rave From The Grave",
-      "url": "https://open.spotify.com/track/5hnmpL3XJwHP9McJ0RSkxl"
     }
   ],
   "unique_name": "Hardstyle Bangers",

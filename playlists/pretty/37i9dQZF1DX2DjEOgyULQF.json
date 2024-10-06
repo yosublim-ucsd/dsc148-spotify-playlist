@@ -1,6 +1,6 @@
 {
   "description": "Ambient with the soothing sounds of water, rain and birds. ",
-  "num_followers": 134301,
+  "num_followers": 134478,
   "original_name": "Nature Relaxation",
   "owner": {
     "name": "Spotify",
@@ -443,22 +443,6 @@
     {
       "added_at": "2024-10-01 12:38:22",
       "album": {
-        "name": "Returning",
-        "url": "https://open.spotify.com/album/7mA9IJQZ7wtRYuaQrJ4Vux"
-      },
-      "artists": [
-        {
-          "name": "Hontoni",
-          "url": "https://open.spotify.com/artist/09HhJFJqYmvCCwQwj47Ci4"
-        }
-      ],
-      "duration_ms": 182374,
-      "name": "Returning",
-      "url": "https://open.spotify.com/track/7CIj6Jk5vKNEgxGNRoAWbC"
-    },
-    {
-      "added_at": "2024-10-01 12:38:22",
-      "album": {
         "name": "Sequoia Peace (Forest)",
         "url": "https://open.spotify.com/album/02rCoQAI3AFIJIsG4Cx8u7"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 192000,
       "name": "The Enchanted Forest",
       "url": "https://open.spotify.com/track/20AEQnFt9dyIwCa8Cpqhkv"
+    },
+    {
+      "added_at": "2024-10-01 12:38:22",
+      "album": {
+        "name": "Returning",
+        "url": "https://open.spotify.com/album/7mA9IJQZ7wtRYuaQrJ4Vux"
+      },
+      "artists": [
+        {
+          "name": "Hontoni",
+          "url": "https://open.spotify.com/artist/09HhJFJqYmvCCwQwj47Ci4"
+        }
+      ],
+      "duration_ms": 182374,
+      "name": "Returning",
+      "url": "https://open.spotify.com/track/7CIj6Jk5vKNEgxGNRoAWbC"
     },
     {
       "added_at": "2024-10-01 12:38:22",
@@ -747,18 +747,18 @@
     {
       "added_at": "2024-10-01 12:38:22",
       "album": {
-        "name": "Verdure",
-        "url": "https://open.spotify.com/album/4BNcZNVXeCRvxdIEdykxOi"
+        "name": "The Birds' Lullaby",
+        "url": "https://open.spotify.com/album/3FM8vHSAiC47KQwL1HVHNe"
       },
       "artists": [
         {
-          "name": "Alexandra Irwin",
-          "url": "https://open.spotify.com/artist/5eXVmpRWpFw0vQcu0jGRVV"
+          "name": "Alma Forest",
+          "url": "https://open.spotify.com/artist/5n7QXdkmXfGAz6srNlrF8l"
         }
       ],
-      "duration_ms": 165690,
-      "name": "Verdure",
-      "url": "https://open.spotify.com/track/7iEfhRXZpaI1w7zkj9Np5U"
+      "duration_ms": 215073,
+      "name": "The Birds' Lullaby",
+      "url": "https://open.spotify.com/track/1RqfOe6dyNeOdczSmz0PU9"
     },
     {
       "added_at": "2024-10-01 12:38:22",
@@ -779,34 +779,18 @@
     {
       "added_at": "2024-10-01 12:38:22",
       "album": {
-        "name": "The Birds' Lullaby",
-        "url": "https://open.spotify.com/album/3FM8vHSAiC47KQwL1HVHNe"
+        "name": "Verdure",
+        "url": "https://open.spotify.com/album/4BNcZNVXeCRvxdIEdykxOi"
       },
       "artists": [
         {
-          "name": "Alma Forest",
-          "url": "https://open.spotify.com/artist/5n7QXdkmXfGAz6srNlrF8l"
+          "name": "Alexandra Irwin",
+          "url": "https://open.spotify.com/artist/5eXVmpRWpFw0vQcu0jGRVV"
         }
       ],
-      "duration_ms": 215073,
-      "name": "The Birds' Lullaby",
-      "url": "https://open.spotify.com/track/1RqfOe6dyNeOdczSmz0PU9"
-    },
-    {
-      "added_at": "2024-10-01 12:38:22",
-      "album": {
-        "name": "Mitra\u00b4s Morning",
-        "url": "https://open.spotify.com/album/5Wt5uingdBJRJr7aBmFF0Y"
-      },
-      "artists": [
-        {
-          "name": "Sangenjaya",
-          "url": "https://open.spotify.com/artist/5ZrrEKTUqjrI6kAVj5Mfrl"
-        }
-      ],
-      "duration_ms": 155000,
-      "name": "Mitra\u00b4s Morning",
-      "url": "https://open.spotify.com/track/0RqfPOB10K1N5ehf2Tbqfc"
+      "duration_ms": 165690,
+      "name": "Verdure",
+      "url": "https://open.spotify.com/track/7iEfhRXZpaI1w7zkj9Np5U"
     },
     {
       "added_at": "2024-10-01 12:38:22",
@@ -823,6 +807,22 @@
       "duration_ms": 186142,
       "name": "Equilibrium",
       "url": "https://open.spotify.com/track/1ZcQnf6WQyZK3kl3rSsd0m"
+    },
+    {
+      "added_at": "2024-10-01 12:38:22",
+      "album": {
+        "name": "Mitra\u00b4s Morning",
+        "url": "https://open.spotify.com/album/5Wt5uingdBJRJr7aBmFF0Y"
+      },
+      "artists": [
+        {
+          "name": "Sangenjaya",
+          "url": "https://open.spotify.com/artist/5ZrrEKTUqjrI6kAVj5Mfrl"
+        }
+      ],
+      "duration_ms": 155000,
+      "name": "Mitra\u00b4s Morning",
+      "url": "https://open.spotify.com/track/0RqfPOB10K1N5ehf2Tbqfc"
     },
     {
       "added_at": "2024-10-01 12:38:22",
@@ -939,22 +939,6 @@
     {
       "added_at": "2024-10-01 12:38:22",
       "album": {
-        "name": "Natura Deambulatio",
-        "url": "https://open.spotify.com/album/2bptLMr6eyfYPvQjQJqyn2"
-      },
-      "artists": [
-        {
-          "name": "Floating Portal",
-          "url": "https://open.spotify.com/artist/1gxkloW3LpZ1pcP7iqdN5X"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Natura Deambulatio",
-      "url": "https://open.spotify.com/track/2gaji8CCmGrYVh2Ccy69wy"
-    },
-    {
-      "added_at": "2024-10-01 12:38:22",
-      "album": {
         "name": "Robin Choir",
         "url": "https://open.spotify.com/album/15yfgasrD61BQmsYx3gaez"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 179619,
       "name": "Robin Choir",
       "url": "https://open.spotify.com/track/3Hb6TtTURzwXFaBoMkUj2u"
+    },
+    {
+      "added_at": "2024-10-01 12:38:22",
+      "album": {
+        "name": "Natura Deambulatio",
+        "url": "https://open.spotify.com/album/2bptLMr6eyfYPvQjQJqyn2"
+      },
+      "artists": [
+        {
+          "name": "Floating Portal",
+          "url": "https://open.spotify.com/artist/1gxkloW3LpZ1pcP7iqdN5X"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Natura Deambulatio",
+      "url": "https://open.spotify.com/track/2gaji8CCmGrYVh2Ccy69wy"
     },
     {
       "added_at": "2024-10-01 12:38:22",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2024-10-01 12:38:22",
       "album": {
-        "name": "Equipoise",
-        "url": "https://open.spotify.com/album/3ZbKVAGQCVGvLtjKz71txP"
-      },
-      "artists": [
-        {
-          "name": "Everlights",
-          "url": "https://open.spotify.com/artist/000HQdx4eaeWmI51PZmeMZ"
-        }
-      ],
-      "duration_ms": 180857,
-      "name": "Equipoise",
-      "url": "https://open.spotify.com/track/612NwtubGzCA41IJRpYZJh"
-    },
-    {
-      "added_at": "2024-10-01 12:38:22",
-      "album": {
         "name": "Essence of the Forest",
         "url": "https://open.spotify.com/album/1TOKTINDh4DrvQttXSrQKN"
       },
@@ -1243,22 +1227,18 @@
     {
       "added_at": "2024-10-01 12:38:22",
       "album": {
-        "name": "Emergence",
-        "url": "https://open.spotify.com/album/5npmxbN4pCm1CHhjxHmFuf"
+        "name": "Equipoise",
+        "url": "https://open.spotify.com/album/3ZbKVAGQCVGvLtjKz71txP"
       },
       "artists": [
         {
-          "name": "Harmonic Pathways",
-          "url": "https://open.spotify.com/artist/50w3lD1tVFon2IBD8jRBOO"
-        },
-        {
-          "name": "Nature on Record",
-          "url": "https://open.spotify.com/artist/4XC4r2EEPyi9Ox0ZinPaIV"
+          "name": "Everlights",
+          "url": "https://open.spotify.com/artist/000HQdx4eaeWmI51PZmeMZ"
         }
       ],
-      "duration_ms": 157200,
-      "name": "Verdancy",
-      "url": "https://open.spotify.com/track/3mBcz9IUFbbZOWPBRcqSVQ"
+      "duration_ms": 180857,
+      "name": "Equipoise",
+      "url": "https://open.spotify.com/track/612NwtubGzCA41IJRpYZJh"
     },
     {
       "added_at": "2024-10-01 12:38:22",
@@ -1275,6 +1255,26 @@
       "duration_ms": 200000,
       "name": "Espira Naturesque",
       "url": "https://open.spotify.com/track/4rpZd4h0WnZqDr67kLE3KR"
+    },
+    {
+      "added_at": "2024-10-01 12:38:22",
+      "album": {
+        "name": "Emergence",
+        "url": "https://open.spotify.com/album/5npmxbN4pCm1CHhjxHmFuf"
+      },
+      "artists": [
+        {
+          "name": "Harmonic Pathways",
+          "url": "https://open.spotify.com/artist/50w3lD1tVFon2IBD8jRBOO"
+        },
+        {
+          "name": "Nature on Record",
+          "url": "https://open.spotify.com/artist/4XC4r2EEPyi9Ox0ZinPaIV"
+        }
+      ],
+      "duration_ms": 157200,
+      "name": "Verdancy",
+      "url": "https://open.spotify.com/track/3mBcz9IUFbbZOWPBRcqSVQ"
     },
     {
       "added_at": "2024-10-01 12:38:22",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2024-10-01 12:38:22",
       "album": {
-        "name": "Ok Now",
-        "url": "https://open.spotify.com/album/5KrQEiHgtcfvG6OQWw79Gd"
-      },
-      "artists": [
-        {
-          "name": "Everlights",
-          "url": "https://open.spotify.com/artist/000HQdx4eaeWmI51PZmeMZ"
-        }
-      ],
-      "duration_ms": 258716,
-      "name": "Ok Now",
-      "url": "https://open.spotify.com/track/5TxpjKtcv5DPHClGoIbwxJ"
-    },
-    {
-      "added_at": "2024-10-01 12:38:22",
-      "album": {
         "name": "From Sharavati",
         "url": "https://open.spotify.com/album/5PuJEOW1ZbJVvuzLY5sJsm"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 163388,
       "name": "Grounded",
       "url": "https://open.spotify.com/track/4OLwU8YwGCYUAureSrInHQ"
+    },
+    {
+      "added_at": "2024-10-01 12:38:22",
+      "album": {
+        "name": "Ok Now",
+        "url": "https://open.spotify.com/album/5KrQEiHgtcfvG6OQWw79Gd"
+      },
+      "artists": [
+        {
+          "name": "Everlights",
+          "url": "https://open.spotify.com/artist/000HQdx4eaeWmI51PZmeMZ"
+        }
+      ],
+      "duration_ms": 258716,
+      "name": "Ok Now",
+      "url": "https://open.spotify.com/track/5TxpjKtcv5DPHClGoIbwxJ"
     },
     {
       "added_at": "2024-10-01 12:38:22",
@@ -1859,22 +1859,6 @@
     {
       "added_at": "2024-10-01 12:38:22",
       "album": {
-        "name": "Corales (Forest)",
-        "url": "https://open.spotify.com/album/6Vk9EcP1P9eZbY4EKPS0j4"
-      },
-      "artists": [
-        {
-          "name": "Asajj Sadie",
-          "url": "https://open.spotify.com/artist/7dBSSjPi5Web6Ifwg1uiSd"
-        }
-      ],
-      "duration_ms": 159868,
-      "name": "Corales (Forest)",
-      "url": "https://open.spotify.com/track/1Q7PRNKkTFUWdm8OEcv9dq"
-    },
-    {
-      "added_at": "2024-10-01 12:38:22",
-      "album": {
         "name": "Zonder Tijd",
         "url": "https://open.spotify.com/album/0dG6E65OzDafhwiSvgsvxD"
       },
@@ -1891,18 +1875,18 @@
     {
       "added_at": "2024-10-01 12:38:22",
       "album": {
-        "name": "My Small River",
-        "url": "https://open.spotify.com/album/5CkowVwBbCxYp48CVxQ9ph"
+        "name": "Corales (Forest)",
+        "url": "https://open.spotify.com/album/6Vk9EcP1P9eZbY4EKPS0j4"
       },
       "artists": [
         {
-          "name": "Emma Hill",
-          "url": "https://open.spotify.com/artist/1hGnGmcdjO6QvsPqWchLI1"
+          "name": "Asajj Sadie",
+          "url": "https://open.spotify.com/artist/7dBSSjPi5Web6Ifwg1uiSd"
         }
       ],
-      "duration_ms": 179250,
-      "name": "My Small River",
-      "url": "https://open.spotify.com/track/5fN8PCKlavnzmBMXIO0tOA"
+      "duration_ms": 159868,
+      "name": "Corales (Forest)",
+      "url": "https://open.spotify.com/track/1Q7PRNKkTFUWdm8OEcv9dq"
     },
     {
       "added_at": "2024-10-01 12:38:22",
@@ -1923,18 +1907,18 @@
     {
       "added_at": "2024-10-01 12:38:22",
       "album": {
-        "name": "Sense",
-        "url": "https://open.spotify.com/album/42kJPHsjCUyjlDvkGKvR8B"
+        "name": "My Small River",
+        "url": "https://open.spotify.com/album/5CkowVwBbCxYp48CVxQ9ph"
       },
       "artists": [
         {
-          "name": "Waves of Life",
-          "url": "https://open.spotify.com/artist/26zGB9qZrnUkREvqTaddnd"
+          "name": "Emma Hill",
+          "url": "https://open.spotify.com/artist/1hGnGmcdjO6QvsPqWchLI1"
         }
       ],
-      "duration_ms": 188571,
-      "name": "Sense",
-      "url": "https://open.spotify.com/track/6NCysERXVV7R2ot0MXsEOV"
+      "duration_ms": 179250,
+      "name": "My Small River",
+      "url": "https://open.spotify.com/track/5fN8PCKlavnzmBMXIO0tOA"
     },
     {
       "added_at": "2024-10-01 12:38:22",
@@ -1951,6 +1935,22 @@
       "duration_ms": 174191,
       "name": "Chitwan Longing",
       "url": "https://open.spotify.com/track/2HVEoqPXUYIVeshrfufq0u"
+    },
+    {
+      "added_at": "2024-10-01 12:38:22",
+      "album": {
+        "name": "Sense",
+        "url": "https://open.spotify.com/album/42kJPHsjCUyjlDvkGKvR8B"
+      },
+      "artists": [
+        {
+          "name": "Waves of Life",
+          "url": "https://open.spotify.com/artist/26zGB9qZrnUkREvqTaddnd"
+        }
+      ],
+      "duration_ms": 188571,
+      "name": "Sense",
+      "url": "https://open.spotify.com/track/6NCysERXVV7R2ot0MXsEOV"
     },
     {
       "added_at": "2024-10-01 12:38:22",
@@ -2035,22 +2035,6 @@
     {
       "added_at": "2024-10-01 12:38:22",
       "album": {
-        "name": "The Tone Of Willingness",
-        "url": "https://open.spotify.com/album/5TMPEcTcOqawK7lYsLsSh3"
-      },
-      "artists": [
-        {
-          "name": "unvrsl frqncy",
-          "url": "https://open.spotify.com/artist/57MWtuK2Td08YgvBJg2EQm"
-        }
-      ],
-      "duration_ms": 164202,
-      "name": "The Tone Of Willingness Nature",
-      "url": "https://open.spotify.com/track/2GgRVa0s3OhSZ49dOlfM21"
-    },
-    {
-      "added_at": "2024-10-01 12:38:22",
-      "album": {
         "name": "Soothing River Currents",
         "url": "https://open.spotify.com/album/74sFp2e1f4L9PKjonje0J5"
       },
@@ -2067,6 +2051,22 @@
     {
       "added_at": "2024-10-01 12:38:22",
       "album": {
+        "name": "The Tone Of Willingness",
+        "url": "https://open.spotify.com/album/5TMPEcTcOqawK7lYsLsSh3"
+      },
+      "artists": [
+        {
+          "name": "unvrsl frqncy",
+          "url": "https://open.spotify.com/artist/57MWtuK2Td08YgvBJg2EQm"
+        }
+      ],
+      "duration_ms": 164202,
+      "name": "The Tone Of Willingness Nature",
+      "url": "https://open.spotify.com/track/2GgRVa0s3OhSZ49dOlfM21"
+    },
+    {
+      "added_at": "2024-10-01 12:38:22",
+      "album": {
         "name": "Namah",
         "url": "https://open.spotify.com/album/3djFQUnR2voGmw4ij4rCyU"
       },
@@ -2079,22 +2079,6 @@
       "duration_ms": 199200,
       "name": "Namah (Nature)",
       "url": "https://open.spotify.com/track/7o4049cAwsfXczrQeB9GOP"
-    },
-    {
-      "added_at": "2024-10-01 12:38:22",
-      "album": {
-        "name": "Visie",
-        "url": "https://open.spotify.com/album/03IvFQYVBG3UO2m4dkLVHW"
-      },
-      "artists": [
-        {
-          "name": "Femke Edelijn",
-          "url": "https://open.spotify.com/artist/2iJS3V46m6nQHD74m6pD7G"
-        }
-      ],
-      "duration_ms": 161142,
-      "name": "Visie",
-      "url": "https://open.spotify.com/track/57mmBXolEEyg7pQZfmLB3Y"
     },
     {
       "added_at": "2024-10-01 12:38:22",
@@ -2131,6 +2115,22 @@
     {
       "added_at": "2024-10-01 12:38:22",
       "album": {
+        "name": "Visie",
+        "url": "https://open.spotify.com/album/03IvFQYVBG3UO2m4dkLVHW"
+      },
+      "artists": [
+        {
+          "name": "Femke Edelijn",
+          "url": "https://open.spotify.com/artist/2iJS3V46m6nQHD74m6pD7G"
+        }
+      ],
+      "duration_ms": 161142,
+      "name": "Visie",
+      "url": "https://open.spotify.com/track/57mmBXolEEyg7pQZfmLB3Y"
+    },
+    {
+      "added_at": "2024-10-01 12:38:22",
+      "album": {
         "name": "The Dwelling Place",
         "url": "https://open.spotify.com/album/3hiRwsgc4MzGqKbS45TJpN"
       },
@@ -2147,22 +2147,6 @@
     {
       "added_at": "2024-10-01 12:38:22",
       "album": {
-        "name": "Fire Light",
-        "url": "https://open.spotify.com/album/4EdKhnX4aWyP0AzSwnmVWd"
-      },
-      "artists": [
-        {
-          "name": "The Golden Peas",
-          "url": "https://open.spotify.com/artist/2O29EK5hLrDu3Pr5K3r250"
-        }
-      ],
-      "duration_ms": 175152,
-      "name": "Fire Light",
-      "url": "https://open.spotify.com/track/4FKjdm6uLmTiw8xYrliKAq"
-    },
-    {
-      "added_at": "2024-10-01 12:38:22",
-      "album": {
         "name": "Eutony",
         "url": "https://open.spotify.com/album/07AlM5Zxu1B4WYKLUtoZlP"
       },
@@ -2175,6 +2159,22 @@
       "duration_ms": 158294,
       "name": "Eutony",
       "url": "https://open.spotify.com/track/5HAdowEFhhgJw4q82GFDjt"
+    },
+    {
+      "added_at": "2024-10-01 12:38:22",
+      "album": {
+        "name": "Fire Light",
+        "url": "https://open.spotify.com/album/4EdKhnX4aWyP0AzSwnmVWd"
+      },
+      "artists": [
+        {
+          "name": "The Golden Peas",
+          "url": "https://open.spotify.com/artist/2O29EK5hLrDu3Pr5K3r250"
+        }
+      ],
+      "duration_ms": 175152,
+      "name": "Fire Light",
+      "url": "https://open.spotify.com/track/4FKjdm6uLmTiw8xYrliKAq"
     },
     {
       "added_at": "2024-10-01 12:38:22",
@@ -2243,6 +2243,22 @@
     {
       "added_at": "2024-10-01 12:38:22",
       "album": {
+        "name": "You are a miracle",
+        "url": "https://open.spotify.com/album/0eZSO9dRfHPub2fkBev7nE"
+      },
+      "artists": [
+        {
+          "name": "Amosento",
+          "url": "https://open.spotify.com/artist/1TA2SmsBfupnHplKJkEajW"
+        }
+      ],
+      "duration_ms": 223255,
+      "name": "Up Above",
+      "url": "https://open.spotify.com/track/3OIg6QE59Pye3cK1oRCp54"
+    },
+    {
+      "added_at": "2024-10-01 12:38:22",
+      "album": {
         "name": "Portraits (Sound Bath)",
         "url": "https://open.spotify.com/album/7Eh16NCTsAbz4jtNoRWqh7"
       },
@@ -2271,22 +2287,6 @@
       "duration_ms": 168010,
       "name": "The Unknown",
       "url": "https://open.spotify.com/track/2Ty0lPGjFDvIKKwRuZqGg4"
-    },
-    {
-      "added_at": "2024-10-01 12:38:22",
-      "album": {
-        "name": "You are a miracle",
-        "url": "https://open.spotify.com/album/0eZSO9dRfHPub2fkBev7nE"
-      },
-      "artists": [
-        {
-          "name": "Amosento",
-          "url": "https://open.spotify.com/artist/1TA2SmsBfupnHplKJkEajW"
-        }
-      ],
-      "duration_ms": 223255,
-      "name": "Up Above",
-      "url": "https://open.spotify.com/track/3OIg6QE59Pye3cK1oRCp54"
     },
     {
       "added_at": "2024-10-01 12:38:22",

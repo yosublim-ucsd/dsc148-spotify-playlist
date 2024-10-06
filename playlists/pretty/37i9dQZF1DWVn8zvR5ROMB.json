@@ -1,6 +1,6 @@
 {
   "description": "All of the newest country songs in one playlist! Featuring Megan Moroney, Nate Smith, Tucker Wetmore and more.",
-  "num_followers": 293542,
+  "num_followers": 293712,
   "original_name": "All New Country",
   "owner": {
     "name": "Spotify",
@@ -340,16 +340,16 @@
       },
       "artists": [
         {
+          "name": "The Band Of Heathens",
+          "url": "https://open.spotify.com/artist/5K4gVy6DhNd39mSjuK95Y7"
+        },
+        {
           "name": "Hayes Carll",
           "url": "https://open.spotify.com/artist/6UWifcscEdbjPgmbevBxZV"
         },
         {
           "name": "Hayes & The Heathens",
           "url": "https://open.spotify.com/artist/1r7ZYK2hcsFTw5LjWSv9Cm"
-        },
-        {
-          "name": "The Band Of Heathens",
-          "url": "https://open.spotify.com/artist/5K4gVy6DhNd39mSjuK95Y7"
         }
       ],
       "duration_ms": 243896,

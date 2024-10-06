@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRLa2gxBNsq.md) - [plain]
 
 > No, el punk español NO ESTÁ MUERTO\. Foto: La Polla Records.
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,433 likes - 100 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,455 likes - 100 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRLa2gxBNsq.md) - [plain]
 | 82 | [Sálvate Si Puedes \- Remasterizado 2024](https://open.spotify.com/track/7a7Cno4XnbKNUuIw2SCmv9) | [Salvate Si Puedes](https://open.spotify.com/artist/67ewRE9t9RsKG7pOWZtaac) | [A Quien Pueda Interesar \(Remasterizado 2024\)](https://open.spotify.com/album/0jk5qU3Z9l4EASdK6Avc8Q) | 2:45 |
 | 83 | [Sabor a Plomo](https://open.spotify.com/track/4hc7wJtn6lWgD6eAmcfjq0) | [Belial](https://open.spotify.com/artist/2SDf1CeFMHEop1lzdpvS28) | [Sabor a Plomo](https://open.spotify.com/album/4CR0loWGYTsMyIgY8kybeh) | 3:19 |
 | 84 | [No tengo solucion para ese problema](https://open.spotify.com/track/42ySJfPHlWx0jKRDyttptR) | [A Cuchillo](https://open.spotify.com/artist/5uk2dAd5kCHIyMlKxJNGIZ) | [No tengo solucion para ese problema](https://open.spotify.com/album/4vddeU0f9ZtVa9S5oD11aa) | 2:55 |
-| 85 | [Vpo](https://open.spotify.com/track/3Eo8g7AdbPGmODRv3yZidD) | [Bellotaris Fallecidos](https://open.spotify.com/artist/7witIEaYssgO9srRY85ZLl) | [Y el Que Sea Feo Que Haga los Recaos de Noche](https://open.spotify.com/album/5I2wNu3nGj7oHCIFtH1Yne) | 1:36 |
-| 86 | [Una Noche Más](https://open.spotify.com/track/4nUVcqvsg0jq4Z0KEfttXw) | [Debruces](https://open.spotify.com/artist/6h3LUhp2WSoTAeOEYHa62S) | [Una Noche Más](https://open.spotify.com/album/4ejbet0sT4xw2xs4IAmxE7) | 3:32 |
+| 85 | [Una Noche Más](https://open.spotify.com/track/4nUVcqvsg0jq4Z0KEfttXw) | [Debruces](https://open.spotify.com/artist/6h3LUhp2WSoTAeOEYHa62S) | [Una Noche Más](https://open.spotify.com/album/4ejbet0sT4xw2xs4IAmxE7) | 3:32 |
+| 86 | [Vpo](https://open.spotify.com/track/3Eo8g7AdbPGmODRv3yZidD) | [Bellotaris Fallecidos](https://open.spotify.com/artist/7witIEaYssgO9srRY85ZLl) | [Y el Que Sea Feo Que Haga los Recaos de Noche](https://open.spotify.com/album/5I2wNu3nGj7oHCIFtH1Yne) | 1:36 |
 | 87 | [Humanos](https://open.spotify.com/track/0JVOmtC52642nz9zGvIPyY) | [Akritud](https://open.spotify.com/artist/42RTZ2sSvtQ2BkzbOT29SX) | [Humanos](https://open.spotify.com/album/1HWIcVUKJkWpZ5IF2RsRzy) | 2:31 |
 | 88 | [Basura](https://open.spotify.com/track/2Lwyx3R8KUFq2bHuiwccty) | [Pota en la Sopa](https://open.spotify.com/artist/4fOyA8pQ1Td1iE1kCPKCOO) | [Basura](https://open.spotify.com/album/1hSJoS6GhfnxqtJabaTXhg) | 2:50 |
 | 89 | [Levántate](https://open.spotify.com/track/15q28HNmhNYk55EdSh55NV) | [Demenzia Sozial](https://open.spotify.com/artist/7HRSS0s7sgWTvK4q7MDy2O) | [Levántate](https://open.spotify.com/album/2guNq5RrYZ1pYEpcCYD4M5) | 3:52 |
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRLa2gxBNsq.md) - [plain]
 | 93 | [Nada que me haga resurgir](https://open.spotify.com/track/0HIfkUaLyb4V3F3sFdu6zt) | [A Cuchillo](https://open.spotify.com/artist/5uk2dAd5kCHIyMlKxJNGIZ) | [Nada que me haga resurgir](https://open.spotify.com/album/6adyHHRjUSRHF3P7ZzENEI) | 3:07 |
 | 94 | [La locura \- original](https://open.spotify.com/track/4qoiW7KuyMkiShQgZkRGc6) | [Parabellum](https://open.spotify.com/artist/0JbJ9sG3cB719QmmkIRTPQ) | [Hace falta…?](https://open.spotify.com/album/5t0HwnzCCMGcMmervnzQRY) | 3:53 |
 | 95 | [Gernika](https://open.spotify.com/track/2U24O0XkSyQ36T8yMnaeDp) | [M.C.D.](https://open.spotify.com/artist/2sKHlDMJUO4uCZLsEmcun3) | [Jódete](https://open.spotify.com/album/1AQXxv2pGU4QSh6v34FufL) | 3:47 |
-| 96 | [Herida de guerra](https://open.spotify.com/track/16MDTJlQK8LcZW9IkladLD) | [Konsumo Respeto](https://open.spotify.com/artist/1RmcjyvKHwr9TCZqfHMflP) | [Ahora que se ha ido el sol](https://open.spotify.com/album/1uM5thAotEBcFCuF0G4eJl) | 4:00 |
-| 97 | [Lola](https://open.spotify.com/track/1KWMzs6oRaLkQRVv1KbRbZ) | [Cicatriz](https://open.spotify.com/artist/7f3sBMcnvGfOkHiKmeXtIz) | [4 Años, 2 Meses y 1 Día](https://open.spotify.com/album/3yPZHsg4nV3oH8ZZsxiwPD) | 3:40 |
-| 98 | [Y sigo en pie](https://open.spotify.com/track/1mHavFRruSCwupKzTVGoys) | [Skontra](https://open.spotify.com/artist/3HlwB3k98CWsCN3o6nxQPi), [Odio Visceral](https://open.spotify.com/artist/2lwEjYspY5gmirh0mSmliA) | [Semeya de la Rabia](https://open.spotify.com/album/7k0IbB4wqVVTof6Z8kGG1F) | 4:02 |
-| 99 | [Enamorado de la Muerte](https://open.spotify.com/track/4en5NpD2ZD6CpHeHIFTbzp) | [RIP](https://open.spotify.com/artist/4P40mhKEotTwKd3cFNtwG4) | [No Te Muevas y Zona Especial Norte](https://open.spotify.com/album/37R9s562KSQPqUm2TYWe7h) | 3:46 |
-| 100 | [Las Drogas](https://open.spotify.com/track/12UZTr5xsKm79TzQkmYRUf) | [Segismundo Toxicómano](https://open.spotify.com/artist/0sKBEhvr6hz7Wpptw0fY8U) | [Un, Dos, Tres, Fuego](https://open.spotify.com/album/6KqECOoCoekQjpDd0oIYxS) | 2:22 |
+| 96 | [Las Drogas](https://open.spotify.com/track/12UZTr5xsKm79TzQkmYRUf) | [Segismundo Toxicómano](https://open.spotify.com/artist/0sKBEhvr6hz7Wpptw0fY8U) | [Un, Dos, Tres, Fuego](https://open.spotify.com/album/6KqECOoCoekQjpDd0oIYxS) | 2:22 |
+| 97 | [Herida de guerra](https://open.spotify.com/track/16MDTJlQK8LcZW9IkladLD) | [Konsumo Respeto](https://open.spotify.com/artist/1RmcjyvKHwr9TCZqfHMflP) | [Ahora que se ha ido el sol](https://open.spotify.com/album/1uM5thAotEBcFCuF0G4eJl) | 4:00 |
+| 98 | [Lola](https://open.spotify.com/track/1KWMzs6oRaLkQRVv1KbRbZ) | [Cicatriz](https://open.spotify.com/artist/7f3sBMcnvGfOkHiKmeXtIz) | [4 Años, 2 Meses y 1 Día](https://open.spotify.com/album/3yPZHsg4nV3oH8ZZsxiwPD) | 3:40 |
+| 99 | [Y sigo en pie](https://open.spotify.com/track/1mHavFRruSCwupKzTVGoys) | [Skontra](https://open.spotify.com/artist/3HlwB3k98CWsCN3o6nxQPi), [Odio Visceral](https://open.spotify.com/artist/2lwEjYspY5gmirh0mSmliA) | [Semeya de la Rabia](https://open.spotify.com/album/7k0IbB4wqVVTof6Z8kGG1F) | 4:02 |
+| 100 | [Enamorado de la Muerte](https://open.spotify.com/track/4en5NpD2ZD6CpHeHIFTbzp) | [RIP](https://open.spotify.com/artist/4P40mhKEotTwKd3cFNtwG4) | [No Te Muevas y Zona Especial Norte](https://open.spotify.com/album/37R9s562KSQPqUm2TYWe7h) | 3:46 |
 
 Snapshot ID: `Zv8T4AAAAACqg7nNVnQy1sWDQ7Ts0gcf`

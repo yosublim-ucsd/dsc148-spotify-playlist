@@ -4,7 +4,7 @@
 
 > A salute to all of the women opening up the pit\. Cover: Poppy
 
-351 songs - 22 hr 19 min
+352 songs - 22 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -209,11 +209,11 @@
 | [Nemo](https://open.spotify.com/track/1RNwniZkJqdw9LMkkyynjx) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Once](https://open.spotify.com/album/2wM6svkNOCsYP8sr9gP2zc) | 4:36 | 2022-11-18 |  |
 | [Nemo](https://open.spotify.com/track/5OF7nhjVV0dmngqYjDrZGw) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Once](https://open.spotify.com/album/0aDCpYtFdQ0S8C3oAtOonk) | 4:36 | 2022-10-03 | 2023-05-07 |
 | [Never Die](https://open.spotify.com/track/5nFyBTvOprvEosMaZCGVU9) | [Allen/Olzon](https://open.spotify.com/artist/34W3MmEwZVbj136Xk3G2EK) | [Never Die](https://open.spotify.com/album/3ewJ6ftp5b87dcVoMYbmDI) | 5:47 | 2020-12-07\* | 2022-07-17 |
-| [New Way Out](https://open.spotify.com/track/7rQeehJRFCNTwqDffP8c5t) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [New Way Out](https://open.spotify.com/album/5O5jhPYHp94APEJRWR9XSD) | 3:22 | 2024-07-19 |  |
+| [new way out](https://open.spotify.com/track/7rQeehJRFCNTwqDffP8c5t) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [new way out](https://open.spotify.com/album/5O5jhPYHp94APEJRWR9XSD) | 3:22 | 2024-07-19 |  |
 | [No More Hollywood Endings](https://open.spotify.com/track/0S8hHlISzm8GebwdtTDPkD) | [Battle Beast](https://open.spotify.com/artist/7k5jeohQCF20a8foBD9ize) | [No More Hollywood Endings](https://open.spotify.com/album/27a6npYtoMBSwG9qqNoQvM) | 3:54 | 2020-12-07\* | 2021-02-06 |
 | [Noise](https://open.spotify.com/track/0RZVAhyB8vhxQz6ITjiuyA) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [HUMAN\. :II: NATURE.](https://open.spotify.com/album/1iSsdlURK7CGUVlcz4M5Li) | 5:40 | 2022-03-11 | 2023-01-02 |
 | [Noise](https://open.spotify.com/track/2a3sZJP4uTrNQbj0EdiUuV) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Noise](https://open.spotify.com/album/6gOIHf3Y3W7uTe8ERFYzex) | 5:40 | 2020-12-07\* | 2024-05-17 |
-| [Not My God Anymore](https://open.spotify.com/track/4hsf9k441EY0OH9f2tYpiQ) | [Harpy](https://open.spotify.com/artist/0fLFfyc0914STFxEyQHZhX) | [Not My God Anymore](https://open.spotify.com/album/35UC41GShM2LG3pm07LSbL) | 2:50 | 2024-07-19 |  |
+| [Not My God Anymore](https://open.spotify.com/track/4hsf9k441EY0OH9f2tYpiQ) | [Harpy](https://open.spotify.com/artist/0fLFfyc0914STFxEyQHZhX) | [Not My God Anymore](https://open.spotify.com/album/35UC41GShM2LG3pm07LSbL) | 2:50 | 2024-07-19 | 2024-10-06 |
 | [not my problem](https://open.spotify.com/track/6REifHhHFQcRHdhzOgYwHU) | [TAELA](https://open.spotify.com/artist/0UpJN0IU36gOyMJLHYHTYq) | [not my problem](https://open.spotify.com/album/1RXp2Zm2Mfr16wZgCM52S2) | 2:09 | 2023-02-10 | 2023-10-23 |
 | [not my problem](https://open.spotify.com/track/4FYk0LZ86J7DYUEBcs7e3G) | [TAELA](https://open.spotify.com/artist/0UpJN0IU36gOyMJLHYHTYq) | [life's a bitch..\. but it gets better](https://open.spotify.com/album/2bRpk2HmQS7y9SEyKnybUq) | 2:09 | 2023-09-15 | 2024-04-19 |
 | [Off With Your Head](https://open.spotify.com/track/0rHCGInwbNkiZk7Etet5KK) | [RedHook](https://open.spotify.com/artist/6OVWDN6Ty6RfnhUJlrYBlI) | [Off With Your Head](https://open.spotify.com/album/36BR0I2BVvsXsIl0pF4fQ5) | 2:12 | 2023-02-03 | 2023-05-08 |
@@ -238,6 +238,7 @@
 | [Play the Greatest Hits](https://open.spotify.com/track/0rSuev4QLH0DydIV7PosuX) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Blue Weekend](https://open.spotify.com/album/1VCTWaze9kuY5IDlbtR5p0) | 2:27 | 2022-03-11 | 2022-11-26 |
 | [Poison](https://open.spotify.com/track/19Rr3ODfVAbleAlXhnNG3Z) | [BUNNY](https://open.spotify.com/artist/5Dccem9dkRqim9eKHXkSd3) | [Poison](https://open.spotify.com/album/5U8IQqKfTpAAdVtTgwpNTr) | 2:52 | 2024-03-26 | 2024-06-21 |
 | [Popular Monster](https://open.spotify.com/track/3BqzUoMXksxJZ0dqtPMiWo) | [Halocene](https://open.spotify.com/artist/1S4xN9nvW5vlFoRBisdxUL), [Lauren Babic](https://open.spotify.com/artist/6nT7RjBCuuggrafnb43vUX) | [Popular Monster](https://open.spotify.com/album/73OBNhPJKktJ2cQFh0x1VC) | 3:50 | 2021-05-15 |  |
+| [Prayers](https://open.spotify.com/track/1zkFOuPlR9fa6RVMVcPt1f) | [In This Moment](https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT) | [Beautiful Tragedy](https://open.spotify.com/album/1qPnZBLqLtVw6ER90x84Wb) | 3:46 | 2024-07-19 |  |
 | [Pretending](https://open.spotify.com/track/3qbl4QTZdIDTeTXyGTQdFY) | [Kaleido](https://open.spotify.com/artist/3GDe9vz83X0nbdUFw5Pmim) | [NO RLY...IM FINE](https://open.spotify.com/album/1Dlp7osne6UUIeJeDc1axR) | 3:35 | 2020-12-07\* | 2021-05-15 |
 | [R.E.D.](https://open.spotify.com/track/1i02PIDgVFoDNcTVZv4Ccd) | [Simone Simons](https://open.spotify.com/artist/5Mbm3otSC2eWtbfbwOBgw4), [Ayreon](https://open.spotify.com/artist/2RSApl0SXcVT8Yiy4UaPSt) | [R.E.D.](https://open.spotify.com/album/6GIIE5AwJY3FJVwKinolTl) | 4:03 | 2024-07-19 | 2024-09-02 |
 | [Radio Silence](https://open.spotify.com/track/57ptt4wnK1PjkPCiRrwKYL) | [A Light Divided](https://open.spotify.com/artist/5xnKKbSzhpsKoPiAjD2yvV) | [Radio Silence](https://open.spotify.com/album/25PoIyxB5owLh2UUp5LyR4) | 3:08 | 2020-12-07\* | 2022-07-26 |

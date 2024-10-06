@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIO2QWRavWZ.md) - [plain]
 
 > “To the women who inspired my vulnerability and authenticity\. Happy 5 year anniversary to Over It!” \- Summer Walker
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,284 likes - 57 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,515 likes - 57 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

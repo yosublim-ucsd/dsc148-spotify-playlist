@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TqmALHVh5A.md) - [plain]
 
 > La scène française branchée sur courant alternatif\. Photo : Aime Simone
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,078 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,088 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TqmALHVh5A.md) - [plain]
 | 3 | [Clover Paradise](https://open.spotify.com/track/3WT0j8yvZHAM6HVArq1LX0) | [La Femme](https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI) | [Clover Paradise](https://open.spotify.com/album/2suW4wxHSdhU0uK4gGuMui) | 5:09 |
 | 4 | [PTSMR](https://open.spotify.com/track/3IwsDBOjSZ0IJa71mXjqRZ) | [THÉA](https://open.spotify.com/artist/6GGkEuZHoNpJsKYNZml2gL), [Rok.wav](https://open.spotify.com/artist/34AMiSMNdLIBS0NapVfzLz), [Dudu.wav](https://open.spotify.com/artist/2fyTjHpxa1sFTxYYIgV7YO) | [PTSMR](https://open.spotify.com/album/4rQL2TSwLZobwftESuhn5J) | 3:00 |
 | 5 | [Je t'emmènerai](https://open.spotify.com/track/2Mv1tPuwMAHQHA2CalxQi5) | [St Graal](https://open.spotify.com/artist/7Kgv8CorcAKsG4of90vA5I) | [Je t'emmènerai](https://open.spotify.com/album/3YhrhemEcuxGllGaet7vJB) | 2:55 |
-| 6 | [DEEP HOLES](https://open.spotify.com/track/6OL3oeNSREzPpS0x0oCAM4) | [Rahim C Redcar](https://open.spotify.com/artist/4fWWr45mgLHAV8DPJR3vdW) | [HOPECORE](https://open.spotify.com/album/7ipRsT2BVjkSXzZoljpRbw) | 4:46 |
+| 6 | [DEEP HOLES](https://open.spotify.com/track/6OL3oeNSREzPpS0x0oCAM4) | [Rahim Redcar](https://open.spotify.com/artist/4fWWr45mgLHAV8DPJR3vdW) | [HOPECORE](https://open.spotify.com/album/7ipRsT2BVjkSXzZoljpRbw) | 4:46 |
 | 7 | [The Mouse Song](https://open.spotify.com/track/4tAegyavCCwyqEOetfu7fx) | [Zed Yun Pavarotti](https://open.spotify.com/artist/2TM7WyJwjfD5wKyX9OtIWJ) | [The Mouse Song](https://open.spotify.com/album/024jMwMFAihosS9nj0pvv0) | 3:33 |
 | 8 | [petit escargot](https://open.spotify.com/track/0ixhSe9nDUyz89Jr36EU3C) | [Colas](https://open.spotify.com/artist/7gVIUgoWlvt4aXBkwqYIrc) | [petit escargot](https://open.spotify.com/album/06Nr7DJDtxzLQYrMNbnWjJ) | 3:22 |
 | 9 | [Amour Scandaleux](https://open.spotify.com/track/0ffjGmdQAMy2JLxI3vyuHG) | [Liv del Estal](https://open.spotify.com/artist/2QFqSnoWpKrh7zmNrFQltY) | [Amour Scandaleux](https://open.spotify.com/album/499lMyd1cf4i5c98NkOUWF) | 3:12 |
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TqmALHVh5A.md) - [plain]
 | 26 | [Lune](https://open.spotify.com/track/2PH10Pa1Yb2yMBZNzeF4Uy) | [Walter Astral](https://open.spotify.com/artist/70OFPH4Nv3kFhCgUU9oGqC) | [Lune](https://open.spotify.com/album/3NFrg3aQ6xeVCaTcfk65iC) | 3:45 |
 | 27 | [Premier Baiser](https://open.spotify.com/track/6zKP5wtxXNpzDWxcHA9LRa) | [St Graal](https://open.spotify.com/artist/7Kgv8CorcAKsG4of90vA5I), [KALIKA](https://open.spotify.com/artist/0UgxFqJmwkpojz4mHBsRpD) | [Premier Baiser](https://open.spotify.com/album/3pEJyWEz9kGVYzXE9j9MZt) | 2:50 |
 | 28 | [Géant](https://open.spotify.com/track/1o9XESUAUgS3iVVt6KyHcX) | [Magenta Club](https://open.spotify.com/artist/5du1Lf0YKbak13Ym58jKsA) | [x 1000](https://open.spotify.com/album/0HW9HpXzElTKhAOcF5OJo5) | 4:11 |
-| 29 | [babyBB](https://open.spotify.com/track/3QdDaachbgJdrWgAXfYBVZ) | [Ofé](https://open.spotify.com/artist/6BStglzFvs6FDKMzHbZzV0) | [babyBB](https://open.spotify.com/album/7cNKxHYLzPobRtCsnXzjRD) | 3:20 |
+| 29 | [babyBB](https://open.spotify.com/track/3QdDaachbgJdrWgAXfYBVZ) | [Ofé](https://open.spotify.com/artist/6BStglzFvs6FDKMzHbZzV0) | [babyBB \[ARCHIVE\]](https://open.spotify.com/album/7cNKxHYLzPobRtCsnXzjRD) | 3:20 |
 | 30 | [Rien ne m'attend](https://open.spotify.com/track/7e2FWChR7ThlwRYvSgC0fw) | [Thx4Crying](https://open.spotify.com/artist/0J0Cjv3dejTUnksQtxpZP9) | [Rien ne m'attend](https://open.spotify.com/album/2Jgo7OfMRo64c0LQPmfiBn) | 3:20 |
 | 31 | [VHS](https://open.spotify.com/track/18L4W0H4hNw3KODrldn1iS) | [Akira & le Sabbat](https://open.spotify.com/artist/1beqcw5P0wds8IzLuuAxZp) | [Poudrière](https://open.spotify.com/album/0fPpc3P9BOMJNdrQXYeArA) | 2:43 |
 | 32 | [Le silence](https://open.spotify.com/track/2HxU432YufOpu8qaJIed2P) | [Juniore](https://open.spotify.com/artist/1vxsourLLLfobrxyWAcuQH) | [Le silence](https://open.spotify.com/album/3t6o8bS45YQGnLC5xH3DNU) | 3:25 |

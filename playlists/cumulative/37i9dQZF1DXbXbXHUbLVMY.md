@@ -4,7 +4,7 @@
 
 > Skandinavisk hiphop som holder det 100! 🚨
 
-233 songs - 10 hr 10 min
+234 songs - 10 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,6 +150,7 @@
 | [Medellín](https://open.spotify.com/track/3Nk5Q7giZdRoq1gi71dQYe) | [Awave](https://open.spotify.com/artist/2zrzhtWVPEcj1btFiRDQlF) | [Medellín](https://open.spotify.com/album/7iuuXm3zoZsHhJJHPZgeF8) | 2:56 | 2024-07-18 | 2024-08-16 |
 | [Ment for hverandre](https://open.spotify.com/track/2ruaU00oF7QNnZl3pU6IDo) | [Stig Brenner](https://open.spotify.com/artist/35j3Bv3gRKUHbiFSxVjjIf) | [Det var aldri meg](https://open.spotify.com/album/5IqtgESYSJ5kiGVd8xGyOJ) | 3:14 | 2023-10-26 |  |
 | [Michelin Stjerner](https://open.spotify.com/track/4KjHgPOIsA8LlMwyAJRlfv) | [UNDERGRUNN](https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb) | [Egoland](https://open.spotify.com/album/7pNnH6DtwnTYEQOrrGAzlO) | 3:04 | 2023-09-21 | 2024-06-01 |
+| [MIDDELS DEPPA MILLIONÆR](https://open.spotify.com/track/14HAQu50AX51cSSmk6zsS5) | [Blackie](https://open.spotify.com/artist/1joI1TtwOZm1XZxyiPnn7S) | [MIDDELS DEPPA MILLIONÆR](https://open.spotify.com/album/1C7J7JOEbNr8mtQxypHB6y) | 2:26 | 2024-10-03 |  |
 | [Millions](https://open.spotify.com/track/2h5GOVxIHF4jJCvIGa8xIq) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA), [Shenzi Beats](https://open.spotify.com/artist/5WYsyPCS4zOpvqAtBgrGqg) | [Millions](https://open.spotify.com/album/3MAwZL5tB0PKU5DDcB0Ic4) | 2:01 | 2023-11-16 | 2023-12-30 |
 | [Millions](https://open.spotify.com/track/6Mel5VQ8UQXDT4aetZvzWg) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA), [Shenzi Beats](https://open.spotify.com/artist/5WYsyPCS4zOpvqAtBgrGqg) | [Millions](https://open.spotify.com/album/3Xdn3e64AD2PB90zCsA7i0) | 2:01 | 2023-09-21 | 2023-11-11 |
 | [MIRAKEL](https://open.spotify.com/track/1ppD3jRl8UriqKa5G7ncMJ) | [Ant Wan](https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy) | [FOR THOSE WHO BELIEVED](https://open.spotify.com/album/2AkCxCyJMIoMe07c3dUnkv) | 3:11 | 2024-02-09 | 2024-03-01 |
@@ -176,7 +177,7 @@
 | [Psykopat](https://open.spotify.com/track/4ImKE5dAPoZoDxKKwIimhn) | [Steph K](https://open.spotify.com/artist/4vmK9BYZz3j7jEWiHQJU6G) | [Psykopat](https://open.spotify.com/album/04b3i3XY9YuRuP8dIKxh9d) | 2:09 | 2023-10-05 | 2024-01-23 |
 | [Radarn](https://open.spotify.com/track/4UE7hlOZn503ENaMi6Nilm) | [ROMANOS](https://open.spotify.com/artist/5GT8ltnqVPe7Zf8Ynrb5mV), [Greekazo](https://open.spotify.com/artist/0I0zS0aiq9JeGMBT45x6d8), [B.Baby](https://open.spotify.com/artist/0uuwZ3aC3dhl9e7J66Ag13) | [Radarn](https://open.spotify.com/album/7jIXkYfDU9nZ9Y01ehHYte) | 2:03 | 2024-08-15 |  |
 | [Real Life \(feat\. Arif Murakami\)](https://open.spotify.com/track/2rHUkDDrpg9U2gW530WZNi) | [Rambow](https://open.spotify.com/artist/5h1MClpZogAdkdxL9wMXt9), [Arif Murakami](https://open.spotify.com/artist/46pSx5MtwhorubZuHbwM0Q) | [Real Life \(feat\. Arif Murakami\)](https://open.spotify.com/album/1K1EtcXwQuy4pxyXABzC5k) | 2:31 | 2024-09-26 |  |
-| [rizla \(feat\. Siyabång\)](https://open.spotify.com/track/2awCNwTAJwnTDWK5P0PHKb) | [Tyr](https://open.spotify.com/artist/3PgCoKtxkxF046P2FM7SFE), [Siyabång](https://open.spotify.com/artist/6Ry0CvCsPRp7Z9qewvxYBK) | [4 the summer](https://open.spotify.com/album/2mbPM7vQa2XQJFDJbyzJBH) | 3:21 | 2024-06-20 |  |
+| [rizla \(feat\. Siyabång\)](https://open.spotify.com/track/2awCNwTAJwnTDWK5P0PHKb) | [Tyr](https://open.spotify.com/artist/3PgCoKtxkxF046P2FM7SFE), [Siyabång](https://open.spotify.com/artist/6Ry0CvCsPRp7Z9qewvxYBK) | [4 the summer](https://open.spotify.com/album/2mbPM7vQa2XQJFDJbyzJBH) | 3:21 | 2024-06-20 | 2024-10-06 |
 | [ROCKARE](https://open.spotify.com/track/3vVdmgwmY5xbKQ3Oh074Lc) | [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO), [VC Barre](https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU) | [TRAPEN TILL RADION](https://open.spotify.com/album/7iAffbVeIbgvwwz04XOt5k) | 2:14 | 2023-09-21 | 2024-04-19 |
 | [Roser](https://open.spotify.com/track/0Bf8Kte0qL9GXQszfqbRLM) | [Tyr](https://open.spotify.com/artist/3PgCoKtxkxF046P2FM7SFE) | [Roser](https://open.spotify.com/album/1PX57v6vo13dlBDyJnPzUf) | 2:39 | 2023-11-16 | 2024-01-12 |
 | [Ryktet sier \(ft\. Arif Murakami\)](https://open.spotify.com/track/4bONrMmoqGMrrDzrPERrqv) | [Chris Abolade](https://open.spotify.com/artist/4wqjUmydj8rX3foHUjNOtB), [Arif Murakami](https://open.spotify.com/artist/46pSx5MtwhorubZuHbwM0Q) | [Ryktet sier \(ft\. Arif Murakami\)](https://open.spotify.com/album/10yyOXjdgOq66TXdVF3Z03) | 2:36 | 2024-01-11 | 2024-02-24 |

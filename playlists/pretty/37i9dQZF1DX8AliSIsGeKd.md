@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: Adana Twins
 
-[Spotify](https://open.spotify.com/user/spotify) - 667,460 likes - 90 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 667,670 likes - 90 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 5 | [Every Chapter](https://open.spotify.com/track/7vucvdGSXt3HA1CXEyyuXx) | [CINTHIE](https://open.spotify.com/artist/764H8zG8sTf5FPHWHW5bvh), [Robert Owens](https://open.spotify.com/artist/407nV5hO7mZap3UJdpTr4t) | [Every Chapter](https://open.spotify.com/album/23AbbQDb3ag8xhyJmjy0DF) | 6:49 |
 | 6 | [Levitate](https://open.spotify.com/track/0T3cGxD64iCMuXH4u7QHcH) | [Kaspar](https://open.spotify.com/artist/679xKCdF1dBRH0gGgZfcCC) | [Levitate](https://open.spotify.com/album/2W5kjVC9CVTFp12LAKw2K5) | 3:12 |
 | 7 | [This Summer](https://open.spotify.com/track/1UKf3GCnrZgchYbNOnfF2g) | [Anna Reusch](https://open.spotify.com/artist/0BMS6AqoDN4Fu7QOruxHjh) | [This Summer](https://open.spotify.com/album/1HZk8E4kfqAyDVGTTwTedZ) | 4:02 |
-| 8 | [All My Fault](https://open.spotify.com/track/7wswdMKkV4DdNFYCFdQfQU) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s) | [All My Fault](https://open.spotify.com/album/7m6aaDy9EyhUT2wtlEbvwW) | 2:35 |
+| 8 | [All My Fault](https://open.spotify.com/track/7wswdMKkV4DdNFYCFdQfQU) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s), [Thals](https://open.spotify.com/artist/1LDF2JIDwCRoESyjnp7xns) | [All My Fault](https://open.spotify.com/album/7m6aaDy9EyhUT2wtlEbvwW) | 2:35 |
 | 9 | [Got to Change](https://open.spotify.com/track/5oV0DfWqOf8hn40u37hepA) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Honey](https://open.spotify.com/album/7uxfQPw7jZrMCwmFijglNT) | 3:11 |
 | 10 | [Ricci One \- Gerd Janson Remix](https://open.spotify.com/track/2aZ7Ce5WeTh0UtZ8ojTVWp) | [DJ Oyster](https://open.spotify.com/artist/4k5cTI4utnYQcvVTAFfGgt), [Gerd Janson](https://open.spotify.com/artist/4jLpm91Tyk2TRgv43bMfZO) | [Ricci One \(Gerd Janson Remix\)](https://open.spotify.com/album/1XRa2by90jeYnbviz1LnQo) | 6:18 |
 | 11 | [Starling](https://open.spotify.com/track/5jjkXEpdxNlwolhrBhlifk) | [Kidnap](https://open.spotify.com/artist/3PvqCbhNlq96JXxPszCMZT), [Dwara](https://open.spotify.com/artist/1tXP3SuS8FuVbJDejcrcmG) | [Something Lost, Something Gained](https://open.spotify.com/album/6stWt9lb69bp9kBaLKC3TH) | 4:23 |
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 18 | [Siente \(el Ritmo\)](https://open.spotify.com/track/4V8VKDe62ZdGZAn551JdTz) | [DJ Gigola](https://open.spotify.com/artist/7feJmqQ32fTIPKBmPXwHXf) | [Bigroom Sensual](https://open.spotify.com/album/7gRQwhJTbAl6qHXz2efLCF) | 4:54 |
 | 19 | [Friday \(Alone Right Now\)](https://open.spotify.com/track/3hx5rxhEbaSIoHY1erGnby) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [TANZPARTEI II \(Mixtape\)](https://open.spotify.com/album/6lvniwPO6u3mkNTN3tSQcR) | 2:31 |
 | 20 | [Rave \- Boris Brejcha Remix](https://open.spotify.com/track/3dKlUv9WhX0M12vQP25KO5) | [Sam Paganini](https://open.spotify.com/artist/50ZyjIaVHOy5Xt7FLJ7RZl), [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Rave \- Boris Brejcha Remix](https://open.spotify.com/album/5ksBzi3MAsxgCx31HUst6H) | 8:48 |
-| 21 | [Ex Machina](https://open.spotify.com/track/4VHaRlwp0bbyFks7cu807M) | [Gorgin](https://open.spotify.com/artist/2Buw3dZuOpqcboPiMaZ105) | [Ex Machina](https://open.spotify.com/album/41VIyQcRio40PVGwQHgESl) | 4:58 |
-| 22 | [Close Enough](https://open.spotify.com/track/1VqJO9SfazcnCb12QQlIjp) | [Arpy Brown](https://open.spotify.com/artist/74FtMGqsZm74eumHo8Fi3V), [Apthy Khéa](https://open.spotify.com/artist/35NIvi9WD7Bn0erCLL65gh) | [Close Enough](https://open.spotify.com/album/7F7RAVvzpIZPecqWwY1jE4) | 3:47 |
+| 21 | [Ex Machina](https://open.spotify.com/track/4VHaRlwp0bbyFks7cu807M) | [Gorgin](https://open.spotify.com/artist/2Buw3dZuOpqcboPiMaZ105) | [Ex Machina](https://open.spotify.com/album/41VIyQcRio40PVGwQHgESl) | 4:59 |
+| 22 | [Close Enough](https://open.spotify.com/track/1VqJO9SfazcnCb12QQlIjp) | [Arpy Brown](https://open.spotify.com/artist/74FtMGqsZm74eumHo8Fi3V), [Aphty Khéa](https://open.spotify.com/artist/4neppQOn3buorGDVBImnK4) | [Close Enough](https://open.spotify.com/album/7F7RAVvzpIZPecqWwY1jE4) | 3:47 |
 | 23 | [The Last Time \- Edit](https://open.spotify.com/track/2qbC0K8Ya7wkNEMaB4KuBA) | [Dam Swindle](https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU) | [The Last Time](https://open.spotify.com/album/39fKrm33IcGXYEd1hfwZbI) | 3:42 |
 | 24 | [All I Got](https://open.spotify.com/track/2LMK2xLfWLKbfjZgtBWByM) | [Masšh](https://open.spotify.com/artist/6QRqfE9Na7BRYG1mxRYqGs), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j), [Ninae](https://open.spotify.com/artist/5aTBULJ6efMF1VyzcxMXa6) | [All I Got](https://open.spotify.com/album/7Mmq6Qpis7mg3g8j4uzBTL) | 4:55 |
 | 25 | [Don't Call](https://open.spotify.com/track/24bnZkUybNUrWu26syljV0) | [pølaroit](https://open.spotify.com/artist/3B1BQHf6ExWixwqy9zRDZm) | [Don't Call](https://open.spotify.com/album/7bS02eGeyQXF3wmLKlW9Cq) | 3:16 |

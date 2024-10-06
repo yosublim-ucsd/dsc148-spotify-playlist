@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 
 > Updated weekly \| Hardstyle \| Cover: Brennan Heart
 
-[Spotify](https://open.spotify.com/user/spotify) - 236,272 likes - 100 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 236,343 likes - 100 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Let's Go Nuts](https://open.spotify.com/track/3oWBzlbwFHZ1x4C1WIggpw) | [Sub Sonik](https://open.spotify.com/artist/4FApejrnKXgmvrVmBMRO2l), [Maxtreme](https://open.spotify.com/artist/3skGwvTX8jbm2EKf0Whe1j), [STRIO](https://open.spotify.com/artist/52RIKNLQfoH4VPBQR6RJKd) | [Let's Go Nuts](https://open.spotify.com/album/4t8hBfvzWlz3RaEDToT42r) | 2:36 |
-| 2 | [Angels Falling in Space](https://open.spotify.com/track/1nPTZTzrO5So5ew5Jg2Ecz) | [Frontliner](https://open.spotify.com/artist/7momuad2Twkv5O7MY3dODa) | [Angels Falling in Space](https://open.spotify.com/album/6AuA0sfZdkbcl1kqZShKcl) | 2:49 |
-| 3 | [Better Day](https://open.spotify.com/track/6L4JBOh5qgAwFMnOI14eI2) | [Brennan Heart](https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC), [Jonathan Mendelsohn](https://open.spotify.com/artist/5d1oOpLkM76Tgr2zWMTYkm) | [Save Euphoric](https://open.spotify.com/album/2tJLDFvKYcQbvRzQmvh0NW) | 3:47 |
-| 4 | [I Am Cool](https://open.spotify.com/track/3MpyqUat9C6YkEVsmahdX6) | [Zatox](https://open.spotify.com/artist/27Z5l2Kfy1IaYZMg5INWqO) | [I Am Cool](https://open.spotify.com/album/0KuvnomtqHox9SDhs4CFDm) | 2:43 |
-| 5 | [Forsaken](https://open.spotify.com/track/2PKfCSihh3AAveHAfGHRNQ) | [Dimatik](https://open.spotify.com/artist/2Zvo5BEkHyaHD1zk180kMz), [Strictly Business](https://open.spotify.com/artist/7kC4umc8A1sRBGBnkeKVY1), [Diandra Faye](https://open.spotify.com/artist/5gdYdbKxGw2Mq25TfsmH6q) | [Forsaken](https://open.spotify.com/album/549tAL9AdCfFboVOLAJWrh) | 3:25 |
+| 1 | [Forsaken](https://open.spotify.com/track/2PKfCSihh3AAveHAfGHRNQ) | [Dimatik](https://open.spotify.com/artist/2Zvo5BEkHyaHD1zk180kMz), [Strictly Business](https://open.spotify.com/artist/7kC4umc8A1sRBGBnkeKVY1), [Diandra Faye](https://open.spotify.com/artist/5gdYdbKxGw2Mq25TfsmH6q) | [Forsaken](https://open.spotify.com/album/549tAL9AdCfFboVOLAJWrh) | 3:25 |
+| 2 | [Let's Go Nuts](https://open.spotify.com/track/3oWBzlbwFHZ1x4C1WIggpw) | [Sub Sonik](https://open.spotify.com/artist/4FApejrnKXgmvrVmBMRO2l), [Maxtreme](https://open.spotify.com/artist/3skGwvTX8jbm2EKf0Whe1j), [STRIO](https://open.spotify.com/artist/52RIKNLQfoH4VPBQR6RJKd) | [Let's Go Nuts](https://open.spotify.com/album/4t8hBfvzWlz3RaEDToT42r) | 2:36 |
+| 3 | [Angels Falling in Space](https://open.spotify.com/track/1nPTZTzrO5So5ew5Jg2Ecz) | [Frontliner](https://open.spotify.com/artist/7momuad2Twkv5O7MY3dODa) | [Angels Falling in Space](https://open.spotify.com/album/6AuA0sfZdkbcl1kqZShKcl) | 2:49 |
+| 4 | [Better Day](https://open.spotify.com/track/6L4JBOh5qgAwFMnOI14eI2) | [Brennan Heart](https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC), [Jonathan Mendelsohn](https://open.spotify.com/artist/5d1oOpLkM76Tgr2zWMTYkm) | [Save Euphoric](https://open.spotify.com/album/2tJLDFvKYcQbvRzQmvh0NW) | 3:47 |
+| 5 | [I Am Cool](https://open.spotify.com/track/3MpyqUat9C6YkEVsmahdX6) | [Zatox](https://open.spotify.com/artist/27Z5l2Kfy1IaYZMg5INWqO) | [I Am Cool](https://open.spotify.com/album/0KuvnomtqHox9SDhs4CFDm) | 2:43 |
 | 6 | [Save Me](https://open.spotify.com/track/50cHsbjIjPC8CGKkfaDKSJ) | [Sub Zero Project](https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl), [Rebelion](https://open.spotify.com/artist/5JcSyYpBdqCmjJyVlKh7Yg) | [Save Me](https://open.spotify.com/album/70dQ4XawX4AHYr2qHLNGnY) | 3:43 |
 | 7 | [We've Got The Power](https://open.spotify.com/track/72XbgtND1cgn6E7evSDne4) | [Coone](https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C), [Thyron](https://open.spotify.com/artist/75jOSvJYkVT21xz5yll1xM), [CODA](https://open.spotify.com/artist/1KT6ReUJlpsbGOptScmzDP) | [We've Got The Power](https://open.spotify.com/album/0D0OSi3k9jmKqvvkKMW03X) | 3:25 |
 | 8 | [Never Be The One](https://open.spotify.com/track/63dJ4rcmlwLsL3vh7oaLrl) | [Roy Dest](https://open.spotify.com/artist/0TBHlw1ktz3YQvFkYpm55Q) | [Never Be The One](https://open.spotify.com/album/4ts7N4Y4tC2Uxti1WRzuA3) | 2:23 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 | 99 | [Crowd Jumpin'](https://open.spotify.com/track/6ccvMhf7E3tVESztZvJ0vZ) | [Cryex](https://open.spotify.com/artist/5NkT0VLTEXldi82KVVnG1b) | [Crowd Jumpin'](https://open.spotify.com/album/0Hh55UzPWEH99eZYYzIdqD) | 3:13 |
 | 100 | [DREAMLAND](https://open.spotify.com/track/6GiOYjZZW4oyarMoJKTNAc) | [The Purge](https://open.spotify.com/artist/4CyjDlfEi7Sb4NLgWP0x3w) | [DREAMLAND](https://open.spotify.com/album/3zx2bgirznrq9HBt5K1xXg) | 2:38 |
 
-Snapshot ID: `Zv+T/gAAAAB3fj+gYRKRy1gUxsVJWPym`
+Snapshot ID: `ZwG08QAAAACooliMVGaMDsqXpjfSqbTi`

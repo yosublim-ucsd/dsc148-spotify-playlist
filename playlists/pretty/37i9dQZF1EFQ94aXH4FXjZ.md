@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQ94aXH4FXjZ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2LYO2TUZb52Fuh9qCZOMcz">Kris Kristofferson</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,384 likes - 106 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,411 likes - 106 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQ94aXH4FXjZ.md) - [plain]
 | 35 | [Blame It On the Stones](https://open.spotify.com/track/1Y5yYAJGxzz1RUw7bSkGdU) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Kristofferson](https://open.spotify.com/album/4HN8SWymMSOxquR6wY2vke) | 2:43 |
 | 36 | [The Sabre and the Rose](https://open.spotify.com/track/3IWuY2TAjUwAVudAbnof4E) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Easter Island](https://open.spotify.com/album/4nQQlfcwuxo4POyvnzCds1) | 5:14 |
 | 37 | [Born to Die Alone \- Demo](https://open.spotify.com/track/6Vo2AYNXKVujWXcSat5ZZk) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Demos](https://open.spotify.com/album/7peGj09hLs4kVjmLkqBJUo) | 2:20 |
-| 38 | [Enough for You](https://open.spotify.com/track/0P0RpIHj65B6caxXHbr64e) | [Gene Watson](https://open.spotify.com/artist/3VQfHuqrRK1CNXR1V8PeR9) | [Real\. Country\. Music.](https://open.spotify.com/album/6RDg3o9IvNHbgYkFXHCIIc) | 4:00 |
-| 39 | [Shandy \(The Perfect Disguise\)](https://open.spotify.com/track/1iBXG6vJXyY7nq9Gw3Gw1j) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Spooky Lady's Sideshow](https://open.spotify.com/album/0XwRrify4gVHbkoKbouUq1) | 3:38 |
+| 38 | [Shandy \(The Perfect Disguise\)](https://open.spotify.com/track/1iBXG6vJXyY7nq9Gw3Gw1j) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Spooky Lady's Sideshow](https://open.spotify.com/album/0XwRrify4gVHbkoKbouUq1) | 3:38 |
+| 39 | [Enough for You](https://open.spotify.com/track/0P0RpIHj65B6caxXHbr64e) | [Gene Watson](https://open.spotify.com/artist/3VQfHuqrRK1CNXR1V8PeR9) | [Real\. Country\. Music.](https://open.spotify.com/album/6RDg3o9IvNHbgYkFXHCIIc) | 4:00 |
 | 40 | [Don't Cuss the Fiddle](https://open.spotify.com/track/0InZUAYb8gwqlxRnobS7cB) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Who's To Bless And Who's To Blame](https://open.spotify.com/album/1TDJNWGpmhpRUJJv4Siu3g) | 3:24 |
 | 41 | [The Bigger the Fool \(The Harder the Fall\)](https://open.spotify.com/track/3TrFbi7XCttZC8lVpNmKci) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Easter Island](https://open.spotify.com/album/4nQQlfcwuxo4POyvnzCds1) | 3:32 |
 | 42 | [Josie](https://open.spotify.com/track/07rkOVz8p74BtEs1WWPLP8) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Border Lord](https://open.spotify.com/album/5WHCZzMjeIu4nFWoUhMEvO) | 3:11 |
@@ -90,10 +90,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQ94aXH4FXjZ.md) - [plain]
 | 80 | [Breakdown](https://open.spotify.com/track/5kF6Hk6XsRZfWH7AgEGRS3) | [The Everly Brothers](https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs) | [Stories We Could Tell](https://open.spotify.com/album/5ucnCsHTkWKXCcCjrSEdw0) | 3:12 |
 | 81 | [Stallion](https://open.spotify.com/track/0dt8k5OJrol9oHCURFiTbO) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Who's To Bless And Who's To Blame](https://open.spotify.com/album/1TDJNWGpmhpRUJJv4Siu3g) | 4:45 |
 | 82 | [The Year 2000 Minus 25](https://open.spotify.com/track/4fYJxgMcvqNdwAaXyftGdZ) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Who's To Bless And Who's To Blame](https://open.spotify.com/album/1TDJNWGpmhpRUJJv4Siu3g) | 3:38 |
-| 83 | [Jesus Was a Capricorn](https://open.spotify.com/track/4M6vy3Eu9GA7LHWHTKAM9O) | [Ryan Beaver](https://open.spotify.com/artist/4eZsjzl7q47rMHUyxeOGhr) | [Rx](https://open.spotify.com/album/1iRlHm22btTPS5mIOOhu9v) | 0:58 |
-| 84 | [If It's All the Same to You](https://open.spotify.com/track/4YBR3xUp3dTz7VGubLSrmL) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Who's To Bless And Who's To Blame](https://open.spotify.com/album/1TDJNWGpmhpRUJJv4Siu3g) | 3:15 |
-| 85 | [Jody a Kid](https://open.spotify.com/track/3nbYWZ9mc1EUmJLZpzaOJZ) | [Wabi Danek](https://open.spotify.com/artist/3C7YQ44XbUFugw5c2ZauYA) | [Nech svet, at se toci dal](https://open.spotify.com/album/715GgxJCE2SM9EmIsRrAJL) | 3:43 |
-| 86 | [I Got a Life of My Own](https://open.spotify.com/track/3yQnm7HJuyTrWl7Qd6i9MW) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Surreal Thing](https://open.spotify.com/album/5zzpsikgJ2uwAAEduiHG88) | 3:38 |
+| 83 | [If It's All the Same to You](https://open.spotify.com/track/4YBR3xUp3dTz7VGubLSrmL) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Who's To Bless And Who's To Blame](https://open.spotify.com/album/1TDJNWGpmhpRUJJv4Siu3g) | 3:15 |
+| 84 | [Jesus Was a Capricorn](https://open.spotify.com/track/4M6vy3Eu9GA7LHWHTKAM9O) | [Ryan Beaver](https://open.spotify.com/artist/4eZsjzl7q47rMHUyxeOGhr) | [Rx](https://open.spotify.com/album/1iRlHm22btTPS5mIOOhu9v) | 0:58 |
+| 85 | [I Got a Life of My Own](https://open.spotify.com/track/3yQnm7HJuyTrWl7Qd6i9MW) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Surreal Thing](https://open.spotify.com/album/5zzpsikgJ2uwAAEduiHG88) | 3:38 |
+| 86 | [Jody a Kid](https://open.spotify.com/track/3nbYWZ9mc1EUmJLZpzaOJZ) | [Wabi Danek](https://open.spotify.com/artist/3C7YQ44XbUFugw5c2ZauYA) | [Nech svet, at se toci dal](https://open.spotify.com/album/715GgxJCE2SM9EmIsRrAJL) | 3:43 |
 | 87 | [Nedělní ráno \(Sunday Morning Coming Down\)](https://open.spotify.com/track/5966S2MnaKG9n5JGIM5M4j) | [Pavel Bobek](https://open.spotify.com/artist/0ulIHeEFNTdyP8VIjGjq4O) | [Vic nehledam...](https://open.spotify.com/album/1P1o9btDCuonkTdng3hPso) | 3:49 |
 | 88 | [Anybody That Don't Like Millie Jackson](https://open.spotify.com/track/5pRtWCKLb7W59TuBXlpwqZ) | [Millie Jackson](https://open.spotify.com/artist/27XI002zivG9xuzrZ9dIb1) | [Just a Lil' Bit Country](https://open.spotify.com/album/3AQTEd13jucQFeaVVdwPQq) | 2:53 |
 | 89 | [Killer Barracuda](https://open.spotify.com/track/0LYneQx7CEmZJseZ1MlVlT) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Shake Hands With The Devil](https://open.spotify.com/album/6AKIKI8Gpfe28g0j2Z4yc7) | 3:03 |
@@ -115,4 +115,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQ94aXH4FXjZ.md) - [plain]
 | 105 | [Delta Day \(No Time to Cry\)](https://open.spotify.com/track/6FxBOv9K8J9ECCZg3MqCZk) | [Bucky Wilkin](https://open.spotify.com/artist/6llhUrYZmi6uP5YqxJzrq4) | [The Complete Recordings \(1964\-1968\)](https://open.spotify.com/album/1fB1c8AYgdtENfKuaUfRVW) | 3:15 |
 | 106 | [Give It Time To Be Tender](https://open.spotify.com/track/19L9DxIRGPDhoOGcxiq27H) | [Dottie West](https://open.spotify.com/artist/2pvPkEAN9xSrDrIVUOxWMB) | [I'm Only a Woman](https://open.spotify.com/album/00XFRT1yVfeXgnyrJ8spCj) | 3:10 |
 
-Snapshot ID: `Abd6VAAAAAC6YuOlZk4xxqaUczkR4c8t`
+Snapshot ID: `Abd/9AAAAAAiuLo58/X7us/W/AP2/p86`

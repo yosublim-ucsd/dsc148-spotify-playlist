@@ -1811,6 +1811,32 @@
     },
     {
       "album": {
+        "name": "Culo",
+        "url": "https://open.spotify.com/album/5JVaZThemCsRFGs94NnMID"
+      },
+      "artists": [
+        {
+          "name": "Mariline",
+          "url": "https://open.spotify.com/artist/3NLFKv17mDCARVJdf3a2s4"
+        },
+        {
+          "name": "Big O",
+          "url": "https://open.spotify.com/artist/4uBuaf1JOKbUdSXGw5eusl"
+        },
+        {
+          "name": "Jonfy",
+          "url": "https://open.spotify.com/artist/028DpH7rTwRlVFTXPDY3LJ"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134880,
+      "name": "Culo",
+      "url": "https://open.spotify.com/track/6HD1Fez3zHqBLVAG92i06U"
+    },
+    {
+      "album": {
         "name": "Cumbia Tropical",
         "url": "https://open.spotify.com/album/1AB9MImjBERGHTLNwhUnUn"
       },
@@ -1892,7 +1918,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-06",
       "duration_ms": 166151,
       "name": "Dale Bien Duro",
       "url": "https://open.spotify.com/track/3A0SJSbFpecaK6uJtcaBlQ"

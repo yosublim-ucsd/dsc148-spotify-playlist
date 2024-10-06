@@ -1396,7 +1396,7 @@
       ],
       "date_added": "2019-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-06",
       "duration_ms": 257836,
       "name": "Immortalized",
       "url": "https://open.spotify.com/track/7FChJg2hPG2uAZ3hmDg6xL"
@@ -1894,6 +1894,24 @@
       "duration_ms": 223546,
       "name": "Never Again",
       "url": "https://open.spotify.com/track/07huQEWGQAe7aJaeR08Cag"
+    },
+    {
+      "album": {
+        "name": "Crossfade",
+        "url": "https://open.spotify.com/album/1namjaJZ23ozXXB7X2d4hy"
+      },
+      "artists": [
+        {
+          "name": "Crossfade",
+          "url": "https://open.spotify.com/artist/4IR8ZkpbyyKrqsIzchF3NB"
+        }
+      ],
+      "date_added": "2024-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214626,
+      "name": "No Giving Up",
+      "url": "https://open.spotify.com/track/7M7VUNhN51Fjsu58dLv0EY"
     },
     {
       "album": {

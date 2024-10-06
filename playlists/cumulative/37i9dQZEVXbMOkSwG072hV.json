@@ -8612,7 +8612,7 @@
       ],
       "date_added": "2024-10-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-04",
+      "date_removed": null,
       "duration_ms": 278573,
       "name": "Bump, Bump, Bump (feat. P. Diddy)",
       "url": "https://open.spotify.com/track/6FTJuZtQZvmPPRFmrcno9J"
@@ -8634,7 +8634,7 @@
       ],
       "date_added": "2024-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-06",
       "duration_ms": 282773,
       "name": "Bump, Bump, Bump (feat. P. Diddy)",
       "url": "https://open.spotify.com/track/75lRRdjplzfpmBjNzMPyjR"
@@ -20062,6 +20062,24 @@
       "duration_ms": 245706,
       "name": "Faz Gostoso (feat. Anitta)",
       "url": "https://open.spotify.com/track/2SC14LGDbRWRlyLg9Wupa0"
+    },
+    {
+      "album": {
+        "name": "Politicamente Correto",
+        "url": "https://open.spotify.com/album/1AT4OamSQ91HpWfD7Mr9Jo"
+      },
+      "artists": [
+        {
+          "name": "Lambasaia",
+          "url": "https://open.spotify.com/artist/2gkfnXfwfeW6k3xm9dRdAd"
+        }
+      ],
+      "date_added": "2024-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147957,
+      "name": "Faz o Cora\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/0yE7Pw0ryFEvUoTjbOvLbS"
     },
     {
       "album": {
@@ -52410,7 +52428,7 @@
       ],
       "date_added": "2024-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-06",
       "duration_ms": 228285,
       "name": "That's Who I Praise",
       "url": "https://open.spotify.com/track/3gVYa5bvsuvBegKEIEY8Mk"

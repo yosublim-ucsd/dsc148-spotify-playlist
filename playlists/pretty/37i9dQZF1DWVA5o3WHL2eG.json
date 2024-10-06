@@ -1,6 +1,6 @@
 {
   "description": "Women at full volume. Cover: DJ Gigola",
-  "num_followers": 34912,
+  "num_followers": 34927,
   "original_name": "EQUAL GSA",
   "owner": {
     "name": "Spotify",
@@ -415,6 +415,22 @@
     {
       "added_at": "2024-10-01 22:00:00",
       "album": {
+        "name": "8 stufen ep",
+        "url": "https://open.spotify.com/album/7tdFyBxhmbfm9Whp3fo6rK"
+      },
+      "artists": [
+        {
+          "name": "elimako",
+          "url": "https://open.spotify.com/artist/5PbQkJwrwzRkwW7uAj7dy0"
+        }
+      ],
+      "duration_ms": 172138,
+      "name": "pok\u00e9mon",
+      "url": "https://open.spotify.com/track/5ipIrjelg2ER3t7D3D9NSP"
+    },
+    {
+      "added_at": "2024-10-01 22:00:00",
+      "album": {
         "name": "Was hab ich nur getan?",
         "url": "https://open.spotify.com/album/1icJ1tybkmg30fkU1v1qOA"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 172235,
       "name": "Was hab ich nur getan?",
       "url": "https://open.spotify.com/track/1WyGuO8jJI4TmAp2ERorb5"
-    },
-    {
-      "added_at": "2024-10-01 22:00:00",
-      "album": {
-        "name": "8 stufen ep",
-        "url": "https://open.spotify.com/album/7tdFyBxhmbfm9Whp3fo6rK"
-      },
-      "artists": [
-        {
-          "name": "elimako",
-          "url": "https://open.spotify.com/artist/5PbQkJwrwzRkwW7uAj7dy0"
-        }
-      ],
-      "duration_ms": 172138,
-      "name": "pok\u00e9mon",
-      "url": "https://open.spotify.com/track/5ipIrjelg2ER3t7D3D9NSP"
     },
     {
       "added_at": "2024-10-01 22:00:00",

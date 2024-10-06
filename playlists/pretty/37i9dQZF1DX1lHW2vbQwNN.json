@@ -1,6 +1,6 @@
 {
   "description": "Taking it back to the 2000s. Cover: Kid Cudi",
-  "num_followers": 345107,
+  "num_followers": 345204,
   "original_name": "2000s Hip-Hop",
   "owner": {
     "name": "Spotify",
@@ -1419,18 +1419,26 @@
     {
       "added_at": "2024-08-09 20:42:10",
       "album": {
-        "name": "Lupe Fiasco's Food & Liquor",
-        "url": "https://open.spotify.com/album/0TDJRkEr2SrhWTetdkEzED"
+        "name": "Detroit Deli (A Taste Of Detroit)",
+        "url": "https://open.spotify.com/album/2mpzeA7pHNIDAPii4EEKsB"
       },
       "artists": [
         {
-          "name": "Lupe Fiasco",
-          "url": "https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf"
+          "name": "Slum Village",
+          "url": "https://open.spotify.com/artist/1020a42xVklY6c56imNcaa"
+        },
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
         }
       ],
-      "duration_ms": 254466,
-      "name": "Kick, Push",
-      "url": "https://open.spotify.com/track/6nz35DNIzbtj5ztpDEcW1j"
+      "duration_ms": 225400,
+      "name": "Selfish",
+      "url": "https://open.spotify.com/track/7sZCAHP2duHwr5M5K7lHsb"
     },
     {
       "added_at": "2024-08-09 20:42:10",
@@ -1455,26 +1463,18 @@
     {
       "added_at": "2024-08-09 20:42:10",
       "album": {
-        "name": "Detroit Deli (A Taste Of Detroit)",
-        "url": "https://open.spotify.com/album/2mpzeA7pHNIDAPii4EEKsB"
+        "name": "Lupe Fiasco's Food & Liquor",
+        "url": "https://open.spotify.com/album/0TDJRkEr2SrhWTetdkEzED"
       },
       "artists": [
         {
-          "name": "Slum Village",
-          "url": "https://open.spotify.com/artist/1020a42xVklY6c56imNcaa"
-        },
-        {
-          "name": "John Legend",
-          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
-        },
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+          "name": "Lupe Fiasco",
+          "url": "https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf"
         }
       ],
-      "duration_ms": 225400,
-      "name": "Selfish",
-      "url": "https://open.spotify.com/track/7sZCAHP2duHwr5M5K7lHsb"
+      "duration_ms": 254466,
+      "name": "Kick, Push",
+      "url": "https://open.spotify.com/track/6nz35DNIzbtj5ztpDEcW1j"
     },
     {
       "added_at": "2024-08-09 20:42:10",
@@ -1787,6 +1787,22 @@
     {
       "added_at": "2024-08-09 20:42:10",
       "album": {
+        "name": "A Gangster And A Gentleman",
+        "url": "https://open.spotify.com/album/4LmiDfIReR290PQm026KNF"
+      },
+      "artists": [
+        {
+          "name": "Styles P",
+          "url": "https://open.spotify.com/artist/2x8KDZdSONA3872CnhaAlX"
+        }
+      ],
+      "duration_ms": 211493,
+      "name": "Good Times",
+      "url": "https://open.spotify.com/track/7cFpB4ozcSwXuhqjvNbrbP"
+    },
+    {
+      "added_at": "2024-08-09 20:42:10",
+      "album": {
         "name": "The King Of Crunk & BME Recordings Present: Welcome to Trillville USA",
         "url": "https://open.spotify.com/album/2fDTnW5KAZZvuuguWrECbu"
       },
@@ -1803,22 +1819,6 @@
       "duration_ms": 283386,
       "name": "Some Cut (feat. Cutty)",
       "url": "https://open.spotify.com/track/07u02f6biDHx5VexfAs41b"
-    },
-    {
-      "added_at": "2024-08-09 20:42:10",
-      "album": {
-        "name": "A Gangster And A Gentleman",
-        "url": "https://open.spotify.com/album/4LmiDfIReR290PQm026KNF"
-      },
-      "artists": [
-        {
-          "name": "Styles P",
-          "url": "https://open.spotify.com/artist/2x8KDZdSONA3872CnhaAlX"
-        }
-      ],
-      "duration_ms": 211493,
-      "name": "Good Times",
-      "url": "https://open.spotify.com/track/7cFpB4ozcSwXuhqjvNbrbP"
     },
     {
       "added_at": "2024-08-09 20:42:10",

@@ -1,6 +1,6 @@
 {
   "description": "Songs of faith, hope, and the greatest of these, love.",
-  "num_followers": 204780,
+  "num_followers": 204802,
   "original_name": "Higher Love",
   "owner": {
     "name": "Spotify",
@@ -539,6 +539,22 @@
     {
       "added_at": "2024-07-17 04:46:48",
       "album": {
+        "name": "Safe",
+        "url": "https://open.spotify.com/album/3PD9s1GRpT7ahstwgF6AlX"
+      },
+      "artists": [
+        {
+          "name": "Antoine Bradford",
+          "url": "https://open.spotify.com/artist/1FYE37rOHOrxO1lHAQUkCl"
+        }
+      ],
+      "duration_ms": 270680,
+      "name": "Safe",
+      "url": "https://open.spotify.com/track/33AwnZl99mjxjNjMIbflbH"
+    },
+    {
+      "added_at": "2024-07-17 04:46:48",
+      "album": {
         "name": "CC",
         "url": "https://open.spotify.com/album/1RgcrQ5wuYg6EdWQyLylPG"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 118503,
       "name": "When It Hurts",
       "url": "https://open.spotify.com/track/79Ns9ajGujomTknvhBWSMd"
-    },
-    {
-      "added_at": "2024-07-17 04:46:48",
-      "album": {
-        "name": "Safe",
-        "url": "https://open.spotify.com/album/3PD9s1GRpT7ahstwgF6AlX"
-      },
-      "artists": [
-        {
-          "name": "Antoine Bradford",
-          "url": "https://open.spotify.com/artist/1FYE37rOHOrxO1lHAQUkCl"
-        }
-      ],
-      "duration_ms": 270680,
-      "name": "Safe",
-      "url": "https://open.spotify.com/track/33AwnZl99mjxjNjMIbflbH"
     },
     {
       "added_at": "2024-07-17 04:46:48",
@@ -683,22 +683,6 @@
     {
       "added_at": "2024-07-17 04:46:48",
       "album": {
-        "name": "Come To The Well",
-        "url": "https://open.spotify.com/album/6PU9khplTO06aCcMBkoGze"
-      },
-      "artists": [
-        {
-          "name": "Casting Crowns",
-          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
-        }
-      ],
-      "duration_ms": 224013,
-      "name": "Angel",
-      "url": "https://open.spotify.com/track/7qO1aodqqumMLHFybn0AvP"
-    },
-    {
-      "added_at": "2024-07-17 04:46:48",
-      "album": {
         "name": "Need You Now",
         "url": "https://open.spotify.com/album/2AwrSABuCbL70654kGQ1so"
       },
@@ -715,18 +699,18 @@
     {
       "added_at": "2024-07-17 04:46:48",
       "album": {
-        "name": "Carry Me",
-        "url": "https://open.spotify.com/album/4xjAeY5J7q6iHlRWEF07b0"
+        "name": "Come To The Well",
+        "url": "https://open.spotify.com/album/6PU9khplTO06aCcMBkoGze"
       },
       "artists": [
         {
-          "name": "Josh Wilson",
-          "url": "https://open.spotify.com/artist/1SbnQl7KrIVnXhYcQcMjL2"
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
         }
       ],
-      "duration_ms": 177658,
-      "name": "What A Mystery",
-      "url": "https://open.spotify.com/track/2FYSON92zpz3iiDAmG2IMg"
+      "duration_ms": 224013,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/7qO1aodqqumMLHFybn0AvP"
     },
     {
       "added_at": "2024-07-17 04:46:48",
@@ -747,6 +731,22 @@
     {
       "added_at": "2024-07-17 04:46:48",
       "album": {
+        "name": "Carry Me",
+        "url": "https://open.spotify.com/album/4xjAeY5J7q6iHlRWEF07b0"
+      },
+      "artists": [
+        {
+          "name": "Josh Wilson",
+          "url": "https://open.spotify.com/artist/1SbnQl7KrIVnXhYcQcMjL2"
+        }
+      ],
+      "duration_ms": 177658,
+      "name": "What A Mystery",
+      "url": "https://open.spotify.com/track/2FYSON92zpz3iiDAmG2IMg"
+    },
+    {
+      "added_at": "2024-07-17 04:46:48",
+      "album": {
         "name": "Every Falling Tear",
         "url": "https://open.spotify.com/album/57KfddAY3ffu3A3F7M5b0h"
       },
@@ -763,22 +763,6 @@
     {
       "added_at": "2024-07-17 04:46:48",
       "album": {
-        "name": "I'll Wait",
-        "url": "https://open.spotify.com/album/2Mvi0g1n9f8tHaO7oeJfzR"
-      },
-      "artists": [
-        {
-          "name": "Madison Ryann Ward",
-          "url": "https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI"
-        }
-      ],
-      "duration_ms": 231879,
-      "name": "I'll Wait",
-      "url": "https://open.spotify.com/track/4S897uiKljGMaW7jKeRF9I"
-    },
-    {
-      "added_at": "2024-07-17 04:46:48",
-      "album": {
         "name": "The Writer's Room: An Acoustic EP",
         "url": "https://open.spotify.com/album/6yUxPBG0mG9RA2PdKA7Px5"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 212426,
       "name": "The Day Before You - Acoustic",
       "url": "https://open.spotify.com/track/20Y6MNDyaBRpFrQ1Dt5CNF"
+    },
+    {
+      "added_at": "2024-07-17 04:46:48",
+      "album": {
+        "name": "I'll Wait",
+        "url": "https://open.spotify.com/album/2Mvi0g1n9f8tHaO7oeJfzR"
+      },
+      "artists": [
+        {
+          "name": "Madison Ryann Ward",
+          "url": "https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI"
+        }
+      ],
+      "duration_ms": 231879,
+      "name": "I'll Wait",
+      "url": "https://open.spotify.com/track/4S897uiKljGMaW7jKeRF9I"
     },
     {
       "added_at": "2024-07-17 04:46:48",
@@ -999,22 +999,6 @@
     {
       "added_at": "2024-07-17 04:46:48",
       "album": {
-        "name": "FEVER / SKY",
-        "url": "https://open.spotify.com/album/4zpGSBstdibPEMzdRH1iip"
-      },
-      "artists": [
-        {
-          "name": "Wilder Woods",
-          "url": "https://open.spotify.com/artist/26DytDdxKgr9N0tdrBSLs2"
-        }
-      ],
-      "duration_ms": 202800,
-      "name": "Be Yourself",
-      "url": "https://open.spotify.com/track/6P0actEG7h74NHvxqRB321"
-    },
-    {
-      "added_at": "2024-07-17 04:46:48",
-      "album": {
         "name": "i do",
         "url": "https://open.spotify.com/album/6qTSsWWkDt5kqb2ZjX0wQA"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 151016,
       "name": "i do",
       "url": "https://open.spotify.com/track/2u93JxM9KC1dQMBJuHKYXv"
+    },
+    {
+      "added_at": "2024-07-17 04:46:48",
+      "album": {
+        "name": "FEVER / SKY",
+        "url": "https://open.spotify.com/album/4zpGSBstdibPEMzdRH1iip"
+      },
+      "artists": [
+        {
+          "name": "Wilder Woods",
+          "url": "https://open.spotify.com/artist/26DytDdxKgr9N0tdrBSLs2"
+        }
+      ],
+      "duration_ms": 202800,
+      "name": "Be Yourself",
+      "url": "https://open.spotify.com/track/6P0actEG7h74NHvxqRB321"
     },
     {
       "added_at": "2024-07-17 04:46:48",
@@ -1275,6 +1275,22 @@
     {
       "added_at": "2024-07-17 04:46:48",
       "album": {
+        "name": "Love Like This",
+        "url": "https://open.spotify.com/album/6CAihXsGyMgAdZHAAfseM0"
+      },
+      "artists": [
+        {
+          "name": "Brandin Reed",
+          "url": "https://open.spotify.com/artist/7oi3qhC7S5XIXYz15C4JHt"
+        }
+      ],
+      "duration_ms": 200133,
+      "name": "Love Like This",
+      "url": "https://open.spotify.com/track/6r1IIwzxt1m8Ks8Me6V2Av"
+    },
+    {
+      "added_at": "2024-07-17 04:46:48",
+      "album": {
         "name": "Genesis",
         "url": "https://open.spotify.com/album/56H4CnTe0xS1VpZLgC9wAf"
       },
@@ -1327,22 +1343,6 @@
     {
       "added_at": "2024-07-17 04:46:48",
       "album": {
-        "name": "I do",
-        "url": "https://open.spotify.com/album/1eQrGC1qAwhxa9YWpbT37E"
-      },
-      "artists": [
-        {
-          "name": "Caitie Beasley",
-          "url": "https://open.spotify.com/artist/6N4bMAZfwfIeL0qUuahHyF"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "I do",
-      "url": "https://open.spotify.com/track/1HbTfQjhpqXxmedDXkPNoa"
-    },
-    {
-      "added_at": "2024-07-17 04:46:48",
-      "album": {
         "name": "Junto a Ti",
         "url": "https://open.spotify.com/album/2ExKlEtTWeHbcv4uViU6sH"
       },
@@ -1359,6 +1359,22 @@
     {
       "added_at": "2024-07-17 04:46:48",
       "album": {
+        "name": "I do",
+        "url": "https://open.spotify.com/album/1eQrGC1qAwhxa9YWpbT37E"
+      },
+      "artists": [
+        {
+          "name": "Caitie Beasley",
+          "url": "https://open.spotify.com/artist/6N4bMAZfwfIeL0qUuahHyF"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "I do",
+      "url": "https://open.spotify.com/track/1HbTfQjhpqXxmedDXkPNoa"
+    },
+    {
+      "added_at": "2024-07-17 04:46:48",
+      "album": {
         "name": "Me + You = Pi",
         "url": "https://open.spotify.com/album/1hXEZYIQQBGCdx9j0aDr6p"
       },
@@ -1371,22 +1387,6 @@
       "duration_ms": 169846,
       "name": "Me + You = Pi",
       "url": "https://open.spotify.com/track/11akLVy8J6vDKsnmDbMxus"
-    },
-    {
-      "added_at": "2024-07-17 04:46:48",
-      "album": {
-        "name": "Love Like This",
-        "url": "https://open.spotify.com/album/6CAihXsGyMgAdZHAAfseM0"
-      },
-      "artists": [
-        {
-          "name": "Brandin Reed",
-          "url": "https://open.spotify.com/artist/7oi3qhC7S5XIXYz15C4JHt"
-        }
-      ],
-      "duration_ms": 200133,
-      "name": "Love Like This",
-      "url": "https://open.spotify.com/track/6r1IIwzxt1m8Ks8Me6V2Av"
     },
     {
       "added_at": "2024-07-17 04:46:48",

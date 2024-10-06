@@ -2,7 +2,7 @@
 
 ### [This Is Danny Felix](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2WUjFC)
 
-> This is Danny Felix\. The essential tracks, all in one playlist.
+> This Is Danny Felix\. Los temas esenciales, todos en una lista.
 
 87 songs - 4 hr 52 min
 

@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Lara Fabian
 
-2,861 songs - 6 day 8 hr 17 min
+2,863 songs - 6 day 8 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -987,6 +987,7 @@
 | [Grazie](https://open.spotify.com/track/3VqP91f5h7apVS5huW6Tbr) | [Louise Attaque](https://open.spotify.com/artist/4CAsSAU842glNKJX71ndA9) | [Grazie](https://open.spotify.com/album/5Q239NRdV7f1dPgXgDfGPb) | 3:05 | 2023-09-08 | 2023-09-19 |
 | [Grind](https://open.spotify.com/track/6CuXSXrJ6KCvQk0CZcI9GY) | [Jeune Rebeu](https://open.spotify.com/artist/1Eqk1dyp15e8W7meILuhgD) | [Grind](https://open.spotify.com/album/1Pp1NzqkXEFVm8kdIIAotZ) | 3:24 | 2022-04-22 | 2022-04-29 |
 | [Gros truck](https://open.spotify.com/track/1FJkK7vNFpLvZjCKKROECx) | [P'tit Belliveau](https://open.spotify.com/artist/1Mnw1xS9MvW7sgitmlqnCM) | [P'tit Belliveau](https://open.spotify.com/album/5SZCCO2cJiLbQ5vUopQxh2) | 3:19 | 2024-04-26 | 2024-05-03 |
+| [Guardia](https://open.spotify.com/track/0dBvXYsTinPdEncSmFgzql) | [Lartiste](https://open.spotify.com/artist/6HhnhnxLsowYuuejvku0Bz), [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j) | [Guardia](https://open.spotify.com/album/3q8v30SjuOOQJQ93zXrvpa) | 3:18 | 2024-10-04 |  |
 | [Gucci, Chanel](https://open.spotify.com/track/15HDG2RFHASg5citb8CGqN) | [Réejo](https://open.spotify.com/artist/0NATGrD6MxqX3q23GqnW0k) | [Gucci, Chanel](https://open.spotify.com/album/0qoC5fTTM48wh4MSzAsFgY) | 2:13 | 2022-03-11 | 2022-03-18 |
 | [Guerres de pissenlits \- A COLORS SHOW](https://open.spotify.com/track/4fi4kG8OCPL1H8P2hEn8Bv) | [BEN plg](https://open.spotify.com/artist/4Q4yUu2v7zN40G0LtsnY98) | [Guerres de pissenlits \- A COLORS SHOW](https://open.spotify.com/album/1bmsStNPT6EFgBmPaDFWgM) | 3:36 | 2024-04-12 | 2024-04-14 |
 | [GÉ VOULAIT](https://open.spotify.com/track/0zjj6xLdVtzIzkOHEWqbWH) | [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz), [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX) | [GÉ VOULAIT](https://open.spotify.com/album/4ANS3cQf0SZux2I7zlkAxC) | 2:41 | 2023-07-21 | 2023-09-23 |
@@ -1848,7 +1849,7 @@
 | [Nouvelle administration](https://open.spotify.com/track/3bh1iLjPXYSzeNRfnobnpu) | [Philippe B](https://open.spotify.com/artist/7FvBLeBeCiWR09phkPyyrf) | [Nouvelle administration](https://open.spotify.com/album/1PYQvFT5MWMb12M1EAKY7u) | 3:18 | 2023-02-03 | 2023-02-18 |
 | [Nouvelle Vague](https://open.spotify.com/track/12kBPE64F24yAAACOg1LsI) | [Jalouse](https://open.spotify.com/artist/0XYVwgLGzOvJLhdIn4lzm5) | [Nouvelle Vague](https://open.spotify.com/album/5rGSU1o3d4yw0I82ZxIXKo) | 3:38 | 2022-10-14 | 2022-10-29 |
 | [nouvelle vie](https://open.spotify.com/track/6P2fUld8s7GRxc6Egris2H) | [distraction4ever](https://open.spotify.com/artist/7thbB90E6B9E50WqGJlcSh) | [nouvelle vie](https://open.spotify.com/album/2SCDDp4qknjCUBufmbuEyg) | 2:37 | 2024-05-17 | 2024-05-25 |
-| [Nouvelle vie](https://open.spotify.com/track/4nXsx2uiPr0fOYRLa6xB52) | [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1) | [Nouvelle vie](https://open.spotify.com/album/5KQCORt6AmV9VcZYYfTWVL) | 3:12 | 2024-08-09 |  |
+| [Nouvelle vie](https://open.spotify.com/track/4nXsx2uiPr0fOYRLa6xB52) | [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1) | [Nouvelle vie](https://open.spotify.com/album/5KQCORt6AmV9VcZYYfTWVL) | 3:12 | 2024-08-09 | 2024-10-06 |
 | [Nouvelle ère](https://open.spotify.com/track/5EGBzg0DuYFZFVLnG9rzjB) | [Beendo Z](https://open.spotify.com/artist/7a35Zdc78bDXJv2vYf5hSO), [Kerchak](https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332) | [Nouvelle ère](https://open.spotify.com/album/7g7Sfraq90lpgOko9oEbTt) | 3:06 | 2023-03-17 | 2023-04-15 |
 | [Novembre](https://open.spotify.com/track/2SlsXvnVdrAfWvYO3esHGM) | [BLOWSOM](https://open.spotify.com/artist/7GG8nWQhwrbobKgJKTaUjI) | [Novembre](https://open.spotify.com/album/5vLkJ5UoYWwsXII9qZPQHM) | 3:10 | 2022-04-22 | 2022-04-29 |
 | [Noël blanc](https://open.spotify.com/track/0TzdxTeaStfhDADxoTeRaE) | [Gregory Charles](https://open.spotify.com/artist/5oZRVKPoEK2rVLYDv3ohoi), [Marc Hervieux](https://open.spotify.com/artist/574kdGr9fdC7k7ZUOpbNb5) | [Noël En Noir & Blanc](https://open.spotify.com/album/1zO0MHz7l9N9kaFEBAvQWA) | 2:57 | 2021-12-31 | 2022-01-22 |
@@ -2137,6 +2138,7 @@
 | [Pénélope](https://open.spotify.com/track/6igMBCYzoJWpYr79Rmpw1q) | [Narcisse](https://open.spotify.com/artist/1GY5zIB9GwQQcjruxXLfCN) | [Pénélope](https://open.spotify.com/album/3lefVAjXnsOGHtuFnJr2V9) | 4:25 | 2022-04-22 | 2022-04-29 |
 | [Périph](https://open.spotify.com/track/0J8Ff1p7vpxBMLnZuAwAUb) | [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [Périph](https://open.spotify.com/album/4ImOyHSUym1ZFnmV3SKXDI) | 2:48 | 2023-12-15 | 2024-03-09 |
 | [Pétale](https://open.spotify.com/track/5MT66MAa0tPKBM0jV5aqq8) | [Vendou](https://open.spotify.com/artist/4Eh9gm2q4XSbk8YXLoEUjG) | [Pétale](https://open.spotify.com/album/0qmrfShgngmmWA8cPcrXAA) | 3:09 | 2022-04-29 | 2022-05-14 |
+| [Pétunias](https://open.spotify.com/track/4csiR0voWHzg46BFnQZ0kp) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh) | [Pétunias](https://open.spotify.com/album/1xF3GugX1r1Jj3xsljohcv) | 3:31 | 2024-10-04 |  |
 | [Q](https://open.spotify.com/track/5hGUYAw9wrOpRBank5mIV9) | [Adé](https://open.spotify.com/artist/3NIFl4tsySuu3eu8Yt8c0s) | [Et alors ?](https://open.spotify.com/album/2UKWuWCmesuNXNsFbdbEVw) | 2:36 | 2022-09-23 | 2022-10-01 |
 | [Quand ?](https://open.spotify.com/track/5cQjufIFsPTe2DypPw6vOL) | [Trois Cafés Gourmands](https://open.spotify.com/artist/4wngxtsP87ozrQh05D90dO) | [Quand ?](https://open.spotify.com/album/32qxvEujuk4BboheFEfBQR) | 3:43 | 2022-09-23 | 2022-10-08 |
 | [Quand j'y repense](https://open.spotify.com/track/3BsYL1gVsiFpo0bM8oTbi0) | [Mig](https://open.spotify.com/artist/3mKyKC4BjNrNJSSBSrNy0a), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Toujours +](https://open.spotify.com/album/0w833vhJRuuCwd5gsHQNIs) | 3:14 | 2022-09-30 | 2022-10-15 |
@@ -2567,7 +2569,7 @@
 | [Tour du Monde](https://open.spotify.com/track/2H6qZe4igbGLoLGD3CxvRr) | [HALO](https://open.spotify.com/artist/7xWSJDc5wUpKp4jxGEKNSk) | [Tour du Monde](https://open.spotify.com/album/1ybBcRxpUhorl343FGWUyO) | 2:25 | 2024-06-14 | 2024-06-29 |
 | [Tour à tour](https://open.spotify.com/track/4UmWhzUhv36VxBAZOiCL1Q) | [Rosie Valland](https://open.spotify.com/artist/4lJWbDc6yz6JDL99fbSq5C) | [Tour à tour](https://open.spotify.com/album/6uHRnW7m0xWOKaOotcRote) | 3:20 | 2022-10-28 | 2022-11-19 |
 | [Tous ces doutes](https://open.spotify.com/track/6wCGMrL57mOUNEMjxiZP3y) | [Jeanick Fournier](https://open.spotify.com/artist/2BDPAOnxUpnVhzI7UCX246), [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [Tous ces doutes](https://open.spotify.com/album/2U2YWU5XqLs3ocRxswF1wD) | 3:29 | 2024-03-08 | 2024-03-16 |
-| [Tous ces ongles rongés](https://open.spotify.com/track/6XugQIyPKPxE7MaAxNAOhT) | [JeanJass](https://open.spotify.com/artist/11jTIrOwxFOLvhJIdb4FYo) | [Tous ces ongles rongés](https://open.spotify.com/album/67ocT0IRwTaGyjiWycPNLV) | 2:58 | 2024-09-20 |  |
+| [Tous ces ongles rongés](https://open.spotify.com/track/6XugQIyPKPxE7MaAxNAOhT) | [JeanJass](https://open.spotify.com/artist/11jTIrOwxFOLvhJIdb4FYo) | [Tous ces ongles rongés](https://open.spotify.com/album/67ocT0IRwTaGyjiWycPNLV) | 2:58 | 2024-09-20 | 2024-10-06 |
 | [Tous les corps](https://open.spotify.com/track/6DJHBWHgjQrCmDK41k6aNQ) | [L'Isle](https://open.spotify.com/artist/1Dha3TduO0PBC7aRD84PHP) | [Soif](https://open.spotify.com/album/1JMutIbqGGBgwDWDLr41SC) | 3:23 | 2023-05-12 | 2023-05-20 |
 | [Tout c'que j'connais](https://open.spotify.com/track/6ysi2zSXcx4WjU2gX6Cmcr) | [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp) | [Tout c'que j'connais](https://open.spotify.com/album/5atVuDm8WzCguB6Itn4IyD) | 3:17 | 2022-06-17 | 2022-07-09 |
 | [Tout ce qu'il faut](https://open.spotify.com/track/390ZAYNYk1BcfKljH81feS) | [Félix Lemelin](https://open.spotify.com/artist/5AV5KFAMnP1PcDCZaQKiBY) | [Seul à la fin](https://open.spotify.com/album/49T2GUj3Yt681hTLnLSK0G) | 3:17 | 2022-04-08 | 2022-04-16 |

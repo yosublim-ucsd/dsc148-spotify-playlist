@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > Discover new christian and gospel music\. Cover: "<a href=https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe?si=EgqFNwKkTNmCHZeVmGM29w>Folabi Nuel</a> and <a href=https://open.spotify.com/artist/7e4IOPcpm2VcBIcKAJnPmQ?si=SFeapfBOTx2QSSmy1DR47g>Swangz All\-Star</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,091 likes - 100 songs - 7 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,105 likes - 100 songs - 7 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,10 +33,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 23 | [MY DADDY](https://open.spotify.com/track/3narzykdKeRFKDiro2tVqN) | [Giliane](https://open.spotify.com/artist/0AIbV1McNkyTqs0Zt0QI7t), [Omojo](https://open.spotify.com/artist/4RCjw7JlxYqW7jUHCO4QgC), [SOD MUSIQ](https://open.spotify.com/artist/7mnFt3PI9H2cGgHDLROJHY) | [MY DADDY](https://open.spotify.com/album/6vqFXA9wiTuFr5cSLfezI5) | 2:56 |
 | 24 | [My case is different](https://open.spotify.com/track/4I83BsIo5BTPLsDPxHehQl) | [Jide Williams](https://open.spotify.com/artist/2nkclTdrNuhIHvJmjQthi4) | [My case is different](https://open.spotify.com/album/26OQOXzujavSncUBCGMRVW) | 4:46 |
 | 25 | [My Jesus](https://open.spotify.com/track/2ryEDwlc0i1KSjFXggX6hG) | [Anthem Worship](https://open.spotify.com/artist/71LGmy4toAaXKJP7IK8xvG), [Remnant House](https://open.spotify.com/artist/0oCYQlLFMypU2RxjCRvpgR), [Mass Anthem](https://open.spotify.com/artist/0KVR8D2dx5Td8ONhNZRLkM) | [My Jesus](https://open.spotify.com/album/6UEazzBMYexzHKaoQVMvRl) | 3:19 |
-| 26 | [No Weapon \- Live](https://open.spotify.com/track/0zjH1ORxrD8ix0JmwzdScZ) | [Manus Akpanke](https://open.spotify.com/artist/3z8JjgzStBjRJWeX0MzYCL) | [No Weapon \- Live](https://open.spotify.com/album/3WZc9y8iZRqWOzhxTO0WQu) | 11:46 |
+| 26 | [No Weapon \- Live](https://open.spotify.com/track/0zjH1ORxrD8ix0JmwzdScZ) | [Manus Akpanke](https://open.spotify.com/artist/3z8JjgzStBjRJWeX0MzYCL) | [No Weapon \(Live\)](https://open.spotify.com/album/3WZc9y8iZRqWOzhxTO0WQu) | 11:46 |
 | 27 | [COME THRU](https://open.spotify.com/track/3U0Goea638QMskz9f7l53B) | [Torey D'Shaun](https://open.spotify.com/artist/78DvQP3rczGqfgEiLfFnCD), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [COME THRU](https://open.spotify.com/album/6p4j0KgKckQYEiAtLoOHub) | 2:39 |
 | 28 | [Apple of His Eyes](https://open.spotify.com/track/1gd2Fwc6LLnHEaDsq16jIT) | [Pastor Courage](https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf) | [Apple of His Eyes](https://open.spotify.com/album/2Gylve2uYeVE4GcVpb85Cb) | 3:51 |
-| 29 | [None As Great](https://open.spotify.com/track/04uOK00GAvZa8UCf3bX5Hd) | [Abby Godwin](https://open.spotify.com/artist/2vKfioYB4bNu6OIXMkwC6I), [IBKSings](https://open.spotify.com/artist/5H4j32gWFbJQnjImeuaHhU) | [None As Great](https://open.spotify.com/album/0Tnya0sXXeYwRgsrFAowtD) | 7:04 |
+| 29 | [None As Great \(feat\. IBKSings\)](https://open.spotify.com/track/04uOK00GAvZa8UCf3bX5Hd) | [Abby Godwin](https://open.spotify.com/artist/2vKfioYB4bNu6OIXMkwC6I), [IBKSings](https://open.spotify.com/artist/5H4j32gWFbJQnjImeuaHhU) | [None As Great \(feat\. IBKSings\)](https://open.spotify.com/album/0Tnya0sXXeYwRgsrFAowtD) | 7:04 |
 | 30 | [Ope](https://open.spotify.com/track/09O1EztxGhnFc7mwYK7Ios) | [Jumbo Aniebiet](https://open.spotify.com/artist/3SFQtiUWFMi1dZFoieb47p), [Amanda Olsavskly Hu](https://open.spotify.com/artist/557ZRnn8flIC59enIBNZmO) | [Ope](https://open.spotify.com/album/0elQOLJTc8tPBr1aVeReNG) | 4:36 |
 | 31 | [That's Why We Worship \- Live](https://open.spotify.com/track/2DawLOye9o0ts6hO3q84Mp) | [Uche Agu](https://open.spotify.com/artist/2nSP3Ap7hxf4m4o5F5RXVj), [Revival Today Worship](https://open.spotify.com/artist/3VoLng4VXiHIKe4MnsnDf1) | [That's Why We Worship \- Live](https://open.spotify.com/album/5vka6wUs4jz3IbxL03uvw8) | 9:20 |
 | 32 | [The Declaration \(Jesus is Lord\)](https://open.spotify.com/track/0NftpbEB3whyiZ8Vsk2ZXN) | [Kushim](https://open.spotify.com/artist/7ySTyvAPMU1SaCLo7fRvHX) | [The Declaration \(Jesus is Lord\)](https://open.spotify.com/album/7oSJT1KwBBsk5l3eYuSFc6) | 2:18 |

@@ -4,7 +4,7 @@
 
 > let the dj set u free
 
-407 songs - 1 day 0 hr 53 min
+408 songs - 1 day 0 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [Because You Move Me](https://open.spotify.com/track/05GvwwTLLID738BbKN1ze0) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS) | [Because You Move Me](https://open.spotify.com/album/6BJlfbdvDpdjeC35GNRwBI) | 3:16 | 2021-04-02 | 2024-07-06 |
 | [Believe In Myself](https://open.spotify.com/track/047hYmw8Viqwx4cavskXVy) | [PARISI](https://open.spotify.com/artist/1UJfZU4rQx3bJ3tGypRuAT) | [Believe In Myself](https://open.spotify.com/album/5ngmMrPiCbLRleKZXj3zqV) | 3:41 | 2023-12-01 | 2024-10-01 |
 | [Better \(feat\. Teddy Swims\)](https://open.spotify.com/track/5MnmuLgPmsAFkmG5n85cna) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [BURNS](https://open.spotify.com/artist/5eKqhPrKad0J9xGAtq3rW7), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Better \(feat\. Teddy Swims\)](https://open.spotify.com/album/0sZCthcwNebNdmwpXXmMKI) | 3:02 | 2022-07-15 |  |
-| [Better Alone](https://open.spotify.com/track/7fsiHd1FrQjjBdHvMA7uY7) | [Ross Quinn](https://open.spotify.com/artist/7zaRAbRhvbrGObP8CjdTsr) | [Mirage](https://open.spotify.com/album/5OiM0enXs1WLv4zZ79sJ3x) | 3:14 | 2024-06-28 |  |
+| [Better Alone](https://open.spotify.com/track/7fsiHd1FrQjjBdHvMA7uY7) | [Ross Quinn](https://open.spotify.com/artist/7zaRAbRhvbrGObP8CjdTsr) | [Mirage](https://open.spotify.com/album/5OiM0enXs1WLv4zZ79sJ3x) | 3:14 | 2024-06-28 | 2024-10-06 |
 | [Better Days](https://open.spotify.com/track/01KaVHhy0tzsHoeWUdHtUp) | [narou](https://open.spotify.com/artist/4WZfEIgHLAMmAxATgVjspH) | [Better Days](https://open.spotify.com/album/1Q2Pcq3RR5ZFtaYUbS5Qub) | 3:24 | 2024-06-17 | 2024-07-13 |
 | [Better Nights](https://open.spotify.com/track/1ts3V3FF6It4MB8SRSiWFd) | [LOST LIKE US](https://open.spotify.com/artist/3HdDenuk2AgR6ovskT428h) | [Better Nights](https://open.spotify.com/album/7b53SDEDfJrFmaSyRPUMAG) | 3:03 | 2024-09-06 |  |
 | [better off](https://open.spotify.com/track/6IfQgvL7w7Pc8oTG4rz0Q6) | [Syence](https://open.spotify.com/artist/4VfTgWhy9PKLJN3xKJcDqf), [Jake Neumar](https://open.spotify.com/artist/69weKTfYYEBofMntV36KPG) | [better off](https://open.spotify.com/album/5drwxFFxlPrea3j1ZQXxkl) | 4:50 | 2024-06-28 | 2024-08-24 |
@@ -81,6 +81,7 @@
 | [Condition](https://open.spotify.com/track/1DDLcSW4CJOAo2IcoyH3Ol) | [SWIM](https://open.spotify.com/artist/1OxXLWb0AXEgOfTUzlDg3V) | [In Circles](https://open.spotify.com/album/27P7tEDJJfKCZXqrLrw4yr) | 3:36 | 2024-04-12 |  |
 | [Contra](https://open.spotify.com/track/78Dnmmh4zDQf7mt2N7X7xW) | [OLAN](https://open.spotify.com/artist/1gMMbPTZtOb9W3IBYl6twO) | [Contra](https://open.spotify.com/album/0ZdaI36GXajBAlo3GRo3D5) | 3:44 | 2022-06-10 | 2022-07-28 |
 | [Crossed Our Hearts](https://open.spotify.com/track/6ZI7dfjX2IlxaXsFw5LIdf) | [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf) | [Crossed Our Hearts](https://open.spotify.com/album/1rdWSzcZSimmLjNQZQGO1o) | 2:50 | 2022-05-13 | 2022-07-29 |
+| [Crossfire](https://open.spotify.com/track/2M9g1BMhqVT51XpDw1gThu) | [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq), [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [ORIGIN \(Deluxe\)](https://open.spotify.com/album/72wRkJIO27W7JPUEQ0r3sK) | 3:07 | 2024-10-04 |  |
 | [Cruel Heart](https://open.spotify.com/track/1xpSTNyLKRqHKHvBVLXYma) | [Petit Biscuit](https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2) | [Discipline](https://open.spotify.com/album/4N0eQEqf5YaMlGQ3VyFRRq) | 3:33 | 2024-06-28 |  |
 | [Cruise](https://open.spotify.com/track/6wmR2TU2ke8vQP5Hv8TsVq) | [ROYA](https://open.spotify.com/artist/6OxEmD1kV3B1OhVjqWO9Zh) | [Cruise](https://open.spotify.com/album/2SalYuSmYNeLhZ4Eu70v7U) | 2:55 | 2024-07-19 |  |
 | [Crying On The Dancefloor](https://open.spotify.com/track/09rAJ1Q1NNJSaUKEW3X9P6) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Endless Summer](https://open.spotify.com/artist/3E0d6yF8knEtWluzLbxCVA), [Violet Days](https://open.spotify.com/artist/4uNv6RD2YXwoaKgHfJZkkL) | [Crying On The Dancefloor](https://open.spotify.com/album/4IUv9dcdWGXkug84xuIwX7) | 2:53 | 2023-03-29 | 2023-08-19 |

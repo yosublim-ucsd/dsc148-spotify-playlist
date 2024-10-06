@@ -1,6 +1,6 @@
 {
   "description": "music to get fly to ft. Zendaya at Paris Fashion Week",
-  "num_followers": 564782,
+  "num_followers": 564745,
   "original_name": "'fit check",
   "owner": {
     "name": "Spotify",
@@ -547,22 +547,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Biking (Solo)",
-        "url": "https://open.spotify.com/album/46H4UzFHMLnGgpyrj9HpKr"
-      },
-      "artists": [
-        {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
-        }
-      ],
-      "duration_ms": 212494,
-      "name": "Biking (Solo)",
-      "url": "https://open.spotify.com/track/6gtNiLJNLBcV0P6Juenstp"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "Getaway",
         "url": "https://open.spotify.com/album/2WtfCHRb8cy4a2x8vOMVkM"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 180560,
       "name": "intro",
       "url": "https://open.spotify.com/track/6HSTJbYzJCK5jKz7hrsvQh"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Biking (Solo)",
+        "url": "https://open.spotify.com/album/46H4UzFHMLnGgpyrj9HpKr"
+      },
+      "artists": [
+        {
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+        }
+      ],
+      "duration_ms": 212494,
+      "name": "Biking (Solo)",
+      "url": "https://open.spotify.com/track/6gtNiLJNLBcV0P6Juenstp"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -831,22 +831,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Far Away",
-        "url": "https://open.spotify.com/album/1pxEdLxLLOV5SJWHHdoDXn"
-      },
-      "artists": [
-        {
-          "name": "Take Van",
-          "url": "https://open.spotify.com/artist/3BLx7avD36sNpMNA1nZ7Dj"
-        }
-      ],
-      "duration_ms": 104571,
-      "name": "In My Head",
-      "url": "https://open.spotify.com/track/5a5q1sFcpMoPRk5fRGWq2W"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "4EVA (feat. Pharrell Williams)",
         "url": "https://open.spotify.com/album/3unS7dpXcZ0MmNBDkp5Hqx"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 190373,
       "name": "4EVA (feat. Pharrell Williams)",
       "url": "https://open.spotify.com/track/3CblJq8QQQ0bb7vwJu8c3v"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Far Away",
+        "url": "https://open.spotify.com/album/1pxEdLxLLOV5SJWHHdoDXn"
+      },
+      "artists": [
+        {
+          "name": "Take Van",
+          "url": "https://open.spotify.com/artist/3BLx7avD36sNpMNA1nZ7Dj"
+        }
+      ],
+      "duration_ms": 104571,
+      "name": "In My Head",
+      "url": "https://open.spotify.com/track/5a5q1sFcpMoPRk5fRGWq2W"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1055,18 +1055,18 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "pawwwfect!",
-        "url": "https://open.spotify.com/album/7EMoYQ7QghVnHSsdNLWv5P"
+        "name": "HEATWAVE",
+        "url": "https://open.spotify.com/album/0H2zjZFLXSm5L2mNXUnC26"
       },
       "artists": [
         {
-          "name": "lil hero",
-          "url": "https://open.spotify.com/artist/2imvddeWiv58tUPKh8q3kO"
+          "name": "MICHELLE",
+          "url": "https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp"
         }
       ],
-      "duration_ms": 146186,
-      "name": "easy going down",
-      "url": "https://open.spotify.com/track/3aSKxB6ahFfhYydO6bU2QE"
+      "duration_ms": 219833,
+      "name": "THE BOTTOM",
+      "url": "https://open.spotify.com/track/5SG2BVsZr0W7cFAkjh60TT"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1091,18 +1091,18 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "HEATWAVE",
-        "url": "https://open.spotify.com/album/0H2zjZFLXSm5L2mNXUnC26"
+        "name": "pawwwfect!",
+        "url": "https://open.spotify.com/album/7EMoYQ7QghVnHSsdNLWv5P"
       },
       "artists": [
         {
-          "name": "MICHELLE",
-          "url": "https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp"
+          "name": "lil hero",
+          "url": "https://open.spotify.com/artist/2imvddeWiv58tUPKh8q3kO"
         }
       ],
-      "duration_ms": 219833,
-      "name": "THE BOTTOM",
-      "url": "https://open.spotify.com/track/5SG2BVsZr0W7cFAkjh60TT"
+      "duration_ms": 146186,
+      "name": "easy going down",
+      "url": "https://open.spotify.com/track/3aSKxB6ahFfhYydO6bU2QE"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1555,6 +1555,22 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
+        "name": "Mr Valentine",
+        "url": "https://open.spotify.com/album/2TuYvh4A25VRWjqxnC4sf0"
+      },
+      "artists": [
+        {
+          "name": "YAZ",
+          "url": "https://open.spotify.com/artist/6VvnLfGL8XDQomLEa91WPk"
+        }
+      ],
+      "duration_ms": 157875,
+      "name": "Mr Valentine",
+      "url": "https://open.spotify.com/track/2E51gp6rrOPtfvmrk6wIL5"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
         "name": "Time Machine",
         "url": "https://open.spotify.com/album/07wcvmb8zpMv1g1pV3rDw3"
       },
@@ -1575,22 +1591,6 @@
       "duration_ms": 251546,
       "name": "Time Machine",
       "url": "https://open.spotify.com/track/5dnEmsv2Uc24hMnLv9k0Xo"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "Mr Valentine",
-        "url": "https://open.spotify.com/album/2TuYvh4A25VRWjqxnC4sf0"
-      },
-      "artists": [
-        {
-          "name": "YAZ",
-          "url": "https://open.spotify.com/artist/6VvnLfGL8XDQomLEa91WPk"
-        }
-      ],
-      "duration_ms": 157875,
-      "name": "Mr Valentine",
-      "url": "https://open.spotify.com/track/2E51gp6rrOPtfvmrk6wIL5"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1723,6 +1723,22 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
+        "name": "Selfish Soul",
+        "url": "https://open.spotify.com/album/1zSjDYhE9QpJLaptBmBM8N"
+      },
+      "artists": [
+        {
+          "name": "Sudan Archives",
+          "url": "https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u"
+        }
+      ],
+      "duration_ms": 142666,
+      "name": "Selfish Soul",
+      "url": "https://open.spotify.com/track/3ceTUPvI4JAuSwFWfeB7Ym"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
         "name": "86Sentra",
         "url": "https://open.spotify.com/album/654CmOOF8AzNbGXzdQPWR6"
       },
@@ -1743,22 +1759,6 @@
       "duration_ms": 186967,
       "name": "Daydreaming",
       "url": "https://open.spotify.com/track/7iYoFGzYNNhoSdMBgSo5Bb"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "Selfish Soul",
-        "url": "https://open.spotify.com/album/1zSjDYhE9QpJLaptBmBM8N"
-      },
-      "artists": [
-        {
-          "name": "Sudan Archives",
-          "url": "https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u"
-        }
-      ],
-      "duration_ms": 142666,
-      "name": "Selfish Soul",
-      "url": "https://open.spotify.com/track/3ceTUPvI4JAuSwFWfeB7Ym"
     },
     {
       "added_at": "2024-08-23 04:00:00",

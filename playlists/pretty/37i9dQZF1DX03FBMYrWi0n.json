@@ -1,6 +1,6 @@
 {
   "description": "Le meilleur de la sc\u00e8ne alternative qu\u00e9b\u00e9coise actuelle. Photo: Ir\u00e8ne",
-  "num_followers": 5456,
+  "num_followers": 5464,
   "original_name": "ALT_QC",
   "owner": {
     "name": "Spotify",
@@ -559,22 +559,6 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "La hi\u00e9rarchill",
-        "url": "https://open.spotify.com/album/4fK0td94I2nsMsykLcquaO"
-      },
-      "artists": [
-        {
-          "name": "J\u00e9r\u00f4me 50",
-          "url": "https://open.spotify.com/artist/1afINkCcmeRcLKsjGof7F6"
-        }
-      ],
-      "duration_ms": 286826,
-      "name": "La hi\u00e9rarchill",
-      "url": "https://open.spotify.com/track/15ve7pAu3GiP8x9yoWNaUw"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
         "name": "Lou-Adriane Cassidy vous dit : Bonsoir",
         "url": "https://open.spotify.com/album/6UEj0UFeDADuPxGYXuANV7"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 108066,
       "name": "J'esp\u00e8re encore que quelque part l'attente s'arr\u00eate",
       "url": "https://open.spotify.com/track/4Ehesap4bAGsZfUFOon9fW"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "La hi\u00e9rarchill",
+        "url": "https://open.spotify.com/album/4fK0td94I2nsMsykLcquaO"
+      },
+      "artists": [
+        {
+          "name": "J\u00e9r\u00f4me 50",
+          "url": "https://open.spotify.com/artist/1afINkCcmeRcLKsjGof7F6"
+        }
+      ],
+      "duration_ms": 286826,
+      "name": "La hi\u00e9rarchill",
+      "url": "https://open.spotify.com/track/15ve7pAu3GiP8x9yoWNaUw"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -687,6 +687,22 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
+        "name": "Supermercado",
+        "url": "https://open.spotify.com/album/2d9sRDbb3g46M3pufQwsiK"
+      },
+      "artists": [
+        {
+          "name": "Corridor",
+          "url": "https://open.spotify.com/artist/4nn9uUq4K1vStqxe8t1CD4"
+        }
+      ],
+      "duration_ms": 242800,
+      "name": "Le grand \u00e9cart",
+      "url": "https://open.spotify.com/track/5qlF09NGhK3NMONkhM1PLU"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
         "name": "Lou-Adriane Cassidy vous dit : Bonsoir",
         "url": "https://open.spotify.com/album/6UEj0UFeDADuPxGYXuANV7"
       },
@@ -699,6 +715,22 @@
       "duration_ms": 149226,
       "name": "Entre mes jambes",
       "url": "https://open.spotify.com/track/2jnzN5bQk8zM6lWm0lKu4n"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "\u00c0 demain peut-\u00eatre",
+        "url": "https://open.spotify.com/album/5xjD6pGqoH2Hgh8CqkwNtW"
+      },
+      "artists": [
+        {
+          "name": "Galaxie",
+          "url": "https://open.spotify.com/artist/4RGr0QWqqUMDcXBIWTJ1xa"
+        }
+      ],
+      "duration_ms": 179706,
+      "name": "Anomie",
+      "url": "https://open.spotify.com/track/4BooW1BcdEhGCS4j7Kpx9M"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -731,38 +763,6 @@
       "duration_ms": 273997,
       "name": "Isumagijunnaitaungituq (The Unforgiven)",
       "url": "https://open.spotify.com/track/2aNAfaxwWoTnV0eC5RdJxy"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
-        "name": "Supermercado",
-        "url": "https://open.spotify.com/album/2d9sRDbb3g46M3pufQwsiK"
-      },
-      "artists": [
-        {
-          "name": "Corridor",
-          "url": "https://open.spotify.com/artist/4nn9uUq4K1vStqxe8t1CD4"
-        }
-      ],
-      "duration_ms": 242800,
-      "name": "Le grand \u00e9cart",
-      "url": "https://open.spotify.com/track/5qlF09NGhK3NMONkhM1PLU"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
-        "name": "\u00c0 demain peut-\u00eatre",
-        "url": "https://open.spotify.com/album/5xjD6pGqoH2Hgh8CqkwNtW"
-      },
-      "artists": [
-        {
-          "name": "Galaxie",
-          "url": "https://open.spotify.com/artist/4RGr0QWqqUMDcXBIWTJ1xa"
-        }
-      ],
-      "duration_ms": 179706,
-      "name": "Anomie",
-      "url": "https://open.spotify.com/track/4BooW1BcdEhGCS4j7Kpx9M"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -831,6 +831,22 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
+        "name": "O\u00f9 nos corps s'en vont mourir",
+        "url": "https://open.spotify.com/album/5wTzdT6lhcpv8PBqQkxXoA"
+      },
+      "artists": [
+        {
+          "name": "Marco Ema",
+          "url": "https://open.spotify.com/artist/5pyRXeeFhE3qPzioZRg5HJ"
+        }
+      ],
+      "duration_ms": 177413,
+      "name": "Amy",
+      "url": "https://open.spotify.com/track/6cjoFnCGY5bBlcxu0W7gvq"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
         "name": "Phil\u00e9douche",
         "url": "https://open.spotify.com/album/2Dpv6xDtk2IpPk4OvcZtzH"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 293200,
       "name": "Depuis",
       "url": "https://open.spotify.com/track/1Usjk5AH5azDSfUstQ50bG"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
-        "name": "O\u00f9 nos corps s'en vont mourir",
-        "url": "https://open.spotify.com/album/5wTzdT6lhcpv8PBqQkxXoA"
-      },
-      "artists": [
-        {
-          "name": "Marco Ema",
-          "url": "https://open.spotify.com/artist/5pyRXeeFhE3qPzioZRg5HJ"
-        }
-      ],
-      "duration_ms": 177413,
-      "name": "Amy",
-      "url": "https://open.spotify.com/track/6cjoFnCGY5bBlcxu0W7gvq"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -943,18 +943,18 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "hana",
-        "url": "https://open.spotify.com/album/2TkxPbXf8lg0cgHZh823Tg"
+        "name": "bla bla bla",
+        "url": "https://open.spotify.com/album/6iHKdmK6qrRSCMjIH309yx"
       },
       "artists": [
         {
-          "name": "Virginie B",
-          "url": "https://open.spotify.com/artist/5lKndZJCSUoXztCsyrhUut"
+          "name": "distraction4ever",
+          "url": "https://open.spotify.com/artist/7thbB90E6B9E50WqGJlcSh"
         }
       ],
-      "duration_ms": 155240,
-      "name": "hana",
-      "url": "https://open.spotify.com/track/2Qvvb2wC3wPiRP2C0xxsc6"
+      "duration_ms": 172023,
+      "name": "bla bla bla",
+      "url": "https://open.spotify.com/track/0ntU62KuvSknHWMDfR03zT"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -975,34 +975,18 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "Rencontrer Looloo",
-        "url": "https://open.spotify.com/album/3yvFPD3YJenurvdHAxxDcg"
+        "name": "hana",
+        "url": "https://open.spotify.com/album/2TkxPbXf8lg0cgHZh823Tg"
       },
       "artists": [
         {
-          "name": "Chocolat",
-          "url": "https://open.spotify.com/artist/1WCqmUezh1dSnBcHSozS57"
+          "name": "Virginie B",
+          "url": "https://open.spotify.com/artist/5lKndZJCSUoXztCsyrhUut"
         }
       ],
-      "duration_ms": 150320,
-      "name": "Ah ouin",
-      "url": "https://open.spotify.com/track/4JVe6FuY32Bl8oJberHU5E"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
-        "name": "bla bla bla",
-        "url": "https://open.spotify.com/album/6iHKdmK6qrRSCMjIH309yx"
-      },
-      "artists": [
-        {
-          "name": "distraction4ever",
-          "url": "https://open.spotify.com/artist/7thbB90E6B9E50WqGJlcSh"
-        }
-      ],
-      "duration_ms": 172023,
-      "name": "bla bla bla",
-      "url": "https://open.spotify.com/track/0ntU62KuvSknHWMDfR03zT"
+      "duration_ms": 155240,
+      "name": "hana",
+      "url": "https://open.spotify.com/track/2Qvvb2wC3wPiRP2C0xxsc6"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -1019,6 +1003,22 @@
       "duration_ms": 268426,
       "name": "Ma\u00efa",
       "url": "https://open.spotify.com/track/74VUaKDV1hUSpEpMxe2Ct4"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "Rencontrer Looloo",
+        "url": "https://open.spotify.com/album/3yvFPD3YJenurvdHAxxDcg"
+      },
+      "artists": [
+        {
+          "name": "Chocolat",
+          "url": "https://open.spotify.com/artist/1WCqmUezh1dSnBcHSozS57"
+        }
+      ],
+      "duration_ms": 150320,
+      "name": "Ah ouin",
+      "url": "https://open.spotify.com/track/4JVe6FuY32Bl8oJberHU5E"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -1167,18 +1167,18 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "Espacia",
-        "url": "https://open.spotify.com/album/4Y73mMgDuqVCQjuFHu6g9I"
+        "name": "Lighter Fluid",
+        "url": "https://open.spotify.com/album/5qHZZ38krHocEYUbDpAWtQ"
       },
       "artists": [
         {
-          "name": "Larynx",
-          "url": "https://open.spotify.com/artist/3xNTgfmlR42FlHCAnFkUac"
+          "name": "Les Deuxluxes",
+          "url": "https://open.spotify.com/artist/6k5PugZm3EOJkU08XUPzTg"
         }
       ],
-      "duration_ms": 232551,
-      "name": "Espacia",
-      "url": "https://open.spotify.com/track/5tAH4gpZQGctdBoJl2hdg3"
+      "duration_ms": 171321,
+      "name": "Lighter Fluid",
+      "url": "https://open.spotify.com/track/2SdHjIcNVrrSMtxhoOskRW"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -1199,18 +1199,18 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "Lighter Fluid",
-        "url": "https://open.spotify.com/album/5qHZZ38krHocEYUbDpAWtQ"
+        "name": "Espacia",
+        "url": "https://open.spotify.com/album/4Y73mMgDuqVCQjuFHu6g9I"
       },
       "artists": [
         {
-          "name": "Les Deuxluxes",
-          "url": "https://open.spotify.com/artist/6k5PugZm3EOJkU08XUPzTg"
+          "name": "Larynx",
+          "url": "https://open.spotify.com/artist/3xNTgfmlR42FlHCAnFkUac"
         }
       ],
-      "duration_ms": 171321,
-      "name": "Lighter Fluid",
-      "url": "https://open.spotify.com/track/2SdHjIcNVrrSMtxhoOskRW"
+      "duration_ms": 232551,
+      "name": "Espacia",
+      "url": "https://open.spotify.com/track/5tAH4gpZQGctdBoJl2hdg3"
     },
     {
       "added_at": "2024-09-20 04:00:00",

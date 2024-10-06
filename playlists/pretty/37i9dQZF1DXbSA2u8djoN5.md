@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSA2u8djoN5.md) - [plain]
 
 > Lasă\-te inspirat pe ritmuri de hip\-hop\. Cover: Guess Who
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,039 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,041 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSA2u8djoN5.md) - [plain]
 | 14 | [TELEKOM](https://open.spotify.com/track/0r5Yn0ncQ8p2HRzq0mHJjT) | [Ian](https://open.spotify.com/artist/0GoJXmDr5UBG8ValCZe4om), [M.G.L.](https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM) | [BEAST MODE +](https://open.spotify.com/album/6zIcb842Cw4ve0UMNsmSFg) | 2:29 |
 | 15 | [BAGS IN THIS B\*TCH](https://open.spotify.com/track/0RGDLi89VQJLv2j5owaHcD) | [Marko Glass](https://open.spotify.com/artist/07nCYoPlXkWlhC2FHm1INS) | [BAGS IN THIS B\*TCH](https://open.spotify.com/album/7pyrxbNspDLhlN7SlitvHx) | 2:18 |
 | 16 | [Sa MM Care Pleaca](https://open.spotify.com/track/2sCUjlQUEVP8Sn4Lfk71T6) | [Sami G](https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr) | [Sa MM Care Pleaca](https://open.spotify.com/album/641PCOIaSeSDJaqczpIZds) | 1:59 |
-| 17 | [SPARGEM](https://open.spotify.com/track/3pLP7SbHC2qatQduBdgEc4) | [Aerozen](https://open.spotify.com/artist/5RqcTk3xp9dW1BLsdQ0NE9), [Killa Fonic](https://open.spotify.com/artist/20SBqzpuFoymhieHTNHUgl) | [NOTSOZEN](https://open.spotify.com/album/0oAlEarGdHNBAUbkWwnhjK) | 2:56 |
-| 18 | [BOSS](https://open.spotify.com/track/5EGtEaDy1AZnMxtymaqc3e) | [DZWS](https://open.spotify.com/artist/5ChWT8CfHjk2PnRG70ZgWV) | [BOSS](https://open.spotify.com/album/18IepYLuiT5JJHYymFiEw8) | 1:30 |
+| 17 | [BOSS](https://open.spotify.com/track/5EGtEaDy1AZnMxtymaqc3e) | [DZWS](https://open.spotify.com/artist/5ChWT8CfHjk2PnRG70ZgWV) | [BOSS](https://open.spotify.com/album/18IepYLuiT5JJHYymFiEw8) | 1:30 |
+| 18 | [SPARGEM](https://open.spotify.com/track/3pLP7SbHC2qatQduBdgEc4) | [Aerozen](https://open.spotify.com/artist/5RqcTk3xp9dW1BLsdQ0NE9), [Killa Fonic](https://open.spotify.com/artist/20SBqzpuFoymhieHTNHUgl) | [NOTSOZEN](https://open.spotify.com/album/0oAlEarGdHNBAUbkWwnhjK) | 2:56 |
 | 19 | [OCHI ALBAȘTRI](https://open.spotify.com/track/2TPCbtaXlKvgyBOedKQ3yX) | [Petre Stefan](https://open.spotify.com/artist/0yjc2FN5zju7xyuJsTfGkh), [Bianca Ionescu](https://open.spotify.com/artist/6FjEnxqyibwj2OM2WQg8hU) | [OCHI ALBAȘTRI](https://open.spotify.com/album/6ZhrWAL2jz0MqctVKSayK3) | 3:52 |
 | 20 | [inexplicabil](https://open.spotify.com/track/6XIkg4IIz3DP1Z7WCa63o5) | [Oscar](https://open.spotify.com/artist/6dKPNkSEQOrRRvZz63Y47F), [Stefan Costea](https://open.spotify.com/artist/3w8r8LEPG3zHNvRCj92b58), [Pitariu George](https://open.spotify.com/artist/2Bc4sRO6Nnwn2bc1lLpL5s) | [Ștefan IV](https://open.spotify.com/album/1j2XXVOk5fk60ZRm5QpqFp) | 3:14 |
 | 21 | [PESTE TOT](https://open.spotify.com/track/2akD1C98hzYuUnqslTor11) | [M.G.L.](https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM) | [PESTE TOT](https://open.spotify.com/album/6yX2Obn7R5hpjXs9VA7aNd) | 2:26 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSA2u8djoN5.md) - [plain]
 | 43 | [Scandal](https://open.spotify.com/track/3zXbl7MWZJR7uyPwMqtRFU) | [Sapte](https://open.spotify.com/artist/5nbi8ytYDMpqTmmeufTwcG), [M.G.L.](https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM) | [Scandal](https://open.spotify.com/album/5aLIlfIdT9HKXksk98qG3q) | 3:16 |
 | 44 | [7 văi și o vale](https://open.spotify.com/track/0mLDTm9K7vbdjtnSGjYwxG) | [El Nino](https://open.spotify.com/artist/01tCOipZP0bkn0LjSZ5S5i), [F.Charm](https://open.spotify.com/artist/0g9bClZlYEbEAIzdYw7Q3I) | [7 văi și o vale](https://open.spotify.com/album/0ZCxIHLBxERqxBRVaJslpQ) | 2:43 |
 | 45 | [iNGER](https://open.spotify.com/track/4lKDvhNzcRhHYfNOWqTPgx) | [Azteca](https://open.spotify.com/artist/5ysOQVQHHU9GJZBKmZMRHv) | [iNGER](https://open.spotify.com/album/6NWyRBmyZAWLE76D3DhJSw) | 3:21 |
-| 46 | [Victoria](https://open.spotify.com/track/2TMLnhAtlKRTzU45ag82se) | [OG Eastbull](https://open.spotify.com/artist/754BJcKdHZH7tj9xFq3hHO), [Guess Who](https://open.spotify.com/artist/2CIhA8Jh3xrpFrHYMjYzBy), [Oscar](https://open.spotify.com/artist/6dKPNkSEQOrRRvZz63Y47F) | [Cel mai frumos show](https://open.spotify.com/album/3jQEVnPOB9v5Dv7aWExx3b) | 2:54 |
-| 47 | [Un vibe](https://open.spotify.com/track/6Q7FRyOQuqrNPVzjiI261m) | [Criss Blaziny](https://open.spotify.com/artist/5FhmWWRpvTGJweL2wklh1e), [Seredinschi](https://open.spotify.com/artist/4NMtBs4MtGabW06bo0JlMN) | [Un vibe](https://open.spotify.com/album/6ygjbwFvmZXFP77Cgx1OEG) | 2:19 |
+| 46 | [Un vibe](https://open.spotify.com/track/6Q7FRyOQuqrNPVzjiI261m) | [Criss Blaziny](https://open.spotify.com/artist/5FhmWWRpvTGJweL2wklh1e), [Seredinschi](https://open.spotify.com/artist/4NMtBs4MtGabW06bo0JlMN) | [Un vibe](https://open.spotify.com/album/6ygjbwFvmZXFP77Cgx1OEG) | 2:19 |
+| 47 | [Victoria](https://open.spotify.com/track/2TMLnhAtlKRTzU45ag82se) | [OG Eastbull](https://open.spotify.com/artist/754BJcKdHZH7tj9xFq3hHO), [Guess Who](https://open.spotify.com/artist/2CIhA8Jh3xrpFrHYMjYzBy), [Oscar](https://open.spotify.com/artist/6dKPNkSEQOrRRvZz63Y47F) | [Cel mai frumos show](https://open.spotify.com/album/3jQEVnPOB9v5Dv7aWExx3b) | 2:54 |
 | 48 | [SLIPPERȘI NOI](https://open.spotify.com/track/1yudIFzWBSY4SR3G6jW1Jy) | [NANE](https://open.spotify.com/artist/1QexdJFYGyxdBlEpDSy0d4) | [SLIPPERȘI NOI](https://open.spotify.com/album/40AzON3oRfcVwzOqrxnY9H) | 2:46 |
 | 49 | [Adevaru' obscen](https://open.spotify.com/track/31Xr1dMPE183zUQbEpgqHG) | [Alan](https://open.spotify.com/artist/6bed33pnmAGVK3hyip7xo4), [Cheloo](https://open.spotify.com/artist/6JK8YGmVPJR1FM7P9BSQtE) | [31 Februarie](https://open.spotify.com/album/1sy5FydU38TaXUe6dbdb1A) | 2:49 |
 | 50 | [Dela Dela](https://open.spotify.com/track/5IdyQNtt6kWq1vft7P2HPh) | [Spike](https://open.spotify.com/artist/6JDu6pr6teBn79KqBTOXdp) | [Dela Dela](https://open.spotify.com/album/16I4fTGWIClUruki1C3Inz) | 2:47 |

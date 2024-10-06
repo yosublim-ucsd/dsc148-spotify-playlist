@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > Ren refleks 😮‍💨 <a href="spotify:artist:4Bu9ocyPQWQRyk3kXDSNlv">Carmon</a> x <a href="spotify:artist:2dfY7zXIP61MKHtD175hFp">Noah Carter</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,723 likes - 103 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,722 likes - 103 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

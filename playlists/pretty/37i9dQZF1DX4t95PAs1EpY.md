@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4t95PAs1EpY.md) - [plain]
 
 > beats + birds = <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,599 likes - 264 songs - 10 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,697 likes - 264 songs - 10 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -199,7 +199,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4t95PAs1EpY.md) - [plain]
 | 189 | [later that year](https://open.spotify.com/track/1yCHrKV9rVX8TJewzt92bt) | [harvest boy](https://open.spotify.com/artist/2V8pkWIxUczc3E02l6ZQ8J) | [later that year](https://open.spotify.com/album/39Yw5V2DkO0QaH8BoeIuE6) | 2:10 |
 | 190 | [Indigo Rum](https://open.spotify.com/track/36BbszCnXVtbWGNitSnSTE) | [Zho Zho](https://open.spotify.com/artist/1kmThtC0J9kzWqMy89sIyJ) | [Indigo Rum \- Ambience](https://open.spotify.com/album/2GpVB5kuOjlvXc3gTv2HxM) | 2:34 |
 | 191 | [To The Moon](https://open.spotify.com/track/68HvRKLpQNKsLCe0PwlvMH) | [wyn wyn](https://open.spotify.com/artist/6kwzDhgCKDRoXRmS4eO1QT) | [To The Moon](https://open.spotify.com/album/2NPDCbWyUgKCIVfwnx0C2e) | 2:20 |
-| 192 | [birds](https://open.spotify.com/track/6o1mhFF1NpGQqR3usVLSLk) | [digitalluc](https://open.spotify.com/artist/4WT5TNNUvgRLjAiWce3K5z) | [birds](https://open.spotify.com/album/6Y8nFCKVLh1eJATqh2xvgW) | 2:19 |
+| 192 | [Birds](https://open.spotify.com/track/6o1mhFF1NpGQqR3usVLSLk) | [digitalluc](https://open.spotify.com/artist/4WT5TNNUvgRLjAiWce3K5z) | [Birds](https://open.spotify.com/album/6Y8nFCKVLh1eJATqh2xvgW) | 2:19 |
 | 193 | [El Jardín](https://open.spotify.com/track/2vjpUv3v0O3NDHd8C2gWjM) | [El Trizte](https://open.spotify.com/artist/1bAXAt2A2yrjPuGPBjqQAV) | [El Jardín](https://open.spotify.com/album/4NxNucdIBhvqjzGaGSz2l0) | 2:20 |
 | 194 | [Advancing Clocks](https://open.spotify.com/track/7swnMRbwI93juFNuwedI0g) | [C4C](https://open.spotify.com/artist/5jZeLexrrwGNUy6nv7tzdr), [Mike Beating](https://open.spotify.com/artist/3EuxGwWNxr2SRmosxJZEB3) | [Advancing Clocks](https://open.spotify.com/album/3iAuPg7eHMETIV2DJpKEJg) | 2:08 |
 | 195 | [Elven Dreams](https://open.spotify.com/track/3wfro86nvNDJ4RrBonhvt2) | [idylla](https://open.spotify.com/artist/3D7OiZlCToIsRybYCEDvIL), [Kainbeats](https://open.spotify.com/artist/4n9z9czt00gzw36hdoVU3G) | [Elven Dreams](https://open.spotify.com/album/1hidOQ2duKze98WaERe7sE) | 2:38 |

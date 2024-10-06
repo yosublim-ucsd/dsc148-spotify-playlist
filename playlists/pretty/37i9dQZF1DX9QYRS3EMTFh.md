@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QYRS3EMTFh.md) - [plain]
 
 > Les hits dancehall du moment\. Photo : Kalash
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,495 likes - 39 songs - 1 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,579 likes - 39 songs - 1 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

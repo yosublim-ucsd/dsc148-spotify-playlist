@@ -35745,6 +35745,24 @@
     },
     {
       "album": {
+        "name": "Puhelinlangat Laulaa",
+        "url": "https://open.spotify.com/album/0LJVJhA7b1ri49uNKxlT00"
+      },
+      "artists": [
+        {
+          "name": "Marko Hietala",
+          "url": "https://open.spotify.com/artist/1tbhwOH5UBAJoqTx9Oak00"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170867,
+      "name": "Puhelinlangat Laulaa",
+      "url": "https://open.spotify.com/track/0etwmf2vczele3kZwIcPOa"
+    },
+    {
+      "album": {
         "name": "Sun y\u00f6 on pian t\u00e4\u00e4ll\u00e4",
         "url": "https://open.spotify.com/album/0m106BcaEniXYbbb2m8OeY"
       },

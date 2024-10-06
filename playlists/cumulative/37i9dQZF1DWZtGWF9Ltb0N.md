@@ -4,7 +4,7 @@
 
 > Floor shattering bass and dark soundscapes to dive into.
 
-675 songs - 1 day 22 hr 20 min
+676 songs - 1 day 22 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -485,7 +485,7 @@
 | [Ride Out](https://open.spotify.com/track/5NjFTKQe08qkzfYIYg2hMf) | [ColtCuts](https://open.spotify.com/artist/7B7K7clWpHy7DkuIX7d9xd), [The Widdler](https://open.spotify.com/artist/3SCAEdZEfpatrvdFeDLD2p) | [Ride Out](https://open.spotify.com/album/0g6JAuSxiBOAYvCsjTEG0m) | 4:20 | 2022-02-17 | 2024-02-08 |
 | [Righteous](https://open.spotify.com/track/6vLVc8UKfHm5HFbprTee4T) | [Monty](https://open.spotify.com/artist/2w5c2l70mYNDdSLifFyZjJ) | [Righteous](https://open.spotify.com/album/3hZqvmxuYCPFnm7dz0uDIM) | 4:45 | 2022-02-17 | 2023-05-26 |
 | [Ripper](https://open.spotify.com/track/1PsWZXdjF9Wprodd5u4F6n) | [Mr\. Carmack](https://open.spotify.com/artist/4OHaWpWPKDcZgOOUn9elFn), [Shanghai Doom](https://open.spotify.com/artist/0663ucUX5KdVY18dEYe0KC) | [Ripper](https://open.spotify.com/album/5D5kHZyrBy45ryggx31az3) | 3:30 | 2022-08-19 |  |
-| [Rise](https://open.spotify.com/track/5ljP4kya9X4nHhcuhQ3A60) | [VCTRE](https://open.spotify.com/artist/45B2tXcwmZXjfCbK6c3oqu), [OkayJake](https://open.spotify.com/artist/1inEarlQOFZ2KWNnQDHqo3) | [Rise](https://open.spotify.com/album/0KEFZnJoHiHzywPl5bP71Y) | 2:24 | 2024-05-31 |  |
+| [Rise](https://open.spotify.com/track/5ljP4kya9X4nHhcuhQ3A60) | [VCTRE](https://open.spotify.com/artist/45B2tXcwmZXjfCbK6c3oqu), [OkayJake](https://open.spotify.com/artist/1inEarlQOFZ2KWNnQDHqo3) | [Rise](https://open.spotify.com/album/0KEFZnJoHiHzywPl5bP71Y) | 2:24 | 2024-05-31 | 2024-10-06 |
 | [Roots Dub](https://open.spotify.com/track/0yrcb1cwkgheJ7jEcTMwsh) | [The Widdler](https://open.spotify.com/artist/3SCAEdZEfpatrvdFeDLD2p) | [Roots \- EP](https://open.spotify.com/album/1wLirC220sMgkHxPrwN3M2) | 4:20 | 2022-02-17 |  |
 | [Roots Music](https://open.spotify.com/track/47Q2U9ao1PdM1VAYz0eVUl) | [Dubbacle](https://open.spotify.com/artist/6XXAt80nWrZ5Dct2rRGwbu) | [Reflection](https://open.spotify.com/album/4NJkW6VbUmNqGTnSEATqJl) | 4:37 | 2022-02-17 | 2023-09-18 |
 | [ROUND AFTER ROUND](https://open.spotify.com/track/1C4kWP8ni5B043m2E0Sk1y) | [Hgods](https://open.spotify.com/artist/1mrXo5fhYhx3gEiLjbOtYA), [Cito Blick](https://open.spotify.com/artist/4DKs9UVIaSIUFEfNU6RIgL) | [ROUND AFTER ROUND](https://open.spotify.com/album/48ZwXZwNH5i3j43Ghu1b4S) | 2:00 | 2024-05-17 | 2024-09-14 |
@@ -629,6 +629,7 @@
 | [Trenches](https://open.spotify.com/track/6s4T0UEJs5kX6EsEjvfXpw) | [Duke & Jones](https://open.spotify.com/artist/3jNm5wvIx1eR5NDdXhMkNV), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4) | [Trenches](https://open.spotify.com/album/0BIuPX2XzG3P7Bir90cpP4) | 2:49 | 2022-02-17 | 2022-11-19 |
 | [Trial & Tribulation](https://open.spotify.com/track/6SdUP1Ck0YKjl7vcUCYJtw) | [Sorrow](https://open.spotify.com/artist/3PHeRud25vIfvIChlwBMlC) | [Phantom E.P](https://open.spotify.com/album/1qcVpGabSsloe04aViRRhL) | 5:27 | 2022-02-17 | 2022-06-11 |
 | [Trouble](https://open.spotify.com/track/6dMT9nL41UUJkmqXdWRFEb) | [Effin](https://open.spotify.com/artist/6l0u1oM2imxw0isrGcXpmH) | [Trouble](https://open.spotify.com/album/1weftXORtDW783sNWPbXwN) | 4:05 | 2024-08-09 |  |
+| [Trust \- Headland Remix](https://open.spotify.com/track/4erhnQMsnY1RqnIQmdkEst) | [Eprom](https://open.spotify.com/artist/2c2X6dr1PHctH24BxNOjHi), [Headland](https://open.spotify.com/artist/1lgQK2ZzhWHY54kWPABNAb) | [Trust \(Headland Remix\)](https://open.spotify.com/album/1Hi9qO0BpeWgMGpb5pLKAY) | 3:15 | 2024-10-04 |  |
 | [Trust Nobody](https://open.spotify.com/track/0xchz8wdvw0qRLnZLzuEji) | [SP:MC](https://open.spotify.com/artist/1YLeUsNujSB7Fp1tnCWZi2) | [Tempa Presents: UK Dubstep, Vol\. 1](https://open.spotify.com/album/3nBBTtMvBaQmRQsgFF4jzi) | 4:32 | 2022-02-17 | 2022-07-27 |
 | [Trust Nobody](https://open.spotify.com/track/2K8XDP1FZKf6B7sdjemg3g) | [SP:MC](https://open.spotify.com/artist/1YLeUsNujSB7Fp1tnCWZi2) | [Trust Nobody / Future](https://open.spotify.com/album/32qDVlH7MF6QnyfvSTTAEN) | 4:32 | 2022-07-08 | 2022-10-01 |
 | [Uaom](https://open.spotify.com/track/4mK2I5GxzXOK2PtXmlSU9S) | [Seppa](https://open.spotify.com/artist/1C30meVeKuvE96dnMbmimz) | [Split](https://open.spotify.com/album/3IHol2HSPjb3nbVAOhBCBF) | 4:10 | 2022-02-17 | 2022-07-09 |

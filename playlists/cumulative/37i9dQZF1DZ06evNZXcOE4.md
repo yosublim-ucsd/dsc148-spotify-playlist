@@ -2,7 +2,7 @@
 
 ### [This Is Jane's Addiction](https://open.spotify.com/playlist/37i9dQZF1DZ06evNZXcOE4)
 
-> This is Jane's Addiction\. En önemli parçalar, hepsi tek bir çalma listesinde.
+> This Is Jane's Addiction\. Los temas esenciales, todos en una lista.
 
 60 songs - 4 hr 28 min
 

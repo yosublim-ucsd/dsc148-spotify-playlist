@@ -1103,6 +1103,24 @@
     },
     {
       "album": {
+        "name": "Moon Music",
+        "url": "https://open.spotify.com/album/5SGtrmYbIo0Dsg4kJ4qjM6"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "date_added": "2024-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222647,
+      "name": "ALL MY LOVE",
+      "url": "https://open.spotify.com/track/6iYxkBHyMpsgVxUgfy5fSx"
+    },
+    {
+      "album": {
         "name": "BAR 2023",
         "url": "https://open.spotify.com/album/1OA82zcijIZXcQPf958LLr"
       },
@@ -1556,7 +1574,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-06",
       "duration_ms": 244360,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/5E4jBLx4P0UBji68bBThSw"
@@ -2240,7 +2258,7 @@
       ],
       "date_added": "2024-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-06",
       "duration_ms": 184577,
       "name": "Bad Dreams",
       "url": "https://open.spotify.com/track/3nHuKdFJZm78CoeBnDcFKe"
@@ -5270,7 +5288,7 @@
       ],
       "date_added": "2024-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-06",
       "duration_ms": 166880,
       "name": "Carry You Home",
       "url": "https://open.spotify.com/track/5o0osRx8kYJTOqlOSggr9Z"
@@ -10017,6 +10035,24 @@
     },
     {
       "album": {
+        "name": "Fargepalett",
+        "url": "https://open.spotify.com/album/7DDnAh6stiJh89pYttClM6"
+      },
+      "artists": [
+        {
+          "name": "Nessi",
+          "url": "https://open.spotify.com/artist/6BU3m4HABKbgt8jhyFuBdl"
+        }
+      ],
+      "date_added": "2024-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141335,
+      "name": "Fargepalett",
+      "url": "https://open.spotify.com/track/7r8FITLqf8562PHKShR9gc"
+    },
+    {
+      "album": {
         "name": "det er mindre ensomt alene",
         "url": "https://open.spotify.com/album/78pLqJwUxMeqtkwwItADPX"
       },
@@ -10200,6 +10236,24 @@
       "duration_ms": 182769,
       "name": "Feeling Myself - Roc Boyz Remix",
       "url": "https://open.spotify.com/track/67en3njm0MOvKPIM3lkR3V"
+    },
+    {
+      "album": {
+        "name": "Moon Music",
+        "url": "https://open.spotify.com/album/5SGtrmYbIo0Dsg4kJ4qjM6"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "date_added": "2024-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236230,
+      "name": "feelslikeimfallinginlove",
+      "url": "https://open.spotify.com/track/49S3znqBAQyPyMpEuKeyJ6"
     },
     {
       "album": {
@@ -13426,7 +13480,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-06",
       "duration_ms": 167012,
       "name": "Heavy Is the Crown",
       "url": "https://open.spotify.com/track/3fgehc497TFqKH1zBL2YNK"
@@ -14682,7 +14736,7 @@
       ],
       "date_added": "2024-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-06",
       "duration_ms": 227032,
       "name": "Houdini",
       "url": "https://open.spotify.com/track/1CDQzbCz4KSQxHe7LMEgRM"
@@ -15158,6 +15212,32 @@
       "duration_ms": 163217,
       "name": "Hyttetur",
       "url": "https://open.spotify.com/track/61uGtEPHDTwYDVwI7kMMFY"
+    },
+    {
+      "album": {
+        "name": "H\u00e5nd I Hanske (Brottsmann)",
+        "url": "https://open.spotify.com/album/2qt8z1HhFohrme0rWKvkI6"
+      },
+      "artists": [
+        {
+          "name": "Sleiken",
+          "url": "https://open.spotify.com/artist/0l2QmwUY1pWAjK8RcoXQ2v"
+        },
+        {
+          "name": "404",
+          "url": "https://open.spotify.com/artist/2bLUPXEzgA4BRIZCk2x1Pi"
+        },
+        {
+          "name": "Roc Mul",
+          "url": "https://open.spotify.com/artist/2QkG2LM1QO37UTojXXTCvB"
+        }
+      ],
+      "date_added": "2024-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144461,
+      "name": "H\u00e5nd I Hanske (Brottsmann)",
+      "url": "https://open.spotify.com/track/6RoSerWCwfdjlRxACcV5r7"
     },
     {
       "album": {
@@ -17222,6 +17302,24 @@
       "duration_ms": 148142,
       "name": "JEG HATER DEG",
       "url": "https://open.spotify.com/track/0pb6jcU6ncdHhpigpPnm7Y"
+    },
+    {
+      "album": {
+        "name": "Jeg hater deg",
+        "url": "https://open.spotify.com/album/6B30YfLbkpAP6NlHisd4Ds"
+      },
+      "artists": [
+        {
+          "name": "Sophie Stray",
+          "url": "https://open.spotify.com/artist/3N5ClJMyntW9ol6wR1ZI1X"
+        }
+      ],
+      "date_added": "2024-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142712,
+      "name": "Jeg hater deg",
+      "url": "https://open.spotify.com/track/5Q2cbjla7Ix468vl7SRoUk"
     },
     {
       "album": {
@@ -20136,7 +20234,7 @@
       ],
       "date_added": "2024-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-06",
       "duration_ms": 194785,
       "name": "Lost and found",
       "url": "https://open.spotify.com/track/5GdAGqF9ZI4gADtpVAxqe7"
@@ -25587,6 +25685,24 @@
     },
     {
       "album": {
+        "name": "PLEASUREDOME",
+        "url": "https://open.spotify.com/album/7uHBRkjsdtsNaKBdNX5M6K"
+      },
+      "artists": [
+        {
+          "name": "Streetboys",
+          "url": "https://open.spotify.com/artist/6R3OPXyzteMubaNClGZZDW"
+        }
+      ],
+      "date_added": "2024-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177977,
+      "name": "PLEASUREDOME",
+      "url": "https://open.spotify.com/track/2F3yQZubukl4L9BHnqtEs7"
+    },
+    {
+      "album": {
         "name": "Plz",
         "url": "https://open.spotify.com/album/1fq4RgmOWZDIcn8xMU8Seb"
       },
@@ -28225,6 +28341,32 @@
     },
     {
       "album": {
+        "name": "Sees Igjen",
+        "url": "https://open.spotify.com/album/2ZbDIWIGCKtpK26NRTUw6s"
+      },
+      "artists": [
+        {
+          "name": "Golfklubb",
+          "url": "https://open.spotify.com/artist/1Kj6Km5IuLGKt2cxuhSgLm"
+        },
+        {
+          "name": "Dizzy",
+          "url": "https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy"
+        },
+        {
+          "name": "Philippe",
+          "url": "https://open.spotify.com/artist/23yPgzwt35lJyA3f8ayMfW"
+        }
+      ],
+      "date_added": "2024-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163142,
+      "name": "Sees Igjen",
+      "url": "https://open.spotify.com/track/2QyL2WhZmOfpVSxy2BaI8U"
+    },
+    {
+      "album": {
         "name": "Selfish",
         "url": "https://open.spotify.com/album/3G89Vbw7shdM38VCVsFdoy"
       },
@@ -30322,7 +30464,7 @@
       ],
       "date_added": "2024-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-06",
       "duration_ms": 234366,
       "name": "Stars Will Align",
       "url": "https://open.spotify.com/track/5REMa10O4aA2mLtYyflWxs"
@@ -32414,7 +32556,7 @@
       ],
       "date_added": "2023-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-06",
       "duration_ms": 208211,
       "name": "The Night We Met",
       "url": "https://open.spotify.com/track/0QZ5yyl6B6utIWkxeBDxQN"
@@ -32432,7 +32574,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-05",
+      "date_removed": null,
       "duration_ms": 208211,
       "name": "The Night We Met",
       "url": "https://open.spotify.com/track/3hRV0jL3vUpRrcy398teAU"
@@ -33122,7 +33264,7 @@
       ],
       "date_added": "2024-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-05",
+      "date_removed": null,
       "duration_ms": 251424,
       "name": "Too Sweet",
       "url": "https://open.spotify.com/track/19XpFsce28aByvCC4g89tJ"
@@ -33176,7 +33318,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-06",
       "duration_ms": 251424,
       "name": "Too Sweet",
       "url": "https://open.spotify.com/track/76JKIsdKrAfWUMjaA0u7v5"

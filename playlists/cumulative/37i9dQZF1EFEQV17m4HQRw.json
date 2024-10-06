@@ -585,6 +585,24 @@
     },
     {
       "album": {
+        "name": "O Protagonista",
+        "url": "https://open.spotify.com/album/3ww6ExGunZagBV8FJRzyw4"
+      },
+      "artists": [
+        {
+          "name": "Cris Alves",
+          "url": "https://open.spotify.com/artist/2W4yNmbDdeKdCuQSlP9H8o"
+        }
+      ],
+      "date_added": "2024-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169315,
+      "name": "O Protagonista",
+      "url": "https://open.spotify.com/track/5FrLfHABHDRUvqNP8hWGCr"
+    },
+    {
+      "album": {
         "name": "La Dr\u00e1cula",
         "url": "https://open.spotify.com/album/2oCiS07G3GJuZUQhv6J8MV"
       },

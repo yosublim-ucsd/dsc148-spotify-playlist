@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFCFzZm4jFXF.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/74wXW513Ovy4ux507Wo67A">Brad Mair</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50 likes - 104 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 51 likes - 104 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFCFzZm4jFXF.md) - [plain]
 | 49 | [Crossfire \(feat\. SMBDY\)](https://open.spotify.com/track/5cD20nkndQ7iRkoidzZCpc) | [Breathe Carolina](https://open.spotify.com/artist/53M4Iv2RkzzxFFvW2B1jhC), [SMBDY](https://open.spotify.com/artist/3EVIvUOdQq6byU8fIljO2e) | [Crossfire \(feat\. SMBDY\)](https://open.spotify.com/album/3eaRXUyq7GADlgdkST47de) | 3:36 |
 | 50 | [Slaves](https://open.spotify.com/track/481A3z4zAE8Oj2GO5onvvW) | [Tom Martin](https://open.spotify.com/artist/4P0KP5wunIHTElWsbeCow2) | [Slaves](https://open.spotify.com/album/4ShraflxQL4i5T7RvBKIVh) | 3:22 |
 | 51 | [run and hide](https://open.spotify.com/track/4ykgVfodt4mnApqbgX3oTX) | [Ruben Pol](https://open.spotify.com/artist/1eCiBMynCZBUlq0v5FeB2w) | [Infused Romance](https://open.spotify.com/album/2tLQcTuBFmEfuQZAsyB4Yj) | 2:45 |
-| 52 | [Twój](https://open.spotify.com/track/1KZkHbHds54V05FMXfR0Uf) | [Mateusz Golicki](https://open.spotify.com/artist/3ZIGVZeygg8uw2snhprtRO) | [Twój](https://open.spotify.com/album/50wxFePh1Gwc3whyx6jKdO) | 3:06 |
-| 53 | [Crazy Bitch](https://open.spotify.com/track/1ALb2cQBsy82S5kmBVkpxD) | [Madelline](https://open.spotify.com/artist/7t6dcfG1BhMh3LTAXhxmeL) | [Crazy Bitch](https://open.spotify.com/album/3nTpGSWw548JAYpwVJS4jZ) | 3:02 |
+| 52 | [Crazy Bitch](https://open.spotify.com/track/1ALb2cQBsy82S5kmBVkpxD) | [Madelline](https://open.spotify.com/artist/7t6dcfG1BhMh3LTAXhxmeL) | [Crazy Bitch](https://open.spotify.com/album/3nTpGSWw548JAYpwVJS4jZ) | 3:02 |
+| 53 | [Twój](https://open.spotify.com/track/1KZkHbHds54V05FMXfR0Uf) | [Mateusz Golicki](https://open.spotify.com/artist/3ZIGVZeygg8uw2snhprtRO) | [Twój](https://open.spotify.com/album/50wxFePh1Gwc3whyx6jKdO) | 3:06 |
 | 54 | [Midnight](https://open.spotify.com/track/0QDXHAPzManj6nrpAaIDvq) | [Curtis Walsh](https://open.spotify.com/artist/1skYjCzZNmy9Zjk7mdFgeS) | [Midnight](https://open.spotify.com/album/6YC6iMp9rv2swytDsECKbX) | 3:13 |
 | 55 | [Strangers](https://open.spotify.com/track/3gvhr2lER4orcdXJD9uM9n) | [Rasmus Hagen](https://open.spotify.com/artist/2xE7TMnsr4hxdQW5F3urtq) | [Strangers](https://open.spotify.com/album/3NfgRNjjFzEK2yVk4hwuug) | 3:18 |
 | 56 | [Circus](https://open.spotify.com/track/62bw5Ul7YeOXsQHq7HmT56) | [THE HARA](https://open.spotify.com/artist/2MizZlEPFQHeR3MndOyYoQ) | [Play Dead](https://open.spotify.com/album/3iOOZ1PJx2CEl7snAAW6W6) | 3:30 |
@@ -103,8 +103,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFCFzZm4jFXF.md) - [plain]
 | 93 | [When Your Heart Breaks](https://open.spotify.com/track/2biGgg6gebga1at1nAUAFP) | [St\. Lundi](https://open.spotify.com/artist/3i94wxAKQqlJyiPLDmjNdH) | [The Island](https://open.spotify.com/album/1sDwclBLUytS3yXeelFMK9) | 3:33 |
 | 94 | [Crossed My Mind](https://open.spotify.com/track/4C8huou5j2RRZTfSK2idZ5) | [The Tailormade](https://open.spotify.com/artist/7dD3Cn2hLHo6WxrMOqk7c3) | [Crossed My Mind](https://open.spotify.com/album/6PBwcnOnXFuZv2qUsxV9EP) | 3:53 |
 | 95 | [Cry Them For You](https://open.spotify.com/track/26Hh4z8smlH6Y7LtYN025c) | [Someone Else's Rain](https://open.spotify.com/artist/4TLkUSTypb5TnpKbGCsf6y) | [Cry Them For You](https://open.spotify.com/album/0cdfFRnZYCSrJJPoJY9P8z) | 3:43 |
-| 96 | [Ordinary](https://open.spotify.com/track/3dyMYkb3IYg7q2PeE4VI87) | [Joe Waller](https://open.spotify.com/artist/6EArtsF80MWahDlAzo86ZS) | [Ordinary](https://open.spotify.com/album/4sJYgIunlnwpc2ZrKj1xju) | 3:00 |
-| 97 | [Bloom](https://open.spotify.com/track/1zbOjoRf9zOMNEBq5UkfKm) | [Someone Else's Rain](https://open.spotify.com/artist/4TLkUSTypb5TnpKbGCsf6y) | [Bloom](https://open.spotify.com/album/32pIpSJ9rkj8AZpaeOyCOB) | 3:20 |
+| 96 | [Bloom](https://open.spotify.com/track/1zbOjoRf9zOMNEBq5UkfKm) | [Someone Else's Rain](https://open.spotify.com/artist/4TLkUSTypb5TnpKbGCsf6y) | [Bloom](https://open.spotify.com/album/32pIpSJ9rkj8AZpaeOyCOB) | 3:20 |
+| 97 | [Ordinary](https://open.spotify.com/track/3dyMYkb3IYg7q2PeE4VI87) | [Joe Waller](https://open.spotify.com/artist/6EArtsF80MWahDlAzo86ZS) | [Ordinary](https://open.spotify.com/album/4sJYgIunlnwpc2ZrKj1xju) | 3:00 |
 | 98 | [Journey ft Brad Mair \- Original Mix](https://open.spotify.com/track/1MUzQWygvkn8raQPCuWR8I) | [Brad Mair](https://open.spotify.com/artist/4wE9wGzadw1jAgPXXSga8D), [Patrick Pizzorni](https://open.spotify.com/artist/4JfAjdEGkHPBREqEkeiEcF) | [Journey](https://open.spotify.com/album/6e7er3QFLp4TXSxrnYgqtR) | 5:00 |
 | 99 | [Cougar In the Corner](https://open.spotify.com/track/0sTsYnEEHFEAWnzFkQ49zB) | [The Tailormade](https://open.spotify.com/artist/7dD3Cn2hLHo6WxrMOqk7c3) | [Cougar In the Corner](https://open.spotify.com/album/77mKy6Lxfc3Zw3KmgWrfkd) | 3:34 |
 | 100 | [Safety Net](https://open.spotify.com/track/2yTeagHV2X462W98YqMc4f) | [Ilona](https://open.spotify.com/artist/3hZb8S0Th3L3DlmMHZRNyM) | [Safety Net](https://open.spotify.com/album/03uCMCwmveI9lCeAhIEElX) | 4:38 |
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFCFzZm4jFXF.md) - [plain]
 | 103 | [Pon Me](https://open.spotify.com/track/6gNgcVrZceb97UQFZbKPCk) | [Craig Cavanagh](https://open.spotify.com/artist/2GTElyWjXSbnFBsqhsG8U9) | [Green Eyed Soul](https://open.spotify.com/album/1kENbrG9QMSE4Hgt5jLyd1) | 4:15 |
 | 104 | [Find You](https://open.spotify.com/track/0wtNmuETEesYuB73ni1tZU) | [Craig Cavanagh](https://open.spotify.com/artist/2GTElyWjXSbnFBsqhsG8U9) | [Green Eyed Soul](https://open.spotify.com/album/1kENbrG9QMSE4Hgt5jLyd1) | 3:48 |
 
-Snapshot ID: `Abd6VAAAAACrym9thznEqEtHK7clWLuN`
+Snapshot ID: `Abd/9AAAAAD4mhzcHWNT7szujZqQy7PD`

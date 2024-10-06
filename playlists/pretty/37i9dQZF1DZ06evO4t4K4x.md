@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4t4K4x.md) - [plain]
 
 ### [This Is Delia Derbyshire](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4t4K4x)
 
-> This is Delia Derbyshire\. The essential tracks, all in one playlist.
+> This Is Delia Derbyshire\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,104 likes - 41 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,105 likes - 41 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4t4K4x.md) - [plain]
 | 40 | [Restless Relays](https://open.spotify.com/track/3cVx3TuP0wzLcGr23QIqJi) | [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8), [Brian Hodgson](https://open.spotify.com/artist/7lw7yFmEaZMTiIpy3b5ZjT), [Standard Music Library](https://open.spotify.com/artist/6YMQJKnWaIkPgoHIUgRckS) | [Electronic](https://open.spotify.com/album/4vMGCvrkRkTedNMRrp96NS) | 1:03 |
 | 41 | [The Afterlife, Pt\. 3](https://open.spotify.com/track/0XH8WkXHjq0Hq5BubQRxuM) | [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8) | [The Afterlife](https://open.spotify.com/album/3IfnbyKCVjKDOFLCdDMmaI) | 35:13 |
 
-Snapshot ID: `Zv3egAAAAADDTpItW1cX3DwrZW3zKnLN`
+Snapshot ID: `Zv3egAAAAAB/OEcn1YwwIwm6M8mMGEOg`

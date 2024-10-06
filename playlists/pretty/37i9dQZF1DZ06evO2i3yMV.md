@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2i3yMV.md) - [plain]
 
 ### [This Is TOKiMONSTA](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2i3yMV)
 
-> This is TOKiMONSTA\. The essential tracks, all in one playlist.
+> This Is TOKiMONSTA\. Les titres incontournables, réunis dans une seule et même playlist.
 
 [Spotify](https://open.spotify.com/user/spotify) - 8,199 likes - 51 songs - 2 hr 58 min
 
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2i3yMV.md) - [plain]
 | 50 | [Renter's Anthem](https://open.spotify.com/track/3CAidIUvlJImwndbzlYYhG) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Oasis Nocturno](https://open.spotify.com/album/5ZfWYaLvWVVJqua0Qzku0T) | 3:58 |
 | 51 | [We Love \- Felix Cartal Remix](https://open.spotify.com/track/2yie05svrhg545Jg8b7rte) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [MNDR](https://open.spotify.com/artist/7gQNLR8mykA1KjGClbPYHe), [Felix Cartal](https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v) | [Lune Rouge \(Remixed\)](https://open.spotify.com/album/5N6srwSnMVnUr2CGTbEByX) | 3:10 |
 
-Snapshot ID: `Zv3egAAAAABz6k+dcdBXo1FkBPsI7K3l`
+Snapshot ID: `Zv3egAAAAAC98LUxL6A4UZG2f/XAXYk7`

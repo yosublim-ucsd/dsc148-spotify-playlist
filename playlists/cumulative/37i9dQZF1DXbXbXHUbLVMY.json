@@ -2841,6 +2841,24 @@
     },
     {
       "album": {
+        "name": "MIDDELS DEPPA MILLION\u00c6R",
+        "url": "https://open.spotify.com/album/1C7J7JOEbNr8mtQxypHB6y"
+      },
+      "artists": [
+        {
+          "name": "Blackie",
+          "url": "https://open.spotify.com/artist/1joI1TtwOZm1XZxyiPnn7S"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146053,
+      "name": "MIDDELS DEPPA MILLION\u00c6R",
+      "url": "https://open.spotify.com/track/14HAQu50AX51cSSmk6zsS5"
+    },
+    {
+      "album": {
         "name": "Millions",
         "url": "https://open.spotify.com/album/3MAwZL5tB0PKU5DDcB0Ic4"
       },
@@ -3396,7 +3414,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-06",
       "duration_ms": 201546,
       "name": "rizla (feat. Siyab\u00e5ng)",
       "url": "https://open.spotify.com/track/2awCNwTAJwnTDWK5P0PHKb"

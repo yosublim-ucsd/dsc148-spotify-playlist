@@ -1,6 +1,6 @@
 {
   "description": "Beautiful electronic music for melancholy moments.",
-  "num_followers": 238093,
+  "num_followers": 238132,
   "original_name": "Melantronic",
   "owner": {
     "name": "Spotify",
@@ -319,18 +319,26 @@
     {
       "added_at": "2024-09-19 23:00:00",
       "album": {
-        "name": "New Energy",
-        "url": "https://open.spotify.com/album/74r6JJ97ipO0CREXP9PMqZ"
+        "name": "Flower",
+        "url": "https://open.spotify.com/album/5LBSCKaOOCvMBWqu9iYcLV"
       },
       "artists": [
         {
-          "name": "Four Tet",
-          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+          "name": "Piece Wise",
+          "url": "https://open.spotify.com/artist/3ZgGFg9kFshmpMnayjb1Nk"
+        },
+        {
+          "name": "AURIq",
+          "url": "https://open.spotify.com/artist/35G9mRtwWK47IdT0hzApKI"
+        },
+        {
+          "name": "ALLKNIGHT",
+          "url": "https://open.spotify.com/artist/28Upea6Tkq0l5oTu0dtX1c"
         }
       ],
-      "duration_ms": 252255,
-      "name": "Two Thousand and Seventeen",
-      "url": "https://open.spotify.com/track/2ZIaH69kaz55RM4Pjx6KXl"
+      "duration_ms": 150500,
+      "name": "Flower",
+      "url": "https://open.spotify.com/track/3SVrwH9pxAtdi22rTngLDh"
     },
     {
       "added_at": "2024-09-19 23:00:00",
@@ -351,22 +359,18 @@
     {
       "added_at": "2024-09-19 23:00:00",
       "album": {
-        "name": "Faithless",
-        "url": "https://open.spotify.com/album/0mdOEm115gzcsxtjgHiTQP"
+        "name": "New Energy",
+        "url": "https://open.spotify.com/album/74r6JJ97ipO0CREXP9PMqZ"
       },
       "artists": [
         {
-          "name": "Ben B\u00f6hmer",
-          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
-        },
-        {
-          "name": "Erin LeCount",
-          "url": "https://open.spotify.com/artist/1h6v3Gd5Ub1xmiSMq0X5f3"
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
         }
       ],
-      "duration_ms": 215834,
-      "name": "Faithless",
-      "url": "https://open.spotify.com/track/75WGKUulm21jqVSoZETrQT"
+      "duration_ms": 252255,
+      "name": "Two Thousand and Seventeen",
+      "url": "https://open.spotify.com/track/2ZIaH69kaz55RM4Pjx6KXl"
     },
     {
       "added_at": "2024-09-19 23:00:00",
@@ -431,26 +435,22 @@
     {
       "added_at": "2024-09-19 23:00:00",
       "album": {
-        "name": "Flower",
-        "url": "https://open.spotify.com/album/5LBSCKaOOCvMBWqu9iYcLV"
+        "name": "Faithless",
+        "url": "https://open.spotify.com/album/0mdOEm115gzcsxtjgHiTQP"
       },
       "artists": [
         {
-          "name": "Piece Wise",
-          "url": "https://open.spotify.com/artist/3ZgGFg9kFshmpMnayjb1Nk"
+          "name": "Ben B\u00f6hmer",
+          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
         },
         {
-          "name": "AURIq",
-          "url": "https://open.spotify.com/artist/35G9mRtwWK47IdT0hzApKI"
-        },
-        {
-          "name": "ALLKNIGHT",
-          "url": "https://open.spotify.com/artist/28Upea6Tkq0l5oTu0dtX1c"
+          "name": "Erin LeCount",
+          "url": "https://open.spotify.com/artist/1h6v3Gd5Ub1xmiSMq0X5f3"
         }
       ],
-      "duration_ms": 150500,
-      "name": "Flower",
-      "url": "https://open.spotify.com/track/3SVrwH9pxAtdi22rTngLDh"
+      "duration_ms": 215834,
+      "name": "Faithless",
+      "url": "https://open.spotify.com/track/75WGKUulm21jqVSoZETrQT"
     },
     {
       "added_at": "2024-09-19 23:00:00",
@@ -719,22 +719,6 @@
     {
       "added_at": "2024-09-19 23:00:00",
       "album": {
-        "name": "October",
-        "url": "https://open.spotify.com/album/5PdBG1Q3tLZlSLoxB1LtK8"
-      },
-      "artists": [
-        {
-          "name": "Icarus",
-          "url": "https://open.spotify.com/artist/0nUF7iT0e6D5xEl743Jfu3"
-        }
-      ],
-      "duration_ms": 354102,
-      "name": "October",
-      "url": "https://open.spotify.com/track/6FIQ8o2hqlDmHQFoBKmKgW"
-    },
-    {
-      "added_at": "2024-09-19 23:00:00",
-      "album": {
         "name": "Talk to me.",
         "url": "https://open.spotify.com/album/3pOyuefXEHtWqCw3BsW5Wb"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 103333,
       "name": "Talk to me.",
       "url": "https://open.spotify.com/track/2CjCINQC9GwKJnkmxZM8X9"
+    },
+    {
+      "added_at": "2024-09-19 23:00:00",
+      "album": {
+        "name": "October",
+        "url": "https://open.spotify.com/album/5PdBG1Q3tLZlSLoxB1LtK8"
+      },
+      "artists": [
+        {
+          "name": "Icarus",
+          "url": "https://open.spotify.com/artist/0nUF7iT0e6D5xEl743Jfu3"
+        }
+      ],
+      "duration_ms": 354102,
+      "name": "October",
+      "url": "https://open.spotify.com/track/6FIQ8o2hqlDmHQFoBKmKgW"
     },
     {
       "added_at": "2024-09-19 23:00:00",

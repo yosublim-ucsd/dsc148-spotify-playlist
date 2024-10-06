@@ -1286,10 +1286,36 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-06",
       "duration_ms": 136165,
       "name": "Hold (Candyland Remix)",
       "url": "https://open.spotify.com/track/6sFIeNeq18x9JCsCIwTvvw"
+    },
+    {
+      "album": {
+        "name": "I Am The Elephante (Remixes)",
+        "url": "https://open.spotify.com/album/0KuqJ3I3N9gkSvtG5jIOhy"
+      },
+      "artists": [
+        {
+          "name": "Elephante",
+          "url": "https://open.spotify.com/artist/3fjs4zbBFxEFFe8Wyojo0G"
+        },
+        {
+          "name": "Jessica Jarrell",
+          "url": "https://open.spotify.com/artist/6sjsQahFYXgmOmocbuHou3"
+        },
+        {
+          "name": "Candyland",
+          "url": "https://open.spotify.com/artist/3wzxasxU7kQxHPr0ky5rJq"
+        }
+      ],
+      "date_added": "2024-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136165,
+      "name": "Hold - Candyland Remix",
+      "url": "https://open.spotify.com/track/1emBOdmo4Xk7o6zfUsAecT"
     },
     {
       "album": {

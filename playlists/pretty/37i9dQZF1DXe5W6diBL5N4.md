@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 
 > Enjoy the freshest K\-Pop new releases \(Cover: YENA\(최예나\)\) \(국내 최신곡을 플레이리스트로 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 236,720 likes - 334 songs - 19 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 236,775 likes - 334 songs - 19 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -166,7 +166,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 156 | [Sunset](https://open.spotify.com/track/1EF7d6WS3R82eyGh3v2ARf) | [POW](https://open.spotify.com/artist/3aycZMYDTnN0trM2XnTI4Y) | [Sunset](https://open.spotify.com/album/782GARC92lWiFeAlla11Fz) | 2:53 |
 | 157 | [I've been lost but I've finally made it](https://open.spotify.com/track/0zR3l0IVW1UceNtVPxKZ5J) | [Don Mills](https://open.spotify.com/artist/6bIsFWNkjQvSm5P4rqlxKn), [Dbo](https://open.spotify.com/artist/7pMFAOPNBL5beBLW4Pohst) | [I've been lost but I've finally made it](https://open.spotify.com/album/6vRL2hARdXipbOZQDqLRu3) | 3:32 |
 | 158 | [Keep on Moving \(Korean Ver.\)](https://open.spotify.com/track/7hNTFfq6DSEYry168OYNfn) | [NEXZ](https://open.spotify.com/artist/5TaK8pOYVARAr5cdgoa8EW) | [Keep on Moving \(Korean Ver.\)](https://open.spotify.com/album/2NxMNcy8R5dHoE0vkyoWGR) | 3:06 |
-| 159 | [아프도록 사랑했던..:노래 속 그 시절](https://open.spotify.com/track/0fp9oFUeUrfsNXfxKaq1Dh) | [KIM sung myun](https://open.spotify.com/artist/67DDOLMVV6j0j5vI7tWFpZ) | [아프도록 사랑했던..:노래 속 그 시절](https://open.spotify.com/album/3sF67fDELhKMTcb1STlg0n) | 4:37 |
+| 159 | [노래 속 그 시절..:아프도록 사랑했던](https://open.spotify.com/track/0fp9oFUeUrfsNXfxKaq1Dh) | [KIM sung myun](https://open.spotify.com/artist/67DDOLMVV6j0j5vI7tWFpZ) | [노래 속 그 시절..:아프도록 사랑했던](https://open.spotify.com/album/3sF67fDELhKMTcb1STlg0n) | 4:37 |
 | 160 | [사랑보다 우정이래 \(Friendship is better than love\)](https://open.spotify.com/track/5qZZSjETInow4BJl6uHlMc) | [Ja Jung](https://open.spotify.com/artist/4eOSz0kdCi6Ed4xzcJ1XJK) | [사랑보다 우정이래 \(Friendship is better than love\)](https://open.spotify.com/album/6zXDbK1Pq4JyoT0twX00sx) | 3:16 |
 | 161 | [Return](https://open.spotify.com/track/4w0zoo9bXJT1hdU5fqe6Xr) | [HYUN SEO](https://open.spotify.com/artist/5Thqo7OXD8aLIGAn9KLCsl) | [Return](https://open.spotify.com/album/2spmQaHN4ida5vs7LgEGXg) | 3:05 |
 | 162 | [Begging for](https://open.spotify.com/track/2oSqbUQsNZcOx7vctcm4CO) | [Yumewanaii](https://open.spotify.com/artist/4oLq9qTt8P6pawQN1w9zL8) | [Begging for](https://open.spotify.com/album/53sHpsgxIX6jpLMFvYDGBM) | 2:46 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCT9tm6fRIV.md) - [plain]
 
 > Disfruta esta fina selección de los mejores Tangos argentinos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 241,456 likes - 80 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 241,494 likes - 80 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,9 +29,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCT9tm6fRIV.md) - [plain]
 | 19 | [La noche ha caído](https://open.spotify.com/track/6pDFqwzICSf2mUxhgPFNNa) | [Julieta Laso](https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk) | [La noche ha caído](https://open.spotify.com/album/0miT8Ozcj2HXC5QSTDuoVP) | 4:10 |
 | 20 | [Cómo Dos Extraños](https://open.spotify.com/track/0esvNuTTbNMc67va2VCQvd) | [Chabuco](https://open.spotify.com/artist/7iVnPo1i10De0UGQz5eDsl), [Ariel Ardit](https://open.spotify.com/artist/62WLKvGxUiIjMITbNetyR6) | [Chabuco Tango](https://open.spotify.com/album/0BMBTesXi4eduzURLsPxHl) | 3:07 |
 | 21 | [El Ultimo Café \(with Leopoldo Federico y Su Orquesta\)](https://open.spotify.com/track/0c19zOgwp0OFKv7tlNYebl) | [Julio Sosa](https://open.spotify.com/artist/7Cg2eqV6oHNE0P54WfajIX), [Leopoldo Federico y su Orquesta](https://open.spotify.com/artist/2QtuDqkuMbNQlmGgMbPBOA) | [El Firulete](https://open.spotify.com/album/3Gs3IScxQIDPlkUK2QibPV) | 3:05 |
-| 22 | [Anclao En Paris](https://open.spotify.com/track/7GjdsIX9ScWku6wCsZsfIM) | [Rubén Juárez](https://open.spotify.com/artist/4idyrAA6wZyU9umXHFoM9p) | [20 Grandes Exitos](https://open.spotify.com/album/0oFTFL7uMIMgPsFEjB3Aqu) | 2:20 |
+| 22 | [Remolino](https://open.spotify.com/track/48OjE2RNkrqVOLhiWcWdny) | [Sexteto Mayor](https://open.spotify.com/artist/6Wvfeq2vPFsjNGxFmcz1nq) | [Our Last Tango \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6KHuXPoSIy51xXU3IB05L4) | 3:10 |
 | 23 | [Melodía de Arrabal](https://open.spotify.com/track/3kGMUnjlTtO8TzCFJMAAvb) | [Luisina Mathieu](https://open.spotify.com/artist/7f6Rk0hZPT0CiiY2LgFKQz), [Emiliano Faryna](https://open.spotify.com/artist/6tMMigNU4IDUOrBkxrpuo6) | [Melodía de Arrabal](https://open.spotify.com/album/5bX4LtXjkxlBTHZsvUWUgq) | 2:42 |
-| 24 | [Remolino](https://open.spotify.com/track/48OjE2RNkrqVOLhiWcWdny) | [Sexteto Mayor](https://open.spotify.com/artist/6Wvfeq2vPFsjNGxFmcz1nq) | [Our Last Tango \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6KHuXPoSIy51xXU3IB05L4) | 3:10 |
+| 24 | [Anclao En Paris](https://open.spotify.com/track/7GjdsIX9ScWku6wCsZsfIM) | [Rubén Juárez](https://open.spotify.com/artist/4idyrAA6wZyU9umXHFoM9p) | [20 Grandes Exitos](https://open.spotify.com/album/0oFTFL7uMIMgPsFEjB3Aqu) | 2:20 |
 | 25 | [Gallo Ciego \- Instrumental](https://open.spotify.com/track/0fIgeZTUAs6FKTrBWJBJl5) | [Osvaldo Pugliese](https://open.spotify.com/artist/2HO9rAU2R7CRnmhx0ytN41) | [From Argentina To The World](https://open.spotify.com/album/0U52Cb4CVMYMZ4vWCXOd8G) | 3:33 |
 | 26 | [Qué me van a hablar de amor \- Remastered](https://open.spotify.com/track/3FfcNuVn1yyNkikUxm6qwW) | [Julio Sosa](https://open.spotify.com/artist/7Cg2eqV6oHNE0P54WfajIX) | [Varón \(Remastered\)](https://open.spotify.com/album/1mIJOhB8422u9D6b7Fjow9) | 3:12 |
 | 27 | [Por una Cabeza](https://open.spotify.com/track/3Z34yqQzVeD8wExZGCw9po) | [Angelito Martinez](https://open.spotify.com/artist/5g1vnuJPRdxecXJDxw1Gf2) | [Antología, Vol\. 1: Gardel y Le Pera](https://open.spotify.com/album/0nfXjFRLFngleV9mIkhEMQ) | 2:34 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCT9tm6fRIV.md) - [plain]
 | 43 | [Pasional](https://open.spotify.com/track/4UWJSmwJe8qZnXz8KDa6V0) | [Jorge Vázquez](https://open.spotify.com/artist/6wiOHmlihMHpqgiPmYFCab) | [Pasional](https://open.spotify.com/album/57cI3a1ZWB8kCN7FilRmHc) | 3:28 |
 | 44 | [Chiquilín de Bachín](https://open.spotify.com/track/2bR0drb2tOaznRIfOTHzwF) | [Amelita Baltar](https://open.spotify.com/artist/5Z2Vs6p7u0a44wcO68iiQk), [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [El Nuevo Rumbo](https://open.spotify.com/album/0PNFCx0M4ol1VFWMOUuErM) | 3:41 |
 | 45 | [Adios Pampa mia](https://open.spotify.com/track/4mHp0whXyf80glskjIXqMK) | [Aníbal Troilo](https://open.spotify.com/artist/7zsTaSj1Q4jSCjbj5GtmoN) | [Anibal Troilo \- Cancion desesperada](https://open.spotify.com/album/77OkvaAB1cjgOtxqf3oQIW) | 3:24 |
-| 46 | [Ave de Paso](https://open.spotify.com/track/10vEz0V5deohU5dK0Lrh3W) | [Charlo](https://open.spotify.com/artist/3Ry0Bx0jq7Z6nbzTfcsvkL) | [Oro y Plata](https://open.spotify.com/album/623Oxctqg8OdleVcaW9sxV) | 3:11 |
-| 47 | [Tarde](https://open.spotify.com/track/3NBK1KYBB7K278yKrWugnY) | [Chino Laborde](https://open.spotify.com/artist/5OrKrSqxhTFrtScoJhqLrP), [Federico Mizrahi](https://open.spotify.com/artist/0RcujGrIDwI6n6f9PfWhFt) | [El Tango](https://open.spotify.com/album/7akIfhOcL4nMi4vwILqXsX) | 3:41 |
+| 46 | [Tarde](https://open.spotify.com/track/3NBK1KYBB7K278yKrWugnY) | [Chino Laborde](https://open.spotify.com/artist/5OrKrSqxhTFrtScoJhqLrP), [Federico Mizrahi](https://open.spotify.com/artist/0RcujGrIDwI6n6f9PfWhFt) | [El Tango](https://open.spotify.com/album/7akIfhOcL4nMi4vwILqXsX) | 3:41 |
+| 47 | [Ave de Paso](https://open.spotify.com/track/10vEz0V5deohU5dK0Lrh3W) | [Charlo](https://open.spotify.com/artist/3Ry0Bx0jq7Z6nbzTfcsvkL) | [Oro y Plata](https://open.spotify.com/album/623Oxctqg8OdleVcaW9sxV) | 3:11 |
 | 48 | [La Luz de un Fósforo \- En Vivo](https://open.spotify.com/track/293xyTq2gy7G5PFaMeBbmd) | [Ariel Ardit](https://open.spotify.com/artist/62WLKvGxUiIjMITbNetyR6), [Orquesta Tipica](https://open.spotify.com/artist/04eoPYzcEUkOi9dyDYYUIk) | [A los Cantores \(En Vivo\)](https://open.spotify.com/album/2AN8JN4CJlc1BqgKLQEvvx) | 2:54 |
 | 49 | [Trenzas](https://open.spotify.com/track/1PXmOgfoM78vdhBjrjrTzu) | [Angelito Martinez](https://open.spotify.com/artist/5g1vnuJPRdxecXJDxw1Gf2) | [Antología, Vol.2: Viejas Alegrias](https://open.spotify.com/album/3p1lXEENvPdfbtivMxBZbS) | 3:24 |
 | 50 | [Un Guiño](https://open.spotify.com/track/2LVMD9R9Og0crKqFLYhoV0) | [Tomi Lago](https://open.spotify.com/artist/2dHAhHoEkSxTu3PvCh14ug) | [Un Guiño](https://open.spotify.com/album/3LvWDXnEPWockfH5JIaxkF) | 2:55 |
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCT9tm6fRIV.md) - [plain]
 | 76 | [Desencuentro](https://open.spotify.com/track/7hpCXzUdgp4I1aX45W7514) | [Chino Laborde](https://open.spotify.com/artist/5OrKrSqxhTFrtScoJhqLrP) | [El Tango](https://open.spotify.com/album/7akIfhOcL4nMi4vwILqXsX) | 2:38 |
 | 77 | [Tango Del Angel](https://open.spotify.com/track/4PXNxMds2Be3uDjiinkIog) | [Leopoldo Federico y su Orquesta Tipica](https://open.spotify.com/artist/0ILH1dJHi09i2y3kfnj81w) | [Todo Piazzolla](https://open.spotify.com/album/6FQQl99gDEofN8eAJ5FGmO) | 3:16 |
 | 78 | [Adiós Mi Barrio](https://open.spotify.com/track/0dP5JsydqbwEiLBPVtBHJJ) | [Lágrima Ríos](https://open.spotify.com/artist/0VlP1rHAiBNxelGn7B5JC8) | [Hermano Moreno](https://open.spotify.com/album/3DF4k9KUIVDFf09QZb1Pjh) | 1:58 |
-| 79 | [Tinta Roja](https://open.spotify.com/track/14tN2CpfkuYokHuToHEW8W) | [Tomi Lago](https://open.spotify.com/artist/2dHAhHoEkSxTu3PvCh14ug) | [Tinta Roja](https://open.spotify.com/album/4vs90hLFeYjNRrYQU3rZQ4) | 3:08 |
-| 80 | [Meurte Del Angel](https://open.spotify.com/track/1nVCAvTvxAZ7oPh0eWEv83) | [Astor Piazzolla](https://open.spotify.com/artist/7dsugSamBB7enWE2IrlbFg) | [The Central Park Concert](https://open.spotify.com/album/3Phv4UOzHL7XEHzjKSFgVd) | 3:19 |
+| 79 | [Esperarte](https://open.spotify.com/track/1zAoX7MQEhFn1hXJqCUAmJ) | [Tomi Lago](https://open.spotify.com/artist/2dHAhHoEkSxTu3PvCh14ug) | [Esperarte](https://open.spotify.com/album/5I0dw9jdaRbYmEPV63nNMT) | 3:25 |
+| 80 | [Mimi Pinson \(with Gran Orquesta Típica OTRA\)](https://open.spotify.com/track/0OEcBnaJWvbx804nDaufHp) | [Omar Mollo](https://open.spotify.com/artist/3gvvM06RykBuIcFpWljUhD), [Gran Orquesta Típica OTRA](https://open.spotify.com/artist/2hQVp6pVrs4q3veFAC3LT8) | [Tango Cosmopolita \(with Gran Orquesta Típica OTRA\)](https://open.spotify.com/album/5p0dfS1qHHcNeqQ3vgHwu0) | 3:50 |
 
 Snapshot ID: `ZqxLsAAAAAD/d8z7ZP3iq93XNvNJunin`

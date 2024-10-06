@@ -420,7 +420,7 @@
       ],
       "date_added": "2024-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-06",
       "duration_ms": 142741,
       "name": "2er Ved S\u00f8erne",
       "url": "https://open.spotify.com/track/1jLhTnPNrMrEbQy3MIo2pR"
@@ -4822,7 +4822,7 @@
       ],
       "date_added": "2024-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-23",
+      "date_removed": null,
       "duration_ms": 126589,
       "name": "Chanel Freestyle",
       "url": "https://open.spotify.com/track/5LAsl3k0Vas49Pnoj9GJr3"
@@ -24072,7 +24072,7 @@
       ],
       "date_added": "2024-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-06",
       "duration_ms": 180895,
       "name": "PhD",
       "url": "https://open.spotify.com/track/73zOFtYHgdFMk25Y0B9gbB"
@@ -24998,6 +24998,28 @@
       "duration_ms": 270697,
       "name": "redrum",
       "url": "https://open.spotify.com/track/52eIcoLUM25zbQupAZYoFh"
+    },
+    {
+      "album": {
+        "name": "Refleks (feat. Noah Carter)",
+        "url": "https://open.spotify.com/album/2pJqGNMut48lMvxFWu8A99"
+      },
+      "artists": [
+        {
+          "name": "Carmon",
+          "url": "https://open.spotify.com/artist/4Bu9ocyPQWQRyk3kXDSNlv"
+        },
+        {
+          "name": "Noah Carter",
+          "url": "https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp"
+        }
+      ],
+      "date_added": "2024-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146711,
+      "name": "Refleks (feat. Noah Carter)",
+      "url": "https://open.spotify.com/track/3b7vV6z96LzkMXHDHFnI98"
     },
     {
       "album": {

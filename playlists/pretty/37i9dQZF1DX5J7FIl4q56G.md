@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > This week's best new tracks in metal, hard rock, and all things heavy\. Cover: Soilwork
 
-[Spotify](https://open.spotify.com/user/spotify) - 723,463 likes - 53 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 723,536 likes - 53 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

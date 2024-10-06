@@ -4,7 +4,7 @@
 
 > have fun with it.
 
-624 songs - 1 day 10 hr 16 min
+625 songs - 1 day 10 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -211,6 +211,7 @@
 | [Got to My Head](https://open.spotify.com/track/3HmHQjjApe21DIncYhKIg7) | [WATERS](https://open.spotify.com/artist/4KKQvsAWZWMkS1QCuPnajG) | [What's Real](https://open.spotify.com/album/0AFltyNvGjMw4GuS2kWkuL) | 3:07 | 2022-06-27 | 2023-02-18 |
 | [Greek Tragedy](https://open.spotify.com/track/28C4nmrd7BTu0XbOmaTHZr) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Glitterbug \(Deluxe Edition\)](https://open.spotify.com/album/0n5sLhq91buJwIW4j3Ji0I) | 3:29 | 2021-03-10 | 2023-08-22 |
 | [Grind \(feat\. Yoshi Flower\)](https://open.spotify.com/track/1EOfAIDwTq1CXHllp45V44) | [Soleima](https://open.spotify.com/artist/71le7jtjw9hq389Fnvi6XM), [Yoshi Flower](https://open.spotify.com/artist/0rAt7V95LWbRPvWQFd21il) | [Powerslide](https://open.spotify.com/album/2ge7NcJyzQGzHDtLHJ8MV3) | 2:43 | 2022-03-11 | 2022-04-19 |
+| [Ground Control](https://open.spotify.com/track/4d3QWnT6shcTiVJem6zEuz) | [Moody Joody](https://open.spotify.com/artist/0ndpuECxVStTsHhzq4Euxz) | [Ground Control](https://open.spotify.com/album/1dvGoaIzAkcrpnPOUeJzUk) | 3:23 | 2024-09-30 |  |
 | [Half Your Age](https://open.spotify.com/track/0yTlrnue3pJTJd7h7d43mk) | [Joywave](https://open.spotify.com/artist/1UfzhwcOR4yfX7yHTPfC9m) | [Half Your Age](https://open.spotify.com/album/6iOJJNrHS1pPSPjcTQC3Xr) | 3:29 | 2021-03-10 | 2022-07-29 |
 | [Hall Of Fame](https://open.spotify.com/track/5AuMmTdIsWELqlI6GmSho5) | [The Howl & The Hum](https://open.spotify.com/artist/3EQ310YOzcS1pJqiaoDs32) | [Hall Of Fame](https://open.spotify.com/album/5wTKHzsIPtoGWi3x4T9aJi) | 2:55 | 2022-03-11 | 2022-04-21 |
 | [Halloween in Summertime](https://open.spotify.com/track/3hhd4SQuN1S3w3kAxLIBRt) | [brake](https://open.spotify.com/artist/7abxh8jKgffWgxI12BESvb) | [Halloween in Summertime](https://open.spotify.com/album/47D7xFMssgmGGwVVJ8m6lk) | 2:16 | 2021-03-10 | 2022-05-04 |
@@ -244,7 +245,7 @@
 | [hold on](https://open.spotify.com/track/6RtRxaZN5RMWFbeZW24oRx) | [flor](https://open.spotify.com/artist/0szWPxzzE8DVEfXFRCLBUb) | [come out\. you're hiding \(deluxe\)](https://open.spotify.com/album/3GIL4DPTpx8qXKmCVavrjD) | 3:24 | 2022-06-27 | 2022-07-30 |
 | [Hold On For Dear Life](https://open.spotify.com/track/2qQvRQWSdIzyFK0Uvxh3V1) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB), [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Hold On For Dear Life](https://open.spotify.com/album/444WoeLyPkIMYr92NHEcz4) | 3:47 | 2021-11-19 | 2023-03-29 |
 | [Hollywood](https://open.spotify.com/track/1eBW4wuI5K2iDvp5Kxi5wT) | [Cherry Pools](https://open.spotify.com/artist/0ZapotknXXYHIvTojpg9Im) | [Hollywood](https://open.spotify.com/album/5o3aabdlrQRUPggo5syUTC) | 3:00 | 2021-03-10 | 2022-07-29 |
-| [Hollywood](https://open.spotify.com/track/1jit8yRaXz50OZNINPxtym) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp), [Benjamin Gibbard](https://open.spotify.com/artist/4CvZd3qzC2HbLxAoAEBRIL) | [Hollywood b/w CD\-R](https://open.spotify.com/album/6o8LiEGxLTjMBt1PFxHp4U) | 3:05 | 2024-08-16 |  |
+| [Hollywood](https://open.spotify.com/track/1jit8yRaXz50OZNINPxtym) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp), [Benjamin Gibbard](https://open.spotify.com/artist/4CvZd3qzC2HbLxAoAEBRIL) | [Hollywood b/w CD\-R](https://open.spotify.com/album/6o8LiEGxLTjMBt1PFxHp4U) | 3:05 | 2024-08-16 | 2024-10-06 |
 | [Home](https://open.spotify.com/track/6dpLxbF7lfCAnC9QRTjNLK) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Home](https://open.spotify.com/album/50ca61DooG00KrVCwMLVRl) | 2:37 | 2024-03-10 |  |
 | [home ft\. WALK THE MOON](https://open.spotify.com/track/1Wm8n5eQpDaOk2eQjf8ENd) | [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW), [WALK THE MOON](https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic) | [home ft\. WALK THE MOON](https://open.spotify.com/album/3lxAYZqyv3GpLfEXO275bZ) | 3:25 | 2022-03-11 | 2022-04-21 |
 | [Hometown](https://open.spotify.com/track/66UylTxzOOjnl7o2Bj5JkG) | [Mainland](https://open.spotify.com/artist/1glS4fPaSC5EgMTnOsiXif) | [Villains](https://open.spotify.com/album/7vHM3n5xFLYOzsEpEVTH0z) | 3:29 | 2022-03-11 | 2022-04-20 |

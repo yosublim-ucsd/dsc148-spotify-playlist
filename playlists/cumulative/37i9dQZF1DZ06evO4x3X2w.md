@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DZ06evO4x3X2w.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO4x3X2w) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO4x3X2w)
 
-### [This Is エアロスミス](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4x3X2w)
+### [This Is Aerosmith](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4x3X2w)
 
-> This is エアロスミス。アーティストの代表曲をひとつのプレイリストに。
+> This is Aerosmith\. Todos os maiores hits em uma só playlist.
 
 108 songs - 7 hr 59 min
 

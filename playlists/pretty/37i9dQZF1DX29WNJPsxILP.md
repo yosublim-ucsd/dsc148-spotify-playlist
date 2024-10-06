@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX29WNJPsxILP.md) - [plain]
 
 > Rap from the hoods of Dilli featuring Karma
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,386 likes - 75 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,396 likes - 75 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX29WNJPsxILP.md) - [plain]
 | 8 | [Kheench Maari](https://open.spotify.com/track/2W45HI9Tfj1YdhMHJE0Lnd) | [Raga](https://open.spotify.com/artist/4MJZBb8KABfKw0gzfgacpO), [DG IMMORTALS](https://open.spotify.com/artist/7jbG8tDQ5FmqBbTCj5dJdy), [Nitin Randhawa](https://open.spotify.com/artist/0WIMfLnFgEZkwlzCaemJkS) | [Kheench Maari](https://open.spotify.com/album/1Vp9PMPUHVdITIdbtzlQmH) | 2:48 |
 | 9 | [F.D.P](https://open.spotify.com/track/4tL8zamRgVZFxUE1Z2AGIx) | [Baghdadi Music](https://open.spotify.com/artist/4tYgeYn2sHNyRzWqZMyMr0) | [F.D.P](https://open.spotify.com/album/3DxamspkXBbuWWPwfYEtaB) | 2:54 |
 | 10 | [Inner Circle](https://open.spotify.com/track/1yJyVPkov6bAAFV9jEXdEH) | [BAWA](https://open.spotify.com/artist/397KJT6AbxxE3UgpLktTvR) | [Inner Circle](https://open.spotify.com/album/0Cgye1OU6oXhSqVC2JjWmX) | 2:31 |
-| 11 | [Raat Ki Raani](https://open.spotify.com/track/1alInstEk6TQMuPyjCgI4K) | [Seedhe Maut](https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo) | [SHAKTI](https://open.spotify.com/album/6Mwca6sXGKb25VkAc1e6X3) | 3:31 |
+| 11 | [Raat Ki Rani](https://open.spotify.com/track/1alInstEk6TQMuPyjCgI4K) | [Seedhe Maut](https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo) | [SHAKTI](https://open.spotify.com/album/6Mwca6sXGKb25VkAc1e6X3) | 3:31 |
 | 12 | [Prarthana](https://open.spotify.com/track/3l3BzT3Ovdx2mQK366r5Ei) | [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t), [Bharg](https://open.spotify.com/artist/5mUENA9ewpJd5z9KuwOKrd) | [FAR FROM OVER](https://open.spotify.com/album/4013u1RNEHieH8NwnN0vNh) | 3:19 |
 | 13 | [Snake Bites](https://open.spotify.com/track/4hTFsh364ny3WnrLzumfdh) | [Karma](https://open.spotify.com/artist/2RS1R0tueoL8EJXTSBAt2F), [Retro Blxxd](https://open.spotify.com/artist/6qSzBHYRQzdm981EBGbDHA) | [How Much a Rhyme Costs?](https://open.spotify.com/album/6adVQtQUqBzdWx49n03C4G) | 2:47 |
 | 14 | [Clout Chase](https://open.spotify.com/track/2oZBVF6pVtihOaXiX38TGR) | [Smoke](https://open.spotify.com/artist/3r11NkdzxoiZe5yMOMsfXy) | [Clout Chase](https://open.spotify.com/album/7DEJqb6SjOreiNZBupB6yt) | 2:11 |

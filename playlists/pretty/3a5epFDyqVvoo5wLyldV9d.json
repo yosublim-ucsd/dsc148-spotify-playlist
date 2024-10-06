@@ -6,7 +6,7 @@
     "name": "Ryan Gards",
     "url": "https://open.spotify.com/user/1230953186"
   },
-  "snapshot_id": "AAADikckLxEOoNphxzt9I2LL9VGDx3hn",
+  "snapshot_id": "AAADiwsIJyqUP1WOzxrsGsRJ0OXpZaqj",
   "tracks": [
     {
       "added_at": "2020-11-30 17:26:34",
@@ -13335,6 +13335,22 @@
       "duration_ms": 306586,
       "name": "Le proc\u00e8s",
       "url": "https://open.spotify.com/track/02Q9pn0Hr0MZ1JkjmTMnh8"
+    },
+    {
+      "added_at": "2024-10-05 10:40:32",
+      "album": {
+        "name": "Gate Crashers",
+        "url": "https://open.spotify.com/album/1XCOtw4cTIZuA4X1ZAwPhS"
+      },
+      "artists": [
+        {
+          "name": "Mafikizolo",
+          "url": "https://open.spotify.com/artist/04Hrgux8cIaNJKUAX7WwJN"
+        }
+      ],
+      "duration_ms": 393146,
+      "name": "Gate Crash",
+      "url": "https://open.spotify.com/track/2DJpule67eaYaBBMlRhkxP"
     }
   ],
   "unique_name": "Worldly",

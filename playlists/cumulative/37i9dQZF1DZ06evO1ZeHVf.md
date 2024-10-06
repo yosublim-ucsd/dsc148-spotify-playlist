@@ -2,7 +2,7 @@
 
 ### [This Is CeCe Winans](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1ZeHVf)
 
-> This is CeCe Winans\. The essential tracks, all in one playlist.
+> This is: CeCe Winans\. Alle wichtigen Tracks in einer Playlist.
 
 89 songs - 7 hr 0 min
 

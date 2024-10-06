@@ -2,7 +2,7 @@
 
 ### [This Is Elaine Martins](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2ByiTJ)
 
-> This Is Elaine Martins\. Les titres incontournables, réunis dans une seule et même playlist.
+> This is Elaine Martins\. The essential tracks, all in one playlist.
 
 68 songs - 5 hr 8 min
 

@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO09gKWI.md) - [plain]
 
 ### [This Is Bivolt](https://open.spotify.com/playlist/37i9dQZF1DZ06evO09gKWI)
 
-> This is Bivolt\. The essential tracks, all in one playlist.
+> This is Bivolt\. Todos os maiores hits em uma só playlist.
 
 [Spotify](https://open.spotify.com/user/spotify) - 355 likes - 43 songs - 2 hr 28 min
 
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO09gKWI.md) - [plain]
 | 42 | [Taças](https://open.spotify.com/track/76JB7GfUO9vDuFra3IHlka) | [Guxta](https://open.spotify.com/artist/3LutKkAZcYI7vS81R2yJjy), [LOUD](https://open.spotify.com/artist/5IxHRw1SD3SAHXozuWWTFS), [Jovem Dex](https://open.spotify.com/artist/0OLpdla9YvZOtlPnQkXScl), [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk) | [Taças](https://open.spotify.com/album/20QFe1QqXSOCoJGzo27rRn) | 2:36 |
 | 43 | [Palam Gang](https://open.spotify.com/track/2lXyjv3yo9lYpg9C7EcINz) | [Dada Yute](https://open.spotify.com/artist/4mZqYlVhIZJnJtbF39kDjj), [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ), [Rincon Sapiência](https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo) | [Crypto Reggae](https://open.spotify.com/album/4HBgdB8bpQInGGYHaFnEcj) | 3:02 |
 
-Snapshot ID: `Zv3egAAAAAAX0sFxFFlxGPxMr3N7fTrT`
+Snapshot ID: `Zv3egAAAAADEW7UmJAAhwYGZQNEopoSe`

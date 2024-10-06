@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 
 > 獨立就是硬地自主，音樂就要展現風格，加起來就是痛快！Cover: 美秀集團 \(Amazing Show\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,826 likes - 117 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,838 likes - 117 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 | 21 | [要去見你的夏天 \-《艾嘉食堂》插曲](https://open.spotify.com/track/6Z7bj1701iirtbZ7QGoyhp) | [陳華](https://open.spotify.com/artist/5ZxRmJ21NzjxD2ZGBxi7um) | [要去見你的夏天 \-《艾嘉食堂》插曲](https://open.spotify.com/album/3uubu0T6qyIVGZNK5pXiVJ) | 3:46 |
 | 22 | [Sparkling Wine](https://open.spotify.com/track/6Dm85sCyjcsq3JFmP7T4e8) | [Anni Hung](https://open.spotify.com/artist/3ZlBKjbfPWDT0RUWTpWzwv) | [Sparkling Wine](https://open.spotify.com/album/4gxuib7CxBL3SkMm6kdi3s) | 3:23 |
 | 23 | [最后一舞 \- LPL《饭堂周末夜》五周年片尾曲](https://open.spotify.com/track/22KFlIRG2jaOGASrFLbYy4) | [饭卡](https://open.spotify.com/artist/4Ak4OMWvPvUb0wIDC4wdfp) | [最后一舞 \(LPL《饭堂周末夜》五周年片尾曲\)](https://open.spotify.com/album/1PjqbjJqGELQPHzWhXxPZr) | 2:40 |
-| 24 | [RLGL](https://open.spotify.com/track/2eUjYVaMHBemUsLCgMbq7b) | [CED](https://open.spotify.com/artist/3M1YtHr7K9yHjawwbJ2DgC) | [RLGL](https://open.spotify.com/album/2jyPKSJAXlDnl8zuQW7czp) | 3:13 |
-| 25 | [為什麼我無法成為我想成為的人 \(ft\. 洪佩瑜, 潘柏霖, Robot Swing\)](https://open.spotify.com/track/5IPfdd8Ou57SOC78MfSIVw) | [someshiit 山姆](https://open.spotify.com/artist/1Se0FtmWSFmL81n85repGg) | [愚公](https://open.spotify.com/album/2U3oRZGiU1Aq5YmuSpCJmI) | 4:55 |
+| 24 | [RLGL](https://open.spotify.com/track/2eUjYVaMHBemUsLCgMbq7b) | [CED](https://open.spotify.com/artist/3M1YtHr7K9yHjawwbJ2DgC) | [RLGL](https://open.spotify.com/album/2jyPKSJAXlDnl8zuQW7czp) | 3:10 |
+| 25 | [為什麼我無法成為我想成為的人 \(ft\. 洪佩瑜, 潘柏霖, Robot Swing\)](https://open.spotify.com/track/5IPfdd8Ou57SOC78MfSIVw) | [someshiit 山姆](https://open.spotify.com/artist/1Se0FtmWSFmL81n85repGg), [洪佩瑜](https://open.spotify.com/artist/6qKOf4I6aUktCUP73pkpCh), [潘柏霖](https://open.spotify.com/artist/1TDlZXyjL13TRYyMR6YQ5r), [Robot Swing](https://open.spotify.com/artist/75MsybpGuMiLCp76Ou0LTV) | [愚公](https://open.spotify.com/album/2U3oRZGiU1Aq5YmuSpCJmI) | 4:55 |
 | 26 | [龍鳴](https://open.spotify.com/track/2MWKC5HFNdjrcitnXKOz8O) | [王晨宇IceCraz](https://open.spotify.com/artist/2Hn1JOz00GeUV7iEfdYfYM) | [龍鳴](https://open.spotify.com/album/5N7mbahzhR82Legypi8Vd6) | 2:20 |
 | 27 | [綻放](https://open.spotify.com/track/1ejuLM3qcndbUVU8cDbdqC) | [潮州土狗](https://open.spotify.com/artist/7jMy8JE32Ck096LLh6Hy4L) | [綻放](https://open.spotify.com/album/3492dESDxI6tJZI0ktDxmB) | 3:24 |
 | 28 | [Peter Pan](https://open.spotify.com/track/0xgoZGZ63l5gVtFmdva0ta) | [鱔魚意麵](https://open.spotify.com/artist/6ql8ciVcd9AS7fem0Csg67) | [Peter Pan](https://open.spotify.com/album/7rVIWHcjMbSTRJjcaTrssY) | 3:59 |

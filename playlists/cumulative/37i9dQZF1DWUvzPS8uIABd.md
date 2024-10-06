@@ -4,7 +4,7 @@
 
 > Tämän hetken kovimmat suomihitit\. Kannessa OLGA.
 
-226 songs - 11 hr 9 min
+227 songs - 11 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,6 +150,7 @@
 | [Pohja](https://open.spotify.com/track/0TdGwFdZobXOejSFHnU4oq) | [Marko Hietala](https://open.spotify.com/artist/1tbhwOH5UBAJoqTx9Oak00) | [Pohja](https://open.spotify.com/album/3qm3YWIRYZO9qSnHw7BrPB) | 3:44 | 2024-09-19 | 2024-09-27 |
 | [Pois pois pois](https://open.spotify.com/track/6c2WnB9iEyjXlqGJOiI4B3) | [Poju](https://open.spotify.com/artist/5z9Z1vlOXGvDLBgKfzdswn) | [Pois pois pois](https://open.spotify.com/album/573RWpBvjB5VAS88V2dXzv) | 3:32 | 2024-08-01 | 2024-08-23 |
 | [Prinsessa \(feat\. baka®\)](https://open.spotify.com/track/6ioqZb07eWdepb7NaBt2xA) | [VJ](https://open.spotify.com/artist/4JdNUmnUaGFg9kX947oHg2), [baka®](https://open.spotify.com/artist/2cIN5e6ouIgJiebmItnDaW) | [Prinsessa \(feat\. baka®\)](https://open.spotify.com/album/3oybXiUqKzYBOzQHSfS3ii) | 2:00 | 2024-07-04 | 2024-08-23 |
+| [Puhelinlangat Laulaa](https://open.spotify.com/track/0etwmf2vczele3kZwIcPOa) | [Marko Hietala](https://open.spotify.com/artist/1tbhwOH5UBAJoqTx9Oak00) | [Puhelinlangat Laulaa](https://open.spotify.com/album/0LJVJhA7b1ri49uNKxlT00) | 2:50 | 2024-10-04 |  |
 | [Pysyvää](https://open.spotify.com/track/18H1buVbJxLAYGcUL3sHhe) | [Bee](https://open.spotify.com/artist/4pR2IcLEPu4KFVAmanNG1f) | [Pysyvää](https://open.spotify.com/album/2c1COKH0Ysq650NMSTp0UG) | 3:10 | 2024-08-01 |  |
 | [Päiväkirja](https://open.spotify.com/track/1SlXWvdCgVnyg5gNOMGdIy) | [Jaakko Kulta](https://open.spotify.com/artist/3yKaJcys5vfZv2nE2IURyO) | [Jotta muistaisin](https://open.spotify.com/album/54iqUFv3oAuIWKcjsublrY) | 2:35 | 2024-07-02 | 2024-08-10 |
 | [Päästä varpaisiin](https://open.spotify.com/track/4FbBHuCdza6S4WODZAvaDb) | [ROBIN](https://open.spotify.com/artist/7irUub9i4hf8MO0hwUaxUM), [Keki](https://open.spotify.com/artist/2JQnbpN1Tvt1ew1H9q1qOm), [ADI](https://open.spotify.com/artist/7pQPSSRLhVEr3rNYfpSvW3) | [Päästä varpaisiin](https://open.spotify.com/album/47YDU0C9hk5d2rIoziYucD) | 3:19 | 2024-07-18 | 2024-08-23 |

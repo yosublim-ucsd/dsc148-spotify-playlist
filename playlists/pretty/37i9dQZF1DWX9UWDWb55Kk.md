@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9UWDWb55Kk.md) - [plain]
 
 > Élite \- Season 8, is here! ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 254,262 likes - 473 songs - 1 day 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 254,252 likes - 473 songs - 1 day 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -269,7 +269,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9UWDWb55Kk.md) - [plain]
 | 259 | [Orion](https://open.spotify.com/track/2IHkIsJXKaZD2HPSGKZyQ3) | [Ārty Cøøper](https://open.spotify.com/artist/3HayvSzL4CNzkyyxyOUK3B) | [Orion](https://open.spotify.com/album/4su1sSPon4vQa2w0L9F6Wf) | 3:18 |
 | 260 | [Beginning \- Totally Enormous Extinct Dinosaurs Remix](https://open.spotify.com/track/6DKILAX03B9oLWDaLkw1Vp) | [LA Priest](https://open.spotify.com/artist/2JYMUWD8r1jFFjD1V3WcCX), [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [Beginning \(Totally Enormous Extinct Dinosaurs Remix\)](https://open.spotify.com/album/7DcdXnMiadzyxSlQnLIsCo) | 5:50 |
 | 261 | [Baby Baby Baby](https://open.spotify.com/track/3OdBWz9Vw4hhwSQ8xFiZEO) | [Make The Girl Dance](https://open.spotify.com/artist/1R3C9rNasGbYW0Gtlg1Ye4) | [Everything Is Gonna Be OK In The End](https://open.spotify.com/album/0eSPvfgbg5UdtFyEw9kxcF) | 4:03 |
-| 262 | [Hard Billy](https://open.spotify.com/track/7DWnLKwS5ozOnCAhGbREjM) | [Leonie Pernet](https://open.spotify.com/artist/5hGg5Xi5EqhkDooT7myKfC) | [Le Cirque de Consolation](https://open.spotify.com/album/5rg6sPzPkEB0YAuZiCUG61) | 3:41 |
+| 262 | [Hard Billy](https://open.spotify.com/track/7DWnLKwS5ozOnCAhGbREjM) | [Léonie Pernet](https://open.spotify.com/artist/5hGg5Xi5EqhkDooT7myKfC) | [Le Cirque de Consolation](https://open.spotify.com/album/5rg6sPzPkEB0YAuZiCUG61) | 3:41 |
 | 263 | [Look At That Butt](https://open.spotify.com/track/6itsZ3QsDvfEFoklc08YHD) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [Jarina De Marco](https://open.spotify.com/artist/2Ju0kEPJxYUo0XM2PNUGeL) | [WUT WUT](https://open.spotify.com/album/1mdsI3uD5YlpbymXaGqkVE) | 2:32 |
 | 264 | [Ah bah d’accord](https://open.spotify.com/track/56Cf0t6EUIu7bYNIvVvEpE) | [Juniore](https://open.spotify.com/artist/1vxsourLLLfobrxyWAcuQH) | [Un, Deux, Trois](https://open.spotify.com/album/5V1IX1r1VBIn9Z5PNYbR11) | 3:39 |
 | 265 | [Catch Fire \(Johnny Jewel Remix\)](https://open.spotify.com/track/4UxHcKhXUROgfDEoWyleI0) | [MOTHERMARY](https://open.spotify.com/artist/3NXcwLXXhOFaRP7zy9RPLA), [Johnny Jewel](https://open.spotify.com/artist/2KofAEA8S0jDDXjSg6a3HR) | [Catch Fire](https://open.spotify.com/album/7lVZxJYS8CJ9CbHyTzmB1t) | 3:46 |

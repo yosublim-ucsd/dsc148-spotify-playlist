@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yL7UvjSKZT.md) - [plain]
 
 > Fresh takes on that high lonesome sound\. Cover: Yasmin Williams
 
-[Spotify](https://open.spotify.com/user/spotify) - 258,449 likes - 163 songs - 9 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 258,480 likes - 163 songs - 9 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yL7UvjSKZT.md) - [plain]
 | 8 | [High Life](https://open.spotify.com/track/79euymTE7egtSLkw2oYFWT) | [Olivia Wolf](https://open.spotify.com/artist/4nCfP4yZhkF1g7g8MlzCM7), [Taylor McCall](https://open.spotify.com/artist/5f1cs8LexmMYbhNEIOsDLT) | [High Life](https://open.spotify.com/album/0iJRhOqdyE4arCftukw6CN) | 3:25 |
 | 9 | [Lighthouse \- Alternate Version](https://open.spotify.com/track/38wsMIz4DNPPZT92tv5hsu) | [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Lighthouse \(Alternate Version\)](https://open.spotify.com/album/7lamU2iaFGyr8SyIxk41g7) | 3:31 |
 | 10 | [Old Dreams](https://open.spotify.com/track/2H4BiN1bezzrdB7wcwzUKC) | [Maygen & The Birdwatcher](https://open.spotify.com/artist/5R2t1TUrdWCub9CAUhnzz8) | [Leap Year](https://open.spotify.com/album/7nLGwzyeB9zzYinbCdhltJ) | 3:19 |
-| 11 | [Raleigh and Spencer](https://open.spotify.com/track/5jN4JkTORouAjbgs53rGLY) | [Laurel Hells Ramblers](https://open.spotify.com/artist/1LDDG7bMMIEaBPAmImJmra), [Joshua Quimby](https://open.spotify.com/artist/1fH3yHATnmsvIirfFNmlf0) | [Raleigh and Spencer](https://open.spotify.com/album/6mCrNmiRJPAvtSzZjIk7p0) | 2:36 |
+| 11 | [Raleigh and Spencer](https://open.spotify.com/track/5jN4JkTORouAjbgs53rGLY) | [Clover\-Lynn and The Hellfires](https://open.spotify.com/artist/24nUBGHjWwEqACeMgWHgMc), [Joshua Quimby](https://open.spotify.com/artist/1fH3yHATnmsvIirfFNmlf0) | [Raleigh and Spencer](https://open.spotify.com/album/6mCrNmiRJPAvtSzZjIk7p0) | 2:36 |
 | 12 | [Something to Write In Stone](https://open.spotify.com/track/3NB8K0ryswvReiu3ZCQ8dH) | [Mindy Smith](https://open.spotify.com/artist/4QGC11o7gQR7MBEJ5cUMSv) | [Something to Write In Stone](https://open.spotify.com/album/5SAJhWZnq2ypxAf8ZOAXzn) | 3:01 |
 | 13 | [Who I Am](https://open.spotify.com/track/5Eh6dZjFunROfk6GFsyTqg) | [Johnny Blue Skies](https://open.spotify.com/artist/5R55ruC73ANyzDSOzIZjNc), [Sturgill Simpson](https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB) | [Passage Du Desir](https://open.spotify.com/album/71On7h3S7yH5D0Td6YNw1t) | 3:06 |
 | 14 | [Loretta](https://open.spotify.com/track/7se1SwflQspTPATjG5xV5X) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa), [Taylor Ashton](https://open.spotify.com/artist/53t38sKooUEyyENANtticX) | [Loretta](https://open.spotify.com/album/14eHpLl1n8q8OwO44unjE9) | 2:28 |

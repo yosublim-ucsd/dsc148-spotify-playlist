@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1EOn1bt5GXJPBxrZZ7SUlg">RAYE</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-148 songs - 8 hr 17 min
+149 songs - 8 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,8 @@
 | [Go Girl \(feat\. RAYE\)](https://open.spotify.com/track/4A0UzOvBpzz1EssOYMatB1) | [Miraa May](https://open.spotify.com/artist/2fOvE1l01YyORhYzwoaLCM), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Tales of a Miracle](https://open.spotify.com/album/70OYBk5OZSBZT3KkdQMc2K) | 3:27 | 2023-12-30 |  |
 | [Hands on the Sink](https://open.spotify.com/track/39YAyo3KHKnUWIfpB84r3S) | [Louise](https://open.spotify.com/artist/27ul3mOdPyXZEtI17EjCWa) | [Heavy Love](https://open.spotify.com/album/4g30lAhSUDEOUhs4Izez2s) | 3:31 | 2023-12-30 |  |
 | [Hard Out Here.](https://open.spotify.com/track/0o4HD0mOtTiHSbycbg4IpT) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 3:11 | 2023-12-30 |  |
-| [Hold \(Candyland Remix\)](https://open.spotify.com/track/6sFIeNeq18x9JCsCIwTvvw) | [Elephante](https://open.spotify.com/artist/3fjs4zbBFxEFFe8Wyojo0G), [Jessica Jarrell](https://open.spotify.com/artist/6sjsQahFYXgmOmocbuHou3), [Candyland](https://open.spotify.com/artist/3wzxasxU7kQxHPr0ky5rJq) | [I Am The Elephante Remixes](https://open.spotify.com/album/5BNJGWTaN96oYEmpSmXR77) | 2:16 | 2023-12-30 |  |
+| [Hold \(Candyland Remix\)](https://open.spotify.com/track/6sFIeNeq18x9JCsCIwTvvw) | [Elephante](https://open.spotify.com/artist/3fjs4zbBFxEFFe8Wyojo0G), [Jessica Jarrell](https://open.spotify.com/artist/6sjsQahFYXgmOmocbuHou3), [Candyland](https://open.spotify.com/artist/3wzxasxU7kQxHPr0ky5rJq) | [I Am The Elephante Remixes](https://open.spotify.com/album/5BNJGWTaN96oYEmpSmXR77) | 2:16 | 2023-12-30 | 2024-10-06 |
+| [Hold \- Candyland Remix](https://open.spotify.com/track/1emBOdmo4Xk7o6zfUsAecT) | [Elephante](https://open.spotify.com/artist/3fjs4zbBFxEFFe8Wyojo0G), [Jessica Jarrell](https://open.spotify.com/artist/6sjsQahFYXgmOmocbuHou3), [Candyland](https://open.spotify.com/artist/3wzxasxU7kQxHPr0ky5rJq) | [I Am The Elephante \(Remixes\)](https://open.spotify.com/album/0KuqJ3I3N9gkSvtG5jIOhy) | 2:16 | 2024-10-05 |  |
 | [Home with You](https://open.spotify.com/track/6Z3KPGftGu9ZVvkAY8SaZa) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [As She Pleases](https://open.spotify.com/album/3PYA0lKJUKoKhYkVSLDyDb) | 3:10 | 2023-12-30 |  |
 | [How I Feel](https://open.spotify.com/track/1ATFDbdhuZATOGd3kxmh9v) | [YT](https://open.spotify.com/artist/175Igpf3YqFTLD9FOP3YfY), [Keen](https://open.spotify.com/artist/50lH1JCWzaCDAF2uKjQInf) | [YT Global NOW Hosted By: Califiedent](https://open.spotify.com/album/5FPHtJrlVsALrkXfCwYxrD) | 4:00 | 2023-12-30 |  |
 | [How We Do It](https://open.spotify.com/track/162YLvibQ5whUO74Isj1tz) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Pia Mia](https://open.spotify.com/artist/1BhWF9W2PngtPSyobKg0rP) | [How We Do It](https://open.spotify.com/album/3fc3p6lat7RMjs8ionLqhx) | 3:00 | 2023-12-30 | 2024-02-01 |

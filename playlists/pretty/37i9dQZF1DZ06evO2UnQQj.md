@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2UnQQj.md) - [plain]
 
 ### [This Is Clara Lima](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2UnQQj)
 
-> This is Clara Lima\. Todos os maiores hits em uma só playlist.
+> This is Clara Lima\. The essential tracks, all in one playlist.
 
 [Spotify](https://open.spotify.com/user/spotify) - 190 likes - 50 songs - 2 hr 57 min
 
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2UnQQj.md) - [plain]
 | 49 | [Ponto Final](https://open.spotify.com/track/4k4X5E2nFTPb9wLb7zIRIr) | [Matheus Coringa](https://open.spotify.com/artist/3dZNzNVuTLL2UlQCkyEQqF), [Clara Lima](https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG), [FBC](https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS) | [Ponto Final](https://open.spotify.com/album/57d9GN9YOafuNcEn8MeS27) | 5:01 |
 | 50 | [Me Prenda](https://open.spotify.com/track/5dk7C0yFZoULHvN5DyJlmr) | [Juyè](https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq), [Clara Lima](https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG), [Nauak](https://open.spotify.com/artist/1UUHsTLzraoVw9n5v0HuPu) | [Bem Pra Frente](https://open.spotify.com/album/28loy0wfxZh6WN5RTncIF9) | 2:45 |
 
-Snapshot ID: `Zv3egAAAAAB34eT07hgjNbkCTs8kTBiA`
+Snapshot ID: `Zv3egAAAAADCtvNE7EZ5iZ2lKCp85vSB`

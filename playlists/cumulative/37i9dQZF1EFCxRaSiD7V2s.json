@@ -4907,6 +4907,24 @@
     },
     {
       "album": {
+        "name": "Someone's Ex",
+        "url": "https://open.spotify.com/album/4aqFErwrP7HpJdDTa5I5xh"
+      },
+      "artists": [
+        {
+          "name": "Jenny Owen Youngs",
+          "url": "https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H"
+        }
+      ],
+      "date_added": "2024-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231424,
+      "name": "Someone's Ex",
+      "url": "https://open.spotify.com/track/6ggwRoo9tHtG41UyIVtdtu"
+    },
+    {
+      "album": {
         "name": "Songs from Season Four",
         "url": "https://open.spotify.com/album/68gV4nwLhzuKmxQuCFJTDA"
       },

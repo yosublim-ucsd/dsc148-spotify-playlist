@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Bulgaria.
 
-[Spotify](https://open.spotify.com/user/spotify) - 553 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 555 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 | 44 | [Хубавица](https://open.spotify.com/track/469ChfE6lDYglc46wfzNG7) | [Donika](https://open.spotify.com/artist/3DJYC50MIKFpWotJVrxFJg), [Galena](https://open.spotify.com/artist/5M7RMcbgYy45XzC51HU355), [Azis](https://open.spotify.com/artist/1vAwQYTE1k5MBhNsvqphp1) | [Хубавица](https://open.spotify.com/album/0FQA5XpZgJi9FGnCIgt2OS) | 3:03 |
 | 45 | [Guess featuring Billie Eilish](https://open.spotify.com/track/3WOhcATHxK2SLNeP5W3v1v) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guess featuring Billie Eilish](https://open.spotify.com/album/3ThlxfLSy4bfKzxWqmC7VN) | 2:23 |
 | 46 | [MILLION DOLLAR BABY](https://open.spotify.com/track/5AJ9hqTS2wcFQCELCFRO7A) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [MILLION DOLLAR BABY](https://open.spotify.com/album/2Z1gnUf3nbn6DtwZSUIH54) | 2:35 |
-| 47 | [Alibi \(with Pabllo Vittar & Yseult\)](https://open.spotify.com/track/6G15l720kBWvIQZyoEJEYE) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Alibi \(with Pabllo Vittar & Yseult\)](https://open.spotify.com/album/4AobWNA72kqOymcHxjhQb7) | 2:41 |
+| 47 | [Alibi \(with Pabllo Vittar & Yseult\)](https://open.spotify.com/track/5496lks6V3fh1mZAB6IAap) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Alibi \(with Pabllo Vittar & Yseult\)](https://open.spotify.com/album/2m0euKZUDcoyEXHIS5MFCq) | 2:41 |
 | 48 | [Обичам те, ти мене \- не](https://open.spotify.com/track/2R3jE3iK7C1Ok8eCuIFCmy) | [Medi](https://open.spotify.com/artist/6sEfX6ntbBxeWBLggUMyyq) | [Обичам те, ти мене \- не](https://open.spotify.com/album/4sSVZfarKHR318eTUD2avZ) | 2:48 |
 | 49 | [Драскай клечката](https://open.spotify.com/track/5zGNZb89Vq33vOvyqjgYvF) | [Tsvetelina Yaneva](https://open.spotify.com/artist/4AZihrM3P96d5mA9kvsxxH) | [Драскай клечката](https://open.spotify.com/album/2qq6QeRqXDYov7JUxXkEt7) | 3:38 |
 | 50 | [Хапи ме](https://open.spotify.com/track/7FdivsVRlBUagQR4SSQW9i) | [SIMONA](https://open.spotify.com/artist/6NtH0d4qlaU5FakRdrdNwq) | [Хапи ме](https://open.spotify.com/album/7iw4JcTohH6Ec4pMoLj6JX) | 3:26 |
 
-Snapshot ID: `LpNXyAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `LpSroAAAAAAAAAAAAAAAAAAAAAAAAGVu`

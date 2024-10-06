@@ -4,7 +4,7 @@
 
 > Musica da ascoltare con un drink in mano\. 🍹
 
-399 songs - 1 day 2 hr 56 min
+400 songs - 1 day 3 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [Don't Turn It off \(Feat\. Qzen\)](https://open.spotify.com/track/5H8ZaA6z9uDvBNYEy7NsgR) | [40 Thieves](https://open.spotify.com/artist/1MLdyxgahy0T5ZdTpe4Jnc) | [Don't Turn It Off](https://open.spotify.com/album/7yxt4FYWy5C6imxhMr1d3o) | 4:38 | 2023-05-14 | 2023-05-30 |
 | [Don't Worry Be Happy](https://open.spotify.com/track/5YbgcwHjQhdT1BYQ4rxWlD) | [Bobby McFerrin](https://open.spotify.com/artist/2FjkZT851ez950cyPjeYid) | [The Collection](https://open.spotify.com/album/5QXK9xXDSYvSOXYSJHdwOD) | 4:52 | 2024-05-19 | 2024-06-03 |
 | [Donum](https://open.spotify.com/track/76NiKsl9kFNjjqITQFGo3G) | [SoN](https://open.spotify.com/artist/4UD8MDe0kMu0QPtMUzeaEE) | [Donum](https://open.spotify.com/album/6q1CGoZqOygFjGb08Linko) | 2:40 | 2021-08-05 | 2023-05-31 |
+| [Dorothy \- Bolis Pupul 10th Anniversary Version](https://open.spotify.com/track/5s8PhhTY5hlcX5FehUNVjs) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM), [Bolis Pupul](https://open.spotify.com/artist/0dSnTqwXok006MwsjjlzUl) | [Dorothy \- 10th Anniversary Edition](https://open.spotify.com/album/3CVX0TnEq9ZsE20t4nVavI) | 4:44 | 2024-09-25 |  |
 | [Dreams Away](https://open.spotify.com/track/0R9WmKhiwdJjRBOkGK1XQ4) | [Albin Nordh](https://open.spotify.com/artist/487I47oTYPGiqAwO6yuved) | [Dreams Away](https://open.spotify.com/album/04iUPOlqZk4toyXcRKaite) | 3:57 | 2021-08-05 | 2023-05-31 |
 | [Drift](https://open.spotify.com/track/17k5mzHtzXaYvXxOGiEuQp) | [Morgin Madison](https://open.spotify.com/artist/1WrO4cGKIG6EgYqyHNReej) | [Drift](https://open.spotify.com/album/3O8ijxTJgSN2CnPKqVuna7) | 3:05 | 2021-08-05 | 2022-07-15 |
 | [Drin Drin](https://open.spotify.com/track/720oSVKY1dyo53P0NhCz40) | [Raffaella Carrà](https://open.spotify.com/artist/6EVyI0S0b1Ld2nm37m5x85) | [Le Più Belle Canzoni](https://open.spotify.com/album/0yS4KqzSVnHRuFfZkLkHzu) | 3:33 | 2023-05-14 | 2023-05-30 |
@@ -353,7 +354,7 @@
 | [The Look of Love](https://open.spotify.com/track/0qNZFUSRdjlELqeyxegq6A) | [farfetch'd](https://open.spotify.com/artist/5xQaB2JfKU3pi6IqRsHy4G) | [The Look of Love](https://open.spotify.com/album/0R02lR8xPS4sCXZMSDoLEf) | 3:14 | 2021-08-05 | 2023-05-31 |
 | [The Player](https://open.spotify.com/track/1CMYaclBw1oZTwivt0Z8Si) | [Kid Francescoli](https://open.spotify.com/artist/2G7QgTep5IsJHGHm1hXygD), [Julia Minkin](https://open.spotify.com/artist/63fbQTZ9yW3SUsBRYcn1Wm) | [Play Me Again](https://open.spotify.com/album/54vSb9255iZKykjuytWbZh) | 4:04 | 2023-05-14 | 2023-05-30 |
 | [The Same](https://open.spotify.com/track/3ncJhUV2qVs2GZJFeTZY3S) | [Soul to Speak](https://open.spotify.com/artist/0uYPjw4NSVY5IiZZd6kHdd) | [The Same](https://open.spotify.com/album/3UNlgvakgvIGcdwFuQiAWy) | 8:18 | 2021-08-05 | 2022-06-19 |
-| [The Semimodular Bird of Jazz](https://open.spotify.com/track/30w0Ow2tuaZL26ep5pEn2M) | [Felipe Gordon](https://open.spotify.com/artist/7rQKvsWUOJgXmInx2JuaXj) | [Wait on Me EP](https://open.spotify.com/album/00t0zeNG6lLjFxtrwQSfzc) | 4:49 | 2023-07-21 |  |
+| [The Semimodular Bird of Jazz](https://open.spotify.com/track/30w0Ow2tuaZL26ep5pEn2M) | [Felipe Gordon](https://open.spotify.com/artist/7rQKvsWUOJgXmInx2JuaXj) | [Wait on Me EP](https://open.spotify.com/album/00t0zeNG6lLjFxtrwQSfzc) | 4:49 | 2023-07-21 | 2024-10-06 |
 | [The Shit Baby](https://open.spotify.com/track/77u4D7eaO0T6zVby7kybyP) | [Omar S](https://open.spotify.com/artist/3BvWiyLcyLMoOIm2U8HepI), [D Taylor](https://open.spotify.com/artist/5T3UHLFXGCs6i2EmnYMo5I) | [Thank You for Letting Me Be Myself](https://open.spotify.com/album/4F2e3QOG2AqIIu8XxTIRGi) | 6:53 | 2023-10-30 | 2024-06-28 |
 | [The Strolling Cat](https://open.spotify.com/track/6NrkR6O4lunnPdW8NUXjoC) | [Sum Wave](https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci) | [Oh Baby — The Strolling Cat](https://open.spotify.com/album/7nzEV1BJm9za8L9kU58RrW) | 4:13 | 2021-08-05 | 2022-07-29 |
 | [The Sun](https://open.spotify.com/track/5UEZzRsrB4FKw1SIMoMD2y) | [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk) | [Born a Loser](https://open.spotify.com/album/6OQjfXsIharHjMAMbGYGNd) | 3:27 | 2023-05-30 |  |

@@ -1809,6 +1809,24 @@
     },
     {
       "album": {
+        "name": "Buy The World A Round",
+        "url": "https://open.spotify.com/album/6QJwRfuTj1e6V0c550goov"
+      },
+      "artists": [
+        {
+          "name": "Aaron Watson",
+          "url": "https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167349,
+      "name": "Buy The World A Round",
+      "url": "https://open.spotify.com/track/3ywrTTUfMe5ZE7C9YypvbZ"
+    },
+    {
+      "album": {
         "name": "Buzzed Brain, Pt. 2",
         "url": "https://open.spotify.com/album/04Z0wNec76yBlauZ0gabJ3"
       },
@@ -5916,7 +5934,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-06",
       "duration_ms": 227175,
       "name": "Kick A Little",
       "url": "https://open.spotify.com/track/7JVAxrtctxKu5GpmlCCyGL"
@@ -9301,6 +9319,24 @@
     },
     {
       "album": {
+        "name": "Start at the End",
+        "url": "https://open.spotify.com/album/4d3tswcnN8RBSIeVaDwHH1"
+      },
+      "artists": [
+        {
+          "name": "Clayton Mullen",
+          "url": "https://open.spotify.com/artist/6iRDBNeREg0Je2y9LZzD2g"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208573,
+      "name": "Start at the End",
+      "url": "https://open.spotify.com/track/08eDkqav6EEKUZDy7dlGWI"
+    },
+    {
+      "album": {
         "name": "Start over Somewhere",
         "url": "https://open.spotify.com/album/06ZzHXrAtmH0Jhfptoz1Zc"
       },
@@ -10142,7 +10178,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-06",
       "duration_ms": 255159,
       "name": "The Greys Between",
       "url": "https://open.spotify.com/track/3roru1yN2PhTPLvNpwMiqf"

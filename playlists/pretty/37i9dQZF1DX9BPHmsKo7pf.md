@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9BPHmsKo7pf.md) - [plain]
 
 > Cele mai de succes 50 de hituri în România\. Cover: The Weeknd, Playboi Carti
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,585 likes - 50 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,644 likes - 50 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9BPHmsKo7pf.md) - [plain]
 | 22 | [Vorba Francezului \- From "Buzz House" The Movie](https://open.spotify.com/track/1lb1SBZXMocgE9O93dfxRr) | [Tzanca Uraganu](https://open.spotify.com/artist/5h0wBmd25qPcGSInl3dp66), [Sheik](https://open.spotify.com/artist/16h499dib06k5oaxjbAVtW) | [Vorba Francezului \(From "Buzz House" The Movie\)](https://open.spotify.com/album/5JAP6CrNvHpfmD29ml9wB6) | 2:39 |
 | 23 | [Sistem Otoman](https://open.spotify.com/track/0FXdKliEXDHnIDnCqJu3Xa) | [Tony One](https://open.spotify.com/artist/4GnbmF7PWjbWCIPjkTCLgT), [Costel Biju](https://open.spotify.com/artist/1XDujSZXKFYhL3lb9HLHHY) | [Sistem Otoman](https://open.spotify.com/album/7dFahz8soEhpAKNP5lkq1e) | 2:43 |
 | 24 | [Dame La Mano](https://open.spotify.com/track/1IF9KwFc9CzUUlLtVSK4Sx) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [El Pasado](https://open.spotify.com/album/6Khaxo5eONr9En7sT8Fvjn) | 2:54 |
-| 25 | [Mamma Mia](https://open.spotify.com/track/0XJY2xCiLTCNPrVzUEWZhp) | [The Limba](https://open.spotify.com/artist/7LdZqOf4uMeA5vzlI0oza7), [Misha Miller](https://open.spotify.com/artist/3RyCLaPoUBr14rFufZ7Gnp), [Andro](https://open.spotify.com/artist/4J6A7DGmVEA4CXhTnCxxEd), [Dyce](https://open.spotify.com/artist/77s8dtx2Y0GfkwgSJDH7pc) | [Mamma Mia](https://open.spotify.com/album/7mieCeCorKPB2ooQHatpfb) | 2:59 |
+| 25 | [Mamma Mia](https://open.spotify.com/track/0XJY2xCiLTCNPrVzUEWZhp) | [The Limba](https://open.spotify.com/artist/7LdZqOf4uMeA5vzlI0oza7), [Misha Miller](https://open.spotify.com/artist/3RyCLaPoUBr14rFufZ7Gnp), [ANDRO](https://open.spotify.com/artist/4J6A7DGmVEA4CXhTnCxxEd), [Dyce](https://open.spotify.com/artist/77s8dtx2Y0GfkwgSJDH7pc) | [Mamma Mia](https://open.spotify.com/album/7mieCeCorKPB2ooQHatpfb) | 2:59 |
 | 26 | [Baba](https://open.spotify.com/track/2LwLdMMTnZgDggYoUxXn8d) | [Gheboasă](https://open.spotify.com/artist/2hFnOlH9Dg8zJFWwaODCWJ), [Alberto Guta](https://open.spotify.com/artist/5GvO1pU9enFaGlqtEbqV2P) | [Baba](https://open.spotify.com/album/6Kmrcahv6aAPYTlkADWt7p) | 2:18 |
 | 27 | [Amore](https://open.spotify.com/track/78Qu2ibWMLEx4M7hlESf3w) | [Iuly Neamtu](https://open.spotify.com/artist/5d3bc9MSib3NPeIDxYIIWD), [Manele Mentolate](https://open.spotify.com/artist/4FxpvNihN7UbesJZrAE9tR) | [Amore](https://open.spotify.com/album/7l4nAOqwA7tHCQ7qdJtAR9) | 2:38 |
 | 28 | [REGINA](https://open.spotify.com/track/5yGAxh5wM6di5gmlD79jDY) | [NOUA UNSPE](https://open.spotify.com/artist/1fYKCWegShlSGe4yATnpdp) | [REGINA](https://open.spotify.com/album/5v1ISrc4VsxiFhoxJj1Qk8) | 2:18 |

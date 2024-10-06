@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Xa1Op.md) - [plain]
 
 ### [This Is Ali Farka Touré](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1Xa1Op)
 
-> This is Ali Farka Touré\. The essential tracks, all in one playlist.
+> This is Ali Farka Touré\. أغانٍ رائعة في قائمة أغانٍ واحدة.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,544 likes - 44 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,545 likes - 44 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Xa1Op.md) - [plain]
 | 43 | [La drogue](https://open.spotify.com/track/5NzlmSiu5DxjQKorGGI8OB) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [Red & Green](https://open.spotify.com/album/7ouohH6WOvyQODD0RYMpLi) | 5:34 |
 | 44 | [Kombo Galia](https://open.spotify.com/track/0OZENqfFTW8YSuirwg8Fvm) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [Voyageur](https://open.spotify.com/album/0R0L7vD6I7MxXmK1M3cZyj) | 4:27 |
 
-Snapshot ID: `Zv3egAAAAACgPs1gizhAwTiUQ/yRrQO8`
+Snapshot ID: `Zv3egAAAAADxJb/QnIOcZcNvk9C+joS6`

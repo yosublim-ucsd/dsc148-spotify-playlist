@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3d2wagqzwmM.md) - [plain]
 
 > Big rooms and big sounds\. Cover: Hardwell
 
-[Spotify](https://open.spotify.com/user/spotify) - 547,780 likes - 80 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 547,973 likes - 80 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3d2wagqzwmM.md) - [plain]
 | 14 | [Meet Her At The Love Parade](https://open.spotify.com/track/58bT1VNZ0Itc70Sz7mcueT) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA), [Da Hool](https://open.spotify.com/artist/0wOXK4GjUAFUDhd7mvKBbW), [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO), [Kiki Solvej](https://open.spotify.com/artist/3REA7BOURYizezV7PGQJEW) | [Meet Her At The Love Parade](https://open.spotify.com/album/3yZ5NNRrnEtyJFkylL0SaK) | 2:48 |
 | 15 | [Renegade Master](https://open.spotify.com/track/3aM59S9lax0LomwFVCHF0L) | [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3) | [Renegade Master](https://open.spotify.com/album/7jed62ZXmaqO0C04QO6OYe) | 2:50 |
 | 16 | [Dieser Harte](https://open.spotify.com/track/6RqM6F2jq0nfaItdzIkpb6) | [T A N E](https://open.spotify.com/artist/76vKcd8tKbbD9Ryrmsshgn), [Kevin D'Angello](https://open.spotify.com/artist/5cg7ESNx1k1NLAkdx78P9y) | [Dieser Harte](https://open.spotify.com/album/5XW0KjUlqspisaK6xZQq2h) | 2:13 |
-| 17 | [Raving](https://open.spotify.com/track/1U6hOheaJGUCWzn3ot1cbm) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz) | [Raving](https://open.spotify.com/album/7ILVMHef9eJsQi27KM56Hf) | 2:18 |
-| 18 | [Ritmo De La Noche \(Vamos A La Playa\)](https://open.spotify.com/track/3APyTiWzqQtT8vd0kRz6lo) | [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4), [AXMO](https://open.spotify.com/artist/5QWt56OIzFSPRpD7VeRkbc) | [Ritmo De La Noche \(Vamos A La Playa\)](https://open.spotify.com/album/0cti2FC4fjKghKMv8JDPUj) | 2:51 |
+| 17 | [Ritmo De La Noche \(Vamos A La Playa\)](https://open.spotify.com/track/3APyTiWzqQtT8vd0kRz6lo) | [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4), [AXMO](https://open.spotify.com/artist/5QWt56OIzFSPRpD7VeRkbc) | [Ritmo De La Noche \(Vamos A La Playa\)](https://open.spotify.com/album/0cti2FC4fjKghKMv8JDPUj) | 2:51 |
+| 18 | [Raving](https://open.spotify.com/track/1U6hOheaJGUCWzn3ot1cbm) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz) | [Raving](https://open.spotify.com/album/7ILVMHef9eJsQi27KM56Hf) | 2:18 |
 | 19 | [Pedro \- W&W Remix](https://open.spotify.com/track/0gYuvKWHb91DODhZaERQ0a) | [Jaxomy](https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq), [Agatino Romero](https://open.spotify.com/artist/124jbwgd8Hh6LW7jAqTa8r), [Raffaella Carrà](https://open.spotify.com/artist/6EVyI0S0b1Ld2nm37m5x85), [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4) | [Pedro \(W&W Remix\)](https://open.spotify.com/album/0huIo0to4wsfiIKSCD9q3A) | 2:39 |
 | 20 | [Viking's Call](https://open.spotify.com/track/3S3dgnsXeYoAeP2hmYRmzU) | [NIVIRO](https://open.spotify.com/artist/2nsCjA4fEasmnlOK0wXU7T) | [Viking's Call](https://open.spotify.com/album/5u0FU98Bk1EX4cfXH6h8Gu) | 3:41 |
 | 21 | [Rock My Body \(with Sash!\) \- W&W x R3HAB VIP Remix](https://open.spotify.com/track/65Iiyhh7rD0vq0bmCPz2YK) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8), [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4), [Sash!](https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz) | [Rock My Body \(with SASH!\) \[W&W x R3HAB VIP Remix\]](https://open.spotify.com/album/435wMn4soTVne8q2Ayjpj0) | 2:48 |
@@ -87,6 +87,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3d2wagqzwmM.md) - [plain]
 | 77 | [Tamara](https://open.spotify.com/track/0iXHcWtw4npb2FPf6Gh5js) | [le Shuuk](https://open.spotify.com/artist/7bH17jyjkwMPMh9AS8EH0u) | [Tamara](https://open.spotify.com/album/1Lsqnc5hGVO25f0DPh8PgD) | 3:26 |
 | 78 | [Bass Down Low](https://open.spotify.com/track/4o6LuBwSwu4ZYIbN1Af5IS) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Bass Down Low](https://open.spotify.com/album/2DaViq18I0lL0DIfyVWTe4) | 3:04 |
 | 79 | [Flight 643 \- KAAZE Remix](https://open.spotify.com/track/7eV5PavCAxbKD026Xc1GYk) | [KAAZE](https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Flight 643 \(KAAZE Remix\)](https://open.spotify.com/album/7sAyXdVwggkULcfRrjlgBV) | 2:39 |
-| 80 | [Techno Syndrome \(Mortal Kombat\)](https://open.spotify.com/track/6xKm0KcYuXy41P8b3yzXZg) | [D\-Devils](https://open.spotify.com/artist/00Q38FFuCE7XCDMhuYYTao) | [Techno Syndrome \(Mortal Kombat\)](https://open.spotify.com/album/3MxO966dKkJKwiAtymwjm7) | 3:22 |
+| 80 | [Lost In The Music](https://open.spotify.com/track/7oZOV66eOcLjv7a9YEt5NW) | [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Lost In The Music](https://open.spotify.com/album/4302kKfB2VwUA3mUA84mUr) | 2:59 |
 
 Snapshot ID: `Zv8T4AAAAAAdurD09PfvKh4hdHzN7fut`

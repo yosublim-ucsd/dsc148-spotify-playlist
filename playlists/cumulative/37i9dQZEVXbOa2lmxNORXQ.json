@@ -10240,7 +10240,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-06",
       "duration_ms": 316363,
       "name": "LA CURA",
       "url": "https://open.spotify.com/track/0i4uSrPDjfMZJf0gaa0i6D"
@@ -13390,6 +13390,24 @@
       "duration_ms": 165275,
       "name": "Mi\u00e9nteme",
       "url": "https://open.spotify.com/track/0cOa970mzTWAxKtltpkpLc"
+    },
+    {
+      "album": {
+        "name": "MLP",
+        "url": "https://open.spotify.com/album/3iYLojQkMaQHojjIiOTlqM"
+      },
+      "artists": [
+        {
+          "name": "Yeison Jimenez",
+          "url": "https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT"
+        }
+      ],
+      "date_added": "2024-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148975,
+      "name": "MLP",
+      "url": "https://open.spotify.com/track/4DAMvNqHt0s8zJr6JwOoye"
     },
     {
       "album": {
@@ -20275,6 +20293,24 @@
     },
     {
       "album": {
+        "name": "TBC (KARMA)",
+        "url": "https://open.spotify.com/album/7s0eWl6syb8IFCR2HQUCZG"
+      },
+      "artists": [
+        {
+          "name": "KEVIN ROLDAN",
+          "url": "https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO"
+        }
+      ],
+      "date_added": "2024-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144466,
+      "name": "TBC (KARMA)",
+      "url": "https://open.spotify.com/track/5PDXWKryvv1SRcmSozUdTZ"
+    },
+    {
+      "album": {
         "name": "JOSE",
         "url": "https://open.spotify.com/album/11GmvpYnbgK0rSryPaV5BP"
       },
@@ -21914,7 +21950,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-06",
       "duration_ms": 218500,
       "name": "Una Vida Pasada",
       "url": "https://open.spotify.com/track/2mLTxNa0bwZX8eNBsuODLX"

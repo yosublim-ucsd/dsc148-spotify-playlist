@@ -1,6 +1,6 @@
 {
   "description": "100% British - 100% R&B. Cover: Nippa",
-  "num_followers": 149922,
+  "num_followers": 149929,
   "original_name": "R&B UK",
   "owner": {
     "name": "Spotify",
@@ -219,18 +219,22 @@
     {
       "added_at": "2024-10-03 23:00:00",
       "album": {
-        "name": "Chat",
-        "url": "https://open.spotify.com/album/20MyZfFvhdD3JqWovRSZQF"
+        "name": "Hold You Down",
+        "url": "https://open.spotify.com/album/2GYVBRo8ElxaGoBtKbNVG0"
       },
       "artists": [
         {
-          "name": "Mabel",
-          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
+          "name": "Juls",
+          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
+        },
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
         }
       ],
-      "duration_ms": 139413,
-      "name": "Chat",
-      "url": "https://open.spotify.com/track/1vyk73GxPpTYcId4AOAnAd"
+      "duration_ms": 158069,
+      "name": "Hold You Down",
+      "url": "https://open.spotify.com/track/1UAv2FU9jslNl8AHsoUBjY"
     },
     {
       "added_at": "2024-10-03 23:00:00",
@@ -267,26 +271,6 @@
     {
       "added_at": "2024-10-03 23:00:00",
       "album": {
-        "name": "Hold You Down",
-        "url": "https://open.spotify.com/album/2GYVBRo8ElxaGoBtKbNVG0"
-      },
-      "artists": [
-        {
-          "name": "Juls",
-          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
-        },
-        {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
-        }
-      ],
-      "duration_ms": 158069,
-      "name": "Hold You Down",
-      "url": "https://open.spotify.com/track/1UAv2FU9jslNl8AHsoUBjY"
-    },
-    {
-      "added_at": "2024-10-03 23:00:00",
-      "album": {
         "name": "AUCTION",
         "url": "https://open.spotify.com/album/3kwxfS6aFImHEPU3XW85CU"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 200500,
       "name": "AUCTION",
       "url": "https://open.spotify.com/track/1yhFfvsXLCagHMJuPZllJD"
+    },
+    {
+      "added_at": "2024-10-03 23:00:00",
+      "album": {
+        "name": "Chat",
+        "url": "https://open.spotify.com/album/20MyZfFvhdD3JqWovRSZQF"
+      },
+      "artists": [
+        {
+          "name": "Mabel",
+          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
+        }
+      ],
+      "duration_ms": 139413,
+      "name": "Chat",
+      "url": "https://open.spotify.com/track/1vyk73GxPpTYcId4AOAnAd"
     },
     {
       "added_at": "2024-10-03 23:00:00",
@@ -375,6 +375,22 @@
       "duration_ms": 158713,
       "name": "Mine",
       "url": "https://open.spotify.com/track/0AFi9z7GXJU8rK6rDF8Qmb"
+    },
+    {
+      "added_at": "2024-10-03 23:00:00",
+      "album": {
+        "name": "Hold Up",
+        "url": "https://open.spotify.com/album/6Wjf1qyWX7TZfsmcjo5Qab"
+      },
+      "artists": [
+        {
+          "name": "Sasha Keable",
+          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
+        }
+      ],
+      "duration_ms": 148750,
+      "name": "Hold Up",
+      "url": "https://open.spotify.com/track/5jIPK0iZ3wzCHWsEze021Z"
     },
     {
       "added_at": "2024-10-03 23:00:00",
@@ -463,22 +479,6 @@
       "duration_ms": 152290,
       "name": "Vitamins",
       "url": "https://open.spotify.com/track/2fLDKaSvow0ciPW60ibLil"
-    },
-    {
-      "added_at": "2024-10-03 23:00:00",
-      "album": {
-        "name": "Hold Up",
-        "url": "https://open.spotify.com/album/6Wjf1qyWX7TZfsmcjo5Qab"
-      },
-      "artists": [
-        {
-          "name": "Sasha Keable",
-          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
-        }
-      ],
-      "duration_ms": 148750,
-      "name": "Hold Up",
-      "url": "https://open.spotify.com/track/5jIPK0iZ3wzCHWsEze021Z"
     },
     {
       "added_at": "2024-10-03 23:00:00",
@@ -635,22 +635,6 @@
     {
       "added_at": "2024-10-03 23:00:00",
       "album": {
-        "name": "Sweetness",
-        "url": "https://open.spotify.com/album/1KUuc0hHQkpURbaw07xgFS"
-      },
-      "artists": [
-        {
-          "name": "Elmiene",
-          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
-        }
-      ],
-      "duration_ms": 251894,
-      "name": "Sweetness",
-      "url": "https://open.spotify.com/track/06XbwFE5HC7qJaF7ihvZDy"
-    },
-    {
-      "added_at": "2024-10-03 23:00:00",
-      "album": {
         "name": "Best Interest",
         "url": "https://open.spotify.com/album/2DIGbvisJJIIf2xYU9xrW2"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 198000,
       "name": "Best Interest",
       "url": "https://open.spotify.com/track/5IQUPSzuNlYmSzHK8fO0yH"
+    },
+    {
+      "added_at": "2024-10-03 23:00:00",
+      "album": {
+        "name": "Sweetness",
+        "url": "https://open.spotify.com/album/1KUuc0hHQkpURbaw07xgFS"
+      },
+      "artists": [
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        }
+      ],
+      "duration_ms": 251894,
+      "name": "Sweetness",
+      "url": "https://open.spotify.com/track/06XbwFE5HC7qJaF7ihvZDy"
     },
     {
       "added_at": "2024-10-03 23:00:00",
@@ -751,6 +751,22 @@
     {
       "added_at": "2024-10-03 23:00:00",
       "album": {
+        "name": "BAD4U",
+        "url": "https://open.spotify.com/album/4qHTcBrDRkp7X9gfypo0RX"
+      },
+      "artists": [
+        {
+          "name": "H33RA",
+          "url": "https://open.spotify.com/artist/1NHGoS1F3ejgcKg5sE95LM"
+        }
+      ],
+      "duration_ms": 217757,
+      "name": "BAD4U",
+      "url": "https://open.spotify.com/track/5299KaEOLIQoPBO69jMRgN"
+    },
+    {
+      "added_at": "2024-10-03 23:00:00",
+      "album": {
         "name": "Stone (feat. Bakar)",
         "url": "https://open.spotify.com/album/6vIEgwWLHseO0HD5OwmbDQ"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 159493,
       "name": "Give Up The Fear",
       "url": "https://open.spotify.com/track/10tpSojwAIsgZAy4xbAiMB"
-    },
-    {
-      "added_at": "2024-10-03 23:00:00",
-      "album": {
-        "name": "For Someone Somewhere Who Isn't Us",
-        "url": "https://open.spotify.com/album/1chZE5RjHe3KrE242WlAIk"
-      },
-      "artists": [
-        {
-          "name": "Samm Henshaw",
-          "url": "https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4"
-        }
-      ],
-      "duration_ms": 177662,
-      "name": "Under God",
-      "url": "https://open.spotify.com/track/6fFOO5Rdc1U3JCtxCR2O95"
     },
     {
       "added_at": "2024-10-03 23:00:00",
@@ -871,6 +871,22 @@
     {
       "added_at": "2024-10-03 23:00:00",
       "album": {
+        "name": "For Someone Somewhere Who Isn't Us",
+        "url": "https://open.spotify.com/album/1chZE5RjHe3KrE242WlAIk"
+      },
+      "artists": [
+        {
+          "name": "Samm Henshaw",
+          "url": "https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4"
+        }
+      ],
+      "duration_ms": 177662,
+      "name": "Under God",
+      "url": "https://open.spotify.com/track/6fFOO5Rdc1U3JCtxCR2O95"
+    },
+    {
+      "added_at": "2024-10-03 23:00:00",
+      "album": {
         "name": "Love's Letter",
         "url": "https://open.spotify.com/album/2WCUgddua4H6GiwTBK6Zom"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 250462,
       "name": "Oh, Wait...",
       "url": "https://open.spotify.com/track/4AG0bAu5QvQacdyOhQLYqF"
-    },
-    {
-      "added_at": "2024-10-03 23:00:00",
-      "album": {
-        "name": "BAD4U",
-        "url": "https://open.spotify.com/album/4qHTcBrDRkp7X9gfypo0RX"
-      },
-      "artists": [
-        {
-          "name": "H33RA",
-          "url": "https://open.spotify.com/artist/1NHGoS1F3ejgcKg5sE95LM"
-        }
-      ],
-      "duration_ms": 217757,
-      "name": "BAD4U",
-      "url": "https://open.spotify.com/track/5299KaEOLIQoPBO69jMRgN"
     },
     {
       "added_at": "2024-10-03 23:00:00",
@@ -959,26 +959,6 @@
     {
       "added_at": "2024-10-03 23:00:00",
       "album": {
-        "name": "Escape Plan",
-        "url": "https://open.spotify.com/album/62DboXMp5tBqZGDVxdaiVy"
-      },
-      "artists": [
-        {
-          "name": "Kali Claire",
-          "url": "https://open.spotify.com/artist/21S3j7WjnZmXyhXrNif84x"
-        },
-        {
-          "name": "PHABO",
-          "url": "https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn"
-        }
-      ],
-      "duration_ms": 215249,
-      "name": "Escape Plan",
-      "url": "https://open.spotify.com/track/2QtQLiOD8Wy6iG7pRiyrfN"
-    },
-    {
-      "added_at": "2024-10-03 23:00:00",
-      "album": {
         "name": "Fallin 4 A Thug",
         "url": "https://open.spotify.com/album/08two7eshES8TNEHi6WBGl"
       },
@@ -995,18 +975,18 @@
     {
       "added_at": "2024-10-03 23:00:00",
       "album": {
-        "name": "Peace in the Madness",
-        "url": "https://open.spotify.com/album/35tJhjmneu0LOm19AD7HSw"
+        "name": "Around Me",
+        "url": "https://open.spotify.com/album/637AZlOAncgk471qGUVCvP"
       },
       "artists": [
         {
-          "name": "Sipprell",
-          "url": "https://open.spotify.com/artist/065qyjvmeguYcKpAln7buu"
+          "name": "No Guidnce",
+          "url": "https://open.spotify.com/artist/4jE1yavE4c5IR1hhM4wHhY"
         }
       ],
-      "duration_ms": 189473,
-      "name": "Wish You Were Here",
-      "url": "https://open.spotify.com/track/1Ft2AZ6MlRlhNUb0ylOCG7"
+      "duration_ms": 174497,
+      "name": "Around Me",
+      "url": "https://open.spotify.com/track/1YEVx89VQ53Lj96DuDs6Et"
     },
     {
       "added_at": "2024-10-03 23:00:00",
@@ -1027,6 +1007,42 @@
       "duration_ms": 220122,
       "name": "Passenger Princess (feat. Aqyila)",
       "url": "https://open.spotify.com/track/2dwRIUAoAaPlHIq8LUI99v"
+    },
+    {
+      "added_at": "2024-10-03 23:00:00",
+      "album": {
+        "name": "Escape Plan",
+        "url": "https://open.spotify.com/album/62DboXMp5tBqZGDVxdaiVy"
+      },
+      "artists": [
+        {
+          "name": "Kali Claire",
+          "url": "https://open.spotify.com/artist/21S3j7WjnZmXyhXrNif84x"
+        },
+        {
+          "name": "PHABO",
+          "url": "https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn"
+        }
+      ],
+      "duration_ms": 215249,
+      "name": "Escape Plan",
+      "url": "https://open.spotify.com/track/2QtQLiOD8Wy6iG7pRiyrfN"
+    },
+    {
+      "added_at": "2024-10-03 23:00:00",
+      "album": {
+        "name": "Peace in the Madness",
+        "url": "https://open.spotify.com/album/35tJhjmneu0LOm19AD7HSw"
+      },
+      "artists": [
+        {
+          "name": "Sipprell",
+          "url": "https://open.spotify.com/artist/065qyjvmeguYcKpAln7buu"
+        }
+      ],
+      "duration_ms": 189473,
+      "name": "Wish You Were Here",
+      "url": "https://open.spotify.com/track/1Ft2AZ6MlRlhNUb0ylOCG7"
     },
     {
       "added_at": "2024-10-03 23:00:00",
@@ -1059,22 +1075,6 @@
       "duration_ms": 200000,
       "name": "Undone",
       "url": "https://open.spotify.com/track/4eRQ0iaCuuojLwKDZJQdc9"
-    },
-    {
-      "added_at": "2024-10-03 23:00:00",
-      "album": {
-        "name": "Boundaries",
-        "url": "https://open.spotify.com/album/2UmzFdvxHsHnO7ZhIdvSzp"
-      },
-      "artists": [
-        {
-          "name": "Sin\u00e9ad Harnett",
-          "url": "https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo"
-        }
-      ],
-      "duration_ms": 161773,
-      "name": "Unfamiliar",
-      "url": "https://open.spotify.com/track/2du9UaU0EwtkVr7zfpq5QK"
     }
   ],
   "unique_name": "R&B UK",

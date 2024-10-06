@@ -1,12 +1,12 @@
 {
   "description": "Strictly Nigerian worship songs. Cover:  <a href=https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU?si=P3aUHJWgRLCGMmhYuDEMtQ>Sunmisola Agbebi</a>",
-  "num_followers": 20612,
+  "num_followers": 20746,
   "original_name": "Naija Worship",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zv8wPAAAAAC9D/VQzGbN1TH1agHqpB+0",
+  "snapshot_id": "ZwD8lQAAAADNTZxCzrTjoTW4nbkbafC8",
   "tracks": [
     {
       "added_at": "2024-05-09 09:42:58",
@@ -131,6 +131,26 @@
       "duration_ms": 610103,
       "name": "Spirit Chant",
       "url": "https://open.spotify.com/track/6SmLWZs2HkAX17zcvFGcln"
+    },
+    {
+      "added_at": "2024-10-05 08:45:09",
+      "album": {
+        "name": "None As Great (feat. IBKSings)",
+        "url": "https://open.spotify.com/album/0Tnya0sXXeYwRgsrFAowtD"
+      },
+      "artists": [
+        {
+          "name": "Abby Godwin",
+          "url": "https://open.spotify.com/artist/2vKfioYB4bNu6OIXMkwC6I"
+        },
+        {
+          "name": "IBKSings",
+          "url": "https://open.spotify.com/artist/5H4j32gWFbJQnjImeuaHhU"
+        }
+      ],
+      "duration_ms": 424315,
+      "name": "None As Great (feat. IBKSings)",
+      "url": "https://open.spotify.com/track/04uOK00GAvZa8UCf3bX5Hd"
     },
     {
       "added_at": "2024-05-09 09:42:58",

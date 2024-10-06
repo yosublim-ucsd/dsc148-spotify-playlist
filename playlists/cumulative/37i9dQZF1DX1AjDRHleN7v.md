@@ -4,7 +4,7 @@
 
 > Um pouco de reggae pra acompanhar a brisa do mar.
 
-125 songs - 7 hr 4 min
+126 songs - 7 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,7 @@
 | [Minha Estrela](https://open.spotify.com/track/21W4h17bilDOuYBcv9857o) | [AôA](https://open.spotify.com/artist/1m9TbzfSHdHp25ZFwy0WLl) | [Minha Estrela](https://open.spotify.com/album/11FAjoRU8boQc3AMNlZbkP) | 2:37 | 2024-03-08 | 2024-04-27 |
 | [Minha Ilha](https://open.spotify.com/track/3pqg2vWR8mZ9OGxZ8Kxi8v) | [Gabriel Oliveira](https://open.spotify.com/artist/5tvMRnrx7V0hJc4XhbqEtr) | [Minha Ilha](https://open.spotify.com/album/0sOnQvXTfgv9zyrf1Mi7Zj) | 3:43 | 2023-07-03 |  |
 | [Na Jornada \- Remasterizado](https://open.spotify.com/track/7cyvT2L0e4dGKLRMLTSb9s) | [Amaro Lima](https://open.spotify.com/artist/7lrI5k7baxankvaESuS4ag) | [Coletivo \(Remasterizado\)](https://open.spotify.com/album/2490YcvYldR03aJHLmbC9G) | 4:14 | 2023-07-03 |  |
-| [Na Positiva](https://open.spotify.com/track/3opMQRSGt3qYlte4iU2Oz5) | [Noel Ferrari](https://open.spotify.com/artist/44SfcAfSnOkXQleRmVCwux) | [Na Positiva](https://open.spotify.com/album/6CDNIF3HiM0fBmJuzsEoPR) | 2:33 | 2023-07-03 |  |
+| [Na Positiva](https://open.spotify.com/track/3opMQRSGt3qYlte4iU2Oz5) | [Noel Ferrari](https://open.spotify.com/artist/44SfcAfSnOkXQleRmVCwux) | [Na Positiva](https://open.spotify.com/album/6CDNIF3HiM0fBmJuzsEoPR) | 2:33 | 2023-07-03 | 2024-10-06 |
 | [Nada É em Vão](https://open.spotify.com/track/3n7MHHJ8KjZ5dX7FMjyVks) | [Unidade Nova Praia](https://open.spotify.com/artist/1Onj9Nq0eoWQ1SOdxFJksp) | [Cardeal](https://open.spotify.com/album/6hqXlThpyF5IUy3PMtPwm3) | 3:50 | 2023-07-03 | 2024-02-25 |
 | [Namora Comigo \- Ao Vivo](https://open.spotify.com/track/74ZNzfjGzndMphc6lxiQUl) | [Tauã Cordel](https://open.spotify.com/artist/57qCX4KKubPxn6eBgfR3s6), [Maneva](https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb) | [Namora Comigo](https://open.spotify.com/album/6Dz9DByVqaP2ok2vMK5BL5) | 3:29 | 2024-02-23 | 2024-03-23 |
 | [Nossos Beijos \- Ao Vivo](https://open.spotify.com/track/0scgnlKar795GmHYUyGT15) | [Jeito Moleque](https://open.spotify.com/artist/3V7U1x0TRBn7spzHDQiZhi), [Onze:20](https://open.spotify.com/artist/3MDJ79txY73BUpAR7RnJEk) | [Chama \(Ao Vivo no Rio de Janeiro\)](https://open.spotify.com/album/3bLTLIgFEmEmrFp649BnoW) | 3:44 | 2023-07-03 | 2023-09-30 |
@@ -114,6 +114,7 @@
 | [Sou Tão Eu](https://open.spotify.com/track/7kl4d3es2atNJp1RFs4mCd) | [Vitti Romera](https://open.spotify.com/artist/7tc8zhkjLM3ymqrDmFHajk) | [Sou Tão Eu](https://open.spotify.com/album/10MBQILKvvQw5dnoC2fI7x) | 3:23 | 2024-04-12 | 2024-08-03 |
 | [Tchau Querido](https://open.spotify.com/track/5YRYqGDj8I2QVq9hihSZA8) | [Pilar](https://open.spotify.com/artist/73m22Pkj7wtATvxtsnuLhe) | [Ascenda](https://open.spotify.com/album/17vkIbWTbSp2oy4ZlXn0y8) | 3:37 | 2023-07-03 | 2024-04-19 |
 | [Telegrama](https://open.spotify.com/track/1lefOCsfwCo30VN7NkuqL9) | [MENSANA](https://open.spotify.com/artist/3xgO1ucAJJWnEHjh0zyHdL), [Zeca Baleiro](https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8) | [Telegrama](https://open.spotify.com/album/16Eox6Iq12Qod8QUTzvNsJ) | 3:39 | 2024-06-14 |  |
+| [TEM CORAGEM](https://open.spotify.com/track/4m1rIYJfM2R9EMH7YeqSsQ) | [Bells](https://open.spotify.com/artist/3zl0R9GYjgPiS74kSz6kvN), [Marina Peralta](https://open.spotify.com/artist/5zL3IWBA5pdMvLUmj0Dq2O) | [TEM CORAGEM](https://open.spotify.com/album/7d2d1U9WXWm4pcEwtiAP93) | 4:04 | 2024-09-30 |  |
 | [Terra do Sol](https://open.spotify.com/track/5DFRBacvE2sPo5XSFCFvZf) | [Calmô](https://open.spotify.com/artist/2UhdhFK77w8HgPFhdPZDWy), [Tupi Machine](https://open.spotify.com/artist/2K7WZmzw0YSyXW1xZE1T4l) | [Terra do Sol](https://open.spotify.com/album/479XhvUfr2RSx6IamTa0L8) | 2:33 | 2023-07-03 |  |
 | [Three Little Birds](https://open.spotify.com/track/75FYqcxt1YEAtqDLrOeIJn) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Exodus](https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S) | 3:00 | 2023-07-03 | 2023-10-14 |
 | [Toda Molhada \(Casa do Sol\) \- Ao Vivo 25 Anos](https://open.spotify.com/track/1g6Ng6XKGC8ns0aWFS5Zun) | [Comunidade Nin\-jitsu](https://open.spotify.com/artist/46Jgh80vLc36SBFi9UXpcg) | [Toda Molhada \(Casa do Sol\) \- Ao Vivo 25 Anos](https://open.spotify.com/album/3qDRvHE5ZYck86T7SrGdS1) | 4:35 | 2023-07-03 | 2024-02-24 |

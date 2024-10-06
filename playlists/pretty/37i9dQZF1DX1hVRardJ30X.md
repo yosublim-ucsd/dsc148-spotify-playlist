@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > New music by Manuel Turizo & Kapo, Natanael Cano, Ela Taubert, Eslabon Armado and more! Updates every Friday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 596,616 likes - 53 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 596,708 likes - 53 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 27 | [Elvira & Tony](https://open.spotify.com/track/6JuYPGtQHFfC1Xbuu1PyY2) | [Lismar](https://open.spotify.com/artist/2JAxtl8czMHyssC2W7b8jy), [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE) | [Elvira & Tony](https://open.spotify.com/album/2XO4KRYXIJSLQ6AsxzSP6o) | 3:07 |
 | 28 | [DESASTRE](https://open.spotify.com/track/1R9s6WJz2kMPP9yNHQArEk) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM) | [UNDESASTRE](https://open.spotify.com/album/3we6FpK61JQs2f1mbkJ1kG) | 3:42 |
 | 29 | [HÉROE](https://open.spotify.com/track/7nqsHeFyt3sKMelaE2Itfe) | [Diegote](https://open.spotify.com/artist/2V9MnjEMqwXm7sice07NQK) | [HÉROE](https://open.spotify.com/album/2tpLywGk6yPjpYBcU4BCbg) | 3:35 |
-| 30 | [Orion \- Mr\. Pauer & Aaar Remix](https://open.spotify.com/track/1pvSGoiTrkeUWdokQ5MQGO) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso), [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY), [Mr\. Pauer](https://open.spotify.com/artist/0yYKXWJ4TLMKfx4UugL8dJ), [Aaar](https://open.spotify.com/artist/0TqJNiXUcTs5meyOUHD2pb) | [Orion \(Mr\. Pauer & Aaar Remix\)](https://open.spotify.com/album/3vFleRWjI29vy6VyXprLUQ) | 3:43 |
+| 30 | [Orion \(feat\. Elena Rose\) \- Mr\. Pauer & Aaar Remix](https://open.spotify.com/track/1pvSGoiTrkeUWdokQ5MQGO) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso), [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY), [Mr\. Pauer](https://open.spotify.com/artist/0yYKXWJ4TLMKfx4UugL8dJ), [Aaar](https://open.spotify.com/artist/0TqJNiXUcTs5meyOUHD2pb) | [Orion \(feat\. Elena Rose\) \[Mr\. Pauer & Aaar Remix\]](https://open.spotify.com/album/3vFleRWjI29vy6VyXprLUQ) | 3:43 |
 | 31 | [TBC \(KARMA\)](https://open.spotify.com/track/5PDXWKryvv1SRcmSozUdTZ) | [KEVIN ROLDAN](https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO) | [TBC \(KARMA\)](https://open.spotify.com/album/7s0eWl6syb8IFCR2HQUCZG) | 2:24 |
 | 32 | [Por Los Que Decían Que No](https://open.spotify.com/track/2we91mmgiUvO0tLespW9GG) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Santa Salut](https://open.spotify.com/artist/75vabMROpVyiTX4wv3iHFH) | [Por Los Que Decían Que No](https://open.spotify.com/album/7n6g7CdKZQgrYyomciT1Om) | 3:39 |
 | 33 | [SEB](https://open.spotify.com/track/0X5HXaCChNuO6MY91TyslN) | [Paloma Morphy](https://open.spotify.com/artist/30Ph7pfibYhG9VcdOj7xZw) | [SEB](https://open.spotify.com/album/7qAT7NkHA9Cjh5CBXVMN9K) | 3:01 |

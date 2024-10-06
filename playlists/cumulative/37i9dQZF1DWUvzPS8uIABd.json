@@ -2757,6 +2757,24 @@
     },
     {
       "album": {
+        "name": "Puhelinlangat Laulaa",
+        "url": "https://open.spotify.com/album/0LJVJhA7b1ri49uNKxlT00"
+      },
+      "artists": [
+        {
+          "name": "Marko Hietala",
+          "url": "https://open.spotify.com/artist/1tbhwOH5UBAJoqTx9Oak00"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170867,
+      "name": "Puhelinlangat Laulaa",
+      "url": "https://open.spotify.com/track/0etwmf2vczele3kZwIcPOa"
+    },
+    {
+      "album": {
         "name": "Pysyv\u00e4\u00e4",
         "url": "https://open.spotify.com/album/2c1COKH0Ysq650NMSTp0UG"
       },

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3j5vfW.md) - [plain]
 
 ### [This Is Nicky Romero](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3j5vfW)
 
-> This is Nicky Romero\. The essential tracks, all in one playlist.
+> This Is Nicky Romero\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,628 likes - 51 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,634 likes - 51 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3j5vfW.md) - [plain]
 | 50 | [Bittersweet \(ft\. Quarterback\) \- Firelite Remix](https://open.spotify.com/track/2YvQO5jfnT29NL2dUwY0ou) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Trilane](https://open.spotify.com/artist/4hEojNVUgNvXDE8Aem4P7h), [Kokaholla](https://open.spotify.com/artist/6Bb2R70eMBIIG6BFJhHv7f), [Quarterback Baby](https://open.spotify.com/artist/4t47pMNIyXO3lDZfzi8ENS), [Firelite](https://open.spotify.com/artist/7FTQICqfx93tZdwZJb3wt2) | [Bittersweet \(ft\. Quarterback\) \[Remixes\]](https://open.spotify.com/album/4ePDJZwZk6pXba002oCTT6) | 3:00 |
 | 51 | [Everybody Clap](https://open.spotify.com/track/6lMNMaq2OaE7UIQiBevauB) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Everybody Clap](https://open.spotify.com/album/1nm7alSq7eIZXsoLW7xg2r) | 2:28 |
 
-Snapshot ID: `Zv3egAAAAABSDtECK+fCAxJ/kgM3fp9x`
+Snapshot ID: `Zv3egAAAAADxHgjBVJthQmGKC5kSl9JV`

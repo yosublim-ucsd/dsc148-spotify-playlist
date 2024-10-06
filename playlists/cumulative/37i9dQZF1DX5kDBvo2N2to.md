@@ -4,7 +4,7 @@
 
 > låtarna som inte går att få nog av.
 
-175 songs - 10 hr 17 min
+177 songs - 10 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [Hils Din Mor \(feat\. Anne Linnet\)](https://open.spotify.com/track/52fqmaEIDQdmWONvwXbvf8) | [Freja Kirk](https://open.spotify.com/artist/6RkUXqTZlgi1qagWreJRgG), [Silvana Imam](https://open.spotify.com/artist/14vNE9iqS5eGAL6OogiN8g), [Anne Linnet](https://open.spotify.com/artist/6AWEo7TFXeaDNDMMFuE2YY) | [Hils Din Mor \(feat\. Anne Linnet\)](https://open.spotify.com/album/4SK7VjGM1MnUT9mQIzolPe) | 2:52 | 2024-08-08 |  |
 | [HON SA](https://open.spotify.com/track/7Fm1A727O2wgbWcGyp15p8) | [Chico](https://open.spotify.com/artist/4zS16DZY9bd9qPKjCBuF8n) | [HON SA](https://open.spotify.com/album/7uyo0yNpkSeJrMR3cfnMMX) | 2:47 | 2024-06-28 |  |
 | [Hur förklarar man sånt för datorer?](https://open.spotify.com/track/1L7NKwG84v0yvSeU2hv9IU) | [Daniel Adams\-Ray](https://open.spotify.com/artist/4C86wrjOUfXQDlt6A4oJOC) | [Hur förklarar man sånt för datorer?](https://open.spotify.com/album/1fgPCDkgF39t2671KiaL89) | 3:50 | 2024-06-28 |  |
+| [Hur ska jag sova inatt](https://open.spotify.com/track/23pO9ZdhArX2NTfoxfy0bU) | [Norlie & KKV](https://open.spotify.com/artist/2u8P7EawurNYoIzRtr5Knk) | [Hur ska jag sova inatt](https://open.spotify.com/album/7Lb2uA2vkXMu75VszwGXNh) | 2:41 | 2024-10-04 |  |
 | [I HATE IT!](https://open.spotify.com/track/3VuVNNSD9gL6TBq43PeB5v) | [Hanna Mel](https://open.spotify.com/artist/5KZjB3QwCH7oFbualxmGq8) | [I HATE IT!](https://open.spotify.com/album/5354Xi5KXJ6EtjB1qrQP82) | 2:58 | 2024-06-28 | 2024-09-20 |
 | [I Just Needed You To Know](https://open.spotify.com/track/1LCovl7CSqDuKJRlFQEA5V) | [Girl Scout](https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE) | [I Just Needed You To Know](https://open.spotify.com/album/2Xhvdg9rLRGvhlcOznttch) | 4:35 | 2024-06-28 | 2024-08-30 |
 | [I Lied, I'm Sorry](https://open.spotify.com/track/4OzUKx8HTjGAeXqCIic9iD) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [I Lied, I'm Sorry](https://open.spotify.com/album/3z1vyZHMIrMnbpTNrVC5K9) | 2:42 | 2024-08-08 |  |
@@ -126,7 +127,7 @@
 | [Ordna sig](https://open.spotify.com/track/7uFizp3Ub3xTv4qSxNTTGO) | [Plàsi](https://open.spotify.com/artist/4XPttwv3iZzydK67YRl8tL) | [Ordna sig](https://open.spotify.com/album/6nX94IWKw5BwI7eitPb5aP) | 2:31 | 2024-06-28 |  |
 | [Out of My Mind](https://open.spotify.com/track/6UrTdjYSWXSlquuD1P58h8) | [NOEL](https://open.spotify.com/artist/15JdzpiJMd44n9p7TbFI9p) | [Out of My Mind](https://open.spotify.com/album/1xStOYlPRK1SRoPIDtN75f) | 3:37 | 2024-06-28 |  |
 | [Persienner](https://open.spotify.com/track/7EGGNKZu6kvI683xoZjsIx) | [FILIPPA](https://open.spotify.com/artist/41WN1nz3GcBqnMZEwJCViG) | [Persienner](https://open.spotify.com/album/6u4qwlUZYZlcMP8C85vpGp) | 3:16 | 2024-09-26 |  |
-| [phonetic](https://open.spotify.com/track/58xtrlvib5PVvshQ4u3oPC) | [Haley Bridge](https://open.spotify.com/artist/26Wvz5jI7hC4OZ59mRIqos) | [phonetic](https://open.spotify.com/album/3TSmKJKQneZCgLhLOJ3iTf) | 1:46 | 2024-08-22 |  |
+| [phonetic](https://open.spotify.com/track/58xtrlvib5PVvshQ4u3oPC) | [Haley Bridge](https://open.spotify.com/artist/26Wvz5jI7hC4OZ59mRIqos) | [phonetic](https://open.spotify.com/album/3TSmKJKQneZCgLhLOJ3iTf) | 1:46 | 2024-08-22 | 2024-10-06 |
 | [Plåstret](https://open.spotify.com/track/6Byvrc6ct2PIIQKEhmcVhF) | [Simon Forslund](https://open.spotify.com/artist/4JnIwJLd03V0aofGGIH5uD) | [Plåstret](https://open.spotify.com/album/68mz74xN3EE3nUKVvYevUq) | 3:22 | 2024-06-28 | 2024-08-30 |
 | [Pretty girl](https://open.spotify.com/track/0codJQJF4W3cTeaTntsqGp) | [Julia Lov](https://open.spotify.com/artist/51fbFSdDRO2j9qwBSA1Xuq) | [Kyss mig snabbt i otakt](https://open.spotify.com/album/3wWRgEXZBrD7PfejLHElrd) | 3:55 | 2024-06-28 | 2024-08-30 |
 | [prismor](https://open.spotify.com/track/3qR6U22OHQY7YykVUrGZSV) | [Maja Gödicke](https://open.spotify.com/artist/211ACOZQsLwIxPJIIz7nEG) | [arken/prismor](https://open.spotify.com/album/0w84MKny8k6Usfod8gDVxD) | 4:08 | 2024-06-28 | 2024-09-13 |
@@ -144,7 +145,7 @@
 | [Se på oss](https://open.spotify.com/track/2M6lbPDPhQeJD8Pf23snPP) | [Faråker](https://open.spotify.com/artist/3umyqRlNtUXAsL6r70Znjt) | [Se på oss](https://open.spotify.com/album/4X3XRBILtUAjOvUbjXqcyY) | 3:29 | 2024-08-08 | 2024-09-22 |
 | [Secrets](https://open.spotify.com/track/5NncZVh6eDXNFjIZF7oYKK) | [Ellen Krauss](https://open.spotify.com/artist/1hY6WSJRQy3FPTnmprOBVh) | [Secrets](https://open.spotify.com/album/5uxKAFGxOeWPRmbga9sRHE) | 3:44 | 2024-08-22 |  |
 | [Sexy](https://open.spotify.com/track/1cTJBsAwjKxZggc8HTeSrs) | [Emma Liambi](https://open.spotify.com/artist/79ni0gLHGqim5iM0lzKMLI) | [Sexy](https://open.spotify.com/album/5uAVsNYiC7FTKTGWUgfm5w) | 2:02 | 2024-06-28 | 2024-08-16 |
-| [Sjuk i Huvudet](https://open.spotify.com/track/74mqrObPeUlI7eOO1ZM9UE) | [Avantgardet](https://open.spotify.com/artist/7eX1F6FIRszrebMLdM1BpQ) | [Sjuk i Huvudet – Paul Gascoigne](https://open.spotify.com/album/1cBXxeObgl62kfqZOH8oDq) | 4:30 | 2024-08-22 |  |
+| [Sjuk i Huvudet](https://open.spotify.com/track/74mqrObPeUlI7eOO1ZM9UE) | [Avantgardet](https://open.spotify.com/artist/7eX1F6FIRszrebMLdM1BpQ) | [Sjuk i Huvudet – Paul Gascoigne](https://open.spotify.com/album/1cBXxeObgl62kfqZOH8oDq) | 4:30 | 2024-08-22 | 2024-10-06 |
 | [Snow In The Summer](https://open.spotify.com/track/2u8jdrBjDG3VM7YbhTAJPo) | [Vilhelm Buchaus](https://open.spotify.com/artist/1WqdwYhwSMzVexRFkOtcwl) | [Snow In The Summer](https://open.spotify.com/album/46fIzNsQu0ZOjVXrH4rto9) | 2:49 | 2024-06-28 | 2024-08-16 |
 | [Sockerdricka](https://open.spotify.com/track/0BRiFaYDS7IbM2YO0DFvrP) | [Petrus](https://open.spotify.com/artist/7dwuMzeQJDOTWf0GN6IQHG) | [Sockerdricka](https://open.spotify.com/album/4OJ1YpiBv213DlnbVmYXYf) | 3:22 | 2024-06-28 |  |
 | [Som En Sol](https://open.spotify.com/track/56oeHpuKnpG3U8UEkj2T8n) | [Toxe](https://open.spotify.com/artist/30peMqLlbR5jf0qe1MmLlk) | [Som En Sol](https://open.spotify.com/album/7pMPAhJVAfJ1JedHFanzs7) | 2:55 | 2024-06-28 | 2024-10-05 |
@@ -179,6 +180,7 @@
 | [Vad har du gjort med mig](https://open.spotify.com/track/7ig9eCxvVnHqAY0Jv79hQL) | [Arwin](https://open.spotify.com/artist/5g1qrgALYhfRMMUGPNGc9Q) | [Vad har du gjort med mig](https://open.spotify.com/album/3nR2oclY01lsVsDSPCeCgB) | 3:01 | 2024-09-26 |  |
 | [Varför slutar allt i tårar](https://open.spotify.com/track/1ziVVnmOTUVveQRSgozdUI) | [Melissa Horn](https://open.spotify.com/artist/0tOdy7SqogILIjzGU2hSr5) | [Varför slutar allt i tårar](https://open.spotify.com/album/2UfE1KU8byObEnNFSnIwqv) | 4:04 | 2024-06-28 | 2024-08-30 |
 | [Vem?](https://open.spotify.com/track/5W90tHshx7hSbmHNIgsHYi) | [Jonathan Johansson](https://open.spotify.com/artist/3i0VvjFfLzfX8TgDhgNWfe) | [Vem?](https://open.spotify.com/album/1LMGKjmmL4rPAlGyy3tiy8) | 3:45 | 2024-06-28 | 2024-08-16 |
+| [Världen är inte vacker \(men det är vi\)](https://open.spotify.com/track/4kpu0HVUbw1Ozb1pV1pXIX) | [estraden](https://open.spotify.com/artist/2Osj5g9VkHReOlZgfoEQao) | [Världen är inte vacker \(men det är vi\)](https://open.spotify.com/album/0G2qck3MgeAeBACj0q0dZR) | 3:08 | 2024-10-04 |  |
 | [When she holds me](https://open.spotify.com/track/4L4TXo5OwpTQlIPly2xES1) | [Becky and the Birds](https://open.spotify.com/artist/52MMXmgPC7kDNIYUxCeh8d) | [When she holds me](https://open.spotify.com/album/0bZ5ZKnXCHLoxgm5Y4lSrt) | 4:03 | 2024-06-28 |  |
 | [Wild Horses](https://open.spotify.com/track/7v8cpnWN2qbmMF7VTwg7lr) | [Sunnan](https://open.spotify.com/artist/6sDExcZxGSSO9RMTtBDnAh) | [Cinema](https://open.spotify.com/album/2bxGYnrExMRNgevKUDFnSc) | 3:51 | 2024-08-29 |  |
 | [You’re Breaking My Heart](https://open.spotify.com/track/2tAGHHcz1YPbZRAfgS8DP9) | [NONONO](https://open.spotify.com/artist/513t0jZUP0K98C4h7KHtEb) | [You’re Breaking My Heart](https://open.spotify.com/album/6tlW066bFMZhLN0LHFUB59) | 3:29 | 2024-06-28 | 2024-09-22 |

@@ -1,6 +1,6 @@
 {
   "description": "A melhor trilha sonora pra se preparar pros dias mais quentes do ano!",
-  "num_followers": 1051915,
+  "num_followers": 1051865,
   "original_name": "Projeto Ver\u00e3o",
   "owner": {
     "name": "Spotify",
@@ -83,6 +83,22 @@
     {
       "added_at": "2022-02-25 03:00:00",
       "album": {
+        "name": "This Is Acting",
+        "url": "https://open.spotify.com/album/77jAfTh3KH9K2reMOmTgOh"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 211666,
+      "name": "Cheap Thrills",
+      "url": "https://open.spotify.com/track/27SdWb2rFzO6GWiYDBTD9j"
+    },
+    {
+      "added_at": "2022-02-25 03:00:00",
+      "album": {
         "name": "Funk Wav Bounces Vol.1",
         "url": "https://open.spotify.com/album/2HaqChIDc5go3qxVunBDK0"
       },
@@ -111,22 +127,6 @@
       "duration_ms": 223413,
       "name": "Feels (feat. Pharrell Williams, Katy Perry & Big Sean)",
       "url": "https://open.spotify.com/track/5bcTCxgc7xVfSaMV3RuVke"
-    },
-    {
-      "added_at": "2022-02-25 03:00:00",
-      "album": {
-        "name": "This Is Acting",
-        "url": "https://open.spotify.com/album/77jAfTh3KH9K2reMOmTgOh"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 211666,
-      "name": "Cheap Thrills",
-      "url": "https://open.spotify.com/track/27SdWb2rFzO6GWiYDBTD9j"
     },
     {
       "added_at": "2022-02-25 03:00:00",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2022-02-25 03:00:00",
       "album": {
-        "name": "Alien",
-        "url": "https://open.spotify.com/album/490i1hn8BjKIiUbaolvRdS"
-      },
-      "artists": [
-        {
-          "name": "Dennis Lloyd",
-          "url": "https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt"
-        }
-      ],
-      "duration_ms": 138638,
-      "name": "Alien",
-      "url": "https://open.spotify.com/track/1Tqshmc0rnQPaIGJfRp2Da"
-    },
-    {
-      "added_at": "2022-02-25 03:00:00",
-      "album": {
         "name": "Human (Remix)",
         "url": "https://open.spotify.com/album/5gV5YLk7ehBmnLzoj1ftOo"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 211024,
       "name": "Human (Remix)",
       "url": "https://open.spotify.com/track/0bVp6yZEUrJzOm2agoFYZm"
+    },
+    {
+      "added_at": "2022-02-25 03:00:00",
+      "album": {
+        "name": "Alien",
+        "url": "https://open.spotify.com/album/490i1hn8BjKIiUbaolvRdS"
+      },
+      "artists": [
+        {
+          "name": "Dennis Lloyd",
+          "url": "https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt"
+        }
+      ],
+      "duration_ms": 138638,
+      "name": "Alien",
+      "url": "https://open.spotify.com/track/1Tqshmc0rnQPaIGJfRp2Da"
     },
     {
       "added_at": "2022-02-25 03:00:00",
@@ -1251,30 +1251,6 @@
     {
       "added_at": "2022-02-25 03:00:00",
       "album": {
-        "name": "Save Me (feat. MKLA)",
-        "url": "https://open.spotify.com/album/7pOKGKmHi9U8NM0aJ49QBo"
-      },
-      "artists": [
-        {
-          "name": "Vintage Culture",
-          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
-        },
-        {
-          "name": "Adam K",
-          "url": "https://open.spotify.com/artist/0A8ej3hXTozbQAMhcU8RNb"
-        },
-        {
-          "name": "MKLA",
-          "url": "https://open.spotify.com/artist/57Vnemieu10x71jR2UWc4o"
-        }
-      ],
-      "duration_ms": 193548,
-      "name": "Save Me (feat. MKLA)",
-      "url": "https://open.spotify.com/track/5WxtmHAcrDbghHVGupu18h"
-    },
-    {
-      "added_at": "2022-02-25 03:00:00",
-      "album": {
         "name": "Fica Tudo Bem (Bhaskar Remix)",
         "url": "https://open.spotify.com/album/1SQmuxKhiwwGEAUO8ro97t"
       },
@@ -1295,6 +1271,30 @@
       "duration_ms": 174125,
       "name": "Fica Tudo Bem - Bhaskar Remix",
       "url": "https://open.spotify.com/track/7jLwNbEykLVZldRuvngpl9"
+    },
+    {
+      "added_at": "2022-02-25 03:00:00",
+      "album": {
+        "name": "Save Me (feat. MKLA)",
+        "url": "https://open.spotify.com/album/7pOKGKmHi9U8NM0aJ49QBo"
+      },
+      "artists": [
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        },
+        {
+          "name": "Adam K",
+          "url": "https://open.spotify.com/artist/0A8ej3hXTozbQAMhcU8RNb"
+        },
+        {
+          "name": "MKLA",
+          "url": "https://open.spotify.com/artist/57Vnemieu10x71jR2UWc4o"
+        }
+      ],
+      "duration_ms": 193548,
+      "name": "Save Me (feat. MKLA)",
+      "url": "https://open.spotify.com/track/5WxtmHAcrDbghHVGupu18h"
     },
     {
       "added_at": "2022-02-25 03:00:00",

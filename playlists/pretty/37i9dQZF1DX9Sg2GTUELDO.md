@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Sg2GTUELDO.md) - [plain]
 
 > 感受超級女聲力量。Cover: 方皓玟
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,312 likes - 380 songs - 22 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,320 likes - 380 songs - 22 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

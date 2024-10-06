@@ -3777,6 +3777,24 @@
     },
     {
       "album": {
+        "name": "Amores As\u00ed",
+        "url": "https://open.spotify.com/album/5xIfcaHr9rPzzjQRCFwk2A"
+      },
+      "artists": [
+        {
+          "name": "Tiancho",
+          "url": "https://open.spotify.com/artist/0Qx1jjadmxQoMekTZdIF68"
+        }
+      ],
+      "date_added": "2024-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "Amores As\u00ed",
+      "url": "https://open.spotify.com/track/6oriKDugUDT1CcBTBDgF5s"
+    },
+    {
+      "album": {
         "name": "Zsa Zsa Exactly",
         "url": "https://open.spotify.com/album/2Lz1L3qeOGOlpT0gF454hO"
       },
@@ -4986,7 +5004,7 @@
       ],
       "date_added": "2024-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-06",
       "duration_ms": 212571,
       "name": "Aunque solo fuera un d\u00eda",
       "url": "https://open.spotify.com/track/6iUPGIapVPMILydDCcDPm6"
@@ -6984,7 +7002,7 @@
       ],
       "date_added": "2024-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-06",
       "duration_ms": 170322,
       "name": "Ben a My Pari",
       "url": "https://open.spotify.com/track/5Kwqy2kXlLQgGNPHuArzEy"
@@ -16326,7 +16344,7 @@
       ],
       "date_added": "2024-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-06",
       "duration_ms": 219617,
       "name": "delusional confidence",
       "url": "https://open.spotify.com/track/6xKETHrIxYPqnzT5PsVwEH"
@@ -19078,6 +19096,28 @@
       "duration_ms": 167752,
       "name": "Dust",
       "url": "https://open.spotify.com/track/7a6ZDpiGCOxxXcXcVYxlqJ"
+    },
+    {
+      "album": {
+        "name": "DRAGON & dream",
+        "url": "https://open.spotify.com/album/6tfu1SBOCQ0ZXxSkwTZbsM"
+      },
+      "artists": [
+        {
+          "name": "Tiger He",
+          "url": "https://open.spotify.com/artist/2JIoMLPsl62Hoo3px8mhlH"
+        },
+        {
+          "name": "Lava Hong",
+          "url": "https://open.spotify.com/artist/6yDrbCYEt6ICpuW4Uc9YZu"
+        }
+      ],
+      "date_added": "2024-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219843,
+      "name": "dying w/ u",
+      "url": "https://open.spotify.com/track/7DfSYgpup6BEEJTQYLcS18"
     },
     {
       "album": {
@@ -27858,7 +27898,7 @@
       ],
       "date_added": "2024-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-06",
       "duration_ms": 224469,
       "name": "Hard Time",
       "url": "https://open.spotify.com/track/1HX5benlXEOlbSLXcOoigr"
@@ -28524,6 +28564,24 @@
       "duration_ms": 142439,
       "name": "HEET!",
       "url": "https://open.spotify.com/track/4kaQthoa9f2qcGegX5fOjQ"
+    },
+    {
+      "album": {
+        "name": "Helium",
+        "url": "https://open.spotify.com/album/7nvxBZlhB6THo4SlGYLV4x"
+      },
+      "artists": [
+        {
+          "name": "Orbit 17",
+          "url": "https://open.spotify.com/artist/6KsnYAXDVbqUPE44LSxnJ8"
+        }
+      ],
+      "date_added": "2024-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241202,
+      "name": "Helium",
+      "url": "https://open.spotify.com/track/2BEn2eFIYKkXY8QOTEyoKa"
     },
     {
       "album": {
@@ -70478,7 +70536,7 @@
       ],
       "date_added": "2024-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-06",
       "duration_ms": 139221,
       "name": "VIBEZ",
       "url": "https://open.spotify.com/track/1x1wzlqBumWtN8n4fxM6Ex"

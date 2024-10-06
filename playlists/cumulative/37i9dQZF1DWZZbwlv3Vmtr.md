@@ -4,7 +4,7 @@
 
 > Uptempo instrumental hip hop beats.
 
-964 songs - 1 day 13 hr 23 min
+965 songs - 1 day 13 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,6 +152,7 @@
 | [Cold\-Water Feels](https://open.spotify.com/track/2e2SIW2xo0JDsYta88o32C) | [Siktem](https://open.spotify.com/artist/3k4YXZEqBj8L4UsiPf8fgr) | [Smile Up](https://open.spotify.com/album/4LEXn8d1a2Qm7QLCR3xtPV) | 2:13 | 2022-06-10 | 2024-02-09 |
 | [Color Code](https://open.spotify.com/track/6ZnnfBbGg3OzhAm6G1aGXe) | [Dazik69](https://open.spotify.com/artist/7zZd3vsuMLI5VbBYxGZBvA) | [Color Code](https://open.spotify.com/album/0pFkWTWSTo2hNqC4gfbYlP) | 1:52 | 2022-04-15 | 2022-07-01 |
 | [Come Again](https://open.spotify.com/track/4dVXPyNrB1DAhhhdrJcGQL) | [astra division](https://open.spotify.com/artist/0yMwXDtoiRbZm4yn1JesCK) | [Come Again](https://open.spotify.com/album/5gMhVvHXKKFhPQXxurDB9T) | 2:12 | 2024-08-23 |  |
+| [Come Fall](https://open.spotify.com/track/3mtGITybSAEVhFUkg2Bhuf) | [Glozone](https://open.spotify.com/artist/3tL52hfMx8eyd3ee1bM0yw) | [Come Fall](https://open.spotify.com/album/0p8YocXPwG0lSTbQs49rWG) | 1:54 | 2024-10-04 |  |
 | [Come With A Sparkle](https://open.spotify.com/track/24WyUZrnrasIjh7VjUjnI8) | [Namaskar Blunt](https://open.spotify.com/artist/1YgUnb4dGNkaCsneIunFmm) | [Come With A Sparkle](https://open.spotify.com/album/2JaHpJQdURjtYsziVDYvi2) | 1:44 | 2022-06-17 |  |
 | [Concrete Dream](https://open.spotify.com/track/6Q0NQC52cxfZuulrtVCRyA) | [Lazy Leopard](https://open.spotify.com/artist/41IKlkMyLVlT0OAkxXQtw4) | [Concrete Dream](https://open.spotify.com/album/3BdMsPtS85XxErt4CyGrm5) | 2:20 | 2022-04-15 | 2022-05-20 |
 | [Connection](https://open.spotify.com/track/06AbUUsnDWJ6W4m6sEYnZI) | [Chip Sum](https://open.spotify.com/artist/0gQzA7cbsRzYIwQtNCaR6g) | [Connection](https://open.spotify.com/album/5rz7xkg4wnZMQg4IN9EDyD) | 2:46 | 2022-04-15 | 2022-07-01 |
@@ -627,7 +628,7 @@
 | [Principles](https://open.spotify.com/track/0dgAgBQijLtATLnQ9wxjrk) | [\_91nova](https://open.spotify.com/artist/0fZYZqIGnT5RimC1YWfWP2) | [Eggz Benny](https://open.spotify.com/album/3zuujkBis1epFkensMUnp7) | 2:05 | 2022-04-15 | 2024-07-13 |
 | [Propellerlegs](https://open.spotify.com/track/4VflLDzpRzgCIE6JQksTsO) | [Orange Roundabout](https://open.spotify.com/artist/5MLibyV1Zt03HCKOvJCHnB) | [Propellerlegs](https://open.spotify.com/album/2de7g11IxnvxK7GSm4EDX0) | 2:08 | 2022-04-15 | 2022-09-30 |
 | [Punch Tropical](https://open.spotify.com/track/2oS6CVKvmSq7W3w1csy6jn) | [Mellowdrastic](https://open.spotify.com/artist/5iM6lzU1v2k5FbuTUG2FnV) | [The Cotton Candy Creamery](https://open.spotify.com/album/7469geWNpqJN2D3sOYZCsH) | 2:56 | 2022-04-15 | 2022-05-14 |
-| [Purple Dye](https://open.spotify.com/track/3vVMkpipMN0Ps0SBixQDmQ) | [calle de phnk](https://open.spotify.com/artist/5eyxNQ9zwz01mW4vogEcEY) | [Purple Dye](https://open.spotify.com/album/3AQVZ5POGGPq6mZfPu8qD6) | 2:09 | 2022-04-22 |  |
+| [Purple Dye](https://open.spotify.com/track/3vVMkpipMN0Ps0SBixQDmQ) | [calle de phnk](https://open.spotify.com/artist/5eyxNQ9zwz01mW4vogEcEY) | [Purple Dye](https://open.spotify.com/album/3AQVZ5POGGPq6mZfPu8qD6) | 2:09 | 2022-04-22 | 2024-10-06 |
 | [purple growth](https://open.spotify.com/track/2pWoOr9umRytPP9jfQUD4K) | [chilliance](https://open.spotify.com/artist/6C1x6L8cNFWEw8fbnocXZC) | [purple growth](https://open.spotify.com/album/62gXgpJMgOYFirMW4N6KvK) | 2:48 | 2022-09-02 |  |
 | [Purple Hue](https://open.spotify.com/track/0LiN7h1mBp9kCbbCpZs3Ii) | [Dreams On Vinyl](https://open.spotify.com/artist/2ikWLWXTdUo9oOudnHUXjw) | [Purple Hue](https://open.spotify.com/album/69448mTpDDiJT3ix1zziay) | 2:31 | 2023-09-08 |  |
 | [Purple love](https://open.spotify.com/track/62zRN7mgvNl61YSXGjGXk4) | [Discant Of Venus](https://open.spotify.com/artist/3GqXOi7G86eK1uMNOiuTTn) | [Sandman Express](https://open.spotify.com/album/2tg3PxwbIdpQW8OQq18yMw) | 1:52 | 2022-04-15 | 2024-08-15 |

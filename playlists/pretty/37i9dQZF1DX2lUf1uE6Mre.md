@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lUf1uE6Mre.md) - [plain]
 
 > Die Playlist zur Wasserpfeife\. Cover: DANO
 
-[Spotify](https://open.spotify.com/user/spotify) - 907,526 likes - 80 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 907,521 likes - 80 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

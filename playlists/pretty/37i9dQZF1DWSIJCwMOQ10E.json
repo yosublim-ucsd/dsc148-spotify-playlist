@@ -1,6 +1,6 @@
 {
   "description": "No hay nada como una Rumba Colombiana. \u00a1Hasta el amanecer! Foto: Fonseca y Grupo Niche",
-  "num_followers": 95679,
+  "num_followers": 95704,
   "original_name": "Rumba Colombiana",
   "owner": {
     "name": "Spotify",
@@ -699,6 +699,22 @@
     {
       "added_at": "2024-07-12 18:43:55",
       "album": {
+        "name": "La Vamo a Tumb\u00e1",
+        "url": "https://open.spotify.com/album/143jwWAY05oHce5TH1yqLV"
+      },
+      "artists": [
+        {
+          "name": "Herencia de Timbiqui",
+          "url": "https://open.spotify.com/artist/3aeY1LxKK63GRg7tmI8UVa"
+        }
+      ],
+      "duration_ms": 260432,
+      "name": "La Vamo a Tumb\u00e1",
+      "url": "https://open.spotify.com/track/0dXGYzrcRP1rmSAumo4wFe"
+    },
+    {
+      "added_at": "2024-07-12 18:43:55",
+      "album": {
         "name": "Eso es mondar",
         "url": "https://open.spotify.com/album/4Ord2xIq0FaILVSt4bNBGa"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 233980,
       "name": "Eso es mondar",
       "url": "https://open.spotify.com/track/0H3P5jWNBAAX1JF2IYGFZH"
-    },
-    {
-      "added_at": "2024-07-12 18:43:55",
-      "album": {
-        "name": "La Vamo a Tumb\u00e1",
-        "url": "https://open.spotify.com/album/143jwWAY05oHce5TH1yqLV"
-      },
-      "artists": [
-        {
-          "name": "Herencia de Timbiqui",
-          "url": "https://open.spotify.com/artist/3aeY1LxKK63GRg7tmI8UVa"
-        }
-      ],
-      "duration_ms": 260432,
-      "name": "La Vamo a Tumb\u00e1",
-      "url": "https://open.spotify.com/track/0dXGYzrcRP1rmSAumo4wFe"
     },
     {
       "added_at": "2024-07-12 18:43:55",
@@ -835,22 +835,6 @@
     {
       "added_at": "2024-07-12 18:43:55",
       "album": {
-        "name": "5 A\u00f1os Aferrados al Sabor",
-        "url": "https://open.spotify.com/album/48MJqCk8jUoM5zU9HWeQJN"
-      },
-      "artists": [
-        {
-          "name": "Guayac\u00e1n Orquesta",
-          "url": "https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE"
-        }
-      ],
-      "duration_ms": 334132,
-      "name": "Un Vestido Bonito",
-      "url": "https://open.spotify.com/track/5Zqsv6PdrHyeUbYjnzWVmH"
-    },
-    {
-      "added_at": "2024-07-12 18:43:55",
-      "album": {
         "name": "Mi Fiesta Favorita, Vol. 1",
         "url": "https://open.spotify.com/album/7wWM2cfB37fZ41mASJXscI"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 224444,
       "name": "Las Cuatro Fiestas",
       "url": "https://open.spotify.com/track/6mISZbsWrQ6EMWniWpavvk"
+    },
+    {
+      "added_at": "2024-07-12 18:43:55",
+      "album": {
+        "name": "5 A\u00f1os Aferrados al Sabor",
+        "url": "https://open.spotify.com/album/48MJqCk8jUoM5zU9HWeQJN"
+      },
+      "artists": [
+        {
+          "name": "Guayac\u00e1n Orquesta",
+          "url": "https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE"
+        }
+      ],
+      "duration_ms": 334132,
+      "name": "Un Vestido Bonito",
+      "url": "https://open.spotify.com/track/5Zqsv6PdrHyeUbYjnzWVmH"
     },
     {
       "added_at": "2024-07-12 18:43:55",

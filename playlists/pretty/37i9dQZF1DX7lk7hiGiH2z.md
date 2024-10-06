@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 
 > Zeit für Kastanienmännchen, Laternenlieder und Kürbis schnitzen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,355 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,395 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,9 +41,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 | 31 | [Es regnet, es regnet](https://open.spotify.com/track/4cDNhjC0sczUlUYYcTEQA2) | [Frank und seine Freunde](https://open.spotify.com/artist/3suvpngo1bNM6i7vh4hy7y) | [Die 44 beliebtesten Kinderlieder](https://open.spotify.com/album/3ILmIMWpPWUhmm0pgR4urO) | 1:14 |
 | 32 | [Hu Ha Halloween](https://open.spotify.com/track/4r8pkG3FfuYGFTHYtb2az9) | [Cattu der Traumfänger](https://open.spotify.com/artist/3k28tiwSdzje4lp5leH4Cx) | [Im Land der bunten Fantasie \- Lieder zum Tanzen, Träumen und Mitsingen](https://open.spotify.com/album/4snrlgBOo2mHe82gC8ONhn) | 2:36 |
 | 33 | [Pitsch\-Patsch, Pfützenmatsch](https://open.spotify.com/track/4D4sUEL0SGireh2vsZ2fxh) | [Benjamin Blümchen](https://open.spotify.com/artist/1l6d0RIxTL3JytlLGvWzYe) | [Benjamin Blümchen Liederzoo: Wi\-Wa\-Wetterlieder](https://open.spotify.com/album/5eE3bos99SlobyGrDPfnCV) | 3:14 |
-| 34 | [Ich lass mich nicht ärgern](https://open.spotify.com/track/5BgnKutSrMkOObNxyip4ND) | [Honigkuchenpferde](https://open.spotify.com/artist/6RZP8NdBwAbrDZnYpdJVcH), [Haller](https://open.spotify.com/artist/62U6nJKR1V8QOspXUzWle3), [Berlin Radio Children's Choir](https://open.spotify.com/artist/7meMu2NIiuBL1gyYYh0kjZ) | [Ich lass mich nicht ärgern](https://open.spotify.com/album/7tvCuNZWZj3oixkjhrfo1N) | 3:19 |
+| 34 | [Drachenwind](https://open.spotify.com/track/67vOXepMNB0ZDQlnANzsr5) | [Berend Intelmann](https://open.spotify.com/artist/7bHnUZwNT0xHUAUpNUNJ1v) | [Unter meinem Bett 7](https://open.spotify.com/album/5Q8R9IdUfGHGD36XvqkMIy) | 3:40 |
 | 35 | [Kommt, wir wollen Laterne laufen](https://open.spotify.com/track/0KrkBKVLjtqfDaL1uD10W0) | [Simone Sommerland](https://open.spotify.com/artist/04yr1h3maDSKvM08pgOezF), [Karsten Glück](https://open.spotify.com/artist/5Asmk7uzCjVJN77MLDnvma), [Die Kita\-Frösche](https://open.spotify.com/artist/2yOGWPXuL8wG3F1q5FWmep) | [Die 30 besten Herbstlieder für Kinder](https://open.spotify.com/album/3DB9WITlUNbkGWWHvj94fL) | 3:40 |
-| 36 | [Drachenwind](https://open.spotify.com/track/67vOXepMNB0ZDQlnANzsr5) | [Berend Intelmann](https://open.spotify.com/artist/7bHnUZwNT0xHUAUpNUNJ1v) | [Unter meinem Bett 7](https://open.spotify.com/album/5Q8R9IdUfGHGD36XvqkMIy) | 3:40 |
+| 36 | [Ich lass mich nicht ärgern](https://open.spotify.com/track/5BgnKutSrMkOObNxyip4ND) | [Honigkuchenpferde](https://open.spotify.com/artist/6RZP8NdBwAbrDZnYpdJVcH), [Haller](https://open.spotify.com/artist/62U6nJKR1V8QOspXUzWle3), [Berlin Radio Children's Choir](https://open.spotify.com/artist/7meMu2NIiuBL1gyYYh0kjZ) | [Ich lass mich nicht ärgern](https://open.spotify.com/album/7tvCuNZWZj3oixkjhrfo1N) | 3:19 |
 | 37 | [Was zieh' ich an?](https://open.spotify.com/track/7wjAQJBv8H2xM4FR1hxiJm) | [Rolf Zuckowski](https://open.spotify.com/artist/2qn4hIXsvRUyFoboMi31XB) | [Bei uns in der Kita \- 22 Lieder im Herbst + Winter](https://open.spotify.com/album/0Av6IM3nN41CuQ6E3VWRsI) | 3:01 |
 | 38 | [Wunderbar, der Herbst ist da](https://open.spotify.com/track/4jLyTZ2sNyG3VTGE3CUBor) | [Familie Sonntag](https://open.spotify.com/artist/34rlWZv8uNVp6YbXJyHLoR) | [Der Herbst ist cool!](https://open.spotify.com/album/5Z1pFR01dBUYVzHUymzF2Q) | 3:26 |
 | 39 | [Laubkonfetti \(Es ist Herbst\)](https://open.spotify.com/track/6DbyuyaKB7UdHeW8nERabR) | [Grünschnabel](https://open.spotify.com/artist/3AaffDghvkRRfHVb6T1zUO) | [Lazuli\. Kindermusik für die ganze Familie](https://open.spotify.com/album/2sfVRAR8rBKcxBKTFodFvb) | 3:17 |

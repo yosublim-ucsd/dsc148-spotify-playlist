@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8dPxJstGRJY.md) - [plain]
 
 > Pop classics and show tunes, sung by legendary classical voices\. Cover: Andrea Bocelli
 
-[Spotify](https://open.spotify.com/user/spotify) - 325,712 likes - 54 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 325,931 likes - 54 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8dPxJstGRJY.md) - [plain]
 | 9 | [All I Ask of You \(from "The Phantom of the Opera"\) \[with Kelly Clarkson\]](https://open.spotify.com/track/4Qw3ib035aTuz4QLaZsDxe) | [Josh Groban](https://open.spotify.com/artist/6cXMpsP9x0SH4kFfMyVezF), [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Stages](https://open.spotify.com/album/0UPs87sXoeGPNiKnaWxFOZ) | 3:59 |
 | 10 | [Fionnuala's Violin](https://open.spotify.com/track/2Wa1sa1bTOPa6oClKtR133) | [Secret Garden](https://open.spotify.com/artist/6GUg2fRLklsnSJsG3PrTt0) | [Fionnuala's Violin](https://open.spotify.com/album/2bh3PcnwOmQtCsNCF5ffNo) | 3:57 |
 | 11 | [Regresa a Mí](https://open.spotify.com/track/3p8szomcjl5ghqOKSH5vZf) | [Il Divo](https://open.spotify.com/artist/3KNZ9AOjBajjmr6ZR2VGfl) | [Il Divo](https://open.spotify.com/album/2wHQ8jRc9zKG5tyNzopmJt) | 4:40 |
-| 12 | [Grande amore](https://open.spotify.com/track/2I9KO0T9SUEkpi2OlZkQJo) | [Ciro Esposito](https://open.spotify.com/artist/6OoJQ2zWG8U5qBZ53Jt8Bs), [Il Volo](https://open.spotify.com/artist/0dE9ooTNz8iEKIKItRI66t) | [10 Years \- The Best Of](https://open.spotify.com/album/2Mqky90OTsnQaKXNwxvbA2) | 3:44 |
+| 12 | [Grande amore](https://open.spotify.com/track/2I9KO0T9SUEkpi2OlZkQJo) | [Il Volo](https://open.spotify.com/artist/0dE9ooTNz8iEKIKItRI66t) | [10 Years \- The Best Of](https://open.spotify.com/album/2Mqky90OTsnQaKXNwxvbA2) | 3:44 |
 | 13 | [With Or Without You](https://open.spotify.com/track/0TX4O1sHvHLxyQhpr0mkEU) | [Military Wives](https://open.spotify.com/artist/41j6k61g4RW0WQa2s3TUr0) | [In My Dreams](https://open.spotify.com/album/4Vmuk6V7WX9nTAFhLvs106) | 3:59 |
 | 14 | [Return To Love](https://open.spotify.com/track/09YXhYMYIHZBHVKGEQrSQF) | [Andrea Bocelli](https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Return To Love](https://open.spotify.com/album/2piXcsaXhEcRXaSXVfe4aw) | 4:34 |
 | 15 | [Somewhere \- From 'West Side Story'](https://open.spotify.com/track/6Eu5Y7S6GXPVp1W7lnlVU7) | [Michael Ball](https://open.spotify.com/artist/2MISUlPFrBMRlIcazbEOUI), [Alfie Boe](https://open.spotify.com/artist/3g5gwhWAPLq8MyUcUIsA8j) | [Together](https://open.spotify.com/album/78aID7tYAQzHzN8oLZu0WV) | 3:15 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 
 > all the stutter, all the feels.
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,417 likes - 354 songs - 18 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,530 likes - 354 songs - 18 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 | 20 | [Crown](https://open.spotify.com/track/48HjuSOCti5mGKg6rUjAfB) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j) | [Crown](https://open.spotify.com/album/7Gsu8XlxWUsQbFZGajdxdC) | 4:00 |
 | 21 | [Highlight](https://open.spotify.com/track/0XdLGeMddzvB6CtkuFHy7i) | [Killen.](https://open.spotify.com/artist/0faVSLrVTvEXkpSVBUQ3Wt) | [Highlight](https://open.spotify.com/album/4z1KgyCoUK2h22jRFnd2yy) | 4:11 |
 | 22 | [Best Time](https://open.spotify.com/track/1VV6FPTNAj2G8c60lpOCcP) | [AV AV AV](https://open.spotify.com/artist/0ElSSC4jDQ7mGvDZoAIafM) | [Best Time](https://open.spotify.com/album/5RGfCAYmNeON0h8B2lXNPB) | 3:15 |
-| 23 | [All My Fault](https://open.spotify.com/track/7wswdMKkV4DdNFYCFdQfQU) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s) | [All My Fault](https://open.spotify.com/album/7m6aaDy9EyhUT2wtlEbvwW) | 2:35 |
+| 23 | [All My Fault](https://open.spotify.com/track/7wswdMKkV4DdNFYCFdQfQU) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s), [Thals](https://open.spotify.com/artist/1LDF2JIDwCRoESyjnp7xns) | [All My Fault](https://open.spotify.com/album/7m6aaDy9EyhUT2wtlEbvwW) | 2:35 |
 | 24 | [I Just Wanted to Dance](https://open.spotify.com/track/40MgmjkoAwZNg6gsGrgWlI) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk), [Night Tales](https://open.spotify.com/artist/7lCWd42OYd5Rn7UbozbA6R) | [I Just Wanted to Dance](https://open.spotify.com/album/5Ija1CLcqnWugFIdyJaiPD) | 3:08 |
 | 25 | [Alone](https://open.spotify.com/track/3EcoV6yM8sRBhU4panF0xH) | [Douvelle19](https://open.spotify.com/artist/3EjNHY8UswIZAxMjqXewVH), [just lil](https://open.spotify.com/artist/3jcw0K5zIPsqqTcsVmKpQg) | [Alone](https://open.spotify.com/album/0wNVvymY4L9f69Qdm46mSp) | 3:46 |
 | 26 | [makeumine](https://open.spotify.com/track/3l3CC45fmYwMnB5lYxjdRz) | [informal.](https://open.spotify.com/artist/7rhckctF71vE4BtpFzz7Ie) | [makeumine](https://open.spotify.com/album/35azUZq2Jck9VeetQdpjk8) | 2:40 |

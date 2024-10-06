@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8jpyvTAre41.md) - [plain]
 
 > The best rock songs of the moment\. Cover: The Black Keys, DannyLux
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,181 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,185 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8jpyvTAre41.md) - [plain]
 | 76 | [Down To You](https://open.spotify.com/track/6xwNNvcmwj9fG5E3RUw4TL) | [Marianas Trench](https://open.spotify.com/artist/68EB3QvNdVLkC7SAgDbHIR) | [Down To You](https://open.spotify.com/album/0EKCwHyid21UjLBPbsYW5s) | 2:27 |
 | 77 | [Waiting For A Call](https://open.spotify.com/track/4Mb5Waenb5PhQcieVJJ6T9) | [Jonathan Roy](https://open.spotify.com/artist/62ggJuZV87VvP3sAHM0V3K) | [Waiting For A Call](https://open.spotify.com/album/34CojA2Qz1Vm4bcKunwbu0) | 3:56 |
 | 78 | [Little Cup](https://open.spotify.com/track/3AGKkK3pshqE3qZzAlNQTN) | [Arrested Youth](https://open.spotify.com/artist/4UhExRgMW9QR7oNmTI2lPG) | [Little Cup](https://open.spotify.com/album/2zb80zzXsflKfK5xREM8Pn) | 3:40 |
-| 79 | [New Way Out](https://open.spotify.com/track/7rQeehJRFCNTwqDffP8c5t) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [New Way Out](https://open.spotify.com/album/5O5jhPYHp94APEJRWR9XSD) | 3:22 |
+| 79 | [new way out](https://open.spotify.com/track/7rQeehJRFCNTwqDffP8c5t) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [new way out](https://open.spotify.com/album/5O5jhPYHp94APEJRWR9XSD) | 3:22 |
 | 80 | [Daisies](https://open.spotify.com/track/4iwIrQV8bIMgTIj3c8HT0h) | [Peter Raffoul](https://open.spotify.com/artist/57Y46IQXUoP3ytP9Wm2xRM) | [Daisies](https://open.spotify.com/album/5eAmdCJL1OsU8Lta99atmr) | 3:12 |
 | 81 | [Ahead Of Myself](https://open.spotify.com/track/3lLXdpgMrccLM5hRp8v9lD) | [The Buoys](https://open.spotify.com/artist/338GHPl8NnzUwqpm6wpqjc) | [Lustre](https://open.spotify.com/album/4476oK9dDwXluywz166CT1) | 3:44 |
 | 82 | [Paranoid](https://open.spotify.com/track/6Ez7j7MPocvayb7J7WlaR7) | [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [Paranoid](https://open.spotify.com/album/3NN3PtcVj4qu9Wm237MgYP) | 3:41 |

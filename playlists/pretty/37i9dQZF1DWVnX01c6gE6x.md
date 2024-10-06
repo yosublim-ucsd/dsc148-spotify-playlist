@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVnX01c6gE6x.md) - [plain]
 
 > Creadores que necesitas tener en el RADAR\. En la portada: <a href="https://open.spotify.com/show/3oHILWpLvqwNMCFDLI6kTb?si=f879e1af96ed4d5d">Se regalan sustos</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,925 likes - 12 songs - 15 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,926 likes - 12 songs - 15 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

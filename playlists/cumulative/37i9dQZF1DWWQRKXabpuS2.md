@@ -2,9 +2,9 @@
 
 ### [خليجي جديد](https://open.spotify.com/playlist/37i9dQZF1DWWQRKXabpuS2)
 
-> كل شي خليجي جديد\. غلاف: اميمة طالب
+> كل شي خليجي جديد\. غلاف: بلقيس
 
-370 songs - 1 day 1 hr 34 min
+371 songs - 1 day 1 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -304,6 +304,7 @@
 | [Zilzal](https://open.spotify.com/track/5lIo6Uqv9tzArhAGSlp4Ch) | [Rabeh Saqer](https://open.spotify.com/artist/13xKnb7dAum7ShcsxQA5v2) | [Rabeh Saqer 2023 \- Part 2](https://open.spotify.com/album/6WX89fq1BzUFkWgcK8g1FY) | 4:16 | 2023-06-06 | 2023-06-10 |
 | [أحبك قالها](https://open.spotify.com/track/77w1p4dEGzUhxiR0k10Bbx) | [ناصر الكبيسي](https://open.spotify.com/artist/3UAqsB8c3Qibe5O7UqHQko) | [أحبك قالها](https://open.spotify.com/album/7sWEgexaoBAQJsssQYnb0I) | 5:10 | 2023-05-10 | 2023-10-12 |
 | [أدعج غنج](https://open.spotify.com/track/4Edz1lpw9ciw6kYeu9F7jC) | [Majid Almohandis](https://open.spotify.com/artist/2YquYFTCdzTnrcxZzzrNbj) | [أدعج غنج](https://open.spotify.com/album/0Sj5nWxglerMNk6hPTldur) | 4:30 | 2024-02-13 | 2024-04-19 |
+| [ألمح لك](https://open.spotify.com/track/3NKkS7QOGTOSLD6B5aMi9r) | [Balqees](https://open.spotify.com/artist/6arfS6PinvWKGyMd1AqgFI) | [ألمح لك](https://open.spotify.com/album/0QQUrE9rkF9TWSsK4zapDZ) | 2:52 | 2024-10-05 |  |
 | [احبك](https://open.spotify.com/track/1SYcs6NIEOl4iGanRHK7Pg) | [Essa Almarzoug](https://open.spotify.com/artist/5F0AQAjsHjjT67OBz9GLuz) | [احبك](https://open.spotify.com/album/2ymSGbjj2BJmD1vyiHouqc) | 2:09 | 2021-12-23 | 2022-02-18 |
 | [احبك ليه](https://open.spotify.com/track/41t3VbNWNRiCOXRcfDcAzE) | [محمد مبارك](https://open.spotify.com/artist/6HCSHVuuQlHb3qiOUqXlKi) | [احبك ليه](https://open.spotify.com/album/0YzT44Y3Ngzu4ZTzqB0uSN) | 3:40 | 2022-06-02 | 2022-11-08 |
 | [ادري جرحتك](https://open.spotify.com/track/1iPBF6vVw8HW3k4XmYNQTi) | [Kadejah Moaath \| خديجة معاذ](https://open.spotify.com/artist/7DzOtCU08slSv3obNnXNcv) | [ادري جرحتك](https://open.spotify.com/album/3KQUiiMeK7vuaStr9UU5cy) | 3:28 | 2022-04-01 | 2022-08-27 |

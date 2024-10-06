@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/03de8Phg9jBojkrhxQX9LE.md) - [plain]
 
 > New music picks every Friday from your friends at Brownies &amp; Lemonade
 
-[Brownies & Lemonade](https://open.spotify.com/user/browniesandlemonade) - 20,880 likes - 146 songs - 8 hr 10 min
+[Brownies & Lemonade](https://open.spotify.com/user/browniesandlemonade) - 20,883 likes - 146 songs - 8 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/03de8Phg9jBojkrhxQX9LE.md) - [plain]
 | 6 | [Next Up](https://open.spotify.com/track/70PesUD5AQBzkhqVRoEDzC) | [Jon Casey](https://open.spotify.com/artist/5ttBnysifryX99bjzeFPGr), [Wreckno](https://open.spotify.com/artist/6j78LtFLqDG65Ju57NUM5N) | [Next Up](https://open.spotify.com/album/7K7u6MSUnadC8QJIWig5rF) | 2:33 |
 | 7 | [Vertigo \(feat\. Ed Graves\)](https://open.spotify.com/track/7F03sInpzWDRMC4k4U0Pxj) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9), [Ed Graves](https://open.spotify.com/artist/1Kkcm36k22FT1RWcINq4sI) | [Vertigo \(feat\. Ed Graves\)](https://open.spotify.com/album/3z8WLzALtiavIJrUB22xGB) | 2:28 |
 | 8 | [two](https://open.spotify.com/track/18ENCZw5lQc10UwwFiH1QK) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [two](https://open.spotify.com/album/1ooRAUPQgUixYyS8yHLirr) | 2:15 |
-| 9 | [People Are Dancing](https://open.spotify.com/track/4N15M6bfYDbjtQF2jHXn1J) | [Keys N Krates](https://open.spotify.com/artist/6c1pBXHYjFcGQQNO5MMsdd), [Rimarkable](https://open.spotify.com/artist/4t1z5s4veUPuhIwzvAvTle) | [People Were Dancing](https://open.spotify.com/album/2Bqlcyqq8UerhVB18B1Kcq) | 3:43 |
+| 9 | [People Were Dancing](https://open.spotify.com/track/4N15M6bfYDbjtQF2jHXn1J) | [Keys N Krates](https://open.spotify.com/artist/6c1pBXHYjFcGQQNO5MMsdd), [Rimarkable](https://open.spotify.com/artist/4t1z5s4veUPuhIwzvAvTle) | [People Were Dancing](https://open.spotify.com/album/2Bqlcyqq8UerhVB18B1Kcq) | 3:43 |
 | 10 | [Dudada](https://open.spotify.com/track/1GENOPUqhM4POXH65ZnqZm) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Goldcher](https://open.spotify.com/artist/1n9K41Jye8s8F0z1hb1Qhz), [Irina Rimes](https://open.spotify.com/artist/1OQa8VMULlbmbFmDcdfBZj) | [Dudada](https://open.spotify.com/album/6IvbfG3vczBLqQITICdpKR) | 2:08 |
 | 11 | [Got To Change](https://open.spotify.com/track/5JVQ5aBwl7QQYIaqzzM7BH) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Honey](https://open.spotify.com/album/4c7fP0tUymaZcrEFIeIeZc) | 3:11 |
 | 12 | [Shai Hulud](https://open.spotify.com/track/1baxGsOypYpdD0TD8Bg2RI) | [Annix](https://open.spotify.com/artist/0llNeW8Q52i2sxV7DsFASR), [Mefjus](https://open.spotify.com/artist/54qqaSH6byJIb8eFWxe3Pj) | [Shai Hulud](https://open.spotify.com/album/7lv83x0GpNq7GqSjlTKHk0) | 4:26 |

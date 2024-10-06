@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FavclD4O50.md) - [plain]
 
 > Eerie pieces created by waving hands around Leon Theremin's otherworldly instrument\. Clara Rockmore on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,032 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,038 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FavclD4O50.md) - [plain]
 | 20 | [Precious Weeks](https://open.spotify.com/track/3CXOQPeLHu4teBqbV6dLnx) | [Arthur Sharpe](https://open.spotify.com/artist/00vWlRywZkruZCVSSLhz6H) | [The Electrical Life of Louis Wain \(Original Motional Picture Soundtrack\)](https://open.spotify.com/album/20lEPXGZE0D2vzoHM5psYH) | 3:26 |
 | 21 | [Lacrimosa](https://open.spotify.com/track/6JOYu6rrJcSMcO4IIdplog) | [Armen Ra](https://open.spotify.com/artist/0YHZ5h5Xm50R5bW5ISx08A) | [Theremin Discmorphia](https://open.spotify.com/album/1ba187ocIN64czJt2OD5li) | 3:38 |
 | 22 | [14 Songs, Op\. 34, No\. 14\. Vocalise: 14 Songs, Op\. 34: No\. 14, Vocalise \(Arr\. For theremin and piano\)](https://open.spotify.com/track/69QIXVjGq4o35oajsLgrYv) | [Sergei Rachmaninoff](https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51), [Clara Rockmore](https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q), [Nadia Reisenberg](https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR) | [Rachmaninov, S.: Vocalise / Saint\-Saens, C.: Le Cygne / Falla, M.: El Amor Brujo / Achron, J.: Hebrew Melody \(The Art of the Theremin\)](https://open.spotify.com/album/4m0wpnl7Db40DawENitc78) | 3:49 |
-| 23 | [Overture \(Reprise\)](https://open.spotify.com/track/7sblPlWxkqITqNRLVgDCZT) | [Louis and Bebe Barron](https://open.spotify.com/artist/5CguFfXKOQIiuIRPM01581) | [Forbidden Planet](https://open.spotify.com/album/3zQQtu3a9Y7ZEDAKcftznw) | 2:15 |
-| 24 | [A Happy Place](https://open.spotify.com/track/5kQdkVxKCKcDH6yPKXiyTQ) | [Dorit Chrysler](https://open.spotify.com/artist/20rXRDxITRCP0BZVwUYTfV) | [A Happy Place](https://open.spotify.com/album/1DW3ytYb3yN63c9Mmq0pgr) | 2:09 |
+| 23 | [A Happy Place](https://open.spotify.com/track/5kQdkVxKCKcDH6yPKXiyTQ) | [Dorit Chrysler](https://open.spotify.com/artist/20rXRDxITRCP0BZVwUYTfV) | [A Happy Place](https://open.spotify.com/album/1DW3ytYb3yN63c9Mmq0pgr) | 2:09 |
+| 24 | [Overture \(Reprise\)](https://open.spotify.com/track/7sblPlWxkqITqNRLVgDCZT) | [Louis and Bebe Barron](https://open.spotify.com/artist/5CguFfXKOQIiuIRPM01581) | [Forbidden Planet](https://open.spotify.com/album/3zQQtu3a9Y7ZEDAKcftznw) | 2:15 |
 | 25 | [Moritz Eggert: The Son Of the Daughter Of Dracula Versus The Incredible Frankenstein Monster \(From Outer Space\)](https://open.spotify.com/track/1CL8DcTGkqmXwO8au6LNZQ) | [Moritz Eggert](https://open.spotify.com/artist/5kEOPoyE7tFJVX5mEkJ791), [Barbara Buchholz](https://open.spotify.com/artist/5PKeaAkMpVKmfw9ArG4US3), [Lydia Kavina](https://open.spotify.com/artist/08GqAbGBPbwT33PIeW0QZv), [Kammerensemble Neue Musik Berlin](https://open.spotify.com/artist/1N6kZMavwtrER7WWYwleuI) | [touch! don touch! music for theremin](https://open.spotify.com/album/5PK2qYVj42440Mlb2aYNZH) | 8:45 |
 | 26 | [Summertime](https://open.spotify.com/track/4UyTsJd4FAAbrsA8qQ6apq) | [Armen Ra](https://open.spotify.com/artist/0YHZ5h5Xm50R5bW5ISx08A) | [Theremin Ameriqué: The American Songbook](https://open.spotify.com/album/3iQE5NRJUsS6bd61fg63xY) | 2:48 |
 | 27 | [Oakunar Lynntuja \(Strange Birds\)](https://open.spotify.com/track/7ns1CAe4jXKSlJ0lz5AZsr) | [Carolina Eyck](https://open.spotify.com/artist/5ZrrzzxmMRfGFioCWEfGMI), [American Contemporary Music Ensemble](https://open.spotify.com/artist/6nTDqfwF5uJYfoxQeJaTeO) | [Fantasias for Theremin and String Quartet](https://open.spotify.com/album/2GCBMMIQ718Uw1dgTtrFbF) | 3:36 |

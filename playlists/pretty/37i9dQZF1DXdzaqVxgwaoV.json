@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Celebrando 90 a\u00f1os de Discos Fuentes, con Pastor L\u00f3pez en portada!",
-  "num_followers": 125566,
+  "num_followers": 125567,
   "original_name": "Desde Septiembre se Siente Diciembre",
   "owner": {
     "name": "Spotify",
@@ -1247,26 +1247,6 @@
     {
       "added_at": "2024-09-01 08:41:00",
       "album": {
-        "name": "\u00c9xitos los Tupamaros",
-        "url": "https://open.spotify.com/album/6LmdmdH4QOVPXNqkdr9RWM"
-      },
-      "artists": [
-        {
-          "name": "Los Tupamaros",
-          "url": "https://open.spotify.com/artist/54gCRV0IGOEsK5iZFjdKXo"
-        },
-        {
-          "name": "Rochy",
-          "url": "https://open.spotify.com/artist/1RGijIKY2cwvBGXrYgFPnf"
-        }
-      ],
-      "duration_ms": 244608,
-      "name": "En Mi Pensamiento (Te Necesito)",
-      "url": "https://open.spotify.com/track/4yXMkjU2NQkF2mFipkTF4q"
-    },
-    {
-      "added_at": "2024-09-01 08:41:00",
-      "album": {
         "name": "Picoteando por Ah\u00ed y Otros \u00c9xitos",
         "url": "https://open.spotify.com/album/5QrcL2jTqliHd8O563vBbQ"
       },
@@ -1283,6 +1263,26 @@
       "duration_ms": 228408,
       "name": "As\u00ed Te Quiero Yo",
       "url": "https://open.spotify.com/track/0yRCIDuZfg6eXy3Tg9B7iU"
+    },
+    {
+      "added_at": "2024-09-01 08:41:00",
+      "album": {
+        "name": "\u00c9xitos los Tupamaros",
+        "url": "https://open.spotify.com/album/6LmdmdH4QOVPXNqkdr9RWM"
+      },
+      "artists": [
+        {
+          "name": "Los Tupamaros",
+          "url": "https://open.spotify.com/artist/54gCRV0IGOEsK5iZFjdKXo"
+        },
+        {
+          "name": "Rochy",
+          "url": "https://open.spotify.com/artist/1RGijIKY2cwvBGXrYgFPnf"
+        }
+      ],
+      "duration_ms": 244608,
+      "name": "En Mi Pensamiento (Te Necesito)",
+      "url": "https://open.spotify.com/track/4yXMkjU2NQkF2mFipkTF4q"
     },
     {
       "added_at": "2024-09-01 08:41:00",
@@ -1415,26 +1415,6 @@
     {
       "added_at": "2024-09-01 08:41:00",
       "album": {
-        "name": "\u00c9xitos los Corraleros de Majagual",
-        "url": "https://open.spotify.com/album/6DTw8ppotAPp9Gcyj4DsXX"
-      },
-      "artists": [
-        {
-          "name": "Los Corraleros De Majagual",
-          "url": "https://open.spotify.com/artist/4gUlOT8yUtjFDWKlkEpLI4"
-        },
-        {
-          "name": "Julio Erazo",
-          "url": "https://open.spotify.com/artist/5MQLAzmqK0zHHmZ9yBwFZ6"
-        }
-      ],
-      "duration_ms": 189372,
-      "name": "Hace un Mes",
-      "url": "https://open.spotify.com/track/4eXKLkP8QUYn1Ph90npuhe"
-    },
-    {
-      "added_at": "2024-09-01 08:41:00",
-      "album": {
         "name": "16 Grandes \u00c9xitos",
         "url": "https://open.spotify.com/album/02egYwkuEaZuIRL8OsdALR"
       },
@@ -1455,18 +1435,22 @@
     {
       "added_at": "2024-09-01 08:41:00",
       "album": {
-        "name": "Recuerdos Vol. 1",
-        "url": "https://open.spotify.com/album/7b4tYADHIVP4G5NSfMNP02"
+        "name": "\u00c9xitos los Corraleros de Majagual",
+        "url": "https://open.spotify.com/album/6DTw8ppotAPp9Gcyj4DsXX"
       },
       "artists": [
         {
-          "name": "Richie Ray & Bobby Cruz",
-          "url": "https://open.spotify.com/artist/56eTRCwZ13vVWAmrG0dMnq"
+          "name": "Los Corraleros De Majagual",
+          "url": "https://open.spotify.com/artist/4gUlOT8yUtjFDWKlkEpLI4"
+        },
+        {
+          "name": "Julio Erazo",
+          "url": "https://open.spotify.com/artist/5MQLAzmqK0zHHmZ9yBwFZ6"
         }
       ],
-      "duration_ms": 289733,
-      "name": "Los Fariseos",
-      "url": "https://open.spotify.com/track/56FnzYd9Ms90sKVCBZ3g1q"
+      "duration_ms": 189372,
+      "name": "Hace un Mes",
+      "url": "https://open.spotify.com/track/4eXKLkP8QUYn1Ph90npuhe"
     },
     {
       "added_at": "2024-09-01 08:41:00",
@@ -1487,6 +1471,22 @@
       "duration_ms": 274546,
       "name": "Las Cuatro Fiestas",
       "url": "https://open.spotify.com/track/6saaz6xf1KVaSWT4Geb5L6"
+    },
+    {
+      "added_at": "2024-09-01 08:41:00",
+      "album": {
+        "name": "Recuerdos Vol. 1",
+        "url": "https://open.spotify.com/album/7b4tYADHIVP4G5NSfMNP02"
+      },
+      "artists": [
+        {
+          "name": "Richie Ray & Bobby Cruz",
+          "url": "https://open.spotify.com/artist/56eTRCwZ13vVWAmrG0dMnq"
+        }
+      ],
+      "duration_ms": 289733,
+      "name": "Los Fariseos",
+      "url": "https://open.spotify.com/track/56FnzYd9Ms90sKVCBZ3g1q"
     },
     {
       "added_at": "2024-09-01 08:41:00",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2024-09-01 08:41:00",
       "album": {
-        "name": "Y Como Se Mata El Gusano?",
-        "url": "https://open.spotify.com/album/4XYaFGWLlnQoOsUanKU4NK"
-      },
-      "artists": [
-        {
-          "name": "Miguel Moly",
-          "url": "https://open.spotify.com/artist/597Qn1wBw1ZwHNIzeRxOm8"
-        }
-      ],
-      "duration_ms": 196040,
-      "name": "Junto A Tu Corazon",
-      "url": "https://open.spotify.com/track/0weoBV2J1VVaNrjD8h4bLx"
-    },
-    {
-      "added_at": "2024-09-01 08:41:00",
-      "album": {
         "name": "\u00c9poca de Oro 16 \u00c9xitos",
         "url": "https://open.spotify.com/album/2fbH7juIgtukbOBqEOx9eY"
       },
@@ -1647,22 +1631,6 @@
     {
       "added_at": "2024-09-01 08:41:00",
       "album": {
-        "name": "Bailables del A\u00f1o (Vol. 19)",
-        "url": "https://open.spotify.com/album/7CPqtS8EnVxhqi9vpi7AtT"
-      },
-      "artists": [
-        {
-          "name": "Grupo Cariaco",
-          "url": "https://open.spotify.com/artist/7svoDpV7jHqFXOKNMhL4Ip"
-        }
-      ],
-      "duration_ms": 226250,
-      "name": "Cuerpo a Cuerpo",
-      "url": "https://open.spotify.com/track/65V8Ylug8Z2uAHzZpyvNfR"
-    },
-    {
-      "added_at": "2024-09-01 08:41:00",
-      "album": {
         "name": "16 \u00c9xitos de Navidad y A\u00f1o Nuevo",
         "url": "https://open.spotify.com/album/4puHLAC2IeDe0ZAnjyNPMF"
       },
@@ -1679,6 +1647,38 @@
       "duration_ms": 150410,
       "name": "V\u00edspera de A\u00f1o Nuevo",
       "url": "https://open.spotify.com/track/0hRfaXRQhSAqMUCon1QT3Y"
+    },
+    {
+      "added_at": "2024-09-01 08:41:00",
+      "album": {
+        "name": "Bailables del A\u00f1o (Vol. 19)",
+        "url": "https://open.spotify.com/album/7CPqtS8EnVxhqi9vpi7AtT"
+      },
+      "artists": [
+        {
+          "name": "Grupo Cariaco",
+          "url": "https://open.spotify.com/artist/7svoDpV7jHqFXOKNMhL4Ip"
+        }
+      ],
+      "duration_ms": 226250,
+      "name": "Cuerpo a Cuerpo",
+      "url": "https://open.spotify.com/track/65V8Ylug8Z2uAHzZpyvNfR"
+    },
+    {
+      "added_at": "2024-09-01 08:41:00",
+      "album": {
+        "name": "Y Como Se Mata El Gusano?",
+        "url": "https://open.spotify.com/album/4XYaFGWLlnQoOsUanKU4NK"
+      },
+      "artists": [
+        {
+          "name": "Miguel Moly",
+          "url": "https://open.spotify.com/artist/597Qn1wBw1ZwHNIzeRxOm8"
+        }
+      ],
+      "duration_ms": 196040,
+      "name": "Junto A Tu Corazon",
+      "url": "https://open.spotify.com/track/0weoBV2J1VVaNrjD8h4bLx"
     },
     {
       "added_at": "2024-09-01 08:41:00",
@@ -1759,6 +1759,22 @@
     {
       "added_at": "2024-09-01 08:41:00",
       "album": {
+        "name": "A Pulir la Hebilla",
+        "url": "https://open.spotify.com/album/2wuO5HVLoQzltbgc5sWF3q"
+      },
+      "artists": [
+        {
+          "name": "Nelson Henriquez",
+          "url": "https://open.spotify.com/artist/4de5H6yG1hXqYXsL4YHRon"
+        }
+      ],
+      "duration_ms": 176746,
+      "name": "Baion de Madrid",
+      "url": "https://open.spotify.com/track/6thmMbZjcykx9V5rhTM4DY"
+    },
+    {
+      "added_at": "2024-09-01 08:41:00",
+      "album": {
         "name": "La Decisi\u00f3n Vallenata: la Huella de Tu Amor",
         "url": "https://open.spotify.com/album/1u7Xd4ZE0fRCo6pba98oWr"
       },
@@ -1775,22 +1791,6 @@
       "duration_ms": 299744,
       "name": "Toma de M\u00ed",
       "url": "https://open.spotify.com/track/7x24lss6mYJTc1RFMIkK5c"
-    },
-    {
-      "added_at": "2024-09-01 08:41:00",
-      "album": {
-        "name": "A Pulir la Hebilla",
-        "url": "https://open.spotify.com/album/2wuO5HVLoQzltbgc5sWF3q"
-      },
-      "artists": [
-        {
-          "name": "Nelson Henriquez",
-          "url": "https://open.spotify.com/artist/4de5H6yG1hXqYXsL4YHRon"
-        }
-      ],
-      "duration_ms": 176746,
-      "name": "Baion de Madrid",
-      "url": "https://open.spotify.com/track/6thmMbZjcykx9V5rhTM4DY"
     }
   ],
   "unique_name": "Desde Septiembre se Siente Diciembre",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > The best newly released songs of the week\. Cover: LISA
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,774 likes - 114 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,775 likes - 114 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 67 | [44 \(Forget Forever\)](https://open.spotify.com/track/1gB4AZdHNk7jawrX5M7tEm) | [WOOSUNG](https://open.spotify.com/artist/5LHu1iF8m0XtRBEJbbwSoo) | [4444](https://open.spotify.com/album/3gl255N0kUUIkK0GgelT3j) | 5:13 |
 | 68 | [NEMONEMO](https://open.spotify.com/track/4UwsXGVppRRJpKBHy0mtyK) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN) | [NEMONEMO](https://open.spotify.com/album/6FLiJ4318RtpA5lYWJt2cL) | 2:58 |
 | 69 | [First Love](https://open.spotify.com/track/6o6QsKq9h2Sv4mlWyWPpZb) | [DOYOUNG](https://open.spotify.com/artist/5IMXUzbeAyevQmvtOhXQGi) | [First Love](https://open.spotify.com/album/5yPtPhJga80eilEnrWwaeW) | 4:08 |
-| 70 | [Walk My Walk \(feat\. Réjizz\)](https://open.spotify.com/track/7gtIgNnBwFn0RW5xMYQGqm) | [Fyeqoodgurl](https://open.spotify.com/artist/47ryT65283NrXnJ8k6rKyc), [Réjizz](https://open.spotify.com/artist/2BSxVT3s5SibZ3i3SYd2l2) | [Hypnosis](https://open.spotify.com/album/0jXmg8cvVkS45W8FPiByYK) | 3:53 |
+| 70 | [Walk My Walk \(feat\. Réjizz\)](https://open.spotify.com/track/7gtIgNnBwFn0RW5xMYQGqm) | [Fyeqoodgurl](https://open.spotify.com/artist/47ryT65283NrXnJ8k6rKyc), [Réjizz](https://open.spotify.com/artist/32XWTF9gAtgtFQtfAmuBKY) | [Hypnosis](https://open.spotify.com/album/0jXmg8cvVkS45W8FPiByYK) | 3:53 |
 | 71 | [PARADIGM](https://open.spotify.com/track/6oDWFKFA0XZGCc5fm8te31) | [Avara](https://open.spotify.com/artist/63PeJBCkvzMDtyfc0krQyd), [Deb Fan](https://open.spotify.com/artist/7s1vLo9XJCtiFWWzidpl9m) | [PARADIGM](https://open.spotify.com/album/6qTkzqGS5T1oeoqWcuKQGQ) | 3:15 |
 | 72 | [RECKLESS](https://open.spotify.com/track/2aKOHXO2JQG9m7BImL7b0e) | [Noni](https://open.spotify.com/artist/5qKvIYld9MeIwjut9otxti), [Rai Anvio](https://open.spotify.com/artist/6y4WbKZooQzBGNHGDsEG0u) | [RECKLESS](https://open.spotify.com/album/4zGdm3XwogvJ62gxsSeM77) | 3:56 |
 | 73 | [Bunny Girl](https://open.spotify.com/track/5skCbGGAnc7Ns18Figz54h) | [AKASAKI](https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw) | [Bunny Girl](https://open.spotify.com/album/1mxib3LFgnhuMciehemliH) | 3:37 |

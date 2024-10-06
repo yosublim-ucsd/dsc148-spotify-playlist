@@ -4,7 +4,7 @@
 
 > la nueva ola de artistas con San Solo y Pere George en portada\. 🌊✨
 
-558 songs - 1 day 4 hr 50 min
+559 songs - 1 day 4 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [AHORA O NUNCA](https://open.spotify.com/track/1XYiRky7xG3HRAks3edgco) | [Chicocurlyhead](https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [AHORA O NUNCA](https://open.spotify.com/album/1nDeZFMZNqKmUZmjzT9AKn) | 2:36 | 2023-10-21 |  |
 | [Ahí Estaré](https://open.spotify.com/track/1HDSpp1hQxCuUloQCS7GcD) | [Urbøi](https://open.spotify.com/artist/4THv7qQa82UNW5DTtEqNOy) | [Ahí Estaré](https://open.spotify.com/album/2XVv6MnogPJ1bOt298SqpX) | 4:00 | 2023-07-14 | 2024-06-29 |
 | [Aire](https://open.spotify.com/track/6KD13DHZyT3hRvcVg1sZfZ) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux), [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [Aire](https://open.spotify.com/album/3JUzKnPSx25f6XGmFlmOQM) | 2:54 | 2023-07-06 | 2023-07-08 |
-| [Ajedrez](https://open.spotify.com/track/6Mj7L5Lc1sVlO0YYPJl89F) | [Tiare](https://open.spotify.com/artist/5tcN4f1kT2KXbUelXPzjKK) | [Ajedrez](https://open.spotify.com/album/1NMOJ5cQVLinziTx4LN7S9) | 3:40 | 2024-10-04 |  |
+| [Ajedrez](https://open.spotify.com/track/6Mj7L5Lc1sVlO0YYPJl89F) | [Tiare](https://open.spotify.com/artist/5tcN4f1kT2KXbUelXPzjKK) | [Ajedrez](https://open.spotify.com/album/1NMOJ5cQVLinziTx4LN7S9) | 3:40 | 2024-10-04 | 2024-10-06 |
 | [Al Parque](https://open.spotify.com/track/12t8uKp5KH8N8ibjRvdesB) | [Andru](https://open.spotify.com/artist/3oOQ670Uw0UyVnmj9XM58W) | [Al Parque](https://open.spotify.com/album/40kiTREjj8LkkgWQoMOXc0) | 3:27 | 2024-04-12 | 2024-05-04 |
 | [Alcohólica Funcional](https://open.spotify.com/track/4lA24fgAOX0nRHUPzI2Fz3) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Alcohólica Funcional](https://open.spotify.com/album/7C4hHq1P0CeazLLqIitR7z) | 2:41 | 2021-12-10 | 2022-06-25 |
 | [Alcohólica Funcional](https://open.spotify.com/track/7LQjcBqmnXFf1vSJjZCmbq) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Monstruos](https://open.spotify.com/album/5eBqDH63grduGAMyVGiYRe) | 2:41 | 2022-11-30 | 2023-01-11 |
@@ -62,6 +62,7 @@
 | [ASMR](https://open.spotify.com/track/3d6GBK3VlzhluJrFUNlrEi) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [ASMR](https://open.spotify.com/album/1tc2XAQZqkW9wvUTe6H6En) | 3:01 | 2021-12-10 | 2022-02-12 |
 | [Así De Simple](https://open.spotify.com/track/0uwFYmzl08pS4XOmNRnTWo) | [Nicole Favre](https://open.spotify.com/artist/6CxqJ4K3JEBR1fz2lQJNN1) | [Así De Simple](https://open.spotify.com/album/0SOdrZudNfMThST5GBTzGT) | 3:09 | 2023-07-06 | 2023-08-12 |
 | [Atardeció sin vos](https://open.spotify.com/track/1S588EBvuLIOFffQSar9uF) | [El David](https://open.spotify.com/artist/61h5RLs6eo1eapzuDzoA5b) | [¿Cómo decir adiós?](https://open.spotify.com/album/4moI6Cg4KkngLNaPJNQv0T) | 2:36 | 2023-05-19 | 2024-04-13 |
+| [aunque digas que lo sientes \(og\)](https://open.spotify.com/track/1zqE3D6IOZSowj7rm4PHJ4) | [katsu energy](https://open.spotify.com/artist/1RoI58gNaq35wexcKAMnUQ), [Yakashi X](https://open.spotify.com/artist/5Q8PN3cHZ3eTMrS3z8oXlZ) | [aunque digas que lo sientes \(og\)](https://open.spotify.com/album/2GjHVm8LJRjSGtLbFj7bML) | 1:55 | 2024-10-04 |  |
 | [aunque quisiera, no podría](https://open.spotify.com/track/2Eem56vLTyF2pi2T19AmvG) | [Kora](https://open.spotify.com/artist/3ZxaYY2eYNWxg8v1s2k6JD) | [fuera de lugar](https://open.spotify.com/album/6Z73rP80ugJPA7zEhCitar) | 4:22 | 2022-03-11 | 2022-07-12 |
 | [Aura \- Spanish Version](https://open.spotify.com/track/5l8bXrvNDKsc41o07lL9YN) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Aura \(Spanish Version\)](https://open.spotify.com/album/6LWAOYIqPzIdujffA7ah7W) | 3:28 | 2022-09-23 | 2023-04-15 |
 | [Autorretrato](https://open.spotify.com/track/55SwmpdOchhXCJwYxrRdrq) | [Chill&Go](https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h), [Palmasur](https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M) | [Autorretrato](https://open.spotify.com/album/3Mz3vMXm002M6VTs6Swg9V) | 3:34 | 2023-05-19 | 2023-07-07 |

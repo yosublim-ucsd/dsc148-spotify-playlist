@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9h4FeDa1xsw.md) - [plain]
 
 > Photo : Andéol
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,359 likes - 40 songs - 1 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,362 likes - 40 songs - 1 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9h4FeDa1xsw.md) - [plain]
 | 30 | [La tempête approche](https://open.spotify.com/track/46YgUtCMfBnb2bkATxD8pX) | [Alien](https://open.spotify.com/artist/5Y80Kn16d4undgMzx4SaYS) | [La tempête approche](https://open.spotify.com/album/2O79oOmN6J7uaRjx8V2Ux9) | 2:22 |
 | 31 | [Toupie](https://open.spotify.com/track/1VzqSvUk73RGYlrppGYAVD) | [Romsii](https://open.spotify.com/artist/0ociabAWszA5gHTLfhf4Pw) | [Toupie](https://open.spotify.com/album/4V0Xs2qQHKwNefb7MpuING) | 2:45 |
 | 32 | [CE QU'ON ME DISAIT](https://open.spotify.com/track/0CD4W6TNcMg8FUGmJFEH87) | [Kyana](https://open.spotify.com/artist/1xOGqfYHZ2N0C06PzHE1dx) | [CE QU'ON ME DISAIT](https://open.spotify.com/album/1sqzA2iIBtB3XWYFjydekh) | 3:00 |
-| 33 | [cette nuit](https://open.spotify.com/track/1glPy7m40XTsVccG6OCrqC) | [bgl](https://open.spotify.com/artist/56g0CScgWbbwKWZeU76BQH) | [cette nuit](https://open.spotify.com/album/3PN7F0m9s9xqIgeFSiMf2o) | 3:17 |
+| 33 | [cette nuit](https://open.spotify.com/track/1glPy7m40XTsVccG6OCrqC) | [bgl](https://open.spotify.com/artist/56g0CScgWbbwKWZeU76BQH) | [cette nuit \[ARCHIVE\]](https://open.spotify.com/album/3PN7F0m9s9xqIgeFSiMf2o) | 3:17 |
 | 34 | [POLAIRE](https://open.spotify.com/track/0eVC2hbCYF2JMXumjz8kBY) | [nelick](https://open.spotify.com/artist/2W2NUrosOnwAI1hZIVbwit) | [POLAIRE](https://open.spotify.com/album/7yni4xIng9iVcPYAuuggU8) | 3:33 |
 | 35 | [Allo la lune](https://open.spotify.com/track/6cz0ynmReFlfZ3aUqiFnWo) | [Fredz](https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT) | [Demain il fera beau](https://open.spotify.com/album/2u89QX2fEHo9MaZjC1XHiw) | 3:06 |
 | 36 | [Don du Ciel](https://open.spotify.com/track/0DTUbfyHygkB6P10cvc7qO) | [Princesse](https://open.spotify.com/artist/6btazhSPWJjAUX7Qvk8CEw) | [Prélude Nouvelle Romance](https://open.spotify.com/album/3Y4c4k6fsaXdfOrdWSaM2I) | 2:58 |

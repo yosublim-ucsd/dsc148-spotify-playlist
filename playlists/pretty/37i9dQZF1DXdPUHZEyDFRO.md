@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdPUHZEyDFRO.md) - [plain]
 
 > Listen to the soundtracks of Perfect Family\. \(완벽한 가족의 사운드 트랙들을 즐겨보세요!\) You can also listen to songs selected by the cast\. \(출연진들이 직접 선정한 추천곡들도 들어보실 수 있습니다.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 402 likes - 72 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 415 likes - 72 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,9 +18,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdPUHZEyDFRO.md) - [plain]
 | 8 | [Into The Storm](https://open.spotify.com/track/4yvIJrrRQSnktYDhldz17G) | [Park Konwon](https://open.spotify.com/artist/3g46DgXuAAauCNGXgijqx4) | [Perfect Family \(Original Television Soundtrack\) Special](https://open.spotify.com/album/0vzqMnwfgO5mAdMIxYSNLQ) | 2:21 |
 | 9 | [Perfect Family](https://open.spotify.com/track/0neN08kiWQHFLAX6iPi0Nj) | [Park Konwon](https://open.spotify.com/artist/3g46DgXuAAauCNGXgijqx4) | [Perfect Family \(Original Television Soundtrack\) Special](https://open.spotify.com/album/0vzqMnwfgO5mAdMIxYSNLQ) | 2:52 |
 | 10 | [Forgotten Family](https://open.spotify.com/track/20wkknTysomuXmDfnLUhll) | [Park Konwon](https://open.spotify.com/artist/3g46DgXuAAauCNGXgijqx4) | [Perfect Family \(Original Television Soundtrack\) Special](https://open.spotify.com/album/0vzqMnwfgO5mAdMIxYSNLQ) | 3:57 |
-| 11 | [The Perfect](https://open.spotify.com/track/2Om1CzFEqLTU7GEkknEJBY) | [Habi](https://open.spotify.com/artist/7zhQ9yctDHeAjmLugoYUvH), [Park Gi Baek](https://open.spotify.com/artist/5sk2W7qpbWaz5Krhf5WXJN) | [Perfect Family \(Original Television Soundtrack\) Special](https://open.spotify.com/album/0vzqMnwfgO5mAdMIxYSNLQ) | 3:06 |
+| 11 | [The Perfect](https://open.spotify.com/track/2Om1CzFEqLTU7GEkknEJBY) | [Habi](https://open.spotify.com/artist/6KBqUJhGsmbTuadwNPeB7q), [Park Gi Baek](https://open.spotify.com/artist/5sk2W7qpbWaz5Krhf5WXJN) | [Perfect Family \(Original Television Soundtrack\) Special](https://open.spotify.com/album/0vzqMnwfgO5mAdMIxYSNLQ) | 3:06 |
 | 12 | [Passion](https://open.spotify.com/track/2DAqYZBPuXFyaJtk8Q1dH3) | [유인상](https://open.spotify.com/artist/2lcN4MEFfvgehHKIUDP7K3) | [Perfect Family \(Original Television Soundtrack\) Special](https://open.spotify.com/album/0vzqMnwfgO5mAdMIxYSNLQ) | 1:51 |
-| 13 | [Clair de Lune \- Cello&Piano Version](https://open.spotify.com/track/4pFN5XqIsfBlCwO8E3TSvi) | [Habi](https://open.spotify.com/artist/7zhQ9yctDHeAjmLugoYUvH), [Lee Jihyun](https://open.spotify.com/artist/3rIqmTZZbPpGr3goI9u5Zg) | [Perfect Family \(Original Television Soundtrack\) Special](https://open.spotify.com/album/0vzqMnwfgO5mAdMIxYSNLQ) | 1:34 |
+| 13 | [Clair de Lune \- Cello&Piano Version](https://open.spotify.com/track/4pFN5XqIsfBlCwO8E3TSvi) | [Habi](https://open.spotify.com/artist/6KBqUJhGsmbTuadwNPeB7q), [Lee Jihyun](https://open.spotify.com/artist/3rIqmTZZbPpGr3goI9u5Zg) | [Perfect Family \(Original Television Soundtrack\) Special](https://open.spotify.com/album/0vzqMnwfgO5mAdMIxYSNLQ) | 1:34 |
 | 14 | [Answer](https://open.spotify.com/track/47hnbN3S6ACkTpkoLkzAdm) | [Park Jeonghyun](https://open.spotify.com/artist/5onBDIChDodmspjY97i1BU) | [Perfect Family \(Original Television Soundtrack\) Special](https://open.spotify.com/album/0vzqMnwfgO5mAdMIxYSNLQ) | 1:35 |
 | 15 | [Curated by Kim Byung Chul](https://open.spotify.com/track/4QtWzdvykX820UnRNmQSwx) | [Perfect Family](https://open.spotify.com/artist/5Xh2kyowFXOqL5FqZZS7Fz) | [Perfect Family Audio Liners](https://open.spotify.com/album/5xv676VCHWKWfiByJNh3KP) | 0:23 |
 | 16 | [Family Portrait \(2020\)](https://open.spotify.com/track/4Nk5zLRi4lmYpeJF7fpPwK) | [Kim Jin Ho](https://open.spotify.com/artist/0ZHGJr3gcX0fVYg1EQrcob) | [Family Portrait \(2020\)](https://open.spotify.com/album/6CAokph2LxSwTMczzgfeFu) | 6:43 |

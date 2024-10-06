@@ -339,6 +339,24 @@
     },
     {
       "album": {
+        "name": "Around Me",
+        "url": "https://open.spotify.com/album/637AZlOAncgk471qGUVCvP"
+      },
+      "artists": [
+        {
+          "name": "No Guidnce",
+          "url": "https://open.spotify.com/artist/4jE1yavE4c5IR1hhM4wHhY"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174497,
+      "name": "Around Me",
+      "url": "https://open.spotify.com/track/1YEVx89VQ53Lj96DuDs6Et"
+    },
+    {
+      "album": {
         "name": "Around The World",
         "url": "https://open.spotify.com/album/0abkIwIKwvsY5jmbS46zpY"
       },
@@ -5476,7 +5494,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-06",
       "duration_ms": 161773,
       "name": "Unfamiliar",
       "url": "https://open.spotify.com/track/2du9UaU0EwtkVr7zfpq5QK"

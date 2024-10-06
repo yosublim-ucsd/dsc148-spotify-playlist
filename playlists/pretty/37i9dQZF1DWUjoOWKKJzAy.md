@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjoOWKKJzAy.md) - [plain]
 
 > Os hits históricos da década de ouro do rock nacional\. Foto: Cazuza.
 
-[Spotify](https://open.spotify.com/user/spotify) - 447,959 likes - 60 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 448,157 likes - 60 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjoOWKKJzAy.md) - [plain]
 | 17 | [Eh Oh \- 40 anos, Ao Vivo](https://open.spotify.com/track/3zk6fMM7O07P9EeOS7euIy) | [Dr\. Silvana & Cia.](https://open.spotify.com/artist/7hj6TfWecHlMmeUPwiAazv) | [Eh Oh \(40 anos, Ao Vivo\)](https://open.spotify.com/album/1qd0VNxF2gd7Hbr8OQhJ8l) | 3:24 |
 | 18 | [Tédio](https://open.spotify.com/track/7kqcNdHAsDyxOaZlYREvfq) | [Biquini Cavadão](https://open.spotify.com/artist/7E5dcvoiZra9wwBuXYAYTw) | [1985/2007 Sucessos Regravados, Vol\. 1](https://open.spotify.com/album/12bs6tiZXFaa6ckOh0g47m) | 3:20 |
 | 19 | [O último romântico](https://open.spotify.com/track/7MyJB1WvzUmbIQpwqLmvY6) | [Lulu Santos](https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1) | [O Último Romântico 2](https://open.spotify.com/album/0oCdYFyqznjyMorvtESrNV) | 4:12 |
-| 20 | [Me Chama](https://open.spotify.com/track/6YEs08eeTPKqODQV6TFI0t) | [Lobão E Os Ronaldos](https://open.spotify.com/artist/09RGwhs3waXp27qkYuNRap) | [Ronaldo Foi Pra Guerra](https://open.spotify.com/album/0KdU1xRKnsMO85sAfLZQBH) | 3:42 |
+| 20 | [Me Chama \(feat\. Os Ronaldos\)](https://open.spotify.com/track/6YEs08eeTPKqODQV6TFI0t) | [Lobão](https://open.spotify.com/artist/3LWCuB9QxDmpLhhGwqU04N), [Os Ronaldos](https://open.spotify.com/artist/0txqfJWkA14vekIQcWesml) | [Ronaldo Foi Pra Guerra \(feat\. Os Ronaldos\)](https://open.spotify.com/album/0KdU1xRKnsMO85sAfLZQBH) | 3:42 |
 | 21 | [Primeiros Erros \(Chove\)](https://open.spotify.com/track/7mpkf1rdybJHUqM0r3NHUW) | [Kiko Zambianchi](https://open.spotify.com/artist/3tWVgYrn2htmCQesDIlByw) | [Retratos](https://open.spotify.com/album/6Xa3r4VDCVwDDaqo2X2kwj) | 3:40 |
 | 22 | [Nós vamos invadir sua praia \- Avenida](https://open.spotify.com/track/7LgxYvP8zzKSapwngbxAeU) | [Ultraje a Rigor](https://open.spotify.com/artist/3zkkrMSBLHuTKMI6I3fDWi) | [O mundo encantado do Ultraje a Rigor](https://open.spotify.com/album/1smKZUszVuPtaDHFlGPEwY) | 4:14 |
 | 23 | [Lança Perfume](https://open.spotify.com/track/0rAX31FT5w3ZQbQMUSkxy8) | [Rita Lee](https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ), [Roberto De Carvalho](https://open.spotify.com/artist/4w4ll81d0dR8gz989jjko1) | [Rita Hits](https://open.spotify.com/album/7i4l4zXrbUuK3sL3K99J27) | 2:07 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjoOWKKJzAy.md) - [plain]
 | 46 | [Eu Te Amo Você](https://open.spotify.com/track/04x5nZaJ3ZlTivI2DiAxZd) | [Marina Lima](https://open.spotify.com/artist/28IcRPf399RPv4TUiZ7uol) | ["Todas"](https://open.spotify.com/album/73K3NqKElr5xju7BY9PDl5) | 3:14 |
 | 47 | [Veraneio Vascaina](https://open.spotify.com/track/1RDIUWZBd4a7K5POj12fOO) | [Capital Inicial](https://open.spotify.com/artist/4Z0yuwHVJBROVZqFpTIr0d) | [Capital Inicial](https://open.spotify.com/album/05tsAf1h467AEWN46GtKnD) | 2:15 |
 | 48 | [Música Urbana \- Versão Alternativa](https://open.spotify.com/track/37i2AqYonqyW5MoGXCY0pG) | [Capital Inicial](https://open.spotify.com/artist/4Z0yuwHVJBROVZqFpTIr0d) | [Capital Inicial](https://open.spotify.com/album/05tsAf1h467AEWN46GtKnD) | 3:31 |
-| 49 | [Corações Psicodélicos](https://open.spotify.com/track/7jkKJnqzBdoFySIYj9Ps6L) | [Lobão E Os Ronaldos](https://open.spotify.com/artist/09RGwhs3waXp27qkYuNRap) | [Ronaldo Foi Pra Guerra](https://open.spotify.com/album/0KdU1xRKnsMO85sAfLZQBH) | 3:40 |
+| 49 | [Corações Psicodélicos \(feat\. Os Ronaldos\)](https://open.spotify.com/track/7jkKJnqzBdoFySIYj9Ps6L) | [Lobão](https://open.spotify.com/artist/3LWCuB9QxDmpLhhGwqU04N), [Os Ronaldos](https://open.spotify.com/artist/0txqfJWkA14vekIQcWesml) | [Ronaldo Foi Pra Guerra \(feat\. Os Ronaldos\)](https://open.spotify.com/album/0KdU1xRKnsMO85sAfLZQBH) | 3:40 |
 | 50 | [Inútil \- Ao vivo](https://open.spotify.com/track/6N8AhWCi6BT4Cf6e1e5Ucv) | [Ultraje a Rigor](https://open.spotify.com/artist/3zkkrMSBLHuTKMI6I3fDWi) | [O mundo encantado do Ultraje a Rigor](https://open.spotify.com/album/1smKZUszVuPtaDHFlGPEwY) | 3:20 |
 | 51 | [Flores em você](https://open.spotify.com/track/74I1z55PBTBkBC6Ay5ydf5) | [Ira!](https://open.spotify.com/artist/7L5YQQJPL1wrmrdigJavV7) | [Dose Dupla Ira!](https://open.spotify.com/album/3dU5eiwvDAj229oIBpbY6p) | 1:55 |
 | 52 | [Adelaide \(You'll Be Illin'\)](https://open.spotify.com/track/4Ih8VpfrjulVJteZTXOJHS) | [Inimigos Do Rei](https://open.spotify.com/artist/6vTljcFMuDleItFOuSKoyj) | [Inimigos Do Rei](https://open.spotify.com/album/1gc8qtJ5R7lzKYIHu96EZj) | 3:15 |

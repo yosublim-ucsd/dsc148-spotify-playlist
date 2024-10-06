@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvzPS8uIABd.md) - [plain]
 
 > Tämän hetken kovimmat suomihitit\. Kannessa OLGA.
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,858 likes - 76 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,870 likes - 77 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,7 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvzPS8uIABd.md) - [plain]
 | 72 | [Tunnista tuntiin](https://open.spotify.com/track/0jooO42vkt1zh74OsLXwfr) | [Ege Zulu](https://open.spotify.com/artist/0PyeoSEt7RQPbjuzy3JK9O), [BEHM](https://open.spotify.com/artist/3bAa4FKwIgwWYHdaUJicmE) | [Tunnista tuntiin](https://open.spotify.com/album/1NGxgCY0PueIm5lUSrTOQm) | 3:01 |
 | 73 | [Kokonainen](https://open.spotify.com/track/2NAxJ9C0aUPsGTEwUfD8lN) | [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9) | [Kokonainen](https://open.spotify.com/album/50lul7y5PIQ46XQJmcHvwk) | 2:39 |
 | 74 | [Kantavaa maata](https://open.spotify.com/track/5AbQCOUnNQ6Buf8wR0F4kY) | [Lasse Havu](https://open.spotify.com/artist/1ZmoBCqIjRZsdkG1zvLElg) | [Kantavaa maata](https://open.spotify.com/album/4l5PaY0385asY7nrtKbB7r) | 2:51 |
-| 75 | [Kukapa ei](https://open.spotify.com/track/4KMULSjeSrEfJ7GHWtmHau) | [Juha Tapio](https://open.spotify.com/artist/7yD78gcA2QR0sRQM4Lj7sM) | [Kukapa ei](https://open.spotify.com/album/5ihKUVxdUHER6vRcQlqr6d) | 3:31 |
-| 76 | [Me Vs\. Maailma \(feat\. Sexmane\)](https://open.spotify.com/track/6jL8913OKAhtrefgueIRHR) | [Cledos](https://open.spotify.com/artist/0xbbe6a1x6g5eGBQfzjWSe), [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq) | [Me Vs\. Maailma \(feat\. Sexmane\)](https://open.spotify.com/album/09A9MT3hwFHGjoWrG3efxa) | 2:28 |
+| 75 | [Puhelinlangat Laulaa](https://open.spotify.com/track/0etwmf2vczele3kZwIcPOa) | [Marko Hietala](https://open.spotify.com/artist/1tbhwOH5UBAJoqTx9Oak00) | [Puhelinlangat Laulaa](https://open.spotify.com/album/0LJVJhA7b1ri49uNKxlT00) | 2:50 |
+| 76 | [Kukapa ei](https://open.spotify.com/track/4KMULSjeSrEfJ7GHWtmHau) | [Juha Tapio](https://open.spotify.com/artist/7yD78gcA2QR0sRQM4Lj7sM) | [Kukapa ei](https://open.spotify.com/album/5ihKUVxdUHER6vRcQlqr6d) | 3:31 |
+| 77 | [Me Vs\. Maailma \(feat\. Sexmane\)](https://open.spotify.com/track/6jL8913OKAhtrefgueIRHR) | [Cledos](https://open.spotify.com/artist/0xbbe6a1x6g5eGBQfzjWSe), [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq) | [Me Vs\. Maailma \(feat\. Sexmane\)](https://open.spotify.com/album/09A9MT3hwFHGjoWrG3efxa) | 2:28 |
 
 Snapshot ID: `Zv+VZQAAAAB8GMjLM/Nq94IliU7SS+6o`

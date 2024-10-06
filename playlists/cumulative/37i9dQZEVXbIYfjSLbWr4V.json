@@ -1184,7 +1184,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-05",
+      "date_removed": null,
       "duration_ms": 107539,
       "name": "FUNK DO BOUNCE (Slowed)",
       "url": "https://open.spotify.com/track/7IBqHkoP94VrgYKVns4eNz"
@@ -2506,7 +2506,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-06",
       "duration_ms": 187026,
       "name": "Slow Dancing",
       "url": "https://open.spotify.com/track/5h1BN75CEh8wdSwE1xrbSe"
@@ -2816,6 +2816,28 @@
       "duration_ms": 461224,
       "name": "Super",
       "url": "https://open.spotify.com/track/0AmsiROGb2YA8xMTB9XFdM"
+    },
+    {
+      "album": {
+        "name": "The Eminem Show",
+        "url": "https://open.spotify.com/album/2cWBwpqMsDJC1ZUwz813lo"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        },
+        {
+          "name": "Dina Rae",
+          "url": "https://open.spotify.com/artist/5jNmxPYz8QE5rYp4GDil8t"
+        }
+      ],
+      "date_added": "2024-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350320,
+      "name": "Superman",
+      "url": "https://open.spotify.com/track/4woTEX1wYOTGDqNXuavlRC"
     },
     {
       "album": {
@@ -3518,7 +3540,7 @@
       ],
       "date_added": "2024-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-06",
       "duration_ms": 84000,
       "name": "\u0431\u043e\u043b\u044c\u043d\u043e",
       "url": "https://open.spotify.com/track/2xEFfGz4j5UpL2FNEhVI81"
@@ -4150,6 +4172,28 @@
       "duration_ms": 99812,
       "name": "\u0417\u0410\u0425\u041e\u0422\u0415\u041b",
       "url": "https://open.spotify.com/track/6XTvawaDFxvOUScj6E4KLr"
+    },
+    {
+      "album": {
+        "name": "\u0417\u0435\u043c\u043b\u044f (OST \"\u0410\u043c\u0443\u0440\u0430\")",
+        "url": "https://open.spotify.com/album/7tNIGPqNzxYyBSQ36AgtPS"
+      },
+      "artists": [
+        {
+          "name": "\u0422\u0440\u0438 \u0434\u043d\u044f \u0434\u043e\u0436\u0434\u044f",
+          "url": "https://open.spotify.com/artist/5q1NzLZwErZ9ujzqZKL0YZ"
+        },
+        {
+          "name": "\u0422\u043e\u0441\u044f \u0427\u0430\u0439\u043a\u0438\u043d\u0430",
+          "url": "https://open.spotify.com/artist/2Ibq1kUPUhSjoJVrvZEMrj"
+        }
+      ],
+      "date_added": "2024-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249599,
+      "name": "\u0417\u0435\u043c\u043b\u044f - OST \"\u0410\u043c\u0443\u0440\u0430\"",
+      "url": "https://open.spotify.com/track/7uZMiMZdwCS547sZ4nY4oN"
     },
     {
       "album": {
@@ -6066,7 +6110,7 @@
       ],
       "date_added": "2024-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-02",
+      "date_removed": null,
       "duration_ms": 125538,
       "name": "\u0422\u041e\u041b\u041f\u042b \u041a\u0420\u0418\u0427\u0410\u0422",
       "url": "https://open.spotify.com/track/3mcw4dkjfzj5B4Ago9NSmN"
@@ -6194,7 +6238,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-15",
+      "date_removed": null,
       "duration_ms": 146713,
       "name": "\u0422\u044b \u0438 \u0441\u0438\u0433\u0430\u0440\u0435\u0442\u044b",
       "url": "https://open.spotify.com/track/4O3HWR6j3Qht7ENIWlPLJt"
@@ -6342,7 +6386,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-06",
       "duration_ms": 147000,
       "name": "\u0423\u0442\u0440\u043e",
       "url": "https://open.spotify.com/track/0aKl63MnUIVKkXlVtp2vLr"
@@ -6432,7 +6476,7 @@
       ],
       "date_added": "2024-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-06",
       "duration_ms": 190818,
       "name": "\u0425\u0430\u043d\u043d\u0430\u043c\u043e\u043d\u0442\u0430\u043d\u0430",
       "url": "https://open.spotify.com/track/7dOzvgGmCmoqGAHeoiM542"
@@ -6480,7 +6524,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-06",
       "duration_ms": 161073,
       "name": "\u0425\u041e\u0427\u0423 18+",
       "url": "https://open.spotify.com/track/5x39VMQPsF1wDgLyhUSZYP"

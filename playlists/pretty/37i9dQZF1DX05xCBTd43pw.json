@@ -1,6 +1,6 @@
 {
   "description": "Gr\u00fcezi! This is 100% made in Switzerland. ",
-  "num_followers": 36743,
+  "num_followers": 36747,
   "original_name": "Swiss Made",
   "owner": {
     "name": "Spotify",
@@ -355,22 +355,6 @@
     {
       "added_at": "2024-10-03 22:00:00",
       "album": {
-        "name": "Bored Of The Circus",
-        "url": "https://open.spotify.com/album/4oothiJCmPORbNYinRinfo"
-      },
-      "artists": [
-        {
-          "name": "Kings Elliot",
-          "url": "https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy"
-        }
-      ],
-      "duration_ms": 182817,
-      "name": "Ashes By The Morning",
-      "url": "https://open.spotify.com/track/1idK6bIrrGRcIPV7UdH3fL"
-    },
-    {
-      "added_at": "2024-10-03 22:00:00",
-      "album": {
         "name": "Waves & Wishes",
         "url": "https://open.spotify.com/album/1UrgZCspl0lQQU6NSZDZ7m"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 172791,
       "name": "Bird",
       "url": "https://open.spotify.com/track/7H16kWPboswDLyH76lHpIA"
+    },
+    {
+      "added_at": "2024-10-03 22:00:00",
+      "album": {
+        "name": "Bored Of The Circus",
+        "url": "https://open.spotify.com/album/4oothiJCmPORbNYinRinfo"
+      },
+      "artists": [
+        {
+          "name": "Kings Elliot",
+          "url": "https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy"
+        }
+      ],
+      "duration_ms": 182817,
+      "name": "Ashes By The Morning",
+      "url": "https://open.spotify.com/track/1idK6bIrrGRcIPV7UdH3fL"
     },
     {
       "added_at": "2024-10-03 22:00:00",
@@ -423,18 +423,18 @@
     {
       "added_at": "2024-10-03 22:00:00",
       "album": {
-        "name": "Heaven or Hell",
-        "url": "https://open.spotify.com/album/1KD8pU9XCRSfQmbyafLGZ9"
+        "name": "Girlfriend",
+        "url": "https://open.spotify.com/album/5MARdnZTyKQohhJuNvZN1K"
       },
       "artists": [
         {
-          "name": "Remo Forrer",
-          "url": "https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk"
+          "name": "MAREA",
+          "url": "https://open.spotify.com/artist/4IKPB8W9WIyQ7imXh9x63Y"
         }
       ],
-      "duration_ms": 187854,
-      "name": "Heaven or Hell",
-      "url": "https://open.spotify.com/track/7LsZXp9kvN4JagYUwGRGo8"
+      "duration_ms": 167701,
+      "name": "Girlfriend",
+      "url": "https://open.spotify.com/track/2eKJuuFWUGZQUpUMGZCj8u"
     },
     {
       "added_at": "2024-10-03 22:00:00",
@@ -455,18 +455,18 @@
     {
       "added_at": "2024-10-03 22:00:00",
       "album": {
-        "name": "Girlfriend",
-        "url": "https://open.spotify.com/album/5MARdnZTyKQohhJuNvZN1K"
+        "name": "Heaven or Hell",
+        "url": "https://open.spotify.com/album/1KD8pU9XCRSfQmbyafLGZ9"
       },
       "artists": [
         {
-          "name": "MAREA",
-          "url": "https://open.spotify.com/artist/4IKPB8W9WIyQ7imXh9x63Y"
+          "name": "Remo Forrer",
+          "url": "https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk"
         }
       ],
-      "duration_ms": 167701,
-      "name": "Girlfriend",
-      "url": "https://open.spotify.com/track/2eKJuuFWUGZQUpUMGZCj8u"
+      "duration_ms": 187854,
+      "name": "Heaven or Hell",
+      "url": "https://open.spotify.com/track/7LsZXp9kvN4JagYUwGRGo8"
     },
     {
       "added_at": "2024-10-03 22:00:00",
@@ -911,6 +911,22 @@
     {
       "added_at": "2024-10-03 22:00:00",
       "album": {
+        "name": "Generation",
+        "url": "https://open.spotify.com/album/4xgLyFsJCYlmf39vjY6YKv"
+      },
+      "artists": [
+        {
+          "name": "LEILA",
+          "url": "https://open.spotify.com/artist/4Ug2xY5mJFUqx4UkrggYLg"
+        }
+      ],
+      "duration_ms": 182609,
+      "name": "smile",
+      "url": "https://open.spotify.com/track/7thWFmdVqTZzXZWmxu7N5Y"
+    },
+    {
+      "added_at": "2024-10-03 22:00:00",
+      "album": {
         "name": "Somewhere IDK",
         "url": "https://open.spotify.com/album/0b3OWKTpkrhVx2qtSb9rgu"
       },
@@ -959,6 +975,22 @@
     {
       "added_at": "2024-10-03 22:00:00",
       "album": {
+        "name": "Prosecco",
+        "url": "https://open.spotify.com/album/4fDTqKqjw8HO5gTLdyU6ug"
+      },
+      "artists": [
+        {
+          "name": "Hecht",
+          "url": "https://open.spotify.com/artist/5WesSfZwdtLI1iy05rJF0S"
+        }
+      ],
+      "duration_ms": 199838,
+      "name": "Prosecco",
+      "url": "https://open.spotify.com/track/761Vzi9ixB6F1dvJ0fJqpq"
+    },
+    {
+      "added_at": "2024-10-03 22:00:00",
+      "album": {
         "name": "Mond",
         "url": "https://open.spotify.com/album/12IgBWXsy2s0UJggqj5OtH"
       },
@@ -975,22 +1007,6 @@
       "duration_ms": 155328,
       "name": "Mond",
       "url": "https://open.spotify.com/track/2Jb3Hv9Wj4gnhv9APP99rK"
-    },
-    {
-      "added_at": "2024-10-03 22:00:00",
-      "album": {
-        "name": "Prosecco",
-        "url": "https://open.spotify.com/album/4fDTqKqjw8HO5gTLdyU6ug"
-      },
-      "artists": [
-        {
-          "name": "Hecht",
-          "url": "https://open.spotify.com/artist/5WesSfZwdtLI1iy05rJF0S"
-        }
-      ],
-      "duration_ms": 199838,
-      "name": "Prosecco",
-      "url": "https://open.spotify.com/track/761Vzi9ixB6F1dvJ0fJqpq"
     },
     {
       "added_at": "2024-10-03 22:00:00",
@@ -1115,22 +1131,6 @@
     {
       "added_at": "2024-10-03 22:00:00",
       "album": {
-        "name": "We Got Love",
-        "url": "https://open.spotify.com/album/2KBis9Of82TXR9ZDtwGrpL"
-      },
-      "artists": [
-        {
-          "name": "Chiara Castelli",
-          "url": "https://open.spotify.com/artist/6wi2d3tk31DPhUagWLgR33"
-        }
-      ],
-      "duration_ms": 140571,
-      "name": "We Got Love",
-      "url": "https://open.spotify.com/track/6o2HzZfazmewxdXpYufWRx"
-    },
-    {
-      "added_at": "2024-10-03 22:00:00",
-      "album": {
         "name": "G\u00e4bs es nid (Duett Version)",
         "url": "https://open.spotify.com/album/3mQVBjNUaJ4alePJrZ0HSq"
       },
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2024-10-03 22:00:00",
       "album": {
+        "name": "We Got Love",
+        "url": "https://open.spotify.com/album/2KBis9Of82TXR9ZDtwGrpL"
+      },
+      "artists": [
+        {
+          "name": "Chiara Castelli",
+          "url": "https://open.spotify.com/artist/6wi2d3tk31DPhUagWLgR33"
+        }
+      ],
+      "duration_ms": 140571,
+      "name": "We Got Love",
+      "url": "https://open.spotify.com/track/6o2HzZfazmewxdXpYufWRx"
+    },
+    {
+      "added_at": "2024-10-03 22:00:00",
+      "album": {
         "name": "Zeilen f\u00fcr dich",
         "url": "https://open.spotify.com/album/4aKndM39CDDcGyx1wBYx4P"
       },
@@ -1163,22 +1179,6 @@
       "duration_ms": 197506,
       "name": "Zeilen f\u00fcr dich",
       "url": "https://open.spotify.com/track/79jLtzgfJDXcEbMiTGzOUV"
-    },
-    {
-      "added_at": "2024-10-03 22:00:00",
-      "album": {
-        "name": "Pillow Song",
-        "url": "https://open.spotify.com/album/70EOvr61gUGqUOvNYyEBRQ"
-      },
-      "artists": [
-        {
-          "name": "Lost in Lona",
-          "url": "https://open.spotify.com/artist/6GpX7OGPoZNG1GMbtbiOPD"
-        }
-      ],
-      "duration_ms": 213941,
-      "name": "Pillow Song",
-      "url": "https://open.spotify.com/track/2PGr4xCiAFnH9o1MIr5oza"
     }
   ],
   "unique_name": "Swiss Made",

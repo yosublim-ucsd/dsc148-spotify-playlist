@@ -4,7 +4,7 @@
 
 > Your go to Afrobeats workout playlist
 
-457 songs - 23 hr 24 min
+458 songs - 23 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Awon Temi](https://open.spotify.com/track/77TsovSSSHb4TSOyyYHILl) | [Shayo Davids](https://open.spotify.com/artist/5iq9xZgHRSltyOnP0ag1X9), [Barry Jhay](https://open.spotify.com/artist/1iqokWFu0o5C72D1x5MuLt) | [Awon Temi](https://open.spotify.com/album/4n6UFiFW2nstnqVp7areC1) | 2:32 | 2022-06-09 | 2022-07-26 |
 | [Ayinde](https://open.spotify.com/track/2xpb6oPsClDQ8d2s3nqHW4) | [Hotkid](https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj), [Mohbad](https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa) | [Ayinde](https://open.spotify.com/album/1HiR5KInIE39OU7koooAZ7) | 3:03 | 2022-06-30 | 2022-07-28 |
 | [Baboni](https://open.spotify.com/track/1oyyyo84213cxYa2ZAh6kd) | [Slim Kofi](https://open.spotify.com/artist/5pHHQo1zsnAkbnIhEKuMU6), [Versatile](https://open.spotify.com/artist/2ukohNyOzWF8p6S3Tqz3J7) | [Baboni](https://open.spotify.com/album/7MbNMZostPP8Kihu31ODWB) | 2:54 | 2022-04-14 | 2022-07-29 |
+| [Back Outside](https://open.spotify.com/track/3AmcpUoHdrnK7NfhPTG7QE) | [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl), [Cheque](https://open.spotify.com/artist/4oQyXxDBq8FBhsjjS7MbcM) | [Full Time Job](https://open.spotify.com/album/0VtcGxV1o8WCUz7YBX3EtX) | 3:05 | 2024-10-04 |  |
 | [Back to Back](https://open.spotify.com/track/2qdwZPTNCHb8DXfQin53WK) | [Zerrydl](https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd) | [Back to Back](https://open.spotify.com/album/0BmVStHOqEVBwsxVO1H1Cj) | 2:26 | 2024-09-30 |  |
 | [Backa](https://open.spotify.com/track/6pkhDkCjYyVOZBUvXq6twL) | [DJ Mic Smith](https://open.spotify.com/artist/55vSMtCiV6fMgUMh9TEl6i), [Supa Gaeta](https://open.spotify.com/artist/7icmABGIHlSbuTXU206Obz), [Haywaya](https://open.spotify.com/artist/3Tp0IaBE3AwuwhxVVLE49b), [Hope Ramafalo](https://open.spotify.com/artist/4yvEcXzA7owk4FbWCmDvE6) | [Backa](https://open.spotify.com/album/53urZs32khtmN8wdlaakSd) | 4:53 | 2023-11-24 | 2024-07-01 |
 | [Bad Boy \(feat\. Mayorkun\)](https://open.spotify.com/track/6DxaRdAjfbhMk4Hn3bdFqz) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [Bad Boy \(feat\. Mayorkun\)](https://open.spotify.com/album/4vrb4l5CjEYXkCTsZkP2go) | 2:49 | 2022-11-25 | 2023-04-21 |
@@ -149,7 +150,7 @@
 | [FIREGUN \(feat\. Fireboy DML\)](https://open.spotify.com/track/5VF45DoQu9oT7Se5ieLoZk) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [EZIOKWU](https://open.spotify.com/album/6e1McsPwHgiySHVlpZRhFx) | 3:14 | 2023-09-29 | 2023-10-20 |
 | [Flex \(feat\. Wande Coal\)](https://open.spotify.com/track/0hroedzZOal7JsvUZxepLu) | [DJ Tunez](https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a), [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [Flex \(feat\. Wande Coal\)](https://open.spotify.com/album/1DaChKu9Kxx6oFV3bsqspX) | 2:54 | 2022-11-18 | 2022-12-03 |
 | [Focus](https://open.spotify.com/track/264HkpmqRAHqlGHQJSKMIp) | [Kashcoming](https://open.spotify.com/artist/5yJLqKU6LRfzliSQIVnJMI), [Balloranking](https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP) | [More Kashcoming, Vol\. 2](https://open.spotify.com/album/7rihBCOnj640TOFRJD1FKz) | 2:21 | 2024-06-28 | 2024-10-01 |
-| [For Daddy](https://open.spotify.com/track/3AqnDZV9TZJU6SfuXK90iT) | [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [For Daddy](https://open.spotify.com/album/3i534DhtsQpI3SVgoBH6mf) | 2:33 | 2023-04-27 |  |
+| [For Daddy](https://open.spotify.com/track/3AqnDZV9TZJU6SfuXK90iT) | [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [For Daddy](https://open.spotify.com/album/3i534DhtsQpI3SVgoBH6mf) | 2:33 | 2023-04-27 | 2024-10-06 |
 | [Freaky & Naughty](https://open.spotify.com/track/3pegFML6cZ9rgDuvLHm7Wj) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Freaky & Naughty](https://open.spotify.com/album/4vjPY3edDk05mtDoQO41oo) | 2:46 | 2023-08-03 | 2023-09-28 |
 | [Freaky Friday](https://open.spotify.com/track/0m3chcCAwOAgdTj4rcAD8d) | [E'Major](https://open.spotify.com/artist/2Ozp4F6jLBYyUrIyJgF236), [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [Freaky Friday](https://open.spotify.com/album/3F94KLNyE0b4tifAUqrvcL) | 3:29 | 2022-07-28 | 2022-09-20 |
 | [Free My Mind](https://open.spotify.com/track/7a3qrGeR5aJZuZFb7fRQ9H) | [BHADMAYORS](https://open.spotify.com/artist/5hq1ZnGH5765wElD2lvjkT), [AlorG](https://open.spotify.com/artist/3XVsxJ7cSnDnHtssbKiIPb) | [Free My Mind](https://open.spotify.com/album/341Uld1xLyYN8AXlI0qWtp) | 2:40 | 2024-05-03 | 2024-05-17 |

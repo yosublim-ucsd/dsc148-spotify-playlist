@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEcPtggpQMu.md) - [plain]
 
 > Only the hottest South African rap from the streets\. <br/>Cover: <a href="https://open.spotify.com/artist/0DdgjYMzRw7t9TVwFuBI0V?si=oTilfj6VTeOvCtUDnyTE8g">Roiii</a>,  <a href="https://open.spotify.com/artist/1m1TdFQCnKHcfVlO17avCF?si=YqTngCuDSlq5L6WQLYpVdg">Boity</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,176 likes - 70 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,249 likes - 70 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEcPtggpQMu.md) - [plain]
 | 22 | [Eish](https://open.spotify.com/track/4uDG6e9NZP60RFWh86IBMK) | [Loatinover Pounds](https://open.spotify.com/artist/5umZ6PgOsDmgJQFcYmAiNS), [Qwellers](https://open.spotify.com/artist/6SGJkyMFu3E4RnOpPsMF0R), [Uncle Partytime](https://open.spotify.com/artist/0RB4t74uP0kkC8jCaaENWn), [LaCabra](https://open.spotify.com/artist/1Ccf9QPY9mcDSSwnlvofIT), [Jepedoh](https://open.spotify.com/artist/7dTIcdK3UCwuYaWlom4bjZ) | [Eish](https://open.spotify.com/album/395QfuTBVHG13QKLkPZLlK) | 2:58 |
 | 23 | [IMALI \(feat\. Usimamane\)](https://open.spotify.com/track/1RBaJ70iuXwK6Wyu457Q3t) | [MashBeatz](https://open.spotify.com/artist/4NJo7JbXHgcLiitBFtWras), [Wordz](https://open.spotify.com/artist/75bLIeHjeeS0eNfGAajaQd), [Usimamane](https://open.spotify.com/artist/7CAuIrM6rFLrIgisYOV0Fs) | [ONLY THE BRAVE](https://open.spotify.com/album/0VIKRgqgvDdXNNfbGhUfnp) | 2:27 |
 | 24 | [TOYOTA](https://open.spotify.com/track/5N55suVRCcouaoIxKjNz6x) | [Qwellers](https://open.spotify.com/artist/6SGJkyMFu3E4RnOpPsMF0R) | [TOYOTA](https://open.spotify.com/album/7LggoxQ82Yqj7hLimHx3K1) | 3:15 |
-| 25 | [Fast Life](https://open.spotify.com/track/6JamoJiQgVMeHCcU6bJGt9) | [Frank Casino](https://open.spotify.com/artist/4wVM2SOjXuCEUuTi7lln9x), [Anele Zondo](https://open.spotify.com/artist/54dxiSwTdGBguZSS6FPI30), [30 Turo](https://open.spotify.com/artist/1I6TkI7q2q9lzSimz6T2Db) | [Fast Life](https://open.spotify.com/album/7drmsf41QcVBBiIJj8gIoA) | 3:27 |
+| 25 | [Fast Life](https://open.spotify.com/track/6JamoJiQgVMeHCcU6bJGt9) | [Frank Casino](https://open.spotify.com/artist/4wVM2SOjXuCEUuTi7lln9x), [30 Turo](https://open.spotify.com/artist/1I6TkI7q2q9lzSimz6T2Db), [Ney](https://open.spotify.com/artist/67KPAwywwB3tMXvmNJXPeL) | [Fast Life](https://open.spotify.com/album/7drmsf41QcVBBiIJj8gIoA) | 3:27 |
 | 26 | [W.G.T.B.H](https://open.spotify.com/track/0j9vntEfH5NNetX7i4hfyj) | [Stilo Magolide](https://open.spotify.com/artist/77zNkBGPeehKXAXAXfUfnA), [Qwellers](https://open.spotify.com/artist/6SGJkyMFu3E4RnOpPsMF0R) | [W.G.T.B.H](https://open.spotify.com/album/7rRbm4KRBmMqWdkjuqb1T4) | 2:30 |
 | 27 | [Elokishin](https://open.spotify.com/track/3l2sFobwAtdTmU5oosq8Ie) | [Sizwe Alakine](https://open.spotify.com/artist/7Hb7ZlUE4ByWsV1Rkc4Uo2), [Espiquet](https://open.spotify.com/artist/7JnVA6sPhYeTpLoWd5DvTz) | [Elokishin](https://open.spotify.com/album/295NPYTrhoh6HNd9X8rBiT) | 4:00 |
 | 28 | [Missing You](https://open.spotify.com/track/4l7JbYlpHAvjz7nhyXhnNe) | [Nadia Nakai](https://open.spotify.com/artist/4J1EvxzABwLaJP4NmOqV8r), [Shekhinah](https://open.spotify.com/artist/1F42GOcKAImOu4yj1b04NB), [Zakes Bantwini](https://open.spotify.com/artist/5mZLaYqN0ZkjxfeUUmiuqL) | [2 Pack](https://open.spotify.com/album/3v2cBJ7uo4xnqXGhXqml0A) | 3:12 |

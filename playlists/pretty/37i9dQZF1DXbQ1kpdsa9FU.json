@@ -1,6 +1,6 @@
 {
   "description": "Everyday. Every time.  These are the songs you can count on. Always. Cover: <a href=\"spotify:artist:4sdhhi6q1Ez9l5PagQsykC\">Katy Nichole</a>",
-  "num_followers": 614980,
+  "num_followers": 615133,
   "original_name": "Everyday Inspiration",
   "owner": {
     "name": "Spotify",
@@ -575,6 +575,22 @@
     {
       "added_at": "2024-06-23 01:51:00",
       "album": {
+        "name": "Ben Fuller",
+        "url": "https://open.spotify.com/album/6WqQf3KhrFg6stz7INLpqT"
+      },
+      "artists": [
+        {
+          "name": "Ben Fuller",
+          "url": "https://open.spotify.com/artist/57zYbDb1zNVoTYNUGmv45d"
+        }
+      ],
+      "duration_ms": 231320,
+      "name": "If I Got Jesus",
+      "url": "https://open.spotify.com/track/4sxYX9ls1zBH7YhhejzsSi"
+    },
+    {
+      "added_at": "2024-06-23 01:51:00",
+      "album": {
         "name": "Sure Been Good",
         "url": "https://open.spotify.com/album/1ivo46wANZtVJodxaqT4f9"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 487506,
       "name": "Break Every Chain - Live",
       "url": "https://open.spotify.com/track/3vk0GnIa9jp1B00felbJQE"
-    },
-    {
-      "added_at": "2024-06-23 01:51:00",
-      "album": {
-        "name": "Ben Fuller",
-        "url": "https://open.spotify.com/album/6WqQf3KhrFg6stz7INLpqT"
-      },
-      "artists": [
-        {
-          "name": "Ben Fuller",
-          "url": "https://open.spotify.com/artist/57zYbDb1zNVoTYNUGmv45d"
-        }
-      ],
-      "duration_ms": 231320,
-      "name": "If I Got Jesus",
-      "url": "https://open.spotify.com/track/4sxYX9ls1zBH7YhhejzsSi"
     },
     {
       "added_at": "2024-06-23 01:51:00",

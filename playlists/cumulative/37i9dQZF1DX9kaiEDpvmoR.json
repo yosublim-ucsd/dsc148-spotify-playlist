@@ -708,7 +708,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-05",
+      "date_removed": null,
       "duration_ms": 191229,
       "name": "Du \u00e4r inte ensam",
       "url": "https://open.spotify.com/track/6hysTRJfm36bH5gyGhMokz"
@@ -980,7 +980,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-06",
       "duration_ms": 206626,
       "name": "Finish Line",
       "url": "https://open.spotify.com/track/5lU6xoJhNJCdckDU57wxod"
@@ -1630,7 +1630,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-06",
       "duration_ms": 237508,
       "name": "Ingen s\u00e5 n\u00e4ra inp\u00e5",
       "url": "https://open.spotify.com/track/70TN7mZ1pZRYjPQ5RwM5k9"
@@ -3814,6 +3814,24 @@
       "duration_ms": 166500,
       "name": "What You\u2019re Saying To Me",
       "url": "https://open.spotify.com/track/0jY0xjUoBeeYxrV8ORQ1OM"
+    },
+    {
+      "album": {
+        "name": "When The Time Is Right",
+        "url": "https://open.spotify.com/album/2Ly57SAO3RbzXWXaR3C1tY"
+      },
+      "artists": [
+        {
+          "name": "Dirty Loops",
+          "url": "https://open.spotify.com/artist/5Apl0wL4OwNUDYkx69rMDQ"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285842,
+      "name": "When The Time Is Right",
+      "url": "https://open.spotify.com/track/0hXJB5pUpO7BpYK6uQVaLr"
     },
     {
       "album": {

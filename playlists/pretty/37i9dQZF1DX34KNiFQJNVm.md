@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Israel & Rodolffo, Mano Walter com Matheus Fernandes, GREGO e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,941,105 likes - 64 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,941,456 likes - 64 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 29 | [Moonlit Floor](https://open.spotify.com/track/3yDRcs0Y4pPzkvMbUfeF9H) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Moonlit Floor](https://open.spotify.com/album/2F84s5tvr9RSS6VI772mVb) | 2:35 |
 | 30 | [Só Mais Um Dia](https://open.spotify.com/track/5NEN6TH8Js8TIsUNOIiRn5) | [tchelo rodrigues](https://open.spotify.com/artist/77JxPSGO8x7rYEWNZMSSIY), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [retroboy](https://open.spotify.com/artist/4R7j2XUkuutFO0MePvfASY) | [Só Mais Um Dia](https://open.spotify.com/album/2D1KWMlCw1H60ewPVTPT2y) | 3:57 |
 | 31 | [+1 Pra Jah](https://open.spotify.com/track/6EWAYE0qxsgHy9PvKi8B90) | [Predella](https://open.spotify.com/artist/3lMQtpA4i6FrIe6DmDfDVa), [Mc Kadu](https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv), [Dj Murillo e LT no Beat](https://open.spotify.com/artist/1Zl5Ac1YyOHBkJKInGxbaS), [Cidade Verde Sounds](https://open.spotify.com/artist/2tVU8TVXlrwk6KESQxLwH8), [Mc PP da VS](https://open.spotify.com/artist/2z8FuS3crq9QwDVKlR31hP) | [+1 Pra Jah](https://open.spotify.com/album/3oLmfaHYQfBTuacELzA2To) | 5:29 |
-| 32 | [Hoje o Dia Tá Bonito](https://open.spotify.com/track/2MHQdlPaIcD49dJXHd6MYI) | [MC Marks](https://open.spotify.com/artist/04QHNiih9ZesPvals6II1h), [GringoBeats808](https://open.spotify.com/artist/5H2zqAv4kVidX9S98sanYa) | [Hoje o Dia Tá Bonito](https://open.spotify.com/album/4yhFvEgprV0ERYI7KYBDL8) | 1:50 |
+| 32 | [Hoje o Dia Tá Bonito](https://open.spotify.com/track/2MHQdlPaIcD49dJXHd6MYI) | [MC Marks](https://open.spotify.com/artist/04QHNiih9ZesPvals6II1h), [GringoBeats808](https://open.spotify.com/artist/5H2zqAv4kVidX9S98sanYa) | [Hoje o Dia Tá Bonito](https://open.spotify.com/album/4yhFvEgprV0ERYI7KYBDL8) | 1:49 |
 | 33 | [Cara Metralha](https://open.spotify.com/track/6eIDnYQYLxIWLRb8rNw5LW) | [Tribo da Periferia](https://open.spotify.com/artist/1xxS2WrLlgl9QNGEUCsbPG), [Duckjay](https://open.spotify.com/artist/7b5XefluHSHw1lKQkqIZO0) | [Cara Metralha](https://open.spotify.com/album/07JrGwD2GDQ0aIQF5AMOA7) | 2:49 |
 | 34 | [Zero Paciência](https://open.spotify.com/track/3cteieDb541evBeIr6hRHd) | [Mc Binn](https://open.spotify.com/artist/56xxOvCpWdgJgd9WwjrhTE), [Mc Magal](https://open.spotify.com/artist/2FDaBZt51fOXh2rbHL8Afr), [Dj Nene](https://open.spotify.com/artist/5iR3NEmAFbIBa7v8y3fRbM) | [Zero Paciência](https://open.spotify.com/album/7xBsFLbFYediAPOThEQmwS) | 3:28 |
 | 35 | [TDH](https://open.spotify.com/track/3yq6Rrfaz2ysTdyYKsWaQ6) | [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL), [TrapLaudo](https://open.spotify.com/artist/39QiJaZ1HzRcpY9xlMKCsF) | [TDH](https://open.spotify.com/album/0GYzzjwRqQso8oT5euYZvg) | 1:59 |

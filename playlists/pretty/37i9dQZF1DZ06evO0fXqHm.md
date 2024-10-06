@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0fXqHm.md) - [plain]
 
 ### [This Is Mac Júlia](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0fXqHm)
 
-> This Is Mac Júlia\. Los temas esenciales, todos en una lista.
+> This is Mac Júlia\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,505 likes - 50 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,507 likes - 50 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0fXqHm.md) - [plain]
 | 49 | [Tudo Acontece Lá na Favela](https://open.spotify.com/track/66dKLOLPJK0ubuhlRlhD3T) | [DJ IGOR SANCHEZ](https://open.spotify.com/artist/6CdxiVkuXz0UwHvYr1TVAO), [Daan Mc](https://open.spotify.com/artist/4X6uKYeA7OePF4FkyjdXXe), [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [MC Vitin LC](https://open.spotify.com/artist/3VU1prPpWqYhRlKS6FQNMR) | [Tudo Acontece Lá na Favela](https://open.spotify.com/album/5MF7SoKuLGukuJekMQ2Mjh) | 2:03 |
 | 50 | [Para de Brincar Comigo](https://open.spotify.com/track/1XU61okRaI9UxMB3z2O2GQ) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF) | [Mete Mac Vol 1](https://open.spotify.com/album/6FhipK7nTsuCbqW5jCg6er) | 1:56 |
 
-Snapshot ID: `Zv3egAAAAABToVdbTvsHq3oHJjz6LJXe`
+Snapshot ID: `Zv3egAAAAAD8WcmEQSdy78nhragF486z`

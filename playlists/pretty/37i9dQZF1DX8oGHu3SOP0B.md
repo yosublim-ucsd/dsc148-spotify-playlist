@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oGHu3SOP0B.md) - [plain]
 
 > ฟังเพลงศิลปินหญิงประเทศไทยพร้อมเพลงที่วีเลือกมาให้คุณ ที่นี่เลย\. ปก: Violette Wautier
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,607 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,610 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oGHu3SOP0B.md) - [plain]
 | 19 | [Spiral Energy](https://open.spotify.com/track/2AWWDQMeRjeotcmBLBTO6l) | [NOTEP](https://open.spotify.com/artist/1ka1gR7aUmYayVLNPr3PYs) | [Metamorphogenesis](https://open.spotify.com/album/1rlQp1bglbM32QZOObhGFk) | 3:10 |
 | 20 | [ต้านไม่ไหว \(magnetize\)](https://open.spotify.com/track/5HTpwZZ7Xg5YRSbwrkvnZG) | [MXFRUIT](https://open.spotify.com/artist/556NsleNBrQWCLjVHoPQ6G), [ศิวกร อดุลสุทธิกุล](https://open.spotify.com/artist/6TB5ON0TYz6XhONrfzQR1S) | [ต้านไม่ไหว \(magnetize\)](https://open.spotify.com/album/2Yf5NftN7hgVHKKWUkhykr) | 4:12 |
 | 21 | [ตั้งแต่มีเธอฉันมีความสุข \(This Time\)](https://open.spotify.com/track/126PlW2V73OM9n1s1zOKW9) | [Violette Wautier](https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu) | [ตั้งแต่มีเธอฉันมีความสุข \(This Time\)](https://open.spotify.com/album/3mahPKrZPzwrbxQkEtAJzg) | 4:00 |
-| 22 | [Walk My Walk \(feat\. Réjizz\)](https://open.spotify.com/track/7gtIgNnBwFn0RW5xMYQGqm) | [Fyeqoodgurl](https://open.spotify.com/artist/47ryT65283NrXnJ8k6rKyc), [Réjizz](https://open.spotify.com/artist/2BSxVT3s5SibZ3i3SYd2l2) | [Hypnosis](https://open.spotify.com/album/0jXmg8cvVkS45W8FPiByYK) | 3:53 |
+| 22 | [Walk My Walk \(feat\. Réjizz\)](https://open.spotify.com/track/7gtIgNnBwFn0RW5xMYQGqm) | [Fyeqoodgurl](https://open.spotify.com/artist/47ryT65283NrXnJ8k6rKyc), [Réjizz](https://open.spotify.com/artist/32XWTF9gAtgtFQtfAmuBKY) | [Hypnosis](https://open.spotify.com/album/0jXmg8cvVkS45W8FPiByYK) | 3:53 |
 | 23 | [XL](https://open.spotify.com/track/2i9ZcmScwt0fsSfL4fU41h) | [SILVY](https://open.spotify.com/artist/5m8lmgqE3WYbGqmYKVNJSA) | [XL](https://open.spotify.com/album/4VWS8TXUXAQxjSKVTafDJx) | 3:44 |
 | 24 | [กักกั๊ก \(GUGGUG\) \[feat\. GEE\]](https://open.spotify.com/track/14slHajs1oLT7ZjZ2zuRZB) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg), [GEE](https://open.spotify.com/artist/4XvJZRnsThtRqESBoxcjjs) | [กักกั๊ก \(GUGGUG\) \[feat\. GEE\]](https://open.spotify.com/album/0RbpoYMuNgKKZDDnBJNdiE) | 3:36 |
 | 25 | [เเฟนผมน่ารัก](https://open.spotify.com/track/0GJHuhvKkuAnocAGNJvNw5) | [Bow Maylada](https://open.spotify.com/artist/6ncWdDNCY4fQHIaGdfme4d), [Lipta](https://open.spotify.com/artist/2DaMrZndfGgM3yd9ivadRC) | [เเฟนผมน่ารัก](https://open.spotify.com/album/2rFDr7JyK6wHOM0ou28ncj) | 3:20 |

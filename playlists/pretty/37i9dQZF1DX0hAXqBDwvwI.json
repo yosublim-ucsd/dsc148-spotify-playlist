@@ -1,6 +1,6 @@
 {
   "description": "A mega Anime hits mix! \u30a2\u30cb\u30e1\u30b7\u30fc\u30f3\u306e\u30ed\u30f3\u30b0&\u30e1\u30ac\u30d2\u30c3\u30c8\u66f2\u3092\u307e\u3068\u3081\u3066\u697d\u3057\u3082\u3046\u3002Illustration by <a href=\"https://www.instagram.com/nostalook7090/\">NOSTALOOK</a>",
-  "num_followers": 645285,
+  "num_followers": 645470,
   "original_name": "Anime On Replay",
   "owner": {
     "name": "Spotify",
@@ -703,22 +703,6 @@
     {
       "added_at": "2024-10-01 15:00:00",
       "album": {
-        "name": "\u659c\u967d",
-        "url": "https://open.spotify.com/album/4FGNOtaosV0RFQZohUbGHj"
-      },
-      "artists": [
-        {
-          "name": "\u30e8\u30eb\u30b7\u30ab",
-          "url": "https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik"
-        }
-      ],
-      "duration_ms": 200186,
-      "name": "\u659c\u967d",
-      "url": "https://open.spotify.com/track/2U6mFmBDjaAu6oCCDRpRet"
-    },
-    {
-      "added_at": "2024-10-01 15:00:00",
-      "album": {
         "name": "\u6ab8\u6aac",
         "url": "https://open.spotify.com/album/48IbAUpWY9uLHfJNaiXnkP"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 244493,
       "name": "FLY HIGH!!",
       "url": "https://open.spotify.com/track/3YOZLPRiTuYgItSGO41gPT"
+    },
+    {
+      "added_at": "2024-10-01 15:00:00",
+      "album": {
+        "name": "\u659c\u967d",
+        "url": "https://open.spotify.com/album/4FGNOtaosV0RFQZohUbGHj"
+      },
+      "artists": [
+        {
+          "name": "\u30e8\u30eb\u30b7\u30ab",
+          "url": "https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik"
+        }
+      ],
+      "duration_ms": 200186,
+      "name": "\u659c\u967d",
+      "url": "https://open.spotify.com/track/2U6mFmBDjaAu6oCCDRpRet"
     },
     {
       "added_at": "2024-10-01 15:00:00",
@@ -883,22 +883,6 @@
     {
       "added_at": "2024-10-01 15:00:00",
       "album": {
-        "name": "\u76f8\u601d\u76f8\u611b",
-        "url": "https://open.spotify.com/album/7tkIHnzxBW5oulTr2ak1jl"
-      },
-      "artists": [
-        {
-          "name": "aiko",
-          "url": "https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK"
-        }
-      ],
-      "duration_ms": 260903,
-      "name": "\u76f8\u601d\u76f8\u611b",
-      "url": "https://open.spotify.com/track/01vIbnKIo9QDYeqSc7ecoi"
-    },
-    {
-      "added_at": "2024-10-01 15:00:00",
-      "album": {
         "name": "\u30a2\u30f3\u30d3\u30d0\u30ec\u30f3\u30c8",
         "url": "https://open.spotify.com/album/4RGVp4RZ9QKQGZrbMEJUKs"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 242495,
       "name": "\u30a2\u30f3\u30d3\u30d0\u30ec\u30f3\u30c8",
       "url": "https://open.spotify.com/track/5uYnVpwOGOaiXTJmhNd62P"
+    },
+    {
+      "added_at": "2024-10-01 15:00:00",
+      "album": {
+        "name": "\u76f8\u601d\u76f8\u611b",
+        "url": "https://open.spotify.com/album/7tkIHnzxBW5oulTr2ak1jl"
+      },
+      "artists": [
+        {
+          "name": "aiko",
+          "url": "https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK"
+        }
+      ],
+      "duration_ms": 260903,
+      "name": "\u76f8\u601d\u76f8\u611b",
+      "url": "https://open.spotify.com/track/01vIbnKIo9QDYeqSc7ecoi"
     },
     {
       "added_at": "2024-10-01 15:00:00",
@@ -1175,18 +1175,18 @@
     {
       "added_at": "2024-10-01 15:00:00",
       "album": {
-        "name": "\u541b\u306e\u540d\u306f\u3002",
-        "url": "https://open.spotify.com/album/4KtMINeVjpDPdf7CsJSFZl"
+        "name": "\u82b1\u306e\u5854",
+        "url": "https://open.spotify.com/album/5N4WUOp0F0eUngAyPXJico"
       },
       "artists": [
         {
-          "name": "RADWIMPS",
-          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+          "name": "Sayuri",
+          "url": "https://open.spotify.com/artist/1YLxQZIGsaZq9rvFu8zeRz"
         }
       ],
-      "duration_ms": 284240,
-      "name": "\u524d\u524d\u524d\u4e16 - movie ver.",
-      "url": "https://open.spotify.com/track/23eTkfMmq1LvqiDzeNHdVe"
+      "duration_ms": 275614,
+      "name": "\u82b1\u306e\u5854",
+      "url": "https://open.spotify.com/track/1yt4wO7dKCwsfjch8SN9aU"
     },
     {
       "added_at": "2024-10-01 15:00:00",
@@ -1207,18 +1207,18 @@
     {
       "added_at": "2024-10-01 15:00:00",
       "album": {
-        "name": "\u82b1\u306e\u5854",
-        "url": "https://open.spotify.com/album/5N4WUOp0F0eUngAyPXJico"
+        "name": "\u541b\u306e\u540d\u306f\u3002",
+        "url": "https://open.spotify.com/album/4KtMINeVjpDPdf7CsJSFZl"
       },
       "artists": [
         {
-          "name": "Sayuri",
-          "url": "https://open.spotify.com/artist/1YLxQZIGsaZq9rvFu8zeRz"
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
         }
       ],
-      "duration_ms": 275614,
-      "name": "\u82b1\u306e\u5854",
-      "url": "https://open.spotify.com/track/1yt4wO7dKCwsfjch8SN9aU"
+      "duration_ms": 284240,
+      "name": "\u524d\u524d\u524d\u4e16 - movie ver.",
+      "url": "https://open.spotify.com/track/23eTkfMmq1LvqiDzeNHdVe"
     },
     {
       "added_at": "2024-10-01 15:00:00",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2024-10-01 15:00:00",
       "album": {
-        "name": "DRAMA",
-        "url": "https://open.spotify.com/album/74nwjBBoKHQOP6DDs71Zwf"
-      },
-      "artists": [
-        {
-          "name": "TOMORROW X TOGETHER",
-          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
-        }
-      ],
-      "duration_ms": 191146,
-      "name": "\u6c38\u9060\u306b\u5149\u308c (Everlasting Shine)",
-      "url": "https://open.spotify.com/track/3zLCX1TGMpsA67cW2pq6ut"
-    },
-    {
-      "added_at": "2024-10-01 15:00:00",
-      "album": {
         "name": "\u5815\u5929",
         "url": "https://open.spotify.com/album/6TyquheH5JW6c5YuZ4ectA"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 172948,
       "name": "\u5815\u5929",
       "url": "https://open.spotify.com/track/1ndUYRPchJVNQCM7XwN7Hq"
+    },
+    {
+      "added_at": "2024-10-01 15:00:00",
+      "album": {
+        "name": "DRAMA",
+        "url": "https://open.spotify.com/album/74nwjBBoKHQOP6DDs71Zwf"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "duration_ms": 191146,
+      "name": "\u6c38\u9060\u306b\u5149\u308c (Everlasting Shine)",
+      "url": "https://open.spotify.com/track/3zLCX1TGMpsA67cW2pq6ut"
     },
     {
       "added_at": "2024-10-01 15:00:00",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2024-10-01 15:00:00",
       "album": {
-        "name": "SKETCH",
-        "url": "https://open.spotify.com/album/0A1gohH5dOABV1NkjK49dL"
-      },
-      "artists": [
-        {
-          "name": "Kiro Akiyama",
-          "url": "https://open.spotify.com/artist/0JROVv4P85ZVPFbaJIqAty"
-        }
-      ],
-      "duration_ms": 237680,
-      "name": "SKETCH",
-      "url": "https://open.spotify.com/track/1hoeIeIVXV9nDPWL21Nbjj"
-    },
-    {
-      "added_at": "2024-10-01 15:00:00",
-      "album": {
         "name": "\u30b9\u30ab\u30fc",
         "url": "https://open.spotify.com/album/4qHbR7z8zMoUFOukvg7KXd"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 259191,
       "name": "\u30b9\u30ab\u30fc",
       "url": "https://open.spotify.com/track/5WQAussByRFjUWYQDowtHE"
+    },
+    {
+      "added_at": "2024-10-01 15:00:00",
+      "album": {
+        "name": "SKETCH",
+        "url": "https://open.spotify.com/album/0A1gohH5dOABV1NkjK49dL"
+      },
+      "artists": [
+        {
+          "name": "Kiro Akiyama",
+          "url": "https://open.spotify.com/artist/0JROVv4P85ZVPFbaJIqAty"
+        }
+      ],
+      "duration_ms": 237680,
+      "name": "SKETCH",
+      "url": "https://open.spotify.com/track/1hoeIeIVXV9nDPWL21Nbjj"
     },
     {
       "added_at": "2024-10-01 15:00:00",

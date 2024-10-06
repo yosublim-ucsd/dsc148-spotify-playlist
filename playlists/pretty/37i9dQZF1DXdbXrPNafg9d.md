@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new music every Friday\. Cover: Bartees Strange
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,277,705 likes - 174 songs - 10 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,277,736 likes - 174 songs - 10 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,7 +110,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 100 | [Snowfeel](https://open.spotify.com/track/4SoAPExSLQTXNNegHa9NAe) | [Starcleaner Reunion](https://open.spotify.com/artist/0aE0jIMsKSVBasU5D0e5zM) | [Café Life](https://open.spotify.com/album/3rqqba1mcf98BBNWEzjndB) | 3:27 |
 | 101 | [SATURN DAYZ](https://open.spotify.com/track/3XOlJSVvwd3k07xX7r50Od) | [BLACKSTARKIDS](https://open.spotify.com/artist/7but14WsfXJkF8hm07xx6E) | [Saturn Dayz](https://open.spotify.com/album/4jIAe4a91uSoRZu1P6FXNa) | 3:22 |
 | 102 | [Brand New](https://open.spotify.com/track/6ZiETe7uxVBocdajCwhAHn) | [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [Flood](https://open.spotify.com/album/3TstA7Or7ds5kL4bNWvRok) | 3:31 |
-| 103 | [DEEP HOLES](https://open.spotify.com/track/4NCckbOYu1LDH6AbSGb5mS) | [Rahim C Redcar](https://open.spotify.com/artist/4fWWr45mgLHAV8DPJR3vdW) | [DEEP HOLES](https://open.spotify.com/album/2r12lWbWRVRLyH5lWWV4pZ) | 4:46 |
+| 103 | [DEEP HOLES](https://open.spotify.com/track/4NCckbOYu1LDH6AbSGb5mS) | [Rahim Redcar](https://open.spotify.com/artist/4fWWr45mgLHAV8DPJR3vdW) | [DEEP HOLES](https://open.spotify.com/album/2r12lWbWRVRLyH5lWWV4pZ) | 4:46 |
 | 104 | [7 Horses](https://open.spotify.com/track/6Y6zRzq4Vu01TiEvp0cIcI) | [The Voidz](https://open.spotify.com/artist/4nUBBtLtzqZGpdiynTJbYJ) | [7 Horses](https://open.spotify.com/album/4wPS9o2EKkC3fX1q1Zhynd) | 4:22 |
 | 105 | [I already dug your grave](https://open.spotify.com/track/63ulMdyqy6G6iv91iyfGY6) | [Alemeda](https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8) | [FK IT](https://open.spotify.com/album/7naXZDFuKYmQtJrmRdJFc7) | 3:04 |
 | 106 | [Ganon](https://open.spotify.com/track/72ZxgnvBwXmCNts9P9cHyl) | [Lutalo](https://open.spotify.com/artist/0gSmzBSSMT1yJanwTK16Ln) | [The Academy](https://open.spotify.com/album/5BQHDhHDJ3smzTm0CZrRjN) | 2:18 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4NtIOfns5I.md) - [plain]
 
 > new music from baby bugs 🐛
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,629 likes - 105 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,671 likes - 105 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

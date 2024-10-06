@@ -1,6 +1,6 @@
 {
   "description": "The new wave of Garage - an evolution of the classic UK dancefloor sound.",
-  "num_followers": 80440,
+  "num_followers": 80444,
   "original_name": "New UK Garage",
   "owner": {
     "name": "Spotify",
@@ -651,6 +651,26 @@
     {
       "added_at": "2024-09-26 23:00:00",
       "album": {
+        "name": "Shooting Star (Badger Remix)",
+        "url": "https://open.spotify.com/album/7IWgf3Um32uPhhCzb4TtOB"
+      },
+      "artists": [
+        {
+          "name": "Jazzy",
+          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
+        },
+        {
+          "name": "Badger",
+          "url": "https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3"
+        }
+      ],
+      "duration_ms": 133150,
+      "name": "Shooting Star - Badger Remix",
+      "url": "https://open.spotify.com/track/2cIyhl2KwSGkAubFRY5ivt"
+    },
+    {
+      "added_at": "2024-09-26 23:00:00",
+      "album": {
         "name": "MELLOW CALM & CHILL",
         "url": "https://open.spotify.com/album/2MwVj2j9jFYmUk2MN14BRe"
       },
@@ -671,26 +691,6 @@
       "duration_ms": 160000,
       "name": "MELLOW CALM & CHILL",
       "url": "https://open.spotify.com/track/74AQtgxo3NLWoV9ukri8LU"
-    },
-    {
-      "added_at": "2024-09-26 23:00:00",
-      "album": {
-        "name": "Shooting Star (Badger Remix)",
-        "url": "https://open.spotify.com/album/7IWgf3Um32uPhhCzb4TtOB"
-      },
-      "artists": [
-        {
-          "name": "Jazzy",
-          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
-        },
-        {
-          "name": "Badger",
-          "url": "https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3"
-        }
-      ],
-      "duration_ms": 133150,
-      "name": "Shooting Star - Badger Remix",
-      "url": "https://open.spotify.com/track/2cIyhl2KwSGkAubFRY5ivt"
     },
     {
       "added_at": "2024-09-26 23:00:00",
@@ -823,18 +823,34 @@
     {
       "added_at": "2024-09-26 23:00:00",
       "album": {
-        "name": "Take Me High",
-        "url": "https://open.spotify.com/album/3yKCs4UE4ajRa8lfU8hyGp"
+        "name": "take your vibes and go (Preditah Remix)",
+        "url": "https://open.spotify.com/album/7txO1TuDHbNsctilDUW6ZN"
       },
       "artists": [
         {
-          "name": "TS7",
-          "url": "https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki"
+          "name": "Kito",
+          "url": "https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe"
+        },
+        {
+          "name": "Kah-Lo",
+          "url": "https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3"
+        },
+        {
+          "name": "brazy",
+          "url": "https://open.spotify.com/artist/5qdXUxsjbP0UAig0CtqO5b"
+        },
+        {
+          "name": "Preditah",
+          "url": "https://open.spotify.com/artist/5qYCZ5FQuzZSjOnesvuYiD"
+        },
+        {
+          "name": "Baauer",
+          "url": "https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv"
         }
       ],
-      "duration_ms": 161715,
-      "name": "Take Me High",
-      "url": "https://open.spotify.com/track/7aNEcFmD4lkBX0UjgTmzG1"
+      "duration_ms": 292001,
+      "name": "take your vibes and go - Preditah Remix",
+      "url": "https://open.spotify.com/track/1Wg0s1GBUaWzdIcdC1nRA8"
     },
     {
       "added_at": "2024-09-26 23:00:00",
@@ -859,6 +875,22 @@
     {
       "added_at": "2024-09-26 23:00:00",
       "album": {
+        "name": "Take Me High",
+        "url": "https://open.spotify.com/album/3yKCs4UE4ajRa8lfU8hyGp"
+      },
+      "artists": [
+        {
+          "name": "TS7",
+          "url": "https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki"
+        }
+      ],
+      "duration_ms": 161715,
+      "name": "Take Me High",
+      "url": "https://open.spotify.com/track/7aNEcFmD4lkBX0UjgTmzG1"
+    },
+    {
+      "added_at": "2024-09-26 23:00:00",
+      "album": {
         "name": "Without U",
         "url": "https://open.spotify.com/album/4oRuCsWG1tg7hfPD0AFhjN"
       },
@@ -875,26 +907,6 @@
       "duration_ms": 169000,
       "name": "Without U - Radio Edit",
       "url": "https://open.spotify.com/track/0IEXxwsZk1qf39V1xR4bWE"
-    },
-    {
-      "added_at": "2024-09-26 23:00:00",
-      "album": {
-        "name": "Party All Night",
-        "url": "https://open.spotify.com/album/543kDqeC6kaabDwc8my2QP"
-      },
-      "artists": [
-        {
-          "name": "Star.One",
-          "url": "https://open.spotify.com/artist/11HK31aj8j8QJ3ZnSlqox4"
-        },
-        {
-          "name": "Jamie Hai",
-          "url": "https://open.spotify.com/artist/47wEVywYRzex59hogE2iEJ"
-        }
-      ],
-      "duration_ms": 152888,
-      "name": "Party All Night",
-      "url": "https://open.spotify.com/track/2VaHrBmW5BqfcHVzFs2QQL"
     },
     {
       "added_at": "2024-09-26 23:00:00",
@@ -935,34 +947,22 @@
     {
       "added_at": "2024-09-26 23:00:00",
       "album": {
-        "name": "take your vibes and go (Preditah Remix)",
-        "url": "https://open.spotify.com/album/7txO1TuDHbNsctilDUW6ZN"
+        "name": "Party All Night",
+        "url": "https://open.spotify.com/album/543kDqeC6kaabDwc8my2QP"
       },
       "artists": [
         {
-          "name": "Kito",
-          "url": "https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe"
+          "name": "Star.One",
+          "url": "https://open.spotify.com/artist/11HK31aj8j8QJ3ZnSlqox4"
         },
         {
-          "name": "Kah-Lo",
-          "url": "https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3"
-        },
-        {
-          "name": "brazy",
-          "url": "https://open.spotify.com/artist/5qdXUxsjbP0UAig0CtqO5b"
-        },
-        {
-          "name": "Preditah",
-          "url": "https://open.spotify.com/artist/5qYCZ5FQuzZSjOnesvuYiD"
-        },
-        {
-          "name": "Baauer",
-          "url": "https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv"
+          "name": "Jamie Hai",
+          "url": "https://open.spotify.com/artist/47wEVywYRzex59hogE2iEJ"
         }
       ],
-      "duration_ms": 292001,
-      "name": "take your vibes and go - Preditah Remix",
-      "url": "https://open.spotify.com/track/1Wg0s1GBUaWzdIcdC1nRA8"
+      "duration_ms": 152888,
+      "name": "Party All Night",
+      "url": "https://open.spotify.com/track/2VaHrBmW5BqfcHVzFs2QQL"
     },
     {
       "added_at": "2024-09-26 23:00:00",
@@ -1099,6 +1099,26 @@
     {
       "added_at": "2024-09-26 23:00:00",
       "album": {
+        "name": "Wild (bullet tooth Remix)",
+        "url": "https://open.spotify.com/album/6zq84gcL04a7PG5z9XVctR"
+      },
+      "artists": [
+        {
+          "name": "Bru-C",
+          "url": "https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D"
+        },
+        {
+          "name": "bullet tooth",
+          "url": "https://open.spotify.com/artist/4KWIkeAdOJfvUgXSq0bEWC"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "Wild - bullet tooth Remix",
+      "url": "https://open.spotify.com/track/69fKLi2YhI5C6MmFQegAwE"
+    },
+    {
+      "added_at": "2024-09-26 23:00:00",
+      "album": {
         "name": "Shadows Pt. 3",
         "url": "https://open.spotify.com/album/0oWr4r89kkWmeZ5dQqHcHy"
       },
@@ -1119,42 +1139,18 @@
     {
       "added_at": "2024-09-26 23:00:00",
       "album": {
-        "name": "Higher (Prozak Remix)",
-        "url": "https://open.spotify.com/album/3fJ3Gf8ERWsUBL0H9NBZUp"
+        "name": "Stop Dawdling / The Streets",
+        "url": "https://open.spotify.com/album/4dsnR0F7Kp082CmG1wQAzX"
       },
       "artists": [
         {
-          "name": "Pretty Girl",
-          "url": "https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98"
-        },
-        {
-          "name": "Prozak",
-          "url": "https://open.spotify.com/artist/1cFxOHBhTZDQuzNaIvzBel"
+          "name": "MPH",
+          "url": "https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof"
         }
       ],
-      "duration_ms": 269999,
-      "name": "Higher - Prozak Remix",
-      "url": "https://open.spotify.com/track/4IE8Z3TFLU4K0rL7YsO5ER"
-    },
-    {
-      "added_at": "2024-09-26 23:00:00",
-      "album": {
-        "name": "Wild (bullet tooth Remix)",
-        "url": "https://open.spotify.com/album/6zq84gcL04a7PG5z9XVctR"
-      },
-      "artists": [
-        {
-          "name": "Bru-C",
-          "url": "https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D"
-        },
-        {
-          "name": "bullet tooth",
-          "url": "https://open.spotify.com/artist/4KWIkeAdOJfvUgXSq0bEWC"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "Wild - bullet tooth Remix",
-      "url": "https://open.spotify.com/track/69fKLi2YhI5C6MmFQegAwE"
+      "duration_ms": 265454,
+      "name": "The Streets",
+      "url": "https://open.spotify.com/track/1Znm2edTuEhuuvaGtOPksn"
     }
   ],
   "unique_name": "New UK Garage",

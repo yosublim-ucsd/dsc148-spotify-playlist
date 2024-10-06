@@ -1,6 +1,6 @@
 {
   "description": "Sin ataduras, pero con amor: la medida justa de romance independiente.",
-  "num_followers": 106637,
+  "num_followers": 106641,
   "original_name": "Amor Indie",
   "owner": {
     "name": "Spotify",
@@ -283,26 +283,6 @@
     {
       "added_at": "2024-09-26 19:23:33",
       "album": {
-        "name": "No Te Puedo Decir Que No",
-        "url": "https://open.spotify.com/album/0s4Yzgd1fDrjq05WBFSvvp"
-      },
-      "artists": [
-        {
-          "name": "Connie Isla",
-          "url": "https://open.spotify.com/artist/3rRWzsERkCNBl27Nih029a"
-        },
-        {
-          "name": "Marki",
-          "url": "https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J"
-        }
-      ],
-      "duration_ms": 183888,
-      "name": "No Te Puedo Decir Que No",
-      "url": "https://open.spotify.com/track/2BB4nJnuMJnFy3jKGUWPni"
-    },
-    {
-      "added_at": "2024-09-26 19:23:33",
-      "album": {
         "name": "Hasta Que Llegue El Verano",
         "url": "https://open.spotify.com/album/6TDE63e1LQdZ3A688Kerur"
       },
@@ -319,6 +299,26 @@
       "duration_ms": 227375,
       "name": "Hasta Que Llegue El Verano",
       "url": "https://open.spotify.com/track/6o2txs2fVptvzLjvlhbTjH"
+    },
+    {
+      "added_at": "2024-09-26 19:23:33",
+      "album": {
+        "name": "No Te Puedo Decir Que No",
+        "url": "https://open.spotify.com/album/0s4Yzgd1fDrjq05WBFSvvp"
+      },
+      "artists": [
+        {
+          "name": "Connie Isla",
+          "url": "https://open.spotify.com/artist/3rRWzsERkCNBl27Nih029a"
+        },
+        {
+          "name": "Marki",
+          "url": "https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J"
+        }
+      ],
+      "duration_ms": 183888,
+      "name": "No Te Puedo Decir Que No",
+      "url": "https://open.spotify.com/track/2BB4nJnuMJnFy3jKGUWPni"
     },
     {
       "added_at": "2024-09-26 19:23:33",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2024-09-26 19:23:33",
       "album": {
-        "name": "balada para el fin del mundo",
-        "url": "https://open.spotify.com/album/5oMb9DNJOLnVtawJVhmIs1"
-      },
-      "artists": [
-        {
-          "name": "Delfina Campos",
-          "url": "https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G"
-        }
-      ],
-      "duration_ms": 161080,
-      "name": "balada para el fin del mundo",
-      "url": "https://open.spotify.com/track/3EANbFz0CCNWUhFfpYNhsZ"
-    },
-    {
-      "added_at": "2024-09-26 19:23:33",
-      "album": {
         "name": "Tuami",
         "url": "https://open.spotify.com/album/5szk65Ovv0G5VYInwORa3k"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 186000,
       "name": "Tuami",
       "url": "https://open.spotify.com/track/1UbSaStuc69LXMOTQhlEtS"
+    },
+    {
+      "added_at": "2024-09-26 19:23:33",
+      "album": {
+        "name": "balada para el fin del mundo",
+        "url": "https://open.spotify.com/album/5oMb9DNJOLnVtawJVhmIs1"
+      },
+      "artists": [
+        {
+          "name": "Delfina Campos",
+          "url": "https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G"
+        }
+      ],
+      "duration_ms": 161080,
+      "name": "balada para el fin del mundo",
+      "url": "https://open.spotify.com/track/3EANbFz0CCNWUhFfpYNhsZ"
     },
     {
       "added_at": "2024-09-26 19:23:33",
@@ -1391,6 +1391,22 @@
     {
       "added_at": "2024-09-26 19:23:33",
       "album": {
+        "name": "3D",
+        "url": "https://open.spotify.com/album/7CPux4iLNEQ1KGVzmE9CKz"
+      },
+      "artists": [
+        {
+          "name": "Santi Celli",
+          "url": "https://open.spotify.com/artist/3zoMlg6gx6K4NcGE15qtCF"
+        }
+      ],
+      "duration_ms": 135942,
+      "name": "C\u00f3mo olvidar",
+      "url": "https://open.spotify.com/track/4ZQDnvCAnMJLiIiEj2hxbP"
+    },
+    {
+      "added_at": "2024-09-26 19:23:33",
+      "album": {
         "name": "Ojos de Planeta",
         "url": "https://open.spotify.com/album/48g89qmq4trgf6qkn8x5gH"
       },
@@ -1411,18 +1427,18 @@
     {
       "added_at": "2024-09-26 19:23:33",
       "album": {
-        "name": "3D",
-        "url": "https://open.spotify.com/album/7CPux4iLNEQ1KGVzmE9CKz"
+        "name": "Tuna",
+        "url": "https://open.spotify.com/album/3AQZJExI7Gy0836Ot2LQnq"
       },
       "artists": [
         {
-          "name": "Santi Celli",
-          "url": "https://open.spotify.com/artist/3zoMlg6gx6K4NcGE15qtCF"
+          "name": "Mora Navarro",
+          "url": "https://open.spotify.com/artist/1TVta41xrglUQxVheaXZJx"
         }
       ],
-      "duration_ms": 135942,
-      "name": "C\u00f3mo olvidar",
-      "url": "https://open.spotify.com/track/4ZQDnvCAnMJLiIiEj2hxbP"
+      "duration_ms": 221250,
+      "name": "Tuna",
+      "url": "https://open.spotify.com/track/26RnklHNP0yoUEmbn7p2Hv"
     },
     {
       "added_at": "2024-09-26 19:23:33",
@@ -1443,22 +1459,6 @@
       "duration_ms": 177083,
       "name": "La Puerta",
       "url": "https://open.spotify.com/track/6v988u9uCkXho3hvjqom1s"
-    },
-    {
-      "added_at": "2024-09-26 19:23:33",
-      "album": {
-        "name": "Tuna",
-        "url": "https://open.spotify.com/album/3AQZJExI7Gy0836Ot2LQnq"
-      },
-      "artists": [
-        {
-          "name": "Mora Navarro",
-          "url": "https://open.spotify.com/artist/1TVta41xrglUQxVheaXZJx"
-        }
-      ],
-      "duration_ms": 221250,
-      "name": "Tuna",
-      "url": "https://open.spotify.com/track/26RnklHNP0yoUEmbn7p2Hv"
     },
     {
       "added_at": "2024-09-26 19:23:33",
@@ -1643,18 +1643,22 @@
     {
       "added_at": "2024-09-26 19:23:33",
       "album": {
-        "name": "Radar",
-        "url": "https://open.spotify.com/album/21upJvK4VBVEwgyftb1k58"
+        "name": "Respiro (Cap. 8)",
+        "url": "https://open.spotify.com/album/0nbH40OtNF4gU2Ilxn5BCo"
       },
       "artists": [
         {
-          "name": "Paz Carrara",
-          "url": "https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg"
+          "name": "Siddhartha",
+          "url": "https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x"
+        },
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
         }
       ],
-      "duration_ms": 162288,
-      "name": "Radar",
-      "url": "https://open.spotify.com/track/2ZrnMV7mUPqU2qPgFyEa23"
+      "duration_ms": 221390,
+      "name": "Respiro (Cap. 8)",
+      "url": "https://open.spotify.com/track/4TIaGP6idg1KZ5lSrGvjZw"
     },
     {
       "added_at": "2024-09-26 19:23:33",
@@ -1671,6 +1675,22 @@
       "duration_ms": 174325,
       "name": "Pangal",
       "url": "https://open.spotify.com/track/3E739758DB9IJ1dBoRDX2Z"
+    },
+    {
+      "added_at": "2024-09-26 19:23:33",
+      "album": {
+        "name": "Radar",
+        "url": "https://open.spotify.com/album/21upJvK4VBVEwgyftb1k58"
+      },
+      "artists": [
+        {
+          "name": "Paz Carrara",
+          "url": "https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg"
+        }
+      ],
+      "duration_ms": 162288,
+      "name": "Radar",
+      "url": "https://open.spotify.com/track/2ZrnMV7mUPqU2qPgFyEa23"
     },
     {
       "added_at": "2024-09-26 19:23:33",
@@ -1707,26 +1727,6 @@
       "duration_ms": 235909,
       "name": "AYER",
       "url": "https://open.spotify.com/track/3YtsRWd21iMqyCvislOyv0"
-    },
-    {
-      "added_at": "2024-09-26 19:23:33",
-      "album": {
-        "name": "Respiro (Cap. 8)",
-        "url": "https://open.spotify.com/album/0nbH40OtNF4gU2Ilxn5BCo"
-      },
-      "artists": [
-        {
-          "name": "Siddhartha",
-          "url": "https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x"
-        },
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        }
-      ],
-      "duration_ms": 221390,
-      "name": "Respiro (Cap. 8)",
-      "url": "https://open.spotify.com/track/4TIaGP6idg1KZ5lSrGvjZw"
     },
     {
       "added_at": "2024-09-26 19:23:33",

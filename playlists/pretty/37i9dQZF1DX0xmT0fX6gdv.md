@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0xmT0fX6gdv.md) - [plain]
 
 > <a href="spotify:artist:4d8OiNWwKaA6MBPq0K06Xa">Mehmet Aslan</a>'s favorite tracks\. Updated regularly\. Curated by Mehmet Aslan\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,995 likes - 100 songs - 8 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,017 likes - 100 songs - 8 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0xmT0fX6gdv.md) - [plain]
 | 69 | [Rowndbass Acid](https://open.spotify.com/track/0sD77M9vkaFHPvCQyWpfQH) | [Mehmet Aslan](https://open.spotify.com/artist/4d8OiNWwKaA6MBPq0K06Xa) | [The Sun is Parallel](https://open.spotify.com/album/3WEskLTX6RJBwSl9e8HTjZ) | 4:50 |
 | 70 | [Welche Farbe Hat Der Wind](https://open.spotify.com/track/7hrLP3ZoeDHwXrZGpEPLdn) | [Hans Hass](https://open.spotify.com/artist/1mBnaszdjPL8eo47Vbhofv) | [Welche Farbe Hat Der Wind](https://open.spotify.com/album/5s1QRLCN8m1zhJiQW210Yg) | 4:29 |
 | 71 | [Durst](https://open.spotify.com/track/6wd3bvUkiVUcToubPN4705) | [LSW](https://open.spotify.com/artist/21HGPIc24sW2TpiQ8KXwan) | [Mir Tut Alles Weh](https://open.spotify.com/album/3xtBkw9XQwSfHvMzSXLOK4) | 3:43 |
-| 72 | [Les chants de Maldoror](https://open.spotify.com/track/1EmOZIwggAyN7IqPBai90U) | [Leonie Pernet](https://open.spotify.com/artist/5hGg5Xi5EqhkDooT7myKfC) | [Le Cirque de Consolation](https://open.spotify.com/album/5rg6sPzPkEB0YAuZiCUG61) | 4:38 |
+| 72 | [Les chants de Maldoror](https://open.spotify.com/track/1EmOZIwggAyN7IqPBai90U) | [Léonie Pernet](https://open.spotify.com/artist/5hGg5Xi5EqhkDooT7myKfC) | [Le Cirque de Consolation](https://open.spotify.com/album/5rg6sPzPkEB0YAuZiCUG61) | 4:38 |
 | 73 | [Tangerine](https://open.spotify.com/track/3JB8Q4UEnHT12JheqH3gK4) | [Mehmet Aslan](https://open.spotify.com/artist/4d8OiNWwKaA6MBPq0K06Xa), [Niño de Elche](https://open.spotify.com/artist/5IbUz6BcOu6IVY512oxavP) | [Tangerine](https://open.spotify.com/album/6jq7DZqUvp0OrEO0QC3Dc4) | 4:15 |
 | 74 | [Fantasy \(Floating Points Remix\) \- Radio Edit](https://open.spotify.com/track/3jPuuhaJi4siPTtbyv0Z7z) | [Herbert](https://open.spotify.com/artist/6wXFUcaG7779tb1Ok72GBn), [Verushka](https://open.spotify.com/artist/5StY3t09rFBGADeZbkVyOC), [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Musca \(Remixes\)](https://open.spotify.com/album/1LzOJBnhsHOLf6m1AkSSGY) | 2:59 |
 | 75 | [Garden](https://open.spotify.com/track/7lCFqlVFKkYQUhvk5oozO3) | [Mehmet Aslan](https://open.spotify.com/artist/4d8OiNWwKaA6MBPq0K06Xa), [Valentina Magaletti](https://open.spotify.com/artist/0jPLDwuZUzb6qZdfi5XPHz) | [Garden](https://open.spotify.com/album/125uf8eko94rpAHLPTPh5B) | 4:25 |

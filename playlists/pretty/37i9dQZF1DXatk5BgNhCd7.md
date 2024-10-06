@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 
 > Nuevos temas de géneros tropicales\. Foto: Manuel Turizo, Kapo
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,268 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,303 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 | 16 | [Noche Fría](https://open.spotify.com/track/36E9wb5dk5uLwb20L5g81m) | [Matías Valdez](https://open.spotify.com/artist/6SGCqG5HEr5gFZR9ct8wID), [Flor Alvarez](https://open.spotify.com/artist/3R8XhCi6bUcoR1CJx2XASa) | [Noche Fría](https://open.spotify.com/album/2GCWhv07264jkFMVI0NCX3) | 3:04 |
 | 17 | [Todos Me Critican \- En Vivo](https://open.spotify.com/track/2rZLD7rl8LsPICsKvhABNQ) | [Antonio Rios](https://open.spotify.com/artist/7s652lD4v77szrPEfgMTBi), [Angela Leiva](https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d) | [Todos Me Critican \(En Vivo\)](https://open.spotify.com/album/0X6LOl91QSfMlODNxnPbCY) | 3:32 |
 | 18 | [Por Favor \(feat\. Antonio Rios\)](https://open.spotify.com/track/4ZcQybhEqO2Vp4ywomVhmX) | [Bruno Lippi](https://open.spotify.com/artist/6baxQG4TXqSMv4z8ydP0cK), [Antonio Rios](https://open.spotify.com/artist/7s652lD4v77szrPEfgMTBi) | [Por Favor \(feat\. Antonio Rios\)](https://open.spotify.com/album/2sJ5Ip4DmfnhaBOWW5FA2m) | 3:38 |
-| 19 | [Por Qué Se Fue](https://open.spotify.com/track/0hvmqq5qhXN09qm8WRFk1w) | [Los Byby's](https://open.spotify.com/artist/3CmqbJaTL0hrMiYfY0ssiN) | [Por Qué Se Fue](https://open.spotify.com/album/5ECzNH44uid18WScLy4i54) | 3:33 |
+| 19 | [¿Por Qué Se Fue?](https://open.spotify.com/track/0hvmqq5qhXN09qm8WRFk1w) | [Los Byby's](https://open.spotify.com/artist/3CmqbJaTL0hrMiYfY0ssiN) | [¿Por Qué Se Fue?](https://open.spotify.com/album/5ECzNH44uid18WScLy4i54) | 3:33 |
 | 20 | [Cumbia Nocturnal](https://open.spotify.com/track/66qKgeembM5aZZ2cOUQImh) | [Los Morales](https://open.spotify.com/artist/6ApQFyQipz7e35stMrNG4h), [Secretto](https://open.spotify.com/artist/1p2oJls3t03KjBx99Lj2ZQ) | [Cumbia Nocturnal](https://open.spotify.com/album/3eUmnu6QSEGfk2DWZ3Am7P) | 3:33 |
 | 21 | [Tu Eres Mi Amor \- Bachata Version](https://open.spotify.com/track/2PgyPxXOTDKFPiDbtcdLFE) | [Kazzabe](https://open.spotify.com/artist/758FKId0OeNnHwnFP2pwFv), [Frank Reyes](https://open.spotify.com/artist/4vQV1LCGBdYAt5rIIPjSFZ) | [Tu Eres Mi Amor \(Bachata Version\)](https://open.spotify.com/album/1WIwGwoD15YXNCFPhruPNg) | 3:41 |
 | 22 | [XQ SI TE VAS](https://open.spotify.com/track/1zkYnkDvBM8EiNlqt9vaRJ) | [Alico](https://open.spotify.com/artist/7n3wAgh1j3RRbxYzfZTQDF) | [XQ SI TE VAS](https://open.spotify.com/album/6syMjC6k3jcWaYAewWl5rX) | 2:42 |

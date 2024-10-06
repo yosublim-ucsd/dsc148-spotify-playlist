@@ -4,7 +4,7 @@
 
 > Hardcore and uptempo to get you pumped
 
-282 songs - 15 hr 44 min
+283 songs - 15 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [Enter The Dome \- Official Thunderdome 2022 Anthem](https://open.spotify.com/track/5wvfLTKIewrRfrZJRs3Qqf) | [N\-Vitral](https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3) | [Enter The Dome \(Official Thunderdome 2022 Anthem\)](https://open.spotify.com/album/11f7M6Iutpt2PDvvxWdRuM) | 3:51 | 2022-12-08 | 2024-09-18 |
 | [Everybody Move](https://open.spotify.com/track/3vodvhteZsq3Wydz9Y0kbX) | [F\. Noize](https://open.spotify.com/artist/0mdmNdny2m37Hb1DIdQkG7) | [Everybody Move](https://open.spotify.com/album/5g9ZPYUnWl79HQWchAwoce) | 2:51 | 2024-03-11 | 2024-06-28 |
 | [F\#ck The Haters](https://open.spotify.com/track/2MkEOJ1yZ1wBk1Sx022OTo) | [Mutilator](https://open.spotify.com/artist/3AkGIMk9xwDj4A5ttNBPiN) | [F\#ck The Haters](https://open.spotify.com/album/3EgcPoSBiZCFK8QhKU6buM) | 2:27 | 2022-12-08 | 2023-12-22 |
+| [F.R.E.N.C.H.C.O.R.E.](https://open.spotify.com/track/48KVM5tvfliqY6l7kduiPF) | [Dr\. Peacock](https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3), [Billx](https://open.spotify.com/artist/0Ldjd0Z66CJ0rChWXx0jzB), [The Sickest Squad](https://open.spotify.com/artist/1NGSmZz3W7RduM185NLWdk), [Frenchcore Familia](https://open.spotify.com/artist/3lX2yJBnRgHzvGp6d5xGjR) | [F.R.E.N.C.H.C.O.R.E.](https://open.spotify.com/album/08UAg9MSdmXQ2IBnhJx6eC) | 2:38 | 2024-10-03 |  |
 | [Fade To Black](https://open.spotify.com/track/2SYurUBnKRFobADxclh1RA) | [Dj Mad Dog](https://open.spotify.com/artist/7oX7rzli18XsB2WFd88oW4), [Dr\. Peacock](https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3) | [Fade To Black](https://open.spotify.com/album/0EUYMtj5bwFoOHwdHwv8IT) | 3:46 | 2024-05-16 |  |
 | [Fake Shit](https://open.spotify.com/track/2YV9sAhCtOC0ybKcFjHErO) | [Deadly Guns](https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP) | [Fake Shit](https://open.spotify.com/album/6e0Et3Pidz5fELr3QgH7Te) | 3:03 | 2022-12-08 | 2023-12-22 |
 | [Fat Beat](https://open.spotify.com/track/6uWksA4RzIKGlHNg4of8pV) | [N\-Vitral](https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3), [Killshot](https://open.spotify.com/artist/2m5uCiZcpQ50tXsJrThFoM) | [Fat Beat](https://open.spotify.com/album/4FxTlGHqQ4Xl6S5QByZEBl) | 3:51 | 2023-02-09 | 2024-09-18 |
@@ -237,7 +238,7 @@
 | [Stress](https://open.spotify.com/track/0Wv6K1VHhz6gWrbUqbutpN) | [Noxiouz](https://open.spotify.com/artist/3a898qKIO2UeKsWMKH7R38) | [Stress](https://open.spotify.com/album/6Gr317KEInb9krkZg7ASJI) | 2:27 | 2024-03-26 |  |
 | [STRUGGLE TO SURVIVE](https://open.spotify.com/track/5ppcwNlHYEMQOHYbo0y2Jf) | [Andy the Core](https://open.spotify.com/artist/3GEDzLFDpKR3tsq72ZRTP7), [Frenchkillerz](https://open.spotify.com/artist/1AYLNDNyJwPWGSlB3l2Ji1), [Hyperverb](https://open.spotify.com/artist/6wBNWFHe0PIG1p867KLihx) | [STRUGGLE TO SURVIVE](https://open.spotify.com/album/3xjbDfiuJmTrLOgwkrotM4) | 3:47 | 2022-12-08 | 2023-06-02 |
 | [STRUGGLE TO SURVIVE \(2023 RMX\)](https://open.spotify.com/track/0pTxkc8DLhLexqfATjm4Yu) | [Andy the Core](https://open.spotify.com/artist/3GEDzLFDpKR3tsq72ZRTP7), [Frenchkillerz](https://open.spotify.com/artist/1AYLNDNyJwPWGSlB3l2Ji1), [Hyperverb](https://open.spotify.com/artist/6wBNWFHe0PIG1p867KLihx) | [STRUGGLE TO SURVIVE \(2023 RMX\)](https://open.spotify.com/album/6Qfszcle60C258we00nyTG) | 3:26 | 2023-11-02 | 2024-06-10 |
-| [Swallow It](https://open.spotify.com/track/7gnMMIlH6scodeu3kHINvs) | [Dr\. Peacock](https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3) | [Swallow It](https://open.spotify.com/album/5H5rbvZh68gtoN0dgTV76M) | 3:31 | 2024-02-01 |  |
+| [Swallow It](https://open.spotify.com/track/7gnMMIlH6scodeu3kHINvs) | [Dr\. Peacock](https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3) | [Swallow It](https://open.spotify.com/album/5H5rbvZh68gtoN0dgTV76M) | 3:31 | 2024-02-01 | 2024-10-06 |
 | [Syndicate Of Noise \- Official SYNDICATE 2023 Anthem](https://open.spotify.com/track/2QXxOoPaqduErHktm3wmRu) | [Angerfist](https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS), [Nolz](https://open.spotify.com/artist/6kudMw2A0xOBJHpW8VNaDA) | [Syndicate Of Noise \(Official SYNDICATE 2023 Anthem\)](https://open.spotify.com/album/6qPEbdsMpIYye8KPfQ9NsQ) | 4:33 | 2023-09-14 |  |
 | [Syndicate Of Rave \- Official Syndicate 2021 Anthem](https://open.spotify.com/track/2O4jRluPaWopM90WioFwHK) | [Broken Minds](https://open.spotify.com/artist/0b2rM3fXiBkA4c1SpSkoqE), [Alee](https://open.spotify.com/artist/07E7avQ9K8W8Gr6BCx8aU9) | [Syndicate Of Rave \(Official Syndicate 2021 Anthem\)](https://open.spotify.com/album/40KpN0B8gZGe7YXRO1ZtPv) | 3:42 | 2022-12-08 | 2023-03-08 |
 | [Take Me High](https://open.spotify.com/track/0ojP7HmCeflp0I0ZUmT8JI) | [Remzcore](https://open.spotify.com/artist/0mv06HWAJhV6nK7zd2eZwp) | [Take Me High](https://open.spotify.com/album/6JlrucS3EDrrdxJCI9fv1V) | 2:51 | 2023-01-26 |  |

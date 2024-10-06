@@ -561,6 +561,24 @@
     },
     {
       "album": {
+        "name": "Including you",
+        "url": "https://open.spotify.com/album/3N4x2YuZwT2U1At9wLfraQ"
+      },
+      "artists": [
+        {
+          "name": "Liella!",
+          "url": "https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194873,
+      "name": "Including you",
+      "url": "https://open.spotify.com/track/0OlRisnrGMqUWIsJrTaBav"
+    },
+    {
+      "album": {
         "name": "LIVE with a smile!",
         "url": "https://open.spotify.com/album/440iaSHnfUVbHAu9m6Qtz8"
       },
@@ -1176,7 +1194,7 @@
       ],
       "date_added": "2022-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-06",
       "duration_ms": 260543,
       "name": "Welcome to \u50d5\u3089\u306e\u30bb\u30ab\u30a4",
       "url": "https://open.spotify.com/track/3CZM58SiIktg2PzW8ywkRO"

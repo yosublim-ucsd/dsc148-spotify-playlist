@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHyhanaNMoy.md) - [plain]
 
 > Motion en good vibes met Jinho 9 & Chivv
 
-[Spotify](https://open.spotify.com/user/spotify) - 327,625 likes - 60 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 327,663 likes - 60 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Planga \(feat\. Chivv\)](https://open.spotify.com/track/2MmF0gikbHDryK9Db5yoYV) | [Jinho 9](https://open.spotify.com/artist/3gPtUdMiLkJgmQIxFpEhAk), [Chivv](https://open.spotify.com/artist/2hBfmHHnM4dS4pJgEJENCg) | [Planga \(feat\. Chivv\)](https://open.spotify.com/album/1fsn1JwBC8RZ89qym4N8KK) | 2:13 |
+| 1 | [Planga](https://open.spotify.com/track/2MmF0gikbHDryK9Db5yoYV) | [Jinho 9](https://open.spotify.com/artist/3gPtUdMiLkJgmQIxFpEhAk), [Chivv](https://open.spotify.com/artist/0fXYDoSMO5PoGPrwB7ymij), [Puri](https://open.spotify.com/artist/3ADyFy1orEwODaiHmRRMQp) | [Planga](https://open.spotify.com/album/1fsn1JwBC8RZ89qym4N8KK) | 2:13 |
 | 2 | [NASA](https://open.spotify.com/track/0MDCA0Wky00TbO5yjCIZ38) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5) | [NASA](https://open.spotify.com/album/5s0omL2Uafv73Dx8OcT6vZ) | 2:24 |
 | 3 | [Vrijgezel](https://open.spotify.com/track/51C9ZDKG7RG8QIeQoCf6we) | [Dopebwoy](https://open.spotify.com/artist/6OQggpm01CmAB717TKtDCr), [Puri](https://open.spotify.com/artist/3ADyFy1orEwODaiHmRRMQp), [FRNKIE](https://open.spotify.com/artist/6gVw7sj444868peBFpH0O4) | [Koude Kermis](https://open.spotify.com/album/2UZ05NpzJ76d06VBQrKWtv) | 2:19 |
 | 4 | [YOU](https://open.spotify.com/track/7z7zXc7sI8wTpxXPYnrsuM) | [Tribal Kush](https://open.spotify.com/artist/7fr6F0dEvfSoZW3fJ5fvUD), [Bokoesam](https://open.spotify.com/artist/2NFWbreVmIEJG0iqIvLDOI), [Adje](https://open.spotify.com/artist/5erZiBCKPxe9FaTiXHO00m) | [YOU](https://open.spotify.com/album/4EROvvNdZEkpcJ3mP4ENxO) | 2:08 |

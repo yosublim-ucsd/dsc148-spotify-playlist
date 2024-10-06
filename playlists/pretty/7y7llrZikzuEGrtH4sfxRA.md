@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7y7llrZikzuEGrtH4sfxRA.md) - [plain]
 
 > 
 
-[Matroda](https://open.spotify.com/user/2nightmgmt) - 1,623 likes - 20 songs - 1 hr 1 min
+[Matroda](https://open.spotify.com/user/2nightmgmt) - 1,625 likes - 20 songs - 1 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/7y7llrZikzuEGrtH4sfxRA.md) - [plain]
 | 15 | [Freak Machine](https://open.spotify.com/track/3VKG8zzc7CNM5k4Fbdgr8N) | [CHAN](https://open.spotify.com/artist/4i7DSbtW1kZ2iv0w8j6lUZ), [Jake Bleu](https://open.spotify.com/artist/46yegH77IvTiL6hRD3TOEN) | [Freak Machine](https://open.spotify.com/album/4ANytmddTNNPgxECjcJyof) | 3:20 |
 | 16 | [The Weekend](https://open.spotify.com/track/1KEs5gnaNl40iM9Ytmq1DD) | [Anti Up](https://open.spotify.com/artist/4UwR1ir6PovnQiwX5jRPvF) | [The Weekend / Control the Media](https://open.spotify.com/album/3Xc6RzQVgNWt6LrQr4nwdI) | 2:58 |
 | 17 | [I Can't Stop \- Joseph Capriati Groove Remix](https://open.spotify.com/track/391TaY5wvQnUAEfOuokR1P) | [Sandy Rivera](https://open.spotify.com/artist/6eChRUoyiCUCrUbwbT9Jq3), [Joseph Capriati](https://open.spotify.com/artist/7onsqSWPufMm5ZnUCECDpf) | [I Can't Stop \(Joseph Capriati Remixes\)](https://open.spotify.com/album/4Yg4tWIwxiajyc8n1qytKe) | 2:20 |
-| 18 | [Qué pasará](https://open.spotify.com/track/59Z7976jGdmNHhvodMTLWF) | [Paskman](https://open.spotify.com/artist/70s7RdFqr3UEBlooMGUQdO), [Raphael](https://open.spotify.com/artist/796OSRuB0E9Hq55uTFL9U8) | [Qué pasará](https://open.spotify.com/album/5FhKoe15ef5D4mpG0HmjSz) | 3:32 |
+| 18 | [Qué pasará](https://open.spotify.com/track/59Z7976jGdmNHhvodMTLWF) | [Paskman](https://open.spotify.com/artist/70s7RdFqr3UEBlooMGUQdO), [Raphael](https://open.spotify.com/artist/796OSRuB0E9Hq55uTFL9U8) | [Qué pasará](https://open.spotify.com/album/5FhKoe15ef5D4mpG0HmjSz) | 3:03 |
 | 19 | [Meet Me In The Middle](https://open.spotify.com/track/2pmvEffn5k4CD5WEmOjDrO) | [LF SYSTEM](https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO) | [Meet Me In The Middle](https://open.spotify.com/album/1XUuSXvM22T5sRqD1pOU9K) | 2:17 |
 | 20 | [Sen Orita](https://open.spotify.com/track/6F53sYX7nmLkN9ZSKUiHVs) | [Miguel Bastida](https://open.spotify.com/artist/5wHxSZdr7rIyqlFJxH1gCM) | [Sen Orita](https://open.spotify.com/album/1ecWqZ4XeLdhGKNGytpBO9) | 3:13 |
 

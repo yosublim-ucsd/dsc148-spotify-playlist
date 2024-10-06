@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1D0sR2.md) - [plain]
 
 ### [This Is JJ Hairston](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1D0sR2)
 
-> This is JJ Hairston\. De viktigste sporene samlet i én spilleliste.
+> This is: JJ Hairston\. Alle wichtigen Tracks in einer Playlist.
 
 [Spotify](https://open.spotify.com/user/spotify) - 2,737 likes - 50 songs - 5 hr 46 min
 
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1D0sR2.md) - [plain]
 | 49 | [All Things Well](https://open.spotify.com/track/0go5IhO6HOuKwwag6izAo8) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Youthful Praise](https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0) | [I See Victory](https://open.spotify.com/album/48zrTwziXCA85DJLJ8n0OR) | 7:03 |
 | 50 | [Spirit of God \- Live](https://open.spotify.com/track/6kQSyWhKq3DC61Bz2KYG3s) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Youthful Praise](https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0) | [Exalted...Live In Baltimore \(Deluxe Edition\)](https://open.spotify.com/album/4RNPc3sQN0YMAWz0IWedDR) | 8:09 |
 
-Snapshot ID: `Zv3egAAAAAC4vwrPEOQp+AeTPNjRWfOE`
+Snapshot ID: `Zv3egAAAAADUIJIqFDqc/BPDpmCRD5Bs`

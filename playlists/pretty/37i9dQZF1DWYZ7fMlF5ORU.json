@@ -1,6 +1,6 @@
 {
   "description": "A alegria do Senhor \u00e9 a vossa for\u00e7a! Entre no groove com o melhor do Soul, Funk e Disco Crist\u00e3o. Foto: Eli Soares",
-  "num_followers": 163856,
+  "num_followers": 163893,
   "original_name": "Grooveria Gospel",
   "owner": {
     "name": "Spotify",
@@ -251,6 +251,22 @@
     {
       "added_at": "2024-09-27 03:01:00",
       "album": {
+        "name": "One Vision",
+        "url": "https://open.spotify.com/album/0u8WfstKJXWp0IZQ5NIy1o"
+      },
+      "artists": [
+        {
+          "name": "ONE Service",
+          "url": "https://open.spotify.com/artist/0kCOnrKSr2couo2O5uj2hP"
+        }
+      ],
+      "duration_ms": 257586,
+      "name": "Far\u00e1 Outra Vez",
+      "url": "https://open.spotify.com/track/18Z4Wpr3NlbTM572Btu3qa"
+    },
+    {
+      "added_at": "2024-09-27 03:01:00",
+      "album": {
         "name": "Comprou",
         "url": "https://open.spotify.com/album/5csEYwj6oEMSTgJRN4U9b7"
       },
@@ -271,22 +287,6 @@
       "duration_ms": 282760,
       "name": "Comprou",
       "url": "https://open.spotify.com/track/34tJt507yo0qGUt1dTauRm"
-    },
-    {
-      "added_at": "2024-09-27 03:01:00",
-      "album": {
-        "name": "One Vision",
-        "url": "https://open.spotify.com/album/0u8WfstKJXWp0IZQ5NIy1o"
-      },
-      "artists": [
-        {
-          "name": "ONE Service",
-          "url": "https://open.spotify.com/artist/0kCOnrKSr2couo2O5uj2hP"
-        }
-      ],
-      "duration_ms": 257586,
-      "name": "Far\u00e1 Outra Vez",
-      "url": "https://open.spotify.com/track/18Z4Wpr3NlbTM572Btu3qa"
     },
     {
       "added_at": "2024-09-27 03:01:00",
@@ -591,22 +591,6 @@
     {
       "added_at": "2024-09-27 03:01:00",
       "album": {
-        "name": "A Season Of Remixes",
-        "url": "https://open.spotify.com/album/7jI7E2aLZZucXkAQQlJMEV"
-      },
-      "artists": [
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        }
-      ],
-      "duration_ms": 251640,
-      "name": "Brighter Day - Kirk's Mix",
-      "url": "https://open.spotify.com/track/1LM3tWoGx2tRMDKMnEwBjC"
-    },
-    {
-      "added_at": "2024-09-27 03:01:00",
-      "album": {
         "name": "Pista do C\u00e9u (Quase 30)",
         "url": "https://open.spotify.com/album/4ysRL1yOl0Wk8q55x83NTT"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 432000,
       "name": "Pista do C\u00e9u (Quase 30)",
       "url": "https://open.spotify.com/track/2Tkbqw8hvszUvsP71JYUW6"
+    },
+    {
+      "added_at": "2024-09-27 03:01:00",
+      "album": {
+        "name": "A Season Of Remixes",
+        "url": "https://open.spotify.com/album/7jI7E2aLZZucXkAQQlJMEV"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "duration_ms": 251640,
+      "name": "Brighter Day - Kirk's Mix",
+      "url": "https://open.spotify.com/track/1LM3tWoGx2tRMDKMnEwBjC"
     },
     {
       "added_at": "2024-09-27 03:01:00",
@@ -775,22 +775,6 @@
     {
       "added_at": "2024-09-27 03:01:00",
       "album": {
-        "name": "Alegria",
-        "url": "https://open.spotify.com/album/0USMBK9pfUYSxQzxgVweho"
-      },
-      "artists": [
-        {
-          "name": "Jefte Santos",
-          "url": "https://open.spotify.com/artist/4TUiqi45gTMNEPsqhFrggV"
-        }
-      ],
-      "duration_ms": 253354,
-      "name": "Alegria",
-      "url": "https://open.spotify.com/track/2ww4zuX5a7Um872LsdwjKL"
-    },
-    {
-      "added_at": "2024-09-27 03:01:00",
-      "album": {
         "name": "O Dom da Vida",
         "url": "https://open.spotify.com/album/2xMHnMhpOtkx98lntR8SbG"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 228000,
       "name": "O Dom da Vida",
       "url": "https://open.spotify.com/track/4Qj5S80XSf4JihF2IebtVG"
+    },
+    {
+      "added_at": "2024-09-27 03:01:00",
+      "album": {
+        "name": "Alegria",
+        "url": "https://open.spotify.com/album/0USMBK9pfUYSxQzxgVweho"
+      },
+      "artists": [
+        {
+          "name": "Jefte Santos",
+          "url": "https://open.spotify.com/artist/4TUiqi45gTMNEPsqhFrggV"
+        }
+      ],
+      "duration_ms": 253354,
+      "name": "Alegria",
+      "url": "https://open.spotify.com/track/2ww4zuX5a7Um872LsdwjKL"
     },
     {
       "added_at": "2024-09-27 03:01:00",
@@ -1206,11 +1206,15 @@
         {
           "name": "Eli Soares",
           "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
+        },
+        {
+          "name": "Felipe Vilela",
+          "url": "https://open.spotify.com/artist/7oDJQjouTE3FiFv2TXUxPp"
         }
       ],
-      "duration_ms": 258390,
-      "name": "Dele, Com Ele - Ao Vivo",
-      "url": "https://open.spotify.com/track/7CRUMlW5jTgcyQHTVMISED"
+      "duration_ms": 230519,
+      "name": "Viver O Amor - Ao Vivo",
+      "url": "https://open.spotify.com/track/2jJL6Tj2prWHaXnjLMnLcD"
     },
     {
       "added_at": "2024-09-27 03:01:00",
@@ -1222,15 +1226,11 @@
         {
           "name": "Eli Soares",
           "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
-        },
-        {
-          "name": "Felipe Vilela",
-          "url": "https://open.spotify.com/artist/7oDJQjouTE3FiFv2TXUxPp"
         }
       ],
-      "duration_ms": 230519,
-      "name": "Viver O Amor - Ao Vivo",
-      "url": "https://open.spotify.com/track/2jJL6Tj2prWHaXnjLMnLcD"
+      "duration_ms": 258390,
+      "name": "Dele, Com Ele - Ao Vivo",
+      "url": "https://open.spotify.com/track/7CRUMlW5jTgcyQHTVMISED"
     },
     {
       "added_at": "2024-09-27 03:01:00",

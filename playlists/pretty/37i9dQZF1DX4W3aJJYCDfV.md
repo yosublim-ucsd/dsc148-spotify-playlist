@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Coldplay \(pictured\), Perrie, Rachel Chinouriri ft Cat Burns and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 862,489 likes - 119 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 862,559 likes - 119 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,7 +105,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 95 | [Fever](https://open.spotify.com/track/2MdNjzz8wXf0PlfXupqela) | [S.P.Y](https://open.spotify.com/artist/6aJAd8zM1s3Slw64KfsmaF), [T\-Man](https://open.spotify.com/artist/5p0SkCjy1OmhoXPSM5dvW2) | [Fever](https://open.spotify.com/album/07SV9ag0yEoTbXLLWkhaxs) | 3:40 |
 | 96 | [Towards The Dawn](https://open.spotify.com/track/6xrrY73Ths1IJBuWDxE8TZ) | [Public Service Broadcasting](https://open.spotify.com/artist/6VsiDFMZJlJ053P1uO4A6h) | [Towards The Dawn](https://open.spotify.com/album/5KzTRPRbLXif2K3Xx4AsaT) | 3:07 |
 | 97 | [Can't Stop](https://open.spotify.com/track/1Q3VutQu4ZCBMwxQy2Ct5Q) | [JC Stewart](https://open.spotify.com/artist/2TAqN8fwfaKauvviN4pOsv) | [Can't Stop](https://open.spotify.com/album/5ZOzsOjI8kFiILLaG1nD7z) | 3:11 |
-| 98 | [All My Fault](https://open.spotify.com/track/7wswdMKkV4DdNFYCFdQfQU) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s) | [All My Fault](https://open.spotify.com/album/7m6aaDy9EyhUT2wtlEbvwW) | 2:35 |
+| 98 | [All My Fault](https://open.spotify.com/track/7wswdMKkV4DdNFYCFdQfQU) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s), [Thals](https://open.spotify.com/artist/1LDF2JIDwCRoESyjnp7xns) | [All My Fault](https://open.spotify.com/album/7m6aaDy9EyhUT2wtlEbvwW) | 2:35 |
 | 99 | [The Effect](https://open.spotify.com/track/6uaP5kz6aWbiKIi76LktX0) | [Precious Pepala](https://open.spotify.com/artist/2i6GoBzXmwxdD44bUM26M1) | [The Effect](https://open.spotify.com/album/22AvgFCDKVyEw7clejTJcT) | 3:23 |
 | 100 | [Let Go](https://open.spotify.com/track/5BoznWsDzJJrqjoqZZ2qiN) | [Myles Sanko](https://open.spotify.com/artist/0EeY17gAdOJIBjNrpi6q1G) | [Let It Unfold](https://open.spotify.com/album/0jPTgYOgxpyQkrjLxfAe5O) | 4:13 |
 | 101 | [Weekend Release](https://open.spotify.com/track/4nuSOZtY2jRO2hdiKW5ehL) | [Janika Tenn](https://open.spotify.com/artist/5JJ2mNTKFgulclDJxMIyOC), [Todd Terry](https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu), [Tristan Henry](https://open.spotify.com/artist/6UyRsPqWooGjDexC857b1T) | [Weekend Release](https://open.spotify.com/album/7cs732dE0Paj8fGS4nxdxQ) | 3:05 |

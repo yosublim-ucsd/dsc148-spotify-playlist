@@ -4,7 +4,7 @@
 
 > 
 
-1,978 songs - 4 day 10 hr 30 min
+1,979 songs - 4 day 10 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,8 @@
 | [3 Musketeers](https://open.spotify.com/track/57Oi4yqY27uJzCyqFWIP5q) | [NextYoungin](https://open.spotify.com/artist/2e7a6ZMxkwltCzbxHq8b3t), [ppcocaine](https://open.spotify.com/artist/2u1aL8XADqj0nJFHMKRjNw) | [3 Musketeers](https://open.spotify.com/album/21x636uz6Wlo6T5ets8bek) | 2:46 | 2021-08-05 |  |
 | [360](https://open.spotify.com/track/7JxexWxny7yJ3slTLmWz2U) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [360](https://open.spotify.com/album/5UlTVoEmOp7GuZN5PgnUq6) | 2:13 | 2024-05-13 |  |
 | [365](https://open.spotify.com/track/5h68SoVFGleijCtjEja3xG) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 3:23 | 2024-06-11 |  |
-| [365 PARTYGIRL EASYFUN](https://open.spotify.com/track/21cgnjk9unhXn3SBQAAaA9) | [vamp](https://open.spotify.com/artist/19pNKzmfJyEVRpDd179sNP) | [365 PARTYGIRL EASYFUN](https://open.spotify.com/album/52qrtveZ7LAWg0RO1J36A8) | 1:53 | 2024-09-02 |  |
+| [365 PARTYGIRL EASYFUN](https://open.spotify.com/track/1wNjj4mUpv35gY5CzUZCDb) | [Santea2](https://open.spotify.com/artist/1m0xG8stRNnvyrKxnSrbOz) | [365 PARTYGIRL EASYFUN](https://open.spotify.com/album/53sxNSbg497jRQVaT0nynx) | 1:53 | 2024-10-06 |  |
+| [365 PARTYGIRL EASYFUN](https://open.spotify.com/track/21cgnjk9unhXn3SBQAAaA9) | [vamp](https://open.spotify.com/artist/19pNKzmfJyEVRpDd179sNP) | [365 PARTYGIRL EASYFUN](https://open.spotify.com/album/52qrtveZ7LAWg0RO1J36A8) | 1:53 | 2024-09-02 | 2024-10-06 |
 | [4 bit 9d api+e+6 \[126.26\]](https://open.spotify.com/track/3NK7KFnTh3rKCgUvsKIDfi) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Syro](https://open.spotify.com/album/6oRuinkJdTge4hpTuClEF8) | 4:28 | 2022-02-18 |  |
 | [4 Morant](https://open.spotify.com/track/57jFUz9DgJDQXL8LbPWjR3) | [Grindol](https://open.spotify.com/artist/6YgR7mphFTyEB0mZDewlxG) | [4 Morant](https://open.spotify.com/album/1DT3lkFPzSy2slR11GBuiA) | 2:52 | 2022-11-11 |  |
 | [4EVER](https://open.spotify.com/track/5mIOsPuQdXchVY0jB5NO9Q) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [4EVER](https://open.spotify.com/album/7E5bHNtTN25JAw8vJALDz9) | 2:39 | 2021-08-05 |  |

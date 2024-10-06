@@ -1116,7 +1116,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-06",
       "duration_ms": 193146,
       "name": "Adorn",
       "url": "https://open.spotify.com/track/25cUhiAod71TIQSNicOaW3"
@@ -2330,7 +2330,7 @@
       ],
       "date_added": "2023-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-02",
+      "date_removed": null,
       "duration_ms": 463036,
       "name": "Amazwe (feat. Mawhoo)",
       "url": "https://open.spotify.com/track/2Oe52Ggx8lxxI55azZbr5h"
@@ -2600,7 +2600,7 @@
       ],
       "date_added": "2023-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-06",
       "duration_ms": 306847,
       "name": "Angel Numbers / Ten Toes",
       "url": "https://open.spotify.com/track/3XqM8hLCEYlbnFjoWwqtFv"
@@ -3986,6 +3986,28 @@
       "duration_ms": 245760,
       "name": "Bafana (feat. Ba Bethe Gashoazen)",
       "url": "https://open.spotify.com/track/2ObzYvmcVdqU7XryxhcbjG"
+    },
+    {
+      "album": {
+        "name": "Miracle Child",
+        "url": "https://open.spotify.com/album/1glMg9IGPAlUCFduzoU04V"
+      },
+      "artists": [
+        {
+          "name": "Makhadzi Entertainment",
+          "url": "https://open.spotify.com/artist/24Hon9044L6JUKWcqQSjma"
+        },
+        {
+          "name": "Babethe Gashoazen",
+          "url": "https://open.spotify.com/artist/4GlpRsgQev4kO3yl4YhoJs"
+        }
+      ],
+      "date_added": "2024-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245760,
+      "name": "Bafana (feat. Ba Bethe Gashoazen)",
+      "url": "https://open.spotify.com/track/5W6KyyrmTImJK4vGsnfQuZ"
     },
     {
       "album": {
@@ -12040,7 +12062,7 @@
       ],
       "date_added": "2023-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-06",
       "duration_ms": 194613,
       "name": "Exchange",
       "url": "https://open.spotify.com/track/43PuMrRfbyyuz4QpZ3oAwN"
@@ -13624,7 +13646,7 @@
       ],
       "date_added": "2024-04-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-01",
+      "date_removed": null,
       "duration_ms": 377920,
       "name": "Funk 99",
       "url": "https://open.spotify.com/track/6hqel7QjWBsjk1LJG6J0pD"
@@ -17656,7 +17678,7 @@
       ],
       "date_added": "2023-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-03",
+      "date_removed": null,
       "duration_ms": 351200,
       "name": "Imithandazo (feat. Young Stunna, DJ Maphorisa, Sizwe Alakine & Umthakathi Kush)",
       "url": "https://open.spotify.com/track/6Kijtp0DB6VwcoJIw7PJ9W"
@@ -19671,6 +19693,28 @@
     },
     {
       "album": {
+        "name": "Miracle Child",
+        "url": "https://open.spotify.com/album/1glMg9IGPAlUCFduzoU04V"
+      },
+      "artists": [
+        {
+          "name": "Makhadzi Entertainment",
+          "url": "https://open.spotify.com/artist/24Hon9044L6JUKWcqQSjma"
+        },
+        {
+          "name": "Dr Skaro",
+          "url": "https://open.spotify.com/artist/2xkslEBMPDYAZzT2Ws2pUz"
+        }
+      ],
+      "date_added": "2024-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332382,
+      "name": "Jealous Down (feat. Dr Skaro)",
+      "url": "https://open.spotify.com/track/0WowHKVNsbEBaPLZbB4Zmj"
+    },
+    {
+      "album": {
         "name": "Jealous Down (feat. Dr Skaro)",
         "url": "https://open.spotify.com/album/37jtVe8KAy6hx2JjGKOHYH"
       },
@@ -19686,7 +19730,7 @@
       ],
       "date_added": "2024-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-06",
       "duration_ms": 332382,
       "name": "Jealous Down (feat. Dr Skaro)",
       "url": "https://open.spotify.com/track/2VtE5Aen4NmIKQfWxnK9Ai"
@@ -20420,7 +20464,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-06",
       "duration_ms": 325133,
       "name": "KA Letsatsi La Bofelo",
       "url": "https://open.spotify.com/track/3O341svWPBhVY87P1sq0NU"
@@ -20756,7 +20800,7 @@
       ],
       "date_added": "2024-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-06",
       "duration_ms": 122360,
       "name": "KEHLANI",
       "url": "https://open.spotify.com/track/2hrycoFU1mZw6YPvMcn8yC"
@@ -24107,6 +24151,24 @@
     },
     {
       "album": {
+        "name": "Mahlasela",
+        "url": "https://open.spotify.com/album/1jnnWnbDGTGY7hTrNkptqb"
+      },
+      "artists": [
+        {
+          "name": "Benny Mayengani",
+          "url": "https://open.spotify.com/artist/2FeMpbAbLWwC1HuxrUdpzI"
+        }
+      ],
+      "date_added": "2024-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272572,
+      "name": "Magic",
+      "url": "https://open.spotify.com/track/68bIJXIs0wnDUxejyFsQRz"
+    },
+    {
+      "album": {
         "name": "WE DON'T TRUST YOU",
         "url": "https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn"
       },
@@ -24126,6 +24188,24 @@
       "duration_ms": 220733,
       "name": "Magic Don Juan (Princess Diana)",
       "url": "https://open.spotify.com/track/7pBcryEKcUEaWHwAu1wUyP"
+    },
+    {
+      "album": {
+        "name": "Mahlasela",
+        "url": "https://open.spotify.com/album/1jnnWnbDGTGY7hTrNkptqb"
+      },
+      "artists": [
+        {
+          "name": "Benny Mayengani",
+          "url": "https://open.spotify.com/artist/2FeMpbAbLWwC1HuxrUdpzI"
+        }
+      ],
+      "date_added": "2024-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285004,
+      "name": "Mahlasela",
+      "url": "https://open.spotify.com/track/6wlAnmeNkrGHoaKJli2apl"
     },
     {
       "album": {
@@ -24606,7 +24686,7 @@
       ],
       "date_added": "2024-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-03",
+      "date_removed": null,
       "duration_ms": 443556,
       "name": "Manzi Nte (feat. Masterpiece YVK, Ceeka RSA, M.J, Silas Africa & Al Xapo)",
       "url": "https://open.spotify.com/track/4GxZKOak4mz6VmMJUmO4Is"
@@ -27948,7 +28028,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-18",
+      "date_removed": null,
       "duration_ms": 246183,
       "name": "Nhliziyo Yami",
       "url": "https://open.spotify.com/track/1S1K6RxkEkm9a9op800QEk"
@@ -30259,6 +30339,28 @@
     },
     {
       "album": {
+        "name": "Phuthuma",
+        "url": "https://open.spotify.com/album/3b3JHW1M80fVIPfiRCvyEv"
+      },
+      "artists": [
+        {
+          "name": "Cyfred",
+          "url": "https://open.spotify.com/artist/1W5wfiEUdPebJdwmyglKP4"
+        },
+        {
+          "name": "Scotts Maphuma",
+          "url": "https://open.spotify.com/artist/3S4T8XtipStwl34odXn1YS"
+        }
+      ],
+      "date_added": "2024-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323750,
+      "name": "Phuthuma",
+      "url": "https://open.spotify.com/track/1DyNpDv4M8qBTthYIAPvqW"
+    },
+    {
+      "album": {
         "name": "Phuze",
         "url": "https://open.spotify.com/album/4LjhAwYIgU7lqqcM1hUZjv"
       },
@@ -32320,7 +32422,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-06",
       "duration_ms": 215178,
       "name": "Residuals",
       "url": "https://open.spotify.com/track/6txAWGckgEGJIhLjhNdtE9"
@@ -34140,7 +34242,7 @@
       ],
       "date_added": "2024-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-03",
+      "date_removed": null,
       "duration_ms": 551579,
       "name": "Selimathunzi",
       "url": "https://open.spotify.com/track/2HiHffF7XArCZDDn5VNUGM"
@@ -35678,7 +35780,7 @@
       ],
       "date_added": "2022-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-06",
       "duration_ms": 201800,
       "name": "Snooze",
       "url": "https://open.spotify.com/track/4iZ4pt7kvcaH6Yo8UoZ4s2"
@@ -38072,7 +38174,7 @@
       ],
       "date_added": "2024-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-06",
       "duration_ms": 157279,
       "name": "Taste",
       "url": "https://open.spotify.com/track/5G2f63n7IPVPPjfNIGih7Q"
@@ -41906,7 +42008,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-06",
       "duration_ms": 184613,
       "name": "Under The Influence",
       "url": "https://open.spotify.com/track/5IgjP7X4th6nMNDh4akUHb"
@@ -44912,7 +45014,7 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-06",
       "duration_ms": 261466,
       "name": "WILDFLOWER",
       "url": "https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h"

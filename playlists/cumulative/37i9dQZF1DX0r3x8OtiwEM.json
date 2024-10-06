@@ -9824,7 +9824,7 @@
       ],
       "date_added": "2023-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-06",
       "duration_ms": 429055,
       "name": "Shapes in the Spray",
       "url": "https://open.spotify.com/track/6h3ZomURqLW7JkM2S66FFL"
@@ -11766,6 +11766,32 @@
       "duration_ms": 298120,
       "name": "Toni",
       "url": "https://open.spotify.com/track/1pCKUgc3yk3F9Mt0MTX51o"
+    },
+    {
+      "album": {
+        "name": "Promised Land (Remixes)",
+        "url": "https://open.spotify.com/album/7y2Ql92gRjn5vdf1pE8Dhn"
+      },
+      "artists": [
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        },
+        {
+          "name": "The Temper Trap",
+          "url": "https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq"
+        },
+        {
+          "name": "K\u00f6lsch",
+          "url": "https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254395,
+      "name": "Too Far Down The Trap - K\u00f6lsch Remix",
+      "url": "https://open.spotify.com/track/2HBcyKXs7ahHDssSJ9goSq"
     },
     {
       "album": {

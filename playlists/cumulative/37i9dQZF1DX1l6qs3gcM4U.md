@@ -4,7 +4,7 @@
 
 > Fall in love with the sensual sounds of Kizomba! Cover: Cleyton David, Tamyris Moiane
 
-420 songs - 1 day 0 hr 47 min
+420 songs - 1 day 0 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [Ar que eu Respiro](https://open.spotify.com/track/5VNEmowzM1mq3aDXBHt0K8) | [The Nitrox](https://open.spotify.com/artist/1QHmQj5zO28KW6Af9MQ8xj) | [Ar que eu Respiro](https://open.spotify.com/album/3JL8oqCrugYHWSw72nSkOX) | 3:08 | 2022-07-07 | 2022-07-25 |
 | [Arrepios](https://open.spotify.com/track/2T4d9glIWZ0hieegaHFU84) | [Soarito](https://open.spotify.com/artist/4Gbn1gCF4FzZ08ST13lesv) | [Caixa Azul](https://open.spotify.com/album/01cC39lWhez36xLYn5jRsI) | 3:22 | 2023-12-08 | 2024-04-19 |
 | [Arrepios](https://open.spotify.com/track/7KBOMXpAmxO7kmPpyj43vb) | [Soarito](https://open.spotify.com/artist/4Gbn1gCF4FzZ08ST13lesv) | [Arrepios](https://open.spotify.com/album/430jQV4UrweqvoV5osODxI) | 3:24 | 2022-05-26 | 2023-12-08 |
-| [Au revoir](https://open.spotify.com/track/4oMjvchKYV7mlrxJ50byCe) | [Cubita](https://open.spotify.com/artist/22uy6DyvpF9Vt2PMWSm5di) | [Au revoir](https://open.spotify.com/album/0FeMKRGs3x5kA5s0ZwZYu2) | 3:54 | 2021-12-10 | 2024-09-26 |
+| [Au revoir](https://open.spotify.com/track/4oMjvchKYV7mlrxJ50byCe) | [Cubita](https://open.spotify.com/artist/22uy6DyvpF9Vt2PMWSm5di) | [Au revoir](https://open.spotify.com/album/0FeMKRGs3x5kA5s0ZwZYu2) | 3:54 | 2021-12-10 |  |
 | [AVÉ](https://open.spotify.com/track/6D9rsde59fT5cHjTqyWz6c) | [Djodje](https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo) | [AVÉ](https://open.spotify.com/album/4Yqrh5FabMU4qXPf4161BA) | 2:52 | 2022-11-18 |  |
 | [Ayah](https://open.spotify.com/track/5LaVfWrjLovRtGzrzvJN9a) | [Irina Barros](https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj), [Gerilson Insrael](https://open.spotify.com/artist/4VnA54lsQnc9ImvrEY34fO) | [Ayah](https://open.spotify.com/album/5QLgF0BFmcrhgIwDeNJemY) | 2:43 | 2023-03-30 | 2024-09-03 |
 | [Babe](https://open.spotify.com/track/0yRWRVOjrrAvxOQ9ykRjM5) | [Nice Life](https://open.spotify.com/artist/3aItXxnatnsBD8y7r80GuZ), [Bruce africa](https://open.spotify.com/artist/71XhX7PEkpLijcVUJuEcI3) | [Babe](https://open.spotify.com/album/2bkpENCLszFR5ZFu86zZEo) | 2:59 | 2024-03-15 | 2024-04-26 |
@@ -243,7 +243,7 @@
 | [Na tua Back \- Afro Love Remix](https://open.spotify.com/track/3WCKvFMwZvSlktfxRWyvq2) | [Atim](https://open.spotify.com/artist/6iFLWK7YxKQc9r5WPdoyJr), [Stephane Silva Dos Santos](https://open.spotify.com/artist/23jd0fVNwCP8zdInSnIvp9) | [Na tua Back \(Afro Love Remix\)](https://open.spotify.com/album/1IlGaHNPxLUvxzry42ojNS) | 2:31 | 2022-01-21 | 2022-02-04 |
 | [Na Via](https://open.spotify.com/track/0QUHa76fheJJ4dFetV2MhV) | [JP da Maika](https://open.spotify.com/artist/5SwwERvBGTyuz8UlXepZvr), [Sarissari](https://open.spotify.com/artist/3RxLhhb4DGlxpXnmSDqC8b) | [Na Via](https://open.spotify.com/album/5wp8n4cf3laS677a8a3MNZ) | 3:38 | 2021-12-10 | 2022-02-14 |
 | [Nca Ta Skeci Di Bo](https://open.spotify.com/track/1AiyJdcuWjyBQvr284pEKy) | [Tony Fika](https://open.spotify.com/artist/2eOz5uQonlXVK464N4pVUt), [Garry](https://open.spotify.com/artist/3U0IGidZSk3ObLUMwDxVxS) | [Nca Ta Skeci Di Bo](https://open.spotify.com/album/2s2vZp87q6mM87iQLdNfCW) | 3:51 | 2022-05-26 | 2022-06-07 |
-| [Nha bebé](https://open.spotify.com/track/5HpO8wk2BrbW1F3F57brE7) | [Jennifer Dias](https://open.spotify.com/artist/45qwEAGFSoIAhlRJqYZIml) | [Nha bebé](https://open.spotify.com/album/4dlOwAga2XZZ2QHYp9XUAu) | 3:25 | 2024-05-16 |  |
+| [Nha bebé](https://open.spotify.com/track/5HpO8wk2BrbW1F3F57brE7) | [Jennifer Dias](https://open.spotify.com/artist/45qwEAGFSoIAhlRJqYZIml) | [Nha bebé](https://open.spotify.com/album/4dlOwAga2XZZ2QHYp9XUAu) | 3:25 | 2024-05-16 | 2024-10-06 |
 | [Nha Love](https://open.spotify.com/track/6VlC9B6pTO5BNZozsm2j7w) | [Djodje](https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo) | [Nha Love](https://open.spotify.com/album/1inJQsJMoKg8QOzG5Ff02T) | 3:14 | 2023-04-27 | 2024-03-23 |
 | [Nha Mos](https://open.spotify.com/track/0qD5EcVudLAqPhJfnkdA3m) | [Neyna](https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7) | [Nha Mos](https://open.spotify.com/album/4YsmkX7Bv5xoCcGYQEKxa0) | 3:16 | 2021-12-10 |  |
 | [Nha Mundo](https://open.spotify.com/track/51xWDxwBkvHSOit4VP6hYz) | [Josslyn](https://open.spotify.com/artist/7DaYWbVfmn3AtcUJua9yYF), [Edgar Domingos](https://open.spotify.com/artist/24ln2MhGkr8aWPhqrgQ7LZ) | [Nha Mundo](https://open.spotify.com/album/2UzfdDx3DTlRau6nFKPe90) | 3:18 | 2021-12-10 | 2022-02-16 |
@@ -290,7 +290,7 @@
 | [Parece Magia](https://open.spotify.com/track/18YNXtBfIAC8OuBENVZULb) | [Da Silva](https://open.spotify.com/artist/0VbLf7VNOS7UfPfxRGF02E) | [Parece Magia](https://open.spotify.com/album/4soPzDjJTGJCCm8i5gseoB) | 3:14 | 2022-05-13 | 2022-05-31 |
 | [Pele Negra](https://open.spotify.com/track/1Y2alA2MIN3Qpj8T6yAxJN) | [C4 Pedro](https://open.spotify.com/artist/5IccCciXwIjKPROLcD1Qao) | [Pele Negra](https://open.spotify.com/album/0f21KuFAIbz8Bw7ExD1koZ) | 4:05 | 2021-12-10 | 2024-07-12 |
 | [Pele Pele](https://open.spotify.com/track/2bSosZIgEuwI0bcYV0LsGc) | [The Nitrox](https://open.spotify.com/artist/1QHmQj5zO28KW6Af9MQ8xj) | [Pele Pele](https://open.spotify.com/album/78C0t64PP514Y5nsMbTkRk) | 3:08 | 2022-05-13 | 2022-05-25 |
-| [Pelo Amor de Deus](https://open.spotify.com/track/5eD71okAFMIoaNien4WXzQ) | [Kaysha](https://open.spotify.com/artist/2DBaDAcrh5sf17yR1qbnsy), [Malcom Beatz](https://open.spotify.com/artist/7zVHCWAKJW7cBHUmn782p2) | [Pelo Amor de Deus](https://open.spotify.com/album/0oSa4KD4PT4TuYaF9OH0C9) | 3:37 | 2024-10-03 |  |
+| [Pelo Amor de Deus](https://open.spotify.com/track/5eD71okAFMIoaNien4WXzQ) | [Kaysha](https://open.spotify.com/artist/2DBaDAcrh5sf17yR1qbnsy), [Malcom Beatz](https://open.spotify.com/artist/7zVHCWAKJW7cBHUmn782p2) | [Pelo Amor de Deus](https://open.spotify.com/album/0oSa4KD4PT4TuYaF9OH0C9) | 3:33 | 2024-10-03 |  |
 | [Perde Voo](https://open.spotify.com/track/0iMHeQ3WI6bHzQBkb6JpFB) | [William Araujo](https://open.spotify.com/artist/0Y8ziaoma06j8kuFH2rjon) | [Perde Voo](https://open.spotify.com/album/2cqYflO6WXlnfzZQF9ULQj) | 3:06 | 2021-12-10 | 2022-07-15 |
 | [Perigosa \(feat\. Anselmo Ralph\)](https://open.spotify.com/track/0r2ZBAHKX36U3do2a3E0Vd) | [C4 Pedro](https://open.spotify.com/artist/5IccCciXwIjKPROLcD1Qao), [Anselmo Ralph](https://open.spotify.com/artist/1ts2oIXKCpWSRFnR78bulp) | [Perigosa \(feat\. Anselmo Ralph\)](https://open.spotify.com/album/4qqYgCeX9DdyG9Seds57QX) | 3:38 | 2021-12-10 | 2023-02-17 |
 | [Pesadelo](https://open.spotify.com/track/14ARu7hPD42NU1adhNPCo0) | [Dynamo](https://open.spotify.com/artist/6QIDj58kioY2urnpvAttwi) | [Pesadelo](https://open.spotify.com/album/3dnAjufiPKEgkngtFr8dcR) | 3:32 | 2023-09-21 | 2023-09-29 |

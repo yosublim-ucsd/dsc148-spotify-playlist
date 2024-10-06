@@ -1,6 +1,6 @@
 {
   "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: Richie Campbell",
-  "num_followers": 47353,
+  "num_followers": 47365,
   "original_name": "Seda",
   "owner": {
     "name": "Spotify",
@@ -379,22 +379,6 @@
     {
       "added_at": "2024-10-03 23:00:00",
       "album": {
-        "name": "Por Enquanto",
-        "url": "https://open.spotify.com/album/1uFTodamqWqlk5KwYkqy0n"
-      },
-      "artists": [
-        {
-          "name": "Plutonio",
-          "url": "https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G"
-        }
-      ],
-      "duration_ms": 142341,
-      "name": "Por Enquanto",
-      "url": "https://open.spotify.com/track/5fjD0vHh9XRL6b657FWe9C"
-    },
-    {
-      "added_at": "2024-10-03 23:00:00",
-      "album": {
         "name": "Lisboa",
         "url": "https://open.spotify.com/album/4fg5poNVFhqlldfPzrPrMh"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 243180,
       "name": "Do You No Wrong",
       "url": "https://open.spotify.com/track/6FInCuMbSlhdlkiFv36KUi"
+    },
+    {
+      "added_at": "2024-10-03 23:00:00",
+      "album": {
+        "name": "Por Enquanto",
+        "url": "https://open.spotify.com/album/1uFTodamqWqlk5KwYkqy0n"
+      },
+      "artists": [
+        {
+          "name": "Plutonio",
+          "url": "https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G"
+        }
+      ],
+      "duration_ms": 142341,
+      "name": "Por Enquanto",
+      "url": "https://open.spotify.com/track/5fjD0vHh9XRL6b657FWe9C"
     },
     {
       "added_at": "2024-10-03 23:00:00",
@@ -823,22 +823,6 @@
     {
       "added_at": "2024-10-03 23:00:00",
       "album": {
-        "name": "do.mar",
-        "url": "https://open.spotify.com/album/4chPUBJXFpxBagtuD5l0rq"
-      },
-      "artists": [
-        {
-          "name": "Van Zee",
-          "url": "https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS"
-        }
-      ],
-      "duration_ms": 182876,
-      "name": "23:40",
-      "url": "https://open.spotify.com/track/1M6DxA2Ql8FUfstms0kHI3"
-    },
-    {
-      "added_at": "2024-10-03 23:00:00",
-      "album": {
         "name": "Dama & Vagabundo",
         "url": "https://open.spotify.com/album/4BKUmz50VANU1McCxFG9oM"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 313825,
       "name": "Dama & Vagabundo",
       "url": "https://open.spotify.com/track/2u1LLm7B1yUggZfMyaZjk9"
+    },
+    {
+      "added_at": "2024-10-03 23:00:00",
+      "album": {
+        "name": "do.mar",
+        "url": "https://open.spotify.com/album/4chPUBJXFpxBagtuD5l0rq"
+      },
+      "artists": [
+        {
+          "name": "Van Zee",
+          "url": "https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS"
+        }
+      ],
+      "duration_ms": 182876,
+      "name": "23:40",
+      "url": "https://open.spotify.com/track/1M6DxA2Ql8FUfstms0kHI3"
     },
     {
       "added_at": "2024-10-03 23:00:00",
@@ -955,22 +955,6 @@
     {
       "added_at": "2024-10-03 23:00:00",
       "album": {
-        "name": "Para Casa",
-        "url": "https://open.spotify.com/album/0lWNCrwclxbyAuXw8bSpx7"
-      },
-      "artists": [
-        {
-          "name": "Van Zee",
-          "url": "https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS"
-        }
-      ],
-      "duration_ms": 248421,
-      "name": "Para Casa",
-      "url": "https://open.spotify.com/track/0mntIfcQjuA3Zc4xx7Pm8a"
-    },
-    {
-      "added_at": "2024-10-03 23:00:00",
-      "album": {
         "name": "Contigo",
         "url": "https://open.spotify.com/album/59FAPnQlBADxOZsaaHkdXb"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 208119,
       "name": "Contigo",
       "url": "https://open.spotify.com/track/05O2kCMeVH9SwXzmUCs0dB"
+    },
+    {
+      "added_at": "2024-10-03 23:00:00",
+      "album": {
+        "name": "Para Casa",
+        "url": "https://open.spotify.com/album/0lWNCrwclxbyAuXw8bSpx7"
+      },
+      "artists": [
+        {
+          "name": "Van Zee",
+          "url": "https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS"
+        }
+      ],
+      "duration_ms": 248421,
+      "name": "Para Casa",
+      "url": "https://open.spotify.com/track/0mntIfcQjuA3Zc4xx7Pm8a"
     },
     {
       "added_at": "2024-10-03 23:00:00",
@@ -1127,6 +1127,22 @@
     {
       "added_at": "2024-10-03 23:00:00",
       "album": {
+        "name": "longe.com",
+        "url": "https://open.spotify.com/album/6egKDfB8eutMUNy9pyxbbA"
+      },
+      "artists": [
+        {
+          "name": "pikika",
+          "url": "https://open.spotify.com/artist/2l9cXS6ljQtg4wOGYR94WN"
+        }
+      ],
+      "duration_ms": 197511,
+      "name": "longe.com",
+      "url": "https://open.spotify.com/track/5tuN13MrEiNOGFW9cvhhzv"
+    },
+    {
+      "added_at": "2024-10-03 23:00:00",
+      "album": {
         "name": "\u00c0 Tua Porta",
         "url": "https://open.spotify.com/album/7gYGEPMjrZIad5Lk6mous8"
       },
@@ -1143,22 +1159,6 @@
       "duration_ms": 211636,
       "name": "\u00c0 Tua Porta",
       "url": "https://open.spotify.com/track/5gWEoHkpYex8mi50RCZ3ll"
-    },
-    {
-      "added_at": "2024-10-03 23:00:00",
-      "album": {
-        "name": "longe.com",
-        "url": "https://open.spotify.com/album/6egKDfB8eutMUNy9pyxbbA"
-      },
-      "artists": [
-        {
-          "name": "pikika",
-          "url": "https://open.spotify.com/artist/2l9cXS6ljQtg4wOGYR94WN"
-        }
-      ],
-      "duration_ms": 197511,
-      "name": "longe.com",
-      "url": "https://open.spotify.com/track/5tuN13MrEiNOGFW9cvhhzv"
     },
     {
       "added_at": "2024-10-03 23:00:00",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2024-10-03 23:00:00",
       "album": {
-        "name": "Par Perfeito",
-        "url": "https://open.spotify.com/album/6TjeNnMWpVYxdNwxOndcLP"
-      },
-      "artists": [
-        {
-          "name": "CADU",
-          "url": "https://open.spotify.com/artist/632Kw78b8XGotuWxpKV2A3"
-        }
-      ],
-      "duration_ms": 153400,
-      "name": "Convite",
-      "url": "https://open.spotify.com/track/3MLsf0fu4JmIywg73Bs2ej"
-    },
-    {
-      "added_at": "2024-10-03 23:00:00",
-      "album": {
         "name": "Anos 90",
         "url": "https://open.spotify.com/album/3Wh3pWc5yYWpy5JerOiP8T"
       },
@@ -1379,18 +1363,18 @@
     {
       "added_at": "2024-10-03 23:00:00",
       "album": {
-        "name": "Partimento",
-        "url": "https://open.spotify.com/album/4BpbosuLKEhM0UTvKHcAF7"
+        "name": "Par Perfeito",
+        "url": "https://open.spotify.com/album/6TjeNnMWpVYxdNwxOndcLP"
       },
       "artists": [
         {
-          "name": "Supa Squad",
-          "url": "https://open.spotify.com/artist/4kMEocHCIwaO4u4J01U8Dw"
+          "name": "CADU",
+          "url": "https://open.spotify.com/artist/632Kw78b8XGotuWxpKV2A3"
         }
       ],
-      "duration_ms": 113142,
-      "name": "Partimento",
-      "url": "https://open.spotify.com/track/2YEA1CW7n1Aa60AU2Vp9gM"
+      "duration_ms": 153400,
+      "name": "Convite",
+      "url": "https://open.spotify.com/track/3MLsf0fu4JmIywg73Bs2ej"
     },
     {
       "added_at": "2024-10-03 23:00:00",
@@ -1407,6 +1391,22 @@
       "duration_ms": 160982,
       "name": "Alma do Neg\u00f3cio",
       "url": "https://open.spotify.com/track/6f8jLGeRkS0nyWifN1Y58E"
+    },
+    {
+      "added_at": "2024-10-03 23:00:00",
+      "album": {
+        "name": "Partimento",
+        "url": "https://open.spotify.com/album/4BpbosuLKEhM0UTvKHcAF7"
+      },
+      "artists": [
+        {
+          "name": "Supa Squad",
+          "url": "https://open.spotify.com/artist/4kMEocHCIwaO4u4J01U8Dw"
+        }
+      ],
+      "duration_ms": 113142,
+      "name": "Partimento",
+      "url": "https://open.spotify.com/track/2YEA1CW7n1Aa60AU2Vp9gM"
     }
   ],
   "unique_name": "Seda",

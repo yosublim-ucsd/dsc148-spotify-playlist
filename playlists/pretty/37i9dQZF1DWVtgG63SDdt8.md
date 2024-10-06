@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all Christian, Gospel, Worship & Inspirational music genres this week!  Cover: <a href="spotify:artist:0TgNiaeQaWssaH9aWjbqnA">Jordan Feliz</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 336,459 likes - 100 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 336,507 likes - 100 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 16 | [gracious](https://open.spotify.com/track/4LB87AcU2R1ANe8RuzQgqj) | [Simply Worship](https://open.spotify.com/artist/5UucvApgxhrt1ZXON01nkM), [Ingunn](https://open.spotify.com/artist/0qqTRZQ0qZ1aE3vagkMOul) | [gracious](https://open.spotify.com/album/4EBdUCBXP4QJVEOUGMKcIL) | 3:38 |
 | 17 | [Isn't God Good](https://open.spotify.com/track/0PEYadryLod1zhOTiQsu1o) | [Caleb and Kelsey](https://open.spotify.com/artist/7l0sphz32GV0AjjEhECpVg) | [Isn't God Good](https://open.spotify.com/album/1U7KYpHHgsa5MqcPUItkxN) | 4:09 |
 | 18 | [All In \- Single Version](https://open.spotify.com/track/1YzcMWwvQ0HaIscuN2t0Ce) | [Influence Music](https://open.spotify.com/artist/7ory6rfLtmQet7a16o4vvC), [Jonathan Traylor](https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo), [Whitney Medina](https://open.spotify.com/artist/2aEALllrzX6yHYGQkQ3jgZ) | [All In](https://open.spotify.com/album/6MyNOFGRPQncNC9FpcBi3x) | 3:33 |
-| 19 | [Worship Works \- Live from VOUSCon](https://open.spotify.com/track/4hZqNQLzdO6k4kiukI4mp5) | [VOUS Worship](https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb) | [Worship Works \(Live from VOUSCon\)](https://open.spotify.com/album/1A2ASwKjLODbCXCGnEFXYE) | 5:34 |
+| 19 | [Worship Works \- Live from VOUSCon](https://open.spotify.com/track/4hZqNQLzdO6k4kiukI4mp5) | [VOUS Worship](https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb), [Ryan Horton](https://open.spotify.com/artist/3TYiYJLd8SVrIOprwpTGVa) | [Worship Works \(Live from VOUSCon\)](https://open.spotify.com/album/1A2ASwKjLODbCXCGnEFXYE) | 5:34 |
 | 20 | [Now to Him \(feat\. Bella Stebbins\)](https://open.spotify.com/track/5X1xm8u0G3Nggia9ygI0jx) | [River Valley Worship](https://open.spotify.com/artist/1VXCIEol192OgSF9VzowGV), [Bella Stebbins](https://open.spotify.com/artist/06HAV1wwdwtWovTiQeeA92) | [Now To Him](https://open.spotify.com/album/2vdxMaGVuz6FHRlImU7x5e) | 5:03 |
 | 21 | [The Lamb, The Lion, The King \(Radio Edit\)](https://open.spotify.com/track/3SndRlTwm19YHsRyVDCGrF) | [Meredith Andrews](https://open.spotify.com/artist/6qk2W9h3eE5UtPJlIatzsY) | [The Lamb, The Lion, The King \(Radio Edit\)](https://open.spotify.com/album/5ZS72zkoS9MHZc8MsIZOt4) | 3:52 |
 | 22 | [Stand Firm](https://open.spotify.com/track/3Cqaqx89L3DJHWD10pgESH) | [Dreaming The Impossible](https://open.spotify.com/artist/2EqD1GwqOZoVc29Ru6y5Dm), [Vineyard Worship](https://open.spotify.com/artist/7cvnCTBvMm6OvTutfCpxjL) | [Stand Firm](https://open.spotify.com/album/4qrCqqXLBE8os86yLkC8AO) | 3:49 |

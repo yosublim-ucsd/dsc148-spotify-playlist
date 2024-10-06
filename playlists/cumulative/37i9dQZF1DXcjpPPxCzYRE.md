@@ -4,7 +4,7 @@
 
 > Música tranquila para evadirse.
 
-299 songs - 17 hr 18 min
+300 songs - 17 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,7 @@
 | [CASIPUEDOOLERTE](https://open.spotify.com/track/4Ehq0uN6TYzexj2k1Sde9T) | [PALOMA PALOMA](https://open.spotify.com/artist/1dvIew9yk9v7pTp1OeFTpm) | [CASIPUEDOOLERTE](https://open.spotify.com/album/3Su6riSp1IFOy2BXShjlmQ) | 2:36 | 2024-07-12 |  |
 | [Catch & Release \(Deepend remix\)](https://open.spotify.com/track/4FqrgfKej2jv450UFW6PP8) | [Matt Simons](https://open.spotify.com/artist/1g0fXhQMHAxlRyIBkCbuE7), [Deepend](https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B) | [Catch & Release \(Deepend Remix\)](https://open.spotify.com/album/5sqntSzkY2R20wXnHIzhlv) | 3:15 | 2024-04-11 |  |
 | [Catch & Release \- Deepend Remix](https://open.spotify.com/track/11BAVEGi1ivJ6JWLqKUNrZ) | [Matt Simons](https://open.spotify.com/artist/1g0fXhQMHAxlRyIBkCbuE7), [Deepend](https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B) | [When The Lights Go Down](https://open.spotify.com/album/58QMygeIUrtywKMkasnDUk) | 3:15 | 2022-11-11 | 2024-04-19 |
-| [Caímos las dos](https://open.spotify.com/track/6S0HcJIXspRbgATV3SRI9J) | [lusillón](https://open.spotify.com/artist/3boSqy30OQ3ES9e3UJb6Up) | [Pensando mucho y mal](https://open.spotify.com/album/54rBXLxgSP5rNTpjA0UBgp) | 2:45 | 2024-04-11 |  |
+| [Caímos las dos](https://open.spotify.com/track/6S0HcJIXspRbgATV3SRI9J) | [lusillón](https://open.spotify.com/artist/3boSqy30OQ3ES9e3UJb6Up) | [Pensando mucho y mal](https://open.spotify.com/album/54rBXLxgSP5rNTpjA0UBgp) | 2:45 | 2024-04-11 | 2024-10-06 |
 | [Change It All](https://open.spotify.com/track/7lWKpA4JZrGVqYURuz7cnu) | [Harrison Storm](https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx) | [Change It All](https://open.spotify.com/album/0dkUKtlAdUxzlhmvS4BVmU) | 4:07 | 2022-11-11 | 2023-07-07 |
 | [Chilleando por Madrid](https://open.spotify.com/track/5aMpFYfR9ixFBje9eeZMGE) | [Veve Milah](https://open.spotify.com/artist/4U1aujuzk3gLF3v0HNWZET), [Raphael Karell](https://open.spotify.com/artist/0rzj1DUlP3tDKSVQhSkpv8) | [Chilleando por Madrid](https://open.spotify.com/album/3vNNIS0eZY0cu45dYfq6q8) | 3:54 | 2023-06-09 |  |
 | [Cieguita](https://open.spotify.com/track/2cqrxmFu6kQwlV9E3QnbBh) | [DALILA](https://open.spotify.com/artist/7CNhaJPKRhrcKfVgQY1EWO), [tontimer weber](https://open.spotify.com/artist/4V31E6EFu5yCqf49e5WwAH) | [Cieguita "Los Remixes"](https://open.spotify.com/album/6Dyzm69MdAu3lP4aEdfwXx) | 4:56 | 2023-05-12 | 2023-10-24 |
@@ -151,6 +151,7 @@
 | [Jesus, Etc.](https://open.spotify.com/track/4wd09wCccmxUB7XVJp0RNn) | [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [Yankee Hotel Foxtrot](https://open.spotify.com/album/0rPtXOMN42nsLDiShvGamv) | 3:51 | 2022-11-11 |  |
 | [Jolene](https://open.spotify.com/track/2fSIF8CJhoc9CJhF9vJDXp) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Trouble](https://open.spotify.com/album/2DQHgaOMVOs2OKLaksiMx9) | 4:10 | 2022-11-11 | 2023-07-07 |
 | [just wanna forget you](https://open.spotify.com/track/67sznBMSDKrj1zeFFNCQHo) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [hortelã](https://open.spotify.com/album/3oMdmDwmhLfCrP2Tmvg6DU) | 4:49 | 2023-04-20 | 2024-03-15 |
+| [KALO KAKO](https://open.spotify.com/track/6jEZAcHnK8vBGDq1wdcS32) | [el miyu](https://open.spotify.com/artist/3ybkQhkPO8zpkdcatHFOiO) | [KALO KAKO](https://open.spotify.com/album/0FoMIx2LHRSpu7zfsOHClB) | 2:28 | 2024-10-01 |  |
 | [Karma](https://open.spotify.com/track/5hBg4Ndb5n80A24qOxvLrl) | [Jea Mira](https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3) | [Karma](https://open.spotify.com/album/0nytfi2xw7vYF04PRdEnNW) | 2:35 | 2024-06-21 | 2024-08-03 |
 | [Kevin](https://open.spotify.com/track/1CWVTz4v0IHU3mPouSuZKZ) | [Ferran Palau](https://open.spotify.com/artist/7h0Xj4rDQMndEq2JsZZVzM) | [Kevin](https://open.spotify.com/album/3EOPENikNPh26ZofamfSTT) | 3:23 | 2024-06-06 |  |
 | [La despedía](https://open.spotify.com/track/6uFo70OQW1xEDeCLyzrlnZ) | [Maestro Espada](https://open.spotify.com/artist/1nlawfs0lTdtL6cVPGvQLu) | [La despedía](https://open.spotify.com/album/5emUivXp1bA0pHQZcVgcKQ) | 3:32 | 2024-07-12 |  |

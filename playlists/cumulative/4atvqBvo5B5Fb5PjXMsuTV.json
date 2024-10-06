@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-26",
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 05 Oct 22:03 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 06 Oct 22:03 UTC.",
   "name": "New Singles Now",
   "tracks": [
     {
@@ -190,7 +190,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-06",
       "duration_ms": 154418,
       "name": "10 PERCS",
       "url": "https://open.spotify.com/track/6kUG8UG5fovxdzw5N9WJw2"
@@ -1306,6 +1306,28 @@
       "duration_ms": 172597,
       "name": "Active",
       "url": "https://open.spotify.com/track/2TOk5OzW5sL83ndKYZJmU7"
+    },
+    {
+      "album": {
+        "name": "ADHD",
+        "url": "https://open.spotify.com/album/2XplKfwnm8fGcjd2zag15X"
+      },
+      "artists": [
+        {
+          "name": "Russ Millions",
+          "url": "https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p"
+        },
+        {
+          "name": "Buni",
+          "url": "https://open.spotify.com/artist/5AiY4bxeXerLXx03JADdQv"
+        }
+      ],
+      "date_added": "2024-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125957,
+      "name": "ADHD",
+      "url": "https://open.spotify.com/track/78u5VoZnPetcm1KVzkLsO3"
     },
     {
       "album": {
@@ -3010,6 +3032,24 @@
       "duration_ms": 88290,
       "name": "armory",
       "url": "https://open.spotify.com/track/2xoOFHOHLXuRhXq6WHE3C3"
+    },
+    {
+      "album": {
+        "name": "Around Me",
+        "url": "https://open.spotify.com/album/637AZlOAncgk471qGUVCvP"
+      },
+      "artists": [
+        {
+          "name": "No Guidnce",
+          "url": "https://open.spotify.com/artist/4jE1yavE4c5IR1hhM4wHhY"
+        }
+      ],
+      "date_added": "2024-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174497,
+      "name": "Around Me",
+      "url": "https://open.spotify.com/track/1YEVx89VQ53Lj96DuDs6Et"
     },
     {
       "album": {
@@ -5258,7 +5298,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-06",
       "duration_ms": 179433,
       "name": "Bird Business (feat. Rylo Rodriguez)",
       "url": "https://open.spotify.com/track/0cN4LkGzfWtfJtIo4WHuuf"
@@ -17306,7 +17346,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-06",
       "duration_ms": 196153,
       "name": "fxlling in love (feat. whatsaheart)",
       "url": "https://open.spotify.com/track/7wzSukJHjwNXiJ0TmXHFzn"
@@ -19162,7 +19202,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-06",
       "duration_ms": 233139,
       "name": "Growing Up",
       "url": "https://open.spotify.com/track/4JfCAr96utJ1pHKXQr6Hzd"
@@ -22589,6 +22629,24 @@
     },
     {
       "album": {
+        "name": "I Wish That I Could Fall",
+        "url": "https://open.spotify.com/album/1oncPFOhxO6u3MrdS8UDkv"
+      },
+      "artists": [
+        {
+          "name": "Jamie Paige",
+          "url": "https://open.spotify.com/artist/790JtoMXsEVQqzkerV3xuf"
+        }
+      ],
+      "date_added": "2024-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277714,
+      "name": "I Wish That I Could Fall",
+      "url": "https://open.spotify.com/track/4tQ7N9ut79KTQX48am8kOG"
+    },
+    {
+      "album": {
         "name": "I Wonder",
         "url": "https://open.spotify.com/album/4SkXs6ZdXQRSvh56zSwOju"
       },
@@ -22666,7 +22724,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-06",
       "duration_ms": 132705,
       "name": "i'll be your lungs",
       "url": "https://open.spotify.com/track/2JzK1WlU9WIM37bV6X6F4j"
@@ -27067,6 +27125,24 @@
     },
     {
       "album": {
+        "name": "Look Mom I Can Fly",
+        "url": "https://open.spotify.com/album/0o3f7b60eTbTl45rnpXSO8"
+      },
+      "artists": [
+        {
+          "name": "Livingston",
+          "url": "https://open.spotify.com/artist/2fPsJqR6zfoHatC1eFr0eQ"
+        }
+      ],
+      "date_added": "2024-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159816,
+      "name": "Look Mom I Can Fly",
+      "url": "https://open.spotify.com/track/1yMwQ6ELSs25SrByyhrUP4"
+    },
+    {
+      "album": {
         "name": "Lord Have Mercy Im Bout to Bust !",
         "url": "https://open.spotify.com/album/1qP6JVCpeHWHYesoDYZjw0"
       },
@@ -27510,7 +27586,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-06",
       "duration_ms": 126320,
       "name": "Love U",
       "url": "https://open.spotify.com/track/7GzV9dnPDBhl3WYaXBq9t2"
@@ -32879,6 +32955,24 @@
     },
     {
       "album": {
+        "name": "One On One",
+        "url": "https://open.spotify.com/album/5P4LHmJvYMQmBRuRIesoDr"
+      },
+      "artists": [
+        {
+          "name": "AJ Mitchell",
+          "url": "https://open.spotify.com/artist/6dn6x1XOng3LOAnfTjUn77"
+        }
+      ],
+      "date_added": "2024-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "One On One",
+      "url": "https://open.spotify.com/track/0dX6TCuCSb5vtqtmNekXec"
+    },
+    {
+      "album": {
         "name": "ONE TULIP//",
         "url": "https://open.spotify.com/album/5gsKdAaibHqG8nyWohWKhf"
       },
@@ -34712,6 +34806,24 @@
       "duration_ms": 188264,
       "name": "Plus & Minus",
       "url": "https://open.spotify.com/track/6K7TDfj9Ne1FMIsKH3pUFF"
+    },
+    {
+      "album": {
+        "name": "Pocket",
+        "url": "https://open.spotify.com/album/54k3VeImklBEjV3faF7OjP"
+      },
+      "artists": [
+        {
+          "name": "Rag'n'Bone Man",
+          "url": "https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf"
+        }
+      ],
+      "date_added": "2024-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205887,
+      "name": "Pocket",
+      "url": "https://open.spotify.com/track/4yhCi2ZN3L3OLkgipYvbkg"
     },
     {
       "album": {
@@ -37950,6 +38062,36 @@
       "duration_ms": 163920,
       "name": "SAD KIDS",
       "url": "https://open.spotify.com/track/4Byz072ns7kJTnxVY4Q8CQ"
+    },
+    {
+      "album": {
+        "name": "Sadgirl vs Slavgirl",
+        "url": "https://open.spotify.com/album/3WNM8GcKKM6jKTalEsdjQw"
+      },
+      "artists": [
+        {
+          "name": "Acidgvrl",
+          "url": "https://open.spotify.com/artist/2t8HUWYrP4w6hQmhVVX80f"
+        },
+        {
+          "name": "SadGirlsVsTheWorld",
+          "url": "https://open.spotify.com/artist/6iUeohKjJtOEsfR1Z96g61"
+        },
+        {
+          "name": "Y\u014dko",
+          "url": "https://open.spotify.com/artist/0Cznh5kr6Hlgyl2oHxEFF4"
+        },
+        {
+          "name": "Y\u00fbmi",
+          "url": "https://open.spotify.com/artist/3m8rTxRDybQjzmsC0DU1ni"
+        }
+      ],
+      "date_added": "2024-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183652,
+      "name": "Sadgirl vs Slavgirl",
+      "url": "https://open.spotify.com/track/64ipeHp2FREma2OjIXkkO0"
     },
     {
       "album": {
@@ -42201,6 +42343,24 @@
     },
     {
       "album": {
+        "name": "sTrUt nAtIoN",
+        "url": "https://open.spotify.com/album/5upTw7FHudDbuCqi0T8Ar9"
+      },
+      "artists": [
+        {
+          "name": "TisaKorean",
+          "url": "https://open.spotify.com/artist/6lEhBhAv6HOopjXssi09cq"
+        }
+      ],
+      "date_added": "2024-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123428,
+      "name": "sTrUt nAtIoN",
+      "url": "https://open.spotify.com/track/50ucvP3G2DPitoGdOmX48L"
+    },
+    {
+      "album": {
         "name": "Stylistics",
         "url": "https://open.spotify.com/album/1SnEai2UYwIdJABP40rApy"
       },
@@ -44956,7 +45116,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-06",
       "duration_ms": 98471,
       "name": "the more the merrier",
       "url": "https://open.spotify.com/track/7FwsSJbxofRrj5mDhjioQx"
@@ -45752,7 +45912,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-06",
       "duration_ms": 188316,
       "name": "Think About Me",
       "url": "https://open.spotify.com/track/0zQML88ikX1Fm2WDxmXNIi"

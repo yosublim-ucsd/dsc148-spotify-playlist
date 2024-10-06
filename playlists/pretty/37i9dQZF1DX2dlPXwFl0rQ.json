@@ -1,6 +1,6 @@
 {
   "description": "Estas son las indomables de la M\u00fasica Mexicana. Karly B en portada.",
-  "num_followers": 109855,
+  "num_followers": 109895,
   "original_name": "Mujeres Brav\u00edas",
   "owner": {
     "name": "Spotify",
@@ -635,22 +635,6 @@
     {
       "added_at": "2024-10-04 18:00:00",
       "album": {
-        "name": "Entre La Maleza",
-        "url": "https://open.spotify.com/album/226HOM7ZLpyqqwC3tprFct"
-      },
-      "artists": [
-        {
-          "name": "Delilah",
-          "url": "https://open.spotify.com/artist/5O2rJN2gJncIfM5iNSNiYR"
-        }
-      ],
-      "duration_ms": 215956,
-      "name": "Entre La Maleza",
-      "url": "https://open.spotify.com/track/5ARulwrK2qPpERvwvyvsKf"
-    },
-    {
-      "added_at": "2024-10-04 18:00:00",
-      "album": {
         "name": "Ese Que Se Fue",
         "url": "https://open.spotify.com/album/45LFRWcT9sYCxge5srVwcf"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 142831,
       "name": "Ese Que Se Fue",
       "url": "https://open.spotify.com/track/1m5gWZ8Yz4kSAC3wAiG3KI"
+    },
+    {
+      "added_at": "2024-10-04 18:00:00",
+      "album": {
+        "name": "Entre La Maleza",
+        "url": "https://open.spotify.com/album/226HOM7ZLpyqqwC3tprFct"
+      },
+      "artists": [
+        {
+          "name": "Delilah",
+          "url": "https://open.spotify.com/artist/5O2rJN2gJncIfM5iNSNiYR"
+        }
+      ],
+      "duration_ms": 215956,
+      "name": "Entre La Maleza",
+      "url": "https://open.spotify.com/track/5ARulwrK2qPpERvwvyvsKf"
     },
     {
       "added_at": "2024-10-04 18:00:00",
@@ -983,22 +983,18 @@
     {
       "added_at": "2024-10-04 18:00:00",
       "album": {
-        "name": "Afortunada",
-        "url": "https://open.spotify.com/album/5kC1XgP6HSTEXLux9mQCB9"
+        "name": "Promesas No",
+        "url": "https://open.spotify.com/album/17cEzhYbgpZ3MBf6K9l0Y3"
       },
       "artists": [
         {
-          "name": "Ms. Ambar",
-          "url": "https://open.spotify.com/artist/0jgJv4J29BJiJu1luw2SdA"
-        },
-        {
-          "name": "Alka Produce",
-          "url": "https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q"
+          "name": "Graciela Beltran",
+          "url": "https://open.spotify.com/artist/7HcFX1LEnI6zHIHCt8olTl"
         }
       ],
-      "duration_ms": 164265,
-      "name": "Afortunada",
-      "url": "https://open.spotify.com/track/0lm7k3vmIJ3Cteo6lyPv9f"
+      "duration_ms": 206213,
+      "name": "Es Cosa De El",
+      "url": "https://open.spotify.com/track/0ftCOyTnNeeLhlIuMPR3op"
     },
     {
       "added_at": "2024-10-04 18:00:00",
@@ -1023,18 +1019,22 @@
     {
       "added_at": "2024-10-04 18:00:00",
       "album": {
-        "name": "Promesas No",
-        "url": "https://open.spotify.com/album/17cEzhYbgpZ3MBf6K9l0Y3"
+        "name": "Afortunada",
+        "url": "https://open.spotify.com/album/5kC1XgP6HSTEXLux9mQCB9"
       },
       "artists": [
         {
-          "name": "Graciela Beltran",
-          "url": "https://open.spotify.com/artist/7HcFX1LEnI6zHIHCt8olTl"
+          "name": "Ms. Ambar",
+          "url": "https://open.spotify.com/artist/0jgJv4J29BJiJu1luw2SdA"
+        },
+        {
+          "name": "Alka Produce",
+          "url": "https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q"
         }
       ],
-      "duration_ms": 206213,
-      "name": "Es Cosa De El",
-      "url": "https://open.spotify.com/track/0ftCOyTnNeeLhlIuMPR3op"
+      "duration_ms": 164265,
+      "name": "Afortunada",
+      "url": "https://open.spotify.com/track/0lm7k3vmIJ3Cteo6lyPv9f"
     },
     {
       "added_at": "2024-10-04 18:00:00",
@@ -1599,8 +1599,8 @@
     {
       "added_at": "2024-10-04 18:00:00",
       "album": {
-        "name": "El Bato Gacho",
-        "url": "https://open.spotify.com/album/0UcVh7asl3iQRivR9TSwbH"
+        "name": "La L\u00e1mpara",
+        "url": "https://open.spotify.com/album/7a58EnNl6f0AgPPApX8KgK"
       },
       "artists": [
         {
@@ -1608,9 +1608,9 @@
           "url": "https://open.spotify.com/artist/3WOxDYEXZgUkddUFOeztYr"
         }
       ],
-      "duration_ms": 145518,
-      "name": "El Bato Gacho",
-      "url": "https://open.spotify.com/track/4zFxX8QAOcoqkCm9QWT7cq"
+      "duration_ms": 220243,
+      "name": "La L\u00e1mpara",
+      "url": "https://open.spotify.com/track/467gjKqJjBGHSiKquWQr9c"
     },
     {
       "added_at": "2024-10-04 18:00:00",

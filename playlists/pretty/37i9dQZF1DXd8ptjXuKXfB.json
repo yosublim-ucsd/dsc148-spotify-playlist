@@ -1,6 +1,6 @@
 {
   "description": "Cool \u00e9s trendi dalok Magyarorsz\u00e1gon.",
-  "num_followers": 24585,
+  "num_followers": 24606,
   "original_name": "Most Men\u0151",
   "owner": {
     "name": "Spotify",
@@ -291,6 +291,26 @@
     {
       "added_at": "2024-09-30 10:44:47",
       "album": {
+        "name": "UTOPIA",
+        "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "duration_ms": 191700,
+      "name": "FE!N (feat. Playboi Carti)",
+      "url": "https://open.spotify.com/track/42VsgItocQwOQC3XWZ8JNA"
+    },
+    {
+      "added_at": "2024-09-30 10:44:47",
+      "album": {
         "name": "Alibi (with Pabllo Vittar & Yseult)",
         "url": "https://open.spotify.com/album/2m0euKZUDcoyEXHIS5MFCq"
       },
@@ -311,26 +331,6 @@
       "duration_ms": 161655,
       "name": "Alibi (with Pabllo Vittar & Yseult)",
       "url": "https://open.spotify.com/track/5496lks6V3fh1mZAB6IAap"
-    },
-    {
-      "added_at": "2024-09-30 10:44:47",
-      "album": {
-        "name": "UTOPIA",
-        "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
-      },
-      "artists": [
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        },
-        {
-          "name": "Playboi Carti",
-          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
-        }
-      ],
-      "duration_ms": 191700,
-      "name": "FE!N (feat. Playboi Carti)",
-      "url": "https://open.spotify.com/track/42VsgItocQwOQC3XWZ8JNA"
     },
     {
       "added_at": "2024-09-30 10:44:47",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2024-09-30 10:44:47",
       "album": {
-        "name": "rabiga",
-        "url": "https://open.spotify.com/album/4m3abzBFPf2roj9TyyZ8OH"
-      },
-      "artists": [
-        {
-          "name": "Dzs\u00fadl\u00f3",
-          "url": "https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG"
-        }
-      ],
-      "duration_ms": 170751,
-      "name": "egyszer\u0171",
-      "url": "https://open.spotify.com/track/4h5Z5rfp8af1RKD0zY8q5n"
-    },
-    {
-      "added_at": "2024-09-30 10:44:47",
-      "album": {
         "name": "Felicidad (De la serie 'Berl\u00edn' de Netflix)",
         "url": "https://open.spotify.com/album/5YeZ6BoqHtO60NLH1R1pkQ"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 200735,
       "name": "Felicidad (De la serie 'Berlin' de Netflix)",
       "url": "https://open.spotify.com/track/1oANTqqfbOVwOX59aAeQOO"
+    },
+    {
+      "added_at": "2024-09-30 10:44:47",
+      "album": {
+        "name": "rabiga",
+        "url": "https://open.spotify.com/album/4m3abzBFPf2roj9TyyZ8OH"
+      },
+      "artists": [
+        {
+          "name": "Dzs\u00fadl\u00f3",
+          "url": "https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG"
+        }
+      ],
+      "duration_ms": 170751,
+      "name": "egyszer\u0171",
+      "url": "https://open.spotify.com/track/4h5Z5rfp8af1RKD0zY8q5n"
     },
     {
       "added_at": "2024-09-30 10:44:47",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2024-09-30 10:44:47",
       "album": {
-        "name": "l\u00e1nc",
-        "url": "https://open.spotify.com/album/09BkttRkb1DswriD8v2MO3"
-      },
-      "artists": [
-        {
-          "name": "Dzs\u00fadl\u00f3",
-          "url": "https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG"
-        }
-      ],
-      "duration_ms": 159512,
-      "name": "l\u00e1nc",
-      "url": "https://open.spotify.com/track/4gmKiblmETOzpLtFIaxCyb"
-    },
-    {
-      "added_at": "2024-09-30 10:44:47",
-      "album": {
         "name": "SISS",
         "url": "https://open.spotify.com/album/6cCrVfhvI1Wy9G5w55wxlM"
       },
@@ -1223,26 +1207,6 @@
     {
       "added_at": "2024-09-30 10:44:47",
       "album": {
-        "name": "Vagy Mindent Vagy Semmit",
-        "url": "https://open.spotify.com/album/3yzr3LxESMVFNQbz5qZIrH"
-      },
-      "artists": [
-        {
-          "name": "Pog\u00e1ny Indul\u00f3",
-          "url": "https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju"
-        },
-        {
-          "name": "Parno Graszt",
-          "url": "https://open.spotify.com/artist/5hBCfYFEDK8otrksMYuzoL"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Sz\u00e9kelykapu",
-      "url": "https://open.spotify.com/track/13EtEH0X61xnyEChVmeb2Q"
-    },
-    {
-      "added_at": "2024-09-30 10:44:47",
-      "album": {
         "name": "Ali Ali",
         "url": "https://open.spotify.com/album/0YOzjLEm1PqHp70POGMo02"
       },
@@ -1267,22 +1231,54 @@
     {
       "added_at": "2024-09-30 10:44:47",
       "album": {
-        "name": "Loca",
-        "url": "https://open.spotify.com/album/2nKNusskARBW5lMEt3996z"
+        "name": "Vagy Mindent Vagy Semmit",
+        "url": "https://open.spotify.com/album/3yzr3LxESMVFNQbz5qZIrH"
       },
       "artists": [
         {
-          "name": "Bruno X Spacc",
-          "url": "https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv"
+          "name": "Pog\u00e1ny Indul\u00f3",
+          "url": "https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju"
         },
         {
-          "name": "K\u00daTV\u00d6LGYI S\u00c1RA",
-          "url": "https://open.spotify.com/artist/2HFVT3TbcVZW8lWVE4eIka"
+          "name": "Parno Graszt",
+          "url": "https://open.spotify.com/artist/5hBCfYFEDK8otrksMYuzoL"
         }
       ],
-      "duration_ms": 114392,
-      "name": "Loca",
-      "url": "https://open.spotify.com/track/4VXiDjCRkKHvXFhSX7OEri"
+      "duration_ms": 170000,
+      "name": "Sz\u00e9kelykapu",
+      "url": "https://open.spotify.com/track/13EtEH0X61xnyEChVmeb2Q"
+    },
+    {
+      "added_at": "2024-09-30 10:44:47",
+      "album": {
+        "name": "l\u00e1nc",
+        "url": "https://open.spotify.com/album/09BkttRkb1DswriD8v2MO3"
+      },
+      "artists": [
+        {
+          "name": "Dzs\u00fadl\u00f3",
+          "url": "https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG"
+        }
+      ],
+      "duration_ms": 159512,
+      "name": "l\u00e1nc",
+      "url": "https://open.spotify.com/track/4gmKiblmETOzpLtFIaxCyb"
+    },
+    {
+      "added_at": "2024-09-30 10:44:47",
+      "album": {
+        "name": "Torz",
+        "url": "https://open.spotify.com/album/15vBZChxdbXK922Kx9YBnh"
+      },
+      "artists": [
+        {
+          "name": "Manuel",
+          "url": "https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8"
+        }
+      ],
+      "duration_ms": 178800,
+      "name": "Doktor - Torz",
+      "url": "https://open.spotify.com/track/5BMR7642rtK1PdcsMDhuFf"
     },
     {
       "added_at": "2024-09-30 10:44:47",
@@ -1327,38 +1323,6 @@
     {
       "added_at": "2024-09-30 10:44:47",
       "album": {
-        "name": "Torz",
-        "url": "https://open.spotify.com/album/15vBZChxdbXK922Kx9YBnh"
-      },
-      "artists": [
-        {
-          "name": "Manuel",
-          "url": "https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8"
-        }
-      ],
-      "duration_ms": 178800,
-      "name": "Doktor - Torz",
-      "url": "https://open.spotify.com/track/5BMR7642rtK1PdcsMDhuFf"
-    },
-    {
-      "added_at": "2024-09-30 10:44:47",
-      "album": {
-        "name": "MENTALITAT",
-        "url": "https://open.spotify.com/album/7jLv7WmSyuS3jVjTMg1H95"
-      },
-      "artists": [
-        {
-          "name": "LMEN PRALA",
-          "url": "https://open.spotify.com/artist/3IIFNhvPllMor8rcbecmSj"
-        }
-      ],
-      "duration_ms": 152619,
-      "name": "MENTALITAT",
-      "url": "https://open.spotify.com/track/3wQlR2WBPLoKAN6uZgRx54"
-    },
-    {
-      "added_at": "2024-09-30 10:44:47",
-      "album": {
         "name": "0",
         "url": "https://open.spotify.com/album/3IOx3DP8tK4ihrbAyk7fCf"
       },
@@ -1375,6 +1339,42 @@
       "duration_ms": 213600,
       "name": "SOFIA COPPOLA",
       "url": "https://open.spotify.com/track/1LuXPfE3lgAzS8w5IcHAbL"
+    },
+    {
+      "added_at": "2024-09-30 10:44:47",
+      "album": {
+        "name": "Loca",
+        "url": "https://open.spotify.com/album/2nKNusskARBW5lMEt3996z"
+      },
+      "artists": [
+        {
+          "name": "Bruno X Spacc",
+          "url": "https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv"
+        },
+        {
+          "name": "K\u00daTV\u00d6LGYI S\u00c1RA",
+          "url": "https://open.spotify.com/artist/2HFVT3TbcVZW8lWVE4eIka"
+        }
+      ],
+      "duration_ms": 114392,
+      "name": "Loca",
+      "url": "https://open.spotify.com/track/4VXiDjCRkKHvXFhSX7OEri"
+    },
+    {
+      "added_at": "2024-09-30 10:44:47",
+      "album": {
+        "name": "MENTALITAT",
+        "url": "https://open.spotify.com/album/7jLv7WmSyuS3jVjTMg1H95"
+      },
+      "artists": [
+        {
+          "name": "LMEN PRALA",
+          "url": "https://open.spotify.com/artist/3IIFNhvPllMor8rcbecmSj"
+        }
+      ],
+      "duration_ms": 152619,
+      "name": "MENTALITAT",
+      "url": "https://open.spotify.com/track/3wQlR2WBPLoKAN6uZgRx54"
     },
     {
       "added_at": "2024-09-30 10:44:47",
@@ -1447,18 +1447,22 @@
     {
       "added_at": "2024-09-30 10:44:47",
       "album": {
-        "name": "\u00d6rd\u00f6g N\u00f3rika",
-        "url": "https://open.spotify.com/album/1JaFdpKwzHa9KdPdqQ98Yw"
+        "name": "G\u00c1Z",
+        "url": "https://open.spotify.com/album/3AChlpJwQJBBiGrL1wsizp"
       },
       "artists": [
         {
-          "name": "Bruno X Spacc",
-          "url": "https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv"
+          "name": "T. Danny",
+          "url": "https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG"
+        },
+        {
+          "name": "Jaber",
+          "url": "https://open.spotify.com/artist/6T2yephqss2R5uK7CmfLgo"
         }
       ],
-      "duration_ms": 123125,
-      "name": "\u00d6rd\u00f6g N\u00f3rika",
-      "url": "https://open.spotify.com/track/0NECD9bmlKlhxuZHQ5sq7J"
+      "duration_ms": 185333,
+      "name": "G\u00c1Z",
+      "url": "https://open.spotify.com/track/07L9KepMsQ4mG9BLE04mXc"
     }
   ],
   "unique_name": "Most Men\u0151",

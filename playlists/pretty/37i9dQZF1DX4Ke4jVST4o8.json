@@ -1,6 +1,6 @@
 {
   "description": "Floor fillers and big streamers of 2012. ",
-  "num_followers": 125108,
+  "num_followers": 125166,
   "original_name": "Dance Hits of 2012",
   "owner": {
     "name": "Spotify",
@@ -431,6 +431,22 @@
     {
       "added_at": "2022-10-14 00:00:00",
       "album": {
+        "name": "Pink Friday ... Roman Reloaded (Deluxe)",
+        "url": "https://open.spotify.com/album/6fABwONLawdFjkDpLx41j8"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 205640,
+      "name": "Pound The Alarm",
+      "url": "https://open.spotify.com/track/5kcE7pp02ezLZaUbbMv3Iq"
+    },
+    {
+      "added_at": "2022-10-14 00:00:00",
+      "album": {
         "name": "Clarity - Deluxe",
         "url": "https://open.spotify.com/album/7iC7iQaeRrG33H6VInfl00"
       },
@@ -447,22 +463,6 @@
       "duration_ms": 217346,
       "name": "Stay The Night - Featuring Hayley Williams Of Paramore",
       "url": "https://open.spotify.com/track/4bT2zLVv2T4GiK9q9KtI0v"
-    },
-    {
-      "added_at": "2022-10-14 00:00:00",
-      "album": {
-        "name": "Pink Friday ... Roman Reloaded (Deluxe)",
-        "url": "https://open.spotify.com/album/6fABwONLawdFjkDpLx41j8"
-      },
-      "artists": [
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 205640,
-      "name": "Pound The Alarm",
-      "url": "https://open.spotify.com/track/5kcE7pp02ezLZaUbbMv3Iq"
     },
     {
       "added_at": "2022-10-14 00:00:00",
@@ -683,22 +683,6 @@
     {
       "added_at": "2022-10-14 00:00:00",
       "album": {
-        "name": "The Veldt",
-        "url": "https://open.spotify.com/album/0pJJgBzj26qnE1nSQUxaB0"
-      },
-      "artists": [
-        {
-          "name": "deadmau5",
-          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
-        }
-      ],
-      "duration_ms": 170059,
-      "name": "The Veldt - Radio Edit",
-      "url": "https://open.spotify.com/track/1vQ92830bxiBcIhpUj4qrn"
-    },
-    {
-      "added_at": "2022-10-14 00:00:00",
-      "album": {
         "name": "Dirty Bass (Spotify International Version)",
         "url": "https://open.spotify.com/album/7L4wBF41PvzPCQbPoXNfPs"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 237106,
       "name": "Live My Life",
       "url": "https://open.spotify.com/track/35w3imkurxO8IVBhQv1FVR"
+    },
+    {
+      "added_at": "2022-10-14 00:00:00",
+      "album": {
+        "name": "The Veldt",
+        "url": "https://open.spotify.com/album/0pJJgBzj26qnE1nSQUxaB0"
+      },
+      "artists": [
+        {
+          "name": "deadmau5",
+          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+        }
+      ],
+      "duration_ms": 170059,
+      "name": "The Veldt - Radio Edit",
+      "url": "https://open.spotify.com/track/1vQ92830bxiBcIhpUj4qrn"
     },
     {
       "added_at": "2022-10-14 00:00:00",
@@ -1115,26 +1115,6 @@
     {
       "added_at": "2022-10-14 00:00:00",
       "album": {
-        "name": "Call Me A Spaceman",
-        "url": "https://open.spotify.com/album/3kARXHLsd4qAUuTtK3jztK"
-      },
-      "artists": [
-        {
-          "name": "Hardwell",
-          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
-        },
-        {
-          "name": "Mitch Crown",
-          "url": "https://open.spotify.com/artist/4m5bANP6wwn3O6xmjYxhTm"
-        }
-      ],
-      "duration_ms": 189375,
-      "name": "Call Me A Spaceman - Radio Edit",
-      "url": "https://open.spotify.com/track/1UPyhGntpIx9jGJ5UVtKVS"
-    },
-    {
-      "added_at": "2022-10-14 00:00:00",
-      "album": {
         "name": "Calamari Tuesday",
         "url": "https://open.spotify.com/album/0MxnDPoKo4ohNSdnuZpIxg"
       },
@@ -1151,6 +1131,26 @@
       "duration_ms": 185917,
       "name": "Love Is All I Got",
       "url": "https://open.spotify.com/track/1LuFyappyEFGybt2qzLNDp"
+    },
+    {
+      "added_at": "2022-10-14 00:00:00",
+      "album": {
+        "name": "Call Me A Spaceman",
+        "url": "https://open.spotify.com/album/3kARXHLsd4qAUuTtK3jztK"
+      },
+      "artists": [
+        {
+          "name": "Hardwell",
+          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
+        },
+        {
+          "name": "Mitch Crown",
+          "url": "https://open.spotify.com/artist/4m5bANP6wwn3O6xmjYxhTm"
+        }
+      ],
+      "duration_ms": 189375,
+      "name": "Call Me A Spaceman - Radio Edit",
+      "url": "https://open.spotify.com/track/1UPyhGntpIx9jGJ5UVtKVS"
     },
     {
       "added_at": "2022-10-14 00:00:00",

@@ -1744,7 +1744,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-06",
       "duration_ms": 252367,
       "name": "Guts Sessions #1: Menina Linda",
       "url": "https://open.spotify.com/track/1Mh5FuKoe5I0UvfzjYYkMQ"
@@ -2670,7 +2670,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-11",
+      "date_removed": null,
       "duration_ms": 126857,
       "name": "Minha Mina \u00e9 Braba",
       "url": "https://open.spotify.com/track/34D1cEXeYGBl53uRSJTywU"
@@ -3942,7 +3942,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-06",
       "duration_ms": 150361,
       "name": "Sabe Qual \u00c9",
       "url": "https://open.spotify.com/track/3mctWBqWWKZn7rsyjWVtDe"
@@ -4614,6 +4614,36 @@
       "duration_ms": 298901,
       "name": "Vai Gostosa",
       "url": "https://open.spotify.com/track/0a1a1u80SpD9heQ2ZbZ3vb"
+    },
+    {
+      "album": {
+        "name": "Frenesim",
+        "url": "https://open.spotify.com/album/4HqDxFfITq5KTU1ZoBIOQ5"
+      },
+      "artists": [
+        {
+          "name": "Italo Melo",
+          "url": "https://open.spotify.com/artist/7DCF8Y7xwC2LkdHth5E7c8"
+        },
+        {
+          "name": "TX",
+          "url": "https://open.spotify.com/artist/1DENl6mSR2p9reWTKIn2o2"
+        },
+        {
+          "name": "Alee",
+          "url": "https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4"
+        },
+        {
+          "name": "Rich DS",
+          "url": "https://open.spotify.com/artist/1v2xYnBfCPpxlFTupVUOtz"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226342,
+      "name": "Vaidosa",
+      "url": "https://open.spotify.com/track/4QpeOAEjJCmpzMw4RnWXtg"
     },
     {
       "album": {

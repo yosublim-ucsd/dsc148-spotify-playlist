@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV2Gh2QglGo.md) - [plain]
 
 > The home of Canadian country music\. Cover: Josh Ross
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,327 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,340 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV2Gh2QglGo.md) - [plain]
 | 28 | [A Real Man](https://open.spotify.com/track/00SU9JMELyhWF2Kn6KQRc7) | [Dax](https://open.spotify.com/artist/5icKdCmMhNMYoAzVBAWt39) | [A Real Man](https://open.spotify.com/album/46Hx2WVHRs07MDXGVgzdD1) | 3:41 |
 | 29 | [Rodeo Junkies](https://open.spotify.com/track/1N0lVFEEGknDQ72ohUZTq6) | [Noeline Hofmann](https://open.spotify.com/artist/2xGbY9iFLZqd9BK0YV1aKW) | [Rodeo Junkies](https://open.spotify.com/album/2AvoHg4snKcHGVxqMTOxGX) | 3:36 |
 | 30 | [She Stole My Harley](https://open.spotify.com/track/0UgBuShvhYEmOuFHXvzZgY) | [Myles Erlick](https://open.spotify.com/artist/66j659Hro81qoa1vgG75Ae) | [She Stole My Harley](https://open.spotify.com/album/4pnwZ0Jrh3wIXE7b6wr0fC) | 3:12 |
-| 31 | [Love Me Or Leave Me \(Day Or Night Mix\)](https://open.spotify.com/track/5lyFwxY9ouyqFZY61NIRDO) | [Chad Brownlee](https://open.spotify.com/artist/6k8x9QgjJkEQ1xRIDYa0tU) | [Love Me Or Leave Me \(Day Or Night Mix\)](https://open.spotify.com/album/09Ag9gMUEX7PVKTagED3za) | 3:43 |
+| 31 | [Love Me Or Leave Me \(Day Or Night Mix\)](https://open.spotify.com/track/5lyFwxY9ouyqFZY61NIRDO) | [Chad Brownlee](https://open.spotify.com/artist/6k8x9QgjJkEQ1xRIDYa0tU), [Dan Swinimer](https://open.spotify.com/artist/22QKKYErEVOVHDcwCz72eo) | [Love Me Or Leave Me \(Day Or Night Mix\)](https://open.spotify.com/album/09Ag9gMUEX7PVKTagED3za) | 3:43 |
 | 32 | [Bigger Than This Town](https://open.spotify.com/track/4bH59P2RLgvOLXhrq6oXci) | [Steven Lee Olsen](https://open.spotify.com/artist/5MW08rvyz59mdceF4urxXO) | [Bigger Than This Town](https://open.spotify.com/album/4H2YuZzuZVD0gua6xinUPP) | 2:54 |
 | 33 | [Water in the fuel](https://open.spotify.com/track/3dMnMAkB1zzSe9yZxaYGuA) | [Zachary Lucky](https://open.spotify.com/artist/6iOhLVSyUQsVyW3rk8TI6E) | [Water in the fuel](https://open.spotify.com/album/1YV2EnSZJglbQUo1EnPaIm) | 3:57 |
 | 34 | [Your Time to Stay](https://open.spotify.com/track/0xb6hOMY4KxjoSEHgeslZQ) | [Aaron Goodvin](https://open.spotify.com/artist/5EbZ3EVGLkAoDJfn89PDXW) | [Your Time to Stay](https://open.spotify.com/album/3kIPmiOQBUlVuTKcTykGvl) | 2:41 |

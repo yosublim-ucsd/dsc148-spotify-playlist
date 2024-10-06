@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik! Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 216,461 likes - 117 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 216,511 likes - 117 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 18 | [Filthy Rich](https://open.spotify.com/track/6InkM0NaTWi7PJ3utfUzlM) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Filthy Rich](https://open.spotify.com/album/4EZKTohECt4rz0GL4LShK2) | 2:52 |
 | 19 | [Gitti](https://open.spotify.com/track/6oKcV9eTRzoPsD48iYihuq) | [Papi Santana](https://open.spotify.com/artist/4uI7ac18IMjcGh45QzR1BZ), [Mange Schmidt](https://open.spotify.com/artist/3XNYAscVt30VsW8dJiWQsl) | [Gitti](https://open.spotify.com/album/7l4ilKDIH6OcKKgVMLptXZ) | 2:11 |
 | 20 | [FULL MITT I GATAN](https://open.spotify.com/track/6R5nVTN9tq0thk85Jp5sbZ) | [AFASI](https://open.spotify.com/artist/2nzZMYBJDKiTejsLV0NQT9) | [FULL MITT I GATAN](https://open.spotify.com/album/4gSpqCW6u7JOsm95uSzmO9) | 2:23 |
-| 21 | [Må såhär \- Original](https://open.spotify.com/track/5fWjO67nSoZZ1GadZfYOQl) | [Naod](https://open.spotify.com/artist/31KGMx2XwpugdUpJzeZOv1) | [Må såhär](https://open.spotify.com/album/730nvnsHUsv78YX7DXyL1u) | 2:21 |
+| 21 | [Må såhär](https://open.spotify.com/track/5fWjO67nSoZZ1GadZfYOQl) | [Naod](https://open.spotify.com/artist/31KGMx2XwpugdUpJzeZOv1) | [Må såhär](https://open.spotify.com/album/730nvnsHUsv78YX7DXyL1u) | 2:21 |
 | 22 | [Eurostar](https://open.spotify.com/track/6uDqKkOeYnE7W1KZMMBPve) | [Nemo](https://open.spotify.com/artist/5Wg72TowYBWIcSo3K2r84N) | [Eurostar](https://open.spotify.com/album/3TIuWz1xtNlre0XVZqm0BS) | 2:45 |
 | 23 | [Weekend Boy](https://open.spotify.com/track/2SBXmWWHWuG12G7S7SKvwA) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Good Neighbours](https://open.spotify.com/album/1iArxZvJgmmlTo6VwuHvll) | 2:51 |
 | 24 | [GOOD FEELiNGS](https://open.spotify.com/track/65wzicJctsW9GwnTnLWxQO) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Moon Music](https://open.spotify.com/album/5SGtrmYbIo0Dsg4kJ4qjM6) | 3:37 |
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 44 | [Sees Igjen](https://open.spotify.com/track/2QyL2WhZmOfpVSxy2BaI8U) | [Golfklubb](https://open.spotify.com/artist/1Kj6Km5IuLGKt2cxuhSgLm), [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy), [Philippe](https://open.spotify.com/artist/23yPgzwt35lJyA3f8ayMfW) | [Sees Igjen](https://open.spotify.com/album/2ZbDIWIGCKtpK26NRTUw6s) | 2:43 |
 | 45 | [Nothing To Prove](https://open.spotify.com/track/7zrn5lY8a2kJUk9DLKhyXJ) | [Andreas Moe](https://open.spotify.com/artist/5kW2ng5av985BfqrOMRpk0) | [It Takes Me Places...](https://open.spotify.com/album/2hu5hB7E6GABTNd0s8d7Hh) | 3:05 |
 | 46 | [Crash Land](https://open.spotify.com/track/1GBJcxgleYdCNlKy70iRQE) | [Million Strangers](https://open.spotify.com/artist/0WVFb0yYFvNaCEgr0gCDCx) | [Crash Land](https://open.spotify.com/album/5imW24anf0HUltUjMHlUyF) | 2:16 |
-| 47 | [Gör jag det gör jag det för dig](https://open.spotify.com/track/4XsadabZwR5pBtrxg7k0oi) | [Kåren](https://open.spotify.com/artist/2mDX5SCZQKUZvvMCwqst3r) | [Gör jag det gör jag det för dig](https://open.spotify.com/album/2e8GMm4srUHHI3ZoHC8e2D) | 2:48 |
+| 47 | [Gör jag det så gör jag det för dig](https://open.spotify.com/track/4XsadabZwR5pBtrxg7k0oi) | [Kåren](https://open.spotify.com/artist/2mDX5SCZQKUZvvMCwqst3r) | [Gör jag det så gör jag det för dig](https://open.spotify.com/album/2e8GMm4srUHHI3ZoHC8e2D) | 2:48 |
 | 48 | [Micke The Driver](https://open.spotify.com/track/4C5tOq6mpp8qtulFQ1TE7I) | [Styva Linan](https://open.spotify.com/artist/5M9c6njEKjtRWcJrFNbrSM) | [Micke The Driver](https://open.spotify.com/album/3Xr65LRx67FE6gs7yVAVWw) | 4:14 |
 | 49 | [All I Need](https://open.spotify.com/track/5nTxg8mvz2hUrKXGR3l4de) | [CORRO](https://open.spotify.com/artist/17iFm03VvnYngLygkIuZwy) | [Send Me to Hell](https://open.spotify.com/album/7bVmX8hFWpSDuBe1lor9M3) | 2:28 |
 | 50 | [Never Said Goodbye](https://open.spotify.com/track/019IPf1J7LiN9yBUBp0f8d) | [Jake Bugg](https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg) | [A Modern Day Distraction](https://open.spotify.com/album/6mQQg0TOprhR2mCpMb5Kl2) | 3:38 |

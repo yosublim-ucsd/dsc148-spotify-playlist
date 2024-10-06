@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country songs in one playlist! Featuring Megan Moroney, Nate Smith, Tucker Wetmore and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 293,542 likes - 70 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 293,712 likes - 70 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 18 | [Monday](https://open.spotify.com/track/250Eaz0dvBMaTMoFTA5Dku) | [Roan Ash](https://open.spotify.com/artist/4Tqhn8v9Cws9SRsViQe61U) | [Monday](https://open.spotify.com/album/7e6fyWD9bVvI84mhy6rqLG) | 3:59 |
 | 19 | [Life Right Now](https://open.spotify.com/track/5CTXiBT0EsREot9fJI5cXm) | [Caitlyn Smith](https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R) | [Life Right Now](https://open.spotify.com/album/2zviWYNoGeSzAD3mZzNFV7) | 3:10 |
 | 20 | [Dead In The Water](https://open.spotify.com/track/1sVkDAuaz2Hb4IW58SJ3pk) | [Nick Nash](https://open.spotify.com/artist/03evdtQP9vcuqdDU6hOluN) | [Dead In The Water](https://open.spotify.com/album/2S60Y30rIvPUrEH3MeEzK1) | 2:58 |
-| 21 | [Adeline](https://open.spotify.com/track/5fXY5xGfbDsCJBlclhkEZ6) | [Hayes Carll](https://open.spotify.com/artist/6UWifcscEdbjPgmbevBxZV), [Hayes & The Heathens](https://open.spotify.com/artist/1r7ZYK2hcsFTw5LjWSv9Cm), [The Band Of Heathens](https://open.spotify.com/artist/5K4gVy6DhNd39mSjuK95Y7) | [Hayes & The Heathens](https://open.spotify.com/album/4bs77BmmNpyOB0vCxo7BlT) | 4:03 |
+| 21 | [Adeline](https://open.spotify.com/track/5fXY5xGfbDsCJBlclhkEZ6) | [The Band Of Heathens](https://open.spotify.com/artist/5K4gVy6DhNd39mSjuK95Y7), [Hayes Carll](https://open.spotify.com/artist/6UWifcscEdbjPgmbevBxZV), [Hayes & The Heathens](https://open.spotify.com/artist/1r7ZYK2hcsFTw5LjWSv9Cm) | [Hayes & The Heathens](https://open.spotify.com/album/4bs77BmmNpyOB0vCxo7BlT) | 4:03 |
 | 22 | [Buy The World A Round](https://open.spotify.com/track/3ywrTTUfMe5ZE7C9YypvbZ) | [Aaron Watson](https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3) | [Buy The World A Round](https://open.spotify.com/album/6QJwRfuTj1e6V0c550goov) | 2:47 |
 | 23 | [Issues](https://open.spotify.com/track/5eBdAor9elj1y53VPfr27j) | [Savannah Dexter](https://open.spotify.com/artist/1e2nwjPRhYpmY7m906NFwz) | [Issues](https://open.spotify.com/album/5nEOJBKBiWdwdVSgThFtz3) | 3:08 |
 | 24 | [Nobody’s Everything](https://open.spotify.com/track/0OZWJnPcxm2i95fZC1ZgUM) | [Tyler Halverson](https://open.spotify.com/artist/3oFu5CCLk4p4zLBNo3wrai) | [Nobody’s Everything](https://open.spotify.com/album/6fSwhvEi7bsrbtKJ1qlv7Z) | 3:24 |

@@ -2379,6 +2379,24 @@
     },
     {
       "album": {
+        "name": "Late Riser",
+        "url": "https://open.spotify.com/album/2AyUp138VeD0Wm2UFwAljO"
+      },
+      "artists": [
+        {
+          "name": "Frances Cone",
+          "url": "https://open.spotify.com/artist/5xKsfZBL84iULLWjvd4dWh"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197120,
+      "name": "Late Riser",
+      "url": "https://open.spotify.com/track/0pwi4ZfOYqBWFwnf3yhT43"
+    },
+    {
+      "album": {
         "name": "Across The Borders",
         "url": "https://open.spotify.com/album/2EViXKPhqdrFkM5OJfCX4V"
       },
@@ -3932,7 +3950,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-06",
       "duration_ms": 255000,
       "name": "The Good Word - Live at the Elmwood Hall",
       "url": "https://open.spotify.com/track/0fTTCDoxg2bWgp02ANyRwo"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4FuvFkGbjhs.md) - [plain]
 
 > Beyond titles, beyond genre\. Cover: yuné pinku
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,339 likes - 101 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,324 likes - 101 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4FuvFkGbjhs.md) - [plain]
 | 38 | [Behind The Curtain](https://open.spotify.com/track/6I4qOLo0kWFbCXRsJtU8vz) | [Dora Jar](https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH) | [Behind The Curtain](https://open.spotify.com/album/185OtflbDmpXsuk4On7bXM) | 2:37 |
 | 39 | [Are You Gonna Find It](https://open.spotify.com/track/40JMY9lsbHd3UXIsrALDDQ) | [Thandii](https://open.spotify.com/artist/68YD0oUAF8k1NqEFAIx60M) | [Are You Gonna Find It](https://open.spotify.com/album/6zwboIYLz6IaKYCrfom8lR) | 4:46 |
 | 40 | [UMPA](https://open.spotify.com/track/470IhQSaAri29VEf2BZq7s) | [Fcukers](https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO) | [Baggy$$](https://open.spotify.com/album/0cX9ldzQG2UYMHo6ILXXYk) | 2:32 |
-| 41 | [DEEP HOLES](https://open.spotify.com/track/6OL3oeNSREzPpS0x0oCAM4) | [Rahim C Redcar](https://open.spotify.com/artist/4fWWr45mgLHAV8DPJR3vdW) | [HOPECORE](https://open.spotify.com/album/7ipRsT2BVjkSXzZoljpRbw) | 4:46 |
+| 41 | [DEEP HOLES](https://open.spotify.com/track/6OL3oeNSREzPpS0x0oCAM4) | [Rahim Redcar](https://open.spotify.com/artist/4fWWr45mgLHAV8DPJR3vdW) | [HOPECORE](https://open.spotify.com/album/7ipRsT2BVjkSXzZoljpRbw) | 4:46 |
 | 42 | [Golden Hour](https://open.spotify.com/track/3RhPS4Xw1qCuLz4pVyoh88) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3) | [Golden Hour](https://open.spotify.com/album/00yzw4urkkOVgLnYQcYooB) | 3:21 |
 | 43 | [Jam Toast](https://open.spotify.com/track/7kE2lk45qdnPKccuIhWkqE) | [Frankie Stew and Harvey Gunn](https://open.spotify.com/artist/1jVvXqdwDHekLwFBamrcUx) | [Jam Toast](https://open.spotify.com/album/5H0UAwmSaSsgLcpdhkgAqt) | 2:34 |
 | 44 | [Don't Go Back To Paris](https://open.spotify.com/track/0jeGTzkvrNRBC8Dt8bsDRN) | [Remy Bond](https://open.spotify.com/artist/2voadhFGdduSYHDvsVqyXo) | [Paris / San Francisco](https://open.spotify.com/album/2VFJG91yaQl6TuCWpP95bw) | 3:47 |

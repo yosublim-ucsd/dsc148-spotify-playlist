@@ -2,7 +2,7 @@
 
 ### [This Is J\. Cole](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3K21mU)
 
-> This is J\. Cole\. Todos os maiores hits em uma só playlist.
+> This Is J\. Cole\. Los temas esenciales, todos en una lista.
 
 72 songs - 4 hr 32 min
 

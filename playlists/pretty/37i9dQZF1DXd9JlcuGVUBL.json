@@ -1,6 +1,6 @@
 {
   "description": "Die beste country musiek. Omslag: <a href=\"https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF?si=Nf70BPuJRFOusU5etiipvQ\">Kelsea Ballerini</a>  ",
-  "num_followers": 29975,
+  "num_followers": 30018,
   "original_name": "Country Musiek",
   "owner": {
     "name": "Spotify",
@@ -693,20 +693,20 @@
       "url": "https://open.spotify.com/track/2GWIcV2yk2CBHZLKMa1gWd"
     },
     {
-      "added_at": "2024-05-02 22:00:00",
+      "added_at": "2024-09-23 07:59:08",
       "album": {
-        "name": "First",
-        "url": "https://open.spotify.com/album/1XaFw0gmJlhiEbxZYphu4n"
+        "name": "Live Here To Work",
+        "url": "https://open.spotify.com/album/02V2Qy6dT7y3eVZPQB0HsY"
       },
       "artists": [
         {
-          "name": "Chase Matthew",
-          "url": "https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH"
+          "name": "Kip Moore",
+          "url": "https://open.spotify.com/artist/2hJPr4lk7Q8SSvCVBl9fWM"
         }
       ],
-      "duration_ms": 174412,
-      "name": "First",
-      "url": "https://open.spotify.com/track/0GFwR94TMOMi8ev2T39ufA"
+      "duration_ms": 282000,
+      "name": "Live Here To Work",
+      "url": "https://open.spotify.com/track/2KV73rmqtnouraVWPnIIrc"
     },
     {
       "added_at": "2024-08-01 22:00:00",
@@ -765,20 +765,20 @@
       "url": "https://open.spotify.com/track/1xPOjTk4A06ncKKiQ6hUOQ"
     },
     {
-      "added_at": "2024-09-23 07:59:08",
+      "added_at": "2024-05-02 22:00:00",
       "album": {
-        "name": "Live Here To Work",
-        "url": "https://open.spotify.com/album/02V2Qy6dT7y3eVZPQB0HsY"
+        "name": "First",
+        "url": "https://open.spotify.com/album/1XaFw0gmJlhiEbxZYphu4n"
       },
       "artists": [
         {
-          "name": "Kip Moore",
-          "url": "https://open.spotify.com/artist/2hJPr4lk7Q8SSvCVBl9fWM"
+          "name": "Chase Matthew",
+          "url": "https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH"
         }
       ],
-      "duration_ms": 282000,
-      "name": "Live Here To Work",
-      "url": "https://open.spotify.com/track/2KV73rmqtnouraVWPnIIrc"
+      "duration_ms": 174412,
+      "name": "First",
+      "url": "https://open.spotify.com/track/0GFwR94TMOMi8ev2T39ufA"
     },
     {
       "added_at": "2024-03-15 05:03:56",

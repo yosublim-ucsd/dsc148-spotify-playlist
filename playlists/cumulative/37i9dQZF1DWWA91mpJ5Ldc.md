@@ -4,7 +4,7 @@
 
 > Música brasileira para temperar as receitas do dia\-a\-dia.
 
-247 songs - 14 hr 59 min
+248 songs - 15 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Baby 95](https://open.spotify.com/track/6Qf9UJy2DJEKnLE5DAySiN) | [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [Baby 95](https://open.spotify.com/album/6tje1i1T0fit8GEe2cdHKY) | 5:18 | 2022-02-04 |  |
 | [Babá Alapalá \- Spotify Singles](https://open.spotify.com/track/5aK5UO6xXwo0fADdAu2YSh) | [Linn da Quebrada](https://open.spotify.com/artist/5gGBopc7iw8yLqwxfPIv3t) | [Babá Alapalá \- Spotify Singles](https://open.spotify.com/album/5MEnmfuf8n3FzAFbx7dty5) | 4:29 | 2022-11-16 | 2023-03-05 |
 | [Back In Bahia \- Spotify Singles](https://open.spotify.com/track/6ModYZze07tx1R40jykgeL) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Back In Bahia \- Spotify Singles](https://open.spotify.com/album/50V1qiuLjfFRvgJ9c4Bup3) | 2:43 | 2022-11-16 | 2022-12-10 |
+| [Banho de Folhas](https://open.spotify.com/track/4rnsEw278G3pFjiMSzS4fG) | [Xande De Pilares](https://open.spotify.com/artist/4IQKOXNGjuRRe0WgOm5YfB) | [Banho de Folhas](https://open.spotify.com/album/0wLE1tEXT32qRgPidt3r5R) | 3:51 | 2024-10-04 |  |
 | [Barato Total](https://open.spotify.com/track/6zz0dj3H9Q7JJlB6BHIhva) | [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [Em Casa Com os Gil](https://open.spotify.com/album/3n7esvSbuawAdZkDcxIsOE) | 3:54 | 2022-06-24 | 2024-06-07 |
 | [Batucadinho](https://open.spotify.com/track/1NhN20qGNXzXWdzsK7bQTG) | [Fabiana Cozza](https://open.spotify.com/artist/4LRB7RihmGCUE9TYFH6151) | [Dos Santos](https://open.spotify.com/album/6HhJcF7yFhjgc0uSuPPMVa) | 3:38 | 2022-03-22 | 2022-05-21 |
 | [Beatriz \- Acústico](https://open.spotify.com/track/04pdJOK2kixNEr5mATTCJh) | [Vítor Guima](https://open.spotify.com/artist/1hqTe0OBdC5nKA5Av8oiRe) | [Beatriz \(Acústico\)](https://open.spotify.com/album/4r2rfGSKsoBziLl976ahHk) | 3:04 | 2022-04-01 | 2022-04-20 |
@@ -179,7 +180,7 @@
 | [Onde Estará](https://open.spotify.com/track/0hbNJXcaPK4cQD78fh8uSR) | [Delacruz](https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4) | [Nonsense, Vol\. 1](https://open.spotify.com/album/0psPVRixSPuaBChZnZ9Eot) | 3:37 | 2022-02-04 | 2023-01-19 |
 | [Pangea](https://open.spotify.com/track/1ZSml83SQNnsK6kAtoMnQg) | [Arosa](https://open.spotify.com/artist/08KoaBKxVAtpKRB58YWuYx) | [Pangea](https://open.spotify.com/album/5SEct449bwIwrPtagzfhZE) | 4:06 | 2022-03-22 | 2022-04-20 |
 | [Paradise](https://open.spotify.com/track/2X4CPCeIpodiM1sPCYcXtL) | [DJ Center](https://open.spotify.com/artist/1h3GrJokWIvpbdKn6h4Owq), [Sly5thAve](https://open.spotify.com/artist/15zxwAfOdT7WmQeFWPJtKi), [Thalma De Freitas](https://open.spotify.com/artist/7dRgH9TbkPlyf3auU5jZKY) | [Paradise](https://open.spotify.com/album/1NBcAphFK9qE9rAA6LV8t6) | 3:39 | 2022-03-22 | 2024-05-17 |
-| [Parafuso](https://open.spotify.com/track/6EEglMg2h3npZVTQQzIOeX) | [Qinhones](https://open.spotify.com/artist/0pcMoyp7o9Fv8sGMm9rjAU) | [Parafuso](https://open.spotify.com/album/76F6NYWGJgkqU3WbR9Mo3F) | 4:39 | 2022-02-04 |  |
+| [Parafuso](https://open.spotify.com/track/6EEglMg2h3npZVTQQzIOeX) | [Qinhones](https://open.spotify.com/artist/0pcMoyp7o9Fv8sGMm9rjAU) | [Parafuso](https://open.spotify.com/album/76F6NYWGJgkqU3WbR9Mo3F) | 4:39 | 2022-02-04 | 2024-10-06 |
 | [Pelo Telefone](https://open.spotify.com/track/1xlcibInQBcgyvJSSS36oR) | [Mallu Magalhães](https://open.spotify.com/artist/1m00QT2CkW6rHi4dly8rVN) | [Vem](https://open.spotify.com/album/5rCOOZsVbPWwuAVKrA5Xug) | 2:49 | 2022-03-22 | 2022-04-20 |
 | [Pimenta De Cheiro](https://open.spotify.com/track/2cxDLP3uI9ovuHbrNqY3fr) | [Majur](https://open.spotify.com/artist/3EWwR3BxuCaiYKniPGDjE7), [Ivete Sangalo](https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ) | [ARRISCA](https://open.spotify.com/album/7yvlnTu9zTkkrRGCwUICXc) | 3:27 | 2023-05-12 | 2023-06-03 |
 | [Pipa Voada \(feat\. Emicida\)](https://open.spotify.com/track/3oqC4Ta40ft6NnTJwcUTdi) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Lukinhas](https://open.spotify.com/artist/0vsOB7tW4ItHtdZBzKQZxp), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [Tão Real](https://open.spotify.com/album/083NpzlPOa5Q2mWOEkEaGw) | 3:05 | 2022-02-04 |  |

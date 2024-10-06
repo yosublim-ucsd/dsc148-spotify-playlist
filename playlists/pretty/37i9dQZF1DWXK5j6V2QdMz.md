@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXK5j6V2QdMz.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/ronniefieg/">Ronnie Fieg</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,593 likes - 50 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,609 likes - 50 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXK5j6V2QdMz.md) - [plain]
 | 34 | [You're Nobody \(Til Somebody Kills You\)](https://open.spotify.com/track/1B7KXTZ5shneLSZcfmXgAK) | [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb) | [Life After Death \(Deluxe Version\)](https://open.spotify.com/album/2sRdk7s8ObFBEn3ZoPmE5r) | 4:52 |
 | 35 | [The Whole World \(feat\. Killer Mike\)](https://open.spotify.com/track/3BBVKzYSV7iuWutG3saanI) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7), [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI) | [Big Boi & Dre Present...OutKast](https://open.spotify.com/album/3zl0RrxQ12lge8qcm6PbE6) | 4:55 |
 | 36 | [Can't Be Wasting My Time \- One Dread One Ball Head Version](https://open.spotify.com/track/2Lj5liSIB8rKcklKyluWz8) | [Mona Lisa](https://open.spotify.com/artist/523EnSKThg23jXgQpgQ7D2), [Lost Boyz](https://open.spotify.com/artist/0OtigLoCgLYvXnMxbE5qH5), [Tom "Buttnaked" Dawg](https://open.spotify.com/artist/2DFZNmP2yRQTj48us5dS1Q), [Mr\. Sex](https://open.spotify.com/artist/1JvzQQd4LxUfBq1NoYLuPV) | [Don't Be A Menace To South Central While Drinking Your Juice In The Hood \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5XhMjct5IBKfbl0N3NsRac) | 4:34 |
-| 37 | [No One Else \- Puff Daddy Remix](https://open.spotify.com/track/5RkY7pQmuACYI1YqVTLJrI) | [Total](https://open.spotify.com/artist/4FM8iY3r6cFC2g5tQnpnyM) | [Total](https://open.spotify.com/album/4uLoT81NWVFx09mkfnGCHb) | 4:35 |
+| 37 | [No One Else \- Puff Daddy Remix](https://open.spotify.com/track/5RkY7pQmuACYI1YqVTLJrI) | [Total](https://open.spotify.com/artist/1urjDGTd4iBze91Z1W1gu7) | [Total](https://open.spotify.com/album/4uLoT81NWVFx09mkfnGCHb) | 4:35 |
 | 38 | [Can't Believe \(feat\. Carl Thomas & Shyne\)](https://open.spotify.com/track/3dwHQCpLXepDL0YIhEmcuC) | [Faith Evans](https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn), [Carl Thomas](https://open.spotify.com/artist/6I6t21SFbxZ7RbQgD5dN7U), [Shyne](https://open.spotify.com/artist/64ovxBmjJ9ZDqkzEXVWpVc) | [R&B Hits](https://open.spotify.com/album/5Bp5PZqYJ9tiz0Hf6lOD5Q) | 4:57 |
 | 39 | [Rite Where U Stand](https://open.spotify.com/track/1KnUt0rICeoLFYPSL40fsU) | [Gang Starr](https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ), [Jadakiss](https://open.spotify.com/artist/5pnbUBPifNnlusY8kTBivi) | [The Ownerz](https://open.spotify.com/album/6U2LlflINhafc0e9vhs0lp) | 3:39 |
 | 40 | [I Can Feel It](https://open.spotify.com/track/0FDFVHjCwgwfAiQl5Y1Xvi) | [DMX](https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG) | [It's Dark And Hell Is Hot](https://open.spotify.com/album/2KwZgeD7BnTrOtiNvFr7CL) | 4:12 |

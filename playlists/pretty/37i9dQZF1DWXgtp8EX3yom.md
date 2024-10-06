@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXgtp8EX3yom.md) - [plain]
 
 > Najlepsze polskie przeboje 2023 roku\. Cover: Daria Zawiałow \#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,218 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,214 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXgtp8EX3yom.md) - [plain]
 | 11 | [Tańcz głupia](https://open.spotify.com/track/5wPZgnPLhXwXuFbDy7Fnbg) | [Margaret](https://open.spotify.com/artist/6aGmKxXoKrSdovRUn8MBhZ) | [Tańcz głupia](https://open.spotify.com/album/4srQR1a4fME6lCR2PpXGzN) | 2:34 |
 | 12 | [Taxi](https://open.spotify.com/track/6tARtPlcilM1u4tbAWgato) | [Kizo](https://open.spotify.com/artist/2IHoZ3RrDJIikMRsYgHjhy), [Bletka](https://open.spotify.com/artist/4QYitR7yrCaf5CLQ09hX1m), [BeMelo](https://open.spotify.com/artist/58n40EtcUlarXICnPb9ohx), [Eddie Block](https://open.spotify.com/artist/5WEdZfOfI9kQJnwJGvLRJf), [Adash](https://open.spotify.com/artist/61OiK85G3liQ764VKRLJPk) | [Taxi](https://open.spotify.com/album/4jhbMRksvKzOhCqoHbLWQ4) | 3:00 |
 | 13 | [Solo](https://open.spotify.com/track/3xxjYOFR1y7By2wNDS51XV) | [BLANKA](https://open.spotify.com/artist/0ML3y0iBY1nq7HWAWP0EFm) | [Solo](https://open.spotify.com/album/4zX2oy6k4NLIThxb2Qp6LZ) | 2:34 |
-| 14 | [Dzięki, że jesteś](https://open.spotify.com/track/5Qw74vxmtJzAEYjy1wfVCk) | [Lanberry](https://open.spotify.com/artist/2t3aJxThQrMWaNJgqjMcU8), [Tribbs](https://open.spotify.com/artist/0h8SaArnqxtG4cTbOIYdNt) | [Dzięki, że jesteś](https://open.spotify.com/album/1xZK3hGpenKMFKYuD6FA6D) | 2:30 |
+| 14 | [Dzięki, że jesteś](https://open.spotify.com/track/5Qw74vxmtJzAEYjy1wfVCk) | [Lanberry](https://open.spotify.com/artist/2t3aJxThQrMWaNJgqjMcU8), [Tribbs](https://open.spotify.com/artist/6iqDK7aHVlwGGgPmcdSK5L) | [Dzięki, że jesteś](https://open.spotify.com/album/1xZK3hGpenKMFKYuD6FA6D) | 2:30 |
 | 15 | [Jesień – Tańcuj](https://open.spotify.com/track/4Pugt57DqpMR8A0Nstpd2z) | [L.U.C.](https://open.spotify.com/artist/1GRpnNhXWlNMgnFf3NqEjv), [Rebel Babel Film Orchestra](https://open.spotify.com/artist/15YEBTmw6GtgzijvG84ynv), [Kayah](https://open.spotify.com/artist/2v295z585SM68pluEKXKSM), [Dagadana](https://open.spotify.com/artist/7JVB1NU2XgRA0lViT3HPrt), [Laboratorium Pieśni](https://open.spotify.com/artist/0dJ5KNObzuV2aK76ucVV1l), [Tęgie Chłopy](https://open.spotify.com/artist/5VqhAnuP1aw5jeRZV4Gi4U) | [Chłopi \(Original Soundtrack\)](https://open.spotify.com/album/4bNiBmPncdmzzWdeUSs7DF) | 4:40 |
 | 16 | [To Co Mam](https://open.spotify.com/track/72ifNpa6S8OAaJQVMbF8V5) | [IGNACY](https://open.spotify.com/artist/4ccurDUZ48cXNrcrLsA9ub) | [Central Park](https://open.spotify.com/album/0gUKAbUK0UwJsERX22e9rx) | 3:13 |
 | 17 | [Krakowski Spleen](https://open.spotify.com/track/63NqA1azM8ogGsJa7tFCRg) | [Tribbs](https://open.spotify.com/artist/6iqDK7aHVlwGGgPmcdSK5L), [Robert Wiewióra](https://open.spotify.com/artist/2maqo0I7n0YWoX1332xVCN) | [Krakowski Spleen](https://open.spotify.com/album/719yxC0LprzFMZo8YARL1W) | 3:03 |

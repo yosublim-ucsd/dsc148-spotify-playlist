@@ -77,6 +77,24 @@
     },
     {
       "album": {
+        "name": "SOUVENIR (Extended Edition)",
+        "url": "https://open.spotify.com/album/7JajfTaMnKAwz3BcM67Zx9"
+      },
+      "artists": [
+        {
+          "name": "Emma",
+          "url": "https://open.spotify.com/artist/0gzwXezN4IUHAwLufA6YcX"
+        }
+      ],
+      "date_added": "2024-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187776,
+      "name": "CENTOMILA",
+      "url": "https://open.spotify.com/track/4EFxaNq7V6LzMZv6dNdL2r"
+    },
+    {
+      "album": {
         "name": "Almas paralelas",
         "url": "https://open.spotify.com/album/3SYt2GZIfI8DGz8VlipVqb"
       },

@@ -215,6 +215,28 @@
     },
     {
       "album": {
+        "name": "ASTRO",
+        "url": "https://open.spotify.com/album/3MgibgQ9ES2OCG073TNXuG"
+      },
+      "artists": [
+        {
+          "name": "Astro",
+          "url": "https://open.spotify.com/artist/2pzFTbri7ew8mW2CbYpCNq"
+        },
+        {
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
+        }
+      ],
+      "date_added": "2024-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176838,
+      "name": "1 MOMENTO (feat. ANNA)",
+      "url": "https://open.spotify.com/track/6OCnAtM8oa0JymErlTYXxG"
+    },
+    {
+      "album": {
         "name": "10",
         "url": "https://open.spotify.com/album/4buUBHrLMnqUFtwWCfq1pb"
       },
@@ -4674,7 +4696,7 @@
       ],
       "date_added": "2024-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-06",
       "duration_ms": 184250,
       "name": "Black Nirvana",
       "url": "https://open.spotify.com/track/0kcXZMVoH1q923xLM9OKf6"
@@ -14847,6 +14869,28 @@
     },
     {
       "album": {
+        "name": "ASTRO",
+        "url": "https://open.spotify.com/album/3MgibgQ9ES2OCG073TNXuG"
+      },
+      "artists": [
+        {
+          "name": "Astro",
+          "url": "https://open.spotify.com/artist/2pzFTbri7ew8mW2CbYpCNq"
+        },
+        {
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+        }
+      ],
+      "date_added": "2024-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184199,
+      "name": "GHETTO CHIC (feat. Capo Plaza)",
+      "url": "https://open.spotify.com/track/59dhypL0XctHMdiXw75naA"
+    },
+    {
+      "album": {
         "name": "GHETTO LOVE (feat. CLARA)",
         "url": "https://open.spotify.com/album/79TRrzyyW28JYQ9eNIeHey"
       },
@@ -16527,6 +16571,32 @@
     },
     {
       "album": {
+        "name": "Hope (feat. Izi, Joshua)",
+        "url": "https://open.spotify.com/album/7EmZ4NfzW70p91UuysLPQw"
+      },
+      "artists": [
+        {
+          "name": "Shablo",
+          "url": "https://open.spotify.com/artist/6hkKbkZGvAXuvle2FhCnxy"
+        },
+        {
+          "name": "Izi",
+          "url": "https://open.spotify.com/artist/6289Bbkkk3gaCbh1K7Rv8F"
+        },
+        {
+          "name": "Joshua",
+          "url": "https://open.spotify.com/artist/5MmLJMV7gqiV3RgmqTgAKO"
+        }
+      ],
+      "date_added": "2024-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171111,
+      "name": "Hope (feat. Izi, Joshua)",
+      "url": "https://open.spotify.com/track/4pbwPGtJ1nPTxzncaCmNRM"
+    },
+    {
+      "album": {
         "name": "LOCURA",
         "url": "https://open.spotify.com/album/0wYy8LTZuhiAyvchPppHPj"
       },
@@ -16538,7 +16608,7 @@
       ],
       "date_added": "2024-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-06",
       "duration_ms": 216960,
       "name": "HOT",
       "url": "https://open.spotify.com/track/0QwWAqI4UglxEiVObWCKvh"
@@ -19618,7 +19688,7 @@
       ],
       "date_added": "2024-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-06",
       "duration_ms": 228378,
       "name": "L'ULTIMA POESIA (feat. Ultimo)",
       "url": "https://open.spotify.com/track/5oJVfPUHsD7A8bZtKVqgL2"
@@ -32432,7 +32502,7 @@
       ],
       "date_added": "2024-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-06",
       "duration_ms": 210677,
       "name": "RAGNI",
       "url": "https://open.spotify.com/track/6gG5KFelSmKSUqXDDQg9sy"
@@ -36352,6 +36422,28 @@
       "duration_ms": 156479,
       "name": "Spedizione punitiva",
       "url": "https://open.spotify.com/track/2RqyqoJTECRr2py03ZmTvF"
+    },
+    {
+      "album": {
+        "name": "ASTRO",
+        "url": "https://open.spotify.com/album/3MgibgQ9ES2OCG073TNXuG"
+      },
+      "artists": [
+        {
+          "name": "Astro",
+          "url": "https://open.spotify.com/artist/2pzFTbri7ew8mW2CbYpCNq"
+        },
+        {
+          "name": "Simba La Rue",
+          "url": "https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO"
+        }
+      ],
+      "date_added": "2024-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124675,
+      "name": "SPENDERE (feat. Simba La Rue)",
+      "url": "https://open.spotify.com/track/1CJNj8Qnpoz6lyil9EgqfE"
     },
     {
       "album": {

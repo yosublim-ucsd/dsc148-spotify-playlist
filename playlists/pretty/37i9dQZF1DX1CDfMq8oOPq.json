@@ -1,6 +1,6 @@
 {
   "description": "calma malvadeza \ud83d\udc40 \ud83d\ude30",
-  "num_followers": 57853,
+  "num_followers": 57913,
   "original_name": "Baby Hair",
   "owner": {
     "name": "Spotify",
@@ -415,50 +415,6 @@
     {
       "added_at": "2024-09-13 03:01:00",
       "album": {
-        "name": "Len\u00e7ol",
-        "url": "https://open.spotify.com/album/6k2B1qx4XwaKcg2eni2Tgm"
-      },
-      "artists": [
-        {
-          "name": "Budah",
-          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
-        },
-        {
-          "name": "Pedro Lotto",
-          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
-        },
-        {
-          "name": "Vulgo FK",
-          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
-        }
-      ],
-      "duration_ms": 189677,
-      "name": "Len\u00e7ol",
-      "url": "https://open.spotify.com/track/1kExsrotab58XS3pTd1Ym7"
-    },
-    {
-      "added_at": "2024-09-13 03:01:00",
-      "album": {
-        "name": "100 Mili",
-        "url": "https://open.spotify.com/album/1BwTcopCPLmipd6iCOVXFi"
-      },
-      "artists": [
-        {
-          "name": "Ebony",
-          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
-        },
-        {
-          "name": "LARINHX",
-          "url": "https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i"
-        }
-      ],
-      "duration_ms": 142153,
-      "name": "100 Mili",
-      "url": "https://open.spotify.com/track/4eolUWC5VizUx1YMHMeagu"
-    },
-    {
-      "added_at": "2024-09-13 03:01:00",
-      "album": {
         "name": "Seu Nome",
         "url": "https://open.spotify.com/album/7E5eMLXtr8OxdiJcIPtbpj"
       },
@@ -483,6 +439,50 @@
       "duration_ms": 150508,
       "name": "Seu Nome",
       "url": "https://open.spotify.com/track/50JauwWdLI3L5oTw5UZmuP"
+    },
+    {
+      "added_at": "2024-09-13 03:01:00",
+      "album": {
+        "name": "100 Mili",
+        "url": "https://open.spotify.com/album/1BwTcopCPLmipd6iCOVXFi"
+      },
+      "artists": [
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        },
+        {
+          "name": "LARINHX",
+          "url": "https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i"
+        }
+      ],
+      "duration_ms": 142153,
+      "name": "100 Mili",
+      "url": "https://open.spotify.com/track/4eolUWC5VizUx1YMHMeagu"
+    },
+    {
+      "added_at": "2024-09-13 03:01:00",
+      "album": {
+        "name": "Len\u00e7ol",
+        "url": "https://open.spotify.com/album/6k2B1qx4XwaKcg2eni2Tgm"
+      },
+      "artists": [
+        {
+          "name": "Budah",
+          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
+        },
+        {
+          "name": "Pedro Lotto",
+          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
+        },
+        {
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
+        }
+      ],
+      "duration_ms": 189677,
+      "name": "Len\u00e7ol",
+      "url": "https://open.spotify.com/track/1kExsrotab58XS3pTd1Ym7"
     },
     {
       "added_at": "2024-09-13 03:01:00",

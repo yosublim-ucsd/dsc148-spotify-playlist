@@ -1507,6 +1507,36 @@
     },
     {
       "album": {
+        "name": "F.R.E.N.C.H.C.O.R.E.",
+        "url": "https://open.spotify.com/album/08UAg9MSdmXQ2IBnhJx6eC"
+      },
+      "artists": [
+        {
+          "name": "Dr. Peacock",
+          "url": "https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3"
+        },
+        {
+          "name": "Billx",
+          "url": "https://open.spotify.com/artist/0Ldjd0Z66CJ0rChWXx0jzB"
+        },
+        {
+          "name": "The Sickest Squad",
+          "url": "https://open.spotify.com/artist/1NGSmZz3W7RduM185NLWdk"
+        },
+        {
+          "name": "Frenchcore Familia",
+          "url": "https://open.spotify.com/artist/3lX2yJBnRgHzvGp6d5xGjR"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158750,
+      "name": "F.R.E.N.C.H.C.O.R.E.",
+      "url": "https://open.spotify.com/track/48KVM5tvfliqY6l7kduiPF"
+    },
+    {
+      "album": {
         "name": "Fade To Black",
         "url": "https://open.spotify.com/album/0EUYMtj5bwFoOHwdHwv8IT"
       },
@@ -4778,7 +4808,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-06",
       "duration_ms": 211858,
       "name": "Swallow It",
       "url": "https://open.spotify.com/track/7gnMMIlH6scodeu3kHINvs"

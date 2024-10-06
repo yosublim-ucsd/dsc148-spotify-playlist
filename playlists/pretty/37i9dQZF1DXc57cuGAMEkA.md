@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。Creepy Nuts, Coldplay, King Gnu, Eve, Leon Bridges and more! cover: Creepy Nuts
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,815 likes - 97 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,865 likes - 97 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 59 | [Burn](https://open.spotify.com/track/2rGmDOHWb9zLND3x8gegMy) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT), [Frost Children](https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag) | [Soul Kiss](https://open.spotify.com/album/4qcwB8667roNvwKlij2Z0M) | 3:27 |
 | 60 | [Off The Mask](https://open.spotify.com/track/3hHNvwkMZ153mKfdoaXyRr) | [YUTA](https://open.spotify.com/artist/4WndMgZGitK4uQdKcmVHua) | [Depth](https://open.spotify.com/album/0tbbcpZnZsuyJLOpB7SOK3) | 2:50 |
 | 61 | [きのこいぬ](https://open.spotify.com/track/7nZUzjdOE3nGCAkfo2Z6JQ) | [HY](https://open.spotify.com/artist/3x621ItlHMtX7mrJ8QnEjM) | [きのこいぬ](https://open.spotify.com/album/2SE0UJN41SHZIZHdDausIx) | 2:26 |
-| 62 | [Wortk Out](https://open.spotify.com/track/3BIL3gxETKDeILrD6vScO3) | [syudou](https://open.spotify.com/artist/43XkWaoCS0wKjuMJrWFgoa) | [Wortk Out](https://open.spotify.com/album/79Gx4UrnoNUVinkknsj7T8) | 2:58 |
+| 62 | [Work Out](https://open.spotify.com/track/3BIL3gxETKDeILrD6vScO3) | [syudou](https://open.spotify.com/artist/43XkWaoCS0wKjuMJrWFgoa) | [Work Out](https://open.spotify.com/album/79Gx4UrnoNUVinkknsj7T8) | 2:58 |
 | 63 | [Made to order](https://open.spotify.com/track/0FwhWEoErD7OXxJoCeI6fk) | [Mafumafu](https://open.spotify.com/artist/6t6aXZlmnAF1VuiG8BVjQZ) | [Made to order](https://open.spotify.com/album/39EJXEYGjkRGDsg4wleKe9) | 3:09 |
 | 64 | [MONOCHROME](https://open.spotify.com/track/5gwzzDhUO1H4tIRRJDjnny) | [水槽](https://open.spotify.com/artist/67dtSHfEqrggSaOaicpaXq) | [MONOCHROME](https://open.spotify.com/album/04zfcQnPmaUnxJGNUkVW1o) | 3:01 |
 | 65 | [Shark \- 10 Years On](https://open.spotify.com/track/6XPFp6BsOEDABofydcczti) | [Oh Wonder](https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9) | [Shark \- 10 Years On](https://open.spotify.com/album/1imVQjqUJUgQ214G98eCzg) | 3:00 |

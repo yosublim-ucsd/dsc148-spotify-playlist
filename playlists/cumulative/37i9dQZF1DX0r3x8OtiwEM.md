@@ -4,7 +4,7 @@
 
 > Chill techno, melodic house and tech house.
 
-658 songs - 2 day 16 hr 50 min
+659 songs - 2 day 16 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -494,7 +494,7 @@
 | [Serene](https://open.spotify.com/track/1dcf0QKivMDYgnZSWoMQht) | [Austrek](https://open.spotify.com/artist/5o9ehF7eb3bPeKdf4LXUmz) | [Serene](https://open.spotify.com/album/1zRJ5Q0nj2yAuQoyvCDE2S) | 6:08 | 2019-09-19 | 2020-04-05 |
 | [Set to Glow \- Miyagi Remix](https://open.spotify.com/track/4jrNWxMrhWuLRONHxl7jwi) | [Small Fires](https://open.spotify.com/artist/6lcQgSJvV3dxRev56wMrbc), [Miyagi](https://open.spotify.com/artist/3SYkxKBdwKFCTxWDh9l5f9) | [Set to Glow Remixes](https://open.spotify.com/album/5rkmbztHuzzyejMTbRJ2ey) | 7:30 | 2020-03-30 | 2020-07-31 |
 | [Shades](https://open.spotify.com/track/5xLW8Ct1MuMTFQMUhlGzAW) | [Fur Coat](https://open.spotify.com/artist/26J5ZprV3p7jv4fHTmpXsB) | [Polyphony](https://open.spotify.com/album/0V5Uf2RwJbyJVqvaM2QxXP) | 6:52 | 2020-11-03 | 2021-01-15 |
-| [Shapes in the Spray](https://open.spotify.com/track/6h3ZomURqLW7JkM2S66FFL) | [Klangphonics](https://open.spotify.com/artist/0UoXOPQo2BAZ3pSfkt5XZA) | [Shapes in the Spray](https://open.spotify.com/album/3FnbdauVXBaaSNUg5ABYRf) | 7:09 | 2023-04-05 |  |
+| [Shapes in the Spray](https://open.spotify.com/track/6h3ZomURqLW7JkM2S66FFL) | [Klangphonics](https://open.spotify.com/artist/0UoXOPQo2BAZ3pSfkt5XZA) | [Shapes in the Spray](https://open.spotify.com/album/3FnbdauVXBaaSNUg5ABYRf) | 7:09 | 2023-04-05 | 2024-10-06 |
 | [Shipwreck](https://open.spotify.com/track/0gNfWEUXLlkH73wDzMCzBx) | [Klangkarussell](https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo) | [Shipwreck](https://open.spotify.com/album/1xUmLruPIKpNE3DzRjAUv4) | 4:03 | 2020-06-29 | 2022-04-21 |
 | [Shipwreck](https://open.spotify.com/track/4nzXOL0cDe90TzBB1ZKIBT) | [Klangkarussell](https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo) | [Shipwreck / My World](https://open.spotify.com/album/7KuX0qEAZtyeC6O1R0YYna) | 4:03 | 2022-07-08 | 2022-10-08 |
 | [Shout](https://open.spotify.com/track/22ZKJNtawShU4ZnhJrcTWw) | [Qplex](https://open.spotify.com/artist/6jzKbs2y3hrAeiM5frPVbY) | [Shout EP](https://open.spotify.com/album/7xwHiWuo5BG4EbYrKBATmG) | 6:01 | 2020-02-22 | 2021-03-19 |
@@ -592,6 +592,7 @@
 | [Time \- Alan Walker Remix \- Extended Version](https://open.spotify.com/track/6SDQETfHW9JT9p99S3nB44) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Time \(Alan Walker Remix\)](https://open.spotify.com/album/6Enr9Ghbsfd3Gs9QLrj612) | 3:35 | 2020-06-12 | 2020-09-11 |
 | [Time Machine](https://open.spotify.com/track/2W95I0bLSIEyuMepqUO522) | [Eelke Kleijn](https://open.spotify.com/artist/1FY8kqUQKHwjibwLbp5cey) | [Time Machine](https://open.spotify.com/album/4N3tw2C89vya0RGo6P7g84) | 4:31 | 2023-09-15 | 2024-05-23 |
 | [Toni](https://open.spotify.com/track/1pCKUgc3yk3F9Mt0MTX51o) | [Kalipo](https://open.spotify.com/artist/7ud6dY3K4gi4Q0uVlLd8Hi) | [Toni](https://open.spotify.com/album/3X2xoDkyQ7hVrelZbAiJJY) | 4:58 | 2021-07-17 | 2022-07-28 |
+| [Too Far Down The Trap \- Kölsch Remix](https://open.spotify.com/track/2HBcyKXs7ahHDssSJ9goSq) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [The Temper Trap](https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq), [Kölsch](https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0) | [Promised Land \(Remixes\)](https://open.spotify.com/album/7y2Ql92gRjn5vdf1pE8Dhn) | 4:14 | 2024-10-04 |  |
 | [Topinambur](https://open.spotify.com/track/1aVOrF9veeQuBHZ3FqgZo3) | [Robag Wruhme](https://open.spotify.com/artist/47UDvjDVedKddLfGWk3keI) | [Topinambur EP](https://open.spotify.com/album/6DN4tGqxGOdvGTagUJFmMe) | 6:30 | 2019-12-02 | 2020-05-27 |
 | [Torch](https://open.spotify.com/track/0OcME0MLglLCSUABwfObS1) | [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB) | [Torch / The Highs Are Higher](https://open.spotify.com/album/1oGZxY1b5cxa3CnK52Wzif) | 7:08 | 2019-10-10 | 2020-06-08 |
 | [Transition](https://open.spotify.com/track/0UxU9qQc3Et21BAoVjb5og) | [Nic Fanciulli](https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk), [Andrea Oliva](https://open.spotify.com/artist/6oqv4rbOMlOZNOUoDFgBSp) | [Transition](https://open.spotify.com/album/0QvkWlC02bMXH0nLz2ErTo) | 4:03 | 2020-01-01 | 2020-01-03 |

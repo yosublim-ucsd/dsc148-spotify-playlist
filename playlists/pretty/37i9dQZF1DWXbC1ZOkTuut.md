@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbC1ZOkTuut.md) - [plain]
 
 > Descubre los nuevos álbumes de Música Mexicana\. Hit shuffle for a mixed listening experience\. Cover: Espinoza Paz
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,221 likes - 252 songs - 12 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,231 likes - 252 songs - 12 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbC1ZOkTuut.md) - [plain]
 | 25 | [El Caminante](https://open.spotify.com/track/3Hv6acH4mKhpohJ7fKOX5v) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [Rancheras & Adictivas](https://open.spotify.com/album/3yTfG82CulQc6ShTGD1j0m) | 3:20 |
 | 26 | [La Loba Del Mal](https://open.spotify.com/track/7Djikdp5jvdGiivFZ9gM0s) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [Rancheras & Adictivas](https://open.spotify.com/album/3yTfG82CulQc6ShTGD1j0m) | 2:23 |
 | 27 | [Mi Gusto Es](https://open.spotify.com/track/4WTxIgoq5yvmUNqxypl7uF) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [Rancheras & Adictivas](https://open.spotify.com/album/3yTfG82CulQc6ShTGD1j0m) | 2:32 |
-| 28 | [Deluxe](https://open.spotify.com/track/25gBI72Y98PLAjMYHEZzsE) | [Octavio Cuadras](https://open.spotify.com/artist/2DleHTnLZ18SJy0LCcoIGp), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [CORRIDOS FELICES \- DELUXE](https://open.spotify.com/album/6aUFW1CXXtZfeZJ6hTZhPo) | 2:10 |
+| 28 | [Deluxe](https://open.spotify.com/track/25gBI72Y98PLAjMYHEZzsE) | [Octavio Cuadras](https://open.spotify.com/artist/2DleHTnLZ18SJy0LCcoIGp), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [CORRIDOS FELICES \(DELUXE\)](https://open.spotify.com/album/6aUFW1CXXtZfeZJ6hTZhPo) | 2:10 |
 | 29 | [El Pescado \- En Vivo](https://open.spotify.com/track/2cowyusXnchoRZcouWtVav) | [Javier Rosas Y Su Artillería Pesada](https://open.spotify.com/artist/5FAAR1LqXQp0HbgVfQ8ZWE), [Los Cervantez](https://open.spotify.com/artist/2OPbU26I6E5lGnzHzXAjBI) | [Explosión de Corridos \(En Vivo\)](https://open.spotify.com/album/29NI8bKrtSNDgqoPF3Qipr) | 2:38 |
 | 30 | [El 5\-5 y El Cachorrín \- En Vivo](https://open.spotify.com/track/6xLC5cFlJVG0mlM14FKZMc) | [Javier Rosas Y Su Artillería Pesada](https://open.spotify.com/artist/5FAAR1LqXQp0HbgVfQ8ZWE), [Los Cervantez](https://open.spotify.com/artist/2OPbU26I6E5lGnzHzXAjBI) | [Explosión de Corridos \(En Vivo\)](https://open.spotify.com/album/29NI8bKrtSNDgqoPF3Qipr) | 4:40 |
 | 31 | [El Shak \- En Vivo](https://open.spotify.com/track/4eGq9TOakSk230bNIHvrcN) | [Javier Rosas Y Su Artillería Pesada](https://open.spotify.com/artist/5FAAR1LqXQp0HbgVfQ8ZWE), [Los Cervantez](https://open.spotify.com/artist/2OPbU26I6E5lGnzHzXAjBI) | [Explosión de Corridos \(En Vivo\)](https://open.spotify.com/album/29NI8bKrtSNDgqoPF3Qipr) | 2:37 |

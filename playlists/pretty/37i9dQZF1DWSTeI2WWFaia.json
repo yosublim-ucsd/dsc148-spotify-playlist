@@ -1,6 +1,6 @@
 {
   "description": "Lyrical, lo-fi, and lowlife raps. Cover: Cordae",
-  "num_followers": 1591211,
+  "num_followers": 1591210,
   "original_name": "Spilled Ink",
   "owner": {
     "name": "Spotify",
@@ -423,8 +423,8 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Ferraris in The Rain (feat. ScHoolboy Q)",
-        "url": "https://open.spotify.com/album/1dWIttqeOcIy31kGnSBWUg"
+        "name": "The Genuine Articulate",
+        "url": "https://open.spotify.com/album/3EzeDYzLp9bcuK162KVDMp"
       },
       "artists": [
         {
@@ -432,13 +432,13 @@
           "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
         },
         {
-          "name": "ScHoolboy Q",
-          "url": "https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m"
+          "name": "Conway the Machine",
+          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
         }
       ],
-      "duration_ms": 184266,
-      "name": "Ferraris In The Rain (feat. ScHoolboy Q)",
-      "url": "https://open.spotify.com/track/1pm9njASb5DN0K7aMUwPNW"
+      "duration_ms": 157880,
+      "name": "Diego Maradona",
+      "url": "https://open.spotify.com/track/384lbjCji1ciQLiKRIMHiK"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -571,8 +571,8 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "The Genuine Articulate",
-        "url": "https://open.spotify.com/album/3EzeDYzLp9bcuK162KVDMp"
+        "name": "Ferraris in The Rain (feat. ScHoolboy Q)",
+        "url": "https://open.spotify.com/album/1dWIttqeOcIy31kGnSBWUg"
       },
       "artists": [
         {
@@ -580,13 +580,13 @@
           "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
         },
         {
-          "name": "Conway the Machine",
-          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
+          "name": "ScHoolboy Q",
+          "url": "https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m"
         }
       ],
-      "duration_ms": 157880,
-      "name": "Diego Maradona",
-      "url": "https://open.spotify.com/track/384lbjCji1ciQLiKRIMHiK"
+      "duration_ms": 184266,
+      "name": "Ferraris In The Rain (feat. ScHoolboy Q)",
+      "url": "https://open.spotify.com/track/1pm9njASb5DN0K7aMUwPNW"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -603,6 +603,26 @@
       "duration_ms": 236960,
       "name": "Love Life",
       "url": "https://open.spotify.com/track/4NW3t9GA7CyBisyoROefUs"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Dope Sellers",
+        "url": "https://open.spotify.com/album/5irHqOOBAjst62lNYi9dyb"
+      },
+      "artists": [
+        {
+          "name": "Millyz",
+          "url": "https://open.spotify.com/artist/7dDYME7Y3GoEQotd8gUvQg"
+        },
+        {
+          "name": "Dave East",
+          "url": "https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5"
+        }
+      ],
+      "duration_ms": 196363,
+      "name": "Dope Sellers",
+      "url": "https://open.spotify.com/track/3cz5RErpG7AyW9fejWTWOk"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -643,26 +663,6 @@
       "duration_ms": 122413,
       "name": "Buried Alive",
       "url": "https://open.spotify.com/track/17hgE2h9PhLC6RJuFm2BEQ"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "Dope Sellers",
-        "url": "https://open.spotify.com/album/5irHqOOBAjst62lNYi9dyb"
-      },
-      "artists": [
-        {
-          "name": "Millyz",
-          "url": "https://open.spotify.com/artist/7dDYME7Y3GoEQotd8gUvQg"
-        },
-        {
-          "name": "Dave East",
-          "url": "https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5"
-        }
-      ],
-      "duration_ms": 196363,
-      "name": "Dope Sellers",
-      "url": "https://open.spotify.com/track/3cz5RErpG7AyW9fejWTWOk"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -775,30 +775,6 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Not Now I'm Busy",
-        "url": "https://open.spotify.com/album/3nk0Fqc9VCCNbfMJcF8pM2"
-      },
-      "artists": [
-        {
-          "name": "Joyner Lucas",
-          "url": "https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa"
-        },
-        {
-          "name": "Symba",
-          "url": "https://open.spotify.com/artist/06S3fr7xEES7e3QPXhu3ay"
-        },
-        {
-          "name": "DMX",
-          "url": "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
-        }
-      ],
-      "duration_ms": 348352,
-      "name": "I Didn't Go",
-      "url": "https://open.spotify.com/track/6R7huB68Jl4HRYzDj5UOV7"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
         "name": "Welcome 2 Collegrove",
         "url": "https://open.spotify.com/album/2LdlfTE6xqf2Ez8LPAFZSy"
       },
@@ -819,6 +795,30 @@
       "duration_ms": 313397,
       "name": "Oprah & Gayle (feat. Benny The Butcher)",
       "url": "https://open.spotify.com/track/0CFqRIdR0LbMGGHSjTaQYt"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Not Now I'm Busy",
+        "url": "https://open.spotify.com/album/3nk0Fqc9VCCNbfMJcF8pM2"
+      },
+      "artists": [
+        {
+          "name": "Joyner Lucas",
+          "url": "https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa"
+        },
+        {
+          "name": "Symba",
+          "url": "https://open.spotify.com/artist/06S3fr7xEES7e3QPXhu3ay"
+        },
+        {
+          "name": "DMX",
+          "url": "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
+        }
+      ],
+      "duration_ms": 348352,
+      "name": "I Didn't Go",
+      "url": "https://open.spotify.com/track/6R7huB68Jl4HRYzDj5UOV7"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -847,30 +847,6 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Summertime Butch",
-        "url": "https://open.spotify.com/album/10FJPB8KEAOK6PLXe8PEvR"
-      },
-      "artists": [
-        {
-          "name": "Benny The Butcher",
-          "url": "https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T"
-        },
-        {
-          "name": "Black Soprano Family",
-          "url": "https://open.spotify.com/artist/3s7WzrEs4FkNObqj4WyfQm"
-        },
-        {
-          "name": "Harry Fraud",
-          "url": "https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S"
-        }
-      ],
-      "duration_ms": 132506,
-      "name": "Kitchen Table",
-      "url": "https://open.spotify.com/track/5ioDyG14CzzR5mIHA7UApb"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
         "name": "Don't Forget To Breathe",
         "url": "https://open.spotify.com/album/4bL9AVepWWKbg11Th0kGj0"
       },
@@ -883,6 +859,22 @@
       "duration_ms": 154920,
       "name": "Buddy A Fool",
       "url": "https://open.spotify.com/track/1dX4aE2jUQklKlXIFXHF7K"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Magic 3",
+        "url": "https://open.spotify.com/album/1NLLTGSKTYOvlFKFtRXFGz"
+      },
+      "artists": [
+        {
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        }
+      ],
+      "duration_ms": 197519,
+      "name": "I Love This Feeling",
+      "url": "https://open.spotify.com/track/3UDor25dsBp55meFUeOpx2"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -907,18 +899,26 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Magic 3",
-        "url": "https://open.spotify.com/album/1NLLTGSKTYOvlFKFtRXFGz"
+        "name": "Summertime Butch",
+        "url": "https://open.spotify.com/album/10FJPB8KEAOK6PLXe8PEvR"
       },
       "artists": [
         {
-          "name": "Nas",
-          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+          "name": "Benny The Butcher",
+          "url": "https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T"
+        },
+        {
+          "name": "Black Soprano Family",
+          "url": "https://open.spotify.com/artist/3s7WzrEs4FkNObqj4WyfQm"
+        },
+        {
+          "name": "Harry Fraud",
+          "url": "https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S"
         }
       ],
-      "duration_ms": 197519,
-      "name": "I Love This Feeling",
-      "url": "https://open.spotify.com/track/3UDor25dsBp55meFUeOpx2"
+      "duration_ms": 132506,
+      "name": "Kitchen Table",
+      "url": "https://open.spotify.com/track/5ioDyG14CzzR5mIHA7UApb"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -995,18 +995,22 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Moving Day",
-        "url": "https://open.spotify.com/album/6704YouVguYBevesjOlyC3"
+        "name": "Muggsy Bogues",
+        "url": "https://open.spotify.com/album/476DYeSACCOnbGwVThJ82W"
       },
       "artists": [
         {
-          "name": "Samara Cyn",
-          "url": "https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0"
+          "name": "Marlon Craft",
+          "url": "https://open.spotify.com/artist/7MigDh04CCntQbsBvugEmb"
+        },
+        {
+          "name": "Method Man",
+          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
         }
       ],
-      "duration_ms": 170602,
-      "name": "Moving Day",
-      "url": "https://open.spotify.com/track/4qDDIXfhFPCJd5OzKa6Bun"
+      "duration_ms": 200500,
+      "name": "Muggsy Bogues",
+      "url": "https://open.spotify.com/track/17VsGeETmPijC3sjZq1lwu"
     }
   ],
   "unique_name": "Spilled Ink",

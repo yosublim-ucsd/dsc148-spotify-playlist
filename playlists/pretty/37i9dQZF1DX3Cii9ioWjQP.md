@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Cii9ioWjQP.md) - [plain]
 
 > All about Korean Jazz hits & new \(Cover: YUJIN KIM\(김유진\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,689 likes - 102 songs - 7 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,693 likes - 102 songs - 7 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX1rUSgDt83Z2.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX1rUSgDt83Z2) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1rUSgDt83Z2)
 
-### [Made in NL](https://open.spotify.com/playlist/37i9dQZF1DX1rUSgDt83Z2)
+### [Made in NL 🇳🇱](https://open.spotify.com/playlist/37i9dQZF1DX1rUSgDt83Z2)
 
 > Mooi van eigen bodem, nationaal in elke taal.
 

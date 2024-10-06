@@ -2,7 +2,7 @@
 
 ### [Testify](https://open.spotify.com/playlist/37i9dQZF1DXbQX7bVSkxBy)
 
-> Raise a voice and testify the goodness of God\.  Cover:  <a href=https://open.spotify.com/artist/3iEUsaFN1cxgIUgjJSrE8c?si=8DpxP0bsRwCrHhz5TSrQSA>Julian Roberts</a> and  <a href=https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX?si=xccCHo17TVe6X6rAqUlsLw>Theresa Phondo</a>
+> Raise a voice and testify the goodness of God\.  Cover:  <a href=https://open.spotify.com/artist/7Aqgu2MNhHNHobtzJB1DlK?si=SOwtrhu8R1qkXuYD\_pqr3A>Preye Odede</a>
 
 309 songs - 1 day 1 hr 31 min
 

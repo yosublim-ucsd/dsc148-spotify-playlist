@@ -4,7 +4,7 @@
 
 > chill beats, lofi vibes, new tracks every week...
 
-6,996 songs - 11 day 1 hr 15 min
+6,997 songs - 11 day 1 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,7 @@
 | [5am in cairo](https://open.spotify.com/track/21NHuCeoEJ76SVggMgNsNw) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [5am in cairo](https://open.spotify.com/album/1roCs0WmQH30We3HBrCvOn) | 2:57 | 2020-08-25 | 2021-10-02 |
 | [6 AM](https://open.spotify.com/track/4q9LTp6HB2OKDlbNgrLn39) | [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt), [flowless](https://open.spotify.com/artist/71dR4Sjwy1ikQyYIcCWvxS), [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL) | [6 AM](https://open.spotify.com/album/1jNJxQaep23GkcDFnXZdXx) | 1:55 | 2023-05-23 | 2023-09-16 |
 | [666](https://open.spotify.com/track/0a58S0ERta0i8nAUuGoMv0) | [Smeyeul.](https://open.spotify.com/artist/4IXRiE1MOvty3H8tQ0KvTO), [Galvanic](https://open.spotify.com/artist/3GQj08iHefTniyhHjCVBov), [DLJ](https://open.spotify.com/artist/3chQixmxhv9UmwQc8aBApA) | [666](https://open.spotify.com/album/35QkKaaiA0nmNbNDtNwchc) | 2:25 | 2019-12-06 | 2020-01-14 |
-| [6AM](https://open.spotify.com/track/3bCQKTqf87bl08T1mRQSa9) | [Puar](https://open.spotify.com/artist/2yvxxt7s9QjwEOZtLQ2yfT) | [6AM](https://open.spotify.com/album/726l6FtQNTSHtE5vOegISU) | 1:48 | 2024-09-27 |  |
+| [6AM](https://open.spotify.com/track/3bCQKTqf87bl08T1mRQSa9) | [Puar](https://open.spotify.com/artist/2yvxxt7s9QjwEOZtLQ2yfT) | [6AM](https://open.spotify.com/album/726l6FtQNTSHtE5vOegISU) | 1:48 | 2024-09-27 | 2024-10-06 |
 | [73 Spaceloop](https://open.spotify.com/track/6NpJrkwYfrBXppjRbyjoL8) | [BluntOne](https://open.spotify.com/artist/225l1KEprObX8xgl8xo2Gc) | [73 Spaceloop](https://open.spotify.com/album/4CSoFQ8KiiRONQB5b59WFj) | 1:19 | 2024-07-16 | 2024-08-17 |
 | [74 miles from you](https://open.spotify.com/track/3RsPo4nBGUTbQYtT3CGyIC) | [DonLear](https://open.spotify.com/artist/2XFmnlp2flbDWWn4lYJGls), [Kanimayo](https://open.spotify.com/artist/4SVWzWmrg2LqMlVrt0ZZq1) | [74 miles from you](https://open.spotify.com/album/1ufrpkBIwxk5eZMaBgocUT) | 1:51 | 2022-12-23 | 2024-01-19 |
 | [777](https://open.spotify.com/track/6VfRvY8RmH4zfqJqcKqlu8) | [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU), [Glimlip](https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3) | [777](https://open.spotify.com/album/4ha5OvpjluhF81Tu9ZzhHg) | 1:46 | 2019-12-22 | 2021-01-26 |
@@ -378,6 +378,7 @@
 | [As rosas não falam](https://open.spotify.com/track/3M5uzEE4suvDYijAMb3TCf) | [Geezmo](https://open.spotify.com/artist/4WeV818vJ6dSmgg6c8VA49) | [As rosas não falam](https://open.spotify.com/album/4S154zR7jXQ1mz5kuZgk6T) | 2:26 | 2022-07-15 | 2022-10-28 |
 | [As The Cycle Begins](https://open.spotify.com/track/1EjH4DwmMQUypmXeQemIRl) | [Beats Me, Innit?](https://open.spotify.com/artist/5szil3lhFSrW575RVEyPle) | [As The Cycle Begins](https://open.spotify.com/album/5SvUvNhy36OOyItsP2P7PZ) | 2:30 | 2022-02-14 | 2022-09-09 |
 | [As Time Goes By](https://open.spotify.com/track/0xh8FDAOAhaUh5R090cNwR) | [Oslo](https://open.spotify.com/artist/7ifB9W0rZFGLiYcisBM9fC) | [As Time Goes By](https://open.spotify.com/album/1cnwAI0srg62j5GyhPRN1h) | 1:27 | 2022-12-23 | 2023-08-11 |
+| [Ascension](https://open.spotify.com/track/5GYVPAZ4BOSjp6OcST1gAu) | [Skeptika](https://open.spotify.com/artist/34yxdeDhSnUVmM0DZcExpT), [wavvzz](https://open.spotify.com/artist/33tg0cH66APhaWirPjOXEu), [Baen Mow](https://open.spotify.com/artist/2mt3wR9B4tg9KXvICFYhqM) | [Ascension](https://open.spotify.com/album/0f9Z4iB2eWqtNvwf13TmYk) | 2:08 | 2024-10-04 |  |
 | [ashy keyboard](https://open.spotify.com/track/18rW4znR6LblkBDzKLKvD9) | [Robertson](https://open.spotify.com/artist/2EzlZPJxXWKsLlQBJUEw28) | [autumn](https://open.spotify.com/album/57Fa1enzowCC6BKxI8juGH) | 1:47 | 2021-01-18 | 2022-03-12 |
 | [Asking About A Girl](https://open.spotify.com/track/7sqF3qtp7girpFWVHO6GWQ) | [Drawing With Numbers](https://open.spotify.com/artist/3BB6ImhQEX91DbeiIMyVYZ) | [Asking About A Girl](https://open.spotify.com/album/60OWq1GxQ17PQM2BmAd2Yw) | 2:40 | 2022-01-07 | 2022-08-27 |
 | [Asleep](https://open.spotify.com/track/3cKdKO3W5HVpTglCLGf0Jq) | [Fractite](https://open.spotify.com/artist/6ex1nFRXHTVXl7qcbR2nZc) | [Asleep](https://open.spotify.com/album/2GPsc7C24ssfcpZDTwHmGo) | 1:32 | 2020-07-31 | 2021-10-02 |
@@ -1420,7 +1421,7 @@
 | [Currents](https://open.spotify.com/track/14EIN2a94afMwsLe60SyPv) | [Allem Iversom](https://open.spotify.com/artist/6RaUtVLO8R5TsVdJIxSrq1), [little blue](https://open.spotify.com/artist/5WFsnwKBPWK0uFitm41Dv1) | [Currents](https://open.spotify.com/album/1blPnl6EZOKznld3FTN9WS) | 3:01 | 2022-07-29 | 2022-11-11 |
 | [curry stew](https://open.spotify.com/track/2ofE44gibHiNgvpsA3btuD) | [yellofish](https://open.spotify.com/artist/6wHTJtZcirtHMW5PALNq3p) | [curry stew](https://open.spotify.com/album/5kcTMY8GlsXQlGxlF24NYd) | 2:20 | 2024-09-27 |  |
 | [Curtis](https://open.spotify.com/track/1UAjBK0H7OFZy1dxxnW95B) | [Hike Willis](https://open.spotify.com/artist/1PWLabHIW3qul5FYx9TG9I) | [Curtis](https://open.spotify.com/album/0VbZxSS8ieynrZiXMPLUme) | 1:07 | 2024-02-16 |  |
-| [Curve](https://open.spotify.com/track/35bSqW8LExij5iRfq3cYu8) | [Bird Svensøn](https://open.spotify.com/artist/6y2CjnelXUD9BqAMzLkgvC) | [Curve](https://open.spotify.com/album/37rudORbdb2z5mqA9ECLWY) | 1:54 | 2023-11-10 | 2024-10-05 |
+| [Curve](https://open.spotify.com/track/35bSqW8LExij5iRfq3cYu8) | [Bird Svensøn](https://open.spotify.com/artist/6y2CjnelXUD9BqAMzLkgvC) | [Curve](https://open.spotify.com/album/37rudORbdb2z5mqA9ECLWY) | 1:54 | 2023-11-10 |  |
 | [Cut Blue](https://open.spotify.com/track/5D5z2jGcd3ckGdsGlnWaA8) | [HawaiiHockey](https://open.spotify.com/artist/5zFj3SRX2H5iLzWzqJvGVe) | [Cut Blue](https://open.spotify.com/album/2tTETR7nRSosdmscgsYIY7) | 2:12 | 2024-06-07 |  |
 | [Cutty Flam](https://open.spotify.com/track/6KuQWy86TkXylokqSiqdHc) | [Koby 808](https://open.spotify.com/artist/43y8HzuEyK246soWSYULOJ) | [Cutty Flam](https://open.spotify.com/album/0l42ebkaqEYsa7v7dBxiLp) | 1:55 | 2022-07-29 | 2022-12-09 |
 | [Cyberpunk](https://open.spotify.com/track/3rCPYE5SOs39meadtMrWYh) | [Nathan Kawanishi](https://open.spotify.com/artist/2Jo4Zz3YTkRH5hq65BFMqe) | [Cyberpunk](https://open.spotify.com/album/4hXPoVYcCVqXnkZ4FeHtPi) | 2:08 | 2019-12-06 | 2020-08-30 |
@@ -4967,7 +4968,7 @@
 | [Reminisce](https://open.spotify.com/track/6SXJNIroh2Phy4mE3eoByf) | [Oaty.](https://open.spotify.com/artist/2S5BNs8nlCRoKvnw9LuwBU) | [Reminisce](https://open.spotify.com/album/5s6DZtGioEgmR6MCjjFSCS) | 2:10 | 2022-11-18 | 2023-01-20 |
 | [Reminisce.](https://open.spotify.com/track/2H1G5ubtYJiPGbUJG5ve13) | [Jinsang](https://open.spotify.com/artist/5FsfZj0Mp6YwEWytuJUcWt) | [Solitude.](https://open.spotify.com/album/2LmtQ9lQwaV9D1xRUL80fG) | 1:19 | 2019-06-27 | 2020-02-08 |
 | [Reminiscing](https://open.spotify.com/track/3bWNLKM7mVLoHtZNI2No9M) | [Sweatson Klank](https://open.spotify.com/artist/6rvxjnXZ3KPlIPZ8IP7wIT) | [Reminiscing](https://open.spotify.com/album/1ewA6LBVrhb4M6ClaowJFc) | 2:37 | 2022-12-09 | 2023-04-28 |
-| [Remote](https://open.spotify.com/track/5Fko2Xqz6c18Wb3sMxHhSF) | [Bird Svensøn](https://open.spotify.com/artist/6y2CjnelXUD9BqAMzLkgvC) | [Remote](https://open.spotify.com/album/6ztuVk3ctk3h7KolAIEvrY) | 1:53 | 2023-12-15 |  |
+| [Remote](https://open.spotify.com/track/5Fko2Xqz6c18Wb3sMxHhSF) | [Bird Svensøn](https://open.spotify.com/artist/6y2CjnelXUD9BqAMzLkgvC) | [Remote](https://open.spotify.com/album/6ztuVk3ctk3h7KolAIEvrY) | 1:53 | 2023-12-15 | 2024-10-06 |
 | [Remote View](https://open.spotify.com/track/0gXy1WrnnvaOxaxa8uEiKC) | [Uneven Cream](https://open.spotify.com/artist/3q4YekQy6KxztUAacnsqLf) | [Remote View](https://open.spotify.com/album/4qSrf2jwAUPsqeecgyEAza) | 1:16 | 2023-10-27 |  |
 | [renaissance](https://open.spotify.com/track/6dmnEeVRQg6GHwZ8MZ4FJy) | [DRWN.](https://open.spotify.com/artist/0h6JSIfoSSbXtaBWiUC4Wy), [dharā](https://open.spotify.com/artist/1M6OZtIOe8HhLXuGy8djF6) | [renaissance](https://open.spotify.com/album/2K7620SLoXmep3oDK1DYTU) | 1:50 | 2022-01-21 | 2022-07-16 |
 | [Rendez\-vous](https://open.spotify.com/track/6EgZUpZJofaM76rsbSniTX) | [Hentzup](https://open.spotify.com/artist/46lgw0sjtMASpdeuxkLfq0) | [Rendez\-vous](https://open.spotify.com/album/24BQOSqr6aO5jq0Nqb4H20) | 1:47 | 2022-04-23 | 2022-09-09 |

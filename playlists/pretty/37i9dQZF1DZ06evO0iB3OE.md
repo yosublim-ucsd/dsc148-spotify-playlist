@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0iB3OE.md) - [plain]
 
 ### [This Is El Potro De Sinaloa](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0iB3OE)
 
-> This Is El Potro De Sinaloa\. Los temas esenciales, todos en una lista.
+> This is El Potro De Sinaloa\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,129 likes - 50 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,133 likes - 50 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0iB3OE.md) - [plain]
 | 49 | [Como en la Revolución](https://open.spotify.com/track/3BrZrZ62yBViYCnKnDp5mh) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [El Maz Poderoso](https://open.spotify.com/album/1EzS2DlYdpDPPSfLAWOanJ) | 2:09 |
 | 50 | [La Vieja Escuela \(EN VIVO\)](https://open.spotify.com/track/7zYAULUec9oDIfAkCUe2Nc) | [El Mimoso Luis Antonio López](https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g), [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN), [Joel Elizalde](https://open.spotify.com/artist/55EA5tfk6pyYA7L6Hgb5Nr), [El Frizian](https://open.spotify.com/artist/2Oc5k5AzcBOoH470jTgZzp), [EL LOBITO DE SINALOA](https://open.spotify.com/artist/53dntt9Kh7qwQNPimcwRxa), [Jorge Cordero](https://open.spotify.com/artist/2QSIGTQtAMKIlTwNUQgsmy) | [La Vieja Escuela \(EN VIVO\)](https://open.spotify.com/album/3MjYSZtHa2Eyr9Kxrqizmm) | 1:16:24 |
 
-Snapshot ID: `Zv3egAAAAADldLYLuVrAanSEhIlfWWBc`
+Snapshot ID: `Zv3egAAAAAC6BjisdxTg1jCplvcVGqXc`

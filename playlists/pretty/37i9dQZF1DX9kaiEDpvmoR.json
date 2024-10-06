@@ -1,6 +1,6 @@
 {
   "description": "Aktuell musik med etablerade och intressanta artister. ",
-  "num_followers": 92200,
+  "num_followers": 92205,
   "original_name": "Aktuellt",
   "owner": {
     "name": "Spotify",
@@ -131,18 +131,18 @@
     {
       "added_at": "2024-10-03 22:00:00",
       "album": {
-        "name": "Shawn",
-        "url": "https://open.spotify.com/album/1Gjj4lJko9J5Xh3VDWziyE"
+        "name": "Moon Music",
+        "url": "https://open.spotify.com/album/5SGtrmYbIo0Dsg4kJ4qjM6"
       },
       "artists": [
         {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
         }
       ],
-      "duration_ms": 164700,
-      "name": "Isn\u2019t That Enough",
-      "url": "https://open.spotify.com/track/4fbxssdJB51UuMQiYQFxiI"
+      "duration_ms": 222647,
+      "name": "ALL MY LOVE",
+      "url": "https://open.spotify.com/track/6iYxkBHyMpsgVxUgfy5fSx"
     },
     {
       "added_at": "2024-10-03 22:00:00",
@@ -231,22 +231,18 @@
     {
       "added_at": "2024-10-03 22:00:00",
       "album": {
-        "name": "Now or Never (feat. Lauren Alaina)",
-        "url": "https://open.spotify.com/album/5qBLAcf1q3O8bvsyrweWNy"
+        "name": "Shawn",
+        "url": "https://open.spotify.com/album/1Gjj4lJko9J5Xh3VDWziyE"
       },
       "artists": [
         {
-          "name": "Corey Kent",
-          "url": "https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc"
-        },
-        {
-          "name": "Lauren Alaina",
-          "url": "https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv"
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
         }
       ],
-      "duration_ms": 174946,
-      "name": "Now or Never (feat. Lauren Alaina)",
-      "url": "https://open.spotify.com/track/6GvYbJ7A0iAnGYFReRMxSa"
+      "duration_ms": 164700,
+      "name": "Isn\u2019t That Enough",
+      "url": "https://open.spotify.com/track/4fbxssdJB51UuMQiYQFxiI"
     },
     {
       "added_at": "2024-10-03 22:00:00",
@@ -267,6 +263,26 @@
       "duration_ms": 220800,
       "name": "Som en sprucken mandolin",
       "url": "https://open.spotify.com/track/6NmjnuBzH9lE7AzKDLwadl"
+    },
+    {
+      "added_at": "2024-10-03 22:00:00",
+      "album": {
+        "name": "Now or Never (feat. Lauren Alaina)",
+        "url": "https://open.spotify.com/album/5qBLAcf1q3O8bvsyrweWNy"
+      },
+      "artists": [
+        {
+          "name": "Corey Kent",
+          "url": "https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc"
+        },
+        {
+          "name": "Lauren Alaina",
+          "url": "https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv"
+        }
+      ],
+      "duration_ms": 174946,
+      "name": "Now or Never (feat. Lauren Alaina)",
+      "url": "https://open.spotify.com/track/6GvYbJ7A0iAnGYFReRMxSa"
     },
     {
       "added_at": "2024-10-03 22:00:00",
@@ -419,22 +435,6 @@
     {
       "added_at": "2024-10-03 22:00:00",
       "album": {
-        "name": "About A Woman",
-        "url": "https://open.spotify.com/album/6tDerbhPTlX8pa0hyRStZG"
-      },
-      "artists": [
-        {
-          "name": "Thomas Rhett",
-          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
-        }
-      ],
-      "duration_ms": 210891,
-      "name": "Somethin' 'Bout A Woman",
-      "url": "https://open.spotify.com/track/4ehCVk8StZrXolPSeFs5Ss"
-    },
-    {
-      "added_at": "2024-10-03 22:00:00",
-      "album": {
         "name": "Obsessed",
         "url": "https://open.spotify.com/album/5GKNtp0KLwDysaUXwZNeib"
       },
@@ -451,6 +451,22 @@
       "duration_ms": 200649,
       "name": "Walked on Water (feat. Kesha)",
       "url": "https://open.spotify.com/track/15Dz1snbrX3zsvYU0F28g1"
+    },
+    {
+      "added_at": "2024-10-03 22:00:00",
+      "album": {
+        "name": "About A Woman",
+        "url": "https://open.spotify.com/album/6tDerbhPTlX8pa0hyRStZG"
+      },
+      "artists": [
+        {
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        }
+      ],
+      "duration_ms": 210891,
+      "name": "Somethin' 'Bout A Woman",
+      "url": "https://open.spotify.com/track/4ehCVk8StZrXolPSeFs5Ss"
     },
     {
       "added_at": "2024-10-03 22:00:00",
@@ -623,18 +639,18 @@
     {
       "added_at": "2024-10-03 22:00:00",
       "album": {
-        "name": "Hejd\u00e5 f\u00f6r alltid",
-        "url": "https://open.spotify.com/album/6PkWYsNSD5l4lpT0x4gtzc"
+        "name": "S\u00e4kra kort",
+        "url": "https://open.spotify.com/album/6pUqEAq1WoB1O9g7HWNuXL"
       },
       "artists": [
         {
-          "name": "Melissa Horn",
-          "url": "https://open.spotify.com/artist/0tOdy7SqogILIjzGU2hSr5"
+          "name": "Herman Silow",
+          "url": "https://open.spotify.com/artist/3I0osKUHYFoSJdBFeseDcO"
         }
       ],
-      "duration_ms": 205125,
-      "name": "Hejd\u00e5 f\u00f6r alltid",
-      "url": "https://open.spotify.com/track/6mYXbGfYFzLoYWSjEQD3zS"
+      "duration_ms": 203195,
+      "name": "S\u00e4kra kort",
+      "url": "https://open.spotify.com/track/4TyzrKciaUGim6k1HR7pIC"
     },
     {
       "added_at": "2024-10-03 22:00:00",
@@ -659,18 +675,18 @@
     {
       "added_at": "2024-10-03 22:00:00",
       "album": {
-        "name": "S\u00e4kra kort",
-        "url": "https://open.spotify.com/album/6pUqEAq1WoB1O9g7HWNuXL"
+        "name": "Hejd\u00e5 f\u00f6r alltid",
+        "url": "https://open.spotify.com/album/6PkWYsNSD5l4lpT0x4gtzc"
       },
       "artists": [
         {
-          "name": "Herman Silow",
-          "url": "https://open.spotify.com/artist/3I0osKUHYFoSJdBFeseDcO"
+          "name": "Melissa Horn",
+          "url": "https://open.spotify.com/artist/0tOdy7SqogILIjzGU2hSr5"
         }
       ],
-      "duration_ms": 203195,
-      "name": "S\u00e4kra kort",
-      "url": "https://open.spotify.com/track/4TyzrKciaUGim6k1HR7pIC"
+      "duration_ms": 205125,
+      "name": "Hejd\u00e5 f\u00f6r alltid",
+      "url": "https://open.spotify.com/track/6mYXbGfYFzLoYWSjEQD3zS"
     },
     {
       "added_at": "2024-10-03 22:00:00",
@@ -707,22 +723,6 @@
       "duration_ms": 208651,
       "name": "Worthy",
       "url": "https://open.spotify.com/track/5SYYkUKQRdi0FuaB9vJfOw"
-    },
-    {
-      "added_at": "2024-10-03 22:00:00",
-      "album": {
-        "name": "Moon Music",
-        "url": "https://open.spotify.com/album/5SGtrmYbIo0Dsg4kJ4qjM6"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 222647,
-      "name": "ALL MY LOVE",
-      "url": "https://open.spotify.com/track/6iYxkBHyMpsgVxUgfy5fSx"
     },
     {
       "added_at": "2024-10-03 22:00:00",
@@ -963,22 +963,6 @@
     {
       "added_at": "2024-10-03 22:00:00",
       "album": {
-        "name": "Low",
-        "url": "https://open.spotify.com/album/4uymGW41PoRSJkM6vt1YRv"
-      },
-      "artists": [
-        {
-          "name": "Maja Francis",
-          "url": "https://open.spotify.com/artist/0RxWnw4aoWwxXsC2cdCj4c"
-        }
-      ],
-      "duration_ms": 217474,
-      "name": "Low",
-      "url": "https://open.spotify.com/track/1fp4bZAAzicpIRFlnPANrP"
-    },
-    {
-      "added_at": "2024-10-03 22:00:00",
-      "album": {
         "name": "Ge En Sol",
         "url": "https://open.spotify.com/album/1BfjmqtMSgFnvpKKHX56dl"
       },
@@ -995,6 +979,22 @@
     {
       "added_at": "2024-10-03 22:00:00",
       "album": {
+        "name": "Low",
+        "url": "https://open.spotify.com/album/4uymGW41PoRSJkM6vt1YRv"
+      },
+      "artists": [
+        {
+          "name": "Maja Francis",
+          "url": "https://open.spotify.com/artist/0RxWnw4aoWwxXsC2cdCj4c"
+        }
+      ],
+      "duration_ms": 217474,
+      "name": "Low",
+      "url": "https://open.spotify.com/track/1fp4bZAAzicpIRFlnPANrP"
+    },
+    {
+      "added_at": "2024-10-03 22:00:00",
+      "album": {
         "name": "Flowers at a Funeral",
         "url": "https://open.spotify.com/album/4YXKLLSnxHt1Kvgb2OQLvg"
       },
@@ -1007,6 +1007,38 @@
       "duration_ms": 207360,
       "name": "Flowers at a Funeral",
       "url": "https://open.spotify.com/track/3tW7YR0lQoJds70KsLP0i7"
+    },
+    {
+      "added_at": "2024-10-03 22:00:00",
+      "album": {
+        "name": "Vad Dom Sa",
+        "url": "https://open.spotify.com/album/2GXmmJ3Pa4263uiMUGVSJe"
+      },
+      "artists": [
+        {
+          "name": "UPPENBARA",
+          "url": "https://open.spotify.com/artist/43blp0I6QmWnZmDW7yW9E7"
+        }
+      ],
+      "duration_ms": 167225,
+      "name": "Vad Dom Sa",
+      "url": "https://open.spotify.com/track/1g1YkPsarGn8O0XaUqKJkf"
+    },
+    {
+      "added_at": "2024-10-03 22:00:00",
+      "album": {
+        "name": "Weak Point",
+        "url": "https://open.spotify.com/album/1tLbj0WqyOa2zhZMP4wN2Y"
+      },
+      "artists": [
+        {
+          "name": "Hannes Aitman",
+          "url": "https://open.spotify.com/artist/1c4LDWC8eotoBU95E0YJef"
+        }
+      ],
+      "duration_ms": 285520,
+      "name": "Weak Point",
+      "url": "https://open.spotify.com/track/75HLPctDDaXOBjfp7mK6eh"
     },
     {
       "added_at": "2024-10-03 22:00:00",
@@ -1031,50 +1063,18 @@
     {
       "added_at": "2024-10-03 22:00:00",
       "album": {
-        "name": "Weak Point",
-        "url": "https://open.spotify.com/album/1tLbj0WqyOa2zhZMP4wN2Y"
+        "name": "Discomforts",
+        "url": "https://open.spotify.com/album/5qGpZMR4RN6UO2499HTpjs"
       },
       "artists": [
         {
-          "name": "Hannes Aitman",
-          "url": "https://open.spotify.com/artist/1c4LDWC8eotoBU95E0YJef"
+          "name": "Albin Lee Meldau",
+          "url": "https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK"
         }
       ],
-      "duration_ms": 285520,
-      "name": "Weak Point",
-      "url": "https://open.spotify.com/track/75HLPctDDaXOBjfp7mK6eh"
-    },
-    {
-      "added_at": "2024-10-03 22:00:00",
-      "album": {
-        "name": "Vad Dom Sa",
-        "url": "https://open.spotify.com/album/2GXmmJ3Pa4263uiMUGVSJe"
-      },
-      "artists": [
-        {
-          "name": "UPPENBARA",
-          "url": "https://open.spotify.com/artist/43blp0I6QmWnZmDW7yW9E7"
-        }
-      ],
-      "duration_ms": 167225,
-      "name": "Vad Dom Sa",
-      "url": "https://open.spotify.com/track/1g1YkPsarGn8O0XaUqKJkf"
-    },
-    {
-      "added_at": "2024-10-03 22:00:00",
-      "album": {
-        "name": "All Day",
-        "url": "https://open.spotify.com/album/0WllqZUSAvlWsgorqEeNtO"
-      },
-      "artists": [
-        {
-          "name": "Noak Hellsing",
-          "url": "https://open.spotify.com/artist/47WlUGFrUj1hDhjzX1l6nc"
-        }
-      ],
-      "duration_ms": 157240,
-      "name": "All Day",
-      "url": "https://open.spotify.com/track/32j1YuaC7HP0ukGGimVI3n"
+      "duration_ms": 168497,
+      "name": "If You Ever Change Your Mind",
+      "url": "https://open.spotify.com/track/3V8FBJTwNcEX62NifPPJKI"
     },
     {
       "added_at": "2024-10-03 22:00:00",
@@ -1091,6 +1091,22 @@
       "duration_ms": 200000,
       "name": "Bermuda Triangle",
       "url": "https://open.spotify.com/track/3VfcwjlkUMqbXlJlXpWr5u"
+    },
+    {
+      "added_at": "2024-10-03 22:00:00",
+      "album": {
+        "name": "All Day",
+        "url": "https://open.spotify.com/album/0WllqZUSAvlWsgorqEeNtO"
+      },
+      "artists": [
+        {
+          "name": "Noak Hellsing",
+          "url": "https://open.spotify.com/artist/47WlUGFrUj1hDhjzX1l6nc"
+        }
+      ],
+      "duration_ms": 157240,
+      "name": "All Day",
+      "url": "https://open.spotify.com/track/32j1YuaC7HP0ukGGimVI3n"
     },
     {
       "added_at": "2024-10-03 22:00:00",
@@ -1163,18 +1179,18 @@
     {
       "added_at": "2024-10-03 22:00:00",
       "album": {
-        "name": "Discomforts",
-        "url": "https://open.spotify.com/album/5qGpZMR4RN6UO2499HTpjs"
+        "name": "When The Time Is Right",
+        "url": "https://open.spotify.com/album/2Ly57SAO3RbzXWXaR3C1tY"
       },
       "artists": [
         {
-          "name": "Albin Lee Meldau",
-          "url": "https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK"
+          "name": "Dirty Loops",
+          "url": "https://open.spotify.com/artist/5Apl0wL4OwNUDYkx69rMDQ"
         }
       ],
-      "duration_ms": 168497,
-      "name": "If You Ever Change Your Mind",
-      "url": "https://open.spotify.com/track/3V8FBJTwNcEX62NifPPJKI"
+      "duration_ms": 285842,
+      "name": "When The Time Is Right",
+      "url": "https://open.spotify.com/track/0hXJB5pUpO7BpYK6uQVaLr"
     },
     {
       "added_at": "2024-10-03 22:00:00",
@@ -1267,6 +1283,22 @@
     {
       "added_at": "2024-10-03 22:00:00",
       "album": {
+        "name": "Vill ha mer (2024 Version)",
+        "url": "https://open.spotify.com/album/6ixoV6ViSH8oxveefb0IFl"
+      },
+      "artists": [
+        {
+          "name": "Nordman",
+          "url": "https://open.spotify.com/artist/71c9ORC5hHt0J1TGCa5nxN"
+        }
+      ],
+      "duration_ms": 164880,
+      "name": "Vill ha mer - 2024 Version",
+      "url": "https://open.spotify.com/track/1GjRVj6OdWmFqRW7Uv8VII"
+    },
+    {
+      "added_at": "2024-10-03 22:00:00",
+      "album": {
         "name": "Lagt kort ligger",
         "url": "https://open.spotify.com/album/5TEnh1yxwpajxln13n15Qd"
       },
@@ -1287,22 +1319,6 @@
     {
       "added_at": "2024-10-03 22:00:00",
       "album": {
-        "name": "Vill ha mer (2024 Version)",
-        "url": "https://open.spotify.com/album/6ixoV6ViSH8oxveefb0IFl"
-      },
-      "artists": [
-        {
-          "name": "Nordman",
-          "url": "https://open.spotify.com/artist/71c9ORC5hHt0J1TGCa5nxN"
-        }
-      ],
-      "duration_ms": 164880,
-      "name": "Vill ha mer - 2024 Version",
-      "url": "https://open.spotify.com/track/1GjRVj6OdWmFqRW7Uv8VII"
-    },
-    {
-      "added_at": "2024-10-03 22:00:00",
-      "album": {
         "name": "Tar det upp i topp",
         "url": "https://open.spotify.com/album/2woeyU7TmFtihmbJEhWFC4"
       },
@@ -1315,6 +1331,26 @@
       "duration_ms": 169200,
       "name": "Tar det upp i topp",
       "url": "https://open.spotify.com/track/6LKb4nGZhInLchAZpNGDX2"
+    },
+    {
+      "added_at": "2024-10-03 22:00:00",
+      "album": {
+        "name": "Tjejdikter",
+        "url": "https://open.spotify.com/album/3D7jgC2xV8GIoZnm1SzwbC"
+      },
+      "artists": [
+        {
+          "name": "Tjejdikter",
+          "url": "https://open.spotify.com/artist/24jxioCskQfOCxvBwhJegc"
+        },
+        {
+          "name": "Victoria Nilas",
+          "url": "https://open.spotify.com/artist/51GCt6NtSa0VZPO6b8VDNe"
+        }
+      ],
+      "duration_ms": 186981,
+      "name": "Vi andra (feat. Victoria Nilas)",
+      "url": "https://open.spotify.com/track/2h36AjdVbDmssWQI1u5gjw"
     },
     {
       "added_at": "2024-10-03 22:00:00",
@@ -1367,26 +1403,6 @@
     {
       "added_at": "2024-10-03 22:00:00",
       "album": {
-        "name": "Tjejdikter",
-        "url": "https://open.spotify.com/album/3D7jgC2xV8GIoZnm1SzwbC"
-      },
-      "artists": [
-        {
-          "name": "Tjejdikter",
-          "url": "https://open.spotify.com/artist/24jxioCskQfOCxvBwhJegc"
-        },
-        {
-          "name": "Victoria Nilas",
-          "url": "https://open.spotify.com/artist/51GCt6NtSa0VZPO6b8VDNe"
-        }
-      ],
-      "duration_ms": 186981,
-      "name": "Vi andra (feat. Victoria Nilas)",
-      "url": "https://open.spotify.com/track/2h36AjdVbDmssWQI1u5gjw"
-    },
-    {
-      "added_at": "2024-10-03 22:00:00",
-      "album": {
         "name": "Talk",
         "url": "https://open.spotify.com/album/2f4Gpex8g1KWjGCfZ6jwAZ"
       },
@@ -1419,22 +1435,6 @@
     {
       "added_at": "2024-10-03 22:00:00",
       "album": {
-        "name": "COWBOY",
-        "url": "https://open.spotify.com/album/62OWWogIf1n6gAqTnFus1t"
-      },
-      "artists": [
-        {
-          "name": "Erika Jonsson",
-          "url": "https://open.spotify.com/artist/3hmxqVdRQUfpPNDpV5VqLx"
-        }
-      ],
-      "duration_ms": 203381,
-      "name": "COWBOY",
-      "url": "https://open.spotify.com/track/2ojU5QV9f6fU0dn1dZ46PP"
-    },
-    {
-      "added_at": "2024-10-03 22:00:00",
-      "album": {
         "name": "Mordbrand",
         "url": "https://open.spotify.com/album/1Qq4f6MVfVz1QG0NSvSB6D"
       },
@@ -1447,6 +1447,22 @@
       "duration_ms": 218103,
       "name": "Mordbrand",
       "url": "https://open.spotify.com/track/5wcN4IzrDi0vEEAL5etavw"
+    },
+    {
+      "added_at": "2024-10-03 22:00:00",
+      "album": {
+        "name": "COWBOY",
+        "url": "https://open.spotify.com/album/62OWWogIf1n6gAqTnFus1t"
+      },
+      "artists": [
+        {
+          "name": "Erika Jonsson",
+          "url": "https://open.spotify.com/artist/3hmxqVdRQUfpPNDpV5VqLx"
+        }
+      ],
+      "duration_ms": 203381,
+      "name": "COWBOY",
+      "url": "https://open.spotify.com/track/2ojU5QV9f6fU0dn1dZ46PP"
     },
     {
       "added_at": "2024-10-03 22:00:00",
@@ -1483,38 +1499,22 @@
     {
       "added_at": "2024-10-03 22:00:00",
       "album": {
-        "name": "Ingen s\u00e5 n\u00e4ra inp\u00e5",
-        "url": "https://open.spotify.com/album/2rNpEKVQCXNsbIFqMqNzcP"
+        "name": "Du \u00e4r inte ensam",
+        "url": "https://open.spotify.com/album/00veIC6BKJUrFwhxISPhUu"
       },
       "artists": [
         {
-          "name": "The Tarantula Waltz",
-          "url": "https://open.spotify.com/artist/7KqyMhqYoujfdaQZni6iUR"
+          "name": "Michael Jeff Johnson",
+          "url": "https://open.spotify.com/artist/3ta73ydktHSzZRez9vzyUV"
         },
         {
-          "name": "Amanda Bergman",
-          "url": "https://open.spotify.com/artist/4FmkyL0ggkDBUUoPzBlo80"
+          "name": "Sonja Ald\u00e9n",
+          "url": "https://open.spotify.com/artist/3XyHsKlvXenLURpECPEQOJ"
         }
       ],
-      "duration_ms": 237508,
-      "name": "Ingen s\u00e5 n\u00e4ra inp\u00e5",
-      "url": "https://open.spotify.com/track/70TN7mZ1pZRYjPQ5RwM5k9"
-    },
-    {
-      "added_at": "2024-10-03 22:00:00",
-      "album": {
-        "name": "Finish Line",
-        "url": "https://open.spotify.com/album/5xShuuJOSs4zD700DPTRh0"
-      },
-      "artists": [
-        {
-          "name": "Tingsek",
-          "url": "https://open.spotify.com/artist/7ld5C8ya3nwAnCTHG923VE"
-        }
-      ],
-      "duration_ms": 206626,
-      "name": "Finish Line",
-      "url": "https://open.spotify.com/track/5lU6xoJhNJCdckDU57wxod"
+      "duration_ms": 191229,
+      "name": "Du \u00e4r inte ensam",
+      "url": "https://open.spotify.com/track/6hysTRJfm36bH5gyGhMokz"
     }
   ],
   "unique_name": "Aktuellt",

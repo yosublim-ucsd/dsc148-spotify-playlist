@@ -1262,7 +1262,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-06",
       "duration_ms": 179031,
       "name": "All About Me",
       "url": "https://open.spotify.com/track/59HfHJcz1z8TMrZz6kjH9Y"
@@ -1677,6 +1677,24 @@
     },
     {
       "album": {
+        "name": "EDEN",
+        "url": "https://open.spotify.com/album/06jsjVmCYGPnkTHE81zwrc"
+      },
+      "artists": [
+        {
+          "name": "Ashley Sienna",
+          "url": "https://open.spotify.com/artist/2dfNhCW7cElnUBvmDvKGGi"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198933,
+      "name": "angel boy",
+      "url": "https://open.spotify.com/track/5UrpuVlEd2W69QMZQg0hZR"
+    },
+    {
+      "album": {
         "name": "Angel Of Satisfaction",
         "url": "https://open.spotify.com/album/7EhvxUYBMcsxAjt2Ub0E9n"
       },
@@ -1764,6 +1782,24 @@
       "duration_ms": 166213,
       "name": "Angelina",
       "url": "https://open.spotify.com/track/6FveHRXs0gcTE9GzFjnq6R"
+    },
+    {
+      "album": {
+        "name": "angie",
+        "url": "https://open.spotify.com/album/3MpGkxdtN037VpIKirfrUp"
+      },
+      "artists": [
+        {
+          "name": "Humble the Great",
+          "url": "https://open.spotify.com/artist/2mt0DSoD1Lc8halPyRTVHP"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175314,
+      "name": "angie",
+      "url": "https://open.spotify.com/track/55lfk9iyLoKBFlznN3ebkO"
     },
     {
       "album": {
@@ -3868,6 +3904,24 @@
       "duration_ms": 114974,
       "name": "Broke Pop Kids",
       "url": "https://open.spotify.com/track/59GdwgTNBaUR9fUSxDbOUk"
+    },
+    {
+      "album": {
+        "name": "BROKEN",
+        "url": "https://open.spotify.com/album/1aHlFkhxyz1Yxmb7sgQh24"
+      },
+      "artists": [
+        {
+          "name": "Ela Minus",
+          "url": "https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271435,
+      "name": "BROKEN",
+      "url": "https://open.spotify.com/track/3n4FkCfKlscDqYPMcTBdXm"
     },
     {
       "album": {
@@ -9076,7 +9130,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-06",
       "duration_ms": 169480,
       "name": "forever.",
       "url": "https://open.spotify.com/track/2HcM8xCQXmXUnP3bVdJZ1Y"
@@ -9170,6 +9224,24 @@
       "duration_ms": 214405,
       "name": "FreeRider",
       "url": "https://open.spotify.com/track/1JKg8ZhDLC3GDBqTGLfoAI"
+    },
+    {
+      "album": {
+        "name": "TANZPARTEI II (Mixtape)",
+        "url": "https://open.spotify.com/album/6lvniwPO6u3mkNTN3tSQcR"
+      },
+      "artists": [
+        {
+          "name": "ATRIP",
+          "url": "https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151599,
+      "name": "Friday (Alone Right Now)",
+      "url": "https://open.spotify.com/track/3hx5rxhEbaSIoHY1erGnby"
     },
     {
       "album": {
@@ -11735,6 +11807,28 @@
     },
     {
       "album": {
+        "name": "i don't rly care bout u!",
+        "url": "https://open.spotify.com/album/0NcC6LXLRpKMmD1zjPCaKS"
+      },
+      "artists": [
+        {
+          "name": "Regina Song",
+          "url": "https://open.spotify.com/artist/3Y7gOnKYWfQlEdgXag0Z6W"
+        },
+        {
+          "name": "hongjoin",
+          "url": "https://open.spotify.com/artist/2zDF6PeSxBlLKma4IMAlLu"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202905,
+      "name": "i don't rly care bout u!",
+      "url": "https://open.spotify.com/track/4hp0U870kcIYAmyXwh38zt"
+    },
+    {
+      "album": {
         "name": "When the City Sleeps",
         "url": "https://open.spotify.com/album/7LlmJ1aH2FGj9nEh0xPIF2"
       },
@@ -12370,7 +12464,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-06",
       "duration_ms": 219625,
       "name": "im just burnt...",
       "url": "https://open.spotify.com/track/04TFFzN49UNIjEl7odaTvr"
@@ -20388,7 +20482,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-06",
       "duration_ms": 153777,
       "name": "poltergeist",
       "url": "https://open.spotify.com/track/3xl8e3MwYxHfu89GsjJp2K"
@@ -20638,6 +20732,24 @@
       "duration_ms": 200449,
       "name": "Price On Fun",
       "url": "https://open.spotify.com/track/3RVdfN1q7TMQKywRmtfhdD"
+    },
+    {
+      "album": {
+        "name": "Princess Treatment",
+        "url": "https://open.spotify.com/album/0mF21ARJoYWYQ1mQ62viCC"
+      },
+      "artists": [
+        {
+          "name": "Florentina",
+          "url": "https://open.spotify.com/artist/7adCbfW9aRcBxWhuuSNXTo"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135645,
+      "name": "Princess Treatment",
+      "url": "https://open.spotify.com/track/16QzeM0c7wf4TgyXSVFlji"
     },
     {
       "album": {
@@ -25505,6 +25617,24 @@
     },
     {
       "album": {
+        "name": "Tiny Screens",
+        "url": "https://open.spotify.com/album/1ZeGBiEqsfeO25dU7kid1p"
+      },
+      "artists": [
+        {
+          "name": "Chloe Slater",
+          "url": "https://open.spotify.com/artist/43R8Umt7qVmJCcOZGWJy24"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178015,
+      "name": "Tiny Screens",
+      "url": "https://open.spotify.com/track/0P25VNpeP4L3NMOEMI68Yp"
+    },
+    {
+      "album": {
         "name": "Patched Up",
         "url": "https://open.spotify.com/album/7zPBy6Rjmijd4p8drmQPu7"
       },
@@ -25686,7 +25816,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-06",
       "duration_ms": 180590,
       "name": "Too Late",
       "url": "https://open.spotify.com/track/14Qnu50Sy8uZbJR3zEcbY4"
@@ -27134,7 +27264,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-06",
       "duration_ms": 165286,
       "name": "We Be Killing it",
       "url": "https://open.spotify.com/track/220vekezDsEdQz8PZrmfCn"
@@ -27416,6 +27546,24 @@
       "duration_ms": 270192,
       "name": "What?",
       "url": "https://open.spotify.com/track/1evZendZnEe8a8eXjd1Bcn"
+    },
+    {
+      "album": {
+        "name": "Waves On A Sunset",
+        "url": "https://open.spotify.com/album/3BZLyz9vRkmsw7Q8UyX3dm"
+      },
+      "artists": [
+        {
+          "name": "Tucker Wetmore",
+          "url": "https://open.spotify.com/artist/4sCKpwwEsgReZxjtKFm2A0"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185146,
+      "name": "When I Ain't Lookin'",
+      "url": "https://open.spotify.com/track/0des8iQjWbqSGkn89w7AWr"
     },
     {
       "album": {
@@ -29782,7 +29930,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-06",
       "duration_ms": 186000,
       "name": "\u4e09\u5206",
       "url": "https://open.spotify.com/track/7fmQAI0hZDqNHId7Sdvbup"
@@ -30638,7 +30786,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-06",
       "duration_ms": 531010,
       "name": "\u6211\u60f3 I Want",
       "url": "https://open.spotify.com/track/1fuyf4kGxjdEF6ScAR5k0C"

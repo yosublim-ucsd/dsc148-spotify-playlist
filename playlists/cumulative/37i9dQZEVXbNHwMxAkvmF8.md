@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Hungary.
 
-1,262 songs - 2 day 18 hr 45 min
+1,263 songs - 2 day 18 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,7 +131,7 @@
 | [BAZ+ \- Túl vagyok rajtad](https://open.spotify.com/track/5IweCSstXQHSmM9c42F7AP) | [BSW](https://open.spotify.com/artist/5Zwlr28h134D0OzxzUfVCA), [Tankcsapda](https://open.spotify.com/artist/3QbmGjx9VYiu3fpG8NjIZI) | [Sex, Love, Rock & Roll](https://open.spotify.com/album/4GNuuLaPJMC3KPPn5laNva) | 2:48 | 2022-11-24 | 2022-12-04 |
 | [BAZ+ \- Túl vagyok rajtad](https://open.spotify.com/track/6ofxXXTKk1UyRj9YkkWh3u) | [Bsw](https://open.spotify.com/artist/5Zwlr28h134D0OzxzUfVCA), [Tankcsapda](https://open.spotify.com/artist/3QbmGjx9VYiu3fpG8NjIZI) | [BAZ+ \(Túl vagyok rajtad\)](https://open.spotify.com/album/0ISupiy3v5iiVsLvir8d4n) | 2:48 | 2022-06-03 | 2022-11-25 |
 | [BB](https://open.spotify.com/track/2alqYZmRRT8U5E0mtw7LhJ) | [gyuris](https://open.spotify.com/artist/19w3KViMCX0eq1UjNic2W9), [Grasa](https://open.spotify.com/artist/7roOHVUjZASn8tsyBoyn7C) | [BARBATULA BARBATULA](https://open.spotify.com/album/6shv3bmIBOtB1hoGURDBuA) | 2:51 | 2023-12-16 | 2023-12-18 |
-| [Beautiful Things](https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Fireworks & Rollerblades](https://open.spotify.com/album/168CdR21lfn0TTyw1Pkdcm) | 3:00 | 2024-04-06 |  |
+| [Beautiful Things](https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Fireworks & Rollerblades](https://open.spotify.com/album/168CdR21lfn0TTyw1Pkdcm) | 3:00 | 2024-04-06 | 2024-10-06 |
 | [Beautiful Things](https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Beautiful Things](https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw) | 3:00 | 2024-01-20 | 2024-04-07 |
 | [Beb\*sztam](https://open.spotify.com/track/2zALUC201V0RwAAL2FzrLP) | [Bsw](https://open.spotify.com/artist/5Zwlr28h134D0OzxzUfVCA) | [Sex, Love, Rock & Roll](https://open.spotify.com/album/4GNuuLaPJMC3KPPn5laNva) | 2:38 | 2022-11-23 | 2022-11-28 |
 | [Beb\*sztam](https://open.spotify.com/track/4kHnC6jF3AG4P0K8WllpQr) | [Bsw](https://open.spotify.com/artist/5Zwlr28h134D0OzxzUfVCA) | [Beb\*sztam](https://open.spotify.com/album/3uh6yLcgSxTaELqzlRXbba) | 3:13 | 2022-09-02 | 2022-09-10 |
@@ -355,7 +355,7 @@
 | [Fekete Bárány](https://open.spotify.com/track/4QwbxaTZ6E6dfgHArKHzMb) | [KKevin](https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5) | [Fekete Bárány](https://open.spotify.com/album/3LFPqOlOc3iV5tzUkPG3tP) | 3:12 | 2022-08-11 | 2023-02-01 |
 | [FELDOBOM A KÖVET](https://open.spotify.com/track/55pp0M1iFTL6sPPLTuD4Rf) | [Carson Coma](https://open.spotify.com/artist/1q7g5SBAxtjizS3Vcof6Y6) | [FELDOBOM A KÖVET](https://open.spotify.com/album/1YqKHHgai670hZDWDzMBx5) | 5:11 | 2023-05-16 | 2023-06-03 |
 | [FELDOBOM A KÖVET](https://open.spotify.com/track/69tDcXG8O8BZ8jTTzySi4Q) | [Carson Coma](https://open.spotify.com/artist/1q7g5SBAxtjizS3Vcof6Y6) | [IV](https://open.spotify.com/album/0nPDuXV2pZFJbBcI7VNCw3) | 5:11 | 2023-06-02 | 2023-07-13 |
-| [Felednéd](https://open.spotify.com/track/3Mls3f2j9xGRqRRsoKA0Ef) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq), [DESH](https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw) | [A ló túloldalán](https://open.spotify.com/album/0TMeEvXP5MKfH34B5tBga7) | 3:01 | 2022-05-21 | 2024-10-04 |
+| [Felednéd](https://open.spotify.com/track/3Mls3f2j9xGRqRRsoKA0Ef) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq), [DESH](https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw) | [A ló túloldalán](https://open.spotify.com/album/0TMeEvXP5MKfH34B5tBga7) | 3:01 | 2022-05-21 |  |
 | [Feliz Navidad](https://open.spotify.com/track/0oPdaY4dXtc3ZsaG17V972) | [José Feliciano](https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF) | [Feliz Navidad](https://open.spotify.com/album/3No96PtEFyRfX1oELmZTPu) | 3:02 | 2023-12-03 | 2023-12-30 |
 | [Feliz Navidad](https://open.spotify.com/track/3qCeq0rWK67SoBDgFd2sId) | [José Feliciano](https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF) | [My Name Is José Feliciano](https://open.spotify.com/album/6leYmQzvQjlUtmpNIL9XYQ) | 3:02 | 2021-12-07 | 2022-12-29 |
 | [Feminist](https://open.spotify.com/track/02NQsdQD0bz7N8DBp7lOwE) | [ibbigang](https://open.spotify.com/artist/2ravlrMiNARUWPDDnlUIyy), [gyuris](https://open.spotify.com/artist/19w3KViMCX0eq1UjNic2W9), [Grasa](https://open.spotify.com/artist/7roOHVUjZASn8tsyBoyn7C) | [PP2](https://open.spotify.com/album/6iziIXiyDFW5VSngLMRwWT) | 2:24 | 2022-10-30 | 2022-11-17 |
@@ -637,7 +637,7 @@
 | [Loca](https://open.spotify.com/track/4VXiDjCRkKHvXFhSX7OEri) | [Bruno X Spacc](https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv), [KÚTVÖLGYI SÁRA](https://open.spotify.com/artist/2HFVT3TbcVZW8lWVE4eIka) | [Loca](https://open.spotify.com/album/2nKNusskARBW5lMEt3996z) | 1:54 | 2024-01-01 |  |
 | [loml](https://open.spotify.com/track/6RSG1dKPV5gEvILwJb4QtS) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt) | 4:37 | 2024-04-20 | 2024-04-22 |
 | [LOOOVE](https://open.spotify.com/track/0a4SMs889NwP8oWI7Vemle) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 3:46 | 2023-07-29 | 2023-07-31 |
-| [Lose Control](https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1\)](https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB) | 3:30 | 2024-02-23 |  |
+| [Lose Control](https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1\)](https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB) | 3:30 | 2024-02-23 | 2024-10-06 |
 | [Lost](https://open.spotify.com/track/373gDROnujxNTFa1FojYIl) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Lost](https://open.spotify.com/album/7bN4OM5mtWq0UrAxdN6qMC) | 3:19 | 2023-02-11 | 2023-02-21 |
 | [Lost Cause](https://open.spotify.com/track/2xdwCJLfKCkat14mlgR26M) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Lost Cause](https://open.spotify.com/album/0hPbP7ckqqFVftdTPatlED) | 3:32 | 2021-06-05 | 2021-06-19 |
 | [LOST FOREVER](https://open.spotify.com/track/7EiUtdeoWcKqLi5ELZCjYf) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 2:43 | 2023-07-29 | 2023-07-31 |
@@ -1171,6 +1171,7 @@
 | [VEZÉREGYÉNISÉG](https://open.spotify.com/track/0dSkwXX1PZ9mb2O26V68bZ) | [Beton.Hofi](https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y), [Dan Pinto](https://open.spotify.com/artist/5Bg0nn9wJutwmaNhhld2Xw) | [0](https://open.spotify.com/album/3IOx3DP8tK4ihrbAyk7fCf) | 1:49 | 2024-03-09 | 2024-03-17 |
 | [viadal](https://open.spotify.com/track/4kRnFRvg8mFFJFFlxJ9FLW) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq) | [skatulya I](https://open.spotify.com/album/5u9MCFoebxeT8zyJk7ubYw) | 3:05 | 2024-04-19 | 2024-06-03 |
 | [vicc](https://open.spotify.com/track/6bmTNiH8blviXxFDVoAuL7) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq), [DESH](https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw) | [tripq](https://open.spotify.com/album/6ZO1hIeCfQ8neaKn3bPhyr) | 2:38 | 2023-08-25 | 2023-11-20 |
+| [VIDÉKI CSAJSZI](https://open.spotify.com/track/1105P9BDFQ4GZj7VS5vDuY) | [T\. Danny](https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG) | [VIDÉKI CSAJSZI](https://open.spotify.com/album/6Nz8LUkFkdvlQWwbByHDaq) | 3:09 | 2024-10-05 |  |
 | [Vigilante Shit](https://open.spotify.com/track/1xwAWUI6Dj0WGC3KiUPN0O) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 2:44 | 2022-10-22 | 2022-10-27 |
 | [Vigyázz](https://open.spotify.com/track/7hIjPLEhARePR07iBlXnCv) | [Manuel](https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8) | [Idegen](https://open.spotify.com/album/17WVw36YcpSYe2qJ8GpBw8) | 3:20 | 2023-03-07 | 2023-03-10 |
 | [Vigyázz](https://open.spotify.com/track/7jxraJulUuGw5kRjQtB7ah) | [Manuel](https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8) | [Idegen](https://open.spotify.com/album/3W938UewrgV3XpUBFXVEhv) | 3:20 | 2023-02-03 | 2023-03-08 |

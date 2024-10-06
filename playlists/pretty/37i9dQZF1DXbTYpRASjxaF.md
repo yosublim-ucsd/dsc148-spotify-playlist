@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTYpRASjxaF.md) - [plain]
 
 > Todos pro alto, cada um com o seu\. Foto: Abbot
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,750 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,761 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTYpRASjxaF.md) - [plain]
 | 44 | [GIRO DE TREM](https://open.spotify.com/track/55Wmcl6Ky4HBTDxtCd4P0L) | [FP do Trem Bala](https://open.spotify.com/artist/5hPHLE5ssifxHX5bhK8iXR), [NaPista](https://open.spotify.com/artist/7noaELdOPmJXFHKSlxhpVM), [Shark47](https://open.spotify.com/artist/32x7enJjI5BDRQUZNAHj3F) | [TREM ASTRO, VOL\. 1](https://open.spotify.com/album/5YiQzfty0RY8JAB4bx7pHK) | 2:33 |
 | 45 | [Remessa Estrangeira \- Remix](https://open.spotify.com/track/7uAJuitwU51BhTzlTIIsKN) | [2HEAVY BEATS](https://open.spotify.com/artist/2of4ilOUWTaYTqy3qgnUQQ), [Magrão AllFavela](https://open.spotify.com/artist/1TBurupOpaxZ5iA4uMXEo1) | [Remessa Estrangeira \(Remix\)](https://open.spotify.com/album/5ZbWv2KbDYbhZTLcLrlBPr) | 1:57 |
 | 46 | [Jovem Negro](https://open.spotify.com/track/0IAHL2PfkRD8wweJsYG9RN) | [Kroos](https://open.spotify.com/artist/6DhuCfHKjbit0qhjMripJT) | [Jovem Negro](https://open.spotify.com/album/2cSvynWbRrTEa0kHtYA2J9) | 1:53 |
-| 47 | [Bem Vinda a SP](https://open.spotify.com/track/0EdDsbTrDZOaaxctEZiYEl) | [Portugal No Beat](https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q), [MC GP](https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0), [Pk](https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm), [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut) | [Bem Vinda a SP](https://open.spotify.com/album/5F57Uld3RPSV1X7KzRrYO9) | 3:24 |
+| 47 | [Amor de folclore](https://open.spotify.com/track/7HKeMdcJNYQMkqkEZ5cbLU) | [Bauê](https://open.spotify.com/artist/5AK8aNLKdYAhdjJni1iecn) | [Amor de folclore](https://open.spotify.com/album/14QrymLdO55Kjne9YnsPcJ) | 2:30 |
 | 48 | [Ambições E Vícios](https://open.spotify.com/track/4Ku5B9wg2M7bzFJqosvqHv) | [DJ Matt D](https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5), [MC GP](https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0), [Real Bege](https://open.spotify.com/artist/26L8m5uIaOJCe0RgMMX3RP) | [Medo É Só Ilusão](https://open.spotify.com/album/2jQXDCqfn6UCdCN8VRA6eu) | 2:01 |
-| 49 | [Amor de folclore](https://open.spotify.com/track/7HKeMdcJNYQMkqkEZ5cbLU) | [Bauê](https://open.spotify.com/artist/5AK8aNLKdYAhdjJni1iecn) | [Amor de folclore](https://open.spotify.com/album/14QrymLdO55Kjne9YnsPcJ) | 2:30 |
+| 49 | [Bem Vinda a SP](https://open.spotify.com/track/0EdDsbTrDZOaaxctEZiYEl) | [Portugal No Beat](https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q), [MC GP](https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0), [Pk](https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm), [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut) | [Bem Vinda a SP](https://open.spotify.com/album/5F57Uld3RPSV1X7KzRrYO9) | 3:24 |
 | 50 | [Ela joga no 7](https://open.spotify.com/track/5vyu6cCIflFAmGZwnjyrq7) | [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [Dj Murillo e LT no Beat](https://open.spotify.com/artist/1Zl5Ac1YyOHBkJKInGxbaS), [Cúpula](https://open.spotify.com/artist/6IlN4Mij49rPYznzeOMD1F) | [Dacoromode](https://open.spotify.com/album/4wsh2d30QdwnFQLEpSkXKz) | 3:20 |
 
 Snapshot ID: `ZvYf7AAAAACW+TiVOPkXnFuUq4LPfmH5`

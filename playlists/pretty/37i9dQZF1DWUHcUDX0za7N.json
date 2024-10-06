@@ -1,6 +1,6 @@
 {
   "description": "Hip hop and rap music from Nigeria. Cover: Phyno",
-  "num_followers": 55351,
+  "num_followers": 55374,
   "original_name": "Naija Bars ",
   "owner": {
     "name": "Spotify",
@@ -1055,6 +1055,30 @@
     {
       "added_at": "2024-10-04 05:45:23",
       "album": {
+        "name": "Breakfast in Lagos",
+        "url": "https://open.spotify.com/album/2DW4TpRD2uABgICIMdiB5u"
+      },
+      "artists": [
+        {
+          "name": "Sholz",
+          "url": "https://open.spotify.com/artist/3DcibggJwwufI8QNBYnq67"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        },
+        {
+          "name": "Valentino Rose",
+          "url": "https://open.spotify.com/artist/0qIB4W2DllGjdIdeDK4l8t"
+        }
+      ],
+      "duration_ms": 141176,
+      "name": "Fire Wood",
+      "url": "https://open.spotify.com/track/4z7OibjcVz9QvNEYywHynf"
+    },
+    {
+      "added_at": "2024-10-04 05:45:23",
+      "album": {
         "name": "No Love In Lagos",
         "url": "https://open.spotify.com/album/3OB64tBkIABfzlcWTYfr9N"
       },
@@ -1095,30 +1119,6 @@
       "duration_ms": 122666,
       "name": "Taya",
       "url": "https://open.spotify.com/track/2umbkUK3LQnEkaDQLl8PZF"
-    },
-    {
-      "added_at": "2024-10-04 05:45:23",
-      "album": {
-        "name": "Breakfast in Lagos",
-        "url": "https://open.spotify.com/album/2DW4TpRD2uABgICIMdiB5u"
-      },
-      "artists": [
-        {
-          "name": "Sholz",
-          "url": "https://open.spotify.com/artist/3DcibggJwwufI8QNBYnq67"
-        },
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        },
-        {
-          "name": "Valentino Rose",
-          "url": "https://open.spotify.com/artist/0qIB4W2DllGjdIdeDK4l8t"
-        }
-      ],
-      "duration_ms": 141176,
-      "name": "Fire Wood",
-      "url": "https://open.spotify.com/track/4z7OibjcVz9QvNEYywHynf"
     },
     {
       "added_at": "2024-10-04 05:45:23",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2024-10-04 05:45:23",
       "album": {
-        "name": "Belong to You",
-        "url": "https://open.spotify.com/album/4wQ95SQDjYY9WxDp3ClIrU"
-      },
-      "artists": [
-        {
-          "name": "FAVE",
-          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "Belong to You",
-      "url": "https://open.spotify.com/track/4JDB6Rqf7lkWNx9wzs4kVb"
-    },
-    {
-      "added_at": "2024-10-04 05:45:23",
-      "album": {
         "name": "BOYAHNAH",
         "url": "https://open.spotify.com/album/2y49Ac4BVke9qR9fkABIH9"
       },
@@ -1323,6 +1307,22 @@
     {
       "added_at": "2024-10-04 05:45:23",
       "album": {
+        "name": "Belong to You",
+        "url": "https://open.spotify.com/album/4wQ95SQDjYY9WxDp3ClIrU"
+      },
+      "artists": [
+        {
+          "name": "FAVE",
+          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "Belong to You",
+      "url": "https://open.spotify.com/track/4JDB6Rqf7lkWNx9wzs4kVb"
+    },
+    {
+      "added_at": "2024-10-04 05:45:23",
+      "album": {
         "name": "Ave Maria",
         "url": "https://open.spotify.com/album/2uAGDDNP8V3aMbYeJmu7KS"
       },
@@ -1335,22 +1335,6 @@
       "duration_ms": 167052,
       "name": "Ave Maria",
       "url": "https://open.spotify.com/track/4azaom4n0UaMEcJCY4iAZL"
-    },
-    {
-      "added_at": "2024-10-04 05:45:23",
-      "album": {
-        "name": "Jumpin Bumpin",
-        "url": "https://open.spotify.com/album/1xP7JjWo5kl8Nta5MYc8Rw"
-      },
-      "artists": [
-        {
-          "name": "Kida Kudz",
-          "url": "https://open.spotify.com/artist/4wrFUdBKN4RBMtC3ZoLVdw"
-        }
-      ],
-      "duration_ms": 169130,
-      "name": "Jumpin Bumpin",
-      "url": "https://open.spotify.com/track/1R87FQkMGRnIiCeo9l3lCW"
     },
     {
       "added_at": "2024-10-04 05:45:23",
@@ -1379,22 +1363,18 @@
     {
       "added_at": "2024-10-04 05:45:23",
       "album": {
-        "name": "Warning!",
-        "url": "https://open.spotify.com/album/6VLWSdz3qe1ZHo5p3UCvQr"
+        "name": "Jumpin Bumpin",
+        "url": "https://open.spotify.com/album/1xP7JjWo5kl8Nta5MYc8Rw"
       },
       "artists": [
         {
-          "name": "Kel-P",
-          "url": "https://open.spotify.com/artist/4j2hypl84JFGRz00du5JT8"
-        },
-        {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+          "name": "Kida Kudz",
+          "url": "https://open.spotify.com/artist/4wrFUdBKN4RBMtC3ZoLVdw"
         }
       ],
-      "duration_ms": 164827,
-      "name": "Warning!",
-      "url": "https://open.spotify.com/track/1hf7ngzSpYKOyc0cTqmCXP"
+      "duration_ms": 169130,
+      "name": "Jumpin Bumpin",
+      "url": "https://open.spotify.com/track/1R87FQkMGRnIiCeo9l3lCW"
     },
     {
       "added_at": "2024-10-04 05:45:23",
@@ -1415,6 +1395,26 @@
       "duration_ms": 154960,
       "name": "Casa",
       "url": "https://open.spotify.com/track/3SW8UsHMfohqWOo2PGb9SM"
+    },
+    {
+      "added_at": "2024-10-04 05:45:23",
+      "album": {
+        "name": "Warning!",
+        "url": "https://open.spotify.com/album/6VLWSdz3qe1ZHo5p3UCvQr"
+      },
+      "artists": [
+        {
+          "name": "Kel-P",
+          "url": "https://open.spotify.com/artist/4j2hypl84JFGRz00du5JT8"
+        },
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        }
+      ],
+      "duration_ms": 164827,
+      "name": "Warning!",
+      "url": "https://open.spotify.com/track/1hf7ngzSpYKOyc0cTqmCXP"
     }
   ],
   "unique_name": "Naija Bars ",

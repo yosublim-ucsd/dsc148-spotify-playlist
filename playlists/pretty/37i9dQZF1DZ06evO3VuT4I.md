@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3VuT4I.md) - [plain]
 
 ### [This Is Suzanne Ciani](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3VuT4I)
 
-> This is Suzanne Ciani\. The essential tracks, all in one playlist.
+> This Is Suzanne Ciani\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,503 likes - 50 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,504 likes - 50 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3VuT4I.md) - [plain]
 | 49 | [Open Seas](https://open.spotify.com/track/51PQWtxQ9doTVToh33gi94) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Silver Ship](https://open.spotify.com/album/4XQHj9HwykiM9CHCdLYuXK) | 3:36 |
 | 50 | [A Higher Place \- Live](https://open.spotify.com/track/2deGGE7ZjGD0Wd4T48bXJc) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Improvisation on Four Sequences Live at Festival Antigel](https://open.spotify.com/album/7JMjtT9wBDupShzuacvuMQ) | 3:55 |
 
-Snapshot ID: `Zv3egAAAAACJnM5mJgmE7o3xYDXTxo2f`
+Snapshot ID: `Zv3egAAAAACTGkQV7JSF3t5vu/5G+j4O`

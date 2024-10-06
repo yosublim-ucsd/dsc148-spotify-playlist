@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2WUjFC.md) - [plain]
 
 ### [This Is Danny Felix](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2WUjFC)
 
-> This is Danny Felix\. The essential tracks, all in one playlist.
+> This Is Danny Felix\. Los temas esenciales, todos en una lista.
 
 [Spotify](https://open.spotify.com/user/spotify) - 798 likes - 50 songs - 2 hr 49 min
 
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2WUjFC.md) - [plain]
 | 49 | [Mentiras](https://open.spotify.com/track/2A1O05xCTx3gzPVqTfV1cP) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Neto Bernal](https://open.spotify.com/artist/0X8PwlFMDK85fIadwq3cA5) | [Mariachi Tumbado](https://open.spotify.com/album/2sbXCLAfQ1cE5DBgyp3idU) | 2:51 |
 | 50 | [LOS CHISMES](https://open.spotify.com/track/2nzLF18tyAGgwXdRzpY2sv) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [LOS CHISMES](https://open.spotify.com/album/0OCz3ZTLBSQQWixFUfx6WX) | 2:55 |
 
-Snapshot ID: `Zv3egAAAAACZKMg9ydTGMYXt8ZXfuYGd`
+Snapshot ID: `Zv3egAAAAABT32KmUR2BR84CS1CcP3UE`

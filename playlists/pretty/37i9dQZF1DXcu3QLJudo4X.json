@@ -1,6 +1,6 @@
 {
   "description": "Classic songs from the Blues songbook. Cover: Muddy Waters.",
-  "num_followers": 101438,
+  "num_followers": 101526,
   "original_name": "Blues Standards",
   "owner": {
     "name": "Spotify",
@@ -323,6 +323,22 @@
     {
       "added_at": "2024-06-02 16:42:51",
       "album": {
+        "name": "The Very Best Of Albert King",
+        "url": "https://open.spotify.com/album/4OlzrLmYCCqAXdEGS2UkJx"
+      },
+      "artists": [
+        {
+          "name": "Albert King",
+          "url": "https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o"
+        }
+      ],
+      "duration_ms": 154813,
+      "name": "Crosscut Saw",
+      "url": "https://open.spotify.com/track/1uu03dv8HEchMBXcR08uke"
+    },
+    {
+      "added_at": "2024-06-02 16:42:51",
+      "album": {
         "name": "Jamming With Edward",
         "url": "https://open.spotify.com/album/4flw1L8widdDehQ4BYHQvO"
       },
@@ -343,22 +359,6 @@
       "duration_ms": 314373,
       "name": "It Hurts Me Too",
       "url": "https://open.spotify.com/track/5lgfWxatYUKXvQEE1oTGDE"
-    },
-    {
-      "added_at": "2024-06-02 16:42:51",
-      "album": {
-        "name": "The Very Best Of Albert King",
-        "url": "https://open.spotify.com/album/4OlzrLmYCCqAXdEGS2UkJx"
-      },
-      "artists": [
-        {
-          "name": "Albert King",
-          "url": "https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o"
-        }
-      ],
-      "duration_ms": 154813,
-      "name": "Crosscut Saw",
-      "url": "https://open.spotify.com/track/1uu03dv8HEchMBXcR08uke"
     },
     {
       "added_at": "2024-06-02 16:42:51",
@@ -395,22 +395,6 @@
     {
       "added_at": "2024-06-02 16:42:51",
       "album": {
-        "name": "T-Bone Blues",
-        "url": "https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3"
-      },
-      "artists": [
-        {
-          "name": "T-Bone Walker",
-          "url": "https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX"
-        }
-      ],
-      "duration_ms": 317000,
-      "name": "How Long Blues",
-      "url": "https://open.spotify.com/track/1qHFxjvmKpmwZUcXckLkYc"
-    },
-    {
-      "added_at": "2024-06-02 16:42:51",
-      "album": {
         "name": "Rocks The House",
         "url": "https://open.spotify.com/album/4XmKdBEndE6UnnbrSUN5Dk"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 254165,
       "name": "Baby, What You Want Me To Do - Live At The New Era Club,1963",
       "url": "https://open.spotify.com/track/6SoZkdugPfXghVpEEqSHCn"
+    },
+    {
+      "added_at": "2024-06-02 16:42:51",
+      "album": {
+        "name": "T-Bone Blues",
+        "url": "https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3"
+      },
+      "artists": [
+        {
+          "name": "T-Bone Walker",
+          "url": "https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX"
+        }
+      ],
+      "duration_ms": 317000,
+      "name": "How Long Blues",
+      "url": "https://open.spotify.com/track/1qHFxjvmKpmwZUcXckLkYc"
     },
     {
       "added_at": "2024-06-02 16:42:51",

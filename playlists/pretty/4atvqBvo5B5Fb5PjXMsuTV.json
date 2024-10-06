@@ -1,13 +1,57 @@
 {
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 05 Oct 22:03 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 06 Oct 22:03 UTC.",
   "num_followers": 84,
   "original_name": "New Singles Now",
   "owner": {
     "name": "Listige",
     "url": "https://open.spotify.com/user/v9iqfai0ejp8rgcb2sx9n6yis"
   },
-  "snapshot_id": "AAALuNhRrW2GMTP/OYZUOxxcgJNvSWYm",
+  "snapshot_id": "AAALvL0JPzS3W2Cc9uL0OUs1Z1IThs/v",
   "tracks": [
+    {
+      "added_at": "2024-10-05 04:02:48",
+      "album": {
+        "name": "Sadgirl vs Slavgirl",
+        "url": "https://open.spotify.com/album/3WNM8GcKKM6jKTalEsdjQw"
+      },
+      "artists": [
+        {
+          "name": "Acidgvrl",
+          "url": "https://open.spotify.com/artist/2t8HUWYrP4w6hQmhVVX80f"
+        },
+        {
+          "name": "SadGirlsVsTheWorld",
+          "url": "https://open.spotify.com/artist/6iUeohKjJtOEsfR1Z96g61"
+        },
+        {
+          "name": "Y\u014dko",
+          "url": "https://open.spotify.com/artist/0Cznh5kr6Hlgyl2oHxEFF4"
+        },
+        {
+          "name": "Y\u00fbmi",
+          "url": "https://open.spotify.com/artist/3m8rTxRDybQjzmsC0DU1ni"
+        }
+      ],
+      "duration_ms": 183652,
+      "name": "Sadgirl vs Slavgirl",
+      "url": "https://open.spotify.com/track/64ipeHp2FREma2OjIXkkO0"
+    },
+    {
+      "added_at": "2024-10-05 22:03:22",
+      "album": {
+        "name": "I Wish That I Could Fall",
+        "url": "https://open.spotify.com/album/1oncPFOhxO6u3MrdS8UDkv"
+      },
+      "artists": [
+        {
+          "name": "Jamie Paige",
+          "url": "https://open.spotify.com/artist/790JtoMXsEVQqzkerV3xuf"
+        }
+      ],
+      "duration_ms": 277714,
+      "name": "I Wish That I Could Fall",
+      "url": "https://open.spotify.com/track/4tQ7N9ut79KTQX48am8kOG"
+    },
     {
       "added_at": "2024-10-04 16:03:21",
       "album": {
@@ -97,6 +141,22 @@
       "url": "https://open.spotify.com/track/140hrhmwWxC5ZVmrSReMme"
     },
     {
+      "added_at": "2024-10-05 22:03:22",
+      "album": {
+        "name": "Pocket",
+        "url": "https://open.spotify.com/album/54k3VeImklBEjV3faF7OjP"
+      },
+      "artists": [
+        {
+          "name": "Rag'n'Bone Man",
+          "url": "https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf"
+        }
+      ],
+      "duration_ms": 205887,
+      "name": "Pocket",
+      "url": "https://open.spotify.com/track/4yhCi2ZN3L3OLkgipYvbkg"
+    },
+    {
       "added_at": "2024-10-04 22:03:31",
       "album": {
         "name": "Danger",
@@ -169,6 +229,42 @@
       "url": "https://open.spotify.com/track/4xUDszyCWEhPuPirI5En4i"
     },
     {
+      "added_at": "2024-10-05 04:02:48",
+      "album": {
+        "name": "ADHD",
+        "url": "https://open.spotify.com/album/2XplKfwnm8fGcjd2zag15X"
+      },
+      "artists": [
+        {
+          "name": "Russ Millions",
+          "url": "https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p"
+        },
+        {
+          "name": "Buni",
+          "url": "https://open.spotify.com/artist/5AiY4bxeXerLXx03JADdQv"
+        }
+      ],
+      "duration_ms": 125957,
+      "name": "ADHD",
+      "url": "https://open.spotify.com/track/78u5VoZnPetcm1KVzkLsO3"
+    },
+    {
+      "added_at": "2024-10-05 22:03:22",
+      "album": {
+        "name": "One On One",
+        "url": "https://open.spotify.com/album/5P4LHmJvYMQmBRuRIesoDr"
+      },
+      "artists": [
+        {
+          "name": "AJ Mitchell",
+          "url": "https://open.spotify.com/artist/6dn6x1XOng3LOAnfTjUn77"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "One On One",
+      "url": "https://open.spotify.com/track/0dX6TCuCSb5vtqtmNekXec"
+    },
+    {
       "added_at": "2024-10-04 22:03:31",
       "album": {
         "name": "Change My Mind",
@@ -183,6 +279,22 @@
       "duration_ms": 199533,
       "name": "Change My Mind",
       "url": "https://open.spotify.com/track/3iFzZcNK82ytOWr2qHY5pd"
+    },
+    {
+      "added_at": "2024-10-05 04:02:48",
+      "album": {
+        "name": "Look Mom I Can Fly",
+        "url": "https://open.spotify.com/album/0o3f7b60eTbTl45rnpXSO8"
+      },
+      "artists": [
+        {
+          "name": "Livingston",
+          "url": "https://open.spotify.com/artist/2fPsJqR6zfoHatC1eFr0eQ"
+        }
+      ],
+      "duration_ms": 159816,
+      "name": "Look Mom I Can Fly",
+      "url": "https://open.spotify.com/track/1yMwQ6ELSs25SrByyhrUP4"
     },
     {
       "added_at": "2024-10-04 16:03:21",
@@ -221,26 +333,6 @@
       "url": "https://open.spotify.com/track/7Ex7Re4Xqf6ZK4E42CA2GY"
     },
     {
-      "added_at": "2024-10-04 16:03:21",
-      "album": {
-        "name": "Brinquedo de Amor",
-        "url": "https://open.spotify.com/album/0e6QC7XZb3C9RS1RR346y3"
-      },
-      "artists": [
-        {
-          "name": "Cavaleiros do Forr\u00f3",
-          "url": "https://open.spotify.com/artist/421vs0uTmJqkbaYBd5ww42"
-        },
-        {
-          "name": "Calcinha Preta",
-          "url": "https://open.spotify.com/artist/6Kps94g1Npexh3LrinIOvC"
-        }
-      ],
-      "duration_ms": 229000,
-      "name": "Brinquedo de Amor",
-      "url": "https://open.spotify.com/track/26lIDNWzsDtXrImd78b6DU"
-    },
-    {
       "added_at": "2024-10-04 22:03:31",
       "album": {
         "name": "Demons In The Dark",
@@ -259,6 +351,26 @@
       "duration_ms": 156716,
       "name": "Demons In The Dark",
       "url": "https://open.spotify.com/track/7ePN9wgTZtse3drcVI4YD4"
+    },
+    {
+      "added_at": "2024-10-04 16:03:21",
+      "album": {
+        "name": "Brinquedo de Amor",
+        "url": "https://open.spotify.com/album/0e6QC7XZb3C9RS1RR346y3"
+      },
+      "artists": [
+        {
+          "name": "Cavaleiros do Forr\u00f3",
+          "url": "https://open.spotify.com/artist/421vs0uTmJqkbaYBd5ww42"
+        },
+        {
+          "name": "Calcinha Preta",
+          "url": "https://open.spotify.com/artist/6Kps94g1Npexh3LrinIOvC"
+        }
+      ],
+      "duration_ms": 229000,
+      "name": "Brinquedo de Amor",
+      "url": "https://open.spotify.com/track/26lIDNWzsDtXrImd78b6DU"
     },
     {
       "added_at": "2024-10-04 16:03:21",
@@ -661,6 +773,38 @@
       "url": "https://open.spotify.com/track/6vzIOuyz9yxJSmjkLzHI1D"
     },
     {
+      "added_at": "2024-10-05 04:02:48",
+      "album": {
+        "name": "sTrUt nAtIoN",
+        "url": "https://open.spotify.com/album/5upTw7FHudDbuCqi0T8Ar9"
+      },
+      "artists": [
+        {
+          "name": "TisaKorean",
+          "url": "https://open.spotify.com/artist/6lEhBhAv6HOopjXssi09cq"
+        }
+      ],
+      "duration_ms": 123428,
+      "name": "sTrUt nAtIoN",
+      "url": "https://open.spotify.com/track/50ucvP3G2DPitoGdOmX48L"
+    },
+    {
+      "added_at": "2024-10-05 22:03:22",
+      "album": {
+        "name": "Around Me",
+        "url": "https://open.spotify.com/album/637AZlOAncgk471qGUVCvP"
+      },
+      "artists": [
+        {
+          "name": "No Guidnce",
+          "url": "https://open.spotify.com/artist/4jE1yavE4c5IR1hhM4wHhY"
+        }
+      ],
+      "duration_ms": 174497,
+      "name": "Around Me",
+      "url": "https://open.spotify.com/track/1YEVx89VQ53Lj96DuDs6Et"
+    },
+    {
       "added_at": "2024-10-04 16:03:21",
       "album": {
         "name": "Boss Affirmations",
@@ -739,142 +883,6 @@
       "duration_ms": 168750,
       "name": "Get Busy",
       "url": "https://open.spotify.com/track/1U3HdQECtAOhOzZ05flaY0"
-    },
-    {
-      "added_at": "2024-10-04 16:03:21",
-      "album": {
-        "name": "Love U",
-        "url": "https://open.spotify.com/album/26QjFFt5mvquyCQ6Y9fpgM"
-      },
-      "artists": [
-        {
-          "name": "Edward Skeletrix",
-          "url": "https://open.spotify.com/artist/0xWlWvXGQve3reUhtjlPrS"
-        }
-      ],
-      "duration_ms": 126320,
-      "name": "Love U",
-      "url": "https://open.spotify.com/track/7GzV9dnPDBhl3WYaXBq9t2"
-    },
-    {
-      "added_at": "2024-10-04 22:03:31",
-      "album": {
-        "name": "the more the merrier",
-        "url": "https://open.spotify.com/album/1ZJSNKSma3LZ5gxe7Fedmw"
-      },
-      "artists": [
-        {
-          "name": "angelus",
-          "url": "https://open.spotify.com/artist/56l5jbQerCGh7lfbwLnfaK"
-        }
-      ],
-      "duration_ms": 98471,
-      "name": "the more the merrier",
-      "url": "https://open.spotify.com/track/7FwsSJbxofRrj5mDhjioQx"
-    },
-    {
-      "added_at": "2024-10-04 22:03:31",
-      "album": {
-        "name": "10 PERCS",
-        "url": "https://open.spotify.com/album/2dNJwZQuhgvuNzqNnZ3mtC"
-      },
-      "artists": [
-        {
-          "name": "Dave Blunts",
-          "url": "https://open.spotify.com/artist/2OrFz59xI0kQpzelSLB80j"
-        }
-      ],
-      "duration_ms": 154418,
-      "name": "10 PERCS",
-      "url": "https://open.spotify.com/track/6kUG8UG5fovxdzw5N9WJw2"
-    },
-    {
-      "added_at": "2024-10-04 16:03:21",
-      "album": {
-        "name": "fxlling in love (feat. whatsaheart)",
-        "url": "https://open.spotify.com/album/6DGkssVP7Hfw3HL3idVO1H"
-      },
-      "artists": [
-        {
-          "name": "Snave",
-          "url": "https://open.spotify.com/artist/0gIAj2ujqkBmJHIxZmD2Oi"
-        },
-        {
-          "name": "whatsaheart",
-          "url": "https://open.spotify.com/artist/1Ry6DudE0QFcXoUdXsCQfV"
-        }
-      ],
-      "duration_ms": 196153,
-      "name": "fxlling in love (feat. whatsaheart)",
-      "url": "https://open.spotify.com/track/7wzSukJHjwNXiJ0TmXHFzn"
-    },
-    {
-      "added_at": "2024-10-04 16:03:21",
-      "album": {
-        "name": "Growing Up",
-        "url": "https://open.spotify.com/album/3kC4SEY8Pp64HEhOukYZHm"
-      },
-      "artists": [
-        {
-          "name": "LIL TAY",
-          "url": "https://open.spotify.com/artist/5dsEqJbJ3ZC5A77Yaqwnu3"
-        }
-      ],
-      "duration_ms": 233139,
-      "name": "Growing Up",
-      "url": "https://open.spotify.com/track/4JfCAr96utJ1pHKXQr6Hzd"
-    },
-    {
-      "added_at": "2024-10-04 16:03:21",
-      "album": {
-        "name": "Bird Business",
-        "url": "https://open.spotify.com/album/5mturncpuDqcNiUsS9yhag"
-      },
-      "artists": [
-        {
-          "name": "Trap Dickey",
-          "url": "https://open.spotify.com/artist/20B8Ga2HfEUNJBAbZsJU2c"
-        },
-        {
-          "name": "Rylo Rodriguez",
-          "url": "https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq"
-        }
-      ],
-      "duration_ms": 179433,
-      "name": "Bird Business (feat. Rylo Rodriguez)",
-      "url": "https://open.spotify.com/track/0cN4LkGzfWtfJtIo4WHuuf"
-    },
-    {
-      "added_at": "2024-10-04 16:03:21",
-      "album": {
-        "name": "Think About Me",
-        "url": "https://open.spotify.com/album/4hpnAQy0ftPYAP6xIlquaM"
-      },
-      "artists": [
-        {
-          "name": "Ryley Tate Wilson",
-          "url": "https://open.spotify.com/artist/2q2xVblDrphXyACfAzMWPq"
-        }
-      ],
-      "duration_ms": 188316,
-      "name": "Think About Me",
-      "url": "https://open.spotify.com/track/0zQML88ikX1Fm2WDxmXNIi"
-    },
-    {
-      "added_at": "2024-10-04 16:03:21",
-      "album": {
-        "name": "i'll be your lungs",
-        "url": "https://open.spotify.com/album/4bWLZ4wHXWsd9FxHfFGf9v"
-      },
-      "artists": [
-        {
-          "name": "mental",
-          "url": "https://open.spotify.com/artist/7rQMXIWKXSMkd7dK8LQ7a4"
-        }
-      ],
-      "duration_ms": 132705,
-      "name": "i'll be your lungs",
-      "url": "https://open.spotify.com/track/2JzK1WlU9WIM37bV6X6F4j"
     }
   ],
   "unique_name": "New Singles Now",

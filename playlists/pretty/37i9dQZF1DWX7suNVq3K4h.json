@@ -1,6 +1,6 @@
 {
   "description": "Relaxing Mozart to soothe you and your baby. ",
-  "num_followers": 190626,
+  "num_followers": 190688,
   "original_name": "Mozart for Babies",
   "owner": {
     "name": "Spotify",
@@ -895,7 +895,7 @@
     {
       "added_at": "2024-09-06 14:22:16",
       "album": {
-        "name": "Mozart Horn Concertos",
+        "name": "Mozart: Horn Concertos, Nos. 1 - 4",
         "url": "https://open.spotify.com/album/77FzBKOQlfepn2NRCfK0lP"
       },
       "artists": [
@@ -908,12 +908,12 @@
           "url": "https://open.spotify.com/artist/6wsNn68O2Z2axseFjz1IDJ"
         },
         {
-          "name": "Jeffrey Tate",
-          "url": "https://open.spotify.com/artist/08C4m48uN8PsFIPgTS1KqK"
-        },
-        {
           "name": "English Chamber Orchestra",
           "url": "https://open.spotify.com/artist/2DO4p3CPDnInsJfg0jFfaF"
+        },
+        {
+          "name": "Jeffrey Tate",
+          "url": "https://open.spotify.com/artist/08C4m48uN8PsFIPgTS1KqK"
         }
       ],
       "duration_ms": 282493,

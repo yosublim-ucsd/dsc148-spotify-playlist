@@ -4,7 +4,7 @@
 
 > Viikon parhaat uutuusbiisit samassa paketissa\. Kannessa Coldplay.
 
-2,639 songs - 5 day 18 hr 17 min
+2,640 songs - 5 day 18 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1820,6 +1820,7 @@
 | [Promises](https://open.spotify.com/track/2u6XasNryHmfzy9DjXNO9D) | [Mr\. Belt & Wezol](https://open.spotify.com/artist/19VDJ9IKyBSUMDJxLsasP6), [Shift K3Y](https://open.spotify.com/artist/26OrZl5U3VNGHU9qUj8EcM) | [Promises](https://open.spotify.com/album/0ypGTa4ZhiEf0CeNx46APm) | 2:37 | 2024-08-22 | 2024-08-30 |
 | [PSYCHO](https://open.spotify.com/track/1CwXFT3pDiMCPmvv3Ohfli) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [PSYCHO](https://open.spotify.com/album/453RlEBiL47ArcRDW2PwUd) | 3:18 | 2024-05-16 | 2024-05-24 |
 | [Psycho Killer](https://open.spotify.com/track/0jeKnrCAOZRMf7w9hdVHUe) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Psycho Killer](https://open.spotify.com/album/12RGnhfKRBzq46QfG3rxOA) | 3:44 | 2024-05-16 | 2024-05-24 |
+| [Puhelinlangat Laulaa](https://open.spotify.com/track/0etwmf2vczele3kZwIcPOa) | [Marko Hietala](https://open.spotify.com/artist/1tbhwOH5UBAJoqTx9Oak00) | [Puhelinlangat Laulaa](https://open.spotify.com/album/0LJVJhA7b1ri49uNKxlT00) | 2:50 | 2024-10-03 |  |
 | [Puhu mulle](https://open.spotify.com/track/5DaQoD19Ye3hcVnwMylKnn) | [Pariisin Kevät](https://open.spotify.com/artist/2Bj3YsSKo7O5bj3Ku6z1Ny) | [Sun yö on pian täällä](https://open.spotify.com/album/0m106BcaEniXYbbb2m8OeY) | 3:24 | 2024-05-23 | 2024-06-01 |
 | [Pulse](https://open.spotify.com/track/2yIlnvWgaVB2v1FDotrbLW) | [Without Warning](https://open.spotify.com/artist/4t91G6AzXhhZXQkbpZX7Fe) | [Pulse](https://open.spotify.com/album/6Er4aHe7Q4joNbH99h8tp3) | 3:27 | 2024-07-11 | 2024-07-19 |
 | [Pulssi](https://open.spotify.com/track/38UDmjZUayxYdxmZTzFAvX) | [Turmion Kätilöt](https://open.spotify.com/artist/76t3VPzCEYAlrZhVAY7yjg) | [Pulssi](https://open.spotify.com/album/5uECxuk1klwIvhrVVTYbE7) | 3:39 | 2024-10-03 |  |

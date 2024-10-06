@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-02",
-  "description": "Your music. Your faith. Your life. This is Pop for life!  Cover: <a href=\"spotify:artist:3SKza3YPBri1k43LB1Tqy4\">Tauren Wells</a>",
+  "description": "Your music. Your faith. Your life. This is Pop for life!  Cover: <a href=\"spotify:artist:692n9oP6XtKux7LbSOnkSC\">bodie</a>",
   "name": "Pop for Life",
   "tracks": [
     {
@@ -233,6 +233,24 @@
     },
     {
       "album": {
+        "name": "All We Ever Need",
+        "url": "https://open.spotify.com/album/21Ue7pnNCDJeJpf3OYZhRh"
+      },
+      "artists": [
+        {
+          "name": "Anthem Lights",
+          "url": "https://open.spotify.com/artist/7kwEvDE8e7EBGKh5bLczqQ"
+        }
+      ],
+      "date_added": "2024-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190851,
+      "name": "All We Ever Need",
+      "url": "https://open.spotify.com/track/0BCE2TaKxWnaESXFLP7oLz"
+    },
+    {
+      "album": {
         "name": "Alright (Remix)",
         "url": "https://open.spotify.com/album/3ENljMEsjgZSnbJ4R0L68B"
       },
@@ -310,6 +328,28 @@
       "duration_ms": 241998,
       "name": "Ancient of Days (reimagined)",
       "url": "https://open.spotify.com/track/3RXZmXBwAuIZOBNIwkQvzO"
+    },
+    {
+      "album": {
+        "name": "and when you look at the stars",
+        "url": "https://open.spotify.com/album/1wq9Bn9K8RCYftBDDb2Wya"
+      },
+      "artists": [
+        {
+          "name": "Vian Izak",
+          "url": "https://open.spotify.com/artist/46U5WmejGzsPqUiw3Uw0Xq"
+        },
+        {
+          "name": "I The Ai",
+          "url": "https://open.spotify.com/artist/6VmRC70MH7DjZdbYGoNCCc"
+        }
+      ],
+      "date_added": "2024-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195254,
+      "name": "and when you look at the stars",
+      "url": "https://open.spotify.com/track/27vDk9u9ayaGS1S2mMW4eQ"
     },
     {
       "album": {
@@ -408,6 +448,24 @@
       "duration_ms": 205520,
       "name": "As I Am (with Peter CottonTale)",
       "url": "https://open.spotify.com/track/4EA2CUAxX2ct3S9xAKE23E"
+    },
+    {
+      "album": {
+        "name": "Autobahn",
+        "url": "https://open.spotify.com/album/15TANHuw2iq171u1PrZBbv"
+      },
+      "artists": [
+        {
+          "name": "Blessing Offor",
+          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
+        }
+      ],
+      "date_added": "2024-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167454,
+      "name": "Autobahn",
+      "url": "https://open.spotify.com/track/3KM5pyCFDqsfFSTogskg7q"
     },
     {
       "album": {
@@ -574,7 +632,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-06",
       "duration_ms": 180415,
       "name": "Better Days",
       "url": "https://open.spotify.com/track/0lDODiEwlOVoueiogf1Wi0"
@@ -763,6 +821,24 @@
     },
     {
       "album": {
+        "name": "breath by breath",
+        "url": "https://open.spotify.com/album/4GzQee0h1aIEDEjqUe99Pt"
+      },
+      "artists": [
+        {
+          "name": "Lydia Laird",
+          "url": "https://open.spotify.com/artist/6zuKZ8dwAsS828nS4xyZ9y"
+        }
+      ],
+      "date_added": "2024-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244106,
+      "name": "breath by breath",
+      "url": "https://open.spotify.com/track/19msKNwB1SjJ4uGAwkDYxT"
+    },
+    {
+      "album": {
         "name": "What Are We Waiting For?",
         "url": "https://open.spotify.com/album/6h95CVsuRQt0SHA0MtjpWW"
       },
@@ -836,7 +912,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-06",
       "duration_ms": 178285,
       "name": "Burn Like Embers - Re-Ignited",
       "url": "https://open.spotify.com/track/6oAnyKW0YJB3yVjM0gpPJW"
@@ -931,6 +1007,24 @@
     },
     {
       "album": {
+        "name": "Ceiling Fan",
+        "url": "https://open.spotify.com/album/4XNF3svwGoxLPuF2GtoX4C"
+      },
+      "artists": [
+        {
+          "name": "Claire Leslie",
+          "url": "https://open.spotify.com/artist/5GkuwRdmvp8r48JCPwqM7E"
+        }
+      ],
+      "date_added": "2024-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175624,
+      "name": "Ceiling Fan",
+      "url": "https://open.spotify.com/track/2pzpeYkTHTEdsQGIjvr8Tx"
+    },
+    {
+      "album": {
         "name": "Champion",
         "url": "https://open.spotify.com/album/5dumHmfJ5l8vJEXcKGygQX"
       },
@@ -946,6 +1040,24 @@
       "duration_ms": 216609,
       "name": "Champion",
       "url": "https://open.spotify.com/track/2LfnNEQYslcfRuyOoPq5O7"
+    },
+    {
+      "album": {
+        "name": "City on a Hill",
+        "url": "https://open.spotify.com/album/0c11KAw4YavlOCx4C4vysF"
+      },
+      "artists": [
+        {
+          "name": "Andrew Ripp",
+          "url": "https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN"
+        }
+      ],
+      "date_added": "2024-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216844,
+      "name": "City on a Hill",
+      "url": "https://open.spotify.com/track/6H8HkxVJ7ex5ntbpsuyQ99"
     },
     {
       "album": {
@@ -1008,6 +1120,24 @@
       "duration_ms": 168000,
       "name": "Close (feat. Steven Furtick)",
       "url": "https://open.spotify.com/track/7btcLh6AORXqMfm0MqHxsF"
+    },
+    {
+      "album": {
+        "name": "Closer to Your Heart",
+        "url": "https://open.spotify.com/album/2BpCwXEN71Ma3oYGOEohef"
+      },
+      "artists": [
+        {
+          "name": "John Roa",
+          "url": "https://open.spotify.com/artist/2U5mF0PZqGu6glnz55yY0y"
+        }
+      ],
+      "date_added": "2024-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160666,
+      "name": "Closer to Your Heart",
+      "url": "https://open.spotify.com/track/7KRc40Yw9QmzKYcjTWkm92"
     },
     {
       "album": {
@@ -1298,7 +1428,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-06",
       "duration_ms": 202142,
       "name": "delightful",
       "url": "https://open.spotify.com/track/0YEvkrQ7jkmRmEmuJAT44Y"
@@ -2076,7 +2206,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-06",
       "duration_ms": 219590,
       "name": "Feel Good",
       "url": "https://open.spotify.com/track/2qDJNEzQvyuXPblfZcXPqM"
@@ -2582,7 +2712,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-06",
       "duration_ms": 161583,
       "name": "Good Feeling - Radio Version",
       "url": "https://open.spotify.com/track/1OvPbFYqXUA640MvcsoIFe"
@@ -2708,7 +2838,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-06",
       "duration_ms": 107065,
       "name": "grand prix!",
       "url": "https://open.spotify.com/track/7l1fLGghECBsuAToYuwdKJ"
@@ -3460,7 +3590,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-06",
       "duration_ms": 184186,
       "name": "I Got You",
       "url": "https://open.spotify.com/track/0jbludNUb0EqbuTsnRpRmE"
@@ -3608,6 +3738,28 @@
       "duration_ms": 199050,
       "name": "I'm Yours",
       "url": "https://open.spotify.com/track/0wiYzdVeuQkcfjHArN43Em"
+    },
+    {
+      "album": {
+        "name": "if i have u",
+        "url": "https://open.spotify.com/album/5wxodyWXnjmcOnO8mpgfuq"
+      },
+      "artists": [
+        {
+          "name": "Jaisua",
+          "url": "https://open.spotify.com/artist/7u5RAgXZgtZJ7yINfxdUc5"
+        },
+        {
+          "name": "Jeremy James Whitaker",
+          "url": "https://open.spotify.com/artist/41FAFO0sEodQajiyqTtNX3"
+        }
+      ],
+      "date_added": "2024-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194187,
+      "name": "if i have u",
+      "url": "https://open.spotify.com/track/01EqCQJU8ciJzBWiM44rvO"
     },
     {
       "album": {
@@ -4080,6 +4232,24 @@
       "duration_ms": 268973,
       "name": "Kingdom Disposition",
       "url": "https://open.spotify.com/track/0ZNVRTj3qXVw0toVUqfdP0"
+    },
+    {
+      "album": {
+        "name": "HAPPY TO BE HERE",
+        "url": "https://open.spotify.com/album/2yL7ZUWn3LNeZe1IIDjrOD"
+      },
+      "artists": [
+        {
+          "name": "bodie",
+          "url": "https://open.spotify.com/artist/692n9oP6XtKux7LbSOnkSC"
+        }
+      ],
+      "date_added": "2024-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185733,
+      "name": "KNOW",
+      "url": "https://open.spotify.com/track/6XDU06wJ2WuoALS6f6mfMs"
     },
     {
       "album": {
@@ -4695,6 +4865,28 @@
     },
     {
       "album": {
+        "name": "MASTERPIECE",
+        "url": "https://open.spotify.com/album/2iFHCooRy5mgqJu4ONGjmr"
+      },
+      "artists": [
+        {
+          "name": "Brandyn Kalani",
+          "url": "https://open.spotify.com/artist/6ev8LXeWUuAT6N78OVjPvA"
+        },
+        {
+          "name": "Christian Singleton",
+          "url": "https://open.spotify.com/artist/5KGTTFuyg5XfMMep5hTokE"
+        }
+      ],
+      "date_added": "2024-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222000,
+      "name": "MASTERPIECE",
+      "url": "https://open.spotify.com/track/63l7rgW2aPblAMUQNnqQeM"
+    },
+    {
+      "album": {
         "name": "Masterpiece",
         "url": "https://open.spotify.com/album/73uJB3ArjnL0K0Z0q3WZWv"
       },
@@ -5131,6 +5323,24 @@
     },
     {
       "album": {
+        "name": "New Leaf",
+        "url": "https://open.spotify.com/album/1wj0D47dLBjdW0imowl5Sg"
+      },
+      "artists": [
+        {
+          "name": "Mike Teezy",
+          "url": "https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7"
+        }
+      ],
+      "date_added": "2024-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182828,
+      "name": "NEW LEAF (Turning the Page)",
+      "url": "https://open.spotify.com/track/2jtNKQ1f8nndyN6Ra1ToQW"
+    },
+    {
+      "album": {
         "name": "Come Home",
         "url": "https://open.spotify.com/album/3uC1QQs3o0KFgsCGmCRzhH"
       },
@@ -5272,6 +5482,46 @@
       "duration_ms": 204613,
       "name": "Nothing But The Truth",
       "url": "https://open.spotify.com/track/7trY7vybnipAG4fbm53TMT"
+    },
+    {
+      "album": {
+        "name": "Nothing I Have To Hide",
+        "url": "https://open.spotify.com/album/09UqUX9BZUBa4N4jYtgFrX"
+      },
+      "artists": [
+        {
+          "name": "Gracie Binion",
+          "url": "https://open.spotify.com/artist/0ZDuCmctvivaIwQuHrg48n"
+        },
+        {
+          "name": "Joe L Barnes",
+          "url": "https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T"
+        }
+      ],
+      "date_added": "2024-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211757,
+      "name": "Nothing I Have To Hide",
+      "url": "https://open.spotify.com/track/7yB8sAWod9fWE8oLa0PsJx"
+    },
+    {
+      "album": {
+        "name": "Oh Wonder",
+        "url": "https://open.spotify.com/album/2emBxnHGh1ulybA3e3UCQY"
+      },
+      "artists": [
+        {
+          "name": "Sam Bowman",
+          "url": "https://open.spotify.com/artist/4cRZTgXsG1S8tR5vtkUqxP"
+        }
+      ],
+      "date_added": "2024-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203290,
+      "name": "Oh Wonder",
+      "url": "https://open.spotify.com/track/2NIfMpoUEvyiag6xt4bhL3"
     },
     {
       "album": {
@@ -5464,7 +5714,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-06",
       "duration_ms": 209810,
       "name": "Overflow",
       "url": "https://open.spotify.com/track/3LDLmsUD3ixbH5fH6gKRkR"
@@ -5684,6 +5934,24 @@
       "duration_ms": 367595,
       "name": "Precious",
       "url": "https://open.spotify.com/track/4PFArZky2W4NCAxAJ4LuA7"
+    },
+    {
+      "album": {
+        "name": "Put Down The Phone",
+        "url": "https://open.spotify.com/album/6c9qmGGQRj6flrcNRiR005"
+      },
+      "artists": [
+        {
+          "name": "NONAH",
+          "url": "https://open.spotify.com/artist/76SJxLztAMHPMieGTNZPeI"
+        }
+      ],
+      "date_added": "2024-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215234,
+      "name": "Put Down The Phone",
+      "url": "https://open.spotify.com/track/69aKC13SkogDmOz6NWjNYH"
     },
     {
       "album": {
@@ -6099,6 +6367,24 @@
     },
     {
       "album": {
+        "name": "Satisfied",
+        "url": "https://open.spotify.com/album/5vjdeXvp1N3Qbpdk6Mdmh0"
+      },
+      "artists": [
+        {
+          "name": "Ryan Ellis",
+          "url": "https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C"
+        }
+      ],
+      "date_added": "2024-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249084,
+      "name": "Satisfied",
+      "url": "https://open.spotify.com/track/2Qqqr0py5ew8RmKlCdI9F6"
+    },
+    {
+      "album": {
         "name": "Grace In The Wilderness",
         "url": "https://open.spotify.com/album/7EzCGwKYyb50jwP9CQ3i3w"
       },
@@ -6451,6 +6737,42 @@
     },
     {
       "album": {
+        "name": "SONSHINE",
+        "url": "https://open.spotify.com/album/02cXduWFbzcEMtfE3rScWN"
+      },
+      "artists": [
+        {
+          "name": "Tylynn",
+          "url": "https://open.spotify.com/artist/3WYqnlpg5qWHujbvTFqUMg"
+        }
+      ],
+      "date_added": "2024-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196583,
+      "name": "SONSHINE",
+      "url": "https://open.spotify.com/track/6hji1TiaYHKfBzmno4wLo9"
+    },
+    {
+      "album": {
+        "name": "Sound Of Heaven",
+        "url": "https://open.spotify.com/album/71jLkGv1qbvhauU8KDfZc9"
+      },
+      "artists": [
+        {
+          "name": "Danny Gokey",
+          "url": "https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz"
+        }
+      ],
+      "date_added": "2024-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200986,
+      "name": "Sound Of Heaven",
+      "url": "https://open.spotify.com/track/6drDEHrFUutQCSXpW6ApcF"
+    },
+    {
+      "album": {
         "name": "Lost On Me",
         "url": "https://open.spotify.com/album/3jISEw2vtj2ckkBt7f5OQu"
       },
@@ -6610,7 +6932,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-06",
       "duration_ms": 167232,
       "name": "stay",
       "url": "https://open.spotify.com/track/47PlSslwMiEEI5L5WRAqG4"
@@ -6880,6 +7202,24 @@
       "duration_ms": 172533,
       "name": "Tears To Diamonds",
       "url": "https://open.spotify.com/track/2AMJD6X6JMCU0brzY3d7tP"
+    },
+    {
+      "album": {
+        "name": "Tell Me How",
+        "url": "https://open.spotify.com/album/7f7XapnIRg9QxbWZyvA4mw"
+      },
+      "artists": [
+        {
+          "name": "Ryan Stevenson",
+          "url": "https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97"
+        }
+      ],
+      "date_added": "2024-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183197,
+      "name": "Tell Me How",
+      "url": "https://open.spotify.com/track/1TOfC4ETDk63tpMRmzMj2n"
     },
     {
       "album": {
@@ -7502,10 +7842,28 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-06",
       "duration_ms": 177000,
       "name": "Upside Down",
       "url": "https://open.spotify.com/track/0FGJABa7hPpCE3vyCTCYgB"
+    },
+    {
+      "album": {
+        "name": "VIBRATIONS",
+        "url": "https://open.spotify.com/album/3C7oyoiqfsSL1gAFCI78YQ"
+      },
+      "artists": [
+        {
+          "name": "Cody Towell",
+          "url": "https://open.spotify.com/artist/4zY7rbMHMO7gNlZh2Qk7Us"
+        }
+      ],
+      "date_added": "2024-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202060,
+      "name": "VIBRATIONS",
+      "url": "https://open.spotify.com/track/4pqwoVOwvSbXhpYwNl0ufU"
     },
     {
       "album": {
@@ -7578,7 +7936,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-06",
       "duration_ms": 201888,
       "name": "Waterfall",
       "url": "https://open.spotify.com/track/79JCfNp3sTCSMKhuc42kLo"
@@ -7853,6 +8211,24 @@
     },
     {
       "album": {
+        "name": "with me",
+        "url": "https://open.spotify.com/album/4GNYbe1TGZGsbkcvtJ09MG"
+      },
+      "artists": [
+        {
+          "name": "gio.",
+          "url": "https://open.spotify.com/artist/5GevjOibFX6uwZ1mTYfhbn"
+        }
+      ],
+      "date_added": "2024-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121225,
+      "name": "with me",
+      "url": "https://open.spotify.com/track/6doOhTCKwAW8Vrveb6amW0"
+    },
+    {
+      "album": {
         "name": "Won't Rain Anymore",
         "url": "https://open.spotify.com/album/049iy74GNjD4hiJtfhnsQ9"
       },
@@ -8104,6 +8480,24 @@
       "duration_ms": 208193,
       "name": "You Found Me",
       "url": "https://open.spotify.com/track/0mze01UbPaDKyLiBM6G3SX"
+    },
+    {
+      "album": {
+        "name": "You Got Me",
+        "url": "https://open.spotify.com/album/2Z40v6l6j8SCdWJibDkKrG"
+      },
+      "artists": [
+        {
+          "name": "Davies.",
+          "url": "https://open.spotify.com/artist/4gHYwyqJOALI9pJO1QCzq8"
+        }
+      ],
+      "date_added": "2024-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207654,
+      "name": "You Got Me",
+      "url": "https://open.spotify.com/track/1TGiOGUsYIKJTkFzezu2tX"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Dip your feet in the pool and enjoy this perfect summer house mix ☀️
 
-371 songs - 19 hr 39 min
+372 songs - 19 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,7 +92,7 @@
 | [Echoes](https://open.spotify.com/track/6gSjsxT1iv3Rof2iQNYv5m) | [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM) | [Echoes](https://open.spotify.com/album/4NPyGmVSGAqow9SoaQssXF) | 2:24 | 2023-01-11 | 2023-01-25 |
 | [Emorio](https://open.spotify.com/track/14VthBnru6kiREQUYAuNSL) | [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan), [Fafá de Belém](https://open.spotify.com/artist/6n45wsxj6sDedgwEyTza6d) | [Emorio](https://open.spotify.com/album/3yP0Nsb8jyXY4HMNb6tkO9) | 2:43 | 2023-04-28 |  |
 | [Esta Vida \- Jess Bays Remix](https://open.spotify.com/track/3DJpjKvU8vccxudxq0RO6f) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Jess Bays](https://open.spotify.com/artist/5xEJ7FQOtIUMLdnKyZrvPB) | [Esta Vida \(Jess Bays Remix\)](https://open.spotify.com/album/4jdGfY92pBza5dbVWOnskR) | 3:52 | 2023-07-13 | 2023-08-17 |
-| [Euphoria](https://open.spotify.com/track/5QjfEMyFm4YTyYTbHvriGT) | [Claptone](https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry) | [Euphoria](https://open.spotify.com/album/4dtA4QUlcF3fsOcWYkXiLB) | 2:38 | 2023-04-28 |  |
+| [Euphoria](https://open.spotify.com/track/5QjfEMyFm4YTyYTbHvriGT) | [Claptone](https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry) | [Euphoria](https://open.spotify.com/album/4dtA4QUlcF3fsOcWYkXiLB) | 2:38 | 2023-04-28 | 2024-10-06 |
 | [Ever After](https://open.spotify.com/track/57hO2DGhBI2BbqCjVxpJcr) | [dvine](https://open.spotify.com/artist/3VV2pfR0CoFp9JbX6PsaLs) | [Confessions](https://open.spotify.com/album/5vvby3mFBAzt10wi3YvFyQ) | 3:47 | 2021-10-29 | 2022-01-17 |
 | [Evermore](https://open.spotify.com/track/1MC3Qkc2oC0ISlyrA1YefY) | [Rich Vom Dorf](https://open.spotify.com/artist/1j1jzA1X6Lr19bxTlBS8n9) | [Evermore](https://open.spotify.com/album/2gvEsAot01a7rhHTYJVFf5) | 5:25 | 2023-12-22 | 2024-07-27 |
 | [Everywhere](https://open.spotify.com/track/2hIlV0UAOhsbvRp9KV1pOG) | [Babsy.](https://open.spotify.com/artist/1BjdCHWqVEwBktJLHOUhmk) | [Everywhere](https://open.spotify.com/album/37og7S56FzrRuRI8Jvzxjq) | 2:46 | 2023-08-18 | 2024-08-17 |
@@ -241,6 +241,7 @@
 | [Never Really Loved Me \(with Dean Lewis\)](https://open.spotify.com/track/1O73ZKgl0THUImkHW6dfAL) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Never Really Loved Me \(with Dean Lewis\)](https://open.spotify.com/album/1wbg9GPcUBlvM9uYjdqZ2D) | 3:22 | 2022-07-01 | 2024-09-21 |
 | [Neverland](https://open.spotify.com/track/4i74xaJ4ryjSNRnwQiwlHY) | [No Treasure](https://open.spotify.com/artist/66GofoGxQ1OAlCvfPRI90x), [Marmy](https://open.spotify.com/artist/7GDzOgd5Z7GSqIyfDcVguz) | [Neverland](https://open.spotify.com/album/6ILICHcoO9TA12sU0GzsQO) | 2:40 | 2021-10-29 | 2022-03-18 |
 | [Nightingale](https://open.spotify.com/track/4z9obgtFzinZXBpwG8Flik) | [Panuma](https://open.spotify.com/artist/3YvNtTSaJ2YAt1RhaE9eiH), [Kayla](https://open.spotify.com/artist/6FHqXSFTmhWlgERTHLD9ct) | [Nightingale](https://open.spotify.com/album/5UpHekXcg2yEn2XMplYVWy) | 3:48 | 2021-10-29 | 2023-03-12 |
+| [No Boys Allowed \- OG House Mix](https://open.spotify.com/track/5ECEMutDIhmSKM6MkJuVc3) | [Mochakk](https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo), [Tommy Genesis](https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b) | [Locomotiva Ibiza 2099 II](https://open.spotify.com/album/6nIry8iPceW6XDXT8UTSUm) | 5:52 | 2024-09-27 |  |
 | [No Letting Go](https://open.spotify.com/track/7kTdLu5ZNyEFB2aChJXv3I) | [DJ Katch](https://open.spotify.com/artist/1AAfkmCFRTSDg18GQ3itgl), [Nonô](https://open.spotify.com/artist/2izgj6WOKJsuCRCQUKOoVO) | [No Letting Go](https://open.spotify.com/album/3B8xnuYemxIakH1dmmEvt2) | 3:15 | 2021-10-29 | 2022-07-26 |
 | [No Mercy](https://open.spotify.com/track/2eU50HdqsZPXNBzKOdiwkV) | [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W), [nomerci](https://open.spotify.com/artist/5tygsM77YMbY8WgkVKhv4R) | [No Mercy](https://open.spotify.com/album/7i1hSeAp6foMVkuzhqYibE) | 2:46 | 2021-10-29 | 2022-05-22 |
 | [Not Giving You Up](https://open.spotify.com/track/5s7KszYX1mfvpKA7XCMvfw) | [Rules](https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA) | [Not Giving You Up](https://open.spotify.com/album/5V3TvHdleNDEhSIC4g7IFM) | 2:52 | 2024-06-07 |  |

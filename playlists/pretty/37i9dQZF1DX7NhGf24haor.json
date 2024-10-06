@@ -1,13 +1,37 @@
 {
   "description": "Updated weekly | Hardstyle | Cover: Brennan Heart",
-  "num_followers": 236272,
+  "num_followers": 236343,
   "original_name": "Hardstyle Adrenaline! 2024",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zv+T/gAAAAB3fj+gYRKRy1gUxsVJWPym",
+  "snapshot_id": "ZwG08QAAAACooliMVGaMDsqXpjfSqbTi",
   "tracks": [
+    {
+      "added_at": "2024-10-04 07:06:38",
+      "album": {
+        "name": "Forsaken",
+        "url": "https://open.spotify.com/album/549tAL9AdCfFboVOLAJWrh"
+      },
+      "artists": [
+        {
+          "name": "Dimatik",
+          "url": "https://open.spotify.com/artist/2Zvo5BEkHyaHD1zk180kMz"
+        },
+        {
+          "name": "Strictly Business",
+          "url": "https://open.spotify.com/artist/7kC4umc8A1sRBGBnkeKVY1"
+        },
+        {
+          "name": "Diandra Faye",
+          "url": "https://open.spotify.com/artist/5gdYdbKxGw2Mq25TfsmH6q"
+        }
+      ],
+      "duration_ms": 205935,
+      "name": "Forsaken",
+      "url": "https://open.spotify.com/track/2PKfCSihh3AAveHAfGHRNQ"
+    },
     {
       "added_at": "2024-10-04 07:06:38",
       "album": {
@@ -83,30 +107,6 @@
       "duration_ms": 163215,
       "name": "I Am Cool",
       "url": "https://open.spotify.com/track/3MpyqUat9C6YkEVsmahdX6"
-    },
-    {
-      "added_at": "2024-10-04 07:06:38",
-      "album": {
-        "name": "Forsaken",
-        "url": "https://open.spotify.com/album/549tAL9AdCfFboVOLAJWrh"
-      },
-      "artists": [
-        {
-          "name": "Dimatik",
-          "url": "https://open.spotify.com/artist/2Zvo5BEkHyaHD1zk180kMz"
-        },
-        {
-          "name": "Strictly Business",
-          "url": "https://open.spotify.com/artist/7kC4umc8A1sRBGBnkeKVY1"
-        },
-        {
-          "name": "Diandra Faye",
-          "url": "https://open.spotify.com/artist/5gdYdbKxGw2Mq25TfsmH6q"
-        }
-      ],
-      "duration_ms": 205935,
-      "name": "Forsaken",
-      "url": "https://open.spotify.com/track/2PKfCSihh3AAveHAfGHRNQ"
     },
     {
       "added_at": "2024-10-04 07:06:38",

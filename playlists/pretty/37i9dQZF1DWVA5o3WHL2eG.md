@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume\. Cover: DJ Gigola
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,912 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,927 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 22 | [HellSehen](https://open.spotify.com/track/6dxqzbgOQqBfbRNXW2S0Tk) | [Mieze Katz](https://open.spotify.com/artist/6Pf7y8pFDDEQ9TOIlaBpT0), [Eva Briegel](https://open.spotify.com/artist/46Ks1huLimSVHpgTUruVoj), [Juli](https://open.spotify.com/artist/7g13nmmxq4XN0hd64Jzkol), [Mia.](https://open.spotify.com/artist/0ZSqrPwtvermKlwdjEAmjn) | [HellSehen](https://open.spotify.com/album/5hQesg4QQ4rBLZMWoZiRJW) | 3:01 |
 | 23 | [l.o.v.e.](https://open.spotify.com/track/0gqjiN4uy0hjfZy4WvZNia) | [Ellice](https://open.spotify.com/artist/7sAaTbbHDafboXdSERjtEl) | [l.o.v.e.](https://open.spotify.com/album/6VguxmxAC2heOkIl9euhhp) | 3:05 |
 | 24 | [La Batteria](https://open.spotify.com/track/09GeLKK8IwFBEUVzLlhVQ0) | [DJ Gigola](https://open.spotify.com/artist/7feJmqQ32fTIPKBmPXwHXf) | [La Batteria](https://open.spotify.com/album/5fWRKpCVzmZ0a7hDdBB4ru) | 2:40 |
-| 25 | [Was hab ich nur getan?](https://open.spotify.com/track/1WyGuO8jJI4TmAp2ERorb5) | [Mine](https://open.spotify.com/artist/2jmpnuwn52LqrQASBlyQGJ), [Nicola Rost](https://open.spotify.com/artist/0HQJXd9AUJ138jDrlR3kVg) | [Was hab ich nur getan?](https://open.spotify.com/album/1icJ1tybkmg30fkU1v1qOA) | 2:52 |
-| 26 | [pokémon](https://open.spotify.com/track/5ipIrjelg2ER3t7D3D9NSP) | [elimako](https://open.spotify.com/artist/5PbQkJwrwzRkwW7uAj7dy0) | [8 stufen ep](https://open.spotify.com/album/7tdFyBxhmbfm9Whp3fo6rK) | 2:52 |
+| 25 | [pokémon](https://open.spotify.com/track/5ipIrjelg2ER3t7D3D9NSP) | [elimako](https://open.spotify.com/artist/5PbQkJwrwzRkwW7uAj7dy0) | [8 stufen ep](https://open.spotify.com/album/7tdFyBxhmbfm9Whp3fo6rK) | 2:52 |
+| 26 | [Was hab ich nur getan?](https://open.spotify.com/track/1WyGuO8jJI4TmAp2ERorb5) | [Mine](https://open.spotify.com/artist/2jmpnuwn52LqrQASBlyQGJ), [Nicola Rost](https://open.spotify.com/artist/0HQJXd9AUJ138jDrlR3kVg) | [Was hab ich nur getan?](https://open.spotify.com/album/1icJ1tybkmg30fkU1v1qOA) | 2:52 |
 | 27 | [Das Beste](https://open.spotify.com/track/5dholWRj5q0lQUxHS5hRWh) | [Emma Rose](https://open.spotify.com/artist/76ULRNlbg99ImmSMdWWtMy) | [Das Beste](https://open.spotify.com/album/5dVA4L80HLjdBTKkjVo2sm) | 2:32 |
 | 28 | [Catch The Rain](https://open.spotify.com/track/6kkiSenLxDFmqhPlwhxbjA) | [RAHEL](https://open.spotify.com/artist/1PiAhtDO04aDUU9VKEi1j7) | [Catch The Rain](https://open.spotify.com/album/4HaWTik9SSWStlldD21OEd) | 3:20 |
 | 29 | [zu nice](https://open.spotify.com/track/4f6F4iyK1ch99R9Ev5A5Ap) | [jolle](https://open.spotify.com/artist/6iBB08eTj4dxsbpaXIUJdQ) | [zu nice](https://open.spotify.com/album/1ekxM56u9lniNHX0DlSmgL) | 2:42 |

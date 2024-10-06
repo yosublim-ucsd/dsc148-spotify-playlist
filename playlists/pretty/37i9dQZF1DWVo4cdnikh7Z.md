@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVo4cdnikh7Z.md) - [plain]
 
 > New Music from Kollywood.<br/>Cover : Vettaiyan
 
-[Spotify](https://open.spotify.com/user/spotify) - 678,899 likes - 78 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 678,996 likes - 78 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

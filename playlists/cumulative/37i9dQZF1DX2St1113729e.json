@@ -5461,6 +5461,28 @@
     },
     {
       "album": {
+        "name": "NPAVM",
+        "url": "https://open.spotify.com/album/3xiiJAP1Qmf2MmiORePcuF"
+      },
+      "artists": [
+        {
+          "name": "Handhel",
+          "url": "https://open.spotify.com/artist/4hKcJtcc2VtpOKzHiLYFAz"
+        },
+        {
+          "name": "???!",
+          "url": "https://open.spotify.com/artist/4uVErwVWDMYlkeLMo0jUQY"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180548,
+      "name": "NPAVM",
+      "url": "https://open.spotify.com/track/2sP9mfFsITk5Fwg4g1Ay3B"
+    },
+    {
+      "album": {
         "name": "NPC",
         "url": "https://open.spotify.com/album/1gog1TZT0QqIHjghbhvxq5"
       },
@@ -6832,7 +6854,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-06",
       "duration_ms": 160000,
       "name": "Sickk Boii % Sex Toii",
       "url": "https://open.spotify.com/track/1ypfpYpyp65NPOVb88OFPu"

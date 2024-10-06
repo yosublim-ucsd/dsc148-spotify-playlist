@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaoHd4tiCLZf.md) - [plain]
 
 > Ready to chic things up\. Listen to the music from Emily in Paris, streaming only on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 220,010 likes - 136 songs - 7 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 220,454 likes - 136 songs - 7 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaoHd4tiCLZf.md) - [plain]
 | 61 | [Side of You](https://open.spotify.com/track/5UVjwEvXQaWCRX1Vq0AGNo) | [Zimmer](https://open.spotify.com/artist/2pts5B2shsEtIVC4onTFKb), [Laumė](https://open.spotify.com/artist/3ylwSKkgfwc3y1SFa1yVwz) | [Zimmer](https://open.spotify.com/album/5iri9jAHcyXZ3fD0gUoXMO) | 3:27 |
 | 62 | [Jamais Je Ne Viens](https://open.spotify.com/track/5dSLiCcetFe3LGrnhbh9fZ) | [Ottis Cœur](https://open.spotify.com/artist/0hLbUud67RYSocCdgLf6pR) | [Léon](https://open.spotify.com/album/48OOvBs7jVOAWitbHAQ9Ll) | 2:28 |
 | 63 | [Franchement](https://open.spotify.com/track/175Yl76Q0ddCTXmiw7bsxx) | [Bonnie Banane](https://open.spotify.com/artist/5krZkab66mF2eexXFJv0A6) | [Nini](https://open.spotify.com/album/0KhnZoRrVjk9tkMkviirvh) | 2:31 |
-| 64 | [Butterfly](https://open.spotify.com/track/7kVD0vVPIt07Jw2ZZEePmD) | [Leonie Pernet](https://open.spotify.com/artist/5hGg5Xi5EqhkDooT7myKfC) | [Crave](https://open.spotify.com/album/4e5cTgchHSuvARMuQQooXC) | 2:47 |
+| 64 | [Butterfly](https://open.spotify.com/track/7kVD0vVPIt07Jw2ZZEePmD) | [Léonie Pernet](https://open.spotify.com/artist/5hGg5Xi5EqhkDooT7myKfC) | [Crave](https://open.spotify.com/album/4e5cTgchHSuvARMuQQooXC) | 2:47 |
 | 65 | [Hot Summer](https://open.spotify.com/track/2bY6P0FmkFkPcyFNXW0moX) | [Bellaire](https://open.spotify.com/artist/6yeeXqk3RxV7l5DxmlXMnw), [Venessa Jackson](https://open.spotify.com/artist/6JDjuDf9o67pNcq97V6fhy) | [Date at the Disco](https://open.spotify.com/album/0EOAQUNVccnCTrrGf9Mfk9) | 3:53 |
 | 66 | [Tattoo](https://open.spotify.com/track/0WGxVuh7aY0f8AaQa6b8Ml) | [Les Filles & Christopher](https://open.spotify.com/artist/3e50327fCwO1HRUjipDkaJ) | [Tattoo](https://open.spotify.com/album/2r4yh3DlyyGBBvfSJtHGTV) | 3:36 |
 | 67 | [Good Love](https://open.spotify.com/track/7tQDyHipuEhExPOL3Nsqd2) | [Zola Blood](https://open.spotify.com/artist/3oxkIoEAyXXQlLTZXlffLJ) | [Infinite Games](https://open.spotify.com/album/1ecw6KXijgoxSn6NuDhIXI) | 3:45 |

@@ -6015,6 +6015,32 @@
     },
     {
       "album": {
+        "name": "FOREIGN",
+        "url": "https://open.spotify.com/album/5jrKedsVRq5yQFIRq7m6Jc"
+      },
+      "artists": [
+        {
+          "name": "HEDEGAARD",
+          "url": "https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2"
+        },
+        {
+          "name": "Moses",
+          "url": "https://open.spotify.com/artist/7xihR0iAXmuXt2XJobep51"
+        },
+        {
+          "name": "CANCUN?",
+          "url": "https://open.spotify.com/artist/5Yw8a4EYuA31E9paXwA50w"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191739,
+      "name": "FOREIGN",
+      "url": "https://open.spotify.com/track/4Tkv9VdNUyHm86TNlnl7Xy"
+    },
+    {
+      "album": {
         "name": "Four Legs",
         "url": "https://open.spotify.com/album/1iJZOgO2mXGiKY1NUxfjb9"
       },
@@ -10568,7 +10594,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-06",
       "duration_ms": 201600,
       "name": "Mr Machine",
       "url": "https://open.spotify.com/track/5rFMmCVWuPRqYb0BbSNP7V"
@@ -10924,7 +10950,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-06",
       "duration_ms": 171093,
       "name": "New Sound",
       "url": "https://open.spotify.com/track/6KnmmjS3EvQYJcKRR6PpVi"
@@ -13764,7 +13790,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-29",
+      "date_removed": null,
       "duration_ms": 142857,
       "name": "Run It Now",
       "url": "https://open.spotify.com/track/51RyFJOz0BbV979nxqDgvq"

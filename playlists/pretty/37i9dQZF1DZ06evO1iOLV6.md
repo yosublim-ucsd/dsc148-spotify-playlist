@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1iOLV6.md) - [plain]
 
 ### [This Is Patoranking](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1iOLV6)
 
-> This is Patoranking\. The essential tracks, all in one playlist.
+> This is Patoranking\. Tutti i brani in un'unica playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,100 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,105 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1iOLV6.md) - [plain]
 | 49 | [Snapdatsh!t \- Remix](https://open.spotify.com/track/1V4LuVzWHvEPNY0S42KW1A) | [KLY](https://open.spotify.com/artist/0B6F56wObkhER2AmTNfcl3), [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [Emtee](https://open.spotify.com/artist/6U3gCOvxVWKBxXItqp3mdr), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Snapdatsh!t \(Remix\)](https://open.spotify.com/album/7sXEoxq5KV1jhU1g5NEede) | 3:36 |
 | 50 | [Feelings \- A COLORS SHOW](https://open.spotify.com/track/6pM36Gc15BBIwefH7Zy4GI) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Feelings \- A COLORS SHOW](https://open.spotify.com/album/5LJvUFehOgLrzRpDzMAH9o) | 3:26 |
 
-Snapshot ID: `Zv3egAAAAAD4i+IkaYATo5z4b/N5EO7x`
+Snapshot ID: `Zv3egAAAAABBY1rbpKo13PHqT1a5Q7yX`

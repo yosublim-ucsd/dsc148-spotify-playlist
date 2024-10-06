@@ -1,6 +1,6 @@
 {
   "description": "\uad6d\ub0b4\ub97c \uac15\ud0c0 \ud588\ub358 R&B\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694.",
-  "num_followers": 13602,
+  "num_followers": 13607,
   "original_name": "\uad6d\ub0b4 R&B \uba54\uac00 \ud788\ud2b8",
   "owner": {
     "name": "Spotify",
@@ -303,22 +303,6 @@
     {
       "added_at": "2024-04-04 20:09:20",
       "album": {
-        "name": "Reason 4 breathing?",
-        "url": "https://open.spotify.com/album/7yl1TSdq0B20VPe75Y8XAa"
-      },
-      "artists": [
-        {
-          "name": "Brown Eyes",
-          "url": "https://open.spotify.com/artist/6O7LgtO6NKOOOudzRayUfJ"
-        }
-      ],
-      "duration_ms": 211520,
-      "name": "\uc810\uc810",
-      "url": "https://open.spotify.com/track/0IwDO38DaBE7cMl4aLgybU"
-    },
-    {
-      "added_at": "2024-04-04 20:09:20",
-      "album": {
         "name": "CRUSH",
         "url": "https://open.spotify.com/album/4OviNx5CqaeGhARVtHYtDL"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 210258,
       "name": "IF I WERE YOU",
       "url": "https://open.spotify.com/track/3w0IoJb39EAAVY8ELVr8Vl"
+    },
+    {
+      "added_at": "2024-04-04 20:09:20",
+      "album": {
+        "name": "Reason 4 breathing?",
+        "url": "https://open.spotify.com/album/7yl1TSdq0B20VPe75Y8XAa"
+      },
+      "artists": [
+        {
+          "name": "Brown Eyes",
+          "url": "https://open.spotify.com/artist/6O7LgtO6NKOOOudzRayUfJ"
+        }
+      ],
+      "duration_ms": 211520,
+      "name": "\uc810\uc810",
+      "url": "https://open.spotify.com/track/0IwDO38DaBE7cMl4aLgybU"
     },
     {
       "added_at": "2024-04-04 20:09:20",
@@ -435,22 +435,6 @@
     {
       "added_at": "2024-04-04 20:09:20",
       "album": {
-        "name": "Brown Eyes",
-        "url": "https://open.spotify.com/album/59LLKRi3hOZZvszabtTeWA"
-      },
-      "artists": [
-        {
-          "name": "Brown Eyes",
-          "url": "https://open.spotify.com/artist/6O7LgtO6NKOOOudzRayUfJ"
-        }
-      ],
-      "duration_ms": 215840,
-      "name": "With Coffee\u2026",
-      "url": "https://open.spotify.com/track/7svHY5rTJ1Aotj6sDsDgdV"
-    },
-    {
-      "added_at": "2024-04-04 20:09:20",
-      "album": {
         "name": "Miss Ripley OST",
         "url": "https://open.spotify.com/album/1jD2g58pVcEUe1TYzSjgi5"
       },
@@ -483,18 +467,34 @@
     {
       "added_at": "2024-04-04 20:09:20",
       "album": {
-        "name": "First Love",
-        "url": "https://open.spotify.com/album/74thqvuyVQfosFffvKx2uo"
+        "name": "The Wind, The Sea, The Rain",
+        "url": "https://open.spotify.com/album/51NQxu89Z3tkaiLN4GX3lL"
       },
       "artists": [
         {
-          "name": "LeeHi",
-          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+          "name": "BROWN EYED SOUL",
+          "url": "https://open.spotify.com/artist/7AVa6rcpTQWVqgy91llPP5"
         }
       ],
-      "duration_ms": 234633,
-      "name": "It's Over",
-      "url": "https://open.spotify.com/track/47PAgx8nAijlmCdJtiq2iE"
+      "duration_ms": 263533,
+      "name": "Nothing Better",
+      "url": "https://open.spotify.com/track/1c3YKD6HDervPsw0nHxlhh"
+    },
+    {
+      "added_at": "2024-04-04 20:09:20",
+      "album": {
+        "name": "Brown Eyes",
+        "url": "https://open.spotify.com/album/59LLKRi3hOZZvszabtTeWA"
+      },
+      "artists": [
+        {
+          "name": "Brown Eyes",
+          "url": "https://open.spotify.com/artist/6O7LgtO6NKOOOudzRayUfJ"
+        }
+      ],
+      "duration_ms": 215840,
+      "name": "With Coffee\u2026",
+      "url": "https://open.spotify.com/track/7svHY5rTJ1Aotj6sDsDgdV"
     },
     {
       "added_at": "2024-04-04 20:09:20",
@@ -515,18 +515,18 @@
     {
       "added_at": "2024-04-04 20:09:20",
       "album": {
-        "name": "The Wind, The Sea, The Rain",
-        "url": "https://open.spotify.com/album/51NQxu89Z3tkaiLN4GX3lL"
+        "name": "First Love",
+        "url": "https://open.spotify.com/album/74thqvuyVQfosFffvKx2uo"
       },
       "artists": [
         {
-          "name": "BROWN EYED SOUL",
-          "url": "https://open.spotify.com/artist/7AVa6rcpTQWVqgy91llPP5"
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
         }
       ],
-      "duration_ms": 263533,
-      "name": "Nothing Better",
-      "url": "https://open.spotify.com/track/1c3YKD6HDervPsw0nHxlhh"
+      "duration_ms": 234633,
+      "name": "It's Over",
+      "url": "https://open.spotify.com/track/47PAgx8nAijlmCdJtiq2iE"
     },
     {
       "added_at": "2024-04-04 20:09:20",
@@ -543,22 +543,6 @@
       "duration_ms": 191793,
       "name": "\uc0c8\ubcbd\ud55c\uc2dc (1AM)",
       "url": "https://open.spotify.com/track/3JmlYV4mm5jdo2ZWzATLBv"
-    },
-    {
-      "added_at": "2024-04-04 20:09:20",
-      "album": {
-        "name": "Reason 4 breathing?",
-        "url": "https://open.spotify.com/album/7yl1TSdq0B20VPe75Y8XAa"
-      },
-      "artists": [
-        {
-          "name": "Brown Eyes",
-          "url": "https://open.spotify.com/artist/6O7LgtO6NKOOOudzRayUfJ"
-        }
-      ],
-      "duration_ms": 216373,
-      "name": "\ube44\uc624\ub294 \uc555\uad6c\uc815",
-      "url": "https://open.spotify.com/track/1WKoaRdUQGSoo8qfiWc1dT"
     },
     {
       "added_at": "2024-04-04 20:09:20",
@@ -643,6 +627,22 @@
     {
       "added_at": "2024-04-04 20:09:20",
       "album": {
+        "name": "Reason 4 breathing?",
+        "url": "https://open.spotify.com/album/7yl1TSdq0B20VPe75Y8XAa"
+      },
+      "artists": [
+        {
+          "name": "Brown Eyes",
+          "url": "https://open.spotify.com/artist/6O7LgtO6NKOOOudzRayUfJ"
+        }
+      ],
+      "duration_ms": 216373,
+      "name": "\ube44\uc624\ub294 \uc555\uad6c\uc815",
+      "url": "https://open.spotify.com/track/1WKoaRdUQGSoo8qfiWc1dT"
+    },
+    {
+      "added_at": "2024-04-04 20:09:20",
+      "album": {
         "name": "130 Mood : TRBL",
         "url": "https://open.spotify.com/album/1MW3txTS49ZGvyLi0fziLU"
       },
@@ -679,6 +679,38 @@
     {
       "added_at": "2024-04-04 20:09:20",
       "album": {
+        "name": "Soul Free",
+        "url": "https://open.spotify.com/album/7zM9ILBsO6580uSLZzV8hC"
+      },
+      "artists": [
+        {
+          "name": "BROWN EYED SOUL",
+          "url": "https://open.spotify.com/artist/7AVa6rcpTQWVqgy91llPP5"
+        }
+      ],
+      "duration_ms": 293680,
+      "name": "My Everything",
+      "url": "https://open.spotify.com/track/2zuNdzBq4CPTlKySi2UHth"
+    },
+    {
+      "added_at": "2024-04-04 20:09:20",
+      "album": {
+        "name": "Back To The Soul Flight",
+        "url": "https://open.spotify.com/album/26nzz1WN0qn4C3B6zcm93u"
+      },
+      "artists": [
+        {
+          "name": "Naul",
+          "url": "https://open.spotify.com/artist/22oiFjlZPKJ1XphV2et1u1"
+        }
+      ],
+      "duration_ms": 337946,
+      "name": "\uadf8\ub300 \ub5a0\ub09c \ub4a4 (with \ube0c\ub77c\uc6b4 \uc544\uc774\ub4dc \uc18c\uc6b8)",
+      "url": "https://open.spotify.com/track/6HkeCtEHZSDReE5EEvjv2J"
+    },
+    {
+      "added_at": "2024-04-04 20:09:20",
+      "album": {
         "name": "Hwayobi",
         "url": "https://open.spotify.com/album/3OfJmTAwCFltxeNO9lC6rS"
       },
@@ -711,22 +743,6 @@
     {
       "added_at": "2024-04-04 20:09:20",
       "album": {
-        "name": "Back To The Soul Flight",
-        "url": "https://open.spotify.com/album/26nzz1WN0qn4C3B6zcm93u"
-      },
-      "artists": [
-        {
-          "name": "Naul",
-          "url": "https://open.spotify.com/artist/22oiFjlZPKJ1XphV2et1u1"
-        }
-      ],
-      "duration_ms": 337946,
-      "name": "\uadf8\ub300 \ub5a0\ub09c \ub4a4 (with \ube0c\ub77c\uc6b4 \uc544\uc774\ub4dc \uc18c\uc6b8)",
-      "url": "https://open.spotify.com/track/6HkeCtEHZSDReE5EEvjv2J"
-    },
-    {
-      "added_at": "2024-04-04 20:09:20",
-      "album": {
         "name": "YG 10th Anniversary",
         "url": "https://open.spotify.com/album/7wU8funBokmL3hL1eP9yR5"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 260626,
       "name": "Break Away",
       "url": "https://open.spotify.com/track/4qzqqJaELifylL0VJU55mb"
-    },
-    {
-      "added_at": "2024-04-04 20:09:20",
-      "album": {
-        "name": "YG 10th Anniversary",
-        "url": "https://open.spotify.com/album/7wU8funBokmL3hL1eP9yR5"
-      },
-      "artists": [
-        {
-          "name": "Realslow",
-          "url": "https://open.spotify.com/artist/7luxe2wCwtDtkKSP8ZhPLn"
-        }
-      ],
-      "duration_ms": 211293,
-      "name": "With Me",
-      "url": "https://open.spotify.com/track/0Ss0kgHzdnZvLRaJD3UPJM"
     },
     {
       "added_at": "2024-04-04 20:09:20",
@@ -775,18 +775,18 @@
     {
       "added_at": "2024-04-04 20:09:20",
       "album": {
-        "name": "Soul Free",
-        "url": "https://open.spotify.com/album/7zM9ILBsO6580uSLZzV8hC"
+        "name": "YG 10th Anniversary",
+        "url": "https://open.spotify.com/album/7wU8funBokmL3hL1eP9yR5"
       },
       "artists": [
         {
-          "name": "BROWN EYED SOUL",
-          "url": "https://open.spotify.com/artist/7AVa6rcpTQWVqgy91llPP5"
+          "name": "Realslow",
+          "url": "https://open.spotify.com/artist/7luxe2wCwtDtkKSP8ZhPLn"
         }
       ],
-      "duration_ms": 293680,
-      "name": "My Everything",
-      "url": "https://open.spotify.com/track/2zuNdzBq4CPTlKySi2UHth"
+      "duration_ms": 211293,
+      "name": "With Me",
+      "url": "https://open.spotify.com/track/0Ss0kgHzdnZvLRaJD3UPJM"
     },
     {
       "added_at": "2024-04-04 20:09:20",
@@ -823,34 +823,34 @@
     {
       "added_at": "2024-04-04 20:09:20",
       "album": {
-        "name": "YG 10th Anniversary",
-        "url": "https://open.spotify.com/album/7wU8funBokmL3hL1eP9yR5"
+        "name": "Just One Day",
+        "url": "https://open.spotify.com/album/2ZRgUweTGRez4yzualNDci"
       },
       "artists": [
         {
-          "name": "Realslow",
-          "url": "https://open.spotify.com/artist/7luxe2wCwtDtkKSP8ZhPLn"
+          "name": "BIG MAMA",
+          "url": "https://open.spotify.com/artist/34SKCchNLFzBWclGa6l6tQ"
         }
       ],
-      "duration_ms": 270733,
-      "name": "\uc548\ub418\ub098\uc694",
-      "url": "https://open.spotify.com/track/5njOfvhH1y5CxvdXgUXgTC"
+      "duration_ms": 257333,
+      "name": "Just One Day",
+      "url": "https://open.spotify.com/track/1UEHM8m4GswZLNykPkInEy"
     },
     {
       "added_at": "2024-04-04 20:09:20",
       "album": {
-        "name": "Let's start our love again",
-        "url": "https://open.spotify.com/album/1wizL9Nmk6BRuQyH8LhfKL"
+        "name": "Brown Eyed Soul Christmas Concert Live 2007",
+        "url": "https://open.spotify.com/album/4w0EHElwo2LgGSYZle8S1d"
       },
       "artists": [
         {
-          "name": "Johan Kim",
-          "url": "https://open.spotify.com/artist/7kqUt0kZIfski1GVmbwjG3"
+          "name": "BROWN EYED SOUL",
+          "url": "https://open.spotify.com/artist/7AVa6rcpTQWVqgy91llPP5"
         }
       ],
-      "duration_ms": 267232,
-      "name": "Let's start our love again",
-      "url": "https://open.spotify.com/track/4F0MBoi8SP3HhzJ8aDQX7L"
+      "duration_ms": 439147,
+      "name": "Nothing Better",
+      "url": "https://open.spotify.com/track/1rJseLSS11HcpzMvC13ptb"
     }
   ],
   "unique_name": "\uad6d\ub0b4 R&B \uba54\uac00 \ud788\ud2b8",

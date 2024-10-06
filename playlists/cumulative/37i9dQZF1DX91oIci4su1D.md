@@ -4,7 +4,7 @@
 
 > Setting sights on banging <a href="spotify:genre:0JQ5DAqbMKFFfBKlpu08ru">trance and progressive</a>.
 
-999 songs - 2 day 12 hr 28 min
+1,000 songs - 2 day 12 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Anyone But You \- Steve Brian Remix](https://open.spotify.com/track/3r6jXcM19bhtLzzWJLcwrD) | [Illuminor](https://open.spotify.com/artist/3sqmA4WmKDnfG5L2cmJuJ4), [Steve Brian](https://open.spotify.com/artist/4xSQ9zt3zGyyiCXazv4mhf) | [Anyone But You \(Steve Brian Remix\)](https://open.spotify.com/album/7vhRanK1t2rq5Z8Ofkn016) | 2:50 | 2021-12-17 | 2022-01-15 |
 | [Anything](https://open.spotify.com/track/5WD7n1SmKkZN9OysKjU0QR) | [Ciaran McAuley](https://open.spotify.com/artist/4tTgD3KLaNlHg2nxAgGaRi), [Clara Yates](https://open.spotify.com/artist/5Ny5rgjblitALAHGH2ICG0) | [Anything](https://open.spotify.com/album/4VduXgBxMziOHKlcaRJ4mj) | 3:26 | 2022-05-06 | 2023-04-09 |
 | [Anything For You](https://open.spotify.com/track/4PRHib5N3DjBJGkrCdlH8L) | [Davey Asprey](https://open.spotify.com/artist/7luLRXGBygBN8vUO8T9uHf) | [Anything For You](https://open.spotify.com/album/3hBvBryUs8gWdBFo5aIOmp) | 3:47 | 2023-03-31 | 2024-02-17 |
+| [Apocalypto](https://open.spotify.com/track/3MILEn0ZzudKkVJvQhV3Ko) | [Ahmed Helmy](https://open.spotify.com/artist/00k5zSa7jWCoEZ0e6tly9m) | [Apocalypto](https://open.spotify.com/album/6r1CsvuPT1QyEtq0QRNbHY) | 2:53 | 2024-10-04 |  |
 | [Apollo](https://open.spotify.com/track/22wxI9qv6irtSyCGhoGGEH) | [Solar Vision](https://open.spotify.com/artist/4wd6bczppl4mNXPyhg0HT4) | [Apollo](https://open.spotify.com/album/2lgCV2s0B0UqAktpETEssF) | 3:08 | 2022-09-02 | 2022-09-24 |
 | [Apollo](https://open.spotify.com/track/0i5M7tQqE8VoGP9kUrjn0m) | [Super8 & Tab](https://open.spotify.com/artist/3WGxBKuYawiVOmCwR8FIUC) | [Apollo](https://open.spotify.com/album/6vjPpNpGLRcl22rzVX11sz) | 2:35 | 2022-02-25 | 2023-02-25 |
 | [Aqua](https://open.spotify.com/track/5QkXtfDXyRkcQTGsGHkW80) | [Mark Sixma](https://open.spotify.com/artist/3ePCIHipMKD4n8IBXBYWSm), [M6](https://open.spotify.com/artist/6jdFALQ8fljXpbb9c9NdNB) | [Aqua](https://open.spotify.com/album/7GJbBBLRY721os3LXqzx0z) | 3:27 | 2022-03-25 | 2023-04-09 |
@@ -786,7 +787,7 @@
 | [Something New](https://open.spotify.com/track/6m5aNC2SqNherMjAYU7s5k) | [Fatum](https://open.spotify.com/artist/3pt2vTpH1eI776oDZT1G2C), [LYCA](https://open.spotify.com/artist/4naWgrSAZPl2RsnTFdST4H) | [Something New](https://open.spotify.com/album/796wmTXuTFSrXxu67ig4KR) | 3:24 | 2022-05-06 | 2023-04-09 |
 | [Sonata](https://open.spotify.com/track/4tbJLaTclmcaaro2lAhKIe) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Paul Oakenfold](https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq) | [Sonata](https://open.spotify.com/album/3qLi1lqpntgGdH5DAROvY0) | 3:13 | 2021-12-17 | 2022-05-07 |
 | [Sorry](https://open.spotify.com/track/0PJr4eTfffgfHQda27VpIq) | [Simon Patterson](https://open.spotify.com/artist/3QxbGzjZc3kgHNJOBOZM2M), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur) | [Sorry](https://open.spotify.com/album/0hDrWUeld7zd4DZIx0p9tg) | 4:03 | 2022-08-12 | 2023-05-20 |
-| [Soul Doubt](https://open.spotify.com/track/0hC4DHZy8h5OmQp7lmAQNd) | [Robert Nickson](https://open.spotify.com/artist/0dMK3g7XAApwIpLTyE7mqJ) | [Soul Doubt](https://open.spotify.com/album/6ipCLvlTch0tWpG4Ny7HhV) | 3:24 | 2024-02-16 |  |
+| [Soul Doubt](https://open.spotify.com/track/0hC4DHZy8h5OmQp7lmAQNd) | [Robert Nickson](https://open.spotify.com/artist/0dMK3g7XAApwIpLTyE7mqJ) | [Soul Doubt](https://open.spotify.com/album/6ipCLvlTch0tWpG4Ny7HhV) | 3:24 | 2024-02-16 | 2024-10-06 |
 | [Soul Theory](https://open.spotify.com/track/4P64WuBJEjSwyAnM3II9zh) | [Tempo Giusto](https://open.spotify.com/artist/0m0RB1rz2K4biPY7teHR6R) | [Soul Theory](https://open.spotify.com/album/6hxEUebk8cOULv4bQgSAFB) | 2:57 | 2023-06-02 | 2024-05-18 |
 | [Soundscape](https://open.spotify.com/track/2ckuYy0wxNGXfjrRLfCnQQ) | [Steve Dekay](https://open.spotify.com/artist/7lF2WmukgrCZa5pxW6q1IE), [Proyal](https://open.spotify.com/artist/4Lof8bu6EJxnEX2owLrVtP) | [Soundscape](https://open.spotify.com/album/0D5zpBdgsCQAfeXtpoUuhK) | 3:58 | 2023-02-24 | 2024-01-24 |
 | [Sovereign](https://open.spotify.com/track/6iZ1W8WDYCYjstuzxHWv6d) | [Solarstone](https://open.spotify.com/artist/1PfOXooPSLQhOTNZGrXM90) | [Sovereign](https://open.spotify.com/album/6Q4QME7TcWGXtquJEi2ZRO) | 4:54 | 2022-04-08 | 2022-06-04 |

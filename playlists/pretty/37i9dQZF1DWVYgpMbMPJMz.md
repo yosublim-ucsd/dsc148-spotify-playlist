@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 
 > Experience the lastest and the greatest Worship music right here, right now\. Cover:  <a href="spotify:artist:48AVv3cw03WdSB5b4qmNCr">Red Rocks Worship</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 991,264 likes - 100 songs - 9 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 991,343 likes - 100 songs - 9 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 | 32 | [Trample \(with Jon Reddick\)](https://open.spotify.com/track/1oBAvcjcsTqi56hg5E0woo) | [Kim Walker\-Smith](https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz), [Jon Reddick](https://open.spotify.com/artist/7H0gjeKVq6IPXcAUZzzhD2) | [Trample \(with Jon Reddick\)](https://open.spotify.com/album/5U1XeM9ZrTVUY6fcyQOxfn) | 3:49 |
 | 33 | [There Is Only One Name \- Live](https://open.spotify.com/track/3shaMTWCCgZicNa7zq2wfB) | [Mission House](https://open.spotify.com/artist/1kfAQBrI7qZInqadGFtW8C), [Abby Siler](https://open.spotify.com/artist/4JmRxJQC4R65Po60AERzGG) | [Family Nights, Vol\. 2: Day For Singing \- Live](https://open.spotify.com/album/75ElVjeppeJFT2d4FHloew) | 6:01 |
 | 34 | [Wash Over Me \- Live](https://open.spotify.com/track/5iIcJhksyVDWo72yag8AYS) | [Planetshakers](https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s) | [Wash Over Me \(Live\)](https://open.spotify.com/album/2OdJ4uS3VHMruiNKZl4X1Y) | 7:49 |
-| 35 | [Worship Works \- Live from VOUSCon](https://open.spotify.com/track/4hZqNQLzdO6k4kiukI4mp5) | [VOUS Worship](https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb) | [Worship Works \(Live from VOUSCon\)](https://open.spotify.com/album/1A2ASwKjLODbCXCGnEFXYE) | 5:34 |
+| 35 | [Worship Works \- Live from VOUSCon](https://open.spotify.com/track/4hZqNQLzdO6k4kiukI4mp5) | [VOUS Worship](https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb), [Ryan Horton](https://open.spotify.com/artist/3TYiYJLd8SVrIOprwpTGVa) | [Worship Works \(Live from VOUSCon\)](https://open.spotify.com/album/1A2ASwKjLODbCXCGnEFXYE) | 5:34 |
 | 36 | [Glory On The Other Side](https://open.spotify.com/track/0V4pcOAzmN6e4t9dLPlbmw) | [Folabi Nuel](https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe), [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | [Glory On The Other Side](https://open.spotify.com/album/4cAYM1eOOFhKWgaHoWyrJo) | 4:59 |
 | 37 | [The Earth Sings Worthy \- Live](https://open.spotify.com/track/2TDpmf1nPiu7drcI7LLJzW) | [UPPERROOM](https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63), [Abbie Gamboa](https://open.spotify.com/artist/4TJVQinD20ZEoJXSuV6IU5) | [The Earth Sings Worthy \(Live\)](https://open.spotify.com/album/1pLCp06fDlsbHhXEZjqIy6) | 7:25 |
 | 38 | [Mirror](https://open.spotify.com/track/4MwrKy2fv48CkqbHvmddbb) | [LO Worship](https://open.spotify.com/artist/3W1GhZUgWMZBqYwH42Ycuq), [Sadie Robertson Huff](https://open.spotify.com/artist/0nUAd06FDt2FuANL4m8LtI), [Mitch Wong](https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39) | [Mirror](https://open.spotify.com/album/5JGAg34L5cYJO4NyHLnpj1) | 5:05 |

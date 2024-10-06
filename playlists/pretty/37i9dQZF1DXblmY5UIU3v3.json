@@ -1,6 +1,6 @@
 {
   "description": "The bass you need for riding low and high.",
-  "num_followers": 441986,
+  "num_followers": 442202,
   "original_name": "DOWN LOW",
   "owner": {
     "name": "Spotify",
@@ -491,22 +491,6 @@
     {
       "added_at": "2024-09-06 19:25:38",
       "album": {
-        "name": "S.O.M.F",
-        "url": "https://open.spotify.com/album/7cw43EzYeT0OOAkNq4NEyb"
-      },
-      "artists": [
-        {
-          "name": "ero808",
-          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
-        }
-      ],
-      "duration_ms": 150697,
-      "name": "S.O.M.F",
-      "url": "https://open.spotify.com/track/3ZtfHJwLo5cww3sRc5IqrW"
-    },
-    {
-      "added_at": "2024-09-06 19:25:38",
-      "album": {
         "name": "G.M.S.L.B",
         "url": "https://open.spotify.com/album/0PWY1VO9dCKK0nEHH3xNAm"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 127179,
       "name": "G.M.S.L.B",
       "url": "https://open.spotify.com/track/45Xx8ugh2uRTy4wahb7ZzC"
+    },
+    {
+      "added_at": "2024-09-06 19:25:38",
+      "album": {
+        "name": "S.O.M.F",
+        "url": "https://open.spotify.com/album/7cw43EzYeT0OOAkNq4NEyb"
+      },
+      "artists": [
+        {
+          "name": "ero808",
+          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
+        }
+      ],
+      "duration_ms": 150697,
+      "name": "S.O.M.F",
+      "url": "https://open.spotify.com/track/3ZtfHJwLo5cww3sRc5IqrW"
     },
     {
       "added_at": "2024-09-06 19:25:38",
@@ -603,22 +603,6 @@
     {
       "added_at": "2024-09-06 19:25:38",
       "album": {
-        "name": "Vandal",
-        "url": "https://open.spotify.com/album/27DyW3vuWYxvbrw2InADaz"
-      },
-      "artists": [
-        {
-          "name": "OsMan",
-          "url": "https://open.spotify.com/artist/5yTQ5Ik2Bllbc5hRLeoRkN"
-        }
-      ],
-      "duration_ms": 136000,
-      "name": "Vandal",
-      "url": "https://open.spotify.com/track/3o0uDe47R1wByG9IXIvkSH"
-    },
-    {
-      "added_at": "2024-09-06 19:25:38",
-      "album": {
         "name": "Solovey",
         "url": "https://open.spotify.com/album/2e27TfVReB4lDRAtzlVbW2"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 125177,
       "name": "Solovey",
       "url": "https://open.spotify.com/track/29ofWO96svTbZaVWB9reSb"
+    },
+    {
+      "added_at": "2024-09-06 19:25:38",
+      "album": {
+        "name": "Vandal",
+        "url": "https://open.spotify.com/album/27DyW3vuWYxvbrw2InADaz"
+      },
+      "artists": [
+        {
+          "name": "OsMan",
+          "url": "https://open.spotify.com/artist/5yTQ5Ik2Bllbc5hRLeoRkN"
+        }
+      ],
+      "duration_ms": 136000,
+      "name": "Vandal",
+      "url": "https://open.spotify.com/track/3o0uDe47R1wByG9IXIvkSH"
     },
     {
       "added_at": "2024-09-06 19:25:38",

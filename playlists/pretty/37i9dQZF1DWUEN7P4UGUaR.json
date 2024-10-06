@@ -1,6 +1,6 @@
 {
   "description": "Fresh gospel music from Ghana. Cover: Celestine Donkor",
-  "num_followers": 12383,
+  "num_followers": 12388,
   "original_name": "Aseda",
   "owner": {
     "name": "Spotify",
@@ -775,22 +775,6 @@
     {
       "added_at": "2024-10-04 00:01:00",
       "album": {
-        "name": "Sometin",
-        "url": "https://open.spotify.com/album/3kdcgOOdHWNNkmJF2VaLsP"
-      },
-      "artists": [
-        {
-          "name": "Nana Yaw Ofori-Atta",
-          "url": "https://open.spotify.com/artist/1D6DzRCxKig1KCd4uDuHoL"
-        }
-      ],
-      "duration_ms": 221714,
-      "name": "Sometin",
-      "url": "https://open.spotify.com/track/0kPyu3XIUbFlyDvz319x8d"
-    },
-    {
-      "added_at": "2024-10-04 00:01:00",
-      "album": {
         "name": "Watch & Pray",
         "url": "https://open.spotify.com/album/1aPAV46V8U8g0x0mEZOznd"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 505463,
       "name": "Watch & Pray",
       "url": "https://open.spotify.com/track/7uJNTmxFppTj3nZdbtSLDG"
+    },
+    {
+      "added_at": "2024-10-04 00:01:00",
+      "album": {
+        "name": "Sometin",
+        "url": "https://open.spotify.com/album/3kdcgOOdHWNNkmJF2VaLsP"
+      },
+      "artists": [
+        {
+          "name": "Nana Yaw Ofori-Atta",
+          "url": "https://open.spotify.com/artist/1D6DzRCxKig1KCd4uDuHoL"
+        }
+      ],
+      "duration_ms": 221714,
+      "name": "Sometin",
+      "url": "https://open.spotify.com/track/0kPyu3XIUbFlyDvz319x8d"
     },
     {
       "added_at": "2024-10-04 00:01:00",
@@ -823,22 +823,6 @@
     {
       "added_at": "2024-10-04 00:01:00",
       "album": {
-        "name": "Deeper Touch",
-        "url": "https://open.spotify.com/album/5nOXDaaJq1brfEv9jEYAGP"
-      },
-      "artists": [
-        {
-          "name": "Denzel Prempeh",
-          "url": "https://open.spotify.com/artist/1WwOwiV8aUE5RABgYamU0p"
-        }
-      ],
-      "duration_ms": 781930,
-      "name": "Deeper Medley",
-      "url": "https://open.spotify.com/track/0ZAXIDq2pDCoFQxtk7ldwg"
-    },
-    {
-      "added_at": "2024-10-04 00:01:00",
-      "album": {
         "name": "Efiri Nyame",
         "url": "https://open.spotify.com/album/0nYa4h4NADQ8GkhgVw0iYl"
       },
@@ -855,26 +839,38 @@
     {
       "added_at": "2024-10-04 00:01:00",
       "album": {
-        "name": "Onwanwani",
-        "url": "https://open.spotify.com/album/4fbkb0H4gq0FBaour6fnPs"
+        "name": "Deeper Touch",
+        "url": "https://open.spotify.com/album/5nOXDaaJq1brfEv9jEYAGP"
       },
       "artists": [
         {
-          "name": "Edwin Dadson",
-          "url": "https://open.spotify.com/artist/47Faqq0jbVjfytkzaHxlIb"
-        },
-        {
-          "name": "Joe Mettle",
-          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
-        },
-        {
-          "name": "Isaiah Fosu-Kwakye Jnr",
-          "url": "https://open.spotify.com/artist/7nFCc2h1AAmKMGwr2Nc72u"
+          "name": "Denzel Prempeh",
+          "url": "https://open.spotify.com/artist/1WwOwiV8aUE5RABgYamU0p"
         }
       ],
-      "duration_ms": 513913,
-      "name": "Onwanwani",
-      "url": "https://open.spotify.com/track/4mb4OvcBCNezU9v4X9Pyv3"
+      "duration_ms": 781930,
+      "name": "Deeper Medley",
+      "url": "https://open.spotify.com/track/0ZAXIDq2pDCoFQxtk7ldwg"
+    },
+    {
+      "added_at": "2024-10-04 00:01:00",
+      "album": {
+        "name": "Ghana Local Praise Medley",
+        "url": "https://open.spotify.com/album/6JMeaFneyim4EC2BxMYMGw"
+      },
+      "artists": [
+        {
+          "name": "DOXA WAVE GH",
+          "url": "https://open.spotify.com/artist/1zqLzdhDVwbe35i4IFrgf6"
+        },
+        {
+          "name": "Shadrach Mensah Kwesi",
+          "url": "https://open.spotify.com/artist/6WRzw7R2P5DfMPXZAulY7e"
+        }
+      ],
+      "duration_ms": 566414,
+      "name": "Ghana Local Praise Medley",
+      "url": "https://open.spotify.com/track/5EpTEpmbU57I9FMGR9m9sV"
     },
     {
       "added_at": "2024-10-04 00:01:00",

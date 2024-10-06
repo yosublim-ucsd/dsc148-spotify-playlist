@@ -1,6 +1,6 @@
 {
   "description": "The biggest rock artists in Japan right now!  Cover: Queen Bee (\u5973\u738b\u8702)",
-  "num_followers": 289075,
+  "num_followers": 289074,
   "original_name": "Big in Japan",
   "owner": {
     "name": "Spotify",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2024-10-01 15:12:05",
       "album": {
+        "name": "HAWATARI NIOKU CENTI [2-hundred-million-centimeter-long blades] (TV edit)",
+        "url": "https://open.spotify.com/album/22bkV1gcP9weQRmRktdCM4"
+      },
+      "artists": [
+        {
+          "name": "MAXIMUM THE HORMONE",
+          "url": "https://open.spotify.com/artist/3AMut7lAb1JjINkn8Fmkhu"
+        }
+      ],
+      "duration_ms": 89563,
+      "name": "HAWATARI NIOKU CENTI [2-hundred-million-centimeter-long blades] - TV edit",
+      "url": "https://open.spotify.com/track/1lySGuhlcZUJxLA5W5Bo7k"
+    },
+    {
+      "added_at": "2024-10-01 15:12:05",
+      "album": {
         "name": "\u30a2\u30a4\u30e9\u30f4\u30e6\u30fc",
         "url": "https://open.spotify.com/album/3ZlJleq30vEcTfZBHq46fs"
       },
@@ -1043,18 +1059,18 @@
     {
       "added_at": "2024-10-01 15:12:05",
       "album": {
-        "name": "HAWATARI NIOKU CENTI [2-hundred-million-centimeter-long blades] (TV edit)",
-        "url": "https://open.spotify.com/album/22bkV1gcP9weQRmRktdCM4"
+        "name": "\u6765\u4e16\u306f\u5049\u4eba\uff01",
+        "url": "https://open.spotify.com/album/7zjt6aRii06qmD77RSBAYi"
       },
       "artists": [
         {
-          "name": "MAXIMUM THE HORMONE",
-          "url": "https://open.spotify.com/artist/3AMut7lAb1JjINkn8Fmkhu"
+          "name": "\u82b1\u51b7\u3048\u3002",
+          "url": "https://open.spotify.com/artist/4N2I7VsF86h59tbsvVoB1h"
         }
       ],
-      "duration_ms": 89563,
-      "name": "HAWATARI NIOKU CENTI [2-hundred-million-centimeter-long blades] - TV edit",
-      "url": "https://open.spotify.com/track/1lySGuhlcZUJxLA5W5Bo7k"
+      "duration_ms": 190866,
+      "name": "\u304a\u5148\u306b\u5931\u793c\u3057\u307e\u3059\u3002",
+      "url": "https://open.spotify.com/track/51o21I12ZFahXaCviz95M6"
     },
     {
       "added_at": "2024-10-01 15:12:05",
@@ -1075,22 +1091,6 @@
       "duration_ms": 261497,
       "name": "\u6c38\u4e45 -\u30c8\u30b3\u30b7\u30a8-",
       "url": "https://open.spotify.com/track/4sWlVvuOg0lzDkC56lWrbg"
-    },
-    {
-      "added_at": "2024-10-01 15:12:05",
-      "album": {
-        "name": "\u6765\u4e16\u306f\u5049\u4eba\uff01",
-        "url": "https://open.spotify.com/album/7zjt6aRii06qmD77RSBAYi"
-      },
-      "artists": [
-        {
-          "name": "\u82b1\u51b7\u3048\u3002",
-          "url": "https://open.spotify.com/artist/4N2I7VsF86h59tbsvVoB1h"
-        }
-      ],
-      "duration_ms": 190866,
-      "name": "\u304a\u5148\u306b\u5931\u793c\u3057\u307e\u3059\u3002",
-      "url": "https://open.spotify.com/track/51o21I12ZFahXaCviz95M6"
     },
     {
       "added_at": "2024-10-01 15:12:05",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2024-10-01 15:12:05",
       "album": {
-        "name": "\u76c6\u30ae\u30ea\u604b\u6b4c",
-        "url": "https://open.spotify.com/album/7hgrQHyNvrIdJrviKQsheH"
-      },
-      "artists": [
-        {
-          "name": "\u30b5\u30b6\u30f3\u30aa\u30fc\u30eb\u30b9\u30bf\u30fc\u30ba",
-          "url": "https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael"
-        }
-      ],
-      "duration_ms": 259480,
-      "name": "\u76c6\u30ae\u30ea\u604b\u6b4c",
-      "url": "https://open.spotify.com/track/2kxp3ZUOXssozAGMEXshLO"
-    },
-    {
-      "added_at": "2024-10-01 15:12:05",
-      "album": {
         "name": "Bu-ikikaesu",
         "url": "https://open.spotify.com/album/6dxTTn3tLurox31zSM0X1K"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 224120,
       "name": "Zetsubou Billy",
       "url": "https://open.spotify.com/track/3XurIE0l1l09XBxWmr4ubL"
+    },
+    {
+      "added_at": "2024-10-01 15:12:05",
+      "album": {
+        "name": "\u76c6\u30ae\u30ea\u604b\u6b4c",
+        "url": "https://open.spotify.com/album/7hgrQHyNvrIdJrviKQsheH"
+      },
+      "artists": [
+        {
+          "name": "\u30b5\u30b6\u30f3\u30aa\u30fc\u30eb\u30b9\u30bf\u30fc\u30ba",
+          "url": "https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael"
+        }
+      ],
+      "duration_ms": 259480,
+      "name": "\u76c6\u30ae\u30ea\u604b\u6b4c",
+      "url": "https://open.spotify.com/track/2kxp3ZUOXssozAGMEXshLO"
     },
     {
       "added_at": "2024-10-01 15:12:05",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2024-10-01 15:12:05",
       "album": {
-        "name": "Relay\uff5e\u675c\u306e\u8a69",
-        "url": "https://open.spotify.com/album/3zn9dmuMkn7RKaVmWQgMR1"
-      },
-      "artists": [
-        {
-          "name": "\u30b5\u30b6\u30f3\u30aa\u30fc\u30eb\u30b9\u30bf\u30fc\u30ba",
-          "url": "https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael"
-        }
-      ],
-      "duration_ms": 239494,
-      "name": "Relay\uff5e\u675c\u306e\u8a69",
-      "url": "https://open.spotify.com/track/00L4r4akuKxe9s1Vr0v58j"
-    },
-    {
-      "added_at": "2024-10-01 15:12:05",
-      "album": {
         "name": "\u5fc3\u5909\u308f\u308a",
         "url": "https://open.spotify.com/album/6TCrimUaueZD1u6QVlWHX3"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 201599,
       "name": "I",
       "url": "https://open.spotify.com/track/2izrE4nmtn9fqyCMuxDafg"
+    },
+    {
+      "added_at": "2024-10-01 15:12:05",
+      "album": {
+        "name": "Relay\uff5e\u675c\u306e\u8a69",
+        "url": "https://open.spotify.com/album/3zn9dmuMkn7RKaVmWQgMR1"
+      },
+      "artists": [
+        {
+          "name": "\u30b5\u30b6\u30f3\u30aa\u30fc\u30eb\u30b9\u30bf\u30fc\u30ba",
+          "url": "https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael"
+        }
+      ],
+      "duration_ms": 239494,
+      "name": "Relay\uff5e\u675c\u306e\u8a69",
+      "url": "https://open.spotify.com/track/00L4r4akuKxe9s1Vr0v58j"
     },
     {
       "added_at": "2024-10-01 15:12:05",

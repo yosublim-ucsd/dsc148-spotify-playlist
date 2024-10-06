@@ -1123,6 +1123,38 @@
     {
       "added_at": "2024-08-16 20:28:24",
       "album": {
+        "name": "Solo",
+        "url": "https://open.spotify.com/album/09pLe9TmUD5UxYWiWqjBqf"
+      },
+      "artists": [
+        {
+          "name": "Entre Linhas",
+          "url": "https://open.spotify.com/artist/0JGXguxnX2MUk3joFyJPjX"
+        },
+        {
+          "name": "Kuririn",
+          "url": "https://open.spotify.com/artist/6R85n4akSmUKlnYZ2QnzmC"
+        },
+        {
+          "name": "Kweller",
+          "url": "https://open.spotify.com/artist/4W4NkfM4A1sX2S2bfYlV07"
+        },
+        {
+          "name": "Matu\u00ea",
+          "url": "https://open.spotify.com/artist/6g0nBehL70Q9AW8jozS0JS"
+        },
+        {
+          "name": "Jay Kay",
+          "url": "https://open.spotify.com/artist/1hMrgRIkEemGJWByc74Kki"
+        }
+      ],
+      "duration_ms": 217392,
+      "name": "Cake",
+      "url": "https://open.spotify.com/track/4c98woI6F0ptrGFyK8O1m2"
+    },
+    {
+      "added_at": "2024-08-16 20:28:24",
+      "album": {
         "name": "Sobre Crian\u00e7as, Quadris, Pesadelos e Li\u00e7\u00f5es de Casa...",
         "url": "https://open.spotify.com/album/77ye4kGcWBmzcLWFiSCljE"
       },
@@ -1155,38 +1187,6 @@
       "duration_ms": 495600,
       "name": "Mandume",
       "url": "https://open.spotify.com/track/7JEFQNPdF5yUePOuTAG5fs"
-    },
-    {
-      "added_at": "2024-08-16 20:28:24",
-      "album": {
-        "name": "Solo",
-        "url": "https://open.spotify.com/album/09pLe9TmUD5UxYWiWqjBqf"
-      },
-      "artists": [
-        {
-          "name": "Entre Linhas",
-          "url": "https://open.spotify.com/artist/0JGXguxnX2MUk3joFyJPjX"
-        },
-        {
-          "name": "Kuririn",
-          "url": "https://open.spotify.com/artist/6R85n4akSmUKlnYZ2QnzmC"
-        },
-        {
-          "name": "Kweller",
-          "url": "https://open.spotify.com/artist/4W4NkfM4A1sX2S2bfYlV07"
-        },
-        {
-          "name": "Matu\u00ea",
-          "url": "https://open.spotify.com/artist/6g0nBehL70Q9AW8jozS0JS"
-        },
-        {
-          "name": "Jay Kay",
-          "url": "https://open.spotify.com/artist/1hMrgRIkEemGJWByc74Kki"
-        }
-      ],
-      "duration_ms": 217392,
-      "name": "Cake",
-      "url": "https://open.spotify.com/track/4c98woI6F0ptrGFyK8O1m2"
     },
     {
       "added_at": "2024-08-16 20:28:24",

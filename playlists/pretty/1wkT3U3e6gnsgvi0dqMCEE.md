@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1wkT3U3e6gnsgvi0dqMCEE.md) - [plain]
 
 > All of your favourites, new favourites, live favourites and unearthed soon to be favourites\.  <a href="https://www.umusic.ca/collections/rediscover">here</a>
 
-[Digster Canada](https://open.spotify.com/user/digsterca) - 3,709 likes - 123 songs - 7 hr 59 min
+[Digster Canada](https://open.spotify.com/user/digsterca) - 3,710 likes - 123 songs - 7 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/1wkT3U3e6gnsgvi0dqMCEE.md) - [plain]
 | 36 | [Make It All Right](https://open.spotify.com/track/1N0O2fiLHAPkscHxa3ccW2) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Make It All Right](https://open.spotify.com/album/46M6MJ9pfT88HsUcm9GTnp) | 3:34 |
 | 37 | [Running](https://open.spotify.com/track/6EnWm7fQBUku6EuNc3xPmi) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Dark Matter](https://open.spotify.com/album/7MNrrItJpom6uMJWdT0XD8) | 2:19 |
 | 38 | [How Do You Keep The Music Playing? \- Bob Florence Arrangement \- 5/17/84](https://open.spotify.com/track/5vXfb0UVQxUou3HKzlpLnR) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [How Do You Keep The Music Playing? \- Bob Florence Arrangement \- 5/17/84](https://open.spotify.com/album/5ycDfRCnEIM1cHh6IU69PN) | 3:54 |
-| 39 | [What A Wonderful World \- Live At The BBC](https://open.spotify.com/track/6vy4oVtIlCno1dNYq0wqhc) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Louis In London \- Live At The BBC](https://open.spotify.com/album/5agu2tOeRrQKNduqGpRSIq) | 2:32 |
+| 39 | [What A Wonderful World \- Live At The BBC](https://open.spotify.com/track/6vy4oVtIlCno1dNYq0wqhc) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Louis In London \(Live At The BBC\)](https://open.spotify.com/album/5agu2tOeRrQKNduqGpRSIq) | 2:32 |
 | 40 | [Hello Out There](https://open.spotify.com/track/0x1u8snNiyKqfmYmyQg3Kr) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [Songwriter](https://open.spotify.com/album/4Y58KotkrZ32Nnni8CuXRd) | 3:02 |
 | 41 | [Cars in the Desert](https://open.spotify.com/track/0EUl8ExEPsPm44z865IYHl) | [Nathaniel Rateliff & The Night Sweats](https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o) | [South of Here](https://open.spotify.com/album/1LOWCHNR8jAauJd35jafkN) | 2:56 |
 | 42 | [Tobey \(feat\. Big Sean and BabyTron\)](https://open.spotify.com/track/4KWeGKChLKcnZsj3sIOSkW) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk) | [Tobey \(feat\. Big Sean and BabyTron\)](https://open.spotify.com/album/65iXBHLsOnNVC5C6nVbLYf) | 4:44 |
