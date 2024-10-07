@@ -1,6 +1,6 @@
 {
   "description": "Detroit <a href=\"spotify:genre:techno\">Techno</a> Essentials. Cover: DJ Minx.",
-  "num_followers": 93777,
+  "num_followers": 93786,
   "original_name": "Detroit Techno",
   "owner": {
     "name": "Spotify",
@@ -195,26 +195,6 @@
     {
       "added_at": "2023-10-26 20:41:14",
       "album": {
-        "name": "Big Fun (Remastered)",
-        "url": "https://open.spotify.com/album/63Tyk1UCFndIYpHtZUKRWr"
-      },
-      "artists": [
-        {
-          "name": "Inner City",
-          "url": "https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp"
-        },
-        {
-          "name": "Kevin Saunderson",
-          "url": "https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG"
-        }
-      ],
-      "duration_ms": 198688,
-      "name": "Big Fun (Remastered)",
-      "url": "https://open.spotify.com/track/0iiQCzqzytQsVmlkGjTGB1"
-    },
-    {
-      "added_at": "2023-10-26 20:41:14",
-      "album": {
         "name": "Frisk",
         "url": "https://open.spotify.com/album/5VEY7dg6GBsee7YSRNBkDb"
       },
@@ -247,6 +227,26 @@
       "duration_ms": 361400,
       "name": "Track Ten",
       "url": "https://open.spotify.com/track/2TUSbKRL9amtnbH5bwYnt0"
+    },
+    {
+      "added_at": "2023-10-26 20:41:14",
+      "album": {
+        "name": "Big Fun (Remastered)",
+        "url": "https://open.spotify.com/album/63Tyk1UCFndIYpHtZUKRWr"
+      },
+      "artists": [
+        {
+          "name": "Inner City",
+          "url": "https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp"
+        },
+        {
+          "name": "Kevin Saunderson",
+          "url": "https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG"
+        }
+      ],
+      "duration_ms": 198688,
+      "name": "Big Fun (Remastered)",
+      "url": "https://open.spotify.com/track/0iiQCzqzytQsVmlkGjTGB1"
     },
     {
       "added_at": "2023-10-26 20:41:14",
@@ -323,6 +323,26 @@
     {
       "added_at": "2023-10-26 20:41:14",
       "album": {
+        "name": "Pennies From Heaven (Remastered)",
+        "url": "https://open.spotify.com/album/0OU1d6ClYVzKrvtNzZANKB"
+      },
+      "artists": [
+        {
+          "name": "Inner City",
+          "url": "https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp"
+        },
+        {
+          "name": "Kevin Saunderson",
+          "url": "https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG"
+        }
+      ],
+      "duration_ms": 198159,
+      "name": "Pennies From Heaven (Remastered)",
+      "url": "https://open.spotify.com/track/4EfIHd5ymQthDOEpZifCZ9"
+    },
+    {
+      "added_at": "2023-10-26 20:41:14",
+      "album": {
         "name": "Clocks / Low Life / Go",
         "url": "https://open.spotify.com/album/3mTABh6bXq2UMtpyxuvXI1"
       },
@@ -375,46 +395,6 @@
     {
       "added_at": "2023-10-26 20:41:14",
       "album": {
-        "name": "Pennies From Heaven (Remastered)",
-        "url": "https://open.spotify.com/album/0OU1d6ClYVzKrvtNzZANKB"
-      },
-      "artists": [
-        {
-          "name": "Inner City",
-          "url": "https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp"
-        },
-        {
-          "name": "Kevin Saunderson",
-          "url": "https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG"
-        }
-      ],
-      "duration_ms": 198159,
-      "name": "Pennies From Heaven (Remastered)",
-      "url": "https://open.spotify.com/track/4EfIHd5ymQthDOEpZifCZ9"
-    },
-    {
-      "added_at": "2023-10-26 20:41:14",
-      "album": {
-        "name": "Heavenly Revisited Album",
-        "url": "https://open.spotify.com/album/2r4zhVV8z7bxBtNpm3LVPs"
-      },
-      "artists": [
-        {
-          "name": "Kevin Saunderson",
-          "url": "https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG"
-        },
-        {
-          "name": "e-Dancer",
-          "url": "https://open.spotify.com/artist/7Mb2QpmkC5kzR4UV6rkzLZ"
-        }
-      ],
-      "duration_ms": 208818,
-      "name": "World Of Deep",
-      "url": "https://open.spotify.com/track/06i10JXZGO969A5NR4MXGD"
-    },
-    {
-      "added_at": "2023-10-26 20:41:14",
-      "album": {
         "name": "Best of Techno (Compilation Tracks)",
         "url": "https://open.spotify.com/album/2GEevWXNKUigGbxea87nGK"
       },
@@ -443,6 +423,62 @@
       "duration_ms": 177885,
       "name": "Right There",
       "url": "https://open.spotify.com/track/5YKYzjEbhcMxzhFgU2CLbf"
+    },
+    {
+      "added_at": "2023-10-26 20:41:14",
+      "album": {
+        "name": "Protein Valve EP",
+        "url": "https://open.spotify.com/album/4LU9fvyf1nqv22veiUGXNp"
+      },
+      "artists": [
+        {
+          "name": "Robert Hood",
+          "url": "https://open.spotify.com/artist/5ipQlfnpRCtyOuhYqvPvQ8"
+        }
+      ],
+      "duration_ms": 330462,
+      "name": "A.M. Track",
+      "url": "https://open.spotify.com/track/3rNDbLTgpgN1NYMLXIrIA2"
+    },
+    {
+      "added_at": "2023-10-26 20:41:14",
+      "album": {
+        "name": "Heavenly Revisited Album",
+        "url": "https://open.spotify.com/album/2r4zhVV8z7bxBtNpm3LVPs"
+      },
+      "artists": [
+        {
+          "name": "Kevin Saunderson",
+          "url": "https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG"
+        },
+        {
+          "name": "e-Dancer",
+          "url": "https://open.spotify.com/artist/7Mb2QpmkC5kzR4UV6rkzLZ"
+        }
+      ],
+      "duration_ms": 208818,
+      "name": "World Of Deep",
+      "url": "https://open.spotify.com/track/06i10JXZGO969A5NR4MXGD"
+    },
+    {
+      "added_at": "2023-10-26 20:41:14",
+      "album": {
+        "name": "We All Move Together",
+        "url": "https://open.spotify.com/album/6H0EcJF033CuU5TsJqzoid"
+      },
+      "artists": [
+        {
+          "name": "Inner City",
+          "url": "https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp"
+        },
+        {
+          "name": "ZebrA OctobrA",
+          "url": "https://open.spotify.com/artist/3vly3a9FHPXxpfiTDUiWdd"
+        }
+      ],
+      "duration_ms": 188225,
+      "name": "SoundwaveZ",
+      "url": "https://open.spotify.com/track/6aPjtXcpw51zPzpxAqnyLg"
     },
     {
       "added_at": "2023-10-26 20:41:14",
@@ -483,58 +519,6 @@
     {
       "added_at": "2023-10-26 20:41:14",
       "album": {
-        "name": "Protein Valve EP",
-        "url": "https://open.spotify.com/album/4LU9fvyf1nqv22veiUGXNp"
-      },
-      "artists": [
-        {
-          "name": "Robert Hood",
-          "url": "https://open.spotify.com/artist/5ipQlfnpRCtyOuhYqvPvQ8"
-        }
-      ],
-      "duration_ms": 330462,
-      "name": "A.M. Track",
-      "url": "https://open.spotify.com/track/3rNDbLTgpgN1NYMLXIrIA2"
-    },
-    {
-      "added_at": "2023-10-26 20:41:14",
-      "album": {
-        "name": "We All Move Together",
-        "url": "https://open.spotify.com/album/6H0EcJF033CuU5TsJqzoid"
-      },
-      "artists": [
-        {
-          "name": "Inner City",
-          "url": "https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp"
-        },
-        {
-          "name": "ZebrA OctobrA",
-          "url": "https://open.spotify.com/artist/3vly3a9FHPXxpfiTDUiWdd"
-        }
-      ],
-      "duration_ms": 188225,
-      "name": "SoundwaveZ",
-      "url": "https://open.spotify.com/track/6aPjtXcpw51zPzpxAqnyLg"
-    },
-    {
-      "added_at": "2023-10-26 20:41:14",
-      "album": {
-        "name": "Red Room",
-        "url": "https://open.spotify.com/album/0BNMNVsOTRMmRN43yuPDm4"
-      },
-      "artists": [
-        {
-          "name": "Dantiez",
-          "url": "https://open.spotify.com/artist/2tavIhWjw7f878Bx9qDTma"
-        }
-      ],
-      "duration_ms": 400579,
-      "name": "Red Room",
-      "url": "https://open.spotify.com/track/1guCg3jJIYTDhfa35oWYV7"
-    },
-    {
-      "added_at": "2023-10-26 20:41:14",
-      "album": {
         "name": "Do It All Night (Honey Dijon Remix [Radio Edit])",
         "url": "https://open.spotify.com/album/6Opkh7SR0vMoTDEfalZxc8"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 252720,
       "name": "Do It All Night - Honey Dijon Remix [Radio Edit]",
       "url": "https://open.spotify.com/track/2H39iFssrfIvFm66Bm43AR"
+    },
+    {
+      "added_at": "2023-10-26 20:41:14",
+      "album": {
+        "name": "Red Room",
+        "url": "https://open.spotify.com/album/0BNMNVsOTRMmRN43yuPDm4"
+      },
+      "artists": [
+        {
+          "name": "Dantiez",
+          "url": "https://open.spotify.com/artist/2tavIhWjw7f878Bx9qDTma"
+        }
+      ],
+      "duration_ms": 400579,
+      "name": "Red Room",
+      "url": "https://open.spotify.com/track/1guCg3jJIYTDhfa35oWYV7"
     },
     {
       "added_at": "2023-10-26 20:41:14",
@@ -595,6 +595,26 @@
     {
       "added_at": "2023-10-26 20:41:14",
       "album": {
+        "name": "We All Move Together",
+        "url": "https://open.spotify.com/album/6H0EcJF033CuU5TsJqzoid"
+      },
+      "artists": [
+        {
+          "name": "Inner City",
+          "url": "https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp"
+        },
+        {
+          "name": "IDRIS",
+          "url": "https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS"
+        }
+      ],
+      "duration_ms": 352599,
+      "name": "We All Move Together - Album Mix",
+      "url": "https://open.spotify.com/track/5bdh7s1mGPfiBh2Thxlxsu"
+    },
+    {
+      "added_at": "2023-10-26 20:41:14",
+      "album": {
         "name": "The Sound / How To Play Our Music",
         "url": "https://open.spotify.com/album/5zY7Di2QT0Y2OZwmVwCr6w"
       },
@@ -635,6 +655,26 @@
     {
       "added_at": "2023-10-26 20:41:14",
       "album": {
+        "name": "Waveform Transmission Vol. 2",
+        "url": "https://open.spotify.com/album/0BmR9AfixKN0QsrkEHIXL2"
+      },
+      "artists": [
+        {
+          "name": "The Vision",
+          "url": "https://open.spotify.com/artist/1IvqVCBOoWeuz2jj5fXYs5"
+        },
+        {
+          "name": "Robert Hood",
+          "url": "https://open.spotify.com/artist/5ipQlfnpRCtyOuhYqvPvQ8"
+        }
+      ],
+      "duration_ms": 208177,
+      "name": "The Protector",
+      "url": "https://open.spotify.com/track/0Gmv7RQPrem1m4Amdc4Hhk"
+    },
+    {
+      "added_at": "2023-10-26 20:41:14",
+      "album": {
         "name": "The Curse Breaker / What You Need",
         "url": "https://open.spotify.com/album/00kKPJvarQWnQlFqekyvy6"
       },
@@ -647,26 +687,6 @@
       "duration_ms": 219573,
       "name": "The Curse Breaker",
       "url": "https://open.spotify.com/track/0cSjUF4T2ETqFaiajbP2Rj"
-    },
-    {
-      "added_at": "2023-10-26 20:41:14",
-      "album": {
-        "name": "We All Move Together",
-        "url": "https://open.spotify.com/album/6H0EcJF033CuU5TsJqzoid"
-      },
-      "artists": [
-        {
-          "name": "Inner City",
-          "url": "https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp"
-        },
-        {
-          "name": "IDRIS",
-          "url": "https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS"
-        }
-      ],
-      "duration_ms": 352599,
-      "name": "We All Move Together - Album Mix",
-      "url": "https://open.spotify.com/track/5bdh7s1mGPfiBh2Thxlxsu"
     },
     {
       "added_at": "2023-10-26 20:41:14",
@@ -687,26 +707,6 @@
       "duration_ms": 369016,
       "name": "I Can't Believe - Extended Mix",
       "url": "https://open.spotify.com/track/6fj1GG580y5T60iCJ85anz"
-    },
-    {
-      "added_at": "2023-10-26 20:41:14",
-      "album": {
-        "name": "Waveform Transmission Vol. 2",
-        "url": "https://open.spotify.com/album/0BmR9AfixKN0QsrkEHIXL2"
-      },
-      "artists": [
-        {
-          "name": "The Vision",
-          "url": "https://open.spotify.com/artist/1IvqVCBOoWeuz2jj5fXYs5"
-        },
-        {
-          "name": "Robert Hood",
-          "url": "https://open.spotify.com/artist/5ipQlfnpRCtyOuhYqvPvQ8"
-        }
-      ],
-      "duration_ms": 208177,
-      "name": "The Protector",
-      "url": "https://open.spotify.com/track/0Gmv7RQPrem1m4Amdc4Hhk"
     },
     {
       "added_at": "2023-10-26 20:41:14",
@@ -775,42 +775,6 @@
     {
       "added_at": "2023-10-26 20:41:14",
       "album": {
-        "name": "One Nation",
-        "url": "https://open.spotify.com/album/4ueHBbYbDGOpRTdKBbBoFm"
-      },
-      "artists": [
-        {
-          "name": "Kevin Saunderson",
-          "url": "https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG"
-        },
-        {
-          "name": "e-Dancer",
-          "url": "https://open.spotify.com/artist/7Mb2QpmkC5kzR4UV6rkzLZ"
-        }
-      ],
-      "duration_ms": 202057,
-      "name": "One Nation",
-      "url": "https://open.spotify.com/track/7ygTdMWOt9OrP6dFHbBuEc"
-    },
-    {
-      "added_at": "2023-10-26 20:41:14",
-      "album": {
-        "name": "Sounds",
-        "url": "https://open.spotify.com/album/6639iZ8oPeMPXZqgh8Vd0V"
-      },
-      "artists": [
-        {
-          "name": "K-Hand",
-          "url": "https://open.spotify.com/artist/0qWuk2qgRK2HNKYxqbIn5G"
-        }
-      ],
-      "duration_ms": 273832,
-      "name": "Make Me Laugh",
-      "url": "https://open.spotify.com/track/4Xq068QQqtTiuPpiGVfsyA"
-    },
-    {
-      "added_at": "2023-10-26 20:41:14",
-      "album": {
         "name": "Space Ibiza 2014 (25th Anniversary) [Unmixed DJ Version]",
         "url": "https://open.spotify.com/album/6Un9KGv9hSJYnxKSxl2Txf"
       },
@@ -843,6 +807,42 @@
       "duration_ms": 362946,
       "name": "Strings Of Life",
       "url": "https://open.spotify.com/track/7DXfJX286N3ZBURaq8D9mc"
+    },
+    {
+      "added_at": "2023-10-26 20:41:14",
+      "album": {
+        "name": "Sounds",
+        "url": "https://open.spotify.com/album/6639iZ8oPeMPXZqgh8Vd0V"
+      },
+      "artists": [
+        {
+          "name": "K-Hand",
+          "url": "https://open.spotify.com/artist/0qWuk2qgRK2HNKYxqbIn5G"
+        }
+      ],
+      "duration_ms": 273832,
+      "name": "Make Me Laugh",
+      "url": "https://open.spotify.com/track/4Xq068QQqtTiuPpiGVfsyA"
+    },
+    {
+      "added_at": "2023-10-26 20:41:14",
+      "album": {
+        "name": "One Nation",
+        "url": "https://open.spotify.com/album/4ueHBbYbDGOpRTdKBbBoFm"
+      },
+      "artists": [
+        {
+          "name": "Kevin Saunderson",
+          "url": "https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG"
+        },
+        {
+          "name": "e-Dancer",
+          "url": "https://open.spotify.com/artist/7Mb2QpmkC5kzR4UV6rkzLZ"
+        }
+      ],
+      "duration_ms": 202057,
+      "name": "One Nation",
+      "url": "https://open.spotify.com/track/7ygTdMWOt9OrP6dFHbBuEc"
     },
     {
       "added_at": "2023-10-26 20:41:14",

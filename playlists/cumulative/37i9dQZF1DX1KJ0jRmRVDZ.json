@@ -9261,6 +9261,28 @@
     },
     {
       "album": {
+        "name": "\u3064\u3088\u304c\u308b\u30ac\u30fc\u30eb",
+        "url": "https://open.spotify.com/album/2udxqBTrnKaqPzRLzC5w9K"
+      },
+      "artists": [
+        {
+          "name": "\u307c\u3063\u3061\u307c\u308d\u307e\u308b",
+          "url": "https://open.spotify.com/artist/62DFXFLKdUqfpvVmJbXAyo"
+        },
+        {
+          "name": "\u3082\u3063\u3055",
+          "url": "https://open.spotify.com/artist/7a7uhcdZvYg4IGcD9tUB3g"
+        }
+      ],
+      "date_added": "2024-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189466,
+      "name": "\u3064\u3088\u304c\u308b\u30ac\u30fc\u30eb",
+      "url": "https://open.spotify.com/track/3GxZpsOr0vFZfU30PYULgU"
+    },
+    {
+      "album": {
         "name": "\u30e9\u30d6\u30db\u30ea\u30c3\u30af",
         "url": "https://open.spotify.com/album/1sJvXdzjZ7FYbftQyPDZBc"
       },
@@ -19262,7 +19284,7 @@
       ],
       "date_added": "2024-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-07",
       "duration_ms": 188300,
       "name": "\u6b21\u56de\u4e88\u544a",
       "url": "https://open.spotify.com/track/2bo9W888RRWGTk9AxmxUJs"

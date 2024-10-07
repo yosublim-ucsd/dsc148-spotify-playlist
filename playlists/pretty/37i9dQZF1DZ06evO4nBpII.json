@@ -1,18 +1,18 @@
 {
   "description": "This is Green Day. The essential tracks, all in one playlist.",
-  "num_followers": 1070501,
+  "num_followers": 1070672,
   "original_name": "This Is Green Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zv3egAAAAABjDt4jWlafsvgjTp8Jf7MO",
+  "snapshot_id": "ZwCBgAAAAAB/PWdLqBUsqHygewOJctss",
   "tracks": [
     {
       "added_at": null,
       "album": {
-        "name": "American Idiot - 20th Anniversary - Becoming Who We Are",
-        "url": "https://open.spotify.com/album/4kebtpWNmc8CLgOm7bFvGx"
+        "name": "American Idiot (20th Anniversary - Jesus of Suburbia)",
+        "url": "https://open.spotify.com/album/7tn2RYarT4oElkFeKH8WW6"
       },
       "artists": [
         {
@@ -20,9 +20,9 @@
           "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
         }
       ],
-      "duration_ms": 299775,
-      "name": "Wake Me Up When September Ends - Demo",
-      "url": "https://open.spotify.com/track/5rqoSVrje10lIhdlX6W58b"
+      "duration_ms": 141600,
+      "name": "Jesus of Suburbia - Demo",
+      "url": "https://open.spotify.com/track/3jCXiL73zSHOJxhqL2tgoE"
     },
     {
       "added_at": null,
@@ -251,8 +251,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "American Idiot",
-        "url": "https://open.spotify.com/album/5dN7F9DV0Qg1XRdIgW8rke"
+        "name": "Warning",
+        "url": "https://open.spotify.com/album/3ifIxGNsG1XmLdoanRRIWB"
       },
       "artists": [
         {
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
         }
       ],
-      "duration_ms": 548253,
-      "name": "Jesus of Suburbia",
-      "url": "https://open.spotify.com/track/58KPPL1AdLHMvR2O2PZejr"
+      "duration_ms": 168226,
+      "name": "Minority",
+      "url": "https://open.spotify.com/track/4qjfQnccStTR8zNsb6Mizo"
     },
     {
       "added_at": null,
@@ -331,8 +331,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Warning",
-        "url": "https://open.spotify.com/album/3ifIxGNsG1XmLdoanRRIWB"
+        "name": "Revolution Radio",
+        "url": "https://open.spotify.com/album/5a3LqvNt2nv1B4aRKXmgOV"
       },
       "artists": [
         {
@@ -340,9 +340,9 @@
           "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
         }
       ],
-      "duration_ms": 168226,
-      "name": "Minority",
-      "url": "https://open.spotify.com/track/4qjfQnccStTR8zNsb6Mizo"
+      "duration_ms": 224760,
+      "name": "Still Breathing",
+      "url": "https://open.spotify.com/track/19YmvsVCetCBeVj6O2mljR"
     },
     {
       "added_at": null,
@@ -395,8 +395,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Revolution Radio",
-        "url": "https://open.spotify.com/album/5a3LqvNt2nv1B4aRKXmgOV"
+        "name": "Warning",
+        "url": "https://open.spotify.com/album/3ifIxGNsG1XmLdoanRRIWB"
       },
       "artists": [
         {
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
         }
       ],
-      "duration_ms": 224760,
-      "name": "Still Breathing",
-      "url": "https://open.spotify.com/track/19YmvsVCetCBeVj6O2mljR"
+      "duration_ms": 192360,
+      "name": "Waiting",
+      "url": "https://open.spotify.com/track/390SemxFYgPZ3FfGVqiIqt"
     },
     {
       "added_at": null,
@@ -427,8 +427,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Warning",
-        "url": "https://open.spotify.com/album/3ifIxGNsG1XmLdoanRRIWB"
+        "name": "American Idiot - 20th Anniversary - Becoming Who We Are",
+        "url": "https://open.spotify.com/album/4kebtpWNmc8CLgOm7bFvGx"
       },
       "artists": [
         {
@@ -436,9 +436,9 @@
           "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
         }
       ],
-      "duration_ms": 221666,
-      "name": "Warning",
-      "url": "https://open.spotify.com/track/0ue0gFLwvXd8qZIPg35Qiu"
+      "duration_ms": 299775,
+      "name": "Wake Me Up When September Ends - Demo",
+      "url": "https://open.spotify.com/track/5rqoSVrje10lIhdlX6W58b"
     },
     {
       "added_at": null,
@@ -455,6 +455,22 @@
       "duration_ms": 224310,
       "name": "Bobby Sox",
       "url": "https://open.spotify.com/track/7DXBItTPwL8OpsbXdj58Fl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Warning",
+        "url": "https://open.spotify.com/album/3ifIxGNsG1XmLdoanRRIWB"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 221666,
+      "name": "Warning",
+      "url": "https://open.spotify.com/track/0ue0gFLwvXd8qZIPg35Qiu"
     },
     {
       "added_at": null,
@@ -491,22 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Warning",
-        "url": "https://open.spotify.com/album/3ifIxGNsG1XmLdoanRRIWB"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 192360,
-      "name": "Waiting",
-      "url": "https://open.spotify.com/track/390SemxFYgPZ3FfGVqiIqt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Saviors",
         "url": "https://open.spotify.com/album/4AIeqAMDyIT884A9uA2A0i"
       },
@@ -523,22 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nimrod",
-        "url": "https://open.spotify.com/album/3x2uer6Xh0d5rF8toWpRDA"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 198093,
-      "name": "Redundant",
-      "url": "https://open.spotify.com/track/0GYTAipuswOBWFtk06kFCL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u00a1DOS!",
         "url": "https://open.spotify.com/album/71rrqHKVkUFx2CSVfxrrLs"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 224946,
       "name": "Stray Heart",
       "url": "https://open.spotify.com/track/2Q22sa3Y4lKXHHBBAxEhYY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nimrod",
+        "url": "https://open.spotify.com/album/3x2uer6Xh0d5rF8toWpRDA"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 198093,
+      "name": "Redundant",
+      "url": "https://open.spotify.com/track/0GYTAipuswOBWFtk06kFCL"
     },
     {
       "added_at": null,
@@ -587,6 +587,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "American Idiot",
+        "url": "https://open.spotify.com/album/5dN7F9DV0Qg1XRdIgW8rke"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 338146,
+      "name": "Are We the Waiting / St. Jimmy",
+      "url": "https://open.spotify.com/track/5MqV2o7iLd0lNREZ7SYL05"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Nimrod",
         "url": "https://open.spotify.com/album/3x2uer6Xh0d5rF8toWpRDA"
       },
@@ -619,6 +635,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "American Idiot - The Original Broadway Cast Recording",
+        "url": "https://open.spotify.com/album/1wO2srr9om17YtEvouoBue"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 203640,
+      "name": "When It's Time",
+      "url": "https://open.spotify.com/track/5nGCVIpxp0u4AYpVpK0pv4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "No Fun Mondays",
         "url": "https://open.spotify.com/album/6pjuzPdAkJPdNBiKzcloXL"
       },
@@ -635,22 +667,6 @@
       "duration_ms": 134671,
       "name": "I Think We're Alone Now",
       "url": "https://open.spotify.com/track/4gZYdWV1sVNmYkkAr2rRgW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "American Idiot - The Original Broadway Cast Recording",
-        "url": "https://open.spotify.com/album/1wO2srr9om17YtEvouoBue"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 203640,
-      "name": "When It's Time",
-      "url": "https://open.spotify.com/track/5nGCVIpxp0u4AYpVpK0pv4"
     },
     {
       "added_at": null,
@@ -815,22 +831,6 @@
       "duration_ms": 125986,
       "name": "Favorite Son",
       "url": "https://open.spotify.com/track/2uX0j2bUQlgZbkQGPkBuWS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "21st Century Breakdown",
-        "url": "https://open.spotify.com/album/1AHZd3C3S8m8fFrhFxyk79"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 231026,
-      "name": "Last of the American Girls",
-      "url": "https://open.spotify.com/track/5Rjm3VIMlxAEIEy5gU2bF7"
     }
   ],
   "unique_name": "This Is Green Day",

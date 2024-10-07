@@ -8836,7 +8836,7 @@
       ],
       "date_added": "2024-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-07",
       "duration_ms": 114941,
       "name": "Filthy Dog",
       "url": "https://open.spotify.com/track/3X13eQdWezwdzyLdN7mapp"
@@ -11256,7 +11256,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-07",
       "duration_ms": 167012,
       "name": "Heavy Is the Crown",
       "url": "https://open.spotify.com/track/3fgehc497TFqKH1zBL2YNK"
@@ -16792,7 +16792,7 @@
       ],
       "date_added": "2024-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-15",
+      "date_removed": null,
       "duration_ms": 179156,
       "name": "L\u016bp\u0173 Saldumo",
       "url": "https://open.spotify.com/track/5fRoxExnHugrODR2AA9L5P"
@@ -19206,7 +19206,7 @@
       ],
       "date_added": "2023-04-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-24",
+      "date_removed": null,
       "duration_ms": 163240,
       "name": "Myliu",
       "url": "https://open.spotify.com/track/1F61F4SNfrF1kYVA6Hwpn5"
@@ -25101,6 +25101,24 @@
     },
     {
       "album": {
+        "name": "Sapnas",
+        "url": "https://open.spotify.com/album/4lIvqRTZwvDzEp4OAtATVC"
+      },
+      "artists": [
+        {
+          "name": "Norbertas",
+          "url": "https://open.spotify.com/artist/314gEtVHpWMBWfExBpeBwz"
+        }
+      ],
+      "date_added": "2024-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171624,
+      "name": "Sapnas",
+      "url": "https://open.spotify.com/track/2RPhv8h2qctj8PH1r4067D"
+    },
+    {
+      "album": {
         "name": "Harry's House",
         "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
       },
@@ -25536,7 +25554,7 @@
       ],
       "date_added": "2023-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-07",
       "duration_ms": 183550,
       "name": "Seven (feat. Latto) (Explicit Ver.)",
       "url": "https://open.spotify.com/track/2HRgqmZQC0MC7GeNuDIXHN"
@@ -27976,7 +27994,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2024-10-03",
+      "date_removed": null,
       "duration_ms": 240400,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
@@ -27994,7 +28012,7 @@
       ],
       "date_added": "2024-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-07",
       "duration_ms": 240426,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/0cQVqPuHQP4KEwc7ZUQmj6"
@@ -29982,7 +30000,7 @@
       ],
       "date_added": "2024-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-07",
       "duration_ms": 251424,
       "name": "Too Sweet",
       "url": "https://open.spotify.com/track/19XpFsce28aByvCC4g89tJ"
@@ -30036,7 +30054,7 @@
       ],
       "date_added": "2024-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-03",
+      "date_removed": null,
       "duration_ms": 251424,
       "name": "Too Sweet",
       "url": "https://open.spotify.com/track/76JKIsdKrAfWUMjaA0u7v5"

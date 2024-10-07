@@ -2,9 +2,9 @@
 
 ### [This Is Aphex Twin](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3JKYkV)
 
-> This Is Aphex Twin\. Los temas esenciales, todos en una lista.
+> This is Aphex Twin\. The essential tracks, all in one playlist.
 
-140 songs - 10 hr 46 min
+141 songs - 10 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [\#2](https://open.spotify.com/track/0o3pBoCxCCVF6ungXlgVyL) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works Volume II](https://open.spotify.com/album/17vHPMmoxN5B8cdhCDeMTe) | 6:34 | 2022-05-29 | 2022-10-27 |
 | [\#20](https://open.spotify.com/track/0Pg0frSTti7d8Ck1OmOYkz) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works Volume II](https://open.spotify.com/album/2SZZihZiCsFo87NKxDfxlH) | 4:15 | 2023-02-17 |  |
 | [\#20](https://open.spotify.com/track/5IExVHUiRccCWyJ4imu9qD) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works Volume II](https://open.spotify.com/album/17vHPMmoxN5B8cdhCDeMTe) | 4:15 | 2022-05-29 | 2023-02-18 |
+| [\#21](https://open.spotify.com/track/56wLenDrpunq4jPiMMissg) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works Volume II \(Expanded Edition\)](https://open.spotify.com/album/7gpblNxStuPCUouPvlyf2i) | 4:15 | 2024-10-07 |  |
 | [\#3](https://open.spotify.com/track/2Bc4llhjJBW77I552RgA3L) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works Volume II](https://open.spotify.com/album/17vHPMmoxN5B8cdhCDeMTe) | 7:44 | 2022-05-29 | 2023-02-18 |
 | [\#3](https://open.spotify.com/track/7glKwbR1DyuIuE6XvZvJbQ) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works Volume II](https://open.spotify.com/album/2SZZihZiCsFo87NKxDfxlH) | 7:44 | 2023-02-17 |  |
 | [\#7](https://open.spotify.com/track/4Rjz6GjnEtG9upOBj6vGKK) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works Volume II](https://open.spotify.com/album/17vHPMmoxN5B8cdhCDeMTe) | 8:51 | 2022-05-29 | 2023-02-18 |

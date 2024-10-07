@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Brazil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 212,575 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 212,607 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 | 13 | [Me Caiu Tão Bem \- Ao Vivo](https://open.spotify.com/track/6mTpK40yIRk1xGGNvRMHGg) | [Murilo Huff](https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz), [Gustavo Mioto](https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP) | [Fortaleza, Vol.3 \(Ao Vivo\)](https://open.spotify.com/album/0gCOaKfrBuEMpjvKDZnfak) | 2:36 |
 | 14 | [Só Fé](https://open.spotify.com/track/0bPP5cDG1ZnbAVCEa3ZbQ1) | [Grelo](https://open.spotify.com/artist/1eIYP01ZLPKEExhcV6xFgt) | [É o Grelo](https://open.spotify.com/album/41ng9tBJsRNYqaqRDEtrbN) | 3:23 |
 | 15 | [Cronômetro \- Ao Vivo](https://open.spotify.com/track/7pkpWcko6KEZANj0xKsCsu) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [Praiou \(Ao Vivo / Vol.3\)](https://open.spotify.com/album/7IrTWvmwWzNs06jd3kEyMQ) | 2:45 |
-| 16 | [CLONE \- Ao Vivo](https://open.spotify.com/track/4dvHZesL5UKzfJnFH5bm3g) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [CLONE \- Ao Vivo](https://open.spotify.com/album/1joXkdnMTPXoc4nRIqkr0s) | 2:44 |
+| 16 | [CLONE \- Ao Vivo](https://open.spotify.com/track/4dvHZesL5UKzfJnFH5bm3g) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [CLONE \(Ao Vivo\)](https://open.spotify.com/album/1joXkdnMTPXoc4nRIqkr0s) | 2:44 |
 | 17 | [Wi\-Fi \- Ao Vivo](https://open.spotify.com/track/0S7o4sti5I5CAbbotTUzTM) | [Traia Véia](https://open.spotify.com/artist/0FMBXfGasuAjdpsCs7zgju), [Luan Pereira](https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl) | [Wi\-Fi \(Ao Vivo\)](https://open.spotify.com/album/4iPWQzXrICuvO2Dy7TztRw) | 2:41 |
 | 18 | [Gosta De Rua \- Ao Vivo](https://open.spotify.com/track/4VNRWHoiKHZJIoQHPbmJIv) | [Felipe e Rodrigo](https://open.spotify.com/artist/7gZu6kPnY9enEi5FvgTO4F) | [Questão de Tempo \(Ao Vivo / Parte 1\)](https://open.spotify.com/album/31FOkXSjgGWQN0AABNxtbA) | 2:51 |
 | 19 | [The Emptiness Machine](https://open.spotify.com/track/2PnlsTsOTLE5jnBnNe2K0A) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [The Emptiness Machine](https://open.spotify.com/album/6W0Gabv5f3ugnckc6YgfJQ) | 3:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 | 49 | [Mistérios](https://open.spotify.com/track/1K14aw84e0i5IHFHkq7aNn) | [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [Murillo e LT no Beat](https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6) | [Mistérios](https://open.spotify.com/album/7EXbbKbkFrFFGqWIV7vEhH) | 2:16 |
 | 50 | [Como É Que A Gente Fica \- Ao Vivo](https://open.spotify.com/track/0zxWyvrKyz031tFfBnkYLr) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Novas Histórias \(Ao Vivo\)](https://open.spotify.com/album/4pUsKJjeqLi99MZbRKD03U) | 2:43 |
 
-Snapshot ID: `LpSroAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `LpX6yAAAAAAAAAAAAAAAAAAAAAAAAGVu`

@@ -2,7 +2,7 @@
 
 ### [This Is Carolina Ross](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3fD9Xc)
 
-> This is Carolina Ross\. Track\-track unggulan, semuanya dalam satu playlist.
+> This Is Carolina Ross\. Los temas esenciales, todos en una lista.
 
 74 songs - 4 hr 6 min
 
@@ -14,7 +14,7 @@
 | [Apuré Mi Café](https://open.spotify.com/track/3lXFDK6qTIaP8cHKvDHd7O) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Apuré Mi Café](https://open.spotify.com/album/2REMNzHUcsxbQgxdB79wDh) | 3:11 | 2023-03-10 | 2024-06-17 |
 | [Buena Señal](https://open.spotify.com/track/4kpAZKCOW56xfDvVBiIJU2) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Buena Señal](https://open.spotify.com/album/3J0I5i73vmM6YwBoFltt3e) | 3:06 | 2023-03-10 |  |
 | [Cicatrices](https://open.spotify.com/track/3GWHLz1rRWONm8DIsaLOlE) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mis Covers, Vol\. 2](https://open.spotify.com/album/5jjsvm8MJ01dNvgZjzBNmR) | 2:55 | 2023-03-10 |  |
-| [Como No Adorarla](https://open.spotify.com/track/1aqJMMLk8toQzNxYucJAxx) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mis Covers, Vol\. 4](https://open.spotify.com/album/1oRruxE4tO17YAgbjrzwl7) | 3:25 | 2023-03-10 | 2023-11-11 |
+| [Como No Adorarla](https://open.spotify.com/track/1aqJMMLk8toQzNxYucJAxx) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mis Covers, Vol\. 4](https://open.spotify.com/album/1oRruxE4tO17YAgbjrzwl7) | 3:25 | 2023-03-10 |  |
 | [Complicado](https://open.spotify.com/track/40fBOKWD0ophwpsjE9kBcD) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Cuestión De Tiempo](https://open.spotify.com/album/1mLr3RcaBKzPJJqrlDEdv7) | 3:01 | 2024-06-19 |  |
 | [Complicado](https://open.spotify.com/track/41nkvQRQEdwl7xXV6SOLEQ) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Complicado](https://open.spotify.com/album/1ah2JVpqSNdjezgxYgmQlC) | 3:01 | 2023-03-10 | 2024-06-19 |
 | [Cuando Caiga la Noche](https://open.spotify.com/track/15mqnAeCOQXcMB3u48RIin) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Cuando Caiga la Noche](https://open.spotify.com/album/366Q6rUOSrYDXjrDiuL1lU) | 3:21 | 2023-03-10 | 2024-06-17 |
@@ -39,7 +39,7 @@
 | [Invéntame](https://open.spotify.com/track/6T8R9TnadyABz3IWs0F9Zi) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [MAS Norteño](https://open.spotify.com/album/2qZpfoPNjNiteXskjgTICQ) | 3:19 | 2023-03-10 | 2023-05-26 |
 | [Jugar a Los Besos](https://open.spotify.com/track/3eCarseFqDhUPEWMDcWi2t) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77), [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Jugar a Los Besos](https://open.spotify.com/album/3ft9sLjNF5Ff3nTytL3TRD) | 2:48 | 2023-12-13 | 2024-09-21 |
 | [La Llorona](https://open.spotify.com/track/5AOEudcsj9BbSfDbRjxkpO) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [La Llorona](https://open.spotify.com/album/0vx6yN3peiZnWGIK3yxgZX) | 3:46 | 2023-03-10 | 2023-04-15 |
-| [La Marea \(feat\. Carolina Ross\)](https://open.spotify.com/track/6tB3TN8NjXiTUIYvflp8P5) | [Polo Gonzalez](https://open.spotify.com/artist/0OpXeanba0vYnyoft00BP6), [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [La Marea \(feat\. Carolina Ross\)](https://open.spotify.com/album/2YpckMEZN0Z2w6FtGMRcj0) | 4:15 | 2024-09-30 |  |
+| [La Marea](https://open.spotify.com/track/6tB3TN8NjXiTUIYvflp8P5) | [Polo Gonzalez](https://open.spotify.com/artist/0OpXeanba0vYnyoft00BP6), [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [La Marea](https://open.spotify.com/album/2YpckMEZN0Z2w6FtGMRcj0) | 4:15 | 2024-09-30 |  |
 | [La Mejor Versión de Mí](https://open.spotify.com/track/7pA5y7FE8t6T34ig8TCwsY) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mis Covers, Vol\. 6](https://open.spotify.com/album/4EjJTTbMsYqHHrZrl1vAy8) | 2:28 | 2023-03-10 |  |
 | [Me Hubieras Dicho](https://open.spotify.com/track/2QWxAkrTH97GmRhnaFJ6Vi) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mis Covers, Vol\. 5](https://open.spotify.com/album/269CUSn61yMvZIcJqkxGgH) | 3:06 | 2023-03-10 |  |
 | [Me Sobrabas Tú](https://open.spotify.com/track/1oFYyDYpOFJ0HNtjyfY6e1) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mis Covers, Vol\. 4](https://open.spotify.com/album/1oRruxE4tO17YAgbjrzwl7) | 3:24 | 2023-03-10 |  |
@@ -66,7 +66,7 @@
 | [Qué Bueno Que Fuiste Tú](https://open.spotify.com/track/61pfP2D4QNELNEsxh0aCn7) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Nunca Me Sueltes](https://open.spotify.com/album/7JfwGcd9SQy4wxXK5aQTFc) | 3:00 | 2024-04-30 |  |
 | [Seremos](https://open.spotify.com/track/5AT5SkDR5LZEkNKCxJ4FAX) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mis Covers, Vol\. 4](https://open.spotify.com/album/1oRruxE4tO17YAgbjrzwl7) | 3:16 | 2023-03-10 |  |
 | [Sería un Error](https://open.spotify.com/track/2zITVc64nUa5mhtdA7SLUu) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mis Covers, Vol\. 2](https://open.spotify.com/album/5jjsvm8MJ01dNvgZjzBNmR) | 3:06 | 2023-03-11 | 2024-07-23 |
-| [Si Me Tenías](https://open.spotify.com/track/5KQqFvTyDGh7eumS8WpbD5) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mis Covers, Vol\. 4](https://open.spotify.com/album/1oRruxE4tO17YAgbjrzwl7) | 4:00 | 2023-03-10 |  |
+| [Si Me Tenías](https://open.spotify.com/track/5KQqFvTyDGh7eumS8WpbD5) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mis Covers, Vol\. 4](https://open.spotify.com/album/1oRruxE4tO17YAgbjrzwl7) | 4:00 | 2023-03-10 | 2024-10-07 |
 | [Si Quieres \- Versión Mariachi](https://open.spotify.com/track/1KOoIXcpacszpKQMhHhY1A) | [Neto Bernal](https://open.spotify.com/artist/0X8PwlFMDK85fIadwq3cA5), [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Si Quieres \(Versión Mariachi\)](https://open.spotify.com/album/3C836EDbA7xMYdCKS42MLc) | 4:18 | 2023-03-10 |  |
 | [Siempre Te Voy a Querer](https://open.spotify.com/track/2bNYigumZc9MMdc621Hn7N) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mis Covers](https://open.spotify.com/album/5vGaNv6zQIAixUzSo0o9qY) | 3:46 | 2023-03-10 |  |
 | [Simplemente Amigos](https://open.spotify.com/track/2OQy8QEsfuGsZmBYvo73dN) | [Pepe Walker](https://open.spotify.com/artist/77R9hp0RJqY3frwTqmQLGZ), [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Simplemente Amigos](https://open.spotify.com/album/2biUT54gIqLtxLUt8rNuct) | 2:56 | 2024-08-18 |  |

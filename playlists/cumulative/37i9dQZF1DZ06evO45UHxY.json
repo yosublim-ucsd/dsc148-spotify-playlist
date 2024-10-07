@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-02",
-  "description": "This is Banda Zeta. The essential tracks, all in one playlist.",
+  "description": "This Is Banda Zeta. Los temas esenciales, todos en una lista.",
   "name": "This Is Banda Zeta",
   "tracks": [
     {
@@ -1017,6 +1017,24 @@
     },
     {
       "album": {
+        "name": "La Calentura",
+        "url": "https://open.spotify.com/album/2NUDVbL3mZcLCsyx2QCrpi"
+      },
+      "artists": [
+        {
+          "name": "Banda Zeta",
+          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
+        }
+      ],
+      "date_added": "2024-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184693,
+      "name": "La Calentura",
+      "url": "https://open.spotify.com/track/2m0pHZCgBtCad5Pv0RBCfw"
+    },
+    {
+      "album": {
         "name": "La Chispa",
         "url": "https://open.spotify.com/album/1lLbUAZDU4fR3W8ZXw0B8v"
       },
@@ -1742,7 +1760,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-07",
       "duration_ms": 188923,
       "name": "\u00bfDe Qu\u00e9 Color Es Tu Brassiere?",
       "url": "https://open.spotify.com/track/62UMoTz03A2dHcJY0NISd7"

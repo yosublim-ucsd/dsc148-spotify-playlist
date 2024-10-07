@@ -4,7 +4,7 @@
 
 > This is LUDMILLA\. The essential tracks, all in one playlist.
 
-79 songs - 4 hr 48 min
+80 songs - 4 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Não vá me enganar \- Ao Vivo](https://open.spotify.com/track/6Q3JFwQ0EoAO7gosrWI3na) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Belo](https://open.spotify.com/artist/7hLjkyL9Pz9xtQNahzJZki) | [Numanice \#2 \(Ao Vivo\) \- Deluxe](https://open.spotify.com/album/6iCqu8WWngOqpEGxGthyvv) | 3:07 | 2023-10-10 |  |
 | [Não É Por Maldade \- Ao vivo](https://open.spotify.com/track/19IIiuViFv6TsPDXV2ZWB3) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Sorriso Maroto](https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG) | [Numanice \(Ao vivo\)](https://open.spotify.com/album/5u9JxohIzAYCPE53Ev4uiN) | 3:35 | 2023-10-10 |  |
 | [Paciência \(Participação especial de Ludmilla\) \- Ao vivo](https://open.spotify.com/track/3jHsNUej99xBE7TX3fg1xD) | [Ferrugem](https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Prazer, eu sou Ferrugem \(Ao vivo\)](https://open.spotify.com/album/3SkOXrdSri5EIpDpUvfdm3) | 3:53 | 2023-10-10 |  |
+| [Perfume \- Ao Vivo](https://open.spotify.com/track/5RrkZPErBSiNW8OjRxnkId) | [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Perfume \(Ao Vivo\)](https://open.spotify.com/album/5tE6GbtjP4htGoyrT5H78A) | 2:54 | 2024-10-07 |  |
 | [Perfume \- Ao Vivo](https://open.spotify.com/track/6Eu4upXqRZxGTJref5U5c4) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Belo](https://open.spotify.com/artist/7hLjkyL9Pz9xtQNahzJZki) | [Numanice \#2 \(Ao Vivo\) \- Deluxe](https://open.spotify.com/album/6iCqu8WWngOqpEGxGthyvv) | 2:01 | 2023-10-10 |  |
 | [Pique Djavan \- Ao Vivo](https://open.spotify.com/track/7D9sdH2LEs3To9nMZnLXUt) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Numanice \#3 \(Ao Vivo\)](https://open.spotify.com/album/2uNEA9woVB0GKJuv4vA9Af) | 2:46 | 2024-02-23 | 2024-07-18 |
 | [Piña Colada](https://open.spotify.com/track/07n2nBfbBGVpVLcbElqTOy) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Piña Colada](https://open.spotify.com/album/2E8hbRURjwvoqiWbb6Pf7S) | 3:09 | 2024-04-06 | 2024-07-27 |

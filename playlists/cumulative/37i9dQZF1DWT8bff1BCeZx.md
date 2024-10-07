@@ -4,7 +4,7 @@
 
 > African Praise music taking you all the way up!
 
-168 songs - 13 hr 7 min
+169 songs - 13 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,8 @@
 | [BLESS ME](https://open.spotify.com/track/7EUUYhtpRLorHFzPqzkdsW) | [Jaderah](https://open.spotify.com/artist/5h0YEFbvd46PMori1xWBFM) | [BLESS ME](https://open.spotify.com/album/2XHD6EX55HJfkZXGqLOH2M) | 3:14 | 2023-09-15 | 2023-10-12 |
 | [Blessed Year](https://open.spotify.com/track/24aC5jGBkjEDpAAtaS6o5H) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2), [Vin Mokay](https://open.spotify.com/artist/4H3x6M1mNufxM9SANBPTqz) | [Blessed Year](https://open.spotify.com/album/4UAyKYRIvD8Vj6BC4ZzxnW) | 3:04 | 2024-01-26 | 2024-04-28 |
 | [Blessings \(Everywhere I Go\)](https://open.spotify.com/track/6wgw0w5N3AQ7AfHcoL2JqW) | [Noël Mio](https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta), [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9), [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL), [Theresa Phondo](https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX) | [Blessings \(Everywhere I Go\)](https://open.spotify.com/album/0EpZhsAfVEDl1vGfhV6mMg) | 3:03 | 2023-09-01 | 2023-09-28 |
-| [Carry me like Baby](https://open.spotify.com/track/2g5uy0nM9DW0JJJLefJFgJ) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Blessed](https://open.spotify.com/album/5wyDRKWKtPq3znLWVOtUIk) | 3:12 | 2023-12-01 |  |
+| [C'est DIEU qui donne](https://open.spotify.com/track/4h1rwuKcqyInYs9nnGs8oW) | [M I L O](https://open.spotify.com/artist/3h8ysJX4brfjOTz1GmlhLa) | [C'est DIEU qui donne](https://open.spotify.com/album/10KLqBswvKTGchWdCLjSj3) | 2:57 | 2024-08-16 |  |
+| [Carry me like Baby](https://open.spotify.com/track/2g5uy0nM9DW0JJJLefJFgJ) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Blessed](https://open.spotify.com/album/5wyDRKWKtPq3znLWVOtUIk) | 3:12 | 2023-12-01 | 2024-10-07 |
 | [Cock & Bull](https://open.spotify.com/track/3ZRgwGkJsp5LKVUopyVfUg) | [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [Cock & Bull](https://open.spotify.com/album/6Uogs97Nbk2Ed4UtBJYQdi) | 10:02 | 2023-04-14 | 2023-09-04 |
 | [COME AND SEE](https://open.spotify.com/track/6AcuWVJLutTcYQJQSikgZI) | [Joepraize](https://open.spotify.com/artist/36zaJBikfrPslhG3cYnv8s), [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [The Assignment](https://open.spotify.com/album/2HuCRu5g3Et1hPhutXCJoK) | 4:22 | 2023-04-06 | 2024-08-23 |
 | [Commando](https://open.spotify.com/track/7xXuJDOPMq2oIWryexZQ5A) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Oyije](https://open.spotify.com/artist/5yyv47kIRS1JBvjBzDOyGa), [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY) | [Commando](https://open.spotify.com/album/2pyYdLMR85a4xogAD5ikcn) | 2:33 | 2023-08-25 | 2023-09-15 |

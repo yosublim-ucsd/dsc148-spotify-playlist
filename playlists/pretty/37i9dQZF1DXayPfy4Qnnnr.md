@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayPfy4Qnnnr.md) - [plain]
 
 > Chanson alterno, rock festif, ska ou reggae, peu importe le genre : crie\-le bien fort, use tes cordes vocales !
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,625 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,642 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayPfy4Qnnnr.md) - [plain]
 | 17 | [Mon amant de St Jean](https://open.spotify.com/track/14d5gJKVmRqhWw2HWNmWuW) | [Les Croquants](https://open.spotify.com/artist/44tWbf1N3hZlP5bswGsn3g) | [Ça sent la bière](https://open.spotify.com/album/4jiVmehxYLlZCjHHzK33wW) | 3:01 |
 | 18 | [Le retour à la terre](https://open.spotify.com/track/715zIQcEj658KTFby8MJYp) | [Les Fatals Picards](https://open.spotify.com/artist/3oaj9AlMadVi3FkChhwFAz) | [Coming Out \(Standard\)](https://open.spotify.com/album/7k8ONKDSNThARwHLKnm2Tm) | 3:52 |
 | 19 | [Les mains froides](https://open.spotify.com/track/6jhn79WXv1GExPth5iMtny) | [Oldelaf](https://open.spotify.com/artist/7GBufLo5czrJHbWuo6gD7P) | [Le monde est beau](https://open.spotify.com/album/670mgOr9f4OGrlWfzoGNRD) | 3:41 |
-| 20 | [Sur les sentiers du monde](https://open.spotify.com/track/5Ix00M85PPm8X0BFhiDQhT) | [Le trottoir](https://open.spotify.com/artist/0z6rhcwWAD4Oi2J9bLKHbD) | [Nulle ombre](https://open.spotify.com/album/5OZT0zftB7q4lSB1zXorjD) | 3:46 |
-| 21 | [Plantation](https://open.spotify.com/track/3mdfBcdD8C3NbJ0SUBjA5i) | [Kana](https://open.spotify.com/artist/0O8CZw2zjGlq2coR7Nj33Q) | [Entre Frères...](https://open.spotify.com/album/1RhTC6PKCNZmNMiblUu9Ng) | 3:33 |
+| 20 | [Plantation](https://open.spotify.com/track/3mdfBcdD8C3NbJ0SUBjA5i) | [Kana](https://open.spotify.com/artist/0O8CZw2zjGlq2coR7Nj33Q) | [Entre Frères...](https://open.spotify.com/album/1RhTC6PKCNZmNMiblUu9Ng) | 3:33 |
+| 21 | [Sur les sentiers du monde](https://open.spotify.com/track/5Ix00M85PPm8X0BFhiDQhT) | [Le trottoir](https://open.spotify.com/artist/0z6rhcwWAD4Oi2J9bLKHbD) | [Nulle ombre](https://open.spotify.com/album/5OZT0zftB7q4lSB1zXorjD) | 3:46 |
 | 22 | [Motivés, le chant des partisans](https://open.spotify.com/track/3w9Z92Q9LBBuA7Ik7T0fn7) | [Motivés](https://open.spotify.com/artist/746xFau8DOtNcVLtnd4enN) | [Motivés! \- Chants de lutte](https://open.spotify.com/album/4WNsQtcIiGWu3oRrEsdcLp) | 4:22 |
 | 23 | [Allo Paris](https://open.spotify.com/track/7fuV0qMP7cBAApFvleb1T9) | [Mano Solo](https://open.spotify.com/artist/2MfAaMT9qmkHIBnU1ofzAP), [Mathew Ollivier](https://open.spotify.com/artist/5XXGHMuOtjPHSL5n7F6rlk) | [La Marmaille Nue](https://open.spotify.com/album/481r3yGly5FBggEgi3Sxi2) | 2:44 |
 | 24 | [On lâche rien](https://open.spotify.com/track/61ZSaEqlhd8LtMZcWkFekJ) | [HK et Les Saltimbanks](https://open.spotify.com/artist/4xsIQBB0sTOoXpENHzse10) | [Citoyen du monde](https://open.spotify.com/album/3TfIE3EOxOzS9GE8IQvrXe) | 3:43 |
@@ -39,11 +39,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayPfy4Qnnnr.md) - [plain]
 | 29 | [Mam'selle bulle](https://open.spotify.com/track/3qOtWKFjrGJky92RPuZH9K) | [Tryo](https://open.spotify.com/artist/4ZP3CHz28XWVLGiaVVWuLj), [Les Ogres De Barback](https://open.spotify.com/artist/3avSMklPuyXhcT5Smt1h7G) | [La pittoresque histoire de Pitt Ocha](https://open.spotify.com/album/2jXpYlwSJC9jUjC2Ildqwv) | 3:54 |
 | 30 | [Y' a pas d'arrangement](https://open.spotify.com/track/7sUzkDEQVDowGyLgyjTuDv) | [Zebda](https://open.spotify.com/artist/0eOdRJIL6L8AInJLre2uIP) | [Essence Ordinaire](https://open.spotify.com/album/7otu4JDWUXUIosul8HLfMF) | 4:31 |
 | 31 | [Cergy](https://open.spotify.com/track/1e83AhmZenZjuUGxpFtjcK) | [Anis](https://open.spotify.com/artist/3700G3mzTkuxc5U7hdE9CV) | [La Chance.](https://open.spotify.com/album/7hr4T8GgC9Pw7B9v9sDMju) | 4:18 |
-| 32 | [Emily](https://open.spotify.com/track/74C1HMWK9xA575Xr60Mt1k) | [Soan](https://open.spotify.com/artist/4Bxixr2SfkADo7S4aZXgCw) | [Tant pis](https://open.spotify.com/album/5W2UTG8meZ7cXm7hMCTM8q) | 2:51 |
-| 33 | [Sex accordéon et alcool](https://open.spotify.com/track/0Ad1QXmK8eWYh4917DMcCJ) | [Java](https://open.spotify.com/artist/2EaYvd5IQJYvfc7o44RKJi) | [Hawaï](https://open.spotify.com/album/3gA5SPdm6ImoZ1LvLwQLHn) | 4:25 |
-| 34 | [Flowers](https://open.spotify.com/track/7ogQYxp96INp4fbzOYitRq) | [Deluxe](https://open.spotify.com/artist/4EePV5BljRSXJnYww4d5Qa) | [Flowers](https://open.spotify.com/album/5rvVfYlcboTW6usum9qWoK) | 3:41 |
-| 35 | [Leo](https://open.spotify.com/track/5A2eN7HBSi6EcJWFS32ORB) | [Les VRP](https://open.spotify.com/artist/1UlbIPR4gt1ZQcEiDzD5j9) | [Vacances Prolongees](https://open.spotify.com/album/1VJGfxvY2EtV8N9X86ZTEb) | 3:42 |
-| 36 | [Balle Populaire](https://open.spotify.com/track/4ngtifrUaclXkXVL2WzaBp) | [Ministère Des Affaires Populaires](https://open.spotify.com/artist/2uo5phtKRY3BzaiSY0N31I) | [Debout là d'dans](https://open.spotify.com/album/4taZ4mviPoIK3n0Bx16YSY) | 4:04 |
+| 32 | [Sex accordéon et alcool](https://open.spotify.com/track/0Ad1QXmK8eWYh4917DMcCJ) | [Java](https://open.spotify.com/artist/2EaYvd5IQJYvfc7o44RKJi) | [Hawaï](https://open.spotify.com/album/3gA5SPdm6ImoZ1LvLwQLHn) | 4:25 |
+| 33 | [Emily](https://open.spotify.com/track/74C1HMWK9xA575Xr60Mt1k) | [Soan](https://open.spotify.com/artist/4Bxixr2SfkADo7S4aZXgCw) | [Tant pis](https://open.spotify.com/album/5W2UTG8meZ7cXm7hMCTM8q) | 2:51 |
+| 34 | [Leo](https://open.spotify.com/track/5A2eN7HBSi6EcJWFS32ORB) | [Les VRP](https://open.spotify.com/artist/1UlbIPR4gt1ZQcEiDzD5j9) | [Vacances Prolongees](https://open.spotify.com/album/1VJGfxvY2EtV8N9X86ZTEb) | 3:42 |
+| 35 | [Balle Populaire](https://open.spotify.com/track/4ngtifrUaclXkXVL2WzaBp) | [Ministère Des Affaires Populaires](https://open.spotify.com/artist/2uo5phtKRY3BzaiSY0N31I) | [Debout là d'dans](https://open.spotify.com/album/4taZ4mviPoIK3n0Bx16YSY) | 4:04 |
+| 36 | [Flowers](https://open.spotify.com/track/7ogQYxp96INp4fbzOYitRq) | [Deluxe](https://open.spotify.com/artist/4EePV5BljRSXJnYww4d5Qa) | [Flowers](https://open.spotify.com/album/5rvVfYlcboTW6usum9qWoK) | 3:41 |
 | 37 | [Danser encore](https://open.spotify.com/track/3lDn0RxZWGTKymCSn0Oz07) | [HK](https://open.spotify.com/artist/4NLRYOb9UpbCP4pPMJA47q) | [Danser encore](https://open.spotify.com/album/0ecZb9EcAuskkHks4Ujjii) | 5:26 |
 | 38 | [Les gens raisonnables](https://open.spotify.com/track/14FWWR9YkXEv4PtL7N8yFH) | [Mickey 3d](https://open.spotify.com/artist/4Zdj4TMYyTqmh6ppJDLwgF) | [Tu Vas Pas Mourir De Rire](https://open.spotify.com/album/6A72tti9z0ejH8Y6DeVhCr) | 3:27 |
 | 39 | [Les p'tits plaisirs](https://open.spotify.com/track/215xowAMaWJgaBLVWMFBUS) | [Les Blérots de R.A.V.E.L.](https://open.spotify.com/artist/03f8NxYYzXXegwRNjft7v7) | [Voleurs du dimanche](https://open.spotify.com/album/4yrLwpLLBQmOk5PraYT7pY) | 3:02 |

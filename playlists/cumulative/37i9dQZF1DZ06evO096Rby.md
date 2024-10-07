@@ -2,9 +2,9 @@
 
 ### [This Is Edgardo Nuñez](https://open.spotify.com/playlist/37i9dQZF1DZ06evO096Rby)
 
-> This is Edgardo Nuñez\. The essential tracks, all in one playlist.
+> This Is Edgardo Nuñez\. Los temas esenciales, todos en una lista.
 
-92 songs - 4 hr 49 min
+93 songs - 4 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,7 @@
 | [Golpe De Suerte](https://open.spotify.com/track/00fZZHPY9KBft8kB2nz8Xe) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Corridos 602](https://open.spotify.com/album/0e6v7RAfsLk2UHr5gvDitO) | 2:48 | 2024-01-29 | 2024-08-20 |
 | [Golpe De Suerte](https://open.spotify.com/track/3fLlygEeJBcDW1kPxCAIVp) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Corridos 602](https://open.spotify.com/album/0eCsjknge1ObzP28Hp3hWG) | 2:48 | 2024-08-23 |  |
 | [Hermosura de Mujer](https://open.spotify.com/track/19vV1i1AluuK7mQcJmM5GZ) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [DESVELADO](https://open.spotify.com/album/5aDEezKnOqyQo0qvTFhpkM) | 3:44 | 2024-01-29 |  |
-| [Kyc](https://open.spotify.com/track/2W1939GIXBdA58meh74sUU) | [Beto Sierra](https://open.spotify.com/artist/6kPf6aO5cAHU2RJUDN1UUy), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Octavio Cuadras](https://open.spotify.com/artist/2DleHTnLZ18SJy0LCcoIGp) | [Kyc](https://open.spotify.com/album/0t4CFNHeuPozzQ8GsE4At7) | 2:49 | 2024-03-27 |  |
+| [Kyc](https://open.spotify.com/track/2W1939GIXBdA58meh74sUU) | [Beto Sierra](https://open.spotify.com/artist/6kPf6aO5cAHU2RJUDN1UUy), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Octavio Cuadras](https://open.spotify.com/artist/2DleHTnLZ18SJy0LCcoIGp) | [Kyc](https://open.spotify.com/album/0t4CFNHeuPozzQ8GsE4At7) | 2:49 | 2024-03-27 | 2024-10-07 |
 | [La Envidia Se Dio Cuenta \- En Vivo](https://open.spotify.com/track/0612bpbpVUQX7mwYNO36xj) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [La Envidia Se Dio Cuenta \- En Vivo](https://open.spotify.com/album/56ZmDRD0prasmcVlSJwQNS) | 3:26 | 2024-01-29 | 2024-08-22 |
 | [La Envidia Se Dio Cuenta \- En Vivo](https://open.spotify.com/track/7qpl6cleWADFbhMifTBkPg) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [La Envidia Se Dio Cuenta \(En Vivo\)](https://open.spotify.com/album/1pivskZf20uDpQV21sjkN3) | 3:26 | 2024-08-22 |  |
 | [La Número 20 \- En Vivo](https://open.spotify.com/track/7IgCrY5WUgwzL2MxUzzLTF) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [La Número 20 \(En Vivo\)](https://open.spotify.com/album/4apHcPQV70jZg475MOOh9B) | 3:10 | 2024-09-30 |  |
@@ -67,6 +67,7 @@
 | [Me Cambio la Suerte](https://open.spotify.com/track/7iSLBztgZArYWUMmZV5b1c) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Me Cambio la Suerte](https://open.spotify.com/album/5cIjsNTgxNwzmfnfN1AyYV) | 2:51 | 2024-01-29 |  |
 | [Micaela / La María](https://open.spotify.com/track/4xqxRIgA4U71scvhAyvyig) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Bailemos Bebe](https://open.spotify.com/album/0syTyLMkktbjJQi6o89rWG) | 4:53 | 2024-01-29 | 2024-08-22 |
 | [Micaela / La María](https://open.spotify.com/track/58UuKulvF6CYIoFXxh9joZ) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Bailemos Bebe](https://open.spotify.com/album/2JTp06hzInwvdlYyXSWIFe) | 4:53 | 2024-08-22 |  |
+| [Mirame \(feat\. Blessd\) \- Remix](https://open.spotify.com/track/72BPA1JIC8LBrPP1uu1UNO) | [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [Mirame \(feat\. Blessd\) \[Remix\]](https://open.spotify.com/album/0VwgnKU3yLwiMnkutv5btR) | 3:13 | 2024-10-07 |  |
 | [No Es por Ella](https://open.spotify.com/track/65aRqpfHbDRWhFfupWm26H) | [Chicho Castro y Sus Alia2](https://open.spotify.com/artist/0dc0PZKnH4whnbo7cPKABC), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [No Es por Ella](https://open.spotify.com/album/3CcLFuxfmJV1Q8TyY59zew) | 2:50 | 2024-02-17 | 2024-09-30 |
 | [No Me Trates De Engañar](https://open.spotify.com/track/0pRJCBVqyG4osceQwJYl3S) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Bailemos Bebe](https://open.spotify.com/album/2JTp06hzInwvdlYyXSWIFe) | 2:37 | 2024-08-23 |  |
 | [No Me Trates De Engañar](https://open.spotify.com/track/5tI3iJOrGyxdvcVbpCcxy5) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Bailemos Bebe](https://open.spotify.com/album/0syTyLMkktbjJQi6o89rWG) | 2:37 | 2024-01-29 | 2024-08-23 |

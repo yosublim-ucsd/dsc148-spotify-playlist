@@ -1,6 +1,6 @@
 {
   "description": "A classic mix of pop, rock and folk hits from decades past. Cover: The Beach Boys",
-  "num_followers": 1254268,
+  "num_followers": 1254259,
   "original_name": "Good Times, Great Oldies",
   "owner": {
     "name": "Spotify",
@@ -429,22 +429,6 @@
       "url": "https://open.spotify.com/track/1ne9wOtDF2jM6Cm8WBkaER"
     },
     {
-      "added_at": "2021-01-06 18:39:03",
-      "album": {
-        "name": "The Stranger (Legacy Edition)",
-        "url": "https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6"
-      },
-      "artists": [
-        {
-          "name": "Billy Joel",
-          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
-        }
-      ],
-      "duration_ms": 235560,
-      "name": "Only the Good Die Young",
-      "url": "https://open.spotify.com/track/1xOXXYh6lTW8laxlW7JP2J"
-    },
-    {
       "added_at": "2022-06-30 18:06:09",
       "album": {
         "name": "Oogum Boogum",
@@ -463,18 +447,18 @@
     {
       "added_at": "2021-01-06 18:39:03",
       "album": {
-        "name": "Dock of the Bay Sessions",
-        "url": "https://open.spotify.com/album/3mdKPgJ2hyDF9ToznWuCn1"
+        "name": "The Stranger (Legacy Edition)",
+        "url": "https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6"
       },
       "artists": [
         {
-          "name": "Otis Redding",
-          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+          "name": "Billy Joel",
+          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
         }
       ],
-      "duration_ms": 141000,
-      "name": "Hard to Handle",
-      "url": "https://open.spotify.com/track/7FXuCkl1kfxwS5icDjTwbM"
+      "duration_ms": 235560,
+      "name": "Only the Good Die Young",
+      "url": "https://open.spotify.com/track/1xOXXYh6lTW8laxlW7JP2J"
     },
     {
       "added_at": "2021-12-14 20:17:09",
@@ -523,6 +507,22 @@
       "duration_ms": 179933,
       "name": "Cracklin' Rosie - Single Version",
       "url": "https://open.spotify.com/track/5pkd9ib1RgbkAd1R9bIOCa"
+    },
+    {
+      "added_at": "2021-01-06 18:39:03",
+      "album": {
+        "name": "Dock of the Bay Sessions",
+        "url": "https://open.spotify.com/album/3mdKPgJ2hyDF9ToznWuCn1"
+      },
+      "artists": [
+        {
+          "name": "Otis Redding",
+          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+        }
+      ],
+      "duration_ms": 141000,
+      "name": "Hard to Handle",
+      "url": "https://open.spotify.com/track/7FXuCkl1kfxwS5icDjTwbM"
     },
     {
       "added_at": "2021-01-06 18:39:03",
@@ -621,22 +621,6 @@
       "url": "https://open.spotify.com/track/1Q34tAtTWI6RdW1qzFQiPb"
     },
     {
-      "added_at": "2022-07-05 19:20:09",
-      "album": {
-        "name": "Crosby, Stills & Nash",
-        "url": "https://open.spotify.com/album/6vUWpE8qciYHOhf7mgaGny"
-      },
-      "artists": [
-        {
-          "name": "Crosby, Stills & Nash",
-          "url": "https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou"
-        }
-      ],
-      "duration_ms": 444053,
-      "name": "Suite: Judy Blue Eyes - 2005 Remaster",
-      "url": "https://open.spotify.com/track/2PuUFT13yCzUOZun94WOXv"
-    },
-    {
       "added_at": "2021-01-06 18:39:03",
       "album": {
         "name": "Album 1700",
@@ -651,6 +635,22 @@
       "duration_ms": 207240,
       "name": "Leaving on a Jet Plane",
       "url": "https://open.spotify.com/track/6ZSTinOwx5dKFYc6iYyGDn"
+    },
+    {
+      "added_at": "2022-07-05 19:20:09",
+      "album": {
+        "name": "Crosby, Stills & Nash",
+        "url": "https://open.spotify.com/album/6vUWpE8qciYHOhf7mgaGny"
+      },
+      "artists": [
+        {
+          "name": "Crosby, Stills & Nash",
+          "url": "https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou"
+        }
+      ],
+      "duration_ms": 444053,
+      "name": "Suite: Judy Blue Eyes - 2005 Remaster",
+      "url": "https://open.spotify.com/track/2PuUFT13yCzUOZun94WOXv"
     },
     {
       "added_at": "2021-01-06 18:39:03",

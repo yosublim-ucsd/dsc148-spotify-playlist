@@ -4,7 +4,7 @@
 
 > Racikan akustik dalam secangkir kopi.
 
-148 songs - 9 hr 55 min
+149 songs - 10 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [Dia \- Hits Single](https://open.spotify.com/track/2ok6IGh97S4eIRse9K2sjg) | [Anji](https://open.spotify.com/artist/0b4XpbAVDPngjDTbcSWH8N) | [DIA](https://open.spotify.com/album/3jJo85yRqKTYdmAjzznRsq) | 3:27 | 2024-03-05 | 2024-05-29 |
 | [Fana Merah Jambu](https://open.spotify.com/track/463XKKFCPlcrhtlwGbEovu) | [Fourtwnty](https://open.spotify.com/artist/46cVq2dwPgzPE3X1VR9TMj) | [Lelaku](https://open.spotify.com/album/7L7LNEoL5tgH6CvWEnNDt1) | 5:58 | 2022-12-07 | 2024-04-19 |
 | [Fly Me to the Moon](https://open.spotify.com/track/0flo3KqhjkcuoB1G6Mhq7s) | [The Macarons Project](https://open.spotify.com/artist/61VZakASLH5PweMQzF7R8r) | [Fly Me to the Moon](https://open.spotify.com/album/46IRvicHZhTd1qrdwaLJxC) | 2:35 | 2022-12-07 | 2024-04-19 |
-| [Gajah](https://open.spotify.com/track/7vZTvo2aJ6wHKCGjwjdWIf) | [Tulus](https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi) | [Gajah](https://open.spotify.com/album/0d5mFusjnb62TQWBft3zc6) | 3:59 | 2023-02-03 |  |
+| [Gajah](https://open.spotify.com/track/7vZTvo2aJ6wHKCGjwjdWIf) | [Tulus](https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi) | [Gajah](https://open.spotify.com/album/0d5mFusjnb62TQWBft3zc6) | 3:59 | 2023-02-03 | 2024-10-07 |
 | [Garis Terdepan](https://open.spotify.com/track/4JozU4Ud30FGyDYzoUKasI) | [Fiersa Besari](https://open.spotify.com/artist/06QVnTCdjs4jPKO0487EGV) | [Konspirasi Alam Semesta](https://open.spotify.com/album/6d2K6Ku4sXH63OQnsGVbbe) | 3:33 | 2022-12-07 | 2023-04-20 |
 | [Garis Terdepan](https://open.spotify.com/track/4cLmzFuO46wsTaJnoC8m4P) | [Fiersa Besari](https://open.spotify.com/artist/06QVnTCdjs4jPKO0487EGV) | [Konspirasi Alam Semesta](https://open.spotify.com/album/6ej8qsrXEhtkhYYKUoTa4h) | 3:33 | 2023-12-06 | 2024-04-11 |
 | [Garis Terdepan](https://open.spotify.com/track/7vbZI0mSwt6rpsnAoAAUns) | [Fiersa Besari](https://open.spotify.com/artist/06QVnTCdjs4jPKO0487EGV) | [Konspirasi Alam Semesta](https://open.spotify.com/album/5pJVObCUAQ0mcEgV3Rrtji) | 3:33 | 2023-04-14 | 2024-01-18 |
@@ -126,6 +126,7 @@
 | [Semoga, Ya](https://open.spotify.com/track/6wHnwqvtNdQicSPTTkYRQN) | [Nosstress](https://open.spotify.com/artist/4XnnBdCt9Cg5W2wBgtD7co), [Dadang Sh Pranoto](https://open.spotify.com/artist/7cN32kelGKr663CVytGvc3), [Deny Surya](https://open.spotify.com/artist/1zffTcVmBMb4L4s060WBXf) | [Ini Bukan Nosstress](https://open.spotify.com/album/5VDBGrroiUxwcjyd8fqKvy) | 3:33 | 2022-12-07 | 2024-05-27 |
 | [Sempurna](https://open.spotify.com/track/2UgCs0i0rNHUH2jKE5NZHE) | [Andra & The Backbone](https://open.spotify.com/artist/4ucwey7FxkHXkLK7jSfevU) | [Andra & The Backbone](https://open.spotify.com/album/2puZQ79KT5q5RPae7khveD) | 4:28 | 2022-12-07 | 2024-04-19 |
 | [Semua Aku Dirayakan](https://open.spotify.com/track/2x3vwXWuecPrRqgEUuSUJA) | [Nadin Amizah](https://open.spotify.com/artist/20zafXaLhm5IcXnSU93rNn) | [Semua Aku Dirayakan](https://open.spotify.com/album/36D5g0IFrPL3Rdzj3vARGZ) | 5:10 | 2023-08-30 |  |
+| [Senja Di Ambang Pilu](https://open.spotify.com/track/0ozCiYwzpYkb7N4etcjrnh) | [Danilla](https://open.spotify.com/artist/3jAIDtaFDAHtuP5qU6Hgny) | [Telisik](https://open.spotify.com/album/40iKWzfGlk2MC4xr7A9Go3) | 4:57 | 2024-09-02 |  |
 | [Sesuatu Di Jogja](https://open.spotify.com/track/0MAIxtXWimwhAAQOST9jp7) | [Adhitia Sofyan](https://open.spotify.com/artist/3UlOKNAlGyi7POSE9kyhfR) | [8 Tahun](https://open.spotify.com/album/32SLZ72En7DvxafTDhdk28) | 4:47 | 2022-12-07 |  |
 | [Soon Finland](https://open.spotify.com/track/2mpPBZRP0EaFx3NnChQ6ru) | [Heidi \(The Girl with the Hair\)](https://open.spotify.com/artist/5OxLnOIdVy8HPo4VUYZXL0) | [Soon Finland](https://open.spotify.com/album/1HwnwAuoLSugzyarIzBmd8) | 3:38 | 2024-03-05 | 2024-09-03 |
 | [Sorai](https://open.spotify.com/track/3ymuBMTviroWLuf1jMsMVf) | [Nadin Amizah](https://open.spotify.com/artist/20zafXaLhm5IcXnSU93rNn) | [Sorai](https://open.spotify.com/album/60YDoJUMHjkYtZnPztRvZ1) | 4:38 | 2022-12-07 |  |

@@ -588,6 +588,24 @@
     {
       "album": {
         "name": "Wish You Hell - The 2nd Mini Album",
+        "url": "https://open.spotify.com/album/5nn0a3x9rolzWFtiZLejzA"
+      },
+      "artists": [
+        {
+          "name": "WENDY",
+          "url": "https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K"
+        }
+      ],
+      "date_added": "2024-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188680,
+      "name": "Best Ever",
+      "url": "https://open.spotify.com/track/2e78790nRuhpIjajhObwjP"
+    },
+    {
+      "album": {
+        "name": "Wish You Hell - The 2nd Mini Album",
         "url": "https://open.spotify.com/album/3f8n88uX0tNvA8HTROgSkr"
       },
       "artists": [
@@ -598,7 +616,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-07",
       "duration_ms": 188680,
       "name": "Best Ever",
       "url": "https://open.spotify.com/track/3kiQOTlExsRTAQW0P0jcTH"
@@ -5472,6 +5490,24 @@
       "duration_ms": 183983,
       "name": "Not 20 Anymore",
       "url": "https://open.spotify.com/track/7vWbERTWGCiu6fil02e9kj"
+    },
+    {
+      "album": {
+        "name": "California Gold",
+        "url": "https://open.spotify.com/album/5pQs8l0kyftlASrbXp0KU3"
+      },
+      "artists": [
+        {
+          "name": "Nate Smith",
+          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
+        }
+      ],
+      "date_added": "2024-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193597,
+      "name": "Not of This Earth",
+      "url": "https://open.spotify.com/track/1JXrbwuTbfqu5IYiyjtd5z"
     },
     {
       "album": {

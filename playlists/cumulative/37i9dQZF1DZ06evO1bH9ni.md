@@ -2,9 +2,9 @@
 
 ### [This Is Los Dos Carnales](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1bH9ni)
 
-> This Is Los Dos Carnales\. Los temas esenciales, todos en una lista.
+> This is Los Dos Carnales\. Tutti i brani in un'unica playlist.
 
-93 songs - 4 hr 47 min
+94 songs - 4 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [Cabrón y Vago \- En Vivo](https://open.spotify.com/track/4Baf5WbZIHnItDgprvfX6G) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Recordando los Inicios \(En Vivo\)](https://open.spotify.com/album/1h5zAN0B3z5IUnaXFg6H6B) | 2:21 | 2022-06-01 | 2024-05-04 |
 | [Cholos al Punto](https://open.spotify.com/track/7knvkQS97TeGHM4MdoohpB) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Cholos al Punto](https://open.spotify.com/album/2cPLZSwKE24J1sZLqzoIg1) | 2:39 | 2022-12-07 |  |
 | [Como la Ves](https://open.spotify.com/track/1gwjbogooFxgaOhL8rXW0k) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Para Impresionarte](https://open.spotify.com/album/7eGycMt5EqdBqy493oTwbC) | 3:07 | 2022-06-01 | 2022-10-13 |
-| [Corte de Caja](https://open.spotify.com/track/2T2THnfAdUNXJl1epVmNpT) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Corte de Caja](https://open.spotify.com/album/2mBKCOXHE4AKQMqz7EJcsy) | 2:42 | 2024-08-10 |  |
+| [Corte de Caja](https://open.spotify.com/track/2T2THnfAdUNXJl1epVmNpT) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Corte de Caja](https://open.spotify.com/album/2mBKCOXHE4AKQMqz7EJcsy) | 2:42 | 2024-08-10 | 2024-10-07 |
 | [Cuadra los Parientes \- En Vivo](https://open.spotify.com/track/2PSeJYq44rsMTqcJ8i8cfl) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Dio Vuelta la Moneda \(En Vivo\)](https://open.spotify.com/album/2voNK949lqZy11l6U52x58) | 2:55 | 2022-06-01 |  |
 | [Cuando Yo Me Muera](https://open.spotify.com/track/4V927V1JIlJkE7nVU4UBsF) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Cuando Yo Me Muera](https://open.spotify.com/album/5hBljEaghOwnONYAlISqOi) | 3:00 | 2022-11-10 | 2023-09-03 |
 | [Disfruto el Momento](https://open.spotify.com/track/1SPLvy8C1kBaBQfXLsFmPp) | [Alemi Bustos](https://open.spotify.com/artist/0llOGBcrHCKcZrw8mmdDkF), [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Disfruto el Momento](https://open.spotify.com/album/1XpgbryofDnJiNFwQgGKQj) | 3:03 | 2024-04-13 | 2024-07-12 |
@@ -81,6 +81,7 @@
 | [Mis Raíces](https://open.spotify.com/track/3VbqAMmP2nCkxWfEFj9v0D) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [El Borracho](https://open.spotify.com/album/5njN1rfBj1cSTtGAV16lta) | 2:39 | 2022-06-01 |  |
 | [Moños Negros](https://open.spotify.com/track/1DAIPsYEXEOaOlJaG8Lv0w) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Moños Negros](https://open.spotify.com/album/5amUm1QKYdr7cW3T4uoUX9) | 3:22 | 2022-06-01 | 2023-09-22 |
 | [Moños Negros](https://open.spotify.com/track/6Pwu0EIITS21ajW5y9VvcE) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Moños Negros](https://open.spotify.com/album/4yCjvIrgpUESwejh6AIt3j) | 3:23 | 2023-09-21 |  |
+| [Más de una Razón](https://open.spotify.com/track/252gVdTF9yJpgPi5lT4q92) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Más de una Razón](https://open.spotify.com/album/5PdSIlAXNjO9QW5v2Qt95Z) | 3:18 | 2024-10-07 |  |
 | [Nave 727](https://open.spotify.com/track/2qIcd6aIO3hPpUnl7gWNh6) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3), [LOS DOS DE TAMAULIPAS](https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi) | [Nave 727](https://open.spotify.com/album/5K18JEMSLeib5SozcvHVJy) | 3:16 | 2023-11-10 |  |
 | [No Estaré Aquí](https://open.spotify.com/track/3em3YfqWFgBXqwPehgti6l) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [No Estaré Aquí](https://open.spotify.com/album/37w7YHhpXOlpSPpiXm4D0b) | 2:26 | 2022-06-01 |  |
 | [Nomas las Mujeres Quedan \- En Vivo](https://open.spotify.com/track/3vKRkXyUCDs7mExHkcz9pg) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [En Vivo Desde las Cañas](https://open.spotify.com/album/55jSMGuJVYVcRV3TyIrNhx) | 3:29 | 2022-06-01 | 2023-11-11 |

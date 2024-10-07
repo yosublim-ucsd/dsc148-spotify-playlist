@@ -1,6 +1,6 @@
 {
   "description": "These songs rocked the 80s.",
-  "num_followers": 3960149,
+  "num_followers": 3960228,
   "original_name": "80s Rock Anthems",
   "owner": {
     "name": "Spotify",
@@ -479,18 +479,18 @@
     {
       "added_at": "2024-09-13 16:58:23",
       "album": {
-        "name": "Bella Donna (2016 Remastered)",
-        "url": "https://open.spotify.com/album/0IomjU2bXFng4LQBYn7Het"
+        "name": "1984 (Remastered)",
+        "url": "https://open.spotify.com/album/3REUXdj5OPKhuDTrTtCBU0"
       },
       "artists": [
         {
-          "name": "Stevie Nicks",
-          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
+          "name": "Van Halen",
+          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
         }
       ],
-      "duration_ms": 329413,
-      "name": "Edge of Seventeen - 2016 Remaster",
-      "url": "https://open.spotify.com/track/7L3b6iaVhDVjfo52Hbvh9Z"
+      "duration_ms": 210226,
+      "name": "Panama - 2015 Remaster",
+      "url": "https://open.spotify.com/track/05RgAMGypEvqhNs5hPCbMS"
     },
     {
       "added_at": "2024-09-13 16:58:23",
@@ -527,18 +527,18 @@
     {
       "added_at": "2024-09-13 16:58:23",
       "album": {
-        "name": "Slippery When Wet",
-        "url": "https://open.spotify.com/album/0kBfgEilUFCMIQY5IOjG4t"
+        "name": "Bella Donna (2016 Remastered)",
+        "url": "https://open.spotify.com/album/0IomjU2bXFng4LQBYn7Het"
       },
       "artists": [
         {
-          "name": "Bon Jovi",
-          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+          "name": "Stevie Nicks",
+          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
         }
       ],
-      "duration_ms": 308666,
-      "name": "Wanted Dead Or Alive",
-      "url": "https://open.spotify.com/track/0oerlffJSzhRVvtDfLcp3N"
+      "duration_ms": 329413,
+      "name": "Edge of Seventeen - 2016 Remaster",
+      "url": "https://open.spotify.com/track/7L3b6iaVhDVjfo52Hbvh9Z"
     },
     {
       "added_at": "2024-09-13 16:58:23",
@@ -555,22 +555,6 @@
       "duration_ms": 220626,
       "name": "Hungry Like the Wolf - 2009 Remaster",
       "url": "https://open.spotify.com/track/39lSeqnyjZJejRuaREfyLL"
-    },
-    {
-      "added_at": "2024-09-13 16:58:23",
-      "album": {
-        "name": "1984 (Remastered)",
-        "url": "https://open.spotify.com/album/3REUXdj5OPKhuDTrTtCBU0"
-      },
-      "artists": [
-        {
-          "name": "Van Halen",
-          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
-        }
-      ],
-      "duration_ms": 210226,
-      "name": "Panama - 2015 Remaster",
-      "url": "https://open.spotify.com/track/05RgAMGypEvqhNs5hPCbMS"
     },
     {
       "added_at": "2024-09-13 16:58:23",
@@ -619,6 +603,22 @@
       "duration_ms": 393666,
       "name": "Shout",
       "url": "https://open.spotify.com/track/2gQaQUhDCNGfBVXTvxAmXQ"
+    },
+    {
+      "added_at": "2024-09-13 16:58:23",
+      "album": {
+        "name": "Slippery When Wet",
+        "url": "https://open.spotify.com/album/0kBfgEilUFCMIQY5IOjG4t"
+      },
+      "artists": [
+        {
+          "name": "Bon Jovi",
+          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+        }
+      ],
+      "duration_ms": 308666,
+      "name": "Wanted Dead Or Alive",
+      "url": "https://open.spotify.com/track/0oerlffJSzhRVvtDfLcp3N"
     },
     {
       "added_at": "2024-09-13 16:58:23",
@@ -751,22 +751,6 @@
     {
       "added_at": "2024-09-13 16:58:23",
       "album": {
-        "name": "Zenyatta Mondatta - Remastered 2003",
-        "url": "https://open.spotify.com/album/23enz9nXJhH1BR1Rm5CzDJ"
-      },
-      "artists": [
-        {
-          "name": "The Police",
-          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
-        }
-      ],
-      "duration_ms": 242666,
-      "name": "Don't Stand So Close To Me",
-      "url": "https://open.spotify.com/track/5veJDT0MLsLbhYsx42GXUD"
-    },
-    {
-      "added_at": "2024-09-13 16:58:23",
-      "album": {
         "name": "Open Up And Say...Ahh! (20th Anniversary Edition)",
         "url": "https://open.spotify.com/album/2AMWVB3FWknjcMeb6hMZnd"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 260173,
       "name": "Every Rose Has Its Thorn - 2003 Remaster",
       "url": "https://open.spotify.com/track/43GS3mtezoIFiuIZCLLiDY"
+    },
+    {
+      "added_at": "2024-09-13 16:58:23",
+      "album": {
+        "name": "Zenyatta Mondatta - Remastered 2003",
+        "url": "https://open.spotify.com/album/23enz9nXJhH1BR1Rm5CzDJ"
+      },
+      "artists": [
+        {
+          "name": "The Police",
+          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+        }
+      ],
+      "duration_ms": 242666,
+      "name": "Don't Stand So Close To Me",
+      "url": "https://open.spotify.com/track/5veJDT0MLsLbhYsx42GXUD"
     },
     {
       "added_at": "2024-09-13 16:58:23",
@@ -879,22 +879,6 @@
     {
       "added_at": "2024-09-13 16:58:23",
       "album": {
-        "name": "The Real Thing",
-        "url": "https://open.spotify.com/album/6LEP3L94jnkqjOxYJWPRP0"
-      },
-      "artists": [
-        {
-          "name": "Faith No More",
-          "url": "https://open.spotify.com/artist/6GbCJZrI318Ybm8mY36Of5"
-        }
-      ],
-      "duration_ms": 293653,
-      "name": "Epic",
-      "url": "https://open.spotify.com/track/4ReyTz0y3TGkX48wO3Llot"
-    },
-    {
-      "added_at": "2024-09-13 16:58:23",
-      "album": {
         "name": "Survivor Greatest Hits",
         "url": "https://open.spotify.com/album/2wBiw6c2bGb4c9pnRdHw6X"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 230106,
       "name": "Burning Heart - From \"Rocky IV\" Soundtrack",
       "url": "https://open.spotify.com/track/2VN7uPrbryJ7nE2MXX3f9a"
+    },
+    {
+      "added_at": "2024-09-13 16:58:23",
+      "album": {
+        "name": "The Real Thing",
+        "url": "https://open.spotify.com/album/6LEP3L94jnkqjOxYJWPRP0"
+      },
+      "artists": [
+        {
+          "name": "Faith No More",
+          "url": "https://open.spotify.com/artist/6GbCJZrI318Ybm8mY36Of5"
+        }
+      ],
+      "duration_ms": 293653,
+      "name": "Epic",
+      "url": "https://open.spotify.com/track/4ReyTz0y3TGkX48wO3Llot"
     },
     {
       "added_at": "2024-09-13 16:58:23",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2024-09-13 16:58:23",
       "album": {
-        "name": "Nothing's Shocking",
-        "url": "https://open.spotify.com/album/4DVBJPJyizvHfJQt5pYaCa"
-      },
-      "artists": [
-        {
-          "name": "Jane's Addiction",
-          "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
-        }
-      ],
-      "duration_ms": 287000,
-      "name": "Jane Says",
-      "url": "https://open.spotify.com/track/7c1Dar0pIAW7w5TzaGjt9t"
-    },
-    {
-      "added_at": "2024-09-13 16:58:23",
-      "album": {
         "name": "Holy Diver",
         "url": "https://open.spotify.com/album/1QJmLRcuIMMjZ49elafR3K"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 252693,
       "name": "Rainbow In The Dark",
       "url": "https://open.spotify.com/track/5qFxuUIAwJlzO60vqOiL7y"
+    },
+    {
+      "added_at": "2024-09-13 16:58:23",
+      "album": {
+        "name": "Nothing's Shocking",
+        "url": "https://open.spotify.com/album/4DVBJPJyizvHfJQt5pYaCa"
+      },
+      "artists": [
+        {
+          "name": "Jane's Addiction",
+          "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
+        }
+      ],
+      "duration_ms": 287000,
+      "name": "Jane Says",
+      "url": "https://open.spotify.com/track/7c1Dar0pIAW7w5TzaGjt9t"
     },
     {
       "added_at": "2024-09-13 16:58:23",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2024-09-13 16:58:23",
       "album": {
-        "name": "Nothing's Shocking",
-        "url": "https://open.spotify.com/album/4DVBJPJyizvHfJQt5pYaCa"
-      },
-      "artists": [
-        {
-          "name": "Jane's Addiction",
-          "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
-        }
-      ],
-      "duration_ms": 242720,
-      "name": "Mountain Song",
-      "url": "https://open.spotify.com/track/5fKZJHzJ9d3MADArbm9muW"
-    },
-    {
-      "added_at": "2024-09-13 16:58:23",
-      "album": {
         "name": "Alice Cooper Classicks",
         "url": "https://open.spotify.com/album/0ztezUxR9YMkIP1SFRSnV1"
       },
@@ -1203,18 +1187,18 @@
     {
       "added_at": "2024-09-13 16:58:23",
       "album": {
-        "name": "The Joshua Tree",
-        "url": "https://open.spotify.com/album/5vBZRYu2GLA65nfxBvG1a7"
+        "name": "Nothing's Shocking",
+        "url": "https://open.spotify.com/album/4DVBJPJyizvHfJQt5pYaCa"
       },
       "artists": [
         {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+          "name": "Jane's Addiction",
+          "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
         }
       ],
-      "duration_ms": 277480,
-      "name": "I Still Haven't Found What I'm Looking For - Remastered 2007",
-      "url": "https://open.spotify.com/track/3MRQ3CSjoiV1HFil8ykM9M"
+      "duration_ms": 242720,
+      "name": "Mountain Song",
+      "url": "https://open.spotify.com/track/5fKZJHzJ9d3MADArbm9muW"
     },
     {
       "added_at": "2024-09-13 16:58:23",
@@ -1292,9 +1276,25 @@
           "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
         }
       ],
-      "duration_ms": 336613,
-      "name": "Where The Streets Have No Name - Remastered",
-      "url": "https://open.spotify.com/track/7h1YqA5MZrRxmkUFpukRcp"
+      "duration_ms": 277480,
+      "name": "I Still Haven't Found What I'm Looking For - Remastered 2007",
+      "url": "https://open.spotify.com/track/3MRQ3CSjoiV1HFil8ykM9M"
+    },
+    {
+      "added_at": "2024-09-13 16:58:23",
+      "album": {
+        "name": "Ace of Spades (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3rxF05Aux0QTrN533Kjc91"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "duration_ms": 166360,
+      "name": "Ace of Spades",
+      "url": "https://open.spotify.com/track/6EPRKhUOdiFSQwGBRBbvsZ"
     }
   ],
   "unique_name": "80s Rock Anthems",

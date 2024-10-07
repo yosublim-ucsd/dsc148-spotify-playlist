@@ -1121,6 +1121,28 @@
     },
     {
       "album": {
+        "name": "Perfume (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5tE6GbtjP4htGoyrT5H78A"
+      },
+      "artists": [
+        {
+          "name": "Ivandro",
+          "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
+        },
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "date_added": "2024-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174428,
+      "name": "Perfume - Ao Vivo",
+      "url": "https://open.spotify.com/track/5RrkZPErBSiNW8OjRxnkId"
+    },
+    {
+      "album": {
         "name": "Numanice #2 (Ao Vivo) - Deluxe",
         "url": "https://open.spotify.com/album/6iCqu8WWngOqpEGxGthyvv"
       },

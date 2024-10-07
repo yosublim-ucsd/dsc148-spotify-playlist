@@ -2,7 +2,7 @@
 
 ### [This Is CeCe Winans](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1ZeHVf)
 
-> This is: CeCe Winans\. Alle wichtigen Tracks in einer Playlist.
+> This is CeCe Winans\. The essential tracks, all in one playlist.
 
 89 songs - 7 hr 0 min
 
@@ -91,7 +91,7 @@
 | [Well, Alright](https://open.spotify.com/track/22zZfNtNFd46tAAC4rsyRa) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Everlasting Love](https://open.spotify.com/album/3MHub5tyWVwztqFLoKQWjd) | 4:18 | 2022-09-14 | 2023-12-18 |
 | [What Are We Waiting For?](https://open.spotify.com/track/0Yf8qEi74w9JnGGSrPRXEX) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC), [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [What Are We Waiting For?](https://open.spotify.com/album/66VDNidp38ftTSZG2rGKx8) | 3:16 | 2023-12-13 | 2024-07-06 |
 | [When You Love \(feat\. CeCe Winans, Yolanda Adams & Mary Mary\)](https://open.spotify.com/track/7lCkz84Hd3LnRbEPhvIZOg) | [Donnie McClurkin](https://open.spotify.com/artist/74IEeKcuS34kF2TjOigXra), [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb), [Yolanda Adams](https://open.spotify.com/artist/47opbYEKDjXnRk9uLscp11), [Mary Mary](https://open.spotify.com/artist/12Kgt2eahvxNWhD5PnSUde) | [We All Are One \(Live In Detroit\)](https://open.spotify.com/album/0OsTWxuUeYBTQL3lftiMpk) | 4:26 | 2022-09-15 | 2024-05-05 |
-| [Why Me](https://open.spotify.com/track/55lij8lwwJko3565p77R74) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Let Them Fall in Love](https://open.spotify.com/album/38jktl2c8ZRqyKDV25XgNt) | 3:26 | 2022-09-14 |  |
+| [Why Me](https://open.spotify.com/track/55lij8lwwJko3565p77R74) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Let Them Fall in Love](https://open.spotify.com/album/38jktl2c8ZRqyKDV25XgNt) | 3:26 | 2022-09-14 | 2024-10-07 |
 | [Worthy](https://open.spotify.com/track/2MnmmBeU0o1Xq56x4SuCJc) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [More Than This](https://open.spotify.com/album/0zvZ25UkgLXQDZLQDxpwPw) | 5:21 | 2024-05-07 | 2024-06-01 |
 | [Worthy](https://open.spotify.com/track/1fEHKfIhgVMb9PJCOr9e97) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Thy Kingdom Come](https://open.spotify.com/album/4wmO83yKXBEaAKME5PGOaF) | 5:22 | 2022-09-14 | 2023-03-28 |
 | [Worthy Of It All \- Live](https://open.spotify.com/track/5mkn0uyPYSIftszMBExMM4) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Believe For It](https://open.spotify.com/album/5UXG9YjxHZu7l4tTNjwIYX) | 5:29 | 2023-12-24 |  |

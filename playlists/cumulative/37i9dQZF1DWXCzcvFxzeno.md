@@ -4,7 +4,7 @@
 
 > 😈 welcome to the rave 😈  Cover: Sara Landry
 
-177 songs - 14 hr 14 min
+178 songs - 14 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [93 HARDCORE](https://open.spotify.com/track/62DKLOXCcUa91wCh3CAOBT) | [LESSSS](https://open.spotify.com/artist/5Os2nUALInDs7MyexVNwrm), [William Luck](https://open.spotify.com/artist/57tccTXvNWq70Xz3DJmNVX) | [93 HARDCORE](https://open.spotify.com/album/27G2VHdqnVu3yRoklKiztk) | 5:47 | 2024-04-09 |  |
 | [ABYSS](https://open.spotify.com/track/4fLw4RZYwwQMP2pf7i8q3g) | [Juul Exler](https://open.spotify.com/artist/0UX1w5iv2fvXoqdH7XbJM9) | [ABYSS](https://open.spotify.com/album/2WHcALRyJK8CUoDZ8QFCAa) | 3:41 | 2024-04-09 |  |
 | [Achtuhrvier](https://open.spotify.com/track/6MqW3vrYS9INbfmtz1UgT0) | [Mython](https://open.spotify.com/artist/4xu2RB87uniuxEyYiPp0q5), [Pesante \(GER\)](https://open.spotify.com/artist/2G6DJAM91D5woggl7SK1VH) | [Them Sinners](https://open.spotify.com/album/7Mpr0C99nS6tZjrHJAIlvl) | 6:27 | 2024-04-09 |  |
-| [Acid Is My Drug](https://open.spotify.com/track/6ozzp2fnqDP0iKzf3uwDAO) | [Rabteu](https://open.spotify.com/artist/6RJC2mTVh69zPcBo5RdkF4) | [Acid Is My Drug](https://open.spotify.com/album/1EEcgNtx2wToMD22yZ0W6b) | 4:26 | 2024-04-09 |  |
+| [Acid Is My Drug](https://open.spotify.com/track/6ozzp2fnqDP0iKzf3uwDAO) | [Rabteu](https://open.spotify.com/artist/6RJC2mTVh69zPcBo5RdkF4) | [Acid Is My Drug](https://open.spotify.com/album/1EEcgNtx2wToMD22yZ0W6b) | 4:26 | 2024-04-09 | 2024-10-07 |
 | [Adagio For Strings](https://open.spotify.com/track/7xCiyNgdqxoPELJBL3XrQ6) | [BYØRN](https://open.spotify.com/artist/6PNduxfJ9CVW1bVXUR16AD) | [Adagio For Strings](https://open.spotify.com/album/34mJXRnbnNsqSJ1gH2MB3O) | 6:00 | 2024-04-09 |  |
 | [Adrenaline Assault](https://open.spotify.com/track/4pnmqNJxTQ1hICEv5rOKow) | [CARAVEL](https://open.spotify.com/artist/5od72ceH2aN3pS4hcHNzRy), [Køzløv](https://open.spotify.com/artist/6lmg9kOOeuhhgThuBOE4bX) | [Adrenaline Assault \[HAK002\]](https://open.spotify.com/album/7kR5VLDFHCm8PMiHWnjHCr) | 5:07 | 2024-04-09 | 2024-08-30 |
 | [All In This \- Original mix](https://open.spotify.com/track/3GzkcXSKpe34kAjkFCxo1z) | [MAHTAL](https://open.spotify.com/artist/36mDqPu7kZeSHyrmsy0d2I) | [Omnes EP](https://open.spotify.com/album/4TOVX0sDqNR1LYTYrBpwt1) | 4:49 | 2024-04-09 |  |
@@ -86,6 +86,7 @@
 | [Hold Ud, Skat!](https://open.spotify.com/track/2V93YUfHy7HdfM050NYjo8) | [Nene H](https://open.spotify.com/artist/3i7e7kVkTVFhkjYMfZoFoI) | [Trifecta](https://open.spotify.com/album/3FFdrjoj7j1nivP0Koz4gL) | 4:56 | 2024-04-09 | 2024-04-19 |
 | [how do you like your tea?](https://open.spotify.com/track/3srbgx3cDhxpDFEQlsb3qk) | [✧BRAINDAAMAGE✧](https://open.spotify.com/artist/0Pn6XyvS2qCahtBOwcqsNf) | [how do you like your tea?](https://open.spotify.com/album/5dcBBwqX1IVf5poUqSCiqY) | 3:58 | 2024-05-03 |  |
 | [Hyper Runner](https://open.spotify.com/track/3kZVKXB24lQARYyZ83WMWT) | [Jayron](https://open.spotify.com/artist/361A1lQwio37oKbADnC8V9) | [Hyper Runner](https://open.spotify.com/album/7BZDljcUP3xVkt8G4STmhv) | 4:39 | 2024-04-09 | 2024-05-16 |
+| [I Am Cool](https://open.spotify.com/track/3MpyqUat9C6YkEVsmahdX6) | [Zatox](https://open.spotify.com/artist/27Z5l2Kfy1IaYZMg5INWqO) | [I Am Cool](https://open.spotify.com/album/0KuvnomtqHox9SDhs4CFDm) | 2:43 | 2024-10-04 |  |
 | [I Wanna Feel](https://open.spotify.com/track/4uw9105SB1Rrp3EDoFT2Li) | [Remon Verhoeve](https://open.spotify.com/artist/56EmpRe6MZOCu8NYE0BG9T) | [I Wanna Feel](https://open.spotify.com/album/0gd2kulMUvdBmb1IXABW32) | 5:18 | 2024-08-05 |  |
 | [Infinity](https://open.spotify.com/track/0KDuVPUR7GuxuOYHJNWEpm) | [LESSSS](https://open.spotify.com/artist/5Os2nUALInDs7MyexVNwrm), [MKRS](https://open.spotify.com/artist/4bJxDOPHGfSNDiOyWfwInJ) | [Infinity](https://open.spotify.com/album/3Otf7rdpoE0oJsyQCd1lB6) | 4:38 | 2024-04-09 |  |
 | [INKAKKEN, BIJPAKKEN](https://open.spotify.com/track/3eQHuognmS2YNbsp5MfmkE) | [DIKKE BAAP](https://open.spotify.com/artist/1vYoGQIgamBW4S335Q0EHb), [Kale Toeter](https://open.spotify.com/artist/6KyR8VRv66fdTFQRlOYSSo) | [INKAKKEN, BIJPAKKEN](https://open.spotify.com/album/1uDdzcp7ZDVFk2dlwWAolb) | 2:10 | 2024-04-09 |  |

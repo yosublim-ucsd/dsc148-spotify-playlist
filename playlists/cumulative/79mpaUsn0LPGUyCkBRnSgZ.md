@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-749 songs - 2 day 1 hr 33 min
+750 songs - 2 day 1 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -315,6 +315,7 @@
 | [I Still Do](https://open.spotify.com/track/7EJvwHjf9NKCmYBBGOuwQS) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Everybody Else Is Doing It, So Why Can't We?](https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI) | 3:16 | 2024-01-06 | 2024-06-11 |
 | [I swear, I Really Wanted To Make A "Rap" Album But This Is Literally The Way The Wind Blew Me This Time](https://open.spotify.com/track/1lbjDy6IIerHFGZWKG0hno) | [André 3000](https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6) | [New Blue Sun](https://open.spotify.com/album/33Ek6daAL3oXyQIV1uoItD) | 12:20 | 2023-11-17 |  |
 | [I Told You Everything](https://open.spotify.com/track/549RAS6rH3AYH2n5b6CIzz) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Remind Me Tomorrow](https://open.spotify.com/album/4bfvR9TMwCm2tzXpboLH3t) | 4:45 | 2024-01-19 |  |
+| [I Trawl the Megahertz](https://open.spotify.com/track/5SrrNjgc5Diwj3IunGepM6) | [Prefab Sprout](https://open.spotify.com/artist/4w3QqrcmBv8dasemwBXmxf) | [I Trawl the Megahertz](https://open.spotify.com/album/3JtTs7tzD7uj6hpPb1apkT) | 22:05 | 2024-10-06 |  |
 | [I Was a Lover](https://open.spotify.com/track/4bp7ZjViSZT5wEnaxNT9Ge) | [TV On The Radio](https://open.spotify.com/artist/3HJIB8sYPyxrFGuwvKXSLR) | [Return To Cookie Mountain](https://open.spotify.com/album/4sD8WQQ8f1x3L4YFa9qFIO) | 4:20 | 2023-12-18 |  |
 | [I'd Have You Anytime \- 2014 Remaster](https://open.spotify.com/track/1qd4ofmDZKqqJRJMqXoqAD) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [All Things Must Pass \(2014 Remaster\)](https://open.spotify.com/album/4RzYS74QxvpqTDVwKbhuSg) | 2:57 | 2023-08-17 |  |
 | [I'm Always Saying Sorry](https://open.spotify.com/track/4EIM8gF1NKSIXR2QqRHMuW) | [Benjamin Francis Leftwich](https://open.spotify.com/artist/7D5oTJSXSHf51auG0106CQ) | [Some Things Break](https://open.spotify.com/album/1QGVFDfyPCVEfKli1J0OSz) | 3:30 | 2024-03-15 |  |

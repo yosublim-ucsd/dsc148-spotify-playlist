@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4RSQdk2ty0YkO97WejZkdJ">Michael Pollack</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-438 songs - 1 day 0 hr 8 min
+440 songs - 1 day 0 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,8 @@
 | [Beg](https://open.spotify.com/track/2YXEabNsLoihw7kBtiQpSa) | [Jack & Jack](https://open.spotify.com/artist/1INuLZXjjVbcJRyWvD1iSq) | [Beg](https://open.spotify.com/album/2b89LTGiZ9okXDOyRHjR4M) | 3:03 | 2021-12-27 |  |
 | [Believed](https://open.spotify.com/track/0Jw7m6p1qyz0VsvjpguMzu) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [\~how i'm feeling\~](https://open.spotify.com/album/3ZuE680xhR1A4bCFGvL8mi) | 2:49 | 2022-11-17 |  |
 | [Believed](https://open.spotify.com/track/6gEC3iDuOlcHatGCCcvpO6) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [\~how i'm feeling\~](https://open.spotify.com/album/6EgJXcGqaUvgZIF9bqPXfP) | 2:49 | 2021-12-27 | 2022-11-18 |
-| [Best Ever](https://open.spotify.com/track/3kiQOTlExsRTAQW0P0jcTH) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [Wish You Hell \- The 2nd Mini Album](https://open.spotify.com/album/3f8n88uX0tNvA8HTROgSkr) | 3:08 | 2024-03-14 |  |
+| [Best Ever](https://open.spotify.com/track/2e78790nRuhpIjajhObwjP) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [Wish You Hell \- The 2nd Mini Album](https://open.spotify.com/album/5nn0a3x9rolzWFtiZLejzA) | 3:08 | 2024-10-06 |  |
+| [Best Ever](https://open.spotify.com/track/3kiQOTlExsRTAQW0P0jcTH) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [Wish You Hell \- The 2nd Mini Album](https://open.spotify.com/album/3f8n88uX0tNvA8HTROgSkr) | 3:08 | 2024-03-14 | 2024-10-07 |
 | [Better](https://open.spotify.com/track/7mu0nb8PR5mpquEbwbMe6j) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Sing To Me Instead](https://open.spotify.com/album/2AluSp6sapRu17yc4r2a5F) | 3:11 | 2021-12-27 |  |
 | [Better in Color](https://open.spotify.com/track/0bt3YJTupDqdTKpnFFgs7f) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Cuz I Love You \(Super Deluxe\)](https://open.spotify.com/album/7hBV0wo7cDHZQLYnuOJ312) | 2:13 | 2021-12-27 |  |
 | [Birthday Girl](https://open.spotify.com/track/7IoLdpqB5igE13t12SKV8g) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Special](https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr) | 3:07 | 2022-07-22 |  |
@@ -293,6 +294,7 @@
 | [Nobody's Love](https://open.spotify.com/track/2USDIGzXqU5rjAmxZgu2pS) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Nobody's Love](https://open.spotify.com/album/6iMfoaJsByv4jgzTYVYVqv) | 3:49 | 2023-12-16 | 2024-02-01 |
 | [Nostalgic](https://open.spotify.com/track/65SjaqhfKeFhmXprzlzyn4) | [A R I Z O N A](https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt) | [ASYLUM](https://open.spotify.com/album/1qnAzDoa24ZYCZDzmP74sL) | 3:02 | 2021-12-27 |  |
 | [Not 20 Anymore](https://open.spotify.com/track/7vWbERTWGCiu6fil02e9kj) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Not 20 Anymore](https://open.spotify.com/album/50fjXOO6vhakOGaz3ATZlM) | 3:03 | 2021-12-27 |  |
+| [Not of This Earth](https://open.spotify.com/track/1JXrbwuTbfqu5IYiyjtd5z) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [California Gold](https://open.spotify.com/album/5pQs8l0kyftlASrbXp0KU3) | 3:13 | 2024-10-06 |  |
 | [Not the End of the World](https://open.spotify.com/track/2F20djOXWDSFEXu3tPdV71) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Smile](https://open.spotify.com/album/47zMF6LrXQ8odi6Xv1unC0) | 2:58 | 2021-12-27 |  |
 | [Nowhere Left To Go](https://open.spotify.com/track/4PDrhc6Uj2wxn7NDGpe2cM) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Leap](https://open.spotify.com/album/55LHLzeYPPUn2YLtXtxPix) | 3:24 | 2022-08-07 |  |
 | [Numb](https://open.spotify.com/track/5XMVWBm8ZILBhrWqCxQQ7R) | [Jaira Burns](https://open.spotify.com/artist/0tRFWXqKBBQcu5oFVOgVzX) | [Numb](https://open.spotify.com/album/2Rdk4H50uZaiQUp3I1IZUB) | 2:46 | 2021-12-27 | 2024-08-15 |

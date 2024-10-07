@@ -4,7 +4,7 @@
 
 > This is ClariS\. The essential tracks, all in one playlist.
 
-102 songs - 7 hr 5 min
+103 songs - 7 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,7 +96,7 @@
 | [君色](https://open.spotify.com/track/62AcHFZEOPip5hGuaKoRpz) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [ふぉりら](https://open.spotify.com/album/3ah4RPsC1U9fGp3sSLdtsi) | 3:34 | 2023-12-13 | 2024-07-31 |
 | [幻想恋慕](https://open.spotify.com/track/5JffCaDZNpGZkFU1mpiKoB) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [ふぉりら](https://open.spotify.com/album/3ah4RPsC1U9fGp3sSLdtsi) | 3:42 | 2023-12-13 | 2024-06-03 |
 | [忘れてもいいよ](https://open.spotify.com/track/4BbNUcHFb4ijbX1RYFDaU7) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [ALIVE](https://open.spotify.com/album/2cKUf4iMPcKWFJHXvVEebU) | 4:39 | 2022-08-04 | 2024-06-01 |
-| [恋のバカンス](https://open.spotify.com/track/5AoEKI3ai8YPdhnBYqloud) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [SUMMER TRACKS －夏のうた－](https://open.spotify.com/album/6RdqPyLLLJr8K96ppojbgC) | 2:39 | 2022-06-09 |  |
+| [恋のバカンス](https://open.spotify.com/track/5AoEKI3ai8YPdhnBYqloud) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [SUMMER TRACKS －夏のうた－](https://open.spotify.com/album/6RdqPyLLLJr8K96ppojbgC) | 2:39 | 2022-06-09 | 2024-10-07 |
 | [恋待かぐや](https://open.spotify.com/track/5ep05xtwwRBQWoFlkCBezI) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [Fight!!](https://open.spotify.com/album/60l2pA1I8kZMLL74TxVyBV) | 3:48 | 2022-06-17 |  |
 | [擬態](https://open.spotify.com/track/17LmbUZnDoPn6qkTQOt27N) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [アンダンテ](https://open.spotify.com/album/2DnrXLgjVCIhiSfam1nD3w) | 3:32 | 2024-05-12 |  |
 | [新世界ビーナス](https://open.spotify.com/track/2Ndh9WN97G5Bw4fWrYxk9V) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [Parfaitone](https://open.spotify.com/album/5vtV8mTQkDP2UORcFCXk8J) | 3:46 | 2022-06-09 | 2022-08-25 |
@@ -110,5 +110,6 @@
 | [眠り姫](https://open.spotify.com/track/4C6L6e2wXdWXj4tw5TcLcP) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [PARTY TIME](https://open.spotify.com/album/66y4Wxg2FCFTr6g67NXfYY) | 4:00 | 2022-10-04 | 2022-10-06 |
 | [瞳の中のローレライ](https://open.spotify.com/track/0GxGhggqr0zvTiFb5yEC4z) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [Parfaitone](https://open.spotify.com/album/5vtV8mTQkDP2UORcFCXk8J) | 3:13 | 2022-10-12 | 2023-10-11 |
 | [陽だまり](https://open.spotify.com/track/092Ify2XiyScCNOpZlhDc9) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [Fairy Party](https://open.spotify.com/album/34cOizYrnROPXji1gfR38k) | 4:14 | 2022-06-11 | 2022-08-31 |
+| [風は秋色](https://open.spotify.com/track/6AlC6MdokYCqDcYaYm3nYb) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [風は秋色](https://open.spotify.com/album/68mTSIAWVuyfFkyDh6rEW9) | 4:07 | 2024-10-07 |  |
 
 \*This playlist was first scraped on 2022-06-10. Prior content cannot be recovered.

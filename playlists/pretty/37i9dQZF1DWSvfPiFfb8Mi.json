@@ -1,6 +1,6 @@
 {
   "description": "<a href=\"spotify:genre:0JQ5DAqbMKFwT0m6BbKvGP\">Disco</a>, house, funk and soul for the good times.",
-  "num_followers": 578961,
+  "num_followers": 578988,
   "original_name": "Poolside Disco",
   "owner": {
     "name": "Spotify",
@@ -811,6 +811,26 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
+        "name": "Turning Onto You (HNNY Remix)",
+        "url": "https://open.spotify.com/album/3GJkWCJPr1egPYRDXaQcE2"
+      },
+      "artists": [
+        {
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+        },
+        {
+          "name": "HNNY",
+          "url": "https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r"
+        }
+      ],
+      "duration_ms": 210013,
+      "name": "Turning Onto You - HNNY Remix",
+      "url": "https://open.spotify.com/track/38hxhxzCWO8ffzhdY57pBM"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
         "name": "Getting There From Here (with Todd Edwards)",
         "url": "https://open.spotify.com/album/4q3H03gfjuu77rjquLZCQy"
       },
@@ -831,26 +851,6 @@
       "duration_ms": 248666,
       "name": "Getting There From Here (with Todd Edwards)",
       "url": "https://open.spotify.com/track/2iNsXxaoNuVieLZgbep8bW"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "Turning Onto You (HNNY Remix)",
-        "url": "https://open.spotify.com/album/3GJkWCJPr1egPYRDXaQcE2"
-      },
-      "artists": [
-        {
-          "name": "First Aid Kit",
-          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
-        },
-        {
-          "name": "HNNY",
-          "url": "https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r"
-        }
-      ],
-      "duration_ms": 210013,
-      "name": "Turning Onto You - HNNY Remix",
-      "url": "https://open.spotify.com/track/38hxhxzCWO8ffzhdY57pBM"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -1087,50 +1087,6 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Honey Boy (feat. Nile Rodgers & Shenseea)",
-        "url": "https://open.spotify.com/album/0xyf39pFfwPDJYHCIAxjVF"
-      },
-      "artists": [
-        {
-          "name": "Purple Disco Machine",
-          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
-        },
-        {
-          "name": "Benjamin Ingrosso",
-          "url": "https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5"
-        },
-        {
-          "name": "Nile Rodgers",
-          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
-        },
-        {
-          "name": "Shenseea",
-          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
-        }
-      ],
-      "duration_ms": 227283,
-      "name": "Honey Boy (feat. Nile Rodgers & Shenseea)",
-      "url": "https://open.spotify.com/track/1xIhiVVntsudPMTRFoODyo"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "Cortados (Edit)",
-        "url": "https://open.spotify.com/album/4TvhcQ8jpcSeWXcNMjlzG2"
-      },
-      "artists": [
-        {
-          "name": "Paco Versailles",
-          "url": "https://open.spotify.com/artist/5VptPtXbT0T4imW6GcobiW"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Our Way - Edit",
-      "url": "https://open.spotify.com/track/4IC1Sx6gOC9PSx5EYJR8yi"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
         "name": "Real Cultural Shit",
         "url": "https://open.spotify.com/album/4M0PUnWTYYea4Eomsg14D0"
       },
@@ -1143,6 +1099,22 @@
       "duration_ms": 243759,
       "name": "All My Friends",
       "url": "https://open.spotify.com/track/7Cgxt0jumHS0Z5B9xmStnS"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Lucas",
+        "url": "https://open.spotify.com/album/0JJjdrxiGhdo2JHVNCKC2N"
+      },
+      "artists": [
+        {
+          "name": "Cody Currie",
+          "url": "https://open.spotify.com/artist/0ymdoOsfzRbCoAMfJPpsEx"
+        }
+      ],
+      "duration_ms": 198173,
+      "name": "Money",
+      "url": "https://open.spotify.com/track/34KMYJ2e5ouT1qfOEJgfIe"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -1167,18 +1139,18 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Lucas",
-        "url": "https://open.spotify.com/album/0JJjdrxiGhdo2JHVNCKC2N"
+        "name": "Cortados (Edit)",
+        "url": "https://open.spotify.com/album/4TvhcQ8jpcSeWXcNMjlzG2"
       },
       "artists": [
         {
-          "name": "Cody Currie",
-          "url": "https://open.spotify.com/artist/0ymdoOsfzRbCoAMfJPpsEx"
+          "name": "Paco Versailles",
+          "url": "https://open.spotify.com/artist/5VptPtXbT0T4imW6GcobiW"
         }
       ],
-      "duration_ms": 198173,
-      "name": "Money",
-      "url": "https://open.spotify.com/track/34KMYJ2e5ouT1qfOEJgfIe"
+      "duration_ms": 165000,
+      "name": "Our Way - Edit",
+      "url": "https://open.spotify.com/track/4IC1Sx6gOC9PSx5EYJR8yi"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -1199,18 +1171,30 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Alsace",
-        "url": "https://open.spotify.com/album/16a4NKzpvWlgEvwafPXwtS"
+        "name": "Honey Boy (feat. Nile Rodgers & Shenseea)",
+        "url": "https://open.spotify.com/album/0xyf39pFfwPDJYHCIAxjVF"
       },
       "artists": [
         {
-          "name": "dublon",
-          "url": "https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD"
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        },
+        {
+          "name": "Benjamin Ingrosso",
+          "url": "https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5"
+        },
+        {
+          "name": "Nile Rodgers",
+          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
+        },
+        {
+          "name": "Shenseea",
+          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
         }
       ],
-      "duration_ms": 117454,
-      "name": "Alsace",
-      "url": "https://open.spotify.com/track/4JFtsiOtsOXbuXPg1qXjBX"
+      "duration_ms": 227283,
+      "name": "Honey Boy (feat. Nile Rodgers & Shenseea)",
+      "url": "https://open.spotify.com/track/1xIhiVVntsudPMTRFoODyo"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -1263,6 +1247,22 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
+        "name": "Alsace",
+        "url": "https://open.spotify.com/album/16a4NKzpvWlgEvwafPXwtS"
+      },
+      "artists": [
+        {
+          "name": "dublon",
+          "url": "https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD"
+        }
+      ],
+      "duration_ms": 117454,
+      "name": "Alsace",
+      "url": "https://open.spotify.com/track/4JFtsiOtsOXbuXPg1qXjBX"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
         "name": "Chains",
         "url": "https://open.spotify.com/album/7xqR7N9ez7TmKEKv9XNr8D"
       },
@@ -1299,6 +1299,42 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
+        "name": "Under My Skin",
+        "url": "https://open.spotify.com/album/712jM2DQdTggQ3Uzp8cxW9"
+      },
+      "artists": [
+        {
+          "name": "Satin Jackets",
+          "url": "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
+        },
+        {
+          "name": "Nazzereene",
+          "url": "https://open.spotify.com/artist/3juwo4sTF5okJNvCfQpArZ"
+        }
+      ],
+      "duration_ms": 222909,
+      "name": "Under My Skin",
+      "url": "https://open.spotify.com/track/2YHWK4dHz9dcL4gAeMXvF6"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Stick Together",
+        "url": "https://open.spotify.com/album/3UM11wSHVaIEZ7Hm54NdqX"
+      },
+      "artists": [
+        {
+          "name": "Re:um",
+          "url": "https://open.spotify.com/artist/6gLleDsNwfehG7vWuK2zQe"
+        }
+      ],
+      "duration_ms": 110062,
+      "name": "Stick Together",
+      "url": "https://open.spotify.com/track/33LqoBi8OFpACpwLUkNtA1"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
         "name": "Archaeology",
         "url": "https://open.spotify.com/album/1CM763zbcbSqqnP0yNKDwM"
       },
@@ -1323,42 +1359,6 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Stick Together",
-        "url": "https://open.spotify.com/album/3UM11wSHVaIEZ7Hm54NdqX"
-      },
-      "artists": [
-        {
-          "name": "Re:um",
-          "url": "https://open.spotify.com/artist/6gLleDsNwfehG7vWuK2zQe"
-        }
-      ],
-      "duration_ms": 110062,
-      "name": "Stick Together",
-      "url": "https://open.spotify.com/track/33LqoBi8OFpACpwLUkNtA1"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "Under My Skin",
-        "url": "https://open.spotify.com/album/712jM2DQdTggQ3Uzp8cxW9"
-      },
-      "artists": [
-        {
-          "name": "Satin Jackets",
-          "url": "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
-        },
-        {
-          "name": "Nazzereene",
-          "url": "https://open.spotify.com/artist/3juwo4sTF5okJNvCfQpArZ"
-        }
-      ],
-      "duration_ms": 222909,
-      "name": "Under My Skin",
-      "url": "https://open.spotify.com/track/2YHWK4dHz9dcL4gAeMXvF6"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
         "name": "Without You",
         "url": "https://open.spotify.com/album/1VR8EBcLwAWs7NEg6z7Mgh"
       },
@@ -1375,22 +1375,6 @@
       "duration_ms": 227899,
       "name": "Without You",
       "url": "https://open.spotify.com/track/6ozSQDlmyAVrqNyZgouqSb"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "Everyday People",
-        "url": "https://open.spotify.com/album/1LJpax4mCpovZiAJUZFChP"
-      },
-      "artists": [
-        {
-          "name": "Prok & Fitch",
-          "url": "https://open.spotify.com/artist/62akbR2hpk0ArA98zOYNys"
-        }
-      ],
-      "duration_ms": 165494,
-      "name": "Everyday People",
-      "url": "https://open.spotify.com/track/68FsnsTl1yNJKX8RYgbcMy"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -1435,6 +1419,22 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
+        "name": "Everyday People",
+        "url": "https://open.spotify.com/album/1LJpax4mCpovZiAJUZFChP"
+      },
+      "artists": [
+        {
+          "name": "Prok & Fitch",
+          "url": "https://open.spotify.com/artist/62akbR2hpk0ArA98zOYNys"
+        }
+      ],
+      "duration_ms": 165494,
+      "name": "Everyday People",
+      "url": "https://open.spotify.com/track/68FsnsTl1yNJKX8RYgbcMy"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
         "name": "Fantasy (feat. Franc Moody)",
         "url": "https://open.spotify.com/album/0Q8b3IX25TDDrMbqdeZU92"
       },
@@ -1451,26 +1451,6 @@
       "duration_ms": 212922,
       "name": "Fantasy (feat. Franc Moody)",
       "url": "https://open.spotify.com/track/6AVAhgUJ3nnDzO2l9oJnpQ"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "Bring On Up Our Love",
-        "url": "https://open.spotify.com/album/3GKcDrpWKLmTTgZIuC5SrP"
-      },
-      "artists": [
-        {
-          "name": "Satin Jackets",
-          "url": "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
-        },
-        {
-          "name": "Kimchii",
-          "url": "https://open.spotify.com/artist/78fCvlGi2BTqtk3wsjUsK3"
-        }
-      ],
-      "duration_ms": 229565,
-      "name": "Bring On Up Our Love",
-      "url": "https://open.spotify.com/track/6B6GRQgmFVWakwS77MnehK"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -1495,6 +1475,26 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
+        "name": "Bring On Up Our Love",
+        "url": "https://open.spotify.com/album/3GKcDrpWKLmTTgZIuC5SrP"
+      },
+      "artists": [
+        {
+          "name": "Satin Jackets",
+          "url": "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
+        },
+        {
+          "name": "Kimchii",
+          "url": "https://open.spotify.com/artist/78fCvlGi2BTqtk3wsjUsK3"
+        }
+      ],
+      "duration_ms": 229565,
+      "name": "Bring On Up Our Love",
+      "url": "https://open.spotify.com/track/6B6GRQgmFVWakwS77MnehK"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
         "name": "Hey Baby",
         "url": "https://open.spotify.com/album/3OqaQBrwAfOLerlgJlJj8q"
       },
@@ -1507,6 +1507,22 @@
       "duration_ms": 236307,
       "name": "Hey Baby",
       "url": "https://open.spotify.com/track/2ud3Yzg63Z6rGUytQH9LUQ"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "That's Right (Edit)",
+        "url": "https://open.spotify.com/album/5ffuXlm1J5vYUqWl2ODj6Z"
+      },
+      "artists": [
+        {
+          "name": "Dam Swindle",
+          "url": "https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU"
+        }
+      ],
+      "duration_ms": 276000,
+      "name": "That's Right - Edit",
+      "url": "https://open.spotify.com/track/5kCmJdIdFqKQiiCYYpa0xo"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -1531,22 +1547,6 @@
       "duration_ms": 173538,
       "name": "Lovers In A Past Life (with Rag'n'Bone Man) - LP Giobbi Remix",
       "url": "https://open.spotify.com/track/52yvH039KJk9IerF0NTYWm"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "That's Right (Edit)",
-        "url": "https://open.spotify.com/album/5ffuXlm1J5vYUqWl2ODj6Z"
-      },
-      "artists": [
-        {
-          "name": "Dam Swindle",
-          "url": "https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU"
-        }
-      ],
-      "duration_ms": 276000,
-      "name": "That's Right - Edit",
-      "url": "https://open.spotify.com/track/5kCmJdIdFqKQiiCYYpa0xo"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -1651,26 +1651,6 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "To the Stars and Back",
-        "url": "https://open.spotify.com/album/5aYIRYfTHseCyXvhGGQHF9"
-      },
-      "artists": [
-        {
-          "name": "Jordan Astra",
-          "url": "https://open.spotify.com/artist/0nTUhCTsVt89nR1U5Ysub7"
-        },
-        {
-          "name": "Sergiio",
-          "url": "https://open.spotify.com/artist/1TyV1ii0zQpDUf242p8JI0"
-        }
-      ],
-      "duration_ms": 197297,
-      "name": "To the Stars and Back",
-      "url": "https://open.spotify.com/track/0CVOi16eMozeASjkhiRIqE"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
         "name": "Never Let It Go",
         "url": "https://open.spotify.com/album/1PzFixM8RxL243yEs2kd9Q"
       },
@@ -1727,18 +1707,42 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Into the Ether",
-        "url": "https://open.spotify.com/album/5O9uqsd52hAovfkyArK41d"
+        "name": "To the Stars and Back",
+        "url": "https://open.spotify.com/album/5aYIRYfTHseCyXvhGGQHF9"
       },
       "artists": [
         {
-          "name": "Franc Moody",
-          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
+          "name": "Jordan Astra",
+          "url": "https://open.spotify.com/artist/0nTUhCTsVt89nR1U5Ysub7"
+        },
+        {
+          "name": "Sergiio",
+          "url": "https://open.spotify.com/artist/1TyV1ii0zQpDUf242p8JI0"
         }
       ],
-      "duration_ms": 191061,
-      "name": "Raining in LA",
-      "url": "https://open.spotify.com/track/2ZnMtfCwbUgVWIWfmEBHCv"
+      "duration_ms": 197297,
+      "name": "To the Stars and Back",
+      "url": "https://open.spotify.com/track/0CVOi16eMozeASjkhiRIqE"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Tides (Jean Tonique Remix)",
+        "url": "https://open.spotify.com/album/6iB6j9WbxZ3e3Ooht1fteY"
+      },
+      "artists": [
+        {
+          "name": "3kelves",
+          "url": "https://open.spotify.com/artist/4lmkcVpiNTAilHY9AGjKJH"
+        },
+        {
+          "name": "Jean Tonique",
+          "url": "https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI"
+        }
+      ],
+      "duration_ms": 181986,
+      "name": "Tides - Jean Tonique Remix",
+      "url": "https://open.spotify.com/track/7G7Ugg03M2X0lKvQp4uGl0"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -1763,22 +1767,18 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Tides (Jean Tonique Remix)",
-        "url": "https://open.spotify.com/album/6iB6j9WbxZ3e3Ooht1fteY"
+        "name": "Into the Ether",
+        "url": "https://open.spotify.com/album/5O9uqsd52hAovfkyArK41d"
       },
       "artists": [
         {
-          "name": "3kelves",
-          "url": "https://open.spotify.com/artist/4lmkcVpiNTAilHY9AGjKJH"
-        },
-        {
-          "name": "Jean Tonique",
-          "url": "https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI"
+          "name": "Franc Moody",
+          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
         }
       ],
-      "duration_ms": 181986,
-      "name": "Tides - Jean Tonique Remix",
-      "url": "https://open.spotify.com/track/7G7Ugg03M2X0lKvQp4uGl0"
+      "duration_ms": 191061,
+      "name": "Raining in LA",
+      "url": "https://open.spotify.com/track/2ZnMtfCwbUgVWIWfmEBHCv"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -1839,6 +1839,22 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
+        "name": "Bruises",
+        "url": "https://open.spotify.com/album/1xYk6pycBgnLYw4ZXwgldj"
+      },
+      "artists": [
+        {
+          "name": "AUGUST 08",
+          "url": "https://open.spotify.com/artist/2iB8eFB6flwQculkUrRssi"
+        }
+      ],
+      "duration_ms": 190948,
+      "name": "Bruises",
+      "url": "https://open.spotify.com/track/3pSpLYsOi6fZ6N0P962XaJ"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
         "name": "Somethin Bout You (feat. Betsy)",
         "url": "https://open.spotify.com/album/7AAKUuEwPmgUqTi8Lp9Aoy"
       },
@@ -1859,22 +1875,6 @@
       "duration_ms": 215686,
       "name": "Somethin Bout You (feat. Betsy)",
       "url": "https://open.spotify.com/track/5hDtgTpEmgkRFdiOREk98b"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "Bruises",
-        "url": "https://open.spotify.com/album/1xYk6pycBgnLYw4ZXwgldj"
-      },
-      "artists": [
-        {
-          "name": "AUGUST 08",
-          "url": "https://open.spotify.com/artist/2iB8eFB6flwQculkUrRssi"
-        }
-      ],
-      "duration_ms": 190948,
-      "name": "Bruises",
-      "url": "https://open.spotify.com/track/3pSpLYsOi6fZ6N0P962XaJ"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -2039,26 +2039,6 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Amantes (Poolside Remix)",
-        "url": "https://open.spotify.com/album/1nPnBp78vPtN3xdnTXUlUm"
-      },
-      "artists": [
-        {
-          "name": "Le\u00f3n Larregui",
-          "url": "https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d"
-        },
-        {
-          "name": "Poolside",
-          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
-        }
-      ],
-      "duration_ms": 205760,
-      "name": "Amantes - Poolside Remix",
-      "url": "https://open.spotify.com/track/1Bj4RpZHBXXz0G4wX4QYRi"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
         "name": "Cosmic Fonk",
         "url": "https://open.spotify.com/album/2hWZr2ZlvLVHbehlalUZbc"
       },
@@ -2075,6 +2055,26 @@
       "duration_ms": 213815,
       "name": "Glitter Fonk",
       "url": "https://open.spotify.com/track/1ewaelTFQ4zyNetGxEcB2x"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Amantes (Poolside Remix)",
+        "url": "https://open.spotify.com/album/1nPnBp78vPtN3xdnTXUlUm"
+      },
+      "artists": [
+        {
+          "name": "Le\u00f3n Larregui",
+          "url": "https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d"
+        },
+        {
+          "name": "Poolside",
+          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
+        }
+      ],
+      "duration_ms": 205760,
+      "name": "Amantes - Poolside Remix",
+      "url": "https://open.spotify.com/track/1Bj4RpZHBXXz0G4wX4QYRi"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -2171,26 +2171,6 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Beat Of Your Heart",
-        "url": "https://open.spotify.com/album/0FemeRyKTEUCQUDiBu7NIL"
-      },
-      "artists": [
-        {
-          "name": "Purple Disco Machine",
-          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
-        },
-        {
-          "name": "\u00c1SD\u00cdS",
-          "url": "https://open.spotify.com/artist/28y5ZcfpdZAfeEE5ftCfUg"
-        }
-      ],
-      "duration_ms": 209186,
-      "name": "Beat Of Your Heart",
-      "url": "https://open.spotify.com/track/0prrKDxUVhyN9UMtD2m499"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
         "name": "Love In C Minor (Franc Moody Remix)",
         "url": "https://open.spotify.com/album/4IKcf685Y9bcGgDYf80AaF"
       },
@@ -2207,6 +2187,26 @@
       "duration_ms": 185400,
       "name": "Love In C Minor - Franc Moody Remix",
       "url": "https://open.spotify.com/track/3sfcZAIZW6CK035kWl0mBD"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Beat Of Your Heart",
+        "url": "https://open.spotify.com/album/0FemeRyKTEUCQUDiBu7NIL"
+      },
+      "artists": [
+        {
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        },
+        {
+          "name": "\u00c1SD\u00cdS",
+          "url": "https://open.spotify.com/artist/28y5ZcfpdZAfeEE5ftCfUg"
+        }
+      ],
+      "duration_ms": 209186,
+      "name": "Beat Of Your Heart",
+      "url": "https://open.spotify.com/track/0prrKDxUVhyN9UMtD2m499"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -2243,30 +2243,6 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Studio 54",
-        "url": "https://open.spotify.com/album/5eqNUuxFHel3GEUPeaaFbv"
-      },
-      "artists": [
-        {
-          "name": "Young Franco",
-          "url": "https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl"
-        },
-        {
-          "name": "Leyla Blue",
-          "url": "https://open.spotify.com/artist/6HpIVA13SPof8sYuXRUfxj"
-        },
-        {
-          "name": "Jafunk",
-          "url": "https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k"
-        }
-      ],
-      "duration_ms": 166289,
-      "name": "Studio 54",
-      "url": "https://open.spotify.com/track/20blT6R5DJhfrk9c16lQ4E"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
         "name": "CAPYAC FOREVER",
         "url": "https://open.spotify.com/album/63jCHRp1OODxxUM5vm6sw3"
       },
@@ -2287,6 +2263,30 @@
       "duration_ms": 206896,
       "name": "Sanctuary",
       "url": "https://open.spotify.com/track/5AEYzNoMrEgoEf7pDXiyD3"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Studio 54",
+        "url": "https://open.spotify.com/album/5eqNUuxFHel3GEUPeaaFbv"
+      },
+      "artists": [
+        {
+          "name": "Young Franco",
+          "url": "https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl"
+        },
+        {
+          "name": "Leyla Blue",
+          "url": "https://open.spotify.com/artist/6HpIVA13SPof8sYuXRUfxj"
+        },
+        {
+          "name": "Jafunk",
+          "url": "https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k"
+        }
+      ],
+      "duration_ms": 166289,
+      "name": "Studio 54",
+      "url": "https://open.spotify.com/track/20blT6R5DJhfrk9c16lQ4E"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -2367,26 +2367,6 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Freeway (with Estelle)",
-        "url": "https://open.spotify.com/album/2o1dIZfifqYphPXxxsprwZ"
-      },
-      "artists": [
-        {
-          "name": "Austin Millz",
-          "url": "https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k"
-        },
-        {
-          "name": "Estelle",
-          "url": "https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn"
-        }
-      ],
-      "duration_ms": 202000,
-      "name": "Freeway (with Estelle)",
-      "url": "https://open.spotify.com/track/0dIfJUr08iuUos2rGg9uEJ"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
         "name": "You\u2019re Gonna Make Me Love Somebody Else (feat. Kelli Sae)",
         "url": "https://open.spotify.com/album/6HKCBgUjVZ6JwUc22wMx5O"
       },
@@ -2407,6 +2387,26 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
+        "name": "Freeway (with Estelle)",
+        "url": "https://open.spotify.com/album/2o1dIZfifqYphPXxxsprwZ"
+      },
+      "artists": [
+        {
+          "name": "Austin Millz",
+          "url": "https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k"
+        },
+        {
+          "name": "Estelle",
+          "url": "https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn"
+        }
+      ],
+      "duration_ms": 202000,
+      "name": "Freeway (with Estelle)",
+      "url": "https://open.spotify.com/track/0dIfJUr08iuUos2rGg9uEJ"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
         "name": "A Chance / Ask Yourself (Can You Dance)",
         "url": "https://open.spotify.com/album/1eTSe304zMIBmpFQ1Vj9hc"
       },
@@ -2423,18 +2423,18 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "tomorrow never comes",
-        "url": "https://open.spotify.com/album/56gzHHGgjlbVo0okgZ3kNT"
+        "name": "Always By Your Side",
+        "url": "https://open.spotify.com/album/1o4hTnWRBt6GxbNytqNHxH"
       },
       "artists": [
         {
-          "name": "Soul Legend",
-          "url": "https://open.spotify.com/artist/55KBAeJzZBcJ5AhPW5OOpy"
+          "name": "Saib",
+          "url": "https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk"
         }
       ],
-      "duration_ms": 200655,
-      "name": "what i feel",
-      "url": "https://open.spotify.com/track/0c27JOBxFuSPHqbT3d2BC9"
+      "duration_ms": 337975,
+      "name": "Always By Your Side",
+      "url": "https://open.spotify.com/track/11jjzsFPIuaVORI0HSdLGt"
     }
   ],
   "unique_name": "Poolside Disco",

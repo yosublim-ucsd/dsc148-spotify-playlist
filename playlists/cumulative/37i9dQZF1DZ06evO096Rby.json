@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-30",
-  "description": "This is Edgardo Nu\u00f1ez. The essential tracks, all in one playlist.",
+  "description": "This Is Edgardo Nu\u00f1ez. Los temas esenciales, todos en una lista.",
   "name": "This Is Edgardo Nu\u00f1ez",
   "tracks": [
     {
@@ -960,7 +960,7 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-07",
       "duration_ms": 169523,
       "name": "Kyc",
       "url": "https://open.spotify.com/track/2W1939GIXBdA58meh74sUU"
@@ -1216,6 +1216,32 @@
       "duration_ms": 293412,
       "name": "Micaela / La Mar\u00eda",
       "url": "https://open.spotify.com/track/58UuKulvF6CYIoFXxh9joZ"
+    },
+    {
+      "album": {
+        "name": "Mirame (feat. Blessd) [Remix]",
+        "url": "https://open.spotify.com/album/0VwgnKU3yLwiMnkutv5btR"
+      },
+      "artists": [
+        {
+          "name": "Pipe Bueno",
+          "url": "https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng"
+        },
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        },
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        }
+      ],
+      "date_added": "2024-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193605,
+      "name": "Mirame (feat. Blessd) - Remix",
+      "url": "https://open.spotify.com/track/72BPA1JIC8LBrPP1uu1UNO"
     },
     {
       "album": {

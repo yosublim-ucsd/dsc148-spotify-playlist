@@ -1,6 +1,6 @@
 {
   "description": "layan je",
-  "num_followers": 127153,
+  "num_followers": 127263,
   "original_name": "galau rabak",
   "owner": {
     "name": "Spotify",
@@ -451,6 +451,22 @@
     {
       "added_at": "2024-10-03 17:00:00",
       "album": {
+        "name": "Tak Selalu Memiliki (Ipar Adalah Maut Original Soundtrack)",
+        "url": "https://open.spotify.com/album/1GfKNDVSJ5OGvTgrj0Coqu"
+      },
+      "artists": [
+        {
+          "name": "Lyodra",
+          "url": "https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG"
+        }
+      ],
+      "duration_ms": 260571,
+      "name": "Tak Selalu Memiliki - Ipar Adalah Maut Original Soundtrack",
+      "url": "https://open.spotify.com/track/0wRXRWyFNE99paoKAUeA5s"
+    },
+    {
+      "added_at": "2024-10-03 17:00:00",
+      "album": {
         "name": "Angin Rindu",
         "url": "https://open.spotify.com/album/1DAMX6ufi10yOx2L7qO8KY"
       },
@@ -467,18 +483,18 @@
     {
       "added_at": "2024-10-03 17:00:00",
       "album": {
-        "name": "Tak Selalu Memiliki (Ipar Adalah Maut Original Soundtrack)",
-        "url": "https://open.spotify.com/album/1GfKNDVSJ5OGvTgrj0Coqu"
+        "name": "Tak Kan Hilang",
+        "url": "https://open.spotify.com/album/6JmBf13wUd3kJEdoXgbZy5"
       },
       "artists": [
         {
-          "name": "Lyodra",
-          "url": "https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG"
+          "name": "Budi Doremi",
+          "url": "https://open.spotify.com/artist/6Ifk2cbxyVzT41jLexYCas"
         }
       ],
-      "duration_ms": 260571,
-      "name": "Tak Selalu Memiliki - Ipar Adalah Maut Original Soundtrack",
-      "url": "https://open.spotify.com/track/0wRXRWyFNE99paoKAUeA5s"
+      "duration_ms": 241714,
+      "name": "Tak Kan Hilang",
+      "url": "https://open.spotify.com/track/1USA6DXJ1qsucoKnDu4vnu"
     },
     {
       "added_at": "2024-10-03 17:00:00",
@@ -499,22 +515,6 @@
       "duration_ms": 262341,
       "name": "Masih Hatiku",
       "url": "https://open.spotify.com/track/6L1jkVbb331DNvK89C3L8u"
-    },
-    {
-      "added_at": "2024-10-03 17:00:00",
-      "album": {
-        "name": "Tak Kan Hilang",
-        "url": "https://open.spotify.com/album/6JmBf13wUd3kJEdoXgbZy5"
-      },
-      "artists": [
-        {
-          "name": "Budi Doremi",
-          "url": "https://open.spotify.com/artist/6Ifk2cbxyVzT41jLexYCas"
-        }
-      ],
-      "duration_ms": 241714,
-      "name": "Tak Kan Hilang",
-      "url": "https://open.spotify.com/track/1USA6DXJ1qsucoKnDu4vnu"
     },
     {
       "added_at": "2024-10-03 17:00:00",
@@ -583,22 +583,6 @@
     {
       "added_at": "2024-10-03 17:00:00",
       "album": {
-        "name": "Kisah Tanpa Dirimu",
-        "url": "https://open.spotify.com/album/3n3wxffHONB1v1idVCoMcK"
-      },
-      "artists": [
-        {
-          "name": "Anggis Devaki",
-          "url": "https://open.spotify.com/artist/7lXTU6VtJQWfiN2vuZyzqf"
-        }
-      ],
-      "duration_ms": 257531,
-      "name": "Kisah Tanpa Dirimu",
-      "url": "https://open.spotify.com/track/3ptRODxVj328j6TnW33Zj3"
-    },
-    {
-      "added_at": "2024-10-03 17:00:00",
-      "album": {
         "name": "Jiwa Yang Bersedih",
         "url": "https://open.spotify.com/album/1qZmwFxHsdCTrwkzXI69oL"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 278219,
       "name": "Jiwa Yang Bersedih",
       "url": "https://open.spotify.com/track/6XsFgTG4dY768oIB4Dmeu0"
+    },
+    {
+      "added_at": "2024-10-03 17:00:00",
+      "album": {
+        "name": "Kisah Tanpa Dirimu",
+        "url": "https://open.spotify.com/album/3n3wxffHONB1v1idVCoMcK"
+      },
+      "artists": [
+        {
+          "name": "Anggis Devaki",
+          "url": "https://open.spotify.com/artist/7lXTU6VtJQWfiN2vuZyzqf"
+        }
+      ],
+      "duration_ms": 257531,
+      "name": "Kisah Tanpa Dirimu",
+      "url": "https://open.spotify.com/track/3ptRODxVj328j6TnW33Zj3"
     },
     {
       "added_at": "2024-10-03 17:00:00",
@@ -647,26 +647,6 @@
     {
       "added_at": "2024-10-03 17:00:00",
       "album": {
-        "name": "Bermuara",
-        "url": "https://open.spotify.com/album/14CzP48sGOaDXL2aTwUUgd"
-      },
-      "artists": [
-        {
-          "name": "Rizky Febian",
-          "url": "https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku"
-        },
-        {
-          "name": "Mahalini",
-          "url": "https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4"
-        }
-      ],
-      "duration_ms": 287465,
-      "name": "Bermuara",
-      "url": "https://open.spotify.com/track/2EijGQoEilhHWlQWMoS9Jc"
-    },
-    {
-      "added_at": "2024-10-03 17:00:00",
-      "album": {
         "name": "Aura",
         "url": "https://open.spotify.com/album/59ptvvKVVgt5Oo8R6uYDda"
       },
@@ -683,6 +663,26 @@
       "duration_ms": 234589,
       "name": "Masing Masing",
       "url": "https://open.spotify.com/track/7BgFlmOxrL7M1jVGoxqy37"
+    },
+    {
+      "added_at": "2024-10-03 17:00:00",
+      "album": {
+        "name": "Bermuara",
+        "url": "https://open.spotify.com/album/14CzP48sGOaDXL2aTwUUgd"
+      },
+      "artists": [
+        {
+          "name": "Rizky Febian",
+          "url": "https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku"
+        },
+        {
+          "name": "Mahalini",
+          "url": "https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4"
+        }
+      ],
+      "duration_ms": 287465,
+      "name": "Bermuara",
+      "url": "https://open.spotify.com/track/2EijGQoEilhHWlQWMoS9Jc"
     },
     {
       "added_at": "2024-10-03 17:00:00",
@@ -771,18 +771,18 @@
     {
       "added_at": "2024-10-03 17:00:00",
       "album": {
-        "name": "Nanti Kita Seperti Ini",
-        "url": "https://open.spotify.com/album/2UF7W9r1nqberWW2Bkx4ZT"
+        "name": "Kenyataan Perasaan",
+        "url": "https://open.spotify.com/album/61AGUY22dIy89vcxCUvC00"
       },
       "artists": [
         {
-          "name": "Batas Senja",
-          "url": "https://open.spotify.com/artist/4AhHkaGz7W2bKKJK90IaV2"
+          "name": "Kerispatih",
+          "url": "https://open.spotify.com/artist/73OtDyghUEJ9QfGtu1pkaJ"
         }
       ],
-      "duration_ms": 209647,
-      "name": "Nanti Kita Seperti Ini",
-      "url": "https://open.spotify.com/track/2NjbJR8y083mOV59255QSe"
+      "duration_ms": 270671,
+      "name": "Tapi Bukan Aku",
+      "url": "https://open.spotify.com/track/0BrH4b7su9uLELM1h5Xlzw"
     },
     {
       "added_at": "2024-10-03 17:00:00",
@@ -803,22 +803,6 @@
     {
       "added_at": "2024-10-03 17:00:00",
       "album": {
-        "name": "Kenyataan Perasaan",
-        "url": "https://open.spotify.com/album/61AGUY22dIy89vcxCUvC00"
-      },
-      "artists": [
-        {
-          "name": "Kerispatih",
-          "url": "https://open.spotify.com/artist/73OtDyghUEJ9QfGtu1pkaJ"
-        }
-      ],
-      "duration_ms": 277498,
-      "name": "Mengenangmu",
-      "url": "https://open.spotify.com/track/6l9L0ssWzD5XI1aJgVFpaS"
-    },
-    {
-      "added_at": "2024-10-03 17:00:00",
-      "album": {
         "name": "when it all ends HERE",
         "url": "https://open.spotify.com/album/1GqVTlNRWsjQo9b4HcuEpL"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 285810,
       "name": "perayaan mati rasa",
       "url": "https://open.spotify.com/track/1RyqmamAZTAB9WSZpX4S3f"
+    },
+    {
+      "added_at": "2024-10-03 17:00:00",
+      "album": {
+        "name": "Nanti Kita Seperti Ini",
+        "url": "https://open.spotify.com/album/2UF7W9r1nqberWW2Bkx4ZT"
+      },
+      "artists": [
+        {
+          "name": "Batas Senja",
+          "url": "https://open.spotify.com/artist/4AhHkaGz7W2bKKJK90IaV2"
+        }
+      ],
+      "duration_ms": 209647,
+      "name": "Nanti Kita Seperti Ini",
+      "url": "https://open.spotify.com/track/2NjbJR8y083mOV59255QSe"
     }
   ],
   "unique_name": "galau rabak",

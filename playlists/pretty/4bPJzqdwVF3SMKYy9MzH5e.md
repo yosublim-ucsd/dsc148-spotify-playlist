@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 
 > 
 
-[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 1,967 songs - 4 day 9 hr 47 min
+[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 1,971 songs - 4 day 9 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1975,5 +1975,9 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 | 1965 | [9mm](https://open.spotify.com/track/1g1SuDg4vUq9u0J7V142Zx) | [Brutalismus 3000](https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j) | [9mm](https://open.spotify.com/album/3sci6Sx5qkPpOxTVYXYzxD) | 3:57 |
 | 1966 | [BLOOD ON MY HANDS](https://open.spotify.com/track/5JXcoOrZVS1GPjUKEdl0xM) | [Miguel Angeles](https://open.spotify.com/artist/14xRX3JR8H4RWh8R7V3fvZ) | [BLOOD ON MY HANDS](https://open.spotify.com/album/0IwDvYT2fvlVJDX1suaLQi) | 3:18 |
 | 1967 | [365 PARTYGIRL EASYFUN](https://open.spotify.com/track/1wNjj4mUpv35gY5CzUZCDb) | [Santea2](https://open.spotify.com/artist/1m0xG8stRNnvyrKxnSrbOz) | [365 PARTYGIRL EASYFUN](https://open.spotify.com/album/53sxNSbg497jRQVaT0nynx) | 1:53 |
+| 1968 | [300](https://open.spotify.com/track/1EBWd3jfZH8IzvHH3L3zzW) | [lagoyo](https://open.spotify.com/artist/4Iqd5rIwHATImcJMlDjYIX) | [300](https://open.spotify.com/album/4ToUcgF2XBtrwCf6hdYkW0) | 2:43 |
+| 1969 | [Meet Her At The Love Parade \- Beuk Mix](https://open.spotify.com/track/2DpM4jw683veA2BTcc3kZR) | [Vieze Asbak](https://open.spotify.com/artist/66FZq0wsY6770bc4O9Dlig) | [Meet Her At The Love Parade \(Beuk Mix\)](https://open.spotify.com/album/1YPZDYBgcbMfW4ORrQHmX7) | 1:52 |
+| 1970 | [STAY AWAY](https://open.spotify.com/track/3vDinFBFhPsTykopZhZuoi) | [6EJOU](https://open.spotify.com/artist/1k0U51DXyjFk4YnLZUIMP9) | [STAY AWAY](https://open.spotify.com/album/1cIhasMqR2uxzWLRYkRpzb) | 5:24 |
+| 1971 | [idiota.zao](https://open.spotify.com/track/2YqCsO7Dr5Of6YcxoZ7Dey) | [kreevv](https://open.spotify.com/artist/3geVFRJvQS1HrJ9Xr1wovJ) | [idiota.zao](https://open.spotify.com/album/75IY9ftq0077pY3XRzld4f) | 2:09 |
 
-Snapshot ID: `AAADWf4umA6YwKmvqBh80DiNBbPl1yt/`
+Snapshot ID: `AAADXddIXbvvh7gkaDc2DDXLIVL2VqcL`

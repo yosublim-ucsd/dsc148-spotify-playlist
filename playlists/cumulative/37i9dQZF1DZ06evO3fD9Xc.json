@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-11",
-  "description": "This is Carolina Ross. Track-track unggulan, semuanya dalam satu playlist.",
+  "description": "This Is Carolina Ross. Los temas esenciales, todos en una lista.",
   "name": "This Is Carolina Ross",
   "tracks": [
     {
@@ -124,7 +124,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-11",
+      "date_removed": null,
       "duration_ms": 205217,
       "name": "Como No Adorarla",
       "url": "https://open.spotify.com/track/1aqJMMLk8toQzNxYucJAxx"
@@ -643,7 +643,7 @@
     },
     {
       "album": {
-        "name": "La Marea (feat. Carolina Ross)",
+        "name": "La Marea",
         "url": "https://open.spotify.com/album/2YpckMEZN0Z2w6FtGMRcj0"
       },
       "artists": [
@@ -660,7 +660,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 255000,
-      "name": "La Marea (feat. Carolina Ross)",
+      "name": "La Marea",
       "url": "https://open.spotify.com/track/6tB3TN8NjXiTUIYvflp8P5"
     },
     {
@@ -1152,7 +1152,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-07",
       "duration_ms": 240593,
       "name": "Si Me Ten\u00edas",
       "url": "https://open.spotify.com/track/5KQqFvTyDGh7eumS8WpbD5"

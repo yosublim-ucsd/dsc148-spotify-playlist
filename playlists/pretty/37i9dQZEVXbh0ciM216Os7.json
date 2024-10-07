@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAAB4MbHWq3zCxnyPRksqTWU6",
+  "snapshot_id": "AAAAAAAAAABkIytVNv9RHqbM8C3IKU7u",
   "tracks": [
     {
       "added_at": "2024-10-04 04:00:00",
@@ -116,9 +116,9 @@
           "url": "https://open.spotify.com/artist/5KWOCu1saEHAhPiLKlOLIy"
         }
       ],
-      "duration_ms": 94440,
-      "name": "Today Is The Day",
-      "url": "https://open.spotify.com/track/1f6YV0ef8JiOkzV4i0BO9G"
+      "duration_ms": 93760,
+      "name": "Stars",
+      "url": "https://open.spotify.com/track/5BUgPNcEHO7reTb4iFe8Fc"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -130,15 +130,11 @@
         {
           "name": "Ariana Grande",
           "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        },
-        {
-          "name": "Mariah Carey",
-          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
         }
       ],
-      "duration_ms": 214994,
-      "name": "yes, and? (with Mariah Carey) - Remix",
-      "url": "https://open.spotify.com/track/11U6LlwAzp6mrS2JNWYXt1"
+      "duration_ms": 163574,
+      "name": "supernatural - live version",
+      "url": "https://open.spotify.com/track/0FnkhFA4h80IYaYGgKFI2M"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -159,17 +155,13 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Blackout",
-        "url": "https://open.spotify.com/album/5xwcVnEGDSOduoY8LUCSDE"
+        "name": "Lyrical Wu",
+        "url": "https://open.spotify.com/album/1XKYQwG3KTqdbkFpt8mzTw"
       },
       "artists": [
         {
-          "name": "Flex Barker",
-          "url": "https://open.spotify.com/artist/0soJGBGxYdD3dFuwSQGbXP"
-        },
-        {
-          "name": "Shyheim",
-          "url": "https://open.spotify.com/artist/0rqb5s3Cxj0lGr6jTrWc0P"
+          "name": "DJ Gee",
+          "url": "https://open.spotify.com/artist/3O7bo08mGldUaWJsXcXuYq"
         },
         {
           "name": "Method Man",
@@ -180,9 +172,9 @@
           "url": "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
         }
       ],
-      "duration_ms": 292173,
-      "name": "Blackout",
-      "url": "https://open.spotify.com/track/4eaBgOZfdPIpf9e4U2PFGm"
+      "duration_ms": 126004,
+      "name": "Lyrical Wu",
+      "url": "https://open.spotify.com/track/0Vm5zxb9g4XgMFRc92SfOh"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -207,26 +199,6 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Gravy (Deluxe)",
-        "url": "https://open.spotify.com/album/6ZApU6s93DgYUHjev0RFfD"
-      },
-      "artists": [
-        {
-          "name": "BJ The Chicago Kid",
-          "url": "https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe"
-        },
-        {
-          "name": "Cory Henry",
-          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
-        }
-      ],
-      "duration_ms": 204811,
-      "name": "Forgot Your Name (feat. Cory Henry) - Live from The Sun Rose",
-      "url": "https://open.spotify.com/track/5z5cJ8cL6MH29MiXQIA6yG"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
         "name": "DIAMOND CIGARS",
         "url": "https://open.spotify.com/album/7fJtvIOHxle2tlP0TSoSKF"
       },
@@ -243,6 +215,26 @@
       "duration_ms": 106000,
       "name": "Heartbeats",
       "url": "https://open.spotify.com/track/6Z7XV5HVAplMYjbzJ6tqGS"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Gravy (Deluxe)",
+        "url": "https://open.spotify.com/album/6ZApU6s93DgYUHjev0RFfD"
+      },
+      "artists": [
+        {
+          "name": "BJ The Chicago Kid",
+          "url": "https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe"
+        },
+        {
+          "name": "Cory Henry",
+          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
+        }
+      ],
+      "duration_ms": 204811,
+      "name": "Forgot Your Name (feat. Cory Henry) - Live from The Sun Rose",
+      "url": "https://open.spotify.com/track/5z5cJ8cL6MH29MiXQIA6yG"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -383,6 +375,26 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
+        "name": "ceremonial contrafact (empathogen deluxe)",
+        "url": "https://open.spotify.com/album/7Hz9uSylbLpx6okTdiyIwE"
+      },
+      "artists": [
+        {
+          "name": "WILLOW",
+          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
+        },
+        {
+          "name": "Kamasi Washington",
+          "url": "https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU"
+        }
+      ],
+      "duration_ms": 159200,
+      "name": "wanted (feat. kamasi washington)",
+      "url": "https://open.spotify.com/track/6lQyCgVnSxnOssgLIOZItN"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
         "name": "Marathon Racing",
         "url": "https://open.spotify.com/album/7yQW3zLypi8fMyzB6hocOO"
       },
@@ -403,26 +415,6 @@
       "duration_ms": 184390,
       "name": "Marathon Racing",
       "url": "https://open.spotify.com/track/31vW5iPfBge4raNU2Uy2xQ"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "ceremonial contrafact (empathogen deluxe)",
-        "url": "https://open.spotify.com/album/7Hz9uSylbLpx6okTdiyIwE"
-      },
-      "artists": [
-        {
-          "name": "WILLOW",
-          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
-        },
-        {
-          "name": "Kamasi Washington",
-          "url": "https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU"
-        }
-      ],
-      "duration_ms": 159200,
-      "name": "wanted (feat. kamasi washington)",
-      "url": "https://open.spotify.com/track/6lQyCgVnSxnOssgLIOZItN"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -535,30 +527,6 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "WAR",
-        "url": "https://open.spotify.com/album/1B2qzdJ8aJ9ee1qj8YKRjx"
-      },
-      "artists": [
-        {
-          "name": "Suli4Q",
-          "url": "https://open.spotify.com/artist/2QJUzTehLJmQg4uVAAVyl7"
-        },
-        {
-          "name": "Tech N9ne",
-          "url": "https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos"
-        },
-        {
-          "name": "2gunn Kevi",
-          "url": "https://open.spotify.com/artist/0GZZY4DPEAAQyVryasiqXE"
-        }
-      ],
-      "duration_ms": 175466,
-      "name": "WAR",
-      "url": "https://open.spotify.com/track/20Cjf2hvMdwPgtozQ45G2l"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
         "name": "The Genuine Articulate",
         "url": "https://open.spotify.com/album/3EzeDYzLp9bcuK162KVDMp"
       },
@@ -579,6 +547,30 @@
       "duration_ms": 206386,
       "name": "Minnesota Fats",
       "url": "https://open.spotify.com/track/1diTANBQIhHwNORci1og1n"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "WAR",
+        "url": "https://open.spotify.com/album/1B2qzdJ8aJ9ee1qj8YKRjx"
+      },
+      "artists": [
+        {
+          "name": "Suli4Q",
+          "url": "https://open.spotify.com/artist/2QJUzTehLJmQg4uVAAVyl7"
+        },
+        {
+          "name": "Tech N9ne",
+          "url": "https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos"
+        },
+        {
+          "name": "2gunn Kevi",
+          "url": "https://open.spotify.com/artist/0GZZY4DPEAAQyVryasiqXE"
+        }
+      ],
+      "duration_ms": 175466,
+      "name": "WAR",
+      "url": "https://open.spotify.com/track/20Cjf2hvMdwPgtozQ45G2l"
     },
     {
       "added_at": "2024-10-04 04:00:00",

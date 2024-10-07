@@ -3963,6 +3963,28 @@
     },
     {
       "album": {
+        "name": "Golden Hour",
+        "url": "https://open.spotify.com/album/5vX0p5w5SsiC4NYGQQMcVZ"
+      },
+      "artists": [
+        {
+          "name": "Sander W.",
+          "url": "https://open.spotify.com/artist/1g3DHFTgwP8SbgH5ND8lVj"
+        },
+        {
+          "name": "Tom Bailey",
+          "url": "https://open.spotify.com/artist/6nUOrgkHVLMY7Zoe3IXQhJ"
+        }
+      ],
+      "date_added": "2024-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115121,
+      "name": "Golden Hour",
+      "url": "https://open.spotify.com/track/0ZPzbrko3DYrApzqTpPKnm"
+    },
+    {
+      "album": {
         "name": "Golden Hour (feat. Eirik N\u00e6ss)",
         "url": "https://open.spotify.com/album/5lPVqHC8vuok9ugGsBxBu7"
       },
@@ -4652,6 +4674,32 @@
     {
       "album": {
         "name": "Home",
+        "url": "https://open.spotify.com/album/2f3hqoi96gdhdw51MBccDD"
+      },
+      "artists": [
+        {
+          "name": "Majesto",
+          "url": "https://open.spotify.com/artist/0fFZroJML4yia5tPZs8SDI"
+        },
+        {
+          "name": "Badjack",
+          "url": "https://open.spotify.com/artist/40oI86vaTUHgkSGlYkEiLM"
+        },
+        {
+          "name": "Beachlife",
+          "url": "https://open.spotify.com/artist/2kWRTTOH8rNyFCcFJgPYqF"
+        }
+      ],
+      "date_added": "2024-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/23Gx8fbVQHxczAkIFEQ1Ai"
+    },
+    {
+      "album": {
+        "name": "Home",
         "url": "https://open.spotify.com/album/7FddB5ZB33rW6GC88JFhNh"
       },
       "artists": [
@@ -4674,6 +4722,32 @@
       "duration_ms": 132081,
       "name": "Home",
       "url": "https://open.spotify.com/track/3btdOaDH4o9B518GryM5RT"
+    },
+    {
+      "album": {
+        "name": "Hope You Love Me Too",
+        "url": "https://open.spotify.com/album/40DvN836TVuEFJPWyXknm5"
+      },
+      "artists": [
+        {
+          "name": "Liam May",
+          "url": "https://open.spotify.com/artist/08FLRGNlpjKOHbKJH9eFNQ"
+        },
+        {
+          "name": "Moving Castles",
+          "url": "https://open.spotify.com/artist/0me4iIJvYbOevaJMMtUPC8"
+        },
+        {
+          "name": "Aexcit",
+          "url": "https://open.spotify.com/artist/2HpYCHV3bvQ71jmohAnBL8"
+        }
+      ],
+      "date_added": "2024-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126500,
+      "name": "Hope You Love Me Too",
+      "url": "https://open.spotify.com/track/3i7cPXSDkJRYOKplg5Jzoj"
     },
     {
       "album": {
@@ -4744,7 +4818,7 @@
       ],
       "date_added": "2023-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-07",
       "duration_ms": 156885,
       "name": "House Of Cards",
       "url": "https://open.spotify.com/track/6dCF9KJngOrJCmMuxFmBx1"
@@ -6208,7 +6282,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-07",
       "duration_ms": 171340,
       "name": "Let It Go",
       "url": "https://open.spotify.com/track/5Q98t2O13BBRUYqPN5QH0N"
@@ -6286,6 +6360,24 @@
       "duration_ms": 184173,
       "name": "Let You Down",
       "url": "https://open.spotify.com/track/1prkZSe9bHalA9qVpxSVth"
+    },
+    {
+      "album": {
+        "name": "Let You Go",
+        "url": "https://open.spotify.com/album/5bxLXXAzEHLrPHHnKEF2UZ"
+      },
+      "artists": [
+        {
+          "name": "Future Frequencies",
+          "url": "https://open.spotify.com/artist/5nAftdHo2kwizitSopyDFz"
+        }
+      ],
+      "date_added": "2024-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140857,
+      "name": "Let You Go",
+      "url": "https://open.spotify.com/track/1HUIDRBzSfddABHx3r589l"
     },
     {
       "album": {
@@ -6556,7 +6648,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-07",
       "duration_ms": 128000,
       "name": "Listen To Your Heart",
       "url": "https://open.spotify.com/track/5w055aGtin06KLKrC4wRS0"
@@ -8472,7 +8564,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-07",
       "duration_ms": 169007,
       "name": "One Way",
       "url": "https://open.spotify.com/track/0p0AHkX14VDYYjt3bwJeeO"
@@ -9596,7 +9688,7 @@
       ],
       "date_added": "2024-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-07",
       "duration_ms": 136818,
       "name": "Sensitive",
       "url": "https://open.spotify.com/track/78cQPtw2d185IBI3RTZw2P"
@@ -11630,7 +11722,7 @@
       ],
       "date_added": "2024-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-07",
       "duration_ms": 159047,
       "name": "Tidal Wave",
       "url": "https://open.spotify.com/track/0TMaLzDaHXi8VAq4oJfWXE"
@@ -11652,6 +11744,32 @@
       "duration_ms": 161053,
       "name": "Time After Time",
       "url": "https://open.spotify.com/track/3hEPKX4FgfYPhBjSw1Nejq"
+    },
+    {
+      "album": {
+        "name": "Too Hot For You To Hold",
+        "url": "https://open.spotify.com/album/2JRLofOR1HIZjXMfh7dntu"
+      },
+      "artists": [
+        {
+          "name": "He\u0245ven",
+          "url": "https://open.spotify.com/artist/12PufqR6w54uHrEiOkJnzU"
+        },
+        {
+          "name": "AUGUSTKID",
+          "url": "https://open.spotify.com/artist/33HmxGJWuhR3dZVkQnls3y"
+        },
+        {
+          "name": "Jessie Villa",
+          "url": "https://open.spotify.com/artist/5oB768y4mFlz3zGSaugfDb"
+        }
+      ],
+      "date_added": "2024-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143035,
+      "name": "Too Hot For You To Hold",
+      "url": "https://open.spotify.com/track/3nZBJJT2efeQ89JRK50lDC"
     },
     {
       "album": {

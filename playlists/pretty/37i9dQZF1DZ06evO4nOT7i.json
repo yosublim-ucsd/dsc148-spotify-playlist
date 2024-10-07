@@ -1,29 +1,13 @@
 {
   "description": "This is Rex Orange County. The essential tracks, all in one playlist.",
-  "num_followers": 372777,
+  "num_followers": 372812,
   "original_name": "This Is Rex Orange County",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zv3egAAAAAAQ3TvYRss6s8jjOSVLV94l",
+  "snapshot_id": "ZwCBgAAAAAD46zDdIVRaljILJLlM7SPe",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Alexander Technique",
-        "url": "https://open.spotify.com/album/5HSZsS7TGsyMvur547zjVe"
-      },
-      "artists": [
-        {
-          "name": "Rex Orange County",
-          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
-        }
-      ],
-      "duration_ms": 153637,
-      "name": "2008",
-      "url": "https://open.spotify.com/track/5S2fYAHI2zwSIc2RWcFL7V"
-    },
     {
       "added_at": null,
       "album": {
@@ -123,22 +107,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Loving is Easy",
-        "url": "https://open.spotify.com/album/3GgV5IZzgFljVfmxFeHsLY"
+        "name": "The Alexander Technique",
+        "url": "https://open.spotify.com/album/5HSZsS7TGsyMvur547zjVe"
       },
       "artists": [
         {
           "name": "Rex Orange County",
           "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
-        },
-        {
-          "name": "Benny Sings",
-          "url": "https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N"
         }
       ],
-      "duration_ms": 155720,
-      "name": "Loving Is Easy",
-      "url": "https://open.spotify.com/track/7ASFZh1D0DPZro7UXUKGmd"
+      "duration_ms": 153637,
+      "name": "2008",
+      "url": "https://open.spotify.com/track/5S2fYAHI2zwSIc2RWcFL7V"
     },
     {
       "added_at": null,
@@ -159,18 +139,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Alexander Technique",
-        "url": "https://open.spotify.com/album/5HSZsS7TGsyMvur547zjVe"
+        "name": "Loving is Easy",
+        "url": "https://open.spotify.com/album/3GgV5IZzgFljVfmxFeHsLY"
       },
       "artists": [
         {
           "name": "Rex Orange County",
           "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        },
+        {
+          "name": "Benny Sings",
+          "url": "https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N"
         }
       ],
-      "duration_ms": 127558,
-      "name": "4 In The Morning",
-      "url": "https://open.spotify.com/track/4YSYzelIzckY5oTIXGU3lc"
+      "duration_ms": 155720,
+      "name": "Loving Is Easy",
+      "url": "https://open.spotify.com/track/7ASFZh1D0DPZro7UXUKGmd"
     },
     {
       "added_at": null,
@@ -191,8 +175,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bcos U Will Never B Free",
-        "url": "https://open.spotify.com/album/2PdLUS263cFyd7efyWH5B8"
+        "name": "The Alexander Technique",
+        "url": "https://open.spotify.com/album/5HSZsS7TGsyMvur547zjVe"
       },
       "artists": [
         {
@@ -200,9 +184,9 @@
           "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
         }
       ],
-      "duration_ms": 206974,
-      "name": "Corduroy Dreams",
-      "url": "https://open.spotify.com/track/2ravLKGYnJWa7szKSBRTRJ"
+      "duration_ms": 127558,
+      "name": "4 In The Morning",
+      "url": "https://open.spotify.com/track/4YSYzelIzckY5oTIXGU3lc"
     },
     {
       "added_at": null,
@@ -223,8 +207,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Alexander Technique",
-        "url": "https://open.spotify.com/album/5HSZsS7TGsyMvur547zjVe"
+        "name": "Bcos U Will Never B Free",
+        "url": "https://open.spotify.com/album/2PdLUS263cFyd7efyWH5B8"
       },
       "artists": [
         {
@@ -232,9 +216,9 @@
           "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
         }
       ],
-      "duration_ms": 151136,
-      "name": "One Of These Days",
-      "url": "https://open.spotify.com/track/7FL9hBxZMMjyMg7ezluCTB"
+      "duration_ms": 206974,
+      "name": "Corduroy Dreams",
+      "url": "https://open.spotify.com/track/2ravLKGYnJWa7szKSBRTRJ"
     },
     {
       "added_at": null,
@@ -259,6 +243,22 @@
       "duration_ms": 320720,
       "name": "Boredom (feat. Rex Orange County & Anna of the North)",
       "url": "https://open.spotify.com/track/5WNYg3usc6H8N3MBEp4zVk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Alexander Technique",
+        "url": "https://open.spotify.com/album/5HSZsS7TGsyMvur547zjVe"
+      },
+      "artists": [
+        {
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        }
+      ],
+      "duration_ms": 151136,
+      "name": "One Of These Days",
+      "url": "https://open.spotify.com/track/7FL9hBxZMMjyMg7ezluCTB"
     },
     {
       "added_at": null,
@@ -295,22 +295,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Alexander Technique",
-        "url": "https://open.spotify.com/album/5HSZsS7TGsyMvur547zjVe"
-      },
-      "artists": [
-        {
-          "name": "Rex Orange County",
-          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
-        }
-      ],
-      "duration_ms": 245549,
-      "name": "Pure",
-      "url": "https://open.spotify.com/track/1vtFlSfBhHcrj3TSYjpK8J"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bcos U Will Never B Free",
         "url": "https://open.spotify.com/album/2PdLUS263cFyd7efyWH5B8"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 136000,
       "name": "A Song About Being Sad",
       "url": "https://open.spotify.com/track/1phSI7mJzqlu2HE6gIwu7I"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Alexander Technique",
+        "url": "https://open.spotify.com/album/5HSZsS7TGsyMvur547zjVe"
+      },
+      "artists": [
+        {
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        }
+      ],
+      "duration_ms": 173952,
+      "name": "The Table",
+      "url": "https://open.spotify.com/track/5o3kn5HJIYAQ14GYmR6IAg"
     },
     {
       "added_at": null,
@@ -363,22 +363,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Alexander Technique",
-        "url": "https://open.spotify.com/album/5HSZsS7TGsyMvur547zjVe"
-      },
-      "artists": [
-        {
-          "name": "Rex Orange County",
-          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
-        }
-      ],
-      "duration_ms": 173952,
-      "name": "The Table",
-      "url": "https://open.spotify.com/track/5o3kn5HJIYAQ14GYmR6IAg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pony",
         "url": "https://open.spotify.com/album/5CNckxfLf4TCoMOoxgAU8l"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 146093,
       "name": "10/10",
       "url": "https://open.spotify.com/track/4tVphly4D1PB8tJC9gHMcJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Alexander Technique",
+        "url": "https://open.spotify.com/album/5HSZsS7TGsyMvur547zjVe"
+      },
+      "artists": [
+        {
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        }
+      ],
+      "duration_ms": 245549,
+      "name": "Pure",
+      "url": "https://open.spotify.com/track/1vtFlSfBhHcrj3TSYjpK8J"
     },
     {
       "added_at": null,
@@ -431,22 +431,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Alexander Technique",
-        "url": "https://open.spotify.com/album/5HSZsS7TGsyMvur547zjVe"
-      },
-      "artists": [
-        {
-          "name": "Rex Orange County",
-          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
-        }
-      ],
-      "duration_ms": 240194,
-      "name": "Jealousy",
-      "url": "https://open.spotify.com/track/5JKnHK8cU8k4w7mB44DWL4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pony",
         "url": "https://open.spotify.com/album/5CNckxfLf4TCoMOoxgAU8l"
       },
@@ -463,8 +447,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Edition",
-        "url": "https://open.spotify.com/album/4Ao4KDoCp2AuONTk5XO2F4"
+        "name": "The Alexander Technique",
+        "url": "https://open.spotify.com/album/5HSZsS7TGsyMvur547zjVe"
       },
       "artists": [
         {
@@ -472,9 +456,9 @@
           "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
         }
       ],
-      "duration_ms": 115000,
-      "name": "Edition",
-      "url": "https://open.spotify.com/track/2E9EabdPii2mjeckhy1dhP"
+      "duration_ms": 240194,
+      "name": "Jealousy",
+      "url": "https://open.spotify.com/track/5JKnHK8cU8k4w7mB44DWL4"
     },
     {
       "added_at": null,
@@ -495,8 +479,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Alexander Technique",
-        "url": "https://open.spotify.com/album/5HSZsS7TGsyMvur547zjVe"
+        "name": "Edition",
+        "url": "https://open.spotify.com/album/4Ao4KDoCp2AuONTk5XO2F4"
       },
       "artists": [
         {
@@ -504,9 +488,9 @@
           "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
         }
       ],
-      "duration_ms": 198809,
-      "name": "Much Too Much",
-      "url": "https://open.spotify.com/track/7ItACWwnj2dfcI8JgzIlCC"
+      "duration_ms": 115000,
+      "name": "Edition",
+      "url": "https://open.spotify.com/track/2E9EabdPii2mjeckhy1dhP"
     },
     {
       "added_at": null,

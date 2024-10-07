@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Lvxss1qTW2.md) - [plain]
 
 > The future hits of today\. <br/>Cover: Minz
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,323 likes - 80 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,337 likes - 80 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Lvxss1qTW2.md) - [plain]
 | 11 | [My Way](https://open.spotify.com/track/3yLREZjJFnYLAN4aOUqqP6) | [Hotkeed](https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj) | [My Way](https://open.spotify.com/album/5ew8bhyjYFzX6wgoMdEn4i) | 2:34 |
 | 12 | [Happy People](https://open.spotify.com/track/1qKJYnVtLg7pwT5JtOcB11) | [KAESTYLE](https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50) | [Happy People](https://open.spotify.com/album/70TPFsb10L2Tya74jZdsl3) | 2:51 |
 | 13 | [Worldwide](https://open.spotify.com/track/3n7kzSJ246VvIe4lRmxV9X) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Lungu Boy](https://open.spotify.com/album/3kS42vslfpYnxWkGN4JvlW) | 3:02 |
-| 14 | [Faaji Jackson \(feat\. Cruel Santino\)](https://open.spotify.com/track/2Y37tCzJtqZfQ6kikUwOHY) | [Toyé](https://open.spotify.com/artist/3ako9MDpww4Y5tjUV02tmi), [Cruel Santino](https://open.spotify.com/artist/7IQgncU3ZwompToJecrmct) | [Wahala In Paradise](https://open.spotify.com/album/5t6q1yQ545Ir5XBik4MnlG) | 3:29 |
+| 14 | [Faaji Jackson](https://open.spotify.com/track/2Y37tCzJtqZfQ6kikUwOHY) | [Toyé](https://open.spotify.com/artist/3ako9MDpww4Y5tjUV02tmi), [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih) | [Wahala In Paradise](https://open.spotify.com/album/5t6q1yQ545Ir5XBik4MnlG) | 3:29 |
 | 15 | [Nyash Na Nyash \(feat\. Young Jonn\) \- Remix](https://open.spotify.com/track/2jktscfZKJsDs2ELhEXg4R) | [Chella](https://open.spotify.com/artist/3Idn4rRQLKL7cDHbaWx3GI), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Nyash Na Nyash \(Remix\) \[feat\. Young Jonn\]](https://open.spotify.com/album/1Rj31LivlulhX1VXlMwMWE) | 2:53 |
 | 16 | [OLOLUFE](https://open.spotify.com/track/1C4ndHztUaefeUlbCue2wt) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [OFA \(Oxlade From Africa\)](https://open.spotify.com/album/1QCCsP9vKzAFLklbRwvTC5) | 2:20 |
 | 17 | [Deep](https://open.spotify.com/track/0qhfALctZENRjIITNtqWti) | [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl), [FAVE](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [Full Time Job](https://open.spotify.com/album/0VtcGxV1o8WCUz7YBX3EtX) | 3:05 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZVKo4DZT9G.md) - [plain]
 
 > Theme songs from TV/ movie series of "Crayon Shinchan"! クレヨンしんちゃんのテレビアニメ主題歌、映画シリーズ歴代主題歌などを辿る公式プレイリスト！©︎臼井儀人／双葉社・シンエイ・テレビ朝日・ＡＤＫ 2024
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,751 likes - 31 songs - 2 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,769 likes - 31 songs - 2 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

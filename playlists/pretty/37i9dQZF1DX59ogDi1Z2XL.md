@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 
 > The coldest sounds in hip\-hop, coming out of Canada\. Cover: The Weeknd
 
-[Spotify](https://open.spotify.com/user/spotify) - 182,890 likes - 85 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 182,902 likes - 85 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "Que comience la fiesta.",
-  "num_followers": 10626,
+  "num_followers": 10677,
   "original_name": "Bailando Merengue",
   "owner": {
     "name": "Spotify",
@@ -127,22 +127,6 @@
     {
       "added_at": "2024-09-06 21:22:32",
       "album": {
-        "name": "In Da House",
-        "url": "https://open.spotify.com/album/6AbWKVD3idhjdTxk7BQtKe"
-      },
-      "artists": [
-        {
-          "name": "Proyecto Uno",
-          "url": "https://open.spotify.com/artist/6w1XCiB8efbfnusJ2jzmvu"
-        }
-      ],
-      "duration_ms": 303106,
-      "name": "Tiburon",
-      "url": "https://open.spotify.com/track/2GcjfckZexh9wRRjg9KtQG"
-    },
-    {
-      "added_at": "2024-09-06 21:22:32",
-      "album": {
         "name": "Lo Mejor de Los Fantasmas del caribe",
         "url": "https://open.spotify.com/album/3YasW4KSKwDtKrCfaP3o5f"
       },
@@ -159,18 +143,34 @@
     {
       "added_at": "2024-09-06 21:22:32",
       "album": {
-        "name": "Suavemente",
-        "url": "https://open.spotify.com/album/378XG6oO0TWcsGuxeQy2Os"
+        "name": "Para El Bailador",
+        "url": "https://open.spotify.com/album/2Nn1Spyz1iM55bGEsTD2pA"
       },
       "artists": [
         {
-          "name": "Elvis Crespo",
-          "url": "https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df"
+          "name": "La Makina",
+          "url": "https://open.spotify.com/artist/4SlusIRNswGYkTjhflokfX"
         }
       ],
-      "duration_ms": 274160,
-      "name": "Tu Sonrisa",
-      "url": "https://open.spotify.com/track/3IS5IWZuDJJdqBJ9XVqpbh"
+      "duration_ms": 228893,
+      "name": "No Me Digas Que No",
+      "url": "https://open.spotify.com/track/5hD4JNBJ2vcM42x8hPxnvo"
+    },
+    {
+      "added_at": "2024-09-06 21:22:32",
+      "album": {
+        "name": "In Da House",
+        "url": "https://open.spotify.com/album/6AbWKVD3idhjdTxk7BQtKe"
+      },
+      "artists": [
+        {
+          "name": "Proyecto Uno",
+          "url": "https://open.spotify.com/artist/6w1XCiB8efbfnusJ2jzmvu"
+        }
+      ],
+      "duration_ms": 303106,
+      "name": "Tiburon",
+      "url": "https://open.spotify.com/track/2GcjfckZexh9wRRjg9KtQG"
     },
     {
       "added_at": "2024-09-06 21:22:32",
@@ -191,18 +191,18 @@
     {
       "added_at": "2024-09-06 21:22:32",
       "album": {
-        "name": "Para El Bailador",
-        "url": "https://open.spotify.com/album/2Nn1Spyz1iM55bGEsTD2pA"
+        "name": "Suavemente",
+        "url": "https://open.spotify.com/album/378XG6oO0TWcsGuxeQy2Os"
       },
       "artists": [
         {
-          "name": "La Makina",
-          "url": "https://open.spotify.com/artist/4SlusIRNswGYkTjhflokfX"
+          "name": "Elvis Crespo",
+          "url": "https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df"
         }
       ],
-      "duration_ms": 228893,
-      "name": "No Me Digas Que No",
-      "url": "https://open.spotify.com/track/5hD4JNBJ2vcM42x8hPxnvo"
+      "duration_ms": 274160,
+      "name": "Tu Sonrisa",
+      "url": "https://open.spotify.com/track/3IS5IWZuDJJdqBJ9XVqpbh"
     },
     {
       "added_at": "2024-09-06 21:22:32",
@@ -255,38 +255,6 @@
     {
       "added_at": "2024-09-06 21:22:32",
       "album": {
-        "name": "In Da House",
-        "url": "https://open.spotify.com/album/6AbWKVD3idhjdTxk7BQtKe"
-      },
-      "artists": [
-        {
-          "name": "Proyecto Uno",
-          "url": "https://open.spotify.com/artist/6w1XCiB8efbfnusJ2jzmvu"
-        }
-      ],
-      "duration_ms": 330800,
-      "name": "Otra Noche (Another Night)",
-      "url": "https://open.spotify.com/track/2lROtguCNiJcyZxol9aTKi"
-    },
-    {
-      "added_at": "2024-09-06 21:22:32",
-      "album": {
-        "name": "Pintame",
-        "url": "https://open.spotify.com/album/1JyYGBfd7EIVXtKyaOcyLB"
-      },
-      "artists": [
-        {
-          "name": "Elvis Crespo",
-          "url": "https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df"
-        }
-      ],
-      "duration_ms": 259066,
-      "name": "P\u00edntame",
-      "url": "https://open.spotify.com/track/7gNI9f8NTCU6hLV0pLkTT7"
-    },
-    {
-      "added_at": "2024-09-06 21:22:32",
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/2se2DHy9J2L20JV02zwQHx"
       },
@@ -315,6 +283,54 @@
       "duration_ms": 195653,
       "name": "Las Avispas",
       "url": "https://open.spotify.com/track/1oInQX1RuH1TcHuDv8Gvw3"
+    },
+    {
+      "added_at": "2024-09-06 21:22:32",
+      "album": {
+        "name": "Los Reyes Del Ritmo",
+        "url": "https://open.spotify.com/album/16fBXAobpXR3CMdoln0h3o"
+      },
+      "artists": [
+        {
+          "name": "La Makina",
+          "url": "https://open.spotify.com/artist/4SlusIRNswGYkTjhflokfX"
+        }
+      ],
+      "duration_ms": 232133,
+      "name": "Nadie Se Muere",
+      "url": "https://open.spotify.com/track/2BnphYbwrZvdrGnc1A9kUe"
+    },
+    {
+      "added_at": "2024-09-06 21:22:32",
+      "album": {
+        "name": "Pintame",
+        "url": "https://open.spotify.com/album/1JyYGBfd7EIVXtKyaOcyLB"
+      },
+      "artists": [
+        {
+          "name": "Elvis Crespo",
+          "url": "https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df"
+        }
+      ],
+      "duration_ms": 259066,
+      "name": "P\u00edntame",
+      "url": "https://open.spotify.com/track/7gNI9f8NTCU6hLV0pLkTT7"
+    },
+    {
+      "added_at": "2024-09-06 21:22:32",
+      "album": {
+        "name": "In Da House",
+        "url": "https://open.spotify.com/album/6AbWKVD3idhjdTxk7BQtKe"
+      },
+      "artists": [
+        {
+          "name": "Proyecto Uno",
+          "url": "https://open.spotify.com/artist/6w1XCiB8efbfnusJ2jzmvu"
+        }
+      ],
+      "duration_ms": 330800,
+      "name": "Otra Noche (Another Night)",
+      "url": "https://open.spotify.com/track/2lROtguCNiJcyZxol9aTKi"
     },
     {
       "added_at": "2024-09-06 21:22:32",
@@ -351,22 +367,6 @@
     {
       "added_at": "2024-09-06 21:22:32",
       "album": {
-        "name": "Los Reyes Del Ritmo",
-        "url": "https://open.spotify.com/album/16fBXAobpXR3CMdoln0h3o"
-      },
-      "artists": [
-        {
-          "name": "La Makina",
-          "url": "https://open.spotify.com/artist/4SlusIRNswGYkTjhflokfX"
-        }
-      ],
-      "duration_ms": 232133,
-      "name": "Nadie Se Muere",
-      "url": "https://open.spotify.com/track/2BnphYbwrZvdrGnc1A9kUe"
-    },
-    {
-      "added_at": "2024-09-06 21:22:32",
-      "album": {
         "name": "La Orquesta Que Impone El Ritmo",
         "url": "https://open.spotify.com/album/5q6hd4CqyZ1sgdZfPmB4G1"
       },
@@ -383,22 +383,6 @@
     {
       "added_at": "2024-09-06 21:22:32",
       "album": {
-        "name": "Rebotando",
-        "url": "https://open.spotify.com/album/5aAR4JhNb2bA0r6uPHlhYz"
-      },
-      "artists": [
-        {
-          "name": "Ilegales",
-          "url": "https://open.spotify.com/artist/1hMa6SwU2t8eUEETAAbk9z"
-        }
-      ],
-      "duration_ms": 246266,
-      "name": "Como Un Trueno",
-      "url": "https://open.spotify.com/track/5NuGimnwSMQwBKgCCy7wIn"
-    },
-    {
-      "added_at": "2024-09-06 21:22:32",
-      "album": {
         "name": "Chayanne",
         "url": "https://open.spotify.com/album/20LKBgzwk7zrSSn0N8ukFV"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 268426,
       "name": "Este Ritmo Se Baila As\u00ed",
       "url": "https://open.spotify.com/track/5562EZVkcwO43I03C29RuK"
+    },
+    {
+      "added_at": "2024-09-06 21:22:32",
+      "album": {
+        "name": "Rebotando",
+        "url": "https://open.spotify.com/album/5aAR4JhNb2bA0r6uPHlhYz"
+      },
+      "artists": [
+        {
+          "name": "Ilegales",
+          "url": "https://open.spotify.com/artist/1hMa6SwU2t8eUEETAAbk9z"
+        }
+      ],
+      "duration_ms": 246266,
+      "name": "Como Un Trueno",
+      "url": "https://open.spotify.com/track/5NuGimnwSMQwBKgCCy7wIn"
     },
     {
       "added_at": "2024-09-06 21:22:32",
@@ -447,6 +447,22 @@
     {
       "added_at": "2024-09-06 21:22:32",
       "album": {
+        "name": "La Orquesta Que Impone El Ritmo",
+        "url": "https://open.spotify.com/album/5q6hd4CqyZ1sgdZfPmB4G1"
+      },
+      "artists": [
+        {
+          "name": "Los Mel\u00f3dicos",
+          "url": "https://open.spotify.com/artist/4LdArZAC1QPQdyz8JNOYVW"
+        }
+      ],
+      "duration_ms": 243840,
+      "name": "Ay Amor",
+      "url": "https://open.spotify.com/track/3IIcfSqWExqdjypo8HlMq8"
+    },
+    {
+      "added_at": "2024-09-06 21:22:32",
+      "album": {
         "name": "In Da House",
         "url": "https://open.spotify.com/album/6AbWKVD3idhjdTxk7BQtKe"
       },
@@ -479,22 +495,6 @@
     {
       "added_at": "2024-09-06 21:22:32",
       "album": {
-        "name": "Ilegales",
-        "url": "https://open.spotify.com/album/3zYFvSvwwb52XuXf25rtCg"
-      },
-      "artists": [
-        {
-          "name": "Ilegales",
-          "url": "https://open.spotify.com/artist/1hMa6SwU2t8eUEETAAbk9z"
-        }
-      ],
-      "duration_ms": 264160,
-      "name": "La Morena",
-      "url": "https://open.spotify.com/track/3sVfjl9XFBk8gjGrph7EWo"
-    },
-    {
-      "added_at": "2024-09-06 21:22:32",
-      "album": {
         "name": "Mujer De Fuego",
         "url": "https://open.spotify.com/album/4VV3JWcUvnRNE0OhuRkugJ"
       },
@@ -507,22 +507,6 @@
       "duration_ms": 267533,
       "name": "Muchacho malo",
       "url": "https://open.spotify.com/track/58MAh1fboa0lvwaX2JS0B1"
-    },
-    {
-      "added_at": "2024-09-06 21:22:32",
-      "album": {
-        "name": "La Orquesta Que Impone El Ritmo",
-        "url": "https://open.spotify.com/album/5q6hd4CqyZ1sgdZfPmB4G1"
-      },
-      "artists": [
-        {
-          "name": "Los Mel\u00f3dicos",
-          "url": "https://open.spotify.com/artist/4LdArZAC1QPQdyz8JNOYVW"
-        }
-      ],
-      "duration_ms": 243840,
-      "name": "Ay Amor",
-      "url": "https://open.spotify.com/track/3IIcfSqWExqdjypo8HlMq8"
     },
     {
       "added_at": "2024-09-06 21:22:32",
@@ -563,6 +547,22 @@
     {
       "added_at": "2024-09-06 21:22:32",
       "album": {
+        "name": "Ilegales",
+        "url": "https://open.spotify.com/album/3zYFvSvwwb52XuXf25rtCg"
+      },
+      "artists": [
+        {
+          "name": "Ilegales",
+          "url": "https://open.spotify.com/artist/1hMa6SwU2t8eUEETAAbk9z"
+        }
+      ],
+      "duration_ms": 264160,
+      "name": "La Morena",
+      "url": "https://open.spotify.com/track/3sVfjl9XFBk8gjGrph7EWo"
+    },
+    {
+      "added_at": "2024-09-06 21:22:32",
+      "album": {
         "name": "Suavemente",
         "url": "https://open.spotify.com/album/378XG6oO0TWcsGuxeQy2Os"
       },
@@ -575,38 +575,6 @@
       "duration_ms": 265666,
       "name": "Luna Llena",
       "url": "https://open.spotify.com/track/7zOqkF9TUdUPREtkIf1v4Q"
-    },
-    {
-      "added_at": "2024-09-06 21:22:32",
-      "album": {
-        "name": "Latinos",
-        "url": "https://open.spotify.com/album/4X2X6pUs1ToRCn4pz501PP"
-      },
-      "artists": [
-        {
-          "name": "Proyecto Uno",
-          "url": "https://open.spotify.com/artist/6w1XCiB8efbfnusJ2jzmvu"
-        }
-      ],
-      "duration_ms": 329440,
-      "name": "Latinos",
-      "url": "https://open.spotify.com/track/6RpkUBv1KKsJBWf3gmQ1R9"
-    },
-    {
-      "added_at": "2024-09-06 21:22:32",
-      "album": {
-        "name": "Ilegales",
-        "url": "https://open.spotify.com/album/3zYFvSvwwb52XuXf25rtCg"
-      },
-      "artists": [
-        {
-          "name": "Ilegales",
-          "url": "https://open.spotify.com/artist/1hMa6SwU2t8eUEETAAbk9z"
-        }
-      ],
-      "duration_ms": 280866,
-      "name": "Fiesta Caliente",
-      "url": "https://open.spotify.com/track/37EJvPSMOhOs46HEyweZNW"
     },
     {
       "added_at": "2024-09-06 21:22:32",
@@ -643,18 +611,18 @@
     {
       "added_at": "2024-09-06 21:22:32",
       "album": {
-        "name": "Pochi y Su Cocoband",
-        "url": "https://open.spotify.com/album/1c33wKqcyVscGFJpY5jGPL"
+        "name": "Latinos",
+        "url": "https://open.spotify.com/album/4X2X6pUs1ToRCn4pz501PP"
       },
       "artists": [
         {
-          "name": "Pochy Y Su Cocoband",
-          "url": "https://open.spotify.com/artist/5AWKC0rd625VHM69d7X2tu"
+          "name": "Proyecto Uno",
+          "url": "https://open.spotify.com/artist/6w1XCiB8efbfnusJ2jzmvu"
         }
       ],
-      "duration_ms": 230906,
-      "name": "La Faldita",
-      "url": "https://open.spotify.com/track/5Bwhfe4IxT0galIMg5H1tr"
+      "duration_ms": 329440,
+      "name": "Latinos",
+      "url": "https://open.spotify.com/track/6RpkUBv1KKsJBWf3gmQ1R9"
     },
     {
       "added_at": "2024-09-06 21:22:32",
@@ -679,6 +647,22 @@
     {
       "added_at": "2024-09-06 21:22:32",
       "album": {
+        "name": "Pochi y Su Cocoband",
+        "url": "https://open.spotify.com/album/1c33wKqcyVscGFJpY5jGPL"
+      },
+      "artists": [
+        {
+          "name": "Pochy Y Su Cocoband",
+          "url": "https://open.spotify.com/artist/5AWKC0rd625VHM69d7X2tu"
+        }
+      ],
+      "duration_ms": 230906,
+      "name": "La Faldita",
+      "url": "https://open.spotify.com/track/5Bwhfe4IxT0galIMg5H1tr"
+    },
+    {
+      "added_at": "2024-09-06 21:22:32",
+      "album": {
         "name": "12 Golden Hits",
         "url": "https://open.spotify.com/album/04irf8DoODG5y4esqlnLEI"
       },
@@ -691,22 +675,6 @@
       "duration_ms": 298106,
       "name": "Cuarto de Hotel",
       "url": "https://open.spotify.com/track/14O3hLuJMDRC8800QjuILq"
-    },
-    {
-      "added_at": "2024-09-06 21:22:32",
-      "album": {
-        "name": "Lo Mejor de Los Fantasmas del caribe",
-        "url": "https://open.spotify.com/album/3YasW4KSKwDtKrCfaP3o5f"
-      },
-      "artists": [
-        {
-          "name": "Los Fantasmas del Caribe",
-          "url": "https://open.spotify.com/artist/3h3fPrG6WOJ38FUUpgAiha"
-        }
-      ],
-      "duration_ms": 249746,
-      "name": "Por una L\u00e1grima",
-      "url": "https://open.spotify.com/track/2vxemUwuFetliyrL6OSOSN"
     },
     {
       "added_at": "2024-09-06 21:22:32",
@@ -727,6 +695,22 @@
     {
       "added_at": "2024-09-06 21:22:32",
       "album": {
+        "name": "Ilegales",
+        "url": "https://open.spotify.com/album/3zYFvSvwwb52XuXf25rtCg"
+      },
+      "artists": [
+        {
+          "name": "Ilegales",
+          "url": "https://open.spotify.com/artist/1hMa6SwU2t8eUEETAAbk9z"
+        }
+      ],
+      "duration_ms": 280866,
+      "name": "Fiesta Caliente",
+      "url": "https://open.spotify.com/track/37EJvPSMOhOs46HEyweZNW"
+    },
+    {
+      "added_at": "2024-09-06 21:22:32",
+      "album": {
         "name": "Natusha & Kondor Band",
         "url": "https://open.spotify.com/album/6IuWxlioIdpZ4jCLbGZlg3"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 227333,
       "name": "El la Enga\u00f1\u00f3",
       "url": "https://open.spotify.com/track/5jr886Foyigc6j1qtJtvsX"
+    },
+    {
+      "added_at": "2024-09-06 21:22:32",
+      "album": {
+        "name": "Lo Mejor de Los Fantasmas del caribe",
+        "url": "https://open.spotify.com/album/3YasW4KSKwDtKrCfaP3o5f"
+      },
+      "artists": [
+        {
+          "name": "Los Fantasmas del Caribe",
+          "url": "https://open.spotify.com/artist/3h3fPrG6WOJ38FUUpgAiha"
+        }
+      ],
+      "duration_ms": 249746,
+      "name": "Por una L\u00e1grima",
+      "url": "https://open.spotify.com/track/2vxemUwuFetliyrL6OSOSN"
     },
     {
       "added_at": "2024-09-06 21:22:32",

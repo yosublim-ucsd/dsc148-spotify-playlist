@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 
 > 2hollis\. Born and raised on the internet.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,392,094 likes - 100 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,391,985 likes - 100 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 | 3 | [GO AGAIN \(feat\. Superheaven\)](https://open.spotify.com/track/2cNTMTh42p1dwMS3Kaea8E) | [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG), [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx), [Superheaven](https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc) | [GO AGAIN \(feat\. Superheaven\)](https://open.spotify.com/album/4WXIMpmT2wITUU85TCcW0z) | 3:34 |
 | 4 | [OMG XD](https://open.spotify.com/track/4Lk7ZslBj20EgyMlC6VJph) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc) | [OMG XD](https://open.spotify.com/album/7DgcZ9qyCA51DHvyYlG5GK) | 2:03 |
 | 5 | [F\*CK SWAG](https://open.spotify.com/track/1N5ECRUsgd7iBMWdEQ7fp3) | [Nettspend](https://open.spotify.com/artist/2jl4qd6UbzeCmImT4nWbtA) | [F\*CK SWAG](https://open.spotify.com/album/3T407uApCPlfUFdRYDYIpE) | 2:01 |
-| 6 | [Or What](https://open.spotify.com/track/3lUYO6zvXI88sNDpyKvIJ2) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [41](https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8) | [Or What](https://open.spotify.com/album/0O5WgUe2bObIlk6R0nwOs2) | 3:19 |
+| 6 | [Or What](https://open.spotify.com/track/3lUYO6zvXI88sNDpyKvIJ2) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [41](https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8), [Kyle Richh](https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU) | [Or What](https://open.spotify.com/album/0O5WgUe2bObIlk6R0nwOs2) | 3:19 |
 | 7 | [40](https://open.spotify.com/track/6sZE18zA8OJpr3h5VDboWH) | [evilgiane](https://open.spotify.com/artist/4bbAeMRdMbfCLVSlpryAVV), [xaviersobased](https://open.spotify.com/artist/2oM7LMPFu882oC6jSwEqjd), [Nettspend](https://open.spotify.com/artist/2jl4qd6UbzeCmImT4nWbtA) | [40](https://open.spotify.com/album/2I05gcZaTo8nNuUC6PSwnt) | 1:04 |
 | 8 | [ONE SECOND \(feat\. Yung Lean\)](https://open.spotify.com/track/5LbM875rIBmICYpvpqDtRU) | [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1), [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3) | [Cold Visions](https://open.spotify.com/album/5fjDXtY8tws1sbPFHw34pL) | 1:51 |
 | 9 | [VENUS](https://open.spotify.com/track/2uozsmBhvnNaRIFNgOB0E0) | [DC The Don](https://open.spotify.com/artist/3YYbAExunnHv5pW7GUZefk) | [VENUS](https://open.spotify.com/album/47A08e2HHoLNPnC80nxTae) | 3:16 |

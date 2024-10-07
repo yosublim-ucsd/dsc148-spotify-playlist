@@ -4,7 +4,7 @@
 
 > This is Pancho Barraza\. The essential tracks, all in one playlist.
 
-117 songs - 6 hr 39 min
+118 songs - 6 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [Poeta del Amor](https://open.spotify.com/track/3us0Mk89vSIIWzuowa9ieK) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [Diferente Nivel](https://open.spotify.com/artist/5dHdCFMXwl9JofjKjS1MW0) | [Poeta del Amor](https://open.spotify.com/album/1igXDXmd3Z4qH4amNvkSyN) | 4:01 | 2022-08-08 | 2023-02-11 |
 | [Polvo Y Nada](https://open.spotify.com/track/3hxmYDtf38nK7MLtbdaHFj) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [Grupo Codiciado](https://open.spotify.com/artist/4aWhlVjiUjYHpVWBPP8AFc) | [Polvo Y Nada](https://open.spotify.com/album/0tsv50A3ZdXC5EeohYYHag) | 3:34 | 2022-06-01 |  |
 | [Por Amor Y Fe](https://open.spotify.com/track/6VD5k9j9LmtxyK4BbrIOV7) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [El Vagabundo Que Te Ama](https://open.spotify.com/album/5ArPxAo4IyU0pEsCIZsg0F) | 3:33 | 2022-06-01 | 2024-09-16 |
+| [Por Amor Y Fe](https://open.spotify.com/track/7pP9uxNOKsS6pdueA278sq) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [El Vagabundo Que Te Ama](https://open.spotify.com/album/4aHIYnbJXldkqugU3YpRSs) | 3:33 | 2024-10-07 |  |
 | [Por Una Sonrisa](https://open.spotify.com/track/1Bbf3b3q6g8ycctLHCVDZA) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Lo Mejor De Mi Repertorio](https://open.spotify.com/album/3dEdr01jgZ35RTRKO3HEaR) | 3:01 | 2022-06-01 | 2023-08-22 |
 | [Porque](https://open.spotify.com/track/4hHLcpYdCXA9nlnES0gkA4) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [La Fuerza Del Amor](https://open.spotify.com/album/2B4Ry5xyWtrJeIj8JiqCmo) | 3:34 | 2022-06-01 | 2022-11-22 |
 | [Que Te Paso](https://open.spotify.com/track/5DsX6k1XSBuKj3GxHItIZV) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Mas Fuerte Que Nunca](https://open.spotify.com/album/7EQVo82zWf1HDubvJmdbEi) | 2:37 | 2022-06-01 | 2022-10-13 |
@@ -121,7 +122,7 @@
 | [Ya No Me Mires Así](https://open.spotify.com/track/4MclQTr97g6f3csmkk4G8N) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [Cuisillos De Arturo Macias](https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4) | [Ya No Me Mires Así](https://open.spotify.com/album/0rFMsPsBipWFCJ8GoNAh4I) | 3:08 | 2023-06-15 |  |
 | [Ya No Vives En Mí \(¿Cuál Adiós?\) \- Banda](https://open.spotify.com/track/2asLjAakW5V1kdgZnbf5UZ) | [Max Peraza](https://open.spotify.com/artist/40XLXsvXDPJuQ6adeK9zh7), [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Ya No Vives En Mí \(¿Cuál Adiós?\) \[Banda\]](https://open.spotify.com/album/6HFyobtjc5a3X80wLUjLu1) | 3:38 | 2022-06-01 |  |
 | [Ya Para Que \(Para Que\)](https://open.spotify.com/track/2PAo61DllW05LIFB5NPtCy) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Canción A Mi Esposa](https://open.spotify.com/album/71tWoppXnMo6QppOCPnucN) | 2:50 | 2022-06-04 | 2022-08-18 |
-| [Ya Se Fue](https://open.spotify.com/track/6neA2wcgD9CrHwsvKhGpqH) | [Miguel Y Miguel](https://open.spotify.com/artist/7fmQXLCgx5q0vkGArvS6mm), [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Aqui En El Rancho](https://open.spotify.com/album/3Vc8Qcv33FPblUCq9ZcHBg) | 3:20 | 2022-06-01 |  |
+| [Ya Se Fue](https://open.spotify.com/track/6neA2wcgD9CrHwsvKhGpqH) | [Miguel Y Miguel](https://open.spotify.com/artist/7fmQXLCgx5q0vkGArvS6mm), [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Aqui En El Rancho](https://open.spotify.com/album/3Vc8Qcv33FPblUCq9ZcHBg) | 3:20 | 2022-06-01 | 2024-10-07 |
 | [Ya Se Fue](https://open.spotify.com/track/0tP88lyRyCHHO3q8D8bRiG) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Mis 30 Aniversario, Vol\. 3](https://open.spotify.com/album/5kcO8OQj6dqVtTgg232WSU) | 3:21 | 2024-10-02 |  |
 | [Ya Se Fue](https://open.spotify.com/track/3hIFiQfRn4tOaIS6ePCNXr) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Ya Se Fue](https://open.spotify.com/album/5aX6a0wLRfsIPr8kvZ5S1k) | 3:21 | 2022-06-01 | 2024-10-02 |
 | [Yo Estaba Solo](https://open.spotify.com/track/4XcPwUTY31I4atXFTVE6XB) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Mas Fuerte Que Nunca](https://open.spotify.com/album/7EQVo82zWf1HDubvJmdbEi) | 3:11 | 2022-06-01 |  |

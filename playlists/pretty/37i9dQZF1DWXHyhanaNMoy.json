@@ -1,12 +1,12 @@
 {
   "description": "Motion en good vibes met Jinho 9 & Chivv",
-  "num_followers": 327663,
+  "num_followers": 327682,
   "original_name": "La Vida Loca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zv8T4AAAAABsu9XD1kAx68RAE+iJnQnC",
+  "snapshot_id": "ZwMIYAAAAACk3KFIizOm69fIl/7eAYgv",
   "tracks": [
     {
       "added_at": "2024-10-03 22:00:00",
@@ -35,6 +35,30 @@
     {
       "added_at": "2024-10-03 22:00:00",
       "album": {
+        "name": "Modeshow",
+        "url": "https://open.spotify.com/album/2trIJlIWZRxD3jJsPiRBlE"
+      },
+      "artists": [
+        {
+          "name": "Mensa",
+          "url": "https://open.spotify.com/artist/70SvhGqakpocD7GxVYnnBC"
+        },
+        {
+          "name": "SRNO",
+          "url": "https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q"
+        },
+        {
+          "name": "Milolaathetlukken",
+          "url": "https://open.spotify.com/artist/31RYhg7Auitqp3eg9rTB9i"
+        }
+      ],
+      "duration_ms": 147692,
+      "name": "Modeshow",
+      "url": "https://open.spotify.com/track/1HGov7XAwy9vx6upqGvPEc"
+    },
+    {
+      "added_at": "2024-10-03 22:00:00",
+      "album": {
         "name": "NASA",
         "url": "https://open.spotify.com/album/5s0omL2Uafv73Dx8OcT6vZ"
       },
@@ -47,6 +71,26 @@
       "duration_ms": 144675,
       "name": "NASA",
       "url": "https://open.spotify.com/track/0MDCA0Wky00TbO5yjCIZ38"
+    },
+    {
+      "added_at": "2024-10-03 22:00:00",
+      "album": {
+        "name": "JUDGEN",
+        "url": "https://open.spotify.com/album/7gxl8zmvNachXge4toNN0e"
+      },
+      "artists": [
+        {
+          "name": "Delany",
+          "url": "https://open.spotify.com/artist/1XTd9ZCFzkRPUoO9yHQAYP"
+        },
+        {
+          "name": "KM",
+          "url": "https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw"
+        }
+      ],
+      "duration_ms": 170031,
+      "name": "JUDGEN",
+      "url": "https://open.spotify.com/track/5CDn4HpxWhnesTPiDe1YS4"
     },
     {
       "added_at": "2024-10-03 22:00:00",
@@ -175,26 +219,6 @@
     {
       "added_at": "2024-10-03 22:00:00",
       "album": {
-        "name": "JUDGEN",
-        "url": "https://open.spotify.com/album/7gxl8zmvNachXge4toNN0e"
-      },
-      "artists": [
-        {
-          "name": "Delany",
-          "url": "https://open.spotify.com/artist/1XTd9ZCFzkRPUoO9yHQAYP"
-        },
-        {
-          "name": "KM",
-          "url": "https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw"
-        }
-      ],
-      "duration_ms": 170031,
-      "name": "JUDGEN",
-      "url": "https://open.spotify.com/track/5CDn4HpxWhnesTPiDe1YS4"
-    },
-    {
-      "added_at": "2024-10-03 22:00:00",
-      "album": {
         "name": "Nodig Had",
         "url": "https://open.spotify.com/album/0hz284KVYxj0HKubldUYim"
       },
@@ -227,30 +251,6 @@
       "duration_ms": 165978,
       "name": "SOIS PAS TIMIDE",
       "url": "https://open.spotify.com/track/37tGmKyKlr8vyt9BVdoWQo"
-    },
-    {
-      "added_at": "2024-10-03 22:00:00",
-      "album": {
-        "name": "Modeshow",
-        "url": "https://open.spotify.com/album/2trIJlIWZRxD3jJsPiRBlE"
-      },
-      "artists": [
-        {
-          "name": "Mensa",
-          "url": "https://open.spotify.com/artist/70SvhGqakpocD7GxVYnnBC"
-        },
-        {
-          "name": "SRNO",
-          "url": "https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q"
-        },
-        {
-          "name": "Milolaathetlukken",
-          "url": "https://open.spotify.com/artist/31RYhg7Auitqp3eg9rTB9i"
-        }
-      ],
-      "duration_ms": 147692,
-      "name": "Modeshow",
-      "url": "https://open.spotify.com/track/1HGov7XAwy9vx6upqGvPEc"
     },
     {
       "added_at": "2024-10-03 22:00:00",

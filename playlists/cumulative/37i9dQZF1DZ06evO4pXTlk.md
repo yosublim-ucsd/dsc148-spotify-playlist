@@ -2,7 +2,7 @@
 
 ### [This Is The XCERTS](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4pXTlk)
 
-> This is The XCERTS\. The essential tracks, all in one playlist.
+> This Is The XCERTS\. Los temas esenciales, todos en una lista.
 
 101 songs - 5 hr 38 min
 
@@ -49,7 +49,7 @@
 | [Hold on to Your Heart](https://open.spotify.com/track/6AZ94VHiLMNmtJGuIaKVyU) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [Hold on to Your Heart](https://open.spotify.com/album/0dUfvaLw6L22guWr1ldEr2) | 3:19 | 2023-09-25 |  |
 | [Home Versus Home](https://open.spotify.com/track/1xCHmRrMoqWgW3pMlyiJpR) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [In the Cold Wind We Smile \(10th Anniversary Edition\)](https://open.spotify.com/album/7KpMyE6xSVdRVdkIxSng5N) | 4:07 | 2022-09-16 |  |
 | [Home vs Home \- Blueskies Remix](https://open.spotify.com/track/5muEIkHoRmhgQEQTjOC1H4) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [Alcopopular, Vol\. 4 \(A Feast of Pop\)](https://open.spotify.com/album/0b0AYxMmxZhKvH6UuoGeOX) | 6:09 | 2022-09-16 | 2024-08-17 |
-| [Hurt with Me](https://open.spotify.com/track/1jyz1bZTmvO1bfBK3f8sWk) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [Scatterbrain](https://open.spotify.com/album/7qJcUjJEAzI5t3xdD496Ap) | 5:17 | 2022-09-25 |  |
+| [Hurt with Me](https://open.spotify.com/track/1jyz1bZTmvO1bfBK3f8sWk) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [Scatterbrain](https://open.spotify.com/album/7qJcUjJEAzI5t3xdD496Ap) | 5:17 | 2022-09-25 | 2024-10-07 |
 | [I Am Home](https://open.spotify.com/track/4kxZCCAbX5Rw0bKglRTSRI) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [Young \(Belane\)](https://open.spotify.com/album/5wEeKv902cFqUggE8dJ3ND) | 3:26 | 2022-09-18 | 2024-01-23 |
 | [I Don't Care](https://open.spotify.com/track/2Jt31docTzpsvfouRxEwoX) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [There Is Only You](https://open.spotify.com/album/1PVASk4Wj9YoOlllQgDUoL) | 3:52 | 2022-11-21 |  |
 | [I Don't Care](https://open.spotify.com/track/6GcSXnHXutP7pjnJIEclny) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [There Is Only You](https://open.spotify.com/album/0D8FcMKT9NRdJ2KoqSajEh) | 3:52 | 2022-09-16 | 2022-11-22 |
@@ -101,13 +101,13 @@
 | [The Dark](https://open.spotify.com/track/0dssgFX5eTaCA7TcSwgDII) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [Hold on to Your Heart](https://open.spotify.com/album/0dUfvaLw6L22guWr1ldEr2) | 2:58 | 2022-09-20 | 2023-04-22 |
 | [There Is Only You](https://open.spotify.com/track/0gnM4QIVLmjpNQcbYSnwsL) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [There Is Only You](https://open.spotify.com/album/0D8FcMKT9NRdJ2KoqSajEh) | 5:43 | 2022-09-16 | 2022-11-24 |
 | [There Is Only You](https://open.spotify.com/track/7aqRsbwlcDexjeRKdv6UGc) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [There Is Only You](https://open.spotify.com/album/1PVASk4Wj9YoOlllQgDUoL) | 5:43 | 2022-11-23 | 2024-10-03 |
-| [Waste Away \- Demo](https://open.spotify.com/track/6B8V4E3GXnLrmts6ZYIN1c) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [Live Like This](https://open.spotify.com/album/6aid0JJx7b8qP7kRNejoGd) | 3:08 | 2023-01-03 |  |
+| [Waste Away \- Demo](https://open.spotify.com/track/6B8V4E3GXnLrmts6ZYIN1c) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [Live Like This](https://open.spotify.com/album/6aid0JJx7b8qP7kRNejoGd) | 3:08 | 2023-01-03 | 2024-10-07 |
 | [We Are Gonna Live](https://open.spotify.com/track/4xecVWlowXeLZXxGZ3eeBS) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [Hold on to Your Heart](https://open.spotify.com/album/0dUfvaLw6L22guWr1ldEr2) | 3:34 | 2022-09-16 |  |
 | [We Built This City](https://open.spotify.com/track/6uGax7tGLYcmZ0Nk12eO9a) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [We Built This City](https://open.spotify.com/album/25XwdliNAo6VrO7J2U2GxJ) | 3:55 | 2022-09-16 |  |
 | [Weather Warning](https://open.spotify.com/track/7brYfjNrouDl1WtqLxQP9s) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [Weather Warning](https://open.spotify.com/album/7BmVhPGyq2fG5Cg0Y1v4VF) | 4:10 | 2022-09-16 |  |
 | [Wish](https://open.spotify.com/track/17khGlqpVrfpmUjhzSQfk6) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [I Don’t Care EP](https://open.spotify.com/album/0BVxSZ5OzOX0R4zgCJmmeW) | 4:05 | 2022-09-16 | 2022-11-21 |
 | [Wish](https://open.spotify.com/track/4eynH9mNWCPMAmFujU8Qyy) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [I Don't Care EP](https://open.spotify.com/album/5vWXHtJ5HbfIBKzwQv0wqk) | 4:05 | 2022-11-20 | 2024-03-08 |
 | [You Mean Everything](https://open.spotify.com/track/5AbVoazHJjVZvRBekq3BhI) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [You Mean Everything](https://open.spotify.com/album/4clkcMkCg0FE8HizG0CE8K) | 3:52 | 2022-09-16 |  |
-| [Young \(Belane\)](https://open.spotify.com/track/6O3tpTZNeD4v0VEUvaBwSZ) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [Scatterbrain](https://open.spotify.com/album/7qJcUjJEAzI5t3xdD496Ap) | 3:33 | 2022-09-16 | 2024-10-05 |
+| [Young \(Belane\)](https://open.spotify.com/track/6O3tpTZNeD4v0VEUvaBwSZ) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [Scatterbrain](https://open.spotify.com/album/7qJcUjJEAzI5t3xdD496Ap) | 3:33 | 2022-09-16 |  |
 
 \*This playlist was first scraped on 2022-09-17. Prior content cannot be recovered.

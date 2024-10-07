@@ -1,12 +1,12 @@
 {
   "description": "This is Steven Price. The essential tracks, all in one playlist.",
-  "num_followers": 1307,
+  "num_followers": 1308,
   "original_name": "This Is Steven Price",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zv3egAAAAADyYceH09Mx865/ttTcwQu3",
+  "snapshot_id": "ZwCBgAAAAAB9lKYw+RvgMV8ih5ENsnW+",
   "tracks": [
     {
       "added_at": null,
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
         }
       ],
-      "duration_ms": 110906,
-      "name": "Fury Drives Into Camp",
-      "url": "https://open.spotify.com/track/2NXeTH7dHhHP1HaO8plidQ"
+      "duration_ms": 223453,
+      "name": "This Is My Home",
+      "url": "https://open.spotify.com/track/3idWon2PSx8X7LE31Lzagp"
     },
     {
       "added_at": null,
@@ -348,9 +348,9 @@
           "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
         }
       ],
-      "duration_ms": 223453,
-      "name": "This Is My Home",
-      "url": "https://open.spotify.com/track/3idWon2PSx8X7LE31Lzagp"
+      "duration_ms": 110906,
+      "name": "Fury Drives Into Camp",
+      "url": "https://open.spotify.com/track/2NXeTH7dHhHP1HaO8plidQ"
     },
     {
       "added_at": null,
@@ -380,9 +380,9 @@
           "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
         }
       ],
-      "duration_ms": 99546,
-      "name": "Nighttime Conversation",
-      "url": "https://open.spotify.com/track/0kespT2GP46VLQ9DmEDQxy"
+      "duration_ms": 166986,
+      "name": "Family Invasion",
+      "url": "https://open.spotify.com/track/4JzWKzahqQ0NSgRajrby9H"
     },
     {
       "added_at": null,
@@ -419,38 +419,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ophelia (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3GaSOBK5YSTetHhRUkKuZS"
-      },
-      "artists": [
-        {
-          "name": "Steven Price",
-          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
-        }
-      ],
-      "duration_ms": 190840,
-      "name": "My Beloved Spake",
-      "url": "https://open.spotify.com/track/47H8iYq8d9XQLJAJ4EwNlg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Over the Moon (Music from the Netflix Film)",
-        "url": "https://open.spotify.com/album/3Bx1Oe2Umw0n4tNbIpO1aD"
-      },
-      "artists": [
-        {
-          "name": "Steven Price",
-          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
-        }
-      ],
-      "duration_ms": 166986,
-      "name": "Family Invasion",
-      "url": "https://open.spotify.com/track/4JzWKzahqQ0NSgRajrby9H"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Coastal Seas (Episode 4 / Soundtrack From The Netflix Original Series \"Our Planet\")",
         "url": "https://open.spotify.com/album/4pYjqXbSvwfKQ8l04afE5h"
       },
@@ -467,38 +435,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "David Attenborough: A Life On Our Planet (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5IbnuKQzkuw6sxS8CeMzl8"
-      },
-      "artists": [
-        {
-          "name": "Steven Price",
-          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
-        }
-      ],
-      "duration_ms": 175880,
-      "name": "The Process of Extinctions",
-      "url": "https://open.spotify.com/track/0CGFoSLihWAehdjHM8mttL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Frozen Worlds (Episode 2 / Soundtrack From The Netflix Original Series \"Our Planet\")",
-        "url": "https://open.spotify.com/album/2gBuDLdhHYAnEW7zPhinAq"
-      },
-      "artists": [
-        {
-          "name": "Steven Price",
-          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
-        }
-      ],
-      "duration_ms": 81145,
-      "name": "How Much Longer",
-      "url": "https://open.spotify.com/track/6CqliIhdxAlkygI3MAPEWJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Over the Moon (Music from the Netflix Film)",
         "url": "https://open.spotify.com/album/3Bx1Oe2Umw0n4tNbIpO1aD"
       },
@@ -508,25 +444,9 @@
           "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
         }
       ],
-      "duration_ms": 98293,
-      "name": "This Road is a Suicide Mission",
-      "url": "https://open.spotify.com/track/15Vk6UHrHlpCpgwqhSQN7d"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dolphin Reef (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/15xV7Ooj6ZlS9j50gxp4QN"
-      },
-      "artists": [
-        {
-          "name": "Steven Price",
-          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
-        }
-      ],
-      "duration_ms": 170253,
-      "name": "Echo Fires Up Another",
-      "url": "https://open.spotify.com/track/3HEWJvTzezpFpIAzqOqmuE"
+      "duration_ms": 99546,
+      "name": "Nighttime Conversation",
+      "url": "https://open.spotify.com/track/0kespT2GP46VLQ9DmEDQxy"
     },
     {
       "added_at": null,
@@ -547,6 +467,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ophelia (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3GaSOBK5YSTetHhRUkKuZS"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "duration_ms": 190840,
+      "name": "My Beloved Spake",
+      "url": "https://open.spotify.com/track/47H8iYq8d9XQLJAJ4EwNlg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Aeronauts (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/56C4vWYQdngTpCxTEdRcFE"
       },
@@ -563,6 +499,54 @@
     {
       "added_at": null,
       "album": {
+        "name": "Over the Moon (Music from the Netflix Film)",
+        "url": "https://open.spotify.com/album/3Bx1Oe2Umw0n4tNbIpO1aD"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "duration_ms": 98293,
+      "name": "This Road is a Suicide Mission",
+      "url": "https://open.spotify.com/track/15Vk6UHrHlpCpgwqhSQN7d"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "David Attenborough: A Life On Our Planet (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5IbnuKQzkuw6sxS8CeMzl8"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "duration_ms": 175880,
+      "name": "The Process of Extinctions",
+      "url": "https://open.spotify.com/track/0CGFoSLihWAehdjHM8mttL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dolphin Reef (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/15xV7Ooj6ZlS9j50gxp4QN"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "duration_ms": 170253,
+      "name": "Echo Fires Up Another",
+      "url": "https://open.spotify.com/track/3HEWJvTzezpFpIAzqOqmuE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ophelia (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3GaSOBK5YSTetHhRUkKuZS"
       },
@@ -572,15 +556,15 @@
           "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
         }
       ],
-      "duration_ms": 421893,
-      "name": "To Lose Himself in Vengeance",
-      "url": "https://open.spotify.com/track/7yZWl27qFbjZ8C7GKCSl0s"
+      "duration_ms": 102080,
+      "name": "Who Are You Greeting My Love?",
+      "url": "https://open.spotify.com/track/0lriDhntmhaNxJyHC8ji4Q"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Gravity (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/74wV2lmFaeLdSny2CU7EQw"
+        "name": "Frozen Worlds (Episode 2 / Soundtrack From The Netflix Original Series \"Our Planet\")",
+        "url": "https://open.spotify.com/album/2gBuDLdhHYAnEW7zPhinAq"
       },
       "artists": [
         {
@@ -588,9 +572,9 @@
           "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
         }
       ],
-      "duration_ms": 173346,
-      "name": "ISS",
-      "url": "https://open.spotify.com/track/73zoZwGgo5COLshBxDQruY"
+      "duration_ms": 81145,
+      "name": "How Much Longer",
+      "url": "https://open.spotify.com/track/6CqliIhdxAlkygI3MAPEWJ"
     },
     {
       "added_at": null,
@@ -636,9 +620,9 @@
           "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
         }
       ],
-      "duration_ms": 66280,
-      "name": "Beauty Turns Men to Beasts",
-      "url": "https://open.spotify.com/track/26iEiBk4vHSnGGqL0KiuBu"
+      "duration_ms": 421893,
+      "name": "To Lose Himself in Vengeance",
+      "url": "https://open.spotify.com/track/7yZWl27qFbjZ8C7GKCSl0s"
     },
     {
       "added_at": null,
@@ -700,49 +684,41 @@
           "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
         }
       ],
-      "duration_ms": 102080,
-      "name": "Who Are You Greeting My Love?",
-      "url": "https://open.spotify.com/track/0lriDhntmhaNxJyHC8ji4Q"
+      "duration_ms": 66280,
+      "name": "Beauty Turns Men to Beasts",
+      "url": "https://open.spotify.com/track/26iEiBk4vHSnGGqL0KiuBu"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Last Night In Soho (Original Motion Picture Score)",
-        "url": "https://open.spotify.com/album/4Mnn0ufXhd94rvmMLRyTlL"
-      },
-      "artists": [
-        {
-          "name": "Anya Taylor-Joy",
-          "url": "https://open.spotify.com/artist/5RAMfpOCoBthlipim1IaUa"
-        },
-        {
-          "name": "Steven Price",
-          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
-        }
-      ],
-      "duration_ms": 138373,
-      "name": "You're My World - Soho Version",
-      "url": "https://open.spotify.com/track/1YEhtRxWc1BiHh3Xt0fXJW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "David Attenborough: A Life On Our Planet (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5IbnuKQzkuw6sxS8CeMzl8"
+        "name": "Gravity (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/74wV2lmFaeLdSny2CU7EQw"
       },
       "artists": [
         {
           "name": "Steven Price",
           "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
-        },
-        {
-          "name": "David Attenborough",
-          "url": "https://open.spotify.com/artist/4QJpMVEZA1B0MkdW0jDMX4"
         }
       ],
-      "duration_ms": 155306,
-      "name": "This Is My Witness Statement",
-      "url": "https://open.spotify.com/track/1WIx5473piMKVOJ7ZD3fdZ"
+      "duration_ms": 102920,
+      "name": "Soyuz",
+      "url": "https://open.spotify.com/track/1k6X3Rug5zeeKBXxIg8prc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "American Assassin (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/71nx6a8VGUK8DYjnnXLc5d"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "duration_ms": 273720,
+      "name": "Katrina",
+      "url": "https://open.spotify.com/track/7JX0mO2TxdRphLAS6cRBud"
     },
     {
       "added_at": null,
@@ -763,18 +739,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "American Assassin (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/71nx6a8VGUK8DYjnnXLc5d"
+        "name": "Last Night In Soho (Original Motion Picture Score)",
+        "url": "https://open.spotify.com/album/4Mnn0ufXhd94rvmMLRyTlL"
       },
       "artists": [
+        {
+          "name": "Anya Taylor-Joy",
+          "url": "https://open.spotify.com/artist/5RAMfpOCoBthlipim1IaUa"
+        },
         {
           "name": "Steven Price",
           "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
         }
       ],
-      "duration_ms": 273720,
-      "name": "Katrina",
-      "url": "https://open.spotify.com/track/7JX0mO2TxdRphLAS6cRBud"
+      "duration_ms": 138373,
+      "name": "You're My World - Soho Version",
+      "url": "https://open.spotify.com/track/1YEhtRxWc1BiHh3Xt0fXJW"
     },
     {
       "added_at": null,
@@ -802,17 +782,21 @@
         {
           "name": "Steven Price",
           "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        },
+        {
+          "name": "David Attenborough",
+          "url": "https://open.spotify.com/artist/4QJpMVEZA1B0MkdW0jDMX4"
         }
       ],
-      "duration_ms": 132013,
-      "name": "Nothing To Stop Us",
-      "url": "https://open.spotify.com/track/6OBrG19AuVOmrFonog79re"
+      "duration_ms": 155306,
+      "name": "This Is My Witness Statement",
+      "url": "https://open.spotify.com/track/1WIx5473piMKVOJ7ZD3fdZ"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Remember When We Said Goodbye (From the Netflix Film \"Over the Moon\")",
-        "url": "https://open.spotify.com/album/07eHCynOTkf1K3FocJLxP2"
+        "name": "Dolphin Reef (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/15xV7Ooj6ZlS9j50gxp4QN"
       },
       "artists": [
         {
@@ -820,9 +804,25 @@
           "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
         }
       ],
-      "duration_ms": 207306,
-      "name": "Remember When We Said Goodbye (From the Netflix Film \"Over the Moon\")",
-      "url": "https://open.spotify.com/track/3ZTy9uTIcCgld86aVuuHe4"
+      "duration_ms": 212453,
+      "name": "Flook",
+      "url": "https://open.spotify.com/track/71I9kSO11dSWteAgNKuqTB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "David Attenborough: A Life On Our Planet (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5IbnuKQzkuw6sxS8CeMzl8"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "duration_ms": 132013,
+      "name": "Nothing To Stop Us",
+      "url": "https://open.spotify.com/track/6OBrG19AuVOmrFonog79re"
     }
   ],
   "unique_name": "This Is Steven Price",

@@ -1,6 +1,6 @@
 {
   "description": "El futuro est\u00e1 ac\u00e1. Conoce a la Generaci\u00f3n 2024 de RADAR M\u00e9xico. CHOCA en portada.",
-  "num_followers": 86010,
+  "num_followers": 86031,
   "original_name": "RADAR M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -8,26 +8,6 @@
   },
   "snapshot_id": "ZqO5AQAAAAABKSMEjKhC7AKB1NQeQNIT",
   "tracks": [
-    {
-      "added_at": "2024-07-26 14:56:01",
-      "album": {
-        "name": "Coraz\u00f3n Fr\u00edo",
-        "url": "https://open.spotify.com/album/7aC9iMxYc7mHTN3mJWZFc1"
-      },
-      "artists": [
-        {
-          "name": "Jasiel Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
-        },
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        }
-      ],
-      "duration_ms": 263810,
-      "name": "Coraz\u00f3n Fr\u00edo",
-      "url": "https://open.spotify.com/track/0KSwFEkVh0KCBR0TwqBVen"
-    },
     {
       "added_at": "2024-07-26 14:56:01",
       "album": {
@@ -47,6 +27,26 @@
       "duration_ms": 169440,
       "name": "FIRST LOVE",
       "url": "https://open.spotify.com/track/3QQAeMQbbjZXVFbF8DgFWT"
+    },
+    {
+      "added_at": "2024-07-26 14:56:01",
+      "album": {
+        "name": "Coraz\u00f3n Fr\u00edo",
+        "url": "https://open.spotify.com/album/7aC9iMxYc7mHTN3mJWZFc1"
+      },
+      "artists": [
+        {
+          "name": "Jasiel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+        },
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "duration_ms": 263810,
+      "name": "Coraz\u00f3n Fr\u00edo",
+      "url": "https://open.spotify.com/track/0KSwFEkVh0KCBR0TwqBVen"
     },
     {
       "added_at": "2024-07-26 14:56:01",
@@ -239,22 +239,6 @@
     {
       "added_at": "2024-07-26 14:56:01",
       "album": {
-        "name": "Lo Que La Gente Estaba Esperando",
-        "url": "https://open.spotify.com/album/5dvRYXt7xSY8EDSlvnWtAm"
-      },
-      "artists": [
-        {
-          "name": "Herencia De Grandes",
-          "url": "https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz"
-        }
-      ],
-      "duration_ms": 166229,
-      "name": "Hasta la Ra\u00edz",
-      "url": "https://open.spotify.com/track/4Bo8GqM6x6D1J3CsIjQJBl"
-    },
-    {
-      "added_at": "2024-07-26 14:56:01",
-      "album": {
         "name": "Te Perdonar\u00eda",
         "url": "https://open.spotify.com/album/6L8a3pdMbTjgHWluN2TLdz"
       },
@@ -275,18 +259,18 @@
     {
       "added_at": "2024-07-26 14:56:01",
       "album": {
-        "name": "No Es Mentira (Version Norte\u00f1a)",
-        "url": "https://open.spotify.com/album/35qR2ZIduAuMTDDw3KAB69"
+        "name": "Lo Que La Gente Estaba Esperando",
+        "url": "https://open.spotify.com/album/5dvRYXt7xSY8EDSlvnWtAm"
       },
       "artists": [
         {
-          "name": "Los Primos del Este",
-          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+          "name": "Herencia De Grandes",
+          "url": "https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz"
         }
       ],
-      "duration_ms": 200061,
-      "name": "No Es Mentira (Version Norte\u00f1a)",
-      "url": "https://open.spotify.com/track/0dWSN9JS8vAcnM8a6lxIrB"
+      "duration_ms": 166229,
+      "name": "Hasta la Ra\u00edz",
+      "url": "https://open.spotify.com/track/4Bo8GqM6x6D1J3CsIjQJBl"
     },
     {
       "added_at": "2024-07-26 14:56:01",
@@ -311,18 +295,18 @@
     {
       "added_at": "2024-07-26 14:56:01",
       "album": {
-        "name": "Las Ligas Menores",
-        "url": "https://open.spotify.com/album/3uo5La74eGmsUeXJdRRO3g"
+        "name": "No Es Mentira (Version Norte\u00f1a)",
+        "url": "https://open.spotify.com/album/35qR2ZIduAuMTDDw3KAB69"
       },
       "artists": [
         {
-          "name": "Las Ligas Menores",
-          "url": "https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf"
+          "name": "Los Primos del Este",
+          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
         }
       ],
-      "duration_ms": 145239,
-      "name": "Accidente",
-      "url": "https://open.spotify.com/track/55xFPGknQ0zQluwBmf2nVm"
+      "duration_ms": 200061,
+      "name": "No Es Mentira (Version Norte\u00f1a)",
+      "url": "https://open.spotify.com/track/0dWSN9JS8vAcnM8a6lxIrB"
     },
     {
       "added_at": "2024-07-26 14:56:01",
@@ -343,22 +327,18 @@
     {
       "added_at": "2024-07-26 14:56:01",
       "album": {
-        "name": "La Mamoncita del Insta",
-        "url": "https://open.spotify.com/album/4bzLOdILYkhPvhrErSjLxn"
+        "name": "Las Ligas Menores",
+        "url": "https://open.spotify.com/album/3uo5La74eGmsUeXJdRRO3g"
       },
       "artists": [
         {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+          "name": "Las Ligas Menores",
+          "url": "https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf"
         }
       ],
-      "duration_ms": 193193,
-      "name": "La Mamoncita del Insta",
-      "url": "https://open.spotify.com/track/4Dg3WEqGpBbSu4EKjudiwV"
+      "duration_ms": 145239,
+      "name": "Accidente",
+      "url": "https://open.spotify.com/track/55xFPGknQ0zQluwBmf2nVm"
     },
     {
       "added_at": "2024-07-26 14:56:01",
@@ -395,6 +375,26 @@
       "duration_ms": 175804,
       "name": "Moda",
       "url": "https://open.spotify.com/track/3y7SyqSwwDm8Ku6v3ZfQDf"
+    },
+    {
+      "added_at": "2024-07-26 14:56:01",
+      "album": {
+        "name": "La Mamoncita del Insta",
+        "url": "https://open.spotify.com/album/4bzLOdILYkhPvhrErSjLxn"
+      },
+      "artists": [
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 193193,
+      "name": "La Mamoncita del Insta",
+      "url": "https://open.spotify.com/track/4Dg3WEqGpBbSu4EKjudiwV"
     },
     {
       "added_at": "2024-07-26 14:56:01",
@@ -595,22 +595,6 @@
     {
       "added_at": "2024-07-26 14:56:01",
       "album": {
-        "name": "Punto y Aparte",
-        "url": "https://open.spotify.com/album/7Gz10vsu3ws0QRJpAHpuL0"
-      },
-      "artists": [
-        {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
-        }
-      ],
-      "duration_ms": 158918,
-      "name": "Punto y Aparte",
-      "url": "https://open.spotify.com/track/7z2Z8mwfsoMnNArKB946gU"
-    },
-    {
-      "added_at": "2024-07-26 14:56:01",
-      "album": {
         "name": "c\u00f3mo dormiste?",
         "url": "https://open.spotify.com/album/02HbzA9lAQTVWuLvaYuSj8"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 194896,
       "name": "MONEY",
       "url": "https://open.spotify.com/track/3ttIVj1N3d6hV8t0UL2Mjo"
+    },
+    {
+      "added_at": "2024-07-26 14:56:01",
+      "album": {
+        "name": "Punto y Aparte",
+        "url": "https://open.spotify.com/album/7Gz10vsu3ws0QRJpAHpuL0"
+      },
+      "artists": [
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "duration_ms": 158918,
+      "name": "Punto y Aparte",
+      "url": "https://open.spotify.com/track/7z2Z8mwfsoMnNArKB946gU"
     },
     {
       "added_at": "2024-07-26 14:56:01",
@@ -779,6 +779,22 @@
     {
       "added_at": "2024-07-26 14:56:01",
       "album": {
+        "name": "ERROR",
+        "url": "https://open.spotify.com/album/0el7KHRPZwYXPwXNeSNdJB"
+      },
+      "artists": [
+        {
+          "name": "The Warning",
+          "url": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh"
+        }
+      ],
+      "duration_ms": 231854,
+      "name": "CHOKE",
+      "url": "https://open.spotify.com/track/1GQv9r0tn00ZfHTw92jAcW"
+    },
+    {
+      "added_at": "2024-07-26 14:56:01",
+      "album": {
         "name": "Don Nadie",
         "url": "https://open.spotify.com/album/2dGgRCiflxlEnLXADfuD0A"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 191259,
       "name": "Don Nadie",
       "url": "https://open.spotify.com/track/5BhW3x0tZWGSwCPzjwVA1Q"
-    },
-    {
-      "added_at": "2024-07-26 14:56:01",
-      "album": {
-        "name": "ERROR",
-        "url": "https://open.spotify.com/album/0el7KHRPZwYXPwXNeSNdJB"
-      },
-      "artists": [
-        {
-          "name": "The Warning",
-          "url": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh"
-        }
-      ],
-      "duration_ms": 231854,
-      "name": "CHOKE",
-      "url": "https://open.spotify.com/track/1GQv9r0tn00ZfHTw92jAcW"
     },
     {
       "added_at": "2024-07-26 14:56:01",
@@ -883,38 +883,6 @@
     {
       "added_at": "2024-07-26 14:56:01",
       "album": {
-        "name": "Hell You Call A Dream / Qu\u00e9 M\u00e1s Quieres",
-        "url": "https://open.spotify.com/album/0tkvYVQovNWfCE5tf1Viir"
-      },
-      "artists": [
-        {
-          "name": "The Warning",
-          "url": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh"
-        }
-      ],
-      "duration_ms": 176066,
-      "name": "Hell You Call A Dream",
-      "url": "https://open.spotify.com/track/3LwBBAvEa9qhajKoHlJi4z"
-    },
-    {
-      "added_at": "2024-07-26 14:56:01",
-      "album": {
-        "name": "Modelo",
-        "url": "https://open.spotify.com/album/52nBpElr412dXlW6NU4aEV"
-      },
-      "artists": [
-        {
-          "name": "Delilah",
-          "url": "https://open.spotify.com/artist/5O2rJN2gJncIfM5iNSNiYR"
-        }
-      ],
-      "duration_ms": 265561,
-      "name": "Modelo",
-      "url": "https://open.spotify.com/track/6OjCTg9h09B7bv7lIZnBLJ"
-    },
-    {
-      "added_at": "2024-07-26 14:56:01",
-      "album": {
         "name": "ANTRO FRESXN (REMIX)",
         "url": "https://open.spotify.com/album/2SJ9doitKEehFZsGialx8K"
       },
@@ -931,26 +899,6 @@
       "duration_ms": 145281,
       "name": "ANTRO FRESXN (REMIX)",
       "url": "https://open.spotify.com/track/1OIki4kfFtruhem0MJpPJz"
-    },
-    {
-      "added_at": "2024-07-26 14:56:01",
-      "album": {
-        "name": "La Casa Siempre Gana",
-        "url": "https://open.spotify.com/album/31oOPZAiF6li1JmSWR5HJC"
-      },
-      "artists": [
-        {
-          "name": "Ysrael Barajas",
-          "url": "https://open.spotify.com/artist/1KUm2LsC3HnPKHvIoo4cKu"
-        },
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        }
-      ],
-      "duration_ms": 140820,
-      "name": "GPI - Remix",
-      "url": "https://open.spotify.com/track/6BdDkDR0J0VSEZr7hGX1nv"
     },
     {
       "added_at": "2024-07-26 14:56:01",
@@ -991,6 +939,58 @@
     {
       "added_at": "2024-07-26 14:56:01",
       "album": {
+        "name": "La Casa Siempre Gana",
+        "url": "https://open.spotify.com/album/31oOPZAiF6li1JmSWR5HJC"
+      },
+      "artists": [
+        {
+          "name": "Ysrael Barajas",
+          "url": "https://open.spotify.com/artist/1KUm2LsC3HnPKHvIoo4cKu"
+        },
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        }
+      ],
+      "duration_ms": 140820,
+      "name": "GPI - Remix",
+      "url": "https://open.spotify.com/track/6BdDkDR0J0VSEZr7hGX1nv"
+    },
+    {
+      "added_at": "2024-07-26 14:56:01",
+      "album": {
+        "name": "Hell You Call A Dream / Qu\u00e9 M\u00e1s Quieres",
+        "url": "https://open.spotify.com/album/0tkvYVQovNWfCE5tf1Viir"
+      },
+      "artists": [
+        {
+          "name": "The Warning",
+          "url": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh"
+        }
+      ],
+      "duration_ms": 176066,
+      "name": "Hell You Call A Dream",
+      "url": "https://open.spotify.com/track/3LwBBAvEa9qhajKoHlJi4z"
+    },
+    {
+      "added_at": "2024-07-26 14:56:01",
+      "album": {
+        "name": "Modelo",
+        "url": "https://open.spotify.com/album/52nBpElr412dXlW6NU4aEV"
+      },
+      "artists": [
+        {
+          "name": "Delilah",
+          "url": "https://open.spotify.com/artist/5O2rJN2gJncIfM5iNSNiYR"
+        }
+      ],
+      "duration_ms": 265561,
+      "name": "Modelo",
+      "url": "https://open.spotify.com/track/6OjCTg9h09B7bv7lIZnBLJ"
+    },
+    {
+      "added_at": "2024-07-26 14:56:01",
+      "album": {
         "name": "DAIKIRI CON FRESA",
         "url": "https://open.spotify.com/album/2pJHyWYo2H2sCbo8WuF3VH"
       },
@@ -1007,22 +1007,6 @@
       "duration_ms": 199913,
       "name": "DAIKIRI CON FRESA",
       "url": "https://open.spotify.com/track/6eNRxXpnpXqvhKHUaCUng9"
-    },
-    {
-      "added_at": "2024-07-26 14:56:01",
-      "album": {
-        "name": "Amor Perdido",
-        "url": "https://open.spotify.com/album/0wkmxDVy1AGPQojmbx8Qb1"
-      },
-      "artists": [
-        {
-          "name": "Delilah",
-          "url": "https://open.spotify.com/artist/5O2rJN2gJncIfM5iNSNiYR"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Amor Perdido",
-      "url": "https://open.spotify.com/track/0uMODzvm9Pdz9YVrVhWIBe"
     },
     {
       "added_at": "2024-07-26 14:56:01",
@@ -1063,22 +1047,6 @@
     {
       "added_at": "2024-07-26 14:56:01",
       "album": {
-        "name": "Hell You Call A Dream / Qu\u00e9 M\u00e1s Quieres",
-        "url": "https://open.spotify.com/album/0tkvYVQovNWfCE5tf1Viir"
-      },
-      "artists": [
-        {
-          "name": "The Warning",
-          "url": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh"
-        }
-      ],
-      "duration_ms": 184771,
-      "name": "Qu\u00e9 M\u00e1s Quieres",
-      "url": "https://open.spotify.com/track/41hP8Zj09hdeQywGGIcXxA"
-    },
-    {
-      "added_at": "2024-07-26 14:56:01",
-      "album": {
         "name": "Armaggedon",
         "url": "https://open.spotify.com/album/2AP8H2csmGXSfUNov9ek6y"
       },
@@ -1107,6 +1075,22 @@
       "duration_ms": 203906,
       "name": "Astros",
       "url": "https://open.spotify.com/track/0EHjeBjck1oNsCoKixkTlt"
+    },
+    {
+      "added_at": "2024-07-26 14:56:01",
+      "album": {
+        "name": "Amor Perdido",
+        "url": "https://open.spotify.com/album/0wkmxDVy1AGPQojmbx8Qb1"
+      },
+      "artists": [
+        {
+          "name": "Delilah",
+          "url": "https://open.spotify.com/artist/5O2rJN2gJncIfM5iNSNiYR"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Amor Perdido",
+      "url": "https://open.spotify.com/track/0uMODzvm9Pdz9YVrVhWIBe"
     },
     {
       "added_at": "2024-07-26 14:56:01",
@@ -1147,6 +1131,22 @@
       "duration_ms": 151836,
       "name": "Bebe Ricota",
       "url": "https://open.spotify.com/track/2OMVAiPhQxHuoehgbeJ6oP"
+    },
+    {
+      "added_at": "2024-07-26 14:56:01",
+      "album": {
+        "name": "Hell You Call A Dream / Qu\u00e9 M\u00e1s Quieres",
+        "url": "https://open.spotify.com/album/0tkvYVQovNWfCE5tf1Viir"
+      },
+      "artists": [
+        {
+          "name": "The Warning",
+          "url": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh"
+        }
+      ],
+      "duration_ms": 184771,
+      "name": "Qu\u00e9 M\u00e1s Quieres",
+      "url": "https://open.spotify.com/track/41hP8Zj09hdeQywGGIcXxA"
     },
     {
       "added_at": "2024-07-26 14:56:01",
@@ -1199,6 +1199,30 @@
       "duration_ms": 296965,
       "name": "Vampiro",
       "url": "https://open.spotify.com/track/11Jqdw6vMwgUZQF9w1wqzJ"
+    },
+    {
+      "added_at": "2024-07-26 14:56:01",
+      "album": {
+        "name": "Barby Bellaka",
+        "url": "https://open.spotify.com/album/1MvKvhWkQ942ln0WbWz3PR"
+      },
+      "artists": [
+        {
+          "name": "CHOCA",
+          "url": "https://open.spotify.com/artist/2hdJKv9q3XQbDBu7NTu8hk"
+        },
+        {
+          "name": "Dj Rockwel Mx",
+          "url": "https://open.spotify.com/artist/2eobLT6bmdvl5yGG5qPAgd"
+        },
+        {
+          "name": "Dj Kiire",
+          "url": "https://open.spotify.com/artist/1jwYIyylx1XF15nbiPtLdu"
+        }
+      ],
+      "duration_ms": 162493,
+      "name": "Barby Bellaka",
+      "url": "https://open.spotify.com/track/0lElx1mc1PV0oZYlCRehU9"
     },
     {
       "added_at": "2024-07-26 14:56:01",
@@ -1299,30 +1323,6 @@
       "duration_ms": 232820,
       "name": "Aqui Ando En El Caloron - En Vivo",
       "url": "https://open.spotify.com/track/6iWEkJ9tItZaAj4ezqswrl"
-    },
-    {
-      "added_at": "2024-07-26 14:56:01",
-      "album": {
-        "name": "Barby Bellaka",
-        "url": "https://open.spotify.com/album/1MvKvhWkQ942ln0WbWz3PR"
-      },
-      "artists": [
-        {
-          "name": "CHOCA",
-          "url": "https://open.spotify.com/artist/2hdJKv9q3XQbDBu7NTu8hk"
-        },
-        {
-          "name": "Dj Rockwel Mx",
-          "url": "https://open.spotify.com/artist/2eobLT6bmdvl5yGG5qPAgd"
-        },
-        {
-          "name": "Dj Kiire",
-          "url": "https://open.spotify.com/artist/1jwYIyylx1XF15nbiPtLdu"
-        }
-      ],
-      "duration_ms": 162493,
-      "name": "Barby Bellaka",
-      "url": "https://open.spotify.com/track/0lElx1mc1PV0oZYlCRehU9"
     },
     {
       "added_at": "2024-07-26 14:56:01",

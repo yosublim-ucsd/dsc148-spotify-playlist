@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Shablo, Izi, Joshua, Villabanks, Baby Gang e tanti altri! 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,328 likes - 90 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,342 likes - 90 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 53 | [NELLA TOMBA \(feat\. Rasty Kilo & Mothz\)](https://open.spotify.com/track/4M7Na2TnUiIgLI2inQebQG) | [Real Talk](https://open.spotify.com/artist/7MeFbKQT6w9iBMLuHmzVVW), [Rasty Kilo](https://open.spotify.com/artist/0W7yEx7tCUH0FGMHB3DUL8), [Mothz](https://open.spotify.com/artist/5lrXmCL7NuAEVJDfhIJtsu) | [EP 6/5 \(feat\. Rasty Kilo\)](https://open.spotify.com/album/7GY9SuzGvGuIxJFzvmZfno) | 2:04 |
 | 54 | [Musica Eterna](https://open.spotify.com/track/00pexE2KgswYccTNhXuVR2) | [Grido](https://open.spotify.com/artist/1JJHJjfuaPy3SMPnUHWedm), [Clementino](https://open.spotify.com/artist/0ba6wsfB7G2rhdHMebCdO3) | [Musica Eterna](https://open.spotify.com/album/5ritGnvfEDvOGq3Tu3aadT) | 3:23 |
 | 55 | [Scammer](https://open.spotify.com/track/11XWUi1Tne1UgmCNxAZPwY) | [MBOSS](https://open.spotify.com/artist/5IHqA6YzPMGrf9CDjly4az) | [Scammer](https://open.spotify.com/album/6FgoIA49H1lM46NqAw355Q) | 3:16 |
-| 56 | [STATES](https://open.spotify.com/track/3zJKhswWqb3ZhCBwPObHG8) | [Lopez](https://open.spotify.com/artist/4dTHNdDdZxrkrGKYa7wzvm), [PassiønFruït](https://open.spotify.com/artist/4sQK404BlTYFhOHqidRb8t) | [STATES](https://open.spotify.com/album/3nY5b9w8aESg23Sz7rV1hR) | 2:38 |
+| 56 | [STATES](https://open.spotify.com/track/3zJKhswWqb3ZhCBwPObHG8) | [Lopez](https://open.spotify.com/artist/4dTHNdDdZxrkrGKYa7wzvm), [PassiønFruït](https://open.spotify.com/artist/4sQK404BlTYFhOHqidRb8t), [Moon](https://open.spotify.com/artist/6lBRFShYoK35Ya2HqrJOdU) | [STATES](https://open.spotify.com/album/3nY5b9w8aESg23Sz7rV1hR) | 2:38 |
 | 57 | [Sissi](https://open.spotify.com/track/0UKa313enTmwGcWtvk3Duf) | [YD Frost](https://open.spotify.com/artist/5VfyRN67E8k3yyivZ5p72L), [YD Teddy](https://open.spotify.com/artist/0LzZVQE7lt2MXRt6txx8q4) | [Sissi](https://open.spotify.com/album/1PWSDDOiLezcwc08G0BVxv) | 2:05 |
 | 58 | [CASANOVA \(feat\. Artie 5ive\)](https://open.spotify.com/track/25xUkNnc4azNAsli0pCNU7) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [LOCURA](https://open.spotify.com/album/0wYy8LTZuhiAyvchPppHPj) | 2:51 |
 | 59 | [Trincee \(feat\. Rondodasosa\)](https://open.spotify.com/track/2tsrnrD6DVCfxVUn0oEPTR) | [Melons](https://open.spotify.com/artist/1LGeIi5WWtxGRavjH50STe), [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3) | [Trincee \(feat\. Rondodasosa\)](https://open.spotify.com/album/2mKjDMufiYjhZbAuiAplZc) | 3:00 |

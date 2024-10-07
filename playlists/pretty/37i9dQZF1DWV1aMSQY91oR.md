@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The latest hip\-hop, refreshed weekly\. Cover: jev.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,540 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,542 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 44 | [MIAMI FLOW](https://open.spotify.com/track/6EEYTDGqIJWBXT1qIuPHih) | [DeJ Loaf](https://open.spotify.com/artist/7kFfY4UjNdNyaeUgLIEbIF) | [MIAMI FLOW](https://open.spotify.com/album/4UH4awceaxhge9M57poy3T) | 2:31 |
 | 45 | [Beverly Drive](https://open.spotify.com/track/0OkPSNqgtzOZUiXXQmHKWX) | [Erick the Architect](https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK) | [Beverly Drive](https://open.spotify.com/album/6LIdgbrlI7m0IQUB2pyFac) | 4:08 |
 | 46 | [Ruby Rosary \(feat\. J\. Cole\)](https://open.spotify.com/track/1lloYB6uHOTDmheiWsq4DL) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Ruby Rosary \(feat\. J\. Cole\)](https://open.spotify.com/album/130Z8iBbfUEI98zWWObsQB) | 4:16 |
-| 47 | [Maintenance Man \(feat\. Nemzzz, Dee Billz\)](https://open.spotify.com/track/7Bi3CoMUn2T8orxoPcU71f) | [41](https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8), [Kyle Richh](https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU), [Jenn Carter](https://open.spotify.com/artist/3BcgTyEdL81zMljmXcilZM), [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7), [Dee Billz](https://open.spotify.com/artist/2fBU7rOViK7ywwHCIYEa7h) | [Maintenance Man](https://open.spotify.com/album/60TaG6Q0X1PxlSPTo1vO85) | 2:41 |
+| 47 | [Maintenance Man \(feat\. Jenn Carter, Dee Billz\)](https://open.spotify.com/track/7Bi3CoMUn2T8orxoPcU71f) | [41](https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8), [Kyle Richh](https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU), [Jenn Carter](https://open.spotify.com/artist/3BcgTyEdL81zMljmXcilZM), [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7), [Dee Billz](https://open.spotify.com/artist/2fBU7rOViK7ywwHCIYEa7h) | [Maintenance Man](https://open.spotify.com/album/60TaG6Q0X1PxlSPTo1vO85) | 2:41 |
 | 48 | [So Bad \(with 4batz\)](https://open.spotify.com/track/6UO6qKbBUV3dkAL8944zyh) | [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI), [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7) | [So Bad \(with 4batz\)](https://open.spotify.com/album/4dT7ycpsFAKebSCCecqROq) | 2:59 |
 | 49 | [ALL RED](https://open.spotify.com/track/2cZOYofOX4d6g0OXxkaIjA) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [ALL RED](https://open.spotify.com/album/3cdcIcidzGHVQW5e9qQgtx) | 2:28 |
 | 50 | [jane baby \(feat\. Cash Cobain\)](https://open.spotify.com/track/51ayPpFTx4d7P9Kn5kymXp) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [jane baby \(feat\. Cash Cobain\)](https://open.spotify.com/album/0Olav5Z1duvVGHvKTqBOmO) | 2:08 |

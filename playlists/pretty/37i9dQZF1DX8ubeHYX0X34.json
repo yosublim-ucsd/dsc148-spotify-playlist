@@ -1,6 +1,6 @@
 {
   "description": "Timeless Pakistani hits, all in one place. Cover - Junaid Jamshed",
-  "num_followers": 54097,
+  "num_followers": 54118,
   "original_name": "All Time Pakistani Hits",
   "owner": {
     "name": "Spotify",
@@ -83,26 +83,6 @@
     {
       "added_at": "2024-06-06 13:15:46",
       "album": {
-        "name": "Iraaday",
-        "url": "https://open.spotify.com/album/5rrokeOdlkdlyLaGfiixYy"
-      },
-      "artists": [
-        {
-          "name": "Rovalio",
-          "url": "https://open.spotify.com/artist/01pFDtbY3k5uOmy0Pbg93C"
-        },
-        {
-          "name": "Abdul Hannan",
-          "url": "https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1"
-        }
-      ],
-      "duration_ms": 133305,
-      "name": "Iraaday",
-      "url": "https://open.spotify.com/track/6qrifdo7QINdPQr80IelGi"
-    },
-    {
-      "added_at": "2024-06-06 13:15:46",
-      "album": {
         "name": "Jo Tu Na Mila",
         "url": "https://open.spotify.com/album/4KSvSqPJwTo7qMxP4XyIaH"
       },
@@ -119,6 +99,26 @@
       "duration_ms": 234037,
       "name": "Jo Tu Na Mila",
       "url": "https://open.spotify.com/track/6DefzsWqnwrFrmNVnJxWkS"
+    },
+    {
+      "added_at": "2024-06-06 13:15:46",
+      "album": {
+        "name": "Iraaday",
+        "url": "https://open.spotify.com/album/5rrokeOdlkdlyLaGfiixYy"
+      },
+      "artists": [
+        {
+          "name": "Rovalio",
+          "url": "https://open.spotify.com/artist/01pFDtbY3k5uOmy0Pbg93C"
+        },
+        {
+          "name": "Abdul Hannan",
+          "url": "https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1"
+        }
+      ],
+      "duration_ms": 133305,
+      "name": "Iraaday",
+      "url": "https://open.spotify.com/track/6qrifdo7QINdPQr80IelGi"
     },
     {
       "added_at": "2024-06-06 13:15:46",
@@ -335,6 +335,22 @@
     {
       "added_at": "2024-06-06 13:15:46",
       "album": {
+        "name": "Zinda",
+        "url": "https://open.spotify.com/album/33C6QX82rrqLQxG3e4934M"
+      },
+      "artists": [
+        {
+          "name": "Strings",
+          "url": "https://open.spotify.com/artist/2fizRsm6KDWZvysU00yZrX"
+        }
+      ],
+      "duration_ms": 316653,
+      "name": "Ye Hai Meri Kahani",
+      "url": "https://open.spotify.com/track/2pnsv8SitlsxKV02Y6t0ku"
+    },
+    {
+      "added_at": "2024-06-06 13:15:46",
+      "album": {
         "name": "Coke Studio Sessions: Season 2",
         "url": "https://open.spotify.com/album/1W9cr6LNkNTfX5YKBOGFMu"
       },
@@ -367,22 +383,6 @@
       "duration_ms": 275746,
       "name": "Aicha",
       "url": "https://open.spotify.com/track/1cRuI7DN1z2FO3boRPmagR"
-    },
-    {
-      "added_at": "2024-06-06 13:15:46",
-      "album": {
-        "name": "Zinda",
-        "url": "https://open.spotify.com/album/33C6QX82rrqLQxG3e4934M"
-      },
-      "artists": [
-        {
-          "name": "Strings",
-          "url": "https://open.spotify.com/artist/2fizRsm6KDWZvysU00yZrX"
-        }
-      ],
-      "duration_ms": 316653,
-      "name": "Ye Hai Meri Kahani",
-      "url": "https://open.spotify.com/track/2pnsv8SitlsxKV02Y6t0ku"
     },
     {
       "added_at": "2024-06-06 13:15:46",
@@ -519,6 +519,22 @@
     {
       "added_at": "2024-06-06 13:15:46",
       "album": {
+        "name": "Parinda",
+        "url": "https://open.spotify.com/album/5eWLyDcaKeUYnpcmsCM1Oq"
+      },
+      "artists": [
+        {
+          "name": "Jal -The Band",
+          "url": "https://open.spotify.com/artist/3RVDaDaYaZH1Gem9iqOVs8"
+        }
+      ],
+      "duration_ms": 261537,
+      "name": "Parinda",
+      "url": "https://open.spotify.com/track/4XtdI2a4MiB6Yk6MPwlSR4"
+    },
+    {
+      "added_at": "2024-06-06 13:15:46",
+      "album": {
         "name": "Huqa Pani",
         "url": "https://open.spotify.com/album/4ccLUwsTaAt2fvVC75Copb"
       },
@@ -551,22 +567,6 @@
     {
       "added_at": "2024-06-06 13:15:46",
       "album": {
-        "name": "Parinda",
-        "url": "https://open.spotify.com/album/5eWLyDcaKeUYnpcmsCM1Oq"
-      },
-      "artists": [
-        {
-          "name": "Jal -The Band",
-          "url": "https://open.spotify.com/artist/3RVDaDaYaZH1Gem9iqOVs8"
-        }
-      ],
-      "duration_ms": 261537,
-      "name": "Parinda",
-      "url": "https://open.spotify.com/track/4XtdI2a4MiB6Yk6MPwlSR4"
-    },
-    {
-      "added_at": "2024-06-06 13:15:46",
-      "album": {
         "name": "Mantra",
         "url": "https://open.spotify.com/album/6XvUyMCDtDODSxY15yInXC"
       },
@@ -583,6 +583,22 @@
     {
       "added_at": "2024-06-06 13:15:46",
       "album": {
+        "name": "Dhaani",
+        "url": "https://open.spotify.com/album/1JV7W8JrdR7j6LRkAAk5cw"
+      },
+      "artists": [
+        {
+          "name": "Strings",
+          "url": "https://open.spotify.com/artist/2fizRsm6KDWZvysU00yZrX"
+        }
+      ],
+      "duration_ms": 305040,
+      "name": "Najane Kyun",
+      "url": "https://open.spotify.com/track/54i9EEnoUyvgTaKLeqYCU6"
+    },
+    {
+      "added_at": "2024-06-06 13:15:46",
+      "album": {
         "name": "Social Circus",
         "url": "https://open.spotify.com/album/4Nj2wbrQ8k2pzh4XQktP3K"
       },
@@ -595,6 +611,22 @@
       "duration_ms": 341078,
       "name": "Na Ra Na Re",
       "url": "https://open.spotify.com/track/38vz3gwpnZE3oB9uCiPuid"
+    },
+    {
+      "added_at": "2024-06-06 13:15:46",
+      "album": {
+        "name": "Aadat",
+        "url": "https://open.spotify.com/album/5ANML1o1NBFwCzGaaeXdy5"
+      },
+      "artists": [
+        {
+          "name": "Jal -The Band",
+          "url": "https://open.spotify.com/artist/3RVDaDaYaZH1Gem9iqOVs8"
+        }
+      ],
+      "duration_ms": 287333,
+      "name": "Dil Haray Pukaray",
+      "url": "https://open.spotify.com/track/2Er9taUNaVTJI6Xt0vFu4P"
     },
     {
       "added_at": "2024-06-06 13:15:46",
@@ -647,18 +679,18 @@
     {
       "added_at": "2024-06-06 13:15:46",
       "album": {
-        "name": "Dhaani",
-        "url": "https://open.spotify.com/album/1JV7W8JrdR7j6LRkAAk5cw"
+        "name": "Daur- E- Junoon",
+        "url": "https://open.spotify.com/album/7c04CbNojtqIw81Mw3f7Ny"
       },
       "artists": [
         {
-          "name": "Strings",
-          "url": "https://open.spotify.com/artist/2fizRsm6KDWZvysU00yZrX"
+          "name": "Junoon",
+          "url": "https://open.spotify.com/artist/6nyfDdTwCLGrbCFikT8PTK"
         }
       ],
-      "duration_ms": 305040,
-      "name": "Najane Kyun",
-      "url": "https://open.spotify.com/track/54i9EEnoUyvgTaKLeqYCU6"
+      "duration_ms": 288733,
+      "name": "Gharaj Baras",
+      "url": "https://open.spotify.com/track/1YGfqXj3SSPzWRqJCorYMX"
     },
     {
       "added_at": "2024-06-06 13:15:46",
@@ -679,22 +711,6 @@
     {
       "added_at": "2024-06-06 13:15:46",
       "album": {
-        "name": "Daur- E- Junoon",
-        "url": "https://open.spotify.com/album/7c04CbNojtqIw81Mw3f7Ny"
-      },
-      "artists": [
-        {
-          "name": "Junoon",
-          "url": "https://open.spotify.com/artist/6nyfDdTwCLGrbCFikT8PTK"
-        }
-      ],
-      "duration_ms": 288733,
-      "name": "Gharaj Baras",
-      "url": "https://open.spotify.com/track/1YGfqXj3SSPzWRqJCorYMX"
-    },
-    {
-      "added_at": "2024-06-06 13:15:46",
-      "album": {
         "name": "Peeli Patti Aur Raja Jani Ki Gol Dunya",
         "url": "https://open.spotify.com/album/1ulFNPGcDNipaa6e1SbHsj"
       },
@@ -707,38 +723,6 @@
       "duration_ms": 271699,
       "name": "Meray Log",
       "url": "https://open.spotify.com/track/2YLYj3H91rrrU5TMt2yGyn"
-    },
-    {
-      "added_at": "2024-06-06 13:15:46",
-      "album": {
-        "name": "Aadat",
-        "url": "https://open.spotify.com/album/5ANML1o1NBFwCzGaaeXdy5"
-      },
-      "artists": [
-        {
-          "name": "Jal -The Band",
-          "url": "https://open.spotify.com/artist/3RVDaDaYaZH1Gem9iqOVs8"
-        }
-      ],
-      "duration_ms": 287333,
-      "name": "Dil Haray Pukaray",
-      "url": "https://open.spotify.com/track/2Er9taUNaVTJI6Xt0vFu4P"
-    },
-    {
-      "added_at": "2024-06-06 13:15:46",
-      "album": {
-        "name": "Buri Baat Hai",
-        "url": "https://open.spotify.com/album/0OTlz9jTKBc1Ws8Ie8QyWu"
-      },
-      "artists": [
-        {
-          "name": "Shehzad Roy",
-          "url": "https://open.spotify.com/artist/2IoNBHUOfnf7hsUwBKr6l4"
-        }
-      ],
-      "duration_ms": 244586,
-      "name": "Sali Tu Maney Nahi",
-      "url": "https://open.spotify.com/track/0TjKYEnNKghcdci6kKyeFK"
     },
     {
       "added_at": "2024-06-06 13:15:46",
@@ -759,6 +743,22 @@
     {
       "added_at": "2024-06-06 13:15:46",
       "album": {
+        "name": "Buri Baat Hai",
+        "url": "https://open.spotify.com/album/0OTlz9jTKBc1Ws8Ie8QyWu"
+      },
+      "artists": [
+        {
+          "name": "Shehzad Roy",
+          "url": "https://open.spotify.com/artist/2IoNBHUOfnf7hsUwBKr6l4"
+        }
+      ],
+      "duration_ms": 244586,
+      "name": "Sali Tu Maney Nahi",
+      "url": "https://open.spotify.com/track/0TjKYEnNKghcdci6kKyeFK"
+    },
+    {
+      "added_at": "2024-06-06 13:15:46",
+      "album": {
         "name": "Aatish",
         "url": "https://open.spotify.com/album/53blgdAq8q2N5ulBW86ABO"
       },
@@ -771,6 +771,22 @@
       "duration_ms": 271000,
       "name": "Dil Na Lagay",
       "url": "https://open.spotify.com/track/5lW3Y0CMIuvCrxCqp8jCz6"
+    },
+    {
+      "added_at": "2024-06-06 13:15:46",
+      "album": {
+        "name": "Aadat",
+        "url": "https://open.spotify.com/album/5ANML1o1NBFwCzGaaeXdy5"
+      },
+      "artists": [
+        {
+          "name": "Jal -The Band",
+          "url": "https://open.spotify.com/artist/3RVDaDaYaZH1Gem9iqOVs8"
+        }
+      ],
+      "duration_ms": 378613,
+      "name": "Teri Yaad",
+      "url": "https://open.spotify.com/track/5R1mYWLSQ896Pfqa4iMCKH"
     },
     {
       "added_at": "2024-06-06 13:15:46",
@@ -827,6 +843,22 @@
     {
       "added_at": "2024-06-06 13:15:46",
       "album": {
+        "name": "Aatish",
+        "url": "https://open.spotify.com/album/53blgdAq8q2N5ulBW86ABO"
+      },
+      "artists": [
+        {
+          "name": "Faakhir",
+          "url": "https://open.spotify.com/artist/6ocVv3L8PefhnpANnoHLuj"
+        }
+      ],
+      "duration_ms": 227426,
+      "name": "Dil Ruba",
+      "url": "https://open.spotify.com/track/65PDojUz0VanKRIHCEDddm"
+    },
+    {
+      "added_at": "2024-06-06 13:15:46",
+      "album": {
         "name": "Ishq",
         "url": "https://open.spotify.com/album/1HECWEoUv3vVkst0v6BoWc"
       },
@@ -875,38 +907,6 @@
     {
       "added_at": "2024-06-06 13:15:46",
       "album": {
-        "name": "Aadat",
-        "url": "https://open.spotify.com/album/5ANML1o1NBFwCzGaaeXdy5"
-      },
-      "artists": [
-        {
-          "name": "Jal -The Band",
-          "url": "https://open.spotify.com/artist/3RVDaDaYaZH1Gem9iqOVs8"
-        }
-      ],
-      "duration_ms": 378613,
-      "name": "Teri Yaad",
-      "url": "https://open.spotify.com/track/5R1mYWLSQ896Pfqa4iMCKH"
-    },
-    {
-      "added_at": "2024-06-06 13:15:46",
-      "album": {
-        "name": "Aatish",
-        "url": "https://open.spotify.com/album/53blgdAq8q2N5ulBW86ABO"
-      },
-      "artists": [
-        {
-          "name": "Faakhir",
-          "url": "https://open.spotify.com/artist/6ocVv3L8PefhnpANnoHLuj"
-        }
-      ],
-      "duration_ms": 227426,
-      "name": "Dil Ruba",
-      "url": "https://open.spotify.com/track/65PDojUz0VanKRIHCEDddm"
-    },
-    {
-      "added_at": "2024-06-06 13:15:46",
-      "album": {
         "name": "Teri Yaad -The Collection",
         "url": "https://open.spotify.com/album/3k590uhpKMD17vW1DndOgQ"
       },
@@ -939,18 +939,18 @@
     {
       "added_at": "2024-06-06 13:15:46",
       "album": {
-        "name": "Deewar",
-        "url": "https://open.spotify.com/album/3xacHPm5pZVNYR6DIT3kNE"
+        "name": "Aadat",
+        "url": "https://open.spotify.com/album/5ANML1o1NBFwCzGaaeXdy5"
       },
       "artists": [
         {
-          "name": "Junoon",
-          "url": "https://open.spotify.com/artist/6nyfDdTwCLGrbCFikT8PTK"
+          "name": "Jal -The Band",
+          "url": "https://open.spotify.com/artist/3RVDaDaYaZH1Gem9iqOVs8"
         }
       ],
-      "duration_ms": 170613,
-      "name": "Pappu Yaar",
-      "url": "https://open.spotify.com/track/1nwJqXuGRkqWNCArdF3gMC"
+      "duration_ms": 258093,
+      "name": "Ik Din Aye Ga",
+      "url": "https://open.spotify.com/track/3wUreem0PICuBnFN8nfvz7"
     },
     {
       "added_at": "2024-06-06 13:15:46",
@@ -991,6 +991,22 @@
     {
       "added_at": "2024-06-06 13:15:46",
       "album": {
+        "name": "Jugni",
+        "url": "https://open.spotify.com/album/7iBuxFdkVH82S9xqwWrYj7"
+      },
+      "artists": [
+        {
+          "name": "Arif Lohar",
+          "url": "https://open.spotify.com/artist/1zs5AOsqD2b0YfmGNfWni4"
+        }
+      ],
+      "duration_ms": 265466,
+      "name": "Jugni",
+      "url": "https://open.spotify.com/track/7DKwahqNfbI8Snze1QFg8o"
+    },
+    {
+      "added_at": "2024-06-06 13:15:46",
+      "album": {
         "name": "Parastish",
         "url": "https://open.spotify.com/album/0caOlEfxhjBHnOyuxf55AT"
       },
@@ -1007,34 +1023,18 @@
     {
       "added_at": "2024-06-06 13:15:46",
       "album": {
-        "name": "Aadat",
-        "url": "https://open.spotify.com/album/5ANML1o1NBFwCzGaaeXdy5"
+        "name": "Deewar",
+        "url": "https://open.spotify.com/album/3xacHPm5pZVNYR6DIT3kNE"
       },
       "artists": [
         {
-          "name": "Jal -The Band",
-          "url": "https://open.spotify.com/artist/3RVDaDaYaZH1Gem9iqOVs8"
+          "name": "Junoon",
+          "url": "https://open.spotify.com/artist/6nyfDdTwCLGrbCFikT8PTK"
         }
       ],
-      "duration_ms": 258093,
-      "name": "Ik Din Aye Ga",
-      "url": "https://open.spotify.com/track/3wUreem0PICuBnFN8nfvz7"
-    },
-    {
-      "added_at": "2024-06-06 13:15:46",
-      "album": {
-        "name": "Jugni",
-        "url": "https://open.spotify.com/album/7iBuxFdkVH82S9xqwWrYj7"
-      },
-      "artists": [
-        {
-          "name": "Arif Lohar",
-          "url": "https://open.spotify.com/artist/1zs5AOsqD2b0YfmGNfWni4"
-        }
-      ],
-      "duration_ms": 265466,
-      "name": "Jugni",
-      "url": "https://open.spotify.com/track/7DKwahqNfbI8Snze1QFg8o"
+      "duration_ms": 170613,
+      "name": "Pappu Yaar",
+      "url": "https://open.spotify.com/track/1nwJqXuGRkqWNCArdF3gMC"
     },
     {
       "added_at": "2024-06-06 13:15:46",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2024-06-06 13:15:46",
       "album": {
-        "name": "Aatish",
-        "url": "https://open.spotify.com/album/53blgdAq8q2N5ulBW86ABO"
-      },
-      "artists": [
-        {
-          "name": "Faakhir",
-          "url": "https://open.spotify.com/artist/6ocVv3L8PefhnpANnoHLuj"
-        }
-      ],
-      "duration_ms": 230066,
-      "name": "Deewana",
-      "url": "https://open.spotify.com/track/6OWgu7E4L87XewLkWmD6ka"
-    },
-    {
-      "added_at": "2024-06-06 13:15:46",
-      "album": {
         "name": "Huqa Pani",
         "url": "https://open.spotify.com/album/4ccLUwsTaAt2fvVC75Copb"
       },
@@ -1155,22 +1139,6 @@
     {
       "added_at": "2024-06-06 13:15:46",
       "album": {
-        "name": "Chup",
-        "url": "https://open.spotify.com/album/5gwT7LD8k8457NUK824Kb5"
-      },
-      "artists": [
-        {
-          "name": "Zeb & Haniya",
-          "url": "https://open.spotify.com/artist/7yRWAVvdjzgjU2wrpaKXLA"
-        }
-      ],
-      "duration_ms": 278146,
-      "name": "Paimana Bitte",
-      "url": "https://open.spotify.com/track/6KAE4MMywFS0Cy7ikNojQb"
-    },
-    {
-      "added_at": "2024-06-06 13:15:46",
-      "album": {
         "name": "Peeli Patti Aur Raja Jani Ki Gol Dunya",
         "url": "https://open.spotify.com/album/1ulFNPGcDNipaa6e1SbHsj"
       },
@@ -1183,6 +1151,42 @@
       "duration_ms": 220673,
       "name": "Nishaan",
       "url": "https://open.spotify.com/track/5K4yREYdmwEfIreEF67YKL"
+    },
+    {
+      "added_at": "2024-06-06 13:15:46",
+      "album": {
+        "name": "Aatish",
+        "url": "https://open.spotify.com/album/53blgdAq8q2N5ulBW86ABO"
+      },
+      "artists": [
+        {
+          "name": "Faakhir",
+          "url": "https://open.spotify.com/artist/6ocVv3L8PefhnpANnoHLuj"
+        }
+      ],
+      "duration_ms": 230066,
+      "name": "Deewana",
+      "url": "https://open.spotify.com/track/6OWgu7E4L87XewLkWmD6ka"
+    },
+    {
+      "added_at": "2024-06-06 13:15:46",
+      "album": {
+        "name": "Shehzad Roy",
+        "url": "https://open.spotify.com/album/7vS4aINdfTyauCwEdRDqSi"
+      },
+      "artists": [
+        {
+          "name": "Shehzad Roy",
+          "url": "https://open.spotify.com/artist/2IoNBHUOfnf7hsUwBKr6l4"
+        },
+        {
+          "name": "Rab Janey",
+          "url": "https://open.spotify.com/artist/4lxld8EAoaaPRwNkcMXe8l"
+        }
+      ],
+      "duration_ms": 238427,
+      "name": "Mukhra",
+      "url": "https://open.spotify.com/track/31KZ3ZymFdyO1quVkpot2c"
     }
   ],
   "unique_name": "All Time Pakistani Hits",

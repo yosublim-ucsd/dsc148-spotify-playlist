@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0H1gQEaz8An.md) - [plain]
 
 > Lo que diga el corazón ❤️💔 Cover: Polo Gonzalez & Carolina Ross
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,439 likes - 80 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,602 likes - 80 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [La Marea \(feat\. Carolina Ross\)](https://open.spotify.com/track/6tB3TN8NjXiTUIYvflp8P5) | [Polo Gonzalez](https://open.spotify.com/artist/0OpXeanba0vYnyoft00BP6), [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [La Marea \(feat\. Carolina Ross\)](https://open.spotify.com/album/2YpckMEZN0Z2w6FtGMRcj0) | 4:15 |
+| 1 | [La Marea](https://open.spotify.com/track/6tB3TN8NjXiTUIYvflp8P5) | [Polo Gonzalez](https://open.spotify.com/artist/0OpXeanba0vYnyoft00BP6), [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [La Marea](https://open.spotify.com/album/2YpckMEZN0Z2w6FtGMRcj0) | 4:15 |
 | 2 | [Tu Boda](https://open.spotify.com/track/1cOboCuWYI2osTOfolMRS6) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Tu Boda](https://open.spotify.com/album/60cQzWfmdg4hyDXrpW6kOA) | 3:45 |
 | 3 | [Flores](https://open.spotify.com/track/6iCsgZgikqbQSOLbpEK5R5) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [Flores](https://open.spotify.com/album/3ZbYDSja58714wMC2XO5kl) | 2:16 |
 | 4 | [Regalame Una Noche](https://open.spotify.com/track/2dXppU2kauENBeLZYEbIng) | [Adrian L Santos](https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac) | [Se Cantan Se Bailan y Se Lloran](https://open.spotify.com/album/2OyPcJ7KgLDWeo2b8BYnoN) | 3:07 |

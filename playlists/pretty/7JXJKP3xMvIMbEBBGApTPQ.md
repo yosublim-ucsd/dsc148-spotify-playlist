@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7JXJKP3xMvIMbEBBGApTPQ.md) - [plain]
 
 > Tune in for the year's hottest K\-Pop tracks! K\-Pop Tunes \| K\-Pop Mix \| K\-Pop Boyband \| K\-Pop Girl Groups \| Cover: Stray Kids
 
-[Digster Global](https://open.spotify.com/user/digster.fm) - 330,465 likes - 81 songs - 4 hr 5 min
+[Digster Global](https://open.spotify.com/user/digster.fm) - 330,455 likes - 81 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

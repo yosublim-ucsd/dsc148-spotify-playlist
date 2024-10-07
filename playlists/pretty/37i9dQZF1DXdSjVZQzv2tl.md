@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdSjVZQzv2tl.md) - [plain]
 
 > O melhor do sertanejo em uma só playlist! Foto: Matheus & Kauan
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,732,598 likes - 50 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,733,262 likes - 50 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdSjVZQzv2tl.md) - [plain]
 | 7 | [Morar Nesse Motel](https://open.spotify.com/track/5QpcLTQjh0qO7OIuR9q8IR) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Morar Nesse Motel](https://open.spotify.com/album/1i3R2NzmaLZjDDB6txSgqy) | 3:07 |
 | 8 | [Meu Pra Sempre Não Era Meu \- Ao Vivo](https://open.spotify.com/track/7CutNxjzAKbs7EhBAlnRJt) | [Simone Mendes](https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3) | [Meu Pra Sempre Não Era Meu \(Ao Vivo\)](https://open.spotify.com/album/3Zdg35YqxOS1Sfz74ifi8u) | 2:43 |
 | 9 | [Pula Fora \- Ao Vivo](https://open.spotify.com/track/7f1tZNtc1t456ybBsl5sfK) | [Murilo Huff](https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz), [Hugo & Guilherme](https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl) | [Fortaleza \- Ao Vivo](https://open.spotify.com/album/0Lo0mXzAAVAjuxyuYHWVZ1) | 2:29 |
-| 10 | [CLONE \- Ao Vivo](https://open.spotify.com/track/4dvHZesL5UKzfJnFH5bm3g) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [CLONE \- Ao Vivo](https://open.spotify.com/album/1joXkdnMTPXoc4nRIqkr0s) | 2:44 |
+| 10 | [CLONE \- Ao Vivo](https://open.spotify.com/track/4dvHZesL5UKzfJnFH5bm3g) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [CLONE \(Ao Vivo\)](https://open.spotify.com/album/1joXkdnMTPXoc4nRIqkr0s) | 2:44 |
 | 11 | [Foi Intenso \- Ao Vivo](https://open.spotify.com/track/3w392XWJ5bXzjcCR2Dmvqn) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs), [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [Foi Intenso \(Ao Vivo\)](https://open.spotify.com/album/4zj7umsrvAbaEIxj9h2eS9) | 2:12 |
 | 12 | [Sexta Feira \- Ao Vivo](https://open.spotify.com/track/0ikHh6vrN2RcCANXwRnMHx) | [Fred & Fabrício](https://open.spotify.com/artist/37eYuWTOZtUG8PgFOsj9h8) | [Acústico de Primeira 3, Vol\. 1 \- Ao Vivo](https://open.spotify.com/album/4dYgljUQXpVWfyQEiP5ML4) | 3:01 |
 | 13 | [Não Me Bloqueia Não \- Ao Vivo](https://open.spotify.com/track/2WEhFQZBJqgY3MBTxK9r10) | [Clayton & Romário](https://open.spotify.com/artist/1tKrZaph4cLsnEdqC5BNEQ) | [Ao Vivo Em Brasília \(EP2\)](https://open.spotify.com/album/6US9lRwfVusq2LUYasR9m2) | 2:49 |

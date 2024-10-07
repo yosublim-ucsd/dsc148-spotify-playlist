@@ -1,12 +1,12 @@
 {
   "description": "This is The White Stripes. The essential tracks, all in one playlist.",
-  "num_followers": 114906,
+  "num_followers": 114924,
   "original_name": "This Is The White Stripes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zv3egAAAAABA2frqpf1p3Fys2o8ujDbn",
+  "snapshot_id": "ZwCBgAAAAAB4SRHTWXoTyr+5YE2neeHa",
   "tracks": [
     {
       "added_at": null,
@@ -235,22 +235,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Get Behind Me Satan",
-        "url": "https://open.spotify.com/album/3rHeq4F5wnaLBjNtuz7Yvh"
-      },
-      "artists": [
-        {
-          "name": "The White Stripes",
-          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
-        }
-      ],
-      "duration_ms": 35226,
-      "name": "Passive Manipulation",
-      "url": "https://open.spotify.com/track/6DqmBfQhxbkB6PShaX1t45"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The White Stripes",
         "url": "https://open.spotify.com/album/4Nemfc7fJzJmmqhBQ8khhj"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 144266,
       "name": "St. James Infirmary Blues",
       "url": "https://open.spotify.com/track/0ujFmyKkSXQnlVMBz4plMM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Get Behind Me Satan",
+        "url": "https://open.spotify.com/album/3rHeq4F5wnaLBjNtuz7Yvh"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "duration_ms": 35226,
+      "name": "Passive Manipulation",
+      "url": "https://open.spotify.com/track/6DqmBfQhxbkB6PShaX1t45"
     },
     {
       "added_at": null,
@@ -699,8 +699,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Under Great White Northern Lights (Live)",
-        "url": "https://open.spotify.com/album/5LUyvB9pUPm4Lrgt1Go53W"
+        "name": "Lafayette Blues",
+        "url": "https://open.spotify.com/album/4jIUncSLmyr6N6ywGIdkRA"
       },
       "artists": [
         {
@@ -708,9 +708,9 @@
           "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
         }
       ],
-      "duration_ms": 144120,
-      "name": "We Are Going to Be Friends - Live",
-      "url": "https://open.spotify.com/track/0txDgoD88eGv8zFrhYLJF2"
+      "duration_ms": 135800,
+      "name": "Lafayette Blues",
+      "url": "https://open.spotify.com/track/0r0CvMR0c7qruSek8agaf0"
     },
     {
       "added_at": null,
@@ -731,8 +731,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lafayette Blues",
-        "url": "https://open.spotify.com/album/4jIUncSLmyr6N6ywGIdkRA"
+        "name": "Under Great White Northern Lights (Live)",
+        "url": "https://open.spotify.com/album/5LUyvB9pUPm4Lrgt1Go53W"
       },
       "artists": [
         {
@@ -740,9 +740,9 @@
           "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
         }
       ],
-      "duration_ms": 135800,
-      "name": "Lafayette Blues",
-      "url": "https://open.spotify.com/track/0r0CvMR0c7qruSek8agaf0"
+      "duration_ms": 144120,
+      "name": "We Are Going to Be Friends - Live",
+      "url": "https://open.spotify.com/track/0txDgoD88eGv8zFrhYLJF2"
     },
     {
       "added_at": null,

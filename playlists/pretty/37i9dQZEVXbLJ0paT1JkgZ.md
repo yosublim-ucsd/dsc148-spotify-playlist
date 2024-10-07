@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLJ0paT1JkgZ.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Chile.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,387 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,398 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLJ0paT1JkgZ.md) - [plain]
 | 49 | [MI EX TENÍA RAZÓN](https://open.spotify.com/track/54zcJnb3tp9c5OVKREZ1Is) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAÑANA SERÁ BONITO \(BICHOTA SEASON\)](https://open.spotify.com/album/0FqAaUEyKCyUNFE1uQPZ7i) | 2:34 |
 | 50 | [GATA MENTE](https://open.spotify.com/track/5bAS0ryjUA6lKR2Bl9q1jr) | [LOS 4F](https://open.spotify.com/artist/7vdDWCqSTK2O100wDjYvh5), [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq), [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4), [DrefQuila](https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5), [Easykid](https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O), [Dysbit](https://open.spotify.com/artist/2WcCTeyPFxpiGwlntz0X2V) | [Los 4F: El Origen](https://open.spotify.com/album/3sODZXVEX8CNdsxypAfBPO) | 2:51 |
 
-Snapshot ID: `LpSroAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `LpX6yAAAAAAAAAAAAAAAAAAAAAAAAGVu`

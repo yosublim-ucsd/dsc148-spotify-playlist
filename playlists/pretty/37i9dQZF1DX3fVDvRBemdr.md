@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 
 > De nieuwste Hollandse hits\. Cover: Yves Berendse & Emma Heesters
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,402 likes - 80 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,425 likes - 80 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Alleen Met Jou](https://open.spotify.com/track/2K7HqkHEUfz7c4BzEO33Qd) | [Yves Berendse](https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F), [Emma Heesters](https://open.spotify.com/artist/3898xesz6JuQkpz7Kiu4uM) | [Alleen Met Jou](https://open.spotify.com/album/7HgRghVOzefgyXloz5HUmq) | 3:13 |
 | 2 | [Maak Me Nou Niet Gek](https://open.spotify.com/track/6gOgwLQfEfRh0SfXUZZk7Z) | [Quido van de Graaf](https://open.spotify.com/artist/0EeBSdffc4ckG8Yh9HOPuj) | [Maak Me Nou Niet Gek](https://open.spotify.com/album/24xjFLhiUSgGS8NWgJB3wa) | 2:16 |
-| 3 | [Juanita](https://open.spotify.com/track/4gLQhuSCTiIMeR9nIKXEg0) | [Django Wagner](https://open.spotify.com/artist/2onmCslqboJDdDoCo7ZPd2) | [Juanita](https://open.spotify.com/album/2yZ51UjDjH3jc3g6yOF5rY) | 3:36 |
-| 4 | [Beter Af Alleen](https://open.spotify.com/track/095QobOSVFoh2sg3cZRhRa) | [Marco Schuitmaker](https://open.spotify.com/artist/5kukvi4C18gvtXbDS1eKjQ) | [Beter Af Alleen](https://open.spotify.com/album/5nW6DK4CfTp6Z5vUj8TQKp) | 3:11 |
+| 3 | [Beter Af Alleen](https://open.spotify.com/track/095QobOSVFoh2sg3cZRhRa) | [Marco Schuitmaker](https://open.spotify.com/artist/5kukvi4C18gvtXbDS1eKjQ) | [Beter Af Alleen](https://open.spotify.com/album/5nW6DK4CfTp6Z5vUj8TQKp) | 3:11 |
+| 4 | [Juanita](https://open.spotify.com/track/4gLQhuSCTiIMeR9nIKXEg0) | [Django Wagner](https://open.spotify.com/artist/2onmCslqboJDdDoCo7ZPd2) | [Juanita](https://open.spotify.com/album/2yZ51UjDjH3jc3g6yOF5rY) | 3:36 |
 | 5 | [Ik Spaar Geen Centen](https://open.spotify.com/track/6h6hSyEABJubJdCn7Y8hEE) | [Mart Hoogkamer](https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa) | [Ik Spaar Geen Centen](https://open.spotify.com/album/1zKEr4hhGjFSaeXeO450RS) | 2:46 |
 | 6 | [Met Tranen In Je Ogen Ben Je Blind](https://open.spotify.com/track/5j9LzSPY6lNn0HCT5eLEZK) | [William Burg](https://open.spotify.com/artist/4NsbHQrXLybMMQCmVBHo2y) | [Met Tranen In Je Ogen Ben Je Blind](https://open.spotify.com/album/11F42g72XVoQijUSnQ4tiB) | 3:02 |
 | 7 | [Muchos Licores](https://open.spotify.com/track/440XZ0yUIcTKwKIS5aIstU) | [Jari Hellegers](https://open.spotify.com/artist/2jPuZfXN0BcFiNowWQk4au) | [Muchos Licores](https://open.spotify.com/album/5qZ4Qd5gOyKY5rktsGX1JQ) | 2:19 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 | 79 | [Is Dit Alles](https://open.spotify.com/track/7zTTsQNcLtxIsX3CdGq5fp) | [Pascal Redeker](https://open.spotify.com/artist/2pPlC5pHDMwx9vCtEszoub) | [Is Dit Alles](https://open.spotify.com/album/4XrDMgi0wd1hlh374SKCVG) | 2:35 |
 | 80 | [Vier Het Leven](https://open.spotify.com/track/6TgUcs28NmopMhBT9gZMPn) | [Delano Bisschops](https://open.spotify.com/artist/1Euc01XIupZAthccgXPuG5) | [Vier Het Leven](https://open.spotify.com/album/4yTIeSkw9df9ZRKGC4NBhM) | 3:20 |
 
-Snapshot ID: `Zv+9xgAAAACTq7IcbUpoUBEWJYI6wHO1`
+Snapshot ID: `ZwMIYAAAAABYBJUIi1ujGiH7jMl0yOyF`

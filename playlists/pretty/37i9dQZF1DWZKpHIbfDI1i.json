@@ -1,6 +1,6 @@
 {
   "description": "La playlist con los m\u00e1s grandes \u00e9xitos de nuestrxs artistas mexicanxs. Yuridia en portada.",
-  "num_followers": 704487,
+  "num_followers": 704523,
   "original_name": "Top M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -123,22 +123,22 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "Giza",
-        "url": "https://open.spotify.com/album/59NGQmOz4yxHkgbrVdFHhy"
+        "name": "LOS CUADROS",
+        "url": "https://open.spotify.com/album/1WIv1NHz49sR2TK9WKBUwz"
       },
       "artists": [
         {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
         },
         {
-          "name": "Oscar Maydon",
-          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
         }
       ],
-      "duration_ms": 177580,
-      "name": "Giza",
-      "url": "https://open.spotify.com/track/6KOnLTb1xLfKDAjMC43I76"
+      "duration_ms": 160409,
+      "name": "LOS CUADROS",
+      "url": "https://open.spotify.com/track/41EOhpn50qvd8iZSKw531W"
     },
     {
       "added_at": "2024-10-04 15:25:17",
@@ -215,42 +215,38 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "LOS CUADROS",
-        "url": "https://open.spotify.com/album/1WIv1NHz49sR2TK9WKBUwz"
+        "name": "Giza",
+        "url": "https://open.spotify.com/album/59NGQmOz4yxHkgbrVdFHhy"
       },
       "artists": [
         {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        },
-        {
-          "name": "Tito Double P",
-          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
-        }
-      ],
-      "duration_ms": 160409,
-      "name": "LOS CUADROS",
-      "url": "https://open.spotify.com/track/41EOhpn50qvd8iZSKw531W"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
-        "name": "Mejores Jordans",
-        "url": "https://open.spotify.com/album/6gK267rs4q9swdpzj79Roz"
-      },
-      "artists": [
-        {
-          "name": "Victor Mendivil",
-          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
         },
         {
           "name": "Oscar Maydon",
           "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
         }
       ],
-      "duration_ms": 234077,
-      "name": "Mejores Jordans",
-      "url": "https://open.spotify.com/track/1cZHUhGz7xJ8c4szDipipd"
+      "duration_ms": 177580,
+      "name": "Giza",
+      "url": "https://open.spotify.com/track/6KOnLTb1xLfKDAjMC43I76"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
+        "name": "PRESENTE",
+        "url": "https://open.spotify.com/album/0JoUcdNtc8iAKHGFj7Ppf9"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
+        }
+      ],
+      "duration_ms": 185933,
+      "name": "Regalo De Dios",
+      "url": "https://open.spotify.com/track/51qYdMBxt9mFbtZBzq1Yfi"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -271,18 +267,22 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "PRESENTE",
-        "url": "https://open.spotify.com/album/0JoUcdNtc8iAKHGFj7Ppf9"
+        "name": "Mejores Jordans",
+        "url": "https://open.spotify.com/album/6gK267rs4q9swdpzj79Roz"
       },
       "artists": [
         {
-          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
-          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
+          "name": "Victor Mendivil",
+          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
+        },
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
         }
       ],
-      "duration_ms": 185933,
-      "name": "Regalo De Dios",
-      "url": "https://open.spotify.com/track/51qYdMBxt9mFbtZBzq1Yfi"
+      "duration_ms": 234077,
+      "name": "Mejores Jordans",
+      "url": "https://open.spotify.com/track/1cZHUhGz7xJ8c4szDipipd"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -463,6 +463,26 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
+        "name": "\u00c9XODO",
+        "url": "https://open.spotify.com/album/5kvw1bAOvzJdNi4hdgfaNf"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Kenia OS",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        }
+      ],
+      "duration_ms": 209361,
+      "name": "TOMMY & PAMELA",
+      "url": "https://open.spotify.com/track/3GWUv0TDO5E3cHfsxYeptt"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
         "name": "Coraz\u00f3n de Piedra",
         "url": "https://open.spotify.com/album/34jqKGS3XSMznpvtCwh9so"
       },
@@ -515,26 +535,6 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "\u00c9XODO",
-        "url": "https://open.spotify.com/album/5kvw1bAOvzJdNi4hdgfaNf"
-      },
-      "artists": [
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        },
-        {
-          "name": "Kenia OS",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        }
-      ],
-      "duration_ms": 209361,
-      "name": "TOMMY & PAMELA",
-      "url": "https://open.spotify.com/track/3GWUv0TDO5E3cHfsxYeptt"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
         "name": "Lo Que Hay X Aqu\u00ed",
         "url": "https://open.spotify.com/album/2aGLQMoG98H1SoSlwmBvEN"
       },
@@ -571,22 +571,22 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "Porque Te Vas",
-        "url": "https://open.spotify.com/album/0rz4GbE2VH0LihBMnquYJX"
+        "name": "Tu Boda",
+        "url": "https://open.spotify.com/album/60cQzWfmdg4hyDXrpW6kOA"
       },
       "artists": [
         {
-          "name": "Victor Cibrian",
-          "url": "https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8"
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
         },
         {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
         }
       ],
-      "duration_ms": 230795,
-      "name": "Porque Te Vas",
-      "url": "https://open.spotify.com/track/0lpxDRCONr2FJRqcM3Q74z"
+      "duration_ms": 225880,
+      "name": "Tu Boda",
+      "url": "https://open.spotify.com/track/1cOboCuWYI2osTOfolMRS6"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -611,22 +611,22 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "Corridos B\u00e9licos, Vol. IV (Versi\u00f3n Deluxe)",
-        "url": "https://open.spotify.com/album/67BJDrtPa43KdZ8fAFrCP8"
+        "name": "Porque Te Vas",
+        "url": "https://open.spotify.com/album/0rz4GbE2VH0LihBMnquYJX"
       },
       "artists": [
         {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+          "name": "Victor Cibrian",
+          "url": "https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8"
         },
         {
-          "name": "Jasiel Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
         }
       ],
-      "duration_ms": 153269,
-      "name": "GTA",
-      "url": "https://open.spotify.com/track/4U20gQcVcjzY12xhLsXwXy"
+      "duration_ms": 230795,
+      "name": "Porque Te Vas",
+      "url": "https://open.spotify.com/track/0lpxDRCONr2FJRqcM3Q74z"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -647,22 +647,22 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "Tu Boda",
-        "url": "https://open.spotify.com/album/60cQzWfmdg4hyDXrpW6kOA"
+        "name": "Corridos B\u00e9licos, Vol. IV (Versi\u00f3n Deluxe)",
+        "url": "https://open.spotify.com/album/67BJDrtPa43KdZ8fAFrCP8"
       },
       "artists": [
         {
-          "name": "Oscar Maydon",
-          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
         },
         {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+          "name": "Jasiel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
         }
       ],
-      "duration_ms": 225880,
-      "name": "Tu Boda",
-      "url": "https://open.spotify.com/track/1cOboCuWYI2osTOfolMRS6"
+      "duration_ms": 153269,
+      "name": "GTA",
+      "url": "https://open.spotify.com/track/4U20gQcVcjzY12xhLsXwXy"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -707,22 +707,6 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "Ya Te Olvide",
-        "url": "https://open.spotify.com/album/1vkcpQesyYNuleAzUmUTsB"
-      },
-      "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        }
-      ],
-      "duration_ms": 216317,
-      "name": "Ya Te Olvide",
-      "url": "https://open.spotify.com/track/6Bcy1jJFcIAuAzJMtfpImi"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
         "name": "Mi Morenita",
         "url": "https://open.spotify.com/album/1TFykciPJZ54BYl8iZybM1"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 149450,
       "name": "Mi Morenita",
       "url": "https://open.spotify.com/track/4Xly6Wx7KtcJc739Y4myOt"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
+        "name": "Ya Te Olvide",
+        "url": "https://open.spotify.com/album/1vkcpQesyYNuleAzUmUTsB"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "duration_ms": 216317,
+      "name": "Ya Te Olvide",
+      "url": "https://open.spotify.com/track/6Bcy1jJFcIAuAzJMtfpImi"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -859,22 +859,6 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "$AD BOYZ 4 LIFE II",
-        "url": "https://open.spotify.com/album/7Lv6VzSqIz1sAssK2JUskG"
-      },
-      "artists": [
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        }
-      ],
-      "duration_ms": 234890,
-      "name": "EN LA PEDA",
-      "url": "https://open.spotify.com/track/3agTX6v1AbfY3mMA8qX2Bh"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
         "name": "PRESENTE",
         "url": "https://open.spotify.com/album/0JoUcdNtc8iAKHGFj7Ppf9"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 190706,
       "name": "Casi Completa",
       "url": "https://open.spotify.com/track/5BTibB0lM8fExn033QebZJ"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
+        "name": "$AD BOYZ 4 LIFE II",
+        "url": "https://open.spotify.com/album/7Lv6VzSqIz1sAssK2JUskG"
+      },
+      "artists": [
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "duration_ms": 234890,
+      "name": "EN LA PEDA",
+      "url": "https://open.spotify.com/track/3agTX6v1AbfY3mMA8qX2Bh"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -1103,26 +1103,6 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "Ya Te Super\u00e9",
-        "url": "https://open.spotify.com/album/3Pz78G6FR1995V69CXTcZq"
-      },
-      "artists": [
-        {
-          "name": "Xavi",
-          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
-        },
-        {
-          "name": "Tony Aguirre",
-          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
-        }
-      ],
-      "duration_ms": 226476,
-      "name": "Ya Te Super\u00e9",
-      "url": "https://open.spotify.com/track/268nYrqkJyAd5HiAnXmUOF"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
         "name": "GPI",
         "url": "https://open.spotify.com/album/51z7gaMVfgdYdMOo2tm8PH"
       },
@@ -1143,42 +1123,6 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "No Me Llores",
-        "url": "https://open.spotify.com/album/112yccFr5RIT3Ibd1LVakq"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        },
-        {
-          "name": "Manuel Carrasco",
-          "url": "https://open.spotify.com/artist/7qAoXV4U0qDxQAUqhszjAA"
-        }
-      ],
-      "duration_ms": 198750,
-      "name": "No Me Llores",
-      "url": "https://open.spotify.com/track/5NbbA12mQcSXuJtP5IjN8k"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
-        "name": "THE GOAT",
-        "url": "https://open.spotify.com/album/3hmlgJRuR8ax8QLHvKs8Eb"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        }
-      ],
-      "duration_ms": 155076,
-      "name": "Torai",
-      "url": "https://open.spotify.com/track/3pqEJlyY1HOdYIq5GHB4bp"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
         "name": "F*%K U Baby",
         "url": "https://open.spotify.com/album/6Kozw1RDnshSWyZaaAZagg"
       },
@@ -1195,6 +1139,46 @@
       "duration_ms": 153024,
       "name": "F*%K U Baby",
       "url": "https://open.spotify.com/track/0vZmz50wDnBhILCE1eHNyB"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
+        "name": "Ya Te Super\u00e9",
+        "url": "https://open.spotify.com/album/3Pz78G6FR1995V69CXTcZq"
+      },
+      "artists": [
+        {
+          "name": "Xavi",
+          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
+        },
+        {
+          "name": "Tony Aguirre",
+          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
+        }
+      ],
+      "duration_ms": 226476,
+      "name": "Ya Te Super\u00e9",
+      "url": "https://open.spotify.com/track/268nYrqkJyAd5HiAnXmUOF"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
+        "name": "No Me Llores",
+        "url": "https://open.spotify.com/album/112yccFr5RIT3Ibd1LVakq"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        },
+        {
+          "name": "Manuel Carrasco",
+          "url": "https://open.spotify.com/artist/7qAoXV4U0qDxQAUqhszjAA"
+        }
+      ],
+      "duration_ms": 198750,
+      "name": "No Me Llores",
+      "url": "https://open.spotify.com/track/5NbbA12mQcSXuJtP5IjN8k"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -1231,6 +1215,22 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
+        "name": "THE GOAT",
+        "url": "https://open.spotify.com/album/3hmlgJRuR8ax8QLHvKs8Eb"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "duration_ms": 155076,
+      "name": "Torai",
+      "url": "https://open.spotify.com/track/3pqEJlyY1HOdYIq5GHB4bp"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
         "name": "Tunechi (with Gabito Ballesteros)",
         "url": "https://open.spotify.com/album/1m0Ss9jIyWVWmyZafWaVqZ"
       },
@@ -1247,26 +1247,6 @@
       "duration_ms": 212640,
       "name": "Tunechi (with Gabito Ballesteros)",
       "url": "https://open.spotify.com/track/5itIlFvG0hrl0p0FGLjcRj"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
-        "name": "En El Audi",
-        "url": "https://open.spotify.com/album/56FMJya9buOQo6JOlL3s9C"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        },
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        }
-      ],
-      "duration_ms": 198545,
-      "name": "En El Audi",
-      "url": "https://open.spotify.com/track/0gTkZI5TnR1OeNyjTPlccA"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -1347,42 +1327,6 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "Te Perd\u00ed",
-        "url": "https://open.spotify.com/album/1lRJqVJ2VkDy9q7UKhlnMy"
-      },
-      "artists": [
-        {
-          "name": "Jesse & Joy",
-          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
-        },
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 239377,
-      "name": "Te Perd\u00ed",
-      "url": "https://open.spotify.com/track/7gqScn2vC9FD8tBrhD9MJ4"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
-        "name": "Corridos a Lo Maximo",
-        "url": "https://open.spotify.com/album/1s3X0yOH91R03rbWw41Ahv"
-      },
-      "artists": [
-        {
-          "name": "El Rabbanito",
-          "url": "https://open.spotify.com/artist/4VPLEp6rYxqpf6n0QEkS5z"
-        }
-      ],
-      "duration_ms": 206461,
-      "name": "David De Los Acme",
-      "url": "https://open.spotify.com/track/1C4notkddInnKftLi0idAW"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
         "name": "La Fiesta",
         "url": "https://open.spotify.com/album/4kAXXZpIKhMlmj62OBnj7g"
       },
@@ -1403,6 +1347,62 @@
       "duration_ms": 152932,
       "name": "La Fiesta",
       "url": "https://open.spotify.com/track/26ffMA2QIHjbQZpBlv6GmA"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
+        "name": "En El Audi",
+        "url": "https://open.spotify.com/album/56FMJya9buOQo6JOlL3s9C"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        },
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        }
+      ],
+      "duration_ms": 198545,
+      "name": "En El Audi",
+      "url": "https://open.spotify.com/track/0gTkZI5TnR1OeNyjTPlccA"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
+        "name": "Te Perd\u00ed",
+        "url": "https://open.spotify.com/album/1lRJqVJ2VkDy9q7UKhlnMy"
+      },
+      "artists": [
+        {
+          "name": "Jesse & Joy",
+          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
+        },
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "duration_ms": 239377,
+      "name": "Te Perd\u00ed",
+      "url": "https://open.spotify.com/track/7gqScn2vC9FD8tBrhD9MJ4"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
+        "name": "Otra Vez Pegue Un Vergazo",
+        "url": "https://open.spotify.com/album/29QJDqvpmZ75SvUe8n3ETz"
+      },
+      "artists": [
+        {
+          "name": "Chino Pacas",
+          "url": "https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO"
+        }
+      ],
+      "duration_ms": 169408,
+      "name": "Otra Vez Pegue Un Vergazo",
+      "url": "https://open.spotify.com/track/4McpYuSV5NUuvX2dv9Vhy6"
     }
   ],
   "unique_name": "Top M\u00e9xico",

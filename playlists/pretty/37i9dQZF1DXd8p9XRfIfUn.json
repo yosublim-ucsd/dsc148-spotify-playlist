@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor de la nueva. Foto: AKRIILA, TAICHU",
-  "num_followers": 76405,
+  "num_followers": 76425,
   "original_name": "Academia Reggaet\u00f3n",
   "owner": {
     "name": "Spotify",
@@ -731,22 +731,6 @@
     {
       "added_at": "2024-09-13 18:46:32",
       "album": {
-        "name": "Mi Primer Amor",
-        "url": "https://open.spotify.com/album/53YxUPkUs8V8w9DQcC8GMF"
-      },
-      "artists": [
-        {
-          "name": "Picus",
-          "url": "https://open.spotify.com/artist/2BUqEy3gCJYDKmKqV06Ojt"
-        }
-      ],
-      "duration_ms": 181413,
-      "name": "Mi Primer Amor",
-      "url": "https://open.spotify.com/track/4ieuiKKyyuEHcEjxjSH3hz"
-    },
-    {
-      "added_at": "2024-09-13 18:46:32",
-      "album": {
         "name": "La del Tik Tok",
         "url": "https://open.spotify.com/album/3pHKe6M2I50xRVRKePbsZC"
       },
@@ -839,6 +823,22 @@
     {
       "added_at": "2024-09-13 18:46:32",
       "album": {
+        "name": "Mi Primer Amor",
+        "url": "https://open.spotify.com/album/53YxUPkUs8V8w9DQcC8GMF"
+      },
+      "artists": [
+        {
+          "name": "Picus",
+          "url": "https://open.spotify.com/artist/2BUqEy3gCJYDKmKqV06Ojt"
+        }
+      ],
+      "duration_ms": 181413,
+      "name": "Mi Primer Amor",
+      "url": "https://open.spotify.com/track/4ieuiKKyyuEHcEjxjSH3hz"
+    },
+    {
+      "added_at": "2024-09-13 18:46:32",
+      "album": {
         "name": "Bendici\u00f3n",
         "url": "https://open.spotify.com/album/1ngKwKbpwwd5twNds3LN8N"
       },
@@ -879,22 +879,6 @@
     {
       "added_at": "2024-09-13 18:46:32",
       "album": {
-        "name": "Perdon\u00e9monos",
-        "url": "https://open.spotify.com/album/5sYzVuTy6UrHdvAaai7y3i"
-      },
-      "artists": [
-        {
-          "name": "Yng Lvcas",
-          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
-        }
-      ],
-      "duration_ms": 136421,
-      "name": "Perdon\u00e9monos",
-      "url": "https://open.spotify.com/track/7hIstL0FGshcF8Tk2inv5q"
-    },
-    {
-      "added_at": "2024-09-13 18:46:32",
-      "album": {
         "name": "Q-Lito",
         "url": "https://open.spotify.com/album/7vy05msyjhqtzv6wgemce7"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 188360,
       "name": "Q-Lito",
       "url": "https://open.spotify.com/track/1W9c0BUe6ETdtBfQyqeOgw"
+    },
+    {
+      "added_at": "2024-09-13 18:46:32",
+      "album": {
+        "name": "Perdon\u00e9monos",
+        "url": "https://open.spotify.com/album/5sYzVuTy6UrHdvAaai7y3i"
+      },
+      "artists": [
+        {
+          "name": "Yng Lvcas",
+          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
+        }
+      ],
+      "duration_ms": 136421,
+      "name": "Perdon\u00e9monos",
+      "url": "https://open.spotify.com/track/7hIstL0FGshcF8Tk2inv5q"
     },
     {
       "added_at": "2024-09-13 18:46:32",

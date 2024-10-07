@@ -1,6 +1,6 @@
 {
   "description": "smooth, crisp, not too tannic. ",
-  "num_followers": 83752,
+  "num_followers": 83885,
   "original_name": "Wine Bar",
   "owner": {
     "name": "Spotify",
@@ -427,22 +427,6 @@
     {
       "added_at": "2024-10-04 17:28:20",
       "album": {
-        "name": "Dummy",
-        "url": "https://open.spotify.com/album/3539EbNgIdEDGBKkUf4wno"
-      },
-      "artists": [
-        {
-          "name": "Portishead",
-          "url": "https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y"
-        }
-      ],
-      "duration_ms": 308626,
-      "name": "Glory Box",
-      "url": "https://open.spotify.com/track/3Ty7OTBNSigGEpeW2PqcsC"
-    },
-    {
-      "added_at": "2024-10-04 17:28:20",
-      "album": {
         "name": "Amala",
         "url": "https://open.spotify.com/album/54tInqO543zy0Y5F2VsUQI"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 219000,
       "name": "Wine Pon You (feat. Konshens)",
       "url": "https://open.spotify.com/track/2s4AcE9n80mSHl87lp4gIm"
+    },
+    {
+      "added_at": "2024-10-04 17:28:20",
+      "album": {
+        "name": "Dummy",
+        "url": "https://open.spotify.com/album/3539EbNgIdEDGBKkUf4wno"
+      },
+      "artists": [
+        {
+          "name": "Portishead",
+          "url": "https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y"
+        }
+      ],
+      "duration_ms": 308626,
+      "name": "Glory Box",
+      "url": "https://open.spotify.com/track/3Ty7OTBNSigGEpeW2PqcsC"
     },
     {
       "added_at": "2024-10-04 17:28:20",
@@ -959,22 +959,6 @@
     {
       "added_at": "2024-10-04 17:28:20",
       "album": {
-        "name": "Go for Your Guns",
-        "url": "https://open.spotify.com/album/04nhRulMSOvcRCGRTa7I5l"
-      },
-      "artists": [
-        {
-          "name": "The Isley Brothers",
-          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
-        }
-      ],
-      "duration_ms": 306800,
-      "name": "Footsteps in the Dark, Pts. 1 & 2",
-      "url": "https://open.spotify.com/track/1tL5a9jowsWMtn3wkFYsG9"
-    },
-    {
-      "added_at": "2024-10-04 17:28:20",
-      "album": {
         "name": "Back on 74 (Full Crate Remix)",
         "url": "https://open.spotify.com/album/4kGBuWZI5kpjt60cqWewXD"
       },
@@ -995,18 +979,18 @@
     {
       "added_at": "2024-10-04 17:28:20",
       "album": {
-        "name": "The Universe Smiles Upon You",
-        "url": "https://open.spotify.com/album/2OPcQNLP8DQVumD8kBRAH3"
+        "name": "Go for Your Guns",
+        "url": "https://open.spotify.com/album/04nhRulMSOvcRCGRTa7I5l"
       },
       "artists": [
         {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+          "name": "The Isley Brothers",
+          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
         }
       ],
-      "duration_ms": 218306,
-      "name": "White Gloves",
-      "url": "https://open.spotify.com/track/4AKUOaCRcoKTFnVI9LtsrN"
+      "duration_ms": 306800,
+      "name": "Footsteps in the Dark, Pts. 1 & 2",
+      "url": "https://open.spotify.com/track/1tL5a9jowsWMtn3wkFYsG9"
     },
     {
       "added_at": "2024-10-04 17:28:20",
@@ -1043,6 +1027,22 @@
       "duration_ms": 269413,
       "name": "Woman",
       "url": "https://open.spotify.com/track/60GM1mA58L7SYD1bLQXBho"
+    },
+    {
+      "added_at": "2024-10-04 17:28:20",
+      "album": {
+        "name": "The Universe Smiles Upon You",
+        "url": "https://open.spotify.com/album/2OPcQNLP8DQVumD8kBRAH3"
+      },
+      "artists": [
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        }
+      ],
+      "duration_ms": 218306,
+      "name": "White Gloves",
+      "url": "https://open.spotify.com/track/4AKUOaCRcoKTFnVI9LtsrN"
     },
     {
       "added_at": "2024-10-04 17:28:20",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2024-10-04 17:28:20",
       "album": {
-        "name": "Andromeda",
-        "url": "https://open.spotify.com/album/5yJSom3XkblAv45wgFz07L"
-      },
-      "artists": [
-        {
-          "name": "Ethel",
-          "url": "https://open.spotify.com/artist/71EdrAYsVrCyHOzDEqNOu0"
-        }
-      ],
-      "duration_ms": 123000,
-      "name": "Andromeda",
-      "url": "https://open.spotify.com/track/3whY26FqEAhCSP7YeEluNL"
-    },
-    {
-      "added_at": "2024-10-04 17:28:20",
-      "album": {
         "name": "Untitled (Rise)",
         "url": "https://open.spotify.com/album/0K8jX7CLwxJaML5iXdxveF"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 305829,
       "name": "Free",
       "url": "https://open.spotify.com/track/4iaaEAAyCWrQdYT5tRnyDb"
+    },
+    {
+      "added_at": "2024-10-04 17:28:20",
+      "album": {
+        "name": "Andromeda",
+        "url": "https://open.spotify.com/album/5yJSom3XkblAv45wgFz07L"
+      },
+      "artists": [
+        {
+          "name": "Ethel",
+          "url": "https://open.spotify.com/artist/71EdrAYsVrCyHOzDEqNOu0"
+        }
+      ],
+      "duration_ms": 123000,
+      "name": "Andromeda",
+      "url": "https://open.spotify.com/track/3whY26FqEAhCSP7YeEluNL"
     },
     {
       "added_at": "2024-10-04 17:28:20",
@@ -1343,18 +1343,18 @@
     {
       "added_at": "2024-10-04 17:28:20",
       "album": {
-        "name": "Yesterday's Gone",
-        "url": "https://open.spotify.com/album/6wjryxtrKxzTZID9kyZUV5"
+        "name": "Africa",
+        "url": "https://open.spotify.com/album/1oX2uFCr3pIDL5M2ByEmm3"
       },
       "artists": [
         {
-          "name": "Loyle Carner",
-          "url": "https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k"
+          "name": "Amanaz",
+          "url": "https://open.spotify.com/artist/7dZiPXbSCTAgUpmpgNoLjt"
         }
       ],
-      "duration_ms": 194426,
-      "name": "Ain't Nothing Changed",
-      "url": "https://open.spotify.com/track/5dvpipXxOIH96gcGEKR1Iu"
+      "duration_ms": 203716,
+      "name": "Khala My Friend",
+      "url": "https://open.spotify.com/track/5xevas4P14kVmD4St0X3yy"
     },
     {
       "added_at": "2024-10-04 17:28:20",
@@ -1375,18 +1375,18 @@
     {
       "added_at": "2024-10-04 17:28:20",
       "album": {
-        "name": "Africa",
-        "url": "https://open.spotify.com/album/1oX2uFCr3pIDL5M2ByEmm3"
+        "name": "Yesterday's Gone",
+        "url": "https://open.spotify.com/album/6wjryxtrKxzTZID9kyZUV5"
       },
       "artists": [
         {
-          "name": "Amanaz",
-          "url": "https://open.spotify.com/artist/7dZiPXbSCTAgUpmpgNoLjt"
+          "name": "Loyle Carner",
+          "url": "https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k"
         }
       ],
-      "duration_ms": 203716,
-      "name": "Khala My Friend",
-      "url": "https://open.spotify.com/track/5xevas4P14kVmD4St0X3yy"
+      "duration_ms": 194426,
+      "name": "Ain't Nothing Changed",
+      "url": "https://open.spotify.com/track/5dvpipXxOIH96gcGEKR1Iu"
     },
     {
       "added_at": "2024-10-04 17:28:20",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2024-10-04 17:28:20",
       "album": {
-        "name": "Teatro L\u00facido",
-        "url": "https://open.spotify.com/album/6x8QhgzstEOQZl50dvArzI"
-      },
-      "artists": [
-        {
-          "name": "La Femme",
-          "url": "https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI"
-        }
-      ],
-      "duration_ms": 172613,
-      "name": "Sacatela",
-      "url": "https://open.spotify.com/track/0ZH2Ve6Ns1kzEMWunJoAek"
-    },
-    {
-      "added_at": "2024-10-04 17:28:20",
-      "album": {
         "name": "YoSoyMatt (feat. Hermanu)",
         "url": "https://open.spotify.com/album/6hLIAEBdWIqUcERETkJZHE"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 237600,
       "name": "YoSoyMatt (feat. Hermanu)",
       "url": "https://open.spotify.com/track/5T3yTmOJ1hJxnH8boXgm3l"
+    },
+    {
+      "added_at": "2024-10-04 17:28:20",
+      "album": {
+        "name": "Teatro L\u00facido",
+        "url": "https://open.spotify.com/album/6x8QhgzstEOQZl50dvArzI"
+      },
+      "artists": [
+        {
+          "name": "La Femme",
+          "url": "https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI"
+        }
+      ],
+      "duration_ms": 172613,
+      "name": "Sacatela",
+      "url": "https://open.spotify.com/track/0ZH2Ve6Ns1kzEMWunJoAek"
     },
     {
       "added_at": "2024-10-04 17:28:20",

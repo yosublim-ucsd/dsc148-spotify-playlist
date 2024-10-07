@@ -2734,7 +2734,7 @@
       ],
       "date_added": "2024-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-07",
       "duration_ms": 210373,
       "name": "BIRDS OF A FEATHER",
       "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
@@ -6150,6 +6150,24 @@
     {
       "album": {
         "name": "The Last",
+        "url": "https://open.spotify.com/album/57tmzh0hsnWU8znnvEWJbe"
+      },
+      "artists": [
+        {
+          "name": "Aventura",
+          "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
+        }
+      ],
+      "date_added": "2024-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238720,
+      "name": "El Malo",
+      "url": "https://open.spotify.com/track/217bRMES4HVbPdUe8l8ECN"
+    },
+    {
+      "album": {
+        "name": "The Last",
         "url": "https://open.spotify.com/album/5kUva4uwVPMIyo8VX7pjBI"
       },
       "artists": [
@@ -7364,7 +7382,7 @@
       ],
       "date_added": "2024-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-07",
       "duration_ms": 268064,
       "name": "Feeling My Mind - Radio Edit",
       "url": "https://open.spotify.com/track/54GIpKWCbM8qNRp0DVk7U0"
@@ -10506,7 +10524,7 @@
       ],
       "date_added": "2022-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-07",
       "duration_ms": 202173,
       "name": "LA INOCENTE",
       "url": "https://open.spotify.com/track/5jt25aFjW2kNoBqaEVaz5W"
@@ -12058,7 +12076,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-01",
+      "date_removed": null,
       "duration_ms": 257186,
       "name": "Los Infieles",
       "url": "https://open.spotify.com/track/0HDHY6RSHHG2ZTE0cMT4GJ"
@@ -16819,6 +16837,24 @@
     },
     {
       "album": {
+        "name": "The Last",
+        "url": "https://open.spotify.com/album/57tmzh0hsnWU8znnvEWJbe"
+      },
+      "artists": [
+        {
+          "name": "Aventura",
+          "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
+        }
+      ],
+      "date_added": "2024-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255026,
+      "name": "Por un Segundo",
+      "url": "https://open.spotify.com/track/2MioxSroS0g1mi24LLfcnq"
+    },
+    {
+      "album": {
         "name": "Praise Jah In The Moonlight",
         "url": "https://open.spotify.com/album/3BicSFhksEP3QHanmBM1Wd"
       },
@@ -17586,7 +17622,7 @@
       ],
       "date_added": "2024-09-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-04",
+      "date_removed": null,
       "duration_ms": 191945,
       "name": "Qui\u00e9reme Mientras Se Pueda",
       "url": "https://open.spotify.com/track/1WH3iquIQXnSPwUzlROT8R"
@@ -20166,7 +20202,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-07",
       "duration_ms": 142022,
       "name": "Soltera - W Sound 01",
       "url": "https://open.spotify.com/track/13BDiikG6y5o5cQTK0HpW6"

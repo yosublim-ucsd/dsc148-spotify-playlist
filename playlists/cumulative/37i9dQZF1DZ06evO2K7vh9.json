@@ -985,6 +985,24 @@
     },
     {
       "album": {
+        "name": "PLAN A",
+        "url": "https://open.spotify.com/album/6uWva3kfeqqVIsNAJ2MmeL"
+      },
+      "artists": [
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        }
+      ],
+      "date_added": "2024-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141732,
+      "name": "NEVER LAST",
+      "url": "https://open.spotify.com/track/7JKwHEhYWjEDiaAVqm0RZd"
+    },
+    {
+      "album": {
         "name": "We Love You Tecca 2",
         "url": "https://open.spotify.com/album/7nTvm6EgmFWPLMLxj6aksS"
       },
@@ -1650,7 +1668,7 @@
       ],
       "date_added": "2024-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-07",
       "duration_ms": 153014,
       "name": "VOGUE",
       "url": "https://open.spotify.com/track/3xXDLFPydivY2cb5AUgWOv"

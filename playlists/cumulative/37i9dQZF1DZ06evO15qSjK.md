@@ -4,7 +4,7 @@
 
 > This is Kidz Bop Kids\. The essential tracks, all in one playlist.
 
-123 songs - 6 hr 5 min
+124 songs - 6 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Ghostbusters](https://open.spotify.com/track/1VNB8G2Rq3RcQgo74OCHzp) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Halloween](https://open.spotify.com/album/7mb79mhvW3ZTdeIQWos7xs) | 3:20 | 2023-11-10 | 2024-01-20 |
 | [golden hour](https://open.spotify.com/track/4uytF0qp1tcxziLTTeO6AN) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [golden hour](https://open.spotify.com/album/5EQYSzWJ5ugaSEsA4ZTrxR) | 3:01 | 2023-04-08 | 2023-09-26 |
 | [Good 4 U](https://open.spotify.com/track/2WiPuzLGu2LKOjYQ2SMLcf) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2022](https://open.spotify.com/album/1pVDyIhEeVDBQjZYO67ytl) | 2:46 | 2023-02-16 |  |
+| [Good Luck, Babe!](https://open.spotify.com/track/5QNPIe0ROSkymWH1j5cDMh) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Good Luck, Babe!](https://open.spotify.com/album/4mlUohsTRlocyVik8trXIs) | 3:36 | 2024-10-07 |  |
 | [greedy](https://open.spotify.com/track/0iLxPWv05NhSpVJttYibEt) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [greedy](https://open.spotify.com/album/1DeAVIlDfXSfpPjvUuKks4) | 2:09 | 2024-02-10 | 2024-08-06 |
 | [HandClap](https://open.spotify.com/track/3YyTZEQ17P1arrbdBoClRx) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Megapop](https://open.spotify.com/album/2YYMDIHQoKH1MMpTeJ79UW) | 3:05 | 2023-02-16 |  |
 | [Hey Ya! \- Redo Version](https://open.spotify.com/track/0LsQmzBACogw2KWIzetVZf) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP All\-Time Greatest Hits](https://open.spotify.com/album/2r2u6SsHaCMojcx5bpSlJ8) | 3:55 | 2023-02-16 | 2023-07-05 |

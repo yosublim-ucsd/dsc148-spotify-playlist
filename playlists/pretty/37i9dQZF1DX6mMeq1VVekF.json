@@ -1,6 +1,6 @@
 {
   "description": "No tags, no labels - just free form. Cover: Lex Amor",
-  "num_followers": 177810,
+  "num_followers": 177868,
   "original_name": "Free Form",
   "owner": {
     "name": "Spotify",
@@ -307,6 +307,26 @@
     {
       "added_at": "2024-10-03 23:00:00",
       "album": {
+        "name": "Three Piece Suit (feat. Azekel)",
+        "url": "https://open.spotify.com/album/2Nqaqx256kZBgaIS5FvzBQ"
+      },
+      "artists": [
+        {
+          "name": "Kokoroko",
+          "url": "https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr"
+        },
+        {
+          "name": "Azekel",
+          "url": "https://open.spotify.com/artist/446nYwuXzCKnDwZUu4kGQA"
+        }
+      ],
+      "duration_ms": 276733,
+      "name": "Three Piece Suit (feat. Azekel)",
+      "url": "https://open.spotify.com/track/0VIegveYbIaxxTgBNHSl3v"
+    },
+    {
+      "added_at": "2024-10-03 23:00:00",
+      "album": {
         "name": "3:AM (feat. Erykah Badu)",
         "url": "https://open.spotify.com/album/4pTWXfffnCr06nRRkJyXFq"
       },
@@ -355,26 +375,6 @@
       "duration_ms": 136917,
       "name": "FU",
       "url": "https://open.spotify.com/track/1YBBKNODINXewbFOTyTDGd"
-    },
-    {
-      "added_at": "2024-10-03 23:00:00",
-      "album": {
-        "name": "Three Piece Suit (feat. Azekel)",
-        "url": "https://open.spotify.com/album/2Nqaqx256kZBgaIS5FvzBQ"
-      },
-      "artists": [
-        {
-          "name": "Kokoroko",
-          "url": "https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr"
-        },
-        {
-          "name": "Azekel",
-          "url": "https://open.spotify.com/artist/446nYwuXzCKnDwZUu4kGQA"
-        }
-      ],
-      "duration_ms": 276733,
-      "name": "Three Piece Suit (feat. Azekel)",
-      "url": "https://open.spotify.com/track/0VIegveYbIaxxTgBNHSl3v"
     },
     {
       "added_at": "2024-10-03 23:00:00",
@@ -527,6 +527,22 @@
     {
       "added_at": "2024-10-03 23:00:00",
       "album": {
+        "name": "2BADGYALZ",
+        "url": "https://open.spotify.com/album/5Lx2hE5ENvPQJplNUXYxrC"
+      },
+      "artists": [
+        {
+          "name": "Bree Runway",
+          "url": "https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w"
+        }
+      ],
+      "duration_ms": 101500,
+      "name": "2BADGYALZ",
+      "url": "https://open.spotify.com/track/2R5vY0DGyGkoW1Q13SNCzr"
+    },
+    {
+      "added_at": "2024-10-03 23:00:00",
+      "album": {
         "name": "outsid4 (feat. ayrtn & with Bawo)",
         "url": "https://open.spotify.com/album/0QSeNY42WTRKILTxNdt7I7"
       },
@@ -619,22 +635,6 @@
     {
       "added_at": "2024-10-03 23:00:00",
       "album": {
-        "name": "2BADGYALZ",
-        "url": "https://open.spotify.com/album/5Lx2hE5ENvPQJplNUXYxrC"
-      },
-      "artists": [
-        {
-          "name": "Bree Runway",
-          "url": "https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w"
-        }
-      ],
-      "duration_ms": 101500,
-      "name": "2BADGYALZ",
-      "url": "https://open.spotify.com/track/2R5vY0DGyGkoW1Q13SNCzr"
-    },
-    {
-      "added_at": "2024-10-03 23:00:00",
-      "album": {
         "name": "Back It Up",
         "url": "https://open.spotify.com/album/1f0P6RYU2zRhB4OLQspm5k"
       },
@@ -647,6 +647,22 @@
       "duration_ms": 119097,
       "name": "Back It Up",
       "url": "https://open.spotify.com/track/4zYVvRX0i7fbyu78AsNPNH"
+    },
+    {
+      "added_at": "2024-10-03 23:00:00",
+      "album": {
+        "name": "XONGZ \u12a0\u1235\u1240\u12eb\u121a \u1321\u1265",
+        "url": "https://open.spotify.com/album/7cl6XSy5M1wlFSFtOqQutC"
+      },
+      "artists": [
+        {
+          "name": "Bricknasty",
+          "url": "https://open.spotify.com/artist/3BcbwxzJm5f0yppgo2Vatd"
+        }
+      ],
+      "duration_ms": 169228,
+      "name": "vinland",
+      "url": "https://open.spotify.com/track/4rxGfHqxkjke3BbD6a0wkK"
     },
     {
       "added_at": "2024-10-03 23:00:00",
@@ -783,18 +799,18 @@
     {
       "added_at": "2024-10-03 23:00:00",
       "album": {
-        "name": "XONGZ \u12a0\u1235\u1240\u12eb\u121a \u1321\u1265",
-        "url": "https://open.spotify.com/album/7cl6XSy5M1wlFSFtOqQutC"
+        "name": "WHAT WAS THE QUESTION",
+        "url": "https://open.spotify.com/album/2fKkKKLxeXHlKknCUckPJN"
       },
       "artists": [
         {
-          "name": "Bricknasty",
-          "url": "https://open.spotify.com/artist/3BcbwxzJm5f0yppgo2Vatd"
+          "name": "Curtisy",
+          "url": "https://open.spotify.com/artist/5VMnilBpX9s4C1HBnTCX35"
         }
       ],
-      "duration_ms": 169228,
-      "name": "vinland",
-      "url": "https://open.spotify.com/track/4rxGfHqxkjke3BbD6a0wkK"
+      "duration_ms": 196603,
+      "name": "Landmine!",
+      "url": "https://open.spotify.com/track/4YOtWmWn8sKqBNLnWnxquF"
     },
     {
       "added_at": "2024-10-03 23:00:00",
@@ -811,22 +827,6 @@
       "duration_ms": 246940,
       "name": "SUMMER RAIN",
       "url": "https://open.spotify.com/track/4LA55DZy7gBLuROnUTTb17"
-    },
-    {
-      "added_at": "2024-10-03 23:00:00",
-      "album": {
-        "name": "WHAT WAS THE QUESTION",
-        "url": "https://open.spotify.com/album/2fKkKKLxeXHlKknCUckPJN"
-      },
-      "artists": [
-        {
-          "name": "Curtisy",
-          "url": "https://open.spotify.com/artist/5VMnilBpX9s4C1HBnTCX35"
-        }
-      ],
-      "duration_ms": 196603,
-      "name": "Landmine!",
-      "url": "https://open.spotify.com/track/4YOtWmWn8sKqBNLnWnxquF"
     },
     {
       "added_at": "2024-10-03 23:00:00",
@@ -863,6 +863,22 @@
     {
       "added_at": "2024-10-03 23:00:00",
       "album": {
+        "name": "Coulda Been",
+        "url": "https://open.spotify.com/album/7qm0yqA8bDIZT17wHH2gzO"
+      },
+      "artists": [
+        {
+          "name": "Ajet 2F",
+          "url": "https://open.spotify.com/artist/4Ruq98a6s75FiLSMsRYwqL"
+        }
+      ],
+      "duration_ms": 173793,
+      "name": "Coulda Been",
+      "url": "https://open.spotify.com/track/1odD58TbhEsdHHhLh1Apko"
+    },
+    {
+      "added_at": "2024-10-03 23:00:00",
+      "album": {
         "name": "Miss Independent",
         "url": "https://open.spotify.com/album/0nqnSOBfk40E7PKulHrK8Z"
       },
@@ -883,6 +899,26 @@
     {
       "added_at": "2024-10-03 23:00:00",
       "album": {
+        "name": "Mi Amor",
+        "url": "https://open.spotify.com/album/0PJi5AejTSG6WN9JvqeMds"
+      },
+      "artists": [
+        {
+          "name": "AYL\u00d8",
+          "url": "https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd"
+        },
+        {
+          "name": "Le Mav",
+          "url": "https://open.spotify.com/artist/59MU62wyOLf8FlV7l8fewL"
+        }
+      ],
+      "duration_ms": 117333,
+      "name": "Mi Amor",
+      "url": "https://open.spotify.com/track/1GBk5m0nHSV2nwWv0fxpzA"
+    },
+    {
+      "added_at": "2024-10-03 23:00:00",
+      "album": {
         "name": "ADDICTED",
         "url": "https://open.spotify.com/album/6ban83tBjaNWpG9NnH0d1F"
       },
@@ -895,22 +931,6 @@
       "duration_ms": 209922,
       "name": "ADDICTED",
       "url": "https://open.spotify.com/track/1ZivZVDogiQeea1Un4ViVN"
-    },
-    {
-      "added_at": "2024-10-03 23:00:00",
-      "album": {
-        "name": "Coulda Been",
-        "url": "https://open.spotify.com/album/7qm0yqA8bDIZT17wHH2gzO"
-      },
-      "artists": [
-        {
-          "name": "Ajet 2F",
-          "url": "https://open.spotify.com/artist/4Ruq98a6s75FiLSMsRYwqL"
-        }
-      ],
-      "duration_ms": 173793,
-      "name": "Coulda Been",
-      "url": "https://open.spotify.com/track/1odD58TbhEsdHHhLh1Apko"
     },
     {
       "added_at": "2024-10-03 23:00:00",
@@ -1031,26 +1051,6 @@
       "duration_ms": 186352,
       "name": "NEIGHBOURS",
       "url": "https://open.spotify.com/track/1q74d6pWGeHrGOifl6o2W9"
-    },
-    {
-      "added_at": "2024-10-03 23:00:00",
-      "album": {
-        "name": "Mi Amor",
-        "url": "https://open.spotify.com/album/0PJi5AejTSG6WN9JvqeMds"
-      },
-      "artists": [
-        {
-          "name": "AYL\u00d8",
-          "url": "https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd"
-        },
-        {
-          "name": "Le Mav",
-          "url": "https://open.spotify.com/artist/59MU62wyOLf8FlV7l8fewL"
-        }
-      ],
-      "duration_ms": 117333,
-      "name": "Mi Amor",
-      "url": "https://open.spotify.com/track/1GBk5m0nHSV2nwWv0fxpzA"
     },
     {
       "added_at": "2024-10-03 23:00:00",

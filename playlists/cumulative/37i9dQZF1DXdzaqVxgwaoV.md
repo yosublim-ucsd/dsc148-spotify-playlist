@@ -4,7 +4,7 @@
 
 > ¡Celebrando 90 años de Discos Fuentes, con Pastor López en portada!
 
-297 songs - 18 hr 13 min
+298 songs - 18 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,6 +86,7 @@
 | [El Duende Alegre](https://open.spotify.com/track/5uadj2GMdeVsgdbAGeUEcf) | [Octavio Mesa](https://open.spotify.com/artist/3aVL3CqqnAdGM3p3QNBD8x) | [La Chiva del Año, Vol\. 1](https://open.spotify.com/album/2N5MnCPKhf5sGU5OiKISud) | 2:48 | 2023-12-20 | 2024-08-28 |
 | [El Errante](https://open.spotify.com/track/6HoxWuHERkD31dZdsounbJ) | [Sonia Y Carlos](https://open.spotify.com/artist/3mB0DGOFMia4eGJ4uBxprx) | [20 Grandes Éxitos la Mejor Música de Carrilera](https://open.spotify.com/album/6IuNe4Y4hEWhmUoHqXumpZ) | 3:09 | 2023-02-03 | 2024-09-02 |
 | [El Forastero](https://open.spotify.com/track/1cMqeDFxoS32WAGNtfg9di) | [Nelson Y Sus Estrellas](https://open.spotify.com/artist/5SRwYMyavJCNT2AdVMpPgi) | [Orquídea de Plata](https://open.spotify.com/album/22gSxHcz1T3gscMlBYOWzn) | 2:59 | 2023-11-09 | 2024-03-26 |
+| [El Hijo Ausente](https://open.spotify.com/track/3TqgsPZFuI33G3939uyQ1v) | [Pastor Lopez](https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE) | [Historia Musical de Pastor López](https://open.spotify.com/album/1KsOjvT6ah4LQ7ewBUXWrf) | 2:53 | 2024-09-01 |  |
 | [El Hijo Ausente](https://open.spotify.com/track/0MylXcqKagwOrtMNQDyj1B) | [Pastor Lopez Y Su Combo](https://open.spotify.com/artist/1OaJc4r2SBZ7Iokg2Gkwde) | [16 Exitos, Vol\. 1](https://open.spotify.com/album/70JxU1qy1jYkh6EfSFDOv1) | 2:53 | 2023-12-05 | 2024-04-06 |
 | [El Hijo de Tuta](https://open.spotify.com/track/3Af1yB8FrreRZsWddbJ3me) | [Lisandro Meza](https://open.spotify.com/artist/2iewjNvcxTxH8Pyi7S0KF3) | [63 Años de Vida Artística](https://open.spotify.com/album/2mTUZfmlvLfB9T04w1Z3F5) | 4:00 | 2023-11-09 | 2024-04-19 |
 | [El Hijo Desobediente](https://open.spotify.com/track/1uWves4S89RPNHMMM28H0x) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Rancherísimo, Vol\. 2](https://open.spotify.com/album/3AV09tqLmn5HRwmf54Dz1U) | 3:15 | 2023-02-03 | 2024-09-02 |
@@ -270,7 +271,7 @@
 | [Sublime Mujer](https://open.spotify.com/track/5mPbC4nz0DYXO3kfnmMgRe) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Entre El Amor Y Yo](https://open.spotify.com/album/3gDr14ItIjCEpR2UJ1wCLU) | 3:07 | 2023-02-03 | 2024-09-02 |
 | [Sólo Para Ti](https://open.spotify.com/track/1kkIlrp0Z69s5KlnR4ckoe) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [De América](https://open.spotify.com/album/3bVIsgDLKfaiDTT9KHhjK7) | 4:48 | 2023-11-09 | 2024-04-19 |
 | [Sólo un Cigarro](https://open.spotify.com/track/3QtQxRDlhjuN2fzL28c3YF) | [Pastor Lopez](https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE) | [Colección Éxitos Pastor López \(Vol\. 1\)](https://open.spotify.com/album/2xz5eDdp7jLgCCcmCkGaHk) | 2:49 | 2023-02-03 | 2024-09-02 |
-| [Sólo un Cigarro](https://open.spotify.com/track/6wO9BHGLaW8Zv3lgXdVlim) | [Pastor Lopez](https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE) | [Historia Musical de Pastor López](https://open.spotify.com/album/1KsOjvT6ah4LQ7ewBUXWrf) | 2:49 | 2024-09-01 |  |
+| [Sólo un Cigarro](https://open.spotify.com/track/6wO9BHGLaW8Zv3lgXdVlim) | [Pastor Lopez](https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE) | [Historia Musical de Pastor López](https://open.spotify.com/album/1KsOjvT6ah4LQ7ewBUXWrf) | 2:49 | 2024-09-01 | 2024-10-07 |
 | [Tabaco y Ron](https://open.spotify.com/track/0yR6g8tt0IzisAPcizD4xz) | [Rodolfo Aicardi](https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414), [La Tipica Ra7](https://open.spotify.com/artist/0WJbT6T0nkWfYO5zEbUPOG) | [Muy Tropical y Bailable](https://open.spotify.com/album/4FTPpblS9F4DOT7o46A9cU) | 4:02 | 2023-02-03 |  |
 | [Tabaco y ron](https://open.spotify.com/track/4Wo82fEZenBEqL4dpn6Bqt) | [Rodolfo y su Típica RA7](https://open.spotify.com/artist/2cHxxmqUJnm5Rc4FqqU1Hy) | [The Afrosound Of Colombia Volume 1](https://open.spotify.com/album/7GuPa60Lh3Wlls5rMGpOJf) | 4:05 | 2023-12-20 | 2024-08-28 |
 | [Tan bella y tan presumida](https://open.spotify.com/track/1iD7PGq7tgAg2SBPDj1E53) | [Los Hispanos](https://open.spotify.com/artist/6zk8WqI12buD0B67tteQ5h) | [Los Mejores, Los Hispanos, Los Graduados](https://open.spotify.com/album/1IBR0Tmgw4urAXuE32Sd0z) | 2:34 | 2023-12-05 | 2024-01-18 |

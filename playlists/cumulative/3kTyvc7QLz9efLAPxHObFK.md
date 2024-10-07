@@ -4,7 +4,7 @@
 
 > 
 
-1,740 songs - 3 day 21 hr 27 min
+1,741 songs - 3 day 21 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1324,6 +1324,7 @@
 | [SAVE ME](https://open.spotify.com/track/75ik4ywLHQRlMoDHyT9Tat) | [Deadly Guns](https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP), [Adjuzt](https://open.spotify.com/artist/0UDN8FPWVrZoMQ7mQB3bS8) | [SAVE ME](https://open.spotify.com/album/752BHfmRNj5DDeK3dS2oDp) | 3:00 | 2023-12-02 |  |
 | [Save Me](https://open.spotify.com/track/5FJkiIexuC9UvHpRBSMq91) | [Maissouille](https://open.spotify.com/artist/1aQbGaag8KEI8kKtY37UQU), [Frenzy](https://open.spotify.com/artist/555S6x5I9gWD8U5GjOey8d) | [Save Me](https://open.spotify.com/album/0yYpW8mlnYSBQ0cdlJQTwa) | 3:40 | 2023-02-13 |  |
 | [SAVE ME](https://open.spotify.com/track/15YYQC2n1LJblmAoN8F5ke) | [Sickmode](https://open.spotify.com/artist/5PbgCU02dfdBCAzpOaNmYW), [Rooler](https://open.spotify.com/artist/2lpFs8QJyIeVDb2Sq4vZYi), [Krowdexx](https://open.spotify.com/artist/7Ecbym3UD6q848BAse6Qeb) | [SAVE ME](https://open.spotify.com/album/29xilFGP5o6DtJzDJFhnJh) | 2:57 | 2024-06-24 |  |
+| [Save Me](https://open.spotify.com/track/50cHsbjIjPC8CGKkfaDKSJ) | [Sub Zero Project](https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl), [Rebelion](https://open.spotify.com/artist/5JcSyYpBdqCmjJyVlKh7Yg) | [Save Me](https://open.spotify.com/album/70dQ4XawX4AHYr2qHLNGnY) | 3:43 | 2024-10-07 |  |
 | [Save The World](https://open.spotify.com/track/0OetlyH9gSvLLzHFISImKW) | [YUKIYANAGI](https://open.spotify.com/artist/5CxWZpW3bKbMiOC6jJ5r7i) | [Beyond core EVANGELIX 01](https://open.spotify.com/album/5mFg1Tms9cKuoG2LsnIn1V) | 5:11 | 2022-02-22 |  |
 | [Say My Name \- Republic Remix](https://open.spotify.com/track/095NHwFjtl0pYHkCS1a1JR) | [Krowdexx](https://open.spotify.com/artist/7Ecbym3UD6q848BAse6Qeb), [Republic](https://open.spotify.com/artist/3b2nFKYSMKcxy0kV1hTqFt) | [Say My Name \(Republic Remix\)](https://open.spotify.com/album/7zVoEs3Mmi3rDR7aTXEjNT) | 2:57 | 2023-09-09 |  |
 | [SAY WHAT](https://open.spotify.com/track/7smZ2w7iivJbiwObGvTzxu) | [X\-Pander](https://open.spotify.com/artist/5BD89DInX2q6j9laqzi79K) | [SAY WHAT](https://open.spotify.com/album/3h7k8vNKAUINnODn3CZwK9) | 2:58 | 2023-11-20 |  |

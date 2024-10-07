@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FOF1IUWK1W.md) - [plain]
 
 > Luan Pereira, Ana Castela e os maiores hits do país\. O que tá bombando tá aqui.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,375,870 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,376,388 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FOF1IUWK1W.md) - [plain]
 | 5 | [Xonei](https://open.spotify.com/track/5sKGmZDmkGwFed5dPpZpZL) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM), [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Xonei](https://open.spotify.com/album/711n0ABtpMF0SjSuDrM1PK) | 2:34 |
 | 6 | [Última Saudade \- Ao Vivo](https://open.spotify.com/track/1wubETHu3SeJHfbz9itEH0) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Manifesto Musical 2 \(Ao Vivo / EP1\)](https://open.spotify.com/album/4HothMjvojSA740SFUAiRC) | 2:30 |
 | 7 | [Saveiro](https://open.spotify.com/track/7l9Tq5phzkLnhWUyfp702G) | [Kaique e Felipe](https://open.spotify.com/artist/0JRPF8WIKUtSO2IUYfrcuh), [Luan Pereira](https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl) | [Saveiro](https://open.spotify.com/album/6uVgeP03fiAhjy23TVWKzS) | 2:24 |
-| 8 | [CLONE \- Ao Vivo](https://open.spotify.com/track/4dvHZesL5UKzfJnFH5bm3g) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [CLONE \- Ao Vivo](https://open.spotify.com/album/1joXkdnMTPXoc4nRIqkr0s) | 2:44 |
+| 8 | [CLONE \- Ao Vivo](https://open.spotify.com/track/4dvHZesL5UKzfJnFH5bm3g) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [CLONE \(Ao Vivo\)](https://open.spotify.com/album/1joXkdnMTPXoc4nRIqkr0s) | 2:44 |
 | 9 | [Vamo de Pagodin](https://open.spotify.com/track/6FllOXq1UDCFDt1V4YvN3K) | [Mc Daniel](https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy), [DJ WN](https://open.spotify.com/artist/3joq445M6f168kb3mkp7BB), [Dj GM](https://open.spotify.com/artist/03PnQHlbH5nDDVX3hNg628) | [Vamo de Pagodin](https://open.spotify.com/album/5Fn3Y1kin9K4bEv71S728q) | 2:40 |
 | 10 | [Do Jeito Que Você Mete](https://open.spotify.com/track/5CtXR89REICvEZljUEK8r1) | [DJ L30](https://open.spotify.com/artist/5tfvAC3ptwTnVXeNJ8qkYe), [MC Thaizinha](https://open.spotify.com/artist/5O30nI9WzhHuxqFZqReBQu) | [Do Jeito Que Você Mete](https://open.spotify.com/album/3CrUjWfFQTKOJLm84bETqM) | 2:00 |
 | 11 | [Afrodite](https://open.spotify.com/track/3DAlIobCDPVvUkyDZv5oVp) | [Delacruz](https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4), [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes), [JOK3R](https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq) | [Afrodite](https://open.spotify.com/album/1WckKAD1PVdVcLmdN6XLJT) | 3:21 |

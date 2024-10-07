@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2RXuZnFEt8P7rr9UUIsyZo">Alessandro La Cava</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-79 songs - 4 hr 5 min
+80 songs - 4 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,8 @@
 | [La sfida contro il tempo](https://open.spotify.com/track/3JChn2cFbSZTtmQY4SvfOb) | [Ninna e Matti](https://open.spotify.com/artist/3ddOmMXJS1tUjF60vzU9eo) | [La sfida contro il tempo](https://open.spotify.com/album/6sNrtP2h6fSF3RvV39c0GY) | 3:04 | 2023-12-13 |  |
 | [La Storia Più Bella Di Sempre](https://open.spotify.com/track/1fhtLz1b8GGScLY7dZe8qj) | [Will](https://open.spotify.com/artist/7qIrqNF6i1kRLkGLgGXuZq) | [Prima di Sanremo](https://open.spotify.com/album/3HlLMNC6Vy5YImharx1guE) | 2:49 | 2023-01-16 | 2023-02-04 |
 | [La Storia Più Bella Di Sempre](https://open.spotify.com/track/52iL3M9rif4eQplgFdslmW) | [Will](https://open.spotify.com/artist/7qIrqNF6i1kRLkGLgGXuZq) | [CHI SONO VERAMENTE EP](https://open.spotify.com/album/5fEPgkaJVP12LRMZ5T6fhI) | 2:49 | 2022-09-16 | 2023-02-13 |
-| [La Storia Più Bella Di Sempre](https://open.spotify.com/track/4QkNTRmPGMyubxV3PL3mT5) | [Will](https://open.spotify.com/artist/7qIrqNF6i1kRLkGLgGXuZq) | [Manchester](https://open.spotify.com/album/2ruotvPgxJcb8DMbzQ5XFz) | 2:49 | 2023-02-12 |  |
+| [La Storia Più Bella Di Sempre](https://open.spotify.com/track/4QkNTRmPGMyubxV3PL3mT5) | [Will](https://open.spotify.com/artist/7qIrqNF6i1kRLkGLgGXuZq) | [Manchester](https://open.spotify.com/album/2ruotvPgxJcb8DMbzQ5XFz) | 2:49 | 2023-02-12 | 2024-10-07 |
+| [La Storia Più Bella Di Sempre](https://open.spotify.com/track/5Dwi8UxcZkZ74C7tYzRqGv) | [Will](https://open.spotify.com/artist/7qIrqNF6i1kRLkGLgGXuZq) | [Manchester](https://open.spotify.com/album/1fzL3WefoCP6F7sEzlU8mg) | 2:49 | 2024-10-06 |  |
 | [lady](https://open.spotify.com/track/1h9HxkDH67X8cig593BBOb) | [sangiovanni](https://open.spotify.com/artist/7dL0nOHwnSAsNAwpkPSGWP) | [sangiovanni](https://open.spotify.com/album/4glIx4caTnxFFuRP5tUFaz) | 2:36 | 2022-09-16 |  |
 | [Luccica](https://open.spotify.com/track/2MRNpRQLaErjmGBk6c9OQJ) | [Matteo Bocelli](https://open.spotify.com/artist/3SzmIPVTtVc0AzbR8kwk0w) | [Matteo](https://open.spotify.com/album/5VeLRPwjs2yLnNklcluzlc) | 2:47 | 2023-09-25 |  |
 | [Luna](https://open.spotify.com/track/2zyiYftVAL1eKQZtMxG1IZ) | [Baby K](https://open.spotify.com/artist/725KKhVCSCQbYkZBptBTfg) | [Donna sulla Luna](https://open.spotify.com/album/5zWZQPpSRsDwx6AwmkMZmD) | 3:31 | 2022-09-16 |  |

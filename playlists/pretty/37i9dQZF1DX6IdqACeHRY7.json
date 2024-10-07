@@ -1,6 +1,6 @@
 {
   "description": "Behagelig musik.",
-  "num_followers": 153251,
+  "num_followers": 153264,
   "original_name": "ren hygge",
   "owner": {
     "name": "Spotify",
@@ -243,6 +243,22 @@
     {
       "added_at": "2024-08-13 10:19:04",
       "album": {
+        "name": "Chaos And The Calm",
+        "url": "https://open.spotify.com/album/3GqsyMrJu3o8jLiGyBsBQW"
+      },
+      "artists": [
+        {
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+        }
+      ],
+      "duration_ms": 238746,
+      "name": "Hold Back The River",
+      "url": "https://open.spotify.com/track/1KZyVnyptQcPzkx7ELCnZC"
+    },
+    {
+      "added_at": "2024-08-13 10:19:04",
+      "album": {
         "name": "Happiness Begins",
         "url": "https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2"
       },
@@ -275,38 +291,6 @@
     {
       "added_at": "2024-08-13 10:19:04",
       "album": {
-        "name": "Chaos And The Calm",
-        "url": "https://open.spotify.com/album/3GqsyMrJu3o8jLiGyBsBQW"
-      },
-      "artists": [
-        {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
-        }
-      ],
-      "duration_ms": 238746,
-      "name": "Hold Back The River",
-      "url": "https://open.spotify.com/track/1KZyVnyptQcPzkx7ELCnZC"
-    },
-    {
-      "added_at": "2024-08-13 10:19:04",
-      "album": {
-        "name": "Shape of You (Acoustic)",
-        "url": "https://open.spotify.com/album/5Nk90vGwn59ToxTvSNsKZw"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 223573,
-      "name": "Shape of You - Acoustic",
-      "url": "https://open.spotify.com/track/5ULRlgiSPSKTaJN1vU9yso"
-    },
-    {
-      "added_at": "2024-08-13 10:19:04",
-      "album": {
         "name": "The Thrill Of It All (Special Edition)",
         "url": "https://open.spotify.com/album/3TJz2UBNYJtlEly0sPeNrQ"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 283294,
       "name": "No Peace",
       "url": "https://open.spotify.com/track/5ZX1X9Rl4zbx1Wwyn3idVD"
+    },
+    {
+      "added_at": "2024-08-13 10:19:04",
+      "album": {
+        "name": "Shape of You (Acoustic)",
+        "url": "https://open.spotify.com/album/5Nk90vGwn59ToxTvSNsKZw"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 223573,
+      "name": "Shape of You - Acoustic",
+      "url": "https://open.spotify.com/track/5ULRlgiSPSKTaJN1vU9yso"
     },
     {
       "added_at": "2024-08-13 10:19:04",
@@ -407,26 +407,6 @@
     {
       "added_at": "2024-08-13 10:19:04",
       "album": {
-        "name": "Best Part of Me (feat. YEBBA)",
-        "url": "https://open.spotify.com/album/6Z5DhADmyybfKNdymaPLjB"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        },
-        {
-          "name": "Yebba",
-          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
-        }
-      ],
-      "duration_ms": 243266,
-      "name": "Best Part of Me (feat. YEBBA)",
-      "url": "https://open.spotify.com/track/5ug4vqGZ3eisGhY1IsziNX"
-    },
-    {
-      "added_at": "2024-08-13 10:19:04",
-      "album": {
         "name": "golden thing",
         "url": "https://open.spotify.com/album/33MiMpGm7MU2UBggBqBIUz"
       },
@@ -459,6 +439,42 @@
       "duration_ms": 187621,
       "name": "Dancing With A Stranger (With Normani) - Acoustic",
       "url": "https://open.spotify.com/track/29f11nLUcMYQ2Ndbnb7N0o"
+    },
+    {
+      "added_at": "2024-08-13 10:19:04",
+      "album": {
+        "name": "Best Part of Me (feat. YEBBA)",
+        "url": "https://open.spotify.com/album/6Z5DhADmyybfKNdymaPLjB"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        {
+          "name": "Yebba",
+          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
+        }
+      ],
+      "duration_ms": 243266,
+      "name": "Best Part of Me (feat. YEBBA)",
+      "url": "https://open.spotify.com/track/5ug4vqGZ3eisGhY1IsziNX"
+    },
+    {
+      "added_at": "2024-08-13 10:19:04",
+      "album": {
+        "name": "Chapters",
+        "url": "https://open.spotify.com/album/3GNzXsFbzdwM0WKCZtgeNP"
+      },
+      "artists": [
+        {
+          "name": "James TW",
+          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
+        }
+      ],
+      "duration_ms": 246320,
+      "name": "Incredible",
+      "url": "https://open.spotify.com/track/5bZeugrr7oIATt1CLJuhT4"
     },
     {
       "added_at": "2024-08-13 10:19:04",
@@ -523,22 +539,6 @@
       "duration_ms": 253011,
       "name": "Rose",
       "url": "https://open.spotify.com/track/5UDkdxN87TOPiL7cTNkh7l"
-    },
-    {
-      "added_at": "2024-08-13 10:19:04",
-      "album": {
-        "name": "Chapters",
-        "url": "https://open.spotify.com/album/3GNzXsFbzdwM0WKCZtgeNP"
-      },
-      "artists": [
-        {
-          "name": "James TW",
-          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
-        }
-      ],
-      "duration_ms": 246320,
-      "name": "Incredible",
-      "url": "https://open.spotify.com/track/5bZeugrr7oIATt1CLJuhT4"
     },
     {
       "added_at": "2024-08-13 10:19:04",
@@ -703,22 +703,6 @@
     {
       "added_at": "2024-08-13 10:19:04",
       "album": {
-        "name": "Only You",
-        "url": "https://open.spotify.com/album/6sHajzVPJWUs96opVi2lqe"
-      },
-      "artists": [
-        {
-          "name": "Parson James",
-          "url": "https://open.spotify.com/artist/48sLioddyaXkuhyHXSkpsB"
-        }
-      ],
-      "duration_ms": 198897,
-      "name": "Only You",
-      "url": "https://open.spotify.com/track/3wD9lRUL8hYJzPnJDSCzD9"
-    },
-    {
-      "added_at": "2024-08-13 10:19:04",
-      "album": {
         "name": "Keeping Faith",
         "url": "https://open.spotify.com/album/4lxNvi3XfEZfon54OltWQh"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 172058,
       "name": "Faith's Song",
       "url": "https://open.spotify.com/track/4HFUxZOWqVemXYF1T7QQ1l"
+    },
+    {
+      "added_at": "2024-08-13 10:19:04",
+      "album": {
+        "name": "Only You",
+        "url": "https://open.spotify.com/album/6sHajzVPJWUs96opVi2lqe"
+      },
+      "artists": [
+        {
+          "name": "Parson James",
+          "url": "https://open.spotify.com/artist/48sLioddyaXkuhyHXSkpsB"
+        }
+      ],
+      "duration_ms": 198897,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/3wD9lRUL8hYJzPnJDSCzD9"
     },
     {
       "added_at": "2024-08-13 10:19:04",
@@ -947,22 +947,6 @@
     {
       "added_at": "2024-08-13 10:19:04",
       "album": {
-        "name": "Lose You Too",
-        "url": "https://open.spotify.com/album/5Y5EDuf24u2yA488SKJiBW"
-      },
-      "artists": [
-        {
-          "name": "shy martin",
-          "url": "https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM"
-        }
-      ],
-      "duration_ms": 186463,
-      "name": "Lose You Too",
-      "url": "https://open.spotify.com/track/5JkUNbYSn06ghlmu0NRUMf"
-    },
-    {
-      "added_at": "2024-08-13 10:19:04",
-      "album": {
         "name": "Heartbeat",
         "url": "https://open.spotify.com/album/052xFq8blHwU5tv1kjeiak"
       },
@@ -1011,6 +995,22 @@
     {
       "added_at": "2024-08-13 10:19:04",
       "album": {
+        "name": "Lose You Too",
+        "url": "https://open.spotify.com/album/5Y5EDuf24u2yA488SKJiBW"
+      },
+      "artists": [
+        {
+          "name": "shy martin",
+          "url": "https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM"
+        }
+      ],
+      "duration_ms": 186463,
+      "name": "Lose You Too",
+      "url": "https://open.spotify.com/track/5JkUNbYSn06ghlmu0NRUMf"
+    },
+    {
+      "added_at": "2024-08-13 10:19:04",
+      "album": {
         "name": "Mirage",
         "url": "https://open.spotify.com/album/2ZkqACn45Z6cSf1xy0ll2D"
       },
@@ -1023,6 +1023,22 @@
       "duration_ms": 164897,
       "name": "Mirage",
       "url": "https://open.spotify.com/track/1emAqEEKHGpdFx6H2YJTiG"
+    },
+    {
+      "added_at": "2024-08-13 10:19:04",
+      "album": {
+        "name": "Lukas Graham (Blue Album)",
+        "url": "https://open.spotify.com/album/6NQ2RNksdSKdtnlFOLJo24"
+      },
+      "artists": [
+        {
+          "name": "Lukas Graham",
+          "url": "https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7"
+        }
+      ],
+      "duration_ms": 236866,
+      "name": "What Happened To Perfect",
+      "url": "https://open.spotify.com/track/6MbtUcXRSDlJ4Zu3CYWMEG"
     },
     {
       "added_at": "2024-08-13 10:19:04",
@@ -1047,22 +1063,6 @@
     {
       "added_at": "2024-08-13 10:19:04",
       "album": {
-        "name": "Lukas Graham (Blue Album)",
-        "url": "https://open.spotify.com/album/6NQ2RNksdSKdtnlFOLJo24"
-      },
-      "artists": [
-        {
-          "name": "Lukas Graham",
-          "url": "https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7"
-        }
-      ],
-      "duration_ms": 236866,
-      "name": "What Happened To Perfect",
-      "url": "https://open.spotify.com/track/6MbtUcXRSDlJ4Zu3CYWMEG"
-    },
-    {
-      "added_at": "2024-08-13 10:19:04",
-      "album": {
         "name": "Make Me (Cry) [Acoustic]",
         "url": "https://open.spotify.com/album/1cOw8MxemGm0BsJfHAKAo0"
       },
@@ -1075,22 +1075,6 @@
       "duration_ms": 181821,
       "name": "Make Me (Cry) - Acoustic",
       "url": "https://open.spotify.com/track/4J87Y0ggs18DNP7XMn3f0X"
-    },
-    {
-      "added_at": "2024-08-13 10:19:04",
-      "album": {
-        "name": "Out of My Hands",
-        "url": "https://open.spotify.com/album/1MsZ5zY3wBWvB6el4T8Ikh"
-      },
-      "artists": [
-        {
-          "name": "shy martin",
-          "url": "https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM"
-        }
-      ],
-      "duration_ms": 203089,
-      "name": "Out of My Hands",
-      "url": "https://open.spotify.com/track/1qRDrHtcdLAKiryk0jPtmY"
     },
     {
       "added_at": "2024-08-13 10:19:04",
@@ -1139,6 +1123,22 @@
       "duration_ms": 197839,
       "name": "Until The Hurting Is Gone",
       "url": "https://open.spotify.com/track/3GeBvpzVmiqbKIAJZoffVc"
+    },
+    {
+      "added_at": "2024-08-13 10:19:04",
+      "album": {
+        "name": "Out of My Hands",
+        "url": "https://open.spotify.com/album/1MsZ5zY3wBWvB6el4T8Ikh"
+      },
+      "artists": [
+        {
+          "name": "shy martin",
+          "url": "https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM"
+        }
+      ],
+      "duration_ms": 203089,
+      "name": "Out of My Hands",
+      "url": "https://open.spotify.com/track/1qRDrHtcdLAKiryk0jPtmY"
     },
     {
       "added_at": "2024-08-13 10:19:04",
@@ -1303,6 +1303,22 @@
     {
       "added_at": "2024-08-13 10:19:04",
       "album": {
+        "name": "Kuffert Fuld Af Mursten",
+        "url": "https://open.spotify.com/album/1xxuamywTKWttzz005tsPl"
+      },
+      "artists": [
+        {
+          "name": "Claus Hempler",
+          "url": "https://open.spotify.com/artist/79tOI0xq2p477VYBgHagHg"
+        }
+      ],
+      "duration_ms": 294506,
+      "name": "Op",
+      "url": "https://open.spotify.com/track/5TjDwWPZ5vScUEG0NeRtuB"
+    },
+    {
+      "added_at": "2024-08-13 10:19:04",
+      "album": {
         "name": "Before",
         "url": "https://open.spotify.com/album/4PThhV9t25KFZAgmg680z8"
       },
@@ -1331,22 +1347,6 @@
       "duration_ms": 211316,
       "name": "May I Have This Dance",
       "url": "https://open.spotify.com/track/3YToI74MpP1RN2b2VYlhMQ"
-    },
-    {
-      "added_at": "2024-08-13 10:19:04",
-      "album": {
-        "name": "Kuffert Fuld Af Mursten",
-        "url": "https://open.spotify.com/album/1xxuamywTKWttzz005tsPl"
-      },
-      "artists": [
-        {
-          "name": "Claus Hempler",
-          "url": "https://open.spotify.com/artist/79tOI0xq2p477VYBgHagHg"
-        }
-      ],
-      "duration_ms": 294506,
-      "name": "Op",
-      "url": "https://open.spotify.com/track/5TjDwWPZ5vScUEG0NeRtuB"
     },
     {
       "added_at": "2024-08-13 10:19:04",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2024-08-13 10:19:04",
       "album": {
-        "name": "In Hindsight",
-        "url": "https://open.spotify.com/album/323C2iF45gSw52R7c0aSk0"
-      },
-      "artists": [
-        {
-          "name": "Elina",
-          "url": "https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9"
-        }
-      ],
-      "duration_ms": 167942,
-      "name": "Masquerade",
-      "url": "https://open.spotify.com/track/03rrlcjsqarfllXgIr2I2a"
-    },
-    {
-      "added_at": "2024-08-13 10:19:04",
-      "album": {
         "name": "Planets",
         "url": "https://open.spotify.com/album/2CarDiOUtxpQx9iaFlLA1O"
       },
@@ -1467,18 +1451,18 @@
     {
       "added_at": "2024-08-13 10:19:04",
       "album": {
-        "name": "Same Old",
-        "url": "https://open.spotify.com/album/59YQpTemLWyGdL6oQMPq6w"
+        "name": "In Hindsight",
+        "url": "https://open.spotify.com/album/323C2iF45gSw52R7c0aSk0"
       },
       "artists": [
         {
-          "name": "shy martin",
-          "url": "https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM"
+          "name": "Elina",
+          "url": "https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9"
         }
       ],
-      "duration_ms": 175536,
-      "name": "Same Old",
-      "url": "https://open.spotify.com/track/3GCVYVuCRRMH7WVtI5V0E3"
+      "duration_ms": 167942,
+      "name": "Masquerade",
+      "url": "https://open.spotify.com/track/03rrlcjsqarfllXgIr2I2a"
     },
     {
       "added_at": "2024-08-13 10:19:04",
@@ -1515,6 +1499,22 @@
     {
       "added_at": "2024-08-13 10:19:04",
       "album": {
+        "name": "Same Old",
+        "url": "https://open.spotify.com/album/59YQpTemLWyGdL6oQMPq6w"
+      },
+      "artists": [
+        {
+          "name": "shy martin",
+          "url": "https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM"
+        }
+      ],
+      "duration_ms": 175536,
+      "name": "Same Old",
+      "url": "https://open.spotify.com/track/3GCVYVuCRRMH7WVtI5V0E3"
+    },
+    {
+      "added_at": "2024-08-13 10:19:04",
+      "album": {
         "name": "Unconditional",
         "url": "https://open.spotify.com/album/40icOTpSW5lDFI2kyYHEkU"
       },
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2024-08-13 10:19:04",
       "album": {
-        "name": "Fearless",
-        "url": "https://open.spotify.com/album/3C0mlKvUmnOGr2OOxc79ak"
-      },
-      "artists": [
-        {
-          "name": "Rhye",
-          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
-        }
-      ],
-      "duration_ms": 284720,
-      "name": "Fearless",
-      "url": "https://open.spotify.com/track/1cU4GEpxK7Pu0RDsaQ3EAF"
-    },
-    {
-      "added_at": "2024-08-13 10:19:04",
-      "album": {
         "name": "Say Goodnight",
         "url": "https://open.spotify.com/album/2SZ5OldmAx9zijGjLbSfor"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 166258,
       "name": "Say Goodnight",
       "url": "https://open.spotify.com/track/4xYTaeo4725e2XJTJYz3km"
+    },
+    {
+      "added_at": "2024-08-13 10:19:04",
+      "album": {
+        "name": "Fearless",
+        "url": "https://open.spotify.com/album/3C0mlKvUmnOGr2OOxc79ak"
+      },
+      "artists": [
+        {
+          "name": "Rhye",
+          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
+        }
+      ],
+      "duration_ms": 284720,
+      "name": "Fearless",
+      "url": "https://open.spotify.com/track/1cU4GEpxK7Pu0RDsaQ3EAF"
     },
     {
       "added_at": "2024-08-13 10:19:04",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2024-08-13 10:19:04",
       "album": {
-        "name": "Too Much To H8",
-        "url": "https://open.spotify.com/album/45dRzNGb0feUCNe9WYgQ6g"
-      },
-      "artists": [
-        {
-          "name": "Paige",
-          "url": "https://open.spotify.com/artist/2hscsIIlxYGIUYsfarFCG7"
-        }
-      ],
-      "duration_ms": 172124,
-      "name": "Too Much To H8",
-      "url": "https://open.spotify.com/track/3jsZnIOR0xnPg9XB8Ah7RQ"
-    },
-    {
-      "added_at": "2024-08-13 10:19:04",
-      "album": {
         "name": "Cali",
         "url": "https://open.spotify.com/album/3PisCW9fbXoASB0f2uAaYm"
       },
@@ -1715,6 +1699,22 @@
     {
       "added_at": "2024-08-13 10:19:04",
       "album": {
+        "name": "Too Much To H8",
+        "url": "https://open.spotify.com/album/45dRzNGb0feUCNe9WYgQ6g"
+      },
+      "artists": [
+        {
+          "name": "Paige",
+          "url": "https://open.spotify.com/artist/2hscsIIlxYGIUYsfarFCG7"
+        }
+      ],
+      "duration_ms": 172124,
+      "name": "Too Much To H8",
+      "url": "https://open.spotify.com/track/3jsZnIOR0xnPg9XB8Ah7RQ"
+    },
+    {
+      "added_at": "2024-08-13 10:19:04",
+      "album": {
         "name": "Helpless",
         "url": "https://open.spotify.com/album/1tnaGg9YXodD8TW4aSF39y"
       },
@@ -1747,22 +1747,6 @@
     {
       "added_at": "2024-08-13 10:19:04",
       "album": {
-        "name": "Blame",
-        "url": "https://open.spotify.com/album/6hlJSytMwlfpP4nWZrFwOX"
-      },
-      "artists": [
-        {
-          "name": "Matt Wills",
-          "url": "https://open.spotify.com/artist/5tECdXibmWAxONygvS9ktT"
-        }
-      ],
-      "duration_ms": 176859,
-      "name": "Blame",
-      "url": "https://open.spotify.com/track/5JIcMwcnI4KQ3LYebICHbK"
-    },
-    {
-      "added_at": "2024-08-13 10:19:04",
-      "album": {
         "name": "They Told Me",
         "url": "https://open.spotify.com/album/0s8cuApDirOCHXdb5Atv2F"
       },
@@ -1783,18 +1767,18 @@
     {
       "added_at": "2024-08-13 10:19:04",
       "album": {
-        "name": "Blind You",
-        "url": "https://open.spotify.com/album/5O1yayKlHTvFlikkbGz7xt"
+        "name": "Blame",
+        "url": "https://open.spotify.com/album/6hlJSytMwlfpP4nWZrFwOX"
       },
       "artists": [
         {
-          "name": "Didirri",
-          "url": "https://open.spotify.com/artist/01lbqGTSuT9Jr3gMwiF3Xw"
+          "name": "Matt Wills",
+          "url": "https://open.spotify.com/artist/5tECdXibmWAxONygvS9ktT"
         }
       ],
-      "duration_ms": 174333,
-      "name": "Blind You",
-      "url": "https://open.spotify.com/track/1dOoli2ESWoNr6N28hxt4U"
+      "duration_ms": 176859,
+      "name": "Blame",
+      "url": "https://open.spotify.com/track/5JIcMwcnI4KQ3LYebICHbK"
     },
     {
       "added_at": "2024-08-13 10:19:04",
@@ -1815,6 +1799,22 @@
     {
       "added_at": "2024-08-13 10:19:04",
       "album": {
+        "name": "Blind You",
+        "url": "https://open.spotify.com/album/5O1yayKlHTvFlikkbGz7xt"
+      },
+      "artists": [
+        {
+          "name": "Didirri",
+          "url": "https://open.spotify.com/artist/01lbqGTSuT9Jr3gMwiF3Xw"
+        }
+      ],
+      "duration_ms": 174333,
+      "name": "Blind You",
+      "url": "https://open.spotify.com/track/1dOoli2ESWoNr6N28hxt4U"
+    },
+    {
+      "added_at": "2024-08-13 10:19:04",
+      "album": {
         "name": "Fade",
         "url": "https://open.spotify.com/album/4yYS7JBEY54Zn2J1z0fNJK"
       },
@@ -1827,6 +1827,22 @@
       "duration_ms": 209775,
       "name": "Fade",
       "url": "https://open.spotify.com/track/7zxhhMt0j1JV7OuFpQ2Boe"
+    },
+    {
+      "added_at": "2024-08-13 10:19:04",
+      "album": {
+        "name": "Stop By Now",
+        "url": "https://open.spotify.com/album/17UBVzMdVOaQzusxehB7eH"
+      },
+      "artists": [
+        {
+          "name": "Sille Nilsson",
+          "url": "https://open.spotify.com/artist/3jLUQS2fcGFh7G9fbf8ScC"
+        }
+      ],
+      "duration_ms": 223360,
+      "name": "Stop By Now",
+      "url": "https://open.spotify.com/track/0zcrA7R0RlrCO7Fot7jQlt"
     },
     {
       "added_at": "2024-08-13 10:19:04",
@@ -1875,22 +1891,6 @@
       "duration_ms": 197569,
       "name": "I'm Not Her - Acoustic",
       "url": "https://open.spotify.com/track/4yr1dDskFzkDY8q6gBUNXw"
-    },
-    {
-      "added_at": "2024-08-13 10:19:04",
-      "album": {
-        "name": "Stop By Now",
-        "url": "https://open.spotify.com/album/17UBVzMdVOaQzusxehB7eH"
-      },
-      "artists": [
-        {
-          "name": "Sille Nilsson",
-          "url": "https://open.spotify.com/artist/3jLUQS2fcGFh7G9fbf8ScC"
-        }
-      ],
-      "duration_ms": 223360,
-      "name": "Stop By Now",
-      "url": "https://open.spotify.com/track/0zcrA7R0RlrCO7Fot7jQlt"
     }
   ],
   "unique_name": "ren hygge",

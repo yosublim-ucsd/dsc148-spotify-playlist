@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 
 > They got next in their regions and beyond\. Cover: <a href="spotify:artist:5qhDQveADDnjIZQ85AtgDM">Star Bandz</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,043 likes - 50 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,142 likes - 50 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 | 5 | [2 Slippery \(feat\. BossMan Dlow\)](https://open.spotify.com/track/62oLxos6R04SVYL1lXidvu) | [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz), [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc) | [Mr\. Skii](https://open.spotify.com/album/4XqpSvwcjnoR5YP5lBLuTi) | 2:39 |
 | 6 | [Pose For Me](https://open.spotify.com/track/3YOrk2YHbXRdKtmurcdq2T) | [John Mackk](https://open.spotify.com/artist/57Ay3Ye4cloEzuDSTYQ1kw), [Natalie Nunn](https://open.spotify.com/artist/2I8embWRZZ0LSLvEIqx6wU) | [Pose For Me](https://open.spotify.com/album/6d8UKmxIuws3fTX6ITvNh0) | 2:26 |
 | 7 | [Help Me 2](https://open.spotify.com/track/325bXTasDEqqaDPge70SVn) | [Real Boston Richey](https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi) | [Go Richey](https://open.spotify.com/album/5WfJuFVSiRCc3TfoR1N2Gx) | 3:35 |
-| 8 | [Or What](https://open.spotify.com/track/3lUYO6zvXI88sNDpyKvIJ2) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [41](https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8) | [Or What](https://open.spotify.com/album/0O5WgUe2bObIlk6R0nwOs2) | 3:19 |
+| 8 | [Or What](https://open.spotify.com/track/3lUYO6zvXI88sNDpyKvIJ2) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [41](https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8), [Kyle Richh](https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU) | [Or What](https://open.spotify.com/album/0O5WgUe2bObIlk6R0nwOs2) | 3:19 |
 | 9 | [So Bad \(with 4batz\)](https://open.spotify.com/track/6UO6qKbBUV3dkAL8944zyh) | [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI), [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7) | [So Bad \(with 4batz\)](https://open.spotify.com/album/4dT7ycpsFAKebSCCecqROq) | 2:59 |
 | 10 | [ONE CALL](https://open.spotify.com/track/6et5HwX6nTYddg7hDGAxug) | [Rich Amiri](https://open.spotify.com/artist/2sF5nNXnrrsCPZlt8ZpyGd) | [ONE CALL](https://open.spotify.com/album/32Gv2KwfKu35P5r77bmxzi) | 2:01 |
 | 11 | [Boogieman](https://open.spotify.com/track/7Mg5CBO37Rifk2RyDJ8fzd) | [EBK Jaaybo](https://open.spotify.com/artist/7iKgSlIINjat3bsCYiNMYX) | [Boogieman](https://open.spotify.com/album/75XYL9gBsRC8wWbmbtzQHh) | 2:11 |

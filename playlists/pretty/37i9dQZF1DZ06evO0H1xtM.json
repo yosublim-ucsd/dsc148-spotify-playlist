@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Marca Registrada. The essential tracks, all in one playlist.",
-  "num_followers": 307925,
+  "num_followers": 308074,
   "original_name": "This Is Grupo Marca Registrada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zv3egAAAAABTD0pu3Ub6hgpQISFB8qIW",
+  "snapshot_id": "ZwCBgAAAAAApxHtUKE0y9RYo9OfV6duI",
   "tracks": [
     {
       "added_at": null,
@@ -391,26 +391,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Luceros",
-        "url": "https://open.spotify.com/album/4G08b4Dtfq0YjjQNTQcUv5"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        },
-        {
-          "name": "JPL",
-          "url": "https://open.spotify.com/artist/618X9qfrn7Cu3dQ17TBEWd"
-        }
-      ],
-      "duration_ms": 148064,
-      "name": "Luceros",
-      "url": "https://open.spotify.com/track/6BTWEnqNZ5ROT2RhFBGgNh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "D\u00e9jenme Hacer Dinero",
         "url": "https://open.spotify.com/album/0Pb2T0G7x9IGOWer7fEmuh"
       },
@@ -435,6 +415,26 @@
       "duration_ms": 193918,
       "name": "D\u00e9jenme Hacer Dinero",
       "url": "https://open.spotify.com/track/364qZBjyGTwjNbUxnq1djj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Luceros",
+        "url": "https://open.spotify.com/album/4G08b4Dtfq0YjjQNTQcUv5"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        },
+        {
+          "name": "JPL",
+          "url": "https://open.spotify.com/artist/618X9qfrn7Cu3dQ17TBEWd"
+        }
+      ],
+      "duration_ms": 148064,
+      "name": "Luceros",
+      "url": "https://open.spotify.com/track/6BTWEnqNZ5ROT2RhFBGgNh"
     },
     {
       "added_at": null,
@@ -639,22 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "THE GOAT",
-        "url": "https://open.spotify.com/album/3hmlgJRuR8ax8QLHvKs8Eb"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        }
-      ],
-      "duration_ms": 124166,
-      "name": "Intro: THE GOAT",
-      "url": "https://open.spotify.com/track/7s0YftbAtOPmkyWKjq6HA0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "GOZANDO",
         "url": "https://open.spotify.com/album/0pkGTdK0VXyp4kIp1jGBKH"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 171692,
       "name": "GOZANDO",
       "url": "https://open.spotify.com/track/0G2tnDWqlwEUOY4rzh6YTt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "THE GOAT",
+        "url": "https://open.spotify.com/album/3hmlgJRuR8ax8QLHvKs8Eb"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "duration_ms": 124166,
+      "name": "Intro: THE GOAT",
+      "url": "https://open.spotify.com/track/7s0YftbAtOPmkyWKjq6HA0"
     },
     {
       "added_at": null,
@@ -711,26 +711,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "THE GOAT",
-        "url": "https://open.spotify.com/album/3hmlgJRuR8ax8QLHvKs8Eb"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        },
-        {
-          "name": "Novillos de la Sierra",
-          "url": "https://open.spotify.com/artist/0y9rTsbpRAIIkDMP3DsNro"
-        }
-      ],
-      "duration_ms": 176903,
-      "name": "El Primo",
-      "url": "https://open.spotify.com/track/13kE65qNSOfOCek24303WY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Me Haces Tan Bien",
         "url": "https://open.spotify.com/album/6vibWAte3CQY0K6EUxiPAv"
       },
@@ -747,6 +727,26 @@
       "duration_ms": 168576,
       "name": "Me Haces Tan Bien",
       "url": "https://open.spotify.com/track/5mJ3ce2hMDnpGSuELoKUoL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "THE GOAT",
+        "url": "https://open.spotify.com/album/3hmlgJRuR8ax8QLHvKs8Eb"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        },
+        {
+          "name": "Novillos de la Sierra",
+          "url": "https://open.spotify.com/artist/0y9rTsbpRAIIkDMP3DsNro"
+        }
+      ],
+      "duration_ms": 176903,
+      "name": "El Primo",
+      "url": "https://open.spotify.com/track/13kE65qNSOfOCek24303WY"
     },
     {
       "added_at": null,
@@ -907,26 +907,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "THE GOAT",
-        "url": "https://open.spotify.com/album/3hmlgJRuR8ax8QLHvKs8Eb"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        },
-        {
-          "name": "JPL",
-          "url": "https://open.spotify.com/artist/618X9qfrn7Cu3dQ17TBEWd"
-        }
-      ],
-      "duration_ms": 209440,
-      "name": "El Inocente",
-      "url": "https://open.spotify.com/track/1tLbquZ3AZCUWpst5N8T6S"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "ONTAS BB",
         "url": "https://open.spotify.com/album/2sbHi7VQ7U7uohlhAo0gax"
       },
@@ -947,6 +927,26 @@
       "duration_ms": 207804,
       "name": "ONTAS BB",
       "url": "https://open.spotify.com/track/3IHSOgqSplOCtN2NiGlp0q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "THE GOAT",
+        "url": "https://open.spotify.com/album/3hmlgJRuR8ax8QLHvKs8Eb"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        },
+        {
+          "name": "JPL",
+          "url": "https://open.spotify.com/artist/618X9qfrn7Cu3dQ17TBEWd"
+        }
+      ],
+      "duration_ms": 209440,
+      "name": "El Inocente",
+      "url": "https://open.spotify.com/track/1tLbquZ3AZCUWpst5N8T6S"
     },
     {
       "added_at": null,

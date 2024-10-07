@@ -4,7 +4,7 @@
 
 > roots run deep
 
-333 songs - 20 hr 4 min
+334 songs - 20 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,6 +136,7 @@
 | [Happy Face](https://open.spotify.com/track/7KvZLaYFqBqoADTelAsWWO) | [Treaty Oak Revival](https://open.spotify.com/artist/3444S3C4U9Ts86BnCtSPRV) | [Happy Face](https://open.spotify.com/album/3WkZ84AAJDPimDKV1FH3pI) | 3:22 | 2024-09-30 |  |
 | [Hardwood Floors](https://open.spotify.com/track/7BAb0MMi9vrX68buZqzyLa) | [Charles Wesley Godwin](https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC) | [Seneca](https://open.spotify.com/album/0FazkbocfVJ5apOEfeCUsE) | 4:00 | 2024-01-31 |  |
 | [Heading South](https://open.spotify.com/track/2Dct3GykKZ58hpWRFfe2Qd) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Heading South](https://open.spotify.com/album/3Ca58JR3vDDMl5i8QKkWzP) | 2:51 | 2023-02-24 |  |
+| [Heaven On Earth](https://open.spotify.com/track/5IOnG2HrnO062RDwgx0TuO) | [Hayden Blount](https://open.spotify.com/artist/3lMuNq4oBlVIMBJcpAuT4j) | [Heaven On Earth](https://open.spotify.com/album/5o919zG29Vo2KpdgWuWBxQ) | 2:44 | 2024-10-06 |  |
 | [Hell is a Dance Floor](https://open.spotify.com/track/5ULNiLtUzRZIpbdHz47DkL) | [Vincent Mason](https://open.spotify.com/artist/6QJ5CE7ujPr7oZCURhFZVS) | [Hell is a Dance Floor](https://open.spotify.com/album/0HNfc7NP8LOZ5dfnyesMoY) | 3:29 | 2024-03-06 |  |
 | [Her](https://open.spotify.com/track/6Ym7UF7000PoA6MZha7ugt) | [Tyler Halverson](https://open.spotify.com/artist/3oFu5CCLk4p4zLBNo3wrai) | [Her](https://open.spotify.com/album/7JERMt53TQC4z2Pn4nPUYi) | 3:08 | 2023-05-05 | 2023-10-01 |
 | [Hold On](https://open.spotify.com/track/1fOvzFCRA3Ko0ihc2QTE29) | [Luke Grimes](https://open.spotify.com/artist/7Cezk2wEDBPfYCwEuKum1Y) | [Hold On](https://open.spotify.com/album/3s7URrr4aax9L0kgMyyE00) | 3:04 | 2023-04-21 |  |

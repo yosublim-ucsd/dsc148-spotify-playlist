@@ -1,12 +1,12 @@
 {
-  "description": "This is Danna Paola. The essential tracks, all in one playlist.",
-  "num_followers": 229851,
+  "description": "This Is Danna Paola. Los temas esenciales, todos en una lista.",
+  "num_followers": 229858,
   "original_name": "This Is Danna Paola",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zv3egAAAAAAl0q30xAALvm3JGy9cNbGY",
+  "snapshot_id": "ZwCBgAAAAAAOUCZd9gr6FGFBnMJEhMUU",
   "tracks": [
     {
       "added_at": null,
@@ -175,22 +175,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "K.O.",
-        "url": "https://open.spotify.com/album/5y5Qud31YIPnxbVjzojvmK"
-      },
-      "artists": [
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        }
-      ],
-      "duration_ms": 190360,
-      "name": "Amor Ordinario",
-      "url": "https://open.spotify.com/track/4WbKmrxCQ8gp8qEjyRpXtb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SIE7E +",
         "url": "https://open.spotify.com/album/5LIIJcPOYm4G4mFw9ydeBE"
       },
@@ -227,6 +211,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "K.O.",
+        "url": "https://open.spotify.com/album/5y5Qud31YIPnxbVjzojvmK"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "duration_ms": 190360,
+      "name": "Amor Ordinario",
+      "url": "https://open.spotify.com/track/4WbKmrxCQ8gp8qEjyRpXtb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "20 A\u00f1os Contigo",
         "url": "https://open.spotify.com/album/7j74PZNNtthH0JwMPSqIVw"
       },
@@ -243,26 +243,6 @@
       "duration_ms": 166333,
       "name": "Vuelve, Vuelve",
       "url": "https://open.spotify.com/track/7wNLoMwhGrGBsFozJrzUlg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "No Bailes Sola",
-        "url": "https://open.spotify.com/album/2fDBlYHy3clr2Q3JRq89Rd"
-      },
-      "artists": [
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        },
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        }
-      ],
-      "duration_ms": 180866,
-      "name": "No Bailes Sola",
-      "url": "https://open.spotify.com/track/1GNSWpe2SB30zYGbNTD96b"
     },
     {
       "added_at": null,
@@ -299,6 +279,26 @@
       "duration_ms": 192066,
       "name": "Subt\u00edtulos",
       "url": "https://open.spotify.com/track/3GXLEtcY0SsmpRoiGWGuZM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Bailes Sola",
+        "url": "https://open.spotify.com/album/2fDBlYHy3clr2Q3JRq89Rd"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        },
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        }
+      ],
+      "duration_ms": 180866,
+      "name": "No Bailes Sola",
+      "url": "https://open.spotify.com/track/1GNSWpe2SB30zYGbNTD96b"
     },
     {
       "added_at": null,
@@ -351,8 +351,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "A\u00daN TE QUIERO",
-        "url": "https://open.spotify.com/album/6ElZodBAzNw2Tsh7eFrK9u"
+        "name": "1TRAGO",
+        "url": "https://open.spotify.com/album/61bbTZzUgZZnZPpuKYHj26"
       },
       "artists": [
         {
@@ -360,9 +360,9 @@
           "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
         }
       ],
-      "duration_ms": 205533,
-      "name": "A\u00daN TE QUIERO",
-      "url": "https://open.spotify.com/track/1NI6GSGPQn0EYeW27V2n2n"
+      "duration_ms": 201106,
+      "name": "1TRAGO",
+      "url": "https://open.spotify.com/track/7pNzIsog6lGrTL7coKYtKl"
     },
     {
       "added_at": null,
@@ -383,8 +383,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "1TRAGO",
-        "url": "https://open.spotify.com/album/61bbTZzUgZZnZPpuKYHj26"
+        "name": "A\u00daN TE QUIERO",
+        "url": "https://open.spotify.com/album/6ElZodBAzNw2Tsh7eFrK9u"
       },
       "artists": [
         {
@@ -392,9 +392,9 @@
           "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
         }
       ],
-      "duration_ms": 201106,
-      "name": "1TRAGO",
-      "url": "https://open.spotify.com/track/7pNzIsog6lGrTL7coKYtKl"
+      "duration_ms": 205533,
+      "name": "A\u00daN TE QUIERO",
+      "url": "https://open.spotify.com/track/1NI6GSGPQn0EYeW27V2n2n"
     },
     {
       "added_at": null,

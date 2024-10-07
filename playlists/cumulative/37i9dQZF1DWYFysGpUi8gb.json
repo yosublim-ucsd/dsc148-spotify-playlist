@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "welcome to the underground. greetings from divorce.",
+  "description": "welcome to the underground. greetings from geordie greep.",
   "name": "melomania",
   "tracks": [
     {
@@ -153,6 +153,24 @@
     },
     {
       "album": {
+        "name": "Back2bed",
+        "url": "https://open.spotify.com/album/1w2jKlJbVynIPpHj8w2oBl"
+      },
+      "artists": [
+        {
+          "name": "Blood Wizard",
+          "url": "https://open.spotify.com/artist/60XRtGmul45VSNNKt9mZhp"
+        }
+      ],
+      "date_added": "2024-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173583,
+      "name": "Back2bed",
+      "url": "https://open.spotify.com/track/1cC6rj10DoUfWPNkYYyB5D"
+    },
+    {
+      "album": {
         "name": "Baggage",
         "url": "https://open.spotify.com/album/5Bf4XBYCI8Bo9GLHCaNoBR"
       },
@@ -262,6 +280,24 @@
       "duration_ms": 216250,
       "name": "Blue",
       "url": "https://open.spotify.com/track/08dq5IUNfwGsB8XdyXzLJJ"
+    },
+    {
+      "album": {
+        "name": "Blues",
+        "url": "https://open.spotify.com/album/17MCK1RRgBwKzmOLioiap3"
+      },
+      "artists": [
+        {
+          "name": "Geordie Greep",
+          "url": "https://open.spotify.com/artist/65Msz2E34NUtbjEbsrsJlJ"
+        }
+      ],
+      "date_added": "2024-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342734,
+      "name": "Blues",
+      "url": "https://open.spotify.com/track/7nGhBjDpYtI7jJ5Tel9jDt"
     },
     {
       "album": {
@@ -406,6 +442,24 @@
       "duration_ms": 169374,
       "name": "Come On Baby, Dig!",
       "url": "https://open.spotify.com/track/1cH5V204hnjVfsfJgUJP8B"
+    },
+    {
+      "album": {
+        "name": "Condensation",
+        "url": "https://open.spotify.com/album/64ITjSJIAQ4kdafLTOvzVc"
+      },
+      "artists": [
+        {
+          "name": "Sports Team",
+          "url": "https://open.spotify.com/artist/04JIxSs2P0iteVWtaskfeh"
+        }
+      ],
+      "date_added": "2024-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210499,
+      "name": "Condensation",
+      "url": "https://open.spotify.com/track/6qxmMJHgNQIhkElzO7yiLq"
     },
     {
       "album": {
@@ -734,7 +788,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-07",
       "duration_ms": 144378,
       "name": "Fear",
       "url": "https://open.spotify.com/track/3jWb0jEGG4OGlIM5EHoqjc"
@@ -770,7 +824,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-07",
       "duration_ms": 225683,
       "name": "Fish",
       "url": "https://open.spotify.com/track/3hdW8qul3sErVreYQDy0hl"
@@ -1238,7 +1292,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-07",
       "duration_ms": 143618,
       "name": "More Heat!",
       "url": "https://open.spotify.com/track/1w6FHZA5UdyM8LacC6sOfA"
@@ -1274,7 +1328,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-07",
       "duration_ms": 155471,
       "name": "Mown In Circles",
       "url": "https://open.spotify.com/track/4g7YnATFgEFKmRxqnlQqtL"
@@ -1314,6 +1368,24 @@
       "duration_ms": 239338,
       "name": "N.S.M.L.Y.D",
       "url": "https://open.spotify.com/track/5sHAx4zCHOdy4WDH8VBVzP"
+    },
+    {
+      "album": {
+        "name": "Nail in a Wooden Trunk",
+        "url": "https://open.spotify.com/album/6458nxrJP9ulxGp6tSIUyf"
+      },
+      "artists": [
+        {
+          "name": "Tapir!",
+          "url": "https://open.spotify.com/artist/7dYpljfleToKnSmBFqjqkd"
+        }
+      ],
+      "date_added": "2024-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149741,
+      "name": "Nail in a Wooden Trunk",
+      "url": "https://open.spotify.com/track/78Km8xh3kOHSQkRTJsswcN"
     },
     {
       "album": {
@@ -1382,7 +1454,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-07",
       "duration_ms": 173994,
       "name": "Oar",
       "url": "https://open.spotify.com/track/5siVDeXRKTbNH2x64jmAjD"
@@ -1436,7 +1508,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-07",
       "duration_ms": 238493,
       "name": "Passing Judgment",
       "url": "https://open.spotify.com/track/2br7c0YcCucYv0YhoXExad"
@@ -1494,6 +1566,24 @@
       "duration_ms": 234566,
       "name": "Pretty Girls",
       "url": "https://open.spotify.com/track/56U1pIituJfEkU0impIpYA"
+    },
+    {
+      "album": {
+        "name": "Projections",
+        "url": "https://open.spotify.com/album/0ldotFY9H4EArDNcNnugZY"
+      },
+      "artists": [
+        {
+          "name": "Maria Somerville",
+          "url": "https://open.spotify.com/artist/5JjgffJf4s4KF29xdEaAQd"
+        }
+      ],
+      "date_added": "2024-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220826,
+      "name": "Projections",
+      "url": "https://open.spotify.com/track/64EYzsKyu2afMlbyIqed29"
     },
     {
       "album": {
@@ -1875,6 +1965,24 @@
     },
     {
       "album": {
+        "name": "something new",
+        "url": "https://open.spotify.com/album/24jOjoJr6F2chxZiDBtqBF"
+      },
+      "artists": [
+        {
+          "name": "cumgirl8",
+          "url": "https://open.spotify.com/artist/0Y0U54wBpoCl8KvkYc9Ej6"
+        }
+      ],
+      "date_added": "2024-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231701,
+      "name": "something new",
+      "url": "https://open.spotify.com/track/1Qot7BYHZjUqFpdlcJZqZm"
+    },
+    {
+      "album": {
         "name": "Space Girl",
         "url": "https://open.spotify.com/album/33Ja63rkuL0bEPRt6UKtjq"
       },
@@ -2019,6 +2127,24 @@
     },
     {
       "album": {
+        "name": "The Boss",
+        "url": "https://open.spotify.com/album/1OwrqBMQkhVUmHbG9HONpZ"
+      },
+      "artists": [
+        {
+          "name": "Man/Woman/Chainsaw",
+          "url": "https://open.spotify.com/artist/0KheksMhWogVV4frHAihPJ"
+        }
+      ],
+      "date_added": "2024-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178782,
+      "name": "The Boss",
+      "url": "https://open.spotify.com/track/1CcInJMJvGVozu3AaDKTz6"
+    },
+    {
+      "album": {
         "name": "The Heart",
         "url": "https://open.spotify.com/album/3tEiKAfyGmPod4qyZc9IDi"
       },
@@ -2106,6 +2232,24 @@
       "duration_ms": 174040,
       "name": "The Real Thing",
       "url": "https://open.spotify.com/track/2Qe5XnI7iRXFlvk7fBEBQw"
+    },
+    {
+      "album": {
+        "name": "The Silence That Remains",
+        "url": "https://open.spotify.com/album/4hEx4JzgPX0DxMZ0OA5Y95"
+      },
+      "artists": [
+        {
+          "name": "The Horrors",
+          "url": "https://open.spotify.com/artist/7EFB09NxZrMi9pGlOnuBpd"
+        }
+      ],
+      "date_added": "2024-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342796,
+      "name": "The Silence That Remains",
+      "url": "https://open.spotify.com/track/2c7R7EiIW5s5u8CJGD1JQu"
     },
     {
       "album": {
@@ -2210,7 +2354,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-07",
       "duration_ms": 213441,
       "name": "Trying",
       "url": "https://open.spotify.com/track/6W5THMvSEH6WMj2vwqWZTz"
@@ -2408,7 +2552,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-07",
       "duration_ms": 273873,
       "name": "Whatever Reason",
       "url": "https://open.spotify.com/track/3Nc74Ms52cDi76pkiQUGZ5"

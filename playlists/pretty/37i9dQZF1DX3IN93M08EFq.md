@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IN93M08EFq.md) - [plain]
 
 > Din egen indieklubb! Garanterad dans, dans, dans\. \#spelashoreline
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,293 likes - 45 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,292 likes - 45 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,14 +20,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IN93M08EFq.md) - [plain]
 | 10 | [Song 2](https://open.spotify.com/track/3GfOAdcoc3X5GPiiXmpBjK) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [Blur: The Best Of](https://open.spotify.com/album/1bgkxe4t0HNeLn9rhrx79x) | 2:01 |
 | 11 | [Deceptacon](https://open.spotify.com/track/5773KSWFzg9kCc8yazjbSt) | [Le Tigre](https://open.spotify.com/artist/2n6FviARgtjjimZXu18uRM) | [Le Tigre](https://open.spotify.com/album/0dSSZGzoukzrFBnG07J45i) | 3:04 |
 | 12 | [Love Will Tear Us Apart](https://open.spotify.com/track/2JO3HwMRPeya8bXbtbyPcf) | [Joy Division](https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5) | [The Best Of](https://open.spotify.com/album/0p8Zy0wEzDYiFDcSt07UHe) | 3:26 |
-| 13 | [Jerk It Out](https://open.spotify.com/track/1bx7OUl2UmAnA5oZkm9If7) | [Caesars](https://open.spotify.com/artist/4rGrN4XDYhP6dUAZMvcuHr) | [Jerk It Out](https://open.spotify.com/album/1D5ebxOCFrG8U6p98zZHCi) | 3:15 |
-| 14 | [Time to Pretend](https://open.spotify.com/track/4iG2gAwKXsOcijVaVXzRPW) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Oracular Spectacular](https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv) | 4:21 |
+| 13 | [Time to Pretend](https://open.spotify.com/track/4iG2gAwKXsOcijVaVXzRPW) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Oracular Spectacular](https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv) | 4:21 |
+| 14 | [Jerk It Out](https://open.spotify.com/track/1bx7OUl2UmAnA5oZkm9If7) | [Caesars](https://open.spotify.com/artist/4rGrN4XDYhP6dUAZMvcuHr) | [Jerk It Out](https://open.spotify.com/album/1D5ebxOCFrG8U6p98zZHCi) | 3:15 |
 | 15 | [Dreaming of You](https://open.spotify.com/track/6ebxt3Iylxe0GcEuUGlIvb) | [The Coral](https://open.spotify.com/artist/6OiHleP2bHM18dXq4aZQWt) | [The Coral](https://open.spotify.com/album/6Fhnezpt7TKojq1ufkZ5qA) | 2:21 |
 | 16 | [Let's Dance to Joy Division](https://open.spotify.com/track/7v9Ne4758aGFfFc5avh89h) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Proudly Present..\. A Guide to Love, Loss & Desperation](https://open.spotify.com/album/75l5Bqvc0BH45UhJrS04Xj) | 3:11 |
 | 17 | [Ruby](https://open.spotify.com/track/2fAIfPLrPUTW1AmJRR428Q) | [Kaiser Chiefs](https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt) | [Yours Truly, Angry Mob](https://open.spotify.com/album/4J2DGuw6IwLdEwQL94msiU) | 3:24 |
 | 18 | [Jag kommer](https://open.spotify.com/track/5M2y8QdDepGYMsWyxhoxQU) | [Veronica Maggio](https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs) | [Satan i gatan \(Bonus Version\)](https://open.spotify.com/album/2fOs6I0CgvaZj9agU8EAlH) | 3:22 |
-| 19 | [Från och med Du](https://open.spotify.com/track/6sjGsKuInpaK3uoaWGe22W) | [Oskar Linnros](https://open.spotify.com/artist/3E8Mx37sikkaFoX5DRecLi) | [Vilja Bli](https://open.spotify.com/album/2jCYbQBRefZrTeMXIMIsNp) | 3:13 |
-| 20 | [Somebody Told Me](https://open.spotify.com/track/3twNvmDtFQtAd5gMKedhLD) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Hot Fuss](https://open.spotify.com/album/4OHNH3sDzIxnmUADXzv2kT) | 3:17 |
+| 19 | [Somebody Told Me](https://open.spotify.com/track/3twNvmDtFQtAd5gMKedhLD) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Hot Fuss](https://open.spotify.com/album/4OHNH3sDzIxnmUADXzv2kT) | 3:17 |
+| 20 | [Från och med Du](https://open.spotify.com/track/6sjGsKuInpaK3uoaWGe22W) | [Oskar Linnros](https://open.spotify.com/artist/3E8Mx37sikkaFoX5DRecLi) | [Vilja Bli](https://open.spotify.com/album/2jCYbQBRefZrTeMXIMIsNp) | 3:13 |
 | 21 | [Slå mig hårt i ansiktet](https://open.spotify.com/track/2Lv9FudgITbthtKK1B5wxY) | [Thomas Stenström](https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7) | [Fulkultur](https://open.spotify.com/album/5S7JB8Sx5tVQGIewXZlr9X) | 3:31 |
 | 22 | [You Can Call Me Al](https://open.spotify.com/track/6wLr2oR8eqUG5Beleh2Crm) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [The Essential Paul Simon](https://open.spotify.com/album/4kdOH3s9cRL9YykvHFpSlD) | 4:36 |
 | 23 | [Dom andra](https://open.spotify.com/track/1yU51sZHtxvZHlni32lgxM) | [kent](https://open.spotify.com/artist/4KXp3xtaz1wWXnu5u34eVX) | [Vapen & ammunition](https://open.spotify.com/album/2DGzTm2R2v3G0IjnxXtP3Y) | 3:46 |
@@ -42,16 +42,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IN93M08EFq.md) - [plain]
 | 32 | [Calleth You, Cometh I](https://open.spotify.com/track/2kvg4AwMIstkygdQhfFfSf) | [The Ark](https://open.spotify.com/artist/73ib5ljBj2xAIR7R3hTwF4) | [In Lust We Trust](https://open.spotify.com/album/2853c5Z7BEfJCaFltIQ0C7) | 4:32 |
 | 33 | [Long Before Rock 'n' Roll](https://open.spotify.com/track/58IZLB5bpAKQgeccRgq0ZI) | [Mando Diao](https://open.spotify.com/artist/5I4eibDkC7gg0hmczTZuND) | [Ode To Ochrasy](https://open.spotify.com/album/0UC7ViK1jDzF7nBsjlnTIf) | 2:49 |
 | 34 | [Electric](https://open.spotify.com/track/2AvS4Rk5G6jPAhZwytyF20) | [Melody Club](https://open.spotify.com/artist/7ELjk8iRPbhLku2XB6t6kS) | [Music Machine](https://open.spotify.com/album/0m1sBbOu2MmilyDuPRAmjW) | 3:58 |
-| 35 | [Kom igen Lena!](https://open.spotify.com/track/4UDaVq5tm2mQ6tNgWydhUX) | [Håkan Hellström](https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc) | [Det är så jag säger det](https://open.spotify.com/album/2x39gXdLwYnTxJyxExXpTj) | 3:51 |
-| 36 | [What's The Point](https://open.spotify.com/track/6pkmsBSvrgzFgkIIMQJxVw) | [Johnossi](https://open.spotify.com/artist/0k5NrYJAazGYrIhzrDslcT) | [Mavericks](https://open.spotify.com/album/59MXLAWsbAbq9nANWwFzTY) | 4:15 |
-| 37 | [Instant Repeater '99](https://open.spotify.com/track/3siMxQL1FUH2viB14AaGqU) | [The Soundtrack Of Our Lives](https://open.spotify.com/artist/1DoYbXxolkSNTovBmuG0C2) | [Welcome To The Infant Freebase](https://open.spotify.com/album/7npU5LTKfPl4bRpNIuKzYa) | 4:41 |
-| 38 | [Vi kommer att dö samtidigt](https://open.spotify.com/track/1sQxrKrojCSuBk6XuaT8vm) | [Säkert!](https://open.spotify.com/artist/6aNouxfdfQCKjiZG0LJcjx) | [Säkert!](https://open.spotify.com/album/5DgxERJ0OOJKS3Jx7UkEwi) | 2:59 |
-| 39 | [One Of Us Is Gonna Die Young](https://open.spotify.com/track/22u5Yu7vcYEQrIwA2Y9Rj6) | [The Ark](https://open.spotify.com/artist/73ib5ljBj2xAIR7R3hTwF4) | [State of the Ark](https://open.spotify.com/album/1AIrHPL3eOoZBqDuMWKJbr) | 3:30 |
-| 40 | [Underground](https://open.spotify.com/track/0e6KwFNFCVIhbNND6e5rsW) | [Broder Daniel](https://open.spotify.com/artist/0IcwumPFXL1XWQ0Z9CCuCV) | [Broder Daniel](https://open.spotify.com/album/7JXk1bl1rpxEOfr7ub4fvk) | 2:50 |
+| 35 | [What's The Point](https://open.spotify.com/track/6pkmsBSvrgzFgkIIMQJxVw) | [Johnossi](https://open.spotify.com/artist/0k5NrYJAazGYrIhzrDslcT) | [Mavericks](https://open.spotify.com/album/59MXLAWsbAbq9nANWwFzTY) | 4:15 |
+| 36 | [Instant Repeater '99](https://open.spotify.com/track/3siMxQL1FUH2viB14AaGqU) | [The Soundtrack Of Our Lives](https://open.spotify.com/artist/1DoYbXxolkSNTovBmuG0C2) | [Welcome To The Infant Freebase](https://open.spotify.com/album/7npU5LTKfPl4bRpNIuKzYa) | 4:41 |
+| 37 | [Vi kommer att dö samtidigt](https://open.spotify.com/track/1sQxrKrojCSuBk6XuaT8vm) | [Säkert!](https://open.spotify.com/artist/6aNouxfdfQCKjiZG0LJcjx) | [Säkert!](https://open.spotify.com/album/5DgxERJ0OOJKS3Jx7UkEwi) | 2:59 |
+| 38 | [Underground](https://open.spotify.com/track/0e6KwFNFCVIhbNND6e5rsW) | [Broder Daniel](https://open.spotify.com/artist/0IcwumPFXL1XWQ0Z9CCuCV) | [Broder Daniel](https://open.spotify.com/album/7JXk1bl1rpxEOfr7ub4fvk) | 2:50 |
+| 39 | [Kom igen Lena!](https://open.spotify.com/track/4UDaVq5tm2mQ6tNgWydhUX) | [Håkan Hellström](https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc) | [Det är så jag säger det](https://open.spotify.com/album/2x39gXdLwYnTxJyxExXpTj) | 3:51 |
+| 40 | [One Of Us Is Gonna Die Young](https://open.spotify.com/track/22u5Yu7vcYEQrIwA2Y9Rj6) | [The Ark](https://open.spotify.com/artist/73ib5ljBj2xAIR7R3hTwF4) | [State of the Ark](https://open.spotify.com/album/1AIrHPL3eOoZBqDuMWKJbr) | 3:30 |
 | 41 | [We're from Barcelona](https://open.spotify.com/track/6gobLJ63a1TNrSrU53tSj5) | [I'm From Barcelona](https://open.spotify.com/artist/1LiML7wd2CE9dYq6JSeTjl) | [Let Me Introduce My Friends](https://open.spotify.com/album/0zbZ29KUQGBXvv8RpeXP3L) | 3:02 |
-| 42 | [Palace Station](https://open.spotify.com/track/0pBHmPRQEd5YCraA5JkQLE) | [Melody Club](https://open.spotify.com/artist/7ELjk8iRPbhLku2XB6t6kS) | [Music Machine](https://open.spotify.com/album/0m1sBbOu2MmilyDuPRAmjW) | 3:16 |
-| 43 | [Fear no Darkness, Promised Child](https://open.spotify.com/track/15VvSeKsuRnDbiJAJSKtX3) | [Timo Räisänen](https://open.spotify.com/artist/3Z6WVJzHQ12kzNjhzDkIYP) | [I'm Indian](https://open.spotify.com/album/4pMDKVvz3EMVpOqdZnWTwS) | 3:29 |
-| 44 | [The Band](https://open.spotify.com/track/1CBlWLtXpZw9s3r6gKOdLy) | [Mando Diao](https://open.spotify.com/artist/5I4eibDkC7gg0hmczTZuND) | [Bring 'Em In](https://open.spotify.com/album/1hgzDN5BjbqPBXOyb4Lnn2) | 3:15 |
+| 42 | [Fear no Darkness, Promised Child](https://open.spotify.com/track/15VvSeKsuRnDbiJAJSKtX3) | [Timo Räisänen](https://open.spotify.com/artist/3Z6WVJzHQ12kzNjhzDkIYP) | [I'm Indian](https://open.spotify.com/album/4pMDKVvz3EMVpOqdZnWTwS) | 3:29 |
+| 43 | [Dansa, fastän](https://open.spotify.com/track/0X29aQOkq1VXmgA71NQxUn) | [Säkert!](https://open.spotify.com/artist/6aNouxfdfQCKjiZG0LJcjx) | [Facit](https://open.spotify.com/album/20VAXfhn6R4LgRdBuWvWuo) | 2:47 |
+| 44 | [Palace Station](https://open.spotify.com/track/0pBHmPRQEd5YCraA5JkQLE) | [Melody Club](https://open.spotify.com/artist/7ELjk8iRPbhLku2XB6t6kS) | [Music Machine](https://open.spotify.com/album/0m1sBbOu2MmilyDuPRAmjW) | 3:16 |
 | 45 | [Din tid kommer](https://open.spotify.com/track/2E4pGT15X6ElliPQIxSGaq) | [Håkan Hellström](https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc) | [Din tid kommer](https://open.spotify.com/album/6lfUesANDlkcKDHdveFfYd) | 4:41 |
 
 Snapshot ID: `ZnlcygAAAAAhb15YAuukN+285oywskMO`

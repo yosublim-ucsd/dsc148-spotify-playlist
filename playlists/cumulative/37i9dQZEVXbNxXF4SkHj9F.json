@@ -1793,6 +1793,24 @@
     },
     {
       "album": {
+        "name": "iScreaM Vol.33 : Supernova / Armageddon Remixes",
+        "url": "https://open.spotify.com/album/3aLbyAljCs2NI9AdjfRPqc"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "date_added": "2024-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196466,
+      "name": "Armageddon",
+      "url": "https://open.spotify.com/track/3ncznKQDrj2wE5Gz5kf6LJ"
+    },
+    {
+      "album": {
         "name": "Armageddon - The 1st Album",
         "url": "https://open.spotify.com/album/3gHhPm8z8tid1kvpniUKuK"
       },
@@ -1822,7 +1840,7 @@
       ],
       "date_added": "2024-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-07",
       "duration_ms": 196466,
       "name": "Armageddon",
       "url": "https://open.spotify.com/track/6i8MbzVn4nzyjUcSoVcz7B"
@@ -3788,7 +3806,7 @@
       ],
       "date_added": "2024-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-07",
       "duration_ms": 200266,
       "name": "Bubble Gum",
       "url": "https://open.spotify.com/track/19D8LNpWwIPpi6hs9BG7dq"
@@ -12614,7 +12632,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-06",
+      "date_removed": null,
       "duration_ms": 274386,
       "name": "If We Ever Meet Again",
       "url": "https://open.spotify.com/track/2RLdkXSaiQjRbey5pvP8Kt"
@@ -16702,7 +16720,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-07",
       "duration_ms": 172073,
       "name": "MEOW",
       "url": "https://open.spotify.com/track/5LlUJ3HHI2dS0xowdMDXC5"
@@ -16720,7 +16738,7 @@
       ],
       "date_added": "2024-09-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-06",
+      "date_removed": null,
       "duration_ms": 172073,
       "name": "MEOW",
       "url": "https://open.spotify.com/track/72gPDy1zVt95zVNali0IhK"
@@ -25262,10 +25280,28 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-07",
       "duration_ms": 178880,
       "name": "Supernova",
       "url": "https://open.spotify.com/track/4sgMbwl9lXGyHcHmtFYGMm"
+    },
+    {
+      "album": {
+        "name": "Supernova",
+        "url": "https://open.spotify.com/album/49kUtQMJo7Am9UuLuN1MuB"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "date_added": "2024-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178880,
+      "name": "Supernova",
+      "url": "https://open.spotify.com/track/58b0gBwBVjQfbbCU4xIvoy"
     },
     {
       "album": {

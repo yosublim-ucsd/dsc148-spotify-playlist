@@ -308,7 +308,7 @@
       ],
       "date_added": "2024-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-07",
       "duration_ms": 188166,
       "name": "El Loqueron - Parte 1",
       "url": "https://open.spotify.com/track/2ULk9vqVHyuj0ZXmL3Fzu6"
@@ -744,6 +744,24 @@
       "duration_ms": 226533,
       "name": "Mala Vibra",
       "url": "https://open.spotify.com/track/5iP4QSHomTFVp1GFA80KfQ"
+    },
+    {
+      "album": {
+        "name": "El Diablo, La Muerte y Yo",
+        "url": "https://open.spotify.com/album/5S1xpCaPIqh72xLdFRGNvj"
+      },
+      "artists": [
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        }
+      ],
+      "date_added": "2024-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243247,
+      "name": "Me juzgan",
+      "url": "https://open.spotify.com/track/7DOSRCf92tETax3J3upq3k"
     },
     {
       "album": {

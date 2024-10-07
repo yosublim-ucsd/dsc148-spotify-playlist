@@ -32017,6 +32017,24 @@
     },
     {
       "album": {
+        "name": "No Goodbyes",
+        "url": "https://open.spotify.com/album/5ei0k8lsiY4hCeXW8m8mkZ"
+      },
+      "artists": [
+        {
+          "name": "DJ Roody",
+          "url": "https://open.spotify.com/artist/3UI0UmJdHpQkMqgjuOTMYc"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196041,
+      "name": "No Goodbyes",
+      "url": "https://open.spotify.com/track/48Pa7ntqupTvlLITQ19PSD"
+    },
+    {
+      "album": {
         "name": "Telos",
         "url": "https://open.spotify.com/album/5V7WoYwRXtheRjhOjgUeR5"
       },
@@ -39668,7 +39686,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-07",
       "duration_ms": 204320,
       "name": "Solitude",
       "url": "https://open.spotify.com/track/1WwMBpinWZpaXST7q3otPR"

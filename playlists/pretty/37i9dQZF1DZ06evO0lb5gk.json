@@ -1,12 +1,12 @@
 {
   "description": "This is Gojira. The essential tracks, all in one playlist.",
-  "num_followers": 132811,
+  "num_followers": 132833,
   "original_name": "This Is Gojira",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zv3egAAAAAADXPBxDwJ3jVQfajtPxnKp",
+  "snapshot_id": "ZwCBgAAAAAAy9EevmYraj+pmNRB8n28H",
   "tracks": [
     {
       "added_at": null,
@@ -483,8 +483,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The link",
-        "url": "https://open.spotify.com/album/5Iu8zwiAb0aKznGs0P1Rrz"
+        "name": "Terra Incognita",
+        "url": "https://open.spotify.com/album/0OB9EsykpiyNnAWSuahzW4"
       },
       "artists": [
         {
@@ -492,9 +492,9 @@
           "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
         }
       ],
-      "duration_ms": 145173,
-      "name": "Wisdom comes",
-      "url": "https://open.spotify.com/track/7CqxbQZNgiXlkryKzWLh6I"
+      "duration_ms": 297402,
+      "name": "Clone",
+      "url": "https://open.spotify.com/track/0tSE8quqeoqNqjRL55POSa"
     },
     {
       "added_at": null,
@@ -531,22 +531,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Terra Incognita",
-        "url": "https://open.spotify.com/album/0OB9EsykpiyNnAWSuahzW4"
-      },
-      "artists": [
-        {
-          "name": "Gojira",
-          "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
-        }
-      ],
-      "duration_ms": 297402,
-      "name": "Clone",
-      "url": "https://open.spotify.com/track/0tSE8quqeoqNqjRL55POSa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The link",
         "url": "https://open.spotify.com/album/5Iu8zwiAb0aKznGs0P1Rrz"
       },
@@ -556,25 +540,9 @@
           "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
         }
       ],
-      "duration_ms": 103546,
-      "name": "Torii",
-      "url": "https://open.spotify.com/track/6oo0aVkiHB3SNRXdL5aDWD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "L'Enfant Sauvage (Special Edition)",
-        "url": "https://open.spotify.com/album/5dxqD5Kc6cRRi3rErmDfXG"
-      },
-      "artists": [
-        {
-          "name": "Gojira",
-          "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
-        }
-      ],
-      "duration_ms": 108293,
-      "name": "The Wild Healer",
-      "url": "https://open.spotify.com/track/1Pa0DVjBUGreCBHIh81G50"
+      "duration_ms": 145173,
+      "name": "Wisdom comes",
+      "url": "https://open.spotify.com/track/7CqxbQZNgiXlkryKzWLh6I"
     },
     {
       "added_at": null,
@@ -595,6 +563,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "L'Enfant Sauvage (Special Edition)",
+        "url": "https://open.spotify.com/album/5dxqD5Kc6cRRi3rErmDfXG"
+      },
+      "artists": [
+        {
+          "name": "Gojira",
+          "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
+        }
+      ],
+      "duration_ms": 108293,
+      "name": "The Wild Healer",
+      "url": "https://open.spotify.com/track/1Pa0DVjBUGreCBHIh81G50"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The link",
         "url": "https://open.spotify.com/album/5Iu8zwiAb0aKznGs0P1Rrz"
       },
@@ -604,9 +588,9 @@
           "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
         }
       ],
-      "duration_ms": 275053,
-      "name": "Remembrance",
-      "url": "https://open.spotify.com/track/1RDLNfVzB0CbmAtBaj0VCM"
+      "duration_ms": 103546,
+      "name": "Torii",
+      "url": "https://open.spotify.com/track/6oo0aVkiHB3SNRXdL5aDWD"
     },
     {
       "added_at": null,
@@ -636,9 +620,9 @@
           "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
         }
       ],
-      "duration_ms": 279826,
-      "name": "Embrace the world",
-      "url": "https://open.spotify.com/track/6hM9jLX4jTNBG6FA7PQvOp"
+      "duration_ms": 275053,
+      "name": "Remembrance",
+      "url": "https://open.spotify.com/track/1RDLNfVzB0CbmAtBaj0VCM"
     },
     {
       "added_at": null,
@@ -668,9 +652,9 @@
           "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
         }
       ],
-      "duration_ms": 300960,
-      "name": "The link",
-      "url": "https://open.spotify.com/track/41lvb0OvnkBSDnbSvy3qlt"
+      "duration_ms": 279826,
+      "name": "Embrace the world",
+      "url": "https://open.spotify.com/track/6hM9jLX4jTNBG6FA7PQvOp"
     },
     {
       "added_at": null,
@@ -700,9 +684,9 @@
           "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
         }
       ],
-      "duration_ms": 238146,
-      "name": "Indians",
-      "url": "https://open.spotify.com/track/4qto5WBvuqH6fkHGxcaGuo"
+      "duration_ms": 300960,
+      "name": "The link",
+      "url": "https://open.spotify.com/track/41lvb0OvnkBSDnbSvy3qlt"
     },
     {
       "added_at": null,
@@ -719,6 +703,22 @@
       "duration_ms": 130006,
       "name": "04",
       "url": "https://open.spotify.com/track/71quk58zQYDoz650CiuVjF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The link",
+        "url": "https://open.spotify.com/album/5Iu8zwiAb0aKznGs0P1Rrz"
+      },
+      "artists": [
+        {
+          "name": "Gojira",
+          "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
+        }
+      ],
+      "duration_ms": 238146,
+      "name": "Indians",
+      "url": "https://open.spotify.com/track/4qto5WBvuqH6fkHGxcaGuo"
     }
   ],
   "unique_name": "This Is Gojira",

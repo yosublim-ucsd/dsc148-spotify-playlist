@@ -1,6 +1,6 @@
 {
   "description": "Le meilleur du rock fran\u00e7ais moderne. Photo : Last Train",
-  "num_followers": 46248,
+  "num_followers": 46269,
   "original_name": "G\u00e9n\u00e9ration Rock Fran\u00e7ais",
   "owner": {
     "name": "Spotify",
@@ -171,22 +171,6 @@
     {
       "added_at": "2024-06-24 19:56:15",
       "album": {
-        "name": "666.667 Club",
-        "url": "https://open.spotify.com/album/1OIRFnpHDRBQHAmFOAxCWT"
-      },
-      "artists": [
-        {
-          "name": "Noir D\u00e9sir",
-          "url": "https://open.spotify.com/artist/4ksCwAPgMi8rkQwwR3nMos"
-        }
-      ],
-      "duration_ms": 225933,
-      "name": "L'homme press\u00e9",
-      "url": "https://open.spotify.com/track/637T4loKlXPwfUdQVZjPTV"
-    },
-    {
-      "added_at": "2024-06-24 19:56:15",
-      "album": {
         "name": "Vari\u00e9ty",
         "url": "https://open.spotify.com/album/0tjC4Z1dqSoWZ22pA4zSZL"
       },
@@ -251,6 +235,38 @@
     {
       "added_at": "2024-06-24 19:56:15",
       "album": {
+        "name": "Le chemin",
+        "url": "https://open.spotify.com/album/1ZDeD4gGI757lBlOAkmJ2i"
+      },
+      "artists": [
+        {
+          "name": "Kyo",
+          "url": "https://open.spotify.com/artist/5ylOD196qui8JgXBrQUzok"
+        }
+      ],
+      "duration_ms": 180666,
+      "name": "Je cours",
+      "url": "https://open.spotify.com/track/15RN1rfzBWaAv6B9RBWLGu"
+    },
+    {
+      "added_at": "2024-06-24 19:56:15",
+      "album": {
+        "name": "666.667 Club",
+        "url": "https://open.spotify.com/album/1OIRFnpHDRBQHAmFOAxCWT"
+      },
+      "artists": [
+        {
+          "name": "Noir D\u00e9sir",
+          "url": "https://open.spotify.com/artist/4ksCwAPgMi8rkQwwR3nMos"
+        }
+      ],
+      "duration_ms": 225933,
+      "name": "L'homme press\u00e9",
+      "url": "https://open.spotify.com/track/637T4loKlXPwfUdQVZjPTV"
+    },
+    {
+      "added_at": "2024-06-24 19:56:15",
+      "album": {
         "name": "L'amour Parfait",
         "url": "https://open.spotify.com/album/1wDIEUmo5UDNuC7TkgCMCX"
       },
@@ -299,18 +315,18 @@
     {
       "added_at": "2024-06-24 19:56:15",
       "album": {
-        "name": "Le chemin",
-        "url": "https://open.spotify.com/album/1ZDeD4gGI757lBlOAkmJ2i"
+        "name": "Rock'n'Roll Part 9",
+        "url": "https://open.spotify.com/album/22V8tkzrBoB1b2MWh2uDpK"
       },
       "artists": [
         {
-          "name": "Kyo",
-          "url": "https://open.spotify.com/artist/5ylOD196qui8JgXBrQUzok"
+          "name": "Les Wampas",
+          "url": "https://open.spotify.com/artist/2nsGWZA0LtO7istBNsyNTE"
         }
       ],
-      "duration_ms": 180666,
-      "name": "Je cours",
-      "url": "https://open.spotify.com/track/15RN1rfzBWaAv6B9RBWLGu"
+      "duration_ms": 163760,
+      "name": "Rimini",
+      "url": "https://open.spotify.com/track/5xo1GjsebrOd1iUVoJ6SEK"
     },
     {
       "added_at": "2024-06-24 19:56:15",
@@ -331,38 +347,6 @@
     {
       "added_at": "2024-06-24 19:56:15",
       "album": {
-        "name": "666.667 Club",
-        "url": "https://open.spotify.com/album/1OIRFnpHDRBQHAmFOAxCWT"
-      },
-      "artists": [
-        {
-          "name": "Noir D\u00e9sir",
-          "url": "https://open.spotify.com/artist/4ksCwAPgMi8rkQwwR3nMos"
-        }
-      ],
-      "duration_ms": 145066,
-      "name": "Comme elle vient",
-      "url": "https://open.spotify.com/track/1Na29wiC0macG2Va6DXvJ5"
-    },
-    {
-      "added_at": "2024-06-24 19:56:15",
-      "album": {
-        "name": "Rock'n'Roll Part 9",
-        "url": "https://open.spotify.com/album/22V8tkzrBoB1b2MWh2uDpK"
-      },
-      "artists": [
-        {
-          "name": "Les Wampas",
-          "url": "https://open.spotify.com/artist/2nsGWZA0LtO7istBNsyNTE"
-        }
-      ],
-      "duration_ms": 163760,
-      "name": "Rimini",
-      "url": "https://open.spotify.com/track/5xo1GjsebrOd1iUVoJ6SEK"
-    },
-    {
-      "added_at": "2024-06-24 19:56:15",
-      "album": {
         "name": "Matador",
         "url": "https://open.spotify.com/album/7ELKvakLxSb8aesWRLdYo7"
       },
@@ -379,6 +363,22 @@
     {
       "added_at": "2024-06-24 19:56:15",
       "album": {
+        "name": "666.667 Club",
+        "url": "https://open.spotify.com/album/1OIRFnpHDRBQHAmFOAxCWT"
+      },
+      "artists": [
+        {
+          "name": "Noir D\u00e9sir",
+          "url": "https://open.spotify.com/artist/4ksCwAPgMi8rkQwwR3nMos"
+        }
+      ],
+      "duration_ms": 145066,
+      "name": "Comme elle vient",
+      "url": "https://open.spotify.com/track/1Na29wiC0macG2Va6DXvJ5"
+    },
+    {
+      "added_at": "2024-06-24 19:56:15",
+      "album": {
         "name": "La t\u00eate en arri\u00e8re",
         "url": "https://open.spotify.com/album/69kNfBXJtvtkIm4PJUYrL2"
       },
@@ -391,6 +391,22 @@
       "duration_ms": 206640,
       "name": "La sentinelle",
       "url": "https://open.spotify.com/track/5k3NhWuNprfszujFV7OsbV"
+    },
+    {
+      "added_at": "2024-06-24 19:56:15",
+      "album": {
+        "name": "La part des lions",
+        "url": "https://open.spotify.com/album/3bEmZFZ2V6ls0vMPfviqw3"
+      },
+      "artists": [
+        {
+          "name": "Kyo",
+          "url": "https://open.spotify.com/artist/5ylOD196qui8JgXBrQUzok"
+        }
+      ],
+      "duration_ms": 139520,
+      "name": "Mon \u00e9poque",
+      "url": "https://open.spotify.com/track/0PUVRaTOBUfwWNsX9l8NIY"
     },
     {
       "added_at": "2024-06-24 19:56:15",
@@ -463,22 +479,6 @@
     {
       "added_at": "2024-06-24 19:56:15",
       "album": {
-        "name": "La part des lions",
-        "url": "https://open.spotify.com/album/3bEmZFZ2V6ls0vMPfviqw3"
-      },
-      "artists": [
-        {
-          "name": "Kyo",
-          "url": "https://open.spotify.com/artist/5ylOD196qui8JgXBrQUzok"
-        }
-      ],
-      "duration_ms": 139520,
-      "name": "Mon \u00e9poque",
-      "url": "https://open.spotify.com/track/0PUVRaTOBUfwWNsX9l8NIY"
-    },
-    {
-      "added_at": "2024-06-24 19:56:15",
-      "album": {
         "name": "\u00eel",
         "url": "https://open.spotify.com/album/3jTF9VlDnWcu4lGbMXRnHI"
       },
@@ -491,22 +491,6 @@
       "duration_ms": 196600,
       "name": "Mojo",
       "url": "https://open.spotify.com/track/3XwQ8ks84wlj3YcRyxXrlN"
-    },
-    {
-      "added_at": "2024-06-24 19:56:15",
-      "album": {
-        "name": "Jouer dehors",
-        "url": "https://open.spotify.com/album/5PO1wuSFiCYQZunByOqJfs"
-      },
-      "artists": [
-        {
-          "name": "Mademoiselle K",
-          "url": "https://open.spotify.com/artist/5O2FUMAWxdTikjoCBAXrNI"
-        }
-      ],
-      "duration_ms": 213880,
-      "name": "Jouer dehors",
-      "url": "https://open.spotify.com/track/3TVoY7A5OWdJvefHDEsfRf"
     },
     {
       "added_at": "2024-06-24 19:56:15",
@@ -539,6 +523,22 @@
       "duration_ms": 162693,
       "name": "L'Amour \u00e0 la fran\u00e7aise",
       "url": "https://open.spotify.com/track/6XGmPf0kuUwakHNnLB30mH"
+    },
+    {
+      "added_at": "2024-06-24 19:56:15",
+      "album": {
+        "name": "Jouer dehors",
+        "url": "https://open.spotify.com/album/5PO1wuSFiCYQZunByOqJfs"
+      },
+      "artists": [
+        {
+          "name": "Mademoiselle K",
+          "url": "https://open.spotify.com/artist/5O2FUMAWxdTikjoCBAXrNI"
+        }
+      ],
+      "duration_ms": 213880,
+      "name": "Jouer dehors",
+      "url": "https://open.spotify.com/track/3TVoY7A5OWdJvefHDEsfRf"
     },
     {
       "added_at": "2024-06-24 19:56:15",
@@ -767,18 +767,18 @@
     {
       "added_at": "2024-06-24 19:56:15",
       "album": {
-        "name": "Semi Finalists",
-        "url": "https://open.spotify.com/album/16LfAB0rsKN5dbcYEGLhTb"
+        "name": "F F F",
+        "url": "https://open.spotify.com/album/3dl7Hqd2srZudubpaD8sTC"
       },
       "artists": [
         {
-          "name": "P\u00c6RISH",
-          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
+          "name": "F.F.F.",
+          "url": "https://open.spotify.com/artist/0jf1mgJNTrNdgFXmcwKmkL"
         }
       ],
-      "duration_ms": 218288,
-      "name": "Undone",
-      "url": "https://open.spotify.com/track/5VW0SagBIrGCmwlL1j51c6"
+      "duration_ms": 205466,
+      "name": "Le pire et le meilleur",
+      "url": "https://open.spotify.com/track/3SrUddck55h8vSltaiRGdi"
     },
     {
       "added_at": "2024-06-24 19:56:15",
@@ -799,18 +799,18 @@
     {
       "added_at": "2024-06-24 19:56:15",
       "album": {
-        "name": "F F F",
-        "url": "https://open.spotify.com/album/3dl7Hqd2srZudubpaD8sTC"
+        "name": "Semi Finalists",
+        "url": "https://open.spotify.com/album/16LfAB0rsKN5dbcYEGLhTb"
       },
       "artists": [
         {
-          "name": "F.F.F.",
-          "url": "https://open.spotify.com/artist/0jf1mgJNTrNdgFXmcwKmkL"
+          "name": "P\u00c6RISH",
+          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
         }
       ],
-      "duration_ms": 205466,
-      "name": "Le pire et le meilleur",
-      "url": "https://open.spotify.com/track/3SrUddck55h8vSltaiRGdi"
+      "duration_ms": 218288,
+      "name": "Undone",
+      "url": "https://open.spotify.com/track/5VW0SagBIrGCmwlL1j51c6"
     }
   ],
   "unique_name": "G\u00e9n\u00e9ration Rock Fran\u00e7ais",

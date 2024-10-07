@@ -389,6 +389,24 @@
     },
     {
       "album": {
+        "name": "Revoluci\u00f3n (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/2q9SKZyjttHPnRTcV7cDAg"
+      },
+      "artists": [
+        {
+          "name": "Gondwana",
+          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
+        }
+      ],
+      "date_added": "2024-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260506,
+      "name": "Estoy Volviendo a Mi Hogar",
+      "url": "https://open.spotify.com/track/3Sw2qcUGbe8OwhIk2I1Tds"
+    },
+    {
+      "album": {
         "name": "Made In Jamaica",
         "url": "https://open.spotify.com/album/3iUfQH6qzhBfR4lrD4dgmg"
       },
@@ -1544,7 +1562,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-07",
       "duration_ms": 243330,
       "name": "Warning",
       "url": "https://open.spotify.com/track/7BXaBIZDHaUdAD7mcCSjH7"

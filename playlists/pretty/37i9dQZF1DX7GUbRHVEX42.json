@@ -1,6 +1,6 @@
 {
   "description": "The best of current & contemporary Reggae. Welcome To Jamrock Reggae Cruise. Cover: H.E.R & Lila Ike",
-  "num_followers": 1122546,
+  "num_followers": 1122592,
   "original_name": "Irie",
   "owner": {
     "name": "Spotify",
@@ -179,6 +179,26 @@
     {
       "added_at": "2024-06-18 11:27:57",
       "album": {
+        "name": "Higher Place",
+        "url": "https://open.spotify.com/album/3LrRzezQmsqxC2eyqVvdAr"
+      },
+      "artists": [
+        {
+          "name": "Skip Marley",
+          "url": "https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O"
+        },
+        {
+          "name": "Damian Marley",
+          "url": "https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi"
+        }
+      ],
+      "duration_ms": 208893,
+      "name": "That's Not True",
+      "url": "https://open.spotify.com/track/4MbHdE6u1WVqqzwbHLkKUL"
+    },
+    {
+      "added_at": "2024-06-18 11:27:57",
+      "album": {
         "name": "Rebel Time",
         "url": "https://open.spotify.com/album/0rrzx2Xg5leF42e0I7oCu7"
       },
@@ -195,26 +215,6 @@
       "duration_ms": 241734,
       "name": "Rebel Time",
       "url": "https://open.spotify.com/track/7tnoa5R79Bl3qa39yQSW5Q"
-    },
-    {
-      "added_at": "2024-06-18 11:27:57",
-      "album": {
-        "name": "The Kalling",
-        "url": "https://open.spotify.com/album/2IL0ko13l6DhK4gUebZXd9"
-      },
-      "artists": [
-        {
-          "name": "Kabaka Pyramid",
-          "url": "https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH"
-        },
-        {
-          "name": "Damian Marley",
-          "url": "https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi"
-        }
-      ],
-      "duration_ms": 229057,
-      "name": "Red Gold and Green",
-      "url": "https://open.spotify.com/track/3G2JE7DiHUhEizVPLiU0vw"
     },
     {
       "added_at": "2024-06-18 11:27:57",
@@ -239,38 +239,42 @@
     {
       "added_at": "2024-06-18 11:27:57",
       "album": {
-        "name": "Higher Place",
-        "url": "https://open.spotify.com/album/3LrRzezQmsqxC2eyqVvdAr"
+        "name": "The Kalling",
+        "url": "https://open.spotify.com/album/2IL0ko13l6DhK4gUebZXd9"
       },
       "artists": [
         {
-          "name": "Skip Marley",
-          "url": "https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O"
+          "name": "Kabaka Pyramid",
+          "url": "https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH"
         },
         {
           "name": "Damian Marley",
           "url": "https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi"
         }
       ],
-      "duration_ms": 208893,
-      "name": "That's Not True",
-      "url": "https://open.spotify.com/track/4MbHdE6u1WVqqzwbHLkKUL"
+      "duration_ms": 229057,
+      "name": "Red Gold and Green",
+      "url": "https://open.spotify.com/track/3G2JE7DiHUhEizVPLiU0vw"
     },
     {
       "added_at": "2024-06-18 11:27:57",
       "album": {
-        "name": "The ExPerience",
-        "url": "https://open.spotify.com/album/3fijbBVRaz2CUyoWAV1ZlK"
+        "name": "Ten Cane Row (feat. Jorja Smith)",
+        "url": "https://open.spotify.com/album/5BY7i9MB7Ykwf7hMt1npU1"
       },
       "artists": [
         {
-          "name": "Lila Ik\u00e9",
-          "url": "https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO"
+          "name": "Protoje",
+          "url": "https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr"
+        },
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
         }
       ],
-      "duration_ms": 243049,
-      "name": "Where I'm Coming From",
-      "url": "https://open.spotify.com/track/2jQENRPVxXb8TcTAXW6wpQ"
+      "duration_ms": 209586,
+      "name": "Ten Cane Row (feat. Jorja Smith)",
+      "url": "https://open.spotify.com/track/1ObD1mQ91u4yBK46EYNCgl"
     },
     {
       "added_at": "2024-06-18 11:27:57",
@@ -299,22 +303,18 @@
     {
       "added_at": "2024-06-18 11:27:57",
       "album": {
-        "name": "Ten Cane Row (feat. Jorja Smith)",
-        "url": "https://open.spotify.com/album/5BY7i9MB7Ykwf7hMt1npU1"
+        "name": "The ExPerience",
+        "url": "https://open.spotify.com/album/3fijbBVRaz2CUyoWAV1ZlK"
       },
       "artists": [
         {
-          "name": "Protoje",
-          "url": "https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr"
-        },
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+          "name": "Lila Ik\u00e9",
+          "url": "https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO"
         }
       ],
-      "duration_ms": 209586,
-      "name": "Ten Cane Row (feat. Jorja Smith)",
-      "url": "https://open.spotify.com/track/1ObD1mQ91u4yBK46EYNCgl"
+      "duration_ms": 243049,
+      "name": "Where I'm Coming From",
+      "url": "https://open.spotify.com/track/2jQENRPVxXb8TcTAXW6wpQ"
     },
     {
       "added_at": "2024-06-18 11:27:57",
@@ -355,6 +355,46 @@
     {
       "added_at": "2024-06-18 11:27:57",
       "album": {
+        "name": "Vibe",
+        "url": "https://open.spotify.com/album/4vY5bGXeYLqW2gQqADFMty"
+      },
+      "artists": [
+        {
+          "name": "Skip Marley",
+          "url": "https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O"
+        },
+        {
+          "name": "Popcaan",
+          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
+        }
+      ],
+      "duration_ms": 195829,
+      "name": "Vibe (feat. Popcaan)",
+      "url": "https://open.spotify.com/track/4VFk3eto9JaRlOQokHWZZB"
+    },
+    {
+      "added_at": "2024-06-18 11:27:57",
+      "album": {
+        "name": "In Search Of Lost Time",
+        "url": "https://open.spotify.com/album/3kF6kDaK450bGM7rgOTVgW"
+      },
+      "artists": [
+        {
+          "name": "Protoje",
+          "url": "https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr"
+        },
+        {
+          "name": "Lila Ik\u00e9",
+          "url": "https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO"
+        }
+      ],
+      "duration_ms": 227613,
+      "name": "In Bloom (feat. Lila Ik\u00e9)",
+      "url": "https://open.spotify.com/track/3WwXaLYKNx0qJqyjnzDadx"
+    },
+    {
+      "added_at": "2024-06-18 11:27:57",
+      "album": {
         "name": "Love And Mercy",
         "url": "https://open.spotify.com/album/3pEDTam6hFt9A1i7gA9T62"
       },
@@ -383,26 +423,6 @@
       "duration_ms": 212795,
       "name": "Nice Up The Dance",
       "url": "https://open.spotify.com/track/2KR1FKbtBscgImHlKdoVyj"
-    },
-    {
-      "added_at": "2024-06-18 11:27:57",
-      "album": {
-        "name": "Vibe",
-        "url": "https://open.spotify.com/album/4vY5bGXeYLqW2gQqADFMty"
-      },
-      "artists": [
-        {
-          "name": "Skip Marley",
-          "url": "https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O"
-        },
-        {
-          "name": "Popcaan",
-          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
-        }
-      ],
-      "duration_ms": 195829,
-      "name": "Vibe (feat. Popcaan)",
-      "url": "https://open.spotify.com/track/4VFk3eto9JaRlOQokHWZZB"
     },
     {
       "added_at": "2024-06-18 11:27:57",
@@ -463,70 +483,6 @@
     {
       "added_at": "2024-06-18 11:27:57",
       "album": {
-        "name": "In Search Of Lost Time",
-        "url": "https://open.spotify.com/album/3kF6kDaK450bGM7rgOTVgW"
-      },
-      "artists": [
-        {
-          "name": "Protoje",
-          "url": "https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr"
-        },
-        {
-          "name": "Lila Ik\u00e9",
-          "url": "https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO"
-        }
-      ],
-      "duration_ms": 227613,
-      "name": "In Bloom (feat. Lila Ik\u00e9)",
-      "url": "https://open.spotify.com/track/3WwXaLYKNx0qJqyjnzDadx"
-    },
-    {
-      "added_at": "2024-06-18 11:27:57",
-      "album": {
-        "name": "Higher Place",
-        "url": "https://open.spotify.com/album/3LrRzezQmsqxC2eyqVvdAr"
-      },
-      "artists": [
-        {
-          "name": "Skip Marley",
-          "url": "https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O"
-        }
-      ],
-      "duration_ms": 198362,
-      "name": "My World",
-      "url": "https://open.spotify.com/track/3acMAUnwxMKfuXIt3SNqDw"
-    },
-    {
-      "added_at": "2024-06-18 11:27:57",
-      "album": {
-        "name": "The Kalling",
-        "url": "https://open.spotify.com/album/2IL0ko13l6DhK4gUebZXd9"
-      },
-      "artists": [
-        {
-          "name": "Kabaka Pyramid",
-          "url": "https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH"
-        },
-        {
-          "name": "Stephen Marley",
-          "url": "https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1"
-        },
-        {
-          "name": "Protoje",
-          "url": "https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr"
-        },
-        {
-          "name": "Jesse Royal",
-          "url": "https://open.spotify.com/artist/4aXUVIuNCDbLoRAYfuVDi1"
-        }
-      ],
-      "duration_ms": 213977,
-      "name": "The Kalling",
-      "url": "https://open.spotify.com/track/7sWHIFWauKqIXFPvVA4UTa"
-    },
-    {
-      "added_at": "2024-06-18 11:27:57",
-      "album": {
         "name": "Blaze Away",
         "url": "https://open.spotify.com/album/2VI5sZ40Lewd51hhtF58cc"
       },
@@ -567,6 +523,22 @@
     {
       "added_at": "2024-06-18 11:27:57",
       "album": {
+        "name": "Higher Place",
+        "url": "https://open.spotify.com/album/3LrRzezQmsqxC2eyqVvdAr"
+      },
+      "artists": [
+        {
+          "name": "Skip Marley",
+          "url": "https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O"
+        }
+      ],
+      "duration_ms": 198362,
+      "name": "My World",
+      "url": "https://open.spotify.com/track/3acMAUnwxMKfuXIt3SNqDw"
+    },
+    {
+      "added_at": "2024-06-18 11:27:57",
+      "album": {
         "name": "What Do You Say (Move It Baby) [Damian \u201cJr Gong\" Marley Remix]",
         "url": "https://open.spotify.com/album/1FdKhinPfReL7vJJB22DPI"
       },
@@ -587,6 +559,50 @@
       "duration_ms": 255839,
       "name": "What Do You Say (Move It Baby) - Damian \u201cJr. Gong\" Marley Remix",
       "url": "https://open.spotify.com/track/7jpublhStv0bwUo3ZdC0PS"
+    },
+    {
+      "added_at": "2024-06-18 11:27:57",
+      "album": {
+        "name": "Same So",
+        "url": "https://open.spotify.com/album/2TRIUatF5kFierYyXW8zUq"
+      },
+      "artists": [
+        {
+          "name": "Protoje",
+          "url": "https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr"
+        }
+      ],
+      "duration_ms": 208719,
+      "name": "Same So",
+      "url": "https://open.spotify.com/track/54Dt888vzNrG90F51f1kSW"
+    },
+    {
+      "added_at": "2024-06-18 11:27:57",
+      "album": {
+        "name": "The Kalling",
+        "url": "https://open.spotify.com/album/2IL0ko13l6DhK4gUebZXd9"
+      },
+      "artists": [
+        {
+          "name": "Kabaka Pyramid",
+          "url": "https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH"
+        },
+        {
+          "name": "Stephen Marley",
+          "url": "https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1"
+        },
+        {
+          "name": "Protoje",
+          "url": "https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr"
+        },
+        {
+          "name": "Jesse Royal",
+          "url": "https://open.spotify.com/artist/4aXUVIuNCDbLoRAYfuVDi1"
+        }
+      ],
+      "duration_ms": 213977,
+      "name": "The Kalling",
+      "url": "https://open.spotify.com/track/7sWHIFWauKqIXFPvVA4UTa"
     },
     {
       "added_at": "2024-06-18 11:27:57",
@@ -635,22 +651,6 @@
     {
       "added_at": "2024-06-18 11:27:57",
       "album": {
-        "name": "Believe",
-        "url": "https://open.spotify.com/album/09dXLJqAXCOCrsFNZv9NzC"
-      },
-      "artists": [
-        {
-          "name": "Kabaka Pyramid",
-          "url": "https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH"
-        }
-      ],
-      "duration_ms": 158784,
-      "name": "Believe",
-      "url": "https://open.spotify.com/track/4lelv8PEcOEpSxZGsYZWil"
-    },
-    {
-      "added_at": "2024-06-18 11:27:57",
-      "album": {
         "name": "Perfectly With You",
         "url": "https://open.spotify.com/album/6cDKLuyr4i3lY2uCOuEO3J"
       },
@@ -663,22 +663,6 @@
       "duration_ms": 212307,
       "name": "Perfectly With You",
       "url": "https://open.spotify.com/track/6li1utKb0kTo2R9FQU66yn"
-    },
-    {
-      "added_at": "2024-06-18 11:27:57",
-      "album": {
-        "name": "Same So",
-        "url": "https://open.spotify.com/album/2TRIUatF5kFierYyXW8zUq"
-      },
-      "artists": [
-        {
-          "name": "Protoje",
-          "url": "https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr"
-        }
-      ],
-      "duration_ms": 208719,
-      "name": "Same So",
-      "url": "https://open.spotify.com/track/54Dt888vzNrG90F51f1kSW"
     },
     {
       "added_at": "2024-06-18 11:27:57",
@@ -743,6 +727,22 @@
     {
       "added_at": "2024-06-18 11:27:57",
       "album": {
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/09dXLJqAXCOCrsFNZv9NzC"
+      },
+      "artists": [
+        {
+          "name": "Kabaka Pyramid",
+          "url": "https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH"
+        }
+      ],
+      "duration_ms": 158784,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/4lelv8PEcOEpSxZGsYZWil"
+    },
+    {
+      "added_at": "2024-06-18 11:27:57",
+      "album": {
         "name": "Keep Blazin'",
         "url": "https://open.spotify.com/album/0AbmIWR90BHUxSINeBPJ9G"
       },
@@ -763,22 +763,6 @@
     {
       "added_at": "2024-06-18 11:27:57",
       "album": {
-        "name": "COCONUT WATA (SIP)",
-        "url": "https://open.spotify.com/album/3B8Uek8SQsTqZEdEjjWKWU"
-      },
-      "artists": [
-        {
-          "name": "Buju Banton",
-          "url": "https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA"
-        }
-      ],
-      "duration_ms": 185720,
-      "name": "COCONUT WATA (SIP)",
-      "url": "https://open.spotify.com/track/6ZNzOXz18cAPpWOehFINzo"
-    },
-    {
-      "added_at": "2024-06-18 11:27:57",
-      "album": {
         "name": "Like Royalty (feat. Popcaan)",
         "url": "https://open.spotify.com/album/1vRu5xDjU8UI01GFdvWrnP"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 245986,
       "name": "Like Royalty (feat. Popcaan)",
       "url": "https://open.spotify.com/track/4ezz5XTWn8PPTuDagSM8pH"
+    },
+    {
+      "added_at": "2024-06-18 11:27:57",
+      "album": {
+        "name": "COCONUT WATA (SIP)",
+        "url": "https://open.spotify.com/album/3B8Uek8SQsTqZEdEjjWKWU"
+      },
+      "artists": [
+        {
+          "name": "Buju Banton",
+          "url": "https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA"
+        }
+      ],
+      "duration_ms": 185720,
+      "name": "COCONUT WATA (SIP)",
+      "url": "https://open.spotify.com/track/6ZNzOXz18cAPpWOehFINzo"
     },
     {
       "added_at": "2024-06-18 11:27:57",
@@ -1115,6 +1115,22 @@
     {
       "added_at": "2024-06-18 11:27:57",
       "album": {
+        "name": "Fill My Cup",
+        "url": "https://open.spotify.com/album/5GjpNkfPldpQpyqH8UgOrE"
+      },
+      "artists": [
+        {
+          "name": "Iotosh",
+          "url": "https://open.spotify.com/artist/5IzolPBJ2JFhc2NeNA8Log"
+        }
+      ],
+      "duration_ms": 202701,
+      "name": "Fill My Cup",
+      "url": "https://open.spotify.com/track/58PFZiGVblDkRgiFbsCXTm"
+    },
+    {
+      "added_at": "2024-06-18 11:27:57",
+      "album": {
         "name": "GOODLOVE",
         "url": "https://open.spotify.com/album/56GCZRwzq8fAHUpdeebIuv"
       },
@@ -1135,22 +1151,6 @@
       "duration_ms": 247706,
       "name": "GOODLOVE",
       "url": "https://open.spotify.com/track/1qA672RAmDGPSuCiwxwOm4"
-    },
-    {
-      "added_at": "2024-06-18 11:27:57",
-      "album": {
-        "name": "Fill My Cup",
-        "url": "https://open.spotify.com/album/5GjpNkfPldpQpyqH8UgOrE"
-      },
-      "artists": [
-        {
-          "name": "Iotosh",
-          "url": "https://open.spotify.com/artist/5IzolPBJ2JFhc2NeNA8Log"
-        }
-      ],
-      "duration_ms": 202701,
-      "name": "Fill My Cup",
-      "url": "https://open.spotify.com/track/58PFZiGVblDkRgiFbsCXTm"
     },
     {
       "added_at": "2024-06-18 11:27:57",

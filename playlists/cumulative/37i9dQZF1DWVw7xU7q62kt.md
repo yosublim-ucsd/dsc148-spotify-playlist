@@ -2,7 +2,7 @@
 
 ### [Jazzy Beats](https://open.spotify.com/playlist/37i9dQZF1DWVw7xU7q62kt)
 
-> Beats with a flavour of Jazz\. Cover: Blue Lab Beats
+> Beats with a flavour of Jazz.
 
 269 songs - 13 hr 40 min
 

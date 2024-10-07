@@ -1,12 +1,12 @@
 {
   "description": "This is Jordan Davis. The essential tracks, all in one playlist.",
-  "num_followers": 38237,
+  "num_followers": 38293,
   "original_name": "This Is Jordan Davis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zv3egAAAAACReOpAj/Zd9f9GHSQWcijg",
+  "snapshot_id": "ZwCBgAAAAAB/g4Q7HqzqhwxiWlKoihxx",
   "tracks": [
     {
       "added_at": null,
@@ -391,6 +391,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Jordan Davis",
+        "url": "https://open.spotify.com/album/0SwlWLg5DuW837b05V2s0c"
+      },
+      "artists": [
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        }
+      ],
+      "duration_ms": 223448,
+      "name": "Church In A Chevy",
+      "url": "https://open.spotify.com/track/5Kuvvw2blL70n9GqVFx3vF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "REBEL",
         "url": "https://open.spotify.com/album/0sJhrYC1988r2NNxsmzk3V"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 196733,
       "name": "Country Gold",
       "url": "https://open.spotify.com/track/0UnMW3SztHeKFHTEIFyIVh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Jordan Davis",
-        "url": "https://open.spotify.com/album/0SwlWLg5DuW837b05V2s0c"
-      },
-      "artists": [
-        {
-          "name": "Jordan Davis",
-          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
-        }
-      ],
-      "duration_ms": 223448,
-      "name": "Church In A Chevy",
-      "url": "https://open.spotify.com/track/5Kuvvw2blL70n9GqVFx3vF"
     },
     {
       "added_at": null,

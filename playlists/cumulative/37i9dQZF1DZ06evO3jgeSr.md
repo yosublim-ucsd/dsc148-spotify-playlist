@@ -2,7 +2,7 @@
 
 ### [This Is Labi Siffre](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3jgeSr)
 
-> This is Labi Siffre\. The essential tracks, all in one playlist.
+> This is Labi Siffre\. Track\-track unggulan, semuanya dalam satu playlist.
 
 115 songs - 7 hr 10 min
 
@@ -20,7 +20,7 @@
 | [Bless the Telephone](https://open.spotify.com/track/0620OecAlwJQxWieRW4L9s) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [The Singer & The Song](https://open.spotify.com/album/5vVrfTlAZqwpdCs52MjdZH) | 1:40 | 2021-12-28 |  |
 | [Blue Lady](https://open.spotify.com/track/1kdp5JKEEHxDmU0VEvKVG9) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [Crying, Laughing, Loving, Lying](https://open.spotify.com/album/3KJxMjUnBZu3jLeQTIe6aQ) | 5:05 | 2021-12-29 | 2022-09-18 |
 | [Cannock Chase](https://open.spotify.com/track/0WAEGVylZjbe2mQ6Or6HxY) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [Crying, Laughing, Loving, Lying](https://open.spotify.com/album/3KJxMjUnBZu3jLeQTIe6aQ) | 4:06 | 2021-12-28 |  |
-| [Children of Children](https://open.spotify.com/track/6hNw6Q5zCfCJzp1SdZJdtC) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [For the Children \(Deluxe Edition\)](https://open.spotify.com/album/5CVLuGM12kmx16qR4rGy2u) | 6:32 | 2022-01-13 | 2024-09-08 |
+| [Children of Children](https://open.spotify.com/track/6hNw6Q5zCfCJzp1SdZJdtC) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [For the Children \(Deluxe Edition\)](https://open.spotify.com/album/5CVLuGM12kmx16qR4rGy2u) | 6:32 | 2022-01-13 |  |
 | [Clinging to the Ledge](https://open.spotify.com/track/71KiSnfV0Q4ug0Pv1V83oK) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [The Last Songs](https://open.spotify.com/album/1kWpxZ7bSgK6iImNVl4PYr) | 5:31 | 2023-05-26 | 2023-05-30 |
 | [Come on Michael](https://open.spotify.com/track/4eiQHWqJPu4iUFaVsUqzbm) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [Crying, Laughing, Loving, Lying](https://open.spotify.com/album/3KJxMjUnBZu3jLeQTIe6aQ) | 2:57 | 2021-12-29 | 2023-09-19 |
 | [Crying, Laughing, Loving, Lying](https://open.spotify.com/track/28UWzdVYFe36w0GwDJlIwJ) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [Crying, Laughing, Loving, Lying](https://open.spotify.com/album/3KJxMjUnBZu3jLeQTIe6aQ) | 3:03 | 2021-12-28 |  |
@@ -50,7 +50,7 @@
 | [I Will Always Love You](https://open.spotify.com/track/1CjlMwVMrvWphUBZ3nCpyx) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [So Strong](https://open.spotify.com/album/1eY6wnXsy13mXFzMyP5Iuk) | 5:27 | 2021-12-28 |  |
 | [I'm Alright](https://open.spotify.com/track/5CQftpQA5NjF1aZbuZvXuR) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [So Strong](https://open.spotify.com/album/1eY6wnXsy13mXFzMyP5Iuk) | 5:08 | 2021-12-28 |  |
 | [If You Have Faith](https://open.spotify.com/track/3vbpYCQ1hVpzPTRAXX7KPT) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [For the Children \(Deluxe Edition\)](https://open.spotify.com/album/5CVLuGM12kmx16qR4rGy2u) | 4:10 | 2023-08-09 | 2023-08-20 |
-| [Interlude](https://open.spotify.com/track/7yzc0ePGHmlGUruqGrI2JL) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [The Singer & The Song](https://open.spotify.com/album/5vVrfTlAZqwpdCs52MjdZH) | 3:06 | 2021-12-31 |  |
+| [Interlude](https://open.spotify.com/track/7yzc0ePGHmlGUruqGrI2JL) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [The Singer & The Song](https://open.spotify.com/album/5vVrfTlAZqwpdCs52MjdZH) | 3:06 | 2021-12-31 | 2024-10-07 |
 | [It Must Be Love](https://open.spotify.com/track/70Y4jSu8zk3l8gyKTUz3l0) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [Crying, Laughing, Loving, Lying](https://open.spotify.com/album/3KJxMjUnBZu3jLeQTIe6aQ) | 3:56 | 2021-12-28 |  |
 | [Just a Face](https://open.spotify.com/track/6zfa85hBi3dpmUfF7bjMAr) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [The Singer & The Song \(Deluxe Edition\)](https://open.spotify.com/album/6vI4NNwyHDsMnxeC5QVl1w) | 2:03 | 2022-04-13 |  |
 | [La\-De\-Da\-De\-Da \(Lost Without Your Love\)](https://open.spotify.com/track/38kRs9beBRJdfg1gQNCZUA) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [The Music Of Labi Siffre](https://open.spotify.com/album/7tyc9SuNusJlTI6Dkhsajy) | 3:34 | 2021-12-28 | 2022-11-02 |
@@ -68,7 +68,7 @@
 | [Nightmare](https://open.spotify.com/track/767ZXrndm2nCWSBngN1YqI) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [Nightmare/Run to Him/The Love Thing](https://open.spotify.com/album/2iu0cxxPhCMlbhS1ylbMuE) | 3:06 | 2023-01-20 | 2023-05-28 |
 | [Not so Long Ago](https://open.spotify.com/track/5yq9kXHnTWpyLVYbqbyZ6B) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [The Singer & The Song](https://open.spotify.com/album/5vVrfTlAZqwpdCs52MjdZH) | 2:04 | 2022-02-18 | 2023-02-15 |
 | [Nothin's Gonna Change](https://open.spotify.com/track/2UPPvu8zpvQCjKFMiskO8V) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [So Strong](https://open.spotify.com/album/1eY6wnXsy13mXFzMyP5Iuk) | 3:43 | 2022-02-05 | 2022-02-13 |
-| [Nothing in the World Like Love](https://open.spotify.com/track/2PP9MyExHQv5GzbWJXAhaE) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [The Singer & The Song](https://open.spotify.com/album/5vVrfTlAZqwpdCs52MjdZH) | 3:57 | 2021-12-28 | 2024-06-23 |
+| [Nothing in the World Like Love](https://open.spotify.com/track/2PP9MyExHQv5GzbWJXAhaE) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [The Singer & The Song](https://open.spotify.com/album/5vVrfTlAZqwpdCs52MjdZH) | 3:57 | 2021-12-28 |  |
 | [Odds & Ends](https://open.spotify.com/track/1wX3vEINaJqDMddr1SjSqk) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [For the Children \(Deluxe Edition\)](https://open.spotify.com/album/5CVLuGM12kmx16qR4rGy2u) | 4:01 | 2022-01-20 | 2022-09-11 |
 | [Oh Me Oh My Mr\. City Goodbye](https://open.spotify.com/track/0ShZJapZjeO03agphzZOyI) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [Crying, Laughing, Loving, Lying \(Deluxe Edition\)](https://open.spotify.com/album/5sFwr2JkKjNf46waqdF8KR) | 3:50 | 2024-04-22 |  |
 | [Old Time Song \- 2006 Remaster](https://open.spotify.com/track/5SeTPjaVXFW6uzhAvKd3XE) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [Remember My Song](https://open.spotify.com/album/1wTqD7FSQ8XgKPy8xBUaEV) | 4:50 | 2022-01-16 | 2022-08-31 |
@@ -109,7 +109,7 @@
 | [Wash Away Your Troubles in Love](https://open.spotify.com/track/0cS1CHuLuFqXuYePMeAPus) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [Man Of Reason](https://open.spotify.com/album/13qWiNM7eIxVIEwmSgRHy2) | 3:51 | 2023-03-17 | 2023-05-10 |
 | [Watch Me](https://open.spotify.com/track/2xjv06k7zfnHV9zanSLRdI) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [Crying, Laughing, Loving, Lying \(Deluxe Edition\)](https://open.spotify.com/album/5sFwr2JkKjNf46waqdF8KR) | 3:33 | 2021-12-28 |  |
 | [When I'm on My Own You Are on My Mind](https://open.spotify.com/track/3wiGdP73tq99dHMmeEE58i) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [The Singer & The Song](https://open.spotify.com/album/5vVrfTlAZqwpdCs52MjdZH) | 1:25 | 2021-12-28 |  |
-| [When You're Lonely](https://open.spotify.com/track/23Vhc0SDblDARyCo3CIOQC) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [So Strong](https://open.spotify.com/album/1eY6wnXsy13mXFzMyP5Iuk) | 2:11 | 2022-02-09 |  |
+| [When You're Lonely](https://open.spotify.com/track/23Vhc0SDblDARyCo3CIOQC) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [So Strong](https://open.spotify.com/album/1eY6wnXsy13mXFzMyP5Iuk) | 2:11 | 2022-02-09 | 2024-10-07 |
 | [Who Do You See](https://open.spotify.com/track/7rMcwxMWXeBsbXjSdnA28J) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [The Singer & The Song](https://open.spotify.com/album/5vVrfTlAZqwpdCs52MjdZH) | 3:04 | 2023-01-26 | 2023-03-25 |
 | [Why Did You Go, Why Did You Leave Me?](https://open.spotify.com/track/3pv18093n2pXhYpv61uYDA) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [Watch Me](https://open.spotify.com/album/6XISjZWPMHGjsWWmRhBf1R) | 3:13 | 2023-06-18 | 2024-09-01 |
 | [Why Did You Go, Why Did You Leave Me?](https://open.spotify.com/track/4Mi4smdYzAKzbVulBkJ81Z) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [Watch Me](https://open.spotify.com/album/0s2hy5O0CQGH0nK1MKvSrB) | 3:13 | 2023-05-27 | 2023-06-19 |

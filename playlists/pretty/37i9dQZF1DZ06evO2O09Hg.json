@@ -1,12 +1,12 @@
 {
-  "description": "This Is Juice WRLD. Los temas esenciales, todos en una lista.",
-  "num_followers": 1585226,
+  "description": "This is Juice WRLD. The essential tracks, all in one playlist.",
+  "num_followers": 1585296,
   "original_name": "This Is Juice WRLD",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zv3egAAAAADTKNoX+QrWGFvFIAqp/TsD",
+  "snapshot_id": "ZwCBgAAAAAALRtiPwVOexcTX/xVUCrse",
   "tracks": [
     {
       "added_at": null,
@@ -199,8 +199,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Death Race For Love (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/1btu0SV2DOI5HoFsvUd78F"
+        "name": "Let Me Know (I Wonder Why Freestyle)",
+        "url": "https://open.spotify.com/album/5wi0oKiF99ZVACf6oTTsp2"
       },
       "artists": [
         {
@@ -208,9 +208,9 @@
           "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
         }
       ],
-      "duration_ms": 240050,
-      "name": "Robbery",
-      "url": "https://open.spotify.com/track/6iaSML1PIYq936g62BDtBq"
+      "duration_ms": 215380,
+      "name": "Let Me Know (I Wonder Why Freestyle)",
+      "url": "https://open.spotify.com/track/3wwo0bJvDSorOpNfzEkfXx"
     },
     {
       "added_at": null,
@@ -231,8 +231,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Let Me Know (I Wonder Why Freestyle)",
-        "url": "https://open.spotify.com/album/5wi0oKiF99ZVACf6oTTsp2"
+        "name": "Death Race For Love (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/1btu0SV2DOI5HoFsvUd78F"
       },
       "artists": [
         {
@@ -240,9 +240,9 @@
           "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
         }
       ],
-      "duration_ms": 215380,
-      "name": "Let Me Know (I Wonder Why Freestyle)",
-      "url": "https://open.spotify.com/track/3wwo0bJvDSorOpNfzEkfXx"
+      "duration_ms": 240050,
+      "name": "Robbery",
+      "url": "https://open.spotify.com/track/6iaSML1PIYq936g62BDtBq"
     },
     {
       "added_at": null,
@@ -371,22 +371,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Pre-Party",
-        "url": "https://open.spotify.com/album/2rlWVKCWJo4vpOBl8RiYX4"
+        "name": "Death Race For Love (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/1btu0SV2DOI5HoFsvUd78F"
       },
       "artists": [
         {
           "name": "Juice WRLD",
           "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
         }
       ],
-      "duration_ms": 192130,
-      "name": "Lightyears (with Young Thug)",
-      "url": "https://open.spotify.com/track/7D5JJXdw98saj80xQxukTQ"
+      "duration_ms": 218348,
+      "name": "Flaws And Sins",
+      "url": "https://open.spotify.com/track/0flSGzqHO12p9fU9kqaHGE"
     },
     {
       "added_at": null,
@@ -407,18 +403,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Death Race For Love (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/1btu0SV2DOI5HoFsvUd78F"
+        "name": "The Pre-Party",
+        "url": "https://open.spotify.com/album/2rlWVKCWJo4vpOBl8RiYX4"
       },
       "artists": [
         {
           "name": "Juice WRLD",
           "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
         }
       ],
-      "duration_ms": 218348,
-      "name": "Flaws And Sins",
-      "url": "https://open.spotify.com/track/0flSGzqHO12p9fU9kqaHGE"
+      "duration_ms": 192130,
+      "name": "Lightyears (with Young Thug)",
+      "url": "https://open.spotify.com/track/7D5JJXdw98saj80xQxukTQ"
     },
     {
       "added_at": null,
@@ -463,26 +463,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Suicidal (Remix) [feat. Juice WRLD]",
-        "url": "https://open.spotify.com/album/4WE4KsdoZbISWStEzfcxvH"
-      },
-      "artists": [
-        {
-          "name": "YNW Melly",
-          "url": "https://open.spotify.com/artist/1cNDP5yjU5vjeR8qMf4grg"
-        },
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        }
-      ],
-      "duration_ms": 225857,
-      "name": "Suicidal (feat. Juice WRLD) - Remix",
-      "url": "https://open.spotify.com/track/4S2uhQE8L9V6p7rj7SiauJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Death Race For Love (Bonus Track Version)",
         "url": "https://open.spotify.com/album/1btu0SV2DOI5HoFsvUd78F"
       },
@@ -499,6 +479,26 @@
       "duration_ms": 189322,
       "name": "Bandit (with YoungBoy Never Broke Again)",
       "url": "https://open.spotify.com/track/1oWM79mUVdZGCGYjSirHZR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Suicidal (Remix) [feat. Juice WRLD]",
+        "url": "https://open.spotify.com/album/4WE4KsdoZbISWStEzfcxvH"
+      },
+      "artists": [
+        {
+          "name": "YNW Melly",
+          "url": "https://open.spotify.com/artist/1cNDP5yjU5vjeR8qMf4grg"
+        },
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "duration_ms": 225857,
+      "name": "Suicidal (feat. Juice WRLD) - Remix",
+      "url": "https://open.spotify.com/track/4S2uhQE8L9V6p7rj7SiauJ"
     },
     {
       "added_at": null,
@@ -695,26 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Love Letter To You 3",
-        "url": "https://open.spotify.com/album/1fFwMXuTJ8J3KXo14Vvsna"
-      },
-      "artists": [
-        {
-          "name": "Trippie Redd",
-          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
-        },
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        }
-      ],
-      "duration_ms": 175954,
-      "name": "1400 / 999 Freestyle (feat. Juice WRLD)",
-      "url": "https://open.spotify.com/track/0axBgt9y0GvMCLuRl2xBKG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Legends",
         "url": "https://open.spotify.com/album/7zfsq2Hboh0SZMcWo2ASkD"
       },
@@ -743,6 +723,26 @@
       "duration_ms": 192000,
       "name": "In My Head",
       "url": "https://open.spotify.com/track/2RJAKIw6nIkgZVsAIKhmqz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Love Letter To You 3",
+        "url": "https://open.spotify.com/album/1fFwMXuTJ8J3KXo14Vvsna"
+      },
+      "artists": [
+        {
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        },
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "duration_ms": 175954,
+      "name": "1400 / 999 Freestyle (feat. Juice WRLD)",
+      "url": "https://open.spotify.com/track/0axBgt9y0GvMCLuRl2xBKG"
     },
     {
       "added_at": null,

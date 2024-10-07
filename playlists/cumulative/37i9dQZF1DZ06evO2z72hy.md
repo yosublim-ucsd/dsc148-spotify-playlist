@@ -4,7 +4,7 @@
 
 > This Is Gondwana\. Los temas esenciales, todos en una lista.
 
-84 songs - 5 hr 42 min
+85 songs - 5 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Dulce Amor \(Sólo Un Latido\)](https://open.spotify.com/track/23d6sogOKvZOx7XtSEeNVs) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Alabanza](https://open.spotify.com/album/6KPmpAVmsA13q5iz2ItPLS) | 3:47 | 2022-05-25 |  |
 | [El Beso Que Me da una Rosa](https://open.spotify.com/track/5PYs43QuMcrqq2wVPN0pgu) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Revolución \(Bonus Track Version\)](https://open.spotify.com/album/2q9SKZyjttHPnRTcV7cDAg) | 3:28 | 2022-06-11 | 2022-08-14 |
 | [El Rito](https://open.spotify.com/track/5iccBUGytEmsMoJhaFeRag) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Reggae N Roll](https://open.spotify.com/album/0xvEOmEMONX0ohVCUcudb5) | 5:00 | 2022-05-25 | 2023-05-12 |
+| [Estoy Volviendo a Mi Hogar](https://open.spotify.com/track/3Sw2qcUGbe8OwhIk2I1Tds) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Revolución \(Bonus Track Version\)](https://open.spotify.com/album/2q9SKZyjttHPnRTcV7cDAg) | 4:20 | 2024-10-07 |  |
 | [Felicidad](https://open.spotify.com/track/3TilMZ5wdTBPrDYPNY9Kc8) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Made In Jamaica](https://open.spotify.com/album/3iUfQH6qzhBfR4lrD4dgmg) | 5:41 | 2022-05-25 |  |
 | [Fight](https://open.spotify.com/track/7uGKVP3MSeWevLYFI0FOvI) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Crece](https://open.spotify.com/album/3B5dbgQh0IvFD47xLnDvPr) | 4:38 | 2022-10-12 |  |
 | [Fluye](https://open.spotify.com/track/2crdEEBy8ja6mBGjPxfpxZ) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Crece](https://open.spotify.com/album/3B5dbgQh0IvFD47xLnDvPr) | 5:54 | 2022-05-25 |  |
@@ -90,7 +91,7 @@
 | [Verde, amarillo y rojo](https://open.spotify.com/track/4Gu3btu3WVhofFBbSyrwBC) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Gondwana En Vivo En Buenos Aires](https://open.spotify.com/album/5gF3S3q98Noxe5ECtnUN9K) | 5:38 | 2022-05-25 | 2022-10-17 |
 | [Vivo Esperandote](https://open.spotify.com/track/0fmrLB98vvk3Z5wFTmkho9) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Crece](https://open.spotify.com/album/3B5dbgQh0IvFD47xLnDvPr) | 3:35 | 2022-05-25 | 2024-08-06 |
 | [Volver a sentir](https://open.spotify.com/track/35xXFaqG8xlx5x0HtHpzyv) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Gondwana En Vivo En Buenos Aires](https://open.spotify.com/album/5gF3S3q98Noxe5ECtnUN9K) | 3:28 | 2022-05-25 |  |
-| [Warning](https://open.spotify.com/track/7BXaBIZDHaUdAD7mcCSjH7) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Gondwana En Vivo En Buenos Aires](https://open.spotify.com/album/5gF3S3q98Noxe5ECtnUN9K) | 4:03 | 2022-10-12 |  |
+| [Warning](https://open.spotify.com/track/7BXaBIZDHaUdAD7mcCSjH7) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Gondwana En Vivo En Buenos Aires](https://open.spotify.com/album/5gF3S3q98Noxe5ECtnUN9K) | 4:03 | 2022-10-12 | 2024-10-07 |
 | [We Push Away Good Memories](https://open.spotify.com/track/37ZfyexbuT4zzAvofCjDCL) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd), [Ky\-Mani Marley](https://open.spotify.com/artist/1XTGADISSMRf8B4TcVGYUC), [Matthew Jacquette](https://open.spotify.com/artist/7fsjCnNgAkjX9iLny7g0dE) | [Carpe Diem](https://open.spotify.com/album/0hjSy3tFI2uK4RcppyNASu) | 3:24 | 2024-04-11 |  |
 
 \*This playlist was first scraped on 2022-05-26. Prior content cannot be recovered.

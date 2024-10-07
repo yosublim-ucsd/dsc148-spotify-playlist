@@ -1,12 +1,12 @@
 {
   "description": "This Is Yandel. Los temas esenciales, todos en una lista.",
-  "num_followers": 169701,
+  "num_followers": 169704,
   "original_name": "This Is Yandel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zv3egAAAAABK3FDP7UNQidArS23LHNA0",
+  "snapshot_id": "ZwCBgAAAAACiwDd0xEc3e1Fg0WKD9S3B",
   "tracks": [
     {
       "added_at": null,
@@ -71,26 +71,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Resistencia",
-        "url": "https://open.spotify.com/album/5xefnzEqKIWnmTWYFzekGZ"
-      },
-      "artists": [
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        },
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 216148,
-      "name": "Yandel 150",
-      "url": "https://open.spotify.com/track/4FAKtPVycI4DxoOHC01YqD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Le Clique: Vida Rockstar (X)",
         "url": "https://open.spotify.com/album/67JIMv9vCB2ukBdEbtUmUG"
       },
@@ -111,6 +91,26 @@
       "duration_ms": 254493,
       "name": "Porsche Carrera",
       "url": "https://open.spotify.com/track/1lPWHfrvpun8ZnxrWp3HH8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Resistencia",
+        "url": "https://open.spotify.com/album/5xefnzEqKIWnmTWYFzekGZ"
+      },
+      "artists": [
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 216148,
+      "name": "Yandel 150",
+      "url": "https://open.spotify.com/track/4FAKtPVycI4DxoOHC01YqD"
     },
     {
       "added_at": null,
@@ -707,22 +707,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "AFRO",
-        "url": "https://open.spotify.com/album/0WtOZuT26iXiNHFVIkdKpH"
-      },
-      "artists": [
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        }
-      ],
-      "duration_ms": 184984,
-      "name": "AFRO",
-      "url": "https://open.spotify.com/track/0nkYJ6N4EeDZy53ZFxsfLp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SANDUNGA",
         "url": "https://open.spotify.com/album/0SeTjJL8a6kfFlBQQTyNID"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 241921,
       "name": "SANDUNGA",
       "url": "https://open.spotify.com/track/4QJF76nruk2vvuCzGDCqsL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "AFRO",
+        "url": "https://open.spotify.com/album/0WtOZuT26iXiNHFVIkdKpH"
+      },
+      "artists": [
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "duration_ms": 184984,
+      "name": "AFRO",
+      "url": "https://open.spotify.com/track/0nkYJ6N4EeDZy53ZFxsfLp"
     },
     {
       "added_at": null,
@@ -843,6 +843,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cuanto Vale",
+        "url": "https://open.spotify.com/album/0xh0WBa0N4bQsbowMvDCIH"
+      },
+      "artists": [
+        {
+          "name": "Lenier",
+          "url": "https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "duration_ms": 165365,
+      "name": "Cuanto Vale",
+      "url": "https://open.spotify.com/track/3WHnnU4jaCPfzywrqSF5kl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "DYNASTY",
         "url": "https://open.spotify.com/album/58YsVjb7H6iov9MmLuvome"
       },
@@ -863,42 +883,6 @@
       "duration_ms": 166929,
       "name": "UNA M\u00c1S",
       "url": "https://open.spotify.com/track/7Hzh5oY6cIitvcK6oJDwTb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "CON CO",
-        "url": "https://open.spotify.com/album/0LPf0p8XaAulD9YSp4ZFF8"
-      },
-      "artists": [
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        }
-      ],
-      "duration_ms": 126016,
-      "name": "CON CO",
-      "url": "https://open.spotify.com/track/5oMhPcsDqtK8JBJiG9of02"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cuanto Vale",
-        "url": "https://open.spotify.com/album/0xh0WBa0N4bQsbowMvDCIH"
-      },
-      "artists": [
-        {
-          "name": "Lenier",
-          "url": "https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6"
-        },
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        }
-      ],
-      "duration_ms": 165365,
-      "name": "Cuanto Vale",
-      "url": "https://open.spotify.com/track/3WHnnU4jaCPfzywrqSF5kl"
     },
     {
       "added_at": null,
@@ -927,6 +911,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "CON CO",
+        "url": "https://open.spotify.com/album/0LPf0p8XaAulD9YSp4ZFF8"
+      },
+      "artists": [
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "duration_ms": 126016,
+      "name": "CON CO",
+      "url": "https://open.spotify.com/track/5oMhPcsDqtK8JBJiG9of02"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Saliendo del Planeta",
         "url": "https://open.spotify.com/album/0ct1nMrWBi5B93RKXAZJEf"
       },
@@ -943,6 +943,26 @@
       "duration_ms": 192000,
       "name": "CORLEONE",
       "url": "https://open.spotify.com/track/4XCIp44SX79A7spTo4O40y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Resistencia",
+        "url": "https://open.spotify.com/album/5xefnzEqKIWnmTWYFzekGZ"
+      },
+      "artists": [
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        }
+      ],
+      "duration_ms": 176293,
+      "name": "Cuando Te Toca",
+      "url": "https://open.spotify.com/track/6N5kayELaZsZUOwW9uCBU2"
     },
     {
       "added_at": null,
@@ -971,46 +991,6 @@
       "duration_ms": 216293,
       "name": "Unica - Remix",
       "url": "https://open.spotify.com/track/5Sv1rKKMX1yl9kfJ2HTluk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Resistencia",
-        "url": "https://open.spotify.com/album/5xefnzEqKIWnmTWYFzekGZ"
-      },
-      "artists": [
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        },
-        {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
-        }
-      ],
-      "duration_ms": 176293,
-      "name": "Cuando Te Toca",
-      "url": "https://open.spotify.com/track/6N5kayELaZsZUOwW9uCBU2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "CASERIO",
-        "url": "https://open.spotify.com/album/4NDSlhOifFUl2MNv3D9dYy"
-      },
-      "artists": [
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        },
-        {
-          "name": "Saiko",
-          "url": "https://open.spotify.com/artist/2Og0ncAuCVTlSTzBfIZv0h"
-        }
-      ],
-      "duration_ms": 189524,
-      "name": "CASERIO",
-      "url": "https://open.spotify.com/track/5mFPPKfPrFOuArc4ePJEyG"
     },
     {
       "added_at": null,
@@ -1055,6 +1035,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "CASERIO",
+        "url": "https://open.spotify.com/album/4NDSlhOifFUl2MNv3D9dYy"
+      },
+      "artists": [
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "Saiko",
+          "url": "https://open.spotify.com/artist/2Og0ncAuCVTlSTzBfIZv0h"
+        }
+      ],
+      "duration_ms": 189524,
+      "name": "CASERIO",
+      "url": "https://open.spotify.com/track/5mFPPKfPrFOuArc4ePJEyG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Underdog - El Subestimado",
         "url": "https://open.spotify.com/album/1walNH2TBWePmw3KT3BDJ5"
       },
@@ -1071,6 +1071,30 @@
       "duration_ms": 184480,
       "name": "Cuando Baila Reggaeton",
       "url": "https://open.spotify.com/track/4UxD6L5uah5Dvzs5kQwThG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Desperte Sin Ti (Remix)",
+        "url": "https://open.spotify.com/album/4Txl9NHs8rXqtG0sAosf6v"
+      },
+      "artists": [
+        {
+          "name": "Noriel",
+          "url": "https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL"
+        },
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "duration_ms": 319586,
+      "name": "Desperte Sin Ti - Remix",
+      "url": "https://open.spotify.com/track/1CWi7KBl7TUIYgIH52KO6f"
     },
     {
       "added_at": null,
@@ -1119,30 +1143,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Desperte Sin Ti (Remix)",
-        "url": "https://open.spotify.com/album/4Txl9NHs8rXqtG0sAosf6v"
-      },
-      "artists": [
-        {
-          "name": "Noriel",
-          "url": "https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL"
-        },
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        },
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        }
-      ],
-      "duration_ms": 319586,
-      "name": "Desperte Sin Ti - Remix",
-      "url": "https://open.spotify.com/track/1CWi7KBl7TUIYgIH52KO6f"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Quien Contra Mi",
         "url": "https://open.spotify.com/album/1xWGBUugmlHCwXH6AtpQCE"
       },
@@ -1159,30 +1159,6 @@
       "duration_ms": 185973,
       "name": "La Calle Me Lo Pidio",
       "url": "https://open.spotify.com/track/2h2BxMOTXrYAApqWQ6ZqTy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Legacy - De L\u00edder a Leyenda Tour (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0kEZti5UKQ2Dgc5o5ts5TQ"
-      },
-      "artists": [
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        },
-        {
-          "name": "El General Gadiel",
-          "url": "https://open.spotify.com/artist/7tETQjUDr6hqeJVd0WyuhH"
-        },
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        }
-      ],
-      "duration_ms": 206066,
-      "name": "Plakito (feat. El General Gadiel & Farruko) - Remix",
-      "url": "https://open.spotify.com/track/1WmiclR92NBBRbgqS4hXsQ"
     }
   ],
   "unique_name": "This Is Yandel",

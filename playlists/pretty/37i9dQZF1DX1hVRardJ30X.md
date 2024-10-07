@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > New music by Manuel Turizo & Kapo, Natanael Cano, Ela Taubert, Eslabon Armado and more! Updates every Friday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 596,708 likes - 53 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 596,796 likes - 53 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

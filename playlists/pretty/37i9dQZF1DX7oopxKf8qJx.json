@@ -1,6 +1,6 @@
 {
   "description": "The moody sound of easy listening from the 50's and 60's. Cover: Percy Faith",
-  "num_followers": 101406,
+  "num_followers": 101487,
   "original_name": "Classic Easy Listening",
   "owner": {
     "name": "Spotify",
@@ -231,22 +231,6 @@
     {
       "added_at": "2024-07-17 14:53:29",
       "album": {
-        "name": "Music For Lovers Only",
-        "url": "https://open.spotify.com/album/1yDWpowWTfhII9O0S9k2hs"
-      },
-      "artists": [
-        {
-          "name": "Jackie Gleason",
-          "url": "https://open.spotify.com/artist/2F0kPpQ5mtta1ORIyO2xex"
-        }
-      ],
-      "duration_ms": 185400,
-      "name": "Alone Together",
-      "url": "https://open.spotify.com/track/0BEGcUB8xzHZa3BQfo6MSM"
-    },
-    {
-      "added_at": "2024-07-17 14:53:29",
-      "album": {
         "name": "Music For Romancing",
         "url": "https://open.spotify.com/album/6uvtXa9roNJj96YTGJkhV4"
       },
@@ -263,18 +247,18 @@
     {
       "added_at": "2024-07-17 14:53:29",
       "album": {
-        "name": "A Warm Shade of Ivory",
-        "url": "https://open.spotify.com/album/1IsqBLmLMj3DmSQFqRzDa8"
+        "name": "Music For Lovers Only",
+        "url": "https://open.spotify.com/album/1yDWpowWTfhII9O0S9k2hs"
       },
       "artists": [
         {
-          "name": "Henry Mancini",
-          "url": "https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf"
+          "name": "Jackie Gleason",
+          "url": "https://open.spotify.com/artist/2F0kPpQ5mtta1ORIyO2xex"
         }
       ],
-      "duration_ms": 185680,
-      "name": "Cycles",
-      "url": "https://open.spotify.com/track/2ODXYxVCuRtoM2F2094y6h"
+      "duration_ms": 185400,
+      "name": "Alone Together",
+      "url": "https://open.spotify.com/track/0BEGcUB8xzHZa3BQfo6MSM"
     },
     {
       "added_at": "2024-07-17 14:53:29",
@@ -295,6 +279,22 @@
     {
       "added_at": "2024-07-17 14:53:29",
       "album": {
+        "name": "A Warm Shade of Ivory",
+        "url": "https://open.spotify.com/album/1IsqBLmLMj3DmSQFqRzDa8"
+      },
+      "artists": [
+        {
+          "name": "Henry Mancini",
+          "url": "https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf"
+        }
+      ],
+      "duration_ms": 185680,
+      "name": "Cycles",
+      "url": "https://open.spotify.com/track/2ODXYxVCuRtoM2F2094y6h"
+    },
+    {
+      "added_at": "2024-07-17 14:53:29",
+      "album": {
         "name": "You and the Night and the Music",
         "url": "https://open.spotify.com/album/6BfjlQaLkN18jIeDLTV4ef"
       },
@@ -307,58 +307,6 @@
       "duration_ms": 169493,
       "name": "Violins in the Night",
       "url": "https://open.spotify.com/track/3rKsXR4xrMOB90DoLswTiJ"
-    },
-    {
-      "added_at": "2024-07-17 14:53:29",
-      "album": {
-        "name": "Blue Midnight (Remastered)",
-        "url": "https://open.spotify.com/album/4cXY2pebOf073jBBH7zoza"
-      },
-      "artists": [
-        {
-          "name": "Bert Kaempfert",
-          "url": "https://open.spotify.com/artist/2s6JabvZdqVQhfOsaxCSFX"
-        }
-      ],
-      "duration_ms": 177560,
-      "name": "Lonely Nightingale",
-      "url": "https://open.spotify.com/track/4WG40Rn4T2tRxNF8rLj3pa"
-    },
-    {
-      "added_at": "2024-07-17 14:53:29",
-      "album": {
-        "name": "Music, Martinis And Memories",
-        "url": "https://open.spotify.com/album/2JelxdxU46oAIVp9BwpqgA"
-      },
-      "artists": [
-        {
-          "name": "Jackie Gleason",
-          "url": "https://open.spotify.com/artist/2F0kPpQ5mtta1ORIyO2xex"
-        }
-      ],
-      "duration_ms": 194880,
-      "name": "Once In A While",
-      "url": "https://open.spotify.com/track/78N4D2m9rt9sYmniEr6RIm"
-    },
-    {
-      "added_at": "2024-07-17 14:53:29",
-      "album": {
-        "name": "Two Pianos Today",
-        "url": "https://open.spotify.com/album/5furh3F91CSI9ELQIZpoCY"
-      },
-      "artists": [
-        {
-          "name": "Ronnie Aldrich and his 2 pianos",
-          "url": "https://open.spotify.com/artist/0Dh1BicC7OimxTazI2iffT"
-        },
-        {
-          "name": "London Festival Orchestra",
-          "url": "https://open.spotify.com/artist/3akUqAy3Q1WqRZqceC4jW9"
-        }
-      ],
-      "duration_ms": 188880,
-      "name": "Georgy Girl",
-      "url": "https://open.spotify.com/track/09WMsGVawZQr61lzFrLcMz"
     },
     {
       "added_at": "2024-07-17 14:53:29",
@@ -383,18 +331,54 @@
     {
       "added_at": "2024-07-17 14:53:29",
       "album": {
-        "name": "American Serenade",
-        "url": "https://open.spotify.com/album/19pCSMgiHqMCSrpgiGTTE0"
+        "name": "Blue Midnight (Remastered)",
+        "url": "https://open.spotify.com/album/4cXY2pebOf073jBBH7zoza"
       },
       "artists": [
         {
-          "name": "Percy Faith",
-          "url": "https://open.spotify.com/artist/6unIK8JFrGemCge3NIUDKE"
+          "name": "Bert Kaempfert",
+          "url": "https://open.spotify.com/artist/2s6JabvZdqVQhfOsaxCSFX"
         }
       ],
-      "duration_ms": 216960,
-      "name": "Autumn in New York",
-      "url": "https://open.spotify.com/track/5smT2oBOeVSaoXKEP8rr1H"
+      "duration_ms": 177560,
+      "name": "Lonely Nightingale",
+      "url": "https://open.spotify.com/track/4WG40Rn4T2tRxNF8rLj3pa"
+    },
+    {
+      "added_at": "2024-07-17 14:53:29",
+      "album": {
+        "name": "Two Pianos Today",
+        "url": "https://open.spotify.com/album/5furh3F91CSI9ELQIZpoCY"
+      },
+      "artists": [
+        {
+          "name": "Ronnie Aldrich and his 2 pianos",
+          "url": "https://open.spotify.com/artist/0Dh1BicC7OimxTazI2iffT"
+        },
+        {
+          "name": "London Festival Orchestra",
+          "url": "https://open.spotify.com/artist/3akUqAy3Q1WqRZqceC4jW9"
+        }
+      ],
+      "duration_ms": 188880,
+      "name": "Georgy Girl",
+      "url": "https://open.spotify.com/track/09WMsGVawZQr61lzFrLcMz"
+    },
+    {
+      "added_at": "2024-07-17 14:53:29",
+      "album": {
+        "name": "Music, Martinis And Memories",
+        "url": "https://open.spotify.com/album/2JelxdxU46oAIVp9BwpqgA"
+      },
+      "artists": [
+        {
+          "name": "Jackie Gleason",
+          "url": "https://open.spotify.com/artist/2F0kPpQ5mtta1ORIyO2xex"
+        }
+      ],
+      "duration_ms": 194880,
+      "name": "Once In A While",
+      "url": "https://open.spotify.com/track/78N4D2m9rt9sYmniEr6RIm"
     },
     {
       "added_at": "2024-07-17 14:53:29",
@@ -415,34 +399,18 @@
     {
       "added_at": "2024-07-17 14:53:29",
       "album": {
-        "name": "A Swingin' Safari (Remastered)",
-        "url": "https://open.spotify.com/album/1WuhfJk7fhSif4qkWL9Rh5"
+        "name": "American Serenade",
+        "url": "https://open.spotify.com/album/19pCSMgiHqMCSrpgiGTTE0"
       },
       "artists": [
         {
-          "name": "Bert Kaempfert",
-          "url": "https://open.spotify.com/artist/2s6JabvZdqVQhfOsaxCSFX"
+          "name": "Percy Faith",
+          "url": "https://open.spotify.com/artist/6unIK8JFrGemCge3NIUDKE"
         }
       ],
-      "duration_ms": 150440,
-      "name": "Market Day",
-      "url": "https://open.spotify.com/track/4hlI8fEybTdT0ADaGltnuF"
-    },
-    {
-      "added_at": "2024-07-17 14:53:29",
-      "album": {
-        "name": "Music For Lovers Only",
-        "url": "https://open.spotify.com/album/1yDWpowWTfhII9O0S9k2hs"
-      },
-      "artists": [
-        {
-          "name": "Jackie Gleason",
-          "url": "https://open.spotify.com/artist/2F0kPpQ5mtta1ORIyO2xex"
-        }
-      ],
-      "duration_ms": 202026,
-      "name": "My Funny Valentine",
-      "url": "https://open.spotify.com/track/33haaDXqwsd7wOk75ov0NL"
+      "duration_ms": 216960,
+      "name": "Autumn in New York",
+      "url": "https://open.spotify.com/track/5smT2oBOeVSaoXKEP8rr1H"
     },
     {
       "added_at": "2024-07-17 14:53:29",
@@ -459,6 +427,22 @@
       "duration_ms": 203973,
       "name": "Theme from Picnic - Remastered",
       "url": "https://open.spotify.com/track/7C2cDPLUfDxfxq5u7vIWF0"
+    },
+    {
+      "added_at": "2024-07-17 14:53:29",
+      "album": {
+        "name": "A Swingin' Safari (Remastered)",
+        "url": "https://open.spotify.com/album/1WuhfJk7fhSif4qkWL9Rh5"
+      },
+      "artists": [
+        {
+          "name": "Bert Kaempfert",
+          "url": "https://open.spotify.com/artist/2s6JabvZdqVQhfOsaxCSFX"
+        }
+      ],
+      "duration_ms": 150440,
+      "name": "Market Day",
+      "url": "https://open.spotify.com/track/4hlI8fEybTdT0ADaGltnuF"
     },
     {
       "added_at": "2024-07-17 14:53:29",
@@ -519,6 +503,22 @@
     {
       "added_at": "2024-07-17 14:53:29",
       "album": {
+        "name": "Music For Lovers Only",
+        "url": "https://open.spotify.com/album/1yDWpowWTfhII9O0S9k2hs"
+      },
+      "artists": [
+        {
+          "name": "Jackie Gleason",
+          "url": "https://open.spotify.com/artist/2F0kPpQ5mtta1ORIyO2xex"
+        }
+      ],
+      "duration_ms": 202026,
+      "name": "My Funny Valentine",
+      "url": "https://open.spotify.com/track/33haaDXqwsd7wOk75ov0NL"
+    },
+    {
+      "added_at": "2024-07-17 14:53:29",
+      "album": {
         "name": "Strings Latino",
         "url": "https://open.spotify.com/album/0dcD0Xc9CCmt5JfnbYGAfn"
       },
@@ -551,34 +551,18 @@
     {
       "added_at": "2024-07-17 14:53:29",
       "album": {
-        "name": "Let's Go Bowling (Remastered)",
-        "url": "https://open.spotify.com/album/1PMG61oCm4gzNPMYlqPRVq"
+        "name": "A Band Is Born",
+        "url": "https://open.spotify.com/album/2JxztvhZeOftDGyJWEsFjU"
       },
       "artists": [
         {
-          "name": "Bert Kaempfert",
-          "url": "https://open.spotify.com/artist/2s6JabvZdqVQhfOsaxCSFX"
+          "name": "Billy May",
+          "url": "https://open.spotify.com/artist/45Z2ShPqr2p9ZgfkYhZUgq"
         }
       ],
-      "duration_ms": 162186,
-      "name": "Danke Schoen",
-      "url": "https://open.spotify.com/track/6CBGOKLkewXVfQQEiV0xZY"
-    },
-    {
-      "added_at": "2024-07-17 14:53:29",
-      "album": {
-        "name": "The Magic Of Manuel",
-        "url": "https://open.spotify.com/album/0LYABqXPjDAJYyVNUlEE42"
-      },
-      "artists": [
-        {
-          "name": "Manuel & The Music Of The Mountains",
-          "url": "https://open.spotify.com/artist/63jNJ6txlnRE4leSfFoSu3"
-        }
-      ],
-      "duration_ms": 188240,
-      "name": "Fools Rush In (Where Angels Fear to Tread)",
-      "url": "https://open.spotify.com/track/4WYZuhsa8idA4kPDPsNY6B"
+      "duration_ms": 205173,
+      "name": "If I Had You",
+      "url": "https://open.spotify.com/track/58JEIINhz1END8PYpnBZ55"
     },
     {
       "added_at": "2024-07-17 14:53:29",
@@ -599,6 +583,22 @@
     {
       "added_at": "2024-07-17 14:53:29",
       "album": {
+        "name": "Let's Go Bowling (Remastered)",
+        "url": "https://open.spotify.com/album/1PMG61oCm4gzNPMYlqPRVq"
+      },
+      "artists": [
+        {
+          "name": "Bert Kaempfert",
+          "url": "https://open.spotify.com/artist/2s6JabvZdqVQhfOsaxCSFX"
+        }
+      ],
+      "duration_ms": 162186,
+      "name": "Danke Schoen",
+      "url": "https://open.spotify.com/track/6CBGOKLkewXVfQQEiV0xZY"
+    },
+    {
+      "added_at": "2024-07-17 14:53:29",
+      "album": {
         "name": "The America Album",
         "url": "https://open.spotify.com/album/1Nfll2ZgujqwqmbGozAUKW"
       },
@@ -615,6 +615,22 @@
     {
       "added_at": "2024-07-17 14:53:29",
       "album": {
+        "name": "The Magic Of Manuel",
+        "url": "https://open.spotify.com/album/0LYABqXPjDAJYyVNUlEE42"
+      },
+      "artists": [
+        {
+          "name": "Manuel & The Music Of The Mountains",
+          "url": "https://open.spotify.com/artist/63jNJ6txlnRE4leSfFoSu3"
+        }
+      ],
+      "duration_ms": 188240,
+      "name": "Fools Rush In (Where Angels Fear to Tread)",
+      "url": "https://open.spotify.com/track/4WYZuhsa8idA4kPDPsNY6B"
+    },
+    {
+      "added_at": "2024-07-17 14:53:29",
+      "album": {
         "name": "American Serenade",
         "url": "https://open.spotify.com/album/19pCSMgiHqMCSrpgiGTTE0"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 244826,
       "name": "Moon over Miami",
       "url": "https://open.spotify.com/track/6hIrh8XKgx6VLUJd29lsdN"
-    },
-    {
-      "added_at": "2024-07-17 14:53:29",
-      "album": {
-        "name": "A Band Is Born",
-        "url": "https://open.spotify.com/album/2JxztvhZeOftDGyJWEsFjU"
-      },
-      "artists": [
-        {
-          "name": "Billy May",
-          "url": "https://open.spotify.com/artist/45Z2ShPqr2p9ZgfkYhZUgq"
-        }
-      ],
-      "duration_ms": 205173,
-      "name": "If I Had You",
-      "url": "https://open.spotify.com/track/58JEIINhz1END8PYpnBZ55"
     },
     {
       "added_at": "2024-07-17 14:53:29",
@@ -715,6 +715,22 @@
     {
       "added_at": "2024-07-17 14:53:29",
       "album": {
+        "name": "Charade",
+        "url": "https://open.spotify.com/album/1liumaVjSFdj8VfmFolmWy"
+      },
+      "artists": [
+        {
+          "name": "Henry Mancini",
+          "url": "https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf"
+        }
+      ],
+      "duration_ms": 179066,
+      "name": "Megeve",
+      "url": "https://open.spotify.com/track/5BIkK1aQYDSoKz6J9AuNPj"
+    },
+    {
+      "added_at": "2024-07-17 14:53:29",
+      "album": {
         "name": "Pops Goes West",
         "url": "https://open.spotify.com/album/7bq3GSka6PDheAsQphwKH1"
       },
@@ -735,18 +751,18 @@
     {
       "added_at": "2024-07-17 14:53:29",
       "album": {
-        "name": "The Shadow of Your Smile & Other Great Themes",
-        "url": "https://open.spotify.com/album/6YJJl88Mthfe24Wuf5bl2V"
+        "name": "Champagne, Candlelight And Kisses",
+        "url": "https://open.spotify.com/album/7v2A1HlTNWgPxs8p101dCx"
       },
       "artists": [
         {
-          "name": "Andre Kostelanetz & His Orchestra",
-          "url": "https://open.spotify.com/artist/0O834tNw0PiiuYgj24yq0b"
+          "name": "Jackie Gleason",
+          "url": "https://open.spotify.com/artist/2F0kPpQ5mtta1ORIyO2xex"
         }
       ],
-      "duration_ms": 177213,
-      "name": "Forget Domani",
-      "url": "https://open.spotify.com/track/1d8xNh44oCpohmdiz38qCO"
+      "duration_ms": 222786,
+      "name": "Theme From \"Bus Stop\"",
+      "url": "https://open.spotify.com/track/5Jd78KUwqhZcY5msCpsDLw"
     },
     {
       "added_at": "2024-07-17 14:53:29",
@@ -767,34 +783,34 @@
     {
       "added_at": "2024-07-17 14:53:29",
       "album": {
-        "name": "Charade",
-        "url": "https://open.spotify.com/album/1liumaVjSFdj8VfmFolmWy"
+        "name": "The Shadow of Your Smile & Other Great Themes",
+        "url": "https://open.spotify.com/album/6YJJl88Mthfe24Wuf5bl2V"
       },
       "artists": [
         {
-          "name": "Henry Mancini",
-          "url": "https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf"
+          "name": "Andre Kostelanetz & His Orchestra",
+          "url": "https://open.spotify.com/artist/0O834tNw0PiiuYgj24yq0b"
         }
       ],
-      "duration_ms": 179066,
-      "name": "Megeve",
-      "url": "https://open.spotify.com/track/5BIkK1aQYDSoKz6J9AuNPj"
+      "duration_ms": 177213,
+      "name": "Forget Domani",
+      "url": "https://open.spotify.com/track/1d8xNh44oCpohmdiz38qCO"
     },
     {
       "added_at": "2024-07-17 14:53:29",
       "album": {
-        "name": "Champagne, Candlelight And Kisses",
-        "url": "https://open.spotify.com/album/7v2A1HlTNWgPxs8p101dCx"
+        "name": "The Joy Of Living",
+        "url": "https://open.spotify.com/album/5qdPHz5AKuUOVIyGSrcIUU"
       },
       "artists": [
         {
-          "name": "Jackie Gleason",
-          "url": "https://open.spotify.com/artist/2F0kPpQ5mtta1ORIyO2xex"
+          "name": "Nelson Riddle",
+          "url": "https://open.spotify.com/artist/6PyGlGbMoNqkofF14K4BWb"
         }
       ],
-      "duration_ms": 222786,
-      "name": "Theme From \"Bus Stop\"",
-      "url": "https://open.spotify.com/track/5Jd78KUwqhZcY5msCpsDLw"
+      "duration_ms": 169160,
+      "name": "The Joy Of Living",
+      "url": "https://open.spotify.com/track/3701hIRmh8fqJm7tFgXXqx"
     },
     {
       "added_at": "2024-07-17 14:53:29",
@@ -831,22 +847,6 @@
     {
       "added_at": "2024-07-17 14:53:29",
       "album": {
-        "name": "The Joy Of Living",
-        "url": "https://open.spotify.com/album/5qdPHz5AKuUOVIyGSrcIUU"
-      },
-      "artists": [
-        {
-          "name": "Nelson Riddle",
-          "url": "https://open.spotify.com/artist/6PyGlGbMoNqkofF14K4BWb"
-        }
-      ],
-      "duration_ms": 169160,
-      "name": "The Joy Of Living",
-      "url": "https://open.spotify.com/track/3701hIRmh8fqJm7tFgXXqx"
-    },
-    {
-      "added_at": "2024-07-17 14:53:29",
-      "album": {
         "name": "The Many Moods Of Murry Wilson",
         "url": "https://open.spotify.com/album/59m9uyvWX25CEt1zteEuAq"
       },
@@ -859,22 +859,6 @@
       "duration_ms": 176240,
       "name": "Islands In The Sky",
       "url": "https://open.spotify.com/track/3IgWVlQcPQEUafiWZgXJrS"
-    },
-    {
-      "added_at": "2024-07-17 14:53:29",
-      "album": {
-        "name": "And Awaaay We Go! (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3K0zalfzD0tX4s2t4fT6EP"
-      },
-      "artists": [
-        {
-          "name": "Jackie Gleason",
-          "url": "https://open.spotify.com/artist/2F0kPpQ5mtta1ORIyO2xex"
-        }
-      ],
-      "duration_ms": 196666,
-      "name": "Melancholy Serenade",
-      "url": "https://open.spotify.com/track/7c60uLULZWjeju80wHtxGw"
     },
     {
       "added_at": "2024-07-17 14:53:29",
@@ -911,6 +895,22 @@
     {
       "added_at": "2024-07-17 14:53:29",
       "album": {
+        "name": "And Awaaay We Go! (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3K0zalfzD0tX4s2t4fT6EP"
+      },
+      "artists": [
+        {
+          "name": "Jackie Gleason",
+          "url": "https://open.spotify.com/artist/2F0kPpQ5mtta1ORIyO2xex"
+        }
+      ],
+      "duration_ms": 196666,
+      "name": "Melancholy Serenade",
+      "url": "https://open.spotify.com/track/7c60uLULZWjeju80wHtxGw"
+    },
+    {
+      "added_at": "2024-07-17 14:53:29",
+      "album": {
         "name": "Hey...Let Yourself Go!",
         "url": "https://open.spotify.com/album/49leeFzmdD4d6wmo77tTZ3"
       },
@@ -939,22 +939,6 @@
       "duration_ms": 351559,
       "name": "The Song from 'moulin Rouge' (Where Is Your Heart)",
       "url": "https://open.spotify.com/track/1KMlhsBxRsdiPKNhxzc4iO"
-    },
-    {
-      "added_at": "2024-07-17 14:53:29",
-      "album": {
-        "name": "West of Sunset",
-        "url": "https://open.spotify.com/album/3ybe9VUz7rSLgp6yjQrzE7"
-      },
-      "artists": [
-        {
-          "name": "Frank Chacksfield",
-          "url": "https://open.spotify.com/artist/556bh5qJfhSUkjTluTTyMF"
-        }
-      ],
-      "duration_ms": 190480,
-      "name": "Capri Serenade",
-      "url": "https://open.spotify.com/track/2TUU5umfVQe14sPiWtLRMB"
     },
     {
       "added_at": "2024-07-17 14:53:29",
@@ -991,6 +975,22 @@
       "duration_ms": 148053,
       "name": "Majorcan Holiday",
       "url": "https://open.spotify.com/track/4Tf26KSoemitC17Ik00ViE"
+    },
+    {
+      "added_at": "2024-07-17 14:53:29",
+      "album": {
+        "name": "West of Sunset",
+        "url": "https://open.spotify.com/album/3ybe9VUz7rSLgp6yjQrzE7"
+      },
+      "artists": [
+        {
+          "name": "Frank Chacksfield",
+          "url": "https://open.spotify.com/artist/556bh5qJfhSUkjTluTTyMF"
+        }
+      ],
+      "duration_ms": 190480,
+      "name": "Capri Serenade",
+      "url": "https://open.spotify.com/track/2TUU5umfVQe14sPiWtLRMB"
     },
     {
       "added_at": "2024-07-17 14:53:29",

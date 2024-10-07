@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8eMyhtzAuvp.md) - [plain]
 
 > take me back to the night we met
 
-[Spotify](https://open.spotify.com/user/spotify) - 265,684 likes - 35 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 266,210 likes - 35 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

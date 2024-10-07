@@ -1,12 +1,12 @@
 {
   "description": "This is Rashid. The essential tracks, all in one playlist.",
-  "num_followers": 46257,
+  "num_followers": 46256,
   "original_name": "This Is Rashid",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zv3egAAAAABXE21wZsm0hiTOGrL4Gqu+",
+  "snapshot_id": "ZwCBgAAAAABRoiTdX+Tqg3W7HlKHhXry",
   "tracks": [
     {
       "added_at": null,
@@ -203,6 +203,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Confundindo S\u00e1bios",
+        "url": "https://open.spotify.com/album/73vP5dotg2gtDXVl1VoLYU"
+      },
+      "artists": [
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        },
+        {
+          "name": "Rael",
+          "url": "https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd"
+        }
+      ],
+      "duration_ms": 227713,
+      "name": "Coisas Dessa Vida",
+      "url": "https://open.spotify.com/track/74lRYKTgAjPfMrR7yOdfqq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Meu Sol",
         "url": "https://open.spotify.com/album/2C0wXtAfYl7xeW1bCOzVee"
       },
@@ -223,26 +243,6 @@
       "duration_ms": 206643,
       "name": "Meu Sol",
       "url": "https://open.spotify.com/track/4zzXS96vHSXFwVTFfJoOHb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Confundindo S\u00e1bios",
-        "url": "https://open.spotify.com/album/73vP5dotg2gtDXVl1VoLYU"
-      },
-      "artists": [
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        },
-        {
-          "name": "Rael",
-          "url": "https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd"
-        }
-      ],
-      "duration_ms": 227713,
-      "name": "Coisas Dessa Vida",
-      "url": "https://open.spotify.com/track/74lRYKTgAjPfMrR7yOdfqq"
     },
     {
       "added_at": null,
@@ -295,26 +295,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Que Assim Seja",
-        "url": "https://open.spotify.com/album/4nj991HPkSVfoyNYqI5Sgu"
-      },
-      "artists": [
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        },
-        {
-          "name": "Flora Matos",
-          "url": "https://open.spotify.com/artist/5Znx4PG5UsUitigaJnmZX3"
-        }
-      ],
-      "duration_ms": 206053,
-      "name": "Que Assim Seja",
-      "url": "https://open.spotify.com/track/6rwAC9JAN7BMO6tLR61y9X"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Confundindo S\u00e1bios",
         "url": "https://open.spotify.com/album/73vP5dotg2gtDXVl1VoLYU"
       },
@@ -331,6 +311,26 @@
       "duration_ms": 235740,
       "name": "V\u00edcio",
       "url": "https://open.spotify.com/track/0ZajFsbQ6fZ4LMT2elOFuB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Que Assim Seja",
+        "url": "https://open.spotify.com/album/4nj991HPkSVfoyNYqI5Sgu"
+      },
+      "artists": [
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        },
+        {
+          "name": "Flora Matos",
+          "url": "https://open.spotify.com/artist/5Znx4PG5UsUitigaJnmZX3"
+        }
+      ],
+      "duration_ms": 206053,
+      "name": "Que Assim Seja",
+      "url": "https://open.spotify.com/track/6rwAC9JAN7BMO6tLR61y9X"
     },
     {
       "added_at": null,
@@ -383,26 +383,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "D\u00e1diva & D\u00edvida",
-        "url": "https://open.spotify.com/album/69FEbB83gglKjWddcLHRs1"
-      },
-      "artists": [
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        },
-        {
-          "name": "Projota",
-          "url": "https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K"
-        }
-      ],
-      "duration_ms": 249800,
-      "name": "Plantar o Bem",
-      "url": "https://open.spotify.com/track/4n1fk1y5Jn0hL8EsrGyIbO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Confundindo S\u00e1bios",
         "url": "https://open.spotify.com/album/73vP5dotg2gtDXVl1VoLYU"
       },
@@ -443,6 +423,26 @@
       "duration_ms": 170261,
       "name": "O Que Se Leva (D\u00f3i)",
       "url": "https://open.spotify.com/track/7AYctIsvlx9eNrOM2zhLiz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "D\u00e1diva & D\u00edvida",
+        "url": "https://open.spotify.com/album/69FEbB83gglKjWddcLHRs1"
+      },
+      "artists": [
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        },
+        {
+          "name": "Projota",
+          "url": "https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K"
+        }
+      ],
+      "duration_ms": 249800,
+      "name": "Plantar o Bem",
+      "url": "https://open.spotify.com/track/4n1fk1y5Jn0hL8EsrGyIbO"
     },
     {
       "added_at": null,
@@ -559,22 +559,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Crise",
-        "url": "https://open.spotify.com/album/5gtoxo8VoETM0EhENX6k91"
+        "name": "Que Assim Seja",
+        "url": "https://open.spotify.com/album/4nj991HPkSVfoyNYqI5Sgu"
       },
       "artists": [
         {
           "name": "Rashid",
           "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        },
-        {
-          "name": "Ellen Ol\u00e9ria",
-          "url": "https://open.spotify.com/artist/2Lw4xNNXMrVhYWLNTmBo7B"
         }
       ],
-      "duration_ms": 255914,
-      "name": "Se Tudo Der Errado Amanh\u00e3 (feat. Ellen Ol\u00e9ria)",
-      "url": "https://open.spotify.com/track/2COHyMe84ZLbkZRXt4MUK7"
+      "duration_ms": 277472,
+      "name": "Se o Mundo Acabar",
+      "url": "https://open.spotify.com/track/1JvW1HJ9IJqThvuuzWMgfB"
     },
     {
       "added_at": null,
@@ -623,18 +619,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Que Assim Seja",
-        "url": "https://open.spotify.com/album/4nj991HPkSVfoyNYqI5Sgu"
+        "name": "Crise",
+        "url": "https://open.spotify.com/album/5gtoxo8VoETM0EhENX6k91"
       },
       "artists": [
         {
           "name": "Rashid",
           "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        },
+        {
+          "name": "Ellen Ol\u00e9ria",
+          "url": "https://open.spotify.com/artist/2Lw4xNNXMrVhYWLNTmBo7B"
         }
       ],
-      "duration_ms": 277472,
-      "name": "Se o Mundo Acabar",
-      "url": "https://open.spotify.com/track/1JvW1HJ9IJqThvuuzWMgfB"
+      "duration_ms": 255914,
+      "name": "Se Tudo Der Errado Amanh\u00e3 (feat. Ellen Ol\u00e9ria)",
+      "url": "https://open.spotify.com/track/2COHyMe84ZLbkZRXt4MUK7"
     },
     {
       "added_at": null,
@@ -679,26 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Milenar Arte De Meter O Louco",
-        "url": "https://open.spotify.com/album/2TsL9NFMTknpXO7P962oyj"
-      },
-      "artists": [
-        {
-          "name": "Projota",
-          "url": "https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K"
-        },
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        }
-      ],
-      "duration_ms": 213145,
-      "name": "Segura Seu BO",
-      "url": "https://open.spotify.com/track/7f7m3mnLnhmcKwBK4Aa0v6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sinais Sessions - Morro Da Urca (Ao Vivo)",
         "url": "https://open.spotify.com/album/0E7yszyv3sZjZkMcw6VLzo"
       },
@@ -715,6 +695,26 @@
       "duration_ms": 230553,
       "name": "Bilhete 2.0 / Incidental: Uma Gota No Oceano - Ao Vivo",
       "url": "https://open.spotify.com/track/1bnsYRUqqdCxttyks7bMVv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Milenar Arte De Meter O Louco",
+        "url": "https://open.spotify.com/album/2TsL9NFMTknpXO7P962oyj"
+      },
+      "artists": [
+        {
+          "name": "Projota",
+          "url": "https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K"
+        },
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        }
+      ],
+      "duration_ms": 213145,
+      "name": "Segura Seu BO",
+      "url": "https://open.spotify.com/track/7f7m3mnLnhmcKwBK4Aa0v6"
     },
     {
       "added_at": null,
@@ -775,22 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gratid\u00e3o",
-        "url": "https://open.spotify.com/album/74bFWd3N2kKb76W7unhGg0"
-      },
-      "artists": [
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        }
-      ],
-      "duration_ms": 214612,
-      "name": "Gratid\u00e3o",
-      "url": "https://open.spotify.com/track/7KS9hVnDI7CUf9E7KxbXPI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Confundindo S\u00e1bios",
         "url": "https://open.spotify.com/album/73vP5dotg2gtDXVl1VoLYU"
       },
@@ -807,34 +791,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Azz Veizz",
-        "url": "https://open.spotify.com/album/4sGPPuO7iZv7qXr7ace65g"
+        "name": "Gratid\u00e3o",
+        "url": "https://open.spotify.com/album/74bFWd3N2kKb76W7unhGg0"
       },
       "artists": [
         {
-          "name": "DJ Caique",
-          "url": "https://open.spotify.com/artist/7kWVfszPF9qI8Ms6PMhNvM"
-        },
-        {
           "name": "Rashid",
           "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        },
-        {
-          "name": "Phill",
-          "url": "https://open.spotify.com/artist/4JIDtjgFWDoJ6lDtkC85iR"
-        },
-        {
-          "name": "Projota",
-          "url": "https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K"
-        },
-        {
-          "name": "MayK",
-          "url": "https://open.spotify.com/artist/1wNOO3pT0sFXRJWTKotCYz"
         }
       ],
-      "duration_ms": 331311,
-      "name": "Azz Veizz",
-      "url": "https://open.spotify.com/track/2ienL2vihr9ykTsP3MRvlc"
+      "duration_ms": 214612,
+      "name": "Gratid\u00e3o",
+      "url": "https://open.spotify.com/track/7KS9hVnDI7CUf9E7KxbXPI"
     },
     {
       "added_at": null,
@@ -887,6 +855,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Azz Veizz",
+        "url": "https://open.spotify.com/album/4sGPPuO7iZv7qXr7ace65g"
+      },
+      "artists": [
+        {
+          "name": "DJ Caique",
+          "url": "https://open.spotify.com/artist/7kWVfszPF9qI8Ms6PMhNvM"
+        },
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        },
+        {
+          "name": "Phill",
+          "url": "https://open.spotify.com/artist/4JIDtjgFWDoJ6lDtkC85iR"
+        },
+        {
+          "name": "Projota",
+          "url": "https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K"
+        },
+        {
+          "name": "MayK",
+          "url": "https://open.spotify.com/artist/1wNOO3pT0sFXRJWTKotCYz"
+        }
+      ],
+      "duration_ms": 331311,
+      "name": "Azz Veizz",
+      "url": "https://open.spotify.com/track/2ienL2vihr9ykTsP3MRvlc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Vinhos & Fuma\u00e7a",
         "url": "https://open.spotify.com/album/5P3drrq2VzZYKPn2izLfaa"
       },
@@ -903,46 +903,6 @@
       "duration_ms": 216100,
       "name": "Idas e Vindas",
       "url": "https://open.spotify.com/track/1NKc3yIiSuAKuZvTk1h62d"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Di\u00e1rio de Bordo 6",
-        "url": "https://open.spotify.com/album/3NbugjuhlSg3UudBeYxnu5"
-      },
-      "artists": [
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        },
-        {
-          "name": "Chico C\u00e9sar",
-          "url": "https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH"
-        },
-        {
-          "name": "DJ Caique",
-          "url": "https://open.spotify.com/artist/7kWVfszPF9qI8Ms6PMhNvM"
-        }
-      ],
-      "duration_ms": 265763,
-      "name": "Di\u00e1rio de Bordo 6",
-      "url": "https://open.spotify.com/track/1NhKsK3kPy49YfFyrXaks2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Que Assim Seja",
-        "url": "https://open.spotify.com/album/4nj991HPkSVfoyNYqI5Sgu"
-      },
-      "artists": [
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        }
-      ],
-      "duration_ms": 265896,
-      "name": "Tudo Ou Nada",
-      "url": "https://open.spotify.com/track/5GTavkrnIWZmNXlFO8Qm7L"
     },
     {
       "added_at": null,
@@ -987,6 +947,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Di\u00e1rio de Bordo 6",
+        "url": "https://open.spotify.com/album/3NbugjuhlSg3UudBeYxnu5"
+      },
+      "artists": [
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        },
+        {
+          "name": "Chico C\u00e9sar",
+          "url": "https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH"
+        },
+        {
+          "name": "DJ Caique",
+          "url": "https://open.spotify.com/artist/7kWVfszPF9qI8Ms6PMhNvM"
+        }
+      ],
+      "duration_ms": 265763,
+      "name": "Di\u00e1rio de Bordo 6",
+      "url": "https://open.spotify.com/track/1NhKsK3kPy49YfFyrXaks2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Movimento R\u00e1pido dos Olhos",
         "url": "https://open.spotify.com/album/2hSAKgdarFeqTLBITFiyog"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 242384,
       "name": "N\u00e3o Sabem de Nada",
       "url": "https://open.spotify.com/track/0kOg2SOsNaHnrcPCC2diFf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Que Assim Seja",
+        "url": "https://open.spotify.com/album/4nj991HPkSVfoyNYqI5Sgu"
+      },
+      "artists": [
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        }
+      ],
+      "duration_ms": 265896,
+      "name": "Tudo Ou Nada",
+      "url": "https://open.spotify.com/track/5GTavkrnIWZmNXlFO8Qm7L"
     },
     {
       "added_at": null,
@@ -1047,6 +1047,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Movimento R\u00e1pido dos Olhos",
+        "url": "https://open.spotify.com/album/2hSAKgdarFeqTLBITFiyog"
+      },
+      "artists": [
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        }
+      ],
+      "duration_ms": 189098,
+      "name": "P\u00edlula Vermelha, P\u00edlula Azul (Incidental: Banditismo por uma Quest\u00e3o de Classe)",
+      "url": "https://open.spotify.com/track/6dax1ewiAtKBMI3JiLybwQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Crise",
         "url": "https://open.spotify.com/album/5gtoxo8VoETM0EhENX6k91"
       },
@@ -1063,22 +1079,6 @@
       "duration_ms": 268160,
       "name": "P\u00e9s na Areia (Promessas) (feat. God\u00f4)",
       "url": "https://open.spotify.com/track/1JZCxnavkk1QEebmKlBqs1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Movimento R\u00e1pido dos Olhos",
-        "url": "https://open.spotify.com/album/2hSAKgdarFeqTLBITFiyog"
-      },
-      "artists": [
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        }
-      ],
-      "duration_ms": 189098,
-      "name": "P\u00edlula Vermelha, P\u00edlula Azul (Incidental: Banditismo por uma Quest\u00e3o de Classe)",
-      "url": "https://open.spotify.com/track/6dax1ewiAtKBMI3JiLybwQ"
     },
     {
       "added_at": null,

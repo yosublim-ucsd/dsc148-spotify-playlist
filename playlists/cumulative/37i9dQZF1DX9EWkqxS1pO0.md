@@ -4,7 +4,7 @@
 
 > Yeni favori sanatçını keşfet ⚡ Kapak: Kırık Pena
 
-129 songs - 6 hr 12 min
+130 songs - 6 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,7 @@
 | [Rüzgarın Peşinde](https://open.spotify.com/track/2dlYKaAlRXc3s9Xt0T6XvV) | [Okyanus Caddesi](https://open.spotify.com/artist/23rss6kqqXejwS6klTb49G) | [Rüzgarın Peşinde](https://open.spotify.com/album/3fsBYajHJEHVWHL9Qw6ZQ8) | 3:34 | 2024-06-20 | 2024-08-10 |
 | [Sabahın Dört Buçuğunda](https://open.spotify.com/track/5ps4DiaUpc6l96ixypIXkn) | [Böyleyken Böyle](https://open.spotify.com/artist/3yLCFdWSpXsvl8rK2INQRH) | [Sabahın Dört Buçuğunda](https://open.spotify.com/album/5aKXt3i7tNjPHlbJLvaL5y) | 3:37 | 2024-07-04 | 2024-09-29 |
 | [Sal](https://open.spotify.com/track/44nYGyz9DwMU6dOWVxL2FK) | [Ragıb Narin](https://open.spotify.com/artist/3RcnnVusQQzqEtkvSVKPKg) | [Sal](https://open.spotify.com/album/0SkOqSQaogpiYuUm5hwhre) | 2:37 | 2024-07-04 |  |
-| [Sen Artık Sıradan Biri](https://open.spotify.com/track/0sRt7yIvUGlesGwPjQmGs7) | [Evden Uzak](https://open.spotify.com/artist/0vRq3n88TpLFrreBF9GmIh) | [Sen Artık Sıradan Biri](https://open.spotify.com/album/0knB4RKmuWqmD4ue8HCp9g) | 3:25 | 2024-08-01 |  |
+| [Sen Artık Sıradan Biri](https://open.spotify.com/track/0sRt7yIvUGlesGwPjQmGs7) | [Evden Uzak](https://open.spotify.com/artist/0vRq3n88TpLFrreBF9GmIh) | [Sen Artık Sıradan Biri](https://open.spotify.com/album/0knB4RKmuWqmD4ue8HCp9g) | 3:25 | 2024-08-01 | 2024-10-07 |
 | [Sen De Duysan](https://open.spotify.com/track/2AjxQZgvrh0URRqVlDv4SE) | [Soner Han](https://open.spotify.com/artist/6rwdqGbhoOisi9wCeLKJs8) | [Sen De Duysan](https://open.spotify.com/album/03NTqiplIlk3pWEDAgrQX4) | 3:27 | 2024-06-20 | 2024-09-07 |
 | [sendin izlerim](https://open.spotify.com/track/4bQtBQfboIxsdKwLP7Do8s) | [zei](https://open.spotify.com/artist/0EuuCfvKdq4FHDyXHoOspa), [Cotard](https://open.spotify.com/artist/0OR34vxRvcPuyDK9s7EuQ8) | [mani](https://open.spotify.com/album/39HaoKUrwGZnMpxgiqPvpH) | 2:35 | 2024-06-20 | 2024-09-06 |
 | [Seni Sevmek Kaldı](https://open.spotify.com/track/5BEqptwkS8PnvKY6s5hqJF) | [Soner Han](https://open.spotify.com/artist/6rwdqGbhoOisi9wCeLKJs8) | [Seni Sevmek Kaldı](https://open.spotify.com/album/4QsAQhdmqreEcmJ7tJ2BDK) | 3:02 | 2024-08-15 |  |
@@ -99,6 +99,7 @@
 | [Sorma](https://open.spotify.com/track/1t5QrgICG308reHk4Ohm7N) | [Selin Çıngır](https://open.spotify.com/artist/05DklNAEcs3u54uuYOcR2S) | [Sorma](https://open.spotify.com/album/4O003iwIM20pmtKKJQ55Pr) | 3:54 | 2024-06-20 |  |
 | [Sosyopat Gülümseme](https://open.spotify.com/track/4WfafErZGjPuVBIEPAVlhS) | [Sla](https://open.spotify.com/artist/24STYbqPydEIyXy8ys6VWB) | [Sosyopat Gülümseme](https://open.spotify.com/album/6UZji7bUoCv3137UqlD7cY) | 2:41 | 2024-07-12 | 2024-09-28 |
 | [Söyle](https://open.spotify.com/track/3GJtSiuMC5cGk2d3tYKPEy) | [Umur Doma](https://open.spotify.com/artist/2kv6srmlOrk6584oHo4XGj) | [Söyle](https://open.spotify.com/album/3072jVrXZMpKPdHaNUyR3S) | 2:32 | 2024-08-29 |  |
+| [söyle](https://open.spotify.com/track/0FzsSOV5EykJCiENiwA7CC) | [val](https://open.spotify.com/artist/5ykHN9vzOjk9a2AhjoPCUK), [Cem Pilevneli](https://open.spotify.com/artist/5cysAsZNRZfLtjqhGEqXtB) | [söyle](https://open.spotify.com/album/2FYQF7rXRJr2Fs6XH3UZUM) | 3:21 | 2024-10-03 |  |
 | [takıntı](https://open.spotify.com/track/2wWPDdPeAI35eTzTwICe4G) | [Egemen Akkol](https://open.spotify.com/artist/0ElJABfA5B9H3gSqB6wf4l) | [takıntı](https://open.spotify.com/album/2XGZQo8GbyLmJQqGwJO3aQ) | 2:49 | 2024-08-22 |  |
 | [Tamam](https://open.spotify.com/track/04bEcRfmY6N3rsfSlfuc7p) | [Sena Şahin](https://open.spotify.com/artist/40VwjQ6yxDV90bjbDU124W) | [Tamam](https://open.spotify.com/album/33H5Kl14pixalyKydBKoUF) | 2:55 | 2024-09-19 | 2024-09-22 |
 | [Tasmam Ellerinde](https://open.spotify.com/track/4nilIX9kRj72xYjEYEhXHV) | [Brek](https://open.spotify.com/artist/6TNFlMsNERcjX4gb3jntBk) | [Tasmam Ellerinde](https://open.spotify.com/album/04qC9MIJZk2ztJ7FULxW8s) | 3:40 | 2024-06-20 |  |

@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Disfruta con los grandes del rock colombiano! Foto: Diamante El\u00e9ctrico",
-  "num_followers": 86568,
+  "num_followers": 86577,
   "original_name": "Rock Colombia",
   "owner": {
     "name": "Spotify",
@@ -107,22 +107,6 @@
     {
       "added_at": "2024-09-20 08:27:00",
       "album": {
-        "name": "Volver Amar",
-        "url": "https://open.spotify.com/album/7lNxWPJ2lAiCVWE3iACqpW"
-      },
-      "artists": [
-        {
-          "name": "Los De Adentro",
-          "url": "https://open.spotify.com/artist/282UIRNs6aprjrs0ynDn6v"
-        }
-      ],
-      "duration_ms": 195706,
-      "name": "No M\u00e1s",
-      "url": "https://open.spotify.com/track/3ObCX2lb4FlM1Rn9WUppst"
-    },
-    {
-      "added_at": "2024-09-20 08:27:00",
-      "album": {
         "name": "Productos Desaparecidos",
         "url": "https://open.spotify.com/album/1JyFH6v4N1WNofSsCRcYiG"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 152386,
       "name": "Baracunatana",
       "url": "https://open.spotify.com/track/2dtYgxJAFZlf6RwbRijeIp"
+    },
+    {
+      "added_at": "2024-09-20 08:27:00",
+      "album": {
+        "name": "Volver Amar",
+        "url": "https://open.spotify.com/album/7lNxWPJ2lAiCVWE3iACqpW"
+      },
+      "artists": [
+        {
+          "name": "Los De Adentro",
+          "url": "https://open.spotify.com/artist/282UIRNs6aprjrs0ynDn6v"
+        }
+      ],
+      "duration_ms": 195706,
+      "name": "No M\u00e1s",
+      "url": "https://open.spotify.com/track/3ObCX2lb4FlM1Rn9WUppst"
     },
     {
       "added_at": "2024-09-20 08:27:00",
@@ -207,6 +207,22 @@
     {
       "added_at": "2024-09-20 08:27:00",
       "album": {
+        "name": "Productos Desaparecidos",
+        "url": "https://open.spotify.com/album/1JyFH6v4N1WNofSsCRcYiG"
+      },
+      "artists": [
+        {
+          "name": "La Pestilencia",
+          "url": "https://open.spotify.com/artist/09N5SuYvKJPb6mX34qfeM3"
+        }
+      ],
+      "duration_ms": 225693,
+      "name": "Ahora Me Cuesta",
+      "url": "https://open.spotify.com/track/3kpmzwSyKbVhGxu6Rvme0L"
+    },
+    {
+      "added_at": "2024-09-20 08:27:00",
+      "album": {
         "name": "Leche de Tigre",
         "url": "https://open.spotify.com/album/2jWdBKOz7I73GULBYQU0k8"
       },
@@ -223,22 +239,6 @@
       "duration_ms": 213990,
       "name": "P\u00e9rdida Total",
       "url": "https://open.spotify.com/track/26abPP7GXhg0WrV3orLtpP"
-    },
-    {
-      "added_at": "2024-09-20 08:27:00",
-      "album": {
-        "name": "Productos Desaparecidos",
-        "url": "https://open.spotify.com/album/1JyFH6v4N1WNofSsCRcYiG"
-      },
-      "artists": [
-        {
-          "name": "La Pestilencia",
-          "url": "https://open.spotify.com/artist/09N5SuYvKJPb6mX34qfeM3"
-        }
-      ],
-      "duration_ms": 225693,
-      "name": "Ahora Me Cuesta",
-      "url": "https://open.spotify.com/track/3kpmzwSyKbVhGxu6Rvme0L"
     },
     {
       "added_at": "2024-09-20 08:27:00",
@@ -331,6 +331,22 @@
     {
       "added_at": "2024-09-20 08:27:00",
       "album": {
+        "name": "Castillos de Arena",
+        "url": "https://open.spotify.com/album/6ufTtCn7TfxmFDrcxLNXoB"
+      },
+      "artists": [
+        {
+          "name": "Don Tetto",
+          "url": "https://open.spotify.com/artist/73yxxTCHbUjnQUifLtfbDL"
+        }
+      ],
+      "duration_ms": 196437,
+      "name": "Punto Final",
+      "url": "https://open.spotify.com/track/56YcLUmZ3d7cJOxOin7y9A"
+    },
+    {
+      "added_at": "2024-09-20 08:27:00",
+      "album": {
         "name": "Ni\u00f1os Perdidos",
         "url": "https://open.spotify.com/album/55OtSjhhECr6c8we4xyX6y"
       },
@@ -347,22 +363,6 @@
       "duration_ms": 159781,
       "name": "Ni\u00f1os Perdidos",
       "url": "https://open.spotify.com/track/3fANb47ayeswMFaT5fI1Or"
-    },
-    {
-      "added_at": "2024-09-20 08:27:00",
-      "album": {
-        "name": "Castillos de Arena",
-        "url": "https://open.spotify.com/album/6ufTtCn7TfxmFDrcxLNXoB"
-      },
-      "artists": [
-        {
-          "name": "Don Tetto",
-          "url": "https://open.spotify.com/artist/73yxxTCHbUjnQUifLtfbDL"
-        }
-      ],
-      "duration_ms": 196437,
-      "name": "Punto Final",
-      "url": "https://open.spotify.com/track/56YcLUmZ3d7cJOxOin7y9A"
     },
     {
       "added_at": "2024-09-20 08:27:00",
@@ -403,22 +403,6 @@
     {
       "added_at": "2024-09-20 08:27:00",
       "album": {
-        "name": "Anaranjado, Pt. 1",
-        "url": "https://open.spotify.com/album/12j02XXjXMDjZoqCSqmoKt"
-      },
-      "artists": [
-        {
-          "name": "Oh'laville",
-          "url": "https://open.spotify.com/artist/5uDxyttOUh6KJic2MFbwQ7"
-        }
-      ],
-      "duration_ms": 276986,
-      "name": "Cielo",
-      "url": "https://open.spotify.com/track/4GGLQlWCSbVlbBiWxeqzTz"
-    },
-    {
-      "added_at": "2024-09-20 08:27:00",
-      "album": {
         "name": "Ver Tus Ojos Mir\u00e1ndome",
         "url": "https://open.spotify.com/album/5krMOq6LzqIrC7h8FBjaw1"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 210078,
       "name": "Ver Tus Ojos Mir\u00e1ndome",
       "url": "https://open.spotify.com/track/2Xxh2rUEtoEouNW8rxzEoT"
+    },
+    {
+      "added_at": "2024-09-20 08:27:00",
+      "album": {
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/7y8YhSMVq5hKIfbb3LdaaW"
+      },
+      "artists": [
+        {
+          "name": "Don Tetto",
+          "url": "https://open.spotify.com/artist/73yxxTCHbUjnQUifLtfbDL"
+        }
+      ],
+      "duration_ms": 179239,
+      "name": "Lejos De Aqui",
+      "url": "https://open.spotify.com/track/6nifdAaB5BMc69bzSbLYtV"
     },
     {
       "added_at": "2024-09-20 08:27:00",
@@ -455,6 +455,22 @@
     {
       "added_at": "2024-09-20 08:27:00",
       "album": {
+        "name": "Anaranjado, Pt. 1",
+        "url": "https://open.spotify.com/album/12j02XXjXMDjZoqCSqmoKt"
+      },
+      "artists": [
+        {
+          "name": "Oh'laville",
+          "url": "https://open.spotify.com/artist/5uDxyttOUh6KJic2MFbwQ7"
+        }
+      ],
+      "duration_ms": 276986,
+      "name": "Cielo",
+      "url": "https://open.spotify.com/track/4GGLQlWCSbVlbBiWxeqzTz"
+    },
+    {
+      "added_at": "2024-09-20 08:27:00",
+      "album": {
         "name": "Yumbotop\u00eda",
         "url": "https://open.spotify.com/album/05ySquwyP7g6JTiRzJKQc1"
       },
@@ -467,22 +483,6 @@
       "duration_ms": 173621,
       "name": "El Tema de Amor Que Esperabas",
       "url": "https://open.spotify.com/track/7J4Ax9xslsyY7aw8ku7I6j"
-    },
-    {
-      "added_at": "2024-09-20 08:27:00",
-      "album": {
-        "name": "Apolog\u00eda de una Amigdala Inflamada",
-        "url": "https://open.spotify.com/album/5LEInPf0wx6Z0zvKkI72PQ"
-      },
-      "artists": [
-        {
-          "name": "Margarita Siempre Viva",
-          "url": "https://open.spotify.com/artist/2XNJ1dXD5AjaHZTSM7qPlH"
-        }
-      ],
-      "duration_ms": 152750,
-      "name": "Apolog\u00eda de una Amigdala Inflamada",
-      "url": "https://open.spotify.com/track/34sNFlKyNs9IjmdUttxtWA"
     },
     {
       "added_at": "2024-09-20 08:27:00",
@@ -503,6 +503,22 @@
     {
       "added_at": "2024-09-20 08:27:00",
       "album": {
+        "name": "Apolog\u00eda de una Amigdala Inflamada",
+        "url": "https://open.spotify.com/album/5LEInPf0wx6Z0zvKkI72PQ"
+      },
+      "artists": [
+        {
+          "name": "Margarita Siempre Viva",
+          "url": "https://open.spotify.com/artist/2XNJ1dXD5AjaHZTSM7qPlH"
+        }
+      ],
+      "duration_ms": 152750,
+      "name": "Apolog\u00eda de una Amigdala Inflamada",
+      "url": "https://open.spotify.com/track/34sNFlKyNs9IjmdUttxtWA"
+    },
+    {
+      "added_at": "2024-09-20 08:27:00",
+      "album": {
         "name": "Ma\u0301s Alla\u0301 del Tiempo",
         "url": "https://open.spotify.com/album/2R2RPZT6Tor9gDv5hOFw8m"
       },
@@ -515,22 +531,6 @@
       "duration_ms": 217640,
       "name": "Ma\u0301s Alla\u0301 del Tiempo",
       "url": "https://open.spotify.com/track/4YgKvNZkRFu7jcB36DsIO5"
-    },
-    {
-      "added_at": "2024-09-20 08:27:00",
-      "album": {
-        "name": "Grandes Exitos",
-        "url": "https://open.spotify.com/album/7y8YhSMVq5hKIfbb3LdaaW"
-      },
-      "artists": [
-        {
-          "name": "Don Tetto",
-          "url": "https://open.spotify.com/artist/73yxxTCHbUjnQUifLtfbDL"
-        }
-      ],
-      "duration_ms": 179239,
-      "name": "Lejos De Aqui",
-      "url": "https://open.spotify.com/track/6nifdAaB5BMc69bzSbLYtV"
     },
     {
       "added_at": "2024-09-20 08:27:00",
@@ -647,22 +647,6 @@
     {
       "added_at": "2024-09-20 08:27:00",
       "album": {
-        "name": "Mar de Hiladas",
-        "url": "https://open.spotify.com/album/2UPr9Ibhpn9ac91BwqQbku"
-      },
-      "artists": [
-        {
-          "name": "Babelgam",
-          "url": "https://open.spotify.com/artist/7ETpd7f5DgstJtQIuPqlQM"
-        }
-      ],
-      "duration_ms": 212666,
-      "name": "T\u00fanel",
-      "url": "https://open.spotify.com/track/5geCse4zvXqjXBoobaLuRH"
-    },
-    {
-      "added_at": "2024-09-20 08:27:00",
-      "album": {
         "name": "Voy a Olvidarme de M\u00ed",
         "url": "https://open.spotify.com/album/2C2OEnCEHih9ZQQ20VSkoJ"
       },
@@ -695,6 +679,22 @@
     {
       "added_at": "2024-09-20 08:27:00",
       "album": {
+        "name": "Mar de Hiladas",
+        "url": "https://open.spotify.com/album/2UPr9Ibhpn9ac91BwqQbku"
+      },
+      "artists": [
+        {
+          "name": "Babelgam",
+          "url": "https://open.spotify.com/artist/7ETpd7f5DgstJtQIuPqlQM"
+        }
+      ],
+      "duration_ms": 212666,
+      "name": "T\u00fanel",
+      "url": "https://open.spotify.com/track/5geCse4zvXqjXBoobaLuRH"
+    },
+    {
+      "added_at": "2024-09-20 08:27:00",
+      "album": {
         "name": "Solo t\u00fa",
         "url": "https://open.spotify.com/album/4x11yXJ8tg1D9tnY2DII65"
       },
@@ -707,22 +707,6 @@
       "duration_ms": 247392,
       "name": "Solo t\u00fa",
       "url": "https://open.spotify.com/track/5WyavosRBdYVkapSLgqGC4"
-    },
-    {
-      "added_at": "2024-09-20 08:27:00",
-      "album": {
-        "name": "Cherokee",
-        "url": "https://open.spotify.com/album/6ryizw0fatTEithgl6xCCx"
-      },
-      "artists": [
-        {
-          "name": "La Ramona",
-          "url": "https://open.spotify.com/artist/6iWNuXAKgG1vQee6aWmTEW"
-        }
-      ],
-      "duration_ms": 231121,
-      "name": "Cherokee",
-      "url": "https://open.spotify.com/track/3qY0oKFlzTYfPoXS9cnn8z"
     },
     {
       "added_at": "2024-09-20 08:27:00",
@@ -743,18 +727,34 @@
     {
       "added_at": "2024-09-20 08:27:00",
       "album": {
-        "name": "Campesino",
-        "url": "https://open.spotify.com/album/1dr8WuOYOeGk27RgnXImXQ"
+        "name": "No Hay Tiempo Que Perder",
+        "url": "https://open.spotify.com/album/4Kf9e886i3tTAB4LtmV7dy"
       },
       "artists": [
         {
-          "name": "La Doble A",
-          "url": "https://open.spotify.com/artist/3Dhh3KGwP2XmiRdMqDLVhQ"
+          "name": "Tr3sdeCoraZ\u00f3n",
+          "url": "https://open.spotify.com/artist/1KSBih5CRHtXP3yb8GSn0M"
         }
       ],
-      "duration_ms": 278724,
-      "name": "Campesino",
-      "url": "https://open.spotify.com/track/16NjxeQhuY5wQ8xl3gTZXt"
+      "duration_ms": 177711,
+      "name": "\u00bfQu\u00e9 se yo?",
+      "url": "https://open.spotify.com/track/3falJgxOYstt60PDeoaLsQ"
+    },
+    {
+      "added_at": "2024-09-20 08:27:00",
+      "album": {
+        "name": "Cherokee",
+        "url": "https://open.spotify.com/album/6ryizw0fatTEithgl6xCCx"
+      },
+      "artists": [
+        {
+          "name": "La Ramona",
+          "url": "https://open.spotify.com/artist/6iWNuXAKgG1vQee6aWmTEW"
+        }
+      ],
+      "duration_ms": 231121,
+      "name": "Cherokee",
+      "url": "https://open.spotify.com/track/3qY0oKFlzTYfPoXS9cnn8z"
     },
     {
       "added_at": "2024-09-20 08:27:00",
@@ -771,6 +771,22 @@
       "duration_ms": 202960,
       "name": "El Beat de Mi Coraz\u00f3n",
       "url": "https://open.spotify.com/track/7A8bgi4lY0aPXCgLemYFjt"
+    },
+    {
+      "added_at": "2024-09-20 08:27:00",
+      "album": {
+        "name": "Campesino",
+        "url": "https://open.spotify.com/album/1dr8WuOYOeGk27RgnXImXQ"
+      },
+      "artists": [
+        {
+          "name": "La Doble A",
+          "url": "https://open.spotify.com/artist/3Dhh3KGwP2XmiRdMqDLVhQ"
+        }
+      ],
+      "duration_ms": 278724,
+      "name": "Campesino",
+      "url": "https://open.spotify.com/track/16NjxeQhuY5wQ8xl3gTZXt"
     },
     {
       "added_at": "2024-09-20 08:27:00",
@@ -815,18 +831,18 @@
     {
       "added_at": "2024-09-20 08:27:00",
       "album": {
-        "name": "No Hay Tiempo Que Perder",
-        "url": "https://open.spotify.com/album/4Kf9e886i3tTAB4LtmV7dy"
+        "name": "Hoy",
+        "url": "https://open.spotify.com/album/5SdzuAGnAPzSOCJPStzDIY"
       },
       "artists": [
         {
-          "name": "Tr3sdeCoraZ\u00f3n",
-          "url": "https://open.spotify.com/artist/1KSBih5CRHtXP3yb8GSn0M"
+          "name": "Cielito Drive",
+          "url": "https://open.spotify.com/artist/1QplpI4W7QuaxzxEpjKayY"
         }
       ],
-      "duration_ms": 177711,
-      "name": "\u00bfQu\u00e9 se yo?",
-      "url": "https://open.spotify.com/track/3falJgxOYstt60PDeoaLsQ"
+      "duration_ms": 276000,
+      "name": "Hoy",
+      "url": "https://open.spotify.com/track/7MMPHXwa2wVGlUCKfSnC4t"
     },
     {
       "added_at": "2024-09-20 08:27:00",
@@ -847,22 +863,6 @@
       "duration_ms": 183539,
       "name": "Desierto",
       "url": "https://open.spotify.com/track/3Amv0UJc2xJ7YZuhCCSM5i"
-    },
-    {
-      "added_at": "2024-09-20 08:27:00",
-      "album": {
-        "name": "Hoy",
-        "url": "https://open.spotify.com/album/5SdzuAGnAPzSOCJPStzDIY"
-      },
-      "artists": [
-        {
-          "name": "Cielito Drive",
-          "url": "https://open.spotify.com/artist/1QplpI4W7QuaxzxEpjKayY"
-        }
-      ],
-      "duration_ms": 276000,
-      "name": "Hoy",
-      "url": "https://open.spotify.com/track/7MMPHXwa2wVGlUCKfSnC4t"
     },
     {
       "added_at": "2024-09-20 08:27:00",
@@ -915,22 +915,6 @@
     {
       "added_at": "2024-09-20 08:27:00",
       "album": {
-        "name": "Lockdownska",
-        "url": "https://open.spotify.com/album/63drV0XsviR9CVU6eRvs0P"
-      },
-      "artists": [
-        {
-          "name": "Burning Caravan",
-          "url": "https://open.spotify.com/artist/6EWzrar8NxPYxH9mLdgkat"
-        }
-      ],
-      "duration_ms": 219506,
-      "name": "Lockdownska",
-      "url": "https://open.spotify.com/track/3wa8cbyJbGoAoFqaJdzlwA"
-    },
-    {
-      "added_at": "2024-09-20 08:27:00",
-      "album": {
         "name": "Rocal",
         "url": "https://open.spotify.com/album/4ihD17BMxTDcCfwcC2TlfC"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 230237,
       "name": "Rocal",
       "url": "https://open.spotify.com/track/2lYG5r6ahoFOknygopkjMr"
+    },
+    {
+      "added_at": "2024-09-20 08:27:00",
+      "album": {
+        "name": "Lockdownska",
+        "url": "https://open.spotify.com/album/63drV0XsviR9CVU6eRvs0P"
+      },
+      "artists": [
+        {
+          "name": "Burning Caravan",
+          "url": "https://open.spotify.com/artist/6EWzrar8NxPYxH9mLdgkat"
+        }
+      ],
+      "duration_ms": 219506,
+      "name": "Lockdownska",
+      "url": "https://open.spotify.com/track/3wa8cbyJbGoAoFqaJdzlwA"
     },
     {
       "added_at": "2024-09-20 08:27:00",

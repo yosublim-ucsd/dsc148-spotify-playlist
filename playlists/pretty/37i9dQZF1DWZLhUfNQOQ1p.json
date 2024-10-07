@@ -1,6 +1,6 @@
 {
   "description": "Musica da ascoltare con un drink in mano. \ud83c\udf79",
-  "num_followers": 249864,
+  "num_followers": 249867,
   "original_name": "Aperitivo Time",
   "owner": {
     "name": "Spotify",
@@ -227,6 +227,22 @@
     {
       "added_at": "2024-09-25 15:07:49",
       "album": {
+        "name": "Parcels",
+        "url": "https://open.spotify.com/album/6tNAnVG8xrmMbINuWutrNy"
+      },
+      "artists": [
+        {
+          "name": "Parcels",
+          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
+        }
+      ],
+      "duration_ms": 237227,
+      "name": "Lightenup",
+      "url": "https://open.spotify.com/track/1qtiESAzfGMw3YqJvI97ki"
+    },
+    {
+      "added_at": "2024-09-25 15:07:49",
+      "album": {
         "name": "Dumb Love",
         "url": "https://open.spotify.com/album/6cJ55YHXdJ5RHeRQNjXFLO"
       },
@@ -239,22 +255,6 @@
       "duration_ms": 282728,
       "name": "Dumb Love",
       "url": "https://open.spotify.com/track/2Al2n6ziP5XjIMZEL4laQj"
-    },
-    {
-      "added_at": "2024-09-25 15:07:49",
-      "album": {
-        "name": "Serotonin Moonbeams",
-        "url": "https://open.spotify.com/album/1UTc8WInycl4tVgJ1yODaO"
-      },
-      "artists": [
-        {
-          "name": "The Blessed Madonna",
-          "url": "https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw"
-        }
-      ],
-      "duration_ms": 289471,
-      "name": "Serotonin Moonbeams",
-      "url": "https://open.spotify.com/track/0hJfuyUwtEYMlGgvr3nzz9"
     },
     {
       "added_at": "2024-09-25 15:07:49",
@@ -287,18 +287,18 @@
     {
       "added_at": "2024-09-25 15:07:49",
       "album": {
-        "name": "Parcels",
-        "url": "https://open.spotify.com/album/6tNAnVG8xrmMbINuWutrNy"
+        "name": "Serotonin Moonbeams",
+        "url": "https://open.spotify.com/album/1UTc8WInycl4tVgJ1yODaO"
       },
       "artists": [
         {
-          "name": "Parcels",
-          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
+          "name": "The Blessed Madonna",
+          "url": "https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw"
         }
       ],
-      "duration_ms": 237227,
-      "name": "Lightenup",
-      "url": "https://open.spotify.com/track/1qtiESAzfGMw3YqJvI97ki"
+      "duration_ms": 289471,
+      "name": "Serotonin Moonbeams",
+      "url": "https://open.spotify.com/track/0hJfuyUwtEYMlGgvr3nzz9"
     },
     {
       "added_at": "2024-09-25 15:07:49",
@@ -455,22 +455,18 @@
     {
       "added_at": "2024-09-25 15:07:49",
       "album": {
-        "name": "Feel",
-        "url": "https://open.spotify.com/album/1xr54fLjHQSPjOF3MF6pEm"
+        "name": "We Are Family (1995 Remaster)",
+        "url": "https://open.spotify.com/album/4GSidaoqyGNwaG5mNKmuLT"
       },
       "artists": [
         {
-          "name": "LP Giobbi",
-          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
-        },
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+          "name": "Sister Sledge",
+          "url": "https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays"
         }
       ],
-      "duration_ms": 219208,
-      "name": "Feel",
-      "url": "https://open.spotify.com/track/5mMCnnycAkho18eZmZIDwi"
+      "duration_ms": 266826,
+      "name": "Thinking of You - 1995 Remaster",
+      "url": "https://open.spotify.com/track/7mimnm2QlSzW3J38FRMETP"
     },
     {
       "added_at": "2024-09-25 15:07:49",
@@ -491,18 +487,22 @@
     {
       "added_at": "2024-09-25 15:07:49",
       "album": {
-        "name": "We Are Family (1995 Remaster)",
-        "url": "https://open.spotify.com/album/4GSidaoqyGNwaG5mNKmuLT"
+        "name": "Feel",
+        "url": "https://open.spotify.com/album/1xr54fLjHQSPjOF3MF6pEm"
       },
       "artists": [
         {
-          "name": "Sister Sledge",
-          "url": "https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays"
+          "name": "LP Giobbi",
+          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+        },
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
         }
       ],
-      "duration_ms": 266826,
-      "name": "Thinking of You - 1995 Remaster",
-      "url": "https://open.spotify.com/track/7mimnm2QlSzW3J38FRMETP"
+      "duration_ms": 219208,
+      "name": "Feel",
+      "url": "https://open.spotify.com/track/5mMCnnycAkho18eZmZIDwi"
     },
     {
       "added_at": "2024-09-25 15:07:49",
@@ -611,22 +611,6 @@
     {
       "added_at": "2024-09-25 15:07:49",
       "album": {
-        "name": "How It Feels",
-        "url": "https://open.spotify.com/album/320rO6gCDoi1IOWMdthaZp"
-      },
-      "artists": [
-        {
-          "name": "Barry Can't Swim",
-          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
-        }
-      ],
-      "duration_ms": 138951,
-      "name": "How It Feels",
-      "url": "https://open.spotify.com/track/2DSQvvaojC1yu5phfWDKuB"
-    },
-    {
-      "added_at": "2024-09-25 15:07:49",
-      "album": {
         "name": "L.I.F.E",
         "url": "https://open.spotify.com/album/2lHZPKz3zuSek7PXOYk7r2"
       },
@@ -671,6 +655,26 @@
     {
       "added_at": "2024-09-25 15:07:49",
       "album": {
+        "name": "Everything Eventually Ends",
+        "url": "https://open.spotify.com/album/5pk9cqTDktuytdBNidkke4"
+      },
+      "artists": [
+        {
+          "name": "L'Imp\u00e9ratrice",
+          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
+        },
+        {
+          "name": "Rejjie Snow",
+          "url": "https://open.spotify.com/artist/3lLHpTOJ11tWiUNGYN14gt"
+        }
+      ],
+      "duration_ms": 177280,
+      "name": "Everything Eventually Ends",
+      "url": "https://open.spotify.com/track/5LInOGDHqrgetnMlnvaDNq"
+    },
+    {
+      "added_at": "2024-09-25 15:07:49",
+      "album": {
         "name": "Thandaza",
         "url": "https://open.spotify.com/album/2RwaFaBi6nvVUiT9RGbXRD"
       },
@@ -707,22 +711,18 @@
     {
       "added_at": "2024-09-25 15:07:49",
       "album": {
-        "name": "Everything Eventually Ends",
-        "url": "https://open.spotify.com/album/5pk9cqTDktuytdBNidkke4"
+        "name": "How It Feels",
+        "url": "https://open.spotify.com/album/320rO6gCDoi1IOWMdthaZp"
       },
       "artists": [
         {
-          "name": "L'Imp\u00e9ratrice",
-          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
-        },
-        {
-          "name": "Rejjie Snow",
-          "url": "https://open.spotify.com/artist/3lLHpTOJ11tWiUNGYN14gt"
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
         }
       ],
-      "duration_ms": 177280,
-      "name": "Everything Eventually Ends",
-      "url": "https://open.spotify.com/track/5LInOGDHqrgetnMlnvaDNq"
+      "duration_ms": 138951,
+      "name": "How It Feels",
+      "url": "https://open.spotify.com/track/2DSQvvaojC1yu5phfWDKuB"
     },
     {
       "added_at": "2024-09-25 15:07:49",
@@ -927,6 +927,22 @@
     {
       "added_at": "2024-09-25 15:07:49",
       "album": {
+        "name": "Small Moments",
+        "url": "https://open.spotify.com/album/75GwgzYvvgaJQS6DooqcIC"
+      },
+      "artists": [
+        {
+          "name": "Dan Kye",
+          "url": "https://open.spotify.com/artist/05YrP00agTrYezUyAsukKf"
+        }
+      ],
+      "duration_ms": 227486,
+      "name": "Actually",
+      "url": "https://open.spotify.com/track/3hN5cipCofNVspWVkToiQD"
+    },
+    {
+      "added_at": "2024-09-25 15:07:49",
+      "album": {
         "name": "Joys",
         "url": "https://open.spotify.com/album/5dwpmQPOTG6rm25LfSXOR0"
       },
@@ -939,22 +955,6 @@
       "duration_ms": 135218,
       "name": "Joys",
       "url": "https://open.spotify.com/track/2owws8NRqfPUdIn3Uag7Yp"
-    },
-    {
-      "added_at": "2024-09-25 15:07:49",
-      "album": {
-        "name": "Sunday",
-        "url": "https://open.spotify.com/album/4VTOytGXwnkNkggIND58d8"
-      },
-      "artists": [
-        {
-          "name": "HNNY",
-          "url": "https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r"
-        }
-      ],
-      "duration_ms": 305776,
-      "name": "Cheer Up, My Brother",
-      "url": "https://open.spotify.com/track/37D9O4De2WL1hA6gyResgl"
     },
     {
       "added_at": "2024-09-25 15:07:49",
@@ -999,18 +999,18 @@
     {
       "added_at": "2024-09-25 15:07:49",
       "album": {
-        "name": "Small Moments",
-        "url": "https://open.spotify.com/album/75GwgzYvvgaJQS6DooqcIC"
+        "name": "Sunday",
+        "url": "https://open.spotify.com/album/4VTOytGXwnkNkggIND58d8"
       },
       "artists": [
         {
-          "name": "Dan Kye",
-          "url": "https://open.spotify.com/artist/05YrP00agTrYezUyAsukKf"
+          "name": "HNNY",
+          "url": "https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r"
         }
       ],
-      "duration_ms": 227486,
-      "name": "Actually",
-      "url": "https://open.spotify.com/track/3hN5cipCofNVspWVkToiQD"
+      "duration_ms": 305776,
+      "name": "Cheer Up, My Brother",
+      "url": "https://open.spotify.com/track/37D9O4De2WL1hA6gyResgl"
     },
     {
       "added_at": "2024-09-25 15:07:49",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2024-09-25 15:07:49",
       "album": {
-        "name": "Cyclorama",
-        "url": "https://open.spotify.com/album/2XLO00VSPGAGxpUjezhHoC"
-      },
-      "artists": [
-        {
-          "name": "Polo & Pan",
-          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
-        }
-      ],
-      "duration_ms": 240640,
-      "name": "Feel Good",
-      "url": "https://open.spotify.com/track/2UkX27EXS59qpKUXrMTZlK"
-    },
-    {
-      "added_at": "2024-09-25 15:07:49",
-      "album": {
         "name": "Rah That's A Mad Question",
         "url": "https://open.spotify.com/album/1tCAbCRfFmq6SJjklzryDI"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 227123,
       "name": "Rah That's A Mad Question",
       "url": "https://open.spotify.com/track/7oklbyYBpXg9Uvl4tMW2iU"
+    },
+    {
+      "added_at": "2024-09-25 15:07:49",
+      "album": {
+        "name": "Ithaque",
+        "url": "https://open.spotify.com/album/1bqWfUAoboTiP0TdsBqBTp"
+      },
+      "artists": [
+        {
+          "name": "Sara Costa",
+          "url": "https://open.spotify.com/artist/4QdM9MXZoixsfLRhqlJF49"
+        }
+      ],
+      "duration_ms": 189026,
+      "name": "Ithaque",
+      "url": "https://open.spotify.com/track/3VOtDNKPohGZKv1OAO5QKR"
     },
     {
       "added_at": "2024-09-25 15:07:49",
@@ -1239,18 +1239,18 @@
     {
       "added_at": "2024-09-25 15:07:49",
       "album": {
-        "name": "Ithaque",
-        "url": "https://open.spotify.com/album/1bqWfUAoboTiP0TdsBqBTp"
+        "name": "Cyclorama",
+        "url": "https://open.spotify.com/album/2XLO00VSPGAGxpUjezhHoC"
       },
       "artists": [
         {
-          "name": "Sara Costa",
-          "url": "https://open.spotify.com/artist/4QdM9MXZoixsfLRhqlJF49"
+          "name": "Polo & Pan",
+          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
         }
       ],
-      "duration_ms": 189026,
-      "name": "Ithaque",
-      "url": "https://open.spotify.com/track/3VOtDNKPohGZKv1OAO5QKR"
+      "duration_ms": 240640,
+      "name": "Feel Good",
+      "url": "https://open.spotify.com/track/2UkX27EXS59qpKUXrMTZlK"
     },
     {
       "added_at": "2024-09-25 15:07:49",
@@ -1319,26 +1319,6 @@
     {
       "added_at": "2024-09-25 15:07:49",
       "album": {
-        "name": "Born a Loser",
-        "url": "https://open.spotify.com/album/6OQjfXsIharHjMAMbGYGNd"
-      },
-      "artists": [
-        {
-          "name": "Myd",
-          "url": "https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk"
-        },
-        {
-          "name": "Mac DeMarco",
-          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
-        }
-      ],
-      "duration_ms": 167093,
-      "name": "Moving Men",
-      "url": "https://open.spotify.com/track/3OrQzlqFmedMua5WxgCVrI"
-    },
-    {
-      "added_at": "2024-09-25 15:07:49",
-      "album": {
         "name": "I Believe In Love Again",
         "url": "https://open.spotify.com/album/4j8paHpWXq0sgm5jcWl84R"
       },
@@ -1355,6 +1335,26 @@
       "duration_ms": 176524,
       "name": "I Believe In Love Again",
       "url": "https://open.spotify.com/track/4fZ9WECee9p7FEWOUP03jD"
+    },
+    {
+      "added_at": "2024-09-25 15:07:49",
+      "album": {
+        "name": "Born a Loser",
+        "url": "https://open.spotify.com/album/6OQjfXsIharHjMAMbGYGNd"
+      },
+      "artists": [
+        {
+          "name": "Myd",
+          "url": "https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk"
+        },
+        {
+          "name": "Mac DeMarco",
+          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+        }
+      ],
+      "duration_ms": 167093,
+      "name": "Moving Men",
+      "url": "https://open.spotify.com/track/3OrQzlqFmedMua5WxgCVrI"
     },
     {
       "added_at": "2024-09-25 15:07:49",
@@ -1495,6 +1495,26 @@
     {
       "added_at": "2024-09-25 15:07:49",
       "album": {
+        "name": "Blackpool Boulevard",
+        "url": "https://open.spotify.com/album/3jc8IkDpZ1bGZCNCZOyT3R"
+      },
+      "artists": [
+        {
+          "name": "Anish Kumar",
+          "url": "https://open.spotify.com/artist/4pSMnAlD8JVEW3eZDuaQH8"
+        },
+        {
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+        }
+      ],
+      "duration_ms": 215768,
+      "name": "Blackpool Boulevard - Edit",
+      "url": "https://open.spotify.com/track/603pPHCZn9Ng9K9woYdWEd"
+    },
+    {
+      "added_at": "2024-09-25 15:07:49",
+      "album": {
         "name": "The Cure (feat. Chloe Paige)",
         "url": "https://open.spotify.com/album/11NsP5ydXk68bhYyq5tErV"
       },
@@ -1515,26 +1535,6 @@
       "duration_ms": 234312,
       "name": "The Cure (feat. Chloe Paige)",
       "url": "https://open.spotify.com/track/47bfpeMYD6oCLJL9ZAbxCc"
-    },
-    {
-      "added_at": "2024-09-25 15:07:49",
-      "album": {
-        "name": "Blackpool Boulevard",
-        "url": "https://open.spotify.com/album/3jc8IkDpZ1bGZCNCZOyT3R"
-      },
-      "artists": [
-        {
-          "name": "Anish Kumar",
-          "url": "https://open.spotify.com/artist/4pSMnAlD8JVEW3eZDuaQH8"
-        },
-        {
-          "name": "Barry Can't Swim",
-          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
-        }
-      ],
-      "duration_ms": 215768,
-      "name": "Blackpool Boulevard - Edit",
-      "url": "https://open.spotify.com/track/603pPHCZn9Ng9K9woYdWEd"
     },
     {
       "added_at": "2024-09-25 15:07:49",
@@ -1615,30 +1615,6 @@
     {
       "added_at": "2024-09-25 15:07:49",
       "album": {
-        "name": "All In A Dream",
-        "url": "https://open.spotify.com/album/6X8Qi8j1bvHv7FYoJ04fE6"
-      },
-      "artists": [
-        {
-          "name": "LP Giobbi",
-          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
-        },
-        {
-          "name": "DJ Tennis",
-          "url": "https://open.spotify.com/artist/6vJvFV1A2CpT8s5B1oUN6t"
-        },
-        {
-          "name": "Joseph Ashworth",
-          "url": "https://open.spotify.com/artist/7CpmbhzkL9uT1D9nhckTxB"
-        }
-      ],
-      "duration_ms": 230015,
-      "name": "All In A Dream",
-      "url": "https://open.spotify.com/track/11SEKnYpFCFRXnUap3Cso2"
-    },
-    {
-      "added_at": "2024-09-25 15:07:49",
-      "album": {
         "name": "All This Love",
         "url": "https://open.spotify.com/album/353L5BWNL1PQaHeF6gTkBb"
       },
@@ -1679,6 +1655,30 @@
       "duration_ms": 232625,
       "name": "Happy Music",
       "url": "https://open.spotify.com/track/7uGpUhy4uf2UrHH7TyhM6C"
+    },
+    {
+      "added_at": "2024-09-25 15:07:49",
+      "album": {
+        "name": "All In A Dream",
+        "url": "https://open.spotify.com/album/6X8Qi8j1bvHv7FYoJ04fE6"
+      },
+      "artists": [
+        {
+          "name": "LP Giobbi",
+          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+        },
+        {
+          "name": "DJ Tennis",
+          "url": "https://open.spotify.com/artist/6vJvFV1A2CpT8s5B1oUN6t"
+        },
+        {
+          "name": "Joseph Ashworth",
+          "url": "https://open.spotify.com/artist/7CpmbhzkL9uT1D9nhckTxB"
+        }
+      ],
+      "duration_ms": 230015,
+      "name": "All In A Dream",
+      "url": "https://open.spotify.com/track/11SEKnYpFCFRXnUap3Cso2"
     },
     {
       "added_at": "2024-09-25 15:07:49",
@@ -1763,6 +1763,22 @@
     {
       "added_at": "2024-09-25 15:07:49",
       "album": {
+        "name": "IT MIGHT BE THE DRUGS",
+        "url": "https://open.spotify.com/album/7oxDOgfgFrCFHxPzPFrl3V"
+      },
+      "artists": [
+        {
+          "name": "me n \u00fc",
+          "url": "https://open.spotify.com/artist/1hqo0TnaWxL6jVm0wdzi9f"
+        }
+      ],
+      "duration_ms": 219892,
+      "name": "IT MIGHT BE THE DRUGS",
+      "url": "https://open.spotify.com/track/6gnWzz8OrdSVC7r0yhqJs4"
+    },
+    {
+      "added_at": "2024-09-25 15:07:49",
+      "album": {
         "name": "Asara (feat. Bambo Cissokho)",
         "url": "https://open.spotify.com/album/39YxZgJhoL9YQfc4lmKwhN"
       },
@@ -1783,22 +1799,6 @@
       "duration_ms": 162295,
       "name": "Asara (feat. Bambo Cissokho)",
       "url": "https://open.spotify.com/track/7jZXymh2SwJUGD4juPNVVH"
-    },
-    {
-      "added_at": "2024-09-25 15:07:49",
-      "album": {
-        "name": "IT MIGHT BE THE DRUGS",
-        "url": "https://open.spotify.com/album/7oxDOgfgFrCFHxPzPFrl3V"
-      },
-      "artists": [
-        {
-          "name": "me n \u00fc",
-          "url": "https://open.spotify.com/artist/1hqo0TnaWxL6jVm0wdzi9f"
-        }
-      ],
-      "duration_ms": 219892,
-      "name": "IT MIGHT BE THE DRUGS",
-      "url": "https://open.spotify.com/track/6gnWzz8OrdSVC7r0yhqJs4"
     },
     {
       "added_at": "2024-09-25 15:07:49",

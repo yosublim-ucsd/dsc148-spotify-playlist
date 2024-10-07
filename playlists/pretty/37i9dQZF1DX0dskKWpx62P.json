@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Con todo el sentimiento andino! Foto: William Luna",
-  "num_followers": 48984,
+  "num_followers": 49021,
   "original_name": "Huaynos Cl\u00e1sicos",
   "owner": {
     "name": "Spotify",
@@ -120,9 +120,9 @@
           "url": "https://open.spotify.com/artist/2i5IMep3W8A3oFcCI3kp0D"
         }
       ],
-      "duration_ms": 277603,
-      "name": "Amor Ajeno",
-      "url": "https://open.spotify.com/track/3UlgjKoybmeyMmfIspHBe9"
+      "duration_ms": 263680,
+      "name": "La Orquesta",
+      "url": "https://open.spotify.com/track/0NM3JRUlrBhKbJM2lgKesV"
     },
     {
       "added_at": "2024-06-24 17:38:16",
@@ -248,9 +248,9 @@
           "url": "https://open.spotify.com/artist/2i5IMep3W8A3oFcCI3kp0D"
         }
       ],
-      "duration_ms": 263680,
-      "name": "La Orquesta",
-      "url": "https://open.spotify.com/track/0NM3JRUlrBhKbJM2lgKesV"
+      "duration_ms": 277603,
+      "name": "Amor Ajeno",
+      "url": "https://open.spotify.com/track/3UlgjKoybmeyMmfIspHBe9"
     },
     {
       "added_at": "2024-06-24 17:38:16",
@@ -323,22 +323,6 @@
     {
       "added_at": "2024-06-24 17:38:16",
       "album": {
-        "name": "Lo Mejor del Incomparable...Mario Mendoza",
-        "url": "https://open.spotify.com/album/1fq9eMMW89xN3BxZvWgDuw"
-      },
-      "artists": [
-        {
-          "name": "Mario Mendoza",
-          "url": "https://open.spotify.com/artist/16wOUZsJRt4lH9cM9Js3VQ"
-        }
-      ],
-      "duration_ms": 163080,
-      "name": "Mi Linda Ni\u00f1a",
-      "url": "https://open.spotify.com/track/0Pf4rmQmrIl6G0bbuszuwH"
-    },
-    {
-      "added_at": "2024-06-24 17:38:16",
-      "album": {
         "name": "Selecci\u00f3n de Huaynos: Centro - Sur",
         "url": "https://open.spotify.com/album/1EnGdpyue1EVF0XlGdhmeO"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 160640,
       "name": "Vas a Llorar",
       "url": "https://open.spotify.com/track/2MprqfkZ99YxetGfp8gZ6W"
+    },
+    {
+      "added_at": "2024-06-24 17:38:16",
+      "album": {
+        "name": "Lo Mejor del Incomparable...Mario Mendoza",
+        "url": "https://open.spotify.com/album/1fq9eMMW89xN3BxZvWgDuw"
+      },
+      "artists": [
+        {
+          "name": "Mario Mendoza",
+          "url": "https://open.spotify.com/artist/16wOUZsJRt4lH9cM9Js3VQ"
+        }
+      ],
+      "duration_ms": 163080,
+      "name": "Mi Linda Ni\u00f1a",
+      "url": "https://open.spotify.com/track/0Pf4rmQmrIl6G0bbuszuwH"
     },
     {
       "added_at": "2024-06-24 17:38:16",
@@ -403,6 +403,22 @@
     {
       "added_at": "2024-06-24 17:38:16",
       "album": {
+        "name": "Bodas de Plata: Concierto en Vivo",
+        "url": "https://open.spotify.com/album/0PpRiM2ur6dZKZ48z5e5te"
+      },
+      "artists": [
+        {
+          "name": "Ra\u00fal Arqu\u00ednigo",
+          "url": "https://open.spotify.com/artist/0Fai0nBdLeTWPHpSMeVzfO"
+        }
+      ],
+      "duration_ms": 237826,
+      "name": "Despu\u00e9s de Mi Qu\u00e9 Importa",
+      "url": "https://open.spotify.com/track/0kGI5wzDxnh8sz42sb9H7g"
+    },
+    {
+      "added_at": "2024-06-24 17:38:16",
+      "album": {
         "name": "Conjunto Condemayta de Acomayo",
         "url": "https://open.spotify.com/album/5eKzkcckQddTWQ4T14kckx"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 228800,
       "name": "Granadita",
       "url": "https://open.spotify.com/track/7KU47DKSR3mZVPCHYoQnQw"
-    },
-    {
-      "added_at": "2024-06-24 17:38:16",
-      "album": {
-        "name": "Bodas de Plata: Concierto en Vivo",
-        "url": "https://open.spotify.com/album/0PpRiM2ur6dZKZ48z5e5te"
-      },
-      "artists": [
-        {
-          "name": "Ra\u00fal Arqu\u00ednigo",
-          "url": "https://open.spotify.com/artist/0Fai0nBdLeTWPHpSMeVzfO"
-        }
-      ],
-      "duration_ms": 237826,
-      "name": "Despu\u00e9s de Mi Qu\u00e9 Importa",
-      "url": "https://open.spotify.com/track/0kGI5wzDxnh8sz42sb9H7g"
     },
     {
       "added_at": "2024-06-24 17:38:16",
@@ -611,22 +611,6 @@
     {
       "added_at": "2024-06-24 17:38:16",
       "album": {
-        "name": "Cantares Huaracinos",
-        "url": "https://open.spotify.com/album/1XdlfgaPbCWRq3XGmEP9OK"
-      },
-      "artists": [
-        {
-          "name": "Jilguero Del Huascar\u00e1n",
-          "url": "https://open.spotify.com/artist/3ys2iBkiK7WY5yx248KIpx"
-        }
-      ],
-      "duration_ms": 160200,
-      "name": "Carrito del Gobierno",
-      "url": "https://open.spotify.com/track/1Net8ueUaiGDbFvokcINq7"
-    },
-    {
-      "added_at": "2024-06-24 17:38:16",
-      "album": {
         "name": "El Jilguero de Huascar\u00e1n",
         "url": "https://open.spotify.com/album/5SS2SwafKqEmXuU5uuP0S5"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 161973,
       "name": "Carrito del Regreso",
       "url": "https://open.spotify.com/track/6E37bI48bQcPPJj20aNCOL"
+    },
+    {
+      "added_at": "2024-06-24 17:38:16",
+      "album": {
+        "name": "Cantares Huaracinos",
+        "url": "https://open.spotify.com/album/1XdlfgaPbCWRq3XGmEP9OK"
+      },
+      "artists": [
+        {
+          "name": "Jilguero Del Huascar\u00e1n",
+          "url": "https://open.spotify.com/artist/3ys2iBkiK7WY5yx248KIpx"
+        }
+      ],
+      "duration_ms": 160200,
+      "name": "Carrito del Gobierno",
+      "url": "https://open.spotify.com/track/1Net8ueUaiGDbFvokcINq7"
     },
     {
       "added_at": "2024-06-24 17:38:16",
@@ -691,22 +691,6 @@
     {
       "added_at": "2024-06-24 17:38:16",
       "album": {
-        "name": "Los Grandes del Folklore Peruano",
-        "url": "https://open.spotify.com/album/5ZG4tBKt2aJqOtaX2qbuUF"
-      },
-      "artists": [
-        {
-          "name": "Los Puquiales",
-          "url": "https://open.spotify.com/artist/56BGpfV7llrp7rvvseEaPn"
-        }
-      ],
-      "duration_ms": 167773,
-      "name": "Pucay Punchochay",
-      "url": "https://open.spotify.com/track/4BkniuKguT4KuXGW2Nv9su"
-    },
-    {
-      "added_at": "2024-06-24 17:38:16",
-      "album": {
         "name": "Yo Soy el Amor, Vol. 15",
         "url": "https://open.spotify.com/album/6gCMVRPtf57mWK4belnSRo"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 208040,
       "name": "Mauka Zapato",
       "url": "https://open.spotify.com/track/6zGjm3uaP6gxoC4BslW05f"
+    },
+    {
+      "added_at": "2024-06-24 17:38:16",
+      "album": {
+        "name": "Los Grandes del Folklore Peruano",
+        "url": "https://open.spotify.com/album/5ZG4tBKt2aJqOtaX2qbuUF"
+      },
+      "artists": [
+        {
+          "name": "Los Puquiales",
+          "url": "https://open.spotify.com/artist/56BGpfV7llrp7rvvseEaPn"
+        }
+      ],
+      "duration_ms": 167773,
+      "name": "Pucay Punchochay",
+      "url": "https://open.spotify.com/track/4BkniuKguT4KuXGW2Nv9su"
     },
     {
       "added_at": "2024-06-24 17:38:16",
@@ -771,6 +771,22 @@
     {
       "added_at": "2024-06-24 17:38:16",
       "album": {
+        "name": "Enlazando Cantos II",
+        "url": "https://open.spotify.com/album/7pwM0y78SKw4b1kSHjWL81"
+      },
+      "artists": [
+        {
+          "name": "Manuelcha Prado",
+          "url": "https://open.spotify.com/artist/6cR40PCkvUGZaRw1ZZ9q22"
+        }
+      ],
+      "duration_ms": 249155,
+      "name": "Clavel de mi pecho",
+      "url": "https://open.spotify.com/track/7f9iGF8ycjnYEXc9c8Gb4U"
+    },
+    {
+      "added_at": "2024-06-24 17:38:16",
+      "album": {
         "name": "A..estilo propio y jaranero",
         "url": "https://open.spotify.com/album/3p3as9EChM0uXAteOZ2oZo"
       },
@@ -803,18 +819,18 @@
     {
       "added_at": "2024-06-24 17:38:16",
       "album": {
-        "name": "Enlazando Cantos II",
-        "url": "https://open.spotify.com/album/7pwM0y78SKw4b1kSHjWL81"
+        "name": "Selecci\u00f3n de Huaynos: Centro - Sur",
+        "url": "https://open.spotify.com/album/1EnGdpyue1EVF0XlGdhmeO"
       },
       "artists": [
         {
-          "name": "Manuelcha Prado",
-          "url": "https://open.spotify.com/artist/6cR40PCkvUGZaRw1ZZ9q22"
+          "name": "Los Puquiales",
+          "url": "https://open.spotify.com/artist/56BGpfV7llrp7rvvseEaPn"
         }
       ],
-      "duration_ms": 249155,
-      "name": "Clavel de mi pecho",
-      "url": "https://open.spotify.com/track/7f9iGF8ycjnYEXc9c8Gb4U"
+      "duration_ms": 160173,
+      "name": "Remembranzas",
+      "url": "https://open.spotify.com/track/6h4mOqdnuu7mnAaHFlWrNR"
     },
     {
       "added_at": "2024-06-24 17:38:16",
@@ -851,22 +867,6 @@
     {
       "added_at": "2024-06-24 17:38:16",
       "album": {
-        "name": "Selecci\u00f3n de Huaynos: Centro - Sur",
-        "url": "https://open.spotify.com/album/1EnGdpyue1EVF0XlGdhmeO"
-      },
-      "artists": [
-        {
-          "name": "Los Puquiales",
-          "url": "https://open.spotify.com/artist/56BGpfV7llrp7rvvseEaPn"
-        }
-      ],
-      "duration_ms": 160173,
-      "name": "Remembranzas",
-      "url": "https://open.spotify.com/track/6h4mOqdnuu7mnAaHFlWrNR"
-    },
-    {
-      "added_at": "2024-06-24 17:38:16",
-      "album": {
         "name": "Amor amor",
         "url": "https://open.spotify.com/album/2tcYDcehVM8jK5KLUJKiEG"
       },
@@ -899,6 +899,22 @@
     {
       "added_at": "2024-06-24 17:38:16",
       "album": {
+        "name": "Madre Andina",
+        "url": "https://open.spotify.com/album/3QiXpzSp5X9J2IxfAP4eGe"
+      },
+      "artists": [
+        {
+          "name": "Manuelcha Prado",
+          "url": "https://open.spotify.com/artist/6cR40PCkvUGZaRw1ZZ9q22"
+        }
+      ],
+      "duration_ms": 264855,
+      "name": "Expreso Puquio",
+      "url": "https://open.spotify.com/track/7vEXd2YBNHeyeY9YOBB83K"
+    },
+    {
+      "added_at": "2024-06-24 17:38:16",
+      "album": {
         "name": "Huaynos corazon y alma",
         "url": "https://open.spotify.com/album/4pZd4WaXRsP3WdXKHB9MgZ"
       },
@@ -923,6 +939,22 @@
       "duration_ms": 186723,
       "name": "A los filos de un cuchillo",
       "url": "https://open.spotify.com/track/5r5uesUoq0BbQEG78GrDqB"
+    },
+    {
+      "added_at": "2024-06-24 17:38:16",
+      "album": {
+        "name": "Y Su Per\u00fa Colores",
+        "url": "https://open.spotify.com/album/6cjhSXx1Q0zzS2fuitwPqB"
+      },
+      "artists": [
+        {
+          "name": "Pelo D'Ambrosio",
+          "url": "https://open.spotify.com/artist/7d1wBAl5FEvOENbACiZIYZ"
+        }
+      ],
+      "duration_ms": 316696,
+      "name": "Juntito a T\u00ed",
+      "url": "https://open.spotify.com/track/1zL9sHcTeljBcBIMTp8KWi"
     },
     {
       "added_at": "2024-06-24 17:38:16",
@@ -955,38 +987,6 @@
       "duration_ms": 382902,
       "name": "Soy Provinciano",
       "url": "https://open.spotify.com/track/48gJ019YstMfy2k6tp9Sja"
-    },
-    {
-      "added_at": "2024-06-24 17:38:16",
-      "album": {
-        "name": "Y Su Per\u00fa Colores",
-        "url": "https://open.spotify.com/album/6cjhSXx1Q0zzS2fuitwPqB"
-      },
-      "artists": [
-        {
-          "name": "Pelo D'Ambrosio",
-          "url": "https://open.spotify.com/artist/7d1wBAl5FEvOENbACiZIYZ"
-        }
-      ],
-      "duration_ms": 316696,
-      "name": "Juntito a T\u00ed",
-      "url": "https://open.spotify.com/track/1zL9sHcTeljBcBIMTp8KWi"
-    },
-    {
-      "added_at": "2024-06-24 17:38:16",
-      "album": {
-        "name": "Madre Andina",
-        "url": "https://open.spotify.com/album/3QiXpzSp5X9J2IxfAP4eGe"
-      },
-      "artists": [
-        {
-          "name": "Manuelcha Prado",
-          "url": "https://open.spotify.com/artist/6cR40PCkvUGZaRw1ZZ9q22"
-        }
-      ],
-      "duration_ms": 264855,
-      "name": "Expreso Puquio",
-      "url": "https://open.spotify.com/track/7vEXd2YBNHeyeY9YOBB83K"
     }
   ],
   "unique_name": "Huaynos Cl\u00e1sicos",

@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Mexico.
 
-2,272 songs - 5 day 2 hr 3 min
+2,273 songs - 5 day 2 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -360,6 +360,7 @@
 | [CCC](https://open.spotify.com/track/7uuqrSuCjWxPTCVyOeGMyt) | [Michelle Maciel](https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [CCC](https://open.spotify.com/album/0BdTCfBqngPThmKfdWaXll) | 2:06 | 2023-05-30 | 2023-10-03 |
 | [CCC \- Remix](https://open.spotify.com/track/1SlPNQ3vAF56AiHr6Ul6jM) | [Michelle Maciel](https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [CCC \(Remix\)](https://open.spotify.com/album/4omrnMxKG5Nf7wqFTni9Eo) | 2:27 | 2023-09-19 | 2023-11-01 |
 | [ceilings](https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 3:02 | 2023-02-27 | 2023-03-29 |
+| [Celine \(with Kidd Keo\)](https://open.spotify.com/track/5ER5Fr1Cv7N3chJhAapt66) | [Ghost Killer Track](https://open.spotify.com/artist/37S0GFsBW73uqxGXNFeADJ), [Kidd Keo](https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km) | [Celine \(with Kidd Keo\)](https://open.spotify.com/album/4Uew91PetBzYYnSg83m3HT) | 2:56 | 2024-10-06 |  |
 | [Ch y la Pizza](https://open.spotify.com/track/0UbesRsX2TtiCeamOIVEkp) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Pa Que Hablen](https://open.spotify.com/album/7idxAlo8GuUKWV7RhOlptp) | 2:16 | 2022-12-31 | 2023-04-05 |
 | [Ch y la Pizza](https://open.spotify.com/track/1ySH55O0zbQBR77q8wQEyn) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Ch y la Pizza](https://open.spotify.com/album/6VaUzblJhXxcLimTzdImEa) | 2:16 | 2022-12-27 | 2023-01-01 |
 | [Cha Cha Cha](https://open.spotify.com/track/5RX8T3EoTuXcybAxe6oPAw) | [Käärijä](https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r) | [Cha Cha Cha](https://open.spotify.com/album/5rBqeRlrrzR77MAkbgAmS6) | 2:55 | 2023-05-22 | 2023-05-27 |
@@ -374,7 +375,7 @@
 | [CHIHIRO](https://open.spotify.com/track/7BRD7x5pt8Lqa1eGYC4dzj) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 5:03 | 2024-06-04 | 2024-07-02 |
 | [Chihiro](https://open.spotify.com/track/1antlMwNpOAXeUcIAx8FPB) | [Gravagerz](https://open.spotify.com/artist/2zoy9aYWHueNXCIqh2MStc) | [Chihiro](https://open.spotify.com/album/5zxkH4g9xsFZXrhbhm5N77) | 2:08 | 2024-08-03 | 2024-08-14 |
 | [Chihiro](https://open.spotify.com/track/1kDqGWSeR27gWaMouyXD0C) | [Gravagerz](https://open.spotify.com/artist/2zoy9aYWHueNXCIqh2MStc) | [Chihiro](https://open.spotify.com/album/3g94R3KoZVDaYwiM0KQFyN) | 2:08 | 2024-08-13 | 2024-08-22 |
-| [CHINGON](https://open.spotify.com/track/6UNLWd8LUk9nNgmU6AcXct) | [Martinwhite](https://open.spotify.com/artist/1PANUPmT5KUDGs3Xgkhw3T), [NEMJ](https://open.spotify.com/artist/1djP5LHPEF9KvmoKJI0QPX) | [CHINGON](https://open.spotify.com/album/1G7CJQFdIdrwyI06JeinOe) | 2:14 | 2024-08-06 |  |
+| [CHINGON](https://open.spotify.com/track/6UNLWd8LUk9nNgmU6AcXct) | [Martinwhite](https://open.spotify.com/artist/1PANUPmT5KUDGs3Xgkhw3T), [NEMJ](https://open.spotify.com/artist/1djP5LHPEF9KvmoKJI0QPX) | [CHINGON](https://open.spotify.com/album/1G7CJQFdIdrwyI06JeinOe) | 2:14 | 2024-08-06 | 2024-10-07 |
 | [Chipi Chipi Chapa Chapa](https://open.spotify.com/track/0t33mdnOe8aMhO5BtRHgH5) | [lusttqwe](https://open.spotify.com/artist/1ppoDV6LO37SPuHEK2FAyR), [lorche](https://open.spotify.com/artist/644qnZiBHVcjcMCHsiV0PL), [bexter](https://open.spotify.com/artist/2nb1xGx7gKOs9Yu5g1sJ8n), [Kairas](https://open.spotify.com/artist/3Ug4eAerBcBlwia1oHosMY) | [Chipi Chipi Chapa Chapa](https://open.spotify.com/album/5F1cOAxZbtA379LrMe59ZH) | 3:46 | 2024-01-09 | 2024-01-12 |
 | [Chipi Chipi Chapa Chapa Dubidubidu](https://open.spotify.com/track/0tdtQptse7jupJyrkIIFiA) | [Christell](https://open.spotify.com/artist/5H5ZQaEOmSoUTEn8IzI62V) | [Christell](https://open.spotify.com/album/37hWotp4LwiFxD9hPOe8tC) | 3:46 | 2024-01-13 | 2024-01-18 |
 | [Chiquetere \(feat\. Rafa Villalba\)](https://open.spotify.com/track/1pdsBkhNchpGCQTGoNQXZI) | [Paskman](https://open.spotify.com/artist/70s7RdFqr3UEBlooMGUQdO), [Rafa Villalba](https://open.spotify.com/artist/55r5KF4IQdMkhXEzoluxUm) | [Chiquetere](https://open.spotify.com/album/7762QoadEu8iEVvhDo94P6) | 2:43 | 2022-05-02 | 2022-06-01 |

@@ -1,6 +1,6 @@
 {
   "description": "Soul for the blues. Cover: Otis Redding.",
-  "num_followers": 227018,
+  "num_followers": 227201,
   "original_name": "Sad Soul",
   "owner": {
     "name": "Spotify",
@@ -171,6 +171,38 @@
     {
       "added_at": "2021-11-11 14:02:18",
       "album": {
+        "name": "Pain in My Heart",
+        "url": "https://open.spotify.com/album/2BFOk5b8jjm2xmsbx7qXq3"
+      },
+      "artists": [
+        {
+          "name": "Otis Redding",
+          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+        }
+      ],
+      "duration_ms": 154533,
+      "name": "These Arms of Mine",
+      "url": "https://open.spotify.com/track/4skknrc3sJqaPTtUr2cwFq"
+    },
+    {
+      "added_at": "2021-11-11 14:02:18",
+      "album": {
+        "name": "Let's Stay Together",
+        "url": "https://open.spotify.com/album/58eMx3QrTkiRmGGbSz2XL0"
+      },
+      "artists": [
+        {
+          "name": "Al Green",
+          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
+        }
+      ],
+      "duration_ms": 383502,
+      "name": "How Can You Mend a Broken Heart",
+      "url": "https://open.spotify.com/track/6lUXneXZ9jc3HSMHgd8oqh"
+    },
+    {
+      "added_at": "2021-11-11 14:02:18",
+      "album": {
         "name": "Winner In You",
         "url": "https://open.spotify.com/album/5wESpjGUZ1QKY2DziNM5fN"
       },
@@ -219,38 +251,6 @@
       "duration_ms": 299120,
       "name": "Love T.K.O.",
       "url": "https://open.spotify.com/track/3IVaPHncIZWWNjfg29HVLq"
-    },
-    {
-      "added_at": "2021-11-11 14:02:18",
-      "album": {
-        "name": "Pain in My Heart",
-        "url": "https://open.spotify.com/album/2BFOk5b8jjm2xmsbx7qXq3"
-      },
-      "artists": [
-        {
-          "name": "Otis Redding",
-          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
-        }
-      ],
-      "duration_ms": 154533,
-      "name": "These Arms of Mine",
-      "url": "https://open.spotify.com/track/4skknrc3sJqaPTtUr2cwFq"
-    },
-    {
-      "added_at": "2021-11-11 14:02:18",
-      "album": {
-        "name": "Let's Stay Together",
-        "url": "https://open.spotify.com/album/58eMx3QrTkiRmGGbSz2XL0"
-      },
-      "artists": [
-        {
-          "name": "Al Green",
-          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
-        }
-      ],
-      "duration_ms": 383502,
-      "name": "How Can You Mend a Broken Heart",
-      "url": "https://open.spotify.com/track/6lUXneXZ9jc3HSMHgd8oqh"
     },
     {
       "added_at": "2022-09-08 14:58:04",
@@ -319,26 +319,6 @@
     {
       "added_at": "2021-11-11 14:02:18",
       "album": {
-        "name": "Black & Blue (Expanded Edition) (feat. Teddy Pendergrass)",
-        "url": "https://open.spotify.com/album/13qcPLh0uGE0jlskyLLa1N"
-      },
-      "artists": [
-        {
-          "name": "Harold Melvin & The Blue Notes",
-          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
-        },
-        {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
-        }
-      ],
-      "duration_ms": 384613,
-      "name": "The Love I Lost (feat. Teddy Pendergrass)",
-      "url": "https://open.spotify.com/track/4mumFsUDQXpQts1Y7Zjw5H"
-    },
-    {
-      "added_at": "2021-11-11 14:02:18",
-      "album": {
         "name": "Definitive Soul: Spinners",
         "url": "https://open.spotify.com/album/4Njh8ZQ1VG46bOo8YBF2L9"
       },
@@ -367,6 +347,26 @@
       "duration_ms": 229573,
       "name": "Can We Pretend",
       "url": "https://open.spotify.com/track/0S5ZoKKZD3bllkvhEoPimZ"
+    },
+    {
+      "added_at": "2021-11-11 14:02:18",
+      "album": {
+        "name": "Black & Blue (Expanded Edition) (feat. Teddy Pendergrass)",
+        "url": "https://open.spotify.com/album/13qcPLh0uGE0jlskyLLa1N"
+      },
+      "artists": [
+        {
+          "name": "Harold Melvin & The Blue Notes",
+          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
+        },
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "duration_ms": 384613,
+      "name": "The Love I Lost (feat. Teddy Pendergrass)",
+      "url": "https://open.spotify.com/track/4mumFsUDQXpQts1Y7Zjw5H"
     },
     {
       "added_at": "2022-09-08 14:58:04",
@@ -403,22 +403,6 @@
     {
       "added_at": "2021-11-11 14:02:18",
       "album": {
-        "name": "Don't Give Up On Me",
-        "url": "https://open.spotify.com/album/5fPt2yO2JG9ymtO1PNz5iK"
-      },
-      "artists": [
-        {
-          "name": "Solomon Burke",
-          "url": "https://open.spotify.com/artist/4nts0oxMT67lVUoi5Kjxrb"
-        }
-      ],
-      "duration_ms": 225533,
-      "name": "Don't Give Up On Me",
-      "url": "https://open.spotify.com/track/4A11HoXH8oIUfWtJaTE34T"
-    },
-    {
-      "added_at": "2021-11-11 14:02:18",
-      "album": {
         "name": "The Jones Girls",
         "url": "https://open.spotify.com/album/4ZhVgoPq9B9emWRsMcT6cD"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 204720,
       "name": "Who Can I Run To",
       "url": "https://open.spotify.com/track/3sFoSCg2KoaCUrOeKYMqvI"
+    },
+    {
+      "added_at": "2021-11-11 14:02:18",
+      "album": {
+        "name": "Don't Give Up On Me",
+        "url": "https://open.spotify.com/album/5fPt2yO2JG9ymtO1PNz5iK"
+      },
+      "artists": [
+        {
+          "name": "Solomon Burke",
+          "url": "https://open.spotify.com/artist/4nts0oxMT67lVUoi5Kjxrb"
+        }
+      ],
+      "duration_ms": 225533,
+      "name": "Don't Give Up On Me",
+      "url": "https://open.spotify.com/track/4A11HoXH8oIUfWtJaTE34T"
     },
     {
       "added_at": "2022-09-08 14:58:04",
@@ -485,6 +485,22 @@
       "url": "https://open.spotify.com/track/5mBHcJ6yNXyYGLosWkuGqv"
     },
     {
+      "added_at": "2022-09-08 14:58:04",
+      "album": {
+        "name": "Stand By Your Man",
+        "url": "https://open.spotify.com/album/5FSETqzUj1EAlIVvPYmv5r"
+      },
+      "artists": [
+        {
+          "name": "Candi Staton",
+          "url": "https://open.spotify.com/artist/3S34Unhn5yRcaH5K9aU5Et"
+        }
+      ],
+      "duration_ms": 213026,
+      "name": "He Called Me Baby",
+      "url": "https://open.spotify.com/track/3zIiZrCROmhS9ERPdEHXYa"
+    },
+    {
       "added_at": "2021-11-11 14:02:18",
       "album": {
         "name": "Harold Melvin & The Blue Notes (feat. Teddy Pendergrass)",
@@ -503,22 +519,6 @@
       "duration_ms": 518000,
       "name": "I Miss You (feat. Teddy Pendergrass)",
       "url": "https://open.spotify.com/track/5y0yvFr9dAsT1ycNUYSRPl"
-    },
-    {
-      "added_at": "2022-09-08 14:58:04",
-      "album": {
-        "name": "Stand By Your Man",
-        "url": "https://open.spotify.com/album/5FSETqzUj1EAlIVvPYmv5r"
-      },
-      "artists": [
-        {
-          "name": "Candi Staton",
-          "url": "https://open.spotify.com/artist/3S34Unhn5yRcaH5K9aU5Et"
-        }
-      ],
-      "duration_ms": 213026,
-      "name": "He Called Me Baby",
-      "url": "https://open.spotify.com/track/3zIiZrCROmhS9ERPdEHXYa"
     },
     {
       "added_at": "2021-11-11 14:02:18",
@@ -551,6 +551,26 @@
       "duration_ms": 195866,
       "name": "I've Got Dreams to Remember",
       "url": "https://open.spotify.com/track/4Ym0HjYfgEaUgjI3WuDqMK"
+    },
+    {
+      "added_at": "2021-11-11 14:02:18",
+      "album": {
+        "name": "Faithful Man",
+        "url": "https://open.spotify.com/album/38vdzwOSCNDvh81G0QmGfk"
+      },
+      "artists": [
+        {
+          "name": "Lee Fields & The Expressions",
+          "url": "https://open.spotify.com/artist/2bToe6WyGvADJftreuXh2K"
+        },
+        {
+          "name": "Lee Fields",
+          "url": "https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0"
+        }
+      ],
+      "duration_ms": 252973,
+      "name": "Wish You Were Here",
+      "url": "https://open.spotify.com/track/2BZjcbZpQyyhpVr3gMGPn6"
     },
     {
       "added_at": "2021-11-11 14:02:18",
@@ -603,46 +623,6 @@
     {
       "added_at": "2021-11-11 14:02:18",
       "album": {
-        "name": "To Be True (Expanded Edition) (feat. Teddy Pendergrass)",
-        "url": "https://open.spotify.com/album/5C0EIMdlDPa8AEEs1fgpM3"
-      },
-      "artists": [
-        {
-          "name": "Harold Melvin & The Blue Notes",
-          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
-        },
-        {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
-        }
-      ],
-      "duration_ms": 386426,
-      "name": "Bad Luck (feat. Teddy Pendergrass)",
-      "url": "https://open.spotify.com/track/5XTeeHxsfAe2kC3oFZzgas"
-    },
-    {
-      "added_at": "2021-11-11 14:02:18",
-      "album": {
-        "name": "Faithful Man",
-        "url": "https://open.spotify.com/album/38vdzwOSCNDvh81G0QmGfk"
-      },
-      "artists": [
-        {
-          "name": "Lee Fields & The Expressions",
-          "url": "https://open.spotify.com/artist/2bToe6WyGvADJftreuXh2K"
-        },
-        {
-          "name": "Lee Fields",
-          "url": "https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0"
-        }
-      ],
-      "duration_ms": 252973,
-      "name": "Wish You Were Here",
-      "url": "https://open.spotify.com/track/2BZjcbZpQyyhpVr3gMGPn6"
-    },
-    {
-      "added_at": "2021-11-11 14:02:18",
-      "album": {
         "name": "Chapter Two",
         "url": "https://open.spotify.com/album/3IOY0CeApn7qAjL6k5pRz4"
       },
@@ -671,6 +651,22 @@
       "duration_ms": 148493,
       "name": "What I Need Is Love",
       "url": "https://open.spotify.com/track/46zfaRtWBbR8nd5myuH6JQ"
+    },
+    {
+      "added_at": "2022-09-08 14:58:04",
+      "album": {
+        "name": "The Very Best of, Volume 1",
+        "url": "https://open.spotify.com/album/4nctU0RFRsjiYDgnYNcix5"
+      },
+      "artists": [
+        {
+          "name": "Joe Tex",
+          "url": "https://open.spotify.com/artist/5TbXjzD8tYgMD5JU2g2F8q"
+        }
+      ],
+      "duration_ms": 188920,
+      "name": "I'll never do you wrong",
+      "url": "https://open.spotify.com/track/6hG59WXc951utGHcrbhr4V"
     }
   ],
   "unique_name": "Sad Soul",

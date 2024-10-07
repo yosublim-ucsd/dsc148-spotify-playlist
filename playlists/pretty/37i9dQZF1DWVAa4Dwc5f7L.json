@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Hasta las 15! Monster merengue hits! Cover: Manuel Turizo",
-  "num_followers": 393957,
+  "num_followers": 394005,
   "original_name": "Merengue Mania",
   "owner": {
     "name": "Spotify",
@@ -367,6 +367,22 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
+        "name": "Pintame",
+        "url": "https://open.spotify.com/album/1JyYGBfd7EIVXtKyaOcyLB"
+      },
+      "artists": [
+        {
+          "name": "Elvis Crespo",
+          "url": "https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df"
+        }
+      ],
+      "duration_ms": 259066,
+      "name": "P\u00edntame",
+      "url": "https://open.spotify.com/track/7gNI9f8NTCU6hLV0pLkTT7"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
         "name": "Los Reyes Del Ritmo",
         "url": "https://open.spotify.com/album/16fBXAobpXR3CMdoln0h3o"
       },
@@ -395,22 +411,6 @@
       "duration_ms": 283866,
       "name": "Cachamba",
       "url": "https://open.spotify.com/track/2HFfwhwTbpGq8Ebi3Nkdwv"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "Pintame",
-        "url": "https://open.spotify.com/album/1JyYGBfd7EIVXtKyaOcyLB"
-      },
-      "artists": [
-        {
-          "name": "Elvis Crespo",
-          "url": "https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df"
-        }
-      ],
-      "duration_ms": 259066,
-      "name": "P\u00edntame",
-      "url": "https://open.spotify.com/track/7gNI9f8NTCU6hLV0pLkTT7"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -503,6 +503,22 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
+        "name": "Suavemente",
+        "url": "https://open.spotify.com/album/378XG6oO0TWcsGuxeQy2Os"
+      },
+      "artists": [
+        {
+          "name": "Elvis Crespo",
+          "url": "https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df"
+        }
+      ],
+      "duration_ms": 208800,
+      "name": "Nuestra Cancion",
+      "url": "https://open.spotify.com/track/2yB721Szta49XabGt5FQ0u"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
         "name": "La Melodia de la Calle \"Updated\"",
         "url": "https://open.spotify.com/album/6RDOn06oitF2wzme2uWDX8"
       },
@@ -535,22 +551,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Suavemente",
-        "url": "https://open.spotify.com/album/378XG6oO0TWcsGuxeQy2Os"
-      },
-      "artists": [
-        {
-          "name": "Elvis Crespo",
-          "url": "https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df"
-        }
-      ],
-      "duration_ms": 208800,
-      "name": "Nuestra Cancion",
-      "url": "https://open.spotify.com/track/2yB721Szta49XabGt5FQ0u"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "Serie 2000",
         "url": "https://open.spotify.com/album/7DZr03Gh34452PtpkVRc5m"
       },
@@ -563,22 +563,6 @@
       "duration_ms": 249813,
       "name": "Abusadora",
       "url": "https://open.spotify.com/track/5mCvkhkAvwNnUsIt2PN9Al"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "La Llave De Mi Corazon",
-        "url": "https://open.spotify.com/album/1xdl8xYY54gDXuTVhOxNSc"
-      },
-      "artists": [
-        {
-          "name": "Juan Luis Guerra 4.40",
-          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
-        }
-      ],
-      "duration_ms": 205693,
-      "name": "Como Yo",
-      "url": "https://open.spotify.com/track/6lukSvy0Oh4oImuY0ihOvH"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -599,22 +583,18 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Bendecido",
-        "url": "https://open.spotify.com/album/3Cuf5Q9DOcTGPUBIl53w00"
+        "name": "La Llave De Mi Corazon",
+        "url": "https://open.spotify.com/album/1xdl8xYY54gDXuTVhOxNSc"
       },
       "artists": [
         {
-          "name": "Dale Pututi",
-          "url": "https://open.spotify.com/artist/0qgEwzU6TJsJF0L7iyYY8z"
-        },
-        {
-          "name": "Randy Malcom",
-          "url": "https://open.spotify.com/artist/3yjUmIEZOYU9i9cU9uJGIZ"
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
         }
       ],
-      "duration_ms": 203273,
-      "name": "Bendecido",
-      "url": "https://open.spotify.com/track/0ZKCQENt4shhG0rLwot8xB"
+      "duration_ms": 205693,
+      "name": "Como Yo",
+      "url": "https://open.spotify.com/track/6lukSvy0Oh4oImuY0ihOvH"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -631,6 +611,26 @@
       "duration_ms": 250893,
       "name": "Mi Reina",
       "url": "https://open.spotify.com/track/7eXxn1Nqr4XUKTfJRzgAax"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Bendecido",
+        "url": "https://open.spotify.com/album/3Cuf5Q9DOcTGPUBIl53w00"
+      },
+      "artists": [
+        {
+          "name": "Dale Pututi",
+          "url": "https://open.spotify.com/artist/0qgEwzU6TJsJF0L7iyYY8z"
+        },
+        {
+          "name": "Randy Malcom",
+          "url": "https://open.spotify.com/artist/3yjUmIEZOYU9i9cU9uJGIZ"
+        }
+      ],
+      "duration_ms": 203273,
+      "name": "Bendecido",
+      "url": "https://open.spotify.com/track/0ZKCQENt4shhG0rLwot8xB"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -775,6 +775,22 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
+        "name": "Sac\u00fadelo Que Tiene Arena",
+        "url": "https://open.spotify.com/album/0n5HXhJ7ouB3y1a9JbLgQg"
+      },
+      "artists": [
+        {
+          "name": "Rikarena",
+          "url": "https://open.spotify.com/artist/2Z0C8UvMoiixS0cRV8Urtr"
+        }
+      ],
+      "duration_ms": 231560,
+      "name": "Ay!",
+      "url": "https://open.spotify.com/track/6vU2DPeCqKSvXUCgTaD5cS"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
         "name": "Puro Mambo",
         "url": "https://open.spotify.com/album/1kAS1xnRmN4uDN8Cp1TPcS"
       },
@@ -787,6 +803,22 @@
       "duration_ms": 261146,
       "name": "Traigo Fuego",
       "url": "https://open.spotify.com/track/5aaM6KRamITPsyLlsMb80v"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Exitos De Rasput\u00edn",
+        "url": "https://open.spotify.com/album/4COmudqnWG1tJtT9jGzN2T"
+      },
+      "artists": [
+        {
+          "name": "Rasputin",
+          "url": "https://open.spotify.com/artist/0mALzjMaKXiSauA1QuXYLY"
+        }
+      ],
+      "duration_ms": 265866,
+      "name": "Oye",
+      "url": "https://open.spotify.com/track/4kHWi013mIzQoyNNFxzJmm"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -811,22 +843,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Exitos De Rasput\u00edn",
-        "url": "https://open.spotify.com/album/4COmudqnWG1tJtT9jGzN2T"
-      },
-      "artists": [
-        {
-          "name": "Rasputin",
-          "url": "https://open.spotify.com/artist/0mALzjMaKXiSauA1QuXYLY"
-        }
-      ],
-      "duration_ms": 265866,
-      "name": "Oye",
-      "url": "https://open.spotify.com/track/4kHWi013mIzQoyNNFxzJmm"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "No Es Normal",
         "url": "https://open.spotify.com/album/3fW9ft7QAV7Wc8uofcU163"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 181894,
       "name": "No Es Normal",
       "url": "https://open.spotify.com/track/2Z4X8Y8Iedaf14Cgs0Dnri"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "Sac\u00fadelo Que Tiene Arena",
-        "url": "https://open.spotify.com/album/0n5HXhJ7ouB3y1a9JbLgQg"
-      },
-      "artists": [
-        {
-          "name": "Rikarena",
-          "url": "https://open.spotify.com/artist/2Z0C8UvMoiixS0cRV8Urtr"
-        }
-      ],
-      "duration_ms": 231560,
-      "name": "Ay!",
-      "url": "https://open.spotify.com/track/6vU2DPeCqKSvXUCgTaD5cS"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -899,22 +899,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "100% Merengue",
-        "url": "https://open.spotify.com/album/341ZS1EddJkPqUYVa8mBoI"
-      },
-      "artists": [
-        {
-          "name": "Olga Ta\u00f1\u00f3n",
-          "url": "https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE"
-        }
-      ],
-      "duration_ms": 242973,
-      "name": "Es Mentiroso",
-      "url": "https://open.spotify.com/track/31usVfDz8LKV0J0iZtgsA7"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "O.K. All Right",
         "url": "https://open.spotify.com/album/0APbv2lshYuYSoP7t4ypTv"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 318306,
       "name": "El Cantinero",
       "url": "https://open.spotify.com/track/5FLMNeZEdB0No8TebOXc0J"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "100% Merengue",
+        "url": "https://open.spotify.com/album/341ZS1EddJkPqUYVa8mBoI"
+      },
+      "artists": [
+        {
+          "name": "Olga Ta\u00f1\u00f3n",
+          "url": "https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE"
+        }
+      ],
+      "duration_ms": 242973,
+      "name": "Es Mentiroso",
+      "url": "https://open.spotify.com/track/31usVfDz8LKV0J0iZtgsA7"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -947,6 +947,22 @@
       "duration_ms": 213255,
       "name": "Soltemos al Mundo",
       "url": "https://open.spotify.com/track/66irfMtLkQh7H2F5zLclp8"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Mas Rika Que Nunca",
+        "url": "https://open.spotify.com/album/5K0Q7bheKrlS2lJQzUUueO"
+      },
+      "artists": [
+        {
+          "name": "Rikarena",
+          "url": "https://open.spotify.com/artist/2Z0C8UvMoiixS0cRV8Urtr"
+        }
+      ],
+      "duration_ms": 280533,
+      "name": "Cutibili Pacha",
+      "url": "https://open.spotify.com/track/0CcL3XBAzarwDseGAm1IFl"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -983,38 +999,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Me Enamore",
-        "url": "https://open.spotify.com/album/5yhEOwF6bRo08QhTGU9FQC"
-      },
-      "artists": [
-        {
-          "name": "Eddy Herrera",
-          "url": "https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC"
-        }
-      ],
-      "duration_ms": 300426,
-      "name": "Pegame Tu Vicio",
-      "url": "https://open.spotify.com/track/25ILWrCvXPpkUFU0R7znEv"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "Mas Rika Que Nunca",
-        "url": "https://open.spotify.com/album/5K0Q7bheKrlS2lJQzUUueO"
-      },
-      "artists": [
-        {
-          "name": "Rikarena",
-          "url": "https://open.spotify.com/artist/2Z0C8UvMoiixS0cRV8Urtr"
-        }
-      ],
-      "duration_ms": 280533,
-      "name": "Cutibili Pacha",
-      "url": "https://open.spotify.com/track/0CcL3XBAzarwDseGAm1IFl"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "LIMI-T Para Siempre",
         "url": "https://open.spotify.com/album/6tYC7QibL9ENqOc3GSdEHM"
       },
@@ -1031,34 +1015,34 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Coleccion Diamante",
-        "url": "https://open.spotify.com/album/05ICn9Npd5HZJgKDnaMByf"
+        "name": "Borracho Me Doli\u00f3",
+        "url": "https://open.spotify.com/album/6AE77a72SdgWl4W55LcSny"
       },
       "artists": [
         {
-          "name": "Wilfrido Vargas",
-          "url": "https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4"
+          "name": "Tutto Dur\u00e1n",
+          "url": "https://open.spotify.com/artist/6J5DvhqOWQlM4RcdzePXEZ"
         }
       ],
-      "duration_ms": 255080,
-      "name": "El Hombre Divertido",
-      "url": "https://open.spotify.com/track/75ngzYAvEAuc8YvQgo76iA"
+      "duration_ms": 188160,
+      "name": "Borracho Me Doli\u00f3",
+      "url": "https://open.spotify.com/track/2z6vCpMGkY9vmJqMCsbrnj"
     },
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "La Vida Da Vuelta",
-        "url": "https://open.spotify.com/album/1U5Ulw5MM2Qv5BafWrF4h1"
+        "name": "Me Enamore",
+        "url": "https://open.spotify.com/album/5yhEOwF6bRo08QhTGU9FQC"
       },
       "artists": [
         {
-          "name": "Olga Ta\u00f1\u00f3n",
-          "url": "https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE"
+          "name": "Eddy Herrera",
+          "url": "https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC"
         }
       ],
-      "duration_ms": 162882,
-      "name": "La Vida Da Vuelta",
-      "url": "https://open.spotify.com/track/2sJkbRybtcw6nq9sN4fpad"
+      "duration_ms": 300426,
+      "name": "Pegame Tu Vicio",
+      "url": "https://open.spotify.com/track/25ILWrCvXPpkUFU0R7znEv"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1079,18 +1063,70 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Borracho Me Doli\u00f3",
-        "url": "https://open.spotify.com/album/6AE77a72SdgWl4W55LcSny"
+        "name": "La Vida Da Vuelta",
+        "url": "https://open.spotify.com/album/1U5Ulw5MM2Qv5BafWrF4h1"
       },
       "artists": [
         {
-          "name": "Tutto Dur\u00e1n",
-          "url": "https://open.spotify.com/artist/6J5DvhqOWQlM4RcdzePXEZ"
+          "name": "Olga Ta\u00f1\u00f3n",
+          "url": "https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE"
         }
       ],
-      "duration_ms": 188160,
-      "name": "Borracho Me Doli\u00f3",
-      "url": "https://open.spotify.com/track/2z6vCpMGkY9vmJqMCsbrnj"
+      "duration_ms": 162882,
+      "name": "La Vida Da Vuelta",
+      "url": "https://open.spotify.com/track/2sJkbRybtcw6nq9sN4fpad"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Coleccion Diamante",
+        "url": "https://open.spotify.com/album/05ICn9Npd5HZJgKDnaMByf"
+      },
+      "artists": [
+        {
+          "name": "Wilfrido Vargas",
+          "url": "https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4"
+        }
+      ],
+      "duration_ms": 255080,
+      "name": "El Hombre Divertido",
+      "url": "https://open.spotify.com/track/75ngzYAvEAuc8YvQgo76iA"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Moriso\u00f1ando, Vol. 1",
+        "url": "https://open.spotify.com/album/3VnsfmLE5l8HDbniGw707B"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Pagan",
+          "url": "https://open.spotify.com/artist/3InfS9TeNQro4bp9EWtuyP"
+        },
+        {
+          "name": "Proyecto Uno",
+          "url": "https://open.spotify.com/artist/6w1XCiB8efbfnusJ2jzmvu"
+        }
+      ],
+      "duration_ms": 230819,
+      "name": "Another Night",
+      "url": "https://open.spotify.com/track/6ZOZW00i9w8wwfwZtpreZI"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Exitos De",
+        "url": "https://open.spotify.com/album/3y8cbEFw6qI5hsFKBbLEYr"
+      },
+      "artists": [
+        {
+          "name": "Eddy Herrera",
+          "url": "https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC"
+        }
+      ],
+      "duration_ms": 295320,
+      "name": "Tu Eres Ajena",
+      "url": "https://open.spotify.com/track/7rK8ZDv0TpSf95HUC59bxz"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1115,42 +1151,6 @@
       "duration_ms": 947950,
       "name": "La Reuni\u00f3n 5 : La Bailadora / El Amor M\u00e1s Grande del Planeta / Si Tu Te Vas / Tu Hombre Soy Yo / Un Idiota / Voy a Beber / Nuestro Amor / Mi Celosa Hermosa / T\u00fa Eres Ajena / Borracha - En Vivo",
       "url": "https://open.spotify.com/track/4tLNxU08ccx6jrj3MK14ol"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "Exitos De",
-        "url": "https://open.spotify.com/album/3y8cbEFw6qI5hsFKBbLEYr"
-      },
-      "artists": [
-        {
-          "name": "Eddy Herrera",
-          "url": "https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC"
-        }
-      ],
-      "duration_ms": 295320,
-      "name": "Tu Eres Ajena",
-      "url": "https://open.spotify.com/track/7rK8ZDv0TpSf95HUC59bxz"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "Moriso\u00f1ando, Vol. 1",
-        "url": "https://open.spotify.com/album/3VnsfmLE5l8HDbniGw707B"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Pagan",
-          "url": "https://open.spotify.com/artist/3InfS9TeNQro4bp9EWtuyP"
-        },
-        {
-          "name": "Proyecto Uno",
-          "url": "https://open.spotify.com/artist/6w1XCiB8efbfnusJ2jzmvu"
-        }
-      ],
-      "duration_ms": 230819,
-      "name": "Another Night",
-      "url": "https://open.spotify.com/track/6ZOZW00i9w8wwfwZtpreZI"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Imparable",
-        "url": "https://open.spotify.com/album/700tpyzeI5UxIIW8j2ds7K"
-      },
-      "artists": [
-        {
-          "name": "Eddy Herrera",
-          "url": "https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC"
-        }
-      ],
-      "duration_ms": 211098,
-      "name": "Sin Rumbo",
-      "url": "https://open.spotify.com/track/7BJz4hamLaRwAcI1KtLHeI"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "Serie 2000",
         "url": "https://open.spotify.com/album/7DZr03Gh34452PtpkVRc5m"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 265680,
       "name": "Volver\u00e9",
       "url": "https://open.spotify.com/track/0HFBBgkhwJMvPiEDIkEsyt"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Imparable",
+        "url": "https://open.spotify.com/album/700tpyzeI5UxIIW8j2ds7K"
+      },
+      "artists": [
+        {
+          "name": "Eddy Herrera",
+          "url": "https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC"
+        }
+      ],
+      "duration_ms": 211098,
+      "name": "Sin Rumbo",
+      "url": "https://open.spotify.com/track/7BJz4hamLaRwAcI1KtLHeI"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Juntos",
-        "url": "https://open.spotify.com/album/6yq4tvlzSBaHvdsb8dPg2X"
-      },
-      "artists": [
-        {
-          "name": "Sergio Vargas",
-          "url": "https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs"
-        }
-      ],
-      "duration_ms": 302213,
-      "name": "Dile",
-      "url": "https://open.spotify.com/track/1pGgGsZLPNPwVAMZgi0cpL"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "No Toy En Ti",
         "url": "https://open.spotify.com/album/3ThubO1iZCTdnci01gnpSE"
       },
@@ -1563,18 +1547,18 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "20th Anniversary",
-        "url": "https://open.spotify.com/album/2t1J456wqiV9uKy2ILiS7G"
+        "name": "Juntos",
+        "url": "https://open.spotify.com/album/6yq4tvlzSBaHvdsb8dPg2X"
       },
       "artists": [
         {
-          "name": "Zafra Negra",
-          "url": "https://open.spotify.com/artist/0xBILQlkSWm8I2eQoUpoht"
+          "name": "Sergio Vargas",
+          "url": "https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs"
         }
       ],
-      "duration_ms": 277803,
-      "name": "Coqueta y Sabrosa",
-      "url": "https://open.spotify.com/track/2eqcBuixUaODqSy1aDeXTP"
+      "duration_ms": 302213,
+      "name": "Dile",
+      "url": "https://open.spotify.com/track/1pGgGsZLPNPwVAMZgi0cpL"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1595,6 +1579,22 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
+        "name": "20th Anniversary",
+        "url": "https://open.spotify.com/album/2t1J456wqiV9uKy2ILiS7G"
+      },
+      "artists": [
+        {
+          "name": "Zafra Negra",
+          "url": "https://open.spotify.com/artist/0xBILQlkSWm8I2eQoUpoht"
+        }
+      ],
+      "duration_ms": 277803,
+      "name": "Coqueta y Sabrosa",
+      "url": "https://open.spotify.com/track/2eqcBuixUaODqSy1aDeXTP"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
         "name": "No Me Veran Caer",
         "url": "https://open.spotify.com/album/05y07x6dL5mGyy8HVnobt8"
       },
@@ -1607,22 +1607,6 @@
       "duration_ms": 222426,
       "name": "No Me Veran Caer",
       "url": "https://open.spotify.com/track/6Jjr2fRVXtwMQoY94ybm9M"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "22 Ultimate Merengue Hits 2002",
-        "url": "https://open.spotify.com/album/0eTqDy2Pkmo7REdNrXBBGQ"
-      },
-      "artists": [
-        {
-          "name": "Grupo Mania",
-          "url": "https://open.spotify.com/artist/2RqhDUsFkCJbhHntsnCVqp"
-        }
-      ],
-      "duration_ms": 171040,
-      "name": "Me Miras Y Te Miro - New Version",
-      "url": "https://open.spotify.com/track/5yRdwws9A2CWy9caVCox6q"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1659,22 +1643,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Lo Mejor de Lo Mejor - Tropical",
-        "url": "https://open.spotify.com/album/7Mvvbvm1ALm9bO9dEn7C3i"
-      },
-      "artists": [
-        {
-          "name": "Sergio Vargas",
-          "url": "https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs"
-        }
-      ],
-      "duration_ms": 286026,
-      "name": "La Ventanita",
-      "url": "https://open.spotify.com/track/36QUTKmqStL4Ye8s9xeTlc"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "QUIERO",
         "url": "https://open.spotify.com/album/6xIvpqSVmpAIWyXMHE5ceU"
       },
@@ -1707,6 +1675,38 @@
       "duration_ms": 207906,
       "name": "Amapola",
       "url": "https://open.spotify.com/track/7lxyCH0EgKyrxzsyZybkDV"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "22 Ultimate Merengue Hits 2002",
+        "url": "https://open.spotify.com/album/0eTqDy2Pkmo7REdNrXBBGQ"
+      },
+      "artists": [
+        {
+          "name": "Grupo Mania",
+          "url": "https://open.spotify.com/artist/2RqhDUsFkCJbhHntsnCVqp"
+        }
+      ],
+      "duration_ms": 171040,
+      "name": "Me Miras Y Te Miro - New Version",
+      "url": "https://open.spotify.com/track/5yRdwws9A2CWy9caVCox6q"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "A Las Ilusas De Mi Marido",
+        "url": "https://open.spotify.com/album/7DyuSQm2UGYw1GvWajnJr2"
+      },
+      "artists": [
+        {
+          "name": "Miriam Cruz",
+          "url": "https://open.spotify.com/artist/4O2mePlghucfEGSsMSmjWL"
+        }
+      ],
+      "duration_ms": 221500,
+      "name": "A Las Ilusas De Mi Marido",
+      "url": "https://open.spotify.com/track/4jLiMmLFOY5xfms4LSfmVg"
     }
   ],
   "unique_name": "Merengue Mania",

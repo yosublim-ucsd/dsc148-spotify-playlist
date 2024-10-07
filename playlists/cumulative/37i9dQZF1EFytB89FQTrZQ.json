@@ -1215,6 +1215,24 @@
     },
     {
       "album": {
+        "name": "3 of Us",
+        "url": "https://open.spotify.com/album/3wjvkDUEECwgqVhIfNPQSV"
+      },
+      "artists": [
+        {
+          "name": "FLO",
+          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
+        }
+      ],
+      "date_added": "2024-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Change",
+      "url": "https://open.spotify.com/track/65KZuAz5UdEXiS2YulhjDe"
+    },
+    {
+      "album": {
         "name": "Change My Love",
         "url": "https://open.spotify.com/album/3p3c0o6PCYCR49JLs2topV"
       },

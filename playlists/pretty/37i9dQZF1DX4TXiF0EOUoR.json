@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Los reyes del jaripeo!",
-  "num_followers": 210530,
+  "num_followers": 210668,
   "original_name": "Jaripeo",
   "owner": {
     "name": "Spotify",
@@ -251,22 +251,6 @@
     {
       "added_at": "2024-08-28 01:03:24",
       "album": {
-        "name": "20 Exitos de Ley",
-        "url": "https://open.spotify.com/album/5vneQUtrAtGXvKsoGyGxa1"
-      },
-      "artists": [
-        {
-          "name": "Tierra Cali",
-          "url": "https://open.spotify.com/artist/4JqzwqRUOCEHeIVRDWG5Jv"
-        }
-      ],
-      "duration_ms": 216013,
-      "name": "El Baile del Sacadito",
-      "url": "https://open.spotify.com/track/5hk73dL1v4ZX2deqiFiBW5"
-    },
-    {
-      "added_at": "2024-08-28 01:03:24",
-      "album": {
         "name": "Zapateado Endemoniado",
         "url": "https://open.spotify.com/album/5eQAXWYl9yiUHEH2X1qUKy"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 168600,
       "name": "Orde\u00f1ando la Vaca",
       "url": "https://open.spotify.com/track/0zfzPt18qFfK0FV6L4AYYB"
+    },
+    {
+      "added_at": "2024-08-28 01:03:24",
+      "album": {
+        "name": "20 Exitos de Ley",
+        "url": "https://open.spotify.com/album/5vneQUtrAtGXvKsoGyGxa1"
+      },
+      "artists": [
+        {
+          "name": "Tierra Cali",
+          "url": "https://open.spotify.com/artist/4JqzwqRUOCEHeIVRDWG5Jv"
+        }
+      ],
+      "duration_ms": 216013,
+      "name": "El Baile del Sacadito",
+      "url": "https://open.spotify.com/track/5hk73dL1v4ZX2deqiFiBW5"
     },
     {
       "added_at": "2024-08-28 01:03:24",
@@ -379,22 +379,6 @@
     {
       "added_at": "2024-08-28 01:03:24",
       "album": {
-        "name": "Que Bonito Es Lo Bonito",
-        "url": "https://open.spotify.com/album/1Bnb8merB3783bs12XA2Fl"
-      },
-      "artists": [
-        {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
-        }
-      ],
-      "duration_ms": 166093,
-      "name": "El Ahualulco",
-      "url": "https://open.spotify.com/track/1tcHkEZH1FoYEFmEpDIJp1"
-    },
-    {
-      "added_at": "2024-08-28 01:03:24",
-      "album": {
         "name": "Me Gusta Todo De Ti",
         "url": "https://open.spotify.com/album/4hvGomO1PrVwRkfBZqigSO"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 120240,
       "name": "La Cuichi",
       "url": "https://open.spotify.com/track/5MJWoHFH5pOemxZuObv42p"
+    },
+    {
+      "added_at": "2024-08-28 01:03:24",
+      "album": {
+        "name": "Que Bonito Es Lo Bonito",
+        "url": "https://open.spotify.com/album/1Bnb8merB3783bs12XA2Fl"
+      },
+      "artists": [
+        {
+          "name": "Banda El Recodo",
+          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+        }
+      ],
+      "duration_ms": 166093,
+      "name": "El Ahualulco",
+      "url": "https://open.spotify.com/track/1tcHkEZH1FoYEFmEpDIJp1"
     },
     {
       "added_at": "2024-08-28 01:03:24",
@@ -463,22 +463,6 @@
     {
       "added_at": "2024-08-28 01:03:24",
       "album": {
-        "name": "Desqu\u00edtate Conmigo",
-        "url": "https://open.spotify.com/album/3khJ0CsPZTkhU2PidmUk6S"
-      },
-      "artists": [
-        {
-          "name": "Banda Tierra Mojada",
-          "url": "https://open.spotify.com/artist/7qiTcZri2NHe9Et3zAPAci"
-        }
-      ],
-      "duration_ms": 210910,
-      "name": "Jinetes en el Cielo",
-      "url": "https://open.spotify.com/track/4SBMb814lP3UT0yG2ycJZa"
-    },
-    {
-      "added_at": "2024-08-28 01:03:24",
-      "album": {
         "name": "Banda La Jaripera Vol.1",
         "url": "https://open.spotify.com/album/0GAamZXoKD58SatXppxSSn"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 145520,
       "name": "Arriba Pichataro",
       "url": "https://open.spotify.com/track/2LlavtI2ZyzTEEgPwOXrLg"
+    },
+    {
+      "added_at": "2024-08-28 01:03:24",
+      "album": {
+        "name": "Desqu\u00edtate Conmigo",
+        "url": "https://open.spotify.com/album/3khJ0CsPZTkhU2PidmUk6S"
+      },
+      "artists": [
+        {
+          "name": "Banda Tierra Mojada",
+          "url": "https://open.spotify.com/artist/7qiTcZri2NHe9Et3zAPAci"
+        }
+      ],
+      "duration_ms": 210910,
+      "name": "Jinetes en el Cielo",
+      "url": "https://open.spotify.com/track/4SBMb814lP3UT0yG2ycJZa"
     },
     {
       "added_at": "2024-08-28 01:03:24",
@@ -527,22 +527,6 @@
     {
       "added_at": "2024-08-28 01:03:24",
       "album": {
-        "name": "Puras Pa'levantar la Polvadera",
-        "url": "https://open.spotify.com/album/6acbGb816Kw2vWjPL5uC2F"
-      },
-      "artists": [
-        {
-          "name": "Banda Bucanera",
-          "url": "https://open.spotify.com/artist/2sudy981RKHBlYmb5ByWSy"
-        }
-      ],
-      "duration_ms": 171740,
-      "name": "El Son de la Tambora",
-      "url": "https://open.spotify.com/track/5ZThyGO1Bj0fe1IZuyomad"
-    },
-    {
-      "added_at": "2024-08-28 01:03:24",
-      "album": {
         "name": "Con La No. 1: Del Pueblo...y Para El Pueblo",
         "url": "https://open.spotify.com/album/67KfLdhQa8X7kI1XM8eJaw"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 174453,
       "name": "La Fea",
       "url": "https://open.spotify.com/track/5pYQp20M7Ul2W1Q7fYhVrh"
+    },
+    {
+      "added_at": "2024-08-28 01:03:24",
+      "album": {
+        "name": "Puras Pa'levantar la Polvadera",
+        "url": "https://open.spotify.com/album/6acbGb816Kw2vWjPL5uC2F"
+      },
+      "artists": [
+        {
+          "name": "Banda Bucanera",
+          "url": "https://open.spotify.com/artist/2sudy981RKHBlYmb5ByWSy"
+        }
+      ],
+      "duration_ms": 171740,
+      "name": "El Son de la Tambora",
+      "url": "https://open.spotify.com/track/5ZThyGO1Bj0fe1IZuyomad"
     },
     {
       "added_at": "2024-08-28 01:03:24",
@@ -607,6 +607,42 @@
     {
       "added_at": "2024-08-28 01:03:24",
       "album": {
+        "name": "La Trayectoria! (De Arturo Camarillo)",
+        "url": "https://open.spotify.com/album/5mcVVKulTCGOStTTJ6Pgir"
+      },
+      "artists": [
+        {
+          "name": "Banda Trancazo",
+          "url": "https://open.spotify.com/artist/6RS70ocGGNzPKiJVhgf3m9"
+        },
+        {
+          "name": "Arturo Camarillo",
+          "url": "https://open.spotify.com/artist/3p0GWiyIY3AOcBWvXXVQ4h"
+        }
+      ],
+      "duration_ms": 164466,
+      "name": "Oye Traicionera",
+      "url": "https://open.spotify.com/track/38PM1JFTCqvHHFbc230ud1"
+    },
+    {
+      "added_at": "2024-08-28 01:03:24",
+      "album": {
+        "name": "Puras De Viento En Vivo, Vol. 2",
+        "url": "https://open.spotify.com/album/2I1QM5M1gqlrpV6IbkYUrz"
+      },
+      "artists": [
+        {
+          "name": "Banda Renovacion",
+          "url": "https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk"
+        }
+      ],
+      "duration_ms": 175934,
+      "name": "La Conga Roja - En Vivo",
+      "url": "https://open.spotify.com/track/4KdUaKzkre2iDLqR8N6W3I"
+    },
+    {
+      "added_at": "2024-08-28 01:03:24",
+      "album": {
         "name": "Carnavaleando con la Tierra Mojada",
         "url": "https://open.spotify.com/album/5znsyujVo3YajOYUiSUdnQ"
       },
@@ -635,26 +671,6 @@
       "duration_ms": 159706,
       "name": "El Jaripeo",
       "url": "https://open.spotify.com/track/121OuFnnXX59x9wgf3pFyU"
-    },
-    {
-      "added_at": "2024-08-28 01:03:24",
-      "album": {
-        "name": "La Trayectoria! (De Arturo Camarillo)",
-        "url": "https://open.spotify.com/album/5mcVVKulTCGOStTTJ6Pgir"
-      },
-      "artists": [
-        {
-          "name": "Banda Trancazo",
-          "url": "https://open.spotify.com/artist/6RS70ocGGNzPKiJVhgf3m9"
-        },
-        {
-          "name": "Arturo Camarillo",
-          "url": "https://open.spotify.com/artist/3p0GWiyIY3AOcBWvXXVQ4h"
-        }
-      ],
-      "duration_ms": 164466,
-      "name": "Oye Traicionera",
-      "url": "https://open.spotify.com/track/38PM1JFTCqvHHFbc230ud1"
     },
     {
       "added_at": "2024-08-28 01:03:24",
@@ -691,22 +707,6 @@
       "duration_ms": 178933,
       "name": "Por Una Lagrima",
       "url": "https://open.spotify.com/track/5XBtCDWEbrNMNYPl73SGu5"
-    },
-    {
-      "added_at": "2024-08-28 01:03:24",
-      "album": {
-        "name": "Puras De Viento En Vivo, Vol. 2",
-        "url": "https://open.spotify.com/album/2I1QM5M1gqlrpV6IbkYUrz"
-      },
-      "artists": [
-        {
-          "name": "Banda Renovacion",
-          "url": "https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk"
-        }
-      ],
-      "duration_ms": 175934,
-      "name": "La Conga Roja - En Vivo",
-      "url": "https://open.spotify.com/track/4KdUaKzkre2iDLqR8N6W3I"
     },
     {
       "added_at": "2024-08-28 01:03:24",
@@ -775,6 +775,22 @@
     {
       "added_at": "2024-08-28 01:03:24",
       "album": {
+        "name": "Mujer Interesada",
+        "url": "https://open.spotify.com/album/61bBUzkom2CEA555x0dF8a"
+      },
+      "artists": [
+        {
+          "name": "Los Infinitos Puro Zirahuen",
+          "url": "https://open.spotify.com/artist/1CUhdRw7cr3alXldvYkuH9"
+        }
+      ],
+      "duration_ms": 160011,
+      "name": "Mujer Interesada",
+      "url": "https://open.spotify.com/track/04CFuPjz3XcbbrWAMsi55V"
+    },
+    {
+      "added_at": "2024-08-28 01:03:24",
+      "album": {
         "name": "Puras Carnavaleras, Vol. 2",
         "url": "https://open.spotify.com/album/332rbeyvixuVxaVsNoS02G"
       },
@@ -795,18 +811,18 @@
     {
       "added_at": "2024-08-28 01:03:24",
       "album": {
-        "name": "Mujer Interesada",
-        "url": "https://open.spotify.com/album/61bBUzkom2CEA555x0dF8a"
+        "name": "De Puro Gusto! (18 A\u00f1os de Trayectoria)",
+        "url": "https://open.spotify.com/album/5BMdxiYzfvfpdBC7oc0WIx"
       },
       "artists": [
         {
-          "name": "Los Infinitos Puro Zirahuen",
-          "url": "https://open.spotify.com/artist/1CUhdRw7cr3alXldvYkuH9"
+          "name": "Banda Monarca de Morelia",
+          "url": "https://open.spotify.com/artist/5iGyyOAirGdcluvetz7mMn"
         }
       ],
-      "duration_ms": 160011,
-      "name": "Mujer Interesada",
-      "url": "https://open.spotify.com/track/04CFuPjz3XcbbrWAMsi55V"
+      "duration_ms": 192989,
+      "name": "Los Mayeles - Sones para Jaripeo",
+      "url": "https://open.spotify.com/track/6wpAMs81FDzTKIbrFtQWEN"
     },
     {
       "added_at": "2024-08-28 01:03:24",
@@ -839,22 +855,6 @@
       "duration_ms": 246903,
       "name": "Y Claro Que Se Puede - Sones para Jaripeo",
       "url": "https://open.spotify.com/track/5HH3ziXLVxqXYnDk7mJkLf"
-    },
-    {
-      "added_at": "2024-08-28 01:03:24",
-      "album": {
-        "name": "De Puro Gusto! (18 A\u00f1os de Trayectoria)",
-        "url": "https://open.spotify.com/album/5BMdxiYzfvfpdBC7oc0WIx"
-      },
-      "artists": [
-        {
-          "name": "Banda Monarca de Morelia",
-          "url": "https://open.spotify.com/artist/5iGyyOAirGdcluvetz7mMn"
-        }
-      ],
-      "duration_ms": 192989,
-      "name": "Los Mayeles - Sones para Jaripeo",
-      "url": "https://open.spotify.com/track/6wpAMs81FDzTKIbrFtQWEN"
     },
     {
       "added_at": "2024-08-28 01:03:24",
@@ -987,26 +987,6 @@
     {
       "added_at": "2024-08-28 01:03:24",
       "album": {
-        "name": "Zapateado Perron",
-        "url": "https://open.spotify.com/album/3Lz2dyR7iYlDI600eyCDD6"
-      },
-      "artists": [
-        {
-          "name": "Marco Flores Y La Jerez",
-          "url": "https://open.spotify.com/artist/3cseuYmozraz4XJn6nDo80"
-        },
-        {
-          "name": "Banda Los Escamilla",
-          "url": "https://open.spotify.com/artist/1QOcySvn6xdJQlWVnn9LVE"
-        }
-      ],
-      "duration_ms": 167100,
-      "name": "Los Colorados (feat. Banda los Escamilla)",
-      "url": "https://open.spotify.com/track/5xLUgaS5V8x2cDfvdwH4Je"
-    },
-    {
-      "added_at": "2024-08-28 01:03:24",
-      "album": {
         "name": "Jalados Con La Banda Punto Medio \"Puras De Viento\"",
         "url": "https://open.spotify.com/album/7dRYiCEWT2XSMhyBE595PO"
       },
@@ -1071,6 +1051,26 @@
     {
       "added_at": "2024-08-28 01:03:24",
       "album": {
+        "name": "Zapateado Perron",
+        "url": "https://open.spotify.com/album/3Lz2dyR7iYlDI600eyCDD6"
+      },
+      "artists": [
+        {
+          "name": "Marco Flores Y La Jerez",
+          "url": "https://open.spotify.com/artist/3cseuYmozraz4XJn6nDo80"
+        },
+        {
+          "name": "Banda Los Escamilla",
+          "url": "https://open.spotify.com/artist/1QOcySvn6xdJQlWVnn9LVE"
+        }
+      ],
+      "duration_ms": 167100,
+      "name": "Los Colorados (feat. Banda los Escamilla)",
+      "url": "https://open.spotify.com/track/5xLUgaS5V8x2cDfvdwH4Je"
+    },
+    {
+      "added_at": "2024-08-28 01:03:24",
+      "album": {
         "name": "Mujer Alegre",
         "url": "https://open.spotify.com/album/5l1c87A41VA7IZijmFfdat"
       },
@@ -1107,6 +1107,22 @@
     {
       "added_at": "2024-08-28 01:03:24",
       "album": {
+        "name": "De Michoac\u00e1n al Guamuchil (Los Mejores Sones de Jaripeo)",
+        "url": "https://open.spotify.com/album/5L4DglvthWqL4C95K4xhzQ"
+      },
+      "artists": [
+        {
+          "name": "Banda Alte\u00f1ita de Morelia",
+          "url": "https://open.spotify.com/artist/17ND8vMcTSrwhZOUvG7CnA"
+        }
+      ],
+      "duration_ms": 128224,
+      "name": "Las Calandrias",
+      "url": "https://open.spotify.com/track/7hrnVefqSjCAcTpS02KiG3"
+    },
+    {
+      "added_at": "2024-08-28 01:03:24",
+      "album": {
         "name": "Que Lindo Es Michoac\u00e1n! (Puros Sones!)",
         "url": "https://open.spotify.com/album/2SZ3bcNDilMhbkhCBZv8WR"
       },
@@ -1139,34 +1155,18 @@
     {
       "added_at": "2024-08-28 01:03:24",
       "album": {
-        "name": "Puras de Viento, Vol. 1",
-        "url": "https://open.spotify.com/album/28mc6PwouKVxKjoKlsmEtm"
+        "name": "Y de Aqu\u00ed Pal Real - La Herencia del Rey",
+        "url": "https://open.spotify.com/album/0FbblTEqO5rSjJshBoIyRR"
       },
       "artists": [
         {
-          "name": "Banda Renovacion",
-          "url": "https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk"
+          "name": "Banda Cruz De La Candelaria",
+          "url": "https://open.spotify.com/artist/0YzzMBA0jYCOSQojb3AtYr"
         }
       ],
-      "duration_ms": 205080,
-      "name": "Amores de Julia",
-      "url": "https://open.spotify.com/track/05yWQdfjN7vuJOwMUhpFq9"
-    },
-    {
-      "added_at": "2024-08-28 01:03:24",
-      "album": {
-        "name": "De Michoac\u00e1n al Guamuchil (Los Mejores Sones de Jaripeo)",
-        "url": "https://open.spotify.com/album/5L4DglvthWqL4C95K4xhzQ"
-      },
-      "artists": [
-        {
-          "name": "Banda Alte\u00f1ita de Morelia",
-          "url": "https://open.spotify.com/artist/17ND8vMcTSrwhZOUvG7CnA"
-        }
-      ],
-      "duration_ms": 128224,
-      "name": "Las Calandrias",
-      "url": "https://open.spotify.com/track/7hrnVefqSjCAcTpS02KiG3"
+      "duration_ms": 274064,
+      "name": "Popurr\u00ed: B\u00e9same Morenita / La Loba del Mal / Las Guilotas",
+      "url": "https://open.spotify.com/track/2zgC1cNMpGtiiCMAiX3AxV"
     },
     {
       "added_at": "2024-08-28 01:03:24",
@@ -1187,18 +1187,50 @@
     {
       "added_at": "2024-08-28 01:03:24",
       "album": {
-        "name": "Y de Aqu\u00ed Pal Real - La Herencia del Rey",
-        "url": "https://open.spotify.com/album/0FbblTEqO5rSjJshBoIyRR"
+        "name": "De Michoac\u00e1n al Guamuchil (Los Mejores Sones de Jaripeo)",
+        "url": "https://open.spotify.com/album/5L4DglvthWqL4C95K4xhzQ"
       },
       "artists": [
         {
-          "name": "Banda Cruz De La Candelaria",
-          "url": "https://open.spotify.com/artist/0YzzMBA0jYCOSQojb3AtYr"
+          "name": "Banda Alte\u00f1ita de Morelia",
+          "url": "https://open.spotify.com/artist/17ND8vMcTSrwhZOUvG7CnA"
         }
       ],
-      "duration_ms": 274064,
-      "name": "Popurr\u00ed: B\u00e9same Morenita / La Loba del Mal / Las Guilotas",
-      "url": "https://open.spotify.com/track/2zgC1cNMpGtiiCMAiX3AxV"
+      "duration_ms": 183177,
+      "name": "Recuerdos a Hern\u00e1n",
+      "url": "https://open.spotify.com/track/6Jii7DExy2n4XzOGOhingJ"
+    },
+    {
+      "added_at": "2024-08-28 01:03:24",
+      "album": {
+        "name": "Las Alegres de los Infinitos",
+        "url": "https://open.spotify.com/album/2i5ASZlby3bDtfMaAMAr3d"
+      },
+      "artists": [
+        {
+          "name": "Los Infinitos Puro Zirahuen",
+          "url": "https://open.spotify.com/artist/1CUhdRw7cr3alXldvYkuH9"
+        }
+      ],
+      "duration_ms": 161946,
+      "name": "La Feria de Cali",
+      "url": "https://open.spotify.com/track/1yNugyc4i6Jym2iHc6aRpm"
+    },
+    {
+      "added_at": "2024-08-28 01:03:24",
+      "album": {
+        "name": "Puras de Viento, Vol. 1",
+        "url": "https://open.spotify.com/album/28mc6PwouKVxKjoKlsmEtm"
+      },
+      "artists": [
+        {
+          "name": "Banda Renovacion",
+          "url": "https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk"
+        }
+      ],
+      "duration_ms": 205080,
+      "name": "Amores de Julia",
+      "url": "https://open.spotify.com/track/05yWQdfjN7vuJOwMUhpFq9"
     },
     {
       "added_at": "2024-08-28 01:03:24",
@@ -1235,22 +1267,6 @@
     {
       "added_at": "2024-08-28 01:03:24",
       "album": {
-        "name": "Las Alegres de los Infinitos",
-        "url": "https://open.spotify.com/album/2i5ASZlby3bDtfMaAMAr3d"
-      },
-      "artists": [
-        {
-          "name": "Los Infinitos Puro Zirahuen",
-          "url": "https://open.spotify.com/artist/1CUhdRw7cr3alXldvYkuH9"
-        }
-      ],
-      "duration_ms": 161946,
-      "name": "La Feria de Cali",
-      "url": "https://open.spotify.com/track/1yNugyc4i6Jym2iHc6aRpm"
-    },
-    {
-      "added_at": "2024-08-28 01:03:24",
-      "album": {
         "name": "Puros Popurris De Sones",
         "url": "https://open.spotify.com/album/2DbxbOYecqfAD3alfKSSXJ"
       },
@@ -1267,22 +1283,6 @@
     {
       "added_at": "2024-08-28 01:03:24",
       "album": {
-        "name": "De Michoac\u00e1n al Guamuchil (Los Mejores Sones de Jaripeo)",
-        "url": "https://open.spotify.com/album/5L4DglvthWqL4C95K4xhzQ"
-      },
-      "artists": [
-        {
-          "name": "Banda Alte\u00f1ita de Morelia",
-          "url": "https://open.spotify.com/artist/17ND8vMcTSrwhZOUvG7CnA"
-        }
-      ],
-      "duration_ms": 183177,
-      "name": "Recuerdos a Hern\u00e1n",
-      "url": "https://open.spotify.com/track/6Jii7DExy2n4XzOGOhingJ"
-    },
-    {
-      "added_at": "2024-08-28 01:03:24",
-      "album": {
         "name": "Fiesta de Enero",
         "url": "https://open.spotify.com/album/14wBf39CUmkvJqXvR8OKPg"
       },
@@ -1295,6 +1295,22 @@
       "duration_ms": 145397,
       "name": "Fiesta de Enero",
       "url": "https://open.spotify.com/track/5KhK6Wjsr7GBeLKrPlWune"
+    },
+    {
+      "added_at": "2024-08-28 01:03:24",
+      "album": {
+        "name": "Las Alegres de los Infinitos",
+        "url": "https://open.spotify.com/album/2i5ASZlby3bDtfMaAMAr3d"
+      },
+      "artists": [
+        {
+          "name": "Los Infinitos Puro Zirahuen",
+          "url": "https://open.spotify.com/artist/1CUhdRw7cr3alXldvYkuH9"
+        }
+      ],
+      "duration_ms": 253015,
+      "name": "El Carretero",
+      "url": "https://open.spotify.com/track/5Li8aTVHhTJgAfocGruRpw"
     },
     {
       "added_at": "2024-08-28 01:03:24",
@@ -1383,38 +1399,6 @@
     {
       "added_at": "2024-08-28 01:03:24",
       "album": {
-        "name": "En Vivo Desde Colima, Vol. 2",
-        "url": "https://open.spotify.com/album/79T7IMva98HwHfjvygeY6n"
-      },
-      "artists": [
-        {
-          "name": "Banda Imperio De Colima",
-          "url": "https://open.spotify.com/artist/56SZMqIcnEJrJOEG0DoT9s"
-        }
-      ],
-      "duration_ms": 207621,
-      "name": "Arriba Pichantaro (En Vivo)",
-      "url": "https://open.spotify.com/track/0uJZHtY7QhTXWdoJemOwHl"
-    },
-    {
-      "added_at": "2024-08-28 01:03:24",
-      "album": {
-        "name": "Las Alegres de los Infinitos",
-        "url": "https://open.spotify.com/album/2i5ASZlby3bDtfMaAMAr3d"
-      },
-      "artists": [
-        {
-          "name": "Los Infinitos Puro Zirahuen",
-          "url": "https://open.spotify.com/artist/1CUhdRw7cr3alXldvYkuH9"
-        }
-      ],
-      "duration_ms": 253015,
-      "name": "El Carretero",
-      "url": "https://open.spotify.com/track/5Li8aTVHhTJgAfocGruRpw"
-    },
-    {
-      "added_at": "2024-08-28 01:03:24",
-      "album": {
         "name": "De Puro Gusto! (18 A\u00f1os de Trayectoria)",
         "url": "https://open.spotify.com/album/5BMdxiYzfvfpdBC7oc0WIx"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 180197,
       "name": "La Amachona - Sones para Jaripeo",
       "url": "https://open.spotify.com/track/6ZrBD31V7AhBqnCcDDEibM"
+    },
+    {
+      "added_at": "2024-08-28 01:03:24",
+      "album": {
+        "name": "En Vivo Desde Colima, Vol. 2",
+        "url": "https://open.spotify.com/album/79T7IMva98HwHfjvygeY6n"
+      },
+      "artists": [
+        {
+          "name": "Banda Imperio De Colima",
+          "url": "https://open.spotify.com/artist/56SZMqIcnEJrJOEG0DoT9s"
+        }
+      ],
+      "duration_ms": 207621,
+      "name": "Arriba Pichantaro (En Vivo)",
+      "url": "https://open.spotify.com/track/0uJZHtY7QhTXWdoJemOwHl"
     },
     {
       "added_at": "2024-08-28 01:03:24",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2024-08-28 01:03:24",
       "album": {
-        "name": "Jalados Con La Banda Punto Medio \"Puras De Viento\"",
-        "url": "https://open.spotify.com/album/7dRYiCEWT2XSMhyBE595PO"
-      },
-      "artists": [
-        {
-          "name": "Banda Punto Medio",
-          "url": "https://open.spotify.com/artist/1e52HdTL1PMcFUdmbs5uvP"
-        }
-      ],
-      "duration_ms": 197162,
-      "name": "Los Enanitos",
-      "url": "https://open.spotify.com/track/3FJoKq6hH2RNZdPOW0E3FP"
-    },
-    {
-      "added_at": "2024-08-28 01:03:24",
-      "album": {
         "name": "Puros Popurris De Sones",
         "url": "https://open.spotify.com/album/2DbxbOYecqfAD3alfKSSXJ"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 199706,
       "name": "Popurri Michoacano ... El Son Del P\u00e1lomino / El Son Del Gallito / El Zapatazo / Cara De Pingo",
       "url": "https://open.spotify.com/track/7mwhO5vDMaFn9kuRSdamQU"
+    },
+    {
+      "added_at": "2024-08-28 01:03:24",
+      "album": {
+        "name": "Jalados Con La Banda Punto Medio \"Puras De Viento\"",
+        "url": "https://open.spotify.com/album/7dRYiCEWT2XSMhyBE595PO"
+      },
+      "artists": [
+        {
+          "name": "Banda Punto Medio",
+          "url": "https://open.spotify.com/artist/1e52HdTL1PMcFUdmbs5uvP"
+        }
+      ],
+      "duration_ms": 197162,
+      "name": "Los Enanitos",
+      "url": "https://open.spotify.com/track/3FJoKq6hH2RNZdPOW0E3FP"
     },
     {
       "added_at": "2024-08-28 01:03:24",
@@ -1543,6 +1543,22 @@
     {
       "added_at": "2024-08-28 01:03:24",
       "album": {
+        "name": "Haciendo Historia",
+        "url": "https://open.spotify.com/album/2YPhK6xUjkzscg4IfsLoFN"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Tecateando",
+          "url": "https://open.spotify.com/artist/2uWjEIYCwEoNTL37llzsfe"
+        }
+      ],
+      "duration_ms": 252107,
+      "name": "El Son Del Veneno",
+      "url": "https://open.spotify.com/track/4cqHYRCRyS4e1KHgLgxQmH"
+    },
+    {
+      "added_at": "2024-08-28 01:03:24",
+      "album": {
         "name": "Borracho 16 Exitos",
         "url": "https://open.spotify.com/album/0HiCVaa9wM6QTTHM3D6vMB"
       },
@@ -1559,18 +1575,18 @@
     {
       "added_at": "2024-08-28 01:03:24",
       "album": {
-        "name": "Haciendo Historia",
-        "url": "https://open.spotify.com/album/2YPhK6xUjkzscg4IfsLoFN"
+        "name": "Jalados Con La Banda Punto Medio \"Puras De Viento\"",
+        "url": "https://open.spotify.com/album/7dRYiCEWT2XSMhyBE595PO"
       },
       "artists": [
         {
-          "name": "Banda Los Tecateando",
-          "url": "https://open.spotify.com/artist/2uWjEIYCwEoNTL37llzsfe"
+          "name": "Banda Punto Medio",
+          "url": "https://open.spotify.com/artist/1e52HdTL1PMcFUdmbs5uvP"
         }
       ],
-      "duration_ms": 252107,
-      "name": "El Son Del Veneno",
-      "url": "https://open.spotify.com/track/4cqHYRCRyS4e1KHgLgxQmH"
+      "duration_ms": 168618,
+      "name": "Male Chuchita",
+      "url": "https://open.spotify.com/track/2QfZqEprY6qkKWHNsaMLYe"
     },
     {
       "added_at": "2024-08-28 01:03:24",
@@ -1607,18 +1623,18 @@
     {
       "added_at": "2024-08-28 01:03:24",
       "album": {
-        "name": "Jalados Con La Banda Punto Medio \"Puras De Viento\"",
-        "url": "https://open.spotify.com/album/7dRYiCEWT2XSMhyBE595PO"
+        "name": "\u00a1\u00a1La Explosiva!!",
+        "url": "https://open.spotify.com/album/49pZIrjzr3D1ABMIFI0nGP"
       },
       "artists": [
         {
-          "name": "Banda Punto Medio",
-          "url": "https://open.spotify.com/artist/1e52HdTL1PMcFUdmbs5uvP"
+          "name": "Banda Sinaloense Acero de Pablo Molina Jr.",
+          "url": "https://open.spotify.com/artist/53qlNZcUOqKJpIdF61XYBc"
         }
       ],
-      "duration_ms": 168618,
-      "name": "Male Chuchita",
-      "url": "https://open.spotify.com/track/2QfZqEprY6qkKWHNsaMLYe"
+      "duration_ms": 217280,
+      "name": "La Yaquesita",
+      "url": "https://open.spotify.com/track/2Lr44VAzPc6jM9Qgd9Ihhj"
     },
     {
       "added_at": "2024-08-28 01:03:24",
@@ -1635,22 +1651,6 @@
       "duration_ms": 217320,
       "name": "Male Chabelita",
       "url": "https://open.spotify.com/track/3UFZ7Mfgi91WrhvDSFibxR"
-    },
-    {
-      "added_at": "2024-08-28 01:03:24",
-      "album": {
-        "name": "\u00a1\u00a1La Explosiva!!",
-        "url": "https://open.spotify.com/album/49pZIrjzr3D1ABMIFI0nGP"
-      },
-      "artists": [
-        {
-          "name": "Banda Sinaloense Acero de Pablo Molina Jr.",
-          "url": "https://open.spotify.com/artist/53qlNZcUOqKJpIdF61XYBc"
-        }
-      ],
-      "duration_ms": 217280,
-      "name": "La Yaquesita",
-      "url": "https://open.spotify.com/track/2Lr44VAzPc6jM9Qgd9Ihhj"
     },
     {
       "added_at": "2024-08-28 01:03:24",
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2024-08-28 01:03:24",
       "album": {
-        "name": "15 Aniversario",
-        "url": "https://open.spotify.com/album/5nIe1Rb2LZHb0knEt8fHLJ"
-      },
-      "artists": [
-        {
-          "name": "Banda Los Tecateando",
-          "url": "https://open.spotify.com/artist/2uWjEIYCwEoNTL37llzsfe"
-        }
-      ],
-      "duration_ms": 242207,
-      "name": "Sones Tecateando",
-      "url": "https://open.spotify.com/track/0UrHzYYNOXu4i6SQxPjyLh"
-    },
-    {
-      "added_at": "2024-08-28 01:03:24",
-      "album": {
         "name": "Jalados Con La Banda Punto Medio \"Puras De Viento\"",
         "url": "https://open.spotify.com/album/7dRYiCEWT2XSMhyBE595PO"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 213951,
       "name": "Corazon De Texas",
       "url": "https://open.spotify.com/track/2QOpqX6wuf0wZhJto3jWKY"
+    },
+    {
+      "added_at": "2024-08-28 01:03:24",
+      "album": {
+        "name": "15 Aniversario",
+        "url": "https://open.spotify.com/album/5nIe1Rb2LZHb0knEt8fHLJ"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Tecateando",
+          "url": "https://open.spotify.com/artist/2uWjEIYCwEoNTL37llzsfe"
+        }
+      ],
+      "duration_ms": 242207,
+      "name": "Sones Tecateando",
+      "url": "https://open.spotify.com/track/0UrHzYYNOXu4i6SQxPjyLh"
     },
     {
       "added_at": "2024-08-28 01:03:24",
@@ -1791,22 +1791,6 @@
     {
       "added_at": "2024-08-28 01:03:24",
       "album": {
-        "name": "Jalados Con La Banda Punto Medio \"Puras De Viento\"",
-        "url": "https://open.spotify.com/album/7dRYiCEWT2XSMhyBE595PO"
-      },
-      "artists": [
-        {
-          "name": "Banda Punto Medio",
-          "url": "https://open.spotify.com/artist/1e52HdTL1PMcFUdmbs5uvP"
-        }
-      ],
-      "duration_ms": 131328,
-      "name": "La Chiclanera",
-      "url": "https://open.spotify.com/track/5LyKsB6bm885BC0NkddszI"
-    },
-    {
-      "added_at": "2024-08-28 01:03:24",
-      "album": {
         "name": "Puras Pa' Trapear",
         "url": "https://open.spotify.com/album/58cA3whU8aeZpjqKLNuZvM"
       },
@@ -1819,6 +1803,38 @@
       "duration_ms": 309253,
       "name": "Huapangos Perros",
       "url": "https://open.spotify.com/track/1MVngYgNoqiISUr26Pht4n"
+    },
+    {
+      "added_at": "2024-08-28 01:03:24",
+      "album": {
+        "name": "Pa' Las De Vidrio \"En Vivo\"",
+        "url": "https://open.spotify.com/album/1jjKI7TJ6tayi5eSX85xwe"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 192773,
+      "name": "La Gitanilla",
+      "url": "https://open.spotify.com/track/0lWqEEFGfBgiiLJPqIArjE"
+    },
+    {
+      "added_at": "2024-08-28 01:03:24",
+      "album": {
+        "name": "Jalados Con La Banda Punto Medio \"Puras De Viento\"",
+        "url": "https://open.spotify.com/album/7dRYiCEWT2XSMhyBE595PO"
+      },
+      "artists": [
+        {
+          "name": "Banda Punto Medio",
+          "url": "https://open.spotify.com/artist/1e52HdTL1PMcFUdmbs5uvP"
+        }
+      ],
+      "duration_ms": 131328,
+      "name": "La Chiclanera",
+      "url": "https://open.spotify.com/track/5LyKsB6bm885BC0NkddszI"
     },
     {
       "added_at": "2024-08-28 01:03:24",
@@ -1867,22 +1883,6 @@
       "duration_ms": 192066,
       "name": "La Vaquilla",
       "url": "https://open.spotify.com/track/7spdYQAPBWxPXzg9t4gnkX"
-    },
-    {
-      "added_at": "2024-08-28 01:03:24",
-      "album": {
-        "name": "Pa' Las De Vidrio \"En Vivo\"",
-        "url": "https://open.spotify.com/album/1jjKI7TJ6tayi5eSX85xwe"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 192773,
-      "name": "La Gitanilla",
-      "url": "https://open.spotify.com/track/0lWqEEFGfBgiiLJPqIArjE"
     },
     {
       "added_at": "2024-08-28 01:03:24",

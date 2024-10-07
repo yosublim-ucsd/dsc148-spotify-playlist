@@ -148,7 +148,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-07",
       "duration_ms": 266322,
       "name": "Acid Is My Drug",
       "url": "https://open.spotify.com/track/6ozzp2fnqDP0iKzf3uwDAO"
@@ -1582,6 +1582,24 @@
       "duration_ms": 279003,
       "name": "Hyper Runner",
       "url": "https://open.spotify.com/track/3kZVKXB24lQARYyZ83WMWT"
+    },
+    {
+      "album": {
+        "name": "I Am Cool",
+        "url": "https://open.spotify.com/album/0KuvnomtqHox9SDhs4CFDm"
+      },
+      "artists": [
+        {
+          "name": "Zatox",
+          "url": "https://open.spotify.com/artist/27Z5l2Kfy1IaYZMg5INWqO"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163215,
+      "name": "I Am Cool",
+      "url": "https://open.spotify.com/track/3MpyqUat9C6YkEVsmahdX6"
     },
     {
       "album": {

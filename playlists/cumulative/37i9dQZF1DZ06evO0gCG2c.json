@@ -57,6 +57,24 @@
     },
     {
       "album": {
+        "name": "Akon's Beautiful Day",
+        "url": "https://open.spotify.com/album/3XA6fev8Ssr6jAfR8kd7Wa"
+      },
+      "artists": [
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "date_added": "2024-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157278,
+      "name": "Akon's Beautiful Day",
+      "url": "https://open.spotify.com/track/5z7l1HQ9KzqT8yLcViRG1L"
+    },
+    {
+      "album": {
         "name": "The Last",
         "url": "https://open.spotify.com/album/57tmzh0hsnWU8znnvEWJbe"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1o1khY.md) - [plain]
 
 > This is GloRilla\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,700 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,738 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1o1khY.md) - [plain]
 | 12 | [Leave My Baby Tonight \(feat\. GloRilla\)](https://open.spotify.com/track/79Az2dOKvoR2hfVEIRZd1D) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Revenge](https://open.spotify.com/album/1q37MEHkdOivTuJJbwRkGS) | 3:16 |
 | 13 | [On Wat U On \(with GloRilla\)](https://open.spotify.com/track/6eHksHmETBULwFo0N3k562) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Hard To Love](https://open.spotify.com/album/12QMwxaBwtZWp7BKBwzaol) | 2:39 |
 | 14 | [Finesse \(feat\. GloRilla\)](https://open.spotify.com/track/6zdGkPEBTBojHWZmEDU8zE) | [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Finesse \(feat\. GloRilla\)](https://open.spotify.com/album/0RRvy9tpjR19zKnM0xhRW4) | 3:12 |
-| 15 | [Get In There \(feat\. GloRilla\)](https://open.spotify.com/track/5wNzNajnMU0xv3JZZrLzNv) | [Real Boston Richey](https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Get In There \(feat\. GloRilla\)](https://open.spotify.com/album/6Z8DsLCV7X0oTOWUo7Yi9p) | 3:15 |
-| 16 | [WYD \(with GloRilla & Big Boogie\)](https://open.spotify.com/track/4Z3xZgvuCVn5ds2YdpZVaS) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Big Boogie](https://open.spotify.com/artist/372IgXgnCt4wlfumrMTIOs) | [SPEAK NOW OR...](https://open.spotify.com/album/3JfTxMny1oIZDmYcBnoHWT) | 3:33 |
+| 15 | [WYD \(with GloRilla & Big Boogie\)](https://open.spotify.com/track/4Z3xZgvuCVn5ds2YdpZVaS) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Big Boogie](https://open.spotify.com/artist/372IgXgnCt4wlfumrMTIOs) | [SPEAK NOW OR...](https://open.spotify.com/album/3JfTxMny1oIZDmYcBnoHWT) | 3:33 |
+| 16 | [Get In There \(feat\. GloRilla\)](https://open.spotify.com/track/5wNzNajnMU0xv3JZZrLzNv) | [Real Boston Richey](https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Get In There \(feat\. GloRilla\)](https://open.spotify.com/album/6Z8DsLCV7X0oTOWUo7Yi9p) | 3:15 |
 | 17 | [Finesse Da Glo \(feat\. Finesse2Tymes\)](https://open.spotify.com/track/1nKgk560ybSt7eZLtFAa9p) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Finesse2tymes](https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg) | [Ehhthang Ehhthang](https://open.spotify.com/album/0SW0LplxFID1otCk4bhhHI) | 2:22 |
 | 18 | [Mama \(with Skilla Baby feat\. GloRilla\) \(Remix\)](https://open.spotify.com/track/62Vzyj4Nyy7DeBF2q21dYG) | [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB), [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Mama \(with Skilla Baby feat\. GloRilla\) \(Remix\)](https://open.spotify.com/album/7LK4ohmEO3Arm7oXyd1eVk) | 2:59 |
 | 19 | [Leave the Club \(feat\. Lil Durk & GloRilla\)](https://open.spotify.com/track/0zP8VSgyYSVqrSXTYTn9Su) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Love Sick](https://open.spotify.com/album/26z5llzd194mcCZHADWd6k) | 3:42 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1o1khY.md) - [plain]
 | 49 | [Afford Me](https://open.spotify.com/track/6zNYUZJGEs70HIH40SFhYX) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [JaTavia Akiaa](https://open.spotify.com/artist/2zanO9oR7cBRKmEdi4Gzll) | [Afford Me](https://open.spotify.com/album/5Huo9LyxnF12d2aogAGgeQ) | 3:29 |
 | 50 | [R\-A\-T\-C\-H\-E\-T \(FNF FREESTYLE\) \- Remix](https://open.spotify.com/track/5CbtJ0GNYO7wlybagnOLrg) | [Nosym](https://open.spotify.com/artist/0nKzbENsP5VM3J28NTNxQ4), [Hitkidd](https://open.spotify.com/artist/5pR1zWq3UPsOpW1pTWayLf), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [R\-A\-T\-C\-H\-E\-T \(FNF FREESTYLE\) \[Remix\]](https://open.spotify.com/album/2cMuNulihFoYJFPwWaNHtr) | 2:30 |
 
-Snapshot ID: `Zv3egAAAAAAFWgKKgR1D8h/sgvx7QOYN`
+Snapshot ID: `ZwCBgAAAAAAN5FC/mU8fqf8p2Qn8Um2l`

@@ -2670,7 +2670,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-07",
       "duration_ms": 251040,
       "name": "Lo Que Te Queda",
       "url": "https://open.spotify.com/track/3TfZW4btZFmocz8DM8fFFa"
@@ -3868,6 +3868,28 @@
       "duration_ms": 194526,
       "name": "Ruptura",
       "url": "https://open.spotify.com/track/0ACBjct2NYsE8qMhkOWt1k"
+    },
+    {
+      "album": {
+        "name": "Ruta",
+        "url": "https://open.spotify.com/album/6KFXfBh3diyG1luKZyVpji"
+      },
+      "artists": [
+        {
+          "name": "KLUB",
+          "url": "https://open.spotify.com/artist/11NwV46MotnomZqyYxE2uY"
+        },
+        {
+          "name": "Dalasio",
+          "url": "https://open.spotify.com/artist/2C1xJBfgKnVe1xMyUD6yAb"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225586,
+      "name": "Ruta",
+      "url": "https://open.spotify.com/track/0zskgFCZkUPqWsQ3ThZXyR"
     },
     {
       "album": {

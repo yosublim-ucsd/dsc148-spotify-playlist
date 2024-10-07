@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 
 > The contemporary new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: Toyé
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,907 likes - 80 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,929 likes - 80 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Faaji Jackson \(feat\. Cruel Santino\)](https://open.spotify.com/track/2Y37tCzJtqZfQ6kikUwOHY) | [Toyé](https://open.spotify.com/artist/3ako9MDpww4Y5tjUV02tmi), [Cruel Santino](https://open.spotify.com/artist/7IQgncU3ZwompToJecrmct) | [Wahala In Paradise](https://open.spotify.com/album/5t6q1yQ545Ir5XBik4MnlG) | 3:29 |
+| 1 | [Faaji Jackson](https://open.spotify.com/track/2Y37tCzJtqZfQ6kikUwOHY) | [Toyé](https://open.spotify.com/artist/3ako9MDpww4Y5tjUV02tmi), [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih) | [Wahala In Paradise](https://open.spotify.com/album/5t6q1yQ545Ir5XBik4MnlG) | 3:29 |
 | 2 | [BACK IN OFFICE](https://open.spotify.com/track/2cJm8zLr43lJsNR5AulsZJ) | [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW) | [Nigerian Boyfriend](https://open.spotify.com/album/6ZyWAsfiZkIGlZpRo09FjU) | 2:27 |
 | 3 | [Instantly](https://open.spotify.com/track/0z8XRsI1lc1Fz6FjRVo8Fm) | [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx), [Kold AF](https://open.spotify.com/artist/30nT1GUVxPdjDFnXpP1wh8) | [Instantly](https://open.spotify.com/album/5cDnEzSuOcycPxq1q1GtTh) | 3:08 |
 | 4 | [HURTS LIKE HEAVEN](https://open.spotify.com/track/12X4xWpq0wNgHNDtyJhI2E) | [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [La Soülchyld](https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV), [Zowie Kengocha](https://open.spotify.com/artist/2lwHCnbymJQL6WUDaEKdci) | [For The Love of R&B Vol 1](https://open.spotify.com/album/14Vvfpl0hS8n1r3GGIKzoZ) | 4:09 |

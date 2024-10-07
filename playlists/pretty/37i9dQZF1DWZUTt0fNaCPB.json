@@ -1,6 +1,6 @@
 {
   "description": "No need for a gadget, just play these rock songs to set your pace!",
-  "num_followers": 1061682,
+  "num_followers": 1061735,
   "original_name": "Running to Rock 170-190 BPM",
   "owner": {
     "name": "Spotify",
@@ -155,22 +155,6 @@
     {
       "added_at": "2024-07-05 13:33:40",
       "album": {
-        "name": "Hail to the King",
-        "url": "https://open.spotify.com/album/0ks45m1bsP2JsZpM5D2FFA"
-      },
-      "artists": [
-        {
-          "name": "Avenged Sevenfold",
-          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
-        }
-      ],
-      "duration_ms": 305906,
-      "name": "Hail to the King",
-      "url": "https://open.spotify.com/track/5anCkDvJ17aznvK5TED5uo"
-    },
-    {
-      "added_at": "2024-07-05 13:33:40",
-      "album": {
         "name": "Sinner",
         "url": "https://open.spotify.com/album/089oyV5caclve3ap934iRw"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 201960,
       "name": "Bodies",
       "url": "https://open.spotify.com/track/7CpbhqKUedOIrcvc94p60Y"
+    },
+    {
+      "added_at": "2024-07-05 13:33:40",
+      "album": {
+        "name": "Hail to the King",
+        "url": "https://open.spotify.com/album/0ks45m1bsP2JsZpM5D2FFA"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "duration_ms": 305906,
+      "name": "Hail to the King",
+      "url": "https://open.spotify.com/track/5anCkDvJ17aznvK5TED5uo"
     },
     {
       "added_at": "2024-07-05 13:33:40",
@@ -267,22 +267,6 @@
     {
       "added_at": "2024-07-05 13:33:40",
       "album": {
-        "name": "Nightmare",
-        "url": "https://open.spotify.com/album/7vfuTRXIAYJz5Uc8SddnTr"
-      },
-      "artists": [
-        {
-          "name": "Avenged Sevenfold",
-          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
-        }
-      ],
-      "duration_ms": 374453,
-      "name": "Nightmare",
-      "url": "https://open.spotify.com/track/4UEo1b0wWrtHMC8bVqPiH8"
-    },
-    {
-      "added_at": "2024-07-05 13:33:40",
-      "album": {
         "name": "Threat to Survival",
         "url": "https://open.spotify.com/album/7969zwJB8p021EBcCUjsv9"
       },
@@ -311,6 +295,38 @@
       "duration_ms": 316717,
       "name": "Psycho",
       "url": "https://open.spotify.com/track/383QXk8nb2YrARMUwDdjQS"
+    },
+    {
+      "added_at": "2024-07-05 13:33:40",
+      "album": {
+        "name": "Indestructible (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6hz9f6H7URtoigU517WjD6"
+      },
+      "artists": [
+        {
+          "name": "Disturbed",
+          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
+        }
+      ],
+      "duration_ms": 278026,
+      "name": "Indestructible",
+      "url": "https://open.spotify.com/track/42ZVk59gT4tMlrZmd8Ijxf"
+    },
+    {
+      "added_at": "2024-07-05 13:33:40",
+      "album": {
+        "name": "Nightmare",
+        "url": "https://open.spotify.com/album/7vfuTRXIAYJz5Uc8SddnTr"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "duration_ms": 374453,
+      "name": "Nightmare",
+      "url": "https://open.spotify.com/track/4UEo1b0wWrtHMC8bVqPiH8"
     },
     {
       "added_at": "2024-07-05 13:33:40",
@@ -379,22 +395,6 @@
     {
       "added_at": "2024-07-05 13:33:40",
       "album": {
-        "name": "Indestructible (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6hz9f6H7URtoigU517WjD6"
-      },
-      "artists": [
-        {
-          "name": "Disturbed",
-          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
-        }
-      ],
-      "duration_ms": 278026,
-      "name": "Indestructible",
-      "url": "https://open.spotify.com/track/42ZVk59gT4tMlrZmd8Ijxf"
-    },
-    {
-      "added_at": "2024-07-05 13:33:40",
-      "album": {
         "name": "Black Rain (Expanded Edition)",
         "url": "https://open.spotify.com/album/6wiS0vTk9GfsiUKJEOav8Z"
       },
@@ -411,8 +411,8 @@
     {
       "added_at": "2024-07-05 13:33:40",
       "album": {
-        "name": "ATTENTION ATTENTION",
-        "url": "https://open.spotify.com/album/0dtwIycvTaFNjo44QRwWz7"
+        "name": "Amaryllis",
+        "url": "https://open.spotify.com/album/2WvIDc4wdKshyFh2EzLAs0"
       },
       "artists": [
         {
@@ -420,9 +420,9 @@
           "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
         }
       ],
-      "duration_ms": 207986,
-      "name": "DEVIL",
-      "url": "https://open.spotify.com/track/2hEYslbdYWFSIA6JboUvnR"
+      "duration_ms": 188093,
+      "name": "Enemies",
+      "url": "https://open.spotify.com/track/1SDl9wY1MqbpJQW0yKEWxL"
     },
     {
       "added_at": "2024-07-05 13:33:40",
@@ -459,6 +459,22 @@
     {
       "added_at": "2024-07-05 13:33:40",
       "album": {
+        "name": "Indestructible (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6hz9f6H7URtoigU517WjD6"
+      },
+      "artists": [
+        {
+          "name": "Disturbed",
+          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
+        }
+      ],
+      "duration_ms": 231573,
+      "name": "Inside the Fire",
+      "url": "https://open.spotify.com/track/5cxp9kjCFyJwzv3lzeX7ku"
+    },
+    {
+      "added_at": "2024-07-05 13:33:40",
+      "album": {
         "name": "Prequelle",
         "url": "https://open.spotify.com/album/6128JCa2uBqHWia5AzJOKV"
       },
@@ -491,6 +507,22 @@
     {
       "added_at": "2024-07-05 13:33:40",
       "album": {
+        "name": "ATTENTION ATTENTION",
+        "url": "https://open.spotify.com/album/0dtwIycvTaFNjo44QRwWz7"
+      },
+      "artists": [
+        {
+          "name": "Shinedown",
+          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
+        }
+      ],
+      "duration_ms": 207986,
+      "name": "DEVIL",
+      "url": "https://open.spotify.com/track/2hEYslbdYWFSIA6JboUvnR"
+    },
+    {
+      "added_at": "2024-07-05 13:33:40",
+      "album": {
         "name": "Seal The Deal & Let's Boogie (Deluxe)",
         "url": "https://open.spotify.com/album/3v78ZZiv9L2Fb5x5fC8kVC"
       },
@@ -507,6 +539,22 @@
     {
       "added_at": "2024-07-05 13:33:40",
       "album": {
+        "name": "Ten Thousand Fists",
+        "url": "https://open.spotify.com/album/0Te7OvzuUMnbsqCneIDUm6"
+      },
+      "artists": [
+        {
+          "name": "Disturbed",
+          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
+        }
+      ],
+      "duration_ms": 212040,
+      "name": "Ten Thousand Fists",
+      "url": "https://open.spotify.com/track/5hkgrWxkobGtg30I7DsfVu"
+    },
+    {
+      "added_at": "2024-07-05 13:33:40",
+      "album": {
         "name": "The Sinister Urge",
         "url": "https://open.spotify.com/album/2ExOcLFwyExzkXK0ea180I"
       },
@@ -519,22 +567,6 @@
       "duration_ms": 224306,
       "name": "Demon Speeding",
       "url": "https://open.spotify.com/track/605hJIiMrdsUjr4Vx4BFD6"
-    },
-    {
-      "added_at": "2024-07-05 13:33:40",
-      "album": {
-        "name": "Indestructible (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6hz9f6H7URtoigU517WjD6"
-      },
-      "artists": [
-        {
-          "name": "Disturbed",
-          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
-        }
-      ],
-      "duration_ms": 231573,
-      "name": "Inside the Fire",
-      "url": "https://open.spotify.com/track/5cxp9kjCFyJwzv3lzeX7ku"
     },
     {
       "added_at": "2024-07-05 13:33:40",
@@ -571,22 +603,6 @@
     {
       "added_at": "2024-07-05 13:33:40",
       "album": {
-        "name": "Amaryllis",
-        "url": "https://open.spotify.com/album/2WvIDc4wdKshyFh2EzLAs0"
-      },
-      "artists": [
-        {
-          "name": "Shinedown",
-          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
-        }
-      ],
-      "duration_ms": 188093,
-      "name": "Enemies",
-      "url": "https://open.spotify.com/track/1SDl9wY1MqbpJQW0yKEWxL"
-    },
-    {
-      "added_at": "2024-07-05 13:33:40",
-      "album": {
         "name": "Felons and Revolutionaries",
         "url": "https://open.spotify.com/album/70qlX6W0tE04QAwKQuv1db"
       },
@@ -603,6 +619,22 @@
     {
       "added_at": "2024-07-05 13:33:40",
       "album": {
+        "name": "The Sickness (10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/07w0hGS9XUdFsPBvDHy16y"
+      },
+      "artists": [
+        {
+          "name": "Disturbed",
+          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
+        }
+      ],
+      "duration_ms": 278706,
+      "name": "Down with the Sickness",
+      "url": "https://open.spotify.com/track/4ImIJRZNJhNQLLdUFSYJoS"
+    },
+    {
+      "added_at": "2024-07-05 13:33:40",
+      "album": {
         "name": "Reverence",
         "url": "https://open.spotify.com/album/46hNwndF4Tm6D1cGr0G5zL"
       },
@@ -615,22 +647,6 @@
       "duration_ms": 255230,
       "name": "Prey",
       "url": "https://open.spotify.com/track/7lMFAK8dv0QkWpIlZcWQlJ"
-    },
-    {
-      "added_at": "2024-07-05 13:33:40",
-      "album": {
-        "name": "Ten Thousand Fists",
-        "url": "https://open.spotify.com/album/0Te7OvzuUMnbsqCneIDUm6"
-      },
-      "artists": [
-        {
-          "name": "Disturbed",
-          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
-        }
-      ],
-      "duration_ms": 212040,
-      "name": "Ten Thousand Fists",
-      "url": "https://open.spotify.com/track/5hkgrWxkobGtg30I7DsfVu"
     },
     {
       "added_at": "2024-07-05 13:33:40",
@@ -787,22 +803,6 @@
       "duration_ms": 267360,
       "name": "The Pretender",
       "url": "https://open.spotify.com/track/6HNruFQlzQx4ulL4ppRLYI"
-    },
-    {
-      "added_at": "2024-07-05 13:33:40",
-      "album": {
-        "name": "The Sickness (10th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/07w0hGS9XUdFsPBvDHy16y"
-      },
-      "artists": [
-        {
-          "name": "Disturbed",
-          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
-        }
-      ],
-      "duration_ms": 278706,
-      "name": "Down with the Sickness",
-      "url": "https://open.spotify.com/track/4ImIJRZNJhNQLLdUFSYJoS"
     },
     {
       "added_at": "2024-07-05 13:33:40",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2024-07-05 13:33:40",
       "album": {
-        "name": "Trouble",
-        "url": "https://open.spotify.com/album/4vNOIupUcx5xCsGgbBImRp"
-      },
-      "artists": [
-        {
-          "name": "Five Finger Death Punch",
-          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
-        }
-      ],
-      "duration_ms": 192188,
-      "name": "Trouble",
-      "url": "https://open.spotify.com/track/4xlxojOaZyOQi7P8ig1BvH"
-    },
-    {
-      "added_at": "2024-07-05 13:33:40",
-      "album": {
         "name": "Me Against You",
         "url": "https://open.spotify.com/album/5bzSu7IkGapeqXlXB2MgC6"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 217040,
       "name": "Cannot Be Judged",
       "url": "https://open.spotify.com/track/2KxLX1zzJ6A2tgYgqdKRvh"
+    },
+    {
+      "added_at": "2024-07-05 13:33:40",
+      "album": {
+        "name": "Trouble",
+        "url": "https://open.spotify.com/album/4vNOIupUcx5xCsGgbBImRp"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "duration_ms": 192188,
+      "name": "Trouble",
+      "url": "https://open.spotify.com/track/4xlxojOaZyOQi7P8ig1BvH"
     },
     {
       "added_at": "2024-07-05 13:33:40",

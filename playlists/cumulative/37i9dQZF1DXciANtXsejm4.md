@@ -4,7 +4,7 @@
 
 > El ritmo cumbiero que te mueve el corazón\. <br/>Foto: Leo Mattioli.
 
-226 songs - 13 hr 24 min
+227 songs - 13 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -197,6 +197,7 @@
 | [Son de Amores / Vanidosa](https://open.spotify.com/track/7CAw9ylqrfW47tfyI6elLs) | [Siempre Verde](https://open.spotify.com/artist/4eyu1IhLo2RUlDwJLtodxl), [Aclamado Amistad](https://open.spotify.com/artist/5kmcANJ07GntkrPxTW8PnW) | [Son de Amores / Vanidosa](https://open.spotify.com/album/24gIQSwAA849YkF9tLT7vl) | 3:04 | 2022-11-18 | 2022-12-17 |
 | [Soy Sabalero](https://open.spotify.com/track/6MIulZ9FG6Td02EpvFC5ZL) | [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG) | [Soy Sabalero](https://open.spotify.com/album/4E9U7vlfoRlUIi57xcO53W) | 2:59 | 2022-04-15 |  |
 | [Sufrirás](https://open.spotify.com/track/67mz9xVvjR9Fdkmsl63H5g) | [Coty](https://open.spotify.com/artist/7v8veUQH2fro2QjkOKS7vB) | [El Más Parrandero](https://open.spotify.com/album/56Ip4hVgF8pO1pxQjwkjLd) | 4:30 | 2022-04-15 |  |
+| [Sólo Con Verte](https://open.spotify.com/track/18cEd6vgwVQixFGVXnvFxz) | [Coty Hernández](https://open.spotify.com/artist/6yX2GzaudljEEBKfMZpOXE) | [Sólo Con Verte](https://open.spotify.com/album/1eXESMvJMCNNC1EunCXf1H) | 3:25 | 2024-05-24 |  |
 | [Tan Solo Amantes](https://open.spotify.com/track/0oONA6yBr4XfW8iloofFSg) | [Leo Mattioli](https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA) | [Creciendo](https://open.spotify.com/album/54PCI2vrd9zYtH2GhP3W8v) | 3:55 | 2022-04-15 | 2023-03-12 |
 | [Tan Sólo Amantes](https://open.spotify.com/track/2pMwrVusXakXwm0yE6O4zP) | [Leo Mattioli](https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA) | [Creciendo](https://open.spotify.com/album/6JrMR7QudBMGYJ0zIrSFB6) | 3:56 | 2023-04-07 | 2024-04-19 |
 | [Te Llevas Mi Vida](https://open.spotify.com/track/2uOUobz0fNo2rs2relzB4N) | [Mario Luis](https://open.spotify.com/artist/13KeE3TnUrYh367HJu0sMx) | [Te Llevas Mi Vida](https://open.spotify.com/album/1sXfRjfRtUWwwBwugKsxzR) | 3:52 | 2022-06-03 | 2024-10-05 |
@@ -221,7 +222,7 @@
 | [Tuyo Siempre Tuyo](https://open.spotify.com/track/6XDbqQ8Agqi3ny4te6xgBz) | [Los Nobles](https://open.spotify.com/artist/1WfpH53VReC5lgeuKaT91T) | [Lo Mejor De Los Mejores](https://open.spotify.com/album/6DOloKLBD2ScpYBRVxRYmP) | 2:43 | 2022-06-03 | 2022-09-30 |
 | [Un Velero Llamado Libertad](https://open.spotify.com/track/6KHBf0ZrN0y5T6mlxuTbRW) | [Los Leales](https://open.spotify.com/artist/4MZwXbwveoO6NyBAZPbYZv) | [Exitos de oro](https://open.spotify.com/album/4SY5abPA0owDzgSlhDxCkf) | 2:56 | 2022-04-15 |  |
 | [Una Calle Nos Separa](https://open.spotify.com/track/4qYjpBTZvr6AWlmbUzd224) | [Los Leales](https://open.spotify.com/artist/4MZwXbwveoO6NyBAZPbYZv) | [Exitos de oro](https://open.spotify.com/album/4SY5abPA0owDzgSlhDxCkf) | 3:24 | 2022-04-15 |  |
-| [Universo Paralelo](https://open.spotify.com/track/0FAkM72jn2VQNu1YztHwx1) | [Coty Hernández](https://open.spotify.com/artist/6yX2GzaudljEEBKfMZpOXE) | [Universo Paralelo](https://open.spotify.com/album/2HYbtLvbsiMkRMCIWOIR3R) | 3:39 | 2022-04-15 |  |
+| [Universo Paralelo](https://open.spotify.com/track/0FAkM72jn2VQNu1YztHwx1) | [Coty Hernández](https://open.spotify.com/artist/6yX2GzaudljEEBKfMZpOXE) | [Universo Paralelo](https://open.spotify.com/album/2HYbtLvbsiMkRMCIWOIR3R) | 3:39 | 2022-04-15 | 2024-10-07 |
 | [Unx100to](https://open.spotify.com/track/7kr36sySH1DHmWxII9fGou) | [La San Francisco](https://open.spotify.com/artist/5PjBUzYkEvqbzBw5HtEAEr) | [Un x100to](https://open.spotify.com/album/4SKmMNd4CTjfgWLX3YpJJe) | 3:24 | 2023-08-11 | 2023-09-26 |
 | [Vete](https://open.spotify.com/track/2P1NF2ouvMc3aOjeXdfynr) | [Los del bohio](https://open.spotify.com/artist/6RszvvtxwKr7SyzeeQ5htn) | [Vete](https://open.spotify.com/album/2ULTMUo5UesStNSxif1lgR) | 3:35 | 2022-04-15 |  |
 | [Vivo Pensando en ti](https://open.spotify.com/track/5GvCjJyuH91YhtEl9iKvlY) | [La Nueva Sensación](https://open.spotify.com/artist/0qgjKIM2Zd6fWKcYgwZmPE), [Coty Hernández](https://open.spotify.com/artist/6yX2GzaudljEEBKfMZpOXE) | [Vivo Pensando en ti](https://open.spotify.com/album/662eLNGODT9RQskLX0Y5Nx) | 3:58 | 2022-12-02 | 2022-12-17 |

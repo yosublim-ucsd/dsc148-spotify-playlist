@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-02",
-  "description": "This Is La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga. Los temas esenciales, todos en una lista.",
+  "description": "This is La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga. The essential tracks, all in one playlist.",
   "name": "This Is La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
   "tracks": [
     {
@@ -200,6 +200,28 @@
       "duration_ms": 163143,
       "name": "Canci\u00f3n a Mi Pap\u00e1",
       "url": "https://open.spotify.com/track/1yD07nDoSftuK04VdN1VXD"
+    },
+    {
+      "album": {
+        "name": "Mientras Respire",
+        "url": "https://open.spotify.com/album/1nb8I6OBgdfslEI9z0DHpx"
+      },
+      "artists": [
+        {
+          "name": "Al Tiro de Armando Ramos",
+          "url": "https://open.spotify.com/artist/6fvE3WfQ7mEyYOc4hY6t8O"
+        },
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "date_added": "2024-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140078,
+      "name": "Chatita de Mis Amores",
+      "url": "https://open.spotify.com/track/01zI0Ayxrduos4VM7eWgC1"
     },
     {
       "album": {
@@ -1356,7 +1378,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-07",
       "duration_ms": 177887,
       "name": "Me Enamor\u00e9",
       "url": "https://open.spotify.com/track/5yjxlJvf44tL3lSGngW8FT"

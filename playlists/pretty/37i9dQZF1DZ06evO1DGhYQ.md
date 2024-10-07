@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1DGhYQ.md) - [plain]
 
 ### [This Is ALI](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1DGhYQ)
 
-> This Is ALI\. Los temas esenciales, todos en una lista.
+> This is ALI\. Track\-track unggulan, semuanya dalam satu playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,840 likes - 44 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,839 likes - 44 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,11 +22,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1DGhYQ.md) - [plain]
 | 12 | [サボタージュ \- VS\. ALI](https://open.spotify.com/track/5VKxSh8WcTp5M3Uv9SD81Y) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU) | [サボタージュ \(VS\. ALI\)](https://open.spotify.com/album/6mFPQaQNRgWZNbFzsep3AD) | 4:16 |
 | 13 | [FEVER](https://open.spotify.com/track/2EmBdXIg3R7pWTTaA0g2RH) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU) | [VIVA LA MUSICA](https://open.spotify.com/album/2miX8EtW3WyZIB2cX4DlEx) | 3:11 |
 | 14 | [EL MARIACHI](https://open.spotify.com/track/4AhqLI5pedSyAjm5bWfZaN) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU), [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [MUSIC WORLD](https://open.spotify.com/album/2CyKgEGTTDk877h5CDz5zW) | 3:32 |
-| 15 | [DAZE N SUNSHINE](https://open.spotify.com/track/4AbZXj7bkhxmnhFab2Ej8l) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU), [Shing02](https://open.spotify.com/artist/0FB6beTn4vescDdnHeCUm9) | [LOVE, MUSIC AND DANCE](https://open.spotify.com/album/6k0K8fxPxw0daw5QWCKmaQ) | 4:03 |
+| 15 | [FIGHT DUB CLUB](https://open.spotify.com/track/2Jgq2YG8bYFnwqFFFr0rbx) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU), [J\-Rexxx](https://open.spotify.com/artist/5RNhX2Lm64fQpfcHwOWSbx), [RUEED](https://open.spotify.com/artist/4iIx9O5HVTda3EyChrHkTK) | [LOVE, MUSIC AND DANCE](https://open.spotify.com/album/6k0K8fxPxw0daw5QWCKmaQ) | 4:01 |
 | 16 | [Dance You, Matilda](https://open.spotify.com/track/3zhx8K4SxwHLWtAZRiNdsq) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU) | [INGLOURIOUS EASTERN COWBOY](https://open.spotify.com/album/1inqg1yD9EMoVZqKXw5gmg) | 3:29 |
 | 17 | [WILD ANGEL](https://open.spotify.com/track/5rng1DB3PaY6KSQCHVWyFM) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU) | [VIVA LA MUSICA](https://open.spotify.com/album/2miX8EtW3WyZIB2cX4DlEx) | 3:40 |
 | 18 | [IN THE MOOD FOR LOVE](https://open.spotify.com/track/2M6CXNUL0Upsi5eTV944N3) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU), [SARM](https://open.spotify.com/artist/53pyDdbX1I71Wcyr8ZPJAP) | [MUSIC WORLD](https://open.spotify.com/album/2CyKgEGTTDk877h5CDz5zW) | 4:29 |
-| 19 | [FIGHT DUB CLUB](https://open.spotify.com/track/2Jgq2YG8bYFnwqFFFr0rbx) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU), [J\-Rexxx](https://open.spotify.com/artist/5RNhX2Lm64fQpfcHwOWSbx), [RUEED](https://open.spotify.com/artist/4iIx9O5HVTda3EyChrHkTK) | [LOVE, MUSIC AND DANCE](https://open.spotify.com/album/6k0K8fxPxw0daw5QWCKmaQ) | 4:01 |
+| 19 | [DAZE N SUNSHINE](https://open.spotify.com/track/4AbZXj7bkhxmnhFab2Ej8l) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU), [Shing02](https://open.spotify.com/artist/0FB6beTn4vescDdnHeCUm9) | [LOVE, MUSIC AND DANCE](https://open.spotify.com/album/6k0K8fxPxw0daw5QWCKmaQ) | 4:03 |
 | 20 | [MY LIFE\. MY DESTINY](https://open.spotify.com/track/2O0918C9OEIB5uxg0RwdPd) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU), [LAZYLOXY](https://open.spotify.com/artist/5w5u1DluuMvsS9o02rqWO5) | [MY LIFE\. MY DESTINY](https://open.spotify.com/album/3sOmp9cI7NafWSHkFNUs4b) | 3:59 |
 | 21 | [I Want A Chance For Romance](https://open.spotify.com/track/2e4PuGWRWMLa18XR5Ox4q2) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU) | [VIVA LA MUSICA](https://open.spotify.com/album/2miX8EtW3WyZIB2cX4DlEx) | 3:00 |
 | 22 | [MELLOW CRUISE](https://open.spotify.com/track/5rwjc8p9p8jDcuyzWWKvKA) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU) | [MUSIC WORLD](https://open.spotify.com/album/2CyKgEGTTDk877h5CDz5zW) | 4:26 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1DGhYQ.md) - [plain]
 | 33 | [LONELY LONELY](https://open.spotify.com/track/4g8L3UDYE1dyGqjwuEpvtP) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU) | [LONELY LONELY](https://open.spotify.com/album/2l1mdPEpGChK4mPY237m5z) | 4:37 |
 | 34 | [THE SWEETEST TABOO](https://open.spotify.com/track/554GjmgJLkRvxvovKMMpbb) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU) | [VIVA LA MUSICA](https://open.spotify.com/album/2miX8EtW3WyZIB2cX4DlEx) | 4:26 |
 | 35 | [STAYING IN THE GROOVE](https://open.spotify.com/track/2nQFemzvvRyC2B6UM0zRME) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU) | [STAYING IN THE GROOVE](https://open.spotify.com/album/0G6HaT2usfAR4Y7WmFPp1q) | 4:50 |
-| 36 | [SHOW TIME](https://open.spotify.com/track/5eOOnFQHQdb5DpJvZRPS2l) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU), [AKLO](https://open.spotify.com/artist/5fNuYnFYyzsrVRtDcKPnxb) | [SHOW TIME](https://open.spotify.com/album/24yJA2oiDwau8NsrcqH2lw) | 4:44 |
-| 37 | [FOUND BLUE](https://open.spotify.com/track/3a75OF0QEnrn8LqWXWpC67) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU), [Takuya Kuroda](https://open.spotify.com/artist/4DbVGBurfbrdLW2ZwfwdmP) | [INGLOURIOUS EASTERN COWBOY](https://open.spotify.com/album/1inqg1yD9EMoVZqKXw5gmg) | 4:49 |
+| 36 | [FOUND BLUE](https://open.spotify.com/track/3a75OF0QEnrn8LqWXWpC67) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU), [Takuya Kuroda](https://open.spotify.com/artist/4DbVGBurfbrdLW2ZwfwdmP) | [INGLOURIOUS EASTERN COWBOY](https://open.spotify.com/album/1inqg1yD9EMoVZqKXw5gmg) | 4:49 |
+| 37 | [SHOW TIME](https://open.spotify.com/track/5eOOnFQHQdb5DpJvZRPS2l) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU), [AKLO](https://open.spotify.com/artist/5fNuYnFYyzsrVRtDcKPnxb) | [SHOW TIME](https://open.spotify.com/album/24yJA2oiDwau8NsrcqH2lw) | 4:44 |
 | 38 | [GABBA GABBA HEY HEY](https://open.spotify.com/track/3XlHHnZSpjLwGAkhosJIbw) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU) | [VIVA LA MUSICA](https://open.spotify.com/album/2miX8EtW3WyZIB2cX4DlEx) | 3:14 |
 | 39 | [Tokyo Pharaoh](https://open.spotify.com/track/2ddh4hVyDNFt6gBvqOmTW7) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU) | [Tokyo Pharaoh](https://open.spotify.com/album/3wJMXwks4RkMQfnVrO23n0) | 3:33 |
 | 40 | [LONELY LONELY \-ULTRA HEAVEN REMIX by ALI×鋭児\-](https://open.spotify.com/track/57CUn3paq7FpjozT9ZXSHX) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU), [鋭児](https://open.spotify.com/artist/1r1xAyct7zaJaTXWz4BfZS) | [LONELY LONELY](https://open.spotify.com/album/34Q9DMv5RDZhMuNPByXufh) | 6:26 |
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1DGhYQ.md) - [plain]
 | 43 | [BONNIE](https://open.spotify.com/track/5ecYZakfWTAKBT6JwJYmq3) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU) | [ALI](https://open.spotify.com/album/5mAvOe8oCtB1rT4khPoLTQ) | 4:44 |
 | 44 | [TRUE FICTION](https://open.spotify.com/track/1WSJOy4rfsuOiwQLrfAke7) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU) | [ALI](https://open.spotify.com/album/5mAvOe8oCtB1rT4khPoLTQ) | 4:57 |
 
-Snapshot ID: `Zv3egAAAAACDlwl5Exp+CJVzwaXz7pPy`
+Snapshot ID: `ZwCBgAAAAABCF0XCFN9jn2VdddJX99NT`

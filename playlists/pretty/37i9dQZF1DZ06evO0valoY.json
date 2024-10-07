@@ -1,13 +1,29 @@
 {
   "description": "This is Eslabon Armado. The essential tracks, all in one playlist.",
-  "num_followers": 202254,
+  "num_followers": 202267,
   "original_name": "This Is Eslabon Armado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zv3egAAAAACNQleXMlyvhlknh9BRrY3y",
+  "snapshot_id": "ZwCBgAAAAADqAZfh6B7X9febDcdqbxLh",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Amor Perdido",
+        "url": "https://open.spotify.com/album/78GGHOJMRmOy2WlmZSQomL"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        }
+      ],
+      "duration_ms": 178080,
+      "name": "Faldita",
+      "url": "https://open.spotify.com/track/1TKBveWY8Ahq5SEnSMcNGa"
+    },
     {
       "added_at": null,
       "album": {
@@ -323,22 +339,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "NOSTALGIA",
-        "url": "https://open.spotify.com/album/72rN7YPXX4BxMQ3nNmipAd"
-      },
-      "artists": [
-        {
-          "name": "Eslabon Armado",
-          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
-        }
-      ],
-      "duration_ms": 107153,
-      "name": "QUE DIABLOS HICE (INTERLUDE)",
-      "url": "https://open.spotify.com/track/7qHPpmIEa0YRnMf1d0XoWj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Corta Venas",
         "url": "https://open.spotify.com/album/7C8Wi2KmO6MqPYZqNuhZ1W"
       },
@@ -351,6 +351,22 @@
       "duration_ms": 222926,
       "name": "Diciembre",
       "url": "https://open.spotify.com/track/5kPEpa2Z7jWjfA6YMq9CGE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "NOSTALGIA",
+        "url": "https://open.spotify.com/album/72rN7YPXX4BxMQ3nNmipAd"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        }
+      ],
+      "duration_ms": 107153,
+      "name": "QUE DIABLOS HICE (INTERLUDE)",
+      "url": "https://open.spotify.com/track/7qHPpmIEa0YRnMf1d0XoWj"
     },
     {
       "added_at": null,
@@ -391,6 +407,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Corta Venas",
+        "url": "https://open.spotify.com/album/7C8Wi2KmO6MqPYZqNuhZ1W"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        }
+      ],
+      "duration_ms": 307375,
+      "name": "Ando M\u00e1s Que Mal",
+      "url": "https://open.spotify.com/track/2uVW9s3bC14wp15d3Ma6EO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "NOSTALGIA",
         "url": "https://open.spotify.com/album/72rN7YPXX4BxMQ3nNmipAd"
       },
@@ -407,22 +439,6 @@
       "duration_ms": 238560,
       "name": "DOS MORRITAS",
       "url": "https://open.spotify.com/track/2gpaJPUWNx2xmOwy2NNLu8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Corta Venas",
-        "url": "https://open.spotify.com/album/7C8Wi2KmO6MqPYZqNuhZ1W"
-      },
-      "artists": [
-        {
-          "name": "Eslabon Armado",
-          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
-        }
-      ],
-      "duration_ms": 307375,
-      "name": "Ando M\u00e1s Que Mal",
-      "url": "https://open.spotify.com/track/2uVW9s3bC14wp15d3Ma6EO"
     },
     {
       "added_at": null,
@@ -459,6 +475,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Corta Venas",
+        "url": "https://open.spotify.com/album/7C8Wi2KmO6MqPYZqNuhZ1W"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        }
+      ],
+      "duration_ms": 398466,
+      "name": "Mi Historia Entre Tus Dedos",
+      "url": "https://open.spotify.com/track/4cNOvC1mAjWEABZTxx2psa"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "NOSTALGIA",
         "url": "https://open.spotify.com/album/72rN7YPXX4BxMQ3nNmipAd"
       },
@@ -475,22 +507,6 @@
       "duration_ms": 205692,
       "name": "LA PERRIE",
       "url": "https://open.spotify.com/track/5AWwqpQnuMNCUXVZd6TOwY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Corta Venas",
-        "url": "https://open.spotify.com/album/7C8Wi2KmO6MqPYZqNuhZ1W"
-      },
-      "artists": [
-        {
-          "name": "Eslabon Armado",
-          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
-        }
-      ],
-      "duration_ms": 398466,
-      "name": "Mi Historia Entre Tus Dedos",
-      "url": "https://open.spotify.com/track/4cNOvC1mAjWEABZTxx2psa"
     },
     {
       "added_at": null,
@@ -531,6 +547,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Corta Venas",
+        "url": "https://open.spotify.com/album/7C8Wi2KmO6MqPYZqNuhZ1W"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        }
+      ],
+      "duration_ms": 208326,
+      "name": "La Mejor de Todas",
+      "url": "https://open.spotify.com/track/6tzWQCTlrZr1CnwiFGCmoM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Vibras de Noche",
         "url": "https://open.spotify.com/album/5vRoBEolA8ng3JUw3HQjMG"
       },
@@ -547,8 +579,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corta Venas",
-        "url": "https://open.spotify.com/album/7C8Wi2KmO6MqPYZqNuhZ1W"
+        "name": "Amor Perdido",
+        "url": "https://open.spotify.com/album/78GGHOJMRmOy2WlmZSQomL"
       },
       "artists": [
         {
@@ -556,9 +588,9 @@
           "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
         }
       ],
-      "duration_ms": 208326,
-      "name": "La Mejor de Todas",
-      "url": "https://open.spotify.com/track/6tzWQCTlrZr1CnwiFGCmoM"
+      "duration_ms": 228461,
+      "name": "Tu Me Encantas",
+      "url": "https://open.spotify.com/track/0bRtcwaIFscw3nbxDP4FFT"
     },
     {
       "added_at": null,
@@ -635,8 +667,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tu Veneno Mortal",
-        "url": "https://open.spotify.com/album/6fLur4KDfJ782l1m05kLWx"
+        "name": "Amor Perdido",
+        "url": "https://open.spotify.com/album/78GGHOJMRmOy2WlmZSQomL"
       },
       "artists": [
         {
@@ -644,9 +676,9 @@
           "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
         }
       ],
-      "duration_ms": 216685,
-      "name": "Tres de la Ma\u00f1ana",
-      "url": "https://open.spotify.com/track/2KZVUNMAbJ30Tvy9PkY7dB"
+      "duration_ms": 194400,
+      "name": "Loco Loco",
+      "url": "https://open.spotify.com/track/4Hem18w7fhHBBLvBAruP0l"
     },
     {
       "added_at": null,
@@ -703,6 +735,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Amor Perdido",
+        "url": "https://open.spotify.com/album/78GGHOJMRmOy2WlmZSQomL"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        }
+      ],
+      "duration_ms": 226250,
+      "name": "El Mundo es Tuyo",
+      "url": "https://open.spotify.com/track/1ReTfp9nMGVHZruQ5XnkxA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tu Veneno Mortal",
         "url": "https://open.spotify.com/album/6fLur4KDfJ782l1m05kLWx"
       },
@@ -712,25 +760,9 @@
           "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
         }
       ],
-      "duration_ms": 242442,
-      "name": "Tentacion",
-      "url": "https://open.spotify.com/track/1dccdhKRYUcjPVdMGjRQ1H"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lamento Boliviano",
-        "url": "https://open.spotify.com/album/4LBe254NURiRmej6BSdQLn"
-      },
-      "artists": [
-        {
-          "name": "Eslabon Armado",
-          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
-        }
-      ],
-      "duration_ms": 212213,
-      "name": "Lamento Boliviano",
-      "url": "https://open.spotify.com/track/6nViFsaHhvPV6GLms1R0oe"
+      "duration_ms": 216685,
+      "name": "Tres de la Ma\u00f1ana",
+      "url": "https://open.spotify.com/track/2KZVUNMAbJ30Tvy9PkY7dB"
     },
     {
       "added_at": null,
@@ -771,42 +803,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pa Que Hablen",
-        "url": "https://open.spotify.com/album/7idxAlo8GuUKWV7RhOlptp"
+        "name": "Amor Perdido",
+        "url": "https://open.spotify.com/album/78GGHOJMRmOy2WlmZSQomL"
       },
       "artists": [
         {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
-        },
-        {
           "name": "Eslabon Armado",
           "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        },
+        {
+          "name": "ERRE",
+          "url": "https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3"
         }
       ],
-      "duration_ms": 172501,
-      "name": "Aretes",
-      "url": "https://open.spotify.com/track/5ItFDgE4V1nq9VkDfZTedg"
+      "duration_ms": 227796,
+      "name": "Bandolera",
+      "url": "https://open.spotify.com/track/23yj2bGQbyXWUIME0fO3oL"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Una Mentirosa",
-        "url": "https://open.spotify.com/album/7Ax5vWCPWDcMqa2gkxATNs"
+        "name": "Tu Veneno Mortal",
+        "url": "https://open.spotify.com/album/6fLur4KDfJ782l1m05kLWx"
       },
       "artists": [
-        {
-          "name": "Oscar Maydon",
-          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
-        },
         {
           "name": "Eslabon Armado",
           "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
         }
       ],
-      "duration_ms": 182380,
-      "name": "Una Mentirosa",
-      "url": "https://open.spotify.com/track/7pl6uuLAW8W0y5qmrpn2P4"
+      "duration_ms": 242442,
+      "name": "Tentacion",
+      "url": "https://open.spotify.com/track/1dccdhKRYUcjPVdMGjRQ1H"
     },
     {
       "added_at": null,
@@ -827,8 +855,28 @@
     {
       "added_at": null,
       "album": {
-        "name": "DESVELADO",
-        "url": "https://open.spotify.com/album/5aDEezKnOqyQo0qvTFhpkM"
+        "name": "Pa Que Hablen",
+        "url": "https://open.spotify.com/album/7idxAlo8GuUKWV7RhOlptp"
+      },
+      "artists": [
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        },
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        }
+      ],
+      "duration_ms": 172501,
+      "name": "Aretes",
+      "url": "https://open.spotify.com/track/5ItFDgE4V1nq9VkDfZTedg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Amor Perdido",
+        "url": "https://open.spotify.com/album/78GGHOJMRmOy2WlmZSQomL"
       },
       "artists": [
         {
@@ -836,9 +884,25 @@
           "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
         }
       ],
-      "duration_ms": 230443,
-      "name": "Quien Es El?",
-      "url": "https://open.spotify.com/track/2JVHzNBq01Mf4pmSDagtPA"
+      "duration_ms": 280750,
+      "name": "Amarte Asi",
+      "url": "https://open.spotify.com/track/58fymvrXAJyjttILYWy5G9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lamento Boliviano",
+        "url": "https://open.spotify.com/album/4LBe254NURiRmej6BSdQLn"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        }
+      ],
+      "duration_ms": 212213,
+      "name": "Lamento Boliviano",
+      "url": "https://open.spotify.com/track/6nViFsaHhvPV6GLms1R0oe"
     }
   ],
   "unique_name": "This Is Eslabon Armado",

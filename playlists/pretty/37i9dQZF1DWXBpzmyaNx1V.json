@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Nos vemos el 2 de Noviembre en el bosque para la s\u00e9ptima edici\u00f3n del Hipnosis! \ud83d\udc41\ufe0f\ud83c\udf33\ud83c\udfd5\ufe0f Compra tus boletos <a href=\"https://www.hipnosismx.com/\"> aqu\u00ed</a>. ",
-  "num_followers": 39629,
+  "num_followers": 39628,
   "original_name": "Hipnosis 2024",
   "owner": {
     "name": "Spotify",
@@ -127,6 +127,22 @@
     {
       "added_at": "2024-06-06 00:12:16",
       "album": {
+        "name": "Moon Safari",
+        "url": "https://open.spotify.com/album/5dmYtZVJ1bG9RyrZBRrkOA"
+      },
+      "artists": [
+        {
+          "name": "Air",
+          "url": "https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ"
+        }
+      ],
+      "duration_ms": 219040,
+      "name": "Ce matin-l\u00e0",
+      "url": "https://open.spotify.com/track/7yieArGOFIdoGJv1V8hDr2"
+    },
+    {
+      "added_at": "2024-06-06 00:12:16",
+      "album": {
         "name": "Data Doom",
         "url": "https://open.spotify.com/album/2vGRBjJ30vbHMNdGYV4VUV"
       },
@@ -187,22 +203,6 @@
       "duration_ms": 230986,
       "name": "Alison",
       "url": "https://open.spotify.com/track/33HRECrmuelZxOpid6XTNX"
-    },
-    {
-      "added_at": "2024-06-06 00:12:16",
-      "album": {
-        "name": "Moon Safari",
-        "url": "https://open.spotify.com/album/5dmYtZVJ1bG9RyrZBRrkOA"
-      },
-      "artists": [
-        {
-          "name": "Air",
-          "url": "https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ"
-        }
-      ],
-      "duration_ms": 219040,
-      "name": "Ce matin-l\u00e0",
-      "url": "https://open.spotify.com/track/7yieArGOFIdoGJv1V8hDr2"
     },
     {
       "added_at": "2024-06-06 00:12:16",
@@ -287,6 +287,38 @@
     {
       "added_at": "2024-06-06 00:12:16",
       "album": {
+        "name": "Moon Safari",
+        "url": "https://open.spotify.com/album/5dmYtZVJ1bG9RyrZBRrkOA"
+      },
+      "artists": [
+        {
+          "name": "Air",
+          "url": "https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ"
+        }
+      ],
+      "duration_ms": 190866,
+      "name": "Le voyage de P\u00e9n\u00e9lope",
+      "url": "https://open.spotify.com/track/2AFttonwFsCFpC6Cos9pcZ"
+    },
+    {
+      "added_at": "2024-06-06 00:12:16",
+      "album": {
+        "name": "Tiempos Raros",
+        "url": "https://open.spotify.com/album/3xAH0AyD4FAuwV7HeS4pCB"
+      },
+      "artists": [
+        {
+          "name": "El Shirota",
+          "url": "https://open.spotify.com/artist/2rxqnbRXqBvxVHqArr6fGk"
+        }
+      ],
+      "duration_ms": 279165,
+      "name": "M\u00e1s de una Vez",
+      "url": "https://open.spotify.com/track/6rvklHauZKOO5DIAGIDYxx"
+    },
+    {
+      "added_at": "2024-06-06 00:12:16",
+      "album": {
         "name": "Hold/Still",
         "url": "https://open.spotify.com/album/4xPZjPO8tOnWhGsV2VItu9"
       },
@@ -319,22 +351,6 @@
     {
       "added_at": "2024-06-06 00:12:16",
       "album": {
-        "name": "Moon Safari",
-        "url": "https://open.spotify.com/album/5dmYtZVJ1bG9RyrZBRrkOA"
-      },
-      "artists": [
-        {
-          "name": "Air",
-          "url": "https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ"
-        }
-      ],
-      "duration_ms": 190866,
-      "name": "Le voyage de P\u00e9n\u00e9lope",
-      "url": "https://open.spotify.com/track/2AFttonwFsCFpC6Cos9pcZ"
-    },
-    {
-      "added_at": "2024-06-06 00:12:16",
-      "album": {
         "name": "Slowdive",
         "url": "https://open.spotify.com/album/1qDA0jVhj4ZTjGHmpbmmwa"
       },
@@ -351,18 +367,18 @@
     {
       "added_at": "2024-06-06 00:12:16",
       "album": {
-        "name": "Tiempos Raros",
-        "url": "https://open.spotify.com/album/3xAH0AyD4FAuwV7HeS4pCB"
+        "name": "Afelan",
+        "url": "https://open.spotify.com/album/1CcRxrJSx8aOUHxReHHEod"
       },
       "artists": [
         {
-          "name": "El Shirota",
-          "url": "https://open.spotify.com/artist/2rxqnbRXqBvxVHqArr6fGk"
+          "name": "Mdou Moctar",
+          "url": "https://open.spotify.com/artist/48dgx7iGqLQ3E5KO3pzd94"
         }
       ],
-      "duration_ms": 279165,
-      "name": "M\u00e1s de una Vez",
-      "url": "https://open.spotify.com/track/6rvklHauZKOO5DIAGIDYxx"
+      "duration_ms": 331466,
+      "name": "Tahoultine",
+      "url": "https://open.spotify.com/track/6ikkdRNriROjtjVAkqTdpL"
     },
     {
       "added_at": "2024-06-06 00:12:16",
@@ -379,22 +395,6 @@
       "duration_ms": 326565,
       "name": "Uga Buga",
       "url": "https://open.spotify.com/track/2vZWCXzDSVGEgJKspXjh0O"
-    },
-    {
-      "added_at": "2024-06-06 00:12:16",
-      "album": {
-        "name": "Afelan",
-        "url": "https://open.spotify.com/album/1CcRxrJSx8aOUHxReHHEod"
-      },
-      "artists": [
-        {
-          "name": "Mdou Moctar",
-          "url": "https://open.spotify.com/artist/48dgx7iGqLQ3E5KO3pzd94"
-        }
-      ],
-      "duration_ms": 331466,
-      "name": "Tahoultine",
-      "url": "https://open.spotify.com/track/6ikkdRNriROjtjVAkqTdpL"
     },
     {
       "added_at": "2024-06-06 00:12:16",
@@ -431,22 +431,6 @@
     {
       "added_at": "2024-06-06 00:12:16",
       "album": {
-        "name": "Electricide B/W Chalice",
-        "url": "https://open.spotify.com/album/6imHs7KJU1dnSIZoifZe5P"
-      },
-      "artists": [
-        {
-          "name": "Frankie and the Witch Fingers",
-          "url": "https://open.spotify.com/artist/5UdQDFQ3wgUPuL5kiL7KqU"
-        }
-      ],
-      "duration_ms": 216251,
-      "name": "Electricide",
-      "url": "https://open.spotify.com/track/2JvWDwCrz2binZ6zKsNh96"
-    },
-    {
-      "added_at": "2024-06-06 00:12:16",
-      "album": {
         "name": "1991",
         "url": "https://open.spotify.com/album/0pyRe3f8BoQWFGD3CMxo3j"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 406041,
       "name": "Hallelujah",
       "url": "https://open.spotify.com/track/6FY7hoMtxA2NTHsNzjlE9K"
+    },
+    {
+      "added_at": "2024-06-06 00:12:16",
+      "album": {
+        "name": "Electricide B/W Chalice",
+        "url": "https://open.spotify.com/album/6imHs7KJU1dnSIZoifZe5P"
+      },
+      "artists": [
+        {
+          "name": "Frankie and the Witch Fingers",
+          "url": "https://open.spotify.com/artist/5UdQDFQ3wgUPuL5kiL7KqU"
+        }
+      ],
+      "duration_ms": 216251,
+      "name": "Electricide",
+      "url": "https://open.spotify.com/track/2JvWDwCrz2binZ6zKsNh96"
     },
     {
       "added_at": "2024-06-06 00:12:16",

@@ -2,7 +2,7 @@
 
 ### [This Is Lalo Mora](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4dhOKA)
 
-> This is Lalo Mora\. The essential tracks, all in one playlist.
+> This is Lalo Mora\. En önemli parçalar, hepsi tek bir çalma listesinde.
 
 120 songs - 6 hr 6 min
 
@@ -74,7 +74,7 @@
 | [Lupe Rubalcava AKA Corrido De Lupe Rubalcava](https://open.spotify.com/track/6EDnuILfWDWBXsFrTmDt8L) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Corridos De Jefes](https://open.spotify.com/album/661ltDGlqi9spo8kJRNRNV) | 3:04 | 2022-10-18 | 2024-05-28 |
 | [Me la Rifo](https://open.spotify.com/track/3yjiLPEVHaYsPSdfekrm4Q) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [El Rey de Mil Coronas](https://open.spotify.com/album/4GfA6yDRCYTj3qLeRqPbSy) | 2:55 | 2022-06-17 | 2022-08-04 |
 | [Me Refiero A Ti](https://open.spotify.com/track/7ImEnjGpUS77pquZ1IeZnH) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [20 Memorias Norteñas](https://open.spotify.com/album/1BnTwu2JNvBuSAWnfDwBn4) | 3:13 | 2022-06-01 |  |
-| [Me Refiero A Ti \- Live At Nuevo León México/2009](https://open.spotify.com/track/6OAADBaPSWt8q2hcXKhswm) | [Pesado](https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK), [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Desde La Cantina Vol\. II \- Live At Nuevo León México / 2009](https://open.spotify.com/album/4YdYOZk3r8RBMqCz06Xlqp) | 3:52 | 2022-06-01 |  |
+| [Me Refiero A Ti \- Live At Nuevo León México/2009](https://open.spotify.com/track/6OAADBaPSWt8q2hcXKhswm) | [Pesado](https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK), [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Desde La Cantina Vol\. II \(Live At Nuevo León México / 2009\)](https://open.spotify.com/album/4YdYOZk3r8RBMqCz06Xlqp) | 3:52 | 2022-06-01 |  |
 | [Me Regalo Contigo](https://open.spotify.com/track/7pdWEE81ttyaExmwjKEwgt) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [La Casita De Adobe](https://open.spotify.com/album/6wU7pHjRDZGa4sRVawB1aZ) | 3:07 | 2024-05-03 |  |
 | [Me Rompieron Tu Retrato](https://open.spotify.com/track/5dPX6HwqzqafCuhzrHCEjU) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [20 Memorias Norteñas](https://open.spotify.com/album/1BnTwu2JNvBuSAWnfDwBn4) | 2:36 | 2024-06-06 | 2024-06-08 |
 | [Mi Borrachera](https://open.spotify.com/track/7hrlStQi4PXKK3aShdLYiD) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Ahí Deje las Llaves, Mami](https://open.spotify.com/album/13YFq7kLYCAe8Gcp7XRKHR) | 2:51 | 2022-06-01 |  |
@@ -106,7 +106,7 @@
 | [Que La Dejen Ir Al Baile Sola](https://open.spotify.com/track/2Ro00jkaTJPoDsZ4mJBfGv) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Mis 20 Éxitos Con Banda](https://open.spotify.com/album/3EvAjWpMqijcCmHGy0sLHG) | 2:22 | 2022-07-19 | 2022-08-01 |
 | [Que Me Perdone Dios](https://open.spotify.com/track/2h8Cd3nuSvm2qTAMeVe5d1) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Corazón Indeseable](https://open.spotify.com/album/7bTW9IU0FaKOvcRXSiorZs) | 3:03 | 2022-06-02 | 2023-02-24 |
 | [Quiero Que Sepas](https://open.spotify.com/track/5IiLxdInZYk2ZfU5d0EqHD) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ), [Banda Aramburos](https://open.spotify.com/artist/4jeNSKdfP0pmDMJYIFktjb) | [Quiero Que Sepas](https://open.spotify.com/album/2VvUxTRxFdK8biTfOWyprZ) | 2:21 | 2024-03-11 | 2024-05-19 |
-| [Rafael Caro Quintero](https://open.spotify.com/track/3WbehJeoY3BaaKJFVm2CBH) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Mis 20 Éxitos Con Banda](https://open.spotify.com/album/3EvAjWpMqijcCmHGy0sLHG) | 3:03 | 2022-07-21 |  |
+| [Rafael Caro Quintero](https://open.spotify.com/track/3WbehJeoY3BaaKJFVm2CBH) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Mis 20 Éxitos Con Banda](https://open.spotify.com/album/3EvAjWpMqijcCmHGy0sLHG) | 3:03 | 2022-07-21 | 2024-10-07 |
 | [Ramiro Sierra \(En Vivo Desde El Domo Care\)](https://open.spotify.com/track/4sllQRtNemwCtqBVdD2j6s) | [PALOMAZO NORTEÑO](https://open.spotify.com/artist/3Ok9uA7y10FoqTp6hC1ZkC), [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ), [Raúl Hernández](https://open.spotify.com/artist/27eiCnSgvMyOyJAm7sEVOB) | [PALOMAZO NORTEÑO \(En Vivo Desde El Domo Care\)](https://open.spotify.com/album/1BdNEO3z0uF5axyODDHoGX) | 3:37 | 2024-08-03 |  |
 | [Regalo Caro](https://open.spotify.com/track/3gpI8YBhKnhngpL7GaE08B) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [20 Corridos Bien Perrones](https://open.spotify.com/album/1fGux6tD9bRqucPsd1MJGi) | 3:16 | 2022-06-01 | 2024-06-18 |
 | [Regalo Caro](https://open.spotify.com/track/4Vz4J7SjB34snVIJjjrVCB) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [20 Corridos Bien Perrones](https://open.spotify.com/album/6b51Kuq495lTq1dqXQEzoo) | 3:17 | 2024-06-18 |  |

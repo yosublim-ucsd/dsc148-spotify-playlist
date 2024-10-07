@@ -2,22 +2,23 @@
 
 ### [This Is Alexis Ffrench](https://open.spotify.com/playlist/37i9dQZF1DZ06evO31nMcV)
 
-> This Is Alexis Ffrench\. Los temas esenciales, todos en una lista.
+> This is Alexis Ffrench\. The essential tracks, all in one playlist.
 
-55 songs - 2 hr 39 min
+57 songs - 2 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Change Is Gonna Come](https://open.spotify.com/track/4kDPJqN6xEWm3R1KxMR87Z) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC), [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Classical Soul Vol\. 1](https://open.spotify.com/album/1o2N59k58i7YOG6qdR7Qv9) | 0:49 | 2024-10-02 |  |
 | [A Time of Wonder](https://open.spotify.com/track/2SiUDrcdc9iewegA0TmH6s) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [The Piano Whisperer](https://open.spotify.com/album/6YY3fbUoQYSacQglLohdQU) | 2:49 | 2024-10-02 |  |
 | [A Wondrous Path](https://open.spotify.com/track/4LCktC1BeDa10GK1BwqKql) | [The Gagliano Strings](https://open.spotify.com/artist/4LJwh9ZsgqIiJcv57e6bUO), [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Stolen Lullabies](https://open.spotify.com/album/60I6ryl6K8EqSFnwQeLqWY) | 1:52 | 2024-10-02 |  |
+| [Ain't No Sunshine](https://open.spotify.com/track/4sU45HF4D5m8Sal64CxTFo) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj), [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Classical Soul Vol\. 1](https://open.spotify.com/album/1o2N59k58i7YOG6qdR7Qv9) | 0:54 | 2024-10-07 |  |
 | [Awakening](https://open.spotify.com/track/6otr6vDkjx0vlEEJzbmjsa) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [The Piano Whisperer](https://open.spotify.com/album/6YY3fbUoQYSacQglLohdQU) | 2:09 | 2024-10-02 |  |
 | [Bluebird](https://open.spotify.com/track/1dWxSS2a93X4XVfs1mSYkB) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Evolution](https://open.spotify.com/album/4N4dU9titX6FRpkHnjvAct) | 3:24 | 2024-10-02 |  |
 | [Calmer Shores](https://open.spotify.com/track/2zI2ZijxaGuYvSXQk9RMN0) | [The Gagliano Strings](https://open.spotify.com/artist/4LJwh9ZsgqIiJcv57e6bUO), [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Stolen Lullabies](https://open.spotify.com/album/60I6ryl6K8EqSFnwQeLqWY) | 1:44 | 2024-10-02 |  |
 | [Canyons](https://open.spotify.com/track/0g5CquaRz1JQZCBEesB8cw) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Truth](https://open.spotify.com/album/3vkgKLIXijInCpJGgeRsaY) | 3:52 | 2024-10-02 |  |
 | [Carousel](https://open.spotify.com/track/7qUR44mhbatVB3p4OPw3Qd) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Escape](https://open.spotify.com/album/3PxpfUA7ZgEQWAjofSURRV) | 3:01 | 2024-10-02 |  |
 | [Chasing Yesterdays](https://open.spotify.com/track/6WvRiJeHUddJnkQuZTMdDG) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Classical Soul Vol\. 1](https://open.spotify.com/album/1o2N59k58i7YOG6qdR7Qv9) | 3:38 | 2024-10-02 |  |
-| [Colours \- Solo Piano Version](https://open.spotify.com/track/6mMTqraNCrZ1zImkldJptJ) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Truth \- The Solo Piano Collection](https://open.spotify.com/album/5EMB8WAOcT4BqrRZFsW0aO) | 3:08 | 2024-10-02 |  |
+| [Colours \- Solo Piano Version](https://open.spotify.com/track/6mMTqraNCrZ1zImkldJptJ) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Truth \- The Solo Piano Collection](https://open.spotify.com/album/5EMB8WAOcT4BqrRZFsW0aO) | 3:08 | 2024-10-02 | 2024-10-07 |
 | [Coming Home](https://open.spotify.com/track/4gBREULjdyg3EQlxGpJ9C9) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX), [James Morgan](https://open.spotify.com/artist/7mC0zQ4J4cJPNGYFlmiQVC), [Royal Liverpool Philharmonic Orchestra](https://open.spotify.com/artist/6I6fmQU7HGrUsCm4B5Nlk3) | [Dreamland](https://open.spotify.com/album/4jb1RWCUm2HlhSNumh5bcm) | 3:33 | 2024-10-02 |  |
 | [Crest of a Wave](https://open.spotify.com/track/2pJFbZazTwTdPsU8tTuBoF) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Dreamland](https://open.spotify.com/album/4jb1RWCUm2HlhSNumh5bcm) | 3:15 | 2024-10-02 |  |
 | [Dreamland](https://open.spotify.com/track/1lP5gmOcL7PxGodcw6rX04) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX), [James Morgan](https://open.spotify.com/artist/7mC0zQ4J4cJPNGYFlmiQVC), [Royal Liverpool Philharmonic Orchestra](https://open.spotify.com/artist/6I6fmQU7HGrUsCm4B5Nlk3) | [Dreamland](https://open.spotify.com/album/4jb1RWCUm2HlhSNumh5bcm) | 2:41 | 2024-10-02 |  |
@@ -53,6 +54,7 @@
 | [Still Life](https://open.spotify.com/track/5Zo96jw2gqhA6JpUsmPrSu) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Truth](https://open.spotify.com/album/3vkgKLIXijInCpJGgeRsaY) | 3:22 | 2024-10-02 |  |
 | [Story of You](https://open.spotify.com/track/3eAN6u0NIx1YkkDNppNQC8) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Dreamland](https://open.spotify.com/album/4jb1RWCUm2HlhSNumh5bcm) | 3:36 | 2024-10-02 |  |
 | [Sö](https://open.spotify.com/track/49im2JqjCRehvJm9x0mqML) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Classical Soul Vol\. 1](https://open.spotify.com/album/1o2N59k58i7YOG6qdR7Qv9) | 3:54 | 2024-10-03 |  |
+| [The Heart Asks Pleasure First](https://open.spotify.com/track/62iBffOFF4zXLVYnPWqquo) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [The Heart Asks Pleasure First](https://open.spotify.com/album/0bZdcrxZlfJimQbjqYfUum) | 2:32 | 2024-10-07 |  |
 | [The Journey](https://open.spotify.com/track/0GErrpZaCNudZ4tzImWndx) | [The Gagliano Strings](https://open.spotify.com/artist/4LJwh9ZsgqIiJcv57e6bUO), [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Stolen Lullabies](https://open.spotify.com/album/60I6ryl6K8EqSFnwQeLqWY) | 2:14 | 2024-10-02 | 2024-10-04 |
 | [The Promise](https://open.spotify.com/track/0SaUNOXFFmziEOyn0Gyi9E) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Escape](https://open.spotify.com/album/3PxpfUA7ZgEQWAjofSURRV) | 2:13 | 2024-10-02 |  |
 | [The Way It Was](https://open.spotify.com/track/7B5Xs96cpGcl4zHNuZ9nLB) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [The Way It Was](https://open.spotify.com/album/1OOhYgpQiNlwt17PDvMkPM) | 3:20 | 2024-10-02 |  |

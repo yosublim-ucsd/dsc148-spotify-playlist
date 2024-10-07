@@ -1,12 +1,12 @@
 {
-  "description": "This Is Iggy Pop. Los temas esenciales, todos en una lista.",
-  "num_followers": 70017,
+  "description": "This is Iggy Pop. The essential tracks, all in one playlist.",
+  "num_followers": 70019,
   "original_name": "This Is Iggy Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zv3egAAAAACUEIPbMuZ7jzwfDP5DQgST",
+  "snapshot_id": "ZwCBgAAAAAC7sCpj2at88T3TbAEmbR8K",
   "tracks": [
     {
       "added_at": null,
@@ -327,22 +327,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lust For Life",
-        "url": "https://open.spotify.com/album/2jnV6ytZOmt71iEC5xHEYz"
-      },
-      "artists": [
-        {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
-        }
-      ],
-      "duration_ms": 219831,
-      "name": "Tonight",
-      "url": "https://open.spotify.com/track/5VOJ3OFUebaLuNqzJSNeEn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Preliminaires",
         "url": "https://open.spotify.com/album/1CXwGPRwAbg5OOMhTB5xs9"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 235293,
       "name": "Les Feuilles Mortes",
       "url": "https://open.spotify.com/track/4jsfwKGrdOLfQM5DHheVz8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lust For Life",
+        "url": "https://open.spotify.com/album/2jnV6ytZOmt71iEC5xHEYz"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "duration_ms": 219831,
+      "name": "Tonight",
+      "url": "https://open.spotify.com/track/5VOJ3OFUebaLuNqzJSNeEn"
     },
     {
       "added_at": null,
@@ -395,6 +395,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "American Caesar",
+        "url": "https://open.spotify.com/album/3f3HzLIKkqOGDAL0Iy0woi"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "duration_ms": 269506,
+      "name": "Beside You",
+      "url": "https://open.spotify.com/track/2KZYHks9fBXCX1Ac8McutM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lust For Life",
         "url": "https://open.spotify.com/album/2jnV6ytZOmt71iEC5xHEYz"
       },
@@ -427,22 +443,6 @@
       "duration_ms": 163207,
       "name": "Broken Boy (feat. Iggy Pop)",
       "url": "https://open.spotify.com/track/1j717HdHFPFwbBEAk2kwJQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "American Caesar",
-        "url": "https://open.spotify.com/album/3f3HzLIKkqOGDAL0Iy0woi"
-      },
-      "artists": [
-        {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
-        }
-      ],
-      "duration_ms": 269506,
-      "name": "Beside You",
-      "url": "https://open.spotify.com/track/2KZYHks9fBXCX1Ac8McutM"
     },
     {
       "added_at": null,
@@ -495,22 +495,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Free",
-        "url": "https://open.spotify.com/album/7BLKzTgaj5fHkNpSPGwjwh"
-      },
-      "artists": [
-        {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
-        }
-      ],
-      "duration_ms": 259113,
-      "name": "Loves Missing",
-      "url": "https://open.spotify.com/track/4ZxEF6c6dHYiRkGQjsZEY5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "EVERY LOSER",
         "url": "https://open.spotify.com/album/62VSZ71LvrUh1VoSuPgzXd"
       },
@@ -527,6 +511,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Free",
+        "url": "https://open.spotify.com/album/7BLKzTgaj5fHkNpSPGwjwh"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "duration_ms": 259113,
+      "name": "Loves Missing",
+      "url": "https://open.spotify.com/track/4ZxEF6c6dHYiRkGQjsZEY5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Apr\u00e8s (10th-anniversary edition)",
         "url": "https://open.spotify.com/album/2uZ1gpEIyqpSG5EaMWaAe2"
       },
@@ -536,25 +536,9 @@
           "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
         }
       ],
-      "duration_ms": 158400,
-      "name": "I'm Going Away Smiling",
-      "url": "https://open.spotify.com/track/23pV3PqMtZz0poleCOjqJg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Preliminaires",
-        "url": "https://open.spotify.com/album/1CXwGPRwAbg5OOMhTB5xs9"
-      },
-      "artists": [
-        {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
-        }
-      ],
-      "duration_ms": 121853,
-      "name": "King Of The Dogs",
-      "url": "https://open.spotify.com/track/1QFEq5VoRobiMhe47yKWOM"
+      "duration_ms": 163013,
+      "name": "Michelle",
+      "url": "https://open.spotify.com/track/3L2CN09jZcXtet8kEVeLPz"
     },
     {
       "added_at": null,
@@ -583,38 +567,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Post Pop Depression",
-        "url": "https://open.spotify.com/album/5jRBK15ic9i5C8ucN5LTx1"
-      },
-      "artists": [
-        {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
-        }
-      ],
-      "duration_ms": 254120,
-      "name": "Gardenia",
-      "url": "https://open.spotify.com/track/72t2ISFNIeG6oy3SE49u2N"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Apr\u00e8s (10th-anniversary edition)",
-        "url": "https://open.spotify.com/album/2uZ1gpEIyqpSG5EaMWaAe2"
-      },
-      "artists": [
-        {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
-        }
-      ],
-      "duration_ms": 163013,
-      "name": "Michelle",
-      "url": "https://open.spotify.com/track/3L2CN09jZcXtet8kEVeLPz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tainted Lunch",
         "url": "https://open.spotify.com/album/1OayjjI9jcTkZuliqxYpzJ"
       },
@@ -631,6 +583,54 @@
       "duration_ms": 69389,
       "name": "Rules of the Game",
       "url": "https://open.spotify.com/track/1CJUsYy3vy9wbdldHPq9lW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Preliminaires",
+        "url": "https://open.spotify.com/album/1CXwGPRwAbg5OOMhTB5xs9"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "duration_ms": 121853,
+      "name": "King Of The Dogs",
+      "url": "https://open.spotify.com/track/1QFEq5VoRobiMhe47yKWOM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Apr\u00e8s (10th-anniversary edition)",
+        "url": "https://open.spotify.com/album/2uZ1gpEIyqpSG5EaMWaAe2"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "duration_ms": 158400,
+      "name": "I'm Going Away Smiling",
+      "url": "https://open.spotify.com/track/23pV3PqMtZz0poleCOjqJg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Post Pop Depression",
+        "url": "https://open.spotify.com/album/5jRBK15ic9i5C8ucN5LTx1"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "duration_ms": 254120,
+      "name": "Gardenia",
+      "url": "https://open.spotify.com/track/72t2ISFNIeG6oy3SE49u2N"
     },
     {
       "added_at": null,
@@ -683,22 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Preliminaires",
-        "url": "https://open.spotify.com/album/1CXwGPRwAbg5OOMhTB5xs9"
-      },
-      "artists": [
-        {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
-        }
-      ],
-      "duration_ms": 172880,
-      "name": "I Want To Go To The Beach",
-      "url": "https://open.spotify.com/track/3Jeyxi4v6n8VakOmiG4TPf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gold (From The Original Motion Picture Soundtrack \"Gold\")",
         "url": "https://open.spotify.com/album/3Enwyua0EjFqREWX2s2zpE"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 192853,
       "name": "Gold - From The Original Motion Picture Soundtrack \"Gold\"",
       "url": "https://open.spotify.com/track/04AJSn0D3BHwT8FQ9q5FVp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Preliminaires",
+        "url": "https://open.spotify.com/album/1CXwGPRwAbg5OOMhTB5xs9"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "duration_ms": 172880,
+      "name": "I Want To Go To The Beach",
+      "url": "https://open.spotify.com/track/3Jeyxi4v6n8VakOmiG4TPf"
     },
     {
       "added_at": null,
@@ -795,6 +795,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "American Caesar",
+        "url": "https://open.spotify.com/album/3f3HzLIKkqOGDAL0Iy0woi"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "duration_ms": 228466,
+      "name": "Louie Louie",
+      "url": "https://open.spotify.com/track/15e3sz0HdP1TXxSdZV7bQc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Good Time Original Motion Picture Soundtrack",
         "url": "https://open.spotify.com/album/0m13wlRnDvoHlRiZ9nJBNX"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 269461,
       "name": "The Pure and the Damned",
       "url": "https://open.spotify.com/track/4HYRYewiGEHaHF9Pfl50PP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "American Caesar",
-        "url": "https://open.spotify.com/album/3f3HzLIKkqOGDAL0Iy0woi"
-      },
-      "artists": [
-        {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
-        }
-      ],
-      "duration_ms": 228466,
-      "name": "Louie Louie",
-      "url": "https://open.spotify.com/track/15e3sz0HdP1TXxSdZV7bQc"
     },
     {
       "added_at": null,

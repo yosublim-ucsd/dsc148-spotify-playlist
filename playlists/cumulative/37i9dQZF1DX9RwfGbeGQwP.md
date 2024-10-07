@@ -4,7 +4,7 @@
 
 > chill beats for cool coffeehouse vibes.
 
-1,473 songs - 2 day 7 hr 28 min
+1,474 songs - 2 day 7 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1075,6 +1075,7 @@
 | [Rose Cruise](https://open.spotify.com/track/48QMprf8rodxvXB6HbgxoJ) | [Macem Ly](https://open.spotify.com/artist/73vYL25O91Vg80WBvkEa7K) | [Rose Cruise](https://open.spotify.com/album/0ryWLsNdVLeRdfMYBQsJVp) | 3:00 | 2022-01-27 | 2022-05-14 |
 | [Rosé For Breakfast](https://open.spotify.com/track/7cO2sDDjsSG6altNBcy8h6) | [PIÑA PINK](https://open.spotify.com/artist/7L2I1AuvyRXd2ysLSTeKZX) | [Rosé For Breakfast](https://open.spotify.com/album/0afijbIAtcutNiEJZRwinE) | 2:44 | 2022-07-22 |  |
 | [Round around Midnight](https://open.spotify.com/track/5zNQEOheju8oxmFLHFbizp) | [Thelonious Coltrane](https://open.spotify.com/artist/6iXZPP5qLB2dtIQ4WuNk9M) | [Round around Midnight](https://open.spotify.com/album/0hMZ6cE8vW35yOp6nFORbm) | 2:07 | 2023-09-04 | 2023-10-20 |
+| [routine](https://open.spotify.com/track/0HZsLTBHkIrtDC0qmCOAtg) | [Gaccio](https://open.spotify.com/artist/5VFn6uezSGCIslQWRV5vhy) | [routine](https://open.spotify.com/album/0z1s7c5kahemDRbOVe0YOP) | 2:02 | 2024-10-04 |  |
 | [RU4Real?](https://open.spotify.com/track/3SYmrigQoWiKo91CjrszFE) | [55 South](https://open.spotify.com/artist/6Fu4AVSoxW8zh9MB1yuotB) | [RU4Real?](https://open.spotify.com/album/6acqhp7asCwo4A5mL08jQE) | 2:13 | 2022-01-27 | 2022-10-29 |
 | [Running down the street](https://open.spotify.com/track/3fQOoi6BIhaIgrrGnx2Rk2) | [Low Couture](https://open.spotify.com/artist/13mNwKx9Xb7I4qurCOJfXq) | [Running down the street](https://open.spotify.com/album/2idME1Wf8oEucltaYqgWU7) | 2:28 | 2022-11-11 |  |
 | [Rusty Flavour](https://open.spotify.com/track/0DEgUgKbTHLPjjpuM7wTEq) | [Natty Dub](https://open.spotify.com/artist/7vsFii8Yk8bNY2l3q0fbSu), [Lock](https://open.spotify.com/artist/0gpKex5pDrVpQ6YGOrOb6A) | [Rusty Flavour](https://open.spotify.com/album/01ttNAV30k2GysdNUk08LL) | 2:15 | 2022-10-08 | 2023-09-22 |
@@ -1196,7 +1197,7 @@
 | [Stacks](https://open.spotify.com/track/7eN7K7LEeMS0zC1leXHa2G) | [Puar](https://open.spotify.com/artist/2yvxxt7s9QjwEOZtLQ2yfT) | [Stacks](https://open.spotify.com/album/1contCImnUdQuH7V4sH76R) | 1:28 | 2022-11-11 | 2023-09-29 |
 | [starry night](https://open.spotify.com/track/4CvWJJdqIkE03l4P6PcXLc) | [Angry Apple](https://open.spotify.com/artist/3rcNqFlMCnywhkqxW6e0vW) | [Honeycrisp](https://open.spotify.com/album/25exJu8A2PIVrDg2kXRwov) | 1:41 | 2022-07-01 | 2022-12-10 |
 | [starwish](https://open.spotify.com/track/0DRManbKs2yPnpLuuvfcZn) | [Hector Mazza](https://open.spotify.com/artist/3ceaS5uC2QpuBHUwmfZ5wX) | [starwish](https://open.spotify.com/album/29kjxua5Rhr7rQ2iVxpPm5) | 2:01 | 2022-09-30 | 2024-05-18 |
-| [Steady](https://open.spotify.com/track/2eRAIYu9VmN2JaoTBciv5O) | [Yoga at the Disco](https://open.spotify.com/artist/4jQBn4Pe1tFPxVo3p6W7uq) | [Steady](https://open.spotify.com/album/6mNT3HUDIwel5R9r4H8DEc) | 2:20 | 2023-01-13 |  |
+| [Steady](https://open.spotify.com/track/2eRAIYu9VmN2JaoTBciv5O) | [Yoga at the Disco](https://open.spotify.com/artist/4jQBn4Pe1tFPxVo3p6W7uq) | [Steady](https://open.spotify.com/album/6mNT3HUDIwel5R9r4H8DEc) | 2:20 | 2023-01-13 | 2024-10-07 |
 | [stellar](https://open.spotify.com/track/03opga5exSy6dVnqj4aGsa) | [Chillide](https://open.spotify.com/artist/6k0mhNZbwZiBIXcihGHwn9) | [stellar](https://open.spotify.com/album/4NPCR8XYYNtqiA635xz9Yl) | 2:16 | 2023-11-17 | 2024-07-09 |
 | [Step](https://open.spotify.com/track/51pGm8SzomGrEjBKzGQnYQ) | [Stereo Pack](https://open.spotify.com/artist/7En99WrIYmOSMXYJK3A16w) | [Sunrise Citi](https://open.spotify.com/album/3ZV8TP7HHfTQN5JnpRrTUM) | 2:00 | 2022-01-27 | 2022-10-29 |
 | [Stewart brunch](https://open.spotify.com/track/73O4hg0NPZUAShQOmzb1aT) | [Euphoric](https://open.spotify.com/artist/1bwMazAmHtSVXFislONO1i) | [Stewart Brunch](https://open.spotify.com/album/6GxYAimSYBqW9wzWA4BF1f) | 1:44 | 2022-09-02 | 2024-05-18 |

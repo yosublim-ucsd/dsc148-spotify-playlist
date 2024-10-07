@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-4,249 songs - 6 day 18 hr 11 min
+4,251 songs - 6 day 18 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -607,7 +607,7 @@
 | [Catch the Wind](https://open.spotify.com/track/6cUMztYsgtLDy11HjjxXru) | [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [Catch the Wind](https://open.spotify.com/album/409xo8qXrU9EhBy1HUcH6f) | 2:53 | 2020-07-18 | 2021-02-01 |
 | [Catch\-A\-Bus](https://open.spotify.com/track/7JKjSDSNoOxneR1kghcG7W) | [Dualizm](https://open.spotify.com/artist/7q0bttnSm6LD4zu9RoPEkz) | [Catch\-A\-Bus](https://open.spotify.com/album/5k9TvCsay2ZIMOwn1fxq2Q) | 2:08 | 2021-08-22 | 2023-02-17 |
 | [Catching Bugs](https://open.spotify.com/track/1yUnku9iBoXnF7uOruq4Cl) | [t.Stratt](https://open.spotify.com/artist/6jkU1cVfoUEXpohv6NJO6v), [Pueblo Vista](https://open.spotify.com/artist/1p03eo7FG5sXEMs3lGFEwb) | [Latenite Joints 011](https://open.spotify.com/album/0YYXhAQa9UG6Vdwn0dmqzG) | 2:12 | 2021-02-20 | 2021-06-25 |
-| [Catching Up](https://open.spotify.com/track/29mfgThswjC445STQmW3ts) | [Aurora 10](https://open.spotify.com/artist/7ztuxOIQFdrMJ8pCpopMeK) | [Catching Up](https://open.spotify.com/album/6he0y4JvNkd4waD0Gm2BWq) | 2:08 | 2024-04-25 |  |
+| [Catching Up](https://open.spotify.com/track/29mfgThswjC445STQmW3ts) | [Aurora 10](https://open.spotify.com/artist/7ztuxOIQFdrMJ8pCpopMeK) | [Catching Up](https://open.spotify.com/album/6he0y4JvNkd4waD0Gm2BWq) | 2:08 | 2024-04-25 | 2024-10-07 |
 | [Caterpillar](https://open.spotify.com/track/4jdQy8mSJyVY3KaoTKSS2Y) | [Jazzbois](https://open.spotify.com/artist/0jq1z5MQSlFtvpbnLzeEul) | [Caterpillar](https://open.spotify.com/album/32rGvU3BrFUlryfw3yA5EU) | 3:06 | 2023-11-13 | 2023-11-24 |
 | [Cavaquinho](https://open.spotify.com/track/05bT4XYxT4fnBgfrpvu6Rw) | [Oaty.](https://open.spotify.com/artist/2S5BNs8nlCRoKvnw9LuwBU), [Chancla](https://open.spotify.com/artist/1GzwYC8JgtfOTyvAiiuGNs) | [Cavaquinho](https://open.spotify.com/album/3lzaTrd6xnDq33RyIETTfS) | 2:18 | 2023-04-06 | 2023-08-11 |
 | [Cavernas Agua](https://open.spotify.com/track/00rvAn9PRUxJhWeTYetQek) | [Lola](https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT) | [Cavernas Agua](https://open.spotify.com/album/0qsRlxZnIg4PwLshkfcG5f) | 2:26 | 2024-02-08 | 2024-03-08 |
@@ -741,7 +741,7 @@
 | [Coffee Lounge](https://open.spotify.com/track/2LibFNLagdslaPFEeIVgFn) | [Bequem](https://open.spotify.com/artist/5FIfzVEYEnXc1k7fPVpNZy) | [Coffee Lounge](https://open.spotify.com/album/4Kw9j32hS1NJ9FsKYsbQhI) | 1:51 | 2021-04-19 | 2021-06-11 |
 | [Coffee Shop](https://open.spotify.com/track/2nc2Sd3bh28jmFyXw5c3zm) | [Yestalgia](https://open.spotify.com/artist/68Re4wugc13HVak1p8Zawl) | [Coffee Shop](https://open.spotify.com/album/4QbdmWR49SVAOrgapcCd1E) | 2:13 | 2019-06-19 | 2019-11-28 |
 | [Coffeemaker](https://open.spotify.com/track/3Lz53wcrXWj1jnjHkWYEL7) | [Mr Mantega](https://open.spotify.com/artist/367E3x81QkJ0luGzpk8pqj) | [Coffeemaker](https://open.spotify.com/album/538Ebf78KGFKdeCqF8tTni) | 2:40 | 2021-09-10 | 2022-12-24 |
-| [Cohibas](https://open.spotify.com/track/56yJ6yhbaPSe9SwTgwi3Go) | [Slowdown](https://open.spotify.com/artist/6qMZqcd02lR7PB8Np47OSF) | [Cohibas](https://open.spotify.com/album/0HXc2high8QHZwiD9sC9k8) | 1:51 | 2023-11-23 |  |
+| [Cohibas](https://open.spotify.com/track/56yJ6yhbaPSe9SwTgwi3Go) | [Slowdown](https://open.spotify.com/artist/6qMZqcd02lR7PB8Np47OSF) | [Cohibas](https://open.spotify.com/album/0HXc2high8QHZwiD9sC9k8) | 1:51 | 2023-11-23 | 2024-10-07 |
 | [cold breeze](https://open.spotify.com/track/6O6o3hG75LEQoRQWfDvl6o) | [wüsh](https://open.spotify.com/artist/4UpdjtYWiLUuaFT18TefcK) | [cold breeze](https://open.spotify.com/album/1cvhXUu8wcbq9QP1z8qiwc) | 1:48 | 2024-01-04 | 2024-02-09 |
 | [Cold Nights](https://open.spotify.com/track/3OvLr2JwJIBYQ5OMP0eCGH) | [Dj Fki](https://open.spotify.com/artist/2RKiHUTppf6KaG2FVSBQrN), [Kevoe West](https://open.spotify.com/artist/6Va1VmR8BklpY5M7UBlhqU), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Cold Nights](https://open.spotify.com/album/2LZItmapnpVRYTQ77S2oDA) | 2:24 | 2023-11-16 | 2023-12-02 |
 | [Cold Outside](https://open.spotify.com/track/5MnNq7lsCNklRGHTCuAIwr) | [Saiko](https://open.spotify.com/artist/1ux1cA3N0QiscFolXpfbni) | [Cold Outside](https://open.spotify.com/album/0TYCoOOIwxTFUxrJv5EAIn) | 2:12 | 2021-12-04 | 2022-01-14 |
@@ -3256,6 +3256,7 @@
 | [Slow Jazz](https://open.spotify.com/track/7v6jVyrZvRfCAZDc8P79tq) | [KLIM](https://open.spotify.com/artist/2mI6A1by7u32RZH8Kf61Kw) | [Slow Jazz](https://open.spotify.com/album/0q1v98Yh9bkyPWdZrLSNWB) | 1:53 | 2022-03-31 | 2023-04-07 |
 | [Slow Pace](https://open.spotify.com/track/3CZmilQh3BDtRn8R3k02nL) | [Mr\. Käfer](https://open.spotify.com/artist/79U1adgS3jIlP28wwMHqGJ), [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt) | [Slow Pace](https://open.spotify.com/album/6ikHbzR6hpGdZgrJK1T0UB) | 2:34 | 2023-03-23 |  |
 | [Slow That](https://open.spotify.com/track/6yvE2h68zkfEfYQkfcolsA) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE), [Boora](https://open.spotify.com/artist/1xkhstLVWw3eDL1pRMN0Z7) | [Slow That](https://open.spotify.com/album/30gNFtVX8PFMd0ekh3cNyz) | 2:40 | 2021-06-19 | 2021-07-16 |
+| [Slowrider](https://open.spotify.com/track/7umX9ZZEoUgvVnM16FiJwo) | [Lotus Beats](https://open.spotify.com/artist/667RkTKDzJP6Hi3viSrkWI), [Two Scents](https://open.spotify.com/artist/7sRau6OFIdLc2jMdzZRt81) | [Slowrider](https://open.spotify.com/album/5PQNQXN9wMJE5Z3UwbXy44) | 2:00 | 2024-09-16 |  |
 | [Slum Fu](https://open.spotify.com/track/308wgXPEQdyn2fa6RcC2o1) | [Fuzl](https://open.spotify.com/artist/4PcJcSL24JeqLoQla78EPA), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Fácil Vol\. 1](https://open.spotify.com/album/0cmK9O7eRaobC02R7t9faV) | 2:07 | 2021-07-15 | 2021-10-22 |
 | [Slump Chills](https://open.spotify.com/track/3hLIeWkgVEno7EtXRF03wl) | [Damn Homies](https://open.spotify.com/artist/3oNxrt290hm3HcMTqPi5L7) | [Slump Chills](https://open.spotify.com/album/7tx1pc4ZwRuC4KefeaDarI) | 2:42 | 2022-05-20 | 2023-01-01 |
 | [Slurping Ramen in Tokyo](https://open.spotify.com/track/4W6VmMZ6BQ1g4vquUjeIDQ) | [JK Soul](https://open.spotify.com/artist/0OINA1IEY4yNLRFD5n10uS) | [Slurping Ramen in Tokyo](https://open.spotify.com/album/1dCmEHM5Ci36pMf8Y8DYGw) | 2:10 | 2021-06-23 | 2021-09-24 |
@@ -3578,6 +3579,7 @@
 | [Sunset Blvd](https://open.spotify.com/track/2VhbfT4qyB4KFhVEDplXxX) | [7apes](https://open.spotify.com/artist/4smeBjKru2y3oeQkGSfotv) | [Sunset Blvd](https://open.spotify.com/album/0JkqkDXmAOTihmfJ6Ntq25) | 3:16 | 2019-12-20 | 2020-11-07 |
 | [sunset cruise](https://open.spotify.com/track/7gPjBaQ0ezSHIAVlYTk9ad) | [Slowheal](https://open.spotify.com/artist/6XfzIkZ3Qel4Lvhba67CqC) | [sunset cruise](https://open.spotify.com/album/1MpNJDrh3JnUdl73f7p7w3) | 2:40 | 2019-05-26\* | 2020-05-12 |
 | [Sunset Cruising](https://open.spotify.com/track/41yA0HytRzoAy1Po7PPgAQ) | [Beats by Tobÿ](https://open.spotify.com/artist/7rbiDXzJIkf2MKPh9boQeF), [Tobÿ](https://open.spotify.com/artist/3EjoOshzwB9yIH8sLnbQnQ) | [Sunset Cruising](https://open.spotify.com/album/6e9KgCToxhxkbGg4ScqQYQ) | 3:05 | 2024-06-28 |  |
+| [Sunset Dribble](https://open.spotify.com/track/2pvgG3NaReC49uScWHI0pY) | [skrn](https://open.spotify.com/artist/1k29Ytv2zKdGrYGadr9etJ), [Kylan](https://open.spotify.com/artist/2jwnZnNPyGGDGKrRTQdgVp) | [Sunset Dribble](https://open.spotify.com/album/6w8n6xQ0MTY548Dj2vuXpQ) | 2:24 | 2024-09-16 |  |
 | [Sunset Drive](https://open.spotify.com/track/63VQ090fGxbT4k7betyXdM) | [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [Sunset Drive](https://open.spotify.com/album/4awEMVRzupXHNT9hmeqgza) | 2:04 | 2022-02-10 | 2022-03-11 |
 | [Sunset in the Rain](https://open.spotify.com/track/7bPBk1KlW64PZh9atN7vvk) | [Funky Fella](https://open.spotify.com/artist/1fbcnomvhK1HKLYFmquYMA) | [Sunset in the Rain](https://open.spotify.com/album/4aIwsVgczMABRRtRAbPIjY) | 3:49 | 2021-05-21 | 2021-07-02 |
 | [Sunset Market](https://open.spotify.com/track/2Jrru8EcWDn4LO5BFx744p) | [Living Room](https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK) | [Sunset Market](https://open.spotify.com/album/3lAQnf2YlaGPjctKoGkyd7) | 1:27 | 2022-03-24 | 2022-04-22 |

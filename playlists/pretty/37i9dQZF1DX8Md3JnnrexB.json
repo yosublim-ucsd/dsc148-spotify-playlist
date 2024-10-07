@@ -1,6 +1,6 @@
 {
   "description": "Laid back soul music.",
-  "num_followers": 210970,
+  "num_followers": 210976,
   "original_name": "Soulful Blend",
   "owner": {
     "name": "Spotify",
@@ -159,6 +159,22 @@
     {
       "added_at": "2024-07-03 15:11:44",
       "album": {
+        "name": "Songs In The Key Of Life",
+        "url": "https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 216426,
+      "name": "Knocks Me Off My Feet",
+      "url": "https://open.spotify.com/track/4C5GsegFD0j5ujSr1y93Oj"
+    },
+    {
+      "added_at": "2024-07-03 15:11:44",
+      "album": {
         "name": "Blue Lights in the Basement",
         "url": "https://open.spotify.com/album/4n3wZOUmVSSkxXvSeu94AN"
       },
@@ -179,22 +195,6 @@
     {
       "added_at": "2024-07-03 15:11:44",
       "album": {
-        "name": "Songs In The Key Of Life",
-        "url": "https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 216426,
-      "name": "Knocks Me Off My Feet",
-      "url": "https://open.spotify.com/track/4C5GsegFD0j5ujSr1y93Oj"
-    },
-    {
-      "added_at": "2024-07-03 15:11:44",
-      "album": {
         "name": "Breakin' Away",
         "url": "https://open.spotify.com/album/5rMktOHgYGeV65qjHk6W2X"
       },
@@ -207,22 +207,6 @@
       "duration_ms": 226066,
       "name": "We're in This Love Together",
       "url": "https://open.spotify.com/track/1Let4BYaYSum46nAGO1i6v"
-    },
-    {
-      "added_at": "2024-07-03 15:11:44",
-      "album": {
-        "name": "Collected",
-        "url": "https://open.spotify.com/album/2vBpHUDhVTInqSLxkw9Kx2"
-      },
-      "artists": [
-        {
-          "name": "Kool & The Gang",
-          "url": "https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI"
-        }
-      ],
-      "duration_ms": 226493,
-      "name": "Too Hot - Single Version",
-      "url": "https://open.spotify.com/track/6eEbn2HNU18UFDMFpa6ARp"
     },
     {
       "added_at": "2024-07-03 15:11:44",
@@ -243,6 +227,22 @@
     {
       "added_at": "2024-07-03 15:11:44",
       "album": {
+        "name": "Collected",
+        "url": "https://open.spotify.com/album/2vBpHUDhVTInqSLxkw9Kx2"
+      },
+      "artists": [
+        {
+          "name": "Kool & The Gang",
+          "url": "https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI"
+        }
+      ],
+      "duration_ms": 226493,
+      "name": "Too Hot - Single Version",
+      "url": "https://open.spotify.com/track/6eEbn2HNU18UFDMFpa6ARp"
+    },
+    {
+      "added_at": "2024-07-03 15:11:44",
+      "album": {
         "name": "Being With You",
         "url": "https://open.spotify.com/album/0QsTRgdl6PSinBK7sElqun"
       },
@@ -255,22 +255,6 @@
       "duration_ms": 246960,
       "name": "Being With You",
       "url": "https://open.spotify.com/track/5khAYmr8HHFwI3sp0Lw9wp"
-    },
-    {
-      "added_at": "2024-07-03 15:11:44",
-      "album": {
-        "name": "Control",
-        "url": "https://open.spotify.com/album/7GWkceE5McMVfffd1RGL6Y"
-      },
-      "artists": [
-        {
-          "name": "Janet Jackson",
-          "url": "https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W"
-        }
-      ],
-      "duration_ms": 277400,
-      "name": "Let's Wait Awhile",
-      "url": "https://open.spotify.com/track/3333YXdcyths5CB8v28dZj"
     },
     {
       "added_at": "2024-07-03 15:11:44",
@@ -295,34 +279,18 @@
     {
       "added_at": "2024-07-03 15:11:44",
       "album": {
-        "name": "Ship Ahoy (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0prtrB4HNL9tiEeAv57Bz8"
+        "name": "Control",
+        "url": "https://open.spotify.com/album/7GWkceE5McMVfffd1RGL6Y"
       },
       "artists": [
         {
-          "name": "The O'Jays",
-          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
+          "name": "Janet Jackson",
+          "url": "https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W"
         }
       ],
-      "duration_ms": 281200,
-      "name": "Now That We Found Love",
-      "url": "https://open.spotify.com/track/0qOkHfSClduvkvGk6fCu8l"
-    },
-    {
-      "added_at": "2024-07-03 15:11:44",
-      "album": {
-        "name": "Jarreau",
-        "url": "https://open.spotify.com/album/3shAfFQ9RZWalGR5JSgnTb"
-      },
-      "artists": [
-        {
-          "name": "Al Jarreau",
-          "url": "https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe"
-        }
-      ],
-      "duration_ms": 258399,
-      "name": "Mornin'",
-      "url": "https://open.spotify.com/track/4TxBGpTxrNvRNhF39Dl3NQ"
+      "duration_ms": 277400,
+      "name": "Let's Wait Awhile",
+      "url": "https://open.spotify.com/track/3333YXdcyths5CB8v28dZj"
     },
     {
       "added_at": "2024-07-03 15:11:44",
@@ -343,18 +311,34 @@
     {
       "added_at": "2024-07-03 15:11:44",
       "album": {
-        "name": "All This Love",
-        "url": "https://open.spotify.com/album/0idikg3MAbtPVfX7wwfBBW"
+        "name": "Jarreau",
+        "url": "https://open.spotify.com/album/3shAfFQ9RZWalGR5JSgnTb"
       },
       "artists": [
         {
-          "name": "DeBarge",
-          "url": "https://open.spotify.com/artist/6is2U7I1jlI8PjxNZOHIMV"
+          "name": "Al Jarreau",
+          "url": "https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe"
         }
       ],
-      "duration_ms": 352586,
-      "name": "All This Love",
-      "url": "https://open.spotify.com/track/6ABtlkvl08XQo6Xu24FJaf"
+      "duration_ms": 258399,
+      "name": "Mornin'",
+      "url": "https://open.spotify.com/track/4TxBGpTxrNvRNhF39Dl3NQ"
+    },
+    {
+      "added_at": "2024-07-03 15:11:44",
+      "album": {
+        "name": "Ship Ahoy (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0prtrB4HNL9tiEeAv57Bz8"
+      },
+      "artists": [
+        {
+          "name": "The O'Jays",
+          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
+        }
+      ],
+      "duration_ms": 281200,
+      "name": "Now That We Found Love",
+      "url": "https://open.spotify.com/track/0qOkHfSClduvkvGk6fCu8l"
     },
     {
       "added_at": "2024-07-03 15:11:44",
@@ -371,6 +355,22 @@
       "duration_ms": 281853,
       "name": "Shining Star",
       "url": "https://open.spotify.com/track/0np4arBSp4ZBOfXGZhXQ4I"
+    },
+    {
+      "added_at": "2024-07-03 15:11:44",
+      "album": {
+        "name": "All This Love",
+        "url": "https://open.spotify.com/album/0idikg3MAbtPVfX7wwfBBW"
+      },
+      "artists": [
+        {
+          "name": "DeBarge",
+          "url": "https://open.spotify.com/artist/6is2U7I1jlI8PjxNZOHIMV"
+        }
+      ],
+      "duration_ms": 352586,
+      "name": "All This Love",
+      "url": "https://open.spotify.com/track/6ABtlkvl08XQo6Xu24FJaf"
     },
     {
       "added_at": "2024-07-03 15:11:44",
@@ -679,22 +679,6 @@
     {
       "added_at": "2024-07-03 15:11:44",
       "album": {
-        "name": "Brother, Brother, Brother",
-        "url": "https://open.spotify.com/album/5gJBnLRkUtOjqsss6YA5XA"
-      },
-      "artists": [
-        {
-          "name": "The Isley Brothers",
-          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
-        }
-      ],
-      "duration_ms": 192600,
-      "name": "Work to Do",
-      "url": "https://open.spotify.com/track/1b7tZPt3S2UN6OrPUBqGCp"
-    },
-    {
-      "added_at": "2024-07-03 15:11:44",
-      "album": {
         "name": "Love's Theme: The Best Of The 20th Century Records Singles",
         "url": "https://open.spotify.com/album/1xemy8uSRy4dEMyN13fUu3"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 239600,
       "name": "September When I First Met You - Single Version",
       "url": "https://open.spotify.com/track/22nqc8OGp6fhEQlTdSs476"
+    },
+    {
+      "added_at": "2024-07-03 15:11:44",
+      "album": {
+        "name": "Brother, Brother, Brother",
+        "url": "https://open.spotify.com/album/5gJBnLRkUtOjqsss6YA5XA"
+      },
+      "artists": [
+        {
+          "name": "The Isley Brothers",
+          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
+        }
+      ],
+      "duration_ms": 192600,
+      "name": "Work to Do",
+      "url": "https://open.spotify.com/track/1b7tZPt3S2UN6OrPUBqGCp"
     },
     {
       "added_at": "2024-07-03 15:11:44",
@@ -747,22 +747,6 @@
     {
       "added_at": "2024-07-03 15:11:44",
       "album": {
-        "name": "Lady Soul (With Bonus Selections)",
-        "url": "https://open.spotify.com/album/7lEOKZaOpqP70UYqdLPejG"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "duration_ms": 177706,
-      "name": "Groovin'",
-      "url": "https://open.spotify.com/track/1FjyfUBL7Dj1GpSxL1XLCQ"
-    },
-    {
-      "added_at": "2024-07-03 15:11:44",
-      "album": {
         "name": "Lunch Money",
         "url": "https://open.spotify.com/album/7qHDGVGFUcvHQXTJk8nJbH"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 300226,
       "name": "Love, Need and Want You",
       "url": "https://open.spotify.com/track/2PMW9aVSHvMwUC428yfDqx"
+    },
+    {
+      "added_at": "2024-07-03 15:11:44",
+      "album": {
+        "name": "Lady Soul (With Bonus Selections)",
+        "url": "https://open.spotify.com/album/7lEOKZaOpqP70UYqdLPejG"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 177706,
+      "name": "Groovin'",
+      "url": "https://open.spotify.com/track/1FjyfUBL7Dj1GpSxL1XLCQ"
     },
     {
       "added_at": "2024-07-03 15:11:44",
@@ -939,26 +939,6 @@
     {
       "added_at": "2024-07-03 15:11:44",
       "album": {
-        "name": "Givin' It Up",
-        "url": "https://open.spotify.com/album/5T2Nw2EsHUp27w6IOuBt3T"
-      },
-      "artists": [
-        {
-          "name": "George Benson",
-          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
-        },
-        {
-          "name": "Al Jarreau",
-          "url": "https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe"
-        }
-      ],
-      "duration_ms": 301000,
-      "name": "Summer Breeze",
-      "url": "https://open.spotify.com/track/1BDohKyV2EJ6iOmvx1K2FW"
-    },
-    {
-      "added_at": "2024-07-03 15:11:44",
-      "album": {
         "name": "Gravy",
         "url": "https://open.spotify.com/album/5xZdBUJsZ3RIiePqGFgOaP"
       },
@@ -1011,6 +991,26 @@
       "duration_ms": 309226,
       "name": "I'm Back for More",
       "url": "https://open.spotify.com/track/2zC0uKFfERvtOYNKendhEs"
+    },
+    {
+      "added_at": "2024-07-03 15:11:44",
+      "album": {
+        "name": "Givin' It Up",
+        "url": "https://open.spotify.com/album/5T2Nw2EsHUp27w6IOuBt3T"
+      },
+      "artists": [
+        {
+          "name": "George Benson",
+          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
+        },
+        {
+          "name": "Al Jarreau",
+          "url": "https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe"
+        }
+      ],
+      "duration_ms": 301000,
+      "name": "Summer Breeze",
+      "url": "https://open.spotify.com/track/1BDohKyV2EJ6iOmvx1K2FW"
     },
     {
       "added_at": "2024-07-03 15:11:44",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2024-07-03 15:11:44",
       "album": {
-        "name": "Give Me the Night",
-        "url": "https://open.spotify.com/album/6qwOcN9wZgVF0bishcfFsh"
-      },
-      "artists": [
-        {
-          "name": "George Benson",
-          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
-        }
-      ],
-      "duration_ms": 204760,
-      "name": "Moody's Mood",
-      "url": "https://open.spotify.com/track/3qLbISQSn2uZajYIxYiOcP"
-    },
-    {
-      "added_at": "2024-07-03 15:11:44",
-      "album": {
         "name": "Only Wanna Be With You",
         "url": "https://open.spotify.com/album/5MEXy3BoHRig5xBgxdzegm"
       },
@@ -1171,6 +1155,22 @@
     {
       "added_at": "2024-07-03 15:11:44",
       "album": {
+        "name": "Give Me the Night",
+        "url": "https://open.spotify.com/album/6qwOcN9wZgVF0bishcfFsh"
+      },
+      "artists": [
+        {
+          "name": "George Benson",
+          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
+        }
+      ],
+      "duration_ms": 204760,
+      "name": "Moody's Mood",
+      "url": "https://open.spotify.com/track/3qLbISQSn2uZajYIxYiOcP"
+    },
+    {
+      "added_at": "2024-07-03 15:11:44",
+      "album": {
         "name": "Evolution",
         "url": "https://open.spotify.com/album/6lFqMVJY7wWl1WLRmSYoug"
       },
@@ -1183,6 +1183,22 @@
       "duration_ms": 333133,
       "name": "New York State Of Mind",
       "url": "https://open.spotify.com/track/3tCLYifmzJhJHjUTTfPu0P"
+    },
+    {
+      "added_at": "2024-07-03 15:11:44",
+      "album": {
+        "name": "Aretha Now",
+        "url": "https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 181466,
+      "name": "I Can't See Myself Leaving You",
+      "url": "https://open.spotify.com/track/0MsJNBcfNoIcf868I2MOHo"
     },
     {
       "added_at": "2024-07-03 15:11:44",
@@ -1207,38 +1223,6 @@
     {
       "added_at": "2024-07-03 15:11:44",
       "album": {
-        "name": "Aretha Now",
-        "url": "https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "duration_ms": 181466,
-      "name": "I Can't See Myself Leaving You",
-      "url": "https://open.spotify.com/track/0MsJNBcfNoIcf868I2MOHo"
-    },
-    {
-      "added_at": "2024-07-03 15:11:44",
-      "album": {
-        "name": "Classic Love Songs",
-        "url": "https://open.spotify.com/album/4IjcmdZGlWtNP83pts9Ktg"
-      },
-      "artists": [
-        {
-          "name": "George Benson",
-          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
-        }
-      ],
-      "duration_ms": 284533,
-      "name": "Love X Love",
-      "url": "https://open.spotify.com/track/3unVxPRMPloyBO70zQTksn"
-    },
-    {
-      "added_at": "2024-07-03 15:11:44",
-      "album": {
         "name": "Love Is Gonna Getcha",
         "url": "https://open.spotify.com/album/709eBqOXOnZfdMts8husvP"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 307000,
       "name": "Through The Test Of Time",
       "url": "https://open.spotify.com/track/4aRVe5BSez0xl1znDotjxX"
+    },
+    {
+      "added_at": "2024-07-03 15:11:44",
+      "album": {
+        "name": "Like Neptune",
+        "url": "https://open.spotify.com/album/014KjVEwCWxN2hWFYsUWNB"
+      },
+      "artists": [
+        {
+          "name": "Son Little",
+          "url": "https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7"
+        }
+      ],
+      "duration_ms": 233853,
+      "name": "bend yr ear",
+      "url": "https://open.spotify.com/track/3mslSmibP6M7u9RQEOZ2Zh"
     },
     {
       "added_at": "2024-07-03 15:11:44",
@@ -1271,18 +1271,18 @@
     {
       "added_at": "2024-07-03 15:11:44",
       "album": {
-        "name": "Like Neptune",
-        "url": "https://open.spotify.com/album/014KjVEwCWxN2hWFYsUWNB"
+        "name": "Classic Love Songs",
+        "url": "https://open.spotify.com/album/4IjcmdZGlWtNP83pts9Ktg"
       },
       "artists": [
         {
-          "name": "Son Little",
-          "url": "https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7"
+          "name": "George Benson",
+          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
         }
       ],
-      "duration_ms": 233853,
-      "name": "bend yr ear",
-      "url": "https://open.spotify.com/track/3mslSmibP6M7u9RQEOZ2Zh"
+      "duration_ms": 284533,
+      "name": "Love X Love",
+      "url": "https://open.spotify.com/track/3unVxPRMPloyBO70zQTksn"
     },
     {
       "added_at": "2024-07-03 15:11:44",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2024-07-03 15:11:44",
       "album": {
-        "name": "Smooth Soul",
-        "url": "https://open.spotify.com/album/7JXpGPQdyjtD1FEMGGipSD"
-      },
-      "artists": [
-        {
-          "name": "George Benson",
-          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
-        }
-      ],
-      "duration_ms": 214546,
-      "name": "Midnight Love Affair",
-      "url": "https://open.spotify.com/track/3IGYL4FbFEv9u9J1QC5BKI"
-    },
-    {
-      "added_at": "2024-07-03 15:11:44",
-      "album": {
         "name": "Every Generation (Remastered)",
         "url": "https://open.spotify.com/album/55KJaaqlGFmdHysAekitOY"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 242133,
       "name": "Just Don't Wanna Be Lonely",
       "url": "https://open.spotify.com/track/2d7XPNOWJ8HS0iSgJXRAJ9"
+    },
+    {
+      "added_at": "2024-07-03 15:11:44",
+      "album": {
+        "name": "Smooth Soul",
+        "url": "https://open.spotify.com/album/7JXpGPQdyjtD1FEMGGipSD"
+      },
+      "artists": [
+        {
+          "name": "George Benson",
+          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
+        }
+      ],
+      "duration_ms": 214546,
+      "name": "Midnight Love Affair",
+      "url": "https://open.spotify.com/track/3IGYL4FbFEv9u9J1QC5BKI"
     },
     {
       "added_at": "2024-07-03 15:11:44",

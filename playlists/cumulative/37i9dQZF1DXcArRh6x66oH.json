@@ -2353,6 +2353,24 @@
     },
     {
       "album": {
+        "name": "Heaven On Earth",
+        "url": "https://open.spotify.com/album/5o919zG29Vo2KpdgWuWBxQ"
+      },
+      "artists": [
+        {
+          "name": "Hayden Blount",
+          "url": "https://open.spotify.com/artist/3lMuNq4oBlVIMBJcpAuT4j"
+        }
+      ],
+      "date_added": "2024-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "Heaven On Earth",
+      "url": "https://open.spotify.com/track/5IOnG2HrnO062RDwgx0TuO"
+    },
+    {
+      "album": {
         "name": "Hell is a Dance Floor",
         "url": "https://open.spotify.com/album/0HNfc7NP8LOZ5dfnyesMoY"
       },

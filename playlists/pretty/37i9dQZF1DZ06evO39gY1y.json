@@ -1,12 +1,12 @@
 {
-  "description": "This is Charles Ans. Tutti i brani in un'unica playlist.",
-  "num_followers": 231063,
+  "description": "This is Charles Ans. The essential tracks, all in one playlist.",
+  "num_followers": 231123,
   "original_name": "This Is Charles Ans",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zv3egAAAAACxlBnuO4IUo5HOTN9YG7qT",
+  "snapshot_id": "ZwCBgAAAAAAU+Xr8PG+AdkQROQCYTs2X",
   "tracks": [
     {
       "added_at": null,
@@ -783,26 +783,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Suena En Mi Barrio",
-        "url": "https://open.spotify.com/album/5CI5uDMVwq1peqgm0nAO5c"
-      },
-      "artists": [
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        },
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        }
-      ],
-      "duration_ms": 233142,
-      "name": "Suena En Mi Barrio",
-      "url": "https://open.spotify.com/track/74yqnVCGQpA9zGTTmBJe6C"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ataraxia: A Plena Luz del Dia",
         "url": "https://open.spotify.com/album/2ioeDgPaHJ7cID0n6KrkXi"
       },
@@ -819,6 +799,26 @@
       "duration_ms": 248000,
       "name": "Tardes",
       "url": "https://open.spotify.com/track/3Y5jrneE5ErAfidBuofcKJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Suena En Mi Barrio",
+        "url": "https://open.spotify.com/album/5CI5uDMVwq1peqgm0nAO5c"
+      },
+      "artists": [
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        },
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        }
+      ],
+      "duration_ms": 233142,
+      "name": "Suena En Mi Barrio",
+      "url": "https://open.spotify.com/track/74yqnVCGQpA9zGTTmBJe6C"
     },
     {
       "added_at": null,
@@ -867,6 +867,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ataraxia: A Plena Luz del Dia",
+        "url": "https://open.spotify.com/album/2ioeDgPaHJ7cID0n6KrkXi"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        }
+      ],
+      "duration_ms": 211000,
+      "name": "Aunque la Vida Duele",
+      "url": "https://open.spotify.com/track/4tvsIgHpZyZWXS7yfPMKTc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Que Se Fue",
         "url": "https://open.spotify.com/album/1WXcLpnA8CXFXpHM9Yuz26"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 166499,
       "name": "La Que Se Fue",
       "url": "https://open.spotify.com/track/0CTaaPUheCCdynjsZhhwlB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ataraxia: A Plena Luz del Dia",
-        "url": "https://open.spotify.com/album/2ioeDgPaHJ7cID0n6KrkXi"
-      },
-      "artists": [
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        }
-      ],
-      "duration_ms": 211000,
-      "name": "Aunque la Vida Duele",
-      "url": "https://open.spotify.com/track/4tvsIgHpZyZWXS7yfPMKTc"
     },
     {
       "added_at": null,
@@ -1007,26 +1007,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mis Ojos No Pod\u00edan Ver",
-        "url": "https://open.spotify.com/album/6DflZePH7U2oKHumS0DWyM"
-      },
-      "artists": [
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        },
-        {
-          "name": "BCN",
-          "url": "https://open.spotify.com/artist/1M3oDOCXXZVkIlXPp5gAKd"
-        }
-      ],
-      "duration_ms": 134500,
-      "name": "La Parada del Bus",
-      "url": "https://open.spotify.com/track/06A0LWFYMgQ6PCkmn5pE9K"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cada Vez",
         "url": "https://open.spotify.com/album/4eNiNe8uTe8LK410C4OOTJ"
       },
@@ -1083,6 +1063,26 @@
       "duration_ms": 204631,
       "name": "\u00bfD\u00f3nde Estar\u00e1s?",
       "url": "https://open.spotify.com/track/2osyhnv7vdVGs4VyeBANZ1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Villana",
+        "url": "https://open.spotify.com/album/4SXO8RzIDtT6K5FM83U12u"
+      },
+      "artists": [
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        },
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        }
+      ],
+      "duration_ms": 198787,
+      "name": "Villana",
+      "url": "https://open.spotify.com/track/12IUz1c094GzxDR89vfbO4"
     }
   ],
   "unique_name": "This Is Charles Ans",

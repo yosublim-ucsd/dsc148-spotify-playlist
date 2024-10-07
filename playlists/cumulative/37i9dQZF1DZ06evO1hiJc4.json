@@ -60,7 +60,7 @@
       ],
       "date_added": "2024-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-01",
+      "date_removed": null,
       "duration_ms": 102603,
       "name": "Accepted By The Crew",
       "url": "https://open.spotify.com/track/20pJfe2XnmhYQWlKUlamHh"
@@ -170,7 +170,7 @@
       ],
       "date_added": "2024-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-07",
       "duration_ms": 69153,
       "name": "Benji Puts His Mum To Rest",
       "url": "https://open.spotify.com/track/34G1uKTSzL3Rw0FzX93Mpw"
@@ -955,6 +955,28 @@
     },
     {
       "album": {
+        "name": "EUPHORIA SEASON 2 OFFICIAL SCORE (FROM THE HBO ORIGINAL SERIES)",
+        "url": "https://open.spotify.com/album/43tSLc6ZxW8TTRLrBO0SU1"
+      },
+      "artists": [
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        },
+        {
+          "name": "Zendaya",
+          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
+        }
+      ],
+      "date_added": "2024-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137142,
+      "name": "Rue's I'm Tired (with Zendaya)",
+      "url": "https://open.spotify.com/track/2zK87MbyKo6RRc520hbGAW"
+    },
+    {
+      "album": {
         "name": "Same Team (feat. Stefflon Don)",
         "url": "https://open.spotify.com/album/5bK3Xn3qq3qvqVRLbQiAY9"
       },
@@ -1254,7 +1276,7 @@
       ],
       "date_added": "2023-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-07",
       "duration_ms": 198401,
       "name": "Where The Wild Things",
       "url": "https://open.spotify.com/track/1ooP2mxAp73HtHb4KJ8dtB"

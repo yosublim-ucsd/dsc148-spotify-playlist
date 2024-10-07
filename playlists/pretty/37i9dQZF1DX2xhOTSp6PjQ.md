@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xhOTSp6PjQ.md) - [plain]
 
 > Khuphuka lapho… seku\-late! Cover:  <a href="https://open.spotify.com/artist/1MLyzirvUgvt90R9DISyeJ?si=4qHdG1oES2Wwg4ra293T\_A">Zwide</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,140 likes - 60 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,362 likes - 60 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

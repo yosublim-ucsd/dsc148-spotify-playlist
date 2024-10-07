@@ -4,14 +4,14 @@
 
 > All new music with an Indie twist\. Cover: Pitou, LUWTEN & Naaz
 
-136 songs - 7 hr 51 min
+137 songs - 7 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [2008](https://open.spotify.com/track/6P9k0dC9CP1g4ZlSzQn90M) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [2008](https://open.spotify.com/album/5KC7HD8Zt9kF088rA3SLl4) | 2:33 | 2024-09-05 |  |
 | [4AM](https://open.spotify.com/track/0irMdkppdBxssDcDPA8O4J) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [4AM](https://open.spotify.com/album/1ubsYit9EabHvaVlxIaGNU) | 2:58 | 2024-10-03 |  |
 | [9TH OF THE MONTH](https://open.spotify.com/track/55rlL4BY1WMef32ka1g11V) | [h3nce](https://open.spotify.com/artist/2NII5V3cxjPuP5cg6UK7Ob) | [9TH OF THE MONTH](https://open.spotify.com/album/1dQVN4OJtWIUEkRb64fD1N) | 2:03 | 2024-06-24 | 2024-08-31 |
-| [:\)](https://open.spotify.com/track/36YY9Yeq3XastTeC1e0VmN) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [:\)](https://open.spotify.com/album/6UHK8Ur2u73SSq62gwsmFo) | 3:00 | 2024-06-24 |  |
+| [:\)](https://open.spotify.com/track/36YY9Yeq3XastTeC1e0VmN) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [:\)](https://open.spotify.com/album/6UHK8Ur2u73SSq62gwsmFo) | 3:00 | 2024-06-24 | 2024-10-07 |
 | [Add Up My Love](https://open.spotify.com/track/6FcDxtnGfsYHOcGkXN2OIG) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Charm](https://open.spotify.com/album/1KNUCVXgIxKUGiuEB8eG0i) | 3:25 | 2024-07-11 |  |
 | [After the First Kiss](https://open.spotify.com/track/5bPwGutk2BKA46R4hQuZZ0) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [After the First Kiss](https://open.spotify.com/album/1Cvw7CEYBIp4ptnA3UzDxO) | 3:34 | 2024-10-03 |  |
 | [All A Mystery](https://open.spotify.com/track/1fYdtAhgGLKmOZE46mCGm0) | [Phantogram](https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH) | [All A Mystery](https://open.spotify.com/album/33NhYguzpm450MS00ZxbC0) | 3:09 | 2024-06-24 | 2024-09-20 |
@@ -97,6 +97,7 @@
 | [Nearness of You](https://open.spotify.com/track/2G6U94s65dWkZPj7dr9vJ1) | [Sevens](https://open.spotify.com/artist/16TJwfQFZXTDDkPwG1FOzd) | [Nearness of You](https://open.spotify.com/album/69hePKG2dE7jrvHuMsCz3X) | 4:12 | 2024-06-24 |  |
 | [No Boat No Aeroplane](https://open.spotify.com/track/3VwB0Pt5DczMEIzSaao8yH) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [No Boat No Aeroplane](https://open.spotify.com/album/3yk8qLTSEPhdfKQVQCMFXd) | 5:12 | 2024-06-24 | 2024-10-04 |
 | [No Relation](https://open.spotify.com/track/2CmvMQEPeCSnfOXelqycbk) | [Naive Set](https://open.spotify.com/artist/1SPS81Jo8TCGUCiQIEfLYh) | [No Relation / Moving Target](https://open.spotify.com/album/5ZHgZ8FkNTfQofkj03Bmli) | 4:02 | 2024-06-24 | 2024-07-27 |
+| [No Surprise](https://open.spotify.com/track/3CwHonJzs4dZuASYwTjEYf) | [Warhaus](https://open.spotify.com/artist/5uy67fWgovgNdbkP1kAf7m) | [No Surprise](https://open.spotify.com/album/2xpXAVpzwfzp1Zm4vgeTXY) | 3:44 | 2024-10-06 |  |
 | [Nomad](https://open.spotify.com/track/5NR7XN88d1NhOXKR0vD5XK) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Nomad](https://open.spotify.com/album/6Utl8nDyt1rOSXA2vOnqdq) | 3:45 | 2024-06-27 | 2024-09-20 |
 | [Peaceful Now](https://open.spotify.com/track/6SiGBl8vh4vJuxxTrE4uqE) | [Shishani](https://open.spotify.com/artist/255ZPAkvfPjmKwPj4mC48B) | [Peaceful Now](https://open.spotify.com/album/27JGlj8aO16dMYFe62fsxN) | 2:33 | 2024-10-03 |  |
 | [Peachy Free](https://open.spotify.com/track/4GGo1Vr6nFBEGvT6z7yKo2) | [BEA1991](https://open.spotify.com/artist/6F93aFbWjhUtjRKXYmtr1Z) | [Peachy Free](https://open.spotify.com/album/5Wyl6qnCHluBRkGgU3WM94) | 2:34 | 2024-07-11 | 2024-09-20 |

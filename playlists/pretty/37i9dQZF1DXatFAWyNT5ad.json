@@ -1,6 +1,6 @@
 {
   "description": "Let's mix it. Cover: MOTHICA",
-  "num_followers": 143167,
+  "num_followers": 143185,
   "original_name": "Pop Rock",
   "owner": {
     "name": "Spotify",
@@ -335,18 +335,18 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "GUTS",
-        "url": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
+        "name": "Eyes Closed",
+        "url": "https://open.spotify.com/album/4p78uCfiL8gmt2AKrlWATG"
       },
       "artists": [
         {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
         }
       ],
-      "duration_ms": 211141,
-      "name": "get him back!",
-      "url": "https://open.spotify.com/track/2gyxAWHebV7xPYVxqoi86f"
+      "duration_ms": 200010,
+      "name": "Eyes Closed",
+      "url": "https://open.spotify.com/track/4o120XeV8els1S5bu7mzBX"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -387,18 +387,18 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Eyes Closed",
-        "url": "https://open.spotify.com/album/4p78uCfiL8gmt2AKrlWATG"
+        "name": "GUTS",
+        "url": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
       },
       "artists": [
         {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
         }
       ],
-      "duration_ms": 200010,
-      "name": "Eyes Closed",
-      "url": "https://open.spotify.com/track/4o120XeV8els1S5bu7mzBX"
+      "duration_ms": 211141,
+      "name": "get him back!",
+      "url": "https://open.spotify.com/track/2gyxAWHebV7xPYVxqoi86f"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -415,6 +415,22 @@
       "duration_ms": 247067,
       "name": "THE LONELIEST",
       "url": "https://open.spotify.com/track/1Ame8XTX6QHY0l0ahqUhgv"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Fireworks & Rollerblades",
+        "url": "https://open.spotify.com/album/168CdR21lfn0TTyw1Pkdcm"
+      },
+      "artists": [
+        {
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+        }
+      ],
+      "duration_ms": 186359,
+      "name": "Cry",
+      "url": "https://open.spotify.com/track/3h76tbaYIamSeJL81X7ZwI"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -471,22 +487,6 @@
       "duration_ms": 204458,
       "name": "Happier (feat. Oli Sykes of Bring Me The Horizon)",
       "url": "https://open.spotify.com/track/0UNDrAptMY5glGrcdr93Kx"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "Fireworks & Rollerblades",
-        "url": "https://open.spotify.com/album/168CdR21lfn0TTyw1Pkdcm"
-      },
-      "artists": [
-        {
-          "name": "Benson Boone",
-          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
-        }
-      ],
-      "duration_ms": 186359,
-      "name": "Cry",
-      "url": "https://open.spotify.com/track/3h76tbaYIamSeJL81X7ZwI"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -783,22 +783,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "How Do You Love Somebody",
-        "url": "https://open.spotify.com/album/2Dc1wn06E8wwYLivi87Brc"
-      },
-      "artists": [
-        {
-          "name": "Why Don't We",
-          "url": "https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2"
-        }
-      ],
-      "duration_ms": 180065,
-      "name": "How Do You Love Somebody",
-      "url": "https://open.spotify.com/track/4j5gXarJqoiwh4ZIAqZcmh"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "Cinderella Snapped",
         "url": "https://open.spotify.com/album/7iUDdeaEqO2asWLp8zPE3n"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 173103,
       "name": "Cinderella Snapped",
       "url": "https://open.spotify.com/track/3udCid1W2whR6CQrVpsKUh"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "How Do You Love Somebody",
+        "url": "https://open.spotify.com/album/2Dc1wn06E8wwYLivi87Brc"
+      },
+      "artists": [
+        {
+          "name": "Why Don't We",
+          "url": "https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2"
+        }
+      ],
+      "duration_ms": 180065,
+      "name": "How Do You Love Somebody",
+      "url": "https://open.spotify.com/track/4j5gXarJqoiwh4ZIAqZcmh"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -915,22 +915,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Want Me",
-        "url": "https://open.spotify.com/album/26fVz5K8XbNM0fNcQnaO3s"
-      },
-      "artists": [
-        {
-          "name": "Stephen Dawes",
-          "url": "https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose"
-        }
-      ],
-      "duration_ms": 163391,
-      "name": "Want Me",
-      "url": "https://open.spotify.com/track/5Czd9hqOj4uvwpieRmVlTw"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "Heart Attack (Rock Version)",
         "url": "https://open.spotify.com/album/2rOWZbcGNXuzelDRabOHI8"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 239011,
       "name": "Heart Attack - Rock Version",
       "url": "https://open.spotify.com/track/6qgwX7o1fYLwbikNrddmFo"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Want Me",
+        "url": "https://open.spotify.com/album/26fVz5K8XbNM0fNcQnaO3s"
+      },
+      "artists": [
+        {
+          "name": "Stephen Dawes",
+          "url": "https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose"
+        }
+      ],
+      "duration_ms": 163391,
+      "name": "Want Me",
+      "url": "https://open.spotify.com/track/5Czd9hqOj4uvwpieRmVlTw"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -999,22 +999,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Power",
-        "url": "https://open.spotify.com/album/15ypOlXwgFQrF9KfhISXhn"
-      },
-      "artists": [
-        {
-          "name": "The Score",
-          "url": "https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I"
-        }
-      ],
-      "duration_ms": 142533,
-      "name": "Power",
-      "url": "https://open.spotify.com/track/55UAMzSFfLE3SvUksiRUGu"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "I'm In Love With You",
         "url": "https://open.spotify.com/album/3TI3FFFz3hKQfsL0izZ8JS"
       },
@@ -1031,18 +1015,18 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "LOSER!!",
-        "url": "https://open.spotify.com/album/0V7dIK9Bf6aVqSZuV0fqhD"
+        "name": "Power",
+        "url": "https://open.spotify.com/album/15ypOlXwgFQrF9KfhISXhn"
       },
       "artists": [
         {
-          "name": "Mckenna Grace",
-          "url": "https://open.spotify.com/artist/1ZjXhESKpjsv31L7ykuJBE"
+          "name": "The Score",
+          "url": "https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I"
         }
       ],
-      "duration_ms": 228133,
-      "name": "LOSER!!",
-      "url": "https://open.spotify.com/track/5lHh9CANIUY82y1HEzoeIX"
+      "duration_ms": 142533,
+      "name": "Power",
+      "url": "https://open.spotify.com/track/55UAMzSFfLE3SvUksiRUGu"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1059,6 +1043,22 @@
       "duration_ms": 228138,
       "name": "Oh No :: He Said What?",
       "url": "https://open.spotify.com/track/7Gk8icymiW50sDfFbWLoVG"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "LOSER!!",
+        "url": "https://open.spotify.com/album/0V7dIK9Bf6aVqSZuV0fqhD"
+      },
+      "artists": [
+        {
+          "name": "Mckenna Grace",
+          "url": "https://open.spotify.com/artist/1ZjXhESKpjsv31L7ykuJBE"
+        }
+      ],
+      "duration_ms": 228133,
+      "name": "LOSER!!",
+      "url": "https://open.spotify.com/track/5lHh9CANIUY82y1HEzoeIX"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Without You",
-        "url": "https://open.spotify.com/album/0FC1kJead46CsxnGGjmwA4"
-      },
-      "artists": [
-        {
-          "name": "Andy Grammer",
-          "url": "https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj"
-        }
-      ],
-      "duration_ms": 191554,
-      "name": "Without You",
-      "url": "https://open.spotify.com/track/0Y5fBC703Co6hAYrM9uX5J"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "i\u2019m too pretty for this",
         "url": "https://open.spotify.com/album/50hj2kKggCkXqSIX2c1rxF"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 166037,
       "name": "i'm too pretty for this",
       "url": "https://open.spotify.com/track/4shULiz3P7luscRsQobtDN"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Without You",
+        "url": "https://open.spotify.com/album/0FC1kJead46CsxnGGjmwA4"
+      },
+      "artists": [
+        {
+          "name": "Andy Grammer",
+          "url": "https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj"
+        }
+      ],
+      "duration_ms": 191554,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/0Y5fBC703Co6hAYrM9uX5J"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Sleepwalking",
-        "url": "https://open.spotify.com/album/4bI5LF5zauGsBIL9z8mLyl"
-      },
-      "artists": [
-        {
-          "name": "All Time Low",
-          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
-        }
-      ],
-      "duration_ms": 187140,
-      "name": "Sleepwalking",
-      "url": "https://open.spotify.com/track/4SOtTsuFYYlkOOvXMbroUv"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "One of the Guys",
         "url": "https://open.spotify.com/album/3PMqsg6TJ2AaTCA00Y7Sjb"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 118759,
       "name": "One of the Guys",
       "url": "https://open.spotify.com/track/4jXEvctpjLM9moyDwG8SGp"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Sleepwalking",
+        "url": "https://open.spotify.com/album/4bI5LF5zauGsBIL9z8mLyl"
+      },
+      "artists": [
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        }
+      ],
+      "duration_ms": 187140,
+      "name": "Sleepwalking",
+      "url": "https://open.spotify.com/track/4SOtTsuFYYlkOOvXMbroUv"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1975,22 +1975,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Cruel Intentions",
-        "url": "https://open.spotify.com/album/0vPMFpVHNSj9JtxgQWINLN"
-      },
-      "artists": [
-        {
-          "name": "Neon Trees",
-          "url": "https://open.spotify.com/artist/0RpddSzUHfncUWNJXKOsjy"
-        }
-      ],
-      "duration_ms": 166880,
-      "name": "Cruel Intentions",
-      "url": "https://open.spotify.com/track/6uvy49KT5k1wgtqF26eIMC"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "nobody",
         "url": "https://open.spotify.com/album/2sJBawOKr8hPG3bgsMvyIB"
       },
@@ -2023,22 +2007,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "If Looks Could Kill",
-        "url": "https://open.spotify.com/album/2bVRi8dtpCmOOsZuYcPN1j"
-      },
-      "artists": [
-        {
-          "name": "Chrissy Costanza",
-          "url": "https://open.spotify.com/artist/2zmjYl582zO64LcLQtOEuv"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "If Looks Could Kill",
-      "url": "https://open.spotify.com/track/1gZh9faxR4LZepKZzpxAsw"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "Head in The Clouds",
         "url": "https://open.spotify.com/album/7w0jejpTAtTzkl4IDUcqPH"
       },
@@ -2055,6 +2023,22 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
+        "name": "If Looks Could Kill",
+        "url": "https://open.spotify.com/album/2bVRi8dtpCmOOsZuYcPN1j"
+      },
+      "artists": [
+        {
+          "name": "Chrissy Costanza",
+          "url": "https://open.spotify.com/artist/2zmjYl582zO64LcLQtOEuv"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "If Looks Could Kill",
+      "url": "https://open.spotify.com/track/1gZh9faxR4LZepKZzpxAsw"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
         "name": "I Think I'm in Love",
         "url": "https://open.spotify.com/album/2NFt8Yxk6p3U9dV3SXBBus"
       },
@@ -2067,6 +2051,22 @@
       "duration_ms": 179000,
       "name": "I Think I'm in Love",
       "url": "https://open.spotify.com/track/1sNqqWaIURY27KYmVZxkW7"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Cruel Intentions",
+        "url": "https://open.spotify.com/album/0vPMFpVHNSj9JtxgQWINLN"
+      },
+      "artists": [
+        {
+          "name": "Neon Trees",
+          "url": "https://open.spotify.com/artist/0RpddSzUHfncUWNJXKOsjy"
+        }
+      ],
+      "duration_ms": 166880,
+      "name": "Cruel Intentions",
+      "url": "https://open.spotify.com/track/6uvy49KT5k1wgtqF26eIMC"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -2091,22 +2091,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Parasite",
-        "url": "https://open.spotify.com/album/0qekqVMt0XLAPHrPf5FbfN"
-      },
-      "artists": [
-        {
-          "name": "Connor Kauffman",
-          "url": "https://open.spotify.com/artist/0bFEOKy3T1knA0g7ZaPnHe"
-        }
-      ],
-      "duration_ms": 146301,
-      "name": "Parasite",
-      "url": "https://open.spotify.com/track/3HyJYXsq26fIGGYzBAUGBD"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "Cynical",
         "url": "https://open.spotify.com/album/357gbL6nwsDoNxTvZ5YWrm"
       },
@@ -2123,18 +2107,18 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "LOVE U ANYWAY",
-        "url": "https://open.spotify.com/album/5m8ob2qOWQ4eddgeolaXyf"
+        "name": "Parasite",
+        "url": "https://open.spotify.com/album/0qekqVMt0XLAPHrPf5FbfN"
       },
       "artists": [
         {
-          "name": "Stand Atlantic",
-          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
+          "name": "Connor Kauffman",
+          "url": "https://open.spotify.com/artist/0bFEOKy3T1knA0g7ZaPnHe"
         }
       ],
-      "duration_ms": 176495,
-      "name": "LOVE U ANYWAY",
-      "url": "https://open.spotify.com/track/6lficC9CzeHGY7FnmJkZPx"
+      "duration_ms": 146301,
+      "name": "Parasite",
+      "url": "https://open.spotify.com/track/3HyJYXsq26fIGGYzBAUGBD"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -2171,22 +2155,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "lightweight",
-        "url": "https://open.spotify.com/album/0TmWjkgmqNJGXVPwRVMivO"
-      },
-      "artists": [
-        {
-          "name": "DE'WAYNE",
-          "url": "https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O"
-        }
-      ],
-      "duration_ms": 227000,
-      "name": "lightweight",
-      "url": "https://open.spotify.com/track/0hbOKM2gJExRioO5S6CtuZ"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "I Love You, I\u2019m Trying",
         "url": "https://open.spotify.com/album/2BTddi3XyqAcset5mAYl2n"
       },
@@ -2199,6 +2167,22 @@
       "duration_ms": 164899,
       "name": "Half My Heart",
       "url": "https://open.spotify.com/track/3EMVljpsr9TPKYScAFQNJh"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "LOVE U ANYWAY",
+        "url": "https://open.spotify.com/album/5m8ob2qOWQ4eddgeolaXyf"
+      },
+      "artists": [
+        {
+          "name": "Stand Atlantic",
+          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
+        }
+      ],
+      "duration_ms": 176495,
+      "name": "LOVE U ANYWAY",
+      "url": "https://open.spotify.com/track/6lficC9CzeHGY7FnmJkZPx"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -2239,6 +2223,22 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
+        "name": "lightweight",
+        "url": "https://open.spotify.com/album/0TmWjkgmqNJGXVPwRVMivO"
+      },
+      "artists": [
+        {
+          "name": "DE'WAYNE",
+          "url": "https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O"
+        }
+      ],
+      "duration_ms": 227000,
+      "name": "lightweight",
+      "url": "https://open.spotify.com/track/0hbOKM2gJExRioO5S6CtuZ"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
         "name": "Chop Chop",
         "url": "https://open.spotify.com/album/3QMikZs5w6nMOusNY89ZY3"
       },
@@ -2271,6 +2271,22 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
+        "name": "Don't Get Me Wrong",
+        "url": "https://open.spotify.com/album/4uPRhzjEpqcKAHCFMW3YSm"
+      },
+      "artists": [
+        {
+          "name": "Matchbox Twenty",
+          "url": "https://open.spotify.com/artist/3Ngh2zDBRPEriyxQDAMKd1"
+        }
+      ],
+      "duration_ms": 173132,
+      "name": "Don't Get Me Wrong",
+      "url": "https://open.spotify.com/track/386DEQx94L5LVXKw4HtSdN"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
         "name": "Two Friends",
         "url": "https://open.spotify.com/album/3AyO9wJl2IB3PRZSX2Mogs"
       },
@@ -2299,22 +2315,6 @@
       "duration_ms": 157504,
       "name": "Dead To Me",
       "url": "https://open.spotify.com/track/1cEml7iH5h7cqd8Dn4HzdF"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "Don't Get Me Wrong",
-        "url": "https://open.spotify.com/album/4uPRhzjEpqcKAHCFMW3YSm"
-      },
-      "artists": [
-        {
-          "name": "Matchbox Twenty",
-          "url": "https://open.spotify.com/artist/3Ngh2zDBRPEriyxQDAMKd1"
-        }
-      ],
-      "duration_ms": 173132,
-      "name": "Don't Get Me Wrong",
-      "url": "https://open.spotify.com/track/386DEQx94L5LVXKw4HtSdN"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -2415,22 +2415,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Mugshot",
-        "url": "https://open.spotify.com/album/07OGKUkBZyMEUmscehkHt6"
-      },
-      "artists": [
-        {
-          "name": "Huddy",
-          "url": "https://open.spotify.com/artist/3BxsweDMcgp9gNWmG40u6f"
-        }
-      ],
-      "duration_ms": 189101,
-      "name": "Mugshot",
-      "url": "https://open.spotify.com/track/1t78Ss9O44dp6VQHGe0PKu"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "fmk (with blackbear)",
         "url": "https://open.spotify.com/album/2JATwGH1Izmuu47IcnfzSO"
       },
@@ -2451,18 +2435,18 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Kansas",
-        "url": "https://open.spotify.com/album/3mDI8OjWB6xLN2vgkVDeuG"
+        "name": "Mugshot",
+        "url": "https://open.spotify.com/album/07OGKUkBZyMEUmscehkHt6"
       },
       "artists": [
         {
-          "name": "44phantom",
-          "url": "https://open.spotify.com/artist/1vwwjIPFeYoRfAUCqqO6cZ"
+          "name": "Huddy",
+          "url": "https://open.spotify.com/artist/3BxsweDMcgp9gNWmG40u6f"
         }
       ],
-      "duration_ms": 156933,
-      "name": "Kansas",
-      "url": "https://open.spotify.com/track/3ctU7NgvMZWFxTIfJY26LT"
+      "duration_ms": 189101,
+      "name": "Mugshot",
+      "url": "https://open.spotify.com/track/1t78Ss9O44dp6VQHGe0PKu"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -2503,6 +2487,22 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
+        "name": "Kansas",
+        "url": "https://open.spotify.com/album/3mDI8OjWB6xLN2vgkVDeuG"
+      },
+      "artists": [
+        {
+          "name": "44phantom",
+          "url": "https://open.spotify.com/artist/1vwwjIPFeYoRfAUCqqO6cZ"
+        }
+      ],
+      "duration_ms": 156933,
+      "name": "Kansas",
+      "url": "https://open.spotify.com/track/3ctU7NgvMZWFxTIfJY26LT"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
         "name": "FREAK (Feat. jxdn)",
         "url": "https://open.spotify.com/album/4mzZ6AB3vMXeuz2W0AWsN5"
       },
@@ -2519,6 +2519,22 @@
       "duration_ms": 149142,
       "name": "FREAK",
       "url": "https://open.spotify.com/track/59QtD84KONsWuBFL7bwQrP"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Hold On Baby",
+        "url": "https://open.spotify.com/album/3Q998ztjKK3ybjToj0QL9c"
+      },
+      "artists": [
+        {
+          "name": "King Princess",
+          "url": "https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C"
+        }
+      ],
+      "duration_ms": 233088,
+      "name": "Let Us Die",
+      "url": "https://open.spotify.com/track/5uDo40mspcWNHDCLlKTLoJ"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -2543,34 +2559,18 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Hold On Baby",
-        "url": "https://open.spotify.com/album/3Q998ztjKK3ybjToj0QL9c"
+        "name": "internet baby",
+        "url": "https://open.spotify.com/album/1Ai0NAOW6lgh5iUBzO7Vlc"
       },
       "artists": [
         {
-          "name": "King Princess",
-          "url": "https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C"
+          "name": "GAYLE",
+          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
         }
       ],
-      "duration_ms": 233088,
-      "name": "Let Us Die",
-      "url": "https://open.spotify.com/track/5uDo40mspcWNHDCLlKTLoJ"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "Paperweight",
-        "url": "https://open.spotify.com/album/7iF0XrBnBkv0fUaTbeLDLe"
-      },
-      "artists": [
-        {
-          "name": "Smallpools",
-          "url": "https://open.spotify.com/artist/4iiQabGKtS2RtTKpVkrVTw"
-        }
-      ],
-      "duration_ms": 159891,
-      "name": "Paperweight",
-      "url": "https://open.spotify.com/track/6rL8VTEBaWTWBK9eGeXoz8"
+      "duration_ms": 157070,
+      "name": "internet baby",
+      "url": "https://open.spotify.com/track/0NRjLNZq8PXjoIDW21wT4N"
     }
   ],
   "unique_name": "Pop Rock",

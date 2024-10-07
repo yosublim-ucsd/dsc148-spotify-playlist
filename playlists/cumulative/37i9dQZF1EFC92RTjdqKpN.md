@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1D1lDfaOy483s8BIQRjBSS">JHart</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-193 songs - 10 hr 29 min
+195 songs - 10 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,8 @@
 | [All The Way](https://open.spotify.com/track/0SB9oIIBgZaYdV2GrwkxbX) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [After Hours](https://open.spotify.com/album/4xltDDKkCArA03HKOZnuQD) | 2:59 | 2024-02-27 |  |
 | [Always You](https://open.spotify.com/track/2GUSKl55bHEw5VAEBuFy06) | [JHart](https://open.spotify.com/artist/6oSTtYd3B3OJubFU8mVhHQ) | [The Wishing, The Wanting, The Longing](https://open.spotify.com/album/4Fks75uJTwftRTJRFlBRkl) | 2:50 | 2024-02-27 |  |
 | [Angel Baby](https://open.spotify.com/track/2m6Ko3CY1qXNNja8AlugNc) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Angel Baby](https://open.spotify.com/album/44CdsgXhU5R2esprq0tf43) | 3:40 | 2024-02-27 |  |
-| [Angel Eyes](https://open.spotify.com/track/2bOrjwAmNpzLZBIe51FAUq) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [Fact Check \- The 5th Album](https://open.spotify.com/album/0BJU07UQiBbB2bLLJg2ktr) | 3:04 | 2024-02-27 |  |
+| [Angel Eyes](https://open.spotify.com/track/1JdYhrkBQViINQU3loztRr) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [Fact Check \- The 5th Album](https://open.spotify.com/album/4KTxUa5hNsGpT41XcdLicL) | 3:04 | 2024-10-06 |  |
+| [Angel Eyes](https://open.spotify.com/track/2bOrjwAmNpzLZBIe51FAUq) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [Fact Check \- The 5th Album](https://open.spotify.com/album/0BJU07UQiBbB2bLLJg2ktr) | 3:04 | 2024-02-27 | 2024-10-07 |
 | [Angel Pt\. 1 \(feat\. Jimin of BTS, JVKE & Muni Long\)](https://open.spotify.com/track/1vvcEHQdaUTvWt0EIUYcFK) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY), [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6), [Fast & Furious: The Fast Saga](https://open.spotify.com/artist/1lpOgw56wZLDa8gaP6bSIs) | [Angel Pt\. 1 \(feat\. Jimin of BTS, JVKE & Muni Long\) \[Trailer Version\]](https://open.spotify.com/album/3hPyxRi49jls3gU6Si8JdF) | 2:55 | 2024-02-27 |  |
 | [Angel Pt\. 2 \(feat\. Jimin of BTS, Charlie Puth and Muni Long\)](https://open.spotify.com/track/2yjeXq5ahx6UUg2rHaUe6X) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK), [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY), [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6), [Fast & Furious: The Fast Saga](https://open.spotify.com/artist/1lpOgw56wZLDa8gaP6bSIs) | [Angel Pt\. 1 \(feat\. Jimin of BTS, JVKE & Muni Long\) \(FAST X Soundtrack\)](https://open.spotify.com/album/2H5nzViLpbX8JzY1cQMVza) | 2:56 | 2024-02-27 |  |
 | [Angels In The Snow](https://open.spotify.com/track/5LJ9zB2g4qftILTNZeeDgA) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Christmas](https://open.spotify.com/album/4Eeeg4yMb5qtMEm0lk6lDM) | 2:52 | 2024-02-27 |  |
@@ -134,7 +135,8 @@
 | [Put It to Bed](https://open.spotify.com/track/5KfDCX3PEyU4gJ81n2Mtz9) | [JHart](https://open.spotify.com/artist/6oSTtYd3B3OJubFU8mVhHQ) | [Put It to Bed](https://open.spotify.com/album/3Vwnuv0NEc0OTYltcT619a) | 3:34 | 2024-02-27 |  |
 | [Queens Don't](https://open.spotify.com/track/0ExiKxfY5rHBW06TcV1xXU) | [RaeLynn](https://open.spotify.com/artist/5dMnvpYEfXvSexjwnSRH5n) | [Queens Don't](https://open.spotify.com/album/7KoovpscXVlfyQdklbirMC) | 3:05 | 2024-02-27 |  |
 | [Ready or Not](https://open.spotify.com/track/5f4l8AFUn8AndSXGRbBSNY) | [Fitz and The Tantrums](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) | [All the Feels](https://open.spotify.com/album/73hQB56aBFJTHE9vshSCLg) | 3:39 | 2024-02-27 |  |
-| [Real Life](https://open.spotify.com/track/5eVxIY8kTGe9czhM5SCeR0) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [Fact Check \- The 5th Album](https://open.spotify.com/album/0BJU07UQiBbB2bLLJg2ktr) | 3:32 | 2024-02-27 |  |
+| [Real Life](https://open.spotify.com/track/1HSV0jgzH5VCVtsFwPL2B5) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [Fact Check \- The 5th Album](https://open.spotify.com/album/4KTxUa5hNsGpT41XcdLicL) | 3:32 | 2024-10-06 |  |
+| [Real Life](https://open.spotify.com/track/5eVxIY8kTGe9czhM5SCeR0) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [Fact Check \- The 5th Album](https://open.spotify.com/album/0BJU07UQiBbB2bLLJg2ktr) | 3:32 | 2024-02-27 | 2024-10-07 |
 | [Red Eye](https://open.spotify.com/track/6FasBfviijUzUs7l6AGX78) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj) | [Magazines Or Novels](https://open.spotify.com/album/3AalzzhWtRFxd5Dzrpfdls) | 3:36 | 2024-02-27 | 2024-07-27 |
 | [Red Eye](https://open.spotify.com/track/37LR3mKW7HwA7qabja8uTO) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj) | [Magazines Or Novels](https://open.spotify.com/album/7AGnFKaeMdOgRFazLNyBps) | 3:36 | 2024-07-26 |  |
 | [Regarde\-nous](https://open.spotify.com/track/5FSaM1hSGZm5xw3Dpx2iun) | [Amel Bent](https://open.spotify.com/artist/15jZ8OLtnGATWHlQkltG7f) | [Instinct](https://open.spotify.com/album/3JcdFdHgLEKvm11FA3Q83o) | 2:51 | 2024-02-27 |  |

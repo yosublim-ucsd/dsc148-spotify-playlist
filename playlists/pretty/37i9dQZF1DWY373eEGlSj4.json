@@ -1,6 +1,6 @@
 {
   "description": "The most unforgettable love songs from the 70s.",
-  "num_followers": 1433343,
+  "num_followers": 1433339,
   "original_name": "70s Love Songs",
   "owner": {
     "name": "Spotify",
@@ -331,22 +331,6 @@
     {
       "added_at": "2024-05-16 03:08:46",
       "album": {
-        "name": "Arrival",
-        "url": "https://open.spotify.com/album/1V6a99EbTTIegOhWoPxYI9"
-      },
-      "artists": [
-        {
-          "name": "ABBA",
-          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
-        }
-      ],
-      "duration_ms": 252960,
-      "name": "Fernando",
-      "url": "https://open.spotify.com/track/4BM8yJ0PzBi2ZewpMTOxtx"
-    },
-    {
-      "added_at": "2024-05-16 03:08:46",
-      "album": {
         "name": "Baby I'm-a Want You",
         "url": "https://open.spotify.com/album/5OlNb8PMZXFkhhtSrhLuO5"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 150706,
       "name": "Baby I'm-a Want You",
       "url": "https://open.spotify.com/track/7IX2e7pEShera9T1QIMvi7"
+    },
+    {
+      "added_at": "2024-05-16 03:08:46",
+      "album": {
+        "name": "Arrival",
+        "url": "https://open.spotify.com/album/1V6a99EbTTIegOhWoPxYI9"
+      },
+      "artists": [
+        {
+          "name": "ABBA",
+          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+        }
+      ],
+      "duration_ms": 252960,
+      "name": "Fernando",
+      "url": "https://open.spotify.com/track/4BM8yJ0PzBi2ZewpMTOxtx"
     },
     {
       "added_at": "2024-05-16 03:08:46",
@@ -443,8 +443,8 @@
     {
       "added_at": "2024-05-16 03:08:46",
       "album": {
-        "name": "Dowdy Ferry Road",
-        "url": "https://open.spotify.com/album/7r92pnkbmoV5pXoMQEHFcJ"
+        "name": "Nights Are Forever",
+        "url": "https://open.spotify.com/album/1lAMkHFW0e51taMt34LUQ2"
       },
       "artists": [
         {
@@ -452,25 +452,9 @@
           "url": "https://open.spotify.com/artist/01W8kYNqFHyKicPfR0pLwO"
         }
       ],
-      "duration_ms": 173546,
-      "name": "It's Sad to Belong - Single Version",
-      "url": "https://open.spotify.com/track/3zqvox7nyhykHe7WS8w9Rm"
-    },
-    {
-      "added_at": "2024-05-16 03:08:46",
-      "album": {
-        "name": "I Am",
-        "url": "https://open.spotify.com/album/4RLVTxnuVN5ZWZqBFnaaQt"
-      },
-      "artists": [
-        {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
-        }
-      ],
-      "duration_ms": 278040,
-      "name": "After the Love Has Gone",
-      "url": "https://open.spotify.com/track/3cfnGXJ9bmiWvFqEO6ff8B"
+      "duration_ms": 159106,
+      "name": "I'd Really Love to See You Tonight",
+      "url": "https://open.spotify.com/track/2r008pcfVYc0zgQvSRqUJE"
     },
     {
       "added_at": "2024-05-16 03:08:46",
@@ -487,6 +471,22 @@
       "duration_ms": 207573,
       "name": "The Things We Do For Love",
       "url": "https://open.spotify.com/track/6KEWtSOGKpIXGw6l1uJgsR"
+    },
+    {
+      "added_at": "2024-05-16 03:08:46",
+      "album": {
+        "name": "I Am",
+        "url": "https://open.spotify.com/album/4RLVTxnuVN5ZWZqBFnaaQt"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        }
+      ],
+      "duration_ms": 278040,
+      "name": "After the Love Has Gone",
+      "url": "https://open.spotify.com/track/3cfnGXJ9bmiWvFqEO6ff8B"
     },
     {
       "added_at": "2024-05-16 03:08:46",
@@ -587,8 +587,8 @@
     {
       "added_at": "2024-05-16 03:08:46",
       "album": {
-        "name": "Nights Are Forever",
-        "url": "https://open.spotify.com/album/1lAMkHFW0e51taMt34LUQ2"
+        "name": "Dowdy Ferry Road",
+        "url": "https://open.spotify.com/album/7r92pnkbmoV5pXoMQEHFcJ"
       },
       "artists": [
         {
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/01W8kYNqFHyKicPfR0pLwO"
         }
       ],
-      "duration_ms": 159106,
-      "name": "I'd Really Love to See You Tonight",
-      "url": "https://open.spotify.com/track/2r008pcfVYc0zgQvSRqUJE"
+      "duration_ms": 173546,
+      "name": "It's Sad to Belong - Single Version",
+      "url": "https://open.spotify.com/track/3zqvox7nyhykHe7WS8w9Rm"
     },
     {
       "added_at": "2024-05-16 03:08:46",
@@ -635,22 +635,6 @@
     {
       "added_at": "2024-05-16 03:08:46",
       "album": {
-        "name": "The Long Run (2013 Remaster)",
-        "url": "https://open.spotify.com/album/1sW1HxI9VppbiXqgFQHVCP"
-      },
-      "artists": [
-        {
-          "name": "Eagles",
-          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
-        }
-      ],
-      "duration_ms": 295049,
-      "name": "I Can't Tell You Why - 2013 Remaster",
-      "url": "https://open.spotify.com/track/02BsTeJE4q5gWOTt58ur5U"
-    },
-    {
-      "added_at": "2024-05-16 03:08:46",
-      "album": {
         "name": "Make Your Move",
         "url": "https://open.spotify.com/album/6J8P3xCsQr5BPoEoukStSk"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 179491,
       "name": "Here You Come Again",
       "url": "https://open.spotify.com/track/6H7nDglS6xWpRidbhMwI2L"
+    },
+    {
+      "added_at": "2024-05-16 03:08:46",
+      "album": {
+        "name": "The Long Run (2013 Remaster)",
+        "url": "https://open.spotify.com/album/1sW1HxI9VppbiXqgFQHVCP"
+      },
+      "artists": [
+        {
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+        }
+      ],
+      "duration_ms": 295049,
+      "name": "I Can't Tell You Why - 2013 Remaster",
+      "url": "https://open.spotify.com/track/02BsTeJE4q5gWOTt58ur5U"
     },
     {
       "added_at": "2024-05-16 03:08:46",
@@ -731,6 +731,22 @@
     {
       "added_at": "2024-05-16 03:08:46",
       "album": {
+        "name": "360 Degrees of Billy Paul (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2t3e2RCx9fmVO7jmhrOm3a"
+      },
+      "artists": [
+        {
+          "name": "Billy Paul",
+          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
+        }
+      ],
+      "duration_ms": 284906,
+      "name": "Me and Mrs. Jones",
+      "url": "https://open.spotify.com/track/6Ro2z4RtAUew9Kz2HZWZUi"
+    },
+    {
+      "added_at": "2024-05-16 03:08:46",
+      "album": {
         "name": "A New World Record",
         "url": "https://open.spotify.com/album/7a35UzxXYuKQGMGImyB0Un"
       },
@@ -747,18 +763,18 @@
     {
       "added_at": "2024-05-16 03:08:46",
       "album": {
-        "name": "360 Degrees of Billy Paul (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2t3e2RCx9fmVO7jmhrOm3a"
+        "name": "Tapestry",
+        "url": "https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS"
       },
       "artists": [
         {
-          "name": "Billy Paul",
-          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
+          "name": "Carole King",
+          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
         }
       ],
-      "duration_ms": 284906,
-      "name": "Me and Mrs. Jones",
-      "url": "https://open.spotify.com/track/6Ro2z4RtAUew9Kz2HZWZUi"
+      "duration_ms": 308973,
+      "name": "You've Got a Friend",
+      "url": "https://open.spotify.com/track/1qhp5owrFGeZ5Jgin28nwR"
     },
     {
       "added_at": "2024-05-16 03:08:46",
@@ -791,22 +807,6 @@
       "duration_ms": 168866,
       "name": "Goodbye Girl",
       "url": "https://open.spotify.com/track/3c6vdiLeV9DUbTMWk5H3se"
-    },
-    {
-      "added_at": "2024-05-16 03:08:46",
-      "album": {
-        "name": "Tapestry",
-        "url": "https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS"
-      },
-      "artists": [
-        {
-          "name": "Carole King",
-          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
-        }
-      ],
-      "duration_ms": 308973,
-      "name": "You've Got a Friend",
-      "url": "https://open.spotify.com/track/1qhp5owrFGeZ5Jgin28nwR"
     }
   ],
   "unique_name": "70s Love Songs",

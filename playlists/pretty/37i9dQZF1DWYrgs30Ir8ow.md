@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrgs30Ir8ow.md) - [plain]
 
 > Altijd fris in Fresh Hits\. Cover: Frenna
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,410 likes - 40 songs - 1 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,413 likes - 40 songs - 1 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,15 +38,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrgs30Ir8ow.md) - [plain]
 | 28 | [Cry Baby](https://open.spotify.com/track/7oDSG2Q9RBU0QjgtfYQOdD) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Cry Baby](https://open.spotify.com/album/2wPD7JNjWWmAysbcHzD70b) | 2:37 |
 | 29 | [KEHLANI](https://open.spotify.com/track/2hrycoFU1mZw6YPvMcn8yC) | [Jordan Adetunji](https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY) | [KEHLANI](https://open.spotify.com/album/5Zwbll6KYxOjZSuxRjQDEm) | 2:02 |
 | 30 | [Dat Is Het Leven](https://open.spotify.com/track/7DGeMF5q4UHXYyElvAiO2j) | [LUNA](https://open.spotify.com/artist/7eBiPPZezCgV5rrO5x47qf) | [Dat Is Het Leven](https://open.spotify.com/album/6GCyMmKkymXKLj1A1GSQFW) | 2:59 |
-| 31 | [World Tour \(Aquafina\)](https://open.spotify.com/track/261EcPb2XfhnPWSnlMOi3G) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [The Pre\-Party](https://open.spotify.com/album/2rlWVKCWJo4vpOBl8RiYX4) | 2:35 |
-| 32 | [Better Day](https://open.spotify.com/track/6L4JBOh5qgAwFMnOI14eI2) | [Brennan Heart](https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC), [Jonathan Mendelsohn](https://open.spotify.com/artist/5d1oOpLkM76Tgr2zWMTYkm) | [Save Euphoric](https://open.spotify.com/album/2tJLDFvKYcQbvRzQmvh0NW) | 3:47 |
-| 33 | [ALL RED](https://open.spotify.com/track/2cZOYofOX4d6g0OXxkaIjA) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [ALL RED](https://open.spotify.com/album/3cdcIcidzGHVQW5e9qQgtx) | 2:28 |
-| 34 | [Tears For Fun](https://open.spotify.com/track/2cmxKeY72HeimX9tcm57Ru) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Vertigo](https://open.spotify.com/album/3VA9PnquCzG4E2GHgBzFQE) | 3:16 |
-| 35 | [Run Away](https://open.spotify.com/track/1LI1wDPemek20Hti9u56tu) | [Nana Fofie](https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW) | [Run Away](https://open.spotify.com/album/1hGbOVIjKD9fA6wh4zEuLi) | 3:38 |
-| 36 | [Smile \(feat\. Carolina Liar\)](https://open.spotify.com/track/73SGUxXPloaU5CfeKkJf5D) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Carolina Liar](https://open.spotify.com/artist/0OuSnRyi1OkLPkR4AqzJwi) | [Smile \(feat\. Carolina Liar\)](https://open.spotify.com/album/5MwREpSNM3JMxAq8xqe3im) | 3:12 |
-| 37 | [Another Day In Paradise](https://open.spotify.com/track/3swDfCpjVhQv2QIINxZXQI) | [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4), [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt), [Special D.](https://open.spotify.com/artist/4EViwTsUibZWyo1K5EgrJt) | [Another Day In Paradise](https://open.spotify.com/album/372Lqn7x6v8dgr7FlRt1jw) | 2:13 |
-| 38 | [Sideways](https://open.spotify.com/track/3OGlklVPmFmu6Tm0fQ1JpB) | [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Sideways](https://open.spotify.com/album/69eqA59bgh09wQ2MT1AlnL) | 4:13 |
-| 39 | [Gold](https://open.spotify.com/track/1md0I3tdjPOYLhb6bfU5rD) | [The Vices](https://open.spotify.com/artist/6TSjJlhB2taxea58rCkMkj) | [Gold](https://open.spotify.com/album/0lzD8E6TeZpHw3hMoZEA59) | 2:54 |
-| 40 | [Chills \(Feel My Love\)](https://open.spotify.com/track/0jjE8w7Rtu3NCImWhKKX8x) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb) | [Chills \(Feel My Love\)](https://open.spotify.com/album/5D3qYKt4IFBEQENqzzlh1Y) | 2:43 |
+| 31 | [Better Day](https://open.spotify.com/track/6L4JBOh5qgAwFMnOI14eI2) | [Brennan Heart](https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC), [Jonathan Mendelsohn](https://open.spotify.com/artist/5d1oOpLkM76Tgr2zWMTYkm) | [Save Euphoric](https://open.spotify.com/album/2tJLDFvKYcQbvRzQmvh0NW) | 3:47 |
+| 32 | [ALL RED](https://open.spotify.com/track/2cZOYofOX4d6g0OXxkaIjA) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [ALL RED](https://open.spotify.com/album/3cdcIcidzGHVQW5e9qQgtx) | 2:28 |
+| 33 | [Tears For Fun](https://open.spotify.com/track/2cmxKeY72HeimX9tcm57Ru) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Vertigo](https://open.spotify.com/album/3VA9PnquCzG4E2GHgBzFQE) | 3:16 |
+| 34 | [Run Away](https://open.spotify.com/track/1LI1wDPemek20Hti9u56tu) | [Nana Fofie](https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW) | [Run Away](https://open.spotify.com/album/1hGbOVIjKD9fA6wh4zEuLi) | 3:38 |
+| 35 | [Smile \(feat\. Carolina Liar\)](https://open.spotify.com/track/73SGUxXPloaU5CfeKkJf5D) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Carolina Liar](https://open.spotify.com/artist/0OuSnRyi1OkLPkR4AqzJwi) | [Smile \(feat\. Carolina Liar\)](https://open.spotify.com/album/5MwREpSNM3JMxAq8xqe3im) | 3:12 |
+| 36 | [Another Day In Paradise](https://open.spotify.com/track/3swDfCpjVhQv2QIINxZXQI) | [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4), [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt), [Special D.](https://open.spotify.com/artist/4EViwTsUibZWyo1K5EgrJt) | [Another Day In Paradise](https://open.spotify.com/album/372Lqn7x6v8dgr7FlRt1jw) | 2:13 |
+| 37 | [Sideways](https://open.spotify.com/track/3OGlklVPmFmu6Tm0fQ1JpB) | [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Sideways](https://open.spotify.com/album/69eqA59bgh09wQ2MT1AlnL) | 4:13 |
+| 38 | [Gold](https://open.spotify.com/track/1md0I3tdjPOYLhb6bfU5rD) | [The Vices](https://open.spotify.com/artist/6TSjJlhB2taxea58rCkMkj) | [Gold](https://open.spotify.com/album/0lzD8E6TeZpHw3hMoZEA59) | 2:54 |
+| 39 | [Chills \(Feel My Love\)](https://open.spotify.com/track/0jjE8w7Rtu3NCImWhKKX8x) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb) | [Chills \(Feel My Love\)](https://open.spotify.com/album/5D3qYKt4IFBEQENqzzlh1Y) | 2:43 |
+| 40 | [World Tour \(Aquafina\)](https://open.spotify.com/track/261EcPb2XfhnPWSnlMOi3G) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [The Pre\-Party](https://open.spotify.com/album/2rlWVKCWJo4vpOBl8RiYX4) | 2:35 |
 
-Snapshot ID: `Zv+9gQAAAABkABhhfpSa25gDp8zrJOqg`
+Snapshot ID: `ZwMIYAAAAADu2kdvoiofl0s+2DNyr0la`

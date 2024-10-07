@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZnA0FshBt4S.md) - [plain]
 
 > The very best songs that soundtracked Youth Groups of the 90s & early 00s! Cover: <a href="spotify:artist:1zK4ACgLi1lVPpfmmcwOTh">DC Talk</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,963 likes - 75 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,013 likes - 75 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZnA0FshBt4S.md) - [plain]
 | 31 | [Set Your Eyes to Zion](https://open.spotify.com/track/14FV0Ztls1XhObQixrDKLG) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [The Fundamental Elements of Southtown](https://open.spotify.com/album/3m4tEvOqwOSk3Yy5apKaFq) | 4:06 |
 | 32 | [Enough](https://open.spotify.com/track/60kuYvjy5UaEKELsHLxd2n) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [How Great Is Our God: The Essential Collection](https://open.spotify.com/album/63o2Wjzlnv5FsMSuEmT0Xu) | 4:20 |
 | 33 | [Shine](https://open.spotify.com/track/03upgLFcOiiB0HlO4LmdLv) | [Newsboys](https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62) | [The Ultimate Collection](https://open.spotify.com/album/4tab0wm9wlaNYGEKAoRzFd) | 3:41 |
-| 34 | [Love Song For A Savior](https://open.spotify.com/track/0DbcdVCzmY1IjilPTPaSOe) | [Jars Of Clay](https://open.spotify.com/artist/1lMaDSraU3oiNUsVWJLHdF) | [Jars Of Clay](https://open.spotify.com/album/3NmhY1GyYPSR9VGycvfRrQ) | 4:46 |
-| 35 | [You Found Me](https://open.spotify.com/track/6A87i6tLzox7U3D0EVTb2G) | [FFH](https://open.spotify.com/artist/4xvNx8d6ZMhOZXUGUBmJby) | [Ready To Fly](https://open.spotify.com/album/2v49kEIRi0xG0zesXFFcLs) | 3:35 |
+| 34 | [You Found Me](https://open.spotify.com/track/6A87i6tLzox7U3D0EVTb2G) | [FFH](https://open.spotify.com/artist/4xvNx8d6ZMhOZXUGUBmJby) | [Ready To Fly](https://open.spotify.com/album/2v49kEIRi0xG0zesXFFcLs) | 3:35 |
+| 35 | [Love Song For A Savior](https://open.spotify.com/track/0DbcdVCzmY1IjilPTPaSOe) | [Jars Of Clay](https://open.spotify.com/artist/1lMaDSraU3oiNUsVWJLHdF) | [Jars Of Clay](https://open.spotify.com/album/3NmhY1GyYPSR9VGycvfRrQ) | 4:46 |
 | 36 | [Consuming Fire](https://open.spotify.com/track/2bAOXQyD64LzOK0jRv1jMi) | [Third Day](https://open.spotify.com/artist/7uWXomGkKtIq9B4XgA3gch) | [Third Day](https://open.spotify.com/album/0CbjyNnad3GgRLWrUshLXF) | 4:09 |
 | 37 | [Basic Instructions](https://open.spotify.com/track/1P2U3LMx2Rj3pVmnmT4LSd) | [Burlap To Cashmere](https://open.spotify.com/artist/4onLiJTk4yL72Yu7tc5ifw) | [Anybody Out There?](https://open.spotify.com/album/6conxG5LDeq8o4Jge5KSJe) | 3:59 |
 | 38 | [Supertones Strike Back](https://open.spotify.com/track/7aTrho0CMMab35UaanDEwu) | [The O.C\. Supertones](https://open.spotify.com/artist/61uwXZTKqYAAoXz8XvUUbE) | [Supertones Strike Back, The](https://open.spotify.com/album/4m5KGlpqUtKNT4nrH1Wq8k) | 2:41 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZnA0FshBt4S.md) - [plain]
 | 43 | [All Over Me](https://open.spotify.com/track/48UADGUoDwrBOkTVxWjzaP) | [The Benjamin Gate](https://open.spotify.com/artist/5xNrsi292mrWxvM4g5bqOG) | [Untitled](https://open.spotify.com/album/1fPm3avdEiN8fm9V3N1iGk) | 4:10 |
 | 44 | [Get Down](https://open.spotify.com/track/3PTHCjyRYLVMVxeUX59joC) | [Audio Adrenaline](https://open.spotify.com/artist/01PBXLThJADrhufsPS5tER) | [The Ultimate Collection](https://open.spotify.com/album/47NIFvfpDVQbVaoDcfwKqy) | 3:14 |
 | 45 | [Entertaining Angels](https://open.spotify.com/track/5lJEym4sjfKZJ20AAjpe1k) | [Newsboys](https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62) | [The Ultimate Collection](https://open.spotify.com/album/4tab0wm9wlaNYGEKAoRzFd) | 4:17 |
-| 46 | [Phenomenon](https://open.spotify.com/track/6qua1VkixdXsqWfxGBNf8d) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3) | [Welcome To Diverse City](https://open.spotify.com/album/08J3ZjZXN1J5qNbla71PYI) | 5:19 |
-| 47 | [Welcome Home](https://open.spotify.com/track/3KzE6f3h07i1AiepzjfGHD) | [The O.C\. Supertones](https://open.spotify.com/artist/61uwXZTKqYAAoXz8XvUUbE) | [Hi Fi Revival](https://open.spotify.com/album/3h8idOY5EBpE4bN4idaGJR) | 2:43 |
+| 46 | [Welcome Home](https://open.spotify.com/track/3KzE6f3h07i1AiepzjfGHD) | [The O.C\. Supertones](https://open.spotify.com/artist/61uwXZTKqYAAoXz8XvUUbE) | [Hi Fi Revival](https://open.spotify.com/album/3h8idOY5EBpE4bN4idaGJR) | 2:43 |
+| 47 | [Phenomenon](https://open.spotify.com/track/6qua1VkixdXsqWfxGBNf8d) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3) | [Welcome To Diverse City](https://open.spotify.com/album/08J3ZjZXN1J5qNbla71PYI) | 5:19 |
 | 48 | [Jonah \- Flying Album Version](https://open.spotify.com/track/3dPZqflDdEbIzs9GGWHXxV) | [Grammatrain](https://open.spotify.com/artist/5xFgYvWejLOS3wTdMoJjCn) | [Flying](https://open.spotify.com/album/69Ww8L7uMR6JxnmmIaly5P) | 2:41 |
 | 49 | [Super Good Feeling \- Static Album Version](https://open.spotify.com/track/0kZQnBXiQDpoAaCDwCfPXI) | [Bleach](https://open.spotify.com/artist/6VLj1qK2dmR3P2yMNTSn2Y) | [Static](https://open.spotify.com/album/5QAcLf7DEB5OnTDgbCr1pU) | 3:19 |
 | 50 | [Breathe](https://open.spotify.com/track/7Gv5J3aHzvZ7ODLGUdfl6C) | [Sixpence None The Richer](https://open.spotify.com/artist/0lJlKQvuM2Sd9DPPyUXcHg) | [Sixpence None the Richer: Greatest Hits](https://open.spotify.com/album/21KNgondk578mn6CS8AAKu) | 4:06 |
@@ -79,9 +79,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZnA0FshBt4S.md) - [plain]
 | 69 | [The Devil Is Bad](https://open.spotify.com/track/7HU4ubA9Ml4ztErtnHdOMW) | [The W's](https://open.spotify.com/artist/6hbwBTYR4mLag3kkI6wXSV) | [Fourth From The Last](https://open.spotify.com/album/5ZyJ4WdmnQEGI6vWOKs7Ab) | 3:33 |
 | 70 | [Gasoline](https://open.spotify.com/track/0YYLrRSnq6li2bs7nms8WO) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [The Early Years](https://open.spotify.com/album/3D0HQxzoAIhnQqe3oVMxNh) | 4:02 |
 | 71 | [Free At Last \- Live](https://open.spotify.com/track/7uqQEvERrdjk5SmWVwZ3Jv) | [DC Talk](https://open.spotify.com/artist/1zK4ACgLi1lVPpfmmcwOTh) | [Free At Last \(Live\)](https://open.spotify.com/album/2tgpJm3SloLVqAjAEWYr7c) | 4:44 |
-| 72 | [Prophet, Priest and King](https://open.spotify.com/track/2NgEHoXZTfjkdF7I6tSrnt) | [Smalltown Poets](https://open.spotify.com/artist/0mHos4yS8iAhpYPABHFdBc) | [Smalltown Poets](https://open.spotify.com/album/4AhydqgVrGNbcbkMzq1SSA) | 3:36 |
-| 73 | [Gravity](https://open.spotify.com/track/1jMdYE6b4sUolT8UnEOs8F) | [Delirious?](https://open.spotify.com/artist/53Z2RNY4OYJ0Galu6AWzxF) | [Mezzamorphis](https://open.spotify.com/album/1Ag1b3t64FzUp3pdaIcgVH) | 3:19 |
-| 74 | [Lord I Lift Your Name On High](https://open.spotify.com/track/4YGyH585tBURMPnryf3OpV) | [Sonicflood](https://open.spotify.com/artist/1lPSXeZw9i7js7PdFJXEJI) | [SonicPraise](https://open.spotify.com/album/2v1fOkMUrvzIeGPqAtAxN0) | 6:21 |
-| 75 | [Into You](https://open.spotify.com/track/3kuvxRA8GLCg0q2MPBQlsd) | [Jennifer Knapp](https://open.spotify.com/artist/2yAjgPqGeURdgCHPzuDeYi) | [Lay It Down](https://open.spotify.com/album/1iCXn3d2XYNAZ8eE6eiCoD) | 3:04 |
+| 72 | [Lord I Lift Your Name On High](https://open.spotify.com/track/4YGyH585tBURMPnryf3OpV) | [Sonicflood](https://open.spotify.com/artist/1lPSXeZw9i7js7PdFJXEJI) | [SonicPraise](https://open.spotify.com/album/2v1fOkMUrvzIeGPqAtAxN0) | 6:21 |
+| 73 | [Into You](https://open.spotify.com/track/3kuvxRA8GLCg0q2MPBQlsd) | [Jennifer Knapp](https://open.spotify.com/artist/2yAjgPqGeURdgCHPzuDeYi) | [Lay It Down](https://open.spotify.com/album/1iCXn3d2XYNAZ8eE6eiCoD) | 3:04 |
+| 74 | [Prophet, Priest and King](https://open.spotify.com/track/2NgEHoXZTfjkdF7I6tSrnt) | [Smalltown Poets](https://open.spotify.com/artist/0mHos4yS8iAhpYPABHFdBc) | [Smalltown Poets](https://open.spotify.com/album/4AhydqgVrGNbcbkMzq1SSA) | 3:36 |
+| 75 | [Gravity](https://open.spotify.com/track/1jMdYE6b4sUolT8UnEOs8F) | [Delirious?](https://open.spotify.com/artist/53Z2RNY4OYJ0Galu6AWzxF) | [Mezzamorphis](https://open.spotify.com/album/1Ag1b3t64FzUp3pdaIcgVH) | 3:19 |
 
 Snapshot ID: `ZocjuAAAAACUE/E7pIA7zApp1CEPUUjT`

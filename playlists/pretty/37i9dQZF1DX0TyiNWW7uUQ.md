@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0TyiNWW7uUQ.md) - [plain]
 
 > Finest collection of Tamil Music from the past 10 years<br/>Cover : Vettaiyan
 
-[Spotify](https://open.spotify.com/user/spotify) - 605,237 likes - 75 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 605,627 likes - 75 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0TyiNWW7uUQ.md) - [plain]
 | 14 | [Maamadura](https://open.spotify.com/track/6EJ1ki4Dcf6in9eidtPSNZ) | [Dhee](https://open.spotify.com/artist/77YvCBWe0tTLygpgSJsdOH) | [Jigarthanda DoubleX \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/66wPpXvuJUBh5lrHY0LmhS) | 2:48 |
 | 15 | [Hayyoda](https://open.spotify.com/track/2HQ6GOCPNCDcC9iOoeucjW) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Priya Mali](https://open.spotify.com/artist/5PMrnGmlpH0l7Uc9DnnatM) | [Jawan \(TAMIL\)](https://open.spotify.com/album/6IPocVtoXfw3YaBwC9M5tX) | 3:20 |
 | 16 | [Po Indru Neeyaga \(From "Velai Illa Pattadhaari"\)](https://open.spotify.com/track/45TUsDINS6CMvccCZ25YKk) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Dhanush](https://open.spotify.com/artist/2F3KtUVtrt2GLjcl6pB4cz) | [Velai Illa Pattadhaari \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2TOKHFSj7mBAKfnkrPGxq0) | 3:43 |
-| 17 | [Naa Ready \(From "Leo"\)](https://open.spotify.com/track/1B02UI29t3PTh3m98absaP) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Thalapathy Vijay](https://open.spotify.com/artist/0fhunuOz2OuOEr3YK5ctSm), [Asal Kolaar](https://open.spotify.com/artist/4b1WCDqAVVgxK7KozLkOqc) | [Naa Ready \(From "Leo"\)](https://open.spotify.com/album/7qRoSVSyHeA9qtOXUpBwRI) | 4:08 |
+| 17 | [Naa Ready \(From "Leo"\)](https://open.spotify.com/track/1B02UI29t3PTh3m98absaP) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Vijay](https://open.spotify.com/artist/1eBHjBxiNA3gyEWEN7oRxM), [Asal Kolaar](https://open.spotify.com/artist/4b1WCDqAVVgxK7KozLkOqc) | [Naa Ready \(From "Leo"\)](https://open.spotify.com/album/7qRoSVSyHeA9qtOXUpBwRI) | 4:08 |
 | 18 | [Dippam Dappam \(From "Kaathuvaakula Rendu Kaadhal"\)](https://open.spotify.com/track/2vkNA9I029dTwX0y6d59Sc) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Anthony Daasan](https://open.spotify.com/artist/1lDx24tVvy8JVKOVjnlJfv) | [Dippam Dappam \(From "Kaathuvaakula Rendu Kaadhal"\)](https://open.spotify.com/album/2ONwgvLKEYR7wn8dfoX9yE) | 3:29 |
 | 19 | [Ranjithame \(From "Varisu"\)](https://open.spotify.com/track/1LbBOhicFmu7ktJqIHCELt) | [Thalapathy Vijay](https://open.spotify.com/artist/0fhunuOz2OuOEr3YK5ctSm), [M.M.Manasi](https://open.spotify.com/artist/3JGrxsZ6kfzJrfwsxwERhS), [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN) | [Ranjithame \(From "Varisu"\)](https://open.spotify.com/album/6tspDejx5wSiwaF9ujyT7W) | 4:47 |
 | 20 | [Adangaatha Asuran](https://open.spotify.com/track/1JKjaWrHqLRu47B9o5qpay) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Dhanush](https://open.spotify.com/artist/2F3KtUVtrt2GLjcl6pB4cz) | [Raayan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6cqYgHZhpSKKb7xUuxJCAr) | 4:09 |

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zv3egAAAAABVBlrWUIo2O9DqFqYE7fqx",
+  "snapshot_id": "ZwCBgAAAAABGCccUsW/QYEFcIkvpl8zs",
   "tracks": [
     {
       "added_at": null,
@@ -243,22 +243,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Who Are You Now",
-        "url": "https://open.spotify.com/album/2CE5eeFL2vKtLvVpjgpfQy"
-      },
-      "artists": [
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 246573,
-      "name": "Pin It Down",
-      "url": "https://open.spotify.com/track/4G0cKJupBY79cAoYDihZwI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Live To Tape: Volume II",
         "url": "https://open.spotify.com/album/6WocdLjm1E7hXslJgK1mMU"
       },
@@ -275,6 +259,22 @@
       "duration_ms": 202319,
       "name": "Be My Witness (feat. Madison Cunningham)",
       "url": "https://open.spotify.com/track/4uPV46l0LEqx6VivcqHCIc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Who Are You Now",
+        "url": "https://open.spotify.com/album/2CE5eeFL2vKtLvVpjgpfQy"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 246573,
+      "name": "Pin It Down",
+      "url": "https://open.spotify.com/track/4G0cKJupBY79cAoYDihZwI"
     },
     {
       "added_at": null,
@@ -391,6 +391,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Age Of Worry",
+        "url": "https://open.spotify.com/album/2sK9FA8u60GpTqusHp8GqN"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 167186,
+      "name": "The Age Of Worry",
+      "url": "https://open.spotify.com/track/7ltM6d3uA0lUBCPfJTyc1N"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Revealer",
         "url": "https://open.spotify.com/album/3flejyQLaN7EolO3Vmg31D"
       },
@@ -407,8 +423,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Age Of Worry",
-        "url": "https://open.spotify.com/album/2sK9FA8u60GpTqusHp8GqN"
+        "name": "Broken Harvest",
+        "url": "https://open.spotify.com/album/3cw9LHQyTxAjwGbkJDewme"
       },
       "artists": [
         {
@@ -416,9 +432,9 @@
           "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
         }
       ],
-      "duration_ms": 167186,
-      "name": "The Age Of Worry",
-      "url": "https://open.spotify.com/track/7ltM6d3uA0lUBCPfJTyc1N"
+      "duration_ms": 287439,
+      "name": "Broken Harvest",
+      "url": "https://open.spotify.com/track/4RgMyZb1frf45zF2BSjMD4"
     },
     {
       "added_at": null,
@@ -443,38 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Broken Harvest",
-        "url": "https://open.spotify.com/album/3cw9LHQyTxAjwGbkJDewme"
-      },
-      "artists": [
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 287439,
-      "name": "Broken Harvest",
-      "url": "https://open.spotify.com/track/4RgMyZb1frf45zF2BSjMD4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Revealer",
-        "url": "https://open.spotify.com/album/3flejyQLaN7EolO3Vmg31D"
-      },
-      "artists": [
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 262934,
-      "name": "In From Japan",
-      "url": "https://open.spotify.com/track/3nL4XPPA0k2BCfaAxoUiZw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Who Are You Now",
         "url": "https://open.spotify.com/album/2CE5eeFL2vKtLvVpjgpfQy"
       },
@@ -491,8 +475,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2lGT7K0SQyk4c9jB1cddAM"
+        "name": "Revealer",
+        "url": "https://open.spotify.com/album/3flejyQLaN7EolO3Vmg31D"
       },
       "artists": [
         {
@@ -500,9 +484,9 @@
           "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
         }
       ],
-      "duration_ms": 275662,
-      "name": "Life According To Raechel - Spotify Single",
-      "url": "https://open.spotify.com/track/3JfD2CejQKmTsqDHis7c2N"
+      "duration_ms": 197972,
+      "name": "Who Are You Now",
+      "url": "https://open.spotify.com/track/5kxVd8hCvJWaXw8Rp5xtGh"
     },
     {
       "added_at": null,
@@ -527,8 +511,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Revealer",
-        "url": "https://open.spotify.com/album/3flejyQLaN7EolO3Vmg31D"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2lGT7K0SQyk4c9jB1cddAM"
       },
       "artists": [
         {
@@ -536,9 +520,9 @@
           "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
         }
       ],
-      "duration_ms": 197972,
-      "name": "Who Are You Now",
-      "url": "https://open.spotify.com/track/5kxVd8hCvJWaXw8Rp5xtGh"
+      "duration_ms": 275662,
+      "name": "Life According To Raechel - Spotify Single",
+      "url": "https://open.spotify.com/track/3JfD2CejQKmTsqDHis7c2N"
     },
     {
       "added_at": null,
@@ -555,6 +539,22 @@
       "duration_ms": 228013,
       "name": "L.A. (Looking Alive)",
       "url": "https://open.spotify.com/track/7zPotVoWNGt5TxFLg24cbT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Revealer",
+        "url": "https://open.spotify.com/album/3flejyQLaN7EolO3Vmg31D"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 262934,
+      "name": "In From Japan",
+      "url": "https://open.spotify.com/track/3nL4XPPA0k2BCfaAxoUiZw"
     },
     {
       "added_at": null,
@@ -595,22 +595,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Revealer",
-        "url": "https://open.spotify.com/album/3flejyQLaN7EolO3Vmg31D"
-      },
-      "artists": [
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 262727,
-      "name": "Sunshine Over The Counter",
-      "url": "https://open.spotify.com/track/6OQEgClxANfwxaRCc8zrHg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Who Are You Now",
         "url": "https://open.spotify.com/album/2CE5eeFL2vKtLvVpjgpfQy"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 237493,
       "name": "Something To Believe In",
       "url": "https://open.spotify.com/track/79NCNvyJMKSCVSGQZjSLf4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Revealer",
+        "url": "https://open.spotify.com/album/3flejyQLaN7EolO3Vmg31D"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 262727,
+      "name": "Sunshine Over The Counter",
+      "url": "https://open.spotify.com/track/6OQEgClxANfwxaRCc8zrHg"
     },
     {
       "added_at": null,
@@ -663,6 +663,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Who Are You Now",
+        "url": "https://open.spotify.com/album/2CE5eeFL2vKtLvVpjgpfQy"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 266733,
+      "name": "Common Language",
+      "url": "https://open.spotify.com/track/3rEwolA0qEDonOpKkws7V7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "WELL WELL",
         "url": "https://open.spotify.com/album/3Nwh1LOn4xwCyxvx9Yxwdc"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 150444,
       "name": "Braver (feat. Madison Cunningham)",
       "url": "https://open.spotify.com/track/5v7u7TkiuIhS9iD7zS3B96"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Who Are You Now",
-        "url": "https://open.spotify.com/album/2CE5eeFL2vKtLvVpjgpfQy"
-      },
-      "artists": [
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 266733,
-      "name": "Common Language",
-      "url": "https://open.spotify.com/track/3rEwolA0qEDonOpKkws7V7"
     },
     {
       "added_at": null,
@@ -763,6 +763,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Love, Lose, Remember",
+        "url": "https://open.spotify.com/album/33cGQwuhKjfvlGziUdKMWL"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 239120,
+      "name": "I Close My Eyes",
+      "url": "https://open.spotify.com/track/4MzNLzhD7I4xXcdGCKCAty"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "We Are Olympians",
         "url": "https://open.spotify.com/album/5KV0wZMvRNqxXLYJOgaIqf"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 203173,
       "name": "The Gotholympians Featuring Madison Cunningham",
       "url": "https://open.spotify.com/track/4qoZQTcijnMaIbFlIs2YaN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Love, Lose, Remember",
-        "url": "https://open.spotify.com/album/33cGQwuhKjfvlGziUdKMWL"
-      },
-      "artists": [
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 239120,
-      "name": "I Close My Eyes",
-      "url": "https://open.spotify.com/track/4MzNLzhD7I4xXcdGCKCAty"
     },
     {
       "added_at": null,
@@ -831,22 +831,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wednesday (Extended Edition)",
-        "url": "https://open.spotify.com/album/1me3fOCssRFnYRbTHgiiHk"
-      },
-      "artists": [
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 336222,
-      "name": "Lover, You Should\u2019ve Come Over",
-      "url": "https://open.spotify.com/track/6BPje3kCxisxvzyP9d1Xca"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Love, Lose, Remember",
         "url": "https://open.spotify.com/album/33cGQwuhKjfvlGziUdKMWL"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 270746,
       "name": "When Love Loves Alone",
       "url": "https://open.spotify.com/track/0123Q9pS0KtXal4ejQd0ju"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wednesday (Extended Edition)",
+        "url": "https://open.spotify.com/album/1me3fOCssRFnYRbTHgiiHk"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 336222,
+      "name": "Lover, You Should\u2019ve Come Over",
+      "url": "https://open.spotify.com/track/6BPje3kCxisxvzyP9d1Xca"
     },
     {
       "added_at": null,

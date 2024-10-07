@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Tee Grizzley, Lil Durk, BabyChiefDoIt and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 290,537 likes - 51 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 290,680 likes - 51 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 6 | [Go Richey](https://open.spotify.com/track/5GjbxdqyiXJcorXuZ99tu0) | [Real Boston Richey](https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi) | [Go Richey](https://open.spotify.com/album/5WfJuFVSiRCc3TfoR1N2Gx) | 2:39 |
 | 7 | [So Bad \(with 4batz\)](https://open.spotify.com/track/6UO6qKbBUV3dkAL8944zyh) | [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI), [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7) | [So Bad \(with 4batz\)](https://open.spotify.com/album/4dT7ycpsFAKebSCCecqROq) | 2:59 |
 | 8 | [NASTY](https://open.spotify.com/track/4fuZ6arVI8LI91ZAE0PIcC) | [Cochise](https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx), [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ) | [NASTY](https://open.spotify.com/album/1nFL8pKNqX80UksDWHF8qI) | 2:26 |
-| 9 | [Maintenance Man \(feat\. Nemzzz, Dee Billz\)](https://open.spotify.com/track/7Bi3CoMUn2T8orxoPcU71f) | [41](https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8), [Kyle Richh](https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU), [Jenn Carter](https://open.spotify.com/artist/3BcgTyEdL81zMljmXcilZM), [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7), [Dee Billz](https://open.spotify.com/artist/2fBU7rOViK7ywwHCIYEa7h) | [Maintenance Man](https://open.spotify.com/album/60TaG6Q0X1PxlSPTo1vO85) | 2:41 |
+| 9 | [Maintenance Man \(feat\. Jenn Carter, Dee Billz\)](https://open.spotify.com/track/7Bi3CoMUn2T8orxoPcU71f) | [41](https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8), [Kyle Richh](https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU), [Jenn Carter](https://open.spotify.com/artist/3BcgTyEdL81zMljmXcilZM), [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7), [Dee Billz](https://open.spotify.com/artist/2fBU7rOViK7ywwHCIYEa7h) | [Maintenance Man](https://open.spotify.com/album/60TaG6Q0X1PxlSPTo1vO85) | 2:41 |
 | 10 | [stuck in my ways](https://open.spotify.com/track/3TbFT78MnrClWUhkQHZkXf) | [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p), [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz) | [310degrees](https://open.spotify.com/album/6ILh4lBjtyPaHYROZBISwO) | 1:55 |
 | 11 | [End Up Gone](https://open.spotify.com/track/69XEQvvsPq0oU5OJiuI8nN) | [ian](https://open.spotify.com/artist/23hzc59PkIUau13dqXx5Ef) | [End Up Gone](https://open.spotify.com/album/6RL3Kzole67M0t3nGJnYBi) | 2:19 |
 | 12 | [I Do \(feat\. Muni Long\)](https://open.spotify.com/track/5TbYIeYkGgGtYL7sms7m9N) | [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [JADED](https://open.spotify.com/album/1XcpYmfE4vYCKeLQYINlO7) | 2:46 |

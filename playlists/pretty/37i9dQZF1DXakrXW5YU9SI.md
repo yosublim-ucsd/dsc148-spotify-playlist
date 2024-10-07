@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakrXW5YU9SI.md) - [plain]
 
 > Jesień nigdy nie brzmiała tak dobrze 🍂
 
-[Spotify](https://open.spotify.com/user/spotify) - 328,705 likes - 70 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 328,820 likes - 70 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,18 +57,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakrXW5YU9SI.md) - [plain]
 | 47 | [Baby Blue Movie](https://open.spotify.com/track/6kgn7bCEXk0A5ZrPqrRZwc) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Baby Blue Movie](https://open.spotify.com/album/3T7i2gfwdTmMOUD5wiuoAj) | 4:04 |
 | 48 | [Lonely Fight](https://open.spotify.com/track/2K5UBMkyxh4NuATA6JrMhD) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [Lonely Fight](https://open.spotify.com/album/4tXUFRTPU3KhSBhAYwzWCW) | 3:49 |
 | 49 | [You And I](https://open.spotify.com/track/248XJMcsowzZrF1APvILhF) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [The Greatest Love](https://open.spotify.com/album/3jlE37AdgcZbfsfyMutyCE) | 5:00 |
-| 50 | [The Table](https://open.spotify.com/track/5pCd4dfI9bQ9H3U1EiaLXv) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [The Table](https://open.spotify.com/album/2vmyJbe35Nv4DDyOkTR5Ku) | 2:53 |
-| 51 | [Falling Back](https://open.spotify.com/track/13JBJbh4d6rx98CjJcROpl) | [Matteo Bocelli](https://open.spotify.com/artist/3SzmIPVTtVc0AzbR8kwk0w), [sanah](https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE) | [Falling Back](https://open.spotify.com/album/40rKWr7rMApkEp7D52Z8mX) | 3:09 |
-| 52 | [Don't Forget Me](https://open.spotify.com/track/0DFldA3ySuV2dblrOAWq1f) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Don't Forget Me](https://open.spotify.com/album/2bSJsOM3hBoBBF4MaxJKyQ) | 4:25 |
-| 53 | [In The Modern World](https://open.spotify.com/track/7ht9gaFe8hSIp5R795x87h) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [In The Modern World](https://open.spotify.com/album/52hEWkt7HEi8WZLXDwg7R0) | 4:26 |
-| 54 | [Waiting on the Right Time](https://open.spotify.com/track/7rqR6MqQX8x2eDlAmleCRl) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Waiting on the Right Time](https://open.spotify.com/album/50YUFgsiE11VbXB4QFKaP1) | 3:39 |
-| 55 | [That's What I Love](https://open.spotify.com/track/6qxPXbJammkI5JkjVctXED) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [That's What I Love](https://open.spotify.com/album/4AO7lU5M0Zj4aWOaZFCj93) | 3:46 |
+| 50 | [That's What I Love](https://open.spotify.com/track/6qxPXbJammkI5JkjVctXED) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [That's What I Love](https://open.spotify.com/album/4AO7lU5M0Zj4aWOaZFCj93) | 3:46 |
+| 51 | [The Table](https://open.spotify.com/track/5pCd4dfI9bQ9H3U1EiaLXv) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [The Table](https://open.spotify.com/album/2vmyJbe35Nv4DDyOkTR5Ku) | 2:53 |
+| 52 | [Falling Back](https://open.spotify.com/track/13JBJbh4d6rx98CjJcROpl) | [Matteo Bocelli](https://open.spotify.com/artist/3SzmIPVTtVc0AzbR8kwk0w), [sanah](https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE) | [Falling Back](https://open.spotify.com/album/40rKWr7rMApkEp7D52Z8mX) | 3:09 |
+| 53 | [Don't Forget Me](https://open.spotify.com/track/0DFldA3ySuV2dblrOAWq1f) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Don't Forget Me](https://open.spotify.com/album/2bSJsOM3hBoBBF4MaxJKyQ) | 4:25 |
+| 54 | [In The Modern World](https://open.spotify.com/track/7ht9gaFe8hSIp5R795x87h) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [In The Modern World](https://open.spotify.com/album/52hEWkt7HEi8WZLXDwg7R0) | 4:26 |
+| 55 | [Waiting on the Right Time](https://open.spotify.com/track/7rqR6MqQX8x2eDlAmleCRl) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Waiting on the Right Time](https://open.spotify.com/album/50YUFgsiE11VbXB4QFKaP1) | 3:39 |
 | 56 | [Dispose of Me](https://open.spotify.com/track/5tffEKZUyEbyThW6FH9VFS) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Dispose of Me](https://open.spotify.com/album/00gOh6il0z2KBhwqWSu3iX) | 3:37 |
 | 57 | [Zdjęcia](https://open.spotify.com/track/4VWFlfcj5LYRKZHper4kHU) | [Kaśka Sochacka](https://open.spotify.com/artist/3ClL18AtCAPwXVT6mUkBDN) | [Zdjęcia](https://open.spotify.com/album/0806pozS2h7r8yVwoKazfV) | 3:07 |
 | 58 | [Big Jet Plane](https://open.spotify.com/track/3HedB2EwVAj5MAx8xFE1ea) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Down the Way](https://open.spotify.com/album/5W1E1tqlKUl7p6KuyCAhji) | 3:59 |
 | 59 | [Jak w filmie](https://open.spotify.com/track/2IYpNlrzRoWcIUPAvXKT6n) | [Sarsa](https://open.spotify.com/artist/0lKCO7SCRiTCS4ZEU6l1zx) | [Jak w filmie](https://open.spotify.com/album/2gtLXFybjn3nSZQPqVCsr6) | 3:03 |
-| 60 | [Image](https://open.spotify.com/track/5LIUI808j8M8bXQd0kRxnp) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Image](https://open.spotify.com/album/7JnlRfxpLRDdeYOPuNcklD) | 3:32 |
-| 61 | [Czuję Cię Obok](https://open.spotify.com/track/21v4fl1hJ2bAUtp5fnpkoP) | [FANKA](https://open.spotify.com/artist/5wUmzMcZxXPMi2qpddL0wg), [BRSC](https://open.spotify.com/artist/68b1ngOghaULNOIcy2nouz), [Mike Johnson](https://open.spotify.com/artist/1Rv7NvFb9DhfzZcA33jotl) | [Czuję Cię Obok](https://open.spotify.com/album/4UftLy4wwU1yDanxA9DYdN) | 2:32 |
+| 60 | [Czuję Cię Obok](https://open.spotify.com/track/21v4fl1hJ2bAUtp5fnpkoP) | [FANKA](https://open.spotify.com/artist/5wUmzMcZxXPMi2qpddL0wg), [BRSC](https://open.spotify.com/artist/68b1ngOghaULNOIcy2nouz), [Mike Johnson](https://open.spotify.com/artist/1Rv7NvFb9DhfzZcA33jotl) | [Czuję Cię Obok](https://open.spotify.com/album/4UftLy4wwU1yDanxA9DYdN) | 2:32 |
+| 61 | [Image](https://open.spotify.com/track/5LIUI808j8M8bXQd0kRxnp) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Image](https://open.spotify.com/album/7JnlRfxpLRDdeYOPuNcklD) | 3:32 |
 | 62 | [back from the dead \(with mxmtoon\)](https://open.spotify.com/track/7H4G1mhD1qCCeYDPgZ5mgh) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v), [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [back from the dead](https://open.spotify.com/album/3xiULM7K8q360Xg9jmon9x) | 2:38 |
 | 63 | [Mleczna droga](https://open.spotify.com/track/12aZhjbBBFKIm1S9utKiIB) | [sanah](https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE) | [Kaprysy](https://open.spotify.com/album/47tDANOMCmdRDI5CVcjNKY) | 4:08 |
 | 64 | [na nowo](https://open.spotify.com/track/3KVUAC8mscMSocwPkSYMqM) | [Vito Bambino](https://open.spotify.com/artist/5XGkLMcwitYFdwroktQs7o) | [na nowo](https://open.spotify.com/album/3AxccIxhlKZVXQ77xIcF4a) | 2:04 |
@@ -77,6 +77,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakrXW5YU9SI.md) - [plain]
 | 67 | [feel like we used to](https://open.spotify.com/track/3UBNj3GZN0Wf3LjUrxQdH1) | [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX) | [feel like we used to](https://open.spotify.com/album/1HbbsKtw9xMY90dE4C5yM5) | 2:56 |
 | 68 | [Miał się skończyć świat](https://open.spotify.com/track/7mwYU7V6ALgmqBz7So9vKM) | [EMO](https://open.spotify.com/artist/0ORYVI6HcOBBPflrE4EcQM) | [Miał się skończyć świat](https://open.spotify.com/album/2WmsxnoReh20DQZfAB4uek) | 2:27 |
 | 69 | [Parachute](https://open.spotify.com/track/0f5Zp30ih99H6eEBoKiul8) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Mountain Music](https://open.spotify.com/album/1Q1C9JR5mIRc48MgJqu1G5) | 4:10 |
-| 70 | [Where The Names Are Real](https://open.spotify.com/track/6anbHjGgQbYQH5FbF6bAvR) | [Warhaus](https://open.spotify.com/artist/5uy67fWgovgNdbkP1kAf7m) | [Where The Names Are Real](https://open.spotify.com/album/0SnEZObvH4juxuuJEznkGV) | 5:21 |
+| 70 | [list do niej](https://open.spotify.com/track/3AFWlh9Q4qTdqRR0ASqoKL) | [Zalia](https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d) | [list do niej](https://open.spotify.com/album/4qSid7v4Ami0xKyks5uxzT) | 3:05 |
 
 Snapshot ID: `ZvaPiAAAAACMQhpHEZSrts/SUuaoWJHb`

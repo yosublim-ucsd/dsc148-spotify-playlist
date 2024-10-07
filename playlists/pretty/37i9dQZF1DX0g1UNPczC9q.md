@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0g1UNPczC9q.md) - [plain]
 
 > Everyone's welcome\. Cover: Zolita
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,800 likes - 90 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,802 likes - 90 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

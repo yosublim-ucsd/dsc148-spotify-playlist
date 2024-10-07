@@ -4,7 +4,7 @@
 
 > This is Dharius\. The essential tracks, all in one playlist.
 
-67 songs - 4 hr 18 min
+68 songs - 4 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [El Bolsón](https://open.spotify.com/track/56BnSpQ60kTtOt415JTRoD) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu) | [El Bolsón](https://open.spotify.com/album/6krHFxbelvtQ4IJ33MLtRe) | 3:51 | 2023-12-13 |  |
 | [El Clan Directo Hasta Arriba \(feat\. Tiro Loko\)](https://open.spotify.com/track/1EDXqLDXy4IqFKPlIuVO4m) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [Tiro Loko](https://open.spotify.com/artist/4Y5HJP3oFOJ8UVBXHYWBgx) | [El Clan Directo Hasta Arriba \(feat\. Tiro Loko\)](https://open.spotify.com/album/0YuoI0tIPKBY1IziyuXwgp) | 4:07 | 2023-11-10 | 2023-12-14 |
 | [El Diablo, La Muerte y Yo](https://open.spotify.com/track/175Ot7nFFqxNIZ34C0wcfw) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [El Diablo, La Muerte y Yo](https://open.spotify.com/album/5S1xpCaPIqh72xLdFRGNvj) | 3:25 | 2024-09-30 |  |
-| [El Loqueron \- Parte 1](https://open.spotify.com/track/2ULk9vqVHyuj0ZXmL3Fzu6) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [Tiro Loko](https://open.spotify.com/artist/4Y5HJP3oFOJ8UVBXHYWBgx) | [Cuando Todo Acaba](https://open.spotify.com/album/1lSYxwcLpWyqM7pD5N1fAU) | 3:08 | 2024-07-10 |  |
+| [El Loqueron \- Parte 1](https://open.spotify.com/track/2ULk9vqVHyuj0ZXmL3Fzu6) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [Tiro Loko](https://open.spotify.com/artist/4Y5HJP3oFOJ8UVBXHYWBgx) | [Cuando Todo Acaba](https://open.spotify.com/album/1lSYxwcLpWyqM7pD5N1fAU) | 3:08 | 2024-07-10 | 2024-10-07 |
 | [El Pasado Está Olvidado](https://open.spotify.com/track/20wgU9yU4UDDLl5oWiSQag) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu), [Tiro Loko](https://open.spotify.com/artist/4Y5HJP3oFOJ8UVBXHYWBgx) | [Cuando Todo Acaba](https://open.spotify.com/album/1lSYxwcLpWyqM7pD5N1fAU) | 3:57 | 2023-11-10 |  |
 | [El Perdedor](https://open.spotify.com/track/5QKymytqsCOJX5Jw7vQYCi) | [Tiro Loko](https://open.spotify.com/artist/4Y5HJP3oFOJ8UVBXHYWBgx), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [El Perdedor](https://open.spotify.com/album/0J3NgEahBI5Hst8QJEY821) | 3:48 | 2023-11-10 |  |
 | [Espejismo](https://open.spotify.com/track/5SddVjDLzloefDoqO2xXJp) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Cuando Todo Acaba](https://open.spotify.com/album/1lSYxwcLpWyqM7pD5N1fAU) | 3:09 | 2023-11-10 |  |
@@ -41,6 +41,7 @@
 | [Lírica Onírica](https://open.spotify.com/track/5mqq5G8HU0Ep1PUCE4dh31) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Directo Hasta Arriba](https://open.spotify.com/album/15StyDArmT6s2A3zaiI552) | 3:15 | 2023-11-10 |  |
 | [Mala Fama, Buena Vidha](https://open.spotify.com/track/6Ov2J0ExzEMhj6hVirzpWt) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Mala Fama, Buena Vidha](https://open.spotify.com/album/6HDPRXDl3Vsj8ksZyfpP5V) | 4:30 | 2023-11-10 |  |
 | [Mala Vibra](https://open.spotify.com/track/5iP4QSHomTFVp1GFA80KfQ) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Mala Fama, Buena Vidha](https://open.spotify.com/album/6HDPRXDl3Vsj8ksZyfpP5V) | 3:46 | 2023-11-10 | 2024-10-01 |
+| [Me juzgan](https://open.spotify.com/track/7DOSRCf92tETax3J3upq3k) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [El Diablo, La Muerte y Yo](https://open.spotify.com/album/5S1xpCaPIqh72xLdFRGNvj) | 4:03 | 2024-10-07 |  |
 | [Me Voy a Poner Bien Loco](https://open.spotify.com/track/4xbNMe4G2amgUB6tntDw6c) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Mala Fama, Buena Vidha](https://open.spotify.com/album/6HDPRXDl3Vsj8ksZyfpP5V) | 4:23 | 2023-11-10 |  |
 | [Mecha Corta](https://open.spotify.com/track/0eOv02uWpROIogqqzGLGyH) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Mecha Corta](https://open.spotify.com/album/08U3yHqqKgyDm0LLwH0gAA) | 3:30 | 2024-04-29 |  |
 | [Mentiras](https://open.spotify.com/track/2wUmYFiVDBPem4AfPGscsM) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [Mentiras](https://open.spotify.com/album/2OppjQEXGEldFhZA7PZwPK) | 4:43 | 2023-11-10 |  |

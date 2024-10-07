@@ -4,7 +4,7 @@
 
 > Ný tónlist!
 
-2,533 songs - 5 day 14 hr 13 min
+2,534 songs - 5 day 14 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1594,6 +1594,7 @@
 | [No Face](https://open.spotify.com/track/1560osUcXrnov6yuOjXvc1) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [No Face](https://open.spotify.com/album/78NIQe42qKXahAeZAb3w0h) | 2:17 | 2024-09-06 | 2024-09-13 |
 | [No Fun](https://open.spotify.com/track/1AdgVWMgeSZNj59u16F0gV) | [Matilda Lyn](https://open.spotify.com/artist/5NwRuQu0Ed5wSjLeit3On0) | [No Fun](https://open.spotify.com/album/0EsVZT9jNfgQNkKcAXqNYb) | 3:19 | 2024-06-28 | 2024-07-05 |
 | [No Goodbye](https://open.spotify.com/track/2JdmOsQQ5uWsnYcBGCHdKD) | [GYMBRO](https://open.spotify.com/artist/1dVQrgVgad6dhS9ATZGy9D), [Amero](https://open.spotify.com/artist/6y98wK2RN9CyNuuN1l2icf) | [No Goodbye](https://open.spotify.com/album/4NO5rUTBGl5nPCzifWaQ5W) | 2:39 | 2024-08-09 | 2024-08-16 |
+| [No Goodbyes](https://open.spotify.com/track/48Pa7ntqupTvlLITQ19PSD) | [DJ Roody](https://open.spotify.com/artist/3UI0UmJdHpQkMqgjuOTMYc) | [No Goodbyes](https://open.spotify.com/album/5ei0k8lsiY4hCeXW8m8mkZ) | 3:16 | 2024-10-04 |  |
 | [No Gravity \(feat\. Bava\)](https://open.spotify.com/track/6r4ual3l2rTXnxp6T8WM1g) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [Bava](https://open.spotify.com/artist/7lOLWr9bmaivFDeoLYzD1U) | [Telos](https://open.spotify.com/album/5V7WoYwRXtheRjhOjgUeR5) | 3:31 | 2024-08-30 | 2024-09-06 |
 | [No Hands](https://open.spotify.com/track/0YiEaUZ5oCfHDlOpjgsSbY) | [Linn Koch\-Emmery](https://open.spotify.com/artist/1VXNcQgSnqCXw4kWGeKNFu) | [No Hands](https://open.spotify.com/album/3a5sJfkhvOfgdGtOoannxD) | 3:05 | 2024-04-26 | 2024-05-03 |
 | [No One Else](https://open.spotify.com/track/6vxLhzmneGOW6zRfxc2siq) | [Elias Rønnenfelt](https://open.spotify.com/artist/1sMYEFib6APIW3JjkY8pYS) | [No One Else](https://open.spotify.com/album/3gOeqVU5TZP7ZR54je7rZi) | 3:51 | 2024-08-16 | 2024-08-23 |
@@ -1972,7 +1973,7 @@
 | [Sofðu Unga Ástin Mín](https://open.spotify.com/track/3NvmSRS1q7Lp8kM9Pihuv8) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Sofðu Unga Ástin Mín](https://open.spotify.com/album/0rIzFmrBoCXcJRSHuJAboE) | 5:02 | 2024-06-21 | 2024-06-28 |
 | [Sol \- Edit](https://open.spotify.com/track/4OoIVzIx7kKkTendqhkdfk) | [Volantis](https://open.spotify.com/artist/1UlvEcn0g52vZ4PawafthZ), [Matisa](https://open.spotify.com/artist/18YBSDKYgR6so2I94gqUQ9) | [Sol \(Edit\)](https://open.spotify.com/album/2H7Kv1CUVkl9u5WBJwo6ok) | 3:33 | 2024-04-26 | 2024-05-03 |
 | [Solar Eclipse](https://open.spotify.com/track/4wwq0jVZBx38GRlIj5Trwc) | [AR/CO](https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7), [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [Solar Eclipse](https://open.spotify.com/album/5HhLPEYDunCXhUD2VZ0n7S) | 2:54 | 2024-09-27 | 2024-10-04 |
-| [Solitude](https://open.spotify.com/track/1WwMBpinWZpaXST7q3otPR) | [Sarah von Reis](https://open.spotify.com/artist/4jhicQyPhrE5OC1aHeGrMq) | [Solitude](https://open.spotify.com/album/6bAvcQE6BXnUnvFQ0hLn7p) | 3:24 | 2024-10-04 |  |
+| [Solitude](https://open.spotify.com/track/1WwMBpinWZpaXST7q3otPR) | [Sarah von Reis](https://open.spotify.com/artist/4jhicQyPhrE5OC1aHeGrMq) | [Solitude](https://open.spotify.com/album/6bAvcQE6BXnUnvFQ0hLn7p) | 3:24 | 2024-10-04 | 2024-10-07 |
 | [Soltera](https://open.spotify.com/track/3OJDtCdYs8QJnui708tEU3) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Soltera](https://open.spotify.com/album/0VRb8B2ls0GDEfmKiL8FWJ) | 3:34 | 2024-09-27 | 2024-10-04 |
 | [solåmåne](https://open.spotify.com/track/4Uhdh4HGhlhhzfFHiTldbY) | [Stuzzi](https://open.spotify.com/artist/492u2je7zqQVJVpc2ctWCr) | [solåmåne](https://open.spotify.com/album/5NIfFdtWYf9J22gXOTw8bx) | 4:52 | 2024-09-13 | 2024-09-20 |
 | [Som sommaren](https://open.spotify.com/track/5xDDfIvWw8td3jtA1icOsZ) | [Håkan Hellström](https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc) | [Som sommaren](https://open.spotify.com/album/4mXd1AbfVlHDZYdo0YfVGa) | 3:48 | 2024-05-31 | 2024-06-07 |

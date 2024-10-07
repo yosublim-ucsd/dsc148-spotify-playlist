@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Hong Kong.
 
-976 songs - 2 day 9 hr 18 min
+977 songs - 2 day 9 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -542,7 +542,8 @@
 | [Supernova](https://open.spotify.com/track/2VdSktBqFfkW7y6q5Ik4Z4) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Armageddon \- The 1st Album](https://open.spotify.com/album/3gHhPm8z8tid1kvpniUKuK) | 2:58 | 2024-08-09 | 2024-09-22 |
 | [Supernova](https://open.spotify.com/track/2nPYPc5Ww4Nunu0FNCccPF) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Supernova](https://open.spotify.com/album/3T1PoeevcDKayJosKjNr6H) | 2:58 | 2024-05-14 | 2024-05-16 |
 | [Supernova](https://open.spotify.com/track/351KkakA2YtGEXqSEIIasy) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Supernova](https://open.spotify.com/album/0tlwyPgqwZrymr04EfFyry) | 2:58 | 2024-05-15 | 2024-06-01 |
-| [Supernova](https://open.spotify.com/track/4sgMbwl9lXGyHcHmtFYGMm) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Armageddon \- The 1st Album](https://open.spotify.com/album/058hCti9Bupb5CJc6bd3VB) | 2:58 | 2024-05-31 |  |
+| [Supernova](https://open.spotify.com/track/4sgMbwl9lXGyHcHmtFYGMm) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Armageddon \- The 1st Album](https://open.spotify.com/album/058hCti9Bupb5CJc6bd3VB) | 2:58 | 2024-05-31 | 2024-10-07 |
+| [Supernova](https://open.spotify.com/track/58b0gBwBVjQfbbCU4xIvoy) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Supernova](https://open.spotify.com/album/49kUtQMJo7Am9UuLuN1MuB) | 2:58 | 2024-10-06 |  |
 | [Swan Song](https://open.spotify.com/track/2GquhrcHbl2zOnF5javAFp) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [EASY](https://open.spotify.com/album/1YCj4PZi08G20y2ekGKY0C) | 2:37 | 2024-02-20 | 2024-03-10 |
 | [Sweet Nothing](https://open.spotify.com/track/0wavGRldH0AWyu2zvTz8zb) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:08 | 2022-10-22 | 2022-10-27 |
 | [Sweet Sweet Christmas](https://open.spotify.com/track/2Uzjd7yEjikMPc0kYC4gaJ) | [Serrini](https://open.spotify.com/artist/0u3m5Sy2zsq4Gk0aduH9s7) | [Sweet Sweet Christmas](https://open.spotify.com/album/2VdMBRSw6iOnkT6qDfZapu) | 4:37 | 2021-12-19 | 2021-12-29 |
@@ -579,7 +580,7 @@
 | [Thirsty](https://open.spotify.com/track/6nICBdDevG4NZysIqDFPEa) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [MY WORLD \- The 3rd Mini Album](https://open.spotify.com/album/69xF8jTd0c4Zoo7DT3Rwrn) | 3:13 | 2023-05-10 | 2023-05-12 |
 | [This is MC](https://open.spotify.com/track/1vWR4KgwhU4zzTdKjnOP0F) | [MC 張天賦](https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC) | [This is MC](https://open.spotify.com/album/34BPcfbDQkYaJLrCgrEwYx) | 3:13 | 2023-01-21 | 2023-01-23 |
 | [This Love \(Taylor’s Version\)](https://open.spotify.com/track/4d1CG5ei1E2vGbvmgf5KKv) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [This Love \(Taylor’s Version\)](https://open.spotify.com/album/3In1CblWZswwun5MhOa10y) | 4:10 | 2022-05-07 | 2022-05-08 |
-| [Timeless \(with Playboi Carti\)](https://open.spotify.com/track/1Es7AUAhQvapIcoh3qMKDL) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Timeless](https://open.spotify.com/album/2IRxVVqbSbqHJo8Zx50LYn) | 4:16 | 2024-09-28 |  |
+| [Timeless \(with Playboi Carti\)](https://open.spotify.com/track/1Es7AUAhQvapIcoh3qMKDL) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Timeless](https://open.spotify.com/album/2IRxVVqbSbqHJo8Zx50LYn) | 4:16 | 2024-09-28 | 2024-10-07 |
 | [To\. X](https://open.spotify.com/track/2gyCwrOcC6JBoaJ8JGJ7T8) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [To\. X \- The 5th Mini Album](https://open.spotify.com/album/0VciVDVU6NoqtQ0WAIlTmD) | 2:50 | 2023-11-29 | 2023-12-02 |
 | [TOMBOY](https://open.spotify.com/track/0IGUXY4JbK18bu9oD4mPIm) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I NEVER DIE](https://open.spotify.com/album/1T2W9vDajFreUuycPDjUXk) | 2:54 | 2022-03-16 | 2022-04-27 |
 | [Tomorrow](https://open.spotify.com/track/0LuBQym8RGIcybVJE5F5iE) | [AGA](https://open.spotify.com/artist/1opXC6lrFxsiDks53X5d3Q) | [Tomorrow](https://open.spotify.com/album/5jLneIxjJyBOb8GC96tJy1) | 4:10 | 2022-02-12 | 2022-04-22 |
@@ -957,7 +958,7 @@
 | [隔離](https://open.spotify.com/track/1i5DjVNfPxqMelMdjfI0WR) | [Jace Chan](https://open.spotify.com/artist/1SCaQu3jTbcKIjy8aC7KHa) | [Processing](https://open.spotify.com/album/7cLF91NmhGSX5DLomLVeIh) | 4:34 | 2021-05-16 | 2021-07-10 |
 | [隔離 \- Studio Live Duet](https://open.spotify.com/track/4xL01OuFjqizPDclF8gDpl) | [Jace Chan](https://open.spotify.com/artist/1SCaQu3jTbcKIjy8aC7KHa), [Terence Lam](https://open.spotify.com/artist/3tvtGR8HzMHDbkLeZrFiBI) | [隔離 \(Studio Live Duet\)](https://open.spotify.com/album/3I3I0AHGrv1daEtREWB1VA) | 4:08 | 2021-03-27\* | 2021-05-16 |
 | [隔離 \- Studio Live Duet](https://open.spotify.com/track/7Fr7Ag2bQyJl86BtsFmdOW) | [Jace Chan](https://open.spotify.com/artist/1SCaQu3jTbcKIjy8aC7KHa), [Terence Lam](https://open.spotify.com/artist/3tvtGR8HzMHDbkLeZrFiBI) | [Processing](https://open.spotify.com/album/7cLF91NmhGSX5DLomLVeIh) | 4:10 | 2021-05-16 | 2022-09-29 |
-| [隱形遊樂場](https://open.spotify.com/track/6bMgCXapeQEVFgAOr8EvgY) | [Hins Cheung](https://open.spotify.com/artist/2MVfNjocvNrE03cQuxpsWK) | [隱形遊樂場](https://open.spotify.com/album/19wTMPU5TLyeI3xuNwpYx7) | 3:53 | 2023-04-21 | 2024-10-05 |
+| [隱形遊樂場](https://open.spotify.com/track/6bMgCXapeQEVFgAOr8EvgY) | [Hins Cheung](https://open.spotify.com/artist/2MVfNjocvNrE03cQuxpsWK) | [隱形遊樂場](https://open.spotify.com/album/19wTMPU5TLyeI3xuNwpYx7) | 3:53 | 2023-04-21 |  |
 | [離不開](https://open.spotify.com/track/0wqkdSzqQZDUJXOB6Etp7l) | [Kay Tse](https://open.spotify.com/artist/6XtWdWAC7rNqXwbs8hGqP9) | [離不開](https://open.spotify.com/album/5axFyXeQt3bZCaelmy2N94) | 5:15 | 2021-06-10 | 2021-08-07 |
 | [離別的規矩](https://open.spotify.com/track/5tHHZJbJgs6zQmvqewePEf) | [Jer 柳應廷](https://open.spotify.com/artist/6FH5vFm7hqDm3UzEAYuizY) | [離別的規矩](https://open.spotify.com/album/4zmlpzipP0VIn0YQyfUknJ) | 4:42 | 2022-04-21 | 2022-08-22 |
 | [難道喜歡處女座](https://open.spotify.com/track/0LfPjfqhyyeWk9Pl20hIM5) | [Terence Lam](https://open.spotify.com/artist/3tvtGR8HzMHDbkLeZrFiBI) | [難道喜歡處女座](https://open.spotify.com/album/2VSiJACIKYn9aXe3cUikwX) | 3:09 | 2021-08-24 | 2021-12-05 |

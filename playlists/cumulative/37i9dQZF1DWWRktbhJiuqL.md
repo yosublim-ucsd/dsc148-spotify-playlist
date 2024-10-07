@@ -4,7 +4,7 @@
 
 > Various sounds, various decades, but with one thing in common.
 
-381 songs - 1 day 0 hr 43 min
+382 songs - 1 day 0 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [\(Don't Fear\) The Reaper](https://open.spotify.com/track/2NL4BBBSgypHnxUKmQdYcT) | [Blue Öyster Cult](https://open.spotify.com/artist/00tVTdpEhQQw1bqdu8RCx2) | [The Essential Blue Öyster Cult](https://open.spotify.com/album/6NNrQJ8ojvbfFzoUjjABo4) | 5:08 | 2021-12-09 | 2022-07-29 |
 | [\(Make My\) Country Rock \(feat\. Sully Erna of Godsmack, Travis Tritt, and Mick Mars\)](https://open.spotify.com/track/1Z2ayz8NgAD3HtNUfxUlrL) | [Cory Marks](https://open.spotify.com/artist/17pJAHDfdLvGuUwl2DkEgv), [Travis Tritt](https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2), [Godsmack](https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF), [Mick Mars](https://open.spotify.com/artist/5zSvn5I6wIFwEgFxIIaqJc), [Sully Erna](https://open.spotify.com/artist/5L1SdeG9JS8cmL742IYBIy) | [\(Make My\) Country Rock \(feat\. Sully Erna of Godsmack, Travis Tritt and Mick Mars\)](https://open.spotify.com/album/4iF02KjL3iDF4lADzaVQqg) | 3:08 | 2024-07-30 |  |
 | [105 Degrees](https://open.spotify.com/track/061NHZijloOmBvbujB72sm) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Angel Dream \(Songs and Music From The Motion Picture "She’s The One"\)](https://open.spotify.com/album/0sX76SUnbgcKtdZcJ9kJwd) | 3:10 | 2021-12-09 | 2022-03-08 |
+| [20/20 Vision](https://open.spotify.com/track/3rzUxFVoUazdBrFkslPmYx) | [BRKN LOVE](https://open.spotify.com/artist/2Hkg1gn2Hpar1sVP8adtNp) | [20/20 Vision](https://open.spotify.com/album/7h4yt2jXMs1WSzMn1EecLd) | 3:47 | 2024-10-04 |  |
 | [20th Century Boy](https://open.spotify.com/track/6Soku1wiB6mfcQp2s2W6a6) | [T\. Rex](https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin) | [Tanx \(Deluxe Edition\)](https://open.spotify.com/album/7sIEt8O8vQcOvran3M2I6J) | 3:41 | 2021-12-09 |  |
 | [A Hard Day's Night \- Remastered](https://open.spotify.com/track/69d54YOS8TOQiUYjX57XeA) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [A Hard Day's Night \(Remastered\)](https://open.spotify.com/album/71Mwd9tntFQYUk4k2DwA0D) | 2:34 | 2021-12-09 | 2022-07-29 |
 | [A Hard Day's Night \- Remastered 2009](https://open.spotify.com/track/5J2CHimS7dWYMImCHkEFaJ) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [A Hard Day's Night \(Remastered\)](https://open.spotify.com/album/6wCttLq0ADzkPgtRnUihLV) | 2:34 | 2022-06-17 | 2024-04-19 |
@@ -191,7 +192,7 @@
 | [Legendary](https://open.spotify.com/track/0NJKX45ZZnGWyDcEnoH7C5) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Legendary](https://open.spotify.com/album/4Qp0INJYYCPCOnUpOREZnb) | 4:05 | 2024-03-15 | 2024-06-08 |
 | [Let's Go](https://open.spotify.com/track/2cbyRKhKPAqCEhBl8OXdAY) | [Bleeker](https://open.spotify.com/artist/64tT0KKbU4AFWkO6v1VvXv) | [Let's Go](https://open.spotify.com/album/4eMG0IE1T1tko7r7YEa5xE) | 3:13 | 2024-05-08 | 2024-06-28 |
 | [Life in the Fast Lane \- 2013 Remaster](https://open.spotify.com/track/78Pny5O5RDkHJNPZf1QcFs) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [The Very Best of the Eagles \(2013 Remaster\)](https://open.spotify.com/album/5J0VCIp4TTsZBKOqWdbBSa) | 4:46 | 2021-12-09 |  |
-| [Lights Out](https://open.spotify.com/track/5HOSm48F0JwaxYaiEuX9j0) | [SWEET SPINE](https://open.spotify.com/artist/1ugmCkxd2MSyvkVA9puoff) | [Lights Out](https://open.spotify.com/album/0OGPbEiLcVPG0Ie47FVjSE) | 2:48 | 2024-07-30 |  |
+| [Lights Out](https://open.spotify.com/track/5HOSm48F0JwaxYaiEuX9j0) | [SWEET SPINE](https://open.spotify.com/artist/1ugmCkxd2MSyvkVA9puoff) | [Lights Out](https://open.spotify.com/album/0OGPbEiLcVPG0Ie47FVjSE) | 2:48 | 2024-07-30 | 2024-10-07 |
 | [Livin' On A Prayer](https://open.spotify.com/track/0J6mQxEZnlRt9ymzFntA6z) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Slippery When Wet](https://open.spotify.com/album/5uU2uM1RGHfzlA12opjqol) | 4:09 | 2021-12-09 | 2022-07-29 |
 | [Livin' On A Prayer](https://open.spotify.com/track/37ZJ0p5Jm13JPevGcx4SkF) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Slippery When Wet](https://open.spotify.com/album/0kBfgEilUFCMIQY5IOjG4t) | 4:09 | 2022-06-17 | 2024-04-19 |
 | [Living In A Ghost Town](https://open.spotify.com/track/5RrrQhJKKKMJt3wB5n2N3t) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Living In A Ghost Town](https://open.spotify.com/album/78s6su3Cox4tVqNi6uTuCR) | 4:07 | 2021-12-09 |  |

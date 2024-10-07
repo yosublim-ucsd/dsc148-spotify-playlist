@@ -4,7 +4,7 @@
 
 > Rilisan mutakhir dari para musisi arus pinggir tanah air\. Cover: Wijaya 80
 
-194 songs - 12 hr 29 min
+195 songs - 12 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [bila](https://open.spotify.com/track/6gHh6SMnCRxLwpDDD7zTqW) | [Amis](https://open.spotify.com/artist/1cH4Kfu1QYyTnmAgEt1j8V) | [Filosofi Males](https://open.spotify.com/album/3RiYb3auIbLVAo8E38mLq8) | 3:32 | 2024-07-04 | 2024-10-04 |
 | [Blues dari Rumah](https://open.spotify.com/track/75SPAZgHvdQ72a0MwFb1ev) | [Christabel Annora](https://open.spotify.com/artist/47FWnVDKhmgk7ZCHKSewHq) | [Sudut Kamar](https://open.spotify.com/album/2WXRlR4QoYDhmD7OZsgcI9) | 2:25 | 2024-08-09 | 2024-10-04 |
 | [Boy](https://open.spotify.com/track/0ZTmXwcJHScpFKYvpn1GxY) | [FARUZ](https://open.spotify.com/artist/46eConcY4MjCgE1vZSZkiO) | [Boy](https://open.spotify.com/album/5C94LDJzlNnEyViDX8GQiQ) | 3:44 | 2024-08-29 |  |
+| [Bunga Mawas](https://open.spotify.com/track/6W80U6x8yW8JoeOQysSuG1) | [Rigaskara](https://open.spotify.com/artist/2cfQKHwOPRF2UyEiKLexPW) | [Bunga Mawas](https://open.spotify.com/album/58OsknBLelN6eMs7DIRcWQ) | 3:03 | 2024-10-07 |  |
 | [Burn](https://open.spotify.com/track/0yR1fy72LIFLQqfjVVnFhN) | [Low Pink](https://open.spotify.com/artist/1AyxemOyWnS1s8siDQG6EH) | [Burn](https://open.spotify.com/album/75YDVoGjHMD7r7OY5vJEIm) | 3:07 | 2024-06-27 | 2024-08-30 |
 | [can't get over you](https://open.spotify.com/track/04NkJPmj2porr9uv2B0YvJ) | [Ernesto.](https://open.spotify.com/artist/0gaT6R7nbUJWNbZOydCP8m) | [can't get over you](https://open.spotify.com/album/7n3C0AQw8Qm91SJsxFXtyB) | 3:01 | 2024-06-27 | 2024-07-05 |
 | [Can't Stop Thinking of You](https://open.spotify.com/track/16QDnfyDBztTEdBatjF09y) | [Cema](https://open.spotify.com/artist/0Nx9jILrekBzJl0JIGplED) | [The Reasons Why](https://open.spotify.com/album/3iSXqJbtRNytqs0ytpuxHO) | 4:00 | 2024-06-27 | 2024-09-06 |

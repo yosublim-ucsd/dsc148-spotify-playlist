@@ -1,6 +1,6 @@
 {
   "description": "The Soca hits we all love from back then til right now. Cover: Machel Montano",
-  "num_followers": 215113,
+  "num_followers": 215156,
   "original_name": "Massive Soca Hits",
   "owner": {
     "name": "Spotify",
@@ -151,38 +151,6 @@
     {
       "added_at": "2024-08-05 20:03:27",
       "album": {
-        "name": "Too Real",
-        "url": "https://open.spotify.com/album/0ZNQstQ0ahvsAWzB5c0xoR"
-      },
-      "artists": [
-        {
-          "name": "Kerwin Du Bois",
-          "url": "https://open.spotify.com/artist/1yzePBgnaJhaFDpgt7MpxA"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Too Real",
-      "url": "https://open.spotify.com/track/3FkqGyIPfz7cn5B8W9sVdG"
-    },
-    {
-      "added_at": "2024-08-05 20:03:27",
-      "album": {
-        "name": "Bam Bam",
-        "url": "https://open.spotify.com/album/5AdNVvhnCuLZgPbqfmZU2W"
-      },
-      "artists": [
-        {
-          "name": "Lil Rick",
-          "url": "https://open.spotify.com/artist/1qKzKUnuQsjB83hBZffoq0"
-        }
-      ],
-      "duration_ms": 167019,
-      "name": "Bam Bam",
-      "url": "https://open.spotify.com/track/3TP4bqNjBsCma8WJvkhYtP"
-    },
-    {
-      "added_at": "2024-08-05 20:03:27",
-      "album": {
         "name": "Famalay",
         "url": "https://open.spotify.com/album/6ZhAG5mWqLEq3ZB3C1dx5q"
       },
@@ -203,6 +171,38 @@
       "duration_ms": 199020,
       "name": "Famalay",
       "url": "https://open.spotify.com/track/2XRkyBiKyHPyJ0krDmK4MA"
+    },
+    {
+      "added_at": "2024-08-05 20:03:27",
+      "album": {
+        "name": "Bam Bam",
+        "url": "https://open.spotify.com/album/5AdNVvhnCuLZgPbqfmZU2W"
+      },
+      "artists": [
+        {
+          "name": "Lil Rick",
+          "url": "https://open.spotify.com/artist/1qKzKUnuQsjB83hBZffoq0"
+        }
+      ],
+      "duration_ms": 167019,
+      "name": "Bam Bam",
+      "url": "https://open.spotify.com/track/3TP4bqNjBsCma8WJvkhYtP"
+    },
+    {
+      "added_at": "2024-08-05 20:03:27",
+      "album": {
+        "name": "Too Real",
+        "url": "https://open.spotify.com/album/0ZNQstQ0ahvsAWzB5c0xoR"
+      },
+      "artists": [
+        {
+          "name": "Kerwin Du Bois",
+          "url": "https://open.spotify.com/artist/1yzePBgnaJhaFDpgt7MpxA"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Too Real",
+      "url": "https://open.spotify.com/track/3FkqGyIPfz7cn5B8W9sVdG"
     },
     {
       "added_at": "2024-08-05 20:03:27",
@@ -499,6 +499,22 @@
     {
       "added_at": "2024-08-05 20:03:27",
       "album": {
+        "name": "Hooked on Soca",
+        "url": "https://open.spotify.com/album/3XUBXDhv1RsWSAO45DjqTd"
+      },
+      "artists": [
+        {
+          "name": "Farmer Nappy",
+          "url": "https://open.spotify.com/artist/0zSbNvakUiCGzlvMl7ncaN"
+        }
+      ],
+      "duration_ms": 183992,
+      "name": "Hookin' Meh",
+      "url": "https://open.spotify.com/track/5ZAKzjJeCTHnK3cGw1PzXa"
+    },
+    {
+      "added_at": "2024-08-05 20:03:27",
+      "album": {
         "name": "Tack Back",
         "url": "https://open.spotify.com/album/3TdjoUXXNZvcclAJxU0Wmq"
       },
@@ -515,22 +531,6 @@
       "duration_ms": 198671,
       "name": "Tack Back",
       "url": "https://open.spotify.com/track/3GwcL1cfFEnTCYTIL8VN1W"
-    },
-    {
-      "added_at": "2024-08-05 20:03:27",
-      "album": {
-        "name": "Hooked on Soca",
-        "url": "https://open.spotify.com/album/3XUBXDhv1RsWSAO45DjqTd"
-      },
-      "artists": [
-        {
-          "name": "Farmer Nappy",
-          "url": "https://open.spotify.com/artist/0zSbNvakUiCGzlvMl7ncaN"
-        }
-      ],
-      "duration_ms": 183992,
-      "name": "Hookin' Meh",
-      "url": "https://open.spotify.com/track/5ZAKzjJeCTHnK3cGw1PzXa"
     },
     {
       "added_at": "2024-08-05 20:03:27",
@@ -623,26 +623,6 @@
     {
       "added_at": "2024-08-05 20:03:27",
       "album": {
-        "name": "Workout (feat. Nailah Blackman)",
-        "url": "https://open.spotify.com/album/2LIZ7qauUnT1VdAYpD4YLe"
-      },
-      "artists": [
-        {
-          "name": "Kes",
-          "url": "https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6"
-        },
-        {
-          "name": "Nailah Blackman",
-          "url": "https://open.spotify.com/artist/1K23l3n63BTCtIMm0TyS4c"
-        }
-      ],
-      "duration_ms": 238153,
-      "name": "Workout",
-      "url": "https://open.spotify.com/track/3BlI8WbmqInpjM0z3k4L63"
-    },
-    {
-      "added_at": "2024-08-05 20:03:27",
-      "album": {
         "name": "Shake The Place",
         "url": "https://open.spotify.com/album/65c1V16fkcckC4BmhHKQVm"
       },
@@ -679,22 +659,6 @@
     {
       "added_at": "2024-08-05 20:03:27",
       "album": {
-        "name": "Turn Up",
-        "url": "https://open.spotify.com/album/5sVwvzUuoIESKU5uOBlNZo"
-      },
-      "artists": [
-        {
-          "name": "Bunji Garlin",
-          "url": "https://open.spotify.com/artist/6nPHDCN7qmxO86eN1grP54"
-        }
-      ],
-      "duration_ms": 160965,
-      "name": "Big Bad Soca",
-      "url": "https://open.spotify.com/track/2ObK7AEuXZmOv8h5WKSjj1"
-    },
-    {
-      "added_at": "2024-08-05 20:03:27",
-      "album": {
         "name": "King Bubba Mashup, Vol. 1",
         "url": "https://open.spotify.com/album/5LnZJFfnBfjKfdDEiYPRo2"
       },
@@ -715,6 +679,42 @@
       "duration_ms": 159013,
       "name": "Monster Winer",
       "url": "https://open.spotify.com/track/3bZaDC1VEb1YpIpWu8ks5H"
+    },
+    {
+      "added_at": "2024-08-05 20:03:27",
+      "album": {
+        "name": "Turn Up",
+        "url": "https://open.spotify.com/album/5sVwvzUuoIESKU5uOBlNZo"
+      },
+      "artists": [
+        {
+          "name": "Bunji Garlin",
+          "url": "https://open.spotify.com/artist/6nPHDCN7qmxO86eN1grP54"
+        }
+      ],
+      "duration_ms": 160965,
+      "name": "Big Bad Soca",
+      "url": "https://open.spotify.com/track/2ObK7AEuXZmOv8h5WKSjj1"
+    },
+    {
+      "added_at": "2024-08-05 20:03:27",
+      "album": {
+        "name": "Workout (feat. Nailah Blackman)",
+        "url": "https://open.spotify.com/album/2LIZ7qauUnT1VdAYpD4YLe"
+      },
+      "artists": [
+        {
+          "name": "Kes",
+          "url": "https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6"
+        },
+        {
+          "name": "Nailah Blackman",
+          "url": "https://open.spotify.com/artist/1K23l3n63BTCtIMm0TyS4c"
+        }
+      ],
+      "duration_ms": 238153,
+      "name": "Workout",
+      "url": "https://open.spotify.com/track/3BlI8WbmqInpjM0z3k4L63"
     },
     {
       "added_at": "2024-08-05 20:03:27",
@@ -787,22 +787,6 @@
     {
       "added_at": "2024-08-05 20:03:27",
       "album": {
-        "name": "Wotless Carnival Album",
-        "url": "https://open.spotify.com/album/6dshwirRnKoFDCC9VQJhTr"
-      },
-      "artists": [
-        {
-          "name": "Kes",
-          "url": "https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6"
-        }
-      ],
-      "duration_ms": 218228,
-      "name": "Wotless",
-      "url": "https://open.spotify.com/track/6G6dpFTQdc4K9WCdrcZFTr"
-    },
-    {
-      "added_at": "2024-08-05 20:03:27",
-      "album": {
         "name": "How She Like It",
         "url": "https://open.spotify.com/album/5a7HKhVmU3fP9iYF1OGglC"
       },
@@ -851,6 +835,22 @@
     {
       "added_at": "2024-08-05 20:03:27",
       "album": {
+        "name": "Wotless Carnival Album",
+        "url": "https://open.spotify.com/album/6dshwirRnKoFDCC9VQJhTr"
+      },
+      "artists": [
+        {
+          "name": "Kes",
+          "url": "https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6"
+        }
+      ],
+      "duration_ms": 218228,
+      "name": "Wotless",
+      "url": "https://open.spotify.com/track/6G6dpFTQdc4K9WCdrcZFTr"
+    },
+    {
+      "added_at": "2024-08-05 20:03:27",
+      "album": {
         "name": "Come Home",
         "url": "https://open.spotify.com/album/0HHOQolYzlGQ4DTqzAtdk7"
       },
@@ -887,6 +887,22 @@
     {
       "added_at": "2024-08-05 20:03:27",
       "album": {
+        "name": "Soca Gold 2007",
+        "url": "https://open.spotify.com/album/1Dhb5q5N4bb3Ev753FThcm"
+      },
+      "artists": [
+        {
+          "name": "Destra",
+          "url": "https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk"
+        }
+      ],
+      "duration_ms": 212146,
+      "name": "I Dare You",
+      "url": "https://open.spotify.com/track/6JCm0aU8GlfiwyWzha3eHL"
+    },
+    {
+      "added_at": "2024-08-05 20:03:27",
+      "album": {
         "name": "In the Water",
         "url": "https://open.spotify.com/album/4sgxQbY0FtG7Jy9bCmosmo"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 159873,
       "name": "In the Water",
       "url": "https://open.spotify.com/track/13VEio7HfObBKUtYUDAp42"
-    },
-    {
-      "added_at": "2024-08-05 20:03:27",
-      "album": {
-        "name": "Soca Gold 2007",
-        "url": "https://open.spotify.com/album/1Dhb5q5N4bb3Ev753FThcm"
-      },
-      "artists": [
-        {
-          "name": "Destra",
-          "url": "https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk"
-        }
-      ],
-      "duration_ms": 212146,
-      "name": "I Dare You",
-      "url": "https://open.spotify.com/track/6JCm0aU8GlfiwyWzha3eHL"
     },
     {
       "added_at": "2024-08-05 20:03:27",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2024-08-05 20:03:27",
       "album": {
+        "name": "The Queen of Bacchanal",
+        "url": "https://open.spotify.com/album/44QIIHlkSUVu4ytLjXIrH3"
+      },
+      "artists": [
+        {
+          "name": "Destra",
+          "url": "https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk"
+        }
+      ],
+      "duration_ms": 234242,
+      "name": "Just a Little Bit",
+      "url": "https://open.spotify.com/track/4swKkhCf3hmiXEFYFnUs5w"
+    },
+    {
+      "added_at": "2024-08-05 20:03:27",
+      "album": {
         "name": "YAGO",
         "url": "https://open.spotify.com/album/0rhXufoWIvJPOqC5Y3AhHa"
       },
@@ -1039,6 +1055,22 @@
       "duration_ms": 207192,
       "name": "Feel The Love",
       "url": "https://open.spotify.com/track/13vorXelUCLrciiOxPtUwC"
+    },
+    {
+      "added_at": "2024-08-05 20:03:27",
+      "album": {
+        "name": "Pop's Guitar Riddim",
+        "url": "https://open.spotify.com/album/6uXnKJxCwFGt9oGtT4fBX2"
+      },
+      "artists": [
+        {
+          "name": "Patrice Roberts",
+          "url": "https://open.spotify.com/artist/0crMctn4iXaE3XCHpeBkOt"
+        }
+      ],
+      "duration_ms": 237131,
+      "name": "Carry On",
+      "url": "https://open.spotify.com/track/54tMRvXvmbLSeX4h33d56U"
     },
     {
       "added_at": "2024-08-05 20:03:27",
@@ -1075,22 +1107,6 @@
     {
       "added_at": "2024-08-05 20:03:27",
       "album": {
-        "name": "The Queen of Bacchanal",
-        "url": "https://open.spotify.com/album/44QIIHlkSUVu4ytLjXIrH3"
-      },
-      "artists": [
-        {
-          "name": "Destra",
-          "url": "https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk"
-        }
-      ],
-      "duration_ms": 234242,
-      "name": "Just a Little Bit",
-      "url": "https://open.spotify.com/track/4swKkhCf3hmiXEFYFnUs5w"
-    },
-    {
-      "added_at": "2024-08-05 20:03:27",
-      "album": {
         "name": "Sit on My Face",
         "url": "https://open.spotify.com/album/6ASsV15On3lnOIRSMFapBg"
       },
@@ -1103,38 +1119,6 @@
       "duration_ms": 87086,
       "name": "Sit on My Face",
       "url": "https://open.spotify.com/track/0uXePy8d0vmDmhrZgUhGrc"
-    },
-    {
-      "added_at": "2024-08-05 20:03:27",
-      "album": {
-        "name": "Pop's Guitar Riddim",
-        "url": "https://open.spotify.com/album/6uXnKJxCwFGt9oGtT4fBX2"
-      },
-      "artists": [
-        {
-          "name": "Patrice Roberts",
-          "url": "https://open.spotify.com/artist/0crMctn4iXaE3XCHpeBkOt"
-        }
-      ],
-      "duration_ms": 237131,
-      "name": "Carry On",
-      "url": "https://open.spotify.com/track/54tMRvXvmbLSeX4h33d56U"
-    },
-    {
-      "added_at": "2024-08-05 20:03:27",
-      "album": {
-        "name": "Caution Riddim",
-        "url": "https://open.spotify.com/album/0oCbAGTJf4aWNEjyFX2Nte"
-      },
-      "artists": [
-        {
-          "name": "Nadia Batson",
-          "url": "https://open.spotify.com/artist/1m1PGW9tdZRXYn85Bh3w9t"
-        }
-      ],
-      "duration_ms": 193488,
-      "name": "Fattt",
-      "url": "https://open.spotify.com/track/5Jbo9fmh94CoGmdvje1HN7"
     },
     {
       "added_at": "2024-08-05 20:03:27",
@@ -1155,18 +1139,18 @@
     {
       "added_at": "2024-08-05 20:03:27",
       "album": {
-        "name": "Retro Fete Riddim",
-        "url": "https://open.spotify.com/album/4eLzjhjbB2HjZDthxt0MbT"
+        "name": "Caution Riddim",
+        "url": "https://open.spotify.com/album/0oCbAGTJf4aWNEjyFX2Nte"
       },
       "artists": [
         {
-          "name": "Teddyson John",
-          "url": "https://open.spotify.com/artist/228J5DyE0af9Z5I5ojm0Fp"
+          "name": "Nadia Batson",
+          "url": "https://open.spotify.com/artist/1m1PGW9tdZRXYn85Bh3w9t"
         }
       ],
-      "duration_ms": 152624,
-      "name": "Party Nice",
-      "url": "https://open.spotify.com/track/66LE1IGBe1VK0hd4tlkbHh"
+      "duration_ms": 193488,
+      "name": "Fattt",
+      "url": "https://open.spotify.com/track/5Jbo9fmh94CoGmdvje1HN7"
     },
     {
       "added_at": "2024-08-05 20:03:27",
@@ -1183,6 +1167,22 @@
       "duration_ms": 238032,
       "name": "Vagabond",
       "url": "https://open.spotify.com/track/6STKwZQQ0da003b3KHTlEL"
+    },
+    {
+      "added_at": "2024-08-05 20:03:27",
+      "album": {
+        "name": "Retro Fete Riddim",
+        "url": "https://open.spotify.com/album/4eLzjhjbB2HjZDthxt0MbT"
+      },
+      "artists": [
+        {
+          "name": "Teddyson John",
+          "url": "https://open.spotify.com/artist/228J5DyE0af9Z5I5ojm0Fp"
+        }
+      ],
+      "duration_ms": 152624,
+      "name": "Party Nice",
+      "url": "https://open.spotify.com/track/66LE1IGBe1VK0hd4tlkbHh"
     },
     {
       "added_at": "2024-08-05 20:03:27",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2024-08-05 20:03:27",
       "album": {
-        "name": "Soca Queen",
-        "url": "https://open.spotify.com/album/5SzcUTZQjYFZNcpgCZoyuJ"
-      },
-      "artists": [
-        {
-          "name": "Alison Hinds",
-          "url": "https://open.spotify.com/artist/4FdhiagLyTmvDqAVUxsQ57"
-        }
-      ],
-      "duration_ms": 257600,
-      "name": "Togetherness",
-      "url": "https://open.spotify.com/track/6h50FEEAl85KK8GJvN7rRe"
-    },
-    {
-      "added_at": "2024-08-05 20:03:27",
-      "album": {
         "name": "Feel It",
         "url": "https://open.spotify.com/album/1SYgCeP4pcUKZw7f8NPMgF"
       },
@@ -1375,6 +1359,22 @@
     {
       "added_at": "2024-08-05 20:03:27",
       "album": {
+        "name": "Soca Queen",
+        "url": "https://open.spotify.com/album/5SzcUTZQjYFZNcpgCZoyuJ"
+      },
+      "artists": [
+        {
+          "name": "Alison Hinds",
+          "url": "https://open.spotify.com/artist/4FdhiagLyTmvDqAVUxsQ57"
+        }
+      ],
+      "duration_ms": 257600,
+      "name": "Togetherness",
+      "url": "https://open.spotify.com/track/6h50FEEAl85KK8GJvN7rRe"
+    },
+    {
+      "added_at": "2024-08-05 20:03:27",
+      "album": {
         "name": "Mas",
         "url": "https://open.spotify.com/album/0YGuzLO321YLIzfDy4vNqa"
       },
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2024-08-05 20:03:27",
       "album": {
-        "name": "Differentology",
-        "url": "https://open.spotify.com/album/3KU878aDWMso8fbh7JCI1a"
-      },
-      "artists": [
-        {
-          "name": "Bunji Garlin",
-          "url": "https://open.spotify.com/artist/6nPHDCN7qmxO86eN1grP54"
-        }
-      ],
-      "duration_ms": 260000,
-      "name": "Differentology (Ready for the Road)",
-      "url": "https://open.spotify.com/track/4rIkcu5U87HoYi454m8Gen"
-    },
-    {
-      "added_at": "2024-08-05 20:03:27",
-      "album": {
         "name": "Out and Bad",
         "url": "https://open.spotify.com/album/3yOplnxQdhPRwwv2IXH9kJ"
       },
@@ -1427,18 +1411,18 @@
     {
       "added_at": "2024-08-05 20:03:27",
       "album": {
-        "name": "How ah Livin",
-        "url": "https://open.spotify.com/album/2wd3Fngpq5RD23KMrY4jsj"
+        "name": "Differentology",
+        "url": "https://open.spotify.com/album/3KU878aDWMso8fbh7JCI1a"
       },
       "artists": [
         {
-          "name": "Farmer Nappy",
-          "url": "https://open.spotify.com/artist/0zSbNvakUiCGzlvMl7ncaN"
+          "name": "Bunji Garlin",
+          "url": "https://open.spotify.com/artist/6nPHDCN7qmxO86eN1grP54"
         }
       ],
-      "duration_ms": 229458,
-      "name": "How ah Livin",
-      "url": "https://open.spotify.com/track/4NxqELbBJbL9uW9AZaiBut"
+      "duration_ms": 260000,
+      "name": "Differentology (Ready for the Road)",
+      "url": "https://open.spotify.com/track/4rIkcu5U87HoYi454m8Gen"
     },
     {
       "added_at": "2024-08-05 20:03:27",
@@ -1455,6 +1439,22 @@
       "duration_ms": 203358,
       "name": "Leh Go",
       "url": "https://open.spotify.com/track/0QMMShvfoWeOZeJ7cFd5ck"
+    },
+    {
+      "added_at": "2024-08-05 20:03:27",
+      "album": {
+        "name": "How ah Livin",
+        "url": "https://open.spotify.com/album/2wd3Fngpq5RD23KMrY4jsj"
+      },
+      "artists": [
+        {
+          "name": "Farmer Nappy",
+          "url": "https://open.spotify.com/artist/0zSbNvakUiCGzlvMl7ncaN"
+        }
+      ],
+      "duration_ms": 229458,
+      "name": "How ah Livin",
+      "url": "https://open.spotify.com/track/4NxqELbBJbL9uW9AZaiBut"
     },
     {
       "added_at": "2024-08-05 20:03:27",
@@ -1519,6 +1519,22 @@
     {
       "added_at": "2024-08-05 20:03:27",
       "album": {
+        "name": "Hall of Fame",
+        "url": "https://open.spotify.com/album/22GpOUbiqmiZSuK8wnLvYB"
+      },
+      "artists": [
+        {
+          "name": "Mical Teja",
+          "url": "https://open.spotify.com/artist/3hAEV7AsItFtYdftNNxSMu"
+        }
+      ],
+      "duration_ms": 217846,
+      "name": "Hall of Fame",
+      "url": "https://open.spotify.com/track/1fOEsuhzqsvMyAtXiQIUyl"
+    },
+    {
+      "added_at": "2024-08-05 20:03:27",
+      "album": {
         "name": "Darkseid Riddim",
         "url": "https://open.spotify.com/album/6jCLEXGfOXFLggNEXuSfpX"
       },
@@ -1547,22 +1563,6 @@
       "duration_ms": 365240,
       "name": "Sugar Bum Bum",
       "url": "https://open.spotify.com/track/149qzbNc27hQO3EGqUjGCq"
-    },
-    {
-      "added_at": "2024-08-05 20:03:27",
-      "album": {
-        "name": "Hall of Fame",
-        "url": "https://open.spotify.com/album/22GpOUbiqmiZSuK8wnLvYB"
-      },
-      "artists": [
-        {
-          "name": "Mical Teja",
-          "url": "https://open.spotify.com/artist/3hAEV7AsItFtYdftNNxSMu"
-        }
-      ],
-      "duration_ms": 217846,
-      "name": "Hall of Fame",
-      "url": "https://open.spotify.com/track/1fOEsuhzqsvMyAtXiQIUyl"
     },
     {
       "added_at": "2024-08-05 20:03:27",
@@ -1647,6 +1647,38 @@
     {
       "added_at": "2024-08-05 20:03:27",
       "album": {
+        "name": "Soak It Good",
+        "url": "https://open.spotify.com/album/5B7LBGOBJYMIEfAldCeFDD"
+      },
+      "artists": [
+        {
+          "name": "Skinny Banton",
+          "url": "https://open.spotify.com/artist/17mmOxzEgy1HQsEhsXvcO6"
+        }
+      ],
+      "duration_ms": 182125,
+      "name": "Soak It Good",
+      "url": "https://open.spotify.com/track/0wfBV1srBNO2dRyWL1BxS9"
+    },
+    {
+      "added_at": "2024-08-05 20:03:27",
+      "album": {
+        "name": "Project 5 Riddim",
+        "url": "https://open.spotify.com/album/3Kqmyo4COzX5mV9Gph2f5b"
+      },
+      "artists": [
+        {
+          "name": "Denise Belfon",
+          "url": "https://open.spotify.com/artist/20rSjugHQ6CwKR44JnteQf"
+        }
+      ],
+      "duration_ms": 274000,
+      "name": "Wining Queen",
+      "url": "https://open.spotify.com/track/03IRnxnT392N97EUGZ9eIw"
+    },
+    {
+      "added_at": "2024-08-05 20:03:27",
+      "album": {
         "name": "Dingolay",
         "url": "https://open.spotify.com/album/1iavPUafWYJWcstenET7ex"
       },
@@ -1667,22 +1699,6 @@
     {
       "added_at": "2024-08-05 20:03:27",
       "album": {
-        "name": "Soak It Good",
-        "url": "https://open.spotify.com/album/5B7LBGOBJYMIEfAldCeFDD"
-      },
-      "artists": [
-        {
-          "name": "Skinny Banton",
-          "url": "https://open.spotify.com/artist/17mmOxzEgy1HQsEhsXvcO6"
-        }
-      ],
-      "duration_ms": 182125,
-      "name": "Soak It Good",
-      "url": "https://open.spotify.com/track/0wfBV1srBNO2dRyWL1BxS9"
-    },
-    {
-      "added_at": "2024-08-05 20:03:27",
-      "album": {
         "name": "Instruction 2",
         "url": "https://open.spotify.com/album/0DaEvN8WyTxy74wNvZZFpe"
       },
@@ -1695,22 +1711,6 @@
       "duration_ms": 99720,
       "name": "Instruction 2",
       "url": "https://open.spotify.com/track/7kvWtJnWrqxaIYc8Ydvr38"
-    },
-    {
-      "added_at": "2024-08-05 20:03:27",
-      "album": {
-        "name": "Project 5 Riddim",
-        "url": "https://open.spotify.com/album/3Kqmyo4COzX5mV9Gph2f5b"
-      },
-      "artists": [
-        {
-          "name": "Denise Belfon",
-          "url": "https://open.spotify.com/artist/20rSjugHQ6CwKR44JnteQf"
-        }
-      ],
-      "duration_ms": 274000,
-      "name": "Wining Queen",
-      "url": "https://open.spotify.com/track/03IRnxnT392N97EUGZ9eIw"
     },
     {
       "added_at": "2024-08-05 20:03:27",

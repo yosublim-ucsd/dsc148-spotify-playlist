@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 
 > Viikon parhaat uutuusbiisit samassa paketissa\. Kannessa Coldplay.
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,190 likes - 109 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,189 likes - 109 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 | 63 | [Meet Me In The Middle](https://open.spotify.com/track/2pmvEffn5k4CD5WEmOjDrO) | [LF SYSTEM](https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO) | [Meet Me In The Middle](https://open.spotify.com/album/1XUuSXvM22T5sRqD1pOU9K) | 2:17 |
 | 64 | [Tää mimmi \(feat\. Sara Bee\)](https://open.spotify.com/track/0q69m7aNB5GwbjkfcZM3NS) | [TUULI](https://open.spotify.com/artist/4CvGI7cUCGi7gcG0X0nrwc), [Sara Bee](https://open.spotify.com/artist/5kvgJ8cZWc3pGpIHhksKTb) | [Kuivaa kyyneleet](https://open.spotify.com/album/4zyg8ORJNwWejgZgu9gFoP) | 2:39 |
 | 65 | [slay ur enemies](https://open.spotify.com/track/7aGGAZBZgdSRt49j7m38Zk) | [LUNA KILLS](https://open.spotify.com/artist/5OMIs8tNddcCXVDMN8LLyQ) | [slay ur enemies](https://open.spotify.com/album/4Y7XARCKI2aX8ND7mKpwX3) | 2:48 |
-| 66 | [Ei kauniimpaa \- Vain Elämää kausi 15](https://open.spotify.com/track/47JIfPEVeCbgJB6Gmw35qr) | [Eini](https://open.spotify.com/artist/6yTTkPtwPo2PEkQF4SScwM) | [Ei kauniimpaa \(Vain Elämää kausi 15\)](https://open.spotify.com/album/7sgKcYxIWxEVWfGMYSzgGd) | 3:01 |
+| 66 | [Ei kauniimpaa \- Vain elämää kausi 15](https://open.spotify.com/track/47JIfPEVeCbgJB6Gmw35qr) | [Eini](https://open.spotify.com/artist/6yTTkPtwPo2PEkQF4SScwM) | [Ei kauniimpaa \(Vain elämää kausi 15\)](https://open.spotify.com/album/7sgKcYxIWxEVWfGMYSzgGd) | 3:01 |
 | 67 | [My Favourite Game](https://open.spotify.com/track/1O28S9MYZONNh5PNG1bYeC) | [Odymel](https://open.spotify.com/artist/7c4fOBUstnjfbvSwtOJSiA) | [My Favourite Game](https://open.spotify.com/album/6gBdKuFAJKsuV42mWX6309) | 3:23 |
 | 68 | [Rhetorical Questions](https://open.spotify.com/track/4QR8axjkh9dPhey4BxOdpE) | [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ) | [Rhetorical Questions](https://open.spotify.com/album/3j4QdU7FlRNF7eXJTJKUS7) | 2:55 |
 | 69 | [Jääkauden jälkeen](https://open.spotify.com/track/00P7NZl3Qr4bTL4ZsoI4Tb) | [Annika Eklund](https://open.spotify.com/artist/4Mkkqyn486EFswOyka40ip) | [Jääkauden jälkeen](https://open.spotify.com/album/2NEWa5xqdj92JpuzAjaxIq) | 3:22 |

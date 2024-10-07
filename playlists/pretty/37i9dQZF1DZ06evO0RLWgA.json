@@ -1,12 +1,12 @@
 {
   "description": "This is John Lee Hooker. The essential tracks, all in one playlist.",
-  "num_followers": 48706,
+  "num_followers": 48715,
   "original_name": "This Is John Lee Hooker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zv3egAAAAABVAe+ycLDEJCy54coo8Zqc",
+  "snapshot_id": "ZwCBgAAAAABc3Heqe+9S4Nk+zaX29SWy",
   "tracks": [
     {
       "added_at": null,
@@ -319,22 +319,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Urban Blues (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5QCX3rK4zjRiUknme1gQ9x"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        }
-      ],
-      "duration_ms": 158800,
-      "name": "Cry Before I Go",
-      "url": "https://open.spotify.com/track/7jskfadkwgveJrlF3KNqbb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Remastered from the Archives",
         "url": "https://open.spotify.com/album/1ptcOYwu6UZRrCZhFisQEn"
       },
@@ -367,6 +351,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Urban Blues (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5QCX3rK4zjRiUknme1gQ9x"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "duration_ms": 158800,
+      "name": "Cry Before I Go",
+      "url": "https://open.spotify.com/track/7jskfadkwgveJrlF3KNqbb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "It Serves You Right To Suffer",
         "url": "https://open.spotify.com/album/7Fizhioivpqy1oSn6R7zcV"
       },
@@ -379,22 +379,6 @@
       "duration_ms": 145760,
       "name": "Bottle Up & Go",
       "url": "https://open.spotify.com/track/0X1w7fhjareYB8kfqW25Rf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Urban Blues (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5QCX3rK4zjRiUknme1gQ9x"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        }
-      ],
-      "duration_ms": 170506,
-      "name": "Backbiters And Syndicaters",
-      "url": "https://open.spotify.com/track/1Hp3DVGqIm7ydG7F5u6E0l"
     },
     {
       "added_at": null,
@@ -431,6 +415,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Urban Blues (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5QCX3rK4zjRiUknme1gQ9x"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "duration_ms": 170506,
+      "name": "Backbiters And Syndicaters",
+      "url": "https://open.spotify.com/track/1Hp3DVGqIm7ydG7F5u6E0l"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "It Serves You Right To Suffer",
         "url": "https://open.spotify.com/album/7Fizhioivpqy1oSn6R7zcV"
       },
@@ -443,22 +443,6 @@
       "duration_ms": 143693,
       "name": "Money",
       "url": "https://open.spotify.com/track/1fStKfM74b9XmJa4YExB1a"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "More Real Folk Blues: The Missing Album",
-        "url": "https://open.spotify.com/album/5lwxL0qai9arfOIorpQL11"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        }
-      ],
-      "duration_ms": 208800,
-      "name": "I Can't Quit You Baby",
-      "url": "https://open.spotify.com/track/1RgxsdVXU33n2po7sFdMHD"
     },
     {
       "added_at": null,
@@ -483,8 +467,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Urban Blues (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5QCX3rK4zjRiUknme1gQ9x"
+        "name": "More Real Folk Blues: The Missing Album",
+        "url": "https://open.spotify.com/album/5lwxL0qai9arfOIorpQL11"
       },
       "artists": [
         {
@@ -492,9 +476,9 @@
           "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
         }
       ],
-      "duration_ms": 172400,
-      "name": "Mr. Lucky",
-      "url": "https://open.spotify.com/track/69lFRWBkVZEFxkQ79wZ9Is"
+      "duration_ms": 208800,
+      "name": "I Can't Quit You Baby",
+      "url": "https://open.spotify.com/track/1RgxsdVXU33n2po7sFdMHD"
     },
     {
       "added_at": null,
@@ -511,6 +495,22 @@
       "duration_ms": 319466,
       "name": "I Put My Trust In You",
       "url": "https://open.spotify.com/track/3de9QMMvkyDop04qy2w92t"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Urban Blues (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5QCX3rK4zjRiUknme1gQ9x"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "duration_ms": 172400,
+      "name": "Mr. Lucky",
+      "url": "https://open.spotify.com/track/69lFRWBkVZEFxkQ79wZ9Is"
     },
     {
       "added_at": null,
@@ -599,8 +599,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Real Folk Blues",
-        "url": "https://open.spotify.com/album/6AToTGNfNIiOSMcl6xGJTY"
+        "name": "Live At The Cafe Au-Go-Go",
+        "url": "https://open.spotify.com/album/2GMgGU9seSh5gmYH6atrBd"
       },
       "artists": [
         {
@@ -608,9 +608,9 @@
           "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
         }
       ],
-      "duration_ms": 184506,
-      "name": "Stella Mae",
-      "url": "https://open.spotify.com/track/1kUbawlVQyu6oZzKRn6RYe"
+      "duration_ms": 200266,
+      "name": "She's Long, She's Tall (She Weeps Like A Willow Tree) - Live At Cafe Au-Go-Go/1966",
+      "url": "https://open.spotify.com/track/1MiygdyK10qC8yNFnc9ayu"
     },
     {
       "added_at": null,
@@ -631,8 +631,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live At The Cafe Au-Go-Go",
-        "url": "https://open.spotify.com/album/2GMgGU9seSh5gmYH6atrBd"
+        "name": "The Real Folk Blues",
+        "url": "https://open.spotify.com/album/6AToTGNfNIiOSMcl6xGJTY"
       },
       "artists": [
         {
@@ -640,9 +640,9 @@
           "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
         }
       ],
-      "duration_ms": 200266,
-      "name": "She's Long, She's Tall (She Weeps Like A Willow Tree) - Live At Cafe Au-Go-Go/1966",
-      "url": "https://open.spotify.com/track/1MiygdyK10qC8yNFnc9ayu"
+      "duration_ms": 184506,
+      "name": "Stella Mae",
+      "url": "https://open.spotify.com/track/1kUbawlVQyu6oZzKRn6RYe"
     },
     {
       "added_at": null,
@@ -667,38 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Urban Blues (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5QCX3rK4zjRiUknme1gQ9x"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        }
-      ],
-      "duration_ms": 153293,
-      "name": "My Own Blues",
-      "url": "https://open.spotify.com/track/0GlMkhYvq1usAq45nFOh7o"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Chill Out",
-        "url": "https://open.spotify.com/album/1gHlGo1eKQl5ppd7pdihNy"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        }
-      ],
-      "duration_ms": 191266,
-      "name": "Kiddio (2007 - Remaster)",
-      "url": "https://open.spotify.com/track/1zkvDMv2c4fcCRCTKC634t"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Shake",
         "url": "https://open.spotify.com/album/7iW0lg3yMzmO47L2yjCBHn"
       },
@@ -719,22 +687,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Healer",
-        "url": "https://open.spotify.com/album/7dX5RVwG4Bdw13xrCuIFbk"
+        "name": "Chill Out",
+        "url": "https://open.spotify.com/album/1gHlGo1eKQl5ppd7pdihNy"
       },
       "artists": [
         {
           "name": "John Lee Hooker",
           "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        },
-        {
-          "name": "Canned Heat",
-          "url": "https://open.spotify.com/artist/27a0GiCba9K9lnkKidroFU"
         }
       ],
-      "duration_ms": 277000,
-      "name": "Cuttin' Out (feat. Canned Heat)",
-      "url": "https://open.spotify.com/track/3wD8QPYFxygFaPHTb21xmr"
+      "duration_ms": 191266,
+      "name": "Kiddio (2007 - Remaster)",
+      "url": "https://open.spotify.com/track/1zkvDMv2c4fcCRCTKC634t"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Urban Blues (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5QCX3rK4zjRiUknme1gQ9x"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "duration_ms": 153293,
+      "name": "My Own Blues",
+      "url": "https://open.spotify.com/track/0GlMkhYvq1usAq45nFOh7o"
     },
     {
       "added_at": null,
@@ -759,6 +739,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Healer",
+        "url": "https://open.spotify.com/album/7dX5RVwG4Bdw13xrCuIFbk"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        },
+        {
+          "name": "Canned Heat",
+          "url": "https://open.spotify.com/artist/27a0GiCba9K9lnkKidroFU"
+        }
+      ],
+      "duration_ms": 277000,
+      "name": "Cuttin' Out (feat. Canned Heat)",
+      "url": "https://open.spotify.com/track/3wD8QPYFxygFaPHTb21xmr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Real Folk Blues",
         "url": "https://open.spotify.com/album/6AToTGNfNIiOSMcl6xGJTY"
       },
@@ -771,6 +771,22 @@
       "duration_ms": 233266,
       "name": "You Know, I Know",
       "url": "https://open.spotify.com/track/2PoCFAeqx7VDDwljQpxjts"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Half A Stranger Vol 1",
+        "url": "https://open.spotify.com/album/1UKljueptyRlVnuHNYNJOe"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "duration_ms": 183706,
+      "name": "Hobo Blues",
+      "url": "https://open.spotify.com/track/15u5oLagRuxJUNebO6mpgX"
     },
     {
       "added_at": null,
@@ -807,22 +823,6 @@
       "duration_ms": 198773,
       "name": "Sally Mae (feat. George Thorogood)",
       "url": "https://open.spotify.com/track/1tJHt3iQlYpRJLq9oTqJSs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Half A Stranger Vol 1",
-        "url": "https://open.spotify.com/album/1UKljueptyRlVnuHNYNJOe"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        }
-      ],
-      "duration_ms": 183706,
-      "name": "Hobo Blues",
-      "url": "https://open.spotify.com/track/15u5oLagRuxJUNebO6mpgX"
     },
     {
       "added_at": null,

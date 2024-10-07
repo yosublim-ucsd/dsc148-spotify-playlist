@@ -1,6 +1,6 @@
 {
   "description": "electronic nostalgia \u26a1\ufe0f Cover: The xx",
-  "num_followers": 48053,
+  "num_followers": 48100,
   "original_name": "voltage",
   "owner": {
     "name": "Spotify",
@@ -531,6 +531,22 @@
     {
       "added_at": "2023-12-08 21:38:00",
       "album": {
+        "name": "shrines",
+        "url": "https://open.spotify.com/album/7nuxFL8lYQTIlpEEPEMpN8"
+      },
+      "artists": [
+        {
+          "name": "Purity Ring",
+          "url": "https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4"
+        }
+      ],
+      "duration_ms": 209760,
+      "name": "fineshrine",
+      "url": "https://open.spotify.com/track/5aJmSzmuhLI6fr1Rm0EnkS"
+    },
+    {
+      "added_at": "2023-12-08 21:38:00",
+      "album": {
         "name": "Howling (\u00c2me Remix)",
         "url": "https://open.spotify.com/album/3qHg26OrsZMxmd2Y8X6WW5"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 485220,
       "name": "Howling - \u00c2me Remix",
       "url": "https://open.spotify.com/track/78jIj6Ph2364zg1ZVIvbIN"
-    },
-    {
-      "added_at": "2023-12-08 21:38:00",
-      "album": {
-        "name": "shrines",
-        "url": "https://open.spotify.com/album/7nuxFL8lYQTIlpEEPEMpN8"
-      },
-      "artists": [
-        {
-          "name": "Purity Ring",
-          "url": "https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4"
-        }
-      ],
-      "duration_ms": 209760,
-      "name": "fineshrine",
-      "url": "https://open.spotify.com/track/5aJmSzmuhLI6fr1Rm0EnkS"
     },
     {
       "added_at": "2023-12-08 21:38:00",
@@ -671,22 +671,6 @@
     {
       "added_at": "2023-12-08 21:38:00",
       "album": {
-        "name": "Yore",
-        "url": "https://open.spotify.com/album/1zgJsOkVoyqKQx9dNdyDdB"
-      },
-      "artists": [
-        {
-          "name": "Evenings",
-          "url": "https://open.spotify.com/artist/4bODnAlydTbem2JAjDX52y"
-        }
-      ],
-      "duration_ms": 172252,
-      "name": "Babe",
-      "url": "https://open.spotify.com/track/7nfGqsJl4A3lXApUI0YIFA"
-    },
-    {
-      "added_at": "2023-12-08 21:38:00",
-      "album": {
         "name": "It's the Arps",
         "url": "https://open.spotify.com/album/07HuAQQEbH1ShP4b9SsNwp"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 400751,
       "name": "Inspector Norse",
       "url": "https://open.spotify.com/track/1NHd4UVxT5d5EGYzlDq17T"
+    },
+    {
+      "added_at": "2023-12-08 21:38:00",
+      "album": {
+        "name": "Yore",
+        "url": "https://open.spotify.com/album/1zgJsOkVoyqKQx9dNdyDdB"
+      },
+      "artists": [
+        {
+          "name": "Evenings",
+          "url": "https://open.spotify.com/artist/4bODnAlydTbem2JAjDX52y"
+        }
+      ],
+      "duration_ms": 172252,
+      "name": "Babe",
+      "url": "https://open.spotify.com/track/7nfGqsJl4A3lXApUI0YIFA"
     },
     {
       "added_at": "2023-12-08 21:38:00",
@@ -739,22 +739,6 @@
     {
       "added_at": "2023-12-08 21:38:00",
       "album": {
-        "name": "Easier",
-        "url": "https://open.spotify.com/album/1Rmqz6ZTlsRqQup2cGEZ1B"
-      },
-      "artists": [
-        {
-          "name": "Weval",
-          "url": "https://open.spotify.com/artist/12tZvy2xFpWSkuJ3FsfisZ"
-        }
-      ],
-      "duration_ms": 308741,
-      "name": "Gimme Some",
-      "url": "https://open.spotify.com/track/6170lJSBtiM5trzOtHtdD2"
-    },
-    {
-      "added_at": "2023-12-08 21:38:00",
-      "album": {
         "name": "See Mystery Lights: Remixes & B-Sides",
         "url": "https://open.spotify.com/album/7JNgMsuPDrqguKEh5rGaFb"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 251380,
       "name": "Psychic City - Classixx Remix",
       "url": "https://open.spotify.com/track/4NWpGwfkWMlA7G2ZpFKDXZ"
+    },
+    {
+      "added_at": "2023-12-08 21:38:00",
+      "album": {
+        "name": "Easier",
+        "url": "https://open.spotify.com/album/1Rmqz6ZTlsRqQup2cGEZ1B"
+      },
+      "artists": [
+        {
+          "name": "Weval",
+          "url": "https://open.spotify.com/artist/12tZvy2xFpWSkuJ3FsfisZ"
+        }
+      ],
+      "duration_ms": 308741,
+      "name": "Gimme Some",
+      "url": "https://open.spotify.com/track/6170lJSBtiM5trzOtHtdD2"
     },
     {
       "added_at": "2023-12-08 21:38:00",
@@ -927,22 +927,6 @@
     {
       "added_at": "2023-12-08 21:38:00",
       "album": {
-        "name": "Cupid Deluxe",
-        "url": "https://open.spotify.com/album/1bsLkHcWAGUao6Z1dHOEIB"
-      },
-      "artists": [
-        {
-          "name": "Blood Orange",
-          "url": "https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR"
-        }
-      ],
-      "duration_ms": 307400,
-      "name": "It Is What It Is",
-      "url": "https://open.spotify.com/track/0BPWY79wNehGVARtwJawYV"
-    },
-    {
-      "added_at": "2023-12-08 21:38:00",
-      "album": {
         "name": "Untrue",
         "url": "https://open.spotify.com/album/1C30LhZB9I48LdpVCRRYvq"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 216923,
       "name": "California Girls",
       "url": "https://open.spotify.com/track/4m2ZICy5YEx76B5BVFCDsg"
+    },
+    {
+      "added_at": "2023-12-08 21:38:00",
+      "album": {
+        "name": "Cupid Deluxe",
+        "url": "https://open.spotify.com/album/1bsLkHcWAGUao6Z1dHOEIB"
+      },
+      "artists": [
+        {
+          "name": "Blood Orange",
+          "url": "https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR"
+        }
+      ],
+      "duration_ms": 307400,
+      "name": "It Is What It Is",
+      "url": "https://open.spotify.com/track/0BPWY79wNehGVARtwJawYV"
     },
     {
       "added_at": "2023-12-08 21:38:00",
@@ -1107,6 +1107,22 @@
     {
       "added_at": "2023-12-08 21:38:00",
       "album": {
+        "name": "Tremors",
+        "url": "https://open.spotify.com/album/021w8zNOK5t0XTrbvVUysp"
+      },
+      "artists": [
+        {
+          "name": "SOHN",
+          "url": "https://open.spotify.com/artist/6XZYAWJLL8UIbxAqjKj3cg"
+        }
+      ],
+      "duration_ms": 233017,
+      "name": "The Wheel",
+      "url": "https://open.spotify.com/track/2ZqhjS3T4r3DLcQqI2sqf5"
+    },
+    {
+      "added_at": "2023-12-08 21:38:00",
+      "album": {
         "name": "Love What Survives",
         "url": "https://open.spotify.com/album/2QlIw88KfFlC3P0nLcWSKs"
       },
@@ -1123,22 +1139,6 @@
       "duration_ms": 251356,
       "name": "Marilyn",
       "url": "https://open.spotify.com/track/75gwWphI9gXlNV0xDyixMw"
-    },
-    {
-      "added_at": "2023-12-08 21:38:00",
-      "album": {
-        "name": "Tremors",
-        "url": "https://open.spotify.com/album/021w8zNOK5t0XTrbvVUysp"
-      },
-      "artists": [
-        {
-          "name": "SOHN",
-          "url": "https://open.spotify.com/artist/6XZYAWJLL8UIbxAqjKj3cg"
-        }
-      ],
-      "duration_ms": 233017,
-      "name": "The Wheel",
-      "url": "https://open.spotify.com/track/2ZqhjS3T4r3DLcQqI2sqf5"
     },
     {
       "added_at": "2024-02-29 17:58:01",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2023-12-08 21:38:00",
       "album": {
-        "name": "James Blake",
-        "url": "https://open.spotify.com/album/0qY6lBQSi8IMJjHYDPdAqX"
-      },
-      "artists": [
-        {
-          "name": "James Blake",
-          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
-        }
-      ],
-      "duration_ms": 273840,
-      "name": "The Wilhelm Scream",
-      "url": "https://open.spotify.com/track/688DZF6e1MH5Uf409dwaHm"
-    },
-    {
-      "added_at": "2023-12-08 21:38:00",
-      "album": {
         "name": "Blind",
         "url": "https://open.spotify.com/album/4vdHNQcsvi2eUFjxrEXoig"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 345560,
       "name": "Blind - Radio Edit",
       "url": "https://open.spotify.com/track/2acK24b60RQD2zBpW0Zsrw"
+    },
+    {
+      "added_at": "2023-12-08 21:38:00",
+      "album": {
+        "name": "James Blake",
+        "url": "https://open.spotify.com/album/0qY6lBQSi8IMJjHYDPdAqX"
+      },
+      "artists": [
+        {
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+        }
+      ],
+      "duration_ms": 273840,
+      "name": "The Wilhelm Scream",
+      "url": "https://open.spotify.com/track/688DZF6e1MH5Uf409dwaHm"
     },
     {
       "added_at": "2023-12-08 21:38:00",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2023-12-08 21:38:00",
       "album": {
-        "name": "Glass Animals",
-        "url": "https://open.spotify.com/album/4M7zRurOW6q7pQxjMcPqwU"
-      },
-      "artists": [
-        {
-          "name": "Glass Animals",
-          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
-        }
-      ],
-      "duration_ms": 211194,
-      "name": "Psylla",
-      "url": "https://open.spotify.com/track/4XCpDE4pLTkkQ0kudqBLdS"
-    },
-    {
-      "added_at": "2023-12-08 21:38:00",
-      "album": {
         "name": "We're New Here",
         "url": "https://open.spotify.com/album/7BuwwZzrJCAJaC12QKkDOh"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 282906,
       "name": "I'll Take Care of U",
       "url": "https://open.spotify.com/track/3uFVyg61HeKCMbL5N6LuSA"
+    },
+    {
+      "added_at": "2023-12-08 21:38:00",
+      "album": {
+        "name": "Glass Animals",
+        "url": "https://open.spotify.com/album/4M7zRurOW6q7pQxjMcPqwU"
+      },
+      "artists": [
+        {
+          "name": "Glass Animals",
+          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
+        }
+      ],
+      "duration_ms": 211194,
+      "name": "Psylla",
+      "url": "https://open.spotify.com/track/4XCpDE4pLTkkQ0kudqBLdS"
     },
     {
       "added_at": "2023-12-08 21:38:00",
@@ -1419,6 +1419,22 @@
     {
       "added_at": "2023-12-08 21:38:00",
       "album": {
+        "name": "On My Own",
+        "url": "https://open.spotify.com/album/5ulxwV032s3dUxd1sXLxm0"
+      },
+      "artists": [
+        {
+          "name": "Zero 7",
+          "url": "https://open.spotify.com/artist/14H7ag1wpQOsPPQJOD6Dqr"
+        }
+      ],
+      "duration_ms": 385986,
+      "name": "Don't Call It Love - 12\" Version",
+      "url": "https://open.spotify.com/track/2ikT7zgIJYBcpchNseRmka"
+    },
+    {
+      "added_at": "2023-12-08 21:38:00",
+      "album": {
         "name": "Los Angeles",
         "url": "https://open.spotify.com/album/0q8xcjDnjM60zXr8UdSDfu"
       },
@@ -1451,22 +1467,6 @@
       "duration_ms": 431520,
       "name": "Get Innocuous!",
       "url": "https://open.spotify.com/track/0Ct2XTT4UBt9Y196i0Ido2"
-    },
-    {
-      "added_at": "2023-12-08 21:38:00",
-      "album": {
-        "name": "On My Own",
-        "url": "https://open.spotify.com/album/5ulxwV032s3dUxd1sXLxm0"
-      },
-      "artists": [
-        {
-          "name": "Zero 7",
-          "url": "https://open.spotify.com/artist/14H7ag1wpQOsPPQJOD6Dqr"
-        }
-      ],
-      "duration_ms": 385986,
-      "name": "Don't Call It Love - 12\" Version",
-      "url": "https://open.spotify.com/track/2ikT7zgIJYBcpchNseRmka"
     },
     {
       "added_at": "2023-12-08 21:38:00",
@@ -1659,6 +1659,22 @@
     {
       "added_at": "2023-12-08 21:38:00",
       "album": {
+        "name": "Simmer Down",
+        "url": "https://open.spotify.com/album/4UHxwsh3akwnS8AnFpoDdr"
+      },
+      "artists": [
+        {
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+        }
+      ],
+      "duration_ms": 219736,
+      "name": "Could",
+      "url": "https://open.spotify.com/track/3FjHWRfmNNYClBLZVtQAYT"
+    },
+    {
+      "added_at": "2023-12-08 21:38:00",
+      "album": {
         "name": "Caracal (Deluxe)",
         "url": "https://open.spotify.com/album/08ipn1MH7xqgoqhUbtvCTy"
       },
@@ -1675,22 +1691,6 @@
       "duration_ms": 282124,
       "name": "Good Intentions",
       "url": "https://open.spotify.com/track/1zdDIieTg3JyVPeHPO9227"
-    },
-    {
-      "added_at": "2023-12-08 21:38:00",
-      "album": {
-        "name": "Simmer Down",
-        "url": "https://open.spotify.com/album/4UHxwsh3akwnS8AnFpoDdr"
-      },
-      "artists": [
-        {
-          "name": "Elderbrook",
-          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
-        }
-      ],
-      "duration_ms": 219736,
-      "name": "Could",
-      "url": "https://open.spotify.com/track/3FjHWRfmNNYClBLZVtQAYT"
     }
   ],
   "unique_name": "voltage",

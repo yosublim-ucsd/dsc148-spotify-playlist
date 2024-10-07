@@ -1,6 +1,6 @@
 {
   "description": "The Mills Brothers, The Andrews Sisters and other classic vocal groups.",
-  "num_followers": 1912,
+  "num_followers": 1913,
   "original_name": "Close Harmony Vocals",
   "owner": {
     "name": "Spotify",
@@ -143,26 +143,6 @@
     {
       "added_at": "2020-08-17 22:49:59",
       "album": {
-        "name": "50th Anniversary Collection - Vol. 2",
-        "url": "https://open.spotify.com/album/4ro3pENrSK5JrlsTr1RS7L"
-      },
-      "artists": [
-        {
-          "name": "The Andrews Sisters",
-          "url": "https://open.spotify.com/artist/2NCGI6dLTxLdI9XHdv7QfM"
-        },
-        {
-          "name": "Vic Schoen & His Orchestra",
-          "url": "https://open.spotify.com/artist/5wHn4S5C2d5fqXIPnJWe42"
-        }
-      ],
-      "duration_ms": 149333,
-      "name": "Straighten Up And Fly Right - Single Version",
-      "url": "https://open.spotify.com/track/2FZZZ3L1wj9xTgQzMlQEed"
-    },
-    {
-      "added_at": "2020-08-17 22:49:59",
-      "album": {
         "name": "Voices In Modern",
         "url": "https://open.spotify.com/album/6kckztjIdIEv1gLYa9Wyn8"
       },
@@ -191,6 +171,26 @@
       "duration_ms": 141040,
       "name": "Istanbul (Not Constantinople)",
       "url": "https://open.spotify.com/track/1HKcy2OX5u86O9M1AOCNDE"
+    },
+    {
+      "added_at": "2020-08-17 22:49:59",
+      "album": {
+        "name": "50th Anniversary Collection - Vol. 2",
+        "url": "https://open.spotify.com/album/4ro3pENrSK5JrlsTr1RS7L"
+      },
+      "artists": [
+        {
+          "name": "The Andrews Sisters",
+          "url": "https://open.spotify.com/artist/2NCGI6dLTxLdI9XHdv7QfM"
+        },
+        {
+          "name": "Vic Schoen & His Orchestra",
+          "url": "https://open.spotify.com/artist/5wHn4S5C2d5fqXIPnJWe42"
+        }
+      ],
+      "duration_ms": 149333,
+      "name": "Straighten Up And Fly Right - Single Version",
+      "url": "https://open.spotify.com/track/2FZZZ3L1wj9xTgQzMlQEed"
     },
     {
       "added_at": "2020-08-17 22:49:59",
@@ -331,6 +331,22 @@
     {
       "added_at": "2020-08-17 22:49:59",
       "album": {
+        "name": "The Anthology",
+        "url": "https://open.spotify.com/album/61rb02N7fHGie0DMqkOWE6"
+      },
+      "artists": [
+        {
+          "name": "The McGuire Sisters",
+          "url": "https://open.spotify.com/artist/6oXkzBf6bMupenvf4tKtmN"
+        }
+      ],
+      "duration_ms": 178066,
+      "name": "May You Always",
+      "url": "https://open.spotify.com/track/3VNjiS6wrDpESHRMvmqTYM"
+    },
+    {
+      "added_at": "2020-08-17 22:49:59",
+      "album": {
         "name": "That's How Rhythm Was Born",
         "url": "https://open.spotify.com/album/3yQZ3s8FaMVOxp9KNhD6cj"
       },
@@ -349,36 +365,20 @@
       "url": "https://open.spotify.com/track/49Xc60AAQc6NIFAa1DikVo"
     },
     {
-      "added_at": "2020-08-17 22:49:59",
+      "added_at": "2022-03-28 19:29:09",
       "album": {
-        "name": "The Anthology",
-        "url": "https://open.spotify.com/album/61rb02N7fHGie0DMqkOWE6"
+        "name": "16 Most Requested Songs",
+        "url": "https://open.spotify.com/album/0PHOqv81FzFx8PSVqEa0NE"
       },
       "artists": [
         {
-          "name": "The McGuire Sisters",
-          "url": "https://open.spotify.com/artist/6oXkzBf6bMupenvf4tKtmN"
+          "name": "The Four Lads",
+          "url": "https://open.spotify.com/artist/3stlWzoChlEtbdZAz6CNC3"
         }
       ],
-      "duration_ms": 178066,
-      "name": "May You Always",
-      "url": "https://open.spotify.com/track/3VNjiS6wrDpESHRMvmqTYM"
-    },
-    {
-      "added_at": "2020-08-17 22:49:59",
-      "album": {
-        "name": "The Coed Singles",
-        "url": "https://open.spotify.com/album/5QqmvqhSefdfFRn6MLfZGL"
-      },
-      "artists": [
-        {
-          "name": "The Duprees",
-          "url": "https://open.spotify.com/artist/6nYTjfJFNic9m83TROYHUS"
-        }
-      ],
-      "duration_ms": 151455,
-      "name": "Have You Heard",
-      "url": "https://open.spotify.com/track/6mYzrb44QFhcNQKBKRJ4cl"
+      "duration_ms": 171733,
+      "name": "Standing On the Corner",
+      "url": "https://open.spotify.com/track/4DDuqcRrjG1XBma3hvaFFq"
     },
     {
       "added_at": "2020-08-17 22:49:59",
@@ -395,6 +395,38 @@
       "duration_ms": 157826,
       "name": "Ain't Gonna Worry 'Bout a Soul",
       "url": "https://open.spotify.com/track/2Dm4H3EH6slgSUiOTJE3gg"
+    },
+    {
+      "added_at": "2020-08-17 22:49:59",
+      "album": {
+        "name": "The Best Of The Ames",
+        "url": "https://open.spotify.com/album/2Yvca6unTMt1DYTgXToJn0"
+      },
+      "artists": [
+        {
+          "name": "The Ames Brothers",
+          "url": "https://open.spotify.com/artist/4oXaAEofJFedGweFqy5qiv"
+        }
+      ],
+      "duration_ms": 166520,
+      "name": "Rag Mop",
+      "url": "https://open.spotify.com/track/7z03paoXvhCzN22twdfPHR"
+    },
+    {
+      "added_at": "2020-08-17 22:49:59",
+      "album": {
+        "name": "The Coed Singles",
+        "url": "https://open.spotify.com/album/5QqmvqhSefdfFRn6MLfZGL"
+      },
+      "artists": [
+        {
+          "name": "The Duprees",
+          "url": "https://open.spotify.com/artist/6nYTjfJFNic9m83TROYHUS"
+        }
+      ],
+      "duration_ms": 151455,
+      "name": "Have You Heard",
+      "url": "https://open.spotify.com/track/6mYzrb44QFhcNQKBKRJ4cl"
     },
     {
       "added_at": "2020-08-17 22:49:59",
@@ -429,20 +461,20 @@
       "url": "https://open.spotify.com/track/0JqKK01MXbnDhBKKdcUCnX"
     },
     {
-      "added_at": "2022-03-28 19:29:09",
+      "added_at": "2020-08-17 22:49:59",
       "album": {
-        "name": "16 Most Requested Songs",
-        "url": "https://open.spotify.com/album/0PHOqv81FzFx8PSVqEa0NE"
+        "name": "The Merry Macs Sing Mairzy Doats",
+        "url": "https://open.spotify.com/album/2mDsfD127OI1Lem0XolFXr"
       },
       "artists": [
         {
-          "name": "The Four Lads",
-          "url": "https://open.spotify.com/artist/3stlWzoChlEtbdZAz6CNC3"
+          "name": "The Merry Macs",
+          "url": "https://open.spotify.com/artist/1GdTErb29TNkiEGWrNGAeH"
         }
       ],
-      "duration_ms": 171733,
-      "name": "Standing On the Corner",
-      "url": "https://open.spotify.com/track/4DDuqcRrjG1XBma3hvaFFq"
+      "duration_ms": 156733,
+      "name": "I'm Forever Blowing Bubbles",
+      "url": "https://open.spotify.com/track/5UhPIWJk8x5YuzoXelnfQi"
     },
     {
       "added_at": "2020-08-17 22:49:59",
@@ -459,38 +491,6 @@
       "duration_ms": 169000,
       "name": "Secret Love",
       "url": "https://open.spotify.com/track/6IwT48KRXox8R29kUBuYrr"
-    },
-    {
-      "added_at": "2020-08-17 22:49:59",
-      "album": {
-        "name": "The Best Of The Ames",
-        "url": "https://open.spotify.com/album/2Yvca6unTMt1DYTgXToJn0"
-      },
-      "artists": [
-        {
-          "name": "The Ames Brothers",
-          "url": "https://open.spotify.com/artist/4oXaAEofJFedGweFqy5qiv"
-        }
-      ],
-      "duration_ms": 166520,
-      "name": "Rag Mop",
-      "url": "https://open.spotify.com/track/7z03paoXvhCzN22twdfPHR"
-    },
-    {
-      "added_at": "2020-08-17 22:49:59",
-      "album": {
-        "name": "The Merry Macs Sing Mairzy Doats",
-        "url": "https://open.spotify.com/album/2mDsfD127OI1Lem0XolFXr"
-      },
-      "artists": [
-        {
-          "name": "The Merry Macs",
-          "url": "https://open.spotify.com/artist/1GdTErb29TNkiEGWrNGAeH"
-        }
-      ],
-      "duration_ms": 156733,
-      "name": "I'm Forever Blowing Bubbles",
-      "url": "https://open.spotify.com/track/5UhPIWJk8x5YuzoXelnfQi"
     },
     {
       "added_at": "2020-08-17 22:49:59",
@@ -623,22 +623,6 @@
     {
       "added_at": "2020-08-17 22:49:59",
       "album": {
-        "name": "The Very Best Of",
-        "url": "https://open.spotify.com/album/6t0ktrofZCI38hxO9c37Tz"
-      },
-      "artists": [
-        {
-          "name": "The Dinning Sisters",
-          "url": "https://open.spotify.com/artist/7lGYu24LHAMZYqarrWHz8h"
-        }
-      ],
-      "duration_ms": 173133,
-      "name": "Love On A Greyhound Bus",
-      "url": "https://open.spotify.com/track/4wam2im1dxbWFVU5TjxF8C"
-    },
-    {
-      "added_at": "2020-08-17 22:49:59",
-      "album": {
         "name": "Teach Me Tonight",
         "url": "https://open.spotify.com/album/3WbxZUc3ukR1BEz3SgOgbJ"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 161906,
       "name": "Underneath The Linden Tree",
       "url": "https://open.spotify.com/track/2rXUt201xsDplJW2BtBFXU"
+    },
+    {
+      "added_at": "2020-08-17 22:49:59",
+      "album": {
+        "name": "The Very Best Of",
+        "url": "https://open.spotify.com/album/6t0ktrofZCI38hxO9c37Tz"
+      },
+      "artists": [
+        {
+          "name": "The Dinning Sisters",
+          "url": "https://open.spotify.com/artist/7lGYu24LHAMZYqarrWHz8h"
+        }
+      ],
+      "duration_ms": 173133,
+      "name": "Love On A Greyhound Bus",
+      "url": "https://open.spotify.com/track/4wam2im1dxbWFVU5TjxF8C"
     },
     {
       "added_at": "2020-08-17 22:49:59",

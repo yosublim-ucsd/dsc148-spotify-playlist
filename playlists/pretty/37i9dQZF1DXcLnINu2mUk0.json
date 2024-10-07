@@ -1,6 +1,6 @@
 {
   "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: Richie Campbell",
-  "num_followers": 47365,
+  "num_followers": 47378,
   "original_name": "Seda",
   "owner": {
     "name": "Spotify",
@@ -635,22 +635,6 @@
     {
       "added_at": "2024-10-03 23:00:00",
       "album": {
-        "name": "Amar De Cor",
-        "url": "https://open.spotify.com/album/5ZPiexjhraYvJ8j1rh11vu"
-      },
-      "artists": [
-        {
-          "name": "Van Zee",
-          "url": "https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS"
-        }
-      ],
-      "duration_ms": 165333,
-      "name": "Amar De Cor",
-      "url": "https://open.spotify.com/track/7lpqxqXjVuOQz6LAJLsLFw"
-    },
-    {
-      "added_at": "2024-10-03 23:00:00",
-      "album": {
         "name": "Brutos Diamantes",
         "url": "https://open.spotify.com/album/0bAS2LP1ELHvX2BWJHDqan"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 236571,
       "name": "Ar",
       "url": "https://open.spotify.com/track/3BRAklqTTbHBBAPmLQFrsn"
+    },
+    {
+      "added_at": "2024-10-03 23:00:00",
+      "album": {
+        "name": "Amar De Cor",
+        "url": "https://open.spotify.com/album/5ZPiexjhraYvJ8j1rh11vu"
+      },
+      "artists": [
+        {
+          "name": "Van Zee",
+          "url": "https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS"
+        }
+      ],
+      "duration_ms": 165333,
+      "name": "Amar De Cor",
+      "url": "https://open.spotify.com/track/7lpqxqXjVuOQz6LAJLsLFw"
     },
     {
       "added_at": "2024-10-03 23:00:00",
@@ -871,26 +871,6 @@
     {
       "added_at": "2024-10-03 23:00:00",
       "album": {
-        "name": "Povo",
-        "url": "https://open.spotify.com/album/07m5H8wCm5QicG9jqqh02D"
-      },
-      "artists": [
-        {
-          "name": "Supa Squad",
-          "url": "https://open.spotify.com/artist/4kMEocHCIwaO4u4J01U8Dw"
-        },
-        {
-          "name": "Soraia Ramos",
-          "url": "https://open.spotify.com/artist/6Hdj9MS399KY29SP12gI0L"
-        }
-      ],
-      "duration_ms": 210256,
-      "name": "Povo",
-      "url": "https://open.spotify.com/track/3W7cu7ORKiHF6A2BvQLam3"
-    },
-    {
-      "added_at": "2024-10-03 23:00:00",
-      "album": {
         "name": "Pontos Finais",
         "url": "https://open.spotify.com/album/5kytfMGwFyzMPcwJfmmCzg"
       },
@@ -903,22 +883,6 @@
       "duration_ms": 194039,
       "name": "Pontos Finais",
       "url": "https://open.spotify.com/track/4YNdviC7wvO6oTdMm8z40S"
-    },
-    {
-      "added_at": "2024-10-03 23:00:00",
-      "album": {
-        "name": "Sacrif\u00edcio: Sangue, L\u00e1grimas, Suor",
-        "url": "https://open.spotify.com/album/0idaWuicDvUkpA6I3NOJDN"
-      },
-      "artists": [
-        {
-          "name": "Plutonio",
-          "url": "https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G"
-        }
-      ],
-      "duration_ms": 314009,
-      "name": "Conversas",
-      "url": "https://open.spotify.com/track/0xtWY0uOW8JWyiCDD2RmGB"
     },
     {
       "added_at": "2024-10-03 23:00:00",
@@ -939,6 +903,62 @@
     {
       "added_at": "2024-10-03 23:00:00",
       "album": {
+        "name": "Povo",
+        "url": "https://open.spotify.com/album/07m5H8wCm5QicG9jqqh02D"
+      },
+      "artists": [
+        {
+          "name": "Supa Squad",
+          "url": "https://open.spotify.com/artist/4kMEocHCIwaO4u4J01U8Dw"
+        },
+        {
+          "name": "Soraia Ramos",
+          "url": "https://open.spotify.com/artist/6Hdj9MS399KY29SP12gI0L"
+        }
+      ],
+      "duration_ms": 210256,
+      "name": "Povo",
+      "url": "https://open.spotify.com/track/3W7cu7ORKiHF6A2BvQLam3"
+    },
+    {
+      "added_at": "2024-10-03 23:00:00",
+      "album": {
+        "name": "Sacrif\u00edcio: Sangue, L\u00e1grimas, Suor",
+        "url": "https://open.spotify.com/album/0idaWuicDvUkpA6I3NOJDN"
+      },
+      "artists": [
+        {
+          "name": "Plutonio",
+          "url": "https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G"
+        }
+      ],
+      "duration_ms": 314009,
+      "name": "Conversas",
+      "url": "https://open.spotify.com/track/0xtWY0uOW8JWyiCDD2RmGB"
+    },
+    {
+      "added_at": "2024-10-03 23:00:00",
+      "album": {
+        "name": "Tsunami",
+        "url": "https://open.spotify.com/album/27Gt5wAgEVjatU36I1ogDf"
+      },
+      "artists": [
+        {
+          "name": "Richie Campbell",
+          "url": "https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS"
+        },
+        {
+          "name": "Gson",
+          "url": "https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj"
+        }
+      ],
+      "duration_ms": 297737,
+      "name": "Tsunami",
+      "url": "https://open.spotify.com/track/5TqGewrmzgeb21FYQC7mJZ"
+    },
+    {
+      "added_at": "2024-10-03 23:00:00",
+      "album": {
         "name": "Ber\u00e7o de Ouro",
         "url": "https://open.spotify.com/album/68v70mBGjLi5hN1y7xrrlv"
       },
@@ -951,42 +971,6 @@
       "duration_ms": 177637,
       "name": "Ber\u00e7o de Ouro",
       "url": "https://open.spotify.com/track/1JU4ncwSXEjC13H0W72ucD"
-    },
-    {
-      "added_at": "2024-10-03 23:00:00",
-      "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/59FAPnQlBADxOZsaaHkdXb"
-      },
-      "artists": [
-        {
-          "name": "Supa Squad",
-          "url": "https://open.spotify.com/artist/4kMEocHCIwaO4u4J01U8Dw"
-        },
-        {
-          "name": "Neyna",
-          "url": "https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7"
-        }
-      ],
-      "duration_ms": 208119,
-      "name": "Contigo",
-      "url": "https://open.spotify.com/track/05O2kCMeVH9SwXzmUCs0dB"
-    },
-    {
-      "added_at": "2024-10-03 23:00:00",
-      "album": {
-        "name": "Para Casa",
-        "url": "https://open.spotify.com/album/0lWNCrwclxbyAuXw8bSpx7"
-      },
-      "artists": [
-        {
-          "name": "Van Zee",
-          "url": "https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS"
-        }
-      ],
-      "duration_ms": 248421,
-      "name": "Para Casa",
-      "url": "https://open.spotify.com/track/0mntIfcQjuA3Zc4xx7Pm8a"
     },
     {
       "added_at": "2024-10-03 23:00:00",
@@ -1031,22 +1015,38 @@
     {
       "added_at": "2024-10-03 23:00:00",
       "album": {
-        "name": "Tsunami",
-        "url": "https://open.spotify.com/album/27Gt5wAgEVjatU36I1ogDf"
+        "name": "Para Casa",
+        "url": "https://open.spotify.com/album/0lWNCrwclxbyAuXw8bSpx7"
       },
       "artists": [
         {
-          "name": "Richie Campbell",
-          "url": "https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS"
-        },
-        {
-          "name": "Gson",
-          "url": "https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj"
+          "name": "Van Zee",
+          "url": "https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS"
         }
       ],
-      "duration_ms": 297737,
-      "name": "Tsunami",
-      "url": "https://open.spotify.com/track/5TqGewrmzgeb21FYQC7mJZ"
+      "duration_ms": 248421,
+      "name": "Para Casa",
+      "url": "https://open.spotify.com/track/0mntIfcQjuA3Zc4xx7Pm8a"
+    },
+    {
+      "added_at": "2024-10-03 23:00:00",
+      "album": {
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/59FAPnQlBADxOZsaaHkdXb"
+      },
+      "artists": [
+        {
+          "name": "Supa Squad",
+          "url": "https://open.spotify.com/artist/4kMEocHCIwaO4u4J01U8Dw"
+        },
+        {
+          "name": "Neyna",
+          "url": "https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7"
+        }
+      ],
+      "duration_ms": 208119,
+      "name": "Contigo",
+      "url": "https://open.spotify.com/track/05O2kCMeVH9SwXzmUCs0dB"
     },
     {
       "added_at": "2024-10-03 23:00:00",
@@ -1143,42 +1143,6 @@
     {
       "added_at": "2024-10-03 23:00:00",
       "album": {
-        "name": "\u00c0 Tua Porta",
-        "url": "https://open.spotify.com/album/7gYGEPMjrZIad5Lk6mous8"
-      },
-      "artists": [
-        {
-          "name": "Van Zee",
-          "url": "https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS"
-        },
-        {
-          "name": "Carolina Deslandes",
-          "url": "https://open.spotify.com/artist/6xolQjWFT24ykWke55u9fU"
-        }
-      ],
-      "duration_ms": 211636,
-      "name": "\u00c0 Tua Porta",
-      "url": "https://open.spotify.com/track/5gWEoHkpYex8mi50RCZ3ll"
-    },
-    {
-      "added_at": "2024-10-03 23:00:00",
-      "album": {
-        "name": "Oj\u00e9 Oj\u00e9",
-        "url": "https://open.spotify.com/album/1QbfyEPfk1NXG8VeobR64P"
-      },
-      "artists": [
-        {
-          "name": "Supa Squad",
-          "url": "https://open.spotify.com/artist/4kMEocHCIwaO4u4J01U8Dw"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "Oj\u00e9 Oj\u00e9",
-      "url": "https://open.spotify.com/track/1QBJJ3EFiE933KnPuNa9PG"
-    },
-    {
-      "added_at": "2024-10-03 23:00:00",
-      "album": {
         "name": "ORDEM & PROGRESSO",
         "url": "https://open.spotify.com/album/3zKhMzs8Hw9XQJVYovzcW1"
       },
@@ -1199,6 +1163,26 @@
       "duration_ms": 209150,
       "name": "Agrade\u00e7o",
       "url": "https://open.spotify.com/track/5GXJgx3zcR3m3ihcqbFBLv"
+    },
+    {
+      "added_at": "2024-10-03 23:00:00",
+      "album": {
+        "name": "\u00c0 Tua Porta",
+        "url": "https://open.spotify.com/album/7gYGEPMjrZIad5Lk6mous8"
+      },
+      "artists": [
+        {
+          "name": "Van Zee",
+          "url": "https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS"
+        },
+        {
+          "name": "Carolina Deslandes",
+          "url": "https://open.spotify.com/artist/6xolQjWFT24ykWke55u9fU"
+        }
+      ],
+      "duration_ms": 211636,
+      "name": "\u00c0 Tua Porta",
+      "url": "https://open.spotify.com/track/5gWEoHkpYex8mi50RCZ3ll"
     },
     {
       "added_at": "2024-10-03 23:00:00",
@@ -1231,6 +1215,22 @@
       "duration_ms": 265011,
       "name": "Estrela Maior",
       "url": "https://open.spotify.com/track/1gT41VulD8jslM993Ah8hF"
+    },
+    {
+      "added_at": "2024-10-03 23:00:00",
+      "album": {
+        "name": "Oj\u00e9 Oj\u00e9",
+        "url": "https://open.spotify.com/album/1QbfyEPfk1NXG8VeobR64P"
+      },
+      "artists": [
+        {
+          "name": "Supa Squad",
+          "url": "https://open.spotify.com/artist/4kMEocHCIwaO4u4J01U8Dw"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "Oj\u00e9 Oj\u00e9",
+      "url": "https://open.spotify.com/track/1QBJJ3EFiE933KnPuNa9PG"
     },
     {
       "added_at": "2024-10-03 23:00:00",
@@ -1323,26 +1323,6 @@
     {
       "added_at": "2024-10-03 23:00:00",
       "album": {
-        "name": "Bully Season Vol.2 : Pretty Girls Love Afrobeats",
-        "url": "https://open.spotify.com/album/4W7ver0Okhl78vyo1emv2c"
-      },
-      "artists": [
-        {
-          "name": "Kel-P",
-          "url": "https://open.spotify.com/artist/4j2hypl84JFGRz00du5JT8"
-        },
-        {
-          "name": "Richie Campbell",
-          "url": "https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS"
-        }
-      ],
-      "duration_ms": 162872,
-      "name": "Slow Motion",
-      "url": "https://open.spotify.com/track/5LnYHgSZjEJxNvooOXv643"
-    },
-    {
-      "added_at": "2024-10-03 23:00:00",
-      "album": {
         "name": "Anos 90",
         "url": "https://open.spotify.com/album/3Wh3pWc5yYWpy5JerOiP8T"
       },
@@ -1359,6 +1339,26 @@
       "duration_ms": 178014,
       "name": "Anos 90",
       "url": "https://open.spotify.com/track/0snvFcmwl5kXUTj5PsEbJl"
+    },
+    {
+      "added_at": "2024-10-03 23:00:00",
+      "album": {
+        "name": "Bully Season Vol.2 : Pretty Girls Love Afrobeats",
+        "url": "https://open.spotify.com/album/4W7ver0Okhl78vyo1emv2c"
+      },
+      "artists": [
+        {
+          "name": "Kel-P",
+          "url": "https://open.spotify.com/artist/4j2hypl84JFGRz00du5JT8"
+        },
+        {
+          "name": "Richie Campbell",
+          "url": "https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS"
+        }
+      ],
+      "duration_ms": 162872,
+      "name": "Slow Motion",
+      "url": "https://open.spotify.com/track/5LnYHgSZjEJxNvooOXv643"
     },
     {
       "added_at": "2024-10-03 23:00:00",

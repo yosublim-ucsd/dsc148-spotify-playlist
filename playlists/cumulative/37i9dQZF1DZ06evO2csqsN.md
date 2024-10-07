@@ -2,9 +2,9 @@
 
 ### [This Is Latto](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2csqsN)
 
-> This Is Latto\. Los temas esenciales, todos en una lista.
+> This is Latto\. The essential tracks, all in one playlist.
 
-101 songs - 4 hr 54 min
+102 songs - 4 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Champagne Shit \(feat\. Latto & Quavo\) \- Remix](https://open.spotify.com/track/4WS26ImdBwGa04bNrh17RO) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Champagne Shit \(feat\. Latto & Quavo\) \[Remix\]](https://open.spotify.com/album/0zMgVaXm1Zs34DSjr2kFOM) | 2:57 | 2023-10-10 | 2024-08-07 |
 | [Chicken Grease](https://open.spotify.com/track/5BsGbw1doMaFghuOMkkiJB) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Sugar Honey Iced Tea](https://open.spotify.com/album/78bwcxLYi7vPZ2eCL9Vtvp) | 2:41 | 2024-09-03 |  |
 | [Clap](https://open.spotify.com/track/504yGVmAMJVXpS3RGquwwA) | [Trina](https://open.spotify.com/artist/4PrinKSrmILmo0kERG0Ogn), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Clap \(feat\. Latto\)](https://open.spotify.com/album/4QV6pRdKlVEpeegH4RWVtk) | 3:17 | 2022-10-28 | 2023-03-10 |
+| [Copper Cove \(feat\. Hunxho\)](https://open.spotify.com/track/6AbCAY8Wp0BXJ99itlWlVM) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Hunxho](https://open.spotify.com/artist/508weSx4HBumrGggFmc7br) | [Sugar Honey Iced Tea](https://open.spotify.com/album/1S9LGRodo5jsXGsMeVaYNp) | 3:26 | 2024-10-07 |  |
 | [Didn't Say \(feat\. Latto\)](https://open.spotify.com/track/1XYlc4sA6LaCEqEtG2VfYf) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Heart On My Sleeve](https://open.spotify.com/album/6p5jJLTFiYgk95HhW0unhy) | 4:05 | 2022-10-28 |  |
 | [Different Breed \(feat\. Swae Lee & Latto\)](https://open.spotify.com/track/6GeNWEE6sxYf5hMO93gw42) | [Mike WiLL Made\-It](https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Different Breed \(feat\. Swae Lee & Latto\)](https://open.spotify.com/album/5eJ3QcbxAgOauF9yr9OlCT) | 2:55 | 2023-11-10 |  |
 | [Do It \(feat\. Doja Cat, City Girls & Mulatto\) \[Remix\]](https://open.spotify.com/track/2WKJcMeqmjkL4FzFoJszR7) | [Chloe x Halle](https://open.spotify.com/artist/0AsThoR4KZSVktALiNcQwW), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Do It \(feat\. Doja Cat, City Girls & Mulatto\) \[Remix\]](https://open.spotify.com/album/1Rd37EUs0P8KzpPPkKPbKa) | 4:15 | 2022-10-28 |  |
@@ -102,7 +103,7 @@
 | [Technique \(Sprite Limelight\)](https://open.spotify.com/track/0E4Y7tBeOg2EhVW8y3sdSK) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Eric B\. & Rakim](https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv) | [Technique \(Sprite Limelight\)](https://open.spotify.com/album/2fXNBsNfcZUTQmoDpvXzy1) | 2:23 | 2023-08-21 | 2023-11-11 |
 | [The Biggest](https://open.spotify.com/track/2b3mMAnExnoWf9UM2VnTYt) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [The Biggest](https://open.spotify.com/album/1uEXYHpsTQBHG5c6lRVaSE) | 2:23 | 2022-10-28 | 2022-10-30 |
 | [The Grinch Freestyle \(feat\. Latto\)](https://open.spotify.com/track/2ZV5AvOBqnNjGa5pgLmSOl) | [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [The Grinch Freestyle \(feat\. Latto\)](https://open.spotify.com/album/0KhgQpucTFLcuiIWxdGLS1) | 2:26 | 2023-12-16 | 2024-07-27 |
-| [There She Go](https://open.spotify.com/track/3hhBbf2lhUByyphVxhestO) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Sugar Honey Iced Tea](https://open.spotify.com/album/1S9LGRodo5jsXGsMeVaYNp) | 2:41 | 2024-08-11 |  |
+| [There She Go](https://open.spotify.com/track/3hhBbf2lhUByyphVxhestO) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Sugar Honey Iced Tea](https://open.spotify.com/album/1S9LGRodo5jsXGsMeVaYNp) | 2:41 | 2024-08-11 | 2024-10-07 |
 | [Too Fast \(Pull Over\) \(with Anderson .Paak & Latto\)](https://open.spotify.com/track/6vz3Fyhj6smbuYuaIZHksu) | [Jay Rock](https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Too Fast \(Pull Over\) \(with Anderson .Paak & Latto\)](https://open.spotify.com/album/1KNyxPSXQoZJ2KMQySCUUo) | 3:46 | 2023-07-22 |  |
 | [Touch Your Toes \(feat\. Latto\)](https://open.spotify.com/track/6ihOIyQU6nvqHG5wJtofEM) | [JayDaYoungan](https://open.spotify.com/artist/0E3pLs4jXz9tDQGY8m1A1d), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Baby23](https://open.spotify.com/album/24BUwYiW8uDG5tBV428gBY) | 2:17 | 2022-11-28 | 2023-04-22 |
 | [Wet \(feat\. Latto\) \- Remix](https://open.spotify.com/track/1rxXjDzwNSP36csjm7Zmzf) | [YFN Lucci](https://open.spotify.com/artist/5Berubt6ysOy2LCMyqhmXP), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Wet \(feat\. Latto\) \[Remix\]](https://open.spotify.com/album/3NtnKtkelOxhTuXSN2HBJL) | 3:31 | 2022-10-28 |  |

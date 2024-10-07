@@ -1,6 +1,6 @@
 {
   "description": "Los \u00e9xitos de siempre en concierto. Foto: Celia Cruz",
-  "num_followers": 13859,
+  "num_followers": 13916,
   "original_name": "Vivo de Salsa",
   "owner": {
     "name": "Spotify",
@@ -131,6 +131,34 @@
     {
       "added_at": "2024-09-24 20:35:55",
       "album": {
+        "name": "40... y Contando (En Vivo Desde Puerto Rico)",
+        "url": "https://open.spotify.com/album/1oftR2h20tzZjMEiesBPJp"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Santa Rosa",
+          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
+        },
+        {
+          "name": "Tito Nieves",
+          "url": "https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m"
+        },
+        {
+          "name": "Luis Enrique",
+          "url": "https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI"
+        },
+        {
+          "name": "Eddie Santiago",
+          "url": "https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I"
+        }
+      ],
+      "duration_ms": 468653,
+      "name": "Vivir Sin Ella (feat. Tito Nieves, Luis Enrique & Eddie Santiago) - En Vivo desde Puerto Rico",
+      "url": "https://open.spotify.com/track/6AahARlIuyeOb4cyK3AjHe"
+    },
+    {
+      "added_at": "2024-09-24 20:35:55",
+      "album": {
         "name": "Sergio George Presents Salsa Giants (Live)",
         "url": "https://open.spotify.com/album/7EpsK00BLXW9BuoLmWY0Io"
       },
@@ -167,50 +195,6 @@
     {
       "added_at": "2024-09-24 20:35:55",
       "album": {
-        "name": "40... y Contando (En Vivo Desde Puerto Rico)",
-        "url": "https://open.spotify.com/album/1oftR2h20tzZjMEiesBPJp"
-      },
-      "artists": [
-        {
-          "name": "Gilberto Santa Rosa",
-          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
-        },
-        {
-          "name": "Tito Nieves",
-          "url": "https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m"
-        },
-        {
-          "name": "Luis Enrique",
-          "url": "https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI"
-        },
-        {
-          "name": "Eddie Santiago",
-          "url": "https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I"
-        }
-      ],
-      "duration_ms": 468653,
-      "name": "Vivir Sin Ella (feat. Tito Nieves, Luis Enrique & Eddie Santiago) - En Vivo desde Puerto Rico",
-      "url": "https://open.spotify.com/track/6AahARlIuyeOb4cyK3AjHe"
-    },
-    {
-      "added_at": "2024-09-24 20:35:55",
-      "album": {
-        "name": "Sergio George Presents Salsa Giants (Live)",
-        "url": "https://open.spotify.com/album/7EpsK00BLXW9BuoLmWY0Io"
-      },
-      "artists": [
-        {
-          "name": "Tito Nieves",
-          "url": "https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m"
-        }
-      ],
-      "duration_ms": 270253,
-      "name": "De Mi Enam\u00f3rate - Live Version",
-      "url": "https://open.spotify.com/track/6U5U7lmwo7oP4eQ8ro3V7q"
-    },
-    {
-      "added_at": "2024-09-24 20:35:55",
-      "album": {
         "name": "Lo Mejor De Celia Cruz & Oscar D\u00b4Le\u00f3n En Concierto",
         "url": "https://open.spotify.com/album/7bLj1JszeG6xZ2iLmc9vpX"
       },
@@ -227,6 +211,22 @@
       "duration_ms": 273053,
       "name": "Llorar\u00e1s - Live",
       "url": "https://open.spotify.com/track/4WlDisUidB4F0KxxoIjODp"
+    },
+    {
+      "added_at": "2024-09-24 20:35:55",
+      "album": {
+        "name": "Sergio George Presents Salsa Giants (Live)",
+        "url": "https://open.spotify.com/album/7EpsK00BLXW9BuoLmWY0Io"
+      },
+      "artists": [
+        {
+          "name": "Tito Nieves",
+          "url": "https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m"
+        }
+      ],
+      "duration_ms": 270253,
+      "name": "De Mi Enam\u00f3rate - Live Version",
+      "url": "https://open.spotify.com/track/6U5U7lmwo7oP4eQ8ro3V7q"
     },
     {
       "added_at": "2024-09-24 20:35:55",
@@ -379,6 +379,26 @@
     {
       "added_at": "2024-09-24 20:35:55",
       "album": {
+        "name": "40... y Contando (En Vivo Desde Puerto Rico)",
+        "url": "https://open.spotify.com/album/1oftR2h20tzZjMEiesBPJp"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Santa Rosa",
+          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
+        },
+        {
+          "name": "Vico C",
+          "url": "https://open.spotify.com/artist/0GutRVONcyyBj1WduodFc6"
+        }
+      ],
+      "duration_ms": 500946,
+      "name": "Perd\u00f3name / Lo Grande Que Es Perdonar - Medley (feat. Vico C) - En Vivo desde Puerto Rico",
+      "url": "https://open.spotify.com/track/4fM5OkcMCkIsJTTQC0OgTo"
+    },
+    {
+      "added_at": "2024-09-24 20:35:55",
+      "album": {
         "name": "En Vivo",
         "url": "https://open.spotify.com/album/3HfRIah0RtbfEDaj0BM819"
       },
@@ -427,22 +447,18 @@
     {
       "added_at": "2024-09-24 20:35:55",
       "album": {
-        "name": "40... y Contando (En Vivo Desde Puerto Rico)",
-        "url": "https://open.spotify.com/album/1oftR2h20tzZjMEiesBPJp"
+        "name": "Sergio George Presents Salsa Giants (Live)",
+        "url": "https://open.spotify.com/album/7EpsK00BLXW9BuoLmWY0Io"
       },
       "artists": [
         {
-          "name": "Gilberto Santa Rosa",
-          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
-        },
-        {
-          "name": "Vico C",
-          "url": "https://open.spotify.com/artist/0GutRVONcyyBj1WduodFc6"
+          "name": "Willy Chirino",
+          "url": "https://open.spotify.com/artist/4dvonCK12HCv1UUryzRppO"
         }
       ],
-      "duration_ms": 500946,
-      "name": "Perd\u00f3name / Lo Grande Que Es Perdonar - Medley (feat. Vico C) - En Vivo desde Puerto Rico",
-      "url": "https://open.spotify.com/track/4fM5OkcMCkIsJTTQC0OgTo"
+      "duration_ms": 352480,
+      "name": "Medias Negras - Live Version",
+      "url": "https://open.spotify.com/track/51QsdN4xBmkLhtqNi0J40l"
     },
     {
       "added_at": "2024-09-24 20:35:55",
@@ -463,18 +479,34 @@
     {
       "added_at": "2024-09-24 20:35:55",
       "album": {
-        "name": "Sergio George Presents Salsa Giants (Live)",
-        "url": "https://open.spotify.com/album/7EpsK00BLXW9BuoLmWY0Io"
+        "name": "40... y Contando (En Vivo Desde Puerto Rico)",
+        "url": "https://open.spotify.com/album/1oftR2h20tzZjMEiesBPJp"
       },
       "artists": [
         {
-          "name": "Willy Chirino",
-          "url": "https://open.spotify.com/artist/4dvonCK12HCv1UUryzRppO"
+          "name": "Gilberto Santa Rosa",
+          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
         }
       ],
-      "duration_ms": 352480,
-      "name": "Medias Negras - Live Version",
-      "url": "https://open.spotify.com/track/51QsdN4xBmkLhtqNi0J40l"
+      "duration_ms": 196480,
+      "name": "Conciencia - En Vivo desde Puerto Rico",
+      "url": "https://open.spotify.com/track/2kTplkLCuMb9wWkyQmo17s"
+    },
+    {
+      "added_at": "2024-09-24 20:35:55",
+      "album": {
+        "name": "Lo Mejor De Celia Cruz & Oscar D\u00b4Le\u00f3n En Concierto",
+        "url": "https://open.spotify.com/album/7bLj1JszeG6xZ2iLmc9vpX"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "duration_ms": 361133,
+      "name": "Quimbara - Live",
+      "url": "https://open.spotify.com/track/1o88biFSFaZ3khg7bENuz9"
     },
     {
       "added_at": "2024-09-24 20:35:55",
@@ -507,22 +539,6 @@
       "duration_ms": 275960,
       "name": "Tengo Ganas - Live at MSG Version",
       "url": "https://open.spotify.com/track/2oPozWeqp6qGl3mWK2I62C"
-    },
-    {
-      "added_at": "2024-09-24 20:35:55",
-      "album": {
-        "name": "Lo Mejor De Celia Cruz & Oscar D\u00b4Le\u00f3n En Concierto",
-        "url": "https://open.spotify.com/album/7bLj1JszeG6xZ2iLmc9vpX"
-      },
-      "artists": [
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        }
-      ],
-      "duration_ms": 361133,
-      "name": "Quimbara - Live",
-      "url": "https://open.spotify.com/track/1o88biFSFaZ3khg7bENuz9"
     },
     {
       "added_at": "2024-09-24 20:35:55",
@@ -575,22 +591,6 @@
       "duration_ms": 281160,
       "name": "Detalles - Live",
       "url": "https://open.spotify.com/track/65lf9GOGo5pjHUqImIGwPv"
-    },
-    {
-      "added_at": "2024-09-24 20:35:55",
-      "album": {
-        "name": "40... y Contando (En Vivo Desde Puerto Rico)",
-        "url": "https://open.spotify.com/album/1oftR2h20tzZjMEiesBPJp"
-      },
-      "artists": [
-        {
-          "name": "Gilberto Santa Rosa",
-          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
-        }
-      ],
-      "duration_ms": 196480,
-      "name": "Conciencia - En Vivo desde Puerto Rico",
-      "url": "https://open.spotify.com/track/2kTplkLCuMb9wWkyQmo17s"
     },
     {
       "added_at": "2024-09-24 20:35:55",
@@ -667,22 +667,6 @@
     {
       "added_at": "2024-09-24 20:35:55",
       "album": {
-        "name": "Live At Madison Square Garden",
-        "url": "https://open.spotify.com/album/73lQS6xaOyVGEoVCmcDWcQ"
-      },
-      "artists": [
-        {
-          "name": "V\u00edctor Manuelle",
-          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
-        }
-      ],
-      "duration_ms": 426240,
-      "name": "He Tratado - Live at MSG Version",
-      "url": "https://open.spotify.com/track/2h93BD54TVsD2kq22uscBB"
-    },
-    {
-      "added_at": "2024-09-24 20:35:55",
-      "album": {
         "name": "Sergio George Presents Salsa Giants Plus EP (Live)",
         "url": "https://open.spotify.com/album/1zvssiQA5jXkAscHWZJp44"
       },
@@ -699,6 +683,22 @@
     {
       "added_at": "2024-09-24 20:35:55",
       "album": {
+        "name": "Live At Madison Square Garden",
+        "url": "https://open.spotify.com/album/73lQS6xaOyVGEoVCmcDWcQ"
+      },
+      "artists": [
+        {
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+        }
+      ],
+      "duration_ms": 426240,
+      "name": "He Tratado - Live at MSG Version",
+      "url": "https://open.spotify.com/track/2h93BD54TVsD2kq22uscBB"
+    },
+    {
+      "added_at": "2024-09-24 20:35:55",
+      "album": {
         "name": "Sergio George Presents Salsa Giants (Live)",
         "url": "https://open.spotify.com/album/7EpsK00BLXW9BuoLmWY0Io"
       },
@@ -711,6 +711,58 @@
       "duration_ms": 349493,
       "name": "Disc\u00falpeme Se\u00f1ora - Live Version",
       "url": "https://open.spotify.com/track/2gxnUnxHh0QDuJFIaFEUeS"
+    },
+    {
+      "added_at": "2024-09-24 20:35:55",
+      "album": {
+        "name": "45 Aniversario",
+        "url": "https://open.spotify.com/album/5T5SzOvy6RDvdKOQre31BR"
+      },
+      "artists": [
+        {
+          "name": "Sonora Ponce\u00f1a",
+          "url": "https://open.spotify.com/artist/39qcQ01yJQbaMje70kIiFa"
+        }
+      ],
+      "duration_ms": 812973,
+      "name": "Boranda",
+      "url": "https://open.spotify.com/track/029UVd2kWFQVuCJZ7ekuNX"
+    },
+    {
+      "added_at": "2024-09-24 20:35:55",
+      "album": {
+        "name": "40 Anniversary (Live Hits)",
+        "url": "https://open.spotify.com/album/43VEjj157u4fGnlw4QN9vL"
+      },
+      "artists": [
+        {
+          "name": "Tommy Olivencia y Su Orquesta",
+          "url": "https://open.spotify.com/artist/60K60Egdxg9rGWcUCI23Qx"
+        },
+        {
+          "name": "Hector Tricoche",
+          "url": "https://open.spotify.com/artist/7GvSqZ1gF1sl3VvGRmQ2En"
+        }
+      ],
+      "duration_ms": 286573,
+      "name": "Lobo Domesticado \"En Vivo\"",
+      "url": "https://open.spotify.com/track/5i784rg3A3YFVFE8YXLfme"
+    },
+    {
+      "added_at": "2024-09-24 20:35:55",
+      "album": {
+        "name": "Eddie Santiago (En Vivo)",
+        "url": "https://open.spotify.com/album/6qfVnb6663CzhZBDfnvnQ6"
+      },
+      "artists": [
+        {
+          "name": "Eddie Santiago",
+          "url": "https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I"
+        }
+      ],
+      "duration_ms": 373400,
+      "name": "Lluvia - En Vivo",
+      "url": "https://open.spotify.com/track/4C8vE5FZ6oQRsKjX96803M"
     },
     {
       "added_at": "2024-09-24 20:35:55",
@@ -739,58 +791,6 @@
       "duration_ms": 320000,
       "name": "Sabor Sabor - Live",
       "url": "https://open.spotify.com/track/5VTPcuOVHyIPxh0T6SxoBJ"
-    },
-    {
-      "added_at": "2024-09-24 20:35:55",
-      "album": {
-        "name": "40 Anniversary (Live Hits)",
-        "url": "https://open.spotify.com/album/43VEjj157u4fGnlw4QN9vL"
-      },
-      "artists": [
-        {
-          "name": "Tommy Olivencia y Su Orquesta",
-          "url": "https://open.spotify.com/artist/60K60Egdxg9rGWcUCI23Qx"
-        },
-        {
-          "name": "Hector Tricoche",
-          "url": "https://open.spotify.com/artist/7GvSqZ1gF1sl3VvGRmQ2En"
-        }
-      ],
-      "duration_ms": 286573,
-      "name": "Lobo Domesticado \"En Vivo\"",
-      "url": "https://open.spotify.com/track/5i784rg3A3YFVFE8YXLfme"
-    },
-    {
-      "added_at": "2024-09-24 20:35:55",
-      "album": {
-        "name": "45 Aniversario",
-        "url": "https://open.spotify.com/album/5T5SzOvy6RDvdKOQre31BR"
-      },
-      "artists": [
-        {
-          "name": "Sonora Ponce\u00f1a",
-          "url": "https://open.spotify.com/artist/39qcQ01yJQbaMje70kIiFa"
-        }
-      ],
-      "duration_ms": 812973,
-      "name": "Boranda",
-      "url": "https://open.spotify.com/track/029UVd2kWFQVuCJZ7ekuNX"
-    },
-    {
-      "added_at": "2024-09-24 20:35:55",
-      "album": {
-        "name": "Eddie Santiago (En Vivo)",
-        "url": "https://open.spotify.com/album/6qfVnb6663CzhZBDfnvnQ6"
-      },
-      "artists": [
-        {
-          "name": "Eddie Santiago",
-          "url": "https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I"
-        }
-      ],
-      "duration_ms": 373400,
-      "name": "Lluvia - En Vivo",
-      "url": "https://open.spotify.com/track/4C8vE5FZ6oQRsKjX96803M"
     },
     {
       "added_at": "2024-09-24 20:35:55",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRTlrhMB12D.md) - [plain]
 
 > Soulful Hindi songs for your nostalgic journey\. Cover \- Mere Jeevan Saathi
 
-[Spotify](https://open.spotify.com/user/spotify) - 543,142 likes - 100 songs - 7 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 544,028 likes - 100 songs - 7 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,7 +98,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRTlrhMB12D.md) - [plain]
 | 88 | [Baiyan Na Dharo](https://open.spotify.com/track/08V6xwUrInGvvhdHk4967W) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc) | [Dastak](https://open.spotify.com/album/4fW5vPxVUMnNA24FhVE40Y) | 4:21 |
 | 89 | [O Sajna Barkha Bahar Aayi](https://open.spotify.com/track/6F7vjZLKx9CD6rve0p684V) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc), [Salil Chowdhury](https://open.spotify.com/artist/0Ck0U5EF4b0VBMmpZPuUmv) | [Parakh](https://open.spotify.com/album/06EO0Efgbzd0n2t72O57hK) | 3:09 |
 | 90 | [Rajnigandha Phool Tumhare](https://open.spotify.com/track/3OGaepo31Q3d427kHHpdx6) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc), [Salil Chowdhury](https://open.spotify.com/artist/0Ck0U5EF4b0VBMmpZPuUmv) | [Rajnigandha](https://open.spotify.com/album/7sTbS05cVMgZ3gp3nAS9Kc) | 3:24 |
-| 91 | [Patta Patta Buta Buta \- From "Ek Nazar"](https://open.spotify.com/track/3njIlJ7F6nOqASfSLD9BJJ) | [Mohammed Rafi](https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J), [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc) | [Ek Nazar \- Original Motion Picture Soundtrack](https://open.spotify.com/album/1ZwPppD9qJGIIQz2qZ6xtN) | 5:42 |
+| 91 | [Patta Patta Buta Buta \- From "Ek Nazar"](https://open.spotify.com/track/3njIlJ7F6nOqASfSLD9BJJ) | [Mohammed Rafi](https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J), [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc) | [Ek Nazar \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1ZwPppD9qJGIIQz2qZ6xtN) | 5:42 |
 | 92 | [Koi Ladki Mujhe Kal Raat](https://open.spotify.com/track/0n7zkNUzeEZdzDqI1KiNZJ) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc), [Kishore Kumar](https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y), [R\. D\. Burman](https://open.spotify.com/artist/2JSYASbWU5Y0fVpts3Eq7g) | [Seeta Aur Geeta](https://open.spotify.com/album/6s38YFArd4305hp31KwG6H) | 4:19 |
 | 93 | [Yeh Raat Yeh Chandni \- Hemant Kumar](https://open.spotify.com/track/6YEigVLKeRSOusYWwA8VNr) | [Hemant Kumar](https://open.spotify.com/artist/02Um2HIOrUdsy3wqPBZwsj), [S\. D\. Burman](https://open.spotify.com/artist/4vMKEXQ4cU5hb2BL4omVrT) | [Jaal](https://open.spotify.com/album/1vpSsZwSNCSeUWKd7Rh9yk) | 4:56 |
 | 94 | [Ek Ladki Bheegi Bhagi Si](https://open.spotify.com/track/4ZWOO6QChO5DNZkqCyShJU) | [Kishore Kumar](https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y) | [Chalti Ka Naam Gaadi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/11ZHFRLEhkwJ19bWoEFrbp) | 3:56 |

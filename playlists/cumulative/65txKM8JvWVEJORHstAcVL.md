@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/65txKM8JvWVEJORHstAcVL.md) - cumulative - [plain](/playlists/plain/65txKM8JvWVEJORHstAcVL) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/65txKM8JvWVEJORHstAcVL)
 
-### [LA LLISTA DE FLAIXBAC \(29/9/2024\)](https://open.spotify.com/playlist/65txKM8JvWVEJORHstAcVL)
+### [LA LLISTA DE FLAIXBAC \(6/10/2024\)](https://open.spotify.com/playlist/65txKM8JvWVEJORHstAcVL)
 
 > La Llista amb els 45 èxits de Flaixbac\. Actualitzada cada diumenge de 17 h a 21 h amb en Jordi Cuadras\. Vota el pròxim número 1 de La Llista a la nostra web: https:&\#x2F;&\#x2F;flaixbac.cat&\#x2F;la\-llista
 
-104 songs - 5 hr 13 min
+105 songs - 5 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [COMENÇAR A VIURE](https://open.spotify.com/track/0Lh4c3QpwRP4a7DeybvhRN) | [Els Catarres](https://open.spotify.com/artist/0InCPtI0kadS7s3cZrcbbY) | [COMENÇAR A VIURE](https://open.spotify.com/album/2xsNgctYHbxR23g8LV7MDp) | 2:46 | 2024-05-12 | 2024-09-23 |
 | [CONTIGO \(with Tiësto\)](https://open.spotify.com/track/4UkUxO2WlKLc0Q1iEutGGh) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [CONTIGO \(with Tiësto\)](https://open.spotify.com/album/2mKcYIgv7ItYDQXke3uprl) | 3:12 | 2024-03-17 | 2024-09-23 |
 | [COVARDS](https://open.spotify.com/track/0fRUIBnfBki2kS5S0Y8c11) | [La Fúmiga](https://open.spotify.com/artist/2Y4AiImxLUoWEgxedb3Gtz), [The Tyets](https://open.spotify.com/artist/6I63R76ouyFvUIwPggQxxT) | [COVARDS](https://open.spotify.com/album/3icg4CI1dzZd3AImqe3tc0) | 3:09 | 2024-02-25 | 2024-09-16 |
+| [Criminals](https://open.spotify.com/track/1gMFAi2auKTgHsYH7nIBhv) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Timeless \- Deluxe](https://open.spotify.com/album/7mePeoRszpMqgvTAc9uRY0) | 2:34 | 2024-10-06 |  |
 | [Cruel Summer](https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 2:58 | 2023-08-13 | 2024-05-27 |
 | [Dance The Night \- From Barbie The Album](https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Dance The Night \(From Barbie The Album\)](https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu) | 2:56 | 2023-06-11 | 2024-04-29 |
 | [Dancing In The Flames](https://open.spotify.com/track/7z7kvUQGwlC6iOl7vMuAr9) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dancing In The Flames](https://open.spotify.com/album/5XsZ5ZTcIHnZxjynaGxA0g) | 3:40 | 2024-09-29 |  |
@@ -96,7 +97,7 @@
 | [TORNAR](https://open.spotify.com/track/65EFsbz7V4seWa9mNpWjeN) | [La Fúmiga](https://open.spotify.com/artist/2Y4AiImxLUoWEgxedb3Gtz) | [TORNAR](https://open.spotify.com/album/6dzk7KpVSmhTHjmhtomhER) | 2:49 | 2023-12-10 | 2024-04-15 |
 | [Tornem a casa](https://open.spotify.com/track/7bc9WLunD2VxC2FxC3bKVB) | [The Tyets](https://open.spotify.com/artist/6I63R76ouyFvUIwPggQxxT) | [Tornem a casa](https://open.spotify.com/album/3pSGOz6onFQ1hJtX9ugPCM) | 2:36 | 2023-11-26 | 2024-05-06 |
 | [TOTA LA VIDA](https://open.spotify.com/track/7ofUma7jeWAAc7AWMnvagX) | [Iglú](https://open.spotify.com/artist/4Wfi7bsHCX2jfKgYvwl4gO) | [TOTA LA VIDA](https://open.spotify.com/album/0rwWliQB70qlXeDgSE8lnJ) | 2:52 | 2024-02-11 | 2024-04-29 |
-| [Training Season](https://open.spotify.com/track/6Qb7YsAqH4wWFUMbGsCpap) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Training Season](https://open.spotify.com/album/3sqC2sXZc0b9r7WM9z3784) | 3:29 | 2024-02-25 |  |
+| [Training Season](https://open.spotify.com/track/6Qb7YsAqH4wWFUMbGsCpap) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Training Season](https://open.spotify.com/album/3sqC2sXZc0b9r7WM9z3784) | 3:29 | 2024-02-25 | 2024-10-07 |
 | [TUTA GOLD](https://open.spotify.com/track/654Jxp6rUFgPckixlIusRJ) | [Mahmood](https://open.spotify.com/artist/06nvjg4wBANK6DCHjqtPNd) | [TUTA GOLD](https://open.spotify.com/album/298TPucavaqMuiInBsW7jX) | 2:58 | 2024-02-25 | 2024-06-17 |
 | [Tòpics \- Cap\. I: Ràbia](https://open.spotify.com/track/7aFKLY3GPC5fQ7nnRTKMqo) | [Aina Reig](https://open.spotify.com/artist/2Ij9EybzTRRk2u4IZ5kwdM) | [Tòpics \- Cap\. I: Ràbia](https://open.spotify.com/album/0xXbC43rDqh27wSjhCgrxN) | 3:00 | 2024-04-14 | 2024-05-06 |
 | [VAGABUNDO](https://open.spotify.com/track/1MB8kTH7VKvAMfL9SHgJmG) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [VAGABUNDO](https://open.spotify.com/album/0Rl1vI3oOOh3rylfBLiemc) | 3:35 | 2023-06-11 | 2024-03-18 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Dharius. The essential tracks, all in one playlist.",
-  "num_followers": 111447,
+  "num_followers": 111473,
   "original_name": "This Is Dharius",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zv3egAAAAABKPkf9rnSwLFhJBldPq7AV",
+  "snapshot_id": "ZwCBgAAAAABgqytUNLYXZTEDblF5ge+B",
   "tracks": [
     {
       "added_at": null,
@@ -503,6 +503,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Diablo, La Muerte y Yo",
+        "url": "https://open.spotify.com/album/5S1xpCaPIqh72xLdFRGNvj"
+      },
+      "artists": [
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        }
+      ],
+      "duration_ms": 205196,
+      "name": "El Diablo, La Muerte y Yo",
+      "url": "https://open.spotify.com/track/175Ot7nFFqxNIZ34C0wcfw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Recia",
         "url": "https://open.spotify.com/album/2lCjZdvsSzI9W79U5nmp5p"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 251416,
       "name": "Hipocres\u00eda",
       "url": "https://open.spotify.com/track/4OElCXKZqbE8MhHvhrKX1z"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Diablo, La Muerte y Yo",
-        "url": "https://open.spotify.com/album/5S1xpCaPIqh72xLdFRGNvj"
-      },
-      "artists": [
-        {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        }
-      ],
-      "duration_ms": 205196,
-      "name": "El Diablo, La Muerte y Yo",
-      "url": "https://open.spotify.com/track/175Ot7nFFqxNIZ34C0wcfw"
     },
     {
       "added_at": null,
@@ -811,6 +811,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Diablo, La Muerte y Yo",
+        "url": "https://open.spotify.com/album/5S1xpCaPIqh72xLdFRGNvj"
+      },
+      "artists": [
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        }
+      ],
+      "duration_ms": 193219,
+      "name": "Relax",
+      "url": "https://open.spotify.com/track/2OtKy3OiSyHPWyOqF9T2LF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "16 Toneladas",
         "url": "https://open.spotify.com/album/38IwbkRgxq4eMIAR6MLU8j"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 206726,
       "name": "16 Toneladas",
       "url": "https://open.spotify.com/track/2zbrhonzYrXKiUbVx2czQt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Diablo, La Muerte y Yo",
-        "url": "https://open.spotify.com/album/5S1xpCaPIqh72xLdFRGNvj"
-      },
-      "artists": [
-        {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        }
-      ],
-      "duration_ms": 193219,
-      "name": "Relax",
-      "url": "https://open.spotify.com/track/2OtKy3OiSyHPWyOqF9T2LF"
     },
     {
       "added_at": null,
@@ -883,6 +883,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Diablo, La Muerte y Yo",
+        "url": "https://open.spotify.com/album/5S1xpCaPIqh72xLdFRGNvj"
+      },
+      "artists": [
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        },
+        {
+          "name": "Tornillo",
+          "url": "https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL"
+        }
+      ],
+      "duration_ms": 227647,
+      "name": "Tony Montana (feat. Tornillo)",
+      "url": "https://open.spotify.com/track/1gY3TMlLkEujxg0g5vSlTw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Esquina",
         "url": "https://open.spotify.com/album/1AUCWNSatHgDBNYvfthnNa"
       },
@@ -899,22 +919,6 @@
       "duration_ms": 267897,
       "name": "Broche De Oro",
       "url": "https://open.spotify.com/track/6bomSYIzgSeymVS1sdUhsu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Diablo, La Muerte y Yo",
-        "url": "https://open.spotify.com/album/5S1xpCaPIqh72xLdFRGNvj"
-      },
-      "artists": [
-        {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        }
-      ],
-      "duration_ms": 209847,
-      "name": "Si la muerte pregunta",
-      "url": "https://open.spotify.com/track/75q22frRWs67LW2ltg7PLC"
     },
     {
       "added_at": null,
@@ -967,6 +971,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Diablo, La Muerte y Yo",
+        "url": "https://open.spotify.com/album/5S1xpCaPIqh72xLdFRGNvj"
+      },
+      "artists": [
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        }
+      ],
+      "duration_ms": 209847,
+      "name": "Si la muerte pregunta",
+      "url": "https://open.spotify.com/track/75q22frRWs67LW2ltg7PLC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Perdedor",
         "url": "https://open.spotify.com/album/0J3NgEahBI5Hst8QJEY821"
       },
@@ -983,26 +1003,6 @@
       "duration_ms": 228687,
       "name": "El Perdedor",
       "url": "https://open.spotify.com/track/5QKymytqsCOJX5Jw7vQYCi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Diablo, La Muerte y Yo",
-        "url": "https://open.spotify.com/album/5S1xpCaPIqh72xLdFRGNvj"
-      },
-      "artists": [
-        {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        },
-        {
-          "name": "Tornillo",
-          "url": "https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL"
-        }
-      ],
-      "duration_ms": 227647,
-      "name": "Tony Montana (feat. Tornillo)",
-      "url": "https://open.spotify.com/track/1gY3TMlLkEujxg0g5vSlTw"
     },
     {
       "added_at": null,
@@ -1043,6 +1043,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Diablo, La Muerte y Yo",
+        "url": "https://open.spotify.com/album/5S1xpCaPIqh72xLdFRGNvj"
+      },
+      "artists": [
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        }
+      ],
+      "duration_ms": 243247,
+      "name": "Me juzgan",
+      "url": "https://open.spotify.com/track/7DOSRCf92tETax3J3upq3k"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Esto Revienta",
         "url": "https://open.spotify.com/album/7sIju5560ZxxmUtY7Ah3bO"
       },
@@ -1059,26 +1075,6 @@
       "duration_ms": 171936,
       "name": "Esto Revienta",
       "url": "https://open.spotify.com/track/0eAgZ5JyKuowgYO9aZYsL9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cuando Todo Acaba",
-        "url": "https://open.spotify.com/album/1lSYxwcLpWyqM7pD5N1fAU"
-      },
-      "artists": [
-        {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        },
-        {
-          "name": "Tiro Loko",
-          "url": "https://open.spotify.com/artist/4Y5HJP3oFOJ8UVBXHYWBgx"
-        }
-      ],
-      "duration_ms": 188166,
-      "name": "El Loqueron - Parte 1",
-      "url": "https://open.spotify.com/track/2ULk9vqVHyuj0ZXmL3Fzu6"
     }
   ],
   "unique_name": "This Is Dharius",

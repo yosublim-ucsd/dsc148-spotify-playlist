@@ -4,7 +4,7 @@
 
 > This is Ryan Adams\. The essential tracks, all in one playlist.
 
-237 songs - 14 hr 31 min
+238 songs - 14 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,6 +115,7 @@
 | [I Was Here](https://open.spotify.com/track/6N8syRCLSHedst5P0HS6Tu) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Sword & Stone](https://open.spotify.com/album/2wg4Zk8xRMeL5dlAe3wFOQ) | 2:46 | 2024-01-13 | 2024-07-21 |
 | [I Wish You Would](https://open.spotify.com/track/0Nb6EyYhGhH96rqSe4wmdy) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [1989](https://open.spotify.com/album/0MVK1j7wrUkBZ09ZuMURJA) | 3:44 | 2022-01-11 | 2022-10-13 |
 | [I Wish You Would](https://open.spotify.com/track/7eoSnTRP8VbxcC4LvZdzn4) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [1989](https://open.spotify.com/album/6WCWxMMBOvsAQl1SLUTMup) | 3:44 | 2022-01-18 | 2022-03-03 |
+| [I'm So Lonesome I Could Cry \- Live from Brussels, Belgium\. 2023](https://open.spotify.com/track/6KDMEwkY62VFgorcEXV6Sn) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [I'm so Lonesome I Could Cry \(Live from Brussels, Belgium\. 2023\)](https://open.spotify.com/album/2QHKzxEko5j379hJjAeaKH) | 2:45 | 2024-10-07 |  |
 | [I'm Sorry](https://open.spotify.com/track/2uLywqkF47P4GqJHuGDxTM) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Heatwave](https://open.spotify.com/album/7rHobpFFOUBekYAMIxbfsg) | 3:09 | 2024-01-17 | 2024-01-28 |
 | [I'm Sorry and I Love You](https://open.spotify.com/track/0KCPviTIwG0iAmcu6S6apS) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Wednesdays](https://open.spotify.com/album/1UiJFcBpvdq5uGXt363HGO) | 3:34 | 2023-12-13 | 2024-01-04 |
 | [I'm Sorry and I Love You](https://open.spotify.com/track/2fwAHp0tMsBedFwvR6h8RX) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Wednesdays](https://open.spotify.com/album/5iCnW230jyzcbTLdJalSA6) | 3:34 | 2022-01-11 | 2022-10-13 |
@@ -223,7 +224,7 @@
 | [Too Late](https://open.spotify.com/track/3BGW3cTO3TzxG5VojcA9Ge) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Heatwave](https://open.spotify.com/album/7rHobpFFOUBekYAMIxbfsg) | 2:55 | 2024-01-12 | 2024-01-23 |
 | [Trouble](https://open.spotify.com/track/7xfWkAqJiJOrtH6j8AbXlJ) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Ryan Adams](https://open.spotify.com/album/5FV8d3DhSoArvwr0Qqgzq3) | 3:47 | 2022-03-04 | 2022-05-04 |
 | [True Love](https://open.spotify.com/track/1stB2WWLzp7QIeT82T7ytU) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Heatwave](https://open.spotify.com/album/7rHobpFFOUBekYAMIxbfsg) | 2:48 | 2024-01-08 | 2024-02-10 |
-| [True Love Will Find You In the End \- Live from Bristol, UK\. 2023.](https://open.spotify.com/track/4uy2YQw237One1PRrviQr7) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [The Man In Me \(Live from Bristol, UK\. 2023\)](https://open.spotify.com/album/6Kxh7vRBvv2iTz2Ux3EeaE) | 2:33 | 2024-09-03 |  |
+| [True Love Will Find You In the End \- Live from Bristol, UK\. 2023.](https://open.spotify.com/track/4uy2YQw237One1PRrviQr7) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [The Man In Me \(Live from Bristol, UK\. 2023\)](https://open.spotify.com/album/6Kxh7vRBvv2iTz2Ux3EeaE) | 2:33 | 2024-09-03 | 2024-10-07 |
 | [Two](https://open.spotify.com/track/4Yg9sKLmvYuybzU9Ruiced) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Easy Tiger](https://open.spotify.com/album/3ZlWIevUkfKkrjpYw5VdjE) | 2:38 | 2022-01-11 |  |
 | [Used Cars](https://open.spotify.com/track/2jQYAjZ6BDCHgD2lX1nSGl) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Nebraska](https://open.spotify.com/album/4Rb3ltIWEi0OnVNNv03RHh) | 3:59 | 2023-01-08 | 2023-03-23 |
 | [War Pigs \- Live from Birmingham, UK\. 2023](https://open.spotify.com/track/3xvxLbvFqzz1IwXVpZ9D2u) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [War Pigs \(Live from Birmingham, UK\. 2023\)](https://open.spotify.com/album/0jUXLpTMnc182KoOLQ42Mq) | 3:59 | 2024-08-18 | 2024-10-02 |

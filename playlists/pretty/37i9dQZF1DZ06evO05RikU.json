@@ -1,12 +1,12 @@
 {
   "description": "This is Sof\u00eda Reyes. The essential tracks, all in one playlist.",
-  "num_followers": 42385,
+  "num_followers": 42386,
   "original_name": "This Is Sof\u00eda Reyes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zv3egAAAAAB/7QmA026wrorapxpPaTFi",
+  "snapshot_id": "ZwCBgAAAAACUK4eY9d/e0O42fEDU+Fhf",
   "tracks": [
     {
       "added_at": null,
@@ -547,22 +547,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mal De Amores",
-        "url": "https://open.spotify.com/album/3F5VmDv3oeerueNteT7JFc"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        }
-      ],
-      "duration_ms": 136015,
-      "name": "La Bachata",
-      "url": "https://open.spotify.com/track/6vsajTbLWyrVPHtYvbX35J"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gotta Be Patient",
         "url": "https://open.spotify.com/album/6zqf7sIi51QWskNvkEYaA7"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 160318,
       "name": "Gotta Be Patient",
       "url": "https://open.spotify.com/track/2Nb2SSUnGfThgDyG9ZOAkS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mal De Amores",
+        "url": "https://open.spotify.com/album/3F5VmDv3oeerueNteT7JFc"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        }
+      ],
+      "duration_ms": 136015,
+      "name": "La Bachata",
+      "url": "https://open.spotify.com/track/6vsajTbLWyrVPHtYvbX35J"
     },
     {
       "added_at": null,
@@ -827,6 +827,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Louder!.",
+        "url": "https://open.spotify.com/album/7tPQLOpoHALuSuHcDFUgB8"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        }
+      ],
+      "duration_ms": 198384,
+      "name": "Conmigo (Rest of Your Life)",
+      "url": "https://open.spotify.com/track/5B8qZ2uzB58fj4kAPdMDqv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Highway",
         "url": "https://open.spotify.com/album/2DtVhE1RH6odEmwtywYqdQ"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 221320,
       "name": "Highway",
       "url": "https://open.spotify.com/track/4rhdtzBmrrDxYi35yQDpzF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Louder!.",
-        "url": "https://open.spotify.com/album/7tPQLOpoHALuSuHcDFUgB8"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        }
-      ],
-      "duration_ms": 198384,
-      "name": "Conmigo (Rest of Your Life)",
-      "url": "https://open.spotify.com/track/5B8qZ2uzB58fj4kAPdMDqv"
     },
     {
       "added_at": null,
@@ -911,26 +911,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nuevos Cl\u00e1sicos",
-        "url": "https://open.spotify.com/album/2NS3D1YnaTEXWc9I5SnbSe"
-      },
-      "artists": [
-        {
-          "name": "Carlos Zaur",
-          "url": "https://open.spotify.com/artist/6BWQiJpeXCHep8xW0vAIOk"
-        },
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        }
-      ],
-      "duration_ms": 194954,
-      "name": "Duele Tanto",
-      "url": "https://open.spotify.com/track/16lIZn8RqeQkM1NgICfq3p"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Louder!.",
         "url": "https://open.spotify.com/album/7tPQLOpoHALuSuHcDFUgB8"
       },
@@ -947,6 +927,26 @@
       "duration_ms": 212204,
       "name": "Muevelo (feat. Wisin)",
       "url": "https://open.spotify.com/track/5Ra1n0XZPneh64gdF3Jv0g"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nuevos Cl\u00e1sicos",
+        "url": "https://open.spotify.com/album/2NS3D1YnaTEXWc9I5SnbSe"
+      },
+      "artists": [
+        {
+          "name": "Carlos Zaur",
+          "url": "https://open.spotify.com/artist/6BWQiJpeXCHep8xW0vAIOk"
+        },
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        }
+      ],
+      "duration_ms": 194954,
+      "name": "Duele Tanto",
+      "url": "https://open.spotify.com/track/16lIZn8RqeQkM1NgICfq3p"
     },
     {
       "added_at": null,
@@ -1011,26 +1011,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MILAMORES",
-        "url": "https://open.spotify.com/album/4pmn5TLgmxzsmX5OS7pOri"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        },
-        {
-          "name": "El Gran Silencio",
-          "url": "https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD"
-        }
-      ],
-      "duration_ms": 156831,
-      "name": "La Batidora",
-      "url": "https://open.spotify.com/track/2e4muS8FH9hY5WY6IqANlA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "TICK TOCK",
         "url": "https://open.spotify.com/album/61vhLJ6tGWrE9XlmIedFmb"
       },
@@ -1051,6 +1031,26 @@
       "duration_ms": 171082,
       "name": "TICK TOCK",
       "url": "https://open.spotify.com/track/6v9dLKmPBQYOAeoHuwu8wa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MILAMORES",
+        "url": "https://open.spotify.com/album/4pmn5TLgmxzsmX5OS7pOri"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        },
+        {
+          "name": "El Gran Silencio",
+          "url": "https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD"
+        }
+      ],
+      "duration_ms": 156831,
+      "name": "La Batidora",
+      "url": "https://open.spotify.com/track/2e4muS8FH9hY5WY6IqANlA"
     },
     {
       "added_at": null,

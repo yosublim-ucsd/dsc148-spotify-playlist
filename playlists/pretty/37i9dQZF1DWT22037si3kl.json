@@ -1,6 +1,6 @@
 {
   "description": "bgl \u00e9 ser original, voc\u00eas j\u00e1 sabem. Foto: Caio Luccas",
-  "num_followers": 144131,
+  "num_followers": 144149,
   "original_name": "O Drip",
   "owner": {
     "name": "Spotify",
@@ -255,6 +255,34 @@
     {
       "added_at": "2024-09-27 03:01:00",
       "album": {
+        "name": "Contradi\u00e7\u00f5es",
+        "url": "https://open.spotify.com/album/1vR5pzEPXx1i7h8zwosa7D"
+      },
+      "artists": [
+        {
+          "name": "KayBlack",
+          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
+        },
+        {
+          "name": "Marquinho no Beat",
+          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
+        },
+        {
+          "name": "Wall Hein",
+          "url": "https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB"
+        },
+        {
+          "name": "Yokame",
+          "url": "https://open.spotify.com/artist/4IEFTmI2K5xj488kIn268F"
+        }
+      ],
+      "duration_ms": 136464,
+      "name": "Superficial",
+      "url": "https://open.spotify.com/track/6EOLDQz2rjwpZ2M5rApgH4"
+    },
+    {
+      "added_at": "2024-09-27 03:01:00",
+      "album": {
         "name": "J\u00f3ias do Bairro",
         "url": "https://open.spotify.com/album/7A4v2dkqJ6ZClsj0VDp9mQ"
       },
@@ -279,6 +307,26 @@
       "duration_ms": 171285,
       "name": "J\u00f3ias do Bairro",
       "url": "https://open.spotify.com/track/3BXDvzA3ArtYUtlyy0tTIw"
+    },
+    {
+      "added_at": "2024-09-27 03:01:00",
+      "album": {
+        "name": "Direto da Selva",
+        "url": "https://open.spotify.com/album/0BLV2fhIeGJmvzBxwz3NxV"
+      },
+      "artists": [
+        {
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+        },
+        {
+          "name": "Raflow",
+          "url": "https://open.spotify.com/artist/6NHJLHGyF86wd4DT8fNqD0"
+        }
+      ],
+      "duration_ms": 202282,
+      "name": "Mente Al\u00e9m",
+      "url": "https://open.spotify.com/track/3bTEMXxB5Ok3llsmCoPbs7"
     },
     {
       "added_at": "2024-09-27 03:01:00",
@@ -311,54 +359,6 @@
       "duration_ms": 160000,
       "name": "Desfile na Favela",
       "url": "https://open.spotify.com/track/4ODMkKdMusKLAMWolKAchh"
-    },
-    {
-      "added_at": "2024-09-27 03:01:00",
-      "album": {
-        "name": "Contradi\u00e7\u00f5es",
-        "url": "https://open.spotify.com/album/1vR5pzEPXx1i7h8zwosa7D"
-      },
-      "artists": [
-        {
-          "name": "KayBlack",
-          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
-        },
-        {
-          "name": "Marquinho no Beat",
-          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
-        },
-        {
-          "name": "Wall Hein",
-          "url": "https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB"
-        },
-        {
-          "name": "Yokame",
-          "url": "https://open.spotify.com/artist/4IEFTmI2K5xj488kIn268F"
-        }
-      ],
-      "duration_ms": 136464,
-      "name": "Superficial",
-      "url": "https://open.spotify.com/track/6EOLDQz2rjwpZ2M5rApgH4"
-    },
-    {
-      "added_at": "2024-09-27 03:01:00",
-      "album": {
-        "name": "Direto da Selva",
-        "url": "https://open.spotify.com/album/0BLV2fhIeGJmvzBxwz3NxV"
-      },
-      "artists": [
-        {
-          "name": "Tz da Coronel",
-          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
-        },
-        {
-          "name": "Raflow",
-          "url": "https://open.spotify.com/artist/6NHJLHGyF86wd4DT8fNqD0"
-        }
-      ],
-      "duration_ms": 202282,
-      "name": "Mente Al\u00e9m",
-      "url": "https://open.spotify.com/track/3bTEMXxB5Ok3llsmCoPbs7"
     },
     {
       "added_at": "2024-09-27 03:01:00",
@@ -479,6 +479,26 @@
     {
       "added_at": "2024-09-27 03:01:00",
       "album": {
+        "name": "Direto da Selva",
+        "url": "https://open.spotify.com/album/0BLV2fhIeGJmvzBxwz3NxV"
+      },
+      "artists": [
+        {
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+        },
+        {
+          "name": "Neyriellen Ferreira",
+          "url": "https://open.spotify.com/artist/0FhGKwqvB6mvHxJB2n3fYl"
+        }
+      ],
+      "duration_ms": 200757,
+      "name": "Amanheceu",
+      "url": "https://open.spotify.com/track/2goHxXjG4BLibbnzapH8ow"
+    },
+    {
+      "added_at": "2024-09-27 03:01:00",
+      "album": {
         "name": "Inocente \"Demotape\"",
         "url": "https://open.spotify.com/album/0buVrEIwifWoGnpQ7fhZgk"
       },
@@ -587,26 +607,6 @@
       "duration_ms": 173114,
       "name": "Lado Negro",
       "url": "https://open.spotify.com/track/4KJBzgc3sUdLv4QyLajJQT"
-    },
-    {
-      "added_at": "2024-09-27 03:01:00",
-      "album": {
-        "name": "Direto da Selva",
-        "url": "https://open.spotify.com/album/0BLV2fhIeGJmvzBxwz3NxV"
-      },
-      "artists": [
-        {
-          "name": "Tz da Coronel",
-          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
-        },
-        {
-          "name": "Neyriellen Ferreira",
-          "url": "https://open.spotify.com/artist/0FhGKwqvB6mvHxJB2n3fYl"
-        }
-      ],
-      "duration_ms": 200757,
-      "name": "Amanheceu",
-      "url": "https://open.spotify.com/track/2goHxXjG4BLibbnzapH8ow"
     },
     {
       "added_at": "2024-09-27 03:01:00",
@@ -1087,30 +1087,6 @@
     {
       "added_at": "2024-09-27 03:01:00",
       "album": {
-        "name": "\u00c9 Quem?",
-        "url": "https://open.spotify.com/album/2dgLoYt3odmlfjfQYXlKhL"
-      },
-      "artists": [
-        {
-          "name": "Senndy",
-          "url": "https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3"
-        },
-        {
-          "name": "Yuri Redicopa",
-          "url": "https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm"
-        },
-        {
-          "name": "Mc Davi",
-          "url": "https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo"
-        }
-      ],
-      "duration_ms": 170647,
-      "name": "N\u00fameros da Sorte",
-      "url": "https://open.spotify.com/track/6UrFzZHrL84mjVnZHiQICM"
-    },
-    {
-      "added_at": "2024-09-27 03:01:00",
-      "album": {
         "name": "Mixtape Novset, Vol. 1",
         "url": "https://open.spotify.com/album/7kcsgu8mvNtnM9DUoMg2U6"
       },
@@ -1155,6 +1131,30 @@
       "duration_ms": 125664,
       "name": "BENJAMIN FRANKLIN",
       "url": "https://open.spotify.com/track/3eguPUjuyAllZ3UwYdsMmq"
+    },
+    {
+      "added_at": "2024-09-27 03:01:00",
+      "album": {
+        "name": "\u00c9 Quem?",
+        "url": "https://open.spotify.com/album/2dgLoYt3odmlfjfQYXlKhL"
+      },
+      "artists": [
+        {
+          "name": "Senndy",
+          "url": "https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3"
+        },
+        {
+          "name": "Yuri Redicopa",
+          "url": "https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm"
+        },
+        {
+          "name": "Mc Davi",
+          "url": "https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo"
+        }
+      ],
+      "duration_ms": 170647,
+      "name": "N\u00fameros da Sorte",
+      "url": "https://open.spotify.com/track/6UrFzZHrL84mjVnZHiQICM"
     },
     {
       "added_at": "2024-09-27 03:01:00",

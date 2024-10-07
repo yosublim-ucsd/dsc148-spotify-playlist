@@ -1,12 +1,12 @@
 {
   "description": "This is Sabrina Carpenter. The essential tracks, all in one playlist.",
-  "num_followers": 409129,
+  "num_followers": 410328,
   "original_name": "This Is Sabrina Carpenter",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zv3egAAAAAC/s30pZh4j5KAvAI+NrqgF",
+  "snapshot_id": "ZwCBgAAAAABhCb9Vra7rz0Am4NXhg3yd",
   "tracks": [
     {
       "added_at": null,
@@ -336,9 +336,9 @@
           "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
         }
       ],
-      "duration_ms": 170827,
-      "name": "Already Over",
-      "url": "https://open.spotify.com/track/5QhJorJmjqYfETfqgBtGg3"
+      "duration_ms": 149890,
+      "name": "Vicious",
+      "url": "https://open.spotify.com/track/6Alp15t6urC4opjJiyOqZu"
     },
     {
       "added_at": null,
@@ -355,22 +355,6 @@
       "duration_ms": 218284,
       "name": "Sharpest Tool",
       "url": "https://open.spotify.com/track/3iPIDAFybaoyqX7hvAfWkl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Skin",
-        "url": "https://open.spotify.com/album/6JISV6SiJtQnIsNC6OVpUf"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 177500,
-      "name": "Skin",
-      "url": "https://open.spotify.com/track/03B2SfXuvDh1m9F4tqrX07"
     },
     {
       "added_at": null,
@@ -399,6 +383,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Skin",
+        "url": "https://open.spotify.com/album/6JISV6SiJtQnIsNC6OVpUf"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 177500,
+      "name": "Skin",
+      "url": "https://open.spotify.com/track/03B2SfXuvDh1m9F4tqrX07"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "emails i can't send",
         "url": "https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz"
       },
@@ -408,9 +408,9 @@
           "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
         }
       ],
-      "duration_ms": 149890,
-      "name": "Vicious",
-      "url": "https://open.spotify.com/track/6Alp15t6urC4opjJiyOqZu"
+      "duration_ms": 170827,
+      "name": "Already Over",
+      "url": "https://open.spotify.com/track/5QhJorJmjqYfETfqgBtGg3"
     },
     {
       "added_at": null,
@@ -471,22 +471,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Singular Act II",
-        "url": "https://open.spotify.com/album/19KilSbbeHRFFZM7ChwTdP"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 164708,
-      "name": "Exhale",
-      "url": "https://open.spotify.com/track/6CagMrZXJUdGGIw6Eaepos"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "emails i can\u2019t send fwd:",
         "url": "https://open.spotify.com/album/2g4aJTa5ejGpp0O0GKzWAQ"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 187591,
       "name": "Lonesome",
       "url": "https://open.spotify.com/track/0HYhOGKAHiOsv8GW4JdMJ8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Singular Act II",
+        "url": "https://open.spotify.com/album/19KilSbbeHRFFZM7ChwTdP"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 164708,
+      "name": "Exhale",
+      "url": "https://open.spotify.com/track/6CagMrZXJUdGGIw6Eaepos"
     },
     {
       "added_at": null,
@@ -535,6 +535,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "emails i can\u2019t send fwd:",
+        "url": "https://open.spotify.com/album/2g4aJTa5ejGpp0O0GKzWAQ"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 177750,
+      "name": "skinny dipping",
+      "url": "https://open.spotify.com/track/436RVcyrHyXdqYNWGYMxx5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "WOW (feat. Sabrina Carpenter) [Remix]",
         "url": "https://open.spotify.com/album/1RE0ZZJkxSZXdkNac4lcJD"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 179652,
       "name": "WOW (feat. Sabrina Carpenter) - Remix",
       "url": "https://open.spotify.com/track/5WokFKscrfGEGGLPTu3jgO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "emails i can\u2019t send fwd:",
-        "url": "https://open.spotify.com/album/2g4aJTa5ejGpp0O0GKzWAQ"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 177750,
-      "name": "skinny dipping",
-      "url": "https://open.spotify.com/track/436RVcyrHyXdqYNWGYMxx5"
     },
     {
       "added_at": null,
@@ -603,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2kJnIPJHIRZlfOx0TZEKBP"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 233617,
-      "name": "I Knew You Were Trouble - Spotify Singles",
-      "url": "https://open.spotify.com/track/30QYxvXOJZhGBF6DvpNb8w"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "emails i can\u2019t send fwd:",
         "url": "https://open.spotify.com/album/2g4aJTa5ejGpp0O0GKzWAQ"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 243880,
       "name": "how many things",
       "url": "https://open.spotify.com/track/6NvlhDdVgFotNgPK30LM2T"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2kJnIPJHIRZlfOx0TZEKBP"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 233617,
+      "name": "I Knew You Were Trouble - Spotify Singles",
+      "url": "https://open.spotify.com/track/30QYxvXOJZhGBF6DvpNb8w"
     },
     {
       "added_at": null,

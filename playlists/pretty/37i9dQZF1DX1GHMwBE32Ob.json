@@ -1,6 +1,6 @@
 {
   "description": "From the trenches. Through the streets.\nCover: Zlatan",
-  "num_followers": 67951,
+  "num_followers": 68083,
   "original_name": "Street Energy ",
   "owner": {
     "name": "Spotify",
@@ -203,22 +203,6 @@
     {
       "added_at": "2024-10-04 05:43:02",
       "album": {
-        "name": "NAHAMciaga",
-        "url": "https://open.spotify.com/album/25W5Z67RX9uv82fijyx9Yk"
-      },
-      "artists": [
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        }
-      ],
-      "duration_ms": 123333,
-      "name": "Different Pattern",
-      "url": "https://open.spotify.com/track/7FB5261Iv3MRbSz13HYP5l"
-    },
-    {
-      "added_at": "2024-10-04 05:43:02",
-      "album": {
         "name": "Instagram",
         "url": "https://open.spotify.com/album/0GyUBLiSgnRIMnV0H6bP8S"
       },
@@ -259,22 +243,6 @@
     {
       "added_at": "2024-10-04 05:43:02",
       "album": {
-        "name": "MAFFIAN",
-        "url": "https://open.spotify.com/album/34MCeC9R3RzTxf3vzEJmWi"
-      },
-      "artists": [
-        {
-          "name": "Ayo Maff",
-          "url": "https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6"
-        }
-      ],
-      "duration_ms": 156428,
-      "name": "Are you there?",
-      "url": "https://open.spotify.com/track/10y7iW3rc8bzGbhAC3mNPA"
-    },
-    {
-      "added_at": "2024-10-04 05:43:02",
-      "album": {
         "name": "Egwu",
         "url": "https://open.spotify.com/album/4JlWlQoaf9gg1Ve5rzoSQi"
       },
@@ -291,6 +259,38 @@
       "duration_ms": 136132,
       "name": "Egwu",
       "url": "https://open.spotify.com/track/1IMRi5UVOV77PsAgdWDvzh"
+    },
+    {
+      "added_at": "2024-10-04 05:43:02",
+      "album": {
+        "name": "MAFFIAN",
+        "url": "https://open.spotify.com/album/34MCeC9R3RzTxf3vzEJmWi"
+      },
+      "artists": [
+        {
+          "name": "Ayo Maff",
+          "url": "https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6"
+        }
+      ],
+      "duration_ms": 156428,
+      "name": "Are you there?",
+      "url": "https://open.spotify.com/track/10y7iW3rc8bzGbhAC3mNPA"
+    },
+    {
+      "added_at": "2024-10-04 05:43:02",
+      "album": {
+        "name": "NAHAMciaga",
+        "url": "https://open.spotify.com/album/25W5Z67RX9uv82fijyx9Yk"
+      },
+      "artists": [
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "duration_ms": 123333,
+      "name": "Different Pattern",
+      "url": "https://open.spotify.com/track/7FB5261Iv3MRbSz13HYP5l"
     },
     {
       "added_at": "2024-10-04 05:43:02",
@@ -363,42 +363,6 @@
     {
       "added_at": "2024-10-04 05:43:02",
       "album": {
-        "name": "Stubborn (with Asake)",
-        "url": "https://open.spotify.com/album/6VgHyE8Qnldqdf6Ab8JR0b"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        },
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 176333,
-      "name": "Stubborn (with Asake)",
-      "url": "https://open.spotify.com/track/4cpxSBb2TRx8WJhQM1Jdpk"
-    },
-    {
-      "added_at": "2024-10-04 05:43:02",
-      "album": {
-        "name": "NAHAMciaga",
-        "url": "https://open.spotify.com/album/25W5Z67RX9uv82fijyx9Yk"
-      },
-      "artists": [
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "Cana",
-      "url": "https://open.spotify.com/track/652eb66Jp9rLJ3erEwaCio"
-    },
-    {
-      "added_at": "2024-10-04 05:43:02",
-      "album": {
         "name": "Timeless",
         "url": "https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS"
       },
@@ -415,6 +379,26 @@
       "duration_ms": 156212,
       "name": "NO COMPETITION (feat. Asake)",
       "url": "https://open.spotify.com/track/5DttTktPy0RMZPz4UNfFm4"
+    },
+    {
+      "added_at": "2024-10-04 05:43:02",
+      "album": {
+        "name": "Stubborn (with Asake)",
+        "url": "https://open.spotify.com/album/6VgHyE8Qnldqdf6Ab8JR0b"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        },
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 176333,
+      "name": "Stubborn (with Asake)",
+      "url": "https://open.spotify.com/track/4cpxSBb2TRx8WJhQM1Jdpk"
     },
     {
       "added_at": "2024-10-04 05:43:02",
@@ -451,6 +435,22 @@
     {
       "added_at": "2024-10-04 05:43:02",
       "album": {
+        "name": "NAHAMciaga",
+        "url": "https://open.spotify.com/album/25W5Z67RX9uv82fijyx9Yk"
+      },
+      "artists": [
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "Cana",
+      "url": "https://open.spotify.com/track/652eb66Jp9rLJ3erEwaCio"
+    },
+    {
+      "added_at": "2024-10-04 05:43:02",
+      "album": {
         "name": "Shakespopi",
         "url": "https://open.spotify.com/album/3DLGqqI7dfoKvk9EIpwpm4"
       },
@@ -483,26 +483,6 @@
     {
       "added_at": "2024-10-04 05:43:02",
       "album": {
-        "name": "Stubborn",
-        "url": "https://open.spotify.com/album/1dfsKiTgOKzA8sLHCNMuKc"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        },
-        {
-          "name": "Shallipopi",
-          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
-        }
-      ],
-      "duration_ms": 212041,
-      "name": "Ludo (with Shallipopi)",
-      "url": "https://open.spotify.com/track/6OljU9rEfG2u5mGhqmiqSJ"
-    },
-    {
-      "added_at": "2024-10-04 05:43:02",
-      "album": {
         "name": "I Told Them...",
         "url": "https://open.spotify.com/album/5PKl5yyetQ6mFeWK6ONbSH"
       },
@@ -519,46 +499,6 @@
       "duration_ms": 179485,
       "name": "Giza (feat. Seyi Vibez)",
       "url": "https://open.spotify.com/track/0UdBaetogSoEIO7fSD1334"
-    },
-    {
-      "added_at": "2024-10-04 05:43:02",
-      "album": {
-        "name": "WhatsApp",
-        "url": "https://open.spotify.com/album/1XzyxAC4BrXyqVmGNxM7vU"
-      },
-      "artists": [
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        },
-        {
-          "name": "Bloody Civilian",
-          "url": "https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K"
-        }
-      ],
-      "duration_ms": 134237,
-      "name": "WhatsApp",
-      "url": "https://open.spotify.com/track/2DRHfIWD9Mg70QgTxAKn4m"
-    },
-    {
-      "added_at": "2024-10-04 05:43:02",
-      "album": {
-        "name": "Zombie",
-        "url": "https://open.spotify.com/album/4vBwmlkNzKGOcfaNkYK59B"
-      },
-      "artists": [
-        {
-          "name": "Luca Zuccotti",
-          "url": "https://open.spotify.com/artist/455sSMlijr7BLQjQj2QbsO"
-        },
-        {
-          "name": "Portable",
-          "url": "https://open.spotify.com/artist/5Sq9h4GMnTD99EyfZmYgqe"
-        }
-      ],
-      "duration_ms": 148953,
-      "name": "Zombie",
-      "url": "https://open.spotify.com/track/6ZhqlOBOzMDNhM2IZD5X4H"
     },
     {
       "added_at": "2024-10-04 05:43:02",
@@ -583,6 +523,62 @@
     {
       "added_at": "2024-10-04 05:43:02",
       "album": {
+        "name": "HEHEHE",
+        "url": "https://open.spotify.com/album/5BF5mPFuH0K7iY7J4QgSg5"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "duration_ms": 113720,
+      "name": "HEHEHE",
+      "url": "https://open.spotify.com/track/4DzMHMREYvyb3L5JrE0YAt"
+    },
+    {
+      "added_at": "2024-10-04 05:43:02",
+      "album": {
+        "name": "Zombie",
+        "url": "https://open.spotify.com/album/4vBwmlkNzKGOcfaNkYK59B"
+      },
+      "artists": [
+        {
+          "name": "Luca Zuccotti",
+          "url": "https://open.spotify.com/artist/455sSMlijr7BLQjQj2QbsO"
+        },
+        {
+          "name": "Portable",
+          "url": "https://open.spotify.com/artist/5Sq9h4GMnTD99EyfZmYgqe"
+        }
+      ],
+      "duration_ms": 148953,
+      "name": "Zombie",
+      "url": "https://open.spotify.com/track/6ZhqlOBOzMDNhM2IZD5X4H"
+    },
+    {
+      "added_at": "2024-10-04 05:43:02",
+      "album": {
+        "name": "Stubborn",
+        "url": "https://open.spotify.com/album/1dfsKiTgOKzA8sLHCNMuKc"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        },
+        {
+          "name": "Shallipopi",
+          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
+        }
+      ],
+      "duration_ms": 212041,
+      "name": "Ludo (with Shallipopi)",
+      "url": "https://open.spotify.com/track/6OljU9rEfG2u5mGhqmiqSJ"
+    },
+    {
+      "added_at": "2024-10-04 05:43:02",
+      "album": {
         "name": "Reality",
         "url": "https://open.spotify.com/album/3BZHHMR8ILwVvXdTZi1spZ"
       },
@@ -603,18 +599,22 @@
     {
       "added_at": "2024-10-04 05:43:02",
       "album": {
-        "name": "HEHEHE",
-        "url": "https://open.spotify.com/album/5BF5mPFuH0K7iY7J4QgSg5"
+        "name": "WhatsApp",
+        "url": "https://open.spotify.com/album/1XzyxAC4BrXyqVmGNxM7vU"
       },
       "artists": [
         {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        },
+        {
+          "name": "Bloody Civilian",
+          "url": "https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K"
         }
       ],
-      "duration_ms": 113720,
-      "name": "HEHEHE",
-      "url": "https://open.spotify.com/track/4DzMHMREYvyb3L5JrE0YAt"
+      "duration_ms": 134237,
+      "name": "WhatsApp",
+      "url": "https://open.spotify.com/track/2DRHfIWD9Mg70QgTxAKn4m"
     },
     {
       "added_at": "2024-10-04 05:43:02",
@@ -691,18 +691,18 @@
     {
       "added_at": "2024-10-04 05:43:02",
       "album": {
-        "name": "Only Me",
-        "url": "https://open.spotify.com/album/5DmINnxz0XR8nixREQIjns"
+        "name": "Many Things",
+        "url": "https://open.spotify.com/album/1yS7tbUsMdT1D1tcwGKNIe"
       },
       "artists": [
         {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+          "name": "Zinoleesky",
+          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
         }
       ],
-      "duration_ms": 159310,
-      "name": "Only Me",
-      "url": "https://open.spotify.com/track/0GeZh7YiQRqYwHS2IdEskL"
+      "duration_ms": 167881,
+      "name": "Many Things",
+      "url": "https://open.spotify.com/track/7rIHP8C7oHYONnJpLjVnAc"
     },
     {
       "added_at": "2024-10-04 05:43:02",
@@ -727,18 +727,18 @@
     {
       "added_at": "2024-10-04 05:43:02",
       "album": {
-        "name": "Many Things",
-        "url": "https://open.spotify.com/album/1yS7tbUsMdT1D1tcwGKNIe"
+        "name": "Only Me",
+        "url": "https://open.spotify.com/album/5DmINnxz0XR8nixREQIjns"
       },
       "artists": [
         {
-          "name": "Zinoleesky",
-          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
         }
       ],
-      "duration_ms": 167881,
-      "name": "Many Things",
-      "url": "https://open.spotify.com/track/7rIHP8C7oHYONnJpLjVnAc"
+      "duration_ms": 159310,
+      "name": "Only Me",
+      "url": "https://open.spotify.com/track/0GeZh7YiQRqYwHS2IdEskL"
     },
     {
       "added_at": "2024-10-04 05:43:02",
@@ -831,26 +831,6 @@
     {
       "added_at": "2024-10-04 05:43:02",
       "album": {
-        "name": "Ogo",
-        "url": "https://open.spotify.com/album/2QCJ5G7FLUpo1nGvjWYC22"
-      },
-      "artists": [
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        },
-        {
-          "name": "Tion Wayne",
-          "url": "https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt"
-        }
-      ],
-      "duration_ms": 177000,
-      "name": "Ogo",
-      "url": "https://open.spotify.com/track/1zM2WWrMOt5Jt2jR39cBDp"
-    },
-    {
-      "added_at": "2024-10-04 05:43:02",
-      "album": {
         "name": "GWAGWALADA",
         "url": "https://open.spotify.com/album/0lgduYlejtLccLxJo5Q1fc"
       },
@@ -875,22 +855,22 @@
     {
       "added_at": "2024-10-04 05:43:02",
       "album": {
-        "name": "Puff & Pass (Remix)",
-        "url": "https://open.spotify.com/album/6FFmkwtLjXZm8jTKUsxp5p"
+        "name": "Ogo",
+        "url": "https://open.spotify.com/album/2QCJ5G7FLUpo1nGvjWYC22"
       },
       "artists": [
         {
-          "name": "Zerrydl",
-          "url": "https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd"
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
         },
         {
-          "name": "Shallipopi",
-          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
+          "name": "Tion Wayne",
+          "url": "https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt"
         }
       ],
-      "duration_ms": 161515,
-      "name": "Puff & Pass (Remix)",
-      "url": "https://open.spotify.com/track/7CIhImlbs2RtT58oKnvROT"
+      "duration_ms": 177000,
+      "name": "Ogo",
+      "url": "https://open.spotify.com/track/1zM2WWrMOt5Jt2jR39cBDp"
     },
     {
       "added_at": "2024-10-04 05:43:02",
@@ -907,6 +887,26 @@
       "duration_ms": 136551,
       "name": "Sunny Ade",
       "url": "https://open.spotify.com/track/2JtrWZrpNkbSEzG5m9phAV"
+    },
+    {
+      "added_at": "2024-10-04 05:43:02",
+      "album": {
+        "name": "Puff & Pass (Remix)",
+        "url": "https://open.spotify.com/album/6FFmkwtLjXZm8jTKUsxp5p"
+      },
+      "artists": [
+        {
+          "name": "Zerrydl",
+          "url": "https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd"
+        },
+        {
+          "name": "Shallipopi",
+          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
+        }
+      ],
+      "duration_ms": 161515,
+      "name": "Puff & Pass (Remix)",
+      "url": "https://open.spotify.com/track/7CIhImlbs2RtT58oKnvROT"
     },
     {
       "added_at": "2024-10-04 05:43:02",
@@ -1019,26 +1019,6 @@
     {
       "added_at": "2024-10-04 05:43:02",
       "album": {
-        "name": "Wara Wara Szn",
-        "url": "https://open.spotify.com/album/6ToVRccANedcEkdMa1eQQs"
-      },
-      "artists": [
-        {
-          "name": "Zerrydl",
-          "url": "https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd"
-        },
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        }
-      ],
-      "duration_ms": 180890,
-      "name": "Cash",
-      "url": "https://open.spotify.com/track/55gLtEmwF6yOkMUbSIXKUG"
-    },
-    {
-      "added_at": "2024-10-04 05:43:02",
-      "album": {
         "name": "Shutdown",
         "url": "https://open.spotify.com/album/5KfqTov6TpsIfY0wRrBNbC"
       },
@@ -1059,6 +1039,26 @@
     {
       "added_at": "2024-10-04 05:43:02",
       "album": {
+        "name": "Wara Wara Szn",
+        "url": "https://open.spotify.com/album/6ToVRccANedcEkdMa1eQQs"
+      },
+      "artists": [
+        {
+          "name": "Zerrydl",
+          "url": "https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd"
+        },
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "duration_ms": 180890,
+      "name": "Cash",
+      "url": "https://open.spotify.com/track/55gLtEmwF6yOkMUbSIXKUG"
+    },
+    {
+      "added_at": "2024-10-04 05:43:02",
+      "album": {
         "name": "Muyeez (Deluxe)",
         "url": "https://open.spotify.com/album/3z5ScTzthtKvfOzxc2XBE0"
       },
@@ -1075,26 +1075,6 @@
       "duration_ms": 154689,
       "name": "Trending",
       "url": "https://open.spotify.com/track/4Xik88j0lef96PqxYFR66a"
-    },
-    {
-      "added_at": "2024-10-04 05:43:02",
-      "album": {
-        "name": "Jiggy Forever",
-        "url": "https://open.spotify.com/album/6xr2tWr8pg5ndECtOD66lp"
-      },
-      "artists": [
-        {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
-        },
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        }
-      ],
-      "duration_ms": 134482,
-      "name": "50 Billion (feat. Zlatan)",
-      "url": "https://open.spotify.com/track/1MT5w1g81k0RyiWnXjJjIq"
     },
     {
       "added_at": "2024-10-04 05:43:02",
@@ -1127,6 +1107,26 @@
       "duration_ms": 155897,
       "name": "Terminator",
       "url": "https://open.spotify.com/track/4vI2KCvXTAPR3vfiWg1J78"
+    },
+    {
+      "added_at": "2024-10-04 05:43:02",
+      "album": {
+        "name": "Love, Damini",
+        "url": "https://open.spotify.com/album/1xaHgMftad2egI7Q4DX7Bc"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 209968,
+      "name": "Different Size (feat. Victony)",
+      "url": "https://open.spotify.com/track/5Z1vl9fO2iaqB7M6B6MLat"
     }
   ],
   "unique_name": "Street Energy ",

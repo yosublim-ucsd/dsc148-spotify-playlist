@@ -1,12 +1,12 @@
 {
   "description": "This Is Los Plebes del Rancho de Ariel Camacho. Los temas esenciales, todos en una lista.",
-  "num_followers": 156544,
+  "num_followers": 156573,
   "original_name": "This Is Los Plebes del Rancho de Ariel Camacho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zv3egAAAAAC80f9vneCzmRzyuULK7ZiA",
+  "snapshot_id": "ZwCBgAAAAADftKTL1ubjYAn9cUyYwSbI",
   "tracks": [
     {
       "added_at": null,
@@ -199,18 +199,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Recuerden Mi Estilo (Edici\u00f3n Deluxe)",
-        "url": "https://open.spotify.com/album/231JOhLcsYQsO2G4TDXHuZ"
+        "name": "Hay Niveles",
+        "url": "https://open.spotify.com/album/2YAsxLU1gVuByZyFqOLHgb"
       },
       "artists": [
         {
+          "name": "Akwid",
+          "url": "https://open.spotify.com/artist/3mYFuz6iY7D9X78rOXg5CG"
+        },
+        {
           "name": "Los Plebes del Rancho de Ariel Camacho",
           "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        },
+        {
+          "name": "P Chonch",
+          "url": "https://open.spotify.com/artist/3gonXKaPxROrPGKTgFlk5w"
         }
       ],
-      "duration_ms": 214946,
-      "name": "Con Cartitas Y Whatsapp",
-      "url": "https://open.spotify.com/track/6ghJqEFJbYzHbTb59uoR0z"
+      "duration_ms": 252285,
+      "name": "Hay Niveles",
+      "url": "https://open.spotify.com/track/7MGstXu3DxRkIZR20X4TPF"
     },
     {
       "added_at": null,
@@ -267,26 +275,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hay Niveles",
-        "url": "https://open.spotify.com/album/2YAsxLU1gVuByZyFqOLHgb"
+        "name": "Recuerden Mi Estilo (Edici\u00f3n Deluxe)",
+        "url": "https://open.spotify.com/album/231JOhLcsYQsO2G4TDXHuZ"
       },
       "artists": [
         {
-          "name": "Akwid",
-          "url": "https://open.spotify.com/artist/3mYFuz6iY7D9X78rOXg5CG"
-        },
-        {
           "name": "Los Plebes del Rancho de Ariel Camacho",
           "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
-        },
-        {
-          "name": "P Chonch",
-          "url": "https://open.spotify.com/artist/3gonXKaPxROrPGKTgFlk5w"
         }
       ],
-      "duration_ms": 252285,
-      "name": "Hay Niveles",
-      "url": "https://open.spotify.com/track/7MGstXu3DxRkIZR20X4TPF"
+      "duration_ms": 214946,
+      "name": "Con Cartitas Y Whatsapp",
+      "url": "https://open.spotify.com/track/6ghJqEFJbYzHbTb59uoR0z"
     },
     {
       "added_at": null,
@@ -487,6 +487,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "EN VIVO con Banda Sinaloense La Tuyia de Culiac\u00e1n, Sinaloa - En Vivo",
+        "url": "https://open.spotify.com/album/0FLKfCwVfCW9GKHBlrPm0s"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        }
+      ],
+      "duration_ms": 282349,
+      "name": "Me Llamas - En Vivo",
+      "url": "https://open.spotify.com/track/1fwGf1n0CaEuwA87zLZINk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Duren",
         "url": "https://open.spotify.com/album/3opbMuXUbqktLyqgZ0W7Cx"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 190423,
       "name": "Duren",
       "url": "https://open.spotify.com/track/11Hyc6dj7gEuTobhK9HDWa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "EN VIVO con Banda Sinaloense La Tuyia de Culiac\u00e1n, Sinaloa - En Vivo",
-        "url": "https://open.spotify.com/album/0FLKfCwVfCW9GKHBlrPm0s"
-      },
-      "artists": [
-        {
-          "name": "Los Plebes del Rancho de Ariel Camacho",
-          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
-        }
-      ],
-      "duration_ms": 282349,
-      "name": "Me Llamas - En Vivo",
-      "url": "https://open.spotify.com/track/1fwGf1n0CaEuwA87zLZINk"
     },
     {
       "added_at": null,
@@ -571,26 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cosas del Olvido",
-        "url": "https://open.spotify.com/album/2Q95jEf6GLOANI2jHaa0Nj"
-      },
-      "artists": [
-        {
-          "name": "Los 2 de la S",
-          "url": "https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc"
-        },
-        {
-          "name": "Los Plebes del Rancho de Ariel Camacho",
-          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
-        }
-      ],
-      "duration_ms": 178040,
-      "name": "Cosas del Olvido",
-      "url": "https://open.spotify.com/track/7pAErCAyqljlxLXvGIjNQY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Doble R - En Vivo",
         "url": "https://open.spotify.com/album/2xSF4vFFb451WNRx92gN03"
       },
@@ -607,6 +587,26 @@
       "duration_ms": 144871,
       "name": "El Doble R - En Vivo",
       "url": "https://open.spotify.com/track/3XqmCoHQEVrA1yuzUNssJ3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cosas del Olvido",
+        "url": "https://open.spotify.com/album/2Q95jEf6GLOANI2jHaa0Nj"
+      },
+      "artists": [
+        {
+          "name": "Los 2 de la S",
+          "url": "https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc"
+        },
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        }
+      ],
+      "duration_ms": 178040,
+      "name": "Cosas del Olvido",
+      "url": "https://open.spotify.com/track/7pAErCAyqljlxLXvGIjNQY"
     },
     {
       "added_at": null,
@@ -787,30 +787,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los Versos De Muel",
-        "url": "https://open.spotify.com/album/5xM2wgz9pBT3E9ohuJOY8a"
-      },
-      "artists": [
-        {
-          "name": "Darey de la Sierra",
-          "url": "https://open.spotify.com/artist/6ip6Hhqm3kIcVAMzbkT3YU"
-        },
-        {
-          "name": "Alfredo Olivas",
-          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
-        },
-        {
-          "name": "Los Plebes del Rancho de Ariel Camacho",
-          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
-        }
-      ],
-      "duration_ms": 205209,
-      "name": "Los Versos De Muel",
-      "url": "https://open.spotify.com/track/3YWOZ51Fvvz96VrrZfomJ2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Recuerden Mi Estilo (Edici\u00f3n Deluxe)",
         "url": "https://open.spotify.com/album/231JOhLcsYQsO2G4TDXHuZ"
       },
@@ -843,6 +819,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Los Versos De Muel",
+        "url": "https://open.spotify.com/album/5xM2wgz9pBT3E9ohuJOY8a"
+      },
+      "artists": [
+        {
+          "name": "Darey de la Sierra",
+          "url": "https://open.spotify.com/artist/6ip6Hhqm3kIcVAMzbkT3YU"
+        },
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        },
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        }
+      ],
+      "duration_ms": 205209,
+      "name": "Los Versos De Muel",
+      "url": "https://open.spotify.com/track/3YWOZ51Fvvz96VrrZfomJ2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Jugar a Los Besos",
         "url": "https://open.spotify.com/album/2jSFLjVvDjXvWAaSlWj5lw"
       },
@@ -863,6 +863,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "5 A\u00f1os Despues",
+        "url": "https://open.spotify.com/album/7uHs4aANFXcETXJ3REH0kM"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        }
+      ],
+      "duration_ms": 210134,
+      "name": "El Karma",
+      "url": "https://open.spotify.com/track/13R9AXTH4UccfzSof4Qecf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Costurera",
         "url": "https://open.spotify.com/album/3dY2FLPM4CzuNbKdVleabW"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 191688,
       "name": "La Careada",
       "url": "https://open.spotify.com/track/6IwQrjoquIhM1vVKXesoMF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "5 A\u00f1os Despues",
-        "url": "https://open.spotify.com/album/7uHs4aANFXcETXJ3REH0kM"
-      },
-      "artists": [
-        {
-          "name": "Los Plebes del Rancho de Ariel Camacho",
-          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
-        }
-      ],
-      "duration_ms": 210134,
-      "name": "El Karma",
-      "url": "https://open.spotify.com/track/13R9AXTH4UccfzSof4Qecf"
     }
   ],
   "unique_name": "This Is Los Plebes del Rancho de Ariel Camacho",

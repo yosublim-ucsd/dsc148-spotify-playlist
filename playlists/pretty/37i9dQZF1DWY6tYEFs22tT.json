@@ -1,6 +1,6 @@
 {
   "description": "Today's Hip-Hop with Tee Grizzley, J. Cole, A$AP Ferg, Future, Aitch and more.",
-  "num_followers": 815029,
+  "num_followers": 815016,
   "original_name": "Hip-Hop Central",
   "owner": {
     "name": "Spotify",
@@ -430,6 +430,10 @@
         {
           "name": "41",
           "url": "https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8"
+        },
+        {
+          "name": "Kyle Richh",
+          "url": "https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU"
         }
       ],
       "duration_ms": 199165,

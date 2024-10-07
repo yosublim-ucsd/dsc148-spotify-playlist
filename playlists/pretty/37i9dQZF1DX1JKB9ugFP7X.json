@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor del pop electr\u00f3nico en espa\u00f1ol.",
-  "num_followers": 24178,
+  "num_followers": 24182,
   "original_name": "ElectroPop",
   "owner": {
     "name": "Spotify",
@@ -323,18 +323,26 @@
     {
       "added_at": "2024-08-23 03:00:00",
       "album": {
-        "name": "Cerca",
-        "url": "https://open.spotify.com/album/1TUM8Vh8ZWkNfHc7LENZnP"
+        "name": "CHROME",
+        "url": "https://open.spotify.com/album/4bZaL9GsAnNFPJ1y10JIbG"
       },
       "artists": [
         {
-          "name": "Peces Raros",
-          "url": "https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9"
+          "name": "Saramalacara",
+          "url": "https://open.spotify.com/artist/3QchzUOTSCKWmaRGEEiuir"
+        },
+        {
+          "name": "dayvan",
+          "url": "https://open.spotify.com/artist/1eTInlBizrAteaACHeE85y"
+        },
+        {
+          "name": "Evar",
+          "url": "https://open.spotify.com/artist/0YWTSwecJ4cKrEQjrh46la"
         }
       ],
-      "duration_ms": 191571,
-      "name": "Cerca",
-      "url": "https://open.spotify.com/track/0GzgKVNy4E1E2R16zkKGOr"
+      "duration_ms": 160149,
+      "name": "CHROME",
+      "url": "https://open.spotify.com/track/3ufGWBFuPdZ2ckUF7hLIL8"
     },
     {
       "added_at": "2024-08-23 03:00:00",
@@ -371,26 +379,18 @@
     {
       "added_at": "2024-08-23 03:00:00",
       "album": {
-        "name": "CHROME",
-        "url": "https://open.spotify.com/album/4bZaL9GsAnNFPJ1y10JIbG"
+        "name": "Cerca",
+        "url": "https://open.spotify.com/album/1TUM8Vh8ZWkNfHc7LENZnP"
       },
       "artists": [
         {
-          "name": "Saramalacara",
-          "url": "https://open.spotify.com/artist/3QchzUOTSCKWmaRGEEiuir"
-        },
-        {
-          "name": "dayvan",
-          "url": "https://open.spotify.com/artist/1eTInlBizrAteaACHeE85y"
-        },
-        {
-          "name": "Evar",
-          "url": "https://open.spotify.com/artist/0YWTSwecJ4cKrEQjrh46la"
+          "name": "Peces Raros",
+          "url": "https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9"
         }
       ],
-      "duration_ms": 160149,
-      "name": "CHROME",
-      "url": "https://open.spotify.com/track/3ufGWBFuPdZ2ckUF7hLIL8"
+      "duration_ms": 191571,
+      "name": "Cerca",
+      "url": "https://open.spotify.com/track/0GzgKVNy4E1E2R16zkKGOr"
     },
     {
       "added_at": "2024-08-23 03:00:00",
@@ -719,6 +719,22 @@
     {
       "added_at": "2024-08-23 03:00:00",
       "album": {
+        "name": "TU SI K TA LOKO",
+        "url": "https://open.spotify.com/album/3wGWu2LA3agP0zM0uejUx0"
+      },
+      "artists": [
+        {
+          "name": "TAICHU",
+          "url": "https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN"
+        }
+      ],
+      "duration_ms": 170095,
+      "name": "TU SI K TA LOKO",
+      "url": "https://open.spotify.com/track/2u9No01x6M0p6DQwDFFZbA"
+    },
+    {
+      "added_at": "2024-08-23 03:00:00",
+      "album": {
         "name": "PARA AFUERA",
         "url": "https://open.spotify.com/album/7aQXo5nVGDCxkW2oOwDXv9"
       },
@@ -739,18 +755,18 @@
     {
       "added_at": "2024-08-23 03:00:00",
       "album": {
-        "name": "TU SI K TA LOKO",
-        "url": "https://open.spotify.com/album/3wGWu2LA3agP0zM0uejUx0"
+        "name": "la noche de ayer",
+        "url": "https://open.spotify.com/album/4e31Xo3NfTRxm9TdVgw4DR"
       },
       "artists": [
         {
-          "name": "TAICHU",
-          "url": "https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN"
+          "name": "chicarica",
+          "url": "https://open.spotify.com/artist/6FCUGgR9Bf7zx8q7Sog9dN"
         }
       ],
-      "duration_ms": 170095,
-      "name": "TU SI K TA LOKO",
-      "url": "https://open.spotify.com/track/2u9No01x6M0p6DQwDFFZbA"
+      "duration_ms": 255591,
+      "name": "la noche de ayer",
+      "url": "https://open.spotify.com/track/7aSmfvPckOTRr0AJ3rmCCF"
     },
     {
       "added_at": "2024-08-23 03:00:00",
@@ -767,22 +783,6 @@
       "duration_ms": 301120,
       "name": "La Casa del Amor Nocturno",
       "url": "https://open.spotify.com/track/6yi1h8v5YumwpW0wvWJFZs"
-    },
-    {
-      "added_at": "2024-08-23 03:00:00",
-      "album": {
-        "name": "la noche de ayer",
-        "url": "https://open.spotify.com/album/4e31Xo3NfTRxm9TdVgw4DR"
-      },
-      "artists": [
-        {
-          "name": "chicarica",
-          "url": "https://open.spotify.com/artist/6FCUGgR9Bf7zx8q7Sog9dN"
-        }
-      ],
-      "duration_ms": 255591,
-      "name": "la noche de ayer",
-      "url": "https://open.spotify.com/track/7aSmfvPckOTRr0AJ3rmCCF"
     },
     {
       "added_at": "2024-08-23 03:00:00",
@@ -931,22 +931,6 @@
     {
       "added_at": "2024-08-23 03:00:00",
       "album": {
-        "name": "Hay que venir al Sur",
-        "url": "https://open.spotify.com/album/79McrtCPCUlgiwEsAppGZC"
-      },
-      "artists": [
-        {
-          "name": "Ibiza Pareo",
-          "url": "https://open.spotify.com/artist/4JZdNNzzAhW7Ag2Vl1bZrw"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "Hay que venir al Sur",
-      "url": "https://open.spotify.com/track/2rHam5fmV5AFgHJNk80hHi"
-    },
-    {
-      "added_at": "2024-08-23 03:00:00",
-      "album": {
         "name": "PURA",
         "url": "https://open.spotify.com/album/2PAJpftisSwkakrKmheRcl"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 223133,
       "name": "VALOR",
       "url": "https://open.spotify.com/track/1pkGCeruFaTaIVsYrbw1f6"
+    },
+    {
+      "added_at": "2024-08-23 03:00:00",
+      "album": {
+        "name": "Hay que venir al Sur",
+        "url": "https://open.spotify.com/album/79McrtCPCUlgiwEsAppGZC"
+      },
+      "artists": [
+        {
+          "name": "Ibiza Pareo",
+          "url": "https://open.spotify.com/artist/4JZdNNzzAhW7Ag2Vl1bZrw"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "Hay que venir al Sur",
+      "url": "https://open.spotify.com/track/2rHam5fmV5AFgHJNk80hHi"
     },
     {
       "added_at": "2024-08-23 03:00:00",
@@ -1031,6 +1031,22 @@
     {
       "added_at": "2024-08-23 03:00:00",
       "album": {
+        "name": "Borracha en un Ba\u00f1o Ajeno",
+        "url": "https://open.spotify.com/album/4OTw7mFzyL9pKgNXOMd4EG"
+      },
+      "artists": [
+        {
+          "name": "Juliana Gattas",
+          "url": "https://open.spotify.com/artist/4beHLf0L7m2eBwhyifF9Kn"
+        }
+      ],
+      "duration_ms": 240531,
+      "name": "Borracha en un Ba\u00f1o Ajeno",
+      "url": "https://open.spotify.com/track/7Mvra8PCttugZU8ZqoMkZS"
+    },
+    {
+      "added_at": "2024-08-23 03:00:00",
+      "album": {
         "name": "TRIP",
         "url": "https://open.spotify.com/album/4R2oCsWPmQLLfRZUZwpjzh"
       },
@@ -1047,22 +1063,6 @@
       "duration_ms": 175161,
       "name": "TRIP",
       "url": "https://open.spotify.com/track/4qJZMkZWLkjXsddoBzAgpb"
-    },
-    {
-      "added_at": "2024-08-23 03:00:00",
-      "album": {
-        "name": "Borracha en un Ba\u00f1o Ajeno",
-        "url": "https://open.spotify.com/album/4OTw7mFzyL9pKgNXOMd4EG"
-      },
-      "artists": [
-        {
-          "name": "Juliana Gattas",
-          "url": "https://open.spotify.com/artist/4beHLf0L7m2eBwhyifF9Kn"
-        }
-      ],
-      "duration_ms": 240531,
-      "name": "Borracha en un Ba\u00f1o Ajeno",
-      "url": "https://open.spotify.com/track/7Mvra8PCttugZU8ZqoMkZS"
     },
     {
       "added_at": "2024-08-23 03:00:00",
@@ -1247,30 +1247,6 @@
     {
       "added_at": "2024-08-23 03:00:00",
       "album": {
-        "name": "PACTO",
-        "url": "https://open.spotify.com/album/0dKbnLynYN0dv4VB1KSB9S"
-      },
-      "artists": [
-        {
-          "name": "Anto Segovia",
-          "url": "https://open.spotify.com/artist/3ZDlV4860jpcqhmIincWHF"
-        },
-        {
-          "name": "Franco \"El Gorilla\"",
-          "url": "https://open.spotify.com/artist/2biH2I1TvZlIIIc5W14oIJ"
-        },
-        {
-          "name": "Criss J.",
-          "url": "https://open.spotify.com/artist/7K2LttekmuGSgw1Hy1wGDe"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "PACTO",
-      "url": "https://open.spotify.com/track/0CIRCBcH8KbFrRxYQPQR9v"
-    },
-    {
-      "added_at": "2024-08-23 03:00:00",
-      "album": {
         "name": "POKITO",
         "url": "https://open.spotify.com/album/6YcErFG20xGWeOk0SoDy9T"
       },
@@ -1331,6 +1307,30 @@
     {
       "added_at": "2024-08-23 03:00:00",
       "album": {
+        "name": "PACTO",
+        "url": "https://open.spotify.com/album/0dKbnLynYN0dv4VB1KSB9S"
+      },
+      "artists": [
+        {
+          "name": "Anto Segovia",
+          "url": "https://open.spotify.com/artist/3ZDlV4860jpcqhmIincWHF"
+        },
+        {
+          "name": "Franco \"El Gorilla\"",
+          "url": "https://open.spotify.com/artist/2biH2I1TvZlIIIc5W14oIJ"
+        },
+        {
+          "name": "Criss J.",
+          "url": "https://open.spotify.com/artist/7K2LttekmuGSgw1Hy1wGDe"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "PACTO",
+      "url": "https://open.spotify.com/track/0CIRCBcH8KbFrRxYQPQR9v"
+    },
+    {
+      "added_at": "2024-08-23 03:00:00",
+      "album": {
         "name": "El Magnetismo",
         "url": "https://open.spotify.com/album/3ZKaxyKkBsW1cE4YRux5th"
       },
@@ -1343,22 +1343,6 @@
       "duration_ms": 311386,
       "name": "El Magnetismo",
       "url": "https://open.spotify.com/track/5GcdywutbP0uMkrYnbW9NL"
-    },
-    {
-      "added_at": "2024-08-23 03:00:00",
-      "album": {
-        "name": "Derrumbe",
-        "url": "https://open.spotify.com/album/23csDME5tEskWfOBPW09mi"
-      },
-      "artists": [
-        {
-          "name": "Varese",
-          "url": "https://open.spotify.com/artist/5DG278QHnEKfWW9zAGFeRg"
-        }
-      ],
-      "duration_ms": 201947,
-      "name": "Derrumbe",
-      "url": "https://open.spotify.com/track/0YSBEGkXPVcJXLdhNIXx4q"
     },
     {
       "added_at": "2024-08-23 03:00:00",
@@ -1379,6 +1363,22 @@
       "duration_ms": 228443,
       "name": "Cuando Se Apague Todo",
       "url": "https://open.spotify.com/track/2qIWjqbvqHBEwl2p7cvsfk"
+    },
+    {
+      "added_at": "2024-08-23 03:00:00",
+      "album": {
+        "name": "Derrumbe",
+        "url": "https://open.spotify.com/album/23csDME5tEskWfOBPW09mi"
+      },
+      "artists": [
+        {
+          "name": "Varese",
+          "url": "https://open.spotify.com/artist/5DG278QHnEKfWW9zAGFeRg"
+        }
+      ],
+      "duration_ms": 201947,
+      "name": "Derrumbe",
+      "url": "https://open.spotify.com/track/0YSBEGkXPVcJXLdhNIXx4q"
     },
     {
       "added_at": "2024-08-23 03:00:00",
@@ -1471,6 +1471,22 @@
     {
       "added_at": "2024-08-23 03:00:00",
       "album": {
+        "name": "Marcha II",
+        "url": "https://open.spotify.com/album/06zWjeOA3MwBHLApKUS3Qs"
+      },
+      "artists": [
+        {
+          "name": "Laika Perra Rusa",
+          "url": "https://open.spotify.com/artist/1ENwhswPVedRKPgabgGxsb"
+        }
+      ],
+      "duration_ms": 224330,
+      "name": "Atentado en la Pista",
+      "url": "https://open.spotify.com/track/1kvNcx5MoS5XvMcIua4PfG"
+    },
+    {
+      "added_at": "2024-08-23 03:00:00",
+      "album": {
         "name": "El Im\u00e1n (Remix)",
         "url": "https://open.spotify.com/album/57eGpWYvr1Oknqn2wExxZe"
       },
@@ -1491,18 +1507,18 @@
     {
       "added_at": "2024-08-23 03:00:00",
       "album": {
-        "name": "Marcha II",
-        "url": "https://open.spotify.com/album/06zWjeOA3MwBHLApKUS3Qs"
+        "name": "La Monta\u00f1a",
+        "url": "https://open.spotify.com/album/0t3VjLfrjhOCj5IHHe6dIL"
       },
       "artists": [
         {
-          "name": "Laika Perra Rusa",
-          "url": "https://open.spotify.com/artist/1ENwhswPVedRKPgabgGxsb"
+          "name": "Fakuta",
+          "url": "https://open.spotify.com/artist/5qW2pOdPhEkkBlsUjcGdhD"
         }
       ],
-      "duration_ms": 224330,
-      "name": "Atentado en la Pista",
-      "url": "https://open.spotify.com/track/1kvNcx5MoS5XvMcIua4PfG"
+      "duration_ms": 235710,
+      "name": "La Monta\u00f1a",
+      "url": "https://open.spotify.com/track/580JHhlEFykGzMxEMepXW8"
     },
     {
       "added_at": "2024-08-23 03:00:00",
@@ -1519,22 +1535,6 @@
       "duration_ms": 181983,
       "name": "SHAMPOO",
       "url": "https://open.spotify.com/track/5nQNuWgtRHzQXTmnrb2Ysn"
-    },
-    {
-      "added_at": "2024-08-23 03:00:00",
-      "album": {
-        "name": "La Monta\u00f1a",
-        "url": "https://open.spotify.com/album/0t3VjLfrjhOCj5IHHe6dIL"
-      },
-      "artists": [
-        {
-          "name": "Fakuta",
-          "url": "https://open.spotify.com/artist/5qW2pOdPhEkkBlsUjcGdhD"
-        }
-      ],
-      "duration_ms": 235710,
-      "name": "La Monta\u00f1a",
-      "url": "https://open.spotify.com/track/580JHhlEFykGzMxEMepXW8"
     },
     {
       "added_at": "2024-08-23 03:00:00",
@@ -1687,6 +1687,22 @@
     {
       "added_at": "2024-08-23 03:00:00",
       "album": {
+        "name": "Guazatumba",
+        "url": "https://open.spotify.com/album/63nVyKVXvnLNnVR6x3mlxC"
+      },
+      "artists": [
+        {
+          "name": "Dani Umpi",
+          "url": "https://open.spotify.com/artist/1KYLoFQ7Cwm4eOHruB5OMI"
+        }
+      ],
+      "duration_ms": 229726,
+      "name": "Circular",
+      "url": "https://open.spotify.com/track/21Rw3bEHD9hdwDIpD3BaWk"
+    },
+    {
+      "added_at": "2024-08-23 03:00:00",
+      "album": {
         "name": "Peces Raros (Vivo Buenos Aires)",
         "url": "https://open.spotify.com/album/4JeBmwhPxwCmyT7nCjO5yZ"
       },
@@ -1727,22 +1743,6 @@
     {
       "added_at": "2024-08-23 03:00:00",
       "album": {
-        "name": "Guazatumba",
-        "url": "https://open.spotify.com/album/63nVyKVXvnLNnVR6x3mlxC"
-      },
-      "artists": [
-        {
-          "name": "Dani Umpi",
-          "url": "https://open.spotify.com/artist/1KYLoFQ7Cwm4eOHruB5OMI"
-        }
-      ],
-      "duration_ms": 229726,
-      "name": "Circular",
-      "url": "https://open.spotify.com/track/21Rw3bEHD9hdwDIpD3BaWk"
-    },
-    {
-      "added_at": "2024-08-23 03:00:00",
-      "album": {
         "name": "Noche de Vampiros",
         "url": "https://open.spotify.com/album/2T2TvM0TON3sdK0TOofI5n"
       },
@@ -1759,18 +1759,18 @@
     {
       "added_at": "2024-08-23 03:00:00",
       "album": {
-        "name": "Ficci\u00f3n",
-        "url": "https://open.spotify.com/album/7kqvgYRCFIHjRTEXnVjSWW"
+        "name": "MA\u00d1ANA ES PEOR :(",
+        "url": "https://open.spotify.com/album/3QT37bIN5jVM4cZ0MgHeGd"
       },
       "artists": [
         {
-          "name": "Varese",
-          "url": "https://open.spotify.com/artist/5DG278QHnEKfWW9zAGFeRg"
+          "name": "FERMIN",
+          "url": "https://open.spotify.com/artist/6ugrj0FCDIKINVrQP9sPJz"
         }
       ],
-      "duration_ms": 201601,
-      "name": "Ficci\u00f3n",
-      "url": "https://open.spotify.com/track/19ql2PoaEn31alAgeIpsp1"
+      "duration_ms": 225746,
+      "name": "PARQUE DE LA COSTA",
+      "url": "https://open.spotify.com/track/6YAn9OEzg7816kMXnXUYA4"
     }
   ],
   "unique_name": "ElectroPop",

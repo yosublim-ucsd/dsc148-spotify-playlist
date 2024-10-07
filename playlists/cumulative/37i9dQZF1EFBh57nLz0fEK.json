@@ -926,6 +926,24 @@
     {
       "album": {
         "name": "Golden Age - The 4th Album",
+        "url": "https://open.spotify.com/album/4Ak9980f17f2WqNsopebAA"
+      },
+      "artists": [
+        {
+          "name": "NCT U",
+          "url": "https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ"
+        }
+      ],
+      "date_added": "2024-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127493,
+      "name": "Interlude: Oasis",
+      "url": "https://open.spotify.com/track/1T9vJo1IkbhopAo9nojNkM"
+    },
+    {
+      "album": {
+        "name": "Golden Age - The 4th Album",
         "url": "https://open.spotify.com/album/5mUo2e4QpUA7NJl2t51uFu"
       },
       "artists": [
@@ -936,7 +954,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-07",
       "duration_ms": 127493,
       "name": "Interlude: Oasis",
       "url": "https://open.spotify.com/track/5vJQ9vMJUE585xcIC5RPW9"

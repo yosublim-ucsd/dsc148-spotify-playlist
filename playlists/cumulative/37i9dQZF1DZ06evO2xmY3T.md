@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DZ06evO2xmY3T.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO2xmY3T) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO2xmY3T)
 
-### [This Is Cardi B](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2xmY3T)
+### [This is Cardi B](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2xmY3T)
 
-> This Is Cardi B\. Los temas esenciales, todos en una lista.
+> This is Cardi B\. De essentiële nummers, allemaal in één playlist.
 
 66 songs - 3 hr 43 min
 

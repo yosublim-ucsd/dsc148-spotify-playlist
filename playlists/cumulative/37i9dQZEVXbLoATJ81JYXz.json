@@ -8191,6 +8191,24 @@
     },
     {
       "album": {
+        "name": "Escape (2022 Remaster)",
+        "url": "https://open.spotify.com/album/4guAwaniEAEQSW0NCpo4gm"
+      },
+      "artists": [
+        {
+          "name": "Journey",
+          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
+        }
+      ],
+      "date_added": "2024-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249600,
+      "name": "Don't Stop Believin' (2022 Remaster)",
+      "url": "https://open.spotify.com/track/5RKQ5NdjSh2QzD4MaunT91"
+    },
+    {
+      "album": {
         "name": "Don't You Hold Me Down",
         "url": "https://open.spotify.com/album/5KQgg5bFgzVeQeZ0E4mxSQ"
       },
@@ -21666,7 +21684,7 @@
       ],
       "date_added": "2024-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-07",
       "duration_ms": 127200,
       "name": "Lover",
       "url": "https://open.spotify.com/track/28tmgW1cStfjnvE3zQARhd"
@@ -23766,7 +23784,7 @@
       ],
       "date_added": "2024-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-17",
+      "date_removed": null,
       "duration_ms": 191140,
       "name": "Misstag",
       "url": "https://open.spotify.com/track/7Gfzl9QQrLcwtKV0G7x5Hf"
@@ -27220,7 +27238,7 @@
       ],
       "date_added": "2024-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-07",
       "duration_ms": 131764,
       "name": "Po\u00e4ngplockarna",
       "url": "https://open.spotify.com/track/6e3OK7sF64zXh4H9mmreOc"
@@ -28602,6 +28620,24 @@
       "duration_ms": 144240,
       "name": "Rik N\u00e4r Jag D\u00f6r",
       "url": "https://open.spotify.com/track/2qaLGs4i8KjajslMwpA3f6"
+    },
+    {
+      "album": {
+        "name": "RIKERUD",
+        "url": "https://open.spotify.com/album/3cx4pSNIQnVbtNN4wYlCHj"
+      },
+      "artists": [
+        {
+          "name": "Soppgirobygget",
+          "url": "https://open.spotify.com/artist/03SBMfoHX3EUENFwFoLN5i"
+        }
+      ],
+      "date_added": "2024-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144322,
+      "name": "RIKERUD",
+      "url": "https://open.spotify.com/track/2PYZBeiZ6ofXQR0Ql7BuGS"
     },
     {
       "album": {
@@ -30644,7 +30680,7 @@
       ],
       "date_added": "2024-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-07",
       "duration_ms": 143437,
       "name": "Ska Du Med",
       "url": "https://open.spotify.com/track/2OBPcWM3GYFpGvaCRoTYlg"
@@ -32642,7 +32678,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-06",
+      "date_removed": null,
       "duration_ms": 166216,
       "name": "Stj\u00e4rnorna",
       "url": "https://open.spotify.com/track/5jlAu4lHHVzheutRcbDklk"
@@ -37920,7 +37956,7 @@
       ],
       "date_added": "2024-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-07",
       "duration_ms": 188800,
       "name": "V\u00e4rlden \u00e4r inte vacker (men det \u00e4r vi)",
       "url": "https://open.spotify.com/track/4kpu0HVUbw1Ozb1pV1pXIX"

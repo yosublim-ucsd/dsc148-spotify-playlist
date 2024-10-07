@@ -2817,6 +2817,28 @@
     },
     {
       "album": {
+        "name": "Anti Romantica",
+        "url": "https://open.spotify.com/album/0eKLypqjx8bQQyVeTRBAa9"
+      },
+      "artists": [
+        {
+          "name": "Pia Mia",
+          "url": "https://open.spotify.com/artist/1BhWF9W2PngtPSyobKg0rP"
+        },
+        {
+          "name": "Marc E. Bassy",
+          "url": "https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa"
+        }
+      ],
+      "date_added": "2024-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148133,
+      "name": "Wish You Well",
+      "url": "https://open.spotify.com/track/6uPEY1yrE8gu9Rdcs07Ngv"
+    },
+    {
+      "album": {
         "name": "TAKE TIME",
         "url": "https://open.spotify.com/album/6A4gPuP784SSVFz0Hwiom3"
       },

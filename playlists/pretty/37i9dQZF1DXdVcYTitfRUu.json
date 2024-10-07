@@ -1,6 +1,6 @@
 {
   "description": "\uac10\uc131 \uac00\ub4dd\ud55c \ub178\ub798\uc640 \ud568\uaed8 \ubd80\ub4dc\ub7fd\uac8c \ud578\ub4e4\uc744 \ub3cc\ub824\ubcf4\uc138\uc694.",
-  "num_followers": 10538,
+  "num_followers": 10547,
   "original_name": "\ub4dc\ub77c\uc774\ube59 \uac10\uc131+ (K-Pop Emotional Driving)",
   "owner": {
     "name": "Spotify",
@@ -91,6 +91,22 @@
     {
       "added_at": "2024-09-23 03:14:11",
       "album": {
+        "name": "Layover",
+        "url": "https://open.spotify.com/album/1ZBDI1LqnuAKdrePUF2D5m"
+      },
+      "artists": [
+        {
+          "name": "V",
+          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
+        }
+      ],
+      "duration_ms": 179560,
+      "name": "Rainy Days",
+      "url": "https://open.spotify.com/track/5ydjxBSUIDn26MFzU3asP4"
+    },
+    {
+      "added_at": "2024-09-23 03:14:11",
+      "album": {
         "name": "Queen of Tears (Original Television Soundtrack), Pt.1",
         "url": "https://open.spotify.com/album/79h63Z1mzFq1ssg3tCXyzF"
       },
@@ -119,22 +135,6 @@
       "duration_ms": 223302,
       "name": "Closer Than This",
       "url": "https://open.spotify.com/track/3k6q0O9JnO2GhvD6C8fs20"
-    },
-    {
-      "added_at": "2024-09-23 03:14:11",
-      "album": {
-        "name": "Layover",
-        "url": "https://open.spotify.com/album/1ZBDI1LqnuAKdrePUF2D5m"
-      },
-      "artists": [
-        {
-          "name": "V",
-          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
-        }
-      ],
-      "duration_ms": 179560,
-      "name": "Rainy Days",
-      "url": "https://open.spotify.com/track/5ydjxBSUIDn26MFzU3asP4"
     },
     {
       "added_at": "2024-09-23 03:14:11",
@@ -331,6 +331,22 @@
     {
       "added_at": "2024-09-23 03:14:11",
       "album": {
+        "name": "Grain of Sand",
+        "url": "https://open.spotify.com/album/1Sf3c8MEe4cXaxZzOKgnhc"
+      },
+      "artists": [
+        {
+          "name": "Lim Young Woong",
+          "url": "https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR"
+        }
+      ],
+      "duration_ms": 220309,
+      "name": "Grain of Sand",
+      "url": "https://open.spotify.com/track/4WUpMUjdoi47LY7gBQBXe3"
+    },
+    {
+      "added_at": "2024-09-23 03:14:11",
+      "album": {
         "name": "Brother Act.",
         "url": "https://open.spotify.com/album/3oXEVu3gwToJRkE2xAW44a"
       },
@@ -391,22 +407,6 @@
       "duration_ms": 238693,
       "name": "Dream",
       "url": "https://open.spotify.com/track/5DIooJbJaNbxidKBMbk2ts"
-    },
-    {
-      "added_at": "2024-09-23 03:14:11",
-      "album": {
-        "name": "Grain of Sand",
-        "url": "https://open.spotify.com/album/1Sf3c8MEe4cXaxZzOKgnhc"
-      },
-      "artists": [
-        {
-          "name": "Lim Young Woong",
-          "url": "https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR"
-        }
-      ],
-      "duration_ms": 220309,
-      "name": "Grain of Sand",
-      "url": "https://open.spotify.com/track/4WUpMUjdoi47LY7gBQBXe3"
     },
     {
       "added_at": "2024-09-23 03:14:11",
@@ -475,22 +475,6 @@
     {
       "added_at": "2024-09-23 03:14:11",
       "album": {
-        "name": "IM HERO",
-        "url": "https://open.spotify.com/album/5ITErfEiF1nEo8KTRgLv43"
-      },
-      "artists": [
-        {
-          "name": "Lim Young Woong",
-          "url": "https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR"
-        }
-      ],
-      "duration_ms": 274386,
-      "name": "If We Ever Meet Again",
-      "url": "https://open.spotify.com/track/2RLdkXSaiQjRbey5pvP8Kt"
-    },
-    {
-      "added_at": "2024-09-23 03:14:11",
-      "album": {
         "name": "BLOSSOM - THE 3RD MINI ALBUM",
         "url": "https://open.spotify.com/album/6ZlXpA35FslDym9FIKaygk"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 215946,
       "name": "About Time",
       "url": "https://open.spotify.com/track/5QZTJG7X1ocodzYKmyhFoD"
+    },
+    {
+      "added_at": "2024-09-23 03:14:11",
+      "album": {
+        "name": "IM HERO",
+        "url": "https://open.spotify.com/album/5ITErfEiF1nEo8KTRgLv43"
+      },
+      "artists": [
+        {
+          "name": "Lim Young Woong",
+          "url": "https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR"
+        }
+      ],
+      "duration_ms": 274386,
+      "name": "If We Ever Meet Again",
+      "url": "https://open.spotify.com/track/2RLdkXSaiQjRbey5pvP8Kt"
     },
     {
       "added_at": "2024-09-23 03:14:11",
@@ -887,22 +887,6 @@
     {
       "added_at": "2024-09-23 03:14:11",
       "album": {
-        "name": "Destined with You (Original Television Soundtrack), Pt.1",
-        "url": "https://open.spotify.com/album/45i3tB9z0dgJ33olyrsLUz"
-      },
-      "artists": [
-        {
-          "name": "PARK WON",
-          "url": "https://open.spotify.com/artist/1XujSdsxykPhP3dn6HaT4l"
-        }
-      ],
-      "duration_ms": 203746,
-      "name": "It's You",
-      "url": "https://open.spotify.com/track/3YP99J8wTzG55t1cFmd6iq"
-    },
-    {
-      "added_at": "2024-09-23 03:14:11",
-      "album": {
         "name": "If you lovingly call my name (GyeongseoYeji x Jeon Gunho)",
         "url": "https://open.spotify.com/album/1QD2UJupusQ9zBsldpvS3d"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 231338,
       "name": "If you lovingly call my name",
       "url": "https://open.spotify.com/track/0tgxvf4rqBBeEB54h0nnRD"
+    },
+    {
+      "added_at": "2024-09-23 03:14:11",
+      "album": {
+        "name": "Destined with You (Original Television Soundtrack), Pt.1",
+        "url": "https://open.spotify.com/album/45i3tB9z0dgJ33olyrsLUz"
+      },
+      "artists": [
+        {
+          "name": "PARK WON",
+          "url": "https://open.spotify.com/artist/1XujSdsxykPhP3dn6HaT4l"
+        }
+      ],
+      "duration_ms": 203746,
+      "name": "It's You",
+      "url": "https://open.spotify.com/track/3YP99J8wTzG55t1cFmd6iq"
     },
     {
       "added_at": "2024-09-23 03:14:11",
@@ -951,30 +951,6 @@
       "duration_ms": 243853,
       "name": "Let's Say Goodbye",
       "url": "https://open.spotify.com/track/2KNEK9rGKQKKNE6FTt8PvQ"
-    },
-    {
-      "added_at": "2024-09-23 03:14:11",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4GZRmEX6O0phLnNuH6xBR5"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        },
-        {
-          "name": "KATIE",
-          "url": "https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO"
-        },
-        {
-          "name": "WOOGIE",
-          "url": "https://open.spotify.com/artist/7C0lSOS41UnTbnF7bMSEWN"
-        }
-      ],
-      "duration_ms": 228226,
-      "name": "Rock With You - Spotify Singles",
-      "url": "https://open.spotify.com/track/1hncbzqfhChm8PS0UeoVY6"
     },
     {
       "added_at": "2024-09-23 03:14:11",
@@ -1023,6 +999,30 @@
       "duration_ms": 227960,
       "name": "DrunKen Confession",
       "url": "https://open.spotify.com/track/0hqngwyh8WnPuYlLYHRQqp"
+    },
+    {
+      "added_at": "2024-09-23 03:14:11",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4GZRmEX6O0phLnNuH6xBR5"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "KATIE",
+          "url": "https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO"
+        },
+        {
+          "name": "WOOGIE",
+          "url": "https://open.spotify.com/artist/7C0lSOS41UnTbnF7bMSEWN"
+        }
+      ],
+      "duration_ms": 228226,
+      "name": "Rock With You - Spotify Singles",
+      "url": "https://open.spotify.com/track/1hncbzqfhChm8PS0UeoVY6"
     },
     {
       "added_at": "2024-09-23 03:14:11",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2024-09-23 03:14:11",
       "album": {
-        "name": "Promise",
-        "url": "https://open.spotify.com/album/1g68tNYMO5iS3P2y74vqZ6"
-      },
-      "artists": [
-        {
-          "name": "JUNNY",
-          "url": "https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr"
-        }
-      ],
-      "duration_ms": 175866,
-      "name": "Promise",
-      "url": "https://open.spotify.com/track/79cmYpry5DEPtK4KbmAUqj"
-    },
-    {
-      "added_at": "2024-09-23 03:14:11",
-      "album": {
         "name": "Flower in the Desert",
         "url": "https://open.spotify.com/album/5MJEKw6CnDkmjDBl4LwVnM"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 259133,
       "name": "Flower in the Desert - Kor Version",
       "url": "https://open.spotify.com/track/7M3POeMOBCs6pwtDkVhBTi"
+    },
+    {
+      "added_at": "2024-09-23 03:14:11",
+      "album": {
+        "name": "Promise",
+        "url": "https://open.spotify.com/album/1g68tNYMO5iS3P2y74vqZ6"
+      },
+      "artists": [
+        {
+          "name": "JUNNY",
+          "url": "https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr"
+        }
+      ],
+      "duration_ms": 175866,
+      "name": "Promise",
+      "url": "https://open.spotify.com/track/79cmYpry5DEPtK4KbmAUqj"
     },
     {
       "added_at": "2024-09-23 03:14:11",
@@ -1227,26 +1227,6 @@
     {
       "added_at": "2024-09-23 03:14:11",
       "album": {
-        "name": "WONDO Project : LOVE RECIPE, Vol.1",
-        "url": "https://open.spotify.com/album/7lPcHUovL3U9KU72VCPqJ7"
-      },
-      "artists": [
-        {
-          "name": "SOYOU",
-          "url": "https://open.spotify.com/artist/3b4kLCI0ZJW47TFsNRqgCb"
-        },
-        {
-          "name": "Junggigo",
-          "url": "https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb"
-        }
-      ],
-      "duration_ms": 231386,
-      "name": "LOVE RECIPE",
-      "url": "https://open.spotify.com/track/5R8MbzkUpTigzAXHsnoYpq"
-    },
-    {
-      "added_at": "2024-09-23 03:14:11",
-      "album": {
         "name": "Heart",
         "url": "https://open.spotify.com/album/3MGuNgtEJTCkgHtiMFfARP"
       },
@@ -1275,6 +1255,26 @@
       "duration_ms": 222305,
       "name": "Shining on Your Night",
       "url": "https://open.spotify.com/track/0w8gFJyJ2QmNDsHYy0KEa6"
+    },
+    {
+      "added_at": "2024-09-23 03:14:11",
+      "album": {
+        "name": "WONDO Project : LOVE RECIPE, Vol.1",
+        "url": "https://open.spotify.com/album/7lPcHUovL3U9KU72VCPqJ7"
+      },
+      "artists": [
+        {
+          "name": "SOYOU",
+          "url": "https://open.spotify.com/artist/3b4kLCI0ZJW47TFsNRqgCb"
+        },
+        {
+          "name": "Junggigo",
+          "url": "https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb"
+        }
+      ],
+      "duration_ms": 231386,
+      "name": "LOVE RECIPE",
+      "url": "https://open.spotify.com/track/5R8MbzkUpTigzAXHsnoYpq"
     },
     {
       "added_at": "2024-09-23 03:14:11",

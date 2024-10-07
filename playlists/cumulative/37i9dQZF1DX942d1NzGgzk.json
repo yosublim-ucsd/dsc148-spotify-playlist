@@ -3255,6 +3255,24 @@
     },
     {
       "album": {
+        "name": "MAGIC",
+        "url": "https://open.spotify.com/album/5t2ZdRVGR4wlesejFr47qs"
+      },
+      "artists": [
+        {
+          "name": "Reuben Aziz",
+          "url": "https://open.spotify.com/artist/7si4D4nUA1Z9WKUV58hhnh"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187245,
+      "name": "MAGIC",
+      "url": "https://open.spotify.com/track/5jDbIt9JdzAs0CRCf5dYeT"
+    },
+    {
+      "album": {
         "name": "Mama",
         "url": "https://open.spotify.com/album/69FkeUCPWxz01Ppt1FLDB6"
       },
@@ -5476,7 +5494,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-07",
       "duration_ms": 200000,
       "name": "Undone",
       "url": "https://open.spotify.com/track/4eRQ0iaCuuojLwKDZJQdc9"

@@ -4,7 +4,7 @@
 
 > Forget it and disappear with deep & melodic <a href="spotify:genre:edm\_dance">house</a>.
 
-551 songs - 1 day 22 hr 30 min
+552 songs - 1 day 22 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -302,6 +302,7 @@
 | [Moss](https://open.spotify.com/track/7CWPISyLM8VcTvXgQ9bDnb) | [Tim Green](https://open.spotify.com/artist/68vO4fkFxLbWPxTSHosxsB) | [The Moss EP](https://open.spotify.com/album/2yEtkz4SXh425SP5g2xyat) | 8:53 | 2023-11-17 | 2024-04-19 |
 | [Mountain \- Tornado Wallace Remix](https://open.spotify.com/track/6q0VRNXzaJssSM1V4zd6uR) | [Damian Lazarus](https://open.spotify.com/artist/3EIJ8wiUHbgkRCt5cpRrQv), [Tornado Wallace](https://open.spotify.com/artist/6GNWPphcJ5CtIwCJVV1lLT) | [Mountain](https://open.spotify.com/album/6leiaw0XcRmeYRsuCPjyu9) | 6:02 | 2021-12-08 | 2022-07-29 |
 | [Movement](https://open.spotify.com/track/2eqjFIb55WVN7iYx8ixUZY) | [TWO LANES](https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k) | [Movement](https://open.spotify.com/album/5PgQAA0U4L0NuLLslJ9hqq) | 6:11 | 2023-05-26 |  |
+| [Mui](https://open.spotify.com/track/6iAZMSMZsHhDlAbVFW5cy5) | [Jody Wisternoff](https://open.spotify.com/artist/5gTVJRQmuS88nOhhdHqErL), [James Grant](https://open.spotify.com/artist/45fFrwMq6sPP5P4k1qqFi7), [PROFF](https://open.spotify.com/artist/3jAosRBCdrybxqTnrI4Sld), [Takeshi Furukawa](https://open.spotify.com/artist/1nmiCVZ0sfOQm43MGc9wr5), [Siobhan Wilson](https://open.spotify.com/artist/4EDH5c8x5E958c3AUwqvlp) | [Mui](https://open.spotify.com/album/79aRKxxsfi9Od9Wan4qEZV) | 4:03 | 2024-10-04 |  |
 | [Muyè](https://open.spotify.com/track/5WgW9bG91h4zRUnBr97d6c) | [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z) | [You Are Safe](https://open.spotify.com/album/7lg5i5BW3Fhmay7kEpyORQ) | 7:49 | 2021-12-08 | 2022-02-22 |
 | [My Everything](https://open.spotify.com/track/75r1wc5lI6XCxGVBRSJ5lY) | [Nico de Andrea](https://open.spotify.com/artist/3h1aCZ3gZ4zIWxnsxcBrPD), [Darla Jade](https://open.spotify.com/artist/615ZycClQL8KQ8qzZiuP8T) | [My Everything](https://open.spotify.com/album/4tcOPBWRItn1GZFefCAOQd) | 3:48 | 2023-02-17 |  |
 | [My Lullaby for You](https://open.spotify.com/track/4WpbJlrScdfbCilNSJKLRt) | [Nina Kraviz](https://open.spotify.com/artist/1oZmFNkGAT93yD1xX4vTRE), [Bara Nova](https://open.spotify.com/artist/2jzbYdD55IHAm5Rk7RHoYf) | [Cyberpunk 2077: Radio, Vol\. 4 \(Original Soundtrack\)](https://open.spotify.com/album/3j8Mg3DogmEVXNYrHbDWeX) | 5:34 | 2021-12-08 | 2022-02-22 |
@@ -374,7 +375,7 @@
 | [Please \- Jeff Samuel Remix](https://open.spotify.com/track/1jZqT8S8zfyLBw0BdCQn6X) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN), [Jeff Samuel](https://open.spotify.com/artist/2kSdN6nN2KC4Lz0F4soiU2) | [Blood Remixed](https://open.spotify.com/album/1AvkRISSdzC7cq7eLoS5w1) | 7:07 | 2022-05-03 | 2022-11-17 |
 | [Please \- Jeff Samuel Remix](https://open.spotify.com/track/5hNNUmZYDpn3ECksD3SxoB) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN), [Jeff Samuel](https://open.spotify.com/artist/2kSdN6nN2KC4Lz0F4soiU2) | [Blood Remixed](https://open.spotify.com/album/1NAMSrLzMJw5BlVeHn8Nqy) | 7:07 | 2021-12-08 | 2022-07-27 |
 | [Poison Of Choice](https://open.spotify.com/track/72zZ2KOn7JbTFsALUmhpt0) | [Natascha Polké](https://open.spotify.com/artist/5FLN3H4PiuUQMmFzGmcQ96) | [Poison Of Choice](https://open.spotify.com/album/0OyTVoG2ISGrLG3UNnLicA) | 4:01 | 2024-04-12 |  |
-| [potluck](https://open.spotify.com/track/0DeAJmckih4dColRzcdHrA) | [galen tipton](https://open.spotify.com/artist/4yk43MhqPWsrrzoRyoMZhv), [Holly Waxwing](https://open.spotify.com/artist/65vLeQ3wfcwF6NJobtlpBv), [Ari Liloia](https://open.spotify.com/artist/6rYxB2pEDc1emPnoDq8rg3) | [potluck](https://open.spotify.com/album/7z61N7PSOhMOFWpnF7uDvb) | 4:36 | 2024-08-09 |  |
+| [potluck](https://open.spotify.com/track/0DeAJmckih4dColRzcdHrA) | [galen tipton](https://open.spotify.com/artist/4yk43MhqPWsrrzoRyoMZhv), [Holly Waxwing](https://open.spotify.com/artist/65vLeQ3wfcwF6NJobtlpBv), [Ari Liloia](https://open.spotify.com/artist/6rYxB2pEDc1emPnoDq8rg3) | [potluck](https://open.spotify.com/album/7z61N7PSOhMOFWpnF7uDvb) | 4:36 | 2024-08-09 | 2024-10-07 |
 | [Protection \- Hold Me Rework](https://open.spotify.com/track/1WZeyPexMk2LSa7ABz9wdZ) | [Col Lawton](https://open.spotify.com/artist/1KoBr4hgTMG3lPR353sNqm) | [Protection](https://open.spotify.com/album/5sGuW9SXq65vmKq2UdFl4z) | 7:05 | 2021-12-08 | 2023-05-06 |
 | [Pulse](https://open.spotify.com/track/0yiDIWdcHNeXfDwdeCMxsR) | [Maya Jane Coles](https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2) | [Take Flight](https://open.spotify.com/album/3rXWQmHvNCyvpRm48CsYwP) | 4:43 | 2023-12-01 | 2024-04-13 |
 | [Pulse](https://open.spotify.com/track/6KqC7YNOcqYh5J5cNb1gbw) | [Maya Jane Coles](https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2) | [Take Flight](https://open.spotify.com/album/0d6ky7EGJ0DBxCsSR9R5SR) | 4:43 | 2022-05-03 | 2023-11-04 |

@@ -1,33 +1,13 @@
 {
   "description": "This is Codiciado. The essential tracks, all in one playlist.",
-  "num_followers": 31921,
+  "num_followers": 31940,
   "original_name": "This Is Codiciado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zv3egAAAAACWsmhJtSKTO3SU/H7CiJ7k",
+  "snapshot_id": "ZwCBgAAAAAAPLM7uEKtBjYGLiJzsRVyy",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mimimi",
-        "url": "https://open.spotify.com/album/0MOXg9oBtugZseTVRFe0K0"
-      },
-      "artists": [
-        {
-          "name": "Yng Lvcas",
-          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
-        },
-        {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        }
-      ],
-      "duration_ms": 179778,
-      "name": "Mimimi",
-      "url": "https://open.spotify.com/track/2w5KcI3DWJDtDIYjkbgm3I"
-    },
     {
       "added_at": null,
       "album": {
@@ -171,6 +151,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Golpes De La Vida",
+        "url": "https://open.spotify.com/album/3ru369H2JPYtw1GxlZFRDm"
+      },
+      "artists": [
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        }
+      ],
+      "duration_ms": 223186,
+      "name": "Golpes De La Vida",
+      "url": "https://open.spotify.com/track/7xMBcbpr1KAlychUtk7W72"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "QuesoXte",
         "url": "https://open.spotify.com/album/6P2JT8MNs7I26VCQotcL1n"
       },
@@ -187,22 +183,6 @@
       "duration_ms": 151875,
       "name": "QuesoXte",
       "url": "https://open.spotify.com/track/2xjfjnqSUBQdYu8P0TSzId"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Golpes De La Vida",
-        "url": "https://open.spotify.com/album/3ru369H2JPYtw1GxlZFRDm"
-      },
-      "artists": [
-        {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        }
-      ],
-      "duration_ms": 223186,
-      "name": "Golpes De La Vida",
-      "url": "https://open.spotify.com/track/7xMBcbpr1KAlychUtk7W72"
     },
     {
       "added_at": null,
@@ -499,6 +479,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mimimi",
+        "url": "https://open.spotify.com/album/0MOXg9oBtugZseTVRFe0K0"
+      },
+      "artists": [
+        {
+          "name": "Yng Lvcas",
+          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
+        },
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        }
+      ],
+      "duration_ms": 179778,
+      "name": "Mimimi",
+      "url": "https://open.spotify.com/track/2w5KcI3DWJDtDIYjkbgm3I"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Te Vi",
         "url": "https://open.spotify.com/album/2PCuFmC6h5LsRkkcC3Rj5x"
       },
@@ -519,6 +519,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Golpes De La Vida",
+        "url": "https://open.spotify.com/album/3ru369H2JPYtw1GxlZFRDm"
+      },
+      "artists": [
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        }
+      ],
+      "duration_ms": 211680,
+      "name": "Si Yo Me Activo",
+      "url": "https://open.spotify.com/track/7rM7DY9jc43N89I5IOFAQp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Vida Loca",
         "url": "https://open.spotify.com/album/1jVYLrYW2bIIgdP17xXzFv"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 247080,
       "name": "Vida Loca",
       "url": "https://open.spotify.com/track/7fHq0gNmcwpuqL18pO2W7K"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Golpes De La Vida",
-        "url": "https://open.spotify.com/album/3ru369H2JPYtw1GxlZFRDm"
-      },
-      "artists": [
-        {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        }
-      ],
-      "duration_ms": 211680,
-      "name": "Si Yo Me Activo",
-      "url": "https://open.spotify.com/track/7rM7DY9jc43N89I5IOFAQp"
     },
     {
       "added_at": null,

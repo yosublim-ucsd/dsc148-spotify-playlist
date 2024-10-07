@@ -1,6 +1,6 @@
 {
   "description": "Country music that rocks. Cover: Lakeview",
-  "num_followers": 607906,
+  "num_followers": 608000,
   "original_name": "Country Rocks",
   "owner": {
     "name": "Spotify",
@@ -447,18 +447,18 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Change",
-        "url": "https://open.spotify.com/album/5jmp7q0hmtB7vlacGfTdAB"
+        "name": "From A Room: Volume 2",
+        "url": "https://open.spotify.com/album/24fkX2Gdqw4a6pR9BUYbE5"
       },
       "artists": [
         {
-          "name": "Bailey Zimmerman",
-          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
         }
       ],
-      "duration_ms": 188254,
-      "name": "Change",
-      "url": "https://open.spotify.com/track/5GqFHxvAVUmZPdAFj6THjD"
+      "duration_ms": 222653,
+      "name": "Midnight Train To Memphis",
+      "url": "https://open.spotify.com/track/6tInq1Sn2eehdsQGA9Aafh"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -479,18 +479,18 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Next to You",
-        "url": "https://open.spotify.com/album/5wi2gkVC0O5njU43csLHec"
+        "name": "Change",
+        "url": "https://open.spotify.com/album/5jmp7q0hmtB7vlacGfTdAB"
       },
       "artists": [
         {
-          "name": "Ole 60",
-          "url": "https://open.spotify.com/artist/3iXeAZ8862AyoZ5ZGg800O"
+          "name": "Bailey Zimmerman",
+          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
         }
       ],
-      "duration_ms": 241668,
-      "name": "Next to You",
-      "url": "https://open.spotify.com/track/31xbWaLjwvMVMXHTyz8opW"
+      "duration_ms": 188254,
+      "name": "Change",
+      "url": "https://open.spotify.com/track/5GqFHxvAVUmZPdAFj6THjD"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -511,18 +511,18 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "From A Room: Volume 2",
-        "url": "https://open.spotify.com/album/24fkX2Gdqw4a6pR9BUYbE5"
+        "name": "Next to You",
+        "url": "https://open.spotify.com/album/5wi2gkVC0O5njU43csLHec"
       },
       "artists": [
         {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+          "name": "Ole 60",
+          "url": "https://open.spotify.com/artist/3iXeAZ8862AyoZ5ZGg800O"
         }
       ],
-      "duration_ms": 222653,
-      "name": "Midnight Train To Memphis",
-      "url": "https://open.spotify.com/track/6tInq1Sn2eehdsQGA9Aafh"
+      "duration_ms": 241668,
+      "name": "Next to You",
+      "url": "https://open.spotify.com/track/31xbWaLjwvMVMXHTyz8opW"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -759,6 +759,22 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
+        "name": "Chief",
+        "url": "https://open.spotify.com/album/5dtw6CoMhbrSj01YUvdQOF"
+      },
+      "artists": [
+        {
+          "name": "Eric Church",
+          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
+        }
+      ],
+      "duration_ms": 227226,
+      "name": "Homeboy",
+      "url": "https://open.spotify.com/track/29aSfWddeZJCfnrcMb20sy"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
         "name": "Like an Arrow",
         "url": "https://open.spotify.com/album/4r0Zb1FdEFbpF5olm5ZIW0"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 247008,
       "name": "Waiting for the Thunder",
       "url": "https://open.spotify.com/track/0Rxgdpe1zgZ6ZzHgxSaYEJ"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "That Lonesome Song",
-        "url": "https://open.spotify.com/album/3mb6QMOelljOicaqCo4F6i"
-      },
-      "artists": [
-        {
-          "name": "Jamey Johnson",
-          "url": "https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8"
-        }
-      ],
-      "duration_ms": 251960,
-      "name": "Between Jennings And Jones",
-      "url": "https://open.spotify.com/track/2Jq2KzxOvLrlH16hlcnm7d"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -807,6 +807,22 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
+        "name": "That Lonesome Song",
+        "url": "https://open.spotify.com/album/3mb6QMOelljOicaqCo4F6i"
+      },
+      "artists": [
+        {
+          "name": "Jamey Johnson",
+          "url": "https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8"
+        }
+      ],
+      "duration_ms": 251960,
+      "name": "Between Jennings And Jones",
+      "url": "https://open.spotify.com/track/2Jq2KzxOvLrlH16hlcnm7d"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
         "name": "Bruce County",
         "url": "https://open.spotify.com/album/2LtmmDRoH27B1li1RRWYvp"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 224693,
       "name": "Moonshines",
       "url": "https://open.spotify.com/track/6OOVF3wtJ6Qj2fPPHcuzj5"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "Chief",
-        "url": "https://open.spotify.com/album/5dtw6CoMhbrSj01YUvdQOF"
-      },
-      "artists": [
-        {
-          "name": "Eric Church",
-          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
-        }
-      ],
-      "duration_ms": 227226,
-      "name": "Homeboy",
-      "url": "https://open.spotify.com/track/29aSfWddeZJCfnrcMb20sy"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -967,18 +967,18 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "9 Lives (Black Cat)",
-        "url": "https://open.spotify.com/album/7jHR86VxhCZqsnFg2M1O42"
+        "name": "Trainwreck",
+        "url": "https://open.spotify.com/album/5ae3UYQnHYgWmlCJJJFCTN"
       },
       "artists": [
         {
-          "name": "Koe Wetzel",
-          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+          "name": "Ryan Jesse",
+          "url": "https://open.spotify.com/artist/3D8Amh1jMYCSSj6aq9pxtl"
         }
       ],
-      "duration_ms": 204628,
-      "name": "9 Lives (Black Cat)",
-      "url": "https://open.spotify.com/track/5QTxD81d4O6K8wSEWoBzvI"
+      "duration_ms": 196736,
+      "name": "Trainwreck",
+      "url": "https://open.spotify.com/track/3O2ayZuGK2uqX8ubT2GVVW"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -999,18 +999,18 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Trainwreck",
-        "url": "https://open.spotify.com/album/5ae3UYQnHYgWmlCJJJFCTN"
+        "name": "9 Lives (Black Cat)",
+        "url": "https://open.spotify.com/album/7jHR86VxhCZqsnFg2M1O42"
       },
       "artists": [
         {
-          "name": "Ryan Jesse",
-          "url": "https://open.spotify.com/artist/3D8Amh1jMYCSSj6aq9pxtl"
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
         }
       ],
-      "duration_ms": 196736,
-      "name": "Trainwreck",
-      "url": "https://open.spotify.com/track/3O2ayZuGK2uqX8ubT2GVVW"
+      "duration_ms": 204628,
+      "name": "9 Lives (Black Cat)",
+      "url": "https://open.spotify.com/track/5QTxD81d4O6K8wSEWoBzvI"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Come Get Your Memory",
-        "url": "https://open.spotify.com/album/3CdL2awpJrZyDlGFnR0M92"
-      },
-      "artists": [
-        {
-          "name": "Chase Matthew",
-          "url": "https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH"
-        }
-      ],
-      "duration_ms": 171000,
-      "name": "Come Get Your Memory",
-      "url": "https://open.spotify.com/track/19N0HuImmFFEolWIKvVROo"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
         "name": "Old News",
         "url": "https://open.spotify.com/album/2c0rPOPDO1JWtN1apC2ToY"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 251498,
       "name": "All of These Years",
       "url": "https://open.spotify.com/track/79JAw296lCbgzq8dm4h4tD"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Come Get Your Memory",
+        "url": "https://open.spotify.com/album/3CdL2awpJrZyDlGFnR0M92"
+      },
+      "artists": [
+        {
+          "name": "Chase Matthew",
+          "url": "https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH"
+        }
+      ],
+      "duration_ms": 171000,
+      "name": "Come Get Your Memory",
+      "url": "https://open.spotify.com/track/19N0HuImmFFEolWIKvVROo"
     },
     {
       "added_at": "2024-10-04 04:00:00",

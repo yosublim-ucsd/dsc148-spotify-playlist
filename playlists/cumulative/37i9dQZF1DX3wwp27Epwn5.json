@@ -898,7 +898,7 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-29",
+      "date_removed": null,
       "duration_ms": 218519,
       "name": "Goa Beach",
       "url": "https://open.spotify.com/track/4obyqyCX0Vx839PTsz1OGf"
@@ -1709,6 +1709,36 @@
     },
     {
       "album": {
+        "name": "Mera Wala Dance (From \"Simmba\")",
+        "url": "https://open.spotify.com/album/7qPXxbOuEiXyAijFSmqUgk"
+      },
+      "artists": [
+        {
+          "name": "Nakash Aziz",
+          "url": "https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB"
+        },
+        {
+          "name": "Neha Kakkar",
+          "url": "https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI"
+        },
+        {
+          "name": "Lijo George",
+          "url": "https://open.spotify.com/artist/4VS3XraXs2LRsowQnQ7VFh"
+        },
+        {
+          "name": "Dj Chetas",
+          "url": "https://open.spotify.com/artist/1jPeDHvfU5Knw8VyOP6TZN"
+        }
+      ],
+      "date_added": "2024-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199584,
+      "name": "Mera Wala Dance (From \"Simmba\")",
+      "url": "https://open.spotify.com/track/2WDNxbQejWu16O44FcMEFM"
+    },
+    {
+      "album": {
         "name": "Meri Baggi Mera Ghoda (From \"Wild Wild Punjab\")",
         "url": "https://open.spotify.com/album/4Z73NrOpOz0sb3462cQzv3"
       },
@@ -2292,7 +2322,7 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-07",
       "duration_ms": 215483,
       "name": "Urvashi",
       "url": "https://open.spotify.com/track/342pJxy678kgQrZXCL9RG7"
@@ -2358,7 +2388,7 @@
       ],
       "date_added": "2023-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-07",
       "duration_ms": 264000,
       "name": "Zinda Banda (From \"Jawan\")",
       "url": "https://open.spotify.com/track/4tzx5af2qpwgyjG6JQGthj"

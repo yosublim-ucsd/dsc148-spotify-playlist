@@ -1,6 +1,6 @@
 {
   "description": "An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.",
-  "num_followers": 730125,
+  "num_followers": 730232,
   "original_name": "Feel Good Dinner",
   "owner": {
     "name": "Spotify",
@@ -115,6 +115,22 @@
     {
       "added_at": "2024-10-01 17:52:03",
       "album": {
+        "name": "For Ever",
+        "url": "https://open.spotify.com/album/5gYCZgmXzzWXxOCb9fMfBm"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        }
+      ],
+      "duration_ms": 234369,
+      "name": "Casio",
+      "url": "https://open.spotify.com/track/44ZKnfWEkp7wPs035j4Tua"
+    },
+    {
+      "added_at": "2024-10-01 17:52:03",
+      "album": {
         "name": "There is no Neil Frances",
         "url": "https://open.spotify.com/album/4dIcsXIElacBzTpnDo3j3M"
       },
@@ -143,22 +159,6 @@
       "duration_ms": 238679,
       "name": "Why Why Why Why Why",
       "url": "https://open.spotify.com/track/4zwq3QUKgMNk0NSLl7fpbP"
-    },
-    {
-      "added_at": "2024-10-01 17:52:03",
-      "album": {
-        "name": "For Ever",
-        "url": "https://open.spotify.com/album/5gYCZgmXzzWXxOCb9fMfBm"
-      },
-      "artists": [
-        {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
-        }
-      ],
-      "duration_ms": 234369,
-      "name": "Casio",
-      "url": "https://open.spotify.com/track/44ZKnfWEkp7wPs035j4Tua"
     },
     {
       "added_at": "2024-10-01 17:52:03",
@@ -395,22 +395,6 @@
     {
       "added_at": "2024-10-01 17:52:03",
       "album": {
-        "name": "Collapsed In Sunbeams",
-        "url": "https://open.spotify.com/album/42joEEymK7EIHODfNB4yug"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        }
-      ],
-      "duration_ms": 221000,
-      "name": "Too Good",
-      "url": "https://open.spotify.com/track/1HHIv96gVeVkoOBzQeH9d8"
-    },
-    {
-      "added_at": "2024-10-01 17:52:03",
-      "album": {
         "name": "Moodie",
         "url": "https://open.spotify.com/album/4XMQDHZSKpEg1UReRiMuJC"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 208200,
       "name": "No Going Back",
       "url": "https://open.spotify.com/track/356aM3w6i5v1cltIzOnVTP"
+    },
+    {
+      "added_at": "2024-10-01 17:52:03",
+      "album": {
+        "name": "Collapsed In Sunbeams",
+        "url": "https://open.spotify.com/album/42joEEymK7EIHODfNB4yug"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "duration_ms": 221000,
+      "name": "Too Good",
+      "url": "https://open.spotify.com/track/1HHIv96gVeVkoOBzQeH9d8"
     },
     {
       "added_at": "2024-10-01 17:52:03",
@@ -531,22 +531,6 @@
     {
       "added_at": "2024-10-01 17:52:03",
       "album": {
-        "name": "Love Hate Music Box",
-        "url": "https://open.spotify.com/album/2bOwdC37gg057sITTY8Ovj"
-      },
-      "artists": [
-        {
-          "name": "Rainbow Kitten Surprise",
-          "url": "https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2"
-        }
-      ],
-      "duration_ms": 181390,
-      "name": "Meticulous",
-      "url": "https://open.spotify.com/track/2WvsvWRHvcX3bZPiJwTwpy"
-    },
-    {
-      "added_at": "2024-10-01 17:52:03",
-      "album": {
         "name": "Eddie",
         "url": "https://open.spotify.com/album/5FTrv0ut24vm76hx1WuWSN"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 147466,
       "name": "Bitter with the Sweet",
       "url": "https://open.spotify.com/track/6MBS3ARYYlI4FtYjaTinK5"
+    },
+    {
+      "added_at": "2024-10-01 17:52:03",
+      "album": {
+        "name": "Love Hate Music Box",
+        "url": "https://open.spotify.com/album/2bOwdC37gg057sITTY8Ovj"
+      },
+      "artists": [
+        {
+          "name": "Rainbow Kitten Surprise",
+          "url": "https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2"
+        }
+      ],
+      "duration_ms": 181390,
+      "name": "Meticulous",
+      "url": "https://open.spotify.com/track/2WvsvWRHvcX3bZPiJwTwpy"
     },
     {
       "added_at": "2024-10-01 17:52:03",
@@ -663,22 +663,6 @@
     {
       "added_at": "2024-10-01 17:52:03",
       "album": {
-        "name": "The Information",
-        "url": "https://open.spotify.com/album/4vvGnnUgid9IbTS3sUVYCF"
-      },
-      "artists": [
-        {
-          "name": "Beck",
-          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
-        }
-      ],
-      "duration_ms": 199426,
-      "name": "Think I'm In Love",
-      "url": "https://open.spotify.com/track/5r9WJVe1yhJx9ZUg30XEHQ"
-    },
-    {
-      "added_at": "2024-10-01 17:52:03",
-      "album": {
         "name": "Pronounced McGee",
         "url": "https://open.spotify.com/album/25mNgv9kcDpET9UWcCxu16"
       },
@@ -711,18 +695,18 @@
     {
       "added_at": "2024-10-01 17:52:03",
       "album": {
-        "name": "Music",
-        "url": "https://open.spotify.com/album/3Yt6hyKUIgAeg6BIr7aPmK"
+        "name": "The Information",
+        "url": "https://open.spotify.com/album/4vvGnnUgid9IbTS3sUVYCF"
       },
       "artists": [
         {
-          "name": "Benny Sings",
-          "url": "https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N"
+          "name": "Beck",
+          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
         }
       ],
-      "duration_ms": 171756,
-      "name": "Sunny Afternoon",
-      "url": "https://open.spotify.com/track/3Acg5sKJcCjUQBHA8KjX5F"
+      "duration_ms": 199426,
+      "name": "Think I'm In Love",
+      "url": "https://open.spotify.com/track/5r9WJVe1yhJx9ZUg30XEHQ"
     },
     {
       "added_at": "2024-10-01 17:52:03",
@@ -739,6 +723,22 @@
       "duration_ms": 202253,
       "name": "Time Was",
       "url": "https://open.spotify.com/track/1lLQtlPli8kTLJsTrcnRuQ"
+    },
+    {
+      "added_at": "2024-10-01 17:52:03",
+      "album": {
+        "name": "Music",
+        "url": "https://open.spotify.com/album/3Yt6hyKUIgAeg6BIr7aPmK"
+      },
+      "artists": [
+        {
+          "name": "Benny Sings",
+          "url": "https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N"
+        }
+      ],
+      "duration_ms": 171756,
+      "name": "Sunny Afternoon",
+      "url": "https://open.spotify.com/track/3Acg5sKJcCjUQBHA8KjX5F"
     },
     {
       "added_at": "2024-10-01 17:52:03",
@@ -775,22 +775,6 @@
     {
       "added_at": "2024-10-01 17:52:03",
       "album": {
-        "name": "Under The Blacklight (Standard Version)",
-        "url": "https://open.spotify.com/album/2f9RsTZpsYMLRVZBtW7En8"
-      },
-      "artists": [
-        {
-          "name": "Rilo Kiley",
-          "url": "https://open.spotify.com/artist/2cevwbv7ISD92VMNLYLHZA"
-        }
-      ],
-      "duration_ms": 216973,
-      "name": "Silver Lining",
-      "url": "https://open.spotify.com/track/0ieqq1wbtso2UjJWPqJ5Xc"
-    },
-    {
-      "added_at": "2024-10-01 17:52:03",
-      "album": {
         "name": "Softly",
         "url": "https://open.spotify.com/album/7qlt7zR5715v6Ey0lQsjcN"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 188780,
       "name": "Softly",
       "url": "https://open.spotify.com/track/3fpfQC77x3uwESSJ6VmUKM"
+    },
+    {
+      "added_at": "2024-10-01 17:52:03",
+      "album": {
+        "name": "Under The Blacklight (Standard Version)",
+        "url": "https://open.spotify.com/album/2f9RsTZpsYMLRVZBtW7En8"
+      },
+      "artists": [
+        {
+          "name": "Rilo Kiley",
+          "url": "https://open.spotify.com/artist/2cevwbv7ISD92VMNLYLHZA"
+        }
+      ],
+      "duration_ms": 216973,
+      "name": "Silver Lining",
+      "url": "https://open.spotify.com/track/0ieqq1wbtso2UjJWPqJ5Xc"
     },
     {
       "added_at": "2024-10-01 17:52:03",
@@ -843,22 +843,6 @@
     {
       "added_at": "2024-10-01 17:52:03",
       "album": {
-        "name": "Bismillah",
-        "url": "https://open.spotify.com/album/6gnNCtxxhwKTYGIDVqeMUd"
-      },
-      "artists": [
-        {
-          "name": "Peter Cat Recording Co.",
-          "url": "https://open.spotify.com/artist/41Nu7NgAj9rJxjj7JDuXrV"
-        }
-      ],
-      "duration_ms": 227293,
-      "name": "Soulless Friends",
-      "url": "https://open.spotify.com/track/4U5TPHqsmvVzc8CCZPLfzg"
-    },
-    {
-      "added_at": "2024-10-01 17:52:03",
-      "album": {
         "name": "Telling The Truth",
         "url": "https://open.spotify.com/album/7JAl7nvl1tO0xrIZxX8q0w"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 222213,
       "name": "Nantucket Island",
       "url": "https://open.spotify.com/track/5Cl0T1nwxwxyMnrAXz9uQB"
+    },
+    {
+      "added_at": "2024-10-01 17:52:03",
+      "album": {
+        "name": "Bismillah",
+        "url": "https://open.spotify.com/album/6gnNCtxxhwKTYGIDVqeMUd"
+      },
+      "artists": [
+        {
+          "name": "Peter Cat Recording Co.",
+          "url": "https://open.spotify.com/artist/41Nu7NgAj9rJxjj7JDuXrV"
+        }
+      ],
+      "duration_ms": 227293,
+      "name": "Soulless Friends",
+      "url": "https://open.spotify.com/track/4U5TPHqsmvVzc8CCZPLfzg"
     },
     {
       "added_at": "2024-10-01 17:52:03",
@@ -931,22 +931,6 @@
     {
       "added_at": "2024-10-01 17:52:03",
       "album": {
-        "name": "Talk About It (B-Side)",
-        "url": "https://open.spotify.com/album/2aO9qd1SvonSVLLvT3zGUr"
-      },
-      "artists": [
-        {
-          "name": "Kate Bollinger",
-          "url": "https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned"
-        }
-      ],
-      "duration_ms": 132096,
-      "name": "Talk About It",
-      "url": "https://open.spotify.com/track/5CH0x6oAAVDV1agN0Wdfhw"
-    },
-    {
-      "added_at": "2024-10-01 17:52:03",
-      "album": {
         "name": "Wiggle Room",
         "url": "https://open.spotify.com/album/1r9A5sIVm8cLrU9oSH5jsW"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 147893,
       "name": "Handsome",
       "url": "https://open.spotify.com/track/4kJG95g177WS0WMq7yFqVX"
+    },
+    {
+      "added_at": "2024-10-01 17:52:03",
+      "album": {
+        "name": "Talk About It (B-Side)",
+        "url": "https://open.spotify.com/album/2aO9qd1SvonSVLLvT3zGUr"
+      },
+      "artists": [
+        {
+          "name": "Kate Bollinger",
+          "url": "https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned"
+        }
+      ],
+      "duration_ms": 132096,
+      "name": "Talk About It",
+      "url": "https://open.spotify.com/track/5CH0x6oAAVDV1agN0Wdfhw"
     },
     {
       "added_at": "2024-10-01 17:52:03",
@@ -1143,18 +1143,18 @@
     {
       "added_at": "2024-10-01 17:52:03",
       "album": {
-        "name": "Pulse (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2keWhx31zk5DnCvRCD5Lg4"
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/6Kq1wGlsadyj4jQhjTO6CE"
       },
       "artists": [
         {
-          "name": "Greg Phillinganes",
-          "url": "https://open.spotify.com/artist/6WOxIudswU8kNC2LrpeiWu"
+          "name": "Nathaniel Rateliff",
+          "url": "https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79"
         }
       ],
-      "duration_ms": 326613,
-      "name": "Lazy Nina",
-      "url": "https://open.spotify.com/track/7tBlvnHLTox3S0yB6nIV2Q"
+      "duration_ms": 238669,
+      "name": "Something Beautiful",
+      "url": "https://open.spotify.com/track/7GuLQABAOtHgdebC50HGIl"
     },
     {
       "added_at": "2024-10-01 17:52:03",
@@ -1175,18 +1175,18 @@
     {
       "added_at": "2024-10-01 17:52:03",
       "album": {
-        "name": "Closer",
-        "url": "https://open.spotify.com/album/6Kq1wGlsadyj4jQhjTO6CE"
+        "name": "Pulse (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2keWhx31zk5DnCvRCD5Lg4"
       },
       "artists": [
         {
-          "name": "Nathaniel Rateliff",
-          "url": "https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79"
+          "name": "Greg Phillinganes",
+          "url": "https://open.spotify.com/artist/6WOxIudswU8kNC2LrpeiWu"
         }
       ],
-      "duration_ms": 238669,
-      "name": "Something Beautiful",
-      "url": "https://open.spotify.com/track/7GuLQABAOtHgdebC50HGIl"
+      "duration_ms": 326613,
+      "name": "Lazy Nina",
+      "url": "https://open.spotify.com/track/7tBlvnHLTox3S0yB6nIV2Q"
     },
     {
       "added_at": "2024-10-01 17:52:03",
@@ -1351,6 +1351,22 @@
     {
       "added_at": "2024-10-01 17:52:03",
       "album": {
+        "name": "Wake Up",
+        "url": "https://open.spotify.com/album/6HpB2a7hn3T1gKcxIVWN8L"
+      },
+      "artists": [
+        {
+          "name": "Kowloon",
+          "url": "https://open.spotify.com/artist/4VQqGf7U3RUspgTsprypWE"
+        }
+      ],
+      "duration_ms": 239311,
+      "name": "Wake Up",
+      "url": "https://open.spotify.com/track/3FKJaFrmNNDuYeUSY8HhmF"
+    },
+    {
+      "added_at": "2024-10-01 17:52:03",
+      "album": {
         "name": "I Want To See The Bright Lights Tonight",
         "url": "https://open.spotify.com/album/1K1Qdd60pW48wEgWGQLeRt"
       },
@@ -1383,22 +1399,6 @@
       "duration_ms": 258026,
       "name": "Dream Free",
       "url": "https://open.spotify.com/track/100hGJYbcT3bsuZnaGu7cI"
-    },
-    {
-      "added_at": "2024-10-01 17:52:03",
-      "album": {
-        "name": "Wake Up",
-        "url": "https://open.spotify.com/album/6HpB2a7hn3T1gKcxIVWN8L"
-      },
-      "artists": [
-        {
-          "name": "Kowloon",
-          "url": "https://open.spotify.com/artist/4VQqGf7U3RUspgTsprypWE"
-        }
-      ],
-      "duration_ms": 239311,
-      "name": "Wake Up",
-      "url": "https://open.spotify.com/track/3FKJaFrmNNDuYeUSY8HhmF"
     },
     {
       "added_at": "2024-10-01 17:52:03",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2024-10-01 17:52:03",
       "album": {
-        "name": "Revealer",
-        "url": "https://open.spotify.com/album/3flejyQLaN7EolO3Vmg31D"
-      },
-      "artists": [
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 213328,
-      "name": "Hospital",
-      "url": "https://open.spotify.com/track/2bt1cEwiLzcClL5bTs0ezd"
-    },
-    {
-      "added_at": "2024-10-01 17:52:03",
-      "album": {
         "name": "Addicted To You",
         "url": "https://open.spotify.com/album/03mQWhCkJ77Hq9aP8dD21r"
       },
@@ -1471,18 +1455,18 @@
     {
       "added_at": "2024-10-01 17:52:03",
       "album": {
-        "name": "Grapetooth",
-        "url": "https://open.spotify.com/album/7fmC3GwiybC7nUfPZg4oWI"
+        "name": "Revealer",
+        "url": "https://open.spotify.com/album/3flejyQLaN7EolO3Vmg31D"
       },
       "artists": [
         {
-          "name": "Grapetooth",
-          "url": "https://open.spotify.com/artist/2JcgT3bbIW7SctN6eQI2eh"
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
         }
       ],
-      "duration_ms": 239093,
-      "name": "Red Wine",
-      "url": "https://open.spotify.com/track/5SHQrtKT1jddKhh8HuGRx8"
+      "duration_ms": 213328,
+      "name": "Hospital",
+      "url": "https://open.spotify.com/track/2bt1cEwiLzcClL5bTs0ezd"
     },
     {
       "added_at": "2024-10-01 17:52:03",
@@ -1499,6 +1483,22 @@
       "duration_ms": 196000,
       "name": "Sol",
       "url": "https://open.spotify.com/track/3c3VaKO06oPEFlantuWWTz"
+    },
+    {
+      "added_at": "2024-10-01 17:52:03",
+      "album": {
+        "name": "Grapetooth",
+        "url": "https://open.spotify.com/album/7fmC3GwiybC7nUfPZg4oWI"
+      },
+      "artists": [
+        {
+          "name": "Grapetooth",
+          "url": "https://open.spotify.com/artist/2JcgT3bbIW7SctN6eQI2eh"
+        }
+      ],
+      "duration_ms": 239093,
+      "name": "Red Wine",
+      "url": "https://open.spotify.com/track/5SHQrtKT1jddKhh8HuGRx8"
     },
     {
       "added_at": "2024-10-01 17:52:03",
@@ -1535,22 +1535,18 @@
     {
       "added_at": "2024-10-01 17:52:03",
       "album": {
-        "name": "Agony and Extasy",
-        "url": "https://open.spotify.com/album/3yfSVfDxOky6qRlToEqSE2"
+        "name": "Hunt for the Wilderpeople (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2XvgNn4HiItRHFG5R8i3Tg"
       },
       "artists": [
         {
-          "name": "The Diddys",
-          "url": "https://open.spotify.com/artist/2Zj8m3tpo7XHoHRinEHsQr"
-        },
-        {
-          "name": "Paige Douglas",
-          "url": "https://open.spotify.com/artist/5msvOxnkzvdc94IwbfAAKt"
+          "name": "Moniker",
+          "url": "https://open.spotify.com/artist/6mLzqvtfYZ0tq6JKj4VTEW"
         }
       ],
-      "duration_ms": 278040,
-      "name": "Intergalactic Love Song",
-      "url": "https://open.spotify.com/track/29pSTaZjWmJtJhJtnxIMaK"
+      "duration_ms": 145881,
+      "name": "Ocean Blue",
+      "url": "https://open.spotify.com/track/5BzGvBwBL3y2WSGml0rkLH"
     },
     {
       "added_at": "2024-10-01 17:52:03",
@@ -1575,18 +1571,22 @@
     {
       "added_at": "2024-10-01 17:52:03",
       "album": {
-        "name": "Hunt for the Wilderpeople (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2XvgNn4HiItRHFG5R8i3Tg"
+        "name": "Agony and Extasy",
+        "url": "https://open.spotify.com/album/3yfSVfDxOky6qRlToEqSE2"
       },
       "artists": [
         {
-          "name": "Moniker",
-          "url": "https://open.spotify.com/artist/6mLzqvtfYZ0tq6JKj4VTEW"
+          "name": "The Diddys",
+          "url": "https://open.spotify.com/artist/2Zj8m3tpo7XHoHRinEHsQr"
+        },
+        {
+          "name": "Paige Douglas",
+          "url": "https://open.spotify.com/artist/5msvOxnkzvdc94IwbfAAKt"
         }
       ],
-      "duration_ms": 145881,
-      "name": "Ocean Blue",
-      "url": "https://open.spotify.com/track/5BzGvBwBL3y2WSGml0rkLH"
+      "duration_ms": 278040,
+      "name": "Intergalactic Love Song",
+      "url": "https://open.spotify.com/track/29pSTaZjWmJtJhJtnxIMaK"
     },
     {
       "added_at": "2024-10-01 17:52:03",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2024-10-01 17:52:03",
       "album": {
-        "name": "Boonie Town",
-        "url": "https://open.spotify.com/album/5nBpjXFhGx4Kg6nQ0Kmjon"
-      },
-      "artists": [
-        {
-          "name": "Eli Smart",
-          "url": "https://open.spotify.com/artist/20ZPpiSCh8TSt6Vq07zrcb"
-        }
-      ],
-      "duration_ms": 259795,
-      "name": "Highschool Steady",
-      "url": "https://open.spotify.com/track/4QMxpwLOwo4PIxpIMYjbAP"
-    },
-    {
-      "added_at": "2024-10-01 17:52:03",
-      "album": {
         "name": "The Switch",
         "url": "https://open.spotify.com/album/04VtAp2SJPVsutli1F3KjY"
       },
@@ -1667,6 +1651,22 @@
       "duration_ms": 189536,
       "name": "Believer",
       "url": "https://open.spotify.com/track/5CnNs7UMthQNuXgFMsQCDX"
+    },
+    {
+      "added_at": "2024-10-01 17:52:03",
+      "album": {
+        "name": "Boonie Town",
+        "url": "https://open.spotify.com/album/5nBpjXFhGx4Kg6nQ0Kmjon"
+      },
+      "artists": [
+        {
+          "name": "Eli Smart",
+          "url": "https://open.spotify.com/artist/20ZPpiSCh8TSt6Vq07zrcb"
+        }
+      ],
+      "duration_ms": 259795,
+      "name": "Highschool Steady",
+      "url": "https://open.spotify.com/track/4QMxpwLOwo4PIxpIMYjbAP"
     },
     {
       "added_at": "2024-10-01 17:52:03",
@@ -1719,22 +1719,6 @@
     {
       "added_at": "2024-10-01 17:52:03",
       "album": {
-        "name": "Canta",
-        "url": "https://open.spotify.com/album/2rmC6nJOCMzUn2VqTxbFik"
-      },
-      "artists": [
-        {
-          "name": "Amo Amo",
-          "url": "https://open.spotify.com/artist/6IXFZ8obsCsz6YcPuPwSSm"
-        }
-      ],
-      "duration_ms": 275746,
-      "name": "Canta",
-      "url": "https://open.spotify.com/track/4BkwcPvGeKVat4mXCHBORN"
-    },
-    {
-      "added_at": "2024-10-01 17:52:03",
-      "album": {
         "name": "The Hi Records Singles Collection",
         "url": "https://open.spotify.com/album/6gFbwjfZlO5NKSFD5THsSJ"
       },
@@ -1747,6 +1731,22 @@
       "duration_ms": 195178,
       "name": "I Tried to Tell Myself",
       "url": "https://open.spotify.com/track/3gVz8BKr8qaGvBs0mnpGi1"
+    },
+    {
+      "added_at": "2024-10-01 17:52:03",
+      "album": {
+        "name": "Canta",
+        "url": "https://open.spotify.com/album/2rmC6nJOCMzUn2VqTxbFik"
+      },
+      "artists": [
+        {
+          "name": "Amo Amo",
+          "url": "https://open.spotify.com/artist/6IXFZ8obsCsz6YcPuPwSSm"
+        }
+      ],
+      "duration_ms": 275746,
+      "name": "Canta",
+      "url": "https://open.spotify.com/track/4BkwcPvGeKVat4mXCHBORN"
     },
     {
       "added_at": "2024-10-01 17:52:03",
@@ -1767,22 +1767,6 @@
     {
       "added_at": "2024-10-01 17:52:03",
       "album": {
-        "name": "People Never Change",
-        "url": "https://open.spotify.com/album/44fRKtfgTRHDYyUnC0N4LR"
-      },
-      "artists": [
-        {
-          "name": "Peter Cat Recording Co.",
-          "url": "https://open.spotify.com/artist/41Nu7NgAj9rJxjj7JDuXrV"
-        }
-      ],
-      "duration_ms": 165040,
-      "name": "People Never Change - Radio Edit",
-      "url": "https://open.spotify.com/track/0BEU8reIpQUKYtFg6O7fU9"
-    },
-    {
-      "added_at": "2024-10-01 17:52:03",
-      "album": {
         "name": "Get On The Otherside",
         "url": "https://open.spotify.com/album/2S16kNpGs1zn39HYwcLaJ3"
       },
@@ -1799,6 +1783,22 @@
       "duration_ms": 229080,
       "name": "The Otherside",
       "url": "https://open.spotify.com/track/7dXYHyEg7TdcnbwcG3R0xG"
+    },
+    {
+      "added_at": "2024-10-01 17:52:03",
+      "album": {
+        "name": "People Never Change",
+        "url": "https://open.spotify.com/album/44fRKtfgTRHDYyUnC0N4LR"
+      },
+      "artists": [
+        {
+          "name": "Peter Cat Recording Co.",
+          "url": "https://open.spotify.com/artist/41Nu7NgAj9rJxjj7JDuXrV"
+        }
+      ],
+      "duration_ms": 165040,
+      "name": "People Never Change - Radio Edit",
+      "url": "https://open.spotify.com/track/0BEU8reIpQUKYtFg6O7fU9"
     },
     {
       "added_at": "2024-10-01 17:52:03",
@@ -1851,6 +1851,22 @@
     {
       "added_at": "2024-10-01 17:52:03",
       "album": {
+        "name": "The King",
+        "url": "https://open.spotify.com/album/27UVPGKePLLUlHX7xDQb7m"
+      },
+      "artists": [
+        {
+          "name": "Sarah Kinsley",
+          "url": "https://open.spotify.com/artist/34A8vV1MCxGpA14KspqQuC"
+        }
+      ],
+      "duration_ms": 237800,
+      "name": "Karma",
+      "url": "https://open.spotify.com/track/44wX3ghv6UPwg5uI3XnROo"
+    },
+    {
+      "added_at": "2024-10-01 17:52:03",
+      "album": {
         "name": "Kathy and Paul",
         "url": "https://open.spotify.com/album/6kyQHx273kGzLd4Z8ogt4C"
       },
@@ -1875,18 +1891,18 @@
     {
       "added_at": "2024-10-01 17:52:03",
       "album": {
-        "name": "The King",
-        "url": "https://open.spotify.com/album/27UVPGKePLLUlHX7xDQb7m"
+        "name": "Blossom Dearie Sings (45th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/7ylVNuVPvO6dAS84nuQE7A"
       },
       "artists": [
         {
-          "name": "Sarah Kinsley",
-          "url": "https://open.spotify.com/artist/34A8vV1MCxGpA14KspqQuC"
+          "name": "Blossom Dearie",
+          "url": "https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6"
         }
       ],
-      "duration_ms": 237800,
-      "name": "Karma",
-      "url": "https://open.spotify.com/track/44wX3ghv6UPwg5uI3XnROo"
+      "duration_ms": 176718,
+      "name": "Somebody New",
+      "url": "https://open.spotify.com/track/2Br3fsJf9k9ciS5jiDxpDQ"
     },
     {
       "added_at": "2024-10-01 17:52:03",
@@ -1919,22 +1935,6 @@
       "duration_ms": 276573,
       "name": "Sooth Lady Wine",
       "url": "https://open.spotify.com/track/035IK7Ba1IV61q9V6MD5FH"
-    },
-    {
-      "added_at": "2024-10-01 17:52:03",
-      "album": {
-        "name": "Blossom Dearie Sings (45th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/7ylVNuVPvO6dAS84nuQE7A"
-      },
-      "artists": [
-        {
-          "name": "Blossom Dearie",
-          "url": "https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6"
-        }
-      ],
-      "duration_ms": 176718,
-      "name": "Somebody New",
-      "url": "https://open.spotify.com/track/2Br3fsJf9k9ciS5jiDxpDQ"
     },
     {
       "added_at": "2024-10-01 17:52:03",

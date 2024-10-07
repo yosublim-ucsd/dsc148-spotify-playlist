@@ -4,7 +4,7 @@
 
 > 100% British \- 100% R&B\. Cover: Nippa
 
-309 songs - 16 hr 5 min
+310 songs - 16 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,6 +175,7 @@
 | [Lose Myself](https://open.spotify.com/track/1uqgUlVmfomaH1IEeDOC5y) | [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ) | [I TRIED.](https://open.spotify.com/album/3ZrMVmVgaAzizc3MzotdvN) | 3:05 | 2024-06-14 |  |
 | [Love is Dumb](https://open.spotify.com/track/2Tn4scYjomvUsu816idWe6) | [Raleigh Ritchie](https://open.spotify.com/artist/0IB0VjX9NSrGX6PjCXGVcq) | [DEAD ENDS AND DIVERSIONS](https://open.spotify.com/album/0IfdqTtCqqwBmrzriRFYiQ) | 3:32 | 2024-09-20 | 2024-09-23 |
 | [Maddest Hoes](https://open.spotify.com/track/2JOAClTouRjLpemnmAutOV) | [Nippa](https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq), [SHOW N PROVE](https://open.spotify.com/artist/0w2Ehjy06vmXNTs3e3NQIU) | [Maddest Hoes](https://open.spotify.com/album/0zXtM0yyZaWZh2gYu0GFwU) | 2:34 | 2023-05-15 | 2023-05-25 |
+| [MAGIC](https://open.spotify.com/track/5jDbIt9JdzAs0CRCf5dYeT) | [Reuben Aziz](https://open.spotify.com/artist/7si4D4nUA1Z9WKUV58hhnh) | [MAGIC](https://open.spotify.com/album/5t2ZdRVGR4wlesejFr47qs) | 3:07 | 2024-10-03 |  |
 | [Mama](https://open.spotify.com/track/14AxPf5FGQWfOkGtqzn9x8) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Mama](https://open.spotify.com/album/69FkeUCPWxz01Ppt1FLDB6) | 3:40 | 2023-08-18 | 2023-10-04 |
 | [Mandy](https://open.spotify.com/track/3PO4o0z1ao5ItW7C4HNd72) | [Scribz Riley](https://open.spotify.com/artist/6UJ1HBEJnAZ1aVPlJZPf61) | [Mandy](https://open.spotify.com/album/11TgzkZn6xP5E2jYkQJIga) | 3:05 | 2022-07-17 | 2023-05-15 |
 | [Marking My Time](https://open.spotify.com/track/4U0kDDeLjipRQUsZAZcuAw) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Marking My Time](https://open.spotify.com/album/2pc153IBlNGe8QxU499Wau) | 4:28 | 2023-09-22 | 2024-04-26 |
@@ -290,7 +291,7 @@
 | [U & I](https://open.spotify.com/track/7DaHNeYZ9kUJntu5R6rVnS) | [Dayo Bello](https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2) | [U & I](https://open.spotify.com/album/3ypZDA00UD5VEhPqwxTL2F) | 3:42 | 2023-11-17 | 2024-01-26 |
 | [Under God](https://open.spotify.com/track/6fFOO5Rdc1U3JCtxCR2O95) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [For Someone Somewhere Who Isn't Us](https://open.spotify.com/album/1chZE5RjHe3KrE242WlAIk) | 2:57 | 2024-08-06 |  |
 | [under the rug](https://open.spotify.com/track/7cF9LyIGKAJOj8w4ndFCtC) | [TYLER LEWIS](https://open.spotify.com/artist/6GYUZI5gXIfKpZ3xJtTv7p) | [wait 'til she gets her heart broken](https://open.spotify.com/album/4LUq1xd0C1Psv1Bc3cn6uJ) | 3:20 | 2024-08-06 | 2024-08-24 |
-| [Undone](https://open.spotify.com/track/4eRQ0iaCuuojLwKDZJQdc9) | [Ego Ella May](https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6) | [Undone](https://open.spotify.com/album/4BodxSF9ZOF3mvkvn319In) | 3:20 | 2024-09-12 |  |
+| [Undone](https://open.spotify.com/track/4eRQ0iaCuuojLwKDZJQdc9) | [Ego Ella May](https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6) | [Undone](https://open.spotify.com/album/4BodxSF9ZOF3mvkvn319In) | 3:20 | 2024-09-12 | 2024-10-07 |
 | [Unfamiliar](https://open.spotify.com/track/2du9UaU0EwtkVr7zfpq5QK) | [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo) | [Boundaries](https://open.spotify.com/album/2UmzFdvxHsHnO7ZhIdvSzp) | 2:41 | 2024-04-26 | 2024-10-06 |
 | [Uptown](https://open.spotify.com/track/5noIlg392n8MvtJdZrQYLB) | [Benny Atlas](https://open.spotify.com/artist/6IXnkjY4xozfLmaA0DxuoS) | [Uptown](https://open.spotify.com/album/3DL2QS5GIpBAAGY24ciW2y) | 3:15 | 2023-09-22 | 2023-11-18 |
 | [Used Girl](https://open.spotify.com/track/6TdDjjugHtkTNF6pUGre1I) | [Tallia Storm](https://open.spotify.com/artist/21Dbw8JMFzg88oB2lkkLlh) | [Used Girl](https://open.spotify.com/album/1eey2MhbcWPrS29wVQZ4BC) | 3:52 | 2023-11-24 | 2024-03-06 |

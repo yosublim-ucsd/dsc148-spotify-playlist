@@ -1,29 +1,13 @@
 {
-  "description": "This Is Ana Gabriel. Los temas esenciales, todos en una lista.",
-  "num_followers": 339855,
+  "description": "This is Ana Gabriel. The essential tracks, all in one playlist.",
+  "num_followers": 339934,
   "original_name": "This Is Ana Gabriel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zv3egAAAAABcbpqoPPNUsMr6yW57lgOt",
+  "snapshot_id": "ZwCBgAAAAABayAJos8ovJebDixxRV8gp",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pecado Original",
-        "url": "https://open.spotify.com/album/5JRGlJtz53p6P1qlfrcPxe"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriel",
-          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
-        }
-      ],
-      "duration_ms": 201040,
-      "name": "\u00a1Ay Amor!",
-      "url": "https://open.spotify.com/track/0fC6Szw2CX8XZYsydOLmVC"
-    },
     {
       "added_at": null,
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 211733,
       "name": "Qui\u00e9n Como T\u00fa",
       "url": "https://open.spotify.com/track/4hfiDzgfMqtcOiUQpZidBQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pecado Original",
+        "url": "https://open.spotify.com/album/5JRGlJtz53p6P1qlfrcPxe"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriel",
+          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
+        }
+      ],
+      "duration_ms": 201040,
+      "name": "\u00a1Ay Amor!",
+      "url": "https://open.spotify.com/track/0fC6Szw2CX8XZYsydOLmVC"
     },
     {
       "added_at": null,
@@ -123,8 +123,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Luna",
-        "url": "https://open.spotify.com/album/7vAsW66jMph541o9EYE9b0"
+        "name": "Ayer Y Hoy",
+        "url": "https://open.spotify.com/album/301WAwIJ2sSfY8I4Jwujqm"
       },
       "artists": [
         {
@@ -132,9 +132,9 @@
           "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
         }
       ],
-      "duration_ms": 269440,
-      "name": "Luna",
-      "url": "https://open.spotify.com/track/64qCBHI5L54SUOZQfGFYcg"
+      "duration_ms": 229200,
+      "name": "T\u00fa Lo Decidiste",
+      "url": "https://open.spotify.com/track/1uDXGhm8Wgwpmzgm8k1F7r"
     },
     {
       "added_at": null,
@@ -155,8 +155,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ayer Y Hoy",
-        "url": "https://open.spotify.com/album/301WAwIJ2sSfY8I4Jwujqm"
+        "name": "Luna",
+        "url": "https://open.spotify.com/album/7vAsW66jMph541o9EYE9b0"
       },
       "artists": [
         {
@@ -164,9 +164,9 @@
           "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
         }
       ],
-      "duration_ms": 229200,
-      "name": "T\u00fa Lo Decidiste",
-      "url": "https://open.spotify.com/track/1uDXGhm8Wgwpmzgm8k1F7r"
+      "duration_ms": 269440,
+      "name": "Luna",
+      "url": "https://open.spotify.com/track/64qCBHI5L54SUOZQfGFYcg"
     },
     {
       "added_at": null,
@@ -691,22 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pecado Original",
-        "url": "https://open.spotify.com/album/5JRGlJtz53p6P1qlfrcPxe"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriel",
-          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
-        }
-      ],
-      "duration_ms": 279226,
-      "name": "Amor",
-      "url": "https://open.spotify.com/track/07hLFDNfRR8m01VGSfedDV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Reina Canta A Mexico",
         "url": "https://open.spotify.com/album/1IRYnt0nIw8IEf7bDiJOVj"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 245266,
       "name": "Voy a Ser",
       "url": "https://open.spotify.com/track/0WaCinH2B4I2m2XuM5ULKM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pecado Original",
+        "url": "https://open.spotify.com/album/5JRGlJtz53p6P1qlfrcPxe"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriel",
+          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
+        }
+      ],
+      "duration_ms": 279226,
+      "name": "Amor",
+      "url": "https://open.spotify.com/track/07hLFDNfRR8m01VGSfedDV"
     },
     {
       "added_at": null,
@@ -739,22 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mi Mexico",
-        "url": "https://open.spotify.com/album/0AhHiKGTjvrxCmy3eN4dsa"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriel",
-          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
-        }
-      ],
-      "duration_ms": 219773,
-      "name": "Amigo M\u00edo (Homenaje a Juan Gabriel)",
-      "url": "https://open.spotify.com/track/0AVNZGGgCp8YCwWOZWQ2PH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Joyas De Dos Siglos",
         "url": "https://open.spotify.com/album/61OaHiemzBG4mL8F2tV05e"
       },
@@ -771,6 +755,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mi Mexico",
+        "url": "https://open.spotify.com/album/0AhHiKGTjvrxCmy3eN4dsa"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriel",
+          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
+        }
+      ],
+      "duration_ms": 219773,
+      "name": "Amigo M\u00edo (Homenaje a Juan Gabriel)",
+      "url": "https://open.spotify.com/track/0AVNZGGgCp8YCwWOZWQ2PH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lo Esencial De Ana Gabriel",
         "url": "https://open.spotify.com/album/2bdaZKWu05LqbN8OwJtuPZ"
       },
@@ -783,6 +783,22 @@
       "duration_ms": 171013,
       "name": "Mi Gusto Es",
       "url": "https://open.spotify.com/track/7nxcuxZdkAtkrTkleoUi9S"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ayer Y Hoy",
+        "url": "https://open.spotify.com/album/301WAwIJ2sSfY8I4Jwujqm"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriel",
+          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
+        }
+      ],
+      "duration_ms": 193733,
+      "name": "No Tengo Dinero",
+      "url": "https://open.spotify.com/track/2S7OHGloZFKDo034vN3tVi"
     },
     {
       "added_at": null,
@@ -815,22 +831,6 @@
       "duration_ms": 229426,
       "name": "No a Pedir Perd\u00f3n",
       "url": "https://open.spotify.com/track/7jhGpbLaAo99bQbEW1zhhM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ayer Y Hoy",
-        "url": "https://open.spotify.com/album/301WAwIJ2sSfY8I4Jwujqm"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriel",
-          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
-        }
-      ],
-      "duration_ms": 193733,
-      "name": "No Tengo Dinero",
-      "url": "https://open.spotify.com/track/2S7OHGloZFKDo034vN3tVi"
     },
     {
       "added_at": null,

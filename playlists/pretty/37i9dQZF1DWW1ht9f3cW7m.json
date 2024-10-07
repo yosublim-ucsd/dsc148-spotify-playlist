@@ -1,6 +1,6 @@
 {
   "description": "the sweetest new indie pop, featuring Ziggy 2000 \ud83c\udf51",
-  "num_followers": 29313,
+  "num_followers": 29319,
   "original_name": "peach",
   "owner": {
     "name": "Spotify",
@@ -287,22 +287,6 @@
     {
       "added_at": "2024-09-20 11:39:59",
       "album": {
-        "name": "Aftertaste",
-        "url": "https://open.spotify.com/album/4JA0mBZ4KkCk0clp3d8kLY"
-      },
-      "artists": [
-        {
-          "name": "Katie Gavin",
-          "url": "https://open.spotify.com/artist/0DpJl9MRib7qywJOoYqEZg"
-        }
-      ],
-      "duration_ms": 214706,
-      "name": "Aftertaste",
-      "url": "https://open.spotify.com/track/3AinWupnMmlYaOgJGqitFe"
-    },
-    {
-      "added_at": "2024-09-20 11:39:59",
-      "album": {
         "name": "Gary",
         "url": "https://open.spotify.com/album/7xFJr8gwGjiWzyKV39882t"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 176751,
       "name": "I Like Your Look",
       "url": "https://open.spotify.com/track/6ZTmWZIjdDhZUNdq8uGCZ8"
+    },
+    {
+      "added_at": "2024-09-20 11:39:59",
+      "album": {
+        "name": "Aftertaste",
+        "url": "https://open.spotify.com/album/4JA0mBZ4KkCk0clp3d8kLY"
+      },
+      "artists": [
+        {
+          "name": "Katie Gavin",
+          "url": "https://open.spotify.com/artist/0DpJl9MRib7qywJOoYqEZg"
+        }
+      ],
+      "duration_ms": 214706,
+      "name": "Aftertaste",
+      "url": "https://open.spotify.com/track/3AinWupnMmlYaOgJGqitFe"
     },
     {
       "added_at": "2024-09-20 11:39:59",
@@ -463,22 +463,6 @@
     {
       "added_at": "2024-09-20 11:39:59",
       "album": {
-        "name": "The Hit",
-        "url": "https://open.spotify.com/album/3I6WD02sgexnaNvRPK5Afu"
-      },
-      "artists": [
-        {
-          "name": "Orla Gartland",
-          "url": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
-        }
-      ],
-      "duration_ms": 210826,
-      "name": "The Hit",
-      "url": "https://open.spotify.com/track/502BnzJNB8zqqkoamEOJ4R"
-    },
-    {
-      "added_at": "2024-09-20 11:39:59",
-      "album": {
         "name": "In My Bed",
         "url": "https://open.spotify.com/album/6TPAYp0gSJhRlAV7NXfxJT"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 162405,
       "name": "In My Bed",
       "url": "https://open.spotify.com/track/1xEQzQ64fSDNYKiHhLn1IE"
+    },
+    {
+      "added_at": "2024-09-20 11:39:59",
+      "album": {
+        "name": "The Hit",
+        "url": "https://open.spotify.com/album/3I6WD02sgexnaNvRPK5Afu"
+      },
+      "artists": [
+        {
+          "name": "Orla Gartland",
+          "url": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
+        }
+      ],
+      "duration_ms": 210826,
+      "name": "The Hit",
+      "url": "https://open.spotify.com/track/502BnzJNB8zqqkoamEOJ4R"
     },
     {
       "added_at": "2024-09-20 11:39:59",
@@ -655,6 +655,22 @@
     {
       "added_at": "2024-09-20 11:39:59",
       "album": {
+        "name": "Crashmat",
+        "url": "https://open.spotify.com/album/0Wg1x7oDYJayjGsIqqgtE8"
+      },
+      "artists": [
+        {
+          "name": "Eden Rain",
+          "url": "https://open.spotify.com/artist/05VijScuoKQiWkLdXcsQAq"
+        }
+      ],
+      "duration_ms": 220908,
+      "name": "Crashmat",
+      "url": "https://open.spotify.com/track/0YqubN3yf6rfd44lhjstR9"
+    },
+    {
+      "added_at": "2024-09-20 11:39:59",
+      "album": {
         "name": "Romanticism",
         "url": "https://open.spotify.com/album/6I7Al2K8HxKvyJcook1ZR8"
       },
@@ -687,22 +703,6 @@
     {
       "added_at": "2024-09-20 11:39:59",
       "album": {
-        "name": "Crashmat",
-        "url": "https://open.spotify.com/album/0Wg1x7oDYJayjGsIqqgtE8"
-      },
-      "artists": [
-        {
-          "name": "Eden Rain",
-          "url": "https://open.spotify.com/artist/05VijScuoKQiWkLdXcsQAq"
-        }
-      ],
-      "duration_ms": 220908,
-      "name": "Crashmat",
-      "url": "https://open.spotify.com/track/0YqubN3yf6rfd44lhjstR9"
-    },
-    {
-      "added_at": "2024-09-20 11:39:59",
-      "album": {
         "name": "Lungs",
         "url": "https://open.spotify.com/album/3b5aMQuNlkUihH61tWfafr"
       },
@@ -715,6 +715,26 @@
       "duration_ms": 220165,
       "name": "Lungs",
       "url": "https://open.spotify.com/track/2GZfOep6Qzwlzdw5yOoSMA"
+    },
+    {
+      "added_at": "2024-09-20 11:39:59",
+      "album": {
+        "name": "Fantasneeze (feat. Matilda Mann)",
+        "url": "https://open.spotify.com/album/0yNJq0ZGlgRyfz4UBoARVn"
+      },
+      "artists": [
+        {
+          "name": "Bombay Bicycle Club",
+          "url": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
+        },
+        {
+          "name": "Matilda Mann",
+          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
+        }
+      ],
+      "duration_ms": 201240,
+      "name": "Fantasneeze (feat. Matilda Mann)",
+      "url": "https://open.spotify.com/track/4dsyiGRnIpw8Y1C5IXhKJi"
     },
     {
       "added_at": "2024-09-20 11:39:59",
@@ -747,26 +767,6 @@
       "duration_ms": 171235,
       "name": "Good Riddance",
       "url": "https://open.spotify.com/track/0pnmZiwIMLCCkCoOhtLnnh"
-    },
-    {
-      "added_at": "2024-09-20 11:39:59",
-      "album": {
-        "name": "Fantasneeze (feat. Matilda Mann)",
-        "url": "https://open.spotify.com/album/0yNJq0ZGlgRyfz4UBoARVn"
-      },
-      "artists": [
-        {
-          "name": "Bombay Bicycle Club",
-          "url": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
-        },
-        {
-          "name": "Matilda Mann",
-          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
-        }
-      ],
-      "duration_ms": 201240,
-      "name": "Fantasneeze (feat. Matilda Mann)",
-      "url": "https://open.spotify.com/track/4dsyiGRnIpw8Y1C5IXhKJi"
     },
     {
       "added_at": "2024-09-20 11:39:59",
@@ -967,22 +967,6 @@
     {
       "added_at": "2024-09-20 11:39:59",
       "album": {
-        "name": "Keep It Up",
-        "url": "https://open.spotify.com/album/2BfzJ8ozCGDPTD9TXNPGrL"
-      },
-      "artists": [
-        {
-          "name": "Good Neighbours",
-          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
-        }
-      ],
-      "duration_ms": 156524,
-      "name": "Keep It Up",
-      "url": "https://open.spotify.com/track/3B7cm8w1IAfOfgQHFvAsft"
-    },
-    {
-      "added_at": "2024-09-20 11:39:59",
-      "album": {
         "name": "Living In A Dream",
         "url": "https://open.spotify.com/album/0pXGJiiO2fysQYXmyQqG6A"
       },
@@ -999,18 +983,18 @@
     {
       "added_at": "2024-09-20 11:39:59",
       "album": {
-        "name": "Boys",
-        "url": "https://open.spotify.com/album/5PzrhYhmTEb8Wao6CmZe66"
+        "name": "Keep It Up",
+        "url": "https://open.spotify.com/album/2BfzJ8ozCGDPTD9TXNPGrL"
       },
       "artists": [
         {
-          "name": "Ellur",
-          "url": "https://open.spotify.com/artist/4uG8VYp1GLQpZVokfG2Ui7"
+          "name": "Good Neighbours",
+          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
         }
       ],
-      "duration_ms": 192444,
-      "name": "Boys",
-      "url": "https://open.spotify.com/track/3wRLsbybqoHVncYouMQvp3"
+      "duration_ms": 156524,
+      "name": "Keep It Up",
+      "url": "https://open.spotify.com/track/3B7cm8w1IAfOfgQHFvAsft"
     },
     {
       "added_at": "2024-09-20 11:39:59",
@@ -1027,6 +1011,22 @@
       "duration_ms": 206133,
       "name": "The End of the Contender",
       "url": "https://open.spotify.com/track/2LpNomwbgz7bAIDdqvX5bq"
+    },
+    {
+      "added_at": "2024-09-20 11:39:59",
+      "album": {
+        "name": "Boys",
+        "url": "https://open.spotify.com/album/5PzrhYhmTEb8Wao6CmZe66"
+      },
+      "artists": [
+        {
+          "name": "Ellur",
+          "url": "https://open.spotify.com/artist/4uG8VYp1GLQpZVokfG2Ui7"
+        }
+      ],
+      "duration_ms": 192444,
+      "name": "Boys",
+      "url": "https://open.spotify.com/track/3wRLsbybqoHVncYouMQvp3"
     },
     {
       "added_at": "2024-09-20 11:39:59",
@@ -1271,6 +1271,22 @@
     {
       "added_at": "2024-09-20 11:39:59",
       "album": {
+        "name": "HOKAGE - THE MIXTAPE",
+        "url": "https://open.spotify.com/album/6ZpbWiHfm0u6lmCzgE82GR"
+      },
+      "artists": [
+        {
+          "name": "Richard Fairlie",
+          "url": "https://open.spotify.com/artist/3LsDFxj4WpnS55c4NW2VOb"
+        }
+      ],
+      "duration_ms": 147146,
+      "name": "Found The 1",
+      "url": "https://open.spotify.com/track/1VaaMp66mFlNF3vaMiZIZC"
+    },
+    {
+      "added_at": "2024-09-20 11:39:59",
+      "album": {
         "name": "Spinnin'",
         "url": "https://open.spotify.com/album/4CRfnrDgWkCNq4jO08YzQt"
       },
@@ -1287,22 +1303,6 @@
       "duration_ms": 197546,
       "name": "Spinnin'",
       "url": "https://open.spotify.com/track/2xWPDIps7ger8WRUE84bg9"
-    },
-    {
-      "added_at": "2024-09-20 11:39:59",
-      "album": {
-        "name": "HOKAGE - THE MIXTAPE",
-        "url": "https://open.spotify.com/album/6ZpbWiHfm0u6lmCzgE82GR"
-      },
-      "artists": [
-        {
-          "name": "Richard Fairlie",
-          "url": "https://open.spotify.com/artist/3LsDFxj4WpnS55c4NW2VOb"
-        }
-      ],
-      "duration_ms": 147146,
-      "name": "Found The 1",
-      "url": "https://open.spotify.com/track/1VaaMp66mFlNF3vaMiZIZC"
     }
   ],
   "unique_name": "peach",

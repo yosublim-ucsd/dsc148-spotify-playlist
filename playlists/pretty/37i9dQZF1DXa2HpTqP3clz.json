@@ -1,6 +1,6 @@
 {
   "description": "Today's Bluegrass and old time favorites. Cover: Molly Tuttle",
-  "num_followers": 164020,
+  "num_followers": 164028,
   "original_name": "Grass Roots",
   "owner": {
     "name": "Spotify",
@@ -207,22 +207,6 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Cuttin' Grass - Vol. 2 (Cowboy Arms Sessions)",
-        "url": "https://open.spotify.com/album/3N51Ixwph25awFqhoACG0U"
-      },
-      "artists": [
-        {
-          "name": "Sturgill Simpson",
-          "url": "https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB"
-        }
-      ],
-      "duration_ms": 258217,
-      "name": "Brace for Impact (Live a Little)",
-      "url": "https://open.spotify.com/track/3iLjUZBNEWxGn5HQDpmMXo"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
         "name": "Midnight on the Stormy Deep",
         "url": "https://open.spotify.com/album/0PgsXRaS1PIBUfwvoswFAI"
       },
@@ -243,6 +227,22 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
+        "name": "Alpenglow",
+        "url": "https://open.spotify.com/album/2iSaVUXzQK55C1IXDOCSDc"
+      },
+      "artists": [
+        {
+          "name": "Trampled by Turtles",
+          "url": "https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4"
+        }
+      ],
+      "duration_ms": 225333,
+      "name": "Starting Over",
+      "url": "https://open.spotify.com/track/0DFo7a8DQvONxF2Q5dpV3i"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
         "name": "Cannonball",
         "url": "https://open.spotify.com/album/3LVLGUjjuicXJofykim9ne"
       },
@@ -259,18 +259,18 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Alpenglow",
-        "url": "https://open.spotify.com/album/2iSaVUXzQK55C1IXDOCSDc"
+        "name": "Cuttin' Grass - Vol. 2 (Cowboy Arms Sessions)",
+        "url": "https://open.spotify.com/album/3N51Ixwph25awFqhoACG0U"
       },
       "artists": [
         {
-          "name": "Trampled by Turtles",
-          "url": "https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4"
+          "name": "Sturgill Simpson",
+          "url": "https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB"
         }
       ],
-      "duration_ms": 225333,
-      "name": "Starting Over",
-      "url": "https://open.spotify.com/track/0DFo7a8DQvONxF2Q5dpV3i"
+      "duration_ms": 258217,
+      "name": "Brace for Impact (Live a Little)",
+      "url": "https://open.spotify.com/track/3iLjUZBNEWxGn5HQDpmMXo"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -359,22 +359,6 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Black Banjo",
-        "url": "https://open.spotify.com/album/60WtwjOc8WzjAIixV2r5X2"
-      },
-      "artists": [
-        {
-          "name": "Tray Wellington",
-          "url": "https://open.spotify.com/artist/5aqFCmHlaXKczjY9MT2QUh"
-        }
-      ],
-      "duration_ms": 198478,
-      "name": "Crooked Mind",
-      "url": "https://open.spotify.com/track/3k70wq0lztvq5kxpkAAs0g"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
         "name": "Crooked Tree",
         "url": "https://open.spotify.com/album/1lIZUzexPXR4Q7exPmNqCc"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 196677,
       "name": "Castilleja",
       "url": "https://open.spotify.com/track/7GVZVkfQtr01rzG3D5z0c2"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Black Banjo",
+        "url": "https://open.spotify.com/album/60WtwjOc8WzjAIixV2r5X2"
+      },
+      "artists": [
+        {
+          "name": "Tray Wellington",
+          "url": "https://open.spotify.com/artist/5aqFCmHlaXKczjY9MT2QUh"
+        }
+      ],
+      "duration_ms": 198478,
+      "name": "Crooked Mind",
+      "url": "https://open.spotify.com/track/3k70wq0lztvq5kxpkAAs0g"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -655,22 +655,6 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "The Whole of the Moon",
-        "url": "https://open.spotify.com/album/6q6ny6rMWxwRnPWI3AScqC"
-      },
-      "artists": [
-        {
-          "name": "The Travelin' McCourys",
-          "url": "https://open.spotify.com/artist/68EkPt5iRraARf9QgW093I"
-        }
-      ],
-      "duration_ms": 282794,
-      "name": "The Whole of the Moon",
-      "url": "https://open.spotify.com/track/4TGWzN6QyzwIPAPCzgjjfs"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
         "name": "Get Out",
         "url": "https://open.spotify.com/album/17wa8FFwa1mZQEp3A97JC7"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 220727,
       "name": "Get Out",
       "url": "https://open.spotify.com/track/5SybEHAzVGgyDpT1Pz8Q6h"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "The Whole of the Moon",
+        "url": "https://open.spotify.com/album/6q6ny6rMWxwRnPWI3AScqC"
+      },
+      "artists": [
+        {
+          "name": "The Travelin' McCourys",
+          "url": "https://open.spotify.com/artist/68EkPt5iRraARf9QgW093I"
+        }
+      ],
+      "duration_ms": 282794,
+      "name": "The Whole of the Moon",
+      "url": "https://open.spotify.com/track/4TGWzN6QyzwIPAPCzgjjfs"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -955,26 +955,6 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Get Lost",
-        "url": "https://open.spotify.com/album/0fKAf9b8w95vvx189vGbPM"
-      },
-      "artists": [
-        {
-          "name": "Wyatt Ellis",
-          "url": "https://open.spotify.com/artist/7sMnZYKPDxOYnIApICuCuB"
-        },
-        {
-          "name": "Jake Workman",
-          "url": "https://open.spotify.com/artist/2pTYJ8ZHeRNixhBRxXZUvx"
-        }
-      ],
-      "duration_ms": 267954,
-      "name": "Get Lost",
-      "url": "https://open.spotify.com/track/2xoQ9YNPQLEB4U0CluiqMF"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
         "name": "Wildflowers",
         "url": "https://open.spotify.com/album/1nq5kIiewuJN5Z5oAOPWAQ"
       },
@@ -991,6 +971,26 @@
       "duration_ms": 263317,
       "name": "Wildflowers",
       "url": "https://open.spotify.com/track/1B2qeZynbSvMxTzGjorlrs"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Get Lost",
+        "url": "https://open.spotify.com/album/0fKAf9b8w95vvx189vGbPM"
+      },
+      "artists": [
+        {
+          "name": "Wyatt Ellis",
+          "url": "https://open.spotify.com/artist/7sMnZYKPDxOYnIApICuCuB"
+        },
+        {
+          "name": "Jake Workman",
+          "url": "https://open.spotify.com/artist/2pTYJ8ZHeRNixhBRxXZUvx"
+        }
+      ],
+      "duration_ms": 267954,
+      "name": "Get Lost",
+      "url": "https://open.spotify.com/track/2xoQ9YNPQLEB4U0CluiqMF"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -1047,6 +1047,26 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
+        "name": "Fall In Tennessee",
+        "url": "https://open.spotify.com/album/1QtwwF0WtSMo35OFQoyCQU"
+      },
+      "artists": [
+        {
+          "name": "Authentic Unlimited",
+          "url": "https://open.spotify.com/artist/5jZqMnM9mgPBcqLPx1tXqO"
+        },
+        {
+          "name": "Jerry Douglas",
+          "url": "https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9"
+        }
+      ],
+      "duration_ms": 231120,
+      "name": "Fall In Tennessee (feat. Jerry Douglas)",
+      "url": "https://open.spotify.com/track/57bKuzcq04EQaYuGhl9k8J"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
         "name": "Saint Anthony",
         "url": "https://open.spotify.com/album/7CSeXBSuRmHP4esFKvEl1A"
       },
@@ -1087,26 +1107,6 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Fall In Tennessee",
-        "url": "https://open.spotify.com/album/1QtwwF0WtSMo35OFQoyCQU"
-      },
-      "artists": [
-        {
-          "name": "Authentic Unlimited",
-          "url": "https://open.spotify.com/artist/5jZqMnM9mgPBcqLPx1tXqO"
-        },
-        {
-          "name": "Jerry Douglas",
-          "url": "https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9"
-        }
-      ],
-      "duration_ms": 231120,
-      "name": "Fall In Tennessee (feat. Jerry Douglas)",
-      "url": "https://open.spotify.com/track/57bKuzcq04EQaYuGhl9k8J"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
         "name": "Down the Road",
         "url": "https://open.spotify.com/album/7I7tkdXpA6qOyCPSg84PF8"
       },
@@ -1119,22 +1119,6 @@
       "duration_ms": 195573,
       "name": "Down the Road",
       "url": "https://open.spotify.com/track/69w7WdVGJKtGmen9f1nuzp"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "Something Higher",
-        "url": "https://open.spotify.com/album/5SxBT8RsPPkxVX4OWMtzFj"
-      },
-      "artists": [
-        {
-          "name": "Leftover Salmon",
-          "url": "https://open.spotify.com/artist/2dU9NlAClSjQtKoVgUQwdz"
-        }
-      ],
-      "duration_ms": 207600,
-      "name": "Winter's Gone",
-      "url": "https://open.spotify.com/track/0uiQQlDpytEw0HXD1Xp0Bp"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -1187,6 +1171,22 @@
       "duration_ms": 222302,
       "name": "Disarm",
       "url": "https://open.spotify.com/track/28mgF3i1YsF7Vn9HZJl9rj"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Something Higher",
+        "url": "https://open.spotify.com/album/5SxBT8RsPPkxVX4OWMtzFj"
+      },
+      "artists": [
+        {
+          "name": "Leftover Salmon",
+          "url": "https://open.spotify.com/artist/2dU9NlAClSjQtKoVgUQwdz"
+        }
+      ],
+      "duration_ms": 207600,
+      "name": "Winter's Gone",
+      "url": "https://open.spotify.com/track/0uiQQlDpytEw0HXD1Xp0Bp"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "This Valley",
-        "url": "https://open.spotify.com/album/6plNZDHsm8CBOcAACUBGNo"
-      },
-      "artists": [
-        {
-          "name": "Calamity Jane",
-          "url": "https://open.spotify.com/artist/27gCtJEgvaLycbLWwvWoOL"
-        }
-      ],
-      "duration_ms": 255505,
-      "name": "This Valley",
-      "url": "https://open.spotify.com/track/2KicuYyr7rQBmGKNBTckFH"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
         "name": "Knee Deep in Bluegrass",
         "url": "https://open.spotify.com/album/1DwPW07YVEUjtv6g3Q2lfC"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 182000,
       "name": "Knee Deep in Bluegrass",
       "url": "https://open.spotify.com/track/1OUD7ceuWPD2DHFXly0voV"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Abigail",
+        "url": "https://open.spotify.com/album/6pSyrdAE7P3nzf03ox29j3"
+      },
+      "artists": [
+        {
+          "name": "Chatham Rabbits",
+          "url": "https://open.spotify.com/artist/3yf23aN9drtTEXSYsxd4od"
+        }
+      ],
+      "duration_ms": 197500,
+      "name": "Abigail",
+      "url": "https://open.spotify.com/track/2yWj6P3Ldax9Xj8Em2VMC7"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Abigail",
-        "url": "https://open.spotify.com/album/6pSyrdAE7P3nzf03ox29j3"
-      },
-      "artists": [
-        {
-          "name": "Chatham Rabbits",
-          "url": "https://open.spotify.com/artist/3yf23aN9drtTEXSYsxd4od"
-        }
-      ],
-      "duration_ms": 197500,
-      "name": "Abigail",
-      "url": "https://open.spotify.com/track/2yWj6P3Ldax9Xj8Em2VMC7"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
         "name": "Kentucky for Me",
         "url": "https://open.spotify.com/album/1LGzbxuKK6FgvnAGDbSnjv"
       },
@@ -1643,6 +1627,22 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
+        "name": "This Valley",
+        "url": "https://open.spotify.com/album/6plNZDHsm8CBOcAACUBGNo"
+      },
+      "artists": [
+        {
+          "name": "Calamity Jane",
+          "url": "https://open.spotify.com/artist/27gCtJEgvaLycbLWwvWoOL"
+        }
+      ],
+      "duration_ms": 255505,
+      "name": "This Valley",
+      "url": "https://open.spotify.com/track/2KicuYyr7rQBmGKNBTckFH"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
         "name": "My Little Girl in Tennessee (Live)",
         "url": "https://open.spotify.com/album/2KCEPrxG000PkTJy4GyUs5"
       },
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "When It All Falls Apart",
-        "url": "https://open.spotify.com/album/27RyKE0w6y8BEcoJTdGEUa"
-      },
-      "artists": [
-        {
-          "name": "The Brothers Comatose",
-          "url": "https://open.spotify.com/artist/7oKVYDiVZxglvgEW2zHcAD"
-        }
-      ],
-      "duration_ms": 189086,
-      "name": "When It All Falls Apart",
-      "url": "https://open.spotify.com/track/5TNZQdvoU9VixFZzKA7P8j"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
         "name": "Kinetic Tone",
         "url": "https://open.spotify.com/album/0rzsm2eUbu7i7gR2rFiCKX"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 292000,
       "name": "Evergreen",
       "url": "https://open.spotify.com/track/5Pa5e2bklYYT44kgVwoHCF"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "When It All Falls Apart",
+        "url": "https://open.spotify.com/album/27RyKE0w6y8BEcoJTdGEUa"
+      },
+      "artists": [
+        {
+          "name": "The Brothers Comatose",
+          "url": "https://open.spotify.com/artist/7oKVYDiVZxglvgEW2zHcAD"
+        }
+      ],
+      "duration_ms": 189086,
+      "name": "When It All Falls Apart",
+      "url": "https://open.spotify.com/track/5TNZQdvoU9VixFZzKA7P8j"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -1739,22 +1739,6 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Hey Blue Eyed Girl",
-        "url": "https://open.spotify.com/album/0iejH3OR2VXe7lsYrxH8AP"
-      },
-      "artists": [
-        {
-          "name": "Cody Sherman",
-          "url": "https://open.spotify.com/artist/5BCBTcz3o3Uv5KRTHSSCsa"
-        }
-      ],
-      "duration_ms": 154720,
-      "name": "Hey Blue Eyed Girl",
-      "url": "https://open.spotify.com/track/17Nj11TnEg5iOs7hOWvQ8k"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
         "name": "Radio John: Songs of John Hartford",
         "url": "https://open.spotify.com/album/7FOxa6jWM5Q08r303wqJCV"
       },
@@ -1767,6 +1751,22 @@
       "duration_ms": 198493,
       "name": "I'm Still Here",
       "url": "https://open.spotify.com/track/7kb2VDW8ENEIsQRUnia0if"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Hey Blue Eyed Girl",
+        "url": "https://open.spotify.com/album/0iejH3OR2VXe7lsYrxH8AP"
+      },
+      "artists": [
+        {
+          "name": "Cody Sherman",
+          "url": "https://open.spotify.com/artist/5BCBTcz3o3Uv5KRTHSSCsa"
+        }
+      ],
+      "duration_ms": 154720,
+      "name": "Hey Blue Eyed Girl",
+      "url": "https://open.spotify.com/track/17Nj11TnEg5iOs7hOWvQ8k"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -1787,18 +1787,18 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Slow Lane",
-        "url": "https://open.spotify.com/album/7HkunE8lcrwmcgGkaRL8Tl"
+        "name": "As the Crow Flies",
+        "url": "https://open.spotify.com/album/2z8ZzHSCHFi0UWjSdqmqg5"
       },
       "artists": [
         {
-          "name": "Admiral Radio",
-          "url": "https://open.spotify.com/artist/2qpKTCEq8tcqBhSibdDV9v"
+          "name": "Green Mountain Grass",
+          "url": "https://open.spotify.com/artist/1i5eYanA9k3jyo0RfZUIwn"
         }
       ],
-      "duration_ms": 260717,
-      "name": "Slow Lane",
-      "url": "https://open.spotify.com/track/1aPOnucEH1cxH2nZBKp0tJ"
+      "duration_ms": 206373,
+      "name": "The Banker",
+      "url": "https://open.spotify.com/track/0wKrA8JpLv4NHNXIpKA8h7"
     }
   ],
   "unique_name": "Grass Roots",

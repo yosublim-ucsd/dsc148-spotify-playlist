@@ -4,7 +4,7 @@
 
 > Calm piano music for enhanced concentration.
 
-696 songs - 1 day 5 hr 49 min
+697 songs - 1 day 5 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -453,6 +453,7 @@
 | [Peaceful Ignorance](https://open.spotify.com/track/5bGPLVJlI19XA1Oi4XtdEV) | [Evening Tales from the Stars](https://open.spotify.com/artist/4VftS6I87aCiaNvLRYhgBM) | [Peaceful Ignorance](https://open.spotify.com/album/6BGZkVmgfvJvsHGlK6Ri16) | 2:38 | 2023-09-05 |  |
 | [Peaceful Rebellion](https://open.spotify.com/track/55as6jfARR6xn5g0ZxChCA) | [Janet Redger](https://open.spotify.com/artist/7303TPICVC0WJvWy0FVstL) | [Peaceful Rebellion](https://open.spotify.com/album/57Pg8ejZM8WiXzduIW1SXI) | 2:19 | 2022-02-01 |  |
 | [Pedal Chair](https://open.spotify.com/track/7BcH01qQ67ZUStmNC4qhk8) | [Lenox Blake](https://open.spotify.com/artist/27AR7w3aKM7We9eLVS4JRk) | [Beach Think](https://open.spotify.com/album/1IzBoOSHSHN2pjxOB3GbEv) | 2:14 | 2021-12-07 | 2023-01-27 |
+| [Penumbra](https://open.spotify.com/track/75RUCsqgTfDJtapy9sIxwQ) | [Glenn Natale](https://open.spotify.com/artist/4z0Dltam2MLIOC06UvwVel) | [Penumbra](https://open.spotify.com/album/6Tzbh7jg6UDkELlI4sZ2NS) | 2:51 | 2024-10-01 |  |
 | [Peregrine](https://open.spotify.com/track/6ru4oHaeosmzYwl3ZQ4FOy) | [Stella Acorsi](https://open.spotify.com/artist/5cOxvGawKcmi9tVZ1CgYDc) | [Peregrine](https://open.spotify.com/album/52YTCEVKNlvcSpjkg4eE1Z) | 2:21 | 2022-07-15 |  |
 | [Perfect Timing](https://open.spotify.com/track/6LUP8h81Gl3GzEMU7OaWxZ) | [Maya Sarfatto](https://open.spotify.com/artist/2BULWWkjYsQLp6CasdyPC9) | [Perfect Timing](https://open.spotify.com/album/3IsqmVQFD31pAnxaKjmT4i) | 2:40 | 2024-04-03 |  |
 | [Perfectly Flawed](https://open.spotify.com/track/6AdGVOupLKxDJTByA1Fs1j) | [Aiden Riedel](https://open.spotify.com/artist/77j4VlHhrvqU37GkYjwmp1) | [Perfectly Flawed](https://open.spotify.com/album/0K5ub7KMLtzFk4zM2nFiAp) | 2:47 | 2021-12-07 | 2024-04-19 |
@@ -476,7 +477,7 @@
 | [Pure](https://open.spotify.com/track/4PGGCORyVKe2uZh9Dj3koa) | [Mischa](https://open.spotify.com/artist/0uoxi1rtrDUZIJLU64n9Y1) | [Tonals](https://open.spotify.com/album/2lxt90H9hmuEuFLetT9Dvp) | 2:19 | 2023-01-26 | 2023-08-18 |
 | [purple](https://open.spotify.com/track/6V3dW0yDfaVmruskoTBZdr) | [June Faulkner](https://open.spotify.com/artist/3y5opCdWummR85Am4kEc3M) | [glass eyes](https://open.spotify.com/album/35kYcnARS82yoocVD5eghR) | 2:33 | 2021-12-07 |  |
 | [Pursuance](https://open.spotify.com/track/2VV9vBFleaOfvDkKRxUNR6) | [Deirdre Fetter](https://open.spotify.com/artist/1oJLuwoSGBnbUVL0ol9m1b) | [Pursuance](https://open.spotify.com/album/00Evna3lzOgx036aEnY8IU) | 2:24 | 2021-12-07 | 2024-08-10 |
-| [Pécs](https://open.spotify.com/track/5V38Yb2mGq3AgKwh5WA49i) | [Pataki Gisella](https://open.spotify.com/artist/7ylwShecuuRLzZP81XRqzC) | [Pécs](https://open.spotify.com/album/6V5jrMp0lHNVOqmspzTaOg) | 2:03 | 2022-01-04 |  |
+| [Pécs](https://open.spotify.com/track/5V38Yb2mGq3AgKwh5WA49i) | [Pataki Gisella](https://open.spotify.com/artist/7ylwShecuuRLzZP81XRqzC) | [Pécs](https://open.spotify.com/album/6V5jrMp0lHNVOqmspzTaOg) | 2:03 | 2022-01-04 | 2024-10-07 |
 | [Quantum Leap](https://open.spotify.com/track/5rhEwaIiy4GVfJIb9G5SOU) | [Juno Erikson](https://open.spotify.com/artist/7I6yDSz0uj0fzj28dGELNC) | [Quantum Leap](https://open.spotify.com/album/5j8trqbZklxLUHbB6liH7r) | 1:48 | 2022-07-15 | 2023-07-25 |
 | [Quiet Cove](https://open.spotify.com/track/5gqstUNfi8kZBSsGDtk4ND) | [Edgar De Vries](https://open.spotify.com/artist/5ccEcnSCa82fIfFgwpVyrD) | [Quiet Cove](https://open.spotify.com/album/5GsMGDSeQKNXLZsujzhCTL) | 3:21 | 2021-12-07 | 2022-04-08 |
 | [Quiet Nights](https://open.spotify.com/track/4mHCaIQknzBBYYijiJsIOx) | [Daniel Schrage](https://open.spotify.com/artist/4jUSZA2wRFImlXFhsV3Ab6) | [Quiet Nights](https://open.spotify.com/album/5q5iEqsyefKYEfu6W9Xc3E) | 2:11 | 2024-05-07 |  |

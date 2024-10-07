@@ -598,7 +598,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-07",
       "duration_ms": 161880,
       "name": "BAIL\u00c9 CON MI EX",
       "url": "https://open.spotify.com/track/0Yc0ziTsyjahYqlWXVXlTU"
@@ -1920,7 +1920,7 @@
       ],
       "date_added": "2024-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-07",
       "duration_ms": 219350,
       "name": "First Flight",
       "url": "https://open.spotify.com/track/1vgxzXRpefvdQo3TVyhvQk"
@@ -3514,7 +3514,7 @@
       ],
       "date_added": "2022-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-07",
       "duration_ms": 204376,
       "name": "Loser",
       "url": "https://open.spotify.com/track/1BCXUbnU0486n4eeTyyVIj"
@@ -3742,6 +3742,24 @@
       "duration_ms": 169081,
       "name": "Man Down",
       "url": "https://open.spotify.com/track/7qGAPhz0FrUjab9OF3Uu6j"
+    },
+    {
+      "album": {
+        "name": "Time & Pace",
+        "url": "https://open.spotify.com/album/023N0ahL3qb90oQw29uhLQ"
+      },
+      "artists": [
+        {
+          "name": "flu",
+          "url": "https://open.spotify.com/artist/6saBjzFSNu2pvTcfWWE04R"
+        }
+      ],
+      "date_added": "2024-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233099,
+      "name": "Manila Bay",
+      "url": "https://open.spotify.com/track/4FnCntyvK3yXlhxRD0Kepc"
     },
     {
       "album": {
@@ -3981,6 +3999,24 @@
     },
     {
       "album": {
+        "name": "Moonlit Floor",
+        "url": "https://open.spotify.com/album/2F84s5tvr9RSS6VI772mVb"
+      },
+      "artists": [
+        {
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+        }
+      ],
+      "date_added": "2024-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155757,
+      "name": "Moonlit Floor",
+      "url": "https://open.spotify.com/track/3yDRcs0Y4pPzkvMbUfeF9H"
+    },
+    {
+      "album": {
         "name": "Mr Right (with Meghan Trainor)",
         "url": "https://open.spotify.com/album/1AkVEhlI2czYOj5h0f2xDH"
       },
@@ -4018,6 +4054,24 @@
       "duration_ms": 230250,
       "name": "Mr. Feelgood",
       "url": "https://open.spotify.com/track/7wYA8mWTOnHltpaxBU7rKH"
+    },
+    {
+      "album": {
+        "name": "Mr. Nice Guy",
+        "url": "https://open.spotify.com/album/1fF9wZOYNEfsnC9JxGRG8H"
+      },
+      "artists": [
+        {
+          "name": "Kai Buizon",
+          "url": "https://open.spotify.com/artist/5E0ONvPoq9Y6C6BI0uz430"
+        }
+      ],
+      "date_added": "2024-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174562,
+      "name": "Mr. Nice Guy",
+      "url": "https://open.spotify.com/track/6kseAdmTppYOCdKF3kRPaR"
     },
     {
       "album": {

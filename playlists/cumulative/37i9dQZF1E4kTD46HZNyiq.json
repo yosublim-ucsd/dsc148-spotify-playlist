@@ -1476,7 +1476,7 @@
       ],
       "date_added": "2024-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-07",
       "duration_ms": 204040,
       "name": "American Dream",
       "url": "https://open.spotify.com/track/0M8fDs18QIQTM2zWb62zdD"
@@ -3512,7 +3512,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-07",
       "duration_ms": 235226,
       "name": "Burning",
       "url": "https://open.spotify.com/track/4CbEywsdQl5J2e2XQhYEfq"
@@ -3708,7 +3708,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2024-10-07",
       "duration_ms": 204556,
       "name": "Call Me a Fool",
       "url": "https://open.spotify.com/track/1d9TH6UbBljrMUh3CV21Nj"
@@ -5000,7 +5000,7 @@
       ],
       "date_added": "2023-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-02",
+      "date_removed": null,
       "duration_ms": 221624,
       "name": "Craving",
       "url": "https://open.spotify.com/track/7CHdjR9MASwI8Fz6cLtGWd"
@@ -5310,7 +5310,7 @@
       ],
       "date_added": "2024-06-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-02",
+      "date_removed": null,
       "duration_ms": 279480,
       "name": "Deep Burn Blue",
       "url": "https://open.spotify.com/track/7vh8aA3VMof7m2JR8hX8Nm"
@@ -5508,7 +5508,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-06",
+      "date_removed": null,
       "duration_ms": 155224,
       "name": "Dissonance",
       "url": "https://open.spotify.com/track/5T6HL1eFT1CG27YQpiNWsQ"
@@ -6564,6 +6564,24 @@
       "duration_ms": 184843,
       "name": "entertainment",
       "url": "https://open.spotify.com/track/5fJTHWEbUDf8Opo7k90GrA"
+    },
+    {
+      "album": {
+        "name": "Entertainment",
+        "url": "https://open.spotify.com/album/4M1aekfaXqqSG3TC11R0Nq"
+      },
+      "artists": [
+        {
+          "name": "LAVE",
+          "url": "https://open.spotify.com/artist/5MahcP4Ovco9oORrQRaUqp"
+        }
+      ],
+      "date_added": "2024-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167750,
+      "name": "Entertainment",
+      "url": "https://open.spotify.com/track/7iw9cLtkxLkZgHghAIp33A"
     },
     {
       "album": {
@@ -8174,7 +8192,7 @@
       ],
       "date_added": "2023-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-07",
       "duration_ms": 200000,
       "name": "Freezing Blue",
       "url": "https://open.spotify.com/track/7xRBmiQpqZG3MDnHAbTAKh"
@@ -8660,7 +8678,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-07",
       "duration_ms": 211880,
       "name": "Go With You",
       "url": "https://open.spotify.com/track/4QVB1ZS4a15oz6md6YiSZV"
@@ -9136,7 +9154,7 @@
       ],
       "date_added": "2022-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-07",
       "duration_ms": 208336,
       "name": "Have You Ever Been in Love",
       "url": "https://open.spotify.com/track/0n9B2zPLq1AOlUqsENmqLz"
@@ -10869,6 +10887,24 @@
     },
     {
       "album": {
+        "name": "I Wish That You Would",
+        "url": "https://open.spotify.com/album/2ys8AG6jx8NpFXIQHu0BKX"
+      },
+      "artists": [
+        {
+          "name": "The Strike",
+          "url": "https://open.spotify.com/artist/6VB4TqEl0yfaF88LYHH4wj"
+        }
+      ],
+      "date_added": "2024-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243187,
+      "name": "I Wish That You Would",
+      "url": "https://open.spotify.com/track/2vsm98u08CG2g7ZoFwmeG0"
+    },
+    {
+      "album": {
         "name": "Silver Sun",
         "url": "https://open.spotify.com/album/5zq7jWTztfVlFilBpxhX77"
       },
@@ -11306,7 +11342,7 @@
       ],
       "date_added": "2022-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-03",
+      "date_removed": null,
       "duration_ms": 296426,
       "name": "If Only for Tonight",
       "url": "https://open.spotify.com/track/5Lp5x32wJQwBAOKiuv42At"
@@ -11776,7 +11812,7 @@
       ],
       "date_added": "2022-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-07",
       "duration_ms": 229634,
       "name": "It Was Always You",
       "url": "https://open.spotify.com/track/7Fy98ezmG0HOWe4cyiJYmU"
@@ -13168,7 +13204,7 @@
       ],
       "date_added": "2022-11-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-06",
+      "date_removed": null,
       "duration_ms": 298628,
       "name": "Looking for Love",
       "url": "https://open.spotify.com/track/5UvcNAtYa3davlDx7FoHXG"
@@ -14336,7 +14372,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-07",
       "duration_ms": 207303,
       "name": "Memories",
       "url": "https://open.spotify.com/track/3lNADf2oo04nn8KZDpRb9e"
@@ -14480,7 +14516,7 @@
       ],
       "date_added": "2022-11-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-06",
+      "date_removed": null,
       "duration_ms": 245511,
       "name": "Miles Ahead",
       "url": "https://open.spotify.com/track/4YTY53IsP2suUTVilL4Vex"
@@ -16514,7 +16550,7 @@
       ],
       "date_added": "2024-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-05",
+      "date_removed": null,
       "duration_ms": 276480,
       "name": "On the Corner Where You Live",
       "url": "https://open.spotify.com/track/4BEI01RMjIuA2geFPZIVHS"
@@ -17100,7 +17136,7 @@
       ],
       "date_added": "2022-08-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-01",
+      "date_removed": null,
       "duration_ms": 211613,
       "name": "Parachute",
       "url": "https://open.spotify.com/track/7AFTfujw3igAr8FZLxUXe6"
@@ -17458,7 +17494,7 @@
       ],
       "date_added": "2024-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-07",
       "duration_ms": 187250,
       "name": "Plans",
       "url": "https://open.spotify.com/track/20FoD7SUV9MIo031ajcuvF"
@@ -20102,7 +20138,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-07",
       "duration_ms": 207777,
       "name": "Stay",
       "url": "https://open.spotify.com/track/1mSeH8fuRPe0eKLCfsbdet"
@@ -20286,7 +20322,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-07",
       "duration_ms": 207960,
       "name": "Still Thinking About You",
       "url": "https://open.spotify.com/track/5sIdAQhsVsX8W6qmjadnVY"
@@ -22066,7 +22102,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-03",
+      "date_removed": null,
       "duration_ms": 236330,
       "name": "Thoughts in Progress",
       "url": "https://open.spotify.com/track/7DJwq1g845tYWMuZ0hzfiK"

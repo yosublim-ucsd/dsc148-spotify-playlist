@@ -4,7 +4,7 @@
 
 > Get the party started with these Naija bangers!
 
-541 songs - 1 day 2 hr 1 min
+542 songs - 1 day 2 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -264,7 +264,8 @@
 | [INTOXYCATED \(feat\. Dave\)](https://open.spotify.com/track/5YEVBJnnt2qMM67NGCjEdV) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [INTOXYCATED \(feat\. Dave\)](https://open.spotify.com/album/7ht2LkihRHKtZ5BiS60xCV) | 3:32 | 2023-07-14 | 2024-06-28 |
 | [JABO](https://open.spotify.com/track/4oeH9c9ca6CS2xHytLLRnP) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [JABO](https://open.spotify.com/album/4HBc5xjhUSTusWkAqEL8iv) | 3:17 | 2024-07-05 |  |
 | [Jam One Kele](https://open.spotify.com/track/76QO1kpcj4a2loIWPT3oCn) | [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ), [Millymay\_pod](https://open.spotify.com/artist/5tL2K1ihStDSZ0TyEIzENy), [Gimba](https://open.spotify.com/artist/6ce9dKPssK7XOIyar9S4vK), [Fxrtune](https://open.spotify.com/artist/5FWZoWPhJAzysoaslzFaZF) | [Jam One Kele](https://open.spotify.com/album/1cWUxbpDvU1n9WHga7X1m2) | 2:29 | 2023-05-11 | 2023-05-27 |
-| [Jigga \(feat\. Khaid\)](https://open.spotify.com/track/2M3mZOLJc4rnosgHWbJhCE) | [TAR1Q](https://open.spotify.com/artist/33KPqwPnEKJY6Tm9WfJQKq), [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP) | [Jigga \(feat\. Khaid\)](https://open.spotify.com/album/3OSxByQbloa6nXxRwaUBW1) | 2:19 | 2024-03-15 |  |
+| [Jericho](https://open.spotify.com/track/7papu4e31nzof4krM4DEnr) | [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [Jericho](https://open.spotify.com/album/0l4BFdcbPircI7ZguRkQYU) | 2:33 | 2024-10-04 |  |
+| [Jigga \(feat\. Khaid\)](https://open.spotify.com/track/2M3mZOLJc4rnosgHWbJhCE) | [TAR1Q](https://open.spotify.com/artist/33KPqwPnEKJY6Tm9WfJQKq), [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP) | [Jigga \(feat\. Khaid\)](https://open.spotify.com/album/3OSxByQbloa6nXxRwaUBW1) | 2:19 | 2024-03-15 | 2024-10-07 |
 | [Jinja](https://open.spotify.com/track/5dVJTSZhL2n81ZkT4PZu0x) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Unruly](https://open.spotify.com/album/51mowf1u3WaEYvqalsbP7M) | 2:35 | 2023-08-10 | 2024-06-28 |
 | [Jogo](https://open.spotify.com/track/1FvYnYoGgA4VSCCQYoyYLB) | [Skales](https://open.spotify.com/artist/1ixqGowpDM21RwyJmJ7hpv) | [Jogo](https://open.spotify.com/album/1OBCMQSmPvSFbajPbc2eG8) | 2:40 | 2024-07-26 | 2024-09-07 |
 | [Joha](https://open.spotify.com/track/5UwxpuGHkwiojKDaPC5ZNu) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Mr\. Money With The Vibe](https://open.spotify.com/album/0lzPMIAYhhUSD2BPT0VQWI) | 2:28 | 2022-09-28 | 2024-02-09 |

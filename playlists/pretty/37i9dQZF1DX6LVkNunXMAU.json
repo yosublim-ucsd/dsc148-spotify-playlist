@@ -1,6 +1,6 @@
 {
   "description": "indie folk latino de estaci\u00f3n. Foto: In\u00e9s Errandonea",
-  "num_followers": 58544,
+  "num_followers": 58558,
   "original_name": "folk & primavera",
   "owner": {
     "name": "Spotify",
@@ -187,22 +187,6 @@
     {
       "added_at": "2024-10-04 03:00:00",
       "album": {
-        "name": "Entr\u00e9gate",
-        "url": "https://open.spotify.com/album/72cfqHGrPSyunjF29CPcF4"
-      },
-      "artists": [
-        {
-          "name": "Zoe Gotusso",
-          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
-        }
-      ],
-      "duration_ms": 191232,
-      "name": "Entr\u00e9gate",
-      "url": "https://open.spotify.com/track/5ZDQSDUVyBDesqJxWrWsnv"
-    },
-    {
-      "added_at": "2024-10-04 03:00:00",
-      "album": {
         "name": "cuidar el mango",
         "url": "https://open.spotify.com/album/4SUdavkGS6dTcKCCr2IIQp"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 257564,
       "name": "Sentado Esperando",
       "url": "https://open.spotify.com/track/4Df4BpSE9IsdGNoMkNRqVb"
+    },
+    {
+      "added_at": "2024-10-04 03:00:00",
+      "album": {
+        "name": "Entr\u00e9gate",
+        "url": "https://open.spotify.com/album/72cfqHGrPSyunjF29CPcF4"
+      },
+      "artists": [
+        {
+          "name": "Zoe Gotusso",
+          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
+        }
+      ],
+      "duration_ms": 191232,
+      "name": "Entr\u00e9gate",
+      "url": "https://open.spotify.com/track/5ZDQSDUVyBDesqJxWrWsnv"
     },
     {
       "added_at": "2024-10-04 03:00:00",
@@ -371,6 +371,22 @@
     {
       "added_at": "2024-10-04 03:00:00",
       "album": {
+        "name": "sin dormir",
+        "url": "https://open.spotify.com/album/2SYQZ048xVo5QFVddwryM8"
+      },
+      "artists": [
+        {
+          "name": "Carolina Donati",
+          "url": "https://open.spotify.com/artist/6eIiOzrOXkaZXB1nrdwHxT"
+        }
+      ],
+      "duration_ms": 180750,
+      "name": "sin dormir",
+      "url": "https://open.spotify.com/track/59UvXZfr6mHrJBRAuUE9sw"
+    },
+    {
+      "added_at": "2024-10-04 03:00:00",
+      "album": {
         "name": "La Fiesta",
         "url": "https://open.spotify.com/album/1T0ZC5gGVRUWxCXhAraJ1J"
       },
@@ -387,22 +403,6 @@
       "duration_ms": 192989,
       "name": "La Fiesta",
       "url": "https://open.spotify.com/track/3ESZU7ayz6gxMCt2Q0FQLc"
-    },
-    {
-      "added_at": "2024-10-04 03:00:00",
-      "album": {
-        "name": "sin dormir",
-        "url": "https://open.spotify.com/album/2SYQZ048xVo5QFVddwryM8"
-      },
-      "artists": [
-        {
-          "name": "Carolina Donati",
-          "url": "https://open.spotify.com/artist/6eIiOzrOXkaZXB1nrdwHxT"
-        }
-      ],
-      "duration_ms": 180750,
-      "name": "sin dormir",
-      "url": "https://open.spotify.com/track/59UvXZfr6mHrJBRAuUE9sw"
     },
     {
       "added_at": "2024-10-04 03:00:00",
@@ -511,6 +511,22 @@
     {
       "added_at": "2024-10-04 03:00:00",
       "album": {
+        "name": "Volar",
+        "url": "https://open.spotify.com/album/1JdAQSX4XwFsgpaqXit3ly"
+      },
+      "artists": [
+        {
+          "name": "Yorka",
+          "url": "https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn"
+        }
+      ],
+      "duration_ms": 199946,
+      "name": "Volar",
+      "url": "https://open.spotify.com/track/3qu7fBSjryb5kRTUAX4koC"
+    },
+    {
+      "added_at": "2024-10-04 03:00:00",
+      "album": {
         "name": "Particular",
         "url": "https://open.spotify.com/album/4yGbRVdQ4kVluOxL7y41cj"
       },
@@ -531,18 +547,18 @@
     {
       "added_at": "2024-10-04 03:00:00",
       "album": {
-        "name": "Volar",
-        "url": "https://open.spotify.com/album/1JdAQSX4XwFsgpaqXit3ly"
+        "name": "Negro",
+        "url": "https://open.spotify.com/album/47nXLO7WVGjNijy7I7cEpT"
       },
       "artists": [
         {
-          "name": "Yorka",
-          "url": "https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn"
+          "name": "Mayra C\u00e1rdenas",
+          "url": "https://open.spotify.com/artist/2WqHyrHA3jRZWmTFTIynZ1"
         }
       ],
-      "duration_ms": 199946,
-      "name": "Volar",
-      "url": "https://open.spotify.com/track/3qu7fBSjryb5kRTUAX4koC"
+      "duration_ms": 245217,
+      "name": "Negro",
+      "url": "https://open.spotify.com/track/09hvR9r7vIxdNDS8Jcylb5"
     },
     {
       "added_at": "2024-10-04 03:00:00",
@@ -559,22 +575,6 @@
       "duration_ms": 171388,
       "name": "2:42",
       "url": "https://open.spotify.com/track/4yzo6HV34l2wGug7W90BPZ"
-    },
-    {
-      "added_at": "2024-10-04 03:00:00",
-      "album": {
-        "name": "Negro",
-        "url": "https://open.spotify.com/album/47nXLO7WVGjNijy7I7cEpT"
-      },
-      "artists": [
-        {
-          "name": "Mayra C\u00e1rdenas",
-          "url": "https://open.spotify.com/artist/2WqHyrHA3jRZWmTFTIynZ1"
-        }
-      ],
-      "duration_ms": 245217,
-      "name": "Negro",
-      "url": "https://open.spotify.com/track/09hvR9r7vIxdNDS8Jcylb5"
     },
     {
       "added_at": "2024-10-04 03:00:00",
@@ -791,22 +791,6 @@
     {
       "added_at": "2024-10-04 03:00:00",
       "album": {
-        "name": "Una Vez M\u00e1s",
-        "url": "https://open.spotify.com/album/5GtNzOeObvCTuob1bxt7e0"
-      },
-      "artists": [
-        {
-          "name": "Valdes",
-          "url": "https://open.spotify.com/artist/62KIJJdBnLN13RmoZPNXfc"
-        }
-      ],
-      "duration_ms": 244689,
-      "name": "Otra Vez",
-      "url": "https://open.spotify.com/track/5g2zTEnrgZQa9MInAahB3h"
-    },
-    {
-      "added_at": "2024-10-04 03:00:00",
-      "album": {
         "name": "Ancla",
         "url": "https://open.spotify.com/album/6zxhQ5fk9XWNJ7RiqLq8QU"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 212444,
       "name": "Ancla",
       "url": "https://open.spotify.com/track/7qwjFIlGWlWB4JqxGjqKIp"
+    },
+    {
+      "added_at": "2024-10-04 03:00:00",
+      "album": {
+        "name": "Una Vez M\u00e1s",
+        "url": "https://open.spotify.com/album/5GtNzOeObvCTuob1bxt7e0"
+      },
+      "artists": [
+        {
+          "name": "Valdes",
+          "url": "https://open.spotify.com/artist/62KIJJdBnLN13RmoZPNXfc"
+        }
+      ],
+      "duration_ms": 244689,
+      "name": "Otra Vez",
+      "url": "https://open.spotify.com/track/5g2zTEnrgZQa9MInAahB3h"
     },
     {
       "added_at": "2024-10-04 03:00:00",
@@ -1095,26 +1095,6 @@
     {
       "added_at": "2024-10-04 03:00:00",
       "album": {
-        "name": "Lo Que Hicimos",
-        "url": "https://open.spotify.com/album/5M7QbPWs7IZbZ7GgwucHwh"
-      },
-      "artists": [
-        {
-          "name": "Agus Vivo",
-          "url": "https://open.spotify.com/artist/6aULl90kAb6JwNUYjIgUdW"
-        },
-        {
-          "name": "S\u00f3nico Vivo",
-          "url": "https://open.spotify.com/artist/4gKGHKgKXprf8kvRCmcrpe"
-        }
-      ],
-      "duration_ms": 157725,
-      "name": "Lo Que Hicimos",
-      "url": "https://open.spotify.com/track/0sCce9Byqxnaj763s0RaWf"
-    },
-    {
-      "added_at": "2024-10-04 03:00:00",
-      "album": {
         "name": "Un Nuevo Ritmo",
         "url": "https://open.spotify.com/album/3F2ROcUUuqyFDMAe5WmYr2"
       },
@@ -1131,6 +1111,26 @@
       "duration_ms": 213164,
       "name": "Un Nuevo Ritmo",
       "url": "https://open.spotify.com/track/33D7MHDLCtY3lhDkaEtNe9"
+    },
+    {
+      "added_at": "2024-10-04 03:00:00",
+      "album": {
+        "name": "Lo Que Hicimos",
+        "url": "https://open.spotify.com/album/5M7QbPWs7IZbZ7GgwucHwh"
+      },
+      "artists": [
+        {
+          "name": "Agus Vivo",
+          "url": "https://open.spotify.com/artist/6aULl90kAb6JwNUYjIgUdW"
+        },
+        {
+          "name": "S\u00f3nico Vivo",
+          "url": "https://open.spotify.com/artist/4gKGHKgKXprf8kvRCmcrpe"
+        }
+      ],
+      "duration_ms": 157725,
+      "name": "Lo Que Hicimos",
+      "url": "https://open.spotify.com/track/0sCce9Byqxnaj763s0RaWf"
     },
     {
       "added_at": "2024-10-04 03:00:00",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2024-10-04 03:00:00",
       "album": {
-        "name": "Marcas",
-        "url": "https://open.spotify.com/album/0w38eh7Mri9G90T8h6E90r"
-      },
-      "artists": [
-        {
-          "name": "Lucio Mantel",
-          "url": "https://open.spotify.com/artist/5kCJ9ht14oLO98WlBRfwyk"
-        }
-      ],
-      "duration_ms": 222721,
-      "name": "Marcas",
-      "url": "https://open.spotify.com/track/0gMJWL100Hky7I4awRPAof"
-    },
-    {
-      "added_at": "2024-10-04 03:00:00",
-      "album": {
         "name": "Cuando Estemos Solos",
         "url": "https://open.spotify.com/album/2H5mxVSPzZ7gP9Gd26ArdS"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 193025,
       "name": "Cuando Estemos Solos",
       "url": "https://open.spotify.com/track/5O8nLq2WsBmn7NoBsTns6d"
+    },
+    {
+      "added_at": "2024-10-04 03:00:00",
+      "album": {
+        "name": "Marcas",
+        "url": "https://open.spotify.com/album/0w38eh7Mri9G90T8h6E90r"
+      },
+      "artists": [
+        {
+          "name": "Lucio Mantel",
+          "url": "https://open.spotify.com/artist/5kCJ9ht14oLO98WlBRfwyk"
+        }
+      ],
+      "duration_ms": 222721,
+      "name": "Marcas",
+      "url": "https://open.spotify.com/track/0gMJWL100Hky7I4awRPAof"
     },
     {
       "added_at": "2024-10-04 03:00:00",
@@ -1351,6 +1351,22 @@
     {
       "added_at": "2024-10-04 03:00:00",
       "album": {
+        "name": "Un besito",
+        "url": "https://open.spotify.com/album/6a7Gm9RqJp1fNypiMAfL5y"
+      },
+      "artists": [
+        {
+          "name": "Ni\u00f1o Etc.",
+          "url": "https://open.spotify.com/artist/4AjkGn28sERGr75M5kcvqn"
+        }
+      ],
+      "duration_ms": 178500,
+      "name": "Un besito",
+      "url": "https://open.spotify.com/track/3Mgj1UCxUVjQ7YpSNEh0f3"
+    },
+    {
+      "added_at": "2024-10-04 03:00:00",
+      "album": {
         "name": "Amiga",
         "url": "https://open.spotify.com/album/5qP82oprnVkwjHHMlzvl59"
       },
@@ -1379,22 +1395,6 @@
       "duration_ms": 180177,
       "name": "agridulce",
       "url": "https://open.spotify.com/track/35U9ETMmcj32t9fymTtB8E"
-    },
-    {
-      "added_at": "2024-10-04 03:00:00",
-      "album": {
-        "name": "Un besito",
-        "url": "https://open.spotify.com/album/6a7Gm9RqJp1fNypiMAfL5y"
-      },
-      "artists": [
-        {
-          "name": "Ni\u00f1o Etc.",
-          "url": "https://open.spotify.com/artist/4AjkGn28sERGr75M5kcvqn"
-        }
-      ],
-      "duration_ms": 178500,
-      "name": "Un besito",
-      "url": "https://open.spotify.com/track/3Mgj1UCxUVjQ7YpSNEh0f3"
     },
     {
       "added_at": "2024-10-04 03:00:00",

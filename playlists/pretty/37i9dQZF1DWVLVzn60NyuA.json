@@ -1,6 +1,6 @@
 {
   "description": "Ending summer \u201924 with a Frenna takeover! Enjoy and love from Frenna. First 20 tracks curated by the artist.",
-  "num_followers": 448559,
+  "num_followers": 448518,
   "original_name": "Summer Vibes",
   "owner": {
     "name": "Spotify",
@@ -491,6 +491,22 @@
     {
       "added_at": "2024-10-04 07:42:18",
       "album": {
+        "name": "RU The World",
+        "url": "https://open.spotify.com/album/676QN3uS7pzWA0Or87JTcN"
+      },
+      "artists": [
+        {
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Asiwaju",
+      "url": "https://open.spotify.com/track/6z5y2kdxF4XrEVRFVqdGVL"
+    },
+    {
+      "added_at": "2024-10-04 07:42:18",
+      "album": {
         "name": "Active",
         "url": "https://open.spotify.com/album/7pjNsxzij0oRzYy1xSSnzP"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 172597,
       "name": "Active",
       "url": "https://open.spotify.com/track/2TOk5OzW5sL83ndKYZJmU7"
-    },
-    {
-      "added_at": "2024-10-04 07:42:18",
-      "album": {
-        "name": "RU The World",
-        "url": "https://open.spotify.com/album/676QN3uS7pzWA0Or87JTcN"
-      },
-      "artists": [
-        {
-          "name": "Ruger",
-          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Asiwaju",
-      "url": "https://open.spotify.com/track/6z5y2kdxF4XrEVRFVqdGVL"
     },
     {
       "added_at": "2024-10-04 07:42:18",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2024-10-04 07:42:18",
       "album": {
-        "name": "No Holding Back",
-        "url": "https://open.spotify.com/album/3WH8Q7LS2p143e5PrKGLeA"
-      },
-      "artists": [
-        {
-          "name": "Wayne Wonder",
-          "url": "https://open.spotify.com/artist/3kc5AFnL1TQQdNaMdSW2UO"
-        }
-      ],
-      "duration_ms": 202013,
-      "name": "No Letting Go",
-      "url": "https://open.spotify.com/track/5dWfl2PBpKHpBVdz95wxK1"
-    },
-    {
-      "added_at": "2024-10-04 07:42:18",
-      "album": {
         "name": "Holy Ghost",
         "url": "https://open.spotify.com/album/2mjQFCTzCQ3Up4RWHHpKMm"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 186153,
       "name": "Holy Ghost",
       "url": "https://open.spotify.com/track/5vqLQ8nrejrMf591htfM5u"
+    },
+    {
+      "added_at": "2024-10-04 07:42:18",
+      "album": {
+        "name": "No Holding Back",
+        "url": "https://open.spotify.com/album/3WH8Q7LS2p143e5PrKGLeA"
+      },
+      "artists": [
+        {
+          "name": "Wayne Wonder",
+          "url": "https://open.spotify.com/artist/3kc5AFnL1TQQdNaMdSW2UO"
+        }
+      ],
+      "duration_ms": 202013,
+      "name": "No Letting Go",
+      "url": "https://open.spotify.com/track/5dWfl2PBpKHpBVdz95wxK1"
     },
     {
       "added_at": "2024-10-04 07:42:18",
@@ -1435,6 +1435,30 @@
     {
       "added_at": "2024-10-04 07:42:18",
       "album": {
+        "name": "Essence (feat. Justin Bieber & Tems)",
+        "url": "https://open.spotify.com/album/0Rn8NAh8NnoaCOt8r8Tc3e"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "duration_ms": 263288,
+      "name": "Essence (feat. Justin Bieber & Tems)",
+      "url": "https://open.spotify.com/track/1mSdbey7RstGLY2udgXv74"
+    },
+    {
+      "added_at": "2024-10-04 07:42:18",
+      "album": {
         "name": "No Wahala (Remix)",
         "url": "https://open.spotify.com/album/1CuCITWTEr6lE2q3MraOSG"
       },
@@ -1531,30 +1555,6 @@
     {
       "added_at": "2024-10-04 07:42:18",
       "album": {
-        "name": "Essence (feat. Justin Bieber & Tems)",
-        "url": "https://open.spotify.com/album/0Rn8NAh8NnoaCOt8r8Tc3e"
-      },
-      "artists": [
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        },
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        },
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        }
-      ],
-      "duration_ms": 263288,
-      "name": "Essence (feat. Justin Bieber & Tems)",
-      "url": "https://open.spotify.com/track/1mSdbey7RstGLY2udgXv74"
-    },
-    {
-      "added_at": "2024-10-04 07:42:18",
-      "album": {
         "name": "Call Me Every Day (feat. Wizkid)",
         "url": "https://open.spotify.com/album/6FKhBgElPu5RBHlarPE1aO"
       },
@@ -1595,26 +1595,6 @@
     {
       "added_at": "2024-10-04 07:42:18",
       "album": {
-        "name": "Goodbyes (Myrrh)",
-        "url": "https://open.spotify.com/album/5NCOoYKQ1R5VOG4I9yX1tD"
-      },
-      "artists": [
-        {
-          "name": "DJ Snake",
-          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
-        },
-        {
-          "name": "Naomi Sharon",
-          "url": "https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb"
-        }
-      ],
-      "duration_ms": 210124,
-      "name": "Goodbyes (Myrrh)",
-      "url": "https://open.spotify.com/track/3ElesDZUMxUJejxvl6IeEk"
-    },
-    {
-      "added_at": "2024-10-04 07:42:18",
-      "album": {
         "name": "attention (with Justin Bieber)",
         "url": "https://open.spotify.com/album/0fGPQwybhz88QkKXZpfkwj"
       },
@@ -1631,6 +1611,26 @@
       "duration_ms": 180563,
       "name": "attention (with Justin Bieber)",
       "url": "https://open.spotify.com/track/6tTeRmhhuwDl5Y4UiJdHuO"
+    },
+    {
+      "added_at": "2024-10-04 07:42:18",
+      "album": {
+        "name": "Goodbyes (Myrrh)",
+        "url": "https://open.spotify.com/album/5NCOoYKQ1R5VOG4I9yX1tD"
+      },
+      "artists": [
+        {
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+        },
+        {
+          "name": "Naomi Sharon",
+          "url": "https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb"
+        }
+      ],
+      "duration_ms": 210124,
+      "name": "Goodbyes (Myrrh)",
+      "url": "https://open.spotify.com/track/3ElesDZUMxUJejxvl6IeEk"
     },
     {
       "added_at": "2024-10-04 07:42:18",
@@ -1763,22 +1763,6 @@
     {
       "added_at": "2024-10-04 07:42:18",
       "album": {
-        "name": "Baby",
-        "url": "https://open.spotify.com/album/5IdztduZ9UaHxZm0xDyEyA"
-      },
-      "artists": [
-        {
-          "name": "Aya Nakamura",
-          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
-        }
-      ],
-      "duration_ms": 162373,
-      "name": "Baby",
-      "url": "https://open.spotify.com/track/5uKJiHdlDBz53cM1qZd0yB"
-    },
-    {
-      "added_at": "2024-10-04 07:42:18",
-      "album": {
         "name": "We Caa Done (feat. Drake)",
         "url": "https://open.spotify.com/album/4yJNcgX3otzDbMMyrdJBN5"
       },
@@ -1831,6 +1815,22 @@
       "duration_ms": 189800,
       "name": "B. D\u2019OR (feat. Wizkid)",
       "url": "https://open.spotify.com/track/3ketN3dth18vSJ1T3HIztN"
+    },
+    {
+      "added_at": "2024-10-04 07:42:18",
+      "album": {
+        "name": "Baby",
+        "url": "https://open.spotify.com/album/5IdztduZ9UaHxZm0xDyEyA"
+      },
+      "artists": [
+        {
+          "name": "Aya Nakamura",
+          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
+        }
+      ],
+      "duration_ms": 162373,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/5uKJiHdlDBz53cM1qZd0yB"
     },
     {
       "added_at": "2024-10-04 07:42:18",
@@ -2007,22 +2007,6 @@
     {
       "added_at": "2024-10-04 07:42:18",
       "album": {
-        "name": "No Dey Form",
-        "url": "https://open.spotify.com/album/019TDVSSWLHZtDiqJlSiLV"
-      },
-      "artists": [
-        {
-          "name": "Babyboy AV",
-          "url": "https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX"
-        }
-      ],
-      "duration_ms": 140540,
-      "name": "No Dey Form",
-      "url": "https://open.spotify.com/track/1a5glQzge8OW5w2izckOGN"
-    },
-    {
-      "added_at": "2024-10-04 07:42:18",
-      "album": {
         "name": "All for U (Ameyatchi)",
         "url": "https://open.spotify.com/album/42yVoeB1Bs9lE6uXi7zU2m"
       },
@@ -2043,6 +2027,22 @@
       "duration_ms": 165563,
       "name": "All for U (Ameyatchi)",
       "url": "https://open.spotify.com/track/7LjHqvRyDcMZ9rJ1XuY0IP"
+    },
+    {
+      "added_at": "2024-10-04 07:42:18",
+      "album": {
+        "name": "No Dey Form",
+        "url": "https://open.spotify.com/album/019TDVSSWLHZtDiqJlSiLV"
+      },
+      "artists": [
+        {
+          "name": "Babyboy AV",
+          "url": "https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX"
+        }
+      ],
+      "duration_ms": 140540,
+      "name": "No Dey Form",
+      "url": "https://open.spotify.com/track/1a5glQzge8OW5w2izckOGN"
     },
     {
       "added_at": "2024-10-04 07:42:18",
@@ -2399,6 +2399,22 @@
     {
       "added_at": "2024-10-04 07:42:18",
       "album": {
+        "name": "Section",
+        "url": "https://open.spotify.com/album/51ygRTQJLBz3v6EDqvsL6K"
+      },
+      "artists": [
+        {
+          "name": "Kranium",
+          "url": "https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S"
+        }
+      ],
+      "duration_ms": 134400,
+      "name": "Section",
+      "url": "https://open.spotify.com/track/2R6wZFWXBF2rRIbvQirzjP"
+    },
+    {
+      "added_at": "2024-10-04 07:42:18",
+      "album": {
         "name": "Anywhere",
         "url": "https://open.spotify.com/album/12uDqYnWnF6wUirHfkjysQ"
       },
@@ -2423,6 +2439,22 @@
     {
       "added_at": "2024-10-04 07:42:18",
       "album": {
+        "name": "As Promised",
+        "url": "https://open.spotify.com/album/11sPQhjZhUDue2hWycZJyX"
+      },
+      "artists": [
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        }
+      ],
+      "duration_ms": 169413,
+      "name": "Commando",
+      "url": "https://open.spotify.com/track/4tAX2qe0TX7O69B65OQmCg"
+    },
+    {
+      "added_at": "2024-10-04 07:42:18",
+      "album": {
         "name": "AREA BOYZ",
         "url": "https://open.spotify.com/album/3Uo1dpUULgBeWEgjf5AMsd"
       },
@@ -2443,38 +2475,6 @@
       "duration_ms": 211873,
       "name": "TONIGHT (feat. Libianca & Jae5)",
       "url": "https://open.spotify.com/track/17sdMcLIsAvKuQBPKXmiDC"
-    },
-    {
-      "added_at": "2024-10-04 07:42:18",
-      "album": {
-        "name": "As Promised",
-        "url": "https://open.spotify.com/album/11sPQhjZhUDue2hWycZJyX"
-      },
-      "artists": [
-        {
-          "name": "King Promise",
-          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
-        }
-      ],
-      "duration_ms": 169413,
-      "name": "Commando",
-      "url": "https://open.spotify.com/track/4tAX2qe0TX7O69B65OQmCg"
-    },
-    {
-      "added_at": "2024-10-04 07:42:18",
-      "album": {
-        "name": "Section",
-        "url": "https://open.spotify.com/album/51ygRTQJLBz3v6EDqvsL6K"
-      },
-      "artists": [
-        {
-          "name": "Kranium",
-          "url": "https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S"
-        }
-      ],
-      "duration_ms": 134400,
-      "name": "Section",
-      "url": "https://open.spotify.com/track/2R6wZFWXBF2rRIbvQirzjP"
     },
     {
       "added_at": "2024-10-04 07:42:18",
@@ -2515,6 +2515,26 @@
     {
       "added_at": "2024-10-04 07:42:18",
       "album": {
+        "name": "JEJEREJE (with Ginton)",
+        "url": "https://open.spotify.com/album/1B29weDwfx3NtFm4S7PrVJ"
+      },
+      "artists": [
+        {
+          "name": "Stonebwoy",
+          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
+        },
+        {
+          "name": "Ginton",
+          "url": "https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy"
+        }
+      ],
+      "duration_ms": 184722,
+      "name": "JEJEREJE (with Ginton)",
+      "url": "https://open.spotify.com/track/2gCRqpK3AIAUjjrqK1303r"
+    },
+    {
+      "added_at": "2024-10-04 07:42:18",
+      "album": {
         "name": "Vibe",
         "url": "https://open.spotify.com/album/4vY5bGXeYLqW2gQqADFMty"
       },
@@ -2547,26 +2567,6 @@
       "duration_ms": 190140,
       "name": "Anogo",
       "url": "https://open.spotify.com/track/4TS6GJz8xn4suZRv3yHUnf"
-    },
-    {
-      "added_at": "2024-10-04 07:42:18",
-      "album": {
-        "name": "JEJEREJE (with Ginton)",
-        "url": "https://open.spotify.com/album/1B29weDwfx3NtFm4S7PrVJ"
-      },
-      "artists": [
-        {
-          "name": "Stonebwoy",
-          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
-        },
-        {
-          "name": "Ginton",
-          "url": "https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy"
-        }
-      ],
-      "duration_ms": 184722,
-      "name": "JEJEREJE (with Ginton)",
-      "url": "https://open.spotify.com/track/2gCRqpK3AIAUjjrqK1303r"
     },
     {
       "added_at": "2024-10-04 07:42:18",
@@ -2803,46 +2803,6 @@
     {
       "added_at": "2024-10-04 07:42:18",
       "album": {
-        "name": "Yes Man",
-        "url": "https://open.spotify.com/album/3wn0w7eJJd52doQgthOjr1"
-      },
-      "artists": [
-        {
-          "name": "Joshua J",
-          "url": "https://open.spotify.com/artist/2AZupS7RiLA0sh5uzwsr2l"
-        }
-      ],
-      "duration_ms": 168461,
-      "name": "Yes Man",
-      "url": "https://open.spotify.com/track/0ubSevtIKpsMbuSdPQAUfo"
-    },
-    {
-      "added_at": "2024-10-04 07:42:18",
-      "album": {
-        "name": "Jessy",
-        "url": "https://open.spotify.com/album/7rrA3YP0m7l5kwDt89MBKz"
-      },
-      "artists": [
-        {
-          "name": "FS Green",
-          "url": "https://open.spotify.com/artist/2xjVYIMLS3nR5Y1UOr02Vb"
-        },
-        {
-          "name": "Dave Nunes",
-          "url": "https://open.spotify.com/artist/1Jo0kVGvfYzeXGjMUvfmLR"
-        },
-        {
-          "name": "BenjiFlow",
-          "url": "https://open.spotify.com/artist/3NRpcByltnHx7oZxWbg8Lt"
-        }
-      ],
-      "duration_ms": 148714,
-      "name": "Jessy",
-      "url": "https://open.spotify.com/track/4fu6Xv1f0LK73K566EkFYQ"
-    },
-    {
-      "added_at": "2024-10-04 07:42:18",
-      "album": {
         "name": "Do You Mind?",
         "url": "https://open.spotify.com/album/4EaF4hW9uXMGmoVlqbC1cw"
       },
@@ -2903,22 +2863,62 @@
     {
       "added_at": "2024-10-04 07:42:18",
       "album": {
-        "name": "Find Your Way",
-        "url": "https://open.spotify.com/album/4Ip7RbsFLF6XKTaoHcb4PZ"
+        "name": "Jessy",
+        "url": "https://open.spotify.com/album/7rrA3YP0m7l5kwDt89MBKz"
       },
       "artists": [
         {
-          "name": "Shamis",
-          "url": "https://open.spotify.com/artist/6zJSQoZfurX2beU3qbe717"
+          "name": "FS Green",
+          "url": "https://open.spotify.com/artist/2xjVYIMLS3nR5Y1UOr02Vb"
         },
         {
-          "name": "Steve Biko.K",
-          "url": "https://open.spotify.com/artist/0Riq2hYv6r7QUpawOjFUTx"
+          "name": "Dave Nunes",
+          "url": "https://open.spotify.com/artist/1Jo0kVGvfYzeXGjMUvfmLR"
+        },
+        {
+          "name": "BenjiFlow",
+          "url": "https://open.spotify.com/artist/3NRpcByltnHx7oZxWbg8Lt"
         }
       ],
-      "duration_ms": 323495,
-      "name": "Find Your Way",
-      "url": "https://open.spotify.com/track/6eSyiy2IBds8UThlpxyLhU"
+      "duration_ms": 148714,
+      "name": "Jessy",
+      "url": "https://open.spotify.com/track/4fu6Xv1f0LK73K566EkFYQ"
+    },
+    {
+      "added_at": "2024-10-04 07:42:18",
+      "album": {
+        "name": "Yes Man",
+        "url": "https://open.spotify.com/album/3wn0w7eJJd52doQgthOjr1"
+      },
+      "artists": [
+        {
+          "name": "Joshua J",
+          "url": "https://open.spotify.com/artist/2AZupS7RiLA0sh5uzwsr2l"
+        }
+      ],
+      "duration_ms": 168461,
+      "name": "Yes Man",
+      "url": "https://open.spotify.com/track/0ubSevtIKpsMbuSdPQAUfo"
+    },
+    {
+      "added_at": "2024-10-04 07:42:18",
+      "album": {
+        "name": "ALPHA",
+        "url": "https://open.spotify.com/album/2UA2lqBPIhOFnvHszOVIaq"
+      },
+      "artists": [
+        {
+          "name": "Shenseea",
+          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
+        },
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        }
+      ],
+      "duration_ms": 202111,
+      "name": "Lying If I Call It Love (feat. Sean Paul)",
+      "url": "https://open.spotify.com/track/3QqBBoWtiYtwiDlllNYHKh"
     }
   ],
   "unique_name": "Summer Vibes",

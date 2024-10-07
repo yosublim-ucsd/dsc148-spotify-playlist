@@ -233,6 +233,24 @@
     },
     {
       "album": {
+        "name": "Amor Eterno",
+        "url": "https://open.spotify.com/album/1kr2ajwgiK7Evj83Q6WLyB"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288367,
+      "name": "Amor Eterno",
+      "url": "https://open.spotify.com/track/2hu7EGMBif7scYUT4zu5wG"
+    },
+    {
+      "album": {
         "name": "K.O.",
         "url": "https://open.spotify.com/album/5y5Qud31YIPnxbVjzojvmK"
       },
@@ -2140,7 +2158,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-07",
       "duration_ms": 186549,
       "name": "Lo Hice, Te Dej\u00e9",
       "url": "https://open.spotify.com/track/3PKhRDUCDckxRypmC5RhO6"

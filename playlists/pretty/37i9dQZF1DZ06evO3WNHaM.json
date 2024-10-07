@@ -1,12 +1,12 @@
 {
   "description": "This is Deftones. The essential tracks, all in one playlist.",
-  "num_followers": 383403,
+  "num_followers": 383575,
   "original_name": "This Is Deftones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zv3egAAAAACphroram7Bey2AXfgIxlr9",
+  "snapshot_id": "ZwCBgAAAAAABh+poEtP1tPVjsSLOP9xZ",
   "tracks": [
     {
       "added_at": null,
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
         }
       ],
-      "duration_ms": 221800,
-      "name": "Xerces",
-      "url": "https://open.spotify.com/track/5hxcxipGOjgTzrPOkfsyyS"
+      "duration_ms": 249320,
+      "name": "Hole in the Earth",
+      "url": "https://open.spotify.com/track/5Bpc360LNUScK53FrM8nvB"
     },
     {
       "added_at": null,
@@ -340,9 +340,9 @@
           "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
         }
       ],
-      "duration_ms": 249320,
-      "name": "Hole in the Earth",
-      "url": "https://open.spotify.com/track/5Bpc360LNUScK53FrM8nvB"
+      "duration_ms": 221800,
+      "name": "Xerces",
+      "url": "https://open.spotify.com/track/5hxcxipGOjgTzrPOkfsyyS"
     },
     {
       "added_at": null,
@@ -539,22 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ohms",
-        "url": "https://open.spotify.com/album/0VEFy5MsBiq0u2lWL0OwOd"
-      },
-      "artists": [
-        {
-          "name": "Deftones",
-          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
-        }
-      ],
-      "duration_ms": 250222,
-      "name": "Ohms",
-      "url": "https://open.spotify.com/track/0h6vLT1rLneoc5I4sOxvB1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Around the Fur",
         "url": "https://open.spotify.com/album/7o4UsmV37Sg5It2Eb7vHzu"
       },
@@ -571,6 +555,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ohms",
+        "url": "https://open.spotify.com/album/0VEFy5MsBiq0u2lWL0OwOd"
+      },
+      "artists": [
+        {
+          "name": "Deftones",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+        }
+      ],
+      "duration_ms": 250222,
+      "name": "Ohms",
+      "url": "https://open.spotify.com/track/0h6vLT1rLneoc5I4sOxvB1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Gore",
         "url": "https://open.spotify.com/album/3tsXyEbUQehXPaRFCS8K1n"
       },
@@ -580,9 +580,9 @@
           "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
         }
       ],
-      "duration_ms": 302413,
-      "name": "(L)MIRL",
-      "url": "https://open.spotify.com/track/4hYNZvsCnAOZP0lADhpmgC"
+      "duration_ms": 293053,
+      "name": "Phantom Bride",
+      "url": "https://open.spotify.com/track/33qrQEXQJg4uk6k8fZgoOa"
     },
     {
       "added_at": null,
@@ -603,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "White Pony",
-        "url": "https://open.spotify.com/album/5LEXck3kfixFaA3CqVE7bC"
-      },
-      "artists": [
-        {
-          "name": "Deftones",
-          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
-        }
-      ],
-      "duration_ms": 189760,
-      "name": "Feiticeira",
-      "url": "https://open.spotify.com/track/0FpYnuKYFJXHAmHbS1CycY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Around the Fur",
         "url": "https://open.spotify.com/album/7o4UsmV37Sg5It2Eb7vHzu"
       },
@@ -635,6 +619,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "White Pony",
+        "url": "https://open.spotify.com/album/5LEXck3kfixFaA3CqVE7bC"
+      },
+      "artists": [
+        {
+          "name": "Deftones",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+        }
+      ],
+      "duration_ms": 189760,
+      "name": "Feiticeira",
+      "url": "https://open.spotify.com/track/0FpYnuKYFJXHAmHbS1CycY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Gore",
         "url": "https://open.spotify.com/album/3tsXyEbUQehXPaRFCS8K1n"
       },
@@ -644,9 +644,9 @@
           "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
         }
       ],
-      "duration_ms": 293053,
-      "name": "Phantom Bride",
-      "url": "https://open.spotify.com/track/33qrQEXQJg4uk6k8fZgoOa"
+      "duration_ms": 302413,
+      "name": "(L)MIRL",
+      "url": "https://open.spotify.com/track/4hYNZvsCnAOZP0lADhpmgC"
     },
     {
       "added_at": null,

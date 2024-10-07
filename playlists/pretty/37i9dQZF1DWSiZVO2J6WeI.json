@@ -1,6 +1,6 @@
 {
   "description": "Hypnotic bliss.",
-  "num_followers": 783086,
+  "num_followers": 783189,
   "original_name": "Dreamy Vibes",
   "owner": {
     "name": "Spotify",
@@ -171,22 +171,6 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "Elevation",
-        "url": "https://open.spotify.com/album/0TC837zitGMN0ctCFV5wkP"
-      },
-      "artists": [
-        {
-          "name": "Eldrelder",
-          "url": "https://open.spotify.com/artist/3TrVbyS2m9PyOxsjoPos7Z"
-        }
-      ],
-      "duration_ms": 170176,
-      "name": "Elevation",
-      "url": "https://open.spotify.com/track/07KybtBPaFyyZY9c5TiLpy"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
         "name": "Veille-sommeil",
         "url": "https://open.spotify.com/album/4qRRcFAh3qNFCxzGyFDck9"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 150555,
       "name": "Veille-sommeil",
       "url": "https://open.spotify.com/track/2PrMG5oidZr7m7Ay0kKU7X"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "Elevation",
+        "url": "https://open.spotify.com/album/0TC837zitGMN0ctCFV5wkP"
+      },
+      "artists": [
+        {
+          "name": "Eldrelder",
+          "url": "https://open.spotify.com/artist/3TrVbyS2m9PyOxsjoPos7Z"
+        }
+      ],
+      "duration_ms": 170176,
+      "name": "Elevation",
+      "url": "https://open.spotify.com/track/07KybtBPaFyyZY9c5TiLpy"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -531,22 +531,6 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "Skymning",
-        "url": "https://open.spotify.com/album/2OBSjVmSk1vvXn98hgfo70"
-      },
-      "artists": [
-        {
-          "name": "Signe Golin",
-          "url": "https://open.spotify.com/artist/3CBETDmJHF7pJ4ENoSfs3Z"
-        }
-      ],
-      "duration_ms": 154550,
-      "name": "Skymning",
-      "url": "https://open.spotify.com/track/6Ywas6l9JyqXWDS1PKmzj6"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
         "name": "Glowing Serenity",
         "url": "https://open.spotify.com/album/4tlf1Tm9VYTpFILVuRoglN"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 165000,
       "name": "Glowing Serenity",
       "url": "https://open.spotify.com/track/3uB7A1ZPamTIQKCjPg8LG8"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "Skymning",
+        "url": "https://open.spotify.com/album/2OBSjVmSk1vvXn98hgfo70"
+      },
+      "artists": [
+        {
+          "name": "Signe Golin",
+          "url": "https://open.spotify.com/artist/3CBETDmJHF7pJ4ENoSfs3Z"
+        }
+      ],
+      "duration_ms": 154550,
+      "name": "Skymning",
+      "url": "https://open.spotify.com/track/6Ywas6l9JyqXWDS1PKmzj6"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "Clarity Frequency",
-        "url": "https://open.spotify.com/album/3ycZzgIgovCY0ToGeEPAcq"
-      },
-      "artists": [
-        {
-          "name": "Beatrice Laporte",
-          "url": "https://open.spotify.com/artist/1ZIKR3Tjxro7Zltjogbrkr"
-        }
-      ],
-      "duration_ms": 152318,
-      "name": "Eternal Frequencies",
-      "url": "https://open.spotify.com/track/283vPj5Pzt9VE8FkU4CvcG"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
         "name": "Blissful Mind",
         "url": "https://open.spotify.com/album/2YK0j5hggZEpf4Lb0w2V0T"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 189000,
       "name": "Blissful Mind",
       "url": "https://open.spotify.com/track/2XQ4TwHiOR5Q9ZwhaZkTN8"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "Clarity Frequency",
+        "url": "https://open.spotify.com/album/3ycZzgIgovCY0ToGeEPAcq"
+      },
+      "artists": [
+        {
+          "name": "Beatrice Laporte",
+          "url": "https://open.spotify.com/artist/1ZIKR3Tjxro7Zltjogbrkr"
+        }
+      ],
+      "duration_ms": 152318,
+      "name": "Eternal Frequencies",
+      "url": "https://open.spotify.com/track/283vPj5Pzt9VE8FkU4CvcG"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -1355,18 +1355,18 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "Here",
-        "url": "https://open.spotify.com/album/7JU3DbNEFTXHjJWSt7Vpwa"
+        "name": "Kshanon",
+        "url": "https://open.spotify.com/album/7pnYbnU0FVvjilu4CjHePH"
       },
       "artists": [
         {
-          "name": "Both Are Infinite",
-          "url": "https://open.spotify.com/artist/50DApFni8RZH3HKbCTgjve"
+          "name": "Hashree",
+          "url": "https://open.spotify.com/artist/15UsQSphJsVhQ89KBQ5i2G"
         }
       ],
-      "duration_ms": 181374,
-      "name": "Here",
-      "url": "https://open.spotify.com/track/39OcBhQNIyodpgt9OEPE1K"
+      "duration_ms": 202857,
+      "name": "Kshanon",
+      "url": "https://open.spotify.com/track/64tHlBxl55HXyOE2ZsDamu"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -1387,18 +1387,18 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "Kshanon",
-        "url": "https://open.spotify.com/album/7pnYbnU0FVvjilu4CjHePH"
+        "name": "Here",
+        "url": "https://open.spotify.com/album/7JU3DbNEFTXHjJWSt7Vpwa"
       },
       "artists": [
         {
-          "name": "Hashree",
-          "url": "https://open.spotify.com/artist/15UsQSphJsVhQ89KBQ5i2G"
+          "name": "Both Are Infinite",
+          "url": "https://open.spotify.com/artist/50DApFni8RZH3HKbCTgjve"
         }
       ],
-      "duration_ms": 202857,
-      "name": "Kshanon",
-      "url": "https://open.spotify.com/track/64tHlBxl55HXyOE2ZsDamu"
+      "duration_ms": 181374,
+      "name": "Here",
+      "url": "https://open.spotify.com/track/39OcBhQNIyodpgt9OEPE1K"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "Mirageon",
-        "url": "https://open.spotify.com/album/0yitrOEBGeE9gtI9JWWZqh"
-      },
-      "artists": [
-        {
-          "name": "Caspian Zenith",
-          "url": "https://open.spotify.com/artist/1LClFSd4J7glYBBd4x9btQ"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Mirageon",
-      "url": "https://open.spotify.com/track/2nmRopj5DBq2Lmj8pA6OBE"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
         "name": "Sogniare",
         "url": "https://open.spotify.com/album/250bxUmKSymaXoTLqS2JVK"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 256388,
       "name": "Sogniare",
       "url": "https://open.spotify.com/track/2lRlv6866bap5dTst95GoN"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "Mirageon",
+        "url": "https://open.spotify.com/album/0yitrOEBGeE9gtI9JWWZqh"
+      },
+      "artists": [
+        {
+          "name": "Caspian Zenith",
+          "url": "https://open.spotify.com/artist/1LClFSd4J7glYBBd4x9btQ"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Mirageon",
+      "url": "https://open.spotify.com/track/2nmRopj5DBq2Lmj8pA6OBE"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -1851,22 +1851,6 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "396 Hz Sleep and Rest Frequencies",
-        "url": "https://open.spotify.com/album/7lslmhseWYQFmtzvyoeErL"
-      },
-      "artists": [
-        {
-          "name": "Solfeggio Wellness Frequencies",
-          "url": "https://open.spotify.com/artist/11ywmwLdtEdGBHTmFEs13x"
-        }
-      ],
-      "duration_ms": 190800,
-      "name": "396 Hz Breathe Deeply",
-      "url": "https://open.spotify.com/track/5fHv6nk5URUA3UIzFpw0CA"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
         "name": "En el Espacio",
         "url": "https://open.spotify.com/album/7q0vBgCyzRg8iufFApO4J5"
       },
@@ -1895,6 +1879,22 @@
       "duration_ms": 172800,
       "name": "Way of Being",
       "url": "https://open.spotify.com/track/7IeCOta1aZHt2GL81JpKsI"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "396 Hz Sleep and Rest Frequencies",
+        "url": "https://open.spotify.com/album/7lslmhseWYQFmtzvyoeErL"
+      },
+      "artists": [
+        {
+          "name": "Solfeggio Wellness Frequencies",
+          "url": "https://open.spotify.com/artist/11ywmwLdtEdGBHTmFEs13x"
+        }
+      ],
+      "duration_ms": 190800,
+      "name": "396 Hz Breathe Deeply",
+      "url": "https://open.spotify.com/track/5fHv6nk5URUA3UIzFpw0CA"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -1979,22 +1979,6 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "Penumbra",
-        "url": "https://open.spotify.com/album/73cVroAiJKnizesgutD6Qw"
-      },
-      "artists": [
-        {
-          "name": "Chiara Nieves",
-          "url": "https://open.spotify.com/artist/3HjIwAJWk1lhTwIjWyCyzc"
-        }
-      ],
-      "duration_ms": 260038,
-      "name": "Penumbra",
-      "url": "https://open.spotify.com/track/5mdcDysyOu26uO16OPEWPy"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
         "name": "Cosmic Vibe",
         "url": "https://open.spotify.com/album/4Iaf26Hy7tPOA8lop1mSHY"
       },
@@ -2011,18 +1995,34 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "Grow Free",
-        "url": "https://open.spotify.com/album/4G9PplGS8gHrcQWSBquPnA"
+        "name": "Penumbra",
+        "url": "https://open.spotify.com/album/73cVroAiJKnizesgutD6Qw"
       },
       "artists": [
         {
-          "name": "V\u00d8NAR",
-          "url": "https://open.spotify.com/artist/23dDGOjj5CjNNdui5zBdAJ"
+          "name": "Chiara Nieves",
+          "url": "https://open.spotify.com/artist/3HjIwAJWk1lhTwIjWyCyzc"
         }
       ],
-      "duration_ms": 170729,
-      "name": "Grow Free",
-      "url": "https://open.spotify.com/track/6SkEMoTZ3i3AB0Hp8Rvw3k"
+      "duration_ms": 260038,
+      "name": "Penumbra",
+      "url": "https://open.spotify.com/track/5mdcDysyOu26uO16OPEWPy"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "432 Hz Calm",
+        "url": "https://open.spotify.com/album/3YOE3QpeQ1OrOxn1G1rqZp"
+      },
+      "artists": [
+        {
+          "name": "Calma",
+          "url": "https://open.spotify.com/artist/0yrywRgSz0i2hZCJHuP3iT"
+        }
+      ],
+      "duration_ms": 176667,
+      "name": "432 Hz Calm",
+      "url": "https://open.spotify.com/track/2fKKLKOdbvoENYG2UG92vB"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -2043,18 +2043,18 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "432 Hz Calm",
-        "url": "https://open.spotify.com/album/3YOE3QpeQ1OrOxn1G1rqZp"
+        "name": "Grow Free",
+        "url": "https://open.spotify.com/album/4G9PplGS8gHrcQWSBquPnA"
       },
       "artists": [
         {
-          "name": "Calma",
-          "url": "https://open.spotify.com/artist/0yrywRgSz0i2hZCJHuP3iT"
+          "name": "V\u00d8NAR",
+          "url": "https://open.spotify.com/artist/23dDGOjj5CjNNdui5zBdAJ"
         }
       ],
-      "duration_ms": 176667,
-      "name": "432 Hz Calm",
-      "url": "https://open.spotify.com/track/2fKKLKOdbvoENYG2UG92vB"
+      "duration_ms": 170729,
+      "name": "Grow Free",
+      "url": "https://open.spotify.com/track/6SkEMoTZ3i3AB0Hp8Rvw3k"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -2107,22 +2107,6 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "illecebrous",
-        "url": "https://open.spotify.com/album/44ustRoAmDpgAd8RyrvfiD"
-      },
-      "artists": [
-        {
-          "name": "Unity & Harmony",
-          "url": "https://open.spotify.com/artist/1HxhPKVY1XsKFIpvkYdXPI"
-        }
-      ],
-      "duration_ms": 145000,
-      "name": "illecebrous",
-      "url": "https://open.spotify.com/track/0d7cx0ApKrKqpB1LCI0gja"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
         "name": "Rugare",
         "url": "https://open.spotify.com/album/1SIRnia8LqkQTglfIPVkbM"
       },
@@ -2135,6 +2119,22 @@
       "duration_ms": 188691,
       "name": "Rugare",
       "url": "https://open.spotify.com/track/5569KJlvGen1T50aIJWEeC"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "illecebrous",
+        "url": "https://open.spotify.com/album/44ustRoAmDpgAd8RyrvfiD"
+      },
+      "artists": [
+        {
+          "name": "Unity & Harmony",
+          "url": "https://open.spotify.com/artist/1HxhPKVY1XsKFIpvkYdXPI"
+        }
+      ],
+      "duration_ms": 145000,
+      "name": "illecebrous",
+      "url": "https://open.spotify.com/track/0d7cx0ApKrKqpB1LCI0gja"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -2415,18 +2415,18 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "Red Mind",
-        "url": "https://open.spotify.com/album/7gton8cQc8A19dy3C2oaIT"
+        "name": "Solfeggio Purity 741 Hz",
+        "url": "https://open.spotify.com/album/4gsu0nZO0fIRK31qKSu9Ez"
       },
       "artists": [
         {
-          "name": "Selma Key",
-          "url": "https://open.spotify.com/artist/3TiO9o6VESefaIb0yJBjYa"
+          "name": "Zephyrical",
+          "url": "https://open.spotify.com/artist/35kdbaWQLDJudwBytHuiyW"
         }
       ],
-      "duration_ms": 180577,
-      "name": "Red Mind",
-      "url": "https://open.spotify.com/track/1WhFXIOfYDaLiAKrBO9hmX"
+      "duration_ms": 175073,
+      "name": "Solfeggio Purity 741 Hz",
+      "url": "https://open.spotify.com/track/5O7JwuPids8tmFpaUf0JIj"
     }
   ],
   "unique_name": "Dreamy Vibes",

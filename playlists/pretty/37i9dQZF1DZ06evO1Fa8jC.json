@@ -1,12 +1,12 @@
 {
   "description": "This Is Los Cafres. Los temas esenciales, todos en una lista.",
-  "num_followers": 159422,
+  "num_followers": 159445,
   "original_name": "This Is Los Cafres",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zv3egAAAAABMmSzKQilx5NdWR1Pk50by",
+  "snapshot_id": "ZwCBgAAAAAAOxuRDivlfMc9TpFKynLeA",
   "tracks": [
     {
       "added_at": null,
@@ -815,8 +815,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Esclavo",
-        "url": "https://open.spotify.com/album/1eVMXERactTzMCN0xab6j8"
+        "name": "Instinto",
+        "url": "https://open.spotify.com/album/4BJ27soCC0DWKQZbjXl6u0"
       },
       "artists": [
         {
@@ -824,9 +824,9 @@
           "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
         }
       ],
-      "duration_ms": 256810,
-      "name": "Esclavo",
-      "url": "https://open.spotify.com/track/760amZp34Hu7t5cH9QB3BB"
+      "duration_ms": 227599,
+      "name": "La receta",
+      "url": "https://open.spotify.com/track/1h33O6bsMRrKWlBzbylA0t"
     }
   ],
   "unique_name": "This Is Los Cafres",

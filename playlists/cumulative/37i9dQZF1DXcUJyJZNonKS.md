@@ -4,7 +4,7 @@
 
 > A brand new anime season has arrived! Check back often to discover your next favorite fall anime tracks.
 
-62 songs - 3 hr 42 min
+63 songs - 3 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [poi](https://open.spotify.com/track/76z0Vtt2c0fKvbXpJWS5qd) | [Saucy Dog](https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN) | [poi](https://open.spotify.com/album/0lD4bSVS2RIxBYan6avJ3n) | 3:21 | 2024-08-19 |  |
 | [Raise](https://open.spotify.com/track/5VOPZfKO6Q03IAiVckyAvU) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [for you](https://open.spotify.com/album/0AL3p6UDvVaOrbb1NeYGY9) | 3:34 | 2024-08-19 |  |
 | [RISE UP](https://open.spotify.com/track/4GdYcBziM4hqHJSXYSntQe) | [NiziU](https://open.spotify.com/artist/3z8diLlUCkN1j9N9ZdnfBJ) | [RISE UP](https://open.spotify.com/album/0DMBH4ZFc1QS5XsAWKvdxM) | 3:00 | 2024-08-19 |  |
+| [ROCK ME KISS ME \- feat\. MOTSU](https://open.spotify.com/track/35GWJ7WAeSsMHDDpFvJYYK) | [Yu Serizawa](https://open.spotify.com/artist/0TskwVXV9CO11Gjaf8mUuP), [motsu](https://open.spotify.com/artist/0pZo9IfX38NN78vI3ru3Lk) | [ROCK ME KISS ME \(feat\. MOTSU\)](https://open.spotify.com/album/7vuwwNArX7RXXYbzNDawt0) | 3:55 | 2024-10-04 |  |
 | [Story](https://open.spotify.com/track/1G3QIdTjFO0DpLZlYwfqzx) | [Da\-iCE](https://open.spotify.com/artist/71UIOLnsacxQHlU55TvfiH) | [Story](https://open.spotify.com/album/3HxXbGrwquGzrjgZAmIcuX) | 2:26 | 2024-08-19 |  |
 | [TAIDADA](https://open.spotify.com/track/4cPwi7lcWxRQNEb4xC77fC) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [TAIDADA](https://open.spotify.com/album/5z6M8BvLoHYhVbZZOdLbn6) | 3:46 | 2024-10-04 |  |
 | [UNDEAD](https://open.spotify.com/track/5NxmDq0yXBYGfCbMqvIXuv) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [UNDEAD](https://open.spotify.com/album/6MJBA73OCvq4FEJqYhXn9e) | 3:02 | 2024-08-19 |  |

@@ -1,12 +1,12 @@
 {
-  "description": "This is Natalia Lafourcade. The essential tracks, all in one playlist.",
-  "num_followers": 500904,
+  "description": "This Is Natalia Lafourcade. Los temas esenciales, todos en una lista.",
+  "num_followers": 500965,
   "original_name": "This Is Natalia Lafourcade",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zv3egAAAAAAq9+63F0xNr+mH1WkoN9JO",
+  "snapshot_id": "ZwCBgAAAAADOYOo0xc60MVSmoRP00829",
   "tracks": [
     {
       "added_at": null,
@@ -735,18 +735,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hasta la Ra\u00edz (Edici\u00f3n Especial)",
-        "url": "https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv"
+        "name": "Lo Que Construimos",
+        "url": "https://open.spotify.com/album/3aY4BoeqiExyMDDfZNud4M"
       },
       "artists": [
+        {
+          "name": "Sabino",
+          "url": "https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy"
+        },
         {
           "name": "Natalia Lafourcade",
           "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
         }
       ],
-      "duration_ms": 232333,
-      "name": "Antes de Huir",
-      "url": "https://open.spotify.com/track/4j6ym6CZ3v9lpWaVzcudUq"
+      "duration_ms": 208289,
+      "name": "Lo Que Construimos",
+      "url": "https://open.spotify.com/track/0K1eUOeIAW1jwbqSrgoVMj"
     },
     {
       "added_at": null,
@@ -771,22 +775,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lo Que Construimos",
-        "url": "https://open.spotify.com/album/3aY4BoeqiExyMDDfZNud4M"
+        "name": "Hasta la Ra\u00edz (Edici\u00f3n Especial)",
+        "url": "https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv"
       },
       "artists": [
-        {
-          "name": "Sabino",
-          "url": "https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy"
-        },
         {
           "name": "Natalia Lafourcade",
           "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
         }
       ],
-      "duration_ms": 208289,
-      "name": "Lo Que Construimos",
-      "url": "https://open.spotify.com/track/0K1eUOeIAW1jwbqSrgoVMj"
+      "duration_ms": 232333,
+      "name": "Antes de Huir",
+      "url": "https://open.spotify.com/track/4j6ym6CZ3v9lpWaVzcudUq"
     },
     {
       "added_at": null,
@@ -863,22 +863,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hasta la Ra\u00edz (Edici\u00f3n Especial)",
-        "url": "https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv"
-      },
-      "artists": [
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        }
-      ],
-      "duration_ms": 297346,
-      "name": "Mi Lugar Favorito",
-      "url": "https://open.spotify.com/track/7nnOZPlJODFqCPW6FyalYv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Jos\u00e9 Jos\u00e9 Duetos Volumen 1",
         "url": "https://open.spotify.com/album/4ZFE0VVdjRY5fv41SFyPrT"
       },
@@ -899,22 +883,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los Amigos Invisibles, Ac\u00fastico",
-        "url": "https://open.spotify.com/album/0Q9wBe7VRzVzfZDw0oTZhG"
+        "name": "Hasta la Ra\u00edz (Edici\u00f3n Especial)",
+        "url": "https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv"
       },
       "artists": [
-        {
-          "name": "Los Amigos Invisibles",
-          "url": "https://open.spotify.com/artist/5x3mrCTZmkoTXURN7pWdGN"
-        },
         {
           "name": "Natalia Lafourcade",
           "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
         }
       ],
-      "duration_ms": 236480,
-      "name": "Vivir\u00e9 para Ti (feat. Natalia Lafourcade) - Versi\u00f3n Ac\u00fastica",
-      "url": "https://open.spotify.com/track/7mPgkn14P7Ts2hB62XmgtT"
+      "duration_ms": 297346,
+      "name": "Mi Lugar Favorito",
+      "url": "https://open.spotify.com/track/7nnOZPlJODFqCPW6FyalYv"
     },
     {
       "added_at": null,
@@ -935,6 +915,26 @@
       "duration_ms": 238068,
       "name": "T\u00fa Ve",
       "url": "https://open.spotify.com/track/2rJnYvUiEstXyk5nSvbLpI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Los Amigos Invisibles, Ac\u00fastico",
+        "url": "https://open.spotify.com/album/0Q9wBe7VRzVzfZDw0oTZhG"
+      },
+      "artists": [
+        {
+          "name": "Los Amigos Invisibles",
+          "url": "https://open.spotify.com/artist/5x3mrCTZmkoTXURN7pWdGN"
+        },
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 236480,
+      "name": "Vivir\u00e9 para Ti (feat. Natalia Lafourcade) - Versi\u00f3n Ac\u00fastica",
+      "url": "https://open.spotify.com/track/7mPgkn14P7Ts2hB62XmgtT"
     },
     {
       "added_at": null,

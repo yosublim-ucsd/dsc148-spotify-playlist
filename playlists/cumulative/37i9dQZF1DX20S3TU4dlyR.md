@@ -4,7 +4,7 @@
 
 > Este es el Reggae, al sur del continente americano\. Foto: Dancing Mood
 
-259 songs - 17 hr 11 min
+260 songs - 17 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,7 +143,7 @@
 | [Lo Más Sincero](https://open.spotify.com/track/6cHswTtZboQAcgZGmJZKWM) | [Dread Mar I](https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR) | [YO](https://open.spotify.com/album/04NS8bfaOfqpH8UxeLFuJX) | 3:26 | 2022-05-06 | 2022-07-29 |
 | [Lo Que Decidas Será](https://open.spotify.com/track/5MkyPwXXUBx5wgeeYq4bX8) | [DOMA](https://open.spotify.com/artist/4aD9Ax5YSotHSD60pph8yU), [Laguna Pai](https://open.spotify.com/artist/4NmvNRWDxYHYMKt4yiMljS) | [Lo Que Decidas Será](https://open.spotify.com/album/2cqqBL8yZKgJ7RnAZa4VxT) | 3:27 | 2024-03-15 |  |
 | [Lo Que Dicta El Tiempo](https://open.spotify.com/track/5kSkRMrl8p1w63pybLjg0S) | [Leonchalon](https://open.spotify.com/artist/18hhcln4FwPkj2iwxT5yB0) | [Amor De Barrio](https://open.spotify.com/album/2LvjJW52h7wcohlk5hvGCj) | 4:27 | 2022-05-06 |  |
-| [Lo Que Te Queda](https://open.spotify.com/track/3TfZW4btZFmocz8DM8fFFa) | [Bahiano](https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN) | [Celebremos](https://open.spotify.com/album/3JGTUWHeX43xFKo1NcPt8Z) | 4:11 | 2022-05-06 |  |
+| [Lo Que Te Queda](https://open.spotify.com/track/3TfZW4btZFmocz8DM8fFFa) | [Bahiano](https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN) | [Celebremos](https://open.spotify.com/album/3JGTUWHeX43xFKo1NcPt8Z) | 4:11 | 2022-05-06 | 2024-10-07 |
 | [Loco Por Volverla a Ver](https://open.spotify.com/track/5286CIWA8QpRrpCr9x7BbQ) | [Las Pastillas del Abuelo](https://open.spotify.com/artist/0D5U7oXEE4dut2DPyUDLca), [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Loco Por Volverla a Ver](https://open.spotify.com/album/7cZTYqv7PwsdLbUepC3GEd) | 4:32 | 2024-04-12 |  |
 | [Love Song](https://open.spotify.com/track/2esPpiAGKUsySMsdwasBcc) | [Nonpalidece](https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe), [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu), [Fabiana Cantilo](https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x), [Dean Fraser](https://open.spotify.com/artist/2NgsVYg7cMgPQNYXW7CO6R) | [Love Song](https://open.spotify.com/album/5sFid2NyJbaAVQyIfIY7k8) | 4:26 | 2024-02-15 |  |
 | [Luz y Compañía](https://open.spotify.com/track/3Q0COFjoS7geL4ZrpmNNfB) | [Fidel Nadal](https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS) | [International Love](https://open.spotify.com/album/6TfIPMw7QqgcTEL0sIMW48) | 4:57 | 2022-05-06 |  |
@@ -203,6 +203,7 @@
 | [Runaway \(En Vivo\)](https://open.spotify.com/track/2PMSOgAP1A2TYbRqGCS9ak) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [3000 Vivos \(En Vivo\)](https://open.spotify.com/album/7G7RCFtdv9cTAmOijHn0j1) | 4:07 | 2022-05-06 |  |
 | [Runnin' out of Fools](https://open.spotify.com/track/6kvm98YbESolyOzhUDSLRG) | [Mimi Maura](https://open.spotify.com/artist/4VKHNaUBImLsxPOCdG5Mwl), [Los Aggrotones](https://open.spotify.com/artist/6A2Us7Q6b6rVnUATaqjUv6) | [Runnin' out of Fools](https://open.spotify.com/album/4Ya39nwsZDpmDZFF4IyjUQ) | 3:39 | 2022-05-06 | 2022-07-29 |
 | [Ruptura](https://open.spotify.com/track/0ACBjct2NYsE8qMhkOWt1k) | [Fidel Nadal](https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS), [Fanbrown](https://open.spotify.com/artist/0pJiXyozCdysfr3YXdp1al) | [Ruptura](https://open.spotify.com/album/1LPSW2i48wQJqzPSjPnCRF) | 3:14 | 2022-12-23 | 2023-03-03 |
+| [Ruta](https://open.spotify.com/track/0zskgFCZkUPqWsQ3ThZXyR) | [KLUB](https://open.spotify.com/artist/11NwV46MotnomZqyYxE2uY), [Dalasio](https://open.spotify.com/artist/2C1xJBfgKnVe1xMyUD6yAb) | [Ruta](https://open.spotify.com/album/6KFXfBh3diyG1luKZyVpji) | 3:45 | 2024-10-03 |  |
 | [Saber a Dónde ir](https://open.spotify.com/track/0DidJz0r4fFToEohpkHxoT) | [Nonpalidece](https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe), [La Delio Valdez](https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q) | [Saber a Dónde ir](https://open.spotify.com/album/6XVFjAPVhncAQb0K5xubnn) | 4:19 | 2024-06-28 |  |
 | [Seguirla](https://open.spotify.com/track/56Bv7jVPB3sLRBmUS6JJXD) | [Gaspar OM](https://open.spotify.com/artist/1Tvrm9z0xfdxJ5Xg5NODEj), [Fidel Nadal](https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS) | [Seguirla](https://open.spotify.com/album/33Gw7j5OgHFfno8VAtCYwm) | 3:11 | 2023-03-03 |  |
 | [Sere Yo](https://open.spotify.com/track/1YfA9cHRYqZjmWNkhswpjD) | [Tempranos](https://open.spotify.com/artist/492Ggq79DwN14yeaPKnUhW) | [Tempranos](https://open.spotify.com/album/5TGGUs3yzjdN176ZFXTeXA) | 3:14 | 2022-05-06 | 2022-07-07 |

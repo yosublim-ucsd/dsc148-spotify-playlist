@@ -2,9 +2,9 @@
 
 ### [This Is Banda Zeta](https://open.spotify.com/playlist/37i9dQZF1DZ06evO45UHxY)
 
-> This is Banda Zeta\. The essential tracks, all in one playlist.
+> This Is Banda Zeta\. Los temas esenciales, todos en una lista.
 
-96 songs - 4 hr 50 min
+97 songs - 4 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Jaula Vacía](https://open.spotify.com/track/2K0Cp7lzRmssfWnvCzqIXK) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Revolución Tecno 2021](https://open.spotify.com/album/4Dd1a7UHz0O5BTVjAeZn8p) | 2:55 | 2024-08-14 | 2024-08-15 |
 | [La Buenota](https://open.spotify.com/track/0yaXCQ3HblOcM1swa7mN3s) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Como un Tatuaje](https://open.spotify.com/album/7Ml8Qj7hGFgfKBzEqPb8tX) | 3:01 | 2022-06-01 |  |
 | [La buenotota](https://open.spotify.com/track/6u93FoQMwa24Y0at0W72GX) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [La Chispa](https://open.spotify.com/album/1lLbUAZDU4fR3W8ZXw0B8v) | 3:11 | 2022-06-01 |  |
+| [La Calentura](https://open.spotify.com/track/2m0pHZCgBtCad5Pv0RBCfw) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [La Calentura](https://open.spotify.com/album/2NUDVbL3mZcLCsyx2QCrpi) | 3:04 | 2024-10-07 |  |
 | [La chispa](https://open.spotify.com/track/5frBieEOpYDKSmYByQeQ4n) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [La Chispa](https://open.spotify.com/album/1lLbUAZDU4fR3W8ZXw0B8v) | 2:18 | 2022-06-01 |  |
 | [La Morena](https://open.spotify.com/track/0aobwK2k3r8if0ttw2L4Ie) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Como un Tatuaje](https://open.spotify.com/album/7Ml8Qj7hGFgfKBzEqPb8tX) | 2:54 | 2022-06-01 |  |
 | [La niña fresa](https://open.spotify.com/track/2nbq7IAJfYK9fuw5g2ePv3) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Fiesta Mexicana Con La Banda](https://open.spotify.com/album/6X49e9OtUqhMVIpre31k8K) | 2:40 | 2022-06-01 | 2024-03-02 |
@@ -103,6 +104,6 @@
 | [Zapatos De Bailador](https://open.spotify.com/track/35UoR8RpKtdvI2TUFVeKmU) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Jacarandosa](https://open.spotify.com/album/3QXuIFZnAGmlahOic59KsT) | 2:49 | 2023-12-13 |  |
 | [Zapatos Viejos](https://open.spotify.com/track/2l6iFXyafbKbdp5pa6jXpj) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Revolución Tecno 2021](https://open.spotify.com/album/4Dd1a7UHz0O5BTVjAeZn8p) | 2:48 | 2023-12-13 |  |
 | [Zapatos viejos](https://open.spotify.com/track/4vXizQTMHAA7AnqBESDfUd) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Grandes Bandas](https://open.spotify.com/album/6DejTyQTl57yvFotq3l4xg) | 2:51 | 2022-06-01 | 2023-12-14 |
-| [¿De Qué Color Es Tu Brassiere?](https://open.spotify.com/track/62UMoTz03A2dHcJY0NISd7) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [¿De Qué Color Es Tu Brassiere?](https://open.spotify.com/album/6sMCzG3HQn7AT6VBPLXAzq) | 3:08 | 2023-11-10 |  |
+| [¿De Qué Color Es Tu Brassiere?](https://open.spotify.com/track/62UMoTz03A2dHcJY0NISd7) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [¿De Qué Color Es Tu Brassiere?](https://open.spotify.com/album/6sMCzG3HQn7AT6VBPLXAzq) | 3:08 | 2023-11-10 | 2024-10-07 |
 
 \*This playlist was first scraped on 2022-06-02. Prior content cannot be recovered.

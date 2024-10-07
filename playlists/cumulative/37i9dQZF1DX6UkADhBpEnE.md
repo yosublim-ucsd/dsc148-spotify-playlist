@@ -4,7 +4,7 @@
 
 > 今日1日を、元気に迎えるためのプレイリスト！
 
-729 songs - 1 day 16 hr 11 min
+730 songs - 1 day 16 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -531,7 +531,7 @@
 | [TRAIN\-TRAIN](https://open.spotify.com/track/1z6CljeqsqNfFTr67lg2Ks) | [KALMA](https://open.spotify.com/artist/5zHSpvhwGmYsYCd3dgo1Xc) | [TRAIN\-TRAIN](https://open.spotify.com/album/3VdSixq61uexxlDKfSG5hI) | 3:53 | 2023-02-14 | 2023-02-16 |
 | [TRAIN\-TRAIN](https://open.spotify.com/track/5PUNRSIFNxWimFJ1r9vgkl) | [KALMA](https://open.spotify.com/artist/5zHSpvhwGmYsYCd3dgo1Xc) | [TRAIN\-TRAIN](https://open.spotify.com/album/4c3iop1ngWgS6LZNcMYpI5) | 3:53 | 2023-02-14 | 2023-03-03 |
 | [Training Season](https://open.spotify.com/track/6Qb7YsAqH4wWFUMbGsCpap) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Training Season](https://open.spotify.com/album/3sqC2sXZc0b9r7WM9z3784) | 3:29 | 2024-02-15 |  |
-| [Troubled Waters](https://open.spotify.com/track/3xohRHSBI2i0HolJPlN85v) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Troubled Waters](https://open.spotify.com/album/54V4i5OLHNmaiXIgK7urCp) | 3:17 | 2024-10-03 |  |
+| [Troubled Waters](https://open.spotify.com/track/3xohRHSBI2i0HolJPlN85v) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Troubled Waters](https://open.spotify.com/album/54V4i5OLHNmaiXIgK7urCp) | 3:17 | 2024-10-03 | 2024-10-07 |
 | [TRUSTFALL](https://open.spotify.com/track/4FWbsd91QSvgr1dSWwW51e) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [TRUSTFALL](https://open.spotify.com/album/0JlRRM2KKOzLKzgn9etoXt) | 3:57 | 2023-02-02 | 2023-10-28 |
 | [TURN IT UP \- feat\. Candee & ZOT on the WAVE](https://open.spotify.com/track/3BjCtb7zq4Nn1riQhneMwo) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT), [Candee](https://open.spotify.com/artist/1L9s7TypQNTxmJ12OuG2yR), [ZOT on the WAVE](https://open.spotify.com/artist/0qMwn0A1NkYRIo8jyOMygH) | [TURN IT UP \(feat\. Candee & ZOT on the WAVE\)](https://open.spotify.com/album/5gTvyYgUsKQ6UwUdavwn5z) | 3:13 | 2023-02-10 | 2023-08-02 |
 | [Turtle,Puma and Flamingo](https://open.spotify.com/track/6qm3FsCI9Fo5FTkK63BEmB) | [KICK THE CAN CREW](https://open.spotify.com/artist/5MRAExqyhUPkktT9yWNvIe) | [Turtle,Puma and Flamingo](https://open.spotify.com/album/5hJ6iEKn86tNTawQL3d7eh) | 2:18 | 2023-05-23 | 2023-06-02 |
@@ -607,6 +607,7 @@
 | [ときめきpart1](https://open.spotify.com/track/5lGNDmdvtbvwaXLkalxA9r) | [SPITZ](https://open.spotify.com/artist/5kjGRHClVacSyllOUqU1S0) | [ひみつスタジオ](https://open.spotify.com/album/5u95y591xPiCFY3UI5gHqY) | 3:34 | 2023-05-16 | 2023-08-18 |
 | [となり](https://open.spotify.com/track/6E3JVfaYoigAJDk92WjyiK) | [Berry Goodman](https://open.spotify.com/artist/4PFC7IPuGWwwYQUuuvSnrw) | [となり](https://open.spotify.com/album/2rL32zp3JZWmf6AxPwculN) | 4:16 | 2023-11-21 | 2023-11-29 |
 | [なんてね](https://open.spotify.com/track/71TekkQ6MUZf8wsUKhuxhx) | [ena mori](https://open.spotify.com/artist/5FW3vzEP2gQB3RQRNmR6ON), [Tomggg](https://open.spotify.com/artist/4IB2TdHMteDOTMAA1UbbcE) | [なんてね](https://open.spotify.com/album/3sGUJFiOE1W7QFuPwI4sAu) | 2:32 | 2024-07-12 | 2024-07-27 |
+| [はいよろこんで](https://open.spotify.com/track/41xGcFvQsGYQs0RDFvPfv3) | [Kocchi no Kento](https://open.spotify.com/artist/3qQKrWwcqJlE4OS4e1ox7x) | [はいよろこんで](https://open.spotify.com/album/4QU3XHH0tgaaIzCVf66i16) | 2:41 | 2024-10-03 |  |
 | [はしりがき](https://open.spotify.com/track/4rVpueOWFM9jUjZSWt1eNu) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [はしりがき](https://open.spotify.com/album/6SLw3pRwmLgrLywI5TEfdY) | 3:10 | 2024-03-05 | 2024-03-08 |
 | [ばかまじめ](https://open.spotify.com/track/55emtNBnUXszixuQj4Fg6I) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE), [Ayase](https://open.spotify.com/artist/1S8OQ9SqlLdD9l4paaZMuZ), [Lilas Ikuta](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [ばかまじめ](https://open.spotify.com/album/7mPLlf15PnyXUGB0Q3sUsM) | 2:52 | 2024-03-05 | 2024-06-22 |
 | [ひゅるりらぱっぱ](https://open.spotify.com/track/0J8JXuvQADkec6AThPGzjR) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [ひゅるりらぱっぱ](https://open.spotify.com/album/44GzMAdLPt9Yc0cIKGIYGY) | 3:20 | 2024-07-26 | 2024-09-27 |

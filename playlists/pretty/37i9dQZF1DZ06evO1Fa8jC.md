@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Fa8jC.md) - [plain]
 
 > This Is Los Cafres\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,422 likes - 50 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,445 likes - 50 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Fa8jC.md) - [plain]
 | 47 | [Muia](https://open.spotify.com/track/5ZGZUjb5imCbUbm9a0Dkir) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Hoy – 3décadas, Vol\. 1](https://open.spotify.com/album/4PSbFROuWr7Cny41folDLl) | 5:00 |
 | 48 | [Escritorio](https://open.spotify.com/track/5pOli51fQo1bNV3oO2HHls) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [El Paso Gigante](https://open.spotify.com/album/1kJD3mYufavAaI1IZwrP3i) | 3:51 |
 | 49 | [Tu Meta](https://open.spotify.com/track/1tDqJHfDFQzlkc4lsOsjME) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Tu Meta](https://open.spotify.com/album/38gfEqVNccvnpezMwBkWky) | 4:48 |
-| 50 | [Esclavo](https://open.spotify.com/track/760amZp34Hu7t5cH9QB3BB) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Esclavo](https://open.spotify.com/album/1eVMXERactTzMCN0xab6j8) | 4:16 |
+| 50 | [La receta](https://open.spotify.com/track/1h33O6bsMRrKWlBzbylA0t) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Instinto](https://open.spotify.com/album/4BJ27soCC0DWKQZbjXl6u0) | 3:47 |
 
-Snapshot ID: `Zv3egAAAAABMmSzKQilx5NdWR1Pk50by`
+Snapshot ID: `ZwCBgAAAAAAOxuRDivlfMc9TpFKynLeA`

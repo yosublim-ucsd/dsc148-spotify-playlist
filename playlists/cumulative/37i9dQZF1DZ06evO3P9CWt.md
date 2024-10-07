@@ -2,7 +2,7 @@
 
 ### [This Is Pabllo Vittar](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3P9CWt)
 
-> This is Pabllo Vittar\. The essential tracks, all in one playlist.
+> This Is Pabllo Vittar\. Les titres incontournables, réunis dans une seule et même playlist.
 
 87 songs - 4 hr 12 min
 

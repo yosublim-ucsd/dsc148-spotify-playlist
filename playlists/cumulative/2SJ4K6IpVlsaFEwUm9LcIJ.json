@@ -160,7 +160,7 @@
       ],
       "date_added": "2024-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-07",
       "duration_ms": 163568,
       "name": "Above Your Head",
       "url": "https://open.spotify.com/track/3gMbaUdsgtdM0TX24Pdy5W"
@@ -2469,6 +2469,24 @@
     },
     {
       "album": {
+        "name": "Manilow",
+        "url": "https://open.spotify.com/album/4sdDcy0acdFql67SxVddjQ"
+      },
+      "artists": [
+        {
+          "name": "Smudge",
+          "url": "https://open.spotify.com/artist/4wc3ixM7PquP8TPkBK3bXJ"
+        }
+      ],
+      "date_added": "2024-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191573,
+      "name": "Ingrown",
+      "url": "https://open.spotify.com/track/7n8Ttf94YjrqnoViRt1OCM"
+    },
+    {
+      "album": {
         "name": "The Natural Bridge",
         "url": "https://open.spotify.com/album/53s93tksSeBis2gL50AQPJ"
       },
@@ -3912,7 +3930,7 @@
       ],
       "date_added": "2024-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-07",
       "duration_ms": 175454,
       "name": "Remina Two",
       "url": "https://open.spotify.com/track/12H02g9N8iAU61QZmduL6w"

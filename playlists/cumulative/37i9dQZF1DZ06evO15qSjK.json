@@ -779,6 +779,24 @@
     },
     {
       "album": {
+        "name": "Good Luck, Babe!",
+        "url": "https://open.spotify.com/album/4mlUohsTRlocyVik8trXIs"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2024-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216228,
+      "name": "Good Luck, Babe!",
+      "url": "https://open.spotify.com/track/5QNPIe0ROSkymWH1j5cDMh"
+    },
+    {
+      "album": {
         "name": "greedy",
         "url": "https://open.spotify.com/album/1DeAVIlDfXSfpPjvUuKks4"
       },

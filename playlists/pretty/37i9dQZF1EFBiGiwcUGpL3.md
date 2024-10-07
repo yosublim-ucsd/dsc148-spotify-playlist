@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBiGiwcUGpL3.md) - [plain]
 | 74 | [Faster Car](https://open.spotify.com/track/7qaLei3wecrNvr33Re0s3K) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Love, Pain & The Whole Crazy Thing](https://open.spotify.com/album/3txPRPVrAXeiO0pJ13kFX7) | 4:27 |
 | 75 | [You're Not My God](https://open.spotify.com/track/7t56DaFG03JsZaAmCi9LPR) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Golden Road](https://open.spotify.com/album/1O87Gkgvc6QR1JRpMkgnE7) | 8:31 |
 | 76 | [I Wanna Be Your Man \(Forever\)](https://open.spotify.com/track/2rbaRqz8dVCKob2s038sJT) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Keith Urban](https://open.spotify.com/album/57KrglwgwXrz3PH13T6FLS) | 3:09 |
-| 77 | [Falling](https://open.spotify.com/track/6J3XKrWfZtwWsavbNkzO6e) | [Trent Harmon](https://open.spotify.com/artist/1YSoHvvSAY0oOJW7VxJx3M) | [Falling \(American Idol Top 3 Season 15\)](https://open.spotify.com/album/1c8w5pS5zHWJEKccp2iYwE) | 3:18 |
-| 78 | [CHUCK TAYLORS](https://open.spotify.com/track/5LCwWKC7mc2naS8aG503oG) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [HIGH](https://open.spotify.com/album/5GUHKnk99fGz2Ry4Jc6Fpw) | 3:34 |
+| 77 | [CHUCK TAYLORS](https://open.spotify.com/track/5LCwWKC7mc2naS8aG503oG) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [HIGH](https://open.spotify.com/album/5GUHKnk99fGz2Ry4Jc6Fpw) | 3:34 |
+| 78 | [Falling](https://open.spotify.com/track/6J3XKrWfZtwWsavbNkzO6e) | [Trent Harmon](https://open.spotify.com/artist/1YSoHvvSAY0oOJW7VxJx3M) | [Falling \(American Idol Top 3 Season 15\)](https://open.spotify.com/album/1c8w5pS5zHWJEKccp2iYwE) | 3:18 |
 | 79 | [You Won](https://open.spotify.com/track/6j5fVSOBfFFuJvjQXkMLQO) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Golden Road](https://open.spotify.com/album/1O87Gkgvc6QR1JRpMkgnE7) | 5:21 |
 | 80 | [Tu Compania](https://open.spotify.com/track/2CkkSaKYrvf5KplpndBSnW) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Love, Pain & The Whole Crazy Thing](https://open.spotify.com/album/4sTNnZi0xkMIaFs8tT96fl) | 4:10 |
 | 81 | [You're The Only One](https://open.spotify.com/track/3IM1MvonbidNaGyFWEndp5) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Keith Urban](https://open.spotify.com/album/57KrglwgwXrz3PH13T6FLS) | 4:54 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBiGiwcUGpL3.md) - [plain]
 | 99 | [Sunburned Country](https://open.spotify.com/track/6jem5ayssg5LZ3q7mewnr1) | [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9), [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [\(2\)](https://open.spotify.com/album/1ERi78WxPuTTHMKvxV4Wts) | 5:37 |
 | 100 | [Waar is de tijd?](https://open.spotify.com/track/3IJEooHq7SDbPgB728FSyz) | [Dana Winner](https://open.spotify.com/artist/6pmObcotPmooyBYA0PbxPW) | [Als je lacht](https://open.spotify.com/album/3ilpS9EFDCWz6Eqjeks3mS) | 3:46 |
 
-Snapshot ID: `Abd//gAAAABy5k1BSmB6pfcCNmYGeVW0`
+Snapshot ID: `AbeFlAAAAABLvYq1Nv1aIgX4B6aGiF8p`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-05-24",
-  "description": "This is: Skillet. Alle wichtigen Tracks in einer Playlist.",
+  "description": "This Is Skillet. Los temas esenciales, todos en una lista.",
   "name": "This Is Skillet",
   "tracks": [
     {
@@ -801,6 +801,32 @@
     },
     {
       "album": {
+        "name": "Take It All Back",
+        "url": "https://open.spotify.com/album/0JNxzwUAvDPOboU7nmP9GU"
+      },
+      "artists": [
+        {
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+        },
+        {
+          "name": "Skillet",
+          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
+        },
+        {
+          "name": "Davies.",
+          "url": "https://open.spotify.com/artist/4gHYwyqJOALI9pJO1QCzq8"
+        }
+      ],
+      "date_added": "2024-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204634,
+      "name": "Take It All Back",
+      "url": "https://open.spotify.com/track/1486GTNZyKS12K9NSP1QRj"
+    },
+    {
+      "album": {
         "name": "Dominion: Day of Destiny",
         "url": "https://open.spotify.com/album/0yppsQTW8pACnrnH75Rvhv"
       },
@@ -812,7 +838,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-07",
       "duration_ms": 194740,
       "name": "The Defiant",
       "url": "https://open.spotify.com/track/7CS9m4zqBEH2so5yJR1UGC"

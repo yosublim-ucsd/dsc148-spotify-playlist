@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 
 > dk rap men det er mere en vibe 🌊🌊
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,257 likes - 63 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,266 likes - 63 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

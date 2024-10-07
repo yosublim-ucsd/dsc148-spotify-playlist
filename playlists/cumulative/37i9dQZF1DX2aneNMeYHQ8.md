@@ -4,7 +4,7 @@
 
 > alt, folk, and indie rock sprinkled into this sonic melting pot\. Cover: James Bay
 
-511 songs - 1 day 7 hr 9 min
+512 songs - 1 day 7 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,7 +113,7 @@
 | [Dramamine](https://open.spotify.com/track/4LkUIkfIw7f3l7eJnOj9OW) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Dramamine](https://open.spotify.com/album/1RgOz8zYC5GKsZEZPjQ0pT) | 2:57 | 2024-04-05 | 2024-09-16 |
 | [Dream Never Dies](https://open.spotify.com/track/6xLX58MTspmLTj3YRCe7Bt) | [Lo Moon](https://open.spotify.com/artist/2XcWfmG3wclCLfTJb7mFeg) | [Dream Never Dies](https://open.spotify.com/album/4KknXTBGrp4A1C8aIvtgOk) | 4:45 | 2021-11-23 | 2023-02-11 |
 | [Driver](https://open.spotify.com/track/3J9fDdirND6efE3VMFROGp) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Driver](https://open.spotify.com/album/7lyh2o99pWYe6T9XI8cjXg) | 4:12 | 2024-09-20 |  |
-| [DRUGS](https://open.spotify.com/track/2kJUgk2aoKWN1cP1lErEOj) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [DRUGS](https://open.spotify.com/album/67T0rpWRDBsHTVSCZqxC7e) | 3:23 | 2024-07-19 |  |
+| [DRUGS](https://open.spotify.com/track/2kJUgk2aoKWN1cP1lErEOj) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [DRUGS](https://open.spotify.com/album/67T0rpWRDBsHTVSCZqxC7e) | 3:23 | 2024-07-19 | 2024-10-07 |
 | [Easy Now](https://open.spotify.com/track/3i3LMvWC04mFEdiFJfqPfH) | [Noel Gallagher's High Flying Birds](https://open.spotify.com/artist/7sjttK1WcZeyLPn3IsQ62L) | [Council Skies](https://open.spotify.com/album/3chNtIzZ4hmmMVeq723m3f) | 3:53 | 2023-06-02 | 2024-04-19 |
 | [Easy Now](https://open.spotify.com/track/5uXWyJvnSIot8vVu8M4GGj) | [Noel Gallagher's High Flying Birds](https://open.spotify.com/artist/7sjttK1WcZeyLPn3IsQ62L) | [Easy Now](https://open.spotify.com/album/02bVPxzxY5E5yCmCuupRQT) | 3:53 | 2023-02-10 | 2023-06-05 |
 | [Easy On Your Own?](https://open.spotify.com/track/42oq4KDYcBwAHpEkV3PuWc) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Blue Rev](https://open.spotify.com/album/1dShPPoxXfzbjFO1jIHJZz) | 2:54 | 2023-04-04 | 2024-01-13 |
@@ -466,6 +466,7 @@
 | [Too Sweet](https://open.spotify.com/track/4IadxL6BUymXlh8RCJJu7T) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unheard](https://open.spotify.com/album/1KZC0cX0qq6hodR9YVgh9F) | 4:11 | 2024-04-05 |  |
 | [Tough Season](https://open.spotify.com/track/78bqL0hABVqTi0ju2JWBVK) | [Bendigo Fletcher](https://open.spotify.com/artist/6O8lpJl2nITlA3dJfT95pM) | [Two Things at Once](https://open.spotify.com/album/4K3fG6A3UzqivRCPtRNaKl) | 2:53 | 2024-04-05 | 2024-09-21 |
 | [Tour Death Song](https://open.spotify.com/track/0aQpkTdFY2WYJSbdyGlHHO) | [All Them Witches](https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65) | [Tour Death Song](https://open.spotify.com/album/46aV2GOdnc1EGfspj2dC5u) | 4:57 | 2022-10-01 | 2023-04-05 |
+| [Triple Marathon](https://open.spotify.com/track/6gEl8SZNT90jyNCXVhZ3BO) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [Triple Marathon](https://open.spotify.com/album/2PSzv4iDxvcbfTHL11obmh) | 2:37 | 2024-10-04 |  |
 | [Truck Songs](https://open.spotify.com/track/44jxWjjs75MIzZJFVDdGrO) | [Angel Du$t](https://open.spotify.com/artist/2ynylCO9SRPTKjgNEH0Y2a) | [Truck Songs](https://open.spotify.com/album/4P65HHtKkH46q5YuYWq9ck) | 4:00 | 2021-10-01 | 2022-02-12 |
 | [Try Better Next Time](https://open.spotify.com/track/5HzYHDdYKsxhGZEkZLiFl0) | [Placebo](https://open.spotify.com/artist/6RZUqkomCmb8zCRqc9eznB) | [Try Better Next Time](https://open.spotify.com/album/6RLEWVuwEEdYfCj54wnxWV) | 3:07 | 2022-01-21 | 2022-07-29 |
 | [Try Better Next Time](https://open.spotify.com/track/7jxR5vYnUhwE6niPPyzR4V) | [Placebo](https://open.spotify.com/artist/6RZUqkomCmb8zCRqc9eznB) | [Never Let Me Go](https://open.spotify.com/album/19upQOw6eZRsGUGqGe6zF1) | 3:07 | 2022-07-01 | 2022-11-11 |

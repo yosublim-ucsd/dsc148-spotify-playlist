@@ -1,6 +1,6 @@
 {
   "description": "Las que nunca pasan de moda. ",
-  "num_followers": 604715,
+  "num_followers": 604779,
   "original_name": "Mam\u00e1 80era",
   "owner": {
     "name": "Spotify",
@@ -83,22 +83,6 @@
     {
       "added_at": "2021-05-21 05:05:27",
       "album": {
-        "name": "The Game (2011 Remaster)",
-        "url": "https://open.spotify.com/album/58alCatewkjNm9IM1Ucj67"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 163373,
-      "name": "Crazy Little Thing Called Love - Remastered 2011",
-      "url": "https://open.spotify.com/track/6xdLJrVj4vIXwhuG8TMopk"
-    },
-    {
-      "added_at": "2021-05-21 05:05:27",
-      "album": {
         "name": "Whitney",
         "url": "https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t"
       },
@@ -111,6 +95,22 @@
       "duration_ms": 291293,
       "name": "I Wanna Dance with Somebody (Who Loves Me)",
       "url": "https://open.spotify.com/track/2tUBqZG2AbRi7Q0BIrVrEj"
+    },
+    {
+      "added_at": "2021-05-21 05:05:27",
+      "album": {
+        "name": "The Game (2011 Remaster)",
+        "url": "https://open.spotify.com/album/58alCatewkjNm9IM1Ucj67"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 163373,
+      "name": "Crazy Little Thing Called Love - Remastered 2011",
+      "url": "https://open.spotify.com/track/6xdLJrVj4vIXwhuG8TMopk"
     },
     {
       "added_at": "2021-05-21 05:05:27",
@@ -209,6 +209,22 @@
       "url": "https://open.spotify.com/track/1uKjQoh8JZj9ryuYRhpd7E"
     },
     {
+      "added_at": "2021-05-21 05:05:27",
+      "album": {
+        "name": "Thriller 25 Super Deluxe Edition",
+        "url": "https://open.spotify.com/album/1C2h7mLntPSeVYciMRTF4a"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 293826,
+      "name": "Billie Jean",
+      "url": "https://open.spotify.com/track/5ChkMS8OtdzJeqyybCc9R5"
+    },
+    {
       "added_at": "2024-05-07 19:49:34",
       "album": {
         "name": "Big Bang",
@@ -239,22 +255,6 @@
       "duration_ms": 271093,
       "name": "I Will Always Love You",
       "url": "https://open.spotify.com/track/4eHbdreAnSOrDDsFfc4Fpm"
-    },
-    {
-      "added_at": "2021-05-21 05:05:27",
-      "album": {
-        "name": "Thriller 25 Super Deluxe Edition",
-        "url": "https://open.spotify.com/album/1C2h7mLntPSeVYciMRTF4a"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 293826,
-      "name": "Billie Jean",
-      "url": "https://open.spotify.com/track/5ChkMS8OtdzJeqyybCc9R5"
     },
     {
       "added_at": "2021-05-21 05:05:27",
@@ -387,22 +387,6 @@
     {
       "added_at": "2021-05-21 05:05:27",
       "album": {
-        "name": "La Cagaste... Burt Lancaster",
-        "url": "https://open.spotify.com/album/6clqMga4PMBcBlWCR6idis"
-      },
-      "artists": [
-        {
-          "name": "Hombres G",
-          "url": "https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0"
-        }
-      ],
-      "duration_ms": 184080,
-      "name": "El ataque de las chicas cocodrilo",
-      "url": "https://open.spotify.com/track/3quyxN3SapEsojxk1Uw10K"
-    },
-    {
-      "added_at": "2021-05-21 05:05:27",
-      "album": {
         "name": "Quisiera",
         "url": "https://open.spotify.com/album/3v2sq3JspM5Kny8Hz6ElyH"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 378946,
       "name": "Tarzan Boy",
       "url": "https://open.spotify.com/track/273uCXd7NPrInaiNqtkOrA"
+    },
+    {
+      "added_at": "2021-05-21 05:05:27",
+      "album": {
+        "name": "La Cagaste... Burt Lancaster",
+        "url": "https://open.spotify.com/album/6clqMga4PMBcBlWCR6idis"
+      },
+      "artists": [
+        {
+          "name": "Hombres G",
+          "url": "https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0"
+        }
+      ],
+      "duration_ms": 184080,
+      "name": "El ataque de las chicas cocodrilo",
+      "url": "https://open.spotify.com/track/3quyxN3SapEsojxk1Uw10K"
     },
     {
       "added_at": "2021-05-21 05:05:27",
@@ -481,22 +481,6 @@
       "url": "https://open.spotify.com/track/4hsISengUD6beOi6kUIcXl"
     },
     {
-      "added_at": "2024-05-07 19:49:34",
-      "album": {
-        "name": "Music Box",
-        "url": "https://open.spotify.com/album/5Mr8FpZP1DaLDxjbMD7GcR"
-      },
-      "artists": [
-        {
-          "name": "Mariah Carey",
-          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
-        }
-      ],
-      "duration_ms": 215110,
-      "name": "Without You",
-      "url": "https://open.spotify.com/track/0pkIJFV6mviH9dmBYsFwTM"
-    },
-    {
       "added_at": "2021-05-21 05:05:27",
       "album": {
         "name": "The Age Of Plastic",
@@ -511,6 +495,22 @@
       "duration_ms": 252773,
       "name": "Video Killed The Radio Star",
       "url": "https://open.spotify.com/track/7o7E1nrHWncYY7PY94gCiX"
+    },
+    {
+      "added_at": "2024-05-07 19:49:34",
+      "album": {
+        "name": "Music Box",
+        "url": "https://open.spotify.com/album/5Mr8FpZP1DaLDxjbMD7GcR"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "duration_ms": 215110,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/0pkIJFV6mviH9dmBYsFwTM"
     },
     {
       "added_at": "2021-05-21 05:05:27",
@@ -577,6 +577,22 @@
       "url": "https://open.spotify.com/track/2stxwFkmW2kZ6SuyJGO5q8"
     },
     {
+      "added_at": "2021-05-21 05:05:27",
+      "album": {
+        "name": "El Sonido Vol. 1",
+        "url": "https://open.spotify.com/album/4pikNCtnVpJMebAIS5tuYS"
+      },
+      "artists": [
+        {
+          "name": "Amanda Miguel",
+          "url": "https://open.spotify.com/artist/3v8mFhjLFa50QK8zDvAMYN"
+        }
+      ],
+      "duration_ms": 221626,
+      "name": "\u00c9l Me Minti\u00f3",
+      "url": "https://open.spotify.com/track/6lZ2Qk3WcmrG4iDmaEqpvH"
+    },
+    {
       "added_at": "2024-05-07 19:49:34",
       "album": {
         "name": "Mexicano Hasta Las Pampas",
@@ -611,22 +627,6 @@
     {
       "added_at": "2021-05-21 05:05:27",
       "album": {
-        "name": "El Sonido Vol. 1",
-        "url": "https://open.spotify.com/album/4pikNCtnVpJMebAIS5tuYS"
-      },
-      "artists": [
-        {
-          "name": "Amanda Miguel",
-          "url": "https://open.spotify.com/artist/3v8mFhjLFa50QK8zDvAMYN"
-        }
-      ],
-      "duration_ms": 221626,
-      "name": "\u00c9l Me Minti\u00f3",
-      "url": "https://open.spotify.com/track/6lZ2Qk3WcmrG4iDmaEqpvH"
-    },
-    {
-      "added_at": "2021-05-21 05:05:27",
-      "album": {
         "name": "Luz Y Sombra",
         "url": "https://open.spotify.com/album/57M2J9XUqv52BtTCJ5FifM"
       },
@@ -643,22 +643,6 @@
     {
       "added_at": "2021-05-21 05:05:27",
       "album": {
-        "name": "The Best Of Men At Work: Contraband",
-        "url": "https://open.spotify.com/album/6GYIy1SuhPDrugCZ5yNeQy"
-      },
-      "artists": [
-        {
-          "name": "Men At Work",
-          "url": "https://open.spotify.com/artist/0f3EsoviYnRKTkmayI3cux"
-        }
-      ],
-      "duration_ms": 220866,
-      "name": "Down Under",
-      "url": "https://open.spotify.com/track/46RVKt5Edm1zl0rXhPJZxz"
-    },
-    {
-      "added_at": "2021-05-21 05:05:27",
-      "album": {
         "name": "Pimpinela",
         "url": "https://open.spotify.com/album/2NYXeeATmC1K9FUhKlP0id"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 185800,
       "name": "Olv\u00eddame y Pega la Vuelta",
       "url": "https://open.spotify.com/track/4FdwRmlzP5KGM7OewGBYiu"
+    },
+    {
+      "added_at": "2021-05-21 05:05:27",
+      "album": {
+        "name": "The Best Of Men At Work: Contraband",
+        "url": "https://open.spotify.com/album/6GYIy1SuhPDrugCZ5yNeQy"
+      },
+      "artists": [
+        {
+          "name": "Men At Work",
+          "url": "https://open.spotify.com/artist/0f3EsoviYnRKTkmayI3cux"
+        }
+      ],
+      "duration_ms": 220866,
+      "name": "Down Under",
+      "url": "https://open.spotify.com/track/46RVKt5Edm1zl0rXhPJZxz"
     },
     {
       "added_at": "2021-05-21 05:05:27",
@@ -723,22 +723,6 @@
     {
       "added_at": "2021-05-21 05:05:27",
       "album": {
-        "name": "La Historia De Magneto",
-        "url": "https://open.spotify.com/album/3KDmJHv55zR0H9lnS0NFtu"
-      },
-      "artists": [
-        {
-          "name": "Magneto",
-          "url": "https://open.spotify.com/artist/5v287QKYZ7Dyuw4CNzv89p"
-        }
-      ],
-      "duration_ms": 265466,
-      "name": "Vuela, Vuela (Voyage, Voyage)",
-      "url": "https://open.spotify.com/track/6nz1ojKuYx5HO7Vh0wmuWp"
-    },
-    {
-      "added_at": "2021-05-21 05:05:27",
-      "album": {
         "name": "Solo Exitos",
         "url": "https://open.spotify.com/album/5b01rzpRKnF0NZXgdcgcA1"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 241226,
       "name": "Quiero Dormir Cansado",
       "url": "https://open.spotify.com/track/6LmKDVBBlMsWqUbuNTeCuF"
+    },
+    {
+      "added_at": "2021-05-21 05:05:27",
+      "album": {
+        "name": "La Historia De Magneto",
+        "url": "https://open.spotify.com/album/3KDmJHv55zR0H9lnS0NFtu"
+      },
+      "artists": [
+        {
+          "name": "Magneto",
+          "url": "https://open.spotify.com/artist/5v287QKYZ7Dyuw4CNzv89p"
+        }
+      ],
+      "duration_ms": 265466,
+      "name": "Vuela, Vuela (Voyage, Voyage)",
+      "url": "https://open.spotify.com/track/6nz1ojKuYx5HO7Vh0wmuWp"
     },
     {
       "added_at": "2021-05-21 05:05:27",
@@ -771,26 +771,6 @@
     {
       "added_at": "2021-05-21 05:05:27",
       "album": {
-        "name": "Canta A Juan Gabriel",
-        "url": "https://open.spotify.com/album/0KXlM36v51VrPceSsiz42M"
-      },
-      "artists": [
-        {
-          "name": "Roc\u00edo D\u00farcal",
-          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
-        },
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        }
-      ],
-      "duration_ms": 222760,
-      "name": "D\u00e9jame Vivir (with Juan Gabriel)",
-      "url": "https://open.spotify.com/track/3ic95qCcp0njJNb3mJTZaP"
-    },
-    {
-      "added_at": "2021-05-21 05:05:27",
-      "album": {
         "name": "Mujer De Todos Mujer De Nadie",
         "url": "https://open.spotify.com/album/6BC7q1B5ss7OiX121KKoJK"
       },
@@ -803,6 +783,22 @@
       "duration_ms": 210440,
       "name": "De Mi Enam\u00f3rate",
       "url": "https://open.spotify.com/track/2YpdOz01cVBMRfhdAELdLi"
+    },
+    {
+      "added_at": "2021-05-21 05:05:27",
+      "album": {
+        "name": "Tierra De Nadie",
+        "url": "https://open.spotify.com/album/3gV3uvJ1HSYVM88Tsh1DHi"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriel",
+          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
+        }
+      ],
+      "duration_ms": 227600,
+      "name": "Simplemente Amigos",
+      "url": "https://open.spotify.com/track/10PwPpr7BBxYon3pwS7k5G"
     },
     {
       "added_at": "2021-05-21 05:05:27",
@@ -839,6 +835,26 @@
     {
       "added_at": "2021-05-21 05:05:27",
       "album": {
+        "name": "Canta A Juan Gabriel",
+        "url": "https://open.spotify.com/album/0KXlM36v51VrPceSsiz42M"
+      },
+      "artists": [
+        {
+          "name": "Roc\u00edo D\u00farcal",
+          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
+        },
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "duration_ms": 222760,
+      "name": "D\u00e9jame Vivir (with Juan Gabriel)",
+      "url": "https://open.spotify.com/track/3ic95qCcp0njJNb3mJTZaP"
+    },
+    {
+      "added_at": "2021-05-21 05:05:27",
+      "album": {
         "name": "Bandido",
         "url": "https://open.spotify.com/album/29QmPdVjXD0c5DpS4U51di"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 261360,
       "name": "Amante Bandido",
       "url": "https://open.spotify.com/track/1hj6nYHeGclSY0VNTHMi27"
-    },
-    {
-      "added_at": "2021-05-21 05:05:27",
-      "album": {
-        "name": "Tierra De Nadie",
-        "url": "https://open.spotify.com/album/3gV3uvJ1HSYVM88Tsh1DHi"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriel",
-          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
-        }
-      ],
-      "duration_ms": 227600,
-      "name": "Simplemente Amigos",
-      "url": "https://open.spotify.com/track/10PwPpr7BBxYon3pwS7k5G"
     },
     {
       "added_at": "2021-05-21 05:05:27",
@@ -903,22 +903,6 @@
     {
       "added_at": "2021-05-21 05:05:27",
       "album": {
-        "name": "Lo Pasado Pasado",
-        "url": "https://open.spotify.com/album/5oddKuDpZE5aTn2uZ98Bbq"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Jos\u00e9",
-          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
-        }
-      ],
-      "duration_ms": 248226,
-      "name": "Lo Pasado, Pasado",
-      "url": "https://open.spotify.com/track/0N0MCLSnB3318RzJLVLtXt"
-    },
-    {
-      "added_at": "2021-05-21 05:05:27",
-      "album": {
         "name": "Originales - 20 Exitos",
         "url": "https://open.spotify.com/album/5xaZwiFGYT273Zk40sen9o"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 207146,
       "name": "El Muchacho de los Ojos Tristes",
       "url": "https://open.spotify.com/track/41JBXtssxYuLMyiBwwlnY6"
+    },
+    {
+      "added_at": "2021-05-21 05:05:27",
+      "album": {
+        "name": "Lo Pasado Pasado",
+        "url": "https://open.spotify.com/album/5oddKuDpZE5aTn2uZ98Bbq"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+        }
+      ],
+      "duration_ms": 248226,
+      "name": "Lo Pasado, Pasado",
+      "url": "https://open.spotify.com/track/0N0MCLSnB3318RzJLVLtXt"
     },
     {
       "added_at": "2021-05-21 05:05:27",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2021-05-21 05:05:27",
       "album": {
-        "name": "Secretos",
-        "url": "https://open.spotify.com/album/1Bzdy4dRu2czCWd4bpCzUh"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Jos\u00e9",
-          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
-        }
-      ],
-      "duration_ms": 324573,
-      "name": "Voy a Llenarte Toda",
-      "url": "https://open.spotify.com/track/6RjJbVwSkEdr6UnzVUDtn4"
-    },
-    {
-      "added_at": "2021-05-21 05:05:27",
-      "album": {
         "name": "The Ultimate Collection 1968-2003",
         "url": "https://open.spotify.com/album/7kJxjkRxiAy0NeFIaRqcKV"
       },
@@ -1083,6 +1067,22 @@
     {
       "added_at": "2021-05-21 05:05:27",
       "album": {
+        "name": "Secretos",
+        "url": "https://open.spotify.com/album/1Bzdy4dRu2czCWd4bpCzUh"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+        }
+      ],
+      "duration_ms": 324573,
+      "name": "Voy a Llenarte Toda",
+      "url": "https://open.spotify.com/track/6RjJbVwSkEdr6UnzVUDtn4"
+    },
+    {
+      "added_at": "2021-05-21 05:05:27",
+      "album": {
         "name": "El Sonido Vol. 1",
         "url": "https://open.spotify.com/album/4pikNCtnVpJMebAIS5tuYS"
       },
@@ -1095,22 +1095,6 @@
       "duration_ms": 166731,
       "name": "Hagamos Un Trato",
       "url": "https://open.spotify.com/track/7sj71Y12St8KlvMpBt4K27"
-    },
-    {
-      "added_at": "2021-05-21 05:05:27",
-      "album": {
-        "name": "Al Norte Del Sur",
-        "url": "https://open.spotify.com/album/6i3LZIVP1qEDdN6UM3zK3W"
-      },
-      "artists": [
-        {
-          "name": "Franco De Vita",
-          "url": "https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu"
-        }
-      ],
-      "duration_ms": 309973,
-      "name": "Louis",
-      "url": "https://open.spotify.com/track/4yK3AVfdhq9SqCzuLJwYOW"
     },
     {
       "added_at": "2021-05-21 05:05:27",
@@ -1143,6 +1127,22 @@
       "duration_ms": 276600,
       "name": "Con los A\u00f1os Que Me Quedan",
       "url": "https://open.spotify.com/track/5UPd6Gyj4aoaTUTlpWSak5"
+    },
+    {
+      "added_at": "2021-05-21 05:05:27",
+      "album": {
+        "name": "Al Norte Del Sur",
+        "url": "https://open.spotify.com/album/6i3LZIVP1qEDdN6UM3zK3W"
+      },
+      "artists": [
+        {
+          "name": "Franco De Vita",
+          "url": "https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu"
+        }
+      ],
+      "duration_ms": 309973,
+      "name": "Louis",
+      "url": "https://open.spotify.com/track/4yK3AVfdhq9SqCzuLJwYOW"
     },
     {
       "added_at": "2021-05-21 05:05:27",
@@ -1211,18 +1211,18 @@
     {
       "added_at": "2024-05-07 19:49:34",
       "album": {
-        "name": "Originales - 20 Exitos",
-        "url": "https://open.spotify.com/album/75LbseLsPdTkMO9oUD9J8n"
+        "name": "\u00c1mame una Vez M\u00e1s",
+        "url": "https://open.spotify.com/album/5xumVl9kckmGpDN23vLznZ"
       },
       "artists": [
         {
-          "name": "Soda Stereo",
-          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
+          "name": "Amanda Miguel",
+          "url": "https://open.spotify.com/artist/3v8mFhjLFa50QK8zDvAMYN"
         }
       ],
-      "duration_ms": 212893,
-      "name": "De M\u00fasica Ligera",
-      "url": "https://open.spotify.com/track/2WD9ggmpZE7Wodh3qVVCgg"
+      "duration_ms": 266173,
+      "name": "\u00c1mame Una Vez M\u00e1s",
+      "url": "https://open.spotify.com/track/6TcVUedzB0NE0mg6bORhx0"
     }
   ],
   "unique_name": "Mam\u00e1 80era",

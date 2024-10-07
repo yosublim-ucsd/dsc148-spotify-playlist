@@ -1,12 +1,12 @@
 {
   "description": "This is Shania Twain. The essential tracks, all in one playlist.",
-  "num_followers": 245216,
+  "num_followers": 245241,
   "original_name": "This Is Shania Twain",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zv3egAAAAAAQZkAds7qB92lmyFGQV8O3",
+  "snapshot_id": "ZwCBgAAAAABE1yhWAY14hYidaEFHWAKu",
   "tracks": [
     {
       "added_at": null,
@@ -191,22 +191,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Twisters: The Album",
-        "url": "https://open.spotify.com/album/2Z3lIfc06B7YV1ZN9oZCdS"
+        "name": "Up! (Green Version)",
+        "url": "https://open.spotify.com/album/4h6bh60fEl4GAZiPhmrgMx"
       },
       "artists": [
         {
           "name": "Shania Twain",
           "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        },
-        {
-          "name": "BRELAND",
-          "url": "https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1"
         }
       ],
-      "duration_ms": 148274,
-      "name": "Boots Don't",
-      "url": "https://open.spotify.com/track/0MZ7Qj5BoJNTsFYDLPufVt"
+      "duration_ms": 269400,
+      "name": "I'm Gonna Getcha Good",
+      "url": "https://open.spotify.com/track/3wimPgsJv0hEgP5A3sQ7Ag"
     },
     {
       "added_at": null,
@@ -243,22 +239,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Up! (Green Version)",
-        "url": "https://open.spotify.com/album/4h6bh60fEl4GAZiPhmrgMx"
-      },
-      "artists": [
-        {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        }
-      ],
-      "duration_ms": 269400,
-      "name": "I'm Gonna Getcha Good",
-      "url": "https://open.spotify.com/track/3wimPgsJv0hEgP5A3sQ7Ag"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "hole in the bottle (with Shania Twain)",
         "url": "https://open.spotify.com/album/16by1M7adOE6AeoyLzQZVc"
       },
@@ -275,6 +255,26 @@
       "duration_ms": 156275,
       "name": "hole in the bottle (with Shania Twain)",
       "url": "https://open.spotify.com/track/2bV4NwncWMnVvcWyU2yxwB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Twisters: The Album",
+        "url": "https://open.spotify.com/album/2Z3lIfc06B7YV1ZN9oZCdS"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        },
+        {
+          "name": "BRELAND",
+          "url": "https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1"
+        }
+      ],
+      "duration_ms": 148274,
+      "name": "Boots Don't",
+      "url": "https://open.spotify.com/track/0MZ7Qj5BoJNTsFYDLPufVt"
     },
     {
       "added_at": null,
@@ -455,22 +455,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Up!",
-        "url": "https://open.spotify.com/album/0dXnuPLFLPT9fnj6vIUa1G"
-      },
-      "artists": [
-        {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        }
-      ],
-      "duration_ms": 248213,
-      "name": "When You Kiss Me - Red Version",
-      "url": "https://open.spotify.com/track/7b8mI7YNGUfckTtyzoe1Zm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Up! (Red and Green Versions)",
         "url": "https://open.spotify.com/album/19y6fI4VdbDlLVtACuvcdm"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 200466,
       "name": "Ka-Ching!",
       "url": "https://open.spotify.com/track/6gFKCSEfGAb8kmXumYkpmh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Up!",
+        "url": "https://open.spotify.com/album/0dXnuPLFLPT9fnj6vIUa1G"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "duration_ms": 248213,
+      "name": "When You Kiss Me - Red Version",
+      "url": "https://open.spotify.com/track/7b8mI7YNGUfckTtyzoe1Zm"
     },
     {
       "added_at": null,
@@ -551,26 +551,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Show Pony",
-        "url": "https://open.spotify.com/album/39R5c82ytTeEF85kmJTtNT"
-      },
-      "artists": [
-        {
-          "name": "Orville Peck",
-          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
-        },
-        {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        }
-      ],
-      "duration_ms": 232773,
-      "name": "Legends Never Die - with Shania Twain",
-      "url": "https://open.spotify.com/track/5iG3DidIjI5wUqNowgmXQb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Duets: Friends & Legends",
         "url": "https://open.spotify.com/album/6BaLWbrpawEf3ZqO9xgtWd"
       },
@@ -587,6 +567,26 @@
       "duration_ms": 222413,
       "name": "You Needed Me",
       "url": "https://open.spotify.com/track/5wiVesLugAu5CL46hMwFEd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Show Pony",
+        "url": "https://open.spotify.com/album/39R5c82ytTeEF85kmJTtNT"
+      },
+      "artists": [
+        {
+          "name": "Orville Peck",
+          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
+        },
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "duration_ms": 232773,
+      "name": "Legends Never Die - with Shania Twain",
+      "url": "https://open.spotify.com/track/5iG3DidIjI5wUqNowgmXQb"
     },
     {
       "added_at": null,
@@ -623,26 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "White Claw",
-        "url": "https://open.spotify.com/album/2GRRZDdDDCDBJ7zoadTLzx"
-      },
-      "artists": [
-        {
-          "name": "Yung Gravy",
-          "url": "https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ"
-        },
-        {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        }
-      ],
-      "duration_ms": 206321,
-      "name": "White Claw",
-      "url": "https://open.spotify.com/track/1lbpwh97jdsftd1DhpESOg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Twenty Twenty",
         "url": "https://open.spotify.com/album/4JfHVHyLVWLfQzGoXixdsb"
       },
@@ -659,6 +639,26 @@
       "duration_ms": 200813,
       "name": "Forever And Ever, Amen",
       "url": "https://open.spotify.com/track/01iAnhW9yZ7AHXZ9pIxoPc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "White Claw",
+        "url": "https://open.spotify.com/album/2GRRZDdDDCDBJ7zoadTLzx"
+      },
+      "artists": [
+        {
+          "name": "Yung Gravy",
+          "url": "https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ"
+        },
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "duration_ms": 206321,
+      "name": "White Claw",
+      "url": "https://open.spotify.com/track/1lbpwh97jdsftd1DhpESOg"
     },
     {
       "added_at": null,
@@ -775,8 +775,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Don't!",
-        "url": "https://open.spotify.com/album/79a6iHklq4kX2PKvxKPri3"
+        "name": "The Woman In Me",
+        "url": "https://open.spotify.com/album/3wDeIA9tJU0uNlsroUdcYK"
       },
       "artists": [
         {
@@ -784,9 +784,9 @@
           "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
         }
       ],
-      "duration_ms": 238560,
-      "name": "Don't! - Greatest Hits Version",
-      "url": "https://open.spotify.com/track/6dPa3p9WGzvxDLOovJf8pH"
+      "duration_ms": 253240,
+      "name": "Home Ain't Where His Heart Is (Anymore)",
+      "url": "https://open.spotify.com/track/43C32gFFER5nS4LJffpEPZ"
     },
     {
       "added_at": null,
@@ -807,8 +807,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Woman In Me",
-        "url": "https://open.spotify.com/album/3wDeIA9tJU0uNlsroUdcYK"
+        "name": "Don't!",
+        "url": "https://open.spotify.com/album/79a6iHklq4kX2PKvxKPri3"
       },
       "artists": [
         {
@@ -816,9 +816,9 @@
           "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
         }
       ],
-      "duration_ms": 253240,
-      "name": "Home Ain't Where His Heart Is (Anymore)",
-      "url": "https://open.spotify.com/track/43C32gFFER5nS4LJffpEPZ"
+      "duration_ms": 238560,
+      "name": "Don't! - Greatest Hits Version",
+      "url": "https://open.spotify.com/track/6dPa3p9WGzvxDLOovJf8pH"
     },
     {
       "added_at": null,
@@ -855,22 +855,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Encontros Pelo Caminho",
-        "url": "https://open.spotify.com/album/0bHzubpVK10uxO9kyaSJke"
+        "name": "Queen Of Me",
+        "url": "https://open.spotify.com/album/5zDqo50KERwnv3vlFE4y99"
       },
       "artists": [
-        {
-          "name": "Paula Fernandes",
-          "url": "https://open.spotify.com/artist/1nca3OA1kKCpP6aPJcBL92"
-        },
         {
           "name": "Shania Twain",
           "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
         }
       ],
-      "duration_ms": 214440,
-      "name": "You're Still The One",
-      "url": "https://open.spotify.com/track/6zoCGLQJPcecedGcbAzdkT"
+      "duration_ms": 159256,
+      "name": "Pretty Liar",
+      "url": "https://open.spotify.com/track/1mm9WqeXWMnP6mIc0uYqS4"
     }
   ],
   "unique_name": "This Is Shania Twain",

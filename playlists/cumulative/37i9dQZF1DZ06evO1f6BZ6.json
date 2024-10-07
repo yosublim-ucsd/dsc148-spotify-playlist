@@ -779,6 +779,24 @@
     },
     {
       "album": {
+        "name": "Christmas To Christmas",
+        "url": "https://open.spotify.com/album/657rEUY3sBhYsW1KKuptPI"
+      },
+      "artists": [
+        {
+          "name": "Toby Keith",
+          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+        }
+      ],
+      "date_added": "2024-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124720,
+      "name": "Old Toy Trains - Bonus Track",
+      "url": "https://open.spotify.com/track/1piyBNstQ55S4DO21cwb0l"
+    },
+    {
+      "album": {
         "name": "Clancy's Tavern",
         "url": "https://open.spotify.com/album/0sndIMIlhlgn1eyavXRK1C"
       },

@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Italy.",
-  "num_followers": 1080294,
+  "num_followers": 1080292,
   "original_name": "Top 50 - Italy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "LpSroAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "LpX6yAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2024-10-05 12:49:18",
+      "added_at": "2024-10-06 12:27:55",
       "album": {
         "name": "VERA BADDIE",
         "url": "https://open.spotify.com/album/4KakTQXezMez5owYFuGAF2"
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/7sj9VfVtmcEZBDbRAsVXWY"
     },
     {
-      "added_at": "2024-10-05 12:49:18",
+      "added_at": "2024-10-06 12:27:55",
       "album": {
         "name": "Per due come noi",
         "url": "https://open.spotify.com/album/6vkoEHhulbsz7twfso0VxJ"
@@ -53,7 +53,7 @@
       "url": "https://open.spotify.com/track/5mKHtB2OGDXzbsInzW7veZ"
     },
     {
-      "added_at": "2024-10-05 12:49:18",
+      "added_at": "2024-10-06 12:27:55",
       "album": {
         "name": "LOCURA",
         "url": "https://open.spotify.com/album/0wYy8LTZuhiAyvchPppHPj"
@@ -73,27 +73,7 @@
       "url": "https://open.spotify.com/track/4CNfC20TImtjdwN3dG0uCF"
     },
     {
-      "added_at": "2024-10-05 12:49:18",
-      "album": {
-        "name": "LOCURA",
-        "url": "https://open.spotify.com/album/0wYy8LTZuhiAyvchPppHPj"
-      },
-      "artists": [
-        {
-          "name": "Lazza",
-          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
-        },
-        {
-          "name": "Sfera Ebbasta",
-          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
-        }
-      ],
-      "duration_ms": 188081,
-      "name": "FENTANYL (feat. Sfera Ebbasta)",
-      "url": "https://open.spotify.com/track/4kDi7X5sgqF0aM74aPBWSc"
-    },
-    {
-      "added_at": "2024-10-05 12:49:18",
+      "added_at": "2024-10-06 12:27:55",
       "album": {
         "name": "Milano Angels",
         "url": "https://open.spotify.com/album/1moDP6neOAWuwU9YylMeOL"
@@ -113,23 +93,27 @@
       "url": "https://open.spotify.com/track/2ceJa7d62wQ3eRBK589ALG"
     },
     {
-      "added_at": "2024-10-05 12:49:18",
+      "added_at": "2024-10-06 12:27:55",
       "album": {
-        "name": "Romantico Ma Muori",
-        "url": "https://open.spotify.com/album/0js12ciEGYY4tTcCLKgwwY"
+        "name": "LOCURA",
+        "url": "https://open.spotify.com/album/0wYy8LTZuhiAyvchPppHPj"
       },
       "artists": [
         {
-          "name": "Pinguini Tattici Nucleari",
-          "url": "https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS"
+          "name": "Lazza",
+          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
+        },
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
         }
       ],
-      "duration_ms": 166330,
-      "name": "Romantico Ma Muori",
-      "url": "https://open.spotify.com/track/5lTTuESHokJHpSsEvvSR64"
+      "duration_ms": 188081,
+      "name": "FENTANYL (feat. Sfera Ebbasta)",
+      "url": "https://open.spotify.com/track/4kDi7X5sgqF0aM74aPBWSc"
     },
     {
-      "added_at": "2024-10-05 12:49:18",
+      "added_at": "2024-10-06 12:27:55",
       "album": {
         "name": "Si Antes Te Hubiera Conocido",
         "url": "https://open.spotify.com/album/5ylbxH7EqpsmHZCRuiYewS"
@@ -145,7 +129,7 @@
       "url": "https://open.spotify.com/track/6WatFBLVB0x077xWeoVc2k"
     },
     {
-      "added_at": "2024-10-05 12:49:18",
+      "added_at": "2024-10-06 12:27:55",
       "album": {
         "name": "DIO LO SA",
         "url": "https://open.spotify.com/album/1bdXMUERNI9dwREDryk6C7"
@@ -169,7 +153,55 @@
       "url": "https://open.spotify.com/track/1IkzT4wzFJRbFOmKOSqTen"
     },
     {
-      "added_at": "2024-10-05 12:49:18",
+      "added_at": "2024-10-06 12:27:55",
+      "album": {
+        "name": "Romantico Ma Muori",
+        "url": "https://open.spotify.com/album/0js12ciEGYY4tTcCLKgwwY"
+      },
+      "artists": [
+        {
+          "name": "Pinguini Tattici Nucleari",
+          "url": "https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS"
+        }
+      ],
+      "duration_ms": 166330,
+      "name": "Romantico Ma Muori",
+      "url": "https://open.spotify.com/track/5lTTuESHokJHpSsEvvSR64"
+    },
+    {
+      "added_at": "2024-10-06 12:27:55",
+      "album": {
+        "name": "VERA BADDIE",
+        "url": "https://open.spotify.com/album/4KakTQXezMez5owYFuGAF2"
+      },
+      "artists": [
+        {
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
+        }
+      ],
+      "duration_ms": 142615,
+      "name": "30\u00baC",
+      "url": "https://open.spotify.com/track/19DHPlTC2gx1j4jrFzNbwL"
+    },
+    {
+      "added_at": "2024-10-06 12:27:55",
+      "album": {
+        "name": "Rossetto e caff\u00e8",
+        "url": "https://open.spotify.com/album/0emUWUzKXXzwcJdStSQdIM"
+      },
+      "artists": [
+        {
+          "name": "Sal Da Vinci",
+          "url": "https://open.spotify.com/artist/7cdIY4mDfM1dbjgl7s2fGR"
+        }
+      ],
+      "duration_ms": 192989,
+      "name": "Rossetto e caff\u00e8",
+      "url": "https://open.spotify.com/track/1nLGeFQuY7PFxrou3ezEvP"
+    },
+    {
+      "added_at": "2024-10-06 12:27:55",
       "album": {
         "name": "LOCURA",
         "url": "https://open.spotify.com/album/0wYy8LTZuhiAyvchPppHPj"
@@ -189,79 +221,7 @@
       "url": "https://open.spotify.com/track/0X4vgF6kbeFhfASKj0PXOd"
     },
     {
-      "added_at": "2024-10-05 12:49:18",
-      "album": {
-        "name": "VERA BADDIE",
-        "url": "https://open.spotify.com/album/4KakTQXezMez5owYFuGAF2"
-      },
-      "artists": [
-        {
-          "name": "ANNA",
-          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
-        }
-      ],
-      "duration_ms": 142615,
-      "name": "30\u00baC",
-      "url": "https://open.spotify.com/track/19DHPlTC2gx1j4jrFzNbwL"
-    },
-    {
-      "added_at": "2024-10-05 12:49:18",
-      "album": {
-        "name": "Rossetto e caff\u00e8",
-        "url": "https://open.spotify.com/album/0emUWUzKXXzwcJdStSQdIM"
-      },
-      "artists": [
-        {
-          "name": "Sal Da Vinci",
-          "url": "https://open.spotify.com/artist/7cdIY4mDfM1dbjgl7s2fGR"
-        }
-      ],
-      "duration_ms": 192989,
-      "name": "Rossetto e caff\u00e8",
-      "url": "https://open.spotify.com/track/1nLGeFQuY7PFxrou3ezEvP"
-    },
-    {
-      "added_at": "2024-10-05 12:49:18",
-      "album": {
-        "name": "ASTRO",
-        "url": "https://open.spotify.com/album/3MgibgQ9ES2OCG073TNXuG"
-      },
-      "artists": [
-        {
-          "name": "Astro",
-          "url": "https://open.spotify.com/artist/2pzFTbri7ew8mW2CbYpCNq"
-        },
-        {
-          "name": "Simba La Rue",
-          "url": "https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO"
-        }
-      ],
-      "duration_ms": 124675,
-      "name": "SPENDERE (feat. Simba La Rue)",
-      "url": "https://open.spotify.com/track/1CJNj8Qnpoz6lyil9EgqfE"
-    },
-    {
-      "added_at": "2024-10-05 12:49:18",
-      "album": {
-        "name": "LOCURA",
-        "url": "https://open.spotify.com/album/0wYy8LTZuhiAyvchPppHPj"
-      },
-      "artists": [
-        {
-          "name": "Lazza",
-          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
-        },
-        {
-          "name": "Ghali",
-          "url": "https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L"
-        }
-      ],
-      "duration_ms": 241250,
-      "name": "GHETTO SUPERSTAR (feat. Ghali)",
-      "url": "https://open.spotify.com/track/2ixHrwHianfv01Bc7QGD2G"
-    },
-    {
-      "added_at": "2024-10-05 12:49:18",
+      "added_at": "2024-10-06 12:27:55",
       "album": {
         "name": "VERA BADDIE",
         "url": "https://open.spotify.com/album/4KakTQXezMez5owYFuGAF2"
@@ -281,63 +241,7 @@
       "url": "https://open.spotify.com/track/4ZRVI6xwgbjgW5SgJB468n"
     },
     {
-      "added_at": "2024-10-05 12:49:18",
-      "album": {
-        "name": "LOCURA",
-        "url": "https://open.spotify.com/album/0wYy8LTZuhiAyvchPppHPj"
-      },
-      "artists": [
-        {
-          "name": "Lazza",
-          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
-        }
-      ],
-      "duration_ms": 189041,
-      "name": "ABITUDINE",
-      "url": "https://open.spotify.com/track/3WDgl9kEiGNAerG9FNBL1H"
-    },
-    {
-      "added_at": "2024-10-05 12:49:18",
-      "album": {
-        "name": "LOCURA",
-        "url": "https://open.spotify.com/album/0wYy8LTZuhiAyvchPppHPj"
-      },
-      "artists": [
-        {
-          "name": "Lazza",
-          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
-        },
-        {
-          "name": "Marracash",
-          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
-        }
-      ],
-      "duration_ms": 179538,
-      "name": "-3 (PERDERE IL VOLO) (feat. Marracash)",
-      "url": "https://open.spotify.com/track/5IiXZCAsi29TOtY3rbmKOo"
-    },
-    {
-      "added_at": "2024-10-05 12:49:18",
-      "album": {
-        "name": "Devastante",
-        "url": "https://open.spotify.com/album/4kcXg1nme5PmpGe9Jqjd8n"
-      },
-      "artists": [
-        {
-          "name": "Olly",
-          "url": "https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl"
-        },
-        {
-          "name": "JVLI",
-          "url": "https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf"
-        }
-      ],
-      "duration_ms": 190122,
-      "name": "Devastante",
-      "url": "https://open.spotify.com/track/01XexSX2HDgVDxnnHEBblB"
-    },
-    {
-      "added_at": "2024-10-05 12:49:18",
+      "added_at": "2024-10-06 12:27:55",
       "album": {
         "name": "ICON",
         "url": "https://open.spotify.com/album/3IGuXyMxlXEZJOvBwMu13c"
@@ -357,63 +261,7 @@
       "url": "https://open.spotify.com/track/2ljA7TjCL9U0UO7P9alF0B"
     },
     {
-      "added_at": "2024-10-05 12:49:18",
-      "album": {
-        "name": "DI CAPRIO (feat. Niky Savage)",
-        "url": "https://open.spotify.com/album/1Bc0ufj4QsSISl1gApoJCa"
-      },
-      "artists": [
-        {
-          "name": "Fedez",
-          "url": "https://open.spotify.com/artist/3pgCLfNbw5ozIfoNsvDU7i"
-        },
-        {
-          "name": "Niky Savage",
-          "url": "https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg"
-        }
-      ],
-      "duration_ms": 148363,
-      "name": "DI CAPRIO (feat. Niky Savage)",
-      "url": "https://open.spotify.com/track/34IZ1Uu91IxjGbGRtW4c63"
-    },
-    {
-      "added_at": "2024-10-05 12:49:18",
-      "album": {
-        "name": "STORIE BREVI",
-        "url": "https://open.spotify.com/album/6c4p2PNyp5Ek43s2IDX5Vh"
-      },
-      "artists": [
-        {
-          "name": "Tananai",
-          "url": "https://open.spotify.com/artist/35V1WomiedCJeGfupcPm7s"
-        },
-        {
-          "name": "Annalisa",
-          "url": "https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv"
-        }
-      ],
-      "duration_ms": 175153,
-      "name": "STORIE BREVI",
-      "url": "https://open.spotify.com/track/5GZupy8zByqFmXvpwZ4JOC"
-    },
-    {
-      "added_at": "2024-10-05 12:49:18",
-      "album": {
-        "name": "Ora che non ho pi\u00f9 te",
-        "url": "https://open.spotify.com/album/0GjC6blqcboQAQExPBF4kf"
-      },
-      "artists": [
-        {
-          "name": "Cesare Cremonini",
-          "url": "https://open.spotify.com/artist/396Jr76018oUMR6QBnqT8T"
-        }
-      ],
-      "duration_ms": 303032,
-      "name": "Ora che non ho pi\u00f9 te",
-      "url": "https://open.spotify.com/track/1tse93p9ApWJtMGYRxCKNm"
-    },
-    {
-      "added_at": "2024-10-05 12:49:18",
+      "added_at": "2024-10-06 12:27:55",
       "album": {
         "name": "VERA BADDIE",
         "url": "https://open.spotify.com/album/4KakTQXezMez5owYFuGAF2"
@@ -433,7 +281,139 @@
       "url": "https://open.spotify.com/track/3zjwZqLebYTDvRS2RJH5Be"
     },
     {
-      "added_at": "2024-10-05 12:49:18",
+      "added_at": "2024-10-06 12:27:55",
+      "album": {
+        "name": "STORIE BREVI",
+        "url": "https://open.spotify.com/album/6c4p2PNyp5Ek43s2IDX5Vh"
+      },
+      "artists": [
+        {
+          "name": "Tananai",
+          "url": "https://open.spotify.com/artist/35V1WomiedCJeGfupcPm7s"
+        },
+        {
+          "name": "Annalisa",
+          "url": "https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv"
+        }
+      ],
+      "duration_ms": 175153,
+      "name": "STORIE BREVI",
+      "url": "https://open.spotify.com/track/5GZupy8zByqFmXvpwZ4JOC"
+    },
+    {
+      "added_at": "2024-10-06 12:27:55",
+      "album": {
+        "name": "LOCURA",
+        "url": "https://open.spotify.com/album/0wYy8LTZuhiAyvchPppHPj"
+      },
+      "artists": [
+        {
+          "name": "Lazza",
+          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
+        },
+        {
+          "name": "Ghali",
+          "url": "https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L"
+        }
+      ],
+      "duration_ms": 241250,
+      "name": "GHETTO SUPERSTAR (feat. Ghali)",
+      "url": "https://open.spotify.com/track/2ixHrwHianfv01Bc7QGD2G"
+    },
+    {
+      "added_at": "2024-10-06 12:27:55",
+      "album": {
+        "name": "Devastante",
+        "url": "https://open.spotify.com/album/4kcXg1nme5PmpGe9Jqjd8n"
+      },
+      "artists": [
+        {
+          "name": "Olly",
+          "url": "https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl"
+        },
+        {
+          "name": "JVLI",
+          "url": "https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf"
+        }
+      ],
+      "duration_ms": 190122,
+      "name": "Devastante",
+      "url": "https://open.spotify.com/track/01XexSX2HDgVDxnnHEBblB"
+    },
+    {
+      "added_at": "2024-10-06 12:27:55",
+      "album": {
+        "name": "LOCURA",
+        "url": "https://open.spotify.com/album/0wYy8LTZuhiAyvchPppHPj"
+      },
+      "artists": [
+        {
+          "name": "Lazza",
+          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
+        }
+      ],
+      "duration_ms": 189041,
+      "name": "ABITUDINE",
+      "url": "https://open.spotify.com/track/3WDgl9kEiGNAerG9FNBL1H"
+    },
+    {
+      "added_at": "2024-10-06 12:27:55",
+      "album": {
+        "name": "Ora che non ho pi\u00f9 te",
+        "url": "https://open.spotify.com/album/0GjC6blqcboQAQExPBF4kf"
+      },
+      "artists": [
+        {
+          "name": "Cesare Cremonini",
+          "url": "https://open.spotify.com/artist/396Jr76018oUMR6QBnqT8T"
+        }
+      ],
+      "duration_ms": 303032,
+      "name": "Ora che non ho pi\u00f9 te",
+      "url": "https://open.spotify.com/track/1tse93p9ApWJtMGYRxCKNm"
+    },
+    {
+      "added_at": "2024-10-06 12:27:55",
+      "album": {
+        "name": "LOCURA",
+        "url": "https://open.spotify.com/album/0wYy8LTZuhiAyvchPppHPj"
+      },
+      "artists": [
+        {
+          "name": "Lazza",
+          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
+        },
+        {
+          "name": "Marracash",
+          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
+        }
+      ],
+      "duration_ms": 179538,
+      "name": "-3 (PERDERE IL VOLO) (feat. Marracash)",
+      "url": "https://open.spotify.com/track/5IiXZCAsi29TOtY3rbmKOo"
+    },
+    {
+      "added_at": "2024-10-06 12:27:55",
+      "album": {
+        "name": "DI CAPRIO (feat. Niky Savage)",
+        "url": "https://open.spotify.com/album/1Bc0ufj4QsSISl1gApoJCa"
+      },
+      "artists": [
+        {
+          "name": "Fedez",
+          "url": "https://open.spotify.com/artist/3pgCLfNbw5ozIfoNsvDU7i"
+        },
+        {
+          "name": "Niky Savage",
+          "url": "https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg"
+        }
+      ],
+      "duration_ms": 148363,
+      "name": "DI CAPRIO (feat. Niky Savage)",
+      "url": "https://open.spotify.com/track/34IZ1Uu91IxjGbGRtW4c63"
+    },
+    {
+      "added_at": "2024-10-06 12:27:55",
       "album": {
         "name": "ICON",
         "url": "https://open.spotify.com/album/3IGuXyMxlXEZJOvBwMu13c"
@@ -449,63 +429,7 @@
       "url": "https://open.spotify.com/track/3BK8HOgD5GX3mfwVytDyIR"
     },
     {
-      "added_at": "2024-10-05 12:49:18",
-      "album": {
-        "name": "LOCURA",
-        "url": "https://open.spotify.com/album/0wYy8LTZuhiAyvchPppHPj"
-      },
-      "artists": [
-        {
-          "name": "Lazza",
-          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
-        }
-      ],
-      "duration_ms": 189642,
-      "name": "BUIO DAVANTI",
-      "url": "https://open.spotify.com/track/4iD0Ohz6dx6ii0zTglaBMn"
-    },
-    {
-      "added_at": "2024-10-05 12:49:18",
-      "album": {
-        "name": "LOCURA",
-        "url": "https://open.spotify.com/album/0wYy8LTZuhiAyvchPppHPj"
-      },
-      "artists": [
-        {
-          "name": "Lazza",
-          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
-        },
-        {
-          "name": "Kid Yugi",
-          "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
-        }
-      ],
-      "duration_ms": 203100,
-      "name": "MEZZE VERIT\u00c0 (feat. Kid Yugi)",
-      "url": "https://open.spotify.com/track/0zrcO7oLJv5hF5nodDbMkw"
-    },
-    {
-      "added_at": "2024-10-05 12:49:18",
-      "album": {
-        "name": "TUNNEL",
-        "url": "https://open.spotify.com/album/6YuOevsuiSCOYw5I0VznFU"
-      },
-      "artists": [
-        {
-          "name": "Simba La Rue",
-          "url": "https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO"
-        },
-        {
-          "name": "FT Kings",
-          "url": "https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq"
-        }
-      ],
-      "duration_ms": 148148,
-      "name": "VRP",
-      "url": "https://open.spotify.com/track/5v8TAgDkXKzzV2fKNWRMwA"
-    },
-    {
-      "added_at": "2024-10-05 12:49:18",
+      "added_at": "2024-10-06 12:27:55",
       "album": {
         "name": "Milano Angels",
         "url": "https://open.spotify.com/album/1moDP6neOAWuwU9YylMeOL"
@@ -521,7 +445,23 @@
       "url": "https://open.spotify.com/track/3sdvDRHwSpuKUehwVYxHcG"
     },
     {
-      "added_at": "2024-10-05 12:49:18",
+      "added_at": "2024-10-06 12:27:55",
+      "album": {
+        "name": "Paprika",
+        "url": "https://open.spotify.com/album/2y3nSOKzHqCC6CDk4juId6"
+      },
+      "artists": [
+        {
+          "name": "Ghali",
+          "url": "https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L"
+        }
+      ],
+      "duration_ms": 148571,
+      "name": "Paprika",
+      "url": "https://open.spotify.com/track/7kS2AVRk5Yj6BTj8PyJFfC"
+    },
+    {
+      "added_at": "2024-10-06 12:27:55",
       "album": {
         "name": "La Divina Commedia (Deluxe)",
         "url": "https://open.spotify.com/album/21A98jXqZkeJNNv8fcFTaD"
@@ -541,59 +481,7 @@
       "url": "https://open.spotify.com/track/5LDmD4cFF0C8BCf3tVvyBW"
     },
     {
-      "added_at": "2024-10-05 12:49:18",
-      "album": {
-        "name": "Paprika",
-        "url": "https://open.spotify.com/album/2y3nSOKzHqCC6CDk4juId6"
-      },
-      "artists": [
-        {
-          "name": "Ghali",
-          "url": "https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L"
-        }
-      ],
-      "duration_ms": 148571,
-      "name": "Paprika",
-      "url": "https://open.spotify.com/track/7kS2AVRk5Yj6BTj8PyJFfC"
-    },
-    {
-      "added_at": "2024-10-05 12:49:18",
-      "album": {
-        "name": "ASTRO",
-        "url": "https://open.spotify.com/album/3MgibgQ9ES2OCG073TNXuG"
-      },
-      "artists": [
-        {
-          "name": "Astro",
-          "url": "https://open.spotify.com/artist/2pzFTbri7ew8mW2CbYpCNq"
-        },
-        {
-          "name": "ANNA",
-          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
-        }
-      ],
-      "duration_ms": 176838,
-      "name": "1 MOMENTO (feat. ANNA)",
-      "url": "https://open.spotify.com/track/6OCnAtM8oa0JymErlTYXxG"
-    },
-    {
-      "added_at": "2024-10-05 12:49:18",
-      "album": {
-        "name": "ALLUCINAZIONE COLLETTIVA",
-        "url": "https://open.spotify.com/album/5wY53ViB7NBbvztuRDP7se"
-      },
-      "artists": [
-        {
-          "name": "Fedez",
-          "url": "https://open.spotify.com/artist/3pgCLfNbw5ozIfoNsvDU7i"
-        }
-      ],
-      "duration_ms": 176785,
-      "name": "ALLUCINAZIONE COLLETTIVA",
-      "url": "https://open.spotify.com/track/2znPPkwAfVVD7BJtqDSZqQ"
-    },
-    {
-      "added_at": "2024-10-05 12:49:18",
+      "added_at": "2024-10-06 12:27:55",
       "album": {
         "name": "RADIO SAKURA",
         "url": "https://open.spotify.com/album/5MHSMa7gBXLoOGIPbNtOCo"
@@ -613,27 +501,99 @@
       "url": "https://open.spotify.com/track/0lXVWzLwDnKB7Ro5p0AJPg"
     },
     {
-      "added_at": "2024-10-05 12:49:18",
+      "added_at": "2024-10-06 12:27:55",
       "album": {
-        "name": "ASTRO",
-        "url": "https://open.spotify.com/album/3MgibgQ9ES2OCG073TNXuG"
+        "name": "ALLUCINAZIONE COLLETTIVA",
+        "url": "https://open.spotify.com/album/5wY53ViB7NBbvztuRDP7se"
       },
       "artists": [
         {
-          "name": "Astro",
-          "url": "https://open.spotify.com/artist/2pzFTbri7ew8mW2CbYpCNq"
-        },
-        {
-          "name": "Capo Plaza",
-          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+          "name": "Fedez",
+          "url": "https://open.spotify.com/artist/3pgCLfNbw5ozIfoNsvDU7i"
         }
       ],
-      "duration_ms": 184199,
-      "name": "GHETTO CHIC (feat. Capo Plaza)",
-      "url": "https://open.spotify.com/track/59dhypL0XctHMdiXw75naA"
+      "duration_ms": 176785,
+      "name": "ALLUCINAZIONE COLLETTIVA",
+      "url": "https://open.spotify.com/track/2znPPkwAfVVD7BJtqDSZqQ"
     },
     {
-      "added_at": "2024-10-05 12:49:18",
+      "added_at": "2024-10-06 12:27:55",
+      "album": {
+        "name": "TUNNEL",
+        "url": "https://open.spotify.com/album/6YuOevsuiSCOYw5I0VznFU"
+      },
+      "artists": [
+        {
+          "name": "Simba La Rue",
+          "url": "https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO"
+        },
+        {
+          "name": "FT Kings",
+          "url": "https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq"
+        }
+      ],
+      "duration_ms": 148148,
+      "name": "VRP",
+      "url": "https://open.spotify.com/track/5v8TAgDkXKzzV2fKNWRMwA"
+    },
+    {
+      "added_at": "2024-10-06 12:27:55",
+      "album": {
+        "name": "LOCURA",
+        "url": "https://open.spotify.com/album/0wYy8LTZuhiAyvchPppHPj"
+      },
+      "artists": [
+        {
+          "name": "Lazza",
+          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
+        }
+      ],
+      "duration_ms": 189642,
+      "name": "BUIO DAVANTI",
+      "url": "https://open.spotify.com/track/4iD0Ohz6dx6ii0zTglaBMn"
+    },
+    {
+      "added_at": "2024-10-06 12:27:55",
+      "album": {
+        "name": "LOCURA",
+        "url": "https://open.spotify.com/album/0wYy8LTZuhiAyvchPppHPj"
+      },
+      "artists": [
+        {
+          "name": "Lazza",
+          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
+        },
+        {
+          "name": "Kid Yugi",
+          "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
+        }
+      ],
+      "duration_ms": 203100,
+      "name": "MEZZE VERIT\u00c0 (feat. Kid Yugi)",
+      "url": "https://open.spotify.com/track/0zrcO7oLJv5hF5nodDbMkw"
+    },
+    {
+      "added_at": "2024-10-06 12:27:55",
+      "album": {
+        "name": "VERA BADDIE",
+        "url": "https://open.spotify.com/album/4KakTQXezMez5owYFuGAF2"
+      },
+      "artists": [
+        {
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
+        },
+        {
+          "name": "Lazza",
+          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
+        }
+      ],
+      "duration_ms": 198260,
+      "name": "BBE (feat. Lazza)",
+      "url": "https://open.spotify.com/track/4I2SWtTgB08SICbqN6983B"
+    },
+    {
+      "added_at": "2024-10-06 12:27:55",
       "album": {
         "name": "Die With A Smile",
         "url": "https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N"
@@ -653,59 +613,23 @@
       "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
     },
     {
-      "added_at": "2024-10-05 12:49:18",
+      "added_at": "2024-10-06 12:27:55",
       "album": {
-        "name": "LOCURA",
-        "url": "https://open.spotify.com/album/0wYy8LTZuhiAyvchPppHPj"
+        "name": "ALTROVE",
+        "url": "https://open.spotify.com/album/2VHpXm9h05eiyteYReWkK8"
       },
       "artists": [
         {
-          "name": "Lazza",
-          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
-        },
-        {
-          "name": "Artie 5ive",
-          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
+          "name": "Ultimo",
+          "url": "https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa"
         }
       ],
-      "duration_ms": 171875,
-      "name": "CASANOVA (feat. Artie 5ive)",
-      "url": "https://open.spotify.com/track/25xUkNnc4azNAsli0pCNU7"
+      "duration_ms": 205354,
+      "name": "ALTROVE",
+      "url": "https://open.spotify.com/track/1A1xTBtNnJ09JNINiLjdOK"
     },
     {
-      "added_at": "2024-10-05 12:49:18",
-      "album": {
-        "name": "Baby Mama",
-        "url": "https://open.spotify.com/album/3P40qeC2k4oGbF89ppRUJO"
-      },
-      "artists": [
-        {
-          "name": "Don Pero",
-          "url": "https://open.spotify.com/artist/2KLafS2cc489GVGuYm5aE2"
-        }
-      ],
-      "duration_ms": 151160,
-      "name": "Baby Mama",
-      "url": "https://open.spotify.com/track/4Y60H8heDsEpQ2hin2g6V5"
-    },
-    {
-      "added_at": "2024-10-05 12:49:18",
-      "album": {
-        "name": "LOCURA",
-        "url": "https://open.spotify.com/album/0wYy8LTZuhiAyvchPppHPj"
-      },
-      "artists": [
-        {
-          "name": "Lazza",
-          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
-        }
-      ],
-      "duration_ms": 218848,
-      "name": "CERTE COSE",
-      "url": "https://open.spotify.com/track/1Oq3J5blhz3N6IiWJVZRgm"
-    },
-    {
-      "added_at": "2024-10-05 12:49:18",
+      "added_at": "2024-10-06 12:27:55",
       "album": {
         "name": "Milano Angels",
         "url": "https://open.spotify.com/album/1moDP6neOAWuwU9YylMeOL"
@@ -714,18 +638,14 @@
         {
           "name": "Shiva",
           "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
-        },
-        {
-          "name": "Tony Boy",
-          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
         }
       ],
-      "duration_ms": 167921,
-      "name": "Polvere (feat. Tony Boy)",
-      "url": "https://open.spotify.com/track/3ppXueOTvYpYp7zQUbuIKh"
+      "duration_ms": 157200,
+      "name": "Tutto o Nada",
+      "url": "https://open.spotify.com/track/5QtcghmkREVhNwOFjyOGFJ"
     },
     {
-      "added_at": "2024-10-05 12:49:18",
+      "added_at": "2024-10-06 12:27:55",
       "album": {
         "name": "HO VOGLIA DI TE",
         "url": "https://open.spotify.com/album/46WmEktGt3rjxtsOqXIWXj"
@@ -749,91 +669,23 @@
       "url": "https://open.spotify.com/track/3EJSUFQGUaTm4Km2Zri1Zp"
     },
     {
-      "added_at": "2024-10-05 12:49:18",
+      "added_at": "2024-10-06 12:27:55",
       "album": {
-        "name": "LOCURA",
-        "url": "https://open.spotify.com/album/0wYy8LTZuhiAyvchPppHPj"
+        "name": "Baby Mama",
+        "url": "https://open.spotify.com/album/3P40qeC2k4oGbF89ppRUJO"
       },
       "artists": [
         {
-          "name": "Lazza",
-          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
+          "name": "Don Pero",
+          "url": "https://open.spotify.com/artist/2KLafS2cc489GVGuYm5aE2"
         }
       ],
-      "duration_ms": 183132,
-      "name": "VERDI NEI VIOLA",
-      "url": "https://open.spotify.com/track/59guJ6uWOPwPZQlC8lBpME"
+      "duration_ms": 151160,
+      "name": "Baby Mama",
+      "url": "https://open.spotify.com/track/4Y60H8heDsEpQ2hin2g6V5"
     },
     {
-      "added_at": "2024-10-05 12:49:18",
-      "album": {
-        "name": "VERA BADDIE",
-        "url": "https://open.spotify.com/album/4KakTQXezMez5owYFuGAF2"
-      },
-      "artists": [
-        {
-          "name": "ANNA",
-          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
-        },
-        {
-          "name": "Lazza",
-          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
-        }
-      ],
-      "duration_ms": 198260,
-      "name": "BBE (feat. Lazza)",
-      "url": "https://open.spotify.com/track/4I2SWtTgB08SICbqN6983B"
-    },
-    {
-      "added_at": "2024-10-05 12:49:18",
-      "album": {
-        "name": "LOCURA",
-        "url": "https://open.spotify.com/album/0wYy8LTZuhiAyvchPppHPj"
-      },
-      "artists": [
-        {
-          "name": "Lazza",
-          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
-        }
-      ],
-      "duration_ms": 244096,
-      "name": "100 MESSAGGI",
-      "url": "https://open.spotify.com/track/2R7o6Y8x8aZtOqo4QXKBlm"
-    },
-    {
-      "added_at": "2024-10-05 12:49:18",
-      "album": {
-        "name": "Milano Angels",
-        "url": "https://open.spotify.com/album/1moDP6neOAWuwU9YylMeOL"
-      },
-      "artists": [
-        {
-          "name": "Shiva",
-          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
-        }
-      ],
-      "duration_ms": 157200,
-      "name": "Tutto o Nada",
-      "url": "https://open.spotify.com/track/5QtcghmkREVhNwOFjyOGFJ"
-    },
-    {
-      "added_at": "2024-10-05 12:49:18",
-      "album": {
-        "name": "ALTROVE",
-        "url": "https://open.spotify.com/album/2VHpXm9h05eiyteYReWkK8"
-      },
-      "artists": [
-        {
-          "name": "Ultimo",
-          "url": "https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa"
-        }
-      ],
-      "duration_ms": 205354,
-      "name": "ALTROVE",
-      "url": "https://open.spotify.com/track/1A1xTBtNnJ09JNINiLjdOK"
-    },
-    {
-      "added_at": "2024-10-05 12:49:18",
+      "added_at": "2024-10-06 12:27:55",
       "album": {
         "name": "ICON",
         "url": "https://open.spotify.com/album/3IGuXyMxlXEZJOvBwMu13c"
@@ -857,7 +709,7 @@
       "url": "https://open.spotify.com/track/5OQo1GGSUcOSRKX9eSqdGU"
     },
     {
-      "added_at": "2024-10-05 12:49:18",
+      "added_at": "2024-10-06 12:27:55",
       "album": {
         "name": "Mezzo Rotto (feat. BigMama)",
         "url": "https://open.spotify.com/album/4g3qTNaYtKUPWKrdQunnSd"
@@ -877,47 +729,7 @@
       "url": "https://open.spotify.com/track/0cDq1fpfr9NNFNAKQXLLK7"
     },
     {
-      "added_at": "2024-10-05 12:49:18",
-      "album": {
-        "name": "Milano Angels",
-        "url": "https://open.spotify.com/album/1moDP6neOAWuwU9YylMeOL"
-      },
-      "artists": [
-        {
-          "name": "Shiva",
-          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
-        }
-      ],
-      "duration_ms": 163456,
-      "name": "Pluh",
-      "url": "https://open.spotify.com/track/326ALxsYnYfrZcIzOFvsIT"
-    },
-    {
-      "added_at": "2024-10-05 12:49:18",
-      "album": {
-        "name": "Hope (feat. Izi, Joshua)",
-        "url": "https://open.spotify.com/album/7EmZ4NfzW70p91UuysLPQw"
-      },
-      "artists": [
-        {
-          "name": "Shablo",
-          "url": "https://open.spotify.com/artist/6hkKbkZGvAXuvle2FhCnxy"
-        },
-        {
-          "name": "Izi",
-          "url": "https://open.spotify.com/artist/6289Bbkkk3gaCbh1K7Rv8F"
-        },
-        {
-          "name": "Joshua",
-          "url": "https://open.spotify.com/artist/5MmLJMV7gqiV3RgmqTgAKO"
-        }
-      ],
-      "duration_ms": 171111,
-      "name": "Hope (feat. Izi, Joshua)",
-      "url": "https://open.spotify.com/track/4pbwPGtJ1nPTxzncaCmNRM"
-    },
-    {
-      "added_at": "2024-10-05 12:49:18",
+      "added_at": "2024-10-06 12:27:55",
       "album": {
         "name": "NEI LETTI DEGLI ALTRI",
         "url": "https://open.spotify.com/album/1yUw0JvcsGuc6uo0s7nGi8"
@@ -933,7 +745,47 @@
       "url": "https://open.spotify.com/track/7Isi6whc5DD6A5wH5nqyUw"
     },
     {
-      "added_at": "2024-10-05 12:49:18",
+      "added_at": "2024-10-06 12:27:55",
+      "album": {
+        "name": "Milano Angels",
+        "url": "https://open.spotify.com/album/1moDP6neOAWuwU9YylMeOL"
+      },
+      "artists": [
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        },
+        {
+          "name": "Tony Boy",
+          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
+        }
+      ],
+      "duration_ms": 167921,
+      "name": "Polvere (feat. Tony Boy)",
+      "url": "https://open.spotify.com/track/3ppXueOTvYpYp7zQUbuIKh"
+    },
+    {
+      "added_at": "2024-10-06 12:27:55",
+      "album": {
+        "name": "ASTRO",
+        "url": "https://open.spotify.com/album/3MgibgQ9ES2OCG073TNXuG"
+      },
+      "artists": [
+        {
+          "name": "Astro",
+          "url": "https://open.spotify.com/artist/2pzFTbri7ew8mW2CbYpCNq"
+        },
+        {
+          "name": "Simba La Rue",
+          "url": "https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO"
+        }
+      ],
+      "duration_ms": 124675,
+      "name": "SPENDERE (feat. Simba La Rue)",
+      "url": "https://open.spotify.com/track/1CJNj8Qnpoz6lyil9EgqfE"
+    },
+    {
+      "added_at": "2024-10-06 12:27:55",
       "album": {
         "name": "DINASTIA",
         "url": "https://open.spotify.com/album/6AJDbheXx2Y9zvBba38EoH"
@@ -959,6 +811,142 @@
       "duration_ms": 220588,
       "name": "Perdere \u2018a capa (feat. Geolier)",
       "url": "https://open.spotify.com/track/4vd7gUuDg8Ks19SzZxzeHD"
+    },
+    {
+      "added_at": "2024-10-06 12:27:55",
+      "album": {
+        "name": "Amore Disperato",
+        "url": "https://open.spotify.com/album/7s4bIAU9FK0rMuTFec2924"
+      },
+      "artists": [
+        {
+          "name": "Achille Lauro",
+          "url": "https://open.spotify.com/artist/0lI3rF4hi4op6UxqlLHPzv"
+        }
+      ],
+      "duration_ms": 188918,
+      "name": "Amore Disperato",
+      "url": "https://open.spotify.com/track/2gI2IA7QGtzKZKuahon3W1"
+    },
+    {
+      "added_at": "2024-10-06 12:27:55",
+      "album": {
+        "name": "LOCURA",
+        "url": "https://open.spotify.com/album/0wYy8LTZuhiAyvchPppHPj"
+      },
+      "artists": [
+        {
+          "name": "Lazza",
+          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
+        }
+      ],
+      "duration_ms": 244096,
+      "name": "100 MESSAGGI",
+      "url": "https://open.spotify.com/track/2R7o6Y8x8aZtOqo4QXKBlm"
+    },
+    {
+      "added_at": "2024-10-06 12:27:55",
+      "album": {
+        "name": "LOCURA",
+        "url": "https://open.spotify.com/album/0wYy8LTZuhiAyvchPppHPj"
+      },
+      "artists": [
+        {
+          "name": "Lazza",
+          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
+        }
+      ],
+      "duration_ms": 218848,
+      "name": "CERTE COSE",
+      "url": "https://open.spotify.com/track/1Oq3J5blhz3N6IiWJVZRgm"
+    },
+    {
+      "added_at": "2024-10-06 12:27:55",
+      "album": {
+        "name": "EL COMIENZO",
+        "url": "https://open.spotify.com/album/6MikZBKCtKfPM4439yzBRz"
+      },
+      "artists": [
+        {
+          "name": "FloyyMenor",
+          "url": "https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy"
+        }
+      ],
+      "duration_ms": 134930,
+      "name": "PELIGROSA",
+      "url": "https://open.spotify.com/track/42wdz3j7gstgUuhoFLCXqd"
+    },
+    {
+      "added_at": "2024-10-06 12:27:55",
+      "album": {
+        "name": "Black Nirvana",
+        "url": "https://open.spotify.com/album/0RG1VpmgkIuAN9UvBzuvGd"
+      },
+      "artists": [
+        {
+          "name": "Elodie",
+          "url": "https://open.spotify.com/artist/7GgpsUpkj3olseoaTY7TEY"
+        }
+      ],
+      "duration_ms": 184250,
+      "name": "Black Nirvana",
+      "url": "https://open.spotify.com/track/0kcXZMVoH1q923xLM9OKf6"
+    },
+    {
+      "added_at": "2024-10-06 12:27:55",
+      "album": {
+        "name": "LOCURA",
+        "url": "https://open.spotify.com/album/0wYy8LTZuhiAyvchPppHPj"
+      },
+      "artists": [
+        {
+          "name": "Lazza",
+          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
+        }
+      ],
+      "duration_ms": 183132,
+      "name": "VERDI NEI VIOLA",
+      "url": "https://open.spotify.com/track/59guJ6uWOPwPZQlC8lBpME"
+    },
+    {
+      "added_at": "2024-10-06 12:27:55",
+      "album": {
+        "name": "LOCURA",
+        "url": "https://open.spotify.com/album/0wYy8LTZuhiAyvchPppHPj"
+      },
+      "artists": [
+        {
+          "name": "Lazza",
+          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
+        },
+        {
+          "name": "Artie 5ive",
+          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
+        }
+      ],
+      "duration_ms": 171875,
+      "name": "CASANOVA (feat. Artie 5ive)",
+      "url": "https://open.spotify.com/track/25xUkNnc4azNAsli0pCNU7"
+    },
+    {
+      "added_at": "2024-10-06 12:27:55",
+      "album": {
+        "name": "EL COMIENZO",
+        "url": "https://open.spotify.com/album/6MikZBKCtKfPM4439yzBRz"
+      },
+      "artists": [
+        {
+          "name": "FloyyMenor",
+          "url": "https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy"
+        },
+        {
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        }
+      ],
+      "duration_ms": 222000,
+      "name": "Gata Only",
+      "url": "https://open.spotify.com/track/2esZG2XFtuoWWA9AfDvSxy"
     }
   ],
   "unique_name": "Top 50 - Italy",

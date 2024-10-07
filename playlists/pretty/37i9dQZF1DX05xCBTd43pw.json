@@ -1,6 +1,6 @@
 {
   "description": "Gr\u00fcezi! This is 100% made in Switzerland. ",
-  "num_followers": 36747,
+  "num_followers": 36745,
   "original_name": "Swiss Made",
   "owner": {
     "name": "Spotify",
@@ -339,22 +339,6 @@
     {
       "added_at": "2024-10-03 22:00:00",
       "album": {
-        "name": "i always remember all of my dreams",
-        "url": "https://open.spotify.com/album/5uul9EttWCRZtIkvxLwNwq"
-      },
-      "artists": [
-        {
-          "name": "Benjamin Amaru",
-          "url": "https://open.spotify.com/artist/05HjXsZCR2S4JW473HsFvp"
-        }
-      ],
-      "duration_ms": 171800,
-      "name": "that life",
-      "url": "https://open.spotify.com/track/2h380v9zZM6kaarDPvijMk"
-    },
-    {
-      "added_at": "2024-10-03 22:00:00",
-      "album": {
         "name": "Waves & Wishes",
         "url": "https://open.spotify.com/album/1UrgZCspl0lQQU6NSZDZ7m"
       },
@@ -371,6 +355,22 @@
     {
       "added_at": "2024-10-03 22:00:00",
       "album": {
+        "name": "i always remember all of my dreams",
+        "url": "https://open.spotify.com/album/5uul9EttWCRZtIkvxLwNwq"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Amaru",
+          "url": "https://open.spotify.com/artist/05HjXsZCR2S4JW473HsFvp"
+        }
+      ],
+      "duration_ms": 171800,
+      "name": "that life",
+      "url": "https://open.spotify.com/track/2h380v9zZM6kaarDPvijMk"
+    },
+    {
+      "added_at": "2024-10-03 22:00:00",
+      "album": {
         "name": "Bored Of The Circus",
         "url": "https://open.spotify.com/album/4oothiJCmPORbNYinRinfo"
       },
@@ -383,26 +383,6 @@
       "duration_ms": 182817,
       "name": "Ashes By The Morning",
       "url": "https://open.spotify.com/track/1idK6bIrrGRcIPV7UdH3fL"
-    },
-    {
-      "added_at": "2024-10-03 22:00:00",
-      "album": {
-        "name": "Descontrol",
-        "url": "https://open.spotify.com/album/39VSGS38v6WGZsucZ1wa0r"
-      },
-      "artists": [
-        {
-          "name": "Loco Escrito",
-          "url": "https://open.spotify.com/artist/00UMLCX51uNiBzMhQKlwyQ"
-        },
-        {
-          "name": "Stress",
-          "url": "https://open.spotify.com/artist/2piHSX9fKmsCD8tbfX1cJg"
-        }
-      ],
-      "duration_ms": 158838,
-      "name": "Descontrol",
-      "url": "https://open.spotify.com/track/2USP7uCFfx4BFm8KXual18"
     },
     {
       "added_at": "2024-10-03 22:00:00",
@@ -435,6 +415,26 @@
       "duration_ms": 167701,
       "name": "Girlfriend",
       "url": "https://open.spotify.com/track/2eKJuuFWUGZQUpUMGZCj8u"
+    },
+    {
+      "added_at": "2024-10-03 22:00:00",
+      "album": {
+        "name": "Descontrol",
+        "url": "https://open.spotify.com/album/39VSGS38v6WGZsucZ1wa0r"
+      },
+      "artists": [
+        {
+          "name": "Loco Escrito",
+          "url": "https://open.spotify.com/artist/00UMLCX51uNiBzMhQKlwyQ"
+        },
+        {
+          "name": "Stress",
+          "url": "https://open.spotify.com/artist/2piHSX9fKmsCD8tbfX1cJg"
+        }
+      ],
+      "duration_ms": 158838,
+      "name": "Descontrol",
+      "url": "https://open.spotify.com/track/2USP7uCFfx4BFm8KXual18"
     },
     {
       "added_at": "2024-10-03 22:00:00",
@@ -523,38 +523,6 @@
     {
       "added_at": "2024-10-03 22:00:00",
       "album": {
-        "name": "Softly Speaking",
-        "url": "https://open.spotify.com/album/65rLsfsMNCgtlFE7D2790y"
-      },
-      "artists": [
-        {
-          "name": "Joya Marleen",
-          "url": "https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb"
-        }
-      ],
-      "duration_ms": 226334,
-      "name": "Softly Speaking",
-      "url": "https://open.spotify.com/track/7deNy580xvtMQzvzXhlBwF"
-    },
-    {
-      "added_at": "2024-10-03 22:00:00",
-      "album": {
-        "name": "Full 180",
-        "url": "https://open.spotify.com/album/3eieGX1EUezKzPNSdCtPER"
-      },
-      "artists": [
-        {
-          "name": "Remo Forrer",
-          "url": "https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk"
-        }
-      ],
-      "duration_ms": 216249,
-      "name": "Full 180",
-      "url": "https://open.spotify.com/track/62UNeZ8qIJ4INYevYoQadG"
-    },
-    {
-      "added_at": "2024-10-03 22:00:00",
-      "album": {
         "name": "Hurting",
         "url": "https://open.spotify.com/album/3Hw04kuWi6O7aUcmXQa2Ap"
       },
@@ -583,6 +551,22 @@
       "duration_ms": 182033,
       "name": "Colorblind",
       "url": "https://open.spotify.com/track/7KOPqGFvR7m7TVRPuHSN6A"
+    },
+    {
+      "added_at": "2024-10-03 22:00:00",
+      "album": {
+        "name": "Softly Speaking",
+        "url": "https://open.spotify.com/album/65rLsfsMNCgtlFE7D2790y"
+      },
+      "artists": [
+        {
+          "name": "Joya Marleen",
+          "url": "https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb"
+        }
+      ],
+      "duration_ms": 226334,
+      "name": "Softly Speaking",
+      "url": "https://open.spotify.com/track/7deNy580xvtMQzvzXhlBwF"
     },
     {
       "added_at": "2024-10-03 22:00:00",
@@ -619,6 +603,22 @@
       "duration_ms": 197992,
       "name": "Tribut",
       "url": "https://open.spotify.com/track/0N1AE3zqGZYLmvffDCJkNy"
+    },
+    {
+      "added_at": "2024-10-03 22:00:00",
+      "album": {
+        "name": "Full 180",
+        "url": "https://open.spotify.com/album/3eieGX1EUezKzPNSdCtPER"
+      },
+      "artists": [
+        {
+          "name": "Remo Forrer",
+          "url": "https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk"
+        }
+      ],
+      "duration_ms": 216249,
+      "name": "Full 180",
+      "url": "https://open.spotify.com/track/62UNeZ8qIJ4INYevYoQadG"
     },
     {
       "added_at": "2024-10-03 22:00:00",
@@ -675,22 +675,6 @@
     {
       "added_at": "2024-10-03 22:00:00",
       "album": {
-        "name": "T\u00fa y Yo",
-        "url": "https://open.spotify.com/album/3E2PiQa0TO3ecSgrDDzN4e"
-      },
-      "artists": [
-        {
-          "name": "Loco Escrito",
-          "url": "https://open.spotify.com/artist/00UMLCX51uNiBzMhQKlwyQ"
-        }
-      ],
-      "duration_ms": 164425,
-      "name": "T\u00fa y Yo",
-      "url": "https://open.spotify.com/track/1s5YXOdmyNk0KLEbKcKCRz"
-    },
-    {
-      "added_at": "2024-10-03 22:00:00",
-      "album": {
         "name": "Stay With Me",
         "url": "https://open.spotify.com/album/6ssTOfG6Bq2vnhAsnbOx73"
       },
@@ -711,6 +695,22 @@
     {
       "added_at": "2024-10-03 22:00:00",
       "album": {
+        "name": "Only One I Need",
+        "url": "https://open.spotify.com/album/5yjLnFizgrGtPGdzLjpOgz"
+      },
+      "artists": [
+        {
+          "name": "Amaya Gloor",
+          "url": "https://open.spotify.com/artist/7zq1dJ7R6GzLynDM6DPZ4x"
+        }
+      ],
+      "duration_ms": 146546,
+      "name": "Only One I Need",
+      "url": "https://open.spotify.com/track/3KjEAu1W14nGLCNA52ib3Q"
+    },
+    {
+      "added_at": "2024-10-03 22:00:00",
+      "album": {
         "name": "Can't Be Loved",
         "url": "https://open.spotify.com/album/5YmdC1mjV30uWAUfqT8uQo"
       },
@@ -727,18 +727,18 @@
     {
       "added_at": "2024-10-03 22:00:00",
       "album": {
-        "name": "Only One I Need",
-        "url": "https://open.spotify.com/album/5yjLnFizgrGtPGdzLjpOgz"
+        "name": "T\u00fa y Yo",
+        "url": "https://open.spotify.com/album/3E2PiQa0TO3ecSgrDDzN4e"
       },
       "artists": [
         {
-          "name": "Amaya Gloor",
-          "url": "https://open.spotify.com/artist/7zq1dJ7R6GzLynDM6DPZ4x"
+          "name": "Loco Escrito",
+          "url": "https://open.spotify.com/artist/00UMLCX51uNiBzMhQKlwyQ"
         }
       ],
-      "duration_ms": 146546,
-      "name": "Only One I Need",
-      "url": "https://open.spotify.com/track/3KjEAu1W14nGLCNA52ib3Q"
+      "duration_ms": 164425,
+      "name": "T\u00fa y Yo",
+      "url": "https://open.spotify.com/track/1s5YXOdmyNk0KLEbKcKCRz"
     },
     {
       "added_at": "2024-10-03 22:00:00",
@@ -759,22 +759,6 @@
     {
       "added_at": "2024-10-03 22:00:00",
       "album": {
-        "name": "2560",
-        "url": "https://open.spotify.com/album/2dr4Cl4sfBrLoqvFzZcwdv"
-      },
-      "artists": [
-        {
-          "name": "James Gruntz",
-          "url": "https://open.spotify.com/artist/3vyUTiW9vClzOUXCHVNWsy"
-        }
-      ],
-      "duration_ms": 198586,
-      "name": "2560",
-      "url": "https://open.spotify.com/track/20hvdVSrSkh8wZZKSVBH6o"
-    },
-    {
-      "added_at": "2024-10-03 22:00:00",
-      "album": {
         "name": "Where Were You",
         "url": "https://open.spotify.com/album/4gNbqvaLePlFJDme8TfKeG"
       },
@@ -791,6 +775,38 @@
     {
       "added_at": "2024-10-03 22:00:00",
       "album": {
+        "name": "Generation",
+        "url": "https://open.spotify.com/album/4xgLyFsJCYlmf39vjY6YKv"
+      },
+      "artists": [
+        {
+          "name": "LEILA",
+          "url": "https://open.spotify.com/artist/4Ug2xY5mJFUqx4UkrggYLg"
+        }
+      ],
+      "duration_ms": 182609,
+      "name": "smile",
+      "url": "https://open.spotify.com/track/7thWFmdVqTZzXZWmxu7N5Y"
+    },
+    {
+      "added_at": "2024-10-03 22:00:00",
+      "album": {
+        "name": "2560",
+        "url": "https://open.spotify.com/album/2dr4Cl4sfBrLoqvFzZcwdv"
+      },
+      "artists": [
+        {
+          "name": "James Gruntz",
+          "url": "https://open.spotify.com/artist/3vyUTiW9vClzOUXCHVNWsy"
+        }
+      ],
+      "duration_ms": 198586,
+      "name": "2560",
+      "url": "https://open.spotify.com/track/20hvdVSrSkh8wZZKSVBH6o"
+    },
+    {
+      "added_at": "2024-10-03 22:00:00",
+      "album": {
         "name": "Ehrlich",
         "url": "https://open.spotify.com/album/3SxtFi80kNDFfnjSHBoZe3"
       },
@@ -803,6 +819,22 @@
       "duration_ms": 230310,
       "name": "Ehrlich",
       "url": "https://open.spotify.com/track/2CpYkZOMP8Xmac4akYnAxF"
+    },
+    {
+      "added_at": "2024-10-03 22:00:00",
+      "album": {
+        "name": "Stories of the XXI",
+        "url": "https://open.spotify.com/album/5nGM72Vr3X2zq1bqxtC6GG"
+      },
+      "artists": [
+        {
+          "name": "Bastian Baker",
+          "url": "https://open.spotify.com/artist/1mwbzhowyG1SDxFSWyLeKC"
+        }
+      ],
+      "duration_ms": 175093,
+      "name": "Call Me in L.A.",
+      "url": "https://open.spotify.com/track/0AQa2zcUia32ZfDTUqL617"
     },
     {
       "added_at": "2024-10-03 22:00:00",
@@ -875,22 +907,6 @@
     {
       "added_at": "2024-10-03 22:00:00",
       "album": {
-        "name": "Stories of the XXI",
-        "url": "https://open.spotify.com/album/5nGM72Vr3X2zq1bqxtC6GG"
-      },
-      "artists": [
-        {
-          "name": "Bastian Baker",
-          "url": "https://open.spotify.com/artist/1mwbzhowyG1SDxFSWyLeKC"
-        }
-      ],
-      "duration_ms": 175093,
-      "name": "Call Me in L.A.",
-      "url": "https://open.spotify.com/track/0AQa2zcUia32ZfDTUqL617"
-    },
-    {
-      "added_at": "2024-10-03 22:00:00",
-      "album": {
         "name": "Snooze",
         "url": "https://open.spotify.com/album/5SoFmAahTD61wjjoVl5cAZ"
       },
@@ -911,18 +927,18 @@
     {
       "added_at": "2024-10-03 22:00:00",
       "album": {
-        "name": "Generation",
-        "url": "https://open.spotify.com/album/4xgLyFsJCYlmf39vjY6YKv"
+        "name": "Beautiful Day",
+        "url": "https://open.spotify.com/album/7m3bKbUMuXUsACiThMLwHy"
       },
       "artists": [
         {
-          "name": "LEILA",
-          "url": "https://open.spotify.com/artist/4Ug2xY5mJFUqx4UkrggYLg"
+          "name": "Gil Glaze",
+          "url": "https://open.spotify.com/artist/6pNzdcgIaKQKsYNS5agP4V"
         }
       ],
-      "duration_ms": 182609,
-      "name": "smile",
-      "url": "https://open.spotify.com/track/7thWFmdVqTZzXZWmxu7N5Y"
+      "duration_ms": 185759,
+      "name": "Beautiful Day",
+      "url": "https://open.spotify.com/track/24m4OLGaRuelACY0k1SbqP"
     },
     {
       "added_at": "2024-10-03 22:00:00",
@@ -939,22 +955,6 @@
       "duration_ms": 168209,
       "name": "Zoot",
       "url": "https://open.spotify.com/track/1QCf5EvUGZnEGVI888MHa9"
-    },
-    {
-      "added_at": "2024-10-03 22:00:00",
-      "album": {
-        "name": "Beautiful Day",
-        "url": "https://open.spotify.com/album/7m3bKbUMuXUsACiThMLwHy"
-      },
-      "artists": [
-        {
-          "name": "Gil Glaze",
-          "url": "https://open.spotify.com/artist/6pNzdcgIaKQKsYNS5agP4V"
-        }
-      ],
-      "duration_ms": 185759,
-      "name": "Beautiful Day",
-      "url": "https://open.spotify.com/track/24m4OLGaRuelACY0k1SbqP"
     },
     {
       "added_at": "2024-10-03 22:00:00",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2024-10-03 22:00:00",
       "album": {
-        "name": "Ig o",
-        "url": "https://open.spotify.com/album/657Gr9COvXb3x9jz9Y67Ci"
-      },
-      "artists": [
-        {
-          "name": "Lo & Leduc",
-          "url": "https://open.spotify.com/artist/4VxxrJptDJKGOsKvb8jcVe"
-        }
-      ],
-      "duration_ms": 162266,
-      "name": "Ig o",
-      "url": "https://open.spotify.com/track/6tJrX3rkSaIIBy0W4xC8J6"
-    },
-    {
-      "added_at": "2024-10-03 22:00:00",
-      "album": {
         "name": "Schwarz auf Gr\u00fcn",
         "url": "https://open.spotify.com/album/23EG6QL1cCfVSCoTZBZ8F5"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 188013,
       "name": "Neui Welt (feat. Adrian Stern)",
       "url": "https://open.spotify.com/track/16q5oIhLu2pWxcAXen7p6D"
+    },
+    {
+      "added_at": "2024-10-03 22:00:00",
+      "album": {
+        "name": "Ig o",
+        "url": "https://open.spotify.com/album/657Gr9COvXb3x9jz9Y67Ci"
+      },
+      "artists": [
+        {
+          "name": "Lo & Leduc",
+          "url": "https://open.spotify.com/artist/4VxxrJptDJKGOsKvb8jcVe"
+        }
+      ],
+      "duration_ms": 162266,
+      "name": "Ig o",
+      "url": "https://open.spotify.com/track/6tJrX3rkSaIIBy0W4xC8J6"
     },
     {
       "added_at": "2024-10-03 22:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > The best new music by independent artists and labels\. Cover: Rowena Fysx, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,211,588 likes - 113 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,211,624 likes - 113 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

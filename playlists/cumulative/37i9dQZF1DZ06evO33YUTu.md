@@ -2,9 +2,9 @@
 
 ### [This Is Greeicy](https://open.spotify.com/playlist/37i9dQZF1DZ06evO33YUTu)
 
-> This is Greeicy\. أغانٍ رائعة في قائمة أغانٍ واحدة.
+> This is Greeicy\. Tutti i brani in un'unica playlist.
 
-75 songs - 3 hr 44 min
+76 songs - 3 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,5 +83,6 @@
 | [Vete](https://open.spotify.com/track/58LhEQTSIEG3nOTiucvNR3) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [YELIANA](https://open.spotify.com/album/7bGQBZkaTn1QIFdWG2FuV1) | 2:19 | 2024-02-21 |  |
 | [Ya Para Qué](https://open.spotify.com/track/5jX5LKsgCcM2GMSLfVYn78) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Baila](https://open.spotify.com/album/0ZrbrBx1Rkc7hq3hDKdOmH) | 3:26 | 2023-03-19 |  |
 | [YELIANA \- Cap\. 3 \- ZHA](https://open.spotify.com/track/0sE9TAChRS7zah4yhp5KJW) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [YELIANA\-Cap.3\-ZHA](https://open.spotify.com/album/36vkQCUHA1y3qvjzsmqw5H) | 2:20 | 2023-07-08 |  |
+| [¿Que Te Pasó?](https://open.spotify.com/track/6TyzdTASQrRujdjPP93AJe) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [¿Que Te Pasó?](https://open.spotify.com/album/7aNA8T8Ycq3EG3tQJr1q9h) | 2:48 | 2024-10-07 |  |
 
 \*This playlist was first scraped on 2023-03-20. Prior content cannot be recovered.

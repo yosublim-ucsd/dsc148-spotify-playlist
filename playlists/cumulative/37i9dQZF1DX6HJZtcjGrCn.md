@@ -4,7 +4,7 @@
 
 > Música independente\. A tua alternativa ao mainstream\. Foto: Ganso
 
-135 songs - 7 hr 43 min
+136 songs - 7 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [ceilings](https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 3:02 | 2024-06-20 |  |
 | [Champagne Coast](https://open.spotify.com/track/2KufM8PiQY4i52XhRL96Fd) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Coastal Grooves](https://open.spotify.com/album/5U2cyX2FRa8CjzdMpqZNJl) | 4:52 | 2024-06-20 |  |
 | [Chasing Low Vibrations](https://open.spotify.com/track/0Mrd1zn7yPnaOqGGowzQfB) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Chasing Low Vibrations](https://open.spotify.com/album/1rzbg3MTkaMZgXkAYQ8Vkt) | 3:24 | 2024-07-25 | 2024-09-06 |
-| [Cherry Blossom](https://open.spotify.com/track/3oDRri7iJCeKKNstpzbZqx) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Cherry Blossom](https://open.spotify.com/album/2pHMtiQwLjRt2oCzUfCoqD) | 3:27 | 2024-06-20 |  |
+| [Cherry Blossom](https://open.spotify.com/track/3oDRri7iJCeKKNstpzbZqx) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Cherry Blossom](https://open.spotify.com/album/2pHMtiQwLjRt2oCzUfCoqD) | 3:27 | 2024-06-20 | 2024-10-07 |
 | [CHIQUITINHA](https://open.spotify.com/track/7CCbwO2bTJYavz61WU8OsK) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn), [NASAYA](https://open.spotify.com/artist/5932gYdqLCu1ftKVXf1PO4) | [CHIQUITINHA](https://open.spotify.com/album/1SW0QWVu5gr2D5wq4gBBpY) | 2:40 | 2024-08-08 |  |
 | [Cinderella](https://open.spotify.com/track/6NgvAmrhjUENGdtVQnBHx8) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Cinderella](https://open.spotify.com/album/3Xp0cLYXLzd47kskTdPVGg) | 4:03 | 2024-06-20 | 2024-09-07 |
 | [Claw Foot](https://open.spotify.com/track/25Ydf3tBonBtvs3NhwYop7) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [PRATTS & PAIN](https://open.spotify.com/album/2cNAVNktNuv4fzSLJCuoDE) | 2:46 | 2024-06-20 |  |
@@ -99,6 +99,7 @@
 | [Off Guard](https://open.spotify.com/track/4vXbgOoOD7svV1A7f8Levf) | [Branko](https://open.spotify.com/artist/1lEBJGJgdoevi1Clv9CqLT), [July 7](https://open.spotify.com/artist/51kPCmCJ7rXClxKDc2r4RA) | [Off Guard](https://open.spotify.com/album/4osiR8Cp4GfsUfnPmSzvXX) | 2:51 | 2024-10-03 |  |
 | [Oji é Oji](https://open.spotify.com/track/0PzceIWCT1ybZTkrn67E4N) | [Pedro da Linha](https://open.spotify.com/artist/4vRdcYRuZQC84SzNnxSNLh), [Dino d'Santiago](https://open.spotify.com/artist/7qb2GMJaX4HeXqqPPyYdlr) | [Oji é Oji](https://open.spotify.com/album/0DKT9xaRe0hniEsTX1nDlV) | 3:03 | 2024-06-20 | 2024-07-05 |
 | [Os Bravos – II\. RAIA](https://open.spotify.com/track/2xNr71RUJ0Q6o6rsN4fwfb) | [Mocho Gris](https://open.spotify.com/artist/6ZCivSkSKalzlPiD9bmrBD) | [Os Bravos – II\. RAIA](https://open.spotify.com/album/4xiWbEZJGnNx2MVL1E3VS9) | 4:07 | 2024-09-05 |  |
+| [Panther City](https://open.spotify.com/track/0ySkMC5CSdVFuBkiEDCQfF) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Leon](https://open.spotify.com/album/6mHNMtHrXIdUWWuZD9njsG) | 4:07 | 2024-10-03 |  |
 | [Pink Skies](https://open.spotify.com/track/43Ka2d0YZZlOzVGwf96xNw) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [How Have You Been?](https://open.spotify.com/album/4FqEHLgdiMHXboXIztMkkO) | 3:21 | 2024-06-20 | 2024-08-04 |
 | [Porque Não Danças](https://open.spotify.com/track/3MwPeBmUfcyjDDCaiKBTrN) | [Filipe Karlsson](https://open.spotify.com/artist/0Yh7cLzoB86bDiq6fAXfB6) | [Porque Não Danças](https://open.spotify.com/album/7bVfNTAe23mCwvvNYxOTqj) | 2:39 | 2024-06-20 | 2024-10-04 |
 | [Primavera](https://open.spotify.com/track/38a6BwqDanayW8iISyM4a3) | [Cassete Pirata](https://open.spotify.com/artist/2VQ14XaMYiXOr7lLePbZrf) | [A Família](https://open.spotify.com/album/0IFYHsfU1eP7rNAGIAmzhM) | 4:39 | 2024-06-20 | 2024-07-05 |

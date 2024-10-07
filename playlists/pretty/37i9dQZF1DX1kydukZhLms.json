@@ -1,6 +1,6 @@
 {
   "description": "Throw your lighters in the air and wave them like you don't care. Cover: Guns N' Roses",
-  "num_followers": 1396275,
+  "num_followers": 1396487,
   "original_name": "Heavy Ballads",
   "owner": {
     "name": "Spotify",
@@ -139,6 +139,22 @@
     {
       "added_at": "2024-06-10 16:00:39",
       "album": {
+        "name": "Use Your Illusion II",
+        "url": "https://open.spotify.com/album/00eiw4KOJZ7eC3NBEpmH4C"
+      },
+      "artists": [
+        {
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+        }
+      ],
+      "duration_ms": 336000,
+      "name": "Knockin' On Heaven's Door",
+      "url": "https://open.spotify.com/track/4JiEyzf0Md7KEFFGWDDdCr"
+    },
+    {
+      "added_at": "2024-06-10 16:00:39",
+      "album": {
         "name": "F8",
         "url": "https://open.spotify.com/album/7vAcymF4feKxvqcUDzLQD2"
       },
@@ -167,22 +183,6 @@
       "duration_ms": 243573,
       "name": "So Far Away",
       "url": "https://open.spotify.com/track/6FOpPA0a80RuBqqgDozvja"
-    },
-    {
-      "added_at": "2024-06-10 16:00:39",
-      "album": {
-        "name": "Use Your Illusion II",
-        "url": "https://open.spotify.com/album/00eiw4KOJZ7eC3NBEpmH4C"
-      },
-      "artists": [
-        {
-          "name": "Guns N' Roses",
-          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
-        }
-      ],
-      "duration_ms": 336000,
-      "name": "Knockin' On Heaven's Door",
-      "url": "https://open.spotify.com/track/4JiEyzf0Md7KEFFGWDDdCr"
     },
     {
       "added_at": "2024-06-10 16:00:39",
@@ -251,22 +251,6 @@
     {
       "added_at": "2024-06-10 16:00:39",
       "album": {
-        "name": "The Wrong Side Of Heaven And The Righteous Side Of Hell, Volume 1",
-        "url": "https://open.spotify.com/album/6vMTdFzBPjyrBSFkCvjUh3"
-      },
-      "artists": [
-        {
-          "name": "Five Finger Death Punch",
-          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
-        }
-      ],
-      "duration_ms": 271000,
-      "name": "Wrong Side of Heaven",
-      "url": "https://open.spotify.com/track/11Ojp7JniVvwd0gmgvyKkd"
-    },
-    {
-      "added_at": "2024-06-10 16:00:39",
-      "album": {
         "name": "Youthanasia (Expanded Edition - Remastered)",
         "url": "https://open.spotify.com/album/5UvUjC3G4UKSrwOeBA0qob"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 262133,
       "name": "A Tout Le Monde - Remastered 2004",
       "url": "https://open.spotify.com/track/6olS0TmHmsGr0hXtcBsiVM"
+    },
+    {
+      "added_at": "2024-06-10 16:00:39",
+      "album": {
+        "name": "The Wrong Side Of Heaven And The Righteous Side Of Hell, Volume 1",
+        "url": "https://open.spotify.com/album/6vMTdFzBPjyrBSFkCvjUh3"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "duration_ms": 271000,
+      "name": "Wrong Side of Heaven",
+      "url": "https://open.spotify.com/track/11Ojp7JniVvwd0gmgvyKkd"
     },
     {
       "added_at": "2024-06-10 16:00:39",
@@ -427,22 +427,6 @@
     {
       "added_at": "2024-06-10 16:00:39",
       "album": {
-        "name": "Prequelle",
-        "url": "https://open.spotify.com/album/6128JCa2uBqHWia5AzJOKV"
-      },
-      "artists": [
-        {
-          "name": "Ghost",
-          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
-        }
-      ],
-      "duration_ms": 207120,
-      "name": "Life Eternal",
-      "url": "https://open.spotify.com/track/5fXQmRFO1CDN04HtUVNCUh"
-    },
-    {
-      "added_at": "2024-06-10 16:00:39",
-      "album": {
         "name": "Pride",
         "url": "https://open.spotify.com/album/571UdIx8tcDmBPgLSW8KG2"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 258600,
       "name": "When the Children Cry",
       "url": "https://open.spotify.com/track/4ZCLM74MYhUy80TPiaAuee"
+    },
+    {
+      "added_at": "2024-06-10 16:00:39",
+      "album": {
+        "name": "Prequelle",
+        "url": "https://open.spotify.com/album/6128JCa2uBqHWia5AzJOKV"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "duration_ms": 207120,
+      "name": "Life Eternal",
+      "url": "https://open.spotify.com/track/5fXQmRFO1CDN04HtUVNCUh"
     },
     {
       "added_at": "2024-06-10 16:00:39",
@@ -491,22 +491,6 @@
     {
       "added_at": "2024-06-10 16:00:39",
       "album": {
-        "name": "Images and Words",
-        "url": "https://open.spotify.com/album/2QgGoL5VSQhPHudTObS7zK"
-      },
-      "artists": [
-        {
-          "name": "Dream Theater",
-          "url": "https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep"
-        }
-      ],
-      "duration_ms": 263120,
-      "name": "Another Day",
-      "url": "https://open.spotify.com/track/69kZsoRrSf7GBTSdJ4BjqA"
-    },
-    {
-      "added_at": "2024-06-10 16:00:39",
-      "album": {
         "name": "Far Beyond Driven",
         "url": "https://open.spotify.com/album/70GAqt2avSiKBJ2IEymou1"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 243426,
       "name": "Planet Caravan",
       "url": "https://open.spotify.com/track/78YknDXAOrz0E9ves11vnK"
+    },
+    {
+      "added_at": "2024-06-10 16:00:39",
+      "album": {
+        "name": "Images and Words",
+        "url": "https://open.spotify.com/album/2QgGoL5VSQhPHudTObS7zK"
+      },
+      "artists": [
+        {
+          "name": "Dream Theater",
+          "url": "https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep"
+        }
+      ],
+      "duration_ms": 263120,
+      "name": "Another Day",
+      "url": "https://open.spotify.com/track/69kZsoRrSf7GBTSdJ4BjqA"
     },
     {
       "added_at": "2024-06-10 16:00:39",
@@ -607,22 +607,6 @@
     {
       "added_at": "2024-06-10 16:00:39",
       "album": {
-        "name": "The Ritual",
-        "url": "https://open.spotify.com/album/6YXf0vbjFhURCPUewYhVWE"
-      },
-      "artists": [
-        {
-          "name": "Testament",
-          "url": "https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg"
-        }
-      ],
-      "duration_ms": 390800,
-      "name": "Return to Serenity",
-      "url": "https://open.spotify.com/track/5awljpWNO5TpXCyjpvCBbs"
-    },
-    {
-      "added_at": "2024-06-10 16:00:39",
-      "album": {
         "name": "Hysteria (Super Deluxe)",
         "url": "https://open.spotify.com/album/31oeDyCOLhgeZyktfxo0pE"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 268840,
       "name": "Heartbreak Station",
       "url": "https://open.spotify.com/track/71cWHhV018hztNkCC45Ayo"
+    },
+    {
+      "added_at": "2024-06-10 16:00:39",
+      "album": {
+        "name": "The Ritual",
+        "url": "https://open.spotify.com/album/6YXf0vbjFhURCPUewYhVWE"
+      },
+      "artists": [
+        {
+          "name": "Testament",
+          "url": "https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg"
+        }
+      ],
+      "duration_ms": 390800,
+      "name": "Return to Serenity",
+      "url": "https://open.spotify.com/track/5awljpWNO5TpXCyjpvCBbs"
     },
     {
       "added_at": "2024-06-10 16:00:39",
@@ -795,22 +795,6 @@
     {
       "added_at": "2024-06-10 16:00:39",
       "album": {
-        "name": "1916",
-        "url": "https://open.spotify.com/album/6mvrfjdgSvwcDXhxyVjWTx"
-      },
-      "artists": [
-        {
-          "name": "Mot\u00f6rhead",
-          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
-        }
-      ],
-      "duration_ms": 327546,
-      "name": "Love Me Forever",
-      "url": "https://open.spotify.com/track/7akyedgeVgZeT6oD77nyHn"
-    },
-    {
-      "added_at": "2024-06-10 16:00:39",
-      "album": {
         "name": "Head Hunter",
         "url": "https://open.spotify.com/album/1QTVIHunxbQf1dT4fXH9DO"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 397773,
       "name": "Screaming in the Night",
       "url": "https://open.spotify.com/track/25suYHVUwWFTG6G31kuhZH"
+    },
+    {
+      "added_at": "2024-06-10 16:00:39",
+      "album": {
+        "name": "1916",
+        "url": "https://open.spotify.com/album/6mvrfjdgSvwcDXhxyVjWTx"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "duration_ms": 327546,
+      "name": "Love Me Forever",
+      "url": "https://open.spotify.com/track/7akyedgeVgZeT6oD77nyHn"
     },
     {
       "added_at": "2024-06-10 16:00:39",
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2024-06-10 16:00:39",
       "album": {
+        "name": "Falling into Infinity",
+        "url": "https://open.spotify.com/album/2AcOiEYDeMTAzUdVLJ0DP7"
+      },
+      "artists": [
+        {
+          "name": "Dream Theater",
+          "url": "https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep"
+        }
+      ],
+      "duration_ms": 353866,
+      "name": "Hollow Years",
+      "url": "https://open.spotify.com/track/2OwVp843CshseouYgyj75O"
+    },
+    {
+      "added_at": "2024-06-10 16:00:39",
+      "album": {
         "name": "Gutter Ballet (2011 Edition)",
         "url": "https://open.spotify.com/album/6zMeDffPrKyYSBf9AuyTIF"
       },
@@ -1031,22 +1047,6 @@
       "duration_ms": 212933,
       "name": "Blind Faith",
       "url": "https://open.spotify.com/track/7Fmv4QiyAdMroX61cOPaGn"
-    },
-    {
-      "added_at": "2024-06-10 16:00:39",
-      "album": {
-        "name": "Falling into Infinity",
-        "url": "https://open.spotify.com/album/2AcOiEYDeMTAzUdVLJ0DP7"
-      },
-      "artists": [
-        {
-          "name": "Dream Theater",
-          "url": "https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep"
-        }
-      ],
-      "duration_ms": 353866,
-      "name": "Hollow Years",
-      "url": "https://open.spotify.com/track/2OwVp843CshseouYgyj75O"
     },
     {
       "added_at": "2024-06-10 16:00:39",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2024-06-10 16:00:39",
       "album": {
-        "name": "Original Album Classics",
-        "url": "https://open.spotify.com/album/6rAcqvF8bsczcbpmCAIfZN"
-      },
-      "artists": [
-        {
-          "name": "Anathema",
-          "url": "https://open.spotify.com/artist/0ZXKT0FCsLWkSLCjoBJgBX"
-        }
-      ],
-      "duration_ms": 293826,
-      "name": "Deep",
-      "url": "https://open.spotify.com/track/7KwExH7MEguB6YSZnosNbj"
-    },
-    {
-      "added_at": "2024-06-10 16:00:39",
-      "album": {
         "name": "Streets - A Rock Opera (2011 Edition)",
         "url": "https://open.spotify.com/album/5bMMMSrjV78gkbhxarBbWT"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 342426,
       "name": "Believe",
       "url": "https://open.spotify.com/track/6jCA4rJ4caeRuyTxvf9UvA"
+    },
+    {
+      "added_at": "2024-06-10 16:00:39",
+      "album": {
+        "name": "Original Album Classics",
+        "url": "https://open.spotify.com/album/6rAcqvF8bsczcbpmCAIfZN"
+      },
+      "artists": [
+        {
+          "name": "Anathema",
+          "url": "https://open.spotify.com/artist/0ZXKT0FCsLWkSLCjoBJgBX"
+        }
+      ],
+      "duration_ms": 293826,
+      "name": "Deep",
+      "url": "https://open.spotify.com/track/7KwExH7MEguB6YSZnosNbj"
     },
     {
       "added_at": "2024-06-10 16:00:39",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2024-06-10 16:00:39",
       "album": {
-        "name": "Ritchie Blackmore's Rainbow (Remastered)",
-        "url": "https://open.spotify.com/album/0RsJGRspEXnzwNMBAdrV3u"
-      },
-      "artists": [
-        {
-          "name": "Rainbow",
-          "url": "https://open.spotify.com/artist/6SLAMfhOi7UJI0fMztaK0m"
-        }
-      ],
-      "duration_ms": 282013,
-      "name": "The Temple Of The King",
-      "url": "https://open.spotify.com/track/6Z435tBPT5JamUR9dN7y8y"
-    },
-    {
-      "added_at": "2024-06-10 16:00:39",
-      "album": {
         "name": "Detonator",
         "url": "https://open.spotify.com/album/1I8TqSMkoRvF4xZSvuFDiq"
       },
@@ -1323,22 +1307,6 @@
       "duration_ms": 326000,
       "name": "Givin' Yourself Away",
       "url": "https://open.spotify.com/track/066s12j61ZlXnMDtnUiDbP"
-    },
-    {
-      "added_at": "2024-06-10 16:00:39",
-      "album": {
-        "name": "Hair of the Dog",
-        "url": "https://open.spotify.com/album/5naYBHiMro7E0MVPmhhYHP"
-      },
-      "artists": [
-        {
-          "name": "Nazareth",
-          "url": "https://open.spotify.com/artist/6fvN9GmMCVKb5LY0WsnjFP"
-        }
-      ],
-      "duration_ms": 232120,
-      "name": "Love Hurts - Single Edit",
-      "url": "https://open.spotify.com/track/5g1rzUEyVFNr2i4ifEjlVN"
     },
     {
       "added_at": "2024-06-10 16:00:39",
@@ -1371,6 +1339,38 @@
       "duration_ms": 366106,
       "name": "I Still Love You",
       "url": "https://open.spotify.com/track/04F7U1dwwtwaCRuXGQ50aB"
+    },
+    {
+      "added_at": "2024-06-10 16:00:39",
+      "album": {
+        "name": "Ritchie Blackmore's Rainbow (Remastered)",
+        "url": "https://open.spotify.com/album/0RsJGRspEXnzwNMBAdrV3u"
+      },
+      "artists": [
+        {
+          "name": "Rainbow",
+          "url": "https://open.spotify.com/artist/6SLAMfhOi7UJI0fMztaK0m"
+        }
+      ],
+      "duration_ms": 282013,
+      "name": "The Temple Of The King",
+      "url": "https://open.spotify.com/track/6Z435tBPT5JamUR9dN7y8y"
+    },
+    {
+      "added_at": "2024-06-10 16:00:39",
+      "album": {
+        "name": "Hair of the Dog",
+        "url": "https://open.spotify.com/album/5naYBHiMro7E0MVPmhhYHP"
+      },
+      "artists": [
+        {
+          "name": "Nazareth",
+          "url": "https://open.spotify.com/artist/6fvN9GmMCVKb5LY0WsnjFP"
+        }
+      ],
+      "duration_ms": 232120,
+      "name": "Love Hurts - Single Edit",
+      "url": "https://open.spotify.com/track/5g1rzUEyVFNr2i4ifEjlVN"
     },
     {
       "added_at": "2024-06-10 16:00:39",
@@ -1471,6 +1471,22 @@
     {
       "added_at": "2024-06-10 16:00:39",
       "album": {
+        "name": "Mass Slaughter",
+        "url": "https://open.spotify.com/album/1PLl8ONmplOUyu5Bq8GYJL"
+      },
+      "artists": [
+        {
+          "name": "Slaughter",
+          "url": "https://open.spotify.com/artist/4ibNXJiMYOPibpS9DB9Qz3"
+        }
+      ],
+      "duration_ms": 272240,
+      "name": "Fly To The Angels",
+      "url": "https://open.spotify.com/track/6e165g8fp2WDCBwF1zxLMh"
+    },
+    {
+      "added_at": "2024-06-10 16:00:39",
+      "album": {
         "name": "The World Needs a Hero",
         "url": "https://open.spotify.com/album/5YFrdrFUHGgAvK8iXFxULa"
       },
@@ -1503,18 +1519,34 @@
     {
       "added_at": "2024-06-10 16:00:39",
       "album": {
-        "name": "Mass Slaughter",
-        "url": "https://open.spotify.com/album/1PLl8ONmplOUyu5Bq8GYJL"
+        "name": "Book Of Shadows II",
+        "url": "https://open.spotify.com/album/32UWpOh0dxIw6VopkvUJ9t"
       },
       "artists": [
         {
-          "name": "Slaughter",
-          "url": "https://open.spotify.com/artist/4ibNXJiMYOPibpS9DB9Qz3"
+          "name": "Zakk Wylde",
+          "url": "https://open.spotify.com/artist/1AeC9AuzqGc3IXMC2T5xny"
         }
       ],
-      "duration_ms": 272240,
-      "name": "Fly To The Angels",
-      "url": "https://open.spotify.com/track/6e165g8fp2WDCBwF1zxLMh"
+      "duration_ms": 279373,
+      "name": "Sleeping Dogs",
+      "url": "https://open.spotify.com/track/3IriQd8aFxMSqlaapjlCJj"
+    },
+    {
+      "added_at": "2024-06-10 16:00:39",
+      "album": {
+        "name": "The Time of the Oath",
+        "url": "https://open.spotify.com/album/5hx4UkhFj4gaUA0mjNr9D4"
+      },
+      "artists": [
+        {
+          "name": "Helloween",
+          "url": "https://open.spotify.com/artist/4pQN0GB0fNEEOfQCaWotsY"
+        }
+      ],
+      "duration_ms": 234533,
+      "name": "Forever and One (Neverland)",
+      "url": "https://open.spotify.com/track/0B6qYQS41EcbC66r7c4DBB"
     },
     {
       "added_at": "2024-06-10 16:00:39",
@@ -1551,22 +1583,6 @@
     {
       "added_at": "2024-06-10 16:00:39",
       "album": {
-        "name": "Book Of Shadows II",
-        "url": "https://open.spotify.com/album/32UWpOh0dxIw6VopkvUJ9t"
-      },
-      "artists": [
-        {
-          "name": "Zakk Wylde",
-          "url": "https://open.spotify.com/artist/1AeC9AuzqGc3IXMC2T5xny"
-        }
-      ],
-      "duration_ms": 279373,
-      "name": "Sleeping Dogs",
-      "url": "https://open.spotify.com/track/3IriQd8aFxMSqlaapjlCJj"
-    },
-    {
-      "added_at": "2024-06-10 16:00:39",
-      "album": {
         "name": "Keep The Faith (Remastered)",
         "url": "https://open.spotify.com/album/7LE04w5XSg8wIpIubDkqZr"
       },
@@ -1595,22 +1611,6 @@
       "duration_ms": 320106,
       "name": "Man of Sorrows - 2001 Remaster",
       "url": "https://open.spotify.com/track/3aKlrWvtDCJ13npobUO5zg"
-    },
-    {
-      "added_at": "2024-06-10 16:00:39",
-      "album": {
-        "name": "The Time of the Oath",
-        "url": "https://open.spotify.com/album/5hx4UkhFj4gaUA0mjNr9D4"
-      },
-      "artists": [
-        {
-          "name": "Helloween",
-          "url": "https://open.spotify.com/artist/4pQN0GB0fNEEOfQCaWotsY"
-        }
-      ],
-      "duration_ms": 234533,
-      "name": "Forever and One (Neverland)",
-      "url": "https://open.spotify.com/track/0B6qYQS41EcbC66r7c4DBB"
     },
     {
       "added_at": "2024-06-10 16:00:39",

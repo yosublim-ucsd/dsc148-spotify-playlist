@@ -1,12 +1,12 @@
 {
   "description": "This is Bethel Music. The essential tracks, all in one playlist.",
-  "num_followers": 200622,
+  "num_followers": 200650,
   "original_name": "This Is Bethel Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zv3egAAAAACbhHwwhw3uWrdg5XWgClny",
+  "snapshot_id": "ZwCBgAAAAABDAfZaTE27r4lzqWy6vJ9j",
   "tracks": [
     {
       "added_at": null,
@@ -467,6 +467,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "After All These Years",
+        "url": "https://open.spotify.com/album/5gQXbANgL26uyI9X9A46Ft"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        }
+      ],
+      "duration_ms": 292226,
+      "name": "Only Jesus (Instrumental)",
+      "url": "https://open.spotify.com/track/02i6EK1A76R7wX8DBIlF4o"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Have It All (Live)",
         "url": "https://open.spotify.com/album/0SJHpd8spsBBvI9N6B2cqS"
       },
@@ -483,22 +499,6 @@
       "duration_ms": 280762,
       "name": "Lion and the Lamb (Live)",
       "url": "https://open.spotify.com/track/6UQdeF568sZx5is0l1gxHy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "After All These Years",
-        "url": "https://open.spotify.com/album/5gQXbANgL26uyI9X9A46Ft"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        }
-      ],
-      "duration_ms": 292226,
-      "name": "Only Jesus (Instrumental)",
-      "url": "https://open.spotify.com/track/02i6EK1A76R7wX8DBIlF4o"
     },
     {
       "added_at": null,
@@ -559,26 +559,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Simple",
-        "url": "https://open.spotify.com/album/4vkHgRSat7jX2Egvy0zeys"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "Emmy Rose",
-          "url": "https://open.spotify.com/artist/16f4gB92qCHbrYWixnzDGo"
-        }
-      ],
-      "duration_ms": 293377,
-      "name": "Tend",
-      "url": "https://open.spotify.com/track/4x6SymFX0lfohFb6rUk9dj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "You Make Me Brave (Live)",
         "url": "https://open.spotify.com/album/1NygIJD4kcp8nC4h4VFvVm"
       },
@@ -599,6 +579,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Simple",
+        "url": "https://open.spotify.com/album/4vkHgRSat7jX2Egvy0zeys"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Emmy Rose",
+          "url": "https://open.spotify.com/artist/16f4gB92qCHbrYWixnzDGo"
+        }
+      ],
+      "duration_ms": 293377,
+      "name": "Tend",
+      "url": "https://open.spotify.com/track/4x6SymFX0lfohFb6rUk9dj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Living Hope (Live)",
         "url": "https://open.spotify.com/album/53eeUnVLjZjKGZZjVIA20q"
       },
@@ -615,6 +615,30 @@
       "duration_ms": 406346,
       "name": "Living Hope (Live)",
       "url": "https://open.spotify.com/track/2V1yqtTfQ6JCl8eGYxttyL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Made For More",
+        "url": "https://open.spotify.com/album/0Wh96pmXtrWflkPfrUpKCV"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Jenn Johnson",
+          "url": "https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO"
+        },
+        {
+          "name": "Josh Baldwin",
+          "url": "https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2"
+        }
+      ],
+      "duration_ms": 385506,
+      "name": "Made For More - Live",
+      "url": "https://open.spotify.com/track/1qo2WigLGq2fi2s4uSs5Pi"
     },
     {
       "added_at": null,
@@ -655,30 +679,6 @@
       "duration_ms": 500300,
       "name": "No One Like The Lord (Live)",
       "url": "https://open.spotify.com/track/6R3Zp0J2CMp1CgZEQcfWPa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Made For More",
-        "url": "https://open.spotify.com/album/0Wh96pmXtrWflkPfrUpKCV"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "Jenn Johnson",
-          "url": "https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO"
-        },
-        {
-          "name": "Josh Baldwin",
-          "url": "https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2"
-        }
-      ],
-      "duration_ms": 385506,
-      "name": "Made For More - Live",
-      "url": "https://open.spotify.com/track/1qo2WigLGq2fi2s4uSs5Pi"
     },
     {
       "added_at": null,
@@ -971,6 +971,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Without Words: Synesthesia",
+        "url": "https://open.spotify.com/album/0O7oDrkgr0TWlyChIOosiG"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        }
+      ],
+      "duration_ms": 79706,
+      "name": "Isabelline (Interlude)",
+      "url": "https://open.spotify.com/track/0GGGslbmFUpXpfGmdT5Y80"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Moments: Wait (Live)",
         "url": "https://open.spotify.com/album/7rNKbK8wratEtlqtVeGvVL"
       },
@@ -987,22 +1003,6 @@
       "duration_ms": 526768,
       "name": "Nothing Else (Spontaneous) [Live]",
       "url": "https://open.spotify.com/track/0Kt7R8V7dWWQTQXvTI0xTL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Without Words: Synesthesia",
-        "url": "https://open.spotify.com/album/0O7oDrkgr0TWlyChIOosiG"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        }
-      ],
-      "duration_ms": 79706,
-      "name": "Isabelline (Interlude)",
-      "url": "https://open.spotify.com/track/0GGGslbmFUpXpfGmdT5Y80"
     },
     {
       "added_at": null,

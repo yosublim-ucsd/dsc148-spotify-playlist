@@ -1,12 +1,12 @@
 {
   "description": "This Is Buddy Guy. Los temas esenciales, todos en una lista.",
-  "num_followers": 34209,
+  "num_followers": 34214,
   "original_name": "This Is Buddy Guy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zv3egAAAAAANBL8S/lzMjXisC2n0DUEJ",
+  "snapshot_id": "ZwCBgAAAAAC0SIf5jGYYSI/oQKVgArKS",
   "tracks": [
     {
       "added_at": null,
@@ -527,22 +527,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hoodoo Man Blues",
-        "url": "https://open.spotify.com/album/6whq5Ok1wCTlrXRNyzDSJ4"
+        "name": "Buddy Guy & Junior Wells Play The Blues",
+        "url": "https://open.spotify.com/album/1GGe9Rkv0Yby4ZiEc54pLu"
       },
       "artists": [
         {
-          "name": "Junior Wells",
-          "url": "https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK"
-        },
-        {
           "name": "Buddy Guy",
           "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        },
+        {
+          "name": "Junior Wells",
+          "url": "https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK"
         }
       ],
-      "duration_ms": 134106,
-      "name": "Chitlin Con Carne",
-      "url": "https://open.spotify.com/track/1VuusegWcz4R6DVA4pOOFI"
+      "duration_ms": 135546,
+      "name": "Messin' with the Kid",
+      "url": "https://open.spotify.com/track/6VkaGRe98A6x7S5dGmxd30"
     },
     {
       "added_at": null,
@@ -567,6 +567,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hoodoo Man Blues",
+        "url": "https://open.spotify.com/album/6whq5Ok1wCTlrXRNyzDSJ4"
+      },
+      "artists": [
+        {
+          "name": "Junior Wells",
+          "url": "https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK"
+        },
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        }
+      ],
+      "duration_ms": 134106,
+      "name": "Chitlin Con Carne",
+      "url": "https://open.spotify.com/track/1VuusegWcz4R6DVA4pOOFI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "DJ Play My Blues",
         "url": "https://open.spotify.com/album/0wN1Cv8D4Ht38g8TMx7psy"
       },
@@ -579,26 +599,6 @@
       "duration_ms": 282493,
       "name": "Just Teasin'",
       "url": "https://open.spotify.com/track/7qR9FrZIWNzOMkfzjINkiH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Buddy Guy & Junior Wells Play The Blues",
-        "url": "https://open.spotify.com/album/1GGe9Rkv0Yby4ZiEc54pLu"
-      },
-      "artists": [
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        },
-        {
-          "name": "Junior Wells",
-          "url": "https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK"
-        }
-      ],
-      "duration_ms": 135546,
-      "name": "Messin' with the Kid",
-      "url": "https://open.spotify.com/track/6VkaGRe98A6x7S5dGmxd30"
     },
     {
       "added_at": null,
@@ -703,6 +703,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Living Proof",
+        "url": "https://open.spotify.com/album/3WH2ZpwBApxjDMQf3tEArm"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        },
+        {
+          "name": "Carlos Santana",
+          "url": "https://open.spotify.com/artist/0MsXN56oNCyqorqEPViWgQ"
+        }
+      ],
+      "duration_ms": 277906,
+      "name": "Where The Blues Begins (feat. Carlos Santana)",
+      "url": "https://open.spotify.com/track/4XVNiv2nZLz2MxXGRUAle7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hoodoo Man Blues",
         "url": "https://open.spotify.com/album/6whq5Ok1wCTlrXRNyzDSJ4"
       },
@@ -739,26 +759,6 @@
       "duration_ms": 275680,
       "name": "Where Is the Next One Coming From (feat. Mark Knopfler)",
       "url": "https://open.spotify.com/track/2yJPlXbIlR9rQEFp7hB4by"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Living Proof",
-        "url": "https://open.spotify.com/album/3WH2ZpwBApxjDMQf3tEArm"
-      },
-      "artists": [
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        },
-        {
-          "name": "Carlos Santana",
-          "url": "https://open.spotify.com/artist/0MsXN56oNCyqorqEPViWgQ"
-        }
-      ],
-      "duration_ms": 277906,
-      "name": "Where The Blues Begins (feat. Carlos Santana)",
-      "url": "https://open.spotify.com/track/4XVNiv2nZLz2MxXGRUAle7"
     },
     {
       "added_at": null,
@@ -835,22 +835,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Buddy Guy & Junior Wells Play The Blues (Expanded)",
-        "url": "https://open.spotify.com/album/258nJWLkWNsQshy4AZUDaQ"
+        "name": "Can't Quit The Blues",
+        "url": "https://open.spotify.com/album/5CIK2RIt6REWTwC7p44yst"
       },
       "artists": [
         {
           "name": "Buddy Guy",
           "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        },
-        {
-          "name": "Junior Wells",
-          "url": "https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK"
         }
       ],
-      "duration_ms": 240693,
-      "name": "Sweet Home Chicago - Mono Rough Mix",
-      "url": "https://open.spotify.com/track/5zGssSIGlzrEWZOH3M8Bn6"
+      "duration_ms": 384280,
+      "name": "Miss Ida B",
+      "url": "https://open.spotify.com/track/0BX4XzYSTD4HBz2BzcQ8Iu"
     },
     {
       "added_at": null,
@@ -871,18 +867,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Can't Quit The Blues",
-        "url": "https://open.spotify.com/album/5CIK2RIt6REWTwC7p44yst"
+        "name": "Buddy Guy & Junior Wells Play The Blues (Expanded)",
+        "url": "https://open.spotify.com/album/258nJWLkWNsQshy4AZUDaQ"
       },
       "artists": [
         {
           "name": "Buddy Guy",
           "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        },
+        {
+          "name": "Junior Wells",
+          "url": "https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK"
         }
       ],
-      "duration_ms": 384280,
-      "name": "Miss Ida B",
-      "url": "https://open.spotify.com/track/0BX4XzYSTD4HBz2BzcQ8Iu"
+      "duration_ms": 240693,
+      "name": "Sweet Home Chicago - Mono Rough Mix",
+      "url": "https://open.spotify.com/track/5zGssSIGlzrEWZOH3M8Bn6"
     },
     {
       "added_at": null,

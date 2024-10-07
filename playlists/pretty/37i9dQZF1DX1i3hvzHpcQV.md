@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1i3hvzHpcQV.md) - [plain]
 
 > Tune into the Hottest tracks of Kollywood!<br/>Cover : Vettaiyan
 
-[Spotify](https://open.spotify.com/user/spotify) - 888,546 likes - 51 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 889,033 likes - 51 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1i3hvzHpcQV.md) - [plain]
 | 26 | [Mainaru Vetti Katti](https://open.spotify.com/track/1hSbtbX2cVbSyBVqoYHjSj) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6), [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Dhee](https://open.spotify.com/artist/77YvCBWe0tTLygpgSJsdOH) | [Mainaru Vetti Katti \(From "Dasara"\) \(Tamil\)](https://open.spotify.com/album/5aAOwRKsCpxhvsTZFExfTV) | 3:23 |
 | 27 | [Ordinary Person \(From "Leo"\)](https://open.spotify.com/track/6FahmzZYKH0zb2f9hrVsvw) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH) | [Ordinary Person \(From "Leo"\)](https://open.spotify.com/album/0qOjC3f9sN8JWr1SOz7m9Z) | 2:19 |
 | 28 | [Hukum \- Thalaivar Alappara](https://open.spotify.com/track/5DgY6Ab0vpyUMKnY9ubFOF) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Super Subu](https://open.spotify.com/artist/6sXT8Cggm4tmoxhVjaUVs0) | [Jailer \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0zRUzTXH7GtGLxt6uVdARD) | 3:27 |
-| 29 | [Naa Ready \(From "Leo"\)](https://open.spotify.com/track/1B02UI29t3PTh3m98absaP) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Thalapathy Vijay](https://open.spotify.com/artist/0fhunuOz2OuOEr3YK5ctSm), [Asal Kolaar](https://open.spotify.com/artist/4b1WCDqAVVgxK7KozLkOqc) | [Naa Ready \(From "Leo"\)](https://open.spotify.com/album/7qRoSVSyHeA9qtOXUpBwRI) | 4:08 |
+| 29 | [Naa Ready \(From "Leo"\)](https://open.spotify.com/track/1B02UI29t3PTh3m98absaP) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Vijay](https://open.spotify.com/artist/1eBHjBxiNA3gyEWEN7oRxM), [Asal Kolaar](https://open.spotify.com/artist/4b1WCDqAVVgxK7KozLkOqc) | [Naa Ready \(From "Leo"\)](https://open.spotify.com/album/7qRoSVSyHeA9qtOXUpBwRI) | 4:08 |
 | 30 | [Kaattumalli](https://open.spotify.com/track/5HgXSvl2YoBtEY623UsACk) | [Ilaiyaraaja](https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7), [Ananya Bhat](https://open.spotify.com/artist/4JczWHls9n9VpTHnqO2IG8) | [Viduthalai \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6B4QVNX6NKy1EkU3a8bGe4) | 5:06 |
 | 31 | [Thee Thalapathy \(From "Varisu"\)](https://open.spotify.com/track/6TK7jseRCrogw9IzQYkw2h) | [Silambarasan TR](https://open.spotify.com/artist/5Hn84AFwiTEi8eMoI5B9AS), [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN) | [Thee Thalapathy \(From "Varisu"\)](https://open.spotify.com/album/3ZcY45jXNx9jTGjpNv3GbL) | 4:18 |
 | 32 | [Beast Mode \(From "Beast"\)](https://open.spotify.com/track/1aQ58u4guUf999iQX3J2HF) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Beast Mode \(From "Beast"\)](https://open.spotify.com/album/0gTZnvc3F1cHmJTTe9OBGb) | 3:40 |

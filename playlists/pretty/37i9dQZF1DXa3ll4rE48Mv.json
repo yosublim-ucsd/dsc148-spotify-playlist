@@ -1,6 +1,6 @@
 {
   "description": "The sounds of LGBTQ+ punk. Cover: Bikini Kill",
-  "num_followers": 198368,
+  "num_followers": 198388,
   "original_name": "Queercore",
   "owner": {
     "name": "Spotify",
@@ -235,22 +235,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "You're Welcome",
-        "url": "https://open.spotify.com/album/0mmHl5Z8DhJvbtQVQ3Irc9"
-      },
-      "artists": [
-        {
-          "name": "Lambrini Girls",
-          "url": "https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb"
-        }
-      ],
-      "duration_ms": 155788,
-      "name": "Boys in the Band",
-      "url": "https://open.spotify.com/track/3BtMOmGUe3VEFz4uXGzqlT"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Perfect",
         "url": "https://open.spotify.com/album/1SmNCUA35KrRKfzwk02FSD"
       },
@@ -315,6 +299,38 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
+        "name": "You're Welcome",
+        "url": "https://open.spotify.com/album/0mmHl5Z8DhJvbtQVQ3Irc9"
+      },
+      "artists": [
+        {
+          "name": "Lambrini Girls",
+          "url": "https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb"
+        }
+      ],
+      "duration_ms": 155788,
+      "name": "Boys in the Band",
+      "url": "https://open.spotify.com/track/3BtMOmGUe3VEFz4uXGzqlT"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Love Me Forever",
+        "url": "https://open.spotify.com/album/5OmaMjzlejoRXpeKATzfLB"
+      },
+      "artists": [
+        {
+          "name": "Pinkshift",
+          "url": "https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P"
+        }
+      ],
+      "duration_ms": 196942,
+      "name": "the kids aren't alright",
+      "url": "https://open.spotify.com/track/2tA1gvbmEhQ1nBtslqibFR"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
         "name": "gasoline",
         "url": "https://open.spotify.com/album/5fpTeGoair7Yj69gyJfjUh"
       },
@@ -375,22 +391,6 @@
       "duration_ms": 124653,
       "name": "So-Called Str8 Grrrl",
       "url": "https://open.spotify.com/track/5XUZUnnvjObWveOA9fpO7L"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "Love Me Forever",
-        "url": "https://open.spotify.com/album/5OmaMjzlejoRXpeKATzfLB"
-      },
-      "artists": [
-        {
-          "name": "Pinkshift",
-          "url": "https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P"
-        }
-      ],
-      "duration_ms": 196942,
-      "name": "the kids aren't alright",
-      "url": "https://open.spotify.com/track/2tA1gvbmEhQ1nBtslqibFR"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -555,6 +555,22 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
+        "name": "Congregation",
+        "url": "https://open.spotify.com/album/6SIQj7MJgbjkhV8nm16qZj"
+      },
+      "artists": [
+        {
+          "name": "Witch Fever",
+          "url": "https://open.spotify.com/artist/1Zdd7fqk5jtuMUwE7agpS1"
+        }
+      ],
+      "duration_ms": 160185,
+      "name": "At The Core",
+      "url": "https://open.spotify.com/track/0Yurp3rkIdKpLtva5cU0Nh"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
         "name": "Model Citizen",
         "url": "https://open.spotify.com/album/7qGZWGsspSXTXiqTWa4sT5"
       },
@@ -587,38 +603,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Congregation",
-        "url": "https://open.spotify.com/album/6SIQj7MJgbjkhV8nm16qZj"
-      },
-      "artists": [
-        {
-          "name": "Witch Fever",
-          "url": "https://open.spotify.com/artist/1Zdd7fqk5jtuMUwE7agpS1"
-        }
-      ],
-      "duration_ms": 160185,
-      "name": "At The Core",
-      "url": "https://open.spotify.com/track/0Yurp3rkIdKpLtva5cU0Nh"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "The Reson For Hardcore Vibes Again",
-        "url": "https://open.spotify.com/album/2ulPQaaJiq1rK6YK86wPsI"
-      },
-      "artists": [
-        {
-          "name": "Joe & The Shitboys",
-          "url": "https://open.spotify.com/artist/1LQe0AlqV1e2GD3Ry1UFTg"
-        }
-      ],
-      "duration_ms": 55733,
-      "name": "Save the Planet, You Dumb Shit",
-      "url": "https://open.spotify.com/track/6Kk9Zy9dYzgvTEPNCh2s8o"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Total 90",
         "url": "https://open.spotify.com/album/4efq58i5lqhrDIigg4mGNj"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 163867,
       "name": "Total 90",
       "url": "https://open.spotify.com/track/0wt9XdllRuII1YlWz0sPrR"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Not Your Kind",
+        "url": "https://open.spotify.com/album/2bINeWV1YXsi5QrPl28cnh"
+      },
+      "artists": [
+        {
+          "name": "Hoity-Toity",
+          "url": "https://open.spotify.com/artist/59C4CCO7zRyoXORgHPjDjp"
+        }
+      ],
+      "duration_ms": 274340,
+      "name": "Y'know",
+      "url": "https://open.spotify.com/track/2fEgApMmxqKwCYXqg3Y2YE"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -651,18 +651,18 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Not Your Kind",
-        "url": "https://open.spotify.com/album/2bINeWV1YXsi5QrPl28cnh"
+        "name": "The Reson For Hardcore Vibes Again",
+        "url": "https://open.spotify.com/album/2ulPQaaJiq1rK6YK86wPsI"
       },
       "artists": [
         {
-          "name": "Hoity-Toity",
-          "url": "https://open.spotify.com/artist/59C4CCO7zRyoXORgHPjDjp"
+          "name": "Joe & The Shitboys",
+          "url": "https://open.spotify.com/artist/1LQe0AlqV1e2GD3Ry1UFTg"
         }
       ],
-      "duration_ms": 274340,
-      "name": "Y'know",
-      "url": "https://open.spotify.com/track/2fEgApMmxqKwCYXqg3Y2YE"
+      "duration_ms": 55733,
+      "name": "Save the Planet, You Dumb Shit",
+      "url": "https://open.spotify.com/track/6Kk9Zy9dYzgvTEPNCh2s8o"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Stupid Rich Boy",
-        "url": "https://open.spotify.com/album/4nm42ZsRXme9nzR2bLvb3e"
-      },
-      "artists": [
-        {
-          "name": "Froggy",
-          "url": "https://open.spotify.com/artist/7xzT4aBGEZvQJKZWbhTxyt"
-        }
-      ],
-      "duration_ms": 263546,
-      "name": "Stupid Rich Boy",
-      "url": "https://open.spotify.com/track/62iqRRViLrPJgm2IFf3bI5"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Mackerel's Funky Mission",
         "url": "https://open.spotify.com/album/1PZHj7UZQmyzbtIjGFeNxV"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 224440,
       "name": "Mackerel's Funky Mission",
       "url": "https://open.spotify.com/track/40vNItT9RcL9FOD9M2p6wb"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Stupid Rich Boy",
+        "url": "https://open.spotify.com/album/4nm42ZsRXme9nzR2bLvb3e"
+      },
+      "artists": [
+        {
+          "name": "Froggy",
+          "url": "https://open.spotify.com/artist/7xzT4aBGEZvQJKZWbhTxyt"
+        }
+      ],
+      "duration_ms": 263546,
+      "name": "Stupid Rich Boy",
+      "url": "https://open.spotify.com/track/62iqRRViLrPJgm2IFf3bI5"
     },
     {
       "added_at": "2024-05-22 11:00:00",

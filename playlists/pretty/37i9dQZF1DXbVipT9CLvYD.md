@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbVipT9CLvYD.md) - [plain]
 
 > Pakka Folk beats from Kollywood!<br/>Cover : Vikram
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,761 likes - 51 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,793 likes - 51 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbVipT9CLvYD.md) - [plain]
 | 21 | [Adipoli \(From "Think Originals"\)](https://open.spotify.com/track/1rvJahl2EPy25dSsBNzTr4) | [Siddhu Kumar](https://open.spotify.com/artist/652AxOhhHWM3oxqY82UhQ9), [Vineeth Sreenivasan](https://open.spotify.com/artist/2uocTdMBXjTsS7QmAj7src), [Sivaangi Krishnakumar](https://open.spotify.com/artist/0VocNHCBQ7Mzn9jNOmuSmz) | [Adipoli \(From "Think Originals"\)](https://open.spotify.com/album/4QHNXgyNYiMewgQYO3rdSy) | 2:52 |
 | 22 | [Puli Manga Pulip](https://open.spotify.com/track/18KexbdkUgYGzFGf73p9gZ) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6), [Gana Muthu](https://open.spotify.com/artist/2oyLpdrvnRrkgwc48UZFSx) | [Parris Jeyaraj \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5xwFSdnR9ojM6AI0spiSXL) | 2:58 |
 | 23 | [Single Pasanga](https://open.spotify.com/track/4Xn3xgMPWSMIWuELgWpGbp) | [Hiphop Tamizha](https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q), [Gana Balachanda](https://open.spotify.com/artist/2wQuVlgFVtiq4e3e0b7FRW), [Gana Ulagam Dharani](https://open.spotify.com/artist/45N8QChe58Gqzfrmv4mXe7), [Arivu](https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71) | [Natpe Thunai \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4kVzewcZrjwncy9zO9HxEY) | 3:44 |
-| 24 | [Verithanam](https://open.spotify.com/track/1wPWGI2rjtTXEhiAylGKtF) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Thalapathy Vijay](https://open.spotify.com/artist/0fhunuOz2OuOEr3YK5ctSm) | [Bigil \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2G7JyChJHrZYCBb0jL2N5t) | 4:05 |
+| 24 | [Verithanam](https://open.spotify.com/track/1wPWGI2rjtTXEhiAylGKtF) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Vijay](https://open.spotify.com/artist/1eBHjBxiNA3gyEWEN7oRxM) | [Bigil \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2G7JyChJHrZYCBb0jL2N5t) | 4:05 |
 | 25 | [Chellamma \(From "Doctor"\)](https://open.spotify.com/track/0fGclndst25Qqy8j4u5De5) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [Chellamma \(From "Doctor"\)](https://open.spotify.com/album/0ajbKuAGjGt7VBJeKpYyu8) | 3:56 |
 | 26 | [Aaluma Doluma](https://open.spotify.com/track/1Do2hDE0etMakAEQbyOd4L) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1) | [Vedalam \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3KOvSxSNXC7mPvVESt1rVT) | 4:18 |
 | 27 | [Karuthavanlaam Galeejaam](https://open.spotify.com/track/22cCckQ9DR4E94QhtUzSW3) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Velaikkaran \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3WkCzwLSjWxVm2NU9t6aCM) | 3:28 |

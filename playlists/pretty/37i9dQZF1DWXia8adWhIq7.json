@@ -1,6 +1,6 @@
 {
   "description": "Ou\u00e7a as novidades e sucessos do Pop Crist\u00e3o. Foto: Jos\u00e9 Jr",
-  "num_followers": 98756,
+  "num_followers": 98783,
   "original_name": "Pop Gospel",
   "owner": {
     "name": "Spotify",
@@ -155,26 +155,6 @@
     {
       "added_at": "2024-09-27 03:01:00",
       "album": {
-        "name": "O Reino Vem",
-        "url": "https://open.spotify.com/album/1XGpn9IDF3qwuCPfF8SgW8"
-      },
-      "artists": [
-        {
-          "name": "Daniela Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
-        },
-        {
-          "name": "Vit\u00f3ria Souza",
-          "url": "https://open.spotify.com/artist/07tsf3FXOQCLN2djNLUT2j"
-        }
-      ],
-      "duration_ms": 198928,
-      "name": "O Reino Vem",
-      "url": "https://open.spotify.com/track/2kA9woThYCW2HDgV8OMKJ8"
-    },
-    {
-      "added_at": "2024-09-27 03:01:00",
-      "album": {
         "name": "Tudo em Mim",
         "url": "https://open.spotify.com/album/2Xzp0ZlJZXb3n7OWVFTvrj"
       },
@@ -207,6 +187,26 @@
       "duration_ms": 251000,
       "name": "Entre Milh\u00f5es",
       "url": "https://open.spotify.com/track/2V4oWQWf6LKvEEsSskyM2j"
+    },
+    {
+      "added_at": "2024-09-27 03:01:00",
+      "album": {
+        "name": "O Reino Vem",
+        "url": "https://open.spotify.com/album/1XGpn9IDF3qwuCPfF8SgW8"
+      },
+      "artists": [
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        },
+        {
+          "name": "Vit\u00f3ria Souza",
+          "url": "https://open.spotify.com/artist/07tsf3FXOQCLN2djNLUT2j"
+        }
+      ],
+      "duration_ms": 198928,
+      "name": "O Reino Vem",
+      "url": "https://open.spotify.com/track/2kA9woThYCW2HDgV8OMKJ8"
     },
     {
       "added_at": "2024-09-27 03:01:00",
@@ -319,6 +319,30 @@
     {
       "added_at": "2024-09-27 03:01:00",
       "album": {
+        "name": "Esque\u00e7o At\u00e9 o Tempo",
+        "url": "https://open.spotify.com/album/6PeOq6vvMPDB1TixVs3AjU"
+      },
+      "artists": [
+        {
+          "name": "Os Meireles",
+          "url": "https://open.spotify.com/artist/4GvZo4MFJZPodaS1VXVEe1"
+        },
+        {
+          "name": "Feliz7Play",
+          "url": "https://open.spotify.com/artist/6LD4cDaG4K0B2oguawXfIG"
+        },
+        {
+          "name": "Benjamim Silva",
+          "url": "https://open.spotify.com/artist/7kHaI4UMrNTMHBJrvtNOuX"
+        }
+      ],
+      "duration_ms": 159825,
+      "name": "Esque\u00e7o At\u00e9 o Tempo (Ac\u00fastico)",
+      "url": "https://open.spotify.com/track/73v7T2BnMUZBgvazzWS8eZ"
+    },
+    {
+      "added_at": "2024-09-27 03:01:00",
+      "album": {
         "name": "Vida Leve",
         "url": "https://open.spotify.com/album/08ujgEoWflIBTXaf0T5XUl"
       },
@@ -367,30 +391,6 @@
     {
       "added_at": "2024-09-27 03:01:00",
       "album": {
-        "name": "Esque\u00e7o At\u00e9 o Tempo",
-        "url": "https://open.spotify.com/album/6PeOq6vvMPDB1TixVs3AjU"
-      },
-      "artists": [
-        {
-          "name": "Os Meireles",
-          "url": "https://open.spotify.com/artist/4GvZo4MFJZPodaS1VXVEe1"
-        },
-        {
-          "name": "Feliz7Play",
-          "url": "https://open.spotify.com/artist/6LD4cDaG4K0B2oguawXfIG"
-        },
-        {
-          "name": "Benjamim Silva",
-          "url": "https://open.spotify.com/artist/7kHaI4UMrNTMHBJrvtNOuX"
-        }
-      ],
-      "duration_ms": 159825,
-      "name": "Esque\u00e7o At\u00e9 o Tempo (Ac\u00fastico)",
-      "url": "https://open.spotify.com/track/73v7T2BnMUZBgvazzWS8eZ"
-    },
-    {
-      "added_at": "2024-09-27 03:01:00",
-      "album": {
         "name": "Gra\u00e7a Sobre Gra\u00e7a",
         "url": "https://open.spotify.com/album/25glZgp7YQyCE9Oz2Honsi"
       },
@@ -403,26 +403,6 @@
       "duration_ms": 191530,
       "name": "Gra\u00e7a Sobre Gra\u00e7a",
       "url": "https://open.spotify.com/track/0nvXiTPiPPVZqP6UMbmdSs"
-    },
-    {
-      "added_at": "2024-09-27 03:01:00",
-      "album": {
-        "name": "Sonhar",
-        "url": "https://open.spotify.com/album/7vVCfO9Xrgps6yj1IvjcSK"
-      },
-      "artists": [
-        {
-          "name": "Matheus Balo",
-          "url": "https://open.spotify.com/artist/5WCiqIo8qQE8cSF4UyOP2T"
-        },
-        {
-          "name": "Filipe Lancaster",
-          "url": "https://open.spotify.com/artist/5ue1WcGZ9D5B9FcmBe7Juw"
-        }
-      ],
-      "duration_ms": 138080,
-      "name": "Sonhar",
-      "url": "https://open.spotify.com/track/3jIKSwXaVi8iC5WBw3ncGC"
     },
     {
       "added_at": "2024-09-27 03:01:00",
@@ -447,6 +427,26 @@
       "duration_ms": 192000,
       "name": "Teu V\u00f4o",
       "url": "https://open.spotify.com/track/3s1puxrckxaAKtsqGcHuPD"
+    },
+    {
+      "added_at": "2024-09-27 03:01:00",
+      "album": {
+        "name": "Sonhar",
+        "url": "https://open.spotify.com/album/7vVCfO9Xrgps6yj1IvjcSK"
+      },
+      "artists": [
+        {
+          "name": "Matheus Balo",
+          "url": "https://open.spotify.com/artist/5WCiqIo8qQE8cSF4UyOP2T"
+        },
+        {
+          "name": "Filipe Lancaster",
+          "url": "https://open.spotify.com/artist/5ue1WcGZ9D5B9FcmBe7Juw"
+        }
+      ],
+      "duration_ms": 138080,
+      "name": "Sonhar",
+      "url": "https://open.spotify.com/track/3jIKSwXaVi8iC5WBw3ncGC"
     },
     {
       "added_at": "2024-09-27 03:01:00",
@@ -919,6 +919,30 @@
     {
       "added_at": "2024-09-27 03:01:00",
       "album": {
+        "name": "Tudo Novo",
+        "url": "https://open.spotify.com/album/51e8mw5vBRkEqljx5DUkZN"
+      },
+      "artists": [
+        {
+          "name": "DJ Roger Vale",
+          "url": "https://open.spotify.com/artist/07YSzRpBPsuBZ1ZR9RrVqo"
+        },
+        {
+          "name": "Duo Franco",
+          "url": "https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b"
+        },
+        {
+          "name": "Thaiane Seghetto",
+          "url": "https://open.spotify.com/artist/3NTei7B7tmvJh8ZC8GdcDG"
+        }
+      ],
+      "duration_ms": 185901,
+      "name": "Tudo Novo",
+      "url": "https://open.spotify.com/track/4DTSBQsKzEaP99gq0G77ra"
+    },
+    {
+      "added_at": "2024-09-27 03:01:00",
+      "album": {
         "name": "At\u00e9 Sermos Um",
         "url": "https://open.spotify.com/album/24PZIfsN50tPldnbkdBnlG"
       },
@@ -987,30 +1011,6 @@
       "duration_ms": 314622,
       "name": "Neste Lugar",
       "url": "https://open.spotify.com/track/64rFHVKbXxm2xzFbkjIZ6d"
-    },
-    {
-      "added_at": "2024-09-27 03:01:00",
-      "album": {
-        "name": "Tudo Novo",
-        "url": "https://open.spotify.com/album/51e8mw5vBRkEqljx5DUkZN"
-      },
-      "artists": [
-        {
-          "name": "DJ Roger Vale",
-          "url": "https://open.spotify.com/artist/07YSzRpBPsuBZ1ZR9RrVqo"
-        },
-        {
-          "name": "Duo Franco",
-          "url": "https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b"
-        },
-        {
-          "name": "Thaiane Seghetto",
-          "url": "https://open.spotify.com/artist/3NTei7B7tmvJh8ZC8GdcDG"
-        }
-      ],
-      "duration_ms": 185901,
-      "name": "Tudo Novo",
-      "url": "https://open.spotify.com/track/4DTSBQsKzEaP99gq0G77ra"
     },
     {
       "added_at": "2024-09-27 03:01:00",
@@ -1159,6 +1159,26 @@
     {
       "added_at": "2024-09-27 03:01:00",
       "album": {
+        "name": "Pra Onde Vou Correr",
+        "url": "https://open.spotify.com/album/0RQmuhQgvKDgqlHsGLLcmq"
+      },
+      "artists": [
+        {
+          "name": "Jess\u00e9 Alcantara",
+          "url": "https://open.spotify.com/artist/5T7DnnHhIPE3aaftSLRJ0X"
+        },
+        {
+          "name": "Sulset Music",
+          "url": "https://open.spotify.com/artist/4QjHpxVGeol4deNW46UScs"
+        }
+      ],
+      "duration_ms": 215125,
+      "name": "Pra Onde Vou Correr",
+      "url": "https://open.spotify.com/track/1rJpxLz9szBRy1t1Mg2sVE"
+    },
+    {
+      "added_at": "2024-09-27 03:01:00",
+      "album": {
         "name": "Testemunho",
         "url": "https://open.spotify.com/album/1hzZ5ugTa68A1Q96rolfAQ"
       },
@@ -1191,26 +1211,6 @@
     {
       "added_at": "2024-09-27 03:01:00",
       "album": {
-        "name": "Pra Onde Vou Correr",
-        "url": "https://open.spotify.com/album/0RQmuhQgvKDgqlHsGLLcmq"
-      },
-      "artists": [
-        {
-          "name": "Jess\u00e9 Alcantara",
-          "url": "https://open.spotify.com/artist/5T7DnnHhIPE3aaftSLRJ0X"
-        },
-        {
-          "name": "Sulset Music",
-          "url": "https://open.spotify.com/artist/4QjHpxVGeol4deNW46UScs"
-        }
-      ],
-      "duration_ms": 215125,
-      "name": "Pra Onde Vou Correr",
-      "url": "https://open.spotify.com/track/1rJpxLz9szBRy1t1Mg2sVE"
-    },
-    {
-      "added_at": "2024-09-27 03:01:00",
-      "album": {
         "name": "Ousado Amor (Releitura)",
         "url": "https://open.spotify.com/album/5dpS81RUXO7awRzR3b9Yug"
       },
@@ -1223,6 +1223,22 @@
       "duration_ms": 224032,
       "name": "Ousado Amor (Releitura)",
       "url": "https://open.spotify.com/track/3kZMYuFqgCrthJpawm9ekL"
+    },
+    {
+      "added_at": "2024-09-27 03:01:00",
+      "album": {
+        "name": "CHAVE",
+        "url": "https://open.spotify.com/album/4vY4bNvByOAnpgiMrgoCZ6"
+      },
+      "artists": [
+        {
+          "name": "Arthur Martins",
+          "url": "https://open.spotify.com/artist/1DqIsYBAF5gtBsKQI5dPXd"
+        }
+      ],
+      "duration_ms": 187365,
+      "name": "CHAVE",
+      "url": "https://open.spotify.com/track/7iCASj4hDCB7Zz4mI7JNri"
     },
     {
       "added_at": "2024-09-27 03:01:00",
@@ -1255,22 +1271,6 @@
       "duration_ms": 245019,
       "name": "Escrevi (Legado)",
       "url": "https://open.spotify.com/track/5PbMhRZgOKvlJjDOIytCup"
-    },
-    {
-      "added_at": "2024-09-27 03:01:00",
-      "album": {
-        "name": "CHAVE",
-        "url": "https://open.spotify.com/album/4vY4bNvByOAnpgiMrgoCZ6"
-      },
-      "artists": [
-        {
-          "name": "Arthur Martins",
-          "url": "https://open.spotify.com/artist/1DqIsYBAF5gtBsKQI5dPXd"
-        }
-      ],
-      "duration_ms": 187365,
-      "name": "CHAVE",
-      "url": "https://open.spotify.com/track/7iCASj4hDCB7Zz4mI7JNri"
     },
     {
       "added_at": "2024-09-27 03:01:00",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2024-09-27 03:01:00",
       "album": {
-        "name": "Selo do Perd\u00e3o (Legado)",
-        "url": "https://open.spotify.com/album/4JJ0Zaa6iXKKMkMQfVNd7Q"
-      },
-      "artists": [
-        {
-          "name": "Carlinhos F\u00e9lix",
-          "url": "https://open.spotify.com/artist/4fKC35zqqRm5Xs8hINEKf4"
-        }
-      ],
-      "duration_ms": 250186,
-      "name": "Selo do Perd\u00e3o (Legado)",
-      "url": "https://open.spotify.com/track/4CPCxW7WZUUKyOrMNfERFA"
-    },
-    {
-      "added_at": "2024-09-27 03:01:00",
-      "album": {
         "name": "Contigo",
         "url": "https://open.spotify.com/album/75MMXMPZcSAK8L0Q4QQhk0"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 199864,
       "name": "Contigo",
       "url": "https://open.spotify.com/track/2z06u1grifKTmzRf48Hbdh"
+    },
+    {
+      "added_at": "2024-09-27 03:01:00",
+      "album": {
+        "name": "Selo do Perd\u00e3o (Legado)",
+        "url": "https://open.spotify.com/album/4JJ0Zaa6iXKKMkMQfVNd7Q"
+      },
+      "artists": [
+        {
+          "name": "Carlinhos F\u00e9lix",
+          "url": "https://open.spotify.com/artist/4fKC35zqqRm5Xs8hINEKf4"
+        }
+      ],
+      "duration_ms": 250186,
+      "name": "Selo do Perd\u00e3o (Legado)",
+      "url": "https://open.spotify.com/track/4CPCxW7WZUUKyOrMNfERFA"
     },
     {
       "added_at": "2024-09-27 03:01:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQ94aXH4FXjZ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2LYO2TUZb52Fuh9qCZOMcz">Kris Kristofferson</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,411 likes - 106 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,434 likes - 106 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQ94aXH4FXjZ.md) - [plain]
 | 81 | [Stallion](https://open.spotify.com/track/0dt8k5OJrol9oHCURFiTbO) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Who's To Bless And Who's To Blame](https://open.spotify.com/album/1TDJNWGpmhpRUJJv4Siu3g) | 4:45 |
 | 82 | [The Year 2000 Minus 25](https://open.spotify.com/track/4fYJxgMcvqNdwAaXyftGdZ) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Who's To Bless And Who's To Blame](https://open.spotify.com/album/1TDJNWGpmhpRUJJv4Siu3g) | 3:38 |
 | 83 | [If It's All the Same to You](https://open.spotify.com/track/4YBR3xUp3dTz7VGubLSrmL) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Who's To Bless And Who's To Blame](https://open.spotify.com/album/1TDJNWGpmhpRUJJv4Siu3g) | 3:15 |
-| 84 | [Jesus Was a Capricorn](https://open.spotify.com/track/4M6vy3Eu9GA7LHWHTKAM9O) | [Ryan Beaver](https://open.spotify.com/artist/4eZsjzl7q47rMHUyxeOGhr) | [Rx](https://open.spotify.com/album/1iRlHm22btTPS5mIOOhu9v) | 0:58 |
-| 85 | [I Got a Life of My Own](https://open.spotify.com/track/3yQnm7HJuyTrWl7Qd6i9MW) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Surreal Thing](https://open.spotify.com/album/5zzpsikgJ2uwAAEduiHG88) | 3:38 |
+| 84 | [I Got a Life of My Own](https://open.spotify.com/track/3yQnm7HJuyTrWl7Qd6i9MW) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Surreal Thing](https://open.spotify.com/album/5zzpsikgJ2uwAAEduiHG88) | 3:38 |
+| 85 | [Jesus Was a Capricorn](https://open.spotify.com/track/4M6vy3Eu9GA7LHWHTKAM9O) | [Ryan Beaver](https://open.spotify.com/artist/4eZsjzl7q47rMHUyxeOGhr) | [Rx](https://open.spotify.com/album/1iRlHm22btTPS5mIOOhu9v) | 0:58 |
 | 86 | [Jody a Kid](https://open.spotify.com/track/3nbYWZ9mc1EUmJLZpzaOJZ) | [Wabi Danek](https://open.spotify.com/artist/3C7YQ44XbUFugw5c2ZauYA) | [Nech svet, at se toci dal](https://open.spotify.com/album/715GgxJCE2SM9EmIsRrAJL) | 3:43 |
 | 87 | [Nedělní ráno \(Sunday Morning Coming Down\)](https://open.spotify.com/track/5966S2MnaKG9n5JGIM5M4j) | [Pavel Bobek](https://open.spotify.com/artist/0ulIHeEFNTdyP8VIjGjq4O) | [Vic nehledam...](https://open.spotify.com/album/1P1o9btDCuonkTdng3hPso) | 3:49 |
 | 88 | [Anybody That Don't Like Millie Jackson](https://open.spotify.com/track/5pRtWCKLb7W59TuBXlpwqZ) | [Millie Jackson](https://open.spotify.com/artist/27XI002zivG9xuzrZ9dIb1) | [Just a Lil' Bit Country](https://open.spotify.com/album/3AQTEd13jucQFeaVVdwPQq) | 2:53 |
@@ -115,4 +115,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQ94aXH4FXjZ.md) - [plain]
 | 105 | [Delta Day \(No Time to Cry\)](https://open.spotify.com/track/6FxBOv9K8J9ECCZg3MqCZk) | [Bucky Wilkin](https://open.spotify.com/artist/6llhUrYZmi6uP5YqxJzrq4) | [The Complete Recordings \(1964\-1968\)](https://open.spotify.com/album/1fB1c8AYgdtENfKuaUfRVW) | 3:15 |
 | 106 | [Give It Time To Be Tender](https://open.spotify.com/track/19L9DxIRGPDhoOGcxiq27H) | [Dottie West](https://open.spotify.com/artist/2pvPkEAN9xSrDrIVUOxWMB) | [I'm Only a Woman](https://open.spotify.com/album/00XFRT1yVfeXgnyrJ8spCj) | 3:10 |
 
-Snapshot ID: `Abd/9AAAAAAiuLo58/X7us/W/AP2/p86`
+Snapshot ID: `AbeFigAAAACOWkh6FeWrtaCl5MSU47+P`

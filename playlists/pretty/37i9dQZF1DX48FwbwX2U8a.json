@@ -1,6 +1,6 @@
 {
   "description": "\u00a1A almorzar con sabrosura pop y tropical!",
-  "num_followers": 47119,
+  "num_followers": 47127,
   "original_name": "Sopa y Seco",
   "owner": {
     "name": "Spotify",
@@ -223,22 +223,6 @@
     {
       "added_at": "2024-07-12 22:59:20",
       "album": {
-        "name": "20th Anniversary",
-        "url": "https://open.spotify.com/album/6quTUa9H2vITjPy9TArBvW"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 354973,
-      "name": "Gotas De Lluvia",
-      "url": "https://open.spotify.com/track/6sna5KCgNbt1ciZtVJCjzx"
-    },
-    {
-      "added_at": "2024-07-12 22:59:20",
-      "album": {
         "name": "Valio La Pena",
         "url": "https://open.spotify.com/album/4O3yvEN5II2yKWKBPtDLD7"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 308693,
       "name": "Idilio",
       "url": "https://open.spotify.com/track/6VQ2fI8goSX8mpSvytXkXR"
+    },
+    {
+      "added_at": "2024-07-12 22:59:20",
+      "album": {
+        "name": "20th Anniversary",
+        "url": "https://open.spotify.com/album/6quTUa9H2vITjPy9TArBvW"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 354973,
+      "name": "Gotas De Lluvia",
+      "url": "https://open.spotify.com/track/6sna5KCgNbt1ciZtVJCjzx"
     },
     {
       "added_at": "2024-07-12 22:59:20",
@@ -323,22 +323,6 @@
     {
       "added_at": "2024-07-12 22:59:20",
       "album": {
-        "name": "Sigo Siendo Yo",
-        "url": "https://open.spotify.com/album/70XO7jxoVIV9p9IFyjXGvJ"
-      },
-      "artists": [
-        {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
-        }
-      ],
-      "duration_ms": 302946,
-      "name": "Qu\u00e9 Precio Tiene el Cielo - Salsa Version",
-      "url": "https://open.spotify.com/track/2MnKininlD8bY9ggRNSJ37"
-    },
-    {
-      "added_at": "2024-07-12 22:59:20",
-      "album": {
         "name": "The Greatest Salsa Ever",
         "url": "https://open.spotify.com/album/6exx6nGkNvyAsyjLhvaXh5"
       },
@@ -359,22 +343,6 @@
     {
       "added_at": "2024-07-12 22:59:20",
       "album": {
-        "name": "The Best",
-        "url": "https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 293893,
-      "name": "Sin Sentimientos",
-      "url": "https://open.spotify.com/track/4ubwzNjqHGaZZ5k06PDx1H"
-    },
-    {
-      "added_at": "2024-07-12 22:59:20",
-      "album": {
         "name": "Pa' Otro La 'O",
         "url": "https://open.spotify.com/album/1AwPrz3G3D1Xx9wiKHNmHX"
       },
@@ -391,6 +359,38 @@
       "duration_ms": 316960,
       "name": "Amor Narc\u00f3tico",
       "url": "https://open.spotify.com/track/7guVlnmdqpcFjJmwP6RSRr"
+    },
+    {
+      "added_at": "2024-07-12 22:59:20",
+      "album": {
+        "name": "Sigo Siendo Yo",
+        "url": "https://open.spotify.com/album/70XO7jxoVIV9p9IFyjXGvJ"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "duration_ms": 302946,
+      "name": "Qu\u00e9 Precio Tiene el Cielo - Salsa Version",
+      "url": "https://open.spotify.com/track/2MnKininlD8bY9ggRNSJ37"
+    },
+    {
+      "added_at": "2024-07-12 22:59:20",
+      "album": {
+        "name": "The Best",
+        "url": "https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 293893,
+      "name": "Sin Sentimientos",
+      "url": "https://open.spotify.com/track/4ubwzNjqHGaZZ5k06PDx1H"
     },
     {
       "added_at": "2024-07-12 22:59:20",
@@ -531,6 +531,26 @@
     {
       "added_at": "2024-07-12 22:59:20",
       "album": {
+        "name": "Pa' Otro La 'O",
+        "url": "https://open.spotify.com/album/1AwPrz3G3D1Xx9wiKHNmHX"
+      },
+      "artists": [
+        {
+          "name": "ChiChi Peralta",
+          "url": "https://open.spotify.com/artist/5GNSVtCq2hiXDx7jUA5Iou"
+        },
+        {
+          "name": "Jandy Feliz",
+          "url": "https://open.spotify.com/artist/3hz57XL7wSiPMO9g3k1CW6"
+        }
+      ],
+      "duration_ms": 275200,
+      "name": "La Ciguapa",
+      "url": "https://open.spotify.com/track/6Fu5E5nuKfVOecwBmWLi7O"
+    },
+    {
+      "added_at": "2024-07-12 22:59:20",
+      "album": {
         "name": "Kaleth Morales En Guitarras",
         "url": "https://open.spotify.com/album/6WEgrW9kNfKtQQQWqefD7Y"
       },
@@ -559,26 +579,6 @@
       "duration_ms": 293906,
       "name": "Sopa de Caracol",
       "url": "https://open.spotify.com/track/4V8uHuLaBRxQ02H4YNCOO7"
-    },
-    {
-      "added_at": "2024-07-12 22:59:20",
-      "album": {
-        "name": "Pa' Otro La 'O",
-        "url": "https://open.spotify.com/album/1AwPrz3G3D1Xx9wiKHNmHX"
-      },
-      "artists": [
-        {
-          "name": "ChiChi Peralta",
-          "url": "https://open.spotify.com/artist/5GNSVtCq2hiXDx7jUA5Iou"
-        },
-        {
-          "name": "Jandy Feliz",
-          "url": "https://open.spotify.com/artist/3hz57XL7wSiPMO9g3k1CW6"
-        }
-      ],
-      "duration_ms": 275200,
-      "name": "La Ciguapa",
-      "url": "https://open.spotify.com/track/6Fu5E5nuKfVOecwBmWLi7O"
     },
     {
       "added_at": "2024-07-12 22:59:20",
@@ -651,22 +651,6 @@
     {
       "added_at": "2024-07-12 22:59:20",
       "album": {
-        "name": "Mi Propuesta 1996",
-        "url": "https://open.spotify.com/album/22hNAaD6Cak0gcrvCfRbaT"
-      },
-      "artists": [
-        {
-          "name": "Sergio Vargas",
-          "url": "https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs"
-        }
-      ],
-      "duration_ms": 279680,
-      "name": "Ni Tu Ni Yo",
-      "url": "https://open.spotify.com/track/7fLBzA1v6P0CXQ52OOLZdO"
-    },
-    {
-      "added_at": "2024-07-12 22:59:20",
-      "album": {
         "name": "Sin Medir Distancia",
         "url": "https://open.spotify.com/album/2zu3zhuorKNMUQCOtkgyyq"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 279266,
       "name": "Era Mentira",
       "url": "https://open.spotify.com/track/5HsglGvMFQvP0wEupHBRV3"
+    },
+    {
+      "added_at": "2024-07-12 22:59:20",
+      "album": {
+        "name": "Mi Propuesta 1996",
+        "url": "https://open.spotify.com/album/22hNAaD6Cak0gcrvCfRbaT"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vargas",
+          "url": "https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs"
+        }
+      ],
+      "duration_ms": 279680,
+      "name": "Ni Tu Ni Yo",
+      "url": "https://open.spotify.com/track/7fLBzA1v6P0CXQ52OOLZdO"
     },
     {
       "added_at": "2024-07-12 22:59:20",
@@ -767,22 +767,6 @@
     {
       "added_at": "2024-07-12 22:59:20",
       "album": {
-        "name": "Historia de \u00c9xitos, Vol. 1",
-        "url": "https://open.spotify.com/album/6wGUXNz5DDVpWq1x1oLO6v"
-      },
-      "artists": [
-        {
-          "name": "Sergio Vargas",
-          "url": "https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs"
-        }
-      ],
-      "duration_ms": 393012,
-      "name": "La Quiero a Morir / Si Alg\u00fan D\u00eda la Ves",
-      "url": "https://open.spotify.com/track/3oRdr7zLqqHd98Hh2DA0TS"
-    },
-    {
-      "added_at": "2024-07-12 22:59:20",
-      "album": {
         "name": "Mosaicos Tropicales",
         "url": "https://open.spotify.com/album/11OAMNwtwOQZnGpJzBNn3C"
       },
@@ -815,18 +799,18 @@
     {
       "added_at": "2024-07-12 22:59:20",
       "album": {
-        "name": "Banana",
-        "url": "https://open.spotify.com/album/4N6iE1vx2PCBTnTdTQxF6c"
+        "name": "Historia de \u00c9xitos, Vol. 1",
+        "url": "https://open.spotify.com/album/6wGUXNz5DDVpWq1x1oLO6v"
       },
       "artists": [
         {
-          "name": "The Rebels",
-          "url": "https://open.spotify.com/artist/5DHZNhnoDoZuzDQejFO7h6"
+          "name": "Sergio Vargas",
+          "url": "https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs"
         }
       ],
-      "duration_ms": 219800,
-      "name": "Banana",
-      "url": "https://open.spotify.com/track/5c6iti6anvtf59SwSo1bUe"
+      "duration_ms": 393012,
+      "name": "La Quiero a Morir / Si Alg\u00fan D\u00eda la Ves",
+      "url": "https://open.spotify.com/track/3oRdr7zLqqHd98Hh2DA0TS"
     },
     {
       "added_at": "2024-07-12 22:59:20",
@@ -843,6 +827,22 @@
       "duration_ms": 213840,
       "name": "Golpe Con Golpe",
       "url": "https://open.spotify.com/track/5F31jOZdwYZESzhv01hy3y"
+    },
+    {
+      "added_at": "2024-07-12 22:59:20",
+      "album": {
+        "name": "Banana",
+        "url": "https://open.spotify.com/album/4N6iE1vx2PCBTnTdTQxF6c"
+      },
+      "artists": [
+        {
+          "name": "The Rebels",
+          "url": "https://open.spotify.com/artist/5DHZNhnoDoZuzDQejFO7h6"
+        }
+      ],
+      "duration_ms": 219800,
+      "name": "Banana",
+      "url": "https://open.spotify.com/track/5c6iti6anvtf59SwSo1bUe"
     }
   ],
   "unique_name": "Sopa y Seco",

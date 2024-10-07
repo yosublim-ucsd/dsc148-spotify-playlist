@@ -1,6 +1,6 @@
 {
   "description": "y el soundtrack suena as\u00ed...",
-  "num_followers": 14674,
+  "num_followers": 14686,
   "original_name": "mi vida es una peli",
   "owner": {
     "name": "Spotify",
@@ -179,6 +179,22 @@
     {
       "added_at": "2024-10-03 21:43:02",
       "album": {
+        "name": "AURORA",
+        "url": "https://open.spotify.com/album/2Yjubr5GHX41ht808oZPzs"
+      },
+      "artists": [
+        {
+          "name": "HUMBE",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+        }
+      ],
+      "duration_ms": 262309,
+      "name": "AMOR DE CINE",
+      "url": "https://open.spotify.com/track/0v9UztY5A12cJUsWD7PZzS"
+    },
+    {
+      "added_at": "2024-10-03 21:43:02",
+      "album": {
         "name": "Mucho",
         "url": "https://open.spotify.com/album/0DUCdIMPrlfPFPPKsNyzx3"
       },
@@ -211,6 +227,22 @@
     {
       "added_at": "2024-10-03 21:43:02",
       "album": {
+        "name": "\u00bfPara Qu\u00e9?",
+        "url": "https://open.spotify.com/album/27ZCBzP3A8nAMjr2E7JjtB"
+      },
+      "artists": [
+        {
+          "name": "Ela Taubert",
+          "url": "https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM"
+        }
+      ],
+      "duration_ms": 147640,
+      "name": "\u00bfPara Qu\u00e9?",
+      "url": "https://open.spotify.com/track/2gcwAmAnJ3EztIvP5R4bp2"
+    },
+    {
+      "added_at": "2024-10-03 21:43:02",
+      "album": {
         "name": "neo roneo",
         "url": "https://open.spotify.com/album/23ieEAZkDq0jew4MZmb9zT"
       },
@@ -231,22 +263,6 @@
     {
       "added_at": "2024-10-03 21:43:02",
       "album": {
-        "name": "AURORA",
-        "url": "https://open.spotify.com/album/2Yjubr5GHX41ht808oZPzs"
-      },
-      "artists": [
-        {
-          "name": "HUMBE",
-          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
-        }
-      ],
-      "duration_ms": 262309,
-      "name": "AMOR DE CINE",
-      "url": "https://open.spotify.com/track/0v9UztY5A12cJUsWD7PZzS"
-    },
-    {
-      "added_at": "2024-10-03 21:43:02",
-      "album": {
         "name": "Azul",
         "url": "https://open.spotify.com/album/4JDKIJuDXFfi95NSQ0K7Dl"
       },
@@ -259,22 +275,6 @@
       "duration_ms": 194626,
       "name": "Azul",
       "url": "https://open.spotify.com/track/1HM9uVbB4DVQh0QlwY7W6v"
-    },
-    {
-      "added_at": "2024-10-03 21:43:02",
-      "album": {
-        "name": "\u00bfPara Qu\u00e9?",
-        "url": "https://open.spotify.com/album/27ZCBzP3A8nAMjr2E7JjtB"
-      },
-      "artists": [
-        {
-          "name": "Ela Taubert",
-          "url": "https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM"
-        }
-      ],
-      "duration_ms": 147640,
-      "name": "\u00bfPara Qu\u00e9?",
-      "url": "https://open.spotify.com/track/2gcwAmAnJ3EztIvP5R4bp2"
     },
     {
       "added_at": "2024-10-03 21:43:02",
@@ -391,22 +391,6 @@
     {
       "added_at": "2024-10-03 21:43:02",
       "album": {
-        "name": "Eres Diamante",
-        "url": "https://open.spotify.com/album/6phS5YYVMKIpCKeymOdL7v"
-      },
-      "artists": [
-        {
-          "name": "Elsa y Elmar",
-          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
-        }
-      ],
-      "duration_ms": 240295,
-      "name": "Ojos Noche",
-      "url": "https://open.spotify.com/track/6ltxt8idwnKPqZ5wmTEkpV"
-    },
-    {
-      "added_at": "2024-10-03 21:43:02",
-      "album": {
         "name": "Nunca Tristes (Me Vale Madre)",
         "url": "https://open.spotify.com/album/5YoNvYemEqvFVdWicpjPe8"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 95000,
       "name": "1 de Enero, Puntacana",
       "url": "https://open.spotify.com/track/7Iz0j9XsiyR2qAq3TaeaXD"
+    },
+    {
+      "added_at": "2024-10-03 21:43:02",
+      "album": {
+        "name": "Eres Diamante",
+        "url": "https://open.spotify.com/album/6phS5YYVMKIpCKeymOdL7v"
+      },
+      "artists": [
+        {
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+        }
+      ],
+      "duration_ms": 240295,
+      "name": "Ojos Noche",
+      "url": "https://open.spotify.com/track/6ltxt8idwnKPqZ5wmTEkpV"
     },
     {
       "added_at": "2024-10-03 21:43:02",
@@ -819,18 +819,18 @@
     {
       "added_at": "2024-10-03 21:43:02",
       "album": {
-        "name": "escrita",
-        "url": "https://open.spotify.com/album/41DOXn1SuBBmm57gPTyb5E"
+        "name": "Los Mejores A\u00f1os",
+        "url": "https://open.spotify.com/album/1FfoXxOshDOFAv1C84pSJR"
       },
       "artists": [
         {
-          "name": "Nicole Zignago",
-          "url": "https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP"
+          "name": "Joaquina",
+          "url": "https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0"
         }
       ],
-      "duration_ms": 202282,
-      "name": "m\u00e1s y menos",
-      "url": "https://open.spotify.com/track/5RxXLXdfznLfRGMfEPyt0a"
+      "duration_ms": 202106,
+      "name": "Los Mejores A\u00f1os",
+      "url": "https://open.spotify.com/track/28IF0Kp3uUeWHPkXa0yjNn"
     },
     {
       "added_at": "2024-10-03 21:43:02",
@@ -851,18 +851,18 @@
     {
       "added_at": "2024-10-03 21:43:02",
       "album": {
-        "name": "Los Mejores A\u00f1os",
-        "url": "https://open.spotify.com/album/1FfoXxOshDOFAv1C84pSJR"
+        "name": "escrita",
+        "url": "https://open.spotify.com/album/41DOXn1SuBBmm57gPTyb5E"
       },
       "artists": [
         {
-          "name": "Joaquina",
-          "url": "https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0"
+          "name": "Nicole Zignago",
+          "url": "https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP"
         }
       ],
-      "duration_ms": 202106,
-      "name": "Los Mejores A\u00f1os",
-      "url": "https://open.spotify.com/track/28IF0Kp3uUeWHPkXa0yjNn"
+      "duration_ms": 202282,
+      "name": "m\u00e1s y menos",
+      "url": "https://open.spotify.com/track/5RxXLXdfznLfRGMfEPyt0a"
     },
     {
       "added_at": "2024-10-03 21:43:02",
@@ -967,22 +967,6 @@
     {
       "added_at": "2024-10-03 21:43:02",
       "album": {
-        "name": "HORSES IN HEAVEN",
-        "url": "https://open.spotify.com/album/1OI436AjryW8xiHr2AdVfy"
-      },
-      "artists": [
-        {
-          "name": "Pink Pablo",
-          "url": "https://open.spotify.com/artist/6grKEGFYz5bqq0IQraQhsQ"
-        }
-      ],
-      "duration_ms": 177610,
-      "name": "HORSES IN HEAVEN",
-      "url": "https://open.spotify.com/track/3PuaCJ1I8iZaYpDh68fEKn"
-    },
-    {
-      "added_at": "2024-10-03 21:43:02",
-      "album": {
         "name": "Tripolar",
         "url": "https://open.spotify.com/album/6ud8dLSruWnM0i6qdIBHjS"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 169400,
       "name": "Reconciliados",
       "url": "https://open.spotify.com/track/1udMSoGRgHpRvPMqCuc4m2"
+    },
+    {
+      "added_at": "2024-10-03 21:43:02",
+      "album": {
+        "name": "HORSES IN HEAVEN",
+        "url": "https://open.spotify.com/album/1OI436AjryW8xiHr2AdVfy"
+      },
+      "artists": [
+        {
+          "name": "Pink Pablo",
+          "url": "https://open.spotify.com/artist/6grKEGFYz5bqq0IQraQhsQ"
+        }
+      ],
+      "duration_ms": 177610,
+      "name": "HORSES IN HEAVEN",
+      "url": "https://open.spotify.com/track/3PuaCJ1I8iZaYpDh68fEKn"
     },
     {
       "added_at": "2024-10-03 21:43:02",

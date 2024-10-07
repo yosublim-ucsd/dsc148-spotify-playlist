@@ -4,7 +4,7 @@
 
 > This is Lakeyah\. The essential tracks, all in one playlist.
 
-55 songs - 2 hr 23 min
+56 songs - 2 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [In Da Club](https://open.spotify.com/track/5N5d0rCeSPKPG8FLlGeR6Q) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [In Da Club](https://open.spotify.com/album/3evYwYBBhiBBELqgILVM0G) | 2:33 | 2023-08-05 | 2024-06-07 |
 | [In Da Club](https://open.spotify.com/track/7E7OFnZu69rHd9X0MqP565) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [In Da Club](https://open.spotify.com/album/3evYwYBBhiBBELqgILVM0G) | 2:36 | 2024-06-07 |  |
 | [In Person \(With OG Parker feat\. Tyga\)](https://open.spotify.com/track/0GYi1PEjtCPfXHPGnvs5ON) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7), [OG Parker](https://open.spotify.com/artist/5hhgghBFkLDdMn93GW4x3I), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG) | [My Time \- Gangsta Grillz: Special Edition](https://open.spotify.com/album/7fN9TVZE3JJFV7QqyVisnh) | 2:10 | 2022-10-28 |  |
+| [look easy](https://open.spotify.com/track/39RWZFE5UAeXpzZaOWW7uV) | [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p), [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [310degrees](https://open.spotify.com/album/6ILh4lBjtyPaHYROZBISwO) | 2:04 | 2024-10-07 |  |
 | [Maneuver \(feat\. Flo Milli\)](https://open.spotify.com/track/4bWGHob6LSJ6XV2NtEo5Zi) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [No Pressure \(Pt\. 2\)](https://open.spotify.com/album/7qFvB2y0azbdCp9j1dyRai) | 3:21 | 2022-10-28 |  |
 | [MilTroit \(feat\. Lakeyah\)](https://open.spotify.com/track/1K3LqqgTfHKyQfY0EMbnQF) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO), [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [Half Tee Half Beast](https://open.spotify.com/album/1MPQSjOwfHFILDB3DGoyrp) | 2:24 | 2022-10-28 |  |
 | [Mind Yo Business \(Feat\. Latto\)](https://open.spotify.com/track/5hR1PFUnx0uRkqYsW4Z4ja) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Mind Yo Business \(Feat\. Latto\)](https://open.spotify.com/album/0NCupn1XlJsAHmUcCCGLQk) | 2:02 | 2022-10-28 |  |

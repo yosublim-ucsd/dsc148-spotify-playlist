@@ -1,6 +1,6 @@
 {
   "description": "A blend of the best from years past\u2014from indie folk and pop grass to roots rock and Americana. Cover: The Lumineers",
-  "num_followers": 619382,
+  "num_followers": 619394,
   "original_name": "Roots Revival",
   "owner": {
     "name": "Spotify",
@@ -171,22 +171,6 @@
     {
       "added_at": "2024-08-28 14:08:37",
       "album": {
-        "name": "The Weatherman",
-        "url": "https://open.spotify.com/album/3IcfYXw7lTtLfG5XWLlSZi"
-      },
-      "artists": [
-        {
-          "name": "Gregory Alan Isakov",
-          "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
-        }
-      ],
-      "duration_ms": 198640,
-      "name": "Amsterdam",
-      "url": "https://open.spotify.com/track/7iQmjnDXYngWGsbjVnDc1U"
-    },
-    {
-      "added_at": "2024-08-28 14:08:37",
-      "album": {
         "name": "First Mind",
         "url": "https://open.spotify.com/album/0ntJpgznXrZ6Qc8wTxtcXh"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 252960,
       "name": "Fever To The Form",
       "url": "https://open.spotify.com/track/1QJnDJuYOGj05iSc4eWGr5"
+    },
+    {
+      "added_at": "2024-08-28 14:08:37",
+      "album": {
+        "name": "Living Mirage",
+        "url": "https://open.spotify.com/album/27LNgTSAGxE2fitrsCukmT"
+      },
+      "artists": [
+        {
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        }
+      ],
+      "duration_ms": 196055,
+      "name": "Honeybee",
+      "url": "https://open.spotify.com/track/5CalS8Gn69OOrR9aiw0ZO9"
     },
     {
       "added_at": "2024-08-28 14:08:37",
@@ -219,18 +219,18 @@
     {
       "added_at": "2024-08-28 14:08:37",
       "album": {
-        "name": "Living Mirage",
-        "url": "https://open.spotify.com/album/27LNgTSAGxE2fitrsCukmT"
+        "name": "The Weatherman",
+        "url": "https://open.spotify.com/album/3IcfYXw7lTtLfG5XWLlSZi"
       },
       "artists": [
         {
-          "name": "The Head And The Heart",
-          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+          "name": "Gregory Alan Isakov",
+          "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
         }
       ],
-      "duration_ms": 196055,
-      "name": "Honeybee",
-      "url": "https://open.spotify.com/track/5CalS8Gn69OOrR9aiw0ZO9"
+      "duration_ms": 198640,
+      "name": "Amsterdam",
+      "url": "https://open.spotify.com/track/7iQmjnDXYngWGsbjVnDc1U"
     },
     {
       "added_at": "2024-08-28 14:08:37",
@@ -311,22 +311,6 @@
     {
       "added_at": "2024-08-28 14:08:37",
       "album": {
-        "name": "And It\u2019s Still Alright",
-        "url": "https://open.spotify.com/album/2bWrnSJNyGevb1pr2VYEGW"
-      },
-      "artists": [
-        {
-          "name": "Nathaniel Rateliff",
-          "url": "https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79"
-        }
-      ],
-      "duration_ms": 235746,
-      "name": "And It's Still Alright",
-      "url": "https://open.spotify.com/track/2tRxHjEkdgGMv9kZbOyqOH"
-    },
-    {
-      "added_at": "2024-08-28 14:08:37",
-      "album": {
         "name": "Signs of Light",
         "url": "https://open.spotify.com/album/0EFitK3T7hqin7iGMbpltM"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 225560,
       "name": "All We Ever Knew",
       "url": "https://open.spotify.com/track/72zmwnbXjx9fMUjw3mbDSs"
+    },
+    {
+      "added_at": "2024-08-28 14:08:37",
+      "album": {
+        "name": "And It\u2019s Still Alright",
+        "url": "https://open.spotify.com/album/2bWrnSJNyGevb1pr2VYEGW"
+      },
+      "artists": [
+        {
+          "name": "Nathaniel Rateliff",
+          "url": "https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79"
+        }
+      ],
+      "duration_ms": 235746,
+      "name": "And It's Still Alright",
+      "url": "https://open.spotify.com/track/2tRxHjEkdgGMv9kZbOyqOH"
     },
     {
       "added_at": "2024-08-28 14:08:37",
@@ -439,22 +439,6 @@
     {
       "added_at": "2024-08-28 14:08:37",
       "album": {
-        "name": "I And Love And You",
-        "url": "https://open.spotify.com/album/2PPFtYUnnqMYflIEn3b7ON"
-      },
-      "artists": [
-        {
-          "name": "The Avett Brothers",
-          "url": "https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q"
-        }
-      ],
-      "duration_ms": 300840,
-      "name": "I And Love And You",
-      "url": "https://open.spotify.com/track/7CEV9VwA8XO9wwxTXgYKvY"
-    },
-    {
-      "added_at": "2024-08-28 14:08:37",
-      "album": {
         "name": "The Recordings of the Middle East",
         "url": "https://open.spotify.com/album/144r7yfO4RiEqyMcPmTXeJ"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 326920,
       "name": "Blood",
       "url": "https://open.spotify.com/track/13yuX1iqobZtQtq5lr8UoC"
+    },
+    {
+      "added_at": "2024-08-28 14:08:37",
+      "album": {
+        "name": "I And Love And You",
+        "url": "https://open.spotify.com/album/2PPFtYUnnqMYflIEn3b7ON"
+      },
+      "artists": [
+        {
+          "name": "The Avett Brothers",
+          "url": "https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q"
+        }
+      ],
+      "duration_ms": 300840,
+      "name": "I And Love And You",
+      "url": "https://open.spotify.com/track/7CEV9VwA8XO9wwxTXgYKvY"
     },
     {
       "added_at": "2024-08-28 14:08:37",
@@ -599,6 +599,22 @@
     {
       "added_at": "2024-08-28 14:08:37",
       "album": {
+        "name": "Shore",
+        "url": "https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3"
+      },
+      "artists": [
+        {
+          "name": "Fleet Foxes",
+          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
+        }
+      ],
+      "duration_ms": 244186,
+      "name": "Can I Believe You",
+      "url": "https://open.spotify.com/track/3pYB28IRzhtR5cHXLINchp"
+    },
+    {
+      "added_at": "2024-08-28 14:08:37",
+      "album": {
         "name": "Quietly Blowing It",
         "url": "https://open.spotify.com/album/1iNOO5VSJciTGogwlClRsa"
       },
@@ -631,22 +647,6 @@
     {
       "added_at": "2024-08-28 14:08:37",
       "album": {
-        "name": "By and By",
-        "url": "https://open.spotify.com/album/4Ib3LE6FimfhNVnY7Tc1zM"
-      },
-      "artists": [
-        {
-          "name": "Caamp",
-          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
-        }
-      ],
-      "duration_ms": 280794,
-      "name": "By and By",
-      "url": "https://open.spotify.com/track/75nZ4W6quZhI55LKiqCXWh"
-    },
-    {
-      "added_at": "2024-08-28 14:08:37",
-      "album": {
         "name": "The Art Of Pretending To Swim",
         "url": "https://open.spotify.com/album/5qhqqenkgCAp3mCKczvvNU"
       },
@@ -663,34 +663,18 @@
     {
       "added_at": "2024-08-28 14:08:37",
       "album": {
-        "name": "Shore",
-        "url": "https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3"
+        "name": "By and By",
+        "url": "https://open.spotify.com/album/4Ib3LE6FimfhNVnY7Tc1zM"
       },
       "artists": [
         {
-          "name": "Fleet Foxes",
-          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
+          "name": "Caamp",
+          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
         }
       ],
-      "duration_ms": 244186,
-      "name": "Can I Believe You",
-      "url": "https://open.spotify.com/track/3pYB28IRzhtR5cHXLINchp"
-    },
-    {
-      "added_at": "2024-08-28 14:08:37",
-      "album": {
-        "name": "Veneer",
-        "url": "https://open.spotify.com/album/2e0BYdQ7VJlzSNHafdmfrl"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
-        }
-      ],
-      "duration_ms": 162920,
-      "name": "Crosses",
-      "url": "https://open.spotify.com/track/0ByKWq0hsuYriK5avSMJ5r"
+      "duration_ms": 280794,
+      "name": "By and By",
+      "url": "https://open.spotify.com/track/75nZ4W6quZhI55LKiqCXWh"
     },
     {
       "added_at": "2024-08-28 14:08:37",
@@ -711,6 +695,22 @@
       "duration_ms": 168760,
       "name": "The Way We Move",
       "url": "https://open.spotify.com/track/40rjypnguxfhPy4Bbv5SWc"
+    },
+    {
+      "added_at": "2024-08-28 14:08:37",
+      "album": {
+        "name": "Veneer",
+        "url": "https://open.spotify.com/album/2e0BYdQ7VJlzSNHafdmfrl"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
+        }
+      ],
+      "duration_ms": 162920,
+      "name": "Crosses",
+      "url": "https://open.spotify.com/track/0ByKWq0hsuYriK5avSMJ5r"
     },
     {
       "added_at": "2024-08-28 14:08:37",
@@ -795,22 +795,6 @@
     {
       "added_at": "2024-08-28 14:08:37",
       "album": {
-        "name": "Believe",
-        "url": "https://open.spotify.com/album/0WOkJaVLYAGfbuBvcKCTCo"
-      },
-      "artists": [
-        {
-          "name": "Caamp",
-          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
-        }
-      ],
-      "duration_ms": 195106,
-      "name": "Believe",
-      "url": "https://open.spotify.com/track/0QFGZqqB1KDpOtyL3vXMXo"
-    },
-    {
-      "added_at": "2024-08-28 14:08:37",
-      "album": {
         "name": "Sing Into My Mouth",
         "url": "https://open.spotify.com/album/0jMBAo2pk2cEE0aJ3WseMl"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 191000,
       "name": "Fingers To The Bone",
       "url": "https://open.spotify.com/track/5g3vDbjW1S08XRb2AZ1rkV"
+    },
+    {
+      "added_at": "2024-08-28 14:08:37",
+      "album": {
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/0WOkJaVLYAGfbuBvcKCTCo"
+      },
+      "artists": [
+        {
+          "name": "Caamp",
+          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
+        }
+      ],
+      "duration_ms": 195106,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/0QFGZqqB1KDpOtyL3vXMXo"
     },
     {
       "added_at": "2024-08-28 14:08:37",
@@ -927,6 +927,22 @@
     {
       "added_at": "2024-08-28 14:08:37",
       "album": {
+        "name": "Salt For Salt",
+        "url": "https://open.spotify.com/album/0SVsGgGApRYVXP466ywwsC"
+      },
+      "artists": [
+        {
+          "name": "Brown Bird",
+          "url": "https://open.spotify.com/artist/5zzbSFZMVpvxSlWAkqqtHP"
+        }
+      ],
+      "duration_ms": 226688,
+      "name": "Bilgewater",
+      "url": "https://open.spotify.com/track/05wB0mSpDASexc98oKZCOw"
+    },
+    {
+      "added_at": "2024-08-28 14:08:37",
+      "album": {
         "name": "You Are Not Alone",
         "url": "https://open.spotify.com/album/5o5TBMTI6OUnM6aDSWOFxV"
       },
@@ -987,22 +1003,6 @@
       "duration_ms": 216173,
       "name": "Build Me Up From Bones",
       "url": "https://open.spotify.com/track/1I9dSqB5XSdwOfn9M8zpRg"
-    },
-    {
-      "added_at": "2024-08-28 14:08:37",
-      "album": {
-        "name": "Salt For Salt",
-        "url": "https://open.spotify.com/album/0SVsGgGApRYVXP466ywwsC"
-      },
-      "artists": [
-        {
-          "name": "Brown Bird",
-          "url": "https://open.spotify.com/artist/5zzbSFZMVpvxSlWAkqqtHP"
-        }
-      ],
-      "duration_ms": 226688,
-      "name": "Bilgewater",
-      "url": "https://open.spotify.com/track/05wB0mSpDASexc98oKZCOw"
     },
     {
       "added_at": "2024-08-28 14:08:37",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2024-08-28 14:08:37",
       "album": {
-        "name": "The Lumineers",
-        "url": "https://open.spotify.com/album/6NWYmlHxAME5KXtxrTlUxW"
-      },
-      "artists": [
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-        }
-      ],
-      "duration_ms": 279000,
-      "name": "Stubborn Love",
-      "url": "https://open.spotify.com/track/3ekNuTF3UpOvIZCfiejpnC"
-    },
-    {
-      "added_at": "2024-08-28 14:08:37",
-      "album": {
         "name": "The Pet Parade",
         "url": "https://open.spotify.com/album/4fyZyhtsOevsFYLbLitaHZ"
       },
@@ -1119,6 +1103,38 @@
     {
       "added_at": "2024-08-28 14:08:37",
       "album": {
+        "name": "The Lumineers",
+        "url": "https://open.spotify.com/album/6NWYmlHxAME5KXtxrTlUxW"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "duration_ms": 279000,
+      "name": "Stubborn Love",
+      "url": "https://open.spotify.com/track/3ekNuTF3UpOvIZCfiejpnC"
+    },
+    {
+      "added_at": "2024-08-28 14:08:37",
+      "album": {
+        "name": "The Phosphorescent Blues",
+        "url": "https://open.spotify.com/album/3cdqpjwuTvDeLe3RYIGb0j"
+      },
+      "artists": [
+        {
+          "name": "Punch Brothers",
+          "url": "https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4"
+        }
+      ],
+      "duration_ms": 326493,
+      "name": "Julep",
+      "url": "https://open.spotify.com/track/5a4ZTEMp6wULHTEzJclKxt"
+    },
+    {
+      "added_at": "2024-08-28 14:08:37",
+      "album": {
         "name": "Dear",
         "url": "https://open.spotify.com/album/11gZYT85Mx4aSiHthMYLLQ"
       },
@@ -1147,22 +1163,6 @@
       "duration_ms": 149426,
       "name": "Devil's Backbone",
       "url": "https://open.spotify.com/track/4qoD4IJbbir3hsAu4IowiG"
-    },
-    {
-      "added_at": "2024-08-28 14:08:37",
-      "album": {
-        "name": "The Phosphorescent Blues",
-        "url": "https://open.spotify.com/album/3cdqpjwuTvDeLe3RYIGb0j"
-      },
-      "artists": [
-        {
-          "name": "Punch Brothers",
-          "url": "https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4"
-        }
-      ],
-      "duration_ms": 326493,
-      "name": "Julep",
-      "url": "https://open.spotify.com/track/5a4ZTEMp6wULHTEzJclKxt"
     },
     {
       "added_at": "2024-08-28 14:08:37",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2024-08-28 14:08:37",
       "album": {
-        "name": "Evening Machines",
-        "url": "https://open.spotify.com/album/5K7PZiOlAn8sxxhh0QTFuJ"
-      },
-      "artists": [
-        {
-          "name": "Gregory Alan Isakov",
-          "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
-        }
-      ],
-      "duration_ms": 272346,
-      "name": "San Luis",
-      "url": "https://open.spotify.com/track/7gDNQLV9cr8449LFrQbk5J"
-    },
-    {
-      "added_at": "2024-08-28 14:08:37",
-      "album": {
         "name": "The Stray Birds",
         "url": "https://open.spotify.com/album/2x0Qf4JKbzTxJHX66XBr0t"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 212026,
       "name": "Dream in Blue",
       "url": "https://open.spotify.com/track/1Bx9I2NyzUpTfmpAQ4BSsR"
+    },
+    {
+      "added_at": "2024-08-28 14:08:37",
+      "album": {
+        "name": "Evening Machines",
+        "url": "https://open.spotify.com/album/5K7PZiOlAn8sxxhh0QTFuJ"
+      },
+      "artists": [
+        {
+          "name": "Gregory Alan Isakov",
+          "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
+        }
+      ],
+      "duration_ms": 272346,
+      "name": "San Luis",
+      "url": "https://open.spotify.com/track/7gDNQLV9cr8449LFrQbk5J"
     },
     {
       "added_at": "2024-08-28 14:08:37",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2024-08-28 14:08:37",
       "album": {
-        "name": "Rubber",
-        "url": "https://open.spotify.com/album/6Q5lfwMABVKmk5sv6uS1mV"
-      },
-      "artists": [
-        {
-          "name": "Ruston Kelly",
-          "url": "https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I"
-        }
-      ],
-      "duration_ms": 198373,
-      "name": "Rubber",
-      "url": "https://open.spotify.com/track/3dsZCq57TheazHh1GVAJwO"
-    },
-    {
-      "added_at": "2024-08-28 14:08:37",
-      "album": {
         "name": "Spotify Sessions",
         "url": "https://open.spotify.com/album/2j80e8guCnpYphNJW8hSaX"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 239080,
       "name": "No One's Gonna Love You - Live from Spotify Sweden",
       "url": "https://open.spotify.com/track/5MYfpFJYm8WNFGssR6H2Oz"
+    },
+    {
+      "added_at": "2024-08-28 14:08:37",
+      "album": {
+        "name": "Rubber",
+        "url": "https://open.spotify.com/album/6Q5lfwMABVKmk5sv6uS1mV"
+      },
+      "artists": [
+        {
+          "name": "Ruston Kelly",
+          "url": "https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I"
+        }
+      ],
+      "duration_ms": 198373,
+      "name": "Rubber",
+      "url": "https://open.spotify.com/track/3dsZCq57TheazHh1GVAJwO"
     },
     {
       "added_at": "2024-08-28 14:08:37",
@@ -1483,6 +1483,22 @@
     {
       "added_at": "2024-08-28 14:08:37",
       "album": {
+        "name": "Freedom Highway",
+        "url": "https://open.spotify.com/album/1CVuPxNHwY5ORJ8MhjD0UB"
+      },
+      "artists": [
+        {
+          "name": "Rhiannon Giddens",
+          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
+        }
+      ],
+      "duration_ms": 256560,
+      "name": "At the Purchaser's Option",
+      "url": "https://open.spotify.com/track/5RmAtT0VaKttU0Eybo6ZWA"
+    },
+    {
+      "added_at": "2024-08-28 14:08:37",
+      "album": {
         "name": "Love Has Come For You",
         "url": "https://open.spotify.com/album/3EI8YIXlPsYfyDXaAh3O7P"
       },
@@ -1503,22 +1519,6 @@
     {
       "added_at": "2024-08-28 14:08:37",
       "album": {
-        "name": "Freedom Highway",
-        "url": "https://open.spotify.com/album/1CVuPxNHwY5ORJ8MhjD0UB"
-      },
-      "artists": [
-        {
-          "name": "Rhiannon Giddens",
-          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
-        }
-      ],
-      "duration_ms": 256560,
-      "name": "At the Purchaser's Option",
-      "url": "https://open.spotify.com/track/5RmAtT0VaKttU0Eybo6ZWA"
-    },
-    {
-      "added_at": "2024-08-28 14:08:37",
-      "album": {
         "name": "Old World Romance",
         "url": "https://open.spotify.com/album/35PDjoZa0FrKAmDo1coCyo"
       },
@@ -1531,22 +1531,6 @@
       "duration_ms": 237160,
       "name": "Old Friend",
       "url": "https://open.spotify.com/track/3pvTrpsqbBF3OduTOPOkii"
-    },
-    {
-      "added_at": "2024-08-28 14:08:37",
-      "album": {
-        "name": "The Harrow & The Harvest",
-        "url": "https://open.spotify.com/album/5uz9hkZeN7l5KHtmMDqgR0"
-      },
-      "artists": [
-        {
-          "name": "Gillian Welch",
-          "url": "https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz"
-        }
-      ],
-      "duration_ms": 292160,
-      "name": "Hard Times",
-      "url": "https://open.spotify.com/track/3FJ46AfhOr2TyfhVTlK1sj"
     },
     {
       "added_at": "2024-08-28 14:08:37",
@@ -1567,18 +1551,18 @@
     {
       "added_at": "2024-08-28 14:08:37",
       "album": {
-        "name": "Trouble",
-        "url": "https://open.spotify.com/album/2DQHgaOMVOs2OKLaksiMx9"
+        "name": "The Harrow & The Harvest",
+        "url": "https://open.spotify.com/album/5uz9hkZeN7l5KHtmMDqgR0"
       },
       "artists": [
         {
-          "name": "Ray LaMontagne",
-          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
+          "name": "Gillian Welch",
+          "url": "https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz"
         }
       ],
-      "duration_ms": 250866,
-      "name": "Jolene",
-      "url": "https://open.spotify.com/track/2fSIF8CJhoc9CJhF9vJDXp"
+      "duration_ms": 292160,
+      "name": "Hard Times",
+      "url": "https://open.spotify.com/track/3FJ46AfhOr2TyfhVTlK1sj"
     },
     {
       "added_at": "2024-08-28 14:08:37",
@@ -1595,6 +1579,22 @@
       "duration_ms": 232866,
       "name": "Snowden's Jig (Genuine Negro Jig)",
       "url": "https://open.spotify.com/track/7qQ0kz6o0LQOLK3m0xKzYp"
+    },
+    {
+      "added_at": "2024-08-28 14:08:37",
+      "album": {
+        "name": "Trouble",
+        "url": "https://open.spotify.com/album/2DQHgaOMVOs2OKLaksiMx9"
+      },
+      "artists": [
+        {
+          "name": "Ray LaMontagne",
+          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
+        }
+      ],
+      "duration_ms": 250866,
+      "name": "Jolene",
+      "url": "https://open.spotify.com/track/2fSIF8CJhoc9CJhF9vJDXp"
     },
     {
       "added_at": "2024-08-28 14:08:37",

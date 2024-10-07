@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5SUu7au16Jd2bvqWVN09HM">Jon "MAGS" Maguire</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-89 songs - 4 hr 35 min
+90 songs - 4 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Lying That You Love Me](https://open.spotify.com/track/5uzVktek96iav42umOw4eL) | [JC Stewart](https://open.spotify.com/artist/2TAqN8fwfaKauvviN4pOsv) | [Lying That You Love Me](https://open.spotify.com/album/6Cr3ivBN5B2K8RGuICgywg) | 3:45 | 2024-05-01 |  |
 | [Me and the Moon](https://open.spotify.com/track/1kC5ztNhsVxh3uKBSKAout) | [Shane Filan](https://open.spotify.com/artist/3Q2ya2vGeOhQ9CaF9wWNP6) | [Right Here](https://open.spotify.com/album/2X5hXnYddswmHZUDOsHq0D) | 3:35 | 2024-05-01 |  |
 | [Mercedes](https://open.spotify.com/track/0kfY0oZBLuvIZz5ccq8khh) | [Kumi Koda](https://open.spotify.com/artist/2mGYHril2LuZodRtTX06BC) | [WALK OF MY LIFE](https://open.spotify.com/album/74m4nnIEJqwiBD3Lv6f4Xt) | 2:54 | 2024-05-01 |  |
+| [My World](https://open.spotify.com/track/0nKVI2mlBFkdjAdZH61rLF) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [My World](https://open.spotify.com/album/3a7cMtEKE1BMV0BoH9MwvV) | 3:23 | 2024-10-06 |  |
 | [Never Give Up on Us](https://open.spotify.com/track/6T7Z0YRT0cHxkhmcNkkqSf) | [Connie Talbot](https://open.spotify.com/artist/6v6kEdFKqKZ2T7XjjBD9um) | [Never Give Up on Us](https://open.spotify.com/album/34UFv48EtDCZ0dJkDPGT07) | 3:48 | 2024-05-01 |  |
 | [Never Wanna Fall in Love](https://open.spotify.com/track/1CniRSNjJmLuD2vnf1G96U) | [Catherine McGrath](https://open.spotify.com/artist/0db28KdTi7VNaTipfAnlWQ) | [Starting From Now](https://open.spotify.com/album/7xtbwxSS5gmY4kAILOYgSw) | 3:14 | 2024-05-01 |  |
 | [No Fun](https://open.spotify.com/track/1q3qh7hEJrPmPH7uOteYSr) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [The Stickmen Project](https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY) | [Feel Again](https://open.spotify.com/album/2uqVgoe1PcKmwx3ihlbevM) | 2:10 | 2024-05-01 |  |

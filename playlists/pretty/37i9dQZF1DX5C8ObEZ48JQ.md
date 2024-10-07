@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 
 > The best new music by independent African artists and labels\. Cover:  <a href="https://open.spotify.com/artist/3WcXJ1FwSFJU88zc7vV9rz?si=\-RCMvClJTQK05j3D\_A5kFg">Lusanda</a>\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,769 likes - 55 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,780 likes - 55 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 | 51 | [She Knows \(Blasé\)](https://open.spotify.com/track/7vNF37TITkdgRLvn6kxb68) | [Sosa.ttw](https://open.spotify.com/artist/5yh4KL43XecTrNwFmDF7Ko), [Sinachi](https://open.spotify.com/artist/3Oo9PudiVUZjuCdJBBn4si), [Elizabeth Olowo](https://open.spotify.com/artist/1CHnKmjSG9LuRn8RelTwlH) | [She Knows \(Blasé\)](https://open.spotify.com/album/1L2BWHFLzWV6ss8FioQjb6) | 2:54 |
 | 52 | [Intentions](https://open.spotify.com/track/1r2LiQFJMQWRGA6WXoH94D) | [Juno](https://open.spotify.com/artist/1K8EfKCk74fvBfCFiyK8is) | [Intentions](https://open.spotify.com/album/3YGUNISxOueyv1Ut6zrY0J) | 2:32 |
 | 53 | [IF I DO, IF I DON'T](https://open.spotify.com/track/0BGksyPJgbgD9oRnNYvlat) | [Vallerie Muthoni](https://open.spotify.com/artist/0BODXRyhRpJie8h9qpZb9E) | [VISION 2020](https://open.spotify.com/album/18E926OD0EL7QrLWo3ymBy) | 3:14 |
-| 54 | [Connection](https://open.spotify.com/track/3MXjzxegYEzR3WiR7Hbsr8) | [Kavali King](https://open.spotify.com/artist/72NnAw7RD362zfQsBPvoPn), [Jenesis Kimera](https://open.spotify.com/artist/6YmseNp2UAHXEbAepWOv4c), [Ambroy](https://open.spotify.com/artist/2L0egU2y6jaNGuCnzVtqfj), [Sando](https://open.spotify.com/artist/3RoYpbS2PXGttEPmovNYFN) | [Connection](https://open.spotify.com/album/1SAbwah1ZdkBuRwtOE9iah) | 3:45 |
+| 54 | [Connection](https://open.spotify.com/track/3MXjzxegYEzR3WiR7Hbsr8) | [Kavali King](https://open.spotify.com/artist/72NnAw7RD362zfQsBPvoPn), [Jenesis Kimera](https://open.spotify.com/artist/6YmseNp2UAHXEbAepWOv4c), [Ambroy](https://open.spotify.com/artist/2L0egU2y6jaNGuCnzVtqfj), [STANDO](https://open.spotify.com/artist/5G3V3r02GoRoBE5jZZzfUR) | [Connection](https://open.spotify.com/album/1SAbwah1ZdkBuRwtOE9iah) | 3:45 |
 | 55 | [Wangu](https://open.spotify.com/track/17rkTOPJELyRofPM1MX3s3) | [Nasibi](https://open.spotify.com/artist/1XdK619e8CJcR5D5nxGF0h) | [Into the Nasiverse](https://open.spotify.com/album/0HkqZ2JBwE9BtTUors9GYw) | 4:04 |
 
 Snapshot ID: `Zv/OBAAAAACb0fSsa1otFY6Mg6zTYiTu`

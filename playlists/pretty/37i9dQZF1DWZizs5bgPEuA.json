@@ -1,6 +1,6 @@
 {
   "description": "Music by our 2024 Artists To Watch. Cover: Jasiel Nu\u00f1ez",
-  "num_followers": 5534,
+  "num_followers": 5536,
   "original_name": "Viva Latino Artists To Watch",
   "owner": {
     "name": "Spotify",
@@ -135,26 +135,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "SAKURA",
-        "url": "https://open.spotify.com/album/5z4aZJ5U7LqwRc2tXk98cc"
-      },
-      "artists": [
-        {
-          "name": "SAIKO",
-          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
-        },
-        {
-          "name": "Omar Montes",
-          "url": "https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF"
-        }
-      ],
-      "duration_ms": 175456,
-      "name": "YO LO SO\u00d1\u00c9",
-      "url": "https://open.spotify.com/track/68qjM8nSoUj8YQOJuu6hZ8"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Gracias",
         "url": "https://open.spotify.com/album/3chlK1TsdvDxw0NB7o5W8S"
       },
@@ -167,6 +147,54 @@
       "duration_ms": 132000,
       "name": "Gracias",
       "url": "https://open.spotify.com/track/58G2ukj1pUgsZZo5MHX9U3"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Exclusive",
+        "url": "https://open.spotify.com/album/3AIRDrD1ScPbFhgqdG0k7O"
+      },
+      "artists": [
+        {
+          "name": "Jasiel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+        }
+      ],
+      "duration_ms": 170089,
+      "name": "Exclusive",
+      "url": "https://open.spotify.com/track/46exxtUZ41hRS4RudfrVJw"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "La V\u00edctima",
+        "url": "https://open.spotify.com/album/30KJEN3ICjhYsZ1NgunRCr"
+      },
+      "artists": [
+        {
+          "name": "Xavi",
+          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
+        }
+      ],
+      "duration_ms": 156345,
+      "name": "La V\u00edctima",
+      "url": "https://open.spotify.com/track/5XVdHRf4CAJ2Jm0uMIy5qY"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Cumbialicious",
+        "url": "https://open.spotify.com/album/0nbjdwPL1EjjNmVZr8hTnG"
+      },
+      "artists": [
+        {
+          "name": "Estevie",
+          "url": "https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp"
+        }
+      ],
+      "duration_ms": 134549,
+      "name": "la cumbia del cucuy",
+      "url": "https://open.spotify.com/track/4KpXzvH7Gtqc8BVnkov3Ui"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -191,34 +219,22 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "La V\u00edctima",
-        "url": "https://open.spotify.com/album/30KJEN3ICjhYsZ1NgunRCr"
+        "name": "SAKURA",
+        "url": "https://open.spotify.com/album/5z4aZJ5U7LqwRc2tXk98cc"
       },
       "artists": [
         {
-          "name": "Xavi",
-          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
-        }
-      ],
-      "duration_ms": 156345,
-      "name": "La V\u00edctima",
-      "url": "https://open.spotify.com/track/5XVdHRf4CAJ2Jm0uMIy5qY"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "Quien Es Dei V?",
-        "url": "https://open.spotify.com/album/1crhj8lhrbNVe159yiSWlC"
-      },
-      "artists": [
+          "name": "SAIKO",
+          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
+        },
         {
-          "name": "Dei V",
-          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+          "name": "Omar Montes",
+          "url": "https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF"
         }
       ],
-      "duration_ms": 162244,
-      "name": "Quien Es Dei V?",
-      "url": "https://open.spotify.com/track/5nSUskJwcSRFS9dIqrVfrv"
+      "duration_ms": 175456,
+      "name": "YO LO SO\u00d1\u00c9",
+      "url": "https://open.spotify.com/track/68qjM8nSoUj8YQOJuu6hZ8"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -243,38 +259,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Exclusive",
-        "url": "https://open.spotify.com/album/3AIRDrD1ScPbFhgqdG0k7O"
-      },
-      "artists": [
-        {
-          "name": "Jasiel Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
-        }
-      ],
-      "duration_ms": 170089,
-      "name": "Exclusive",
-      "url": "https://open.spotify.com/track/46exxtUZ41hRS4RudfrVJw"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "Cumbialicious",
-        "url": "https://open.spotify.com/album/0nbjdwPL1EjjNmVZr8hTnG"
-      },
-      "artists": [
-        {
-          "name": "Estevie",
-          "url": "https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp"
-        }
-      ],
-      "duration_ms": 134549,
-      "name": "la cumbia del cucuy",
-      "url": "https://open.spotify.com/track/4KpXzvH7Gtqc8BVnkov3Ui"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "El Gordo Trae El Mando",
         "url": "https://open.spotify.com/album/0DqHNI5QhosQmpQ5Ojzqe6"
       },
@@ -291,38 +275,18 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "SAKURA",
-        "url": "https://open.spotify.com/album/5z4aZJ5U7LqwRc2tXk98cc"
+        "name": "Quien Es Dei V?",
+        "url": "https://open.spotify.com/album/1crhj8lhrbNVe159yiSWlC"
       },
       "artists": [
         {
-          "name": "SAIKO",
-          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
         }
       ],
-      "duration_ms": 138677,
-      "name": "COMO SUENAN LAS ESTRELLAS",
-      "url": "https://open.spotify.com/track/29MAYnmNwruONslO4E1iZD"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "SANDUNGUEA",
-        "url": "https://open.spotify.com/album/4NEEk4i3IvRIoUKsYDM1Lf"
-      },
-      "artists": [
-        {
-          "name": "Bellakath",
-          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
-        },
-        {
-          "name": "Ruzzo Doblezz",
-          "url": "https://open.spotify.com/artist/4GK4U1lkvejUHBFsqyv23D"
-        }
-      ],
-      "duration_ms": 154634,
-      "name": "SANDUNGUEA",
-      "url": "https://open.spotify.com/track/3GbLOCHhuhdGhuKm5zkQjz"
+      "duration_ms": 162244,
+      "name": "Quien Es Dei V?",
+      "url": "https://open.spotify.com/track/5nSUskJwcSRFS9dIqrVfrv"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -363,22 +327,34 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "CLIMA (with Foreign Teck)",
-        "url": "https://open.spotify.com/album/5DllpnHoUTYe6Wjd5trxJP"
+        "name": "la manera que me ves",
+        "url": "https://open.spotify.com/album/5gZF8qpBbCqS3wFM5auROr"
       },
       "artists": [
         {
-          "name": "Dei V",
-          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
-        },
-        {
-          "name": "Foreign Teck",
-          "url": "https://open.spotify.com/artist/12lHTAdc9T204lw5qPtasv"
+          "name": "Estevie",
+          "url": "https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp"
         }
       ],
-      "duration_ms": 164042,
-      "name": "CLIMA (with Foreign Teck)",
-      "url": "https://open.spotify.com/track/6HWm8rj8kX5AXUZAyciF14"
+      "duration_ms": 229549,
+      "name": "la manera que me ves",
+      "url": "https://open.spotify.com/track/52uZksxrYq597nsAn7LDxt"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "SAKURA",
+        "url": "https://open.spotify.com/album/5z4aZJ5U7LqwRc2tXk98cc"
+      },
+      "artists": [
+        {
+          "name": "SAIKO",
+          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
+        }
+      ],
+      "duration_ms": 138677,
+      "name": "COMO SUENAN LAS ESTRELLAS",
+      "url": "https://open.spotify.com/track/29MAYnmNwruONslO4E1iZD"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -395,6 +371,46 @@
       "duration_ms": 254348,
       "name": "Obvio Bien",
       "url": "https://open.spotify.com/track/1tB9yQnhyBrnft7mUSpbEh"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "SANDUNGUEA",
+        "url": "https://open.spotify.com/album/4NEEk4i3IvRIoUKsYDM1Lf"
+      },
+      "artists": [
+        {
+          "name": "Bellakath",
+          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
+        },
+        {
+          "name": "Ruzzo Doblezz",
+          "url": "https://open.spotify.com/artist/4GK4U1lkvejUHBFsqyv23D"
+        }
+      ],
+      "duration_ms": 154634,
+      "name": "SANDUNGUEA",
+      "url": "https://open.spotify.com/track/3GbLOCHhuhdGhuKm5zkQjz"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "CLIMA (with Foreign Teck)",
+        "url": "https://open.spotify.com/album/5DllpnHoUTYe6Wjd5trxJP"
+      },
+      "artists": [
+        {
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+        },
+        {
+          "name": "Foreign Teck",
+          "url": "https://open.spotify.com/artist/12lHTAdc9T204lw5qPtasv"
+        }
+      ],
+      "duration_ms": 164042,
+      "name": "CLIMA (with Foreign Teck)",
+      "url": "https://open.spotify.com/track/6HWm8rj8kX5AXUZAyciF14"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -431,8 +447,8 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "la manera que me ves",
-        "url": "https://open.spotify.com/album/5gZF8qpBbCqS3wFM5auROr"
+        "name": "Chiki Bomb\u00f3n",
+        "url": "https://open.spotify.com/album/32YOvP63wnklptWCwAOZx5"
       },
       "artists": [
         {
@@ -440,9 +456,9 @@
           "url": "https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp"
         }
       ],
-      "duration_ms": 229549,
-      "name": "la manera que me ves",
-      "url": "https://open.spotify.com/track/52uZksxrYq597nsAn7LDxt"
+      "duration_ms": 122768,
+      "name": "Chiki Bomb\u00f3n",
+      "url": "https://open.spotify.com/track/1SXwXMVllOY1IHVjtol5VL"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -479,22 +495,6 @@
       "duration_ms": 184795,
       "name": "Hielo",
       "url": "https://open.spotify.com/track/1buOWQg3BhMC5SNp1eeTPq"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "Chiki Bomb\u00f3n",
-        "url": "https://open.spotify.com/album/32YOvP63wnklptWCwAOZx5"
-      },
-      "artists": [
-        {
-          "name": "Estevie",
-          "url": "https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp"
-        }
-      ],
-      "duration_ms": 122768,
-      "name": "Chiki Bomb\u00f3n",
-      "url": "https://open.spotify.com/track/1SXwXMVllOY1IHVjtol5VL"
     },
     {
       "added_at": "2024-07-12 04:00:00",

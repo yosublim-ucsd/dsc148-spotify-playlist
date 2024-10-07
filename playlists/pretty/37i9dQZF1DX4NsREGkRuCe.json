@@ -1,6 +1,6 @@
 {
   "description": "Turn traffic stops into jam sessions.",
-  "num_followers": 85380,
+  "num_followers": 85460,
   "original_name": "Traffic Jams Naija ",
   "owner": {
     "name": "Spotify",
@@ -111,6 +111,26 @@
     {
       "added_at": "2024-10-04 05:49:51",
       "album": {
+        "name": "Favourite Girl (with Rema)",
+        "url": "https://open.spotify.com/album/4TFhO9eXlG7Xb4RzSz5tOU"
+      },
+      "artists": [
+        {
+          "name": "Darkoo",
+          "url": "https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR"
+        },
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "duration_ms": 184800,
+      "name": "Favourite Girl (with Rema)",
+      "url": "https://open.spotify.com/track/2irQkcW7o3v0tZoGZrtUsO"
+    },
+    {
+      "added_at": "2024-10-04 05:49:51",
+      "album": {
         "name": "One Call",
         "url": "https://open.spotify.com/album/4jrDs3Kg7zJlgQnIZrZP8a"
       },
@@ -131,26 +151,6 @@
       "duration_ms": 158712,
       "name": "One Call",
       "url": "https://open.spotify.com/track/3qSk5TP4A8gQIsb8iNVwnx"
-    },
-    {
-      "added_at": "2024-10-04 05:49:51",
-      "album": {
-        "name": "Favourite Girl (with Rema)",
-        "url": "https://open.spotify.com/album/4TFhO9eXlG7Xb4RzSz5tOU"
-      },
-      "artists": [
-        {
-          "name": "Darkoo",
-          "url": "https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR"
-        },
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        }
-      ],
-      "duration_ms": 184800,
-      "name": "Favourite Girl (with Rema)",
-      "url": "https://open.spotify.com/track/2irQkcW7o3v0tZoGZrtUsO"
     },
     {
       "added_at": "2024-10-04 05:49:51",
@@ -347,22 +347,6 @@
     {
       "added_at": "2024-10-04 05:49:51",
       "album": {
-        "name": "Moving",
-        "url": "https://open.spotify.com/album/3sS2beAsBBlz5ZSbhOuGeV"
-      },
-      "artists": [
-        {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        }
-      ],
-      "duration_ms": 140367,
-      "name": "Moving",
-      "url": "https://open.spotify.com/track/664mVcYRMDsVnOg95R71Ti"
-    },
-    {
-      "added_at": "2024-10-04 05:49:51",
-      "album": {
         "name": "Wave",
         "url": "https://open.spotify.com/album/65dLAih8fOf5UUkplKRvdR"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 205263,
       "name": "Wave",
       "url": "https://open.spotify.com/track/780BUxpCmW9vOVYZsqdLLE"
+    },
+    {
+      "added_at": "2024-10-04 05:49:51",
+      "album": {
+        "name": "Moving",
+        "url": "https://open.spotify.com/album/3sS2beAsBBlz5ZSbhOuGeV"
+      },
+      "artists": [
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "duration_ms": 140367,
+      "name": "Moving",
+      "url": "https://open.spotify.com/track/664mVcYRMDsVnOg95R71Ti"
     },
     {
       "added_at": "2024-10-04 05:49:51",
@@ -543,26 +543,6 @@
     {
       "added_at": "2024-10-04 05:49:51",
       "album": {
-        "name": "adedamola",
-        "url": "https://open.spotify.com/album/0mxle2p72zngkE9p4KAE0A"
-      },
-      "artists": [
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        },
-        {
-          "name": "Lagbaja",
-          "url": "https://open.spotify.com/artist/2caVTY3yVrcZ3iaB7rIaY2"
-        }
-      ],
-      "duration_ms": 212666,
-      "name": "back n forth",
-      "url": "https://open.spotify.com/track/2q7BfsGmjmUbxn5VkI6QKN"
-    },
-    {
-      "added_at": "2024-10-04 05:49:51",
-      "album": {
         "name": "Instagram",
         "url": "https://open.spotify.com/album/0GyUBLiSgnRIMnV0H6bP8S"
       },
@@ -579,6 +559,26 @@
       "duration_ms": 140606,
       "name": "Instagram",
       "url": "https://open.spotify.com/track/1Ss5QjczHsdYkvNsiBmoqS"
+    },
+    {
+      "added_at": "2024-10-04 05:49:51",
+      "album": {
+        "name": "adedamola",
+        "url": "https://open.spotify.com/album/0mxle2p72zngkE9p4KAE0A"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        },
+        {
+          "name": "Lagbaja",
+          "url": "https://open.spotify.com/artist/2caVTY3yVrcZ3iaB7rIaY2"
+        }
+      ],
+      "duration_ms": 212666,
+      "name": "back n forth",
+      "url": "https://open.spotify.com/track/2q7BfsGmjmUbxn5VkI6QKN"
     },
     {
       "added_at": "2024-10-04 05:49:51",
@@ -631,22 +631,6 @@
     {
       "added_at": "2024-10-04 05:49:51",
       "album": {
-        "name": "Avana (Deluxe)",
-        "url": "https://open.spotify.com/album/0Y6z5zNbCGEiD6dHeEUtgV"
-      },
-      "artists": [
-        {
-          "name": "Olivetheboy",
-          "url": "https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1"
-        }
-      ],
-      "duration_ms": 182222,
-      "name": "Asylum",
-      "url": "https://open.spotify.com/track/1Cek6PV24GtEk4GDWqFbCk"
-    },
-    {
-      "added_at": "2024-10-04 05:49:51",
-      "album": {
         "name": "Xin Mao",
         "url": "https://open.spotify.com/album/2xBdv4TVpVXG9U8K3om1WQ"
       },
@@ -667,18 +651,18 @@
     {
       "added_at": "2024-10-04 05:49:51",
       "album": {
-        "name": "everyday",
-        "url": "https://open.spotify.com/album/4atn1aHLq3H0jxE5kJs2S7"
+        "name": "Avana (Deluxe)",
+        "url": "https://open.spotify.com/album/0Y6z5zNbCGEiD6dHeEUtgV"
       },
       "artists": [
         {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+          "name": "Olivetheboy",
+          "url": "https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1"
         }
       ],
-      "duration_ms": 166350,
-      "name": "everyday",
-      "url": "https://open.spotify.com/track/2yskKhqtDAHJ73obmJh8tf"
+      "duration_ms": 182222,
+      "name": "Asylum",
+      "url": "https://open.spotify.com/track/1Cek6PV24GtEk4GDWqFbCk"
     },
     {
       "added_at": "2024-10-04 05:49:51",
@@ -743,6 +727,22 @@
     {
       "added_at": "2024-10-04 05:49:51",
       "album": {
+        "name": "everyday",
+        "url": "https://open.spotify.com/album/4atn1aHLq3H0jxE5kJs2S7"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "duration_ms": 166350,
+      "name": "everyday",
+      "url": "https://open.spotify.com/track/2yskKhqtDAHJ73obmJh8tf"
+    },
+    {
+      "added_at": "2024-10-04 05:49:51",
+      "album": {
         "name": "Adenuga x Concerning",
         "url": "https://open.spotify.com/album/1O3r2Q1sb3XUuUFwbJQKo2"
       },
@@ -759,22 +759,6 @@
       "duration_ms": 160000,
       "name": "Adenuga (feat. Qing Madi)",
       "url": "https://open.spotify.com/track/74CA9T8IpFzrLNFV6EoY3a"
-    },
-    {
-      "added_at": "2024-10-04 05:49:51",
-      "album": {
-        "name": "adedamola",
-        "url": "https://open.spotify.com/album/0mxle2p72zngkE9p4KAE0A"
-      },
-      "artists": [
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        }
-      ],
-      "duration_ms": 161086,
-      "name": "hell and back",
-      "url": "https://open.spotify.com/track/1v9AZkRJoirN00lAC3Pvd8"
     },
     {
       "added_at": "2024-10-04 05:49:51",
@@ -823,6 +807,22 @@
     {
       "added_at": "2024-10-04 05:49:51",
       "album": {
+        "name": "Marhaba X We Must",
+        "url": "https://open.spotify.com/album/2ElVuPg0F7mHNcveABN2Rw"
+      },
+      "artists": [
+        {
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        }
+      ],
+      "duration_ms": 143187,
+      "name": "Marhaba",
+      "url": "https://open.spotify.com/track/5FzsdlFgAFN1aSe9YwoN6s"
+    },
+    {
+      "added_at": "2024-10-04 05:49:51",
+      "album": {
         "name": "Loseyi Professor",
         "url": "https://open.spotify.com/album/38tvoGnBsZNd8FJg2YsCT4"
       },
@@ -855,6 +855,22 @@
     {
       "added_at": "2024-10-04 05:49:51",
       "album": {
+        "name": "Giddem",
+        "url": "https://open.spotify.com/album/6gcDQQWUvBBKFAwrJrIRGH"
+      },
+      "artists": [
+        {
+          "name": "Naira Marley",
+          "url": "https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "Giddem",
+      "url": "https://open.spotify.com/track/4g52MWu8RhJYIkM9NdLvUN"
+    },
+    {
+      "added_at": "2024-10-04 05:49:51",
+      "album": {
         "name": "Lately (feat. Ruger)",
         "url": "https://open.spotify.com/album/23rrPoEvZbtSJwrgZiyMyF"
       },
@@ -875,38 +891,6 @@
     {
       "added_at": "2024-10-04 05:49:51",
       "album": {
-        "name": "Marhaba X We Must",
-        "url": "https://open.spotify.com/album/2ElVuPg0F7mHNcveABN2Rw"
-      },
-      "artists": [
-        {
-          "name": "Kizz Daniel",
-          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
-        }
-      ],
-      "duration_ms": 143187,
-      "name": "Marhaba",
-      "url": "https://open.spotify.com/track/5FzsdlFgAFN1aSe9YwoN6s"
-    },
-    {
-      "added_at": "2024-10-04 05:49:51",
-      "album": {
-        "name": "Giddem",
-        "url": "https://open.spotify.com/album/6gcDQQWUvBBKFAwrJrIRGH"
-      },
-      "artists": [
-        {
-          "name": "Naira Marley",
-          "url": "https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "Giddem",
-      "url": "https://open.spotify.com/track/4g52MWu8RhJYIkM9NdLvUN"
-    },
-    {
-      "added_at": "2024-10-04 05:49:51",
-      "album": {
         "name": "Ikigai / \u751f\u304d\u7532\u6590, Vol. 1",
         "url": "https://open.spotify.com/album/4L4439Ev3pC3bRZdmKUCgI"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 136732,
       "name": "Hello Habibi",
       "url": "https://open.spotify.com/track/4nj32rIPm4mqx15x8B1meM"
+    },
+    {
+      "added_at": "2024-10-04 05:49:51",
+      "album": {
+        "name": "adedamola",
+        "url": "https://open.spotify.com/album/0mxle2p72zngkE9p4KAE0A"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "duration_ms": 161086,
+      "name": "hell and back",
+      "url": "https://open.spotify.com/track/1v9AZkRJoirN00lAC3Pvd8"
     },
     {
       "added_at": "2024-10-04 05:49:51",
@@ -1347,26 +1347,6 @@
     {
       "added_at": "2024-10-04 05:49:51",
       "album": {
-        "name": "Welcome To The Pack",
-        "url": "https://open.spotify.com/album/4oF2ZFUWmjZsD1wmAJVnln"
-      },
-      "artists": [
-        {
-          "name": "Alpha P",
-          "url": "https://open.spotify.com/artist/3dUPwMGYAsymFv80wkqEKl"
-        },
-        {
-          "name": "Kemuel",
-          "url": "https://open.spotify.com/artist/0ixmjHuzMTxPyps7w28tnH"
-        }
-      ],
-      "duration_ms": 141030,
-      "name": "OMW",
-      "url": "https://open.spotify.com/track/2OAO4w8g6RvJn8LUACoHzJ"
-    },
-    {
-      "added_at": "2024-10-04 05:49:51",
-      "album": {
         "name": "LAST WEEK",
         "url": "https://open.spotify.com/album/1RnhiJQw2Z7rjETKvOxZiC"
       },
@@ -1423,6 +1403,26 @@
     {
       "added_at": "2024-10-04 05:49:51",
       "album": {
+        "name": "Welcome To The Pack",
+        "url": "https://open.spotify.com/album/4oF2ZFUWmjZsD1wmAJVnln"
+      },
+      "artists": [
+        {
+          "name": "Alpha P",
+          "url": "https://open.spotify.com/artist/3dUPwMGYAsymFv80wkqEKl"
+        },
+        {
+          "name": "Kemuel",
+          "url": "https://open.spotify.com/artist/0ixmjHuzMTxPyps7w28tnH"
+        }
+      ],
+      "duration_ms": 141030,
+      "name": "OMW",
+      "url": "https://open.spotify.com/track/2OAO4w8g6RvJn8LUACoHzJ"
+    },
+    {
+      "added_at": "2024-10-04 05:49:51",
+      "album": {
         "name": "Looking for God",
         "url": "https://open.spotify.com/album/6mPOuVIBfjt3Qj8DySayjZ"
       },
@@ -1459,26 +1459,6 @@
     {
       "added_at": "2024-10-04 05:49:51",
       "album": {
-        "name": "JABO",
-        "url": "https://open.spotify.com/album/4HBc5xjhUSTusWkAqEL8iv"
-      },
-      "artists": [
-        {
-          "name": "Boj",
-          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
-        },
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        }
-      ],
-      "duration_ms": 197400,
-      "name": "JABO",
-      "url": "https://open.spotify.com/track/4oeH9c9ca6CS2xHytLLRnP"
-    },
-    {
-      "added_at": "2024-10-04 05:49:51",
-      "album": {
         "name": "Molo (feat. LeeMcKrazy, Matute Boy & DJ Exit)",
         "url": "https://open.spotify.com/album/72VgXlfenVnbl9E3ZKiTjl"
       },
@@ -1507,22 +1487,6 @@
       "duration_ms": 339928,
       "name": "Molo (feat. LeeMcKrazy, Matute Boy & DJ Exit)",
       "url": "https://open.spotify.com/track/4djAFXU6ni8S2T4oxW3yD8"
-    },
-    {
-      "added_at": "2024-10-04 05:49:51",
-      "album": {
-        "name": "Fire on Me",
-        "url": "https://open.spotify.com/album/3cuQSfweyhIUnQIHdb3KcT"
-      },
-      "artists": [
-        {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
-        }
-      ],
-      "duration_ms": 134187,
-      "name": "Fire on Me",
-      "url": "https://open.spotify.com/track/2mJs0gLnOGASpyucQrroJa"
     },
     {
       "added_at": "2024-10-04 05:49:51",
@@ -1563,18 +1527,58 @@
     {
       "added_at": "2024-10-04 05:49:51",
       "album": {
-        "name": "Dami Drizzy",
-        "url": "https://open.spotify.com/album/59yYbu2ugAw7hIURHWI0wK"
+        "name": "JABO",
+        "url": "https://open.spotify.com/album/4HBc5xjhUSTusWkAqEL8iv"
       },
       "artists": [
         {
-          "name": "Dami Drizzy",
-          "url": "https://open.spotify.com/artist/2bn1VtEgnNAF8B4TdyAbjQ"
+          "name": "Boj",
+          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
         }
       ],
-      "duration_ms": 160653,
-      "name": "Payday",
-      "url": "https://open.spotify.com/track/6aOkoOXWcltgTPuT3s420d"
+      "duration_ms": 197400,
+      "name": "JABO",
+      "url": "https://open.spotify.com/track/4oeH9c9ca6CS2xHytLLRnP"
+    },
+    {
+      "added_at": "2024-10-04 05:49:51",
+      "album": {
+        "name": "Fire on Me",
+        "url": "https://open.spotify.com/album/3cuQSfweyhIUnQIHdb3KcT"
+      },
+      "artists": [
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        }
+      ],
+      "duration_ms": 134187,
+      "name": "Fire on Me",
+      "url": "https://open.spotify.com/track/2mJs0gLnOGASpyucQrroJa"
+    },
+    {
+      "added_at": "2024-10-04 05:49:51",
+      "album": {
+        "name": "Alone (Remix)",
+        "url": "https://open.spotify.com/album/1bE7lrP5TzEIX3UHiwMhKR"
+      },
+      "artists": [
+        {
+          "name": "FOLA",
+          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
+        },
+        {
+          "name": "Bnxn",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 154578,
+      "name": "Alone - Remix",
+      "url": "https://open.spotify.com/track/2GSK9VfsKWpVOV6ZzKiMA4"
     }
   ],
   "unique_name": "Traffic Jams Naija ",

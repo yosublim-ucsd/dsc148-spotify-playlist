@@ -4,7 +4,7 @@
 
 > \~ have a lovely time \~
 
-349 songs - 20 hr 23 min
+350 songs - 20 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Breakfast With You](https://open.spotify.com/track/0ggxFhqfK28aCnusikHF0j) | [Shannen James](https://open.spotify.com/artist/3FByq9nQILZhHHI8U2n7AE) | [Breakfast With You](https://open.spotify.com/album/2WFZLdWQNJnDR8CqClCrkA) | 4:02 | 2022-04-05 | 2022-07-29 |
 | [Breathe & Release](https://open.spotify.com/track/4odvdQFnzAyQN6yv3h3Iln) | [Riley Pearce](https://open.spotify.com/artist/0A3HlWZGV8WrCcqxKM2neg) | [Maybe I Can Sleep It Off](https://open.spotify.com/album/1xHN79baVsHPcgDNsZwssY) | 3:35 | 2022-04-05 | 2022-07-23 |
 | [Brown Eyed Girl](https://open.spotify.com/track/3yrSvpt2l1xhsV9Em88Pul) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Blowin' Your Mind!](https://open.spotify.com/album/7dsWupQRlFuhG8FGiQAUjC) | 3:03 | 2022-07-29 |  |
+| [Bruises Off The Peach](https://open.spotify.com/track/6DdAZ0zZmmSwM8uqoVlepL) | [Ryan Beatty](https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ) | [Calico](https://open.spotify.com/album/5OWpskyoZl9UMkHQwgA05O) | 3:12 | 2024-08-26 |  |
 | [Build Me Up Buttercup](https://open.spotify.com/track/6sPOmDulFtLzfX25zICNrC) | [The Foundations](https://open.spotify.com/artist/4GITZM5LCR2KcdlgEOrNLD) | [The Foundations](https://open.spotify.com/album/3j1kw5l2mEeKCUuXXwjhWp) | 2:57 | 2022-07-29 | 2023-11-11 |
 | [Build Me Up Buttercup \(Mono\)](https://open.spotify.com/track/1tfZtA15BfJHQTUy3dqTKC) | [The Foundations](https://open.spotify.com/artist/4GITZM5LCR2KcdlgEOrNLD) | [Baby Now That I've Found You](https://open.spotify.com/album/7LFpclH3t4SnxqZpbjvSwE) | 3:00 | 2023-08-24 | 2024-04-19 |
 | [Burning](https://open.spotify.com/track/68vxG1i6RSmrsY9mRdqDgG) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Heard It In A Past Life](https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4) | 3:33 | 2022-04-05 | 2022-07-29 |
@@ -346,7 +347,7 @@
 | [White Water](https://open.spotify.com/track/3D2jsYmtwlnK4kQLXHPUb5) | [Dustin Tebbutt](https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX) | [White Water](https://open.spotify.com/album/1EsXpEeWrDFDjoH8flzfeL) | 3:54 | 2022-04-05 | 2022-07-08 |
 | [Wild World](https://open.spotify.com/track/7mjSHL2Eb0kAwiKbvNNyD9) | [Yusuf / Cat Stevens](https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8) | [Tea For The Tillerman \(Remastered 2020\)](https://open.spotify.com/album/44VxbAytHpVi3Rq8hRhild) | 3:20 | 2022-07-29 | 2024-04-19 |
 | [Wildflowers](https://open.spotify.com/track/2Pr1nZpt8A8WP7QYpyq6L3) | [Tom Petty](https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn) | [Wildflowers](https://open.spotify.com/album/3ZGUBwDiY5HPOcWv4SBPQg) | 3:10 | 2022-04-05 |  |
-| [Window](https://open.spotify.com/track/3hARuUtzTdUuWH1KiLJlSf) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Window](https://open.spotify.com/album/4JxgricHyH0BbMUaefAHfR) | 2:19 | 2022-04-05 |  |
+| [Window](https://open.spotify.com/track/3hARuUtzTdUuWH1KiLJlSf) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Window](https://open.spotify.com/album/4JxgricHyH0BbMUaefAHfR) | 2:19 | 2022-04-05 | 2024-10-07 |
 | [Wolves](https://open.spotify.com/track/1nOQp8RblZ31MFQ27KVF1O) | [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj) | [Wolves](https://open.spotify.com/album/4N7NgyfjkWUKQNHRHL4j4P) | 3:55 | 2022-04-05 | 2022-07-19 |
 | [World Spins Madly On](https://open.spotify.com/track/6NSlOEEtWlqvEFrjQsry77) | [The Weepies](https://open.spotify.com/artist/6pwHWKweuoCyx3OoFaD0Q5), [Deb Talan](https://open.spotify.com/artist/7tFFagB7kjwoCTP3QMlzJD), [Steve Tannen](https://open.spotify.com/artist/6vvDymlJBME7J2SPsyY3td) | [Say I Am You](https://open.spotify.com/album/17YOU9hgAgAOmjAFEimg1w) | 2:45 | 2022-09-29 | 2022-10-18 |
 | [Wouldn't It Be Nice](https://open.spotify.com/track/2Gy7qnDwt8Z3MNxqat4CsK) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Pet Sounds \(Original Mono & Stereo Mix\)](https://open.spotify.com/album/6GphKx2QAPRoVGWE9D7ou8) | 2:33 | 2022-07-29 |  |

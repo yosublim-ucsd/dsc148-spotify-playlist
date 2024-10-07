@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zv3egAAAAADs1Xbi9WCte0iwCHpZb49Y",
+  "snapshot_id": "ZwCBgAAAAADsR63PIOOrPQHZDLR9zkeD",
   "tracks": [
     {
       "added_at": null,
@@ -163,22 +163,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "First Class",
-        "url": "https://open.spotify.com/album/7sSyuzNf15uhmUu8DdX168"
-      },
-      "artists": [
-        {
-          "name": "Billy Paul",
-          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
-        }
-      ],
-      "duration_ms": 301933,
-      "name": "Bring the Family Back",
-      "url": "https://open.spotify.com/track/2p1SZrBaJS6yHK0OdPfo1x"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Essential MFSB",
         "url": "https://open.spotify.com/album/2tYYOj4epWYjUm2rCpVw6C"
       },
@@ -219,6 +203,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "First Class",
+        "url": "https://open.spotify.com/album/7sSyuzNf15uhmUu8DdX168"
+      },
+      "artists": [
+        {
+          "name": "Billy Paul",
+          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
+        }
+      ],
+      "duration_ms": 301933,
+      "name": "Bring the Family Back",
+      "url": "https://open.spotify.com/track/2p1SZrBaJS6yHK0OdPfo1x"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "When Love Is New",
         "url": "https://open.spotify.com/album/2QZMUUthtwT7XuGonEbmyS"
       },
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
         }
       ],
-      "duration_ms": 430586,
-      "name": "Let's Make a Baby",
-      "url": "https://open.spotify.com/track/2nUdP86O3XTrrsz4KItvQV"
+      "duration_ms": 298800,
+      "name": "Let the Dollar Circulate",
+      "url": "https://open.spotify.com/track/3ihmJ6AKx2BC6vWhx25eaH"
     },
     {
       "added_at": null,
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
         }
       ],
-      "duration_ms": 298800,
-      "name": "Let the Dollar Circulate",
-      "url": "https://open.spotify.com/track/3ihmJ6AKx2BC6vWhx25eaH"
+      "duration_ms": 430586,
+      "name": "Let's Make a Baby",
+      "url": "https://open.spotify.com/track/2nUdP86O3XTrrsz4KItvQV"
     },
     {
       "added_at": null,
@@ -363,22 +363,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "When Love Is New",
-        "url": "https://open.spotify.com/album/2QZMUUthtwT7XuGonEbmyS"
-      },
-      "artists": [
-        {
-          "name": "Billy Paul",
-          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
-        }
-      ],
-      "duration_ms": 377306,
-      "name": "I Want Cha' Baby",
-      "url": "https://open.spotify.com/track/47PQRVxpVpddcLUl62JGFh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "War of the Gods (Expanded Edition)",
         "url": "https://open.spotify.com/album/5CdueuFXGE76rZLapqg3Cw"
       },
@@ -395,6 +379,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "When Love Is New",
+        "url": "https://open.spotify.com/album/2QZMUUthtwT7XuGonEbmyS"
+      },
+      "artists": [
+        {
+          "name": "Billy Paul",
+          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
+        }
+      ],
+      "duration_ms": 377306,
+      "name": "I Want Cha' Baby",
+      "url": "https://open.spotify.com/track/47PQRVxpVpddcLUl62JGFh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "360 Degrees of Billy Paul (Expanded Edition)",
         "url": "https://open.spotify.com/album/2t3e2RCx9fmVO7jmhrOm3a"
       },
@@ -407,6 +407,30 @@
       "duration_ms": 262640,
       "name": "I'm Gonna Make It This Time",
       "url": "https://open.spotify.com/track/7ihfimLyy6cDFA2HyKrowR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Me and Mrs. Jones (1895 Jazz Remix)",
+        "url": "https://open.spotify.com/album/3fBz6LPWXI78PIWkFt3HLs"
+      },
+      "artists": [
+        {
+          "name": "1895",
+          "url": "https://open.spotify.com/artist/02I4WY5ssrOFmOSU4sEzxp"
+        },
+        {
+          "name": "Billy Paul",
+          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
+        },
+        {
+          "name": "Kay Sax",
+          "url": "https://open.spotify.com/artist/2V5gBk8YFrg9fwYtacwZCh"
+        }
+      ],
+      "duration_ms": 308103,
+      "name": "Me and Mrs. Jones (1895 Jazz Remix)",
+      "url": "https://open.spotify.com/track/6YCiG04BomoJxB2YEId4TK"
     },
     {
       "added_at": null,
@@ -451,78 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "War of the Gods (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5CdueuFXGE76rZLapqg3Cw"
-      },
-      "artists": [
-        {
-          "name": "Billy Paul",
-          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
-        }
-      ],
-      "duration_ms": 287160,
-      "name": "The Whole Town's Talking",
-      "url": "https://open.spotify.com/track/23mT3ScCi2K2XnRQdVqY2P"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Going East",
-        "url": "https://open.spotify.com/album/6NIYO2npCEA8MATIoAfnhf"
-      },
-      "artists": [
-        {
-          "name": "Billy Paul",
-          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
-        }
-      ],
-      "duration_ms": 219320,
-      "name": "Love Buddies",
-      "url": "https://open.spotify.com/track/39CtdFoNAUQbRfzEQ3bH9k"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Me and Mrs. Jones (1895 Jazz Remix)",
-        "url": "https://open.spotify.com/album/3fBz6LPWXI78PIWkFt3HLs"
-      },
-      "artists": [
-        {
-          "name": "1895",
-          "url": "https://open.spotify.com/artist/02I4WY5ssrOFmOSU4sEzxp"
-        },
-        {
-          "name": "Billy Paul",
-          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
-        },
-        {
-          "name": "Kay Sax",
-          "url": "https://open.spotify.com/artist/2V5gBk8YFrg9fwYtacwZCh"
-        }
-      ],
-      "duration_ms": 308103,
-      "name": "Me and Mrs. Jones (1895 Jazz Remix)",
-      "url": "https://open.spotify.com/track/6YCiG04BomoJxB2YEId4TK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "When Love Is New",
-        "url": "https://open.spotify.com/album/2QZMUUthtwT7XuGonEbmyS"
-      },
-      "artists": [
-        {
-          "name": "Billy Paul",
-          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
-        }
-      ],
-      "duration_ms": 329013,
-      "name": "When Love Is New",
-      "url": "https://open.spotify.com/track/3UsaOSKBppxl8uzX4JiWGw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Only The Strong Survive",
         "url": "https://open.spotify.com/album/2y65dMRuOLFi9YhGGJ0Jbd"
       },
@@ -539,22 +491,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Going East",
-        "url": "https://open.spotify.com/album/6NIYO2npCEA8MATIoAfnhf"
-      },
-      "artists": [
-        {
-          "name": "Billy Paul",
-          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
-        }
-      ],
-      "duration_ms": 255053,
-      "name": "This Is Your Life",
-      "url": "https://open.spotify.com/track/0Gp0SZlAOq6ble9MDunuMM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "War of the Gods (Expanded Edition)",
         "url": "https://open.spotify.com/album/5CdueuFXGE76rZLapqg3Cw"
       },
@@ -564,9 +500,9 @@
           "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
         }
       ],
-      "duration_ms": 438986,
-      "name": "I Was Married",
-      "url": "https://open.spotify.com/track/2rgaSZcYWOvW4BJELg9inh"
+      "duration_ms": 287160,
+      "name": "The Whole Town's Talking",
+      "url": "https://open.spotify.com/track/23mT3ScCi2K2XnRQdVqY2P"
     },
     {
       "added_at": null,
@@ -591,8 +527,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Got My Head On Straight",
-        "url": "https://open.spotify.com/album/3bAsZV946TNKtdCti9jHZo"
+        "name": "When Love Is New",
+        "url": "https://open.spotify.com/album/2QZMUUthtwT7XuGonEbmyS"
       },
       "artists": [
         {
@@ -600,15 +536,15 @@
           "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
         }
       ],
-      "duration_ms": 272133,
-      "name": "Billy's Back Home",
-      "url": "https://open.spotify.com/track/4Bt1bolv73Tc5K9nw8v5cN"
+      "duration_ms": 329013,
+      "name": "When Love Is New",
+      "url": "https://open.spotify.com/track/3UsaOSKBppxl8uzX4JiWGw"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Feelin' Good at the Cadillac Club",
-        "url": "https://open.spotify.com/album/5HV7hyk7LSoLaE5RU8x8eR"
+        "name": "Going East",
+        "url": "https://open.spotify.com/album/6NIYO2npCEA8MATIoAfnhf"
       },
       "artists": [
         {
@@ -616,41 +552,9 @@
           "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
         }
       ],
-      "duration_ms": 155760,
-      "name": "Don't Think Twice, It's All Right",
-      "url": "https://open.spotify.com/track/5Eoz3m5ib7RAQ6X516P7nN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Only The Strong Survive",
-        "url": "https://open.spotify.com/album/2y65dMRuOLFi9YhGGJ0Jbd"
-      },
-      "artists": [
-        {
-          "name": "Billy Paul",
-          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
-        }
-      ],
-      "duration_ms": 335693,
-      "name": "Sooner Or Later",
-      "url": "https://open.spotify.com/track/6n5fj08oL2AWgRbfrflU1l"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "First Class",
-        "url": "https://open.spotify.com/album/7sSyuzNf15uhmUu8DdX168"
-      },
-      "artists": [
-        {
-          "name": "Billy Paul",
-          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
-        }
-      ],
-      "duration_ms": 177933,
-      "name": "Thank You (For This Blessing)",
-      "url": "https://open.spotify.com/track/2vU8g2haVL2jUDVfybglno"
+      "duration_ms": 219320,
+      "name": "Love Buddies",
+      "url": "https://open.spotify.com/track/39CtdFoNAUQbRfzEQ3bH9k"
     },
     {
       "added_at": null,
@@ -667,22 +571,6 @@
       "duration_ms": 191600,
       "name": "My Head's On Straight",
       "url": "https://open.spotify.com/track/3bL3Q7RPzST59rgRLo7koY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Let 'Em In",
-        "url": "https://open.spotify.com/album/2nmsx6jR3zoA6aaoMvIa9L"
-      },
-      "artists": [
-        {
-          "name": "Billy Paul",
-          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
-        }
-      ],
-      "duration_ms": 378346,
-      "name": "I Think I'll Stay Home Today",
-      "url": "https://open.spotify.com/track/7acTQ0sGLozR4ss0ipwAsi"
     },
     {
       "added_at": null,
@@ -707,6 +595,86 @@
     {
       "added_at": null,
       "album": {
+        "name": "War of the Gods (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5CdueuFXGE76rZLapqg3Cw"
+      },
+      "artists": [
+        {
+          "name": "Billy Paul",
+          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
+        }
+      ],
+      "duration_ms": 438986,
+      "name": "I Was Married",
+      "url": "https://open.spotify.com/track/2rgaSZcYWOvW4BJELg9inh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Going East",
+        "url": "https://open.spotify.com/album/6NIYO2npCEA8MATIoAfnhf"
+      },
+      "artists": [
+        {
+          "name": "Billy Paul",
+          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
+        }
+      ],
+      "duration_ms": 255053,
+      "name": "This Is Your Life",
+      "url": "https://open.spotify.com/track/0Gp0SZlAOq6ble9MDunuMM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Got My Head On Straight",
+        "url": "https://open.spotify.com/album/3bAsZV946TNKtdCti9jHZo"
+      },
+      "artists": [
+        {
+          "name": "Billy Paul",
+          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
+        }
+      ],
+      "duration_ms": 272133,
+      "name": "Billy's Back Home",
+      "url": "https://open.spotify.com/track/4Bt1bolv73Tc5K9nw8v5cN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Only The Strong Survive",
+        "url": "https://open.spotify.com/album/2y65dMRuOLFi9YhGGJ0Jbd"
+      },
+      "artists": [
+        {
+          "name": "Billy Paul",
+          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
+        }
+      ],
+      "duration_ms": 335693,
+      "name": "Sooner Or Later",
+      "url": "https://open.spotify.com/track/6n5fj08oL2AWgRbfrflU1l"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Feelin' Good at the Cadillac Club",
+        "url": "https://open.spotify.com/album/5HV7hyk7LSoLaE5RU8x8eR"
+      },
+      "artists": [
+        {
+          "name": "Billy Paul",
+          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
+        }
+      ],
+      "duration_ms": 155760,
+      "name": "Don't Think Twice, It's All Right",
+      "url": "https://open.spotify.com/track/5Eoz3m5ib7RAQ6X516P7nN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "First Class",
         "url": "https://open.spotify.com/album/7sSyuzNf15uhmUu8DdX168"
       },
@@ -716,9 +684,25 @@
           "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
         }
       ],
-      "duration_ms": 260866,
-      "name": "What A Way To Love",
-      "url": "https://open.spotify.com/track/5yir7jpd8N1iPyYgKO16nb"
+      "duration_ms": 177933,
+      "name": "Thank You (For This Blessing)",
+      "url": "https://open.spotify.com/track/2vU8g2haVL2jUDVfybglno"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Let 'Em In",
+        "url": "https://open.spotify.com/album/2nmsx6jR3zoA6aaoMvIa9L"
+      },
+      "artists": [
+        {
+          "name": "Billy Paul",
+          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
+        }
+      ],
+      "duration_ms": 378346,
+      "name": "I Think I'll Stay Home Today",
+      "url": "https://open.spotify.com/track/7acTQ0sGLozR4ss0ipwAsi"
     },
     {
       "added_at": null,
@@ -763,6 +747,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "First Class",
+        "url": "https://open.spotify.com/album/7sSyuzNf15uhmUu8DdX168"
+      },
+      "artists": [
+        {
+          "name": "Billy Paul",
+          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
+        }
+      ],
+      "duration_ms": 260866,
+      "name": "What A Way To Love",
+      "url": "https://open.spotify.com/track/5yir7jpd8N1iPyYgKO16nb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ebony Woman",
         "url": "https://open.spotify.com/album/7ynT3ZWytYl31uW2Atscdc"
       },
@@ -775,22 +775,6 @@
       "duration_ms": 232186,
       "name": "Ebony Woman",
       "url": "https://open.spotify.com/track/1QjYM7bjbF0fwPDJMIs8z9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "First Class",
-        "url": "https://open.spotify.com/album/7sSyuzNf15uhmUu8DdX168"
-      },
-      "artists": [
-        {
-          "name": "Billy Paul",
-          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
-        }
-      ],
-      "duration_ms": 285800,
-      "name": "I Gotta Put This Life Down",
-      "url": "https://open.spotify.com/track/4RV0kGsdlYXqN9GcdhOSmd"
     },
     {
       "added_at": null,
@@ -811,8 +795,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "War of the Gods (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5CdueuFXGE76rZLapqg3Cw"
+        "name": "Only The Strong Survive",
+        "url": "https://open.spotify.com/album/2y65dMRuOLFi9YhGGJ0Jbd"
       },
       "artists": [
         {
@@ -820,9 +804,25 @@
           "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
         }
       ],
-      "duration_ms": 414080,
-      "name": "Peace Holy Peace",
-      "url": "https://open.spotify.com/track/67hMdEjp5GX1wr4zl1arz5"
+      "duration_ms": 196493,
+      "name": "One Man's Junk",
+      "url": "https://open.spotify.com/track/7ugJ3cdJ1MxBRHEKxFsHtu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "First Class",
+        "url": "https://open.spotify.com/album/7sSyuzNf15uhmUu8DdX168"
+      },
+      "artists": [
+        {
+          "name": "Billy Paul",
+          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
+        }
+      ],
+      "duration_ms": 285800,
+      "name": "I Gotta Put This Life Down",
+      "url": "https://open.spotify.com/track/4RV0kGsdlYXqN9GcdhOSmd"
     },
     {
       "added_at": null,
@@ -843,8 +843,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Only The Strong Survive",
-        "url": "https://open.spotify.com/album/2y65dMRuOLFi9YhGGJ0Jbd"
+        "name": "War of the Gods (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5CdueuFXGE76rZLapqg3Cw"
       },
       "artists": [
         {
@@ -852,9 +852,9 @@
           "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
         }
       ],
-      "duration_ms": 196493,
-      "name": "One Man's Junk",
-      "url": "https://open.spotify.com/track/7ugJ3cdJ1MxBRHEKxFsHtu"
+      "duration_ms": 414080,
+      "name": "Peace Holy Peace",
+      "url": "https://open.spotify.com/track/67hMdEjp5GX1wr4zl1arz5"
     },
     {
       "added_at": null,

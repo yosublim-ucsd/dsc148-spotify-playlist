@@ -1,6 +1,6 @@
 {
   "description": "riff-heavy, fuzzed-out numbers. ",
-  "num_followers": 542349,
+  "num_followers": 542367,
   "original_name": "Stoner Rock",
   "owner": {
     "name": "Spotify",
@@ -235,6 +235,22 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
+        "name": "Rated R - Deluxe Edition",
+        "url": "https://open.spotify.com/album/10UBEkRjqtl0iT2BRAwcto"
+      },
+      "artists": [
+        {
+          "name": "Queens of the Stone Age",
+          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
+        }
+      ],
+      "duration_ms": 216013,
+      "name": "The Lost Art Of Keeping A Secret",
+      "url": "https://open.spotify.com/track/6FlAJtf8aSZOpEj9ITSfYh"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
         "name": "Deliverance",
         "url": "https://open.spotify.com/album/6zdNTQ1uS2ZzFZkExMqcAh"
       },
@@ -283,22 +299,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Murder the Mountains (Deluxe Version)",
-        "url": "https://open.spotify.com/album/5RQlhjpn4qz3q2vRrAGYD9"
-      },
-      "artists": [
-        {
-          "name": "Red Fang",
-          "url": "https://open.spotify.com/artist/3u4HBuoQ4dgPBzX2Q9uf5S"
-        }
-      ],
-      "duration_ms": 343306,
-      "name": "Wires",
-      "url": "https://open.spotify.com/track/4yl1IpHPuXUV2MjxXy6hZn"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "Welcome to Sky Valley",
         "url": "https://open.spotify.com/album/2NU3mpjBFtZPUYjjT9pJoq"
       },
@@ -315,18 +315,18 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Rated R - Deluxe Edition",
-        "url": "https://open.spotify.com/album/10UBEkRjqtl0iT2BRAwcto"
+        "name": "Murder the Mountains (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5RQlhjpn4qz3q2vRrAGYD9"
       },
       "artists": [
         {
-          "name": "Queens of the Stone Age",
-          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
+          "name": "Red Fang",
+          "url": "https://open.spotify.com/artist/3u4HBuoQ4dgPBzX2Q9uf5S"
         }
       ],
-      "duration_ms": 216013,
-      "name": "The Lost Art Of Keeping A Secret",
-      "url": "https://open.spotify.com/track/6FlAJtf8aSZOpEj9ITSfYh"
+      "duration_ms": 343306,
+      "name": "Wires",
+      "url": "https://open.spotify.com/track/4yl1IpHPuXUV2MjxXy6hZn"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -363,18 +363,18 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Ugo",
-        "url": "https://open.spotify.com/album/4lMHWDYpYeZqpY4FX4grpB"
+        "name": "Songs For The Deaf",
+        "url": "https://open.spotify.com/album/58HZZpS0wxJKwGjoerg0mk"
       },
       "artists": [
         {
-          "name": "The Dead Pirates",
-          "url": "https://open.spotify.com/artist/64bheP4lw6MvGJBNFKtPgx"
+          "name": "Queens of the Stone Age",
+          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
         }
       ],
-      "duration_ms": 358740,
-      "name": "Ugo",
-      "url": "https://open.spotify.com/track/20yNjjGAAROnXoANUjI3JY"
+      "duration_ms": 352440,
+      "name": "Song For The Dead",
+      "url": "https://open.spotify.com/track/66UbHESsyfaXdoxlqVBa1T"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -395,6 +395,22 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
+        "name": "Ugo",
+        "url": "https://open.spotify.com/album/4lMHWDYpYeZqpY4FX4grpB"
+      },
+      "artists": [
+        {
+          "name": "The Dead Pirates",
+          "url": "https://open.spotify.com/artist/64bheP4lw6MvGJBNFKtPgx"
+        }
+      ],
+      "duration_ms": 358740,
+      "name": "Ugo",
+      "url": "https://open.spotify.com/track/20yNjjGAAROnXoANUjI3JY"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
         "name": "Sunrise On The Sufferbus",
         "url": "https://open.spotify.com/album/1nIhPr8znyzNDDtUC76fO5"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 213333,
       "name": "Rabbit One",
       "url": "https://open.spotify.com/track/3e2e4OstlQP6Gllt8VsMpA"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "Songs For The Deaf",
-        "url": "https://open.spotify.com/album/58HZZpS0wxJKwGjoerg0mk"
-      },
-      "artists": [
-        {
-          "name": "Queens of the Stone Age",
-          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
-        }
-      ],
-      "duration_ms": 352440,
-      "name": "Song For The Dead",
-      "url": "https://open.spotify.com/track/66UbHESsyfaXdoxlqVBa1T"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -475,6 +475,22 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
+        "name": "Songs For The Deaf",
+        "url": "https://open.spotify.com/album/58HZZpS0wxJKwGjoerg0mk"
+      },
+      "artists": [
+        {
+          "name": "Queens of the Stone Age",
+          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
+        }
+      ],
+      "duration_ms": 364924,
+      "name": "God Is In The Radio",
+      "url": "https://open.spotify.com/track/1dVWz4VM5QkgzHLjFEKM4u"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
         "name": "Repeater",
         "url": "https://open.spotify.com/album/5G71TdzImVKCnUNVMimPok"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 424000,
       "name": "Bury Me in Smoke",
       "url": "https://open.spotify.com/track/6raRCdd8RoWvtBpzhJ1CJb"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "Songs For The Deaf",
-        "url": "https://open.spotify.com/album/58HZZpS0wxJKwGjoerg0mk"
-      },
-      "artists": [
-        {
-          "name": "Queens of the Stone Age",
-          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
-        }
-      ],
-      "duration_ms": 364924,
-      "name": "God Is In The Radio",
-      "url": "https://open.spotify.com/track/1dVWz4VM5QkgzHLjFEKM4u"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -667,18 +667,18 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Cabin Fever",
-        "url": "https://open.spotify.com/album/2TIydCgadhiyrlzSM3989s"
+        "name": "Blood Lust",
+        "url": "https://open.spotify.com/album/3nGKNhRZwE0u0GkGSps8C8"
       },
       "artists": [
         {
-          "name": "Slomosa",
-          "url": "https://open.spotify.com/artist/0l7GXb53ndWn97ul8Hpfzd"
+          "name": "Uncle Acid & The Deadbeats",
+          "url": "https://open.spotify.com/artist/16PcI6JjJuUfPlsX8Ffvfl"
         }
       ],
-      "duration_ms": 317033,
-      "name": "Cabin Fever",
-      "url": "https://open.spotify.com/track/4lmnpR0Z7kc7ktKOwlPFsi"
+      "duration_ms": 435200,
+      "name": "Death's Door",
+      "url": "https://open.spotify.com/track/1UghmqyvyKeXpF1LsrBa2E"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -699,18 +699,18 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Blood Lust",
-        "url": "https://open.spotify.com/album/3nGKNhRZwE0u0GkGSps8C8"
+        "name": "Cabin Fever",
+        "url": "https://open.spotify.com/album/2TIydCgadhiyrlzSM3989s"
       },
       "artists": [
         {
-          "name": "Uncle Acid & The Deadbeats",
-          "url": "https://open.spotify.com/artist/16PcI6JjJuUfPlsX8Ffvfl"
+          "name": "Slomosa",
+          "url": "https://open.spotify.com/artist/0l7GXb53ndWn97ul8Hpfzd"
         }
       ],
-      "duration_ms": 435200,
-      "name": "Death's Door",
-      "url": "https://open.spotify.com/track/1UghmqyvyKeXpF1LsrBa2E"
+      "duration_ms": 317033,
+      "name": "Cabin Fever",
+      "url": "https://open.spotify.com/track/4lmnpR0Z7kc7ktKOwlPFsi"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -971,22 +971,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Rainbows Are Free",
-        "url": "https://open.spotify.com/album/6mlZrNW9M8DNCEctuwdTJn"
-      },
-      "artists": [
-        {
-          "name": "Rainbows Are Free",
-          "url": "https://open.spotify.com/artist/2xdR2Stqa1oEu4lv7p9lXN"
-        }
-      ],
-      "duration_ms": 251253,
-      "name": "Are You Dead",
-      "url": "https://open.spotify.com/track/1P3gkOdyjK5ucr4N1ggLnq"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "High Volume: The Stoner Rock Collection",
         "url": "https://open.spotify.com/album/5bcsAnJvIiept5zU4B2g8x"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 371983,
       "name": "Too Stoned",
       "url": "https://open.spotify.com/track/3i5Z1K6f6E1OcVQ8DZqkyQ"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Rainbows Are Free",
+        "url": "https://open.spotify.com/album/6mlZrNW9M8DNCEctuwdTJn"
+      },
+      "artists": [
+        {
+          "name": "Rainbows Are Free",
+          "url": "https://open.spotify.com/artist/2xdR2Stqa1oEu4lv7p9lXN"
+        }
+      ],
+      "duration_ms": 251253,
+      "name": "Are You Dead",
+      "url": "https://open.spotify.com/track/1P3gkOdyjK5ucr4N1ggLnq"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "A Drug Problem That Never Existed",
-        "url": "https://open.spotify.com/album/4WrxSGxM0V4ZnxPTQzmtJo"
-      },
-      "artists": [
-        {
-          "name": "Mondo Generator",
-          "url": "https://open.spotify.com/artist/5Ug0EkTXplXiip0C2OzVi7"
-        }
-      ],
-      "duration_ms": 155066,
-      "name": "So High, So Low",
-      "url": "https://open.spotify.com/track/0AxthAxmqrWe4OYd3KR0zq"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "In Her Garden",
         "url": "https://open.spotify.com/album/4Rna96AH3yctoFy4GWla4G"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 408373,
       "name": "Black Lilly",
       "url": "https://open.spotify.com/track/0JHW6P8sKS9GdN11fuGN1G"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "A Drug Problem That Never Existed",
+        "url": "https://open.spotify.com/album/4WrxSGxM0V4ZnxPTQzmtJo"
+      },
+      "artists": [
+        {
+          "name": "Mondo Generator",
+          "url": "https://open.spotify.com/artist/5Ug0EkTXplXiip0C2OzVi7"
+        }
+      ],
+      "duration_ms": 155066,
+      "name": "So High, So Low",
+      "url": "https://open.spotify.com/track/0AxthAxmqrWe4OYd3KR0zq"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Call of the Void",
-        "url": "https://open.spotify.com/album/4Ioa4MtCt5zTxYnf2Ak32G"
-      },
-      "artists": [
-        {
-          "name": "Mutoid Man",
-          "url": "https://open.spotify.com/artist/2KhRuej67LynneJthmMx8o"
-        }
-      ],
-      "duration_ms": 239961,
-      "name": "Call of the Void",
-      "url": "https://open.spotify.com/track/2lESBOYd1J2oBWVeLLSFdg"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "All My Friends Move Like The Night",
         "url": "https://open.spotify.com/album/5AUcuKVvfLcwrdNWffeQNK"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 173808,
       "name": "All My Friends Move Like The Night",
       "url": "https://open.spotify.com/track/51zsxlFDynOCGjue3AQEpR"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Call of the Void",
+        "url": "https://open.spotify.com/album/4Ioa4MtCt5zTxYnf2Ak32G"
+      },
+      "artists": [
+        {
+          "name": "Mutoid Man",
+          "url": "https://open.spotify.com/artist/2KhRuej67LynneJthmMx8o"
+        }
+      ],
+      "duration_ms": 239961,
+      "name": "Call of the Void",
+      "url": "https://open.spotify.com/track/2lESBOYd1J2oBWVeLLSFdg"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Unemployment Office",
-        "url": "https://open.spotify.com/album/3pPCeH1QA2JtRdbd0ggwLk"
-      },
-      "artists": [
-        {
-          "name": "Goat",
-          "url": "https://open.spotify.com/artist/6jP9Z7o6WlbYvKUOeO5SbP"
-        }
-      ],
-      "duration_ms": 204181,
-      "name": "Unemployment Office",
-      "url": "https://open.spotify.com/track/4D1lsLazP8nXS36QdwYQ4l"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "Ode To IO",
         "url": "https://open.spotify.com/album/0pu7grkQZ9rCK1ftl2DcYj"
       },
@@ -1355,18 +1339,18 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Saved by Magic",
-        "url": "https://open.spotify.com/album/1ZMIcvk2Mxow7HI9VUKBWD"
+        "name": "Unemployment Office",
+        "url": "https://open.spotify.com/album/3pPCeH1QA2JtRdbd0ggwLk"
       },
       "artists": [
         {
-          "name": "Brant Bjork",
-          "url": "https://open.spotify.com/artist/538ZIoOw6wW1xdjuIaQHOS"
+          "name": "Goat",
+          "url": "https://open.spotify.com/artist/6jP9Z7o6WlbYvKUOeO5SbP"
         }
       ],
-      "duration_ms": 334720,
-      "name": "Kiss Away",
-      "url": "https://open.spotify.com/track/35OoYjqJdg27FpA2zD9IYQ"
+      "duration_ms": 204181,
+      "name": "Unemployment Office",
+      "url": "https://open.spotify.com/track/4D1lsLazP8nXS36QdwYQ4l"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1383,6 +1367,22 @@
       "duration_ms": 599683,
       "name": "Heavy Feather",
       "url": "https://open.spotify.com/track/2xNNlMrmDEYzrr09jTzjOb"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Saved by Magic",
+        "url": "https://open.spotify.com/album/1ZMIcvk2Mxow7HI9VUKBWD"
+      },
+      "artists": [
+        {
+          "name": "Brant Bjork",
+          "url": "https://open.spotify.com/artist/538ZIoOw6wW1xdjuIaQHOS"
+        }
+      ],
+      "duration_ms": 334720,
+      "name": "Kiss Away",
+      "url": "https://open.spotify.com/track/35OoYjqJdg27FpA2zD9IYQ"
     },
     {
       "added_at": "2024-07-19 04:00:00",

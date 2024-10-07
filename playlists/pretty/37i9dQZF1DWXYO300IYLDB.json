@@ -1,6 +1,6 @@
 {
   "description": "\u30a2\u30b3\u30fc\u30b9\u30c6\u30a3\u30c3\u30af\u30fb\u30e1\u30ed\u30c7\u30a3\u30fc\u30ba\u3002\u3086\u3063\u305f\u308a\u3068\u3057\u305f\u30a2\u30b3\u30fc\u30b9\u30c6\u30a3\u30c3\u30af\u30b5\u30a6\u30f3\u30c9\u3068\u5171\u306b\u3001\u723d\u3084\u304b\u306a1\u65e5\u3092\u8fce\u3048\u307e\u305b\u3093\u304b\uff1f",
-  "num_followers": 101043,
+  "num_followers": 101046,
   "original_name": "Acoustic Melodies Tokyo",
   "owner": {
     "name": "Spotify",
@@ -1347,18 +1347,22 @@
     {
       "added_at": "2024-08-15 15:10:41",
       "album": {
-        "name": "Deeper Well: Deeper into the Well",
-        "url": "https://open.spotify.com/album/1qkr1AJ7sc8IF2nLmjCBkZ"
+        "name": "Cover Sessions, Vol. 3",
+        "url": "https://open.spotify.com/album/1DpZ3jGqyRCTQ8Eoas1MP4"
       },
       "artists": [
         {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+          "name": "Boyce Avenue",
+          "url": "https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv"
+        },
+        {
+          "name": "Bea Miller",
+          "url": "https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x"
         }
       ],
-      "duration_ms": 238493,
-      "name": "Arm's Length",
-      "url": "https://open.spotify.com/track/5NuUKKMA2qsltM1DnSJZLL"
+      "duration_ms": 222146,
+      "name": "We Can't Stop",
+      "url": "https://open.spotify.com/track/6owKuyHxUqidcAA6fPKSyy"
     },
     {
       "added_at": "2024-08-15 15:10:41",
@@ -1379,22 +1383,18 @@
     {
       "added_at": "2024-08-15 15:10:41",
       "album": {
-        "name": "Cover Sessions, Vol. 3",
-        "url": "https://open.spotify.com/album/1DpZ3jGqyRCTQ8Eoas1MP4"
+        "name": "Deeper Well: Deeper into the Well",
+        "url": "https://open.spotify.com/album/1qkr1AJ7sc8IF2nLmjCBkZ"
       },
       "artists": [
         {
-          "name": "Boyce Avenue",
-          "url": "https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv"
-        },
-        {
-          "name": "Bea Miller",
-          "url": "https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x"
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
         }
       ],
-      "duration_ms": 222146,
-      "name": "We Can't Stop",
-      "url": "https://open.spotify.com/track/6owKuyHxUqidcAA6fPKSyy"
+      "duration_ms": 238493,
+      "name": "Arm's Length",
+      "url": "https://open.spotify.com/track/5NuUKKMA2qsltM1DnSJZLL"
     },
     {
       "added_at": "2024-08-15 15:10:41",
@@ -1447,18 +1447,18 @@
     {
       "added_at": "2024-08-15 15:10:41",
       "album": {
-        "name": "Wasteland, Baby!",
-        "url": "https://open.spotify.com/album/2c7gFThUYyo2t6ogAgIYNw"
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/3E3RbNL43xqu0o5KggHJBU"
       },
       "artists": [
         {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
         }
       ],
-      "duration_ms": 266466,
-      "name": "Wasteland, Baby!",
-      "url": "https://open.spotify.com/track/1HYnjKqSSHh1tdl2Hi57zH"
+      "duration_ms": 174360,
+      "name": "Stay With Me - Live From Spotify Berlin",
+      "url": "https://open.spotify.com/track/2GiYPEgOA7hb7sqsEWX8df"
     },
     {
       "added_at": "2024-08-15 15:10:41",
@@ -1479,18 +1479,18 @@
     {
       "added_at": "2024-08-15 15:10:41",
       "album": {
-        "name": "Spotify Sessions",
-        "url": "https://open.spotify.com/album/3E3RbNL43xqu0o5KggHJBU"
+        "name": "Wasteland, Baby!",
+        "url": "https://open.spotify.com/album/2c7gFThUYyo2t6ogAgIYNw"
       },
       "artists": [
         {
-          "name": "Angus & Julia Stone",
-          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
         }
       ],
-      "duration_ms": 174360,
-      "name": "Stay With Me - Live From Spotify Berlin",
-      "url": "https://open.spotify.com/track/2GiYPEgOA7hb7sqsEWX8df"
+      "duration_ms": 266466,
+      "name": "Wasteland, Baby!",
+      "url": "https://open.spotify.com/track/1HYnjKqSSHh1tdl2Hi57zH"
     },
     {
       "added_at": "2024-08-15 15:10:41",
@@ -1611,18 +1611,18 @@
     {
       "added_at": "2024-08-15 15:10:41",
       "album": {
-        "name": "Autumn Variations",
-        "url": "https://open.spotify.com/album/5LXOgcszGvUkYzYL4v6wYg"
+        "name": "Without Fear (The Complete Edition)",
+        "url": "https://open.spotify.com/album/4Z6CfVlX40xDUq4CTiFpAa"
       },
       "artists": [
         {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+          "name": "Dermot Kennedy",
+          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
         }
       ],
-      "duration_ms": 197976,
-      "name": "American Town",
-      "url": "https://open.spotify.com/track/4rDvBpFgKbgJepZTaP0rD6"
+      "duration_ms": 149803,
+      "name": "Days Like This",
+      "url": "https://open.spotify.com/track/0W6vig3DpP1D3R4w72hdWp"
     },
     {
       "added_at": "2024-08-15 15:10:41",
@@ -1643,18 +1643,18 @@
     {
       "added_at": "2024-08-15 15:10:41",
       "album": {
-        "name": "Without Fear (The Complete Edition)",
-        "url": "https://open.spotify.com/album/4Z6CfVlX40xDUq4CTiFpAa"
+        "name": "Autumn Variations",
+        "url": "https://open.spotify.com/album/5LXOgcszGvUkYzYL4v6wYg"
       },
       "artists": [
         {
-          "name": "Dermot Kennedy",
-          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
         }
       ],
-      "duration_ms": 149803,
-      "name": "Days Like This",
-      "url": "https://open.spotify.com/track/0W6vig3DpP1D3R4w72hdWp"
+      "duration_ms": 197976,
+      "name": "American Town",
+      "url": "https://open.spotify.com/track/4rDvBpFgKbgJepZTaP0rD6"
     },
     {
       "added_at": "2024-08-15 15:10:41",

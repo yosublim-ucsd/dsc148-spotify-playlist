@@ -1,6 +1,6 @@
 {
   "description": "El toque que le faltaba a tu caf\u00e9. \n",
-  "num_followers": 64402,
+  "num_followers": 64404,
   "original_name": "cafeter\u00eda ",
   "owner": {
     "name": "Spotify",
@@ -139,18 +139,18 @@
     {
       "added_at": "2023-07-10 17:37:38",
       "album": {
-        "name": "In The Lonely Hour",
-        "url": "https://open.spotify.com/album/08jWgM4vSkTose4blKBWov"
+        "name": "I Put A Spell On You",
+        "url": "https://open.spotify.com/album/3ofZeSWPHZOE5WC2tNZDez"
       },
       "artists": [
         {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
         }
       ],
-      "duration_ms": 172723,
-      "name": "Stay With Me",
-      "url": "https://open.spotify.com/track/5Nm9ERjJZ5oyfXZTECKmRt"
+      "duration_ms": 174000,
+      "name": "Feeling Good",
+      "url": "https://open.spotify.com/track/6Rqn2GFlmvmV4w9Ala0I1e"
     },
     {
       "added_at": "2024-05-03 16:55:28",
@@ -187,18 +187,34 @@
     {
       "added_at": "2023-07-10 17:37:38",
       "album": {
-        "name": "I Put A Spell On You",
-        "url": "https://open.spotify.com/album/3ofZeSWPHZOE5WC2tNZDez"
+        "name": "From Elvis in Memphis",
+        "url": "https://open.spotify.com/album/3ekkFrfotMsEAKc5g71GHk"
       },
       "artists": [
         {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
         }
       ],
-      "duration_ms": 174000,
-      "name": "Feeling Good",
-      "url": "https://open.spotify.com/track/6Rqn2GFlmvmV4w9Ala0I1e"
+      "duration_ms": 261279,
+      "name": "Suspicious Minds",
+      "url": "https://open.spotify.com/track/1H5IfYyIIAlgDX8zguUzns"
+    },
+    {
+      "added_at": "2023-07-10 17:37:38",
+      "album": {
+        "name": "In The Lonely Hour",
+        "url": "https://open.spotify.com/album/08jWgM4vSkTose4blKBWov"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 172723,
+      "name": "Stay With Me",
+      "url": "https://open.spotify.com/track/5Nm9ERjJZ5oyfXZTECKmRt"
     },
     {
       "added_at": "2023-07-10 17:37:38",
@@ -215,22 +231,6 @@
       "duration_ms": 285240,
       "name": "Someone Like You",
       "url": "https://open.spotify.com/track/1zwMYTA5nlNjZxYrvBB2pV"
-    },
-    {
-      "added_at": "2023-07-10 17:37:38",
-      "album": {
-        "name": "From Elvis in Memphis",
-        "url": "https://open.spotify.com/album/3ekkFrfotMsEAKc5g71GHk"
-      },
-      "artists": [
-        {
-          "name": "Elvis Presley",
-          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
-        }
-      ],
-      "duration_ms": 261279,
-      "name": "Suspicious Minds",
-      "url": "https://open.spotify.com/track/1H5IfYyIIAlgDX8zguUzns"
     },
     {
       "added_at": "2023-07-10 17:37:38",
@@ -571,22 +571,6 @@
     {
       "added_at": "2023-07-10 17:37:38",
       "album": {
-        "name": "Come Fly With Me (Expanded Edition)",
-        "url": "https://open.spotify.com/album/66v9QmjAj0Wwhh2OpbU4BE"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 199093,
-      "name": "Come Fly With Me - Remastered 1998",
-      "url": "https://open.spotify.com/track/4hHbeIIKO5Y5uLyIEbY9Gn"
-    },
-    {
-      "added_at": "2023-07-10 17:37:38",
-      "album": {
         "name": "Simple Things",
         "url": "https://open.spotify.com/album/1VRBB9iu84o3g16CczH9iH"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 271520,
       "name": "In The Waiting Line",
       "url": "https://open.spotify.com/track/5ARrtxJLVCeTv5TWo1oKgC"
+    },
+    {
+      "added_at": "2023-07-10 17:37:38",
+      "album": {
+        "name": "Come Fly With Me (Expanded Edition)",
+        "url": "https://open.spotify.com/album/66v9QmjAj0Wwhh2OpbU4BE"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 199093,
+      "name": "Come Fly With Me - Remastered 1998",
+      "url": "https://open.spotify.com/track/4hHbeIIKO5Y5uLyIEbY9Gn"
     },
     {
       "added_at": "2023-07-10 17:37:38",
@@ -643,22 +643,6 @@
     {
       "added_at": "2023-07-10 17:37:38",
       "album": {
-        "name": "Pleasantville -Music From The Motion Picture",
-        "url": "https://open.spotify.com/album/3QofKE2yZcsjKOUw6fyyn3"
-      },
-      "artists": [
-        {
-          "name": "Fiona Apple",
-          "url": "https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL"
-        }
-      ],
-      "duration_ms": 307333,
-      "name": "Across the Universe",
-      "url": "https://open.spotify.com/track/6ZQgooEk8PvsLxedYaT6Oa"
-    },
-    {
-      "added_at": "2023-07-10 17:37:38",
-      "album": {
         "name": "Unforgettable: With Love",
         "url": "https://open.spotify.com/album/4ilUfGGQXin7hr1srDDXF0"
       },
@@ -691,6 +675,38 @@
       "duration_ms": 198000,
       "name": "Get Lucky",
       "url": "https://open.spotify.com/track/6E4Y6Lh9tGWezuWf2XzBwq"
+    },
+    {
+      "added_at": "2023-07-10 17:37:38",
+      "album": {
+        "name": "Pleasantville -Music From The Motion Picture",
+        "url": "https://open.spotify.com/album/3QofKE2yZcsjKOUw6fyyn3"
+      },
+      "artists": [
+        {
+          "name": "Fiona Apple",
+          "url": "https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL"
+        }
+      ],
+      "duration_ms": 307333,
+      "name": "Across the Universe",
+      "url": "https://open.spotify.com/track/6ZQgooEk8PvsLxedYaT6Oa"
+    },
+    {
+      "added_at": "2023-07-10 17:37:38",
+      "album": {
+        "name": "de l'accordeoniste a milord",
+        "url": "https://open.spotify.com/album/7l3ydaHRFTcEGM0D9rlfqS"
+      },
+      "artists": [
+        {
+          "name": "\u00c9dith Piaf",
+          "url": "https://open.spotify.com/artist/1WPcVNert9hn7mHsPKDn7j"
+        }
+      ],
+      "duration_ms": 186973,
+      "name": "La vie en rose",
+      "url": "https://open.spotify.com/track/4FmiciU3ZmfgABlbCSXcWw"
     },
     {
       "added_at": "2023-07-10 17:37:38",
@@ -775,22 +791,6 @@
       "duration_ms": 226680,
       "name": "Fidelity",
       "url": "https://open.spotify.com/track/1J2WmkS1Z18AuDWZCgIC5K"
-    },
-    {
-      "added_at": "2023-07-10 17:37:38",
-      "album": {
-        "name": "de l'accordeoniste a milord",
-        "url": "https://open.spotify.com/album/7l3ydaHRFTcEGM0D9rlfqS"
-      },
-      "artists": [
-        {
-          "name": "\u00c9dith Piaf",
-          "url": "https://open.spotify.com/artist/1WPcVNert9hn7mHsPKDn7j"
-        }
-      ],
-      "duration_ms": 186973,
-      "name": "La vie en rose",
-      "url": "https://open.spotify.com/track/4FmiciU3ZmfgABlbCSXcWw"
     },
     {
       "added_at": "2023-07-10 17:37:38",
@@ -963,6 +963,22 @@
     {
       "added_at": "2023-07-10 17:37:38",
       "album": {
+        "name": "Collapsed In Sunbeams",
+        "url": "https://open.spotify.com/album/42joEEymK7EIHODfNB4yug"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "duration_ms": 270066,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/23bwujVYKeGdbcLd2LQxVo"
+    },
+    {
+      "added_at": "2023-07-10 17:37:38",
+      "album": {
         "name": "Kind Of Blue (Legacy Edition)",
         "url": "https://open.spotify.com/album/4sb0eMpDn3upAFfyi4q2rw"
       },
@@ -985,20 +1001,20 @@
       "url": "https://open.spotify.com/track/4zxd4tiXPlWMqoJltbVTbE"
     },
     {
-      "added_at": "2023-08-14 15:33:44",
+      "added_at": "2023-07-10 17:37:38",
       "album": {
-        "name": "Time After Time - Spotify Singles",
-        "url": "https://open.spotify.com/album/5lxUTVBhoeeAeleepOsBop"
+        "name": "Solitude",
+        "url": "https://open.spotify.com/album/4izD3SCRElbkO06i8yf4Zp"
       },
       "artists": [
         {
-          "name": "Lennon Stella",
-          "url": "https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot"
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
         }
       ],
-      "duration_ms": 219648,
-      "name": "Time After Time - Spotify Singles",
-      "url": "https://open.spotify.com/track/6vQCNDNbA0DQoSPftbzS1W"
+      "duration_ms": 174866,
+      "name": "You Go To My Head",
+      "url": "https://open.spotify.com/track/78MIFwIW5oUNdaL6Sj8hTB"
     },
     {
       "added_at": "2023-07-10 17:37:38",
@@ -1021,36 +1037,20 @@
       "url": "https://open.spotify.com/track/22MsyWQ5WFGv8GXP7qmzDP"
     },
     {
-      "added_at": "2023-07-10 17:37:38",
+      "added_at": "2023-08-14 15:33:44",
       "album": {
-        "name": "Solitude",
-        "url": "https://open.spotify.com/album/4izD3SCRElbkO06i8yf4Zp"
+        "name": "Time After Time - Spotify Singles",
+        "url": "https://open.spotify.com/album/5lxUTVBhoeeAeleepOsBop"
       },
       "artists": [
         {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+          "name": "Lennon Stella",
+          "url": "https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot"
         }
       ],
-      "duration_ms": 174866,
-      "name": "You Go To My Head",
-      "url": "https://open.spotify.com/track/78MIFwIW5oUNdaL6Sj8hTB"
-    },
-    {
-      "added_at": "2023-07-10 17:37:38",
-      "album": {
-        "name": "Collapsed In Sunbeams",
-        "url": "https://open.spotify.com/album/42joEEymK7EIHODfNB4yug"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        }
-      ],
-      "duration_ms": 270066,
-      "name": "Hope",
-      "url": "https://open.spotify.com/track/23bwujVYKeGdbcLd2LQxVo"
+      "duration_ms": 219648,
+      "name": "Time After Time - Spotify Singles",
+      "url": "https://open.spotify.com/track/6vQCNDNbA0DQoSPftbzS1W"
     },
     {
       "added_at": "2023-07-10 17:37:38",
@@ -1137,22 +1137,6 @@
       "url": "https://open.spotify.com/track/2rJnYvUiEstXyk5nSvbLpI"
     },
     {
-      "added_at": "2023-07-10 17:37:38",
-      "album": {
-        "name": "Classics",
-        "url": "https://open.spotify.com/album/5TAVRgiAR2E79dQ1HrljqX"
-      },
-      "artists": [
-        {
-          "name": "She & Him",
-          "url": "https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "This Girl's In Love With You",
-      "url": "https://open.spotify.com/track/5bn5FRmh9HbVD2fX7HxcAf"
-    },
-    {
       "added_at": "2023-12-20 18:48:46",
       "album": {
         "name": "Dos Extra\u00f1os (Cuarteto de Cuerda)",
@@ -1167,6 +1151,22 @@
       "duration_ms": 178630,
       "name": "Dos Extra\u00f1os (Cuarteto de Cuerda)",
       "url": "https://open.spotify.com/track/4zRB4bTeun0o5YPrLori9v"
+    },
+    {
+      "added_at": "2023-07-10 17:37:38",
+      "album": {
+        "name": "Classics",
+        "url": "https://open.spotify.com/album/5TAVRgiAR2E79dQ1HrljqX"
+      },
+      "artists": [
+        {
+          "name": "She & Him",
+          "url": "https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "This Girl's In Love With You",
+      "url": "https://open.spotify.com/track/5bn5FRmh9HbVD2fX7HxcAf"
     },
     {
       "added_at": "2023-07-10 17:37:38",
@@ -1259,18 +1259,18 @@
     {
       "added_at": "2023-07-10 17:37:38",
       "album": {
-        "name": "(500) Days of Summer (Music from the Motion Picture)",
-        "url": "https://open.spotify.com/album/2n5AOB0lGse7qp38HvVROB"
+        "name": "Metals",
+        "url": "https://open.spotify.com/album/16EdRx2P4PVgZFK53UF3JD"
       },
       "artists": [
         {
-          "name": "She & Him",
-          "url": "https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4"
+          "name": "Feist",
+          "url": "https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj"
         }
       ],
-      "duration_ms": 132493,
-      "name": "Please, Please, Please, Let Me Get What I Want",
-      "url": "https://open.spotify.com/track/3XcYPyuk0BwiB4w6tgKpOC"
+      "duration_ms": 204626,
+      "name": "How Come You Never Go There",
+      "url": "https://open.spotify.com/track/1f4YlPYTV3H3Namp0NvVMp"
     }
   ],
   "unique_name": "cafeter\u00eda ",

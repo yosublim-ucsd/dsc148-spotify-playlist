@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWWpEY2WZLnS.md) - [plain]
 
 > Los éxitos del Dembow\. Portada: Lomiiel
 
-[Spotify](https://open.spotify.com/user/spotify) - 544,612 likes - 50 songs - 1 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 545,073 likes - 50 songs - 1 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Que linda](https://open.spotify.com/track/1FExEHMPs4J1qLZTPFOuaX) | [Lomiiel](https://open.spotify.com/artist/2rMFPjySMqkgBajkLKL6zo), [Donaty](https://open.spotify.com/artist/2dHbjVgpO3NvzY8D7yZvji), [Papera](https://open.spotify.com/artist/0L7AJNWmGtSjzASON8eTDW), [Leo RD](https://open.spotify.com/artist/7w0t8O8nbirfLvGJgKK0xk) | [Que Linda](https://open.spotify.com/album/7fSkYkkdeHXK5xZXCgd1I4) | 2:17 |
-| 2 | [Tuwi Tuwi](https://open.spotify.com/track/4JfRDEkkMYiLp76wepG9Vw) | [Jey One](https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw), [Donaty](https://open.spotify.com/artist/2dHbjVgpO3NvzY8D7yZvji) | [Tuwi Tuwi](https://open.spotify.com/album/2TLl92KX0u6TNGtcMGD4EY) | 2:15 |
-| 3 | [EN BLUSA](https://open.spotify.com/track/173Nv2ynszhKfmKwHef0Eo) | [Papera](https://open.spotify.com/artist/0L7AJNWmGtSjzASON8eTDW), [Yoan Retro](https://open.spotify.com/artist/2cMBe6WzKwPphDZ0QNK8Zi) | [EN BLUSA](https://open.spotify.com/album/1mUItA6EXfOuuj6a6iR8A9) | 2:38 |
-| 4 | [Dale 2](https://open.spotify.com/track/7eYg1DaZOkTUJbMpzTAfhl) | [Yailin la Mas Viral](https://open.spotify.com/artist/4ncaw2cfA3Wlly1tBD2eWt), [Kreizy k](https://open.spotify.com/artist/3Z8i7zAQr7lPwH7pUQnlXJ) | [Dale 2](https://open.spotify.com/album/5XueSNnIcB4DBhZY81Epoj) | 2:28 |
-| 5 | [Vivela](https://open.spotify.com/track/72KLtcHd8rcu5Oms0zktgz) | [Donaty](https://open.spotify.com/artist/2dHbjVgpO3NvzY8D7yZvji) | [Vivela](https://open.spotify.com/album/3YYTrFbNppGGYLlY6LnUgK) | 2:11 |
-| 6 | [HAY LUPITA](https://open.spotify.com/track/1ciCd4tjOBZMu3CcXkOAed) | [Lomiiel](https://open.spotify.com/artist/2rMFPjySMqkgBajkLKL6zo) | [HAY LUPITA](https://open.spotify.com/album/1gGvVUNqBHKn1ct3FX5EVM) | 1:45 |
+| 1 | [Dale 2](https://open.spotify.com/track/7eYg1DaZOkTUJbMpzTAfhl) | [Yailin la Mas Viral](https://open.spotify.com/artist/4ncaw2cfA3Wlly1tBD2eWt), [Kreizy k](https://open.spotify.com/artist/3Z8i7zAQr7lPwH7pUQnlXJ) | [Dale 2](https://open.spotify.com/album/5XueSNnIcB4DBhZY81Epoj) | 2:28 |
+| 2 | [Que linda](https://open.spotify.com/track/1FExEHMPs4J1qLZTPFOuaX) | [Lomiiel](https://open.spotify.com/artist/2rMFPjySMqkgBajkLKL6zo), [Donaty](https://open.spotify.com/artist/2dHbjVgpO3NvzY8D7yZvji), [Papera](https://open.spotify.com/artist/0L7AJNWmGtSjzASON8eTDW), [Leo RD](https://open.spotify.com/artist/7w0t8O8nbirfLvGJgKK0xk) | [Que Linda](https://open.spotify.com/album/7fSkYkkdeHXK5xZXCgd1I4) | 2:17 |
+| 3 | [Tuwi Tuwi](https://open.spotify.com/track/4JfRDEkkMYiLp76wepG9Vw) | [Jey One](https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw), [Donaty](https://open.spotify.com/artist/2dHbjVgpO3NvzY8D7yZvji) | [Tuwi Tuwi](https://open.spotify.com/album/2TLl92KX0u6TNGtcMGD4EY) | 2:15 |
+| 4 | [HAY LUPITA](https://open.spotify.com/track/1ciCd4tjOBZMu3CcXkOAed) | [Lomiiel](https://open.spotify.com/artist/2rMFPjySMqkgBajkLKL6zo) | [HAY LUPITA](https://open.spotify.com/album/1gGvVUNqBHKn1ct3FX5EVM) | 1:45 |
+| 5 | [EN BLUSA](https://open.spotify.com/track/173Nv2ynszhKfmKwHef0Eo) | [Papera](https://open.spotify.com/artist/0L7AJNWmGtSjzASON8eTDW), [Yoan Retro](https://open.spotify.com/artist/2cMBe6WzKwPphDZ0QNK8Zi) | [EN BLUSA](https://open.spotify.com/album/1mUItA6EXfOuuj6a6iR8A9) | 2:38 |
+| 6 | [Vivela](https://open.spotify.com/track/72KLtcHd8rcu5Oms0zktgz) | [Donaty](https://open.spotify.com/artist/2dHbjVgpO3NvzY8D7yZvji) | [Vivela](https://open.spotify.com/album/3YYTrFbNppGGYLlY6LnUgK) | 2:11 |
 | 7 | [Onana](https://open.spotify.com/track/5oVBCcGv1EX2foIs6X6GRw) | [Jey One](https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw) | [Onana](https://open.spotify.com/album/77fNQQR6ppjbsF30EUFEHP) | 2:08 |
 | 8 | [PIKY](https://open.spotify.com/track/3s53B1v7ijagovFhhWVX8n) | [Jezzy](https://open.spotify.com/artist/1y8spb5Thg0p5ybNtdk4tu), [Leo RD](https://open.spotify.com/artist/7w0t8O8nbirfLvGJgKK0xk) | [PIKY](https://open.spotify.com/album/0t5bMVKuAIiqToDa5bz6li) | 1:58 |
 | 9 | [Sobalo](https://open.spotify.com/track/5Zy0g1WbeA3JM3INpYWoyN) | [Tato el X5](https://open.spotify.com/artist/4kt9gd5iP5WJmRQoR9Jpv8), [Negrette Game Over](https://open.spotify.com/artist/6eBu9oUo9fYzCYfSz1ow43), [Bryant LR](https://open.spotify.com/artist/73uwZQQfha8JhNvBqVW1DL) | [Sobalo](https://open.spotify.com/album/0sYHt3V97mmiP8ad0DqEmm) | 1:56 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWWpEY2WZLnS.md) - [plain]
 | 49 | [Sistema De Patio](https://open.spotify.com/track/65497v9jzFfu5sSA8ADap5) | [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ), [Treintisiete](https://open.spotify.com/artist/1ZbuFVK9SeRYrZfQLkNzah) | [Sistema De Patio](https://open.spotify.com/album/2CEgQxkmV8DKlSp0hHR839) | 2:14 |
 | 50 | [Rulay & Pica Pollo](https://open.spotify.com/track/0RocDM4foAy5mxEKuegGnu) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [EL PERROTE WZ](https://open.spotify.com/artist/06VlyIMw7ZPYhc6wNu4f4D), [Wander Love](https://open.spotify.com/artist/4gPLblkCTiViD8GqD532Nd) | [Rulay & Pica Pollo](https://open.spotify.com/album/7jNzI4iV6TXfg5ERQbgUyu) | 4:23 |
 
-Snapshot ID: `Zv24RAAAAABfAgbNfb+NeA18v1NgMy6J`
+Snapshot ID: `ZwM4vQAAAADuKjjZqB99XkgxQrPNryXi`

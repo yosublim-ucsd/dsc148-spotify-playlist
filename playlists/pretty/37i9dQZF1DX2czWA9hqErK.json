@@ -1,6 +1,6 @@
 {
   "description": "Laid back sounds to see you through your day.",
-  "num_followers": 1360222,
+  "num_followers": 1360268,
   "original_name": "Easy",
   "owner": {
     "name": "Spotify",
@@ -143,22 +143,6 @@
     {
       "added_at": "2024-09-13 08:53:07",
       "album": {
-        "name": "The Great American Bar Scene",
-        "url": "https://open.spotify.com/album/1U0Z7QjSzlg3gMeUOuUldz"
-      },
-      "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        }
-      ],
-      "duration_ms": 233333,
-      "name": "28",
-      "url": "https://open.spotify.com/track/5iJKGpnFfvbjZJeAtwXfCj"
-    },
-    {
-      "added_at": "2024-09-13 08:53:07",
-      "album": {
         "name": "Lies Lies Lies",
         "url": "https://open.spotify.com/album/62ldGEkFUkQa34B8qsAFyc"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 198068,
       "name": "Lies Lies Lies",
       "url": "https://open.spotify.com/track/7Fzl7QaTu47WyP9R5S5mh5"
+    },
+    {
+      "added_at": "2024-09-13 08:53:07",
+      "album": {
+        "name": "Daylight",
+        "url": "https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv"
+      },
+      "artists": [
+        {
+          "name": "David Kushner",
+          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
+        }
+      ],
+      "duration_ms": 212953,
+      "name": "Daylight",
+      "url": "https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj"
     },
     {
       "added_at": "2024-09-13 08:53:07",
@@ -191,18 +191,18 @@
     {
       "added_at": "2024-09-13 08:53:07",
       "album": {
-        "name": "Daylight",
-        "url": "https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv"
+        "name": "The Great American Bar Scene",
+        "url": "https://open.spotify.com/album/1U0Z7QjSzlg3gMeUOuUldz"
       },
       "artists": [
         {
-          "name": "David Kushner",
-          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
         }
       ],
-      "duration_ms": 212953,
-      "name": "Daylight",
-      "url": "https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj"
+      "duration_ms": 233333,
+      "name": "28",
+      "url": "https://open.spotify.com/track/5iJKGpnFfvbjZJeAtwXfCj"
     },
     {
       "added_at": "2024-09-13 08:53:07",
@@ -731,22 +731,6 @@
     {
       "added_at": "2024-09-13 08:53:07",
       "album": {
-        "name": "Please Don't Fall In Love With Me",
-        "url": "https://open.spotify.com/album/6PRJURaaU6YmwLW0rn44rt"
-      },
-      "artists": [
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        }
-      ],
-      "duration_ms": 177562,
-      "name": "Please Don't Fall In Love With Me",
-      "url": "https://open.spotify.com/track/7jEpRsSusmGqKFISucMnV7"
-    },
-    {
-      "added_at": "2024-09-13 08:53:07",
-      "album": {
         "name": "28 (with Dean Lewis)",
         "url": "https://open.spotify.com/album/04iQ8HwkumvYXot2TG3F0K"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 208293,
       "name": "28 (with Dean Lewis)",
       "url": "https://open.spotify.com/track/3fajzhEHSdlSmY31dORz9M"
+    },
+    {
+      "added_at": "2024-09-13 08:53:07",
+      "album": {
+        "name": "Please Don't Fall In Love With Me",
+        "url": "https://open.spotify.com/album/6PRJURaaU6YmwLW0rn44rt"
+      },
+      "artists": [
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "duration_ms": 177562,
+      "name": "Please Don't Fall In Love With Me",
+      "url": "https://open.spotify.com/track/7jEpRsSusmGqKFISucMnV7"
     },
     {
       "added_at": "2024-09-13 08:53:07",
@@ -847,22 +847,6 @@
     {
       "added_at": "2024-09-13 08:53:07",
       "album": {
-        "name": "The Mountain Is You",
-        "url": "https://open.spotify.com/album/4JI3u1wRGAu5H4CB5NFyBS"
-      },
-      "artists": [
-        {
-          "name": "Chance Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh"
-        }
-      ],
-      "duration_ms": 196210,
-      "name": "The Mountain Is You",
-      "url": "https://open.spotify.com/track/6IiAEnXYsSD5De5M502OBa"
-    },
-    {
-      "added_at": "2024-09-13 08:53:07",
-      "album": {
         "name": "clouds",
         "url": "https://open.spotify.com/album/01avaual4rIAIFbiVg7hUS"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 162615,
       "name": "clouds",
       "url": "https://open.spotify.com/track/1Gp3vNi64EY7sEStAZ51en"
+    },
+    {
+      "added_at": "2024-09-13 08:53:07",
+      "album": {
+        "name": "The Mountain Is You",
+        "url": "https://open.spotify.com/album/4JI3u1wRGAu5H4CB5NFyBS"
+      },
+      "artists": [
+        {
+          "name": "Chance Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh"
+        }
+      ],
+      "duration_ms": 196210,
+      "name": "The Mountain Is You",
+      "url": "https://open.spotify.com/track/6IiAEnXYsSD5De5M502OBa"
     },
     {
       "added_at": "2024-09-13 08:53:07",
@@ -975,22 +975,6 @@
     {
       "added_at": "2024-09-13 08:53:07",
       "album": {
-        "name": "Betting on Us",
-        "url": "https://open.spotify.com/album/6zcbHGjmhj9djpGpkn47bs"
-      },
-      "artists": [
-        {
-          "name": "Myles Smith",
-          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
-        }
-      ],
-      "duration_ms": 155761,
-      "name": "Betting on Us",
-      "url": "https://open.spotify.com/track/0cgiEyA9bl4EvbhnvocQm6"
-    },
-    {
-      "added_at": "2024-09-13 08:53:07",
-      "album": {
         "name": "Is What It Is",
         "url": "https://open.spotify.com/album/4DJnKYeQB8fSFaRTjXD7rB"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 203986,
       "name": "Is What It Is",
       "url": "https://open.spotify.com/track/2wUvQE1VLMw0jRJVYn7qbt"
+    },
+    {
+      "added_at": "2024-09-13 08:53:07",
+      "album": {
+        "name": "Betting on Us",
+        "url": "https://open.spotify.com/album/6zcbHGjmhj9djpGpkn47bs"
+      },
+      "artists": [
+        {
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+        }
+      ],
+      "duration_ms": 155761,
+      "name": "Betting on Us",
+      "url": "https://open.spotify.com/track/0cgiEyA9bl4EvbhnvocQm6"
     },
     {
       "added_at": "2024-09-13 08:53:07",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2024-09-13 08:53:07",
       "album": {
-        "name": "Tear It All Apart",
-        "url": "https://open.spotify.com/album/2rhfMTNeenYPxfTjqTLaBW"
-      },
-      "artists": [
-        {
-          "name": "Michael Marcagi",
-          "url": "https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ"
-        }
-      ],
-      "duration_ms": 186342,
-      "name": "Tear It All Apart",
-      "url": "https://open.spotify.com/track/2paY84rEBVDm46rdPaQY88"
-    },
-    {
-      "added_at": "2024-09-13 08:53:07",
-      "album": {
         "name": "Songs in the Gravel",
         "url": "https://open.spotify.com/album/5LH0DO3n956vBZ5vK0mLL2"
       },
@@ -1071,22 +1055,6 @@
       "duration_ms": 203077,
       "name": "If I Had a Lover",
       "url": "https://open.spotify.com/track/6a9VsSmDtb7wxv1oRgCfIa"
-    },
-    {
-      "added_at": "2024-09-13 08:53:07",
-      "album": {
-        "name": "Can\u2019t Even Hate You",
-        "url": "https://open.spotify.com/album/1t0tUAlK4qQC71NiwwjFOf"
-      },
-      "artists": [
-        {
-          "name": "Cian Ducrot",
-          "url": "https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W"
-        }
-      ],
-      "duration_ms": 237203,
-      "name": "Can't Even Hate You",
-      "url": "https://open.spotify.com/track/0NEUahGKmsRwHQLN9YeIOL"
     },
     {
       "added_at": "2024-09-13 08:53:07",
@@ -1107,18 +1075,18 @@
     {
       "added_at": "2024-09-13 08:53:07",
       "album": {
-        "name": "Sweet Oblivion",
-        "url": "https://open.spotify.com/album/07gvXUNtRMXI98Hf3dd118"
+        "name": "Tear It All Apart",
+        "url": "https://open.spotify.com/album/2rhfMTNeenYPxfTjqTLaBW"
       },
       "artists": [
         {
-          "name": "David Kushner",
-          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
+          "name": "Michael Marcagi",
+          "url": "https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ"
         }
       ],
-      "duration_ms": 135198,
-      "name": "Sweet Oblivion",
-      "url": "https://open.spotify.com/track/62ZeAQ8DHdCXJqPQVOTsKu"
+      "duration_ms": 186342,
+      "name": "Tear It All Apart",
+      "url": "https://open.spotify.com/track/2paY84rEBVDm46rdPaQY88"
     },
     {
       "added_at": "2024-09-13 08:53:07",
@@ -1139,6 +1107,22 @@
     {
       "added_at": "2024-09-13 08:53:07",
       "album": {
+        "name": "Sweet Oblivion",
+        "url": "https://open.spotify.com/album/07gvXUNtRMXI98Hf3dd118"
+      },
+      "artists": [
+        {
+          "name": "David Kushner",
+          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
+        }
+      ],
+      "duration_ms": 135198,
+      "name": "Sweet Oblivion",
+      "url": "https://open.spotify.com/track/62ZeAQ8DHdCXJqPQVOTsKu"
+    },
+    {
+      "added_at": "2024-09-13 08:53:07",
+      "album": {
         "name": "Comfortable",
         "url": "https://open.spotify.com/album/6k8uoIKgs0Qu2CuhNPMN6s"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 228961,
       "name": "Comfortable",
       "url": "https://open.spotify.com/track/1BEioZa6o8AVDmOh5Sc86j"
+    },
+    {
+      "added_at": "2024-09-13 08:53:07",
+      "album": {
+        "name": "Can\u2019t Even Hate You",
+        "url": "https://open.spotify.com/album/1t0tUAlK4qQC71NiwwjFOf"
+      },
+      "artists": [
+        {
+          "name": "Cian Ducrot",
+          "url": "https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W"
+        }
+      ],
+      "duration_ms": 237203,
+      "name": "Can't Even Hate You",
+      "url": "https://open.spotify.com/track/0NEUahGKmsRwHQLN9YeIOL"
     },
     {
       "added_at": "2024-09-13 08:53:07",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2024-09-13 08:53:07",
       "album": {
-        "name": "Ground",
-        "url": "https://open.spotify.com/album/44kxeIVSEqnpZKnPHb2Lhw"
-      },
-      "artists": [
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        }
-      ],
-      "duration_ms": 182093,
-      "name": "Ground",
-      "url": "https://open.spotify.com/track/5O0EFJLBBQb0byw3t6ycw9"
-    },
-    {
-      "added_at": "2024-09-13 08:53:07",
-      "album": {
         "name": "Nomad",
         "url": "https://open.spotify.com/album/6Utl8nDyt1rOSXA2vOnqdq"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 225572,
       "name": "Nomad",
       "url": "https://open.spotify.com/track/5NR7XN88d1NhOXKR0vD5XK"
+    },
+    {
+      "added_at": "2024-09-13 08:53:07",
+      "album": {
+        "name": "Ground",
+        "url": "https://open.spotify.com/album/44kxeIVSEqnpZKnPHb2Lhw"
+      },
+      "artists": [
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "duration_ms": 182093,
+      "name": "Ground",
+      "url": "https://open.spotify.com/track/5O0EFJLBBQb0byw3t6ycw9"
     },
     {
       "added_at": "2024-09-13 08:53:07",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2024-09-13 08:53:07",
       "album": {
-        "name": "Humankind",
-        "url": "https://open.spotify.com/album/6IHG8lHGYHGVWfrtBosCJd"
-      },
-      "artists": [
-        {
-          "name": "David Kushner",
-          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
-        }
-      ],
-      "duration_ms": 183288,
-      "name": "Humankind",
-      "url": "https://open.spotify.com/track/3LH03hNxNUceSZCUXdgfRm"
-    },
-    {
-      "added_at": "2024-09-13 08:53:07",
-      "album": {
         "name": "Good Vibrations",
         "url": "https://open.spotify.com/album/6OsiBdHNt2qPmSY06HYQYF"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 185272,
       "name": "bad emotions",
       "url": "https://open.spotify.com/track/2nbEuZBC0LzeRpU6b3P05m"
+    },
+    {
+      "added_at": "2024-09-13 08:53:07",
+      "album": {
+        "name": "Humankind",
+        "url": "https://open.spotify.com/album/6IHG8lHGYHGVWfrtBosCJd"
+      },
+      "artists": [
+        {
+          "name": "David Kushner",
+          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
+        }
+      ],
+      "duration_ms": 183288,
+      "name": "Humankind",
+      "url": "https://open.spotify.com/track/3LH03hNxNUceSZCUXdgfRm"
     },
     {
       "added_at": "2024-09-13 08:53:07",
@@ -1399,6 +1399,22 @@
     {
       "added_at": "2024-09-13 08:53:07",
       "album": {
+        "name": "live more & love more",
+        "url": "https://open.spotify.com/album/5sgznu5iMVavhZy04BsUb4"
+      },
+      "artists": [
+        {
+          "name": "Cat Burns",
+          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
+        }
+      ],
+      "duration_ms": 158259,
+      "name": "live more & love more",
+      "url": "https://open.spotify.com/track/1Oj4FgVngNgBTvd0a9nI2k"
+    },
+    {
+      "added_at": "2024-09-13 08:53:07",
+      "album": {
         "name": "12 Notes",
         "url": "https://open.spotify.com/album/4ZavFNoQHApc5NExeJl5Xj"
       },
@@ -1415,22 +1431,6 @@
       "duration_ms": 154705,
       "name": "Ways To Go (feat. Khalid)",
       "url": "https://open.spotify.com/track/4NuS3N2ip2WkR74a3fr3K6"
-    },
-    {
-      "added_at": "2024-09-13 08:53:07",
-      "album": {
-        "name": "live more & love more",
-        "url": "https://open.spotify.com/album/5sgznu5iMVavhZy04BsUb4"
-      },
-      "artists": [
-        {
-          "name": "Cat Burns",
-          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
-        }
-      ],
-      "duration_ms": 158259,
-      "name": "live more & love more",
-      "url": "https://open.spotify.com/track/1Oj4FgVngNgBTvd0a9nI2k"
     },
     {
       "added_at": "2024-09-13 08:53:07",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2024-09-13 08:53:07",
       "album": {
-        "name": "Alienated",
-        "url": "https://open.spotify.com/album/4QaEAly7ki3AQdC8jZZC2i"
-      },
-      "artists": [
-        {
-          "name": "ZAYN",
-          "url": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
-        }
-      ],
-      "duration_ms": 247613,
-      "name": "Alienated",
-      "url": "https://open.spotify.com/track/3Mc9WnQJxBDKBHpys9O1Bw"
-    },
-    {
-      "added_at": "2024-09-13 08:53:07",
-      "album": {
         "name": "Here It Is",
         "url": "https://open.spotify.com/album/0ibF6E9LRmi4Ar7dUKkIaL"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 193389,
       "name": "Here It Is",
       "url": "https://open.spotify.com/track/6EtlSjhcsMofKcd9Kx2cCV"
+    },
+    {
+      "added_at": "2024-09-13 08:53:07",
+      "album": {
+        "name": "Alienated",
+        "url": "https://open.spotify.com/album/4QaEAly7ki3AQdC8jZZC2i"
+      },
+      "artists": [
+        {
+          "name": "ZAYN",
+          "url": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
+        }
+      ],
+      "duration_ms": 247613,
+      "name": "Alienated",
+      "url": "https://open.spotify.com/track/3Mc9WnQJxBDKBHpys9O1Bw"
     },
     {
       "added_at": "2024-09-13 08:53:07",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2024-09-13 08:53:07",
       "album": {
-        "name": "The End",
-        "url": "https://open.spotify.com/album/5O2KoaZbV8Op3Tsl0Fq7lI"
-      },
-      "artists": [
-        {
-          "name": "Halsey",
-          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
-        }
-      ],
-      "duration_ms": 197062,
-      "name": "The End",
-      "url": "https://open.spotify.com/track/1KNI1JuCWWGet03MmoRp4R"
-    },
-    {
-      "added_at": "2024-09-13 08:53:07",
-      "album": {
         "name": "Crystal Tears",
         "url": "https://open.spotify.com/album/5EQiMkO4WpYpk8zPG8hrTb"
       },
@@ -1547,18 +1531,18 @@
     {
       "added_at": "2024-09-13 08:53:07",
       "album": {
-        "name": "What I Am",
-        "url": "https://open.spotify.com/album/3Q9nQTbbZovRJQfY62oXR0"
+        "name": "The End",
+        "url": "https://open.spotify.com/album/5O2KoaZbV8Op3Tsl0Fq7lI"
       },
       "artists": [
         {
-          "name": "ZAYN",
-          "url": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
         }
       ],
-      "duration_ms": 211280,
-      "name": "What I Am",
-      "url": "https://open.spotify.com/track/7qZuRt0v6zox5gMAMCls5M"
+      "duration_ms": 197062,
+      "name": "The End",
+      "url": "https://open.spotify.com/track/1KNI1JuCWWGet03MmoRp4R"
     },
     {
       "added_at": "2024-09-13 08:53:07",
@@ -1591,6 +1575,22 @@
       "duration_ms": 152073,
       "name": "When I\u2019m Leavin\u2019",
       "url": "https://open.spotify.com/track/6oRHBT8w7LshsnffOf36X6"
+    },
+    {
+      "added_at": "2024-09-13 08:53:07",
+      "album": {
+        "name": "What I Am",
+        "url": "https://open.spotify.com/album/3Q9nQTbbZovRJQfY62oXR0"
+      },
+      "artists": [
+        {
+          "name": "ZAYN",
+          "url": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
+        }
+      ],
+      "duration_ms": 211280,
+      "name": "What I Am",
+      "url": "https://open.spotify.com/track/7qZuRt0v6zox5gMAMCls5M"
     },
     {
       "added_at": "2024-09-13 08:53:07",
@@ -1643,18 +1643,18 @@
     {
       "added_at": "2024-09-13 08:53:07",
       "album": {
-        "name": "Vertigo",
-        "url": "https://open.spotify.com/album/3VA9PnquCzG4E2GHgBzFQE"
+        "name": "Crazymad, For Me",
+        "url": "https://open.spotify.com/album/27E56zhC7dIPjOapQ1tc3O"
       },
       "artists": [
         {
-          "name": "Griff",
-          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
+          "name": "CMAT",
+          "url": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
         }
       ],
-      "duration_ms": 150243,
-      "name": "So Fast",
-      "url": "https://open.spotify.com/track/7sC4LsVu0KTdn1dLC2tnhu"
+      "duration_ms": 216946,
+      "name": "Stay For Something",
+      "url": "https://open.spotify.com/track/05TyHrGHIEg8EyW31zJj0c"
     }
   ],
   "unique_name": "Easy",

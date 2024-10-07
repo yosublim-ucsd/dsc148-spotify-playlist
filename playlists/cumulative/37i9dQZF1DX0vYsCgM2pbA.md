@@ -4,7 +4,7 @@
 
 > Kick on with this mix of homegrown electronic music
 
-199 songs - 12 hr 5 min
+200 songs - 12 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [All You Children](https://open.spotify.com/track/1zYuc5YFYlFfSSq6IslHVY) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [The Avalanches](https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED) | [All You Children](https://open.spotify.com/album/5mBSawja8ThkqKHqMagoCk) | 4:14 | 2024-08-22 |  |
 | [All Your Love](https://open.spotify.com/track/2oHwD3ipoRTMNgHuZn6qdV) | [Flight Facilities](https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM), [Dustin Tebbutt](https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX) | [All Your Love](https://open.spotify.com/album/6Bg2MeHWdET3UX29orbiym) | 4:45 | 2023-11-09 | 2023-12-11 |
 | [Alone](https://open.spotify.com/track/0ehcOXeXkE1Cozi3NIRWrv) | [Tobiahs](https://open.spotify.com/artist/4eHzBO6qaL2wt35kENSbTs) | [Alone](https://open.spotify.com/album/57BlLED3PRgcP0lmpPuv2G) | 2:57 | 2024-08-22 |  |
+| [Alone Again \(feat\. PEPTALK\)](https://open.spotify.com/track/5dc3M8IGZLZX6nk8AjtO7k) | [L D R U](https://open.spotify.com/artist/2RnDmyX1zzOkK5Cj9QPhMq), [PEPTALK](https://open.spotify.com/artist/2vYtdvQwAT3n7Gq3crN4EA) | [Alone Again \(feat\. PEPTALK\)](https://open.spotify.com/album/3vwhUwx3bSeAZoX3XhBoHt) | 3:15 | 2024-02-01 |  |
 | [Always Got The Love](https://open.spotify.com/track/5WCvSTVdMrwwk50yGVHm1g) | [Cub Sport](https://open.spotify.com/artist/6vqMDhoigg5btfdPsPTVFt) | [Always Got The Love](https://open.spotify.com/album/7mV7NuKPXVlRXhE1BodCe1) | 3:27 | 2022-12-01 | 2023-04-22 |
 | [attached \- demo](https://open.spotify.com/track/5hSvUYzplozSK2u7dnJrUo) | [Ukiyo](https://open.spotify.com/artist/0Geqa2iYzhQA5oVKUWuu0x) | [These Are Not My Friends](https://open.spotify.com/album/1liCAmNOPO2u3ZEE6oKiZb) | 2:36 | 2023-11-23 | 2024-01-19 |
 | [Bad For Me](https://open.spotify.com/track/7oAD6PCPiKu02kLqagi9Up) | [Tom Santa](https://open.spotify.com/artist/1dTEPvUhxpFzL7UMKHWFfZ) | [Bad For Me](https://open.spotify.com/album/6Y4P6gHvQIxLvOkpeEV9Vz) | 2:57 | 2023-06-01 | 2024-07-04 |
@@ -170,7 +171,7 @@
 | [Sun Moon](https://open.spotify.com/track/3PdWdN2ATpRSWOsZMdChgp) | [Cabu](https://open.spotify.com/artist/44hPDOKyTwkFxOL08UzNQE), [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [Noé](https://open.spotify.com/artist/5FoIen3mGXGHRUeKIE7ymi) | [So Far to Go](https://open.spotify.com/album/2xVOsuiQzvlvkKBIVXxjtc) | 2:34 | 2022-12-15 | 2024-04-19 |
 | [Sun Phase](https://open.spotify.com/track/1yfUYv5TOkuFbePQubZlEk) | [Pretty Girl](https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98) | [Sun Phase](https://open.spotify.com/album/39UdQPn62ARMPc0NUNQOLE) | 5:16 | 2022-12-01 |  |
 | [Sundream](https://open.spotify.com/track/0PHWXLXOQXGlyUGq7woVFZ) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Atlas \(Light / Dark Deluxe Edition\)](https://open.spotify.com/album/3HZKPiOGyFqmLvehf77H47) | 4:35 | 2022-12-01 | 2023-02-10 |
-| [Sunny Day](https://open.spotify.com/track/15OCXMVSaf6sT6PVsBtgHT) | [Niicap](https://open.spotify.com/artist/7CyI6goJm3xgAzz8RbYDmW), [Benji Lewis](https://open.spotify.com/artist/1BPsbKiNgav1TY1ITIU8C5) | [Sunny Day](https://open.spotify.com/album/0ZcsTyc5wSv7VsQGJSjXAa) | 2:08 | 2023-11-30 |  |
+| [Sunny Day](https://open.spotify.com/track/15OCXMVSaf6sT6PVsBtgHT) | [Niicap](https://open.spotify.com/artist/7CyI6goJm3xgAzz8RbYDmW), [Benji Lewis](https://open.spotify.com/artist/1BPsbKiNgav1TY1ITIU8C5) | [Sunny Day](https://open.spotify.com/album/0ZcsTyc5wSv7VsQGJSjXAa) | 2:08 | 2023-11-30 | 2024-10-07 |
 | [Supersonic](https://open.spotify.com/track/3i7mQW4Z7sYnnDzt23KniJ) | [Tom Budin](https://open.spotify.com/artist/1kwRrQDCpXpVliMDntpxCt), [Dave Winnel](https://open.spotify.com/artist/1K80Wcuuo13i28cVd68mxm) | [Supersonic](https://open.spotify.com/album/2hSEg1ZqwBdqY5dpTy8SrY) | 2:49 | 2022-12-15 | 2024-08-23 |
 | [Take It Off](https://open.spotify.com/track/0OUGLr0XvMg1uynU1tn6pq) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Aatig](https://open.spotify.com/artist/21OabQwzpxuFNxp7p781Ao) | [Take It Off](https://open.spotify.com/album/3wH9kI7bgLquNTgIA6Ovto) | 3:14 | 2023-06-08 | 2023-07-06 |
 | [TAKE IT OFF](https://open.spotify.com/track/7zp9FOU4cjFdGN1zdWTvcB) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Aatig](https://open.spotify.com/artist/21OabQwzpxuFNxp7p781Ao) | [TAKE IT OFF](https://open.spotify.com/album/29p3XedLUbGNxK7aje4WPW) | 3:14 | 2023-06-29 | 2024-04-19 |

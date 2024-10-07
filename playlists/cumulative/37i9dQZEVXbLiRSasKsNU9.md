@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Global.
 
-3,039 songs - 6 day 16 hr 49 min
+3,040 songs - 6 day 16 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -412,6 +412,7 @@
 | [Bloom](https://open.spotify.com/track/5utUZ5nv6y6dR8irsnOQEj) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4) | [Bloom](https://open.spotify.com/album/7eSHhMZCCvJvubQ3plHlYZ) | 2:55 | 2024-02-27 | 2024-03-01 |
 | [BLOW \(WHITE GIRL IN TOWN\) \[feat\. Kilo Ali\]](https://open.spotify.com/track/52r4FYDc8x1DlWt6x2vuiT) | [Sosa UK](https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5), [Kilo Ali](https://open.spotify.com/artist/6qbmEw8JjPrPV4HknWp0O1) | [BLOW \(WHITE GIRL IN TOWN\) \[feat\. Kilo Ali\]](https://open.spotify.com/album/3XqYLQXudPtDBs73gZYLQG) | 2:25 | 2024-07-09 | 2024-07-21 |
 | [BLUE](https://open.spotify.com/track/2prqm9sPLj10B4Wg0wE5x9) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 5:43 | 2024-06-04 | 2024-06-13 |
+| [blue](https://open.spotify.com/track/2ezMnGfGww3WSOJp7TwI1N) | [yung kai](https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk) | [blue](https://open.spotify.com/album/4dhoGa2hqBQ402BaIwBpcn) | 3:34 | 2024-10-06 |  |
 | [Blue Butterflies](https://open.spotify.com/track/1FpQ2EPJarW7rpjFGGd8Jd) | [JHIN](https://open.spotify.com/artist/1zbZa82fOkxnWd44o2uV6c) | [Blue Butterflies](https://open.spotify.com/album/2cJJcQCoQRfQe3inKIQa3K) | 2:17 | 2023-09-28 | 2023-10-03 |
 | [Blue Flame](https://open.spotify.com/track/37YoRLUu1qId0ewavgvnkG) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [FEARLESS](https://open.spotify.com/album/4Mc7WwYH41hgUWeKX25Sot) | 3:21 | 2022-05-24 | 2022-05-27 |
 | [Blue Hair](https://open.spotify.com/track/39sDitIeCMrVX2QyXHY46t) | [TV Girl](https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W) | [Death of a Party Girl](https://open.spotify.com/album/5kFjYk3umY8Pu1lymIJLVy) | 3:37 | 2023-02-17 | 2023-04-19 |
@@ -2920,7 +2921,7 @@
 | [WOH](https://open.spotify.com/track/1QUU43rTDMnGl4xyaIfsYN) | [Ikka](https://open.spotify.com/artist/07iEy1AecUPVzfC2J2gCHR), [Dino James](https://open.spotify.com/artist/45PG2L6Fh2XvYL4ONzpdoW), [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1) | [WOH](https://open.spotify.com/album/0hYH2JNegSbU72fmNnQ3LW) | 5:28 | 2022-12-20 | 2023-01-11 |
 | [WOKE UP](https://open.spotify.com/track/4keuUM29CtIWgsPRzRhXoW) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [WOKE UP](https://open.spotify.com/album/2e9eizo3Euh2aaBef2B2bw) | 3:08 | 2024-06-04 | 2024-06-26 |
 | [Wondering Why](https://open.spotify.com/track/1OG7o5af3ILKrFkp7pvvb0) | [The Red Clay Strays](https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ) | [Moment of Truth](https://open.spotify.com/album/66A4l8IEyuXxvDtaWp4NAI) | 3:52 | 2023-11-20 | 2024-01-31 |
-| [Woops](https://open.spotify.com/track/2XeqqfeJgtG3mQI5xNeNTy) | [Bountyhunter](https://open.spotify.com/artist/2LwFrAVwvSN81XO5KogNBl) | [Woops](https://open.spotify.com/album/5EzsDOIBR4P3uLchihopx5) | 4:18 | 2024-10-04 |  |
+| [Woops](https://open.spotify.com/track/2XeqqfeJgtG3mQI5xNeNTy) | [Bountyhunter](https://open.spotify.com/artist/2LwFrAVwvSN81XO5KogNBl) | [Woops](https://open.spotify.com/album/5EzsDOIBR4P3uLchihopx5) | 4:18 | 2024-10-04 | 2024-10-07 |
 | [WORK](https://open.spotify.com/track/3VHD84tIdyxRTtRc167YSR) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [GOLDEN HOUR : Part.1](https://open.spotify.com/album/37XJyd3MfDYOhmAaDY5gEU) | 2:52 | 2024-06-18 | 2024-06-21 |
 | [World Class Sinner / I’m A Freak](https://open.spotify.com/track/7dnixpDdQlIOX1L7O0pdFM) | [Lily\-Rose Depp](https://open.spotify.com/artist/1pBLC0qVRTB5zVMuteQ9jJ) | [The Idol Episode 1 \(Music from the HBO Original Series\)](https://open.spotify.com/album/6E3IPXh38G7UHLqVdfIY5h) | 3:19 | 2023-07-04 | 2023-07-23 |
 | [World Cup](https://open.spotify.com/track/22TFAU0e7WHAQFGzwneu1e) | [IShowSpeed](https://open.spotify.com/artist/2DZw407Bgg2Hu9E6NDgRTb) | [World Cup](https://open.spotify.com/album/3xmjwO8cc8XQ4hnFTgCVoE) | 4:16 | 2022-11-29 | 2022-12-21 |

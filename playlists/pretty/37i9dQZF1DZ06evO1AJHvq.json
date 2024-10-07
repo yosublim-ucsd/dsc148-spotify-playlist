@@ -1,12 +1,12 @@
 {
-  "description": "This is Ariel Camacho y Los Plebes Del Rancho. The essential tracks, all in one playlist.",
-  "num_followers": 415546,
+  "description": "This Is Ariel Camacho y Los Plebes Del Rancho. Los temas esenciales, todos en una lista.",
+  "num_followers": 415632,
   "original_name": "This Is Ariel Camacho y Los Plebes Del Rancho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zv3egAAAAAAR19kh3Tnew4RuA76uKb7T",
+  "snapshot_id": "ZwCBgAAAAADv4V6RFQA0e0A296MuwCsP",
   "tracks": [
     {
       "added_at": null,
@@ -427,26 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Enfiestados En Culiacan",
-        "url": "https://open.spotify.com/album/1ZeWUxWu0lZTW4q43TeQMW"
-      },
-      "artists": [
-        {
-          "name": "Banda Culiacancito",
-          "url": "https://open.spotify.com/artist/6pHlsWmX5SSpyeZNsQFS0J"
-        },
-        {
-          "name": "Ariel Camacho y Los Plebes Del Rancho",
-          "url": "https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "El Toro Encartado",
-      "url": "https://open.spotify.com/track/6VQn64fkyqm6V3rXnTDfbB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fiesta En El Cielo Vol 1",
         "url": "https://open.spotify.com/album/6BpFZZ5mmQAXYO8r33wpWc"
       },
@@ -479,22 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Recuerdos Para Pistear - En Vivo",
-        "url": "https://open.spotify.com/album/3EqZCAqWhTaD0yZouLViMU"
-      },
-      "artists": [
-        {
-          "name": "Ariel Camacho y Los Plebes Del Rancho",
-          "url": "https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul"
-        }
-      ],
-      "duration_ms": 262570,
-      "name": "Querer y Perder - En Vivo",
-      "url": "https://open.spotify.com/track/2H4yaNCtdWAfMVrsJ18aGl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Enfiestados En Culiacan",
         "url": "https://open.spotify.com/album/1ZeWUxWu0lZTW4q43TeQMW"
       },
@@ -508,9 +472,25 @@
           "url": "https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul"
         }
       ],
-      "duration_ms": 164435,
-      "name": "El Karma",
-      "url": "https://open.spotify.com/track/5Olu7SxVOd3rMjAcJVOKRR"
+      "duration_ms": 182000,
+      "name": "El Toro Encartado",
+      "url": "https://open.spotify.com/track/6VQn64fkyqm6V3rXnTDfbB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Recuerdos Para Pistear - En Vivo",
+        "url": "https://open.spotify.com/album/3EqZCAqWhTaD0yZouLViMU"
+      },
+      "artists": [
+        {
+          "name": "Ariel Camacho y Los Plebes Del Rancho",
+          "url": "https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul"
+        }
+      ],
+      "duration_ms": 262570,
+      "name": "Querer y Perder - En Vivo",
+      "url": "https://open.spotify.com/track/2H4yaNCtdWAfMVrsJ18aGl"
     },
     {
       "added_at": null,
@@ -547,22 +527,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Recuerdos Para Pistear - En Vivo",
-        "url": "https://open.spotify.com/album/3EqZCAqWhTaD0yZouLViMU"
-      },
-      "artists": [
-        {
-          "name": "Ariel Camacho y Los Plebes Del Rancho",
-          "url": "https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul"
-        }
-      ],
-      "duration_ms": 215666,
-      "name": "Juan Ramos - En Vivo",
-      "url": "https://open.spotify.com/track/5QGFnRUd57iEStVfRRgpzE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Enfiestados En Culiacan",
         "url": "https://open.spotify.com/album/1ZeWUxWu0lZTW4q43TeQMW"
       },
@@ -576,9 +540,25 @@
           "url": "https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul"
         }
       ],
-      "duration_ms": 246428,
-      "name": "El Rey De Corazones",
-      "url": "https://open.spotify.com/track/6N11HRZvYMon459IGNv3gF"
+      "duration_ms": 164435,
+      "name": "El Karma",
+      "url": "https://open.spotify.com/track/5Olu7SxVOd3rMjAcJVOKRR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Recuerdos Para Pistear - En Vivo",
+        "url": "https://open.spotify.com/album/3EqZCAqWhTaD0yZouLViMU"
+      },
+      "artists": [
+        {
+          "name": "Ariel Camacho y Los Plebes Del Rancho",
+          "url": "https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul"
+        }
+      ],
+      "duration_ms": 215666,
+      "name": "Juan Ramos - En Vivo",
+      "url": "https://open.spotify.com/track/5QGFnRUd57iEStVfRRgpzE"
     },
     {
       "added_at": null,
@@ -611,6 +591,26 @@
       "duration_ms": 214081,
       "name": "Cuatro Milpas - En Vivo",
       "url": "https://open.spotify.com/track/3A9KTrHoiKbiDjllgHWgbg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Enfiestados En Culiacan",
+        "url": "https://open.spotify.com/album/1ZeWUxWu0lZTW4q43TeQMW"
+      },
+      "artists": [
+        {
+          "name": "Banda Culiacancito",
+          "url": "https://open.spotify.com/artist/6pHlsWmX5SSpyeZNsQFS0J"
+        },
+        {
+          "name": "Ariel Camacho y Los Plebes Del Rancho",
+          "url": "https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul"
+        }
+      ],
+      "duration_ms": 246428,
+      "name": "El Rey De Corazones",
+      "url": "https://open.spotify.com/track/6N11HRZvYMon459IGNv3gF"
     },
     {
       "added_at": null,

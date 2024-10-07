@@ -4,7 +4,7 @@
 
 > 上質なアンビエントとオルタナティブミュージック / The artisanal ambient and alternative sounds make you float in the air.
 
-659 songs - 2 day 3 hr 19 min
+660 songs - 2 day 3 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,6 +133,7 @@
 | [curves of air](https://open.spotify.com/track/2HKbs9CHZuTioxhrRb9xox) | [Fourcolor](https://open.spotify.com/artist/14X6Ev6GqxdkraahGACvS2) | [Air Curtain](https://open.spotify.com/album/0yKwrP4coxJD8JI3mkJLSe) | 7:28 | 2022-03-31 | 2022-04-07 |
 | [Cutting Branches For A Temporary Shelter \- Remastered 2008](https://open.spotify.com/track/0Lm3loChnSsNS37nxvLYcN) | [Penguin Cafe Orchestra](https://open.spotify.com/artist/6rAZ6OYwAXqykSlPxqGy8E) | [Penguin Café Orchestra](https://open.spotify.com/album/2HDowU93etbL5ClDIRAyh8) | 3:08 | 2024-02-08 |  |
 | [D Pen](https://open.spotify.com/track/36xHgqYi6PRlb61yT3Fouk) | [Nao Otsuka](https://open.spotify.com/artist/4ySZXPHhYKNUU9Tzq3txzT) | [Tumblin](https://open.spotify.com/album/3xDn6FnFSmRv7vnOH9I8Km) | 3:19 | 2022-03-31 | 2022-07-11 |
+| [Dance Steve](https://open.spotify.com/track/2S39C0vf2sciLEMUulkbEZ) | [Anna Butterss](https://open.spotify.com/artist/2AN7XYCHxVLSqJ5RPjI4DA), [Jeff Parker](https://open.spotify.com/artist/3AaY5O1qS0tcNPHwwMwplt) | [Dance Steve](https://open.spotify.com/album/5mAEKep5aIPoIZpvxwGuvA) | 4:45 | 2024-10-04 |  |
 | [DARK SIDE OF THE STAR/地球の夜にむけての夜想曲](https://open.spotify.com/track/4PKo1dYqZ0SwPiZUBit81Z) | [Haruomi Hosono](https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak) | [S\-F\-X](https://open.spotify.com/album/43fijnO4yvvtThr62134CL) | 5:37 | 2022-03-31 |  |
 | [Data.Microhelix](https://open.spotify.com/track/3jKTgLv4ig8OcTaZf3Fft8) | [Ryoji Ikeda](https://open.spotify.com/artist/5y835stYdAVOoNOq5EBMxz) | [Dataplex](https://open.spotify.com/album/7rEvZJWAIyqFGy7X62kOq4) | 3:12 | 2022-04-07 | 2022-04-10 |
 | [Dawn](https://open.spotify.com/track/5MHOn6Lsy0m4OtZr3Cjaln) | [Yuki Kawamura](https://open.spotify.com/artist/5cIVT5Vnkk0oDDyL7Dg5oO) | [Dawn](https://open.spotify.com/album/0wh5AkPy23Aj3y75hiROGE) | 6:36 | 2024-02-08 | 2024-09-06 |
@@ -653,7 +654,7 @@
 | [波 \(D.C.\)](https://open.spotify.com/track/4JBr6jBswx8zpGXJLsirBt) | [Non\-Shaped Pencil](https://open.spotify.com/artist/3EP85Sr5gYaH85ResMlc8c) | [new age / aufheben](https://open.spotify.com/album/485oKPOneabAi6ryfxcJya) | 4:54 | 2022-04-07 | 2022-04-18 |
 | [画室](https://open.spotify.com/track/0HRs4PCNlgRxWZuCkwqXor) | [Kensuke Ushio](https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR) | [「モリのいる場所」オリジナル・サウンドトラック](https://open.spotify.com/album/285bvz9Z5jF95NHZUUmBS8) | 1:29 | 2022-03-31 | 2022-05-20 |
 | [秩父](https://open.spotify.com/track/5Ppgh0p36VFv6tyz1ouT2f) | [CHO CO PA CO CHO CO QUIN QUIN](https://open.spotify.com/artist/3mWeBqMtDhKO66qel3iO2C) | [tradition](https://open.spotify.com/album/5fj2vwRaYmwFoRKtuik6lm) | 3:17 | 2024-02-08 |  |
-| [精霊の踊り \(Dance of Spirits\)](https://open.spotify.com/track/6RLy01kjD0u0s71VsepdKS) | [松﨑裕子](https://open.spotify.com/artist/0TeQGrpPuKgvdCHgVMyM3a) | [精霊の踊り \(Dance of Spirits\)](https://open.spotify.com/album/0EnqLksnO1ri2diRxUXeSm) | 6:12 | 2024-09-06 |  |
+| [精霊の踊り \(Dance of Spirits\)](https://open.spotify.com/track/6RLy01kjD0u0s71VsepdKS) | [松﨑裕子](https://open.spotify.com/artist/0TeQGrpPuKgvdCHgVMyM3a) | [精霊の踊り \(Dance of Spirits\)](https://open.spotify.com/album/0EnqLksnO1ri2diRxUXeSm) | 6:12 | 2024-09-06 | 2024-10-07 |
 | [腐海にて](https://open.spotify.com/track/02U2krXPaHmoZDw0ghxm35) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [風の谷のナウシカ サウンドトラック \~はるかな地へ・・・](https://open.spotify.com/album/6w7zJbSYmmkn0oaAlxPj32) | 2:33 | 2024-03-07 |  |
 | [花が咲いたら](https://open.spotify.com/track/5QUnY0LrqAIEQZKOdkAhXF) | [Yasuaki Shimizu](https://open.spotify.com/artist/0Q14t6kRnPv4av49Rz5o6e) | [Seventh Garden](https://open.spotify.com/album/3zPHBf3UoBjK0nQEUz1gCi) | 6:06 | 2022-03-31 | 2022-07-26 |
 | [軌道](https://open.spotify.com/track/18jPRpOQn3Owm7R4abFTQl) | [Fugenn & The White Elephants](https://open.spotify.com/artist/1hoI4UH9YcvetPkYlMIZiH) | [軌道](https://open.spotify.com/album/5IxwQdioGkcmU1Bsx5shTb) | 5:34 | 2022-03-31 | 2022-04-19 |

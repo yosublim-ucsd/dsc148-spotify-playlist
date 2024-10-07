@@ -338,7 +338,7 @@
       ],
       "date_added": "2023-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-07",
       "duration_ms": 295450,
       "name": "El Forastero",
       "url": "https://open.spotify.com/track/6uz1ZeeLDnuadYCDXi83aH"
@@ -476,6 +476,24 @@
       "duration_ms": 297404,
       "name": "Lejos De Ti",
       "url": "https://open.spotify.com/track/6IsW8iRbvM8esvCgRvsR2Q"
+    },
+    {
+      "album": {
+        "name": "Lo Nuestro",
+        "url": "https://open.spotify.com/album/3jUFTOiJjPAVAgCdz2NipN"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro de Am\u00e9rica",
+          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
+        }
+      ],
+      "date_added": "2024-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245527,
+      "name": "Lo Que Quieras De Mi",
+      "url": "https://open.spotify.com/track/3YZFzImEvubwacJgthzM2R"
     },
     {
       "album": {

@@ -2,7 +2,7 @@
 
 ### [This Is ALI](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1DGhYQ)
 
-> This Is ALI\. Los temas esenciales, todos en una lista.
+> This is ALI\. Track\-track unggulan, semuanya dalam satu playlist.
 
 59 songs - 3 hr 48 min
 

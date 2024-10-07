@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0vEAMw.md) - [plain]
 
 > This is Davido\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,606 likes - 51 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,654 likes - 51 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0vEAMw.md) - [plain]
 | 50 | [Sweet in the Middle \(feat\. Wurld, Naira Marley & Zlatan\)](https://open.spotify.com/track/2ylO41DTQwQv1QH1mSP3cH) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Wurld](https://open.spotify.com/artist/4LRCMIDhEBEHDp7L207QlK), [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [A Good Time](https://open.spotify.com/album/0s3BbZlcqsUdAD8wIYdO5n) | 4:08 |
 | 51 | [Aza](https://open.spotify.com/track/2EWptnQCk6ZcGPDYpXMMJU) | [DMW](https://open.spotify.com/artist/6DmouQfvRZ2y9auxK3DjuI), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Duncan Mighty](https://open.spotify.com/artist/5N47dnIfPuGH8kIHpf8gZK), [Fresh VDM](https://open.spotify.com/artist/0Ijrcr7x3JUfy29iFVFSZ9), [Peruzzi](https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf) | [Aza](https://open.spotify.com/album/5Ma7CMgO2eSOqCRqXxORkl) | 3:45 |
 
-Snapshot ID: `Zv3egAAAAADIlQCtkgO/wcmYfty6t8sy`
+Snapshot ID: `ZwCBgAAAAADlvd205DPZiKKDokkmzO0k`

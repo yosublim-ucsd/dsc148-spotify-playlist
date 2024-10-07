@@ -1,6 +1,6 @@
 {
   "description": "Sit back and relax to our favorite local indie and R&B sounds.",
-  "num_followers": 574630,
+  "num_followers": 574663,
   "original_name": "Relax Tayo",
   "owner": {
     "name": "Spotify",
@@ -179,6 +179,22 @@
     {
       "added_at": "2024-09-18 09:23:57",
       "album": {
+        "name": "Patutunguhan",
+        "url": "https://open.spotify.com/album/6UPgk02gaRFzLqy15dFH3I"
+      },
+      "artists": [
+        {
+          "name": "Cup of Joe",
+          "url": "https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN"
+        }
+      ],
+      "duration_ms": 252500,
+      "name": "Patutunguhan",
+      "url": "https://open.spotify.com/track/1EP2WyCX9Q7y24bKPSZ0tc"
+    },
+    {
+      "added_at": "2024-09-18 09:23:57",
+      "album": {
         "name": "Sa Susunod Na Lang",
         "url": "https://open.spotify.com/album/79UXZq6nXVVBpZgWWxb9Gq"
       },
@@ -199,22 +215,6 @@
       "duration_ms": 214606,
       "name": "Sa Susunod Na Lang",
       "url": "https://open.spotify.com/track/34ob61cxp34Sf7KHK6RnSU"
-    },
-    {
-      "added_at": "2024-09-18 09:23:57",
-      "album": {
-        "name": "Patutunguhan",
-        "url": "https://open.spotify.com/album/6UPgk02gaRFzLqy15dFH3I"
-      },
-      "artists": [
-        {
-          "name": "Cup of Joe",
-          "url": "https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN"
-        }
-      ],
-      "duration_ms": 252500,
-      "name": "Patutunguhan",
-      "url": "https://open.spotify.com/track/1EP2WyCX9Q7y24bKPSZ0tc"
     },
     {
       "added_at": "2024-09-18 09:23:57",
@@ -267,26 +267,6 @@
     {
       "added_at": "2024-09-18 09:23:57",
       "album": {
-        "name": "Pakundangan (feat. Hev Abi)",
-        "url": "https://open.spotify.com/album/2usPnYPIwKOjeNl15BSXsW"
-      },
-      "artists": [
-        {
-          "name": "DEMI",
-          "url": "https://open.spotify.com/artist/1bvOB4esBO2VFoCnaEheBO"
-        },
-        {
-          "name": "Hev Abi",
-          "url": "https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T"
-        }
-      ],
-      "duration_ms": 197933,
-      "name": "Pakundangan (feat. Hev Abi)",
-      "url": "https://open.spotify.com/track/2ESL2ZcFU32llFIyXLFy5P"
-    },
-    {
-      "added_at": "2024-09-18 09:23:57",
-      "album": {
         "name": "Gusto",
         "url": "https://open.spotify.com/album/5x5yKLZt6MF5oznNY42pYK"
       },
@@ -303,6 +283,26 @@
       "duration_ms": 260000,
       "name": "Gusto feat. Al James",
       "url": "https://open.spotify.com/track/6t4krDdBmRmcRH7mb8wPRL"
+    },
+    {
+      "added_at": "2024-09-18 09:23:57",
+      "album": {
+        "name": "Pakundangan (feat. Hev Abi)",
+        "url": "https://open.spotify.com/album/2usPnYPIwKOjeNl15BSXsW"
+      },
+      "artists": [
+        {
+          "name": "DEMI",
+          "url": "https://open.spotify.com/artist/1bvOB4esBO2VFoCnaEheBO"
+        },
+        {
+          "name": "Hev Abi",
+          "url": "https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T"
+        }
+      ],
+      "duration_ms": 197933,
+      "name": "Pakundangan (feat. Hev Abi)",
+      "url": "https://open.spotify.com/track/2ESL2ZcFU32llFIyXLFy5P"
     },
     {
       "added_at": "2024-09-18 09:23:57",
@@ -407,22 +407,6 @@
     {
       "added_at": "2024-09-18 09:23:57",
       "album": {
-        "name": "Puntirya",
-        "url": "https://open.spotify.com/album/6jtq1fwv2xRUMWWIpA7hug"
-      },
-      "artists": [
-        {
-          "name": "Ryannah J",
-          "url": "https://open.spotify.com/artist/6qmz5baFW3JXKU7jUv3vJD"
-        }
-      ],
-      "duration_ms": 223636,
-      "name": "Puntirya",
-      "url": "https://open.spotify.com/track/7fHgK24OXJ4tcZaGyERyFT"
-    },
-    {
-      "added_at": "2024-09-18 09:23:57",
-      "album": {
         "name": "Ex",
         "url": "https://open.spotify.com/album/0qny2u4DXtiOu7ENsopaaA"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 279259,
       "name": "Ex",
       "url": "https://open.spotify.com/track/0GHwNr0lqf8jpc9wesmnHo"
+    },
+    {
+      "added_at": "2024-09-18 09:23:57",
+      "album": {
+        "name": "Puntirya",
+        "url": "https://open.spotify.com/album/6jtq1fwv2xRUMWWIpA7hug"
+      },
+      "artists": [
+        {
+          "name": "Ryannah J",
+          "url": "https://open.spotify.com/artist/6qmz5baFW3JXKU7jUv3vJD"
+        }
+      ],
+      "duration_ms": 223636,
+      "name": "Puntirya",
+      "url": "https://open.spotify.com/track/7fHgK24OXJ4tcZaGyERyFT"
     },
     {
       "added_at": "2024-09-18 09:23:57",
@@ -471,22 +471,6 @@
     {
       "added_at": "2024-09-18 09:23:57",
       "album": {
-        "name": "o ninanais",
-        "url": "https://open.spotify.com/album/1X5tEgzP3ie9ViLe68LJNA"
-      },
-      "artists": [
-        {
-          "name": "Arthur Nery",
-          "url": "https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22"
-        }
-      ],
-      "duration_ms": 252214,
-      "name": "o ninanais",
-      "url": "https://open.spotify.com/track/0wu1deoRFwktnfD6dTt9KE"
-    },
-    {
-      "added_at": "2024-09-18 09:23:57",
-      "album": {
         "name": "Simula Pa Nung Una",
         "url": "https://open.spotify.com/album/52qmX1Tbwfk9S0iyVd0JHC"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 255661,
       "name": "Simula Pa Nung Una",
       "url": "https://open.spotify.com/track/7tYjXd42SzEhrWEFQeZxNm"
+    },
+    {
+      "added_at": "2024-09-18 09:23:57",
+      "album": {
+        "name": "o ninanais",
+        "url": "https://open.spotify.com/album/1X5tEgzP3ie9ViLe68LJNA"
+      },
+      "artists": [
+        {
+          "name": "Arthur Nery",
+          "url": "https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22"
+        }
+      ],
+      "duration_ms": 252214,
+      "name": "o ninanais",
+      "url": "https://open.spotify.com/track/0wu1deoRFwktnfD6dTt9KE"
     },
     {
       "added_at": "2024-09-18 09:23:57",
@@ -555,6 +555,26 @@
     {
       "added_at": "2024-09-18 09:23:57",
       "album": {
+        "name": "Ultraelectromagnetic Jam",
+        "url": "https://open.spotify.com/album/7tfDmiKEApFiZmT5MzIN1o"
+      },
+      "artists": [
+        {
+          "name": "South Border",
+          "url": "https://open.spotify.com/artist/6ZgBJRjJsK1iOJGKGZxEUv"
+        },
+        {
+          "name": "Kelly Badon",
+          "url": "https://open.spotify.com/artist/32pTJUDIqu5vvX5McsyU26"
+        }
+      ],
+      "duration_ms": 264413,
+      "name": "With a Smile (feat. Kelly Badon)",
+      "url": "https://open.spotify.com/track/6XmskR1cMfgys1W7dExmgi"
+    },
+    {
+      "added_at": "2024-09-18 09:23:57",
+      "album": {
         "name": "LOVES7AGE",
         "url": "https://open.spotify.com/album/69ewkNFbekxjGlMyc5kCYQ"
       },
@@ -575,22 +595,6 @@
     {
       "added_at": "2024-09-18 09:23:57",
       "album": {
-        "name": "Pity Ya",
-        "url": "https://open.spotify.com/album/0YRCIO7DtUmgB3rewEDYh4"
-      },
-      "artists": [
-        {
-          "name": "Denise Julia",
-          "url": "https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD"
-        }
-      ],
-      "duration_ms": 192052,
-      "name": "Pity Ya",
-      "url": "https://open.spotify.com/track/5DJuFnUWeok3rou4xDlCD9"
-    },
-    {
-      "added_at": "2024-09-18 09:23:57",
-      "album": {
         "name": "Live",
         "url": "https://open.spotify.com/album/66a4sphHBAshn0R7a8q2W6"
       },
@@ -607,6 +611,22 @@
     {
       "added_at": "2024-09-18 09:23:57",
       "album": {
+        "name": "Pity Ya",
+        "url": "https://open.spotify.com/album/0YRCIO7DtUmgB3rewEDYh4"
+      },
+      "artists": [
+        {
+          "name": "Denise Julia",
+          "url": "https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD"
+        }
+      ],
+      "duration_ms": 192052,
+      "name": "Pity Ya",
+      "url": "https://open.spotify.com/track/5DJuFnUWeok3rou4xDlCD9"
+    },
+    {
+      "added_at": "2024-09-18 09:23:57",
+      "album": {
         "name": "Cafe Bossa",
         "url": "https://open.spotify.com/album/0JPSXvzFg02DSytNE16MSw"
       },
@@ -619,26 +639,6 @@
       "duration_ms": 186240,
       "name": "Para Sa Akin",
       "url": "https://open.spotify.com/track/0MqkYdGBzHx7lnaFvo7doR"
-    },
-    {
-      "added_at": "2024-09-18 09:23:57",
-      "album": {
-        "name": "Ultraelectromagnetic Jam",
-        "url": "https://open.spotify.com/album/7tfDmiKEApFiZmT5MzIN1o"
-      },
-      "artists": [
-        {
-          "name": "South Border",
-          "url": "https://open.spotify.com/artist/6ZgBJRjJsK1iOJGKGZxEUv"
-        },
-        {
-          "name": "Kelly Badon",
-          "url": "https://open.spotify.com/artist/32pTJUDIqu5vvX5McsyU26"
-        }
-      ],
-      "duration_ms": 264413,
-      "name": "With a Smile (feat. Kelly Badon)",
-      "url": "https://open.spotify.com/track/6XmskR1cMfgys1W7dExmgi"
     },
     {
       "added_at": "2024-09-18 09:23:57",
@@ -775,22 +775,6 @@
     {
       "added_at": "2024-09-18 09:23:57",
       "album": {
-        "name": "Closer You and I",
-        "url": "https://open.spotify.com/album/3oiv09ehNwGqaLWk3TDBgA"
-      },
-      "artists": [
-        {
-          "name": "Adie",
-          "url": "https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Closer You and I",
-      "url": "https://open.spotify.com/track/4yefFdkOF4T8rN6OAO7RIP"
-    },
-    {
-      "added_at": "2024-09-18 09:23:57",
-      "album": {
         "name": "Could Be Something",
         "url": "https://open.spotify.com/album/333wl5bz94xWRNTPBBfKcI"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 316125,
       "name": "Oh Giliw Ko",
       "url": "https://open.spotify.com/track/1WhbuhFMIV9DzgbNX6JV09"
+    },
+    {
+      "added_at": "2024-09-18 09:23:57",
+      "album": {
+        "name": "Closer You and I",
+        "url": "https://open.spotify.com/album/3oiv09ehNwGqaLWk3TDBgA"
+      },
+      "artists": [
+        {
+          "name": "Adie",
+          "url": "https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Closer You and I",
+      "url": "https://open.spotify.com/track/4yefFdkOF4T8rN6OAO7RIP"
     },
     {
       "added_at": "2024-09-18 09:23:57",
@@ -879,18 +879,18 @@
     {
       "added_at": "2024-09-18 09:23:57",
       "album": {
-        "name": "Pagtingin",
-        "url": "https://open.spotify.com/album/4a0SAaOEW4bxKEvSqSDoQz"
+        "name": "CLAPCLAPCLAP!",
+        "url": "https://open.spotify.com/album/5mGR6qKnpILzSzq1yyAUXk"
       },
       "artists": [
         {
-          "name": "Ben&Ben",
-          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
+          "name": "IV Of Spades",
+          "url": "https://open.spotify.com/artist/4k9wp4ipHdA1bu1T4x1ZTG"
         }
       ],
-      "duration_ms": 227370,
-      "name": "Pagtingin",
-      "url": "https://open.spotify.com/track/7178ubXeY1sFOqdNkKrUwb"
+      "duration_ms": 238571,
+      "name": "Bawat Kaluluwa",
+      "url": "https://open.spotify.com/track/2gnVqlNifLIGvinryubyG4"
     }
   ],
   "unique_name": "Relax Tayo",

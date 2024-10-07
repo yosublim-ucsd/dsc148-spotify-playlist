@@ -1,12 +1,12 @@
 {
-  "description": "This Is Alan Walker. Les titres incontournables, r\u00e9unis dans une seule et m\u00eame playlist.",
-  "num_followers": 1640652,
+  "description": "This Is Alan Walker. Los temas esenciales, todos en una lista.",
+  "num_followers": 1640634,
   "original_name": "This Is Alan Walker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zv3egAAAAADJ3Uw7F08mxZG4QNi35k/I",
+  "snapshot_id": "ZwCBgAAAAABpByXht9kGGzrTbVATdDBl",
   "tracks": [
     {
       "added_at": null,
@@ -155,30 +155,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fire! (feat. YUQI ((G)I-DLE), JVKE)",
-        "url": "https://open.spotify.com/album/5uI3nK40uWp8fRu9Cvk71w"
+        "name": "The Spectre",
+        "url": "https://open.spotify.com/album/1IKRstg3XuCuLWeCg3oaAW"
       },
       "artists": [
         {
           "name": "Alan Walker",
           "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "YUQI",
-          "url": "https://open.spotify.com/artist/22aCD8IrQZjcPgZw728QT6"
-        },
-        {
-          "name": "JVKE",
-          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
-        },
-        {
-          "name": "(G)I-DLE",
-          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
         }
       ],
-      "duration_ms": 123624,
-      "name": "Fire! (feat. YUQI ((G)I-DLE), JVKE)",
-      "url": "https://open.spotify.com/track/5B8VpcIC3EAI3wke3XQoRy"
+      "duration_ms": 193787,
+      "name": "The Spectre",
+      "url": "https://open.spotify.com/track/2DGa7iaidT5s0qnINlwMjJ"
     },
     {
       "added_at": null,
@@ -227,18 +215,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Spectre",
-        "url": "https://open.spotify.com/album/1IKRstg3XuCuLWeCg3oaAW"
+        "name": "Fire! (feat. YUQI ((G)I-DLE), JVKE)",
+        "url": "https://open.spotify.com/album/5uI3nK40uWp8fRu9Cvk71w"
       },
       "artists": [
         {
           "name": "Alan Walker",
           "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "YUQI",
+          "url": "https://open.spotify.com/artist/22aCD8IrQZjcPgZw728QT6"
+        },
+        {
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+        },
+        {
+          "name": "(G)I-DLE",
+          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
         }
       ],
-      "duration_ms": 193787,
-      "name": "The Spectre",
-      "url": "https://open.spotify.com/track/2DGa7iaidT5s0qnINlwMjJ"
+      "duration_ms": 123624,
+      "name": "Fire! (feat. YUQI ((G)I-DLE), JVKE)",
+      "url": "https://open.spotify.com/track/5B8VpcIC3EAI3wke3XQoRy"
     },
     {
       "added_at": null,
@@ -455,26 +455,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Unity",
-        "url": "https://open.spotify.com/album/22lXrN1Kqr8FNNZLPNmEeh"
-      },
-      "artists": [
-        {
-          "name": "The Walkers",
-          "url": "https://open.spotify.com/artist/3o6ANFc1elhbAeqRYphStE"
-        },
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        }
-      ],
-      "duration_ms": 204521,
-      "name": "Unity",
-      "url": "https://open.spotify.com/track/3Os9onUOoxT6EP3kwiMRKA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Different World",
         "url": "https://open.spotify.com/album/3nzuGtN3nXARvvecier4K0"
       },
@@ -499,6 +479,26 @@
       "duration_ms": 198880,
       "name": "All Falls Down (feat. Juliander)",
       "url": "https://open.spotify.com/track/1HvCFAUIWQsWV9zud3UhDl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Unity",
+        "url": "https://open.spotify.com/album/22lXrN1Kqr8FNNZLPNmEeh"
+      },
+      "artists": [
+        {
+          "name": "The Walkers",
+          "url": "https://open.spotify.com/artist/3o6ANFc1elhbAeqRYphStE"
+        },
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        }
+      ],
+      "duration_ms": 204521,
+      "name": "Unity",
+      "url": "https://open.spotify.com/track/3Os9onUOoxT6EP3kwiMRKA"
     },
     {
       "added_at": null,
@@ -591,6 +591,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Different World",
+        "url": "https://open.spotify.com/album/3nzuGtN3nXARvvecier4K0"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Sorana",
+          "url": "https://open.spotify.com/artist/1PnnRNGfichOAfPOn5mVyx"
+        }
+      ],
+      "duration_ms": 222320,
+      "name": "Lost Control",
+      "url": "https://open.spotify.com/track/0lG6QM1jjbbX5UUn3DPmrZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Thick Of It All",
         "url": "https://open.spotify.com/album/0JvWGbkCMpAdbPVlczwKDx"
       },
@@ -611,26 +631,6 @@
       "duration_ms": 199720,
       "name": "Thick Of It All",
       "url": "https://open.spotify.com/track/6JbvvGKwtgcjeOU810AS8w"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Different World",
-        "url": "https://open.spotify.com/album/3nzuGtN3nXARvvecier4K0"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "Sorana",
-          "url": "https://open.spotify.com/artist/1PnnRNGfichOAfPOn5mVyx"
-        }
-      ],
-      "duration_ms": 222320,
-      "name": "Lost Control",
-      "url": "https://open.spotify.com/track/0lG6QM1jjbbX5UUn3DPmrZ"
     },
     {
       "added_at": null,

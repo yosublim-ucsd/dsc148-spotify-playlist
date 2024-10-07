@@ -1,6 +1,6 @@
 {
   "description": "The best of Latin Indie today, featuring The Mar\u00edas.",
-  "num_followers": 165720,
+  "num_followers": 165730,
   "original_name": "Top Latin Indie",
   "owner": {
     "name": "Spotify",
@@ -227,22 +227,22 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "Destrucci\u00f3n (Remix)",
-        "url": "https://open.spotify.com/album/0qXAi0Z9RfLIwDADnQ9OUM"
+        "name": "Pelo Suelto",
+        "url": "https://open.spotify.com/album/5GMwzpHmzwPY1qcd2psoYt"
       },
       "artists": [
         {
-          "name": "MiSHNRZ",
-          "url": "https://open.spotify.com/artist/3tbJ4v64S8EcwVSkoFIwvl"
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
         },
         {
-          "name": "Reik",
-          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+          "name": "Conociendo Rusia",
+          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
         }
       ],
-      "duration_ms": 200842,
-      "name": "Destrucci\u00f3n - Remix",
-      "url": "https://open.spotify.com/track/40MuEd09WYnN6ogHFZSFB1"
+      "duration_ms": 204817,
+      "name": "Pelo Suelto",
+      "url": "https://open.spotify.com/track/1qNxLFVArTx1apjahvwbgR"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -263,22 +263,22 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "Pelo Suelto",
-        "url": "https://open.spotify.com/album/5GMwzpHmzwPY1qcd2psoYt"
+        "name": "Destrucci\u00f3n (Remix)",
+        "url": "https://open.spotify.com/album/0qXAi0Z9RfLIwDADnQ9OUM"
       },
       "artists": [
         {
-          "name": "Elsa y Elmar",
-          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+          "name": "MiSHNRZ",
+          "url": "https://open.spotify.com/artist/3tbJ4v64S8EcwVSkoFIwvl"
         },
         {
-          "name": "Conociendo Rusia",
-          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
         }
       ],
-      "duration_ms": 204817,
-      "name": "Pelo Suelto",
-      "url": "https://open.spotify.com/track/1qNxLFVArTx1apjahvwbgR"
+      "duration_ms": 200842,
+      "name": "Destrucci\u00f3n - Remix",
+      "url": "https://open.spotify.com/track/40MuEd09WYnN6ogHFZSFB1"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -319,22 +319,22 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "Acapulco",
-        "url": "https://open.spotify.com/album/66TzEKIam5WkxScrvzgYBm"
+        "name": "PEL\u00cdCULA",
+        "url": "https://open.spotify.com/album/6lT06CuWfp72mTbXZsnN9L"
       },
       "artists": [
         {
-          "name": "Siddhartha",
-          "url": "https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x"
+          "name": "El Zar",
+          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
         },
         {
-          "name": "Emmanuel Horvilleur",
-          "url": "https://open.spotify.com/artist/3Pc0Gebx1aAAJlZh3zysmI"
+          "name": "Zoe Gotusso",
+          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
         }
       ],
-      "duration_ms": 237526,
-      "name": "Acapulco",
-      "url": "https://open.spotify.com/track/3FvQlLlke7bl8phCe1LJgy"
+      "duration_ms": 178041,
+      "name": "PEL\u00cdCULA",
+      "url": "https://open.spotify.com/track/77A3xEknQEC8hPgGVnXycm"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -355,6 +355,26 @@
       "duration_ms": 198691,
       "name": "Terapia - Remix",
       "url": "https://open.spotify.com/track/4IrbX1iwsvOHAstlaZT3XX"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "Acapulco",
+        "url": "https://open.spotify.com/album/66TzEKIam5WkxScrvzgYBm"
+      },
+      "artists": [
+        {
+          "name": "Siddhartha",
+          "url": "https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x"
+        },
+        {
+          "name": "Emmanuel Horvilleur",
+          "url": "https://open.spotify.com/artist/3Pc0Gebx1aAAJlZh3zysmI"
+        }
+      ],
+      "duration_ms": 237526,
+      "name": "Acapulco",
+      "url": "https://open.spotify.com/track/3FvQlLlke7bl8phCe1LJgy"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -391,22 +411,22 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "PEL\u00cdCULA",
-        "url": "https://open.spotify.com/album/6lT06CuWfp72mTbXZsnN9L"
+        "name": "Miel",
+        "url": "https://open.spotify.com/album/62w772P9uxu5l8OmVWpj6Q"
       },
       "artists": [
         {
-          "name": "El Zar",
-          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
+          "name": "Los Aptos",
+          "url": "https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO"
         },
         {
-          "name": "Zoe Gotusso",
-          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
         }
       ],
-      "duration_ms": 178041,
-      "name": "PEL\u00cdCULA",
-      "url": "https://open.spotify.com/track/77A3xEknQEC8hPgGVnXycm"
+      "duration_ms": 217135,
+      "name": "Miel",
+      "url": "https://open.spotify.com/track/6QUXKT69EsdxOKVzz3z8E9"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -427,26 +447,6 @@
       "duration_ms": 207551,
       "name": "2mil horas",
       "url": "https://open.spotify.com/track/66i0E3wCeq7syKWpJPHG4v"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
-        "name": "Miel",
-        "url": "https://open.spotify.com/album/62w772P9uxu5l8OmVWpj6Q"
-      },
-      "artists": [
-        {
-          "name": "Los Aptos",
-          "url": "https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO"
-        },
-        {
-          "name": "Cuco",
-          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
-        }
-      ],
-      "duration_ms": 217135,
-      "name": "Miel",
-      "url": "https://open.spotify.com/track/6QUXKT69EsdxOKVzz3z8E9"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -523,6 +523,22 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
+        "name": "ALGO ESPECIAL",
+        "url": "https://open.spotify.com/album/5BsLcTXZI2Ag1mbl7m2WH5"
+      },
+      "artists": [
+        {
+          "name": "Leo Rizzi",
+          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
+        }
+      ],
+      "duration_ms": 205067,
+      "name": "ALGO ESPECIAL",
+      "url": "https://open.spotify.com/track/3mXE8cYr7fvWOe1JCJz2yh"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
         "name": "TRES",
         "url": "https://open.spotify.com/album/51rakYlQnb8n9t74lBPKEu"
       },
@@ -555,38 +571,6 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "Se siente bien",
-        "url": "https://open.spotify.com/album/10Tb4DiM1AKpUXwcvm6upI"
-      },
-      "artists": [
-        {
-          "name": "stivijoes",
-          "url": "https://open.spotify.com/artist/1E5zXiaRprDYgBxiiR1hfx"
-        }
-      ],
-      "duration_ms": 126000,
-      "name": "Se siente bien",
-      "url": "https://open.spotify.com/track/3bVTNz3OwCutKR6q24jIF9"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
-        "name": "ALGO ESPECIAL",
-        "url": "https://open.spotify.com/album/5BsLcTXZI2Ag1mbl7m2WH5"
-      },
-      "artists": [
-        {
-          "name": "Leo Rizzi",
-          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
-        }
-      ],
-      "duration_ms": 205067,
-      "name": "ALGO ESPECIAL",
-      "url": "https://open.spotify.com/track/3mXE8cYr7fvWOe1JCJz2yh"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
         "name": "Superdeli",
         "url": "https://open.spotify.com/album/10I29JjHVk7kRIDa85Bagx"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 168013,
       "name": "Superdeli",
       "url": "https://open.spotify.com/track/7oizn3u0M51APTosX3LQzL"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "Se siente bien",
+        "url": "https://open.spotify.com/album/10Tb4DiM1AKpUXwcvm6upI"
+      },
+      "artists": [
+        {
+          "name": "stivijoes",
+          "url": "https://open.spotify.com/artist/1E5zXiaRprDYgBxiiR1hfx"
+        }
+      ],
+      "duration_ms": 126000,
+      "name": "Se siente bien",
+      "url": "https://open.spotify.com/track/3bVTNz3OwCutKR6q24jIF9"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -703,6 +703,22 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
+        "name": "Fresh",
+        "url": "https://open.spotify.com/album/6RGWxCMX5GEKPgjP7gi6zD"
+      },
+      "artists": [
+        {
+          "name": "Caloncho",
+          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
+        }
+      ],
+      "duration_ms": 165120,
+      "name": "Fresh",
+      "url": "https://open.spotify.com/track/6sRfgwJVZZnMo92SaEAaY4"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
         "name": "Gran Turismo",
         "url": "https://open.spotify.com/album/3h1wAtr3lIasoLwOMFuRIn"
       },
@@ -771,22 +787,6 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "Fresh",
-        "url": "https://open.spotify.com/album/6RGWxCMX5GEKPgjP7gi6zD"
-      },
-      "artists": [
-        {
-          "name": "Caloncho",
-          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
-        }
-      ],
-      "duration_ms": 165120,
-      "name": "Fresh",
-      "url": "https://open.spotify.com/track/6sRfgwJVZZnMo92SaEAaY4"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
         "name": "Live For Me",
         "url": "https://open.spotify.com/album/6zGhZBWh0K0PolEhjLv1Km"
       },
@@ -823,6 +823,22 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
+        "name": "Dime Precioso",
+        "url": "https://open.spotify.com/album/0XQlp7eRuD0IqRaxtdVqmW"
+      },
+      "artists": [
+        {
+          "name": "Alex Anwandter",
+          "url": "https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02"
+        }
+      ],
+      "duration_ms": 212160,
+      "name": "Perdido",
+      "url": "https://open.spotify.com/track/0iuj08Ku8Ab4uuGPUSJt8H"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
         "name": "deja vu",
         "url": "https://open.spotify.com/album/1AeWnVwD0xiMYTvfXh8EZj"
       },
@@ -843,38 +859,6 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "Dime Precioso",
-        "url": "https://open.spotify.com/album/0XQlp7eRuD0IqRaxtdVqmW"
-      },
-      "artists": [
-        {
-          "name": "Alex Anwandter",
-          "url": "https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02"
-        }
-      ],
-      "duration_ms": 212160,
-      "name": "Perdido",
-      "url": "https://open.spotify.com/track/0iuj08Ku8Ab4uuGPUSJt8H"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
-        "name": "Flores Robadas",
-        "url": "https://open.spotify.com/album/1Lxh8VM5Q8fBA811bVKTPy"
-      },
-      "artists": [
-        {
-          "name": "Isla de Caras",
-          "url": "https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF"
-        }
-      ],
-      "duration_ms": 201920,
-      "name": "Si T\u00fa No Vuelves",
-      "url": "https://open.spotify.com/track/37jtZLmqnI6JMVXXIWboVH"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
         "name": "Sobrenatural",
         "url": "https://open.spotify.com/album/0XoqQ5cb29AAJ8OhIt4b41"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 222857,
       "name": "Verona",
       "url": "https://open.spotify.com/track/64tuMkafK35OSgXmLYi1Ph"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "Flores Robadas",
+        "url": "https://open.spotify.com/album/1Lxh8VM5Q8fBA811bVKTPy"
+      },
+      "artists": [
+        {
+          "name": "Isla de Caras",
+          "url": "https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF"
+        }
+      ],
+      "duration_ms": 201920,
+      "name": "Si T\u00fa No Vuelves",
+      "url": "https://open.spotify.com/track/37jtZLmqnI6JMVXXIWboVH"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -1007,6 +1007,26 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
+        "name": "dejarse querer",
+        "url": "https://open.spotify.com/album/5hB15RyXcpR3jPaJGNw6UV"
+      },
+      "artists": [
+        {
+          "name": "Marco Mares",
+          "url": "https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ"
+        },
+        {
+          "name": "Bandalos Chinos",
+          "url": "https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp"
+        }
+      ],
+      "duration_ms": 182546,
+      "name": "dejarse querer",
+      "url": "https://open.spotify.com/track/7KhHnFkcoacjF6zyMxr8U8"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
         "name": "Mi Historia Entre Tus Dedos",
         "url": "https://open.spotify.com/album/7r6vkoLXv4y7aCJOns15NG"
       },
@@ -1035,26 +1055,6 @@
       "duration_ms": 208666,
       "name": "Radiocaset",
       "url": "https://open.spotify.com/track/3eJxCkekeUGMI237Uc3I4q"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
-        "name": "dejarse querer",
-        "url": "https://open.spotify.com/album/5hB15RyXcpR3jPaJGNw6UV"
-      },
-      "artists": [
-        {
-          "name": "Marco Mares",
-          "url": "https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ"
-        },
-        {
-          "name": "Bandalos Chinos",
-          "url": "https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp"
-        }
-      ],
-      "duration_ms": 182546,
-      "name": "dejarse querer",
-      "url": "https://open.spotify.com/track/7KhHnFkcoacjF6zyMxr8U8"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "Lo dejo",
-        "url": "https://open.spotify.com/album/4j2vngdnmouFuKoANcvqdc"
-      },
-      "artists": [
-        {
-          "name": "Cupido",
-          "url": "https://open.spotify.com/artist/4cK5uxWRVJ3QOSfaBMX2Ex"
-        }
-      ],
-      "duration_ms": 190023,
-      "name": "Lo dejo",
-      "url": "https://open.spotify.com/track/2T0yb0dYi8My9xNiy9aET2"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
         "name": "Cuando Ella me Bes\u00f3 Prob\u00e9 a Dios",
         "url": "https://open.spotify.com/album/5J0TN8kwiPmJBAQKIYkx8V"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 154070,
       "name": "Eutanasia",
       "url": "https://open.spotify.com/track/1FHMIhcJlNY3ecpKjd7FIj"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "Lo dejo",
+        "url": "https://open.spotify.com/album/4j2vngdnmouFuKoANcvqdc"
+      },
+      "artists": [
+        {
+          "name": "Cupido",
+          "url": "https://open.spotify.com/artist/4cK5uxWRVJ3QOSfaBMX2Ex"
+        }
+      ],
+      "duration_ms": 190023,
+      "name": "Lo dejo",
+      "url": "https://open.spotify.com/track/2T0yb0dYi8My9xNiy9aET2"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "HORSES IN HEAVEN",
-        "url": "https://open.spotify.com/album/1OI436AjryW8xiHr2AdVfy"
-      },
-      "artists": [
-        {
-          "name": "Pink Pablo",
-          "url": "https://open.spotify.com/artist/6grKEGFYz5bqq0IQraQhsQ"
-        }
-      ],
-      "duration_ms": 177610,
-      "name": "HORSES IN HEAVEN",
-      "url": "https://open.spotify.com/track/3PuaCJ1I8iZaYpDh68fEKn"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
         "name": "Tripolar",
         "url": "https://open.spotify.com/album/6ud8dLSruWnM0i6qdIBHjS"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 182782,
       "name": "Sol",
       "url": "https://open.spotify.com/track/1LcmVpTjXy7fy34m0Jyayq"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "HORSES IN HEAVEN",
+        "url": "https://open.spotify.com/album/1OI436AjryW8xiHr2AdVfy"
+      },
+      "artists": [
+        {
+          "name": "Pink Pablo",
+          "url": "https://open.spotify.com/artist/6grKEGFYz5bqq0IQraQhsQ"
+        }
+      ],
+      "duration_ms": 177610,
+      "name": "HORSES IN HEAVEN",
+      "url": "https://open.spotify.com/track/3PuaCJ1I8iZaYpDh68fEKn"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -1295,18 +1295,18 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "Y SI SE ABREN LOS CIELOS",
-        "url": "https://open.spotify.com/album/7ojO0TsCWpHwxCIZ02vde4"
+        "name": "road 2 neverland",
+        "url": "https://open.spotify.com/album/1c6VYaOgWJtYX7emSWJNp8"
       },
       "artists": [
         {
-          "name": "Gus",
-          "url": "https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4"
+          "name": "Pink Pablo",
+          "url": "https://open.spotify.com/artist/6grKEGFYz5bqq0IQraQhsQ"
         }
       ],
-      "duration_ms": 180893,
-      "name": "Y SI SE ABREN LOS CIELOS",
-      "url": "https://open.spotify.com/track/7hft2uQ3kmAHG3LkLgJjWw"
+      "duration_ms": 209000,
+      "name": "falco",
+      "url": "https://open.spotify.com/track/1x6TYpJ3IfpEnfWOIuznkV"
     },
     {
       "added_at": "2024-09-20 04:00:00",

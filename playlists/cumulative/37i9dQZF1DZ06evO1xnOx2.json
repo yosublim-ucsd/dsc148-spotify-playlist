@@ -863,6 +863,24 @@
     },
     {
       "album": {
+        "name": "Spotify Sessions (Live From Spotify, London)",
+        "url": "https://open.spotify.com/album/7z50fkoKTjnNyChNiJQx6q"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "date_added": "2024-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246500,
+      "name": "Take Me To Church - Live From Spotify, London",
+      "url": "https://open.spotify.com/track/61IautUH8F8UWJ0kxF9pJc"
+    },
+    {
+      "album": {
         "name": "Wasteland, Baby!",
         "url": "https://open.spotify.com/album/2c7gFThUYyo2t6ogAgIYNw"
       },

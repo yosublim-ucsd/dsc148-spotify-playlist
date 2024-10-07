@@ -1,6 +1,6 @@
 {
   "description": "Hip Hop and Rap songs guaranteed to get you hyped. Cover: The Weeknd",
-  "num_followers": 28998,
+  "num_followers": 29003,
   "original_name": "Hype List",
   "owner": {
     "name": "Spotify",
@@ -483,6 +483,22 @@
     {
       "added_at": "2024-10-04 05:42:35",
       "album": {
+        "name": "Family Matters",
+        "url": "https://open.spotify.com/album/3qwCuSISrIUpyt6sB5edmQ"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 456933,
+      "name": "Family Matters",
+      "url": "https://open.spotify.com/track/1wFFFzJ5EsKbBWZriAcubN"
+    },
+    {
+      "added_at": "2024-10-04 05:42:35",
+      "album": {
         "name": "Tobey (feat. Big Sean and BabyTron)",
         "url": "https://open.spotify.com/album/65iXBHLsOnNVC5C6nVbLYf"
       },
@@ -547,22 +563,6 @@
     {
       "added_at": "2024-10-04 05:42:35",
       "album": {
-        "name": "Family Matters",
-        "url": "https://open.spotify.com/album/3qwCuSISrIUpyt6sB5edmQ"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 456933,
-      "name": "Family Matters",
-      "url": "https://open.spotify.com/track/1wFFFzJ5EsKbBWZriAcubN"
-    },
-    {
-      "added_at": "2024-10-04 05:42:35",
-      "album": {
         "name": "Might Delete Later",
         "url": "https://open.spotify.com/album/57wh3BpvUF2tmvwoGSjUe3"
       },
@@ -575,6 +575,22 @@
       "duration_ms": 229186,
       "name": "Crocodile Tearz",
       "url": "https://open.spotify.com/track/1yfKakY4rvI17lk20ekuRA"
+    },
+    {
+      "added_at": "2024-10-04 05:42:35",
+      "album": {
+        "name": "Search & Rescue",
+        "url": "https://open.spotify.com/album/67WUCOjyl44d8fAFzHONjW"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 272112,
+      "name": "Search & Rescue",
+      "url": "https://open.spotify.com/track/7aRCf5cLOFN1U7kvtChY1G"
     },
     {
       "added_at": "2024-10-04 05:42:35",
@@ -599,6 +615,22 @@
     {
       "added_at": "2024-10-04 05:42:35",
       "album": {
+        "name": "I Know",
+        "url": "https://open.spotify.com/album/5g8acbr044Lsjpxl8WoJln"
+      },
+      "artists": [
+        {
+          "name": "Kofi",
+          "url": "https://open.spotify.com/artist/2MjVr5NjCCoPSEkXnl92Ld"
+        }
+      ],
+      "duration_ms": 116756,
+      "name": "I Know",
+      "url": "https://open.spotify.com/track/47EaD6xOmzvDyBsJxOcbXV"
+    },
+    {
+      "added_at": "2024-10-04 05:42:35",
+      "album": {
         "name": "EZIOKWU (UNCUT)",
         "url": "https://open.spotify.com/album/59oUX928TvSEtKvCPREKVW"
       },
@@ -615,22 +647,6 @@
       "duration_ms": 171089,
       "name": "WOTOWOTO SEASONING (feat. Black Sherif)",
       "url": "https://open.spotify.com/track/2LP8KwtvzUx1onvXKQCoKR"
-    },
-    {
-      "added_at": "2024-10-04 05:42:35",
-      "album": {
-        "name": "I Know",
-        "url": "https://open.spotify.com/album/5g8acbr044Lsjpxl8WoJln"
-      },
-      "artists": [
-        {
-          "name": "Kofi",
-          "url": "https://open.spotify.com/artist/2MjVr5NjCCoPSEkXnl92Ld"
-        }
-      ],
-      "duration_ms": 116756,
-      "name": "I Know",
-      "url": "https://open.spotify.com/track/47EaD6xOmzvDyBsJxOcbXV"
     },
     {
       "added_at": "2024-10-04 05:42:35",
@@ -715,8 +731,8 @@
     {
       "added_at": "2024-10-04 05:42:35",
       "album": {
-        "name": "Search & Rescue",
-        "url": "https://open.spotify.com/album/67WUCOjyl44d8fAFzHONjW"
+        "name": "For All The Dogs Scary Hours Edition",
+        "url": "https://open.spotify.com/album/4Q7cRXio6mF2ImVUCcezPO"
       },
       "artists": [
         {
@@ -724,9 +740,9 @@
           "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 272112,
-      "name": "Search & Rescue",
-      "url": "https://open.spotify.com/track/7aRCf5cLOFN1U7kvtChY1G"
+      "duration_ms": 230709,
+      "name": "You Broke My Heart",
+      "url": "https://open.spotify.com/track/5Se32hEA9raeboZerywxka"
     },
     {
       "added_at": "2024-10-04 05:42:35",
@@ -827,22 +843,6 @@
     {
       "added_at": "2024-10-04 05:42:35",
       "album": {
-        "name": "For All The Dogs Scary Hours Edition",
-        "url": "https://open.spotify.com/album/4Q7cRXio6mF2ImVUCcezPO"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 230709,
-      "name": "You Broke My Heart",
-      "url": "https://open.spotify.com/track/5Se32hEA9raeboZerywxka"
-    },
-    {
-      "added_at": "2024-10-04 05:42:35",
-      "album": {
         "name": "THOUGHT YOU WERE THE ONE",
         "url": "https://open.spotify.com/album/6bJOZvEgdW3ck7W2Z1d8vm"
       },
@@ -871,6 +871,26 @@
       "duration_ms": 148240,
       "name": "whatsapp (wassam)",
       "url": "https://open.spotify.com/track/6LAicOLiCrHw0bmaLBDbC8"
+    },
+    {
+      "added_at": "2024-10-04 05:42:35",
+      "album": {
+        "name": "Thick Of It (feat. Trippie Redd) / Low",
+        "url": "https://open.spotify.com/album/4o57W8cMFiKf2NVbGSE9jH"
+      },
+      "artists": [
+        {
+          "name": "KSI",
+          "url": "https://open.spotify.com/artist/1nzgtKYFckznkcVMR3Gg4z"
+        },
+        {
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        }
+      ],
+      "duration_ms": 160842,
+      "name": "Thick Of It (feat. Trippie Redd)",
+      "url": "https://open.spotify.com/track/1xmvq1fYLs9TEgikaFilGW"
     },
     {
       "added_at": "2024-10-04 05:42:35",
@@ -987,6 +1007,22 @@
     {
       "added_at": "2024-10-04 05:42:35",
       "album": {
+        "name": "911",
+        "url": "https://open.spotify.com/album/6ttkQSLzTo8hug4JWcBkOa"
+      },
+      "artists": [
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        }
+      ],
+      "duration_ms": 127022,
+      "name": "911",
+      "url": "https://open.spotify.com/track/4A3IuipnqFLJN9zDOTDSx8"
+    },
+    {
+      "added_at": "2024-10-04 05:42:35",
+      "album": {
         "name": "Stop Giving Me Advice",
         "url": "https://open.spotify.com/album/0JhzjAau8sB1yiU8HzS3vv"
       },
@@ -1047,42 +1083,6 @@
       "duration_ms": 204373,
       "name": "Lazarus (feat. Boj)",
       "url": "https://open.spotify.com/track/4wvnXoQqjIOoEis5eyTbCl"
-    },
-    {
-      "added_at": "2024-10-04 05:42:35",
-      "album": {
-        "name": "Thick Of It (feat. Trippie Redd) / Low",
-        "url": "https://open.spotify.com/album/4o57W8cMFiKf2NVbGSE9jH"
-      },
-      "artists": [
-        {
-          "name": "KSI",
-          "url": "https://open.spotify.com/artist/1nzgtKYFckznkcVMR3Gg4z"
-        },
-        {
-          "name": "Trippie Redd",
-          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
-        }
-      ],
-      "duration_ms": 160842,
-      "name": "Thick Of It (feat. Trippie Redd)",
-      "url": "https://open.spotify.com/track/1xmvq1fYLs9TEgikaFilGW"
-    },
-    {
-      "added_at": "2024-10-04 05:42:35",
-      "album": {
-        "name": "911",
-        "url": "https://open.spotify.com/album/6ttkQSLzTo8hug4JWcBkOa"
-      },
-      "artists": [
-        {
-          "name": "Roddy Ricch",
-          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
-        }
-      ],
-      "duration_ms": 127022,
-      "name": "911",
-      "url": "https://open.spotify.com/track/4A3IuipnqFLJN9zDOTDSx8"
     },
     {
       "added_at": "2024-10-04 05:42:35",

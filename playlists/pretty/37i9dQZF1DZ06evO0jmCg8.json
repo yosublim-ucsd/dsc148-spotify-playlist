@@ -1,12 +1,12 @@
 {
   "description": "This is Arch Enemy. The essential tracks, all in one playlist.",
-  "num_followers": 72971,
+  "num_followers": 73009,
   "original_name": "This Is Arch Enemy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zv3egAAAAAC2U3Eln/eCO80nwU5d8uDq",
+  "snapshot_id": "ZwCBgAAAAAAnKkLeFP8mz8BXTIbjrl38",
   "tracks": [
     {
       "added_at": null,
@@ -43,22 +43,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dream Stealer",
-        "url": "https://open.spotify.com/album/6XEYQ3lAGzmK2JtT5ADpld"
-      },
-      "artists": [
-        {
-          "name": "Arch Enemy",
-          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
-        }
-      ],
-      "duration_ms": 269853,
-      "name": "Dream Stealer",
-      "url": "https://open.spotify.com/track/5oQHPf5TmzfR55syUrSIeR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Deceivers",
         "url": "https://open.spotify.com/album/0UWT0SwOzXkR9IVbz0GNuo"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 338960,
       "name": "Handshake with Hell",
       "url": "https://open.spotify.com/track/4jPU94aF0U2PMNN0aBnhgX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dream Stealer",
+        "url": "https://open.spotify.com/album/6XEYQ3lAGzmK2JtT5ADpld"
+      },
+      "artists": [
+        {
+          "name": "Arch Enemy",
+          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
+        }
+      ],
+      "duration_ms": 269853,
+      "name": "Dream Stealer",
+      "url": "https://open.spotify.com/track/5oQHPf5TmzfR55syUrSIeR"
     },
     {
       "added_at": null,
@@ -107,22 +107,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Khaos Legions",
-        "url": "https://open.spotify.com/album/7e6aLYzxgcsbD9NA9LpQQX"
-      },
-      "artists": [
-        {
-          "name": "Arch Enemy",
-          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
-        }
-      ],
-      "duration_ms": 254653,
-      "name": "No Gods, No Masters",
-      "url": "https://open.spotify.com/track/2SR0CHOWgkVt0nLI9YwYti"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Deceivers",
         "url": "https://open.spotify.com/album/0UWT0SwOzXkR9IVbz0GNuo"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 220426,
       "name": "House of Mirrors",
       "url": "https://open.spotify.com/track/4mdop8Jx5BwspAQzvjF8pu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Khaos Legions",
+        "url": "https://open.spotify.com/album/7e6aLYzxgcsbD9NA9LpQQX"
+      },
+      "artists": [
+        {
+          "name": "Arch Enemy",
+          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
+        }
+      ],
+      "duration_ms": 254653,
+      "name": "No Gods, No Masters",
+      "url": "https://open.spotify.com/track/2SR0CHOWgkVt0nLI9YwYti"
     },
     {
       "added_at": null,
@@ -171,22 +171,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Doomsday Machine",
-        "url": "https://open.spotify.com/album/7gesblPNpHD2mhMQyKd6MS"
-      },
-      "artists": [
-        {
-          "name": "Arch Enemy",
-          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
-        }
-      ],
-      "duration_ms": 325586,
-      "name": "My Apocalypse",
-      "url": "https://open.spotify.com/track/7ak5dWy0Vee6yhR5dwQWO5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Deceivers",
         "url": "https://open.spotify.com/album/0UWT0SwOzXkR9IVbz0GNuo"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 231773,
       "name": "Deceiver, Deceiver",
       "url": "https://open.spotify.com/track/54nsNmxvp1ZxWcbKTcJynp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Doomsday Machine",
+        "url": "https://open.spotify.com/album/7gesblPNpHD2mhMQyKd6MS"
+      },
+      "artists": [
+        {
+          "name": "Arch Enemy",
+          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
+        }
+      ],
+      "duration_ms": 325586,
+      "name": "My Apocalypse",
+      "url": "https://open.spotify.com/track/7ak5dWy0Vee6yhR5dwQWO5"
     },
     {
       "added_at": null,
@@ -235,22 +235,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wages of Sin",
-        "url": "https://open.spotify.com/album/5QeMzsmPiNKqO8mB1hQFRZ"
-      },
-      "artists": [
-        {
-          "name": "Arch Enemy",
-          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
-        }
-      ],
-      "duration_ms": 245333,
-      "name": "Ravenous",
-      "url": "https://open.spotify.com/track/5oyCIQWuSgFB25yA66AIcG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Deceivers",
         "url": "https://open.spotify.com/album/0UWT0SwOzXkR9IVbz0GNuo"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 298000,
       "name": "The Watcher",
       "url": "https://open.spotify.com/track/7wwFeAgaC2pGqJaTuCVFAw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wages of Sin",
+        "url": "https://open.spotify.com/album/5QeMzsmPiNKqO8mB1hQFRZ"
+      },
+      "artists": [
+        {
+          "name": "Arch Enemy",
+          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
+        }
+      ],
+      "duration_ms": 245333,
+      "name": "Ravenous",
+      "url": "https://open.spotify.com/track/5oyCIQWuSgFB25yA66AIcG"
     },
     {
       "added_at": null,
@@ -299,22 +299,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Doomsday Machine",
-        "url": "https://open.spotify.com/album/7gesblPNpHD2mhMQyKd6MS"
-      },
-      "artists": [
-        {
-          "name": "Arch Enemy",
-          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
-        }
-      ],
-      "duration_ms": 122253,
-      "name": "Enter the Machine",
-      "url": "https://open.spotify.com/track/2aCRmGHUonyqFAq6cTv4a3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Deceivers",
         "url": "https://open.spotify.com/album/0UWT0SwOzXkR9IVbz0GNuo"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 243080,
       "name": "Sunset over the Empire",
       "url": "https://open.spotify.com/track/5nPCIvymgNTiXN7hMMTbdX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Doomsday Machine",
+        "url": "https://open.spotify.com/album/7gesblPNpHD2mhMQyKd6MS"
+      },
+      "artists": [
+        {
+          "name": "Arch Enemy",
+          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
+        }
+      ],
+      "duration_ms": 122253,
+      "name": "Enter the Machine",
+      "url": "https://open.spotify.com/track/2aCRmGHUonyqFAq6cTv4a3"
     },
     {
       "added_at": null,
@@ -363,22 +363,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Anthems of Rebellion",
-        "url": "https://open.spotify.com/album/79KP5UGPkyDLMKRoz1nxq7"
-      },
-      "artists": [
-        {
-          "name": "Arch Enemy",
-          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
-        }
-      ],
-      "duration_ms": 254946,
-      "name": "Dead Eyes See No Future",
-      "url": "https://open.spotify.com/track/7KjLyiaxHG45hvS9wL49i4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Deceivers",
         "url": "https://open.spotify.com/album/0UWT0SwOzXkR9IVbz0GNuo"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 249213,
       "name": "In the Eye of the Storm",
       "url": "https://open.spotify.com/track/3Ho41g5j1K5tiFmuU6DcZl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Anthems of Rebellion",
+        "url": "https://open.spotify.com/album/79KP5UGPkyDLMKRoz1nxq7"
+      },
+      "artists": [
+        {
+          "name": "Arch Enemy",
+          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
+        }
+      ],
+      "duration_ms": 254946,
+      "name": "Dead Eyes See No Future",
+      "url": "https://open.spotify.com/track/7KjLyiaxHG45hvS9wL49i4"
     },
     {
       "added_at": null,
@@ -427,22 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Khaos Legions",
-        "url": "https://open.spotify.com/album/7e6aLYzxgcsbD9NA9LpQQX"
-      },
-      "artists": [
-        {
-          "name": "Arch Enemy",
-          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
-        }
-      ],
-      "duration_ms": 280826,
-      "name": "Under Black Flags We March",
-      "url": "https://open.spotify.com/track/3w9DBYm53qG0dnVdXit9nr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wages of Sin",
         "url": "https://open.spotify.com/album/5QeMzsmPiNKqO8mB1hQFRZ"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 255133,
       "name": "Burning Angel",
       "url": "https://open.spotify.com/track/4OPnLRsM1PXQ5s3h1M9y0b"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Khaos Legions",
+        "url": "https://open.spotify.com/album/7e6aLYzxgcsbD9NA9LpQQX"
+      },
+      "artists": [
+        {
+          "name": "Arch Enemy",
+          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
+        }
+      ],
+      "duration_ms": 280826,
+      "name": "Under Black Flags We March",
+      "url": "https://open.spotify.com/track/3w9DBYm53qG0dnVdXit9nr"
     },
     {
       "added_at": null,
@@ -491,22 +491,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Khaos Legions",
-        "url": "https://open.spotify.com/album/7e6aLYzxgcsbD9NA9LpQQX"
-      },
-      "artists": [
-        {
-          "name": "Arch Enemy",
-          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
-        }
-      ],
-      "duration_ms": 289000,
-      "name": "Bloodstained Cross",
-      "url": "https://open.spotify.com/track/5GLFAymISsbuFDjGEtppMV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wages of Sin",
         "url": "https://open.spotify.com/album/5QeMzsmPiNKqO8mB1hQFRZ"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 259693,
       "name": "Enemy Within",
       "url": "https://open.spotify.com/track/64byKssQy7aEEgACgP5Gys"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Khaos Legions",
+        "url": "https://open.spotify.com/album/7e6aLYzxgcsbD9NA9LpQQX"
+      },
+      "artists": [
+        {
+          "name": "Arch Enemy",
+          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
+        }
+      ],
+      "duration_ms": 289000,
+      "name": "Bloodstained Cross",
+      "url": "https://open.spotify.com/track/5GLFAymISsbuFDjGEtppMV"
     },
     {
       "added_at": null,
@@ -555,6 +555,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Wages of Sin",
+        "url": "https://open.spotify.com/album/5QeMzsmPiNKqO8mB1hQFRZ"
+      },
+      "artists": [
+        {
+          "name": "Arch Enemy",
+          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
+        }
+      ],
+      "duration_ms": 92893,
+      "name": "Snow Bound",
+      "url": "https://open.spotify.com/track/7p6uOhkvp95bbp4bKmLGcn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Khaos Legions",
         "url": "https://open.spotify.com/album/7e6aLYzxgcsbD9NA9LpQQX"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 261706,
       "name": "Yesterday Is Dead and Gone",
       "url": "https://open.spotify.com/track/0AOQFMydzS4AkbElri4FGw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Covered In Blood",
-        "url": "https://open.spotify.com/album/7LfAQgQQISJJRTfgcDxVQS"
-      },
-      "artists": [
-        {
-          "name": "Arch Enemy",
-          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
-        }
-      ],
-      "duration_ms": 285213,
-      "name": "Shout - cover version",
-      "url": "https://open.spotify.com/track/4iXZ643ujlB8soiF34XTZG"
     },
     {
       "added_at": null,
@@ -603,6 +603,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Covered In Blood",
+        "url": "https://open.spotify.com/album/7LfAQgQQISJJRTfgcDxVQS"
+      },
+      "artists": [
+        {
+          "name": "Arch Enemy",
+          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
+        }
+      ],
+      "duration_ms": 285213,
+      "name": "Shout - cover version",
+      "url": "https://open.spotify.com/track/4iXZ643ujlB8soiF34XTZG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Anthems of Rebellion",
         "url": "https://open.spotify.com/album/79KP5UGPkyDLMKRoz1nxq7"
       },
@@ -619,22 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wages of Sin",
-        "url": "https://open.spotify.com/album/5QeMzsmPiNKqO8mB1hQFRZ"
-      },
-      "artists": [
-        {
-          "name": "Arch Enemy",
-          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
-        }
-      ],
-      "duration_ms": 92893,
-      "name": "Snow Bound",
-      "url": "https://open.spotify.com/track/7p6uOhkvp95bbp4bKmLGcn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rise of the Tyrant",
         "url": "https://open.spotify.com/album/4ghmUVjSEgjv96xEARObbl"
       },
@@ -647,6 +647,22 @@
       "duration_ms": 281386,
       "name": "Blood On Your Hands",
       "url": "https://open.spotify.com/track/122dV7zqPVekyeVmJQXnvD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wages of Sin",
+        "url": "https://open.spotify.com/album/5QeMzsmPiNKqO8mB1hQFRZ"
+      },
+      "artists": [
+        {
+          "name": "Arch Enemy",
+          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
+        }
+      ],
+      "duration_ms": 233000,
+      "name": "Dead Bury Their Dead",
+      "url": "https://open.spotify.com/track/3DrLHrmq5E0wEJlPw5Q1yJ"
     },
     {
       "added_at": null,
@@ -683,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wages of Sin",
-        "url": "https://open.spotify.com/album/5QeMzsmPiNKqO8mB1hQFRZ"
-      },
-      "artists": [
-        {
-          "name": "Arch Enemy",
-          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
-        }
-      ],
-      "duration_ms": 233000,
-      "name": "Dead Bury Their Dead",
-      "url": "https://open.spotify.com/track/3DrLHrmq5E0wEJlPw5Q1yJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rise of the Tyrant",
         "url": "https://open.spotify.com/album/4ghmUVjSEgjv96xEARObbl"
       },
@@ -711,6 +711,22 @@
       "duration_ms": 292866,
       "name": "The Day You Died",
       "url": "https://open.spotify.com/track/4jVjUOl1gwcHCWxwlWY0zf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wages of Sin",
+        "url": "https://open.spotify.com/album/5QeMzsmPiNKqO8mB1hQFRZ"
+      },
+      "artists": [
+        {
+          "name": "Arch Enemy",
+          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
+        }
+      ],
+      "duration_ms": 291533,
+      "name": "Heart of Darkness",
+      "url": "https://open.spotify.com/track/4OQ08jPQlzsufwogvCjKwB"
     },
     {
       "added_at": null,
@@ -743,22 +759,6 @@
       "duration_ms": 132400,
       "name": "Despicable Heroes",
       "url": "https://open.spotify.com/track/7C1mBzRzBAK1iwxD8CEC5J"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wages of Sin",
-        "url": "https://open.spotify.com/album/5QeMzsmPiNKqO8mB1hQFRZ"
-      },
-      "artists": [
-        {
-          "name": "Arch Enemy",
-          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
-        }
-      ],
-      "duration_ms": 291533,
-      "name": "Heart of Darkness",
-      "url": "https://open.spotify.com/track/4OQ08jPQlzsufwogvCjKwB"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > This Is Los Cafres\. Los temas esenciales, todos en una lista.
 
-86 songs - 6 hr 15 min
+87 songs - 6 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [El ángel](https://open.spotify.com/track/0g5Fx2wKdyyF3DZIJXSUG4) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [El Paso Gigante](https://open.spotify.com/album/1kJD3mYufavAaI1IZwrP3i) | 3:53 | 2022-05-25 | 2024-08-13 |
 | [El Ángel \- Versión 25 Años](https://open.spotify.com/track/11WUrYOeZgefPOIuEDxJd8) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [25 Años de Música](https://open.spotify.com/album/6zhjig78tafXcTTZmjO752) | 4:06 | 2024-08-13 |  |
 | [Es la Música \- Versión 25 Años \[Live\]](https://open.spotify.com/track/0ZkjGddKhC7IxwLy4RQjcE) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [25 Años de Música](https://open.spotify.com/album/6zhjig78tafXcTTZmjO752) | 4:18 | 2022-09-03 |  |
-| [Esclavo](https://open.spotify.com/track/760amZp34Hu7t5cH9QB3BB) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Esclavo](https://open.spotify.com/album/1eVMXERactTzMCN0xab6j8) | 4:16 | 2024-02-14 |  |
+| [Esclavo](https://open.spotify.com/track/760amZp34Hu7t5cH9QB3BB) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Esclavo](https://open.spotify.com/album/1eVMXERactTzMCN0xab6j8) | 4:16 | 2024-02-14 | 2024-10-07 |
 | [Escritorio](https://open.spotify.com/track/5pOli51fQo1bNV3oO2HHls) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [El Paso Gigante](https://open.spotify.com/album/1kJD3mYufavAaI1IZwrP3i) | 3:51 | 2022-05-25 |  |
 | [Este Jardín](https://open.spotify.com/track/5UgPN09gWrOMI9zC2io8yC) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [¿Quién da Más ?](https://open.spotify.com/album/5eYOXxWRhk2Lqj93pE7zwG) | 4:43 | 2022-05-25 |  |
 | [Flaca huella](https://open.spotify.com/track/4ZEkXz3SCHOqV76GQVEIQ1) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [El Paso Gigante](https://open.spotify.com/album/1kJD3mYufavAaI1IZwrP3i) | 4:07 | 2022-05-25 |  |
@@ -44,6 +44,7 @@
 | [La Flor](https://open.spotify.com/track/0nd81OJKHU8vUIMp27noMA) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Hoy – 3décadas, Vol\. 1](https://open.spotify.com/album/4PSbFROuWr7Cny41folDLl) | 4:58 | 2022-10-10 |  |
 | [La magia](https://open.spotify.com/track/0sCiTglDE8RsNSXSHlDdbg) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Instinto](https://open.spotify.com/album/4BJ27soCC0DWKQZbjXl6u0) | 4:39 | 2022-05-25 | 2022-10-30 |
 | [La Naturaleza](https://open.spotify.com/track/0OtycdXDc8Q8UBNKwX21J7) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [La Naturaleza](https://open.spotify.com/album/11gf4bxcj3Fkx6xhkZZ7Rw) | 6:50 | 2022-05-31 | 2022-10-07 |
+| [La receta](https://open.spotify.com/track/1h33O6bsMRrKWlBzbylA0t) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Instinto](https://open.spotify.com/album/4BJ27soCC0DWKQZbjXl6u0) | 3:47 | 2024-10-07 |  |
 | [La Receta \- Versión 25 Años \[Live\]](https://open.spotify.com/track/4dzDPsRrI8VWFgFbUqAcsS) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [25 Años de Música](https://open.spotify.com/album/6zhjig78tafXcTTZmjO752) | 2:39 | 2022-05-25 | 2022-10-13 |
 | [La Vela \- Versión 25 Años](https://open.spotify.com/track/1RUxqobMDkexH6e7mliVtV) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [25 Años de Música](https://open.spotify.com/album/6zhjig78tafXcTTZmjO752) | 5:57 | 2022-05-25 | 2024-08-13 |
 | [Listo](https://open.spotify.com/track/4qzyzNMkDKITsgcm5Q1JS6) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Alas Canciones](https://open.spotify.com/album/0hDvH4mW4hxL8lTQEd4uP8) | 4:27 | 2022-05-25 | 2022-10-08 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Israel & Rodolffo, Mano Walter com Matheus Fernandes, GREGO e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,941,456 likes - 64 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,941,729 likes - 64 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

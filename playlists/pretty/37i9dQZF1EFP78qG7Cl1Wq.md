@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFP78qG7Cl1Wq.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/057DaLBG8lJwWEgLEqBmHn">Tayla Parx</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,072 likes - 223 songs - 11 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,073 likes - 223 songs - 11 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFP78qG7Cl1Wq.md) - [plain]
 | 62 | [2 Places](https://open.spotify.com/track/3LJT5LFqEW0FxULZtdWOOS) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [Inspired by True Events \- Deluxe Edition](https://open.spotify.com/album/5lRQzYCMjiFzkRyOeiKrPY) | 3:01 |
 | 63 | [Rendezvous](https://open.spotify.com/track/157MAS9dxMKcYTvISq6hie) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Confetti](https://open.spotify.com/album/33a8Ha3pE7fo2o4T4xLabF) | 2:56 |
 | 64 | [Fight \(feat\. Florida Georgia Line\)](https://open.spotify.com/track/7A6UIxi15awyiEbYbMF06V) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15), [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Fight \(feat\. Florida Georgia Line\)](https://open.spotify.com/album/1gaAEfy9L4TIl3lrIVGe5h) | 3:17 |
-| 65 | [Coffee](https://open.spotify.com/track/6jShoT9pQam6vzsJzKkevB) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [Inspired by True Events \- Deluxe Edition](https://open.spotify.com/album/5lRQzYCMjiFzkRyOeiKrPY) | 4:09 |
-| 66 | [Nassau](https://open.spotify.com/track/2D48pEtMZRYcByAhjvVLM3) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Las Mujeres Ya No Lloran](https://open.spotify.com/album/3fonA82Hl7huJiQCwKkzGA) | 2:36 |
+| 65 | [Nassau](https://open.spotify.com/track/2D48pEtMZRYcByAhjvVLM3) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Las Mujeres Ya No Lloran](https://open.spotify.com/album/3fonA82Hl7huJiQCwKkzGA) | 2:36 |
+| 66 | [Coffee](https://open.spotify.com/track/6jShoT9pQam6vzsJzKkevB) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [Inspired by True Events \- Deluxe Edition](https://open.spotify.com/album/5lRQzYCMjiFzkRyOeiKrPY) | 4:09 |
 | 67 | [Tayla \(every night\)](https://open.spotify.com/track/6XmfCIEMyRqpsKMkuNKlQD) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life 2 \(February 2 \- October 15 2021\)](https://open.spotify.com/album/0SFtIrRytNI4kcf93Tbhdf) | 1:05 |
 | 68 | [Take It To The Top \(Becky G & Ayra Starr\)](https://open.spotify.com/track/4mKUfMSg0geJFVscFdaMcQ) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [METRO BOOMIN PRESENTS SPIDER\-MAN: ACROSS THE SPIDER\-VERSE \(SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE / DELUXE EDITION\)](https://open.spotify.com/album/0rqRGFgE4o8kf6VM18jakx) | 2:05 |
 | 69 | [Pipe \(feat\. XNDA\)](https://open.spotify.com/track/3cFWrR4fqK8mmmoJSxLkts) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS), [XNDA](https://open.spotify.com/artist/0tIJlS9XsT8tByKMAEUp1w) | [Liberation](https://open.spotify.com/album/7MfUiQkVEDkOSmU83A2C9q) | 4:05 |
@@ -232,4 +232,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFP78qG7Cl1Wq.md) - [plain]
 | 222 | [Captain Interlude](https://open.spotify.com/track/4qlfzlEsVu7KCRe63R7sE0) | [eleven7four](https://open.spotify.com/artist/3R7vsIfCvXWZ95uFCDAgJa) | [What's The 1174? Side 2](https://open.spotify.com/album/0EX4qGQyjzFq9JZQEWjyiV) | 0:32 |
 | 223 | [SummerTime](https://open.spotify.com/track/364fkWjCvOvHzCUBTHvU3I) | [KE](https://open.spotify.com/artist/1OQbZJyFhZMWGINxNBCUzB), [LAGITT](https://open.spotify.com/artist/1OhNC7ULDsgId5WEKsNsMY) | [SummerTime](https://open.spotify.com/album/0KgWqv4TZlwGCk3M7E6E7j) | 3:40 |
 
-Snapshot ID: `Abd//gAAAACh1m1YJCM7wd9357XNUoSz`
+Snapshot ID: `AbeFngAAAABBl6T6BxuDuDv0U7aOgzES`

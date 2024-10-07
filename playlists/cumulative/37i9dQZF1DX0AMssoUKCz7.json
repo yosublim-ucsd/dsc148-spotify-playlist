@@ -751,6 +751,28 @@
     },
     {
       "album": {
+        "name": "As It Was (Chill Edit)",
+        "url": "https://open.spotify.com/album/4xxolV9UD43C5JcWhEAbOT"
+      },
+      "artists": [
+        {
+          "name": "Twan Ray",
+          "url": "https://open.spotify.com/artist/2IrrH2ytG96HCP9dnM6mGr"
+        },
+        {
+          "name": "Solar State",
+          "url": "https://open.spotify.com/artist/6apP9Y1rUXNySghaBvyRzu"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134693,
+      "name": "As It Was - Chill Edit",
+      "url": "https://open.spotify.com/track/6S9wjjJhcaWR7urRwNFDUZ"
+    },
+    {
+      "album": {
         "name": "Awa Ni",
         "url": "https://open.spotify.com/album/0JcasIRv6rbQG0Bb98o7In"
       },
@@ -5558,7 +5580,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-07",
       "duration_ms": 160658,
       "name": "Home to You",
       "url": "https://open.spotify.com/track/2E68BgIXWdBymrDdW0H4ux"
@@ -11118,6 +11140,28 @@
     {
       "album": {
         "name": "Rise Up",
+        "url": "https://open.spotify.com/album/2rica2Rv8loGKCze0FO9L1"
+      },
+      "artists": [
+        {
+          "name": "Brendan Mills",
+          "url": "https://open.spotify.com/artist/3TjFefusAoJFMiB3hrsRDE"
+        },
+        {
+          "name": "Surfin' Sam",
+          "url": "https://open.spotify.com/artist/6tabDylacL9WAJ3QordHie"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167946,
+      "name": "Rise Up",
+      "url": "https://open.spotify.com/track/2zIaJANgkbASOkw6yH58Wu"
+    },
+    {
+      "album": {
+        "name": "Rise Up",
         "url": "https://open.spotify.com/album/71OvAYyGpaspUbSFoKw1Tn"
       },
       "artists": [
@@ -12572,7 +12616,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-07",
       "duration_ms": 169486,
       "name": "Stuck In The Rain",
       "url": "https://open.spotify.com/track/2j0YDL3RiEs5QLaJnWl3TT"

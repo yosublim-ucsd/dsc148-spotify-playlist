@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Coldplay, LISA, Lil Durk,  FINNEAS, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,225,445 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,225,609 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 31 | [Hope](https://open.spotify.com/track/2hPZRSLyKFyJCYTotrmM1q) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Changes All The Time](https://open.spotify.com/album/0RJ06tZn2gom7mAmCIip2z) | 4:39 |
 | 32 | [Get Busy](https://open.spotify.com/track/1U3HdQECtAOhOzZ05flaY0) | [Anabel Englund](https://open.spotify.com/artist/3ky8xBRraNNzxzXEw6Ga0c) | [Get Busy](https://open.spotify.com/album/4SHUE12jvWe2VroUpuhM6o) | 2:48 |
 | 33 | [I Do \(feat\. Muni Long\)](https://open.spotify.com/track/5TbYIeYkGgGtYL7sms7m9N) | [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [JADED](https://open.spotify.com/album/1XcpYmfE4vYCKeLQYINlO7) | 2:46 |
-| 34 | [Maintenance Man \(feat\. Nemzzz, Dee Billz\)](https://open.spotify.com/track/7Bi3CoMUn2T8orxoPcU71f) | [41](https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8), [Kyle Richh](https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU), [Jenn Carter](https://open.spotify.com/artist/3BcgTyEdL81zMljmXcilZM), [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7), [Dee Billz](https://open.spotify.com/artist/2fBU7rOViK7ywwHCIYEa7h) | [Maintenance Man](https://open.spotify.com/album/60TaG6Q0X1PxlSPTo1vO85) | 2:41 |
+| 34 | [Maintenance Man \(feat\. Jenn Carter, Dee Billz\)](https://open.spotify.com/track/7Bi3CoMUn2T8orxoPcU71f) | [41](https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8), [Kyle Richh](https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU), [Jenn Carter](https://open.spotify.com/artist/3BcgTyEdL81zMljmXcilZM), [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7), [Dee Billz](https://open.spotify.com/artist/2fBU7rOViK7ywwHCIYEa7h) | [Maintenance Man](https://open.spotify.com/album/60TaG6Q0X1PxlSPTo1vO85) | 2:41 |
 | 35 | [¿Por Qué Soy Así?](https://open.spotify.com/track/1N9n5G6elGqnLm3KSVG7Ir) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [¿Por Qué Soy Así?](https://open.spotify.com/album/0nx6GtmpkRxmbj1gX2pRP2) | 3:09 |
 | 36 | [Weekend Boy](https://open.spotify.com/track/2SBXmWWHWuG12G7S7SKvwA) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Good Neighbours](https://open.spotify.com/album/1iArxZvJgmmlTo6VwuHvll) | 2:51 |
 | 37 | [Even \(with Cat Burns\)](https://open.spotify.com/track/5CeJU8nNGuwR6LWUzJa5QF) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP), [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [Even \(with Cat Burns\)](https://open.spotify.com/album/6uxqYbEgP9HE4twJFCZCIQ) | 2:31 |

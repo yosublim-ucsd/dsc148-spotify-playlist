@@ -1,12 +1,12 @@
 {
-  "description": "This Is Gerardo Ortiz. Los temas esenciales, todos en una lista.",
-  "num_followers": 440314,
+  "description": "This is Gerardo Ortiz. The essential tracks, all in one playlist.",
+  "num_followers": 440355,
   "original_name": "This Is Gerardo Ortiz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zv3egAAAAAAsPQvlQzRq5OHFTFLJ9NV6",
+  "snapshot_id": "ZwCBgAAAAABKztWp4+0yM9PkRyI3l1hF",
   "tracks": [
     {
       "added_at": null,
@@ -143,22 +143,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Morir y Existir En Vivo",
-        "url": "https://open.spotify.com/album/3fFAsEBYDHC89w3Unkk9fY"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        }
-      ],
-      "duration_ms": 282266,
-      "name": "Cara A La Muerte (En Vivo)",
-      "url": "https://open.spotify.com/track/2BwQ9RVjAjLpTM8D7SPlsZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Green Trip",
         "url": "https://open.spotify.com/album/1KrCvwoIRQ18824qcMFb4F"
       },
@@ -179,8 +163,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Entre Dios y El Diablo (Deluxe Version)",
-        "url": "https://open.spotify.com/album/5Z8W1u3XfVt5Qep5gI5raN"
+        "name": "Morir y Existir En Vivo",
+        "url": "https://open.spotify.com/album/3fFAsEBYDHC89w3Unkk9fY"
       },
       "artists": [
         {
@@ -188,9 +172,25 @@
           "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
         }
       ],
-      "duration_ms": 198026,
-      "name": "Aquiles Afirmo",
-      "url": "https://open.spotify.com/track/5L92JAcxJMVmLlKIWHhLCY"
+      "duration_ms": 282266,
+      "name": "Cara A La Muerte (En Vivo)",
+      "url": "https://open.spotify.com/track/2BwQ9RVjAjLpTM8D7SPlsZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Comer\u00e9 Callado, Vol. 1",
+        "url": "https://open.spotify.com/album/4IeW4TAoqfbRYzQNAKxk91"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "duration_ms": 175028,
+      "name": "Para Qu\u00e9 Lastimarme",
+      "url": "https://open.spotify.com/track/4pA15wGSXsWRPnRc9u4Dh5"
     },
     {
       "added_at": null,
@@ -211,8 +211,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Comer\u00e9 Callado, Vol. 1",
-        "url": "https://open.spotify.com/album/4IeW4TAoqfbRYzQNAKxk91"
+        "name": "Entre Dios y El Diablo (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5Z8W1u3XfVt5Qep5gI5raN"
       },
       "artists": [
         {
@@ -220,9 +220,9 @@
           "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
         }
       ],
-      "duration_ms": 175028,
-      "name": "Para Qu\u00e9 Lastimarme",
-      "url": "https://open.spotify.com/track/4pA15wGSXsWRPnRc9u4Dh5"
+      "duration_ms": 198026,
+      "name": "Aquiles Afirmo",
+      "url": "https://open.spotify.com/track/5L92JAcxJMVmLlKIWHhLCY"
     },
     {
       "added_at": null,
@@ -267,22 +267,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Entre Dios y El Diablo (Deluxe Version)",
-        "url": "https://open.spotify.com/album/5Z8W1u3XfVt5Qep5gI5raN"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        }
-      ],
-      "duration_ms": 181986,
-      "name": "Amor Confuso",
-      "url": "https://open.spotify.com/track/4DylHCW46VE8AmQiW1EjUZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Archivos de Mi Vida",
         "url": "https://open.spotify.com/album/3XPV75rmAKWAeVJtXuERzz"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 200386,
       "name": "Perd\u00f3name",
       "url": "https://open.spotify.com/track/69JACep1HLAHGitjoHhXkR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Entre Dios y El Diablo (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5Z8W1u3XfVt5Qep5gI5raN"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "duration_ms": 181986,
+      "name": "Amor Confuso",
+      "url": "https://open.spotify.com/track/4DylHCW46VE8AmQiW1EjUZ"
     },
     {
       "added_at": null,
@@ -335,22 +335,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Comer\u00e9 Callado, Vol. 1",
-        "url": "https://open.spotify.com/album/4IeW4TAoqfbRYzQNAKxk91"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        }
-      ],
-      "duration_ms": 177365,
-      "name": "Regresa Hermosa",
-      "url": "https://open.spotify.com/track/13owSDdId4auyDUXxS7H8i"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Archivos de Mi Vida",
         "url": "https://open.spotify.com/album/3XPV75rmAKWAeVJtXuERzz"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 170720,
       "name": "Eres Una Ni\u00f1a",
       "url": "https://open.spotify.com/track/0G9e3gdGPeer3BC1jh1qGN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Comer\u00e9 Callado, Vol. 1",
+        "url": "https://open.spotify.com/album/4IeW4TAoqfbRYzQNAKxk91"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "duration_ms": 177365,
+      "name": "Regresa Hermosa",
+      "url": "https://open.spotify.com/track/13owSDdId4auyDUXxS7H8i"
     },
     {
       "added_at": null,
@@ -423,18 +423,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Comer\u00e9 Callado, Vol. 1",
-        "url": "https://open.spotify.com/album/4IeW4TAoqfbRYzQNAKxk91"
+        "name": "Andamos Recio",
+        "url": "https://open.spotify.com/album/5OU2nDge99Voto4N4Vl6yS"
       },
       "artists": [
         {
           "name": "Gerardo Ortiz",
           "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
         }
       ],
-      "duration_ms": 180693,
-      "name": "Palma Salazar",
-      "url": "https://open.spotify.com/track/4UhPBzZ2yHMsedsRxfH40T"
+      "duration_ms": 152200,
+      "name": "Andamos Recio",
+      "url": "https://open.spotify.com/track/4x02u1dxnmoeR4GHOAmuXG"
     },
     {
       "added_at": null,
@@ -455,22 +459,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Andamos Recio",
-        "url": "https://open.spotify.com/album/5OU2nDge99Voto4N4Vl6yS"
+        "name": "Comer\u00e9 Callado, Vol. 1",
+        "url": "https://open.spotify.com/album/4IeW4TAoqfbRYzQNAKxk91"
       },
       "artists": [
         {
           "name": "Gerardo Ortiz",
           "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
         }
       ],
-      "duration_ms": 152200,
-      "name": "Andamos Recio",
-      "url": "https://open.spotify.com/track/4x02u1dxnmoeR4GHOAmuXG"
+      "duration_ms": 180693,
+      "name": "Palma Salazar",
+      "url": "https://open.spotify.com/track/4UhPBzZ2yHMsedsRxfH40T"
     },
     {
       "added_at": null,
@@ -563,6 +563,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "D\u00e9cimo Aniversario (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1FlTGY7gHcjTtBbhCDY3hj"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        },
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 159390,
+      "name": "El Ranchero",
+      "url": "https://open.spotify.com/track/6XZtHcPKpn2pGVCLEBzwxj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Amado Carrillo",
         "url": "https://open.spotify.com/album/7GpDCavtQXcXwjTJ1R59dE"
       },
@@ -575,22 +595,6 @@
       "duration_ms": 179173,
       "name": "Amado Carrillo",
       "url": "https://open.spotify.com/track/7pf6MMhKRoKVc7JR6SsTgP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hoy M\u00e1s Fuerte",
-        "url": "https://open.spotify.com/album/2OAr7CKU64w3VzHkSsdC46"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        }
-      ],
-      "duration_ms": 133226,
-      "name": "El Cholo",
-      "url": "https://open.spotify.com/track/6z4awm3ZfXQjXGF5loOUAi"
     },
     {
       "added_at": null,
@@ -611,22 +615,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "D\u00e9cimo Aniversario (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1FlTGY7gHcjTtBbhCDY3hj"
+        "name": "Hoy M\u00e1s Fuerte",
+        "url": "https://open.spotify.com/album/2OAr7CKU64w3VzHkSsdC46"
       },
       "artists": [
         {
           "name": "Gerardo Ortiz",
           "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        },
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
         }
       ],
-      "duration_ms": 159390,
-      "name": "El Ranchero",
-      "url": "https://open.spotify.com/track/6XZtHcPKpn2pGVCLEBzwxj"
+      "duration_ms": 133226,
+      "name": "El Cholo",
+      "url": "https://open.spotify.com/track/6z4awm3ZfXQjXGF5loOUAi"
     },
     {
       "added_at": null,
@@ -751,22 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Morir y Existir En Vivo",
-        "url": "https://open.spotify.com/album/3fFAsEBYDHC89w3Unkk9fY"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        }
-      ],
-      "duration_ms": 164866,
-      "name": "14 Guerras (En Vivo)",
-      "url": "https://open.spotify.com/track/6FMBC8EazlnY5qias6mItl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Primer Ministro",
         "url": "https://open.spotify.com/album/1fLCJYEq0kv87PSPdCB0dC"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 114120,
       "name": "El Primer Ministro",
       "url": "https://open.spotify.com/track/33fgAYNJAmbNoT76SLiOL1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Morir y Existir En Vivo",
+        "url": "https://open.spotify.com/album/3fFAsEBYDHC89w3Unkk9fY"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "duration_ms": 164866,
+      "name": "14 Guerras (En Vivo)",
+      "url": "https://open.spotify.com/track/6FMBC8EazlnY5qias6mItl"
     },
     {
       "added_at": null,
@@ -823,22 +823,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Morir y Existir En Vivo",
-        "url": "https://open.spotify.com/album/3fFAsEBYDHC89w3Unkk9fY"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        }
-      ],
-      "duration_ms": 191213,
-      "name": "Soy Familia, Soy Michoacano (En Vivo)",
-      "url": "https://open.spotify.com/track/5sK0dInvxvPGW389d8IS67"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Supremac\u00eda",
         "url": "https://open.spotify.com/album/2qgYY0i0OW85xXawxTkEDW"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 180173,
       "name": "El Cartel de la Rana",
       "url": "https://open.spotify.com/track/67YpTbF3dSYBKx7MZFCDto"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Morir y Existir En Vivo",
+        "url": "https://open.spotify.com/album/3fFAsEBYDHC89w3Unkk9fY"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "duration_ms": 191213,
+      "name": "Soy Familia, Soy Michoacano (En Vivo)",
+      "url": "https://open.spotify.com/track/5sK0dInvxvPGW389d8IS67"
     },
     {
       "added_at": null,

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2qgZOg.md) - [plain]
 
 ### [This Is Skillet](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2qgZOg)
 
-> This is: Skillet\. Alle wichtigen Tracks in einer Playlist.
+> This Is Skillet\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 286,701 likes - 51 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 286,735 likes - 51 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2qgZOg.md) - [plain]
 | 47 | [Destiny](https://open.spotify.com/track/7l35PR5pQl5w3QjpBROEl3) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Dominion](https://open.spotify.com/album/1ZUW7enyVvaUZgkcWXk6wG) | 4:02 |
 | 48 | [Savior](https://open.spotify.com/track/3PwUxOBMBkwILa7Y0s6h8S) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Collide](https://open.spotify.com/album/77JbhmUqfoId7D2AHKU4zW) | 4:33 |
 | 49 | [Dead Man Walking](https://open.spotify.com/track/0xdHxI8iKatXB8PYWKRi74) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Victorious: The Aftermath \- Deluxe](https://open.spotify.com/album/3YhTX4XmDv0BHQ8gReEStW) | 3:51 |
-| 50 | [Refuge](https://open.spotify.com/track/7pP0Mep1TEphZrYWylClWa) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Refuge](https://open.spotify.com/album/2E5y6uKNGkwk4BxpqsfV27) | 3:28 |
-| 51 | [The Defiant](https://open.spotify.com/track/7CS9m4zqBEH2so5yJR1UGC) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Dominion: Day of Destiny](https://open.spotify.com/album/0yppsQTW8pACnrnH75Rvhv) | 3:14 |
+| 50 | [Take It All Back](https://open.spotify.com/track/1486GTNZyKS12K9NSP1QRj) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4), [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8), [Davies.](https://open.spotify.com/artist/4gHYwyqJOALI9pJO1QCzq8) | [Take It All Back](https://open.spotify.com/album/0JNxzwUAvDPOboU7nmP9GU) | 3:24 |
+| 51 | [Refuge](https://open.spotify.com/track/7pP0Mep1TEphZrYWylClWa) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Refuge](https://open.spotify.com/album/2E5y6uKNGkwk4BxpqsfV27) | 3:28 |
 
-Snapshot ID: `Zv3egAAAAADpv9OJtL8hk1d+lNqZwYGK`
+Snapshot ID: `ZwCBgAAAAABl8RzMCURbCVb8rd6Iz7oO`

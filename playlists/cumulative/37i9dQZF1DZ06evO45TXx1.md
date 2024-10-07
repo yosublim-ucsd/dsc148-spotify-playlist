@@ -2,9 +2,9 @@
 
 ### [This Is Mc Luanna](https://open.spotify.com/playlist/37i9dQZF1DZ06evO45TXx1)
 
-> This is Mc Luanna\. Todos os maiores hits em uma só playlist.
+> This is Mc Luanna\. The essential tracks, all in one playlist.
 
-76 songs - 3 hr 48 min
+77 songs - 3 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,9 +52,10 @@
 | [Meio Pá](https://open.spotify.com/track/7JPDUl1uDFB4PM4IGxyKJU) | [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Blest Jones](https://open.spotify.com/artist/58zckWmoqAOoqPtZggJ9OZ), [UNKWN](https://open.spotify.com/artist/1hKoauICyrx7JojasOI1EU), [Scotz](https://open.spotify.com/artist/2rb4yUz7taAlwIu5hobMv4), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw) | [Dos Prédios](https://open.spotify.com/album/4WTmjVL1HD0QQCiht2scSM) | 2:59 | 2023-12-30 |  |
 | [Notas](https://open.spotify.com/track/2AuH6RO1u7PMqCUv8HNg43) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Mc Jean](https://open.spotify.com/artist/7iT64TaHLjA4wDm53frq3B), [Mello Santana](https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY), [Piazza](https://open.spotify.com/artist/5SpE1csYpLIA05aBXqkOuR) | [Notas](https://open.spotify.com/album/5JxbFGCIxfZPOPSuSs5GAY) | 3:21 | 2023-12-30 |  |
 | [NOVINHA MANDRAKA](https://open.spotify.com/track/2hB98xPNhpahju25eLttyz) | [Derek](https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk) | [Trap The Fato Deluxe](https://open.spotify.com/album/0un91YASLvkBJCWKdCPj4t) | 2:58 | 2023-12-30 |  |
+| [Não Adianta Me Ligar](https://open.spotify.com/track/0E65iBKawwwGbV3He8N5kE) | [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO), [JOK3R](https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6) | [Púrpura](https://open.spotify.com/album/2SXORkzxQrYi0ueO5v6wCC) | 3:25 | 2024-10-07 |  |
 | [O Poder É Nosso](https://open.spotify.com/track/39kvbhDofLeS6PYH8tktAc) | [Jovem MK](https://open.spotify.com/artist/01APkKC04vJYFKyYVxSZWR), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Malcolm VL](https://open.spotify.com/artist/6pJi8PaFlp6aNvOw3e0ONm) | [O Poder É Nosso](https://open.spotify.com/album/6xRekkrxdRIpv2O3MDRKCC) | 2:18 | 2024-09-30 | 2024-10-01 |
 | [P\# do Caster](https://open.spotify.com/track/7jtmSFz55svHq6dBVle1wf) | [YgRick](https://open.spotify.com/artist/1OfI8AO20T9uF6I1eKVyqr), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6) | [P\# do Caster](https://open.spotify.com/album/38oFdOTv1WRmtqdcyxGQpZ) | 2:58 | 2024-03-01 | 2024-07-09 |
-| [Palpite](https://open.spotify.com/track/5tJi3MH0b90iHb8NWR9Hj1) | [Dj Billy Mandela](https://open.spotify.com/artist/5EmpV2UplGpGulT1onoSyh), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6) | [Palpite](https://open.spotify.com/album/4h8hU9tmxAJs5rxhSNqQWj) | 1:52 | 2023-12-30 |  |
+| [Palpite](https://open.spotify.com/track/5tJi3MH0b90iHb8NWR9Hj1) | [Dj Billy Mandela](https://open.spotify.com/artist/5EmpV2UplGpGulT1onoSyh), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6) | [Palpite](https://open.spotify.com/album/4h8hU9tmxAJs5rxhSNqQWj) | 1:52 | 2023-12-30 | 2024-10-07 |
 | [Pantera](https://open.spotify.com/track/4MmhgIjjLSo3BdLL9ZIucd) | [Iza Sabino](https://open.spotify.com/artist/3bgFgu57tkJSn1ONpK9Gs3), [Ajuliacosta](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [ONNiKA](https://open.spotify.com/artist/7h2qMFZKbjifWLpMhsQ988), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Su Madre Mandrake](https://open.spotify.com/artist/1S1jcqQMtTQhQF1D2yhk4i) | [Pantera](https://open.spotify.com/album/3NSdLNoPmrSGXbHTiFdXiX) | 4:06 | 2023-12-30 | 2024-07-05 |
 | [Piranha](https://open.spotify.com/track/3FVtG5hvfbOpcQipyovIZE) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Ajuliacosta](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [Mello Santana](https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY) | [Piranha](https://open.spotify.com/album/7Msb9eEGxaujbKTFzL9ykK) | 2:56 | 2024-05-25 |  |
 | [Podepá](https://open.spotify.com/track/6jriETT3aG0EdRVB3bQna7) | [Cassol](https://open.spotify.com/artist/0hg0SDpSJsbcMjsRoHdnsu), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6) | [Nativo](https://open.spotify.com/album/2FGqHsA9CM6A1mPnu53g0k) | 3:01 | 2024-06-01 |  |

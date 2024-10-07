@@ -1,12 +1,12 @@
 {
   "description": "This is Hozier. The essential tracks, all in one playlist.",
-  "num_followers": 550066,
+  "num_followers": 550253,
   "original_name": "This Is Hozier",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zv3egAAAAAAq/OoN4AX4lKLysBGCdeaz",
+  "snapshot_id": "ZwCBgAAAAABbIrrLhDPUWMsXZTuISvGD",
   "tracks": [
     {
       "added_at": null,
@@ -639,6 +639,22 @@
       "duration_ms": 254840,
       "name": "Moment's Silence (Common Tongue)",
       "url": "https://open.spotify.com/track/6F980QL4axcqjJDMaV7Ew8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Spotify Sessions (Live From Spotify, London)",
+        "url": "https://open.spotify.com/album/7z50fkoKTjnNyChNiJQx6q"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 246500,
+      "name": "Take Me To Church - Live From Spotify, London",
+      "url": "https://open.spotify.com/track/61IautUH8F8UWJ0kxF9pJc"
     }
   ],
   "unique_name": "This Is Hozier",

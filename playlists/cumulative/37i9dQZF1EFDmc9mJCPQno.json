@@ -856,10 +856,28 @@
       ],
       "date_added": "2024-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-07",
       "duration_ms": 166556,
       "name": "Kiss Ur Face Forever",
       "url": "https://open.spotify.com/track/7lf5XQQCIQkzO15CqYDjo7"
+    },
+    {
+      "album": {
+        "name": "Everybody Needs a Hero",
+        "url": "https://open.spotify.com/album/00JkCQwC0mjcE55t4R4nqe"
+      },
+      "artists": [
+        {
+          "name": "Orla Gartland",
+          "url": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
+        }
+      ],
+      "date_added": "2024-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167746,
+      "name": "Kiss Ur Face Forever",
+      "url": "https://open.spotify.com/track/7B4KpsPtxx6SK7rX1k650O"
     },
     {
       "album": {
@@ -1541,6 +1559,24 @@
     },
     {
       "album": {
+        "name": "Everybody Needs a Hero",
+        "url": "https://open.spotify.com/album/00JkCQwC0mjcE55t4R4nqe"
+      },
+      "artists": [
+        {
+          "name": "Orla Gartland",
+          "url": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
+        }
+      ],
+      "date_added": "2024-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210826,
+      "name": "The Hit",
+      "url": "https://open.spotify.com/track/0NZtY6Lv5kSCSvifCNNVcz"
+    },
+    {
+      "album": {
         "name": "The Hit",
         "url": "https://open.spotify.com/album/3I6WD02sgexnaNvRPK5Afu"
       },
@@ -1552,7 +1588,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-07",
       "duration_ms": 210826,
       "name": "The Hit",
       "url": "https://open.spotify.com/track/502BnzJNB8zqqkoamEOJ4R"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVuUd3Ffrcx8.md) - [plain]
 
 > 지금 국내에서 떠오르고 있는 팝 음악을 만나보세요! \(커버: YOASOBI\(요아소비\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,749 likes - 99 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,720 likes - 99 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVuUd3Ffrcx8.md) - [plain]
 | 19 | [Moonlit Floor](https://open.spotify.com/track/3yDRcs0Y4pPzkvMbUfeF9H) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Moonlit Floor](https://open.spotify.com/album/2F84s5tvr9RSS6VI772mVb) | 2:35 |
 | 20 | [Same Blue](https://open.spotify.com/track/2cupzYHOSLmMqDHRVQfI9j) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [Same Blue](https://open.spotify.com/album/36xdrf8iLOjM0LFvG9auGT) | 3:57 |
 | 21 | [MASCARA](https://open.spotify.com/track/25uU7huzrh4M91FXJvHWhY) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [MASCARA](https://open.spotify.com/album/25ljniOTN62coBIA6iD4iC) | 3:35 |
-| 22 | [Walk My Walk \(feat\. Réjizz\)](https://open.spotify.com/track/7gtIgNnBwFn0RW5xMYQGqm) | [Fyeqoodgurl](https://open.spotify.com/artist/47ryT65283NrXnJ8k6rKyc), [Réjizz](https://open.spotify.com/artist/2BSxVT3s5SibZ3i3SYd2l2) | [Hypnosis](https://open.spotify.com/album/0jXmg8cvVkS45W8FPiByYK) | 3:53 |
+| 22 | [Walk My Walk \(feat\. Réjizz\)](https://open.spotify.com/track/7gtIgNnBwFn0RW5xMYQGqm) | [Fyeqoodgurl](https://open.spotify.com/artist/47ryT65283NrXnJ8k6rKyc), [Réjizz](https://open.spotify.com/artist/32XWTF9gAtgtFQtfAmuBKY) | [Hypnosis](https://open.spotify.com/album/0jXmg8cvVkS45W8FPiByYK) | 3:53 |
 | 23 | [My World](https://open.spotify.com/track/0nKVI2mlBFkdjAdZH61rLF) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [My World](https://open.spotify.com/album/3a7cMtEKE1BMV0BoH9MwvV) | 3:23 |
 | 24 | [Lotus Eater](https://open.spotify.com/track/3Y6yJhnGJdNTQwgIyKMLE8) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Lotus Eater](https://open.spotify.com/album/494g1fkelfoloDvUuqdAED) | 3:51 |
 | 25 | [1900's](https://open.spotify.com/track/79XRUITVajhW5Snn7WF3YQ) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [JAGUAR II : Deluxe](https://open.spotify.com/album/7mHd5i7hgpHiMM3BFyfRdn) | 2:29 |

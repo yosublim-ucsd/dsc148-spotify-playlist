@@ -1,6 +1,6 @@
 {
   "description": "Vocals and keys, front and center. Cover: Bruno Mars",
-  "num_followers": 1836619,
+  "num_followers": 1836772,
   "original_name": "Piano Ballads",
   "owner": {
     "name": "Spotify",
@@ -155,22 +155,6 @@
     {
       "added_at": "2024-08-12 16:46:55",
       "album": {
-        "name": "A Rush of Blood to the Head",
-        "url": "https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 307879,
-      "name": "Clocks",
-      "url": "https://open.spotify.com/track/0BCPKOYdS2jbQ8iyB56Zns"
-    },
-    {
-      "added_at": "2024-08-12 16:46:55",
-      "album": {
         "name": "a thousand years",
         "url": "https://open.spotify.com/album/15yvc643iYfQtb6zh9NEJo"
       },
@@ -219,26 +203,6 @@
     {
       "added_at": "2024-08-12 16:46:55",
       "album": {
-        "name": "folklore",
-        "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        },
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 285634,
-      "name": "exile (feat. Bon Iver)",
-      "url": "https://open.spotify.com/track/4pvb0WLRcMtbPGmtejJJ6y"
-    },
-    {
-      "added_at": "2024-08-12 16:46:55",
-      "album": {
         "name": "Back from the Edge",
         "url": "https://open.spotify.com/album/7oiJYvEJHsmYtrgviAVIBD"
       },
@@ -255,18 +219,38 @@
     {
       "added_at": "2024-08-12 16:46:55",
       "album": {
-        "name": "Songs In A Minor",
-        "url": "https://open.spotify.com/album/5qUlPoDmNxCSzqVx81RDLJ"
+        "name": "A Rush of Blood to the Head",
+        "url": "https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ"
       },
       "artists": [
         {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
         }
       ],
-      "duration_ms": 210200,
-      "name": "Fallin'",
-      "url": "https://open.spotify.com/track/0KQx6HOpJueiSkztcS0r7D"
+      "duration_ms": 307879,
+      "name": "Clocks",
+      "url": "https://open.spotify.com/track/0BCPKOYdS2jbQ8iyB56Zns"
+    },
+    {
+      "added_at": "2024-08-12 16:46:55",
+      "album": {
+        "name": "folklore",
+        "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 285634,
+      "name": "exile (feat. Bon Iver)",
+      "url": "https://open.spotify.com/track/4pvb0WLRcMtbPGmtejJJ6y"
     },
     {
       "added_at": "2024-08-12 16:46:55",
@@ -323,18 +307,18 @@
     {
       "added_at": "2024-08-12 16:46:55",
       "album": {
-        "name": "evermore",
-        "url": "https://open.spotify.com/album/2Xoteh7uEpea4TohMxjtaq"
+        "name": "Songs In A Minor",
+        "url": "https://open.spotify.com/album/5qUlPoDmNxCSzqVx81RDLJ"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
         }
       ],
-      "duration_ms": 244000,
-      "name": "champagne problems",
-      "url": "https://open.spotify.com/track/0sY6ZUTh4yoctD8VIXz339"
+      "duration_ms": 210200,
+      "name": "Fallin'",
+      "url": "https://open.spotify.com/track/0KQx6HOpJueiSkztcS0r7D"
     },
     {
       "added_at": "2024-08-12 16:46:55",
@@ -371,6 +355,22 @@
     {
       "added_at": "2024-08-12 16:46:55",
       "album": {
+        "name": "evermore",
+        "url": "https://open.spotify.com/album/2Xoteh7uEpea4TohMxjtaq"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 244000,
+      "name": "champagne problems",
+      "url": "https://open.spotify.com/track/0sY6ZUTh4yoctD8VIXz339"
+    },
+    {
+      "added_at": "2024-08-12 16:46:55",
+      "album": {
         "name": "Fallen",
         "url": "https://open.spotify.com/album/02w1xMzzdF2OJxTeh1basm"
       },
@@ -383,22 +383,6 @@
       "duration_ms": 262533,
       "name": "My Immortal",
       "url": "https://open.spotify.com/track/4UzVcXufOhGUwF56HT7b8M"
-    },
-    {
-      "added_at": "2024-08-12 16:46:55",
-      "album": {
-        "name": "30",
-        "url": "https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa"
-      },
-      "artists": [
-        {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
-        }
-      ],
-      "duration_ms": 376169,
-      "name": "I Drink Wine",
-      "url": "https://open.spotify.com/track/6v0UJD4a2FtleHeSYVX02A"
     },
     {
       "added_at": "2024-08-12 16:46:55",
@@ -419,6 +403,22 @@
     {
       "added_at": "2024-08-12 16:46:55",
       "album": {
+        "name": "30",
+        "url": "https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa"
+      },
+      "artists": [
+        {
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "duration_ms": 376169,
+      "name": "I Drink Wine",
+      "url": "https://open.spotify.com/track/6v0UJD4a2FtleHeSYVX02A"
+    },
+    {
+      "added_at": "2024-08-12 16:46:55",
+      "album": {
         "name": "How Do I Say Goodbye",
         "url": "https://open.spotify.com/album/3cptxwPFf3Ioj7I3AVX3mp"
       },
@@ -435,22 +435,6 @@
     {
       "added_at": "2024-08-12 16:46:55",
       "album": {
-        "name": "5AM (Expanded Edition)",
-        "url": "https://open.spotify.com/album/05WTBdwkHAqk5Mg68ugD7L"
-      },
-      "artists": [
-        {
-          "name": "Amber Run",
-          "url": "https://open.spotify.com/artist/0MmnmsAuQKRFpo6vJElcaU"
-        }
-      ],
-      "duration_ms": 273000,
-      "name": "I Found",
-      "url": "https://open.spotify.com/track/5zT5cMnMKoyruPj13TQXGx"
-    },
-    {
-      "added_at": "2024-08-12 16:46:55",
-      "album": {
         "name": "Hopes And Fears",
         "url": "https://open.spotify.com/album/0qsT8HLvlWaSWIq8Rc95BI"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 236160,
       "name": "Somewhere Only We Know",
       "url": "https://open.spotify.com/track/0ll8uFnc0nANY35E0Lfxvg"
+    },
+    {
+      "added_at": "2024-08-12 16:46:55",
+      "album": {
+        "name": "5AM (Expanded Edition)",
+        "url": "https://open.spotify.com/album/05WTBdwkHAqk5Mg68ugD7L"
+      },
+      "artists": [
+        {
+          "name": "Amber Run",
+          "url": "https://open.spotify.com/artist/0MmnmsAuQKRFpo6vJElcaU"
+        }
+      ],
+      "duration_ms": 273000,
+      "name": "I Found",
+      "url": "https://open.spotify.com/track/5zT5cMnMKoyruPj13TQXGx"
     },
     {
       "added_at": "2024-08-12 16:46:55",
@@ -651,22 +651,6 @@
     {
       "added_at": "2024-08-12 16:46:55",
       "album": {
-        "name": "Melodrama",
-        "url": "https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF"
-      },
-      "artists": [
-        {
-          "name": "Lorde",
-          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
-        }
-      ],
-      "duration_ms": 171727,
-      "name": "Liability",
-      "url": "https://open.spotify.com/track/6Kkt27YmFyIFrcX3QXFi2o"
-    },
-    {
-      "added_at": "2024-08-12 16:46:55",
-      "album": {
         "name": "Birdy",
         "url": "https://open.spotify.com/album/1WGjSVIw0TVfbp5KrOFiP0"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 256236,
       "name": "People Help the People",
       "url": "https://open.spotify.com/track/0YywjDvFudcaHG74NuWISy"
+    },
+    {
+      "added_at": "2024-08-12 16:46:55",
+      "album": {
+        "name": "Melodrama",
+        "url": "https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF"
+      },
+      "artists": [
+        {
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+        }
+      ],
+      "duration_ms": 171727,
+      "name": "Liability",
+      "url": "https://open.spotify.com/track/6Kkt27YmFyIFrcX3QXFi2o"
     },
     {
       "added_at": "2024-08-12 16:46:55",
@@ -755,22 +755,6 @@
     {
       "added_at": "2024-08-12 16:46:55",
       "album": {
-        "name": "I GUESS I'M IN LOVE",
-        "url": "https://open.spotify.com/album/56meo2KJ9tRlaGUHSGfTpP"
-      },
-      "artists": [
-        {
-          "name": "Clinton Kane",
-          "url": "https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P"
-        }
-      ],
-      "duration_ms": 204093,
-      "name": "I GUESS I'M IN LOVE",
-      "url": "https://open.spotify.com/track/1is8gU4RVcN4J8xItxWoOY"
-    },
-    {
-      "added_at": "2024-08-12 16:46:55",
-      "album": {
         "name": "Fifty Shades Darker (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5VML6S956h4YfoYPooqLEi"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 252320,
       "name": "Helium",
       "url": "https://open.spotify.com/track/4S6fv0puLCsfYjyBTPDb9k"
+    },
+    {
+      "added_at": "2024-08-12 16:46:55",
+      "album": {
+        "name": "I GUESS I'M IN LOVE",
+        "url": "https://open.spotify.com/album/56meo2KJ9tRlaGUHSGfTpP"
+      },
+      "artists": [
+        {
+          "name": "Clinton Kane",
+          "url": "https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P"
+        }
+      ],
+      "duration_ms": 204093,
+      "name": "I GUESS I'M IN LOVE",
+      "url": "https://open.spotify.com/track/1is8gU4RVcN4J8xItxWoOY"
     },
     {
       "added_at": "2024-08-12 16:46:55",
@@ -939,22 +939,6 @@
     {
       "added_at": "2024-08-12 16:46:55",
       "album": {
-        "name": "Heartbreak Weather",
-        "url": "https://open.spotify.com/album/5gdoRB1AUsGnScCuZ8gmPp"
-      },
-      "artists": [
-        {
-          "name": "Niall Horan",
-          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
-        }
-      ],
-      "duration_ms": 224585,
-      "name": "Put A Little Love On Me",
-      "url": "https://open.spotify.com/track/7LyBwug9tJgbaEzRCqtY78"
-    },
-    {
-      "added_at": "2024-08-12 16:46:55",
-      "album": {
         "name": "Surfacing",
         "url": "https://open.spotify.com/album/5qC5YqtLMlsm5Pyl6GtfpP"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 270400,
       "name": "Angel",
       "url": "https://open.spotify.com/track/3xZMPZQYETEn4hjor3TR1A"
+    },
+    {
+      "added_at": "2024-08-12 16:46:55",
+      "album": {
+        "name": "Heartbreak Weather",
+        "url": "https://open.spotify.com/album/5gdoRB1AUsGnScCuZ8gmPp"
+      },
+      "artists": [
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+        }
+      ],
+      "duration_ms": 224585,
+      "name": "Put A Little Love On Me",
+      "url": "https://open.spotify.com/track/7LyBwug9tJgbaEzRCqtY78"
     },
     {
       "added_at": "2024-08-12 16:46:55",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2024-08-12 16:46:55",
       "album": {
-        "name": "Little Voice",
-        "url": "https://open.spotify.com/album/2Z9WUERfMjOgQ6ze9TcGbF"
-      },
-      "artists": [
-        {
-          "name": "Sara Bareilles",
-          "url": "https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM"
-        }
-      ],
-      "duration_ms": 232760,
-      "name": "Gravity",
-      "url": "https://open.spotify.com/track/4oa14QBfWRDfJy2agySy0L"
-    },
-    {
-      "added_at": "2024-08-12 16:46:55",
-      "album": {
         "name": "Turn the Lights Back On",
         "url": "https://open.spotify.com/album/4csPGLYTb7kt85U377UCuC"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 238939,
       "name": "Turn the Lights Back On",
       "url": "https://open.spotify.com/track/1KTemUlHzS0SvVtTjY1NTw"
+    },
+    {
+      "added_at": "2024-08-12 16:46:55",
+      "album": {
+        "name": "Little Voice",
+        "url": "https://open.spotify.com/album/2Z9WUERfMjOgQ6ze9TcGbF"
+      },
+      "artists": [
+        {
+          "name": "Sara Bareilles",
+          "url": "https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM"
+        }
+      ],
+      "duration_ms": 232760,
+      "name": "Gravity",
+      "url": "https://open.spotify.com/track/4oa14QBfWRDfJy2agySy0L"
     },
     {
       "added_at": "2024-08-12 16:46:55",

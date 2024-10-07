@@ -2,9 +2,9 @@
 
 ### [This Is Christine D'Clario](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3Yxulq)
 
-> This is Christine D'Clario\. The essential tracks, all in one playlist.
+> This Is Christine D'Clario\. Los temas esenciales, todos en una lista.
 
-114 songs - 11 hr 2 min
+115 songs - 11 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,7 +89,8 @@
 | [Qué Se Abra El Cielo](https://open.spotify.com/track/3gfyLSFdjHnYZ3HZVmWiBv) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9), [Marcos Brunet](https://open.spotify.com/artist/3XAsLrjUgQ9V2D8MjTfv8C) | [Eterno \(Live\)](https://open.spotify.com/album/5qB9zWGB4uaihU7R7MGk4c) | 7:25 | 2022-09-14 | 2024-04-28 |
 | [Redención \(Redenção\)](https://open.spotify.com/track/7xICC4cuIDw6p8fMk4ltdo) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Redención](https://open.spotify.com/album/6gIsv3ZQysvQzvJO4Dcbs5) | 4:33 | 2022-09-14 |  |
 | [Respirar del Cielo](https://open.spotify.com/track/65bjrimQiPoI4yNO5mBsv6) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Hasta Poder Ver](https://open.spotify.com/album/38LDYEEGCyqAGzdrw8oqBz) | 5:46 | 2022-10-12 | 2022-11-01 |
-| [Rey](https://open.spotify.com/track/7EQLP2hUQTtOdnnnxeztbJ) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Más Profundo](https://open.spotify.com/album/3obV9f1scCPMYqfOd64WIo) | 3:55 | 2022-09-14 |  |
+| [Rey](https://open.spotify.com/track/6GHjo97Q0Cx6Q0LbeRxG49) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Más Profundo](https://open.spotify.com/album/53P8BfWdQ6m9yjM6tw9ldM) | 3:55 | 2024-10-07 |  |
+| [Rey](https://open.spotify.com/track/7EQLP2hUQTtOdnnnxeztbJ) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Más Profundo](https://open.spotify.com/album/3obV9f1scCPMYqfOd64WIo) | 3:55 | 2022-09-14 | 2024-10-07 |
 | [Rey Infinito](https://open.spotify.com/track/5qHACOfv3we8lAA7i5DLzf) | [Marco Barrientos](https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [El Encuentro](https://open.spotify.com/album/0hM8D8RMnadmtLyODuKBZx) | 4:46 | 2022-09-14 | 2023-05-14 |
 | [Ruge](https://open.spotify.com/track/5XFN4MfcdDMw07igrG43LO) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9), [Montesanto](https://open.spotify.com/artist/71UQaXNOhfg5hlYglhzVCJ) | [La Novia](https://open.spotify.com/album/1XAoegvmhszmRoVQq3kPuB) | 4:27 | 2024-09-10 |  |
 | [Santo \(Tu Nombre Es\)](https://open.spotify.com/track/3zZVyvL9DGymP5ICt9bmsf) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Más Profundo](https://open.spotify.com/album/3obV9f1scCPMYqfOd64WIo) | 4:02 | 2024-05-01 | 2024-08-27 |

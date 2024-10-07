@@ -1,12 +1,12 @@
 {
   "description": "This is Damares. The essential tracks, all in one playlist.",
-  "num_followers": 29931,
+  "num_followers": 29934,
   "original_name": "This Is Damares",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zv3egAAAAABLlHA077lNDWFRN+Rs0soV",
+  "snapshot_id": "ZwCBgAAAAABKUSJ3OUrvRs4QfJT++V/l",
   "tracks": [
     {
       "added_at": null,
@@ -263,22 +263,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Supera\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/1ql8DiJv3j7JuiQSdEcoQg"
-      },
-      "artists": [
-        {
-          "name": "Damares",
-          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
-        }
-      ],
-      "duration_ms": 343372,
-      "name": "O Convidado",
-      "url": "https://open.spotify.com/track/1LFsK6UZv04d0AlfWtB8GZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Di\u00e1rio de um Vencedor",
         "url": "https://open.spotify.com/album/0stFyCnSeAihWr9BG6yYco"
       },
@@ -291,6 +275,22 @@
       "duration_ms": 324520,
       "name": "Di\u00e1rio de um Vencedor",
       "url": "https://open.spotify.com/track/1yiO84QLvUgVHvQa52heds"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Supera\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/1ql8DiJv3j7JuiQSdEcoQg"
+      },
+      "artists": [
+        {
+          "name": "Damares",
+          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
+        }
+      ],
+      "duration_ms": 343372,
+      "name": "O Convidado",
+      "url": "https://open.spotify.com/track/1LFsK6UZv04d0AlfWtB8GZ"
     },
     {
       "added_at": null,
@@ -495,22 +495,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "O Maior Trof\u00e9u",
-        "url": "https://open.spotify.com/album/4aUmdgVlZoV0lvPIHrqslu"
-      },
-      "artists": [
-        {
-          "name": "Damares",
-          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
-        }
-      ],
-      "duration_ms": 295373,
-      "name": "A Ess\u00eancia da Adora\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/1hCpXH3ZEm6LkEfWbodNCv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Supera\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/1ql8DiJv3j7JuiQSdEcoQg"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 316159,
       "name": "O Processo",
       "url": "https://open.spotify.com/track/2aQxomfu4HA5aHikGvgCjm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "O Maior Trof\u00e9u",
+        "url": "https://open.spotify.com/album/4aUmdgVlZoV0lvPIHrqslu"
+      },
+      "artists": [
+        {
+          "name": "Damares",
+          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
+        }
+      ],
+      "duration_ms": 295373,
+      "name": "A Ess\u00eancia da Adora\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/1hCpXH3ZEm6LkEfWbodNCv"
     },
     {
       "added_at": null,
@@ -559,22 +559,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "O Maior Trof\u00e9u",
-        "url": "https://open.spotify.com/album/4aUmdgVlZoV0lvPIHrqslu"
-      },
-      "artists": [
-        {
-          "name": "Damares",
-          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
-        }
-      ],
-      "duration_ms": 260013,
-      "name": "Sou Teu Deus",
-      "url": "https://open.spotify.com/track/2Uhx9tWSDxNxi5SXTRnSD2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Supera\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/1ql8DiJv3j7JuiQSdEcoQg"
       },
@@ -591,8 +575,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Apocalipse",
-        "url": "https://open.spotify.com/album/53aAt8WZafBGdivOlAwPZT"
+        "name": "O Maior Trof\u00e9u",
+        "url": "https://open.spotify.com/album/4aUmdgVlZoV0lvPIHrqslu"
       },
       "artists": [
         {
@@ -600,9 +584,9 @@
           "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
         }
       ],
-      "duration_ms": 286533,
-      "name": "Escondido Nele",
-      "url": "https://open.spotify.com/track/7x3qHc3QKCC9ObpYaWPJNz"
+      "duration_ms": 260013,
+      "name": "Sou Teu Deus",
+      "url": "https://open.spotify.com/track/2Uhx9tWSDxNxi5SXTRnSD2"
     },
     {
       "added_at": null,
@@ -623,6 +607,42 @@
       "duration_ms": 278000,
       "name": "Tudo Isso Vai Passar - Ao Vivo",
       "url": "https://open.spotify.com/track/5EJIAQL7BEMaznS7xlCEyH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Apocalipse",
+        "url": "https://open.spotify.com/album/53aAt8WZafBGdivOlAwPZT"
+      },
+      "artists": [
+        {
+          "name": "Damares",
+          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
+        }
+      ],
+      "duration_ms": 286533,
+      "name": "Escondido Nele",
+      "url": "https://open.spotify.com/track/7x3qHc3QKCC9ObpYaWPJNz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cad\u00ea o vencedor?",
+        "url": "https://open.spotify.com/album/07yxyLlox691nqPNZDyvNq"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 e Felipe",
+          "url": "https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb"
+        },
+        {
+          "name": "Damares",
+          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
+        }
+      ],
+      "duration_ms": 222602,
+      "name": "N\u00e3o pare (Participa\u00e7\u00e3o especial de Damares)",
+      "url": "https://open.spotify.com/track/1vZgOwVMWo33msljJa4h5t"
     },
     {
       "added_at": null,
@@ -659,26 +679,6 @@
       "duration_ms": 363733,
       "name": "\u00c9 Milagre (feat. Damares) - Ao Vivo",
       "url": "https://open.spotify.com/track/38dPxKE0tOrddwKiMy7I48"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cad\u00ea o vencedor?",
-        "url": "https://open.spotify.com/album/07yxyLlox691nqPNZDyvNq"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9 e Felipe",
-          "url": "https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb"
-        },
-        {
-          "name": "Damares",
-          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
-        }
-      ],
-      "duration_ms": 222602,
-      "name": "N\u00e3o pare (Participa\u00e7\u00e3o especial de Damares)",
-      "url": "https://open.spotify.com/track/1vZgOwVMWo33msljJa4h5t"
     },
     {
       "added_at": null,

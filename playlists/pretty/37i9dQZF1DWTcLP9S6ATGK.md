@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcLP9S6ATGK.md) - [plain]
 
 > Menemani akhir pekanmu dengan lagu\-lagu terbaru\. Cover: Rizwan Fadilah
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,624 likes - 107 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,700 likes - 107 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

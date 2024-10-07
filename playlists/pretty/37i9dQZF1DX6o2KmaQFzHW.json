@@ -1,6 +1,6 @@
 {
   "description": "Cl\u00e1sicos del folklore argentino de la mano de sus m\u00e1s grandes int\u00e9rpretes. Foto: Chaque\u00f1o Palavecino.",
-  "num_followers": 190912,
+  "num_followers": 190955,
   "original_name": "Folklore de Siempre",
   "owner": {
     "name": "Spotify",
@@ -159,22 +159,6 @@
     {
       "added_at": "2024-07-12 03:00:00",
       "album": {
-        "name": "Chango",
-        "url": "https://open.spotify.com/album/1gNaGgEmk8a9rH2eRExnKV"
-      },
-      "artists": [
-        {
-          "name": "Raly Barrionuevo",
-          "url": "https://open.spotify.com/artist/0mdD8YXAyJDJ2BHxIKF0Yf"
-        }
-      ],
-      "duration_ms": 231733,
-      "name": "Zamba de Abril",
-      "url": "https://open.spotify.com/track/71l747KWxSIlCOiKbtBokH"
-    },
-    {
-      "added_at": "2024-07-12 03:00:00",
-      "album": {
         "name": "Cantora",
         "url": "https://open.spotify.com/album/0GEdAkGPf0hOqaHtg6arIl"
       },
@@ -195,18 +179,34 @@
     {
       "added_at": "2024-07-12 03:00:00",
       "album": {
-        "name": "La Sole",
-        "url": "https://open.spotify.com/album/5gPAkqdpxaPRc5ZvigqNok"
+        "name": "Chango",
+        "url": "https://open.spotify.com/album/1gNaGgEmk8a9rH2eRExnKV"
       },
       "artists": [
         {
-          "name": "Soledad",
-          "url": "https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY"
+          "name": "Raly Barrionuevo",
+          "url": "https://open.spotify.com/artist/0mdD8YXAyJDJ2BHxIKF0Yf"
         }
       ],
-      "duration_ms": 193773,
-      "name": "Que Nadie Sepa Mi Sufrir",
-      "url": "https://open.spotify.com/track/0YhkCXDzIkVcv1ToW5BSbt"
+      "duration_ms": 231733,
+      "name": "Zamba de Abril",
+      "url": "https://open.spotify.com/track/71l747KWxSIlCOiKbtBokH"
+    },
+    {
+      "added_at": "2024-07-12 03:00:00",
+      "album": {
+        "name": "Los 20 A\u00f1os de Los Manseros Santiague\u00f1os",
+        "url": "https://open.spotify.com/album/175Pk8soXmGSZPy2R6Ic3n"
+      },
+      "artists": [
+        {
+          "name": "Los Manseros Santiague\u00f1os",
+          "url": "https://open.spotify.com/artist/0IAWTLWnUIzKVQDTGoYJk2"
+        }
+      ],
+      "duration_ms": 199693,
+      "name": "Entra a Mi Hogar",
+      "url": "https://open.spotify.com/track/0vICUGzGQoi7KT0ALk4r2m"
     },
     {
       "added_at": "2024-07-12 03:00:00",
@@ -231,18 +231,34 @@
     {
       "added_at": "2024-07-12 03:00:00",
       "album": {
-        "name": "Los 20 A\u00f1os de Los Manseros Santiague\u00f1os",
-        "url": "https://open.spotify.com/album/175Pk8soXmGSZPy2R6Ic3n"
+        "name": "Signos",
+        "url": "https://open.spotify.com/album/5WZizOyx12sTkACa66HQ4q"
       },
       "artists": [
         {
-          "name": "Los Manseros Santiague\u00f1os",
-          "url": "https://open.spotify.com/artist/0IAWTLWnUIzKVQDTGoYJk2"
+          "name": "Los Nocheros",
+          "url": "https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO"
         }
       ],
-      "duration_ms": 199693,
-      "name": "Entra a Mi Hogar",
-      "url": "https://open.spotify.com/track/0vICUGzGQoi7KT0ALk4r2m"
+      "duration_ms": 161160,
+      "name": "Chacarera Del Rancho",
+      "url": "https://open.spotify.com/track/7FxhDl2TtdtWa7P490QGTS"
+    },
+    {
+      "added_at": "2024-07-12 03:00:00",
+      "album": {
+        "name": "La Sole",
+        "url": "https://open.spotify.com/album/5gPAkqdpxaPRc5ZvigqNok"
+      },
+      "artists": [
+        {
+          "name": "Soledad",
+          "url": "https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY"
+        }
+      ],
+      "duration_ms": 193773,
+      "name": "Que Nadie Sepa Mi Sufrir",
+      "url": "https://open.spotify.com/track/0YhkCXDzIkVcv1ToW5BSbt"
     },
     {
       "added_at": "2024-07-12 03:00:00",
@@ -279,70 +295,6 @@
     {
       "added_at": "2024-07-12 03:00:00",
       "album": {
-        "name": "Poncho Al Viento",
-        "url": "https://open.spotify.com/album/5lE01dF2K4sLVwlVfoP124"
-      },
-      "artists": [
-        {
-          "name": "Soledad",
-          "url": "https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY"
-        }
-      ],
-      "duration_ms": 155120,
-      "name": "Entre A Mi Pago Sin Golpear",
-      "url": "https://open.spotify.com/track/6W5nrs6SqETt1et20bTtFa"
-    },
-    {
-      "added_at": "2024-07-12 03:00:00",
-      "album": {
-        "name": "30 a\u00f1os",
-        "url": "https://open.spotify.com/album/2mrWvCCYtZn2UyhMopvAoU"
-      },
-      "artists": [
-        {
-          "name": "Mercedes Sosa",
-          "url": "https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7"
-        }
-      ],
-      "duration_ms": 145321,
-      "name": "Duerme, Negrito",
-      "url": "https://open.spotify.com/track/63T6KFdH7wzrwXGjNrHQM8"
-    },
-    {
-      "added_at": "2024-07-12 03:00:00",
-      "album": {
-        "name": "Signos",
-        "url": "https://open.spotify.com/album/5WZizOyx12sTkACa66HQ4q"
-      },
-      "artists": [
-        {
-          "name": "Los Nocheros",
-          "url": "https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO"
-        }
-      ],
-      "duration_ms": 161160,
-      "name": "Chacarera Del Rancho",
-      "url": "https://open.spotify.com/track/7FxhDl2TtdtWa7P490QGTS"
-    },
-    {
-      "added_at": "2024-07-12 03:00:00",
-      "album": {
-        "name": "30 A\u00f1os Con el Canto",
-        "url": "https://open.spotify.com/album/10WOUoHlzhyTLKhMJdVP0x"
-      },
-      "artists": [
-        {
-          "name": "Los Manseros Santiague\u00f1os",
-          "url": "https://open.spotify.com/artist/0IAWTLWnUIzKVQDTGoYJk2"
-        }
-      ],
-      "duration_ms": 173733,
-      "name": "Para los Ojos M\u00e1s Bellos",
-      "url": "https://open.spotify.com/track/4w9ax8d0trOBzXX36a9rEe"
-    },
-    {
-      "added_at": "2024-07-12 03:00:00",
-      "album": {
         "name": "Las Voces de Or\u00e1n",
         "url": "https://open.spotify.com/album/6kzs4QXD6lHK3ZzuGbU5Zi"
       },
@@ -371,6 +323,90 @@
       "duration_ms": 168948,
       "name": "El Corralero",
       "url": "https://open.spotify.com/track/4aQnqYqxg3JlDz2CyS1aap"
+    },
+    {
+      "added_at": "2024-07-12 03:00:00",
+      "album": {
+        "name": "30 a\u00f1os",
+        "url": "https://open.spotify.com/album/2mrWvCCYtZn2UyhMopvAoU"
+      },
+      "artists": [
+        {
+          "name": "Mercedes Sosa",
+          "url": "https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7"
+        }
+      ],
+      "duration_ms": 145321,
+      "name": "Duerme, Negrito",
+      "url": "https://open.spotify.com/track/63T6KFdH7wzrwXGjNrHQM8"
+    },
+    {
+      "added_at": "2024-07-12 03:00:00",
+      "album": {
+        "name": "30 A\u00f1os Con el Canto",
+        "url": "https://open.spotify.com/album/10WOUoHlzhyTLKhMJdVP0x"
+      },
+      "artists": [
+        {
+          "name": "Los Manseros Santiague\u00f1os",
+          "url": "https://open.spotify.com/artist/0IAWTLWnUIzKVQDTGoYJk2"
+        }
+      ],
+      "duration_ms": 173733,
+      "name": "Para los Ojos M\u00e1s Bellos",
+      "url": "https://open.spotify.com/track/4w9ax8d0trOBzXX36a9rEe"
+    },
+    {
+      "added_at": "2024-07-12 03:00:00",
+      "album": {
+        "name": "Navega",
+        "url": "https://open.spotify.com/album/6EnBUygxpoTiTTA6z0xhCx"
+      },
+      "artists": [
+        {
+          "name": "Jorge Fandermole",
+          "url": "https://open.spotify.com/artist/4l6qncc7ne4yU7z9i1Mtet"
+        }
+      ],
+      "duration_ms": 306586,
+      "name": "Oraci\u00f3n del remanso",
+      "url": "https://open.spotify.com/track/2RJgedUGuVZTMRRjQzRnWd"
+    },
+    {
+      "added_at": "2024-07-12 03:00:00",
+      "album": {
+        "name": "Carnaval, Pasi\u00f3n del Norte",
+        "url": "https://open.spotify.com/album/0WaV0ZGsHi6ImqIe8OTDvC"
+      },
+      "artists": [
+        {
+          "name": "Los Nocheros",
+          "url": "https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO"
+        },
+        {
+          "name": "Los Tekis",
+          "url": "https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6"
+        }
+      ],
+      "duration_ms": 185226,
+      "name": "Vienes y Te Vas",
+      "url": "https://open.spotify.com/track/188wTON3SZIoUVG39rINeq"
+    },
+    {
+      "added_at": "2024-07-12 03:00:00",
+      "album": {
+        "name": "Poncho Al Viento",
+        "url": "https://open.spotify.com/album/5lE01dF2K4sLVwlVfoP124"
+      },
+      "artists": [
+        {
+          "name": "Soledad",
+          "url": "https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY"
+        }
+      ],
+      "duration_ms": 155120,
+      "name": "Entre A Mi Pago Sin Golpear",
+      "url": "https://open.spotify.com/track/6W5nrs6SqETt1et20bTtFa"
     },
     {
       "added_at": "2024-07-12 03:00:00",
@@ -415,22 +451,6 @@
     {
       "added_at": "2024-07-12 03:00:00",
       "album": {
-        "name": "Navega",
-        "url": "https://open.spotify.com/album/6EnBUygxpoTiTTA6z0xhCx"
-      },
-      "artists": [
-        {
-          "name": "Jorge Fandermole",
-          "url": "https://open.spotify.com/artist/4l6qncc7ne4yU7z9i1Mtet"
-        }
-      ],
-      "duration_ms": 306586,
-      "name": "Oraci\u00f3n del remanso",
-      "url": "https://open.spotify.com/track/2RJgedUGuVZTMRRjQzRnWd"
-    },
-    {
-      "added_at": "2024-07-12 03:00:00",
-      "album": {
         "name": "Horacio Guarany",
         "url": "https://open.spotify.com/album/7aD2UhWw7u2wqK23hVKpsT"
       },
@@ -463,42 +483,6 @@
     {
       "added_at": "2024-07-12 03:00:00",
       "album": {
-        "name": "Los 20 A\u00f1os de Los Manseros Santiague\u00f1os",
-        "url": "https://open.spotify.com/album/175Pk8soXmGSZPy2R6Ic3n"
-      },
-      "artists": [
-        {
-          "name": "Los Manseros Santiague\u00f1os",
-          "url": "https://open.spotify.com/artist/0IAWTLWnUIzKVQDTGoYJk2"
-        }
-      ],
-      "duration_ms": 131640,
-      "name": "Chacarera para Mi Vuelta",
-      "url": "https://open.spotify.com/track/290I3pQ0feBXdeo96yuizH"
-    },
-    {
-      "added_at": "2024-07-12 03:00:00",
-      "album": {
-        "name": "Carnaval, Pasi\u00f3n del Norte",
-        "url": "https://open.spotify.com/album/0WaV0ZGsHi6ImqIe8OTDvC"
-      },
-      "artists": [
-        {
-          "name": "Los Nocheros",
-          "url": "https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO"
-        },
-        {
-          "name": "Los Tekis",
-          "url": "https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6"
-        }
-      ],
-      "duration_ms": 185226,
-      "name": "Vienes y Te Vas",
-      "url": "https://open.spotify.com/track/188wTON3SZIoUVG39rINeq"
-    },
-    {
-      "added_at": "2024-07-12 03:00:00",
-      "album": {
         "name": "La Llave",
         "url": "https://open.spotify.com/album/3FhFLJcOQ3xuECoy24Dpe6"
       },
@@ -515,18 +499,50 @@
     {
       "added_at": "2024-07-12 03:00:00",
       "album": {
-        "name": "Te esperar\u00e9 cantando",
-        "url": "https://open.spotify.com/album/0H08ED5uLTJYGtlAUhPhnr"
+        "name": "Nocheros",
+        "url": "https://open.spotify.com/album/3zK6I5P3OOV33Mr0DP1H2n"
       },
       "artists": [
         {
-          "name": "Los Cantores del Alba",
-          "url": "https://open.spotify.com/artist/2kRyLphTQyz7eaHhfLpMVl"
+          "name": "Los Nocheros",
+          "url": "https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO"
         }
       ],
-      "duration_ms": 160357,
-      "name": "Cuando Llora Mi Guitarra",
-      "url": "https://open.spotify.com/track/5fHVmUad5DoDA7JlJTF7bD"
+      "duration_ms": 212933,
+      "name": "D\u00e9jame Que Me Vaya",
+      "url": "https://open.spotify.com/track/4gqnHuW497Br4ZgZt9cduw"
+    },
+    {
+      "added_at": "2024-07-12 03:00:00",
+      "album": {
+        "name": "Los 20 A\u00f1os de Los Manseros Santiague\u00f1os",
+        "url": "https://open.spotify.com/album/175Pk8soXmGSZPy2R6Ic3n"
+      },
+      "artists": [
+        {
+          "name": "Los Manseros Santiague\u00f1os",
+          "url": "https://open.spotify.com/artist/0IAWTLWnUIzKVQDTGoYJk2"
+        }
+      ],
+      "duration_ms": 131640,
+      "name": "Chacarera para Mi Vuelta",
+      "url": "https://open.spotify.com/track/290I3pQ0feBXdeo96yuizH"
+    },
+    {
+      "added_at": "2024-07-12 03:00:00",
+      "album": {
+        "name": "Censurada. Edici\u00f3n Definitiva: Y Segu\u00ed Cantando",
+        "url": "https://open.spotify.com/album/4HUC9e4v8loLWqjGyyZjKZ"
+      },
+      "artists": [
+        {
+          "name": "Mercedes Sosa",
+          "url": "https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7"
+        }
+      ],
+      "duration_ms": 157040,
+      "name": "Como La Cigarra",
+      "url": "https://open.spotify.com/track/3d9cyv4UtVqbWnVa9fqwiO"
     },
     {
       "added_at": "2024-07-12 03:00:00",
@@ -547,34 +563,18 @@
     {
       "added_at": "2024-07-12 03:00:00",
       "album": {
-        "name": "Las Chacareras Vol.1",
-        "url": "https://open.spotify.com/album/4jfQ43IAdWCXAONZdoMPRh"
+        "name": "Te esperar\u00e9 cantando",
+        "url": "https://open.spotify.com/album/0H08ED5uLTJYGtlAUhPhnr"
       },
       "artists": [
         {
-          "name": "Los Manseros Santiague\u00f1os",
-          "url": "https://open.spotify.com/artist/0IAWTLWnUIzKVQDTGoYJk2"
+          "name": "Los Cantores del Alba",
+          "url": "https://open.spotify.com/artist/2kRyLphTQyz7eaHhfLpMVl"
         }
       ],
-      "duration_ms": 171990,
-      "name": "A\u00f1oranzas",
-      "url": "https://open.spotify.com/track/2H0jbraCWzCg45Al8dD0tu"
-    },
-    {
-      "added_at": "2024-07-12 03:00:00",
-      "album": {
-        "name": "Censurada. Edici\u00f3n Definitiva: Y Segu\u00ed Cantando",
-        "url": "https://open.spotify.com/album/4HUC9e4v8loLWqjGyyZjKZ"
-      },
-      "artists": [
-        {
-          "name": "Mercedes Sosa",
-          "url": "https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7"
-        }
-      ],
-      "duration_ms": 157040,
-      "name": "Como La Cigarra",
-      "url": "https://open.spotify.com/track/3d9cyv4UtVqbWnVa9fqwiO"
+      "duration_ms": 160357,
+      "name": "Cuando Llora Mi Guitarra",
+      "url": "https://open.spotify.com/track/5fHVmUad5DoDA7JlJTF7bD"
     },
     {
       "added_at": "2024-07-12 03:00:00",
@@ -631,6 +631,22 @@
     {
       "added_at": "2024-07-12 03:00:00",
       "album": {
+        "name": "Las Chacareras Vol.1",
+        "url": "https://open.spotify.com/album/4jfQ43IAdWCXAONZdoMPRh"
+      },
+      "artists": [
+        {
+          "name": "Los Manseros Santiague\u00f1os",
+          "url": "https://open.spotify.com/artist/0IAWTLWnUIzKVQDTGoYJk2"
+        }
+      ],
+      "duration_ms": 171990,
+      "name": "A\u00f1oranzas",
+      "url": "https://open.spotify.com/track/2H0jbraCWzCg45Al8dD0tu"
+    },
+    {
+      "added_at": "2024-07-12 03:00:00",
+      "album": {
         "name": "Eternamente Tucu",
         "url": "https://open.spotify.com/album/1V4WLmq5o6xGosgKdLpq2f"
       },
@@ -643,38 +659,6 @@
       "duration_ms": 221253,
       "name": "Anoche No Dormi",
       "url": "https://open.spotify.com/track/4Z6TFi9jac4qmdqeeJjVYn"
-    },
-    {
-      "added_at": "2024-07-12 03:00:00",
-      "album": {
-        "name": "Nocheros",
-        "url": "https://open.spotify.com/album/3zK6I5P3OOV33Mr0DP1H2n"
-      },
-      "artists": [
-        {
-          "name": "Los Nocheros",
-          "url": "https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO"
-        }
-      ],
-      "duration_ms": 212933,
-      "name": "D\u00e9jame Que Me Vaya",
-      "url": "https://open.spotify.com/track/4gqnHuW497Br4ZgZt9cduw"
-    },
-    {
-      "added_at": "2024-07-12 03:00:00",
-      "album": {
-        "name": "Te esperar\u00e9 cantando",
-        "url": "https://open.spotify.com/album/0H08ED5uLTJYGtlAUhPhnr"
-      },
-      "artists": [
-        {
-          "name": "Los Cantores del Alba",
-          "url": "https://open.spotify.com/artist/2kRyLphTQyz7eaHhfLpMVl"
-        }
-      ],
-      "duration_ms": 163004,
-      "name": "El Que Toca Nunca Baila",
-      "url": "https://open.spotify.com/track/0AKvW2NHJ2B5QaRlm45tap"
     },
     {
       "added_at": "2024-07-12 03:00:00",
@@ -711,22 +695,6 @@
     {
       "added_at": "2024-07-12 03:00:00",
       "album": {
-        "name": "Todos Los Dias Un Poco...",
-        "url": "https://open.spotify.com/album/1uZI429ycqNhTLqi6LgMrM"
-      },
-      "artists": [
-        {
-          "name": "Abel Pintos",
-          "url": "https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa"
-        }
-      ],
-      "duration_ms": 194200,
-      "name": "Ojos de Cielo",
-      "url": "https://open.spotify.com/track/0s8cIfsyn5bE7Ri9Ml1LKH"
-    },
-    {
-      "added_at": "2024-07-12 03:00:00",
-      "album": {
         "name": "Viajes Por El Mundo",
         "url": "https://open.spotify.com/album/3iiV07YVt8Z0Ztno6uC5Gw"
       },
@@ -739,6 +707,38 @@
       "duration_ms": 172800,
       "name": "Los Ejes de Mi Carreta",
       "url": "https://open.spotify.com/track/1IMlyGnCZuvVGFTHdfKFzo"
+    },
+    {
+      "added_at": "2024-07-12 03:00:00",
+      "album": {
+        "name": "Te esperar\u00e9 cantando",
+        "url": "https://open.spotify.com/album/0H08ED5uLTJYGtlAUhPhnr"
+      },
+      "artists": [
+        {
+          "name": "Los Cantores del Alba",
+          "url": "https://open.spotify.com/artist/2kRyLphTQyz7eaHhfLpMVl"
+        }
+      ],
+      "duration_ms": 163004,
+      "name": "El Que Toca Nunca Baila",
+      "url": "https://open.spotify.com/track/0AKvW2NHJ2B5QaRlm45tap"
+    },
+    {
+      "added_at": "2024-07-12 03:00:00",
+      "album": {
+        "name": "Todos Los Dias Un Poco...",
+        "url": "https://open.spotify.com/album/1uZI429ycqNhTLqi6LgMrM"
+      },
+      "artists": [
+        {
+          "name": "Abel Pintos",
+          "url": "https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa"
+        }
+      ],
+      "duration_ms": 194200,
+      "name": "Ojos de Cielo",
+      "url": "https://open.spotify.com/track/0s8cIfsyn5bE7Ri9Ml1LKH"
     },
     {
       "added_at": "2024-07-12 03:00:00",
@@ -899,22 +899,6 @@
     {
       "added_at": "2024-07-12 03:00:00",
       "album": {
-        "name": "Grandes \u00c9xitos",
-        "url": "https://open.spotify.com/album/07R9tu4qZnWCviNTWHKvNS"
-      },
-      "artists": [
-        {
-          "name": "Luciano Pereyra",
-          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
-        }
-      ],
-      "duration_ms": 227533,
-      "name": "C\u00f3rdoba Sin Ti",
-      "url": "https://open.spotify.com/track/6astyRCNHin1Fabs9ZeOQm"
-    },
-    {
-      "added_at": "2024-07-12 03:00:00",
-      "album": {
         "name": "Sole y Horacio juntos por \u00danica Vez (Grabado en Vivo en el Luna Park)",
         "url": "https://open.spotify.com/album/3H8CgdJTlIrZ5QIJFssYVc"
       },
@@ -935,6 +919,22 @@
     {
       "added_at": "2024-07-12 03:00:00",
       "album": {
+        "name": "Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/07R9tu4qZnWCviNTWHKvNS"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        }
+      ],
+      "duration_ms": 227533,
+      "name": "C\u00f3rdoba Sin Ti",
+      "url": "https://open.spotify.com/track/6astyRCNHin1Fabs9ZeOQm"
+    },
+    {
+      "added_at": "2024-07-12 03:00:00",
+      "album": {
         "name": "Coleccion Aniversario",
         "url": "https://open.spotify.com/album/4FYJKa0ohgXoDoWVerH45P"
       },
@@ -947,22 +947,6 @@
       "duration_ms": 178693,
       "name": "Cuando Ya Nadie Te Nombre",
       "url": "https://open.spotify.com/track/7ryu06ohNTICM1Txt5JRXs"
-    },
-    {
-      "added_at": "2024-07-12 03:00:00",
-      "album": {
-        "name": "Romance De Luna Y Flor",
-        "url": "https://open.spotify.com/album/4jSATA7cTYomI3uNw1Jpfe"
-      },
-      "artists": [
-        {
-          "name": "Los Fronterizos",
-          "url": "https://open.spotify.com/artist/3JY4oF6rBQ45FSVUJtXixb"
-        }
-      ],
-      "duration_ms": 183600,
-      "name": "Zamba Del Negro Alegre",
-      "url": "https://open.spotify.com/track/7surOH29RMSvRAdInzGhLU"
     },
     {
       "added_at": "2024-07-12 03:00:00",
@@ -1011,6 +995,22 @@
       "duration_ms": 200040,
       "name": "Luna Tucumana",
       "url": "https://open.spotify.com/track/3LIXsWXmk8csGYiIuALBxZ"
+    },
+    {
+      "added_at": "2024-07-12 03:00:00",
+      "album": {
+        "name": "Romance De Luna Y Flor",
+        "url": "https://open.spotify.com/album/4jSATA7cTYomI3uNw1Jpfe"
+      },
+      "artists": [
+        {
+          "name": "Los Fronterizos",
+          "url": "https://open.spotify.com/artist/3JY4oF6rBQ45FSVUJtXixb"
+        }
+      ],
+      "duration_ms": 183600,
+      "name": "Zamba Del Negro Alegre",
+      "url": "https://open.spotify.com/track/7surOH29RMSvRAdInzGhLU"
     },
     {
       "added_at": "2024-07-12 03:00:00",
@@ -1071,6 +1071,38 @@
     {
       "added_at": "2024-07-12 03:00:00",
       "album": {
+        "name": "Guitarra, D\u00edmelo Tu",
+        "url": "https://open.spotify.com/album/3H30zV8WQtf4I2hKhOpEwx"
+      },
+      "artists": [
+        {
+          "name": "Atahualpa Yupanqui",
+          "url": "https://open.spotify.com/artist/6I2DJf8fZwixA0GTLAvR1b"
+        }
+      ],
+      "duration_ms": 254960,
+      "name": "Milonga Del Solitario",
+      "url": "https://open.spotify.com/track/1Xf7gXkHRXwr8vP9GZ7pSz"
+    },
+    {
+      "added_at": "2024-07-12 03:00:00",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/3ccvDDuAXDgTBcEJsrotLV"
+      },
+      "artists": [
+        {
+          "name": "Los Fronterizos",
+          "url": "https://open.spotify.com/artist/3JY4oF6rBQ45FSVUJtXixb"
+        }
+      ],
+      "duration_ms": 196773,
+      "name": "Guitarra de Medianoche",
+      "url": "https://open.spotify.com/track/3MFZmrTRante4uZegBgzbt"
+    },
+    {
+      "added_at": "2024-07-12 03:00:00",
+      "album": {
         "name": "La Historia",
         "url": "https://open.spotify.com/album/00xeIIfZaedwrbPK61SuyI"
       },
@@ -1123,38 +1155,6 @@
     {
       "added_at": "2024-07-12 03:00:00",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/3ccvDDuAXDgTBcEJsrotLV"
-      },
-      "artists": [
-        {
-          "name": "Los Fronterizos",
-          "url": "https://open.spotify.com/artist/3JY4oF6rBQ45FSVUJtXixb"
-        }
-      ],
-      "duration_ms": 196773,
-      "name": "Guitarra de Medianoche",
-      "url": "https://open.spotify.com/track/3MFZmrTRante4uZegBgzbt"
-    },
-    {
-      "added_at": "2024-07-12 03:00:00",
-      "album": {
-        "name": "Guitarra, D\u00edmelo Tu",
-        "url": "https://open.spotify.com/album/3H30zV8WQtf4I2hKhOpEwx"
-      },
-      "artists": [
-        {
-          "name": "Atahualpa Yupanqui",
-          "url": "https://open.spotify.com/artist/6I2DJf8fZwixA0GTLAvR1b"
-        }
-      ],
-      "duration_ms": 254960,
-      "name": "Milonga Del Solitario",
-      "url": "https://open.spotify.com/track/1Xf7gXkHRXwr8vP9GZ7pSz"
-    },
-    {
-      "added_at": "2024-07-12 03:00:00",
-      "album": {
         "name": "Inolvidable - Jorge Cafrune -",
         "url": "https://open.spotify.com/album/5j1Vzvielu5xKSpS56qSJ5"
       },
@@ -1183,22 +1183,6 @@
       "duration_ms": 228666,
       "name": "Cuando Me Abandone el Alma",
       "url": "https://open.spotify.com/track/7bDlnoDZMnOZeS9caKawpd"
-    },
-    {
-      "added_at": "2024-07-12 03:00:00",
-      "album": {
-        "name": "La Historia",
-        "url": "https://open.spotify.com/album/00xeIIfZaedwrbPK61SuyI"
-      },
-      "artists": [
-        {
-          "name": "D\u00fao Salte\u00f1o",
-          "url": "https://open.spotify.com/artist/5SAeZRhgmJhgq196BR1Mna"
-        }
-      ],
-      "duration_ms": 255680,
-      "name": "Balderrama",
-      "url": "https://open.spotify.com/track/6ZEgO9PIlq8DGw2tVFHq2E"
     },
     {
       "added_at": "2024-07-12 03:00:00",
@@ -1239,6 +1223,22 @@
     {
       "added_at": "2024-07-12 03:00:00",
       "album": {
+        "name": "El Canto De La Tierra",
+        "url": "https://open.spotify.com/album/5K60VXc8jWyqiMK7QM1GBb"
+      },
+      "artists": [
+        {
+          "name": "Atahualpa Yupanqui",
+          "url": "https://open.spotify.com/artist/6I2DJf8fZwixA0GTLAvR1b"
+        }
+      ],
+      "duration_ms": 211533,
+      "name": "La Pastorcita Perdida",
+      "url": "https://open.spotify.com/track/36wpfInAPheD9NuswqTR3f"
+    },
+    {
+      "added_at": "2024-07-12 03:00:00",
+      "album": {
         "name": "Tinto",
         "url": "https://open.spotify.com/album/1MOjni1IYZO2Iosd2U0vCq"
       },
@@ -1251,6 +1251,22 @@
       "duration_ms": 203053,
       "name": "La Refranera",
       "url": "https://open.spotify.com/track/5Gfx8iRscLs9CxaFCQPfmP"
+    },
+    {
+      "added_at": "2024-07-12 03:00:00",
+      "album": {
+        "name": "La Historia",
+        "url": "https://open.spotify.com/album/00xeIIfZaedwrbPK61SuyI"
+      },
+      "artists": [
+        {
+          "name": "D\u00fao Salte\u00f1o",
+          "url": "https://open.spotify.com/artist/5SAeZRhgmJhgq196BR1Mna"
+        }
+      ],
+      "duration_ms": 255680,
+      "name": "Balderrama",
+      "url": "https://open.spotify.com/track/6ZEgO9PIlq8DGw2tVFHq2E"
     },
     {
       "added_at": "2024-07-12 03:00:00",
@@ -1311,38 +1327,6 @@
     {
       "added_at": "2024-07-12 03:00:00",
       "album": {
-        "name": "Luna Tucumana",
-        "url": "https://open.spotify.com/album/4kGesDHHRwrGSNTbVpnFqm"
-      },
-      "artists": [
-        {
-          "name": "Yanet Mayoral",
-          "url": "https://open.spotify.com/artist/1V9GLyhNrUws44RjOZ3eLO"
-        }
-      ],
-      "duration_ms": 261055,
-      "name": "Luna Tucumana",
-      "url": "https://open.spotify.com/track/3LYoTVikNcpLp5HRiz4jsV"
-    },
-    {
-      "added_at": "2024-07-12 03:00:00",
-      "album": {
-        "name": "El Canto De La Tierra",
-        "url": "https://open.spotify.com/album/5K60VXc8jWyqiMK7QM1GBb"
-      },
-      "artists": [
-        {
-          "name": "Atahualpa Yupanqui",
-          "url": "https://open.spotify.com/artist/6I2DJf8fZwixA0GTLAvR1b"
-        }
-      ],
-      "duration_ms": 211533,
-      "name": "La Pastorcita Perdida",
-      "url": "https://open.spotify.com/track/36wpfInAPheD9NuswqTR3f"
-    },
-    {
-      "added_at": "2024-07-12 03:00:00",
-      "album": {
         "name": "Principio y Destino",
         "url": "https://open.spotify.com/album/7HS2KYPywBrmG6FXupQm36"
       },
@@ -1359,18 +1343,18 @@
     {
       "added_at": "2024-07-12 03:00:00",
       "album": {
-        "name": "Lo Mejor de la Zamba Argentina",
-        "url": "https://open.spotify.com/album/0Pp6Z81iR3LT1y88KpX07g"
+        "name": "Luna Tucumana",
+        "url": "https://open.spotify.com/album/4kGesDHHRwrGSNTbVpnFqm"
       },
       "artists": [
         {
-          "name": "El Chango Nieto",
-          "url": "https://open.spotify.com/artist/5z7054rmpJ05mohSsOE0sM"
+          "name": "Yanet Mayoral",
+          "url": "https://open.spotify.com/artist/1V9GLyhNrUws44RjOZ3eLO"
         }
       ],
-      "duration_ms": 206000,
-      "name": "El Corralero",
-      "url": "https://open.spotify.com/track/5h9oRMXy6afiP2MPGMJIxy"
+      "duration_ms": 261055,
+      "name": "Luna Tucumana",
+      "url": "https://open.spotify.com/track/3LYoTVikNcpLp5HRiz4jsV"
     },
     {
       "added_at": "2024-07-12 03:00:00",
@@ -1471,6 +1455,22 @@
     {
       "added_at": "2024-07-12 03:00:00",
       "album": {
+        "name": "Lo Mejor de la Zamba Argentina",
+        "url": "https://open.spotify.com/album/0Pp6Z81iR3LT1y88KpX07g"
+      },
+      "artists": [
+        {
+          "name": "El Chango Nieto",
+          "url": "https://open.spotify.com/artist/5z7054rmpJ05mohSsOE0sM"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "El Corralero",
+      "url": "https://open.spotify.com/track/5h9oRMXy6afiP2MPGMJIxy"
+    },
+    {
+      "added_at": "2024-07-12 03:00:00",
+      "album": {
         "name": "La Palavecino",
         "url": "https://open.spotify.com/album/33rgmZwrJf2nRyPQ3BelON"
       },
@@ -1483,22 +1483,6 @@
       "duration_ms": 132496,
       "name": "La Palavecino",
       "url": "https://open.spotify.com/track/00fjTOsFohOQXJhO5KDuwi"
-    },
-    {
-      "added_at": "2024-07-12 03:00:00",
-      "album": {
-        "name": "Mis 30 Mejores Canciones",
-        "url": "https://open.spotify.com/album/0RrfUzvrRxY38Bqdi9cMsl"
-      },
-      "artists": [
-        {
-          "name": "El Chango Nieto",
-          "url": "https://open.spotify.com/artist/5z7054rmpJ05mohSsOE0sM"
-        }
-      ],
-      "duration_ms": 151600,
-      "name": "Recuerdo Salte\u00f1o",
-      "url": "https://open.spotify.com/track/76yO7eh6SgvE0PSYjKdaVj"
     },
     {
       "added_at": "2024-07-12 03:00:00",
@@ -1599,6 +1583,22 @@
     {
       "added_at": "2024-07-12 03:00:00",
       "album": {
+        "name": "Mis 30 Mejores Canciones",
+        "url": "https://open.spotify.com/album/0RrfUzvrRxY38Bqdi9cMsl"
+      },
+      "artists": [
+        {
+          "name": "El Chango Nieto",
+          "url": "https://open.spotify.com/artist/5z7054rmpJ05mohSsOE0sM"
+        }
+      ],
+      "duration_ms": 151600,
+      "name": "Recuerdo Salte\u00f1o",
+      "url": "https://open.spotify.com/track/76yO7eh6SgvE0PSYjKdaVj"
+    },
+    {
+      "added_at": "2024-07-12 03:00:00",
+      "album": {
         "name": "Secretos de Familia",
         "url": "https://open.spotify.com/album/52Y9ibi8pyfcZRMyFNwJ2c"
       },
@@ -1663,6 +1663,22 @@
     {
       "added_at": "2024-07-12 03:00:00",
       "album": {
+        "name": "Grandes Exitos (Serie De Oro)",
+        "url": "https://open.spotify.com/album/3rEBrFbu2Gf4jeg6Rjzo0T"
+      },
+      "artists": [
+        {
+          "name": "Peteco Carabajal",
+          "url": "https://open.spotify.com/artist/2v28P580xseflEKfwYtIb6"
+        }
+      ],
+      "duration_ms": 145693,
+      "name": "Camino al Amor",
+      "url": "https://open.spotify.com/track/0RvY0zu9rB1CKW0FwNr627"
+    },
+    {
+      "added_at": "2024-07-12 03:00:00",
+      "album": {
         "name": "Posade\u00f1a Linda",
         "url": "https://open.spotify.com/album/4uusF4qOg0PlRtcdmBevMC"
       },
@@ -1683,22 +1699,6 @@
     {
       "added_at": "2024-07-12 03:00:00",
       "album": {
-        "name": "Grandes Exitos (Serie De Oro)",
-        "url": "https://open.spotify.com/album/3rEBrFbu2Gf4jeg6Rjzo0T"
-      },
-      "artists": [
-        {
-          "name": "Peteco Carabajal",
-          "url": "https://open.spotify.com/artist/2v28P580xseflEKfwYtIb6"
-        }
-      ],
-      "duration_ms": 145693,
-      "name": "Camino al Amor",
-      "url": "https://open.spotify.com/track/0RvY0zu9rB1CKW0FwNr627"
-    },
-    {
-      "added_at": "2024-07-12 03:00:00",
-      "album": {
         "name": "22 Grandes Exitos",
         "url": "https://open.spotify.com/album/4VcoE025pFB2BLm9fhgg6T"
       },
@@ -1711,22 +1711,6 @@
       "duration_ms": 190333,
       "name": "Llorar\u00e9",
       "url": "https://open.spotify.com/track/3URJ8j0Z8yAXTigCzhvYrV"
-    },
-    {
-      "added_at": "2024-07-12 03:00:00",
-      "album": {
-        "name": "Monte Adentro",
-        "url": "https://open.spotify.com/album/6LNqyYmm1jIyMCJcUEBBfR"
-      },
-      "artists": [
-        {
-          "name": "Ram\u00f3n Ayala El Mens\u00fa",
-          "url": "https://open.spotify.com/artist/6VBeD0MxrxKKw7FDK8FwhB"
-        }
-      ],
-      "duration_ms": 123146,
-      "name": "El Gualamb\u00e1o - Grabaci\u00f3n Original 1959",
-      "url": "https://open.spotify.com/track/6C47UVs9GGfx43i03ZThIr"
     },
     {
       "added_at": "2024-07-12 03:00:00",
@@ -1747,6 +1731,38 @@
     {
       "added_at": "2024-07-12 03:00:00",
       "album": {
+        "name": "Monte Adentro",
+        "url": "https://open.spotify.com/album/6LNqyYmm1jIyMCJcUEBBfR"
+      },
+      "artists": [
+        {
+          "name": "Ram\u00f3n Ayala El Mens\u00fa",
+          "url": "https://open.spotify.com/artist/6VBeD0MxrxKKw7FDK8FwhB"
+        }
+      ],
+      "duration_ms": 123146,
+      "name": "El Gualamb\u00e1o - Grabaci\u00f3n Original 1959",
+      "url": "https://open.spotify.com/track/6C47UVs9GGfx43i03ZThIr"
+    },
+    {
+      "added_at": "2024-07-12 03:00:00",
+      "album": {
+        "name": "Folklore Los 100 Mejores Temas Vol. 1",
+        "url": "https://open.spotify.com/album/1nzaxGryITzT0s5iBkfeir"
+      },
+      "artists": [
+        {
+          "name": "Los De Salta",
+          "url": "https://open.spotify.com/artist/23vsv4czNaowiMYukchyrN"
+        }
+      ],
+      "duration_ms": 218106,
+      "name": "Zamba del Regreso",
+      "url": "https://open.spotify.com/track/3yoHT9xnzq86q00Pyko1Ly"
+    },
+    {
+      "added_at": "2024-07-12 03:00:00",
+      "album": {
         "name": "Tonada del viejo amor",
         "url": "https://open.spotify.com/album/2fYUY5jhI1774jp8kIzgih"
       },
@@ -1763,22 +1779,6 @@
       "duration_ms": 278733,
       "name": "Tonada del viejo amor",
       "url": "https://open.spotify.com/track/65D0PzyFvb20eFe6FOzgif"
-    },
-    {
-      "added_at": "2024-07-12 03:00:00",
-      "album": {
-        "name": "Jorge Cafrune 18 temas",
-        "url": "https://open.spotify.com/album/4kxlEuKNnVnUkuLM2EpY9k"
-      },
-      "artists": [
-        {
-          "name": "Jorge Cafrune",
-          "url": "https://open.spotify.com/artist/3uy9MpO6gLAW1LHhDRXM38"
-        }
-      ],
-      "duration_ms": 133733,
-      "name": "La olvidada",
-      "url": "https://open.spotify.com/track/6nu6eQFJtv6Ihy60HvxI4l"
     },
     {
       "added_at": "2024-07-12 03:00:00",
@@ -1815,18 +1815,18 @@
     {
       "added_at": "2024-07-12 03:00:00",
       "album": {
-        "name": "Folklore Los 100 Mejores Temas Vol. 1",
-        "url": "https://open.spotify.com/album/1nzaxGryITzT0s5iBkfeir"
+        "name": "Jorge Cafrune 18 temas",
+        "url": "https://open.spotify.com/album/4kxlEuKNnVnUkuLM2EpY9k"
       },
       "artists": [
         {
-          "name": "Los De Salta",
-          "url": "https://open.spotify.com/artist/23vsv4czNaowiMYukchyrN"
+          "name": "Jorge Cafrune",
+          "url": "https://open.spotify.com/artist/3uy9MpO6gLAW1LHhDRXM38"
         }
       ],
-      "duration_ms": 218106,
-      "name": "Zamba del Regreso",
-      "url": "https://open.spotify.com/track/3yoHT9xnzq86q00Pyko1Ly"
+      "duration_ms": 133733,
+      "name": "La olvidada",
+      "url": "https://open.spotify.com/track/6nu6eQFJtv6Ihy60HvxI4l"
     },
     {
       "added_at": "2024-07-12 03:00:00",
@@ -1931,22 +1931,6 @@
     {
       "added_at": "2024-07-12 03:00:00",
       "album": {
-        "name": "Jorge Cafrune - Siempre vigente",
-        "url": "https://open.spotify.com/album/2oYRod4ggja80dsFy9X585"
-      },
-      "artists": [
-        {
-          "name": "Jorge Cafrune",
-          "url": "https://open.spotify.com/artist/3uy9MpO6gLAW1LHhDRXM38"
-        }
-      ],
-      "duration_ms": 209626,
-      "name": "Voy andando",
-      "url": "https://open.spotify.com/track/3IShFn5CIe7b5UUGfw4g5C"
-    },
-    {
-      "added_at": "2024-07-12 03:00:00",
-      "album": {
         "name": "Tarumba",
         "url": "https://open.spotify.com/album/07JKpHFQF3FbhridKdBg4A"
       },
@@ -1995,6 +1979,22 @@
       "duration_ms": 134608,
       "name": "Canto de mis abuelos - En Vivo",
       "url": "https://open.spotify.com/track/3xpvV8sTuVli0Up4Az8fwd"
+    },
+    {
+      "added_at": "2024-07-12 03:00:00",
+      "album": {
+        "name": "Jorge Cafrune - Siempre vigente",
+        "url": "https://open.spotify.com/album/2oYRod4ggja80dsFy9X585"
+      },
+      "artists": [
+        {
+          "name": "Jorge Cafrune",
+          "url": "https://open.spotify.com/artist/3uy9MpO6gLAW1LHhDRXM38"
+        }
+      ],
+      "duration_ms": 209626,
+      "name": "Voy andando",
+      "url": "https://open.spotify.com/track/3IShFn5CIe7b5UUGfw4g5C"
     },
     {
       "added_at": "2024-07-12 03:00:00",
@@ -2063,6 +2063,22 @@
     {
       "added_at": "2024-07-12 03:00:00",
       "album": {
+        "name": "Musicos - Cantores Kuska (Juntos) [En Vivo]",
+        "url": "https://open.spotify.com/album/2KruPURJwzR5o8UEo9IGId"
+      },
+      "artists": [
+        {
+          "name": "Sixto Palavecino",
+          "url": "https://open.spotify.com/artist/7J3PlfvQyxabanXsQQtJf0"
+        }
+      ],
+      "duration_ms": 157805,
+      "name": "S\u00f3lo le pido a Dios - En Vivo",
+      "url": "https://open.spotify.com/track/1sCW3cwb0McvHe1RXwg1xA"
+    },
+    {
+      "added_at": "2024-07-12 03:00:00",
+      "album": {
         "name": "Canci\u00f3n en Nuestra Casa",
         "url": "https://open.spotify.com/album/4acj7Ja3ihQwCOnKvvDjuM"
       },
@@ -2091,22 +2107,6 @@
       "duration_ms": 164127,
       "name": "Gato de mate",
       "url": "https://open.spotify.com/track/5hVBYheKoBQfGIzMIhQk61"
-    },
-    {
-      "added_at": "2024-07-12 03:00:00",
-      "album": {
-        "name": "Musicos - Cantores Kuska (Juntos) [En Vivo]",
-        "url": "https://open.spotify.com/album/2KruPURJwzR5o8UEo9IGId"
-      },
-      "artists": [
-        {
-          "name": "Sixto Palavecino",
-          "url": "https://open.spotify.com/artist/7J3PlfvQyxabanXsQQtJf0"
-        }
-      ],
-      "duration_ms": 157805,
-      "name": "S\u00f3lo le pido a Dios - En Vivo",
-      "url": "https://open.spotify.com/track/1sCW3cwb0McvHe1RXwg1xA"
     },
     {
       "added_at": "2024-07-12 03:00:00",
@@ -2159,22 +2159,6 @@
     {
       "added_at": "2024-07-12 03:00:00",
       "album": {
-        "name": "Juan de la Calle",
-        "url": "https://open.spotify.com/album/6HRTNRUeBVVntGVR5e6Amf"
-      },
-      "artists": [
-        {
-          "name": "Chaque\u00f1o Palavecino",
-          "url": "https://open.spotify.com/artist/1GlOpg3dPUft550esb82K3"
-        }
-      ],
-      "duration_ms": 192026,
-      "name": "Juan de la Calle",
-      "url": "https://open.spotify.com/track/0FEY980G19GmeiVBK2AYzA"
-    },
-    {
-      "added_at": "2024-07-12 03:00:00",
-      "album": {
         "name": "Tributo, Sus 20 Mejores Canciones",
         "url": "https://open.spotify.com/album/3XQCWyBzi6lMqpbL8GV7UZ"
       },
@@ -2191,22 +2175,6 @@
     {
       "added_at": "2024-07-12 03:00:00",
       "album": {
-        "name": "La Fiesta Del Violinero",
-        "url": "https://open.spotify.com/album/2DNMVVPeOmnUDUe9b8n5zC"
-      },
-      "artists": [
-        {
-          "name": "N\u00e9stor Garnica",
-          "url": "https://open.spotify.com/artist/5MJFjxBEw8HCzFvYhYMs5w"
-        }
-      ],
-      "duration_ms": 180639,
-      "name": "El Olvidao",
-      "url": "https://open.spotify.com/track/523zLOhskKQKBTG8GifGNB"
-    },
-    {
-      "added_at": "2024-07-12 03:00:00",
-      "album": {
         "name": "Lo Mejor de Mi...",
         "url": "https://open.spotify.com/album/4WeG5OjOKEeerTLPiZLvUB"
       },
@@ -2219,6 +2187,58 @@
       "duration_ms": 210506,
       "name": "Zamba de Amor en Vuelo",
       "url": "https://open.spotify.com/track/0sCOt9VKLDozDUudjMV9a5"
+    },
+    {
+      "added_at": "2024-07-12 03:00:00",
+      "album": {
+        "name": "Juan de la Calle",
+        "url": "https://open.spotify.com/album/6HRTNRUeBVVntGVR5e6Amf"
+      },
+      "artists": [
+        {
+          "name": "Chaque\u00f1o Palavecino",
+          "url": "https://open.spotify.com/artist/1GlOpg3dPUft550esb82K3"
+        }
+      ],
+      "duration_ms": 192026,
+      "name": "Juan de la Calle",
+      "url": "https://open.spotify.com/track/0FEY980G19GmeiVBK2AYzA"
+    },
+    {
+      "added_at": "2024-07-12 03:00:00",
+      "album": {
+        "name": "Ckayna Cunan Vol. II",
+        "url": "https://open.spotify.com/album/75IDvIit5HUmdaIylKPR7t"
+      },
+      "artists": [
+        {
+          "name": "Peteco Carabajal",
+          "url": "https://open.spotify.com/artist/5gii2fYcxLoUHWd1lWe4aT"
+        },
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        }
+      ],
+      "duration_ms": 218600,
+      "name": "Bajo la Sombra de un \u00c1rbol",
+      "url": "https://open.spotify.com/track/0XIwh9vtNbnXEhmRMcfMGa"
+    },
+    {
+      "added_at": "2024-07-12 03:00:00",
+      "album": {
+        "name": "La Fiesta Del Violinero",
+        "url": "https://open.spotify.com/album/2DNMVVPeOmnUDUe9b8n5zC"
+      },
+      "artists": [
+        {
+          "name": "N\u00e9stor Garnica",
+          "url": "https://open.spotify.com/artist/5MJFjxBEw8HCzFvYhYMs5w"
+        }
+      ],
+      "duration_ms": 180639,
+      "name": "El Olvidao",
+      "url": "https://open.spotify.com/track/523zLOhskKQKBTG8GifGNB"
     },
     {
       "added_at": "2024-07-12 03:00:00",
@@ -2255,42 +2275,6 @@
     {
       "added_at": "2024-07-12 03:00:00",
       "album": {
-        "name": "Tributo, Sus 20 Mejores Canciones",
-        "url": "https://open.spotify.com/album/3XQCWyBzi6lMqpbL8GV7UZ"
-      },
-      "artists": [
-        {
-          "name": "Los Tucu Tucu",
-          "url": "https://open.spotify.com/artist/793ACUr9nbTLP7KZUddXzU"
-        }
-      ],
-      "duration_ms": 184546,
-      "name": "Jazm\u00edn de Luna",
-      "url": "https://open.spotify.com/track/4fbY00uU5nctQjO3xhoobi"
-    },
-    {
-      "added_at": "2024-07-12 03:00:00",
-      "album": {
-        "name": "Ckayna Cunan Vol. II",
-        "url": "https://open.spotify.com/album/75IDvIit5HUmdaIylKPR7t"
-      },
-      "artists": [
-        {
-          "name": "Peteco Carabajal",
-          "url": "https://open.spotify.com/artist/5gii2fYcxLoUHWd1lWe4aT"
-        },
-        {
-          "name": "Luciano Pereyra",
-          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
-        }
-      ],
-      "duration_ms": 218600,
-      "name": "Bajo la Sombra de un \u00c1rbol",
-      "url": "https://open.spotify.com/track/0XIwh9vtNbnXEhmRMcfMGa"
-    },
-    {
-      "added_at": "2024-07-12 03:00:00",
-      "album": {
         "name": "Grandes Del Folklore",
         "url": "https://open.spotify.com/album/10sMUx7o8wqKvctxvatyi3"
       },
@@ -2303,6 +2287,38 @@
       "duration_ms": 181506,
       "name": "No Te Puedo Olvidar",
       "url": "https://open.spotify.com/track/0aGS8vkuScHGUomEiUo2ri"
+    },
+    {
+      "added_at": "2024-07-12 03:00:00",
+      "album": {
+        "name": "Arde la Vida",
+        "url": "https://open.spotify.com/album/5WNBaGEHkLenCuWY0Unnl1"
+      },
+      "artists": [
+        {
+          "name": "Peteco Carabajal",
+          "url": "https://open.spotify.com/artist/5gii2fYcxLoUHWd1lWe4aT"
+        }
+      ],
+      "duration_ms": 147786,
+      "name": "Volver\u00e9 a Salavina",
+      "url": "https://open.spotify.com/track/78fIapn9oUUBk1B2wCdBJd"
+    },
+    {
+      "added_at": "2024-07-12 03:00:00",
+      "album": {
+        "name": "Tributo, Sus 20 Mejores Canciones",
+        "url": "https://open.spotify.com/album/3XQCWyBzi6lMqpbL8GV7UZ"
+      },
+      "artists": [
+        {
+          "name": "Los Tucu Tucu",
+          "url": "https://open.spotify.com/artist/793ACUr9nbTLP7KZUddXzU"
+        }
+      ],
+      "duration_ms": 184546,
+      "name": "Jazm\u00edn de Luna",
+      "url": "https://open.spotify.com/track/4fbY00uU5nctQjO3xhoobi"
     },
     {
       "added_at": "2024-07-12 03:00:00",
@@ -2391,18 +2407,18 @@
     {
       "added_at": "2024-07-12 03:00:00",
       "album": {
-        "name": "Arde la Vida",
-        "url": "https://open.spotify.com/album/5WNBaGEHkLenCuWY0Unnl1"
+        "name": "Los 3 Del R\u00edo",
+        "url": "https://open.spotify.com/album/4BMvkK3SHicB9fj05q4s0Q"
       },
       "artists": [
         {
-          "name": "Peteco Carabajal",
-          "url": "https://open.spotify.com/artist/5gii2fYcxLoUHWd1lWe4aT"
+          "name": "Los 3 Del R\u00edo",
+          "url": "https://open.spotify.com/artist/36d5z1gYjS3JTSkG7qh61z"
         }
       ],
-      "duration_ms": 147786,
-      "name": "Volver\u00e9 a Salavina",
-      "url": "https://open.spotify.com/track/78fIapn9oUUBk1B2wCdBJd"
+      "duration_ms": 229877,
+      "name": "El Pastor",
+      "url": "https://open.spotify.com/track/2rx096DLTOIwU5WcE3oIKn"
     },
     {
       "added_at": "2024-07-12 03:00:00",
@@ -2423,38 +2439,6 @@
     {
       "added_at": "2024-07-12 03:00:00",
       "album": {
-        "name": "Los 3 Del R\u00edo",
-        "url": "https://open.spotify.com/album/4BMvkK3SHicB9fj05q4s0Q"
-      },
-      "artists": [
-        {
-          "name": "Los 3 Del R\u00edo",
-          "url": "https://open.spotify.com/artist/36d5z1gYjS3JTSkG7qh61z"
-        }
-      ],
-      "duration_ms": 229877,
-      "name": "El Pastor",
-      "url": "https://open.spotify.com/track/2rx096DLTOIwU5WcE3oIKn"
-    },
-    {
-      "added_at": "2024-07-12 03:00:00",
-      "album": {
-        "name": "La Cantada",
-        "url": "https://open.spotify.com/album/2lfLmwq3weXisQgtPIeZQs"
-      },
-      "artists": [
-        {
-          "name": "Duo Coplanacu",
-          "url": "https://open.spotify.com/artist/4PGCodvYkKFR1qPfeDlIPQ"
-        }
-      ],
-      "duration_ms": 145680,
-      "name": "El Escondido",
-      "url": "https://open.spotify.com/track/2nEXPFaZyT0GpiRSzX381w"
-    },
-    {
-      "added_at": "2024-07-12 03:00:00",
-      "album": {
         "name": "A Fin de Cuentas (En Vivo)",
         "url": "https://open.spotify.com/album/3buGJYfhuXJo2SIeAs2aGu"
       },
@@ -2467,22 +2451,6 @@
       "duration_ms": 175080,
       "name": "A Fin de Cuentas - En Vivo",
       "url": "https://open.spotify.com/track/3O21zW7GYNId7st8FeWYT5"
-    },
-    {
-      "added_at": "2024-07-12 03:00:00",
-      "album": {
-        "name": "El Disco de Oro, Folklore de 1940",
-        "url": "https://open.spotify.com/album/1p0g7JuBaWYvV7xzIkZI0I"
-      },
-      "artists": [
-        {
-          "name": "Vitillo Abalos",
-          "url": "https://open.spotify.com/artist/4WtlXAo5Wz2NSoN6CE3tlb"
-        }
-      ],
-      "duration_ms": 141813,
-      "name": "El Gatito de Tchaikovsky",
-      "url": "https://open.spotify.com/track/793bx9EAMbrhlJ82IgTUbl"
     },
     {
       "added_at": "2024-07-12 03:00:00",
@@ -2507,6 +2475,22 @@
     {
       "added_at": "2024-07-12 03:00:00",
       "album": {
+        "name": "La Cantada",
+        "url": "https://open.spotify.com/album/2lfLmwq3weXisQgtPIeZQs"
+      },
+      "artists": [
+        {
+          "name": "Duo Coplanacu",
+          "url": "https://open.spotify.com/artist/4PGCodvYkKFR1qPfeDlIPQ"
+        }
+      ],
+      "duration_ms": 145680,
+      "name": "El Escondido",
+      "url": "https://open.spotify.com/track/2nEXPFaZyT0GpiRSzX381w"
+    },
+    {
+      "added_at": "2024-07-12 03:00:00",
+      "album": {
         "name": "Antiguo Rezo",
         "url": "https://open.spotify.com/album/53IUPczZ1pN8hUjqvlUJS0"
       },
@@ -2527,22 +2511,6 @@
     {
       "added_at": "2024-07-12 03:00:00",
       "album": {
-        "name": "Desde Adentro",
-        "url": "https://open.spotify.com/album/1Wh6RCE1LgMHO6jP1xLNXG"
-      },
-      "artists": [
-        {
-          "name": "Duo Coplanacu",
-          "url": "https://open.spotify.com/artist/4PGCodvYkKFR1qPfeDlIPQ"
-        }
-      ],
-      "duration_ms": 293186,
-      "name": "La Tempranera",
-      "url": "https://open.spotify.com/track/0znYHtilgBJqNwtiB5oOqc"
-    },
-    {
-      "added_at": "2024-07-12 03:00:00",
-      "album": {
         "name": "Lo mejor de Eduardo Avila",
         "url": "https://open.spotify.com/album/7z2Ugv2RJwZbgRN14hcaTq"
       },
@@ -2555,6 +2523,38 @@
       "duration_ms": 151797,
       "name": "Chacarera del recuerdo",
       "url": "https://open.spotify.com/track/6DuLLGQXSXpqvK6vpNNN40"
+    },
+    {
+      "added_at": "2024-07-12 03:00:00",
+      "album": {
+        "name": "El Nombrador",
+        "url": "https://open.spotify.com/album/6U5PrxODD0eyR1ZyOF1A7e"
+      },
+      "artists": [
+        {
+          "name": "Daniel Toro",
+          "url": "https://open.spotify.com/artist/3kww2RwVsla3J0eZyfRLIu"
+        }
+      ],
+      "duration_ms": 207826,
+      "name": "El Seclante\u00f1o",
+      "url": "https://open.spotify.com/track/5KG1MI9BG8xzk2kQqR4cmJ"
+    },
+    {
+      "added_at": "2024-07-12 03:00:00",
+      "album": {
+        "name": "El Disco de Oro, Folklore de 1940",
+        "url": "https://open.spotify.com/album/1p0g7JuBaWYvV7xzIkZI0I"
+      },
+      "artists": [
+        {
+          "name": "Vitillo Abalos",
+          "url": "https://open.spotify.com/artist/4WtlXAo5Wz2NSoN6CE3tlb"
+        }
+      ],
+      "duration_ms": 141813,
+      "name": "El Gatito de Tchaikovsky",
+      "url": "https://open.spotify.com/track/793bx9EAMbrhlJ82IgTUbl"
     }
   ],
   "unique_name": "Folklore de Siempre",

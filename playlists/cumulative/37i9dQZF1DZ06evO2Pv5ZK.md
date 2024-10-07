@@ -2,7 +2,7 @@
 
 ### [This Is Vangelis](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2Pv5ZK)
 
-> This is Vangelis\. Todos os maiores hits em uma só playlist.
+> This is Vangelis\. The essential tracks, all in one playlist.
 
 86 songs - 7 hr 9 min
 
@@ -84,7 +84,7 @@
 | [Theme From Antarctica \- Remastered](https://open.spotify.com/track/6NSVAJKZJnEO8DDYBKHHQo) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Antarctica \(Remastered\)](https://open.spotify.com/album/4laD2qU7EURjXbVMbazkj0) | 7:25 | 2022-05-29 |  |
 | [Theme from Bitter Moon](https://open.spotify.com/track/7q8F4jINepenPiTCbGW63P) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [The Collection](https://open.spotify.com/album/5UjF6DcW7W8Y7QKvImS5Bn) | 3:37 | 2022-05-29 | 2022-10-27 |
 | [Theme from the TV Series "Cosmos" \(Heaven and Hell, 3rd Movement\)](https://open.spotify.com/track/4CZv4bLziFAXyyMZzQmv2s) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Best Of](https://open.spotify.com/album/6sPYk2K1ZoF9mJJfF1Yp39) | 4:02 | 2022-05-29 | 2022-10-20 |
-| [Through the Night Mist](https://open.spotify.com/track/5KFCziFQEYdfeT0BjiY0S5) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Nocturne](https://open.spotify.com/album/7qPDZeOI1K9I1PwAZXhewK) | 5:12 | 2022-05-29 | 2024-02-10 |
+| [Through the Night Mist](https://open.spotify.com/track/5KFCziFQEYdfeT0BjiY0S5) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Nocturne](https://open.spotify.com/album/7qPDZeOI1K9I1PwAZXhewK) | 5:12 | 2022-05-29 |  |
 | [Titans](https://open.spotify.com/track/0VXRPy0D20PsuV35XIiJ1j) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Alexander \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4znQpOW0WhreuYyRJSLyw0) | 3:59 | 2022-05-29 |  |
 | [Titles](https://open.spotify.com/track/36qn2bFfZzUwM6eIv2XOc9) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Chariots Of Fire \(Original Motion Picture Soundtrack / Remastered\)](https://open.spotify.com/album/2G0x71VHZ7XLJlm56LzVX2) | 3:33 | 2022-05-29 |  |
 | [To a Friend](https://open.spotify.com/track/4vYXT3DOmHNNj5TfhYOScl) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Nocturne](https://open.spotify.com/album/7qPDZeOI1K9I1PwAZXhewK) | 5:23 | 2022-10-13 | 2022-10-15 |

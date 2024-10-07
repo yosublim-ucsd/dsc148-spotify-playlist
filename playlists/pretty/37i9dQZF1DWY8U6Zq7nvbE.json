@@ -1,6 +1,6 @@
 {
   "description": "Soft and cozy acoustic covers of famous songs.",
-  "num_followers": 2437109,
+  "num_followers": 2437062,
   "original_name": "Chill Acoustic Covers",
   "owner": {
     "name": "Spotify",
@@ -219,22 +219,6 @@
     {
       "added_at": "2024-07-18 07:47:58",
       "album": {
-        "name": "Mr. Brightside",
-        "url": "https://open.spotify.com/album/4KawaUrdB0FiEsseoniy3z"
-      },
-      "artists": [
-        {
-          "name": "Bailey Jehl",
-          "url": "https://open.spotify.com/artist/3HX0wFvwBn3wbxrtHuEUus"
-        }
-      ],
-      "duration_ms": 215758,
-      "name": "Mr. Brightside",
-      "url": "https://open.spotify.com/track/6gSXDd3P1nIjuM1v1ZQqi6"
-    },
-    {
-      "added_at": "2024-07-18 07:47:58",
-      "album": {
         "name": "all night long",
         "url": "https://open.spotify.com/album/5EZ1Gg6Qq4ZBPqPNZ64gTO"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 194018,
       "name": "all night long",
       "url": "https://open.spotify.com/track/61wHg8g1eNbBatDAijJ2IT"
+    },
+    {
+      "added_at": "2024-07-18 07:47:58",
+      "album": {
+        "name": "Mr. Brightside",
+        "url": "https://open.spotify.com/album/4KawaUrdB0FiEsseoniy3z"
+      },
+      "artists": [
+        {
+          "name": "Bailey Jehl",
+          "url": "https://open.spotify.com/artist/3HX0wFvwBn3wbxrtHuEUus"
+        }
+      ],
+      "duration_ms": 215758,
+      "name": "Mr. Brightside",
+      "url": "https://open.spotify.com/track/6gSXDd3P1nIjuM1v1ZQqi6"
     },
     {
       "added_at": "2024-07-18 07:47:58",
@@ -363,6 +363,22 @@
     {
       "added_at": "2024-07-18 07:47:58",
       "album": {
+        "name": "Somebody That I Used To Know",
+        "url": "https://open.spotify.com/album/2MBa7MBL9N5fACqj1KXmpl"
+      },
+      "artists": [
+        {
+          "name": "L\u00fac",
+          "url": "https://open.spotify.com/artist/0C7P4ox94jj7mYQnjwO7nX"
+        }
+      ],
+      "duration_ms": 172454,
+      "name": "Somebody That I Used To Know",
+      "url": "https://open.spotify.com/track/0Bb9oRoN3suM9iiIwzHtmX"
+    },
+    {
+      "added_at": "2024-07-18 07:47:58",
+      "album": {
         "name": "Issues (Acoustic)",
         "url": "https://open.spotify.com/album/4FY4L6DTrO5Z54usj8ZAT8"
       },
@@ -391,22 +407,6 @@
       "duration_ms": 169756,
       "name": "Lift Me Up",
       "url": "https://open.spotify.com/track/1Flj41v3soU4JYVlUlOyDd"
-    },
-    {
-      "added_at": "2024-07-18 07:47:58",
-      "album": {
-        "name": "Somebody That I Used To Know",
-        "url": "https://open.spotify.com/album/2MBa7MBL9N5fACqj1KXmpl"
-      },
-      "artists": [
-        {
-          "name": "L\u00fac",
-          "url": "https://open.spotify.com/artist/0C7P4ox94jj7mYQnjwO7nX"
-        }
-      ],
-      "duration_ms": 172454,
-      "name": "Somebody That I Used To Know",
-      "url": "https://open.spotify.com/track/0Bb9oRoN3suM9iiIwzHtmX"
     },
     {
       "added_at": "2024-07-18 07:47:58",
@@ -443,22 +443,6 @@
     {
       "added_at": "2024-07-18 07:47:58",
       "album": {
-        "name": "When I Get There",
-        "url": "https://open.spotify.com/album/5GSUtNK1MbDbmSWAlh8K6m"
-      },
-      "artists": [
-        {
-          "name": "Brandon Chase",
-          "url": "https://open.spotify.com/artist/3qXWWITvZcTD1M2QmXszJK"
-        }
-      ],
-      "duration_ms": 233150,
-      "name": "When I Get There",
-      "url": "https://open.spotify.com/track/6AmEwM3ioCs9zQZx3TcYNK"
-    },
-    {
-      "added_at": "2024-07-18 07:47:58",
-      "album": {
         "name": "Black Hole",
         "url": "https://open.spotify.com/album/5LRVDPaNyPwACyF9ARWcbr"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 202076,
       "name": "Black Hole",
       "url": "https://open.spotify.com/track/4z1iPL7rPrCDcqcKErCArw"
+    },
+    {
+      "added_at": "2024-07-18 07:47:58",
+      "album": {
+        "name": "When I Get There",
+        "url": "https://open.spotify.com/album/5GSUtNK1MbDbmSWAlh8K6m"
+      },
+      "artists": [
+        {
+          "name": "Brandon Chase",
+          "url": "https://open.spotify.com/artist/3qXWWITvZcTD1M2QmXszJK"
+        }
+      ],
+      "duration_ms": 233150,
+      "name": "When I Get There",
+      "url": "https://open.spotify.com/track/6AmEwM3ioCs9zQZx3TcYNK"
     },
     {
       "added_at": "2024-07-18 07:47:58",
@@ -635,22 +635,6 @@
     {
       "added_at": "2024-07-18 07:47:58",
       "album": {
-        "name": "Chemical",
-        "url": "https://open.spotify.com/album/6yqPDHuIhpvgsb6ZCLSi64"
-      },
-      "artists": [
-        {
-          "name": "Abbie Parker",
-          "url": "https://open.spotify.com/artist/4WL3KimNe6kNw0abLnzpko"
-        }
-      ],
-      "duration_ms": 187830,
-      "name": "Chemical",
-      "url": "https://open.spotify.com/track/5Gcd6lMtEEW6V9GpmQk6Rk"
-    },
-    {
-      "added_at": "2024-07-18 07:47:58",
-      "album": {
         "name": "Sex is on fire",
         "url": "https://open.spotify.com/album/1NRuLsxSpZ3gMJMyKgN93e"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 163833,
       "name": "Sex is on fire",
       "url": "https://open.spotify.com/track/32zqCfMfVFcitjp8BMEWv1"
+    },
+    {
+      "added_at": "2024-07-18 07:47:58",
+      "album": {
+        "name": "Chemical",
+        "url": "https://open.spotify.com/album/6yqPDHuIhpvgsb6ZCLSi64"
+      },
+      "artists": [
+        {
+          "name": "Abbie Parker",
+          "url": "https://open.spotify.com/artist/4WL3KimNe6kNw0abLnzpko"
+        }
+      ],
+      "duration_ms": 187830,
+      "name": "Chemical",
+      "url": "https://open.spotify.com/track/5Gcd6lMtEEW6V9GpmQk6Rk"
     },
     {
       "added_at": "2024-07-18 07:47:58",
@@ -699,22 +699,6 @@
     {
       "added_at": "2024-07-18 07:47:58",
       "album": {
-        "name": "Here I Go Again - Acoustic EP",
-        "url": "https://open.spotify.com/album/5WFy0zXYRVXAdjhWgS3xJ3"
-      },
-      "artists": [
-        {
-          "name": "VDVM",
-          "url": "https://open.spotify.com/artist/4MPlssgWPLQ72k2JaQNnV4"
-        }
-      ],
-      "duration_ms": 252307,
-      "name": "Here I Go Again - Acoustic",
-      "url": "https://open.spotify.com/track/5UvJJ6UTSQsVVsq0WgUWRV"
-    },
-    {
-      "added_at": "2024-07-18 07:47:58",
-      "album": {
         "name": "Dance Monkey",
         "url": "https://open.spotify.com/album/21n1KOLGCVWVnqsaaOWqTT"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 197850,
       "name": "Dance Monkey",
       "url": "https://open.spotify.com/track/4zYkSXrfgJyrNkNv3mTiIZ"
+    },
+    {
+      "added_at": "2024-07-18 07:47:58",
+      "album": {
+        "name": "Here I Go Again - Acoustic EP",
+        "url": "https://open.spotify.com/album/5WFy0zXYRVXAdjhWgS3xJ3"
+      },
+      "artists": [
+        {
+          "name": "VDVM",
+          "url": "https://open.spotify.com/artist/4MPlssgWPLQ72k2JaQNnV4"
+        }
+      ],
+      "duration_ms": 252307,
+      "name": "Here I Go Again - Acoustic",
+      "url": "https://open.spotify.com/track/5UvJJ6UTSQsVVsq0WgUWRV"
     },
     {
       "added_at": "2024-07-18 07:47:58",
@@ -763,6 +763,22 @@
     {
       "added_at": "2024-07-18 07:47:58",
       "album": {
+        "name": "Never Gonna Give You Up - Acoustic",
+        "url": "https://open.spotify.com/album/6O1nvjo9R2hSmby3AJyVrd"
+      },
+      "artists": [
+        {
+          "name": "Nelly Hope",
+          "url": "https://open.spotify.com/artist/2MYa23iZLfrK6Yj4eAIOGt"
+        }
+      ],
+      "duration_ms": 217848,
+      "name": "Never Gonna Give You Up - Acoustic",
+      "url": "https://open.spotify.com/track/2e53BiRUze4PQ8PfLGqWrD"
+    },
+    {
+      "added_at": "2024-07-18 07:47:58",
+      "album": {
         "name": "WHAT THE HELL ARE WE DYING FOR?",
         "url": "https://open.spotify.com/album/7pbeE2xmYADDOEjd3H62xA"
       },
@@ -779,18 +795,18 @@
     {
       "added_at": "2024-07-18 07:47:58",
       "album": {
-        "name": "Never Gonna Give You Up - Acoustic",
-        "url": "https://open.spotify.com/album/6O1nvjo9R2hSmby3AJyVrd"
+        "name": "Little Lies",
+        "url": "https://open.spotify.com/album/70ToToyGxWgZ2s745s1CxV"
       },
       "artists": [
         {
-          "name": "Nelly Hope",
-          "url": "https://open.spotify.com/artist/2MYa23iZLfrK6Yj4eAIOGt"
+          "name": "Roses & Frey",
+          "url": "https://open.spotify.com/artist/2FyfsZmatt8gWR3LKnQIwE"
         }
       ],
-      "duration_ms": 217848,
-      "name": "Never Gonna Give You Up - Acoustic",
-      "url": "https://open.spotify.com/track/2e53BiRUze4PQ8PfLGqWrD"
+      "duration_ms": 197851,
+      "name": "Little Lies",
+      "url": "https://open.spotify.com/track/1okbqCnEzl9GUddnjNkb19"
     },
     {
       "added_at": "2024-07-18 07:47:58",
@@ -823,22 +839,6 @@
       "duration_ms": 180034,
       "name": "Chasing Pavements",
       "url": "https://open.spotify.com/track/1tIEJc4Sgw1Op6Ef0fLSzV"
-    },
-    {
-      "added_at": "2024-07-18 07:47:58",
-      "album": {
-        "name": "Little Lies",
-        "url": "https://open.spotify.com/album/70ToToyGxWgZ2s745s1CxV"
-      },
-      "artists": [
-        {
-          "name": "Roses & Frey",
-          "url": "https://open.spotify.com/artist/2FyfsZmatt8gWR3LKnQIwE"
-        }
-      ],
-      "duration_ms": 197851,
-      "name": "Little Lies",
-      "url": "https://open.spotify.com/track/1okbqCnEzl9GUddnjNkb19"
     },
     {
       "added_at": "2024-07-18 07:47:58",
@@ -907,22 +907,6 @@
     {
       "added_at": "2024-07-18 07:47:58",
       "album": {
-        "name": "Nobody Gets Me",
-        "url": "https://open.spotify.com/album/19EdbTQdsbueDPCF4Xod6Q"
-      },
-      "artists": [
-        {
-          "name": "Demi Femme",
-          "url": "https://open.spotify.com/artist/2d09AaNvj1TRW0GociCEDY"
-        }
-      ],
-      "duration_ms": 158080,
-      "name": "Nobody Gets Me",
-      "url": "https://open.spotify.com/track/2eWYem39jbaXKQ38BCtQDV"
-    },
-    {
-      "added_at": "2024-07-18 07:47:58",
-      "album": {
         "name": "Too Good At Goodbyes",
         "url": "https://open.spotify.com/album/5xHL2UVO1l249ezFEL2QdZ"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 221762,
       "name": "Chasing Cars (Acoustic)",
       "url": "https://open.spotify.com/track/7segX2a0fynh3OYFyHnsqI"
+    },
+    {
+      "added_at": "2024-07-18 07:47:58",
+      "album": {
+        "name": "Nobody Gets Me",
+        "url": "https://open.spotify.com/album/19EdbTQdsbueDPCF4Xod6Q"
+      },
+      "artists": [
+        {
+          "name": "Demi Femme",
+          "url": "https://open.spotify.com/artist/2d09AaNvj1TRW0GociCEDY"
+        }
+      ],
+      "duration_ms": 158080,
+      "name": "Nobody Gets Me",
+      "url": "https://open.spotify.com/track/2eWYem39jbaXKQ38BCtQDV"
     },
     {
       "added_at": "2024-07-18 07:47:58",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2024-07-18 07:47:58",
       "album": {
-        "name": "No Air",
-        "url": "https://open.spotify.com/album/2F3Erhty0yDsiuOBfMlasO"
-      },
-      "artists": [
-        {
-          "name": "L\u00fac",
-          "url": "https://open.spotify.com/artist/0C7P4ox94jj7mYQnjwO7nX"
-        }
-      ],
-      "duration_ms": 199114,
-      "name": "No Air",
-      "url": "https://open.spotify.com/track/5mFrdpvoxokKCWp9uHE1ok"
-    },
-    {
-      "added_at": "2024-07-18 07:47:58",
-      "album": {
         "name": "Visiting Hours (Acoustic)",
         "url": "https://open.spotify.com/album/5C7zrFEPvQgSyD0wDRLOAW"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 197202,
       "name": "Visiting Hours (Acoustic)",
       "url": "https://open.spotify.com/track/2jf62eJL5GepSpGDy61pcK"
+    },
+    {
+      "added_at": "2024-07-18 07:47:58",
+      "album": {
+        "name": "Just The Two Of Us - Acoustic",
+        "url": "https://open.spotify.com/album/4YL2SB1NKBwkBvMC1k01dz"
+      },
+      "artists": [
+        {
+          "name": "VDVM",
+          "url": "https://open.spotify.com/artist/4MPlssgWPLQ72k2JaQNnV4"
+        }
+      ],
+      "duration_ms": 186008,
+      "name": "Just the Two of Us - Acoustic",
+      "url": "https://open.spotify.com/track/4PF2XC8shB2w4g66MaXyEH"
     },
     {
       "added_at": "2024-07-18 07:47:58",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2024-07-18 07:47:58",
       "album": {
-        "name": "All of me - Acoustic",
-        "url": "https://open.spotify.com/album/2TsiANPJWN2t0z0ya5wAcd"
-      },
-      "artists": [
-        {
-          "name": "Norah Davis",
-          "url": "https://open.spotify.com/artist/22BqfoPGcFnnj0ldab5D9G"
-        }
-      ],
-      "duration_ms": 268551,
-      "name": "All of me - Acoustic",
-      "url": "https://open.spotify.com/track/5vWzHxL50EEk7GCEBhXwrQ"
-    },
-    {
-      "added_at": "2024-07-18 07:47:58",
-      "album": {
         "name": "Kiss An Angel Good Mornin'",
         "url": "https://open.spotify.com/album/4UubPvWcnV1C4zxFQgC895"
       },
@@ -1275,18 +1259,34 @@
     {
       "added_at": "2024-07-18 07:47:58",
       "album": {
-        "name": "Just The Two Of Us - Acoustic",
-        "url": "https://open.spotify.com/album/4YL2SB1NKBwkBvMC1k01dz"
+        "name": "No Air",
+        "url": "https://open.spotify.com/album/2F3Erhty0yDsiuOBfMlasO"
       },
       "artists": [
         {
-          "name": "VDVM",
-          "url": "https://open.spotify.com/artist/4MPlssgWPLQ72k2JaQNnV4"
+          "name": "L\u00fac",
+          "url": "https://open.spotify.com/artist/0C7P4ox94jj7mYQnjwO7nX"
         }
       ],
-      "duration_ms": 186008,
-      "name": "Just the Two of Us - Acoustic",
-      "url": "https://open.spotify.com/track/4PF2XC8shB2w4g66MaXyEH"
+      "duration_ms": 199114,
+      "name": "No Air",
+      "url": "https://open.spotify.com/track/5mFrdpvoxokKCWp9uHE1ok"
+    },
+    {
+      "added_at": "2024-07-18 07:47:58",
+      "album": {
+        "name": "All of me - Acoustic",
+        "url": "https://open.spotify.com/album/2TsiANPJWN2t0z0ya5wAcd"
+      },
+      "artists": [
+        {
+          "name": "Norah Davis",
+          "url": "https://open.spotify.com/artist/22BqfoPGcFnnj0ldab5D9G"
+        }
+      ],
+      "duration_ms": 268551,
+      "name": "All of me - Acoustic",
+      "url": "https://open.spotify.com/track/5vWzHxL50EEk7GCEBhXwrQ"
     },
     {
       "added_at": "2024-07-18 07:47:58",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2024-07-18 07:47:58",
       "album": {
-        "name": "Jealous (Acoustic)",
-        "url": "https://open.spotify.com/album/2ZF0az5U4LXBf9whGXDLVg"
-      },
-      "artists": [
-        {
-          "name": "Norah Davis",
-          "url": "https://open.spotify.com/artist/22BqfoPGcFnnj0ldab5D9G"
-        }
-      ],
-      "duration_ms": 211639,
-      "name": "Jealous (Acoustic)",
-      "url": "https://open.spotify.com/track/24De0ebxOCeIgrkuPknUUX"
-    },
-    {
-      "added_at": "2024-07-18 07:47:58",
-      "album": {
         "name": "I'm Good (Blue)",
         "url": "https://open.spotify.com/album/27wqComza4OEQnzS4AniQe"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 162461,
       "name": "SOS",
       "url": "https://open.spotify.com/track/2IfYpa1MOT2tuvgH4i0gBr"
+    },
+    {
+      "added_at": "2024-07-18 07:47:58",
+      "album": {
+        "name": "Jealous (Acoustic)",
+        "url": "https://open.spotify.com/album/2ZF0az5U4LXBf9whGXDLVg"
+      },
+      "artists": [
+        {
+          "name": "Norah Davis",
+          "url": "https://open.spotify.com/artist/22BqfoPGcFnnj0ldab5D9G"
+        }
+      ],
+      "duration_ms": 211639,
+      "name": "Jealous (Acoustic)",
+      "url": "https://open.spotify.com/track/24De0ebxOCeIgrkuPknUUX"
     },
     {
       "added_at": "2024-07-18 07:47:58",

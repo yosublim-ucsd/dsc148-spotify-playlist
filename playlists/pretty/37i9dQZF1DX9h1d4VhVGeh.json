@@ -1,6 +1,6 @@
 {
   "description": "Sabah al khair, start your day with extra cardamom and mellow tunes.",
-  "num_followers": 193458,
+  "num_followers": 193515,
   "original_name": "Arabic Coffee",
   "owner": {
     "name": "Spotify",
@@ -127,6 +127,22 @@
     {
       "added_at": "2024-07-04 23:55:52",
       "album": {
+        "name": "Bi Saraha",
+        "url": "https://open.spotify.com/album/3q4jN4ZH36O9VdVD1iwZ3E"
+      },
+      "artists": [
+        {
+          "name": "Abeer Nehme",
+          "url": "https://open.spotify.com/artist/22VZmipYTMSoNzvBaWkVwF"
+        }
+      ],
+      "duration_ms": 186461,
+      "name": "Bala Ma Nhess",
+      "url": "https://open.spotify.com/track/5bQBkD9DriF3J4zSP45Wwx"
+    },
+    {
+      "added_at": "2024-07-04 23:55:52",
+      "album": {
         "name": "Rawaeaa Abd El Halim 5",
         "url": "https://open.spotify.com/album/2Dx9s3ceWiu7go3xMkdAs3"
       },
@@ -159,22 +175,6 @@
     {
       "added_at": "2024-07-04 23:55:52",
       "album": {
-        "name": "Bi Saraha",
-        "url": "https://open.spotify.com/album/3q4jN4ZH36O9VdVD1iwZ3E"
-      },
-      "artists": [
-        {
-          "name": "Abeer Nehme",
-          "url": "https://open.spotify.com/artist/22VZmipYTMSoNzvBaWkVwF"
-        }
-      ],
-      "duration_ms": 186461,
-      "name": "Bala Ma Nhess",
-      "url": "https://open.spotify.com/track/5bQBkD9DriF3J4zSP45Wwx"
-    },
-    {
-      "added_at": "2024-07-04 23:55:52",
-      "album": {
         "name": "Bel Ahlam",
         "url": "https://open.spotify.com/album/6NqhRld7ho3Y5w40QKf9Dk"
       },
@@ -187,22 +187,6 @@
       "duration_ms": 169700,
       "name": "Bel Ahlam",
       "url": "https://open.spotify.com/track/4tqnXpS0wJcqkZMFx7reaY"
-    },
-    {
-      "added_at": "2024-07-04 23:55:52",
-      "album": {
-        "name": "Khedni Habibi",
-        "url": "https://open.spotify.com/album/4eaHnQq1UQy7lPXBQMhv4p"
-      },
-      "artists": [
-        {
-          "name": "Majida El Roumi",
-          "url": "https://open.spotify.com/artist/1FcYCSOydUCgoauspPwypS"
-        }
-      ],
-      "duration_ms": 303906,
-      "name": "Matrahak Bi Albi",
-      "url": "https://open.spotify.com/track/0f6iJjj6MqYZcFoftpjuwp"
     },
     {
       "added_at": "2024-07-04 23:55:52",
@@ -227,22 +211,18 @@
     {
       "added_at": "2024-07-04 23:55:52",
       "album": {
-        "name": "Craziness - \u0623\u0635\u0627\u0628\u0643 \u0639\u0634\u0642",
-        "url": "https://open.spotify.com/album/3n3DCKoWvQdEgrF0GLDHuF"
+        "name": "Khedni Habibi",
+        "url": "https://open.spotify.com/album/4eaHnQq1UQy7lPXBQMhv4p"
       },
       "artists": [
         {
-          "name": "Abdulrahman Mohammed",
-          "url": "https://open.spotify.com/artist/1sWV2X7SzXd06hEO2EttHl"
-        },
-        {
-          "name": "Mohab Omer",
-          "url": "https://open.spotify.com/artist/7kluF012Emzsqg6qh2ShAY"
+          "name": "Majida El Roumi",
+          "url": "https://open.spotify.com/artist/1FcYCSOydUCgoauspPwypS"
         }
       ],
-      "duration_ms": 291440,
-      "name": "Craziness - \u0623\u0635\u0627\u0628\u0643 \u0639\u0634\u0642",
-      "url": "https://open.spotify.com/track/4HbQMB4aMPTATNBC1qweUN"
+      "duration_ms": 303906,
+      "name": "Matrahak Bi Albi",
+      "url": "https://open.spotify.com/track/0f6iJjj6MqYZcFoftpjuwp"
     },
     {
       "added_at": "2024-07-04 23:55:52",
@@ -259,6 +239,26 @@
       "duration_ms": 85999,
       "name": "Olive Branch (Ghosn Zeytoun)",
       "url": "https://open.spotify.com/track/0Qs69EhCYkND29GsGEp9uD"
+    },
+    {
+      "added_at": "2024-07-04 23:55:52",
+      "album": {
+        "name": "Craziness - \u0623\u0635\u0627\u0628\u0643 \u0639\u0634\u0642",
+        "url": "https://open.spotify.com/album/3n3DCKoWvQdEgrF0GLDHuF"
+      },
+      "artists": [
+        {
+          "name": "Abdulrahman Mohammed",
+          "url": "https://open.spotify.com/artist/1sWV2X7SzXd06hEO2EttHl"
+        },
+        {
+          "name": "Mohab Omer",
+          "url": "https://open.spotify.com/artist/7kluF012Emzsqg6qh2ShAY"
+        }
+      ],
+      "duration_ms": 291440,
+      "name": "Craziness - \u0623\u0635\u0627\u0628\u0643 \u0639\u0634\u0642",
+      "url": "https://open.spotify.com/track/4HbQMB4aMPTATNBC1qweUN"
     },
     {
       "added_at": "2024-07-04 23:55:52",
@@ -375,22 +375,6 @@
     {
       "added_at": "2024-07-04 23:55:52",
       "album": {
-        "name": "Elyanna",
-        "url": "https://open.spotify.com/album/2J4Yz9I4s0FvFw00Cn0trp"
-      },
-      "artists": [
-        {
-          "name": "Elyanna",
-          "url": "https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g"
-        }
-      ],
-      "duration_ms": 94289,
-      "name": "Ahwak",
-      "url": "https://open.spotify.com/track/63GzwMGopLBtxiWPZ6IFgo"
-    },
-    {
-      "added_at": "2024-07-04 23:55:52",
-      "album": {
         "name": "El Album",
         "url": "https://open.spotify.com/album/6T1mRxav5p4HHQ3KdKxkrd"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 231177,
       "name": "Fakra",
       "url": "https://open.spotify.com/track/0fVLZtZn8gp3KLtDhXDIRq"
+    },
+    {
+      "added_at": "2024-07-04 23:55:52",
+      "album": {
+        "name": "Elyanna",
+        "url": "https://open.spotify.com/album/2J4Yz9I4s0FvFw00Cn0trp"
+      },
+      "artists": [
+        {
+          "name": "Elyanna",
+          "url": "https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g"
+        }
+      ],
+      "duration_ms": 94289,
+      "name": "Ahwak",
+      "url": "https://open.spotify.com/track/63GzwMGopLBtxiWPZ6IFgo"
     },
     {
       "added_at": "2024-07-04 23:55:52",
@@ -635,22 +635,6 @@
     {
       "added_at": "2024-07-04 23:55:52",
       "album": {
-        "name": "Promises of the Storm",
-        "url": "https://open.spotify.com/album/3IDJ1T4PJ3fgp2Q1vQ2Ytk"
-      },
-      "artists": [
-        {
-          "name": "Marcel Khalifa",
-          "url": "https://open.spotify.com/artist/03O78a3lgoVCdAvUhrZwTZ"
-        }
-      ],
-      "duration_ms": 557466,
-      "name": "My Mother",
-      "url": "https://open.spotify.com/track/3WxUI6F09yVhLMLksKMjQJ"
-    },
-    {
-      "added_at": "2024-07-04 23:55:52",
-      "album": {
         "name": "La7za",
         "url": "https://open.spotify.com/album/0bTeTZPnvaUfdhAXj8RTyU"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 206850,
       "name": "La7za",
       "url": "https://open.spotify.com/track/4VVpPqUEwJLJgAblQVBFWG"
+    },
+    {
+      "added_at": "2024-07-04 23:55:52",
+      "album": {
+        "name": "Promises of the Storm",
+        "url": "https://open.spotify.com/album/3IDJ1T4PJ3fgp2Q1vQ2Ytk"
+      },
+      "artists": [
+        {
+          "name": "Marcel Khalifa",
+          "url": "https://open.spotify.com/artist/03O78a3lgoVCdAvUhrZwTZ"
+        }
+      ],
+      "duration_ms": 557466,
+      "name": "My Mother",
+      "url": "https://open.spotify.com/track/3WxUI6F09yVhLMLksKMjQJ"
     },
     {
       "added_at": "2024-07-04 23:55:52",
@@ -851,22 +851,6 @@
     {
       "added_at": "2024-07-04 23:55:52",
       "album": {
-        "name": "Helwa Ya Baladi \u062d\u0644\u0648\u0629 \u064a\u0627 \u0628\u0644\u062f\u064a (Cover)",
-        "url": "https://open.spotify.com/album/3DkQKBXouCLFM1xrl3R667"
-      },
-      "artists": [
-        {
-          "name": "Lina Sleibi",
-          "url": "https://open.spotify.com/artist/4V7rYFRvFUe9t0D4wPCxrz"
-        }
-      ],
-      "duration_ms": 204347,
-      "name": "Helwa Ya Baladi \u062d\u0644\u0648\u0629 \u064a\u0627 \u0628\u0644\u062f\u064a - Cover",
-      "url": "https://open.spotify.com/track/3WVU8Hqnp45QfgtVZu36He"
-    },
-    {
-      "added_at": "2024-07-04 23:55:52",
-      "album": {
         "name": "Bahwak",
         "url": "https://open.spotify.com/album/4qz2Q8NdUlkKckkRmFDhtl"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 198123,
       "name": "Bahwak",
       "url": "https://open.spotify.com/track/7D8m6yXM2yIITCjMrlEPOu"
+    },
+    {
+      "added_at": "2024-07-04 23:55:52",
+      "album": {
+        "name": "Helwa Ya Baladi \u062d\u0644\u0648\u0629 \u064a\u0627 \u0628\u0644\u062f\u064a (Cover)",
+        "url": "https://open.spotify.com/album/3DkQKBXouCLFM1xrl3R667"
+      },
+      "artists": [
+        {
+          "name": "Lina Sleibi",
+          "url": "https://open.spotify.com/artist/4V7rYFRvFUe9t0D4wPCxrz"
+        }
+      ],
+      "duration_ms": 204347,
+      "name": "Helwa Ya Baladi \u062d\u0644\u0648\u0629 \u064a\u0627 \u0628\u0644\u062f\u064a - Cover",
+      "url": "https://open.spotify.com/track/3WVU8Hqnp45QfgtVZu36He"
     },
     {
       "added_at": "2024-07-04 23:55:52",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2024-07-04 23:55:52",
       "album": {
-        "name": "Rawquha",
-        "url": "https://open.spotify.com/album/2M5Qyikkntj3ly2V6RLyRJ"
-      },
-      "artists": [
-        {
-          "name": "Apo & the Apostles",
-          "url": "https://open.spotify.com/artist/206CRJTxnXzOKrkZmZm9aw"
-        }
-      ],
-      "duration_ms": 274363,
-      "name": "Walhani",
-      "url": "https://open.spotify.com/track/4y2Zuqfq71h7joKqZmBJLr"
-    },
-    {
-      "added_at": "2024-07-04 23:55:52",
-      "album": {
         "name": "Al Hob El Kbir",
         "url": "https://open.spotify.com/album/5gwfQSiGcdy5eAJHlS95Pi"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 204705,
       "name": "Hasaruha",
       "url": "https://open.spotify.com/track/2NsNFfvEllmWsaUfKUOtTp"
+    },
+    {
+      "added_at": "2024-07-04 23:55:52",
+      "album": {
+        "name": "Rawquha",
+        "url": "https://open.spotify.com/album/2M5Qyikkntj3ly2V6RLyRJ"
+      },
+      "artists": [
+        {
+          "name": "Apo & the Apostles",
+          "url": "https://open.spotify.com/artist/206CRJTxnXzOKrkZmZm9aw"
+        }
+      ],
+      "duration_ms": 274363,
+      "name": "Walhani",
+      "url": "https://open.spotify.com/track/4y2Zuqfq71h7joKqZmBJLr"
     },
     {
       "added_at": "2024-07-04 23:55:52",
@@ -1295,6 +1295,22 @@
     {
       "added_at": "2024-07-04 23:55:52",
       "album": {
+        "name": "Yasmeen",
+        "url": "https://open.spotify.com/album/7bgr16tTsIUTVtDkJ3Fegz"
+      },
+      "artists": [
+        {
+          "name": "Dania",
+          "url": "https://open.spotify.com/artist/0LXNaYz7jAXD5V4C0FWGEx"
+        }
+      ],
+      "duration_ms": 56896,
+      "name": "Yasmeen",
+      "url": "https://open.spotify.com/track/4QCThVhmyL6KvZW1gGNIRI"
+    },
+    {
+      "added_at": "2024-07-04 23:55:52",
+      "album": {
         "name": "Leila",
         "url": "https://open.spotify.com/album/2iw5NCNPUG8Wv0kg2ujCcc"
       },
@@ -1315,22 +1331,6 @@
     {
       "added_at": "2024-07-04 23:55:52",
       "album": {
-        "name": "Raoui",
-        "url": "https://open.spotify.com/album/1v3KoZERdNZ6ddhseotXzx"
-      },
-      "artists": [
-        {
-          "name": "Souad Massi",
-          "url": "https://open.spotify.com/artist/0oXFsuB6XBuDTsXJgplR7k"
-        }
-      ],
-      "duration_ms": 227000,
-      "name": "Raoui",
-      "url": "https://open.spotify.com/track/4PmJRTntkZRVG6kiVljmlA"
-    },
-    {
-      "added_at": "2024-07-04 23:55:52",
-      "album": {
         "name": "Ll Abad",
         "url": "https://open.spotify.com/album/1a9uW1qEYbl2RWu9Pezxbr"
       },
@@ -1343,22 +1343,6 @@
       "duration_ms": 212476,
       "name": "Ll Abad",
       "url": "https://open.spotify.com/track/062PjBRVYxZAinFwcS8Lyq"
-    },
-    {
-      "added_at": "2024-07-04 23:55:52",
-      "album": {
-        "name": "Yasmeen",
-        "url": "https://open.spotify.com/album/7bgr16tTsIUTVtDkJ3Fegz"
-      },
-      "artists": [
-        {
-          "name": "Dania",
-          "url": "https://open.spotify.com/artist/0LXNaYz7jAXD5V4C0FWGEx"
-        }
-      ],
-      "duration_ms": 56896,
-      "name": "Yasmeen",
-      "url": "https://open.spotify.com/track/4QCThVhmyL6KvZW1gGNIRI"
     },
     {
       "added_at": "2024-07-04 23:55:52",
@@ -1391,6 +1375,22 @@
       "duration_ms": 336008,
       "name": "Ween El-Kalam",
       "url": "https://open.spotify.com/track/6ggyvXMDwARoo76Clvlngg"
+    },
+    {
+      "added_at": "2024-07-04 23:55:52",
+      "album": {
+        "name": "Raoui",
+        "url": "https://open.spotify.com/album/1v3KoZERdNZ6ddhseotXzx"
+      },
+      "artists": [
+        {
+          "name": "Souad Massi",
+          "url": "https://open.spotify.com/artist/0oXFsuB6XBuDTsXJgplR7k"
+        }
+      ],
+      "duration_ms": 227000,
+      "name": "Raoui",
+      "url": "https://open.spotify.com/track/4PmJRTntkZRVG6kiVljmlA"
     },
     {
       "added_at": "2024-07-04 23:55:52",

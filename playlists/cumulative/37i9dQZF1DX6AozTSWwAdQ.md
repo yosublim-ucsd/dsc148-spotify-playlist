@@ -4,7 +4,7 @@
 
 > 沒有什麼比感覺好更重要了！這裡的歌曲能大大振奮心情、令你元氣十足！
 
-406 songs - 21 hr 21 min
+407 songs - 21 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,7 +115,7 @@
 | [Everything Is Nothing](https://open.spotify.com/track/0Uk4Vl90h4B217sWhXJeIf) | [Justus Bennetts](https://open.spotify.com/artist/4PcesEvU9iICf7dwNt5B3l) | [Everything Is Nothing](https://open.spotify.com/album/2Gg9al8bC4Je0nmgRAnujj) | 2:01 | 2022-12-06 | 2022-12-13 |
 | [Eyes On You](https://open.spotify.com/track/6qItx3M2IZbXBKRnptbnHM) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs) | [Eyes On You](https://open.spotify.com/album/2vwW8EzZGZaAFfZ2HYL1hE) | 2:57 | 2022-11-21 | 2023-07-29 |
 | [Eyes On You](https://open.spotify.com/track/6xpAcenBpNYOyljTMLvzVi) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs) | [Good Times Go](https://open.spotify.com/album/1Y7AsjpYThuzMClDdu4FrV) | 2:57 | 2023-08-07 | 2023-11-10 |
-| [Eyes Wide Shut](https://open.spotify.com/track/556awMv4WQP0h1VXMU8rSU) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [ILLENIUM](https://open.spotify.com/album/0ValflNlWce21wm5PlwV60) | 2:32 | 2023-05-01 |  |
+| [Eyes Wide Shut](https://open.spotify.com/track/556awMv4WQP0h1VXMU8rSU) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [ILLENIUM](https://open.spotify.com/album/0ValflNlWce21wm5PlwV60) | 2:32 | 2023-05-01 | 2024-10-07 |
 | [Fake As Hell \(with Avril Lavigne\)](https://open.spotify.com/track/7bbhu051CI6krV0M6lv7tl) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo), [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Fake As Hell \(with Avril Lavigne\)](https://open.spotify.com/album/39fNnKFUvJIyEyItTOoc9Z) | 2:59 | 2023-09-17 |  |
 | [Fake Faces](https://open.spotify.com/track/4ntKnZnztFdovszJpIoeVO) | [Felip](https://open.spotify.com/artist/2tEFDBihLXytoPl4xdResl) | [Fake Faces](https://open.spotify.com/album/7BxA4dGVgGP6JPoXohlnc4) | 2:54 | 2024-04-22 | 2024-07-19 |
 | [Fall 4 u](https://open.spotify.com/track/6EWUXXPFn2S7FBI0W7cs5l) | [Nieve Ella](https://open.spotify.com/artist/14zhvja4OxwrmivOB3LHOn) | [Fall 4 u](https://open.spotify.com/album/3tZfjLiISFF10SgVj4nsmw) | 3:33 | 2022-10-31 | 2022-11-08 |
@@ -181,6 +181,7 @@
 | [I Blame The World](https://open.spotify.com/track/3SrSjUKxAJ6Cq1vpe1mqCZ) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [I Blame The World](https://open.spotify.com/album/7mIYNERWd8SdGObD8GrO2F) | 3:17 | 2022-06-06 | 2022-07-29 |
 | [I Can’t Grow Up](https://open.spotify.com/track/5b2teiHzEXQQJJfa0btYpF) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [I Can't Grow Up](https://open.spotify.com/album/0yQuEAGDMu7hJKLWfX11Vm) | 3:20 | 2022-10-04 | 2022-10-11 |
 | [I Dare You](https://open.spotify.com/track/0o58NWBiVXewJNfNDKQyjw) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [I Dare You \(Multi\-Language Duets\)](https://open.spotify.com/album/4OUdmzLsYYpcUbCPS7TTZ7) | 3:36 | 2022-06-06 | 2022-07-29 |
+| [i don't rly care bout u!](https://open.spotify.com/track/4hp0U870kcIYAmyXwh38zt) | [Regina Song](https://open.spotify.com/artist/3Y7gOnKYWfQlEdgXag0Z6W), [hongjoin](https://open.spotify.com/artist/2zDF6PeSxBlLKma4IMAlLu) | [i don't rly care bout u!](https://open.spotify.com/album/0NcC6LXLRpKMmD1zjPCaKS) | 3:22 | 2024-10-07 |  |
 | [I Found You](https://open.spotify.com/track/4kaZfkBcZ9zdIx25NimIol) | [Ewan Mainwood](https://open.spotify.com/artist/0sYD7tLwt7uBajEg4adh6u) | [I Found You EP](https://open.spotify.com/album/5h5ux1uJHaRo82sDyhNOin) | 2:55 | 2023-01-30 | 2023-02-07 |
 | [i hate love \(feat\. Steve Martin\)](https://open.spotify.com/track/6LWjjMcckXsayxlGy09XhH) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX), [Steve Martin](https://open.spotify.com/artist/1Bd4UVlqlaKEXYRG3wgrCK) | [i hate love \(feat\. Steve Martin\)](https://open.spotify.com/album/6jD3QU3DuJphSxH1vdplVV) | 3:33 | 2023-06-05 | 2023-06-12 |
 | [I Hate You When You're Drunk](https://open.spotify.com/track/6JwTHnNMdEs3k4orwSFAkT) | [Olly Murs](https://open.spotify.com/artist/3whuHq0yGx60atvA2RCVRW) | [I Hate You When You're Drunk](https://open.spotify.com/album/2FUYJ976FApZTFu0Fxwm1E) | 3:37 | 2022-11-28 | 2022-12-06 |

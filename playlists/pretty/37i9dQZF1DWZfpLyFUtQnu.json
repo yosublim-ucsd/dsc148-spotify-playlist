@@ -1,6 +1,6 @@
 {
   "description": "Les plus belles ballades de la chanson fran\u00e7aise d'hier et d'aujourd'hui.",
-  "num_followers": 91212,
+  "num_followers": 91280,
   "original_name": "Douce France",
   "owner": {
     "name": "Spotify",
@@ -207,6 +207,22 @@
     {
       "added_at": "2024-10-03 14:22:43",
       "album": {
+        "name": "Samedi soir sur la terre (Remastered)",
+        "url": "https://open.spotify.com/album/4KXrFpUXZO6e5RdZ70HaK8"
+      },
+      "artists": [
+        {
+          "name": "Francis Cabrel",
+          "url": "https://open.spotify.com/artist/5uo5NwSONVNfvSHHMQrHAv"
+        }
+      ],
+      "duration_ms": 278253,
+      "name": "Je t'aimais, je t'aime, je t'aimerai - Remastered",
+      "url": "https://open.spotify.com/track/1sTWIzAlg8HapeWz2fXvfJ"
+    },
+    {
+      "added_at": "2024-10-03 14:22:43",
+      "album": {
         "name": "Essentiels",
         "url": "https://open.spotify.com/album/30d0ikqr92UVb1L0xVe0Fx"
       },
@@ -255,22 +271,6 @@
     {
       "added_at": "2024-10-03 14:22:43",
       "album": {
-        "name": "Ca ne tient pas debout (Remasteris\u00e9 en 2002)",
-        "url": "https://open.spotify.com/album/2X3NWw5yXoj2yJJIGvFhKM"
-      },
-      "artists": [
-        {
-          "name": "Michel Berger",
-          "url": "https://open.spotify.com/artist/5skauLarl8sqqUFypECtP4"
-        }
-      ],
-      "duration_ms": 396493,
-      "name": "Le paradis blanc - Remasteris\u00e9 en 2002",
-      "url": "https://open.spotify.com/track/6N6uTt8e1vLLgIZK5FgSYh"
-    },
-    {
-      "added_at": "2024-10-03 14:22:43",
-      "album": {
         "name": "Happy Birthday",
         "url": "https://open.spotify.com/album/5YVoSO3cHnjC10DrXlX2AA"
       },
@@ -287,18 +287,18 @@
     {
       "added_at": "2024-10-03 14:22:43",
       "album": {
-        "name": "Samedi soir sur la terre (Remastered)",
-        "url": "https://open.spotify.com/album/4KXrFpUXZO6e5RdZ70HaK8"
+        "name": "Ca ne tient pas debout (Remasteris\u00e9 en 2002)",
+        "url": "https://open.spotify.com/album/2X3NWw5yXoj2yJJIGvFhKM"
       },
       "artists": [
         {
-          "name": "Francis Cabrel",
-          "url": "https://open.spotify.com/artist/5uo5NwSONVNfvSHHMQrHAv"
+          "name": "Michel Berger",
+          "url": "https://open.spotify.com/artist/5skauLarl8sqqUFypECtP4"
         }
       ],
-      "duration_ms": 278253,
-      "name": "Je t'aimais, je t'aime, je t'aimerai - Remastered",
-      "url": "https://open.spotify.com/track/1sTWIzAlg8HapeWz2fXvfJ"
+      "duration_ms": 396493,
+      "name": "Le paradis blanc - Remasteris\u00e9 en 2002",
+      "url": "https://open.spotify.com/track/6N6uTt8e1vLLgIZK5FgSYh"
     },
     {
       "added_at": "2024-10-03 14:22:43",
@@ -319,22 +319,6 @@
     {
       "added_at": "2024-10-03 14:22:43",
       "album": {
-        "name": "caravane",
-        "url": "https://open.spotify.com/album/5TbficEf6NnMBJP5rUwuN6"
-      },
-      "artists": [
-        {
-          "name": "Rapha\u00ebl",
-          "url": "https://open.spotify.com/artist/1NPnXlXdEfr5ZxhEDsFevM"
-        }
-      ],
-      "duration_ms": 153000,
-      "name": "Et dans 150 ans",
-      "url": "https://open.spotify.com/track/7vlLFUFZKochwQGnoRnWcM"
-    },
-    {
-      "added_at": "2024-10-03 14:22:43",
-      "album": {
         "name": "Superflu",
         "url": "https://open.spotify.com/album/5bkQ6M2RXukXeF9NEHwgUY"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 255573,
       "name": "Lucie",
       "url": "https://open.spotify.com/track/5lgjlZSujTErTw7FUoCxj9"
+    },
+    {
+      "added_at": "2024-10-03 14:22:43",
+      "album": {
+        "name": "caravane",
+        "url": "https://open.spotify.com/album/5TbficEf6NnMBJP5rUwuN6"
+      },
+      "artists": [
+        {
+          "name": "Rapha\u00ebl",
+          "url": "https://open.spotify.com/artist/1NPnXlXdEfr5ZxhEDsFevM"
+        }
+      ],
+      "duration_ms": 153000,
+      "name": "Et dans 150 ans",
+      "url": "https://open.spotify.com/track/7vlLFUFZKochwQGnoRnWcM"
     },
     {
       "added_at": "2024-10-03 14:22:43",
@@ -399,6 +399,22 @@
     {
       "added_at": "2024-10-03 14:22:43",
       "album": {
+        "name": "L'Heure D'Et\u00e9",
+        "url": "https://open.spotify.com/album/4KGuo3fzcCgvfvqvA2o5lh"
+      },
+      "artists": [
+        {
+          "name": "Marc Lavoine",
+          "url": "https://open.spotify.com/artist/3K8EYZ4Ltg6ythgGZzrFXf"
+        }
+      ],
+      "duration_ms": 214853,
+      "name": "Toi mon amour",
+      "url": "https://open.spotify.com/track/0joVOoFQB1l3nGceHwgxVI"
+    },
+    {
+      "added_at": "2024-10-03 14:22:43",
+      "album": {
         "name": "Effet miroir",
         "url": "https://open.spotify.com/album/5aM8gkw3dJQ7XSc2Uq8g8a"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 194280,
       "name": "Kiss",
       "url": "https://open.spotify.com/track/3yds1YFMJkj93vdCJuxsJS"
-    },
-    {
-      "added_at": "2024-10-03 14:22:43",
-      "album": {
-        "name": "L'Heure D'Et\u00e9",
-        "url": "https://open.spotify.com/album/4KGuo3fzcCgvfvqvA2o5lh"
-      },
-      "artists": [
-        {
-          "name": "Marc Lavoine",
-          "url": "https://open.spotify.com/artist/3K8EYZ4Ltg6ythgGZzrFXf"
-        }
-      ],
-      "duration_ms": 214853,
-      "name": "Toi mon amour",
-      "url": "https://open.spotify.com/track/0joVOoFQB1l3nGceHwgxVI"
     },
     {
       "added_at": "2024-10-03 14:22:43",
@@ -851,22 +851,6 @@
     {
       "added_at": "2024-10-03 14:22:43",
       "album": {
-        "name": "En passant",
-        "url": "https://open.spotify.com/album/3Z4uAMHKOdut4Cvx9NemEs"
-      },
-      "artists": [
-        {
-          "name": "Jean-Jacques Goldman",
-          "url": "https://open.spotify.com/artist/2Cx19OTMqa6gpz2l60cGG2"
-        }
-      ],
-      "duration_ms": 265226,
-      "name": "Quand tu danses",
-      "url": "https://open.spotify.com/track/0NZTCM482lCDSDtvNgeeuz"
-    },
-    {
-      "added_at": "2024-10-03 14:22:43",
-      "album": {
         "name": "Le coeur grenadine",
         "url": "https://open.spotify.com/album/1Rk16GLTOxgDyfJkUDWFot"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 347520,
       "name": "Le coeur grenadine",
       "url": "https://open.spotify.com/track/2OWUD3BSV3yyuYYSpDBhwb"
+    },
+    {
+      "added_at": "2024-10-03 14:22:43",
+      "album": {
+        "name": "En passant",
+        "url": "https://open.spotify.com/album/3Z4uAMHKOdut4Cvx9NemEs"
+      },
+      "artists": [
+        {
+          "name": "Jean-Jacques Goldman",
+          "url": "https://open.spotify.com/artist/2Cx19OTMqa6gpz2l60cGG2"
+        }
+      ],
+      "duration_ms": 265226,
+      "name": "Quand tu danses",
+      "url": "https://open.spotify.com/track/0NZTCM482lCDSDtvNgeeuz"
     },
     {
       "added_at": "2024-10-03 14:22:43",
@@ -995,22 +995,6 @@
     {
       "added_at": "2024-10-03 14:22:43",
       "album": {
-        "name": "Louane",
-        "url": "https://open.spotify.com/album/1f1C1CjidKcWQyiIYcMvP2"
-      },
-      "artists": [
-        {
-          "name": "Louane",
-          "url": "https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC"
-        }
-      ],
-      "duration_ms": 153800,
-      "name": "Si t'\u00e9tais l\u00e0",
-      "url": "https://open.spotify.com/track/1iQ9W74bGFDAbiRIKn0PuH"
-    },
-    {
-      "added_at": "2024-10-03 14:22:43",
-      "album": {
         "name": "Des ombres et des lumi\u00e8res - Live \u00e0 l'Olympia / 2016",
         "url": "https://open.spotify.com/album/29AWK7mk7bfJ6QR2CX1fUX"
       },
@@ -1031,6 +1015,22 @@
     {
       "added_at": "2024-10-03 14:22:43",
       "album": {
+        "name": "Louane",
+        "url": "https://open.spotify.com/album/1f1C1CjidKcWQyiIYcMvP2"
+      },
+      "artists": [
+        {
+          "name": "Louane",
+          "url": "https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC"
+        }
+      ],
+      "duration_ms": 153800,
+      "name": "Si t'\u00e9tais l\u00e0",
+      "url": "https://open.spotify.com/track/1iQ9W74bGFDAbiRIKn0PuH"
+    },
+    {
+      "added_at": "2024-10-03 14:22:43",
+      "album": {
         "name": "Parce qu'on vient de loin",
         "url": "https://open.spotify.com/album/5VMa7BgPzwjGfEPiGaJSPv"
       },
@@ -1043,6 +1043,22 @@
       "duration_ms": 241346,
       "name": "Parce Qu'On Vient De Loin (Version Acoustique)",
       "url": "https://open.spotify.com/track/66BL8LOHoqwGgPzMOraqtW"
+    },
+    {
+      "added_at": "2024-10-03 14:22:43",
+      "album": {
+        "name": "Br\u00fbler le Feu 2",
+        "url": "https://open.spotify.com/album/4cpqnqV7914MH1bGNqbS0t"
+      },
+      "artists": [
+        {
+          "name": "Juliette Armanet",
+          "url": "https://open.spotify.com/artist/61CPKXT0bcKj8MKTNTMOXa"
+        }
+      ],
+      "duration_ms": 177306,
+      "name": "L\u2019\u00c9pine",
+      "url": "https://open.spotify.com/track/10lnnY7ld9xjYY6pl75zTp"
     },
     {
       "added_at": "2024-10-03 14:22:43",
@@ -1075,22 +1091,6 @@
       "duration_ms": 220066,
       "name": "Les sunlights des tropiques",
       "url": "https://open.spotify.com/track/7uedDMiSQYvV2Ej1Ee6NDV"
-    },
-    {
-      "added_at": "2024-10-03 14:22:43",
-      "album": {
-        "name": "Br\u00fbler le Feu 2",
-        "url": "https://open.spotify.com/album/4cpqnqV7914MH1bGNqbS0t"
-      },
-      "artists": [
-        {
-          "name": "Juliette Armanet",
-          "url": "https://open.spotify.com/artist/61CPKXT0bcKj8MKTNTMOXa"
-        }
-      ],
-      "duration_ms": 177306,
-      "name": "L\u2019\u00c9pine",
-      "url": "https://open.spotify.com/track/10lnnY7ld9xjYY6pl75zTp"
     },
     {
       "added_at": "2024-10-03 14:22:43",
@@ -1223,8 +1223,8 @@
     {
       "added_at": "2024-10-03 14:22:43",
       "album": {
-        "name": "Bruxelles (Version acoustique)",
-        "url": "https://open.spotify.com/album/2UA3lHDTFLYMAXH7nj2gp5"
+        "name": "Loin des yeux",
+        "url": "https://open.spotify.com/album/5u3mERrsCPzvwICP88yNil"
       },
       "artists": [
         {
@@ -1232,13 +1232,13 @@
           "url": "https://open.spotify.com/artist/6px2zTzjQAPLkuea5qQ2Gx"
         },
         {
-          "name": "Lunis",
-          "url": "https://open.spotify.com/artist/1YjaVTeHBlVRRxbk7H30HN"
+          "name": "Vianney",
+          "url": "https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6"
         }
       ],
-      "duration_ms": 178680,
-      "name": "Bruxelles - Version acoustique",
-      "url": "https://open.spotify.com/track/7qfS3qSvzl7A2lBjlr6W4z"
+      "duration_ms": 167933,
+      "name": "Allez reste (feat. Vianney)",
+      "url": "https://open.spotify.com/track/3heHzzI6Grlj4xTeoLOO56"
     },
     {
       "added_at": "2024-10-03 14:22:43",

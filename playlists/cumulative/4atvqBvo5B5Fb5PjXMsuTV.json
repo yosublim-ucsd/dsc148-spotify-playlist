@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-26",
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 06 Oct 22:03 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 07 Oct 22:03 UTC.",
   "name": "New Singles Now",
   "tracks": [
     {
@@ -6350,7 +6350,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-07",
       "duration_ms": 116471,
       "name": "Boss Affirmations",
       "url": "https://open.spotify.com/track/1rDZbka59VIuNxOunUml0b"
@@ -11310,7 +11310,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-07",
       "duration_ms": 112069,
       "name": "DELIRIUM",
       "url": "https://open.spotify.com/track/3mHsl2Dkk5fn62K55yW2ao"
@@ -17698,7 +17698,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-07",
       "duration_ms": 168750,
       "name": "Get Busy",
       "url": "https://open.spotify.com/track/1U3HdQECtAOhOzZ05flaY0"
@@ -20513,6 +20513,24 @@
     },
     {
       "album": {
+        "name": "Hey Now",
+        "url": "https://open.spotify.com/album/79vDMe6HN4DfiYCQhs5RXp"
+      },
+      "artists": [
+        {
+          "name": "Shauna Dean Cokeland",
+          "url": "https://open.spotify.com/artist/0vbNLTyYwdVv2m0gzQ8skz"
+        }
+      ],
+      "date_added": "2024-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138189,
+      "name": "Hey Now",
+      "url": "https://open.spotify.com/track/3EZaMCW820EhjBOMSmQgaq"
+    },
+    {
+      "album": {
         "name": "Hey Stranger",
         "url": "https://open.spotify.com/album/0TkEpeSPKmCkpSgZWq8hRc"
       },
@@ -21622,7 +21640,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-07",
       "duration_ms": 110163,
       "name": "Hypebeast",
       "url": "https://open.spotify.com/track/104XGJVtee8JfslD34VNJl"
@@ -28214,7 +28232,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 161290,
-      "name": "Maintenance Man (feat. Nemzzz, Dee Billz)",
+      "name": "Maintenance Man (feat. Jenn Carter, Dee Billz)",
       "url": "https://open.spotify.com/track/7Bi3CoMUn2T8orxoPcU71f"
     },
     {
@@ -30673,6 +30691,28 @@
     },
     {
       "album": {
+        "name": "Nameless",
+        "url": "https://open.spotify.com/album/6fA8MmZ0GQO8RP0zsX85gb"
+      },
+      "artists": [
+        {
+          "name": "Hui",
+          "url": "https://open.spotify.com/artist/4R0tSGcVRQ8ZXPzttU8mHy"
+        },
+        {
+          "name": "Jang Hye-Jin",
+          "url": "https://open.spotify.com/artist/2vG3ydmgAksU2M1qIE89Bo"
+        }
+      ],
+      "date_added": "2024-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283186,
+      "name": "Nameless",
+      "url": "https://open.spotify.com/track/43DGpdzL6un8gtOVbyRsld"
+    },
+    {
+      "album": {
         "name": "Names of Water",
         "url": "https://open.spotify.com/album/5TSmx3BYwlg0ApSaQ6TVmp"
       },
@@ -31342,6 +31382,24 @@
       "duration_ms": 156444,
       "name": "Nie Dzwo\u0144 Do Mnie",
       "url": "https://open.spotify.com/track/0lJla6PQ8xhzAH5azBDTnk"
+    },
+    {
+      "album": {
+        "name": "NIGHT (Korean ver.)",
+        "url": "https://open.spotify.com/album/1BBigQeejhkNHwAB25JNg6"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "date_added": "2024-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174880,
+      "name": "NIGHT (from \"Tower of God: WORKSHOP BATTLE\") (Korean ver.)",
+      "url": "https://open.spotify.com/track/0YYQMPiMhVmGVqf7kOe4TB"
     },
     {
       "album": {
@@ -36402,6 +36460,24 @@
       "duration_ms": 239890,
       "name": "RB3",
       "url": "https://open.spotify.com/track/6g80KZsDgDKUUinR5biFcC"
+    },
+    {
+      "album": {
+        "name": "RE RESCUE",
+        "url": "https://open.spotify.com/album/09trgNdBYNAfi6bKzqLFbP"
+      },
+      "artists": [
+        {
+          "name": "Reol",
+          "url": "https://open.spotify.com/artist/7rpKUJ0AnklJ8q9nIPVSpZ"
+        }
+      ],
+      "date_added": "2024-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233543,
+      "name": "RE RESCUE",
+      "url": "https://open.spotify.com/track/1i5u28LuH3TddcRfOC7Y8U"
     },
     {
       "album": {
@@ -46925,6 +47001,24 @@
     },
     {
       "album": {
+        "name": "Transcendental Cha Cha Cha",
+        "url": "https://open.spotify.com/album/3KbyGIusjD3JjjQzQx8xcP"
+      },
+      "artists": [
+        {
+          "name": "Tom Cardy",
+          "url": "https://open.spotify.com/artist/0hQBkU2vuMYXucmd89JUSw"
+        }
+      ],
+      "date_added": "2024-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209296,
+      "name": "Transcendental Cha Cha Cha",
+      "url": "https://open.spotify.com/track/1gaa0N2DGSLKcW7aIQu9xF"
+    },
+    {
+      "album": {
         "name": "Trashy",
         "url": "https://open.spotify.com/album/3SxQp4N8L7KyuVEJLwjyPh"
       },
@@ -47008,7 +47102,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-07",
       "duration_ms": 157223,
       "name": "Triple Marathon",
       "url": "https://open.spotify.com/track/6gEl8SZNT90jyNCXVhZ3BO"

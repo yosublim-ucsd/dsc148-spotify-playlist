@@ -1,12 +1,12 @@
 {
-  "description": "This is League of Legends. The essential tracks, all in one playlist.",
-  "num_followers": 388819,
+  "description": "This is League of Legends. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 388852,
   "original_name": "This Is League of Legends",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zv3egAAAAACl2daV1U2mKGTMpmleD0n1",
+  "snapshot_id": "ZwCBgAAAAADvh2v9GJasGyRMUGcQJWg+",
   "tracks": [
     {
       "added_at": null,
@@ -543,6 +543,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Awaken",
+        "url": "https://open.spotify.com/album/0faLimwDSn0fF0Y0fahCd1"
+      },
+      "artists": [
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        },
+        {
+          "name": "Valerie Broussard",
+          "url": "https://open.spotify.com/artist/6eVWXmKBW7Iltub01D9R1c"
+        },
+        {
+          "name": "Ray Chen",
+          "url": "https://open.spotify.com/artist/5Cy6BjgpzVTTP4FURizqmQ"
+        }
+      ],
+      "duration_ms": 198187,
+      "name": "Awaken",
+      "url": "https://open.spotify.com/track/3jevgr3fYdv9wYO3IDJq2a"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Snakes (from the series Arcane League of Legends)",
         "url": "https://open.spotify.com/album/14M8F8rKpr6LGlIgPmm6t6"
       },
@@ -567,30 +591,6 @@
       "duration_ms": 161376,
       "name": "Snakes (from the series Arcane League of Legends)",
       "url": "https://open.spotify.com/track/7LmyUD78mtwBDzgVV4P5F4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Awaken",
-        "url": "https://open.spotify.com/album/0faLimwDSn0fF0Y0fahCd1"
-      },
-      "artists": [
-        {
-          "name": "League of Legends",
-          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
-        },
-        {
-          "name": "Valerie Broussard",
-          "url": "https://open.spotify.com/artist/6eVWXmKBW7Iltub01D9R1c"
-        },
-        {
-          "name": "Ray Chen",
-          "url": "https://open.spotify.com/artist/5Cy6BjgpzVTTP4FURizqmQ"
-        }
-      ],
-      "duration_ms": 198187,
-      "name": "Awaken",
-      "url": "https://open.spotify.com/track/3jevgr3fYdv9wYO3IDJq2a"
     },
     {
       "added_at": null,
@@ -711,6 +711,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Worlds Collide",
+        "url": "https://open.spotify.com/album/3UNDTCRbmguMxaPzcNpbSn"
+      },
+      "artists": [
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        },
+        {
+          "name": "Nicki Taylor",
+          "url": "https://open.spotify.com/artist/40eCNuH12cyxEcIVObqFrG"
+        }
+      ],
+      "duration_ms": 216308,
+      "name": "Worlds Collide",
+      "url": "https://open.spotify.com/track/6KMgPewrVRxzeFzRwkFa0M"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dirty Little Animals (From the series Arcane League of Legends)",
         "url": "https://open.spotify.com/album/73R7KvHJv47usynIkosEeL"
       },
@@ -735,26 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Worlds Collide",
-        "url": "https://open.spotify.com/album/3UNDTCRbmguMxaPzcNpbSn"
-      },
-      "artists": [
-        {
-          "name": "League of Legends",
-          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
-        },
-        {
-          "name": "Nicki Taylor",
-          "url": "https://open.spotify.com/artist/40eCNuH12cyxEcIVObqFrG"
-        }
-      ],
-      "duration_ms": 216308,
-      "name": "Worlds Collide",
-      "url": "https://open.spotify.com/track/6KMgPewrVRxzeFzRwkFa0M"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Guns for Hire (from the series Arcane League of Legends)",
         "url": "https://open.spotify.com/album/5NgVCpHat6HmhlEISyXdIV"
       },
@@ -775,6 +775,34 @@
       "duration_ms": 226460,
       "name": "Guns for Hire (from the series Arcane League of Legends)",
       "url": "https://open.spotify.com/track/38x5NsjgoLaYCnhAghHdyo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Misfit Toys (from the series Arcane League of Legends)",
+        "url": "https://open.spotify.com/album/76wOGJh4irz8szcQ0PsgUU"
+      },
+      "artists": [
+        {
+          "name": "Pusha T",
+          "url": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
+        },
+        {
+          "name": "Mako",
+          "url": "https://open.spotify.com/artist/0Ye4nfYAA91T1X56gnlXAA"
+        },
+        {
+          "name": "Arcane",
+          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
+        },
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        }
+      ],
+      "duration_ms": 189692,
+      "name": "Misfit Toys (from the series Arcane League of Legends)",
+      "url": "https://open.spotify.com/track/0oKPOxrcUkvJ8YVaV79qE8"
     },
     {
       "added_at": null,
@@ -807,34 +835,6 @@
       "duration_ms": 198611,
       "name": "I'LL SHOW YOU",
       "url": "https://open.spotify.com/track/6LDIVpVNBRy7LCw7jIdci6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Misfit Toys (from the series Arcane League of Legends)",
-        "url": "https://open.spotify.com/album/76wOGJh4irz8szcQ0PsgUU"
-      },
-      "artists": [
-        {
-          "name": "Pusha T",
-          "url": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
-        },
-        {
-          "name": "Mako",
-          "url": "https://open.spotify.com/artist/0Ye4nfYAA91T1X56gnlXAA"
-        },
-        {
-          "name": "Arcane",
-          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
-        },
-        {
-          "name": "League of Legends",
-          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
-        }
-      ],
-      "duration_ms": 189692,
-      "name": "Misfit Toys (from the series Arcane League of Legends)",
-      "url": "https://open.spotify.com/track/0oKPOxrcUkvJ8YVaV79qE8"
     },
     {
       "added_at": null,
@@ -1003,6 +1003,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "When Everything Went Wrong (from the series Arcane League of Legends)",
+        "url": "https://open.spotify.com/album/2mwGEdmUVr7RjkDlxzjRzJ"
+      },
+      "artists": [
+        {
+          "name": "Fantastic Negrito",
+          "url": "https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13"
+        },
+        {
+          "name": "Arcane",
+          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
+        },
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        }
+      ],
+      "duration_ms": 193095,
+      "name": "When Everything Went Wrong (from the series Arcane League of Legends)",
+      "url": "https://open.spotify.com/track/5fW9gRfANuXLNgopaNTrHi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Shine On",
         "url": "https://open.spotify.com/album/0TATIDURuDWbpmq54rOzFn"
       },
@@ -1043,30 +1067,6 @@
       "duration_ms": 187805,
       "name": "Burning Bright",
       "url": "https://open.spotify.com/track/6d2cQyhS2E4ai0VuNCorFC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "When Everything Went Wrong (from the series Arcane League of Legends)",
-        "url": "https://open.spotify.com/album/2mwGEdmUVr7RjkDlxzjRzJ"
-      },
-      "artists": [
-        {
-          "name": "Fantastic Negrito",
-          "url": "https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13"
-        },
-        {
-          "name": "Arcane",
-          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
-        },
-        {
-          "name": "League of Legends",
-          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
-        }
-      ],
-      "duration_ms": 193095,
-      "name": "When Everything Went Wrong (from the series Arcane League of Legends)",
-      "url": "https://open.spotify.com/track/5fW9gRfANuXLNgopaNTrHi"
     },
     {
       "added_at": null,
@@ -1151,6 +1151,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Zeri, the Spark of Zaun",
+        "url": "https://open.spotify.com/album/5Cco6XUss3Ws0CMyPUaLOQ"
+      },
+      "artists": [
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        },
+        {
+          "name": "Lauren Babic",
+          "url": "https://open.spotify.com/artist/6nT7RjBCuuggrafnb43vUX"
+        }
+      ],
+      "duration_ms": 213362,
+      "name": "Zeri, the Spark of Zaun",
+      "url": "https://open.spotify.com/track/6q7tXbbAOFY9qMT6LMKHnA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Soul Fighter (Original Soundtrack)",
         "url": "https://open.spotify.com/album/6WtdFxF33VJGO1gy3Gl1Ga"
       },
@@ -1171,26 +1191,6 @@
       "duration_ms": 207882,
       "name": "Coming Alive",
       "url": "https://open.spotify.com/track/6BeqTTy15ExY8rFFY6aQRk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Zeri, the Spark of Zaun",
-        "url": "https://open.spotify.com/album/5Cco6XUss3Ws0CMyPUaLOQ"
-      },
-      "artists": [
-        {
-          "name": "League of Legends",
-          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
-        },
-        {
-          "name": "Lauren Babic",
-          "url": "https://open.spotify.com/artist/6nT7RjBCuuggrafnb43vUX"
-        }
-      ],
-      "duration_ms": 213362,
-      "name": "Zeri, the Spark of Zaun",
-      "url": "https://open.spotify.com/track/6q7tXbbAOFY9qMT6LMKHnA"
     },
     {
       "added_at": null,

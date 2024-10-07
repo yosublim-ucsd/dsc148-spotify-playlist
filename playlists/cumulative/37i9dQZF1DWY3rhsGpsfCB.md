@@ -4,7 +4,7 @@
 
 > Smooth soul\-inspired tracks
 
-656 songs - 1 day 10 hr 5 min
+657 songs - 1 day 10 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -245,6 +245,7 @@
 | [HOW FAR](https://open.spotify.com/track/5UFBcKCxVaP7vEbD0BIOnl) | [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC), [GR!](https://open.spotify.com/artist/3OLtlWxh8Ht9pL5ke6gFkd), [Hook](https://open.spotify.com/artist/0d2cvrJfsN0fBd6WuwwlDQ) | [HOW FAR](https://open.spotify.com/album/3G1SyZ8rYlbONtvTRtmo0W) | 3:40 | 2024-05-17 | 2024-06-01 |
 | [Hrs & Hrs](https://open.spotify.com/track/3M5azWqeZbfoVkGXygatlb) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Public Displays Of Affection](https://open.spotify.com/album/2ngrG39dI2ofhCxjmFnKv5) | 3:24 | 2022-06-24 | 2022-10-01 |
 | [Hypé \(feat\. Ayra Starr\)](https://open.spotify.com/track/6oi6AAmRd2IbanRMQZC39J) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Hypé \(feat\. Ayra Starr\)](https://open.spotify.com/album/5RuD9wVp96jSA1Lx1pZNYD) | 2:37 | 2024-03-08 |  |
+| [I Do \(feat\. Muni Long\)](https://open.spotify.com/track/5TbYIeYkGgGtYL7sms7m9N) | [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [JADED](https://open.spotify.com/album/1XcpYmfE4vYCKeLQYINlO7) | 2:46 | 2024-10-04 |  |
 | [I Got You](https://open.spotify.com/track/7vF63z20Gyd0oZU8jYqGgX) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Sounds of My World \(Deluxe\)](https://open.spotify.com/album/3enpMKYHm54sPooLM6heYY) | 2:32 | 2022-08-05 | 2023-02-24 |
 | [I Hate That I Care](https://open.spotify.com/track/2PQSqRFBhbPtQ39sHRbZkE) | [Lloyiso](https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g) | [I Hate That I Care](https://open.spotify.com/album/76PLp48INGRaOBffDFT5t3) | 2:46 | 2023-11-17 | 2024-05-09 |
 | [I Lay \(feat\. Xenia Manasseh\)](https://open.spotify.com/track/3OfnodXWoUyR7bgKckTe5p) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86), [Kaien Cruz](https://open.spotify.com/artist/6iyDjhh4mDePK6LPSwlLGE) | [I Lay \(feat\. Xenia Manasseh\)](https://open.spotify.com/album/5ANLOAQ4aeLFY3XOsdJ48i) | 2:28 | 2023-09-21 | 2024-01-31 |
@@ -565,7 +566,7 @@
 | [Temporary \(feat\. Don Toliver\)](https://open.spotify.com/track/0bTiLwSo2xmhA6BcCXTOkx) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Since I Have A Lover](https://open.spotify.com/album/4ixavb1zLBMERcEWfsy8oC) | 2:58 | 2023-03-24 | 2023-09-15 |
 | [Temporary Love](https://open.spotify.com/track/502fO9MaTL1FXQxilajwW8) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [Temporary Love](https://open.spotify.com/album/7Ik6vXPyiM9jflElmt78cQ) | 2:36 | 2023-05-19 | 2023-06-17 |
 | [Temptation](https://open.spotify.com/track/3fQNGqh3o9uPfzHyJmFaSs) | [Nnashe](https://open.spotify.com/artist/5o0lTomGzanpzoNLZg7mDu) | [Temptation](https://open.spotify.com/album/23cOEXHFZ7zDqZBd9fRSyY) | 2:22 | 2024-05-24 | 2024-06-15 |
-| [TEQUILA](https://open.spotify.com/track/3meLEmr860diy8furP4Bff) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I), [Reekado Banks](https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn) | [TEQUILA](https://open.spotify.com/album/5zpxn2BLJyQ9gZcKfKq8RX) | 3:25 | 2024-06-07 |  |
+| [TEQUILA](https://open.spotify.com/track/3meLEmr860diy8furP4Bff) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I), [Reekado Banks](https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn) | [TEQUILA](https://open.spotify.com/album/5zpxn2BLJyQ9gZcKfKq8RX) | 3:25 | 2024-06-07 | 2024-10-07 |
 | [Tequila](https://open.spotify.com/track/2hYAJlWTCGudlEsjR9D0Bn) | [Savara](https://open.spotify.com/artist/4FjLrdzDbqrP9E9FzERGap) | [No Overthinking](https://open.spotify.com/album/6CNWE1pHJvDPl42MGmf3gh) | 3:15 | 2024-05-10 | 2024-06-01 |
 | [Test Me](https://open.spotify.com/track/45VPTngfUEF7c5rBI2IOja) | [Jeune Lio](https://open.spotify.com/artist/1zz3LkV2ojd7rzmYf2QOsF), [Chrystel](https://open.spotify.com/artist/256du56ykQ0aoQBdKFCDH0), [Yung D3mz](https://open.spotify.com/artist/2PWdxiDyY5rv1qBHEUfqQf) | [A Night In Cocody](https://open.spotify.com/album/7HX3XJ5NzMPUVBkzYRQtWQ) | 3:40 | 2022-06-24 | 2023-04-17 |
 | [Test Me](https://open.spotify.com/track/7cb8EEwS3csiKjiee33ZP2) | [Jeune Lio](https://open.spotify.com/artist/1zz3LkV2ojd7rzmYf2QOsF), [Chrystel](https://open.spotify.com/artist/256du56ykQ0aoQBdKFCDH0), [Yung D3mz](https://open.spotify.com/artist/2PWdxiDyY5rv1qBHEUfqQf) | [A Night In Cocody](https://open.spotify.com/album/7fj4P4j4HNVXX5PZtMaEi2) | 3:40 | 2023-04-21 | 2023-11-03 |

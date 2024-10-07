@@ -1,6 +1,6 @@
 {
   "description": "The very best acoustic songs from singer-songwriters making waves. Cover: Jessica Pratt",
-  "num_followers": 152670,
+  "num_followers": 152673,
   "original_name": "Women of Acoustic",
   "owner": {
     "name": "Spotify",
@@ -447,22 +447,6 @@
     {
       "added_at": "2024-08-23 14:16:37",
       "album": {
-        "name": "Evergreen",
-        "url": "https://open.spotify.com/album/1HryQNC9G8s4bjtfCf66xf"
-      },
-      "artists": [
-        {
-          "name": "Delaney Bailey",
-          "url": "https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Evergreen",
-      "url": "https://open.spotify.com/track/1BeVLZu8ifoIjjLcLGENBh"
-    },
-    {
-      "added_at": "2024-08-23 14:16:37",
-      "album": {
         "name": "My Ego Dies At The End",
         "url": "https://open.spotify.com/album/5OBhCOu9PsEEcLldCbwDn8"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 242644,
       "name": "My Ego Dies At The End",
       "url": "https://open.spotify.com/track/7wWr0jb8Z1FZaEkb977AK0"
+    },
+    {
+      "added_at": "2024-08-23 14:16:37",
+      "album": {
+        "name": "Evergreen",
+        "url": "https://open.spotify.com/album/1HryQNC9G8s4bjtfCf66xf"
+      },
+      "artists": [
+        {
+          "name": "Delaney Bailey",
+          "url": "https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Evergreen",
+      "url": "https://open.spotify.com/track/1BeVLZu8ifoIjjLcLGENBh"
     },
     {
       "added_at": "2024-08-23 14:16:37",
@@ -723,22 +723,6 @@
     {
       "added_at": "2024-08-23 14:16:37",
       "album": {
-        "name": "Because I Wanted You to Know",
-        "url": "https://open.spotify.com/album/4t4kHyQ0DvmfYYHJITb9l8"
-      },
-      "artists": [
-        {
-          "name": "Matilda Mann",
-          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
-        }
-      ],
-      "duration_ms": 184301,
-      "name": "As It Is",
-      "url": "https://open.spotify.com/track/3nqhacrhmERFCAO6YTCAMB"
-    },
-    {
-      "added_at": "2024-08-23 14:16:37",
-      "album": {
         "name": "World On The Ground",
         "url": "https://open.spotify.com/album/7vI29Msu8k0wpFUittUvAH"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 180240,
       "name": "Hometown",
       "url": "https://open.spotify.com/track/4Ffh52csT3bI7hVoih1vo1"
+    },
+    {
+      "added_at": "2024-08-23 14:16:37",
+      "album": {
+        "name": "Because I Wanted You to Know",
+        "url": "https://open.spotify.com/album/4t4kHyQ0DvmfYYHJITb9l8"
+      },
+      "artists": [
+        {
+          "name": "Matilda Mann",
+          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
+        }
+      ],
+      "duration_ms": 184301,
+      "name": "As It Is",
+      "url": "https://open.spotify.com/track/3nqhacrhmERFCAO6YTCAMB"
     },
     {
       "added_at": "2024-08-23 14:16:37",
@@ -803,22 +803,6 @@
     {
       "added_at": "2024-08-23 14:16:37",
       "album": {
-        "name": "With You - A Sweet Little Love Song Demo",
-        "url": "https://open.spotify.com/album/3lQhFqO6d6t4FULaRHSAJJ"
-      },
-      "artists": [
-        {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
-        }
-      ],
-      "duration_ms": 154573,
-      "name": "With You - A Sweet Little Love Song Demo",
-      "url": "https://open.spotify.com/track/1RbhQxFFJM7QNKALY5JebS"
-    },
-    {
-      "added_at": "2024-08-23 14:16:37",
-      "album": {
         "name": "Call My Name",
         "url": "https://open.spotify.com/album/0vnEKpCttcVJxw41Im2f2a"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 197458,
       "name": "Call My Name - Acoustic",
       "url": "https://open.spotify.com/track/2TpebHjbc4D2OPrCar0119"
+    },
+    {
+      "added_at": "2024-08-23 14:16:37",
+      "album": {
+        "name": "With You - A Sweet Little Love Song Demo",
+        "url": "https://open.spotify.com/album/3lQhFqO6d6t4FULaRHSAJJ"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "duration_ms": 154573,
+      "name": "With You - A Sweet Little Love Song Demo",
+      "url": "https://open.spotify.com/track/1RbhQxFFJM7QNKALY5JebS"
     },
     {
       "added_at": "2024-08-23 14:16:37",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2024-08-23 14:16:37",
       "album": {
-        "name": "j's lullaby (darlin' i'd wait for you)",
-        "url": "https://open.spotify.com/album/5AgFxBgabzR7iCsuzeibrT"
-      },
-      "artists": [
-        {
-          "name": "Delaney Bailey",
-          "url": "https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp"
-        }
-      ],
-      "duration_ms": 290132,
-      "name": "j's lullaby (darlin' i'd wait for you)",
-      "url": "https://open.spotify.com/track/7LNm1oWd6PniO9wRYpNY5o"
-    },
-    {
-      "added_at": "2024-08-23 14:16:37",
-      "album": {
         "name": "While I Was Asleep",
         "url": "https://open.spotify.com/album/7jQ7ceeE30vZUGibxHNWVc"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 238546,
       "name": "Rolling On",
       "url": "https://open.spotify.com/track/4kOLAEpK2YKpcMMnjVdiXy"
+    },
+    {
+      "added_at": "2024-08-23 14:16:37",
+      "album": {
+        "name": "j's lullaby (darlin' i'd wait for you)",
+        "url": "https://open.spotify.com/album/5AgFxBgabzR7iCsuzeibrT"
+      },
+      "artists": [
+        {
+          "name": "Delaney Bailey",
+          "url": "https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp"
+        }
+      ],
+      "duration_ms": 290132,
+      "name": "j's lullaby (darlin' i'd wait for you)",
+      "url": "https://open.spotify.com/track/7LNm1oWd6PniO9wRYpNY5o"
     },
     {
       "added_at": "2024-08-23 14:16:37",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2024-08-23 14:16:37",
       "album": {
-        "name": "Bad Luck Bad Habit",
-        "url": "https://open.spotify.com/album/2K0GCEkTtUgBXWk1KGyzeA"
-      },
-      "artists": [
-        {
-          "name": "Alycia Lang",
-          "url": "https://open.spotify.com/artist/7tjNex1evNPneJtpH3Lps8"
-        }
-      ],
-      "duration_ms": 210256,
-      "name": "Bad Luck Bad Habit",
-      "url": "https://open.spotify.com/track/0o394lDZL07bwAv8K11yDj"
-    },
-    {
-      "added_at": "2024-08-23 14:16:37",
-      "album": {
         "name": "Awake Me (Acoustic)",
         "url": "https://open.spotify.com/album/78Du9LnVvLDyWbISr3dSCR"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 312789,
       "name": "Awake Me - Acoustic",
       "url": "https://open.spotify.com/track/5XrJkrEfUx0UeTWzQeqO1k"
+    },
+    {
+      "added_at": "2024-08-23 14:16:37",
+      "album": {
+        "name": "Bad Luck Bad Habit",
+        "url": "https://open.spotify.com/album/2K0GCEkTtUgBXWk1KGyzeA"
+      },
+      "artists": [
+        {
+          "name": "Alycia Lang",
+          "url": "https://open.spotify.com/artist/7tjNex1evNPneJtpH3Lps8"
+        }
+      ],
+      "duration_ms": 210256,
+      "name": "Bad Luck Bad Habit",
+      "url": "https://open.spotify.com/track/0o394lDZL07bwAv8K11yDj"
     },
     {
       "added_at": "2024-08-23 14:16:37",

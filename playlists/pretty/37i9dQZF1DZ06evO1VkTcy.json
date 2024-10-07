@@ -1,12 +1,12 @@
 {
   "description": "This is Lourena. The essential tracks, all in one playlist.",
-  "num_followers": 21699,
+  "num_followers": 21700,
   "original_name": "This Is Lourena",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zv3egAAAAADXnYr/Qw6fhrUjLI6YfEX6",
+  "snapshot_id": "ZwCBgAAAAAC2za8J8OC1lkZ5qrF0Gc1w",
   "tracks": [
     {
       "added_at": null,
@@ -631,30 +631,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Um Pouco de Mim",
-        "url": "https://open.spotify.com/album/2xhrb0Bg1uXDUoB6zDJgKv"
-      },
-      "artists": [
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        },
-        {
-          "name": "Pineapple StormTv",
-          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
-        },
-        {
-          "name": "MC Hariel",
-          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
-        }
-      ],
-      "duration_ms": 198260,
-      "name": "Cupido Querido",
-      "url": "https://open.spotify.com/track/0hGMJl9fF67jCgMYBr8MDa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Amor Livre",
         "url": "https://open.spotify.com/album/4IUX7jygRntlpHKwaLen5z"
       },
@@ -687,6 +663,30 @@
       "duration_ms": 225608,
       "name": "Amor Livre",
       "url": "https://open.spotify.com/track/1k6JvHGHVQPV1qeFmtnKWs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Um Pouco de Mim",
+        "url": "https://open.spotify.com/album/2xhrb0Bg1uXDUoB6zDJgKv"
+      },
+      "artists": [
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+        },
+        {
+          "name": "MC Hariel",
+          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
+        }
+      ],
+      "duration_ms": 198260,
+      "name": "Cupido Querido",
+      "url": "https://open.spotify.com/track/0hGMJl9fF67jCgMYBr8MDa"
     },
     {
       "added_at": null,
@@ -915,26 +915,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "O Seu Grande Amor",
-        "url": "https://open.spotify.com/album/4Vxv79QNhSASp4hodVNKJS"
-      },
-      "artists": [
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        },
-        {
-          "name": "Haga",
-          "url": "https://open.spotify.com/artist/5LmwSGneAmeX78pWDTbq8o"
-        }
-      ],
-      "duration_ms": 211896,
-      "name": "O Seu Grande Amor",
-      "url": "https://open.spotify.com/track/5dCHsx2BfXrBUrByaLeBqq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Posturadin",
         "url": "https://open.spotify.com/album/66QOsOeesc7RCRddsMOLKo"
       },
@@ -963,6 +943,26 @@
       "duration_ms": 226521,
       "name": "Posturadin",
       "url": "https://open.spotify.com/track/60nf4kVvOPfKPL8C9INkCI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "O Seu Grande Amor",
+        "url": "https://open.spotify.com/album/4Vxv79QNhSASp4hodVNKJS"
+      },
+      "artists": [
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "Haga",
+          "url": "https://open.spotify.com/artist/5LmwSGneAmeX78pWDTbq8o"
+        }
+      ],
+      "duration_ms": 211896,
+      "name": "O Seu Grande Amor",
+      "url": "https://open.spotify.com/track/5dCHsx2BfXrBUrByaLeBqq"
     },
     {
       "added_at": null,
@@ -1015,26 +1015,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Um Pouco de Mim",
-        "url": "https://open.spotify.com/album/2xhrb0Bg1uXDUoB6zDJgKv"
+        "name": "Poesia Ac\u00fastica #9: Melhor Forma (LOCOS Remix)",
+        "url": "https://open.spotify.com/album/0T25XNwakPTqyCio9TaeKJ"
       },
       "artists": [
         {
+          "name": "LOCOS",
+          "url": "https://open.spotify.com/artist/5hj8WfJMICGwPJlihxIpmE"
+        },
+        {
+          "name": "Salve Malak",
+          "url": "https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0"
+        },
+        {
           "name": "Lourena",
           "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        },
-        {
-          "name": "Pineapple StormTv",
-          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
-        },
-        {
-          "name": "Ajaxx",
-          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
         }
       ],
-      "duration_ms": 174797,
-      "name": "F\u00e9 no caminho",
-      "url": "https://open.spotify.com/track/6zVcsaPAIqzS6ykbxCHFb6"
+      "duration_ms": 113442,
+      "name": "Poesia Ac\u00fastica #9: Melhor Forma - LOCOS Remix",
+      "url": "https://open.spotify.com/track/7z3OQBFYClg9rHbUX2o0yQ"
     },
     {
       "added_at": null,
@@ -1063,8 +1063,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chore N\u00e3o",
-        "url": "https://open.spotify.com/album/1AxgqUpUQOP16G1MJq5ERn"
+        "name": "Um Pouco de Mim",
+        "url": "https://open.spotify.com/album/2xhrb0Bg1uXDUoB6zDJgKv"
       },
       "artists": [
         {
@@ -1072,13 +1072,17 @@
           "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
         },
         {
-          "name": "Haga",
-          "url": "https://open.spotify.com/artist/5LmwSGneAmeX78pWDTbq8o"
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+        },
+        {
+          "name": "Ajaxx",
+          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
         }
       ],
-      "duration_ms": 176111,
-      "name": "Chore N\u00e3o",
-      "url": "https://open.spotify.com/track/6N1HbvxPCd4cP82dtVL0tk"
+      "duration_ms": 174797,
+      "name": "F\u00e9 no caminho",
+      "url": "https://open.spotify.com/track/6zVcsaPAIqzS6ykbxCHFb6"
     },
     {
       "added_at": null,
@@ -1103,32 +1107,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Poesia Ac\u00fastica #9: Melhor Forma (LOCOS Remix)",
-        "url": "https://open.spotify.com/album/0T25XNwakPTqyCio9TaeKJ"
-      },
-      "artists": [
-        {
-          "name": "LOCOS",
-          "url": "https://open.spotify.com/artist/5hj8WfJMICGwPJlihxIpmE"
-        },
-        {
-          "name": "Salve Malak",
-          "url": "https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0"
-        },
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        }
-      ],
-      "duration_ms": 113442,
-      "name": "Poesia Ac\u00fastica #9: Melhor Forma - LOCOS Remix",
-      "url": "https://open.spotify.com/track/7z3OQBFYClg9rHbUX2o0yQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Um Pouco de Mim",
-        "url": "https://open.spotify.com/album/2xhrb0Bg1uXDUoB6zDJgKv"
+        "name": "Chore N\u00e3o",
+        "url": "https://open.spotify.com/album/1AxgqUpUQOP16G1MJq5ERn"
       },
       "artists": [
         {
@@ -1136,37 +1116,13 @@
           "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
         },
         {
-          "name": "Pineapple StormTv",
-          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
-        },
-        {
-          "name": "DJ Thi Marquez",
-          "url": "https://open.spotify.com/artist/3PqV7Fyye1JcHwZHQ8BjoA"
+          "name": "Haga",
+          "url": "https://open.spotify.com/artist/5LmwSGneAmeX78pWDTbq8o"
         }
       ],
-      "duration_ms": 179310,
-      "name": "Ressentimento",
-      "url": "https://open.spotify.com/track/1JEVUqr2B689BR4ST2Z2Ll"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "At\u00e9 o Mundo Acabar",
-        "url": "https://open.spotify.com/album/3wse1sgsXwXB74OhpxCKgm"
-      },
-      "artists": [
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        },
-        {
-          "name": "L\u00e9o Casa 1",
-          "url": "https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD"
-        }
-      ],
-      "duration_ms": 204520,
-      "name": "At\u00e9 o Mundo Acabar",
-      "url": "https://open.spotify.com/track/258gDjrmgUzuWkNXqdIAQP"
+      "duration_ms": 176111,
+      "name": "Chore N\u00e3o",
+      "url": "https://open.spotify.com/track/6N1HbvxPCd4cP82dtVL0tk"
     },
     {
       "added_at": null,
@@ -1191,6 +1147,50 @@
       "duration_ms": 179467,
       "name": "N\u00f3s Dois",
       "url": "https://open.spotify.com/track/3Wgk2vYJhxV8ks2LXpEMhI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "At\u00e9 o Mundo Acabar",
+        "url": "https://open.spotify.com/album/3wse1sgsXwXB74OhpxCKgm"
+      },
+      "artists": [
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "L\u00e9o Casa 1",
+          "url": "https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD"
+        }
+      ],
+      "duration_ms": 204520,
+      "name": "At\u00e9 o Mundo Acabar",
+      "url": "https://open.spotify.com/track/258gDjrmgUzuWkNXqdIAQP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Um Pouco de Mim",
+        "url": "https://open.spotify.com/album/2xhrb0Bg1uXDUoB6zDJgKv"
+      },
+      "artists": [
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+        },
+        {
+          "name": "DJ Thi Marquez",
+          "url": "https://open.spotify.com/artist/3PqV7Fyye1JcHwZHQ8BjoA"
+        }
+      ],
+      "duration_ms": 179310,
+      "name": "Ressentimento",
+      "url": "https://open.spotify.com/track/1JEVUqr2B689BR4ST2Z2Ll"
     },
     {
       "added_at": null,
@@ -1239,26 +1239,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "O Mundo Parou",
-        "url": "https://open.spotify.com/album/1WB7QHhc876rkNBgJBo1oU"
-      },
-      "artists": [
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        },
-        {
-          "name": "Haga",
-          "url": "https://open.spotify.com/artist/5LmwSGneAmeX78pWDTbq8o"
-        }
-      ],
-      "duration_ms": 223354,
-      "name": "O Mundo Parou",
-      "url": "https://open.spotify.com/track/6qXQLRHwGMpocPeVvHzG11"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tudo Vai Mudar",
         "url": "https://open.spotify.com/album/1Zk0KKqRWihfdboFzblnwt"
       },
@@ -1299,6 +1279,26 @@
       "duration_ms": 187564,
       "name": "S\u00f3 Mais Uma Vez",
       "url": "https://open.spotify.com/track/2QGcSUUq9dKu2DGkTUIDu5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "O Mundo Parou",
+        "url": "https://open.spotify.com/album/1WB7QHhc876rkNBgJBo1oU"
+      },
+      "artists": [
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "Haga",
+          "url": "https://open.spotify.com/artist/5LmwSGneAmeX78pWDTbq8o"
+        }
+      ],
+      "duration_ms": 223354,
+      "name": "O Mundo Parou",
+      "url": "https://open.spotify.com/track/6qXQLRHwGMpocPeVvHzG11"
     },
     {
       "added_at": null,

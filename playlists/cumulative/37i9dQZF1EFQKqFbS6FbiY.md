@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2849WwDsNlt9FpSLivBw2v">Waleria Leão</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-562 songs - 1 day 3 hr 21 min
+564 songs - 1 day 3 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,7 +87,8 @@
 | [Beija Ninguém Não \- Ao Vivo](https://open.spotify.com/track/2PEZJ8rAsitCPpfAD5OhrI) | [Mariana Fagundes](https://open.spotify.com/artist/63yBOaK3N1kG2g1M5ZxBox) | [Ah!Mar \(Ao Vivo\)](https://open.spotify.com/album/7JGn88yc2fflE6GkpNhwVb) | 2:52 | 2023-12-30 |  |
 | [Beijo De Superação \- Ao Vivo](https://open.spotify.com/track/4x971HdBJSbc1opgywfGaG) | [João Bosco e Gabriel](https://open.spotify.com/artist/21WAvVROZ83oUvJwFTG2dH) | [Diamantes \(Ao Vivo\)](https://open.spotify.com/album/51RrIkdDUNegjFJLquViqX) | 2:38 | 2024-03-26 |  |
 | [Beijo e Tchau](https://open.spotify.com/track/6rlI7vvonttOIONVzbyfSG) | [Tayna Agazzi](https://open.spotify.com/artist/397tUN3oFCSHa80xpj0b6B), [Naiara Azevedo](https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l) | [Beijo e Tchau](https://open.spotify.com/album/1E9PvdLe7NfImBCrOMv7nU) | 3:07 | 2023-12-30 |  |
-| [Beijo Misturado](https://open.spotify.com/track/1vffSXM7Ofv8YkATg130fs) | [Fiorella](https://open.spotify.com/artist/6cX9Qyl1Ug5lli2y2yBm52) | [Meio Cidade / Meio Interior EP\. 1](https://open.spotify.com/album/4GeqgapIZZLqzH8Ow5RPiG) | 2:28 | 2024-09-25 |  |
+| [Beijo Misturado](https://open.spotify.com/track/1vffSXM7Ofv8YkATg130fs) | [Fiorella](https://open.spotify.com/artist/6cX9Qyl1Ug5lli2y2yBm52) | [Meio Cidade / Meio Interior EP\. 1](https://open.spotify.com/album/4GeqgapIZZLqzH8Ow5RPiG) | 2:28 | 2024-09-25 | 2024-10-07 |
+| [Beijo Misturado](https://open.spotify.com/track/3TDKF1QuNERsAdiPn3HfOW) | [Fiorella](https://open.spotify.com/artist/6cX9Qyl1Ug5lli2y2yBm52) | [Meio Cidade / Meio Interior EP\. 1](https://open.spotify.com/album/1MlcxSB05CeMatnJ0CnM4c) | 2:28 | 2024-10-06 |  |
 | [Bem Dada](https://open.spotify.com/track/66j9Z2UTR9shv041n42UX2) | [Diego Franco & Rafael](https://open.spotify.com/artist/6ZIm24FzNXL4HN5O8Dv4aq) | [Bem Dada](https://open.spotify.com/album/5TJB5lLhHlkpRIdBojFkWL) | 2:39 | 2023-12-30 |  |
 | [Bem Longe de Você](https://open.spotify.com/track/2pv3kN9taPduP7MKlTzk9Q) | [Althaír & Alexandre](https://open.spotify.com/artist/6UtAd1rrgAMSdH8uF8AvqL) | [Composições](https://open.spotify.com/album/4WKb9ZZMwxzjIm64sM9kxs) | 3:19 | 2023-12-30 |  |
 | [Bloqueia Desbloqueia](https://open.spotify.com/track/79VvHTQvov4VxxLlferepm) | [Avine Vinny](https://open.spotify.com/artist/4KDxYlnGZEiS60pAnfZf4W), [Gabi Martins](https://open.spotify.com/artist/3bMxoALDz4DJM8pJG0bnvs) | [Naturalmente](https://open.spotify.com/album/7bDfs6Kve80q3rNgBJ0vff) | 2:46 | 2023-12-30 |  |
@@ -282,7 +283,8 @@
 | [Janela de Vidro \- Ao Vivo](https://open.spotify.com/track/3MiSZKZ92a8cgYiLRfjBBR) | [Gabriel Diniz](https://open.spotify.com/artist/3WQ1s2QFvL6crxBvrVhwzj) | [Gd at the Park \(Ao Vivo\)](https://open.spotify.com/album/1RlyFbls2RLh0kWemnkykl) | 3:07 | 2023-12-30 |  |
 | [Judia Mas Volta \- Ao Vivo](https://open.spotify.com/track/78eTWn9UkKrgiFxV5P0GOP) | [Diego & Arnaldo](https://open.spotify.com/artist/0CrGLmfVKzk9rAyiNb91ft) | [Judia Mas Volta \(Ao Vivo\)](https://open.spotify.com/album/4EvZ79C8hpuKnws4o1bYaS) | 2:29 | 2023-12-30 |  |
 | [Labiazinha](https://open.spotify.com/track/1dHGB7Ay2Cq9OrpxSrnwID) | [Fiorella](https://open.spotify.com/artist/6cX9Qyl1Ug5lli2y2yBm52) | [Meio Cidade / Meio Interior EP\. 1](https://open.spotify.com/album/1Def8valDFweGxVkDHoHpe) | 2:58 | 2024-08-25 | 2024-08-29 |
-| [Labiazinha](https://open.spotify.com/track/5xtuLXRbUcmQ4R5aQAjqvx) | [Fiorella](https://open.spotify.com/artist/6cX9Qyl1Ug5lli2y2yBm52) | [Meio Cidade / Meio Interior EP\. 1](https://open.spotify.com/album/4GeqgapIZZLqzH8Ow5RPiG) | 2:58 | 2024-08-28 |  |
+| [Labiazinha](https://open.spotify.com/track/4pQaEpZxby2nbfpU9UbTsv) | [Fiorella](https://open.spotify.com/artist/6cX9Qyl1Ug5lli2y2yBm52) | [Meio Cidade / Meio Interior EP\. 1](https://open.spotify.com/album/1MlcxSB05CeMatnJ0CnM4c) | 2:58 | 2024-10-06 |  |
+| [Labiazinha](https://open.spotify.com/track/5xtuLXRbUcmQ4R5aQAjqvx) | [Fiorella](https://open.spotify.com/artist/6cX9Qyl1Ug5lli2y2yBm52) | [Meio Cidade / Meio Interior EP\. 1](https://open.spotify.com/album/4GeqgapIZZLqzH8Ow5RPiG) | 2:58 | 2024-08-28 | 2024-10-07 |
 | [Ladra de Sonhos \- Ao Vivo](https://open.spotify.com/track/217uGYqLm5iEX4sLaqPaCX) | [Lincoln e Marcelo](https://open.spotify.com/artist/5PxvIFapTE14XRPRfOPe4g), [Bruno](https://open.spotify.com/artist/6XXk08O8PJ8rxN9DsLJaCT) | [Você Me Traz Paz, ao Vivo em Goiânia](https://open.spotify.com/album/1AzjBo92e872OZuOKhCiJB) | 3:13 | 2023-12-30 |  |
 | [Latada Na Vida \- Ao Vivo Em São Paulo / 2019](https://open.spotify.com/track/4A7ou2QZzuwGY1YmBvMncy) | [Júlia & Rafaela](https://open.spotify.com/artist/7JJBuq3tgc4y2NO0TqAm02), [Felipe Araújo](https://open.spotify.com/artist/47uyFQHOD02S0lj9ptRpoB) | [Despertar \- A Série \- Ao Vivo Em São Paulo / 2019](https://open.spotify.com/album/0Z9R80X33v3rvVcTqtywkP) | 2:28 | 2023-12-30 |  |
 | [Laudo](https://open.spotify.com/track/5FSgHps0zSSwbVp0bNPuDe) | [Edson & Hudson](https://open.spotify.com/artist/6zpNfYJcPavd1pqLXKiSvl) | [Foi Deus, Vol\. 1](https://open.spotify.com/album/3kww8Qg2g6ZGURQO5YS0bq) | 2:20 | 2023-12-30 | 2024-01-22 |

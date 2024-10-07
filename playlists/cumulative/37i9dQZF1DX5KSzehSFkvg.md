@@ -4,7 +4,7 @@
 
 > Les meilleurs hits de la pop maghrébine\. Cover: Manal
 
-148 songs - 8 hr 4 min
+149 songs - 8 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [9SARA D LIL](https://open.spotify.com/track/6oYWJ2jG1gaRJcbaFUyDtb) | [MA3IZ](https://open.spotify.com/artist/6T4HJ0ayzxLWDbktdiBe3l) | [9SARA D LIL](https://open.spotify.com/album/2sHdewHBibMmkRCD1z30g9) | 3:09 | 2023-07-07 | 2024-04-24 |
 | [Abala Ya Bali](https://open.spotify.com/track/2a1dUbvOaZw7vrHNanpi3r) | [Ayoub Anbaoui](https://open.spotify.com/artist/2XgBaGUId4RuYzvXYEKikZ) | [Abala Ya Bali](https://open.spotify.com/album/50QN0SwbM2iAa5DylaLYN1) | 3:48 | 2023-07-07 | 2024-07-03 |
 | [Ach Dani](https://open.spotify.com/track/03hSOAM899HlEuFTKVblWf) | [Duke](https://open.spotify.com/artist/6JLJjTC6pSfJousfGwdn6r) | [Ach Dani](https://open.spotify.com/album/1wTs4aENoCZCWFWGSeOord) | 2:55 | 2024-05-29 |  |
+| [AGHARAS](https://open.spotify.com/track/1cWINvhvBXtDhK8GpK0gZn) | [Lbenj](https://open.spotify.com/artist/1H0D7p5aN8tGG8DPLt0Nbv) | [AGHARAS](https://open.spotify.com/album/0FJGdzI9d4duBcf0pJfrh2) | 3:27 | 2024-10-06 |  |
 | [Ajini](https://open.spotify.com/track/2u2ZXCZLrm5lJcD8mi9GlG) | [Mounim Slimani](https://open.spotify.com/artist/2UaKdyrJWdpkRl9KbwcN38) | [Ajini](https://open.spotify.com/album/5cKUuxhE06AI8Mc5NfjCKf) | 2:48 | 2023-07-07 | 2024-04-19 |
 | [Ajini](https://open.spotify.com/track/5YwpA9KqbnVq05XcP2m2I6) | [Mounim Slimani](https://open.spotify.com/artist/2UaKdyrJWdpkRl9KbwcN38) | [Ajini](https://open.spotify.com/album/2FhuJD75gtB0BbSlrlvcvj) | 2:48 | 2024-04-17 | 2024-06-15 |
 | [Alaise](https://open.spotify.com/track/2Q2s8px0dqAeyUylvZr1u4) | [Aminux](https://open.spotify.com/artist/4BgFW9XAMsJMkMZQJ6lGD9) | [Alaise](https://open.spotify.com/album/2bsjO6jSKij9v47QD4LO9C) | 2:26 | 2023-12-17 | 2024-08-29 |
@@ -52,7 +53,7 @@
 | [Dima Mechi](https://open.spotify.com/track/4FqzaLISWmn42eDkTenweI) | [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR) | [Dima Mechi \(ديما ماشي\)](https://open.spotify.com/album/7dcTaS0a7Sp7XafbHbLYf5) | 4:45 | 2023-07-07 | 2024-08-20 |
 | [DRAILL](https://open.spotify.com/track/2UYZDBQ89KYUdU3CspLZJ2) | [MA3IZ](https://open.spotify.com/artist/6T4HJ0ayzxLWDbktdiBe3l) | [DRAILL](https://open.spotify.com/album/4Sx9SrFQdcCD5pSY6bwU8M) | 3:40 | 2023-07-07 | 2024-01-04 |
 | [El 7ob Sa3b](https://open.spotify.com/track/4MN8tKKz1Sld1OhJPemc5G) | [Masri](https://open.spotify.com/artist/39HzY56JWtwfoUXlSOwrRA), [Chirin](https://open.spotify.com/artist/78eKt1TmrCJOQywv5VUpEv) | [El 7ob Sa3b](https://open.spotify.com/album/2G28Q9Sn9WWgPFuCd5fWU8) | 2:22 | 2023-11-28 | 2024-06-01 |
-| [El Hob Saaib](https://open.spotify.com/track/4bYW1TxbDO22wBTOIIMUwC) | [Douzi](https://open.spotify.com/artist/2elOTj4JyFOFPiZOcn4RNG) | [El Hob Saaib](https://open.spotify.com/album/4W5cxfCoUq7Tym9sJ3qaBO) | 3:36 | 2023-07-13 |  |
+| [El Hob Saaib](https://open.spotify.com/track/4bYW1TxbDO22wBTOIIMUwC) | [Douzi](https://open.spotify.com/artist/2elOTj4JyFOFPiZOcn4RNG) | [El Hob Saaib](https://open.spotify.com/album/4W5cxfCoUq7Tym9sJ3qaBO) | 3:36 | 2023-07-13 | 2024-10-07 |
 | [Ena w Lil](https://open.spotify.com/track/6LtMDz7Nwtk96t4kcIECSC) | [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn) | [Ena w Lil](https://open.spotify.com/album/2izxjq31e1G4SxNBAxvMJl) | 3:14 | 2023-07-07 | 2023-12-22 |
 | [Favori](https://open.spotify.com/track/48kp069SRdTvuGFobRyhlQ) | [Yasmine Belkacem](https://open.spotify.com/artist/7EmOe92RLgv1axv2KyxGVR), [Tarek Kadem](https://open.spotify.com/artist/43BDWBOkq6wZHr9UNmqSHw) | [Favori](https://open.spotify.com/album/3nGqVqbJSdDkM6ma5NGpO6) | 3:20 | 2023-12-21 | 2024-05-17 |
 | [FEL HAWA SAWA](https://open.spotify.com/track/6dWnQFvP0rj5VgTdKEHtBE) | [Larbi Imghrane](https://open.spotify.com/artist/1YVSmUGMeeVFoA54ZX1vvg), [Zakaria Ghafouli](https://open.spotify.com/artist/5m3exVDqKodrTlc3jECMTD) | [FEL HAWA SAWA](https://open.spotify.com/album/07uJOfbHCHwkQ3x3hlW1Es) | 3:12 | 2023-11-30 |  |

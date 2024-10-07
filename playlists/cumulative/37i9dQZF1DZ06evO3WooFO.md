@@ -2,9 +2,9 @@
 
 ### [This Is blink\-182](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3WooFO)
 
-> This Is blink\-182\. Les titres incontournables, réunis dans une seule et même playlist.
+> This is blink\-182\. The essential tracks, all in one playlist.
 
-101 songs - 5 hr 9 min
+102 songs - 5 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,8 @@
 | [After Midnight](https://open.spotify.com/track/27H8WsrkD5catdc3a2fCLV) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Neighborhoods \(Deluxe\)](https://open.spotify.com/album/2xSmzzqWM6cqaC92Hf7Dyv) | 3:26 | 2023-05-18 | 2023-08-11 |
 | [After Midnight](https://open.spotify.com/track/29bWDkf8qtCmsvDWOW55CJ) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Neighborhoods \(Deluxe Explicit Version\)](https://open.spotify.com/album/0KjLbdlJYvtzXjGTwPy3lv) | 3:26 | 2022-01-11 |  |
 | [Aliens Exist](https://open.spotify.com/track/3nqm3DdVskqbHhmb8S8hMd) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Enema Of The State](https://open.spotify.com/album/652N05EcNH1a4bIlUixQE2) | 3:13 | 2022-01-11 |  |
-| [ALL IN MY HEAD](https://open.spotify.com/track/7EapAReosYwfwAZbFYJysV) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [ALL IN MY HEAD / NO FUN](https://open.spotify.com/album/3bL8GdAgDbtbd6U9iIjS7T) | 2:42 | 2024-08-25 |  |
+| [ALL IN MY HEAD](https://open.spotify.com/track/5tf8vizOp6F8KO5ruUz3ee) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [ONE MORE TIME..\. PART\-2](https://open.spotify.com/album/3wU2wXacpwqetSRloR0nMX) | 2:42 | 2024-10-07 |  |
+| [ALL IN MY HEAD](https://open.spotify.com/track/7EapAReosYwfwAZbFYJysV) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [ALL IN MY HEAD / NO FUN](https://open.spotify.com/album/3bL8GdAgDbtbd6U9iIjS7T) | 2:42 | 2024-08-25 | 2024-10-07 |
 | [All The Small Things](https://open.spotify.com/track/2m1hi0nfMR9vdGC8UcrnwU) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Enema Of The State](https://open.spotify.com/album/652N05EcNH1a4bIlUixQE2) | 2:47 | 2022-01-11 |  |
 | [Always](https://open.spotify.com/track/3HM4NePuYAqdXpAGBk7nNz) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [blink\-182](https://open.spotify.com/album/4hBTxv4QRPePXCFcEI7Vjp) | 4:11 | 2022-01-11 | 2024-05-03 |
 | [Always](https://open.spotify.com/track/1JfNuvdAIqI3ggkzXuBvPp) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [blink\-182](https://open.spotify.com/album/6DMUAqxiFfLdqXv0vqcrQA) | 4:11 | 2024-05-03 |  |
@@ -80,7 +81,7 @@
 | [Obvious](https://open.spotify.com/track/1KcmugpUozu6Llj3p5Qboa) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [blink\-182](https://open.spotify.com/album/4hBTxv4QRPePXCFcEI7Vjp) | 2:43 | 2022-01-11 |  |
 | [ONE MORE TIME](https://open.spotify.com/track/1ja4311zfLHqUL96poSXfP) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [ONE MORE TIME...](https://open.spotify.com/album/1OteY9OFTmoZ0vmZT89wPd) | 3:28 | 2024-01-04 |  |
 | [ONE MORE TIME](https://open.spotify.com/track/5VEnzMXc8ocZko4M4TqnR2) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [ONE MORE TIME / MORE THAN YOU KNOW](https://open.spotify.com/album/12shcf6jYi3XhXxAL7U6N9) | 3:28 | 2023-09-25 | 2024-09-26 |
-| [ONE NIGHT STAND](https://open.spotify.com/track/1p7NQo7181BgyaqDD5Pq20) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [ONE MORE TIME..\. PART\-2](https://open.spotify.com/album/3wU2wXacpwqetSRloR0nMX) | 3:35 | 2024-09-08 |  |
+| [ONE NIGHT STAND](https://open.spotify.com/track/1p7NQo7181BgyaqDD5Pq20) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [ONE MORE TIME..\. PART\-2](https://open.spotify.com/album/3wU2wXacpwqetSRloR0nMX) | 3:35 | 2024-09-08 | 2024-10-07 |
 | [Online Songs](https://open.spotify.com/track/2DcxTfOm8y2UgeP81qdidR) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Take Off Your Pants And Jacket](https://open.spotify.com/album/3nHpBmW5wJXGeC3ojBkpey) | 2:25 | 2023-01-14 |  |
 | [P.S\. I Hope You're Happy](https://open.spotify.com/track/5GemR0Lr9CEUJVH14mAsDO) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [World War Joy](https://open.spotify.com/album/01GR4NL5O5CZM51k0aejKD) | 3:45 | 2022-01-11 | 2023-07-11 |
 | [Pathetic](https://open.spotify.com/track/3DuH3vgKy6oqhgesvbH1ZC) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Dude Ranch](https://open.spotify.com/album/0RADUK8yTUBidzBke6Eszq) | 2:28 | 2022-01-13 | 2023-11-11 |

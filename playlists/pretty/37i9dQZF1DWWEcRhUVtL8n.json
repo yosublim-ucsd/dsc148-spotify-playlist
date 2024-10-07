@@ -1,6 +1,6 @@
 {
   "description": "New and approved indie pop. Cover: Faye Webster",
-  "num_followers": 1687596,
+  "num_followers": 1687619,
   "original_name": "Indie Pop",
   "owner": {
     "name": "Spotify",
@@ -607,6 +607,22 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
+        "name": "HIT ME HARD AND SOFT",
+        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 179586,
+      "name": "LUNCH",
+      "url": "https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
         "name": "If Only + No One Noticed",
         "url": "https://open.spotify.com/album/6hfbOuLgpGhXRDQJiExTmF"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 233388,
       "name": "A Night To Remember",
       "url": "https://open.spotify.com/track/180AbZduI6bYQIzwCHRwu9"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
-        "name": "HIT ME HARD AND SOFT",
-        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 179586,
-      "name": "LUNCH",
-      "url": "https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -839,22 +839,6 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "Beatopia",
-        "url": "https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V"
-      },
-      "artists": [
-        {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        }
-      ],
-      "duration_ms": 160493,
-      "name": "Sunny day",
-      "url": "https://open.spotify.com/track/12UQIJePnGeLmpVReYpG2w"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
         "name": "He's My Man",
         "url": "https://open.spotify.com/album/04HqGBwmXnxvxHHTEms7cR"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 232985,
       "name": "He's My Man",
       "url": "https://open.spotify.com/track/62rwEl9PfnDqrjqNjApOwV"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "My House Is Not A Home",
+        "url": "https://open.spotify.com/album/2vx0QJQQAIkQFJJpdlD3u1"
+      },
+      "artists": [
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        }
+      ],
+      "duration_ms": 239181,
+      "name": "My House Is Not A Home",
+      "url": "https://open.spotify.com/track/0ssxoYXlw70MY4lh3JsI9q"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -887,18 +887,18 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "My House Is Not A Home",
-        "url": "https://open.spotify.com/album/2vx0QJQQAIkQFJJpdlD3u1"
+        "name": "Beatopia",
+        "url": "https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V"
       },
       "artists": [
         {
-          "name": "d4vd",
-          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
         }
       ],
-      "duration_ms": 239181,
-      "name": "My House Is Not A Home",
-      "url": "https://open.spotify.com/track/0ssxoYXlw70MY4lh3JsI9q"
+      "duration_ms": 160493,
+      "name": "Sunny day",
+      "url": "https://open.spotify.com/track/12UQIJePnGeLmpVReYpG2w"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -999,22 +999,6 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "Sad Boiii",
-        "url": "https://open.spotify.com/album/52WgEY29coP4ZokwAqmYbR"
-      },
-      "artists": [
-        {
-          "name": "BENEE",
-          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
-        }
-      ],
-      "duration_ms": 166026,
-      "name": "Sad Boiii",
-      "url": "https://open.spotify.com/track/5LOUGL5zAmtxRQIJBmuUay"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
         "name": "Creatures In Heaven",
         "url": "https://open.spotify.com/album/6l3Qxnvv49CGolilrSvsd3"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 221670,
       "name": "Creatures in Heaven",
       "url": "https://open.spotify.com/track/1e7EdcxkUPFZWfuY4VI3rh"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "Sad Boiii",
+        "url": "https://open.spotify.com/album/52WgEY29coP4ZokwAqmYbR"
+      },
+      "artists": [
+        {
+          "name": "BENEE",
+          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
+        }
+      ],
+      "duration_ms": 166026,
+      "name": "Sad Boiii",
+      "url": "https://open.spotify.com/track/5LOUGL5zAmtxRQIJBmuUay"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "My Fun",
-        "url": "https://open.spotify.com/album/2obv9kAuyDBzo5jTwAOHob"
-      },
-      "artists": [
-        {
-          "name": "Suki Waterhouse",
-          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
-        }
-      ],
-      "duration_ms": 162291,
-      "name": "My Fun",
-      "url": "https://open.spotify.com/track/306xT15GTuDs3NyopIANrh"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
         "name": "brown eyes*",
         "url": "https://open.spotify.com/album/7rfwHApmeagSJIrqmfUOVO"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 163346,
       "name": "brown eyes*",
       "url": "https://open.spotify.com/track/5OOSqqoKCL4s7WIFNbSZPD"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "My Fun",
+        "url": "https://open.spotify.com/album/2obv9kAuyDBzo5jTwAOHob"
+      },
+      "artists": [
+        {
+          "name": "Suki Waterhouse",
+          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+        }
+      ],
+      "duration_ms": 162291,
+      "name": "My Fun",
+      "url": "https://open.spotify.com/track/306xT15GTuDs3NyopIANrh"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "Kansas Anymore",
-        "url": "https://open.spotify.com/album/4OZ6nCbn8w0cHr1m0qiD2s"
-      },
-      "artists": [
-        {
-          "name": "ROLE MODEL",
-          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
-        }
-      ],
-      "duration_ms": 183189,
-      "name": "Scumbag",
-      "url": "https://open.spotify.com/track/5NJQHLtg873KNDOUJS6Ga0"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
         "name": "Run Your Mouth",
         "url": "https://open.spotify.com/album/1CffBsDXjxsZH53y29UuiP"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 160000,
       "name": "Run Your Mouth",
       "url": "https://open.spotify.com/track/7lw4J2RfcPs2hEJgPY44lC"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "Kansas Anymore",
+        "url": "https://open.spotify.com/album/4OZ6nCbn8w0cHr1m0qiD2s"
+      },
+      "artists": [
+        {
+          "name": "ROLE MODEL",
+          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
+        }
+      ],
+      "duration_ms": 183189,
+      "name": "Scumbag",
+      "url": "https://open.spotify.com/track/5NJQHLtg873KNDOUJS6Ga0"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -1223,38 +1223,6 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "Music On The Radio",
-        "url": "https://open.spotify.com/album/4ksHUamq0S8eMf2nkd3Ekv"
-      },
-      "artists": [
-        {
-          "name": "Empire Of The Sun",
-          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
-        }
-      ],
-      "duration_ms": 176196,
-      "name": "Music On The Radio",
-      "url": "https://open.spotify.com/track/0FoEQ5MUMwOrnQ4pWyrfrA"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
-        "name": "Blackout Drunk",
-        "url": "https://open.spotify.com/album/171QO1TFbCYhbgKoYwmwcH"
-      },
-      "artists": [
-        {
-          "name": "Suki Waterhouse",
-          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
-        }
-      ],
-      "duration_ms": 148021,
-      "name": "Blackout Drunk",
-      "url": "https://open.spotify.com/track/3pB18ZRXnr8gfVpIRREoJh"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
         "name": "Messy",
         "url": "https://open.spotify.com/album/2QWd1BsO7J0zLwxhsKl3zh"
       },
@@ -1267,6 +1235,22 @@
       "duration_ms": 284068,
       "name": "Messy",
       "url": "https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "Music On The Radio",
+        "url": "https://open.spotify.com/album/4ksHUamq0S8eMf2nkd3Ekv"
+      },
+      "artists": [
+        {
+          "name": "Empire Of The Sun",
+          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
+        }
+      ],
+      "duration_ms": 176196,
+      "name": "Music On The Radio",
+      "url": "https://open.spotify.com/track/0FoEQ5MUMwOrnQ4pWyrfrA"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -1287,18 +1271,18 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "Older",
-        "url": "https://open.spotify.com/album/30fIbIvd1AN04FrBt12KhM"
+        "name": "Blackout Drunk",
+        "url": "https://open.spotify.com/album/171QO1TFbCYhbgKoYwmwcH"
       },
       "artists": [
         {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+          "name": "Suki Waterhouse",
+          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
         }
       ],
-      "duration_ms": 245720,
-      "name": "Drunk, Running",
-      "url": "https://open.spotify.com/track/0OQFriWHtnIzsRp3uImlGt"
+      "duration_ms": 148021,
+      "name": "Blackout Drunk",
+      "url": "https://open.spotify.com/track/3pB18ZRXnr8gfVpIRREoJh"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -1331,6 +1315,22 @@
       "duration_ms": 132737,
       "name": "Eyes on my baby",
       "url": "https://open.spotify.com/track/7cM6obAwlMkP6nDTwNPEl2"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "Older",
+        "url": "https://open.spotify.com/album/30fIbIvd1AN04FrBt12KhM"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 245720,
+      "name": "Drunk, Running",
+      "url": "https://open.spotify.com/track/0OQFriWHtnIzsRp3uImlGt"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "It\u2019s Never Fair, Always True",
-        "url": "https://open.spotify.com/album/3i09IRJLqeRM9v92W7phES"
-      },
-      "artists": [
-        {
-          "name": "JAWNY",
-          "url": "https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP"
-        }
-      ],
-      "duration_ms": 155997,
-      "name": "strawberry chainsaw",
-      "url": "https://open.spotify.com/track/4lAasiKJZR4CkDygazvpvB"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
         "name": "distance",
         "url": "https://open.spotify.com/album/2hkXgYYushHTBmrhXOcY0G"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 113385,
       "name": "distance",
       "url": "https://open.spotify.com/track/2stuYeS9icwoQf79tUmnv8"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "It\u2019s Never Fair, Always True",
+        "url": "https://open.spotify.com/album/3i09IRJLqeRM9v92W7phES"
+      },
+      "artists": [
+        {
+          "name": "JAWNY",
+          "url": "https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP"
+        }
+      ],
+      "duration_ms": 155997,
+      "name": "strawberry chainsaw",
+      "url": "https://open.spotify.com/track/4lAasiKJZR4CkDygazvpvB"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "savior",
-        "url": "https://open.spotify.com/album/79VhbqI5lGEoOPosTHHghp"
-      },
-      "artists": [
-        {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
-        }
-      ],
-      "duration_ms": 180626,
-      "name": "savior",
-      "url": "https://open.spotify.com/track/2cPgl2d9IPeNB8794NftZT"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
         "name": "I'm Not Afraid Of Music Anymore",
         "url": "https://open.spotify.com/album/0iYfLtcJwYEl23TtnwTibd"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 177071,
       "name": "Along For The Ride",
       "url": "https://open.spotify.com/track/2CmhmWmCJiGoaN6JvVmM0M"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "savior",
+        "url": "https://open.spotify.com/album/79VhbqI5lGEoOPosTHHghp"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "duration_ms": 180626,
+      "name": "savior",
+      "url": "https://open.spotify.com/track/2cPgl2d9IPeNB8794NftZT"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -1619,18 +1619,18 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "Whole World",
-        "url": "https://open.spotify.com/album/277XEKE1geqVvUV3yCjoCS"
+        "name": "a girl like me",
+        "url": "https://open.spotify.com/album/51gIsdlU8UIgzSgDJrEr9Z"
       },
       "artists": [
         {
-          "name": "Goth Babe",
-          "url": "https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3"
+          "name": "flowerovlove",
+          "url": "https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj"
         }
       ],
-      "duration_ms": 184320,
-      "name": "Whole World",
-      "url": "https://open.spotify.com/track/6l4d6IKVNSC6Ic9wbxv0Ai"
+      "duration_ms": 162628,
+      "name": "a girl like me",
+      "url": "https://open.spotify.com/track/2KzkWP9RYW1xz4gqDRArQd"
     }
   ],
   "unique_name": "Indie Pop",

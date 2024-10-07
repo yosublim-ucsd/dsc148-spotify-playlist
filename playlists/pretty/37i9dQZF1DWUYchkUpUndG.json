@@ -1,6 +1,6 @@
 {
   "description": "Discover new christian and gospel music. Cover: \"<a href=https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe?si=EgqFNwKkTNmCHZeVmGM29w>Folabi Nuel</a> and <a href=https://open.spotify.com/artist/7e4IOPcpm2VcBIcKAJnPmQ?si=SFeapfBOTx2QSSmy1DR47g>Swangz All-Star</a>",
-  "num_followers": 26105,
+  "num_followers": 26149,
   "original_name": "Fresh Gospel Africa",
   "owner": {
     "name": "Spotify",
@@ -48,10 +48,6 @@
           "url": "https://open.spotify.com/artist/2nTPCD3IukOtNX689ctkES"
         },
         {
-          "name": "Swangz All-Star",
-          "url": "https://open.spotify.com/artist/7e4IOPcpm2VcBIcKAJnPmQ"
-        },
-        {
           "name": "Winnie Nwagi",
           "url": "https://open.spotify.com/artist/6D2BPqCTzdBn26ficmaciD"
         },
@@ -66,6 +62,10 @@
         {
           "name": "Levixone",
           "url": "https://open.spotify.com/artist/25rO4hD9VXGMFFfK7zI5lW"
+        },
+        {
+          "name": "Swangz All-Star",
+          "url": "https://open.spotify.com/artist/7e4IOPcpm2VcBIcKAJnPmQ"
         }
       ],
       "duration_ms": 263860,

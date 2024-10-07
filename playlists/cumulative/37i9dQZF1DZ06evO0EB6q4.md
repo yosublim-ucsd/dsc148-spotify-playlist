@@ -2,9 +2,9 @@
 
 ### [This Is Nanpa Básico](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0EB6q4)
 
-> This is Nanpa Básico\. Tutti i brani in un'unica playlist.
+> This Is Nanpa Básico\. Les titres incontournables, réunis dans une seule et même playlist.
 
-66 songs - 3 hr 53 min
+67 songs - 3 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Como Tú Ninguna](https://open.spotify.com/track/2a3WucROZGobQgS2LvZph5) | [Almanegra](https://open.spotify.com/artist/3IrTSci2J1v5SbMp75mX6j), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Como Tú Ninguna](https://open.spotify.com/album/30nUAI8wWDgNjyOfHPJpRn) | 3:56 | 2023-12-30 |  |
 | [Como Tú Todas](https://open.spotify.com/track/0Vs1CeOutE6JwdEjSMZD5n) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [HECHO M13RD4](https://open.spotify.com/album/5XhTnZgcv9l8gUZOVVUxAY) | 2:41 | 2024-07-03 |  |
 | [Contrato](https://open.spotify.com/track/1jqP6sxQDxabgEIeoOdT1Y) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [SANTU](https://open.spotify.com/artist/3P3HEwD70uW4S1Gs5fhO9L) | [HECHO M13RD4](https://open.spotify.com/album/5XhTnZgcv9l8gUZOVVUxAY) | 2:52 | 2023-12-30 |  |
+| [Cuando Vienes](https://open.spotify.com/track/6cDSD4Okz3E3Yv94kHbCbc) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Cuando Vienes](https://open.spotify.com/album/6LQ41hNMwz53V9deC2X191) | 3:08 | 2024-10-07 |  |
 | [Cuidado en Quien Confias](https://open.spotify.com/track/34LnKrUc7W3N9zqrdPtts3) | [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Cualquier Parecido con La Realidad](https://open.spotify.com/album/1fWIXSbLLG41HN0WFdkjGb) | 4:33 | 2024-05-27 | 2024-08-02 |
 | [Desde el Fondo](https://open.spotify.com/track/6EmMnV672C5ZCgi39Otuhm) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Nach](https://open.spotify.com/artist/66ArjpKRgw8vYBf9yhktto), [ZPU](https://open.spotify.com/artist/7F9Bd5X4sxdwWRJVpbfMtb) | [Desde el Fondo](https://open.spotify.com/album/7tm0MO5pYRfglAJn1xJXHr) | 3:39 | 2023-12-30 |  |
 | [Dibújame](https://open.spotify.com/track/0RKglZdTQ7BLrs6vplb2qm) | [Rich Vagos](https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU), [Samantha Barrón](https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Dibújame](https://open.spotify.com/album/46M0YKUmzyQm5yNAmqs3f0) | 3:56 | 2023-12-30 |  |

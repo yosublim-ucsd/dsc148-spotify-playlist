@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvzPS8uIABd.md) - [plain]
 
 > Tämän hetken kovimmat suomihitit\. Kannessa OLGA.
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,870 likes - 77 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,887 likes - 77 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvzPS8uIABd.md) - [plain]
 | 61 | [Tytöt](https://open.spotify.com/track/16kh2kaN94cbWKVfAsUb6o) | [Tuure Boelius](https://open.spotify.com/artist/4qojHFVaMgvpZZ1LW0L9To) | [Tytöt](https://open.spotify.com/album/6jq1P6ywJ0zrLpOCsYE2Nk) | 2:16 |
 | 62 | [Adam ja Eve](https://open.spotify.com/track/7gvBlbVPVHMnGuUwwAuhu8) | [Yona](https://open.spotify.com/artist/5BkXsfNLBm4G7L82WEBCfv) | [Eden](https://open.spotify.com/album/3YyytiCzrlXr0OZk7Pl07V) | 4:56 |
 | 63 | [Kaikki hyvin \(feat\. Pikku G\)](https://open.spotify.com/track/0qAygKPxprmvhBStKotsdp) | [Leo Stillman](https://open.spotify.com/artist/20blWBSxe4aB64OVppgpld), [Pikku G](https://open.spotify.com/artist/52k2KcEXIZTnYD2EpOoJiZ) | [Ihmiset & ongelmat](https://open.spotify.com/album/65XJMEVfqyrETikUgxreps) | 2:43 |
-| 64 | [Ei kauniimpaa \- Vain Elämää kausi 15](https://open.spotify.com/track/47JIfPEVeCbgJB6Gmw35qr) | [Eini](https://open.spotify.com/artist/6yTTkPtwPo2PEkQF4SScwM) | [Ei kauniimpaa \(Vain Elämää kausi 15\)](https://open.spotify.com/album/7sgKcYxIWxEVWfGMYSzgGd) | 3:01 |
+| 64 | [Ei kauniimpaa \- Vain elämää kausi 15](https://open.spotify.com/track/47JIfPEVeCbgJB6Gmw35qr) | [Eini](https://open.spotify.com/artist/6yTTkPtwPo2PEkQF4SScwM) | [Ei kauniimpaa \(Vain elämää kausi 15\)](https://open.spotify.com/album/7sgKcYxIWxEVWfGMYSzgGd) | 3:01 |
 | 65 | [Caliente](https://open.spotify.com/track/2FgI1KMgGEpuZlqVLQSWfk) | [ABREU](https://open.spotify.com/artist/5kOwMqoAYEX24YgxEZP6K7) | [Caliente](https://open.spotify.com/album/1z209B6YRUcVRRz94ogicP) | 2:31 |
 | 66 | [Mun sydämeni tänne jää \(Vain elämää kausi 15\)](https://open.spotify.com/track/1HeC128MEUZobYRPL76UZw) | [Hanna Pakarinen](https://open.spotify.com/artist/5b7lGX7blhgNvI2i5V6BhE) | [Mun sydämeni tänne jää \(Vain elämää kausi 15\)](https://open.spotify.com/album/6Tvdnk2LRGGQlMEX22XMFT) | 3:10 |
 | 67 | [Hajonneet](https://open.spotify.com/track/6NIVHos43HS850pmsXWzHy) | [Aksel Kankaanranta](https://open.spotify.com/artist/6IEH2DB0MSkCSY3uro9za2) | [Hajonneet](https://open.spotify.com/album/3OxmINoGWVzYpG4uqck89U) | 3:05 |

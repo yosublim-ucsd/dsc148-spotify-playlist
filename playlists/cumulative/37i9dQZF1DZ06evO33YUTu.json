@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-20",
-  "description": "This is Greeicy. \u0623\u063a\u0627\u0646\u064d \u0631\u0627\u0626\u0639\u0629 \u0641\u064a \u0642\u0627\u0626\u0645\u0629 \u0623\u063a\u0627\u0646\u064d \u0648\u0627\u062d\u062f\u0629.",
+  "description": "This is Greeicy. Tutti i brani in un'unica playlist.",
   "name": "This Is Greeicy",
   "tracks": [
     {
@@ -1588,6 +1588,28 @@
       "duration_ms": 140906,
       "name": "YELIANA - Cap. 3 - ZHA",
       "url": "https://open.spotify.com/track/0sE9TAChRS7zah4yhp5KJW"
+    },
+    {
+      "album": {
+        "name": "\u00bfQue Te Pas\u00f3?",
+        "url": "https://open.spotify.com/album/7aNA8T8Ycq3EG3tQJr1q9h"
+      },
+      "artists": [
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        },
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        }
+      ],
+      "date_added": "2024-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168266,
+      "name": "\u00bfQue Te Pas\u00f3?",
+      "url": "https://open.spotify.com/track/6TyzdTASQrRujdjPP93AJe"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO33YUTu"

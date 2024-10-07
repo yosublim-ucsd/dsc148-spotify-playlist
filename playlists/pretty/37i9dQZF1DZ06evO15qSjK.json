@@ -1,12 +1,12 @@
 {
   "description": "This is Kidz Bop Kids. The essential tracks, all in one playlist.",
-  "num_followers": 173467,
+  "num_followers": 173457,
   "original_name": "This Is Kidz Bop Kids",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zv3egAAAAACIVvQAGkGrXYsODYZ3V++A",
+  "snapshot_id": "ZwCBgAAAAADw9yaCMdPEbBFI/NhhHhtP",
   "tracks": [
     {
       "added_at": null,
@@ -23,6 +23,22 @@
       "duration_ms": 183930,
       "name": "Please Please Please",
       "url": "https://open.spotify.com/track/4KegIoLXt4cv3MgU4G0GYe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Good Luck, Babe!",
+        "url": "https://open.spotify.com/album/4mlUohsTRlocyVik8trXIs"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "duration_ms": 216228,
+      "name": "Good Luck, Babe!",
+      "url": "https://open.spotify.com/track/5QNPIe0ROSkymWH1j5cDMh"
     },
     {
       "added_at": null,
@@ -292,9 +308,9 @@
           "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
         }
       ],
-      "duration_ms": 184642,
-      "name": "Paint The Town Red",
-      "url": "https://open.spotify.com/track/2Td9ri2BOa2GG8aQxtz4mB"
+      "duration_ms": 220860,
+      "name": "Vampire",
+      "url": "https://open.spotify.com/track/6HU8lsYxZ7IiMwNJGVwHPO"
     },
     {
       "added_at": null,
@@ -356,9 +372,9 @@
           "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
         }
       ],
-      "duration_ms": 220860,
-      "name": "Vampire",
-      "url": "https://open.spotify.com/track/6HU8lsYxZ7IiMwNJGVwHPO"
+      "duration_ms": 184642,
+      "name": "Paint The Town Red",
+      "url": "https://open.spotify.com/track/2Td9ri2BOa2GG8aQxtz4mB"
     },
     {
       "added_at": null,
@@ -635,8 +651,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Espresso",
-        "url": "https://open.spotify.com/album/1MFBWJ5Z6fjffYj41aKtzX"
+        "name": "KIDZ BOP World Tour",
+        "url": "https://open.spotify.com/album/4JdOUhTxfRmyspRyQntSnD"
       },
       "artists": [
         {
@@ -644,9 +660,9 @@
           "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
         }
       ],
-      "duration_ms": 154822,
-      "name": "Espresso",
-      "url": "https://open.spotify.com/track/11i0KY6i16UtY5y9WhuJfu"
+      "duration_ms": 175000,
+      "name": "FRIENDS",
+      "url": "https://open.spotify.com/track/1taDlZzWCFEOC9NlohkWx6"
     },
     {
       "added_at": null,
@@ -667,22 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "KIDZ BOP World Tour",
-        "url": "https://open.spotify.com/album/4JdOUhTxfRmyspRyQntSnD"
-      },
-      "artists": [
-        {
-          "name": "Kidz Bop Kids",
-          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
-        }
-      ],
-      "duration_ms": 175000,
-      "name": "FRIENDS",
-      "url": "https://open.spotify.com/track/1taDlZzWCFEOC9NlohkWx6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "KIDZ BOP Ultimate Playlist",
         "url": "https://open.spotify.com/album/0ujUpcRjoMRt06Rx1kOGuu"
       },
@@ -695,6 +695,22 @@
       "duration_ms": 139840,
       "name": "STAY",
       "url": "https://open.spotify.com/track/2cEt3vw0bEhhdeJsp6hk0u"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Espresso",
+        "url": "https://open.spotify.com/album/1MFBWJ5Z6fjffYj41aKtzX"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "duration_ms": 154822,
+      "name": "Espresso",
+      "url": "https://open.spotify.com/track/11i0KY6i16UtY5y9WhuJfu"
     },
     {
       "added_at": null,

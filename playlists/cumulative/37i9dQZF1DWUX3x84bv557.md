@@ -4,7 +4,7 @@
 
 > De nieuwste Nederlandse pop! Cover: Bente
 
-723 songs - 1 day 10 hr 50 min
+724 songs - 1 day 10 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -314,6 +314,7 @@
 | [Ik Denk Aan Jou](https://open.spotify.com/track/0Wl180gnGlUgIR6BJt7SSD) | [Sleeq](https://open.spotify.com/artist/2qvTXvob9J4bX63ZrZyliD) | [Alles Anders](https://open.spotify.com/album/7oMXyRSHzt16mWu0kwrNus) | 3:06 | 2024-05-02 | 2024-07-05 |
 | [Ik Haat Hem Voor Jou](https://open.spotify.com/track/6vDxjNLrehdIkaHQ8nMkaF) | [Froukje](https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp), [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK) | [Ik Haat Hem Voor Jou](https://open.spotify.com/album/3lkn7csEi16CayvYDrRRDz) | 2:34 | 2024-08-29 |  |
 | [Ik Heb Je Lief](https://open.spotify.com/track/6ZC1ZszuOswTI4yMSiAPT9) | [Kimberly Fransens](https://open.spotify.com/artist/4YvTZPiLAVdVA5VkCwyBWk) | [Ik Heb Je Lief](https://open.spotify.com/album/6zpCLM4g3cf5sAV21QlXTG) | 3:32 | 2023-02-23 | 2023-04-07 |
+| [Ik heb je zo gemist](https://open.spotify.com/track/78xwr7xEmWHXmIwliLNyyS) | [Bente](https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e), [Mathieu Terryn](https://open.spotify.com/artist/49lHyCtrgMgmijZw2FqPHK) | [drift](https://open.spotify.com/album/713lZ7AF55fEFSQgcttj9y) | 3:22 | 2024-10-06 |  |
 | [Ik Heb Jou](https://open.spotify.com/track/4WdlPFMILpzOGx4LFLVkkC) | [Dicecream](https://open.spotify.com/artist/5Y35hxCbhuDsV4hjRpAa20), [Jaap Goud](https://open.spotify.com/artist/0kY3JTHPCakGx8ydflXOyR) | [Ik Heb Jou](https://open.spotify.com/album/0hvRDtidoBVzLAj0d7RfEh) | 3:58 | 2023-10-19 | 2023-11-03 |
 | [Ik Kom Weer Thuis](https://open.spotify.com/track/5VzimlAe6d9QJgCYgWky8v) | [Isabèl Usher](https://open.spotify.com/artist/66Q9dkZ7EXdwU2h6tEkUdC) | [Ik Kom Weer Thuis](https://open.spotify.com/album/4oFvk66h8AGIxNyh0sFkhk) | 3:03 | 2023-02-23 | 2023-03-10 |
 | [Ik Moet Het Weten](https://open.spotify.com/track/54eIgty1xpe9hkYreB8MnM) | [Gianski](https://open.spotify.com/artist/1tC6NRB6c1mVgV4xrqrOgy) | [Aan Het Einde Van De Rit](https://open.spotify.com/album/3s0PNpeMUTYOr0kWXoX40l) | 2:18 | 2023-06-15 | 2023-07-14 |

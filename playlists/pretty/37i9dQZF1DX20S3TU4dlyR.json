@@ -1,6 +1,6 @@
 {
   "description": "Este es el Reggae, al sur del continente americano. Foto: Dancing Mood",
-  "num_followers": 62625,
+  "num_followers": 62627,
   "original_name": "Reggae al Sur",
   "owner": {
     "name": "Spotify",
@@ -303,22 +303,6 @@
     {
       "added_at": "2024-10-03 20:51:05",
       "album": {
-        "name": "Todo Lo Que Se Fue",
-        "url": "https://open.spotify.com/album/5b6PeL5h1CFlENO13RKt4r"
-      },
-      "artists": [
-        {
-          "name": "Dread Mar I",
-          "url": "https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR"
-        }
-      ],
-      "duration_ms": 201021,
-      "name": "Todo Lo Que Se Fue",
-      "url": "https://open.spotify.com/track/4B7SpIO8nXOzz8I8tkovqW"
-    },
-    {
-      "added_at": "2024-10-03 20:51:05",
-      "album": {
         "name": "Natiruts Ac\u00fastico no Rio de Janeiro (Ao Vivo)",
         "url": "https://open.spotify.com/album/1x2y04H5qSXOU9tzDZVT9i"
       },
@@ -355,6 +339,22 @@
     {
       "added_at": "2024-10-03 20:51:05",
       "album": {
+        "name": "Tu Amor",
+        "url": "https://open.spotify.com/album/7cu2iMZeDZYdGKJIUtqwgB"
+      },
+      "artists": [
+        {
+          "name": "Kameleba",
+          "url": "https://open.spotify.com/artist/2oSUm3Sv4yNsTLaYuROuST"
+        }
+      ],
+      "duration_ms": 220565,
+      "name": "Tu Amor",
+      "url": "https://open.spotify.com/track/7AZWaDN04T6TQY4dJR8M5A"
+    },
+    {
+      "added_at": "2024-10-03 20:51:05",
+      "album": {
         "name": "Love Song",
         "url": "https://open.spotify.com/album/5sFid2NyJbaAVQyIfIY7k8"
       },
@@ -383,18 +383,34 @@
     {
       "added_at": "2024-10-03 20:51:05",
       "album": {
-        "name": "Tu Amor",
-        "url": "https://open.spotify.com/album/7cu2iMZeDZYdGKJIUtqwgB"
+        "name": "Todo Lo Que Se Fue",
+        "url": "https://open.spotify.com/album/5b6PeL5h1CFlENO13RKt4r"
       },
       "artists": [
         {
-          "name": "Kameleba",
-          "url": "https://open.spotify.com/artist/2oSUm3Sv4yNsTLaYuROuST"
+          "name": "Dread Mar I",
+          "url": "https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR"
         }
       ],
-      "duration_ms": 220565,
-      "name": "Tu Amor",
-      "url": "https://open.spotify.com/track/7AZWaDN04T6TQY4dJR8M5A"
+      "duration_ms": 201021,
+      "name": "Todo Lo Que Se Fue",
+      "url": "https://open.spotify.com/track/4B7SpIO8nXOzz8I8tkovqW"
+    },
+    {
+      "added_at": "2024-10-03 20:51:05",
+      "album": {
+        "name": "International Love",
+        "url": "https://open.spotify.com/album/6TfIPMw7QqgcTEL0sIMW48"
+      },
+      "artists": [
+        {
+          "name": "Fidel Nadal",
+          "url": "https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS"
+        }
+      ],
+      "duration_ms": 297426,
+      "name": "Luz y Compa\u00f1\u00eda",
+      "url": "https://open.spotify.com/track/3Q0COFjoS7geL4ZrpmNNfB"
     },
     {
       "added_at": "2024-10-03 20:51:05",
@@ -415,18 +431,18 @@
     {
       "added_at": "2024-10-03 20:51:05",
       "album": {
-        "name": "International Love",
-        "url": "https://open.spotify.com/album/6TfIPMw7QqgcTEL0sIMW48"
+        "name": "3000 Vivos (En Vivo)",
+        "url": "https://open.spotify.com/album/7G7RCFtdv9cTAmOijHn0j1"
       },
       "artists": [
         {
-          "name": "Fidel Nadal",
-          "url": "https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS"
+          "name": "Los Pericos",
+          "url": "https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR"
         }
       ],
-      "duration_ms": 297426,
-      "name": "Luz y Compa\u00f1\u00eda",
-      "url": "https://open.spotify.com/track/3Q0COFjoS7geL4ZrpmNNfB"
+      "duration_ms": 240144,
+      "name": "Pupilas Lejanas (En Vivo)",
+      "url": "https://open.spotify.com/track/3b355y8meUI0ok4bhu9OpI"
     },
     {
       "added_at": "2024-10-03 20:51:05",
@@ -467,18 +483,18 @@
     {
       "added_at": "2024-10-03 20:51:05",
       "album": {
-        "name": "3000 Vivos (En Vivo)",
-        "url": "https://open.spotify.com/album/7G7RCFtdv9cTAmOijHn0j1"
+        "name": "Hagan Correr la Voz",
+        "url": "https://open.spotify.com/album/0ko2Kez1pYo91ELqWFPISY"
       },
       "artists": [
         {
-          "name": "Los Pericos",
-          "url": "https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR"
+          "name": "Nonpalidece",
+          "url": "https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe"
         }
       ],
-      "duration_ms": 240144,
-      "name": "Pupilas Lejanas (En Vivo)",
-      "url": "https://open.spotify.com/track/3b355y8meUI0ok4bhu9OpI"
+      "duration_ms": 186533,
+      "name": "Reggae en el Universo",
+      "url": "https://open.spotify.com/track/6mn3ZBR2oH6OzrywqZUvzQ"
     },
     {
       "added_at": "2024-10-03 20:51:05",
@@ -519,22 +535,6 @@
     {
       "added_at": "2024-10-03 20:51:05",
       "album": {
-        "name": "Hagan Correr la Voz",
-        "url": "https://open.spotify.com/album/0ko2Kez1pYo91ELqWFPISY"
-      },
-      "artists": [
-        {
-          "name": "Nonpalidece",
-          "url": "https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe"
-        }
-      ],
-      "duration_ms": 186533,
-      "name": "Reggae en el Universo",
-      "url": "https://open.spotify.com/track/6mn3ZBR2oH6OzrywqZUvzQ"
-    },
-    {
-      "added_at": "2024-10-03 20:51:05",
-      "album": {
         "name": "Donde Brilla el Sol",
         "url": "https://open.spotify.com/album/1zJ6d4lkzKbjSKdPW6CP4T"
       },
@@ -551,26 +551,6 @@
     {
       "added_at": "2024-10-03 20:51:05",
       "album": {
-        "name": "Encanto",
-        "url": "https://open.spotify.com/album/3aJJdHEClW1YQarSSXaE9H"
-      },
-      "artists": [
-        {
-          "name": "MAMA GAIA",
-          "url": "https://open.spotify.com/artist/5uvIzs93CiewRg46Q9VpCx"
-        },
-        {
-          "name": "Zona Ganjah",
-          "url": "https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2"
-        }
-      ],
-      "duration_ms": 193817,
-      "name": "Gaia",
-      "url": "https://open.spotify.com/track/4sxH0m1nMETWC6xvMzjk2s"
-    },
-    {
-      "added_at": "2024-10-03 20:51:05",
-      "album": {
         "name": "El Paso Gigante",
         "url": "https://open.spotify.com/album/1kJD3mYufavAaI1IZwrP3i"
       },
@@ -583,26 +563,6 @@
       "duration_ms": 247785,
       "name": "Flaca huella",
       "url": "https://open.spotify.com/track/4ZEkXz3SCHOqV76GQVEIQ1"
-    },
-    {
-      "added_at": "2024-10-03 20:51:05",
-      "album": {
-        "name": "Al o\u00edrla cantar",
-        "url": "https://open.spotify.com/album/5fk1Gz6X5cPaFm9Yipm75h"
-      },
-      "artists": [
-        {
-          "name": "Ezequiel Borra",
-          "url": "https://open.spotify.com/artist/0SzGHC9KInmae0WJoM4aon"
-        },
-        {
-          "name": "Alex Serra",
-          "url": "https://open.spotify.com/artist/3iUmseZo1IoMlJvhjxPy4r"
-        }
-      ],
-      "duration_ms": 336330,
-      "name": "Al o\u00edrla cantar",
-      "url": "https://open.spotify.com/track/1GmzUjLKmccC28IAMFhW1t"
     },
     {
       "added_at": "2024-10-03 20:51:05",
@@ -655,6 +615,46 @@
       "duration_ms": 385560,
       "name": "Mi Sol",
       "url": "https://open.spotify.com/track/6yHfT8zwc1YOJ5FLNOiWzK"
+    },
+    {
+      "added_at": "2024-10-03 20:51:05",
+      "album": {
+        "name": "Encanto",
+        "url": "https://open.spotify.com/album/3aJJdHEClW1YQarSSXaE9H"
+      },
+      "artists": [
+        {
+          "name": "MAMA GAIA",
+          "url": "https://open.spotify.com/artist/5uvIzs93CiewRg46Q9VpCx"
+        },
+        {
+          "name": "Zona Ganjah",
+          "url": "https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2"
+        }
+      ],
+      "duration_ms": 193817,
+      "name": "Gaia",
+      "url": "https://open.spotify.com/track/4sxH0m1nMETWC6xvMzjk2s"
+    },
+    {
+      "added_at": "2024-10-03 20:51:05",
+      "album": {
+        "name": "Al o\u00edrla cantar",
+        "url": "https://open.spotify.com/album/5fk1Gz6X5cPaFm9Yipm75h"
+      },
+      "artists": [
+        {
+          "name": "Ezequiel Borra",
+          "url": "https://open.spotify.com/artist/0SzGHC9KInmae0WJoM4aon"
+        },
+        {
+          "name": "Alex Serra",
+          "url": "https://open.spotify.com/artist/3iUmseZo1IoMlJvhjxPy4r"
+        }
+      ],
+      "duration_ms": 336330,
+      "name": "Al o\u00edrla cantar",
+      "url": "https://open.spotify.com/track/1GmzUjLKmccC28IAMFhW1t"
     },
     {
       "added_at": "2024-10-03 20:51:05",
@@ -903,22 +903,6 @@
     {
       "added_at": "2024-10-03 20:51:05",
       "album": {
-        "name": "\u00c1ngel Del Pasado",
-        "url": "https://open.spotify.com/album/2i3GeqMPvIHpEWUEMnOyqo"
-      },
-      "artists": [
-        {
-          "name": "Quique Neira",
-          "url": "https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe"
-        }
-      ],
-      "duration_ms": 246857,
-      "name": "\u00c1ngel Del Pasado",
-      "url": "https://open.spotify.com/track/12hH9wErOXz1ZeOPJ8P33Q"
-    },
-    {
-      "added_at": "2024-10-03 20:51:05",
-      "album": {
         "name": "Rastone (En Vivo en el Teatro de Flores)",
         "url": "https://open.spotify.com/album/4kENWmOZi09OBZL5ziwi7w"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 210000,
       "name": "Rastone (En Vivo en el Teatro de Flores)",
       "url": "https://open.spotify.com/track/2HQ7tr2KXASyKQJoIWtJiB"
+    },
+    {
+      "added_at": "2024-10-03 20:51:05",
+      "album": {
+        "name": "\u00c1ngel Del Pasado",
+        "url": "https://open.spotify.com/album/2i3GeqMPvIHpEWUEMnOyqo"
+      },
+      "artists": [
+        {
+          "name": "Quique Neira",
+          "url": "https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe"
+        }
+      ],
+      "duration_ms": 246857,
+      "name": "\u00c1ngel Del Pasado",
+      "url": "https://open.spotify.com/track/12hH9wErOXz1ZeOPJ8P33Q"
     },
     {
       "added_at": "2024-10-03 20:51:05",
@@ -995,6 +995,22 @@
     {
       "added_at": "2024-10-03 20:51:05",
       "album": {
+        "name": "Aguas Frescas De Jamaica",
+        "url": "https://open.spotify.com/album/1svQZMx26EywFi49R1BMkX"
+      },
+      "artists": [
+        {
+          "name": "Rondamon",
+          "url": "https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP"
+        }
+      ],
+      "duration_ms": 278626,
+      "name": "Tan Distante",
+      "url": "https://open.spotify.com/track/72t5gOSN80UxL23dyBelJ7"
+    },
+    {
+      "added_at": "2024-10-03 20:51:05",
+      "album": {
         "name": "Hombres De Hierro",
         "url": "https://open.spotify.com/album/28PPi09N38AQCzBLW5AMZC"
       },
@@ -1011,22 +1027,6 @@
       "duration_ms": 279625,
       "name": "Hombres De Hierro",
       "url": "https://open.spotify.com/track/3Hejy2uyKY41La7CrqLCnD"
-    },
-    {
-      "added_at": "2024-10-03 20:51:05",
-      "album": {
-        "name": "Aguas Frescas De Jamaica",
-        "url": "https://open.spotify.com/album/1svQZMx26EywFi49R1BMkX"
-      },
-      "artists": [
-        {
-          "name": "Rondamon",
-          "url": "https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP"
-        }
-      ],
-      "duration_ms": 278626,
-      "name": "Tan Distante",
-      "url": "https://open.spotify.com/track/72t5gOSN80UxL23dyBelJ7"
     },
     {
       "added_at": "2024-10-03 20:51:05",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2024-10-03 20:51:05",
       "album": {
+        "name": "Si no Regreso",
+        "url": "https://open.spotify.com/album/4Ltcj9JgzrISmo2GXUjpwY"
+      },
+      "artists": [
+        {
+          "name": "Leonchalon",
+          "url": "https://open.spotify.com/artist/18hhcln4FwPkj2iwxT5yB0"
+        }
+      ],
+      "duration_ms": 178953,
+      "name": "Si no Regreso",
+      "url": "https://open.spotify.com/track/45VdxLNKgVwkF9gVbKcPED"
+    },
+    {
+      "added_at": "2024-10-03 20:51:05",
+      "album": {
         "name": "Como la Flor",
         "url": "https://open.spotify.com/album/7fmlBdqJxGTHRfbdIUktVW"
       },
@@ -1075,54 +1091,6 @@
       "duration_ms": 209007,
       "name": "Como la Flor",
       "url": "https://open.spotify.com/track/6D2h8yrGGpYeA79XeMw97k"
-    },
-    {
-      "added_at": "2024-10-03 20:51:05",
-      "album": {
-        "name": "Rey Mago de las Nubes",
-        "url": "https://open.spotify.com/album/0IHgCVEFlbvu0QxWzqKA78"
-      },
-      "artists": [
-        {
-          "name": "Bahiano",
-          "url": "https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN"
-        }
-      ],
-      "duration_ms": 185666,
-      "name": "El Pescador",
-      "url": "https://open.spotify.com/track/5UU7hhIQFIZKjryRuUXmed"
-    },
-    {
-      "added_at": "2024-10-03 20:51:05",
-      "album": {
-        "name": "S\u00ed Ser\u00e1s",
-        "url": "https://open.spotify.com/album/0ZToxlCx1Z93ECG3yZWsZ0"
-      },
-      "artists": [
-        {
-          "name": "Rondamon",
-          "url": "https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP"
-        }
-      ],
-      "duration_ms": 198680,
-      "name": "Puede Parecer",
-      "url": "https://open.spotify.com/track/1hLdypz7khXd9pociYJo1Q"
-    },
-    {
-      "added_at": "2024-10-03 20:51:05",
-      "album": {
-        "name": "Negro",
-        "url": "https://open.spotify.com/album/0yw1Sq70Su7ZCEJV8jv9HY"
-      },
-      "artists": [
-        {
-          "name": "El Natty Combo",
-          "url": "https://open.spotify.com/artist/4fH7GgndN1PBmd6S3Ux5W9"
-        }
-      ],
-      "duration_ms": 265216,
-      "name": "Este Mundo",
-      "url": "https://open.spotify.com/track/6WK2LH6KzIN9guZDQgoFxo"
     },
     {
       "added_at": "2024-10-03 20:51:05",
@@ -1143,18 +1111,50 @@
     {
       "added_at": "2024-10-03 20:51:05",
       "album": {
-        "name": "Si no Regreso",
-        "url": "https://open.spotify.com/album/4Ltcj9JgzrISmo2GXUjpwY"
+        "name": "Rey Mago de las Nubes",
+        "url": "https://open.spotify.com/album/0IHgCVEFlbvu0QxWzqKA78"
       },
       "artists": [
         {
-          "name": "Leonchalon",
-          "url": "https://open.spotify.com/artist/18hhcln4FwPkj2iwxT5yB0"
+          "name": "Bahiano",
+          "url": "https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN"
         }
       ],
-      "duration_ms": 178953,
-      "name": "Si no Regreso",
-      "url": "https://open.spotify.com/track/45VdxLNKgVwkF9gVbKcPED"
+      "duration_ms": 185666,
+      "name": "El Pescador",
+      "url": "https://open.spotify.com/track/5UU7hhIQFIZKjryRuUXmed"
+    },
+    {
+      "added_at": "2024-10-03 20:51:05",
+      "album": {
+        "name": "Negro",
+        "url": "https://open.spotify.com/album/0yw1Sq70Su7ZCEJV8jv9HY"
+      },
+      "artists": [
+        {
+          "name": "El Natty Combo",
+          "url": "https://open.spotify.com/artist/4fH7GgndN1PBmd6S3Ux5W9"
+        }
+      ],
+      "duration_ms": 265216,
+      "name": "Este Mundo",
+      "url": "https://open.spotify.com/track/6WK2LH6KzIN9guZDQgoFxo"
+    },
+    {
+      "added_at": "2024-10-03 20:51:05",
+      "album": {
+        "name": "S\u00ed Ser\u00e1s",
+        "url": "https://open.spotify.com/album/0ZToxlCx1Z93ECG3yZWsZ0"
+      },
+      "artists": [
+        {
+          "name": "Rondamon",
+          "url": "https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP"
+        }
+      ],
+      "duration_ms": 198680,
+      "name": "Puede Parecer",
+      "url": "https://open.spotify.com/track/1hLdypz7khXd9pociYJo1Q"
     },
     {
       "added_at": "2024-10-03 20:51:05",
@@ -1175,22 +1175,38 @@
     {
       "added_at": "2024-10-03 20:51:05",
       "album": {
-        "name": "Qui\u00e9n Sos?",
-        "url": "https://open.spotify.com/album/3ciuW3aqUEX2Yx76S6ZrEA"
+        "name": "La Naturaleza",
+        "url": "https://open.spotify.com/album/0aaqBC6otXqWPh7cZS8lIE"
       },
       "artists": [
         {
-          "name": "Rondamon",
-          "url": "https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP"
+          "name": "Planta & Canta",
+          "url": "https://open.spotify.com/artist/2yW6FW6bMFIEtPJgYK4UQ0"
         },
         {
-          "name": "Julieta Rada",
-          "url": "https://open.spotify.com/artist/5KA95SZBQeMgNMTuqnxzJd"
+          "name": "Los Cafres",
+          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
         }
       ],
-      "duration_ms": 231464,
-      "name": "Qui\u00e9n Sos?",
-      "url": "https://open.spotify.com/track/2iq53i4P2VSj3Qc3DYbQTH"
+      "duration_ms": 254058,
+      "name": "La Naturaleza",
+      "url": "https://open.spotify.com/track/4tDRsEVf39hky9RJVY6dOY"
+    },
+    {
+      "added_at": "2024-10-03 20:51:05",
+      "album": {
+        "name": "Amor De Barrio",
+        "url": "https://open.spotify.com/album/2LvjJW52h7wcohlk5hvGCj"
+      },
+      "artists": [
+        {
+          "name": "Leonchalon",
+          "url": "https://open.spotify.com/artist/18hhcln4FwPkj2iwxT5yB0"
+        }
+      ],
+      "duration_ms": 202680,
+      "name": "Lo De Siempre",
+      "url": "https://open.spotify.com/track/6QG5E3dAlrnoj8yIwJFr1X"
     },
     {
       "added_at": "2024-10-03 20:51:05",
@@ -1227,6 +1243,42 @@
     {
       "added_at": "2024-10-03 20:51:05",
       "album": {
+        "name": "Desinformation",
+        "url": "https://open.spotify.com/album/1K0WhObVbaoWr0JP4qzv5J"
+      },
+      "artists": [
+        {
+          "name": "Dancing Mood",
+          "url": "https://open.spotify.com/artist/70XauTb6oEJbXxFoH6wY9F"
+        }
+      ],
+      "duration_ms": 245750,
+      "name": "Desinformation",
+      "url": "https://open.spotify.com/track/1217Z3BPonXG3Kmm8aSkAp"
+    },
+    {
+      "added_at": "2024-10-03 20:51:05",
+      "album": {
+        "name": "Qui\u00e9n Sos?",
+        "url": "https://open.spotify.com/album/3ciuW3aqUEX2Yx76S6ZrEA"
+      },
+      "artists": [
+        {
+          "name": "Rondamon",
+          "url": "https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP"
+        },
+        {
+          "name": "Julieta Rada",
+          "url": "https://open.spotify.com/artist/5KA95SZBQeMgNMTuqnxzJd"
+        }
+      ],
+      "duration_ms": 231464,
+      "name": "Qui\u00e9n Sos?",
+      "url": "https://open.spotify.com/track/2iq53i4P2VSj3Qc3DYbQTH"
+    },
+    {
+      "added_at": "2024-10-03 20:51:05",
+      "album": {
         "name": "Bebamos de las Copas Lindas",
         "url": "https://open.spotify.com/album/1Cn8QXjbDdiDEJst9nmWqV"
       },
@@ -1252,77 +1304,9 @@
           "url": "https://open.spotify.com/artist/18hhcln4FwPkj2iwxT5yB0"
         }
       ],
-      "duration_ms": 202680,
-      "name": "Lo De Siempre",
-      "url": "https://open.spotify.com/track/6QG5E3dAlrnoj8yIwJFr1X"
-    },
-    {
-      "added_at": "2024-10-03 20:51:05",
-      "album": {
-        "name": "La Naturaleza",
-        "url": "https://open.spotify.com/album/0aaqBC6otXqWPh7cZS8lIE"
-      },
-      "artists": [
-        {
-          "name": "Planta & Canta",
-          "url": "https://open.spotify.com/artist/2yW6FW6bMFIEtPJgYK4UQ0"
-        },
-        {
-          "name": "Los Cafres",
-          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
-        }
-      ],
-      "duration_ms": 254058,
-      "name": "La Naturaleza",
-      "url": "https://open.spotify.com/track/4tDRsEVf39hky9RJVY6dOY"
-    },
-    {
-      "added_at": "2024-10-03 20:51:05",
-      "album": {
-        "name": "Cover Me",
-        "url": "https://open.spotify.com/album/7pWasGxWxY1oVOA852CSM0"
-      },
-      "artists": [
-        {
-          "name": "Quique Neira",
-          "url": "https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe"
-        }
-      ],
-      "duration_ms": 325124,
-      "name": "Pensando En Ti",
-      "url": "https://open.spotify.com/track/5eqOwQa8tABk6m6wMPRJSd"
-    },
-    {
-      "added_at": "2024-10-03 20:51:05",
-      "album": {
-        "name": "The Lady in Red",
-        "url": "https://open.spotify.com/album/5hY2bdC4Tg8l3x2jjjYANd"
-      },
-      "artists": [
-        {
-          "name": "Rondamon",
-          "url": "https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP"
-        }
-      ],
-      "duration_ms": 225703,
-      "name": "The Lady in Red",
-      "url": "https://open.spotify.com/track/2K8NBYKFbKa9UhAGHnN6GX"
-    },
-    {
-      "added_at": "2024-10-03 20:51:05",
-      "album": {
-        "name": "Desinformation",
-        "url": "https://open.spotify.com/album/1K0WhObVbaoWr0JP4qzv5J"
-      },
-      "artists": [
-        {
-          "name": "Dancing Mood",
-          "url": "https://open.spotify.com/artist/70XauTb6oEJbXxFoH6wY9F"
-        }
-      ],
-      "duration_ms": 245750,
-      "name": "Desinformation",
-      "url": "https://open.spotify.com/track/1217Z3BPonXG3Kmm8aSkAp"
+      "duration_ms": 267666,
+      "name": "Lo Que Dicta El Tiempo",
+      "url": "https://open.spotify.com/track/5kSkRMrl8p1w63pybLjg0S"
     },
     {
       "added_at": "2024-10-03 20:51:05",
@@ -1343,6 +1327,22 @@
       "duration_ms": 191776,
       "name": "Seguirla",
       "url": "https://open.spotify.com/track/56Bv7jVPB3sLRBmUS6JJXD"
+    },
+    {
+      "added_at": "2024-10-03 20:51:05",
+      "album": {
+        "name": "Cover Me",
+        "url": "https://open.spotify.com/album/7pWasGxWxY1oVOA852CSM0"
+      },
+      "artists": [
+        {
+          "name": "Quique Neira",
+          "url": "https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe"
+        }
+      ],
+      "duration_ms": 325124,
+      "name": "Pensando En Ti",
+      "url": "https://open.spotify.com/track/5eqOwQa8tABk6m6wMPRJSd"
     },
     {
       "added_at": "2024-10-03 20:51:05",
@@ -1383,42 +1383,6 @@
     {
       "added_at": "2024-10-03 20:51:05",
       "album": {
-        "name": "Que Bonita Vecindad",
-        "url": "https://open.spotify.com/album/2K10aRTR266ouMt2UiGaJh"
-      },
-      "artists": [
-        {
-          "name": "Rondamon",
-          "url": "https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP"
-        },
-        {
-          "name": "Guillermo Bonetto",
-          "url": "https://open.spotify.com/artist/1rijasyRtILod4s1wmI78L"
-        }
-      ],
-      "duration_ms": 223405,
-      "name": "Nadie Sabe",
-      "url": "https://open.spotify.com/track/1OD9E9AtG0bgRgRxNNDeox"
-    },
-    {
-      "added_at": "2024-10-03 20:51:05",
-      "album": {
-        "name": "Amor De Barrio",
-        "url": "https://open.spotify.com/album/2LvjJW52h7wcohlk5hvGCj"
-      },
-      "artists": [
-        {
-          "name": "Leonchalon",
-          "url": "https://open.spotify.com/artist/18hhcln4FwPkj2iwxT5yB0"
-        }
-      ],
-      "duration_ms": 267666,
-      "name": "Lo Que Dicta El Tiempo",
-      "url": "https://open.spotify.com/track/5kSkRMrl8p1w63pybLjg0S"
-    },
-    {
-      "added_at": "2024-10-03 20:51:05",
-      "album": {
         "name": "Todo Es As\u00ed",
         "url": "https://open.spotify.com/album/3BzrCi7FL52ULRUI154X6K"
       },
@@ -1431,6 +1395,22 @@
       "duration_ms": 230132,
       "name": "Todo Es As\u00ed",
       "url": "https://open.spotify.com/track/0KXw3dbbDFx75viq9HtMT4"
+    },
+    {
+      "added_at": "2024-10-03 20:51:05",
+      "album": {
+        "name": "The Lady in Red",
+        "url": "https://open.spotify.com/album/5hY2bdC4Tg8l3x2jjjYANd"
+      },
+      "artists": [
+        {
+          "name": "Rondamon",
+          "url": "https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP"
+        }
+      ],
+      "duration_ms": 225703,
+      "name": "The Lady in Red",
+      "url": "https://open.spotify.com/track/2K8NBYKFbKa9UhAGHnN6GX"
     },
     {
       "added_at": "2024-10-03 20:51:05",
@@ -1519,6 +1499,26 @@
     {
       "added_at": "2024-10-03 20:51:05",
       "album": {
+        "name": "Que Bonita Vecindad",
+        "url": "https://open.spotify.com/album/2K10aRTR266ouMt2UiGaJh"
+      },
+      "artists": [
+        {
+          "name": "Rondamon",
+          "url": "https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP"
+        },
+        {
+          "name": "Guillermo Bonetto",
+          "url": "https://open.spotify.com/artist/1rijasyRtILod4s1wmI78L"
+        }
+      ],
+      "duration_ms": 223405,
+      "name": "Nadie Sabe",
+      "url": "https://open.spotify.com/track/1OD9E9AtG0bgRgRxNNDeox"
+    },
+    {
+      "added_at": "2024-10-03 20:51:05",
+      "album": {
         "name": "Estamos Tranki",
         "url": "https://open.spotify.com/album/1jemq69R5q7bw7iYEsBc8C"
       },
@@ -1539,18 +1539,22 @@
     {
       "added_at": "2024-10-03 20:51:05",
       "album": {
-        "name": "Celebremos",
-        "url": "https://open.spotify.com/album/3JGTUWHeX43xFKo1NcPt8Z"
+        "name": "Ruta",
+        "url": "https://open.spotify.com/album/6KFXfBh3diyG1luKZyVpji"
       },
       "artists": [
         {
-          "name": "Bahiano",
-          "url": "https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN"
+          "name": "KLUB",
+          "url": "https://open.spotify.com/artist/11NwV46MotnomZqyYxE2uY"
+        },
+        {
+          "name": "Dalasio",
+          "url": "https://open.spotify.com/artist/2C1xJBfgKnVe1xMyUD6yAb"
         }
       ],
-      "duration_ms": 251040,
-      "name": "Lo Que Te Queda",
-      "url": "https://open.spotify.com/track/3TfZW4btZFmocz8DM8fFFa"
+      "duration_ms": 225586,
+      "name": "Ruta",
+      "url": "https://open.spotify.com/track/0zskgFCZkUPqWsQ3ThZXyR"
     },
     {
       "added_at": "2024-10-03 20:51:05",

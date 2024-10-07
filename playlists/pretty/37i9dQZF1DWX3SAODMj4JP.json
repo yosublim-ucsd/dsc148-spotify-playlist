@@ -1,6 +1,6 @@
 {
   "description": "Uma pausa no dia para tomar um chocolate quente e aproveitar seu momento com Deus. ",
-  "num_followers": 146507,
+  "num_followers": 146537,
   "original_name": "Chocolate Crente",
   "owner": {
     "name": "Spotify",
@@ -143,6 +143,22 @@
     {
       "added_at": "2024-08-30 03:01:00",
       "album": {
+        "name": "Mem\u00f3rias Deluxe",
+        "url": "https://open.spotify.com/album/3b9hU8E13bsYweRr3Bsj7Y"
+      },
+      "artists": [
+        {
+          "name": "Eli Soares",
+          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
+        }
+      ],
+      "duration_ms": 271073,
+      "name": "Louvemos Ao Senhor",
+      "url": "https://open.spotify.com/track/2oecUNxFC5Pyvs63LGkfGa"
+    },
+    {
+      "added_at": "2024-08-30 03:01:00",
+      "album": {
         "name": "A Igreja Canta (Ao Vivo)",
         "url": "https://open.spotify.com/album/5N8VNemVfa6Si2s95CriSq"
       },
@@ -191,22 +207,6 @@
     {
       "added_at": "2024-08-30 03:01:00",
       "album": {
-        "name": "Se Eu Cair",
-        "url": "https://open.spotify.com/album/7AP25ejchlZmcQOautJjQv"
-      },
-      "artists": [
-        {
-          "name": "Eli Soares",
-          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
-        }
-      ],
-      "duration_ms": 335597,
-      "name": "Se Eu Cair",
-      "url": "https://open.spotify.com/track/70Cd7reM6PwvADdxqJfF5g"
-    },
-    {
-      "added_at": "2024-08-30 03:01:00",
-      "album": {
         "name": "Carried",
         "url": "https://open.spotify.com/album/2ae612G873GaK4EoWE9pYw"
       },
@@ -251,26 +251,6 @@
     {
       "added_at": "2024-08-30 03:01:00",
       "album": {
-        "name": "Julia Vit\u00f3ria - Ac\u00fastico (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1nWfNDrH7U42YN7mcg96G8"
-      },
-      "artists": [
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        },
-        {
-          "name": "Rachel Novaes",
-          "url": "https://open.spotify.com/artist/6gU3EmyD7Jzv8QZtiMwGRn"
-        }
-      ],
-      "duration_ms": 296053,
-      "name": "Jesus At The Center (Bonus Track) - Acoustic",
-      "url": "https://open.spotify.com/track/6BVAORpU07NGdy016XTA6M"
-    },
-    {
-      "added_at": "2024-08-30 03:01:00",
-      "album": {
         "name": "Tantos Mares",
         "url": "https://open.spotify.com/album/18fvdisM9gH3ZWH6ETAGBd"
       },
@@ -291,18 +271,22 @@
     {
       "added_at": "2024-08-30 03:01:00",
       "album": {
-        "name": "Mem\u00f3rias Deluxe",
-        "url": "https://open.spotify.com/album/3b9hU8E13bsYweRr3Bsj7Y"
+        "name": "Julia Vit\u00f3ria - Ac\u00fastico (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1nWfNDrH7U42YN7mcg96G8"
       },
       "artists": [
         {
-          "name": "Eli Soares",
-          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        },
+        {
+          "name": "Rachel Novaes",
+          "url": "https://open.spotify.com/artist/6gU3EmyD7Jzv8QZtiMwGRn"
         }
       ],
-      "duration_ms": 271073,
-      "name": "Louvemos Ao Senhor",
-      "url": "https://open.spotify.com/track/2oecUNxFC5Pyvs63LGkfGa"
+      "duration_ms": 296053,
+      "name": "Jesus At The Center (Bonus Track) - Acoustic",
+      "url": "https://open.spotify.com/track/6BVAORpU07NGdy016XTA6M"
     },
     {
       "added_at": "2024-08-30 03:01:00",
@@ -343,6 +327,22 @@
     {
       "added_at": "2024-08-30 03:01:00",
       "album": {
+        "name": "Se Eu Cair",
+        "url": "https://open.spotify.com/album/7AP25ejchlZmcQOautJjQv"
+      },
+      "artists": [
+        {
+          "name": "Eli Soares",
+          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
+        }
+      ],
+      "duration_ms": 335597,
+      "name": "Se Eu Cair",
+      "url": "https://open.spotify.com/track/70Cd7reM6PwvADdxqJfF5g"
+    },
+    {
+      "added_at": "2024-08-30 03:01:00",
+      "album": {
         "name": "Unplugged",
         "url": "https://open.spotify.com/album/7IvxPrVTnaP3iOqQQgsQ12"
       },
@@ -375,18 +375,18 @@
     {
       "added_at": "2024-08-30 03:01:00",
       "album": {
-        "name": "360 Graus",
-        "url": "https://open.spotify.com/album/6i9ALb6S9vy8OAjcbBjDwq"
+        "name": "Confiss\u00f5es",
+        "url": "https://open.spotify.com/album/4oja7GXMksLfoATvA4TQhK"
       },
       "artists": [
         {
-          "name": "Eli Soares",
-          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
+          "name": "Jeferson Pillar",
+          "url": "https://open.spotify.com/artist/4vqAhxv4WcsEcTv34ABpcZ"
         }
       ],
-      "duration_ms": 250485,
-      "name": "Aonde Est\u00e1 Deus?",
-      "url": "https://open.spotify.com/track/3fkXc9AcNBPiwfWqis8xKF"
+      "duration_ms": 248398,
+      "name": "Reina",
+      "url": "https://open.spotify.com/track/6Hwtp4JrwljQD3ASLDcA4c"
     },
     {
       "added_at": "2024-08-30 03:01:00",
@@ -407,22 +407,6 @@
       "duration_ms": 201247,
       "name": "Intimidade",
       "url": "https://open.spotify.com/track/3ZLitoWeyPEH4qxUpyyKM0"
-    },
-    {
-      "added_at": "2024-08-30 03:01:00",
-      "album": {
-        "name": "Confiss\u00f5es",
-        "url": "https://open.spotify.com/album/4oja7GXMksLfoATvA4TQhK"
-      },
-      "artists": [
-        {
-          "name": "Jeferson Pillar",
-          "url": "https://open.spotify.com/artist/4vqAhxv4WcsEcTv34ABpcZ"
-        }
-      ],
-      "duration_ms": 248398,
-      "name": "Reina",
-      "url": "https://open.spotify.com/track/6Hwtp4JrwljQD3ASLDcA4c"
     },
     {
       "added_at": "2024-08-30 03:01:00",
@@ -499,6 +483,22 @@
     {
       "added_at": "2024-08-30 03:01:00",
       "album": {
+        "name": "360 Graus",
+        "url": "https://open.spotify.com/album/6i9ALb6S9vy8OAjcbBjDwq"
+      },
+      "artists": [
+        {
+          "name": "Eli Soares",
+          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
+        }
+      ],
+      "duration_ms": 250485,
+      "name": "Aonde Est\u00e1 Deus?",
+      "url": "https://open.spotify.com/track/3fkXc9AcNBPiwfWqis8xKF"
+    },
+    {
+      "added_at": "2024-08-30 03:01:00",
+      "album": {
         "name": "Tua Presen\u00e7a Vale Mais",
         "url": "https://open.spotify.com/album/7547nl48X9lwWNOYsbXsaq"
       },
@@ -551,22 +551,6 @@
     {
       "added_at": "2024-08-30 03:01:00",
       "album": {
-        "name": "O Que Se Faz Aqui pra Ser Feliz (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/2Io37WuevaunbyNIzqpj0v"
-      },
-      "artists": [
-        {
-          "name": "Nathan Asafe",
-          "url": "https://open.spotify.com/artist/5ChPhSZzFXnTujdXY0FhMA"
-        }
-      ],
-      "duration_ms": 302750,
-      "name": "O Que Se Faz Aqui pra Ser Feliz - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/3LH84g4ns7kiJtOvZkyoea"
-    },
-    {
-      "added_at": "2024-08-30 03:01:00",
-      "album": {
         "name": "Agora, Aqui",
         "url": "https://open.spotify.com/album/7JVb4GTGgF942VVH0IJ6BR"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 205329,
       "name": "Agora, Aqui",
       "url": "https://open.spotify.com/track/5x5YBX9Pfi5WodeaGYGHdO"
+    },
+    {
+      "added_at": "2024-08-30 03:01:00",
+      "album": {
+        "name": "O Que Se Faz Aqui pra Ser Feliz (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/2Io37WuevaunbyNIzqpj0v"
+      },
+      "artists": [
+        {
+          "name": "Nathan Asafe",
+          "url": "https://open.spotify.com/artist/5ChPhSZzFXnTujdXY0FhMA"
+        }
+      ],
+      "duration_ms": 302750,
+      "name": "O Que Se Faz Aqui pra Ser Feliz - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/3LH84g4ns7kiJtOvZkyoea"
     },
     {
       "added_at": "2024-08-30 03:01:00",
@@ -815,6 +815,22 @@
     {
       "added_at": "2024-08-30 03:01:00",
       "album": {
+        "name": "Descansar em Ti",
+        "url": "https://open.spotify.com/album/0IDeeWZrrYFZUXtSZergef"
+      },
+      "artists": [
+        {
+          "name": "Talita Barreto",
+          "url": "https://open.spotify.com/artist/6hCE1qcuALXMkltFGrEM6Y"
+        }
+      ],
+      "duration_ms": 225230,
+      "name": "Descansar em Ti",
+      "url": "https://open.spotify.com/track/1lU9L6lPZkp4UAgdxbaJBQ"
+    },
+    {
+      "added_at": "2024-08-30 03:01:00",
+      "album": {
         "name": "Estou Com Voc\u00ea (Ao Vivo)",
         "url": "https://open.spotify.com/album/49jQMSEkQCZzFtvTAzXHKB"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 271154,
       "name": "Estou Com Voc\u00ea - Ao Vivo",
       "url": "https://open.spotify.com/track/3TFQbNmMPAFNHiNhHNuclS"
-    },
-    {
-      "added_at": "2024-08-30 03:01:00",
-      "album": {
-        "name": "Descansar em Ti",
-        "url": "https://open.spotify.com/album/0IDeeWZrrYFZUXtSZergef"
-      },
-      "artists": [
-        {
-          "name": "Talita Barreto",
-          "url": "https://open.spotify.com/artist/6hCE1qcuALXMkltFGrEM6Y"
-        }
-      ],
-      "duration_ms": 225230,
-      "name": "Descansar em Ti",
-      "url": "https://open.spotify.com/track/1lU9L6lPZkp4UAgdxbaJBQ"
     },
     {
       "added_at": "2024-08-30 03:01:00",
@@ -887,6 +887,22 @@
     {
       "added_at": "2024-08-30 03:01:00",
       "album": {
+        "name": "O Banquete",
+        "url": "https://open.spotify.com/album/3S5w5Tta9oQ6LN2PNoWJ5l"
+      },
+      "artists": [
+        {
+          "name": "O Bairro Novo",
+          "url": "https://open.spotify.com/artist/03lFVbrzJauPmQwZpiJ4zD"
+        }
+      ],
+      "duration_ms": 280760,
+      "name": "Corpo I",
+      "url": "https://open.spotify.com/track/7tU7sxEqyLoguEGbjiiiRl"
+    },
+    {
+      "added_at": "2024-08-30 03:01:00",
+      "album": {
         "name": "Soul Hymns (Live Sessions)",
         "url": "https://open.spotify.com/album/0Ey2hZpmOENZZFXtyXk9f1"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 321536,
       "name": "Captured - Live Session",
       "url": "https://open.spotify.com/track/3JK2OGtwRzxmKUf2fKPcVk"
-    },
-    {
-      "added_at": "2024-08-30 03:01:00",
-      "album": {
-        "name": "O Banquete",
-        "url": "https://open.spotify.com/album/3S5w5Tta9oQ6LN2PNoWJ5l"
-      },
-      "artists": [
-        {
-          "name": "O Bairro Novo",
-          "url": "https://open.spotify.com/artist/03lFVbrzJauPmQwZpiJ4zD"
-        }
-      ],
-      "duration_ms": 280760,
-      "name": "Corpo I",
-      "url": "https://open.spotify.com/track/7tU7sxEqyLoguEGbjiiiRl"
     },
     {
       "added_at": "2024-08-30 03:01:00",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2024-08-30 03:01:00",
       "album": {
-        "name": "Projeto Sola, Vol. 1",
-        "url": "https://open.spotify.com/album/7ikATn9s2QcWqbOi45OBUq"
-      },
-      "artists": [
-        {
-          "name": "Projeto Sola",
-          "url": "https://open.spotify.com/artist/7frHe3lyyKF5Uo1rDZ058K"
-        }
-      ],
-      "duration_ms": 251575,
-      "name": "Isa\u00edas 53",
-      "url": "https://open.spotify.com/track/2zVeDWssj901HV6DFN6d5d"
-    },
-    {
-      "added_at": "2024-08-30 03:01:00",
-      "album": {
         "name": "T\u00e1 Chorando Por Qu\u00ea?",
         "url": "https://open.spotify.com/album/7eZ3qo42FAWFHue9UkuHv5"
       },
@@ -1171,22 +1155,18 @@
     {
       "added_at": "2024-08-30 03:01:00",
       "album": {
-        "name": "BRAVE Pocket \u2022 Vol 01",
-        "url": "https://open.spotify.com/album/12rqvVWHFswROnqNJXOVQI"
+        "name": "Projeto Sola, Vol. 1",
+        "url": "https://open.spotify.com/album/7ikATn9s2QcWqbOi45OBUq"
       },
       "artists": [
         {
-          "name": "BRAVE",
-          "url": "https://open.spotify.com/artist/0HEKgwjfWOG03c4KMBMa3h"
-        },
-        {
-          "name": "Gustavo Silva",
-          "url": "https://open.spotify.com/artist/3GGrQcaaAEx6OC4hDef0mt"
+          "name": "Projeto Sola",
+          "url": "https://open.spotify.com/artist/7frHe3lyyKF5Uo1rDZ058K"
         }
       ],
-      "duration_ms": 223231,
-      "name": "Gratid\u00e3o",
-      "url": "https://open.spotify.com/track/3XmorLaBx6QokOfq3KGNUi"
+      "duration_ms": 251575,
+      "name": "Isa\u00edas 53",
+      "url": "https://open.spotify.com/track/2zVeDWssj901HV6DFN6d5d"
     },
     {
       "added_at": "2024-08-30 03:01:00",
@@ -1203,6 +1183,26 @@
       "duration_ms": 201282,
       "name": "Mais Perto Quero Estar",
       "url": "https://open.spotify.com/track/35DUClZPzxnb92NcikSBJK"
+    },
+    {
+      "added_at": "2024-08-30 03:01:00",
+      "album": {
+        "name": "BRAVE Pocket \u2022 Vol 01",
+        "url": "https://open.spotify.com/album/12rqvVWHFswROnqNJXOVQI"
+      },
+      "artists": [
+        {
+          "name": "BRAVE",
+          "url": "https://open.spotify.com/artist/0HEKgwjfWOG03c4KMBMa3h"
+        },
+        {
+          "name": "Gustavo Silva",
+          "url": "https://open.spotify.com/artist/3GGrQcaaAEx6OC4hDef0mt"
+        }
+      ],
+      "duration_ms": 223231,
+      "name": "Gratid\u00e3o",
+      "url": "https://open.spotify.com/track/3XmorLaBx6QokOfq3KGNUi"
     },
     {
       "added_at": "2024-08-30 03:01:00",

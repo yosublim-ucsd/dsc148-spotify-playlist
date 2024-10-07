@@ -1,12 +1,12 @@
 {
   "description": "This is City Girls. The essential tracks, all in one playlist.",
-  "num_followers": 38183,
+  "num_followers": 38188,
   "original_name": "This Is City Girls",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zv3egAAAAADRGNfcWLZMoBOmHuhSLf2h",
+  "snapshot_id": "ZwCBgAAAAADvE1p1nC3QT3ViHdU0TzKr",
   "tracks": [
     {
       "added_at": null,
@@ -127,26 +127,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Code Red",
-        "url": "https://open.spotify.com/album/4faPRidDvKRvHnWdvmvVHv"
+        "name": "Twerkulator",
+        "url": "https://open.spotify.com/album/0UMsQl5qJZAjhcj2985joB"
       },
       "artists": [
         {
-          "name": "Moneybagg Yo",
-          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
-        },
-        {
           "name": "City Girls",
           "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
-        },
-        {
-          "name": "DaBaby",
-          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
         }
       ],
-      "duration_ms": 177704,
-      "name": "Said Sum (feat. City Girls & DaBaby) - Remix",
-      "url": "https://open.spotify.com/track/13VXVxePp4NUiXwtmQ0viz"
+      "duration_ms": 138541,
+      "name": "Twerkulator",
+      "url": "https://open.spotify.com/track/2Ty7EDf9XLYzEUqEIwJfDC"
     },
     {
       "added_at": null,
@@ -171,18 +163,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Twerkulator",
-        "url": "https://open.spotify.com/album/0UMsQl5qJZAjhcj2985joB"
+        "name": "Code Red",
+        "url": "https://open.spotify.com/album/4faPRidDvKRvHnWdvmvVHv"
       },
       "artists": [
         {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        },
+        {
           "name": "City Girls",
           "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        },
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
         }
       ],
-      "duration_ms": 138541,
-      "name": "Twerkulator",
-      "url": "https://open.spotify.com/track/2Ty7EDf9XLYzEUqEIwJfDC"
+      "duration_ms": 177704,
+      "name": "Said Sum (feat. City Girls & DaBaby) - Remix",
+      "url": "https://open.spotify.com/track/13VXVxePp4NUiXwtmQ0viz"
     },
     {
       "added_at": null,
@@ -563,26 +563,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "RAW",
-        "url": "https://open.spotify.com/album/25wBD0erftkJDAsnDp8mzu"
-      },
-      "artists": [
-        {
-          "name": "City Girls",
-          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
-        },
-        {
-          "name": "Kim Petras",
-          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
-        }
-      ],
-      "duration_ms": 165517,
-      "name": "Flashy (feat. Kim Petras)",
-      "url": "https://open.spotify.com/track/7rofRRaFwjPUdcPUnrtFAu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Act Bad",
         "url": "https://open.spotify.com/album/7rzfZdTVwlL2gSHPLdizlQ"
       },
@@ -607,18 +587,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "City On Lock",
-        "url": "https://open.spotify.com/album/4VzVHSPoh9MP85THaTfYpN"
+        "name": "RAW",
+        "url": "https://open.spotify.com/album/25wBD0erftkJDAsnDp8mzu"
       },
       "artists": [
         {
           "name": "City Girls",
           "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        },
+        {
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
         }
       ],
-      "duration_ms": 131631,
-      "name": "Double CC's",
-      "url": "https://open.spotify.com/track/72SrBwk95IXQlnXjf0hoyw"
+      "duration_ms": 165517,
+      "name": "Flashy (feat. Kim Petras)",
+      "url": "https://open.spotify.com/track/7rofRRaFwjPUdcPUnrtFAu"
     },
     {
       "added_at": null,
@@ -635,6 +619,22 @@
       "duration_ms": 200560,
       "name": "Where The Bag At",
       "url": "https://open.spotify.com/track/7GlZhPkCA259c3ICFU0eaG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "City On Lock",
+        "url": "https://open.spotify.com/album/4VzVHSPoh9MP85THaTfYpN"
+      },
+      "artists": [
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        }
+      ],
+      "duration_ms": 131631,
+      "name": "Double CC's",
+      "url": "https://open.spotify.com/track/72SrBwk95IXQlnXjf0hoyw"
     },
     {
       "added_at": null,

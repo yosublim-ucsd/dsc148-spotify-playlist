@@ -2337,6 +2337,24 @@
     },
     {
       "album": {
+        "name": "Leon",
+        "url": "https://open.spotify.com/album/6mHNMtHrXIdUWWuZD9njsG"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "date_added": "2024-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231920,
+      "name": "Simplify",
+      "url": "https://open.spotify.com/track/3FWMV8E8bugipOWGaehWW6"
+    },
+    {
+      "album": {
         "name": "so sad so sexy",
         "url": "https://open.spotify.com/album/28AjCPTvrM4gQIiwo0CEOE"
       },

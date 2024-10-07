@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 
 > Fresh Punjabi Rap\. Cover: Guru Randhawa
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,384 likes - 53 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,394 likes - 53 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

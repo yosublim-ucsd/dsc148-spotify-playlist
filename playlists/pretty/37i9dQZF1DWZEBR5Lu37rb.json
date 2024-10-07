@@ -1,6 +1,6 @@
 {
   "description": "The iconic songs celebrating love across the African continent from the 2000's to date",
-  "num_followers": 73780,
+  "num_followers": 73829,
   "original_name": "100 Best African Love Songs ",
   "owner": {
     "name": "Spotify",
@@ -427,22 +427,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Rhythm & Blues",
-        "url": "https://open.spotify.com/album/5avPK0nUF9JHE01pCFW0mB"
-      },
-      "artists": [
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 144026,
-      "name": "Rhythm & Blues",
-      "url": "https://open.spotify.com/track/4yZIlBKbrvOfQlhR0oZvwS"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Baby",
         "url": "https://open.spotify.com/album/41pcUIAFrsou8ikyNIN8Kn"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 165448,
       "name": "Baby",
       "url": "https://open.spotify.com/track/0Yz6pPFinS7EKfaZRMY4uT"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Rhythm & Blues",
+        "url": "https://open.spotify.com/album/5avPK0nUF9JHE01pCFW0mB"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 144026,
+      "name": "Rhythm & Blues",
+      "url": "https://open.spotify.com/track/4yZIlBKbrvOfQlhR0oZvwS"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -639,6 +639,22 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
+        "name": "Wetin",
+        "url": "https://open.spotify.com/album/1tjrFRf90MQuWg9Vgv6Iwb"
+      },
+      "artists": [
+        {
+          "name": "Yarden",
+          "url": "https://open.spotify.com/artist/1nN9bKS2bD4OHNrKkS0Djd"
+        }
+      ],
+      "duration_ms": 78946,
+      "name": "Wetin",
+      "url": "https://open.spotify.com/track/3yu5otkADG1ldufrPxABoo"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
         "name": "Nakufa",
         "url": "https://open.spotify.com/album/2CWz097A1H3bExt8pHnaiH"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 304140,
       "name": "Jika",
       "url": "https://open.spotify.com/track/5CaUga1xSORieHUwZ5urnG"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "Wetin",
-        "url": "https://open.spotify.com/album/1tjrFRf90MQuWg9Vgv6Iwb"
-      },
-      "artists": [
-        {
-          "name": "Yarden",
-          "url": "https://open.spotify.com/artist/1nN9bKS2bD4OHNrKkS0Djd"
-        }
-      ],
-      "duration_ms": 78946,
-      "name": "Wetin",
-      "url": "https://open.spotify.com/track/3yu5otkADG1ldufrPxABoo"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1251,26 +1251,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Once Upon a Time",
-        "url": "https://open.spotify.com/album/26VFfANkR1FYyyTwtCi4eG"
-      },
-      "artists": [
-        {
-          "name": "Tiwa Savage",
-          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
-        },
-        {
-          "name": "Don Jazzy",
-          "url": "https://open.spotify.com/artist/3orxvFDFViCLknRO2O2m8a"
-        }
-      ],
-      "duration_ms": 230253,
-      "name": "Eminado (feat. Don Jazzy)",
-      "url": "https://open.spotify.com/track/3Gxold2xHisD55irEJ7du7"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Goosebumps",
         "url": "https://open.spotify.com/album/5oYRVVr3VpSZUbSVs8qdrO"
       },
@@ -1299,6 +1279,26 @@
       "duration_ms": 198620,
       "name": "ODO",
       "url": "https://open.spotify.com/track/5rRKhpWLZzDp8a7KZ4wPYO"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Once Upon a Time",
+        "url": "https://open.spotify.com/album/26VFfANkR1FYyyTwtCi4eG"
+      },
+      "artists": [
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        },
+        {
+          "name": "Don Jazzy",
+          "url": "https://open.spotify.com/artist/3orxvFDFViCLknRO2O2m8a"
+        }
+      ],
+      "duration_ms": 230253,
+      "name": "Eminado (feat. Don Jazzy)",
+      "url": "https://open.spotify.com/track/3Gxold2xHisD55irEJ7du7"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Barua ya Dunia",
-        "url": "https://open.spotify.com/album/7fLPbISe7JY8c0O0huAL0Z"
-      },
-      "artists": [
-        {
-          "name": "Elani",
-          "url": "https://open.spotify.com/artist/7v4v8ZiBQC6HHeCuA2lQ26"
-        }
-      ],
-      "duration_ms": 254986,
-      "name": "Kookoo",
-      "url": "https://open.spotify.com/track/5T5BqyMPNjS6t7booTFulF"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Don't Keep Me Waiting",
         "url": "https://open.spotify.com/album/0DwcT9VT9F293ojbvOaVzR"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 227864,
       "name": "Don't Keep Me Waiting",
       "url": "https://open.spotify.com/track/13TEzGeUmbKSyyZjDv6ygG"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Barua ya Dunia",
+        "url": "https://open.spotify.com/album/7fLPbISe7JY8c0O0huAL0Z"
+      },
+      "artists": [
+        {
+          "name": "Elani",
+          "url": "https://open.spotify.com/artist/7v4v8ZiBQC6HHeCuA2lQ26"
+        }
+      ],
+      "duration_ms": 254986,
+      "name": "Kookoo",
+      "url": "https://open.spotify.com/track/5T5BqyMPNjS6t7booTFulF"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Expressions",
-        "url": "https://open.spotify.com/album/01SktV4RyLV8DXEefe5YUB"
-      },
-      "artists": [
-        {
-          "name": "Styl-Plus",
-          "url": "https://open.spotify.com/artist/3WzoYG00RDcrAD5ZPAUmPy"
-        }
-      ],
-      "duration_ms": 320012,
-      "name": "Olufunmi",
-      "url": "https://open.spotify.com/track/0AOcD9HShrW6Svt3GZYEVE"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Kulture Noir",
         "url": "https://open.spotify.com/album/5NWVDJtZsH6eHwaBfcwC5z"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 426746,
       "name": "Mayine",
       "url": "https://open.spotify.com/track/7fFCetN4cwF4gWKIqfOFNZ"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Expressions",
+        "url": "https://open.spotify.com/album/01SktV4RyLV8DXEefe5YUB"
+      },
+      "artists": [
+        {
+          "name": "Styl-Plus",
+          "url": "https://open.spotify.com/artist/3WzoYG00RDcrAD5ZPAUmPy"
+        }
+      ],
+      "duration_ms": 320012,
+      "name": "Olufunmi",
+      "url": "https://open.spotify.com/track/0AOcD9HShrW6Svt3GZYEVE"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Ex",
-        "url": "https://open.spotify.com/album/4TnCuNvX8Bzhbx2uv5K5cR"
-      },
-      "artists": [
-        {
-          "name": "Nikita Kering'",
-          "url": "https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Ex",
-      "url": "https://open.spotify.com/track/2r4GUjWmfz5xth28hb7a6G"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Zaneliza: How the Water Moves",
         "url": "https://open.spotify.com/album/4Dh0JLuYLhSeoZQ2fQ3Bdm"
       },
@@ -1699,6 +1683,22 @@
       "duration_ms": 325433,
       "name": "Liwa Lentliziyo",
       "url": "https://open.spotify.com/track/0pI9v5qwiZnha3qd2VDS89"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Ex",
+        "url": "https://open.spotify.com/album/4TnCuNvX8Bzhbx2uv5K5cR"
+      },
+      "artists": [
+        {
+          "name": "Nikita Kering'",
+          "url": "https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Ex",
+      "url": "https://open.spotify.com/track/2r4GUjWmfz5xth28hb7a6G"
     },
     {
       "added_at": "2024-05-22 11:00:00",

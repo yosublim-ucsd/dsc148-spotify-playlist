@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0HGqVQ.md) - [plain]
 
 > This Is Los inquietos del vallenato\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,984 likes - 33 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,993 likes - 33 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Nunca Niegues Que Te Amo](https://open.spotify.com/track/0XWWn8bfpir8M3YHq1h7uJ) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [30 Mejores](https://open.spotify.com/album/3q8OdkyrGwVNUgiKTvvCZX) | 5:00 |
-| 2 | [Te Pierdo Y Te Pienso](https://open.spotify.com/track/0WNAzUD7bWABK4ZFui9r4k) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Eternamente](https://open.spotify.com/album/0xsLFXW6C2juv4RIGc57Xi) | 4:56 |
-| 3 | [Ven A Mí](https://open.spotify.com/track/3FbY8IsVYAnchlr4wQfH2e) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Presente Y Futuro](https://open.spotify.com/album/3oeBPJdALfu8Ou124ezdxt) | 4:44 |
+| 2 | [Ven A Mí](https://open.spotify.com/track/3FbY8IsVYAnchlr4wQfH2e) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Presente Y Futuro](https://open.spotify.com/album/3oeBPJdALfu8Ou124ezdxt) | 4:44 |
+| 3 | [Te Pierdo Y Te Pienso](https://open.spotify.com/track/0WNAzUD7bWABK4ZFui9r4k) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Eternamente](https://open.spotify.com/album/0xsLFXW6C2juv4RIGc57Xi) | 4:56 |
 | 4 | [Mi Dulce Amor](https://open.spotify.com/track/4ZSvjWWlGJo0x4D9ukmtxU) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Por Siempre](https://open.spotify.com/album/7d4AUGntqzeyRONGCnKNwH) | 5:06 |
 | 5 | [Volver](https://open.spotify.com/track/76k5BZctXgW2IyrYjKGNP6) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [30 Mejores](https://open.spotify.com/album/3q8OdkyrGwVNUgiKTvvCZX) | 4:54 |
 | 6 | [Despues De Ti](https://open.spotify.com/track/3IgW1DodMOAua5GWZXRuBJ) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Volver A Triunfar](https://open.spotify.com/album/70Z5OTH97swUCDxPvUC6am) | 3:25 |
@@ -42,4 +42,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0HGqVQ.md) - [plain]
 | 32 | [Dile](https://open.spotify.com/track/47VC5BRjUYrQkd8JaWr021) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Dile](https://open.spotify.com/album/143SIavj9rMMqlN8FQEn8b) | 3:33 |
 | 33 | [Mejor No Somos Nada](https://open.spotify.com/track/7GR5PfiTaDyncp1M1si4gh) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Eternamente](https://open.spotify.com/album/0xsLFXW6C2juv4RIGc57Xi) | 5:17 |
 
-Snapshot ID: `Zv3egAAAAADPaPoN1Ii9cGMYjfsvmySw`
+Snapshot ID: `ZwCBgAAAAABPy7pSs+BXkoqgNgqGME++`

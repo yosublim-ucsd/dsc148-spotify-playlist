@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFE4tqXM95AGH.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4ZIckimeCjQpyqu39pufX2">Leland</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,197 likes - 171 songs - 9 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,198 likes - 171 songs - 9 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFE4tqXM95AGH.md) - [plain]
 | 48 | [85](https://open.spotify.com/track/2pipRHTv8rCeRyZL3smnsT) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj) | [The Good Parts](https://open.spotify.com/album/1HxoWQzPqd5JZyBpQ9ZlSf) | 3:21 |
 | 49 | [End Up With You](https://open.spotify.com/track/5XIrB4tNKqmGxtVbYpTllz) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Cry Pretty](https://open.spotify.com/album/6LURWtPusB5fGenqj0lbFd) | 3:13 |
 | 50 | [Love Me Wrong](https://open.spotify.com/track/6OIpGjctdltVSI6ERlirIq) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Cape God](https://open.spotify.com/album/47wRFo2As9zFmg6E5VVa8H) | 3:12 |
-| 51 | [Feel Something \(feat\. Duncan Laurence\)](https://open.spotify.com/track/00JYHDGMCHtMnCw3iqBxkY) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434) | [Feel Something \(feat\. Duncan Laurence\)](https://open.spotify.com/album/7ex8A5McEuRHMwynXZgONx) | 2:35 |
-| 52 | [In My Room](https://open.spotify.com/track/7lhAowB1rRlp1UfVkHqpD2) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP), [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [Something To Give Each Other](https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E) | 3:13 |
+| 51 | [In My Room](https://open.spotify.com/track/7lhAowB1rRlp1UfVkHqpD2) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP), [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [Something To Give Each Other](https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E) | 3:13 |
+| 52 | [Feel Something \(feat\. Duncan Laurence\)](https://open.spotify.com/track/00JYHDGMCHtMnCw3iqBxkY) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434) | [Feel Something \(feat\. Duncan Laurence\)](https://open.spotify.com/album/7ex8A5McEuRHMwynXZgONx) | 2:35 |
 | 53 | [Someone Else](https://open.spotify.com/track/28HfRT3Zjmt1KgIZFjlWlW) | [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434) | [Small Town Boy \(Track By Track\)](https://open.spotify.com/album/4fEgAL4ge9hHhxVDCUZbeF) | 3:04 |
 | 54 | [2 die 4 \(feat\. Charli XCX\)](https://open.spotify.com/track/7lvfYYQXH6fxP7JAiY1tjz) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP), [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [AR](https://open.spotify.com/album/4HFL8GJomswlqQwqJGwKDt) | 2:06 |
 | 55 | [Smoke Slow](https://open.spotify.com/track/4sEN7hRcdfzDpk4wUG47qO) | [Joshua Bassett](https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J) | [Smoke Slow](https://open.spotify.com/album/4XJN8Qw5AGmKnDHbaiE05b) | 2:43 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFE4tqXM95AGH.md) - [plain]
 | 63 | [Revelation](https://open.spotify.com/track/7sUJolVaoEBoP4l4qHiQSe) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP), [Jónsi](https://open.spotify.com/artist/3khg8RDB6nMuw34w1IHS6Y) | [Boy Erased \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3QSiPewI3wL9NU4znGgrw5) | 3:51 |
 | 64 | [STUD](https://open.spotify.com/track/1trCZF4aa39AhDCfTBw8Qn) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [In A Dream \(Bonus Track Version\)](https://open.spotify.com/album/66M3ZXJLIgROFqMla74reu) | 3:29 |
 | 65 | [Cool](https://open.spotify.com/track/4Ab4qiJwF34AREVIpjiBeF) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Sit Still, Look Pretty](https://open.spotify.com/album/6cMcASNBAfVvmv0AT6IQj4) | 3:34 |
-| 66 | [Don't Wait](https://open.spotify.com/track/5sBdbAZ2a2LJ775CsbkM2h) | [Joey Graceffa](https://open.spotify.com/artist/50zhmSD9wi3LHamXKx8A2W) | [Don't Wait](https://open.spotify.com/album/7vynUmVpp3L0DIcLKAIOXO) | 3:25 |
-| 67 | [Silly](https://open.spotify.com/track/0Brx9I3vh7Po30gxsTtLz5) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Something To Give Each Other](https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E) | 3:38 |
+| 66 | [Silly](https://open.spotify.com/track/0Brx9I3vh7Po30gxsTtLz5) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Something To Give Each Other](https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E) | 3:38 |
+| 67 | [Don't Wait](https://open.spotify.com/track/5sBdbAZ2a2LJ775CsbkM2h) | [Joey Graceffa](https://open.spotify.com/artist/50zhmSD9wi3LHamXKx8A2W) | [Don't Wait](https://open.spotify.com/album/7vynUmVpp3L0DIcLKAIOXO) | 3:25 |
 | 68 | [Ignore Me](https://open.spotify.com/track/5GQZR3YTEXT98ZaVxXPWVN) | [Betty Who](https://open.spotify.com/artist/0t3QQl52F463sxGXb1ckhB) | [Betty](https://open.spotify.com/album/3ZRkEpaewmFKhHKmGCVRs7) | 3:13 |
 | 69 | [U12](https://open.spotify.com/track/18aacKBjManeCW688A6IGf) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Sit Still, Look Pretty](https://open.spotify.com/album/6cMcASNBAfVvmv0AT6IQj4) | 3:23 |
 | 70 | [Can't Go Back, Baby](https://open.spotify.com/track/6fNyEK8kTquBSUTHbqbfaK) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Something To Give Each Other](https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E) | 3:21 |
@@ -180,4 +180,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFE4tqXM95AGH.md) - [plain]
 | 170 | [Euphoria](https://open.spotify.com/track/1nXyc1QOTa5Rnhg5udF0vr) | [Christopher Goulstone](https://open.spotify.com/artist/6A6hCC07Ix0YCGFfENcWYI), [Neil Taylor](https://open.spotify.com/artist/3th0fmbYOynihCppJzNJLM) | [Rock Highway Dreams](https://open.spotify.com/album/5c4U5JArDApW4JUyEEk3Tz) | 3:26 |
 | 171 | [I'm a Rapper](https://open.spotify.com/track/3Pt8mRiKVgnun7ULVmKTLB) | [Pfool](https://open.spotify.com/artist/4yNdC9T7fkyn8yB1E8cTLY) | [Ultimate Hottest Hits 2013, Vol\. 6 \(The Best of the Teenies\)](https://open.spotify.com/album/5PtK4h7lKH3ittcrWu7hqi) | 2:55 |
 
-Snapshot ID: `Abd//gAAAAAhpgf4rhb46XdK8b1y/gJ3`
+Snapshot ID: `AbeFngAAAAAy+CiC8hs+5JksNCQSPuDW`

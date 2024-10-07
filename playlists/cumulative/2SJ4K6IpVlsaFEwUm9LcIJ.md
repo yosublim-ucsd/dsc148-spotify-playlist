@@ -4,7 +4,7 @@
 
 > what i&\#x27;m listening to: sept\-oct 2024 \(previous playlists archived on my profile\) \(image source: @therapist\_kirby on IG\)
 
-309 songs - 16 hr 12 min
+310 songs - 16 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [A Whole New Shape](https://open.spotify.com/track/0TTyYV1dQAcB5uDH9VJKbQ) | [Happyness](https://open.spotify.com/artist/4nddgNqdf0SFeeqhbDN6rN) | [Weird Little Birthday](https://open.spotify.com/album/64hZe9D1dLyyq0s3NLBfsB) | 3:25 | 2024-06-23 | 2024-07-12 |
 | [A/B](https://open.spotify.com/track/6XSxFVLPizXBjvRj1LSLMa) | [Fine](https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5) | [A/B](https://open.spotify.com/album/6KSS1RgmJO0eqNglGiLrhU) | 4:57 | 2024-04-25 | 2024-05-16 |
 | [Aaron & Maria](https://open.spotify.com/track/2Uis5SlTxVJGLii6QYlHl1) | [The American Analog Set](https://open.spotify.com/artist/376EkILFaF7BFBHr9Rzn7A) | [Know By Heart](https://open.spotify.com/album/1l1uLro07bvHaIFYs4uibG) | 3:10 | 2024-04-12 | 2024-05-16 |
-| [Above Your Head](https://open.spotify.com/track/3gMbaUdsgtdM0TX24Pdy5W) | [Memory Of Jane](https://open.spotify.com/artist/4sU782GTDIMkKacoc4EuxM) | [In The Double](https://open.spotify.com/album/6ArXQJGo5C2UbKEM2hbqEb) | 2:43 | 2024-09-18 |  |
+| [Above Your Head](https://open.spotify.com/track/3gMbaUdsgtdM0TX24Pdy5W) | [Memory Of Jane](https://open.spotify.com/artist/4sU782GTDIMkKacoc4EuxM) | [In The Double](https://open.spotify.com/album/6ArXQJGo5C2UbKEM2hbqEb) | 2:43 | 2024-09-18 | 2024-10-07 |
 | [After the Farmer's Wife](https://open.spotify.com/track/3IAnFuQUscnMQdCwz0HS81) | [Benny Benji](https://open.spotify.com/artist/31Fp7TWqvWz0fnyCvOEfZP) | [Hitch Your Wagon to a Star](https://open.spotify.com/album/5UpLbFxtP5aWQhIfKZlvSQ) | 1:31 | 2024-03-20 | 2024-05-16 |
 | [Against All Odds \(Take a Look at Me Now\) \- 2016 Remaster](https://open.spotify.com/track/63CHa6rmamv9OsehkRD8oz) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [The Singles \(Expanded\)](https://open.spotify.com/album/7yZHLfxqiGPbSQLrVJljah) | 3:26 | 2024-03-26 | 2024-05-16 |
 | [AIR BY BUS](https://open.spotify.com/track/1xiVKpE9xkNLCjQS9EttM8) | [DOOPEES](https://open.spotify.com/artist/6S7MhIZberHR1iHRE6obUf) | [DOOPEE TIME](https://open.spotify.com/album/4ZrrsbXBe0byye7R0Spx1x) | 1:30 | 2024-01-31 | 2024-03-10 |
@@ -142,6 +142,7 @@
 | [In the Jailhouse Now](https://open.spotify.com/track/5qhjl6GzrmwPYpJJFh2SRz) | [Jimmie Rodgers](https://open.spotify.com/artist/0Y0ZlznP6vzTS1qAm5dvTN) | [The Essential Jimmie Rodgers](https://open.spotify.com/album/0lJQLQcYDv5QUWll4w9TC3) | 3:18 | 2024-06-12 | 2024-06-22 |
 | [In This City](https://open.spotify.com/track/65HFAlZSfeIKZgOlctCYgp) | [Enon](https://open.spotify.com/artist/3jJxGc6wl7xvZHSg8tg61V) | [High Society](https://open.spotify.com/album/22xdBowvTHJ7kOkR3srCzx) | 4:01 | 2024-07-12 | 2024-09-08 |
 | [In Your Eyes](https://open.spotify.com/track/1wyluqXP2ujdTpCfm1E617) | [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I) | [So \(Remastered\)](https://open.spotify.com/album/0hQb1KT6L3iEYRkS5u8cjm) | 5:27 | 2024-04-13 | 2024-05-16 |
+| [Ingrown](https://open.spotify.com/track/7n8Ttf94YjrqnoViRt1OCM) | [Smudge](https://open.spotify.com/artist/4wc3ixM7PquP8TPkBK3bXJ) | [Manilow](https://open.spotify.com/album/4sdDcy0acdFql67SxVddjQ) | 3:11 | 2024-10-06 |  |
 | [Inside the Golden Days of Missing You](https://open.spotify.com/track/068xIt3dOCHgyUGPn8EUqy) | [Silver Jews](https://open.spotify.com/artist/4ePunOqQbOYoQwd1298g3Z) | [The Natural Bridge](https://open.spotify.com/album/53s93tksSeBis2gL50AQPJ) | 2:26 | 2024-07-25 | 2024-07-29 |
 | [It Can Feel So Good](https://open.spotify.com/track/1CVK1udYLWWqoJ0pSdtk3j) | [Zammuto](https://open.spotify.com/artist/1aolDYgNWRTDQWUZ8C7jZu) | [Veryone](https://open.spotify.com/album/3tjeakbcyy8YGjuJ88S1dX) | 4:04 | 2024-09-07 |  |
 | [Italian Movie Theme \- Remastered](https://open.spotify.com/track/3sfv08MyrU9umiLipkeC6x) | [Pylon](https://open.spotify.com/artist/0eLbmh14uMx3VB0MPM1r4L) | [Chomp \(Remastered\)](https://open.spotify.com/album/0QOaUj1Rs96z0RMF5dSgE7) | 2:01 | 2024-10-01 |  |
@@ -220,7 +221,7 @@
 | [Qi Velocity](https://open.spotify.com/track/4jwqOfpGkR0OdiASvDj4OB) | [Peel Dream Magazine](https://open.spotify.com/artist/0Un1afF0WG8Eh94e1NqOEd) | [Modern Meta Physic](https://open.spotify.com/album/6pwbRbZ8bOflLkA0lK2dFN) | 2:27 | 2024-01-29 | 2024-03-10 |
 | [Quit Your Job, Runaway!](https://open.spotify.com/track/1zeufW5l91Hj4WMaSDIkih) | [Junior Mesa](https://open.spotify.com/artist/0tqSrr7nI6j3yOlMZJGCUX) | [Quit Your Job, Runaway!](https://open.spotify.com/album/6027fNILSRndfej1CldyP4) | 2:46 | 2024-05-16 | 2024-07-12 |
 | [R&B](https://open.spotify.com/track/3LtQtMTElsBhQQl1Oe2WVv) | [MIKE](https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU), [Tony Seltzer](https://open.spotify.com/artist/3xLOLsGCDyUCj1L9W5fUpl) | [R&B](https://open.spotify.com/album/3GtGp6gTuR28nRXbJmkmPj) | 1:49 | 2024-03-13 | 2024-03-21 |
-| [Remina Two](https://open.spotify.com/track/12H02g9N8iAU61QZmduL6w) | [BEA1991](https://open.spotify.com/artist/6F93aFbWjhUtjRKXYmtr1Z) | [Remina Two](https://open.spotify.com/album/0W1RyM2i9XVqALFR9QyEF9) | 2:55 | 2024-09-18 |  |
+| [Remina Two](https://open.spotify.com/track/12H02g9N8iAU61QZmduL6w) | [BEA1991](https://open.spotify.com/artist/6F93aFbWjhUtjRKXYmtr1Z) | [Remina Two](https://open.spotify.com/album/0W1RyM2i9XVqALFR9QyEF9) | 2:55 | 2024-09-18 | 2024-10-07 |
 | [Reunion](https://open.spotify.com/track/7cSwv1A2yKLUIf7ya0tKxJ) | [Korea Girl](https://open.spotify.com/artist/1Z5bekaSxinwyB2pxG6pks) | [The Complete Discography](https://open.spotify.com/album/5rQPHWyiLu7mkHIb3p8F5r) | 4:21 | 2024-09-23 |  |
 | [River](https://open.spotify.com/track/5d3ArMtXKdeBwBv9DCbA7W) | [玉木宏樹](https://open.spotify.com/artist/6UfotY8b9W0EPzqlwpfx7z) | [Bhagwan Shree Rajneesh](https://open.spotify.com/album/3W2sfOVM41xfJRZSd0WXdD) | 5:48 | 2024-09-27 |  |
 | [Road](https://open.spotify.com/track/5ir0VEsMI7cLhN6SEiaKol) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Pink Moon](https://open.spotify.com/album/5mwOo1zikswhmfHvtqVSXg) | 1:59 | 2024-05-16 | 2024-07-12 |

@@ -4,7 +4,7 @@
 
 > The vibes
 
-15 songs - 59 min 4 sec
+16 songs - 1 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,5 +23,6 @@
 | [Spooky, Scary Skeletons \- Undead Tombstone Remix Extended](https://open.spotify.com/track/5kwuPm3p11TnirbMvcGrZZ) | [Andrew Gold](https://open.spotify.com/artist/5fmvGUlMVgmnCn45f1he7d) | [Halloween Howls: Fun & Scary Music \(Deluxe Edition\)](https://open.spotify.com/album/2kAB6U6XJQ9lXK7TPsmaR4) | 3:49 | 2023-11-22 |  |
 | [Stayin' Alive](https://open.spotify.com/track/4Yrp0XlskLPSDStBxXIrKx) | [Brian David Gilbert](https://open.spotify.com/artist/2kHRbJk5oBq8T5fWYLFzpm) | [Bee Dee Gee's Hee Bee Bee Gees](https://open.spotify.com/album/0GOWf73AODnueap6qkvsOJ) | 4:15 | 2023-03-28 |  |
 | [Tragedy](https://open.spotify.com/track/4fHjKoMUTv7PZ9HywAJMFP) | [Brian David Gilbert](https://open.spotify.com/artist/2kHRbJk5oBq8T5fWYLFzpm) | [Bee Dee Gee's Hee Bee Bee Gees](https://open.spotify.com/album/0GOWf73AODnueap6qkvsOJ) | 3:56 | 2023-03-25 |  |
+| [Werewolves of London](https://open.spotify.com/track/6kotXaSQaGYxE62hVpdHWu) | [Warren Zevon](https://open.spotify.com/artist/3mY9Ii0cL5SQxpOTAm8SHx) | [Excitable Boy](https://open.spotify.com/album/03WJAI8NnJHvCNqnlLw8kg) | 3:29 | 2024-10-06 |  |
 
 \*This playlist was first scraped on 2024-01-09. Prior content cannot be recovered.

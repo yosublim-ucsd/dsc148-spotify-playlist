@@ -1230,7 +1230,7 @@
       ],
       "date_added": "2024-08-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-04",
+      "date_removed": null,
       "duration_ms": 207347,
       "name": "Be Mine",
       "url": "https://open.spotify.com/track/3LWVXp636uLT356Rj08Jaz"
@@ -3748,7 +3748,7 @@
       ],
       "date_added": "2024-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-07",
       "duration_ms": 148082,
       "name": "FRI(END)S",
       "url": "https://open.spotify.com/track/0PBTlQ84CBJF0tBnKGmQa6"
@@ -8128,7 +8128,7 @@
       ],
       "date_added": "2024-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-07",
       "duration_ms": 182453,
       "name": "Promethazine",
       "url": "https://open.spotify.com/track/25n8diXqpb6LKyL0Dwzwoy"
@@ -10340,6 +10340,24 @@
     {
       "album": {
         "name": "Armageddon - The 1st Album",
+        "url": "https://open.spotify.com/album/3vk3MR4IL2EMC4ksN5pCo4"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "date_added": "2024-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178880,
+      "name": "Supernova",
+      "url": "https://open.spotify.com/track/2JhbSmNAyM9kYiqwa8Tpla"
+    },
+    {
+      "album": {
+        "name": "Armageddon - The 1st Album",
         "url": "https://open.spotify.com/album/3gHhPm8z8tid1kvpniUKuK"
       },
       "artists": [
@@ -10404,7 +10422,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-07",
       "duration_ms": 178880,
       "name": "Supernova",
       "url": "https://open.spotify.com/track/4sgMbwl9lXGyHcHmtFYGMm"
@@ -10566,7 +10584,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-07",
       "duration_ms": 157906,
       "name": "TAP",
       "url": "https://open.spotify.com/track/1JxRZB6gjp3nsn2jUIaXMs"
@@ -11868,7 +11886,7 @@
       ],
       "date_added": "2023-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-17",
+      "date_removed": null,
       "duration_ms": 179164,
       "name": "You & Me",
       "url": "https://open.spotify.com/track/6gcuJpHu0Ey30D5WR76y98"
@@ -15068,7 +15086,7 @@
       ],
       "date_added": "2024-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-04",
+      "date_removed": null,
       "duration_ms": 223000,
       "name": "\u0e27\u0e31\u0e19\u0e17\u0e35\u0e48\u0e19\u0e32\u0e2c\u0e34\u0e01\u0e32\u0e02\u0e2d\u0e07\u0e40\u0e23\u0e32\u0e2b\u0e21\u0e38\u0e19\u0e44\u0e1b\u0e1e\u0e23\u0e49\u0e2d\u0e21\u0e01\u0e31\u0e19",
       "url": "https://open.spotify.com/track/6JtHYZAi56uJEBc8iihR7j"

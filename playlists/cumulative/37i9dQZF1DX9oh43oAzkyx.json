@@ -6392,7 +6392,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-07",
       "duration_ms": 146732,
       "name": "See Wat I\u2019m Sayin",
       "url": "https://open.spotify.com/track/30vAfL9Wyu2fu07vdbZ1Xt"
@@ -8120,6 +8120,32 @@
       "duration_ms": 170053,
       "name": "Wow. - Remix",
       "url": "https://open.spotify.com/track/0fcq51a3gOI6gPvzc0YLsk"
+    },
+    {
+      "album": {
+        "name": "SPEAK NOW OR...",
+        "url": "https://open.spotify.com/album/3JfTxMny1oIZDmYcBnoHWT"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "Big Boogie",
+          "url": "https://open.spotify.com/artist/372IgXgnCt4wlfumrMTIOs"
+        }
+      ],
+      "date_added": "2024-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213524,
+      "name": "WYD (with GloRilla & Big Boogie)",
+      "url": "https://open.spotify.com/track/4Z3xZgvuCVn5ds2YdpZVaS"
     },
     {
       "album": {

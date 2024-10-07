@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 1 like - 526 songs - 1 day 10 hr 49 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 1 like - 527 songs - 1 day 11 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -534,5 +534,6 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 524 | [A Day a Gorilla Gives a Banana](https://open.spotify.com/track/44cO7NLBFvQJ7ltmvwiuKQ) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA), [Jaques Morelenbaum](https://open.spotify.com/artist/5QdS83aNvQzKgj43VTdY8d), [Everton Nelson](https://open.spotify.com/artist/3uirG8XMhBhvbdb9adqYMf) | [1996](https://open.spotify.com/album/39iOsfOrW1UpE3dbdFPl0F) | 1:40 |
 | 525 | [Vocoder \[Club Mix\]](https://open.spotify.com/track/4Bbb5DAOZvlbxsNkjf8UQY) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Cascade](https://open.spotify.com/album/4IYnAmZ8GvmNFF2ZxxKT8L) | 7:31 |
 | 526 | [Reflections in Suspension \- 30th Anniversary Remaster](https://open.spotify.com/track/6qdwDI0a8FJMSOl4lr6ghT) | [Steve Roach](https://open.spotify.com/artist/00gh6kmKYOu8xyorRxQm6a) | [Structures From Silence \(30th Anniversary Remaster\)](https://open.spotify.com/album/194ZxFpjv5ttxZan4caXRq) | 16:46 |
+| 527 | [I Trawl the Megahertz](https://open.spotify.com/track/5SrrNjgc5Diwj3IunGepM6) | [Prefab Sprout](https://open.spotify.com/artist/4w3QqrcmBv8dasemwBXmxf) | [I Trawl the Megahertz](https://open.spotify.com/album/3JtTs7tzD7uj6hpPb1apkT) | 22:05 |
 
-Snapshot ID: `AAAGj3X6fs7WfbquExBCxJO5fmc2eRRJ`
+Snapshot ID: `AAAGkEoiMQ+lnNwa2yHzb52h7GHQtS2q`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 
 > The hottest Hip\-Hop of today all over the world\. \(Cover: A$AP Ferg\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 445,200 likes - 100 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 445,203 likes - 100 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 | 74 | [Are you serious?](https://open.spotify.com/track/7EEJXDmUYdIZCoabv8jUXk) | [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5) | [Are you serious?](https://open.spotify.com/album/1VkcEVXoIxaOXyfgw28DYi) | 2:11 |
 | 75 | [Hell Or High Water](https://open.spotify.com/track/3eFrJnRorDC3BYPPXpbMBF) | [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd) | [Hell Or High Water](https://open.spotify.com/album/02Vv39T1NCVoc5EetX7k1q) | 2:36 |
 | 76 | [Wet Dreams \(feat\. coop & gg\)](https://open.spotify.com/track/20LfID5lY83tDZAHZqpFtC) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [coop](https://open.spotify.com/artist/39Fgy3DGHvOP32RcQ8U4bv), [gg](https://open.spotify.com/artist/12XC7Vu5zRQ9Q8UFmX6Fnw) | [Wet Dreams \(feat\. coop & gg\)](https://open.spotify.com/album/65NAjD3jks0YWWLVkl2VnO) | 2:39 |
-| 77 | [Or What](https://open.spotify.com/track/3lUYO6zvXI88sNDpyKvIJ2) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [41](https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8) | [Or What](https://open.spotify.com/album/0O5WgUe2bObIlk6R0nwOs2) | 3:19 |
+| 77 | [Or What](https://open.spotify.com/track/3lUYO6zvXI88sNDpyKvIJ2) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [41](https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8), [Kyle Richh](https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU) | [Or What](https://open.spotify.com/album/0O5WgUe2bObIlk6R0nwOs2) | 3:19 |
 | 78 | [SILVERSTONE SUMMERTIMES III.](https://open.spotify.com/track/4nSIagdYwtuni95rRopyty) | [Thelonious](https://open.spotify.com/artist/7oMI2F5UkZ6zozGE7jxRRI) | [SILVERSTONE SUMMERTIMES III.](https://open.spotify.com/album/1FgNpmK9hdaVy9fZq5HK5P) | 4:02 |
 | 79 | [Better Days \(feat\. JUMADIBA\)](https://open.spotify.com/track/0vBoj1HfKDyB4SGQJPPUEK) | [SamRecks](https://open.spotify.com/artist/3hHIZyA3xXTamnwX8zXien), [JUMADIBA](https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj) | [BALANCE](https://open.spotify.com/album/53TUP9i0S2t2gDRe9pCfYB) | 1:53 |
 | 80 | [HA DAMN 你没有 \(feat\. TizzyT\)](https://open.spotify.com/track/2qtOPToXBpuw5rAMSMLhCD) | [ShiGGa Shay](https://open.spotify.com/artist/3vYlOrtxEjNzvUPhacOdoV), [Tizzy T](https://open.spotify.com/artist/1ShC8iSQrfdxlSbtIXfCaa) | [HA DAMN 你没有 \(feat\. TizzyT\)](https://open.spotify.com/album/5yBJkV9ZYAVCF4SNsgW5oq) | 2:30 |

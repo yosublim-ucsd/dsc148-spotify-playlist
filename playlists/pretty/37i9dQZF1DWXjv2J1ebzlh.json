@@ -1,6 +1,6 @@
 {
   "description": "The magical world map! Play it in shuffle \u2600\ufe0f",
-  "num_followers": 115197,
+  "num_followers": 115244,
   "original_name": "Bon Voyage",
   "owner": {
     "name": "Spotify",
@@ -367,6 +367,38 @@
     {
       "added_at": "2024-08-16 13:11:58",
       "album": {
+        "name": "Mordechai",
+        "url": "https://open.spotify.com/album/2IzUZlhtBvPQYs74KeG6fb"
+      },
+      "artists": [
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        }
+      ],
+      "duration_ms": 167972,
+      "name": "Pelota",
+      "url": "https://open.spotify.com/track/6FNdzxV9g4NaINrejBTPUi"
+    },
+    {
+      "added_at": "2024-08-16 13:11:58",
+      "album": {
+        "name": "The SLAM! Years: 1983 - 1988 (Habibi Funk 018)",
+        "url": "https://open.spotify.com/album/0PXfnvr4FDsvG0xOWhOzuS"
+      },
+      "artists": [
+        {
+          "name": "Hamid Al Shaeri",
+          "url": "https://open.spotify.com/artist/7u1V0Ucu5ggW1VaXwh8KeT"
+        }
+      ],
+      "duration_ms": 219624,
+      "name": "Ayonha",
+      "url": "https://open.spotify.com/track/5HCTbcF18u5DcYNwEWWf3n"
+    },
+    {
+      "added_at": "2024-08-16 13:11:58",
+      "album": {
         "name": "Chico Buarque",
         "url": "https://open.spotify.com/album/4K3E5bhJb92E7eyeIJ16QR"
       },
@@ -391,38 +423,6 @@
     {
       "added_at": "2024-08-16 13:11:58",
       "album": {
-        "name": "The SLAM! Years: 1983 - 1988 (Habibi Funk 018)",
-        "url": "https://open.spotify.com/album/0PXfnvr4FDsvG0xOWhOzuS"
-      },
-      "artists": [
-        {
-          "name": "Hamid Al Shaeri",
-          "url": "https://open.spotify.com/artist/7u1V0Ucu5ggW1VaXwh8KeT"
-        }
-      ],
-      "duration_ms": 219624,
-      "name": "Ayonha",
-      "url": "https://open.spotify.com/track/5HCTbcF18u5DcYNwEWWf3n"
-    },
-    {
-      "added_at": "2024-08-16 13:11:58",
-      "album": {
-        "name": "Troupeau bleu",
-        "url": "https://open.spotify.com/album/74DOWHisu2jlFvPid9YTGB"
-      },
-      "artists": [
-        {
-          "name": "Cortex",
-          "url": "https://open.spotify.com/artist/7EhUXju6pssa8o3CvFJTew"
-        }
-      ],
-      "duration_ms": 266040,
-      "name": "Huit octobre 1971",
-      "url": "https://open.spotify.com/track/2CsnpBAB8VQMTyPuws57ao"
-    },
-    {
-      "added_at": "2024-08-16 13:11:58",
-      "album": {
         "name": "Cumbia Cumbia 1 & 2",
         "url": "https://open.spotify.com/album/3f2vGfuy9m5nsrlhYHuOwM"
       },
@@ -439,18 +439,18 @@
     {
       "added_at": "2024-08-16 13:11:58",
       "album": {
-        "name": "Mordechai",
-        "url": "https://open.spotify.com/album/2IzUZlhtBvPQYs74KeG6fb"
+        "name": "Troupeau bleu",
+        "url": "https://open.spotify.com/album/74DOWHisu2jlFvPid9YTGB"
       },
       "artists": [
         {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+          "name": "Cortex",
+          "url": "https://open.spotify.com/artist/7EhUXju6pssa8o3CvFJTew"
         }
       ],
-      "duration_ms": 167972,
-      "name": "Pelota",
-      "url": "https://open.spotify.com/track/6FNdzxV9g4NaINrejBTPUi"
+      "duration_ms": 266040,
+      "name": "Huit octobre 1971",
+      "url": "https://open.spotify.com/track/2CsnpBAB8VQMTyPuws57ao"
     },
     {
       "added_at": "2024-08-16 13:11:58",
@@ -719,22 +719,6 @@
     {
       "added_at": "2024-08-16 13:11:58",
       "album": {
-        "name": "Constru\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/7yrRo2o4XzDfv3mNnkPRE5"
-      },
-      "artists": [
-        {
-          "name": "Chico Buarque",
-          "url": "https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t"
-        }
-      ],
-      "duration_ms": 168373,
-      "name": "Cotidiano",
-      "url": "https://open.spotify.com/track/127twwy3iCo1xBRQHyWetU"
-    },
-    {
-      "added_at": "2024-08-16 13:11:58",
-      "album": {
         "name": "Crime Pays",
         "url": "https://open.spotify.com/album/31FDxX16G7sPB3p5bNhf8K"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 211400,
       "name": "Ch\u00e9 Ch\u00e9 Col\u00e9",
       "url": "https://open.spotify.com/track/4rPtnAmfvHkVSCO2KKkiC1"
+    },
+    {
+      "added_at": "2024-08-16 13:11:58",
+      "album": {
+        "name": "Constru\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/7yrRo2o4XzDfv3mNnkPRE5"
+      },
+      "artists": [
+        {
+          "name": "Chico Buarque",
+          "url": "https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t"
+        }
+      ],
+      "duration_ms": 168373,
+      "name": "Cotidiano",
+      "url": "https://open.spotify.com/track/127twwy3iCo1xBRQHyWetU"
     },
     {
       "added_at": "2024-08-16 13:11:58",
@@ -871,18 +871,18 @@
     {
       "added_at": "2024-08-16 13:11:58",
       "album": {
-        "name": "Sabi\u00e1 Marrom - O Samba Raro De Alcione",
-        "url": "https://open.spotify.com/album/2zEkyyq57U6JokONwsVy5H"
+        "name": "Tropical Suite",
+        "url": "https://open.spotify.com/album/6C67gFfjaikafMKHgHHit3"
       },
       "artists": [
         {
-          "name": "Alcione",
-          "url": "https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo"
+          "name": "Poni Hoax",
+          "url": "https://open.spotify.com/artist/7Dl9ZgaSmEt7a8aWMlAHXD"
         }
       ],
-      "duration_ms": 139360,
-      "name": "Figa De Guin\u00e9",
-      "url": "https://open.spotify.com/track/0r3Mm4DMDknVpd9phO76v0"
+      "duration_ms": 126973,
+      "name": "Tropical Suite: S\u00e3o Paulo",
+      "url": "https://open.spotify.com/track/7Aa0lfRO9KDcVi7zLpCjTH"
     },
     {
       "added_at": "2024-08-16 13:11:58",
@@ -903,18 +903,18 @@
     {
       "added_at": "2024-08-16 13:11:58",
       "album": {
-        "name": "Tropical Suite",
-        "url": "https://open.spotify.com/album/6C67gFfjaikafMKHgHHit3"
+        "name": "Sabi\u00e1 Marrom - O Samba Raro De Alcione",
+        "url": "https://open.spotify.com/album/2zEkyyq57U6JokONwsVy5H"
       },
       "artists": [
         {
-          "name": "Poni Hoax",
-          "url": "https://open.spotify.com/artist/7Dl9ZgaSmEt7a8aWMlAHXD"
+          "name": "Alcione",
+          "url": "https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo"
         }
       ],
-      "duration_ms": 126973,
-      "name": "Tropical Suite: S\u00e3o Paulo",
-      "url": "https://open.spotify.com/track/7Aa0lfRO9KDcVi7zLpCjTH"
+      "duration_ms": 139360,
+      "name": "Figa De Guin\u00e9",
+      "url": "https://open.spotify.com/track/0r3Mm4DMDknVpd9phO76v0"
     },
     {
       "added_at": "2024-08-16 13:11:58",
@@ -1163,38 +1163,6 @@
     {
       "added_at": "2024-08-16 13:11:58",
       "album": {
-        "name": "Horizon Unlimited",
-        "url": "https://open.spotify.com/album/60EBuN8o4sCc8zqS4sO8bC"
-      },
-      "artists": [
-        {
-          "name": "The Lijadu Sisters",
-          "url": "https://open.spotify.com/artist/1iElGdidl4zFXOpaaem4wZ"
-        }
-      ],
-      "duration_ms": 314520,
-      "name": "Come On Home",
-      "url": "https://open.spotify.com/track/2NIIJ5WfrK4ANNPHcOhSeb"
-    },
-    {
-      "added_at": "2024-08-16 13:11:58",
-      "album": {
-        "name": "Previs\u00e3o Do Tempo",
-        "url": "https://open.spotify.com/album/4SrPTE9sLJTE8mpeWFUhRL"
-      },
-      "artists": [
-        {
-          "name": "Marcos Valle",
-          "url": "https://open.spotify.com/artist/5I0EPnV9gwrZYTbScjnaOk"
-        }
-      ],
-      "duration_ms": 223293,
-      "name": "Mentira (Chega De Mentira)",
-      "url": "https://open.spotify.com/track/611fDM69jrdLN8bIdFcAIb"
-    },
-    {
-      "added_at": "2024-08-16 13:11:58",
-      "album": {
         "name": "Fuego en el 23!",
         "url": "https://open.spotify.com/album/0c3F6OlWKJnkRTb78nswUt"
       },
@@ -1215,6 +1183,38 @@
       "duration_ms": 284640,
       "name": "Fuego En El 23",
       "url": "https://open.spotify.com/track/5EX3Q9GWGMtvvugQFkNTUb"
+    },
+    {
+      "added_at": "2024-08-16 13:11:58",
+      "album": {
+        "name": "Previs\u00e3o Do Tempo",
+        "url": "https://open.spotify.com/album/4SrPTE9sLJTE8mpeWFUhRL"
+      },
+      "artists": [
+        {
+          "name": "Marcos Valle",
+          "url": "https://open.spotify.com/artist/5I0EPnV9gwrZYTbScjnaOk"
+        }
+      ],
+      "duration_ms": 223293,
+      "name": "Mentira (Chega De Mentira)",
+      "url": "https://open.spotify.com/track/611fDM69jrdLN8bIdFcAIb"
+    },
+    {
+      "added_at": "2024-08-16 13:11:58",
+      "album": {
+        "name": "Horizon Unlimited",
+        "url": "https://open.spotify.com/album/60EBuN8o4sCc8zqS4sO8bC"
+      },
+      "artists": [
+        {
+          "name": "The Lijadu Sisters",
+          "url": "https://open.spotify.com/artist/1iElGdidl4zFXOpaaem4wZ"
+        }
+      ],
+      "duration_ms": 314520,
+      "name": "Come On Home",
+      "url": "https://open.spotify.com/track/2NIIJ5WfrK4ANNPHcOhSeb"
     },
     {
       "added_at": "2024-08-16 13:11:58",

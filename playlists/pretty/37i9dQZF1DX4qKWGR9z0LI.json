@@ -1,6 +1,6 @@
 {
   "description": "Lo \u00faltimo y lo mejor de la salsa. Cover: Mike Bah\u00eda",
-  "num_followers": 1915862,
+  "num_followers": 1915817,
   "original_name": "Salsa Nation",
   "owner": {
     "name": "Spotify",
@@ -139,6 +139,22 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
+        "name": "Oro Salsero",
+        "url": "https://open.spotify.com/album/21W5Yp75UyOaWI2QALA7PS"
+      },
+      "artists": [
+        {
+          "name": "Lalo Rodriguez",
+          "url": "https://open.spotify.com/artist/5LmwELEKyxDFxrbZzR8K4U"
+        }
+      ],
+      "duration_ms": 311400,
+      "name": "Ven Dev\u00f3rame Otra Vez",
+      "url": "https://open.spotify.com/track/2HbmLkHkkI15eES8kpWRuI"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
         "name": "De Vuelta Pa' La Vuelta",
         "url": "https://open.spotify.com/album/1mFvOlraT4JKt4D7aGb9tc"
       },
@@ -155,22 +171,6 @@
       "duration_ms": 231593,
       "name": "De Vuelta Pa' La Vuelta",
       "url": "https://open.spotify.com/track/7AUhck1sPy11OExQmDDx4P"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "Oro Salsero",
-        "url": "https://open.spotify.com/album/21W5Yp75UyOaWI2QALA7PS"
-      },
-      "artists": [
-        {
-          "name": "Lalo Rodriguez",
-          "url": "https://open.spotify.com/artist/5LmwELEKyxDFxrbZzR8K4U"
-        }
-      ],
-      "duration_ms": 311400,
-      "name": "Ven Dev\u00f3rame Otra Vez",
-      "url": "https://open.spotify.com/track/2HbmLkHkkI15eES8kpWRuI"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -211,22 +211,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Sigo Siendo Yo",
-        "url": "https://open.spotify.com/album/70XO7jxoVIV9p9IFyjXGvJ"
-      },
-      "artists": [
-        {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
-        }
-      ],
-      "duration_ms": 302946,
-      "name": "Qu\u00e9 Precio Tiene el Cielo - Salsa Version",
-      "url": "https://open.spotify.com/track/2MnKininlD8bY9ggRNSJ37"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "cuatro",
         "url": "https://open.spotify.com/album/1IwCEfVYg8KlEankYmqeP7"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 344626,
       "name": "Como Te Hago Entender",
       "url": "https://open.spotify.com/track/588fZDQv1c7F3iP68Pp3My"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Sigo Siendo Yo",
+        "url": "https://open.spotify.com/album/70XO7jxoVIV9p9IFyjXGvJ"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "duration_ms": 302946,
+      "name": "Qu\u00e9 Precio Tiene el Cielo - Salsa Version",
+      "url": "https://open.spotify.com/track/2MnKininlD8bY9ggRNSJ37"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -311,6 +311,26 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
+        "name": "PLIS",
+        "url": "https://open.spotify.com/album/1Zbxfjz8ovbTb2mMX5kYCX"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        },
+        {
+          "name": "Evaluna Montaner",
+          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
+        }
+      ],
+      "duration_ms": 222800,
+      "name": "PLIS",
+      "url": "https://open.spotify.com/track/3n09XAEgP8s2gPXmdoUe2Z"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
         "name": "Nuevo Milenio - El Mismo Sabor",
         "url": "https://open.spotify.com/album/4VjDEGwmMTP7hOn2Afmbkn"
       },
@@ -347,26 +367,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "PLIS",
-        "url": "https://open.spotify.com/album/1Zbxfjz8ovbTb2mMX5kYCX"
-      },
-      "artists": [
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        },
-        {
-          "name": "Evaluna Montaner",
-          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
-        }
-      ],
-      "duration_ms": 222800,
-      "name": "PLIS",
-      "url": "https://open.spotify.com/track/3n09XAEgP8s2gPXmdoUe2Z"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "Galy Galiano 30 A\u00f1os",
         "url": "https://open.spotify.com/album/07fXyhm97NonPri4FLOqyy"
       },
@@ -379,6 +379,22 @@
       "duration_ms": 438026,
       "name": "La Cita",
       "url": "https://open.spotify.com/track/1Wzt0dNLjAqN3OzGwWeGH5"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Vida",
+        "url": "https://open.spotify.com/album/0nU31Hhb13gaveZXXw1wkj"
+      },
+      "artists": [
+        {
+          "name": "Nino Segarra",
+          "url": "https://open.spotify.com/artist/7titF03HCJwxZeJ98nMWbK"
+        }
+      ],
+      "duration_ms": 262079,
+      "name": "Entre La Espada y La Pared",
+      "url": "https://open.spotify.com/track/2UpoA15YFW9ItA8BjXUOJg"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -399,18 +415,38 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Vida",
-        "url": "https://open.spotify.com/album/0nU31Hhb13gaveZXXw1wkj"
+        "name": "F.A.M.E.",
+        "url": "https://open.spotify.com/album/6MoaDh76Fsg0ogW2l7HAFx"
       },
       "artists": [
         {
-          "name": "Nino Segarra",
-          "url": "https://open.spotify.com/artist/7titF03HCJwxZeJ98nMWbK"
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        },
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
         }
       ],
-      "duration_ms": 262079,
-      "name": "Entre La Espada y La Pared",
-      "url": "https://open.spotify.com/track/2UpoA15YFW9ItA8BjXUOJg"
+      "duration_ms": 242373,
+      "name": "Felices los 4 (feat. Marc Anthony) - Salsa Version",
+      "url": "https://open.spotify.com/track/6PNG5G1v7pU74I13KkvAIo"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "un",
+        "url": "https://open.spotify.com/album/69qvzyO2jAil3U6DZpckxr"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        }
+      ],
+      "duration_ms": 220830,
+      "name": "Gordo",
+      "url": "https://open.spotify.com/track/0KcyU1JCY5W8WGuILa8MDv"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -451,22 +487,22 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "F.A.M.E.",
-        "url": "https://open.spotify.com/album/6MoaDh76Fsg0ogW2l7HAFx"
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/20o8eVLMPNGaa5Lp5W2a51"
       },
       "artists": [
         {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+          "name": "Joe Arroyo",
+          "url": "https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg"
         },
         {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+          "name": "La Verdad",
+          "url": "https://open.spotify.com/artist/54h3j85gGrqCsfK8D0RuUM"
         }
       ],
-      "duration_ms": 242373,
-      "name": "Felices los 4 (feat. Marc Anthony) - Salsa Version",
-      "url": "https://open.spotify.com/track/6PNG5G1v7pU74I13KkvAIo"
+      "duration_ms": 287893,
+      "name": "Rebeli\u00f3n",
+      "url": "https://open.spotify.com/track/3v32VtMTRZbIQJUFsQpeJD"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -496,29 +532,9 @@
           "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
         }
       ],
-      "duration_ms": 220830,
-      "name": "Gordo",
-      "url": "https://open.spotify.com/track/0KcyU1JCY5W8WGuILa8MDv"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "Grandes Exitos",
-        "url": "https://open.spotify.com/album/20o8eVLMPNGaa5Lp5W2a51"
-      },
-      "artists": [
-        {
-          "name": "Joe Arroyo",
-          "url": "https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg"
-        },
-        {
-          "name": "La Verdad",
-          "url": "https://open.spotify.com/artist/54h3j85gGrqCsfK8D0RuUM"
-        }
-      ],
-      "duration_ms": 287893,
-      "name": "Rebeli\u00f3n",
-      "url": "https://open.spotify.com/track/3v32VtMTRZbIQJUFsQpeJD"
+      "duration_ms": 180494,
+      "name": "No Se Vale",
+      "url": "https://open.spotify.com/track/5Q1MSdJ56O9BxB6wIvjsXY"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -611,22 +627,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Mala",
-        "url": "https://open.spotify.com/album/6w2JzY6IjHoT8KH4IuSlIY"
-      },
-      "artists": [
-        {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
-        }
-      ],
-      "duration_ms": 228966,
-      "name": "Mala",
-      "url": "https://open.spotify.com/track/2kjj1x4sXh2D9ACYNnvVMn"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "Autopoi\u00e9tica",
         "url": "https://open.spotify.com/album/1P3veSTOBbA57c6nndi5xI"
       },
@@ -655,22 +655,6 @@
       "duration_ms": 349600,
       "name": "Se\u00f1ora De Madrugada",
       "url": "https://open.spotify.com/track/67hHhKVp67fqRwE0OehlnX"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "un",
-        "url": "https://open.spotify.com/album/69qvzyO2jAil3U6DZpckxr"
-      },
-      "artists": [
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        }
-      ],
-      "duration_ms": 180494,
-      "name": "No Se Vale",
-      "url": "https://open.spotify.com/track/5Q1MSdJ56O9BxB6wIvjsXY"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -711,8 +695,24 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Pa'lla Voy",
-        "url": "https://open.spotify.com/album/7Egfnc2y2UO9Gqeh5nYzDh"
+        "name": "Arriba Siempre - De Pura Sangre",
+        "url": "https://open.spotify.com/album/1UhIVjp2K6lDVbzpBKs1zp"
+      },
+      "artists": [
+        {
+          "name": "Michel el Buen\u00f3n",
+          "url": "https://open.spotify.com/artist/0XpNiF9v1QPnRWKKGoffQf"
+        }
+      ],
+      "duration_ms": 305053,
+      "name": "Extra\u00f1\u00e1ndote",
+      "url": "https://open.spotify.com/track/5U4v7JyApEbijyfwVQKYn4"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Mala",
+        "url": "https://open.spotify.com/album/6w2JzY6IjHoT8KH4IuSlIY"
       },
       "artists": [
         {
@@ -720,9 +720,9 @@
           "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
         }
       ],
-      "duration_ms": 246787,
-      "name": "Pa'lla Voy",
-      "url": "https://open.spotify.com/track/05jVbjHBsX3V8OxFWlpayR"
+      "duration_ms": 228966,
+      "name": "Mala",
+      "url": "https://open.spotify.com/track/2kjj1x4sXh2D9ACYNnvVMn"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -739,22 +739,6 @@
       "duration_ms": 235951,
       "name": "Llorar Bonito",
       "url": "https://open.spotify.com/track/1fMrqP0wLuJiVRZnxZlqvz"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "Arriba Siempre - De Pura Sangre",
-        "url": "https://open.spotify.com/album/1UhIVjp2K6lDVbzpBKs1zp"
-      },
-      "artists": [
-        {
-          "name": "Michel el Buen\u00f3n",
-          "url": "https://open.spotify.com/artist/0XpNiF9v1QPnRWKKGoffQf"
-        }
-      ],
-      "duration_ms": 305053,
-      "name": "Extra\u00f1\u00e1ndote",
-      "url": "https://open.spotify.com/track/5U4v7JyApEbijyfwVQKYn4"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -807,6 +791,22 @@
       "duration_ms": 220880,
       "name": "Con Dinero y Sin Dinero",
       "url": "https://open.spotify.com/track/1wn4CZoE0MWbeV7yy03yyw"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Pa'lla Voy",
+        "url": "https://open.spotify.com/album/7Egfnc2y2UO9Gqeh5nYzDh"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "duration_ms": 246787,
+      "name": "Pa'lla Voy",
+      "url": "https://open.spotify.com/track/05jVbjHBsX3V8OxFWlpayR"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -987,22 +987,18 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Otra Noche M\u00e1s (feat. Frankie Ruiz)",
-        "url": "https://open.spotify.com/album/619jR5aODkum1ZlOGMx6Sg"
+        "name": "Tromboranga",
+        "url": "https://open.spotify.com/album/73edLPjbItIG3qulH8etvP"
       },
       "artists": [
         {
-          "name": "V\u00edctor Manuelle",
-          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
-        },
-        {
-          "name": "Frankie Ruiz",
-          "url": "https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV"
+          "name": "Tromboranga",
+          "url": "https://open.spotify.com/artist/1d8flZp4PgQ17KR7RjtlJP"
         }
       ],
-      "duration_ms": 267130,
-      "name": "Otra Noche M\u00e1s (feat. Frankie Ruiz)",
-      "url": "https://open.spotify.com/track/5OOaAYlNPgBUtBviFtGpHl"
+      "duration_ms": 283293,
+      "name": "Agua Que Va Caer",
+      "url": "https://open.spotify.com/track/4fZrgC2yPod6nIUvxPJ5aC"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1023,18 +1019,22 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Tromboranga",
-        "url": "https://open.spotify.com/album/73edLPjbItIG3qulH8etvP"
+        "name": "Otra Noche M\u00e1s (feat. Frankie Ruiz)",
+        "url": "https://open.spotify.com/album/619jR5aODkum1ZlOGMx6Sg"
       },
       "artists": [
         {
-          "name": "Tromboranga",
-          "url": "https://open.spotify.com/artist/1d8flZp4PgQ17KR7RjtlJP"
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+        },
+        {
+          "name": "Frankie Ruiz",
+          "url": "https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV"
         }
       ],
-      "duration_ms": 283293,
-      "name": "Agua Que Va Caer",
-      "url": "https://open.spotify.com/track/4fZrgC2yPod6nIUvxPJ5aC"
+      "duration_ms": 267130,
+      "name": "Otra Noche M\u00e1s (feat. Frankie Ruiz)",
+      "url": "https://open.spotify.com/track/5OOaAYlNPgBUtBviFtGpHl"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1075,22 +1075,18 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "La Puerta",
-        "url": "https://open.spotify.com/album/3B48WTakHmgv5x8ADMirMj"
+        "name": "10 De Colecci\u00f3n",
+        "url": "https://open.spotify.com/album/6pK55Oxs97bSeKxt0eGuIH"
       },
       "artists": [
         {
-          "name": "Sergio George",
-          "url": "https://open.spotify.com/artist/4Ht1HigABvctq7wW4D3jAC"
-        },
-        {
-          "name": "Jay Wheeler",
-          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+          "name": "Hansel Y Raul",
+          "url": "https://open.spotify.com/artist/2BXQwWUSIivZCgT0EqLx6g"
         }
       ],
-      "duration_ms": 202551,
-      "name": "La Puerta",
-      "url": "https://open.spotify.com/track/34bjkVVJ0bPS1NbeseqpVj"
+      "duration_ms": 286453,
+      "name": "Maria Teresa y Danilo",
+      "url": "https://open.spotify.com/track/1IwIFav8Pfr5oijgcRQ7O9"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1111,22 +1107,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "10 De Colecci\u00f3n",
-        "url": "https://open.spotify.com/album/6pK55Oxs97bSeKxt0eGuIH"
-      },
-      "artists": [
-        {
-          "name": "Hansel Y Raul",
-          "url": "https://open.spotify.com/artist/2BXQwWUSIivZCgT0EqLx6g"
-        }
-      ],
-      "duration_ms": 286453,
-      "name": "Maria Teresa y Danilo",
-      "url": "https://open.spotify.com/track/1IwIFav8Pfr5oijgcRQ7O9"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "Historia De Un Sonero",
         "url": "https://open.spotify.com/album/1v1eJiZh9virmkSaMeMwi4"
       },
@@ -1139,6 +1119,26 @@
       "duration_ms": 266173,
       "name": "Tengo Ganas",
       "url": "https://open.spotify.com/track/0gVmUkRX09cY5uNPSI74JC"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "La Puerta",
+        "url": "https://open.spotify.com/album/3B48WTakHmgv5x8ADMirMj"
+      },
+      "artists": [
+        {
+          "name": "Sergio George",
+          "url": "https://open.spotify.com/artist/4Ht1HigABvctq7wW4D3jAC"
+        },
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        }
+      ],
+      "duration_ms": 202551,
+      "name": "La Puerta",
+      "url": "https://open.spotify.com/track/34bjkVVJ0bPS1NbeseqpVj"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Si Te Vas",
-        "url": "https://open.spotify.com/album/44AcFfCyMrkibifTabWkyH"
-      },
-      "artists": [
-        {
-          "name": "Moa Rivera",
-          "url": "https://open.spotify.com/artist/3SVGxBlWR0Cnamj9e2Ybmz"
-        }
-      ],
-      "duration_ms": 228239,
-      "name": "Si Te Vas",
-      "url": "https://open.spotify.com/track/1i8WqT23IvvVPyKZc94Zol"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "Por Tu Placer",
         "url": "https://open.spotify.com/album/7tapGmPdbl2LJ3Spdk6m5f"
       },
@@ -1471,6 +1455,22 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
+        "name": "Si Te Vas",
+        "url": "https://open.spotify.com/album/44AcFfCyMrkibifTabWkyH"
+      },
+      "artists": [
+        {
+          "name": "Moa Rivera",
+          "url": "https://open.spotify.com/artist/3SVGxBlWR0Cnamj9e2Ybmz"
+        }
+      ],
+      "duration_ms": 228239,
+      "name": "Si Te Vas",
+      "url": "https://open.spotify.com/track/1i8WqT23IvvVPyKZc94Zol"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
         "name": "EL YATE (feat. Sergio George) - Versi\u00f3n Salsa",
         "url": "https://open.spotify.com/album/6BRLupgfPwOkWkVrtCg9D1"
       },
@@ -1487,6 +1487,38 @@
       "duration_ms": 193046,
       "name": "EL YATE (feat. Sergio George) - Versi\u00f3n Salsa",
       "url": "https://open.spotify.com/track/6BOuw1v7iJbOPYR9PigeJ4"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Pas\u00e1ndola bien",
+        "url": "https://open.spotify.com/album/1tgtGOkTnvu2RtQkQpiF0j"
+      },
+      "artists": [
+        {
+          "name": "Leoni Torres",
+          "url": "https://open.spotify.com/artist/1XXUv8GRyRqOXVuDwB5QaS"
+        }
+      ],
+      "duration_ms": 174411,
+      "name": "Pas\u00e1ndola bien",
+      "url": "https://open.spotify.com/track/0ZVS1pGOVYik44LHZiDQW4"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Salsa de Amor Vol. 3",
+        "url": "https://open.spotify.com/album/1dgh2p4sLHHDFD6RXshJMZ"
+      },
+      "artists": [
+        {
+          "name": "Tito Gomez",
+          "url": "https://open.spotify.com/artist/4zq1okwemKSJbZFDQrp7f2"
+        }
+      ],
+      "duration_ms": 296133,
+      "name": "P\u00e1ginas De Amor",
+      "url": "https://open.spotify.com/track/3JGHKb3wIScC0PZAS34NVs"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1531,38 +1563,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Pas\u00e1ndola bien",
-        "url": "https://open.spotify.com/album/1tgtGOkTnvu2RtQkQpiF0j"
-      },
-      "artists": [
-        {
-          "name": "Leoni Torres",
-          "url": "https://open.spotify.com/artist/1XXUv8GRyRqOXVuDwB5QaS"
-        }
-      ],
-      "duration_ms": 174411,
-      "name": "Pas\u00e1ndola bien",
-      "url": "https://open.spotify.com/track/0ZVS1pGOVYik44LHZiDQW4"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "Salsa de Amor Vol. 3",
-        "url": "https://open.spotify.com/album/1dgh2p4sLHHDFD6RXshJMZ"
-      },
-      "artists": [
-        {
-          "name": "Tito Gomez",
-          "url": "https://open.spotify.com/artist/4zq1okwemKSJbZFDQrp7f2"
-        }
-      ],
-      "duration_ms": 296133,
-      "name": "P\u00e1ginas De Amor",
-      "url": "https://open.spotify.com/track/3JGHKb3wIScC0PZAS34NVs"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "Soltero",
         "url": "https://open.spotify.com/album/6U6e78fvesTnt6UKHTo685"
       },
@@ -1595,26 +1595,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Es Ajena",
-        "url": "https://open.spotify.com/album/00yqN4rueEKgy1bH0be0GI"
-      },
-      "artists": [
-        {
-          "name": "David Zahan",
-          "url": "https://open.spotify.com/artist/6GNOUK9TS7x72jEjDsdwHn"
-        },
-        {
-          "name": "Nino Segarra",
-          "url": "https://open.spotify.com/artist/7titF03HCJwxZeJ98nMWbK"
-        }
-      ],
-      "duration_ms": 231833,
-      "name": "Es Ajena",
-      "url": "https://open.spotify.com/track/0NIEDfSwUEQ2jfZ0VS0FSz"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "Tesoro M\u00edo",
         "url": "https://open.spotify.com/album/60l2KWmlLtMEPWJMNLv3UD"
       },
@@ -1631,6 +1611,26 @@
       "duration_ms": 242932,
       "name": "Tesoro M\u00edo",
       "url": "https://open.spotify.com/track/1Rl1t74MdEZVcRHYVSdawK"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Es Ajena",
+        "url": "https://open.spotify.com/album/00yqN4rueEKgy1bH0be0GI"
+      },
+      "artists": [
+        {
+          "name": "David Zahan",
+          "url": "https://open.spotify.com/artist/6GNOUK9TS7x72jEjDsdwHn"
+        },
+        {
+          "name": "Nino Segarra",
+          "url": "https://open.spotify.com/artist/7titF03HCJwxZeJ98nMWbK"
+        }
+      ],
+      "duration_ms": 231833,
+      "name": "Es Ajena",
+      "url": "https://open.spotify.com/track/0NIEDfSwUEQ2jfZ0VS0FSz"
     },
     {
       "added_at": "2024-08-23 04:00:00",

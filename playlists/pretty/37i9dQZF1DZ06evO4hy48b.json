@@ -1,12 +1,12 @@
 {
-  "description": "This Is Aitana. Los temas esenciales, todos en una lista.",
-  "num_followers": 203091,
+  "description": "This is Aitana. The essential tracks, all in one playlist.",
+  "num_followers": 203085,
   "original_name": "This Is Aitana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zv3egAAAAAAEc6SnW3Co2nSMdpMqTZ+k",
+  "snapshot_id": "ZwCBgAAAAACEZRb/f5iZp+TJNRqeFQAr",
   "tracks": [
     {
       "added_at": null,
@@ -187,26 +187,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "alpha",
-        "url": "https://open.spotify.com/album/7itZH9cqWCweOqCGsjWlLx"
-      },
-      "artists": [
-        {
-          "name": "Aitana",
-          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
-        },
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        }
-      ],
-      "duration_ms": 159360,
-      "name": "miamor",
-      "url": "https://open.spotify.com/track/7qMXuEQmZzlQ6nDpxJfcRo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Quieres",
         "url": "https://open.spotify.com/album/6FYsivfijNDaQ1bpw8Kljc"
       },
@@ -227,6 +207,26 @@
       "duration_ms": 213666,
       "name": "Quieres",
       "url": "https://open.spotify.com/track/4iGnpp1h0i33lpoP42Y8Jt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "alpha",
+        "url": "https://open.spotify.com/album/7itZH9cqWCweOqCGsjWlLx"
+      },
+      "artists": [
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        },
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "duration_ms": 159360,
+      "name": "miamor",
+      "url": "https://open.spotify.com/track/7qMXuEQmZzlQ6nDpxJfcRo"
     },
     {
       "added_at": null,
@@ -267,22 +267,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "alpha",
-        "url": "https://open.spotify.com/album/7itZH9cqWCweOqCGsjWlLx"
-      },
-      "artists": [
-        {
-          "name": "Aitana",
-          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
-        }
-      ],
-      "duration_ms": 158826,
-      "name": "Los \u00c1ngeles",
-      "url": "https://open.spotify.com/track/0knbcslkZje0qdsqbd8jwj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "En Tus Planes",
         "url": "https://open.spotify.com/album/4mFgW04qaWGcdhimbOZO8F"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 224761,
       "name": "Si T\u00fa La Quieres",
       "url": "https://open.spotify.com/track/5agt9CgF8dTRXgNtn1zflm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "alpha",
+        "url": "https://open.spotify.com/album/7itZH9cqWCweOqCGsjWlLx"
+      },
+      "artists": [
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        }
+      ],
+      "duration_ms": 158826,
+      "name": "Los \u00c1ngeles",
+      "url": "https://open.spotify.com/track/0knbcslkZje0qdsqbd8jwj"
     },
     {
       "added_at": null,
@@ -343,22 +343,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "alpha",
-        "url": "https://open.spotify.com/album/7itZH9cqWCweOqCGsjWlLx"
-      },
-      "artists": [
-        {
-          "name": "Aitana",
-          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
-        }
-      ],
-      "duration_ms": 153506,
-      "name": "LAS BABYS",
-      "url": "https://open.spotify.com/track/7EJ2c1JMy4knv1wK6bazy0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Aunque No Sea Conmigo",
         "url": "https://open.spotify.com/album/1nv68APHpQMhYtlqln442M"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 179648,
       "name": "Aunque No Sea Conmigo",
       "url": "https://open.spotify.com/track/6GfqNqXkAofNOakU77MWEb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "alpha",
+        "url": "https://open.spotify.com/album/7itZH9cqWCweOqCGsjWlLx"
+      },
+      "artists": [
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        }
+      ],
+      "duration_ms": 153506,
+      "name": "LAS BABYS",
+      "url": "https://open.spotify.com/track/7EJ2c1JMy4knv1wK6bazy0"
     },
     {
       "added_at": null,
@@ -835,22 +835,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ni Una M\u00e1s",
-        "url": "https://open.spotify.com/album/07qDUnbnhjLruMXRxa5PsU"
-      },
-      "artists": [
-        {
-          "name": "Aitana",
-          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
-        }
-      ],
-      "duration_ms": 208378,
-      "name": "Ni Una M\u00e1s",
-      "url": "https://open.spotify.com/track/7aogFQAg0TrYKwGHurgNPg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Resilient (ft. Aitana) [Ti\u00ebsto Remix]",
         "url": "https://open.spotify.com/album/7hmFzviCSViV9Y9VJvlfYB"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 198946,
       "name": "Resilient (ft. Aitana) [Ti\u00ebsto Remix]",
       "url": "https://open.spotify.com/track/4abn7Lc3illnEHFc9ki6x2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ni Una M\u00e1s",
+        "url": "https://open.spotify.com/album/07qDUnbnhjLruMXRxa5PsU"
+      },
+      "artists": [
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        }
+      ],
+      "duration_ms": 208378,
+      "name": "Ni Una M\u00e1s",
+      "url": "https://open.spotify.com/track/7aogFQAg0TrYKwGHurgNPg"
     },
     {
       "added_at": null,

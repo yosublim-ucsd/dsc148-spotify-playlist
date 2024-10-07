@@ -1,6 +1,6 @@
 {
   "description": "The bass you need for riding low and high.",
-  "num_followers": 442202,
+  "num_followers": 442440,
   "original_name": "DOWN LOW",
   "owner": {
     "name": "Spotify",
@@ -247,6 +247,26 @@
     {
       "added_at": "2024-09-06 19:25:38",
       "album": {
+        "name": "MHITR (Semi-Automatic) [feat. Eksman]",
+        "url": "https://open.spotify.com/album/0mXlKN5XvrL9olOdYSrTio"
+      },
+      "artists": [
+        {
+          "name": "Hedex",
+          "url": "https://open.spotify.com/artist/22I9QWygJ2IfxR855VsA3t"
+        },
+        {
+          "name": "Eksman",
+          "url": "https://open.spotify.com/artist/2654RQ9MP4lxi0PLQY3ig7"
+        }
+      ],
+      "duration_ms": 174917,
+      "name": "MHITR (Semi-Automatic) [feat. Eksman]",
+      "url": "https://open.spotify.com/track/11Gypesywvx4AnUeYxeLaY"
+    },
+    {
+      "added_at": "2024-09-06 19:25:38",
+      "album": {
         "name": "The Motto",
         "url": "https://open.spotify.com/album/4HoTfH5ggbjjTSH8rP7eHQ"
       },
@@ -271,26 +291,6 @@
       "duration_ms": 174500,
       "name": "The Motto",
       "url": "https://open.spotify.com/track/5r6axyEqpdxog8T8u6gm5D"
-    },
-    {
-      "added_at": "2024-09-06 19:25:38",
-      "album": {
-        "name": "MHITR (Semi-Automatic) [feat. Eksman]",
-        "url": "https://open.spotify.com/album/0mXlKN5XvrL9olOdYSrTio"
-      },
-      "artists": [
-        {
-          "name": "Hedex",
-          "url": "https://open.spotify.com/artist/22I9QWygJ2IfxR855VsA3t"
-        },
-        {
-          "name": "Eksman",
-          "url": "https://open.spotify.com/artist/2654RQ9MP4lxi0PLQY3ig7"
-        }
-      ],
-      "duration_ms": 174917,
-      "name": "MHITR (Semi-Automatic) [feat. Eksman]",
-      "url": "https://open.spotify.com/track/11Gypesywvx4AnUeYxeLaY"
     },
     {
       "added_at": "2024-09-06 19:25:38",
@@ -355,42 +355,18 @@
     {
       "added_at": "2024-09-06 19:25:38",
       "album": {
-        "name": "CHEGOU 3",
-        "url": "https://open.spotify.com/album/0FBrponFK306z8KcWiWpxj"
+        "name": "Balenciaga",
+        "url": "https://open.spotify.com/album/5nWn90op5We3SUN8Jeuy8q"
       },
       "artists": [
         {
-          "name": "shonci",
-          "url": "https://open.spotify.com/artist/0PDEn6fqo7VEhexzDok9Dl"
-        },
-        {
-          "name": "Mc Magrinho",
-          "url": "https://open.spotify.com/artist/4JA9UvIYD3D5kL7utiGJMI"
+          "name": "Ozlig",
+          "url": "https://open.spotify.com/artist/0DsznjV8aaiEYdTDHmy86L"
         }
       ],
-      "duration_ms": 159456,
-      "name": "CHEGOU 3",
-      "url": "https://open.spotify.com/track/3Pd1MwrGRhEzjiO7njmlbi"
-    },
-    {
-      "added_at": "2024-09-06 19:25:38",
-      "album": {
-        "name": "Get Low",
-        "url": "https://open.spotify.com/album/4bmkg3DOj8rdX6OzmWfmLE"
-      },
-      "artists": [
-        {
-          "name": "Murdbrain",
-          "url": "https://open.spotify.com/artist/1uJZAXeNu4zmrwkjHwUysn"
-        },
-        {
-          "name": "Junior Charles",
-          "url": "https://open.spotify.com/artist/6XoMjNBDFTRqFgBcy48zHO"
-        }
-      ],
-      "duration_ms": 146952,
-      "name": "Get Low",
-      "url": "https://open.spotify.com/track/5KFBAzmzTkacQj5Qt02AAb"
+      "duration_ms": 151142,
+      "name": "Balenciaga",
+      "url": "https://open.spotify.com/track/3Wn2LERRfDw8N6CAi1auJZ"
     },
     {
       "added_at": "2024-09-06 19:25:38",
@@ -415,18 +391,42 @@
     {
       "added_at": "2024-09-06 19:25:38",
       "album": {
-        "name": "Balenciaga",
-        "url": "https://open.spotify.com/album/5nWn90op5We3SUN8Jeuy8q"
+        "name": "Get Low",
+        "url": "https://open.spotify.com/album/4bmkg3DOj8rdX6OzmWfmLE"
       },
       "artists": [
         {
-          "name": "Ozlig",
-          "url": "https://open.spotify.com/artist/0DsznjV8aaiEYdTDHmy86L"
+          "name": "Murdbrain",
+          "url": "https://open.spotify.com/artist/1uJZAXeNu4zmrwkjHwUysn"
+        },
+        {
+          "name": "Junior Charles",
+          "url": "https://open.spotify.com/artist/6XoMjNBDFTRqFgBcy48zHO"
         }
       ],
-      "duration_ms": 151142,
-      "name": "Balenciaga",
-      "url": "https://open.spotify.com/track/3Wn2LERRfDw8N6CAi1auJZ"
+      "duration_ms": 146952,
+      "name": "Get Low",
+      "url": "https://open.spotify.com/track/5KFBAzmzTkacQj5Qt02AAb"
+    },
+    {
+      "added_at": "2024-09-06 19:25:38",
+      "album": {
+        "name": "CHEGOU 3",
+        "url": "https://open.spotify.com/album/0FBrponFK306z8KcWiWpxj"
+      },
+      "artists": [
+        {
+          "name": "shonci",
+          "url": "https://open.spotify.com/artist/0PDEn6fqo7VEhexzDok9Dl"
+        },
+        {
+          "name": "Mc Magrinho",
+          "url": "https://open.spotify.com/artist/4JA9UvIYD3D5kL7utiGJMI"
+        }
+      ],
+      "duration_ms": 159456,
+      "name": "CHEGOU 3",
+      "url": "https://open.spotify.com/track/3Pd1MwrGRhEzjiO7njmlbi"
     },
     {
       "added_at": "2024-09-06 19:25:38",
@@ -787,6 +787,26 @@
     {
       "added_at": "2024-09-06 19:25:38",
       "album": {
+        "name": "Close Ya",
+        "url": "https://open.spotify.com/album/6cQ3bvLmo96impgeIfqkqX"
+      },
+      "artists": [
+        {
+          "name": "HVZVRD",
+          "url": "https://open.spotify.com/artist/0TBbjAcKVKKc8QwMoHPI9f"
+        },
+        {
+          "name": "TBT Prod.",
+          "url": "https://open.spotify.com/artist/4WihjWGIXdbrdtcIhCcQuM"
+        }
+      ],
+      "duration_ms": 170805,
+      "name": "Close Ya",
+      "url": "https://open.spotify.com/track/3KK71qLRNq9A0H3Zoj2jY3"
+    },
+    {
+      "added_at": "2024-09-06 19:25:38",
+      "album": {
         "name": "Combo",
         "url": "https://open.spotify.com/album/3CxZRCqXlPnYjF84w77ogX"
       },
@@ -839,26 +859,6 @@
       "duration_ms": 173331,
       "name": "01",
       "url": "https://open.spotify.com/track/2U4fr16sIR5k6ep9iv3vZG"
-    },
-    {
-      "added_at": "2024-09-06 19:25:38",
-      "album": {
-        "name": "Close Ya",
-        "url": "https://open.spotify.com/album/6cQ3bvLmo96impgeIfqkqX"
-      },
-      "artists": [
-        {
-          "name": "HVZVRD",
-          "url": "https://open.spotify.com/artist/0TBbjAcKVKKc8QwMoHPI9f"
-        },
-        {
-          "name": "TBT Prod.",
-          "url": "https://open.spotify.com/artist/4WihjWGIXdbrdtcIhCcQuM"
-        }
-      ],
-      "duration_ms": 170805,
-      "name": "Close Ya",
-      "url": "https://open.spotify.com/track/3KK71qLRNq9A0H3Zoj2jY3"
     },
     {
       "added_at": "2024-09-06 19:25:38",

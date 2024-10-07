@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC92RTjdqKpN.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1D1lDfaOy483s8BIQRjBSS">JHart</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,014 likes - 181 songs - 9 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,013 likes - 181 songs - 9 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC92RTjdqKpN.md) - [plain]
 | 39 | [On My Life](https://open.spotify.com/track/6izJLwK6uGMJNQaRLFPO3H) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU) | [HELLRAISERS, Part 1](https://open.spotify.com/album/5NXJVouKAFjwszJA8FxUY7) | 2:59 |
 | 40 | [Deep End \(feat\. JHart\) \- Eden Prince Remix](https://open.spotify.com/track/4rgtPGf9Vp2aWiM0NooJvE) | [KREAM](https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5), [JHart](https://open.spotify.com/artist/6oSTtYd3B3OJubFU8mVhHQ), [Eden Prince](https://open.spotify.com/artist/31Eea8xaK1xAMyJy2iWE0z) | [Deep End \(feat\. JHart\) \[Remixes\]](https://open.spotify.com/album/7DTzhs8jGE5KN04HVEag6B) | 3:28 |
 | 41 | [Good Time \(feat\. Pitbull\)](https://open.spotify.com/track/3423M2NvBCY9yvmrsGqQpA) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [Party Never Ends](https://open.spotify.com/album/07hKp30OfkSekfN5IsmShA) | 3:23 |
-| 42 | [Never Comin Down](https://open.spotify.com/track/1QJvq84l7YcVCyIkGA602c) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf), [Shy Carter](https://open.spotify.com/artist/7JZafQsN8syJ9agEtcyP4V) | [Graffiti U](https://open.spotify.com/album/52aaxT2Se2oUyijUbWwp3Z) | 3:34 |
-| 43 | [Brought The Heat Back](https://open.spotify.com/track/3ivdlmTbUSv5JN9W8Tk9V1) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [ROMANCE : UNTOLD](https://open.spotify.com/album/05I8FltCMnGa3kE38mpOkL) | 2:56 |
+| 42 | [Brought The Heat Back](https://open.spotify.com/track/3ivdlmTbUSv5JN9W8Tk9V1) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [ROMANCE : UNTOLD](https://open.spotify.com/album/05I8FltCMnGa3kE38mpOkL) | 2:56 |
+| 43 | [Never Comin Down](https://open.spotify.com/track/1QJvq84l7YcVCyIkGA602c) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf), [Shy Carter](https://open.spotify.com/artist/7JZafQsN8syJ9agEtcyP4V) | [Graffiti U](https://open.spotify.com/album/52aaxT2Se2oUyijUbWwp3Z) | 3:34 |
 | 44 | [Impossible](https://open.spotify.com/track/1JTmrZwZhaP1yYJtuzfvJ9) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [RIIZING \- The 1st Mini Album](https://open.spotify.com/album/23TA2tnqYnphv1MKkiS6x2) | 3:02 |
 | 45 | [Side Effects](https://open.spotify.com/track/776xH04Us0YBTdspg6C1cP) | [Carlie Hanson](https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR) | [Side Effects](https://open.spotify.com/album/3G8C4K6QdaeYeGmzUdp4gw) | 3:08 |
 | 46 | [Your Love](https://open.spotify.com/track/6tADmhq8hYElyxJKRmFY1y) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Glory Days \(Expanded Edition\)](https://open.spotify.com/album/4w49hcqZt66HZX0MJHfW0m) | 3:27 |
@@ -91,7 +91,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC92RTjdqKpN.md) - [plain]
 | 81 | [Follow Me \(feat\. JHart\)](https://open.spotify.com/track/2X4ZUK44laGmfq6XTTe2dm) | [Vicetone](https://open.spotify.com/artist/0daugAjUgbJSqdlyYNwIbT), [JHart](https://open.spotify.com/artist/6oSTtYd3B3OJubFU8mVhHQ) | [Follow Me \(feat\. JHart\)](https://open.spotify.com/album/6OlwUdVKV2BBiJ4xyjBSi9) | 3:36 |
 | 82 | [Please](https://open.spotify.com/track/2mtjE61KBNeAeMFSm8O9Kp) | [William Singe](https://open.spotify.com/artist/5exS0bytCYdixgv02DaCm3) | [Please](https://open.spotify.com/album/41KVKULVd75hp1N3EVV3GA) | 3:00 |
 | 83 | [Higher \(feat\. Alex Newell\)](https://open.spotify.com/track/3x0oc9CVW5RwLx4EHW6JZk) | [VINCINT](https://open.spotify.com/artist/6glcVV5wCi1hU4nxqJItqd), [Alex Newell](https://open.spotify.com/artist/2vGaSKEDFsVPBgcnGxqlBN), [Princess Precious](https://open.spotify.com/artist/4GwCanrqEtG8SVYYY21rH5) | [There Will Be Tears](https://open.spotify.com/album/0Rq0YANjTxmxxq9nXVd64w) | 3:07 |
-| 84 | [Angel Eyes](https://open.spotify.com/track/2bOrjwAmNpzLZBIe51FAUq) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [Fact Check \- The 5th Album](https://open.spotify.com/album/0BJU07UQiBbB2bLLJg2ktr) | 3:04 |
+| 84 | [Angel Eyes](https://open.spotify.com/track/1JdYhrkBQViINQU3loztRr) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [Fact Check \- The 5th Album](https://open.spotify.com/album/4KTxUa5hNsGpT41XcdLicL) | 3:04 |
 | 85 | [Taste](https://open.spotify.com/track/48qMFfVFpUa4DD6ghkFY7W) | [Betty Who](https://open.spotify.com/artist/0t3QQl52F463sxGXb1ckhB) | [Betty](https://open.spotify.com/album/3ZRkEpaewmFKhHKmGCVRs7) | 3:22 |
 | 86 | [Burn](https://open.spotify.com/track/1yvIUHWMU3UM8StH7I0Tlq) | [AJ Mitchell](https://open.spotify.com/artist/6dn6x1XOng3LOAnfTjUn77) | [Burn](https://open.spotify.com/album/6iAUobi1fcxy60buZZBiqK) | 2:19 |
 | 87 | [Feel Right](https://open.spotify.com/track/5pyi5wDSHfdY3R5JQdngQ9) | [Wolfgang Gartner](https://open.spotify.com/artist/3534yWWzmxx8NbKVoNolsK), [J Hart](https://open.spotify.com/artist/0CwAIKaq06Ep8gtTJ6zy0d) | [10 Ways to Steal Home Plate](https://open.spotify.com/album/2Pkt22VgdQpDrRroWw4AyA) | 3:15 |
@@ -120,7 +120,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC92RTjdqKpN.md) - [plain]
 | 110 | [Promise Me](https://open.spotify.com/track/5BTgy0YT2HNKbBbsoodIox) | [Jack & Jack](https://open.spotify.com/artist/1INuLZXjjVbcJRyWvD1iSq) | [A Good Friend Is Nice](https://open.spotify.com/album/0mjAkDF5xXelx7EOUthdRk) | 3:38 |
 | 111 | [leave the light on](https://open.spotify.com/track/6b9NHiVNflrq1zd1dxkaLC) | [Johnny Orlando](https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW) | [all the things that could go wrong](https://open.spotify.com/album/7dBZzRYR6Q0nOhvuxN6H4H) | 2:55 |
 | 112 | [Making Me Dance](https://open.spotify.com/track/4CXzB7sfask9ekNzdXX83q) | [Wild Youth](https://open.spotify.com/artist/4wZxKygv7GA7oGYzk6bpid) | [Making Me Dance](https://open.spotify.com/album/6aN6Gf2xG7PLTACXGsu4kU) | 3:28 |
-| 113 | [Real Life](https://open.spotify.com/track/5eVxIY8kTGe9czhM5SCeR0) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [Fact Check \- The 5th Album](https://open.spotify.com/album/0BJU07UQiBbB2bLLJg2ktr) | 3:32 |
+| 113 | [Real Life](https://open.spotify.com/track/1HSV0jgzH5VCVtsFwPL2B5) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [Fact Check \- The 5th Album](https://open.spotify.com/album/4KTxUa5hNsGpT41XcdLicL) | 3:32 |
 | 114 | [I'll Remember You](https://open.spotify.com/track/3PuyCRR2JN1Nbk1yjl0xYE) | [Nathan Sykes](https://open.spotify.com/artist/2Rf4X6m0oayCJhaJ5K63GQ) | [Unfinished Business \(Deluxe\)](https://open.spotify.com/album/3WYRdsLkvrKgLgtxd8VV6X) | 4:06 |
 | 115 | [Summer](https://open.spotify.com/track/6s5i9piq629tK2Sfb9duiL) | [ALMA](https://open.spotify.com/artist/6c0mTNAxJxlp9HpKTUZwA8) | [Summer](https://open.spotify.com/album/04MBUojWMVW7DIYsgNcxzk) | 2:54 |
 | 116 | [Happy](https://open.spotify.com/track/6jbvtCxnmDhqIMb36AE94R) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [Super Over](https://open.spotify.com/album/0iOqQkGiycHp33vWKGdyqf) | 2:44 |
@@ -190,4 +190,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC92RTjdqKpN.md) - [plain]
 | 180 | [All My Life](https://open.spotify.com/track/15l0pOOpIL11xt2JoWKthY) | [Wynter Gordon](https://open.spotify.com/artist/4nmrm4zpgJ0RC6aZRSUEjF) | [With The Music I Die \(Deluxe\)](https://open.spotify.com/album/6lTavhbKfE9Fy582VHOCv4) | 3:36 |
 | 181 | [Tonight](https://open.spotify.com/track/4aTAQCJIGLU5RRcnZNPftn) | [Timati](https://open.spotify.com/artist/3oLccEy7y6zTe1gCFHxuWr), [Shontelle](https://open.spotify.com/artist/4M6Z1wubeKtwPqbjJygTOc) | [SWAGG](https://open.spotify.com/album/6ohDfN4WqQolD87G6s3j3U) | 3:53 |
 
-Snapshot ID: `Abd//gAAAACFtncA/ttoMyXyhRRqkBHQ`
+Snapshot ID: `AbeFngAAAACtKTvziZSUzXqQ9g/xoO6w`

@@ -1,6 +1,6 @@
 {
   "description": "Celebrating our EQUAL ambassador Cher and her favorite female voices at the top of our list!",
-  "num_followers": 59339,
+  "num_followers": 59340,
   "original_name": "EQUAL US",
   "owner": {
     "name": "Spotify",
@@ -291,22 +291,6 @@
     {
       "added_at": "2024-10-01 04:00:00",
       "album": {
-        "name": "Raise Your Glass",
-        "url": "https://open.spotify.com/album/3uQMzfrf4kUNGsCtmTtjPh"
-      },
-      "artists": [
-        {
-          "name": "P!nk",
-          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
-        }
-      ],
-      "duration_ms": 202960,
-      "name": "Raise Your Glass",
-      "url": "https://open.spotify.com/track/1gv4xPanImH17bKZ9rOveR"
-    },
-    {
-      "added_at": "2024-10-01 04:00:00",
-      "album": {
         "name": "AGORA",
         "url": "https://open.spotify.com/album/07QCnsWWoXTgLuU43VfB2u"
       },
@@ -323,6 +307,22 @@
     {
       "added_at": "2024-10-01 04:00:00",
       "album": {
+        "name": "Raise Your Glass",
+        "url": "https://open.spotify.com/album/3uQMzfrf4kUNGsCtmTtjPh"
+      },
+      "artists": [
+        {
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        }
+      ],
+      "duration_ms": 202960,
+      "name": "Raise Your Glass",
+      "url": "https://open.spotify.com/track/1gv4xPanImH17bKZ9rOveR"
+    },
+    {
+      "added_at": "2024-10-01 04:00:00",
+      "album": {
         "name": "Me Lo Merezco",
         "url": "https://open.spotify.com/album/2v3SbLqPYXwxzwbE6kRJio"
       },
@@ -335,6 +335,22 @@
       "duration_ms": 172125,
       "name": "Me Lo Merezco",
       "url": "https://open.spotify.com/track/0vXKNdPKnNqojeHM696Q88"
+    },
+    {
+      "added_at": "2024-10-01 04:00:00",
+      "album": {
+        "name": "Lady Soul (With Bonus Selections)",
+        "url": "https://open.spotify.com/album/7lEOKZaOpqP70UYqdLPejG"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 165333,
+      "name": "(You Make Me Feel Like) A Natural Woman",
+      "url": "https://open.spotify.com/track/5K09WxKdlkroDyEVyOSySy"
     },
     {
       "added_at": "2024-10-01 04:00:00",
@@ -371,18 +387,18 @@
     {
       "added_at": "2024-10-01 04:00:00",
       "album": {
-        "name": "Lady Soul (With Bonus Selections)",
-        "url": "https://open.spotify.com/album/7lEOKZaOpqP70UYqdLPejG"
+        "name": "Whitney Houston",
+        "url": "https://open.spotify.com/album/2MH37enG6IPvNK5QFLyKes"
       },
       "artists": [
         {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
         }
       ],
-      "duration_ms": 165333,
-      "name": "(You Make Me Feel Like) A Natural Woman",
-      "url": "https://open.spotify.com/track/5K09WxKdlkroDyEVyOSySy"
+      "duration_ms": 238466,
+      "name": "Saving All My Love for You",
+      "url": "https://open.spotify.com/track/1lx8ddGT5wCD6W2xmLeRKG"
     },
     {
       "added_at": "2024-10-01 04:00:00",
@@ -399,22 +415,6 @@
       "duration_ms": 215160,
       "name": "So What",
       "url": "https://open.spotify.com/track/0JiY190vktuhSGN6aqJdrt"
-    },
-    {
-      "added_at": "2024-10-01 04:00:00",
-      "album": {
-        "name": "Whitney Houston",
-        "url": "https://open.spotify.com/album/2MH37enG6IPvNK5QFLyKes"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 238466,
-      "name": "Saving All My Love for You",
-      "url": "https://open.spotify.com/track/1lx8ddGT5wCD6W2xmLeRKG"
     },
     {
       "added_at": "2024-10-01 04:00:00",
@@ -463,6 +463,22 @@
       "duration_ms": 128858,
       "name": "HOLLON",
       "url": "https://open.spotify.com/track/6XVkJ1fM7NkjODPYI7QbAM"
+    },
+    {
+      "added_at": "2024-10-01 04:00:00",
+      "album": {
+        "name": "Back To Black (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG"
+      },
+      "artists": [
+        {
+          "name": "Amy Winehouse",
+          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
+        }
+      ],
+      "duration_ms": 153173,
+      "name": "Me & Mr Jones",
+      "url": "https://open.spotify.com/track/0RfzQhbvtn5lOaKdhpAni7"
     },
     {
       "added_at": "2024-10-01 04:00:00",
@@ -519,22 +535,6 @@
       "duration_ms": 149426,
       "name": "Bye Bye Bye",
       "url": "https://open.spotify.com/track/081NX6xSxwSKgleTmGc58F"
-    },
-    {
-      "added_at": "2024-10-01 04:00:00",
-      "album": {
-        "name": "Back To Black (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG"
-      },
-      "artists": [
-        {
-          "name": "Amy Winehouse",
-          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
-        }
-      ],
-      "duration_ms": 153173,
-      "name": "Me & Mr Jones",
-      "url": "https://open.spotify.com/track/0RfzQhbvtn5lOaKdhpAni7"
     },
     {
       "added_at": "2024-10-01 04:00:00",
@@ -603,22 +603,6 @@
     {
       "added_at": "2024-10-01 04:00:00",
       "album": {
-        "name": "Private Dancer (30th Anniversary Issue)",
-        "url": "https://open.spotify.com/album/7gVHUNPQr0AE2A0Yf5MjqR"
-      },
-      "artists": [
-        {
-          "name": "Tina Turner",
-          "url": "https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak"
-        }
-      ],
-      "duration_ms": 434373,
-      "name": "Private Dancer - 2015 Remaster",
-      "url": "https://open.spotify.com/track/5JjdJK0uGRUk4skRTuQdUZ"
-    },
-    {
-      "added_at": "2024-10-01 04:00:00",
-      "album": {
         "name": "Clueless",
         "url": "https://open.spotify.com/album/2H3XOt3oaqB6rAVKhmdUd3"
       },
@@ -655,6 +639,22 @@
     {
       "added_at": "2024-10-01 04:00:00",
       "album": {
+        "name": "Private Dancer (30th Anniversary Issue)",
+        "url": "https://open.spotify.com/album/7gVHUNPQr0AE2A0Yf5MjqR"
+      },
+      "artists": [
+        {
+          "name": "Tina Turner",
+          "url": "https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak"
+        }
+      ],
+      "duration_ms": 434373,
+      "name": "Private Dancer - 2015 Remaster",
+      "url": "https://open.spotify.com/track/5JjdJK0uGRUk4skRTuQdUZ"
+    },
+    {
+      "added_at": "2024-10-01 04:00:00",
+      "album": {
         "name": "Diamond Diana: The Legacy Collection",
         "url": "https://open.spotify.com/album/2iPkYpFitI1RXmnnza1PeN"
       },
@@ -667,22 +667,6 @@
       "duration_ms": 215200,
       "name": "Ain't No Mountain High Enough",
       "url": "https://open.spotify.com/track/1KbuhBnzMHp4eq1q6flhWd"
-    },
-    {
-      "added_at": "2024-10-01 04:00:00",
-      "album": {
-        "name": "Bonnie Raitt (2008 Remaster)",
-        "url": "https://open.spotify.com/album/4gjY9JfOCvVlr7yTIyl2e0"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
-        }
-      ],
-      "duration_ms": 170800,
-      "name": "Thank You - 2008 Remaster",
-      "url": "https://open.spotify.com/track/2zLIjfjQ8kMy7WSSLmF0I2"
     },
     {
       "added_at": "2024-10-01 04:00:00",
@@ -715,6 +699,22 @@
       "duration_ms": 152973,
       "name": "Is It The Way",
       "url": "https://open.spotify.com/track/4aY0JD0iHm1VIAQelgYkw7"
+    },
+    {
+      "added_at": "2024-10-01 04:00:00",
+      "album": {
+        "name": "Bonnie Raitt (2008 Remaster)",
+        "url": "https://open.spotify.com/album/4gjY9JfOCvVlr7yTIyl2e0"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "duration_ms": 170800,
+      "name": "Thank You - 2008 Remaster",
+      "url": "https://open.spotify.com/track/2zLIjfjQ8kMy7WSSLmF0I2"
     },
     {
       "added_at": "2024-10-01 04:00:00",
@@ -855,22 +855,6 @@
     {
       "added_at": "2024-10-01 04:00:00",
       "album": {
-        "name": "FEEL IT",
-        "url": "https://open.spotify.com/album/7IaC6AWHeywSSnIe4NAxup"
-      },
-      "artists": [
-        {
-          "name": "ALLEYCVT",
-          "url": "https://open.spotify.com/artist/4JxRK2gxmri7L7OWaxnVD1"
-        }
-      ],
-      "duration_ms": 184489,
-      "name": "FEEL IT",
-      "url": "https://open.spotify.com/track/46ghb0YdtspAFUtmxtNgNo"
-    },
-    {
-      "added_at": "2024-10-01 04:00:00",
-      "album": {
         "name": "Slugger",
         "url": "https://open.spotify.com/album/3vq1m0WbgBEgTsG18SN62z"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 160052,
       "name": "x las nubes",
       "url": "https://open.spotify.com/track/4wHglCatImU2Gj01s8eILF"
+    },
+    {
+      "added_at": "2024-10-01 04:00:00",
+      "album": {
+        "name": "FEEL IT",
+        "url": "https://open.spotify.com/album/7IaC6AWHeywSSnIe4NAxup"
+      },
+      "artists": [
+        {
+          "name": "ALLEYCVT",
+          "url": "https://open.spotify.com/artist/4JxRK2gxmri7L7OWaxnVD1"
+        }
+      ],
+      "duration_ms": 184489,
+      "name": "FEEL IT",
+      "url": "https://open.spotify.com/track/46ghb0YdtspAFUtmxtNgNo"
     },
     {
       "added_at": "2024-10-01 04:00:00",
@@ -951,22 +951,6 @@
     {
       "added_at": "2024-10-01 04:00:00",
       "album": {
-        "name": "Kiss My (Ah)",
-        "url": "https://open.spotify.com/album/4LtELtq7yXRdE5A8jNIef0"
-      },
-      "artists": [
-        {
-          "name": "Zoe Ko",
-          "url": "https://open.spotify.com/artist/493xhO4GiL1eOhWUBt8CzZ"
-        }
-      ],
-      "duration_ms": 138549,
-      "name": "Kiss My (Ah)",
-      "url": "https://open.spotify.com/track/5zgyVeHTCXBnLGI3xRvb0s"
-    },
-    {
-      "added_at": "2024-10-01 04:00:00",
-      "album": {
         "name": "FK IT",
         "url": "https://open.spotify.com/album/7naXZDFuKYmQtJrmRdJFc7"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 184951,
       "name": "I already dug your grave",
       "url": "https://open.spotify.com/track/63ulMdyqy6G6iv91iyfGY6"
+    },
+    {
+      "added_at": "2024-10-01 04:00:00",
+      "album": {
+        "name": "Kiss My (Ah)",
+        "url": "https://open.spotify.com/album/4LtELtq7yXRdE5A8jNIef0"
+      },
+      "artists": [
+        {
+          "name": "Zoe Ko",
+          "url": "https://open.spotify.com/artist/493xhO4GiL1eOhWUBt8CzZ"
+        }
+      ],
+      "duration_ms": 138549,
+      "name": "Kiss My (Ah)",
+      "url": "https://open.spotify.com/track/5zgyVeHTCXBnLGI3xRvb0s"
     },
     {
       "added_at": "2024-10-01 04:00:00",
@@ -999,22 +999,6 @@
     {
       "added_at": "2024-10-01 04:00:00",
       "album": {
-        "name": "How's The Weather?",
-        "url": "https://open.spotify.com/album/0Wpn91s1RkbX3WmzfdyCKq"
-      },
-      "artists": [
-        {
-          "name": "Ashley Kutcher",
-          "url": "https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj"
-        }
-      ],
-      "duration_ms": 214470,
-      "name": "How's The Weather?",
-      "url": "https://open.spotify.com/track/4V9cJGZ0IIazVDUzZnVoZa"
-    },
-    {
-      "added_at": "2024-10-01 04:00:00",
-      "album": {
         "name": "Little Bug",
         "url": "https://open.spotify.com/album/6MzWuLcg9fAsHXEOcIDgY8"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 200397,
       "name": "Little Bug",
       "url": "https://open.spotify.com/track/2GAuyIDWQznZyRU3CGyDFy"
+    },
+    {
+      "added_at": "2024-10-01 04:00:00",
+      "album": {
+        "name": "How's The Weather?",
+        "url": "https://open.spotify.com/album/0Wpn91s1RkbX3WmzfdyCKq"
+      },
+      "artists": [
+        {
+          "name": "Ashley Kutcher",
+          "url": "https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj"
+        }
+      ],
+      "duration_ms": 214470,
+      "name": "How's The Weather?",
+      "url": "https://open.spotify.com/track/4V9cJGZ0IIazVDUzZnVoZa"
     },
     {
       "added_at": "2024-10-01 04:00:00",

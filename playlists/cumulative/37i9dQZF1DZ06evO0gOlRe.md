@@ -2,9 +2,9 @@
 
 ### [This Is Alexander Stewart](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0gOlRe)
 
-> This Is Alexander Stewart\. Todas as faixas essenciais numa única playlist.
+> This is Alexander Stewart\. The essential tracks, all in one playlist.
 
-59 songs - 2 hr 44 min
+60 songs - 2 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [blame's on me](https://open.spotify.com/track/1veHwv1HPwzOvlhs5jPxeP) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [blame's on me](https://open.spotify.com/album/1dpLDMwavEN9eXN23N7liY) | 2:18 | 2024-01-10 |  |
 | [broken by you](https://open.spotify.com/track/472jZF9DQbbJlp6Zg58aai) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [broken by you](https://open.spotify.com/album/3xGBQIPJYhqeSkTF53Jr70) | 2:52 | 2024-03-09 |  |
 | [Compare Myself](https://open.spotify.com/track/1ZxDAK9a3hBpArhO3xTYrH) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [Compare Myself](https://open.spotify.com/album/4oqJWqXn7kqcPxiuvM25Xv) | 3:31 | 2024-01-10 |  |
+| [Crossfire](https://open.spotify.com/track/2M9g1BMhqVT51XpDw1gThu) | [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq), [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [ORIGIN \(Deluxe\)](https://open.spotify.com/album/72wRkJIO27W7JPUEQ0r3sK) | 3:07 | 2024-10-07 |  |
 | [day i die](https://open.spotify.com/track/1UhDG1nEctrXaCJR85p0iF) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [day i die](https://open.spotify.com/album/7mv2k44vhKlpDu8uv3j8YO) | 2:55 | 2024-04-26 | 2024-06-04 |
 | [day i die](https://open.spotify.com/track/5QailQmHeDLllMTGD9LaDR) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [Bleeding Heart \(with Track\-by\-Track Commentary\)](https://open.spotify.com/album/26cd7AEyGAPbguPDvoKtub) | 2:55 | 2024-06-04 | 2024-06-17 |
 | [day i die](https://open.spotify.com/track/6OiLEkbkyXxaDE2PXYi6js) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [bleeding heart](https://open.spotify.com/album/53eFX3b6OFPpKi2SEkS0au) | 2:55 | 2024-06-17 |  |

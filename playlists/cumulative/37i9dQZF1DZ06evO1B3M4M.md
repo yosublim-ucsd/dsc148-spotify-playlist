@@ -4,7 +4,7 @@
 
 > This is James Newton Howard\. The essential tracks, all in one playlist.
 
-87 songs - 4 hr 44 min
+88 songs - 4 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,11 +15,12 @@
 | [And I Thought My Jokes Were Bad](https://open.spotify.com/track/3QRK9jOyP2qQ9ZaYdO3QCn) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ), [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [The Dark Knight \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/63uFfOZpC7jrV7wfuBY2lX) | 2:28 | 2023-11-10 |  |
 | [Archer & Solomon Hike](https://open.spotify.com/track/4mbA69qFwC1NhffvpsUt5u) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [Blood Diamond \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2YwDj8TchnUvnxekoIcQ0X) | 1:55 | 2023-11-10 | 2024-09-10 |
 | [Aurora in Faerieland](https://open.spotify.com/track/3G4oEYQPiRQE5O4ahs7OC8) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [Maleficent \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4NCaxImo95pQKUonZwKtRA) | 4:41 | 2023-11-10 |  |
-| [Barbastella](https://open.spotify.com/track/6G0UFydt9FBQtIM9RaZ3My) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2), [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Batman Begins \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5djDvf7OozECsKzEB04uYg) | 4:45 | 2024-06-23 |  |
+| [Barbastella](https://open.spotify.com/track/6G0UFydt9FBQtIM9RaZ3My) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2), [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Batman Begins \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5djDvf7OozECsKzEB04uYg) | 4:45 | 2024-06-23 | 2024-10-07 |
 | [Captain Jefferson](https://open.spotify.com/track/5X6b1ySSqzJm4qLw0fqs5n) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [News Of The World \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6v1bOteXExLs8oA8epNRuc) | 2:06 | 2023-11-10 |  |
 | [Central Park \- From King Kong Original Motion Picture Soundtrack](https://open.spotify.com/track/38bOgEEJoYMGjdVX2GDDjK) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [King Kong](https://open.spotify.com/album/1Skgydum2XQAOurr30tw0a) | 4:36 | 2024-04-01 |  |
 | [Corynorhinus](https://open.spotify.com/track/0hzNG6ZAzoYvgNA50TMzOw) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2), [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Batman Begins \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5djDvf7OozECsKzEB04uYg) | 5:04 | 2023-11-10 |  |
 | [Coryo in the Capitol](https://open.spotify.com/track/1ccJ18uqMEaEMgbgzjVKT3) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [The Hunger Games: The Ballad of Songbirds and Snakes \(Original Motion Picture Score\)](https://open.spotify.com/album/6L0YVSVuw4BD3UX3fhl8et) | 0:44 | 2023-12-13 | 2024-03-30 |
+| [Dumbledore's Theme \- Solo Piano](https://open.spotify.com/track/752Rr90DpIKYoe055QkIds) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [Fantastic Beasts: The Crimes Of Grindelwald \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0x0bcLcDHfb8j93LslpznF) | 1:27 | 2024-10-07 |  |
 | [Eptesicus](https://open.spotify.com/track/6akwM3md7dzP2LkK8pKk6d) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2), [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Batman Begins \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5djDvf7OozECsKzEB04uYg) | 4:20 | 2023-11-10 |  |
 | [Fairy Dance](https://open.spotify.com/track/3VODwXoY2gZKbgC098Hr77) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [Peter Pan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2zGkIyUeYV5NVS8z3MUGE8) | 5:24 | 2023-11-10 |  |
 | [Fantastic Beasts Theme \- Solo Piano](https://open.spotify.com/track/18b656dcOv1olz14Xj5EZi) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [Fantastic Beasts: The Crimes Of Grindelwald \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0x0bcLcDHfb8j93LslpznF) | 1:37 | 2023-11-10 |  |

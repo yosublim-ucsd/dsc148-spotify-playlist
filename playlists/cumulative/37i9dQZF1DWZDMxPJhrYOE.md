@@ -4,7 +4,7 @@
 
 > De stærkeste nye sange fra de seneste par måneder\. Så er du opdateret!
 
-232 songs - 11 hr 58 min
+233 songs - 12 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,7 +182,7 @@
 | [Puntería](https://open.spotify.com/track/2dYXrWkNO40NXy2Q3IYLRc) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Las Mujeres Ya No Lloran](https://open.spotify.com/album/3fonA82Hl7huJiQCwKkzGA) | 3:01 | 2024-07-01 | 2024-08-01 |
 | [Regnblöta skor](https://open.spotify.com/track/2YYsb4d39JKLpQgTMpXOQ0) | [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ) | [Regnblöta skor](https://open.spotify.com/album/28QJLh9JDVzlGMp9aUZOyt) | 2:30 | 2024-08-09 |  |
 | [Reposado](https://open.spotify.com/track/3xJeUxbt51wpvGk3YzqxLi) | [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD), [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [KENNY](https://open.spotify.com/album/0vYywoBHcZgwW08A2rA9fU) | 2:41 | 2024-07-01 | 2024-09-20 |
-| [Rick Ross Pt\. 2](https://open.spotify.com/track/6uIVBE5DHG3szAnaOyvf3l) | [Medina](https://open.spotify.com/artist/7c7ZeiPKWHf2E1rsf1P4VF), [Tessa](https://open.spotify.com/artist/3pJK3CUpbnyX7ogDfAwa9J) | [Rick Ross Pt\. 2](https://open.spotify.com/album/1G8rjqtorUe1U5olgSBXXE) | 2:18 | 2024-09-11 |  |
+| [Rick Ross Pt\. 2](https://open.spotify.com/track/6uIVBE5DHG3szAnaOyvf3l) | [Medina](https://open.spotify.com/artist/7c7ZeiPKWHf2E1rsf1P4VF), [Tessa](https://open.spotify.com/artist/3pJK3CUpbnyX7ogDfAwa9J) | [Rick Ross Pt\. 2](https://open.spotify.com/album/1G8rjqtorUe1U5olgSBXXE) | 2:18 | 2024-09-11 | 2024-10-07 |
 | [Risk](https://open.spotify.com/track/73c7iqH4lCVqu4tm66i0tY) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Risk](https://open.spotify.com/album/3oFBS1h6VV2eJl1Ynhq4Yw) | 3:11 | 2024-07-01 | 2024-08-17 |
 | [Rockstar](https://open.spotify.com/track/6vvPecFTmWxDfEJ6cYT1wa) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Rockstar](https://open.spotify.com/album/7wIIhHPyaxAHRvdNQQO2G9) | 2:18 | 2024-07-01 | 2024-07-27 |
 | [Rush](https://open.spotify.com/track/0ppdjEVfuHUZQYK8t9uJ9Q) | [Saveus](https://open.spotify.com/artist/2rR0cafJvL0JVTC8E2qIqt) | [Rush](https://open.spotify.com/album/643BzXAzVnCV2YBxSCJfpe) | 2:32 | 2024-09-05 |  |
@@ -215,6 +215,7 @@
 | [The Feeling You Get](https://open.spotify.com/track/79RIg06Di0CfLaLBy6a8Pu) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Ask That God](https://open.spotify.com/album/5iEtQfZATfimid3Ogvce5m) | 4:16 | 2024-07-31 | 2024-08-23 |
 | [THE REASON \(feat\. John Newman\)](https://open.spotify.com/track/1H7izUQD8BKZgcUTIG0t6o) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [John Newman](https://open.spotify.com/artist/34v5MVKeQnIo0CWYMbbrPf) | [PULSE](https://open.spotify.com/album/1w6FcPbvr0g1PlinZesFKt) | 3:17 | 2024-08-01 | 2024-08-23 |
 | [These Walls](https://open.spotify.com/track/7b6sWLSnbZhSIeqNGrJ4py) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Radical Optimism](https://open.spotify.com/album/1Mo92916G2mmG7ajpmSVrc) | 3:37 | 2024-07-01 | 2024-08-01 |
+| [Thick Of It \(feat\. Trippie Redd\)](https://open.spotify.com/track/1xmvq1fYLs9TEgikaFilGW) | [KSI](https://open.spotify.com/artist/1nzgtKYFckznkcVMR3Gg4z), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [Thick Of It \(feat\. Trippie Redd\) / Low](https://open.spotify.com/album/4o57W8cMFiKf2NVbGSE9jH) | 2:40 | 2024-10-03 |  |
 | [Thick Of It All](https://open.spotify.com/track/6JbvvGKwtgcjeOU810AS8w) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Joe Jonas](https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Thick Of It All](https://open.spotify.com/album/0JvWGbkCMpAdbPVlczwKDx) | 3:19 | 2024-09-10 |  |
 | [THOUGHT YOU WERE THE ONE](https://open.spotify.com/track/7liEa3mZZwh9auF98KYITv) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [THOUGHT YOU WERE THE ONE](https://open.spotify.com/album/6bJOZvEgdW3ck7W2Z1d8vm) | 2:58 | 2024-09-10 |  |
 | [To Be Loved](https://open.spotify.com/track/3VpCLroRCtkDWIkPnMB3mj) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Beautifully Ordinary](https://open.spotify.com/album/2TLyLOzYh6qo5N0blioQn8) | 5:04 | 2024-08-01 | 2024-08-20 |

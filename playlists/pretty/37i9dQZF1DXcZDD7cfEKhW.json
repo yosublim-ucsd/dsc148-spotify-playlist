@@ -1,6 +1,6 @@
 {
   "description": "Remixed pop and <a href=\"spotify:genre:edm_dance\">dance</a> collabs. Cover: Mark Ronson & Sabrina Carpenter",
-  "num_followers": 4090933,
+  "num_followers": 4090842,
   "original_name": "Pop Remix",
   "owner": {
     "name": "Spotify",
@@ -283,26 +283,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Memories (feat. Kid Cudi) [2021 Remix]",
-        "url": "https://open.spotify.com/album/6YjGFGvxaNPwD2sQjECHSX"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Kid Cudi",
-          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
-        }
-      ],
-      "duration_ms": 162992,
-      "name": "Memories (feat. Kid Cudi) - 2021 Remix",
-      "url": "https://open.spotify.com/track/59o6ojGNGJOYiVJSzC6Lsa"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Fortnight (feat. Post Malone) [BLOND:ISH Remix]",
         "url": "https://open.spotify.com/album/1agEHpWnELaZHWzcbGDCpu"
       },
@@ -343,6 +323,26 @@
       "duration_ms": 211400,
       "name": "Tattoo - Topic Remix",
       "url": "https://open.spotify.com/track/2HJBsWX5LQK8Y95JzPJ4zp"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Memories (feat. Kid Cudi) [2021 Remix]",
+        "url": "https://open.spotify.com/album/6YjGFGvxaNPwD2sQjECHSX"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Kid Cudi",
+          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
+        }
+      ],
+      "duration_ms": 162992,
+      "name": "Memories (feat. Kid Cudi) - 2021 Remix",
+      "url": "https://open.spotify.com/track/59o6ojGNGJOYiVJSzC6Lsa"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -443,6 +443,26 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
+        "name": "The Cruelest Summer",
+        "url": "https://open.spotify.com/album/1nqF9ybDGwuGl1rVERp5Q4"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        {
+          "name": "LP Giobbi",
+          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+        }
+      ],
+      "duration_ms": 192900,
+      "name": "Cruel Summer - LP Giobbi Remix",
+      "url": "https://open.spotify.com/track/0pjBqAz8GlxGlpaU4W0DxS"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
         "name": "Your Love (Diplo Remix)",
         "url": "https://open.spotify.com/album/7F4BBbbkJKAa0xxGKpzcvV"
       },
@@ -459,6 +479,26 @@
       "duration_ms": 155625,
       "name": "Your Love - Diplo Remix",
       "url": "https://open.spotify.com/track/4R3BIyY00WxYVZOmgrFp1Y"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "More Than A Woman (SG's Paradise Edit)",
+        "url": "https://open.spotify.com/album/2iTmTEm55PIjLdYjDCKh96"
+      },
+      "artists": [
+        {
+          "name": "Bee Gees",
+          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
+        },
+        {
+          "name": "SG Lewis",
+          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
+        }
+      ],
+      "duration_ms": 357936,
+      "name": "More Than A Woman - SG's Paradise Edit",
+      "url": "https://open.spotify.com/track/0L3XCv9i9IHs8cJEVhsJ3J"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -483,46 +523,6 @@
       "duration_ms": 151929,
       "name": "Perfect (Exceeder)",
       "url": "https://open.spotify.com/track/7jY6W92bLfnXnevTa7JKHi"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "The Cruelest Summer",
-        "url": "https://open.spotify.com/album/1nqF9ybDGwuGl1rVERp5Q4"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        },
-        {
-          "name": "LP Giobbi",
-          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
-        }
-      ],
-      "duration_ms": 192900,
-      "name": "Cruel Summer - LP Giobbi Remix",
-      "url": "https://open.spotify.com/track/0pjBqAz8GlxGlpaU4W0DxS"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "More Than A Woman (SG's Paradise Edit)",
-        "url": "https://open.spotify.com/album/2iTmTEm55PIjLdYjDCKh96"
-      },
-      "artists": [
-        {
-          "name": "Bee Gees",
-          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
-        },
-        {
-          "name": "SG Lewis",
-          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
-        }
-      ],
-      "duration_ms": 357936,
-      "name": "More Than A Woman - SG's Paradise Edit",
-      "url": "https://open.spotify.com/track/0L3XCv9i9IHs8cJEVhsJ3J"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -627,30 +627,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Titanium (feat. Sia) [David Guetta & MORTEN Future Rave Remix]",
-        "url": "https://open.spotify.com/album/2Eke7bWyUPKdFx3UdQh4rI"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "MORTEN",
-          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
-        },
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 211428,
-      "name": "Titanium (feat. Sia) - David Guetta & MORTEN Future Rave Remix",
-      "url": "https://open.spotify.com/track/5072hCBK3Z15qRnTEzd8fy"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Ferrari (Oliver Heldens Remix)",
         "url": "https://open.spotify.com/album/2vqDUyzavoaVR8gbe59JwY"
       },
@@ -671,6 +647,30 @@
       "duration_ms": 188640,
       "name": "Ferrari - Oliver Heldens Remix",
       "url": "https://open.spotify.com/track/0oCNRAmwLo4zHDpCKpjQtI"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Titanium (feat. Sia) [David Guetta & MORTEN Future Rave Remix]",
+        "url": "https://open.spotify.com/album/2Eke7bWyUPKdFx3UdQh4rI"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "MORTEN",
+          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
+        },
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 211428,
+      "name": "Titanium (feat. Sia) - David Guetta & MORTEN Future Rave Remix",
+      "url": "https://open.spotify.com/track/5072hCBK3Z15qRnTEzd8fy"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -891,26 +891,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Feeling Good (Austin Millz Remix)",
-        "url": "https://open.spotify.com/album/0eTPfsYOTE2BTta03N3CM6"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        },
-        {
-          "name": "Austin Millz",
-          "url": "https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k"
-        }
-      ],
-      "duration_ms": 150789,
-      "name": "Feeling Good - Austin Millz Remix",
-      "url": "https://open.spotify.com/track/5DQFUDNNpdu2l3ZyE8GHON"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "MA\u00d1ANA SER\u00c1 BONITO (BICHOTA SEASON)",
         "url": "https://open.spotify.com/album/1f2q2JQ3GFwIrWch2JLC0u"
       },
@@ -927,6 +907,26 @@
       "duration_ms": 187670,
       "name": "PROVENZA - REMIX",
       "url": "https://open.spotify.com/track/7DmP5W2DbhXC7uKYbYXtIm"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Feeling Good (Austin Millz Remix)",
+        "url": "https://open.spotify.com/album/0eTPfsYOTE2BTta03N3CM6"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        },
+        {
+          "name": "Austin Millz",
+          "url": "https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k"
+        }
+      ],
+      "duration_ms": 150789,
+      "name": "Feeling Good - Austin Millz Remix",
+      "url": "https://open.spotify.com/track/5DQFUDNNpdu2l3ZyE8GHON"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1345,26 +1345,6 @@
       "url": "https://open.spotify.com/track/1U3VkqNBorp6hxLoM6JlQJ"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Illusion (Honey Dijon Remix)",
-        "url": "https://open.spotify.com/album/6wVYRf3FlcuZH36q8hnnxZ"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        },
-        {
-          "name": "Honey Dijon",
-          "url": "https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS"
-        }
-      ],
-      "duration_ms": 304235,
-      "name": "Illusion - Honey Dijon Remix",
-      "url": "https://open.spotify.com/track/2c4oHJ9FtXiAkRHgxsSGAy"
-    },
-    {
       "added_at": "2024-07-26 04:00:00",
       "album": {
         "name": "Whatever (The Remixes)",
@@ -1383,6 +1363,26 @@
       "duration_ms": 165714,
       "name": "Whatever (with Ava Max) - Ti\u00ebsto Remix",
       "url": "https://open.spotify.com/track/2e0Lsi6FfpmjKtdKkaZHuO"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Illusion (Honey Dijon Remix)",
+        "url": "https://open.spotify.com/album/6wVYRf3FlcuZH36q8hnnxZ"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        {
+          "name": "Honey Dijon",
+          "url": "https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS"
+        }
+      ],
+      "duration_ms": 304235,
+      "name": "Illusion - Honey Dijon Remix",
+      "url": "https://open.spotify.com/track/2c4oHJ9FtXiAkRHgxsSGAy"
     },
     {
       "added_at": "2024-07-26 04:00:00",

@@ -1,6 +1,6 @@
 {
   "description": "Crusin' is not a crime, it's a lifestyle! ",
-  "num_followers": 89946,
+  "num_followers": 90039,
   "original_name": "Lowrider Crusin'",
   "owner": {
     "name": "Spotify",
@@ -227,6 +227,22 @@
     {
       "added_at": "2024-08-14 08:31:40",
       "album": {
+        "name": "Oogum Boogum",
+        "url": "https://open.spotify.com/album/108biCEg5vUG7Efei5EhTf"
+      },
+      "artists": [
+        {
+          "name": "Brenton Wood",
+          "url": "https://open.spotify.com/artist/6ohvzFHYmLd05kyYhLui5K"
+        }
+      ],
+      "duration_ms": 163302,
+      "name": "I Like The Way You Love Me",
+      "url": "https://open.spotify.com/track/0nNavzWSD6AUiQK2rLgbBx"
+    },
+    {
+      "added_at": "2024-08-14 08:31:40",
+      "album": {
         "name": "La La Means I Love You",
         "url": "https://open.spotify.com/album/2Xj7OXGWSM6JbjJjYUusLR"
       },
@@ -271,22 +287,6 @@
       "duration_ms": 202234,
       "name": "La Vida Es Fr\u00eda",
       "url": "https://open.spotify.com/track/4r3XQQZyf8p30M8fFkZJDa"
-    },
-    {
-      "added_at": "2024-08-14 08:31:40",
-      "album": {
-        "name": "Oogum Boogum",
-        "url": "https://open.spotify.com/album/108biCEg5vUG7Efei5EhTf"
-      },
-      "artists": [
-        {
-          "name": "Brenton Wood",
-          "url": "https://open.spotify.com/artist/6ohvzFHYmLd05kyYhLui5K"
-        }
-      ],
-      "duration_ms": 163302,
-      "name": "I Like The Way You Love Me",
-      "url": "https://open.spotify.com/track/0nNavzWSD6AUiQK2rLgbBx"
     },
     {
       "added_at": "2024-08-14 08:31:40",
@@ -351,6 +351,22 @@
       "duration_ms": 151906,
       "name": "Just One Look",
       "url": "https://open.spotify.com/track/154uJXAUVoqvV5on0w03a0"
+    },
+    {
+      "added_at": "2024-08-14 08:31:40",
+      "album": {
+        "name": "Oogum Boogum",
+        "url": "https://open.spotify.com/album/108biCEg5vUG7Efei5EhTf"
+      },
+      "artists": [
+        {
+          "name": "Brenton Wood",
+          "url": "https://open.spotify.com/artist/6ohvzFHYmLd05kyYhLui5K"
+        }
+      ],
+      "duration_ms": 141329,
+      "name": "Gimme Little Sign",
+      "url": "https://open.spotify.com/track/1h4XVjt26ZCDKmeEoHxT07"
     },
     {
       "added_at": "2024-08-14 08:31:40",
@@ -435,22 +451,6 @@
     {
       "added_at": "2024-08-14 08:31:40",
       "album": {
-        "name": "Oogum Boogum",
-        "url": "https://open.spotify.com/album/108biCEg5vUG7Efei5EhTf"
-      },
-      "artists": [
-        {
-          "name": "Brenton Wood",
-          "url": "https://open.spotify.com/artist/6ohvzFHYmLd05kyYhLui5K"
-        }
-      ],
-      "duration_ms": 141329,
-      "name": "Gimme Little Sign",
-      "url": "https://open.spotify.com/track/1h4XVjt26ZCDKmeEoHxT07"
-    },
-    {
-      "added_at": "2024-08-14 08:31:40",
-      "album": {
         "name": "The Best Of Bobby Vinton",
         "url": "https://open.spotify.com/album/4qK4QZUSp8QdoMEm9mrzyA"
       },
@@ -531,22 +531,6 @@
     {
       "added_at": "2024-08-14 08:31:40",
       "album": {
-        "name": "Sisters of Soul; the Sweeter Voices of Soul",
-        "url": "https://open.spotify.com/album/6VRBMd2t0mc6Kmsc0Cw86l"
-      },
-      "artists": [
-        {
-          "name": "The Fuzz",
-          "url": "https://open.spotify.com/artist/052NpRSiz4SQTsFnvwMP6t"
-        }
-      ],
-      "duration_ms": 184634,
-      "name": "I Love You for All Seasons",
-      "url": "https://open.spotify.com/track/03DQO1cC5RzTWRxJLzJCgy"
-    },
-    {
-      "added_at": "2024-08-14 08:31:40",
-      "album": {
         "name": "The ABC's Of Soul, Vol. 3 (Classics From The ABC Records Catalog 1975-1979)",
         "url": "https://open.spotify.com/album/3pbZUEap46WPw4nxrSjP4n"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 255173,
       "name": "Float On - Single Version",
       "url": "https://open.spotify.com/track/4kxDa9niTJIyh89afKjpCR"
+    },
+    {
+      "added_at": "2024-08-14 08:31:40",
+      "album": {
+        "name": "Sisters of Soul; the Sweeter Voices of Soul",
+        "url": "https://open.spotify.com/album/6VRBMd2t0mc6Kmsc0Cw86l"
+      },
+      "artists": [
+        {
+          "name": "The Fuzz",
+          "url": "https://open.spotify.com/artist/052NpRSiz4SQTsFnvwMP6t"
+        }
+      ],
+      "duration_ms": 184634,
+      "name": "I Love You for All Seasons",
+      "url": "https://open.spotify.com/track/03DQO1cC5RzTWRxJLzJCgy"
     },
     {
       "added_at": "2024-08-14 08:31:40",
@@ -611,22 +611,6 @@
     {
       "added_at": "2024-08-14 08:31:40",
       "album": {
-        "name": "Baby You Got It",
-        "url": "https://open.spotify.com/album/6k6HGujFFmxxqt4cD1AL4N"
-      },
-      "artists": [
-        {
-          "name": "Brenton Wood",
-          "url": "https://open.spotify.com/artist/6ohvzFHYmLd05kyYhLui5K"
-        }
-      ],
-      "duration_ms": 128546,
-      "name": "Baby You Got It",
-      "url": "https://open.spotify.com/track/7hphy8rtxpYshs3UzDZTzN"
-    },
-    {
-      "added_at": "2024-08-14 08:31:40",
-      "album": {
         "name": "Presenting The Danleers",
         "url": "https://open.spotify.com/album/2wkPlFZWjudOYq89zuFX9R"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 133226,
       "name": "One Summer Night",
       "url": "https://open.spotify.com/track/5GEsOz5Pbln0j2RcmBGLa4"
+    },
+    {
+      "added_at": "2024-08-14 08:31:40",
+      "album": {
+        "name": "Baby You Got It",
+        "url": "https://open.spotify.com/album/6k6HGujFFmxxqt4cD1AL4N"
+      },
+      "artists": [
+        {
+          "name": "Brenton Wood",
+          "url": "https://open.spotify.com/artist/6ohvzFHYmLd05kyYhLui5K"
+        }
+      ],
+      "duration_ms": 128546,
+      "name": "Baby You Got It",
+      "url": "https://open.spotify.com/track/7hphy8rtxpYshs3UzDZTzN"
     },
     {
       "added_at": "2024-08-14 08:31:40",
@@ -871,22 +871,6 @@
     {
       "added_at": "2024-08-14 08:31:40",
       "album": {
-        "name": "Warm & Tender Soul",
-        "url": "https://open.spotify.com/album/2PDg8ZGUuCxr0PQ7eyY750"
-      },
-      "artists": [
-        {
-          "name": "Percy Sledge",
-          "url": "https://open.spotify.com/artist/3rRmDmzPcAFwcUDvG5gBqO"
-        }
-      ],
-      "duration_ms": 173893,
-      "name": "You Really Got a Hold on Me",
-      "url": "https://open.spotify.com/track/1kz3vwmLiBlW3A73exQSNx"
-    },
-    {
-      "added_at": "2024-08-14 08:31:40",
-      "album": {
         "name": "The Best Of The Penguins",
         "url": "https://open.spotify.com/album/22MQotgEOE29gE6YnhN4Ox"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 179426,
       "name": "Earth Angel (Will You Be Mine)",
       "url": "https://open.spotify.com/track/11XR0tRT4g5ov4u8M92wbF"
+    },
+    {
+      "added_at": "2024-08-14 08:31:40",
+      "album": {
+        "name": "Warm & Tender Soul",
+        "url": "https://open.spotify.com/album/2PDg8ZGUuCxr0PQ7eyY750"
+      },
+      "artists": [
+        {
+          "name": "Percy Sledge",
+          "url": "https://open.spotify.com/artist/3rRmDmzPcAFwcUDvG5gBqO"
+        }
+      ],
+      "duration_ms": 173893,
+      "name": "You Really Got a Hold on Me",
+      "url": "https://open.spotify.com/track/1kz3vwmLiBlW3A73exQSNx"
     },
     {
       "added_at": "2024-08-14 08:31:40",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2024-08-14 08:31:40",
       "album": {
-        "name": "The Very Best Of The Dramatics",
-        "url": "https://open.spotify.com/album/1smTgNR8x8iq1EkhFyoFT7"
-      },
-      "artists": [
-        {
-          "name": "The Dramatics",
-          "url": "https://open.spotify.com/artist/2W8UTum7bU7ue6m0r14H97"
-        }
-      ],
-      "duration_ms": 209213,
-      "name": "In The Rain",
-      "url": "https://open.spotify.com/track/6aKFAhG7hCy71wLDMKjP5G"
-    },
-    {
-      "added_at": "2024-08-14 08:31:40",
-      "album": {
         "name": "Breakfast Special",
         "url": "https://open.spotify.com/album/0x2Hgl58dtwTdA1AdgG0Zb"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 211001,
       "name": "Eighteen With A Bullet",
       "url": "https://open.spotify.com/track/5Db6sVQqeSoe8SN7JZrpPz"
+    },
+    {
+      "added_at": "2024-08-14 08:31:40",
+      "album": {
+        "name": "The Very Best Of The Dramatics",
+        "url": "https://open.spotify.com/album/1smTgNR8x8iq1EkhFyoFT7"
+      },
+      "artists": [
+        {
+          "name": "The Dramatics",
+          "url": "https://open.spotify.com/artist/2W8UTum7bU7ue6m0r14H97"
+        }
+      ],
+      "duration_ms": 209213,
+      "name": "In The Rain",
+      "url": "https://open.spotify.com/track/6aKFAhG7hCy71wLDMKjP5G"
     },
     {
       "added_at": "2024-08-14 08:31:40",
@@ -1487,6 +1487,22 @@
     {
       "added_at": "2024-08-14 08:31:40",
       "album": {
+        "name": "Number Ones",
+        "url": "https://open.spotify.com/album/4jATpIchd56XOWEHVsd8ky"
+      },
+      "artists": [
+        {
+          "name": "Love Unlimited",
+          "url": "https://open.spotify.com/artist/2M4KXzgedR4EKG4qgTeDKa"
+        }
+      ],
+      "duration_ms": 229040,
+      "name": "I Belong To You",
+      "url": "https://open.spotify.com/track/2hEEvYikDJKfwQVXGj8mTK"
+    },
+    {
+      "added_at": "2024-08-14 08:31:40",
+      "album": {
         "name": "Daddy's Home: The Very Best Of Shep & The Limelites",
         "url": "https://open.spotify.com/album/5D69CVCyBJCbOk4xS1x3Yr"
       },
@@ -1503,22 +1519,6 @@
       "duration_ms": 167986,
       "name": "Daddy's Home",
       "url": "https://open.spotify.com/track/64Ac1xoo77GCvnA3aaSuJk"
-    },
-    {
-      "added_at": "2024-08-14 08:31:40",
-      "album": {
-        "name": "Number Ones",
-        "url": "https://open.spotify.com/album/4jATpIchd56XOWEHVsd8ky"
-      },
-      "artists": [
-        {
-          "name": "Love Unlimited",
-          "url": "https://open.spotify.com/artist/2M4KXzgedR4EKG4qgTeDKa"
-        }
-      ],
-      "duration_ms": 229040,
-      "name": "I Belong To You",
-      "url": "https://open.spotify.com/track/2hEEvYikDJKfwQVXGj8mTK"
     },
     {
       "added_at": "2024-08-14 08:31:40",
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2024-08-14 08:31:40",
       "album": {
-        "name": "The Complete Motown Singles Vol. 10: 1970",
-        "url": "https://open.spotify.com/album/6jMXo2j1AIktuattwNYnBe"
-      },
-      "artists": [
-        {
-          "name": "The Originals",
-          "url": "https://open.spotify.com/artist/11EZGTWr2pY0VZPlWokAbl"
-        }
-      ],
-      "duration_ms": 172560,
-      "name": "The Bells",
-      "url": "https://open.spotify.com/track/2kLrFBgVs9BsyNQ6EDc5LH"
-    },
-    {
-      "added_at": "2024-08-14 08:31:40",
-      "album": {
         "name": "Two Lovers",
         "url": "https://open.spotify.com/album/4dfP6ztb54XjPNDMOQ1MSL"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 170439,
       "name": "Laughing Boy",
       "url": "https://open.spotify.com/track/3jnxnBVwaRUMYuQQmts6YR"
+    },
+    {
+      "added_at": "2024-08-14 08:31:40",
+      "album": {
+        "name": "The Complete Motown Singles Vol. 10: 1970",
+        "url": "https://open.spotify.com/album/6jMXo2j1AIktuattwNYnBe"
+      },
+      "artists": [
+        {
+          "name": "The Originals",
+          "url": "https://open.spotify.com/artist/11EZGTWr2pY0VZPlWokAbl"
+        }
+      ],
+      "duration_ms": 172560,
+      "name": "The Bells",
+      "url": "https://open.spotify.com/track/2kLrFBgVs9BsyNQ6EDc5LH"
     },
     {
       "added_at": "2024-08-14 08:31:40",

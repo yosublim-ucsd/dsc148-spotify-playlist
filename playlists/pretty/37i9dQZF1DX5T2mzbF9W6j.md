@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T2mzbF9W6j.md) - [plain]
 
 > Wyzwania, cele, zadania, spotkania, dedlajny… ale najpierw kawa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,197 likes - 60 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,199 likes - 60 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,11 +16,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T2mzbF9W6j.md) - [plain]
 | 6 | [Stargazing](https://open.spotify.com/track/3Vr3zh0r7ALn8VLqCiRR10) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Stargazing](https://open.spotify.com/album/3VNxRarx9HUI5w7DHv0TBj) | 2:52 |
 | 7 | [Flowers In The Water](https://open.spotify.com/track/1czfrD4LSjHFYHuYkzkrJK) | [Nathan Evans](https://open.spotify.com/artist/1PKErrAhYFdfrDymGHRQRo) | [Flowers In The Water](https://open.spotify.com/album/6fOhPdyTl3T58HFWEXeqmw) | 2:22 |
 | 8 | [I Don't Wanna Wait](https://open.spotify.com/track/331l3xABO0HMr1Kkyh2LZq) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [I Don't Wanna Wait](https://open.spotify.com/album/0wCLHkBRKcndhMQQpeo8Ji) | 2:29 |
-| 9 | [Espresso](https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Espresso](https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4) | 2:55 |
+| 9 | [Apple](https://open.spotify.com/track/19RybK6XDbAVpcdxSbZL1o) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 2:31 |
 | 10 | [Stars Will Align](https://open.spotify.com/track/5REMa10O4aA2mLtYyflWxs) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Stars Will Align](https://open.spotify.com/album/5q923PscX4aJaonXBWTDcj) | 3:54 |
 | 11 | [Child](https://open.spotify.com/track/67r0i04P2mbsjog2G7ovLv) | [Henry And The Waiter](https://open.spotify.com/artist/1m4KDTCtGzbN9Q09g7uXwn) | [Child](https://open.spotify.com/album/6ptDIlzQych7XzDsuIZBQM) | 3:26 |
-| 12 | [Apple](https://open.spotify.com/track/19RybK6XDbAVpcdxSbZL1o) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 2:31 |
-| 13 | [i like the way you kiss me](https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [i like the way you kiss me](https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z) | 2:22 |
+| 12 | [i like the way you kiss me](https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [i like the way you kiss me](https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z) | 2:22 |
+| 13 | [Espresso](https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Espresso](https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4) | 2:55 |
 | 14 | [It's ok I'm ok](https://open.spotify.com/track/24XihnoVPWXlKJ4BgXqjVM) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [It's ok I'm ok](https://open.spotify.com/album/5qfivA7g2aAhAIPnSb0csp) | 2:36 |
 | 15 | [Dancing In The Flames](https://open.spotify.com/track/7z7kvUQGwlC6iOl7vMuAr9) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dancing In The Flames](https://open.spotify.com/album/5XsZ5ZTcIHnZxjynaGxA0g) | 3:40 |
 | 16 | [The Door](https://open.spotify.com/track/3dj4wgM3cPeuLwMNHDuBon) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1\)](https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB) | 3:32 |
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T2mzbF9W6j.md) - [plain]
 | 27 | [Mezzo Rotto \(feat\. BigMama\)](https://open.spotify.com/track/0cDq1fpfr9NNFNAKQXLLK7) | [Alessandra Amoroso](https://open.spotify.com/artist/2pjb5ffSoVTr5lRYQXlnPu), [BigMama](https://open.spotify.com/artist/5A0upF7YOXwWW0R5EuahcF) | [Mezzo Rotto \(feat\. BigMama\)](https://open.spotify.com/album/4g3qTNaYtKUPWKrdQunnSd) | 3:15 |
 | 28 | [Illusion](https://open.spotify.com/track/59xD5osEFsaNt5PXfIKUnX) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Illusion](https://open.spotify.com/album/68mwSgiHv3JF9nrw9feMrt) | 3:08 |
 | 29 | [Up All Night \(with The Lumineers & Noah Kahan\)](https://open.spotify.com/track/4fZ07aBMo69QTEKo4OC4Dz) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD), [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg), [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Up All Night](https://open.spotify.com/album/1HHb15TOhnSn5m8UDheP3s) | 3:23 |
-| 30 | [Eyes Closed](https://open.spotify.com/track/4o120XeV8els1S5bu7mzBX) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Eyes Closed](https://open.spotify.com/album/4p78uCfiL8gmt2AKrlWATG) | 3:20 |
-| 31 | [Criminals](https://open.spotify.com/track/1gMFAi2auKTgHsYH7nIBhv) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Timeless \- Deluxe](https://open.spotify.com/album/7mePeoRszpMqgvTAc9uRY0) | 2:34 |
+| 30 | [Criminals](https://open.spotify.com/track/1gMFAi2auKTgHsYH7nIBhv) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Timeless \- Deluxe](https://open.spotify.com/album/7mePeoRszpMqgvTAc9uRY0) | 2:34 |
+| 31 | [Eyes Closed](https://open.spotify.com/track/4o120XeV8els1S5bu7mzBX) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Eyes Closed](https://open.spotify.com/album/4p78uCfiL8gmt2AKrlWATG) | 3:20 |
 | 32 | [In My Bones](https://open.spotify.com/track/1dcK8O2qEq7E34o4ImQEco) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [In My Bones](https://open.spotify.com/album/1KIJzQIjSlJaSQZ9qLf1kB) | 2:36 |
 | 33 | [Roots](https://open.spotify.com/track/6DBpDTvXhBbcfpOa1QrVYo) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Roots](https://open.spotify.com/album/6ixzEr9VQzaLTCHOKZHdA2) | 2:43 |
 | 34 | [15 MINUTES](https://open.spotify.com/track/2Dazu1HgFj1geJOfKKFOpf) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [15 MINUTES](https://open.spotify.com/album/4OFZVvqlg84Czl7td7XddK) | 3:09 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T2mzbF9W6j.md) - [plain]
 | 40 | [Cały czas](https://open.spotify.com/track/0QJOCY8XN0CpmLtIdQLRGK) | [Oskar Cyms](https://open.spotify.com/artist/2fcIazWMq5XONzkuCwSSEr) | [Cały czas](https://open.spotify.com/album/76PJvmUn6i4tMeBUqFBHJ8) | 2:48 |
 | 41 | [High](https://open.spotify.com/track/30cTrVY28P6ufiRk84k3Ut) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [High](https://open.spotify.com/album/17dK6MH8raVzec5UJnA5PI) | 3:16 |
 | 42 | [POMALUJ MÓJ ŚWIAT](https://open.spotify.com/track/5AOkd7BJEmVj3pxRhW072C) | [Kizo](https://open.spotify.com/artist/2IHoZ3RrDJIikMRsYgHjhy), [Bletka](https://open.spotify.com/artist/4QYitR7yrCaf5CLQ09hX1m), [BeMelo](https://open.spotify.com/artist/58n40EtcUlarXICnPb9ohx) | [POMALUJ MÓJ ŚWIAT](https://open.spotify.com/album/6rmMDwIEyRMHsfx1x9SwV6) | 3:08 |
-| 43 | [angel](https://open.spotify.com/track/4nZPGie71nH77fbcNJnx0w) | [Camylio](https://open.spotify.com/artist/2Mf6MBoMOgpxxm3QuH9Tk4) | [in the light and shadows](https://open.spotify.com/album/4ovbdT33akJwJUqKCzDK2l) | 2:54 |
-| 44 | [Sour](https://open.spotify.com/track/3qWLYGfwSRXa9xlITX1tpK) | [Kaeyra](https://open.spotify.com/artist/3LRqB4U9moDI5yO6e4NrEG) | [Sour](https://open.spotify.com/album/0lRYoRu4ju9sHMvBFK7D8c) | 3:07 |
+| 43 | [Sour](https://open.spotify.com/track/3qWLYGfwSRXa9xlITX1tpK) | [Kaeyra](https://open.spotify.com/artist/3LRqB4U9moDI5yO6e4NrEG) | [Sour](https://open.spotify.com/album/0lRYoRu4ju9sHMvBFK7D8c) | 3:07 |
+| 44 | [angel](https://open.spotify.com/track/4nZPGie71nH77fbcNJnx0w) | [Camylio](https://open.spotify.com/artist/2Mf6MBoMOgpxxm3QuH9Tk4) | [in the light and shadows](https://open.spotify.com/album/4ovbdT33akJwJUqKCzDK2l) | 2:54 |
 | 45 | [Higher](https://open.spotify.com/track/3ST1g55sl9NDYOw5BwtaqT) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Higher](https://open.spotify.com/album/3b8s7uA0RjzJlP3WfIpdsa) | 3:21 |
 | 46 | [Co ja robię tu](https://open.spotify.com/track/1SaUfQNBUXlf6clnOKBrfe) | [Lanberry](https://open.spotify.com/artist/2t3aJxThQrMWaNJgqjMcU8) | [Co ja robię tu](https://open.spotify.com/album/1T6p40fWQ3abElX4iU2xol) | 2:37 |
 | 47 | [Highland Girl](https://open.spotify.com/track/0gNE5SN9JNarhCpZBiHL9q) | [Nathan Evans](https://open.spotify.com/artist/1PKErrAhYFdfrDymGHRQRo) | [Highland Girl](https://open.spotify.com/album/2cwA7Q8oyybnd2r6JbkKm7) | 2:56 |
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T2mzbF9W6j.md) - [plain]
 | 56 | [Somewhere Close To Heaven](https://open.spotify.com/track/00CohVTIAro42OEyH1crVW) | [Rea Garvey](https://open.spotify.com/artist/0bmxU94V20pNJ2Vie9kFYv), [Picture This](https://open.spotify.com/artist/7jLSEPYCYQ5ssWU3BICqrW) | [Somewhere Close To Heaven](https://open.spotify.com/album/1Y5NGmwUJgLZEIgpwHaeug) | 2:22 |
 | 57 | [Somebody Else But Me](https://open.spotify.com/track/52sscicigpGQsQLp3iuKRY) | [Francis On My Mind](https://open.spotify.com/artist/6GdAYfQVlByh3CUmlMsswc) | [Somebody Else But Me](https://open.spotify.com/album/4a02x4jjFQOr9B9DxocEoH) | 3:30 |
 | 58 | [Nie ma Cię tu](https://open.spotify.com/track/7gNGlEQQQQMlBILu3BhRuA) | [Marta Bijan](https://open.spotify.com/artist/6H38O4b9x7V56MfLOpfNZt) | [Nie ma Cię tu](https://open.spotify.com/album/2DXY3yPf7YoSEglJBJ6xO1) | 2:29 |
-| 59 | [Nasze lato](https://open.spotify.com/track/5F0ljs66WoL6VGL8vtcYlz) | [Aria Martelle](https://open.spotify.com/artist/4eD0JcSnBvEtyvY3QF2U0K) | [Nasze lato](https://open.spotify.com/album/0ZZVov08lHKPGzGqGFUeYu) | 2:19 |
-| 60 | [Nie musisz się bać](https://open.spotify.com/track/09fqIgOZRn3ZbwbQB2r2u2) | [Oskar Cyms](https://open.spotify.com/artist/2fcIazWMq5XONzkuCwSSEr) | [Nie musisz się bać](https://open.spotify.com/album/0MHl2tY6jrbEbssuR7nxdM) | 2:25 |
+| 59 | [Nie musisz się bać](https://open.spotify.com/track/09fqIgOZRn3ZbwbQB2r2u2) | [Oskar Cyms](https://open.spotify.com/artist/2fcIazWMq5XONzkuCwSSEr) | [Nie musisz się bać](https://open.spotify.com/album/0MHl2tY6jrbEbssuR7nxdM) | 2:25 |
+| 60 | [Nasze lato](https://open.spotify.com/track/5F0ljs66WoL6VGL8vtcYlz) | [Aria Martelle](https://open.spotify.com/artist/4eD0JcSnBvEtyvY3QF2U0K) | [Nasze lato](https://open.spotify.com/album/0ZZVov08lHKPGzGqGFUeYu) | 2:19 |
 
 Snapshot ID: `ZvaPWgAAAABaNp6j7qxyuoRN70MNr7Oy`

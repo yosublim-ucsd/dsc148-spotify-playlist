@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-29",
-  "description": "This is Christina Aguilera. The essential tracks, all in one playlist.",
+  "description": "This is Christina Aguilera. Todos os maiores hits em uma s\u00f3 playlist.",
   "name": "This Is Christina Aguilera",
   "tracks": [
     {
@@ -248,7 +248,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-07",
       "duration_ms": 163280,
       "name": "El Mejor Guerrero - De \"Mul\u00e1n\"",
       "url": "https://open.spotify.com/track/3HPX9a7oh0dvdokOUp85cL"
@@ -909,6 +909,24 @@
     },
     {
       "album": {
+        "name": "The 25th Anniversary of Christina Aguilera | Spotify Anniversaries LIVE",
+        "url": "https://open.spotify.com/album/72220mUyaNDhUhz5oIk5yo"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "date_added": "2024-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159000,
+      "name": "Reflection - Live - Spotify Anniversaries Version",
+      "url": "https://open.spotify.com/track/5xhjz2n0e7KYAb9sVdl9Pz"
+    },
+    {
+      "album": {
         "name": "Mulan (Original Soundtrack)",
         "url": "https://open.spotify.com/album/3Ohs7Jo6GM6mydUOL0m5aC"
       },
@@ -920,7 +938,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-07",
       "duration_ms": 216333,
       "name": "Reflection - Pop Version",
       "url": "https://open.spotify.com/track/1haQRuZnoggW6U6l5jFIj9"
@@ -1212,7 +1230,7 @@
       ],
       "date_added": "2023-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-06",
+      "date_removed": null,
       "duration_ms": 246146,
       "name": "Tell Me (feat. Christina Aguilera)",
       "url": "https://open.spotify.com/track/7aRNccA1RsVl7lD7steC5N"

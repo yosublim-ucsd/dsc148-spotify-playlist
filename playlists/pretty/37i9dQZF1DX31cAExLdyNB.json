@@ -1,6 +1,6 @@
 {
   "description": "La orilla donde el indie se fusiona con la electr\u00f3nica.",
-  "num_followers": 69145,
+  "num_followers": 69149,
   "original_name": "Onda Indietr\u00f3nica",
   "owner": {
     "name": "Spotify",
@@ -159,22 +159,18 @@
     {
       "added_at": "2024-06-28 21:13:36",
       "album": {
-        "name": "405 - Metronomy x Biig Piig",
-        "url": "https://open.spotify.com/album/2GJgVsNLu7RkTe6HoXvzEi"
+        "name": "Origami",
+        "url": "https://open.spotify.com/album/4EkS7qZRqAHYPJSVIrxPbA"
       },
       "artists": [
         {
-          "name": "Metronomy",
-          "url": "https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX"
-        },
-        {
-          "name": "Biig Piig",
-          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
+          "name": "Bleu Toucan",
+          "url": "https://open.spotify.com/artist/3lv9GfkVw9I9X4Rgtf2o4r"
         }
       ],
-      "duration_ms": 265505,
-      "name": "405 - Metronomy x Biig Piig",
-      "url": "https://open.spotify.com/track/1KjLbuPsJmYdZJt0CsyVAg"
+      "duration_ms": 194082,
+      "name": "Hano\u00ef caf\u00e9",
+      "url": "https://open.spotify.com/track/2I4AhSWdVku2SQsJXiIci6"
     },
     {
       "added_at": "2024-06-28 21:13:36",
@@ -195,18 +191,22 @@
     {
       "added_at": "2024-06-28 21:13:36",
       "album": {
-        "name": "Origami",
-        "url": "https://open.spotify.com/album/4EkS7qZRqAHYPJSVIrxPbA"
+        "name": "405 - Metronomy x Biig Piig",
+        "url": "https://open.spotify.com/album/2GJgVsNLu7RkTe6HoXvzEi"
       },
       "artists": [
         {
-          "name": "Bleu Toucan",
-          "url": "https://open.spotify.com/artist/3lv9GfkVw9I9X4Rgtf2o4r"
+          "name": "Metronomy",
+          "url": "https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX"
+        },
+        {
+          "name": "Biig Piig",
+          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
         }
       ],
-      "duration_ms": 194082,
-      "name": "Hano\u00ef caf\u00e9",
-      "url": "https://open.spotify.com/track/2I4AhSWdVku2SQsJXiIci6"
+      "duration_ms": 265505,
+      "name": "405 - Metronomy x Biig Piig",
+      "url": "https://open.spotify.com/track/1KjLbuPsJmYdZJt0CsyVAg"
     },
     {
       "added_at": "2024-06-28 21:13:36",
@@ -387,6 +387,30 @@
     {
       "added_at": "2024-06-28 21:13:36",
       "album": {
+        "name": "Vibe Like This (feat. Ty Dolla $ign & Lucky Daye)",
+        "url": "https://open.spotify.com/album/5m1gDbNlYsrXH42XLeDE05"
+      },
+      "artists": [
+        {
+          "name": "SG Lewis",
+          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        },
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        }
+      ],
+      "duration_ms": 227435,
+      "name": "Vibe Like This (feat. Ty Dolla $ign & Lucky Daye)",
+      "url": "https://open.spotify.com/track/3e4QIt4wVVqsCqMqKxOrZd"
+    },
+    {
+      "added_at": "2024-06-28 21:13:36",
+      "album": {
         "name": "Somewhere (feat. Gus Dapperton)",
         "url": "https://open.spotify.com/album/6QPRwYT6byImXj3adBh6wm"
       },
@@ -459,30 +483,6 @@
       "duration_ms": 191213,
       "name": "EME",
       "url": "https://open.spotify.com/track/5kksd5p7OOz8vF7NbDw7GE"
-    },
-    {
-      "added_at": "2024-06-28 21:13:36",
-      "album": {
-        "name": "Vibe Like This (feat. Ty Dolla $ign & Lucky Daye)",
-        "url": "https://open.spotify.com/album/5m1gDbNlYsrXH42XLeDE05"
-      },
-      "artists": [
-        {
-          "name": "SG Lewis",
-          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        },
-        {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
-        }
-      ],
-      "duration_ms": 227435,
-      "name": "Vibe Like This (feat. Ty Dolla $ign & Lucky Daye)",
-      "url": "https://open.spotify.com/track/3e4QIt4wVVqsCqMqKxOrZd"
     },
     {
       "added_at": "2024-06-28 21:13:36",
@@ -743,6 +743,22 @@
     {
       "added_at": "2024-06-28 21:13:36",
       "album": {
+        "name": "Los Caymanes (Para Olvidar)",
+        "url": "https://open.spotify.com/album/4RYVw8Xc7gvIEqpjSuX0Ng"
+      },
+      "artists": [
+        {
+          "name": "Tropicana Club",
+          "url": "https://open.spotify.com/artist/3yZt4h8ao4zS5aJdo4ZSAn"
+        }
+      ],
+      "duration_ms": 205714,
+      "name": "Los Caymanes (Para Olvidar)",
+      "url": "https://open.spotify.com/track/3FYl4aKqX7a6CslBDE6Tau"
+    },
+    {
+      "added_at": "2024-06-28 21:13:36",
+      "album": {
         "name": "THREE STRIKES (feat. Khalid)",
         "url": "https://open.spotify.com/album/62rnq2H2kSqfAWSOic6X6f"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 274576,
       "name": "Los Buenos Tiempos",
       "url": "https://open.spotify.com/track/6mSzSTjVWDsXEsUuCEqKWF"
-    },
-    {
-      "added_at": "2024-06-28 21:13:36",
-      "album": {
-        "name": "Los Caymanes (Para Olvidar)",
-        "url": "https://open.spotify.com/album/4RYVw8Xc7gvIEqpjSuX0Ng"
-      },
-      "artists": [
-        {
-          "name": "Tropicana Club",
-          "url": "https://open.spotify.com/artist/3yZt4h8ao4zS5aJdo4ZSAn"
-        }
-      ],
-      "duration_ms": 205714,
-      "name": "Los Caymanes (Para Olvidar)",
-      "url": "https://open.spotify.com/track/3FYl4aKqX7a6CslBDE6Tau"
     },
     {
       "added_at": "2024-06-28 21:13:36",
@@ -959,6 +959,22 @@
     {
       "added_at": "2024-06-28 21:13:36",
       "album": {
+        "name": "The English Riviera",
+        "url": "https://open.spotify.com/album/5yJS8oNKYDsDAy06z4QCIi"
+      },
+      "artists": [
+        {
+          "name": "Metronomy",
+          "url": "https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX"
+        }
+      ],
+      "duration_ms": 277653,
+      "name": "The Look",
+      "url": "https://open.spotify.com/track/27GHlIbddzX5qDalREVoDR"
+    },
+    {
+      "added_at": "2024-06-28 21:13:36",
+      "album": {
         "name": "Temporal",
         "url": "https://open.spotify.com/album/57fdApG6bFRgvE2b5nZbh8"
       },
@@ -971,6 +987,26 @@
       "duration_ms": 176120,
       "name": "Temporal",
       "url": "https://open.spotify.com/track/7kfc7aJkA3yh5OdrN45nfd"
+    },
+    {
+      "added_at": "2024-06-28 21:13:36",
+      "album": {
+        "name": "Nunca Nunca",
+        "url": "https://open.spotify.com/album/6p7mLTPzEfaCvFTQXI5EL6"
+      },
+      "artists": [
+        {
+          "name": "La M\u00e1quina Camale\u00f3n",
+          "url": "https://open.spotify.com/artist/6NIyDDyPBRTyPZ6ggjE8Rj"
+        },
+        {
+          "name": "Neoma",
+          "url": "https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip"
+        }
+      ],
+      "duration_ms": 171133,
+      "name": "Nunca Nunca",
+      "url": "https://open.spotify.com/track/01RidTuR638AM20oXDqD1u"
     },
     {
       "added_at": "2024-06-28 21:13:36",
@@ -1023,26 +1059,6 @@
     {
       "added_at": "2024-06-28 21:13:36",
       "album": {
-        "name": "Nunca Nunca",
-        "url": "https://open.spotify.com/album/6p7mLTPzEfaCvFTQXI5EL6"
-      },
-      "artists": [
-        {
-          "name": "La M\u00e1quina Camale\u00f3n",
-          "url": "https://open.spotify.com/artist/6NIyDDyPBRTyPZ6ggjE8Rj"
-        },
-        {
-          "name": "Neoma",
-          "url": "https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip"
-        }
-      ],
-      "duration_ms": 171133,
-      "name": "Nunca Nunca",
-      "url": "https://open.spotify.com/track/01RidTuR638AM20oXDqD1u"
-    },
-    {
-      "added_at": "2024-06-28 21:13:36",
-      "album": {
         "name": "Bonafide (feat. Chiiild)",
         "url": "https://open.spotify.com/album/03Zv5MqL3Gj3FjcMtQ69Hd"
       },
@@ -1059,22 +1075,6 @@
       "duration_ms": 177409,
       "name": "Bonafide (feat. Chiiild)",
       "url": "https://open.spotify.com/track/5AHSYSrni7xVCzlanStMRf"
-    },
-    {
-      "added_at": "2024-06-28 21:13:36",
-      "album": {
-        "name": "The English Riviera",
-        "url": "https://open.spotify.com/album/5yJS8oNKYDsDAy06z4QCIi"
-      },
-      "artists": [
-        {
-          "name": "Metronomy",
-          "url": "https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX"
-        }
-      ],
-      "duration_ms": 277653,
-      "name": "The Look",
-      "url": "https://open.spotify.com/track/27GHlIbddzX5qDalREVoDR"
     },
     {
       "added_at": "2024-06-28 21:13:36",
@@ -1187,6 +1187,22 @@
     {
       "added_at": "2024-06-28 21:13:36",
       "album": {
+        "name": "Strangers",
+        "url": "https://open.spotify.com/album/5fKWSlweaDx1wZwTE00bit"
+      },
+      "artists": [
+        {
+          "name": "Roosevelt",
+          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
+        }
+      ],
+      "duration_ms": 220726,
+      "name": "Strangers",
+      "url": "https://open.spotify.com/track/3OG1FcdabAqljk4irWH3Uu"
+    },
+    {
+      "added_at": "2024-06-28 21:13:36",
+      "album": {
         "name": "Ed\u00e9n",
         "url": "https://open.spotify.com/album/6C3AAFYwOUqOHA8HNmizA9"
       },
@@ -1215,22 +1231,6 @@
       "duration_ms": 202177,
       "name": "Tears at Bae",
       "url": "https://open.spotify.com/track/3WPFFAjIYYGnfRkjO29lqQ"
-    },
-    {
-      "added_at": "2024-06-28 21:13:36",
-      "album": {
-        "name": "Strangers",
-        "url": "https://open.spotify.com/album/5fKWSlweaDx1wZwTE00bit"
-      },
-      "artists": [
-        {
-          "name": "Roosevelt",
-          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
-        }
-      ],
-      "duration_ms": 220726,
-      "name": "Strangers",
-      "url": "https://open.spotify.com/track/3OG1FcdabAqljk4irWH3Uu"
     }
   ],
   "unique_name": "Onda Indietr\u00f3nica",

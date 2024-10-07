@@ -2036,7 +2036,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-06",
+      "date_removed": null,
       "duration_ms": 145518,
       "name": "El Bato Gacho",
       "url": "https://open.spotify.com/track/4zFxX8QAOcoqkCm9QWT7cq"
@@ -4238,7 +4238,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-07",
       "duration_ms": 186750,
       "name": "Me Voy",
       "url": "https://open.spotify.com/track/3SiScfgPP9I494Fbi5YFmf"
@@ -5180,7 +5180,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-07",
       "duration_ms": 278666,
       "name": "No Te Fui Suficiente",
       "url": "https://open.spotify.com/track/2L4keb30QHo4pQzOpJ1W06"
@@ -6516,6 +6516,24 @@
       "duration_ms": 221554,
       "name": "Qu\u00e9 Tanto Es Tantito?",
       "url": "https://open.spotify.com/track/3XhWQiIm58FolG13hJyzVE"
+    },
+    {
+      "album": {
+        "name": "Qu\u00e9 Voy A Hacer Con Mi Amor",
+        "url": "https://open.spotify.com/album/6ibKPev9z3tn9kh1ABkoVS"
+      },
+      "artists": [
+        {
+          "name": "Grace Guill\u00e9n",
+          "url": "https://open.spotify.com/artist/04K92Tg6ryvoyNj1Xju6rD"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194533,
+      "name": "Qu\u00e9 Voy A Hacer Con Mi Amor",
+      "url": "https://open.spotify.com/track/1SuDjTa8EZCOIazQQgvRP5"
     },
     {
       "album": {

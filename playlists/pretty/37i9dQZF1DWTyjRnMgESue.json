@@ -1,6 +1,6 @@
 {
   "description": "The best new songs from modern singer-songwriters. Cover: Wild Rivers",
-  "num_followers": 80160,
+  "num_followers": 80178,
   "original_name": "Today's Singer-Songwriters",
   "owner": {
     "name": "Spotify",
@@ -303,22 +303,18 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "Zach Bryan",
-        "url": "https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf"
+        "name": "THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY",
+        "url": "https://open.spotify.com/album/5H7ixXZfsNMGbIE5OBSpcb"
       },
       "artists": [
         {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        },
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 169467,
-      "name": "Spotless (feat. The Lumineers)",
-      "url": "https://open.spotify.com/track/0HEytGQM3bG1vKxER7IgVK"
+      "duration_ms": 243875,
+      "name": "I Hate It Here",
+      "url": "https://open.spotify.com/track/3hlGuz3loYoLfI3bpwieWq"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -339,22 +335,6 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY",
-        "url": "https://open.spotify.com/album/5H7ixXZfsNMGbIE5OBSpcb"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 243875,
-      "name": "I Hate It Here",
-      "url": "https://open.spotify.com/track/3hlGuz3loYoLfI3bpwieWq"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
         "name": "Black Friday",
         "url": "https://open.spotify.com/album/0BdmqjXLz0L6gF78ldUYHp"
       },
@@ -367,6 +347,26 @@
       "duration_ms": 221510,
       "name": "Black Friday",
       "url": "https://open.spotify.com/track/1XTY6rA7XQosc0ynkkE9kN"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "Zach Bryan",
+        "url": "https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "duration_ms": 169467,
+      "name": "Spotless (feat. The Lumineers)",
+      "url": "https://open.spotify.com/track/0HEytGQM3bG1vKxER7IgVK"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -507,6 +507,26 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
+        "name": "Call Your Mom (with Lizzy McAlpine)",
+        "url": "https://open.spotify.com/album/2b2RIvl7kxH6XQ0A8Yejku"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        },
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 278670,
+      "name": "Call Your Mom (with Lizzy McAlpine)",
+      "url": "https://open.spotify.com/track/3fKpSA5w8iqLe9sNdIDESW"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
         "name": "Older",
         "url": "https://open.spotify.com/album/30fIbIvd1AN04FrBt12KhM"
       },
@@ -559,42 +579,6 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "Call Your Mom (with Lizzy McAlpine)",
-        "url": "https://open.spotify.com/album/2b2RIvl7kxH6XQ0A8Yejku"
-      },
-      "artists": [
-        {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        },
-        {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        }
-      ],
-      "duration_ms": 278670,
-      "name": "Call Your Mom (with Lizzy McAlpine)",
-      "url": "https://open.spotify.com/track/3fKpSA5w8iqLe9sNdIDESW"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
-        "name": "Bones Shake",
-        "url": "https://open.spotify.com/album/4b4XkDZLCOUqD3gXZ3y2Yk"
-      },
-      "artists": [
-        {
-          "name": "Hazlett",
-          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
-        }
-      ],
-      "duration_ms": 226011,
-      "name": "Bones Shake",
-      "url": "https://open.spotify.com/track/2TX0eN7jdjQiGx7NHSax7l"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
         "name": "Autumn Variations",
         "url": "https://open.spotify.com/album/5LXOgcszGvUkYzYL4v6wYg"
       },
@@ -611,18 +595,18 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "Older",
-        "url": "https://open.spotify.com/album/30fIbIvd1AN04FrBt12KhM"
+        "name": "Bones Shake",
+        "url": "https://open.spotify.com/album/4b4XkDZLCOUqD3gXZ3y2Yk"
       },
       "artists": [
         {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+          "name": "Hazlett",
+          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
         }
       ],
-      "duration_ms": 245720,
-      "name": "Drunk, Running",
-      "url": "https://open.spotify.com/track/0OQFriWHtnIzsRp3uImlGt"
+      "duration_ms": 226011,
+      "name": "Bones Shake",
+      "url": "https://open.spotify.com/track/2TX0eN7jdjQiGx7NHSax7l"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -675,18 +659,18 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "Skin",
-        "url": "https://open.spotify.com/album/7wrLNCRVTujZouG9qSUrry"
+        "name": "Older",
+        "url": "https://open.spotify.com/album/30fIbIvd1AN04FrBt12KhM"
       },
       "artists": [
         {
-          "name": "Hans Williams",
-          "url": "https://open.spotify.com/artist/3SEkDN2vusR7CIyehzfJaj"
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
         }
       ],
-      "duration_ms": 224371,
-      "name": "Skin",
-      "url": "https://open.spotify.com/track/4uqfL7UKwWPF1bpZok6zGs"
+      "duration_ms": 245720,
+      "name": "Drunk, Running",
+      "url": "https://open.spotify.com/track/0OQFriWHtnIzsRp3uImlGt"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -707,6 +691,22 @@
       "duration_ms": 194869,
       "name": "You Could Start A Cult (with Lizzy McAlpine)",
       "url": "https://open.spotify.com/track/45PRcjOnvjz6VMl7tI3O3c"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "Skin",
+        "url": "https://open.spotify.com/album/7wrLNCRVTujZouG9qSUrry"
+      },
+      "artists": [
+        {
+          "name": "Hans Williams",
+          "url": "https://open.spotify.com/artist/3SEkDN2vusR7CIyehzfJaj"
+        }
+      ],
+      "duration_ms": 224371,
+      "name": "Skin",
+      "url": "https://open.spotify.com/track/4uqfL7UKwWPF1bpZok6zGs"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -887,22 +887,6 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "Southern Star",
-        "url": "https://open.spotify.com/album/3FZsjVIsJqoZ3gc7Bp3P24"
-      },
-      "artists": [
-        {
-          "name": "Leif Vollebekk",
-          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
-        }
-      ],
-      "duration_ms": 305306,
-      "name": "Southern Star",
-      "url": "https://open.spotify.com/track/6KoHiQmj10mI4V9Xu7CMRN"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
         "name": "24",
         "url": "https://open.spotify.com/album/547AToKcvgV26kOjsuvUhR"
       },
@@ -919,6 +903,22 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
+        "name": "Southern Star",
+        "url": "https://open.spotify.com/album/3FZsjVIsJqoZ3gc7Bp3P24"
+      },
+      "artists": [
+        {
+          "name": "Leif Vollebekk",
+          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
+        }
+      ],
+      "duration_ms": 305306,
+      "name": "Southern Star",
+      "url": "https://open.spotify.com/track/6KoHiQmj10mI4V9Xu7CMRN"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
         "name": "Timeline",
         "url": "https://open.spotify.com/album/2SRvaltkNT8jvQ2NW8J8OZ"
       },
@@ -931,6 +931,26 @@
       "duration_ms": 332585,
       "name": "Timeline",
       "url": "https://open.spotify.com/track/3T9QstFb2oeBo4QoMVMKKx"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "Fighting For - Hailey Whitters Version",
+        "url": "https://open.spotify.com/album/3XxQ7lcSFWrMVY6uAr63F6"
+      },
+      "artists": [
+        {
+          "name": "Evan Honer",
+          "url": "https://open.spotify.com/artist/1GERDglQrxe4ynLzcdG6qP"
+        },
+        {
+          "name": "Hailey Whitters",
+          "url": "https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I"
+        }
+      ],
+      "duration_ms": 249523,
+      "name": "Fighting For - (Hailey Whitters Version)",
+      "url": "https://open.spotify.com/track/1uvS8i3QrasR8WKgXqpNiP"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -971,26 +991,6 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "Fighting For - Hailey Whitters Version",
-        "url": "https://open.spotify.com/album/3XxQ7lcSFWrMVY6uAr63F6"
-      },
-      "artists": [
-        {
-          "name": "Evan Honer",
-          "url": "https://open.spotify.com/artist/1GERDglQrxe4ynLzcdG6qP"
-        },
-        {
-          "name": "Hailey Whitters",
-          "url": "https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I"
-        }
-      ],
-      "duration_ms": 249523,
-      "name": "Fighting For - (Hailey Whitters Version)",
-      "url": "https://open.spotify.com/track/1uvS8i3QrasR8WKgXqpNiP"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
         "name": "Simple Like 17 (Deluxe)",
         "url": "https://open.spotify.com/album/4mSakdxl4oMzEMWeUxr37a"
       },
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "Gasoline",
-        "url": "https://open.spotify.com/album/2ap20TnfZUSbmas2IYCB7e"
-      },
-      "artists": [
-        {
-          "name": "Lily Meola",
-          "url": "https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6"
-        }
-      ],
-      "duration_ms": 154340,
-      "name": "Gasoline",
-      "url": "https://open.spotify.com/track/4SpRlGOIkzx9bLfxl40wae"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
         "name": "Sadness As A Gift",
         "url": "https://open.spotify.com/album/38DuzlEMGxWPcE3PXEHKhD"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 259015,
       "name": "Sadness As A Gift",
       "url": "https://open.spotify.com/track/6oBIzNjrQ7ibErxk1ZbdfA"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "Gasoline",
+        "url": "https://open.spotify.com/album/2ap20TnfZUSbmas2IYCB7e"
+      },
+      "artists": [
+        {
+          "name": "Lily Meola",
+          "url": "https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6"
+        }
+      ],
+      "duration_ms": 154340,
+      "name": "Gasoline",
+      "url": "https://open.spotify.com/track/4SpRlGOIkzx9bLfxl40wae"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "Water's Here In You",
-        "url": "https://open.spotify.com/album/3aM1dE1P2ikP9ERa1hmtri"
-      },
-      "artists": [
-        {
-          "name": "Babehoven",
-          "url": "https://open.spotify.com/artist/3Yjr5lVbAr2Fe7Lmpwja70"
-        }
-      ],
-      "duration_ms": 151573,
-      "name": "Birdseye",
-      "url": "https://open.spotify.com/track/5g7Ppc6qpnkRpF5CMSpxn8"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
         "name": "The Past Is Still Alive",
         "url": "https://open.spotify.com/album/4Lwy5hFH1NTDb6kQZ5pTSy"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 222341,
       "name": "Hawkmoon",
       "url": "https://open.spotify.com/track/5KwvjABtVbrDGBamRoyos2"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "Water's Here In You",
+        "url": "https://open.spotify.com/album/3aM1dE1P2ikP9ERa1hmtri"
+      },
+      "artists": [
+        {
+          "name": "Babehoven",
+          "url": "https://open.spotify.com/artist/3Yjr5lVbAr2Fe7Lmpwja70"
+        }
+      ],
+      "duration_ms": 151573,
+      "name": "Birdseye",
+      "url": "https://open.spotify.com/track/5g7Ppc6qpnkRpF5CMSpxn8"
     },
     {
       "added_at": "2024-09-06 04:00:00",

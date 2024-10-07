@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFCFzZm4jFXF.md) - [plain]
 | 48 | [Need You Now \- From "A Million Little Things: Season 2"](https://open.spotify.com/track/2L7NVGbpaotvB6fR3JcslU) | [Anna Akana](https://open.spotify.com/artist/0YSxCnmIwDDphTykhROUWe) | [Need You Now \(From "A Million Little Things: Season 2"\)](https://open.spotify.com/album/5y8zj5nXNRADYpEQyWMbbV) | 3:29 |
 | 49 | [Crossfire \(feat\. SMBDY\)](https://open.spotify.com/track/5cD20nkndQ7iRkoidzZCpc) | [Breathe Carolina](https://open.spotify.com/artist/53M4Iv2RkzzxFFvW2B1jhC), [SMBDY](https://open.spotify.com/artist/3EVIvUOdQq6byU8fIljO2e) | [Crossfire \(feat\. SMBDY\)](https://open.spotify.com/album/3eaRXUyq7GADlgdkST47de) | 3:36 |
 | 50 | [Slaves](https://open.spotify.com/track/481A3z4zAE8Oj2GO5onvvW) | [Tom Martin](https://open.spotify.com/artist/4P0KP5wunIHTElWsbeCow2) | [Slaves](https://open.spotify.com/album/4ShraflxQL4i5T7RvBKIVh) | 3:22 |
-| 51 | [run and hide](https://open.spotify.com/track/4ykgVfodt4mnApqbgX3oTX) | [Ruben Pol](https://open.spotify.com/artist/1eCiBMynCZBUlq0v5FeB2w) | [Infused Romance](https://open.spotify.com/album/2tLQcTuBFmEfuQZAsyB4Yj) | 2:45 |
-| 52 | [Crazy Bitch](https://open.spotify.com/track/1ALb2cQBsy82S5kmBVkpxD) | [Madelline](https://open.spotify.com/artist/7t6dcfG1BhMh3LTAXhxmeL) | [Crazy Bitch](https://open.spotify.com/album/3nTpGSWw548JAYpwVJS4jZ) | 3:02 |
+| 51 | [Crazy Bitch](https://open.spotify.com/track/1ALb2cQBsy82S5kmBVkpxD) | [Madelline](https://open.spotify.com/artist/7t6dcfG1BhMh3LTAXhxmeL) | [Crazy Bitch](https://open.spotify.com/album/3nTpGSWw548JAYpwVJS4jZ) | 3:02 |
+| 52 | [run and hide](https://open.spotify.com/track/4ykgVfodt4mnApqbgX3oTX) | [Ruben Pol](https://open.spotify.com/artist/1eCiBMynCZBUlq0v5FeB2w) | [Infused Romance](https://open.spotify.com/album/2tLQcTuBFmEfuQZAsyB4Yj) | 2:45 |
 | 53 | [Twój](https://open.spotify.com/track/1KZkHbHds54V05FMXfR0Uf) | [Mateusz Golicki](https://open.spotify.com/artist/3ZIGVZeygg8uw2snhprtRO) | [Twój](https://open.spotify.com/album/50wxFePh1Gwc3whyx6jKdO) | 3:06 |
 | 54 | [Midnight](https://open.spotify.com/track/0QDXHAPzManj6nrpAaIDvq) | [Curtis Walsh](https://open.spotify.com/artist/1skYjCzZNmy9Zjk7mdFgeS) | [Midnight](https://open.spotify.com/album/6YC6iMp9rv2swytDsECKbX) | 3:13 |
 | 55 | [Strangers](https://open.spotify.com/track/3gvhr2lER4orcdXJD9uM9n) | [Rasmus Hagen](https://open.spotify.com/artist/2xE7TMnsr4hxdQW5F3urtq) | [Strangers](https://open.spotify.com/album/3NfgRNjjFzEK2yVk4hwuug) | 3:18 |
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFCFzZm4jFXF.md) - [plain]
 | 103 | [Pon Me](https://open.spotify.com/track/6gNgcVrZceb97UQFZbKPCk) | [Craig Cavanagh](https://open.spotify.com/artist/2GTElyWjXSbnFBsqhsG8U9) | [Green Eyed Soul](https://open.spotify.com/album/1kENbrG9QMSE4Hgt5jLyd1) | 4:15 |
 | 104 | [Find You](https://open.spotify.com/track/0wtNmuETEesYuB73ni1tZU) | [Craig Cavanagh](https://open.spotify.com/artist/2GTElyWjXSbnFBsqhsG8U9) | [Green Eyed Soul](https://open.spotify.com/album/1kENbrG9QMSE4Hgt5jLyd1) | 3:48 |
 
-Snapshot ID: `Abd/9AAAAAD4mhzcHWNT7szujZqQy7PD`
+Snapshot ID: `AbeFigAAAADgwik7UDzYlkPsnuGr0RZu`

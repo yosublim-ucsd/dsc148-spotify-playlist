@@ -423,6 +423,24 @@
     },
     {
       "album": {
+        "name": "Bunga Mawas",
+        "url": "https://open.spotify.com/album/58OsknBLelN6eMs7DIRcWQ"
+      },
+      "artists": [
+        {
+          "name": "Rigaskara",
+          "url": "https://open.spotify.com/artist/2cfQKHwOPRF2UyEiKLexPW"
+        }
+      ],
+      "date_added": "2024-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183463,
+      "name": "Bunga Mawas",
+      "url": "https://open.spotify.com/track/6W80U6x8yW8JoeOQysSuG1"
+    },
+    {
+      "album": {
         "name": "Burn",
         "url": "https://open.spotify.com/album/75YDVoGjHMD7r7OY5vJEIm"
       },

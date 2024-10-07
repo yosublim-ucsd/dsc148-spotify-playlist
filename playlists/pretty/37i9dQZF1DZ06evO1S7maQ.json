@@ -1,12 +1,12 @@
 {
   "description": "This is Bruce Springsteen. The essential tracks, all in one playlist.",
-  "num_followers": 629622,
+  "num_followers": 629658,
   "original_name": "This Is Bruce Springsteen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zv3egAAAAAAzFuduDUjy7To/5F1OyS4A",
+  "snapshot_id": "ZwCBgAAAAACx7gM/pkZj3lwK10LlLwbP",
   "tracks": [
     {
       "added_at": null,
@@ -335,8 +335,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Rising",
-        "url": "https://open.spotify.com/album/23vzCh5cDn0LzdGmGWrT1d"
+        "name": "Only the Strong Survive",
+        "url": "https://open.spotify.com/album/4XJaXh57G3rZtAzqeVZSfn"
       },
       "artists": [
         {
@@ -344,9 +344,9 @@
           "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
         }
       ],
-      "duration_ms": 287040,
-      "name": "The Rising",
-      "url": "https://open.spotify.com/track/2czBvzOv3TvnyoW7Ozo7fP"
+      "duration_ms": 296906,
+      "name": "Nightshift",
+      "url": "https://open.spotify.com/track/19nEbLE6eLXatpuMw3rdtM"
     },
     {
       "added_at": null,
@@ -367,8 +367,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Only the Strong Survive",
-        "url": "https://open.spotify.com/album/4XJaXh57G3rZtAzqeVZSfn"
+        "name": "The Rising",
+        "url": "https://open.spotify.com/album/23vzCh5cDn0LzdGmGWrT1d"
       },
       "artists": [
         {
@@ -376,9 +376,9 @@
           "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
         }
       ],
-      "duration_ms": 296906,
-      "name": "Nightshift",
-      "url": "https://open.spotify.com/track/19nEbLE6eLXatpuMw3rdtM"
+      "duration_ms": 287040,
+      "name": "The Rising",
+      "url": "https://open.spotify.com/track/2czBvzOv3TvnyoW7Ozo7fP"
     },
     {
       "added_at": null,
@@ -579,6 +579,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tunnel Of Love",
+        "url": "https://open.spotify.com/album/5Qcef60m4gcckV24PmPYVq"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 261826,
+      "name": "One Step Up",
+      "url": "https://open.spotify.com/track/3ICZte49haM8ID7H6LSSjb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Promise",
         "url": "https://open.spotify.com/album/7oR8aZ4ECropTmxPydooZ9"
       },
@@ -595,26 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "She Don't Love Me Now",
-        "url": "https://open.spotify.com/album/0UfnBL4bOIXKPsBGxeJNtn"
-      },
-      "artists": [
-        {
-          "name": "Jesse Malin",
-          "url": "https://open.spotify.com/artist/6zKkaqMGGmaKLUSLTcsrls"
-        },
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 207160,
-      "name": "She Don't Love Me Now",
-      "url": "https://open.spotify.com/track/74srY0SjUrZMyjIB6sPQ4R"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Letter To You",
         "url": "https://open.spotify.com/album/5devPxQnSKVF2Ed0CVwQZh"
       },
@@ -627,22 +623,6 @@
       "duration_ms": 209306,
       "name": "I'll See You In My Dreams",
       "url": "https://open.spotify.com/track/2uI2KlfpxGGVnLnpNWdhHS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tunnel Of Love",
-        "url": "https://open.spotify.com/album/5Qcef60m4gcckV24PmPYVq"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 261826,
-      "name": "One Step Up",
-      "url": "https://open.spotify.com/track/3ICZte49haM8ID7H6LSSjb"
     },
     {
       "added_at": null,
@@ -679,6 +659,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "She Don't Love Me Now",
+        "url": "https://open.spotify.com/album/0UfnBL4bOIXKPsBGxeJNtn"
+      },
+      "artists": [
+        {
+          "name": "Jesse Malin",
+          "url": "https://open.spotify.com/artist/6zKkaqMGGmaKLUSLTcsrls"
+        },
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 207160,
+      "name": "She Don't Love Me Now",
+      "url": "https://open.spotify.com/track/74srY0SjUrZMyjIB6sPQ4R"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Western Stars",
         "url": "https://open.spotify.com/album/6BhqPpIgY83rqoZ2L78Lte"
       },
@@ -711,6 +711,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Born To Run",
+        "url": "https://open.spotify.com/album/43YIoHKSrEw2GJsWmhZIpu"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 270266,
+      "name": "She's the One",
+      "url": "https://open.spotify.com/track/5St2IxnaIYOPflaomWB3Pz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The List",
         "url": "https://open.spotify.com/album/2ztJpdxupEltRgGuzihTJb"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 186226,
       "name": "Sea Of Heartbreak",
       "url": "https://open.spotify.com/track/7jOVz43pU3sGMbKdoSBeWU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Born To Run",
-        "url": "https://open.spotify.com/album/43YIoHKSrEw2GJsWmhZIpu"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 270266,
-      "name": "She's the One",
-      "url": "https://open.spotify.com/track/5St2IxnaIYOPflaomWB3Pz"
     },
     {
       "added_at": null,

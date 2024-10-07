@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://open.spotify.com/artist/2PIYZpNwZRt8BDALIFazZh?si=s0u7SNJXQQ-JKMPH3p8dSw\">Usain Bolt</a>",
-  "num_followers": 5671,
+  "num_followers": 5675,
   "original_name": "Usain Bolt's Taste",
   "owner": {
     "name": "Spotify",
@@ -175,6 +175,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "After Hours",
+        "url": "https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "duration_ms": 215626,
+      "name": "Save Your Tears",
+      "url": "https://open.spotify.com/track/5QO79kh1waicV47BqGRL3g"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "Made In Lagos",
         "url": "https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN"
       },
@@ -191,22 +207,6 @@
       "duration_ms": 248040,
       "name": "Essence (feat. Tems)",
       "url": "https://open.spotify.com/track/5FG7Tl93LdH117jEKYl3Cm"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "After Hours",
-        "url": "https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 215626,
-      "name": "Save Your Tears",
-      "url": "https://open.spotify.com/track/5QO79kh1waicV47BqGRL3g"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -231,6 +231,26 @@
       "duration_ms": 236524,
       "name": "EVERY CHANCE I GET (feat. Lil Baby & Lil Durk)",
       "url": "https://open.spotify.com/track/1EJIcDYXwSqipW5dFe4uJz"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Levitating (feat. DaBaby)",
+        "url": "https://open.spotify.com/album/04m06KhJUuwe1Q487puIud"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        }
+      ],
+      "duration_ms": 203064,
+      "name": "Levitating (feat. DaBaby)",
+      "url": "https://open.spotify.com/track/463CkQjx2Zk1yXoBuierM9"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -291,26 +311,6 @@
       "duration_ms": 195813,
       "name": "Party Animal",
       "url": "https://open.spotify.com/track/5vc9YsAEBWbRVvgKUcA5vs"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Levitating (feat. DaBaby)",
-        "url": "https://open.spotify.com/album/04m06KhJUuwe1Q487puIud"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        },
-        {
-          "name": "DaBaby",
-          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
-        }
-      ],
-      "duration_ms": 203064,
-      "name": "Levitating (feat. DaBaby)",
-      "url": "https://open.spotify.com/track/463CkQjx2Zk1yXoBuierM9"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -455,6 +455,26 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "POPSTAR (feat. Drake)",
+        "url": "https://open.spotify.com/album/5nNtpPsSUgb9Hlb3dF1gXa"
+      },
+      "artists": [
+        {
+          "name": "DJ Khaled",
+          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 200221,
+      "name": "POPSTAR (feat. Drake)",
+      "url": "https://open.spotify.com/track/6EDO9iiTtwNv6waLwa1UUq"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "Come Home",
         "url": "https://open.spotify.com/album/29K1WhYMmqwUGj3mU4Z0uc"
       },
@@ -483,26 +503,6 @@
       "duration_ms": 201869,
       "name": "Family",
       "url": "https://open.spotify.com/track/1YRzgVYXnobOo68q4F6DEE"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "POPSTAR (feat. Drake)",
-        "url": "https://open.spotify.com/album/5nNtpPsSUgb9Hlb3dF1gXa"
-      },
-      "artists": [
-        {
-          "name": "DJ Khaled",
-          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 200221,
-      "name": "POPSTAR (feat. Drake)",
-      "url": "https://open.spotify.com/track/6EDO9iiTtwNv6waLwa1UUq"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -739,34 +739,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "KHALED KHALED",
-        "url": "https://open.spotify.com/album/5kE2OAuUYGBqqzscqgBXXf"
-      },
-      "artists": [
-        {
-          "name": "DJ Khaled",
-          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
-        },
-        {
-          "name": "Nas",
-          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
-        },
-        {
-          "name": "JAY-Z",
-          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
-        },
-        {
-          "name": "James Fauntleroy",
-          "url": "https://open.spotify.com/artist/5ooSG9S0glqP5ZrqqaHBvT"
-        }
-      ],
-      "duration_ms": 258982,
-      "name": "SORRY NOT SORRY (feat. Nas, JAY-Z & James Fauntleroy) - Harmonies by The Hive",
-      "url": "https://open.spotify.com/track/5OypcrFg58e4k2iYHi69ED"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Usain Bolt Presents: Olympe Ros\u00e9 Riddim",
         "url": "https://open.spotify.com/album/2SkSBJ1pRPIsQODif3Wqhk"
       },
@@ -815,22 +787,30 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Usain Bolt Presents: Clockwork Riddim",
-        "url": "https://open.spotify.com/album/1DwPjiZIEfx2jkaZjoS8IY"
+        "name": "KHALED KHALED",
+        "url": "https://open.spotify.com/album/5kE2OAuUYGBqqzscqgBXXf"
       },
       "artists": [
         {
-          "name": "Usain Bolt",
-          "url": "https://open.spotify.com/artist/2PIYZpNwZRt8BDALIFazZh"
+          "name": "DJ Khaled",
+          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
         },
         {
-          "name": "Nj",
-          "url": "https://open.spotify.com/artist/3KNcuLUfY5AqiRXASRFWjC"
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        },
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        },
+        {
+          "name": "James Fauntleroy",
+          "url": "https://open.spotify.com/artist/5ooSG9S0glqP5ZrqqaHBvT"
         }
       ],
-      "duration_ms": 189473,
-      "name": "Timing",
-      "url": "https://open.spotify.com/track/3DWw2xtPBpv4fmp6MtGSrT"
+      "duration_ms": 258982,
+      "name": "SORRY NOT SORRY (feat. Nas, JAY-Z & James Fauntleroy) - Harmonies by The Hive",
+      "url": "https://open.spotify.com/track/5OypcrFg58e4k2iYHi69ED"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -903,6 +883,26 @@
       "duration_ms": 205714,
       "name": "Champ",
       "url": "https://open.spotify.com/track/0EoNuIITOben2tT4QbUEzi"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Usain Bolt Presents: Clockwork Riddim",
+        "url": "https://open.spotify.com/album/1DwPjiZIEfx2jkaZjoS8IY"
+      },
+      "artists": [
+        {
+          "name": "Usain Bolt",
+          "url": "https://open.spotify.com/artist/2PIYZpNwZRt8BDALIFazZh"
+        },
+        {
+          "name": "Nj",
+          "url": "https://open.spotify.com/artist/3KNcuLUfY5AqiRXASRFWjC"
+        }
+      ],
+      "duration_ms": 189473,
+      "name": "Timing",
+      "url": "https://open.spotify.com/track/3DWw2xtPBpv4fmp6MtGSrT"
     },
     {
       "added_at": "2022-10-01 16:00:00",

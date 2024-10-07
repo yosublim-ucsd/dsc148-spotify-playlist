@@ -507,6 +507,24 @@
     },
     {
       "album": {
+        "name": "drowning",
+        "url": "https://open.spotify.com/album/4MG8Z8BcUsNQFgJjMxzTWN"
+      },
+      "artists": [
+        {
+          "name": "Jessie Murph",
+          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
+        }
+      ],
+      "date_added": "2024-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166030,
+      "name": "Drunk in the Bathtub",
+      "url": "https://open.spotify.com/track/3jPPeZhJ5I6sSDqchAFlx4"
+    },
+    {
+      "album": {
         "name": "Everywhere I Go",
         "url": "https://open.spotify.com/album/0R0LHoYE9Evb7zg94ay6nR"
       },

@@ -1,6 +1,6 @@
 {
   "description": "Resonancias luminiscentes para llenar de paz tu alma.",
-  "num_followers": 75463,
+  "num_followers": 75488,
   "original_name": "Sanaci\u00f3n Profunda",
   "owner": {
     "name": "Spotify",
@@ -43,22 +43,6 @@
     {
       "added_at": "2024-08-28 15:56:24",
       "album": {
-        "name": "Solstice Waves",
-        "url": "https://open.spotify.com/album/05AOfjLp2pq7emPXZGbRXk"
-      },
-      "artists": [
-        {
-          "name": "Eternalistic",
-          "url": "https://open.spotify.com/artist/77efGNIP8xtX0iCb5RCHCG"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Solstice Waves",
-      "url": "https://open.spotify.com/track/6SFSWBUYfepFU3iNlXLPeu"
-    },
-    {
-      "added_at": "2024-08-28 15:56:24",
-      "album": {
         "name": "Earth Emerald",
         "url": "https://open.spotify.com/album/3FhnkpDjdDzEvUBSDUE7XR"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 157241,
       "name": "Earth Emerald",
       "url": "https://open.spotify.com/track/3lcBjQ6LKDYTZ4AOjk7tu2"
+    },
+    {
+      "added_at": "2024-08-28 15:56:24",
+      "album": {
+        "name": "Solstice Waves",
+        "url": "https://open.spotify.com/album/05AOfjLp2pq7emPXZGbRXk"
+      },
+      "artists": [
+        {
+          "name": "Eternalistic",
+          "url": "https://open.spotify.com/artist/77efGNIP8xtX0iCb5RCHCG"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Solstice Waves",
+      "url": "https://open.spotify.com/track/6SFSWBUYfepFU3iNlXLPeu"
     },
     {
       "added_at": "2024-08-28 15:56:24",
@@ -475,22 +475,6 @@
     {
       "added_at": "2024-08-28 15:56:24",
       "album": {
-        "name": "Restful Whispers",
-        "url": "https://open.spotify.com/album/4dh8iE6t0QwHO1uAhPkmHG"
-      },
-      "artists": [
-        {
-          "name": "Joa Abbot",
-          "url": "https://open.spotify.com/artist/5YyUtmkNPxBBPJLJDAXFxk"
-        }
-      ],
-      "duration_ms": 218239,
-      "name": "Restful Whispers",
-      "url": "https://open.spotify.com/track/6C5c20UUEJhT8tFhY3kDPe"
-    },
-    {
-      "added_at": "2024-08-28 15:56:24",
-      "album": {
         "name": "Paradiso (Meditation Mix)",
         "url": "https://open.spotify.com/album/2NWm5EjnnTktWmN2pI87XH"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 181411,
       "name": "Shasta - Meditation Mix",
       "url": "https://open.spotify.com/track/7pOo8zgxmkZVMEO0B4fH4Y"
+    },
+    {
+      "added_at": "2024-08-28 15:56:24",
+      "album": {
+        "name": "Restful Whispers",
+        "url": "https://open.spotify.com/album/4dh8iE6t0QwHO1uAhPkmHG"
+      },
+      "artists": [
+        {
+          "name": "Joa Abbot",
+          "url": "https://open.spotify.com/artist/5YyUtmkNPxBBPJLJDAXFxk"
+        }
+      ],
+      "duration_ms": 218239,
+      "name": "Restful Whispers",
+      "url": "https://open.spotify.com/track/6C5c20UUEJhT8tFhY3kDPe"
     },
     {
       "added_at": "2024-08-28 15:56:24",
@@ -779,22 +779,6 @@
     {
       "added_at": "2024-08-28 15:56:24",
       "album": {
-        "name": "Bortgjemt",
-        "url": "https://open.spotify.com/album/4j6C8rGpkGhSeAekuBdHiM"
-      },
-      "artists": [
-        {
-          "name": "Gjenklang",
-          "url": "https://open.spotify.com/artist/0tdUnUmJpBYAnf128MpI23"
-        }
-      ],
-      "duration_ms": 147750,
-      "name": "Bortgjemt",
-      "url": "https://open.spotify.com/track/3cEeIEPEocUTo3U4gD7MDG"
-    },
-    {
-      "added_at": "2024-08-28 15:56:24",
-      "album": {
         "name": "Weightless",
         "url": "https://open.spotify.com/album/4lriXb1ncZ3k5USr0jWiOA"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 149433,
       "name": "Weightless",
       "url": "https://open.spotify.com/track/2MH1fR1gK1o0BZcoSwvwqX"
+    },
+    {
+      "added_at": "2024-08-28 15:56:24",
+      "album": {
+        "name": "Bortgjemt",
+        "url": "https://open.spotify.com/album/4j6C8rGpkGhSeAekuBdHiM"
+      },
+      "artists": [
+        {
+          "name": "Gjenklang",
+          "url": "https://open.spotify.com/artist/0tdUnUmJpBYAnf128MpI23"
+        }
+      ],
+      "duration_ms": 147750,
+      "name": "Bortgjemt",
+      "url": "https://open.spotify.com/track/3cEeIEPEocUTo3U4gD7MDG"
     },
     {
       "added_at": "2024-08-28 15:56:24",
@@ -955,22 +955,6 @@
     {
       "added_at": "2024-08-28 15:56:24",
       "album": {
-        "name": "Ritual",
-        "url": "https://open.spotify.com/album/2dYmh6Rzv5G3UtS7WLAQBD"
-      },
-      "artists": [
-        {
-          "name": "Nairuz",
-          "url": "https://open.spotify.com/artist/5Rl9GnnclvARcDxCUMO02Y"
-        }
-      ],
-      "duration_ms": 229333,
-      "name": "Rituals",
-      "url": "https://open.spotify.com/track/5dBXoX0Gnj7hkVYyGMPdes"
-    },
-    {
-      "added_at": "2024-08-28 15:56:24",
-      "album": {
         "name": "Seneca Rise",
         "url": "https://open.spotify.com/album/3Qb9Ko4g5QhAwyDeBNVmuO"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 157800,
       "name": "Seneca Rise",
       "url": "https://open.spotify.com/track/6YHg42gULO5UiwXS2QJAmt"
+    },
+    {
+      "added_at": "2024-08-28 15:56:24",
+      "album": {
+        "name": "Ritual",
+        "url": "https://open.spotify.com/album/2dYmh6Rzv5G3UtS7WLAQBD"
+      },
+      "artists": [
+        {
+          "name": "Nairuz",
+          "url": "https://open.spotify.com/artist/5Rl9GnnclvARcDxCUMO02Y"
+        }
+      ],
+      "duration_ms": 229333,
+      "name": "Rituals",
+      "url": "https://open.spotify.com/track/5dBXoX0Gnj7hkVYyGMPdes"
     },
     {
       "added_at": "2024-08-28 15:56:24",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2024-08-28 15:56:24",
       "album": {
+        "name": "Simple Soul",
+        "url": "https://open.spotify.com/album/2RDfxKIgM9olAczjQK5Yku"
+      },
+      "artists": [
+        {
+          "name": "BlunD",
+          "url": "https://open.spotify.com/artist/4Dc1j8HIqC0y6uSG8Gnk1T"
+        }
+      ],
+      "duration_ms": 214330,
+      "name": "Slowly Flying",
+      "url": "https://open.spotify.com/track/13SRYtw5x5Z4OpFUYY4C1k"
+    },
+    {
+      "added_at": "2024-08-28 15:56:24",
+      "album": {
         "name": "Quiet Hours",
         "url": "https://open.spotify.com/album/45anDTXW4ebJ5bkVNxEh7v"
       },
@@ -1111,22 +1127,6 @@
       "duration_ms": 162028,
       "name": "Unawareness",
       "url": "https://open.spotify.com/track/3JLCotc9wEILsbwsB2T1yf"
-    },
-    {
-      "added_at": "2024-08-28 15:56:24",
-      "album": {
-        "name": "Simple Soul",
-        "url": "https://open.spotify.com/album/2RDfxKIgM9olAczjQK5Yku"
-      },
-      "artists": [
-        {
-          "name": "BlunD",
-          "url": "https://open.spotify.com/artist/4Dc1j8HIqC0y6uSG8Gnk1T"
-        }
-      ],
-      "duration_ms": 214330,
-      "name": "Slowly Flying",
-      "url": "https://open.spotify.com/track/13SRYtw5x5Z4OpFUYY4C1k"
     },
     {
       "added_at": "2024-08-28 15:56:24",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2024-08-28 15:56:24",
       "album": {
-        "name": "Peace Of Mind",
-        "url": "https://open.spotify.com/album/4C7Qoi3ymc44BakzPS07OJ"
-      },
-      "artists": [
-        {
-          "name": "Xiaoming Chu",
-          "url": "https://open.spotify.com/artist/3wWsMDO6XVcTyV9IvVhss9"
-        }
-      ],
-      "duration_ms": 178500,
-      "name": "Peace Of Mind",
-      "url": "https://open.spotify.com/track/4v8uzYnHfHI4ppZLTqouhp"
-    },
-    {
-      "added_at": "2024-08-28 15:56:24",
-      "album": {
         "name": "Amoralis",
         "url": "https://open.spotify.com/album/6PXlEiJLcezQegncKUlDuL"
       },
@@ -1243,18 +1227,18 @@
     {
       "added_at": "2024-08-28 15:56:24",
       "album": {
-        "name": "One Sense",
-        "url": "https://open.spotify.com/album/466ShS1EJQJcwI63omgHJT"
+        "name": "Peace Of Mind",
+        "url": "https://open.spotify.com/album/4C7Qoi3ymc44BakzPS07OJ"
       },
       "artists": [
         {
-          "name": "Collected Dreams",
-          "url": "https://open.spotify.com/artist/663shNr1wUnWbD1TQ5v8Sx"
+          "name": "Xiaoming Chu",
+          "url": "https://open.spotify.com/artist/3wWsMDO6XVcTyV9IvVhss9"
         }
       ],
-      "duration_ms": 185000,
-      "name": "My Horizon",
-      "url": "https://open.spotify.com/track/0IeAKzoK78YpLGWn8wCQV8"
+      "duration_ms": 178500,
+      "name": "Peace Of Mind",
+      "url": "https://open.spotify.com/track/4v8uzYnHfHI4ppZLTqouhp"
     },
     {
       "added_at": "2024-08-28 15:56:24",
@@ -1271,6 +1255,22 @@
       "duration_ms": 166000,
       "name": "Clear-Headed",
       "url": "https://open.spotify.com/track/3WDUmsJxKRJTItEH8MSjzu"
+    },
+    {
+      "added_at": "2024-08-28 15:56:24",
+      "album": {
+        "name": "One Sense",
+        "url": "https://open.spotify.com/album/466ShS1EJQJcwI63omgHJT"
+      },
+      "artists": [
+        {
+          "name": "Collected Dreams",
+          "url": "https://open.spotify.com/artist/663shNr1wUnWbD1TQ5v8Sx"
+        }
+      ],
+      "duration_ms": 185000,
+      "name": "My Horizon",
+      "url": "https://open.spotify.com/track/0IeAKzoK78YpLGWn8wCQV8"
     },
     {
       "added_at": "2024-08-28 15:56:24",
@@ -1371,6 +1371,22 @@
     {
       "added_at": "2024-08-28 15:56:24",
       "album": {
+        "name": "Lights on Water",
+        "url": "https://open.spotify.com/album/0TR96hLQ5YvKTdgZY7ffhp"
+      },
+      "artists": [
+        {
+          "name": "Astral Wonder",
+          "url": "https://open.spotify.com/artist/24JkKS4b8yp9usUXPL0I3G"
+        }
+      ],
+      "duration_ms": 217600,
+      "name": "Lights on Water",
+      "url": "https://open.spotify.com/track/6J0uBGMNk7kjRKVmxh6iJE"
+    },
+    {
+      "added_at": "2024-08-28 15:56:24",
+      "album": {
         "name": "mOther World",
         "url": "https://open.spotify.com/album/321AxcKuWjreiEDNC1P1un"
       },
@@ -1399,22 +1415,6 @@
       "duration_ms": 211443,
       "name": "Pegasus",
       "url": "https://open.spotify.com/track/0N08dxkNnilnHjjRhCL9V1"
-    },
-    {
-      "added_at": "2024-08-28 15:56:24",
-      "album": {
-        "name": "Lights on Water",
-        "url": "https://open.spotify.com/album/0TR96hLQ5YvKTdgZY7ffhp"
-      },
-      "artists": [
-        {
-          "name": "Astral Wonder",
-          "url": "https://open.spotify.com/artist/24JkKS4b8yp9usUXPL0I3G"
-        }
-      ],
-      "duration_ms": 217600,
-      "name": "Lights on Water",
-      "url": "https://open.spotify.com/track/6J0uBGMNk7kjRKVmxh6iJE"
     },
     {
       "added_at": "2024-08-28 15:56:24",
@@ -1451,6 +1451,22 @@
     {
       "added_at": "2024-08-28 15:56:24",
       "album": {
+        "name": "Incorniciato",
+        "url": "https://open.spotify.com/album/1ZWLzTAIhCe71mmmy8DbWq"
+      },
+      "artists": [
+        {
+          "name": "Adelina Palm",
+          "url": "https://open.spotify.com/artist/5EUJpZPU6Oo6v9E5I21qFe"
+        }
+      ],
+      "duration_ms": 164571,
+      "name": "Incorniciato",
+      "url": "https://open.spotify.com/track/4hIl75AXfZMQfyTFa5geXQ"
+    },
+    {
+      "added_at": "2024-08-28 15:56:24",
+      "album": {
         "name": "A Silent Moon",
         "url": "https://open.spotify.com/album/614CGNxEe7t1cwpRQjit8H"
       },
@@ -1479,22 +1495,6 @@
       "duration_ms": 154726,
       "name": "Desiderio",
       "url": "https://open.spotify.com/track/3Vk578KtrVIfcTANvQ2rkW"
-    },
-    {
-      "added_at": "2024-08-28 15:56:24",
-      "album": {
-        "name": "Incorniciato",
-        "url": "https://open.spotify.com/album/1ZWLzTAIhCe71mmmy8DbWq"
-      },
-      "artists": [
-        {
-          "name": "Adelina Palm",
-          "url": "https://open.spotify.com/artist/5EUJpZPU6Oo6v9E5I21qFe"
-        }
-      ],
-      "duration_ms": 164571,
-      "name": "Incorniciato",
-      "url": "https://open.spotify.com/track/4hIl75AXfZMQfyTFa5geXQ"
     },
     {
       "added_at": "2024-08-28 15:56:24",
@@ -1723,6 +1723,22 @@
     {
       "added_at": "2024-08-28 15:56:24",
       "album": {
+        "name": "Solace",
+        "url": "https://open.spotify.com/album/76Vmwd38DKu5eOQfvXII9U"
+      },
+      "artists": [
+        {
+          "name": "LUVT",
+          "url": "https://open.spotify.com/artist/7zJp7caLwjVSEOiREg8bRF"
+        }
+      ],
+      "duration_ms": 304952,
+      "name": "Solace - Meditation",
+      "url": "https://open.spotify.com/track/27IttMdiGdiffTT0fnBxZK"
+    },
+    {
+      "added_at": "2024-08-28 15:56:24",
+      "album": {
         "name": "Sphere",
         "url": "https://open.spotify.com/album/2qKx3bzl3GaSLtf2Yv5PZn"
       },
@@ -1751,22 +1767,6 @@
       "duration_ms": 149250,
       "name": "Mystic Reverberations",
       "url": "https://open.spotify.com/track/6c7SjzTC92FI18MmItSPSq"
-    },
-    {
-      "added_at": "2024-08-28 15:56:24",
-      "album": {
-        "name": "Solace",
-        "url": "https://open.spotify.com/album/76Vmwd38DKu5eOQfvXII9U"
-      },
-      "artists": [
-        {
-          "name": "LUVT",
-          "url": "https://open.spotify.com/artist/7zJp7caLwjVSEOiREg8bRF"
-        }
-      ],
-      "duration_ms": 304952,
-      "name": "Solace - Meditation",
-      "url": "https://open.spotify.com/track/27IttMdiGdiffTT0fnBxZK"
     },
     {
       "added_at": "2024-08-28 15:56:24",
@@ -1835,6 +1835,22 @@
     {
       "added_at": "2024-08-28 15:56:24",
       "album": {
+        "name": "Inertia",
+        "url": "https://open.spotify.com/album/6tbIFgMLyYZ7qwajoltDqV"
+      },
+      "artists": [
+        {
+          "name": "Dreamcloud Haze",
+          "url": "https://open.spotify.com/artist/57GF408b4kntpAncwk2bZR"
+        }
+      ],
+      "duration_ms": 181985,
+      "name": "Inertia",
+      "url": "https://open.spotify.com/track/3gP7Pv8QFSv02Yo0ldgVKs"
+    },
+    {
+      "added_at": "2024-08-28 15:56:24",
+      "album": {
         "name": "Nebulae",
         "url": "https://open.spotify.com/album/6L1zv90N3x8xOzXASWr8jj"
       },
@@ -1863,22 +1879,6 @@
       "duration_ms": 192157,
       "name": "Fall in Dreams",
       "url": "https://open.spotify.com/track/6CvtpsdnOtuo6m7RPjvOHL"
-    },
-    {
-      "added_at": "2024-08-28 15:56:24",
-      "album": {
-        "name": "Inertia",
-        "url": "https://open.spotify.com/album/6tbIFgMLyYZ7qwajoltDqV"
-      },
-      "artists": [
-        {
-          "name": "Dreamcloud Haze",
-          "url": "https://open.spotify.com/artist/57GF408b4kntpAncwk2bZR"
-        }
-      ],
-      "duration_ms": 181985,
-      "name": "Inertia",
-      "url": "https://open.spotify.com/track/3gP7Pv8QFSv02Yo0ldgVKs"
     },
     {
       "added_at": "2024-08-28 15:56:24",

@@ -1,6 +1,6 @@
 {
   "description": "Rom\u00e1nticas, rancheras y brav\u00edas, las mejores canciones sierre\u00f1as. Neton Vega en portada. ",
-  "num_followers": 801155,
+  "num_followers": 801209,
   "original_name": "Sierre\u00f1o 2024",
   "owner": {
     "name": "Spotify",
@@ -387,6 +387,26 @@
     {
       "added_at": "2024-10-04 06:35:34",
       "album": {
+        "name": "Mi Morenita",
+        "url": "https://open.spotify.com/album/1TFykciPJZ54BYl8iZybM1"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        },
+        {
+          "name": "JPL",
+          "url": "https://open.spotify.com/artist/618X9qfrn7Cu3dQ17TBEWd"
+        }
+      ],
+      "duration_ms": 149450,
+      "name": "Mi Morenita",
+      "url": "https://open.spotify.com/track/4Xly6Wx7KtcJc739Y4myOt"
+    },
+    {
+      "added_at": "2024-10-04 06:35:34",
+      "album": {
         "name": "$AD BOYZ 4 LIFE II",
         "url": "https://open.spotify.com/album/7Lv6VzSqIz1sAssK2JUskG"
       },
@@ -399,22 +419,6 @@
       "duration_ms": 162648,
       "name": "TRES BOTELLAS",
       "url": "https://open.spotify.com/track/2CshODtf7iwe3pKlPmEWF5"
-    },
-    {
-      "added_at": "2024-10-04 06:35:34",
-      "album": {
-        "name": "O Me Voy O Te Vas",
-        "url": "https://open.spotify.com/album/4oMV5zQlFluZYsbw1knD97"
-      },
-      "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        }
-      ],
-      "duration_ms": 242133,
-      "name": "O Me Voy O Te Vas",
-      "url": "https://open.spotify.com/track/127UT7AiWflJwjXWUBBVTQ"
     },
     {
       "added_at": "2024-10-04 06:35:34",
@@ -439,26 +443,6 @@
     {
       "added_at": "2024-10-04 06:35:34",
       "album": {
-        "name": "Mi Morenita",
-        "url": "https://open.spotify.com/album/1TFykciPJZ54BYl8iZybM1"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        },
-        {
-          "name": "JPL",
-          "url": "https://open.spotify.com/artist/618X9qfrn7Cu3dQ17TBEWd"
-        }
-      ],
-      "duration_ms": 149450,
-      "name": "Mi Morenita",
-      "url": "https://open.spotify.com/track/4Xly6Wx7KtcJc739Y4myOt"
-    },
-    {
-      "added_at": "2024-10-04 06:35:34",
-      "album": {
         "name": "300 Noches",
         "url": "https://open.spotify.com/album/1eXnHv9p2TLAg1X4LoFTml"
       },
@@ -479,30 +463,6 @@
     {
       "added_at": "2024-10-04 06:35:34",
       "album": {
-        "name": "BIPOLAR",
-        "url": "https://open.spotify.com/album/6obRcLVFuI4x6jan7GNkYJ"
-      },
-      "artists": [
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        },
-        {
-          "name": "Jasiel Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
-        },
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        }
-      ],
-      "duration_ms": 265045,
-      "name": "BIPOLAR",
-      "url": "https://open.spotify.com/track/3wlIAXSDtlD9iU8ysld06Z"
-    },
-    {
-      "added_at": "2024-10-04 06:35:34",
-      "album": {
         "name": "Dolido Pero No Arrepentido",
         "url": "https://open.spotify.com/album/5WPTc1Xa8REVDQ5YazhNgv"
       },
@@ -515,6 +475,22 @@
       "duration_ms": 169587,
       "name": "Brillarosa",
       "url": "https://open.spotify.com/track/2BMlaVJaHDGd3ODSyrB2VK"
+    },
+    {
+      "added_at": "2024-10-04 06:35:34",
+      "album": {
+        "name": "O Me Voy O Te Vas",
+        "url": "https://open.spotify.com/album/4oMV5zQlFluZYsbw1knD97"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "duration_ms": 242133,
+      "name": "O Me Voy O Te Vas",
+      "url": "https://open.spotify.com/track/127UT7AiWflJwjXWUBBVTQ"
     },
     {
       "added_at": "2024-10-04 06:35:34",
@@ -551,6 +527,30 @@
       "duration_ms": 224920,
       "name": "Fin de Semana",
       "url": "https://open.spotify.com/track/6TBzRwnX2oYd8aOrOuyK1p"
+    },
+    {
+      "added_at": "2024-10-04 06:35:34",
+      "album": {
+        "name": "BIPOLAR",
+        "url": "https://open.spotify.com/album/6obRcLVFuI4x6jan7GNkYJ"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Jasiel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+        },
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "duration_ms": 265045,
+      "name": "BIPOLAR",
+      "url": "https://open.spotify.com/track/3wlIAXSDtlD9iU8ysld06Z"
     },
     {
       "added_at": "2024-10-04 06:35:34",
@@ -643,26 +643,6 @@
     {
       "added_at": "2024-10-04 06:35:34",
       "album": {
-        "name": "PRC",
-        "url": "https://open.spotify.com/album/2OXBosbXT7Qs3J6vBd6IkI"
-      },
-      "artists": [
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        },
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        }
-      ],
-      "duration_ms": 184066,
-      "name": "PRC",
-      "url": "https://open.spotify.com/track/2mpoNBkngUEwnaKoBhZ0vl"
-    },
-    {
-      "added_at": "2024-10-04 06:35:34",
-      "album": {
         "name": "El Toro Encartado - Spotify Singles",
         "url": "https://open.spotify.com/album/1UVIxjnGk4B4HnsTQsXLWh"
       },
@@ -711,6 +691,26 @@
       "duration_ms": 216000,
       "name": "La Curiosidad",
       "url": "https://open.spotify.com/track/0hnvQLkV7yOjslEzflJSK4"
+    },
+    {
+      "added_at": "2024-10-04 06:35:34",
+      "album": {
+        "name": "PRC",
+        "url": "https://open.spotify.com/album/2OXBosbXT7Qs3J6vBd6IkI"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "duration_ms": 184066,
+      "name": "PRC",
+      "url": "https://open.spotify.com/track/2mpoNBkngUEwnaKoBhZ0vl"
     },
     {
       "added_at": "2024-10-04 06:35:34",
@@ -839,6 +839,22 @@
     {
       "added_at": "2024-10-04 06:35:34",
       "album": {
+        "name": "Mi Vida En Un Cigarro 2",
+        "url": "https://open.spotify.com/album/3ind4Ir3JMazCITxWQajDb"
+      },
+      "artists": [
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "duration_ms": 225152,
+      "name": "Como Jordan",
+      "url": "https://open.spotify.com/track/2q7DY7bBua9e9Aygmz8XmB"
+    },
+    {
+      "added_at": "2024-10-04 06:35:34",
+      "album": {
         "name": "The Life in Your Eyes",
         "url": "https://open.spotify.com/album/7hnH4pDgMDP4veSuZ7Uxlz"
       },
@@ -887,6 +903,26 @@
     {
       "added_at": "2024-10-04 06:35:34",
       "album": {
+        "name": "THE GB",
+        "url": "https://open.spotify.com/album/1O51JYs5jdmREsm45dyeGc"
+      },
+      "artists": [
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "duration_ms": 190500,
+      "name": "Sin Yolanda",
+      "url": "https://open.spotify.com/track/21NvSNOb9eqlRwFeqreHmM"
+    },
+    {
+      "added_at": "2024-10-04 06:35:34",
+      "album": {
         "name": "Las Pacas",
         "url": "https://open.spotify.com/album/4yMC2UNgGrcWdnMpdQ6noX"
       },
@@ -899,22 +935,6 @@
       "duration_ms": 281518,
       "name": "Perfecta",
       "url": "https://open.spotify.com/track/2bUDsZdvWZyIYFWluUzFe6"
-    },
-    {
-      "added_at": "2024-10-04 06:35:34",
-      "album": {
-        "name": "Mi Vida En Un Cigarro 2",
-        "url": "https://open.spotify.com/album/3ind4Ir3JMazCITxWQajDb"
-      },
-      "artists": [
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        }
-      ],
-      "duration_ms": 225152,
-      "name": "Como Jordan",
-      "url": "https://open.spotify.com/track/2q7DY7bBua9e9Aygmz8XmB"
     },
     {
       "added_at": "2024-10-04 06:35:34",
@@ -935,6 +955,22 @@
       "duration_ms": 116455,
       "name": "Seca Tus Lagrimas",
       "url": "https://open.spotify.com/track/54JxxJ2KW8nCeb6ZnroLA0"
+    },
+    {
+      "added_at": "2024-10-04 06:35:34",
+      "album": {
+        "name": "Si Me Ven",
+        "url": "https://open.spotify.com/album/5Z16tpUTnDDwejC6Dvad5r"
+      },
+      "artists": [
+        {
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        }
+      ],
+      "duration_ms": 174432,
+      "name": "Si Me Ven",
+      "url": "https://open.spotify.com/track/5SkLd0qWWqYtv3Ry0dIyIh"
     },
     {
       "added_at": "2024-10-04 06:35:34",
@@ -975,42 +1011,6 @@
     {
       "added_at": "2024-10-04 06:35:34",
       "album": {
-        "name": "THE GB",
-        "url": "https://open.spotify.com/album/1O51JYs5jdmREsm45dyeGc"
-      },
-      "artists": [
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        },
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        }
-      ],
-      "duration_ms": 190500,
-      "name": "Sin Yolanda",
-      "url": "https://open.spotify.com/track/21NvSNOb9eqlRwFeqreHmM"
-    },
-    {
-      "added_at": "2024-10-04 06:35:34",
-      "album": {
-        "name": "Si Me Ven",
-        "url": "https://open.spotify.com/album/5Z16tpUTnDDwejC6Dvad5r"
-      },
-      "artists": [
-        {
-          "name": "Los Gemelos De Sinaloa",
-          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
-        }
-      ],
-      "duration_ms": 174432,
-      "name": "Si Me Ven",
-      "url": "https://open.spotify.com/track/5SkLd0qWWqYtv3Ry0dIyIh"
-    },
-    {
-      "added_at": "2024-10-04 06:35:34",
-      "album": {
         "name": "Amor",
         "url": "https://open.spotify.com/album/5uL2IYw4ub2PuWRIESxwzd"
       },
@@ -1047,6 +1047,22 @@
     {
       "added_at": "2024-10-04 06:35:34",
       "album": {
+        "name": "A Puro Dolor",
+        "url": "https://open.spotify.com/album/54bkVDCc7dG3QpIvFePi4a"
+      },
+      "artists": [
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "duration_ms": 168086,
+      "name": "A Puro Dolor",
+      "url": "https://open.spotify.com/track/1rXxK89X0XGpIdTB6CwiFu"
+    },
+    {
+      "added_at": "2024-10-04 06:35:34",
+      "album": {
         "name": "En El Radio Un Cochinero",
         "url": "https://open.spotify.com/album/6fCSthptZ0wBlpqeSlUKHy"
       },
@@ -1059,6 +1075,22 @@
       "duration_ms": 223431,
       "name": "En El Radio Un Cochinero",
       "url": "https://open.spotify.com/track/2NWaWZZLFMcr5P4uI2KvWy"
+    },
+    {
+      "added_at": "2024-10-04 06:35:34",
+      "album": {
+        "name": "Andamos Mejor",
+        "url": "https://open.spotify.com/album/2NQwwZeDFB6bTXg8rcAFsf"
+      },
+      "artists": [
+        {
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        }
+      ],
+      "duration_ms": 137183,
+      "name": "Andamos Mejor",
+      "url": "https://open.spotify.com/track/3K56RPWS4q200IwHiIZcUD"
     },
     {
       "added_at": "2024-10-04 06:35:34",
@@ -1127,22 +1159,6 @@
     {
       "added_at": "2024-10-04 06:35:34",
       "album": {
-        "name": "A Puro Dolor",
-        "url": "https://open.spotify.com/album/54bkVDCc7dG3QpIvFePi4a"
-      },
-      "artists": [
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        }
-      ],
-      "duration_ms": 168086,
-      "name": "A Puro Dolor",
-      "url": "https://open.spotify.com/track/1rXxK89X0XGpIdTB6CwiFu"
-    },
-    {
-      "added_at": "2024-10-04 06:35:34",
-      "album": {
         "name": "Como Pancho Villa",
         "url": "https://open.spotify.com/album/7tTzvgXlpz8SjQMe89ZEob"
       },
@@ -1155,22 +1171,6 @@
       "duration_ms": 143661,
       "name": "Como Pancho Villa",
       "url": "https://open.spotify.com/track/2jZlmAzzsdaVZQk9GmJOmb"
-    },
-    {
-      "added_at": "2024-10-04 06:35:34",
-      "album": {
-        "name": "Andamos Mejor",
-        "url": "https://open.spotify.com/album/2NQwwZeDFB6bTXg8rcAFsf"
-      },
-      "artists": [
-        {
-          "name": "Los Gemelos De Sinaloa",
-          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
-        }
-      ],
-      "duration_ms": 137183,
-      "name": "Andamos Mejor",
-      "url": "https://open.spotify.com/track/3K56RPWS4q200IwHiIZcUD"
     },
     {
       "added_at": "2024-10-04 06:35:34",
@@ -1207,6 +1207,26 @@
     {
       "added_at": "2024-10-04 06:35:34",
       "album": {
+        "name": "Ya Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/0v7kIoSFh2xLJX5cU8PZkK"
+      },
+      "artists": [
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        },
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "duration_ms": 177666,
+      "name": "Ya Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/49lbKqbCI8SmJfW64OYXGZ"
+    },
+    {
+      "added_at": "2024-10-04 06:35:34",
+      "album": {
         "name": "Pr\u00e9stame Tu Coraz\u00f3n",
         "url": "https://open.spotify.com/album/193sAyinQJCfAe9rWjUH36"
       },
@@ -1219,22 +1239,6 @@
       "duration_ms": 182073,
       "name": "Pr\u00e9stame Tu Coraz\u00f3n",
       "url": "https://open.spotify.com/track/1bnSKjuPEd8FPACxqA5Mos"
-    },
-    {
-      "added_at": "2024-10-04 06:35:34",
-      "album": {
-        "name": "En Vivo EP, Vol. 1 (En vivo)",
-        "url": "https://open.spotify.com/album/6ewLeV1GpI2Jg1vMXqXBIN"
-      },
-      "artists": [
-        {
-          "name": "Marca MP",
-          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
-        }
-      ],
-      "duration_ms": 228545,
-      "name": "Te Apuesto - En vivo",
-      "url": "https://open.spotify.com/track/7wnO6pBzcWWT8zT4vFx7hM"
     },
     {
       "added_at": "2024-10-04 06:35:34",
@@ -1255,22 +1259,18 @@
     {
       "added_at": "2024-10-04 06:35:34",
       "album": {
-        "name": "Ya Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/0v7kIoSFh2xLJX5cU8PZkK"
+        "name": "En Vivo EP, Vol. 1 (En vivo)",
+        "url": "https://open.spotify.com/album/6ewLeV1GpI2Jg1vMXqXBIN"
       },
       "artists": [
         {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        },
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
         }
       ],
-      "duration_ms": 177666,
-      "name": "Ya Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/49lbKqbCI8SmJfW64OYXGZ"
+      "duration_ms": 228545,
+      "name": "Te Apuesto - En vivo",
+      "url": "https://open.spotify.com/track/7wnO6pBzcWWT8zT4vFx7hM"
     },
     {
       "added_at": "2024-10-04 06:35:34",
@@ -1503,6 +1503,22 @@
     {
       "added_at": "2024-10-04 06:35:34",
       "album": {
+        "name": "todo me vale madre",
+        "url": "https://open.spotify.com/album/6Un1jeqwMNafxhOHfjYXEx"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 176382,
+      "name": "todo me vale madre",
+      "url": "https://open.spotify.com/track/2JXwNWEICIo5Utov8kBot1"
+    },
+    {
+      "added_at": "2024-10-04 06:35:34",
+      "album": {
         "name": "Uno Mas Uno Igual A Zero",
         "url": "https://open.spotify.com/album/4Kn4jPceGT1pgHDjMk9WQL"
       },
@@ -1519,6 +1535,22 @@
       "duration_ms": 159683,
       "name": "Uno mas Uno Igual a Zero",
       "url": "https://open.spotify.com/track/3TrePR8cFXMlMvlLD9lapD"
+    },
+    {
+      "added_at": "2024-10-04 06:35:34",
+      "album": {
+        "name": "Desde El Cant\u00f3n, Vol. II (En Vivo)",
+        "url": "https://open.spotify.com/album/3jZIGZPZ4iijaPksSNWt13"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "duration_ms": 207750,
+      "name": "Lejos - En Vivo",
+      "url": "https://open.spotify.com/track/5ApwxAEVY9BLPZ4x9KUNMF"
     },
     {
       "added_at": "2024-10-04 06:35:34",
@@ -1547,22 +1579,6 @@
     {
       "added_at": "2024-10-04 06:35:34",
       "album": {
-        "name": "todo me vale madre",
-        "url": "https://open.spotify.com/album/6Un1jeqwMNafxhOHfjYXEx"
-      },
-      "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 176382,
-      "name": "todo me vale madre",
-      "url": "https://open.spotify.com/track/2JXwNWEICIo5Utov8kBot1"
-    },
-    {
-      "added_at": "2024-10-04 06:35:34",
-      "album": {
         "name": "Pal Amor Soy Malo",
         "url": "https://open.spotify.com/album/2oyTXMoyxT2C35oiFrmGbC"
       },
@@ -1575,22 +1591,6 @@
       "duration_ms": 156500,
       "name": "Pal Amor Soy Malo",
       "url": "https://open.spotify.com/track/7gwKQ5sNGRFZ70o0SK5DTR"
-    },
-    {
-      "added_at": "2024-10-04 06:35:34",
-      "album": {
-        "name": "Desde El Cant\u00f3n, Vol. II (En Vivo)",
-        "url": "https://open.spotify.com/album/3jZIGZPZ4iijaPksSNWt13"
-      },
-      "artists": [
-        {
-          "name": "Marca MP",
-          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
-        }
-      ],
-      "duration_ms": 207750,
-      "name": "Lejos - En Vivo",
-      "url": "https://open.spotify.com/track/5ApwxAEVY9BLPZ4x9KUNMF"
     },
     {
       "added_at": "2024-10-04 06:35:34",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2024-10-04 06:35:34",
       "album": {
-        "name": "Y Si Se Quiere Ir",
-        "url": "https://open.spotify.com/album/6o7M6eInloIKefh7YsXEJR"
-      },
-      "artists": [
-        {
-          "name": "Hijos De Barron",
-          "url": "https://open.spotify.com/artist/32YGQsNtuwyobFFnn8ikpe"
-        }
-      ],
-      "duration_ms": 199147,
-      "name": "Y Si Se Quiere Ir",
-      "url": "https://open.spotify.com/track/2qWX4mvuOfCvGgHAV1sWQO"
-    },
-    {
-      "added_at": "2024-10-04 06:35:34",
-      "album": {
         "name": "B\u00e9lico y Cholo",
         "url": "https://open.spotify.com/album/3TLunjZoDqcC2dicF8XWY2"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 202218,
       "name": "B\u00e9lico y Cholo",
       "url": "https://open.spotify.com/track/4tyb1RvGtFlSDpWVqoGcdz"
+    },
+    {
+      "added_at": "2024-10-04 06:35:34",
+      "album": {
+        "name": "Y Si Se Quiere Ir",
+        "url": "https://open.spotify.com/album/6o7M6eInloIKefh7YsXEJR"
+      },
+      "artists": [
+        {
+          "name": "Hijos De Barron",
+          "url": "https://open.spotify.com/artist/32YGQsNtuwyobFFnn8ikpe"
+        }
+      ],
+      "duration_ms": 199147,
+      "name": "Y Si Se Quiere Ir",
+      "url": "https://open.spotify.com/track/2qWX4mvuOfCvGgHAV1sWQO"
     },
     {
       "added_at": "2024-10-04 06:35:34",
@@ -1751,22 +1751,6 @@
     {
       "added_at": "2024-10-04 06:35:34",
       "album": {
-        "name": "Mala Novia",
-        "url": "https://open.spotify.com/album/2LPbqvMciJHYmfhLDlpBQ4"
-      },
-      "artists": [
-        {
-          "name": "Calle 24",
-          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
-        }
-      ],
-      "duration_ms": 212880,
-      "name": "Mala Novia",
-      "url": "https://open.spotify.com/track/2srlEFBReTn4tsKJzT3vkk"
-    },
-    {
-      "added_at": "2024-10-04 06:35:34",
-      "album": {
         "name": "Hoy la Vi Con \u00c9l (En Vivo)",
         "url": "https://open.spotify.com/album/4RTwqsdd8FztLzycvZ05BX"
       },
@@ -1779,6 +1763,22 @@
       "duration_ms": 223200,
       "name": "Hoy la Vi Con \u00c9l - En Vivo",
       "url": "https://open.spotify.com/track/3Tz3CWlyJgui4a5VlIgRwf"
+    },
+    {
+      "added_at": "2024-10-04 06:35:34",
+      "album": {
+        "name": "Mala Novia",
+        "url": "https://open.spotify.com/album/2LPbqvMciJHYmfhLDlpBQ4"
+      },
+      "artists": [
+        {
+          "name": "Calle 24",
+          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
+        }
+      ],
+      "duration_ms": 212880,
+      "name": "Mala Novia",
+      "url": "https://open.spotify.com/track/2srlEFBReTn4tsKJzT3vkk"
     },
     {
       "added_at": "2024-10-04 06:35:34",
@@ -1983,22 +1983,6 @@
     {
       "added_at": "2024-10-04 06:35:34",
       "album": {
-        "name": "Entre La Maleza",
-        "url": "https://open.spotify.com/album/226HOM7ZLpyqqwC3tprFct"
-      },
-      "artists": [
-        {
-          "name": "Delilah",
-          "url": "https://open.spotify.com/artist/5O2rJN2gJncIfM5iNSNiYR"
-        }
-      ],
-      "duration_ms": 215956,
-      "name": "Entre La Maleza",
-      "url": "https://open.spotify.com/track/5ARulwrK2qPpERvwvyvsKf"
-    },
-    {
-      "added_at": "2024-10-04 06:35:34",
-      "album": {
         "name": "Cada Momento",
         "url": "https://open.spotify.com/album/0A6RmcqUuTpPOqBoWfc0ik"
       },
@@ -2011,6 +1995,22 @@
       "duration_ms": 173225,
       "name": "Cada Momento",
       "url": "https://open.spotify.com/track/6QKSO8CgXXbKhiF5tXuR7Y"
+    },
+    {
+      "added_at": "2024-10-04 06:35:34",
+      "album": {
+        "name": "Entre La Maleza",
+        "url": "https://open.spotify.com/album/226HOM7ZLpyqqwC3tprFct"
+      },
+      "artists": [
+        {
+          "name": "Delilah",
+          "url": "https://open.spotify.com/artist/5O2rJN2gJncIfM5iNSNiYR"
+        }
+      ],
+      "duration_ms": 215956,
+      "name": "Entre La Maleza",
+      "url": "https://open.spotify.com/track/5ARulwrK2qPpERvwvyvsKf"
     },
     {
       "added_at": "2024-10-04 06:35:34",
@@ -2067,22 +2067,6 @@
     {
       "added_at": "2024-10-04 06:35:34",
       "album": {
-        "name": "MEMORIAS",
-        "url": "https://open.spotify.com/album/0eRHa55sMmGpWTDXfLZgPf"
-      },
-      "artists": [
-        {
-          "name": "Yahritza Y Su Esencia",
-          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
-        }
-      ],
-      "duration_ms": 215250,
-      "name": "Un Inmigrante",
-      "url": "https://open.spotify.com/track/607cPRztqRtxABpHZwJYDB"
-    },
-    {
-      "added_at": "2024-10-04 06:35:34",
-      "album": {
         "name": "Besito Con Humo",
         "url": "https://open.spotify.com/album/6RLEUN4DBKqaKJiti4TP0H"
       },
@@ -2095,6 +2079,22 @@
       "duration_ms": 145658,
       "name": "Besito Con Humo",
       "url": "https://open.spotify.com/track/463TMJNU67VDASLEHRGZmU"
+    },
+    {
+      "added_at": "2024-10-04 06:35:34",
+      "album": {
+        "name": "MEMORIAS",
+        "url": "https://open.spotify.com/album/0eRHa55sMmGpWTDXfLZgPf"
+      },
+      "artists": [
+        {
+          "name": "Yahritza Y Su Esencia",
+          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
+        }
+      ],
+      "duration_ms": 215250,
+      "name": "Un Inmigrante",
+      "url": "https://open.spotify.com/track/607cPRztqRtxABpHZwJYDB"
     },
     {
       "added_at": "2024-10-04 06:35:34",
@@ -2187,22 +2187,18 @@
     {
       "added_at": "2024-10-04 06:35:34",
       "album": {
-        "name": "Modo Diablo",
-        "url": "https://open.spotify.com/album/6iXhagqX8UDiFRHRm5QkXc"
+        "name": "Amor y Dolor (En Vivo)",
+        "url": "https://open.spotify.com/album/07MjejZluBKxlicNhE0WMq"
       },
       "artists": [
         {
-          "name": "Polo Gonzalez",
-          "url": "https://open.spotify.com/artist/0OpXeanba0vYnyoft00BP6"
-        },
-        {
-          "name": "Dan Sanchez",
-          "url": "https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG"
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
         }
       ],
-      "duration_ms": 130753,
-      "name": "Modo Diablo",
-      "url": "https://open.spotify.com/track/7ae6qFfW0V7l6mRzFwWNip"
+      "duration_ms": 194626,
+      "name": "Te Encontr\u00e9 - En Vivo",
+      "url": "https://open.spotify.com/track/5MyH0HWPtx6Ua7IVdCsrjE"
     }
   ],
   "unique_name": "Sierre\u00f1o 2024",

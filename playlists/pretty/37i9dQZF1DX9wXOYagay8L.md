@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 
 > Proudly Southern African Afropop gems\. Cover: <a href="https://open.spotify.com/artist/3boR2ULQR1CX6TUBboHctW?si=4ijqsDRgTdCb8WO1xgpkWw">Halo Yagami</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,321 likes - 60 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,393 likes - 60 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

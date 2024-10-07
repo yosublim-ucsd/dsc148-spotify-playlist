@@ -1827,6 +1827,24 @@
     },
     {
       "album": {
+        "name": "Falling Up",
+        "url": "https://open.spotify.com/album/2TTrJfMviwpwoCtwyPBN8B"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "date_added": "2024-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190093,
+      "name": "Falling Up",
+      "url": "https://open.spotify.com/track/5KoNzEJTd9TwVNKW67eWPJ"
+    },
+    {
+      "album": {
         "name": "SKZ-REPLAY",
         "url": "https://open.spotify.com/album/3UXrliH0JUQvcaLnBD8Txz"
       },
@@ -3646,6 +3664,24 @@
       "duration_ms": 224042,
       "name": "N/S",
       "url": "https://open.spotify.com/track/4awANMW1SGfKtN5283lWjN"
+    },
+    {
+      "album": {
+        "name": "NIGHT",
+        "url": "https://open.spotify.com/album/0Wrd4UJLcfFemsSz4PVOaP"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "date_added": "2024-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174893,
+      "name": "NIGHT",
+      "url": "https://open.spotify.com/track/4TjypNhCmZhTTBBkD39RiZ"
     },
     {
       "album": {

@@ -8035,6 +8035,24 @@
     },
     {
       "album": {
+        "name": "Penumbra",
+        "url": "https://open.spotify.com/album/6Tzbh7jg6UDkELlI4sZ2NS"
+      },
+      "artists": [
+        {
+          "name": "Glenn Natale",
+          "url": "https://open.spotify.com/artist/4z0Dltam2MLIOC06UvwVel"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171312,
+      "name": "Penumbra",
+      "url": "https://open.spotify.com/track/75RUCsqgTfDJtapy9sIxwQ"
+    },
+    {
+      "album": {
         "name": "Peregrine",
         "url": "https://open.spotify.com/album/52YTCEVKNlvcSpjkg4eE1Z"
       },
@@ -8460,7 +8478,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-07",
       "duration_ms": 123750,
       "name": "P\u00e9cs",
       "url": "https://open.spotify.com/track/5V38Yb2mGq3AgKwh5WA49i"

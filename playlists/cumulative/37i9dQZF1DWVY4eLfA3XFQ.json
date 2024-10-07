@@ -6729,6 +6729,24 @@
     },
     {
       "album": {
+        "name": "D.A.N.C.E",
+        "url": "https://open.spotify.com/album/4lT8F3ZtFCmtsiY206o13Y"
+      },
+      "artists": [
+        {
+          "name": "Illyus & Barrientos",
+          "url": "https://open.spotify.com/artist/6n5ccknvteaKfN4WA2qf3C"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157142,
+      "name": "D.A.N.C.E",
+      "url": "https://open.spotify.com/track/2mnQZtS74Agt6mJPv5eqzY"
+    },
+    {
+      "album": {
         "name": "Da Feeling",
         "url": "https://open.spotify.com/album/0cNGG4vhhA9ZL2gdmlbvYm"
       },
@@ -10446,7 +10464,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-07",
       "duration_ms": 162857,
       "name": "Feed the Streets",
       "url": "https://open.spotify.com/track/36FtOrFvDau6Anv4Enx8pS"

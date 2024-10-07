@@ -1,6 +1,6 @@
 {
   "description": "Tem Sertanejo! Tem Funk! Tem Pagode! A melhor trilha pra embalar o seu churrasco.",
-  "num_followers": 831302,
+  "num_followers": 831375,
   "original_name": "Sol e Churrasco",
   "owner": {
     "name": "Spotify",
@@ -127,6 +127,22 @@
     {
       "added_at": "2024-07-09 12:43:17",
       "album": {
+        "name": "Todos Os Cantos, Vol. 3 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0q1sCNFTFPy66A2zeK8qh5"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00edlia Mendon\u00e7a",
+          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
+        }
+      ],
+      "duration_ms": 147748,
+      "name": "Supera - Ao Vivo",
+      "url": "https://open.spotify.com/track/3GmJxfnUDrIs1iCfKUELFz"
+    },
+    {
+      "added_at": "2024-07-09 12:43:17",
+      "album": {
         "name": "Vento Forte",
         "url": "https://open.spotify.com/album/6eqgOX2XCH1I0LdJIMtMtT"
       },
@@ -179,22 +195,6 @@
       "duration_ms": 179644,
       "name": "Evoluiu",
       "url": "https://open.spotify.com/track/0WhDotK0QXigmsrlw0DxKK"
-    },
-    {
-      "added_at": "2024-07-09 12:43:17",
-      "album": {
-        "name": "Todos Os Cantos, Vol. 3 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0q1sCNFTFPy66A2zeK8qh5"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00edlia Mendon\u00e7a",
-          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
-        }
-      ],
-      "duration_ms": 147748,
-      "name": "Supera - Ao Vivo",
-      "url": "https://open.spotify.com/track/3GmJxfnUDrIs1iCfKUELFz"
     },
     {
       "added_at": "2024-07-09 12:43:17",
@@ -279,26 +279,6 @@
     {
       "added_at": "2024-07-09 12:43:17",
       "album": {
-        "name": "Bebe e Vem Me Procurar / Quem Ama Sente Saudade (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3GBBYTV5NTTn95v2z2ECyP"
-      },
-      "artists": [
-        {
-          "name": "Turma do Pagode",
-          "url": "https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5"
-        },
-        {
-          "name": "Grupo Menos \u00c9 Mais",
-          "url": "https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi"
-        }
-      ],
-      "duration_ms": 216818,
-      "name": "Bebe e Vem Me Procurar / Quem Ama Sente Saudade (Ao Vivo)",
-      "url": "https://open.spotify.com/track/5A4DlgM68SnFSKImnMeiUH"
-    },
-    {
-      "added_at": "2024-07-09 12:43:17",
-      "album": {
         "name": "Festa das Patroas 35%",
         "url": "https://open.spotify.com/album/5S0cTPPACcLQxZPe2X88bQ"
       },
@@ -319,6 +299,26 @@
     {
       "added_at": "2024-07-09 12:43:17",
       "album": {
+        "name": "Bebe e Vem Me Procurar / Quem Ama Sente Saudade (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3GBBYTV5NTTn95v2z2ECyP"
+      },
+      "artists": [
+        {
+          "name": "Turma do Pagode",
+          "url": "https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5"
+        },
+        {
+          "name": "Grupo Menos \u00c9 Mais",
+          "url": "https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi"
+        }
+      ],
+      "duration_ms": 216818,
+      "name": "Bebe e Vem Me Procurar / Quem Ama Sente Saudade (Ao Vivo)",
+      "url": "https://open.spotify.com/track/5A4DlgM68SnFSKImnMeiUH"
+    },
+    {
+      "added_at": "2024-07-09 12:43:17",
+      "album": {
         "name": "Parada Louca",
         "url": "https://open.spotify.com/album/3yHH2TjeBsCGSv5Nb2mNrn"
       },
@@ -335,6 +335,22 @@
       "duration_ms": 179031,
       "name": "Parada Louca",
       "url": "https://open.spotify.com/track/72g37RoelSnovZakG5MwnF"
+    },
+    {
+      "added_at": "2024-07-09 12:43:17",
+      "album": {
+        "name": "Atitude 67 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5hxexa4StN8STmpxFQaG9n"
+      },
+      "artists": [
+        {
+          "name": "Atitude 67",
+          "url": "https://open.spotify.com/artist/1vp5pm1DluN0sNXx4tMZzo"
+        }
+      ],
+      "duration_ms": 178373,
+      "name": "Saideira - Ao Vivo",
+      "url": "https://open.spotify.com/track/2UmKWMYAqRlAYfDum7qryt"
     },
     {
       "added_at": "2024-07-09 12:43:17",
@@ -375,22 +391,6 @@
     {
       "added_at": "2024-07-09 12:43:17",
       "album": {
-        "name": "Atitude 67 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5hxexa4StN8STmpxFQaG9n"
-      },
-      "artists": [
-        {
-          "name": "Atitude 67",
-          "url": "https://open.spotify.com/artist/1vp5pm1DluN0sNXx4tMZzo"
-        }
-      ],
-      "duration_ms": 178373,
-      "name": "Saideira - Ao Vivo",
-      "url": "https://open.spotify.com/track/2UmKWMYAqRlAYfDum7qryt"
-    },
-    {
-      "added_at": "2024-07-09 12:43:17",
-      "album": {
         "name": "Amor Falsificado",
         "url": "https://open.spotify.com/album/39lPbTks55YEHh4J9yZqpT"
       },
@@ -407,22 +407,6 @@
       "duration_ms": 206804,
       "name": "Amor Falsificado",
       "url": "https://open.spotify.com/track/6WnwnMSRkihOPbuC7TN3BR"
-    },
-    {
-      "added_at": "2024-07-09 12:43:17",
-      "album": {
-        "name": "Todos Os Cantos, Vol. 2 (ao Vivo)",
-        "url": "https://open.spotify.com/album/3mTbv6MyAR4KEDh0w8s9Nk"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00edlia Mendon\u00e7a",
-          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
-        }
-      ],
-      "duration_ms": 156371,
-      "name": "Serenata - Ao Vivo",
-      "url": "https://open.spotify.com/track/5fY9bVl1Wj4PIM3wnduWop"
     },
     {
       "added_at": "2024-07-09 12:43:17",
@@ -455,6 +439,22 @@
       "duration_ms": 140942,
       "name": "Batom de Cereja - Ao Vivo",
       "url": "https://open.spotify.com/track/2MZQAvsA7aZDssppBLRxYp"
+    },
+    {
+      "added_at": "2024-07-09 12:43:17",
+      "album": {
+        "name": "Todos Os Cantos, Vol. 2 (ao Vivo)",
+        "url": "https://open.spotify.com/album/3mTbv6MyAR4KEDh0w8s9Nk"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00edlia Mendon\u00e7a",
+          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
+        }
+      ],
+      "duration_ms": 156371,
+      "name": "Serenata - Ao Vivo",
+      "url": "https://open.spotify.com/track/5fY9bVl1Wj4PIM3wnduWop"
     },
     {
       "added_at": "2024-07-09 12:43:17",
@@ -499,6 +499,26 @@
     {
       "added_at": "2024-07-09 12:43:17",
       "album": {
+        "name": "Churrasquinho Menos \u00c9 Mais, Vol. 2",
+        "url": "https://open.spotify.com/album/0ni6zhrp00jfoI0lswSrGv"
+      },
+      "artists": [
+        {
+          "name": "Grupo Menos \u00c9 Mais",
+          "url": "https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi"
+        },
+        {
+          "name": "Dilsinho",
+          "url": "https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg"
+        }
+      ],
+      "duration_ms": 318038,
+      "name": "Quando Voc\u00ea Me Beija / Eternamente / Depois da Briga",
+      "url": "https://open.spotify.com/track/5ruG18WndCCaU4f0ZMwehj"
+    },
+    {
+      "added_at": "2024-07-09 12:43:17",
+      "album": {
         "name": "VIBE (Ao Vivo)",
         "url": "https://open.spotify.com/album/47l1S7yxz9zAO6K5gDori3"
       },
@@ -531,26 +551,6 @@
     {
       "added_at": "2024-07-09 12:43:17",
       "album": {
-        "name": "Churrasquinho Menos \u00c9 Mais, Vol. 2",
-        "url": "https://open.spotify.com/album/0ni6zhrp00jfoI0lswSrGv"
-      },
-      "artists": [
-        {
-          "name": "Grupo Menos \u00c9 Mais",
-          "url": "https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi"
-        },
-        {
-          "name": "Dilsinho",
-          "url": "https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg"
-        }
-      ],
-      "duration_ms": 318038,
-      "name": "Quando Voc\u00ea Me Beija / Eternamente / Depois da Briga",
-      "url": "https://open.spotify.com/track/5ruG18WndCCaU4f0ZMwehj"
-    },
-    {
-      "added_at": "2024-07-09 12:43:17",
-      "album": {
         "name": "Open House (Ao Vivo)",
         "url": "https://open.spotify.com/album/69BEwRfwBeIpoene374tX2"
       },
@@ -571,22 +571,6 @@
     {
       "added_at": "2024-07-09 12:43:17",
       "album": {
-        "name": "Todos Os Cantos, Vol. 2 (ao Vivo)",
-        "url": "https://open.spotify.com/album/3mTbv6MyAR4KEDh0w8s9Nk"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00edlia Mendon\u00e7a",
-          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
-        }
-      ],
-      "duration_ms": 154661,
-      "name": "Todo Mundo Vai Sofrer - Ao Vivo",
-      "url": "https://open.spotify.com/track/4E6RdcCWMiHTu7zy1VTNDo"
-    },
-    {
-      "added_at": "2024-07-09 12:43:17",
-      "album": {
         "name": "Arranh\u00e3o (Ao Vivo)",
         "url": "https://open.spotify.com/album/4eELc3RSnehVnvMxk2hy2z"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 153409,
       "name": "Arranh\u00e3o - Ao Vivo",
       "url": "https://open.spotify.com/track/4u06FbRh6FvV2FQZkouzCw"
+    },
+    {
+      "added_at": "2024-07-09 12:43:17",
+      "album": {
+        "name": "Todos Os Cantos, Vol. 2 (ao Vivo)",
+        "url": "https://open.spotify.com/album/3mTbv6MyAR4KEDh0w8s9Nk"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00edlia Mendon\u00e7a",
+          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
+        }
+      ],
+      "duration_ms": 154661,
+      "name": "Todo Mundo Vai Sofrer - Ao Vivo",
+      "url": "https://open.spotify.com/track/4E6RdcCWMiHTu7zy1VTNDo"
     },
     {
       "added_at": "2024-07-09 12:43:17",
@@ -679,26 +679,6 @@
     {
       "added_at": "2024-07-09 12:43:17",
       "album": {
-        "name": "Cora\u00e7\u00e3o Cachorro",
-        "url": "https://open.spotify.com/album/22MXULSCWHEYSofgElYc8d"
-      },
-      "artists": [
-        {
-          "name": "Avine Vinny",
-          "url": "https://open.spotify.com/artist/4KDxYlnGZEiS60pAnfZf4W"
-        },
-        {
-          "name": "Matheus Fernandes",
-          "url": "https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c"
-        }
-      ],
-      "duration_ms": 150802,
-      "name": "Cora\u00e7\u00e3o Cachorro",
-      "url": "https://open.spotify.com/track/2RGIuYTsyyHoOCqW0krvNE"
-    },
-    {
-      "added_at": "2024-07-09 12:43:17",
-      "album": {
         "name": "Hit Contagiante",
         "url": "https://open.spotify.com/album/5da8Quq01mGKZvEpBRfFZh"
       },
@@ -723,6 +703,26 @@
       "duration_ms": 137125,
       "name": "Hit Contagiante",
       "url": "https://open.spotify.com/track/5dKesZwp6deuhEeW8F1UEi"
+    },
+    {
+      "added_at": "2024-07-09 12:43:17",
+      "album": {
+        "name": "Cora\u00e7\u00e3o Cachorro",
+        "url": "https://open.spotify.com/album/22MXULSCWHEYSofgElYc8d"
+      },
+      "artists": [
+        {
+          "name": "Avine Vinny",
+          "url": "https://open.spotify.com/artist/4KDxYlnGZEiS60pAnfZf4W"
+        },
+        {
+          "name": "Matheus Fernandes",
+          "url": "https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c"
+        }
+      ],
+      "duration_ms": 150802,
+      "name": "Cora\u00e7\u00e3o Cachorro",
+      "url": "https://open.spotify.com/track/2RGIuYTsyyHoOCqW0krvNE"
     },
     {
       "added_at": "2024-07-09 12:43:17",
@@ -895,26 +895,6 @@
     {
       "added_at": "2024-07-09 12:43:17",
       "album": {
-        "name": "Nem V\u00e1",
-        "url": "https://open.spotify.com/album/0YMnm4LL80lNTx4webeAS9"
-      },
-      "artists": [
-        {
-          "name": "Matheus Fernandes",
-          "url": "https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c"
-        },
-        {
-          "name": "Z\u00e9 Neto & Cristiano",
-          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
-        }
-      ],
-      "duration_ms": 159639,
-      "name": "Nem V\u00e1",
-      "url": "https://open.spotify.com/track/3MM4J90BLKgagDOMSt5wKM"
-    },
-    {
-      "added_at": "2024-07-09 12:43:17",
-      "album": {
         "name": "Eu e Voc\u00ea Sempre",
         "url": "https://open.spotify.com/album/3pdKrwCCvPYI1o9liG2OMF"
       },
@@ -927,6 +907,22 @@
       "duration_ms": 208173,
       "name": "Me Apaixonei Pela Pessoa Errada",
       "url": "https://open.spotify.com/track/3IbQGxLsZfV8EzA7ILNDwB"
+    },
+    {
+      "added_at": "2024-07-09 12:43:17",
+      "album": {
+        "name": "Adorei",
+        "url": "https://open.spotify.com/album/2jNeKASJ5d7cZ2NNIVLqwb"
+      },
+      "artists": [
+        {
+          "name": "Grupo Menos \u00c9 Mais",
+          "url": "https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi"
+        }
+      ],
+      "duration_ms": 179452,
+      "name": "Adorei",
+      "url": "https://open.spotify.com/track/6rfNbeEGCh8M5AAj879g0r"
     },
     {
       "added_at": "2024-07-09 12:43:17",
@@ -947,18 +943,22 @@
     {
       "added_at": "2024-07-09 12:43:17",
       "album": {
-        "name": "Adorei",
-        "url": "https://open.spotify.com/album/2jNeKASJ5d7cZ2NNIVLqwb"
+        "name": "Nem V\u00e1",
+        "url": "https://open.spotify.com/album/0YMnm4LL80lNTx4webeAS9"
       },
       "artists": [
         {
-          "name": "Grupo Menos \u00c9 Mais",
-          "url": "https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi"
+          "name": "Matheus Fernandes",
+          "url": "https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c"
+        },
+        {
+          "name": "Z\u00e9 Neto & Cristiano",
+          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
         }
       ],
-      "duration_ms": 179452,
-      "name": "Adorei",
-      "url": "https://open.spotify.com/track/6rfNbeEGCh8M5AAj879g0r"
+      "duration_ms": 159639,
+      "name": "Nem V\u00e1",
+      "url": "https://open.spotify.com/track/3MM4J90BLKgagDOMSt5wKM"
     },
     {
       "added_at": "2024-07-09 12:43:17",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2024-07-09 12:43:17",
       "album": {
-        "name": "O Baile do Nego V\u00e9io Ao Vivo Em Jurer\u00ea Internacional",
-        "url": "https://open.spotify.com/album/2k6l4PXSBKKxQJkGtYswBi"
-      },
-      "artists": [
-        {
-          "name": "Alexandre Pires",
-          "url": "https://open.spotify.com/artist/0Rrl4hJQjRAbGtiEwAqS5N"
-        }
-      ],
-      "duration_ms": 176123,
-      "name": "Domingo - Ao Vivo",
-      "url": "https://open.spotify.com/track/5LBMUgKmkheyVJa1Zn6Qoz"
-    },
-    {
-      "added_at": "2024-07-09 12:43:17",
-      "album": {
         "name": "Buteco in Boston (Ao Vivo)",
         "url": "https://open.spotify.com/album/1AebCIKwFh7upRidnha8yo"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 159750,
       "name": "N\u00e3o Me Arranha - Ao Vivo",
       "url": "https://open.spotify.com/track/6ve9hbVnSgJ0vrsRpj18OH"
+    },
+    {
+      "added_at": "2024-07-09 12:43:17",
+      "album": {
+        "name": "O Baile do Nego V\u00e9io Ao Vivo Em Jurer\u00ea Internacional",
+        "url": "https://open.spotify.com/album/2k6l4PXSBKKxQJkGtYswBi"
+      },
+      "artists": [
+        {
+          "name": "Alexandre Pires",
+          "url": "https://open.spotify.com/artist/0Rrl4hJQjRAbGtiEwAqS5N"
+        }
+      ],
+      "duration_ms": 176123,
+      "name": "Domingo - Ao Vivo",
+      "url": "https://open.spotify.com/track/5LBMUgKmkheyVJa1Zn6Qoz"
     },
     {
       "added_at": "2024-07-09 12:43:17",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2024-07-09 12:43:17",
       "album": {
-        "name": "O Embaixador in Cariri (Ao Vivo)",
-        "url": "https://open.spotify.com/album/17jzAujoXwIF60ojew1yHU"
-      },
-      "artists": [
-        {
-          "name": "Gusttavo Lima",
-          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
-        }
-      ],
-      "duration_ms": 215766,
-      "name": "Carreira Solo - Ao Vivo",
-      "url": "https://open.spotify.com/track/1MmS7UIy3J1BTxfGCRvVqN"
-    },
-    {
-      "added_at": "2024-07-09 12:43:17",
-      "album": {
         "name": "Ousadia & Alegria (Ao Vivo)",
         "url": "https://open.spotify.com/album/6FQGBtXpHeJ8loDjSHfMbV"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 148386,
       "name": "Ousadia & Alegria - Ao Vivo",
       "url": "https://open.spotify.com/track/1lSDZa3ZGnwx0YHd04seut"
+    },
+    {
+      "added_at": "2024-07-09 12:43:17",
+      "album": {
+        "name": "O Embaixador in Cariri (Ao Vivo)",
+        "url": "https://open.spotify.com/album/17jzAujoXwIF60ojew1yHU"
+      },
+      "artists": [
+        {
+          "name": "Gusttavo Lima",
+          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
+        }
+      ],
+      "duration_ms": 215766,
+      "name": "Carreira Solo - Ao Vivo",
+      "url": "https://open.spotify.com/track/1MmS7UIy3J1BTxfGCRvVqN"
     },
     {
       "added_at": "2024-07-09 12:43:17",
@@ -1419,6 +1419,22 @@
     {
       "added_at": "2024-07-09 12:43:17",
       "album": {
+        "name": "Falando de Amor, Vol. 2",
+        "url": "https://open.spotify.com/album/4AmYNtcUeuaLZfQo5uDTKh"
+      },
+      "artists": [
+        {
+          "name": "Gusttavo Lima",
+          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
+        }
+      ],
+      "duration_ms": 179872,
+      "name": "O Ex da Sua Vida",
+      "url": "https://open.spotify.com/track/17Gh6E6eRfAAw7sCgmnkFc"
+    },
+    {
+      "added_at": "2024-07-09 12:43:17",
+      "album": {
         "name": "Zeca Pagodinho Naturalmente",
         "url": "https://open.spotify.com/album/4cuDnqSKvOov32t49dDSVv"
       },
@@ -1447,22 +1463,6 @@
       "duration_ms": 179099,
       "name": "Bebi Minha Bicicleta (Cora\u00e7\u00e3o Falido) - Ao Vivo",
       "url": "https://open.spotify.com/track/5qMnAsvgTfHMd5KQpzpnA1"
-    },
-    {
-      "added_at": "2024-07-09 12:43:17",
-      "album": {
-        "name": "Falando de Amor, Vol. 2",
-        "url": "https://open.spotify.com/album/4AmYNtcUeuaLZfQo5uDTKh"
-      },
-      "artists": [
-        {
-          "name": "Gusttavo Lima",
-          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
-        }
-      ],
-      "duration_ms": 179872,
-      "name": "O Ex da Sua Vida",
-      "url": "https://open.spotify.com/track/17Gh6E6eRfAAw7sCgmnkFc"
     },
     {
       "added_at": "2024-07-09 12:43:17",
@@ -1543,6 +1543,22 @@
     {
       "added_at": "2024-07-09 12:43:17",
       "album": {
+        "name": "Buteco in Boston (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1AebCIKwFh7upRidnha8yo"
+      },
+      "artists": [
+        {
+          "name": "Gusttavo Lima",
+          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
+        }
+      ],
+      "duration_ms": 158016,
+      "name": "Teste de Farm\u00e1cia - Ao Vivo",
+      "url": "https://open.spotify.com/track/0ZwGhDJHceKPvg3UAb5OMQ"
+    },
+    {
+      "added_at": "2024-07-09 12:43:17",
+      "album": {
         "name": "Beijo Doce / Brilho de Cristal (Ao Vivo)",
         "url": "https://open.spotify.com/album/6yaax26e6Q88p0dG3PdmCk"
       },
@@ -1591,22 +1607,6 @@
       "duration_ms": 382050,
       "name": "Pot-Pourri: Teu Segredo / J\u00e1 Tentei",
       "url": "https://open.spotify.com/track/03kadiWfqWgnmjlDEhfN8k"
-    },
-    {
-      "added_at": "2024-07-09 12:43:17",
-      "album": {
-        "name": "Buteco in Boston (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1AebCIKwFh7upRidnha8yo"
-      },
-      "artists": [
-        {
-          "name": "Gusttavo Lima",
-          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
-        }
-      ],
-      "duration_ms": 158016,
-      "name": "Teste de Farm\u00e1cia - Ao Vivo",
-      "url": "https://open.spotify.com/track/0ZwGhDJHceKPvg3UAb5OMQ"
     },
     {
       "added_at": "2024-07-09 12:43:17",
@@ -1723,22 +1723,6 @@
     {
       "added_at": "2024-07-09 12:43:17",
       "album": {
-        "name": "Manifesto Musical (Ao Vivo)",
-        "url": "https://open.spotify.com/album/44apM3pC4x6oLt5ULbtV3j"
-      },
-      "artists": [
-        {
-          "name": "Henrique & Juliano",
-          "url": "https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT"
-        }
-      ],
-      "duration_ms": 195039,
-      "name": "Gaiola - Ao Vivo",
-      "url": "https://open.spotify.com/track/7qQPvdV9ussEfEZ6nfhbqr"
-    },
-    {
-      "added_at": "2024-07-09 12:43:17",
-      "album": {
         "name": "Imagina A Sentada \u2013 Spotify Singles",
         "url": "https://open.spotify.com/album/2hOfhy0hVRFPtuhMTaBNjg"
       },
@@ -1755,18 +1739,38 @@
     {
       "added_at": "2024-07-09 12:43:17",
       "album": {
-        "name": "LUAN CITY (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7z4PSl2TK6FVUlTjyVyRRX"
+        "name": "Manifesto Musical (Ao Vivo)",
+        "url": "https://open.spotify.com/album/44apM3pC4x6oLt5ULbtV3j"
       },
       "artists": [
         {
-          "name": "Luan Santana",
-          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
+          "name": "Henrique & Juliano",
+          "url": "https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT"
         }
       ],
-      "duration_ms": 158074,
-      "name": "ME USA - Ao Vivo",
-      "url": "https://open.spotify.com/track/16kELcGATL5IWb5RylAxBI"
+      "duration_ms": 195039,
+      "name": "Gaiola - Ao Vivo",
+      "url": "https://open.spotify.com/track/7qQPvdV9ussEfEZ6nfhbqr"
+    },
+    {
+      "added_at": "2024-07-09 12:43:17",
+      "album": {
+        "name": "Show Fechou",
+        "url": "https://open.spotify.com/album/14CSj0bmnQt4HjFHoRZBB4"
+      },
+      "artists": [
+        {
+          "name": "Di Prop\u00f3sito",
+          "url": "https://open.spotify.com/artist/2uSwBbWqsXgoMYQjynmwQ7"
+        },
+        {
+          "name": "Diego & Victor Hugo",
+          "url": "https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF"
+        }
+      ],
+      "duration_ms": 165102,
+      "name": "Show Fechou",
+      "url": "https://open.spotify.com/track/5TNhSOkUrdJ0TkIa2GqjeH"
     },
     {
       "added_at": "2024-07-09 12:43:17",
@@ -1791,22 +1795,18 @@
     {
       "added_at": "2024-07-09 12:43:17",
       "album": {
-        "name": "Evoluiu, Pt. 1 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4RuiLiqSdL0dClN0JRtDVk"
+        "name": "LUAN CITY (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7z4PSl2TK6FVUlTjyVyRRX"
       },
       "artists": [
         {
-          "name": "MC Kevin o Chris",
-          "url": "https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ"
-        },
-        {
-          "name": "Ferrugem",
-          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
+          "name": "Luan Santana",
+          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
         }
       ],
-      "duration_ms": 162176,
-      "name": "Romance Proibido - Ao Vivo",
-      "url": "https://open.spotify.com/track/2UxeBJPanPvF3Q2xH6zkbC"
+      "duration_ms": 158074,
+      "name": "ME USA - Ao Vivo",
+      "url": "https://open.spotify.com/track/16kELcGATL5IWb5RylAxBI"
     }
   ],
   "unique_name": "Sol e Churrasco",

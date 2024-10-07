@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEV4d0s2cp9N.md) - [plain]
 | 3 | [FEARLESS \(2023 Ver.\)](https://open.spotify.com/track/4K8jDTlNhZWEdnzZVGRMtN) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [UNFORGIVEN](https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT) | 2:48 |
 | 4 | [Good Boy Gone Bad](https://open.spotify.com/track/1HsSIPLTQT354yJcQGfEY3) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [minisode 2: Thursday's Child](https://open.spotify.com/album/1o8jYrnyZueTPIdhlHuTc8) | 3:11 |
 | 5 | [Impurities](https://open.spotify.com/track/7mYwDmbbp8UPLlnRjTJ54X) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [UNFORGIVEN](https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT) | 3:16 |
-| 6 | [Brooklyn](https://open.spotify.com/track/6VcBDMF2ykm5HDcJMVLRZW) | [Glockenbach](https://open.spotify.com/artist/7GZJ2POiwPZoW7UVYjNj8i), [ClockClock](https://open.spotify.com/artist/4NSzuIc0eGOftqr0tEOhJk) | [Brooklyn](https://open.spotify.com/album/5wZuxZwyDfLnpIFvX4g90B) | 3:02 |
-| 7 | [Devil by the Window](https://open.spotify.com/track/53H3sGmqiXWO4MwuZAJfyn) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Name Chapter: TEMPTATION](https://open.spotify.com/album/7gkb4MxKe9rnoR3wxbJXJg) | 3:06 |
+| 6 | [Devil by the Window](https://open.spotify.com/track/53H3sGmqiXWO4MwuZAJfyn) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Name Chapter: TEMPTATION](https://open.spotify.com/album/7gkb4MxKe9rnoR3wxbJXJg) | 3:06 |
+| 7 | [Brooklyn](https://open.spotify.com/track/6VcBDMF2ykm5HDcJMVLRZW) | [Glockenbach](https://open.spotify.com/artist/7GZJ2POiwPZoW7UVYjNj8i), [ClockClock](https://open.spotify.com/artist/4NSzuIc0eGOftqr0tEOhJk) | [Brooklyn](https://open.spotify.com/album/5wZuxZwyDfLnpIFvX4g90B) | 3:02 |
 | 8 | [FOREVER](https://open.spotify.com/track/47QP509sXnE54NwhzoMHAi) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [FOREVER](https://open.spotify.com/album/4MxSuIIvLMFtfL5pwa0cJh) | 3:32 |
 | 9 | [Dolls](https://open.spotify.com/track/0tFUl3tPqBzUM2aV0gitdq) | [Bella Poarch](https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm) | [Dolls](https://open.spotify.com/album/6NgwO4JwL6tuwwQObi0HBe) | 2:12 |
 | 10 | [Ghosting](https://open.spotify.com/track/4dhqV0dDD8CqPjfJohqTmj) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [minisode1 : Blue Hour](https://open.spotify.com/album/4usjdWBMHtZyhdqcbTrLB2) | 3:43 |
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEV4d0s2cp9N.md) - [plain]
 | 53 | [Lean In \- Interlude](https://open.spotify.com/track/3oMmlRcDyZjCedCuKqJGjC) | [Ruuth](https://open.spotify.com/artist/6BsONo5WrLwCzPZ2qHKoN4) | [All My Friends](https://open.spotify.com/album/1QqOH1FEXP73RMHPS1gNTd) | 1:44 |
 | 54 | [Gasoline \- Intro](https://open.spotify.com/track/6T0jiuBv0IMS9ON1MxNIhv) | [Ruuth](https://open.spotify.com/artist/6BsONo5WrLwCzPZ2qHKoN4) | [All My Friends](https://open.spotify.com/album/1QqOH1FEXP73RMHPS1gNTd) | 1:15 |
 
-Snapshot ID: `Abd/6gAAAAD3HUoR/SKw7XfJNoImb1J5`
+Snapshot ID: `AbeFigAAAAAaorubbr0fGJAKyF8rPBWb`

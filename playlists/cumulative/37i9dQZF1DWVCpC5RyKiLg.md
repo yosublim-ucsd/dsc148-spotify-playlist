@@ -4,7 +4,7 @@
 
 > Pagode e Sertanejo pura sofrência para te acompanhar na faxina!
 
-189 songs - 10 hr 22 min
+190 songs - 10 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Até que enfim \- Ao vivo](https://open.spotify.com/track/1zI3RU0boCVsAXChjCvESu) | [Ferrugem](https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2) | [Chão de estrelas \(Ao vivo\)](https://open.spotify.com/album/2sRaJ90PEqpDf1XU0T4zun) | 3:44 | 2022-01-27 |  |
 | [Até Você Voltar](https://open.spotify.com/track/4ksSf8cL3VlUvQSkFcRHy3) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Até Você Voltar \- Single](https://open.spotify.com/album/7ufAQ7EXPaaozbcIWszU5F) | 3:24 | 2022-01-27 |  |
 | [Ausência \- Ao Vivo \| Acústico](https://open.spotify.com/track/5czCFvsdcKKkWdwT2AAAZC) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Agora É Que São Elas 2 \(Ao Vivo \| Acústico\)](https://open.spotify.com/album/2NLcvAUpdh2P3iIZxiEbs4) | 2:29 | 2022-01-27 | 2022-07-29 |
+| [Beber Com Emergência \- Ao Vivo](https://open.spotify.com/track/1IcbQvHb9B7MikgQjfJtAl) | [Jefferson Moraes](https://open.spotify.com/artist/40t5KmKTi2ajyJmerMYY4C) | [Start In São Paulo \(ao Vivo\)](https://open.spotify.com/album/33pKsFhYvUCQkZTmUx4h9k) | 2:16 | 2024-09-27 |  |
 | [Bebi Minha Bicicleta \(Coração Falido\) \- Ao Vivo](https://open.spotify.com/track/5qMnAsvgTfHMd5KQpzpnA1) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Bebi Minha Bicicleta \(Coração Falido\) \(ao Vivo\)](https://open.spotify.com/album/5Qn8laDtOhTweODnPud3KP) | 2:59 | 2022-01-27 | 2022-05-21 |
 | [Bebida Na Ferida \- Ao Vivo](https://open.spotify.com/track/50YbE5MrvSu8Fz6A2dgTZ8) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Esquece o Mundo Lá Fora \(Ao Vivo\) \- Deluxe](https://open.spotify.com/album/0wQ5Sn6RU4yL6WpeiWSaBN) | 3:19 | 2022-01-27 |  |
 | [Beijo De Varanda \- Ao Vivo](https://open.spotify.com/track/2E8Shaw5menB7ImgCQA4th) | [Bruno & Marrone](https://open.spotify.com/artist/5JXhkyafynxCvxtov7C1PV) | [Ensaio \(Ao Vivo\)](https://open.spotify.com/album/7qq2SnvgPsm5Uz79LaKN2T) | 2:41 | 2022-01-27 |  |
@@ -186,7 +187,7 @@
 | [Uma Vida a Mais \(Listen To Your Heart\)](https://open.spotify.com/track/2hqRWWmbHT9CTc5a4a9NVe) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8), [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Festa das Patroas](https://open.spotify.com/album/4IzsHOBctS66OP3dHXTJsG) | 3:50 | 2022-01-27 | 2022-10-31 |
 | [Vai por Mim](https://open.spotify.com/track/5DgTJpZB8OEqjAmfZZJQsE) | [Péricles](https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z), [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Deserto da Ilusão](https://open.spotify.com/album/2feJXjSywZ2RGNAJAoJzGS) | 3:40 | 2022-01-27 | 2022-07-12 |
 | [Vem \- Ao Vivo](https://open.spotify.com/track/2xK5QiyUZufKPSvB7bLHxa) | [Atitude 67](https://open.spotify.com/artist/1vp5pm1DluN0sNXx4tMZzo) | [Laje 67 \(Ao Vivo\)](https://open.spotify.com/album/7qlRgh3d6oIFPdfOPs7I5u) | 3:14 | 2022-01-27 | 2022-12-16 |
-| [Vidro Fumê \- Ao Vivo](https://open.spotify.com/track/4JHeRGCG7AZeaplGFQIarO) | [Bruno & Marrone](https://open.spotify.com/artist/5JXhkyafynxCvxtov7C1PV) | [Pela Porta da Frente](https://open.spotify.com/album/5a792NJrWn34jwktaRAewS) | 3:30 | 2024-09-27 |  |
+| [Vidro Fumê \- Ao Vivo](https://open.spotify.com/track/4JHeRGCG7AZeaplGFQIarO) | [Bruno & Marrone](https://open.spotify.com/artist/5JXhkyafynxCvxtov7C1PV) | [Pela Porta da Frente](https://open.spotify.com/album/5a792NJrWn34jwktaRAewS) | 3:30 | 2024-09-27 | 2024-10-07 |
 | [Viralizou](https://open.spotify.com/track/1iqtSVnlAR39kQghsbb4dL) | [Thaeme & Thiago](https://open.spotify.com/artist/7ABjmCErFBTzoGMVoQc2Sh), [Japinha Conde](https://open.spotify.com/artist/4G3B4Z3ipxgw6DIrdFd04n) | [Viralizou](https://open.spotify.com/album/4Igyx8sGZq5Cy3cY9rzrbr) | 2:30 | 2022-06-10 | 2022-09-15 |
 | [Viva Voz \- Ao Vivo Em São Paulo / 2019](https://open.spotify.com/track/08Sd5vVcIH3uKeAiaJdoYj) | [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y) | [Livre \(Ao Vivo / Vol.1\)](https://open.spotify.com/album/2lM6OIrHRmkhGQDRVycxjO) | 2:44 | 2022-01-27 | 2022-07-27 |
 | [Viva Voz \- Ao Vivo Em São Paulo / 2019](https://open.spotify.com/track/1jomN1tLiPE5eGd9siFJYE) | [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y) | [Livre \(Ao Vivo / Deluxe\)](https://open.spotify.com/album/5XzBQMo9WMrpRlgoBaeTIf) | 2:44 | 2022-06-10 | 2024-04-19 |

@@ -2,7 +2,7 @@
 
 ### [This Is Def Leppard](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3Xft72)
 
-> This is Def Leppard\. The essential tracks, all in one playlist.
+> This Is Def Leppard\. Los temas esenciales, todos en una lista.
 
 86 songs - 6 hr 13 min
 
@@ -37,8 +37,8 @@
 | [Hysteria](https://open.spotify.com/track/3Qmd2CaJzPkqZEh2Tc50Bl) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1), [Robert Ziegler](https://open.spotify.com/artist/6c3mMiMnHQtu4mGWN87CFx), [Ian Maclay](https://open.spotify.com/artist/345GATJZugQUwdn8rbsKCS) | [Drastic Symphonies](https://open.spotify.com/album/1mUwxZgyoD795awXthjCSu) | 5:54 | 2023-05-07 | 2023-06-01 |
 | [Hysteria](https://open.spotify.com/track/1xr60ad0ceUktHQ1qDn44Q) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1), [Robert Ziegler](https://open.spotify.com/artist/6c3mMiMnHQtu4mGWN87CFx), [Ian Maclay](https://open.spotify.com/artist/345GATJZugQUwdn8rbsKCS) | [Drastic Symphonies](https://open.spotify.com/album/3PDLbK0bOItRcERH1ScztR) | 5:55 | 2023-05-31 |  |
 | [Hysteria \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/2RWd4riqvRVk586L76g9Vq) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Spotify Singles](https://open.spotify.com/album/31LKYg7MAykCp1E7DSRox6) | 6:05 | 2022-11-04 | 2023-05-08 |
-| [I Wanna Touch U](https://open.spotify.com/track/3P0dOhy7Vz9KIub2Ay1b2x) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Adrenalize](https://open.spotify.com/album/7FKcbsCm4eoDWTMTNCUUqw) | 3:37 | 2022-11-04 |  |
-| [It Could Be You](https://open.spotify.com/track/0AMMTP6BXOv8xadqqR3GSC) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [On Through The Night](https://open.spotify.com/album/7AWItpp4bk6lA1wFtcfWRj) | 2:33 | 2023-05-03 | 2024-09-23 |
+| [I Wanna Touch U](https://open.spotify.com/track/3P0dOhy7Vz9KIub2Ay1b2x) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Adrenalize](https://open.spotify.com/album/7FKcbsCm4eoDWTMTNCUUqw) | 3:37 | 2022-11-04 | 2024-10-07 |
+| [It Could Be You](https://open.spotify.com/track/0AMMTP6BXOv8xadqqR3GSC) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [On Through The Night](https://open.spotify.com/album/7AWItpp4bk6lA1wFtcfWRj) | 2:33 | 2023-05-03 |  |
 | [Just Like 73 \- Tom Morello Version](https://open.spotify.com/track/11DxHa7QIQ5NfdiHstN2O2) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ), [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed) | [Just Like 73 \- Tom Morello Version](https://open.spotify.com/album/7afy0Ytt67hzFxYlLzmKyq) | 3:43 | 2024-06-16 |  |
 | [Kick](https://open.spotify.com/track/0sVq4exSBXyXP86svk8JBV) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Diamond Star Halos](https://open.spotify.com/album/5arLkguGPIDSGzCT8Cjt6K) | 3:42 | 2023-03-17 |  |
 | [Kick](https://open.spotify.com/track/2l0P9ERrM4S0T0uX9BcX7h) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Kick](https://open.spotify.com/album/5Hckd2gMvqMuVJwrV7lFtl) | 3:42 | 2022-11-04 | 2023-03-18 |

@@ -1,6 +1,6 @@
 {
   "description": "\u00a1A preparar la comida con la saz\u00f3n de m\u00fasica tradicional y deliciosa! \ud83c\udf45\ud83c\udf36\ufe0f\ud83c\udf72\ud83c\udfb5\ud83d\udc69\u200d\ud83c\udf73",
-  "num_followers": 44518,
+  "num_followers": 44519,
   "original_name": "Cocina Tradicional",
   "owner": {
     "name": "Spotify",
@@ -211,6 +211,22 @@
     {
       "added_at": "2022-01-11 03:10:29",
       "album": {
+        "name": "RCA 100 A\u00f1os De Musica",
+        "url": "https://open.spotify.com/album/0vJ6OuVc98sUYHf8kan8qh"
+      },
+      "artists": [
+        {
+          "name": "To\u00f1a La Negra",
+          "url": "https://open.spotify.com/artist/2NRvtXR7xPvvJGoWov1YJ3"
+        }
+      ],
+      "duration_ms": 102200,
+      "name": "Palmera",
+      "url": "https://open.spotify.com/track/1thsP19THIiLrpxIPqEteA"
+    },
+    {
+      "added_at": "2022-01-11 03:10:29",
+      "album": {
         "name": "Sympathique",
         "url": "https://open.spotify.com/album/2y2CKDqSlMlPw6trrKwjzC"
       },
@@ -247,22 +263,6 @@
       "duration_ms": 180640,
       "name": "Cumbia del Mole",
       "url": "https://open.spotify.com/track/1sdWXIMZe8mBwzLC8jKdq7"
-    },
-    {
-      "added_at": "2022-01-11 03:10:29",
-      "album": {
-        "name": "RCA 100 A\u00f1os De Musica",
-        "url": "https://open.spotify.com/album/0vJ6OuVc98sUYHf8kan8qh"
-      },
-      "artists": [
-        {
-          "name": "To\u00f1a La Negra",
-          "url": "https://open.spotify.com/artist/2NRvtXR7xPvvJGoWov1YJ3"
-        }
-      ],
-      "duration_ms": 102200,
-      "name": "Palmera",
-      "url": "https://open.spotify.com/track/1thsP19THIiLrpxIPqEteA"
     },
     {
       "added_at": "2020-05-28 20:45:13",
@@ -695,22 +695,6 @@
     {
       "added_at": "2020-05-28 20:45:13",
       "album": {
-        "name": "Batazo Batero",
-        "url": "https://open.spotify.com/album/5ajMRxW6NnJUUl3tq0WzFM"
-      },
-      "artists": [
-        {
-          "name": "Los Propios Bateros",
-          "url": "https://open.spotify.com/artist/27lsT9bLRBVy2lNW7DwmeC"
-        }
-      ],
-      "duration_ms": 298253,
-      "name": "Batazo Batero",
-      "url": "https://open.spotify.com/track/2sLMPlRSLlDBUiu6bECQjr"
-    },
-    {
-      "added_at": "2020-05-28 20:45:13",
-      "album": {
         "name": "Banda de los Muertos",
         "url": "https://open.spotify.com/album/2zkMyaGBpT2swb6k90jmO1"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 187440,
       "name": "Ay Mexicanita",
       "url": "https://open.spotify.com/track/15Aju7YDD1m8LEwyoJGxTX"
+    },
+    {
+      "added_at": "2020-05-28 20:45:13",
+      "album": {
+        "name": "Batazo Batero",
+        "url": "https://open.spotify.com/album/5ajMRxW6NnJUUl3tq0WzFM"
+      },
+      "artists": [
+        {
+          "name": "Los Propios Bateros",
+          "url": "https://open.spotify.com/artist/27lsT9bLRBVy2lNW7DwmeC"
+        }
+      ],
+      "duration_ms": 298253,
+      "name": "Batazo Batero",
+      "url": "https://open.spotify.com/track/2sLMPlRSLlDBUiu6bECQjr"
     },
     {
       "added_at": "2020-05-28 20:45:13",
@@ -759,22 +759,6 @@
     {
       "added_at": "2020-05-28 20:45:13",
       "album": {
-        "name": "Latin Soul Syndicate",
-        "url": "https://open.spotify.com/album/4RX2MCsif63EAl7nM8JBiO"
-      },
-      "artists": [
-        {
-          "name": "Latin Soul Syndicate",
-          "url": "https://open.spotify.com/artist/7hxIk7Xc5inSXA4uXHUSps"
-        }
-      ],
-      "duration_ms": 239760,
-      "name": "Frida Kahlo aka Mamasita",
-      "url": "https://open.spotify.com/track/0kVOs0kuxFduJQSGA3YA3x"
-    },
-    {
-      "added_at": "2020-05-28 20:45:13",
-      "album": {
         "name": "Guantanamera - The Essential Album",
         "url": "https://open.spotify.com/album/4W6m2GSdqjaJET161icuDU"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 270133,
       "name": "Chicharrones",
       "url": "https://open.spotify.com/track/0wQ2xkadkllQgL1mVQ4rSE"
+    },
+    {
+      "added_at": "2020-05-28 20:45:13",
+      "album": {
+        "name": "Latin Soul Syndicate",
+        "url": "https://open.spotify.com/album/4RX2MCsif63EAl7nM8JBiO"
+      },
+      "artists": [
+        {
+          "name": "Latin Soul Syndicate",
+          "url": "https://open.spotify.com/artist/7hxIk7Xc5inSXA4uXHUSps"
+        }
+      ],
+      "duration_ms": 239760,
+      "name": "Frida Kahlo aka Mamasita",
+      "url": "https://open.spotify.com/track/0kVOs0kuxFduJQSGA3YA3x"
     },
     {
       "added_at": "2022-01-11 03:10:29",
@@ -1001,22 +1001,6 @@
       "url": "https://open.spotify.com/track/2xirjKVetY5wxvw3hAuELH"
     },
     {
-      "added_at": "2020-05-28 20:45:13",
-      "album": {
-        "name": "El Brown Recluse",
-        "url": "https://open.spotify.com/album/1nZ9k3BHISZbbTy3uIMV7O"
-      },
-      "artists": [
-        {
-          "name": "Charanga Cakewalk",
-          "url": "https://open.spotify.com/artist/6n57hcHUAiNVQ8CwSOz2SN"
-        }
-      ],
-      "duration_ms": 259746,
-      "name": "Cumbia Pa Modernos",
-      "url": "https://open.spotify.com/track/48msusnRNPnqKeD9nFA1mB"
-    },
-    {
       "added_at": "2022-01-11 03:10:29",
       "album": {
         "name": "Por siempre Los Panchos, Vol. 1 - Noche de ronda y otros \u00e9xitos (Remastered)",
@@ -1051,6 +1035,22 @@
     {
       "added_at": "2020-05-28 20:45:13",
       "album": {
+        "name": "El Brown Recluse",
+        "url": "https://open.spotify.com/album/1nZ9k3BHISZbbTy3uIMV7O"
+      },
+      "artists": [
+        {
+          "name": "Charanga Cakewalk",
+          "url": "https://open.spotify.com/artist/6n57hcHUAiNVQ8CwSOz2SN"
+        }
+      ],
+      "duration_ms": 259746,
+      "name": "Cumbia Pa Modernos",
+      "url": "https://open.spotify.com/track/48msusnRNPnqKeD9nFA1mB"
+    },
+    {
+      "added_at": "2020-05-28 20:45:13",
+      "album": {
         "name": "Dedicated To Nelson",
         "url": "https://open.spotify.com/album/3RUASfTxsMb16WXKKcue8C"
       },
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2022-01-11 03:10:29",
       "album": {
-        "name": "Mar\u00eda Cristina (Remastered)",
-        "url": "https://open.spotify.com/album/0DoO50j6mZVJ3W7vf1YRW3"
-      },
-      "artists": [
-        {
-          "name": "\u00d1ico Saquito",
-          "url": "https://open.spotify.com/artist/0OThc8JLqTb1ThkLfsIGUi"
-        }
-      ],
-      "duration_ms": 158467,
-      "name": "Maria Cristina - Remastered",
-      "url": "https://open.spotify.com/track/5sdcFoCzltb0otINxAFwdl"
-    },
-    {
-      "added_at": "2022-01-11 03:10:29",
-      "album": {
         "name": "15 \u00c9xitos de los Zafiros",
         "url": "https://open.spotify.com/album/2h6wPeAK8c5vr6nCHxHtFj"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 152027,
       "name": "Bossa Cubana",
       "url": "https://open.spotify.com/track/4v4dF3Kfz2gbWEOL7eu92k"
+    },
+    {
+      "added_at": "2022-01-11 03:10:29",
+      "album": {
+        "name": "Mar\u00eda Cristina (Remastered)",
+        "url": "https://open.spotify.com/album/0DoO50j6mZVJ3W7vf1YRW3"
+      },
+      "artists": [
+        {
+          "name": "\u00d1ico Saquito",
+          "url": "https://open.spotify.com/artist/0OThc8JLqTb1ThkLfsIGUi"
+        }
+      ],
+      "duration_ms": 158467,
+      "name": "Maria Cristina - Remastered",
+      "url": "https://open.spotify.com/track/5sdcFoCzltb0otINxAFwdl"
     },
     {
       "added_at": "2022-01-11 03:10:29",
@@ -1117,22 +1117,6 @@
       "url": "https://open.spotify.com/track/5LUlXoQuBZDHPTA9uhdvMp"
     },
     {
-      "added_at": "2022-01-11 03:10:29",
-      "album": {
-        "name": "Los 22 Grandes \u00c9xitos de P\u00e9rez Prado (Remastered)",
-        "url": "https://open.spotify.com/album/4NT0vaw4EP7hApFQCXqmoo"
-      },
-      "artists": [
-        {
-          "name": "P\u00e9rez Prado",
-          "url": "https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT"
-        }
-      ],
-      "duration_ms": 147789,
-      "name": "Mar\u00eda Cristina - Remastered",
-      "url": "https://open.spotify.com/track/5zimrebZIVCXRfcFuVbSqd"
-    },
-    {
       "added_at": "2020-05-28 20:45:13",
       "album": {
         "name": "Songs for Moonlight Swim and Otros Tipos de Ocupaciones",
@@ -1147,6 +1131,22 @@
       "duration_ms": 165800,
       "name": "Allo Mambo",
       "url": "https://open.spotify.com/track/2ZGtVz8et8UW3pdP8Hg4Qx"
+    },
+    {
+      "added_at": "2022-01-11 03:10:29",
+      "album": {
+        "name": "Los 22 Grandes \u00c9xitos de P\u00e9rez Prado (Remastered)",
+        "url": "https://open.spotify.com/album/4NT0vaw4EP7hApFQCXqmoo"
+      },
+      "artists": [
+        {
+          "name": "P\u00e9rez Prado",
+          "url": "https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT"
+        }
+      ],
+      "duration_ms": 147789,
+      "name": "Mar\u00eda Cristina - Remastered",
+      "url": "https://open.spotify.com/track/5zimrebZIVCXRfcFuVbSqd"
     },
     {
       "added_at": "2022-01-11 03:10:29",
@@ -1569,6 +1569,22 @@
       "url": "https://open.spotify.com/track/6wLJjaPujX9AXNvq6OZdDj"
     },
     {
+      "added_at": "2022-01-11 03:10:29",
+      "album": {
+        "name": "Cuba",
+        "url": "https://open.spotify.com/album/7C4Ju0QXdGSv9zquXxCktP"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "duration_ms": 201827,
+      "name": "Tu Voz",
+      "url": "https://open.spotify.com/track/2jdasf6mLTfnf4D7HyN7dC"
+    },
+    {
       "added_at": "2020-05-28 20:45:13",
       "album": {
         "name": "Mis 50 Boleros M\u00e1s Rom\u00e1nticos",
@@ -1617,20 +1633,20 @@
       "url": "https://open.spotify.com/track/3zZHmISLTaGk3wbYu3Ct0o"
     },
     {
-      "added_at": "2022-01-11 03:10:29",
+      "added_at": "2020-05-28 20:45:13",
       "album": {
-        "name": "Cuba",
-        "url": "https://open.spotify.com/album/7C4Ju0QXdGSv9zquXxCktP"
+        "name": "Pa'lante",
+        "url": "https://open.spotify.com/album/1IgfNMFIkkqSoZpjp1aEf9"
       },
       "artists": [
         {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+          "name": "Salom\u00f3n Beda",
+          "url": "https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh"
         }
       ],
-      "duration_ms": 201827,
-      "name": "Tu Voz",
-      "url": "https://open.spotify.com/track/2jdasf6mLTfnf4D7HyN7dC"
+      "duration_ms": 272073,
+      "name": "Lim\u00f3n",
+      "url": "https://open.spotify.com/track/1j2hwajHISJ0BmrAd7y3AK"
     },
     {
       "added_at": "2020-05-28 20:45:13",
@@ -1647,22 +1663,6 @@
       "duration_ms": 193027,
       "name": "Paga la Cuenta Sinverg\u00fcenza",
       "url": "https://open.spotify.com/track/2qSwLZX8vdTsox4IPbQLB8"
-    },
-    {
-      "added_at": "2020-05-28 20:45:13",
-      "album": {
-        "name": "Pa'lante",
-        "url": "https://open.spotify.com/album/1IgfNMFIkkqSoZpjp1aEf9"
-      },
-      "artists": [
-        {
-          "name": "Salom\u00f3n Beda",
-          "url": "https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh"
-        }
-      ],
-      "duration_ms": 272073,
-      "name": "Lim\u00f3n",
-      "url": "https://open.spotify.com/track/1j2hwajHISJ0BmrAd7y3AK"
     }
   ],
   "unique_name": "Cocina Tradicional",

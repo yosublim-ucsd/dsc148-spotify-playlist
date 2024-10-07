@@ -4,7 +4,7 @@
 
 > インターネット・カルチャーから次々と出現するアーティストを特集。Check out artists of the new Internet age! Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-1,208 songs - 2 day 20 hr 54 min
+1,209 songs - 2 day 20 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -490,6 +490,7 @@
 | [だから僕は音楽を辞めた](https://open.spotify.com/track/5j7ixaLeGTGSv4DzKs0pCM) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [だから僕は音楽を辞めた](https://open.spotify.com/album/4b9nOSXSf1LROzgfYFxdxI) | 4:02 | 2023-11-27 |  |
 | [だれかとぼくら](https://open.spotify.com/track/32rUUAJsELuwpkWm7udFhs) | [ネクライトーキー](https://open.spotify.com/artist/45ew0KWgCA7evVgCydrZws) | [MEMORIES2](https://open.spotify.com/album/0ILBvw7Y5Q5Ubu5riIbHTn) | 3:02 | 2022-06-14 | 2022-06-22 |
 | [ちはる \- From THE FIRST TAKE](https://open.spotify.com/track/3zxmaC0wPYQx4yN6F3YPBw) | [キタニタツヤ](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv), [n\-buna from ヨルシカ](https://open.spotify.com/artist/04t2v5rbMcCuLcaczJY6mM) | [ちはる \- From THE FIRST TAKE](https://open.spotify.com/album/5mJZRkYVxNQ27r7RXdsscf) | 4:14 | 2022-06-09 | 2022-07-28 |
+| [つよがるガール](https://open.spotify.com/track/3GxZpsOr0vFZfU30PYULgU) | [ぼっちぼろまる](https://open.spotify.com/artist/62DFXFLKdUqfpvVmJbXAyo), [もっさ](https://open.spotify.com/artist/7a7uhcdZvYg4IGcD9tUB3g) | [つよがるガール](https://open.spotify.com/album/2udxqBTrnKaqPzRLzC5w9K) | 3:09 | 2024-09-24 |  |
 | [ときめきちゅるぴかきゅるるらった](https://open.spotify.com/track/5uSxT6i3vKlZYnLKQsHTmm) | [P丸様｡](https://open.spotify.com/artist/4hUWwJ0fRLx9rYtUvT26Ii) | [ラブホリック](https://open.spotify.com/album/1sJvXdzjZ7FYbftQyPDZBc) | 2:38 | 2022-09-27 | 2022-10-05 |
 | [どうなったっていいぜ](https://open.spotify.com/track/4lSkF7QtNGPRgq0ks7zjDZ) | [小林私](https://open.spotify.com/artist/7gkC9QnFDqLzmk8t8bpI7Y) | [どうなったっていいぜ](https://open.spotify.com/album/1tREilqOY6l9p7kVaZafEt) | 4:18 | 2022-07-14 | 2022-07-19 |
 | [どおどお](https://open.spotify.com/track/5UYz0oeltO4tVAcylKDFG7) | [青は止まれ](https://open.spotify.com/artist/1jrlVfzRC5LTmVM0p3qGW1) | [どおどお](https://open.spotify.com/album/6tKNmbmT4d3oawZko6wwHk) | 3:17 | 2023-11-28 | 2023-11-30 |
@@ -1015,7 +1016,7 @@
 | [栞](https://open.spotify.com/track/01uB7QYrrhWlVX4xxbnQyC) | [Mafumafu](https://open.spotify.com/artist/6t6aXZlmnAF1VuiG8BVjQZ) | [栞](https://open.spotify.com/album/6Ey0aoV9cQEk9ivV2hLlcS) | 4:13 | 2022-06-09 | 2022-07-18 |
 | [桃源郷](https://open.spotify.com/track/3XpV0yCZRizTsCMEIkxZVm) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [桃源郷](https://open.spotify.com/album/6aO1Ot1JoA9TPH73qX7ejE) | 3:48 | 2022-06-21 | 2022-08-26 |
 | [橙一点](https://open.spotify.com/track/2eHcpFagYpp6HoyCBD0dXz) | [獅子志司](https://open.spotify.com/artist/6WuH4EcRO2y8v6z3lVsA4v) | [橙一点](https://open.spotify.com/album/3XP58oNavJ5fglwIc3PxrO) | 3:49 | 2022-06-13 | 2022-07-24 |
-| [次回予告](https://open.spotify.com/track/2bo9W888RRWGTk9AxmxUJs) | [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [次回予告](https://open.spotify.com/album/4cQOQ6V8xNB6pKPEYCvvg3) | 3:08 | 2024-05-07 |  |
+| [次回予告](https://open.spotify.com/track/2bo9W888RRWGTk9AxmxUJs) | [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [次回予告](https://open.spotify.com/album/4cQOQ6V8xNB6pKPEYCvvg3) | 3:08 | 2024-05-07 | 2024-10-07 |
 | [武装少女煉獄変](https://open.spotify.com/track/5lC0qccm2yvencSIQ5M8ix) | [87\(hana\)](https://open.spotify.com/artist/3b6FAQ2YdDmFDaXCygG5tI) | [武装少女煉獄変](https://open.spotify.com/album/4IgyA3HRWvuHoirae73MJY) | 4:42 | 2023-10-19 | 2023-11-16 |
 | [歯車の心臓](https://open.spotify.com/track/3BfBsqTyZxM3u2pSJATzao) | [iolli](https://open.spotify.com/artist/3Z0ZNLjeGa08cp9sia58t5) | [歯車の心臓](https://open.spotify.com/album/0kNWUIlBTJjQRrh6Y6j6u2) | 4:10 | 2022-07-24 | 2022-07-27 |
 | [残機](https://open.spotify.com/track/1XeOqgzh2fZhmgxnmyiIJ8) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [残機](https://open.spotify.com/album/3wGoYoTJhdbkvn7WZpTqz3) | 3:50 | 2022-10-18 | 2024-08-14 |

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4Wi1FLcqmkfe8LZa5QxrSA">MNEK</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-479 songs - 1 day 3 hr 21 min
+480 songs - 1 day 3 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [Can't Tame Her \- Alternate Cut](https://open.spotify.com/track/6PNlXjDbDETGseV6frN8P8) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Can't Tame Her \(Alternate Cut\)](https://open.spotify.com/album/4FKL7pApMMQdNkGdBOIcNg) | 3:19 | 2024-01-25 | 2024-01-27 |
 | [Cardboard Box](https://open.spotify.com/track/2rf9i0Enr8cw1JRME8Rsvq) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Cardboard Box](https://open.spotify.com/album/51OgsspyNulg111Dti5Sdj) | 2:41 | 2022-09-08 |  |
 | [Caught Up](https://open.spotify.com/track/4XmQYIwiP6wveSj9bBGCyQ) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Caught Up](https://open.spotify.com/album/4rG8urpRqy180HcCWO1mML) | 3:50 | 2024-08-07 |  |
+| [Change](https://open.spotify.com/track/65KZuAz5UdEXiS2YulhjDe) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [3 of Us](https://open.spotify.com/album/3wjvkDUEECwgqVhIfNPQSV) | 3:12 | 2024-10-06 |  |
 | [Change My Love](https://open.spotify.com/track/3p7x1m7QkmeawRAujjGWd2) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [Change My Love](https://open.spotify.com/album/3p3c0o6PCYCR49JLs2topV) | 3:13 | 2023-12-14 | 2024-02-01 |
 | [Change My Love](https://open.spotify.com/track/5z4G37A29NpXvYVUY8BnZX) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [Following My Intuition \(Expanded Edition\)](https://open.spotify.com/album/0Vop2iSyeir0QntOrgamFN) | 3:24 | 2022-09-08 |  |
 | [Cheat \(feat\. JoJo\)](https://open.spotify.com/track/2APWeDZZLBBwAmVVECtgMr) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI), [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [IRL \(Deluxe\)](https://open.spotify.com/album/76G7P45A56sBfsNXj2yZyD) | 3:22 | 2023-12-13 |  |

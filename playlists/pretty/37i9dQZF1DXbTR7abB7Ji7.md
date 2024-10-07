@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTR7abB7Ji7.md) - [plain]
 
 > The perfect instrumental accompaniment to your wedding day or engagement party; elegant background music for seating guests, walking down the aisle or cocktail hour.
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,559 likes - 46 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,622 likes - 46 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

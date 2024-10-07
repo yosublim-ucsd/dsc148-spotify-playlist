@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 
 > Holdin' it down for the westside\. Cover: 310babii
 
-[Spotify](https://open.spotify.com/user/spotify) - 733,323 likes - 75 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 733,363 likes - 75 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 | 47 | [GO BRAZY \(WITH MUSTARD & BABY STONE GORILLAS\)](https://open.spotify.com/track/2DARY9rFneNKGHr3vyB08c) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Baby Stone Gorillas](https://open.spotify.com/artist/0jAP1TzUaPmRmcB5j1FMs3), [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k) | [JUST RE'D UP 3](https://open.spotify.com/album/2qkZWTL0e6lDon20SCiP69) | 2:40 |
 | 48 | [THank god 4 me](https://open.spotify.com/track/7CwO2esrH095tjxmJVMY2E) | [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m) | [BLUE LIPS](https://open.spotify.com/album/107WsrBqn5xVPgystkziry) | 2:57 |
 | 49 | [For The Movement \(feat\. Marco Mula, Celly Ru\)](https://open.spotify.com/track/7qwm4mq9QZ5hTsHhxuFllH) | [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO), [Marco Mula](https://open.spotify.com/artist/1LaX4CefeoOqJJTZR5K4PR), [Celly Ru](https://open.spotify.com/artist/3MeyqB6fA2aj1NZq6ztjRk) | [BRASH DUMMIES](https://open.spotify.com/album/2gaI5fvm0wSI4sn3jVffuw) | 2:50 |
-| 50 | [Pose For Me](https://open.spotify.com/track/1sgTUndxucoDRXlJds4fZ9) | [John Mackk](https://open.spotify.com/artist/57Ay3Ye4cloEzuDSTYQ1kw) | [Pose For Me](https://open.spotify.com/album/1V8F5yi1IO7cmAVD6e7Dfw) | 1:28 |
+| 50 | [Pose For Me](https://open.spotify.com/track/1sgTUndxucoDRXlJds4fZ9) | [John Mackk](https://open.spotify.com/artist/57Ay3Ye4cloEzuDSTYQ1kw), [Natalie Nunn](https://open.spotify.com/artist/2I8embWRZZ0LSLvEIqx6wU) | [Pose For Me](https://open.spotify.com/album/1V8F5yi1IO7cmAVD6e7Dfw) | 1:28 |
 | 51 | [Sexy Red](https://open.spotify.com/track/3kBh0IdrxwqTqjD70NbMKJ) | [Big Sad 1900](https://open.spotify.com/artist/6CPTMFjo7Sq3ACuzHsXVkt), [Blueflag 1900](https://open.spotify.com/artist/6YE6J92clrIvtXZIVmWmPm), [Low the Great](https://open.spotify.com/artist/1M3n2lIeQHcETTVPYS6Ccb) | [Members Only](https://open.spotify.com/album/4pRm6ZcMYRhgyXKhEGoIUb) | 2:51 |
 | 52 | [Got It on Me](https://open.spotify.com/track/0yvu1rKHRw7r4zaW73P24K) | [Conradfrmdaaves](https://open.spotify.com/artist/6wrQP6EAQRd8GLl9tilJdH), [Blueface](https://open.spotify.com/artist/3Fl1V19tmjt57oBdxXKAjJ) | [Got It on Me](https://open.spotify.com/album/0VTSXHWNWY9OQOUMfi4Ttk) | 2:14 |
 | 53 | [Say Luv](https://open.spotify.com/track/3a3Tz1TtYuwTJMqbc6IeD1) | [22nd Jim](https://open.spotify.com/artist/0ROLbpYHvwZWVbPBibRwPU), [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl) | [Say Luv](https://open.spotify.com/album/1jxdGY4MuFGOzgoUTWslet) | 2:20 |

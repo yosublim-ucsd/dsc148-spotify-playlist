@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9bqOzK42BZ.md) - [plain]
 
 > Praise and worship from East Africa\. Your ultimate Swahili Spiritual nourishment here\. Cover: <a href="https://open.spotify.com/artist/4fCg09CBWzbspIIuw8wfVk?si=8smsGpcTQlWkUKrlffqF6Q">BELLA KOMBO</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,346 likes - 105 songs - 9 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,426 likes - 105 songs - 9 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9bqOzK42BZ.md) - [plain]
 | 4 | [Sisi Ni Wale](https://open.spotify.com/track/7fw4Nzwa0FB7Qwu3zyFaY9) | [Phina](https://open.spotify.com/artist/1gFTuZHiQgl5NAgqNEK2Rl) | [Sisi Ni Wale](https://open.spotify.com/album/62kTShyCsFUxCyrqcs5Rb3) | 3:48 |
 | 5 | [Ameniweka huru kweli](https://open.spotify.com/track/6TxbYqlgD57ftgtbZh7cw9) | [Papi Clever & Dorcas](https://open.spotify.com/artist/0BuyM2PAaY1aqSqvYkV26J) | [AMENIWEKA HURU KWELI \(Nyimbo za wokovu\) ALBUM 2](https://open.spotify.com/album/5kBT5i8KJqCS9ka4RwEAKu) | 6:38 |
 | 6 | [Shusha Nyavu](https://open.spotify.com/track/4OWverqpwi4P1BstWOjlS1) | [Christina Shusho](https://open.spotify.com/artist/0yOSvlhtID1BtqO5UUv5SL) | [Shusha Nyavu](https://open.spotify.com/album/2Tlcxf4JXImZRqiNnYCDKt) | 3:46 |
-| 7 | [God Ye Buddy](https://open.spotify.com/track/7D2qnjkeghNtbYYP3OgL2h) | [Azawi](https://open.spotify.com/artist/0ZhMKJPaUXzfU0FgAzIOgR), [Vinka](https://open.spotify.com/artist/2nTPCD3IukOtNX689ctkES), [Swangz All\-Star](https://open.spotify.com/artist/7e4IOPcpm2VcBIcKAJnPmQ), [Winnie Nwagi](https://open.spotify.com/artist/6D2BPqCTzdBn26ficmaciD), [Elijah Kitaka](https://open.spotify.com/artist/2MrWl3XhEH4Rgs4L8wOex6), [Zafaran](https://open.spotify.com/artist/1rnLZUBB2QLpNeTrdOElWw), [Levixone](https://open.spotify.com/artist/25rO4hD9VXGMFFfK7zI5lW) | [God Ye Buddy](https://open.spotify.com/album/5A6sxUUxdUUiVBMikeydeH) | 4:23 |
+| 7 | [God Ye Buddy](https://open.spotify.com/track/7D2qnjkeghNtbYYP3OgL2h) | [Azawi](https://open.spotify.com/artist/0ZhMKJPaUXzfU0FgAzIOgR), [Vinka](https://open.spotify.com/artist/2nTPCD3IukOtNX689ctkES), [Winnie Nwagi](https://open.spotify.com/artist/6D2BPqCTzdBn26ficmaciD), [Elijah Kitaka](https://open.spotify.com/artist/2MrWl3XhEH4Rgs4L8wOex6), [Zafaran](https://open.spotify.com/artist/1rnLZUBB2QLpNeTrdOElWw), [Levixone](https://open.spotify.com/artist/25rO4hD9VXGMFFfK7zI5lW), [Swangz All\-Star](https://open.spotify.com/artist/7e4IOPcpm2VcBIcKAJnPmQ) | [God Ye Buddy](https://open.spotify.com/album/5A6sxUUxdUUiVBMikeydeH) | 4:23 |
 | 8 | [Niseme Nini](https://open.spotify.com/track/1CrMQWrcbgM12xZWAnPITv) | [Dr\. Ipyana](https://open.spotify.com/artist/2ePMRVIwOhRtN0aCuRu9Qc) | [Niseme Nini](https://open.spotify.com/album/2mdLbdOQc9Cst2FE4TQK1m) | 15:37 |
 | 9 | [Moyo Wangu](https://open.spotify.com/track/2QhujhH9Sq63INScYDMa0Z) | [Patrick Kubuya](https://open.spotify.com/artist/1FeMU8hvqFR7BqtKIQvsu2) | [Coeur à Coeur](https://open.spotify.com/album/49ssUVOK4uqFvzQyVHNFkh) | 5:09 |
 | 10 | [Maisha Yangu / Baba Yangu, Baba Yangu \- Live in Kenya](https://open.spotify.com/track/0FBvsqVV4egLLgn9NIH4xT) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU), [Yinka Okeleye](https://open.spotify.com/artist/0QD66eLbMvlwcjQVUtKpo9) | [Maisha Yangu / Baba Yangu, Baba Yangu \(Live in Kenya\)](https://open.spotify.com/album/09oMzJiQ4rr6Q84fLXRFR7) | 9:02 |

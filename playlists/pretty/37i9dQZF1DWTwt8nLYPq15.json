@@ -1,6 +1,6 @@
 {
   "description": "summer heat \ud83e\udd75\ud83d\udd25\n",
-  "num_followers": 2222,
+  "num_followers": 2221,
   "original_name": "MELT",
   "owner": {
     "name": "Spotify",
@@ -277,22 +277,6 @@
       "url": "https://open.spotify.com/track/73RbfOTJIjHzi2pcVHjeHM"
     },
     {
-      "added_at": "2024-05-31 19:46:57",
-      "album": {
-        "name": "TYLA",
-        "url": "https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE"
-      },
-      "artists": [
-        {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        }
-      ],
-      "duration_ms": 148517,
-      "name": "ART",
-      "url": "https://open.spotify.com/track/40ds3xedbMkWhszkGnZwxi"
-    },
-    {
       "added_at": "2023-06-15 04:00:00",
       "album": {
         "name": "Made In Lagos",
@@ -311,6 +295,22 @@
       "duration_ms": 248040,
       "name": "Essence (feat. Tems)",
       "url": "https://open.spotify.com/track/5FG7Tl93LdH117jEKYl3Cm"
+    },
+    {
+      "added_at": "2023-06-16 06:51:48",
+      "album": {
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 181840,
+      "name": "Shirt",
+      "url": "https://open.spotify.com/track/2wSTnntOPRi7aQneobFtU4"
     },
     {
       "added_at": "2023-06-15 04:00:00",
@@ -345,20 +345,20 @@
       "url": "https://open.spotify.com/track/2x03XLsTZ0o86h0cfHrkKF"
     },
     {
-      "added_at": "2023-06-16 06:51:48",
+      "added_at": "2024-05-31 19:46:57",
       "album": {
-        "name": "SOS",
-        "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
+        "name": "TYLA",
+        "url": "https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE"
       },
       "artists": [
         {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
         }
       ],
-      "duration_ms": 181840,
-      "name": "Shirt",
-      "url": "https://open.spotify.com/track/2wSTnntOPRi7aQneobFtU4"
+      "duration_ms": 148517,
+      "name": "ART",
+      "url": "https://open.spotify.com/track/40ds3xedbMkWhszkGnZwxi"
     },
     {
       "added_at": "2024-07-13 04:00:00",
@@ -377,22 +377,6 @@
       "url": "https://open.spotify.com/track/1I08zQMc1sHy2xwd8itedV"
     },
     {
-      "added_at": "2024-05-31 19:46:57",
-      "album": {
-        "name": "Love Me JeJe",
-        "url": "https://open.spotify.com/album/0DSIfkfmDDNRbB87Xk0ipd"
-      },
-      "artists": [
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        }
-      ],
-      "duration_ms": 178041,
-      "name": "Love Me JeJe",
-      "url": "https://open.spotify.com/track/47hsUYxvbTlBAN3sP9dEOd"
-    },
-    {
       "added_at": "2023-06-15 04:00:00",
       "album": {
         "name": "Drunk",
@@ -407,6 +391,22 @@
       "duration_ms": 188453,
       "name": "Them Changes",
       "url": "https://open.spotify.com/track/7CH99b2i1TXS5P8UUyWtnM"
+    },
+    {
+      "added_at": "2024-05-31 19:46:57",
+      "album": {
+        "name": "Love Me JeJe",
+        "url": "https://open.spotify.com/album/0DSIfkfmDDNRbB87Xk0ipd"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "duration_ms": 178041,
+      "name": "Love Me JeJe",
+      "url": "https://open.spotify.com/track/47hsUYxvbTlBAN3sP9dEOd"
     },
     {
       "added_at": "2024-07-13 04:00:00",
@@ -697,20 +697,24 @@
       "url": "https://open.spotify.com/track/5xjTqz4aYQeBnFhwMPmfx9"
     },
     {
-      "added_at": "2023-06-16 06:51:48",
+      "added_at": "2023-06-15 04:00:00",
       "album": {
-        "name": "On My Mama",
-        "url": "https://open.spotify.com/album/3KAqJe3dwWZFukNlOS6JXS"
+        "name": "Ego Death",
+        "url": "https://open.spotify.com/album/69g3CtOVg98TPOwqmI2K7Q"
       },
       "artists": [
         {
-          "name": "Victoria Mon\u00e9t",
-          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+          "name": "The Internet",
+          "url": "https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8"
+        },
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
         }
       ],
-      "duration_ms": 186678,
-      "name": "On My Mama",
-      "url": "https://open.spotify.com/track/1o8Z7GD1CeOaVBEyuzu4HO"
+      "duration_ms": 415613,
+      "name": "Girl (feat. KAYTRANADA)",
+      "url": "https://open.spotify.com/track/3PFaFVWq5wucLu6s4baj9D"
     },
     {
       "added_at": "2024-06-07 11:41:16",
@@ -733,6 +737,22 @@
       "url": "https://open.spotify.com/track/3raxjPdY70b4a9ks1Bd0mz"
     },
     {
+      "added_at": "2023-06-16 06:51:48",
+      "album": {
+        "name": "On My Mama",
+        "url": "https://open.spotify.com/album/3KAqJe3dwWZFukNlOS6JXS"
+      },
+      "artists": [
+        {
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+        }
+      ],
+      "duration_ms": 186678,
+      "name": "On My Mama",
+      "url": "https://open.spotify.com/track/1o8Z7GD1CeOaVBEyuzu4HO"
+    },
+    {
       "added_at": "2023-06-15 04:00:00",
       "album": {
         "name": "RENAISSANCE",
@@ -747,26 +767,6 @@
       "duration_ms": 368758,
       "name": "VIRGO'S GROOVE",
       "url": "https://open.spotify.com/track/0Fl4eWzVaMUOdXcOrj6F1q"
-    },
-    {
-      "added_at": "2023-06-15 04:00:00",
-      "album": {
-        "name": "Ego Death",
-        "url": "https://open.spotify.com/album/69g3CtOVg98TPOwqmI2K7Q"
-      },
-      "artists": [
-        {
-          "name": "The Internet",
-          "url": "https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8"
-        },
-        {
-          "name": "KAYTRANADA",
-          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
-        }
-      ],
-      "duration_ms": 415613,
-      "name": "Girl (feat. KAYTRANADA)",
-      "url": "https://open.spotify.com/track/3PFaFVWq5wucLu6s4baj9D"
     },
     {
       "added_at": "2023-06-15 04:00:00",
@@ -873,26 +873,6 @@
       "url": "https://open.spotify.com/track/2sITbbWIOeg2Lwp4WN2jqr"
     },
     {
-      "added_at": "2024-05-31 19:46:57",
-      "album": {
-        "name": "COWBOY CARTER",
-        "url": "https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        },
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 250725,
-      "name": "TYRANT",
-      "url": "https://open.spotify.com/track/5mUlozUYpdmXVPkj4BW8cA"
-    },
-    {
       "added_at": "2023-06-15 04:00:00",
       "album": {
         "name": "Fountain Baby",
@@ -907,6 +887,26 @@
       "duration_ms": 189440,
       "name": "Princess Going Digital",
       "url": "https://open.spotify.com/track/6KS5iyM4uDuJ6oAacMSXha"
+    },
+    {
+      "added_at": "2024-05-31 19:46:57",
+      "album": {
+        "name": "He Loves Us Both (feat. H.E.R.)",
+        "url": "https://open.spotify.com/album/0x1tZBPycC2BPbosebRSr5"
+      },
+      "artists": [
+        {
+          "name": "Lila Ik\u00e9",
+          "url": "https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO"
+        },
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        }
+      ],
+      "duration_ms": 221700,
+      "name": "He Loves Us Both (feat. H.E.R.)",
+      "url": "https://open.spotify.com/track/5SvKcEK87sdbOyrthx9ZAU"
     }
   ],
   "unique_name": "MELT",

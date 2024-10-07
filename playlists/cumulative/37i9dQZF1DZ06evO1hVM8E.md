@@ -2,9 +2,9 @@
 
 ### [This Is La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1hVM8E)
 
-> This Is La Original Banda El Limón de Salvador Lizárraga\. Los temas esenciales, todos en una lista.
+> This is La Original Banda El Limón de Salvador Lizárraga\. The essential tracks, all in one playlist.
 
-121 songs - 6 hr 17 min
+122 songs - 6 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Besos Y Cerezas](https://open.spotify.com/track/7a21PMHaImzKLNbsbyILuf) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Con Sabor A Limón, Volumen 2](https://open.spotify.com/album/75eFixvrDXcxe1BLKOfLwG) | 2:47 | 2023-12-13 | 2024-01-12 |
 | [Canción A Mi Papá](https://open.spotify.com/track/0Ec1rgYW7VMIhSDIxoa5Di) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Canción A Mi Papá](https://open.spotify.com/album/7vRddwntQQ0bBBzreNKmFL) | 2:43 | 2022-07-31 | 2022-10-12 |
 | [Canción a Mi Papá](https://open.spotify.com/track/1yD07nDoSftuK04VdN1VXD) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Canción a Mi Papá](https://open.spotify.com/album/4z8gWLTm7PUf8CmnLQ1pca) | 2:43 | 2022-06-08 | 2022-07-28 |
+| [Chatita de Mis Amores](https://open.spotify.com/track/01zI0Ayxrduos4VM7eWgC1) | [Al Tiro de Armando Ramos](https://open.spotify.com/artist/6fvE3WfQ7mEyYOc4hY6t8O), [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Mientras Respire](https://open.spotify.com/album/1nb8I6OBgdfslEI9z0DHpx) | 2:20 | 2024-10-07 |  |
 | [Chatita de Mis Amores](https://open.spotify.com/track/7xvRwBykEmbOibLF8WC4Zn) | [Al Tiro de Armando Ramos](https://open.spotify.com/artist/6fvE3WfQ7mEyYOc4hY6t8O), [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Chatita de Mis Amores](https://open.spotify.com/album/0STb39hcGQLDU7Ge0iMpqO) | 2:20 | 2024-04-11 | 2024-06-21 |
 | [Cien Mil Veces](https://open.spotify.com/track/3rJ5CD3xHzHqrIllMIJj5S) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Qué Se Te Olvidó](https://open.spotify.com/album/3oiSnqUzFbSrekYtLyypon) | 2:05 | 2023-06-06 | 2024-09-20 |
 | [Como Si No Fuimos Nada](https://open.spotify.com/track/2BJlcaqAhnaTEmXPaQWaMe) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [El Presente Es Lo Que Cuenta](https://open.spotify.com/album/50sCpwaW5adOp1SNtg6reZ) | 3:37 | 2022-09-04 | 2023-09-26 |
@@ -80,7 +81,7 @@
 | [Mayor de Edad](https://open.spotify.com/track/5P4FXbpd632sEdxCHAhBnU) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Mayor de Edad](https://open.spotify.com/album/24wgUlFCUqnyaZzjZAxbic) | 3:59 | 2022-06-01 |  |
 | [Mañana Se Lo Digo](https://open.spotify.com/track/0MxxcP0LDkam6gHgFFerOX) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [El Mayor de Mis Antojos](https://open.spotify.com/album/1MMHNFKunsbtbGc0NLTxEN) | 3:11 | 2022-07-13 | 2022-10-09 |
 | [Me Caíste del Cielo](https://open.spotify.com/track/3VnEuFStQRp1GauvdhaYTN) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Qué Se Te Olvidó](https://open.spotify.com/album/3oiSnqUzFbSrekYtLyypon) | 2:36 | 2023-08-02 |  |
-| [Me Enamoré](https://open.spotify.com/track/5yjxlJvf44tL3lSGngW8FT) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Me Enamoré](https://open.spotify.com/album/1tMi99IP653XVZRF0luB6p) | 2:57 | 2024-08-09 |  |
+| [Me Enamoré](https://open.spotify.com/track/5yjxlJvf44tL3lSGngW8FT) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Me Enamoré](https://open.spotify.com/album/1tMi99IP653XVZRF0luB6p) | 2:57 | 2024-08-09 | 2024-10-07 |
 | [Me Esta Doliendo el Alma](https://open.spotify.com/track/45OPKIF7clW1z8cMGi31jW) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Me Esta Doliendo el Alma](https://open.spotify.com/album/1K3TqiWrJRWN6QuB2uVg3I) | 3:19 | 2022-06-01 |  |
 | [Me Lo Contaron Ayer](https://open.spotify.com/track/2rfwtM9C88E3WO282eoU9L) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Me Lo Contaron Ayer](https://open.spotify.com/album/7hT6QaevlgYP5QcmCJBRDT) | 2:34 | 2022-06-01 |  |
 | [Me Muero por Ella \(Bachata\) Feat\. La Original Banda el Limón de Salvador Lizárraga](https://open.spotify.com/track/3mwCGXffSsLqyWxNqPmYUd) | [Héctor Acosta "El Torito"](https://open.spotify.com/artist/4TCAAIMmeZXCTVlHUsicOn), [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Merengue y Sentimiento](https://open.spotify.com/album/1sICskXqVMRys1f0AKqyBS) | 3:54 | 2022-09-05 |  |

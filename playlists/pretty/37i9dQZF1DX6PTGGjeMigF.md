@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PTGGjeMigF.md) - [plain]
 
 > Prepare for the upcoming world tour by listening to SEVENTEEN's best songs! \(세븐틴의 베스트 곡들을 들으며 다가오는 월드 투어를 준비해보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,476 likes - 20 songs - 1 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,438 likes - 20 songs - 1 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0DwpxK.md) - [plain]
 
 ### [This Is HUMBE](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0DwpxK)
 
-> This is HUMBE\. The essential tracks, all in one playlist.
+> This Is HUMBE\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 214,070 likes - 44 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 214,421 likes - 44 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,11 +29,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0DwpxK.md) - [plain]
 | 19 | [ESENCIA](https://open.spotify.com/track/3r0eidnhTQ0a33kdfjzFoJ) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [ESENCIA](https://open.spotify.com/album/39dBODVnnDV4ZB1TtPeMTj) | 5:05 |
 | 20 | [AURORA](https://open.spotify.com/track/0NHsOitbhh1DJy1b6otZHf) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [AURORA](https://open.spotify.com/album/2Yjubr5GHX41ht808oZPzs) | 5:50 |
 | 21 | [bestia](https://open.spotify.com/track/2HZ5HcjkncmwlEh6dNG5Ra) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y), [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [bestia](https://open.spotify.com/album/3g7qNB5LqZlkp72mvCXYj6) | 3:40 |
-| 22 | [Te Conocí en Japón](https://open.spotify.com/track/1QSvHSBcPlSlHhsntszy85) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [ENTROPÍA](https://open.spotify.com/album/34ra2lYORSjzzupmCDKz46) | 3:08 |
+| 22 | [Himno](https://open.spotify.com/track/0qKwMEPwaEs4CuVGrGFYFR) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [ENTROPÍA](https://open.spotify.com/album/34ra2lYORSjzzupmCDKz46) | 3:27 |
 | 23 | [sanvalentín:\(](https://open.spotify.com/track/6oyz3h6HEpmzvXxjWcf8J6) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [ESENCIA](https://open.spotify.com/album/39dBODVnnDV4ZB1TtPeMTj) | 4:02 |
 | 24 | [MANIFIESTO](https://open.spotify.com/track/3dCaq6gk0XBCSfnlupKJ5r) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [AURORA](https://open.spotify.com/album/2Yjubr5GHX41ht808oZPzs) | 4:05 |
 | 25 | [Amor a Primera](https://open.spotify.com/track/2filNZQPKju4OSbRKQvI2V) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [Amor a Primera](https://open.spotify.com/album/050xwu2KqU1mned3kh65Nw) | 3:06 |
-| 26 | [Himno](https://open.spotify.com/track/0qKwMEPwaEs4CuVGrGFYFR) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [ENTROPÍA](https://open.spotify.com/album/34ra2lYORSjzzupmCDKz46) | 3:27 |
+| 26 | [Te Conocí en Japón](https://open.spotify.com/track/1QSvHSBcPlSlHhsntszy85) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [ENTROPÍA](https://open.spotify.com/album/34ra2lYORSjzzupmCDKz46) | 3:08 |
 | 27 | [mamá](https://open.spotify.com/track/2JW4s3HaqPerHX3R644sIG) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [ESENCIA](https://open.spotify.com/album/39dBODVnnDV4ZB1TtPeMTj) | 3:29 |
 | 28 | [Todo Mal](https://open.spotify.com/track/1T7o9INhyRVJ3yz40AOpJ2) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL), [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [Todo Mal](https://open.spotify.com/album/2tOo8QwuEz1bYxLBc9X4aa) | 3:05 |
 | 29 | [CÓMO RESPIRAR???](https://open.spotify.com/track/3SLao8qTGy9iAQqhZcCluv) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [AURORA](https://open.spotify.com/album/2Yjubr5GHX41ht808oZPzs) | 3:41 |
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0DwpxK.md) - [plain]
 | 43 | [Toma Mi Mano \(Live Session\)](https://open.spotify.com/track/4JSXKtwqCVZHuvrHI2wftR) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [Toma Mi Mano \(Live Session\)](https://open.spotify.com/album/1y3rU2fetwfnS5v0k8G9eM) | 3:11 |
 | 44 | [Nunca Dijiste Adiós](https://open.spotify.com/track/0lTHLJ03jTiaGnhVBTY2vc) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [Sonámbulo](https://open.spotify.com/album/7cDgpvAVujyriu78aIkw4M) | 3:39 |
 
-Snapshot ID: `Zv3egAAAAAA+2/ouPYcHBs7I2JaWD5l/`
+Snapshot ID: `ZwCBgAAAAABcxvC3YolL8Ed9cOWqavvz`

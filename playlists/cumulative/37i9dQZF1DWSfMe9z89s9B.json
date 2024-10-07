@@ -2117,6 +2117,24 @@
     },
     {
       "album": {
+        "name": "FOR THE BOY IN ME",
+        "url": "https://open.spotify.com/album/4ljESylaJog8Mc5VAWHEB3"
+      },
+      "artists": [
+        {
+          "name": "Dylan Sinclair",
+          "url": "https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 62604,
+      "name": "BACK 2 MAKIN LUV",
+      "url": "https://open.spotify.com/track/034wS4koHZHvLS5obb70cG"
+    },
+    {
+      "album": {
         "name": "Back on the Fence",
         "url": "https://open.spotify.com/album/2GHFkUpqWavyXAVfy6xwLF"
       },
@@ -7480,7 +7498,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-24",
+      "date_removed": null,
       "duration_ms": 200800,
       "name": "Fields",
       "url": "https://open.spotify.com/track/5dHa43X3sraGGt8wNVg7ya"
@@ -7606,7 +7624,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-07",
       "duration_ms": 146332,
       "name": "fingerprints",
       "url": "https://open.spotify.com/track/4VT53Nt4LR3znRIUu4ALs5"
@@ -23992,7 +24010,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-07",
       "duration_ms": 153624,
       "name": "WHAT IS HAPPENING? - Radio Edit",
       "url": "https://open.spotify.com/track/25fl5dCoYeoytCDfu0coji"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "This is ReoNa. The essential tracks, all in one playlist.",
+  "description": "This is ReoNa. Track-track unggulan, semuanya dalam satu playlist.",
   "name": "This Is ReoNa",
   "tracks": [
     {
@@ -350,6 +350,24 @@
       "duration_ms": 272600,
       "name": "FRIENDS",
       "url": "https://open.spotify.com/track/3OqnmwhyLMrOLynHp1Lijm"
+    },
+    {
+      "album": {
+        "name": "GG",
+        "url": "https://open.spotify.com/album/5lCc7uhAlFqamdV552r6HJ"
+      },
+      "artists": [
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "date_added": "2024-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196343,
+      "name": "GG",
+      "url": "https://open.spotify.com/track/6FTHtzIv5KmyLFkKyNe0jq"
     },
     {
       "album": {
@@ -1208,7 +1226,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-07",
       "duration_ms": 246240,
       "name": "\u30d4\u30eb\u30b0\u30ea\u30e0\uff08ReoNa ONE-MAN Concert 2023\u300c\u30d4\u30eb\u30b0\u30ea\u30e0\u300d\uff5e3.6 day \u9003\u3052\u3066\u9022\u304a\u3046\u306d\uff5e\uff09",
       "url": "https://open.spotify.com/track/0oqEAvPQbWwJVuNfyVC8DN"

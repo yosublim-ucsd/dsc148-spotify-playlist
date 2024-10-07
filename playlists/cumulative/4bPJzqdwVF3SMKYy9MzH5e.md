@@ -4,7 +4,7 @@
 
 > 
 
-1,979 songs - 4 day 10 hr 32 min
+1,983 songs - 4 day 10 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [23, Never Me](https://open.spotify.com/track/6X1qkAaZoCIgcrqyeRJP8L) | [Dead Pony](https://open.spotify.com/artist/3lGO6uBIzoFyU6OoGMER1B) | [23, Never Me](https://open.spotify.com/album/4q4NgtvMSCRc8LukyOks4F) | 2:55 | 2021-08-05 |  |
 | [2nd Hand](https://open.spotify.com/track/3YeQsJs1FdLI3w0BqWwpmk) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [KILL YOURSELF Part XII: The Dark Glacier Saga](https://open.spotify.com/album/0Jbf4eYSaqLj4OW0xCrJlj) | 2:03 | 2021-08-05 |  |
 | [3 Musketeers](https://open.spotify.com/track/57Oi4yqY27uJzCyqFWIP5q) | [NextYoungin](https://open.spotify.com/artist/2e7a6ZMxkwltCzbxHq8b3t), [ppcocaine](https://open.spotify.com/artist/2u1aL8XADqj0nJFHMKRjNw) | [3 Musketeers](https://open.spotify.com/album/21x636uz6Wlo6T5ets8bek) | 2:46 | 2021-08-05 |  |
+| [300](https://open.spotify.com/track/1EBWd3jfZH8IzvHH3L3zzW) | [lagoyo](https://open.spotify.com/artist/4Iqd5rIwHATImcJMlDjYIX) | [300](https://open.spotify.com/album/4ToUcgF2XBtrwCf6hdYkW0) | 2:43 | 2024-10-06 |  |
 | [360](https://open.spotify.com/track/7JxexWxny7yJ3slTLmWz2U) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [360](https://open.spotify.com/album/5UlTVoEmOp7GuZN5PgnUq6) | 2:13 | 2024-05-13 |  |
 | [365](https://open.spotify.com/track/5h68SoVFGleijCtjEja3xG) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 3:23 | 2024-06-11 |  |
 | [365 PARTYGIRL EASYFUN](https://open.spotify.com/track/1wNjj4mUpv35gY5CzUZCDb) | [Santea2](https://open.spotify.com/artist/1m0xG8stRNnvyrKxnSrbOz) | [365 PARTYGIRL EASYFUN](https://open.spotify.com/album/53sxNSbg497jRQVaT0nynx) | 1:53 | 2024-10-06 |  |
@@ -891,6 +892,7 @@
 | [I\-E\-A\-I\-A\-I\-O](https://open.spotify.com/track/3RgDvs9Jpvn3kUuaTek1R5) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [Steal This Album!](https://open.spotify.com/album/6lA1sGw7eCv27bcpd5E0wT) | 3:08 | 2023-08-21 |  |
 | [Ibitbt](https://open.spotify.com/track/2xUJ4frQcK7zBbJSr1GcUY) | [3l3d3p](https://open.spotify.com/artist/1Q2WlUWRQZVxpBBO4UHRV5) | [Ibitbt](https://open.spotify.com/album/7fyHs2e9lEiaKDplqonw1M) | 2:24 | 2021-08-05 |  |
 | [Iceberg Lettuce](https://open.spotify.com/track/2y689dcKJJZXKRf0qlCVTB) | [hooligan chase](https://open.spotify.com/artist/2qSWeggSfTTkTaF4t4WFpF) | [Bodyache](https://open.spotify.com/album/5TXZaKrnd8rlBDthB2wKzv) | 3:02 | 2021-08-05 |  |
+| [idiota.zao](https://open.spotify.com/track/2YqCsO7Dr5Of6YcxoZ7Dey) | [kreevv](https://open.spotify.com/artist/3geVFRJvQS1HrJ9Xr1wovJ) | [idiota.zao](https://open.spotify.com/album/75IY9ftq0077pY3XRzld4f) | 2:09 | 2024-10-06 |  |
 | [idontwannabeyouanymore](https://open.spotify.com/track/41zXlQxzTi6cGAjpOXyLYH) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [dont smile at me](https://open.spotify.com/album/7fRrTyKvE4Skh93v97gtcU) | 3:23 | 2021-08-05 |  |
 | [if god didnt want us to snort worms he wouldn't have made them cylindrical!](https://open.spotify.com/track/7wtU7N6R49UAbzQcLjRy5q) | [MIMIDEATH](https://open.spotify.com/artist/55VDe291360aWSrwt1U96m) | [effective\. Power](https://open.spotify.com/album/4yyeXDBiKoy8nsBnFBtyIP) | 0:58 | 2022-04-26 |  |
 | [If You Can't Hang](https://open.spotify.com/track/3ouugfdFz6exFXUxu7wRvD) | [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA) | [Let's Cheers To This](https://open.spotify.com/album/4TuNgoALZ10zEOHgfkxs8T) | 4:10 | 2021-08-05 |  |
@@ -1099,6 +1101,7 @@
 | [Me, Myself & I](https://open.spotify.com/track/40YcuQysJ0KlGQTeGUosTC) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [When It's Dark Out](https://open.spotify.com/album/09Q3WwGYsQe5ognkvVkmCu) | 4:11 | 2021-08-05 |  |
 | [Meat Grinder](https://open.spotify.com/track/4WM1hvYr2NC6bQnQXcj3sH) | [Madvillain](https://open.spotify.com/artist/2aoFQUeHD1U7pL098lRsDU), [Madlib](https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf), [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL) | [Madvillainy](https://open.spotify.com/album/19bQiwEKhXUBJWY6oV3KZk) | 2:11 | 2022-08-08 |  |
 | [Meat Head](https://open.spotify.com/track/39TPpjMXzvvQYNDwJXh0zS) | [Gaffa Tape Sandy](https://open.spotify.com/artist/00P2dAOymeYKFx4OSaVgw1) | [Family Mammal](https://open.spotify.com/album/1BO7FtrmddhXgemo7FDukl) | 2:52 | 2021-08-05 |  |
+| [Meet Her At The Love Parade \- Beuk Mix](https://open.spotify.com/track/2DpM4jw683veA2BTcc3kZR) | [Vieze Asbak](https://open.spotify.com/artist/66FZq0wsY6770bc4O9Dlig) | [Meet Her At The Love Parade \(Beuk Mix\)](https://open.spotify.com/album/1YPZDYBgcbMfW4ORrQHmX7) | 1:52 | 2024-10-06 |  |
 | [Meet Me At Our Spot](https://open.spotify.com/track/07MDkzWARZaLEdKxo6yArG) | [THE ANXIETY](https://open.spotify.com/artist/64H8UqGLbJFHwKtGxiV8OP), [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF), [Tyler Cole](https://open.spotify.com/artist/1xoxekeb8jUVHKJB7m6bfg) | [THE ANXIETY](https://open.spotify.com/album/2kZyqn4Cmr78D74K9TcO4K) | 2:42 | 2021-09-15 |  |
 | [MEGATRON](https://open.spotify.com/track/1ZDmxwg7Lywlx68b7SsJjj) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [MEGATRON](https://open.spotify.com/album/4PsIFkX5QIvAI0xB7qHugW) | 3:10 | 2021-08-05 |  |
 | [Mein](https://open.spotify.com/track/7vfUhnW7qDtkFId4GJnvtA) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Saturday Night Wrist](https://open.spotify.com/album/4ilqDlqD37nilewk9x8tyZ) | 3:58 | 2024-01-01 |  |
@@ -1607,6 +1610,7 @@
 | [Stargirl Interlude](https://open.spotify.com/track/5gDWsRxpJ2lZAffh5p7K0w) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Starboy](https://open.spotify.com/album/4AdZV63ycxFLF6Hcol0QnB) | 1:51 | 2022-10-11 |  |
 | [Starry Cat](https://open.spotify.com/track/5KsZOcKZuVgu9bUlQtHXbi) | [Starry Cat](https://open.spotify.com/artist/7lKlhPmLxToffa6icA7vk3) | [Starry Cat](https://open.spotify.com/album/3KVP8EcIWaGWXQHq6uYkvA) | 1:41 | 2022-04-09 |  |
 | [Start a Riot](https://open.spotify.com/track/6V81K1OcvYgHEnCA6A2Qx9) | [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9), [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Spider\-Man: Into the Spider\-Verse \(Soundtrack From & Inspired by the Motion Picture\)](https://open.spotify.com/album/35s58BRTGAEWztPo9WqCIs) | 2:51 | 2021-08-05 |  |
+| [STAY AWAY](https://open.spotify.com/track/3vDinFBFhPsTykopZhZuoi) | [6EJOU](https://open.spotify.com/artist/1k0U51DXyjFk4YnLZUIMP9) | [STAY AWAY](https://open.spotify.com/album/1cIhasMqR2uxzWLRYkRpzb) | 5:24 | 2024-10-06 |  |
 | [stay\_w\_me](https://open.spotify.com/track/6tKUMn27YjNOxxjttkI40A) | [m1v](https://open.spotify.com/artist/5pfVvTVQiPCMClDlE3bj0S) | [stay\_w\_me](https://open.spotify.com/album/6tdL42Aa8sREKhNt4t1oNS) | 2:16 | 2023-08-09 |  |
 | [STFU!](https://open.spotify.com/track/0HKr9aqzHBsVNnsUCdH4bw) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [SAWAYAMA](https://open.spotify.com/album/3stadz88XVpHcXnVYMHc4J) | 3:23 | 2022-02-18 |  |
 | [Stigmata Martyr](https://open.spotify.com/track/4dga7PnLJ870cfrXevpMDi) | [Bauhaus](https://open.spotify.com/artist/5N5tQ9Dx1h8Od7aRmGj7Fi) | [In the Flat Field](https://open.spotify.com/album/4hPJRedKOmbvKnLdzV9w1w) | 3:41 | 2022-05-18 |  |

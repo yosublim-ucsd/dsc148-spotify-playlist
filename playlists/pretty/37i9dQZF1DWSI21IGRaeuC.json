@@ -1,6 +1,6 @@
 {
   "description": "Dive into the deep end of the tech house spectrum.",
-  "num_followers": 40413,
+  "num_followers": 40436,
   "original_name": "Minimal Tech",
   "owner": {
     "name": "Spotify",
@@ -843,26 +843,6 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Downstream",
-        "url": "https://open.spotify.com/album/0brBvk7cCEKV8merp6uy8Z"
-      },
-      "artists": [
-        {
-          "name": "Mak\u00e8z",
-          "url": "https://open.spotify.com/artist/0jJ2FmezizVLUIll3rbXmE"
-        },
-        {
-          "name": "Life on Planets",
-          "url": "https://open.spotify.com/artist/2EtksajEPOMDkyVKMZi1eO"
-        }
-      ],
-      "duration_ms": 175179,
-      "name": "Downstream",
-      "url": "https://open.spotify.com/track/0XfRQzFsLzWuVeJh3iX5Tw"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
         "name": "Moonlight",
         "url": "https://open.spotify.com/album/5IQW0dQVimAiqZopb4JBng"
       },
@@ -879,6 +859,26 @@
       "duration_ms": 337000,
       "name": "Moonlight",
       "url": "https://open.spotify.com/track/39JDdezxhax7XyjkRpM6Ds"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Downstream",
+        "url": "https://open.spotify.com/album/0brBvk7cCEKV8merp6uy8Z"
+      },
+      "artists": [
+        {
+          "name": "Mak\u00e8z",
+          "url": "https://open.spotify.com/artist/0jJ2FmezizVLUIll3rbXmE"
+        },
+        {
+          "name": "Life on Planets",
+          "url": "https://open.spotify.com/artist/2EtksajEPOMDkyVKMZi1eO"
+        }
+      ],
+      "duration_ms": 175179,
+      "name": "Downstream",
+      "url": "https://open.spotify.com/track/0XfRQzFsLzWuVeJh3iX5Tw"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -995,22 +995,6 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Dimension",
-        "url": "https://open.spotify.com/album/6x0CBRdU8588pZ40icfONg"
-      },
-      "artists": [
-        {
-          "name": "Boris Brejcha",
-          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
-        }
-      ],
-      "duration_ms": 481920,
-      "name": "Dimension",
-      "url": "https://open.spotify.com/track/2kWWPlO74XtWFY0xiaFFqH"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
         "name": "Still Pushin'",
         "url": "https://open.spotify.com/album/5XkhKswrwGVMQB6izwSj4W"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 192000,
       "name": "Still Pushin' - Radio Edit",
       "url": "https://open.spotify.com/track/3OBUo6PrzYAxkudyLNryFV"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Dimension",
+        "url": "https://open.spotify.com/album/6x0CBRdU8588pZ40icfONg"
+      },
+      "artists": [
+        {
+          "name": "Boris Brejcha",
+          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
+        }
+      ],
+      "duration_ms": 481920,
+      "name": "Dimension",
+      "url": "https://open.spotify.com/track/2kWWPlO74XtWFY0xiaFFqH"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -1051,6 +1051,22 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
+        "name": "Warning",
+        "url": "https://open.spotify.com/album/3y5fQAMQcXwch8hlHuhzwp"
+      },
+      "artists": [
+        {
+          "name": "Beltran",
+          "url": "https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP"
+        }
+      ],
+      "duration_ms": 336504,
+      "name": "Warning",
+      "url": "https://open.spotify.com/track/09fLcyru2xKfVPpN01dL0C"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
         "name": "Running from the Noise (Edit)",
         "url": "https://open.spotify.com/album/13pFQZdGjfcFMnfPyJ7pv1"
       },
@@ -1071,22 +1087,6 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Warning",
-        "url": "https://open.spotify.com/album/3y5fQAMQcXwch8hlHuhzwp"
-      },
-      "artists": [
-        {
-          "name": "Beltran",
-          "url": "https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP"
-        }
-      ],
-      "duration_ms": 336504,
-      "name": "Warning",
-      "url": "https://open.spotify.com/track/09fLcyru2xKfVPpN01dL0C"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
         "name": "Handle This",
         "url": "https://open.spotify.com/album/6tmRX0XkPnjjktAjYyiV7N"
       },
@@ -1099,6 +1099,22 @@
       "duration_ms": 390930,
       "name": "Handle This",
       "url": "https://open.spotify.com/track/5sn1pUKCFpRotDHZJotzvW"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Reso Riddim EP",
+        "url": "https://open.spotify.com/album/1uurwcKOxS5fiY464eOmo0"
+      },
+      "artists": [
+        {
+          "name": "Sidney Charles",
+          "url": "https://open.spotify.com/artist/0J6ZEXmLQfZMeHBoa4JZTH"
+        }
+      ],
+      "duration_ms": 186412,
+      "name": "Reso Riddim",
+      "url": "https://open.spotify.com/track/3gGEy7cLjmQbJuiLP9pHz9"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -1123,22 +1139,6 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Reso Riddim EP",
-        "url": "https://open.spotify.com/album/1uurwcKOxS5fiY464eOmo0"
-      },
-      "artists": [
-        {
-          "name": "Sidney Charles",
-          "url": "https://open.spotify.com/artist/0J6ZEXmLQfZMeHBoa4JZTH"
-        }
-      ],
-      "duration_ms": 186412,
-      "name": "Reso Riddim",
-      "url": "https://open.spotify.com/track/3gGEy7cLjmQbJuiLP9pHz9"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
         "name": "Escaping It (feat. Tania Foster)",
         "url": "https://open.spotify.com/album/3HADcImeJ9OY36dZgz4iDY"
       },
@@ -1159,18 +1159,18 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Unfair",
-        "url": "https://open.spotify.com/album/0wGiod0Vq6XPiade8rEpbZ"
+        "name": "Work It EP",
+        "url": "https://open.spotify.com/album/4afDe7exKekvI7T1Zf66iT"
       },
       "artists": [
         {
-          "name": "Beltran",
-          "url": "https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP"
+          "name": "Robbie Doherty",
+          "url": "https://open.spotify.com/artist/2WuXRwEjXIjW5uVZOSxqYS"
         }
       ],
-      "duration_ms": 247566,
-      "name": "Unfair",
-      "url": "https://open.spotify.com/track/3YvkoTPtxXvcEfs3vcZQVl"
+      "duration_ms": 194887,
+      "name": "Work It",
+      "url": "https://open.spotify.com/track/5s398i7zVleD2qihgMIW8M"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -1191,18 +1191,18 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Work It EP",
-        "url": "https://open.spotify.com/album/4afDe7exKekvI7T1Zf66iT"
+        "name": "Unfair",
+        "url": "https://open.spotify.com/album/0wGiod0Vq6XPiade8rEpbZ"
       },
       "artists": [
         {
-          "name": "Robbie Doherty",
-          "url": "https://open.spotify.com/artist/2WuXRwEjXIjW5uVZOSxqYS"
+          "name": "Beltran",
+          "url": "https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP"
         }
       ],
-      "duration_ms": 194887,
-      "name": "Work It",
-      "url": "https://open.spotify.com/track/5s398i7zVleD2qihgMIW8M"
+      "duration_ms": 247566,
+      "name": "Unfair",
+      "url": "https://open.spotify.com/track/3YvkoTPtxXvcEfs3vcZQVl"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -1223,22 +1223,6 @@
       "duration_ms": 180412,
       "name": "Don't Wanna Go",
       "url": "https://open.spotify.com/track/7Egwrj96WlechP11rChGK9"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "Rave Culture",
-        "url": "https://open.spotify.com/album/1IM6gMFOAjeklNpPOR3yHX"
-      },
-      "artists": [
-        {
-          "name": "Sidney Charles",
-          "url": "https://open.spotify.com/artist/0J6ZEXmLQfZMeHBoa4JZTH"
-        }
-      ],
-      "duration_ms": 381818,
-      "name": "Rave Culture",
-      "url": "https://open.spotify.com/track/54bX2wKc8t8eRZnJbGPp0g"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -1271,6 +1255,22 @@
       "duration_ms": 277500,
       "name": "Whatchagonnado",
       "url": "https://open.spotify.com/track/0FuAZvxkjdLhEownrnITPY"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Rave Culture",
+        "url": "https://open.spotify.com/album/1IM6gMFOAjeklNpPOR3yHX"
+      },
+      "artists": [
+        {
+          "name": "Sidney Charles",
+          "url": "https://open.spotify.com/artist/0J6ZEXmLQfZMeHBoa4JZTH"
+        }
+      ],
+      "duration_ms": 381818,
+      "name": "Rave Culture",
+      "url": "https://open.spotify.com/track/54bX2wKc8t8eRZnJbGPp0g"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -1763,18 +1763,18 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Elements Pt1",
-        "url": "https://open.spotify.com/album/6dtAJqkWVV8cosqNCy0DVv"
+        "name": "Dolce Far Niente",
+        "url": "https://open.spotify.com/album/1w4uK0j5N0jQRjQDZTSBww"
       },
       "artists": [
         {
-          "name": "Josh Butler",
-          "url": "https://open.spotify.com/artist/0EAlTKO2HfATH766bVH1rX"
+          "name": "Toman",
+          "url": "https://open.spotify.com/artist/7A0eeETj5gjPjvXLnskbfG"
         }
       ],
-      "duration_ms": 363915,
-      "name": "Rinser",
-      "url": "https://open.spotify.com/track/4dCOSO2tc0sPtCMqSfbqEE"
+      "duration_ms": 481343,
+      "name": "Courtyard",
+      "url": "https://open.spotify.com/track/0uwMH6cppEhY7YG64r5Adg"
     }
   ],
   "unique_name": "Minimal Tech",

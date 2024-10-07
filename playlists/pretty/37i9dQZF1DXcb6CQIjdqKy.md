@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcb6CQIjdqKy.md) - [plain]
 
 > The best mix of today's Christian music, all genres, worldwide\. Cover: <a href="spotify:artist:6CK4CBL0n07VdVZmfh40nm">Benjamin William Hastings</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,605,059 likes - 100 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,605,224 likes - 100 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,7 +91,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcb6CQIjdqKy.md) - [plain]
 | 81 | [A Thousand Times](https://open.spotify.com/track/7EcOG0mQeO0gzyKkHByONE) | [We Are Messengers](https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd) | [A Thousand Times](https://open.spotify.com/album/6lYqMjNaEjClreJ71eWDHr) | 3:39 |
 | 82 | [I FEEL HOME](https://open.spotify.com/track/0BFYrL6UGqLnQuNdnTb9at) | [Joseph O'Brien](https://open.spotify.com/artist/1ibVSKkKjRcDYXTJrUprGa) | [I FEEL HOME](https://open.spotify.com/album/0VLOPfxc8lPX1d9zEzfDZM) | 3:23 |
 | 83 | [As Long As I Have You](https://open.spotify.com/track/3kZZwZqd5azWm0mXlVDL7U) | [Kim Walker\-Smith](https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz) | [Trample](https://open.spotify.com/album/56FR1dU3EN2kycqgTJPnZr) | 3:53 |
-| 84 | [What A God \(Live\)](https://open.spotify.com/track/5IB4ugsKzjD4hWuIEFZtAE) | [SEU Worship](https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs), [ONE HOUSE](https://open.spotify.com/artist/6RC9lZOZqIxeg4g38SXNLn), [Kenzie Walker](https://open.spotify.com/artist/4VJFpqwAvZKRah8klcHmFy), [Chelsea Plank](https://open.spotify.com/artist/2rZyX9csPrIfGn1E7iSF7y), [Roosevelt Stewart](https://open.spotify.com/artist/2KVpuzFwWhwa7oR6g5tvmk) | [Move of God \(Live\)](https://open.spotify.com/album/0ihbB3q54H2tUCzS5I7Gsv) | 7:14 |
+| 84 | [What A God \- Live](https://open.spotify.com/track/5IB4ugsKzjD4hWuIEFZtAE) | [SEU Worship](https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs), [ONE HOUSE](https://open.spotify.com/artist/6RC9lZOZqIxeg4g38SXNLn), [Kenzie Walker](https://open.spotify.com/artist/4VJFpqwAvZKRah8klcHmFy), [Chelsea Plank](https://open.spotify.com/artist/2rZyX9csPrIfGn1E7iSF7y), [Roosevelt Stewart](https://open.spotify.com/artist/2KVpuzFwWhwa7oR6g5tvmk) | [Move of God \(Live\)](https://open.spotify.com/album/0ihbB3q54H2tUCzS5I7Gsv) | 7:14 |
 | 85 | [In The Name of Jesus \(feat\. Chandler Moore\)](https://open.spotify.com/track/4O2mQtteYmGU173GcZjn6C) | [JWLKRS Worship](https://open.spotify.com/artist/0wczmL4iUleqcy10Ek5Eyh), [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [In The Name of Jesus \(feat\. Chandler Moore\)](https://open.spotify.com/album/489O9Hpa91OGXlYOoodr8o) | 4:58 |
 | 86 | [Walk With Jesus](https://open.spotify.com/track/7wKjRCQDEj20xpDfELEngO) | [Consumed By Fire](https://open.spotify.com/artist/7nuXXKpffW4YAaXrJP6IH5) | [First Things First](https://open.spotify.com/album/06eEaL5af1KAXPZY8pinIj) | 3:30 |
 | 87 | [Counting My Blessings](https://open.spotify.com/track/2iqyErkSp4WMehvFy7FDID) | [Seph Schlueter](https://open.spotify.com/artist/3rdJD72bitczKtW5yNgAA4) | [Counting My Blessings](https://open.spotify.com/album/4t6WQgunJKOb6ieHMXDD2P) | 3:29 |

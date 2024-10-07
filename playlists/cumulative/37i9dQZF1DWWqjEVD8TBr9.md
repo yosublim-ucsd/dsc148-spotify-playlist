@@ -4,7 +4,7 @@
 
 > Stray Kids everywhere all around the world\. You make Stray Kids STAY.
 
-313 songs - 17 hr 8 min
+315 songs - 17 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,6 +109,7 @@
 | [Ex](https://open.spotify.com/track/1mZttLRYMGTq4m88qbgCE7) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [IN LIFE](https://open.spotify.com/album/1fOJ6SHLXOLnsuuwiLyzft) | 3:37 | 2022-03-18 |  |
 | [Ex](https://open.spotify.com/track/4y7C13wqDLE7xuilBsLNvd) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [IN LIFE](https://open.spotify.com/album/0aERWcI2KYSCM4biUihB9X) | 3:37 | 2022-03-18 | 2024-04-19 |
 | [Fairytale](https://open.spotify.com/track/0XZL9R2exRu1Rpw6KSAeS4) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [CIRCUS](https://open.spotify.com/album/5lBLKPJtpcRwd0tJFIMw8A) | 2:52 | 2022-06-21 |  |
+| [Falling Up](https://open.spotify.com/track/5KoNzEJTd9TwVNKW67eWPJ) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Falling Up](https://open.spotify.com/album/2TTrJfMviwpwoCtwyPBN8B) | 3:10 | 2024-10-06 |  |
 | [FAM \(Korean Ver.\)](https://open.spotify.com/track/11BLMmPoTgKEi4XBDxdpYN) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [SKZ\-REPLAY](https://open.spotify.com/album/3UXrliH0JUQvcaLnBD8Txz) | 3:33 | 2022-12-21 |  |
 | [FNF](https://open.spotify.com/track/24oLpnz97P67nPQ10zf69H) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [5\-STAR](https://open.spotify.com/album/6kI8Ji0ivWkfRBOHBV7agS) | 2:51 | 2023-11-10 |  |
 | [FNF](https://open.spotify.com/track/7LQvpgaadSh74HzYAjOisA) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [5\-STAR](https://open.spotify.com/album/3Pel3gWsPxVpZVrciU0Fm6) | 2:51 | 2023-06-02 | 2024-04-19 |
@@ -208,6 +209,7 @@
 | [My Universe \(Seungmin, I.N\)](https://open.spotify.com/track/4a2TlUwtrzLwjcHe1vPvj9) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE), [Changbin \(Stray Kids\)](https://open.spotify.com/artist/3XSid6KaiKoMAVZs2ug3yw) | [IN LIFE](https://open.spotify.com/album/0aERWcI2KYSCM4biUihB9X) | 3:23 | 2022-03-18 | 2024-04-19 |
 | [N/S](https://open.spotify.com/track/1YXrdkQxSzDI3eh08Fmp9j) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [SKZ2021](https://open.spotify.com/album/3fFV6XeOkB9gGgMmZUij5e) | 3:44 | 2022-03-18 |  |
 | [N/S](https://open.spotify.com/track/4awANMW1SGfKtN5283lWjN) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [SKZ2021](https://open.spotify.com/album/3sMj0uu8dKNRnyqQozC1Xv) | 3:44 | 2022-03-18 | 2024-04-19 |
+| [NIGHT](https://open.spotify.com/track/4TjypNhCmZhTTBBkD39RiZ) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [NIGHT](https://open.spotify.com/album/0Wrd4UJLcfFemsSz4PVOaP) | 2:54 | 2024-10-06 |  |
 | [NO PROBLEM \(Feat\. Felix of Stray Kids\)](https://open.spotify.com/track/4zHvWi4iFAG45lgiN7smLC) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A), [Felix \(Stray Kids\)](https://open.spotify.com/artist/40zyx4iztMjRbIIoI802r4) | [IM NAYEON](https://open.spotify.com/album/0wqjfojWuTcbEvwaizvTMw) | 3:16 | 2022-06-24 |  |
 | [Novel](https://open.spotify.com/track/4xr0Pc53xqpSEOWPMx0JI9) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [THE SOUND](https://open.spotify.com/album/4ZW5rXkLINHYqH2MIAhkP2) | 3:08 | 2023-02-21 |  |
 | [Pacemaker](https://open.spotify.com/track/1QChR5f7Yavg2fA7Q11jdk) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [IN LIFE](https://open.spotify.com/album/0aERWcI2KYSCM4biUihB9X) | 3:10 | 2022-10-07 | 2022-11-14 |

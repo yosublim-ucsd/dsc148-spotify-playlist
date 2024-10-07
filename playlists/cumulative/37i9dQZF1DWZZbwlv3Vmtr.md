@@ -4,7 +4,7 @@
 
 > Uptempo instrumental hip hop beats.
 
-965 songs - 1 day 13 hr 25 min
+966 songs - 1 day 13 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [$100](https://open.spotify.com/track/57cmZWqFcUjDxLCO7ShN2m) | [Jimmy Lite Hands](https://open.spotify.com/artist/4phs14LDaiNnwzRXwZYdcU) | [Angel Delight](https://open.spotify.com/album/36C9zs3M2ZSsBVTBVjQ3DR) | 4:19 | 2022-04-15 | 2023-07-20 |
 | [.Like a fool](https://open.spotify.com/track/14xSzbGnD9bQWOiPJyuInc) | [совы не спят](https://open.spotify.com/artist/7mq1U4epG2wotVKowYPsTZ) | [.She](https://open.spotify.com/album/5BSLboqIdvj34O7GmyO7Dj) | 1:43 | 2022-04-15 | 2022-07-22 |
 | [1 Step Ahead](https://open.spotify.com/track/0UkpfwUKYe6uzYxhH3KnIB) | [Oyh!](https://open.spotify.com/artist/3md8n0ymZHbXmwbLocvzuJ) | [1 Step Ahead](https://open.spotify.com/album/2dP3R7ovDc4shHmI4ALjiR) | 2:00 | 2022-04-15 |  |
-| [18.30](https://open.spotify.com/track/4MkPGOUwyjojLypMUW63kA) | [the tofu paradigm](https://open.spotify.com/artist/3Ux7jaAusHBJAKgdzZ1RCe) | [18:30](https://open.spotify.com/album/4cEz3eLwbtwMLyqe7DDqYo) | 1:46 | 2024-08-09 |  |
+| [18.30](https://open.spotify.com/track/4MkPGOUwyjojLypMUW63kA) | [the tofu paradigm](https://open.spotify.com/artist/3Ux7jaAusHBJAKgdzZ1RCe) | [18:30](https://open.spotify.com/album/4cEz3eLwbtwMLyqe7DDqYo) | 1:46 | 2024-08-09 | 2024-10-07 |
 | [180 Gram](https://open.spotify.com/track/3mpF3RIt6EfMnQPuFqcTwI) | [Dusty Decks](https://open.spotify.com/artist/5mWkhlLhHU9FKT8vU8lBIR) | [180 Gram](https://open.spotify.com/album/2ejjB1ZMhxYv88ydHXYdxE) | 2:28 | 2022-04-15 | 2022-07-01 |
 | [2nd Street](https://open.spotify.com/track/4PWPgaEdMz3I27n5dYqnUm) | [Audio Avenues](https://open.spotify.com/artist/0iZT2heKINuMrvU92ce9yj) | [2nd Street](https://open.spotify.com/album/6M3AHZbb57FSvAYcxgFYBC) | 2:15 | 2022-04-15 | 2022-10-14 |
 | [4you to just love](https://open.spotify.com/track/2u7BaomZDkHMx1xfth3d5s) | [The Easy Breeze](https://open.spotify.com/artist/5MpwtWtFfapulpKEjAeU81) | [4you to just love](https://open.spotify.com/album/7yMLFLuzDknKgARBtrIQqq) | 2:34 | 2023-10-13 |  |
@@ -181,6 +181,7 @@
 | [Dig This Vibe](https://open.spotify.com/track/6mN4GW8gitB9Ah4AIV9ijY) | [Oilix](https://open.spotify.com/artist/5hXOmfSG0AUYWd2ipat82x) | [Dig This Vibe](https://open.spotify.com/album/45IgHtBzmB4ygUFLUzZUdI) | 2:00 | 2023-04-03 | 2023-10-06 |
 | [Dimples](https://open.spotify.com/track/5zNXoNQMHEQYegSTnfn5Jo) | [Le Pug](https://open.spotify.com/artist/6yZmHLd4W5wktJ1J690SSL) | [Dimples](https://open.spotify.com/album/7a3HiRaJgeMO3RQNza1JCh) | 1:55 | 2022-04-15 | 2022-05-14 |
 | [Discovery](https://open.spotify.com/track/3vykDH0xx2xUdOiUcnvjXr) | [DLJ](https://open.spotify.com/artist/3chQixmxhv9UmwQc8aBApA), [Bastien Brison](https://open.spotify.com/artist/7iuqKzG95voUC4pEkNSSLa), [Florent Garcia](https://open.spotify.com/artist/7EQWExaNGfO6BJ8F6kRJCh) | [Discovery](https://open.spotify.com/album/0RU6LDriSf3YOoPoWHC66k) | 2:17 | 2022-04-15 | 2023-10-13 |
+| [Distance](https://open.spotify.com/track/2baDpSKIRz3t7NTs6Z5CAx) | [Strehlow](https://open.spotify.com/artist/1pUWzVmu8ACMnIAu9BsOHm) | [Distance](https://open.spotify.com/album/3kVwHfPYQ1DUQX7vQPo6Jd) | 1:53 | 2024-10-04 |  |
 | [Dive In](https://open.spotify.com/track/1ZANGntZPUTTPR0P6n6upr) | [Low Lions](https://open.spotify.com/artist/2mUm5cFEahwt8CtctiwIor) | [Dive In](https://open.spotify.com/album/0F851oU5m8Mh3pqD0ZqWns) | 3:17 | 2022-04-15 | 2022-05-27 |
 | [Dizzy](https://open.spotify.com/track/4jtGfSRuNkTBkF3I9qt0N5) | [Platinum Dust](https://open.spotify.com/artist/4EOKoMTIR7K71Skv7gAmgS) | [Dizzy](https://open.spotify.com/album/1YOb6V7Hxqz8jbHq7ZvLJr) | 1:22 | 2022-04-15 | 2023-10-06 |
 | [don't ask](https://open.spotify.com/track/5diB9qcSwbt0fUFokzVj6H) | [Casein](https://open.spotify.com/artist/4LO3YMhEA7AJ9G7P3Cnuio) | [don't ask](https://open.spotify.com/album/4YikEDQT9EllZk6oM15xga) | 2:00 | 2022-05-13 | 2023-11-17 |

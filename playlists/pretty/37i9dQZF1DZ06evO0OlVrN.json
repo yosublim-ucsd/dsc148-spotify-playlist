@@ -1,12 +1,12 @@
 {
-  "description": "This is: Los Relampagos Del Norte. Alle wichtigen Tracks in einer Playlist.",
-  "num_followers": 7278,
+  "description": "This Is Los Relampagos Del Norte. Los temas esenciales, todos en una lista.",
+  "num_followers": 7281,
   "original_name": "This Is Los Relampagos Del Norte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zv3egAAAAAA/FvohVvStTnUFUMlH3wbp",
+  "snapshot_id": "ZwCBgAAAAAD72benMLlPiACK/QvJeJxs",
   "tracks": [
     {
       "added_at": null,
@@ -312,9 +312,9 @@
           "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
         }
       ],
-      "duration_ms": 204081,
-      "name": "Vida Truncada",
-      "url": "https://open.spotify.com/track/2CU8NCuaegfybJQZco8YBU"
+      "duration_ms": 184041,
+      "name": "Cobardemente",
+      "url": "https://open.spotify.com/track/4RZIcM350ojxE1p2FgFVmt"
     },
     {
       "added_at": null,
@@ -368,9 +368,9 @@
           "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
         }
       ],
-      "duration_ms": 243760,
-      "name": "Podiosero De Amor - Live",
-      "url": "https://open.spotify.com/track/4k6hwuu0agWO2RaMCJ94wM"
+      "duration_ms": 158666,
+      "name": "Prieta Mojina - Live",
+      "url": "https://open.spotify.com/track/1wpFLL3ZJBxUs47HxSIPZX"
     },
     {
       "added_at": null,
@@ -384,9 +384,9 @@
           "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
         }
       ],
-      "duration_ms": 184041,
-      "name": "Cobardemente",
-      "url": "https://open.spotify.com/track/4RZIcM350ojxE1p2FgFVmt"
+      "duration_ms": 204081,
+      "name": "Vida Truncada",
+      "url": "https://open.spotify.com/track/2CU8NCuaegfybJQZco8YBU"
     },
     {
       "added_at": null,
@@ -432,9 +432,9 @@
           "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
         }
       ],
-      "duration_ms": 158666,
-      "name": "Prieta Mojina - Live",
-      "url": "https://open.spotify.com/track/1wpFLL3ZJBxUs47HxSIPZX"
+      "duration_ms": 243760,
+      "name": "Podiosero De Amor - Live",
+      "url": "https://open.spotify.com/track/4k6hwuu0agWO2RaMCJ94wM"
     },
     {
       "added_at": null,
@@ -535,6 +535,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Puras Cantineras, Vol. 1",
+        "url": "https://open.spotify.com/album/0qqZVWDEGQLr1lhwp3jqUX"
+      },
+      "artists": [
+        {
+          "name": "Los Relampagos Del Norte",
+          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
+        }
+      ],
+      "duration_ms": 156320,
+      "name": "Caminar Caminar",
+      "url": "https://open.spotify.com/track/4JL1se9SpQ9rkRmJGQj2oN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Country Roland Vs. Los Relampagos",
         "url": "https://open.spotify.com/album/5reWQ2xXXaOn3Z9cyFwXn1"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 197734,
       "name": "Pancha La Contrabandista",
       "url": "https://open.spotify.com/track/3S9CMtCRtiSuvgOPRDoIiM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Puras Cantineras, Vol. 1",
-        "url": "https://open.spotify.com/album/0qqZVWDEGQLr1lhwp3jqUX"
-      },
-      "artists": [
-        {
-          "name": "Los Relampagos Del Norte",
-          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
-        }
-      ],
-      "duration_ms": 156320,
-      "name": "Caminar Caminar",
-      "url": "https://open.spotify.com/track/4JL1se9SpQ9rkRmJGQj2oN"
     },
     {
       "added_at": null,

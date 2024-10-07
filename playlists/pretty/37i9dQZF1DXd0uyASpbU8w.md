@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > The hottest tracks picked from the latest new releases in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/2aIcnnHTA16VbmhNJGLrGs?si=zKFfVWGpSeWjsOFqHf\_6CA">Makhadzi</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,732 likes - 69 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,814 likes - 69 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 35 | [Fé](https://open.spotify.com/track/6bp9ivNIHLHqHFPIaqC40u) | [June Freedom](https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC), [ÉLLÀH](https://open.spotify.com/artist/1I5Ae9tdGA0hgjWNTXqmJt) | [Fé](https://open.spotify.com/album/2GDBdMFXsZRxL5fe7GnL5a) | 2:32 |
 | 36 | [Timing](https://open.spotify.com/track/4KfHB0K5B88tHP4VRNheuT) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ), [Projexx](https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N) | [Timing](https://open.spotify.com/album/3sMcxdB5Y9QVJ1avHaq9H8) | 2:58 |
 | 37 | [Save Your Tears](https://open.spotify.com/track/46GFekGGrmoINYhMJInH4e) | [Nippa](https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq), [Gabzy](https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62), [GuiltyBeatz](https://open.spotify.com/artist/5DCdWXQ0QHQYlok4KK97em) | [Save Your Tears](https://open.spotify.com/album/5OsEbjWD8EokWIDtnu7kB9) | 2:24 |
-| 38 | [Faaji Jackson \(feat\. Cruel Santino\)](https://open.spotify.com/track/2Y37tCzJtqZfQ6kikUwOHY) | [Toyé](https://open.spotify.com/artist/3ako9MDpww4Y5tjUV02tmi), [Cruel Santino](https://open.spotify.com/artist/7IQgncU3ZwompToJecrmct) | [Wahala In Paradise](https://open.spotify.com/album/5t6q1yQ545Ir5XBik4MnlG) | 3:29 |
+| 38 | [Faaji Jackson](https://open.spotify.com/track/2Y37tCzJtqZfQ6kikUwOHY) | [Toyé](https://open.spotify.com/artist/3ako9MDpww4Y5tjUV02tmi), [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih) | [Wahala In Paradise](https://open.spotify.com/album/5t6q1yQ545Ir5XBik4MnlG) | 3:29 |
 | 39 | [SPEEDING](https://open.spotify.com/track/54F5bovArC81dBT3YikEmt) | [Sishii](https://open.spotify.com/artist/7qSWBbKrqf8gIGvvZLY2KG) | [ALT\-BOY](https://open.spotify.com/album/2NykPpomaq15Nbj5R0U4Os) | 3:57 |
 | 40 | [Ngidle](https://open.spotify.com/track/4EHnPTebdfncfJ3Qez0hFP) | [D'braz](https://open.spotify.com/artist/06l0SbL4Tz5E4GVjWJDbGL), [Msongi](https://open.spotify.com/artist/5EVpgXduYKQyggrs93bPby), [Lwami](https://open.spotify.com/artist/4ojVz3Vc0diTbr3GlZZ0y8) | [Ngidle](https://open.spotify.com/album/5edJhneY7kPAHQ2jas0tRk) | 5:45 |
 | 41 | [Hope](https://open.spotify.com/track/2hPZRSLyKFyJCYTotrmM1q) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Changes All The Time](https://open.spotify.com/album/0RJ06tZn2gom7mAmCIip2z) | 4:39 |

@@ -1,6 +1,6 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Shuffle</a> your heart out.",
-  "num_followers": 935065,
+  "num_followers": 935091,
   "original_name": "Shuffle Syndrome",
   "owner": {
     "name": "Spotify",
@@ -603,8 +603,8 @@
     {
       "added_at": "2024-10-04 16:50:13",
       "album": {
-        "name": "dashstar*",
-        "url": "https://open.spotify.com/album/3AQFV0Eye3fdkpPHODbxlG"
+        "name": "feel U luv Me",
+        "url": "https://open.spotify.com/album/0JdYTPeARfVEIDfRgWMZgY"
       },
       "artists": [
         {
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg"
         }
       ],
-      "duration_ms": 198095,
-      "name": "dashstar*",
-      "url": "https://open.spotify.com/track/0dAfw35k2hBsnbSl74AVJF"
+      "duration_ms": 234158,
+      "name": "feel U luv Me",
+      "url": "https://open.spotify.com/track/0xDSZ754ZOdthmF784uuE5"
     },
     {
       "added_at": "2024-10-04 16:50:13",
@@ -695,22 +695,6 @@
     {
       "added_at": "2024-10-04 16:50:13",
       "album": {
-        "name": "Dress Code",
-        "url": "https://open.spotify.com/album/4LvkMrD1HDDOzWHRS7GKE1"
-      },
-      "artists": [
-        {
-          "name": "Mau P",
-          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
-        }
-      ],
-      "duration_ms": 203437,
-      "name": "Dress Code",
-      "url": "https://open.spotify.com/track/0rK3a7tLRVgJBoc2DP3tIX"
-    },
-    {
-      "added_at": "2024-10-04 16:50:13",
-      "album": {
         "name": "Get Up Off The Floor",
         "url": "https://open.spotify.com/album/3hWpTTQXIhRZy9Ln14ZlNt"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 155000,
       "name": "Get Up Off The Floor",
       "url": "https://open.spotify.com/track/00TNno8mzugrcej0FqJvrW"
+    },
+    {
+      "added_at": "2024-10-04 16:50:13",
+      "album": {
+        "name": "Dress Code",
+        "url": "https://open.spotify.com/album/4LvkMrD1HDDOzWHRS7GKE1"
+      },
+      "artists": [
+        {
+          "name": "Mau P",
+          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
+        }
+      ],
+      "duration_ms": 203437,
+      "name": "Dress Code",
+      "url": "https://open.spotify.com/track/0rK3a7tLRVgJBoc2DP3tIX"
     },
     {
       "added_at": "2024-10-04 16:50:13",
@@ -763,18 +763,22 @@
     {
       "added_at": "2024-10-04 16:50:13",
       "album": {
-        "name": "feel U luv Me",
-        "url": "https://open.spotify.com/album/0JdYTPeARfVEIDfRgWMZgY"
+        "name": "The Future Is Now - The Truth",
+        "url": "https://open.spotify.com/album/1pa9ceQtw8p6Gl8EAY7ZIh"
       },
       "artists": [
         {
-          "name": "Knock2",
-          "url": "https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg"
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "MORTEN",
+          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
         }
       ],
-      "duration_ms": 234158,
-      "name": "feel U luv Me",
-      "url": "https://open.spotify.com/track/0xDSZ754ZOdthmF784uuE5"
+      "duration_ms": 178560,
+      "name": "The Future Is Now",
+      "url": "https://open.spotify.com/track/1XZhL5Rgbgbhf9o9MWneOx"
     },
     {
       "added_at": "2024-10-04 16:50:13",
@@ -799,22 +803,18 @@
     {
       "added_at": "2024-10-04 16:50:13",
       "album": {
-        "name": "The Future Is Now - The Truth",
-        "url": "https://open.spotify.com/album/1pa9ceQtw8p6Gl8EAY7ZIh"
+        "name": "dashstar*",
+        "url": "https://open.spotify.com/album/3AQFV0Eye3fdkpPHODbxlG"
       },
       "artists": [
         {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "MORTEN",
-          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
+          "name": "Knock2",
+          "url": "https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg"
         }
       ],
-      "duration_ms": 178560,
-      "name": "The Future Is Now",
-      "url": "https://open.spotify.com/track/1XZhL5Rgbgbhf9o9MWneOx"
+      "duration_ms": 198095,
+      "name": "dashstar*",
+      "url": "https://open.spotify.com/track/0dAfw35k2hBsnbSl74AVJF"
     },
     {
       "added_at": "2024-10-04 16:50:13",
@@ -875,22 +875,6 @@
       "duration_ms": 182769,
       "name": "Last Call",
       "url": "https://open.spotify.com/track/4x8mvegC6XJG0K9i3EpnxN"
-    },
-    {
-      "added_at": "2024-10-04 16:50:13",
-      "album": {
-        "name": "Make U SWEAT!",
-        "url": "https://open.spotify.com/album/0kHRNlcXwAsSJTlUYOtmg3"
-      },
-      "artists": [
-        {
-          "name": "Knock2",
-          "url": "https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg"
-        }
-      ],
-      "duration_ms": 234285,
-      "name": "Make U SWEAT!",
-      "url": "https://open.spotify.com/track/5uh8m2Lna0Gfk8YGqYVb6d"
     },
     {
       "added_at": "2024-10-04 16:50:13",
@@ -959,22 +943,6 @@
     {
       "added_at": "2024-10-04 16:50:13",
       "album": {
-        "name": "Beast Mode (Knock You Out)",
-        "url": "https://open.spotify.com/album/6k5C7dt5RAZZ7oTzoF7LBc"
-      },
-      "artists": [
-        {
-          "name": "Don Diablo",
-          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
-        }
-      ],
-      "duration_ms": 164761,
-      "name": "Beast Mode (Knock You Out)",
-      "url": "https://open.spotify.com/track/460FLlsVLaDLzPTclcuOl4"
-    },
-    {
-      "added_at": "2024-10-04 16:50:13",
-      "album": {
         "name": "Movin",
         "url": "https://open.spotify.com/album/6QCAQ6yMORnlCBu3ZslblQ"
       },
@@ -987,6 +955,38 @@
       "duration_ms": 131000,
       "name": "Movin",
       "url": "https://open.spotify.com/track/4ZrZ4JTnITEhLSYpZw43vV"
+    },
+    {
+      "added_at": "2024-10-04 16:50:13",
+      "album": {
+        "name": "Make U SWEAT!",
+        "url": "https://open.spotify.com/album/0kHRNlcXwAsSJTlUYOtmg3"
+      },
+      "artists": [
+        {
+          "name": "Knock2",
+          "url": "https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg"
+        }
+      ],
+      "duration_ms": 234285,
+      "name": "Make U SWEAT!",
+      "url": "https://open.spotify.com/track/5uh8m2Lna0Gfk8YGqYVb6d"
+    },
+    {
+      "added_at": "2024-10-04 16:50:13",
+      "album": {
+        "name": "Beast Mode (Knock You Out)",
+        "url": "https://open.spotify.com/album/6k5C7dt5RAZZ7oTzoF7LBc"
+      },
+      "artists": [
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        }
+      ],
+      "duration_ms": 164761,
+      "name": "Beast Mode (Knock You Out)",
+      "url": "https://open.spotify.com/track/460FLlsVLaDLzPTclcuOl4"
     },
     {
       "added_at": "2024-10-04 16:50:13",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2024-10-04 16:50:13",
       "album": {
-        "name": "2 Things",
-        "url": "https://open.spotify.com/album/1oMVaSg26TMl1zJEWbi38S"
-      },
-      "artists": [
-        {
-          "name": "Don Diablo",
-          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
-        }
-      ],
-      "duration_ms": 191250,
-      "name": "2 Things",
-      "url": "https://open.spotify.com/track/23YAweZPLgWqOTJdpvSv1O"
-    },
-    {
-      "added_at": "2024-10-04 16:50:13",
-      "album": {
         "name": "Make Me Feel",
         "url": "https://open.spotify.com/album/6VGs1p7hG1sRLmToA3Dw9d"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 154838,
       "name": "Make Me Feel",
       "url": "https://open.spotify.com/track/2i6FWcstV4Ct72L4ORnfwZ"
+    },
+    {
+      "added_at": "2024-10-04 16:50:13",
+      "album": {
+        "name": "2 Things",
+        "url": "https://open.spotify.com/album/1oMVaSg26TMl1zJEWbi38S"
+      },
+      "artists": [
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        }
+      ],
+      "duration_ms": 191250,
+      "name": "2 Things",
+      "url": "https://open.spotify.com/track/23YAweZPLgWqOTJdpvSv1O"
     },
     {
       "added_at": "2024-10-04 16:50:13",
@@ -1575,6 +1575,22 @@
     {
       "added_at": "2024-10-04 16:50:13",
       "album": {
+        "name": "I DON'T KNOW",
+        "url": "https://open.spotify.com/album/117TpFRsOx0lQK6oqamSmv"
+      },
+      "artists": [
+        {
+          "name": "Julian Jordan",
+          "url": "https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV"
+        }
+      ],
+      "duration_ms": 172519,
+      "name": "I DON'T KNOW",
+      "url": "https://open.spotify.com/track/5eYsvZMMvuBsxsSuGsyu8h"
+    },
+    {
+      "added_at": "2024-10-04 16:50:13",
+      "album": {
         "name": "Quick Highs",
         "url": "https://open.spotify.com/album/7JyrchSeYCqkjbzrajEXOf"
       },
@@ -1591,22 +1607,6 @@
       "duration_ms": 194243,
       "name": "Quick Highs",
       "url": "https://open.spotify.com/track/46Gsf4884pmAWdul0n5Px0"
-    },
-    {
-      "added_at": "2024-10-04 16:50:13",
-      "album": {
-        "name": "I DON'T KNOW",
-        "url": "https://open.spotify.com/album/117TpFRsOx0lQK6oqamSmv"
-      },
-      "artists": [
-        {
-          "name": "Julian Jordan",
-          "url": "https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV"
-        }
-      ],
-      "duration_ms": 172519,
-      "name": "I DON'T KNOW",
-      "url": "https://open.spotify.com/track/5eYsvZMMvuBsxsSuGsyu8h"
     },
     {
       "added_at": "2024-10-04 16:50:13",
@@ -1631,42 +1631,6 @@
     {
       "added_at": "2024-10-04 16:50:13",
       "album": {
-        "name": "Alok Club Series 2023",
-        "url": "https://open.spotify.com/album/5gdnagxUxbz8mIbb7DVdLT"
-      },
-      "artists": [
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
-        }
-      ],
-      "duration_ms": 188226,
-      "name": "2 Much 2 Handle",
-      "url": "https://open.spotify.com/track/2ivy0p2Ib5acN3D9Dfio8K"
-    },
-    {
-      "added_at": "2024-10-04 16:50:13",
-      "album": {
-        "name": "Turn It Up! (The Crew Motorfest Official Trailer)",
-        "url": "https://open.spotify.com/album/0cOotGbhLVZpkUlVGNSKN7"
-      },
-      "artists": [
-        {
-          "name": "Tujamo",
-          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
-        }
-      ],
-      "duration_ms": 176309,
-      "name": "Turn It Up! (The Crew Motorfest Official Trailer)",
-      "url": "https://open.spotify.com/track/3SdJfLXRrzaS06znA07k2u"
-    },
-    {
-      "added_at": "2024-10-04 16:50:13",
-      "album": {
         "name": "Addicted (feat. Haley Maze)",
         "url": "https://open.spotify.com/album/05P0tk5IqCsSBqgA1al8cK"
       },
@@ -1687,6 +1651,26 @@
       "duration_ms": 164500,
       "name": "Addicted (feat. Haley Maze)",
       "url": "https://open.spotify.com/track/1XplgLNxXve58U6Xhxn6B5"
+    },
+    {
+      "added_at": "2024-10-04 16:50:13",
+      "album": {
+        "name": "Alok Club Series 2023",
+        "url": "https://open.spotify.com/album/5gdnagxUxbz8mIbb7DVdLT"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        }
+      ],
+      "duration_ms": 188226,
+      "name": "2 Much 2 Handle",
+      "url": "https://open.spotify.com/track/2ivy0p2Ib5acN3D9Dfio8K"
     },
     {
       "added_at": "2024-10-04 16:50:13",
@@ -1763,6 +1747,22 @@
     {
       "added_at": "2024-10-04 16:50:13",
       "album": {
+        "name": "Turn It Up! (The Crew Motorfest Official Trailer)",
+        "url": "https://open.spotify.com/album/0cOotGbhLVZpkUlVGNSKN7"
+      },
+      "artists": [
+        {
+          "name": "Tujamo",
+          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
+        }
+      ],
+      "duration_ms": 176309,
+      "name": "Turn It Up! (The Crew Motorfest Official Trailer)",
+      "url": "https://open.spotify.com/track/3SdJfLXRrzaS06znA07k2u"
+    },
+    {
+      "added_at": "2024-10-04 16:50:13",
+      "album": {
         "name": "I Wanna",
         "url": "https://open.spotify.com/album/4hCKZABBaMgkZgDb7CizQR"
       },
@@ -1799,30 +1799,6 @@
     {
       "added_at": "2024-10-04 16:50:13",
       "album": {
-        "name": "Mind Awake, Body Asleep",
-        "url": "https://open.spotify.com/album/4sM2DMHiDDU25XRx7AEJ0x"
-      },
-      "artists": [
-        {
-          "name": "Odd Mob",
-          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
-        },
-        {
-          "name": "OMNOM",
-          "url": "https://open.spotify.com/artist/3PYRXP25JcbqhvNaJYcnWy"
-        },
-        {
-          "name": "HYPERBEAM",
-          "url": "https://open.spotify.com/artist/1b4DIAooTye6qmHHYRck9n"
-        }
-      ],
-      "duration_ms": 150447,
-      "name": "Mind Awake, Body Asleep",
-      "url": "https://open.spotify.com/track/6iGDeaY8vCTqxfGz6B8gTk"
-    },
-    {
-      "added_at": "2024-10-04 16:50:13",
-      "album": {
         "name": "I'm Drunk (feat. AMY MIY\u00da)",
         "url": "https://open.spotify.com/album/0wuMHJgOAu6cCsJUyyMAta"
       },
@@ -1839,26 +1815,6 @@
       "duration_ms": 150234,
       "name": "I'm Drunk (feat. AMY MIY\u00da)",
       "url": "https://open.spotify.com/track/0WW8txqecanm76y5Je34nf"
-    },
-    {
-      "added_at": "2024-10-04 16:50:13",
-      "album": {
-        "name": "Ravers",
-        "url": "https://open.spotify.com/album/4JuA2DPEmIV0EUeDikpy2h"
-      },
-      "artists": [
-        {
-          "name": "Tujamo",
-          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
-        },
-        {
-          "name": "TV Noise",
-          "url": "https://open.spotify.com/artist/32Aw9aJJoXXC1Vn3zqzJbQ"
-        }
-      ],
-      "duration_ms": 153749,
-      "name": "Ravers",
-      "url": "https://open.spotify.com/track/5YWxunBgmnSlEq2xz49FqI"
     },
     {
       "added_at": "2024-10-04 16:50:13",
@@ -1927,6 +1883,50 @@
       "duration_ms": 230625,
       "name": "Night Shift",
       "url": "https://open.spotify.com/track/1wxgWPF7uUr9aHDC9QuMEO"
+    },
+    {
+      "added_at": "2024-10-04 16:50:13",
+      "album": {
+        "name": "Mind Awake, Body Asleep",
+        "url": "https://open.spotify.com/album/4sM2DMHiDDU25XRx7AEJ0x"
+      },
+      "artists": [
+        {
+          "name": "Odd Mob",
+          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
+        },
+        {
+          "name": "OMNOM",
+          "url": "https://open.spotify.com/artist/3PYRXP25JcbqhvNaJYcnWy"
+        },
+        {
+          "name": "HYPERBEAM",
+          "url": "https://open.spotify.com/artist/1b4DIAooTye6qmHHYRck9n"
+        }
+      ],
+      "duration_ms": 150447,
+      "name": "Mind Awake, Body Asleep",
+      "url": "https://open.spotify.com/track/6iGDeaY8vCTqxfGz6B8gTk"
+    },
+    {
+      "added_at": "2024-10-04 16:50:13",
+      "album": {
+        "name": "For The People",
+        "url": "https://open.spotify.com/album/5QcP3EZoMWUi0ETWkh0NAj"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "Third Party",
+          "url": "https://open.spotify.com/artist/2J80qXI4NHKpq5RT3xUF7V"
+        }
+      ],
+      "duration_ms": 219345,
+      "name": "For The People",
+      "url": "https://open.spotify.com/track/4MvA2osUdPQpDKNwuDjlM8"
     }
   ],
   "unique_name": "Shuffle Syndrome",

@@ -4,7 +4,7 @@
 
 > I am blessed!
 
-55 songs - 5 hr 2 min
+56 songs - 5 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Game Changer](https://open.spotify.com/track/6x13BD1Qx46yEPcwu31QtS) | [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt), [Joepraize](https://open.spotify.com/artist/36zaJBikfrPslhG3cYnv8s) | [Consecrated](https://open.spotify.com/album/43dgcmNuJia1zc64HRWlLE) | 4:42 | 2024-09-27 | 2024-10-04 |
 | [God, Turn It Around](https://open.spotify.com/track/7o7YMusB6yqUQUtz7lDVrg) | [Jon Reddick](https://open.spotify.com/artist/7H0gjeKVq6IPXcAUZzzhD2) | [God, Turn It Around](https://open.spotify.com/album/7MUAMw8GcvLQmtDZ6mADWU) | 4:15 | 2024-09-27 |  |
 | [Goodness Of God \- Live](https://open.spotify.com/track/59uuKDpLFhHtCWwMudospF) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Believe For It](https://open.spotify.com/album/5UXG9YjxHZu7l4tTNjwIYX) | 4:57 | 2024-09-27 |  |
-| [Gratitude](https://open.spotify.com/track/0cXV6AoJBnrnrXK0toJHpB) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [House Of Miracles](https://open.spotify.com/album/0UJqeXmYE9Bs5jxXL0tCtW) | 5:37 | 2024-09-27 |  |
+| [Gratitude](https://open.spotify.com/track/0cXV6AoJBnrnrXK0toJHpB) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [House Of Miracles](https://open.spotify.com/album/0UJqeXmYE9Bs5jxXL0tCtW) | 5:37 | 2024-09-27 | 2024-10-07 |
 | [He Is Enough](https://open.spotify.com/track/4qEjiYIeD60K7dXcFYYkLS) | [kaestrings](https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC) | [He Is Enough](https://open.spotify.com/album/3wh80jvwtIwEpPeXb0hgE8) | 2:07 | 2024-09-27 |  |
 | [heaven on earth](https://open.spotify.com/track/5z2Iiuh9BOAyeiKNm4H6Ck) | [Sinmidele](https://open.spotify.com/artist/0xmUZqkqmJfezc0fzyfboj) | [heaven on earth](https://open.spotify.com/album/4gyOK38hfHydcIWYZxrWeA) | 3:23 | 2024-09-27 |  |
 | [How Beautiful \- I Love You Lord Album Version](https://open.spotify.com/track/6sRcuKFjF2BordZxd6tHL2) | [I Love You Lord Performers](https://open.spotify.com/artist/7pWZRausRqxia6Og2ezPxz) | [I Love You Lord](https://open.spotify.com/album/0vD08lwfExgCo2odwgVDEj) | 4:40 | 2024-09-27 | 2024-10-04 |
@@ -36,6 +36,7 @@
 | [Igwe](https://open.spotify.com/track/6Of9mBX5A3C0DqH7ysqqFb) | [Midnight Crew](https://open.spotify.com/artist/6fV5ZuXo1IZqGn9n1hexab) | [Igwe](https://open.spotify.com/album/5UP6Qw8DpgmuQJsevFLwmG) | 5:12 | 2024-09-27 | 2024-10-04 |
 | [Jireh \(feat\. Chandler Moore & Naomi Raine\)](https://open.spotify.com/track/1goiRWxiG3GTlODrdDZ7NR) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [Old Church Basement](https://open.spotify.com/album/1lsf7hKaOd3r214nvwmtwg) | 9:58 | 2024-09-27 |  |
 | [Joy in Chaos \(Extended\)](https://open.spotify.com/track/6vbzWTJ7tvSOieADnVJXO5) | [Holy drill](https://open.spotify.com/artist/3SN6XTw03dI5Cn49oeqz6j), [D6](https://open.spotify.com/artist/4ZUFmEBBatVOgDKIQng6cj), [Stanley Ifenna](https://open.spotify.com/artist/65aQElIwxRydi0DXqclTJA) | [Joy in Chaos \(Extended\)](https://open.spotify.com/album/2WrTLuhddDoXzMO51aiBPv) | 2:06 | 2024-09-27 |  |
+| [Lai Lai](https://open.spotify.com/track/4J7u9sUTi63l1KOIw5o9jC) | [Aremmic](https://open.spotify.com/artist/7BT40oP5mx0gTwoR8KmbCN) | [Lai Lai](https://open.spotify.com/album/5YXPJ5JBpAxrIGx81Pmyyn) | 2:47 | 2024-09-27 |  |
 | [Lord Reign in Me](https://open.spotify.com/track/6veNqszPsxhmzKdjyeOyw8) | [Watershed Worship](https://open.spotify.com/artist/6ylTf1eWq7u2VNgnY3bj9w) | [Audience of One](https://open.spotify.com/album/7lloLTbXisV6ZJjheZLQDZ) | 1:56 | 2024-09-27 |  |
 | [Made A Way](https://open.spotify.com/track/7gricPHxqsVEq1Lml7BFVu) | [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe) | [The Hill](https://open.spotify.com/album/2RJxSCEQJGBeJHej3IM2cV) | 9:51 | 2024-10-04 |  |
 | [My Jesus](https://open.spotify.com/track/2ryEDwlc0i1KSjFXggX6hG) | [Anthem Worship](https://open.spotify.com/artist/71LGmy4toAaXKJP7IK8xvG), [Remnant House](https://open.spotify.com/artist/0oCYQlLFMypU2RxjCRvpgR), [Mass Anthem](https://open.spotify.com/artist/0KVR8D2dx5Td8ONhNZRLkM) | [My Jesus](https://open.spotify.com/album/6UEazzBMYexzHKaoQVMvRl) | 3:19 | 2024-09-27 |  |

@@ -1657,6 +1657,24 @@
     },
     {
       "album": {
+        "name": "Amnesia",
+        "url": "https://open.spotify.com/album/0Veqr59WbWNYQYBrASjr67"
+      },
+      "artists": [
+        {
+          "name": "softclouds",
+          "url": "https://open.spotify.com/artist/4rjXInANFMCQfAzadFAi4d"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145781,
+      "name": "Amnesia",
+      "url": "https://open.spotify.com/track/45jbQ3dPOPRXrUfUnRwnCN"
+    },
+    {
+      "album": {
         "name": "Amsterdam",
         "url": "https://open.spotify.com/album/3SPkCiHZqB0ULe0aU133vd"
       },
@@ -2786,7 +2804,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-07",
       "duration_ms": 162253,
       "name": "Backwards",
       "url": "https://open.spotify.com/track/3kiPyaxjjdXnR7SAvQvy5W"
@@ -7097,6 +7115,24 @@
     },
     {
       "album": {
+        "name": "Come Fall",
+        "url": "https://open.spotify.com/album/0p8YocXPwG0lSTbQs49rWG"
+      },
+      "artists": [
+        {
+          "name": "Glozone",
+          "url": "https://open.spotify.com/artist/3tL52hfMx8eyd3ee1bM0yw"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114935,
+      "name": "Come Fall",
+      "url": "https://open.spotify.com/track/3mtGITybSAEVhFUkg2Bhuf"
+    },
+    {
+      "album": {
         "name": "Come With Me",
         "url": "https://open.spotify.com/album/0iYTcWYZKR03Jx8fedYii4"
       },
@@ -8802,6 +8838,24 @@
       "duration_ms": 163382,
       "name": "Distance",
       "url": "https://open.spotify.com/track/7uQuR9ix1B7X8rFuTzOv29"
+    },
+    {
+      "album": {
+        "name": "Distance",
+        "url": "https://open.spotify.com/album/3kVwHfPYQ1DUQX7vQPo6Jd"
+      },
+      "artists": [
+        {
+          "name": "Strehlow",
+          "url": "https://open.spotify.com/artist/1pUWzVmu8ACMnIAu9BsOHm"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113895,
+      "name": "Distance",
+      "url": "https://open.spotify.com/track/2baDpSKIRz3t7NTs6Z5CAx"
     },
     {
       "album": {
@@ -20980,7 +21034,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-07",
       "duration_ms": 156374,
       "name": "meadows",
       "url": "https://open.spotify.com/track/1sP0q6Egdh6pSclFNwpWBa"
@@ -28754,7 +28808,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-07",
       "duration_ms": 177562,
       "name": "Roses",
       "url": "https://open.spotify.com/track/1jcxxkEpDOMdVUxgetuxPC"
@@ -32334,7 +32388,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-07",
       "duration_ms": 169691,
       "name": "Stoplight",
       "url": "https://open.spotify.com/track/4rl9BtI2ieHybBIVbjf1tG"
@@ -32504,6 +32558,24 @@
       "duration_ms": 145969,
       "name": "Study Buddy",
       "url": "https://open.spotify.com/track/0MU3ceLzNHemxgS5HiOPNY"
+    },
+    {
+      "album": {
+        "name": "Study To This",
+        "url": "https://open.spotify.com/album/6mg53SgDrMGuPtVgma3jQc"
+      },
+      "artists": [
+        {
+          "name": "pen & paper",
+          "url": "https://open.spotify.com/artist/5YH8nf5dmqrTJh1gy6jJrp"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129229,
+      "name": "Study To This",
+      "url": "https://open.spotify.com/track/0AItApfAxK5MvCDBBYIeXR"
     },
     {
       "album": {

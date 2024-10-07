@@ -1,6 +1,6 @@
 {
   "description": "Let\u2019s get it on....",
-  "num_followers": 315643,
+  "num_followers": 315748,
   "original_name": "Sexy R&B",
   "owner": {
     "name": "Spotify",
@@ -527,22 +527,6 @@
     {
       "added_at": "2024-09-02 12:32:28",
       "album": {
-        "name": "About Time",
-        "url": "https://open.spotify.com/album/2ICdqEf91Kc9FwdlLtB748"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Claudio",
-          "url": "https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg"
-        }
-      ],
-      "duration_ms": 283236,
-      "name": "Stand Still",
-      "url": "https://open.spotify.com/track/66H06L8hktjhduwRDWntDT"
-    },
-    {
-      "added_at": "2024-09-02 12:32:28",
-      "album": {
         "name": "Sex You",
         "url": "https://open.spotify.com/album/79XLDV4AdHo8v3w0zrfg0n"
       },
@@ -591,6 +575,26 @@
     {
       "added_at": "2024-09-02 12:32:28",
       "album": {
+        "name": "Morning",
+        "url": "https://open.spotify.com/album/65Jg9mmsgao1JJizzRt7em"
+      },
+      "artists": [
+        {
+          "name": "Teyana Taylor",
+          "url": "https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a"
+        },
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 253946,
+      "name": "Morning",
+      "url": "https://open.spotify.com/track/2E6S3NgbSG9NYwbdi6rWYB"
+    },
+    {
+      "added_at": "2024-09-02 12:32:28",
+      "album": {
         "name": "How Many Drinks? (feat. Kendrick Lamar)",
         "url": "https://open.spotify.com/album/06ueBR3xyEH7vWPBx8ZCVa"
       },
@@ -611,22 +615,18 @@
     {
       "added_at": "2024-09-02 12:32:28",
       "album": {
-        "name": "Morning",
-        "url": "https://open.spotify.com/album/65Jg9mmsgao1JJizzRt7em"
+        "name": "About Time",
+        "url": "https://open.spotify.com/album/2ICdqEf91Kc9FwdlLtB748"
       },
       "artists": [
         {
-          "name": "Teyana Taylor",
-          "url": "https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a"
-        },
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+          "name": "Sabrina Claudio",
+          "url": "https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg"
         }
       ],
-      "duration_ms": 253946,
-      "name": "Morning",
-      "url": "https://open.spotify.com/track/2E6S3NgbSG9NYwbdi6rWYB"
+      "duration_ms": 283236,
+      "name": "Stand Still",
+      "url": "https://open.spotify.com/track/66H06L8hktjhduwRDWntDT"
     },
     {
       "added_at": "2024-09-02 12:32:28",
@@ -799,18 +799,18 @@
     {
       "added_at": "2024-09-02 12:32:28",
       "album": {
-        "name": "Alone",
-        "url": "https://open.spotify.com/album/2hQEUXjLCD9HUwK4O6Z8Ig"
+        "name": "All Have Fallen",
+        "url": "https://open.spotify.com/album/0pibHu3Mf8uCw6EAtHxZI9"
       },
       "artists": [
         {
-          "name": "Yo Trane",
-          "url": "https://open.spotify.com/artist/4W49e48G0gg1pucAN6JiGH"
+          "name": "ELHAE",
+          "url": "https://open.spotify.com/artist/6TrQLQR8tUluPbmdPy6jqY"
         }
       ],
-      "duration_ms": 169066,
-      "name": "Alone",
-      "url": "https://open.spotify.com/track/4lloQRaCOcbv3OekRnaQWB"
+      "duration_ms": 205640,
+      "name": "Needs",
+      "url": "https://open.spotify.com/track/7KdRu0h7PQ0Ecfa37rUBzW"
     },
     {
       "added_at": "2024-09-02 12:32:28",
@@ -831,18 +831,18 @@
     {
       "added_at": "2024-09-02 12:32:28",
       "album": {
-        "name": "All Have Fallen",
-        "url": "https://open.spotify.com/album/0pibHu3Mf8uCw6EAtHxZI9"
+        "name": "Alone",
+        "url": "https://open.spotify.com/album/2hQEUXjLCD9HUwK4O6Z8Ig"
       },
       "artists": [
         {
-          "name": "ELHAE",
-          "url": "https://open.spotify.com/artist/6TrQLQR8tUluPbmdPy6jqY"
+          "name": "Yo Trane",
+          "url": "https://open.spotify.com/artist/4W49e48G0gg1pucAN6JiGH"
         }
       ],
-      "duration_ms": 205640,
-      "name": "Needs",
-      "url": "https://open.spotify.com/track/7KdRu0h7PQ0Ecfa37rUBzW"
+      "duration_ms": 169066,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/4lloQRaCOcbv3OekRnaQWB"
     },
     {
       "added_at": "2024-09-02 12:32:28",
@@ -955,6 +955,22 @@
     {
       "added_at": "2024-09-02 12:32:28",
       "album": {
+        "name": "Permission",
+        "url": "https://open.spotify.com/album/5Fyh86nzm4QMsGVZxuHafa"
+      },
+      "artists": [
+        {
+          "name": "Ro James",
+          "url": "https://open.spotify.com/artist/7r2oyrNc0YjSC7hZL87V0Y"
+        }
+      ],
+      "duration_ms": 281511,
+      "name": "Permission",
+      "url": "https://open.spotify.com/track/5uu3UiPWFJaKbmj1iKsenH"
+    },
+    {
+      "added_at": "2024-09-02 12:32:28",
+      "album": {
         "name": "Back To Sleep",
         "url": "https://open.spotify.com/album/5GIDk7gHi6x19CxZeackUx"
       },
@@ -987,22 +1003,6 @@
       "duration_ms": 204631,
       "name": "Rock wit Me (feat. IAMSU!)",
       "url": "https://open.spotify.com/track/1UFg9EPjaPAiHl9lurJK0I"
-    },
-    {
-      "added_at": "2024-09-02 12:32:28",
-      "album": {
-        "name": "Permission",
-        "url": "https://open.spotify.com/album/5Fyh86nzm4QMsGVZxuHafa"
-      },
-      "artists": [
-        {
-          "name": "Ro James",
-          "url": "https://open.spotify.com/artist/7r2oyrNc0YjSC7hZL87V0Y"
-        }
-      ],
-      "duration_ms": 281511,
-      "name": "Permission",
-      "url": "https://open.spotify.com/track/5uu3UiPWFJaKbmj1iKsenH"
     },
     {
       "added_at": "2024-09-02 12:32:28",

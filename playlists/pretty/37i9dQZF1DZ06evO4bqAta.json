@@ -1,33 +1,13 @@
 {
   "description": "This is Bob Dylan. The essential tracks, all in one playlist.",
-  "num_followers": 523804,
+  "num_followers": 523850,
   "original_name": "This Is Bob Dylan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zv3egAAAAAAxyToivxV4ia4XZFmJG49S",
+  "snapshot_id": "ZwCBgAAAAAC7wfPTgxWNlXlzlpSRp61d",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Just Like Tom Thumb's Blues (Live at Madison Square Garden, New York City, NY - January 30, 1974)",
-        "url": "https://open.spotify.com/album/7iPyXregflstnu85dXNEMZ"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        },
-        {
-          "name": "The Band",
-          "url": "https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA"
-        }
-      ],
-      "duration_ms": 328466,
-      "name": "Just Like Tom Thumb's Blues - Live at Madison Square Garden, New York City, NY - January 30, 1974",
-      "url": "https://open.spotify.com/track/0hOWvv5WzJSZPmx1ofqTAd"
-    },
     {
       "added_at": null,
       "album": {
@@ -507,22 +487,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Side Tracks",
-        "url": "https://open.spotify.com/album/6hQZ17lLlz3upoUPX9nBDY"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 307800,
-      "name": "Things Have Changed - Single Version",
-      "url": "https://open.spotify.com/track/5KOi77ameCimkAdw0DMNoy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Infidels",
         "url": "https://open.spotify.com/album/66zadu7BtUnpbkT4iAkaHy"
       },
@@ -535,6 +499,22 @@
       "duration_ms": 376160,
       "name": "Jokerman",
       "url": "https://open.spotify.com/track/6cuHkcRUqtQhtJ4sWCkd1q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Times They Are A-Changin'",
+        "url": "https://open.spotify.com/album/7DZeLXvr9eTVpyI1OlqtcS"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 277106,
+      "name": "Boots of Spanish Leather",
+      "url": "https://open.spotify.com/track/6QHYEZlm9wyfXfEM1vSu1P"
     },
     {
       "added_at": null,
@@ -555,8 +535,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Times They Are A-Changin'",
-        "url": "https://open.spotify.com/album/7DZeLXvr9eTVpyI1OlqtcS"
+        "name": "Side Tracks",
+        "url": "https://open.spotify.com/album/6hQZ17lLlz3upoUPX9nBDY"
       },
       "artists": [
         {
@@ -564,9 +544,9 @@
           "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
         }
       ],
-      "duration_ms": 277106,
-      "name": "Boots of Spanish Leather",
-      "url": "https://open.spotify.com/track/6QHYEZlm9wyfXfEM1vSu1P"
+      "duration_ms": 307800,
+      "name": "Things Have Changed - Single Version",
+      "url": "https://open.spotify.com/track/5KOi77ameCimkAdw0DMNoy"
     },
     {
       "added_at": null,
@@ -603,6 +583,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Freewheelin' Bob Dylan",
+        "url": "https://open.spotify.com/album/0o1uFxZ1VTviqvNaYkTJek"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 271360,
+      "name": "Masters of War",
+      "url": "https://open.spotify.com/track/7xVpkVkd1klTzLJEysIR7z"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Nashville Skyline",
         "url": "https://open.spotify.com/album/5WBx64FIN04CvM2T1MGrUN"
       },
@@ -619,8 +615,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Freewheelin' Bob Dylan",
-        "url": "https://open.spotify.com/album/0o1uFxZ1VTviqvNaYkTJek"
+        "name": "Bringing It All Back Home",
+        "url": "https://open.spotify.com/album/1lPoRKSgZHQAYXxzBsOQ7v"
       },
       "artists": [
         {
@@ -628,9 +624,9 @@
           "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
         }
       ],
-      "duration_ms": 271360,
-      "name": "Masters of War",
-      "url": "https://open.spotify.com/track/7xVpkVkd1klTzLJEysIR7z"
+      "duration_ms": 166706,
+      "name": "She Belongs to Me",
+      "url": "https://open.spotify.com/track/2itBkHBUxGl4VfDj4HNyoD"
     },
     {
       "added_at": null,
@@ -651,22 +647,6 @@
       "duration_ms": 162880,
       "name": "You Ain't Goin' Nowhere",
       "url": "https://open.spotify.com/track/5WeQHNrOlxBv9NZTrz6xgE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bringing It All Back Home",
-        "url": "https://open.spotify.com/album/1lPoRKSgZHQAYXxzBsOQ7v"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 166706,
-      "name": "She Belongs to Me",
-      "url": "https://open.spotify.com/track/2itBkHBUxGl4VfDj4HNyoD"
     },
     {
       "added_at": null,
@@ -703,22 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Oh Mercy",
-        "url": "https://open.spotify.com/album/18ue4s9PsV3WBw7kkzD689"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 273200,
-      "name": "Man in the Long Black Coat",
-      "url": "https://open.spotify.com/track/5NtOAfnwkKo7eAGq7Uap3J"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bringing It All Back Home",
         "url": "https://open.spotify.com/album/1lPoRKSgZHQAYXxzBsOQ7v"
       },
@@ -731,6 +695,22 @@
       "duration_ms": 252066,
       "name": "It's All Over Now, Baby Blue",
       "url": "https://open.spotify.com/track/4EgKcG7aswxVfQEqa3dl8S"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Oh Mercy",
+        "url": "https://open.spotify.com/album/18ue4s9PsV3WBw7kkzD689"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 273200,
+      "name": "Man in the Long Black Coat",
+      "url": "https://open.spotify.com/track/5NtOAfnwkKo7eAGq7Uap3J"
     },
     {
       "added_at": null,
@@ -767,6 +747,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "The 1974 Live Recordings Sampler",
+        "url": "https://open.spotify.com/album/5x6WnUtS1wQU9MRHQWzPQa"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        },
+        {
+          "name": "The Band",
+          "url": "https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA"
+        }
+      ],
+      "duration_ms": 261799,
+      "name": "Something There Is About You - Live at Madison Square Garden, New York City, NY - January 30, 1974",
+      "url": "https://open.spotify.com/track/5o47ZqRTyHccIrzHna2mNf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Oh Mercy",
         "url": "https://open.spotify.com/album/18ue4s9PsV3WBw7kkzD689"
       },
@@ -795,26 +795,6 @@
       "duration_ms": 324800,
       "name": "Gotta Serve Somebody",
       "url": "https://open.spotify.com/track/760420tYNmNjFgi8bWvbop"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The 1974 Live Recordings Sampler",
-        "url": "https://open.spotify.com/album/5x6WnUtS1wQU9MRHQWzPQa"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        },
-        {
-          "name": "The Band",
-          "url": "https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA"
-        }
-      ],
-      "duration_ms": 261799,
-      "name": "Something There Is About You - Live at Madison Square Garden, New York City, NY - January 30, 1974",
-      "url": "https://open.spotify.com/track/5o47ZqRTyHccIrzHna2mNf"
     },
     {
       "added_at": null,
@@ -851,22 +831,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Freewheelin' Bob Dylan",
-        "url": "https://open.spotify.com/album/0o1uFxZ1VTviqvNaYkTJek"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 161466,
-      "name": "Corrina, Corrina",
-      "url": "https://open.spotify.com/track/1L4RtuEiAiwdX5taX4meLI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The 1974 Live Recordings Sampler",
         "url": "https://open.spotify.com/album/5x6WnUtS1wQU9MRHQWzPQa"
       },
@@ -883,6 +847,22 @@
       "duration_ms": 175773,
       "name": "Nobody 'Cept You - Live at Chicago Stadium, Chicago, IL - January 3, 1974",
       "url": "https://open.spotify.com/track/2uaGLT9YY9hwEt13dzImnl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Freewheelin' Bob Dylan",
+        "url": "https://open.spotify.com/album/0o1uFxZ1VTviqvNaYkTJek"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 161466,
+      "name": "Corrina, Corrina",
+      "url": "https://open.spotify.com/track/1L4RtuEiAiwdX5taX4meLI"
     }
   ],
   "unique_name": "This Is Bob Dylan",

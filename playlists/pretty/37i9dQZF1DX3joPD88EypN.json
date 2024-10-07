@@ -1,6 +1,6 @@
 {
   "description": "The sound of Jazz from the nordics. Cover: Jan Garbarek",
-  "num_followers": 44770,
+  "num_followers": 44798,
   "original_name": "Nordic Jazz",
   "owner": {
     "name": "Spotify",
@@ -283,6 +283,22 @@
     {
       "added_at": "2024-09-03 09:22:18",
       "album": {
+        "name": "Contra La Indecisi\u00f3n",
+        "url": "https://open.spotify.com/album/3e1D8PXvjboQnZY8o9vNgo"
+      },
+      "artists": [
+        {
+          "name": "Bobo Stenson Trio",
+          "url": "https://open.spotify.com/artist/1BKStidrseaPjyjQjL3yxV"
+        }
+      ],
+      "duration_ms": 352746,
+      "name": "Oktoberhavet",
+      "url": "https://open.spotify.com/track/3vAJ3gvTKRsXTO6XCbcI6q"
+    },
+    {
+      "added_at": "2024-09-03 09:22:18",
+      "album": {
         "name": "Places To Write",
         "url": "https://open.spotify.com/album/0wCUJgr4Y0j6floashhhYC"
       },
@@ -307,22 +323,6 @@
     {
       "added_at": "2024-09-03 09:22:18",
       "album": {
-        "name": "Contra La Indecisi\u00f3n",
-        "url": "https://open.spotify.com/album/3e1D8PXvjboQnZY8o9vNgo"
-      },
-      "artists": [
-        {
-          "name": "Bobo Stenson Trio",
-          "url": "https://open.spotify.com/artist/1BKStidrseaPjyjQjL3yxV"
-        }
-      ],
-      "duration_ms": 352746,
-      "name": "Oktoberhavet",
-      "url": "https://open.spotify.com/track/3vAJ3gvTKRsXTO6XCbcI6q"
-    },
-    {
-      "added_at": "2024-09-03 09:22:18",
-      "album": {
         "name": "Fifth Winter",
         "url": "https://open.spotify.com/album/1nE1ClsJHPJzUVwng0TOZw"
       },
@@ -343,30 +343,6 @@
       "duration_ms": 298271,
       "name": "Fifth Winter",
       "url": "https://open.spotify.com/track/4y9btMgXjLwya82zluPg2U"
-    },
-    {
-      "added_at": "2024-09-03 09:22:18",
-      "album": {
-        "name": "Remembrance",
-        "url": "https://open.spotify.com/album/6wDMKhu1pCrJSUSYfwqQcC"
-      },
-      "artists": [
-        {
-          "name": "Ketil Bj\u00f8rnstad",
-          "url": "https://open.spotify.com/artist/3OjcHir4Q8ERzefXtMU1ph"
-        },
-        {
-          "name": "Tore Brunborg",
-          "url": "https://open.spotify.com/artist/5TqxBHPsl5JnkRqPiZALxh"
-        },
-        {
-          "name": "Jon Christensen",
-          "url": "https://open.spotify.com/artist/5Li0fvh4kEJOWbLYWfNrPr"
-        }
-      ],
-      "duration_ms": 253973,
-      "name": "Remembrance IV",
-      "url": "https://open.spotify.com/track/6jZqtVqT7TEEyCuU6ZAl2m"
     },
     {
       "added_at": "2024-09-03 09:22:18",
@@ -403,6 +379,30 @@
       "duration_ms": 152234,
       "name": "M\u00f3gr\u00e1",
       "url": "https://open.spotify.com/track/3EjBZOjGpr8YKicl6E5TI8"
+    },
+    {
+      "added_at": "2024-09-03 09:22:18",
+      "album": {
+        "name": "Remembrance",
+        "url": "https://open.spotify.com/album/6wDMKhu1pCrJSUSYfwqQcC"
+      },
+      "artists": [
+        {
+          "name": "Ketil Bj\u00f8rnstad",
+          "url": "https://open.spotify.com/artist/3OjcHir4Q8ERzefXtMU1ph"
+        },
+        {
+          "name": "Tore Brunborg",
+          "url": "https://open.spotify.com/artist/5TqxBHPsl5JnkRqPiZALxh"
+        },
+        {
+          "name": "Jon Christensen",
+          "url": "https://open.spotify.com/artist/5Li0fvh4kEJOWbLYWfNrPr"
+        }
+      ],
+      "duration_ms": 253973,
+      "name": "Remembrance IV",
+      "url": "https://open.spotify.com/track/6jZqtVqT7TEEyCuU6ZAl2m"
     },
     {
       "added_at": "2024-09-03 09:22:18",
@@ -447,6 +447,22 @@
     {
       "added_at": "2024-09-03 09:22:18",
       "album": {
+        "name": "The Ground",
+        "url": "https://open.spotify.com/album/3rpF9hVBypQJLBf8fu5Vfu"
+      },
+      "artists": [
+        {
+          "name": "Tord Gustavsen Trio",
+          "url": "https://open.spotify.com/artist/3aTJxwDLCqCNvjrG7USP1a"
+        }
+      ],
+      "duration_ms": 295866,
+      "name": "Twins",
+      "url": "https://open.spotify.com/track/041E7613Qaw4buZMVpaLcd"
+    },
+    {
+      "added_at": "2024-09-03 09:22:18",
+      "album": {
         "name": "The Door",
         "url": "https://open.spotify.com/album/2dySoKZJaOsXcAZPwngDrB"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 472053,
       "name": "The Door",
       "url": "https://open.spotify.com/track/7xlHjxJbGQjHA40E7pFnZB"
-    },
-    {
-      "added_at": "2024-09-03 09:22:18",
-      "album": {
-        "name": "The Ground",
-        "url": "https://open.spotify.com/album/3rpF9hVBypQJLBf8fu5Vfu"
-      },
-      "artists": [
-        {
-          "name": "Tord Gustavsen Trio",
-          "url": "https://open.spotify.com/artist/3aTJxwDLCqCNvjrG7USP1a"
-        }
-      ],
-      "duration_ms": 295866,
-      "name": "Twins",
-      "url": "https://open.spotify.com/track/041E7613Qaw4buZMVpaLcd"
     },
     {
       "added_at": "2024-09-03 09:22:18",
@@ -523,22 +523,6 @@
     {
       "added_at": "2024-09-03 09:22:18",
       "album": {
-        "name": "Komposition VII",
-        "url": "https://open.spotify.com/album/5TkbzkhD1kl7ehDrNz6aPM"
-      },
-      "artists": [
-        {
-          "name": "Max Agnas",
-          "url": "https://open.spotify.com/artist/3NptYnPBFtCemjoPPqkGwA"
-        }
-      ],
-      "duration_ms": 473721,
-      "name": "L\u00e5ngsamt",
-      "url": "https://open.spotify.com/track/4o0d3Ljhgg6v1t6D3M1DtY"
-    },
-    {
-      "added_at": "2024-09-03 09:22:18",
-      "album": {
         "name": "Fisherman's Wharf",
         "url": "https://open.spotify.com/album/006qOp9pbbpXgnzhwLB5Bx"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 229946,
       "name": "Fisherman's Wharf",
       "url": "https://open.spotify.com/track/6i1Byt1hOVnZaZYDCvVoqq"
+    },
+    {
+      "added_at": "2024-09-03 09:22:18",
+      "album": {
+        "name": "Komposition VII",
+        "url": "https://open.spotify.com/album/5TkbzkhD1kl7ehDrNz6aPM"
+      },
+      "artists": [
+        {
+          "name": "Max Agnas",
+          "url": "https://open.spotify.com/artist/3NptYnPBFtCemjoPPqkGwA"
+        }
+      ],
+      "duration_ms": 473721,
+      "name": "L\u00e5ngsamt",
+      "url": "https://open.spotify.com/track/4o0d3Ljhgg6v1t6D3M1DtY"
     },
     {
       "added_at": "2024-09-03 09:22:18",
@@ -595,18 +595,18 @@
     {
       "added_at": "2024-09-03 09:22:18",
       "album": {
-        "name": "Begging",
-        "url": "https://open.spotify.com/album/1xHV3UVKqlEB1VCm3AiA0p"
+        "name": "A Year From Easter",
+        "url": "https://open.spotify.com/album/1OPLZN3JTriIxlGnPDGNX0"
       },
       "artists": [
         {
-          "name": "Mathias Eick",
-          "url": "https://open.spotify.com/artist/6emZIO62oAXpIGiplDApwJ"
+          "name": "Christian Wallumr\u00f8d Ensemble",
+          "url": "https://open.spotify.com/artist/3pTucW7td8pXstYpKDlmjd"
         }
       ],
-      "duration_ms": 294986,
-      "name": "Begging",
-      "url": "https://open.spotify.com/track/258PbYttupkBbMUYHWSD8E"
+      "duration_ms": 204800,
+      "name": "Eliasong",
+      "url": "https://open.spotify.com/track/3zsRUTrHvbJB8kU5KUBYgV"
     },
     {
       "added_at": "2024-09-03 09:22:18",
@@ -631,18 +631,18 @@
     {
       "added_at": "2024-09-03 09:22:18",
       "album": {
-        "name": "A Year From Easter",
-        "url": "https://open.spotify.com/album/1OPLZN3JTriIxlGnPDGNX0"
+        "name": "Begging",
+        "url": "https://open.spotify.com/album/1xHV3UVKqlEB1VCm3AiA0p"
       },
       "artists": [
         {
-          "name": "Christian Wallumr\u00f8d Ensemble",
-          "url": "https://open.spotify.com/artist/3pTucW7td8pXstYpKDlmjd"
+          "name": "Mathias Eick",
+          "url": "https://open.spotify.com/artist/6emZIO62oAXpIGiplDApwJ"
         }
       ],
-      "duration_ms": 204800,
-      "name": "Eliasong",
-      "url": "https://open.spotify.com/track/3zsRUTrHvbJB8kU5KUBYgV"
+      "duration_ms": 294986,
+      "name": "Begging",
+      "url": "https://open.spotify.com/track/258PbYttupkBbMUYHWSD8E"
     },
     {
       "added_at": "2024-09-03 09:22:18",
@@ -679,30 +679,6 @@
     {
       "added_at": "2024-09-03 09:22:18",
       "album": {
-        "name": "Last Spring",
-        "url": "https://open.spotify.com/album/2o24AbDEYPoyFNSXxDZp36"
-      },
-      "artists": [
-        {
-          "name": "Traditional",
-          "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
-        },
-        {
-          "name": "Bugge Wesseltoft",
-          "url": "https://open.spotify.com/artist/4p35pLn1lRgqoVVsnqNZEK"
-        },
-        {
-          "name": "Henning Kraggerud",
-          "url": "https://open.spotify.com/artist/2VCAUIEKX0BX7DWfA8qxPb"
-        }
-      ],
-      "duration_ms": 205084,
-      "name": "Margit Hjukse",
-      "url": "https://open.spotify.com/track/6BdgqkDDeRvAAHJtDCc48W"
-    },
-    {
-      "added_at": "2024-09-03 09:22:18",
-      "album": {
         "name": "Waves",
         "url": "https://open.spotify.com/album/0CaagUk6GRyy5qsboCBKhN"
       },
@@ -731,6 +707,30 @@
       "duration_ms": 194893,
       "name": "The Mariner's Cross",
       "url": "https://open.spotify.com/track/0BYntYvDMrtc6Ff501kvQ2"
+    },
+    {
+      "added_at": "2024-09-03 09:22:18",
+      "album": {
+        "name": "Last Spring",
+        "url": "https://open.spotify.com/album/2o24AbDEYPoyFNSXxDZp36"
+      },
+      "artists": [
+        {
+          "name": "Traditional",
+          "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
+        },
+        {
+          "name": "Bugge Wesseltoft",
+          "url": "https://open.spotify.com/artist/4p35pLn1lRgqoVVsnqNZEK"
+        },
+        {
+          "name": "Henning Kraggerud",
+          "url": "https://open.spotify.com/artist/2VCAUIEKX0BX7DWfA8qxPb"
+        }
+      ],
+      "duration_ms": 205084,
+      "name": "Margit Hjukse",
+      "url": "https://open.spotify.com/track/6BdgqkDDeRvAAHJtDCc48W"
     },
     {
       "added_at": "2024-09-03 09:22:18",
@@ -935,22 +935,6 @@
     {
       "added_at": "2024-09-03 09:22:18",
       "album": {
-        "name": "How Could It Be?",
-        "url": "https://open.spotify.com/album/1qNMQ0qMTQACz9LLmT6rOk"
-      },
-      "artists": [
-        {
-          "name": "Eyolf Dale",
-          "url": "https://open.spotify.com/artist/60mPtMudgea65qERR3OxFS"
-        }
-      ],
-      "duration_ms": 285773,
-      "name": "How Could It Be?",
-      "url": "https://open.spotify.com/track/2SBJGQF28xEMo4lgW5QpOo"
-    },
-    {
-      "added_at": "2024-09-03 09:22:18",
-      "album": {
         "name": "Bay Of Rainbows - Live At The Jazz Standard, New York / 2017",
         "url": "https://open.spotify.com/album/7E6lXyBvHGKpw4zgQllpdU"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 514933,
       "name": "Red Hook - Live At The Jazz Standard, New York / 2017",
       "url": "https://open.spotify.com/track/6GZ5LgI8dM3Ynj7J05kANS"
+    },
+    {
+      "added_at": "2024-09-03 09:22:18",
+      "album": {
+        "name": "How Could It Be?",
+        "url": "https://open.spotify.com/album/1qNMQ0qMTQACz9LLmT6rOk"
+      },
+      "artists": [
+        {
+          "name": "Eyolf Dale",
+          "url": "https://open.spotify.com/artist/60mPtMudgea65qERR3OxFS"
+        }
+      ],
+      "duration_ms": 285773,
+      "name": "How Could It Be?",
+      "url": "https://open.spotify.com/track/2SBJGQF28xEMo4lgW5QpOo"
     },
     {
       "added_at": "2024-09-03 09:22:18",
@@ -1027,18 +1027,22 @@
     {
       "added_at": "2024-09-03 09:22:18",
       "album": {
-        "name": "Salmesykkel",
-        "url": "https://open.spotify.com/album/3YffhrgdNcLooABYHzwDy4"
+        "name": "First Song",
+        "url": "https://open.spotify.com/album/3QQclg7ryOGX2BjlxeTAnu"
       },
       "artists": [
         {
-          "name": "Moskus",
-          "url": "https://open.spotify.com/artist/5olyNH3GQns8kKDujdG5oa"
+          "name": "S\u00f8ren Bebe Trio",
+          "url": "https://open.spotify.com/artist/32sqNe2WFtog9WufAVd8EI"
+        },
+        {
+          "name": "S\u00f8ren Bebe",
+          "url": "https://open.spotify.com/artist/7waR4b5Jd0R39qLTFhOJWh"
         }
       ],
-      "duration_ms": 169639,
-      "name": "Bibelbeltet",
-      "url": "https://open.spotify.com/track/1BkzpUKhtWEX9ZDwoIg84J"
+      "duration_ms": 292936,
+      "name": "Elegy for an Angel",
+      "url": "https://open.spotify.com/track/0AyVDuy1RxHq8ZNJpWxeAa"
     },
     {
       "added_at": "2024-09-03 09:22:18",
@@ -1063,38 +1067,18 @@
     {
       "added_at": "2024-09-03 09:22:18",
       "album": {
-        "name": "The Old Church",
-        "url": "https://open.spotify.com/album/26m8b1gNKIZuhdSnmvBsbm"
+        "name": "Salmesykkel",
+        "url": "https://open.spotify.com/album/3YffhrgdNcLooABYHzwDy4"
       },
       "artists": [
         {
-          "name": "Tord Gustavsen Trio",
-          "url": "https://open.spotify.com/artist/3aTJxwDLCqCNvjrG7USP1a"
+          "name": "Moskus",
+          "url": "https://open.spotify.com/artist/5olyNH3GQns8kKDujdG5oa"
         }
       ],
-      "duration_ms": 322440,
-      "name": "The Old Church",
-      "url": "https://open.spotify.com/track/5bhl94lZGXsb3uwErNxqNv"
-    },
-    {
-      "added_at": "2024-09-03 09:22:18",
-      "album": {
-        "name": "First Song",
-        "url": "https://open.spotify.com/album/3QQclg7ryOGX2BjlxeTAnu"
-      },
-      "artists": [
-        {
-          "name": "S\u00f8ren Bebe Trio",
-          "url": "https://open.spotify.com/artist/32sqNe2WFtog9WufAVd8EI"
-        },
-        {
-          "name": "S\u00f8ren Bebe",
-          "url": "https://open.spotify.com/artist/7waR4b5Jd0R39qLTFhOJWh"
-        }
-      ],
-      "duration_ms": 292936,
-      "name": "Elegy for an Angel",
-      "url": "https://open.spotify.com/track/0AyVDuy1RxHq8ZNJpWxeAa"
+      "duration_ms": 169639,
+      "name": "Bibelbeltet",
+      "url": "https://open.spotify.com/track/1BkzpUKhtWEX9ZDwoIg84J"
     },
     {
       "added_at": "2024-09-03 09:22:18",
@@ -1111,6 +1095,22 @@
       "duration_ms": 417986,
       "name": "Pearl Hunter",
       "url": "https://open.spotify.com/track/4dURy4ZLToGF8bQq49JPAz"
+    },
+    {
+      "added_at": "2024-09-03 09:22:18",
+      "album": {
+        "name": "The Soundtrack of My Home",
+        "url": "https://open.spotify.com/album/1VBHoTWea9O1DftbQQZ85U"
+      },
+      "artists": [
+        {
+          "name": "Kjetil Jerve",
+          "url": "https://open.spotify.com/artist/1LdI3wdD3YgxQnTTVbqR9A"
+        }
+      ],
+      "duration_ms": 240390,
+      "name": "Iben",
+      "url": "https://open.spotify.com/track/67HtBGSSyTGiwXN8oIenbt"
     },
     {
       "added_at": "2024-09-03 09:22:18",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2024-09-03 09:22:18",
       "album": {
-        "name": "The Soundtrack of My Home",
-        "url": "https://open.spotify.com/album/1VBHoTWea9O1DftbQQZ85U"
-      },
-      "artists": [
-        {
-          "name": "Kjetil Jerve",
-          "url": "https://open.spotify.com/artist/1LdI3wdD3YgxQnTTVbqR9A"
-        }
-      ],
-      "duration_ms": 240390,
-      "name": "Iben",
-      "url": "https://open.spotify.com/track/67HtBGSSyTGiwXN8oIenbt"
-    },
-    {
-      "added_at": "2024-09-03 09:22:18",
-      "album": {
         "name": "As If The Ghost \u2026 Was Me!?",
         "url": "https://open.spotify.com/album/3GSjLfaQEcqMrLF5X10hsg"
       },
@@ -1171,18 +1155,46 @@
     {
       "added_at": "2024-09-03 09:22:18",
       "album": {
-        "name": "One Kiss Too Many",
-        "url": "https://open.spotify.com/album/7pvKPFlyHRbFXfk60pXdRM"
+        "name": "The Old Church",
+        "url": "https://open.spotify.com/album/26m8b1gNKIZuhdSnmvBsbm"
       },
       "artists": [
         {
-          "name": "Jakob Dinesen",
-          "url": "https://open.spotify.com/artist/0zXQ9vdekvX8v0BlR5DuU0"
+          "name": "Tord Gustavsen Trio",
+          "url": "https://open.spotify.com/artist/3aTJxwDLCqCNvjrG7USP1a"
         }
       ],
-      "duration_ms": 200344,
-      "name": "Slaraffenland",
-      "url": "https://open.spotify.com/track/1SAwlxxaYYz84K8gsjsdmN"
+      "duration_ms": 322440,
+      "name": "The Old Church",
+      "url": "https://open.spotify.com/track/5bhl94lZGXsb3uwErNxqNv"
+    },
+    {
+      "added_at": "2024-09-03 09:22:18",
+      "album": {
+        "name": "Reflections and Odysseys",
+        "url": "https://open.spotify.com/album/4zTsD1CmVivVkizao8YOjf"
+      },
+      "artists": [
+        {
+          "name": "Rymden",
+          "url": "https://open.spotify.com/artist/2yxMIwcfg9qdyodUwirbRW"
+        },
+        {
+          "name": "Bugge Wesseltoft",
+          "url": "https://open.spotify.com/artist/4p35pLn1lRgqoVVsnqNZEK"
+        },
+        {
+          "name": "Magnus \u00d6str\u00f6m",
+          "url": "https://open.spotify.com/artist/1ZPtjLlwSZjToQXcq2JVy2"
+        },
+        {
+          "name": "Dan Berglund",
+          "url": "https://open.spotify.com/artist/4kgT3nNA0k08zCF5xUCLb4"
+        }
+      ],
+      "duration_ms": 415186,
+      "name": "The Lugubrious Youth Of Lucky Luke",
+      "url": "https://open.spotify.com/track/4KOGxrdk7NVm63Ea9ZkbIi"
     },
     {
       "added_at": "2024-09-03 09:22:18",
@@ -1231,30 +1243,18 @@
     {
       "added_at": "2024-09-03 09:22:18",
       "album": {
-        "name": "Reflections and Odysseys",
-        "url": "https://open.spotify.com/album/4zTsD1CmVivVkizao8YOjf"
+        "name": "One Kiss Too Many",
+        "url": "https://open.spotify.com/album/7pvKPFlyHRbFXfk60pXdRM"
       },
       "artists": [
         {
-          "name": "Rymden",
-          "url": "https://open.spotify.com/artist/2yxMIwcfg9qdyodUwirbRW"
-        },
-        {
-          "name": "Bugge Wesseltoft",
-          "url": "https://open.spotify.com/artist/4p35pLn1lRgqoVVsnqNZEK"
-        },
-        {
-          "name": "Magnus \u00d6str\u00f6m",
-          "url": "https://open.spotify.com/artist/1ZPtjLlwSZjToQXcq2JVy2"
-        },
-        {
-          "name": "Dan Berglund",
-          "url": "https://open.spotify.com/artist/4kgT3nNA0k08zCF5xUCLb4"
+          "name": "Jakob Dinesen",
+          "url": "https://open.spotify.com/artist/0zXQ9vdekvX8v0BlR5DuU0"
         }
       ],
-      "duration_ms": 415186,
-      "name": "The Lugubrious Youth Of Lucky Luke",
-      "url": "https://open.spotify.com/track/4KOGxrdk7NVm63Ea9ZkbIi"
+      "duration_ms": 200344,
+      "name": "Slaraffenland",
+      "url": "https://open.spotify.com/track/1SAwlxxaYYz84K8gsjsdmN"
     },
     {
       "added_at": "2024-09-03 09:22:18",
@@ -1399,34 +1399,6 @@
     {
       "added_at": "2024-09-03 09:22:18",
       "album": {
-        "name": "The Height of the Reeds",
-        "url": "https://open.spotify.com/album/04B7mvuoqmjkOxGcAJazAe"
-      },
-      "artists": [
-        {
-          "name": "Arve Henriksen",
-          "url": "https://open.spotify.com/artist/32pN1An13076I4PTMzn2g7"
-        },
-        {
-          "name": "Eivind Aarset",
-          "url": "https://open.spotify.com/artist/0VqQFqLcy0bBMPDnKB25vC"
-        },
-        {
-          "name": "Jan Bang",
-          "url": "https://open.spotify.com/artist/3GNzfnhVE1aY6fgK403107"
-        },
-        {
-          "name": "Jez Riley French",
-          "url": "https://open.spotify.com/artist/5gQJ8Qfhhxflmsz88orRjc"
-        }
-      ],
-      "duration_ms": 263137,
-      "name": "Height of the Reeds in the Wetlands",
-      "url": "https://open.spotify.com/track/5dHQT5wEWr0qMEqh998zGE"
-    },
-    {
-      "added_at": "2024-09-03 09:22:18",
-      "album": {
         "name": "Remembrance",
         "url": "https://open.spotify.com/album/6wDMKhu1pCrJSUSYfwqQcC"
       },
@@ -1515,6 +1487,34 @@
     {
       "added_at": "2024-09-03 09:22:18",
       "album": {
+        "name": "The Height of the Reeds",
+        "url": "https://open.spotify.com/album/04B7mvuoqmjkOxGcAJazAe"
+      },
+      "artists": [
+        {
+          "name": "Arve Henriksen",
+          "url": "https://open.spotify.com/artist/32pN1An13076I4PTMzn2g7"
+        },
+        {
+          "name": "Eivind Aarset",
+          "url": "https://open.spotify.com/artist/0VqQFqLcy0bBMPDnKB25vC"
+        },
+        {
+          "name": "Jan Bang",
+          "url": "https://open.spotify.com/artist/3GNzfnhVE1aY6fgK403107"
+        },
+        {
+          "name": "Jez Riley French",
+          "url": "https://open.spotify.com/artist/5gQJ8Qfhhxflmsz88orRjc"
+        }
+      ],
+      "duration_ms": 263137,
+      "name": "Height of the Reeds in the Wetlands",
+      "url": "https://open.spotify.com/track/5dHQT5wEWr0qMEqh998zGE"
+    },
+    {
+      "added_at": "2024-09-03 09:22:18",
+      "album": {
         "name": "Point of View",
         "url": "https://open.spotify.com/album/6buYfEBqnN3lIYZSBwHpxl"
       },
@@ -1527,6 +1527,22 @@
       "duration_ms": 249386,
       "name": "Point of View",
       "url": "https://open.spotify.com/track/0Y1hgpu3wBX3gfc1YKAMS9"
+    },
+    {
+      "added_at": "2024-09-03 09:22:18",
+      "album": {
+        "name": "Scandinavian Standards",
+        "url": "https://open.spotify.com/album/3VODRpK2OCjnnBhNnqcQQt"
+      },
+      "artists": [
+        {
+          "name": "Niels Lan Doky",
+          "url": "https://open.spotify.com/artist/4aRjcECzLWpoxbzYFaevhV"
+        }
+      ],
+      "duration_ms": 306826,
+      "name": "The Lilly Flower - Liljankukka",
+      "url": "https://open.spotify.com/track/0GPpNpnx62fCmifnzd3gVL"
     },
     {
       "added_at": "2024-09-03 09:22:18",
@@ -1567,38 +1583,6 @@
     {
       "added_at": "2024-09-03 09:22:18",
       "album": {
-        "name": "Scandinavian Standards",
-        "url": "https://open.spotify.com/album/3VODRpK2OCjnnBhNnqcQQt"
-      },
-      "artists": [
-        {
-          "name": "Niels Lan Doky",
-          "url": "https://open.spotify.com/artist/4aRjcECzLWpoxbzYFaevhV"
-        }
-      ],
-      "duration_ms": 306826,
-      "name": "The Lilly Flower - Liljankukka",
-      "url": "https://open.spotify.com/track/0GPpNpnx62fCmifnzd3gVL"
-    },
-    {
-      "added_at": "2024-09-03 09:22:18",
-      "album": {
-        "name": "Lycka till med musiken",
-        "url": "https://open.spotify.com/album/2sDcUMzVTuwXFVXOU0ueNL"
-      },
-      "artists": [
-        {
-          "name": "Agnas Bros",
-          "url": "https://open.spotify.com/artist/5vGzJvLmR1rxxu1jgDWlJp"
-        }
-      ],
-      "duration_ms": 544093,
-      "name": "9",
-      "url": "https://open.spotify.com/track/2buYb32JUcXvH1PLwTc8Cu"
-    },
-    {
-      "added_at": "2024-09-03 09:22:18",
-      "album": {
         "name": "Cirkel",
         "url": "https://open.spotify.com/album/3iGpwXE8cKFIXeVjAF7svY"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 269258,
       "name": "I Kirken",
       "url": "https://open.spotify.com/track/7sEygfTquCCu3h5wGsMJeF"
+    },
+    {
+      "added_at": "2024-09-03 09:22:18",
+      "album": {
+        "name": "Lycka till med musiken",
+        "url": "https://open.spotify.com/album/2sDcUMzVTuwXFVXOU0ueNL"
+      },
+      "artists": [
+        {
+          "name": "Agnas Bros",
+          "url": "https://open.spotify.com/artist/5vGzJvLmR1rxxu1jgDWlJp"
+        }
+      ],
+      "duration_ms": 544093,
+      "name": "9",
+      "url": "https://open.spotify.com/track/2buYb32JUcXvH1PLwTc8Cu"
     },
     {
       "added_at": "2024-09-03 09:22:18",
@@ -1847,18 +1847,18 @@
     {
       "added_at": "2024-09-03 09:22:18",
       "album": {
-        "name": "Elise",
-        "url": "https://open.spotify.com/album/4kCZMjIuzw9VNaVPgirs5d"
+        "name": "Space Is the Place",
+        "url": "https://open.spotify.com/album/4lQAHafLECfbxdayEp8jzK"
       },
       "artists": [
         {
-          "name": "Ingebrigt H\u00e5ker Flaten & H\u00e5kon Kornstad",
-          "url": "https://open.spotify.com/artist/3dcXHjTOXqdvMG8TxapKUF"
+          "name": "Carsten Dahl, Arild Andersen, Jon Christensen",
+          "url": "https://open.spotify.com/artist/7jQHF3wIZuWlLhQn5mhdYV"
         }
       ],
-      "duration_ms": 362680,
-      "name": "Paa Hinside \u00d8rken",
-      "url": "https://open.spotify.com/track/2vM22BUosPBjTT1jAIpmA5"
+      "duration_ms": 241120,
+      "name": "Space Is the Place",
+      "url": "https://open.spotify.com/track/2Vp1EnHodm8cYQkn54aqKD"
     },
     {
       "added_at": "2024-09-03 09:22:18",
@@ -1891,30 +1891,18 @@
     {
       "added_at": "2024-09-03 09:22:18",
       "album": {
-        "name": "Zen Coltrane (A Relinquishing Ritual)",
-        "url": "https://open.spotify.com/album/1KJP9yhl3SC5qHULfsIRNr"
+        "name": "Elise",
+        "url": "https://open.spotify.com/album/4kCZMjIuzw9VNaVPgirs5d"
       },
       "artists": [
         {
-          "name": "Symbiocene",
-          "url": "https://open.spotify.com/artist/5l42SzRtQuj28417dsqQ6m"
-        },
-        {
-          "name": "Jarmo Saari",
-          "url": "https://open.spotify.com/artist/37iScztCuS0YBVo4ta3Gcn"
-        },
-        {
-          "name": "Pauli Lyytinen",
-          "url": "https://open.spotify.com/artist/31yZJRhBpvlTxtgQM5skfA"
-        },
-        {
-          "name": "Anni Elif",
-          "url": "https://open.spotify.com/artist/1JmCGH2y1Cifm0lRyVYAww"
+          "name": "Ingebrigt H\u00e5ker Flaten & H\u00e5kon Kornstad",
+          "url": "https://open.spotify.com/artist/3dcXHjTOXqdvMG8TxapKUF"
         }
       ],
-      "duration_ms": 244271,
-      "name": "Zen Coltrane (A Relinquishing Ritual)",
-      "url": "https://open.spotify.com/track/0C2eQx5k3HZ5d9vVtFdi59"
+      "duration_ms": 362680,
+      "name": "Paa Hinside \u00d8rken",
+      "url": "https://open.spotify.com/track/2vM22BUosPBjTT1jAIpmA5"
     },
     {
       "added_at": "2024-09-03 09:22:18",
@@ -1943,18 +1931,30 @@
     {
       "added_at": "2024-09-03 09:22:18",
       "album": {
-        "name": "Space Is the Place",
-        "url": "https://open.spotify.com/album/4lQAHafLECfbxdayEp8jzK"
+        "name": "Zen Coltrane (A Relinquishing Ritual)",
+        "url": "https://open.spotify.com/album/1KJP9yhl3SC5qHULfsIRNr"
       },
       "artists": [
         {
-          "name": "Carsten Dahl, Arild Andersen, Jon Christensen",
-          "url": "https://open.spotify.com/artist/7jQHF3wIZuWlLhQn5mhdYV"
+          "name": "Symbiocene",
+          "url": "https://open.spotify.com/artist/5l42SzRtQuj28417dsqQ6m"
+        },
+        {
+          "name": "Jarmo Saari",
+          "url": "https://open.spotify.com/artist/37iScztCuS0YBVo4ta3Gcn"
+        },
+        {
+          "name": "Pauli Lyytinen",
+          "url": "https://open.spotify.com/artist/31yZJRhBpvlTxtgQM5skfA"
+        },
+        {
+          "name": "Anni Elif",
+          "url": "https://open.spotify.com/artist/1JmCGH2y1Cifm0lRyVYAww"
         }
       ],
-      "duration_ms": 241120,
-      "name": "Space Is the Place",
-      "url": "https://open.spotify.com/track/2Vp1EnHodm8cYQkn54aqKD"
+      "duration_ms": 244271,
+      "name": "Zen Coltrane (A Relinquishing Ritual)",
+      "url": "https://open.spotify.com/track/0C2eQx5k3HZ5d9vVtFdi59"
     },
     {
       "added_at": "2024-09-03 09:22:18",

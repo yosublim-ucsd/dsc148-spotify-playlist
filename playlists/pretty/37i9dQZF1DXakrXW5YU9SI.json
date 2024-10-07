@@ -1,6 +1,6 @@
 {
   "description": "Jesie\u0144 nigdy nie brzmia\u0142a tak dobrze \ud83c\udf42",
-  "num_followers": 328705,
+  "num_followers": 328820,
   "original_name": "Jesienny chill",
   "owner": {
     "name": "Spotify",
@@ -827,6 +827,22 @@
     {
       "added_at": "2024-09-27 10:46:03",
       "album": {
+        "name": "That's What I Love",
+        "url": "https://open.spotify.com/album/4AO7lU5M0Zj4aWOaZFCj93"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 226440,
+      "name": "That's What I Love",
+      "url": "https://open.spotify.com/track/6qxPXbJammkI5JkjVctXED"
+    },
+    {
+      "added_at": "2024-09-27 10:46:03",
+      "album": {
         "name": "The Table",
         "url": "https://open.spotify.com/album/2vmyJbe35Nv4DDyOkTR5Ku"
       },
@@ -911,22 +927,6 @@
     {
       "added_at": "2024-09-27 10:46:03",
       "album": {
-        "name": "That's What I Love",
-        "url": "https://open.spotify.com/album/4AO7lU5M0Zj4aWOaZFCj93"
-      },
-      "artists": [
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 226440,
-      "name": "That's What I Love",
-      "url": "https://open.spotify.com/track/6qxPXbJammkI5JkjVctXED"
-    },
-    {
-      "added_at": "2024-09-27 10:46:03",
-      "album": {
         "name": "Dispose of Me",
         "url": "https://open.spotify.com/album/00gOh6il0z2KBhwqWSu3iX"
       },
@@ -991,22 +991,6 @@
     {
       "added_at": "2024-09-27 10:46:03",
       "album": {
-        "name": "Image",
-        "url": "https://open.spotify.com/album/7JnlRfxpLRDdeYOPuNcklD"
-      },
-      "artists": [
-        {
-          "name": "Magdalena Bay",
-          "url": "https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ"
-        }
-      ],
-      "duration_ms": 212866,
-      "name": "Image",
-      "url": "https://open.spotify.com/track/5LIUI808j8M8bXQd0kRxnp"
-    },
-    {
-      "added_at": "2024-09-27 10:46:03",
-      "album": {
         "name": "Czuj\u0119 Ci\u0119 Obok",
         "url": "https://open.spotify.com/album/4UftLy4wwU1yDanxA9DYdN"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 152575,
       "name": "Czuj\u0119 Ci\u0119 Obok",
       "url": "https://open.spotify.com/track/21v4fl1hJ2bAUtp5fnpkoP"
+    },
+    {
+      "added_at": "2024-09-27 10:46:03",
+      "album": {
+        "name": "Image",
+        "url": "https://open.spotify.com/album/7JnlRfxpLRDdeYOPuNcklD"
+      },
+      "artists": [
+        {
+          "name": "Magdalena Bay",
+          "url": "https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ"
+        }
+      ],
+      "duration_ms": 212866,
+      "name": "Image",
+      "url": "https://open.spotify.com/track/5LIUI808j8M8bXQd0kRxnp"
     },
     {
       "added_at": "2024-09-27 10:46:03",
@@ -1163,18 +1163,18 @@
     {
       "added_at": "2024-09-27 10:46:03",
       "album": {
-        "name": "Where The Names Are Real",
-        "url": "https://open.spotify.com/album/0SnEZObvH4juxuuJEznkGV"
+        "name": "list do niej",
+        "url": "https://open.spotify.com/album/4qSid7v4Ami0xKyks5uxzT"
       },
       "artists": [
         {
-          "name": "Warhaus",
-          "url": "https://open.spotify.com/artist/5uy67fWgovgNdbkP1kAf7m"
+          "name": "Zalia",
+          "url": "https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d"
         }
       ],
-      "duration_ms": 321047,
-      "name": "Where The Names Are Real",
-      "url": "https://open.spotify.com/track/6anbHjGgQbYQH5FbF6bAvR"
+      "duration_ms": 185786,
+      "name": "list do niej",
+      "url": "https://open.spotify.com/track/3AFWlh9Q4qTdqRR0ASqoKL"
     }
   ],
   "unique_name": "Jesienny chill",

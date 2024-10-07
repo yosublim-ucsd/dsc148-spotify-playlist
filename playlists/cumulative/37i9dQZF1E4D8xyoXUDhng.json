@@ -218,7 +218,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-07",
       "duration_ms": 301226,
       "name": "A Heart That Forgives",
       "url": "https://open.spotify.com/track/57iQXTRzaKvQnaIJXiDFlO"
@@ -352,7 +352,7 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-07",
       "duration_ms": 288800,
       "name": "A Move of God Is on the Way",
       "url": "https://open.spotify.com/track/0IEGDguaRRqXWzckqo8yUv"
@@ -550,7 +550,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-06",
+      "date_removed": null,
       "duration_ms": 197306,
       "name": "Act Like You Know",
       "url": "https://open.spotify.com/track/42hwIg34ZMXbI5G47UY5Vu"
@@ -1398,7 +1398,7 @@
       ],
       "date_added": "2024-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-09",
+      "date_removed": null,
       "duration_ms": 230266,
       "name": "Another Chance",
       "url": "https://open.spotify.com/track/6TBeYGqJ4Q1Wk8FwWl2Xd5"
@@ -1626,6 +1626,24 @@
       "duration_ms": 329546,
       "name": "Ask For Rain",
       "url": "https://open.spotify.com/track/4oIKYWBaNckHa3N3pHvzO2"
+    },
+    {
+      "album": {
+        "name": "Live",
+        "url": "https://open.spotify.com/album/2nf3QTcwu3VB94QuBro4eg"
+      },
+      "artists": [
+        {
+          "name": "The Wilmington Chester Mass Choir",
+          "url": "https://open.spotify.com/artist/3PK4K24b1pPIc5bAWNzyJ0"
+        }
+      ],
+      "date_added": "2024-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276120,
+      "name": "At Calvary",
+      "url": "https://open.spotify.com/track/7cTpyDjdHZ22lyxNoROiJG"
     },
     {
       "album": {
@@ -2658,7 +2676,7 @@
       ],
       "date_added": "2023-06-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-13",
+      "date_removed": null,
       "duration_ms": 273173,
       "name": "Born For This",
       "url": "https://open.spotify.com/track/2NIkLBwBBTK8KmPO0dIu4N"
@@ -2968,7 +2986,7 @@
       ],
       "date_added": "2023-06-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-19",
+      "date_removed": null,
       "duration_ms": 415560,
       "name": "Call Him Up",
       "url": "https://open.spotify.com/track/0RlJdVpgOjyQ6AOtxP3b7y"
@@ -3152,7 +3170,7 @@
       ],
       "date_added": "2024-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-26",
+      "date_removed": null,
       "duration_ms": 352120,
       "name": "Center Of My Joy",
       "url": "https://open.spotify.com/track/4uK4xjIkuEJEEkPAqbr7oo"
@@ -4567,6 +4585,24 @@
     },
     {
       "album": {
+        "name": "Live In New Orleans",
+        "url": "https://open.spotify.com/album/3NgSRkUOoAoHqeItpBgYJY"
+      },
+      "artists": [
+        {
+          "name": "Gospel Music Workshop of America",
+          "url": "https://open.spotify.com/artist/5sDbMabQp0F45Af1guYNoE"
+        }
+      ],
+      "date_added": "2024-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 446066,
+      "name": "Every Day Is Thanksgiving",
+      "url": "https://open.spotify.com/track/2uRHQTvIzmsysYeeJES2WX"
+    },
+    {
+      "album": {
         "name": "JESUS IS KING",
         "url": "https://open.spotify.com/album/0FgZKfoU2Br5sHOfvZKTI9"
       },
@@ -4730,7 +4766,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-07",
       "duration_ms": 335795,
       "name": "Everything Will Be Alright",
       "url": "https://open.spotify.com/track/6lbPZ2r6Lnxz59rjq1L7ny"
@@ -4976,7 +5012,7 @@
       ],
       "date_added": "2024-05-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-04",
+      "date_removed": null,
       "duration_ms": 262173,
       "name": "Faith Come Alive",
       "url": "https://open.spotify.com/track/2iR1166NshLnEWeAs5WC9Q"
@@ -4994,7 +5030,7 @@
       ],
       "date_added": "2023-05-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-01",
+      "date_removed": null,
       "duration_ms": 272982,
       "name": "Faith That Conquers",
       "url": "https://open.spotify.com/track/1bXijLYK9IMVFiegCRWDTr"
@@ -5016,6 +5052,32 @@
       "duration_ms": 270360,
       "name": "Faith To Believe - Radio Edit",
       "url": "https://open.spotify.com/track/0XkE4HsL9HRAXV8S8hRp0T"
+    },
+    {
+      "album": {
+        "name": "Remember Me: The Mahalia Jackson Story (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/69SalyGJ7nBvOrex2NJTWN"
+      },
+      "artists": [
+        {
+          "name": "Ledisi",
+          "url": "https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA"
+        },
+        {
+          "name": "Bebe Winans",
+          "url": "https://open.spotify.com/artist/6D9xBdOOyGHqOam9OShAWl"
+        },
+        {
+          "name": "Donald Lawrence & Company",
+          "url": "https://open.spotify.com/artist/1haevnXTeIhKJSc04ly4as"
+        }
+      ],
+      "date_added": "2024-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301533,
+      "name": "Faith to Carry Me",
+      "url": "https://open.spotify.com/track/7r3V3bU6y5RER9Xckc1f93"
     },
     {
       "album": {
@@ -6094,7 +6156,7 @@
       ],
       "date_added": "2023-03-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-06",
+      "date_removed": null,
       "duration_ms": 241906,
       "name": "Get Your House In Order",
       "url": "https://open.spotify.com/track/1jHKB3VyaRrj9hvcMTDKk9"
@@ -6112,7 +6174,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-07",
       "duration_ms": 263640,
       "name": "Get Your House In Order",
       "url": "https://open.spotify.com/track/2hxNsvAnjC0rGA6noLGynw"
@@ -7056,7 +7118,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-31",
+      "date_removed": null,
       "duration_ms": 274640,
       "name": "God's Got A Blessing",
       "url": "https://open.spotify.com/track/6n4iafStAXkPPLRbcDFEyD"
@@ -7194,7 +7256,7 @@
       ],
       "date_added": "2024-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-07",
       "duration_ms": 582200,
       "name": "Goin' Up Yonder",
       "url": "https://open.spotify.com/track/5Q8kGGeUqVJMO6fm00qB57"
@@ -9330,7 +9392,7 @@
       ],
       "date_added": "2024-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-07",
       "duration_ms": 343066,
       "name": "His Mercy Endureth Forever (Psalm 118)",
       "url": "https://open.spotify.com/track/0ZLaWGC0Zlwn3Wtae9rg1F"
@@ -10134,7 +10196,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-01",
+      "date_removed": null,
       "duration_ms": 273013,
       "name": "I Belong Here",
       "url": "https://open.spotify.com/track/22tu08CfFWq1nkJiOBp0xa"
@@ -10336,7 +10398,7 @@
       ],
       "date_added": "2024-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-04",
+      "date_removed": null,
       "duration_ms": 248417,
       "name": "I Can't Breathe",
       "url": "https://open.spotify.com/track/4eEOh2xjZTFkLYDVknWz6Q"
@@ -10510,7 +10572,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-07",
       "duration_ms": 401466,
       "name": "I Don't Feel Noways Tired",
       "url": "https://open.spotify.com/track/24qfSdQa013gZ7GqlMjRx9"
@@ -10752,7 +10814,7 @@
       ],
       "date_added": "2024-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-07",
       "duration_ms": 301466,
       "name": "I Just Can't Give Up Now",
       "url": "https://open.spotify.com/track/1lvAyqOIXe3NpN0Rt9rztS"
@@ -10806,7 +10868,7 @@
       ],
       "date_added": "2023-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-03",
+      "date_removed": null,
       "duration_ms": 276773,
       "name": "I Know I've Been Changed",
       "url": "https://open.spotify.com/track/4sfrZS1LHxbiesSpqDBRga"
@@ -10984,7 +11046,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-07",
       "duration_ms": 307293,
       "name": "I Love The Lord - Extended edit",
       "url": "https://open.spotify.com/track/7M51az1jbm9pD8YNhmAYwZ"
@@ -11974,7 +12036,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-07",
       "duration_ms": 484560,
       "name": "I Won't Complain Medley (feat. Yolanda Morgan)",
       "url": "https://open.spotify.com/track/35ocW2X9XMmsZLOYdMHhIC"
@@ -12076,7 +12138,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-05",
+      "date_removed": null,
       "duration_ms": 225473,
       "name": "I'll Always Be Thankful (feat. the Pace Family)",
       "url": "https://open.spotify.com/track/3QKhnaRMGjvmLsQLeadTQG"
@@ -12206,7 +12268,7 @@
       ],
       "date_added": "2024-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-07",
       "duration_ms": 350600,
       "name": "I'm At Peace",
       "url": "https://open.spotify.com/track/5amxAD9ohXKWXVFqHQaalx"
@@ -12286,7 +12348,7 @@
       ],
       "date_added": "2023-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-07",
       "duration_ms": 352903,
       "name": "I'm Free",
       "url": "https://open.spotify.com/track/34vhBf30Z1xdUBsHLqjlGc"
@@ -12930,7 +12992,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-07",
       "duration_ms": 268979,
       "name": "If My People",
       "url": "https://open.spotify.com/track/1aFQRba6ZsmNCQzkd0MV9j"
@@ -13294,7 +13356,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-07",
       "duration_ms": 141306,
       "name": "Is There Any Way",
       "url": "https://open.spotify.com/track/1roYWS66ozExsfnrSuuFcH"
@@ -13400,7 +13462,7 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-07",
       "duration_ms": 359609,
       "name": "It Belongs To Me (feat. Marvin L. Winans)",
       "url": "https://open.spotify.com/track/6uY12z9dd3ySOiaaMrqoQH"
@@ -16989,6 +17051,24 @@
     },
     {
       "album": {
+        "name": "Made To Worship",
+        "url": "https://open.spotify.com/album/3pICPiatsIEosghgfpaFVv"
+      },
+      "artists": [
+        {
+          "name": "Myron Williams",
+          "url": "https://open.spotify.com/artist/3OynlC6nWcVjm1c9zjo9SK"
+        }
+      ],
+      "date_added": "2024-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91880,
+      "name": "Made To Worship You (Interlude)",
+      "url": "https://open.spotify.com/track/3zBP1AJC05xw001BYiw99k"
+    },
+    {
+      "album": {
         "name": "Thirsty",
         "url": "https://open.spotify.com/album/04IAkH0X6ZDu6T35zD8KQy"
       },
@@ -17236,7 +17316,7 @@
       ],
       "date_added": "2023-03-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-29",
+      "date_removed": null,
       "duration_ms": 178026,
       "name": "Marvelous Things",
       "url": "https://open.spotify.com/track/1t04vtfBxhwx3jg4wAEsJG"
@@ -17334,7 +17414,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-04",
+      "date_removed": null,
       "duration_ms": 278426,
       "name": "Maybe God Is Tryin' To Tell You Somethin' - From \"The Color Purple\" Soundtrack",
       "url": "https://open.spotify.com/track/4JXiNTDq6OGkyp5aZ7X7cn"
@@ -17468,7 +17548,7 @@
       ],
       "date_added": "2023-03-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-05",
+      "date_removed": null,
       "duration_ms": 156026,
       "name": "Mercy",
       "url": "https://open.spotify.com/track/1vqzSOlthX17HAs2A8kSEP"
@@ -17630,7 +17710,7 @@
       ],
       "date_added": "2023-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-07",
       "duration_ms": 250893,
       "name": "More Abundantly",
       "url": "https://open.spotify.com/track/5LhDlzZY48ePfGxR64gioC"
@@ -18266,7 +18346,7 @@
       ],
       "date_added": "2023-03-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-01",
+      "date_removed": null,
       "duration_ms": 282985,
       "name": "My Soul Loves Jesus",
       "url": "https://open.spotify.com/track/2FPhJsu5y3yWSjJ2gl4Ole"
@@ -18992,7 +19072,7 @@
       ],
       "date_added": "2024-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-07",
       "duration_ms": 284000,
       "name": "Not Forgotten",
       "url": "https://open.spotify.com/track/4qWKcYBCgtY1fhVkC6v9Lo"
@@ -19328,7 +19408,7 @@
       ],
       "date_added": "2023-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-07",
       "duration_ms": 300489,
       "name": "Oh Give Thanks",
       "url": "https://open.spotify.com/track/4m8IRET6HIiUT2cF9PXyFq"
@@ -19618,7 +19698,7 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-07",
       "duration_ms": 209213,
       "name": "Oh, Lord, I Want You To Help Me",
       "url": "https://open.spotify.com/track/4YYAq7R4J1BOj48nKA0icC"
@@ -20184,7 +20264,7 @@
       ],
       "date_added": "2023-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-07",
       "duration_ms": 290600,
       "name": "Pass Me Not",
       "url": "https://open.spotify.com/track/1pGfsKTVU8e7vcCeL2cln4"
@@ -22904,7 +22984,7 @@
       ],
       "date_added": "2023-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-05",
+      "date_removed": null,
       "duration_ms": 182474,
       "name": "Sing (From \"The Terrell Show: Season 6\")",
       "url": "https://open.spotify.com/track/5Xbt7RoO6N6ymFA4DmzaPK"
@@ -23128,7 +23208,7 @@
       ],
       "date_added": "2024-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-07",
       "duration_ms": 223305,
       "name": "So Good",
       "url": "https://open.spotify.com/track/3mq6JBrT90wckkU9lMWzVp"
@@ -23572,7 +23652,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-07",
       "duration_ms": 396453,
       "name": "Spiritual",
       "url": "https://open.spotify.com/track/264DuAk6ypux2fHZFoUSKD"
@@ -24338,7 +24418,7 @@
       ],
       "date_added": "2023-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-07",
       "duration_ms": 293120,
       "name": "Take It to the Lord in Prayer",
       "url": "https://open.spotify.com/track/3kg8P8fbGvuS4U1wo5RGA3"
@@ -25202,7 +25282,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-07",
       "duration_ms": 317746,
       "name": "The Center of My Joy",
       "url": "https://open.spotify.com/track/01uA4LkBFfp2xEeIojihtC"
@@ -25278,7 +25358,7 @@
       ],
       "date_added": "2024-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-07",
       "duration_ms": 445135,
       "name": "The Cross Alone",
       "url": "https://open.spotify.com/track/3xzEnkCQX4tolrC9G4gmCQ"
@@ -25770,7 +25850,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-05",
+      "date_removed": null,
       "duration_ms": 360759,
       "name": "The Prayer Song",
       "url": "https://open.spotify.com/track/6HxBwfVXPdUSvwPNNShP7r"
@@ -25878,7 +25958,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-15",
+      "date_removed": null,
       "duration_ms": 214407,
       "name": "The Root - Gospel Remix",
       "url": "https://open.spotify.com/track/2i4SoFFS6YASOY1glFI9IH"
@@ -26540,7 +26620,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-07",
       "duration_ms": 129639,
       "name": "Til We Meet",
       "url": "https://open.spotify.com/track/4DrWlzGquUlQtxWCrXvobu"
@@ -26584,7 +26664,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-20",
+      "date_removed": null,
       "duration_ms": 119992,
       "name": "To God Be the Glory - From \"Pose: Season 3\"",
       "url": "https://open.spotify.com/track/3t9IjaZT36XaqOcVsTT7QN"
@@ -26882,7 +26962,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-07",
       "duration_ms": 303133,
       "name": "Trust Me (with Vision)",
       "url": "https://open.spotify.com/track/7aXT2kg321TUEJ4gpCDSJL"
@@ -27074,6 +27154,24 @@
       "duration_ms": 286826,
       "name": "Um Good",
       "url": "https://open.spotify.com/track/0qvhxrpROlCjvXhKNACb0V"
+    },
+    {
+      "album": {
+        "name": "A-Men Golden Gospel Greats",
+        "url": "https://open.spotify.com/album/2GEhxSejjE3DEhl8dlK2Tf"
+      },
+      "artists": [
+        {
+          "name": "Myrna Summers",
+          "url": "https://open.spotify.com/artist/62YL4zsyKq6RvTzNUel5jV"
+        }
+      ],
+      "date_added": "2024-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328000,
+      "name": "Uncloudy Day",
+      "url": "https://open.spotify.com/track/1gFKHRGJZuEVn2EuamufEC"
     },
     {
       "album": {
@@ -27428,7 +27526,7 @@
       ],
       "date_added": "2023-12-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-03",
+      "date_removed": null,
       "duration_ms": 308866,
       "name": "Victory Is Mine",
       "url": "https://open.spotify.com/track/2PdoPOjC8qhDgpz2NlOcYg"
@@ -27536,7 +27634,7 @@
       ],
       "date_added": "2023-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-14",
+      "date_removed": null,
       "duration_ms": 225192,
       "name": "Wait (Radio Edit)",
       "url": "https://open.spotify.com/track/3uiHj1PHzUYA80Ow2bwgqx"
@@ -28576,7 +28674,7 @@
       ],
       "date_added": "2023-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-07",
       "duration_ms": 219065,
       "name": "Whole World In His Hands - Radio Edit",
       "url": "https://open.spotify.com/track/2rH6klpQqamjrWudLnKCmQ"
@@ -28612,7 +28710,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-01",
+      "date_removed": null,
       "duration_ms": 319611,
       "name": "Why Not Me",
       "url": "https://open.spotify.com/track/0eTK3BDNAujJ6fGJw1Cy39"
@@ -29462,7 +29560,7 @@
       ],
       "date_added": "2023-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-07",
       "duration_ms": 204960,
       "name": "You Gave Me Hope",
       "url": "https://open.spotify.com/track/4EqNAhbSJoanTrdX2GJE2C"

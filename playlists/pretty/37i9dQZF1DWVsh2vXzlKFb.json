@@ -1,6 +1,6 @@
 {
   "description": "The t-shirt weather essentials.",
-  "num_followers": 563850,
+  "num_followers": 563791,
   "original_name": "Summer Indie",
   "owner": {
     "name": "Spotify",
@@ -171,18 +171,18 @@
     {
       "added_at": "2024-08-26 23:13:11",
       "album": {
-        "name": "Charm",
-        "url": "https://open.spotify.com/album/1KNUCVXgIxKUGiuEB8eG0i"
+        "name": "The Rise and Fall of a Midwest Princess",
+        "url": "https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ"
       },
       "artists": [
         {
-          "name": "Clairo",
-          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
         }
       ],
-      "duration_ms": 195109,
-      "name": "Juna",
-      "url": "https://open.spotify.com/track/2mWfVxEo4xZYDaz0v7hYrN"
+      "duration_ms": 184841,
+      "name": "HOT TO GO!",
+      "url": "https://open.spotify.com/track/4xdBrk0nFZaP54vvZj0yx7"
     },
     {
       "added_at": "2024-08-26 23:13:11",
@@ -203,18 +203,18 @@
     {
       "added_at": "2024-08-26 23:13:11",
       "album": {
-        "name": "The Rise and Fall of a Midwest Princess",
-        "url": "https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ"
+        "name": "Charm",
+        "url": "https://open.spotify.com/album/1KNUCVXgIxKUGiuEB8eG0i"
       },
       "artists": [
         {
-          "name": "Chappell Roan",
-          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
         }
       ],
-      "duration_ms": 184841,
-      "name": "HOT TO GO!",
-      "url": "https://open.spotify.com/track/4xdBrk0nFZaP54vvZj0yx7"
+      "duration_ms": 195109,
+      "name": "Juna",
+      "url": "https://open.spotify.com/track/2mWfVxEo4xZYDaz0v7hYrN"
     },
     {
       "added_at": "2024-08-26 23:13:11",
@@ -527,6 +527,22 @@
     {
       "added_at": "2024-08-26 23:13:11",
       "album": {
+        "name": "Pure Heroine",
+        "url": "https://open.spotify.com/album/0rmhjUgoVa17LZuS8xWQ3v"
+      },
+      "artists": [
+        {
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+        }
+      ],
+      "duration_ms": 258969,
+      "name": "Ribs",
+      "url": "https://open.spotify.com/track/2MvvoeRt8NcOXWESkxWn3g"
+    },
+    {
+      "added_at": "2024-08-26 23:13:11",
+      "album": {
         "name": "Girl, so confusing featuring lorde",
         "url": "https://open.spotify.com/album/7mwumbLY3qKZOQRCv0OdyX"
       },
@@ -543,22 +559,6 @@
       "duration_ms": 205938,
       "name": "Girl, so confusing featuring lorde",
       "url": "https://open.spotify.com/track/2YFhqZvhTpyK13gKXMKV7R"
-    },
-    {
-      "added_at": "2024-08-26 23:13:11",
-      "album": {
-        "name": "Pure Heroine",
-        "url": "https://open.spotify.com/album/0rmhjUgoVa17LZuS8xWQ3v"
-      },
-      "artists": [
-        {
-          "name": "Lorde",
-          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
-        }
-      ],
-      "duration_ms": 258969,
-      "name": "Ribs",
-      "url": "https://open.spotify.com/track/2MvvoeRt8NcOXWESkxWn3g"
     },
     {
       "added_at": "2024-08-26 23:13:11",
@@ -627,6 +627,22 @@
     {
       "added_at": "2024-08-26 23:13:11",
       "album": {
+        "name": "4EVER",
+        "url": "https://open.spotify.com/album/7E5bHNtTN25JAw8vJALDz9"
+      },
+      "artists": [
+        {
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+        }
+      ],
+      "duration_ms": 159595,
+      "name": "4EVER",
+      "url": "https://open.spotify.com/track/5mIOsPuQdXchVY0jB5NO9Q"
+    },
+    {
+      "added_at": "2024-08-26 23:13:11",
+      "album": {
         "name": "the record",
         "url": "https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 234933,
       "name": "Not Strong Enough",
       "url": "https://open.spotify.com/track/09DR0sHnQUhHOiSNttc1mv"
-    },
-    {
-      "added_at": "2024-08-26 23:13:11",
-      "album": {
-        "name": "4EVER",
-        "url": "https://open.spotify.com/album/7E5bHNtTN25JAw8vJALDz9"
-      },
-      "artists": [
-        {
-          "name": "Clairo",
-          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
-        }
-      ],
-      "duration_ms": 159595,
-      "name": "4EVER",
-      "url": "https://open.spotify.com/track/5mIOsPuQdXchVY0jB5NO9Q"
     },
     {
       "added_at": "2024-08-26 23:13:11",
@@ -1247,6 +1247,22 @@
     {
       "added_at": "2024-08-26 23:13:11",
       "album": {
+        "name": "So Cold",
+        "url": "https://open.spotify.com/album/3YaYl0E68bxDnW1gutZAgs"
+      },
+      "artists": [
+        {
+          "name": "Balu Brigada",
+          "url": "https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2"
+        }
+      ],
+      "duration_ms": 201133,
+      "name": "So Cold",
+      "url": "https://open.spotify.com/track/297PYWIVLP38C1a92ND8Kv"
+    },
+    {
+      "added_at": "2024-08-26 23:13:11",
+      "album": {
         "name": "Hush (Still Woozy Remix)",
         "url": "https://open.spotify.com/album/3LcrYJ7ASoQo7SuBy7qGoI"
       },
@@ -1263,22 +1279,6 @@
       "duration_ms": 182346,
       "name": "Hush - Still Woozy Remix",
       "url": "https://open.spotify.com/track/4dGuRldChjvboZktprNJFM"
-    },
-    {
-      "added_at": "2024-08-26 23:13:11",
-      "album": {
-        "name": "So Cold",
-        "url": "https://open.spotify.com/album/3YaYl0E68bxDnW1gutZAgs"
-      },
-      "artists": [
-        {
-          "name": "Balu Brigada",
-          "url": "https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2"
-        }
-      ],
-      "duration_ms": 201133,
-      "name": "So Cold",
-      "url": "https://open.spotify.com/track/297PYWIVLP38C1a92ND8Kv"
     },
     {
       "added_at": "2024-08-26 23:13:11",
@@ -1335,6 +1335,26 @@
     {
       "added_at": "2024-08-26 23:13:11",
       "album": {
+        "name": "MUNA",
+        "url": "https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        },
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 206586,
+      "name": "Silk Chiffon",
+      "url": "https://open.spotify.com/track/5ECxiK4Vigo1yRRmAoZc1f"
+    },
+    {
+      "added_at": "2024-08-26 23:13:11",
+      "album": {
         "name": "Calling After Me",
         "url": "https://open.spotify.com/album/0nwCSeTiLqsDU07k4MopnW"
       },
@@ -1367,22 +1387,18 @@
     {
       "added_at": "2024-08-26 23:13:11",
       "album": {
-        "name": "MUNA",
-        "url": "https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l"
+        "name": "Nack Nostalgia",
+        "url": "https://open.spotify.com/album/0T76MIpjGDea7AZyBjqoPA"
       },
       "artists": [
         {
-          "name": "MUNA",
-          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
-        },
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
         }
       ],
-      "duration_ms": 206586,
-      "name": "Silk Chiffon",
-      "url": "https://open.spotify.com/track/5ECxiK4Vigo1yRRmAoZc1f"
+      "duration_ms": 187433,
+      "name": "Nack Nostalgia",
+      "url": "https://open.spotify.com/track/5MAKcQ6f6QvqZE21KD2AW5"
     },
     {
       "added_at": "2024-08-26 23:13:11",
@@ -1399,22 +1415,6 @@
       "duration_ms": 251600,
       "name": "The Kill",
       "url": "https://open.spotify.com/track/06qDEAG26TspT2yK2NLgEZ"
-    },
-    {
-      "added_at": "2024-08-26 23:13:11",
-      "album": {
-        "name": "Nack Nostalgia",
-        "url": "https://open.spotify.com/album/0T76MIpjGDea7AZyBjqoPA"
-      },
-      "artists": [
-        {
-          "name": "Royel Otis",
-          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
-        }
-      ],
-      "duration_ms": 187433,
-      "name": "Nack Nostalgia",
-      "url": "https://open.spotify.com/track/5MAKcQ6f6QvqZE21KD2AW5"
     },
     {
       "added_at": "2024-08-26 23:13:11",
@@ -1503,18 +1503,18 @@
     {
       "added_at": "2024-08-26 23:13:11",
       "album": {
-        "name": ":)",
-        "url": "https://open.spotify.com/album/6UHK8Ur2u73SSq62gwsmFo"
+        "name": "Gone Now",
+        "url": "https://open.spotify.com/album/10HKbC9lKDHGQvndGck6XJ"
       },
       "artists": [
         {
-          "name": "The Japanese House",
-          "url": "https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u"
+          "name": "Bleachers",
+          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
         }
       ],
-      "duration_ms": 180568,
-      "name": ":)",
-      "url": "https://open.spotify.com/track/36YY9Yeq3XastTeC1e0VmN"
+      "duration_ms": 215546,
+      "name": "Don't Take The Money",
+      "url": "https://open.spotify.com/track/3ySU5vwQB33iGulwcUL9qQ"
     },
     {
       "added_at": "2024-08-26 23:13:11",
@@ -1535,18 +1535,18 @@
     {
       "added_at": "2024-08-26 23:13:11",
       "album": {
-        "name": "Gone Now",
-        "url": "https://open.spotify.com/album/10HKbC9lKDHGQvndGck6XJ"
+        "name": ":)",
+        "url": "https://open.spotify.com/album/6UHK8Ur2u73SSq62gwsmFo"
       },
       "artists": [
         {
-          "name": "Bleachers",
-          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
+          "name": "The Japanese House",
+          "url": "https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u"
         }
       ],
-      "duration_ms": 215546,
-      "name": "Don't Take The Money",
-      "url": "https://open.spotify.com/track/3ySU5vwQB33iGulwcUL9qQ"
+      "duration_ms": 180568,
+      "name": ":)",
+      "url": "https://open.spotify.com/track/36YY9Yeq3XastTeC1e0VmN"
     },
     {
       "added_at": "2024-08-26 23:13:11",

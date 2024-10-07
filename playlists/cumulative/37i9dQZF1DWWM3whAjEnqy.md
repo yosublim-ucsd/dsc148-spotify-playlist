@@ -4,7 +4,7 @@
 
 > Sun, sand, salt water and the perfect songs to match.
 
-157 songs - 10 hr 7 min
+158 songs - 10 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,7 +122,7 @@
 | [Saturday Sun](https://open.spotify.com/track/2RiBogNRfulkNf7fVbPOrJ) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Nation of Two](https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV) | 3:34 | 2023-11-15 | 2024-04-19 |
 | [Saturday Sun](https://open.spotify.com/track/1WZRe3PnxllLd9PPzbPLeo) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Nation of Two](https://open.spotify.com/album/7zC9xKP6F8z3FlcVZ6cRXR) | 3:34 | 2023-11-15 |  |
 | [Simply Paradise](https://open.spotify.com/track/1EKpwGoisV5nUOqqMZ7gAJ) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM), [Ryan Paris](https://open.spotify.com/artist/3nRifdQMP5925XSkIN07oC) | [Simply Paradise](https://open.spotify.com/album/4NKglcnKOsi2uFYJOSGkUM) | 2:35 | 2023-11-15 |  |
-| [Skin](https://open.spotify.com/track/1pZaknf90sVRGNiftfF9X3) | [San Cisco](https://open.spotify.com/artist/0Ou0138wEd8XWebhc4j7O0) | [Between You and Me](https://open.spotify.com/album/5dJM7tzRS4BBHUxROSOn26) | 4:26 | 2023-11-15 |  |
+| [Skin](https://open.spotify.com/track/1pZaknf90sVRGNiftfF9X3) | [San Cisco](https://open.spotify.com/artist/0Ou0138wEd8XWebhc4j7O0) | [Between You and Me](https://open.spotify.com/album/5dJM7tzRS4BBHUxROSOn26) | 4:26 | 2023-11-15 | 2024-10-07 |
 | [Skin](https://open.spotify.com/track/1LdGcv246dZ321xFTrNUIe) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [Sunlight](https://open.spotify.com/album/3zZi1vy6CnNZX7lbcRJtXo) | 3:14 | 2023-11-15 | 2024-04-19 |
 | [Smile](https://open.spotify.com/track/4faiTk0Vx86PcE5TJ3sQnz) | [Winston Surfshirt](https://open.spotify.com/artist/61HS7DjYDQIkKSeGvpqmJh) | [Apple Crumble](https://open.spotify.com/album/2gTTDUCGpyBAnai2lJ1afr) | 3:23 | 2023-11-15 |  |
 | [So Caught Up](https://open.spotify.com/track/2SrTIQZs2Dzv9WC538a8xM) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Run Home Slow](https://open.spotify.com/album/1kAEI20bjSPsByL6LNIyCT) | 3:48 | 2023-11-15 | 2024-04-19 |
@@ -163,6 +163,7 @@
 | [White Water](https://open.spotify.com/track/5dmrLolEgTr4TT0AhOxk5x) | [Dustin Tebbutt](https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX) | [White Water](https://open.spotify.com/album/4yZll8f1nGx4qpqKMLe87V) | 3:53 | 2023-11-15 | 2024-04-19 |
 | [Window to the Sky](https://open.spotify.com/track/6jAyxL48SmPElMhu2dl0cg) | [Kim Churchill](https://open.spotify.com/artist/0ZmJRBCKYicwq9n4FjZpho) | [Silence/Win](https://open.spotify.com/album/69ggXQi589p8Nv08KRPXwD) | 4:08 | 2023-11-15 |  |
 | [Wolves](https://open.spotify.com/track/59hfgU3tsQ0zKpSX7toiwn) | [Azure Ryder](https://open.spotify.com/artist/5RTpt7F1M8N8w1JlnDBeH8) | [Running With The Wolves](https://open.spotify.com/album/1bIiBK6CIaCkkzNREai3je) | 2:43 | 2023-11-15 |  |
+| [You're My Window To The Sky](https://open.spotify.com/track/0DpNBQAHa6S6GDZARSe9TF) | [The Avener](https://open.spotify.com/artist/0e6qzpphJHtObTSwD75mi0), [Kim Churchill](https://open.spotify.com/artist/0ZmJRBCKYicwq9n4FjZpho) | [The Wanderings Of The Avener](https://open.spotify.com/album/7DxvbZIXVgixTbo3sZ15Gy) | 3:21 | 2023-11-15 |  |
 | [Youngblood](https://open.spotify.com/track/2z1ZySfX3m36YL1XfwM84d) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Youngblood](https://open.spotify.com/album/4LKwkGDfN1OXZy1qXRAQZm) | 3:52 | 2023-11-15 |  |
 | [Zebra](https://open.spotify.com/track/7IahivnWF9l1W8DSBQe3Xv) | [John Butler Trio](https://open.spotify.com/artist/6fBF4MULW5yMzyGaon1kUt) | [Sunrise Over Sea](https://open.spotify.com/album/4Plc6eI1zbCMTawqZTxwgz) | 3:57 | 2023-11-15 |  |
 

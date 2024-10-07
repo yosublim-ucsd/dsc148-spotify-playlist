@@ -1,6 +1,6 @@
 {
   "description": "Genre-defying artists pushing boundaries in electronic ambient music. ",
-  "num_followers": 99626,
+  "num_followers": 99670,
   "original_name": "Electronic X",
   "owner": {
     "name": "Spotify",
@@ -535,26 +535,6 @@
     {
       "added_at": "2024-09-06 16:55:52",
       "album": {
-        "name": "Metallic Spheres In Colour",
-        "url": "https://open.spotify.com/album/4Rfyk5GBsfwxVjctVoJHgs"
-      },
-      "artists": [
-        {
-          "name": "The Orb",
-          "url": "https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF"
-        },
-        {
-          "name": "David Gilmour",
-          "url": "https://open.spotify.com/artist/2FcC4sDMXme2ziI7tGKMK8"
-        }
-      ],
-      "duration_ms": 547920,
-      "name": "Flat Side: Seamlessly Martian Spheres of Reflection Mix: Movement 4",
-      "url": "https://open.spotify.com/track/3iy7QnGu7UFU9tInjNnjPp"
-    },
-    {
-      "added_at": "2024-09-06 16:55:52",
-      "album": {
         "name": "Worlds Collide (Hannes Kretzer Rework)",
         "url": "https://open.spotify.com/album/4SZSeDgHqioiCuRVHi6zRc"
       },
@@ -575,6 +555,26 @@
       "duration_ms": 231340,
       "name": "Worlds Collide - Hannes Kretzer Rework",
       "url": "https://open.spotify.com/track/4PfKv1E5Jp1DizoOunObbM"
+    },
+    {
+      "added_at": "2024-09-06 16:55:52",
+      "album": {
+        "name": "Metallic Spheres In Colour",
+        "url": "https://open.spotify.com/album/4Rfyk5GBsfwxVjctVoJHgs"
+      },
+      "artists": [
+        {
+          "name": "The Orb",
+          "url": "https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF"
+        },
+        {
+          "name": "David Gilmour",
+          "url": "https://open.spotify.com/artist/2FcC4sDMXme2ziI7tGKMK8"
+        }
+      ],
+      "duration_ms": 547920,
+      "name": "Flat Side: Seamlessly Martian Spheres of Reflection Mix: Movement 4",
+      "url": "https://open.spotify.com/track/3iy7QnGu7UFU9tInjNnjPp"
     },
     {
       "added_at": "2024-09-06 16:55:52",
@@ -835,22 +835,6 @@
     {
       "added_at": "2024-09-06 16:55:52",
       "album": {
-        "name": "In Electric Time",
-        "url": "https://open.spotify.com/album/0GPfDLCGEDrCLQTcBTZYHh"
-      },
-      "artists": [
-        {
-          "name": "Jeremiah Chiu",
-          "url": "https://open.spotify.com/artist/1RpHbIW5eeEBs693nyrhSa"
-        }
-      ],
-      "duration_ms": 271240,
-      "name": "Seawater Swell",
-      "url": "https://open.spotify.com/track/6il51bAsGmEcR23Vtcw53v"
-    },
-    {
-      "added_at": "2024-09-06 16:55:52",
-      "album": {
         "name": "Circle of Eyes",
         "url": "https://open.spotify.com/album/7KZrDmpcamZhERuiv34WeD"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 304000,
       "name": "Ikata - 1",
       "url": "https://open.spotify.com/track/4WpJhXF5NvcZQApCRU7Fih"
+    },
+    {
+      "added_at": "2024-09-06 16:55:52",
+      "album": {
+        "name": "In Electric Time",
+        "url": "https://open.spotify.com/album/0GPfDLCGEDrCLQTcBTZYHh"
+      },
+      "artists": [
+        {
+          "name": "Jeremiah Chiu",
+          "url": "https://open.spotify.com/artist/1RpHbIW5eeEBs693nyrhSa"
+        }
+      ],
+      "duration_ms": 271240,
+      "name": "Seawater Swell",
+      "url": "https://open.spotify.com/track/6il51bAsGmEcR23Vtcw53v"
     },
     {
       "added_at": "2024-09-06 16:55:52",
@@ -1063,42 +1063,6 @@
     {
       "added_at": "2024-09-06 16:55:52",
       "album": {
-        "name": "What Is Not Strange?",
-        "url": "https://open.spotify.com/album/0WSGeEJ3ByDwxy9iO65myt"
-      },
-      "artists": [
-        {
-          "name": "Tashi Wada",
-          "url": "https://open.spotify.com/artist/6pDLBDQwtLpoG0YIUfM3O2"
-        },
-        {
-          "name": "Julia Holter",
-          "url": "https://open.spotify.com/artist/0bsV0sUjnCuCTYOnNHQl3E"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "Subaru",
-      "url": "https://open.spotify.com/track/6DOGp8J9W9HGwxp2Cb6xNA"
-    },
-    {
-      "added_at": "2024-09-06 16:55:52",
-      "album": {
-        "name": "Amygdala",
-        "url": "https://open.spotify.com/album/1MuIg8soW5Fhfg9i1BT6wZ"
-      },
-      "artists": [
-        {
-          "name": "JakoJako",
-          "url": "https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E"
-        }
-      ],
-      "duration_ms": 319047,
-      "name": "Amygdala",
-      "url": "https://open.spotify.com/track/4Di1dq49uG26tIHEsAxaQy"
-    },
-    {
-      "added_at": "2024-09-06 16:55:52",
-      "album": {
         "name": "Reflections 06",
         "url": "https://open.spotify.com/album/4rCoIoKUuFFEqHaNTpgvOx"
       },
@@ -1131,18 +1095,22 @@
     {
       "added_at": "2024-09-06 16:55:52",
       "album": {
-        "name": "Springtime in Croatia",
-        "url": "https://open.spotify.com/album/7MhIj1DVJBN08P1pxDlB4C"
+        "name": "What Is Not Strange?",
+        "url": "https://open.spotify.com/album/0WSGeEJ3ByDwxy9iO65myt"
       },
       "artists": [
         {
-          "name": "Patricia Wolf",
-          "url": "https://open.spotify.com/artist/5U2PKpLxoEwfOnPAwzPt5T"
+          "name": "Tashi Wada",
+          "url": "https://open.spotify.com/artist/6pDLBDQwtLpoG0YIUfM3O2"
+        },
+        {
+          "name": "Julia Holter",
+          "url": "https://open.spotify.com/artist/0bsV0sUjnCuCTYOnNHQl3E"
         }
       ],
-      "duration_ms": 242000,
-      "name": "Springtime in Croatia",
-      "url": "https://open.spotify.com/track/3eUG3uEbzUP3sa8tRE8hda"
+      "duration_ms": 166000,
+      "name": "Subaru",
+      "url": "https://open.spotify.com/track/6DOGp8J9W9HGwxp2Cb6xNA"
     },
     {
       "added_at": "2024-09-06 16:55:52",
@@ -1167,6 +1135,38 @@
     {
       "added_at": "2024-09-06 16:55:52",
       "album": {
+        "name": "Amygdala",
+        "url": "https://open.spotify.com/album/1MuIg8soW5Fhfg9i1BT6wZ"
+      },
+      "artists": [
+        {
+          "name": "JakoJako",
+          "url": "https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E"
+        }
+      ],
+      "duration_ms": 319047,
+      "name": "Amygdala",
+      "url": "https://open.spotify.com/track/4Di1dq49uG26tIHEsAxaQy"
+    },
+    {
+      "added_at": "2024-09-06 16:55:52",
+      "album": {
+        "name": "Springtime in Croatia",
+        "url": "https://open.spotify.com/album/7MhIj1DVJBN08P1pxDlB4C"
+      },
+      "artists": [
+        {
+          "name": "Patricia Wolf",
+          "url": "https://open.spotify.com/artist/5U2PKpLxoEwfOnPAwzPt5T"
+        }
+      ],
+      "duration_ms": 242000,
+      "name": "Springtime in Croatia",
+      "url": "https://open.spotify.com/track/3eUG3uEbzUP3sa8tRE8hda"
+    },
+    {
+      "added_at": "2024-09-06 16:55:52",
+      "album": {
         "name": "Diamond Beach",
         "url": "https://open.spotify.com/album/6IGCfHfrExdHSnLHRrcngE"
       },
@@ -1179,38 +1179,6 @@
       "duration_ms": 184000,
       "name": "Diamond Beach",
       "url": "https://open.spotify.com/track/5WVz5up4Vy54E981lOQ17P"
-    },
-    {
-      "added_at": "2024-09-06 16:55:52",
-      "album": {
-        "name": "Portico",
-        "url": "https://open.spotify.com/album/1hDYGw9QpPDBNHvdAIDVbr"
-      },
-      "artists": [
-        {
-          "name": "Tangerine Dream",
-          "url": "https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl"
-        }
-      ],
-      "duration_ms": 402333,
-      "name": "Portico",
-      "url": "https://open.spotify.com/track/3dCPn65wkIDeUeITYOlofX"
-    },
-    {
-      "added_at": "2024-09-06 16:55:52",
-      "album": {
-        "name": "Objekt",
-        "url": "https://open.spotify.com/album/5VSUUCCq6NYP4BWEZqw8fi"
-      },
-      "artists": [
-        {
-          "name": "JakoJako",
-          "url": "https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E"
-        }
-      ],
-      "duration_ms": 302367,
-      "name": "Objekt",
-      "url": "https://open.spotify.com/track/3m7yvp6LBkpUGsSMTy8NX2"
     },
     {
       "added_at": "2024-09-06 16:55:52",
@@ -1231,6 +1199,22 @@
       "duration_ms": 596250,
       "name": "Earthship",
       "url": "https://open.spotify.com/track/3533PV6FkVuFWZi3sAPmce"
+    },
+    {
+      "added_at": "2024-09-06 16:55:52",
+      "album": {
+        "name": "Portico",
+        "url": "https://open.spotify.com/album/1hDYGw9QpPDBNHvdAIDVbr"
+      },
+      "artists": [
+        {
+          "name": "Tangerine Dream",
+          "url": "https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl"
+        }
+      ],
+      "duration_ms": 402333,
+      "name": "Portico",
+      "url": "https://open.spotify.com/track/3dCPn65wkIDeUeITYOlofX"
     },
     {
       "added_at": "2024-09-06 16:55:52",
@@ -1331,6 +1315,22 @@
     {
       "added_at": "2024-09-06 16:55:52",
       "album": {
+        "name": "Objekt",
+        "url": "https://open.spotify.com/album/5VSUUCCq6NYP4BWEZqw8fi"
+      },
+      "artists": [
+        {
+          "name": "JakoJako",
+          "url": "https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E"
+        }
+      ],
+      "duration_ms": 302367,
+      "name": "Objekt",
+      "url": "https://open.spotify.com/track/3m7yvp6LBkpUGsSMTy8NX2"
+    },
+    {
+      "added_at": "2024-09-06 16:55:52",
+      "album": {
         "name": "Golden Apples of the Sun",
         "url": "https://open.spotify.com/album/0ebjgkPTgQG8dhY4qOewiy"
       },
@@ -1347,6 +1347,22 @@
       "duration_ms": 273053,
       "name": "Golden Apples Of The Sun",
       "url": "https://open.spotify.com/track/099oDIAistqagX3RuQsUzJ"
+    },
+    {
+      "added_at": "2024-09-06 16:55:52",
+      "album": {
+        "name": "Kinder der Sonne (From \"Komplizen\")",
+        "url": "https://open.spotify.com/album/4pmeSfaWHmqAZSJwrptHeC"
+      },
+      "artists": [
+        {
+          "name": "alva noto",
+          "url": "https://open.spotify.com/artist/1zrqDVuh55auIRthalFdXp"
+        }
+      ],
+      "duration_ms": 400476,
+      "name": "Ungewiss",
+      "url": "https://open.spotify.com/track/1fcGUyBtxjXzVQwSIO5SLU"
     },
     {
       "added_at": "2024-09-06 16:55:52",
@@ -1423,22 +1439,6 @@
     {
       "added_at": "2024-09-06 16:55:52",
       "album": {
-        "name": "Kinder der Sonne (From \"Komplizen\")",
-        "url": "https://open.spotify.com/album/4pmeSfaWHmqAZSJwrptHeC"
-      },
-      "artists": [
-        {
-          "name": "alva noto",
-          "url": "https://open.spotify.com/artist/1zrqDVuh55auIRthalFdXp"
-        }
-      ],
-      "duration_ms": 400476,
-      "name": "Ungewiss",
-      "url": "https://open.spotify.com/track/1fcGUyBtxjXzVQwSIO5SLU"
-    },
-    {
-      "added_at": "2024-09-06 16:55:52",
-      "album": {
         "name": "Information - EP",
         "url": "https://open.spotify.com/album/5LYsOZNhrwuiUdzZHuhlRw"
       },
@@ -1471,18 +1471,18 @@
     {
       "added_at": "2024-09-06 16:55:52",
       "album": {
-        "name": "Shortwave Memories",
-        "url": "https://open.spotify.com/album/67qmzR9XdcpPAoqBJIgzdy"
+        "name": "Falling but Not Alone",
+        "url": "https://open.spotify.com/album/0blBx0EVnhd9rsAOIDAjFr"
       },
       "artists": [
         {
-          "name": "Biosphere",
-          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
+          "name": "Worriedaboutsatan",
+          "url": "https://open.spotify.com/artist/2C1P3ThaFeWtrpLNwWzpTT"
         }
       ],
-      "duration_ms": 249672,
-      "name": "Formanta",
-      "url": "https://open.spotify.com/track/2EsksidmH4QLEEWxFH1X9I"
+      "duration_ms": 600028,
+      "name": "Hang in There, Baby!",
+      "url": "https://open.spotify.com/track/7h6BXxQhqpqcMMPn2h8tUd"
     },
     {
       "added_at": "2024-09-06 16:55:52",
@@ -1519,24 +1519,8 @@
     {
       "added_at": "2024-09-06 16:55:52",
       "album": {
-        "name": "Falling but Not Alone",
-        "url": "https://open.spotify.com/album/0blBx0EVnhd9rsAOIDAjFr"
-      },
-      "artists": [
-        {
-          "name": "Worriedaboutsatan",
-          "url": "https://open.spotify.com/artist/2C1P3ThaFeWtrpLNwWzpTT"
-        }
-      ],
-      "duration_ms": 600028,
-      "name": "Hang in There, Baby!",
-      "url": "https://open.spotify.com/track/7h6BXxQhqpqcMMPn2h8tUd"
-    },
-    {
-      "added_at": "2024-09-06 16:55:52",
-      "album": {
-        "name": "Amos",
-        "url": "https://open.spotify.com/album/38ElKQtmslm5HlHsQQsGKG"
+        "name": "Camina",
+        "url": "https://open.spotify.com/album/7rcnZunoM1Fn8HPDKD6Lev"
       },
       "artists": [
         {
@@ -1544,9 +1528,25 @@
           "url": "https://open.spotify.com/artist/1UMczNv7hgmm4buMvT94wS"
         }
       ],
-      "duration_ms": 483790,
-      "name": "Amos",
-      "url": "https://open.spotify.com/track/4pUjWXlupdVcphAq7gkRTk"
+      "duration_ms": 517307,
+      "name": "Camina",
+      "url": "https://open.spotify.com/track/4c8VB5HRoc6FqXLXXKhtxq"
+    },
+    {
+      "added_at": "2024-09-06 16:55:52",
+      "album": {
+        "name": "Shortwave Memories",
+        "url": "https://open.spotify.com/album/67qmzR9XdcpPAoqBJIgzdy"
+      },
+      "artists": [
+        {
+          "name": "Biosphere",
+          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
+        }
+      ],
+      "duration_ms": 249672,
+      "name": "Formanta",
+      "url": "https://open.spotify.com/track/2EsksidmH4QLEEWxFH1X9I"
     },
     {
       "added_at": "2024-09-06 16:55:52",
@@ -1571,6 +1571,22 @@
     {
       "added_at": "2024-09-06 16:55:52",
       "album": {
+        "name": "Into The Echo",
+        "url": "https://open.spotify.com/album/32yrYlubZsd1wNvU7pWA5f"
+      },
+      "artists": [
+        {
+          "name": "Interstellar Funk",
+          "url": "https://open.spotify.com/artist/33DoW58zhBjyyeCdscBybf"
+        }
+      ],
+      "duration_ms": 421021,
+      "name": "Dreamers (Part I)",
+      "url": "https://open.spotify.com/track/3DoZjFecPlSwoIzLJIXJbx"
+    },
+    {
+      "added_at": "2024-09-06 16:55:52",
+      "album": {
         "name": "Music for k\u014d",
         "url": "https://open.spotify.com/album/2pmS1k68wuO6v2CtIpirJm"
       },
@@ -1587,18 +1603,18 @@
     {
       "added_at": "2024-09-06 16:55:52",
       "album": {
-        "name": "Into The Echo",
-        "url": "https://open.spotify.com/album/32yrYlubZsd1wNvU7pWA5f"
+        "name": "Amos",
+        "url": "https://open.spotify.com/album/38ElKQtmslm5HlHsQQsGKG"
       },
       "artists": [
         {
-          "name": "Interstellar Funk",
-          "url": "https://open.spotify.com/artist/33DoW58zhBjyyeCdscBybf"
+          "name": "Daniel Imhof",
+          "url": "https://open.spotify.com/artist/1UMczNv7hgmm4buMvT94wS"
         }
       ],
-      "duration_ms": 421021,
-      "name": "Dreamers (Part I)",
-      "url": "https://open.spotify.com/track/3DoZjFecPlSwoIzLJIXJbx"
+      "duration_ms": 483790,
+      "name": "Amos",
+      "url": "https://open.spotify.com/track/4pUjWXlupdVcphAq7gkRTk"
     },
     {
       "added_at": "2024-09-06 16:55:52",
@@ -1619,34 +1635,18 @@
     {
       "added_at": "2024-09-06 16:55:52",
       "album": {
-        "name": "Outerland II",
-        "url": "https://open.spotify.com/album/2iMNkkCosQP2B1caimXt9I"
+        "name": "Suikerplein EP",
+        "url": "https://open.spotify.com/album/17ol2aT2nydTFDhZviWvWQ"
       },
       "artists": [
         {
-          "name": "Sundayman",
-          "url": "https://open.spotify.com/artist/4QBplENqCYmyjKCsVKOWRy"
+          "name": "BSS (AMS)",
+          "url": "https://open.spotify.com/artist/6ZNNn6WWgGY5JNRGleeohH"
         }
       ],
-      "duration_ms": 260075,
-      "name": "Purple",
-      "url": "https://open.spotify.com/track/68XYj0LKFtVKzqsQy8CdVP"
-    },
-    {
-      "added_at": "2024-09-06 16:55:52",
-      "album": {
-        "name": "Balmy Evening",
-        "url": "https://open.spotify.com/album/6TEBNKoBrPB6TSyVeD5jh7"
-      },
-      "artists": [
-        {
-          "name": "Roman Fl\u00fcgel",
-          "url": "https://open.spotify.com/artist/2GvwZbDjH1DbQpodGKENDw"
-        }
-      ],
-      "duration_ms": 183672,
-      "name": "Atmosphere",
-      "url": "https://open.spotify.com/track/3RWlHCJuoW5m4OFClsNHNH"
+      "duration_ms": 313701,
+      "name": "Westerpark",
+      "url": "https://open.spotify.com/track/3moHTcmktLHetLd4SdMovC"
     },
     {
       "added_at": "2024-09-06 16:55:52",
@@ -1671,50 +1671,34 @@
     {
       "added_at": "2024-09-06 16:55:52",
       "album": {
-        "name": "Camina",
-        "url": "https://open.spotify.com/album/7rcnZunoM1Fn8HPDKD6Lev"
+        "name": "Balmy Evening",
+        "url": "https://open.spotify.com/album/6TEBNKoBrPB6TSyVeD5jh7"
       },
       "artists": [
         {
-          "name": "Daniel Imhof",
-          "url": "https://open.spotify.com/artist/1UMczNv7hgmm4buMvT94wS"
+          "name": "Roman Fl\u00fcgel",
+          "url": "https://open.spotify.com/artist/2GvwZbDjH1DbQpodGKENDw"
         }
       ],
-      "duration_ms": 517307,
-      "name": "Camina",
-      "url": "https://open.spotify.com/track/4c8VB5HRoc6FqXLXXKhtxq"
+      "duration_ms": 183672,
+      "name": "Atmosphere",
+      "url": "https://open.spotify.com/track/3RWlHCJuoW5m4OFClsNHNH"
     },
     {
       "added_at": "2024-09-06 16:55:52",
       "album": {
-        "name": "Suikerplein EP",
-        "url": "https://open.spotify.com/album/17ol2aT2nydTFDhZviWvWQ"
+        "name": "Outerland II",
+        "url": "https://open.spotify.com/album/2iMNkkCosQP2B1caimXt9I"
       },
       "artists": [
         {
-          "name": "BSS (AMS)",
-          "url": "https://open.spotify.com/artist/6ZNNn6WWgGY5JNRGleeohH"
+          "name": "Sundayman",
+          "url": "https://open.spotify.com/artist/4QBplENqCYmyjKCsVKOWRy"
         }
       ],
-      "duration_ms": 313701,
-      "name": "Westerpark",
-      "url": "https://open.spotify.com/track/3moHTcmktLHetLd4SdMovC"
-    },
-    {
-      "added_at": "2024-09-06 16:55:52",
-      "album": {
-        "name": "Night Journeys III",
-        "url": "https://open.spotify.com/album/5WPkWpnoYsKKnbyj3xEMDU"
-      },
-      "artists": [
-        {
-          "name": "Courtesy",
-          "url": "https://open.spotify.com/artist/0osYTSrOpW6YESEC1lClwN"
-        }
-      ],
-      "duration_ms": 388452,
-      "name": "Night Journeys III",
-      "url": "https://open.spotify.com/track/0X1K4hXSSOg7bqtzoOTUix"
+      "duration_ms": 260075,
+      "name": "Purple",
+      "url": "https://open.spotify.com/track/68XYj0LKFtVKzqsQy8CdVP"
     },
     {
       "added_at": "2024-09-06 16:55:52",
@@ -1735,6 +1719,22 @@
       "duration_ms": 296626,
       "name": "Poissons volants",
       "url": "https://open.spotify.com/track/0wDzW0OiFhSRnaBITaXOPD"
+    },
+    {
+      "added_at": "2024-09-06 16:55:52",
+      "album": {
+        "name": "Night Journeys III",
+        "url": "https://open.spotify.com/album/5WPkWpnoYsKKnbyj3xEMDU"
+      },
+      "artists": [
+        {
+          "name": "Courtesy",
+          "url": "https://open.spotify.com/artist/0osYTSrOpW6YESEC1lClwN"
+        }
+      ],
+      "duration_ms": 388452,
+      "name": "Night Journeys III",
+      "url": "https://open.spotify.com/track/0X1K4hXSSOg7bqtzoOTUix"
     },
     {
       "added_at": "2024-09-06 16:55:52",

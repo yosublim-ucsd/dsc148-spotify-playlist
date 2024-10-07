@@ -1,12 +1,12 @@
 {
   "description": "This is Rauw Alejandro. The essential tracks, all in one playlist.",
-  "num_followers": 740814,
+  "num_followers": 741112,
   "original_name": "This Is Rauw Alejandro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zv3egAAAAAA9xgm4bpXhLGj5ltzTi96F",
+  "snapshot_id": "ZwCBgAAAAADQNpqYr3rdOrPeNNz7zGn9",
   "tracks": [
     {
       "added_at": null,
@@ -32,7 +32,7 @@
       "added_at": null,
       "album": {
         "name": "Santa",
-        "url": "https://open.spotify.com/album/0SqUi6bPIlAaWfvZibBfia"
+        "url": "https://open.spotify.com/album/3uzutRS5qX4ng5Skjh5S6W"
       },
       "artists": [
         {
@@ -50,7 +50,7 @@
       ],
       "duration_ms": 193038,
       "name": "Santa",
-      "url": "https://open.spotify.com/track/5bi0gh89wRuH2OgjdAKFsb"
+      "url": "https://open.spotify.com/track/6a9Z1jUms915w4O7N1PxjY"
     },
     {
       "added_at": null,
@@ -495,26 +495,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Espectacular",
-        "url": "https://open.spotify.com/album/2HLdCDKtyV4VxHLYk5xvAS"
-      },
-      "artists": [
-        {
-          "name": "Sky Rompiendo",
-          "url": "https://open.spotify.com/artist/51XrH5fQP2oIQynuKxSWcW"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 185739,
-      "name": "Espectacular",
-      "url": "https://open.spotify.com/track/4HnuPc5Cng3tbwunyqSMNi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nost\u00e1lgico",
         "url": "https://open.spotify.com/album/3752EkZZ1wjEzZ1MRd9rsV"
       },
@@ -535,6 +515,22 @@
       "duration_ms": 209883,
       "name": "Nost\u00e1lgico",
       "url": "https://open.spotify.com/track/2BEcap3xJtmiPaHKyfQi4e"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SATURNO",
+        "url": "https://open.spotify.com/album/5AcRssiG0Zqu3lqYW7hMoM"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 162857,
+      "name": "NO ME SUELTES",
+      "url": "https://open.spotify.com/track/7xDBtwxsife3u8luqSbSPR"
     },
     {
       "added_at": null,
@@ -563,18 +559,42 @@
     {
       "added_at": null,
       "album": {
-        "name": "SATURNO",
-        "url": "https://open.spotify.com/album/5AcRssiG0Zqu3lqYW7hMoM"
+        "name": "Espectacular",
+        "url": "https://open.spotify.com/album/2HLdCDKtyV4VxHLYk5xvAS"
       },
       "artists": [
+        {
+          "name": "Sky Rompiendo",
+          "url": "https://open.spotify.com/artist/51XrH5fQP2oIQynuKxSWcW"
+        },
         {
           "name": "Rauw Alejandro",
           "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
         }
       ],
-      "duration_ms": 162857,
-      "name": "NO ME SUELTES",
-      "url": "https://open.spotify.com/track/7xDBtwxsife3u8luqSbSPR"
+      "duration_ms": 185739,
+      "name": "Espectacular",
+      "url": "https://open.spotify.com/track/4HnuPc5Cng3tbwunyqSMNi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SOLO",
+        "url": "https://open.spotify.com/album/6bZ3w99gJilo45OwKsMBd0"
+      },
+      "artists": [
+        {
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 190567,
+      "name": "Dolida",
+      "url": "https://open.spotify.com/track/0B23bjg6n7mQOATyOVNjVG"
     },
     {
       "added_at": null,
@@ -639,26 +659,6 @@
       "duration_ms": 216413,
       "name": "Pens\u00e1ndote",
       "url": "https://open.spotify.com/track/2wnhst8yHA4gKuojAgZedh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SOLO",
-        "url": "https://open.spotify.com/album/6bZ3w99gJilo45OwKsMBd0"
-      },
-      "artists": [
-        {
-          "name": "Chencho Corleone",
-          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 190567,
-      "name": "Dolida",
-      "url": "https://open.spotify.com/track/0B23bjg6n7mQOATyOVNjVG"
     },
     {
       "added_at": null,
@@ -782,15 +782,11 @@
         {
           "name": "Rauw Alejandro",
           "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Baby Rasta",
-          "url": "https://open.spotify.com/artist/0GgyFUpOyzWDRDqx8FCTDN"
         }
       ],
-      "duration_ms": 190654,
-      "name": "PUNTO 40",
-      "url": "https://open.spotify.com/track/4UGqAW9i7NtE5mW9xzm6yk"
+      "duration_ms": 246746,
+      "name": "QU\u00c9 RICO CH**GAMOS",
+      "url": "https://open.spotify.com/track/41onqkcjQIVFmz0S0b3aHV"
     },
     {
       "added_at": null,
@@ -866,11 +862,15 @@
         {
           "name": "Rauw Alejandro",
           "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Baby Rasta",
+          "url": "https://open.spotify.com/artist/0GgyFUpOyzWDRDqx8FCTDN"
         }
       ],
-      "duration_ms": 246746,
-      "name": "QU\u00c9 RICO CH**GAMOS",
-      "url": "https://open.spotify.com/track/41onqkcjQIVFmz0S0b3aHV"
+      "duration_ms": 190654,
+      "name": "PUNTO 40",
+      "url": "https://open.spotify.com/track/4UGqAW9i7NtE5mW9xzm6yk"
     },
     {
       "added_at": null,
@@ -955,22 +955,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Touching The Sky",
-        "url": "https://open.spotify.com/album/5WLJs3zhRQGPTOpMhFnJqa"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 187517,
-      "name": "Touching The Sky",
-      "url": "https://open.spotify.com/track/2SaRD7OpQ2A9ZeCOntar0g"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rauw Alejandro: Bzrp Music Sessions, Vol. 56",
         "url": "https://open.spotify.com/album/6N4eyhCAqaGoT3lcEpzBmf"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 191254,
       "name": "Rauw Alejandro: Bzrp Music Sessions, Vol. 56",
       "url": "https://open.spotify.com/track/2NFadq6pUeiVEihLvUlOSr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Touching The Sky",
+        "url": "https://open.spotify.com/album/5WLJs3zhRQGPTOpMhFnJqa"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 187517,
+      "name": "Touching The Sky",
+      "url": "https://open.spotify.com/track/2SaRD7OpQ2A9ZeCOntar0g"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "",
-  "num_followers": 351650,
+  "num_followers": 351698,
   "original_name": "Soultronic",
   "owner": {
     "name": "Spotify",
@@ -627,6 +627,26 @@
     {
       "added_at": "2024-09-19 23:00:00",
       "album": {
+        "name": "TIMELESS",
+        "url": "https://open.spotify.com/album/3C3t2bKhwEL3wdKioqWUDh"
+      },
+      "artists": [
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        },
+        {
+          "name": "Charlotte Day Wilson",
+          "url": "https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v"
+        }
+      ],
+      "duration_ms": 134714,
+      "name": "Still (feat. Charlotte Day Wilson)",
+      "url": "https://open.spotify.com/track/099suT0NkLdJyKTa38oY0Q"
+    },
+    {
+      "added_at": "2024-09-19 23:00:00",
+      "album": {
         "name": "UP DOWN BOUNCE",
         "url": "https://open.spotify.com/album/4Dm17A5CiFkuDAVSRTPQNd"
       },
@@ -663,26 +683,6 @@
       "duration_ms": 174579,
       "name": "Turn Me Inside",
       "url": "https://open.spotify.com/track/1dN55SR4aP4EpGdYcQpPb3"
-    },
-    {
-      "added_at": "2024-09-19 23:00:00",
-      "album": {
-        "name": "TIMELESS",
-        "url": "https://open.spotify.com/album/3C3t2bKhwEL3wdKioqWUDh"
-      },
-      "artists": [
-        {
-          "name": "KAYTRANADA",
-          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
-        },
-        {
-          "name": "Charlotte Day Wilson",
-          "url": "https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v"
-        }
-      ],
-      "duration_ms": 134714,
-      "name": "Still (feat. Charlotte Day Wilson)",
-      "url": "https://open.spotify.com/track/099suT0NkLdJyKTa38oY0Q"
     },
     {
       "added_at": "2024-09-19 23:00:00",
@@ -935,26 +935,6 @@
     {
       "added_at": "2024-09-19 23:00:00",
       "album": {
-        "name": "Shaken To My Soul (feat. Ruti)",
-        "url": "https://open.spotify.com/album/1fTzvmo6yNAAvvHxt77t4L"
-      },
-      "artists": [
-        {
-          "name": "Girls of the Internet",
-          "url": "https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE"
-        },
-        {
-          "name": "Ruti",
-          "url": "https://open.spotify.com/artist/5vQr71zjhOUi0RPPeQE6bE"
-        }
-      ],
-      "duration_ms": 211208,
-      "name": "Shaken To My Soul (feat. Ruti)",
-      "url": "https://open.spotify.com/track/4R6zTX10cS2t8CLIhDkolC"
-    },
-    {
-      "added_at": "2024-09-19 23:00:00",
-      "album": {
         "name": "North",
         "url": "https://open.spotify.com/album/3j3grBQp6z5bhMaJeHwsvP"
       },
@@ -971,6 +951,26 @@
       "duration_ms": 222000,
       "name": "Middle of Things, Beautiful Wife (feat. Xavier Oma\u0308r))",
       "url": "https://open.spotify.com/track/1OjmLuc3Kf34WcEAasCjsO"
+    },
+    {
+      "added_at": "2024-09-19 23:00:00",
+      "album": {
+        "name": "Shaken To My Soul (feat. Ruti)",
+        "url": "https://open.spotify.com/album/1fTzvmo6yNAAvvHxt77t4L"
+      },
+      "artists": [
+        {
+          "name": "Girls of the Internet",
+          "url": "https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE"
+        },
+        {
+          "name": "Ruti",
+          "url": "https://open.spotify.com/artist/5vQr71zjhOUi0RPPeQE6bE"
+        }
+      ],
+      "duration_ms": 211208,
+      "name": "Shaken To My Soul (feat. Ruti)",
+      "url": "https://open.spotify.com/track/4R6zTX10cS2t8CLIhDkolC"
     },
     {
       "added_at": "2024-09-19 23:00:00",
@@ -1047,26 +1047,6 @@
     {
       "added_at": "2024-09-19 23:00:00",
       "album": {
-        "name": "Skin to Skin",
-        "url": "https://open.spotify.com/album/4YFMHIW20lUPz9RYHJ0PSS"
-      },
-      "artists": [
-        {
-          "name": "Douvelle19",
-          "url": "https://open.spotify.com/artist/3EjNHY8UswIZAxMjqXewVH"
-        },
-        {
-          "name": "Kaisha",
-          "url": "https://open.spotify.com/artist/7pz3rYu86PfExk8qn0o6Oe"
-        }
-      ],
-      "duration_ms": 225454,
-      "name": "Skin to Skin",
-      "url": "https://open.spotify.com/track/4disXZYw2a6id6NkFMNd57"
-    },
-    {
-      "added_at": "2024-09-19 23:00:00",
-      "album": {
         "name": "Walked In The Room",
         "url": "https://open.spotify.com/album/3E3MIDOQnIcy9wUdIXQAsM"
       },
@@ -1099,6 +1079,26 @@
       "duration_ms": 193105,
       "name": "Sunrise Sunfall - Edit",
       "url": "https://open.spotify.com/track/191lXO61Bz5ncHsxCJksUW"
+    },
+    {
+      "added_at": "2024-09-19 23:00:00",
+      "album": {
+        "name": "Skin to Skin",
+        "url": "https://open.spotify.com/album/4YFMHIW20lUPz9RYHJ0PSS"
+      },
+      "artists": [
+        {
+          "name": "Douvelle19",
+          "url": "https://open.spotify.com/artist/3EjNHY8UswIZAxMjqXewVH"
+        },
+        {
+          "name": "Kaisha",
+          "url": "https://open.spotify.com/artist/7pz3rYu86PfExk8qn0o6Oe"
+        }
+      ],
+      "duration_ms": 225454,
+      "name": "Skin to Skin",
+      "url": "https://open.spotify.com/track/4disXZYw2a6id6NkFMNd57"
     },
     {
       "added_at": "2024-09-19 23:00:00",
@@ -1379,18 +1379,22 @@
     {
       "added_at": "2024-09-19 23:00:00",
       "album": {
-        "name": "Swimming",
-        "url": "https://open.spotify.com/album/7pvPWVBCOPOo08SQAc4hDD"
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/4n2Esn2gvQ7ucpQZ2u59Ma"
       },
       "artists": [
         {
-          "name": "Douvelle19",
-          "url": "https://open.spotify.com/artist/3EjNHY8UswIZAxMjqXewVH"
+          "name": "Mak\u00e8z",
+          "url": "https://open.spotify.com/artist/0jJ2FmezizVLUIll3rbXmE"
+        },
+        {
+          "name": "AVA LAV\u00c1",
+          "url": "https://open.spotify.com/artist/7dybBlFFd4YZCbaImU9sDA"
         }
       ],
-      "duration_ms": 242637,
-      "name": "Swimming",
-      "url": "https://open.spotify.com/track/1ouaQKErGuX7vv8mtQrjv8"
+      "duration_ms": 169943,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/2GdG2MGntB02SZwJynsDmP"
     }
   ],
   "unique_name": "Soultronic",

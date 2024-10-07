@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1KBxkc.md) - [plain]
 
 > This is A Boogie Wit da Hoodie\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,087 likes - 52 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,088 likes - 52 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,9 +42,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1KBxkc.md) - [plain]
 | 32 | [It's Crazy \(feat\. Melody\)](https://open.spotify.com/track/43KDvvVHjDBtx8qD5hs5qH) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Melody](https://open.spotify.com/artist/6RTLnOk36W68I78qjRi0XB) | [Artist 2.0 \- Deluxe](https://open.spotify.com/album/4v0IxMbMN975IfxFHzgK9d) | 2:15 |
 | 33 | [Fall in Love](https://open.spotify.com/track/1sXJ0TZDdYBIV4mlzQFi4j) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Artist](https://open.spotify.com/album/2OQEAqShAl6SodrGhmYZ4Z) | 3:34 |
 | 34 | [Last Time \(feat\. G Herbo\)](https://open.spotify.com/track/5rDt0wjt4BrYGrveWoIKXB) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Me vs\. Myself](https://open.spotify.com/album/2vM2H6lyPfitmNZlc1Vrxv) | 2:59 |
-| 35 | [Somebody \(feat\. Future\)](https://open.spotify.com/track/27wHINa0EyMyU55WyiEV9l) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Better Off Alone](https://open.spotify.com/album/0tvOiqQkHp6bqYzzPfPc4B) | 3:33 |
-| 36 | [Chills \(LA Hills\)](https://open.spotify.com/track/2N5cFPLy0TIasTWkfT1hri) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [DRIVE](https://open.spotify.com/album/1Pl9ZGXwayXPg5qRVpYo74) | 3:03 |
-| 37 | [Family \(feat\. Bebe Rexha, Ty Dolla $ign & A Boogie Wit da Hoodie\)](https://open.spotify.com/track/0HLhptvI8NozbOHRLNniFz) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Family \(feat\. Bebe Rexha, Ty Dolla $ign & A Boogie Wit da Hoodie\)](https://open.spotify.com/album/1O3wGX19uKgXZZuW7uKb9l) | 2:38 |
+| 35 | [Family \(feat\. Bebe Rexha, Ty Dolla $ign & A Boogie Wit da Hoodie\)](https://open.spotify.com/track/0HLhptvI8NozbOHRLNniFz) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Family \(feat\. Bebe Rexha, Ty Dolla $ign & A Boogie Wit da Hoodie\)](https://open.spotify.com/album/1O3wGX19uKgXZZuW7uKb9l) | 2:38 |
+| 36 | [Somebody \(feat\. Future\)](https://open.spotify.com/track/27wHINa0EyMyU55WyiEV9l) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Better Off Alone](https://open.spotify.com/album/0tvOiqQkHp6bqYzzPfPc4B) | 3:33 |
+| 37 | [Chills \(LA Hills\)](https://open.spotify.com/track/2N5cFPLy0TIasTWkfT1hri) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [DRIVE](https://open.spotify.com/album/1Pl9ZGXwayXPg5qRVpYo74) | 3:03 |
 | 38 | [Young Grizzley World \(feat\. A Boogie Wit Da Hoodie & YNW Melly\)](https://open.spotify.com/track/2HsSzwrvvgiYSCdsYLiJWB) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [YNW Melly](https://open.spotify.com/artist/1cNDP5yjU5vjeR8qMf4grg) | [Scriptures](https://open.spotify.com/album/7FYP4Y8W3UJK4YCN0efAi3) | 5:32 |
 | 39 | [Did Me Wrong](https://open.spotify.com/track/2hkcNrUwTVwKqjfUO1Kx3d) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [B4 BOA](https://open.spotify.com/album/5QDOKezJwT63L54s17jMgw) | 2:57 |
 | 40 | [Dark King](https://open.spotify.com/track/5UCsKE3UPS5kcRRbRVeI0F) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Better Off Alone](https://open.spotify.com/album/0tvOiqQkHp6bqYzzPfPc4B) | 3:19 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1KBxkc.md) - [plain]
 | 51 | [Blood On My Denim](https://open.spotify.com/track/0LHWHUcUYhFAUkCt2q4Gad) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Artist 2.0](https://open.spotify.com/album/0cZAE6guibfcYmTZD7hiae) | 3:16 |
 | 52 | [Let's Go Away \(feat\. Young Thug\)](https://open.spotify.com/track/7LrWraeGYpRBoNp2OeroW2) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Better Off Alone](https://open.spotify.com/album/0tvOiqQkHp6bqYzzPfPc4B) | 2:21 |
 
-Snapshot ID: `Zv3egAAAAAAd0srwTew/rpWve2XDbY4Q`
+Snapshot ID: `ZwCBgAAAAAAHC/w67mIrmsPpWavlavjt`

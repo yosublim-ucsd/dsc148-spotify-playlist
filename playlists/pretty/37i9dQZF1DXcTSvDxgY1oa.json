@@ -1,6 +1,6 @@
 {
   "description": "geosy op de cover van de Popronde 2024. Popronde is een jaarlijks reizend festival in Nederland met de grootste talenten. ",
-  "num_followers": 1787,
+  "num_followers": 1786,
   "original_name": "Popronde 2024",
   "owner": {
     "name": "Spotify",
@@ -47,22 +47,6 @@
     {
       "added_at": "2024-09-16 07:25:57",
       "album": {
-        "name": "Had Dan Iets Gezegd",
-        "url": "https://open.spotify.com/album/41cYJ3gRXPpWgOmVbqRkOO"
-      },
-      "artists": [
-        {
-          "name": "Nienke Leone",
-          "url": "https://open.spotify.com/artist/1s26JLsXSP2wyCoywwPF46"
-        }
-      ],
-      "duration_ms": 184135,
-      "name": "Had Dan Iets Gezegd",
-      "url": "https://open.spotify.com/track/133yYNBvZN4qPnyqb0uVkS"
-    },
-    {
-      "added_at": "2024-09-16 07:25:57",
-      "album": {
         "name": "sunflower boy",
         "url": "https://open.spotify.com/album/1GupNMDuAKHrKlhHJNrokM"
       },
@@ -75,6 +59,22 @@
       "duration_ms": 146605,
       "name": "sunflower boy",
       "url": "https://open.spotify.com/track/2SVgcMYIiFJ1wQK1yiprjP"
+    },
+    {
+      "added_at": "2024-09-16 07:25:57",
+      "album": {
+        "name": "Had Dan Iets Gezegd",
+        "url": "https://open.spotify.com/album/41cYJ3gRXPpWgOmVbqRkOO"
+      },
+      "artists": [
+        {
+          "name": "Nienke Leone",
+          "url": "https://open.spotify.com/artist/1s26JLsXSP2wyCoywwPF46"
+        }
+      ],
+      "duration_ms": 184135,
+      "name": "Had Dan Iets Gezegd",
+      "url": "https://open.spotify.com/track/133yYNBvZN4qPnyqb0uVkS"
     },
     {
       "added_at": "2024-09-16 07:25:57",
@@ -407,38 +407,6 @@
     {
       "added_at": "2024-09-16 07:25:57",
       "album": {
-        "name": "All Is Me",
-        "url": "https://open.spotify.com/album/7cEgRgjGay0shcthca5IKR"
-      },
-      "artists": [
-        {
-          "name": "Dreamer",
-          "url": "https://open.spotify.com/artist/2ZtELmYTWzfnlVKkT0kJUk"
-        }
-      ],
-      "duration_ms": 194370,
-      "name": "Old Town",
-      "url": "https://open.spotify.com/track/3REox2ZEVX7XzbYjU3d5T2"
-    },
-    {
-      "added_at": "2024-09-16 07:25:57",
-      "album": {
-        "name": "Pieces",
-        "url": "https://open.spotify.com/album/5w0aKShwOj6hWC1w7I0z6O"
-      },
-      "artists": [
-        {
-          "name": "Isabel van Gelder",
-          "url": "https://open.spotify.com/artist/4FAFRhpZUK7DnI1VWX2STP"
-        }
-      ],
-      "duration_ms": 196159,
-      "name": "Pieces",
-      "url": "https://open.spotify.com/track/3pqPxWrCyUNb2wNhjF7qD8"
-    },
-    {
-      "added_at": "2024-09-16 07:25:57",
-      "album": {
         "name": "golden smile",
         "url": "https://open.spotify.com/album/1MaTDkIrwzdb8Pbgc7sDoC"
       },
@@ -455,34 +423,18 @@
     {
       "added_at": "2024-09-16 07:25:57",
       "album": {
-        "name": "Maar Verder Gaat Het Goed",
-        "url": "https://open.spotify.com/album/6YVWLc3C8jrD0HHczwN1lO"
+        "name": "All Is Me",
+        "url": "https://open.spotify.com/album/7cEgRgjGay0shcthca5IKR"
       },
       "artists": [
         {
-          "name": "So-Fi",
-          "url": "https://open.spotify.com/artist/6TIw842G1nVz2xEhU9YlBs"
+          "name": "Dreamer",
+          "url": "https://open.spotify.com/artist/2ZtELmYTWzfnlVKkT0kJUk"
         }
       ],
-      "duration_ms": 173506,
-      "name": "In M'n Hoofd",
-      "url": "https://open.spotify.com/track/2ky5w4vqqhH5g1V7oh7ouR"
-    },
-    {
-      "added_at": "2024-09-16 07:25:57",
-      "album": {
-        "name": "Liever Lui Dan Moe",
-        "url": "https://open.spotify.com/album/7CM8TADIvf0PIttpNdeccU"
-      },
-      "artists": [
-        {
-          "name": "R\u00f8yking",
-          "url": "https://open.spotify.com/artist/1NtnritmdQdSfebKWpcJdp"
-        }
-      ],
-      "duration_ms": 150233,
-      "name": "Liever Lui Dan Moe",
-      "url": "https://open.spotify.com/track/3TXRQwgtqyRB4oQoOVNYb5"
+      "duration_ms": 194370,
+      "name": "Old Town",
+      "url": "https://open.spotify.com/track/3REox2ZEVX7XzbYjU3d5T2"
     },
     {
       "added_at": "2024-09-16 07:25:57",
@@ -503,6 +455,54 @@
     {
       "added_at": "2024-09-16 07:25:57",
       "album": {
+        "name": "Pieces",
+        "url": "https://open.spotify.com/album/5w0aKShwOj6hWC1w7I0z6O"
+      },
+      "artists": [
+        {
+          "name": "Isabel van Gelder",
+          "url": "https://open.spotify.com/artist/4FAFRhpZUK7DnI1VWX2STP"
+        }
+      ],
+      "duration_ms": 196159,
+      "name": "Pieces",
+      "url": "https://open.spotify.com/track/3pqPxWrCyUNb2wNhjF7qD8"
+    },
+    {
+      "added_at": "2024-09-16 07:25:57",
+      "album": {
+        "name": "Liever Lui Dan Moe",
+        "url": "https://open.spotify.com/album/7CM8TADIvf0PIttpNdeccU"
+      },
+      "artists": [
+        {
+          "name": "R\u00f8yking",
+          "url": "https://open.spotify.com/artist/1NtnritmdQdSfebKWpcJdp"
+        }
+      ],
+      "duration_ms": 150233,
+      "name": "Liever Lui Dan Moe",
+      "url": "https://open.spotify.com/track/3TXRQwgtqyRB4oQoOVNYb5"
+    },
+    {
+      "added_at": "2024-09-16 07:25:57",
+      "album": {
+        "name": "Maar Verder Gaat Het Goed",
+        "url": "https://open.spotify.com/album/6YVWLc3C8jrD0HHczwN1lO"
+      },
+      "artists": [
+        {
+          "name": "So-Fi",
+          "url": "https://open.spotify.com/artist/6TIw842G1nVz2xEhU9YlBs"
+        }
+      ],
+      "duration_ms": 173506,
+      "name": "In M'n Hoofd",
+      "url": "https://open.spotify.com/track/2ky5w4vqqhH5g1V7oh7ouR"
+    },
+    {
+      "added_at": "2024-09-16 07:25:57",
+      "album": {
         "name": "Blushing Over Nothing",
         "url": "https://open.spotify.com/album/0agxsN2RKY1dmUuqZtSd4I"
       },
@@ -515,6 +515,22 @@
       "duration_ms": 173138,
       "name": "Blushing Over Nothing",
       "url": "https://open.spotify.com/track/05jB4DbQXCRTbtfhKHiJUl"
+    },
+    {
+      "added_at": "2024-09-16 07:25:57",
+      "album": {
+        "name": "Payback",
+        "url": "https://open.spotify.com/album/7k2jLfPPv0qYgpcg5B0mu9"
+      },
+      "artists": [
+        {
+          "name": "State Power",
+          "url": "https://open.spotify.com/artist/2ZksA5DzgDlR4hTXquufqU"
+        }
+      ],
+      "duration_ms": 142386,
+      "name": "Payback",
+      "url": "https://open.spotify.com/track/1H4PeFDmnt4QCRtJTVa7a0"
     },
     {
       "added_at": "2024-09-16 07:25:57",
@@ -543,22 +559,6 @@
       "duration_ms": 128695,
       "name": "Quick Fix",
       "url": "https://open.spotify.com/track/4tsiKeoa94gRFZgU2BaUqA"
-    },
-    {
-      "added_at": "2024-09-16 07:25:57",
-      "album": {
-        "name": "Payback",
-        "url": "https://open.spotify.com/album/7k2jLfPPv0qYgpcg5B0mu9"
-      },
-      "artists": [
-        {
-          "name": "State Power",
-          "url": "https://open.spotify.com/artist/2ZksA5DzgDlR4hTXquufqU"
-        }
-      ],
-      "duration_ms": 142386,
-      "name": "Payback",
-      "url": "https://open.spotify.com/track/1H4PeFDmnt4QCRtJTVa7a0"
     },
     {
       "added_at": "2024-09-16 07:25:57",
@@ -595,22 +595,6 @@
     {
       "added_at": "2024-09-16 07:25:57",
       "album": {
-        "name": "Visitor",
-        "url": "https://open.spotify.com/album/3VVP1JgwaMQibLw1ui6CIi"
-      },
-      "artists": [
-        {
-          "name": "Outahead",
-          "url": "https://open.spotify.com/artist/2EcQr9GFJPn3vQNvWf23jJ"
-        }
-      ],
-      "duration_ms": 202445,
-      "name": "Visitor",
-      "url": "https://open.spotify.com/track/1loqKyqVPrXyoU9qEt9UZZ"
-    },
-    {
-      "added_at": "2024-09-16 07:25:57",
-      "album": {
         "name": "Serotonin",
         "url": "https://open.spotify.com/album/5PbraKeNPvluvXiiqdsZuz"
       },
@@ -627,18 +611,18 @@
     {
       "added_at": "2024-09-16 07:25:57",
       "album": {
-        "name": "Growing Pains",
-        "url": "https://open.spotify.com/album/0YTckebc9Ece4Ja8Jr8go2"
+        "name": "Visitor",
+        "url": "https://open.spotify.com/album/3VVP1JgwaMQibLw1ui6CIi"
       },
       "artists": [
         {
-          "name": "Will Knox",
-          "url": "https://open.spotify.com/artist/2e0OOXFJ610jkry76XceeS"
+          "name": "Outahead",
+          "url": "https://open.spotify.com/artist/2EcQr9GFJPn3vQNvWf23jJ"
         }
       ],
-      "duration_ms": 173278,
-      "name": "Growing Pains",
-      "url": "https://open.spotify.com/track/2nuv1Vj4H8uTP0e2bIbotu"
+      "duration_ms": 202445,
+      "name": "Visitor",
+      "url": "https://open.spotify.com/track/1loqKyqVPrXyoU9qEt9UZZ"
     },
     {
       "added_at": "2024-09-16 07:25:57",
@@ -655,6 +639,22 @@
       "duration_ms": 222000,
       "name": "Finding Myself Alone",
       "url": "https://open.spotify.com/track/076o9FPC0h6CjzHpqQpJXy"
+    },
+    {
+      "added_at": "2024-09-16 07:25:57",
+      "album": {
+        "name": "Growing Pains",
+        "url": "https://open.spotify.com/album/0YTckebc9Ece4Ja8Jr8go2"
+      },
+      "artists": [
+        {
+          "name": "Will Knox",
+          "url": "https://open.spotify.com/artist/2e0OOXFJ610jkry76XceeS"
+        }
+      ],
+      "duration_ms": 173278,
+      "name": "Growing Pains",
+      "url": "https://open.spotify.com/track/2nuv1Vj4H8uTP0e2bIbotu"
     },
     {
       "added_at": "2024-09-16 07:25:57",
@@ -739,38 +739,6 @@
     {
       "added_at": "2024-09-16 07:25:57",
       "album": {
-        "name": "Good Company",
-        "url": "https://open.spotify.com/album/6nCiQeFyO9P57ltTcom8h5"
-      },
-      "artists": [
-        {
-          "name": "Future Husband",
-          "url": "https://open.spotify.com/artist/7IkZTuasXLNz2HCezR6KuI"
-        }
-      ],
-      "duration_ms": 236646,
-      "name": "Good Company",
-      "url": "https://open.spotify.com/track/1VeEoIo2F4ofmtQsQM6Qf9"
-    },
-    {
-      "added_at": "2024-09-16 07:25:57",
-      "album": {
-        "name": "My disguise",
-        "url": "https://open.spotify.com/album/1e9vJcj6Obgifb0pg9TKEL"
-      },
-      "artists": [
-        {
-          "name": "Olaf Putker & the Scenic Sound",
-          "url": "https://open.spotify.com/artist/1lJ56naouJ73pb6k1cJl89"
-        }
-      ],
-      "duration_ms": 222462,
-      "name": "My disguise",
-      "url": "https://open.spotify.com/track/1BpSr89lqd2Nl3FHUii20O"
-    },
-    {
-      "added_at": "2024-09-16 07:25:57",
-      "album": {
         "name": "FASE",
         "url": "https://open.spotify.com/album/2Lh1lQDHQNAlRc8tkUIAgB"
       },
@@ -787,6 +755,22 @@
     {
       "added_at": "2024-09-16 07:25:57",
       "album": {
+        "name": "Good Company",
+        "url": "https://open.spotify.com/album/6nCiQeFyO9P57ltTcom8h5"
+      },
+      "artists": [
+        {
+          "name": "Future Husband",
+          "url": "https://open.spotify.com/artist/7IkZTuasXLNz2HCezR6KuI"
+        }
+      ],
+      "duration_ms": 236646,
+      "name": "Good Company",
+      "url": "https://open.spotify.com/track/1VeEoIo2F4ofmtQsQM6Qf9"
+    },
+    {
+      "added_at": "2024-09-16 07:25:57",
+      "album": {
         "name": "Melanotan - Detonate",
         "url": "https://open.spotify.com/album/3UP1BYVn91UiOg7ISywkg7"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 142734,
       "name": "Melanotan",
       "url": "https://open.spotify.com/track/5xfBI89BbIwHcwJ8SSiL2L"
+    },
+    {
+      "added_at": "2024-09-16 07:25:57",
+      "album": {
+        "name": "My disguise",
+        "url": "https://open.spotify.com/album/1e9vJcj6Obgifb0pg9TKEL"
+      },
+      "artists": [
+        {
+          "name": "Olaf Putker & the Scenic Sound",
+          "url": "https://open.spotify.com/artist/1lJ56naouJ73pb6k1cJl89"
+        }
+      ],
+      "duration_ms": 222462,
+      "name": "My disguise",
+      "url": "https://open.spotify.com/track/1BpSr89lqd2Nl3FHUii20O"
     },
     {
       "added_at": "2024-09-16 07:25:57",
@@ -851,22 +851,6 @@
     {
       "added_at": "2024-09-16 07:25:57",
       "album": {
-        "name": "Anywhere",
-        "url": "https://open.spotify.com/album/5PUZVh3MqeYQHFeugwsmr7"
-      },
-      "artists": [
-        {
-          "name": "MADOUX",
-          "url": "https://open.spotify.com/artist/1hSsJVN9NYlY67CFZEIILZ"
-        }
-      ],
-      "duration_ms": 207440,
-      "name": "In Our Blood",
-      "url": "https://open.spotify.com/track/4EXFYjZSHhmQVSkP3OSGBT"
-    },
-    {
-      "added_at": "2024-09-16 07:25:57",
-      "album": {
         "name": "Satellite",
         "url": "https://open.spotify.com/album/2PmJb1X6naVRybkZADPjyj"
       },
@@ -883,18 +867,18 @@
     {
       "added_at": "2024-09-16 07:25:57",
       "album": {
-        "name": "jij praat. (blah blah blah)",
-        "url": "https://open.spotify.com/album/51jeR6roxJN0NW2ikwGOWM"
+        "name": "Anywhere",
+        "url": "https://open.spotify.com/album/5PUZVh3MqeYQHFeugwsmr7"
       },
       "artists": [
         {
-          "name": "Lateesha",
-          "url": "https://open.spotify.com/artist/2x3xOxKdqWDBWDwnhHMaPm"
+          "name": "MADOUX",
+          "url": "https://open.spotify.com/artist/1hSsJVN9NYlY67CFZEIILZ"
         }
       ],
-      "duration_ms": 155494,
-      "name": "jij praat. (blah blah blah)",
-      "url": "https://open.spotify.com/track/7d7Gbia7TnzFjpW758bhYx"
+      "duration_ms": 207440,
+      "name": "In Our Blood",
+      "url": "https://open.spotify.com/track/4EXFYjZSHhmQVSkP3OSGBT"
     },
     {
       "added_at": "2024-09-16 07:25:57",
@@ -911,6 +895,22 @@
       "duration_ms": 130869,
       "name": "iK",
       "url": "https://open.spotify.com/track/0fmFEsGfXtRZeQxdRQRf3E"
+    },
+    {
+      "added_at": "2024-09-16 07:25:57",
+      "album": {
+        "name": "jij praat. (blah blah blah)",
+        "url": "https://open.spotify.com/album/51jeR6roxJN0NW2ikwGOWM"
+      },
+      "artists": [
+        {
+          "name": "Lateesha",
+          "url": "https://open.spotify.com/artist/2x3xOxKdqWDBWDwnhHMaPm"
+        }
+      ],
+      "duration_ms": 155494,
+      "name": "jij praat. (blah blah blah)",
+      "url": "https://open.spotify.com/track/7d7Gbia7TnzFjpW758bhYx"
     },
     {
       "added_at": "2024-09-16 07:25:57",
@@ -963,6 +963,22 @@
     {
       "added_at": "2024-09-16 07:25:57",
       "album": {
+        "name": "Los Anarquistitas",
+        "url": "https://open.spotify.com/album/0Sc7klbJtL1CHgPpRVL8P2"
+      },
+      "artists": [
+        {
+          "name": "shoom",
+          "url": "https://open.spotify.com/artist/5GwJf4rmQaNtNKph66vuxw"
+        }
+      ],
+      "duration_ms": 395966,
+      "name": "Los Anarquistitas",
+      "url": "https://open.spotify.com/track/3sBVgzLUoVNmR2lLspUzC8"
+    },
+    {
+      "added_at": "2024-09-16 07:25:57",
+      "album": {
         "name": "A Price To Pay",
         "url": "https://open.spotify.com/album/0VFNHdKroUHNy1RAPaPMcC"
       },
@@ -991,22 +1007,6 @@
       "duration_ms": 206066,
       "name": "Everything I Need Is Here",
       "url": "https://open.spotify.com/track/1d2uzY2eIhYA1n7rcZpo2u"
-    },
-    {
-      "added_at": "2024-09-16 07:25:57",
-      "album": {
-        "name": "Los Anarquistitas",
-        "url": "https://open.spotify.com/album/0Sc7klbJtL1CHgPpRVL8P2"
-      },
-      "artists": [
-        {
-          "name": "shoom",
-          "url": "https://open.spotify.com/artist/5GwJf4rmQaNtNKph66vuxw"
-        }
-      ],
-      "duration_ms": 395966,
-      "name": "Los Anarquistitas",
-      "url": "https://open.spotify.com/track/3sBVgzLUoVNmR2lLspUzC8"
     },
     {
       "added_at": "2024-09-16 07:25:57",
@@ -1059,38 +1059,6 @@
     {
       "added_at": "2024-09-16 07:25:57",
       "album": {
-        "name": "Haya",
-        "url": "https://open.spotify.com/album/5devPsxik1sqnsXgd2Qi3f"
-      },
-      "artists": [
-        {
-          "name": "Guusje Walstra",
-          "url": "https://open.spotify.com/artist/2h8ZoYIdrfKTAHVNVIqjlk"
-        }
-      ],
-      "duration_ms": 175264,
-      "name": "Haya",
-      "url": "https://open.spotify.com/track/653F68ka124m6JdlhwFWzU"
-    },
-    {
-      "added_at": "2024-09-16 07:25:57",
-      "album": {
-        "name": "Way Too Deep",
-        "url": "https://open.spotify.com/album/4NTIBkGxuLScx1ouZHgVEV"
-      },
-      "artists": [
-        {
-          "name": "HALF CAB",
-          "url": "https://open.spotify.com/artist/14iq2cRLRv8KvgXvFHaw34"
-        }
-      ],
-      "duration_ms": 157826,
-      "name": "Way Too Deep",
-      "url": "https://open.spotify.com/track/1LAlC9JwewGe2aj9brUxrC"
-    },
-    {
-      "added_at": "2024-09-16 07:25:57",
-      "album": {
         "name": "What's The Rush",
         "url": "https://open.spotify.com/album/4puAk9A73ngB1gvjubOegz"
       },
@@ -1107,6 +1075,22 @@
     {
       "added_at": "2024-09-16 07:25:57",
       "album": {
+        "name": "Haya",
+        "url": "https://open.spotify.com/album/5devPsxik1sqnsXgd2Qi3f"
+      },
+      "artists": [
+        {
+          "name": "Guusje Walstra",
+          "url": "https://open.spotify.com/artist/2h8ZoYIdrfKTAHVNVIqjlk"
+        }
+      ],
+      "duration_ms": 175264,
+      "name": "Haya",
+      "url": "https://open.spotify.com/track/653F68ka124m6JdlhwFWzU"
+    },
+    {
+      "added_at": "2024-09-16 07:25:57",
+      "album": {
         "name": "Zwemmen In Het Geld",
         "url": "https://open.spotify.com/album/0jZgZPtXtb0EnLxNeH9qlj"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 170883,
       "name": "Zwemmen In Het Geld",
       "url": "https://open.spotify.com/track/0GKRQlXAFUEFWi2mc5eqb3"
+    },
+    {
+      "added_at": "2024-09-16 07:25:57",
+      "album": {
+        "name": "Way Too Deep",
+        "url": "https://open.spotify.com/album/4NTIBkGxuLScx1ouZHgVEV"
+      },
+      "artists": [
+        {
+          "name": "HALF CAB",
+          "url": "https://open.spotify.com/artist/14iq2cRLRv8KvgXvFHaw34"
+        }
+      ],
+      "duration_ms": 157826,
+      "name": "Way Too Deep",
+      "url": "https://open.spotify.com/track/1LAlC9JwewGe2aj9brUxrC"
     },
     {
       "added_at": "2024-09-16 07:25:57",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2024-09-16 07:25:57",
       "album": {
-        "name": "Whirligig",
-        "url": "https://open.spotify.com/album/3hE04LDpNwaG2u29p15JbK"
-      },
-      "artists": [
-        {
-          "name": "Mo Bedick",
-          "url": "https://open.spotify.com/artist/5I603otxzNxlCw0YbgcqYE"
-        }
-      ],
-      "duration_ms": 227354,
-      "name": "Cemetery Caretaker",
-      "url": "https://open.spotify.com/track/5ddkfCxbjYNQptFpq7v5JV"
-    },
-    {
-      "added_at": "2024-09-16 07:25:57",
-      "album": {
         "name": "Shit / Verliefd",
         "url": "https://open.spotify.com/album/0HnKzrvnp1QVtD0YzvhCe5"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 165490,
       "name": "Shit / Verliefd",
       "url": "https://open.spotify.com/track/1M9FawBXdGyOwLZw2RHLVE"
+    },
+    {
+      "added_at": "2024-09-16 07:25:57",
+      "album": {
+        "name": "Whirligig",
+        "url": "https://open.spotify.com/album/3hE04LDpNwaG2u29p15JbK"
+      },
+      "artists": [
+        {
+          "name": "Mo Bedick",
+          "url": "https://open.spotify.com/artist/5I603otxzNxlCw0YbgcqYE"
+        }
+      ],
+      "duration_ms": 227354,
+      "name": "Cemetery Caretaker",
+      "url": "https://open.spotify.com/track/5ddkfCxbjYNQptFpq7v5JV"
     },
     {
       "added_at": "2024-09-16 07:25:57",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2024-09-16 07:25:57",
       "album": {
-        "name": "FUEGO",
-        "url": "https://open.spotify.com/album/5q6I6ow3dPKubgxi4kbnRS"
-      },
-      "artists": [
-        {
-          "name": "QUANZA",
-          "url": "https://open.spotify.com/artist/7hs8g3jBavjFRILV4XJlTy"
-        }
-      ],
-      "duration_ms": 220068,
-      "name": "FUEGO",
-      "url": "https://open.spotify.com/track/28hQYkZ3uRTXZE1UoRH7CB"
-    },
-    {
-      "added_at": "2024-09-16 07:25:57",
-      "album": {
         "name": "As Time Went By",
         "url": "https://open.spotify.com/album/4GE7rF9A8vD61Kuo8qEgKz"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 204100,
       "name": "Again",
       "url": "https://open.spotify.com/track/5a75z8ZqnRb4a7LHD23fWi"
+    },
+    {
+      "added_at": "2024-09-16 07:25:57",
+      "album": {
+        "name": "FUEGO",
+        "url": "https://open.spotify.com/album/5q6I6ow3dPKubgxi4kbnRS"
+      },
+      "artists": [
+        {
+          "name": "QUANZA",
+          "url": "https://open.spotify.com/artist/7hs8g3jBavjFRILV4XJlTy"
+        }
+      ],
+      "duration_ms": 220068,
+      "name": "FUEGO",
+      "url": "https://open.spotify.com/track/28hQYkZ3uRTXZE1UoRH7CB"
     },
     {
       "added_at": "2024-09-16 07:25:57",

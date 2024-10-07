@@ -4,7 +4,7 @@
 
 > The best in current indie rock\. Cover: Chloe Slater
 
-621 songs - 1 day 10 hr 50 min
+622 songs - 1 day 10 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,7 +121,7 @@
 | [Cowardly Custard](https://open.spotify.com/track/2nCaFhJQRp5Dq8bbYiQZJL) | [WOOZE](https://open.spotify.com/artist/2whltAXPg8ozoiC9U1knhA) | [Cowardly Custard](https://open.spotify.com/album/2vMDEesmESdoQwWgrkn9YO) | 3:42 | 2022-08-18 | 2022-10-07 |
 | [Cowboy Nudes](https://open.spotify.com/track/4GBIZMasDFztSQfK0IrNh6) | [Geese](https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4) | [Cowboy Nudes](https://open.spotify.com/album/04qJMoLGlPcBHGNt3RoEFG) | 2:50 | 2023-02-03 | 2023-10-16 |
 | [Cramps](https://open.spotify.com/track/4mfPMfuy0fq025OaoPBKSL) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Cramps](https://open.spotify.com/album/0MT3P8dKhbeI7XwNi21OHE) | 2:51 | 2023-03-03 | 2023-10-29 |
-| [Crossroads](https://open.spotify.com/track/3789vBg3jwebkGxaM8k8H5) | [Gizmo Varillas](https://open.spotify.com/artist/47i4lPow1dIRwOb85AB6lj) | [Crossroads](https://open.spotify.com/album/4zic3xAKCM4gAcQMKHkt18) | 3:57 | 2024-10-03 |  |
+| [Crossroads](https://open.spotify.com/track/3789vBg3jwebkGxaM8k8H5) | [Gizmo Varillas](https://open.spotify.com/artist/47i4lPow1dIRwOb85AB6lj) | [Crossroads](https://open.spotify.com/album/4zic3xAKCM4gAcQMKHkt18) | 3:57 | 2024-10-03 | 2024-10-07 |
 | [Crown](https://open.spotify.com/track/0rFerK60tXKPQrAqKfiTmu) | [Etta Marcus](https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg) | [Crown](https://open.spotify.com/album/3aXZQpHysgW9zjKC5RPRIG) | 3:42 | 2022-08-18 | 2022-10-07 |
 | [Crybaby](https://open.spotify.com/track/61a0LXQA7wJ64CGzttDaN9) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5) | [Make Room](https://open.spotify.com/album/7aTumdbpn2n1AG6CjCqvnR) | 3:10 | 2021-03-09 | 2022-01-17 |
 | [Cut My Hair](https://open.spotify.com/track/0EK5CqqFEUSr5HgBt1Lnpt) | [Lande Hekt](https://open.spotify.com/artist/3RU6wsoh0bm0gZFHJiYRmq) | [House Without a View](https://open.spotify.com/album/38E9pUjpxwpxb8kqHXrAp6) | 3:01 | 2022-09-22 | 2022-11-18 |
@@ -216,7 +216,7 @@
 | [Given Up](https://open.spotify.com/track/6U6SE6TIi5dkBtbeTpttuE) | [whenyoung](https://open.spotify.com/artist/6IcfYALmhjyW2kJwRNXHJp) | [Given Up](https://open.spotify.com/album/4rgx764wUVuOBIydzikMEe) | 3:15 | 2021-03-09 | 2022-01-17 |
 | [Gloria](https://open.spotify.com/track/035nLKzJfA7tGQwIwI6TjZ) | [The Snuts](https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo) | [Gloria](https://open.spotify.com/album/16dYCNfeucSYqiqd29t2yC) | 2:32 | 2023-05-25 |  |
 | [Glow In The Dark](https://open.spotify.com/track/6PCJsEOd9rq2mTs6cOuhj2) | [Alberta Cross](https://open.spotify.com/artist/1hPgyZ5YatVFXQBhsXKTpq) | [Glow In The Dark](https://open.spotify.com/album/7ARlhnl5Swf292DJ4IwEV5) | 3:56 | 2023-01-13 | 2023-02-17 |
-| [GO GO GO](https://open.spotify.com/track/7uiXg5Ec2teUAxhIEiD00N) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [GO GO GO](https://open.spotify.com/album/0AD4xVslP0qraEZQKQ5O3S) | 2:25 | 2023-08-11 |  |
+| [GO GO GO](https://open.spotify.com/track/7uiXg5Ec2teUAxhIEiD00N) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [GO GO GO](https://open.spotify.com/album/0AD4xVslP0qraEZQKQ5O3S) | 2:25 | 2023-08-11 | 2024-10-07 |
 | [GO!!!](https://open.spotify.com/track/3y5v0rYHHY9DrkZUM6H2kA) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [GO!!!](https://open.spotify.com/album/2jaLAhsvcf5RWgg5uY3ds0) | 3:24 | 2023-11-10 | 2024-02-08 |
 | [Good Time](https://open.spotify.com/track/1njjXma9MKvrQqkIsnq8xl) | [Alex Lahey](https://open.spotify.com/artist/5kdYrM3h2sB1Eid5tDf6Hk) | [Good Time](https://open.spotify.com/album/6OoMTTMQYmZX8jPjp7ZjAB) | 3:11 | 2023-02-03 | 2023-02-28 |
 | [Goodtime Girl](https://open.spotify.com/track/6UJjG07pInpl76t5sfbuoZ) | [Starcrawler](https://open.spotify.com/artist/0ZhtrY2Lt1s9klwm03lu8i) | [Goodtime Girl](https://open.spotify.com/album/6Ibu14uF72Paww9euwpsT3) | 4:10 | 2021-06-21 | 2022-08-19 |
@@ -492,7 +492,7 @@
 | [Slowing Down](https://open.spotify.com/track/4PPodWxVosPAXvwLlqbjyt) | [The Backseat Lovers](https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI) | [Slowing Down](https://open.spotify.com/album/3Yo08VwO5AZjYxM9XC6IXp) | 5:20 | 2022-10-13 | 2022-11-13 |
 | [Slowing Down](https://open.spotify.com/track/5hP4E6151iBhUXsuNhuwfk) | [The Backseat Lovers](https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI) | [Slowing Down](https://open.spotify.com/album/4lFKMJASTntuvHbLhjt4g4) | 5:20 | 2022-10-06 | 2022-11-02 |
 | [Slowly Separate](https://open.spotify.com/track/0pQ3HWdEQ4dKh56PBgvDuy) | [Crows](https://open.spotify.com/artist/5LFuHlM7fW3xnIyBsDrGfn) | [Slowly Separate](https://open.spotify.com/album/3BO6yFiAUJf5ZcyGKMz7C3) | 3:41 | 2022-01-17 | 2022-08-19 |
-| [slut era](https://open.spotify.com/track/7r3ivjllaf9eJeeYbjpfKf) | [annie hamilton](https://open.spotify.com/artist/0S3cimlz80A0Q9CLz8TTxH) | [slut era](https://open.spotify.com/album/26Aap3VdSgDzBzxvY38Us7) | 2:35 | 2024-07-12 | 2024-08-10 |
+| [slut era](https://open.spotify.com/track/7r3ivjllaf9eJeeYbjpfKf) | [annie hamilton](https://open.spotify.com/artist/0S3cimlz80A0Q9CLz8TTxH) | [slut era](https://open.spotify.com/album/26Aap3VdSgDzBzxvY38Us7) | 2:35 | 2024-07-12 |  |
 | [Smile](https://open.spotify.com/track/0wQKKPy050lguUxlKvHIi5) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Blue Weekend](https://open.spotify.com/album/1VCTWaze9kuY5IDlbtR5p0) | 3:16 | 2022-08-18 | 2024-04-19 |
 | [Smile](https://open.spotify.com/track/0mjOx4zUlL5t4rF1xnrfvi) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Blue Weekend](https://open.spotify.com/album/1zt521PK0lam6J79DNMIJi) | 3:16 | 2024-03-15 |  |
 | [Snowflake Suzie](https://open.spotify.com/track/0B2hkwmDeDi2Tx87YgHQui) | [Etta Marcus](https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg) | [Snowflake Suzie](https://open.spotify.com/album/6HBxIk9HDOQy1qPuC9oaRm) | 3:40 | 2023-11-24 | 2024-01-12 |
@@ -511,6 +511,7 @@
 | [Sometimes, I Swear](https://open.spotify.com/track/2DJejaWAKa3BTTdwvzKVJO) | [The Vaccines](https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA) | [Pick\-Up Full Of Pink Carnations](https://open.spotify.com/album/6enl3uuyldMQvTQfgWP9F4) | 3:38 | 2024-02-16 | 2024-04-19 |
 | [Spaceman](https://open.spotify.com/track/5pU3DvhvDQLZ8RyAy5ShSt) | [Skegss](https://open.spotify.com/artist/3SGLeWc7J5Ve0CinAOrb3a) | [Spaceman](https://open.spotify.com/album/7DwNN6vPMPnWaYkNPFI7Ie) | 3:52 | 2024-05-31 | 2024-09-07 |
 | [Speak of the Devil](https://open.spotify.com/track/5dBqUGyiFVvjc901wkZGyr) | [Dead Pony](https://open.spotify.com/artist/3lGO6uBIzoFyU6OoGMER1B) | [Speak of the Devil](https://open.spotify.com/album/0cwnN8cat7gqJDL84CxxyO) | 3:35 | 2021-03-09 | 2022-01-17 |
+| [Spells](https://open.spotify.com/track/5eSsvk6nelxQoMYu6tLEM5) | [Freak Slug](https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS) | [Spells](https://open.spotify.com/album/1gcAlm1ulSCN41rVh5jXxN) | 3:14 | 2024-10-03 |  |
 | [Spilling Yr Guts](https://open.spotify.com/track/6wVjWIoAuJUqizw5MdgzDf) | [Apollo Ghosts](https://open.spotify.com/artist/1kELNMadpWBN7W2moY0h9O) | [Spilling Yr Guts](https://open.spotify.com/album/54jluCmKYHXQp2cii3NOzN) | 2:52 | 2022-01-24 | 2022-08-19 |
 | [SPLAT!](https://open.spotify.com/track/3QYGJb41WJjj6xs68Pvf1z) | [gglum](https://open.spotify.com/artist/3AYjDTXEMqJP0h1iXq8eYO) | [SPLAT!](https://open.spotify.com/album/4jUgvT7VlkhWmpmm6KvtCt) | 2:33 | 2023-10-13 | 2023-10-27 |
 | [St\. Charles Square](https://open.spotify.com/track/0JQ3jQlKcmS3HUssKGfyLL) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [St\. Charles Square](https://open.spotify.com/album/6yNkTZJhIhSP7N8BsBzwLK) | 3:55 | 2023-06-30 | 2023-08-05 |

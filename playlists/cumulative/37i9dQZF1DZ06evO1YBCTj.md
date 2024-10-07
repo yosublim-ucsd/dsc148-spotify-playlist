@@ -4,14 +4,14 @@
 
 > This is keshi\. The essential tracks, all in one playlist.
 
-61 songs - 2 hr 59 min
+62 songs - 3 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [2 soon](https://open.spotify.com/track/5SlU0Yhi51jobhEiGE4xDv) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [2 soon](https://open.spotify.com/album/5TfGMgtbj2pU60Hk7DT5Yb) | 3:26 | 2024-01-29 |  |
 | [alright](https://open.spotify.com/track/0zwqkO1MdFPigFIESwdJ5s) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [bandaids](https://open.spotify.com/album/4LfFHT00C9ImLMUjHkqWjQ) | 2:48 | 2024-01-29 |  |
 | [always](https://open.spotify.com/track/26dXOkhzMxLLNaUXt77HQc) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [always](https://open.spotify.com/album/37FLvUnF5qC1LZBNCWqG1A) | 2:52 | 2024-01-29 |  |
-| [Amen](https://open.spotify.com/track/64ng4dJO1i63WslhGVLJVA) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [Requiem](https://open.spotify.com/album/5DfKDonIvNlxlzA4ORIOFm) | 1:01 | 2024-09-15 |  |
+| [Amen](https://open.spotify.com/track/64ng4dJO1i63WslhGVLJVA) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [Requiem](https://open.spotify.com/album/5DfKDonIvNlxlzA4ORIOFm) | 1:01 | 2024-09-15 | 2024-10-07 |
 | [ANGEL](https://open.spotify.com/track/0srUf03MHZ4cbOO4o2ydDu) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [GABRIEL](https://open.spotify.com/album/1WVIJaAboRSwJOe4u0n0Q7) | 4:07 | 2024-05-10 | 2024-07-24 |
 | [ANGOSTURA](https://open.spotify.com/track/38umMmZQdeoOG7Zojor4g3) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [GABRIEL](https://open.spotify.com/album/1WVIJaAboRSwJOe4u0n0Q7) | 2:51 | 2024-01-29 |  |
 | [as long as it takes you](https://open.spotify.com/track/2XpmzywSGH1OILU0mxSHBy) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [as long as it takes you](https://open.spotify.com/album/1nzIbvvf8iYCk3WPdAhSfG) | 3:05 | 2024-01-29 | 2024-09-17 |
@@ -23,7 +23,7 @@
 | [Bodies](https://open.spotify.com/track/7AaCqnFCdfEKesBwSzS8NQ) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [Requiem](https://open.spotify.com/album/5DfKDonIvNlxlzA4ORIOFm) | 3:26 | 2024-09-15 |  |
 | [don't leave](https://open.spotify.com/track/4QNofaokr9HLlDR685RkMS) | [Ionika](https://open.spotify.com/artist/1GVuqedQwOPdtbQSIhKt9i), [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [don't leave](https://open.spotify.com/album/34kgbmk0mmFjw8gzyVbQCL) | 2:08 | 2024-02-03 | 2024-09-29 |
 | [don't leave](https://open.spotify.com/track/4TyxaQOzNegSypklOwwDgv) | [Ionika](https://open.spotify.com/artist/1GVuqedQwOPdtbQSIhKt9i), [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [don't leave](https://open.spotify.com/album/6eYsINX4Fsct8hbYdJ4KPY) | 2:08 | 2024-01-29 | 2024-02-04 |
-| [Dream](https://open.spotify.com/track/37gousVr7Tfh7798ae6eac) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [Dream](https://open.spotify.com/album/79y56tQjNRUextz6CReVXg) | 3:30 | 2024-08-11 |  |
+| [Dream](https://open.spotify.com/track/37gousVr7Tfh7798ae6eac) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [Dream](https://open.spotify.com/album/79y56tQjNRUextz6CReVXg) | 3:30 | 2024-08-11 | 2024-10-07 |
 | [drunk](https://open.spotify.com/track/6D6HVKe7Qu3imn4zzJD0W9) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [always](https://open.spotify.com/album/37FLvUnF5qC1LZBNCWqG1A) | 3:47 | 2024-01-29 |  |
 | [Euphoria](https://open.spotify.com/track/2F6Cjiv4jXoW6WinuSsNdc) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [Requiem](https://open.spotify.com/album/5DfKDonIvNlxlzA4ORIOFm) | 3:36 | 2024-09-18 |  |
 | [GODSPLAN](https://open.spotify.com/track/6aytsGpo91kYvyiT0qZca3) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [good days](https://open.spotify.com/album/6xOdE0k7H5TY9x74dhLdti) | 3:21 | 2024-01-29 | 2024-09-17 |
@@ -59,7 +59,8 @@
 | [SOMEBODY](https://open.spotify.com/track/3iqlzKw1tLt6tXZyKWV0fZ) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [GABRIEL](https://open.spotify.com/album/1WVIJaAboRSwJOe4u0n0Q7) | 2:44 | 2024-01-29 |  |
 | [summer](https://open.spotify.com/track/0LqCvXVNvcnkq78sCQsoO0) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [skeletons](https://open.spotify.com/album/14IZ6aHadzsKrNMnntwLb0) | 2:45 | 2024-01-29 |  |
 | [talk](https://open.spotify.com/track/0b8Sf6sJqXOr9cP6tQ7QQx) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [always](https://open.spotify.com/album/37FLvUnF5qC1LZBNCWqG1A) | 2:54 | 2024-01-29 |  |
-| [Texas](https://open.spotify.com/track/607vRhDNPs67nXVgqk4J1Z) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [Texas](https://open.spotify.com/album/17VJHcUZKAcfT2xyrlSbJQ) | 3:08 | 2024-09-08 |  |
+| [Texas](https://open.spotify.com/track/3WC2ccIwPnOSzV5FxOXUL9) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [Requiem](https://open.spotify.com/album/5DfKDonIvNlxlzA4ORIOFm) | 3:08 | 2024-10-07 |  |
+| [Texas](https://open.spotify.com/track/607vRhDNPs67nXVgqk4J1Z) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [Texas](https://open.spotify.com/album/17VJHcUZKAcfT2xyrlSbJQ) | 3:08 | 2024-09-08 | 2024-10-07 |
 | [the reaper](https://open.spotify.com/track/4vHoOPIlILceWMPGY5XEmJ) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [THE REAPER](https://open.spotify.com/album/1hM5xkleU8wr2yOaY2gCMB) | 3:18 | 2024-01-29 |  |
 | [they don't fly as high as they used to](https://open.spotify.com/track/38YOfFkows6ZZDGyNOBn2B) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [if you're not the one for me who is](https://open.spotify.com/album/3NhJAWT9TfMOxpOhtfzSAM) | 1:12 | 2024-01-29 | 2024-10-03 |
 | [TOUCH](https://open.spotify.com/track/5cgy5vMqVZbd8hYutp2txu) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [GABRIEL](https://open.spotify.com/album/1WVIJaAboRSwJOe4u0n0Q7) | 3:25 | 2024-01-29 |  |

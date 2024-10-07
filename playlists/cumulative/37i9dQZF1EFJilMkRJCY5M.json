@@ -1167,6 +1167,24 @@
     },
     {
       "album": {
+        "name": "Luckier",
+        "url": "https://open.spotify.com/album/1Ej6Oap0FVOYsnvBQcWj2u"
+      },
+      "artists": [
+        {
+          "name": "Jenna Davis",
+          "url": "https://open.spotify.com/artist/6oXQgzqvbeAem9kPX0pXnD"
+        }
+      ],
+      "date_added": "2024-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194543,
+      "name": "Luckier",
+      "url": "https://open.spotify.com/track/2ZryPLqBfvls1yKC9wlqv0"
+    },
+    {
+      "album": {
         "name": "Lena Stone",
         "url": "https://open.spotify.com/album/1gppHReaCZL3IlKnSI2cIi"
       },

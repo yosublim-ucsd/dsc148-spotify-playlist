@@ -1,6 +1,6 @@
 {
   "description": "Check out these hip-hop classics that are great for the whole family.",
-  "num_followers": 89903,
+  "num_followers": 89948,
   "original_name": "Clean Hip-Hop Classics",
   "owner": {
     "name": "Spotify",
@@ -43,22 +43,6 @@
     {
       "added_at": "2020-09-29 17:19:21",
       "album": {
-        "name": "Please Hammer Don't Hurt 'Em",
-        "url": "https://open.spotify.com/album/4r1WecJyt5FOhglysp9zhN"
-      },
-      "artists": [
-        {
-          "name": "MC Hammer",
-          "url": "https://open.spotify.com/artist/2rblp9fJo16ZPTcKDtlmKW"
-        }
-      ],
-      "duration_ms": 257359,
-      "name": "U Can't Touch This",
-      "url": "https://open.spotify.com/track/1B75hgRqe7A4fwee3g3Wmu"
-    },
-    {
-      "added_at": "2020-09-29 17:19:21",
-      "album": {
         "name": "Bad Boy's 10th Anniversary- The Hits",
         "url": "https://open.spotify.com/album/46JQVqJpOg8opDLUl1qHT1"
       },
@@ -79,6 +63,22 @@
       "duration_ms": 301520,
       "name": "I'll Be Missing You (feat. Faith Evans, 112)",
       "url": "https://open.spotify.com/track/3QHONiXGMGU3z68mQInncF"
+    },
+    {
+      "added_at": "2020-09-29 17:19:21",
+      "album": {
+        "name": "Please Hammer Don't Hurt 'Em",
+        "url": "https://open.spotify.com/album/4r1WecJyt5FOhglysp9zhN"
+      },
+      "artists": [
+        {
+          "name": "MC Hammer",
+          "url": "https://open.spotify.com/artist/2rblp9fJo16ZPTcKDtlmKW"
+        }
+      ],
+      "duration_ms": 257359,
+      "name": "U Can't Touch This",
+      "url": "https://open.spotify.com/track/1B75hgRqe7A4fwee3g3Wmu"
     },
     {
       "added_at": "2020-09-29 17:19:21",
@@ -321,6 +321,22 @@
       "url": "https://open.spotify.com/track/3Yxmpx64AdWAzG3qAD4Dty"
     },
     {
+      "added_at": "2020-09-29 17:19:21",
+      "album": {
+        "name": "3 Years, 5 Months And 2 Days In The Life Of...",
+        "url": "https://open.spotify.com/album/4QrhfVaznhrAPlM5xCKBPh"
+      },
+      "artists": [
+        {
+          "name": "Arrested Development",
+          "url": "https://open.spotify.com/artist/5Va9LuEmaZxnbk1gMnjMD7"
+        }
+      ],
+      "duration_ms": 247506,
+      "name": "Mr. Wendal",
+      "url": "https://open.spotify.com/track/5DOYik1z3Of1wAFfY3dYbC"
+    },
+    {
       "added_at": "2021-03-19 15:07:31",
       "album": {
         "name": "Greatest Hits",
@@ -347,22 +363,6 @@
       "duration_ms": 290293,
       "name": "Killing Me Softly With His Song",
       "url": "https://open.spotify.com/track/2HAVFycrhtbmLxyyxpm6JI"
-    },
-    {
-      "added_at": "2020-09-29 17:19:21",
-      "album": {
-        "name": "3 Years, 5 Months And 2 Days In The Life Of...",
-        "url": "https://open.spotify.com/album/4QrhfVaznhrAPlM5xCKBPh"
-      },
-      "artists": [
-        {
-          "name": "Arrested Development",
-          "url": "https://open.spotify.com/artist/5Va9LuEmaZxnbk1gMnjMD7"
-        }
-      ],
-      "duration_ms": 247506,
-      "name": "Mr. Wendal",
-      "url": "https://open.spotify.com/track/5DOYik1z3Of1wAFfY3dYbC"
     },
     {
       "added_at": "2022-01-10 20:50:24",
@@ -487,22 +487,6 @@
     {
       "added_at": "2020-09-29 17:19:21",
       "album": {
-        "name": "3 Years, 5 Months And 2 Days In The Life Of...",
-        "url": "https://open.spotify.com/album/4QrhfVaznhrAPlM5xCKBPh"
-      },
-      "artists": [
-        {
-          "name": "Arrested Development",
-          "url": "https://open.spotify.com/artist/5Va9LuEmaZxnbk1gMnjMD7"
-        }
-      ],
-      "duration_ms": 272706,
-      "name": "Tennessee",
-      "url": "https://open.spotify.com/track/1aaoIHFT9UqhlaEwLAhh00"
-    },
-    {
-      "added_at": "2020-09-29 17:19:21",
-      "album": {
         "name": "Big Tyme",
         "url": "https://open.spotify.com/album/2RDUJixbxpkSdNdDLR4LL8"
       },
@@ -519,6 +503,22 @@
     {
       "added_at": "2020-09-29 17:19:21",
       "album": {
+        "name": "3 Years, 5 Months And 2 Days In The Life Of...",
+        "url": "https://open.spotify.com/album/4QrhfVaznhrAPlM5xCKBPh"
+      },
+      "artists": [
+        {
+          "name": "Arrested Development",
+          "url": "https://open.spotify.com/artist/5Va9LuEmaZxnbk1gMnjMD7"
+        }
+      ],
+      "duration_ms": 272706,
+      "name": "Tennessee",
+      "url": "https://open.spotify.com/track/1aaoIHFT9UqhlaEwLAhh00"
+    },
+    {
+      "added_at": "2020-09-29 17:19:21",
+      "album": {
         "name": "Holy Intellect (Expanded Edition)",
         "url": "https://open.spotify.com/album/79kOIV8l2lC7oZtRrvjNPm"
       },
@@ -531,6 +531,22 @@
       "duration_ms": 311080,
       "name": "Rock Dis Funky Joint",
       "url": "https://open.spotify.com/track/4sqa3la7lW1uCj10PuUiJK"
+    },
+    {
+      "added_at": "2020-09-29 17:19:21",
+      "album": {
+        "name": "RUN-DMC (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5nK0vU32lSmcGrglfcOfg8"
+      },
+      "artists": [
+        {
+          "name": "Run\u2013D.M.C.",
+          "url": "https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA"
+        }
+      ],
+      "duration_ms": 330573,
+      "name": "Rock Box",
+      "url": "https://open.spotify.com/track/2XYNq7LIQrh82m7LPiPN8w"
     },
     {
       "added_at": "2024-02-12 22:06:21",
@@ -595,22 +611,6 @@
       "duration_ms": 290466,
       "name": "The World Is Yours - Clean Album Version",
       "url": "https://open.spotify.com/track/4BWBpj8D0krkebqLTQx7SZ"
-    },
-    {
-      "added_at": "2020-09-29 17:19:21",
-      "album": {
-        "name": "RUN-DMC (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5nK0vU32lSmcGrglfcOfg8"
-      },
-      "artists": [
-        {
-          "name": "Run\u2013D.M.C.",
-          "url": "https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA"
-        }
-      ],
-      "duration_ms": 330573,
-      "name": "Rock Box",
-      "url": "https://open.spotify.com/track/2XYNq7LIQrh82m7LPiPN8w"
     },
     {
       "added_at": "2020-09-29 17:19:21",
@@ -685,20 +685,20 @@
       "url": "https://open.spotify.com/track/3vzFcaVtFsxJxXsI5MrHri"
     },
     {
-      "added_at": "2021-04-08 15:31:12",
+      "added_at": "2020-12-07 15:05:30",
       "album": {
-        "name": "Rhino Hi-Five: The Sugarhill Gang",
-        "url": "https://open.spotify.com/album/5ccON60mNYkYjzOfu3XBoT"
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/5CFj95du24x9CwW0raRnmF"
       },
       "artists": [
         {
-          "name": "The Sugarhill Gang",
-          "url": "https://open.spotify.com/artist/7zliF6Q946WznVk3ZMYhZX"
+          "name": "Run\u2013D.M.C.",
+          "url": "https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA"
         }
       ],
-      "duration_ms": 427360,
-      "name": "Rapper's Delight",
-      "url": "https://open.spotify.com/track/0FWhGmPVxLI6jOVF0wjALa"
+      "duration_ms": 183626,
+      "name": "It's Tricky",
+      "url": "https://open.spotify.com/track/3C5b21hX1FePgFAGdzk3Uc"
     }
   ],
   "unique_name": "Clean Hip-Hop Classics",

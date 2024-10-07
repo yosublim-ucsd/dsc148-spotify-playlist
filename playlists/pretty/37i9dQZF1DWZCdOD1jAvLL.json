@@ -1,6 +1,6 @@
 {
   "description": "Ride the bassline. Cover: Kasablanca",
-  "num_followers": 247319,
+  "num_followers": 247353,
   "original_name": "Bangers",
   "owner": {
     "name": "Spotify",
@@ -643,6 +643,22 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
+        "name": "Lay Low",
+        "url": "https://open.spotify.com/album/0EYKSXXTsON8ZA95BuCoXn"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 153442,
+      "name": "Lay Low",
+      "url": "https://open.spotify.com/track/0zKbDrEXKpnExhGQRe9dxt"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
         "name": "Baddadan (feat. IRAH, Flowdan, Trigga & Takura)",
         "url": "https://open.spotify.com/album/2xV74PLdZg5gwA65xGF8cF"
       },
@@ -675,22 +691,6 @@
       "duration_ms": 177291,
       "name": "Baddadan (feat. IRAH, Flowdan, Trigga & Takura)",
       "url": "https://open.spotify.com/track/2ZWmmrWUgDBcPSLihBMvhg"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "Lay Low",
-        "url": "https://open.spotify.com/album/0EYKSXXTsON8ZA95BuCoXn"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 153442,
-      "name": "Lay Low",
-      "url": "https://open.spotify.com/track/0zKbDrEXKpnExhGQRe9dxt"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -819,6 +819,22 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
+        "name": "Lose Control",
+        "url": "https://open.spotify.com/album/1OYS1FK3tnJ8JhbWuUZaqE"
+      },
+      "artists": [
+        {
+          "name": "James Hype",
+          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
+        }
+      ],
+      "duration_ms": 173437,
+      "name": "Lose Control",
+      "url": "https://open.spotify.com/track/3DLWVhaowApIGw1JnJj6GS"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
         "name": "VHS RAVE",
         "url": "https://open.spotify.com/album/6jBRSFPY0Kbg7V3Ey2uDYX"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 191250,
       "name": "VHS RAVE",
       "url": "https://open.spotify.com/track/1zgs6QpTBuJ67TQvXMtp7L"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "Lose Control",
-        "url": "https://open.spotify.com/album/1OYS1FK3tnJ8JhbWuUZaqE"
-      },
-      "artists": [
-        {
-          "name": "James Hype",
-          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
-        }
-      ],
-      "duration_ms": 173437,
-      "name": "Lose Control",
-      "url": "https://open.spotify.com/track/3DLWVhaowApIGw1JnJj6GS"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -875,6 +875,22 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
+        "name": "Edge of Seventeen",
+        "url": "https://open.spotify.com/album/6oeEtPWpOfed7plMHI5qef"
+      },
+      "artists": [
+        {
+          "name": "Wuki",
+          "url": "https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q"
+        }
+      ],
+      "duration_ms": 164042,
+      "name": "Edge of Seventeen",
+      "url": "https://open.spotify.com/track/5IFSvSEeCAvvBEQ85poqKB"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
         "name": "Rhyme Dust",
         "url": "https://open.spotify.com/album/1vSO4N7cwo4pBywCSGF5BR"
       },
@@ -891,22 +907,6 @@
       "duration_ms": 181364,
       "name": "Rhyme Dust",
       "url": "https://open.spotify.com/track/59QDyqLww2pxyg9ijOPO7f"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "Edge of Seventeen",
-        "url": "https://open.spotify.com/album/6oeEtPWpOfed7plMHI5qef"
-      },
-      "artists": [
-        {
-          "name": "Wuki",
-          "url": "https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q"
-        }
-      ],
-      "duration_ms": 164042,
-      "name": "Edge of Seventeen",
-      "url": "https://open.spotify.com/track/5IFSvSEeCAvvBEQ85poqKB"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -1223,26 +1223,6 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Time To Say Goodbye",
-        "url": "https://open.spotify.com/album/7o6ZM1Yh51VBCjx0M6uo2X"
-      },
-      "artists": [
-        {
-          "name": "Blasterjaxx",
-          "url": "https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD"
-        },
-        {
-          "name": "Timmy Trumpet",
-          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
-        }
-      ],
-      "duration_ms": 190400,
-      "name": "Time To Say Goodbye",
-      "url": "https://open.spotify.com/track/2ORqBdg1ALBRZrXwOkwO8L"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
         "name": "Push",
         "url": "https://open.spotify.com/album/3GSEVlHrbrQbKSP4ozWzx8"
       },
@@ -1299,6 +1279,26 @@
       "duration_ms": 182068,
       "name": "Angel",
       "url": "https://open.spotify.com/track/5V00ZhzyrSKM6WSBn44gE3"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Time To Say Goodbye",
+        "url": "https://open.spotify.com/album/7o6ZM1Yh51VBCjx0M6uo2X"
+      },
+      "artists": [
+        {
+          "name": "Blasterjaxx",
+          "url": "https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD"
+        },
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        }
+      ],
+      "duration_ms": 190400,
+      "name": "Time To Say Goodbye",
+      "url": "https://open.spotify.com/track/2ORqBdg1ALBRZrXwOkwO8L"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Dress Code",
-        "url": "https://open.spotify.com/album/4LvkMrD1HDDOzWHRS7GKE1"
-      },
-      "artists": [
-        {
-          "name": "Mau P",
-          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
-        }
-      ],
-      "duration_ms": 203437,
-      "name": "Dress Code",
-      "url": "https://open.spotify.com/track/0rK3a7tLRVgJBoc2DP3tIX"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
         "name": "Express Yourself (Mochakk Remix)",
         "url": "https://open.spotify.com/album/370TQgbDVLx3vJSPvCNYaI"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 255000,
       "name": "Express Yourself - Mochakk Remix",
       "url": "https://open.spotify.com/track/2WNj9pcYFpYuG4jxQ5vrwT"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Dress Code",
+        "url": "https://open.spotify.com/album/4LvkMrD1HDDOzWHRS7GKE1"
+      },
+      "artists": [
+        {
+          "name": "Mau P",
+          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
+        }
+      ],
+      "duration_ms": 203437,
+      "name": "Dress Code",
+      "url": "https://open.spotify.com/track/0rK3a7tLRVgJBoc2DP3tIX"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -1803,26 +1803,6 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Ecstasy Of Soul",
-        "url": "https://open.spotify.com/album/3Z9gZ7C37E95mJkJrWIpJ8"
-      },
-      "artists": [
-        {
-          "name": "Zeds Dead",
-          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
-        },
-        {
-          "name": "GRiZ",
-          "url": "https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut"
-        }
-      ],
-      "duration_ms": 238400,
-      "name": "Ecstasy Of Soul",
-      "url": "https://open.spotify.com/track/1E0CZWim9mfwrCkXvieES8"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
         "name": "By Myself (feat. XKYLAR)",
         "url": "https://open.spotify.com/album/0Wyj5CPSohAec06LavTbTh"
       },
@@ -1839,6 +1819,26 @@
       "duration_ms": 138750,
       "name": "By Myself (feat. XKYLAR)",
       "url": "https://open.spotify.com/track/6aA1acXyys7qbWxObLbwjj"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Ecstasy Of Soul",
+        "url": "https://open.spotify.com/album/3Z9gZ7C37E95mJkJrWIpJ8"
+      },
+      "artists": [
+        {
+          "name": "Zeds Dead",
+          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
+        },
+        {
+          "name": "GRiZ",
+          "url": "https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut"
+        }
+      ],
+      "duration_ms": 238400,
+      "name": "Ecstasy Of Soul",
+      "url": "https://open.spotify.com/track/1E0CZWim9mfwrCkXvieES8"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -1995,6 +1995,22 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
+        "name": "GASOLINA & COCAINA",
+        "url": "https://open.spotify.com/album/3mdYxKYicOvBpjQkDWM1az"
+      },
+      "artists": [
+        {
+          "name": "HEDEGAARD",
+          "url": "https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2"
+        }
+      ],
+      "duration_ms": 192390,
+      "name": "GASOLINA & COCAINA",
+      "url": "https://open.spotify.com/track/0e5hNZrUwqeKua0GJHPQFp"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
         "name": "Bogeyman",
         "url": "https://open.spotify.com/album/7tSOUKrLrPRjmNWoGhNjJm"
       },
@@ -2011,18 +2027,18 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "GASOLINA & COCAINA",
-        "url": "https://open.spotify.com/album/3mdYxKYicOvBpjQkDWM1az"
+        "name": "As The Beat Goes Onnn",
+        "url": "https://open.spotify.com/album/0VvJHxPuQ1PvnOU3iXbjN6"
       },
       "artists": [
         {
-          "name": "HEDEGAARD",
-          "url": "https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2"
+          "name": "Riordan",
+          "url": "https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao"
         }
       ],
-      "duration_ms": 192390,
-      "name": "GASOLINA & COCAINA",
-      "url": "https://open.spotify.com/track/0e5hNZrUwqeKua0GJHPQFp"
+      "duration_ms": 159283,
+      "name": "As The Beat Goes Onnn",
+      "url": "https://open.spotify.com/track/5lzRFLsYxeAyRiO7r6H1qm"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -2047,22 +2063,6 @@
       "duration_ms": 176000,
       "name": "Gyrate (ft. Wreckno)",
       "url": "https://open.spotify.com/track/1t0cVl9nW6zkUeow0RCLqA"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "As The Beat Goes Onnn",
-        "url": "https://open.spotify.com/album/0VvJHxPuQ1PvnOU3iXbjN6"
-      },
-      "artists": [
-        {
-          "name": "Riordan",
-          "url": "https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao"
-        }
-      ],
-      "duration_ms": 159283,
-      "name": "As The Beat Goes Onnn",
-      "url": "https://open.spotify.com/track/5lzRFLsYxeAyRiO7r6H1qm"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -2151,6 +2151,22 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
+        "name": "Needle On The Record",
+        "url": "https://open.spotify.com/album/7E0q2fAykseBKfLY7X53jJ"
+      },
+      "artists": [
+        {
+          "name": "Riordan",
+          "url": "https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao"
+        }
+      ],
+      "duration_ms": 186625,
+      "name": "Needle On The Record",
+      "url": "https://open.spotify.com/track/5qKuF0NtvWVn5UarAgyli3"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
         "name": "DRENCH",
         "url": "https://open.spotify.com/album/2i8ecQjFpCCw6b6e8fHT2H"
       },
@@ -2231,22 +2247,6 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Needle On The Record",
-        "url": "https://open.spotify.com/album/7E0q2fAykseBKfLY7X53jJ"
-      },
-      "artists": [
-        {
-          "name": "Riordan",
-          "url": "https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao"
-        }
-      ],
-      "duration_ms": 186625,
-      "name": "Needle On The Record",
-      "url": "https://open.spotify.com/track/5qKuF0NtvWVn5UarAgyli3"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
         "name": "FAME?",
         "url": "https://open.spotify.com/album/7afE7fQMNPIS4EYhyEi55z"
       },
@@ -2311,26 +2311,6 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Shut Shit Down",
-        "url": "https://open.spotify.com/album/74HGGYuCtUANyifLwRIZhQ"
-      },
-      "artists": [
-        {
-          "name": "TroyBoi",
-          "url": "https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI"
-        },
-        {
-          "name": "Armani White",
-          "url": "https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA"
-        }
-      ],
-      "duration_ms": 162373,
-      "name": "Shut Shit Down",
-      "url": "https://open.spotify.com/track/7rIfWHDoTPLNtTtkorbs3h"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
         "name": "Don't Look Down (Hold On)",
         "url": "https://open.spotify.com/album/5XbWNkpJ1SaK5XCz3BZzDE"
       },
@@ -2351,6 +2331,26 @@
       "duration_ms": 245333,
       "name": "Don't Look Down (Hold On)",
       "url": "https://open.spotify.com/track/65krG6c3veTz66mIdSU16f"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Shut Shit Down",
+        "url": "https://open.spotify.com/album/74HGGYuCtUANyifLwRIZhQ"
+      },
+      "artists": [
+        {
+          "name": "TroyBoi",
+          "url": "https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI"
+        },
+        {
+          "name": "Armani White",
+          "url": "https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA"
+        }
+      ],
+      "duration_ms": 162373,
+      "name": "Shut Shit Down",
+      "url": "https://open.spotify.com/track/7rIfWHDoTPLNtTtkorbs3h"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -2415,6 +2415,26 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
+        "name": "Vibrate / On The Ground",
+        "url": "https://open.spotify.com/album/43qLFHzsGyaXZSY0OesmDI"
+      },
+      "artists": [
+        {
+          "name": "James Hype",
+          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
+        },
+        {
+          "name": "Tita Lau",
+          "url": "https://open.spotify.com/artist/5g93IJMEpfC68NUaeVjr4h"
+        }
+      ],
+      "duration_ms": 134170,
+      "name": "Vibrate",
+      "url": "https://open.spotify.com/track/7wSyLZthdqBgxVRHOLPSSo"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
         "name": "Where You Are - Gorgon City Remix",
         "url": "https://open.spotify.com/album/3fvyKp2tDksvqviYpujiOg"
       },
@@ -2435,26 +2455,6 @@
       "duration_ms": 282375,
       "name": "Where You Are - Gorgon City Remix",
       "url": "https://open.spotify.com/track/6vc0R5eIkOBmqHw2CSDDBw"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "MASK OFF",
-        "url": "https://open.spotify.com/album/3lCaRV6wRlnqeT1KJUfM2W"
-      },
-      "artists": [
-        {
-          "name": "Bassjackers",
-          "url": "https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8"
-        },
-        {
-          "name": "Oliver Heldens",
-          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
-        }
-      ],
-      "duration_ms": 129616,
-      "name": "MASK OFF",
-      "url": "https://open.spotify.com/track/33Ik4MjhfHmHsWg26HcsC1"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -2483,22 +2483,22 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Vibrate / On The Ground",
-        "url": "https://open.spotify.com/album/43qLFHzsGyaXZSY0OesmDI"
+        "name": "MASK OFF",
+        "url": "https://open.spotify.com/album/3lCaRV6wRlnqeT1KJUfM2W"
       },
       "artists": [
         {
-          "name": "James Hype",
-          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
+          "name": "Bassjackers",
+          "url": "https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8"
         },
         {
-          "name": "Tita Lau",
-          "url": "https://open.spotify.com/artist/5g93IJMEpfC68NUaeVjr4h"
+          "name": "Oliver Heldens",
+          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
         }
       ],
-      "duration_ms": 134170,
-      "name": "Vibrate",
-      "url": "https://open.spotify.com/track/7wSyLZthdqBgxVRHOLPSSo"
+      "duration_ms": 129616,
+      "name": "MASK OFF",
+      "url": "https://open.spotify.com/track/33Ik4MjhfHmHsWg26HcsC1"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -2555,28 +2555,8 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Fired Up (feat. Dope Earth Alien)",
-        "url": "https://open.spotify.com/album/4CygDgkQ7CQ62hcjc9JohI"
-      },
-      "artists": [
-        {
-          "name": "Catz 'n Dogz",
-          "url": "https://open.spotify.com/artist/5tYqFEuFELxnJZgGmmsfSh"
-        },
-        {
-          "name": "Dope Earth Alien",
-          "url": "https://open.spotify.com/artist/2wajUFt1bQDrz8A73tQrkN"
-        }
-      ],
-      "duration_ms": 142851,
-      "name": "Fired Up (feat. Dope Earth Alien)",
-      "url": "https://open.spotify.com/track/2mousixdXA889XtIUb2Qfh"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "Seismic",
-        "url": "https://open.spotify.com/album/0YzIqCBSxVyubwfHwJX4IQ"
+        "name": "Bass Face",
+        "url": "https://open.spotify.com/album/1XlhAL5qwEwLWYmgzbY2Hw"
       },
       "artists": [
         {
@@ -2584,17 +2564,33 @@
           "url": "https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc"
         },
         {
-          "name": "Chris Lorenzo",
-          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
-        },
-        {
-          "name": "Fly With Us",
-          "url": "https://open.spotify.com/artist/5bCPEdvvv1s0CBBiuYc5eL"
+          "name": "Young Lyxx",
+          "url": "https://open.spotify.com/artist/1KaPSJ1xlpywMSGiK1Qftk"
         }
       ],
-      "duration_ms": 208125,
-      "name": "Seismic",
-      "url": "https://open.spotify.com/track/7pZJ7jGR6skYEkIYpjIE8b"
+      "duration_ms": 183014,
+      "name": "Bass Face",
+      "url": "https://open.spotify.com/track/4ati0obORrjjYFtYWqKTQY"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Signal",
+        "url": "https://open.spotify.com/album/6cEiwSWxau10hGkDHsYbhj"
+      },
+      "artists": [
+        {
+          "name": "Rezz",
+          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
+        },
+        {
+          "name": "Grabbitz",
+          "url": "https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45"
+        }
+      ],
+      "duration_ms": 194823,
+      "name": "Signal",
+      "url": "https://open.spotify.com/track/1RcKEwbDLoLLkwCng0DzZq"
     }
   ],
   "unique_name": "Bangers",

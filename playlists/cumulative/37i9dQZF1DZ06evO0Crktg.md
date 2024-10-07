@@ -4,12 +4,13 @@
 
 > This is Jelly Roll\. The essential tracks, all in one playlist.
 
-69 songs - 3 hr 50 min
+70 songs - 3 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [5 AM](https://open.spotify.com/track/7jTaydvVpuIwkKrBj6QIhN) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs), [Merkules](https://open.spotify.com/artist/4oYZcPoj3q3DneXomtQBzg), [Futuristic](https://open.spotify.com/artist/5Z5jUyiNvFaqp0EVyLNf0p) | [Self Medicated](https://open.spotify.com/album/5LtYMFZoC0elRSipbMV5sw) | 3:46 | 2023-12-13 | 2024-09-14 |
-| [All My Life](https://open.spotify.com/track/2p5LjvjZlMSxxwNUtDyG5x) | [Falling In Reverse](https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [All My Life](https://open.spotify.com/album/4jrP67zEPygoCd90h6vMHr) | 3:10 | 2024-06-09 |  |
+| [All My Life](https://open.spotify.com/track/19CCQeIOxxUDcpFw539zd7) | [Falling In Reverse](https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Popular Monster](https://open.spotify.com/album/2knEuvsxqHMAoxlQpIdpQD) | 3:10 | 2024-10-07 |  |
+| [All My Life](https://open.spotify.com/track/2p5LjvjZlMSxxwNUtDyG5x) | [Falling In Reverse](https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [All My Life](https://open.spotify.com/album/4jrP67zEPygoCd90h6vMHr) | 3:10 | 2024-06-09 | 2024-10-07 |
 | [Almost Home](https://open.spotify.com/track/6IsnHsAA1kUOxASB9ynaOl) | [Craig Morgan](https://open.spotify.com/artist/6ktyNEnEukKzskQEiXgCFD), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Enlisted](https://open.spotify.com/album/5aEnEDTGJInHwBfuOLyyed) | 4:40 | 2023-12-18 |  |
 | [Backslide](https://open.spotify.com/track/766bpReowqK4hC9v4tYNKz) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Ballads of the Broken](https://open.spotify.com/album/4HNIAKT3412itayEYv2BxL) | 3:03 | 2023-12-13 |  |
 | [Band Plays On](https://open.spotify.com/track/62x93blgkWEz6Huop8eSQA) | [Lil Wyte](https://open.spotify.com/artist/21O7WwRkik43ErKppxDKJq), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [No Filter](https://open.spotify.com/album/0dE86L3lCP52MRnPjUOTtf) | 3:41 | 2023-12-13 | 2024-07-14 |

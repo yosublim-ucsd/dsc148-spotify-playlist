@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRTMD2EbNu.md) - [plain]
 
 > Hottest bars coming live from the 233\.  Cover: Pappy Kojo
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,013 likes - 80 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,015 likes - 80 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRTMD2EbNu.md) - [plain]
 | 14 | [Duna Agbo](https://open.spotify.com/track/0JVS2gEkmnfBw4m63hl8H0) | [Kev & Grenade](https://open.spotify.com/artist/1yOEo7wlLHYqSL3yHYnEc6), [KevTheTopic](https://open.spotify.com/artist/51k0wZlYnTwXXw3yFv2M9Z), [Nana Grenade](https://open.spotify.com/artist/1UsLliECctwMwm75LCYU9K) | [Duna Agbo](https://open.spotify.com/album/33UbxfKSBd5QEOo9pW60xm) | 3:31 |
 | 15 | [Fallen Angel](https://open.spotify.com/track/3XFc1Q32ssmKglaZKI5iTI) | [Smallgod](https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Fallen Angel](https://open.spotify.com/album/3O8VIa31ZtEh5DKRhMzp2m) | 3:20 |
 | 16 | [TRAUMA](https://open.spotify.com/track/6JePde3UV8Bu4rcmw4Jnym) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Xlimkid](https://open.spotify.com/artist/2R4dOeNFDtzHkuTXiydZ5c) | [The Championship](https://open.spotify.com/album/5n8qjShh7JbArXrVMfJ4Cp) | 2:48 |
-| 17 | [Ghana Girl \(Asakaa Mix\)](https://open.spotify.com/track/177ONM0IbGOF8AFwl7VuPA) | [G4 Boyz](https://open.spotify.com/artist/4ZtqSJYEh407LR6NM5hNcS), [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM), [City Boy](https://open.spotify.com/artist/2ppps0iwSdww4cfepGnscr), [Skyface SDW](https://open.spotify.com/artist/4R4KEZSjfEuuLyyqTiTVtG) | [Glitch Boyz](https://open.spotify.com/album/5UW4AYkCPXp74NMBA6zHja) | 2:32 |
+| 17 | [Ghana Girl \(Asakaa Mix\)](https://open.spotify.com/track/177ONM0IbGOF8AFwl7VuPA) | [G4 Boyz](https://open.spotify.com/artist/4ZtqSJYEh407LR6NM5hNcS), [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM), [City Boy](https://open.spotify.com/artist/2ppps0iwSdww4cfepGnscr), [Skyface SDW](https://open.spotify.com/artist/4R4KEZSjfEuuLyyqTiTVtG), [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz) | [Glitch Boyz](https://open.spotify.com/album/5UW4AYkCPXp74NMBA6zHja) | 2:32 |
 | 18 | [KABUTEY FLOW](https://open.spotify.com/track/7JS8FzTaLZEQFhTHTXinLY) | [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL) | [KABUTEY FLOW](https://open.spotify.com/album/71E270Mzm0P0YkMPAMBEjx) | 2:17 |
 | 19 | [My Way](https://open.spotify.com/track/0K0geDRS2mKVMIViuTATUg) | [Kawabanga](https://open.spotify.com/artist/5VcDYvRgsmMRpklUZarFEh) | [BEAUTEVIL](https://open.spotify.com/album/32BMzFv36TSYzBRCpkd5JD) | 2:27 |
 | 20 | [YESU](https://open.spotify.com/track/3yt7iYLEWEAF2DR98QYeOU) | [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn) | [YESU](https://open.spotify.com/album/4rvlg1bc9BpOw7Coj5mLyy) | 3:21 |

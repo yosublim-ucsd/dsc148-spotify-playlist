@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSElo6PPUdZk.md) - [plain]
 
 > Catch the queens of Punjabi Pop\. Cover: Sunanda Sharma
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,661 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,673 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSElo6PPUdZk.md) - [plain]
 | 3 | [8 Vaje](https://open.spotify.com/track/4jRTapBEzN0Fzjwyhtbn3R) | [Baani Sandhu](https://open.spotify.com/artist/3tDW6dCyLHiuOq5eKnHCW3), [Shree Brar](https://open.spotify.com/artist/5Dr08SCxyjTmDovDDRZCa2), [DJ Flow](https://open.spotify.com/artist/3MP2WJg5D3bmH5Mz2scPF8) | [8 Vaje](https://open.spotify.com/album/7dLHtuLGm3wX84rRKrQRt4) | 2:54 |
 | 4 | [Nattiyaan](https://open.spotify.com/track/1oEczJPtEiZb1RfJDDdZ16) | [Shipra Goyal](https://open.spotify.com/artist/7gOZcXPfLtLbFgUyHGV7cZ), [Gulab Sidhu](https://open.spotify.com/artist/0OytfiwNkc1KzXE4ImyjgW), [Kavvy Riyaaz](https://open.spotify.com/artist/4NQtFuGJoyFup7YPfqOInx), [Showkidd](https://open.spotify.com/artist/0lqjRojARBHXCBYVOm16CC) | [Nattiyaan](https://open.spotify.com/album/1uohMZNC2AJ0AsjHyKbB7w) | 3:30 |
 | 5 | [100/100](https://open.spotify.com/track/1xyguLPK7K1VAjRKQc4eV2) | [Kaur B](https://open.spotify.com/artist/43iOhUGMAnS6QbPEUYqkpg), [Kaptaan](https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb), [Black Virus](https://open.spotify.com/artist/3baDngVJ6Eof0PzTWf42lU) | [100/100](https://open.spotify.com/album/02pAxC95XrOzAVi23lft6E) | 2:10 |
-| 6 | [Dhola](https://open.spotify.com/track/0ozR2yQS7gY27fywJkaOb1) | [Jyotica Tangri](https://open.spotify.com/artist/5wQDQFm7Ku8WWGi5xqJ9lp), [Ranjha Rajan](https://open.spotify.com/artist/4dHeX7BNfbSKdO8qAs555N) | [Dhola](https://open.spotify.com/album/7EHkKYRXhXNiKDGU07Z7Xv) | 3:15 |
+| 6 | [Dhola](https://open.spotify.com/track/0ozR2yQS7gY27fywJkaOb1) | [Jyotica Tangri](https://open.spotify.com/artist/5wQDQFm7Ku8WWGi5xqJ9lp), [Saggi Nexuss](https://open.spotify.com/artist/5dMJiBJVkicivaHCgRKadi), [Khan Mallan Wala](https://open.spotify.com/artist/7Hs5OBCr72yssKFxWws6MN), [Ranjha Rajan](https://open.spotify.com/artist/4dHeX7BNfbSKdO8qAs555N) | [Dhola](https://open.spotify.com/album/7EHkKYRXhXNiKDGU07Z7Xv) | 3:15 |
 | 7 | [Aadat](https://open.spotify.com/track/5OU0FrRy5ayPf2B0SPa0Mg) | [Jenny Johal](https://open.spotify.com/artist/7wM3DMc1NCh9sjDrUf3QOd), [Jang Dhillon](https://open.spotify.com/artist/04h37X9hVdRuKEbl2y9naq), [IRIS Music](https://open.spotify.com/artist/1DB6PUHcKe8s5Ul7jkVR4Q) | [Aadat](https://open.spotify.com/album/2p1NTIbbZU1qTBCyXcKcsm) | 4:16 |
 | 8 | [Badi Tanhai \(From "Shahkot"\)](https://open.spotify.com/track/4JYBIDVraaXWdA1bYYS3XB) | [Afsana Khan](https://open.spotify.com/artist/4z0z82pXirH1TrygipQlOo), [Jatinder Shah](https://open.spotify.com/artist/4vGVzTMuXsO1vb5YA8vKEr), [Shellee](https://open.spotify.com/artist/5DJ2ZMr3PC7eTtYAZLOP4n) | [Badi Tanhai \(From "Shahkot"\)](https://open.spotify.com/album/1xrMNezoX6aUBU4s21yAW2) | 3:23 |
 | 9 | [In Love](https://open.spotify.com/track/2m7RdjSUzqVDfS5wSf2Ckq) | [Sargi Maan](https://open.spotify.com/artist/2WcrD17Io276ir3miEHCrc) | [In Love](https://open.spotify.com/album/1jh9RQ2RaDa8YUyKveMeke) | 2:58 |

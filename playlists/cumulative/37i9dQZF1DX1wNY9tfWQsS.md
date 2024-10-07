@@ -4,7 +4,7 @@
 
 > A musical celebration of women in R&amp;B, from its earliest acts to its newest stars\. Cover: Tyla
 
-154 songs - 10 hr 1 min
+155 songs - 10 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [Good Days](https://open.spotify.com/track/3YJJjQPAbDT7mGpX3WtQ9A) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Good Days](https://open.spotify.com/album/781cKhbTPwLnPmo9BALQl7) | 4:39 | 2021-03-01 | 2024-02-08 |
 | [Goodies \(feat\. Petey Pablo\)](https://open.spotify.com/track/3dFwpxh2yH7C7p9BGEKLVB) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Petey Pablo](https://open.spotify.com/artist/4Js9eYwAf9rypNtV8pNSw9) | [Goodies](https://open.spotify.com/album/71gUhKYZIWmmjqAHlY4Br3) | 3:43 | 2024-03-08 |  |
 | [Hard Place \- Single Version](https://open.spotify.com/track/56Rmib5mhCfiaSJqhLgEdW) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Hard Place](https://open.spotify.com/album/0EaFVtpOZwiLHalJrHAAMf) | 3:30 | 2021-03-01 | 2022-07-24 |
-| [Here We Go \(Uh Oh\)](https://open.spotify.com/track/6SSSGEgfuqTP75xaNOwsTo) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [Here We Go \(Uh Oh\)](https://open.spotify.com/album/6GzjzeW0x2sSVA6jMCK03p) | 3:36 | 2024-08-13 |  |
+| [Here We Go \(Uh Oh\)](https://open.spotify.com/track/6SSSGEgfuqTP75xaNOwsTo) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [Here We Go \(Uh Oh\)](https://open.spotify.com/album/6GzjzeW0x2sSVA6jMCK03p) | 3:36 | 2024-08-13 | 2024-10-07 |
 | [Hey Mr\. D.J.](https://open.spotify.com/track/6eB35pgMXdfhz5Z0WjwF1O) | [Zhané](https://open.spotify.com/artist/6cjSmkVvMvyE6tCAo1M9Is) | [Pronounced Jah\-Nay](https://open.spotify.com/album/4Rj3sxQFk2chQQqfad4siz) | 4:12 | 2022-03-08 | 2024-03-09 |
 | [Hey Mr\. DJ](https://open.spotify.com/track/4Mm3eNo7eb6SM5TS6yLvwJ) | [Zhané](https://open.spotify.com/artist/6cjSmkVvMvyE6tCAo1M9Is) | [Soul Sisters](https://open.spotify.com/album/5VljSlqVFj6AlttWE82WC2) | 4:12 | 2021-03-01 | 2022-05-25 |
 | [HMU](https://open.spotify.com/track/4EtQN9yZJuiLQwaZhhAYPq) | [Sevyn Streeter](https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca) | [HMU](https://open.spotify.com/album/1XpWSa8q6uJ2UmPxzPRSFu) | 2:33 | 2021-03-01 | 2022-07-29 |
@@ -88,6 +88,7 @@
 | [Kiss of Life](https://open.spotify.com/track/65krtHkaYLPr0mEbjL61UP) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [The Best of Sade](https://open.spotify.com/album/3uSWaQxJAdm5MWKQkQJNoK) | 4:11 | 2024-08-13 |  |
 | [Knock You Down](https://open.spotify.com/track/58FUwmyGUqkt53YPUcm7cJ) | [Keri Hilson](https://open.spotify.com/artist/63wjoROpeh5f11Qm93UiJ1), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [In A Perfect World...](https://open.spotify.com/album/4FdIO8yB9bNtcWlRcStXvZ) | 5:26 | 2024-03-08 |  |
 | [Let Me Be Your Angel](https://open.spotify.com/track/3UteV5HVR6c6vMfFTvYtuG) | [Stacy Lattisaw](https://open.spotify.com/artist/0rKnxuiIepvjtMmrYYV2VA) | [Let Me Be Your Angel](https://open.spotify.com/album/1r3ojiC0kokSIk8S4K3tQV) | 3:59 | 2021-03-01 | 2022-07-15 |
+| [Life Will Be](https://open.spotify.com/track/4ZTC6KvnQxloiwmT0Yhypy) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Gold](https://open.spotify.com/album/67DWn1tZ245gendegv7Ioz) | 3:18 | 2024-08-13 |  |
 | [Like a Tattoo](https://open.spotify.com/track/4PEGwWH4tL6H7dGl4uVSPg) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Love Deluxe](https://open.spotify.com/album/2PfGKHtqEX58bHtkQxJnWG) | 3:38 | 2024-02-07 |  |
 | [Like You](https://open.spotify.com/track/0q2bjrLKP9FAGQalGgrk1P) | [Asiahn](https://open.spotify.com/artist/1mKtlPrXjWK6oIdk9cSOjs) | [Love Train 2](https://open.spotify.com/album/4WggHiQe90qGYWlcNlUa5P) | 3:04 | 2021-03-01 | 2022-07-29 |
 | [little story](https://open.spotify.com/track/4ZfwRdhHblKGWcrMYeZMex) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [little story](https://open.spotify.com/album/38vZ3y2bFWOfq3VywVdKam) | 3:18 | 2022-03-08 | 2022-07-29 |

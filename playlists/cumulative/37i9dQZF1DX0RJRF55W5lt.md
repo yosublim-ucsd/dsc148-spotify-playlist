@@ -2,7 +2,7 @@
 
 ### [UK Garage Classics](https://open.spotify.com/playlist/37i9dQZF1DX0RJRF55W5lt)
 
-> Classic anthems from a classic era\. Cover: Sunship
+> Classic anthems from a classic era\. Cover: DJ EZ at Drumsheds
 
 160 songs - 13 hr 35 min
 

@@ -1,6 +1,6 @@
 {
   "description": "Progressive <a href=\"spotify:genre:edm_dance\">house</a> music for the late night highway.",
-  "num_followers": 1567162,
+  "num_followers": 1567299,
   "original_name": "Night Rider",
   "owner": {
     "name": "Spotify",
@@ -587,18 +587,22 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Wicked Game",
-        "url": "https://open.spotify.com/album/6h4GwAgi9ePUFoEvN7LBrx"
+        "name": "Comfort In Chaos",
+        "url": "https://open.spotify.com/album/2pHm3ZP2R3phzCYi7ilGN2"
       },
       "artists": [
         {
-          "name": "KREAM",
-          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        {
+          "name": "Paige Cavell",
+          "url": "https://open.spotify.com/artist/6K3xqGQiS7BLYG6llkAF24"
         }
       ],
-      "duration_ms": 175327,
-      "name": "Wicked Game",
-      "url": "https://open.spotify.com/track/6AJAzlq5ujQWCzzwpeGEZA"
+      "duration_ms": 236270,
+      "name": "Tears (with Paige Cavell)",
+      "url": "https://open.spotify.com/track/2NKwz3gyK8da44pR2ZbiM1"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -615,6 +619,22 @@
       "duration_ms": 206880,
       "name": "You",
       "url": "https://open.spotify.com/track/7eydI7R5mMKl0H6FqlS9hi"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Wicked Game",
+        "url": "https://open.spotify.com/album/6h4GwAgi9ePUFoEvN7LBrx"
+      },
+      "artists": [
+        {
+          "name": "KREAM",
+          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
+        }
+      ],
+      "duration_ms": 175327,
+      "name": "Wicked Game",
+      "url": "https://open.spotify.com/track/6AJAzlq5ujQWCzzwpeGEZA"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -643,26 +663,6 @@
       "duration_ms": 161627,
       "name": "Sorry (with Madonna)",
       "url": "https://open.spotify.com/track/5dW0cgZ9uV1W3PXtuTS5uP"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "Comfort In Chaos",
-        "url": "https://open.spotify.com/album/2pHm3ZP2R3phzCYi7ilGN2"
-      },
-      "artists": [
-        {
-          "name": "John Summit",
-          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
-        },
-        {
-          "name": "Paige Cavell",
-          "url": "https://open.spotify.com/artist/6K3xqGQiS7BLYG6llkAF24"
-        }
-      ],
-      "duration_ms": 236270,
-      "name": "Tears (with Paige Cavell)",
-      "url": "https://open.spotify.com/track/2NKwz3gyK8da44pR2ZbiM1"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -807,30 +807,6 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Something To Hold On To (feat. Clementine Douglas)",
-        "url": "https://open.spotify.com/album/4GwlK3OyqMu3KZ2Yrj6sRI"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "MORTEN",
-          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
-        },
-        {
-          "name": "Clementine Douglas",
-          "url": "https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6"
-        }
-      ],
-      "duration_ms": 175748,
-      "name": "Something To Hold On To (feat. Clementine Douglas)",
-      "url": "https://open.spotify.com/track/617tj2kCbyrza6mHhzT6JQ"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
         "name": "Fall Again",
         "url": "https://open.spotify.com/album/4Lgy6GaK2eR2QwOyoDeDg0"
       },
@@ -887,6 +863,30 @@
       "duration_ms": 210731,
       "name": "Subterranean",
       "url": "https://open.spotify.com/track/1e21WWJUeqFhZhDuakGkdd"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Something To Hold On To (feat. Clementine Douglas)",
+        "url": "https://open.spotify.com/album/4GwlK3OyqMu3KZ2Yrj6sRI"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "MORTEN",
+          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
+        },
+        {
+          "name": "Clementine Douglas",
+          "url": "https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6"
+        }
+      ],
+      "duration_ms": 175748,
+      "name": "Something To Hold On To (feat. Clementine Douglas)",
+      "url": "https://open.spotify.com/track/617tj2kCbyrza6mHhzT6JQ"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -955,6 +955,22 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
+        "name": "Bloom At Night",
+        "url": "https://open.spotify.com/album/2Z7t6PxnrVwUICV3qUBRtj"
+      },
+      "artists": [
+        {
+          "name": "Miss Monique",
+          "url": "https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR"
+        }
+      ],
+      "duration_ms": 199047,
+      "name": "Bloom At Night",
+      "url": "https://open.spotify.com/track/1Hz5ZPQxC6esErNVN4cxr6"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
         "name": "Shiver",
         "url": "https://open.spotify.com/album/1mJnSN0jQDklAu7SoSF8Vs"
       },
@@ -995,22 +1011,6 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Bloom At Night",
-        "url": "https://open.spotify.com/album/2Z7t6PxnrVwUICV3qUBRtj"
-      },
-      "artists": [
-        {
-          "name": "Miss Monique",
-          "url": "https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR"
-        }
-      ],
-      "duration_ms": 199047,
-      "name": "Bloom At Night",
-      "url": "https://open.spotify.com/track/1Hz5ZPQxC6esErNVN4cxr6"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
         "name": "Ray Of Solar (Mau P Remix)",
         "url": "https://open.spotify.com/album/70g6yAvShyriEefcuLiXxh"
       },
@@ -1027,26 +1027,6 @@
       "duration_ms": 251428,
       "name": "Ray Of Solar - Mau P Remix",
       "url": "https://open.spotify.com/track/7dq34q4YyMOOoCeGNieHv9"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "Blur",
-        "url": "https://open.spotify.com/album/4t4GnmNhwlpHCDWshyg1Xr"
-      },
-      "artists": [
-        {
-          "name": "KREAM",
-          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
-        },
-        {
-          "name": "Marlo Rex",
-          "url": "https://open.spotify.com/artist/3honvvPh3jtS2fTJEYKexS"
-        }
-      ],
-      "duration_ms": 178849,
-      "name": "Blur",
-      "url": "https://open.spotify.com/track/73iwLiAtgpNMu5DeRD7Jph"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -1071,6 +1051,26 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
+        "name": "Blur",
+        "url": "https://open.spotify.com/album/4t4GnmNhwlpHCDWshyg1Xr"
+      },
+      "artists": [
+        {
+          "name": "KREAM",
+          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
+        },
+        {
+          "name": "Marlo Rex",
+          "url": "https://open.spotify.com/artist/3honvvPh3jtS2fTJEYKexS"
+        }
+      ],
+      "duration_ms": 178849,
+      "name": "Blur",
+      "url": "https://open.spotify.com/track/73iwLiAtgpNMu5DeRD7Jph"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
         "name": "Hyperreal (Middle of the Night)",
         "url": "https://open.spotify.com/album/2pxGM2WjzQEQ7yowyjbnYc"
       },
@@ -1087,6 +1087,30 @@
       "duration_ms": 165000,
       "name": "Hyperreal (Middle of the Night)",
       "url": "https://open.spotify.com/track/1f9H7N9ijHFnV0BqJufUIS"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Where's The Music Gone",
+        "url": "https://open.spotify.com/album/2gcKpdIcK8DTt99uPWZkxp"
+      },
+      "artists": [
+        {
+          "name": "Cristoph",
+          "url": "https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG"
+        },
+        {
+          "name": "Pete Tong",
+          "url": "https://open.spotify.com/artist/6n1t55WMsSIUFHrAL4mUsB"
+        },
+        {
+          "name": "Paul Rogers",
+          "url": "https://open.spotify.com/artist/6QkoiP5TNAX3xPGTYDLpAg"
+        }
+      ],
+      "duration_ms": 228496,
+      "name": "Where's The Music Gone",
+      "url": "https://open.spotify.com/track/0W2DNZ8ttfFvhlGCBgMq0s"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -1115,30 +1139,6 @@
       "duration_ms": 231477,
       "name": "For Life (feat. Zak Abel & Nile Rodgers) - Nicky Romero Remix",
       "url": "https://open.spotify.com/track/7lc4S03umj2cTbFP4FWPGc"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "Where's The Music Gone",
-        "url": "https://open.spotify.com/album/2gcKpdIcK8DTt99uPWZkxp"
-      },
-      "artists": [
-        {
-          "name": "Cristoph",
-          "url": "https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG"
-        },
-        {
-          "name": "Pete Tong",
-          "url": "https://open.spotify.com/artist/6n1t55WMsSIUFHrAL4mUsB"
-        },
-        {
-          "name": "Paul Rogers",
-          "url": "https://open.spotify.com/artist/6QkoiP5TNAX3xPGTYDLpAg"
-        }
-      ],
-      "duration_ms": 228496,
-      "name": "Where's The Music Gone",
-      "url": "https://open.spotify.com/track/0W2DNZ8ttfFvhlGCBgMq0s"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -1383,26 +1383,6 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "No Matter What",
-        "url": "https://open.spotify.com/album/2HU1NhkfNZHOq1MSQJtnrO"
-      },
-      "artists": [
-        {
-          "name": "TELYKAST",
-          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
-        },
-        {
-          "name": "Oaks",
-          "url": "https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO"
-        }
-      ],
-      "duration_ms": 202992,
-      "name": "No Matter What",
-      "url": "https://open.spotify.com/track/1XajOX4fwnZLJV1xMB68LT"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
         "name": "Friend Of Mine",
         "url": "https://open.spotify.com/album/1ipZ4uu4EwyTu912NKFbyS"
       },
@@ -1435,6 +1415,26 @@
       "duration_ms": 211905,
       "name": "Believe",
       "url": "https://open.spotify.com/track/55bRlRgB1055cuJ0xnvo8R"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "No Matter What",
+        "url": "https://open.spotify.com/album/2HU1NhkfNZHOq1MSQJtnrO"
+      },
+      "artists": [
+        {
+          "name": "TELYKAST",
+          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
+        },
+        {
+          "name": "Oaks",
+          "url": "https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO"
+        }
+      ],
+      "duration_ms": 202992,
+      "name": "No Matter What",
+      "url": "https://open.spotify.com/track/1XajOX4fwnZLJV1xMB68LT"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -1843,6 +1843,22 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
+        "name": "IT MIGHT BE THE DRUGS",
+        "url": "https://open.spotify.com/album/7oxDOgfgFrCFHxPzPFrl3V"
+      },
+      "artists": [
+        {
+          "name": "me n \u00fc",
+          "url": "https://open.spotify.com/artist/1hqo0TnaWxL6jVm0wdzi9f"
+        }
+      ],
+      "duration_ms": 219892,
+      "name": "IT MIGHT BE THE DRUGS",
+      "url": "https://open.spotify.com/track/6gnWzz8OrdSVC7r0yhqJs4"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
         "name": "Between Us",
         "url": "https://open.spotify.com/album/6jmOQJSmFU11Hfy5TQyUOS"
       },
@@ -1859,22 +1875,6 @@
       "duration_ms": 277500,
       "name": "Between Us",
       "url": "https://open.spotify.com/track/5mXAZYgqMhqzgNBsDmbpQl"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "IT MIGHT BE THE DRUGS",
-        "url": "https://open.spotify.com/album/7oxDOgfgFrCFHxPzPFrl3V"
-      },
-      "artists": [
-        {
-          "name": "me n \u00fc",
-          "url": "https://open.spotify.com/artist/1hqo0TnaWxL6jVm0wdzi9f"
-        }
-      ],
-      "duration_ms": 219892,
-      "name": "IT MIGHT BE THE DRUGS",
-      "url": "https://open.spotify.com/track/6gnWzz8OrdSVC7r0yhqJs4"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -1955,22 +1955,22 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Rapture (with Robert Falcon)",
-        "url": "https://open.spotify.com/album/6e6tyNGXXbD7YVCHruq2qB"
+        "name": "Radiant",
+        "url": "https://open.spotify.com/album/3XkKoyeXwOBTvFmfBL2cVI"
       },
       "artists": [
         {
-          "name": "Sander van Doorn",
-          "url": "https://open.spotify.com/artist/22bukBZvUppuwQwmDz75Gz"
+          "name": "Dyzen",
+          "url": "https://open.spotify.com/artist/4iBwpHcklqLJMHgrTEHEYl"
         },
         {
-          "name": "Robert Falcon",
-          "url": "https://open.spotify.com/artist/5CVwY7MrkxGF1aM4f1u6Xk"
+          "name": "Sideral",
+          "url": "https://open.spotify.com/artist/0og0eYW8h4bxYQXBYPvd0b"
         }
       ],
-      "duration_ms": 187285,
-      "name": "Rapture",
-      "url": "https://open.spotify.com/track/77Slqc0b3W46tzOp6J8ar8"
+      "duration_ms": 452682,
+      "name": "Dialogue",
+      "url": "https://open.spotify.com/track/52jhw6Sfp5ED2ilnikRyhP"
     }
   ],
   "unique_name": "Night Rider",

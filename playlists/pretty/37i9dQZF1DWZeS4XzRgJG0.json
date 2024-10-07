@@ -1,6 +1,6 @@
 {
   "description": "focus modus is aan en leren maar",
-  "num_followers": 33268,
+  "num_followers": 33302,
   "original_name": "Studeermuziek",
   "owner": {
     "name": "Spotify",
@@ -279,6 +279,22 @@
     {
       "added_at": "2024-10-03 22:00:00",
       "album": {
+        "name": "A Star Is Born Soundtrack (Without Dialogue)",
+        "url": "https://open.spotify.com/album/3edjzMAVB9RYRd4UcZBchx"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "duration_ms": 210200,
+      "name": "Always Remember Us This Way",
+      "url": "https://open.spotify.com/track/2rbDhOo9Fh61Bbu23T2qCk"
+    },
+    {
+      "added_at": "2024-10-03 22:00:00",
+      "album": {
         "name": "everything i wanted",
         "url": "https://open.spotify.com/album/4i3rAwPw7Ln2YrKDusaWyT"
       },
@@ -327,22 +343,6 @@
       "duration_ms": 281560,
       "name": "Thinking out Loud",
       "url": "https://open.spotify.com/track/34gCuhDGsG4bRPIf9bb02f"
-    },
-    {
-      "added_at": "2024-10-03 22:00:00",
-      "album": {
-        "name": "A Star Is Born Soundtrack (Without Dialogue)",
-        "url": "https://open.spotify.com/album/3edjzMAVB9RYRd4UcZBchx"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        }
-      ],
-      "duration_ms": 210200,
-      "name": "Always Remember Us This Way",
-      "url": "https://open.spotify.com/track/2rbDhOo9Fh61Bbu23T2qCk"
     },
     {
       "added_at": "2024-10-03 22:00:00",
@@ -535,22 +535,6 @@
     {
       "added_at": "2024-10-03 22:00:00",
       "album": {
-        "name": "Divinely Uninspired To A Hellish Extent",
-        "url": "https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70"
-      },
-      "artists": [
-        {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
-        }
-      ],
-      "duration_ms": 205686,
-      "name": "Hold Me While You Wait",
-      "url": "https://open.spotify.com/track/60iSKGrGazRzICtMjADNSM"
-    },
-    {
-      "added_at": "2024-10-03 22:00:00",
-      "album": {
         "name": "Doo-Wops & Hooligans",
         "url": "https://open.spotify.com/album/6J84szYCnMfzEcvIcfWMFL"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 217866,
       "name": "Talking to the Moon",
       "url": "https://open.spotify.com/track/1wVuPmvt6AWvTL5W2GJnzZ"
+    },
+    {
+      "added_at": "2024-10-03 22:00:00",
+      "album": {
+        "name": "Divinely Uninspired To A Hellish Extent",
+        "url": "https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "duration_ms": 205686,
+      "name": "Hold Me While You Wait",
+      "url": "https://open.spotify.com/track/60iSKGrGazRzICtMjADNSM"
     },
     {
       "added_at": "2024-10-03 22:00:00",
@@ -651,22 +651,6 @@
     {
       "added_at": "2024-10-03 22:00:00",
       "album": {
-        "name": "+",
-        "url": "https://open.spotify.com/album/0W5GGnapMz0VwemQvJDqa7"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 258373,
-      "name": "The A Team",
-      "url": "https://open.spotify.com/track/1VdZ0vKfR5jneCmWIUAMxK"
-    },
-    {
-      "added_at": "2024-10-03 22:00:00",
-      "album": {
         "name": "us",
         "url": "https://open.spotify.com/album/3L0H4RjVXpEkwfDgi3XOdf"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 251033,
       "name": "i hate u, i love u (feat. olivia o'brien)",
       "url": "https://open.spotify.com/track/7vRriwrloYVaoAe3a9wJHe"
+    },
+    {
+      "added_at": "2024-10-03 22:00:00",
+      "album": {
+        "name": "+",
+        "url": "https://open.spotify.com/album/0W5GGnapMz0VwemQvJDqa7"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 258373,
+      "name": "The A Team",
+      "url": "https://open.spotify.com/track/1VdZ0vKfR5jneCmWIUAMxK"
     },
     {
       "added_at": "2024-10-03 22:00:00",
@@ -719,6 +719,22 @@
     {
       "added_at": "2024-10-03 22:00:00",
       "album": {
+        "name": "A Place We Knew",
+        "url": "https://open.spotify.com/album/61G7KL6rpj167r6H4CzS8C"
+      },
+      "artists": [
+        {
+          "name": "Dean Lewis",
+          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
+        }
+      ],
+      "duration_ms": 179120,
+      "name": "Half A Man",
+      "url": "https://open.spotify.com/track/1ugQtcwmKOXvKAYzhjncmv"
+    },
+    {
+      "added_at": "2024-10-03 22:00:00",
+      "album": {
         "name": "If the World Was Ending (feat. Julia Michaels)",
         "url": "https://open.spotify.com/album/7BrlhEO8dHiNmU8A1Ep9RZ"
       },
@@ -739,22 +755,6 @@
     {
       "added_at": "2024-10-03 22:00:00",
       "album": {
-        "name": "A Place We Knew",
-        "url": "https://open.spotify.com/album/61G7KL6rpj167r6H4CzS8C"
-      },
-      "artists": [
-        {
-          "name": "Dean Lewis",
-          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
-        }
-      ],
-      "duration_ms": 179120,
-      "name": "Half A Man",
-      "url": "https://open.spotify.com/track/1ugQtcwmKOXvKAYzhjncmv"
-    },
-    {
-      "added_at": "2024-10-03 22:00:00",
-      "album": {
         "name": "Black Friday",
         "url": "https://open.spotify.com/album/0BdmqjXLz0L6gF78ldUYHp"
       },
@@ -767,22 +767,6 @@
       "duration_ms": 221510,
       "name": "Black Friday",
       "url": "https://open.spotify.com/track/1XTY6rA7XQosc0ynkkE9kN"
-    },
-    {
-      "added_at": "2024-10-03 22:00:00",
-      "album": {
-        "name": "\u00f7 (Deluxe)",
-        "url": "https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 221106,
-      "name": "Supermarket Flowers",
-      "url": "https://open.spotify.com/track/4VuS959DSpr82t3qBqCrWG"
     },
     {
       "added_at": "2024-10-03 22:00:00",
@@ -819,6 +803,22 @@
     {
       "added_at": "2024-10-03 22:00:00",
       "album": {
+        "name": "\u00f7 (Deluxe)",
+        "url": "https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 221106,
+      "name": "Supermarket Flowers",
+      "url": "https://open.spotify.com/track/4VuS959DSpr82t3qBqCrWG"
+    },
+    {
+      "added_at": "2024-10-03 22:00:00",
+      "album": {
         "name": "Remember That Night?",
         "url": "https://open.spotify.com/album/239r63fqY8PyWX9WcgwNzP"
       },
@@ -851,6 +851,22 @@
     {
       "added_at": "2024-10-03 22:00:00",
       "album": {
+        "name": "A Place We Knew",
+        "url": "https://open.spotify.com/album/61G7KL6rpj167r6H4CzS8C"
+      },
+      "artists": [
+        {
+          "name": "Dean Lewis",
+          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
+        }
+      ],
+      "duration_ms": 240013,
+      "name": "Waves",
+      "url": "https://open.spotify.com/track/6w8pFOKn42O418qwcQElZ3"
+    },
+    {
+      "added_at": "2024-10-03 22:00:00",
+      "album": {
         "name": "July (feat. Leon Bridges)",
         "url": "https://open.spotify.com/album/3tRmxSQyoyXXwcVDcUFQic"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 152280,
       "name": "July (feat. Leon Bridges)",
       "url": "https://open.spotify.com/track/3V0nnQhqvbE3JmiDdnzQFQ"
-    },
-    {
-      "added_at": "2024-10-03 22:00:00",
-      "album": {
-        "name": "A Place We Knew",
-        "url": "https://open.spotify.com/album/61G7KL6rpj167r6H4CzS8C"
-      },
-      "artists": [
-        {
-          "name": "Dean Lewis",
-          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
-        }
-      ],
-      "duration_ms": 240013,
-      "name": "Waves",
-      "url": "https://open.spotify.com/track/6w8pFOKn42O418qwcQElZ3"
     },
     {
       "added_at": "2024-10-03 22:00:00",
@@ -919,22 +919,6 @@
     {
       "added_at": "2024-10-03 22:00:00",
       "album": {
-        "name": "It'll Be Okay",
-        "url": "https://open.spotify.com/album/3sDud6BapENewYxlL8VH8r"
-      },
-      "artists": [
-        {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
-        }
-      ],
-      "duration_ms": 222800,
-      "name": "It'll Be Okay",
-      "url": "https://open.spotify.com/track/2KnLkZ3z7PO3kgVGHGqDpD"
-    },
-    {
-      "added_at": "2024-10-03 22:00:00",
-      "album": {
         "name": "Birdy",
         "url": "https://open.spotify.com/album/1WGjSVIw0TVfbp5KrOFiP0"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 256236,
       "name": "People Help the People",
       "url": "https://open.spotify.com/track/0YywjDvFudcaHG74NuWISy"
+    },
+    {
+      "added_at": "2024-10-03 22:00:00",
+      "album": {
+        "name": "It'll Be Okay",
+        "url": "https://open.spotify.com/album/3sDud6BapENewYxlL8VH8r"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        }
+      ],
+      "duration_ms": 222800,
+      "name": "It'll Be Okay",
+      "url": "https://open.spotify.com/track/2KnLkZ3z7PO3kgVGHGqDpD"
     },
     {
       "added_at": "2024-10-03 22:00:00",
@@ -1019,18 +1019,18 @@
     {
       "added_at": "2024-10-03 22:00:00",
       "album": {
-        "name": "Chaos And The Calm",
-        "url": "https://open.spotify.com/album/3GqsyMrJu3o8jLiGyBsBQW"
+        "name": "You're Somebody Else",
+        "url": "https://open.spotify.com/album/5BuS8meOLEcgGpdPPZfSgC"
       },
       "artists": [
         {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+          "name": "flora cash",
+          "url": "https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd"
         }
       ],
-      "duration_ms": 260532,
-      "name": "Let It Go",
-      "url": "https://open.spotify.com/track/3nnG7AM9QopHVPEuLX3Khk"
+      "duration_ms": 218883,
+      "name": "You're Somebody Else",
+      "url": "https://open.spotify.com/track/0pdKRp2sUthTPe7RLWpPqQ"
     },
     {
       "added_at": "2024-10-03 22:00:00",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2024-10-03 22:00:00",
       "album": {
-        "name": "You're Somebody Else",
-        "url": "https://open.spotify.com/album/5BuS8meOLEcgGpdPPZfSgC"
-      },
-      "artists": [
-        {
-          "name": "flora cash",
-          "url": "https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd"
-        }
-      ],
-      "duration_ms": 218883,
-      "name": "You're Somebody Else",
-      "url": "https://open.spotify.com/track/0pdKRp2sUthTPe7RLWpPqQ"
-    },
-    {
-      "added_at": "2024-10-03 22:00:00",
-      "album": {
         "name": "Breach",
         "url": "https://open.spotify.com/album/0NVQ9k3wKmuK6T02lLMl6y"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 182160,
       "name": "Someone You Loved",
       "url": "https://open.spotify.com/track/2TIlqbIneP0ZY1O0EzYLlc"
+    },
+    {
+      "added_at": "2024-10-03 22:00:00",
+      "album": {
+        "name": "Chaos And The Calm",
+        "url": "https://open.spotify.com/album/3GqsyMrJu3o8jLiGyBsBQW"
+      },
+      "artists": [
+        {
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+        }
+      ],
+      "duration_ms": 260532,
+      "name": "Let It Go",
+      "url": "https://open.spotify.com/track/3nnG7AM9QopHVPEuLX3Khk"
     },
     {
       "added_at": "2024-10-03 22:00:00",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2024-10-03 22:00:00",
       "album": {
-        "name": "This City",
-        "url": "https://open.spotify.com/album/5waiE6DS2ntWF3Q0yekJUm"
-      },
-      "artists": [
-        {
-          "name": "Sam Fischer",
-          "url": "https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA"
-        }
-      ],
-      "duration_ms": 194853,
-      "name": "This City",
-      "url": "https://open.spotify.com/track/3H3r2nKWa3Yk5gt8xgmsEt"
-    },
-    {
-      "added_at": "2024-10-03 22:00:00",
-      "album": {
         "name": "Lonely (with benny blanco)",
         "url": "https://open.spotify.com/album/3P5WIUJO0Ots1lQx09TOxk"
       },
@@ -1151,18 +1135,18 @@
     {
       "added_at": "2024-10-03 22:00:00",
       "album": {
-        "name": "Chasing Shadows",
-        "url": "https://open.spotify.com/album/5laO2TJ5lwhscYwdFB0sIX"
+        "name": "This City",
+        "url": "https://open.spotify.com/album/5waiE6DS2ntWF3Q0yekJUm"
       },
       "artists": [
         {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+          "name": "Sam Fischer",
+          "url": "https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA"
         }
       ],
-      "duration_ms": 164027,
-      "name": "Chasing Shadows",
-      "url": "https://open.spotify.com/track/5zcoYCmeIL392as1bwIYce"
+      "duration_ms": 194853,
+      "name": "This City",
+      "url": "https://open.spotify.com/track/3H3r2nKWa3Yk5gt8xgmsEt"
     },
     {
       "added_at": "2024-10-03 22:00:00",
@@ -1179,6 +1163,22 @@
       "duration_ms": 204093,
       "name": "I GUESS I'M IN LOVE",
       "url": "https://open.spotify.com/track/1is8gU4RVcN4J8xItxWoOY"
+    },
+    {
+      "added_at": "2024-10-03 22:00:00",
+      "album": {
+        "name": "Chasing Shadows",
+        "url": "https://open.spotify.com/album/5laO2TJ5lwhscYwdFB0sIX"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "duration_ms": 164027,
+      "name": "Chasing Shadows",
+      "url": "https://open.spotify.com/track/5zcoYCmeIL392as1bwIYce"
     },
     {
       "added_at": "2024-10-03 22:00:00",
@@ -1295,6 +1295,22 @@
     {
       "added_at": "2024-10-03 22:00:00",
       "album": {
+        "name": "Get Weird (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2FnfZiFMv7bmXAIATOJDHs"
+      },
+      "artists": [
+        {
+          "name": "Little Mix",
+          "url": "https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp"
+        }
+      ],
+      "duration_ms": 206493,
+      "name": "Love Me or Leave Me",
+      "url": "https://open.spotify.com/track/1n73Qe6oEprLsUNHXET2pb"
+    },
+    {
+      "added_at": "2024-10-03 22:00:00",
+      "album": {
         "name": "Let It All Go",
         "url": "https://open.spotify.com/album/70kdvnoDEA1srIsofErTEw"
       },
@@ -1311,22 +1327,6 @@
       "duration_ms": 280757,
       "name": "Let It All Go",
       "url": "https://open.spotify.com/track/70K0ezmzYEZeqoSaZMyP7o"
-    },
-    {
-      "added_at": "2024-10-03 22:00:00",
-      "album": {
-        "name": "Get Weird (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2FnfZiFMv7bmXAIATOJDHs"
-      },
-      "artists": [
-        {
-          "name": "Little Mix",
-          "url": "https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp"
-        }
-      ],
-      "duration_ms": 206493,
-      "name": "Love Me or Leave Me",
-      "url": "https://open.spotify.com/track/1n73Qe6oEprLsUNHXET2pb"
     },
     {
       "added_at": "2024-10-03 22:00:00",
@@ -1983,38 +1983,6 @@
     {
       "added_at": "2024-10-03 22:00:00",
       "album": {
-        "name": "You Let Me Walk Alone",
-        "url": "https://open.spotify.com/album/2zxvzQeDY4lmXsJnS6Hxun"
-      },
-      "artists": [
-        {
-          "name": "Michael Schulte",
-          "url": "https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq"
-        }
-      ],
-      "duration_ms": 177886,
-      "name": "You Let Me Walk Alone",
-      "url": "https://open.spotify.com/track/2VE2Ys42iJr9q9rVucRJT4"
-    },
-    {
-      "added_at": "2024-10-03 22:00:00",
-      "album": {
-        "name": "3.2",
-        "url": "https://open.spotify.com/album/0WKm0yeZhfEbxxPa1FfJbI"
-      },
-      "artists": [
-        {
-          "name": "Emma Bale",
-          "url": "https://open.spotify.com/artist/1vlR56ECqMAOA2mUTcTgPV"
-        }
-      ],
-      "duration_ms": 197345,
-      "name": "orange tree",
-      "url": "https://open.spotify.com/track/0pZIv8h9n7aN7PDVIWhC0l"
-    },
-    {
-      "added_at": "2024-10-03 22:00:00",
-      "album": {
         "name": "21",
         "url": "https://open.spotify.com/album/1azUkThwd2HfUDdeNeT147"
       },
@@ -2047,6 +2015,22 @@
     {
       "added_at": "2024-10-03 22:00:00",
       "album": {
+        "name": "You Let Me Walk Alone",
+        "url": "https://open.spotify.com/album/2zxvzQeDY4lmXsJnS6Hxun"
+      },
+      "artists": [
+        {
+          "name": "Michael Schulte",
+          "url": "https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq"
+        }
+      ],
+      "duration_ms": 177886,
+      "name": "You Let Me Walk Alone",
+      "url": "https://open.spotify.com/track/2VE2Ys42iJr9q9rVucRJT4"
+    },
+    {
+      "added_at": "2024-10-03 22:00:00",
+      "album": {
         "name": "Fingers Crossed",
         "url": "https://open.spotify.com/album/1UPlwdM0JYNwlDcKbeXrKZ"
       },
@@ -2059,6 +2043,22 @@
       "duration_ms": 175344,
       "name": "Fingers Crossed",
       "url": "https://open.spotify.com/track/5S9Zs5g9lTWnLIboN1pdlU"
+    },
+    {
+      "added_at": "2024-10-03 22:00:00",
+      "album": {
+        "name": "3.2",
+        "url": "https://open.spotify.com/album/0WKm0yeZhfEbxxPa1FfJbI"
+      },
+      "artists": [
+        {
+          "name": "Emma Bale",
+          "url": "https://open.spotify.com/artist/1vlR56ECqMAOA2mUTcTgPV"
+        }
+      ],
+      "duration_ms": 197345,
+      "name": "orange tree",
+      "url": "https://open.spotify.com/track/0pZIv8h9n7aN7PDVIWhC0l"
     },
     {
       "added_at": "2024-10-03 22:00:00",
@@ -2143,18 +2143,18 @@
     {
       "added_at": "2024-10-03 22:00:00",
       "album": {
-        "name": "In A Perfect World",
-        "url": "https://open.spotify.com/album/29Tc7Ue6KVfc5mzXxoMgEL"
+        "name": "25",
+        "url": "https://open.spotify.com/album/7uwTHXmFa1Ebi5flqBosig"
       },
       "artists": [
         {
-          "name": "Kodaline",
-          "url": "https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4"
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
         }
       ],
-      "duration_ms": 305746,
-      "name": "All I Want",
-      "url": "https://open.spotify.com/track/2PwXOevGUSkU8qaYZjgLq2"
+      "duration_ms": 295502,
+      "name": "Hello",
+      "url": "https://open.spotify.com/track/4aebBr4JAihzJQR0CiIZJv"
     },
     {
       "added_at": "2024-10-03 22:00:00",
@@ -2175,18 +2175,18 @@
     {
       "added_at": "2024-10-03 22:00:00",
       "album": {
-        "name": "25",
-        "url": "https://open.spotify.com/album/7uwTHXmFa1Ebi5flqBosig"
+        "name": "In A Perfect World",
+        "url": "https://open.spotify.com/album/29Tc7Ue6KVfc5mzXxoMgEL"
       },
       "artists": [
         {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+          "name": "Kodaline",
+          "url": "https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4"
         }
       ],
-      "duration_ms": 295502,
-      "name": "Hello",
-      "url": "https://open.spotify.com/track/4aebBr4JAihzJQR0CiIZJv"
+      "duration_ms": 305746,
+      "name": "All I Want",
+      "url": "https://open.spotify.com/track/2PwXOevGUSkU8qaYZjgLq2"
     },
     {
       "added_at": "2024-10-03 22:00:00",
@@ -2203,6 +2203,22 @@
       "duration_ms": 260004,
       "name": "Dancing On My Own",
       "url": "https://open.spotify.com/track/02WacdrRpm4zlP8H7X6bnQ"
+    },
+    {
+      "added_at": "2024-10-03 22:00:00",
+      "album": {
+        "name": "Control",
+        "url": "https://open.spotify.com/album/7kunNk4rQrxOtatKGidJO4"
+      },
+      "artists": [
+        {
+          "name": "Kensington",
+          "url": "https://open.spotify.com/artist/5hHcAWKNV84BEbkRnbQ6A7"
+        }
+      ],
+      "duration_ms": 227440,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/39HyltGRsg2q0s5PMA9ala"
     },
     {
       "added_at": "2024-10-03 22:00:00",
@@ -2255,22 +2271,6 @@
     {
       "added_at": "2024-10-03 22:00:00",
       "album": {
-        "name": "Control",
-        "url": "https://open.spotify.com/album/7kunNk4rQrxOtatKGidJO4"
-      },
-      "artists": [
-        {
-          "name": "Kensington",
-          "url": "https://open.spotify.com/artist/5hHcAWKNV84BEbkRnbQ6A7"
-        }
-      ],
-      "duration_ms": 227440,
-      "name": "Sorry",
-      "url": "https://open.spotify.com/track/39HyltGRsg2q0s5PMA9ala"
-    },
-    {
-      "added_at": "2024-10-03 22:00:00",
-      "album": {
         "name": "Purpose (Deluxe)",
         "url": "https://open.spotify.com/album/7fZH0aUAjY3ay25obOUf2a"
       },
@@ -2283,6 +2283,22 @@
       "duration_ms": 210160,
       "name": "Purpose",
       "url": "https://open.spotify.com/track/3jHCXrZNz8fQEEf4BpWCAj"
+    },
+    {
+      "added_at": "2024-10-03 22:00:00",
+      "album": {
+        "name": "7 Layers",
+        "url": "https://open.spotify.com/album/6j7rolGd1DxrUDzo2XfC8z"
+      },
+      "artists": [
+        {
+          "name": "Dotan",
+          "url": "https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H"
+        }
+      ],
+      "duration_ms": 209687,
+      "name": "Hungry",
+      "url": "https://open.spotify.com/track/5Va4EmNp4g8lniR5MiR4oT"
     },
     {
       "added_at": "2024-10-03 22:00:00",
@@ -2319,6 +2335,22 @@
     {
       "added_at": "2024-10-03 22:00:00",
       "album": {
+        "name": "When You Love Someone (Acoustic)",
+        "url": "https://open.spotify.com/album/7abPoR0SXjsHVkHquLrV7B"
+      },
+      "artists": [
+        {
+          "name": "James TW",
+          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
+        }
+      ],
+      "duration_ms": 210106,
+      "name": "When You Love Someone - Acoustic",
+      "url": "https://open.spotify.com/track/3wm0791j8FPkG7RUYljgr8"
+    },
+    {
+      "added_at": "2024-10-03 22:00:00",
+      "album": {
         "name": "House of Cards",
         "url": "https://open.spotify.com/album/4ElbBl74bLrx5yu8RXqh9z"
       },
@@ -2347,22 +2379,6 @@
       "duration_ms": 189052,
       "name": "One Call Away - Acoustic",
       "url": "https://open.spotify.com/track/4qE36yuwYbHnsPzlwhrO3M"
-    },
-    {
-      "added_at": "2024-10-03 22:00:00",
-      "album": {
-        "name": "7 Layers",
-        "url": "https://open.spotify.com/album/6j7rolGd1DxrUDzo2XfC8z"
-      },
-      "artists": [
-        {
-          "name": "Dotan",
-          "url": "https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H"
-        }
-      ],
-      "duration_ms": 209687,
-      "name": "Hungry",
-      "url": "https://open.spotify.com/track/5Va4EmNp4g8lniR5MiR4oT"
     },
     {
       "added_at": "2024-10-03 22:00:00",
@@ -2451,22 +2467,6 @@
     {
       "added_at": "2024-10-03 22:00:00",
       "album": {
-        "name": "When You Love Someone (Acoustic)",
-        "url": "https://open.spotify.com/album/7abPoR0SXjsHVkHquLrV7B"
-      },
-      "artists": [
-        {
-          "name": "James TW",
-          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
-        }
-      ],
-      "duration_ms": 210106,
-      "name": "When You Love Someone - Acoustic",
-      "url": "https://open.spotify.com/track/3wm0791j8FPkG7RUYljgr8"
-    },
-    {
-      "added_at": "2024-10-03 22:00:00",
-      "album": {
         "name": "Catch & Release",
         "url": "https://open.spotify.com/album/1nOS6PITU27mls9l2TH4r4"
       },
@@ -2551,22 +2551,6 @@
     {
       "added_at": "2024-10-03 22:00:00",
       "album": {
-        "name": "All In Good Time",
-        "url": "https://open.spotify.com/album/6buecvSq8FY2bRYSpBj4YE"
-      },
-      "artists": [
-        {
-          "name": "Racoon",
-          "url": "https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza"
-        }
-      ],
-      "duration_ms": 225065,
-      "name": "Brick By Brick",
-      "url": "https://open.spotify.com/track/1et21CEjWh8BO5nrdV4CNQ"
-    },
-    {
-      "added_at": "2024-10-03 22:00:00",
-      "album": {
         "name": "100x Winter 2015",
         "url": "https://open.spotify.com/album/6mFh8ub8d2MExl6pgK9OD0"
       },
@@ -2579,6 +2563,22 @@
       "duration_ms": 204262,
       "name": "Teach Me How To Dance With You",
       "url": "https://open.spotify.com/track/5Yp0jLnqMh0DZcy9Bfqiho"
+    },
+    {
+      "added_at": "2024-10-03 22:00:00",
+      "album": {
+        "name": "All In Good Time",
+        "url": "https://open.spotify.com/album/6buecvSq8FY2bRYSpBj4YE"
+      },
+      "artists": [
+        {
+          "name": "Racoon",
+          "url": "https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza"
+        }
+      ],
+      "duration_ms": 225065,
+      "name": "Brick By Brick",
+      "url": "https://open.spotify.com/track/1et21CEjWh8BO5nrdV4CNQ"
     },
     {
       "added_at": "2024-10-03 22:00:00",

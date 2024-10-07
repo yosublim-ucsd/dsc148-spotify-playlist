@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMDiBV8toZi.md) - [plain]
 
 > Artists recording in Coke Studio at Spotify LA\. Cover: Peggy Gou
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,146 likes - 31 songs - 1 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,155 likes - 31 songs - 1 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

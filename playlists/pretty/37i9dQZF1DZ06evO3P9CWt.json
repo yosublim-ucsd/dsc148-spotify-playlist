@@ -1,12 +1,12 @@
 {
-  "description": "This is Pabllo Vittar. The essential tracks, all in one playlist.",
-  "num_followers": 279375,
+  "description": "This Is Pabllo Vittar. Les titres incontournables, r\u00e9unis dans une seule et m\u00eame playlist.",
+  "num_followers": 279379,
   "original_name": "This Is Pabllo Vittar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zv3egAAAAAC7ziGsBPrXb83vHzll2Q75",
+  "snapshot_id": "ZwCBgAAAAABQyWYrueLYdnuZTC6qn2L/",
   "tracks": [
     {
       "added_at": null,
@@ -151,18 +151,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vai Passar Mal",
-        "url": "https://open.spotify.com/album/2HTrcsRAZAfD28QdqNc2jT"
+        "name": "Quem Manda em Mim",
+        "url": "https://open.spotify.com/album/6jShiR4qHve7n8kWdfi9tJ"
       },
       "artists": [
+        {
+          "name": "Zaynara",
+          "url": "https://open.spotify.com/artist/3g5sxvKldw7Kss4e5FPSXb"
+        },
         {
           "name": "Pabllo Vittar",
           "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
         }
       ],
-      "duration_ms": 155654,
-      "name": "K.O.",
-      "url": "https://open.spotify.com/track/5zSiXA70xM4kuSt6qim6jl"
+      "duration_ms": 192000,
+      "name": "Quem Manda em Mim",
+      "url": "https://open.spotify.com/track/2WcQ7cDxFB7o8wWXapqdwE"
     },
     {
       "added_at": null,
@@ -187,22 +191,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Quem Manda em Mim",
-        "url": "https://open.spotify.com/album/6jShiR4qHve7n8kWdfi9tJ"
+        "name": "Vai Passar Mal",
+        "url": "https://open.spotify.com/album/2HTrcsRAZAfD28QdqNc2jT"
       },
       "artists": [
-        {
-          "name": "Zaynara",
-          "url": "https://open.spotify.com/artist/3g5sxvKldw7Kss4e5FPSXb"
-        },
         {
           "name": "Pabllo Vittar",
           "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
         }
       ],
-      "duration_ms": 192000,
-      "name": "Quem Manda em Mim",
-      "url": "https://open.spotify.com/track/2WcQ7cDxFB7o8wWXapqdwE"
+      "duration_ms": 155654,
+      "name": "K.O.",
+      "url": "https://open.spotify.com/track/5zSiXA70xM4kuSt6qim6jl"
     },
     {
       "added_at": null,
@@ -231,8 +231,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Planeta de Cores (Ascolta Il Tuo Cuore)",
-        "url": "https://open.spotify.com/album/2g2ZPqBZJQpLEmaNZtOpcW"
+        "name": "Noitada",
+        "url": "https://open.spotify.com/album/6FwzHdmi1hoOUSnirEqGRO"
       },
       "artists": [
         {
@@ -240,17 +240,13 @@
           "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
         },
         {
-          "name": "Mara Pavanelly",
-          "url": "https://open.spotify.com/artist/62JzMDXMXiiCrfTFbzT0BX"
-        },
-        {
-          "name": "Forroz\u00e3o Tropykalia",
-          "url": "https://open.spotify.com/artist/01ST5jiTLQjTKBJZPXJhK5"
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
         }
       ],
-      "duration_ms": 217002,
-      "name": "Planeta de Cores (Ascolta Il Tuo Cuore)",
-      "url": "https://open.spotify.com/track/6lgZ27oRTmLlTbY8YjzI1q"
+      "duration_ms": 166013,
+      "name": "AMEIANOITE",
+      "url": "https://open.spotify.com/track/27bgMTAq4qTACnE48M3aTH"
     },
     {
       "added_at": null,
@@ -271,8 +267,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Noitada",
-        "url": "https://open.spotify.com/album/6FwzHdmi1hoOUSnirEqGRO"
+        "name": "Planeta de Cores (Ascolta Il Tuo Cuore)",
+        "url": "https://open.spotify.com/album/2g2ZPqBZJQpLEmaNZtOpcW"
       },
       "artists": [
         {
@@ -280,13 +276,17 @@
           "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
         },
         {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+          "name": "Mara Pavanelly",
+          "url": "https://open.spotify.com/artist/62JzMDXMXiiCrfTFbzT0BX"
+        },
+        {
+          "name": "Forroz\u00e3o Tropykalia",
+          "url": "https://open.spotify.com/artist/01ST5jiTLQjTKBJZPXJhK5"
         }
       ],
-      "duration_ms": 166013,
-      "name": "AMEIANOITE",
-      "url": "https://open.spotify.com/track/27bgMTAq4qTACnE48M3aTH"
+      "duration_ms": 217002,
+      "name": "Planeta de Cores (Ascolta Il Tuo Cuore)",
+      "url": "https://open.spotify.com/track/6lgZ27oRTmLlTbY8YjzI1q"
     },
     {
       "added_at": null,
@@ -471,22 +471,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vai Passar Mal",
-        "url": "https://open.spotify.com/album/2HTrcsRAZAfD28QdqNc2jT"
+        "name": "Eu Nunca Fui Embora - PARTE 1",
+        "url": "https://open.spotify.com/album/4LketVVipjzizVzYqTojSE"
       },
       "artists": [
         {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+          "name": "Fresno",
+          "url": "https://open.spotify.com/artist/2sFXe6NbmT3k7Qy4N8fE7f"
         },
         {
-          "name": "Mateus Carrilho",
-          "url": "https://open.spotify.com/artist/0TSMy9QFSMnBR2si7qZ0VT"
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
         }
       ],
-      "duration_ms": 170649,
-      "name": "Corpo Sensual (feat. Mateus Carrilho)",
-      "url": "https://open.spotify.com/track/4kkQGhScJDzNIIGavQE9SN"
+      "duration_ms": 199629,
+      "name": "Eu Te Amo / Eu Te Odeio (I\u00d4-I\u00d4)",
+      "url": "https://open.spotify.com/track/1543cODQhOSwvHkYy0SoKm"
     },
     {
       "added_at": null,
@@ -507,22 +507,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eu Nunca Fui Embora - PARTE 1",
-        "url": "https://open.spotify.com/album/4LketVVipjzizVzYqTojSE"
+        "name": "Vai Passar Mal",
+        "url": "https://open.spotify.com/album/2HTrcsRAZAfD28QdqNc2jT"
       },
       "artists": [
         {
-          "name": "Fresno",
-          "url": "https://open.spotify.com/artist/2sFXe6NbmT3k7Qy4N8fE7f"
-        },
-        {
           "name": "Pabllo Vittar",
           "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        },
+        {
+          "name": "Mateus Carrilho",
+          "url": "https://open.spotify.com/artist/0TSMy9QFSMnBR2si7qZ0VT"
         }
       ],
-      "duration_ms": 199629,
-      "name": "Eu Te Amo / Eu Te Odeio (I\u00d4-I\u00d4)",
-      "url": "https://open.spotify.com/track/1543cODQhOSwvHkYy0SoKm"
+      "duration_ms": 170649,
+      "name": "Corpo Sensual (feat. Mateus Carrilho)",
+      "url": "https://open.spotify.com/track/4kkQGhScJDzNIIGavQE9SN"
     },
     {
       "added_at": null,
@@ -643,26 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "N\u00e3o Esque\u00e7o",
-        "url": "https://open.spotify.com/album/5ZdxGjDEVczmubvGbzf5Ru"
-      },
-      "artists": [
-        {
-          "name": "Niara",
-          "url": "https://open.spotify.com/artist/1uDIjX8OKiqAM30JJdVg3l"
-        },
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        }
-      ],
-      "duration_ms": 185217,
-      "name": "Na\u0303o Esquec\u0327o",
-      "url": "https://open.spotify.com/track/3ycgRTqMzjmLMhWfuIKIcm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dawn Of Chromatica",
         "url": "https://open.spotify.com/album/3OevODyllQCrhudfLLnV3y"
       },
@@ -679,6 +659,26 @@
       "duration_ms": 140968,
       "name": "Fun Tonight - Pabllo Vittar Remix",
       "url": "https://open.spotify.com/track/70FhY7hwautR5xB1qnHzVn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "N\u00e3o Esque\u00e7o",
+        "url": "https://open.spotify.com/album/5ZdxGjDEVczmubvGbzf5Ru"
+      },
+      "artists": [
+        {
+          "name": "Niara",
+          "url": "https://open.spotify.com/artist/1uDIjX8OKiqAM30JJdVg3l"
+        },
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "duration_ms": 185217,
+      "name": "Na\u0303o Esquec\u0327o",
+      "url": "https://open.spotify.com/track/3ycgRTqMzjmLMhWfuIKIcm"
     },
     {
       "added_at": null,
@@ -775,22 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "N\u00e3o Para N\u00e3o",
-        "url": "https://open.spotify.com/album/7GRhzFj2BulxZBqqOMBdDe"
-      },
-      "artists": [
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        }
-      ],
-      "duration_ms": 166108,
-      "name": "No Hablo Espa\u00f1ol",
-      "url": "https://open.spotify.com/track/5HRzqOUfdVsHxDEBQImCT3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SEREIA",
         "url": "https://open.spotify.com/album/2klhmIzCu9KrwHJbsuS2lb"
       },
@@ -835,6 +819,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "N\u00e3o Para N\u00e3o",
+        "url": "https://open.spotify.com/album/7GRhzFj2BulxZBqqOMBdDe"
+      },
+      "artists": [
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "duration_ms": 166108,
+      "name": "No Hablo Espa\u00f1ol",
+      "url": "https://open.spotify.com/track/5HRzqOUfdVsHxDEBQImCT3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "111",
         "url": "https://open.spotify.com/album/67rOBOMZsXiQwoPpZbnC8b"
       },
@@ -871,26 +871,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "N\u00e3o Para N\u00e3o",
-        "url": "https://open.spotify.com/album/7GRhzFj2BulxZBqqOMBdDe"
-      },
-      "artists": [
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        },
-        {
-          "name": "Dilsinho",
-          "url": "https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg"
-        }
-      ],
-      "duration_ms": 158544,
-      "name": "Trago seu Amor de Volta (feat. Dilsinho)",
-      "url": "https://open.spotify.com/track/5XZur2QUZ1yY1OclXoKFUt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "BANDIDONA",
         "url": "https://open.spotify.com/album/3le9u1jM09SXaQY0HyeEpK"
       },
@@ -915,6 +895,26 @@
       "duration_ms": 136615,
       "name": "BANDIDONA",
       "url": "https://open.spotify.com/track/70t5xVFE5WJcg80wklPbcX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "N\u00e3o Para N\u00e3o",
+        "url": "https://open.spotify.com/album/7GRhzFj2BulxZBqqOMBdDe"
+      },
+      "artists": [
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        },
+        {
+          "name": "Dilsinho",
+          "url": "https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg"
+        }
+      ],
+      "duration_ms": 158544,
+      "name": "Trago seu Amor de Volta (feat. Dilsinho)",
+      "url": "https://open.spotify.com/track/5XZur2QUZ1yY1OclXoKFUt"
     },
     {
       "added_at": null,
@@ -951,22 +951,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "N\u00e3o Para N\u00e3o",
-        "url": "https://open.spotify.com/album/7GRhzFj2BulxZBqqOMBdDe"
-      },
-      "artists": [
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        }
-      ],
-      "duration_ms": 137422,
-      "name": "Buzina",
-      "url": "https://open.spotify.com/track/7fP2cpq8jUlXz3h2QfEpgs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pop 2",
         "url": "https://open.spotify.com/album/2HIwUmdxEl7SeWa1ndH5wC"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 231573,
       "name": "I Got It (feat. Brooke Candy, CupcakKe and Pabllo Vittar)",
       "url": "https://open.spotify.com/track/7tjQl5EC72HBJRAKxP3Bvm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "N\u00e3o Para N\u00e3o",
+        "url": "https://open.spotify.com/album/7GRhzFj2BulxZBqqOMBdDe"
+      },
+      "artists": [
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "duration_ms": 137422,
+      "name": "Buzina",
+      "url": "https://open.spotify.com/track/7fP2cpq8jUlXz3h2QfEpgs"
     },
     {
       "added_at": null,

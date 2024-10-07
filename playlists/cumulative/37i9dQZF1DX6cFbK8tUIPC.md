@@ -4,7 +4,7 @@
 
 > The cinnamon\-infused, crisp\-air\-breathing, crunchy\-leaves\-walking, chunky\-knit\-wearing, seasonal\-latte\-drinking playlist.
 
-361 songs - 22 hr 56 min
+362 songs - 22 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,7 +135,7 @@
 | [Garden \- Secret Track](https://open.spotify.com/track/1g1gy3VFrHzc7UfXHrzeP7) | [Caoilfhionn Rose](https://open.spotify.com/artist/6YRqlhH88xZ7h2WOhwNYOb) | [Garden \(Secret Track\)](https://open.spotify.com/album/4d4OKNBrENh5TYu4LqRlwG) | 4:17 | 2021-12-03 | 2022-09-17 |
 | [Georgia](https://open.spotify.com/track/5ASPgiUgnrHCfwnJlh04ZR) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Stranger in the Alps \(Deluxe Edition\)](https://open.spotify.com/album/5rcJ5xCMYYLCgGilFDKRZl) | 4:07 | 2021-12-03 | 2022-08-16 |
 | [Georgia](https://open.spotify.com/track/5YTJXAM6j8jEQ5vC8Q67GL) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Stranger in the Alps](https://open.spotify.com/album/0qWcLfCZ8wtcoOdX14oGNI) | 4:07 | 2022-08-15 |  |
-| [Giordano’s Dream, Pt\. I](https://open.spotify.com/track/5h0xusp4iYdXb9LROnJhR1) | [Blanco White](https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5), [MAVICA](https://open.spotify.com/artist/2J1sJydvX10ir67gz54cdW) | [Tarifa](https://open.spotify.com/album/0ZiiZQCm1aez7Kt77j78QG) | 3:43 | 2023-09-28 |  |
+| [Giordano’s Dream, Pt\. I](https://open.spotify.com/track/5h0xusp4iYdXb9LROnJhR1) | [Blanco White](https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5), [MAVICA](https://open.spotify.com/artist/2J1sJydvX10ir67gz54cdW) | [Tarifa](https://open.spotify.com/album/0ZiiZQCm1aez7Kt77j78QG) | 3:43 | 2023-09-28 | 2024-10-07 |
 | [Halloween Costume](https://open.spotify.com/track/1vv16Pho6EfYcpsO5hydxh) | [Sarah Klang](https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf) | [Halloween Costume](https://open.spotify.com/album/7p1474NP93HoaWyfjds5Tw) | 2:29 | 2023-08-08 |  |
 | [Handle](https://open.spotify.com/track/1U2ul6SmAuRtnRCDDIAg3Q) | [Molly Payton](https://open.spotify.com/artist/6mbzLeDgokrXD05pj6kf0N) | [Handle](https://open.spotify.com/album/0f1y4j9KXMhnrpLzj4PEC6) | 3:25 | 2022-10-13 | 2023-08-09 |
 | [Hang Me Like Jesus](https://open.spotify.com/track/0wwfjg7kbwGuL3X0JdtHn6) | [Crawlers](https://open.spotify.com/artist/2xtmoxSauQs0TQFUoHmbfy) | [Hang Me Like Jesus](https://open.spotify.com/album/5DWrSAe8BOlwOQ15q3Io60) | 4:24 | 2022-10-13 | 2023-08-09 |
@@ -368,6 +368,7 @@
 | [You Deserve an Oscar](https://open.spotify.com/track/4K2TmH3Luk6dF8dVEmq6m0) | [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf) | [Good Morning It's Now Tomorrow](https://open.spotify.com/album/4eyBviSES0CZjUaipdnHku) | 3:36 | 2022-06-22 | 2022-08-16 |
 | [You're Gonna Be A Daddy](https://open.spotify.com/track/0CH7gHUFZZTwRr482gmzj7) | [Maple Glider](https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk) | [You At The Top Of The Driveway/You're Gonna Be A Daddy](https://open.spotify.com/album/4ZPRYPna0yIpEItgtKGmtr) | 3:39 | 2023-08-25 | 2024-08-19 |
 | [You're Gonna Be A Daddy](https://open.spotify.com/track/36ALNVgxdEj8fIio1RgTAM) | [Maple Glider](https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk) | [I Get Into Trouble](https://open.spotify.com/album/5YjuYOxqBr5RPuXq6XB2VT) | 3:39 | 2023-09-21 | 2024-04-19 |
+| [Your Dog](https://open.spotify.com/track/1LHRpiGObRt9Y3WDgoj9l8) | [Ellur](https://open.spotify.com/artist/4uG8VYp1GLQpZVokfG2Ui7) | [Your Dog](https://open.spotify.com/album/736y0JBkHDPbrll16m0EQ3) | 3:29 | 2024-10-06 |  |
 | [Your Life Your Time \- Acoustic](https://open.spotify.com/track/33whXaknBDUx53evCaViv1) | [Christian Leave](https://open.spotify.com/artist/2G8UkPZnQ8i78L8TfqP1X6) | [Your Life Your Time \(Acoustic\)](https://open.spotify.com/album/4sxRXwPnLAWdfg4TwA4D1v) | 2:57 | 2021-12-03 | 2022-08-16 |
 
 \*This playlist was first scraped on 2021-12-30. Prior content cannot be recovered.

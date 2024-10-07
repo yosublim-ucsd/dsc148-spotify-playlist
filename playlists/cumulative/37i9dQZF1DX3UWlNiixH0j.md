@@ -4,7 +4,7 @@
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: Bialystocks
 
-1,912 songs - 4 day 22 hr 53 min
+1,913 songs - 4 day 22 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -734,7 +734,7 @@
 | [nyc](https://open.spotify.com/track/1PxIO0AhSb4dw3BM4Uf6Mz) | [brkfstblend](https://open.spotify.com/artist/3RwELycfOfGHyoKYjH9iWQ) | [nyc](https://open.spotify.com/album/6wDXapgZZ324fR4nFsiMhj) | 4:56 | 2024-04-30 | 2024-05-22 |
 | [O.M.M \(feat\. Kenya Fujita\)](https://open.spotify.com/track/5xuNygFHKubkXvqRMeNB8u) | [VivaOla](https://open.spotify.com/artist/5t8n1FYliYmJ4tqtITVbF9), [藤田織也](https://open.spotify.com/artist/1gjcLvf9YDsoMiLWQT6spd) | [O.M.M \(feat\. Kenya Fujita\)](https://open.spotify.com/album/5jhY5eCkAE6FfOl2wPHw0P) | 2:27 | 2023-10-10 | 2023-10-18 |
 | [O.M.M \- feat\. 藤田織也](https://open.spotify.com/track/2ctOBBuKRVEbK0BsShiaJq) | [VivaOla](https://open.spotify.com/artist/5t8n1FYliYmJ4tqtITVbF9), [藤田織也](https://open.spotify.com/artist/1gjcLvf9YDsoMiLWQT6spd) | [O.M.M \(feat\. 藤田織也\)](https://open.spotify.com/album/1q8b5fH5kvHVhaQwhsEXEF) | 2:27 | 2023-10-10 | 2023-10-12 |
-| [o.s.o.s.](https://open.spotify.com/track/3lqiMq2ITpuFMlkJq6lQND) | [wagamama](https://open.spotify.com/artist/2NKDGm8tCrXcW2fNSASi82), [Subyub Lee](https://open.spotify.com/artist/4dH9LSAJfj9mB1hXxUaMJx) | [o.s.o.s.](https://open.spotify.com/album/7AEqT8Nq2RMBu30GnMvn90) | 3:36 | 2024-09-17 |  |
+| [o.s.o.s.](https://open.spotify.com/track/3lqiMq2ITpuFMlkJq6lQND) | [wagamama](https://open.spotify.com/artist/2NKDGm8tCrXcW2fNSASi82), [Subyub Lee](https://open.spotify.com/artist/4dH9LSAJfj9mB1hXxUaMJx) | [o.s.o.s.](https://open.spotify.com/album/7AEqT8Nq2RMBu30GnMvn90) | 3:36 | 2024-09-17 | 2024-10-07 |
 | [oblivious colonists](https://open.spotify.com/track/1KvkGqgKp8GgUr29HAkIKJ) | [BOAR HUNTER](https://open.spotify.com/artist/3fgbIEhchBfDmtoB0lQw2s) | [oblivious colonists](https://open.spotify.com/album/3H96NXuxKVpX8e9lwe6Wal) | 3:51 | 2023-01-24 | 2023-03-15 |
 | [OG](https://open.spotify.com/track/2YAqgdWL0JSLI1csapgpIv) | [valknee](https://open.spotify.com/artist/5XOjyFVFORvz5wwievXJNn) | [Ordinary](https://open.spotify.com/album/0VTp6wejiRtsxAYW7JX7Wq) | 2:52 | 2024-04-09 | 2024-05-01 |
 | [OG](https://open.spotify.com/track/3pM2rYEjk9z4qf4T1MBYQo) | [valknee](https://open.spotify.com/artist/5XOjyFVFORvz5wwievXJNn) | [Ordinary](https://open.spotify.com/album/68dcRmA0w3EAOfOFq4o1gc) | 2:52 | 2024-04-10 | 2024-04-19 |
@@ -1041,6 +1041,7 @@
 | [TAMAPOP](https://open.spotify.com/track/0dkJRyRHYbhutsr6th52VI) | [CHAMELEON LIME WHOOPIEPIE](https://open.spotify.com/artist/1uP5mPkWII7Tcxp7xtqPmj) | [TAMAPOP](https://open.spotify.com/album/4O9A91iZSDqZC8A4jaexuv) | 1:57 | 2023-08-08 | 2023-08-10 |
 | [TANABATA EXOTICA](https://open.spotify.com/track/4nNLkG5v4waSzvYqRgTvmN) | [KONCOS](https://open.spotify.com/artist/2DLMFZ9TlwJwyGzzodWpXv) | [TANABATA EXOTICA](https://open.spotify.com/album/2dipe8xb0i8Aju99Ymn25M) | 3:57 | 2024-07-09 | 2024-07-17 |
 | [TAPIR](https://open.spotify.com/track/5WpLjDERE5fEyzDQUsyYFh) | [えんぷてい](https://open.spotify.com/artist/7zzRFLfG1OzxyobuR74moh) | [TAPIR](https://open.spotify.com/album/12msNgPx2JGTluVY08P3kb) | 4:05 | 2023-07-11 | 2023-07-19 |
+| [tara](https://open.spotify.com/track/2AhKGBfxxaDyWx5LrpK4kX) | [macico](https://open.spotify.com/artist/3E8101axpM3NdTLpv4vhhk) | [tara](https://open.spotify.com/album/5NTMAHruzyWb2wDpxx5pCt) | 2:59 | 2024-10-01 |  |
 | [TARAREBA](https://open.spotify.com/track/72Zdhh39YsvcuBChATbIpG) | [Dengaryu](https://open.spotify.com/artist/77UuWIk4w0o7rsn3q1Peru) | [TARAREBA](https://open.spotify.com/album/3CesSiD2smtYiNsgVWyihT) | 3:21 | 2023-11-14 | 2023-12-06 |
 | [Tasogare Perspective](https://open.spotify.com/track/6brNws9ckOQ2WEPZXi6ZxQ) | [東京酒吐座\(Tokyo Shoegazer\)](https://open.spotify.com/artist/0dzZimiT5lEvERCEXHdaTX) | [turnaround \(10th Anniversary Re\-Recording\)](https://open.spotify.com/album/2XZls1ZAs7LqA55pgNffGW) | 5:53 | 2023-12-14 | 2023-12-20 |
 | [Tattoo](https://open.spotify.com/track/0OvcAxjDgIYZ7FZrbKr4tE) | [michel ko](https://open.spotify.com/artist/55brV6SE3YnJWlU9MRrNlE), [SPENSR](https://open.spotify.com/artist/5jzmNh6iGnT9NpmQSHGeiO) | [Tattoo](https://open.spotify.com/album/3RWukqMlZRZojQyIhD8vki) | 2:55 | 2023-06-13 | 2023-07-14 |

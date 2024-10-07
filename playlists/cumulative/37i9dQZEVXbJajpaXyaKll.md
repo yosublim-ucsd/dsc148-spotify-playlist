@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Argentina.
 
-731 songs - 1 day 14 hr 46 min
+732 songs - 1 day 14 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,7 @@
 | [Beanie](https://open.spotify.com/track/2NlxHzUzAHhNcZdaOEuLzq) | [Chezile](https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH) | [Beanie](https://open.spotify.com/album/6ZEGxtC2UW02PF0TR4CsKh) | 2:12 | 2024-02-16 | 2024-02-21 |
 | [Beautiful Things](https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Fireworks & Rollerblades](https://open.spotify.com/album/168CdR21lfn0TTyw1Pkdcm) | 3:00 | 2024-04-06 | 2024-05-08 |
 | [Beautiful Things](https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Beautiful Things](https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw) | 3:00 | 2024-02-06 | 2024-04-07 |
-| [Bed Chem](https://open.spotify.com/track/1UHS8Rf6h5Ar3CDWRd3wjF) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 2:51 | 2024-09-10 |  |
+| [Bed Chem](https://open.spotify.com/track/1UHS8Rf6h5Ar3CDWRd3wjF) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 2:51 | 2024-09-10 | 2024-10-07 |
 | [BEIA \(Jere Klein\)](https://open.spotify.com/track/6Dj22jpOiUm5DMjjEdeImQ) | [Prod Millones](https://open.spotify.com/artist/5cRpSxsBSMfrPgDuXDsys1), [Axl Boore](https://open.spotify.com/artist/4WnChRKrzhukEIN00vy0s8) | [BEIA \(Jere Klein\)](https://open.spotify.com/album/2vOMwwbgBe7vCGfV18lmUv) | 2:11 | 2024-08-09 | 2024-08-23 |
 | [Belong Together](https://open.spotify.com/track/5uQ7de4EWjb3rkcFxyEOpu) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [Belong Together](https://open.spotify.com/album/3PlCMwyq6nuQYtoYproV1o) | 2:28 | 2024-04-05 | 2024-05-08 |
 | [BESAME \(feat\. Tiago PZK, Khea & Neo Pistea\) \- Remix](https://open.spotify.com/track/3GD6eImRvT0zgr8cQnokUq) | [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR), [Seven Kayne](https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz), [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Neo Pistea](https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV) | [BESAME \(feat\. Tiago PZK, Khea & Neo Pistea\) \[Remix\]](https://open.spotify.com/album/6rkhVb5zrsbR24Rpno9kHq) | 4:44 | 2024-05-07 | 2024-06-13 |
@@ -347,6 +347,7 @@
 | [Le Gustan los Malditos 2](https://open.spotify.com/track/4DF4V8U2KpRLPxzqfWQF8C) | [Bayron Fire](https://open.spotify.com/artist/2IAxPmQzx2NuutHe7ta7gs), [Jowell](https://open.spotify.com/artist/6TASDj2ogOKQptnxgEvrcP), [Jairo Vera](https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc) | [Altius](https://open.spotify.com/album/67WWridaVRTMhnZlkN62AR) | 5:21 | 2024-02-19 | 2024-03-20 |
 | [Lento \(Original Mix\)](https://open.spotify.com/track/4IL0li89Pjk3hAM9ihqPBl) | [Chapa & Castelo](https://open.spotify.com/artist/7lsEUAdbQ2XZWH0xOVhiqH), [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX) | [Lento \(Original Mix\)](https://open.spotify.com/album/2nHLZjtZeEKky3uOZtLbf1) | 5:30 | 2024-04-15 | 2024-05-01 |
 | [LET THE WORLD BURN](https://open.spotify.com/track/1De425SCFJULIHbcmeebUw) | [Chris Grey](https://open.spotify.com/artist/0F3maSKfGGVtfATaAyeyPG) | [LET THE WORLD BURN](https://open.spotify.com/album/5QytORVSwlSBhDtikzvcV5) | 2:43 | 2024-05-19 | 2024-07-31 |
+| [Letting Go \- Remastered 2014](https://open.spotify.com/track/28ez9yM0sFDOz7fFvs4vdo) | [Wings](https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m) | [Venus And Mars \- Archive Collection](https://open.spotify.com/album/5B1c0VlK24gvkbJx2g9Ft9) | 4:32 | 2024-10-06 |  |
 | [Like A Dream](https://open.spotify.com/track/5BfmbGA0K89froxm1kNBF1) | [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB), [Rivo](https://open.spotify.com/artist/2NrprO4CludRmaWtpqud10) | [Like A Dream](https://open.spotify.com/album/2g6OYPEIP9D20JF6MRxElp) | 4:13 | 2024-09-21 | 2024-10-02 |
 | [Like a Prayer \- Choir Version From “Deadpool & Wolverine”](https://open.spotify.com/track/492ceDtqmafb6QD1Xfhpmo) | [I'll Take You There Choir](https://open.spotify.com/artist/2ABREU7iSvhEV9Ktoj30ne) | [Deadpool & Wolverine: Madonna's "Like a Prayer" EP](https://open.spotify.com/album/4Uolzy4jMibs7tewebgYA0) | 2:32 | 2024-08-27 | 2024-09-18 |
 | [Like That](https://open.spotify.com/track/2tudvzsrR56uom6smgOcSf) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [WE DON'T TRUST YOU](https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn) | 4:27 | 2024-04-09 | 2024-04-21 |

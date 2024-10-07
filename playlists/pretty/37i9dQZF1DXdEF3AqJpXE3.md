@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdEF3AqJpXE3.md) - [plain]
 
 > The best tracks from the world of music\. Cover: Regina Song
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,679 likes - 57 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,692 likes - 57 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

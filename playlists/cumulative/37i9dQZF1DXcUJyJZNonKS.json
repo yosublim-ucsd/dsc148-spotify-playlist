@@ -329,6 +329,28 @@
     },
     {
       "album": {
+        "name": "ROCK ME KISS ME (feat. MOTSU)",
+        "url": "https://open.spotify.com/album/7vuwwNArX7RXXYbzNDawt0"
+      },
+      "artists": [
+        {
+          "name": "Yu Serizawa",
+          "url": "https://open.spotify.com/artist/0TskwVXV9CO11Gjaf8mUuP"
+        },
+        {
+          "name": "motsu",
+          "url": "https://open.spotify.com/artist/0pZo9IfX38NN78vI3ru3Lk"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235266,
+      "name": "ROCK ME KISS ME - feat. MOTSU",
+      "url": "https://open.spotify.com/track/35GWJ7WAeSsMHDDpFvJYYK"
+    },
+    {
+      "album": {
         "name": "Story",
         "url": "https://open.spotify.com/album/3HxXbGrwquGzrjgZAmIcuX"
       },

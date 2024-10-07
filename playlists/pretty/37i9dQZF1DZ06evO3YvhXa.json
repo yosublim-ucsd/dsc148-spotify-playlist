@@ -1,12 +1,12 @@
 {
   "description": "This Is Jamiroquai. Los temas esenciales, todos en una lista.",
-  "num_followers": 396657,
+  "num_followers": 396721,
   "original_name": "This Is Jamiroquai",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zv3egAAAAAAdrjM4Zbjldiy9nXIIi1tU",
+  "snapshot_id": "ZwCBgAAAAADuvowyIDAh8GGqvgI5M5Vt",
   "tracks": [
     {
       "added_at": null,
@@ -483,34 +483,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Club Future Nostalgia (DJ Mix)",
-        "url": "https://open.spotify.com/album/3W04W2HfQ5kVeByxfjbu2C"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        },
-        {
-          "name": "The Blessed Madonna",
-          "url": "https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw"
-        },
-        {
-          "name": "Jamiroquai",
-          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
-        },
-        {
-          "name": "Dimitri From Paris",
-          "url": "https://open.spotify.com/artist/5Il27M5JXuQLgwDgVrQMgo"
-        }
-      ],
-      "duration_ms": 180040,
-      "name": "Break My Heart / Cosmic Girl (Dimitri From Paris Edit) [Mixed]",
-      "url": "https://open.spotify.com/track/6oCGHGu19poEz8iF3ZXHrj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rock Dust Light Star (Deluxe Version)",
         "url": "https://open.spotify.com/album/5mTP7Oivpq88d7ZQ9DBt4F"
       },
@@ -539,6 +511,34 @@
       "duration_ms": 292666,
       "name": "If I Like It, I Do It",
       "url": "https://open.spotify.com/track/6DpVRGSelmlUqjOaXrlS3N"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Club Future Nostalgia (DJ Mix)",
+        "url": "https://open.spotify.com/album/3W04W2HfQ5kVeByxfjbu2C"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        {
+          "name": "The Blessed Madonna",
+          "url": "https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw"
+        },
+        {
+          "name": "Jamiroquai",
+          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
+        },
+        {
+          "name": "Dimitri From Paris",
+          "url": "https://open.spotify.com/artist/5Il27M5JXuQLgwDgVrQMgo"
+        }
+      ],
+      "duration_ms": 180040,
+      "name": "Break My Heart / Cosmic Girl (Dimitri From Paris Edit) [Mixed]",
+      "url": "https://open.spotify.com/track/6oCGHGu19poEz8iF3ZXHrj"
     },
     {
       "added_at": null,
@@ -575,22 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rock Dust Light Star (Deluxe Version)",
-        "url": "https://open.spotify.com/album/5mTP7Oivpq88d7ZQ9DBt4F"
-      },
-      "artists": [
-        {
-          "name": "Jamiroquai",
-          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
-        }
-      ],
-      "duration_ms": 269946,
-      "name": "Smoke and Mirrors",
-      "url": "https://open.spotify.com/track/1JKh2bRSYxx04pBEmFM6Bt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Emergency on Planet Earth (Remastered)",
         "url": "https://open.spotify.com/album/0SeTonJJPjy57LqiCDmeEM"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 245173,
       "name": "Emergency on Planet Earth",
       "url": "https://open.spotify.com/track/0mmI8HaXjgzxrtKDmvAN7R"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rock Dust Light Star (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5mTP7Oivpq88d7ZQ9DBt4F"
+      },
+      "artists": [
+        {
+          "name": "Jamiroquai",
+          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
+        }
+      ],
+      "duration_ms": 269946,
+      "name": "Smoke and Mirrors",
+      "url": "https://open.spotify.com/track/1JKh2bRSYxx04pBEmFM6Bt"
     },
     {
       "added_at": null,

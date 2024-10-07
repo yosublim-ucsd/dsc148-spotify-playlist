@@ -1,6 +1,6 @@
 {
   "description": "groovy.",
-  "num_followers": 172062,
+  "num_followers": 172115,
   "original_name": "Psych & Groove",
   "owner": {
     "name": "Spotify",
@@ -467,6 +467,22 @@
     {
       "added_at": "2024-07-05 19:49:15",
       "album": {
+        "name": "Sneaker Waves",
+        "url": "https://open.spotify.com/album/3sjI5fIAlCwCkWR0IJdQx2"
+      },
+      "artists": [
+        {
+          "name": "Tristen",
+          "url": "https://open.spotify.com/artist/136eH4t69aKT2UuS36z3Qo"
+        }
+      ],
+      "duration_ms": 245880,
+      "name": "Glass Jar",
+      "url": "https://open.spotify.com/track/33xaD95lsvcImZpV4POK1N"
+    },
+    {
+      "added_at": "2024-07-05 19:49:15",
+      "album": {
         "name": "Pearls to Swine",
         "url": "https://open.spotify.com/album/5vzBUbGigJfjW23Deldzca"
       },
@@ -495,22 +511,6 @@
       "duration_ms": 169160,
       "name": "Real You",
       "url": "https://open.spotify.com/track/3eDpqXBwKK5AE0blKPpitN"
-    },
-    {
-      "added_at": "2024-07-05 19:49:15",
-      "album": {
-        "name": "Sneaker Waves",
-        "url": "https://open.spotify.com/album/3sjI5fIAlCwCkWR0IJdQx2"
-      },
-      "artists": [
-        {
-          "name": "Tristen",
-          "url": "https://open.spotify.com/artist/136eH4t69aKT2UuS36z3Qo"
-        }
-      ],
-      "duration_ms": 245880,
-      "name": "Glass Jar",
-      "url": "https://open.spotify.com/track/33xaD95lsvcImZpV4POK1N"
     },
     {
       "added_at": "2024-07-05 19:49:15",

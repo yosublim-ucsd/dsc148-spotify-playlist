@@ -4,7 +4,7 @@
 
 > The chillest instrumental lofi beats, certified lush.
 
-1,193 songs - 1 day 21 hr 27 min
+1,194 songs - 1 day 21 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -249,6 +249,7 @@
 | [Decentralization](https://open.spotify.com/track/6dcyRNOkKL2Djs2peHh2CY) | [Satoshi Nakamoto](https://open.spotify.com/artist/0sXILwwk9X38em5cacNPUF) | [Bitcoin](https://open.spotify.com/album/49c509rgZOKKYFbbXQoivz) | 2:19 | 2021-11-10 | 2022-10-15 |
 | [decisions](https://open.spotify.com/track/2jzTmH1UR27OpAGnZW6tw7) | [fnonose](https://open.spotify.com/artist/74yvhBPUU5nloVsshHE95q) | [decisions](https://open.spotify.com/album/1sRHXF2U5LOh7V3i68IIbQ) | 2:35 | 2022-09-02 | 2023-10-06 |
 | [Deep Blue](https://open.spotify.com/track/4N7vzUz5kg4emuU8py5PvZ) | [whiteglass](https://open.spotify.com/artist/6FrISpMCXqXSsCsqhTxnL2) | [Deep Blue](https://open.spotify.com/album/1dx8RWnHxRTuTa9LE3vROE) | 2:27 | 2023-03-16 | 2023-11-11 |
+| [Deep Breaths](https://open.spotify.com/track/24tCFs2DAT3Js3kBBalhb0) | [cxlt.](https://open.spotify.com/artist/1TFqjcoVis5TzVQxrHMSfA), [amies](https://open.spotify.com/artist/2zNmlxTlRfyMAAifd2f71Q) | [Deep Breaths](https://open.spotify.com/album/1tDzraOZEOGevw4RcTLrS0) | 3:02 | 2024-10-04 |  |
 | [Dewdrop Lemonade](https://open.spotify.com/track/4SKRNfT7WI73MJho3suqYl) | [Blackburri](https://open.spotify.com/artist/5FcsuAQwO56qMIZTFei6x1) | [Dewdrop Lemonade](https://open.spotify.com/album/1sn5fGZMA3XAEp7rSv9GMY) | 3:26 | 2021-11-10 | 2023-01-20 |
 | [Di Vibes](https://open.spotify.com/track/6IJnra0kE1vmJACs3i6ndb) | [Mixtus](https://open.spotify.com/artist/2iAb3BfKnswIVev8Z9BpR3) | [Di Vibes](https://open.spotify.com/album/1DBVUgN89KxsMi9bJ7qMFT) | 2:21 | 2021-11-10 | 2022-10-29 |
 | [digital world](https://open.spotify.com/track/3sH7hXm0s9RNht0UCqsx6n) | [Soiboi](https://open.spotify.com/artist/7oauQAwO8Y8EDxNJY0xqeQ) | [Paradise Winds](https://open.spotify.com/album/4DgY9ntwAIqoDzfx6sdwIK) | 2:23 | 2022-08-12 | 2023-10-06 |
@@ -405,7 +406,7 @@
 | [garden bed](https://open.spotify.com/track/1l52MnASg7swhbLFtBhVJb) | [orcanite](https://open.spotify.com/artist/3dGc9ZNUwjtjtug9qAomYS) | [garden bed](https://open.spotify.com/album/1a1QguNAJiFe3mDVzipzY3) | 1:55 | 2021-11-10 | 2023-03-02 |
 | [Gardening On Mars](https://open.spotify.com/track/79i8XMKhu0RGMFV9ppZF8n) | [BluntOne](https://open.spotify.com/artist/225l1KEprObX8xgl8xo2Gc), [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [Gardening On Mars](https://open.spotify.com/album/7HSs5riFuaFuhqXm914Gb0) | 1:50 | 2023-09-01 | 2023-10-23 |
 | [Gelato Afternoon](https://open.spotify.com/track/4c4VDNmYelvfPOv19qCGlE) | [Mossdeep](https://open.spotify.com/artist/1IqNg7gE9Y22t5BOuBew1A) | [Gelato Afternoon](https://open.spotify.com/album/7r9Cgz0UCb6gqwGkakCTWX) | 2:51 | 2022-12-09 |  |
-| [Get Me Z](https://open.spotify.com/track/4ZFVMtqtJe1vnPXe3jKEx0) | [Codename Chinadoll](https://open.spotify.com/artist/1M7I2GYBClRIiT9B72xUTg) | [Floshi Mosh](https://open.spotify.com/album/5guGYkjMzLGu1ut2woB33o) | 1:29 | 2023-03-16 | 2024-09-21 |
+| [Get Me Z](https://open.spotify.com/track/4ZFVMtqtJe1vnPXe3jKEx0) | [Codename Chinadoll](https://open.spotify.com/artist/1M7I2GYBClRIiT9B72xUTg) | [Floshi Mosh](https://open.spotify.com/album/5guGYkjMzLGu1ut2woB33o) | 1:29 | 2023-03-16 |  |
 | [Getaway Shack](https://open.spotify.com/track/2g5p0HAHft0wEphhZGFrS1) | [Gittiye](https://open.spotify.com/artist/4g4I92b4rKtESZUpNA0w5f) | [Getaway Shack](https://open.spotify.com/album/7hToZsaSWSKNzKYF8hLsFv) | 2:16 | 2024-05-13 |  |
 | [Ghostboy](https://open.spotify.com/track/3gTqbgP4Kq4i1p27vCpiL8) | [mëow mëow](https://open.spotify.com/artist/02qU2mdtmh74BV5ashkMFn) | [Ghostboy](https://open.spotify.com/album/4XBaiclHrnTRyY3OV02aPi) | 1:46 | 2022-04-15 | 2023-09-16 |
 | [giant steps](https://open.spotify.com/track/4eq37bioXUGxgnjvsbg7xP) | [titicon](https://open.spotify.com/artist/5v5Qkgl02bizOecA6OY7p3) | [supernova beats \#1](https://open.spotify.com/album/0C7D11HuXwMTRj03jIdwhn) | 2:19 | 2021-11-10 | 2022-05-27 |
@@ -490,7 +491,7 @@
 | [Ikea At Dusk](https://open.spotify.com/track/0b7acSt2NsF35xwFXj3ftl) | [Byoushay Brothers](https://open.spotify.com/artist/0GtIuE9H6qSS9GRnjRzasi) | [Ikea At Dusk](https://open.spotify.com/album/6ZB0pO293H9T320qrx0vak) | 2:39 | 2021-11-10 | 2022-04-08 |
 | [in a dream](https://open.spotify.com/track/6qvjAgiP6p4m5mHpDT4E4h) | [sunday museum](https://open.spotify.com/artist/7Dmb3mabrQmXGMFatQHh8N) | [in a dream](https://open.spotify.com/album/5GXKFWGELPZeG0SrC5wDr3) | 2:00 | 2022-11-11 |  |
 | [In Comparison With](https://open.spotify.com/track/2kRqoND9nTZ6ShVTWPQ3Y6) | [State Artefact](https://open.spotify.com/artist/12i5wgLXkiZiGkM3esIk8Q) | [In Comparison With](https://open.spotify.com/album/3vvMXi4IWwUbgQi7S2oxJP) | 3:22 | 2024-07-26 |  |
-| [In Komplete Kontrol](https://open.spotify.com/track/5KvEw38ZCklqFAXlzBAIc5) | [Blue Zombie](https://open.spotify.com/artist/0mDo37vCl8CEDEIhuBMr6x) | [In Komplete Kontrol](https://open.spotify.com/album/2WSUUFCgNI37r6djGyl5If) | 2:29 | 2023-02-17 |  |
+| [In Komplete Kontrol](https://open.spotify.com/track/5KvEw38ZCklqFAXlzBAIc5) | [Blue Zombie](https://open.spotify.com/artist/0mDo37vCl8CEDEIhuBMr6x) | [In Komplete Kontrol](https://open.spotify.com/album/2WSUUFCgNI37r6djGyl5If) | 2:29 | 2023-02-17 | 2024-10-07 |
 | [In Limbo & Loving It](https://open.spotify.com/track/5kIsqbXbUNwaxQH1anoJ64) | [colours in the dark](https://open.spotify.com/artist/4lRRwA3JsWrOD8f47gI2iI), [Linearwave](https://open.spotify.com/artist/2wIeBTEs0AsPb74kYdEcNk) | [In Limbo & Loving It](https://open.spotify.com/album/19JbKTPT8GbfSv35qhY9Jq) | 2:43 | 2021-11-10 | 2022-07-22 |
 | [In My Dreams](https://open.spotify.com/track/2e0rVHWeslstKv2BJI1QOm) | [IMA](https://open.spotify.com/artist/5oWyfOpzOmgNnLHFtXBPBn), [pepperonibeats](https://open.spotify.com/artist/6umzt0RZKFvgGpph8tRqDT), [Pakora](https://open.spotify.com/artist/0Km8q2VEbS7WMPOGFnBDqz) | [In My Dreams](https://open.spotify.com/album/2N6YU7ddlN4bCPufIcgV36) | 2:13 | 2022-11-11 |  |
 | [In Parallell](https://open.spotify.com/track/2CV7GxX3vg5GYqBORRdCpR) | [Interscope](https://open.spotify.com/artist/288kcmSAmoRYgLiRKXTeZt) | [In Parallell](https://open.spotify.com/album/0GLUqN8vKfHSPsYsDwcWM1) | 1:46 | 2021-11-10 | 2022-06-10 |
@@ -844,7 +845,7 @@
 | [quetzal](https://open.spotify.com/track/1agUl7NQusmxiJtbLm9oRS) | [tres islas](https://open.spotify.com/artist/7CRBLbMHIR0QIrBGhj4mc8) | [quetzal](https://open.spotify.com/album/4TzETeuVh0EakHs2gihYhu) | 2:12 | 2024-05-13 | 2024-06-22 |
 | [Rain Relaxation](https://open.spotify.com/track/4UNI7NvY0ti3jJikm4f4ld) | [PIÑA PINK](https://open.spotify.com/artist/7L2I1AuvyRXd2ysLSTeKZX) | [Rain Relaxation](https://open.spotify.com/album/12rvDONgzBXcUOS62Z1GZZ) | 3:00 | 2021-11-10 |  |
 | [rainy day](https://open.spotify.com/track/2WUCGxGlpQdxjSLXyzsSBN) | [LAV8](https://open.spotify.com/artist/0n0N8rkm96ulhvOxNu6zK5) | [rainy day](https://open.spotify.com/album/68Tu5Ec4RPtuoHQ4s1asl1) | 2:17 | 2023-01-06 | 2024-05-14 |
-| [rainy night](https://open.spotify.com/track/1lKjy0ktW6cm4JLivAAD6K) | [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa), [Sarent](https://open.spotify.com/artist/0CdPrYbzWcdfC54xRFo28k) | [Hello Winter '23](https://open.spotify.com/album/50Guwkw2IvGqa6jMLjzjKl) | 1:46 | 2022-12-16 |  |
+| [rainy night](https://open.spotify.com/track/1lKjy0ktW6cm4JLivAAD6K) | [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa), [Sarent](https://open.spotify.com/artist/0CdPrYbzWcdfC54xRFo28k) | [Hello Winter '23](https://open.spotify.com/album/50Guwkw2IvGqa6jMLjzjKl) | 1:46 | 2022-12-16 | 2024-10-07 |
 | [rainy nights](https://open.spotify.com/track/1BTqZfkczOQQflgBmVZfyy) | [qchill](https://open.spotify.com/artist/1tHzEsnYvhIY39B3HbDw0E), [DI3GO](https://open.spotify.com/artist/4EmjMfcqdH9T1EuCZ81znQ) | [rainy nights](https://open.spotify.com/album/7oH29yH2gEif1Yqo0xMM0U) | 2:12 | 2022-11-11 |  |
 | [Random Girl](https://open.spotify.com/track/4Gd2D4u0EJvg6FZfyuCLmv) | [88keys](https://open.spotify.com/artist/7K52AJqMzOyGW6ImM0w9yQ) | [True Story](https://open.spotify.com/album/2TOM5h9ZYdaVsKLIhQ3zsf) | 1:46 | 2022-04-22 |  |
 | [random thoughts](https://open.spotify.com/track/4bGIc2nxevxRU6FQ22L1mC) | [softclouds](https://open.spotify.com/artist/4rjXInANFMCQfAzadFAi4d) | [random thoughts](https://open.spotify.com/album/1Ci3Z0UfK2ehgnpudw86x4) | 2:15 | 2024-06-05 |  |

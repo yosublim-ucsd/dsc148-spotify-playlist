@@ -2,9 +2,9 @@
 
 ### [V\-Pop Không Thể Thiếu](https://open.spotify.com/playlist/37i9dQZF1DX4g8Gs5nUhpp)
 
-> V\-Pop nở hoa trên những ca khúc này\. Ảnh bìa: Lou Hoàng
+> V\-Pop nở hoa trên những ca khúc này\. Ảnh bìa: Da LAB
 
-297 songs - 18 hr 52 min
+299 songs - 19 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Bông Hoa Đẹp Nhất](https://open.spotify.com/track/7oX6qKTnKeVG6iT0qG1i29) | [Quân A.P](https://open.spotify.com/artist/2NRcG7E1j2sSi8vnUzCcpi) | [Bông Hoa Đẹp Nhất](https://open.spotify.com/album/0Vw8JSu2raGD3tKl5qKFwc) | 5:15 | 2022-05-27 | 2022-06-23 |
 | [Bước Qua Nhau](https://open.spotify.com/track/6GJi4nSZOiTOU2FhsgxWyH) | [Vũ.](https://open.spotify.com/artist/57g2v7gJZepcwsuwssIfZs) | [Bước Qua Nhau](https://open.spotify.com/album/1kEjHdHNnYIv7CPF4fK8gU) | 4:17 | 2022-05-27 | 2022-06-29 |
 | [Bạn Đời](https://open.spotify.com/track/0kHgteR4TV4LO80wrasDSR) | [Karik](https://open.spotify.com/artist/2Bwp23pD4UVsSkchHDZw4F), [GDucky](https://open.spotify.com/artist/01mNGTR498XaGe3xs1Otrz) | [Bạn Đời](https://open.spotify.com/album/2D1Enc9iq16z9Ikh6azGc2) | 5:00 | 2023-10-08 | 2024-07-19 |
+| [Bầu Trời Mới](https://open.spotify.com/track/49kZuPsl8pXRJJGHmwRuW7) | [Da LAB](https://open.spotify.com/artist/6zUWZmyi5MLOEynQ5wCI5f), [Minh Tốc & Lam](https://open.spotify.com/artist/27RoKwun6jKycKbH2iYUFU) | [Bầu Trời Mới](https://open.spotify.com/album/5Sde3witydNsarGlkHYAtm) | 4:22 | 2024-10-06 |  |
 | [Bật Tình Yêu Lên](https://open.spotify.com/track/62SFLTN7txImu8pQwBMP6A) | [Tăng Duy Tân](https://open.spotify.com/artist/1n9JKdEdLxrbgJiqz1WZFJ), [Hoà Minzy](https://open.spotify.com/artist/3BWBxpXDxofgji3RKZPIz8) | [Bật Tình Yêu Lên](https://open.spotify.com/album/6jOJUucuzH32n2BdTJ9lOB) | 3:23 | 2023-02-23 | 2023-09-23 |
 | [Bắt Cóc Con Tim](https://open.spotify.com/track/3ho1OQb9SFtCt3MIiRZ8Si) | [Lou Hoang](https://open.spotify.com/artist/75Ki5hBCOpDtKGoFyTvLxP) | [Bắt Cóc Con Tim](https://open.spotify.com/album/538vBy7c27uatest2Eu58q) | 3:17 | 2022-07-05 | 2022-11-26 |
 | [Call Me](https://open.spotify.com/track/08GUMwJRpisuxHGyRzoSuu) | [Wren Evans](https://open.spotify.com/artist/5M3ffmRiOX9Q8Y4jNeR5wu), [itsnk](https://open.spotify.com/artist/0hy8mfXxfD8kQ6MRQkDVrn) | [Call Me](https://open.spotify.com/album/7cyQGqqV7M5XxCJimEjX0j) | 3:34 | 2023-08-17 | 2024-01-08 |
@@ -191,6 +192,7 @@
 | [nếu lúc đó](https://open.spotify.com/track/7wj9sGlHGTMQ28liyi48hz) | [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR), [2pillz](https://open.spotify.com/artist/0XtC2d9ZVigYA7iMy5YkW0) | [nếu lúc đó](https://open.spotify.com/album/0OThHPtV2ovPxWwh8ublMV) | 4:24 | 2023-03-05 |  |
 | [Ooh Just You](https://open.spotify.com/track/0HK8DbhsuwSbDQKziQqbQI) | [Le Thien Hieu](https://open.spotify.com/artist/2U7kaq9BBq7eG2Vyn1D3Ab) | [Ooh Just You](https://open.spotify.com/album/5NfolK8SWLUENeckj3zc9v) | 3:15 | 2022-05-27 | 2022-06-23 |
 | [Ooh Just You](https://open.spotify.com/track/41qCPMY2yhelj8Dubjjft7) | [Lê Thiện Hiếu](https://open.spotify.com/artist/2U7kaq9BBq7eG2Vyn1D3Ab) | [Ooh Just You](https://open.spotify.com/album/26DJDsEwqLJJkC7c22il4p) | 3:15 | 2024-05-26 | 2024-06-17 |
+| [PHÓNG ZÌN ZÌN](https://open.spotify.com/track/3COYA2vgfcUhDyRlVpZy5p) | [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR), [Low G](https://open.spotify.com/artist/6TITnFVRcl0AcZ4syE7Toe) | [FLVR](https://open.spotify.com/album/71L9y03HASgkNoYodycslE) | 3:22 | 2024-10-06 |  |
 | [Phải Chăng Em Đã Yêu?](https://open.spotify.com/track/3wGx3gYPjECKZazGNuPEX2) | [Juky San](https://open.spotify.com/artist/51wGpVg4Z3lv1IjuZAQjXn) | [Phải Chăng Em Đã Yêu?](https://open.spotify.com/album/4LWNcXaa7PRKgdX78WodcT) | 3:10 | 2022-05-27 | 2022-06-29 |
 | [Qua Ngày Mai \- 2018](https://open.spotify.com/track/6aCkeFgaHGiIxRAPGEk9P9) | [Tiên Tiên](https://open.spotify.com/artist/5OvCh1Nin8AGw7OkxYinBe) | [Qua Ngày Mai \(2018\)](https://open.spotify.com/album/3XI0babfSGTn56c1kedLte) | 2:40 | 2023-03-08 | 2023-04-28 |
 | [Querry](https://open.spotify.com/track/6OcOCgmPa1a57xAAF7qKkW) | [QNT](https://open.spotify.com/artist/4LuFOXq87Tg0JSl5U7yxFZ), [Trung Trần](https://open.spotify.com/artist/2v14NO80QYditUms7sbEIZ), [RPT MCK](https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL) | [Querry](https://open.spotify.com/album/2Q4OkyBdAr8dBlhPSMDbBw) | 3:50 | 2022-06-15 | 2022-06-23 |
