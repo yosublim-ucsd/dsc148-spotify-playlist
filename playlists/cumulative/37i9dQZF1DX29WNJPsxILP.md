@@ -4,7 +4,7 @@
 
 > Rap from the hoods of Dilli featuring Karma
 
-169 songs - 8 hr 38 min
+170 songs - 8 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [F.D.P](https://open.spotify.com/track/4tL8zamRgVZFxUE1Z2AGIx) | [Baghdadi Music](https://open.spotify.com/artist/4tYgeYn2sHNyRzWqZMyMr0) | [F.D.P](https://open.spotify.com/album/3DxamspkXBbuWWPwfYEtaB) | 2:54 | 2024-09-30 |  |
 | [F16](https://open.spotify.com/track/2KFuYtZf6KxzDE6PogFxMK) | [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36), [Sikander Kahlon](https://open.spotify.com/artist/08mu3VEvLCIWDq4t0NNoTN) | [HARD DRIVE Vol\. 1](https://open.spotify.com/album/1AHeeHqsxY6YxuMzHESiEv) | 3:29 | 2023-03-10 | 2024-09-18 |
 | [Feel Hai](https://open.spotify.com/track/5HPo4dz4rvFaKBdcE8Ss9l) | [Bali](https://open.spotify.com/artist/65pmgBULHr82D3llNlHtB8), [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1) | [Feel Hai](https://open.spotify.com/album/5r9XIjZkwLqJC2eEc1V4fM) | 2:58 | 2023-03-10 | 2023-10-12 |
+| [FEEL OR REEL](https://open.spotify.com/track/6zR5hJvWpmey1iz2edXqzW) | [Tushar Nagar](https://open.spotify.com/artist/7h6YMcFApPh0ritIF87ygS), [DOMBOI](https://open.spotify.com/artist/3IGnos0JIHmcXYF4yESCZP) | [FEEL OR REEL](https://open.spotify.com/album/6PgwD92VzxD3hqRJwU1tMd) | 2:16 | 2024-10-07 |  |
 | [Flex](https://open.spotify.com/track/1BjFMR7Cb8yaQyOsZBszML) | [Bali](https://open.spotify.com/artist/65pmgBULHr82D3llNlHtB8), [Ikka](https://open.spotify.com/artist/07iEy1AecUPVzfC2J2gCHR) | [Flex](https://open.spotify.com/album/0jpun7yb7Ve0nSJsrTVt1C) | 3:20 | 2023-03-10 | 2023-10-12 |
 | [Fomo](https://open.spotify.com/track/0UtZD1wNeR0VqukhXs0AN4) | [Paradox](https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui), [ZelliX](https://open.spotify.com/artist/5CJ8Xtvv57oEiRKIy6OjJt) | [Overthink](https://open.spotify.com/album/1SyRpT0v6h3OtAX6l4Gtpx) | 4:10 | 2023-03-10 | 2024-06-15 |
 | [Ghana Kasoota \(feat\. Surbhi Jyoti\)](https://open.spotify.com/track/0mvcsYusnTYlAkOZ077lDb) | [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36), [Rashmeet Kaur](https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J), [Surbhi Jyoti](https://open.spotify.com/artist/0ZwLuYX3Fe14PhonPeqd5X) | [Ghana Kasoota \(feat\. Surbhi Jyoti\)](https://open.spotify.com/album/5wNK25BcVubz95drmXiBCZ) | 2:48 | 2023-03-10 | 2024-10-01 |
@@ -94,7 +95,7 @@
 | [Kon Hai Tu](https://open.spotify.com/track/0ko5n1BkAyWHDxXwvzrgWu) | [Frappe Ash](https://open.spotify.com/artist/2dWPVvGGO8qRREfIwdXHZH), [Aman Sagar](https://open.spotify.com/artist/44RHVQwXmrmkfsOnSuURmF) | [Junkie](https://open.spotify.com/album/64ZdfxElAIAgbVCBAAbvjL) | 2:02 | 2024-06-13 | 2024-07-19 |
 | [KPKWK](https://open.spotify.com/track/4TSwePgh0HImQVd6ZARgri) | [Panther](https://open.spotify.com/artist/1HnV8VaGdip3y1SpJPgft0), [Nikhil \- Swapnil](https://open.spotify.com/artist/7nkDVhgJreAJxinOGOWZCJ) | [Kasam Paida Karne Wale Ki](https://open.spotify.com/album/5z0wEYUqQSFOb3hFfq6qDY) | 2:06 | 2023-09-01 | 2024-01-18 |
 | [Kya Haal Hai Bro?](https://open.spotify.com/track/1rgth5QwNoJ1N8NmR6Xw5B) | [Fotty Seven](https://open.spotify.com/artist/7n5rLZ6NonT1BXW1fQmbuA) | [Kya Haal Hai Bro?](https://open.spotify.com/album/4ANdzXnb8riLng8auviFnv) | 2:59 | 2023-03-10 | 2023-10-12 |
-| [Laadla](https://open.spotify.com/track/57LA3fJhESaZtMcxMzR4RT) | [Ikka](https://open.spotify.com/artist/07iEy1AecUPVzfC2J2gCHR), [Sanjoy](https://open.spotify.com/artist/6qjhYs5KNSoSU6fNJqDGIo) | [Laadla](https://open.spotify.com/album/4t1RG86twVCa2cipVdnPmW) | 2:57 | 2023-12-18 |  |
+| [Laadla](https://open.spotify.com/track/57LA3fJhESaZtMcxMzR4RT) | [Ikka](https://open.spotify.com/artist/07iEy1AecUPVzfC2J2gCHR), [Sanjoy](https://open.spotify.com/artist/6qjhYs5KNSoSU6fNJqDGIo) | [Laadla](https://open.spotify.com/album/4t1RG86twVCa2cipVdnPmW) | 2:57 | 2023-12-18 | 2024-10-08 |
 | [Laado](https://open.spotify.com/track/0NuWRfZRWzn1oc9piFhK9n) | [MC SQUARE](https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF), [Hiten](https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh) | [Laado](https://open.spotify.com/album/0vEzErGiuiczFnmuOD35sB) | 2:28 | 2023-09-01 |  |
 | [Lapata](https://open.spotify.com/track/3kSSWkrIMhhqBJem3DOjmr) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR), [pho](https://open.spotify.com/artist/0eAgLEZjRTeUe2UqQhH9YC) | [GLORY](https://open.spotify.com/album/5KF4xCxDD8ip003hoatFT9) | 3:11 | 2024-08-26 |  |
 | [Lena Mera Naam](https://open.spotify.com/track/3O7ZGvPlFyrlZafkVcUDnW) | [Karma](https://open.spotify.com/artist/2RS1R0tueoL8EJXTSBAt2F), [Deep Kalsi](https://open.spotify.com/artist/23S2w22FCwFjDBBn7qdB2I) | [Lena Mera Naam](https://open.spotify.com/album/5QslV1zMHTGKnVrfckuysx) | 2:18 | 2023-03-10 | 2024-10-02 |

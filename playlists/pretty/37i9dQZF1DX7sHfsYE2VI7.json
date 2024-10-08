@@ -1,6 +1,6 @@
 {
   "description": "Chilled out dance classics to set the mood.",
-  "num_followers": 59477,
+  "num_followers": 59520,
   "original_name": "Chill Dance Classics",
   "owner": {
     "name": "Spotify",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2024-08-05 06:16:01",
       "album": {
+        "name": "Destroy Rock & Roll",
+        "url": "https://open.spotify.com/album/4bmRs1mbIqoZXpxAzCRQ7E"
+      },
+      "artists": [
+        {
+          "name": "Mylo",
+          "url": "https://open.spotify.com/artist/5YjEVrNMrIRw2xGbjTN6Ti"
+        }
+      ],
+      "duration_ms": 226080,
+      "name": "In My Arms",
+      "url": "https://open.spotify.com/track/11oHw0rlJ9A5TR8GUoe32Q"
+    },
+    {
+      "added_at": "2024-08-05 06:16:01",
+      "album": {
         "name": "Northern Sulphuric Soul",
         "url": "https://open.spotify.com/album/75yPpdG1AXCXQf2E2jFfj9"
       },
@@ -1151,22 +1167,6 @@
       "duration_ms": 344933,
       "name": "Spellbound (feat. Veba)",
       "url": "https://open.spotify.com/track/1qs0vlA9FdaV5NkPBR4Urg"
-    },
-    {
-      "added_at": "2024-08-05 06:16:01",
-      "album": {
-        "name": "Destroy Rock & Roll",
-        "url": "https://open.spotify.com/album/4bmRs1mbIqoZXpxAzCRQ7E"
-      },
-      "artists": [
-        {
-          "name": "Mylo",
-          "url": "https://open.spotify.com/artist/5YjEVrNMrIRw2xGbjTN6Ti"
-        }
-      ],
-      "duration_ms": 226080,
-      "name": "In My Arms",
-      "url": "https://open.spotify.com/track/11oHw0rlJ9A5TR8GUoe32Q"
     },
     {
       "added_at": "2024-08-05 06:16:01",

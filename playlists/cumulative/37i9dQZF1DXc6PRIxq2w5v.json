@@ -1222,7 +1222,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-08",
       "duration_ms": 206668,
       "name": "BRKD F4IL3D D6VIL",
       "url": "https://open.spotify.com/track/1L4mG07jrTj6r7Rd7MuAlw"
@@ -3103,6 +3103,24 @@
     },
     {
       "album": {
+        "name": "Fala Que \u00c9 Crente",
+        "url": "https://open.spotify.com/album/5FhSuSU7Y9v29hzXvXWkXB"
+      },
+      "artists": [
+        {
+          "name": "Educky",
+          "url": "https://open.spotify.com/artist/6M6Z0nqgNjESVSgs07odZy"
+        }
+      ],
+      "date_added": "2024-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171728,
+      "name": "Fala Que \u00c9 Crente",
+      "url": "https://open.spotify.com/track/3LUTZRerd2vqpxZAeglR0W"
+    },
+    {
+      "album": {
         "name": "Falando a Verdade",
         "url": "https://open.spotify.com/album/6TlGC5bpUznneRJ0SPNgfv"
       },
@@ -3940,7 +3958,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-08",
       "duration_ms": 192250,
       "name": "HARD ROCK",
       "url": "https://open.spotify.com/track/3bS9A48v94gHwNhdejVjLH"
@@ -6850,7 +6868,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-08",
       "duration_ms": 204000,
       "name": "Prioridade",
       "url": "https://open.spotify.com/track/1RmOFNrRwuYH0IhRCm3Xwp"
@@ -7060,6 +7078,28 @@
       "duration_ms": 149303,
       "name": "Quem Mandou?",
       "url": "https://open.spotify.com/track/2J40FjoqZ732umKZMrBZSQ"
+    },
+    {
+      "album": {
+        "name": "Quero Voltar",
+        "url": "https://open.spotify.com/album/4ilO0Yx4mfVSbtuViiaXj4"
+      },
+      "artists": [
+        {
+          "name": "Gui Hazel",
+          "url": "https://open.spotify.com/artist/5aoZ1HQ8sRZeMPnTr1IHJP"
+        },
+        {
+          "name": "Trindade Records",
+          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
+        }
+      ],
+      "date_added": "2024-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174375,
+      "name": "Quero Voltar",
+      "url": "https://open.spotify.com/track/1aXoFwqmHiIaKt4ituOfHb"
     },
     {
       "album": {
@@ -7412,6 +7452,36 @@
       "duration_ms": 126216,
       "name": "Romanos 3: 24",
       "url": "https://open.spotify.com/track/1BktyXmllWajvP7fP2b1Xd"
+    },
+    {
+      "album": {
+        "name": "Salmistas",
+        "url": "https://open.spotify.com/album/2l5zKUOamk0OYMD1YHxSRM"
+      },
+      "artists": [
+        {
+          "name": "ADS Escobar",
+          "url": "https://open.spotify.com/artist/7FNCsLplFNTiKLvnAP3WsP"
+        },
+        {
+          "name": "Maia Flow",
+          "url": "https://open.spotify.com/artist/0JOgA75ZUJUBNg8Gb3hyBD"
+        },
+        {
+          "name": "Trindade Records",
+          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
+        },
+        {
+          "name": "Felipe Vinii",
+          "url": "https://open.spotify.com/artist/0ebx928glrq2QKhGJblaTP"
+        }
+      ],
+      "date_added": "2024-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179142,
+      "name": "Salmistas",
+      "url": "https://open.spotify.com/track/4bjf7cs655AOd4cbh5iJjV"
     },
     {
       "album": {

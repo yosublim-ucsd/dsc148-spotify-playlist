@@ -13755,6 +13755,24 @@
     },
     {
       "album": {
+        "name": "Till We End The Day",
+        "url": "https://open.spotify.com/album/06Qbx50LTTeGnZ5l8IDmYH"
+      },
+      "artists": [
+        {
+          "name": "Do As Infinity",
+          "url": "https://open.spotify.com/artist/0gakJs5JAKmJZ4KnAHMh9i"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265629,
+      "name": "Till We End The Day",
+      "url": "https://open.spotify.com/track/7rTq86NSekRtejZb6XcbYA"
+    },
+    {
+      "album": {
         "name": "Me!!!",
         "url": "https://open.spotify.com/album/0FcYcF9n17R6vDn11uLwD3"
       },
@@ -28434,7 +28452,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-08",
       "duration_ms": 177373,
       "name": "\u71b1\u4e2d\u75c7",
       "url": "https://open.spotify.com/track/0aWbDC7sXAvKyNZSIta0DK"

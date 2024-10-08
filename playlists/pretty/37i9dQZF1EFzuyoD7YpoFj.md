@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2qLfMSD0xkFKDyH4qn8de8">Cole Porter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 333 likes - 407 songs - 21 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 334 likes - 407 songs - 21 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -184,8 +184,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 | 174 | [Voodoo](https://open.spotify.com/track/4eAo5CTR5HyKiOXlwZZ5KC) | [Screamin' Jay Hawkins](https://open.spotify.com/artist/3VBpsrUi2vV7Uj87ONHu7Z) | [Voodoo Man](https://open.spotify.com/album/03iwOF2N5jXlXVchecaphc) | 2:45 |
 | 175 | [When Love Comes Around](https://open.spotify.com/track/1BQBbjtCNK1z7ejXRYASii) | [Jan Lundgren Trio](https://open.spotify.com/artist/3kfAk1i7bmKvhjBoGEAQqy) | [Plays Cole Porter Love Songs](https://open.spotify.com/album/2eGafFrY8qL3HtTmqQ4n9Q) | 5:15 |
 | 176 | [Without your love](https://open.spotify.com/track/5jAw425BUP2RVDNJaZG2NL) | [Billie Holiday Orchestra, Lester Young](https://open.spotify.com/artist/0boUJeiqdjS7GP6On0qZzX) | [BILLIE HOLIDAY, LESTER YOUNG](https://open.spotify.com/album/3sKyhn3eEHRqmvOZ9HAYyR) | 2:52 |
-| 177 | [Where Is The Life That Late I Led?](https://open.spotify.com/track/0lnjAgtSKBb7YqdWAkrm0Y) | [Broadway Cast Recording](https://open.spotify.com/artist/6sOb9xJUZJ8lWcRcZE8bp8) | [Kiss Me Kate \- Music By Cole Porter](https://open.spotify.com/album/7qPCNFVeywaa2WMEK0UaW7) | 4:34 |
-| 178 | [Live and Let Live \(2023 Remastered\)](https://open.spotify.com/track/6rCPBH7r58GrgiKH8Rsn8m) | [Cole Porter](https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS) | [Essential Classics, Vol\. 44: Cole Porter](https://open.spotify.com/album/1EDnnWpTU7c7sKrWxd6z4w) | 1:55 |
+| 177 | [Live and Let Live \(2023 Remastered\)](https://open.spotify.com/track/6rCPBH7r58GrgiKH8Rsn8m) | [Cole Porter](https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS) | [Essential Classics, Vol\. 44: Cole Porter](https://open.spotify.com/album/1EDnnWpTU7c7sKrWxd6z4w) | 1:55 |
+| 178 | [Where Is The Life That Late I Led?](https://open.spotify.com/track/0lnjAgtSKBb7YqdWAkrm0Y) | [Broadway Cast Recording](https://open.spotify.com/artist/6sOb9xJUZJ8lWcRcZE8bp8) | [Kiss Me Kate \- Music By Cole Porter](https://open.spotify.com/album/7qPCNFVeywaa2WMEK0UaW7) | 4:34 |
 | 179 | [Jubilee](https://open.spotify.com/track/72QKvGdTnXwTXnXEMWqa2C) | [Forever Jones](https://open.spotify.com/artist/4s9LVgzhn2WH4gFlN3am1Q) | [Get Ready](https://open.spotify.com/album/6NkYBmhWU3LERnRJg4sgu6) | 4:45 |
 | 180 | [I'm In Love With You](https://open.spotify.com/track/6msksMaIIceyWv8JtfmSq4) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9), [Margaret Whiting](https://open.spotify.com/artist/5ZGDxHhju6eE8ja4IyGe87) | [Dean Martin: The Capitol Recordings, Vol\. 2 \(1950\-1951\)](https://open.spotify.com/album/0eFgWT3g406NloOr5mc9Gv) | 2:58 |
 | 181 | [Which?](https://open.spotify.com/track/315WTwPNY1X0M2gNXeUqHw) | [Jeri Southern](https://open.spotify.com/artist/53zwWZL3vLQ7fVfKrhrzaK) | [Jeri Southern Meets Cole Porter](https://open.spotify.com/album/4cryZN5d1BGiBkhtMPB05O) | 2:41 |
@@ -318,8 +318,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 | 308 | [My Mother](https://open.spotify.com/track/4bs42ocl3euSIXy5mx0XpZ) | [IRM](https://open.spotify.com/artist/43Z4QOUSr8acZTxO49M4bQ) | [Flowers Made Of Snow](https://open.spotify.com/album/5v3J5bVnxRCpdkFhtWqqkD) | 6:28 |
 | 309 | [Farewell Amanda](https://open.spotify.com/track/6sSgKmRe1vA2xdJdkQEyGm) | [Cole Porter](https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS), [Don Rodney](https://open.spotify.com/artist/470wCczhLel3wDQVMo1kd5), [Guy Lombardo Royal Canadians](https://open.spotify.com/artist/1ahgnTfteZr6J7PAVMTQYh), [Guy Lombardo](https://open.spotify.com/artist/5u5O35ppRJaOpOrU1CeKEW) | [Lombardo, Guy: Get Out Those Old Records \(1941\-1950\)](https://open.spotify.com/album/0gWeWlJQPVAARQPCByzKce) | 2:44 |
 | 310 | [Amo Parigi \(I love Paris\)](https://open.spotify.com/track/4J1fAfXhkKmFb7n66dgodJ) | [Carla Boni](https://open.spotify.com/artist/2J7iEpAkPqe41okCsm4Ja5) | [Carla Boni con Angelini](https://open.spotify.com/album/55jSs8KhXVChUs430bgkez) | 2:41 |
-| 311 | [He's A Right Guy Performed By Liz](https://open.spotify.com/track/4nNTmcadp3RpAWJ9ObvBrH) | [Randy Graff](https://open.spotify.com/artist/2iRiwwxcJb6fXCxO5jt1cz) | [High Society](https://open.spotify.com/album/2nh5ATNbVtwED4BUVUo9L9) | 3:14 |
-| 312 | [The Great Indoors](https://open.spotify.com/track/0u1uRVKfve9KSZlzvCh0w1) | [Mylinda Hull](https://open.spotify.com/artist/1hDfv7NCl7pTS3KH0GaTKN), [Cole Porter](https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS) | [Cole Porter's The New Yorkers \(2017 Encores! Cast Recording\)](https://open.spotify.com/album/6yWoHW2MUkfK2BJXViduHi) | 3:11 |
+| 311 | [The Great Indoors](https://open.spotify.com/track/0u1uRVKfve9KSZlzvCh0w1) | [Mylinda Hull](https://open.spotify.com/artist/1hDfv7NCl7pTS3KH0GaTKN), [Cole Porter](https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS) | [Cole Porter's The New Yorkers \(2017 Encores! Cast Recording\)](https://open.spotify.com/album/6yWoHW2MUkfK2BJXViduHi) | 3:11 |
+| 312 | [He's A Right Guy Performed By Liz](https://open.spotify.com/track/4nNTmcadp3RpAWJ9ObvBrH) | [Randy Graff](https://open.spotify.com/artist/2iRiwwxcJb6fXCxO5jt1cz) | [High Society](https://open.spotify.com/album/2nh5ATNbVtwED4BUVUo9L9) | 3:14 |
 | 313 | [Could It Be You](https://open.spotify.com/track/2sGkPCB5S1mTkdaIDbsiOv) | [Victor Silvester and His Ballroom Orchestra](https://open.spotify.com/artist/4VzxHW11oVYqJV0vG0vHrB) | [The Great British Dance Bands Play Cole Porter](https://open.spotify.com/album/3L31sFS22NEH1a9bgTkDYD) | 2:59 |
 | 314 | [I Gaze In Your Eyes](https://open.spotify.com/track/5bQcNY3rPN9SkKJ9pfBLsp) | [Ann Hampton Callaway](https://open.spotify.com/artist/5wHvUotfxzSccrzX9x9g6e) | [Ann Hampton Callaway](https://open.spotify.com/album/4PrVaNuPjsYNKugNXT30dO) | 3:59 |
 | 315 | [We Are Getting Married](https://open.spotify.com/track/2Eva3o61RrvfW71fImfPKx) | [Cole Porter \(composer\), The MGM Studio Orchestra](https://open.spotify.com/artist/10DmwGZhrgdeAaxPIx4y2O) | [Silk Stockings \(1957 Film Original Score\)](https://open.spotify.com/album/0DILJjdh0kZanhSVd0jPvL) | 1:53 |
@@ -416,4 +416,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 | 406 | [Fish](https://open.spotify.com/track/31XMjn25vt3WReCJLzJvas) | [Wilfried Van Den Brande](https://open.spotify.com/artist/0SWts3H6XfovTeyTpePeYE) | [When Love Comes to Call](https://open.spotify.com/album/3UNm9uCpK0Q8bFn5NZ5hRJ) | 3:10 |
 | 407 | [You've Got Something](https://open.spotify.com/track/3mOu0wnhrLDqM2QPIGt3vh) | [Armando Trovajoli e La Sua Orchestra](https://open.spotify.com/artist/5WyhUmiKmVxjyCNgM4GbEw) | [Prigionieri del Cielo](https://open.spotify.com/album/6UIfJA1Rnz3OI5pwp4GUPr) | 3:56 |
 
-Snapshot ID: `AbeFngAAAABQXIJdNy17ZJHf64SQ/Pyr`
+Snapshot ID: `AbeLNAAAAAAv8l2Fe4/qmnw4hETRMVc2`

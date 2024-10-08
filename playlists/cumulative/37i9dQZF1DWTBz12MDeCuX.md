@@ -4,7 +4,7 @@
 
 > Die Playlist, die dich fühlt\. Cover: OSWALD
 
-2,166 songs - 4 day 5 hr 54 min
+2,167 songs - 4 day 5 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -320,6 +320,7 @@
 | [Breakfast](https://open.spotify.com/track/6GUiIbJ834FcHewby3PwV0) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Breakfast](https://open.spotify.com/album/7HWnZ3HvfiVjEIyFWC4Qlf) | 2:28 | 2022-07-04 | 2022-09-02 |
 | [Breaking your heart](https://open.spotify.com/track/3pyvUdSZvgrmZbXcEsL2bs) | [Apache 207](https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6) | [Breaking your heart](https://open.spotify.com/album/55wIIBndlS3o541UqLLdrg) | 2:50 | 2023-03-30 | 2023-04-14 |
 | [Brille auf / Kate Moss](https://open.spotify.com/track/2ocy6RRR5WolJH5kuVtMyV) | [MAJAN](https://open.spotify.com/artist/60pVmLS5zlt31OWk340O3U) | [Brille auf / Kate Moss](https://open.spotify.com/album/560nIKSFhDj9PeI8ZMiTon) | 2:43 | 2022-11-17 | 2023-02-03 |
+| [BROKEN](https://open.spotify.com/track/3n4FkCfKlscDqYPMcTBdXm) | [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T) | [BROKEN](https://open.spotify.com/album/1aHlFkhxyz1Yxmb7sgQh24) | 4:31 | 2024-10-07 |  |
 | [Broken](https://open.spotify.com/track/4W8sUeokQKfHt1uTXp0Jq0) | [Lund](https://open.spotify.com/artist/5uLkZ7FWMTBUg1corQqdkR) | [Broken](https://open.spotify.com/album/2gMpqoJglKD1UJZot6YRZt) | 3:20 | 2022-11-03 | 2022-12-16 |
 | [Broken Hearted](https://open.spotify.com/track/6N76WodZTw48txfk4NPDVg) | [ARIA](https://open.spotify.com/artist/5pRlKxATEYXaSwYkFbkmMm) | [Broken Hearted](https://open.spotify.com/album/07LXXFNFjw2mdrECdgrFcE) | 2:05 | 2022-07-28 | 2022-08-19 |
 | [Broken Trust](https://open.spotify.com/track/5Y4OwloGr9QSxZLZ5DXGte) | [SAY3AM](https://open.spotify.com/artist/3UxUktdCJsomjKqozWDWSu), [Staarz](https://open.spotify.com/artist/0bb1EZkY7SlcGKU9e5T9DL) | [Broken Trust](https://open.spotify.com/album/3Wm96XwUfNEfVCTYmyQmBH) | 2:03 | 2023-10-26 | 2024-01-12 |
@@ -1065,7 +1066,7 @@
 | [Krankenwagen](https://open.spotify.com/track/5WVxhudnDL0ySrIsuSxVJP) | [MAJAN](https://open.spotify.com/artist/60pVmLS5zlt31OWk340O3U) | [Krankenwagen](https://open.spotify.com/album/0SE23i4WTPWGguwDof5NwA) | 2:24 | 2023-02-09 | 2023-03-03 |
 | [Krieg](https://open.spotify.com/track/06ZCyIw2ajljp1YXHmIdW0) | [Yungpalo](https://open.spotify.com/artist/3TOydtHug7dBEddnhGvsJt), [Joje](https://open.spotify.com/artist/2S6bNoFLN4xiDSoEHlPE3s) | [Krieg](https://open.spotify.com/album/2g756wtE6Y13rr3Otiro8l) | 2:27 | 2022-09-15 | 2022-10-07 |
 | [Kuss](https://open.spotify.com/track/6RJeHRUsmOlln9m594hOPE) | [BroyS](https://open.spotify.com/artist/3yDixC6rzq0qg2HmZTobCO), [Pbb Yea](https://open.spotify.com/artist/0LMiaB3r5vBn8zYpfZWeg9), [Factoree Collective](https://open.spotify.com/artist/0W6je5haJymg8Ig3LZH5og) | [Kuss](https://open.spotify.com/album/49rkwP3LcOy5p8eTBC24p8) | 3:25 | 2023-06-29 | 2023-07-21 |
-| [Kuss und Schmerzlos](https://open.spotify.com/track/3BGkBAE1ggsmNh9BtwAxGT) | [LoSin](https://open.spotify.com/artist/2V2TjlO4cIpjrPqCHoKurj) | [Kuss und Schmerzlos](https://open.spotify.com/album/5Ij19wFaSc1qegOBEM83wN) | 2:12 | 2024-08-22 |  |
+| [Kuss und Schmerzlos](https://open.spotify.com/track/3BGkBAE1ggsmNh9BtwAxGT) | [LoSin](https://open.spotify.com/artist/2V2TjlO4cIpjrPqCHoKurj) | [Kuss und Schmerzlos](https://open.spotify.com/album/5Ij19wFaSc1qegOBEM83wN) | 2:12 | 2024-08-22 | 2024-10-08 |
 | [König der Nachbarschaft](https://open.spotify.com/track/5NN5yCExaaQdYLWXWQ9d65) | [ENNIO](https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt) | [Nirvana](https://open.spotify.com/album/6l917ziBG07nTM0CDjAxwb) | 2:31 | 2022-12-15 | 2023-01-17 |
 | [Küss mich](https://open.spotify.com/track/5cKOROElbZXQHLdKKlJ7eJ) | [Ivo Martin](https://open.spotify.com/artist/4bId6MR2fskVKIeCSEmktg) | [Küss mich](https://open.spotify.com/album/0nDMvmUFg8KMRn1EYXH2eR) | 2:43 | 2023-08-24 | 2024-02-09 |
 | [Küssen](https://open.spotify.com/track/2FbTZrdW0KGqH7TOdZRHiP) | [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9), [Gustav](https://open.spotify.com/artist/2WmxTCUVOyGsqn4GA7VxuC), [Zachi](https://open.spotify.com/artist/5RgzUZORebl59TcvCRZsD2) | [Küssen](https://open.spotify.com/album/4B2Ne3gGGMnP9zd3PdyuF1) | 2:19 | 2024-03-21 | 2024-07-27 |

@@ -2,7 +2,7 @@
 
 ### [Folk Punjabi](https://open.spotify.com/playlist/37i9dQZF1DX5lHBoCtADgQ)
 
-> Enjoy the folk from Punjab\. Cover: Gurdas Maan & Salim Sulaiman
+> Enjoy the folk from Punjab\. Cover: Gurdas Maan
 
 92 songs - 5 hr 46 min
 

@@ -2,7 +2,7 @@
 
 ### [This Is Pedro Suárez\-Vértiz](https://open.spotify.com/playlist/37i9dQZF1DZ06evO25rPSy)
 
-> This is Pedro Suárez\-Vértiz\. Tutti i brani in un'unica playlist.
+> This is Pedro Suárez\-Vértiz\. The essential tracks, all in one playlist.
 
 46 songs - 3 hr 7 min
 

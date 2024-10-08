@@ -2,7 +2,7 @@
 
 ### [This Is Casting Crowns](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3GdOmc)
 
-> This is Casting Crowns\. Các bản nhạc bạn nên nghe, tất cả trong một danh sách phát.
+> This is Casting Crowns\. The essential tracks, all in one playlist.
 
 77 songs - 5 hr 26 min
 

@@ -1,6 +1,6 @@
 {
   "description": "\u4e0a\u8cea\u306a\u30a2\u30f3\u30d3\u30a8\u30f3\u30c8\u3068\u30aa\u30eb\u30bf\u30ca\u30c6\u30a3\u30d6\u30df\u30e5\u30fc\u30b8\u30c3\u30af / The artisanal ambient and alternative sounds make you float in the air.",
-  "num_followers": 66982,
+  "num_followers": 66990,
   "original_name": "Sora",
   "owner": {
     "name": "Spotify",
@@ -759,26 +759,6 @@
     {
       "added_at": "2024-10-04 09:30:31",
       "album": {
-        "name": "Mouthfeel / Serene",
-        "url": "https://open.spotify.com/album/6nYVmyI2ZsMoFQJyB9bz1x"
-      },
-      "artists": [
-        {
-          "name": "Sam Gendel",
-          "url": "https://open.spotify.com/artist/3luuQQRuSBuDNnrkYvatnk"
-        },
-        {
-          "name": "Josiah Steinbrick",
-          "url": "https://open.spotify.com/artist/2t1feKJJZgzieczJ0oDmiP"
-        }
-      ],
-      "duration_ms": 108495,
-      "name": "Mouthfeel 1",
-      "url": "https://open.spotify.com/track/2hZ54Y3yFwPXtrqh0D2TOD"
-    },
-    {
-      "added_at": "2024-10-04 09:30:31",
-      "album": {
         "name": "\u98a8\u306e\u8c37\u306e\u30ca\u30a6\u30b7\u30ab (2024 ver.)",
         "url": "https://open.spotify.com/album/5V2JKwezZvZsyfLjmMlKjH"
       },
@@ -795,6 +775,26 @@
       "duration_ms": 325185,
       "name": "\u98a8\u306e\u8c37\u306e\u30ca\u30a6\u30b7\u30ab - 2024 ver.",
       "url": "https://open.spotify.com/track/0Hch2lV9Vk7MfyL0OZLHS2"
+    },
+    {
+      "added_at": "2024-10-04 09:30:31",
+      "album": {
+        "name": "Mouthfeel / Serene",
+        "url": "https://open.spotify.com/album/6nYVmyI2ZsMoFQJyB9bz1x"
+      },
+      "artists": [
+        {
+          "name": "Sam Gendel",
+          "url": "https://open.spotify.com/artist/3luuQQRuSBuDNnrkYvatnk"
+        },
+        {
+          "name": "Josiah Steinbrick",
+          "url": "https://open.spotify.com/artist/2t1feKJJZgzieczJ0oDmiP"
+        }
+      ],
+      "duration_ms": 108495,
+      "name": "Mouthfeel 1",
+      "url": "https://open.spotify.com/track/2hZ54Y3yFwPXtrqh0D2TOD"
     },
     {
       "added_at": "2024-10-04 09:30:31",
@@ -911,6 +911,22 @@
     {
       "added_at": "2024-10-04 09:30:31",
       "album": {
+        "name": "Been Around Here Before",
+        "url": "https://open.spotify.com/album/06WurVHf23VgwllXpEeC1u"
+      },
+      "artists": [
+        {
+          "name": "Black Brunswicker",
+          "url": "https://open.spotify.com/artist/3EobQTdmT0DDyzqaByPmB4"
+        }
+      ],
+      "duration_ms": 211500,
+      "name": "Deep in a Summer Malaise",
+      "url": "https://open.spotify.com/track/55l44sq8bCz2yPVUXRimZS"
+    },
+    {
+      "added_at": "2024-10-04 09:30:31",
+      "album": {
         "name": "\u3072\u3068\u3064\u3076\u306e\u6d77",
         "url": "https://open.spotify.com/album/0k4j3uetJHFATIt4VxwCPz"
       },
@@ -943,22 +959,6 @@
     {
       "added_at": "2024-10-04 09:30:31",
       "album": {
-        "name": "Music from The Comedy, A Film by Rick Alverson",
-        "url": "https://open.spotify.com/album/0VLEQprBg6jlQ1Ct5RabdH"
-      },
-      "artists": [
-        {
-          "name": "William Basinski",
-          "url": "https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB"
-        }
-      ],
-      "duration_ms": 122120,
-      "name": "Disintegration Loops (1.1 Excerpt I)",
-      "url": "https://open.spotify.com/track/6VdEA4ZNDsZDHFh5C0v8O1"
-    },
-    {
-      "added_at": "2024-10-04 09:30:31",
-      "album": {
         "name": "hope",
         "url": "https://open.spotify.com/album/53Fdq3uJ2ueVXsK4UVRhjq"
       },
@@ -975,18 +975,18 @@
     {
       "added_at": "2024-10-04 09:30:31",
       "album": {
-        "name": "Been Around Here Before",
-        "url": "https://open.spotify.com/album/06WurVHf23VgwllXpEeC1u"
+        "name": "Music from The Comedy, A Film by Rick Alverson",
+        "url": "https://open.spotify.com/album/0VLEQprBg6jlQ1Ct5RabdH"
       },
       "artists": [
         {
-          "name": "Black Brunswicker",
-          "url": "https://open.spotify.com/artist/3EobQTdmT0DDyzqaByPmB4"
+          "name": "William Basinski",
+          "url": "https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB"
         }
       ],
-      "duration_ms": 211500,
-      "name": "Deep in a Summer Malaise",
-      "url": "https://open.spotify.com/track/55l44sq8bCz2yPVUXRimZS"
+      "duration_ms": 122120,
+      "name": "Disintegration Loops (1.1 Excerpt I)",
+      "url": "https://open.spotify.com/track/6VdEA4ZNDsZDHFh5C0v8O1"
     },
     {
       "added_at": "2024-10-04 09:30:31",
@@ -1075,6 +1075,22 @@
     {
       "added_at": "2024-10-04 09:30:31",
       "album": {
+        "name": "\u98a8\u306e\u8c37\u306e\u30ca\u30a6\u30b7\u30ab \u30b5\u30a6\u30f3\u30c8\u3099\u30c8\u30e9\u30c3\u30af ~\u306f\u308b\u304b\u306a\u5730\u3078\u30fb\u30fb\u30fb",
+        "url": "https://open.spotify.com/album/6w7zJbSYmmkn0oaAlxPj32"
+      },
+      "artists": [
+        {
+          "name": "Joe Hisaishi",
+          "url": "https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB"
+        }
+      ],
+      "duration_ms": 153666,
+      "name": "\u8150\u6d77\u306b\u3066",
+      "url": "https://open.spotify.com/track/02U2krXPaHmoZDw0ghxm35"
+    },
+    {
+      "added_at": "2024-10-04 09:30:31",
+      "album": {
         "name": "Vasola Punte",
         "url": "https://open.spotify.com/album/1GPUvMxysCvpFlrrt33mKY"
       },
@@ -1099,22 +1115,6 @@
       "duration_ms": 324882,
       "name": "IQAMURAH",
       "url": "https://open.spotify.com/track/0JITO1cwdcgGeUHltqryMK"
-    },
-    {
-      "added_at": "2024-10-04 09:30:31",
-      "album": {
-        "name": "\u98a8\u306e\u8c37\u306e\u30ca\u30a6\u30b7\u30ab \u30b5\u30a6\u30f3\u30c8\u3099\u30c8\u30e9\u30c3\u30af ~\u306f\u308b\u304b\u306a\u5730\u3078\u30fb\u30fb\u30fb",
-        "url": "https://open.spotify.com/album/6w7zJbSYmmkn0oaAlxPj32"
-      },
-      "artists": [
-        {
-          "name": "Joe Hisaishi",
-          "url": "https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB"
-        }
-      ],
-      "duration_ms": 153666,
-      "name": "\u8150\u6d77\u306b\u3066",
-      "url": "https://open.spotify.com/track/02U2krXPaHmoZDw0ghxm35"
     },
     {
       "added_at": "2024-10-04 09:30:31",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2024-10-04 09:30:31",
       "album": {
-        "name": "Simple Math",
-        "url": "https://open.spotify.com/album/7cpMHg9DK1kc2UFvY7Ul9N"
-      },
-      "artists": [
-        {
-          "name": "Alaskan Tapes",
-          "url": "https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "Simple Math",
-      "url": "https://open.spotify.com/track/7n0y94WcLp0QDbRoWO64Oq"
-    },
-    {
-      "added_at": "2024-10-04 09:30:31",
-      "album": {
         "name": "12",
         "url": "https://open.spotify.com/album/7xqvnTJrX61QnwtdOqmn5M"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 183266,
       "name": "\u6642\u306e\u56de\u5eca",
       "url": "https://open.spotify.com/track/3XZtk9qIPLeATir3MdnsQp"
+    },
+    {
+      "added_at": "2024-10-04 09:30:31",
+      "album": {
+        "name": "Simple Math",
+        "url": "https://open.spotify.com/album/7cpMHg9DK1kc2UFvY7Ul9N"
+      },
+      "artists": [
+        {
+          "name": "Alaskan Tapes",
+          "url": "https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "Simple Math",
+      "url": "https://open.spotify.com/track/7n0y94WcLp0QDbRoWO64Oq"
     },
     {
       "added_at": "2024-10-04 09:30:31",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2024-10-04 09:30:31",
       "album": {
-        "name": "unpeople",
-        "url": "https://open.spotify.com/album/1Ot0Gz2lPVgWSKK0ErnCxI"
-      },
-      "artists": [
-        {
-          "name": "Shuta Hasunuma",
-          "url": "https://open.spotify.com/artist/71f0SNekyWqlqbyi8cyp05"
-        }
-      ],
-      "duration_ms": 273560,
-      "name": "Pierrepont",
-      "url": "https://open.spotify.com/track/1Nf9vSy4tVnT3yMsnR5CVP"
-    },
-    {
-      "added_at": "2024-10-04 09:30:31",
-      "album": {
         "name": "\u6708\u306e\u5149 (Ultimate Edition)",
         "url": "https://open.spotify.com/album/3uahEjE95POX11CnbVjBA6"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 355386,
       "name": "\u6708\u306e\u5149",
       "url": "https://open.spotify.com/track/0j9BiFY2dWgtyycKZ2HZCw"
+    },
+    {
+      "added_at": "2024-10-04 09:30:31",
+      "album": {
+        "name": "unpeople",
+        "url": "https://open.spotify.com/album/1Ot0Gz2lPVgWSKK0ErnCxI"
+      },
+      "artists": [
+        {
+          "name": "Shuta Hasunuma",
+          "url": "https://open.spotify.com/artist/71f0SNekyWqlqbyi8cyp05"
+        }
+      ],
+      "duration_ms": 273560,
+      "name": "Pierrepont",
+      "url": "https://open.spotify.com/track/1Nf9vSy4tVnT3yMsnR5CVP"
     },
     {
       "added_at": "2024-10-04 09:30:31",
@@ -1491,6 +1491,26 @@
     {
       "added_at": "2024-10-04 09:30:31",
       "album": {
+        "name": "Dance Steve",
+        "url": "https://open.spotify.com/album/5mAEKep5aIPoIZpvxwGuvA"
+      },
+      "artists": [
+        {
+          "name": "Anna Butterss",
+          "url": "https://open.spotify.com/artist/2AN7XYCHxVLSqJ5RPjI4DA"
+        },
+        {
+          "name": "Jeff Parker",
+          "url": "https://open.spotify.com/artist/3AaY5O1qS0tcNPHwwMwplt"
+        }
+      ],
+      "duration_ms": 285093,
+      "name": "Dance Steve",
+      "url": "https://open.spotify.com/track/2S39C0vf2sciLEMUulkbEZ"
+    },
+    {
+      "added_at": "2024-10-04 09:30:31",
+      "album": {
         "name": "Anoyo",
         "url": "https://open.spotify.com/album/78DUDqx2smwm8ZB8D6zG4T"
       },
@@ -1507,22 +1527,6 @@
     {
       "added_at": "2024-10-04 09:30:31",
       "album": {
-        "name": "Delight",
-        "url": "https://open.spotify.com/album/5mymmR4PpiIjJgwZOuhNXU"
-      },
-      "artists": [
-        {
-          "name": "Arushi Jain",
-          "url": "https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ"
-        }
-      ],
-      "duration_ms": 267183,
-      "name": "Still Dreaming",
-      "url": "https://open.spotify.com/track/5x3F4GtnGOSpM7g1R90joU"
-    },
-    {
-      "added_at": "2024-10-04 09:30:31",
-      "album": {
         "name": "On the Quakefish",
         "url": "https://open.spotify.com/album/5E5IiKi4x2xFeYsU5KPlKj"
       },
@@ -1535,6 +1539,22 @@
       "duration_ms": 235800,
       "name": "Denden",
       "url": "https://open.spotify.com/track/6yQAC0ou6kYcs5LXFi3VlF"
+    },
+    {
+      "added_at": "2024-10-04 09:30:31",
+      "album": {
+        "name": "Delight",
+        "url": "https://open.spotify.com/album/5mymmR4PpiIjJgwZOuhNXU"
+      },
+      "artists": [
+        {
+          "name": "Arushi Jain",
+          "url": "https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ"
+        }
+      ],
+      "duration_ms": 267183,
+      "name": "Still Dreaming",
+      "url": "https://open.spotify.com/track/5x3F4GtnGOSpM7g1R90joU"
     },
     {
       "added_at": "2024-10-04 09:30:31",
@@ -1583,26 +1603,6 @@
       "duration_ms": 337506,
       "name": "DARK SIDE OF THE STAR/\u5730\u7403\u306e\u591c\u306b\u3080\u3051\u3066\u306e\u591c\u60f3\u66f2",
       "url": "https://open.spotify.com/track/4PKo1dYqZ0SwPiZUBit81Z"
-    },
-    {
-      "added_at": "2024-10-04 09:30:31",
-      "album": {
-        "name": "Dance Steve",
-        "url": "https://open.spotify.com/album/5mAEKep5aIPoIZpvxwGuvA"
-      },
-      "artists": [
-        {
-          "name": "Anna Butterss",
-          "url": "https://open.spotify.com/artist/2AN7XYCHxVLSqJ5RPjI4DA"
-        },
-        {
-          "name": "Jeff Parker",
-          "url": "https://open.spotify.com/artist/3AaY5O1qS0tcNPHwwMwplt"
-        }
-      ],
-      "duration_ms": 285093,
-      "name": "Dance Steve",
-      "url": "https://open.spotify.com/track/2S39C0vf2sciLEMUulkbEZ"
     },
     {
       "added_at": "2024-10-04 09:30:31",

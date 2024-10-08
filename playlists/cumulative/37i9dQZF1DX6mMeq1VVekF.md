@@ -4,7 +4,7 @@
 
 > No tags, no labels \- just free form\. Cover: Lex Amor
 
-388 songs - 20 hr 11 min
+389 songs - 20 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [A Penny For Your Thoughts](https://open.spotify.com/track/3quSErRei0EBupQnK6ze5h) | [Dayo Bello](https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2) | [A Penny For Your Thoughts](https://open.spotify.com/album/7b9pX2SFotCMRcfU3PYvPW) | 1:38 | 2024-04-26 | 2024-06-28 |
 | [ADDICTED](https://open.spotify.com/track/1ZivZVDogiQeea1Un4ViVN) | [Isaiah St Jean](https://open.spotify.com/artist/14rchXSv5I3gxgE6qNuMN2) | [ADDICTED](https://open.spotify.com/album/6ban83tBjaNWpG9NnH0d1F) | 3:29 | 2024-10-03 |  |
 | [Addicted](https://open.spotify.com/track/3vMtiUewPWlK5UsIlE8lIy) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Addicted](https://open.spotify.com/album/4oGNxeyb9Qe4LcS98Szhcs) | 3:24 | 2022-06-24 | 2024-10-04 |
+| [After The Party](https://open.spotify.com/track/03H3PDFWVZYDWNzzOVYLp6) | [Jamie Ave](https://open.spotify.com/artist/7ew9ZidsT1WM5NJy568Ma9), [S.A.M](https://open.spotify.com/artist/5SNAAtfydqmF9v11kOSQxb) | [After The Party](https://open.spotify.com/album/2hIq6zPR6MOLzjZ7GpibhU) | 2:38 | 2024-10-03 |  |
 | [Air Forces](https://open.spotify.com/track/69bqljA2mItBcXom1vkjQX) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [Air Forces](https://open.spotify.com/album/3uS8BaiM7cV3lqQ5OIpgaH) | 2:58 | 2022-06-24 | 2022-07-27 |
 | [Air4](https://open.spotify.com/track/27JkxaTk7a8fBcpcB6Pf5y) | [Sainté](https://open.spotify.com/artist/3DEdNjxF3ea9taOMCXouZ6), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [Air4](https://open.spotify.com/album/0ROMrhWRJh9ziRdlirb5Kc) | 2:24 | 2023-08-18 | 2023-11-25 |
 | [Alarm](https://open.spotify.com/track/6eoQu7hIN0aWLG50WmZGxh) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Prettyboy D\-O](https://open.spotify.com/artist/76qtJqxLY1aXEPHxAJui7y), [Suspect OTB](https://open.spotify.com/artist/6UmdRN4VAfN58ZCLYGGBDE) | [Sounds of My World](https://open.spotify.com/album/2Mju5QRHhBPkUQajYKTUSH) | 2:30 | 2022-06-24 | 2022-07-26 |
@@ -110,7 +111,7 @@
 | [don't message.](https://open.spotify.com/track/77xLHOgrkmBf8HD3YuLC0g) | [Kwákz](https://open.spotify.com/artist/2ZNbtfRwBDKN2k8drx3BrX) | [don't message.](https://open.spotify.com/album/50P89HfLxbFt6iVlrgFMbs) | 2:55 | 2023-05-15 | 2023-06-17 |
 | [Dora](https://open.spotify.com/track/4OL39vZOiYvqBiC2UOwoyr) | [Tierra Whack](https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh) | [Dora](https://open.spotify.com/album/1EFVYHuhITenIZQgL4yAFu) | 2:27 | 2022-06-24 | 2022-07-29 |
 | [Drilly Rucksack](https://open.spotify.com/track/4LhjS59xVRicl3x9Pky58Z) | [Ocean Wisdom](https://open.spotify.com/artist/0D9N9NxMbXKjmoRI1JVdz8) | [Drilly Rucksack](https://open.spotify.com/album/0nlruuoypWaVHuN8mCIzqG) | 3:43 | 2022-06-24 | 2022-07-13 |
-| [DUALITY](https://open.spotify.com/track/7rXJDZ3rpUZf61raxSuusc) | [IZO](https://open.spotify.com/artist/4Y8qf5THcFh9n8s9aLWQSd) | [DUALITY](https://open.spotify.com/album/0q1b78P8H2S1F2RgjUGb4h) | 3:43 | 2024-10-03 |  |
+| [DUALITY](https://open.spotify.com/track/7rXJDZ3rpUZf61raxSuusc) | [IZO](https://open.spotify.com/artist/4Y8qf5THcFh9n8s9aLWQSd) | [DUALITY](https://open.spotify.com/album/0q1b78P8H2S1F2RgjUGb4h) | 3:43 | 2024-10-03 | 2024-10-08 |
 | [Ebbs and Flows](https://open.spotify.com/track/7fv831b61zLwfA1d6Vp17f) | [Aaron Taylor](https://open.spotify.com/artist/1evO4fwLsEkkPGq32dCix7) | [Ebbs and Flows](https://open.spotify.com/album/6ymZzUwgOwGaevvamG568v) | 3:19 | 2022-10-23 | 2023-05-16 |
 | [Eden \- From “Black History Always / Music For the Movement Vol\. 2"](https://open.spotify.com/track/61gjdUMePfAOD5p0gnGvfv) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Eden \(From “Black History Always / Music For the Movement Vol\. 2"\)](https://open.spotify.com/album/4yxSZ0Qm7wPKw5cvREXiyA) | 3:19 | 2022-06-24 | 2024-10-04 |
 | [Electric](https://open.spotify.com/track/1g3GvbzoNjOqKNK9Z7srQ5) | [Jeshi](https://open.spotify.com/artist/0q8eApZJs5WDBxayY9769C), [Kelvin Krash](https://open.spotify.com/artist/4rjJpumNzqRUf75vCzSlQb) | [Electric](https://open.spotify.com/album/4mi5IauJU5FowQivOCg4un) | 3:07 | 2022-06-24 | 2022-07-17 |

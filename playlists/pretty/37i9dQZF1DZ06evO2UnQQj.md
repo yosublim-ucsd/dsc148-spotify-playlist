@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2UnQQj.md) - [plain]
 
 > This is Clara Lima\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 190 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 191 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2UnQQj.md) - [plain]
 | 30 | [Sempre Visando o Progresso](https://open.spotify.com/track/4Z4ah8IAeZqzSW8Efz5Yq6) | [Clara Lima](https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG), [WillsBife](https://open.spotify.com/artist/3QlBuIqyonbRMU1yZIh7o3), [DNASTY](https://open.spotify.com/artist/2wRZGo2e20INyHf8wtVPVn) | [Sempre Visando o Progresso](https://open.spotify.com/album/5ru7vWnmKXYF67WjjxIjmi) | 3:14 |
 | 31 | [Chuva de Bala](https://open.spotify.com/track/1NylSwWpTFtlAXSxhlZH0C) | [Clara Lima](https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG), [RealLamak](https://open.spotify.com/artist/1xGwIZJW5hCGGMGJZ468Nb) | [Jersey Culture BR](https://open.spotify.com/album/2kg6KUU2bsF8Zyuy8kr6yG) | 2:09 |
 | 32 | [Andar \(feat\. Clara Lima\)](https://open.spotify.com/track/6s2qzMIO4ZkbDCae8dADAX) | [Fleezus](https://open.spotify.com/artist/5vl7Vj67mORmn0yJccFCfq), [CESRV](https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1), [Clara Lima](https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG) | [Eskibaile](https://open.spotify.com/album/5AA7WwdqI8dQheLWmYpleQ) | 3:31 |
-| 33 | [Amor e Paz](https://open.spotify.com/track/0LHKT3P0wMRL8zD4V7BAEb) | [Clara Lima](https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [Go Dassisti](https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G) | [Só Sei Falar de Amor](https://open.spotify.com/album/3JpZq1oauNz1PELKRSMJ0t) | 2:31 |
-| 34 | [6Ballas](https://open.spotify.com/track/3KyLB6cbfcAtGS5S3ixfSv) | [Dalsin](https://open.spotify.com/artist/6W2jVpE55n1wT0SrpxoeFk), [Clara Lima](https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG) | [6Ballas](https://open.spotify.com/album/0e7Nh9nhOSiydvU1P49co7) | 3:02 |
+| 33 | [6Ballas](https://open.spotify.com/track/3KyLB6cbfcAtGS5S3ixfSv) | [Dalsin](https://open.spotify.com/artist/6W2jVpE55n1wT0SrpxoeFk), [Clara Lima](https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG) | [6Ballas](https://open.spotify.com/album/0e7Nh9nhOSiydvU1P49co7) | 3:02 |
+| 34 | [Amor e Paz](https://open.spotify.com/track/0LHKT3P0wMRL8zD4V7BAEb) | [Clara Lima](https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [Go Dassisti](https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G) | [Só Sei Falar de Amor](https://open.spotify.com/album/3JpZq1oauNz1PELKRSMJ0t) | 2:31 |
 | 35 | [Faturamento](https://open.spotify.com/track/0NbUmXgjKRvQGEL9RPxLSs) | [Clara Lima](https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG), [Leal](https://open.spotify.com/artist/1BnymgkHol5jSOx3KBkBjs), [Rizzi Get Busy](https://open.spotify.com/artist/4VlgWkOGAvRh8Ke38UvqgO) | [Jersey Culture BR](https://open.spotify.com/album/2kg6KUU2bsF8Zyuy8kr6yG) | 2:44 |
 | 36 | [Troféu](https://open.spotify.com/track/3fHg8oNVWCV5InUmgwPjqD) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Febem](https://open.spotify.com/artist/2Ip2jiEjsSe8pmRBzwTv5N), [Doncesão](https://open.spotify.com/artist/7D5NN6IlLcm4Mo2QPqAQFx), [Clara Lima](https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG), [Tasha](https://open.spotify.com/artist/1nBhbXeNBvmQV1ZQ6iGdUd), [Tracie](https://open.spotify.com/artist/7hCbWGwjC1egF3UAJOtfk3), [Gustavo Treze](https://open.spotify.com/artist/21TTiuQIM10WcAm3GJrPo1), [Torres](https://open.spotify.com/artist/454gFLEvbdE3DuF5O0TksU) | [SOMOS](https://open.spotify.com/album/1gwwCCq6sdN2OX8H7dAuKg) | 7:37 |
 | 37 | [Trânsito da Cidade](https://open.spotify.com/track/50mIUQoOsK3JRmvqyHMnkC) | [Clara Lima](https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG), [Teo Guedx](https://open.spotify.com/artist/5kKjWmIo4xMLjoMUcogE7M) | [Som Que Vem Da Alma](https://open.spotify.com/album/0aislI5bnqq7T3tcz9NIgr) | 2:40 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2UnQQj.md) - [plain]
 | 49 | [Camisa 10](https://open.spotify.com/track/48P4WN1T0JhH30kprSosqb) | [Clara Lima](https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG), [DJ Guizin do Trem](https://open.spotify.com/artist/3jB6PVFo2v0NFhe6dk0HTA) | [Jersey Culture BR](https://open.spotify.com/album/2kg6KUU2bsF8Zyuy8kr6yG) | 2:00 |
 | 50 | [Ponto Final](https://open.spotify.com/track/4k4X5E2nFTPb9wLb7zIRIr) | [Matheus Coringa](https://open.spotify.com/artist/3dZNzNVuTLL2UlQCkyEQqF), [Clara Lima](https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG), [FBC](https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS) | [Ponto Final](https://open.spotify.com/album/57d9GN9YOafuNcEn8MeS27) | 5:01 |
 
-Snapshot ID: `ZwCBgAAAAAD3NCl0yPqJzuCVRBig/VDe`
+Snapshot ID: `ZwHTAAAAAACgD0D8kuDDyamLF7pnWk7n`

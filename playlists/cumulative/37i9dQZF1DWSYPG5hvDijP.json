@@ -185,6 +185,28 @@
     },
     {
       "album": {
+        "name": "Mangal Bajaar",
+        "url": "https://open.spotify.com/album/39j4SJ7S2Vpx1ZW1GgIddZ"
+      },
+      "artists": [
+        {
+          "name": "Rebel 7",
+          "url": "https://open.spotify.com/artist/1yCVvGnMTuLeNzbXtgAytL"
+        },
+        {
+          "name": "Albela",
+          "url": "https://open.spotify.com/artist/5LAqES7mtiAF86N0aBLqPO"
+        }
+      ],
+      "date_added": "2024-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145677,
+      "name": "35",
+      "url": "https://open.spotify.com/track/2czrnNo6W91yIIeRbuiPLu"
+    },
+    {
+      "album": {
         "name": "HARD DRIVE Vol. 1",
         "url": "https://open.spotify.com/album/1AHeeHqsxY6YxuMzHESiEv"
       },
@@ -254,7 +276,7 @@
       ],
       "date_added": "2024-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-08",
       "duration_ms": 175169,
       "name": "6 Am",
       "url": "https://open.spotify.com/track/2WbJHbbw9iWWbVPC4qt17t"
@@ -634,7 +656,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-08",
       "duration_ms": 212720,
       "name": "Attach",
       "url": "https://open.spotify.com/track/5dOOepMv3psX67DJAP5D6I"
@@ -1454,7 +1476,7 @@
       ],
       "date_added": "2024-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-08",
       "duration_ms": 178143,
       "name": "Bonita",
       "url": "https://open.spotify.com/track/7r8DFPBOkohRGX6Taq93Kv"
@@ -2606,7 +2628,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-08",
       "duration_ms": 165483,
       "name": "Do Shabd",
       "url": "https://open.spotify.com/track/18peD3JZAcGFIwd07vvU7H"
@@ -2834,7 +2856,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-08",
       "duration_ms": 144000,
       "name": "Energy",
       "url": "https://open.spotify.com/track/15oKcVMKKH2CI61ktObrLX"
@@ -2988,6 +3010,28 @@
       "duration_ms": 165901,
       "name": "Fat Kid",
       "url": "https://open.spotify.com/track/2rYrke10PM98XvXoqJxIj8"
+    },
+    {
+      "album": {
+        "name": "FEEL OR REEL",
+        "url": "https://open.spotify.com/album/6PgwD92VzxD3hqRJwU1tMd"
+      },
+      "artists": [
+        {
+          "name": "Tushar Nagar",
+          "url": "https://open.spotify.com/artist/7h6YMcFApPh0ritIF87ygS"
+        },
+        {
+          "name": "DOMBOI",
+          "url": "https://open.spotify.com/artist/3IGnos0JIHmcXYF4yESCZP"
+        }
+      ],
+      "date_added": "2024-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136128,
+      "name": "FEEL OR REEL",
+      "url": "https://open.spotify.com/track/6zR5hJvWpmey1iz2edXqzW"
     },
     {
       "album": {
@@ -3976,7 +4020,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-08",
       "duration_ms": 158052,
       "name": "Hip Hawp",
       "url": "https://open.spotify.com/track/4vOSb0R7owrxx1tkbtxKGy"
@@ -4216,7 +4260,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-08",
       "duration_ms": 172173,
       "name": "Hustler",
       "url": "https://open.spotify.com/track/6zadsUn6muFOc8NJXiw7Yz"
@@ -4274,6 +4318,28 @@
       "duration_ms": 168292,
       "name": "ICE",
       "url": "https://open.spotify.com/track/6gjarl3YlvQtnvGCZQ4IRK"
+    },
+    {
+      "album": {
+        "name": "Ijazat",
+        "url": "https://open.spotify.com/album/3eaL3wiATaPgsMKrj3Jk6b"
+      },
+      "artists": [
+        {
+          "name": "Abhi Kesla",
+          "url": "https://open.spotify.com/artist/1NVrTipROaOFk58cgq77XM"
+        },
+        {
+          "name": "Byg Smyle",
+          "url": "https://open.spotify.com/artist/4Jw8bandV6BAMsS85XggcH"
+        }
+      ],
+      "date_added": "2024-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162696,
+      "name": "Ijazat",
+      "url": "https://open.spotify.com/track/7FJwzVwMMCkifT8Av9b2YE"
     },
     {
       "album": {
@@ -4896,7 +4962,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-08",
       "duration_ms": 157222,
       "name": "Kale Kaam",
       "url": "https://open.spotify.com/track/17erB64iP3V1DRv3oDXqIt"
@@ -5159,6 +5225,28 @@
     },
     {
       "album": {
+        "name": "Koi Nai.",
+        "url": "https://open.spotify.com/album/0gXYDb4dhDtKq7A5pqCa8j"
+      },
+      "artists": [
+        {
+          "name": "Logarhythm",
+          "url": "https://open.spotify.com/artist/19cG9ceuUfHzlh813yCHK1"
+        },
+        {
+          "name": "Tha Armani",
+          "url": "https://open.spotify.com/artist/4e8UTu87bKXlBKpBilOMR0"
+        }
+      ],
+      "date_added": "2024-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165198,
+      "name": "Koi Nai.",
+      "url": "https://open.spotify.com/track/0f78UzAFN1RrjGnw2KFlqO"
+    },
+    {
+      "album": {
         "name": "Junkie",
         "url": "https://open.spotify.com/album/64ZdfxElAIAgbVCBAAbvjL"
       },
@@ -5415,6 +5503,24 @@
     },
     {
       "album": {
+        "name": "Ummer",
+        "url": "https://open.spotify.com/album/0uiNJpkJU9rbvaHBr24lUq"
+      },
+      "artists": [
+        {
+          "name": "Amar Sandhu",
+          "url": "https://open.spotify.com/artist/52azpeiy7FKa0hoa8CwL6E"
+        }
+      ],
+      "date_added": "2024-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118357,
+      "name": "Legendary Freestyle",
+      "url": "https://open.spotify.com/track/0AVNOaVtmev9Vgu5g7BgYR"
+    },
+    {
+      "album": {
         "name": "Let It Go",
         "url": "https://open.spotify.com/album/3gPJ57t1vPx8Gg2CvK3UFJ"
       },
@@ -5654,6 +5760,28 @@
       "duration_ms": 137931,
       "name": "LOVESICK",
       "url": "https://open.spotify.com/track/5kKacCe5JukBnFGa11NFJ1"
+    },
+    {
+      "album": {
+        "name": "Lyrical Exercise",
+        "url": "https://open.spotify.com/album/0qtVZOgjldJUSWjf8oSFsX"
+      },
+      "artists": [
+        {
+          "name": "Chinna",
+          "url": "https://open.spotify.com/artist/33saytE0qGBD96vkPj4ALw"
+        },
+        {
+          "name": "Manni Sandhu",
+          "url": "https://open.spotify.com/artist/3IzepIGEFUSFFnuIVGwZDS"
+        }
+      ],
+      "date_added": "2024-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100556,
+      "name": "Lyrical Exercise",
+      "url": "https://open.spotify.com/track/6CZ0hoJxvEWR8CtYtNZCrB"
     },
     {
       "album": {
@@ -6335,6 +6463,32 @@
     },
     {
       "album": {
+        "name": "Khoye Panne",
+        "url": "https://open.spotify.com/album/6L0roest1KIvubgnGiGaKv"
+      },
+      "artists": [
+        {
+          "name": "Spitfire",
+          "url": "https://open.spotify.com/artist/54QveaJeGQsf0783I52FzJ"
+        },
+        {
+          "name": "Roy",
+          "url": "https://open.spotify.com/artist/1WKTRedXc3g5SeqAprlchc"
+        },
+        {
+          "name": "Parimal Shais",
+          "url": "https://open.spotify.com/artist/2epRpDIZDqjmxSyysULdTQ"
+        }
+      ],
+      "date_added": "2024-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Mohan Pyaare",
+      "url": "https://open.spotify.com/track/6rYEVk5yp1NJMAqYFjHzHf"
+    },
+    {
+      "album": {
         "name": "Monsoon",
         "url": "https://open.spotify.com/album/7Iidd7Jc1MgwDaqW3rirXm"
       },
@@ -6902,6 +7056,32 @@
       "duration_ms": 218142,
       "name": "No Reason",
       "url": "https://open.spotify.com/track/3ICNl7gysAiDxFtpYAPOZK"
+    },
+    {
+      "album": {
+        "name": "Mangal Bajaar",
+        "url": "https://open.spotify.com/album/39j4SJ7S2Vpx1ZW1GgIddZ"
+      },
+      "artists": [
+        {
+          "name": "Rebel 7",
+          "url": "https://open.spotify.com/artist/1yCVvGnMTuLeNzbXtgAytL"
+        },
+        {
+          "name": "Albela",
+          "url": "https://open.spotify.com/artist/5LAqES7mtiAF86N0aBLqPO"
+        },
+        {
+          "name": "RaySon4 7",
+          "url": "https://open.spotify.com/artist/37IlmiCN5FTN9BNN22rLxN"
+        }
+      ],
+      "date_added": "2024-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92331,
+      "name": "Nonsense (feat. RaySon4 7)",
+      "url": "https://open.spotify.com/track/5k1UsYeuxDEjmXlbT1RVRR"
     },
     {
       "album": {
@@ -8116,7 +8296,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-08",
       "duration_ms": 132721,
       "name": "Sorted",
       "url": "https://open.spotify.com/track/1dxZQvfiUMjbAQuFBvMqgn"
@@ -8420,7 +8600,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-08",
       "duration_ms": 145531,
       "name": "Surma",
       "url": "https://open.spotify.com/track/7mwm44cHIEM0FcDHGgQl4J"
@@ -8472,6 +8652,24 @@
       "duration_ms": 146405,
       "name": "Talk Sick",
       "url": "https://open.spotify.com/track/5b0LdNlKEO11EfK2g23yeS"
+    },
+    {
+      "album": {
+        "name": "Tanha",
+        "url": "https://open.spotify.com/album/35tboEzagJLar0rHpxPfyz"
+      },
+      "artists": [
+        {
+          "name": "Divyansh Kacholia (DVK)",
+          "url": "https://open.spotify.com/artist/4Q5YiZsfq10SLigxOjG5oV"
+        }
+      ],
+      "date_added": "2024-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174084,
+      "name": "Tanha",
+      "url": "https://open.spotify.com/track/7ICp5MEa790kyI3OYN5EAI"
     },
     {
       "album": {
@@ -9004,6 +9202,24 @@
       "duration_ms": 188059,
       "name": "Tu Tera Dekh",
       "url": "https://open.spotify.com/track/5LQWquv8c8OYCE30SlXLAy"
+    },
+    {
+      "album": {
+        "name": "Tujhya Aaichi Gaand",
+        "url": "https://open.spotify.com/album/5pYjKUW10yJfvbd5GwA40F"
+      },
+      "artists": [
+        {
+          "name": "MC STAN",
+          "url": "https://open.spotify.com/artist/5uemEEtB1ZC3s1KM7gReeH"
+        }
+      ],
+      "date_added": "2024-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161560,
+      "name": "Tujhya Aaichi Gaand",
+      "url": "https://open.spotify.com/track/2Q3Ayar9nWdG7Jxh670huf"
     },
     {
       "album": {

@@ -1,13 +1,37 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover :  Murphy\n",
-  "num_followers": 59628,
+  "num_followers": 59648,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zv7KAAAAAACApSEmGkBOB0L3uknaQx0m",
+  "snapshot_id": "ZwN/RgAAAABPneRKR2n3AZg/KrLTv5Dt",
   "tracks": [
+    {
+      "added_at": "2024-10-07 05:55:16",
+      "album": {
+        "name": "Anthem Of Martin (From \"Martin\") (Kannada)",
+        "url": "https://open.spotify.com/album/6BbJuiY1GWFcGKIynQFNH8"
+      },
+      "artists": [
+        {
+          "name": "Mani Sharma",
+          "url": "https://open.spotify.com/artist/3AMxH9QIPZbK8ND8C9j4Ss"
+        },
+        {
+          "name": "Prudhvi Chandra",
+          "url": "https://open.spotify.com/artist/4xUI2yJe8cZHYGhS8rk1oR"
+        },
+        {
+          "name": "AP Arjun",
+          "url": "https://open.spotify.com/artist/2zNw9VlOPrsSNXJxprdsNH"
+        }
+      ],
+      "duration_ms": 239416,
+      "name": "Anthem Of Martin (From \"Martin\") (Kannada)",
+      "url": "https://open.spotify.com/track/4afXxPuT4KFDtDrEIPncyL"
+    },
     {
       "added_at": "2024-09-30 06:43:35",
       "album": {
@@ -35,7 +59,7 @@
     {
       "added_at": "2024-10-03 16:43:23",
       "album": {
-        "name": "Munde Hego Yeno (From \"Araam Aravinda Swamy\")",
+        "name": "Munde Hego Yeno (From \"Aaram Aravinda Swamy\")",
         "url": "https://open.spotify.com/album/2mtf75IpD4AYYOYLXtUE0g"
       },
       "artists": [
@@ -53,7 +77,7 @@
         }
       ],
       "duration_ms": 193896,
-      "name": "Munde Hego Yeno (From \"Araam Aravinda Swamy\")",
+      "name": "Munde Hego Yeno (From \"Aaram Aravinda Swamy\")",
       "url": "https://open.spotify.com/track/2Uh5GD7dKuH4X3bHHOizx9"
     },
     {
@@ -85,6 +109,30 @@
       "url": "https://open.spotify.com/track/7Kott5DI3YR7CTAZhv4iyM"
     },
     {
+      "added_at": "2024-10-07 06:27:18",
+      "album": {
+        "name": "Tang Tang (From \"Royal\")",
+        "url": "https://open.spotify.com/album/6g9yfv34liA6ZXsXo7Ovji"
+      },
+      "artists": [
+        {
+          "name": "Charanraj MR",
+          "url": "https://open.spotify.com/artist/002yVW3Yn595KWy74buQ1k"
+        },
+        {
+          "name": "Anurag Kulkarni",
+          "url": "https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om"
+        },
+        {
+          "name": "Kaviraj",
+          "url": "https://open.spotify.com/artist/4QGaxjeQKdSWgWzzwUa1tM"
+        }
+      ],
+      "duration_ms": 227652,
+      "name": "Tang Tang (From \"Royal\")",
+      "url": "https://open.spotify.com/track/5pH7SAp8R8HD2lPk4jKPZ4"
+    },
+    {
       "added_at": "2024-09-19 12:34:16",
       "album": {
         "name": "Ninagaagi Kaada (From \"Out of Syllabus\")",
@@ -107,6 +155,54 @@
       "duration_ms": 182202,
       "name": "Ninagaagi Kaada (From \"Out of Syllabus\")",
       "url": "https://open.spotify.com/track/2qvTkfeKQoxv2zjkoADvrO"
+    },
+    {
+      "added_at": "2024-10-07 06:24:02",
+      "album": {
+        "name": "Ibbani Tabbida Ileyali (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1i0m5mcR9Ir9wSkkPQAxSf"
+      },
+      "artists": [
+        {
+          "name": "Chandrajith Belliappa",
+          "url": "https://open.spotify.com/artist/3vfIXwJAxZWk8Copg77ByO"
+        },
+        {
+          "name": "Gagan Baderiya",
+          "url": "https://open.spotify.com/artist/0288VNkaL5hm0SBDGEv5uq"
+        },
+        {
+          "name": "Kapil Kapilan",
+          "url": "https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2"
+        }
+      ],
+      "duration_ms": 332000,
+      "name": "Oh Anahita (From \"Ibbani Tabbida Ileyali\")",
+      "url": "https://open.spotify.com/track/7nYu9lAbscGAMY6lCi1vYb"
+    },
+    {
+      "added_at": "2024-10-07 05:58:43",
+      "album": {
+        "name": "Devara Part 1 [KANNADA]",
+        "url": "https://open.spotify.com/album/3WxNj4G27ULpjpP356CVOS"
+      },
+      "artists": [
+        {
+          "name": "Santhosh Venky",
+          "url": "https://open.spotify.com/artist/1gpRRYfNURm0XJCyxUuH8Q"
+        },
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Varadaraj Chikkaballapura",
+          "url": "https://open.spotify.com/artist/26UIfqGxK7O4AV0cDkN5uo"
+        }
+      ],
+      "duration_ms": 195064,
+      "name": "Fear Song [KANNADA]",
+      "url": "https://open.spotify.com/track/1IevgSCMcCymGGnSDcv9LC"
     },
     {
       "added_at": "2024-09-30 06:44:43",
@@ -1253,26 +1349,6 @@
       "url": "https://open.spotify.com/track/4QYKQtDizERf7dAfqWPwe3"
     },
     {
-      "added_at": "2024-07-26 08:56:15",
-      "album": {
-        "name": "Parapancha Gama Gama (From \"Powder\")",
-        "url": "https://open.spotify.com/album/4V90hQiH9HU0zr3dMXRQYa"
-      },
-      "artists": [
-        {
-          "name": "Anthony Daasan",
-          "url": "https://open.spotify.com/artist/1lDx24tVvy8JVKOVjnlJfv"
-        },
-        {
-          "name": "Vasuki Vaibhav",
-          "url": "https://open.spotify.com/artist/5vdQaS4RKtL7t7n6Php6A5"
-        }
-      ],
-      "duration_ms": 150320,
-      "name": "Parapancha Gama Gama (From \"Powder\")",
-      "url": "https://open.spotify.com/track/6QuKhsfpCh54jrPphwdGyV"
-    },
-    {
       "added_at": "2024-08-09 13:43:57",
       "album": {
         "name": "Pepe-Preset (From \"PEPE\")",
@@ -1373,30 +1449,6 @@
       "url": "https://open.spotify.com/track/20TE5yIQQXnxp3qxTh1SwM"
     },
     {
-      "added_at": "2024-07-26 08:57:01",
-      "album": {
-        "name": "Aho Vikramaarka(Title Track)(From \"Aho Vikramaarka\")(Kannada)",
-        "url": "https://open.spotify.com/album/7c5eochu9B4ezgXqL18bKY"
-      },
-      "artists": [
-        {
-          "name": "Santhosh Venky",
-          "url": "https://open.spotify.com/artist/1gpRRYfNURm0XJCyxUuH8Q"
-        },
-        {
-          "name": "Varadaraj Chikkaballapura",
-          "url": "https://open.spotify.com/artist/26UIfqGxK7O4AV0cDkN5uo"
-        },
-        {
-          "name": "Ravi Basrur",
-          "url": "https://open.spotify.com/artist/2q1LRGJHpFxovU8Tz6OgRn"
-        }
-      ],
-      "duration_ms": 155094,
-      "name": "Aho Vikramaarka(Title Track)(From \"Aho Vikramaarka\")(Kannada)",
-      "url": "https://open.spotify.com/track/2ZuFo6MalxRN86fpQM2ire"
-    },
-    {
       "added_at": "2024-07-12 10:14:02",
       "album": {
         "name": "Sadaa Neene (From \"Ibbani Tabbida Ileyali\")",
@@ -1419,30 +1471,6 @@
       "duration_ms": 226975,
       "name": "Sadaa Neene (From \"Ibbani Tabbida Ileyali\")",
       "url": "https://open.spotify.com/track/0LNLgN8Prqzm7OsMO88e3L"
-    },
-    {
-      "added_at": "2024-08-03 09:57:32",
-      "album": {
-        "name": "Samaya (From \"Murphy\")",
-        "url": "https://open.spotify.com/album/5NFeP88srsXM0nfvCybALz"
-      },
-      "artists": [
-        {
-          "name": "Arjun Janya",
-          "url": "https://open.spotify.com/artist/3IX32wm6CoEIYovZ0VcjBJ"
-        },
-        {
-          "name": "Rajat Hegde",
-          "url": "https://open.spotify.com/artist/0KUITfL95SqUmYtOBPjLtW"
-        },
-        {
-          "name": "Dhananjay Ranjan",
-          "url": "https://open.spotify.com/artist/3lCmfZPOZc1x3kmphuR96p"
-        }
-      ],
-      "duration_ms": 198500,
-      "name": "Samaya (From \"Murphy\")",
-      "url": "https://open.spotify.com/track/7gH1rDEvLAxDeXRfZpPliJ"
     },
     {
       "added_at": "2024-08-06 12:20:49",
@@ -1519,54 +1547,6 @@
       "duration_ms": 222084,
       "name": "Swaathimutthe Sikkangaithe (From \"Devara Part 1\")",
       "url": "https://open.spotify.com/track/1owtCfMbOit3YyKayrQJkR"
-    },
-    {
-      "added_at": "2024-07-30 13:09:24",
-      "album": {
-        "name": "Nenapina Butti (From \"Kabandha'')",
-        "url": "https://open.spotify.com/album/7LKooLM8kgyMb7rKSXIjRR"
-      },
-      "artists": [
-        {
-          "name": "Shreyas B Rao",
-          "url": "https://open.spotify.com/artist/52sNToJGR0Sh41ur2jGsp2"
-        },
-        {
-          "name": "Raghothama N S",
-          "url": "https://open.spotify.com/artist/23SVcQ2QiconhMN4ZU1NZu"
-        },
-        {
-          "name": "K Kalyan",
-          "url": "https://open.spotify.com/artist/48lApU5PPixk0Szsxibdw3"
-        },
-        {
-          "name": "Vasuki Vaibhav",
-          "url": "https://open.spotify.com/artist/5vdQaS4RKtL7t7n6Php6A5"
-        }
-      ],
-      "duration_ms": 262361,
-      "name": "Nenapina Butti (From \"Kabandha'')",
-      "url": "https://open.spotify.com/track/0ftOpIMiILvTaRc7eZG2c2"
-    },
-    {
-      "added_at": "2024-07-29 12:45:23",
-      "album": {
-        "name": "Kya Lafda (From \"Double ISMART\")(Kannada)",
-        "url": "https://open.spotify.com/album/6EnM5ib8KvpQdRfrPpJ5lc"
-      },
-      "artists": [
-        {
-          "name": "Chethan Kumar",
-          "url": "https://open.spotify.com/artist/3zMAaXwoMBtxeIzUQjiXcy"
-        },
-        {
-          "name": "Meghana Joshi",
-          "url": "https://open.spotify.com/artist/3XM4lz5T2oLAI5Bu95TGhv"
-        }
-      ],
-      "duration_ms": 271470,
-      "name": "Kya Lafda (From \"Double ISMART\")(Kannada)",
-      "url": "https://open.spotify.com/track/65YhQjihIAsP1lqRPN2JCY"
     },
     {
       "added_at": "2024-07-25 13:45:31",

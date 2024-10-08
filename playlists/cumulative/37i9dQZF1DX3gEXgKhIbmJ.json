@@ -2967,6 +2967,24 @@
     },
     {
       "album": {
+        "name": "MUITA LUTA MIXTAPE",
+        "url": "https://open.spotify.com/album/2mQYx7MIWjcV3DuUvCVeyD"
+      },
+      "artists": [
+        {
+          "name": "Big Bllakk",
+          "url": "https://open.spotify.com/artist/2676LWh4GgqdAaYkRpqTcd"
+        }
+      ],
+      "date_added": "2024-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "Metade",
+      "url": "https://open.spotify.com/track/1iuUeZ8aHteYKTypUpHU8M"
+    },
+    {
+      "album": {
         "name": "Tipo I-Doser",
         "url": "https://open.spotify.com/album/67h12hjNOZvIDtJzDijc15"
       },

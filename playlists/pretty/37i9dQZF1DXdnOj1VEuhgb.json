@@ -1,15 +1,55 @@
 {
   "description": "T\u00fcrkiye'nin en s\u0131k\u0131 \u00e7alma listesi. Kapak: cakal",
-  "num_followers": 1375882,
+  "num_followers": 1375989,
   "original_name": "NKVT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zv+GiwAAAAASCf8iF83LyKwLnUk+I4ej",
+  "snapshot_id": "ZwOd5AAAAAC/jnd1NF47uqQaxE58BpPY",
   "tracks": [
     {
-      "added_at": "2024-10-03 21:02:45",
+      "added_at": "2024-10-07 08:37:56",
+      "album": {
+        "name": "KASA ORIJINAL",
+        "url": "https://open.spotify.com/album/1kIKNCYnhNNVSfE6E7U4fT"
+      },
+      "artists": [
+        {
+          "name": "Lvbel C5",
+          "url": "https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r"
+        },
+        {
+          "name": "Arem Ozguc",
+          "url": "https://open.spotify.com/artist/5JJc8is4VzgOz8ZanDj18J"
+        },
+        {
+          "name": "Arman Aydin",
+          "url": "https://open.spotify.com/artist/4xklx5DAtVru5uf3vSXTgf"
+        }
+      ],
+      "duration_ms": 110459,
+      "name": "KASA ORIJINAL",
+      "url": "https://open.spotify.com/track/6sVqMxZnOMyZrATLR6v5Ft"
+    },
+    {
+      "added_at": "2024-10-07 08:37:56",
+      "album": {
+        "name": "P\u0130\u015eT",
+        "url": "https://open.spotify.com/album/3hnXIAnReIwV44sfj1GdO4"
+      },
+      "artists": [
+        {
+          "name": "Era7capone",
+          "url": "https://open.spotify.com/artist/4UW9Hdsrx9kX2HdJ90jRKM"
+        }
+      ],
+      "duration_ms": 128938,
+      "name": "P\u0130\u015eT",
+      "url": "https://open.spotify.com/track/2ugG3itPOpM9IANApt473B"
+    },
+    {
+      "added_at": "2024-10-07 08:37:56",
       "album": {
         "name": "MONA LISA",
         "url": "https://open.spotify.com/album/5Gm2EfvHhNu1Nkd1WMMfUW"
@@ -29,7 +69,7 @@
       "url": "https://open.spotify.com/track/5iv8MCBz7UVcxRN670N4aX"
     },
     {
-      "added_at": "2024-10-03 21:02:45",
+      "added_at": "2024-10-07 08:37:56",
       "album": {
         "name": "IZOLE LIFE",
         "url": "https://open.spotify.com/album/5JTOxclRe8i4rZaftOnkhT"
@@ -45,7 +85,7 @@
       "url": "https://open.spotify.com/track/4QsiJ5td5T5r201CaO359S"
     },
     {
-      "added_at": "2024-10-03 21:02:45",
+      "added_at": "2024-10-07 08:37:56",
       "album": {
         "name": "HER YER FAVELA",
         "url": "https://open.spotify.com/album/3PWIyRztWQE0AICzbD3Dpb"
@@ -73,31 +113,7 @@
       "url": "https://open.spotify.com/track/5fuPdS5jBncmRu9uu1MLOr"
     },
     {
-      "added_at": "2024-10-03 21:02:45",
-      "album": {
-        "name": "KASA ORIJINAL",
-        "url": "https://open.spotify.com/album/1kIKNCYnhNNVSfE6E7U4fT"
-      },
-      "artists": [
-        {
-          "name": "Lvbel C5",
-          "url": "https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r"
-        },
-        {
-          "name": "Arem Ozguc",
-          "url": "https://open.spotify.com/artist/5JJc8is4VzgOz8ZanDj18J"
-        },
-        {
-          "name": "Arman Aydin",
-          "url": "https://open.spotify.com/artist/4xklx5DAtVru5uf3vSXTgf"
-        }
-      ],
-      "duration_ms": 110459,
-      "name": "KASA ORIJINAL",
-      "url": "https://open.spotify.com/track/6sVqMxZnOMyZrATLR6v5Ft"
-    },
-    {
-      "added_at": "2024-10-03 21:02:45",
+      "added_at": "2024-10-07 08:37:56",
       "album": {
         "name": "OBSESIF",
         "url": "https://open.spotify.com/album/6YCjQU0ElZ6YbC2HaBuLic"
@@ -113,7 +129,7 @@
       "url": "https://open.spotify.com/track/0SwRpscOdj6PBhudNVIGpW"
     },
     {
-      "added_at": "2024-10-03 21:02:45",
+      "added_at": "2024-10-07 08:37:56",
       "album": {
         "name": "Karard\u0131 Bulutlar",
         "url": "https://open.spotify.com/album/5QhPb4USrsjUD3i5PWJjqk"
@@ -129,7 +145,7 @@
       "url": "https://open.spotify.com/track/1fxl1Lf3URpDDQFBOeEMlD"
     },
     {
-      "added_at": "2024-10-03 21:02:45",
+      "added_at": "2024-10-07 08:37:56",
       "album": {
         "name": "\u00dctopik",
         "url": "https://open.spotify.com/album/7f4zLJwHtuvW8YPZfsRYhe"
@@ -161,23 +177,7 @@
       "url": "https://open.spotify.com/track/7g7zbnLW2JNvhBy3Xa1uAo"
     },
     {
-      "added_at": "2024-10-04 06:09:15",
-      "album": {
-        "name": "P\u0130\u015eT",
-        "url": "https://open.spotify.com/album/3hnXIAnReIwV44sfj1GdO4"
-      },
-      "artists": [
-        {
-          "name": "Era7capone",
-          "url": "https://open.spotify.com/artist/4UW9Hdsrx9kX2HdJ90jRKM"
-        }
-      ],
-      "duration_ms": 128938,
-      "name": "P\u0130\u015eT",
-      "url": "https://open.spotify.com/track/2ugG3itPOpM9IANApt473B"
-    },
-    {
-      "added_at": "2024-10-03 21:02:45",
+      "added_at": "2024-10-07 08:37:56",
       "album": {
         "name": "D\u00fc\u015fmez Kalkmaz",
         "url": "https://open.spotify.com/album/5QQa2jAT5hnyjO4bxBYyer"
@@ -193,7 +193,7 @@
       "url": "https://open.spotify.com/track/57w7FOfLpXZ9GWlAooYrSK"
     },
     {
-      "added_at": "2024-10-03 21:02:45",
+      "added_at": "2024-10-07 08:37:56",
       "album": {
         "name": "I WANNA DANCE",
         "url": "https://open.spotify.com/album/3wnbZnVv0zchJ5fGOVn21d"
@@ -213,7 +213,7 @@
       "url": "https://open.spotify.com/track/2norl4Q0EjACN5kIshyP7k"
     },
     {
-      "added_at": "2024-10-03 21:02:45",
+      "added_at": "2024-10-07 08:37:56",
       "album": {
         "name": "ERASMUS",
         "url": "https://open.spotify.com/album/7aXVIANzjYPDUpdgml4uYd"
@@ -233,7 +233,7 @@
       "url": "https://open.spotify.com/track/5FjyVOsKmVR85QwJXp90oi"
     },
     {
-      "added_at": "2024-10-03 21:02:45",
+      "added_at": "2024-10-07 08:37:56",
       "album": {
         "name": "Lab Cypher",
         "url": "https://open.spotify.com/album/4BXzWkyxnC79LjBy2mesnc"
@@ -269,7 +269,7 @@
       "url": "https://open.spotify.com/track/1zY2T7z0ODzjtcDkYzmAIJ"
     },
     {
-      "added_at": "2024-10-03 21:02:45",
+      "added_at": "2024-10-07 08:37:56",
       "album": {
         "name": "G\u00fcvercin",
         "url": "https://open.spotify.com/album/0xzKxahkbCgwYYeqSwk4r9"
@@ -289,7 +289,7 @@
       "url": "https://open.spotify.com/track/7ExpqdHuGuH2esOuX2LPZC"
     },
     {
-      "added_at": "2024-10-03 21:02:45",
+      "added_at": "2024-10-07 08:37:56",
       "album": {
         "name": "K\u0131rm\u0131z\u0131 Re\u00e7ete",
         "url": "https://open.spotify.com/album/4ax2WfwwRwtJqxFISyC7ym"
@@ -309,7 +309,7 @@
       "url": "https://open.spotify.com/track/3CBTM42v5aAd85RND86MlY"
     },
     {
-      "added_at": "2024-10-03 21:02:45",
+      "added_at": "2024-10-07 08:37:56",
       "album": {
         "name": "FaceTime",
         "url": "https://open.spotify.com/album/5qMUWVPjDCt6kr3pTOiYLr"
@@ -325,7 +325,7 @@
       "url": "https://open.spotify.com/track/74DINrGM1LeuauHZYELfDg"
     },
     {
-      "added_at": "2024-10-03 21:02:45",
+      "added_at": "2024-10-07 08:37:56",
       "album": {
         "name": "NAM NAM",
         "url": "https://open.spotify.com/album/4CskKrWmvhLHyAODpngaGe"
@@ -353,7 +353,7 @@
       "url": "https://open.spotify.com/track/4BaDMyA1nxnLn9mBOEvC39"
     },
     {
-      "added_at": "2024-10-03 21:02:45",
+      "added_at": "2024-10-07 08:37:56",
       "album": {
         "name": "Yerli Plaka",
         "url": "https://open.spotify.com/album/2CNgbUAIwEufx0nM0P6wxk"
@@ -373,7 +373,7 @@
       "url": "https://open.spotify.com/track/1kI1NiHbVZVmYJA78k0IAy"
     },
     {
-      "added_at": "2024-10-03 21:02:45",
+      "added_at": "2024-10-07 08:37:56",
       "album": {
         "name": "OBSESIF",
         "url": "https://open.spotify.com/album/6YCjQU0ElZ6YbC2HaBuLic"
@@ -389,7 +389,7 @@
       "url": "https://open.spotify.com/track/3ff93VTp2DBbNnDEsAW8Cm"
     },
     {
-      "added_at": "2024-10-03 21:02:45",
+      "added_at": "2024-10-07 08:37:56",
       "album": {
         "name": "Uyan",
         "url": "https://open.spotify.com/album/5LSMFq0J0UjPXcYMEs6Ph3"
@@ -409,7 +409,7 @@
       "url": "https://open.spotify.com/track/7r9ER5egyBidPbaMJlShd0"
     },
     {
-      "added_at": "2024-10-03 21:02:45",
+      "added_at": "2024-10-07 08:37:56",
       "album": {
         "name": "OF OF OF",
         "url": "https://open.spotify.com/album/0WEq08VBCgEfPh3Hw6dlav"
@@ -429,7 +429,7 @@
       "url": "https://open.spotify.com/track/1RI3YE0BqwN2Fd6Ej0gTqW"
     },
     {
-      "added_at": "2024-10-03 21:02:45",
+      "added_at": "2024-10-07 08:37:56",
       "album": {
         "name": "DOMDOM",
         "url": "https://open.spotify.com/album/7qBK1pzSfq9fEXvQmVdT0X"
@@ -445,7 +445,7 @@
       "url": "https://open.spotify.com/track/2gSRr7OuGdZ960VndIDgGS"
     },
     {
-      "added_at": "2024-10-03 21:02:45",
+      "added_at": "2024-10-07 08:37:56",
       "album": {
         "name": "pVg",
         "url": "https://open.spotify.com/album/1ZkJH6h7PFQe8UPoZsD4M6"
@@ -461,7 +461,7 @@
       "url": "https://open.spotify.com/track/5h4MeMaKxsJaHpUIqikkCe"
     },
     {
-      "added_at": "2024-10-03 21:02:45",
+      "added_at": "2024-10-07 08:37:56",
       "album": {
         "name": "De\u011fi\u015fmene Ra\u011fmen",
         "url": "https://open.spotify.com/album/3hWHNYRxeve7LZzwW4i3dz"
@@ -477,7 +477,7 @@
       "url": "https://open.spotify.com/track/4myGkZkVBRhBgD43CJxKTp"
     },
     {
-      "added_at": "2024-10-03 21:02:45",
+      "added_at": "2024-10-07 08:37:56",
       "album": {
         "name": "D\u00fc\u011f\u00fcn Dernek",
         "url": "https://open.spotify.com/album/6TFX8uJkgHnoZ37GNoFoEg"
@@ -493,7 +493,7 @@
       "url": "https://open.spotify.com/track/6dQJfND64RJy6xJQMsc3ij"
     },
     {
-      "added_at": "2024-10-03 21:02:45",
+      "added_at": "2024-10-07 08:37:56",
       "album": {
         "name": "Yetmedi",
         "url": "https://open.spotify.com/album/3V0ymncsPOu1uK4ufGV2zt"
@@ -513,7 +513,7 @@
       "url": "https://open.spotify.com/track/5TxqI3DLEbMVJkyVgentxd"
     },
     {
-      "added_at": "2024-10-03 21:02:45",
+      "added_at": "2024-10-07 08:37:56",
       "album": {
         "name": "7EDI",
         "url": "https://open.spotify.com/album/5s1IdEyrFWZ3fEjiu9Jyl7"
@@ -533,7 +533,7 @@
       "url": "https://open.spotify.com/track/6G8XtIFpmAm0AUaCOJhTuS"
     },
     {
-      "added_at": "2024-10-03 21:02:45",
+      "added_at": "2024-10-07 08:37:56",
       "album": {
         "name": "ESC*BAR",
         "url": "https://open.spotify.com/album/2tTgc2Nt5VOExrRYybuZuI"
@@ -549,7 +549,7 @@
       "url": "https://open.spotify.com/track/6kWF1fWqA2ZuWn70TQvtmQ"
     },
     {
-      "added_at": "2024-10-03 21:02:45",
+      "added_at": "2024-10-07 08:37:56",
       "album": {
         "name": "CISTAK",
         "url": "https://open.spotify.com/album/1S2nF6GDYCKJd6EVvjzkhb"
@@ -573,7 +573,7 @@
       "url": "https://open.spotify.com/track/7ygoPHce1dHCMUWgtR6MTx"
     },
     {
-      "added_at": "2024-10-03 21:02:45",
+      "added_at": "2024-10-07 08:37:56",
       "album": {
         "name": "TEMPO",
         "url": "https://open.spotify.com/album/1GftyXEspbaRxHj6lA2s1f"
@@ -593,7 +593,7 @@
       "url": "https://open.spotify.com/track/076Dr6X4H6hoAML95QVlhn"
     },
     {
-      "added_at": "2024-10-03 21:02:45",
+      "added_at": "2024-10-07 08:37:56",
       "album": {
         "name": "La La La",
         "url": "https://open.spotify.com/album/3v5bQhGBimvJJrvmhb2mR8"
@@ -609,7 +609,7 @@
       "url": "https://open.spotify.com/track/3blRKhNNedjdZFR0b9Wtxw"
     },
     {
-      "added_at": "2024-10-03 21:02:45",
+      "added_at": "2024-10-07 08:37:56",
       "album": {
         "name": "Kadehimi Bo\u015f B\u0131rakma",
         "url": "https://open.spotify.com/album/2wPU4kY5iynxmyqEC1sKZH"
@@ -625,7 +625,7 @@
       "url": "https://open.spotify.com/track/7zrEhhtVuB0JpOeCgL5Tsr"
     },
     {
-      "added_at": "2024-10-03 21:02:45",
+      "added_at": "2024-10-07 08:37:56",
       "album": {
         "name": "behzat \u00e7",
         "url": "https://open.spotify.com/album/0eW0R6w0rIoP3B0kJE1HDW"
@@ -645,7 +645,7 @@
       "url": "https://open.spotify.com/track/5OSGbpKvvi0iAJg6XHUois"
     },
     {
-      "added_at": "2024-10-03 21:02:45",
+      "added_at": "2024-10-07 08:37:56",
       "album": {
         "name": "Shoote Shoote",
         "url": "https://open.spotify.com/album/77lWxk1dyJG2QmmrjGrqPC"
@@ -661,7 +661,7 @@
       "url": "https://open.spotify.com/track/3miyN5Xj06i5cfy8vNZfDU"
     },
     {
-      "added_at": "2024-10-03 21:02:45",
+      "added_at": "2024-10-07 08:37:56",
       "album": {
         "name": "SAGOLUYORUM (BIG TERORISTA)",
         "url": "https://open.spotify.com/album/45kuj3np55rmLNWTvm4cA9"
@@ -677,7 +677,7 @@
       "url": "https://open.spotify.com/track/4bbndwPQlPaEQQGmXPPkTw"
     },
     {
-      "added_at": "2024-10-03 21:02:45",
+      "added_at": "2024-10-07 08:37:56",
       "album": {
         "name": "Dale Don Dale",
         "url": "https://open.spotify.com/album/4vrNgKR0CTcHMHrb8io0nV"
@@ -693,7 +693,7 @@
       "url": "https://open.spotify.com/track/1f9X5YDmXDxyIwhzB06JJd"
     },
     {
-      "added_at": "2024-10-03 21:02:45",
+      "added_at": "2024-10-07 08:37:56",
       "album": {
         "name": "Habibi",
         "url": "https://open.spotify.com/album/0Sy076cJj3zNhy6nEr1PwZ"
@@ -713,7 +713,7 @@
       "url": "https://open.spotify.com/track/4I29KUtM6IwZyxqAiHZ6RH"
     },
     {
-      "added_at": "2024-10-03 21:02:45",
+      "added_at": "2024-10-07 08:37:56",
       "album": {
         "name": "Kaptan",
         "url": "https://open.spotify.com/album/5d92iD055uQcWBsqWqQMRs"
@@ -729,7 +729,7 @@
       "url": "https://open.spotify.com/track/4SRgqhtJjo210gkdwMoHNw"
     },
     {
-      "added_at": "2024-10-03 21:02:45",
+      "added_at": "2024-10-07 08:37:56",
       "album": {
         "name": "LAF",
         "url": "https://open.spotify.com/album/0FGpFHP4yc7uWScjSHkx8O"
@@ -745,7 +745,7 @@
       "url": "https://open.spotify.com/track/7rHLpc3SZobYPDyBF06uok"
     },
     {
-      "added_at": "2024-10-03 21:02:45",
+      "added_at": "2024-10-07 08:37:56",
       "album": {
         "name": "Kennedy'i Ben Vurdum",
         "url": "https://open.spotify.com/album/0OPWTDbvr7QTG1EIP2iVwq"
@@ -761,7 +761,7 @@
       "url": "https://open.spotify.com/track/3MrnZlzlrR17CCustVoya8"
     },
     {
-      "added_at": "2024-10-03 21:02:45",
+      "added_at": "2024-10-07 08:37:56",
       "album": {
         "name": "YOUNGSTA",
         "url": "https://open.spotify.com/album/65dEDwbxXWzx93f6Vs5A0Q"
@@ -781,7 +781,7 @@
       "url": "https://open.spotify.com/track/5m0FBZ3g71Tv2v5XYZ4pKv"
     },
     {
-      "added_at": "2024-10-03 21:02:45",
+      "added_at": "2024-10-07 08:37:56",
       "album": {
         "name": "Ho\u015f\u00e7akal",
         "url": "https://open.spotify.com/album/5t1FRa388eMdxfnSTSHkps"
@@ -797,7 +797,7 @@
       "url": "https://open.spotify.com/track/1G4xPTSdWG5oRdmmnOC7cS"
     },
     {
-      "added_at": "2024-10-03 21:02:45",
+      "added_at": "2024-10-07 08:37:56",
       "album": {
         "name": "A La Carte",
         "url": "https://open.spotify.com/album/2RzrB6Tlphecdy8K5NV7RD"
@@ -821,7 +821,7 @@
       "url": "https://open.spotify.com/track/4MmvreU6tS8j2o693cUgpp"
     },
     {
-      "added_at": "2024-10-03 21:02:45",
+      "added_at": "2024-10-07 08:37:56",
       "album": {
         "name": "Asosyal",
         "url": "https://open.spotify.com/album/1LM0lpge7aGKOfWJdk3rMK"
@@ -837,7 +837,7 @@
       "url": "https://open.spotify.com/track/1dmIBVNNDdGDmpXLh1nQBi"
     },
     {
-      "added_at": "2024-10-03 21:02:45",
+      "added_at": "2024-10-07 08:37:56",
       "album": {
         "name": "JET BABA",
         "url": "https://open.spotify.com/album/0iZGqSIdqgCrwsStL5jXjm"
@@ -857,7 +857,7 @@
       "url": "https://open.spotify.com/track/7FVpfqKuhl9OYsFUHiZV4T"
     },
     {
-      "added_at": "2024-10-03 21:02:45",
+      "added_at": "2024-10-07 08:37:56",
       "album": {
         "name": "Kalbim Yan\u0131mda",
         "url": "https://open.spotify.com/album/7pGOdUPRuS3sMFo03YBl4o"
@@ -873,7 +873,7 @@
       "url": "https://open.spotify.com/track/5JklTqhlU2hHinghsTvlX5"
     },
     {
-      "added_at": "2024-10-03 21:02:45",
+      "added_at": "2024-10-07 08:37:56",
       "album": {
         "name": "ROMANT\u0130K",
         "url": "https://open.spotify.com/album/5xrtVOLOp6Yh3hmw8SuJVB"
@@ -889,7 +889,7 @@
       "url": "https://open.spotify.com/track/7Ikg74SQrxu5DMpEEbestg"
     },
     {
-      "added_at": "2024-10-03 21:02:45",
+      "added_at": "2024-10-07 08:37:56",
       "album": {
         "name": "Cesaret",
         "url": "https://open.spotify.com/album/00HFD6omZZg5Fj1zH4QRMT"
@@ -909,7 +909,7 @@
       "url": "https://open.spotify.com/track/4LPfP8XzAp7OESNP28AUFB"
     },
     {
-      "added_at": "2024-10-03 21:02:45",
+      "added_at": "2024-10-07 08:37:56",
       "album": {
         "name": "Promilim Y\u00fcksek",
         "url": "https://open.spotify.com/album/6d8TE9RJjtPjYLYgaNkgEC"
@@ -925,7 +925,7 @@
       "url": "https://open.spotify.com/track/7rP7Cf8BMGCQlPBmcxPObM"
     },
     {
-      "added_at": "2024-10-03 21:02:45",
+      "added_at": "2024-10-07 08:37:56",
       "album": {
         "name": "Telefon",
         "url": "https://open.spotify.com/album/6b3fi3Bmx7mJRDIbZBbyFz"
@@ -941,7 +941,7 @@
       "url": "https://open.spotify.com/track/4FmvHUteJvJa0z2HjXrlRM"
     },
     {
-      "added_at": "2024-10-03 21:02:45",
+      "added_at": "2024-10-07 08:37:56",
       "album": {
         "name": "GANG",
         "url": "https://open.spotify.com/album/0yUTCkMIdMG5Tx9QRah2GR"

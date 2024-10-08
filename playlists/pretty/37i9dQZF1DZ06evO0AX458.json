@@ -1,12 +1,12 @@
 {
   "description": "This is Touch\u00e9 Amor\u00e9. The essential tracks, all in one playlist.",
-  "num_followers": 3634,
+  "num_followers": 3635,
   "original_name": "This Is Touch\u00e9 Amor\u00e9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwCBgAAAAAAgiLDe9cjvbJ+lYbbsKpPx",
+  "snapshot_id": "ZwHTAAAAAAAIQ8OZBTm5BuKNl2v7DC9f",
   "tracks": [
     {
       "added_at": null,
@@ -100,9 +100,9 @@
           "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
         }
       ],
-      "duration_ms": 207973,
-      "name": "New Halloween",
-      "url": "https://open.spotify.com/track/02YbvgsXapCh9MLTrU11Ts"
+      "duration_ms": 146520,
+      "name": "Palm Dreams",
+      "url": "https://open.spotify.com/track/3XUnE0OeMrpWHV9OVHNwjo"
     },
     {
       "added_at": null,
@@ -168,9 +168,9 @@
           "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
         }
       ],
-      "duration_ms": 146520,
-      "name": "Palm Dreams",
-      "url": "https://open.spotify.com/track/3XUnE0OeMrpWHV9OVHNwjo"
+      "duration_ms": 207973,
+      "name": "New Halloween",
+      "url": "https://open.spotify.com/track/02YbvgsXapCh9MLTrU11Ts"
     },
     {
       "added_at": null,

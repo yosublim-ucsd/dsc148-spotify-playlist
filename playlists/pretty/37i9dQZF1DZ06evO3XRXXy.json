@@ -1,12 +1,12 @@
 {
-  "description": "This Is Kenny G. Los temas esenciales, todos en una lista.",
-  "num_followers": 138368,
+  "description": "This is Kenny G. The essential tracks, all in one playlist.",
+  "num_followers": 138400,
   "original_name": "This Is Kenny G",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwCBgAAAAAA8iem1VvThRKOMjQlO2Ou+",
+  "snapshot_id": "ZwHTAAAAAAC1FZVc+Ap24XSdLS0Pns1E",
   "tracks": [
     {
       "added_at": null,
@@ -727,18 +727,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Brazilian Nights (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4vYG7FNb19Ug5eiqLFZKwS"
+        "name": "Classics In The Key Of G",
+        "url": "https://open.spotify.com/album/6z3utjo3iGofLUnxWL9zXh"
       },
       "artists": [
         {
           "name": "Kenny G",
           "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
+        },
+        {
+          "name": "Bebel Gilberto",
+          "url": "https://open.spotify.com/artist/6gk4ierjjSVPoZep27VfZz"
         }
       ],
-      "duration_ms": 228600,
-      "name": "Bossa Antigua",
-      "url": "https://open.spotify.com/track/1q4S6jIILSpd6Ws7wP35fk"
+      "duration_ms": 245200,
+      "name": "The Girl from Ipanema (feat. Bebel Gilberto)",
+      "url": "https://open.spotify.com/track/0UEGw7vWxDoF1TykX88qeQ"
     },
     {
       "added_at": null,
@@ -763,22 +767,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Classics In The Key Of G",
-        "url": "https://open.spotify.com/album/6z3utjo3iGofLUnxWL9zXh"
+        "name": "Brazilian Nights (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4vYG7FNb19Ug5eiqLFZKwS"
       },
       "artists": [
         {
           "name": "Kenny G",
           "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
-        },
-        {
-          "name": "Bebel Gilberto",
-          "url": "https://open.spotify.com/artist/6gk4ierjjSVPoZep27VfZz"
         }
       ],
-      "duration_ms": 245200,
-      "name": "The Girl from Ipanema (feat. Bebel Gilberto)",
-      "url": "https://open.spotify.com/track/0UEGw7vWxDoF1TykX88qeQ"
+      "duration_ms": 228600,
+      "name": "Bossa Antigua",
+      "url": "https://open.spotify.com/track/1q4S6jIILSpd6Ws7wP35fk"
     },
     {
       "added_at": null,

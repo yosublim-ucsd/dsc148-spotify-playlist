@@ -2,7 +2,7 @@
 
 ### [This Is Nicki Minaj](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0684jS)
 
-> This Is Nicki Minaj\. Los temas esenciales, todos en una lista.
+> This is Nicki Minaj\. The essential tracks, all in one playlist.
 
 71 songs - 4 hr 13 min
 

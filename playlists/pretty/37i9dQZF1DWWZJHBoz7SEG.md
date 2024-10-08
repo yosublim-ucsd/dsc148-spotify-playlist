@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > ¡Ahora sí, \#TeamFrío season ya empezó! Rolitas calientitas para la fiesta, la cita, la comida y más, con Coldplay en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 868,194 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 868,229 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

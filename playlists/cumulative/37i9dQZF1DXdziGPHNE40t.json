@@ -1004,7 +1004,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-08",
       "duration_ms": 198826,
       "name": "Autumn Promises",
       "url": "https://open.spotify.com/track/5kVaJiItTvUFR9jy5lgNQo"
@@ -1782,7 +1782,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-08",
       "duration_ms": 246750,
       "name": "Clowns & Crowns",
       "url": "https://open.spotify.com/track/1TV8vnzvi3uFwPMigQ5jua"
@@ -1908,7 +1908,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-08",
       "duration_ms": 253350,
       "name": "Cool Breeze",
       "url": "https://open.spotify.com/track/0dzh53o5y3EqVcjicXRcGN"
@@ -1980,7 +1980,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-08",
       "duration_ms": 178522,
       "name": "Crystal City",
       "url": "https://open.spotify.com/track/4QyN9jRW7fg9JDr3qFpz62"
@@ -4428,7 +4428,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-08",
       "duration_ms": 233416,
       "name": "Isfahan",
       "url": "https://open.spotify.com/track/1xUj0IyCqDQuMFIBbEel3s"
@@ -5058,7 +5058,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-08",
       "duration_ms": 237027,
       "name": "Lawncrest",
       "url": "https://open.spotify.com/track/7GtIlcedoCC27tfrQKiMjW"
@@ -6354,7 +6354,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-08",
       "duration_ms": 207834,
       "name": "Mulled Wine",
       "url": "https://open.spotify.com/track/0vmKw0Rn07BRuhBBfOqIPq"
@@ -7136,7 +7136,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-08",
       "duration_ms": 196694,
       "name": "One More Time",
       "url": "https://open.spotify.com/track/1cwApuGBzxyhCPBYSX3xqk"
@@ -7936,7 +7936,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-08",
       "duration_ms": 217973,
       "name": "Seven Sisters",
       "url": "https://open.spotify.com/track/4OWvaKUoGcfoONsIMs1NYc"
@@ -7958,6 +7958,24 @@
       "duration_ms": 216174,
       "name": "Shadows",
       "url": "https://open.spotify.com/track/08WnE2pJN9r7WirMgSFlJf"
+    },
+    {
+      "album": {
+        "name": "Share Your Thoughts",
+        "url": "https://open.spotify.com/album/3Y64njpBy4PbXBgXr9OsK3"
+      },
+      "artists": [
+        {
+          "name": "Neil Dunker",
+          "url": "https://open.spotify.com/artist/0tJbegEI1Xa3pUnlGhwph8"
+        }
+      ],
+      "date_added": "2024-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266669,
+      "name": "Share Your Thoughts",
+      "url": "https://open.spotify.com/track/7FFDuCnA89MRFx8uLlXExl"
     },
     {
       "album": {
@@ -8204,7 +8222,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-08",
       "duration_ms": 275384,
       "name": "Skylark",
       "url": "https://open.spotify.com/track/3UQ4Lp3OuEm0X72ViUX0N3"
@@ -9288,7 +9306,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-08",
       "duration_ms": 219678,
       "name": "The Good, the Bad and the Beautiful",
       "url": "https://open.spotify.com/track/2jyBwy9QA5ogIP1Uz89xZk"

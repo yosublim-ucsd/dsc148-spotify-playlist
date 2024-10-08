@@ -4,7 +4,7 @@
 
 > New and trending tracks from Texas Country icons and rising stars\. Cover: Jenna Paulette
 
-667 songs - 1 day 15 hr 45 min
+668 songs - 1 day 15 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -346,7 +346,7 @@
 | [Lonestar Lonely](https://open.spotify.com/track/0Ot74bX8yoyXSoibhqAlyj) | [Rachel LaRen](https://open.spotify.com/artist/52mZQzoHHS6rWygkzKuZFv) | [Lonestar Lonely](https://open.spotify.com/album/6ccDlVdugIG7zA0AzskxuM) | 3:35 | 2023-09-08 |  |
 | [Long Gone](https://open.spotify.com/track/0KaQom2aaLURgTYMKSYDnC) | [Wynn Williams](https://open.spotify.com/artist/6ZzXw8Du2F5Ak2udqeOTC4) | [Long Gone](https://open.spotify.com/album/6yXet43BmB7VaNsNop2X2F) | 3:14 | 2021-12-17 | 2022-01-08 |
 | [Long Live Cowgirls \(with Cody Johnson\)](https://open.spotify.com/track/16LGRLfaVIC5rT2ZvLk0gd) | [Ian Munsick](https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn), [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Long Live Cowgirls \(with Cody Johnson\)](https://open.spotify.com/album/5zxTZhMN5oGzbGnXtfrfCN) | 3:04 | 2022-07-01 |  |
-| [Long Ride In A Short Bed](https://open.spotify.com/track/5IGZSieXiYdhUGuFWdQ21l) | [Cody Hibbard](https://open.spotify.com/artist/71DKcYMBfZtxrOB7w6pKq5), [Aaron Watson](https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3) | [Long Ride In A Short Bed](https://open.spotify.com/album/1sL3XEro9nzmsMZrLN9aK5) | 3:36 | 2024-08-02 |  |
+| [Long Ride In A Short Bed](https://open.spotify.com/track/5IGZSieXiYdhUGuFWdQ21l) | [Cody Hibbard](https://open.spotify.com/artist/71DKcYMBfZtxrOB7w6pKq5), [Aaron Watson](https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3) | [Long Ride In A Short Bed](https://open.spotify.com/album/1sL3XEro9nzmsMZrLN9aK5) | 3:36 | 2024-08-02 | 2024-10-08 |
 | [Long Shot](https://open.spotify.com/track/3oXRaRLJZNFEsx58NZme9C) | [Colton Venner](https://open.spotify.com/artist/2j8Sh4ZxKM8iqE55xUoR1L) | [Game Ball](https://open.spotify.com/album/46Q9U0uXa08J6ZgZmUcIx9) | 3:39 | 2021-12-17 | 2022-07-23 |
 | [Long Way from Las Cruces](https://open.spotify.com/track/7Hf5fxFlGvkPuc8L1z3tgP) | [Josh Grider](https://open.spotify.com/artist/7a4J8L6Gg4xP6ix19HIx0Z) | [Long Way from Las Cruces](https://open.spotify.com/album/6WsIQD6kVYxMj8eKe8jfO2) | 4:33 | 2021-12-17 | 2022-07-27 |
 | [Longshot](https://open.spotify.com/track/5IsQP1RpheEEdMjDVL0oWh) | [Lane Smith](https://open.spotify.com/artist/2NAFBYpHLQhucaNUoUI3g2) | [Longshot](https://open.spotify.com/album/0pJfjqoI5XpEp34ABAJb09) | 3:44 | 2021-12-17 | 2022-07-26 |
@@ -546,6 +546,7 @@
 | [That's How You Know](https://open.spotify.com/track/2a8QMkvjHVN05rjChPwaD9) | [McBride & The Ride](https://open.spotify.com/artist/5frbtLmwyULdCkg8VqcEvV) | [That's How You Know](https://open.spotify.com/album/79tkDy0wcYPE0oaU6FIdl8) | 2:59 | 2023-06-30 | 2023-07-29 |
 | [That's Texas](https://open.spotify.com/track/1sjHM1Gw4lAxmoCSK9M3l8) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [That's Texas](https://open.spotify.com/album/4Mk6vJ6RJF1qy0F3Rcnyj8) | 2:43 | 2023-10-13 |  |
 | [That's What Makes The World Go Around](https://open.spotify.com/track/2pDe6RYFsS998K9u4OQKcy) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [That's What Makes the World Go Around](https://open.spotify.com/album/0WJUACzppmRQemrlwap45e) | 3:17 | 2024-01-05 |  |
+| [That's What You Get](https://open.spotify.com/track/4pa00oKsxQsUWSOD48QiRU) | [Austin Michael](https://open.spotify.com/artist/1zC9zNeGmSoC49nN646SDp) | [That's What You Get](https://open.spotify.com/album/5RrS8vIjRW2ppMf7TvbpZT) | 2:39 | 2024-10-04 |  |
 | [The Bar Guy](https://open.spotify.com/track/1N7c1NQGE4LMMJMpUE9MSP) | [Alyssa Micaela](https://open.spotify.com/artist/7k7mCkZfVpQUXTgSowcpej) | [The Bar Guy](https://open.spotify.com/album/4zVUFBJoGcli595MQJ7eEc) | 3:34 | 2023-03-24 | 2023-05-14 |
 | [The Bar Guy](https://open.spotify.com/track/73PETz82LOgrKAlxtpCPu7) | [Alyssa Micaela](https://open.spotify.com/artist/7k7mCkZfVpQUXTgSowcpej) | [The Hard Way](https://open.spotify.com/album/4fo3Nvdjbwjz4Qc9dfMemp) | 3:34 | 2023-05-12 | 2023-07-01 |
 | [The Biggest Life Worth Living Is the Small](https://open.spotify.com/track/45MoxFBIjAlirx31fIHn5m) | [Summer Dean](https://open.spotify.com/artist/33tSPgqoMQLTTJBn7LLLul) | [The Biggest Life Worth Living Is the Small](https://open.spotify.com/album/79bCpLfoIWQe5PMsQSEpVf) | 3:23 | 2023-03-10 | 2023-06-17 |

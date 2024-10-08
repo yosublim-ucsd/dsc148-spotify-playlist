@@ -4,7 +4,7 @@
 
 > chill beats for cool coffeehouse vibes.
 
-1,474 songs - 2 day 7 hr 30 min
+1,476 songs - 2 day 7 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -217,7 +217,7 @@
 | [City Lights Spell Your Name](https://open.spotify.com/track/7dsWVHW3noaS5KtlMmBwqQ) | [Miso Colt](https://open.spotify.com/artist/0bsWKSbs38UWgIjPBaz5x4) | [City Lights Spell Your Name](https://open.spotify.com/album/6FTZzaYfhOJV0sjLFBlv0R) | 3:30 | 2022-01-27 | 2022-12-24 |
 | [Citylights](https://open.spotify.com/track/6CaJvKDrQFe5Z8WcD7frSX) | [Undrgrwth](https://open.spotify.com/artist/1oWMZvG3qcCRf4TS8Mae9t), [Tea box records](https://open.spotify.com/artist/0WFElMoec6Fv9lifejuv0r) | [Migration](https://open.spotify.com/album/2szbU0YnhA1DZcCwg90IMM) | 1:40 | 2022-11-11 | 2023-09-29 |
 | [Clarity](https://open.spotify.com/track/2vL8pK1by1bWBzsqEv5Tw6) | [Roshi Ryu](https://open.spotify.com/artist/6iq3PVBOY7wJGcpvAC0rxW) | [Clarity](https://open.spotify.com/album/5RoKVcnsYZKjHMnK9TzsEL) | 2:19 | 2022-07-12 | 2022-12-10 |
-| [clavia](https://open.spotify.com/track/1btRTBBwpv0ISGB0LScgz2) | [modecontrol](https://open.spotify.com/artist/5ONC1q1sMKkNGf8k0OoF7h) | [clavia](https://open.spotify.com/album/3RkuJvoRdaCnk3IB89mgri) | 1:36 | 2022-09-02 | 2024-10-04 |
+| [clavia](https://open.spotify.com/track/1btRTBBwpv0ISGB0LScgz2) | [modecontrol](https://open.spotify.com/artist/5ONC1q1sMKkNGf8k0OoF7h) | [clavia](https://open.spotify.com/album/3RkuJvoRdaCnk3IB89mgri) | 1:36 | 2022-09-02 |  |
 | [clever ground](https://open.spotify.com/track/4s6r8g1LcwUOco4eNsQMWQ) | [bonecatcher](https://open.spotify.com/artist/4w8UEShgdyDVYlKAAFfNNW) | [clever ground](https://open.spotify.com/album/7cP1C9c0nqyySrFWtFURYW) | 1:49 | 2022-01-27 | 2022-09-03 |
 | [Cliffjumper](https://open.spotify.com/track/2kzoCKXaGINkfef5QJuruX) | [Von Von Bon](https://open.spotify.com/artist/46ex27gVTAa49Ikzk0M6jU) | [Cliffjumper](https://open.spotify.com/album/1mGefacxktE8XRcFgF9b79) | 2:42 | 2022-01-27 | 2022-07-08 |
 | [Clogs And Pods](https://open.spotify.com/track/5tx1rwnQZEm5E2Bf01jGA8) | [G:sson](https://open.spotify.com/artist/6CrxpBxPlsZeW6Ss9mgoU8) | [Clogs And Pods](https://open.spotify.com/album/2dfboLmJrWW1aRVQYwdlHn) | 2:28 | 2022-01-27 | 2022-10-15 |
@@ -231,7 +231,7 @@
 | [Cloudberry](https://open.spotify.com/track/5iO5l1F87NeRMnLMjQen9o) | [FloFilz](https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds) | [Cloudberry](https://open.spotify.com/album/0YIYJ0sdykGbTDb0R6uf4v) | 2:26 | 2022-05-13 | 2022-11-20 |
 | [Cloudberry \- Bonus Track](https://open.spotify.com/track/33P8UTNtJh5n0lX6nlMjj0) | [FloFilz](https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds) | [Close Distance \(Deluxe\)](https://open.spotify.com/album/4aSu2qefcm9v4hcALQy4It) | 2:26 | 2022-11-11 | 2022-11-26 |
 | [Clouds](https://open.spotify.com/track/6Lopj4mt4Zj0hPpMItJvxr) | [Jost Esser](https://open.spotify.com/artist/6g67HuwuliYaN3y0I3C3o8) | [Clouds](https://open.spotify.com/album/74BWuvFhtNKyHevyTbV3OB) | 1:45 | 2022-09-30 | 2023-09-22 |
-| [Clouds](https://open.spotify.com/track/6nSaVcMVPGqrgZo8dXaw6a) | [Momentology](https://open.spotify.com/artist/3Hg0Oo6hrlDBYcWqQtTTNr) | [Clouds](https://open.spotify.com/album/1gh9vTmBy2g7cqLNi49c6m) | 2:17 | 2024-09-27 |  |
+| [Clouds](https://open.spotify.com/track/6nSaVcMVPGqrgZo8dXaw6a) | [Momentology](https://open.spotify.com/artist/3Hg0Oo6hrlDBYcWqQtTTNr) | [Clouds](https://open.spotify.com/album/1gh9vTmBy2g7cqLNi49c6m) | 2:17 | 2024-09-27 | 2024-10-08 |
 | [Cloudscapes](https://open.spotify.com/track/7q2l5DqNGfdDwZZBKqviM9) | [Mr\. Käfer](https://open.spotify.com/artist/79U1adgS3jIlP28wwMHqGJ), [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt), [Sátyr](https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf) | [Now / Again](https://open.spotify.com/album/2B35M85zMrnWhnsV8mW7i0) | 2:12 | 2022-01-27 | 2022-09-17 |
 | [Cloudy Daze](https://open.spotify.com/track/2fNcvNQROEwslviciOWQ6G) | [Blackburri](https://open.spotify.com/artist/5FcsuAQwO56qMIZTFei6x1) | [Cloudy Daze](https://open.spotify.com/album/0MfuxNdYR6sVbgdoB4Bz4m) | 3:35 | 2022-01-27 | 2022-09-17 |
 | [Cloudy Paris \- Outro](https://open.spotify.com/track/4Grjo6qa6xvsO5xAHv6EJ1) | [Maxgonz](https://open.spotify.com/artist/5tqEVMpVVTtvK0AryNVoZY) | [Cloudy Paris \(Outro\)](https://open.spotify.com/album/32qWBkNzvYTaMWI7iAD9j1) | 1:07 | 2022-08-05 | 2022-12-17 |
@@ -758,6 +758,7 @@
 | [Magic Hour](https://open.spotify.com/track/0NNVD0Py1o7aMJLyX12swP) | [ondol](https://open.spotify.com/artist/2gCP5uIoV0Ux8sqUB9qyi3), [BROCKBEATS](https://open.spotify.com/artist/0DrshpbzI0ItncVhYZ2BtW) | [Magic Hour](https://open.spotify.com/album/18yKaIaZ3kXr6RrznMeERb) | 2:38 | 2023-08-03 | 2023-10-13 |
 | [Magic Mind](https://open.spotify.com/track/3nqicEuiIvZvqtHeQtue74) | [Duane Drew](https://open.spotify.com/artist/5yFE7Dwg7yEJtQNGBuAx0J) | [Magic Mind](https://open.spotify.com/album/2sqn4T8rIqQkc0WHBabWIC) | 2:35 | 2022-03-18 | 2023-06-06 |
 | [Magical Dreams](https://open.spotify.com/track/1IJ6kStfmEO702IvVLNQcN) | [SanelliX](https://open.spotify.com/artist/0sk0gTYhiFal4UfEKbpnGu), [Raouf Beats](https://open.spotify.com/artist/5KVCvRxkmEVquvmkLe0fII) | [Magical Dreams](https://open.spotify.com/album/6NxXFjCTLS3PbzGucGOAM5) | 1:39 | 2022-09-09 | 2023-04-28 |
+| [magnolia](https://open.spotify.com/track/4Uarh7qmq8Irt4xbECXF1Q) | [giannis wang](https://open.spotify.com/artist/7gCQx2yCLDrGPTMa7fAY8y) | [magnolia](https://open.spotify.com/album/1ExdDj1kdicsO5xDFizeSB) | 2:18 | 2024-10-04 |  |
 | [Make a Wish](https://open.spotify.com/track/05SkefJZoT2gKvIuzdvCEn) | [Tune in with Chewie](https://open.spotify.com/artist/4M4gexhCyv12RmbowD8xjS) | [Make a Wish](https://open.spotify.com/album/1d7zcjhUURKwUtPlHBIwqy) | 2:48 | 2024-03-22 | 2024-04-11 |
 | [Make It](https://open.spotify.com/track/2teI76KKFE6qkpLZJs7tZ7) | [Berhanio](https://open.spotify.com/artist/3ZkP4NjIpKfyaTf2hTAmkW) | [Make It](https://open.spotify.com/album/4X9vWjNWlZ3qAtyDZ2ZhDj) | 1:58 | 2024-09-13 |  |
 | [Makeshift](https://open.spotify.com/track/5QLqKnaiL8qaAxiudjShMg) | [Cem Mo](https://open.spotify.com/artist/3iYvl2sPTgAgS9bX6OSwQS), [Mauricesax](https://open.spotify.com/artist/4YvnZ5cfeBuJeIHB0U3hJf) | [Makeshift](https://open.spotify.com/album/6C9EiBaQNCe3hdiMs6nVS6) | 2:30 | 2022-10-28 | 2023-09-29 |
@@ -768,6 +769,7 @@
 | [Marble Madness](https://open.spotify.com/track/1HeO6mQfjy7V7LSnNa1029) | [Ludo Cana](https://open.spotify.com/artist/3EngXbGniIxSxeLt4zb2IK) | [Marble Madness](https://open.spotify.com/album/77h5IYy4eY58o1hJD5EywX) | 2:20 | 2022-01-27 | 2022-11-12 |
 | [Marble Mood](https://open.spotify.com/track/2U8DKAcobQXw5AeiCTGfrJ) | [Beation](https://open.spotify.com/artist/6V0pdsJyn81xdeFmeHWQfa) | [Marble Mood](https://open.spotify.com/album/0Yiba1WT7meSlnHEtTBVRx) | 2:07 | 2022-01-27 | 2023-01-20 |
 | [Marbles](https://open.spotify.com/track/7McgbJW6Bo2WHx9tXmzoUA) | [Cloudsurfin'](https://open.spotify.com/artist/5Dsg7x6lNQTgWSgnYlIpif), [Lightflower](https://open.spotify.com/artist/7LRPMbVSu0U3Dakca6s0t0) | [Marbles](https://open.spotify.com/album/4JCNxCKuttWTPDJDchg8cB) | 2:20 | 2023-05-19 | 2023-10-13 |
+| [Marupe Blues](https://open.spotify.com/track/0LF6QrzIozQBkdR4OXECEm) | [Gooee](https://open.spotify.com/artist/3dRsGVKzOLszqIM2I9Xhtf) | [Marupe Blues](https://open.spotify.com/album/0Tz0WZwkhyKxtvvXlssb32) | 2:12 | 2024-10-04 |  |
 | [maskros](https://open.spotify.com/track/6UFRV34euOz5X7sCfJgGyV) | [bomull](https://open.spotify.com/artist/1F32IriH9KUZxZzUoxeQub) | [maskros](https://open.spotify.com/album/6Zhxs4RLuvK3kZ5iNOwKaM) | 3:03 | 2023-09-08 |  |
 | [Matsuoka](https://open.spotify.com/track/4De868i8w6YZp48DsBLyCN) | [Mujo](https://open.spotify.com/artist/0vg08N1z9G9LrGLkG1nNDS) | [Matsuoka](https://open.spotify.com/album/3F43SAWw5a25Rm5P2n74yD) | 1:53 | 2024-09-27 |  |
 | [Matter Over Mind](https://open.spotify.com/track/6zGYdz1VrSjdKeKOSjAhMA) | [Zap Strap](https://open.spotify.com/artist/26um9QT84sVd1uLgI3K6lN) | [Matter Over Mind](https://open.spotify.com/album/4uCWRaKCVEF0vsdegesZg3) | 2:18 | 2024-07-12 |  |
@@ -971,7 +973,7 @@
 | [Peoples Plan](https://open.spotify.com/track/7GtYYBupIPtnzdmviZyLfR) | [AUIIRA](https://open.spotify.com/artist/3qmmaE4hDMkylgYQC5VrKU) | [Peoples Plan](https://open.spotify.com/album/2idlBBN2mSxgUS5GWJEl4t) | 2:22 | 2023-09-22 |  |
 | [Peppercorn](https://open.spotify.com/track/4pFsf2YT6OhMnxk4znjYKR) | [Loose Principles](https://open.spotify.com/artist/6sVzSwvK7Wq0a0xjHk8tGk) | [Peppercorn](https://open.spotify.com/album/65dRHJnh2IU4UtGMeRF34D) | 1:57 | 2023-04-20 | 2024-09-14 |
 | [Peppermint](https://open.spotify.com/track/3XzMvogtB7BXWwElYGyYXO) | [John Lee](https://open.spotify.com/artist/5yY5Dd7ek0OzZgy6a7j52E) | [Peppermint](https://open.spotify.com/album/1FkmCmUVsXYRnBk8VBaGQ2) | 2:19 | 2022-08-12 | 2022-11-12 |
-| [Perception](https://open.spotify.com/track/6771GihRWSltfIeiffL35K) | [Supereffective](https://open.spotify.com/artist/4ZeIehjJBLHHCy2SJu51p6) | [Perception](https://open.spotify.com/album/5P3uVvsBSqIU4GMqR6EeRf) | 2:22 | 2024-09-13 |  |
+| [Perception](https://open.spotify.com/track/6771GihRWSltfIeiffL35K) | [Supereffective](https://open.spotify.com/artist/4ZeIehjJBLHHCy2SJu51p6) | [Perception](https://open.spotify.com/album/5P3uVvsBSqIU4GMqR6EeRf) | 2:22 | 2024-09-13 | 2024-10-08 |
 | [Perfect Moment](https://open.spotify.com/track/4LQXHGOAjC249XnciBfeAA) | [Karma Malkoha](https://open.spotify.com/artist/1wcKzZJIxrrqjPVulFgWHo) | [Perfect Moment](https://open.spotify.com/album/0kVPrRM5ESaI9uRJlpeBqa) | 2:24 | 2023-04-11 | 2024-08-10 |
 | [Perfume](https://open.spotify.com/track/4QwS1glD2QjJZyeUFB2Qey) | [B.L.U.N.T.S](https://open.spotify.com/artist/44nJNsLu2WAAuEiNLbOE9n), [demete](https://open.spotify.com/artist/1jeNyNdvWrq0u9zd4cI7Sl) | [Perfume](https://open.spotify.com/album/51i1kBsirM9QAu2CM9ItBA) | 2:01 | 2022-09-16 | 2023-09-22 |
 | [Petula Thomas](https://open.spotify.com/track/34buaMEM4YjE8xsbX1L7PL) | [Govii](https://open.spotify.com/artist/2rVT5Vmfp9tvqtvAQU0r4f) | [Angels Below](https://open.spotify.com/album/3nkx7BWx32cqXUVIrKEQwv) | 2:28 | 2022-06-17 |  |
@@ -1470,7 +1472,7 @@
 | [yaaas](https://open.spotify.com/track/7FAktFGtxzYbcE6ceIyYzn) | [fresh from the oven](https://open.spotify.com/artist/6glzNO8EqQsWlQfmxnwK36) | [yaaas](https://open.spotify.com/album/0ftJW9wygyS41Fa3h7RNE0) | 2:35 | 2022-01-27 | 2022-06-10 |
 | [Yahooee](https://open.spotify.com/track/1Ou9wBe9oTjj4Seohu0Vvf) | [Nick's chill factory](https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9) | [Yahooee](https://open.spotify.com/album/5z9Clk4g8ToC3tuU0yPQ13) | 2:18 | 2023-10-20 |  |
 | [yeppurs](https://open.spotify.com/track/5P14FWcco2lfKl8ivOYIBL) | [pukks](https://open.spotify.com/artist/13FOxVWcunkuGPcJrulWhy) | [jalapeno](https://open.spotify.com/album/671hq6yLBZGDj3c8rikD1L) | 1:56 | 2022-01-27 | 2023-05-20 |
-| [yessir](https://open.spotify.com/track/11NYe41SBy23zohFN71kWG) | [hoodeeny](https://open.spotify.com/artist/7BCtXoU5pnFzU38zvpl6Cg) | [yessir](https://open.spotify.com/album/7veQs0lvhiRabih5eXsSp7) | 2:12 | 2024-09-13 |  |
+| [yessir](https://open.spotify.com/track/11NYe41SBy23zohFN71kWG) | [hoodeeny](https://open.spotify.com/artist/7BCtXoU5pnFzU38zvpl6Cg) | [yessir](https://open.spotify.com/album/7veQs0lvhiRabih5eXsSp7) | 2:12 | 2024-09-13 | 2024-10-08 |
 | [Yo and The Juice](https://open.spotify.com/track/4xcBTUhwupLCL1dxCrWGmY) | [Zonyo](https://open.spotify.com/artist/3et29OiPwxHluj9q2w4g5b) | [Sur La Seine](https://open.spotify.com/album/5VhQNBTrxSqbS0uhba4sk0) | 3:23 | 2022-12-23 | 2024-07-09 |
 | [You Give](https://open.spotify.com/track/1dNO5R0eXY9e2gVkv1f431) | [BLVKSHP](https://open.spotify.com/artist/49SU4KDi7vYuSfqsylFe6g) | [You Give](https://open.spotify.com/album/77MdrPhfFgrUfxFV7ECnqK) | 3:03 | 2022-01-27 | 2022-09-03 |
 | [You Look Pretty](https://open.spotify.com/track/1Fq0VPFph4hIF4971B8and) | [Sid Southside](https://open.spotify.com/artist/4TiVNrltbnF40ju8ZrCgmG) | [Mornings with Oscar](https://open.spotify.com/album/137kXQBQ6M2x1Xaj48aFvB) | 2:51 | 2022-08-12 |  |

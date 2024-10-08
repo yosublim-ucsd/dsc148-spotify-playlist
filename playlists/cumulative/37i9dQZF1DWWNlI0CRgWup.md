@@ -2,9 +2,9 @@
 
 ### [RADAR FRANCE](https://open.spotify.com/playlist/37i9dQZF1DWWNlI0CRgWup)
 
-> Découvrez les nouveautés des artistes RADAR France\. Photo : VEN1
+> Découvrez les nouveautés des artistes RADAR France\. Photo : Miki
 
-190 songs - 9 hr 51 min
+193 songs - 9 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Beautiful Everything](https://open.spotify.com/track/7y2FybBAX1q90Z5QYpfqy1) | [Astral Bakers](https://open.spotify.com/artist/6VUpGE6ErMWwqZGepBWc0D) | [The Whole Story](https://open.spotify.com/album/4GlTxg5zKftVRrKIAlsWal) | 4:18 | 2024-03-11 |  |
 | [bedroom walls](https://open.spotify.com/track/7AQocoPIOuhVfdxnogZgf8) | [November Ultra](https://open.spotify.com/artist/0naOCLau0NmL1kdFlbZAfr) | [bedroom walls](https://open.spotify.com/album/2SF5uQ1lC1OmlnpMYlOv9U) | 2:23 | 2022-03-01 | 2022-09-30 |
 | [Biso Mibale \(feat\. Jungeli\)](https://open.spotify.com/track/5Ymv6tlT7HgheiAfiU12mN) | [Emma'a](https://open.spotify.com/artist/45icwBBgjnEtg9ETR1Nipx), [Jungeli](https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7) | [Biso Mibale \(feat\. Jungeli\)](https://open.spotify.com/album/2qJCFSI8a3jNLyusz1opBU) | 2:57 | 2024-04-10 |  |
+| [Bisou sur la bouche](https://open.spotify.com/track/7fRoybXpkYQ7NNBjuhtEaV) | [Andéol](https://open.spotify.com/artist/3lWweK5IAJrNMXazhS5oV3) | [Bisou sur la bouche](https://open.spotify.com/album/7CWstAlJm1Xnhtt6GVWNzz) | 2:45 | 2024-10-07 |  |
 | [Bleu ciel](https://open.spotify.com/track/7al5eTCBSN7klkRl7FEJqm) | [Smeels](https://open.spotify.com/artist/6FyY3mlFrDdKUX35GrzeOZ) | [Bleu ciel](https://open.spotify.com/album/5thRrdDMwAy3lVxh3MKfUU) | 2:48 | 2021-12-02 | 2022-06-11 |
 | [BMW BOYZ](https://open.spotify.com/track/1oBSDxr6s8mVZPf1vcF6J9) | [Benjamin Epps](https://open.spotify.com/artist/2quhaEEtVvUNS0HwL1EJNn) | [BMW BOYZ](https://open.spotify.com/album/1q7JfRmk5FoF8XGlCaY0r2) | 1:58 | 2022-02-03 | 2022-04-15 |
 | [Bohémien](https://open.spotify.com/track/4F32E00xHDsgqGNsxLeSmG) | [Nikola](https://open.spotify.com/artist/0JEBnGhyAmu2hlEgZE2Ydj) | [Une saison en enfance](https://open.spotify.com/album/2uc49yePXwHHO205fQi7jQ) | 3:14 | 2022-03-01 | 2023-01-25 |
@@ -86,6 +87,7 @@
 | [I Don't Remember](https://open.spotify.com/track/14ZOrTzkLV7rfTsdFiBqXj) | [Astral Bakers](https://open.spotify.com/artist/6VUpGE6ErMWwqZGepBWc0D) | [I Don't Remember](https://open.spotify.com/album/1CPbjSbGXKqOzIgj3BBj62) | 3:57 | 2024-01-18 | 2024-02-24 |
 | [I Don't Remember](https://open.spotify.com/track/3Xw9XBQVBES1NW649X9FbI) | [Astral Bakers](https://open.spotify.com/artist/6VUpGE6ErMWwqZGepBWc0D) | [The Whole Story](https://open.spotify.com/album/4GlTxg5zKftVRrKIAlsWal) | 3:57 | 2024-01-24 | 2024-03-12 |
 | [INDISCRET](https://open.spotify.com/track/2XkZf7PB3MjaBdnzR2KFSo) | [Smeels](https://open.spotify.com/artist/6FyY3mlFrDdKUX35GrzeOZ) | [AERON SIT](https://open.spotify.com/album/499DppgglIUt1d6UD6GNW8) | 2:13 | 2022-06-10 | 2024-04-11 |
+| [Instinct Animal](https://open.spotify.com/track/1Lbohk2VALhwp3YvvN0Owh) | [Folie's](https://open.spotify.com/artist/0pyhWJCYRgIoXusQQuMO4c) | [Folie's je t'aime \(bonus\)](https://open.spotify.com/album/4XY3AYQ1bUedzOupxozyjg) | 3:01 | 2024-10-07 |  |
 | [J'ai plus peur](https://open.spotify.com/track/23A5YxiaHkz2pT7KOesZBN) | [TERRIER](https://open.spotify.com/artist/3GdYpfWMn7epxH2sHheonJ) | [J'ai plus peur](https://open.spotify.com/album/1epUOG9NbeV7YydZYFmV7p) | 3:12 | 2024-04-10 |  |
 | [J'aime pas sortir](https://open.spotify.com/track/0qOaSyBrDM4TmSEWrkfN6m) | [Alice et Moi](https://open.spotify.com/artist/1NcCVE1FRpBSlN3LcAfhn3) | [J'aime pas sortir](https://open.spotify.com/album/2QsJu8zj3GjP9bYvtKsR6C) | 2:52 | 2023-09-08 | 2024-01-19 |
 | [J'aimerais danser avec toi](https://open.spotify.com/track/1fWvBuZBG7AomF8Qk27vMM) | [ANAÏS MVA](https://open.spotify.com/artist/2MBvn4Y3ugNmUlWp1W65QL) | [J'aimerais danser avec toi](https://open.spotify.com/album/5V5TGyamn7lRkTfnoYM8vO) | 2:39 | 2024-01-18 |  |
@@ -195,6 +197,7 @@
 | [À force](https://open.spotify.com/track/2OXsC8IbL0V5SXNRGr1kCA) | [Noé Preszow](https://open.spotify.com/artist/6CZhbpXpR3VJNQWFkwd2Ic) | [\[prèchof\]](https://open.spotify.com/album/2aBKPRAq1UDHecxexXz0lq) | 3:17 | 2024-03-11 | 2024-04-11 |
 | [Ça me va](https://open.spotify.com/track/5IrSaHFfKuSzG6pv6jWXJS) | [Alice et Moi](https://open.spotify.com/artist/1NcCVE1FRpBSlN3LcAfhn3) | [Ça me va](https://open.spotify.com/album/3Zv13w5LwijoudLshMtkRc) | 3:09 | 2023-03-10 | 2023-09-09 |
 | [Ça me va](https://open.spotify.com/track/50buPmiBu8HJrykNSPKofs) | [Alice et Moi](https://open.spotify.com/artist/1NcCVE1FRpBSlN3LcAfhn3) | [Photographie](https://open.spotify.com/album/3OUdDelS2copkJpYt7LEP2) | 3:09 | 2024-01-18 |  |
+| [échec et mat](https://open.spotify.com/track/0G6lvIMuVEteFdNmndnU7w) | [Miki](https://open.spotify.com/artist/55Dacc2jL4tgb6Af23NlF6) | [graou](https://open.spotify.com/album/0PDmJd61cK6jh15jsaBfb4) | 2:48 | 2024-10-07 |  |
 | [Été brûlant](https://open.spotify.com/track/5ZYNSdAGH1znlbUXqt8T84) | [blond](https://open.spotify.com/artist/6bAfbEF8yCMBTtXEBFLh2x), [Sandra Nicolle](https://open.spotify.com/artist/2zVnYGjWyf1PXEm5kru4Ll) | [Été brûlant](https://open.spotify.com/album/3H7feFG23ok09jr6Mby8MY) | 2:54 | 2022-02-03 | 2022-02-08 |
 | [ᚷ\. INSPIRÉ DE FAITS RÉELS \#6](https://open.spotify.com/track/0gRObzGXDXLAbu8WOjy9i9) | [Beendo Z](https://open.spotify.com/artist/7a35Zdc78bDXJv2vYf5hSO) | [De la fontaine](https://open.spotify.com/album/6y824K5r5gFjMcjpWbJ12E) | 2:49 | 2024-04-10 |  |
 | [ᛋ\. INSPIRÉ DE FAITS RÉELS \#4](https://open.spotify.com/track/02PO29J9Hjay8TPbyDskVH) | [Beendo Z](https://open.spotify.com/artist/7a35Zdc78bDXJv2vYf5hSO) | [ᛋ\. INSPIRÉ DE FAITS RÉELS \#4](https://open.spotify.com/album/027Oju4gY9xUnDqgAdavpT) | 3:12 | 2022-04-14 | 2022-08-11 |

@@ -1,12 +1,12 @@
 {
   "description": "This Is Jennifer Lopez. Los temas esenciales, todos en una lista.",
-  "num_followers": 467311,
+  "num_followers": 467315,
   "original_name": "This Is Jennifer Lopez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwCBgAAAAAButv+5+c0A1BQYKu6msEz7",
+  "snapshot_id": "ZwHTAAAAAAAUrvIfoO2hFpzlSHVrLSyp",
   "tracks": [
     {
       "added_at": null,
@@ -431,26 +431,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eterno Agosto",
-        "url": "https://open.spotify.com/album/5jJXDZo4k8z4eMWB9ZxjDX"
-      },
-      "artists": [
-        {
-          "name": "Alvaro Soler",
-          "url": "https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe"
-        },
-        {
-          "name": "Jennifer Lopez",
-          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
-        }
-      ],
-      "duration_ms": 188093,
-      "name": "El Mismo Sol",
-      "url": "https://open.spotify.com/track/4OKmYJF7Wk8uJxv68wFH0j"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Chegaste",
         "url": "https://open.spotify.com/album/6Hu8uwwicNW49TbvTyZnPO"
       },
@@ -467,6 +447,26 @@
       "duration_ms": 236057,
       "name": "Chegaste",
       "url": "https://open.spotify.com/track/4qQCkzpkOPvbgbcy3fHwxK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Eterno Agosto",
+        "url": "https://open.spotify.com/album/5jJXDZo4k8z4eMWB9ZxjDX"
+      },
+      "artists": [
+        {
+          "name": "Alvaro Soler",
+          "url": "https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe"
+        },
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        }
+      ],
+      "duration_ms": 188093,
+      "name": "El Mismo Sol",
+      "url": "https://open.spotify.com/track/4OKmYJF7Wk8uJxv68wFH0j"
     },
     {
       "added_at": null,
@@ -703,6 +703,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Live It Up",
+        "url": "https://open.spotify.com/album/5fnPOybc8Zo7IYvWbvrCKR"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        },
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        }
+      ],
+      "duration_ms": 243786,
+      "name": "Live It Up",
+      "url": "https://open.spotify.com/track/2FHdoPa5aWaAmjuf362KJ0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "J.Lo",
         "url": "https://open.spotify.com/album/76QqoE30i9HVwxtxYMkWXT"
       },
@@ -731,26 +751,6 @@
       "duration_ms": 186599,
       "name": "Can't Get Enough",
       "url": "https://open.spotify.com/track/3A0XNK2dqNFIjG4yBt9Zzd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Live It Up",
-        "url": "https://open.spotify.com/album/5fnPOybc8Zo7IYvWbvrCKR"
-      },
-      "artists": [
-        {
-          "name": "Jennifer Lopez",
-          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
-        },
-        {
-          "name": "Pitbull",
-          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
-        }
-      ],
-      "duration_ms": 243786,
-      "name": "Live It Up",
-      "url": "https://open.spotify.com/track/2FHdoPa5aWaAmjuf362KJ0"
     },
     {
       "added_at": null,

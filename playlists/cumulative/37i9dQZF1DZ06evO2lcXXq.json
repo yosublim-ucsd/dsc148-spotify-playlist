@@ -165,6 +165,28 @@
     },
     {
       "album": {
+        "name": "Canto Della Terra (feat. Lauren Daigle)",
+        "url": "https://open.spotify.com/album/4PgBGxC2dSWSTn90lUpf0r"
+      },
+      "artists": [
+        {
+          "name": "Andrea Bocelli",
+          "url": "https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo"
+        },
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "date_added": "2024-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241933,
+      "name": "Canto Della Terra (feat. Lauren Daigle)",
+      "url": "https://open.spotify.com/track/4OhUVpDdEsIHKL1t3KfkEN"
+    },
+    {
+      "album": {
         "name": "Hear (Live)",
         "url": "https://open.spotify.com/album/7gleaF1Itb2Hc5xFOfqdXL"
       },

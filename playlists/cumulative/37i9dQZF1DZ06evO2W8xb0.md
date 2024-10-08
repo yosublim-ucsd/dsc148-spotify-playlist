@@ -2,7 +2,7 @@
 
 ### [This Is Chief Commander Ebenezer Obey](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2W8xb0)
 
-> This Is Chief Commander Ebenezer Obey\. Les titres incontournables, réunis dans une seule et même playlist.
+> This is Chief Commander Ebenezer Obey\. The essential tracks, all in one playlist.
 
 102 songs - 17 hr 48 min
 

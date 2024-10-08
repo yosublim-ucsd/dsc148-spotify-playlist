@@ -1,6 +1,6 @@
 {
   "description": "Pop gems to help you concentrate and stay focused.",
-  "num_followers": 455550,
+  "num_followers": 455537,
   "original_name": "Pop Study",
   "owner": {
     "name": "Spotify",
@@ -1003,18 +1003,22 @@
     {
       "added_at": "2024-08-07 16:03:32",
       "album": {
-        "name": "Let You Love Me",
-        "url": "https://open.spotify.com/album/4INRJMYMJrSPsf5mbW26Fm"
+        "name": "Wait for You (feat. Zoe Wees)",
+        "url": "https://open.spotify.com/album/7zc5uuNnGFh7krhft1b68F"
       },
       "artists": [
         {
-          "name": "Rita Ora",
-          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
+          "name": "Tom Walker",
+          "url": "https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh"
+        },
+        {
+          "name": "Zoe Wees",
+          "url": "https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS"
         }
       ],
-      "duration_ms": 190000,
-      "name": "Let You Love Me",
-      "url": "https://open.spotify.com/track/6xtcFXSo8H9BZN637BMVKS"
+      "duration_ms": 153026,
+      "name": "Wait for You (feat. Zoe Wees)",
+      "url": "https://open.spotify.com/track/3cMAS9DjZHrAnKvPrTIw7Z"
     }
   ],
   "unique_name": "Pop Study",

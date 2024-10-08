@@ -4,7 +4,7 @@
 
 > Fun tracks for your Halloween festivities!
 
-162 songs - 9 hr 48 min
+163 songs - 9 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,7 +144,7 @@
 | [Sweet but Psycho](https://open.spotify.com/track/5UQe0mUQaoCJ60LHpOLrGR) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [A Sweet but Psycho Halloween](https://open.spotify.com/album/1SgQFgwjMyZG0B00SurN0T) | 3:07 | 2022-10-24 | 2022-11-13 |
 | [Sweet but Psycho](https://open.spotify.com/track/7DnAm9FOTWE3cUvso43HhI) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Heaven & Hell](https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM) | 3:07 | 2021-10-27 | 2024-04-19 |
 | [Sweet Dreams](https://open.spotify.com/track/1FKxKGONukVFXWVJxAKmlz) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [I AM...SASHA FIERCE](https://open.spotify.com/album/23Y5wdyP5byMFktZf8AcWU) | 3:28 | 2021-10-27 |  |
-| [Sweet Dreams \(Are Made of This\) \- Remastered](https://open.spotify.com/track/1TfqLAPs4K3s2rJMoCokcS) | [Eurythmics](https://open.spotify.com/artist/0NKDgy9j66h3DLnN8qu1bB), [Annie Lennox](https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum), [Dave Stewart](https://open.spotify.com/artist/7gcCQIlkkfbul5Mt0jBQkg) | [Sweet Dreams \(Are Made Of This\)](https://open.spotify.com/album/5jNDWA19BJbE24x1UUJGRY) | 3:36 | 2021-10-27 |  |
+| [Sweet Dreams \(Are Made of This\) \- 2005 Remaster](https://open.spotify.com/track/1TfqLAPs4K3s2rJMoCokcS) | [Eurythmics](https://open.spotify.com/artist/0NKDgy9j66h3DLnN8qu1bB), [Annie Lennox](https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum), [Dave Stewart](https://open.spotify.com/artist/7gcCQIlkkfbul5Mt0jBQkg) | [Sweet Dreams \(Are Made Of This\)](https://open.spotify.com/album/5jNDWA19BJbE24x1UUJGRY) | 3:36 | 2021-10-27 |  |
 | [Tainted Love](https://open.spotify.com/track/0cGG2EouYCEEC3xfa0tDFV) | [Soft Cell](https://open.spotify.com/artist/6aq8T2RcspxVOGgMrTzjWc) | [Non\-Stop Erotic Cabaret](https://open.spotify.com/album/3KFWViJ1wIHAdOVLFTVzjD) | 2:33 | 2021-10-27 | 2022-09-24 |
 | [Tainted Love](https://open.spotify.com/track/4iboX8xYIzgfe7LB5N6DEa) | [Soft Cell](https://open.spotify.com/artist/6aq8T2RcspxVOGgMrTzjWc) | [Tae Kick Boxing, Vol\. 2](https://open.spotify.com/album/5ZPzUMFaAztt1JdR1vL8TK) | 2:34 | 2021-10-27 | 2022-07-29 |
 | [The Monster](https://open.spotify.com/track/48RrDBpOSSl1aLVCalGl5C) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [The Marshall Mathers LP2](https://open.spotify.com/album/3vOgbDjgsZBAPwV2M3bNOj) | 4:10 | 2021-10-27 | 2022-09-24 |
@@ -165,7 +165,8 @@
 | [Villain](https://open.spotify.com/track/6y0VIRo9CyIIHBdlPklTl0) | [Bella Poarch](https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm) | [Dolls EP](https://open.spotify.com/album/4W8QhTVggLgkJLdsXLLnnz) | 2:25 | 2022-10-12 | 2023-09-26 |
 | [W.I.T.C.H.](https://open.spotify.com/track/5XemvyG79fcKPl5lgbhplq) | [Devon Cole](https://open.spotify.com/artist/1VFt2HpmFG8Ufq6SDCoZe4) | [W.I.T.C.H.](https://open.spotify.com/album/3Z8vTrrDg2JbOgtYf82G7b) | 2:12 | 2023-09-25 |  |
 | [Werewolves of London](https://open.spotify.com/track/6kotXaSQaGYxE62hVpdHWu) | [Warren Zevon](https://open.spotify.com/artist/3mY9Ii0cL5SQxpOTAm8SHx) | [Excitable Boy](https://open.spotify.com/album/03WJAI8NnJHvCNqnlLw8kg) | 3:29 | 2022-10-23 |  |
-| [Witch Doctor \- Cover Version](https://open.spotify.com/track/4kovpzSYYoguJxUXQesQ13) | [The Monster Halloween Band](https://open.spotify.com/artist/5i4i9HBk5MSbX94W535MC8) | [Ultimate Kids Halloween Party Album](https://open.spotify.com/album/5ui3iBWZ6bvMRfCpAJWAvy) | 2:25 | 2021-10-27 |  |
+| [Witch Doctor](https://open.spotify.com/track/5YZuePCawcrg0DJrWovPu7) | [Cartoons](https://open.spotify.com/artist/6eKJWEzLZq8jZix8hdYsv4) | [Greatest Toons](https://open.spotify.com/album/2wTEf0XtQxeZ24KAGT1KB6) | 3:07 | 2024-10-07 |  |
+| [Witch Doctor \- Cover Version](https://open.spotify.com/track/4kovpzSYYoguJxUXQesQ13) | [The Monster Halloween Band](https://open.spotify.com/artist/5i4i9HBk5MSbX94W535MC8) | [Ultimate Kids Halloween Party Album](https://open.spotify.com/album/5ui3iBWZ6bvMRfCpAJWAvy) | 2:25 | 2021-10-27 | 2024-10-08 |
 | [You Spin Me Round \(Like a Record\)](https://open.spotify.com/track/1ChulFMnwxoD74Me8eX2TU) | [Dead Or Alive](https://open.spotify.com/artist/5WWSL6rElJeUk3Uc1S2RyD) | [Evolution: The Hits](https://open.spotify.com/album/5AMshCv0RIe2aO4XaQWhp4) | 3:15 | 2022-09-23 |  |
 | [You Spin Me Round \(Like a Record\)](https://open.spotify.com/track/5RXrCgoku7rnTX6cbGuT3E) | [Dead Or Alive](https://open.spotify.com/artist/5WWSL6rElJeUk3Uc1S2RyD) | [80 Totally 80s Hits](https://open.spotify.com/album/3C20zCOVCXIb9xr0Z6wcCG) | 3:16 | 2021-10-27 | 2022-09-24 |
 | [ZOMBIE](https://open.spotify.com/track/2ZT9fsXQsEgcfjoxdhboUs) | [Qveen Herby](https://open.spotify.com/artist/4o4tLTIJ3eWMFerz73atcT) | [EP 1](https://open.spotify.com/album/3QnFOXP2FJhI1yDlo6tYgm) | 3:09 | 2022-09-23 | 2022-10-25 |

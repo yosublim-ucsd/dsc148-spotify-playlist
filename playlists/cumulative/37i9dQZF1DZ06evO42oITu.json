@@ -440,7 +440,7 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-08",
       "duration_ms": 251360,
       "name": "Come Rain or Come Shine",
       "url": "https://open.spotify.com/track/2Z7U506Agti2s9uxP564LE"
@@ -932,6 +932,24 @@
       "duration_ms": 423438,
       "name": "Heart of a Child",
       "url": "https://open.spotify.com/track/6Ytimgwukz0kp6Slrtv2jO"
+    },
+    {
+      "album": {
+        "name": "Meanwhile",
+        "url": "https://open.spotify.com/album/7ASFpTja76OXENB9qkzXjJ"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "date_added": "2024-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 424000,
+      "name": "Heart of a Child",
+      "url": "https://open.spotify.com/track/46lCvAJ3oFvkd8mKMsjJio"
     },
     {
       "album": {
@@ -2276,7 +2294,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-08",
       "duration_ms": 442133,
       "name": "River of Tears",
       "url": "https://open.spotify.com/track/7henYpsVePUUrB8sQmhG6O"
@@ -2360,6 +2378,24 @@
       "duration_ms": 390893,
       "name": "Running On Faith - Acoustic; Live at MTV Unplugged, Bray Film Studios, Windsor, England, UK, 1/16/1992; 2013 Remaster",
       "url": "https://open.spotify.com/track/64fZ1gcn7rEzbdibOP1inl"
+    },
+    {
+      "album": {
+        "name": "Meanwhile",
+        "url": "https://open.spotify.com/album/7ASFpTja76OXENB9qkzXjJ"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "date_added": "2024-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327000,
+      "name": "Sam Hall",
+      "url": "https://open.spotify.com/track/37rKTGqIjBzF0GcubuIDE9"
     },
     {
       "album": {

@@ -1,13 +1,61 @@
 {
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 07 Oct 22:03 UTC.",
-  "num_followers": 84,
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 07 Oct 20:03 UTC.",
+  "num_followers": 85,
   "original_name": "New Singles Now",
   "owner": {
     "name": "Listige",
     "url": "https://open.spotify.com/user/v9iqfai0ejp8rgcb2sx9n6yis"
   },
-  "snapshot_id": "AAALwjxZj1Df18IkSwU1m6NmldnrUf4K",
+  "snapshot_id": "AAALyh8KLxFs1VqfZob7PAOgAJmrLRF7",
   "tracks": [
+    {
+      "added_at": "2024-10-07 04:02:50",
+      "album": {
+        "name": "\u30a2\u30dd\u30ea\u30a2",
+        "url": "https://open.spotify.com/album/4AucYbX9MX5phmTpawxEfo"
+      },
+      "artists": [
+        {
+          "name": "\u30e8\u30eb\u30b7\u30ab",
+          "url": "https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik"
+        }
+      ],
+      "duration_ms": 230209,
+      "name": "\u30a2\u30dd\u30ea\u30a2",
+      "url": "https://open.spotify.com/track/7ugSlmtBWNMAgTpdvBPcIh"
+    },
+    {
+      "added_at": "2024-10-07 10:02:59",
+      "album": {
+        "name": "i have plastic in my brain (demo)",
+        "url": "https://open.spotify.com/album/1r8P8YMJKVD00n8VL9aRkN"
+      },
+      "artists": [
+        {
+          "name": "Lil Darkie",
+          "url": "https://open.spotify.com/artist/62F9BiUmjqeXbBztCwiX1U"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "i have plastic in my brain (demo)",
+      "url": "https://open.spotify.com/track/6snBRPgiH4JVF1Ugd72h1Q"
+    },
+    {
+      "added_at": "2024-10-07 20:03:01",
+      "album": {
+        "name": "Sushi Glory Hole",
+        "url": "https://open.spotify.com/album/5R7A1l3W61lzi3dgtJag6N"
+      },
+      "artists": [
+        {
+          "name": "The Lonely Island",
+          "url": "https://open.spotify.com/artist/1f5GqyOPo0CkotzzRwviBu"
+        }
+      ],
+      "duration_ms": 142277,
+      "name": "Sushi Glory Hole",
+      "url": "https://open.spotify.com/track/53XgmXQW5eYDdeTUHd9ueC"
+    },
     {
       "added_at": "2024-10-06 04:03:14",
       "album": {
@@ -23,6 +71,70 @@
       "duration_ms": 209296,
       "name": "Transcendental Cha Cha Cha",
       "url": "https://open.spotify.com/track/1gaa0N2DGSLKcW7aIQu9xF"
+    },
+    {
+      "added_at": "2024-10-07 16:03:03",
+      "album": {
+        "name": "Nothing Would Change",
+        "url": "https://open.spotify.com/album/3kQY3Ha4otCRlvzukPPNaH"
+      },
+      "artists": [
+        {
+          "name": "The Linda Lindas",
+          "url": "https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5"
+        }
+      ],
+      "duration_ms": 203774,
+      "name": "Nothing Would Change",
+      "url": "https://open.spotify.com/track/3o3f9agMiUxMGm4p60Ni3b"
+    },
+    {
+      "added_at": "2024-10-07 04:02:50",
+      "album": {
+        "name": "MIRAGE",
+        "url": "https://open.spotify.com/album/7ioehSC2RnKeHr9w9lpW6T"
+      },
+      "artists": [
+        {
+          "name": "Takanashi Kiara",
+          "url": "https://open.spotify.com/artist/6UCFRdg4ySMWj6O4QRKyZs"
+        }
+      ],
+      "duration_ms": 207297,
+      "name": "MIRAGE",
+      "url": "https://open.spotify.com/track/0aqAr8UI596cxfGt6mnqaj"
+    },
+    {
+      "added_at": "2024-10-07 20:03:01",
+      "album": {
+        "name": "aggressive",
+        "url": "https://open.spotify.com/album/5KeXH6N4PmxtYg95a9sX8b"
+      },
+      "artists": [
+        {
+          "name": "Jim Legxacy",
+          "url": "https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2"
+        }
+      ],
+      "duration_ms": 175215,
+      "name": "aggressive",
+      "url": "https://open.spotify.com/track/0L7CLr2avMQXAwA3uTqJp3"
+    },
+    {
+      "added_at": "2024-10-07 16:03:03",
+      "album": {
+        "name": "A Good Time Pushed",
+        "url": "https://open.spotify.com/album/1HwcLQjfgSsqNWxbPL6cV2"
+      },
+      "artists": [
+        {
+          "name": "Kim Deal",
+          "url": "https://open.spotify.com/artist/4JzQKxgdLmyqbplHxVL8xY"
+        }
+      ],
+      "duration_ms": 207958,
+      "name": "A Good Time Pushed",
+      "url": "https://open.spotify.com/track/1PO1Uc8DwEfSFGprln91lC"
     },
     {
       "added_at": "2024-10-06 22:03:28",
@@ -775,118 +887,6 @@
       "duration_ms": 165079,
       "name": "Eurostar",
       "url": "https://open.spotify.com/track/6uDqKkOeYnE7W1KZMMBPve"
-    },
-    {
-      "added_at": "2024-10-04 16:03:21",
-      "album": {
-        "name": "Water",
-        "url": "https://open.spotify.com/album/1XYw1cdFZRfr6cgmM8GENC"
-      },
-      "artists": [
-        {
-          "name": "Brenn!",
-          "url": "https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q"
-        }
-      ],
-      "duration_ms": 233463,
-      "name": "Water",
-      "url": "https://open.spotify.com/track/3ebSIk0NkIExw1II0trZOs"
-    },
-    {
-      "added_at": "2024-10-04 16:03:21",
-      "album": {
-        "name": "You Go Your Way",
-        "url": "https://open.spotify.com/album/5TfDNyXTjan0eZhELfj1jx"
-      },
-      "artists": [
-        {
-          "name": "Perrie",
-          "url": "https://open.spotify.com/artist/0o18Cfq9RAxRqi5W4JOEPe"
-        }
-      ],
-      "duration_ms": 234886,
-      "name": "You Go Your Way",
-      "url": "https://open.spotify.com/track/35jE2icc2pV4QDgbJiYMUe"
-    },
-    {
-      "added_at": "2024-10-04 16:03:21",
-      "album": {
-        "name": "Kick Back",
-        "url": "https://open.spotify.com/album/1WP54EBpUKdWeGMA7zChgj"
-      },
-      "artists": [
-        {
-          "name": "MUST DIE!",
-          "url": "https://open.spotify.com/artist/4aBx7mA6lUOVhEsjokZrXb"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Kick Back",
-      "url": "https://open.spotify.com/track/4L9SAF40SFewdrkl74b27M"
-    },
-    {
-      "added_at": "2024-10-04 16:03:21",
-      "album": {
-        "name": "You're Always High",
-        "url": "https://open.spotify.com/album/6UJVvGxOSk0TbJPAaolsNQ"
-      },
-      "artists": [
-        {
-          "name": "Winona Oak",
-          "url": "https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1"
-        }
-      ],
-      "duration_ms": 183732,
-      "name": "You're Always High",
-      "url": "https://open.spotify.com/track/6YB79a954f6nzfYCkX8sXB"
-    },
-    {
-      "added_at": "2024-10-04 16:03:21",
-      "album": {
-        "name": "better in two",
-        "url": "https://open.spotify.com/album/3cguFgNctWqDJjoOJW0heb"
-      },
-      "artists": [
-        {
-          "name": "Takayoshi",
-          "url": "https://open.spotify.com/artist/6LszZyd03prLB8lIPbZ9Uo"
-        }
-      ],
-      "duration_ms": 138000,
-      "name": "better in two",
-      "url": "https://open.spotify.com/track/6vzIOuyz9yxJSmjkLzHI1D"
-    },
-    {
-      "added_at": "2024-10-05 04:02:48",
-      "album": {
-        "name": "sTrUt nAtIoN",
-        "url": "https://open.spotify.com/album/5upTw7FHudDbuCqi0T8Ar9"
-      },
-      "artists": [
-        {
-          "name": "TisaKorean",
-          "url": "https://open.spotify.com/artist/6lEhBhAv6HOopjXssi09cq"
-        }
-      ],
-      "duration_ms": 123428,
-      "name": "sTrUt nAtIoN",
-      "url": "https://open.spotify.com/track/50ucvP3G2DPitoGdOmX48L"
-    },
-    {
-      "added_at": "2024-10-05 22:03:22",
-      "album": {
-        "name": "Around Me",
-        "url": "https://open.spotify.com/album/637AZlOAncgk471qGUVCvP"
-      },
-      "artists": [
-        {
-          "name": "No Guidnce",
-          "url": "https://open.spotify.com/artist/4jE1yavE4c5IR1hhM4wHhY"
-        }
-      ],
-      "duration_ms": 174497,
-      "name": "Around Me",
-      "url": "https://open.spotify.com/track/1YEVx89VQ53Lj96DuDs6Et"
     }
   ],
   "unique_name": "New Singles Now",

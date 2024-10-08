@@ -2,7 +2,7 @@
 
 ### [This Is PÆRISH](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0eSSRy)
 
-> This is PÆRISH\. Tutti i brani in un'unica playlist.
+> This is PÆRISH\. The essential tracks, all in one playlist.
 
 37 songs - 2 hr 15 min
 

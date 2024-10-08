@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Denmark.
 
-1,702 songs - 3 day 16 hr 21 min
+1,703 songs - 3 day 16 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -257,7 +257,7 @@
 | [Chemical](https://open.spotify.com/track/4qzEjmuz380jeiBJp31oDY) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Chemical](https://open.spotify.com/album/6NoH5RUtjoh6ae2lJ9gWfq) | 3:04 | 2023-04-15 | 2023-04-17 |
 | [Chemical](https://open.spotify.com/track/5TOgxgZrIZzvaKg9r2bvc2) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [The Diamond Collection](https://open.spotify.com/album/1DsM0AOBGPPIDp0gWN8Zb4) | 3:04 | 2023-04-22 | 2023-04-30 |
 | [Chemical](https://open.spotify.com/track/5w40ZYhbBMAlHYNDaVJIUu) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Chemical](https://open.spotify.com/album/7qcSUc5Af63mhfTF60KTEA) | 3:04 | 2023-04-16 | 2023-05-20 |
-| [Chicagenhagen](https://open.spotify.com/track/1z8kbKSGPNRBSbgtkgCUwH) | [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD), [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [KENNY](https://open.spotify.com/album/0vYywoBHcZgwW08A2rA9fU) | 2:33 | 2024-06-22 |  |
+| [Chicagenhagen](https://open.spotify.com/track/1z8kbKSGPNRBSbgtkgCUwH) | [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD), [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [KENNY](https://open.spotify.com/album/0vYywoBHcZgwW08A2rA9fU) | 2:33 | 2024-06-22 | 2024-10-08 |
 | [CHIHIRO](https://open.spotify.com/track/7BRD7x5pt8Lqa1eGYC4dzj) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 5:03 | 2024-05-18 | 2024-06-22 |
 | [CHOPMONEY](https://open.spotify.com/track/574IRhxKFd1UNAAJlZn6hP) | [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6), [ICEKIID](https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt) | [CHOPMONEY](https://open.spotify.com/album/4EUPnZujrTHutWfQ63FruU) | 2:23 | 2022-12-31 | 2023-01-29 |
 | [Chosen \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/1dIWPXMX4kRHj6Dt2DStUQ) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [No Love Lost \(Deluxe\)](https://open.spotify.com/album/7AwrgenNcTAJlJF3pKL0Qr) | 2:41 | 2021-08-06 | 2021-09-25 |
@@ -420,6 +420,7 @@
 | [EH PAPA](https://open.spotify.com/track/7mTlWxWhi6wxnD2bsXWlFC) | [NODE](https://open.spotify.com/artist/03WNJB1zKyqW8DimkHP4Bg) | [EH PAPA](https://open.spotify.com/album/0jcVhFdI3P2hxFpNQTvHBs) | 2:08 | 2021-05-23 | 2021-07-20 |
 | [Elo Elo](https://open.spotify.com/track/3i0kzCSbAY2kDX2xiJdRLE) | [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD), [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq), [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE), [B.O.C](https://open.spotify.com/artist/2X22Hm97hQA8mFjSrn2foA) | [Elo Elo](https://open.spotify.com/album/0x7BDbNbdoXcFcsHrd3lft) | 1:50 | 2023-01-01 | 2023-05-14 |
 | [Elsker Dig Så Meget](https://open.spotify.com/track/4LedraX4BFROmP6SX2EC7o) | [Blæst](https://open.spotify.com/artist/3elCsuJ1JjDeAd8mjlRRX5) | [Elsker Dig Så Meget](https://open.spotify.com/album/7pH5XZrKDu2S4Ml3IYndCR) | 3:21 | 2024-08-02 |  |
+| [Embrace It](https://open.spotify.com/track/0io16MKpbeDIdYzmGpQaES) | [Ndotz](https://open.spotify.com/artist/5HK6QtizXJzCmoYTkvFRik) | [Embrace It](https://open.spotify.com/album/0mV9Pfr1GfoZLkp1EAau9P) | 1:44 | 2024-10-07 |  |
 | [Emil](https://open.spotify.com/track/0cDHgTZcDMFyFV5gTqVxEv) | [The Minds Of 99](https://open.spotify.com/artist/6GTwMrB4u3hwcUyc9sU1UL) | [Infinity Action](https://open.spotify.com/album/6GLTwo1oKgINl5zKMPuBWM) | 2:53 | 2022-01-08 | 2024-06-28 |
 | [Emil](https://open.spotify.com/track/2a8XSO5Kv7xnYiHW4D0Iv3) | [The Minds Of 99](https://open.spotify.com/artist/6GTwMrB4u3hwcUyc9sU1UL) | [Emil](https://open.spotify.com/album/0oXDmnAgtxYwBCk3wnFTb9) | 3:03 | 2021-06-20 | 2021-09-25 |
 | [En Af De Dage](https://open.spotify.com/track/0ghuhkLjHIxfqzIPL39j6I) | [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE), [MAISHA](https://open.spotify.com/artist/6ymOvOWslq7BNh27lKHfsK) | [FOMO 88.8 FM](https://open.spotify.com/album/4B4EYQ1TfHMWJlOTTpenmn) | 2:57 | 2024-08-09 | 2024-08-17 |

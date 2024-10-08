@@ -4,7 +4,7 @@
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : Vasu Dixit, Manuality, Joel Sakkari
 
-393 songs - 21 hr 28 min
+394 songs - 21 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -198,7 +198,7 @@
 | [MADE IN KARNATAKA](https://open.spotify.com/track/02Zr33EJNBLMJOUgLxWBwb) | [YASHICA RAJ](https://open.spotify.com/artist/0mlHmQy2Zursbiill6EeXd), [MC Bijju](https://open.spotify.com/artist/55M046miFPYqKWWS0UaDOp) | [MADE IN KARNATAKA](https://open.spotify.com/album/19gnp7j1D1BKrNMXzfNw91) | 1:36 | 2024-01-31 | 2024-06-11 |
 | [Madhya Raatri](https://open.spotify.com/track/3vyaUrfqe16FA0njHxK8fE) | [Yaaru](https://open.spotify.com/artist/5uIPe6WLxAprhUHVBME3hx), [Rohan San](https://open.spotify.com/artist/3orEjTOJwiLWzVRocxDUZl) | [Madhya Raatri](https://open.spotify.com/album/5CsVCGI8MUuW7xSjG4rTDg) | 3:15 | 2022-09-05 | 2023-06-13 |
 | [Maha Ganapathim](https://open.spotify.com/track/0DY2HqSTGGBtTFKfsshNYd) | [Ashwamedha Karthik](https://open.spotify.com/artist/1oFZ5cz8fiSp6fFDlRZwE2) | [Maha Ganapathim](https://open.spotify.com/album/4CHgztUDbbXxRZSTohaQvQ) | 4:09 | 2023-01-18 | 2023-08-25 |
-| [Maleya Hani](https://open.spotify.com/track/4thlFzlnGYPkBq02BYTL2P) | [K\. J\. Yesudas](https://open.spotify.com/artist/2wPsNCwhEGb0KvChZ5DD52) | [Maleya Hani](https://open.spotify.com/album/6nAYaR0bpIaYFOmUC0qjKk) | 2:45 | 2024-05-13 |  |
+| [Maleya Hani](https://open.spotify.com/track/4thlFzlnGYPkBq02BYTL2P) | [K\. J\. Yesudas](https://open.spotify.com/artist/2wPsNCwhEGb0KvChZ5DD52) | [Maleya Hani](https://open.spotify.com/album/6nAYaR0bpIaYFOmUC0qjKk) | 2:45 | 2024-05-13 | 2024-10-08 |
 | [Maleya Hani](https://open.spotify.com/track/2r0Mrm57KXfChbJibyPtip) | [KALKITHENAME](https://open.spotify.com/artist/6i4yRb0QVrd54djWJoxbUk), [Thrupthi Rai](https://open.spotify.com/artist/34jjiK70L2t44kp4uTSsxU) | [Maleya Hani](https://open.spotify.com/album/6Nysx2Ca6BBohm1PRxVg6W) | 3:13 | 2023-07-10 | 2024-02-27 |
 | [Maleya Hani](https://open.spotify.com/track/2wNNoAxQb1VRqKxQMdlwAU) | [KALKITHENAME](https://open.spotify.com/artist/6i4yRb0QVrd54djWJoxbUk), [Thrupthi Rai](https://open.spotify.com/artist/34jjiK70L2t44kp4uTSsxU) | [Maleya Hani](https://open.spotify.com/album/66cC20oPPvP02A2ToTGeaT) | 3:13 | 2023-07-10 | 2024-02-20 |
 | [Mallige Hoova](https://open.spotify.com/track/5PURTIpVPE45Al5IV0QJOS) | [All Ok](https://open.spotify.com/artist/2wQP7peRciPJyvzDDmroBV), [Ashika Ranganath](https://open.spotify.com/artist/4wexsazM0emf4VDAxSwIdp) | [Mallige Hoova](https://open.spotify.com/album/7kkpWO8QqNZw7IAmgQfxVt) | 2:57 | 2022-09-09 | 2023-07-18 |
@@ -331,6 +331,7 @@
 | [Queen](https://open.spotify.com/track/3ZwA5XT8yNMktFl41qfwfu) | [The Aura](https://open.spotify.com/artist/6M5ttnbVdNgAdybwmewX0N) | [God Movess](https://open.spotify.com/album/16x5VIDSCWPmpSCjt06v5K) | 2:45 | 2023-07-13 | 2023-07-22 |
 | [QUICK FIX](https://open.spotify.com/track/3k6XUW5YqaTYhnvnakgubB) | [Shastra](https://open.spotify.com/artist/6L0zcPmoJp0r8YIsSYmu34), [NUMB\-URGH](https://open.spotify.com/artist/3zPtAKDN5Ldh5BAVPbzVlD), [John On The Beat](https://open.spotify.com/artist/6LlGGD8vKtcraxhCCPkRaS) | [QUICK FIX](https://open.spotify.com/album/7e9S5JfIKYhjglqdcb1XGP) | 2:06 | 2023-07-17 | 2024-02-17 |
 | [Rain Chant](https://open.spotify.com/track/43DL71yvcNSP5ohKcNE1xC) | [Bryden & Parth](https://open.spotify.com/artist/0xm9AriR5cmVDwMBWL2HHo), [Halakki Vokkaliga](https://open.spotify.com/artist/2YFrJUByqFWgxVps6hAiGD) | [Rain Chant](https://open.spotify.com/album/6KcfWe3ii5Mo0LnMiUjHD7) | 5:30 | 2023-06-16 | 2023-07-09 |
+| [Raja Roja](https://open.spotify.com/track/1YqhW4XfAQPJPwusKxQ7zf) | [Chethan Naik](https://open.spotify.com/artist/3DaORH0Tws7WPuMKnQQj3Y), [Pranjali Salimata](https://open.spotify.com/artist/0pnFwtQxmO7ZNMi67MEJti) | [Raja Roja](https://open.spotify.com/album/2McU47fZjNMhpFmN1v6TBu) | 3:32 | 2024-10-07 |  |
 | [Ranasagar](https://open.spotify.com/track/4sQQVsnzryMPIiBBSMSQFk) | [D rapper](https://open.spotify.com/artist/4FqwQ0EygQJox3FgfVUSn4) | [Ranasagar](https://open.spotify.com/album/2iAIXYgbgH7Xlw0H520BFo) | 1:43 | 2023-07-08 | 2023-07-18 |
 | [RCB 12th Man Army](https://open.spotify.com/track/3w0i0dc5rDKfpBTp3e3k07) | [Aniruddha Sastry](https://open.spotify.com/artist/4eBhDqKsVw41KLAgusBZPa), [Bhoomika Yellow B](https://open.spotify.com/artist/1O3EaC8XQBJPOZlIqUAge1) | [RCB 12th Man Army \- Single](https://open.spotify.com/album/7i4SqRm106EdOoeU7koGbP) | 2:39 | 2023-04-05 | 2023-12-09 |
 | [RCB ANTHEM \- Version 2023](https://open.spotify.com/track/34U20Qg8DoIBp7taWrKZAL) | [YASHICA RAJ](https://open.spotify.com/artist/0mlHmQy2Zursbiill6EeXd) | [RCB ANTHEM \(Version 2023\)](https://open.spotify.com/album/4IFnYU4QYdbvUWSpSCKGzC) | 2:32 | 2023-04-28 | 2023-06-08 |

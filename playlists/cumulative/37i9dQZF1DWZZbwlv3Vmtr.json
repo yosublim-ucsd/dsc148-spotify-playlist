@@ -1439,6 +1439,24 @@
     },
     {
       "album": {
+        "name": "Bottled Message",
+        "url": "https://open.spotify.com/album/0rgTLDn3rZBDe2facgkYWe"
+      },
+      "artists": [
+        {
+          "name": "Coltsfoot",
+          "url": "https://open.spotify.com/artist/2yWG9itzl6vVT4af2DPZoS"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Bottled Message",
+      "url": "https://open.spotify.com/track/1jPB55XVsJo36Q7qnqr5v4"
+    },
+    {
+      "album": {
         "name": "Brainstem",
         "url": "https://open.spotify.com/album/3YvmHeYv5MU6vvZbIOekB3"
       },
@@ -2614,6 +2632,24 @@
       "duration_ms": 132133,
       "name": "Cloudscapes",
       "url": "https://open.spotify.com/track/7q2l5DqNGfdDwZZBKqviM9"
+    },
+    {
+      "album": {
+        "name": "Coastline",
+        "url": "https://open.spotify.com/album/4LpnijAb8blgBpVbETtl2v"
+      },
+      "artists": [
+        {
+          "name": "Vincent Rayn",
+          "url": "https://open.spotify.com/artist/3zWwvS0OdQwTploEQjT1VG"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Coastline",
+      "url": "https://open.spotify.com/track/0PPlANVj1pw5InVorVuJv9"
     },
     {
       "album": {
@@ -4858,7 +4894,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-08",
       "duration_ms": 129332,
       "name": "Fly with me to the moon",
       "url": "https://open.spotify.com/track/6ax46rQsYBiZoZS4QDrvvM"
@@ -7652,7 +7688,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-08",
       "duration_ms": 187317,
       "name": "Last Mission",
       "url": "https://open.spotify.com/track/68eeyMyBLYvpBKuKlGEFgv"
@@ -12926,7 +12962,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-08",
       "duration_ms": 105757,
       "name": "sandcastles",
       "url": "https://open.spotify.com/track/2J0Rj3cOl6EfTGI5D0FA6p"
@@ -13876,6 +13912,24 @@
       "duration_ms": 125142,
       "name": "Snowful Peace",
       "url": "https://open.spotify.com/track/1u2SXLe9KHUX2uIqHG47JL"
+    },
+    {
+      "album": {
+        "name": "So Very Much",
+        "url": "https://open.spotify.com/album/3EhNEOMhyAweUU6beirfnQ"
+      },
+      "artists": [
+        {
+          "name": "nora haze",
+          "url": "https://open.spotify.com/artist/1pcopnUDTLC87zfDfV16es"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125624,
+      "name": "So Very Much",
+      "url": "https://open.spotify.com/track/5dN8phxVcvz7BAIMuI4wqv"
     },
     {
       "album": {

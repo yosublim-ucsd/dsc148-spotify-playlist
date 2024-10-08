@@ -1,12 +1,12 @@
 {
   "description": "EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!",
-  "num_followers": 25789,
+  "num_followers": 25790,
   "original_name": "NEW EDM 2024 \u26a1 EDM HITS 2024 \u26a1 MUSICA ELECTRONICA 2024",
   "owner": {
     "name": "EDM Sauce",
     "url": "https://open.spotify.com/user/edmsauce"
   },
-  "snapshot_id": "AABhKM8QykJP4g1Ex9JhhTKYTMMQF86Y",
+  "snapshot_id": "AABhL1bAqBPSxZoJzTMZTeDSzeXg/EGI",
   "tracks": [
     {
       "added_at": "2024-10-04 11:53:40",
@@ -345,6 +345,42 @@
       "url": "https://open.spotify.com/track/6Qr4ufjYXdEd0KNFd7sJxx"
     },
     {
+      "added_at": "2024-10-07 13:38:53",
+      "album": {
+        "name": "Avoid",
+        "url": "https://open.spotify.com/album/27h5vGfPVBw5zQpn7pXrUU"
+      },
+      "artists": [
+        {
+          "name": "mra",
+          "url": "https://open.spotify.com/artist/5ICv05L4fcvG3i8l6yEoWA"
+        }
+      ],
+      "duration_ms": 202223,
+      "name": "Avoid",
+      "url": "https://open.spotify.com/track/7nm8pWoDmlEgMZRdHtZpZU"
+    },
+    {
+      "added_at": "2024-10-07 13:35:50",
+      "album": {
+        "name": "Afterlife",
+        "url": "https://open.spotify.com/album/3HPDHu91nJyw7rm3PxHLf3"
+      },
+      "artists": [
+        {
+          "name": "DisKatch",
+          "url": "https://open.spotify.com/artist/0c8ocOLagrUVUogmGnFWO6"
+        },
+        {
+          "name": "Faus Ivan",
+          "url": "https://open.spotify.com/artist/55DiGvrrrM2KqAIMs6NzkC"
+        }
+      ],
+      "duration_ms": 209508,
+      "name": "Afterlife",
+      "url": "https://open.spotify.com/track/56avbMs0OB7Qch3OB6t93g"
+    },
+    {
       "added_at": "2024-10-04 11:54:20",
       "album": {
         "name": "Release",
@@ -609,6 +645,38 @@
       "url": "https://open.spotify.com/track/4L9SAF40SFewdrkl74b27M"
     },
     {
+      "added_at": "2024-10-07 13:37:54",
+      "album": {
+        "name": "ARCHANGEL",
+        "url": "https://open.spotify.com/album/74v6xH6qq9f09JaccA1Y6w"
+      },
+      "artists": [
+        {
+          "name": "SIM",
+          "url": "https://open.spotify.com/artist/6JQhUOPvPJNH8tCOUT0cgf"
+        }
+      ],
+      "duration_ms": 178512,
+      "name": "ARCHANGEL",
+      "url": "https://open.spotify.com/track/0vUAr5g9hsDGOOGfahb01b"
+    },
+    {
+      "added_at": "2024-10-07 13:38:51",
+      "album": {
+        "name": "Sunshine Superqueen",
+        "url": "https://open.spotify.com/album/3Zt4AKrO7EkQ2TsLVnbMMj"
+      },
+      "artists": [
+        {
+          "name": "High Fruit",
+          "url": "https://open.spotify.com/artist/4jx0Rall3HmaSJgxTNGHAt"
+        }
+      ],
+      "duration_ms": 168746,
+      "name": "Banshee",
+      "url": "https://open.spotify.com/track/7mFAUzHLNE3EKbMDSJjj0R"
+    },
+    {
       "added_at": "2024-10-04 11:56:16",
       "album": {
         "name": "Closer (Ryan Lucian Remix)",
@@ -651,6 +719,22 @@
       "duration_ms": 230909,
       "name": "Rediscover",
       "url": "https://open.spotify.com/track/52SROlX6fPqfrqZsUYkA3j"
+    },
+    {
+      "added_at": "2024-10-07 13:37:51",
+      "album": {
+        "name": "Run to the Hills",
+        "url": "https://open.spotify.com/album/0Qe7iUuwEGvHoQD5xjrJ3E"
+      },
+      "artists": [
+        {
+          "name": "Kennedy One",
+          "url": "https://open.spotify.com/artist/1hpzLRLwA1Ew5WCrj8lG5l"
+        }
+      ],
+      "duration_ms": 228387,
+      "name": "Run to the Hills",
+      "url": "https://open.spotify.com/track/5IgksugLBYIu23nqS513RP"
     },
     {
       "added_at": "2024-10-04 11:57:28",
@@ -705,6 +789,22 @@
       "url": "https://open.spotify.com/track/02004T36dT91vxe7vfdRa1"
     },
     {
+      "added_at": "2024-10-07 13:36:51",
+      "album": {
+        "name": "Closer Into Me",
+        "url": "https://open.spotify.com/album/1cd7iF3L2PoHSw7oZrdLqf"
+      },
+      "artists": [
+        {
+          "name": "Aspirin",
+          "url": "https://open.spotify.com/artist/5hY7AfoaAPsONSegTBnxjw"
+        }
+      ],
+      "duration_ms": 183307,
+      "name": "Closer Into Me",
+      "url": "https://open.spotify.com/track/1QYTSkpk4NdPgQfk4SSS6Y"
+    },
+    {
       "added_at": "2024-10-04 11:59:41",
       "album": {
         "name": "Spiritual Driveby",
@@ -755,6 +855,22 @@
       "duration_ms": 195000,
       "name": "Juno",
       "url": "https://open.spotify.com/track/3qcykfPph4VCG7zMdJfz5G"
+    },
+    {
+      "added_at": "2024-10-07 13:36:50",
+      "album": {
+        "name": "A Beast Of Himself",
+        "url": "https://open.spotify.com/album/7Gciq9aKMIxnZCfPwszkj5"
+      },
+      "artists": [
+        {
+          "name": "Bone Nest",
+          "url": "https://open.spotify.com/artist/0xWjVpyUgTeXnYWScqBEdq"
+        }
+      ],
+      "duration_ms": 184077,
+      "name": "What To Say",
+      "url": "https://open.spotify.com/track/5OJsgdlhF4FVPVSx50kkSS"
     },
     {
       "added_at": "2024-10-04 12:01:01",

@@ -4,7 +4,7 @@
 
 > Celebra con sazón\. A holiday playlist with tropical flavor.
 
-179 songs - 12 hr 12 min
+180 songs - 12 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [A Beber To' el Mundo](https://open.spotify.com/track/5omSkTlNd7p7g7rSa7HqQL) | [Caña Brava](https://open.spotify.com/artist/14C1tQKnUFJiWwKAp2Umga) | [Navidad en Merengue \(Versión Editada\)](https://open.spotify.com/album/6iJ0AdHHXnP1L0gLhi4e1M) | 5:23 | 2023-12-19 | 2024-10-05 |
 | [Abreme La Puerta](https://open.spotify.com/track/1ZkZDxTpCQVy4dZCq4oTG8) | [Toño Rosario](https://open.spotify.com/artist/4DjY0CaKAejJgghVHTaOUy) | [Lo Mejor De...Toño Rosario](https://open.spotify.com/album/475agtJk3uN4dSg38QKx5t) | 4:11 | 2023-08-16 |  |
 | [Adornemos los Salones](https://open.spotify.com/track/2nvVj2x4cwZBY8c6b2KYP1) | [Milly Quezada](https://open.spotify.com/artist/3tuushgEVJSXAkxR4ZxOhJ), [Manny Cruz](https://open.spotify.com/artist/3C6PJhao839YVg9YyV16lA), [Caribe Wonderland](https://open.spotify.com/artist/4CBkIh7uqfe3wKKywz1H0j) | [Adornemos los Salones](https://open.spotify.com/album/2mKwTr6J2IKyioMh2vNlfE) | 3:10 | 2022-12-18 |  |
+| [Aguacero de Alegria](https://open.spotify.com/track/2ppNeOAANWOgQ4y5nu2dBH) | [Juan Jose](https://open.spotify.com/artist/4kYrybgGUDOoUaH7IVbj0p), [San Juan Habana](https://open.spotify.com/artist/7x7m0YAw5C1qyKFW9433e6), [Andy Montañez](https://open.spotify.com/artist/6RMWFexOHVj5ctezneQH5v) | [Navidad Boricua 2018](https://open.spotify.com/album/00rBrIYK1DRqji3doAcHms) | 4:44 | 2023-12-19 |  |
 | [Aguinaldo Navideño](https://open.spotify.com/track/3rFwtBGwM0kxJKGfh5TmXt) | [Bobby Cruz](https://open.spotify.com/artist/0JIMhbNg4VwToE3unSL3C4), [Ricardo "Richie" Ray](https://open.spotify.com/artist/2spUXl3eKq2URO97haSzAc) | [Diciembre Colombiano](https://open.spotify.com/album/1k4QeqeqrihPty4qrv9Kqa) | 4:13 | 2023-10-13 |  |
 | [Aguinaldo Navideño](https://open.spotify.com/track/7v1iZfK6g60yDZQZFo4aDG) | [Kinito Mendez](https://open.spotify.com/artist/1dlQ9EIUyQvXZ3l05YMQdT), [Frank Cruz](https://open.spotify.com/artist/43lbq6HwbuHXd1FB8BWzmR) | [Feliz Navidad](https://open.spotify.com/album/76WNnJhSCahBqknf9tT08w) | 4:44 | 2023-12-19 |  |
 | [Aires de Navidad](https://open.spotify.com/track/3xfLyWbMNe5PAcN82avEEL) | [Adrienne Houghton](https://open.spotify.com/artist/3v2b4owGaN9d2bSdsZMWxR), [Tito Nieves](https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m) | [New Tradiciones](https://open.spotify.com/album/5v1TBoDdIpAYApHIESFKVl) | 3:30 | 2022-11-25 | 2023-10-19 |
@@ -165,7 +166,7 @@
 | [Popurrí Navideño / Estrella De Oriente \(De Tierras Lejanas\) / Noche De Paz / La Virgen María / La Tierra Mía](https://open.spotify.com/track/4b6c7ugOlWaVBUmCElgImW) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Asalto Navideño](https://open.spotify.com/album/4TnqBA58KybPV53g95LHLe) | 3:36 | 2022-11-25 |  |
 | [Quiero Parranda](https://open.spotify.com/track/2xstbSuSPHX0VbJrznFV32) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Memorias de Navidad](https://open.spotify.com/album/1zTDuNOo7R4b1u3fjSL5w5) | 3:58 | 2022-11-25 |  |
 | [Rebelión](https://open.spotify.com/track/4sm3mdqmSqhG8KU79rVOY8) | [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg), [La Verdad](https://open.spotify.com/artist/54h3j85gGrqCsfK8D0RuUM) | [32 Cañonazos](https://open.spotify.com/album/6ubTK1qVLWQSblspjFxtZn) | 6:18 | 2022-11-25 |  |
-| [Salsa Pa' Tu Lechon](https://open.spotify.com/track/3yOPYZEE6xvCu8U7jtiPPN) | [Yoskar Sarante](https://open.spotify.com/artist/5VcamBo0Goh74iFQDqj6Q4) | [Fiesta en Navidad 35 Exitos](https://open.spotify.com/album/4czT2iX93Cox7I0HdEYzUU) | 4:08 | 2023-12-19 |  |
+| [Salsa Pa' Tu Lechon](https://open.spotify.com/track/3yOPYZEE6xvCu8U7jtiPPN) | [Yoskar Sarante](https://open.spotify.com/artist/5VcamBo0Goh74iFQDqj6Q4) | [Fiesta en Navidad 35 Exitos](https://open.spotify.com/album/4czT2iX93Cox7I0HdEYzUU) | 4:08 | 2023-12-19 | 2024-10-08 |
 | [Salsa Pa'tu Lechón](https://open.spotify.com/track/1KuOA8toJAGV712kyDoqsW) | [Jhonny Ventura](https://open.spotify.com/artist/0tm86IfBQ2AiJu4tyfgSSz) | [Merengues Navideños Bailables](https://open.spotify.com/album/5CtGEgu6G27rXuXYetWkmO) | 3:30 | 2022-11-25 | 2023-08-17 |
 | [Santa Claus Llegó A La Ciudad](https://open.spotify.com/track/2MSDziLwLLzdFQVAPnoQqi) | [KYEN?ES?](https://open.spotify.com/artist/7clZc3rkBtBtHiZtwmkXXx) | [Somos Navidad](https://open.spotify.com/album/3N4AKHUNLfkdLpPTsBpWea) | 2:08 | 2022-12-13 | 2023-12-03 |
 | [Santa Claus Llegó a La Ciudad](https://open.spotify.com/track/0IrKbfhVKW0xpPEzRDeSUb) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Navidades Luis Miguel](https://open.spotify.com/album/0tu9kY2tDMuuuI6GtSDH9i) | 1:55 | 2022-11-25 | 2023-11-18 |

@@ -4,7 +4,7 @@
 
 > pra entrar e ficar na onda
 
-229 songs - 9 hr 15 min
+230 songs - 9 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,6 +139,7 @@
 | [MECA](https://open.spotify.com/track/5UROAgl5wVdmqvVY7kW49B) | [MC Igu](https://open.spotify.com/artist/5K854sjdzabwOy9KltU3Po), [N.A.N.A.](https://open.spotify.com/artist/4W7msxIdip7RH18eBaToND) | [Zzz, Vol\. 2](https://open.spotify.com/album/5qg05BeqESDoMFCYZl3Od0) | 2:09 | 2023-11-24 | 2024-01-27 |
 | [MECA](https://open.spotify.com/track/761OuW283iJmVUMwe03iGY) | [MC Igu](https://open.spotify.com/artist/5K854sjdzabwOy9KltU3Po), [N.A.N.A.](https://open.spotify.com/artist/4W7msxIdip7RH18eBaToND) | [Zzz, Vol\. 2](https://open.spotify.com/album/51kX2muIvK8Z8I8mb9H1Y6) | 2:09 | 2023-11-17 | 2023-11-30 |
 | [Merci](https://open.spotify.com/track/5f2TCjWdZmyKP8IeICWgoX) | [Interrogação](https://open.spotify.com/artist/7qeZP3FjDEfMEYM5KI4PNR), [Wdz9](https://open.spotify.com/artist/1cDJ8M62ZshC32ZoVgOKds) | [Merci](https://open.spotify.com/album/6agc7BZFOFlh6SU7o09DHo) | 2:40 | 2023-09-15 | 2023-11-18 |
+| [Metade](https://open.spotify.com/track/1iuUeZ8aHteYKTypUpHU8M) | [Big Bllakk](https://open.spotify.com/artist/2676LWh4GgqdAaYkRpqTcd) | [MUITA LUTA MIXTAPE](https://open.spotify.com/album/2mQYx7MIWjcV3DuUvCVeyD) | 2:08 | 2024-10-07 |  |
 | [Mexe Mexe](https://open.spotify.com/track/0PKOVSMvvmAvQaVgtZVt6n) | [LotH](https://open.spotify.com/artist/15A5puZmE1MlaK7aFWfL0a), [Yung Drum](https://open.spotify.com/artist/18jsmx1hcUmGvZ0IKWG6KO), [EarKid](https://open.spotify.com/artist/7HgyUDF9EbhOCBc0l29PD8) | [Tipo I\-Doser](https://open.spotify.com/album/67h12hjNOZvIDtJzDijc15) | 4:20 | 2024-02-02 | 2024-03-09 |
 | [MISS YOU](https://open.spotify.com/track/04kFjJ9hiRgNLfjF4nQAGA) | [TRXVELER](https://open.spotify.com/artist/31VaidRoI1NnHfyY8SxSL7), [da99y](https://open.spotify.com/artist/78p7U6WueOjS7mtvSCBnl2), [acronym.](https://open.spotify.com/artist/5GFRLmuyDjzaobJ5xRFAU0) | [MISS YOU](https://open.spotify.com/album/2gmWmAfNYARlwqLu58Ufuq) | 1:50 | 2024-04-19 | 2024-06-01 |
 | [Moda de Favela](https://open.spotify.com/track/4y3MAr4Q3dhGHuZt8X6RxG) | [Danzo](https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE), [Labbel Rec](https://open.spotify.com/artist/4tfQzFEhNTBnKUrYueeLKX), [Greezy](https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB) | [Moda de Favela](https://open.spotify.com/album/5gHa9wnNiEo2kZzY0HvFFj) | 1:53 | 2023-09-15 |  |

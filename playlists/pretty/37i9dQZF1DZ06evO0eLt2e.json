@@ -1,12 +1,12 @@
 {
-  "description": "This is: Kris Kristofferson. Alle wichtigen Tracks in einer Playlist.",
-  "num_followers": 28736,
+  "description": "This is Kris Kristofferson. The essential tracks, all in one playlist.",
+  "num_followers": 28798,
   "original_name": "This Is Kris Kristofferson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwCBgAAAAAD8HFuNi+k66bCvzCiqzYB6",
+  "snapshot_id": "ZwHTAAAAAAAaYVASzsvD8eZOjLzY5WJD",
   "tracks": [
     {
       "added_at": null,
@@ -851,6 +851,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Closer to the Bone",
+        "url": "https://open.spotify.com/album/04rij6WooSg0tyBU7rw8Cz"
+      },
+      "artists": [
+        {
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        }
+      ],
+      "duration_ms": 152586,
+      "name": "Closer to the Bone",
+      "url": "https://open.spotify.com/track/4sS68UKofTv1lPsUuwh6Sf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "16 Biggest Hits",
+        "url": "https://open.spotify.com/album/4V0B2o4rSXh7CwzqbDX6xo"
+      },
+      "artists": [
+        {
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        }
+      ],
+      "duration_ms": 202520,
+      "name": "For The Good Times",
+      "url": "https://open.spotify.com/track/36lqmbGFwogLWwoOzBhrMv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Highwayman 2",
         "url": "https://open.spotify.com/album/7ftmg3XnQcA0bzbWolYzOn"
       },
@@ -883,8 +915,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "16 Biggest Hits",
-        "url": "https://open.spotify.com/album/4V0B2o4rSXh7CwzqbDX6xo"
+        "name": "The Essential Kris Kristofferson",
+        "url": "https://open.spotify.com/album/0gGq5EiYpLZaJNYwEoPRY3"
       },
       "artists": [
         {
@@ -892,25 +924,9 @@
           "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
         }
       ],
-      "duration_ms": 202520,
-      "name": "For The Good Times",
-      "url": "https://open.spotify.com/track/36lqmbGFwogLWwoOzBhrMv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Closer to the Bone",
-        "url": "https://open.spotify.com/album/04rij6WooSg0tyBU7rw8Cz"
-      },
-      "artists": [
-        {
-          "name": "Kris Kristofferson",
-          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
-        }
-      ],
-      "duration_ms": 152586,
-      "name": "Closer to the Bone",
-      "url": "https://open.spotify.com/track/4sS68UKofTv1lPsUuwh6Sf"
+      "duration_ms": 282640,
+      "name": "To Beat The Devil",
+      "url": "https://open.spotify.com/track/0m3cgYxMSWkAXH42DnabTq"
     },
     {
       "added_at": null,
@@ -931,18 +947,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Essential Kris Kristofferson",
-        "url": "https://open.spotify.com/album/0gGq5EiYpLZaJNYwEoPRY3"
+        "name": "16 Biggest Hits",
+        "url": "https://open.spotify.com/album/4V0B2o4rSXh7CwzqbDX6xo"
       },
       "artists": [
         {
           "name": "Kris Kristofferson",
           "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        },
+        {
+          "name": "Rita Coolidge",
+          "url": "https://open.spotify.com/artist/1vnIL4DMlivP55ioM6KitW"
         }
       ],
-      "duration_ms": 282640,
-      "name": "To Beat The Devil",
-      "url": "https://open.spotify.com/track/0m3cgYxMSWkAXH42DnabTq"
+      "duration_ms": 190240,
+      "name": "I'd Rather Be Sorry - duet with Rita Coolidge",
+      "url": "https://open.spotify.com/track/05v0aaMIOZvbo43TBqlUgC"
     },
     {
       "added_at": null,
@@ -979,22 +999,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "16 Biggest Hits",
-        "url": "https://open.spotify.com/album/4V0B2o4rSXh7CwzqbDX6xo"
-      },
-      "artists": [
-        {
-          "name": "Kris Kristofferson",
-          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
-        }
-      ],
-      "duration_ms": 185560,
-      "name": "Jody and the Kid",
-      "url": "https://open.spotify.com/track/7L9Zf61ArhPtBhL3N08Lc3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Closer to the Bone",
         "url": "https://open.spotify.com/album/04rij6WooSg0tyBU7rw8Cz"
       },
@@ -1027,6 +1031,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "16 Biggest Hits",
+        "url": "https://open.spotify.com/album/4V0B2o4rSXh7CwzqbDX6xo"
+      },
+      "artists": [
+        {
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        }
+      ],
+      "duration_ms": 185560,
+      "name": "Jody and the Kid",
+      "url": "https://open.spotify.com/track/7L9Zf61ArhPtBhL3N08Lc3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Live - American Outlaws",
         "url": "https://open.spotify.com/album/3chopONx6vQ8Ky4q5xqtbR"
       },
@@ -1055,26 +1075,6 @@
       "duration_ms": 219106,
       "name": "Folsom Prison Blues - Live at Nassau Coliseum, Uniondale, NY - March 1990",
       "url": "https://open.spotify.com/track/0NTN3g4W3DMqwA8Cy0KrCK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "16 Biggest Hits",
-        "url": "https://open.spotify.com/album/4V0B2o4rSXh7CwzqbDX6xo"
-      },
-      "artists": [
-        {
-          "name": "Kris Kristofferson",
-          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
-        },
-        {
-          "name": "Rita Coolidge",
-          "url": "https://open.spotify.com/artist/1vnIL4DMlivP55ioM6KitW"
-        }
-      ],
-      "duration_ms": 190240,
-      "name": "I'd Rather Be Sorry - duet with Rita Coolidge",
-      "url": "https://open.spotify.com/track/05v0aaMIOZvbo43TBqlUgC"
     },
     {
       "added_at": null,
@@ -1115,22 +1115,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Surreal Thing",
-        "url": "https://open.spotify.com/album/5zzpsikgJ2uwAAEduiHG88"
-      },
-      "artists": [
-        {
-          "name": "Kris Kristofferson",
-          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
-        }
-      ],
-      "duration_ms": 211653,
-      "name": "If You Don't Like Hank Williams",
-      "url": "https://open.spotify.com/track/2O01W7mcUZMhA8WmA3k44X"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "16 Biggest Hits",
         "url": "https://open.spotify.com/album/4V0B2o4rSXh7CwzqbDX6xo"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 156120,
       "name": "Come Sundown",
       "url": "https://open.spotify.com/track/2uTgZswEa3wXQGMb0GyE4I"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Surreal Thing",
+        "url": "https://open.spotify.com/album/5zzpsikgJ2uwAAEduiHG88"
+      },
+      "artists": [
+        {
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        }
+      ],
+      "duration_ms": 211653,
+      "name": "If You Don't Like Hank Williams",
+      "url": "https://open.spotify.com/track/2O01W7mcUZMhA8WmA3k44X"
     },
     {
       "added_at": null,
@@ -1179,6 +1179,22 @@
       "duration_ms": 154013,
       "name": "Gettin' By, High and Strange",
       "url": "https://open.spotify.com/track/1GJDWrM6Z8YZzrLDeDSo7J"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "16 Biggest Hits",
+        "url": "https://open.spotify.com/album/4V0B2o4rSXh7CwzqbDX6xo"
+      },
+      "artists": [
+        {
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        }
+      ],
+      "duration_ms": 170093,
+      "name": "Once More With Feeling",
+      "url": "https://open.spotify.com/track/609YKrV5yz6V9e876motcJ"
     },
     {
       "added_at": null,
@@ -1271,22 +1287,6 @@
       "duration_ms": 241640,
       "name": "Boulder To Birmingham - Live",
       "url": "https://open.spotify.com/track/7BdOM9rzbOeyo7T1qZPMgQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "16 Biggest Hits",
-        "url": "https://open.spotify.com/album/4V0B2o4rSXh7CwzqbDX6xo"
-      },
-      "artists": [
-        {
-          "name": "Kris Kristofferson",
-          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
-        }
-      ],
-      "duration_ms": 170093,
-      "name": "Once More With Feeling",
-      "url": "https://open.spotify.com/track/609YKrV5yz6V9e876motcJ"
     },
     {
       "added_at": null,

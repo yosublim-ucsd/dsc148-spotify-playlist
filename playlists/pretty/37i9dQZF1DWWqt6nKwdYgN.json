@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Lo m\u00e1s fresco del hip-hop en espa\u00f1ol! Delfina Dib en portada. ",
-  "num_followers": 14983,
+  "num_followers": 14987,
   "original_name": "Rimas Frescas ",
   "owner": {
     "name": "Spotify",
@@ -399,6 +399,26 @@
     {
       "added_at": "2024-10-04 06:00:00",
       "album": {
+        "name": "NASSY",
+        "url": "https://open.spotify.com/album/4u0VOseC8JpZJ76xaVNLlo"
+      },
+      "artists": [
+        {
+          "name": "Delfina Dib",
+          "url": "https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ"
+        },
+        {
+          "name": "Dr. Ryo",
+          "url": "https://open.spotify.com/artist/70pGSyjPtM1XYHV4T5zOAp"
+        }
+      ],
+      "duration_ms": 142767,
+      "name": "NASSY",
+      "url": "https://open.spotify.com/track/4nSHTVJ02gfFOlsaeXLtgM"
+    },
+    {
+      "added_at": "2024-10-04 06:00:00",
+      "album": {
         "name": "T\u00e9 Con Miel",
         "url": "https://open.spotify.com/album/5fK00gfjMpU3hRUsIC9ryP"
       },
@@ -431,26 +451,6 @@
       "duration_ms": 210731,
       "name": "Mis Demonios",
       "url": "https://open.spotify.com/track/2bt4ICyaBAmqjfSjkMcNtx"
-    },
-    {
-      "added_at": "2024-10-04 06:00:00",
-      "album": {
-        "name": "NASSY",
-        "url": "https://open.spotify.com/album/4u0VOseC8JpZJ76xaVNLlo"
-      },
-      "artists": [
-        {
-          "name": "Delfina Dib",
-          "url": "https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ"
-        },
-        {
-          "name": "Dr. Ryo",
-          "url": "https://open.spotify.com/artist/70pGSyjPtM1XYHV4T5zOAp"
-        }
-      ],
-      "duration_ms": 142767,
-      "name": "NASSY",
-      "url": "https://open.spotify.com/track/4nSHTVJ02gfFOlsaeXLtgM"
     },
     {
       "added_at": "2024-10-04 06:00:00",
@@ -667,22 +667,6 @@
     {
       "added_at": "2024-10-04 06:00:00",
       "album": {
-        "name": "La Laif",
-        "url": "https://open.spotify.com/album/6BqhuS0nwbKStk4xTjzr4v"
-      },
-      "artists": [
-        {
-          "name": "Solitario Mondragon",
-          "url": "https://open.spotify.com/artist/4KXpp5lz2MakNFcTszi2B9"
-        }
-      ],
-      "duration_ms": 227571,
-      "name": "La Laif",
-      "url": "https://open.spotify.com/track/7uItIg7h3ahTcTM670Z0pl"
-    },
-    {
-      "added_at": "2024-10-04 06:00:00",
-      "album": {
         "name": "PAC-MAN",
         "url": "https://open.spotify.com/album/48EaiFxq0j5dywhlAQNYd3"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 209759,
       "name": "PAC-MAN",
       "url": "https://open.spotify.com/track/10mihya6eHDgKZwbTowXiQ"
+    },
+    {
+      "added_at": "2024-10-04 06:00:00",
+      "album": {
+        "name": "La Laif",
+        "url": "https://open.spotify.com/album/6BqhuS0nwbKStk4xTjzr4v"
+      },
+      "artists": [
+        {
+          "name": "Solitario Mondragon",
+          "url": "https://open.spotify.com/artist/4KXpp5lz2MakNFcTszi2B9"
+        }
+      ],
+      "duration_ms": 227571,
+      "name": "La Laif",
+      "url": "https://open.spotify.com/track/7uItIg7h3ahTcTM670Z0pl"
     },
     {
       "added_at": "2024-10-04 06:00:00",
@@ -1143,6 +1143,26 @@
     {
       "added_at": "2024-10-04 06:00:00",
       "album": {
+        "name": "You Know",
+        "url": "https://open.spotify.com/album/5aign2FhwyRkicO7SO0Xrq"
+      },
+      "artists": [
+        {
+          "name": "Pielroja",
+          "url": "https://open.spotify.com/artist/1g58TQnLHp7eOEnYXfa63k"
+        },
+        {
+          "name": "Alka Produce",
+          "url": "https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q"
+        }
+      ],
+      "duration_ms": 180906,
+      "name": "You Know",
+      "url": "https://open.spotify.com/track/5XH4xq8TTe9yRoldMjyDlh"
+    },
+    {
+      "added_at": "2024-10-04 06:00:00",
+      "album": {
         "name": "UFC",
         "url": "https://open.spotify.com/album/7J0KRhWnqJhbMIet5wU2sY"
       },
@@ -1163,26 +1183,6 @@
       "duration_ms": 230000,
       "name": "UFC",
       "url": "https://open.spotify.com/track/55hHb31ZbpMtEMh45q0b7p"
-    },
-    {
-      "added_at": "2024-10-04 06:00:00",
-      "album": {
-        "name": "You Know",
-        "url": "https://open.spotify.com/album/5aign2FhwyRkicO7SO0Xrq"
-      },
-      "artists": [
-        {
-          "name": "Pielroja",
-          "url": "https://open.spotify.com/artist/1g58TQnLHp7eOEnYXfa63k"
-        },
-        {
-          "name": "Alka Produce",
-          "url": "https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q"
-        }
-      ],
-      "duration_ms": 180906,
-      "name": "You Know",
-      "url": "https://open.spotify.com/track/5XH4xq8TTe9yRoldMjyDlh"
     },
     {
       "added_at": "2024-10-04 06:00:00",
@@ -1227,30 +1227,6 @@
     {
       "added_at": "2024-10-04 06:00:00",
       "album": {
-        "name": "FAMOSA",
-        "url": "https://open.spotify.com/album/3vcZDhuDxPGtUNIutctO9Q"
-      },
-      "artists": [
-        {
-          "name": "KYA",
-          "url": "https://open.spotify.com/artist/1D1DNu1iQq7j7hFOlJZJyP"
-        },
-        {
-          "name": "Akatumamy",
-          "url": "https://open.spotify.com/artist/38DOU02BQmlcooCqxr3aSd"
-        },
-        {
-          "name": "Nass G",
-          "url": "https://open.spotify.com/artist/4HVaguMub30IBWNwP1k6WF"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "FAMOSA",
-      "url": "https://open.spotify.com/track/0OPNy6nWFwiMN9Sm4gsQTe"
-    },
-    {
-      "added_at": "2024-10-04 06:00:00",
-      "album": {
         "name": "Bushido: Kenjutsu",
         "url": "https://open.spotify.com/album/0Y24SAEIJFvWxttuT7QOhd"
       },
@@ -1271,6 +1247,30 @@
       "duration_ms": 228837,
       "name": "Lejos",
       "url": "https://open.spotify.com/track/6k20aZy1k6SXYGA94R0Nj9"
+    },
+    {
+      "added_at": "2024-10-04 06:00:00",
+      "album": {
+        "name": "FAMOSA",
+        "url": "https://open.spotify.com/album/3vcZDhuDxPGtUNIutctO9Q"
+      },
+      "artists": [
+        {
+          "name": "KYA",
+          "url": "https://open.spotify.com/artist/1D1DNu1iQq7j7hFOlJZJyP"
+        },
+        {
+          "name": "Akatumamy",
+          "url": "https://open.spotify.com/artist/38DOU02BQmlcooCqxr3aSd"
+        },
+        {
+          "name": "Nass G",
+          "url": "https://open.spotify.com/artist/4HVaguMub30IBWNwP1k6WF"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "FAMOSA",
+      "url": "https://open.spotify.com/track/0OPNy6nWFwiMN9Sm4gsQTe"
     },
     {
       "added_at": "2024-10-04 06:00:00",
@@ -1395,26 +1395,18 @@
     {
       "added_at": "2024-10-04 06:00:00",
       "album": {
-        "name": "NADA QUE TEMER",
-        "url": "https://open.spotify.com/album/667qy1XX2SH3pId8GwW0zJ"
+        "name": "MC Davo En Vivo: Parte 1",
+        "url": "https://open.spotify.com/album/22nziBYtQx99cuPNviBuB0"
       },
       "artists": [
         {
-          "name": "MC Ari",
-          "url": "https://open.spotify.com/artist/4isXRQYJjFLguM6c4VoBtW"
-        },
-        {
-          "name": "El Arkeologo",
-          "url": "https://open.spotify.com/artist/6IB7haQdDZM6rdSssVRHre"
-        },
-        {
-          "name": "L'Xuasma",
-          "url": "https://open.spotify.com/artist/4lEh3rt391Jzx3edimVSBO"
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
         }
       ],
-      "duration_ms": 166829,
-      "name": "NADA QUE TEMER",
-      "url": "https://open.spotify.com/track/3nhfJrwpiU5MAjLhmfRuUg"
+      "duration_ms": 194383,
+      "name": "Adi\u00f3s - En Vivo",
+      "url": "https://open.spotify.com/track/7a4T12ZnRyt2kxA3NHgLwj"
     },
     {
       "added_at": "2024-10-04 06:00:00",
@@ -1439,18 +1431,26 @@
     {
       "added_at": "2024-10-04 06:00:00",
       "album": {
-        "name": "MC Davo En Vivo: Parte 1",
-        "url": "https://open.spotify.com/album/22nziBYtQx99cuPNviBuB0"
+        "name": "NADA QUE TEMER",
+        "url": "https://open.spotify.com/album/667qy1XX2SH3pId8GwW0zJ"
       },
       "artists": [
         {
-          "name": "MC Davo",
-          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+          "name": "MC Ari",
+          "url": "https://open.spotify.com/artist/4isXRQYJjFLguM6c4VoBtW"
+        },
+        {
+          "name": "El Arkeologo",
+          "url": "https://open.spotify.com/artist/6IB7haQdDZM6rdSssVRHre"
+        },
+        {
+          "name": "L'Xuasma",
+          "url": "https://open.spotify.com/artist/4lEh3rt391Jzx3edimVSBO"
         }
       ],
-      "duration_ms": 194383,
-      "name": "Adi\u00f3s - En Vivo",
-      "url": "https://open.spotify.com/track/7a4T12ZnRyt2kxA3NHgLwj"
+      "duration_ms": 166829,
+      "name": "NADA QUE TEMER",
+      "url": "https://open.spotify.com/track/3nhfJrwpiU5MAjLhmfRuUg"
     },
     {
       "added_at": "2024-10-04 06:00:00",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2024-10-04 06:00:00",
       "album": {
-        "name": "El Juanito Y El Mu\u00f1equia",
-        "url": "https://open.spotify.com/album/7CC5r2ibyDJUtoGHbxRCs6"
-      },
-      "artists": [
-        {
-          "name": "Baby Syko",
-          "url": "https://open.spotify.com/artist/3i6sJo42FddEYbBoBmwgqY"
-        }
-      ],
-      "duration_ms": 214569,
-      "name": "El Juanito Y El Mu\u00f1equia",
-      "url": "https://open.spotify.com/track/5ruRhEiDPP7ysu4kKEnZp3"
-    },
-    {
-      "added_at": "2024-10-04 06:00:00",
-      "album": {
         "name": "Cxrtier",
         "url": "https://open.spotify.com/album/18yDCznNglFexmWgTQJAeC"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 244878,
       "name": "Cxrtier",
       "url": "https://open.spotify.com/track/4d1VlTfnv3hn488JmtH3h7"
+    },
+    {
+      "added_at": "2024-10-04 06:00:00",
+      "album": {
+        "name": "El Juanito Y El Mu\u00f1equia",
+        "url": "https://open.spotify.com/album/7CC5r2ibyDJUtoGHbxRCs6"
+      },
+      "artists": [
+        {
+          "name": "Baby Syko",
+          "url": "https://open.spotify.com/artist/3i6sJo42FddEYbBoBmwgqY"
+        }
+      ],
+      "duration_ms": 214569,
+      "name": "El Juanito Y El Mu\u00f1equia",
+      "url": "https://open.spotify.com/track/5ruRhEiDPP7ysu4kKEnZp3"
     },
     {
       "added_at": "2024-10-04 06:00:00",
@@ -1823,6 +1823,26 @@
     {
       "added_at": "2024-10-04 06:00:00",
       "album": {
+        "name": "Se\u00f1ales de Humo",
+        "url": "https://open.spotify.com/album/1525dAl7d9a6LOmTfsh6BE"
+      },
+      "artists": [
+        {
+          "name": "Canto Quetzal",
+          "url": "https://open.spotify.com/artist/5q2JMx13gkrD62aHfBgoUa"
+        },
+        {
+          "name": "Lengualerta",
+          "url": "https://open.spotify.com/artist/451HB6ulceS82BVD3cncjW"
+        }
+      ],
+      "duration_ms": 247741,
+      "name": "Se\u00f1ales de Humo",
+      "url": "https://open.spotify.com/track/4fKB4aYQsMDfQjZQ2NskwW"
+    },
+    {
+      "added_at": "2024-10-04 06:00:00",
+      "album": {
         "name": "Sicariato & Robo",
         "url": "https://open.spotify.com/album/4Pzxur3KYtbr5iXVmp9B3L"
       },
@@ -1847,26 +1867,6 @@
       "duration_ms": 250105,
       "name": "Sicariato & Robo",
       "url": "https://open.spotify.com/track/3OQzbOfl3KsIHNUOGYZCg1"
-    },
-    {
-      "added_at": "2024-10-04 06:00:00",
-      "album": {
-        "name": "Se\u00f1ales de Humo",
-        "url": "https://open.spotify.com/album/1525dAl7d9a6LOmTfsh6BE"
-      },
-      "artists": [
-        {
-          "name": "Canto Quetzal",
-          "url": "https://open.spotify.com/artist/5q2JMx13gkrD62aHfBgoUa"
-        },
-        {
-          "name": "Lengualerta",
-          "url": "https://open.spotify.com/artist/451HB6ulceS82BVD3cncjW"
-        }
-      ],
-      "duration_ms": 247741,
-      "name": "Se\u00f1ales de Humo",
-      "url": "https://open.spotify.com/track/4fKB4aYQsMDfQjZQ2NskwW"
     },
     {
       "added_at": "2024-10-04 06:00:00",

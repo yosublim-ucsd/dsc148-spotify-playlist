@@ -1,6 +1,6 @@
 {
   "description": "Soak up these laid-back jams. ",
-  "num_followers": 1066217,
+  "num_followers": 1066175,
   "original_name": "Beach Vibes",
   "owner": {
     "name": "Spotify",
@@ -763,6 +763,26 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
+        "name": "Sunday Vibe",
+        "url": "https://open.spotify.com/album/1MXR7QUUBOwbMGVUqE09pc"
+      },
+      "artists": [
+        {
+          "name": "Cisco Adler",
+          "url": "https://open.spotify.com/artist/23apFYuBTpFemqLDn8ViLW"
+        },
+        {
+          "name": "G. Love & Special Sauce",
+          "url": "https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89"
+        }
+      ],
+      "duration_ms": 186760,
+      "name": "Sunday Vibe",
+      "url": "https://open.spotify.com/track/4tNYuLrlxTb8DSVL3bO9F1"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
         "name": "Set Yourself Free",
         "url": "https://open.spotify.com/album/47OXVPMtjTrnDwnuptinJr"
       },
@@ -791,26 +811,6 @@
       "duration_ms": 196197,
       "name": "If That's Ok",
       "url": "https://open.spotify.com/track/7wQ9DeZTB7OJ8rnrxeUHSl"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Sunday Vibe",
-        "url": "https://open.spotify.com/album/1MXR7QUUBOwbMGVUqE09pc"
-      },
-      "artists": [
-        {
-          "name": "Cisco Adler",
-          "url": "https://open.spotify.com/artist/23apFYuBTpFemqLDn8ViLW"
-        },
-        {
-          "name": "G. Love & Special Sauce",
-          "url": "https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89"
-        }
-      ],
-      "duration_ms": 186760,
-      "name": "Sunday Vibe",
-      "url": "https://open.spotify.com/track/4tNYuLrlxTb8DSVL3bO9F1"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -899,6 +899,22 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/4pBLC0RkDw24WL5QyDLn6s"
+      },
+      "artists": [
+        {
+          "name": "Stick Figure",
+          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
+        }
+      ],
+      "duration_ms": 250397,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/7LYP8spevMtQh0c2lUVxln"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
         "name": "Rush Hour (with Bryce Vine)",
         "url": "https://open.spotify.com/album/6RUyQNGZR790T68PN3NUHi"
       },
@@ -915,22 +931,6 @@
       "duration_ms": 188644,
       "name": "Rush Hour (with Bryce Vine)",
       "url": "https://open.spotify.com/track/6aTDSU2O7IuA0qAKb36sVm"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Paradise",
-        "url": "https://open.spotify.com/album/4pBLC0RkDw24WL5QyDLn6s"
-      },
-      "artists": [
-        {
-          "name": "Stick Figure",
-          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
-        }
-      ],
-      "duration_ms": 250397,
-      "name": "Paradise",
-      "url": "https://open.spotify.com/track/7LYP8spevMtQh0c2lUVxln"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1003,22 +1003,18 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Pacific Coast Highway (with Trevor Hall)",
-        "url": "https://open.spotify.com/album/2KzhabL9zxpSnPL6cq00Nc"
+        "name": "Effection",
+        "url": "https://open.spotify.com/album/7DRW2mILmVTbyitwdNBdzU"
       },
       "artists": [
         {
-          "name": "The Hip Abduction",
-          "url": "https://open.spotify.com/artist/5V46QXboFTCK5MP40SwVRK"
-        },
-        {
-          "name": "Trevor Hall",
-          "url": "https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8"
+          "name": "Mihali",
+          "url": "https://open.spotify.com/artist/1GJKMYNEIsLbRfS3AyS4YV"
         }
       ],
-      "duration_ms": 227440,
-      "name": "Pacific Coast Highway (with Trevor Hall)",
-      "url": "https://open.spotify.com/track/6hazTlTm7MKamJWriYDa13"
+      "duration_ms": 209250,
+      "name": "Digital Heaven",
+      "url": "https://open.spotify.com/track/5V7ge7ltQ3LTUXNNcRVWqw"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1043,18 +1039,38 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Effection",
-        "url": "https://open.spotify.com/album/7DRW2mILmVTbyitwdNBdzU"
+        "name": "Pacific Coast Highway (with Trevor Hall)",
+        "url": "https://open.spotify.com/album/2KzhabL9zxpSnPL6cq00Nc"
       },
       "artists": [
         {
-          "name": "Mihali",
-          "url": "https://open.spotify.com/artist/1GJKMYNEIsLbRfS3AyS4YV"
+          "name": "The Hip Abduction",
+          "url": "https://open.spotify.com/artist/5V46QXboFTCK5MP40SwVRK"
+        },
+        {
+          "name": "Trevor Hall",
+          "url": "https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8"
         }
       ],
-      "duration_ms": 209250,
-      "name": "Digital Heaven",
-      "url": "https://open.spotify.com/track/5V7ge7ltQ3LTUXNNcRVWqw"
+      "duration_ms": 227440,
+      "name": "Pacific Coast Highway (with Trevor Hall)",
+      "url": "https://open.spotify.com/track/6hazTlTm7MKamJWriYDa13"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Greed",
+        "url": "https://open.spotify.com/album/6Ve1hXgzBAID5x42Ipfhpm"
+      },
+      "artists": [
+        {
+          "name": "Tash Sultana",
+          "url": "https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf"
+        }
+      ],
+      "duration_ms": 221870,
+      "name": "Greed",
+      "url": "https://open.spotify.com/track/08ieGNMFXGov5zk7VZ6box"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1075,22 +1091,6 @@
       "duration_ms": 151560,
       "name": "Take Me Away",
       "url": "https://open.spotify.com/track/5Cahcx215DE2oK6hemixF4"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Greed",
-        "url": "https://open.spotify.com/album/6Ve1hXgzBAID5x42Ipfhpm"
-      },
-      "artists": [
-        {
-          "name": "Tash Sultana",
-          "url": "https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf"
-        }
-      ],
-      "duration_ms": 221870,
-      "name": "Greed",
-      "url": "https://open.spotify.com/track/08ieGNMFXGov5zk7VZ6box"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Ocean Eyes",
-        "url": "https://open.spotify.com/album/5zKQRDvSP8oOvpw8fi6Bph"
-      },
-      "artists": [
-        {
-          "name": "Nick Hexum",
-          "url": "https://open.spotify.com/artist/0lXQieFzHiPaeimBBGqAXY"
-        }
-      ],
-      "duration_ms": 202288,
-      "name": "Ocean Eyes",
-      "url": "https://open.spotify.com/track/1x9oZ6w67OMi1z6WoA6K2y"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Mood Swing",
         "url": "https://open.spotify.com/album/0vu3HrudrHm4M0zMIfAMzY"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 206829,
       "name": "Blacklist (with Matisyahu)",
       "url": "https://open.spotify.com/track/0kVOU70xhm28oEWKISQftL"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Ocean Eyes",
+        "url": "https://open.spotify.com/album/5zKQRDvSP8oOvpw8fi6Bph"
+      },
+      "artists": [
+        {
+          "name": "Nick Hexum",
+          "url": "https://open.spotify.com/artist/0lXQieFzHiPaeimBBGqAXY"
+        }
+      ],
+      "duration_ms": 202288,
+      "name": "Ocean Eyes",
+      "url": "https://open.spotify.com/track/1x9oZ6w67OMi1z6WoA6K2y"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1375,26 +1375,18 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Sunshine State of Mind (with Shwayze & sammy rash)",
-        "url": "https://open.spotify.com/album/2cOB7dxImpX61OMq5jNrs4"
+        "name": "Celebrate",
+        "url": "https://open.spotify.com/album/34hn4C1a8hBHGuNZx5pwlY"
       },
       "artists": [
         {
-          "name": "SUM SUN",
-          "url": "https://open.spotify.com/artist/3Rkl3UpmEVgW3vEoISzJUT"
-        },
-        {
-          "name": "Shwayze",
-          "url": "https://open.spotify.com/artist/6f0hUHWLOCxCSDQMtdVAS7"
-        },
-        {
-          "name": "sammy rash",
-          "url": "https://open.spotify.com/artist/0yXuo2N8r6dzzGgnLNLGZm"
+          "name": "Rebelution",
+          "url": "https://open.spotify.com/artist/2WjvvwAX0mdWwq3aFuUdtc"
         }
       ],
-      "duration_ms": 125880,
-      "name": "Sunshine State of Mind (with Shwayze & sammy rash)",
-      "url": "https://open.spotify.com/track/0aUAIqpOHwdUvf6jLvjCjl"
+      "duration_ms": 243173,
+      "name": "Celebrate",
+      "url": "https://open.spotify.com/track/26IEVYmeFletNA10cOkdBb"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1415,18 +1407,26 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Celebrate",
-        "url": "https://open.spotify.com/album/34hn4C1a8hBHGuNZx5pwlY"
+        "name": "Sunshine State of Mind (with Shwayze & sammy rash)",
+        "url": "https://open.spotify.com/album/2cOB7dxImpX61OMq5jNrs4"
       },
       "artists": [
         {
-          "name": "Rebelution",
-          "url": "https://open.spotify.com/artist/2WjvvwAX0mdWwq3aFuUdtc"
+          "name": "SUM SUN",
+          "url": "https://open.spotify.com/artist/3Rkl3UpmEVgW3vEoISzJUT"
+        },
+        {
+          "name": "Shwayze",
+          "url": "https://open.spotify.com/artist/6f0hUHWLOCxCSDQMtdVAS7"
+        },
+        {
+          "name": "sammy rash",
+          "url": "https://open.spotify.com/artist/0yXuo2N8r6dzzGgnLNLGZm"
         }
       ],
-      "duration_ms": 243173,
-      "name": "Celebrate",
-      "url": "https://open.spotify.com/track/26IEVYmeFletNA10cOkdBb"
+      "duration_ms": 125880,
+      "name": "Sunshine State of Mind (with Shwayze & sammy rash)",
+      "url": "https://open.spotify.com/track/0aUAIqpOHwdUvf6jLvjCjl"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Inner Love Energy",
-        "url": "https://open.spotify.com/album/5oWvNTQdhL9lVri1H5RAkT"
-      },
-      "artists": [
-        {
-          "name": "MAGIC!",
-          "url": "https://open.spotify.com/artist/0DxeaLnv6SyYk2DOqkLO8c"
-        }
-      ],
-      "duration_ms": 219598,
-      "name": "I'm Rich",
-      "url": "https://open.spotify.com/track/4qkRoNFCVMST5cj2f6BG8b"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Cool & Collected",
         "url": "https://open.spotify.com/album/2yplQKzNbpJS0FiFZddgYm"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 193941,
       "name": "Cool & Collected",
       "url": "https://open.spotify.com/track/0aYdeu6ICosEexS6C6gPD7"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Inner Love Energy",
+        "url": "https://open.spotify.com/album/5oWvNTQdhL9lVri1H5RAkT"
+      },
+      "artists": [
+        {
+          "name": "MAGIC!",
+          "url": "https://open.spotify.com/artist/0DxeaLnv6SyYk2DOqkLO8c"
+        }
+      ],
+      "duration_ms": 219598,
+      "name": "I'm Rich",
+      "url": "https://open.spotify.com/track/4qkRoNFCVMST5cj2f6BG8b"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1751,22 +1751,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Prologue",
-        "url": "https://open.spotify.com/album/1mgDzGlXtOLeilxgyaltHo"
-      },
-      "artists": [
-        {
-          "name": "Hearts & Colors",
-          "url": "https://open.spotify.com/artist/3wjsrpfO6odEphTZWx45RQ"
-        }
-      ],
-      "duration_ms": 186845,
-      "name": "Love Her Anyways",
-      "url": "https://open.spotify.com/track/3B8TBGV0upObaUd9z4O9W8"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Batshit Crazy",
         "url": "https://open.spotify.com/album/1CrDdAUE0rljeRWxPKXV7G"
       },
@@ -1787,6 +1771,22 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
+        "name": "Prologue",
+        "url": "https://open.spotify.com/album/1mgDzGlXtOLeilxgyaltHo"
+      },
+      "artists": [
+        {
+          "name": "Hearts & Colors",
+          "url": "https://open.spotify.com/artist/3wjsrpfO6odEphTZWx45RQ"
+        }
+      ],
+      "duration_ms": 186845,
+      "name": "Love Her Anyways",
+      "url": "https://open.spotify.com/track/3B8TBGV0upObaUd9z4O9W8"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
         "name": "IRL",
         "url": "https://open.spotify.com/album/5SDGTrB2F8K4U95zvLjvgZ"
       },
@@ -1799,26 +1799,6 @@
       "duration_ms": 210573,
       "name": "IRL",
       "url": "https://open.spotify.com/track/2wZUb8mFWOod6tDi9BeEmU"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Dance My Stress Away (with Stephen Marley)",
-        "url": "https://open.spotify.com/album/4qAB2fZm1df7LhxPIiXAmW"
-      },
-      "artists": [
-        {
-          "name": "Demarco",
-          "url": "https://open.spotify.com/artist/0af5VM6xubf8EXKvoG35x6"
-        },
-        {
-          "name": "Stephen Marley",
-          "url": "https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1"
-        }
-      ],
-      "duration_ms": 214122,
-      "name": "Dance My Stress Away (with Stephen Marley)",
-      "url": "https://open.spotify.com/track/4YzBQfeZtXKEQABl61rT6f"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1839,6 +1819,26 @@
       "duration_ms": 210184,
       "name": "Holiday",
       "url": "https://open.spotify.com/track/0n5AYrpFpBt61EtvMOUGnE"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Dance My Stress Away (with Stephen Marley)",
+        "url": "https://open.spotify.com/album/4qAB2fZm1df7LhxPIiXAmW"
+      },
+      "artists": [
+        {
+          "name": "Demarco",
+          "url": "https://open.spotify.com/artist/0af5VM6xubf8EXKvoG35x6"
+        },
+        {
+          "name": "Stephen Marley",
+          "url": "https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1"
+        }
+      ],
+      "duration_ms": 214122,
+      "name": "Dance My Stress Away (with Stephen Marley)",
+      "url": "https://open.spotify.com/track/4YzBQfeZtXKEQABl61rT6f"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1907,22 +1907,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Every Road I'm On",
-        "url": "https://open.spotify.com/album/6gX9LgRThXGFkRMA0oCXWK"
-      },
-      "artists": [
-        {
-          "name": "Cas Haley",
-          "url": "https://open.spotify.com/artist/2MrqCKzxfyDA2mqfNWEXKy"
-        }
-      ],
-      "duration_ms": 229381,
-      "name": "Every Road I'm On",
-      "url": "https://open.spotify.com/track/4oLX41qPlebhUZdh95O23v"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Things You Can\u2019t Control",
         "url": "https://open.spotify.com/album/1kykxJG3NLwarnxrt7hb2K"
       },
@@ -1939,6 +1923,22 @@
       "duration_ms": 244184,
       "name": "Things You Can't Control",
       "url": "https://open.spotify.com/track/7Ll4gdgKSLGayN7BGhyuSh"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Every Road I'm On",
+        "url": "https://open.spotify.com/album/6gX9LgRThXGFkRMA0oCXWK"
+      },
+      "artists": [
+        {
+          "name": "Cas Haley",
+          "url": "https://open.spotify.com/artist/2MrqCKzxfyDA2mqfNWEXKy"
+        }
+      ],
+      "duration_ms": 229381,
+      "name": "Every Road I'm On",
+      "url": "https://open.spotify.com/track/4oLX41qPlebhUZdh95O23v"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -2427,22 +2427,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Work That We Do",
-        "url": "https://open.spotify.com/album/3C1lw128oB4uQjuFcEQlaj"
-      },
-      "artists": [
-        {
-          "name": "Pepper",
-          "url": "https://open.spotify.com/artist/1YK8JdPbiaMSnf4hrlBkGT"
-        }
-      ],
-      "duration_ms": 166880,
-      "name": "Work That We Do",
-      "url": "https://open.spotify.com/track/16yxo4Dq5hMohINfjX7DGz"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Raise It (with Mihali)",
         "url": "https://open.spotify.com/album/36vE2H5ZUaBSl6KaihEVDT"
       },
@@ -2459,6 +2443,22 @@
       "duration_ms": 166948,
       "name": "Raise It (with Mihali)",
       "url": "https://open.spotify.com/track/1yUVIEiQH1JVI0iHIh5NKc"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Work That We Do",
+        "url": "https://open.spotify.com/album/3C1lw128oB4uQjuFcEQlaj"
+      },
+      "artists": [
+        {
+          "name": "Pepper",
+          "url": "https://open.spotify.com/artist/1YK8JdPbiaMSnf4hrlBkGT"
+        }
+      ],
+      "duration_ms": 166880,
+      "name": "Work That We Do",
+      "url": "https://open.spotify.com/track/16yxo4Dq5hMohINfjX7DGz"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -2499,26 +2499,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "STRATOSPHERE.",
-        "url": "https://open.spotify.com/album/3ela2JUBEfNWqXt5ZCFG3P"
-      },
-      "artists": [
-        {
-          "name": "aurorawave",
-          "url": "https://open.spotify.com/artist/5ERzKZCMDsFeH15G80MFSS"
-        },
-        {
-          "name": "Nathan Aurora",
-          "url": "https://open.spotify.com/artist/6aAxZpCPuID3U1dLdobyns"
-        }
-      ],
-      "duration_ms": 170057,
-      "name": "STRATOSPHERE.",
-      "url": "https://open.spotify.com/track/24kCWaFNeIqDvFjIbqllJG"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Nothing Lasts Forever",
         "url": "https://open.spotify.com/album/2MibDtCJiyd4PrJLouOYdV"
       },
@@ -2535,6 +2515,26 @@
       "duration_ms": 241870,
       "name": "Nothing Lasts Forever",
       "url": "https://open.spotify.com/track/7qinjgTnynlZGAdq8PCf4p"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "STRATOSPHERE.",
+        "url": "https://open.spotify.com/album/3ela2JUBEfNWqXt5ZCFG3P"
+      },
+      "artists": [
+        {
+          "name": "aurorawave",
+          "url": "https://open.spotify.com/artist/5ERzKZCMDsFeH15G80MFSS"
+        },
+        {
+          "name": "Nathan Aurora",
+          "url": "https://open.spotify.com/artist/6aAxZpCPuID3U1dLdobyns"
+        }
+      ],
+      "duration_ms": 170057,
+      "name": "STRATOSPHERE.",
+      "url": "https://open.spotify.com/track/24kCWaFNeIqDvFjIbqllJG"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -2635,22 +2635,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Not The End",
-        "url": "https://open.spotify.com/album/6QgzRDqpIays9JGCzv3HdR"
-      },
-      "artists": [
-        {
-          "name": "4th & Orange",
-          "url": "https://open.spotify.com/artist/3ku7StZmU0VzVwq5d9YEXf"
-        }
-      ],
-      "duration_ms": 170250,
-      "name": "Not The End",
-      "url": "https://open.spotify.com/track/4ixFMrVEG00LY963KBkIXE"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Daydreaming",
         "url": "https://open.spotify.com/album/30kvONotzSeqLplcsaa1SH"
       },
@@ -2671,22 +2655,18 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Mamacita",
-        "url": "https://open.spotify.com/album/5sYSYnfuj6PYzd6vZx9WRb"
+        "name": "Not The End",
+        "url": "https://open.spotify.com/album/6QgzRDqpIays9JGCzv3HdR"
       },
       "artists": [
         {
-          "name": "Sons of Paradise",
-          "url": "https://open.spotify.com/artist/5fBAZtGCe3ECGkgeuOfOG3"
-        },
-        {
-          "name": "Bumpin Uglies",
-          "url": "https://open.spotify.com/artist/2q0PlZJNGryR467EUNmWn7"
+          "name": "4th & Orange",
+          "url": "https://open.spotify.com/artist/3ku7StZmU0VzVwq5d9YEXf"
         }
       ],
-      "duration_ms": 209895,
-      "name": "Mamacita",
-      "url": "https://open.spotify.com/track/4iPn44FdAHhas8uNaoJNmR"
+      "duration_ms": 170250,
+      "name": "Not The End",
+      "url": "https://open.spotify.com/track/4ixFMrVEG00LY963KBkIXE"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -2707,6 +2687,26 @@
       "duration_ms": 154896,
       "name": "High Grade Marijuana",
       "url": "https://open.spotify.com/track/0USbm5TTAcbYbxcC9xt7GW"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Mamacita",
+        "url": "https://open.spotify.com/album/5sYSYnfuj6PYzd6vZx9WRb"
+      },
+      "artists": [
+        {
+          "name": "Sons of Paradise",
+          "url": "https://open.spotify.com/artist/5fBAZtGCe3ECGkgeuOfOG3"
+        },
+        {
+          "name": "Bumpin Uglies",
+          "url": "https://open.spotify.com/artist/2q0PlZJNGryR467EUNmWn7"
+        }
+      ],
+      "duration_ms": 209895,
+      "name": "Mamacita",
+      "url": "https://open.spotify.com/track/4iPn44FdAHhas8uNaoJNmR"
     },
     {
       "added_at": "2024-07-26 04:00:00",

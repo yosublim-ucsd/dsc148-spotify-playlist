@@ -4,7 +4,7 @@
 
 > They got next in their regions and beyond\. Cover: <a href="spotify:artist:5qhDQveADDnjIZQ85AtgDM">Star Bandz</a>
 
-1,063 songs - 2 day 1 hr 17 min
+1,064 songs - 2 day 1 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -466,6 +466,7 @@
 | [How I Grew Up \(feat\. Polo G\)](https://open.spotify.com/track/6ZnOfn9ylrTmC8d3p6FFXy) | [Lil Zay Osama](https://open.spotify.com/artist/7rkcFChEJ9tCLcVevtu0Nt), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [How I Grew Up \(feat\. Polo G\)](https://open.spotify.com/album/1wW9PQfzz7Q5GO9oLhA67k) | 3:02 | 2024-08-23 | 2024-09-07 |
 | [How To Kill A Narcissist](https://open.spotify.com/track/7mbWZGbClvFlJnI1wbFlTE) | [Van Buren Records](https://open.spotify.com/artist/2T6EOVQ5lAQc64poyLnXmj), [SAINT LYOR](https://open.spotify.com/artist/0pltaFx5l05YFrswlNEafU), [Luke Bar$](https://open.spotify.com/artist/6CGyB4PAg5rEyzeGumZrjr), [invada](https://open.spotify.com/artist/3FBvF7C8P5IztMR7Mbxc3X) | [DSM](https://open.spotify.com/album/1p94kHVfSZ6nGQdsWJlvol) | 3:05 | 2022-09-09 | 2023-01-21 |
 | [How Your Hands Feel](https://open.spotify.com/track/3iWsn5YHEIbnaJtmap8UGf) | [Ryan Destiny](https://open.spotify.com/artist/5bKtvYqfmflyEKp2FhPXwf) | [How Your Hands Feel](https://open.spotify.com/album/6AKqQJnpslDxlp0dWguv4v) | 3:31 | 2024-02-16 | 2024-04-19 |
+| [Hummingbird](https://open.spotify.com/track/0xtaW4t6ho5Y7dBJWHwVpd) | [BabyChiefDoit](https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg) | [ANIMALS ONLY](https://open.spotify.com/album/6m3DNzm0j8VH4YBX7g7WI0) | 2:41 | 2024-10-07 |  |
 | [I Ain't Going Lie](https://open.spotify.com/track/42DXWvSX2Sr2rY1Dg4JcEQ) | [MoneyMarr](https://open.spotify.com/artist/7Hol8IRGqnkUgWM21PHDhN) | [I Ain't Going Lie](https://open.spotify.com/album/3VT1FKvrbCv2FHIu5SdTCs) | 2:13 | 2023-02-17 | 2023-08-05 |
 | [I Can Say To You \[Feat\. Vanisha Gould\] \- Single Edit](https://open.spotify.com/track/77QJgfFBYZQU0zXByezYGs) | [Butcher Brown](https://open.spotify.com/artist/2jQ6wRQ7yP1UrctodeuYQP), [Vanisha Gould](https://open.spotify.com/artist/0z7qSkfrWXvgNrSgnidiag) | [I Can Say To You \[Feat\. Vanisha Gould\]](https://open.spotify.com/album/0cdH5hfYt9f70uLrkiSolC) | 3:37 | 2023-10-06 | 2024-01-20 |
 | [I CAN'T STAND Y'ALL](https://open.spotify.com/track/1Y2qbVBSXXFKmlLtANA3FG) | [NASCAR P 13k](https://open.spotify.com/artist/06tQPaqB8PniGzJoXlby0R) | [I CAN'T STAND Y'ALL](https://open.spotify.com/album/3boh4YIOlTWCWy1rDSirSt) | 2:00 | 2023-01-20 | 2023-07-22 |
@@ -958,7 +959,7 @@
 | [Too Hot](https://open.spotify.com/track/0r6UbYDhi7MEojd80gXH42) | [Jay Safari](https://open.spotify.com/artist/1ZDLdMwbdm4AdfXZTqbVdT) | [Too Hot](https://open.spotify.com/album/5hqv7koMqv1vF6oy20Pbe5) | 2:04 | 2022-08-05 | 2022-10-13 |
 | [Too Hot](https://open.spotify.com/track/4usGSO2f7aE9aKC05itGbq) | [Jay Safari](https://open.spotify.com/artist/1ZDLdMwbdm4AdfXZTqbVdT) | [Too Hot](https://open.spotify.com/album/0Gde461yTS29VnscdMNrtX) | 2:04 | 2022-08-05 | 2022-10-15 |
 | [Too Much, Too Fast](https://open.spotify.com/track/5oXSyMpfGALEQYh4PVuHLm) | [Kari Faux](https://open.spotify.com/artist/4c2ighP1wj8E5dVGJDCOiB), [Deante' Hitchcock](https://open.spotify.com/artist/5REHfa3YDopGOzrxwTsPvH) | [Too Much, Too Fast](https://open.spotify.com/album/7cFFL0TmlLzxl2INKQGlxy) | 2:34 | 2021-08-20 | 2022-03-05 |
-| [Too Slow \(feat\. STAR BANDZ\)](https://open.spotify.com/track/1opgZsZPJJhZuEytACUaKH) | [BabyChiefDoit](https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg), [STAR BANDZ](https://open.spotify.com/artist/5qhDQveADDnjIZQ85AtgDM) | [ANIMALS ONLY](https://open.spotify.com/album/6m3DNzm0j8VH4YBX7g7WI0) | 2:30 | 2024-10-04 |  |
+| [Too Slow \(feat\. STAR BANDZ\)](https://open.spotify.com/track/1opgZsZPJJhZuEytACUaKH) | [BabyChiefDoit](https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg), [STAR BANDZ](https://open.spotify.com/artist/5qhDQveADDnjIZQ85AtgDM) | [ANIMALS ONLY](https://open.spotify.com/album/6m3DNzm0j8VH4YBX7g7WI0) | 2:30 | 2024-10-04 | 2024-10-08 |
 | [Touchin' \(feat\. Kaliii\)](https://open.spotify.com/track/6y9XZjgz78wjamOPRi5031) | [Honey Bxby](https://open.spotify.com/artist/4a0B39qi5Ks6KCPz0KptTO), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Touchin’ \(The Pack\)](https://open.spotify.com/album/5HfNizUWZsXJvHE2pMrzmw) | 3:34 | 2024-03-15 | 2024-04-27 |
 | [Touchin’](https://open.spotify.com/track/0yzVYUHAAu9AQdrp9s7vGk) | [Honey Bxby](https://open.spotify.com/artist/4a0B39qi5Ks6KCPz0KptTO) | [Touchin’ \(The Pack\)](https://open.spotify.com/album/5HfNizUWZsXJvHE2pMrzmw) | 3:13 | 2024-02-16 | 2024-03-02 |
 | [Touchin’ \(feat\. Busta Rhymes\)](https://open.spotify.com/track/0lEMOTD4fbqxowazj6mRE9) | [Honey Bxby](https://open.spotify.com/artist/4a0B39qi5Ks6KCPz0KptTO), [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK) | [Touchin’ \(feat\. Busta Rhymes\)](https://open.spotify.com/album/4zIWVKmegh0RXzAuWWCsF8) | 3:44 | 2024-03-01 | 2024-03-16 |

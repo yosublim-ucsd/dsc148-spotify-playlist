@@ -413,6 +413,28 @@
     },
     {
       "album": {
+        "name": "Afterlife",
+        "url": "https://open.spotify.com/album/3HPDHu91nJyw7rm3PxHLf3"
+      },
+      "artists": [
+        {
+          "name": "DisKatch",
+          "url": "https://open.spotify.com/artist/0c8ocOLagrUVUogmGnFWO6"
+        },
+        {
+          "name": "Faus Ivan",
+          "url": "https://open.spotify.com/artist/55DiGvrrrM2KqAIMs6NzkC"
+        }
+      ],
+      "date_added": "2024-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209508,
+      "name": "Afterlife",
+      "url": "https://open.spotify.com/track/56avbMs0OB7Qch3OB6t93g"
+    },
+    {
+      "album": {
         "name": "Afterlight",
         "url": "https://open.spotify.com/album/4wsH2EdJZ8KJRt5ylRwTPa"
       },
@@ -1207,6 +1229,24 @@
     },
     {
       "album": {
+        "name": "ARCHANGEL",
+        "url": "https://open.spotify.com/album/74v6xH6qq9f09JaccA1Y6w"
+      },
+      "artists": [
+        {
+          "name": "SIM",
+          "url": "https://open.spotify.com/artist/6JQhUOPvPJNH8tCOUT0cgf"
+        }
+      ],
+      "date_added": "2024-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178512,
+      "name": "ARCHANGEL",
+      "url": "https://open.spotify.com/track/0vUAr5g9hsDGOOGfahb01b"
+    },
+    {
+      "album": {
         "name": "Are You Ready",
         "url": "https://open.spotify.com/album/5FiSIY0GpU6mBdddSYnBTA"
       },
@@ -1397,6 +1437,24 @@
     },
     {
       "album": {
+        "name": "Avoid",
+        "url": "https://open.spotify.com/album/27h5vGfPVBw5zQpn7pXrUU"
+      },
+      "artists": [
+        {
+          "name": "mra",
+          "url": "https://open.spotify.com/artist/5ICv05L4fcvG3i8l6yEoWA"
+        }
+      ],
+      "date_added": "2024-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202223,
+      "name": "Avoid",
+      "url": "https://open.spotify.com/track/7nm8pWoDmlEgMZRdHtZpZU"
+    },
+    {
+      "album": {
         "name": "Axel F",
         "url": "https://open.spotify.com/album/3GOvsaX9iG8WU8gTccXRK6"
       },
@@ -1570,6 +1628,24 @@
       "duration_ms": 189283,
       "name": "BADVILLAIN",
       "url": "https://open.spotify.com/track/3BBBK2wYC1TLOyBLnSfWTI"
+    },
+    {
+      "album": {
+        "name": "Sunshine Superqueen",
+        "url": "https://open.spotify.com/album/3Zt4AKrO7EkQ2TsLVnbMMj"
+      },
+      "artists": [
+        {
+          "name": "High Fruit",
+          "url": "https://open.spotify.com/artist/4jx0Rall3HmaSJgxTNGHAt"
+        }
+      ],
+      "date_added": "2024-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168746,
+      "name": "Banshee",
+      "url": "https://open.spotify.com/track/7mFAUzHLNE3EKbMDSJjj0R"
     },
     {
       "album": {
@@ -3742,6 +3818,24 @@
       "duration_ms": 190476,
       "name": "Closer - Ryan Lucian Remix",
       "url": "https://open.spotify.com/track/29hYietO7kxTabESFBqOQ9"
+    },
+    {
+      "album": {
+        "name": "Closer Into Me",
+        "url": "https://open.spotify.com/album/1cd7iF3L2PoHSw7oZrdLqf"
+      },
+      "artists": [
+        {
+          "name": "Aspirin",
+          "url": "https://open.spotify.com/artist/5hY7AfoaAPsONSegTBnxjw"
+        }
+      ],
+      "date_added": "2024-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183307,
+      "name": "Closer Into Me",
+      "url": "https://open.spotify.com/track/1QYTSkpk4NdPgQfk4SSS6Y"
     },
     {
       "album": {
@@ -18515,6 +18609,24 @@
     },
     {
       "album": {
+        "name": "Run to the Hills",
+        "url": "https://open.spotify.com/album/0Qe7iUuwEGvHoQD5xjrJ3E"
+      },
+      "artists": [
+        {
+          "name": "Kennedy One",
+          "url": "https://open.spotify.com/artist/1hpzLRLwA1Ew5WCrj8lG5l"
+        }
+      ],
+      "date_added": "2024-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228387,
+      "name": "Run to the Hills",
+      "url": "https://open.spotify.com/track/5IgksugLBYIu23nqS513RP"
+    },
+    {
+      "album": {
         "name": "Run With The Wolves (Aftershock Remix)",
         "url": "https://open.spotify.com/album/18GOvr8H383sQaDhiQWgec"
       },
@@ -23526,6 +23638,24 @@
       "duration_ms": 181231,
       "name": "what is life?",
       "url": "https://open.spotify.com/track/4nBTt4n122lScgQwHzKVCV"
+    },
+    {
+      "album": {
+        "name": "A Beast Of Himself",
+        "url": "https://open.spotify.com/album/7Gciq9aKMIxnZCfPwszkj5"
+      },
+      "artists": [
+        {
+          "name": "Bone Nest",
+          "url": "https://open.spotify.com/artist/0xWjVpyUgTeXnYWScqBEdq"
+        }
+      ],
+      "date_added": "2024-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184077,
+      "name": "What To Say",
+      "url": "https://open.spotify.com/track/5OJsgdlhF4FVPVSx50kkSS"
     },
     {
       "album": {

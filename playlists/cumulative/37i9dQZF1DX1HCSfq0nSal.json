@@ -1214,7 +1214,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-08",
       "duration_ms": 253962,
       "name": "BADGYAL",
       "url": "https://open.spotify.com/track/3ng8tfwvzR4BBwa9yaMms6"
@@ -6580,6 +6580,28 @@
       "duration_ms": 214857,
       "name": "La Old Skul",
       "url": "https://open.spotify.com/track/6MEBxXI2n3FzPHrGRYFdL8"
+    },
+    {
+      "album": {
+        "name": "QUI\u00c9N EST\u00c1 AQU\u00cd?",
+        "url": "https://open.spotify.com/album/6zj1G3rfSSq1do2X3jPZ3s"
+      },
+      "artists": [
+        {
+          "name": "Lucho RK",
+          "url": "https://open.spotify.com/artist/1y6tVxTqgNfqxTayfohSKJ"
+        },
+        {
+          "name": "Juacko",
+          "url": "https://open.spotify.com/artist/0LLnP7NEsEQ1pSCfsuYURr"
+        }
+      ],
+      "date_added": "2024-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165427,
+      "name": "La otra de Juacko",
+      "url": "https://open.spotify.com/track/1GFOKdjFP5ZPanG7s1aZeG"
     },
     {
       "album": {

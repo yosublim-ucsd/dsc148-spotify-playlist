@@ -643,6 +643,24 @@
     },
     {
       "album": {
+        "name": "The Great Pretenders",
+        "url": "https://open.spotify.com/album/3HCyJcodj8D3Bl0pSr9QFk"
+      },
+      "artists": [
+        {
+          "name": "Mini Mansions",
+          "url": "https://open.spotify.com/artist/07xbJ7SM1JopFtI1qXvSww"
+        }
+      ],
+      "date_added": "2024-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276520,
+      "name": "Mirror Mountain",
+      "url": "https://open.spotify.com/track/7K7EmTNAqHuqN7Qw0i3wt6"
+    },
+    {
+      "album": {
         "name": "Esg",
         "url": "https://open.spotify.com/album/11lQrQFjNkIVdaa4royDt7"
       },
@@ -824,6 +842,24 @@
       "duration_ms": 210944,
       "name": "See Her Out (Thats Just Life)",
       "url": "https://open.spotify.com/track/5zheSFviZNgeZLvZCOxQnE"
+    },
+    {
+      "album": {
+        "name": "Tonight Turns to Nothing",
+        "url": "https://open.spotify.com/album/3t7fqy6q4CUW9LK0Zuz7nP"
+      },
+      "artists": [
+        {
+          "name": "Olivia Kaplan",
+          "url": "https://open.spotify.com/artist/5JjA5aBhPlK554aaa1RRkd"
+        }
+      ],
+      "date_added": "2024-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180121,
+      "name": "Seen By You",
+      "url": "https://open.spotify.com/track/3ypTv5heHAzMpy3TqajZX1"
     },
     {
       "album": {

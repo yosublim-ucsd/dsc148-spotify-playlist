@@ -1,12 +1,12 @@
 {
-  "description": "This is Mumford & Sons. The essential tracks, all in one playlist.",
-  "num_followers": 478775,
-  "original_name": "This Is Mumford & Sons",
+  "description": "This is \u30de\u30e0\u30d5\u30a9\u30fc\u30c9\u30fb\u30a2\u30f3\u30c9\u30fb\u30b5\u30f3\u30ba\u3002\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u4ee3\u8868\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002",
+  "num_followers": 478794,
+  "original_name": "This Is \u30de\u30e0\u30d5\u30a9\u30fc\u30c9\u30fb\u30a2\u30f3\u30c9\u30fb\u30b5\u30f3\u30ba",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwCBgAAAAADcYhHXmglEE+KEAXpZe9/e",
+  "snapshot_id": "ZwHTAAAAAABxiErTsJWLklwqu7RWUS1V",
   "tracks": [
     {
       "added_at": null,
@@ -335,8 +335,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Babel (Deluxe Version)",
-        "url": "https://open.spotify.com/album/3FfuUD3Je9t9tQq80Zq41y"
+        "name": "Wilder Mind (Deluxe)",
+        "url": "https://open.spotify.com/album/2okzRzTuOsFTUNsJZRhqsi"
       },
       "artists": [
         {
@@ -344,9 +344,9 @@
           "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
         }
       ],
-      "duration_ms": 217675,
-      "name": "Where Are You Now",
-      "url": "https://open.spotify.com/track/35EetinpgZv45rOfpDvlE4"
+      "duration_ms": 221226,
+      "name": "The Wolf",
+      "url": "https://open.spotify.com/track/7xvcfEnaPXtiFt79Rzq1fm"
     },
     {
       "added_at": null,
@@ -367,8 +367,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wilder Mind (Deluxe)",
-        "url": "https://open.spotify.com/album/2okzRzTuOsFTUNsJZRhqsi"
+        "name": "Babel (Deluxe Version)",
+        "url": "https://open.spotify.com/album/3FfuUD3Je9t9tQq80Zq41y"
       },
       "artists": [
         {
@@ -376,9 +376,9 @@
           "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
         }
       ],
-      "duration_ms": 221226,
-      "name": "The Wolf",
-      "url": "https://open.spotify.com/track/7xvcfEnaPXtiFt79Rzq1fm"
+      "duration_ms": 217675,
+      "name": "Where Are You Now",
+      "url": "https://open.spotify.com/track/35EetinpgZv45rOfpDvlE4"
     },
     {
       "added_at": null,
@@ -399,8 +399,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Babel (Deluxe Version)",
-        "url": "https://open.spotify.com/album/3FfuUD3Je9t9tQq80Zq41y"
+        "name": "Delta",
+        "url": "https://open.spotify.com/album/0Wmnkh4lzGy5rgkUPOjYbg"
       },
       "artists": [
         {
@@ -408,9 +408,9 @@
           "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
         }
       ],
-      "duration_ms": 314893,
-      "name": "Lover of the Light",
-      "url": "https://open.spotify.com/track/6NUr2TMn5nsaerT4tuHpFb"
+      "duration_ms": 265096,
+      "name": "Beloved",
+      "url": "https://open.spotify.com/track/7HFgnF1oPMzkCqEMBOA2yI"
     },
     {
       "added_at": null,
@@ -427,22 +427,6 @@
       "duration_ms": 169906,
       "name": "Cold Arms",
       "url": "https://open.spotify.com/track/1Krvbw26ewysVZRY6Rd9n1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Delta",
-        "url": "https://open.spotify.com/album/0Wmnkh4lzGy5rgkUPOjYbg"
-      },
-      "artists": [
-        {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        }
-      ],
-      "duration_ms": 265096,
-      "name": "Beloved",
-      "url": "https://open.spotify.com/track/7HFgnF1oPMzkCqEMBOA2yI"
     },
     {
       "added_at": null,
@@ -472,25 +456,9 @@
           "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
         }
       ],
-      "duration_ms": 124520,
-      "name": "Reminder",
-      "url": "https://open.spotify.com/track/6XMJ0ESQ7LZLklgOPpbZJV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Gentlemen of the Road",
-        "url": "https://open.spotify.com/album/6JR7iNiAhaqDfgNGQwkdCE"
-      },
-      "artists": [
-        {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        }
-      ],
-      "duration_ms": 369106,
-      "name": "Delta - Live At The O2",
-      "url": "https://open.spotify.com/track/7cECVaGMuVAO4MKEk7dJ95"
+      "duration_ms": 314893,
+      "name": "Lover of the Light",
+      "url": "https://open.spotify.com/track/6NUr2TMn5nsaerT4tuHpFb"
     },
     {
       "added_at": null,
@@ -511,6 +479,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Gentlemen of the Road",
+        "url": "https://open.spotify.com/album/6JR7iNiAhaqDfgNGQwkdCE"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "duration_ms": 369106,
+      "name": "Delta - Live At The O2",
+      "url": "https://open.spotify.com/track/7cECVaGMuVAO4MKEk7dJ95"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Wilder Mind (Deluxe)",
         "url": "https://open.spotify.com/album/2okzRzTuOsFTUNsJZRhqsi"
       },
@@ -523,6 +507,38 @@
       "duration_ms": 236883,
       "name": "Monster",
       "url": "https://open.spotify.com/track/5RJeg1KeRTQxsgZcPrxWBD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Babel (Deluxe Version)",
+        "url": "https://open.spotify.com/album/3FfuUD3Je9t9tQq80Zq41y"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "duration_ms": 124520,
+      "name": "Reminder",
+      "url": "https://open.spotify.com/track/6XMJ0ESQ7LZLklgOPpbZJV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Delta",
+        "url": "https://open.spotify.com/album/0Wmnkh4lzGy5rgkUPOjYbg"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "duration_ms": 240938,
+      "name": "42",
+      "url": "https://open.spotify.com/track/3T7hn54qWtZIEpJK2XeClP"
     },
     {
       "added_at": null,
@@ -571,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Delta",
-        "url": "https://open.spotify.com/album/0Wmnkh4lzGy5rgkUPOjYbg"
-      },
-      "artists": [
-        {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        }
-      ],
-      "duration_ms": 240938,
-      "name": "42",
-      "url": "https://open.spotify.com/track/3T7hn54qWtZIEpJK2XeClP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Blind Leading The Blind",
         "url": "https://open.spotify.com/album/4O1GPscutuBiEMaYAEBzS4"
       },
@@ -627,6 +627,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Revamp: The Songs Of Elton John & Bernie Taupin",
+        "url": "https://open.spotify.com/album/2w667CqWz0JWkhxP7IfijA"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "duration_ms": 369301,
+      "name": "Someone Saved My Life Tonight",
+      "url": "https://open.spotify.com/track/7wfVhQbInlrp92VTyi4gx3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Johannesburg",
         "url": "https://open.spotify.com/album/27AgSR4nCZSfMzb61JQ066"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 240453,
       "name": "Wona",
       "url": "https://open.spotify.com/track/63akED5KUaUrrjhp3D57lE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Revamp: The Songs Of Elton John & Bernie Taupin",
-        "url": "https://open.spotify.com/album/2w667CqWz0JWkhxP7IfijA"
-      },
-      "artists": [
-        {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        }
-      ],
-      "duration_ms": 369301,
-      "name": "Someone Saved My Life Tonight",
-      "url": "https://open.spotify.com/track/7wfVhQbInlrp92VTyi4gx3"
     },
     {
       "added_at": null,
@@ -701,6 +701,6 @@
       "url": "https://open.spotify.com/track/34tD0jmk90OTCt5OPj8w5v"
     }
   ],
-  "unique_name": "This Is Mumford & Sons",
+  "unique_name": "This Is \u30de\u30e0\u30d5\u30a9\u30fc\u30c9\u30fb\u30a2\u30f3\u30c9\u30fb\u30b5\u30f3\u30ba",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1Tcb3G"
 }

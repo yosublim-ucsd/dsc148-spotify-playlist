@@ -2606,7 +2606,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 216933,
-      "name": "Sweet Dreams (Are Made of This) - Remastered",
+      "name": "Sweet Dreams (Are Made of This) - 2005 Remaster",
       "url": "https://open.spotify.com/track/1TfqLAPs4K3s2rJMoCokcS"
     },
     {
@@ -2999,6 +2999,24 @@
     },
     {
       "album": {
+        "name": "Greatest Toons",
+        "url": "https://open.spotify.com/album/2wTEf0XtQxeZ24KAGT1KB6"
+      },
+      "artists": [
+        {
+          "name": "Cartoons",
+          "url": "https://open.spotify.com/artist/6eKJWEzLZq8jZix8hdYsv4"
+        }
+      ],
+      "date_added": "2024-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187453,
+      "name": "Witch Doctor",
+      "url": "https://open.spotify.com/track/5YZuePCawcrg0DJrWovPu7"
+    },
+    {
+      "album": {
         "name": "Ultimate Kids Halloween Party Album",
         "url": "https://open.spotify.com/album/5ui3iBWZ6bvMRfCpAJWAvy"
       },
@@ -3010,7 +3028,7 @@
       ],
       "date_added": "2021-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-08",
       "duration_ms": 145360,
       "name": "Witch Doctor - Cover Version",
       "url": "https://open.spotify.com/track/4kovpzSYYoguJxUXQesQ13"

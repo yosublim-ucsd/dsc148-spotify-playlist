@@ -1,6 +1,6 @@
 {
   "description": "Escute Mc Luanna e mais mulheres no volume m\u00e1ximo! Co-curadoria com <a href=\"spotify:playlist:37i9dQZF1DZ06evO45TXx1\">Mc Luanna</a>.",
-  "num_followers": 186842,
+  "num_followers": 186836,
   "original_name": "EQUAL Brasil",
   "owner": {
     "name": "Spotify",
@@ -747,26 +747,6 @@
     {
       "added_at": "2024-10-04 11:34:21",
       "album": {
-        "name": "Trinity",
-        "url": "https://open.spotify.com/album/60JfiI4rqmujf7EmoDrCTQ"
-      },
-      "artists": [
-        {
-          "name": "ONNiKA",
-          "url": "https://open.spotify.com/artist/7h2qMFZKbjifWLpMhsQ988"
-        },
-        {
-          "name": "Go Dassisti",
-          "url": "https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G"
-        }
-      ],
-      "duration_ms": 161486,
-      "name": "Alvo",
-      "url": "https://open.spotify.com/track/4PUSJf1ZCuLiiE8xyEE7Qd"
-    },
-    {
-      "added_at": "2024-10-04 11:34:21",
-      "album": {
         "name": "Novinho Chora",
         "url": "https://open.spotify.com/album/2j4DZP2MoqtY3pscIEnYxS"
       },
@@ -783,6 +763,26 @@
       "duration_ms": 187405,
       "name": "Novinho Chora",
       "url": "https://open.spotify.com/track/5QP1fLUkCtROoIGWTSKQR3"
+    },
+    {
+      "added_at": "2024-10-04 11:34:21",
+      "album": {
+        "name": "Trinity",
+        "url": "https://open.spotify.com/album/60JfiI4rqmujf7EmoDrCTQ"
+      },
+      "artists": [
+        {
+          "name": "ONNiKA",
+          "url": "https://open.spotify.com/artist/7h2qMFZKbjifWLpMhsQ988"
+        },
+        {
+          "name": "Go Dassisti",
+          "url": "https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G"
+        }
+      ],
+      "duration_ms": 161486,
+      "name": "Alvo",
+      "url": "https://open.spotify.com/track/4PUSJf1ZCuLiiE8xyEE7Qd"
     },
     {
       "added_at": "2024-10-04 11:34:21",
@@ -807,30 +807,6 @@
     {
       "added_at": "2024-10-04 11:34:21",
       "album": {
-        "name": "METamorFOSE",
-        "url": "https://open.spotify.com/album/3zMBfvaDJbLt68YHUO8Exp"
-      },
-      "artists": [
-        {
-          "name": "Boombeat",
-          "url": "https://open.spotify.com/artist/6a0FqgWigKdF7FsjHYMspg"
-        },
-        {
-          "name": "Los Brasileros",
-          "url": "https://open.spotify.com/artist/0j1Tuh5A6zWMI4nAjPjBsW"
-        },
-        {
-          "name": "DMAX",
-          "url": "https://open.spotify.com/artist/2yszywMdom6sSwPPMZKRDp"
-        }
-      ],
-      "duration_ms": 152380,
-      "name": "MEU N\u00cdVEL (Olha Pra Minha Cara)",
-      "url": "https://open.spotify.com/track/6k6W3B8XYNVBqlKcKbw9Z8"
-    },
-    {
-      "added_at": "2024-10-04 11:34:21",
-      "album": {
         "name": "Versos e Voos",
         "url": "https://open.spotify.com/album/0PxKUgrFm5TILYhoQk98XQ"
       },
@@ -851,6 +827,30 @@
       "duration_ms": 187714,
       "name": "Na Rua",
       "url": "https://open.spotify.com/track/6TwXnsObSHGAOKUbhxGmfC"
+    },
+    {
+      "added_at": "2024-10-04 11:34:21",
+      "album": {
+        "name": "METamorFOSE",
+        "url": "https://open.spotify.com/album/3zMBfvaDJbLt68YHUO8Exp"
+      },
+      "artists": [
+        {
+          "name": "Boombeat",
+          "url": "https://open.spotify.com/artist/6a0FqgWigKdF7FsjHYMspg"
+        },
+        {
+          "name": "Los Brasileros",
+          "url": "https://open.spotify.com/artist/0j1Tuh5A6zWMI4nAjPjBsW"
+        },
+        {
+          "name": "DMAX",
+          "url": "https://open.spotify.com/artist/2yszywMdom6sSwPPMZKRDp"
+        }
+      ],
+      "duration_ms": 152380,
+      "name": "MEU N\u00cdVEL (Olha Pra Minha Cara)",
+      "url": "https://open.spotify.com/track/6k6W3B8XYNVBqlKcKbw9Z8"
     },
     {
       "added_at": "2024-10-04 11:34:21",

@@ -68,7 +68,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-08",
       "duration_ms": 157056,
       "name": "12 Horas",
       "url": "https://open.spotify.com/track/0sL06GkUHIOiSpzPnOPHFy"
@@ -104,7 +104,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-08",
       "duration_ms": 219487,
       "name": "A MEIA NOITE",
       "url": "https://open.spotify.com/track/0zohxkEGHHOEZSJddLIGjL"
@@ -254,7 +254,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-13",
+      "date_removed": null,
       "duration_ms": 193191,
       "name": "Blues",
       "url": "https://open.spotify.com/track/2ruShEBiopKBFINEu2Vo1C"
@@ -398,7 +398,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-29",
+      "date_removed": null,
       "duration_ms": 165350,
       "name": "Cupido",
       "url": "https://open.spotify.com/track/5bfimwK5FYHMlaa93448w5"
@@ -599,6 +599,28 @@
     },
     {
       "album": {
+        "name": "Faz A Posi\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/32zF9qSlirBVY5xVFrkFiG"
+      },
+      "artists": [
+        {
+          "name": "Gaab",
+          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
+        },
+        {
+          "name": "Luccas Carlos",
+          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
+        }
+      ],
+      "date_added": "2024-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179877,
+      "name": "Faz A Posi\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/7qrJE9fDTN9atii8gnhLxg"
+    },
+    {
+      "album": {
         "name": "J\u00fapiter",
         "url": "https://open.spotify.com/album/7BqdQdesXoceTMhwEfTOrj"
       },
@@ -610,7 +632,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-08",
       "duration_ms": 156746,
       "name": "Feliz e Ponto",
       "url": "https://open.spotify.com/track/5I7NiZhyh9mvtdv33eBg94"
@@ -1052,7 +1074,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-08",
       "duration_ms": 125624,
       "name": "N\u00e3o Tenho Tempo",
       "url": "https://open.spotify.com/track/42Lqgo4o80uHEKKtaGOkj1"
@@ -1448,7 +1470,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-27",
+      "date_removed": null,
       "duration_ms": 206608,
       "name": "Slow Motion",
       "url": "https://open.spotify.com/track/3jbrQ70noEPkUyiYvZkOHe"
@@ -1466,7 +1488,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-08",
       "duration_ms": 212000,
       "name": "Someway Somehow",
       "url": "https://open.spotify.com/track/480qefaDykyATTF4NGPtFb"
@@ -1528,7 +1550,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-12",
+      "date_removed": null,
       "duration_ms": 179031,
       "name": "S\u00f3 Mais Uma",
       "url": "https://open.spotify.com/track/0NtDg9vRn4ksaVKBz6qbma"
@@ -1670,7 +1692,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-27",
+      "date_removed": null,
       "duration_ms": 161927,
       "name": "Toque Na Pele",
       "url": "https://open.spotify.com/track/2mGcVoOXeVHwwACz9GulPB"
@@ -1930,7 +1952,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-08",
       "duration_ms": 229366,
       "name": "\u00c1guias e Sereias",
       "url": "https://open.spotify.com/track/0hwTBgo6SYOUyvOmSESHAu"

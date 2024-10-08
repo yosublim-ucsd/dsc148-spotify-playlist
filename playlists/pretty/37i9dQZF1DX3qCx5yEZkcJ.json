@@ -1,6 +1,6 @@
 {
   "description": "Stay relaxed with these low-key beats and instrumentals.",
-  "num_followers": 1484013,
+  "num_followers": 1484020,
   "original_name": "Mellow Beats",
   "owner": {
     "name": "Spotify",
@@ -95,22 +95,18 @@
     {
       "added_at": "2024-10-04 09:18:24",
       "album": {
-        "name": "Primo",
-        "url": "https://open.spotify.com/album/0yQ2Z7C1W9zjXnRcVWkln4"
+        "name": "Mental Acupuncture",
+        "url": "https://open.spotify.com/album/2dtSQyB2dVecMmnDlU9qYn"
       },
       "artists": [
         {
-          "name": "edbl",
-          "url": "https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO"
-        },
-        {
-          "name": "JPRK",
-          "url": "https://open.spotify.com/artist/3ZYTH2LzMs6c3DiRn6n2qH"
+          "name": "Jazzinuf",
+          "url": "https://open.spotify.com/artist/6rJ1GwtHin2BJbKLuNn9pi"
         }
       ],
-      "duration_ms": 162324,
-      "name": "Primo",
-      "url": "https://open.spotify.com/track/2uCgOs0VUkQYlnXtfi4uuK"
+      "duration_ms": 152000,
+      "name": "Mental Acupuncture",
+      "url": "https://open.spotify.com/track/34KMYyUvfpXboR9wLwrocX"
     },
     {
       "added_at": "2024-10-04 09:18:24",
@@ -131,18 +127,22 @@
     {
       "added_at": "2024-10-04 09:18:24",
       "album": {
-        "name": "Mental Acupuncture",
-        "url": "https://open.spotify.com/album/2dtSQyB2dVecMmnDlU9qYn"
+        "name": "Primo",
+        "url": "https://open.spotify.com/album/0yQ2Z7C1W9zjXnRcVWkln4"
       },
       "artists": [
         {
-          "name": "Jazzinuf",
-          "url": "https://open.spotify.com/artist/6rJ1GwtHin2BJbKLuNn9pi"
+          "name": "edbl",
+          "url": "https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO"
+        },
+        {
+          "name": "JPRK",
+          "url": "https://open.spotify.com/artist/3ZYTH2LzMs6c3DiRn6n2qH"
         }
       ],
-      "duration_ms": 152000,
-      "name": "Mental Acupuncture",
-      "url": "https://open.spotify.com/track/34KMYyUvfpXboR9wLwrocX"
+      "duration_ms": 162324,
+      "name": "Primo",
+      "url": "https://open.spotify.com/track/2uCgOs0VUkQYlnXtfi4uuK"
     },
     {
       "added_at": "2024-10-04 09:18:24",
@@ -375,22 +375,6 @@
     {
       "added_at": "2024-10-04 09:18:24",
       "album": {
-        "name": "zero",
-        "url": "https://open.spotify.com/album/0nVdaf3JEWpctIcv0nyFQz"
-      },
-      "artists": [
-        {
-          "name": "invisible design",
-          "url": "https://open.spotify.com/artist/0PGLAS23Jf5WcA4xaCmxLM"
-        }
-      ],
-      "duration_ms": 147695,
-      "name": "zero",
-      "url": "https://open.spotify.com/track/3g8uAk8FFwlOlFp90Lwxw4"
-    },
-    {
-      "added_at": "2024-10-04 09:18:24",
-      "album": {
         "name": "On My Way Home (Blue Lab Beats Remix)",
         "url": "https://open.spotify.com/album/5o3VQdQ5Mp8TZzKKDkZ1fI"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 228485,
       "name": "On My Way Home - Blue Lab Beats Remix",
       "url": "https://open.spotify.com/track/7ysDqM3kH3U6YleSSIhWRc"
+    },
+    {
+      "added_at": "2024-10-04 09:18:24",
+      "album": {
+        "name": "zero",
+        "url": "https://open.spotify.com/album/0nVdaf3JEWpctIcv0nyFQz"
+      },
+      "artists": [
+        {
+          "name": "invisible design",
+          "url": "https://open.spotify.com/artist/0PGLAS23Jf5WcA4xaCmxLM"
+        }
+      ],
+      "duration_ms": 147695,
+      "name": "zero",
+      "url": "https://open.spotify.com/track/3g8uAk8FFwlOlFp90Lwxw4"
     },
     {
       "added_at": "2024-10-04 09:18:24",
@@ -463,6 +463,22 @@
     {
       "added_at": "2024-10-04 09:18:24",
       "album": {
+        "name": "BIG BLUE",
+        "url": "https://open.spotify.com/album/5N20fAevDwj4glrtlKdCzl"
+      },
+      "artists": [
+        {
+          "name": "Yakkle",
+          "url": "https://open.spotify.com/artist/3mjx8PSsyldIILTLtw2Nap"
+        }
+      ],
+      "duration_ms": 166392,
+      "name": "BIG BLUE",
+      "url": "https://open.spotify.com/track/5EWpiLgQ6WYrvp7DbYhj70"
+    },
+    {
+      "added_at": "2024-10-04 09:18:24",
+      "album": {
         "name": "Malibu",
         "url": "https://open.spotify.com/album/0JWDRkkv8o6WYYHFCQJcn1"
       },
@@ -479,22 +495,6 @@
       "duration_ms": 142677,
       "name": "Malibu",
       "url": "https://open.spotify.com/track/4NXIuzWmpfa9LzH6I2LMR9"
-    },
-    {
-      "added_at": "2024-10-04 09:18:24",
-      "album": {
-        "name": "BIG BLUE",
-        "url": "https://open.spotify.com/album/5N20fAevDwj4glrtlKdCzl"
-      },
-      "artists": [
-        {
-          "name": "Yakkle",
-          "url": "https://open.spotify.com/artist/3mjx8PSsyldIILTLtw2Nap"
-        }
-      ],
-      "duration_ms": 166392,
-      "name": "BIG BLUE",
-      "url": "https://open.spotify.com/track/5EWpiLgQ6WYrvp7DbYhj70"
     },
     {
       "added_at": "2024-10-04 09:18:24",
@@ -703,22 +703,22 @@
     {
       "added_at": "2024-10-04 09:18:24",
       "album": {
-        "name": "Freedom",
-        "url": "https://open.spotify.com/album/66ncBKTGIriA52zkGJ3P7R"
+        "name": "Smiling World",
+        "url": "https://open.spotify.com/album/03YLbgauiRKjap4IUesBNS"
       },
       "artists": [
         {
-          "name": "Allgood",
-          "url": "https://open.spotify.com/artist/27axU7fE93Z7h8OhRFrD4r"
+          "name": "Mujo",
+          "url": "https://open.spotify.com/artist/0vg08N1z9G9LrGLkG1nNDS"
         },
         {
-          "name": "Kanimayo",
-          "url": "https://open.spotify.com/artist/4SVWzWmrg2LqMlVrt0ZZq1"
+          "name": "Hakone",
+          "url": "https://open.spotify.com/artist/7CWzXEtz9IgGotcYUQuixF"
         }
       ],
-      "duration_ms": 128000,
-      "name": "Freedom",
-      "url": "https://open.spotify.com/track/67srAaUUWCfeCz4TFzmmC2"
+      "duration_ms": 126076,
+      "name": "Smiling World",
+      "url": "https://open.spotify.com/track/4Taz7DRjSTrAO3PXPdhFgN"
     },
     {
       "added_at": "2024-10-04 09:18:24",
@@ -755,42 +755,6 @@
     {
       "added_at": "2024-10-04 09:18:24",
       "album": {
-        "name": "Smiling World",
-        "url": "https://open.spotify.com/album/03YLbgauiRKjap4IUesBNS"
-      },
-      "artists": [
-        {
-          "name": "Mujo",
-          "url": "https://open.spotify.com/artist/0vg08N1z9G9LrGLkG1nNDS"
-        },
-        {
-          "name": "Hakone",
-          "url": "https://open.spotify.com/artist/7CWzXEtz9IgGotcYUQuixF"
-        }
-      ],
-      "duration_ms": 126076,
-      "name": "Smiling World",
-      "url": "https://open.spotify.com/track/4Taz7DRjSTrAO3PXPdhFgN"
-    },
-    {
-      "added_at": "2024-10-04 09:18:24",
-      "album": {
-        "name": "MAR",
-        "url": "https://open.spotify.com/album/4tikL23aWFPLQIkS7DH0vO"
-      },
-      "artists": [
-        {
-          "name": "Bajune Tobeta",
-          "url": "https://open.spotify.com/artist/1fAAIQj0OEjNlUeGTW26W7"
-        }
-      ],
-      "duration_ms": 169894,
-      "name": "MAR",
-      "url": "https://open.spotify.com/track/38mHYq8J7mGPl7M9S6aGlS"
-    },
-    {
-      "added_at": "2024-10-04 09:18:24",
-      "album": {
         "name": "Examples",
         "url": "https://open.spotify.com/album/28SBlJC9xoNxZzxcBtHeOD"
       },
@@ -803,6 +767,26 @@
       "duration_ms": 128496,
       "name": "Its Rainy",
       "url": "https://open.spotify.com/track/3IH4y5nbL6mb9KR3QhgsfI"
+    },
+    {
+      "added_at": "2024-10-04 09:18:24",
+      "album": {
+        "name": "Freedom",
+        "url": "https://open.spotify.com/album/66ncBKTGIriA52zkGJ3P7R"
+      },
+      "artists": [
+        {
+          "name": "Allgood",
+          "url": "https://open.spotify.com/artist/27axU7fE93Z7h8OhRFrD4r"
+        },
+        {
+          "name": "Kanimayo",
+          "url": "https://open.spotify.com/artist/4SVWzWmrg2LqMlVrt0ZZq1"
+        }
+      ],
+      "duration_ms": 128000,
+      "name": "Freedom",
+      "url": "https://open.spotify.com/track/67srAaUUWCfeCz4TFzmmC2"
     },
     {
       "added_at": "2024-10-04 09:18:24",
@@ -843,6 +827,22 @@
     {
       "added_at": "2024-10-04 09:18:24",
       "album": {
+        "name": "MAR",
+        "url": "https://open.spotify.com/album/4tikL23aWFPLQIkS7DH0vO"
+      },
+      "artists": [
+        {
+          "name": "Bajune Tobeta",
+          "url": "https://open.spotify.com/artist/1fAAIQj0OEjNlUeGTW26W7"
+        }
+      ],
+      "duration_ms": 169894,
+      "name": "MAR",
+      "url": "https://open.spotify.com/track/38mHYq8J7mGPl7M9S6aGlS"
+    },
+    {
+      "added_at": "2024-10-04 09:18:24",
+      "album": {
         "name": "Just a Lullaby",
         "url": "https://open.spotify.com/album/7xmauQdCVxrTlyYu4i6qMd"
       },
@@ -879,22 +879,6 @@
     {
       "added_at": "2024-10-04 09:18:24",
       "album": {
-        "name": "2010 Mixtape - Instrumentals",
-        "url": "https://open.spotify.com/album/21jms5cANK6iBdNoGrbY71"
-      },
-      "artists": [
-        {
-          "name": "edbl",
-          "url": "https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO"
-        }
-      ],
-      "duration_ms": 143426,
-      "name": "Demons - Instrumental",
-      "url": "https://open.spotify.com/track/2Z4SmUaikRbDi5TLuVWzxx"
-    },
-    {
-      "added_at": "2024-10-04 09:18:24",
-      "album": {
         "name": "Do the Right Thing",
         "url": "https://open.spotify.com/album/2q295DcveRPSGXlf3MTiC2"
       },
@@ -915,18 +899,18 @@
     {
       "added_at": "2024-10-04 09:18:24",
       "album": {
-        "name": "Paris Nights",
-        "url": "https://open.spotify.com/album/2td1WP2YHS2pieTpm3uqCQ"
+        "name": "2010 Mixtape - Instrumentals",
+        "url": "https://open.spotify.com/album/21jms5cANK6iBdNoGrbY71"
       },
       "artists": [
         {
-          "name": "Bajune Tobeta",
-          "url": "https://open.spotify.com/artist/1fAAIQj0OEjNlUeGTW26W7"
+          "name": "edbl",
+          "url": "https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO"
         }
       ],
-      "duration_ms": 244000,
-      "name": "Paris Nights",
-      "url": "https://open.spotify.com/track/5g7QWbsPaa6QenF1FlOYcy"
+      "duration_ms": 143426,
+      "name": "Demons - Instrumental",
+      "url": "https://open.spotify.com/track/2Z4SmUaikRbDi5TLuVWzxx"
     },
     {
       "added_at": "2024-10-04 09:18:24",
@@ -983,6 +967,22 @@
       "duration_ms": 184346,
       "name": "Tangerine Hues",
       "url": "https://open.spotify.com/track/4fImJZBA2TopABdxAEg1in"
+    },
+    {
+      "added_at": "2024-10-04 09:18:24",
+      "album": {
+        "name": "Paris Nights",
+        "url": "https://open.spotify.com/album/2td1WP2YHS2pieTpm3uqCQ"
+      },
+      "artists": [
+        {
+          "name": "Bajune Tobeta",
+          "url": "https://open.spotify.com/artist/1fAAIQj0OEjNlUeGTW26W7"
+        }
+      ],
+      "duration_ms": 244000,
+      "name": "Paris Nights",
+      "url": "https://open.spotify.com/track/5g7QWbsPaa6QenF1FlOYcy"
     },
     {
       "added_at": "2024-10-04 09:18:24",
@@ -1055,6 +1055,22 @@
     {
       "added_at": "2024-10-04 09:18:24",
       "album": {
+        "name": "Raincoat",
+        "url": "https://open.spotify.com/album/7iLneP4wYzv8Eb1PBavn9o"
+      },
+      "artists": [
+        {
+          "name": "Shingo Sekiguchi",
+          "url": "https://open.spotify.com/artist/1ZU8a8LHba4g0YFAL1PbO9"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Raincoat",
+      "url": "https://open.spotify.com/track/2RfOBk0HoyAKNQMX6gWbDW"
+    },
+    {
+      "added_at": "2024-10-04 09:18:24",
+      "album": {
         "name": "Night Cruising",
         "url": "https://open.spotify.com/album/0u5sIKkyupnEQoeTHeG7W0"
       },
@@ -1119,38 +1135,6 @@
     {
       "added_at": "2024-10-04 09:18:24",
       "album": {
-        "name": "Next to Nothing (Instrumental)",
-        "url": "https://open.spotify.com/album/3rLvFBULjCUBLKmiB7zYB2"
-      },
-      "artists": [
-        {
-          "name": "SoulChef",
-          "url": "https://open.spotify.com/artist/7rdiGVXL2fFyONexHzfKFS"
-        }
-      ],
-      "duration_ms": 110500,
-      "name": "Next to Nothing - Instrumental",
-      "url": "https://open.spotify.com/track/4oVvF4NSVB48GXqpQU5d0T"
-    },
-    {
-      "added_at": "2024-10-04 09:18:24",
-      "album": {
-        "name": "Raincoat",
-        "url": "https://open.spotify.com/album/7iLneP4wYzv8Eb1PBavn9o"
-      },
-      "artists": [
-        {
-          "name": "Shingo Sekiguchi",
-          "url": "https://open.spotify.com/artist/1ZU8a8LHba4g0YFAL1PbO9"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Raincoat",
-      "url": "https://open.spotify.com/track/2RfOBk0HoyAKNQMX6gWbDW"
-    },
-    {
-      "added_at": "2024-10-04 09:18:24",
-      "album": {
         "name": "Hip Shop",
         "url": "https://open.spotify.com/album/0KRl72v3V3cZHeGVlRqDvC"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 123008,
       "name": "Hip Shop",
       "url": "https://open.spotify.com/track/169xT0Be1P2Hgjd9hq5Lk1"
+    },
+    {
+      "added_at": "2024-10-04 09:18:24",
+      "album": {
+        "name": "Next to Nothing (Instrumental)",
+        "url": "https://open.spotify.com/album/3rLvFBULjCUBLKmiB7zYB2"
+      },
+      "artists": [
+        {
+          "name": "SoulChef",
+          "url": "https://open.spotify.com/artist/7rdiGVXL2fFyONexHzfKFS"
+        }
+      ],
+      "duration_ms": 110500,
+      "name": "Next to Nothing - Instrumental",
+      "url": "https://open.spotify.com/track/4oVvF4NSVB48GXqpQU5d0T"
     },
     {
       "added_at": "2024-10-04 09:18:24",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2024-10-04 09:18:24",
       "album": {
+        "name": "last wave",
+        "url": "https://open.spotify.com/album/6Q2QRlqW9zaTTgTKyTmnCh"
+      },
+      "artists": [
+        {
+          "name": "Shimon Hoshino",
+          "url": "https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH"
+        }
+      ],
+      "duration_ms": 153652,
+      "name": "last wave",
+      "url": "https://open.spotify.com/track/0BrlSE3KRFQITuXZX7HbhW"
+    },
+    {
+      "added_at": "2024-10-04 09:18:24",
+      "album": {
         "name": "SICK",
         "url": "https://open.spotify.com/album/7eApP7Reg8vLu3uAU8taWQ"
       },
@@ -1251,22 +1267,6 @@
     {
       "added_at": "2024-10-04 09:18:24",
       "album": {
-        "name": "last wave",
-        "url": "https://open.spotify.com/album/6Q2QRlqW9zaTTgTKyTmnCh"
-      },
-      "artists": [
-        {
-          "name": "Shimon Hoshino",
-          "url": "https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH"
-        }
-      ],
-      "duration_ms": 153652,
-      "name": "last wave",
-      "url": "https://open.spotify.com/track/0BrlSE3KRFQITuXZX7HbhW"
-    },
-    {
-      "added_at": "2024-10-04 09:18:24",
-      "album": {
         "name": "Time Goes by",
         "url": "https://open.spotify.com/album/4zaWiFt9HasPkIXAjieEuo"
       },
@@ -1279,6 +1279,22 @@
       "duration_ms": 113386,
       "name": "Time Goes by",
       "url": "https://open.spotify.com/track/6dWrxCIZ0sIs4dJPC9jRNR"
+    },
+    {
+      "added_at": "2024-10-04 09:18:24",
+      "album": {
+        "name": "The Valley",
+        "url": "https://open.spotify.com/album/4JSDmWMyOKEf6Wfzp1WKwS"
+      },
+      "artists": [
+        {
+          "name": "SamTRax",
+          "url": "https://open.spotify.com/artist/7oGdaJSr8Hz4w6DDPCBiW2"
+        }
+      ],
+      "duration_ms": 166588,
+      "name": "Mixed Emotions",
+      "url": "https://open.spotify.com/track/0igMjYaQwW5mUt7RIwXojC"
     },
     {
       "added_at": "2024-10-04 09:18:24",
@@ -1299,22 +1315,6 @@
       "duration_ms": 129679,
       "name": "Summit",
       "url": "https://open.spotify.com/track/3NzdQg2hOSyCVBkTowACjb"
-    },
-    {
-      "added_at": "2024-10-04 09:18:24",
-      "album": {
-        "name": "The Valley",
-        "url": "https://open.spotify.com/album/4JSDmWMyOKEf6Wfzp1WKwS"
-      },
-      "artists": [
-        {
-          "name": "SamTRax",
-          "url": "https://open.spotify.com/artist/7oGdaJSr8Hz4w6DDPCBiW2"
-        }
-      ],
-      "duration_ms": 166588,
-      "name": "Mixed Emotions",
-      "url": "https://open.spotify.com/track/0igMjYaQwW5mUt7RIwXojC"
     },
     {
       "added_at": "2024-10-04 09:18:24",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2024-10-04 09:18:24",
       "album": {
-        "name": "Riverside",
-        "url": "https://open.spotify.com/album/7eaALW3TZmoAcVqnS9KsMn"
-      },
-      "artists": [
-        {
-          "name": "Karmawin",
-          "url": "https://open.spotify.com/artist/2rOhOgnBlD4qpnQEsl7sRK"
-        }
-      ],
-      "duration_ms": 198466,
-      "name": "Riverside",
-      "url": "https://open.spotify.com/track/2SkheMmym933XZaCNukLkm"
-    },
-    {
-      "added_at": "2024-10-04 09:18:24",
-      "album": {
         "name": "Back & Forth",
         "url": "https://open.spotify.com/album/2np06G3wE3BOHhVm1WiMRa"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 131370,
       "name": "Back & Forth",
       "url": "https://open.spotify.com/track/6LDYOZ1ZEDNwsPbbA3ShnV"
+    },
+    {
+      "added_at": "2024-10-04 09:18:24",
+      "album": {
+        "name": "Riverside",
+        "url": "https://open.spotify.com/album/7eaALW3TZmoAcVqnS9KsMn"
+      },
+      "artists": [
+        {
+          "name": "Karmawin",
+          "url": "https://open.spotify.com/artist/2rOhOgnBlD4qpnQEsl7sRK"
+        }
+      ],
+      "duration_ms": 198466,
+      "name": "Riverside",
+      "url": "https://open.spotify.com/track/2SkheMmym933XZaCNukLkm"
     },
     {
       "added_at": "2024-10-04 09:18:24",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2024-10-04 09:18:24",
       "album": {
-        "name": "181's penny candy store #7",
-        "url": "https://open.spotify.com/album/2DU5c1qHqSKxAMoZig9SLd"
-      },
-      "artists": [
-        {
-          "name": "MIDICRONICA 181",
-          "url": "https://open.spotify.com/artist/3AlVoNtbPZPiNdpI1h8LlY"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Win the Lottery",
-      "url": "https://open.spotify.com/track/2sGf6pQ73JyfTfSkSLLQfM"
-    },
-    {
-      "added_at": "2024-10-04 09:18:24",
-      "album": {
         "name": "Whatsreal",
         "url": "https://open.spotify.com/album/0orlhyvabLSgFZMzDAoy0T"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 148124,
       "name": "Whatsreal",
       "url": "https://open.spotify.com/track/61lsEaRkz1gXrfEoQ5yUzt"
+    },
+    {
+      "added_at": "2024-10-04 09:18:24",
+      "album": {
+        "name": "181's penny candy store #7",
+        "url": "https://open.spotify.com/album/2DU5c1qHqSKxAMoZig9SLd"
+      },
+      "artists": [
+        {
+          "name": "MIDICRONICA 181",
+          "url": "https://open.spotify.com/artist/3AlVoNtbPZPiNdpI1h8LlY"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Win the Lottery",
+      "url": "https://open.spotify.com/track/2sGf6pQ73JyfTfSkSLLQfM"
     }
   ],
   "unique_name": "Mellow Beats",

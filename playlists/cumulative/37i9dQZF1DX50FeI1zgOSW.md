@@ -4,7 +4,7 @@
 
 > Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : Marshall
 
-380 songs - 21 hr 51 min
+381 songs - 21 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Dora Bujji](https://open.spotify.com/track/3w4XF8iu5jqt6lXjErVzBc) | [Karthik Rk](https://open.spotify.com/artist/2xDMtjAA117jAB1DOO6np4) | [Dora Bujji](https://open.spotify.com/album/6CAGi4chuSIEqJDn32D2G8) | 2:21 | 2023-09-15 | 2024-02-17 |
 | [Dry Ice](https://open.spotify.com/track/1mg6Gv8G88c7BLYolp8FF4) | [AathiRaja](https://open.spotify.com/artist/09YaD1pWXZ7NqU8yWdHBsE) | [Dry Ice](https://open.spotify.com/album/4kULflG4C2hAYSCUcbU2hD) | 3:11 | 2023-07-24 | 2024-02-01 |
 | [E.P.K.](https://open.spotify.com/track/0KDtuvWZmi2kmaoKPT4b2c) | [Karthik Rk](https://open.spotify.com/artist/2xDMtjAA117jAB1DOO6np4), [SJ Priya](https://open.spotify.com/artist/4wrd2PhUEH0MIwmWBjyMFJ) | [E.P.K.](https://open.spotify.com/album/08MVHnexosfA3FLAt1zdhE) | 2:26 | 2023-07-27 | 2024-02-10 |
+| [Edho Seidhaai](https://open.spotify.com/track/3QT8Y48V2UfNenGW43sfRV) | [Prezanthi Shanmugavel](https://open.spotify.com/artist/3g7Jy7DBhczGb5HF5M8PKY) | [Edho Seidhaai](https://open.spotify.com/album/2acW27bN9BkxoS0fsMRR77) | 2:58 | 2024-10-07 |  |
 | [Eechi](https://open.spotify.com/track/76hoUb5s8mWHN07iUxzmYY) | [Mk Muziq](https://open.spotify.com/artist/2Ww6FB7QYmV6Kz0pZVYN5M) | [Eechi](https://open.spotify.com/album/0iPmXoG0jBG0XQWaWQVvZx) | 3:43 | 2023-05-16 | 2023-07-25 |
 | [Ek Ladka Ek Ladki](https://open.spotify.com/track/619Q4UvtstPPGeuKphAGss) | [Deepak Nandakumar](https://open.spotify.com/artist/6sOZm1BpI7yCnDgMloAEBn), [Nathania Ericka Thomas](https://open.spotify.com/artist/44JgmiFgNRsJtxQWtr7qVY) | [Ek Ladka Ek Ladki](https://open.spotify.com/album/4nEd1d4L5VMmOpMj6oOCv2) | 3:34 | 2024-03-28 | 2024-08-11 |
 | [En Kaadhalile](https://open.spotify.com/track/0d3r7EWtfJP9wsAWDsHTvd) | [Prezanthi Shanmugavel](https://open.spotify.com/artist/3g7Jy7DBhczGb5HF5M8PKY), [Mirun Pradhap](https://open.spotify.com/artist/7eOB1fI6XehKYZ1pmzC50r) | [En Kaadhalile](https://open.spotify.com/album/6beTVU4H7jFnfVI6nxjpGn) | 2:59 | 2023-07-31 | 2023-10-04 |

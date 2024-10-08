@@ -1944,7 +1944,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-08",
       "duration_ms": 127835,
       "name": "along the path",
       "url": "https://open.spotify.com/track/4xqtdONrwig5n3JGVBz1nv"
@@ -2740,7 +2740,7 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-08",
       "duration_ms": 143994,
       "name": "Ask Me Anything",
       "url": "https://open.spotify.com/track/36wwYDM1vuWHuocV3Nq9hf"
@@ -11181,6 +11181,24 @@
     },
     {
       "album": {
+        "name": "I Believe",
+        "url": "https://open.spotify.com/album/6wZu9uTOMrZM9czfmqrWBz"
+      },
+      "artists": [
+        {
+          "name": "M. Ljungstr\u00f6m",
+          "url": "https://open.spotify.com/artist/6llSKGTXz9Y8d1kdvDlaoq"
+        }
+      ],
+      "date_added": "2024-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138057,
+      "name": "I Believe",
+      "url": "https://open.spotify.com/track/3PjllqpJS9qF82x1qxaTGv"
+    },
+    {
+      "album": {
         "name": "I Dare Not Dream: Fantasia on a Theme",
         "url": "https://open.spotify.com/album/6Afe584fHx7s4nT3gBHRAn"
       },
@@ -13756,6 +13774,24 @@
       "duration_ms": 210999,
       "name": "Lava",
       "url": "https://open.spotify.com/track/4gtH4EmavpjGHTt2Pxo5wZ"
+    },
+    {
+      "album": {
+        "name": "Lazy Sunday Vibes",
+        "url": "https://open.spotify.com/album/5OQFFxd5Wv6gCKVpG5RfwN"
+      },
+      "artists": [
+        {
+          "name": "Erjos",
+          "url": "https://open.spotify.com/artist/70qp21FDz8QMIIGF3ETrAV"
+        }
+      ],
+      "date_added": "2024-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133533,
+      "name": "Lazy Sunday Vibes",
+      "url": "https://open.spotify.com/track/22c7C62EK0p3yAlurFMTwL"
     },
     {
       "album": {
@@ -20258,7 +20294,7 @@
       ],
       "date_added": "2022-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-08",
       "duration_ms": 140799,
       "name": "Portraits",
       "url": "https://open.spotify.com/track/3v9b94v3ja4RL480ZrJ6bI"
@@ -24484,7 +24520,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-08",
       "duration_ms": 176557,
       "name": "Sommarvals",
       "url": "https://open.spotify.com/track/0tL0JB08d5De5zBko245Y8"
@@ -26376,6 +26412,24 @@
       "duration_ms": 167882,
       "name": "The Book of Jen",
       "url": "https://open.spotify.com/track/7LnU4vflcZ8fyuFaVxGtuN"
+    },
+    {
+      "album": {
+        "name": "The Breeze and The Wildflower",
+        "url": "https://open.spotify.com/album/6IINRvEFdsEwwk38Q3jQEO"
+      },
+      "artists": [
+        {
+          "name": "Roasting Coffee Beans",
+          "url": "https://open.spotify.com/artist/03dlT1wdnhRBavp2hsrmoY"
+        }
+      ],
+      "date_added": "2024-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165625,
+      "name": "The Breeze and The Wildflower",
+      "url": "https://open.spotify.com/track/6Plm2aAPOdsimkWZiL7VVd"
     },
     {
       "album": {

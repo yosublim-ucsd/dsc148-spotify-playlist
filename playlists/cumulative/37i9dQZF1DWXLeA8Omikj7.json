@@ -23,6 +23,28 @@
     },
     {
       "album": {
+        "name": "+1",
+        "url": "https://open.spotify.com/album/4FvSyKog587pT37wscO9L5"
+      },
+      "artists": [
+        {
+          "name": "Tourist",
+          "url": "https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6"
+        },
+        {
+          "name": "Gold Panda",
+          "url": "https://open.spotify.com/artist/6xS3zemJD9h94iueQvGqVk"
+        }
+      ],
+      "date_added": "2024-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203524,
+      "name": "+1",
+      "url": "https://open.spotify.com/track/39UdrvsKgh1M5enXtCxkPw"
+    },
+    {
+      "album": {
         "name": "11 5 18 2 5 18",
         "url": "https://open.spotify.com/album/03h9BDKxEwdYRpH5uZ2bS0"
       },
@@ -150,7 +172,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-08",
       "duration_ms": 322315,
       "name": "20211130",
       "url": "https://open.spotify.com/track/47LxyN0FVTAxSemYRpGFYr"
@@ -5128,7 +5150,7 @@
       ],
       "date_added": "2021-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-08",
       "duration_ms": 316194,
       "name": "Every Day the Sun Comes Up",
       "url": "https://open.spotify.com/track/6IgxlOpJ1o16NqJtNQwAUo"
@@ -6267,6 +6289,24 @@
     },
     {
       "album": {
+        "name": "Gaivotas",
+        "url": "https://open.spotify.com/album/41alvt3Wg20F26oGMJZ9cj"
+      },
+      "artists": [
+        {
+          "name": "Rival Consoles",
+          "url": "https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC"
+        }
+      ],
+      "date_added": "2024-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276923,
+      "name": "Gaivotas",
+      "url": "https://open.spotify.com/track/1Dl2dAjcRA55FVPWKg9iOA"
+    },
+    {
+      "album": {
         "name": "VHS",
         "url": "https://open.spotify.com/album/5dpCCx6F2ECsqnrdmwNGCH"
       },
@@ -6282,6 +6322,28 @@
       "duration_ms": 183233,
       "name": "Galileo",
       "url": "https://open.spotify.com/track/2d8cXtTTzs0X4UTdhO98am"
+    },
+    {
+      "album": {
+        "name": "Ganzfeld - DjRUM Remix",
+        "url": "https://open.spotify.com/album/7eu1sHyuOJRXtEsRyO3Lfs"
+      },
+      "artists": [
+        {
+          "name": "Objekt",
+          "url": "https://open.spotify.com/artist/44z1nVVXZE8d4njcQmQLWc"
+        },
+        {
+          "name": "DjRUM",
+          "url": "https://open.spotify.com/artist/4HwlolvniI44ETSg5tajeZ"
+        }
+      ],
+      "date_added": "2024-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 612845,
+      "name": "Ganzfeld - DjRUM Remix",
+      "url": "https://open.spotify.com/track/4ma3jkDm8obf5WXLtUVxgK"
     },
     {
       "album": {
@@ -6358,6 +6420,24 @@
       "duration_ms": 270257,
       "name": "Gemini",
       "url": "https://open.spotify.com/track/7De25QZjlGdOYMB8bdBi3e"
+    },
+    {
+      "album": {
+        "name": "clean dreams",
+        "url": "https://open.spotify.com/album/6LTRKvYkK03ig1KjNLIdiW"
+      },
+      "artists": [
+        {
+          "name": "galen tipton",
+          "url": "https://open.spotify.com/artist/4yk43MhqPWsrrzoRyoMZhv"
+        }
+      ],
+      "date_added": "2024-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170144,
+      "name": "gems pop like berries in my mouth",
+      "url": "https://open.spotify.com/track/4sW84TLkvAurk7yfmEiFNT"
     },
     {
       "album": {
@@ -8800,7 +8880,7 @@
       ],
       "date_added": "2020-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-08",
       "duration_ms": 265110,
       "name": "Leaving",
       "url": "https://open.spotify.com/track/67zRyxMsahqZKFBZ65Dbje"
@@ -11269,6 +11349,28 @@
     },
     {
       "album": {
+        "name": "Apriori - Deluxe Edition",
+        "url": "https://open.spotify.com/album/6uwNoWtWAp4OHHRNSCrfaq"
+      },
+      "artists": [
+        {
+          "name": "Belau",
+          "url": "https://open.spotify.com/artist/3P6lDrnBON2Q48dZHQO0ya"
+        },
+        {
+          "name": "Ouhana",
+          "url": "https://open.spotify.com/artist/3tVHTq8WIDFyayynQFPKo1"
+        }
+      ],
+      "date_added": "2024-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237241,
+      "name": "Oneness - Ouhana Remix",
+      "url": "https://open.spotify.com/track/4iqNvncs9sSJ89exI8t2rC"
+    },
+    {
+      "album": {
         "name": "PATH.FINDER",
         "url": "https://open.spotify.com/album/5wUNp46OQcNgYbjXSNYjYy"
       },
@@ -12848,6 +12950,24 @@
       "duration_ms": 181201,
       "name": "Rheo",
       "url": "https://open.spotify.com/track/0rJyTKZRZmW3AAHFnSj2UF"
+    },
+    {
+      "album": {
+        "name": "#3 / Rhubarb Orc. 19.53 Rev",
+        "url": "https://open.spotify.com/album/25tU48vYTi5RyyJzElp1Yc"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2024-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 401911,
+      "name": "Rhubarb Orc. 19.53 Rev",
+      "url": "https://open.spotify.com/track/7wOsvlAHz8E0ycT6NYto13"
     },
     {
       "album": {
@@ -15410,7 +15530,7 @@
       ],
       "date_added": "2024-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-08",
       "duration_ms": 92000,
       "name": "tadpoles lullaby",
       "url": "https://open.spotify.com/track/2LFD3JPc6STJxrOR9Ne1PT"
@@ -15654,7 +15774,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-08",
       "duration_ms": 668246,
       "name": "th1 [evnslower]",
       "url": "https://open.spotify.com/track/1LtfK8H5kL6ZsMd2JWC2KG"
@@ -15856,7 +15976,7 @@
       ],
       "date_added": "2024-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-08",
       "duration_ms": 298000,
       "name": "The Fall",
       "url": "https://open.spotify.com/track/0DSWzEDLX2QjkBIUzFuQAX"
@@ -17580,7 +17700,7 @@
       ],
       "date_added": "2021-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-08",
       "duration_ms": 247559,
       "name": "Waiting on You",
       "url": "https://open.spotify.com/track/2d0YkF9qWbyqoNjarHSF1R"
@@ -18558,6 +18678,24 @@
       "duration_ms": 99028,
       "name": "Zone 3 (City Limits) - Beatrice Dillon Remix",
       "url": "https://open.spotify.com/track/7JPugeDFZ8ng7r1fYmreum"
+    },
+    {
+      "album": {
+        "name": "\u0285() \u0285()\u0283 \ua411(\u0c20\u0c40\u0a42\u0ce7\u0eb9\u022f)v\u022f)\u0fc3\u0942\u0a42\u2727\u20db\u2727\u20db) ():::() \u0334\u0324\u031a",
+        "url": "https://open.spotify.com/album/54NMdoKJtx3kjZdSXmnW1s"
+      },
+      "artists": [
+        {
+          "name": "\u28ce\u2847\ua27a\u10da\u0f3d\u0b87\u2022\u031b)\u0f80\u25de \u0f0e\u0eb6 \u0f3d\u09e3\u09e2\u061e\u09e2\u061e\u0616 \ua27a\u10da",
+          "url": "https://open.spotify.com/artist/1TIbqr0x8HoKzKBNtNN8wf"
+        }
+      ],
+      "date_added": "2024-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261034,
+      "name": "\u0285():::()\u0335\u0333\u0317\u030a( l\u0321\u0321\u0321 \u0321\u034c \u019f\u0285()v\u022f)) \u0337\u0328\u0285 l\u0321\u0321\u0321 \u0321\u034c \u0285()\u0283 \ua411\u022f)\u0fc3\u0942\u0a42\u2727\u20db\u2727\u20db) ():::() \u0334\u0324\u031a (\u0f40 \u0d8a\u0eb9 \u0c20\u0c40\u0a42)) \u0337\u0328\u0285 l\u0321\u0321\u0321 \u0321\u034c",
+      "url": "https://open.spotify.com/track/5aznBpTeBCELEsNz6m0gZ5"
     },
     {
       "album": {

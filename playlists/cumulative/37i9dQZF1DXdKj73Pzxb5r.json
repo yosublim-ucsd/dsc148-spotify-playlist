@@ -99,6 +99,24 @@
     },
     {
       "album": {
+        "name": "OMG",
+        "url": "https://open.spotify.com/album/0juHtZy0f5t0iWl4VHfZvG"
+      },
+      "artists": [
+        {
+          "name": "Gerv",
+          "url": "https://open.spotify.com/artist/6PNzFOinYztwojCOLCxojc"
+        }
+      ],
+      "date_added": "2024-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187927,
+      "name": "Aku Aku, Kamu Kamu",
+      "url": "https://open.spotify.com/track/1Dm4RkicRtJNMxboGFlQZW"
+    },
+    {
+      "album": {
         "name": "Aku Tidak Tahu",
         "url": "https://open.spotify.com/album/4Y5Jc4tjLvRGZZdvxxVUsd"
       },
@@ -384,6 +402,24 @@
       "duration_ms": 212062,
       "name": "bila",
       "url": "https://open.spotify.com/track/6gHh6SMnCRxLwpDDD7zTqW"
+    },
+    {
+      "album": {
+        "name": "Blooming Day",
+        "url": "https://open.spotify.com/album/7mqXHShGnQtoTXJ2KLxed8"
+      },
+      "artists": [
+        {
+          "name": "Mountain Moves",
+          "url": "https://open.spotify.com/artist/34gWE9BvlEeHV1HMEjmfGV"
+        }
+      ],
+      "date_added": "2024-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Blooming Day",
+      "url": "https://open.spotify.com/track/5NvGxDkpDYbLcIAjWKQ64L"
     },
     {
       "album": {
@@ -1114,6 +1150,28 @@
       "duration_ms": 64285,
       "name": "Fermeture",
       "url": "https://open.spotify.com/track/7gwmbKdpNWwFQrr7554mnF"
+    },
+    {
+      "album": {
+        "name": "funeruuu dan teman-teman funeruuu",
+        "url": "https://open.spotify.com/album/0oCeD9Z2IbzIZCvtB0FqKG"
+      },
+      "artists": [
+        {
+          "name": "funeruuu",
+          "url": "https://open.spotify.com/artist/4GSDhPmvDagdbT7iNFUxST"
+        },
+        {
+          "name": "Aliefia Augustine",
+          "url": "https://open.spotify.com/artist/4M2zJEbOzkpDZICzlTTknN"
+        }
+      ],
+      "date_added": "2024-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255000,
+      "name": "fianeruuu",
+      "url": "https://open.spotify.com/track/79dQWTaS9Ws5xNP5fX7KWp"
     },
     {
       "album": {
@@ -1952,6 +2010,24 @@
       "duration_ms": 228107,
       "name": "Love Song - Sped Up",
       "url": "https://open.spotify.com/track/2a6oxLAHXfGAhgtdQc31f7"
+    },
+    {
+      "album": {
+        "name": "Lovely Echoes",
+        "url": "https://open.spotify.com/album/177PBhXJIjhoMgU7AFLst0"
+      },
+      "artists": [
+        {
+          "name": "Evelyn Starlight",
+          "url": "https://open.spotify.com/artist/4KWY62o37me6DDsuINOBFX"
+        }
+      ],
+      "date_added": "2024-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238982,
+      "name": "Lovely Echoes",
+      "url": "https://open.spotify.com/track/2aASuMToTrUrpNHGI8vw0x"
     },
     {
       "album": {
@@ -2962,6 +3038,24 @@
       "duration_ms": 179939,
       "name": "Still Wanna See You",
       "url": "https://open.spotify.com/track/38eedo1dJbYTEPKNCcFFxl"
+    },
+    {
+      "album": {
+        "name": "Stop Loving You",
+        "url": "https://open.spotify.com/album/5zkRShBiE8RX5DYamR0QWw"
+      },
+      "artists": [
+        {
+          "name": "Stargazing",
+          "url": "https://open.spotify.com/artist/5cX76AOt8KBbn51oE968Bn"
+        }
+      ],
+      "date_added": "2024-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276610,
+      "name": "Stop Loving You",
+      "url": "https://open.spotify.com/track/4623UMZf7ASZiyAoM8DaY6"
     },
     {
       "album": {

@@ -4508,7 +4508,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-08",
       "duration_ms": 136839,
       "name": "Levitating - Acoustic",
       "url": "https://open.spotify.com/track/6eqWA6blXyJWkt2BjZdX8d"
@@ -5683,6 +5683,28 @@
     },
     {
       "album": {
+        "name": "never let me go.",
+        "url": "https://open.spotify.com/album/2qMorbWvWORO8PhBlbIgkA"
+      },
+      "artists": [
+        {
+          "name": "crier",
+          "url": "https://open.spotify.com/artist/3pxK1rdoF4Swqd00UH6wCl"
+        },
+        {
+          "name": "sixnite",
+          "url": "https://open.spotify.com/artist/1Yo7tf6JFEfruQgejOLkFk"
+        }
+      ],
+      "date_added": "2024-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107636,
+      "name": "never let me go.",
+      "url": "https://open.spotify.com/track/7CeFkmFqoe8uX6wFOOALQg"
+    },
+    {
+      "album": {
         "name": "Never Lose Me",
         "url": "https://open.spotify.com/album/4K5YnziH8o3NoEsxv8zviL"
       },
@@ -6668,6 +6690,24 @@
       "duration_ms": 95682,
       "name": "Respectless",
       "url": "https://open.spotify.com/track/6UTPUfrTvKzD7GhLAhi1x7"
+    },
+    {
+      "album": {
+        "name": "RISADA CHUCK 01",
+        "url": "https://open.spotify.com/album/7lolzbhq4moSJPfFpdosl5"
+      },
+      "artists": [
+        {
+          "name": "-Prey",
+          "url": "https://open.spotify.com/artist/3uA4unR7LBOcqjpbOeCs0Y"
+        }
+      ],
+      "date_added": "2024-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130360,
+      "name": "RISADA CHUCK 01 - Super Slowed",
+      "url": "https://open.spotify.com/track/2iRiWUoB7tNnG23KlM3Ui7"
     },
     {
       "album": {
@@ -8278,7 +8318,7 @@
       ],
       "date_added": "2024-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-08",
       "duration_ms": 118857,
       "name": "Tusa V.I.P.",
       "url": "https://open.spotify.com/track/1Yvgf0pkGvMiXzjclAVSFr"
@@ -13838,7 +13878,7 @@
       ],
       "date_added": "2024-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-08",
       "duration_ms": 172745,
       "name": "\u043f\u043e\u043a\u0430-\u043f\u043e\u043a\u0430",
       "url": "https://open.spotify.com/track/0sM2KjVjrKCF8g8qSyrF9f"
@@ -14074,6 +14114,24 @@
       "duration_ms": 116023,
       "name": "\u041f\u0440\u043e\u043a\u043b\u044f\u0442\u0438\u0435 \u0444\u0430\u0440\u0430\u043e\u043d\u0430",
       "url": "https://open.spotify.com/track/4G1zemyvoqSmXryjn6ZZJg"
+    },
+    {
+      "album": {
+        "name": "\u0422\u0440\u0438 \u041a\u0430\u0432\u0435\u0440\u0430 \u041d\u0430 \u0422\u0440\u0438 \u0422\u0440\u0435\u043a\u0430",
+        "url": "https://open.spotify.com/album/4UfrKkXrXeEU87lLdAzqsQ"
+      },
+      "artists": [
+        {
+          "name": "Stolen Loops",
+          "url": "https://open.spotify.com/artist/5DUuh9Uy0dc8Y9MFjLy0X8"
+        }
+      ],
+      "date_added": "2024-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279177,
+      "name": "\u041f\u0440\u043e\u0441\u043d\u0438\u0441\u044c",
+      "url": "https://open.spotify.com/track/3eHoVb8CC6Nal3DdbLA4su"
     },
     {
       "album": {
@@ -14322,7 +14380,7 @@
       ],
       "date_added": "2024-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-08",
       "duration_ms": 164370,
       "name": "\u0420\u0423\u0421\u0421\u041a\u0410\u042f \u0414\u0423\u0428\u0410",
       "url": "https://open.spotify.com/track/7lMKMh0hAyR1g38p1nmmqN"
@@ -16102,6 +16160,28 @@
       "duration_ms": 136800,
       "name": "\u042f \u0442\u0430\u043a \u043e\u0431\u043e\u0436\u0430\u044e",
       "url": "https://open.spotify.com/track/6BDDA2bRZv1HiEVqFpFKE7"
+    },
+    {
+      "album": {
+        "name": "\u042f \u0442\u0432\u043e\u0439 \u0446\u0432\u0435\u0442\u043e\u0447\u0435\u043a",
+        "url": "https://open.spotify.com/album/7rQnWT8XCvMKMg24QwgPEb"
+      },
+      "artists": [
+        {
+          "name": "Gera",
+          "url": "https://open.spotify.com/artist/5gvw5yan9mVD07EJcwFnRJ"
+        },
+        {
+          "name": "\u0421\u043e\u0444\u0438\u044f \u0421\u0442\u0435\u0446\u0435\u043d\u043a\u043e",
+          "url": "https://open.spotify.com/artist/0HvZNfqyl2DHn9zXumXqbp"
+        }
+      ],
+      "date_added": "2024-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203940,
+      "name": "\u042f \u0442\u0432\u043e\u0439 \u0446\u0432\u0435\u0442\u043e\u0447\u0435\u043a",
+      "url": "https://open.spotify.com/track/5lVSbArcIDOstmRFh1ywXc"
     },
     {
       "album": {

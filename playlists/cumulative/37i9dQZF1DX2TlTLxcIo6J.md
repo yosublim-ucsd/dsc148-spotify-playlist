@@ -2,7 +2,7 @@
 
 ### [RADAR Songwriters](https://open.spotify.com/playlist/37i9dQZF1DX2TlTLxcIo6J)
 
-> New songwriters on the horizon from around the world\. Cover: DUKE
+> New songwriters on the horizon from around the world\. Cover: DUKE.
 
 117 songs - 6 hr 8 min
 

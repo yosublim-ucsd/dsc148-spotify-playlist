@@ -1,37 +1,13 @@
 {
   "description": "Motion en good vibes met Jinho 9 & Chivv",
-  "num_followers": 327682,
+  "num_followers": 327710,
   "original_name": "La Vida Loca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwMIYAAAAACk3KFIizOm69fIl/7eAYgv",
+  "snapshot_id": "ZwPFKwAAAAAiT7s5HIsImnhr8oZI05Cw",
   "tracks": [
-    {
-      "added_at": "2024-10-03 22:00:00",
-      "album": {
-        "name": "Planga",
-        "url": "https://open.spotify.com/album/1fsn1JwBC8RZ89qym4N8KK"
-      },
-      "artists": [
-        {
-          "name": "Jinho 9",
-          "url": "https://open.spotify.com/artist/3gPtUdMiLkJgmQIxFpEhAk"
-        },
-        {
-          "name": "Chivv",
-          "url": "https://open.spotify.com/artist/0fXYDoSMO5PoGPrwB7ymij"
-        },
-        {
-          "name": "Puri",
-          "url": "https://open.spotify.com/artist/3ADyFy1orEwODaiHmRRMQp"
-        }
-      ],
-      "duration_ms": 133940,
-      "name": "Planga",
-      "url": "https://open.spotify.com/track/2MmF0gikbHDryK9Db5yoYV"
-    },
     {
       "added_at": "2024-10-03 22:00:00",
       "album": {
@@ -55,6 +31,30 @@
       "duration_ms": 147692,
       "name": "Modeshow",
       "url": "https://open.spotify.com/track/1HGov7XAwy9vx6upqGvPEc"
+    },
+    {
+      "added_at": "2024-10-03 22:00:00",
+      "album": {
+        "name": "Planga",
+        "url": "https://open.spotify.com/album/1fsn1JwBC8RZ89qym4N8KK"
+      },
+      "artists": [
+        {
+          "name": "Jinho 9",
+          "url": "https://open.spotify.com/artist/3gPtUdMiLkJgmQIxFpEhAk"
+        },
+        {
+          "name": "Chivv",
+          "url": "https://open.spotify.com/artist/2hBfmHHnM4dS4pJgEJENCg"
+        },
+        {
+          "name": "Puri",
+          "url": "https://open.spotify.com/artist/3ADyFy1orEwODaiHmRRMQp"
+        }
+      ],
+      "duration_ms": 133940,
+      "name": "Planga",
+      "url": "https://open.spotify.com/track/2MmF0gikbHDryK9Db5yoYV"
     },
     {
       "added_at": "2024-10-03 22:00:00",
@@ -91,6 +91,26 @@
       "duration_ms": 170031,
       "name": "JUDGEN",
       "url": "https://open.spotify.com/track/5CDn4HpxWhnesTPiDe1YS4"
+    },
+    {
+      "added_at": "2024-10-03 22:00:00",
+      "album": {
+        "name": "Vaag",
+        "url": "https://open.spotify.com/album/4xPi3Mfa8aclAnzrL0mSKp"
+      },
+      "artists": [
+        {
+          "name": "J.FIZ",
+          "url": "https://open.spotify.com/artist/0XlmgJDA7Zqoyyreep2YpT"
+        },
+        {
+          "name": "Ksix",
+          "url": "https://open.spotify.com/artist/2vzRN2N10AtxEHaxSIN1NR"
+        }
+      ],
+      "duration_ms": 133846,
+      "name": "Vaag",
+      "url": "https://open.spotify.com/track/6QZRtzAAHjWQ5NOCBflPNP"
     },
     {
       "added_at": "2024-10-03 22:00:00",
@@ -139,26 +159,6 @@
       "duration_ms": 128483,
       "name": "YOU",
       "url": "https://open.spotify.com/track/7z7zXc7sI8wTpxXPYnrsuM"
-    },
-    {
-      "added_at": "2024-10-03 22:00:00",
-      "album": {
-        "name": "Vaag",
-        "url": "https://open.spotify.com/album/4xPi3Mfa8aclAnzrL0mSKp"
-      },
-      "artists": [
-        {
-          "name": "J.FIZ",
-          "url": "https://open.spotify.com/artist/0XlmgJDA7Zqoyyreep2YpT"
-        },
-        {
-          "name": "Ksix",
-          "url": "https://open.spotify.com/artist/2vzRN2N10AtxEHaxSIN1NR"
-        }
-      ],
-      "duration_ms": 133846,
-      "name": "Vaag",
-      "url": "https://open.spotify.com/track/6QZRtzAAHjWQ5NOCBflPNP"
     },
     {
       "added_at": "2024-10-03 22:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "Check out the emerging independent tracks from these Telugu Artists!! Cover : Hemachandra",
-  "num_followers": 33480,
+  "num_followers": 33489,
   "original_name": "Telugu Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zv63UgAAAADkxRJeGyHqeIaHhNlDWpK/",
+  "snapshot_id": "ZwPe8AAAAADl7Ugo7Xez34FHKNxdtN15",
   "tracks": [
     {
       "added_at": "2024-10-03 06:15:54",
@@ -23,6 +23,58 @@
       "duration_ms": 192874,
       "name": "YOU ARE MINE",
       "url": "https://open.spotify.com/track/0Cue1z0aXGfQRYU4CqIAuW"
+    },
+    {
+      "added_at": "2024-10-07 09:36:29",
+      "album": {
+        "name": "Sitaara",
+        "url": "https://open.spotify.com/album/1NFMWGcu3uV7TtvNwStETI"
+      },
+      "artists": [
+        {
+          "name": "Jagdish Chintala",
+          "url": "https://open.spotify.com/artist/1Ll6Pj8fy7R3e6ghT2lzVC"
+        },
+        {
+          "name": "Ayaan",
+          "url": "https://open.spotify.com/artist/1MMBkicGbEkW5M1UimzBuP"
+        },
+        {
+          "name": "Manisha Eerabathini",
+          "url": "https://open.spotify.com/artist/7uTF7CgQzu55VR10qqG2yC"
+        },
+        {
+          "name": "Shashank Alamuru",
+          "url": "https://open.spotify.com/artist/1FRUQL3SPnXlce6Hqfk2eh"
+        }
+      ],
+      "duration_ms": 165333,
+      "name": "Sitaara",
+      "url": "https://open.spotify.com/track/2KP8VAuJiugv5UTUYcYSjo"
+    },
+    {
+      "added_at": "2024-10-07 13:05:03",
+      "album": {
+        "name": "Cheliya",
+        "url": "https://open.spotify.com/album/58zyOpghhBrhFRud0zubO8"
+      },
+      "artists": [
+        {
+          "name": "Iravu",
+          "url": "https://open.spotify.com/artist/32gGumlFxS3I49LH5cNcrH"
+        },
+        {
+          "name": "Sarvari",
+          "url": "https://open.spotify.com/artist/5uvwgTsZIeirSSpIIMvYFS"
+        },
+        {
+          "name": "Abhiram Lolla",
+          "url": "https://open.spotify.com/artist/6j0aLuBGUR4MNx9HAJcrwc"
+        }
+      ],
+      "duration_ms": 199200,
+      "name": "Cheliya",
+      "url": "https://open.spotify.com/track/7xclHxsTj8f3dy3Lco3Az6"
     },
     {
       "added_at": "2024-01-19 10:41:06",
@@ -79,6 +131,38 @@
       "duration_ms": 256355,
       "name": "Ninne Ninne",
       "url": "https://open.spotify.com/track/615Prn1ffC6mqJOLPrzWpg"
+    },
+    {
+      "added_at": "2024-10-07 13:15:27",
+      "album": {
+        "name": "Edo Bhayam",
+        "url": "https://open.spotify.com/album/5ptAuXYOstlXoGthcTkpeM"
+      },
+      "artists": [
+        {
+          "name": "Snigdha Sharma",
+          "url": "https://open.spotify.com/artist/5UvSpmSgcPlDX49LTyvdfl"
+        }
+      ],
+      "duration_ms": 117721,
+      "name": "Edo Bhayam",
+      "url": "https://open.spotify.com/track/6P2waqwcPRbHxsZqmzrSkk"
+    },
+    {
+      "added_at": "2024-10-07 13:05:03",
+      "album": {
+        "name": "Vinabadena",
+        "url": "https://open.spotify.com/album/3uywygrlPibb3GMkOrGMFA"
+      },
+      "artists": [
+        {
+          "name": "Addy Ville",
+          "url": "https://open.spotify.com/artist/4Lp6UZefmjMJFDGXfqP2qa"
+        }
+      ],
+      "duration_ms": 256303,
+      "name": "Vinabadena",
+      "url": "https://open.spotify.com/track/6cG3qqpGXiQ115hoMY0pOi"
     },
     {
       "added_at": "2022-12-15 05:24:18",

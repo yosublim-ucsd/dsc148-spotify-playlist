@@ -1,12 +1,12 @@
 {
-  "description": "This is Cardi B. De essenti\u00eble nummers, allemaal in \u00e9\u00e9n playlist.",
-  "num_followers": 675372,
-  "original_name": "This is Cardi B",
+  "description": "This is Cardi B. The essential tracks, all in one playlist.",
+  "num_followers": 675397,
+  "original_name": "This Is Cardi B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwCBgAAAAAADKj3t2FSVHzCyeZ5/s+87",
+  "snapshot_id": "ZwHTAAAAAADXaJ1LlpPSburD+sUtON33",
   "tracks": [
     {
       "added_at": null,
@@ -159,8 +159,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Taki Taki (with Selena Gomez, Ozuna & Cardi B)",
-        "url": "https://open.spotify.com/album/0ZHyvPke0EcVt6rYA8Ins3"
+        "name": "Carte Blanche",
+        "url": "https://open.spotify.com/album/2MFS6WG6jnPAgvJpV3PehR"
       },
       "artists": [
         {
@@ -181,8 +181,8 @@
         }
       ],
       "duration_ms": 212500,
-      "name": "Taki Taki (with Selena Gomez, Ozuna & Cardi B)",
-      "url": "https://open.spotify.com/track/4w8niZpiMy6qz1mntFA5uM"
+      "name": "Taki Taki (feat. Selena Gomez, Ozuna & Cardi B)",
+      "url": "https://open.spotify.com/track/0KoiMHhqKLoL4xM54rcWYY"
     },
     {
       "added_at": null,
@@ -1089,6 +1089,6 @@
       "url": "https://open.spotify.com/track/6JhP3KShSV3PlniSWYHYAl"
     }
   ],
-  "unique_name": "This is Cardi B",
+  "unique_name": "This Is Cardi B",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2xmY3T"
 }

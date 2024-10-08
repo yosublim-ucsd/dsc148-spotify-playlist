@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Az 50 legn\u00e9pszer\u0171bb dal Magyarorsz\u00e1gon. Cover: Lady Gaga, Bruno Mars",
+  "description": "Az 50 legn\u00e9pszer\u0171bb dal Magyarorsz\u00e1gon. Cover: Bruno X Spacc",
   "name": "Hot Hits Magyarorsz\u00e1g",
   "tracks": [
     {
@@ -360,7 +360,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-08",
       "duration_ms": 202743,
       "name": "Don't Turn The Bass Down",
       "url": "https://open.spotify.com/track/70xt0VZFShxSbfhTg3NcmF"
@@ -498,7 +498,7 @@
       ],
       "date_added": "2024-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-08",
       "duration_ms": 143330,
       "name": "Guess featuring Billie Eilish",
       "url": "https://open.spotify.com/track/3WOhcATHxK2SLNeP5W3v1v"
@@ -640,6 +640,24 @@
       "duration_ms": 169841,
       "name": "introvert\u00e1lt dal",
       "url": "https://open.spotify.com/track/2SoIhnJXdHp8oo0w9pktub"
+    },
+    {
+      "album": {
+        "name": "J\u00e9zus k\u00e9rlek h\u00edvj\u00e1l fel",
+        "url": "https://open.spotify.com/album/0FUvBz087oUFhM6EslUWBI"
+      },
+      "artists": [
+        {
+          "name": "Zakeus",
+          "url": "https://open.spotify.com/artist/50lp8qhb7cVGIj7YpCQ16B"
+        }
+      ],
+      "date_added": "2024-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160534,
+      "name": "J\u00e9zus k\u00e9rlek h\u00edvj\u00e1l fel",
+      "url": "https://open.spotify.com/track/5iAfEsRxQ6LjMZ7p2cWeOJ"
     },
     {
       "album": {
@@ -1012,7 +1030,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-08",
       "duration_ms": 144846,
       "name": "Pedro",
       "url": "https://open.spotify.com/track/48lxT5qJF0yYyf2z4wB4xW"
@@ -1077,6 +1095,24 @@
     },
     {
       "album": {
+        "name": "Sailor Song",
+        "url": "https://open.spotify.com/album/68CN2LzY8MoxO2udy2C22e"
+      },
+      "artists": [
+        {
+          "name": "Gigi Perez",
+          "url": "https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo"
+        }
+      ],
+      "date_added": "2024-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211978,
+      "name": "Sailor Song",
+      "url": "https://open.spotify.com/track/2262bWmqomIaJXwCRHr13j"
+    },
+    {
+      "album": {
         "name": "SE VELED SE N\u00c9LK\u00dcLED",
         "url": "https://open.spotify.com/album/6TgqXMKR7FmgeOaiWQJVOp"
       },
@@ -1118,6 +1154,24 @@
       "duration_ms": 139014,
       "name": "seholse",
       "url": "https://open.spotify.com/track/3NSBh6qLvHPHMVoj4ET5Rc"
+    },
+    {
+      "album": {
+        "name": "SISS",
+        "url": "https://open.spotify.com/album/6cCrVfhvI1Wy9G5w55wxlM"
+      },
+      "artists": [
+        {
+          "name": "Bruno X Spacc",
+          "url": "https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv"
+        }
+      ],
+      "date_added": "2024-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170934,
+      "name": "SISS",
+      "url": "https://open.spotify.com/track/2wYEY39laan1ePP1etfI1N"
     },
     {
       "album": {

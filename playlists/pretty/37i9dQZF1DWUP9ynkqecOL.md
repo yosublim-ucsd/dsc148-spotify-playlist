@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUP9ynkqecOL.md) - [plain]
 
 > Una mixtura de bombos, charangos y beats con los pies en la tierra y la mirada en el futuro.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,147 likes - 80 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,148 likes - 80 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUP9ynkqecOL.md) - [plain]
 | 64 | [Adiós pueblito de Iruya \- Guazú Remix](https://open.spotify.com/track/3hH6WqLMwcjN5tweLTx8Mv) | [El Remolón](https://open.spotify.com/artist/2ubr2Ri0ue6a0XHFWLJyaR), [Bárbara Silva](https://open.spotify.com/artist/4faJueSiIAdyws2gEOK3W1), [Guazú](https://open.spotify.com/artist/0eW7AKarke8r1vuzD5x8vK) | [Adiós pueblito de Iruya \(Guazú Remix\)](https://open.spotify.com/album/0sZm8op6Q2Q8dQlKuW6R2V) | 4:30 |
 | 65 | [Sirenita](https://open.spotify.com/track/2HuxNnfSAsbkQOrOpsWnpe) | [Lauphan](https://open.spotify.com/artist/3WCISvz5htT0JUmdjsHj1I) | [Litoraleza](https://open.spotify.com/album/28J5VHK9A7T5ooPnZFm7pc) | 3:28 |
 | 66 | [Carnabailito](https://open.spotify.com/track/0dm32LoQFdIwdS4GDj0tsK) | [Gaby Kerpel](https://open.spotify.com/artist/2cnT3zcI1uKvnT3n1JQnP4) | [CARNABAILITO](https://open.spotify.com/album/4QHsGumANBWVSTTMtK15HB) | 5:25 |
-| 67 | [Margarita y Margarito \(Remix\)](https://open.spotify.com/track/7g2s2MY4G7oa2VRuCs3PZZ) | [Las 3 Marias](https://open.spotify.com/artist/0oKNkfcAYLdVZ8zries7zx), [Rodrigo Gallardo](https://open.spotify.com/artist/3fxdn6mfKvNFJ1Zx37On7W) | [Margarita y Margarito \(Remix\)](https://open.spotify.com/album/0LEIGXcKfimgs8ccfzJcVg) | 5:51 |
-| 68 | [HACIA EL MAR \- Pol Nada Remix](https://open.spotify.com/track/3RevMlORUCSBeVpNNH9D1G) | [Carlos Braile](https://open.spotify.com/artist/659Vlm5tMVPeKVZG8h9VZT), [La Charo](https://open.spotify.com/artist/4kAM3B6DtYL1GZVIHBglKK), [Pol Nada](https://open.spotify.com/artist/1Dts5QEWhfTgrZvDBEdNUH) | [HACIA EL MAR \(Pol Nada Remix\)](https://open.spotify.com/album/4B1SL9dLGBJCOx7JFfo4x3) | 5:19 |
+| 67 | [HACIA EL MAR \- Pol Nada Remix](https://open.spotify.com/track/3RevMlORUCSBeVpNNH9D1G) | [Carlos Braile](https://open.spotify.com/artist/659Vlm5tMVPeKVZG8h9VZT), [La Charo](https://open.spotify.com/artist/4kAM3B6DtYL1GZVIHBglKK), [Pol Nada](https://open.spotify.com/artist/1Dts5QEWhfTgrZvDBEdNUH) | [HACIA EL MAR \(Pol Nada Remix\)](https://open.spotify.com/album/4B1SL9dLGBJCOx7JFfo4x3) | 5:19 |
+| 68 | [Margarita y Margarito \(Remix\)](https://open.spotify.com/track/7g2s2MY4G7oa2VRuCs3PZZ) | [Las 3 Marias](https://open.spotify.com/artist/0oKNkfcAYLdVZ8zries7zx), [Rodrigo Gallardo](https://open.spotify.com/artist/3fxdn6mfKvNFJ1Zx37On7W) | [Margarita y Margarito \(Remix\)](https://open.spotify.com/album/0LEIGXcKfimgs8ccfzJcVg) | 5:51 |
 | 69 | [Cada Uno con Su Bandera](https://open.spotify.com/track/15TMCqDL4fOiAv8AX5ckIi) | [Dat García](https://open.spotify.com/artist/0w34olI1oW0zc9bl7m8MpW) | [Cada Uno con Su Bandera](https://open.spotify.com/album/64VFo7Z9zmG9AQUVARHhvh) | 4:03 |
 | 70 | [Caracol](https://open.spotify.com/track/6xwFHo1JqCygt44XjshESr) | [Tremor](https://open.spotify.com/artist/5Qkex9yQ5V5FiC4qzMLndD) | [Viajante](https://open.spotify.com/album/57QX9cwsgpXluNSKfytRvm) | 4:10 |
 | 71 | [Coplita](https://open.spotify.com/track/4s6MCWAr01enmTFE9miOPC) | [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl), [Miriam García](https://open.spotify.com/artist/2mOHlObkV2dhspvDzllGOS) | [Amansara](https://open.spotify.com/album/14DTBgOPUSBQwiK0DCzaLl) | 3:49 |

@@ -4,7 +4,7 @@
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: Bialystocks
 
-1,913 songs - 4 day 22 hr 56 min
+1,914 songs - 4 day 22 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -961,6 +961,7 @@
 | [Space Rock](https://open.spotify.com/track/7JhAoTcI7WOrIV4bHhwdEd) | [SPOOL](https://open.spotify.com/artist/741byU7Mazqx3tGmciUzcK) | [Space Rock](https://open.spotify.com/album/4XzRLWL4VNajo39b7lfRq1) | 4:29 | 2024-07-09 | 2024-07-17 |
 | [Spaceship](https://open.spotify.com/track/5uTctpcdaA0o91A5LGx5LR) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg) | [Komorebi](https://open.spotify.com/album/18abfRUQQNVLHEA127jj6h) | 3:23 | 2024-04-23 | 2024-07-05 |
 | [Sparks](https://open.spotify.com/track/2z6EbZR9tXxESExgrUjVyP) | [Cornelius](https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9) | [Sparks](https://open.spotify.com/album/3NIn670h7MTBhU1VGfmQF7) | 4:22 | 2023-05-25 | 2023-07-12 |
+| [Speak Like](https://open.spotify.com/track/1fT0s3i9dKmBT9PrIJLB5Y) | [Velludo](https://open.spotify.com/artist/0ZFxspJHmeXIH5ox6XGyHG) | [Speak Like](https://open.spotify.com/album/5MWnWYNZg6X31mxDE3Cqiw) | 2:49 | 2024-10-01 |  |
 | [speedy?](https://open.spotify.com/track/5YK7GcYVpWN0Qji6MdtYE7) | [Sisters In The Velvet](https://open.spotify.com/artist/1XoEFInxxL0pnpFJBkzPNZ) | [speedy?](https://open.spotify.com/album/2BNgV119clP8lQxm1wwXkx) | 3:40 | 2024-05-07 | 2024-05-22 |
 | [Spell](https://open.spotify.com/track/5Pylm0fq66de9Zu9afs4hC) | [Hoach5000](https://open.spotify.com/artist/1LqzNg0KlZGwDrNClMNMYo) | [Spell](https://open.spotify.com/album/3m1vrEZ1igunA8vrGGdy9U) | 2:59 | 2023-10-12 | 2023-10-18 |
 | [SPIN!](https://open.spotify.com/track/0TRhOhFv8rLQlB7VEGfzxd) | [Galileo Galilei](https://open.spotify.com/artist/7p2S6p9yYGhJTtbTQFnsYZ) | [SPIN!](https://open.spotify.com/album/0tTKD0HDyTOjaXtbqsRXUY) | 3:08 | 2024-07-30 | 2024-09-18 |
@@ -1746,7 +1747,7 @@
 | [果敢無い光線](https://open.spotify.com/track/71ww56x3I292jonQNruHEm) | [江﨑文武](https://open.spotify.com/artist/3AAwWUnp6ZdLgfin1hQYd2), [Kei Matsumaru](https://open.spotify.com/artist/3mHyQil6LHrtKvJ2hrFN6e) | [はじまりの夜](https://open.spotify.com/album/2a4fbJxLjZzfTlSloBMJxL) | 3:39 | 2023-05-30 | 2023-06-21 |
 | [柔らかい影](https://open.spotify.com/track/4JseUox8CQxSsjdvfsrez9) | [松木美定](https://open.spotify.com/artist/4VytANV5Kt1OqJpzkkc6wA) | [THE MAGICAL TOUCH](https://open.spotify.com/album/6NbFZ5FRVocK8Re3pSJu4t) | 3:17 | 2023-11-29 | 2024-03-08 |
 | [栃木](https://open.spotify.com/track/2vLeNRYH7SaI1nNFzef2lA) | [Guiba](https://open.spotify.com/artist/2sQDtRUhEQYV97PR2EWESN) | [栃木](https://open.spotify.com/album/4OQvjxlUGnkFHo6tCZftwE) | 3:49 | 2024-03-07 | 2024-04-10 |
-| [栞](https://open.spotify.com/track/6bpeujh4x2kEYd8FDWZJOx) | [Fuki Kitamura](https://open.spotify.com/artist/0fOvbTCWRCSvYnOIFMiiX9), [草田一駿](https://open.spotify.com/artist/2aQPh8oulkkCiOeqRwSlCh) | [栞](https://open.spotify.com/album/1pbbqvubINafcryUI0cuhR) | 4:34 | 2024-09-03 |  |
+| [栞](https://open.spotify.com/track/6bpeujh4x2kEYd8FDWZJOx) | [Fuki Kitamura](https://open.spotify.com/artist/0fOvbTCWRCSvYnOIFMiiX9), [草田一駿](https://open.spotify.com/artist/2aQPh8oulkkCiOeqRwSlCh) | [栞](https://open.spotify.com/album/1pbbqvubINafcryUI0cuhR) | 4:34 | 2024-09-03 | 2024-10-08 |
 | [格好悪いふられ方](https://open.spotify.com/track/0NUtGGMrDe0uCEsOgwaKnX) | [Humbert Humbert](https://open.spotify.com/artist/5RI6QZwb39XNUV2vZv2aQY) | [格好悪いふられ方](https://open.spotify.com/album/7z1XV7hTBPhaLEFAGc3bPm) | 3:29 | 2023-09-05 | 2023-10-25 |
 | [桃源郷](https://open.spotify.com/track/0Tjvz28oGJvg6EIyQHIWvo) | [シャイトープ](https://open.spotify.com/artist/26JbIcCELE7o1nl8pw6Vlg) | [桃源郷](https://open.spotify.com/album/7JN2dM1jZOPxwdonfULaU3) | 4:03 | 2023-07-04 | 2023-10-11 |
 | [桜 super love \- Cover](https://open.spotify.com/track/2xP0DHOUveqDwX2YxWpZpT) | [猫戦](https://open.spotify.com/artist/7FpGOw2bG8j5OUBBAfVkR1) | [桜 super love \(Cover\)](https://open.spotify.com/album/46HduRUsP5IkQwX2BlA5OS) | 4:50 | 2023-03-21 | 2023-03-23 |

@@ -2,7 +2,7 @@
 
 ### [This Is Nanpa Básico](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0EB6q4)
 
-> This Is Nanpa Básico\. Les titres incontournables, réunis dans une seule et même playlist.
+> This is Nanpa Básico\. The essential tracks, all in one playlist.
 
 67 songs - 3 hr 56 min
 

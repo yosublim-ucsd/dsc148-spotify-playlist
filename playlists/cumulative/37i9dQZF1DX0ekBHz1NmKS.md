@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-1,637 songs - 3 day 13 hr 3 min
+1,639 songs - 3 day 13 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -595,7 +595,7 @@
 | [Hello Cowboy](https://open.spotify.com/track/2cA6vVOVZCopd5I3VkbLKi) | [Maja Francis](https://open.spotify.com/artist/0RxWnw4aoWwxXsC2cdCj4c) | [Hello Cowboy](https://open.spotify.com/album/5MF7mgDlb5nDBnOdWN7LsK) | 3:23 | 2024-03-21 | 2024-05-03 |
 | [Hello Life](https://open.spotify.com/track/65Ze1JjeWsYW8BtMjpJDJg) | [Brother Leo](https://open.spotify.com/artist/4FEOZMbo7XIdGHVrrioAP6) | [PoP Poetry \[pt\. 1\]](https://open.spotify.com/album/5r4LuaBBNNEYpJCPWFeLCU) | 3:58 | 2022-03-04 | 2022-05-13 |
 | [Helluva life](https://open.spotify.com/track/1lxnQq2RI4UXqXXegmiiVY) | [Hov1](https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt) | [Jag önskar jag brydde mig mer](https://open.spotify.com/album/5TPuPsRCf4FN29mAYqTToD) | 3:05 | 2024-05-09 | 2024-06-07 |
-| [Helpless](https://open.spotify.com/track/2mEbAMdx3LqPUYaK1IPecn) | [Andreas Moe](https://open.spotify.com/artist/5kW2ng5av985BfqrOMRpk0) | [Helpless](https://open.spotify.com/album/0sAWYyPG2zohCKd4SxSVd1) | 3:30 | 2024-08-15 |  |
+| [Helpless](https://open.spotify.com/track/2mEbAMdx3LqPUYaK1IPecn) | [Andreas Moe](https://open.spotify.com/artist/5kW2ng5av985BfqrOMRpk0) | [Helpless](https://open.spotify.com/album/0sAWYyPG2zohCKd4SxSVd1) | 3:30 | 2024-08-15 | 2024-10-08 |
 | [Helt allena](https://open.spotify.com/track/0br1JkuKdoIvPc1rPyT6qG) | [Simon Forslund](https://open.spotify.com/artist/4JnIwJLd03V0aofGGIH5uD) | [Helt allena](https://open.spotify.com/album/1RSDfkKCC2j5sEpP6qk3hG) | 2:24 | 2023-10-19 | 2024-01-26 |
 | [Helt rätt](https://open.spotify.com/track/2Etw9QgIYzhogP9YWgFxbv) | [TUAI](https://open.spotify.com/artist/2BM8oWFRsHTy9SMaeCjarR) | [Helt rätt](https://open.spotify.com/album/2lFsbvTq9t0ZYVjvYefjgj) | 2:20 | 2024-02-15 | 2024-04-05 |
 | [Henne](https://open.spotify.com/track/6mxXyZIUPV3udIDilFlKUv) | [Steph K](https://open.spotify.com/artist/4vmK9BYZz3j7jEWiHQJU6G) | [Henne](https://open.spotify.com/album/1hRZUFvy7SfCtyUdd2VBJt) | 2:54 | 2024-04-19 | 2024-05-24 |
@@ -789,7 +789,7 @@
 | [Kiss a Little Less](https://open.spotify.com/track/674Cu9dE65EX0N4PbjFLVR) | [Tone Sekelius](https://open.spotify.com/artist/60ocUh2KF1ZOSqjkxyt6jl) | [Kiss a Little Less](https://open.spotify.com/album/6uiIbsLYa4WWjWRJdraNqo) | 3:09 | 2024-04-18 | 2024-05-17 |
 | [Kiss Me](https://open.spotify.com/track/4JQQp0QINDwgTRlqQmC7xU) | [GRANT](https://open.spotify.com/artist/6SkVKlAmIWVD0LQvCGQqSj) | [Truth & Consequences](https://open.spotify.com/album/0UeGiO8l1r0HtBGmkkB9ic) | 3:21 | 2022-09-15 | 2022-09-30 |
 | [Kite \- Acoustic](https://open.spotify.com/track/3N7Xj01q72fQczJlpJyD78) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5), [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Kite \(Acoustic\)](https://open.spotify.com/album/5WdVCItE0te2sT4DwwvByd) | 2:29 | 2024-03-07 | 2024-04-19 |
-| [Klyschor](https://open.spotify.com/track/48FbJkI4sTkj4jbJGxqv9i) | [Nadja Evelina](https://open.spotify.com/artist/2LiW9iY4e5Mtfaoj5bdaRC) | [Klyschor](https://open.spotify.com/album/2CG51w8OSpena3TWNNNhYd) | 2:33 | 2024-08-08 |  |
+| [Klyschor](https://open.spotify.com/track/48FbJkI4sTkj4jbJGxqv9i) | [Nadja Evelina](https://open.spotify.com/artist/2LiW9iY4e5Mtfaoj5bdaRC) | [Klyschor](https://open.spotify.com/album/2CG51w8OSpena3TWNNNhYd) | 2:33 | 2024-08-08 | 2024-10-08 |
 | [Knallpulver](https://open.spotify.com/track/4KFTbuGudoMnSKwFlK4yrO) | [Niello](https://open.spotify.com/artist/3oKLD3PuOc20nNDoSCKDY7) | [Knallpulver](https://open.spotify.com/album/4OAO9n9fnusvbLTBa3m0fl) | 2:38 | 2022-05-26 | 2022-07-28 |
 | [Komma över dig \(feat\. Benjamin Ingrosso\)](https://open.spotify.com/track/7ahokyY6O0NK0PnpFBxUHM) | [Petter](https://open.spotify.com/artist/5A0Bu9azuFEnud3q7t0V2r), [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Komma över dig \(feat\. Benjamin Ingrosso\)](https://open.spotify.com/album/32HVqxhJDc732q8O1TeapO) | 3:08 | 2022-05-05 | 2023-02-18 |
 | [Konstig \(Förstår mig inte på dig\)](https://open.spotify.com/track/23CTXfKqXyz4QkEwCGONhz) | [Ella Hedström](https://open.spotify.com/artist/2yZOGE9w5XZPTWF9e6wYEr) | [Konstig \(Förstår mig inte på dig\)](https://open.spotify.com/album/3wGLhdFwuUVEpkuswcM5km) | 2:54 | 2022-05-05 | 2022-07-22 |
@@ -998,6 +998,7 @@
 | [Nej tack](https://open.spotify.com/track/68FwlFokEVkTWjq4VXh6kp) | [Emilia Pantic](https://open.spotify.com/artist/4VxhlCrL73BKHepsnxqLiG) | [Nej tack](https://open.spotify.com/album/62QivIfT2Pc2XxEhVo93jL) | 2:29 | 2024-02-29 | 2024-04-19 |
 | [Nej tack, det är bra!](https://open.spotify.com/track/3C23RjOroCMUmbdtmpSPX4) | [Myra Granberg](https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2) | [+3 bpm](https://open.spotify.com/album/7fZMtaTLaGtmxTr92ELKbq) | 2:15 | 2023-04-27 | 2023-10-20 |
 | [Neon Lights](https://open.spotify.com/track/7yDgeEC1EKU5klYxQPLCMb) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Neon Lights](https://open.spotify.com/album/5ChvqR6pa683F4PFICJqWE) | 3:29 | 2022-05-12 | 2023-10-06 |
+| [Never Change](https://open.spotify.com/track/4heXO8AkvpBMCpknbfeEhm) | [Honey.](https://open.spotify.com/artist/2Rki2mP8GPq0ZTeHqSbcMN) | [Halflove](https://open.spotify.com/album/6pQI6HbJIp2ztSPKTEQgyp) | 3:17 | 2024-10-04 |  |
 | [Never Enough](https://open.spotify.com/track/7dzSmIEjI8AO2ET2SLMUlw) | [Urban Cone](https://open.spotify.com/artist/3WOOglGBDGvr6c2WBeMAWn) | [Never Enough](https://open.spotify.com/album/3njKzpqfXbFpiZoSzPZeMe) | 3:06 | 2021-12-16 | 2022-02-15 |
 | [New World Coming](https://open.spotify.com/track/2vGSxCHc28CQFCLu45QGmL) | [Augustine](https://open.spotify.com/artist/1esNGCDFDiy6sKEqPhlLb4) | [New World Coming](https://open.spotify.com/album/6RkA5qwUrAGVe3mWn8KgFE) | 2:05 | 2022-11-10 | 2023-03-25 |
 | [Nightwalker](https://open.spotify.com/track/7eSoFXUfgb7QKPGcAHQ5IH) | [GRANT](https://open.spotify.com/artist/6SkVKlAmIWVD0LQvCGQqSj) | [Nightwalker](https://open.spotify.com/album/1mHq9ulE1PvexkZnpv5Lrs) | 2:32 | 2021-12-16 | 2022-05-13 |
@@ -1575,6 +1576,7 @@
 | [Walk Away](https://open.spotify.com/track/2HjiabJKOLvVze6mEZ7Yrk) | [Nicole Sabouné](https://open.spotify.com/artist/2lPG3ptKlBdxvQ8XlH8nEk) | [Kismet](https://open.spotify.com/album/2ZFspo0XyOmNF2YUpjosCl) | 4:10 | 2023-10-19 | 2023-10-27 |
 | [Want Your Love](https://open.spotify.com/track/0nf2kysFoQ7dZeGsJzMZ3R) | [Mollie Minott](https://open.spotify.com/artist/5qEUQIObnjiIqKMQtbxvTl) | [Want Your Love](https://open.spotify.com/album/06hTi27qfrfZY68OGzbBCG) | 2:42 | 2024-05-02 | 2024-06-01 |
 | [Wasn't Meant To Be](https://open.spotify.com/track/0GRw7DZGp7KC9Plsy4DDgn) | [Frans](https://open.spotify.com/artist/1y5T3Prq30eW5RkpaUWNOQ) | [Wasn't Meant To Be](https://open.spotify.com/album/2YvV30u3YMsFucH6dMXQib) | 3:13 | 2024-01-25 | 2024-03-15 |
+| [Wasted Years](https://open.spotify.com/track/0N5APTm9GGa7V0guEq2Hus) | [Sophie Zelmani](https://open.spotify.com/artist/59hh4MU8JBy0tvPlhz5fzk) | [Wasted Years](https://open.spotify.com/album/48UUllni9ssLwl8s3JQaMe) | 3:30 | 2024-10-04 |  |
 | [Water over wine](https://open.spotify.com/track/51W8HW4bkAWqc1MDfQpydS) | [Dolly Dolores](https://open.spotify.com/artist/0AKqrIVjkHri0sY1PqZQk7) | [Water over wine](https://open.spotify.com/album/5HHoFWh56BK2P6RH5B9CIF) | 2:59 | 2024-02-08 | 2024-02-25 |
 | [Water Pistol](https://open.spotify.com/track/66FQlENQhffJNXm8Ae4KIg) | [Yaeger](https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X) | [Water Pistol](https://open.spotify.com/album/338nJ7kiXQww30TUql5VjC) | 3:39 | 2022-11-10 | 2023-04-28 |
 | [We Fall in Love Sometimes](https://open.spotify.com/track/1PVx0wTCogf93dgfIDvn1a) | [joel](https://open.spotify.com/artist/01iqB1OLOnd5sNm6wo1jSR) | [Where the Tragic Happens](https://open.spotify.com/album/5wyVPQL9ZCTrYMpjjjV4Bo) | 2:53 | 2023-06-22 | 2023-10-20 |

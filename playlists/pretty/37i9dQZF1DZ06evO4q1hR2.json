@@ -1,12 +1,12 @@
 {
   "description": "This is El Coyote Y Su Banda Tierra Santa. The essential tracks, all in one playlist.",
-  "num_followers": 59445,
+  "num_followers": 59462,
   "original_name": "This Is El Coyote Y Su Banda Tierra Santa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwCBgAAAAAA5oH1N81tLwcFBWkboyQI3",
+  "snapshot_id": "ZwHTAAAAAACV7GFiweEGoIlJ8abXXm3L",
   "tracks": [
     {
       "added_at": null,
@@ -111,22 +111,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Polo Norte",
-        "url": "https://open.spotify.com/album/0mtRgmzxZP7qeD8Sr9yNPy"
-      },
-      "artists": [
-        {
-          "name": "El Coyote Y Su Banda Tierra Santa",
-          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
-        }
-      ],
-      "duration_ms": 203180,
-      "name": "Cita con un Invento",
-      "url": "https://open.spotify.com/track/773lk88kjUKstndUTL1W7F"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Levanta Tu Vuelo",
         "url": "https://open.spotify.com/album/3ZYwlE2KKfBSEdxCci9BfQ"
       },
@@ -139,6 +123,22 @@
       "duration_ms": 208300,
       "name": "Encerrado",
       "url": "https://open.spotify.com/track/7A5DHJzXRwhqZmZnxqphec"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Polo Norte",
+        "url": "https://open.spotify.com/album/0mtRgmzxZP7qeD8Sr9yNPy"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "duration_ms": 203180,
+      "name": "Cita con un Invento",
+      "url": "https://open.spotify.com/track/773lk88kjUKstndUTL1W7F"
     },
     {
       "added_at": null,
@@ -207,22 +207,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Puras Rancheras",
-        "url": "https://open.spotify.com/album/2oai80RcPheeeg0bNCPDRW"
-      },
-      "artists": [
-        {
-          "name": "El Coyote Y Su Banda Tierra Santa",
-          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
-        }
-      ],
-      "duration_ms": 148000,
-      "name": "Treinta Cartas",
-      "url": "https://open.spotify.com/track/7pAUPye8Lip2VnKmnzRiHD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Amo",
         "url": "https://open.spotify.com/album/4YblOZueMvUtw52G7DETSj"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 177266,
       "name": "Juan Ramos",
       "url": "https://open.spotify.com/track/1UbzmkVajS4YyoJLuGP7q9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Puras Rancheras",
+        "url": "https://open.spotify.com/album/2oai80RcPheeeg0bNCPDRW"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "duration_ms": 148000,
+      "name": "Treinta Cartas",
+      "url": "https://open.spotify.com/track/7pAUPye8Lip2VnKmnzRiHD"
     },
     {
       "added_at": null,
@@ -271,6 +271,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Amo",
+        "url": "https://open.spotify.com/album/4YblOZueMvUtw52G7DETSj"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "duration_ms": 146733,
+      "name": "El Federal De Caminos",
+      "url": "https://open.spotify.com/track/0vttfYDZ6uLi6kStSxkTrB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Prohibido (En Vivo)",
         "url": "https://open.spotify.com/album/7ij7uJXtBAxjZswsqYLfxl"
       },
@@ -287,22 +303,6 @@
       "duration_ms": 178202,
       "name": "Prohibido (En Vivo)",
       "url": "https://open.spotify.com/track/2oaXSRWXf0pjmODxwKBxmq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Amo",
-        "url": "https://open.spotify.com/album/4YblOZueMvUtw52G7DETSj"
-      },
-      "artists": [
-        {
-          "name": "El Coyote Y Su Banda Tierra Santa",
-          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
-        }
-      ],
-      "duration_ms": 146733,
-      "name": "El Federal De Caminos",
-      "url": "https://open.spotify.com/track/0vttfYDZ6uLi6kStSxkTrB"
     },
     {
       "added_at": null,
@@ -431,22 +431,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los Consejos",
-        "url": "https://open.spotify.com/album/69HmXefQRcw2rI58c7FJpe"
+        "name": "Lo Basico",
+        "url": "https://open.spotify.com/album/6CE7YrsZV7r70OadZDrPTS"
       },
       "artists": [
-        {
-          "name": "C\u00f3digo FN",
-          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
-        },
         {
           "name": "El Coyote Y Su Banda Tierra Santa",
           "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
         }
       ],
-      "duration_ms": 179258,
-      "name": "Los Consejos",
-      "url": "https://open.spotify.com/track/1oWeSp5UUClAqi6BChxsBY"
+      "duration_ms": 145773,
+      "name": "El Amor No Tiene Edad",
+      "url": "https://open.spotify.com/track/1YLEL2AzuL2yIxadFhgFw8"
     },
     {
       "added_at": null,
@@ -467,8 +463,28 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lo Basico",
-        "url": "https://open.spotify.com/album/6CE7YrsZV7r70OadZDrPTS"
+        "name": "Los Consejos",
+        "url": "https://open.spotify.com/album/69HmXefQRcw2rI58c7FJpe"
+      },
+      "artists": [
+        {
+          "name": "C\u00f3digo FN",
+          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
+        },
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "duration_ms": 179258,
+      "name": "Los Consejos",
+      "url": "https://open.spotify.com/track/1oWeSp5UUClAqi6BChxsBY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Esto Es Lo Nuestro - 20 Exitos",
+        "url": "https://open.spotify.com/album/7EVGFNX0svFH7FhInsIo2h"
       },
       "artists": [
         {
@@ -476,9 +492,9 @@
           "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
         }
       ],
-      "duration_ms": 145773,
-      "name": "El Amor No Tiene Edad",
-      "url": "https://open.spotify.com/track/1YLEL2AzuL2yIxadFhgFw8"
+      "duration_ms": 193666,
+      "name": "Profundamente",
+      "url": "https://open.spotify.com/track/4xfBuv8JI74VklmZb3pjoB"
     },
     {
       "added_at": null,
@@ -503,22 +519,6 @@
       "duration_ms": 137555,
       "name": "Te Vas Amor (En Vivo)",
       "url": "https://open.spotify.com/track/2YHLZsnlSJgVGN7MfNQyVt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Esto Es Lo Nuestro - 20 Exitos",
-        "url": "https://open.spotify.com/album/7EVGFNX0svFH7FhInsIo2h"
-      },
-      "artists": [
-        {
-          "name": "El Coyote Y Su Banda Tierra Santa",
-          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
-        }
-      ],
-      "duration_ms": 193666,
-      "name": "Profundamente",
-      "url": "https://open.spotify.com/track/4xfBuv8JI74VklmZb3pjoB"
     },
     {
       "added_at": null,
@@ -587,26 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alguien Dijo",
-        "url": "https://open.spotify.com/album/7hchsfuOEnlS3RZJDlZiLI"
-      },
-      "artists": [
-        {
-          "name": "Traviezoz de la Zierra",
-          "url": "https://open.spotify.com/artist/1tX4Yf64m81Ju9THQiXAzn"
-        },
-        {
-          "name": "El Coyote Y Su Banda Tierra Santa",
-          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
-        }
-      ],
-      "duration_ms": 137887,
-      "name": "Alguien Dijo",
-      "url": "https://open.spotify.com/track/66NFHHcWEEcKLfwhYzdtDy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Profundamente",
         "url": "https://open.spotify.com/album/78HIF5oTYm7ouvaMvFyz7i"
       },
@@ -635,6 +615,26 @@
       "duration_ms": 164666,
       "name": "Mi Coraz\u00f3n Te Quiere",
       "url": "https://open.spotify.com/track/6GtlSqp6S72hz1eRndGo8N"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Alguien Dijo",
+        "url": "https://open.spotify.com/album/7hchsfuOEnlS3RZJDlZiLI"
+      },
+      "artists": [
+        {
+          "name": "Traviezoz de la Zierra",
+          "url": "https://open.spotify.com/artist/1tX4Yf64m81Ju9THQiXAzn"
+        },
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "duration_ms": 137887,
+      "name": "Alguien Dijo",
+      "url": "https://open.spotify.com/track/66NFHHcWEEcKLfwhYzdtDy"
     },
     {
       "added_at": null,

@@ -315,6 +315,24 @@
     },
     {
       "album": {
+        "name": "BOMBEROS",
+        "url": "https://open.spotify.com/album/3lS6litcoyERbZEcK4gv0O"
+      },
+      "artists": [
+        {
+          "name": "BAJOCERO X",
+          "url": "https://open.spotify.com/artist/0zry48rNmbs7Qd3gM4YkEq"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140330,
+      "name": "BOMBEROS",
+      "url": "https://open.spotify.com/track/2KON1eH3Qh32FpuSm901K2"
+    },
+    {
+      "album": {
         "name": "CamGirl >.< !!!",
         "url": "https://open.spotify.com/album/53Pgsw3hhBWaiNcloEWovO"
       },
@@ -787,6 +805,28 @@
     },
     {
       "album": {
+        "name": "Hetero Pero",
+        "url": "https://open.spotify.com/album/0309jUpTGxLbb2lfi57Mdg"
+      },
+      "artists": [
+        {
+          "name": "K!ngdom",
+          "url": "https://open.spotify.com/artist/7awzJ795ZYRCpQktKCKgW4"
+        },
+        {
+          "name": "Suu",
+          "url": "https://open.spotify.com/artist/7He3EH9c66ZwBtIMHGdyIA"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199034,
+      "name": "Hetero Pero",
+      "url": "https://open.spotify.com/track/5hgfnnDrhPuS3SqtpFR1nd"
+    },
+    {
+      "album": {
         "name": "Humedad Valenciana",
         "url": "https://open.spotify.com/album/5wcgJVPQgrk3OOwpA8pTgC"
       },
@@ -890,7 +930,7 @@
       ],
       "date_added": "2024-06-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-02",
+      "date_removed": null,
       "duration_ms": 195840,
       "name": "Intacto",
       "url": "https://open.spotify.com/track/4jOI70Kq9jCpGbxEt80c7m"
@@ -1282,7 +1322,7 @@
       ],
       "date_added": "2024-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-08",
       "duration_ms": 198053,
       "name": "No vaya a ser",
       "url": "https://open.spotify.com/track/3QVP0l1NB4MS0mVXWVuao6"
@@ -1510,7 +1550,7 @@
       ],
       "date_added": "2024-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-08",
       "duration_ms": 191937,
       "name": "Put\u00f3n Verbenero",
       "url": "https://open.spotify.com/track/4J1wiCJoD62Wsibu8We17z"
@@ -1532,7 +1572,7 @@
       ],
       "date_added": "2024-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-08",
       "duration_ms": 200240,
       "name": "q putada! - summer edit",
       "url": "https://open.spotify.com/track/0Pi1VUqguB68icLxMCArVU"
@@ -1568,7 +1608,7 @@
       ],
       "date_added": "2024-06-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-06",
+      "date_removed": null,
       "duration_ms": 200437,
       "name": "Quiero Hacer M\u00fasica",
       "url": "https://open.spotify.com/track/2oHSAxKWJF2Qt19fauOIuM"
@@ -1906,7 +1946,7 @@
       ],
       "date_added": "2024-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-08",
       "duration_ms": 127500,
       "name": "Travesuras",
       "url": "https://open.spotify.com/track/21xJRnbHgHFMHvNqdmf73y"

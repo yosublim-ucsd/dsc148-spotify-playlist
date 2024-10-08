@@ -4018,7 +4018,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-04",
+      "date_removed": null,
       "duration_ms": 96000,
       "name": "clavia",
       "url": "https://open.spotify.com/track/1btRTBBwpv0ISGB0LScgz2"
@@ -4286,7 +4286,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-08",
       "duration_ms": 137171,
       "name": "Clouds",
       "url": "https://open.spotify.com/track/6nSaVcMVPGqrgZo8dXaw6a"
@@ -14381,6 +14381,24 @@
     },
     {
       "album": {
+        "name": "magnolia",
+        "url": "https://open.spotify.com/album/1ExdDj1kdicsO5xDFizeSB"
+      },
+      "artists": [
+        {
+          "name": "giannis wang",
+          "url": "https://open.spotify.com/artist/7gCQx2yCLDrGPTMa7fAY8y"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138461,
+      "name": "magnolia",
+      "url": "https://open.spotify.com/track/4Uarh7qmq8Irt4xbECXF1Q"
+    },
+    {
+      "album": {
         "name": "Make a Wish",
         "url": "https://open.spotify.com/album/1d7zcjhUURKwUtPlHBIwqy"
       },
@@ -14566,6 +14584,24 @@
       "duration_ms": 140117,
       "name": "Marbles",
       "url": "https://open.spotify.com/track/7McgbJW6Bo2WHx9tXmzoUA"
+    },
+    {
+      "album": {
+        "name": "Marupe Blues",
+        "url": "https://open.spotify.com/album/0Tz0WZwkhyKxtvvXlssb32"
+      },
+      "artists": [
+        {
+          "name": "Gooee",
+          "url": "https://open.spotify.com/artist/3dRsGVKzOLszqIM2I9Xhtf"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "Marupe Blues",
+      "url": "https://open.spotify.com/track/0LF6QrzIozQBkdR4OXECEm"
     },
     {
       "album": {
@@ -18474,7 +18510,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-08",
       "duration_ms": 142302,
       "name": "Perception",
       "url": "https://open.spotify.com/track/6771GihRWSltfIeiffL35K"
@@ -27948,7 +27984,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-08",
       "duration_ms": 132757,
       "name": "yessir",
       "url": "https://open.spotify.com/track/11NYe41SBy23zohFN71kWG"

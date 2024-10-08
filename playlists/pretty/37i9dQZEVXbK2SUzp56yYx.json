@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most viral tracks right now - Belarus.",
-  "num_followers": 1764,
+  "num_followers": 1765,
   "original_name": "Viral 50 - Belarus",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "LpX6yAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "LpdMSAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2024-10-06 13:38:19",
+      "added_at": "2024-10-07 14:05:44",
       "album": {
         "name": "\u041c\u0430\u043c\u0430 \u0443\u0434\u0430\u043b\u0438\u043b\u0430 \u0440\u043e\u0431\u043b\u043e\u043a\u0441",
         "url": "https://open.spotify.com/album/5WFxDp5Oyuc2GfJE142S9l"
@@ -33,7 +33,7 @@
       "url": "https://open.spotify.com/track/6HqBnPp3mZCQYHJ9n9ACNk"
     },
     {
-      "added_at": "2024-10-06 13:38:19",
+      "added_at": "2024-10-07 14:05:44",
       "album": {
         "name": "\u041e\u0434\u0438\u043d \u0432 \u043f\u043e\u043b\u0435 \u0432\u043e\u0438\u043d",
         "url": "https://open.spotify.com/album/2Hti42KDehvuy8EkI9uS0R"
@@ -49,7 +49,23 @@
       "url": "https://open.spotify.com/track/3Xwcof1GcBwBXz2VvNPfIj"
     },
     {
-      "added_at": "2024-10-06 13:38:19",
+      "added_at": "2024-10-07 14:05:44",
+      "album": {
+        "name": "we fell in love in october / October Passed Me By",
+        "url": "https://open.spotify.com/album/7vud0sY43VTv28MbWiglDa"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "duration_ms": 184153,
+      "name": "we fell in love in october",
+      "url": "https://open.spotify.com/track/6IPwKM3fUUzlElbvKw2sKl"
+    },
+    {
+      "added_at": "2024-10-07 14:05:44",
       "album": {
         "name": "Mezzanine",
         "url": "https://open.spotify.com/album/49MNmJhZQewjt06rpwp6QR"
@@ -69,23 +85,7 @@
       "url": "https://open.spotify.com/track/7uv632EkfwYhXoqf8rhYrg"
     },
     {
-      "added_at": "2024-10-06 13:38:19",
-      "album": {
-        "name": "we fell in love in october / October Passed Me By",
-        "url": "https://open.spotify.com/album/7vud0sY43VTv28MbWiglDa"
-      },
-      "artists": [
-        {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
-        }
-      ],
-      "duration_ms": 184153,
-      "name": "we fell in love in october",
-      "url": "https://open.spotify.com/track/6IPwKM3fUUzlElbvKw2sKl"
-    },
-    {
-      "added_at": "2024-10-06 13:38:19",
+      "added_at": "2024-10-07 14:05:44",
       "album": {
         "name": "Embrace It",
         "url": "https://open.spotify.com/album/0mV9Pfr1GfoZLkp1EAau9P"
@@ -101,23 +101,23 @@
       "url": "https://open.spotify.com/track/0io16MKpbeDIdYzmGpQaES"
     },
     {
-      "added_at": "2024-10-06 13:38:19",
+      "added_at": "2024-10-07 14:05:44",
       "album": {
-        "name": "\u0411\u043e\u043b\u044c\u0448\u0430\u044f \u043a\u043e\u043b\u043b\u0435\u043a\u0446\u0438\u044f",
-        "url": "https://open.spotify.com/album/0U2aOK22Ib9bJPkxa2qzTU"
+        "name": "April Mixtape 3",
+        "url": "https://open.spotify.com/album/56hrhzHAOsm5C7kSXzF4kh"
       },
       "artists": [
         {
-          "name": "\u0414\u044e\u043d\u0430",
-          "url": "https://open.spotify.com/artist/0ILtPcpkFIOl6B5GuLdUGf"
+          "name": "Snow Strippers",
+          "url": "https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8"
         }
       ],
-      "duration_ms": 138413,
-      "name": "\u041f\u0440\u0438\u0432\u0435\u0442 \u0441 \u0431\u043e\u043b\u044c\u0448\u043e\u0433\u043e \u0431\u043e\u0434\u0443\u043d\u0430",
-      "url": "https://open.spotify.com/track/42OIF8BmQk2IyZCtpH9C4x"
+      "duration_ms": 218500,
+      "name": "Under Your Spell",
+      "url": "https://open.spotify.com/track/3iRoXGFrF8O0jTul6LAmus"
     },
     {
-      "added_at": "2024-10-06 13:38:19",
+      "added_at": "2024-10-07 14:05:44",
       "album": {
         "name": "Heavy Metal 2",
         "url": "https://open.spotify.com/album/2apmGMKFppnLu7eccTQwM2"
@@ -137,23 +137,39 @@
       "url": "https://open.spotify.com/track/6dXPD2BzUrKjceT1c3eOtK"
     },
     {
-      "added_at": "2024-10-06 13:38:19",
+      "added_at": "2024-10-07 14:05:44",
       "album": {
-        "name": "April Mixtape 3",
-        "url": "https://open.spotify.com/album/56hrhzHAOsm5C7kSXzF4kh"
+        "name": "\u0411\u043e\u043b\u044c\u0448\u0430\u044f \u043a\u043e\u043b\u043b\u0435\u043a\u0446\u0438\u044f",
+        "url": "https://open.spotify.com/album/0U2aOK22Ib9bJPkxa2qzTU"
       },
       "artists": [
         {
-          "name": "Snow Strippers",
-          "url": "https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8"
+          "name": "\u0414\u044e\u043d\u0430",
+          "url": "https://open.spotify.com/artist/0ILtPcpkFIOl6B5GuLdUGf"
         }
       ],
-      "duration_ms": 218500,
-      "name": "Under Your Spell",
-      "url": "https://open.spotify.com/track/3iRoXGFrF8O0jTul6LAmus"
+      "duration_ms": 138413,
+      "name": "\u041f\u0440\u0438\u0432\u0435\u0442 \u0441 \u0431\u043e\u043b\u044c\u0448\u043e\u0433\u043e \u0431\u043e\u0434\u0443\u043d\u0430",
+      "url": "https://open.spotify.com/track/42OIF8BmQk2IyZCtpH9C4x"
     },
     {
-      "added_at": "2024-10-06 13:38:19",
+      "added_at": "2024-10-07 14:05:44",
+      "album": {
+        "name": "\u0412\u043e\u043a\u0440\u0443\u0433 \u0441\u0432\u0435\u0442\u0430",
+        "url": "https://open.spotify.com/album/1cAWbHu8Cr5ovfa4IinouC"
+      },
+      "artists": [
+        {
+          "name": "Car-Man",
+          "url": "https://open.spotify.com/artist/1m5PTRE24aukZ7h4y5ebGF"
+        }
+      ],
+      "duration_ms": 298013,
+      "name": "\u0427\u0438\u043e-\u0427\u0438\u043e-\u0441\u0430\u043d",
+      "url": "https://open.spotify.com/track/5eRiD1X9qiWRnL9QQAtq2V"
+    },
+    {
+      "added_at": "2024-10-07 14:05:44",
       "album": {
         "name": "Born Sinner (Deluxe Version)",
         "url": "https://open.spotify.com/album/5FP9keIJnlSCKnkdVOf623"
@@ -177,39 +193,7 @@
       "url": "https://open.spotify.com/track/0Fs9cdPDhptWEDJmiCbkEW"
     },
     {
-      "added_at": "2024-10-06 13:38:19",
-      "album": {
-        "name": "\u0412\u043e\u043a\u0440\u0443\u0433 \u0441\u0432\u0435\u0442\u0430",
-        "url": "https://open.spotify.com/album/1cAWbHu8Cr5ovfa4IinouC"
-      },
-      "artists": [
-        {
-          "name": "Car-Man",
-          "url": "https://open.spotify.com/artist/1m5PTRE24aukZ7h4y5ebGF"
-        }
-      ],
-      "duration_ms": 298013,
-      "name": "\u0427\u0438\u043e-\u0427\u0438\u043e-\u0441\u0430\u043d",
-      "url": "https://open.spotify.com/track/5eRiD1X9qiWRnL9QQAtq2V"
-    },
-    {
-      "added_at": "2024-10-06 13:38:19",
-      "album": {
-        "name": "Why's this dealer?",
-        "url": "https://open.spotify.com/album/7qQGDOIpEcgmt1VsZ6qkZX"
-      },
-      "artists": [
-        {
-          "name": "Niko B",
-          "url": "https://open.spotify.com/artist/3GViqleny7XZGug7Ym2Fjk"
-        }
-      ],
-      "duration_ms": 129571,
-      "name": "Why's this dealer?",
-      "url": "https://open.spotify.com/track/6RvLWcPTuaKfq11vi9csOK"
-    },
-    {
-      "added_at": "2024-10-06 13:38:19",
+      "added_at": "2024-10-07 14:05:44",
       "album": {
         "name": "FUNK DO BOUNCE (Slowed)",
         "url": "https://open.spotify.com/album/6Zd0Hg3HKVH7xhBPgESQy1"
@@ -225,7 +209,39 @@
       "url": "https://open.spotify.com/track/7IBqHkoP94VrgYKVns4eNz"
     },
     {
-      "added_at": "2024-10-06 13:38:19",
+      "added_at": "2024-10-07 14:05:44",
+      "album": {
+        "name": "Why's this dealer?",
+        "url": "https://open.spotify.com/album/7qQGDOIpEcgmt1VsZ6qkZX"
+      },
+      "artists": [
+        {
+          "name": "Niko B",
+          "url": "https://open.spotify.com/artist/3GViqleny7XZGug7Ym2Fjk"
+        }
+      ],
+      "duration_ms": 129571,
+      "name": "Why's this dealer?",
+      "url": "https://open.spotify.com/track/6RvLWcPTuaKfq11vi9csOK"
+    },
+    {
+      "added_at": "2024-10-07 14:05:44",
+      "album": {
+        "name": "glory of heartbroken",
+        "url": "https://open.spotify.com/album/4QmiLoejMWqz0UEATY8GXc"
+      },
+      "artists": [
+        {
+          "name": "fallen777angel",
+          "url": "https://open.spotify.com/artist/5ByAEWetNZ95GufzBSOkc3"
+        }
+      ],
+      "duration_ms": 104026,
+      "name": "\u0433\u043b\u0430\u0434\u0438\u0430\u0442\u043e\u0440/\u0440\u044b\u0446\u0430\u0440\u044c",
+      "url": "https://open.spotify.com/track/3nNKws5aNnTa3tgQOIS5Sk"
+    },
+    {
+      "added_at": "2024-10-07 14:05:44",
       "album": {
         "name": "Heavy Metal 2",
         "url": "https://open.spotify.com/album/2apmGMKFppnLu7eccTQwM2"
@@ -245,23 +261,7 @@
       "url": "https://open.spotify.com/track/01OCztdBtk4POwQcqV1LrZ"
     },
     {
-      "added_at": "2024-10-06 13:38:19",
-      "album": {
-        "name": "glory of heartbroken",
-        "url": "https://open.spotify.com/album/4QmiLoejMWqz0UEATY8GXc"
-      },
-      "artists": [
-        {
-          "name": "fallen777angel",
-          "url": "https://open.spotify.com/artist/5ByAEWetNZ95GufzBSOkc3"
-        }
-      ],
-      "duration_ms": 104026,
-      "name": "\u0433\u043b\u0430\u0434\u0438\u0430\u0442\u043e\u0440/\u0440\u044b\u0446\u0430\u0440\u044c",
-      "url": "https://open.spotify.com/track/3nNKws5aNnTa3tgQOIS5Sk"
-    },
-    {
-      "added_at": "2024-10-06 13:38:19",
+      "added_at": "2024-10-07 14:05:44",
       "album": {
         "name": "Kiss Me",
         "url": "https://open.spotify.com/album/7bTspr2AlXH0siZ4Ib61t4"
@@ -281,7 +281,39 @@
       "url": "https://open.spotify.com/track/0slfJpxjuarx8317R1CBhS"
     },
     {
-      "added_at": "2024-10-06 13:38:19",
+      "added_at": "2024-10-07 14:05:44",
+      "album": {
+        "name": "Royal Bastards",
+        "url": "https://open.spotify.com/album/2PuUE6oBxsZFMtojQkWFPs"
+      },
+      "artists": [
+        {
+          "name": "Icegergert",
+          "url": "https://open.spotify.com/artist/4z3TiM4dsnvWDRcnqf3l0r"
+        }
+      ],
+      "duration_ms": 86557,
+      "name": "Her loss",
+      "url": "https://open.spotify.com/track/785GgCAABPnVr3qaGTbhFU"
+    },
+    {
+      "added_at": "2024-10-07 14:05:44",
+      "album": {
+        "name": "Dinner in America Soundtrack",
+        "url": "https://open.spotify.com/album/27V04EIO90mLb00XnNlKHd"
+      },
+      "artists": [
+        {
+          "name": "John + Jane Q. Public",
+          "url": "https://open.spotify.com/artist/0W8oOa4Oc65CDjiVjdZihf"
+        }
+      ],
+      "duration_ms": 110110,
+      "name": "Watermelon",
+      "url": "https://open.spotify.com/track/03W2WiY9OSnUI4F9dy9L60"
+    },
+    {
+      "added_at": "2024-10-07 14:05:44",
       "album": {
         "name": "\u0414\u0435\u043a\u0430\u043c\u0435\u0440\u043e\u043d",
         "url": "https://open.spotify.com/album/7wJZybWn4z6cSPTZmXkeVk"
@@ -297,7 +329,23 @@
       "url": "https://open.spotify.com/track/2BKRGzTlCSV18OyrPBlvLe"
     },
     {
-      "added_at": "2024-10-06 13:38:19",
+      "added_at": "2024-10-07 14:05:44",
+      "album": {
+        "name": "\u041e\u0410\u041e \u00ab\u0411\u041b\u0418\u0417\u041a\u0418\u0415\u00bb",
+        "url": "https://open.spotify.com/album/6sngSlm8ZQW7SJwJc0H1Tw"
+      },
+      "artists": [
+        {
+          "name": "Icegergert",
+          "url": "https://open.spotify.com/artist/4z3TiM4dsnvWDRcnqf3l0r"
+        }
+      ],
+      "duration_ms": 188448,
+      "name": "\u0413\u0440\u0430\u0431\u0438\u0442\u0435\u043b\u044c 78",
+      "url": "https://open.spotify.com/track/06FMXRY2xu8PIbMRuRnges"
+    },
+    {
+      "added_at": "2024-10-07 14:05:44",
       "album": {
         "name": "Heavy Metal 2",
         "url": "https://open.spotify.com/album/2apmGMKFppnLu7eccTQwM2"
@@ -317,39 +365,7 @@
       "url": "https://open.spotify.com/track/4gypp6InByEhUi7ssgWtAx"
     },
     {
-      "added_at": "2024-10-06 13:38:19",
-      "album": {
-        "name": "Underdog",
-        "url": "https://open.spotify.com/album/49dGGP7fEk7x1R7VC4YM3B"
-      },
-      "artists": [
-        {
-          "name": "Brutto",
-          "url": "https://open.spotify.com/artist/03H5nr2bw0gPHj4lRJCUzD"
-        }
-      ],
-      "duration_ms": 151872,
-      "name": "Underdog",
-      "url": "https://open.spotify.com/track/2A8PTPJSAmuJENg6Y7gp31"
-    },
-    {
-      "added_at": "2024-10-06 13:38:19",
-      "album": {
-        "name": "void",
-        "url": "https://open.spotify.com/album/7wMbhXcy5aBZhpv6HYTIlx"
-      },
-      "artists": [
-        {
-          "name": "isq",
-          "url": "https://open.spotify.com/artist/6JjQbtAO09K7qBEW2pdX5s"
-        }
-      ],
-      "duration_ms": 101420,
-      "name": "void - super slowed",
-      "url": "https://open.spotify.com/track/0ujPplwuZcH5skG5R2E9Hz"
-    },
-    {
-      "added_at": "2024-10-06 13:38:19",
+      "added_at": "2024-10-07 14:05:44",
       "album": {
         "name": "\u041c\u0430\u0433\u0430\u0437\u0438\u043d \u0438\u0433\u0440\u0443\u0448\u0435\u043a \u0434\u043b\u044f \u0432\u0437\u0440\u043e\u0441\u043b\u044b\u0445",
         "url": "https://open.spotify.com/album/5aMa4f9Jn8BANK62xzWywu"
@@ -365,10 +381,58 @@
       "url": "https://open.spotify.com/track/2tSOz2c3qqs8jOdlyMvHww"
     },
     {
-      "added_at": "2024-10-06 13:38:19",
+      "added_at": "2024-10-07 14:05:44",
       "album": {
-        "name": "\u041e\u0410\u041e \u00ab\u0411\u041b\u0418\u0417\u041a\u0418\u0415\u00bb",
-        "url": "https://open.spotify.com/album/6sngSlm8ZQW7SJwJc0H1Tw"
+        "name": "Underdog",
+        "url": "https://open.spotify.com/album/49dGGP7fEk7x1R7VC4YM3B"
+      },
+      "artists": [
+        {
+          "name": "Brutto",
+          "url": "https://open.spotify.com/artist/03H5nr2bw0gPHj4lRJCUzD"
+        }
+      ],
+      "duration_ms": 151872,
+      "name": "Underdog",
+      "url": "https://open.spotify.com/track/2A8PTPJSAmuJENg6Y7gp31"
+    },
+    {
+      "added_at": "2024-10-07 14:05:44",
+      "album": {
+        "name": "Invincible",
+        "url": "https://open.spotify.com/album/52E4RP7XDzalpIrOgSTgiQ"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 288533,
+      "name": "Heaven Can Wait",
+      "url": "https://open.spotify.com/track/1AZXNAVDD9ZFIEKySgflFz"
+    },
+    {
+      "added_at": "2024-10-07 14:05:44",
+      "album": {
+        "name": "void",
+        "url": "https://open.spotify.com/album/7wMbhXcy5aBZhpv6HYTIlx"
+      },
+      "artists": [
+        {
+          "name": "isq",
+          "url": "https://open.spotify.com/artist/6JjQbtAO09K7qBEW2pdX5s"
+        }
+      ],
+      "duration_ms": 101420,
+      "name": "void - super slowed",
+      "url": "https://open.spotify.com/track/0ujPplwuZcH5skG5R2E9Hz"
+    },
+    {
+      "added_at": "2024-10-07 14:05:44",
+      "album": {
+        "name": "\u041e\u043f\u0440\u0438\u0447\u043d\u0438\u043a\u0438",
+        "url": "https://open.spotify.com/album/0lO58r3X3BvNQPbCoBHafl"
       },
       "artists": [
         {
@@ -376,32 +440,12 @@
           "url": "https://open.spotify.com/artist/4z3TiM4dsnvWDRcnqf3l0r"
         }
       ],
-      "duration_ms": 188448,
-      "name": "\u0413\u0440\u0430\u0431\u0438\u0442\u0435\u043b\u044c 78",
-      "url": "https://open.spotify.com/track/06FMXRY2xu8PIbMRuRnges"
+      "duration_ms": 116470,
+      "name": "78 flow",
+      "url": "https://open.spotify.com/track/4Hp1floq6WB8SLg8OIoa6T"
     },
     {
-      "added_at": "2024-10-06 13:38:19",
-      "album": {
-        "name": "Heavy Metal 2",
-        "url": "https://open.spotify.com/album/2apmGMKFppnLu7eccTQwM2"
-      },
-      "artists": [
-        {
-          "name": "9mice",
-          "url": "https://open.spotify.com/artist/3v0qTkZvuro4johOZyIhOm"
-        },
-        {
-          "name": "Kai Angel",
-          "url": "https://open.spotify.com/artist/1pxLlPRiWRUBGdSOrVL4f0"
-        }
-      ],
-      "duration_ms": 131180,
-      "name": "2017",
-      "url": "https://open.spotify.com/track/3JlIUrzdTsW3tpFiwYOpJJ"
-    },
-    {
-      "added_at": "2024-10-06 13:38:19",
+      "added_at": "2024-10-07 14:05:44",
       "album": {
         "name": "PYTHON FUNK",
         "url": "https://open.spotify.com/album/7JslfZtjZ430btdARyxLQ4"
@@ -421,7 +465,27 @@
       "url": "https://open.spotify.com/track/4YvxfQF9QCXykqi2ahREC4"
     },
     {
-      "added_at": "2024-10-06 13:38:19",
+      "added_at": "2024-10-07 14:05:44",
+      "album": {
+        "name": "Heavy Metal 2",
+        "url": "https://open.spotify.com/album/2apmGMKFppnLu7eccTQwM2"
+      },
+      "artists": [
+        {
+          "name": "9mice",
+          "url": "https://open.spotify.com/artist/3v0qTkZvuro4johOZyIhOm"
+        },
+        {
+          "name": "Kai Angel",
+          "url": "https://open.spotify.com/artist/1pxLlPRiWRUBGdSOrVL4f0"
+        }
+      ],
+      "duration_ms": 131180,
+      "name": "2017",
+      "url": "https://open.spotify.com/track/3JlIUrzdTsW3tpFiwYOpJJ"
+    },
+    {
+      "added_at": "2024-10-07 14:05:44",
       "album": {
         "name": "Heavy Metal 2",
         "url": "https://open.spotify.com/album/2apmGMKFppnLu7eccTQwM2"
@@ -441,39 +505,23 @@
       "url": "https://open.spotify.com/track/47Mdp52cM7pGwm5FmQcMPD"
     },
     {
-      "added_at": "2024-10-06 13:38:19",
+      "added_at": "2024-10-07 14:05:44",
       "album": {
-        "name": "2027",
-        "url": "https://open.spotify.com/album/55QrY0TCtdtcZtF1ri2Q34"
+        "name": "\u0417\u0410 \u0422\u041e\u0411\u041e\u0419 \u0426\u0412\u0415\u0422\u042b",
+        "url": "https://open.spotify.com/album/4zACegvY0icJYt4KtCes70"
       },
       "artists": [
         {
-          "name": "REMINI",
-          "url": "https://open.spotify.com/artist/00efGghwOdHy0gQ8zPR5xB"
+          "name": "JF Voice",
+          "url": "https://open.spotify.com/artist/6S5qRHgaBLmb7ZxZvcN9g5"
         }
       ],
-      "duration_ms": 89308,
-      "name": "2027",
-      "url": "https://open.spotify.com/track/6z4j68igsGUF3oc7v5OSaD"
+      "duration_ms": 204000,
+      "name": "\u0417\u0410 \u0422\u041e\u0411\u041e\u0419 \u0426\u0412\u0415\u0422\u042b",
+      "url": "https://open.spotify.com/track/0zqNaa8S5OSVkpMzroC7M0"
     },
     {
-      "added_at": "2024-10-06 13:38:19",
-      "album": {
-        "name": "Dinner in America Soundtrack",
-        "url": "https://open.spotify.com/album/27V04EIO90mLb00XnNlKHd"
-      },
-      "artists": [
-        {
-          "name": "John + Jane Q. Public",
-          "url": "https://open.spotify.com/artist/0W8oOa4Oc65CDjiVjdZihf"
-        }
-      ],
-      "duration_ms": 110110,
-      "name": "Watermelon",
-      "url": "https://open.spotify.com/track/03W2WiY9OSnUI4F9dy9L60"
-    },
-    {
-      "added_at": "2024-10-06 13:38:19",
+      "added_at": "2024-10-07 14:05:44",
       "album": {
         "name": "Diet Pepsi",
         "url": "https://open.spotify.com/album/0XA403JTounqFh2owquBXu"
@@ -489,23 +537,39 @@
       "url": "https://open.spotify.com/track/6MzofobZt2dm0Kf1hTThFz"
     },
     {
-      "added_at": "2024-10-06 13:38:19",
+      "added_at": "2024-10-07 14:05:44",
       "album": {
-        "name": "Royal Bastards",
-        "url": "https://open.spotify.com/album/2PuUE6oBxsZFMtojQkWFPs"
+        "name": "\u0410\u0434\u0441\u043a\u0430\u044f \u043a\u043e\u043b\u044b\u0431\u0435\u043b\u044c\u043d\u0430\u044f",
+        "url": "https://open.spotify.com/album/1cmB7sCh1AS1hdpFCbEKOS"
       },
       "artists": [
         {
-          "name": "Icegergert",
-          "url": "https://open.spotify.com/artist/4z3TiM4dsnvWDRcnqf3l0r"
+          "name": "Poshlaya Molly",
+          "url": "https://open.spotify.com/artist/0xByDfltDVpk6LDsUMHyI2"
         }
       ],
-      "duration_ms": 86557,
-      "name": "Her loss",
-      "url": "https://open.spotify.com/track/785GgCAABPnVr3qaGTbhFU"
+      "duration_ms": 178296,
+      "name": "\u0410\u0434\u0441\u043a\u0430\u044f \u043a\u043e\u043b\u044b\u0431\u0435\u043b\u044c\u043d\u0430\u044f",
+      "url": "https://open.spotify.com/track/2pyjr4JKVkG03LmWBIusur"
     },
     {
-      "added_at": "2024-10-06 13:38:19",
+      "added_at": "2024-10-07 14:05:44",
+      "album": {
+        "name": "2027",
+        "url": "https://open.spotify.com/album/55QrY0TCtdtcZtF1ri2Q34"
+      },
+      "artists": [
+        {
+          "name": "REMINI",
+          "url": "https://open.spotify.com/artist/00efGghwOdHy0gQ8zPR5xB"
+        }
+      ],
+      "duration_ms": 89308,
+      "name": "2027",
+      "url": "https://open.spotify.com/track/6z4j68igsGUF3oc7v5OSaD"
+    },
+    {
+      "added_at": "2024-10-07 14:05:44",
       "album": {
         "name": "Persona 3 Reload Original Soundtrack",
         "url": "https://open.spotify.com/album/20Bf2RVERC5Bc2eo3vyvJv"
@@ -533,55 +597,39 @@
       "url": "https://open.spotify.com/track/3znIACSXPLn3HFCf7moZ28"
     },
     {
-      "added_at": "2024-10-06 13:38:19",
+      "added_at": "2024-10-07 14:05:44",
       "album": {
-        "name": "\u0417\u0410 \u0422\u041e\u0411\u041e\u0419 \u0426\u0412\u0415\u0422\u042b",
-        "url": "https://open.spotify.com/album/4zACegvY0icJYt4KtCes70"
+        "name": "In Excellent Order",
+        "url": "https://open.spotify.com/album/30lqUcHnBNxCseddTVrXIU"
       },
       "artists": [
         {
-          "name": "JF Voice",
-          "url": "https://open.spotify.com/artist/6S5qRHgaBLmb7ZxZvcN9g5"
+          "name": "Fried By Fluoride",
+          "url": "https://open.spotify.com/artist/0qwt0uuav6sDn54MRKrL1u"
         }
       ],
-      "duration_ms": 204000,
-      "name": "\u0417\u0410 \u0422\u041e\u0411\u041e\u0419 \u0426\u0412\u0415\u0422\u042b",
-      "url": "https://open.spotify.com/track/0zqNaa8S5OSVkpMzroC7M0"
+      "duration_ms": 112171,
+      "name": "The Love I Lost",
+      "url": "https://open.spotify.com/track/5v2wBVnZ8Wdj1qwIqhcVw2"
     },
     {
-      "added_at": "2024-10-06 13:38:19",
+      "added_at": "2024-10-07 14:05:44",
       "album": {
-        "name": "\u0410\u0434\u0441\u043a\u0430\u044f \u043a\u043e\u043b\u044b\u0431\u0435\u043b\u044c\u043d\u0430\u044f",
-        "url": "https://open.spotify.com/album/1cmB7sCh1AS1hdpFCbEKOS"
+        "name": "Woops",
+        "url": "https://open.spotify.com/album/5EzsDOIBR4P3uLchihopx5"
       },
       "artists": [
         {
-          "name": "Poshlaya Molly",
-          "url": "https://open.spotify.com/artist/0xByDfltDVpk6LDsUMHyI2"
+          "name": "Bountyhunter",
+          "url": "https://open.spotify.com/artist/2LwFrAVwvSN81XO5KogNBl"
         }
       ],
-      "duration_ms": 178296,
-      "name": "\u0410\u0434\u0441\u043a\u0430\u044f \u043a\u043e\u043b\u044b\u0431\u0435\u043b\u044c\u043d\u0430\u044f",
-      "url": "https://open.spotify.com/track/2pyjr4JKVkG03LmWBIusur"
+      "duration_ms": 258013,
+      "name": "Woops",
+      "url": "https://open.spotify.com/track/2XeqqfeJgtG3mQI5xNeNTy"
     },
     {
-      "added_at": "2024-10-06 13:38:19",
-      "album": {
-        "name": "Invincible",
-        "url": "https://open.spotify.com/album/52E4RP7XDzalpIrOgSTgiQ"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 288533,
-      "name": "Heaven Can Wait",
-      "url": "https://open.spotify.com/track/1AZXNAVDD9ZFIEKySgflFz"
-    },
-    {
-      "added_at": "2024-10-06 13:38:19",
+      "added_at": "2024-10-07 14:05:44",
       "album": {
         "name": "VAPO NO SETOR",
         "url": "https://open.spotify.com/album/6h4Lw0QisEuuAwmnMQvbse"
@@ -601,7 +649,7 @@
       "url": "https://open.spotify.com/track/25MzUGleMnmyoeTNRZ8QF1"
     },
     {
-      "added_at": "2024-10-06 13:38:19",
+      "added_at": "2024-10-07 14:05:44",
       "album": {
         "name": "hermaeus mora",
         "url": "https://open.spotify.com/album/77hzOhmvGH5BU4YenFkN60"
@@ -617,39 +665,27 @@
       "url": "https://open.spotify.com/track/1hPQtiP5RYlYrS3t8AjrlK"
     },
     {
-      "added_at": "2024-10-06 13:38:19",
+      "added_at": "2024-10-07 14:05:44",
       "album": {
-        "name": "In Excellent Order",
-        "url": "https://open.spotify.com/album/30lqUcHnBNxCseddTVrXIU"
+        "name": "VAPO DO VAPO",
+        "url": "https://open.spotify.com/album/6J6AaGxrS64bfwV3zP24Tj"
       },
       "artists": [
         {
-          "name": "Fried By Fluoride",
-          "url": "https://open.spotify.com/artist/0qwt0uuav6sDn54MRKrL1u"
-        }
-      ],
-      "duration_ms": 112171,
-      "name": "The Love I Lost",
-      "url": "https://open.spotify.com/track/5v2wBVnZ8Wdj1qwIqhcVw2"
-    },
-    {
-      "added_at": "2024-10-06 13:38:19",
-      "album": {
-        "name": "\u041e\u043f\u0440\u0438\u0447\u043d\u0438\u043a\u0438",
-        "url": "https://open.spotify.com/album/0lO58r3X3BvNQPbCoBHafl"
-      },
-      "artists": [
+          "name": "DJ ANXVAR",
+          "url": "https://open.spotify.com/artist/3wQNcarvRuzhz2Fg1pVDxZ"
+        },
         {
-          "name": "Icegergert",
-          "url": "https://open.spotify.com/artist/4z3TiM4dsnvWDRcnqf3l0r"
+          "name": "MC LONE",
+          "url": "https://open.spotify.com/artist/1nzIoHG5B7klgAPdwjqRDj"
         }
       ],
-      "duration_ms": 116470,
-      "name": "78 flow",
-      "url": "https://open.spotify.com/track/4Hp1floq6WB8SLg8OIoa6T"
+      "duration_ms": 68442,
+      "name": "VAPO DO VAPO",
+      "url": "https://open.spotify.com/track/1PXDJHodzKG2oBgWONv1By"
     },
     {
-      "added_at": "2024-10-06 13:38:19",
+      "added_at": "2024-10-07 14:05:44",
       "album": {
         "name": "let go Pt. 2",
         "url": "https://open.spotify.com/album/6LMhorFlEsWn4jEvcn7BTd"
@@ -669,7 +705,7 @@
       "url": "https://open.spotify.com/track/1I6way4zg9vYNcR3VHkMSO"
     },
     {
-      "added_at": "2024-10-06 13:38:19",
+      "added_at": "2024-10-07 14:05:44",
       "album": {
         "name": "Montagem Melodia Explosiva",
         "url": "https://open.spotify.com/album/3D2j7JQjj9Kjc8sOfikmV6"
@@ -697,7 +733,7 @@
       "url": "https://open.spotify.com/track/2SQp5yapF1ZwiuKgaFuFMJ"
     },
     {
-      "added_at": "2024-10-06 13:38:19",
+      "added_at": "2024-10-07 14:05:44",
       "album": {
         "name": "SPIT IN MY FACE!",
         "url": "https://open.spotify.com/album/2XurGuugADHAwF8gEYjtMA"
@@ -713,23 +749,7 @@
       "url": "https://open.spotify.com/track/1N8TTK1Uoy7UvQNUazfUt5"
     },
     {
-      "added_at": "2024-10-06 13:38:19",
-      "album": {
-        "name": "INTERNET LOVE",
-        "url": "https://open.spotify.com/album/7zmy4WcXPmogXfBQCzYNMJ"
-      },
-      "artists": [
-        {
-          "name": "IVOXYGEN",
-          "url": "https://open.spotify.com/artist/6K9KevAu0cpln7xOsM3Wkm"
-        }
-      ],
-      "duration_ms": 132923,
-      "name": "INTERNET LOVE",
-      "url": "https://open.spotify.com/track/7GBN1M5T3wF901JTiIDxwb"
-    },
-    {
-      "added_at": "2024-10-06 13:38:19",
+      "added_at": "2024-10-07 14:05:44",
       "album": {
         "name": "\u0434\u0435\u043b\u0438 \u043d\u0430 \u0434\u0432\u0430",
         "url": "https://open.spotify.com/album/6HKXYwvSyK42bwGhtYMG1I"
@@ -745,87 +765,99 @@
       "url": "https://open.spotify.com/track/7hrAs40pKmU5eBzbKAJp3A"
     },
     {
-      "added_at": "2024-10-06 13:38:19",
+      "added_at": "2024-10-07 14:05:44",
       "album": {
-        "name": "Woops",
-        "url": "https://open.spotify.com/album/5EzsDOIBR4P3uLchihopx5"
+        "name": "INTERNET LOVE",
+        "url": "https://open.spotify.com/album/7zmy4WcXPmogXfBQCzYNMJ"
       },
       "artists": [
         {
-          "name": "Bountyhunter",
-          "url": "https://open.spotify.com/artist/2LwFrAVwvSN81XO5KogNBl"
+          "name": "IVOXYGEN",
+          "url": "https://open.spotify.com/artist/6K9KevAu0cpln7xOsM3Wkm"
         }
       ],
-      "duration_ms": 258013,
-      "name": "Woops",
-      "url": "https://open.spotify.com/track/2XeqqfeJgtG3mQI5xNeNTy"
+      "duration_ms": 132923,
+      "name": "INTERNET LOVE",
+      "url": "https://open.spotify.com/track/7GBN1M5T3wF901JTiIDxwb"
     },
     {
-      "added_at": "2024-10-06 13:38:19",
+      "added_at": "2024-10-07 14:05:44",
       "album": {
-        "name": "Si Ai",
-        "url": "https://open.spotify.com/album/7JRTgBc4mvX7CfkfDhaLMK"
+        "name": "RISADA CHUCK 01",
+        "url": "https://open.spotify.com/album/7lolzbhq4moSJPfFpdosl5"
       },
       "artists": [
         {
-          "name": "Tayna",
-          "url": "https://open.spotify.com/artist/5Cj0xJrG2k8TPOJQ1vdAmZ"
+          "name": "-Prey",
+          "url": "https://open.spotify.com/artist/3uA4unR7LBOcqjpbOeCs0Y"
         }
       ],
-      "duration_ms": 166000,
-      "name": "Si Ai",
-      "url": "https://open.spotify.com/track/27jIKs9ZEe4m19j3lx4E2b"
+      "duration_ms": 130360,
+      "name": "RISADA CHUCK 01 - Super Slowed",
+      "url": "https://open.spotify.com/track/2iRiWUoB7tNnG23KlM3Ui7"
     },
     {
-      "added_at": "2024-10-06 13:38:19",
+      "added_at": "2024-10-07 14:05:44",
       "album": {
-        "name": "\u0420\u0423\u0421\u0421\u041a\u0410\u042f \u0414\u0423\u0428\u0410 (PROD. BY \u041a\u041e\u041b\u041b\u0410\u041f\u0421, \u0417\u0412\u0415\u041d\u041e)",
-        "url": "https://open.spotify.com/album/38U41tuG3lHN99dsYq0j4M"
+        "name": "never let me go.",
+        "url": "https://open.spotify.com/album/2qMorbWvWORO8PhBlbIgkA"
       },
       "artists": [
         {
-          "name": "\u041d\u0410\u0412\u0415\u0420\u041d\u041e\u0415 \u041f\u041e\u042d\u0422",
-          "url": "https://open.spotify.com/artist/2UFiYCu1iFIsSqMXlDRzop"
+          "name": "crier",
+          "url": "https://open.spotify.com/artist/3pxK1rdoF4Swqd00UH6wCl"
         },
         {
-          "name": "EVEN CUTE",
-          "url": "https://open.spotify.com/artist/5X5ed1yf6Mj5c1qH4UdKG0"
-        },
-        {
-          "name": "\u042f\u041a\u041e\u0420\u042a",
-          "url": "https://open.spotify.com/artist/3dB8xZiDMYl2yYucKs9QOt"
-        },
-        {
-          "name": "Derzko69",
-          "url": "https://open.spotify.com/artist/5dSx8Iis22rRh4p1ytW06T"
+          "name": "sixnite",
+          "url": "https://open.spotify.com/artist/1Yo7tf6JFEfruQgejOLkFk"
         }
       ],
-      "duration_ms": 164370,
-      "name": "\u0420\u0423\u0421\u0421\u041a\u0410\u042f \u0414\u0423\u0428\u0410",
-      "url": "https://open.spotify.com/track/7lMKMh0hAyR1g38p1nmmqN"
+      "duration_ms": 107636,
+      "name": "never let me go.",
+      "url": "https://open.spotify.com/track/7CeFkmFqoe8uX6wFOOALQg"
     },
     {
-      "added_at": "2024-10-06 13:38:19",
+      "added_at": "2024-10-07 14:05:44",
       "album": {
-        "name": "VAPO DO VAPO",
-        "url": "https://open.spotify.com/album/6J6AaGxrS64bfwV3zP24Tj"
+        "name": "Got Me Good",
+        "url": "https://open.spotify.com/album/2fxs2ATHQv1ZM2l3yFVxsN"
       },
       "artists": [
         {
-          "name": "DJ ANXVAR",
-          "url": "https://open.spotify.com/artist/3wQNcarvRuzhz2Fg1pVDxZ"
+          "name": "Jvdxn",
+          "url": "https://open.spotify.com/artist/2BoiAeMTBE4ynJJm8qIGSZ"
         },
         {
-          "name": "MC LONE",
-          "url": "https://open.spotify.com/artist/1nzIoHG5B7klgAPdwjqRDj"
+          "name": "Dianasty",
+          "url": "https://open.spotify.com/artist/1J00Z7dCgf5mJ1Zb8avBP2"
         }
       ],
-      "duration_ms": 68442,
-      "name": "VAPO DO VAPO",
-      "url": "https://open.spotify.com/track/1PXDJHodzKG2oBgWONv1By"
+      "duration_ms": 112648,
+      "name": "Got Me Good",
+      "url": "https://open.spotify.com/track/71cbmsTWjiu0EukVYD1Rwh"
     },
     {
-      "added_at": "2024-10-06 13:38:19",
+      "added_at": "2024-10-07 14:05:44",
+      "album": {
+        "name": "\u042f \u0442\u0432\u043e\u0439 \u0446\u0432\u0435\u0442\u043e\u0447\u0435\u043a",
+        "url": "https://open.spotify.com/album/7rQnWT8XCvMKMg24QwgPEb"
+      },
+      "artists": [
+        {
+          "name": "Gera",
+          "url": "https://open.spotify.com/artist/5gvw5yan9mVD07EJcwFnRJ"
+        },
+        {
+          "name": "\u0421\u043e\u0444\u0438\u044f \u0421\u0442\u0435\u0446\u0435\u043d\u043a\u043e",
+          "url": "https://open.spotify.com/artist/0HvZNfqyl2DHn9zXumXqbp"
+        }
+      ],
+      "duration_ms": 203940,
+      "name": "\u042f \u0442\u0432\u043e\u0439 \u0446\u0432\u0435\u0442\u043e\u0447\u0435\u043a",
+      "url": "https://open.spotify.com/track/5lVSbArcIDOstmRFh1ywXc"
+    },
+    {
+      "added_at": "2024-10-07 14:05:44",
       "album": {
         "name": "Hate Love",
         "url": "https://open.spotify.com/album/5UKIxEdQDFQztvCEfK5QME"
@@ -845,76 +877,36 @@
       "url": "https://open.spotify.com/track/69E0PXED6MvClnqED4d7f5"
     },
     {
-      "added_at": "2024-10-06 13:38:19",
+      "added_at": "2024-10-07 14:05:44",
       "album": {
-        "name": "Heavy Metal 2",
-        "url": "https://open.spotify.com/album/2apmGMKFppnLu7eccTQwM2"
+        "name": "Si Ai",
+        "url": "https://open.spotify.com/album/7JRTgBc4mvX7CfkfDhaLMK"
       },
       "artists": [
         {
-          "name": "9mice",
-          "url": "https://open.spotify.com/artist/3v0qTkZvuro4johOZyIhOm"
-        },
-        {
-          "name": "Kai Angel",
-          "url": "https://open.spotify.com/artist/1pxLlPRiWRUBGdSOrVL4f0"
+          "name": "Tayna",
+          "url": "https://open.spotify.com/artist/5Cj0xJrG2k8TPOJQ1vdAmZ"
         }
       ],
-      "duration_ms": 118857,
-      "name": "Tusa V.I.P.",
-      "url": "https://open.spotify.com/track/1Yvgf0pkGvMiXzjclAVSFr"
+      "duration_ms": 166000,
+      "name": "Si Ai",
+      "url": "https://open.spotify.com/track/27jIKs9ZEe4m19j3lx4E2b"
     },
     {
-      "added_at": "2024-10-06 13:38:19",
+      "added_at": "2024-10-07 14:05:44",
       "album": {
-        "name": "\u043a\u0430\u0436\u0435\u0442\u0441\u044f, \u0432 \u0430\u0434\u0443 \u043f\u0440\u0438\u043a\u043e\u043b\u044c\u043d\u043e, \u043d\u043e \u043c\u0435\u043d\u044f \u0432\u044b\u0433\u043d\u0430\u043b\u0438 \u0431 \u0443\u0442\u0440\u043e\u043c",
-        "url": "https://open.spotify.com/album/4w3cWWcVhbMx4o97ij29GK"
+        "name": "\u0422\u0440\u0438 \u041a\u0430\u0432\u0435\u0440\u0430 \u041d\u0430 \u0422\u0440\u0438 \u0422\u0440\u0435\u043a\u0430",
+        "url": "https://open.spotify.com/album/4UfrKkXrXeEU87lLdAzqsQ"
       },
       "artists": [
         {
-          "name": "CUPSIZE",
-          "url": "https://open.spotify.com/artist/6piaRBSk79hfoHINy7DMGO"
+          "name": "Stolen Loops",
+          "url": "https://open.spotify.com/artist/5DUuh9Uy0dc8Y9MFjLy0X8"
         }
       ],
-      "duration_ms": 172745,
-      "name": "\u043f\u043e\u043a\u0430-\u043f\u043e\u043a\u0430",
-      "url": "https://open.spotify.com/track/0sM2KjVjrKCF8g8qSyrF9f"
-    },
-    {
-      "added_at": "2024-10-06 13:38:19",
-      "album": {
-        "name": "Trip Tape",
-        "url": "https://open.spotify.com/album/707cK3j40hIquI15sOcYXP"
-      },
-      "artists": [
-        {
-          "name": "Milky Chance",
-          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
-        }
-      ],
-      "duration_ms": 136839,
-      "name": "Levitating - Acoustic",
-      "url": "https://open.spotify.com/track/6eqWA6blXyJWkt2BjZdX8d"
-    },
-    {
-      "added_at": "2024-10-06 13:38:19",
-      "album": {
-        "name": "Got Me Good",
-        "url": "https://open.spotify.com/album/2fxs2ATHQv1ZM2l3yFVxsN"
-      },
-      "artists": [
-        {
-          "name": "Jvdxn",
-          "url": "https://open.spotify.com/artist/2BoiAeMTBE4ynJJm8qIGSZ"
-        },
-        {
-          "name": "Dianasty",
-          "url": "https://open.spotify.com/artist/1J00Z7dCgf5mJ1Zb8avBP2"
-        }
-      ],
-      "duration_ms": 112648,
-      "name": "Got Me Good",
-      "url": "https://open.spotify.com/track/71cbmsTWjiu0EukVYD1Rwh"
+      "duration_ms": 279177,
+      "name": "\u041f\u0440\u043e\u0441\u043d\u0438\u0441\u044c",
+      "url": "https://open.spotify.com/track/3eHoVb8CC6Nal3DdbLA4su"
     }
   ],
   "unique_name": "Viral 50 - Belarus",

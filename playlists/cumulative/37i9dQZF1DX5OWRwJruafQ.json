@@ -107,6 +107,28 @@
     },
     {
       "album": {
+        "name": "2 Asle",
+        "url": "https://open.spotify.com/album/2jByVY0MXtcSypW0WBv0Ye"
+      },
+      "artists": [
+        {
+          "name": "Hukam virk",
+          "url": "https://open.spotify.com/artist/0ZFpNMlmyWUl3KBhF5PAig"
+        },
+        {
+          "name": "Ritu Jass",
+          "url": "https://open.spotify.com/artist/2FxBavpSzU5ZeSdeirCw7D"
+        }
+      ],
+      "date_added": "2024-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170602,
+      "name": "2 Asle",
+      "url": "https://open.spotify.com/track/04HHJusZHgMuj9JJCe6SQa"
+    },
+    {
+      "album": {
         "name": "2 Jhotte",
         "url": "https://open.spotify.com/album/1vBYyrYGVD6wJgYGwcTWNV"
       },
@@ -1888,7 +1910,7 @@
       ],
       "date_added": "2024-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-08",
       "duration_ms": 170000,
       "name": "Challa Mundri",
       "url": "https://open.spotify.com/track/10DEjukPmRRCLuinvG0mIR"
@@ -6357,6 +6379,28 @@
     },
     {
       "album": {
+        "name": "Munda Maanaa Da",
+        "url": "https://open.spotify.com/album/2vwTvTLFhgDEy3reXBEAj8"
+      },
+      "artists": [
+        {
+          "name": "Korala Maan",
+          "url": "https://open.spotify.com/artist/6WZ8WCYWROs8IyMJOPeJ4G"
+        },
+        {
+          "name": "Youngstarr Pop Boy",
+          "url": "https://open.spotify.com/artist/3qQfU4XvZCmz8Hwwu5pSr9"
+        }
+      ],
+      "date_added": "2024-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165681,
+      "name": "Mangni",
+      "url": "https://open.spotify.com/track/3bKVJpK65oFqGPTosuD9uu"
+    },
+    {
+      "album": {
         "name": "Manifest",
         "url": "https://open.spotify.com/album/11PJMOJkvhx55dOpJQRUV8"
       },
@@ -8558,7 +8602,7 @@
       ],
       "date_added": "2024-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-08",
       "duration_ms": 142904,
       "name": "Sarpanchi",
       "url": "https://open.spotify.com/track/4jKe37WndXadVXHBMjQghS"

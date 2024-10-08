@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSNh47B6MoYD.md) - [plain]
 | 11 | [Candela](https://open.spotify.com/track/6aZVaIudGaHm88ydUe9k4i) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Simplemente](https://open.spotify.com/album/5ktMfzQRYlQawZcnmIB1VW) | 3:56 |
 | 12 | [Aprendí](https://open.spotify.com/track/72KlPsKLIzlZ2M4yXZkiy1) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [8](https://open.spotify.com/album/3dnAanoquMtbaksF7pUjyI) | 4:22 |
 | 13 | [Tentación](https://open.spotify.com/track/5xalldFr8mKjbAE0WY2vtp) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [8 \(Deluxe\)](https://open.spotify.com/album/33yUZhJNBRKhl4dbVC2h7K) | 3:12 |
-| 14 | [Crucigrama](https://open.spotify.com/track/3USeLFGPeeu2d0C8ULDWfn) | [Dvicio](https://open.spotify.com/artist/2KxjMGXFgX1vt9grpbD3xI) | [Justo Ahora](https://open.spotify.com/album/2t9TlsYchqDdr0n2TTF6s0) | 3:33 |
-| 15 | [Me Falta Un Pecado](https://open.spotify.com/track/4pI1jddE9zk3jHOMWGGiAb) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [La Reunión \(Deluxe\)](https://open.spotify.com/album/3yIX4FmlUxf2E1UK2fURll) | 3:13 |
+| 14 | [Me Falta Un Pecado](https://open.spotify.com/track/4pI1jddE9zk3jHOMWGGiAb) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [La Reunión \(Deluxe\)](https://open.spotify.com/album/3yIX4FmlUxf2E1UK2fURll) | 3:13 |
+| 15 | [Crucigrama](https://open.spotify.com/track/3USeLFGPeeu2d0C8ULDWfn) | [Dvicio](https://open.spotify.com/artist/2KxjMGXFgX1vt9grpbD3xI) | [Justo Ahora](https://open.spotify.com/album/2t9TlsYchqDdr0n2TTF6s0) | 3:33 |
 | 16 | [Mujer Maravilla](https://open.spotify.com/track/4Fhow7Gjagr9vtwtp4vUVx) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [De Película](https://open.spotify.com/album/18p26t1RNPSqnIPPBHAi6w) | 3:44 |
 | 17 | [Te Necesito](https://open.spotify.com/track/3jZZ2SlQTFJ5yKDp3FOQNB) | [OV7](https://open.spotify.com/artist/5zaT4Qu9otu6z4oyWjRqM2) | [Punto](https://open.spotify.com/album/55OVAEUt48foMS6JrUDit9) | 4:16 |
 | 18 | [Boom Boom \(feat\. Anitta\)](https://open.spotify.com/track/6RcaOBWQpur8uJ5jlVc9b0) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [El Negreeto](https://open.spotify.com/album/1TSHFiGwKadtL6zMLa4zA5) | 2:32 |
@@ -151,4 +151,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSNh47B6MoYD.md) - [plain]
 | 141 | [Entre el Piano y el Amor](https://open.spotify.com/track/6LRGICKeYv2OgYtpjGPtmY) | [Fernando Acosta](https://open.spotify.com/artist/4nTDn2UoT14TUvuNn05NM5) | [Entre el Piano y el Amor](https://open.spotify.com/album/5zPHOmWSNzyncdUinKCVZJ) | 4:38 |
 | 142 | [A Punto de Naufragar](https://open.spotify.com/track/0CMlI2cENOzR1xsBohRovm) | [Fernando Acosta](https://open.spotify.com/artist/4nTDn2UoT14TUvuNn05NM5) | [Entre el Piano y el Amor](https://open.spotify.com/album/5zPHOmWSNzyncdUinKCVZJ) | 4:29 |
 
-Snapshot ID: `AbeFigAAAACoRfhSjcImG2PFZJlC68kX`
+Snapshot ID: `AbeLKgAAAAAXGvBQ3OAzfyOfDHnzWMNs`

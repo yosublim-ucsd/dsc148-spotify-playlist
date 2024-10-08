@@ -339,6 +339,32 @@
     },
     {
       "album": {
+        "name": "A D I C T O <3",
+        "url": "https://open.spotify.com/album/1ps2Q5sBq5Q3SiiJpYIh6u"
+      },
+      "artists": [
+        {
+          "name": "Kweller",
+          "url": "https://open.spotify.com/artist/4W4NkfM4A1sX2S2bfYlV07"
+        },
+        {
+          "name": "Luccas Carlos",
+          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
+        },
+        {
+          "name": "Matheus Queiroz",
+          "url": "https://open.spotify.com/artist/42M14UjNCtQbaa0L3t2lN7"
+        }
+      ],
+      "date_added": "2024-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178013,
+      "name": "A D I C T O <3",
+      "url": "https://open.spotify.com/track/6LqZrpbGOaiSxciF7T9qPq"
+    },
+    {
+      "album": {
         "name": "A noite toda",
         "url": "https://open.spotify.com/album/66t4TpL1KlIxNLTBQFj9AL"
       },
@@ -742,7 +768,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-08",
       "duration_ms": 171428,
       "name": "Baile",
       "url": "https://open.spotify.com/track/4LiBPCO4pfk9waJIla2u2Z"
@@ -2346,7 +2372,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-08",
       "duration_ms": 198551,
       "name": "Fetiches",
       "url": "https://open.spotify.com/track/1DKn6TWLuF9JYuOngK9gKq"
@@ -3568,7 +3594,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-08",
       "duration_ms": 137918,
       "name": "Mensagem",
       "url": "https://open.spotify.com/track/2Y82CGX5iNWGyoD8dekWZW"
@@ -4407,6 +4433,24 @@
     },
     {
       "album": {
+        "name": "Kant (Ao Vivo no Est\u00fadio)",
+        "url": "https://open.spotify.com/album/6soOCldMiP9T21Pug5xRpP"
+      },
+      "artists": [
+        {
+          "name": "Kant",
+          "url": "https://open.spotify.com/artist/5RHWqLCNmcKFDME3G7sxiJ"
+        }
+      ],
+      "date_added": "2024-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196916,
+      "name": "Personnalite / Gatinha - Ao Vivo",
+      "url": "https://open.spotify.com/track/0naU4aZXVeblZtF81Ktrob"
+    },
+    {
+      "album": {
         "name": "Pervertida",
         "url": "https://open.spotify.com/album/6eK4VeU04wlvGpm141ds3C"
       },
@@ -4530,6 +4574,28 @@
       "duration_ms": 159803,
       "name": "Ponto G",
       "url": "https://open.spotify.com/track/4QSjk4aubMh2RpPco3XmF1"
+    },
+    {
+      "album": {
+        "name": "P\u00farpura",
+        "url": "https://open.spotify.com/album/2SXORkzxQrYi0ueO5v6wCC"
+      },
+      "artists": [
+        {
+          "name": "Budah",
+          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
+        },
+        {
+          "name": "WEY",
+          "url": "https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR"
+        }
+      ],
+      "date_added": "2024-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141402,
+      "name": "Pouca Roupa",
+      "url": "https://open.spotify.com/track/07KqxZsYYsciaB5lvN3Imq"
     },
     {
       "album": {

@@ -12133,6 +12133,28 @@
     },
     {
       "album": {
+        "name": "Vertigo (feat. Ed Graves)",
+        "url": "https://open.spotify.com/album/3z8WLzALtiavIJrUB22xGB"
+      },
+      "artists": [
+        {
+          "name": "Odd Mob",
+          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
+        },
+        {
+          "name": "Ed Graves",
+          "url": "https://open.spotify.com/artist/1Kkcm36k22FT1RWcINq4sI"
+        }
+      ],
+      "date_added": "2024-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148124,
+      "name": "Vertigo (feat. Ed Graves)",
+      "url": "https://open.spotify.com/track/7F03sInpzWDRMC4k4U0Pxj"
+    },
+    {
+      "album": {
         "name": "Violet",
         "url": "https://open.spotify.com/album/13lB6cbUQUfr2lZkwYJxTk"
       },

@@ -2,7 +2,7 @@
 
 ### [New Dance Hits 2024](https://open.spotify.com/playlist/2p24KuIbwho6IKwVb2VYiC)
 
-> The best Dance and EDM tracks right now! Cover: Chris Lake &amp; Disclosure
+> The best Dance and EDM tracks right now! Cover: MEDUZA
 
 239 songs - 12 hr 37 min
 

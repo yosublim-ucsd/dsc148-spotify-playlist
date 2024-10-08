@@ -562,6 +562,32 @@
     {
       "album": {
         "name": "Cheliya",
+        "url": "https://open.spotify.com/album/58zyOpghhBrhFRud0zubO8"
+      },
+      "artists": [
+        {
+          "name": "Iravu",
+          "url": "https://open.spotify.com/artist/32gGumlFxS3I49LH5cNcrH"
+        },
+        {
+          "name": "Sarvari",
+          "url": "https://open.spotify.com/artist/5uvwgTsZIeirSSpIIMvYFS"
+        },
+        {
+          "name": "Abhiram Lolla",
+          "url": "https://open.spotify.com/artist/6j0aLuBGUR4MNx9HAJcrwc"
+        }
+      ],
+      "date_added": "2024-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199200,
+      "name": "Cheliya",
+      "url": "https://open.spotify.com/track/7xclHxsTj8f3dy3Lco3Az6"
+    },
+    {
+      "album": {
+        "name": "Cheliya",
         "url": "https://open.spotify.com/album/5FpUAQhHUYOCDxWwLrrBnL"
       },
       "artists": [
@@ -1000,6 +1026,24 @@
       "duration_ms": 146616,
       "name": "Drunkard On The Road",
       "url": "https://open.spotify.com/track/7t7nXXkHjaReVvr9plCax3"
+    },
+    {
+      "album": {
+        "name": "Edo Bhayam",
+        "url": "https://open.spotify.com/album/5ptAuXYOstlXoGthcTkpeM"
+      },
+      "artists": [
+        {
+          "name": "Snigdha Sharma",
+          "url": "https://open.spotify.com/artist/5UvSpmSgcPlDX49LTyvdfl"
+        }
+      ],
+      "date_added": "2024-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117721,
+      "name": "Edo Bhayam",
+      "url": "https://open.spotify.com/track/6P2waqwcPRbHxsZqmzrSkk"
     },
     {
       "album": {
@@ -5181,6 +5225,36 @@
     },
     {
       "album": {
+        "name": "Sitaara",
+        "url": "https://open.spotify.com/album/1NFMWGcu3uV7TtvNwStETI"
+      },
+      "artists": [
+        {
+          "name": "Jagdish Chintala",
+          "url": "https://open.spotify.com/artist/1Ll6Pj8fy7R3e6ghT2lzVC"
+        },
+        {
+          "name": "Ayaan",
+          "url": "https://open.spotify.com/artist/1MMBkicGbEkW5M1UimzBuP"
+        },
+        {
+          "name": "Manisha Eerabathini",
+          "url": "https://open.spotify.com/artist/7uTF7CgQzu55VR10qqG2yC"
+        },
+        {
+          "name": "Shashank Alamuru",
+          "url": "https://open.spotify.com/artist/1FRUQL3SPnXlce6Hqfk2eh"
+        }
+      ],
+      "date_added": "2024-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165333,
+      "name": "Sitaara",
+      "url": "https://open.spotify.com/track/2KP8VAuJiugv5UTUYcYSjo"
+    },
+    {
+      "album": {
         "name": "Sitakokaciluka",
         "url": "https://open.spotify.com/album/7yuHkxh8ZUvYEnFhw2T5Pu"
       },
@@ -5998,6 +6072,24 @@
       "duration_ms": 324000,
       "name": "Vennela",
       "url": "https://open.spotify.com/track/0sDIs50Evxlou7oIfo9i2J"
+    },
+    {
+      "album": {
+        "name": "Vinabadena",
+        "url": "https://open.spotify.com/album/3uywygrlPibb3GMkOrGMFA"
+      },
+      "artists": [
+        {
+          "name": "Addy Ville",
+          "url": "https://open.spotify.com/artist/4Lp6UZefmjMJFDGXfqP2qa"
+        }
+      ],
+      "date_added": "2024-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256303,
+      "name": "Vinabadena",
+      "url": "https://open.spotify.com/track/6cG3qqpGXiQ115hoMY0pOi"
     },
     {
       "album": {

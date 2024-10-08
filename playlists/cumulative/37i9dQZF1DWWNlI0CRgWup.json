@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "D\u00e9couvrez les nouveaut\u00e9s des artistes RADAR France. Photo : VEN1",
+  "description": "D\u00e9couvrez les nouveaut\u00e9s des artistes RADAR France. Photo : Miki",
   "name": "RADAR FRANCE",
   "tracks": [
     {
@@ -276,6 +276,24 @@
       "duration_ms": 177692,
       "name": "Biso Mibale (feat. Jungeli)",
       "url": "https://open.spotify.com/track/5Ymv6tlT7HgheiAfiU12mN"
+    },
+    {
+      "album": {
+        "name": "Bisou sur la bouche",
+        "url": "https://open.spotify.com/album/7CWstAlJm1Xnhtt6GVWNzz"
+      },
+      "artists": [
+        {
+          "name": "And\u00e9ol",
+          "url": "https://open.spotify.com/artist/3lWweK5IAJrNMXazhS5oV3"
+        }
+      ],
+      "date_added": "2024-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165613,
+      "name": "Bisou sur la bouche",
+      "url": "https://open.spotify.com/track/7fRoybXpkYQ7NNBjuhtEaV"
     },
     {
       "album": {
@@ -1418,6 +1436,24 @@
       "duration_ms": 133224,
       "name": "INDISCRET",
       "url": "https://open.spotify.com/track/2XkZf7PB3MjaBdnzR2KFSo"
+    },
+    {
+      "album": {
+        "name": "Folie's je t'aime (bonus)",
+        "url": "https://open.spotify.com/album/4XY3AYQ1bUedzOupxozyjg"
+      },
+      "artists": [
+        {
+          "name": "Folie's",
+          "url": "https://open.spotify.com/artist/0pyhWJCYRgIoXusQQuMO4c"
+        }
+      ],
+      "date_added": "2024-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181974,
+      "name": "Instinct Animal",
+      "url": "https://open.spotify.com/track/1Lbohk2VALhwp3YvvN0Owh"
     },
     {
       "album": {
@@ -3396,6 +3432,24 @@
       "duration_ms": 189573,
       "name": "\u00c7a me va",
       "url": "https://open.spotify.com/track/50buPmiBu8HJrykNSPKofs"
+    },
+    {
+      "album": {
+        "name": "graou",
+        "url": "https://open.spotify.com/album/0PDmJd61cK6jh15jsaBfb4"
+      },
+      "artists": [
+        {
+          "name": "Miki",
+          "url": "https://open.spotify.com/artist/55Dacc2jL4tgb6Af23NlF6"
+        }
+      ],
+      "date_added": "2024-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168120,
+      "name": "\u00e9chec et mat",
+      "url": "https://open.spotify.com/track/0G6lvIMuVEteFdNmndnU7w"
     },
     {
       "album": {

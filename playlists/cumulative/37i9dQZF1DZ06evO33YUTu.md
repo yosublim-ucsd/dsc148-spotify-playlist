@@ -2,7 +2,7 @@
 
 ### [This Is Greeicy](https://open.spotify.com/playlist/37i9dQZF1DZ06evO33YUTu)
 
-> This is Greeicy\. Tutti i brani in un'unica playlist.
+> This is Greeicy\. The essential tracks, all in one playlist.
 
 76 songs - 3 hr 47 min
 

@@ -4,7 +4,7 @@
 
 > Rapping into your hearts from the alleys of Mumbai\. Cover\- MC Altaf
 
-157 songs - 8 hr 23 min
+158 songs - 8 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,7 @@
 | [DND](https://open.spotify.com/track/7yYl0fyvfGcCGVKAhjCbru) | [Kidshot](https://open.spotify.com/artist/0vZEDTIhGPOIRL0KjqMWTy) | [DND](https://open.spotify.com/album/44KOj6FjIZVB4V428L2CQG) | 2:00 | 2023-12-06 | 2024-08-23 |
 | [Drill](https://open.spotify.com/track/4tCrnq1KgZy1nGch1wP5aY) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [Drill](https://open.spotify.com/album/3au6AYCZMdQkw7gaPVHiRY) | 2:28 | 2023-03-17 | 2023-04-25 |
 | [Drill Karte](https://open.spotify.com/track/66qAXPAHwLKPLi8Gx58x5z) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz), [dutchavelli](https://open.spotify.com/artist/2tPR06hLUvH5aIY3JXNIxY) | [Punya Paap](https://open.spotify.com/album/5kiZkGMkfKm3tIlh2Tgfi5) | 3:29 | 2023-03-17 | 2023-12-09 |
-| [Ek Din Pyaar](https://open.spotify.com/track/0uk9sQ7MjK0CdAUinD4xBV) | [MC STAN](https://open.spotify.com/artist/5uemEEtB1ZC3s1KM7gReeH) | [Tadipaar](https://open.spotify.com/album/7e8kTENVFU4Klbpxos631b) | 3:06 | 2023-03-17 |  |
+| [Ek Din Pyaar](https://open.spotify.com/track/0uk9sQ7MjK0CdAUinD4xBV) | [MC STAN](https://open.spotify.com/artist/5uemEEtB1ZC3s1KM7gReeH) | [Tadipaar](https://open.spotify.com/album/7e8kTENVFU4Klbpxos631b) | 3:06 | 2023-03-17 | 2024-10-08 |
 | [Emiway\-Samajh Mein Aaya Kya?](https://open.spotify.com/track/7n8xH63Whw5spavIWScPIh) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [Emiway\-Samajh Mein Aaya Kya?](https://open.spotify.com/album/3cXkzvtDOyah8H8CYtvYcN) | 4:34 | 2024-04-12 |  |
 | [GABBAR](https://open.spotify.com/track/1onRB8Y9I8coG52cFeq5oD) | [Yashraj](https://open.spotify.com/artist/0TwG8C39WJIfFlcPrhxHST), [PUNA](https://open.spotify.com/artist/6xxZ5ygLggYl3EXuzDezvo) | [MERI JAAN PEHLE NAACH](https://open.spotify.com/album/0EjqvUumscGjg4Y12yalkV) | 4:01 | 2024-07-19 | 2024-07-30 |
 | [GABBAR](https://open.spotify.com/track/4OBkPKd0iA6GY0oNqhjg6v) | [Yashraj](https://open.spotify.com/artist/0TwG8C39WJIfFlcPrhxHST), [PUNA](https://open.spotify.com/artist/6xxZ5ygLggYl3EXuzDezvo) | [GABBAR](https://open.spotify.com/album/6kGiUi378xy9rAPZGRzBnu) | 4:01 | 2024-05-31 | 2024-07-19 |
@@ -160,6 +160,7 @@
 | [Traffic Jam](https://open.spotify.com/track/5TFA0lRV0EtscGYI1784PL) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz), [Jadakiss](https://open.spotify.com/artist/5pnbUBPifNnlusY8kTBivi) | [Gunehgar](https://open.spotify.com/album/6KO9jY3EEIpWFOfDXSOifs) | 3:31 | 2023-04-24 |  |
 | [TRIP MAT KAR](https://open.spotify.com/track/7Ak7f6GnTlpt49j3j67bxE) | [Loka](https://open.spotify.com/artist/0AK5uxL2fY52xEoj1bBySu), [AAKASH](https://open.spotify.com/artist/5pJz56mXmC3bb0cIG5Ghen) | [TRIP MAT KAR](https://open.spotify.com/album/7inFCo1zloYpwwJMarYET5) | 2:23 | 2023-03-17 | 2023-04-25 |
 | [Tu Tera Dekh](https://open.spotify.com/track/2VqfsN94NzeeG6a8iUMz0c) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [Wholeheartedly](https://open.spotify.com/album/7kkrtWD5cDiRlVoXbILLfa) | 2:24 | 2024-03-07 | 2024-05-23 |
+| [Tujhya Aaichi Gaand](https://open.spotify.com/track/2Q3Ayar9nWdG7Jxh670huf) | [MC STAN](https://open.spotify.com/artist/5uemEEtB1ZC3s1KM7gReeH) | [Tujhya Aaichi Gaand](https://open.spotify.com/album/5pYjKUW10yJfvbd5GwA40F) | 2:41 | 2024-10-07 |  |
 | [Vichaar](https://open.spotify.com/track/4thERaKSQ1BY0TjEPdJbvw) | [Kaam Bhaari](https://open.spotify.com/artist/5bTYVMQ6vmt4Bm12hM59N3), [Rākhis](https://open.spotify.com/artist/45kuS1r5gugHQMXs54HOp6) | [Vichaar](https://open.spotify.com/album/5QXqqTxKpXR9ewBXXbaebs) | 3:12 | 2023-03-17 | 2023-04-25 |
 | [VN4 \(GATI\)](https://open.spotify.com/track/7Chg1YwWvwTDbz5NX6XoWU) | [Yashraj](https://open.spotify.com/artist/0TwG8C39WJIfFlcPrhxHST), [Robu](https://open.spotify.com/artist/5s3iXQgBxJvFSQVviVilbt) | [VN4 \(GATI\)](https://open.spotify.com/album/1pAM47rC9ycX5d66CAhG2R) | 2:57 | 2023-03-17 | 2023-04-25 |
 | [Warning](https://open.spotify.com/track/5FwpiBGOwbqO8tFyC8Sjtu) | [Vijay Dk](https://open.spotify.com/artist/0FnHTpXidzx2HMEaqMerkt), [KALAM INK](https://open.spotify.com/artist/6VbH1XK4t6KE5s3k85MTBd) | [4Three4Life](https://open.spotify.com/album/0Uwa0tQbNoov6ePpP4Gb2Y) | 4:59 | 2023-12-06 | 2024-03-08 |

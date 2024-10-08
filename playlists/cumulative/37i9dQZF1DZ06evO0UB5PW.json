@@ -848,10 +848,28 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-08",
       "duration_ms": 327480,
       "name": "Quintessence",
       "url": "https://open.spotify.com/track/7n2K9HW8OhwFpWEdzeYu79"
+    },
+    {
+      "album": {
+        "name": "Crack the Skye (15th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/22BMsIMHQ5TayHOJvjF4y4"
+      },
+      "artists": [
+        {
+          "name": "Mastodon",
+          "url": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
+        }
+      ],
+      "date_added": "2024-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327248,
+      "name": "Quintessence - 2024 Remaster",
+      "url": "https://open.spotify.com/track/39EcADFCwesDWcMleYBYzb"
     },
     {
       "album": {

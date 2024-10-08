@@ -2,7 +2,7 @@
 
 ### [Viral Rock](https://open.spotify.com/playlist/37i9dQZF1DWSAm0NxvFu7q)
 
-> recent trending tracks in rock/alt/metal/punk /etc.
+> recent trending tracks in rock, alt, metal, and punk.
 
 120 songs - 7 hr 20 min
 

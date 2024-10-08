@@ -4,12 +4,13 @@
 
 > Challenging norms, breaking boundaries with <a href="spotify:artist:4FZ3j1oH43e7cukCALsCwf">Jack White</a> and the songs that shape his alternative spirit\. This is <a href=spotify:genre:0JQ5IMCbQBLnnDn497UHrz>COUNTER//CULTURE</a>.
 
-558 songs - 1 day 11 hr 11 min
+559 songs - 1 day 11 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [000.000](https://open.spotify.com/track/2FnU6AXnhNmaCZz4YanhsS) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Odelay \(Deluxe Edition\)](https://open.spotify.com/album/64vPyY759lLETSt8rvc7Sf) | 5:24 | 2024-10-04 |  |
 | [1,000,000](https://open.spotify.com/track/7wWa2By6UumtuTAv1RAVfF) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [The Slip](https://open.spotify.com/album/6Et26zmZ0Gu4ocrxyU3dSp) | 3:56 | 2024-10-04 |  |
+| [103](https://open.spotify.com/track/3d1MzZCtQuFmnwjgdW7ZkT) | [The Kills](https://open.spotify.com/artist/5BYuBzqmTXwUDw2rYkwExr) | [God Games](https://open.spotify.com/album/5foItJB5J4HL2Iim9BHpfk) | 4:05 | 2024-10-07 |  |
 | [11:59](https://open.spotify.com/track/0yAi8iKRgy90VuNNZd3zhz) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Parallel Lines](https://open.spotify.com/album/4M6s2jbhKWEcOdXZ8WiHts) | 3:20 | 2024-10-04 |  |
 | [1234](https://open.spotify.com/track/2CzWeyC9zlDpIOZPUUKrBW) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [The Reminder](https://open.spotify.com/album/7bTdGfczXffzzNE9ssJj4Z) | 3:03 | 2024-10-04 |  |
 | [12:51](https://open.spotify.com/track/6Yu1OL8I0D4vjOzYdsXYGK) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Room On Fire](https://open.spotify.com/album/3HFbH1loOUbqCyPsLuHLLh) | 2:33 | 2024-10-04 |  |
@@ -20,7 +21,7 @@
 | [1921](https://open.spotify.com/track/2EJo2k8xmQsA3E5VwTta7I) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Tommy](https://open.spotify.com/album/5cT7ee1sy2oEbFalP4asS4) | 2:49 | 2024-10-04 |  |
 | [1969](https://open.spotify.com/track/4nJCE9UyNXhuERnSX8YgSH) | [The Stooges](https://open.spotify.com/artist/4BFMTELQyWJU1SwqcXMBm3) | [The Stooges](https://open.spotify.com/album/3MANoCcmaHWeXSuWiO3iVo) | 4:05 | 2024-10-04 |  |
 | [1970](https://open.spotify.com/track/0L7F1blNNYj3AjIu4gCjhP) | [The Stooges](https://open.spotify.com/artist/4BFMTELQyWJU1SwqcXMBm3) | [Funhouse](https://open.spotify.com/album/5qhXaVIC5BdE4a5Kq1FMZG) | 5:14 | 2024-10-04 |  |
-| [1999 \- 2019 Remaster](https://open.spotify.com/track/2QSUyofqpGDCo026OPiTBQ) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [1999](https://open.spotify.com/album/34MHuXONazzgSxI0cThpAg) | 6:13 | 2024-10-04 |  |
+| [1999 \- 2019 Remaster](https://open.spotify.com/track/2QSUyofqpGDCo026OPiTBQ) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [1999](https://open.spotify.com/album/34MHuXONazzgSxI0cThpAg) | 6:13 | 2024-10-04 | 2024-10-08 |
 | [23](https://open.spotify.com/track/2RaGRh57p4OtzpXtr65Nws) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [23](https://open.spotify.com/album/018fr4NxxsR6o5TbVpzsIy) | 5:18 | 2024-10-04 |  |
 | [30,000 Monkies](https://open.spotify.com/track/0hO33tahX0V8rjyowWpjti) | [Lightning Bolt](https://open.spotify.com/artist/2og3FOCLYXT9H7IYE6QPUq) | [Wonderful Rainbow](https://open.spotify.com/album/4DsHBZ9Cw8D5cE2gmjoaXu) | 3:49 | 2023-11-24 | 2023-12-09 |
 | [303](https://open.spotify.com/track/2M6InFsjrGzuEteYdvm6nb) | [The Funkees](https://open.spotify.com/artist/6dqBherxR2n5xMfqAI0L2J) | [Dancing Time: The Best of Eastern Nigeria's Afro Rock Exponents 1973\-77](https://open.spotify.com/album/3qvdUGpEoOjOrbtZpWApYm) | 4:20 | 2024-10-04 |  |

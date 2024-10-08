@@ -1305,6 +1305,24 @@
     },
     {
       "album": {
+        "name": "Edho Seidhaai",
+        "url": "https://open.spotify.com/album/2acW27bN9BkxoS0fsMRR77"
+      },
+      "artists": [
+        {
+          "name": "Prezanthi Shanmugavel",
+          "url": "https://open.spotify.com/artist/3g7Jy7DBhczGb5HF5M8PKY"
+        }
+      ],
+      "date_added": "2024-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178000,
+      "name": "Edho Seidhaai",
+      "url": "https://open.spotify.com/track/3QT8Y48V2UfNenGW43sfRV"
+    },
+    {
+      "album": {
         "name": "Eechi",
         "url": "https://open.spotify.com/album/0iPmXoG0jBG0XQWaWQVvZx"
       },

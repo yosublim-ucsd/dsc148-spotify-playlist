@@ -4,7 +4,7 @@
 
 > Rilisan mutakhir dari para musisi arus pinggir tanah air\. Cover: Wijaya 80
 
-195 songs - 12 hr 32 min
+200 songs - 12 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [A Brighter Summer Day](https://open.spotify.com/track/1liio51XbsAqtgoMtWUVW5) | [Well Whale](https://open.spotify.com/artist/1wlMD28jgD4UOQ47n1k1Rk) | [A Brighter Summer Day](https://open.spotify.com/album/15AuM0T0mwnIHWIJx6VU3K) | 3:15 | 2024-09-13 |  |
 | [Adegan Pembuka](https://open.spotify.com/track/3xjAxg8U7O5qzuoaTNjzCR) | [Romantic Echoes](https://open.spotify.com/artist/3VDwfryUiGGszWpyzpwDGJ) | [Adegan Pembuka](https://open.spotify.com/album/0lEmPmFryqrBXkAfY846JI) | 3:38 | 2024-06-27 |  |
 | [Adore](https://open.spotify.com/track/4HOpUAUoFw50JvrcrSxi44) | [FARUZ](https://open.spotify.com/artist/46eConcY4MjCgE1vZSZkiO), [Roommate Project](https://open.spotify.com/artist/63Jce6aXdZbNtbMURY6dYS) | [Adore](https://open.spotify.com/album/7DzL89aasR7IpoE90BlYD5) | 3:40 | 2024-06-27 | 2024-07-19 |
+| [Aku Aku, Kamu Kamu](https://open.spotify.com/track/1Dm4RkicRtJNMxboGFlQZW) | [Gerv](https://open.spotify.com/artist/6PNzFOinYztwojCOLCxojc) | [OMG](https://open.spotify.com/album/0juHtZy0f5t0iWl4VHfZvG) | 3:07 | 2024-10-07 |  |
 | [Aku Tidak Tahu](https://open.spotify.com/track/3tZEHZbc0hyrdoYTLZFfqq) | [Fajar Merah](https://open.spotify.com/artist/6uTtVUX353OX0mOyuk0zhh), [Iksan Skuter](https://open.spotify.com/artist/2M0JEUzgcRX62pMAVlhpxy), [Budi Pasadena](https://open.spotify.com/artist/7BCLdCaYmUlo36YztdgED8) | [Aku Tidak Tahu](https://open.spotify.com/album/4Y5Jc4tjLvRGZZdvxxVUsd) | 4:03 | 2024-08-29 |  |
 | [Amerika](https://open.spotify.com/track/2SKdoe7rNB1q4uBLfmhHsZ) | [Bank](https://open.spotify.com/artist/7GYuuWp775MTtjWkK4N5CF) | [Amerika](https://open.spotify.com/album/7tO1FeNs2m4qSf2Awugv1u) | 4:09 | 2024-07-04 | 2024-08-30 |
 | [Amor](https://open.spotify.com/track/1lMx4GcMycvMtFh0IodxUD) | [Your Hotel in My Bathroom](https://open.spotify.com/artist/27QZu9aqu9mQ9efl6rkhKF) | [Amor](https://open.spotify.com/album/2o5xsmbGBXcTZ2YsCH2Ptt) | 2:21 | 2024-06-27 | 2024-09-06 |
@@ -27,6 +28,7 @@
 | [Bertanya\-tanya](https://open.spotify.com/track/0vimWjMx9Zn49qIbuWPwU2) | [White Chorus](https://open.spotify.com/artist/5L3RqiyBaI1VDhbNkzhdjc), [Nissi Wardoyo](https://open.spotify.com/artist/1aBvJFC9T3hhPbfqcV6FYm) | [do you guys wanna listen to some electro\-pop music?](https://open.spotify.com/album/2GhRWjrf1U4cynhsZ8rp4b) | 3:12 | 2024-09-05 |  |
 | [Better Life \- Extended](https://open.spotify.com/track/7jH3Ip3fmq035QD1cdWhUa) | [Astera](https://open.spotify.com/artist/4JnHEguLziouTWp1brStli), [Natasha Udu](https://open.spotify.com/artist/5788KAWYDqWlejC63W92S7), [RAYHAN NOOR](https://open.spotify.com/artist/5jLL1YM0DNKKhnLl0oSlUA) | [Better Days With Us](https://open.spotify.com/album/55SMsM03vQZxpcEGMfV5eu) | 3:53 | 2024-10-03 |  |
 | [bila](https://open.spotify.com/track/6gHh6SMnCRxLwpDDD7zTqW) | [Amis](https://open.spotify.com/artist/1cH4Kfu1QYyTnmAgEt1j8V) | [Filosofi Males](https://open.spotify.com/album/3RiYb3auIbLVAo8E38mLq8) | 3:32 | 2024-07-04 | 2024-10-04 |
+| [Blooming Day](https://open.spotify.com/track/5NvGxDkpDYbLcIAjWKQ64L) | [Mountain Moves](https://open.spotify.com/artist/34gWE9BvlEeHV1HMEjmfGV) | [Blooming Day](https://open.spotify.com/album/7mqXHShGnQtoTXJ2KLxed8) | 2:36 | 2024-10-07 |  |
 | [Blues dari Rumah](https://open.spotify.com/track/75SPAZgHvdQ72a0MwFb1ev) | [Christabel Annora](https://open.spotify.com/artist/47FWnVDKhmgk7ZCHKSewHq) | [Sudut Kamar](https://open.spotify.com/album/2WXRlR4QoYDhmD7OZsgcI9) | 2:25 | 2024-08-09 | 2024-10-04 |
 | [Boy](https://open.spotify.com/track/0ZTmXwcJHScpFKYvpn1GxY) | [FARUZ](https://open.spotify.com/artist/46eConcY4MjCgE1vZSZkiO) | [Boy](https://open.spotify.com/album/5C94LDJzlNnEyViDX8GQiQ) | 3:44 | 2024-08-29 |  |
 | [Bunga Mawas](https://open.spotify.com/track/6W80U6x8yW8JoeOQysSuG1) | [Rigaskara](https://open.spotify.com/artist/2cfQKHwOPRF2UyEiKLexPW) | [Bunga Mawas](https://open.spotify.com/album/58OsknBLelN6eMs7DIRcWQ) | 3:03 | 2024-10-07 |  |
@@ -66,6 +68,7 @@
 | [Fatamorgana](https://open.spotify.com/track/4rqEnEq8CQzOzjwU2iCHxn) | [Yudis Dwiko](https://open.spotify.com/artist/5Ud9VCmLavle5o180t45fZ) | [Fatamorgana](https://open.spotify.com/album/7IyIwRaq66irZCv1n8sdEo) | 3:37 | 2024-09-13 |  |
 | [Feeling for You](https://open.spotify.com/track/0NA1nlCQ9BlRbbY8F6UTN9) | [LONE](https://open.spotify.com/artist/5HeBFZyF0fqXHw7SU1xZHF) | [Feeling for You](https://open.spotify.com/album/49FXRUWF9fMNgV5BF8vAyk) | 4:13 | 2024-06-27 | 2024-07-05 |
 | [Fermeture](https://open.spotify.com/track/7gwmbKdpNWwFQrr7554mnF) | [Dreane](https://open.spotify.com/artist/3jGBrkfigCO8a21DpyiOMa) | [Take Me](https://open.spotify.com/album/31yx6tPI7RvMRN0yvDqf4r) | 1:04 | 2024-07-16 | 2024-08-30 |
+| [fianeruuu](https://open.spotify.com/track/79dQWTaS9Ws5xNP5fX7KWp) | [funeruuu](https://open.spotify.com/artist/4GSDhPmvDagdbT7iNFUxST), [Aliefia Augustine](https://open.spotify.com/artist/4M2zJEbOzkpDZICzlTTknN) | [funeruuu dan teman\-teman funeruuu](https://open.spotify.com/album/0oCeD9Z2IbzIZCvtB0FqKG) | 4:15 | 2024-10-07 |  |
 | [Forkman In The Soup World](https://open.spotify.com/track/5tIEw3b8Ht8saJ4wz3Ya5d) | [Beranda Rumah](https://open.spotify.com/artist/01IC5xtwNyGb0CT0t7jDQf), [Mr\. & Mrs\. Muffins](https://open.spotify.com/artist/4HPHtlE9XsmCcQNSkuqShU) | [Forkman In The Soup World](https://open.spotify.com/album/1vwXmFFUwB8IbrsVuOBOz9) | 3:50 | 2024-07-19 | 2024-09-06 |
 | [Fragile](https://open.spotify.com/track/2aQ5TojQsR4rTe1zyiJamc) | [Dreane](https://open.spotify.com/artist/3jGBrkfigCO8a21DpyiOMa) | [Fragile](https://open.spotify.com/album/0Mhyp9JonvP6cHv2HWQChq) | 3:38 | 2024-08-01 |  |
 | [Gelora Bertemu](https://open.spotify.com/track/3nErXdVzREIXdSxxMuPaYL) | [Atlesta](https://open.spotify.com/artist/60bdlCy6b211wIIrNKUWjU) | [Gelora Bertemu](https://open.spotify.com/album/309Xx2lM5PhrOk3pBaNXt9) | 4:02 | 2024-07-11 |  |
@@ -111,6 +114,7 @@
 | [Lost In A Maze](https://open.spotify.com/track/6kvAnBR8HBGIG73ASyhF5Z) | [Incircle.](https://open.spotify.com/artist/6N1cdKDau7Es37PJzDcBiI) | [Lost In A Maze](https://open.spotify.com/album/60eBVoIjdn8xemWPWFSljj) | 5:28 | 2024-06-27 | 2024-07-12 |
 | [Louder](https://open.spotify.com/track/660CX4lTKJFgOgoSmRrkSs) | [Elephant Kind](https://open.spotify.com/artist/4xerUCsurnILh4KpC5FVWX) | [Louder](https://open.spotify.com/album/0yx4JsRKHVe7JLgKIyebOp) | 3:00 | 2024-06-27 | 2024-08-17 |
 | [Love Song \- Sped Up](https://open.spotify.com/track/2a6oxLAHXfGAhgtdQc31f7) | [Astera](https://open.spotify.com/artist/4JnHEguLziouTWp1brStli), [Shaumil Kamilia](https://open.spotify.com/artist/5NkWOO2EW1nRzY0EusrOlz) | [Love Song \- Sped Up](https://open.spotify.com/album/5dbOQnPfLLdMCU23rL32UA) | 3:48 | 2024-08-29 |  |
+| [Lovely Echoes](https://open.spotify.com/track/2aASuMToTrUrpNHGI8vw0x) | [Evelyn Starlight](https://open.spotify.com/artist/4KWY62o37me6DDsuINOBFX) | [Lovely Echoes](https://open.spotify.com/album/177PBhXJIjhoMgU7AFLst0) | 3:58 | 2024-10-07 |  |
 | [Mantra Puja](https://open.spotify.com/track/3DHae16zH3B8OwXkPugwdN) | [Soegi Bornean](https://open.spotify.com/artist/0YpfUFtmzwNGWjowRwoGel) | [Mantra Puja](https://open.spotify.com/album/1t64iPu6LnJhZ7NRov6nMf) | 5:25 | 2024-06-27 |  |
 | [Manusia Dalam Tanda Tanya](https://open.spotify.com/track/5znaJbleJp9FEx5g4W4F6N) | [Bangkutaman](https://open.spotify.com/artist/241HQhMPjYIvEBJgh78302) | [Manusia Dalam Tanda Tanya](https://open.spotify.com/album/0ou7Zm0gbBchox88sGzEoL) | 3:09 | 2024-06-27 | 2024-08-30 |
 | [Masa Kita](https://open.spotify.com/track/0wTyJ88G2wq50ykM5zSVMS) | [Abe Lubis](https://open.spotify.com/artist/1qCmZbGisqPoeIEjFG8WeF) | [Masa Kita](https://open.spotify.com/album/5y9toYszQZxF2bvHInGZCW) | 4:06 | 2024-06-27 | 2024-07-05 |
@@ -166,6 +170,7 @@
 | [Slippery](https://open.spotify.com/track/3vRjjN0CkUdfREnSja3Q0i) | [Matahara](https://open.spotify.com/artist/6SX0hms1ZlxJ8nLvKLzqws) | [Slippery](https://open.spotify.com/album/420j8oB94KH2s8007O1NNU) | 3:24 | 2024-07-19 | 2024-09-06 |
 | [Stay Asleep](https://open.spotify.com/track/5yHboJF2EN6Z3s1EPKOF1I) | [Hollywood Nobody](https://open.spotify.com/artist/227hPsCkg7IeGxtgboqx62) | [Stay Asleep](https://open.spotify.com/album/2z5K2ZTbr1i20HaniQHp0S) | 3:20 | 2024-06-27 | 2024-07-12 |
 | [Still Wanna See You](https://open.spotify.com/track/38eedo1dJbYTEPKNCcFFxl) | [cellosux](https://open.spotify.com/artist/2rkmXRyKp3HRmGOgP968Kj) | [Still Wanna See You](https://open.spotify.com/album/23Y75U4a2MGxOKL3My02I8) | 2:59 | 2024-10-03 |  |
+| [Stop Loving You](https://open.spotify.com/track/4623UMZf7ASZiyAoM8DaY6) | [Stargazing](https://open.spotify.com/artist/5cX76AOt8KBbn51oE968Bn) | [Stop Loving You](https://open.spotify.com/album/5zkRShBiE8RX5DYamR0QWw) | 4:36 | 2024-10-07 |  |
 | [Sugarpills](https://open.spotify.com/track/7MpD2YZbkP21oZNOkmBfct) | [Cvndy](https://open.spotify.com/artist/74WzFWbliZQYYtp8Vft4vU) | [Sugarpills](https://open.spotify.com/album/5rAwTVkWbun9dHeyAq5gnX) | 3:42 | 2024-08-09 | 2024-10-04 |
 | [Sugra](https://open.spotify.com/track/6256t92jyJ6K8YRecGz9TM) | [Munthe](https://open.spotify.com/artist/36WOLEwcKOGDXVtDc1atPv) | [Sugra](https://open.spotify.com/album/32hLoOV8fjlsJDLX0Hcgof) | 3:55 | 2024-06-27 | 2024-07-27 |
 | [Sunday](https://open.spotify.com/track/2rfmkK3tZz8XuSdEARWNsE) | [Sheaves](https://open.spotify.com/artist/1ukzwOak6jL1bFFb9OyY0O) | [Sunday](https://open.spotify.com/album/1TivvAlGmKdopFUnTvEUwO) | 4:15 | 2024-06-27 | 2024-07-05 |

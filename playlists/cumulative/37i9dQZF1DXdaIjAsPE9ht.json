@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "Airy Dream",
+        "url": "https://open.spotify.com/album/1WlSFbBa2pcFYD6fuMe8l3"
+      },
+      "artists": [
+        {
+          "name": "poems",
+          "url": "https://open.spotify.com/artist/3MqAMBWx8jXvOhjQWiGN6w"
+        }
+      ],
+      "date_added": "2024-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129896,
+      "name": "Airy Dream",
+      "url": "https://open.spotify.com/track/0EO2YsUyTRDvXgET97TEsF"
+    },
+    {
+      "album": {
         "name": "alone zone",
         "url": "https://open.spotify.com/album/16o0agFqEWp6ffeO5AjmaK"
       },
@@ -38,6 +56,28 @@
       "duration_ms": 134185,
       "name": "alone zone",
       "url": "https://open.spotify.com/track/27soIlOFetGUgtdSyObi7O"
+    },
+    {
+      "album": {
+        "name": "anemoia",
+        "url": "https://open.spotify.com/album/7BQKMo1LmR49MknNV8TDdd"
+      },
+      "artists": [
+        {
+          "name": "Hoogway",
+          "url": "https://open.spotify.com/artist/1Mh9G47YfuaLdQs44voLrQ"
+        },
+        {
+          "name": "hushfall",
+          "url": "https://open.spotify.com/artist/6wPZ8OOl7FlpRa1aUejY47"
+        }
+      ],
+      "date_added": "2024-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121224,
+      "name": "anemoia",
+      "url": "https://open.spotify.com/track/5C7CsEq2Ct2ZJOPUnUpzGp"
     },
     {
       "album": {
@@ -168,6 +208,24 @@
       "duration_ms": 166491,
       "name": "Breakfast In Bed",
       "url": "https://open.spotify.com/track/55LPJYCwffJ7GYemDPQ47K"
+    },
+    {
+      "album": {
+        "name": "broth",
+        "url": "https://open.spotify.com/album/4r5vFtlHvYzp23Xn34Oj8Y"
+      },
+      "artists": [
+        {
+          "name": "lilibu",
+          "url": "https://open.spotify.com/artist/2GAEdgtVHrKsjcHqwUFjpI"
+        }
+      ],
+      "date_added": "2024-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186666,
+      "name": "broth",
+      "url": "https://open.spotify.com/track/1V07rv74k9FinkehDGR14N"
     },
     {
       "album": {
@@ -387,6 +445,32 @@
     },
     {
       "album": {
+        "name": "Crestfallen",
+        "url": "https://open.spotify.com/album/5NpAqslL5QxNeWDlI6pyW6"
+      },
+      "artists": [
+        {
+          "name": "Kyola",
+          "url": "https://open.spotify.com/artist/301wYjdgUExDcZTEre9dw8"
+        },
+        {
+          "name": "cxlt.",
+          "url": "https://open.spotify.com/artist/1TFqjcoVis5TzVQxrHMSfA"
+        },
+        {
+          "name": "luffmoor",
+          "url": "https://open.spotify.com/artist/0RRp7Ako9aGQ1RjnP7PC6w"
+        }
+      ],
+      "date_added": "2024-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155075,
+      "name": "Crestfallen",
+      "url": "https://open.spotify.com/track/68hLSA41wxIcMueRmN7tem"
+    },
+    {
+      "album": {
         "name": "curled up",
         "url": "https://open.spotify.com/album/6TosV7bDaKCr39dqtzHTz8"
       },
@@ -460,6 +544,24 @@
       "duration_ms": 185454,
       "name": "Distance",
       "url": "https://open.spotify.com/track/4TDmvOpMxFoF7MX6gQh1Ld"
+    },
+    {
+      "album": {
+        "name": "downstream memories",
+        "url": "https://open.spotify.com/album/3AA5PeY5bEZKxYY60HsSek"
+      },
+      "artists": [
+        {
+          "name": "Zupa Fitz",
+          "url": "https://open.spotify.com/artist/4MWkjSKrSjby7g8N96hwFg"
+        }
+      ],
+      "date_added": "2024-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152647,
+      "name": "downstream memories",
+      "url": "https://open.spotify.com/track/3bBIcw0sCrz0z3W0UEG29k"
     },
     {
       "album": {
@@ -568,6 +670,24 @@
       "duration_ms": 130988,
       "name": "Emotional Avocado Toast",
       "url": "https://open.spotify.com/track/4HB0WtiZfr4RHFHoZfIsSr"
+    },
+    {
+      "album": {
+        "name": "Ends",
+        "url": "https://open.spotify.com/album/05xppISFeHiGDlYUmgRqrc"
+      },
+      "artists": [
+        {
+          "name": "joorla",
+          "url": "https://open.spotify.com/artist/6Dfu0b3T2H62yDNsMwfj2q"
+        }
+      ],
+      "date_added": "2024-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142995,
+      "name": "Ends",
+      "url": "https://open.spotify.com/track/3oGDMcrvctnKNhlL2bOi7r"
     },
     {
       "album": {
@@ -690,7 +810,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-08",
       "duration_ms": 160000,
       "name": "frost",
       "url": "https://open.spotify.com/track/4bmuGIHRJYMjL02yXZeoCd"
@@ -917,6 +1037,24 @@
     },
     {
       "album": {
+        "name": "Island Bounce",
+        "url": "https://open.spotify.com/album/0tC0zfmZKgr5MUDpA1m2yq"
+      },
+      "artists": [
+        {
+          "name": "Hi Hat Henry",
+          "url": "https://open.spotify.com/artist/7tsp47BEDJSjYQB0YaDV52"
+        }
+      ],
+      "date_added": "2024-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147788,
+      "name": "Island Bounce",
+      "url": "https://open.spotify.com/track/1oxbRHkBMJCOSxt6WAL41F"
+    },
+    {
+      "album": {
         "name": "kyoto dreams",
         "url": "https://open.spotify.com/album/3msbu1P8p3H5umoFgmosLT"
       },
@@ -928,10 +1066,32 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-08",
       "duration_ms": 144000,
       "name": "kyoto dreams",
       "url": "https://open.spotify.com/track/7EzZ5GTsVwWApFLJyv6znP"
+    },
+    {
+      "album": {
+        "name": "lacuna",
+        "url": "https://open.spotify.com/album/5IG8SjKWLmKJeKQ1aHDN6r"
+      },
+      "artists": [
+        {
+          "name": "Bcalm",
+          "url": "https://open.spotify.com/artist/7M4y7qvcYja7RcXNCGrjeP"
+        },
+        {
+          "name": "Casiio",
+          "url": "https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a"
+        }
+      ],
+      "date_added": "2024-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124800,
+      "name": "lacuna",
+      "url": "https://open.spotify.com/track/6VPOo6tFLG6RyBcapdfRm3"
     },
     {
       "album": {
@@ -1058,7 +1218,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-08",
       "duration_ms": 215713,
       "name": "memory",
       "url": "https://open.spotify.com/track/3kp7TJruKzJUlr3entkFZ2"
@@ -1080,6 +1240,24 @@
       "duration_ms": 123000,
       "name": "Metropolis Moods",
       "url": "https://open.spotify.com/track/4v2AVfVsqsnYdGVkUUdKag"
+    },
+    {
+      "album": {
+        "name": "midnight escape",
+        "url": "https://open.spotify.com/album/4soXZQhBjBXl0480o8cj5G"
+      },
+      "artists": [
+        {
+          "name": "sellar",
+          "url": "https://open.spotify.com/artist/2eE2igevXc1oO8cBldYZDy"
+        }
+      ],
+      "date_added": "2024-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180791,
+      "name": "midnight escape",
+      "url": "https://open.spotify.com/track/1H1wSRhMTiGB6cgrNQO4gw"
     },
     {
       "album": {
@@ -1155,6 +1333,24 @@
     },
     {
       "album": {
+        "name": "nothing to lose",
+        "url": "https://open.spotify.com/album/5MnN94EeAMkc0DeOMeSYwm"
+      },
+      "artists": [
+        {
+          "name": "softclouds",
+          "url": "https://open.spotify.com/artist/4rjXInANFMCQfAzadFAi4d"
+        }
+      ],
+      "date_added": "2024-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152812,
+      "name": "nothing to lose",
+      "url": "https://open.spotify.com/track/33zke8d6rCkng1Brt3LjlH"
+    },
+    {
+      "album": {
         "name": "Last Summer",
         "url": "https://open.spotify.com/album/0cruHSkBmlUqwXDFxyAGl8"
       },
@@ -1209,6 +1405,24 @@
     },
     {
       "album": {
+        "name": "plateau",
+        "url": "https://open.spotify.com/album/6ydJwHuW8t3BN4hfgXPKl6"
+      },
+      "artists": [
+        {
+          "name": "lilibu",
+          "url": "https://open.spotify.com/artist/2GAEdgtVHrKsjcHqwUFjpI"
+        }
+      ],
+      "date_added": "2024-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176954,
+      "name": "plateau",
+      "url": "https://open.spotify.com/track/0qi4Lk7uRGRSImdN33hgg7"
+    },
+    {
+      "album": {
         "name": "promised you",
         "url": "https://open.spotify.com/album/4y1qZp2i3lKxfWxrMlMeHb"
       },
@@ -1224,6 +1438,24 @@
       "duration_ms": 126410,
       "name": "promised you",
       "url": "https://open.spotify.com/track/3X3nG3p7bb4XtGCh0ITsLv"
+    },
+    {
+      "album": {
+        "name": "Quartal",
+        "url": "https://open.spotify.com/album/4GwJnWsXhLb7jDO4o9yHV8"
+      },
+      "artists": [
+        {
+          "name": "Lucid Keys",
+          "url": "https://open.spotify.com/artist/5l1oiy2VufzI1tbdpiaoQi"
+        }
+      ],
+      "date_added": "2024-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144657,
+      "name": "Quartal",
+      "url": "https://open.spotify.com/track/6HouroGZSnriefu6Rg53AK"
     },
     {
       "album": {
@@ -1292,7 +1524,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-08",
       "duration_ms": 141171,
       "name": "rainy daze",
       "url": "https://open.spotify.com/track/6GLC6GbqXXDMLGZe8IQek3"
@@ -1422,7 +1654,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-08",
       "duration_ms": 141260,
       "name": "Shimmer",
       "url": "https://open.spotify.com/track/4fjhWALslN4Q9GZ7VtU99p"
@@ -1498,6 +1730,24 @@
       "duration_ms": 144005,
       "name": "soft plushies",
       "url": "https://open.spotify.com/track/0CxiIgeeY64oIFG0bbbYi1"
+    },
+    {
+      "album": {
+        "name": "Solitude",
+        "url": "https://open.spotify.com/album/2qBou21EABjntC15p7h3cz"
+      },
+      "artists": [
+        {
+          "name": "Soib\u00fa",
+          "url": "https://open.spotify.com/artist/4HFaAaWRSjxvxyNB6RoUaI"
+        }
+      ],
+      "date_added": "2024-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143339,
+      "name": "Solitude",
+      "url": "https://open.spotify.com/track/4b9bN05qHHaRpwd60J0sN3"
     },
     {
       "album": {
@@ -1830,6 +2080,24 @@
       "duration_ms": 161538,
       "name": "Winter Sky",
       "url": "https://open.spotify.com/track/1PSxNwx1wYs9oJE2RtaT6n"
+    },
+    {
+      "album": {
+        "name": "Worcestershire dreaming",
+        "url": "https://open.spotify.com/album/7j6jANOsfXpSfabekUP2lj"
+      },
+      "artists": [
+        {
+          "name": "Low Couture",
+          "url": "https://open.spotify.com/artist/13mNwKx9Xb7I4qurCOJfXq"
+        }
+      ],
+      "date_added": "2024-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126857,
+      "name": "Worcestershire dreaming",
+      "url": "https://open.spotify.com/track/7qdmi4ASzlDenOqt5hG587"
     },
     {
       "album": {

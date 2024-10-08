@@ -1,6 +1,6 @@
 {
   "description": "A journey in the modern & old Sudanese sounds.\n",
-  "num_followers": 18682,
+  "num_followers": 18684,
   "original_name": "Sudan Sounds",
   "owner": {
     "name": "Spotify",
@@ -339,8 +339,8 @@
     {
       "added_at": "2024-08-14 15:57:08",
       "album": {
-        "name": "3bdo Mota",
-        "url": "https://open.spotify.com/album/0JP5fr97ytUIM5IYzAzDw2"
+        "name": "Modarab",
+        "url": "https://open.spotify.com/album/3dzdj41YMNwyT4BPoCpujO"
       },
       "artists": [
         {
@@ -348,9 +348,9 @@
           "url": "https://open.spotify.com/artist/46MsyReAQf8kF6M4tD38Bk"
         }
       ],
-      "duration_ms": 185874,
-      "name": "3bdo Mota",
-      "url": "https://open.spotify.com/track/46uwZwCZk6K5VKBQhGoDNa"
+      "duration_ms": 131000,
+      "name": "Modarab",
+      "url": "https://open.spotify.com/track/4FmRfOUWREoooYkcT9DFW6"
     },
     {
       "added_at": "2024-08-14 15:57:08",
@@ -419,8 +419,8 @@
     {
       "added_at": "2024-08-14 15:57:08",
       "album": {
-        "name": "Modarab",
-        "url": "https://open.spotify.com/album/3dzdj41YMNwyT4BPoCpujO"
+        "name": "3bdo Mota",
+        "url": "https://open.spotify.com/album/0JP5fr97ytUIM5IYzAzDw2"
       },
       "artists": [
         {
@@ -428,9 +428,9 @@
           "url": "https://open.spotify.com/artist/46MsyReAQf8kF6M4tD38Bk"
         }
       ],
-      "duration_ms": 131000,
-      "name": "Modarab",
-      "url": "https://open.spotify.com/track/4FmRfOUWREoooYkcT9DFW6"
+      "duration_ms": 185874,
+      "name": "3bdo Mota",
+      "url": "https://open.spotify.com/track/46uwZwCZk6K5VKBQhGoDNa"
     },
     {
       "added_at": "2024-08-14 15:57:08",
@@ -699,6 +699,22 @@
     {
       "added_at": "2024-08-14 15:57:08",
       "album": {
+        "name": "Picasso (Outro)",
+        "url": "https://open.spotify.com/album/5FHpioMLjDuoJMvCg8GWQw"
+      },
+      "artists": [
+        {
+          "name": "O'd",
+          "url": "https://open.spotify.com/artist/0LwmaxKGW5M2qF7Mas5ejk"
+        }
+      ],
+      "duration_ms": 240138,
+      "name": "Picasso (Outro)",
+      "url": "https://open.spotify.com/track/09foknzEQOePhFgW1wvxeb"
+    },
+    {
+      "added_at": "2024-08-14 15:57:08",
+      "album": {
         "name": "Tnt: Injaz",
         "url": "https://open.spotify.com/album/08nO4dVa88kyXFzL89vMVf"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 220164,
       "name": "Ejaza",
       "url": "https://open.spotify.com/track/5gZV4PSCLqcDVPklLfqmHk"
-    },
-    {
-      "added_at": "2024-08-14 15:57:08",
-      "album": {
-        "name": "Picasso (Outro)",
-        "url": "https://open.spotify.com/album/5FHpioMLjDuoJMvCg8GWQw"
-      },
-      "artists": [
-        {
-          "name": "O'd",
-          "url": "https://open.spotify.com/artist/0LwmaxKGW5M2qF7Mas5ejk"
-        }
-      ],
-      "duration_ms": 240138,
-      "name": "Picasso (Outro)",
-      "url": "https://open.spotify.com/track/09foknzEQOePhFgW1wvxeb"
     },
     {
       "added_at": "2024-08-14 15:57:08",
@@ -755,22 +755,6 @@
     {
       "added_at": "2024-08-14 15:57:08",
       "album": {
-        "name": "Matalib",
-        "url": "https://open.spotify.com/album/4kyeAYBNCYeGHEa2CktKDx"
-      },
-      "artists": [
-        {
-          "name": "Sammany",
-          "url": "https://open.spotify.com/artist/4NyCG4OTfplfwyO65U7gY7"
-        }
-      ],
-      "duration_ms": 288008,
-      "name": "Matalib",
-      "url": "https://open.spotify.com/track/0chh0JBXHHvrOymWelevQM"
-    },
-    {
-      "added_at": "2024-08-14 15:57:08",
-      "album": {
         "name": "HYSTERIA",
         "url": "https://open.spotify.com/album/4EKOsj9YWElPfGuDNaxM48"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 148292,
       "name": "HYSTERIA",
       "url": "https://open.spotify.com/track/0GBdCAzoO1nQdTl0ajJCul"
+    },
+    {
+      "added_at": "2024-08-14 15:57:08",
+      "album": {
+        "name": "Matalib",
+        "url": "https://open.spotify.com/album/4kyeAYBNCYeGHEa2CktKDx"
+      },
+      "artists": [
+        {
+          "name": "Sammany",
+          "url": "https://open.spotify.com/artist/4NyCG4OTfplfwyO65U7gY7"
+        }
+      ],
+      "duration_ms": 288008,
+      "name": "Matalib",
+      "url": "https://open.spotify.com/track/0chh0JBXHHvrOymWelevQM"
     },
     {
       "added_at": "2024-08-14 15:57:08",
@@ -815,22 +815,6 @@
       "duration_ms": 176750,
       "name": "Marsa",
       "url": "https://open.spotify.com/track/59LnpUJtFTYVYo1JBN8vsO"
-    },
-    {
-      "added_at": "2024-08-14 15:57:08",
-      "album": {
-        "name": "O'd the EP",
-        "url": "https://open.spotify.com/album/3yPFtPM6fwAlfbr1pLkp9I"
-      },
-      "artists": [
-        {
-          "name": "O'd",
-          "url": "https://open.spotify.com/artist/0LwmaxKGW5M2qF7Mas5ejk"
-        }
-      ],
-      "duration_ms": 313220,
-      "name": "Waraga",
-      "url": "https://open.spotify.com/track/5d7lKOsOxblM7m6uI4nz9J"
     },
     {
       "added_at": "2024-08-14 15:57:08",
@@ -891,6 +875,22 @@
     {
       "added_at": "2024-08-14 15:57:08",
       "album": {
+        "name": "O'd the EP",
+        "url": "https://open.spotify.com/album/3yPFtPM6fwAlfbr1pLkp9I"
+      },
+      "artists": [
+        {
+          "name": "O'd",
+          "url": "https://open.spotify.com/artist/0LwmaxKGW5M2qF7Mas5ejk"
+        }
+      ],
+      "duration_ms": 313220,
+      "name": "Waraga",
+      "url": "https://open.spotify.com/track/5d7lKOsOxblM7m6uI4nz9J"
+    },
+    {
+      "added_at": "2024-08-14 15:57:08",
+      "album": {
         "name": "Two Niles to Sing a Melody: The Violins & Synths of Sudan",
         "url": "https://open.spotify.com/album/6kHSUBrq8O2qT9g64Ow3mZ"
       },
@@ -903,42 +903,6 @@
       "duration_ms": 267856,
       "name": "Igd Allooli (The Pearl Necklace)",
       "url": "https://open.spotify.com/track/1KUmHS4kiZ4KZvfjyTg0dJ"
-    },
-    {
-      "added_at": "2024-08-14 15:57:08",
-      "album": {
-        "name": "Zaman Maf",
-        "url": "https://open.spotify.com/album/5m1ZHWPTBZq9V7xeV27IO3"
-      },
-      "artists": [
-        {
-          "name": "O'd",
-          "url": "https://open.spotify.com/artist/0LwmaxKGW5M2qF7Mas5ejk"
-        },
-        {
-          "name": "A7MD",
-          "url": "https://open.spotify.com/artist/4lG8ClDdSczGV2g7b2G7Qx"
-        }
-      ],
-      "duration_ms": 218983,
-      "name": "Zaman Maf",
-      "url": "https://open.spotify.com/track/3RHQmKlOaVqew8UZ5AbmOP"
-    },
-    {
-      "added_at": "2024-08-14 15:57:08",
-      "album": {
-        "name": "Amir Al Oud Part 1",
-        "url": "https://open.spotify.com/album/5o0S5hIDn2PKf8g8zsvywN"
-      },
-      "artists": [
-        {
-          "name": "Abdel Karim Alkabli",
-          "url": "https://open.spotify.com/artist/6VESeB6Ehy0WZPLoIaMbCD"
-        }
-      ],
-      "duration_ms": 423106,
-      "name": "Herman",
-      "url": "https://open.spotify.com/track/4zza6464stnHetdc4NOVZo"
     },
     {
       "added_at": "2024-08-14 15:57:08",
@@ -971,6 +935,42 @@
       "duration_ms": 495442,
       "name": "Qamar Al Massa (Moon of the Night)",
       "url": "https://open.spotify.com/track/0qFCusOSOxNdjSWuDILGt2"
+    },
+    {
+      "added_at": "2024-08-14 15:57:08",
+      "album": {
+        "name": "Amir Al Oud Part 1",
+        "url": "https://open.spotify.com/album/5o0S5hIDn2PKf8g8zsvywN"
+      },
+      "artists": [
+        {
+          "name": "Abdel Karim Alkabli",
+          "url": "https://open.spotify.com/artist/6VESeB6Ehy0WZPLoIaMbCD"
+        }
+      ],
+      "duration_ms": 423106,
+      "name": "Herman",
+      "url": "https://open.spotify.com/track/4zza6464stnHetdc4NOVZo"
+    },
+    {
+      "added_at": "2024-08-14 15:57:08",
+      "album": {
+        "name": "Zaman Maf",
+        "url": "https://open.spotify.com/album/5m1ZHWPTBZq9V7xeV27IO3"
+      },
+      "artists": [
+        {
+          "name": "O'd",
+          "url": "https://open.spotify.com/artist/0LwmaxKGW5M2qF7Mas5ejk"
+        },
+        {
+          "name": "A7MD",
+          "url": "https://open.spotify.com/artist/4lG8ClDdSczGV2g7b2G7Qx"
+        }
+      ],
+      "duration_ms": 218983,
+      "name": "Zaman Maf",
+      "url": "https://open.spotify.com/track/3RHQmKlOaVqew8UZ5AbmOP"
     },
     {
       "added_at": "2024-08-14 15:57:08",
@@ -1023,26 +1023,6 @@
     {
       "added_at": "2024-08-14 15:57:08",
       "album": {
-        "name": "Moya wa Zait",
-        "url": "https://open.spotify.com/album/6TlqV4YPrrt1X5qHUmZGxA"
-      },
-      "artists": [
-        {
-          "name": "Walgz",
-          "url": "https://open.spotify.com/artist/50gLwM6cfifBxgrML3Q0IT"
-        },
-        {
-          "name": "Ntitled",
-          "url": "https://open.spotify.com/artist/1IlPPRHXWaxkyNiboLlCjd"
-        }
-      ],
-      "duration_ms": 158709,
-      "name": "Moya wa Zait",
-      "url": "https://open.spotify.com/track/4ZUU8c89Ut56X7ljfqqEHc"
-    },
-    {
-      "added_at": "2024-08-14 15:57:08",
-      "album": {
         "name": "DUM TIK TIK",
         "url": "https://open.spotify.com/album/2ZZidnczOk5PdAkGbef9Ec"
       },
@@ -1071,6 +1051,26 @@
       "duration_ms": 201862,
       "name": "\u0628\u0633\u062d\u0631\u0648\u0643",
       "url": "https://open.spotify.com/track/0nOAJ6NOwB8JVPMKBae4GU"
+    },
+    {
+      "added_at": "2024-08-14 15:57:08",
+      "album": {
+        "name": "Moya wa Zait",
+        "url": "https://open.spotify.com/album/6TlqV4YPrrt1X5qHUmZGxA"
+      },
+      "artists": [
+        {
+          "name": "Walgz",
+          "url": "https://open.spotify.com/artist/50gLwM6cfifBxgrML3Q0IT"
+        },
+        {
+          "name": "Ntitled",
+          "url": "https://open.spotify.com/artist/1IlPPRHXWaxkyNiboLlCjd"
+        }
+      ],
+      "duration_ms": 158709,
+      "name": "Moya wa Zait",
+      "url": "https://open.spotify.com/track/4ZUU8c89Ut56X7ljfqqEHc"
     },
     {
       "added_at": "2024-08-14 15:57:08",
@@ -1211,26 +1211,6 @@
     {
       "added_at": "2024-08-14 15:57:08",
       "album": {
-        "name": "Soudani Manayou",
-        "url": "https://open.spotify.com/album/2iPwYRSgVpjaqL7fPW2wRR"
-      },
-      "artists": [
-        {
-          "name": "Majid Bekkas",
-          "url": "https://open.spotify.com/artist/6T4kWmFsjL5rnWOLOHKa7C"
-        },
-        {
-          "name": "Cervo",
-          "url": "https://open.spotify.com/artist/4U5yFCOe1UuvE72efEJAlX"
-        }
-      ],
-      "duration_ms": 485482,
-      "name": "Soudani Manayou - Cervo Edit",
-      "url": "https://open.spotify.com/track/6lJJHmqZGULV0H34Dyw1kF"
-    },
-    {
-      "added_at": "2024-08-14 15:57:08",
-      "album": {
         "name": "Farasha \u0641\u0631\u0627\u0634\u0629",
         "url": "https://open.spotify.com/album/2SgBBbEiX68bS67DbqFJZG"
       },
@@ -1251,6 +1231,26 @@
       "duration_ms": 232000,
       "name": "Farasha \u0641\u0631\u0627\u0634\u0629",
       "url": "https://open.spotify.com/track/4F731VYNl7sOZ3dwdZZsTV"
+    },
+    {
+      "added_at": "2024-08-14 15:57:08",
+      "album": {
+        "name": "Soudani Manayou",
+        "url": "https://open.spotify.com/album/2iPwYRSgVpjaqL7fPW2wRR"
+      },
+      "artists": [
+        {
+          "name": "Majid Bekkas",
+          "url": "https://open.spotify.com/artist/6T4kWmFsjL5rnWOLOHKa7C"
+        },
+        {
+          "name": "Cervo",
+          "url": "https://open.spotify.com/artist/4U5yFCOe1UuvE72efEJAlX"
+        }
+      ],
+      "duration_ms": 485482,
+      "name": "Soudani Manayou - Cervo Edit",
+      "url": "https://open.spotify.com/track/6lJJHmqZGULV0H34Dyw1kF"
     },
     {
       "added_at": "2024-08-14 15:57:08",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2024-08-14 15:57:08",
       "album": {
-        "name": "Let Me Be",
-        "url": "https://open.spotify.com/album/2b8jkXLchoqaLrY2tHFNxG"
-      },
-      "artists": [
-        {
-          "name": "Rasha",
-          "url": "https://open.spotify.com/artist/6grYfB8l8WZo0NOtdcWWls"
-        }
-      ],
-      "duration_ms": 273521,
-      "name": "Ia Sudan Ma'alesh",
-      "url": "https://open.spotify.com/track/33U53mkczIUGC8kmaIZ0A0"
-    },
-    {
-      "added_at": "2024-08-14 15:57:08",
-      "album": {
         "name": "Fuego",
         "url": "https://open.spotify.com/album/1AsD9IvZZjFvhrpTpTBDW2"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 210430,
       "name": "Fuego",
       "url": "https://open.spotify.com/track/02Ddh1rBZbk5dmsfBWp6hn"
+    },
+    {
+      "added_at": "2024-08-14 15:57:08",
+      "album": {
+        "name": "Let Me Be",
+        "url": "https://open.spotify.com/album/2b8jkXLchoqaLrY2tHFNxG"
+      },
+      "artists": [
+        {
+          "name": "Rasha",
+          "url": "https://open.spotify.com/artist/6grYfB8l8WZo0NOtdcWWls"
+        }
+      ],
+      "duration_ms": 273521,
+      "name": "Ia Sudan Ma'alesh",
+      "url": "https://open.spotify.com/track/33U53mkczIUGC8kmaIZ0A0"
     },
     {
       "added_at": "2024-08-14 15:57:08",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2024-08-14 15:57:08",
       "album": {
-        "name": "Let Me Be",
-        "url": "https://open.spotify.com/album/2b8jkXLchoqaLrY2tHFNxG"
-      },
-      "artists": [
-        {
-          "name": "Rasha",
-          "url": "https://open.spotify.com/artist/6grYfB8l8WZo0NOtdcWWls"
-        }
-      ],
-      "duration_ms": 272191,
-      "name": "Afta'h Albab",
-      "url": "https://open.spotify.com/track/0GE8ZWfe1ohvn1Rf5FbxLC"
-    },
-    {
-      "added_at": "2024-08-14 15:57:08",
-      "album": {
         "name": "\u0633\u0627\u0631\u064a\u0646\u0629",
         "url": "https://open.spotify.com/album/1vCzCD9bEfYFNnDw6gDAv6"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 202666,
       "name": "\u0633\u0627\u0631\u064a\u0646\u0629",
       "url": "https://open.spotify.com/track/2lglRe92A9P1ORVqkI2LI4"
+    },
+    {
+      "added_at": "2024-08-14 15:57:08",
+      "album": {
+        "name": "Let Me Be",
+        "url": "https://open.spotify.com/album/2b8jkXLchoqaLrY2tHFNxG"
+      },
+      "artists": [
+        {
+          "name": "Rasha",
+          "url": "https://open.spotify.com/artist/6grYfB8l8WZo0NOtdcWWls"
+        }
+      ],
+      "duration_ms": 272191,
+      "name": "Afta'h Albab",
+      "url": "https://open.spotify.com/track/0GE8ZWfe1ohvn1Rf5FbxLC"
     },
     {
       "added_at": "2024-08-14 15:57:08",

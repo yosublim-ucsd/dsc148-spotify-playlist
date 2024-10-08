@@ -1,12 +1,12 @@
 {
   "description": "This is Nana Mizuki. The essential tracks, all in one playlist.",
-  "num_followers": 27344,
+  "num_followers": 27343,
   "original_name": "This Is Nana Mizuki",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwCBgAAAAAAiQzrP7jCDrt2nGD3pnPW3",
+  "snapshot_id": "ZwHTAAAAAADKmif7+xfqzN9ce9s2BovQ",
   "tracks": [
     {
       "added_at": null,
@@ -611,22 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Get up! Shout!",
-        "url": "https://open.spotify.com/album/19hS9MR9UT1HYEfjin62Kn"
-      },
-      "artists": [
-        {
-          "name": "Nana Mizuki",
-          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
-        }
-      ],
-      "duration_ms": 257622,
-      "name": "Phase 21",
-      "url": "https://open.spotify.com/track/791jqNUM4S72XV13eK4dXO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "IMPACT EXCITER",
         "url": "https://open.spotify.com/album/7eRju7cXN0JfW34mqwVeUA"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 270866,
       "name": "\u56da\u308f\u308c\u306eBabel",
       "url": "https://open.spotify.com/track/1low37x2FWfAv57ISuPKGO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Get up! Shout!",
+        "url": "https://open.spotify.com/album/19hS9MR9UT1HYEfjin62Kn"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "duration_ms": 257622,
+      "name": "Phase 21",
+      "url": "https://open.spotify.com/track/791jqNUM4S72XV13eK4dXO"
     },
     {
       "added_at": null,
@@ -739,22 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Silent Bible",
-        "url": "https://open.spotify.com/album/4tnnahmbMG1qiJA3GCCL50"
-      },
-      "artists": [
-        {
-          "name": "Nana Mizuki",
-          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
-        }
-      ],
-      "duration_ms": 259586,
-      "name": "Polaris",
-      "url": "https://open.spotify.com/track/2orTpDbh1wO0GF76kCbEih"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Get up! Shout!",
         "url": "https://open.spotify.com/album/0iVDWHViURVVmw3cw5gVMF"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 250118,
       "name": "Get up! Shout!",
       "url": "https://open.spotify.com/track/2FTt8Qkc04fcRZzwDEsNrh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Silent Bible",
+        "url": "https://open.spotify.com/album/4tnnahmbMG1qiJA3GCCL50"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "duration_ms": 259586,
+      "name": "Polaris",
+      "url": "https://open.spotify.com/track/2orTpDbh1wO0GF76kCbEih"
     },
     {
       "added_at": null,
@@ -787,22 +787,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "WONDER QUEST EP",
-        "url": "https://open.spotify.com/album/2zIv4qhpYHrk0zVGSAO2F3"
-      },
-      "artists": [
-        {
-          "name": "Nana Mizuki",
-          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
-        }
-      ],
-      "duration_ms": 232333,
-      "name": "Hungry Hungry",
-      "url": "https://open.spotify.com/track/790IujLc3cPD6Y85LnhjEr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SUPERNAL LIBERTY",
         "url": "https://open.spotify.com/album/3JZgRA7BTYogkdQu8OboVt"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 284400,
       "name": "Vitalization-Aufwachen Form-",
       "url": "https://open.spotify.com/track/1kAaJgbvrsltMvjFPQiC1I"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "WONDER QUEST EP",
+        "url": "https://open.spotify.com/album/2zIv4qhpYHrk0zVGSAO2F3"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "duration_ms": 232333,
+      "name": "Hungry Hungry",
+      "url": "https://open.spotify.com/track/790IujLc3cPD6Y85LnhjEr"
     }
   ],
   "unique_name": "This Is Nana Mizuki",

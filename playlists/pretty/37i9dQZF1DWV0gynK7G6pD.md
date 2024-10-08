@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 
 > Updated every Friday with the very best classical new releases\. Cover: Ludovico Einaudi.
 
-[Spotify](https://open.spotify.com/user/spotify) - 712,584 likes - 72 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 712,650 likes - 72 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

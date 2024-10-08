@@ -115,6 +115,24 @@
     },
     {
       "album": {
+        "name": "ADDA",
+        "url": "https://open.spotify.com/album/4XsV2v7tyYqTpxkJsHct9j"
+      },
+      "artists": [
+        {
+          "name": "JAXK",
+          "url": "https://open.spotify.com/artist/534u9oSsp7SDPju0QdH9wq"
+        }
+      ],
+      "date_added": "2024-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "ADDA",
+      "url": "https://open.spotify.com/track/5kErLwph1shmMgGF3ASBRS"
+    },
+    {
+      "album": {
         "name": "Adi Odi (From \"Atti Culture\")",
         "url": "https://open.spotify.com/album/3WYI2KVMESqV8vLrpmVIGc"
       },
@@ -1942,7 +1960,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-07",
+      "date_removed": null,
       "duration_ms": 339692,
       "name": "KGF Monster",
       "url": "https://open.spotify.com/track/0QsxHp0eiG7gtF6FojQkLO"
@@ -2556,7 +2574,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-08",
       "duration_ms": 185500,
       "name": "Naan Yaar",
       "url": "https://open.spotify.com/track/2VHuE9Sz1tnqHcMyRxDB6R"
@@ -2688,7 +2706,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-08",
       "duration_ms": 195687,
       "name": "Nagaram Bcb2 (Remix) [feat. tha Q & Ruff Jana]",
       "url": "https://open.spotify.com/track/2eeQFhb7gRB0lSZJJ4ogWM"

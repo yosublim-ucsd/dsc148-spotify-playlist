@@ -1,6 +1,6 @@
 {
   "description": "No tags, no labels - just free form. Cover: Lex Amor",
-  "num_followers": 177868,
+  "num_followers": 177902,
   "original_name": "Free Form",
   "owner": {
     "name": "Spotify",
@@ -227,6 +227,22 @@
     {
       "added_at": "2024-10-03 23:00:00",
       "album": {
+        "name": "New World Order",
+        "url": "https://open.spotify.com/album/5BfCoFrNlaVgA2X2hzAliD"
+      },
+      "artists": [
+        {
+          "name": "Fimiguerrero",
+          "url": "https://open.spotify.com/artist/4M5b70A8aORXdyJVjRJ8du"
+        }
+      ],
+      "duration_ms": 94809,
+      "name": "Vogue",
+      "url": "https://open.spotify.com/track/2c7HV6DzQwGGWAQYHVOBO3"
+    },
+    {
+      "added_at": "2024-10-03 23:00:00",
+      "album": {
         "name": "The Last One",
         "url": "https://open.spotify.com/album/26PpclJsqvQlP50d5XcLWp"
       },
@@ -251,22 +267,6 @@
       "duration_ms": 177040,
       "name": "Make a W (feat. Skrillex, AJ Tracey & BEAM)",
       "url": "https://open.spotify.com/track/1TvL9bTK09XpG2NtAkD4nq"
-    },
-    {
-      "added_at": "2024-10-03 23:00:00",
-      "album": {
-        "name": "New World Order",
-        "url": "https://open.spotify.com/album/5BfCoFrNlaVgA2X2hzAliD"
-      },
-      "artists": [
-        {
-          "name": "Fimiguerrero",
-          "url": "https://open.spotify.com/artist/4M5b70A8aORXdyJVjRJ8du"
-        }
-      ],
-      "duration_ms": 94809,
-      "name": "Vogue",
-      "url": "https://open.spotify.com/track/2c7HV6DzQwGGWAQYHVOBO3"
     },
     {
       "added_at": "2024-10-03 23:00:00",
@@ -451,22 +451,18 @@
     {
       "added_at": "2024-10-03 23:00:00",
       "album": {
-        "name": "PHANTOM OF THE AFTERS",
-        "url": "https://open.spotify.com/album/5qTMbYlI0vyyAHtOhajcOy"
+        "name": "2BADGYALZ",
+        "url": "https://open.spotify.com/album/5Lx2hE5ENvPQJplNUXYxrC"
       },
       "artists": [
         {
-          "name": "Kojaque",
-          "url": "https://open.spotify.com/artist/3ZHJIsD3uMwwjXlSpDzPtY"
-        },
-        {
-          "name": "Gotts Street Park",
-          "url": "https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y"
+          "name": "Bree Runway",
+          "url": "https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w"
         }
       ],
-      "duration_ms": 188006,
-      "name": "BAMBI",
-      "url": "https://open.spotify.com/track/47CXk0Q9bAMbraj2WZHLQu"
+      "duration_ms": 101500,
+      "name": "2BADGYALZ",
+      "url": "https://open.spotify.com/track/2R5vY0DGyGkoW1Q13SNCzr"
     },
     {
       "added_at": "2024-10-03 23:00:00",
@@ -487,6 +483,26 @@
       "duration_ms": 169835,
       "name": "Everytime",
       "url": "https://open.spotify.com/track/1M90Mf0GQiVlpVL3A9ey2A"
+    },
+    {
+      "added_at": "2024-10-03 23:00:00",
+      "album": {
+        "name": "PHANTOM OF THE AFTERS",
+        "url": "https://open.spotify.com/album/5qTMbYlI0vyyAHtOhajcOy"
+      },
+      "artists": [
+        {
+          "name": "Kojaque",
+          "url": "https://open.spotify.com/artist/3ZHJIsD3uMwwjXlSpDzPtY"
+        },
+        {
+          "name": "Gotts Street Park",
+          "url": "https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y"
+        }
+      ],
+      "duration_ms": 188006,
+      "name": "BAMBI",
+      "url": "https://open.spotify.com/track/47CXk0Q9bAMbraj2WZHLQu"
     },
     {
       "added_at": "2024-10-03 23:00:00",
@@ -527,22 +543,6 @@
     {
       "added_at": "2024-10-03 23:00:00",
       "album": {
-        "name": "2BADGYALZ",
-        "url": "https://open.spotify.com/album/5Lx2hE5ENvPQJplNUXYxrC"
-      },
-      "artists": [
-        {
-          "name": "Bree Runway",
-          "url": "https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w"
-        }
-      ],
-      "duration_ms": 101500,
-      "name": "2BADGYALZ",
-      "url": "https://open.spotify.com/track/2R5vY0DGyGkoW1Q13SNCzr"
-    },
-    {
-      "added_at": "2024-10-03 23:00:00",
-      "album": {
         "name": "outsid4 (feat. ayrtn & with Bawo)",
         "url": "https://open.spotify.com/album/0QSeNY42WTRKILTxNdt7I7"
       },
@@ -567,22 +567,6 @@
     {
       "added_at": "2024-10-03 23:00:00",
       "album": {
-        "name": "Only One",
-        "url": "https://open.spotify.com/album/1flhhR75WdB4QAjkLA7gb8"
-      },
-      "artists": [
-        {
-          "name": "Essosa",
-          "url": "https://open.spotify.com/artist/6fn7JM8daBvCxpTkYyqtGY"
-        }
-      ],
-      "duration_ms": 157624,
-      "name": "Only One",
-      "url": "https://open.spotify.com/track/41Qqx0ZO35t2wRhgbaQ8mn"
-    },
-    {
-      "added_at": "2024-10-03 23:00:00",
-      "album": {
         "name": "MASHUP",
         "url": "https://open.spotify.com/album/4Wv59sKVFaUyJESv5EW9Mj"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 137126,
       "name": "MASHUP",
       "url": "https://open.spotify.com/track/3n1rNdl7nDbZVJ8JkmA2Xo"
+    },
+    {
+      "added_at": "2024-10-03 23:00:00",
+      "album": {
+        "name": "Only One",
+        "url": "https://open.spotify.com/album/1flhhR75WdB4QAjkLA7gb8"
+      },
+      "artists": [
+        {
+          "name": "Essosa",
+          "url": "https://open.spotify.com/artist/6fn7JM8daBvCxpTkYyqtGY"
+        }
+      ],
+      "duration_ms": 157624,
+      "name": "Only One",
+      "url": "https://open.spotify.com/track/41Qqx0ZO35t2wRhgbaQ8mn"
     },
     {
       "added_at": "2024-10-03 23:00:00",
@@ -635,22 +635,6 @@
     {
       "added_at": "2024-10-03 23:00:00",
       "album": {
-        "name": "Back It Up",
-        "url": "https://open.spotify.com/album/1f0P6RYU2zRhB4OLQspm5k"
-      },
-      "artists": [
-        {
-          "name": "BXKS",
-          "url": "https://open.spotify.com/artist/2YEOMpI5fq8pz4BeJjoAsQ"
-        }
-      ],
-      "duration_ms": 119097,
-      "name": "Back It Up",
-      "url": "https://open.spotify.com/track/4zYVvRX0i7fbyu78AsNPNH"
-    },
-    {
-      "added_at": "2024-10-03 23:00:00",
-      "album": {
         "name": "XONGZ \u12a0\u1235\u1240\u12eb\u121a \u1321\u1265",
         "url": "https://open.spotify.com/album/7cl6XSy5M1wlFSFtOqQutC"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 169228,
       "name": "vinland",
       "url": "https://open.spotify.com/track/4rxGfHqxkjke3BbD6a0wkK"
+    },
+    {
+      "added_at": "2024-10-03 23:00:00",
+      "album": {
+        "name": "Back It Up",
+        "url": "https://open.spotify.com/album/1f0P6RYU2zRhB4OLQspm5k"
+      },
+      "artists": [
+        {
+          "name": "BXKS",
+          "url": "https://open.spotify.com/artist/2YEOMpI5fq8pz4BeJjoAsQ"
+        }
+      ],
+      "duration_ms": 119097,
+      "name": "Back It Up",
+      "url": "https://open.spotify.com/track/4zYVvRX0i7fbyu78AsNPNH"
     },
     {
       "added_at": "2024-10-03 23:00:00",
@@ -699,22 +699,6 @@
       "duration_ms": 212685,
       "name": "The Curb",
       "url": "https://open.spotify.com/track/2agGvnAhdnszerZzi9AXbj"
-    },
-    {
-      "added_at": "2024-10-03 23:00:00",
-      "album": {
-        "name": "Tell Nobody",
-        "url": "https://open.spotify.com/album/4ywZzKzeST3zTSCwd3UN7X"
-      },
-      "artists": [
-        {
-          "name": "Essosa",
-          "url": "https://open.spotify.com/artist/6fn7JM8daBvCxpTkYyqtGY"
-        }
-      ],
-      "duration_ms": 169674,
-      "name": "Tell Nobody",
-      "url": "https://open.spotify.com/track/2tVDJV4m7XhHR1JO4DQQKR"
     },
     {
       "added_at": "2024-10-03 23:00:00",
@@ -779,6 +763,22 @@
     {
       "added_at": "2024-10-03 23:00:00",
       "album": {
+        "name": "Tell Nobody",
+        "url": "https://open.spotify.com/album/4ywZzKzeST3zTSCwd3UN7X"
+      },
+      "artists": [
+        {
+          "name": "Essosa",
+          "url": "https://open.spotify.com/artist/6fn7JM8daBvCxpTkYyqtGY"
+        }
+      ],
+      "duration_ms": 169674,
+      "name": "Tell Nobody",
+      "url": "https://open.spotify.com/track/2tVDJV4m7XhHR1JO4DQQKR"
+    },
+    {
+      "added_at": "2024-10-03 23:00:00",
+      "album": {
         "name": "All I Need",
         "url": "https://open.spotify.com/album/04A0QePJ2bXEuRje6wEEwF"
       },
@@ -799,6 +799,22 @@
     {
       "added_at": "2024-10-03 23:00:00",
       "album": {
+        "name": "Marley Flow",
+        "url": "https://open.spotify.com/album/1dMnuVDSbgwh6EHyJsfeqM"
+      },
+      "artists": [
+        {
+          "name": "Jords",
+          "url": "https://open.spotify.com/artist/7lhD6ETR0JNlpJWYycy3jx"
+        }
+      ],
+      "duration_ms": 190434,
+      "name": "Marley Flow",
+      "url": "https://open.spotify.com/track/7KhqcuwBgF2myOiucn5w2R"
+    },
+    {
+      "added_at": "2024-10-03 23:00:00",
+      "album": {
         "name": "WHAT WAS THE QUESTION",
         "url": "https://open.spotify.com/album/2fKkKKLxeXHlKknCUckPJN"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 196603,
       "name": "Landmine!",
       "url": "https://open.spotify.com/track/4YOtWmWn8sKqBNLnWnxquF"
-    },
-    {
-      "added_at": "2024-10-03 23:00:00",
-      "album": {
-        "name": "SUMMER RAIN",
-        "url": "https://open.spotify.com/album/1VDn9H3cF4IANFwWfv38L7"
-      },
-      "artists": [
-        {
-          "name": "Lex Amor",
-          "url": "https://open.spotify.com/artist/0IKVDL3N8vpYgeNOV6np14"
-        }
-      ],
-      "duration_ms": 246940,
-      "name": "SUMMER RAIN",
-      "url": "https://open.spotify.com/track/4LA55DZy7gBLuROnUTTb17"
     },
     {
       "added_at": "2024-10-03 23:00:00",
@@ -847,18 +847,38 @@
     {
       "added_at": "2024-10-03 23:00:00",
       "album": {
-        "name": "Marley Flow",
-        "url": "https://open.spotify.com/album/1dMnuVDSbgwh6EHyJsfeqM"
+        "name": "Mi Amor",
+        "url": "https://open.spotify.com/album/0PJi5AejTSG6WN9JvqeMds"
       },
       "artists": [
         {
-          "name": "Jords",
-          "url": "https://open.spotify.com/artist/7lhD6ETR0JNlpJWYycy3jx"
+          "name": "AYL\u00d8",
+          "url": "https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd"
+        },
+        {
+          "name": "Le Mav",
+          "url": "https://open.spotify.com/artist/59MU62wyOLf8FlV7l8fewL"
         }
       ],
-      "duration_ms": 190434,
-      "name": "Marley Flow",
-      "url": "https://open.spotify.com/track/7KhqcuwBgF2myOiucn5w2R"
+      "duration_ms": 117333,
+      "name": "Mi Amor",
+      "url": "https://open.spotify.com/track/1GBk5m0nHSV2nwWv0fxpzA"
+    },
+    {
+      "added_at": "2024-10-03 23:00:00",
+      "album": {
+        "name": "SUMMER RAIN",
+        "url": "https://open.spotify.com/album/1VDn9H3cF4IANFwWfv38L7"
+      },
+      "artists": [
+        {
+          "name": "Lex Amor",
+          "url": "https://open.spotify.com/artist/0IKVDL3N8vpYgeNOV6np14"
+        }
+      ],
+      "duration_ms": 246940,
+      "name": "SUMMER RAIN",
+      "url": "https://open.spotify.com/track/4LA55DZy7gBLuROnUTTb17"
     },
     {
       "added_at": "2024-10-03 23:00:00",
@@ -899,26 +919,6 @@
     {
       "added_at": "2024-10-03 23:00:00",
       "album": {
-        "name": "Mi Amor",
-        "url": "https://open.spotify.com/album/0PJi5AejTSG6WN9JvqeMds"
-      },
-      "artists": [
-        {
-          "name": "AYL\u00d8",
-          "url": "https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd"
-        },
-        {
-          "name": "Le Mav",
-          "url": "https://open.spotify.com/artist/59MU62wyOLf8FlV7l8fewL"
-        }
-      ],
-      "duration_ms": 117333,
-      "name": "Mi Amor",
-      "url": "https://open.spotify.com/track/1GBk5m0nHSV2nwWv0fxpzA"
-    },
-    {
-      "added_at": "2024-10-03 23:00:00",
-      "album": {
         "name": "ADDICTED",
         "url": "https://open.spotify.com/album/6ban83tBjaNWpG9NnH0d1F"
       },
@@ -951,22 +951,6 @@
     {
       "added_at": "2024-10-03 23:00:00",
       "album": {
-        "name": "Near Life Experience",
-        "url": "https://open.spotify.com/album/3Xeg29uWoIOMemK10WNpN1"
-      },
-      "artists": [
-        {
-          "name": "Ocean Wisdom",
-          "url": "https://open.spotify.com/artist/0D9N9NxMbXKjmoRI1JVdz8"
-        }
-      ],
-      "duration_ms": 222049,
-      "name": "Near Life Experience",
-      "url": "https://open.spotify.com/track/5NvkeXRumat4XN88E1psIX"
-    },
-    {
-      "added_at": "2024-10-03 23:00:00",
-      "album": {
         "name": "Bend",
         "url": "https://open.spotify.com/album/6SDXtm2m1G4Jd47z7sIKa5"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 185807,
       "name": "Bend",
       "url": "https://open.spotify.com/track/2MMglKkdydxQaDp09cCwNU"
+    },
+    {
+      "added_at": "2024-10-03 23:00:00",
+      "album": {
+        "name": "Near Life Experience",
+        "url": "https://open.spotify.com/album/3Xeg29uWoIOMemK10WNpN1"
+      },
+      "artists": [
+        {
+          "name": "Ocean Wisdom",
+          "url": "https://open.spotify.com/artist/0D9N9NxMbXKjmoRI1JVdz8"
+        }
+      ],
+      "duration_ms": 222049,
+      "name": "Near Life Experience",
+      "url": "https://open.spotify.com/track/5NvkeXRumat4XN88E1psIX"
     },
     {
       "added_at": "2024-10-03 23:00:00",
@@ -1071,18 +1071,22 @@
     {
       "added_at": "2024-10-03 23:00:00",
       "album": {
-        "name": "DUALITY",
-        "url": "https://open.spotify.com/album/0q1b78P8H2S1F2RgjUGb4h"
+        "name": "After The Party",
+        "url": "https://open.spotify.com/album/2hIq6zPR6MOLzjZ7GpibhU"
       },
       "artists": [
         {
-          "name": "IZO",
-          "url": "https://open.spotify.com/artist/4Y8qf5THcFh9n8s9aLWQSd"
+          "name": "Jamie Ave",
+          "url": "https://open.spotify.com/artist/7ew9ZidsT1WM5NJy568Ma9"
+        },
+        {
+          "name": "S.A.M",
+          "url": "https://open.spotify.com/artist/5SNAAtfydqmF9v11kOSQxb"
         }
       ],
-      "duration_ms": 223255,
-      "name": "DUALITY",
-      "url": "https://open.spotify.com/track/7rXJDZ3rpUZf61raxSuusc"
+      "duration_ms": 158724,
+      "name": "After The Party",
+      "url": "https://open.spotify.com/track/03H3PDFWVZYDWNzzOVYLp6"
     }
   ],
   "unique_name": "Free Form",

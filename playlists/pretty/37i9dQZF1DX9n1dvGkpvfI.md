@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9n1dvGkpvfI.md) - [plain]
 
 > Challenging norms, breaking boundaries with <a href="spotify:artist:4FZ3j1oH43e7cukCALsCwf">Jack White</a> and the songs that shape his alternative spirit\. This is <a href=spotify:genre:0JQ5IMCbQBLnnDn497UHrz>COUNTER//CULTURE</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,747 likes - 30 songs - 2 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,982 likes - 30 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9n1dvGkpvfI.md) - [plain]
 | 17 | [19\-2000](https://open.spotify.com/track/1kSWrMDt439cT64WpjJigW) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [Gorillaz](https://open.spotify.com/album/0YvYmLBFFwYxgI4U9KKgUm) | 3:30 |
 | 18 | [11:59](https://open.spotify.com/track/0yAi8iKRgy90VuNNZd3zhz) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Parallel Lines](https://open.spotify.com/album/4M6s2jbhKWEcOdXZ8WiHts) | 3:20 |
 | 19 | [777\-9311](https://open.spotify.com/track/1Uj2yJKcIdNHcQu4DMr6cX) | [The Time](https://open.spotify.com/artist/1EgGVV9cmmlLEsFlunjmvv) | [What Time Is It?](https://open.spotify.com/album/57YH772Zn30jNACjrTpbFK) | 8:05 |
-| 20 | [1999 \- 2019 Remaster](https://open.spotify.com/track/2QSUyofqpGDCo026OPiTBQ) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [1999](https://open.spotify.com/album/34MHuXONazzgSxI0cThpAg) | 6:13 |
+| 20 | [103](https://open.spotify.com/track/3d1MzZCtQuFmnwjgdW7ZkT) | [The Kills](https://open.spotify.com/artist/5BYuBzqmTXwUDw2rYkwExr) | [God Games](https://open.spotify.com/album/5foItJB5J4HL2Iim9BHpfk) | 4:05 |
 | 21 | [7](https://open.spotify.com/track/1ESmMKaASDxFICpa5eyqzo) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j), [The New Power Generation](https://open.spotify.com/artist/1xtGjxE9c1YmEmFPCH6Izp) | [\[Love Symbol\]](https://open.spotify.com/album/5q8jywtY8AvpUVgzDJXyRp) | 5:10 |
 | 22 | [505](https://open.spotify.com/track/58ge6dfP91o9oXMzq3XkIS) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Favourite Worst Nightmare \(Standard Version\)](https://open.spotify.com/album/6rsQnwaoJHxXJRCDBPkBRw) | 4:13 |
 | 23 | [37](https://open.spotify.com/track/68KpOFb4amIng3awuMZJ4s) | [DEVO](https://open.spotify.com/artist/0UKfenbZb15sqhfPC6zbt3) | [Hardcore Devo, Vol\. 2 \(Vol\. 2 1974\-1977\)](https://open.spotify.com/album/79oqsxGXXy1EfWB70mjAwN) | 3:00 |
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9n1dvGkpvfI.md) - [plain]
 | 29 | [000.000](https://open.spotify.com/track/2FnU6AXnhNmaCZz4YanhsS) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Odelay \(Deluxe Edition\)](https://open.spotify.com/album/64vPyY759lLETSt8rvc7Sf) | 5:24 |
 | 30 | [4'33''](https://open.spotify.com/track/2bNCdW4rLnCTzgqUXTTDO1) | [John Cage](https://open.spotify.com/artist/1Z3fF5lZdCM0ZHugkGoH8s) | [4'33''](https://open.spotify.com/album/6UCnARt06DDqBASaO8sBaz) | 4:33 |
 
-Snapshot ID: `ZwBwRQAAAAA5NZuIS/rpCrd+L+wtBItr`
+Snapshot ID: `ZwPxkQAAAAAZFrwbdcjcynDIQaSMdSxp`

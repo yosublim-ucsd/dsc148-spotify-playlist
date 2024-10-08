@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 
 > Experience the lastest and the greatest Worship music right here, right now\. Cover:  <a href="spotify:artist:48AVv3cw03WdSB5b4qmNCr">Red Rocks Worship</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 991,411 likes - 100 songs - 9 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 991,503 likes - 100 songs - 9 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

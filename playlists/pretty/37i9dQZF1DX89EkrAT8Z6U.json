@@ -1,6 +1,6 @@
 {
   "description": "The perfect mixtape for an anime fight scene. Also, check out <a href='spotify:playlist:37i9dQZF1EId8uVIwoG4N5'>Anime Rap Mix</a>.",
-  "num_followers": 1170164,
+  "num_followers": 1170506,
   "original_name": "sh\u014dnen",
   "owner": {
     "name": "Spotify",
@@ -703,18 +703,22 @@
     {
       "added_at": "2024-09-18 21:12:46",
       "album": {
-        "name": "sunset dreams",
-        "url": "https://open.spotify.com/album/49zxPpemrGsPpWnVpQcLNh"
+        "name": "die",
+        "url": "https://open.spotify.com/album/2Gnp1bVMf1pZqI1crlEPfY"
       },
       "artists": [
         {
           "name": "lucidbeatz",
           "url": "https://open.spotify.com/artist/4jEwTCIHu0hdDbamxScpou"
+        },
+        {
+          "name": "Key Kelly",
+          "url": "https://open.spotify.com/artist/7tlCdVZ037kAOuupObsQss"
         }
       ],
-      "duration_ms": 110773,
-      "name": "sunset dreams",
-      "url": "https://open.spotify.com/track/6zg431pIV64icWpxl46rzk"
+      "duration_ms": 99560,
+      "name": "die",
+      "url": "https://open.spotify.com/track/4ZIam3omF73NPEKufXiTvi"
     },
     {
       "added_at": "2024-09-18 21:12:46",
@@ -875,22 +879,18 @@
     {
       "added_at": "2024-09-18 21:12:46",
       "album": {
-        "name": "die",
-        "url": "https://open.spotify.com/album/2Gnp1bVMf1pZqI1crlEPfY"
+        "name": "sunset dreams",
+        "url": "https://open.spotify.com/album/49zxPpemrGsPpWnVpQcLNh"
       },
       "artists": [
         {
           "name": "lucidbeatz",
           "url": "https://open.spotify.com/artist/4jEwTCIHu0hdDbamxScpou"
-        },
-        {
-          "name": "Key Kelly",
-          "url": "https://open.spotify.com/artist/7tlCdVZ037kAOuupObsQss"
         }
       ],
-      "duration_ms": 99560,
-      "name": "die",
-      "url": "https://open.spotify.com/track/4ZIam3omF73NPEKufXiTvi"
+      "duration_ms": 110773,
+      "name": "sunset dreams",
+      "url": "https://open.spotify.com/track/6zg431pIV64icWpxl46rzk"
     },
     {
       "added_at": "2024-09-18 21:12:46",
@@ -1111,22 +1111,18 @@
     {
       "added_at": "2024-09-18 21:12:46",
       "album": {
-        "name": ">one - greater than one",
-        "url": "https://open.spotify.com/album/6GLcfMMmFXrfk9ydAjeLop"
+        "name": "Break Shit",
+        "url": "https://open.spotify.com/album/589UEOGJTF0Jk8sXA4GLKA"
       },
       "artists": [
         {
-          "name": "VALORANT",
-          "url": "https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t"
-        },
-        {
-          "name": "ericdoa",
-          "url": "https://open.spotify.com/artist/6tdnMySxH5l3J7QfqGWZ7G"
+          "name": "Jasiah",
+          "url": "https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0"
         }
       ],
-      "duration_ms": 130666,
-      "name": ">one - greater than one",
-      "url": "https://open.spotify.com/track/3zIcvn5r3QGea6a4M36MQr"
+      "duration_ms": 95483,
+      "name": "Break Shit",
+      "url": "https://open.spotify.com/track/0Sd0kdgU6HrIclxYjuV99j"
     },
     {
       "added_at": "2024-09-18 21:12:46",
@@ -1147,22 +1143,6 @@
     {
       "added_at": "2024-09-18 21:12:46",
       "album": {
-        "name": "Break Shit",
-        "url": "https://open.spotify.com/album/589UEOGJTF0Jk8sXA4GLKA"
-      },
-      "artists": [
-        {
-          "name": "Jasiah",
-          "url": "https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0"
-        }
-      ],
-      "duration_ms": 95483,
-      "name": "Break Shit",
-      "url": "https://open.spotify.com/track/0Sd0kdgU6HrIclxYjuV99j"
-    },
-    {
-      "added_at": "2024-09-18 21:12:46",
-      "album": {
         "name": "RUN UP!",
         "url": "https://open.spotify.com/album/6MoWt5Hvt4tdkrer9dppB5"
       },
@@ -1179,6 +1159,26 @@
       "duration_ms": 139005,
       "name": "RUN UP!",
       "url": "https://open.spotify.com/track/7oDUCu36rMex65tc03C8er"
+    },
+    {
+      "added_at": "2024-09-18 21:12:46",
+      "album": {
+        "name": ">one - greater than one",
+        "url": "https://open.spotify.com/album/6GLcfMMmFXrfk9ydAjeLop"
+      },
+      "artists": [
+        {
+          "name": "VALORANT",
+          "url": "https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t"
+        },
+        {
+          "name": "ericdoa",
+          "url": "https://open.spotify.com/artist/6tdnMySxH5l3J7QfqGWZ7G"
+        }
+      ],
+      "duration_ms": 130666,
+      "name": ">one - greater than one",
+      "url": "https://open.spotify.com/track/3zIcvn5r3QGea6a4M36MQr"
     },
     {
       "added_at": "2024-09-18 21:12:46",

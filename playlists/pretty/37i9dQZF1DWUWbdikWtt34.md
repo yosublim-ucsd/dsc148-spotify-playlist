@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUWbdikWtt34.md) - [plain]
 
 > Dendang Dangdut teratas\. Cover: King Nassar
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,131 likes - 88 songs - 7 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,132 likes - 88 songs - 7 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

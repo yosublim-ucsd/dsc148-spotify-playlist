@@ -1,12 +1,12 @@
 {
   "description": "Essential new pop tracks. Cover: JoJo",
-  "num_followers": 87535,
+  "num_followers": 87580,
   "original_name": "New Pop Picks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zv9oQAAAAACHAlSvrEPKLKn8qfWIBdTG",
+  "snapshot_id": "ZwPY1QAAAAAn9iMXxWgNieKdvOcoNs1G",
   "tracks": [
     {
       "added_at": "2024-10-04 04:00:00",
@@ -143,6 +143,22 @@
       "duration_ms": 231506,
       "name": "Lotus Eater",
       "url": "https://open.spotify.com/track/3Y6yJhnGJdNTQwgIyKMLE8"
+    },
+    {
+      "added_at": "2024-10-07 12:49:25",
+      "album": {
+        "name": "JAGUAR II : Deluxe",
+        "url": "https://open.spotify.com/album/7mHd5i7hgpHiMM3BFyfRdn"
+      },
+      "artists": [
+        {
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+        }
+      ],
+      "duration_ms": 149195,
+      "name": "1900's",
+      "url": "https://open.spotify.com/track/79XRUITVajhW5Snn7WF3YQ"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -1487,22 +1503,6 @@
       "duration_ms": 250272,
       "name": "Parachute",
       "url": "https://open.spotify.com/track/0f5Zp30ih99H6eEBoKiul8"
-    },
-    {
-      "added_at": "2024-09-27 04:00:00",
-      "album": {
-        "name": "Girlie Pop: Encore",
-        "url": "https://open.spotify.com/album/1Zf8vlF2PYYCuxXhmfNSUN"
-      },
-      "artists": [
-        {
-          "name": "Chrissy Chlapecka",
-          "url": "https://open.spotify.com/artist/7L5no8Dp7Y2Gk0L1JIWj9S"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "My Only Dream Is To Be Loved",
-      "url": "https://open.spotify.com/track/6z1dZbCFtcpEfxv8lQ0FW8"
     },
     {
       "added_at": "2024-09-27 04:00:00",

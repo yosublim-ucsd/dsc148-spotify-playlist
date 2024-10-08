@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO19MmWO.md) - [plain]
 
 ### [This Is Little Walter](https://open.spotify.com/playlist/37i9dQZF1DZ06evO19MmWO)
 
-> This is Little Walter\. The essential tracks, all in one playlist.
+> This is Little Walter\. أغانٍ رائعة في قائمة أغانٍ واحدة.
 
 [Spotify](https://open.spotify.com/user/spotify) - 6,494 likes - 40 songs - 2 hr 2 min
 
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO19MmWO.md) - [plain]
 | 39 | [Last Boogie](https://open.spotify.com/track/3MkzZ99BQH5a7HwzbsgBpP) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [The Complete Chess Masters \(1950 \- 1967\)](https://open.spotify.com/album/3xRh7E2R2WdxFYeQFakVbr) | 2:30 |
 | 40 | [Make It Alright](https://open.spotify.com/track/1nnMGDzwGPIGMGZ3xWo9w2) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [The Complete Chess Masters \(1950 \- 1967\)](https://open.spotify.com/album/3xRh7E2R2WdxFYeQFakVbr) | 3:21 |
 
-Snapshot ID: `ZwCBgAAAAABdT9zYF3OduvRLDqrFaQIN`
+Snapshot ID: `ZwHTAAAAAAAdtWsjZnATmudoA4rvYXWJ`

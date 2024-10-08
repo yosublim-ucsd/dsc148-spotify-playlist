@@ -2,13 +2,13 @@
 
 ### [.ORG](https://open.spotify.com/playlist/37i9dQZF1DWXQXM7agvwjO)
 
-> Hottest indie sound from Asia\. Cover: Dinosaur’s Skin \(Taiwan\)
+> Hottest indie sound from Asia\. Cover: The Dinosaur’s Skin \(Taiwan\)
 
-1,557 songs - 3 day 22 hr 1 min
+1,559 songs - 3 day 22 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| ["L"](https://open.spotify.com/track/6bnM3mthxSY6fWrk15msxM) | [The Volunteers](https://open.spotify.com/artist/2jLHrOkh1M5rLJgnrgfQf1) | ["L"](https://open.spotify.com/album/3GU6dBAcgSyLa5gSpVpTrx) | 4:20 | 2024-07-02 |  |
+| ["L"](https://open.spotify.com/track/6bnM3mthxSY6fWrk15msxM) | [The Volunteers](https://open.spotify.com/artist/2jLHrOkh1M5rLJgnrgfQf1) | ["L"](https://open.spotify.com/album/3GU6dBAcgSyLa5gSpVpTrx) | 4:20 | 2024-07-02 | 2024-10-08 |
 | [\(stay here\) for a while](https://open.spotify.com/track/7ITUmCohDlD7B1aNnQUuc5) | [eleventwelfth](https://open.spotify.com/artist/2obLLc4blv37GYbFwqyE3t) | [\(stay here\) for a while](https://open.spotify.com/album/2lagvaT1M17CnirnR8OAjS) | 3:40 | 2022-12-15 | 2023-02-17 |
 | [\(The Cherry Trees\)](https://open.spotify.com/track/2e5HDpsJrpt0GwWME1tR9p) | [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V) | [\(1\)](https://open.spotify.com/album/2cg7v6OUCXU4gkOt1b4rKI) | 2:49 | 2023-07-14 | 2023-07-28 |
 | [01 Chuyện Dở Dang](https://open.spotify.com/track/3vWCRttEOSRmXZs8jfAPSX) | [Ngọt](https://open.spotify.com/artist/0V2DfUrZvBuUReS1LFo5ZI) | [Suýt 1](https://open.spotify.com/album/5ER34Rd6OkCwXBD7SOMB97) | 3:31 | 2024-02-23 | 2024-08-02 |
@@ -130,6 +130,7 @@
 | [Bawat Piyesa \(Secret Verse Ver.\)](https://open.spotify.com/track/68qOMum0kIvub5W3yQsTPo) | [TONEEJAY](https://open.spotify.com/artist/2KdFoq4IBXMzfia4ZCLDIs), [syd hartha](https://open.spotify.com/artist/3BQ7MYNeB0wMPtHYPWvu1C) | [Kasama Kita](https://open.spotify.com/album/5taKMMxKn6OKw7iy4pQ4ru) | 6:50 | 2023-04-20 | 2023-11-24 |
 | [Bayang\-Bayang](https://open.spotify.com/track/2TLAWyJ6LLoNUOMKfQsP4u) | [Putra Timur](https://open.spotify.com/artist/1sqVvE1GPRtHy8LGhQh4Hu) | [Bayang\-Bayang](https://open.spotify.com/album/3dtw0tzcdEntohwfNgXf90) | 4:25 | 2023-02-09 | 2023-04-01 |
 | [be around me](https://open.spotify.com/track/5Ev5Zaw67LgY4ul2jCsYRt) | [PARKJIWOO](https://open.spotify.com/artist/0NuBvSQbbZW2NL9cwbnpER) | [be around me](https://open.spotify.com/album/2vXDK0SH1vh2ejt3BZaavG) | 2:56 | 2022-12-08 | 2022-12-24 |
+| [Be Someone](https://open.spotify.com/track/0IxSrOKtHS5O561qA7JJaV) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Be Someone](https://open.spotify.com/album/4lqmF9FjM1SXTkSAGNt1LW) | 3:45 | 2024-10-07 |  |
 | [Be Sweet \- Korean Version](https://open.spotify.com/track/5smkxS3MeevRwRt86AADR9) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw), [So!YoON!](https://open.spotify.com/artist/7H5EC2qaylGun66YeRrVHg) | [Be Sweet \(Korean Version\)](https://open.spotify.com/album/5WfeCVyCMFpTkkYkcVHT1x) | 3:15 | 2022-07-21 | 2022-09-02 |
 | [Be There](https://open.spotify.com/track/1f15d63XOFV97kLcPJsW5P) | [daynim](https://open.spotify.com/artist/5TJfVhMs1wOBcLLl56fiu6) | [final\_sketch\_001.mp3](https://open.spotify.com/album/171MAtr60Xtt68ye9LyzAD) | 4:30 | 2022-03-31 | 2022-04-22 |
 | [be your friend](https://open.spotify.com/track/3d1xl4RJDob9zcJAi9yUE2) | [Hicci](https://open.spotify.com/artist/3nEqPCHcNEUY3XeLQo7YuS) | [be your friend](https://open.spotify.com/album/45Z88hAqV1tSRCBqyjqHf1) | 4:29 | 2024-04-18 | 2024-05-17 |
@@ -218,7 +219,7 @@
 | [Candy](https://open.spotify.com/track/1ITGuB4Tgap1WaDcbamsRI) | [Arches](https://open.spotify.com/artist/5ngnmnu2W3UT2C1SEMkIqR) | [Candy](https://open.spotify.com/album/4ca6ff4Fm8ooLvsWr3lbbd) | 2:22 | 2022-06-30 | 2022-07-22 |
 | [Capa City](https://open.spotify.com/track/1m6UACcZCrIDd8LCoRpN8r) | [Bedchamber](https://open.spotify.com/artist/2cWNrggFURoSaRS97IobZ0) | [Capa City](https://open.spotify.com/album/44F56fsc1H14KG1CvRM4N3) | 3:54 | 2023-06-22 | 2023-06-30 |
 | [Carta de Obon](https://open.spotify.com/track/5p4BNZpmZ8ZLGN64zJgLwA) | [角銅真実](https://open.spotify.com/artist/6JsSDr5joM2nS6qE7OSPzQ) | [Contact](https://open.spotify.com/album/3mVkAa9KXbNmpuofycXBBf) | 4:31 | 2024-01-25 | 2024-02-09 |
-| [Cast a Spell](https://open.spotify.com/track/6yzbKS2v7yhcOxYToR79QN) | [Fi\-Né 粉內](https://open.spotify.com/artist/6WcKBIz81gaWyTuoGtnTlQ), [CHANKA](https://open.spotify.com/artist/4utRb36IMsCRI6nycGb4JR) | [Cast a Spell](https://open.spotify.com/album/0jMlL4rQInNkEL7lw5HeTs) | 3:36 | 2024-09-06 |  |
+| [Cast a Spell](https://open.spotify.com/track/6yzbKS2v7yhcOxYToR79QN) | [Fi\-Né 粉內](https://open.spotify.com/artist/6WcKBIz81gaWyTuoGtnTlQ), [CHANKA](https://open.spotify.com/artist/4utRb36IMsCRI6nycGb4JR) | [Cast a Spell](https://open.spotify.com/album/0jMlL4rQInNkEL7lw5HeTs) | 3:36 | 2024-09-06 | 2024-10-08 |
 | [Catch The Love](https://open.spotify.com/track/44ZyBSW5vgy83SN7BGBPIn) | [ikkubaru](https://open.spotify.com/artist/3jOVGGa69UVA6d1InnQabx) | [Decade](https://open.spotify.com/album/5TZ6xnIlYgusgGbPwFhRQX) | 3:49 | 2024-08-16 | 2024-08-30 |
 | [Catwalk](https://open.spotify.com/track/3HFCBkfwYzetDGXVpwJFry) | [H 3 F](https://open.spotify.com/artist/6jIK3obS1fJqb3Vu74AYX3), [Phum Viphurit](https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6) | [Chalawan Sound](https://open.spotify.com/album/2QYQLTBtEJ6IPW3xVnW0Go) | 4:11 | 2023-08-24 | 2024-06-01 |
 | [Cause U](https://open.spotify.com/track/1CQjCixIGB3y8NwV4f8Zsq) | [宋柏緯](https://open.spotify.com/artist/1LWJ9mrDCPd3HB2Kp1RDXK) | [Posture and Attitude](https://open.spotify.com/album/6RLEGJSkCl5o1KVQvckHRe) | 3:24 | 2022-08-04 | 2022-09-16 |
@@ -998,6 +999,7 @@
 | [REGRETS](https://open.spotify.com/track/3oLGjRA6SFnQcajSwTanSs) | [LAYYI](https://open.spotify.com/artist/76ZCgPpNcZEokvxJRFfSgr) | [REGRETS](https://open.spotify.com/album/3tEGJIfvTdBI3VkherQsCm) | 2:56 | 2024-09-19 |  |
 | [restless](https://open.spotify.com/track/6s8hshYGPCWAGfLWD6SL1L) | [mididuck](https://open.spotify.com/artist/6mpI54w7dPsRHzMAvXPe5W) | [restless](https://open.spotify.com/album/7aXNuM3gfUpjbh6H9dpJeY) | 3:40 | 2024-07-25 | 2024-08-02 |
 | [Retro Petrol](https://open.spotify.com/track/59oQuPQ71B9TcwbO6kJOUv) | [恐龍的皮](https://open.spotify.com/artist/6zp0iXMIvLZ7oVeTk0Nt0J) | [Retro Petrol](https://open.spotify.com/album/55xrlm8rZBYBJ3KoSYOCzT) | 3:20 | 2024-10-03 |  |
+| [Retro\-39](https://open.spotify.com/track/0dlObt3L90XxFk93xFFAEZ) | [Tilly Birds](https://open.spotify.com/artist/4esoPgrgPKbWa6gwU8EGmH) | [Retro\-39 \- Single](https://open.spotify.com/album/7z3hLL1p2l0XyzjKWK7cKB) | 3:29 | 2024-10-07 |  |
 | [Ride](https://open.spotify.com/track/7fyVBKYJYMP42nNr9RFTAT) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Ride](https://open.spotify.com/album/4w4qRzvzlZZE2QgMOm5ifs) | 3:01 | 2022-05-11 | 2022-07-29 |
 | [right where you left me](https://open.spotify.com/track/1GnSbke3Wja3XHvt1kDCSP) | [eaJ](https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN), [Hindia](https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12) | [right where you left me](https://open.spotify.com/album/0a28dOkcC53FjmLwNpVEOm) | 2:53 | 2024-07-04 |  |
 | [ringringring](https://open.spotify.com/track/18jycfEb8t7gDaELRiVNac) | [SURL](https://open.spotify.com/artist/7owveHzN1hmQuw6Ojg4sI3) | [ringringring](https://open.spotify.com/album/2gw8fYdm5Sxc1NCntLC7EH) | 3:47 | 2024-05-23 | 2024-06-01 |

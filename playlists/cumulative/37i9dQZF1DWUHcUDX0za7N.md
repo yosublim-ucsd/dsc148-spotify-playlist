@@ -4,7 +4,7 @@
 
 > Hip hop and rap music from Nigeria\. Cover: Phyno
 
-482 songs - 22 hr 59 min
+483 songs - 23 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,7 @@
 | [Call Me](https://open.spotify.com/track/4lZyW9fqQxD6K2FC3XcD6t) | [Thekiddnk](https://open.spotify.com/artist/1rVu32t9I4VAf5CvShNpDy) | [Call Me](https://open.spotify.com/album/1ultX70qZ116mlkFOCIsgM) | 1:40 | 2023-02-03 | 2023-02-17 |
 | [Can You Hear Me? \(feat\. Daiela\)](https://open.spotify.com/track/0DdevPBh3T5igMwgsq9Hm4) | [DAP The Contract](https://open.spotify.com/artist/12OwAxjoznv1QOdIGR9R73), [Daiela](https://open.spotify.com/artist/44whqkFHSInFDnpZ4xsTG6) | [Can You Hear Me? \(feat\. Daiela\)](https://open.spotify.com/album/0WJboNwlFuIjKbyk3ylw1o) | 3:14 | 2024-07-19 | 2024-08-10 |
 | [CAN’T EXPLAIN](https://open.spotify.com/track/53fPdKhyo7IVl0jKBTyqfb) | [Peddygree](https://open.spotify.com/artist/3vqsgMy4R82tEYVwUQN1Zg), [Festizie](https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu) | [Can’t Explain](https://open.spotify.com/album/5hnys7CwXZ2uTLp0x3nfkC) | 2:50 | 2023-03-25 | 2023-03-31 |
-| [Casa](https://open.spotify.com/track/3SW8UsHMfohqWOo2PGb9SM) | [Kashcoming](https://open.spotify.com/artist/5yJLqKU6LRfzliSQIVnJMI), [Zerrydl](https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd) | [More Kashcoming](https://open.spotify.com/album/0d07XqLINJkvd4By1htNPd) | 2:34 | 2024-06-14 |  |
+| [Casa](https://open.spotify.com/track/3SW8UsHMfohqWOo2PGb9SM) | [Kashcoming](https://open.spotify.com/artist/5yJLqKU6LRfzliSQIVnJMI), [Zerrydl](https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd) | [More Kashcoming](https://open.spotify.com/album/0d07XqLINJkvd4By1htNPd) | 2:34 | 2024-06-14 | 2024-10-08 |
 | [Cast](https://open.spotify.com/track/2egqPiWDKdLO34x2Csa3iU) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Cast](https://open.spotify.com/album/18dCvrjuLcD3EvW1ovyifu) | 2:09 | 2023-11-10 | 2024-07-19 |
 | [CHANEL](https://open.spotify.com/track/6BYjJobgPPKpO61Ry4HyQp) | [Leather Park](https://open.spotify.com/artist/7zwAV8QMBcclMJbWf7DmQ1), [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW), [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih) | [LEATHER PARK \(VOL\. 1\)](https://open.spotify.com/album/714sz0U1nuTsGFbQiyMFfN) | 1:48 | 2024-06-21 | 2024-09-19 |
 | [CHANGE AM](https://open.spotify.com/track/6sDacNyxcOBkYQ5URsVd24) | [Jake Doe](https://open.spotify.com/artist/6ya83yRCbdYDSSMHWp8wWU) | [Yours Unfaithfully](https://open.spotify.com/album/4xvlrR1wtd9unOqq1xMkEN) | 2:31 | 2023-03-25 | 2023-03-31 |
@@ -178,6 +178,7 @@
 | [Go German](https://open.spotify.com/track/1YpGByjEamqwgni31e3Ylu) | [King Perryy](https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [BackRoad Gee](https://open.spotify.com/artist/51op6E2hjkeutwFhgw32mL) | [Go German](https://open.spotify.com/album/566SSg2JNZLMGCVu8euxNN) | 2:58 | 2022-06-09 | 2024-01-12 |
 | [Go Home](https://open.spotify.com/track/0WREazGSegTBW0deOqpOTV) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Go Home](https://open.spotify.com/album/0nCaveQokllncgYPf3K9Qm) | 2:18 | 2022-06-09 | 2023-07-01 |
 | [Gold.](https://open.spotify.com/track/7yz59RbKk5saaTU57do462) | [Shalom Dubas](https://open.spotify.com/artist/2ys4tbtUpMQd5eujuaRXSj) | [Gold.](https://open.spotify.com/album/7kAQ6F2mGxn8w5QIMb4cOH) | 3:08 | 2022-11-15 | 2022-11-30 |
+| [Grateful](https://open.spotify.com/track/10tuqT05957Cs0VIS2GGaZ) | [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl) | [Full Time Job](https://open.spotify.com/album/0VtcGxV1o8WCUz7YBX3EtX) | 2:49 | 2024-10-07 |  |
 | [Guns&Roses \(QuestionYaHeart\)](https://open.spotify.com/track/0dbUId7P0gcHUvgroQm6Qj) | [Ayüü](https://open.spotify.com/artist/3FsvslOG6CKAJF9TZ5N9f7) | [Guns&Roses \(QuestionYaHeart\)](https://open.spotify.com/album/1Peac33r475KxGeggGxKvP) | 2:30 | 2022-08-25 | 2022-10-14 |
 | [Guy Man](https://open.spotify.com/track/6eE4ecWXq8Ijh8DYyJQ57s) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Guy Man](https://open.spotify.com/album/7Ef71u8NNLYzlRhKC6PwuD) | 2:46 | 2023-06-16 | 2024-05-24 |
 | [Haba](https://open.spotify.com/track/7qmM8PM4DrrOGyhYlBBngW) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Haba](https://open.spotify.com/album/7j7HN6piTLvxdIPcDeZMBx) | 3:18 | 2022-06-09 | 2022-10-07 |

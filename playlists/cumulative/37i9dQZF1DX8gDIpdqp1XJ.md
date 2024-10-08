@@ -4,7 +4,7 @@
 
 > The best of modern psychedelic rock, neo\-psychedelic, and psychedelic indie.
 
-978 songs - 2 day 15 hr 44 min
+981 songs - 2 day 15 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -413,6 +413,7 @@
 | [Iggy](https://open.spotify.com/track/2HKILv0izIotCwJeBsnmpP) | [Chelsea Days](https://open.spotify.com/artist/0Ix2QkyM31FfPRCQjnkttP) | [sincerely,](https://open.spotify.com/album/5p24JDgC6pO7shv1OmX2dO) | 2:53 | 2023-06-23 | 2023-10-11 |
 | [Ill Times](https://open.spotify.com/track/05OFzOtX3tiGxBN3aHFxYR) | [GUM](https://open.spotify.com/artist/4Oov8BULUOBiX6UVpP04JW), [Ambrose Kenny\-Smith](https://open.spotify.com/artist/0NLFuTzlY3oCTiJGBzpu97) | [Ill Times](https://open.spotify.com/album/4ooQidkyIsGzKmBZEv9f8W) | 3:34 | 2024-05-10 |  |
 | [ILLUSIONS](https://open.spotify.com/track/5brlbAE683E1wEzKDNT3B8) | [Gavin Turek](https://open.spotify.com/artist/17czHqI0Lwj2V3htvm8afG) | [ILLUSIONS](https://open.spotify.com/album/4hBStZD5wKMAlhylLMACpT) | 3:58 | 2021-06-25 | 2022-04-21 |
+| [Image](https://open.spotify.com/track/5LIUI808j8M8bXQd0kRxnp) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Image](https://open.spotify.com/album/7JnlRfxpLRDdeYOPuNcklD) | 3:32 | 2024-10-07 |  |
 | [Imaginary Girl](https://open.spotify.com/track/0dXdVTTo1hVSWvqEJQ04Gy) | [The Lazy Eyes](https://open.spotify.com/artist/5ZCOgPpZNvlJEBnUZnDqW8) | [SongBook](https://open.spotify.com/album/1w73ipVNe04ERHc8bwEQG0) | 4:21 | 2022-04-22 | 2022-07-30 |
 | [In Between](https://open.spotify.com/track/4rQlCooK88oFN819QAduCw) | [River Tiber](https://open.spotify.com/artist/1FHDMgGdmIP4IsoFkAwbS0) | [Dreaming Eyes](https://open.spotify.com/album/3P1A2rJ6ZP2zeroDBb0kOV) | 4:16 | 2022-12-16 | 2023-02-23 |
 | [In Her Arms](https://open.spotify.com/track/5ZbBxrl5NBzZWtFkPNtNBt) | [Hayien](https://open.spotify.com/artist/757lp5rkqNBZKPLeQ5NugB) | [In Her Arms](https://open.spotify.com/album/4RER31DgHSnRZa1yenNonQ) | 2:54 | 2023-02-22 | 2023-03-25 |
@@ -422,6 +423,7 @@
 | [Inigo](https://open.spotify.com/track/120oPV0jNIWalyFlMknzY6) | [Night Tapes](https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU) | [Inigo](https://open.spotify.com/album/3DhznXynw9F1GuNYBs8z9P) | 4:16 | 2023-06-23 | 2024-05-18 |
 | [Inner Meet Me](https://open.spotify.com/track/13peHGuZastwBnvw1fVfff) | [The Beta Band](https://open.spotify.com/artist/2LMR8u7DOMF0FBseDpTsRa) | [The Three EP's](https://open.spotify.com/album/387kRGMURjq8rAquMi3LLN) | 6:20 | 2021-04-02 | 2022-04-05 |
 | [Insomnia](https://open.spotify.com/track/7mk6mEioOkqfoCC8xUw720) | [KALI](https://open.spotify.com/artist/3BO07jDo7Qs7qNLdwRoISM) | [Insomnia](https://open.spotify.com/album/61OCdmC6ntHNsoSckGbAkF) | 4:52 | 2022-05-20 | 2023-02-27 |
+| [INSTANT DEATH](https://open.spotify.com/track/4CabzuTCgzHt57Fc6HqqPy) | [evilgiane](https://open.spotify.com/artist/4bbAeMRdMbfCLVSlpryAVV), [Nourished by Time](https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g), [Goner](https://open.spotify.com/artist/7dNAnTCNymUovGgVoNhX3c) | [INSTANT DEATH](https://open.spotify.com/album/2RC4sBo7R0awCOBYT3aP6u) | 2:35 | 2024-10-07 |  |
 | [Interface](https://open.spotify.com/track/6jneoPK80OLlFMDZ47fGPY) | [Absolutely Free](https://open.spotify.com/artist/5DD56TbdQI5Xe9c8YSiTj5) | [Interface](https://open.spotify.com/album/4RtydL39WN7V55HaGO8iy5) | 3:18 | 2021-08-20 | 2022-04-20 |
 | [Interior People](https://open.spotify.com/track/3tj1cKu9SOnchX6twBKn30) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Butterfly 3000](https://open.spotify.com/album/2I0LPpmyvAwnXvCuBf3Pcy) | 5:15 | 2021-06-11 | 2022-07-06 |
 | [Intrasport](https://open.spotify.com/track/28c8ZDVltaCcs4OfIAuI8Z) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [K.G.](https://open.spotify.com/album/6uuQKwM3fRETiscHqlnxuo) | 4:12 | 2021-04-02 | 2022-07-06 |
@@ -939,6 +941,7 @@
 | [We Love A Different Way](https://open.spotify.com/track/7I51uTccNk0JfcuhRxQ53T) | [Gabriel Sayer](https://open.spotify.com/artist/1YvGXgPvmPL6Iq3FiTkr5b) | [We Love A Different Way](https://open.spotify.com/album/5rdj9BDeR5c3DkygOQ6Gt8) | 3:23 | 2021-04-02 | 2022-07-11 |
 | [We're Not In Orbit Yet…](https://open.spotify.com/track/15byzavN7tdiwSTjirvyfh) | [Broken Bells](https://open.spotify.com/artist/6dgwEwnK0YtDfS9XhRwBTG) | [INTO THE BLUE](https://open.spotify.com/album/6DVw4rwufrFe0aItLxjNi0) | 5:10 | 2022-09-02 | 2023-11-18 |
 | [We're Not In Orbit Yet…](https://open.spotify.com/track/45iaKryj5SvdzinlHHrDlL) | [Broken Bells](https://open.spotify.com/artist/6dgwEwnK0YtDfS9XhRwBTG) | [We're Not In Orbit Yet…](https://open.spotify.com/album/1BvFdIWtys20Hm0sFVeqeT) | 5:10 | 2022-07-01 | 2022-10-13 |
+| [Weeping Song](https://open.spotify.com/track/7gg9gOpgVW1rxXrvpzqcUh) | [Nell Smith](https://open.spotify.com/artist/5mBQSEWN9Dl17Ts8d9FnLP), [The Flaming Lips](https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB) | [Where The Viaduct Looms](https://open.spotify.com/album/2EG2v4spiRrWdRhbWVfgGi) | 4:27 | 2024-10-07 |  |
 | [Wet Cement](https://open.spotify.com/track/5RQcH5zJ6moLeBX3ZA2A0W) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Wet Cement](https://open.spotify.com/album/09nVh8buc4n4lewLvRpSQG) | 4:33 | 2023-03-06 | 2023-07-14 |
 | [What a Waste of an Echo / The Three Magnets \(Maston Remix\)](https://open.spotify.com/track/22PRe1L1AzhxVcjj4aIEIH) | [Spencer Cullum](https://open.spotify.com/artist/1u2RgFiCSd9phVG5OB51jr), [Maston](https://open.spotify.com/artist/7aE9KUqEEWrasYryOkJG7O) | [What a Waste of an Echo / The Three Magnets \(Maston Remix\)](https://open.spotify.com/album/336PGhq3wH2OQKbYpMUUoY) | 3:55 | 2023-06-23 | 2024-01-03 |
 | [What Do I Do Now?](https://open.spotify.com/track/2FkyHT0VGDOFkTsLUDM8RV) | [Healing Potpourri](https://open.spotify.com/artist/7DORj3eYMlPwqbRZ4StSmQ) | [What Do I Do Now?](https://open.spotify.com/album/3xVJN4u7IgtMAD1ZlFfzTC) | 2:38 | 2022-07-11 | 2022-07-20 |

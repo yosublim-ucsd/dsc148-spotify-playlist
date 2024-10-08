@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1E4Aop0u3mbfpJ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1E4Aop0u3mbfpJ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1E4Aop0u3mbfpJ)
 
-### [Lady Gaga Radio](https://open.spotify.com/playlist/37i9dQZF1E4Aop0u3mbfpJ)
+### [Radio Lady Gaga](https://open.spotify.com/playlist/37i9dQZF1E4Aop0u3mbfpJ)
 
-> With Katy Perry, Britney Spears, Rihanna and more
+> Avec Katy Perry, Britney Spears, Rihanna et bien d'autres artistes
 
 1,906 songs - 4 day 18 hr 23 min
 
@@ -434,7 +434,7 @@
 | [Dingaling](https://open.spotify.com/track/771FqDuDKkMjJKgPkaVIBh) | [callmespice](https://open.spotify.com/artist/3QxggyZ1H2384PZ6uJFXc0) | [Dingaling](https://open.spotify.com/album/0rEXRed2JpdUu1Ea5IEVmA) | 1:17 | 2023-06-09 | 2023-06-10 |
 | [Disco Heaven](https://open.spotify.com/track/20rDqWMo6aYgeTXsX8l2rn) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [The Fame](https://open.spotify.com/album/1jpUMnKpRlng1OJN7LJauV) | 3:41 | 2023-04-30 | 2023-05-01 |
 | [Disco Love \- Wideboys Radio Edit](https://open.spotify.com/track/5SC0RGV158d5HDP1kVSH3r) | [The Saturdays](https://open.spotify.com/artist/15qI5w4XJFLRMwOp2VrlD5), [Wideboys](https://open.spotify.com/artist/2fLCjXwadBsnYmn05uxFpi) | [Living For The Weekend \(Deluxe Edition\)](https://open.spotify.com/album/57QWA73jnfLo1YHwnDZpoZ) | 3:21 | 2022-03-09 | 2022-05-14 |
-| [Disturbia](https://open.spotify.com/track/30VrBsh1STRBoIrhQOAwzK) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Good Girl Gone Bad: Reloaded](https://open.spotify.com/album/1YhbfKnjrFgnYyWz6cn9mN) | 3:58 | 2024-04-19 |  |
+| [Disturbia](https://open.spotify.com/track/30VrBsh1STRBoIrhQOAwzK) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Good Girl Gone Bad: Reloaded](https://open.spotify.com/album/1YhbfKnjrFgnYyWz6cn9mN) | 3:58 | 2024-04-19 | 2024-10-08 |
 | [Disturbia](https://open.spotify.com/track/2VOomzT6VavJOGBeySqaMc) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Good Girl Gone Bad: Reloaded](https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7) | 3:58 | 2020-11-08 | 2024-03-31 |
 | [Diva to Diva](https://open.spotify.com/track/3DQ1yVIhdJiiVCT0zzaWRA) | [Charlotte Perrelli](https://open.spotify.com/artist/39Waq6UmqYCBEuyv8M8kjl), [Dana International](https://open.spotify.com/artist/03IVYRlAC972SOHPb86Usr) | [Diva to Diva](https://open.spotify.com/album/2CFjWLAqEoBoMRPIJj6iiC) | 2:58 | 2022-07-19 | 2022-08-17 |
 | [DJ Got Us Fallin' In Love \(feat\. Pitbull\)](https://open.spotify.com/track/4356Typ82hUiFAynbLYbPn) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [Raymond v Raymond \(Expanded Edition\)](https://open.spotify.com/album/6A1F3Fkq5dYeYYNkXflcTX) | 3:40 | 2024-06-01 | 2024-08-20 |
@@ -997,7 +997,7 @@
 | [Lobby](https://open.spotify.com/track/17UMDTqVeX3SqvgKr8kSmF) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Versions of Me \(Deluxe\)](https://open.spotify.com/album/7mJHNN7NNnPBofreezMbef) | 2:37 | 2022-10-09 | 2023-01-02 |
 | [Loca \(feat\. Dizzee Rascal\)](https://open.spotify.com/track/6YMPu36VGIknb8Ey1ohW3j) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Dizzee Rascal](https://open.spotify.com/artist/0gusqTJKxtU1UTmNRMHZcv) | [Sale el Sol](https://open.spotify.com/album/3gR578qnw47M30LVBTjrlW) | 3:13 | 2023-06-03 | 2023-06-04 |
 | [Locked out of Heaven](https://open.spotify.com/track/3w3y8KPTfNeOKPiqUTakBh) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Unorthodox Jukebox](https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI) | 3:53 | 2023-03-20 | 2024-04-01 |
-| [Locked out of Heaven](https://open.spotify.com/track/5g7sDjBhZ4I3gcFIpkrLuI) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Unorthodox Jukebox](https://open.spotify.com/album/4xWulj18AGahlyuZPulaGe) | 3:53 | 2024-09-04 | 2024-10-04 |
+| [Locked out of Heaven](https://open.spotify.com/track/5g7sDjBhZ4I3gcFIpkrLuI) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Unorthodox Jukebox](https://open.spotify.com/album/4xWulj18AGahlyuZPulaGe) | 3:53 | 2024-09-04 |  |
 | [LOL](https://open.spotify.com/track/4qsrQnTtzIdmTOXFobkkE9) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [About Last Night...](https://open.spotify.com/album/2DX0Tyq5e8CtsoncXWEWPm) | 3:32 | 2022-08-10 | 2022-10-17 |
 | [London Bridge](https://open.spotify.com/track/1GH5tpvz5g1ZGKNBPBWkTm) | [Fergie](https://open.spotify.com/artist/3r17AfJCCUqC9Lf0OAc73G) | [London Bridge](https://open.spotify.com/album/5AEwzn7BjWpm420KJUO6sV) | 3:28 | 2023-04-16 | 2023-05-04 |
 | [London Bridge](https://open.spotify.com/track/7jRoWfRlLnGYEIEn4t4kbq) | [Fergie](https://open.spotify.com/artist/3r17AfJCCUqC9Lf0OAc73G) | [The Dutchess](https://open.spotify.com/album/3t8HFQNlwLBW7htwLvFfzA) | 4:01 | 2023-04-25 | 2023-04-26 |
@@ -1264,7 +1264,7 @@
 | [Play With You](https://open.spotify.com/track/1vBKCJk1exf5bDRwpehvvR) | [Robert Eibach](https://open.spotify.com/artist/5s01qcqBgPdFcWyzRZ0Ey0), [Elle Dubleu](https://open.spotify.com/artist/0Eu1F6FsIfLMzYWxYIMgJF) | [Play With You](https://open.spotify.com/album/0Kz3bTMkyTERxuoTTrrVYw) | 3:25 | 2022-05-28 | 2022-05-30 |
 | [Please Don't Leave Me \- Digital Dog Club Mix](https://open.spotify.com/track/0kVzjg5PN3VVBPLMbylJEA) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Please Don't Leave Me](https://open.spotify.com/album/1vQB2T0dz4dmFHGdFo7tNs) | 6:33 | 2023-04-13 | 2023-04-18 |
 | [Please Don't Leave Me \- Digital Dog Radio Edit](https://open.spotify.com/track/6lvg1G1r5nyooClAP0cep6) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Bad Influence](https://open.spotify.com/album/4XNXSSo6ode89YJ2EdCABo) | 3:44 | 2023-04-12 | 2023-05-03 |
-| [Please Please Please](https://open.spotify.com/track/2tHwzyyOLoWSFqYNjeVMzj) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 3:06 | 2024-10-07 |  |
+| [Please Please Please](https://open.spotify.com/track/2tHwzyyOLoWSFqYNjeVMzj) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 3:06 | 2024-10-07 | 2024-10-08 |
 | [Poison](https://open.spotify.com/track/73ucpKq91TuejrLHgzDNHK) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Poison](https://open.spotify.com/album/6hKHpD9mnIjiJWmAunnQT8) | 3:22 | 2021-11-04 | 2022-03-08 |
 | [Poison](https://open.spotify.com/track/5guwpkhQxfe25YB9ErXqGY) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Nymph](https://open.spotify.com/album/3i4ZYO2l14kCTRzw90JmZ4) | 2:48 | 2022-12-01 | 2023-02-14 |
 | [Poison \- New Main Version](https://open.spotify.com/track/0Tyv7iJOV8JD35Vf9lXK54) | [Nicole Scherzinger](https://open.spotify.com/artist/40xbWSB4JPdOkRyuTDy1oP) | [Killer Love](https://open.spotify.com/album/3Y72frMeiDNZlsIorQBES8) | 3:47 | 2022-03-09 | 2022-10-05 |
@@ -1424,7 +1424,7 @@
 | [Send My Love To John](https://open.spotify.com/track/4ObFrK0MLVZyYaFHOyPbVa) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Hold The Girl](https://open.spotify.com/album/0JO5WJ19NtFRtVYOnw24xS) | 3:25 | 2022-10-15 | 2022-10-16 |
 | [Set Fire to the Rain](https://open.spotify.com/track/3CKCZ9pfwAfoMZlMncA1Nc) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [21](https://open.spotify.com/album/1azUkThwd2HfUDdeNeT147) | 4:01 | 2020-10-16\* | 2020-12-13 |
 | [Set Fire to the Rain](https://open.spotify.com/track/73CMRj62VK8nUS4ezD2wvi) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [21](https://open.spotify.com/album/0Lg1uZvI312TPqxNWShFXL) | 4:02 | 2020-12-23 | 2024-02-15 |
-| [Set Fire to the Rain](https://open.spotify.com/track/7j4OmvkjRz0PrjFADlHfQx) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [21](https://open.spotify.com/album/4HYlttFwVHZaz7gguxaN9H) | 4:02 | 2024-06-21 | 2024-10-07 |
+| [Set Fire to the Rain](https://open.spotify.com/track/7j4OmvkjRz0PrjFADlHfQx) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [21](https://open.spotify.com/album/4HYlttFwVHZaz7gguxaN9H) | 4:02 | 2024-06-21 |  |
 | [Sex Drive](https://open.spotify.com/track/7tPHALjq82YXyLFyrIK7lp) | [Ayesha Erotica](https://open.spotify.com/artist/6TMGw1UYn6DFEtn2f9mv8J) | [CUMSHOT](https://open.spotify.com/album/6Z5KvGLBgRs06aC6oKamHV) | 3:30 | 2022-06-06 | 2022-06-07 |
 | [Sex With Me](https://open.spotify.com/track/7BiELrM90hRxpozaIXbsLw) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [ANTI \(Deluxe\)](https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u) | 3:26 | 2021-06-08 | 2022-02-27 |
 | [Sexxx Dreams](https://open.spotify.com/track/0kS6GezxkbM5YXffQFnID6) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [ARTPOP](https://open.spotify.com/album/2eRJUtI7nXrQ5uYQ7tzTo9) | 3:34 | 2021-04-30 | 2023-05-03 |

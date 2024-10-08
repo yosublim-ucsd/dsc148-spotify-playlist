@@ -1,12 +1,12 @@
 {
   "description": "Featuring up-and-coming Tamil artists from the Indie scene\nCover : Marshall",
-  "num_followers": 13111,
+  "num_followers": 13123,
   "original_name": "RADAR Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zv95OwAAAAB5TWBY8QlVWlSv6qxPUdq7",
+  "snapshot_id": "ZwPnyAAAAADcWzyRuolceNMpOZmXSsaH",
   "tracks": [
     {
       "added_at": "2024-08-23 05:09:28",
@@ -315,6 +315,22 @@
       "duration_ms": 175000,
       "name": "We Are the Change (Tamil)",
       "url": "https://open.spotify.com/track/5UrdQQgVCKo2lyWjSDGsDB"
+    },
+    {
+      "added_at": "2024-10-07 13:53:12",
+      "album": {
+        "name": "Edho Seidhaai",
+        "url": "https://open.spotify.com/album/2acW27bN9BkxoS0fsMRR77"
+      },
+      "artists": [
+        {
+          "name": "Prezanthi Shanmugavel",
+          "url": "https://open.spotify.com/artist/3g7Jy7DBhczGb5HF5M8PKY"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "Edho Seidhaai",
+      "url": "https://open.spotify.com/track/3QT8Y48V2UfNenGW43sfRV"
     },
     {
       "added_at": "2024-09-16 12:16:54",

@@ -1,6 +1,6 @@
 {
   "description": "s\u00e5 l\u00e6nge jeg er sexy \ud83e\udde1",
-  "num_followers": 215108,
+  "num_followers": 215102,
   "original_name": "ung, dum & lovende",
   "owner": {
     "name": "Spotify",
@@ -627,6 +627,30 @@
     {
       "added_at": "2024-10-03 22:00:00",
       "album": {
+        "name": "Sees Igjen",
+        "url": "https://open.spotify.com/album/2ZbDIWIGCKtpK26NRTUw6s"
+      },
+      "artists": [
+        {
+          "name": "Golfklubb",
+          "url": "https://open.spotify.com/artist/1Kj6Km5IuLGKt2cxuhSgLm"
+        },
+        {
+          "name": "Dizzy",
+          "url": "https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy"
+        },
+        {
+          "name": "Philippe",
+          "url": "https://open.spotify.com/artist/23yPgzwt35lJyA3f8ayMfW"
+        }
+      ],
+      "duration_ms": 163142,
+      "name": "Sees Igjen",
+      "url": "https://open.spotify.com/track/2QyL2WhZmOfpVSxy2BaI8U"
+    },
+    {
+      "added_at": "2024-10-03 22:00:00",
+      "album": {
         "name": "Volare",
         "url": "https://open.spotify.com/album/0pjIyeItcmwcyGjyYElzEg"
       },
@@ -747,30 +771,6 @@
     {
       "added_at": "2024-10-03 22:00:00",
       "album": {
-        "name": "Sees Igjen",
-        "url": "https://open.spotify.com/album/2ZbDIWIGCKtpK26NRTUw6s"
-      },
-      "artists": [
-        {
-          "name": "Golfklubb",
-          "url": "https://open.spotify.com/artist/1Kj6Km5IuLGKt2cxuhSgLm"
-        },
-        {
-          "name": "Dizzy",
-          "url": "https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy"
-        },
-        {
-          "name": "Philippe",
-          "url": "https://open.spotify.com/artist/23yPgzwt35lJyA3f8ayMfW"
-        }
-      ],
-      "duration_ms": 163142,
-      "name": "Sees Igjen",
-      "url": "https://open.spotify.com/track/2QyL2WhZmOfpVSxy2BaI8U"
-    },
-    {
-      "added_at": "2024-10-03 22:00:00",
-      "album": {
         "name": "Kun i kveld",
         "url": "https://open.spotify.com/album/4jhm1B2vDAGkhlnVJWoZ3S"
       },
@@ -859,22 +859,18 @@
     {
       "added_at": "2024-10-03 22:00:00",
       "album": {
-        "name": "Feel This Way",
-        "url": "https://open.spotify.com/album/1krHx6VqHRNlHXI1ShycIU"
+        "name": "Lever Livet",
+        "url": "https://open.spotify.com/album/753mxKgIv1sOihb9r6R7Zl"
       },
       "artists": [
         {
-          "name": "Victoria Nadine",
-          "url": "https://open.spotify.com/artist/59ha4Qt5jtbrFQljKZrx8K"
-        },
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+          "name": "Kamelen",
+          "url": "https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61"
         }
       ],
-      "duration_ms": 147619,
-      "name": "Feel This Way",
-      "url": "https://open.spotify.com/track/1uAqpDfjT4ODipqrMTBWgN"
+      "duration_ms": 173307,
+      "name": "Lever Livet",
+      "url": "https://open.spotify.com/track/03EVFwVKaimcw3ZNkoU6x7"
     }
   ],
   "unique_name": "ung, dum & lovende",

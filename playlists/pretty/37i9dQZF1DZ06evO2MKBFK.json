@@ -1,12 +1,12 @@
 {
-  "description": "This is BIGBANG. The essential tracks, all in one playlist.",
-  "num_followers": 613521,
+  "description": "This Is BIGBANG. Los temas esenciales, todos en una lista.",
+  "num_followers": 613520,
   "original_name": "This Is BIGBANG",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwCBgAAAAADYB19i19p/+OwUdP2LZIsi",
+  "snapshot_id": "ZwHTAAAAAAALV8DMTgWqYYOpLNK+QLV2",
   "tracks": [
     {
       "added_at": null,
@@ -267,18 +267,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u30ac\u30e9\u30ac\u30e9 GO\uff01\uff01",
-        "url": "https://open.spotify.com/album/17XvKgRVajvlWWcf455jAh"
+        "name": "2NE1 1st Mini Album",
+        "url": "https://open.spotify.com/album/5WyEkWi7ZPMrVSbU1Cabba"
       },
       "artists": [
+        {
+          "name": "2NE1",
+          "url": "https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp"
+        },
         {
           "name": "BIGBANG",
           "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
         }
       ],
-      "duration_ms": 198760,
-      "name": "\u30ac\u30e9\u30ac\u30e9 GO\uff01\uff01",
-      "url": "https://open.spotify.com/track/5brqQm02a7xLvdStXioywi"
+      "duration_ms": 188000,
+      "name": "Lollipop",
+      "url": "https://open.spotify.com/track/2eDGx6nbrznlTmf6YMjrRi"
     },
     {
       "added_at": null,
@@ -315,6 +319,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "\u30ac\u30e9\u30ac\u30e9 GO\uff01\uff01",
+        "url": "https://open.spotify.com/album/17XvKgRVajvlWWcf455jAh"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "duration_ms": 198760,
+      "name": "\u30ac\u30e9\u30ac\u30e9 GO\uff01\uff01",
+      "url": "https://open.spotify.com/track/5brqQm02a7xLvdStXioywi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hot Issue",
         "url": "https://open.spotify.com/album/4qpzzLtl5ksEnhryRUrNQC"
       },
@@ -327,26 +347,6 @@
       "duration_ms": 231800,
       "name": "Last Farewell",
       "url": "https://open.spotify.com/track/7KDHGgYt5fF2Lh9FxMbVML"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "2NE1 1st Mini Album",
-        "url": "https://open.spotify.com/album/5WyEkWi7ZPMrVSbU1Cabba"
-      },
-      "artists": [
-        {
-          "name": "2NE1",
-          "url": "https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp"
-        },
-        {
-          "name": "BIGBANG",
-          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "Lollipop",
-      "url": "https://open.spotify.com/track/2eDGx6nbrznlTmf6YMjrRi"
     },
     {
       "added_at": null,
@@ -447,22 +447,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "ALIVE",
-        "url": "https://open.spotify.com/album/5rI92smOlSS5d1Hq05BY7M"
-      },
-      "artists": [
-        {
-          "name": "BIGBANG",
-          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
-        }
-      ],
-      "duration_ms": 231816,
-      "name": "Love Dust (\uc0ac\ub791 \uba3c\uc9c0)",
-      "url": "https://open.spotify.com/track/6mTFH5acKqe2fpxuFmiDjr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "THE BEST OF BIGBANG 2006-2014",
         "url": "https://open.spotify.com/album/1JwbdXLKJVffgSW95WcTUp"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 233400,
       "name": "Baby Baby - Japanese Version",
       "url": "https://open.spotify.com/track/0DQ8eRAcGG1iUIdqk6RFhq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ALIVE",
+        "url": "https://open.spotify.com/album/5rI92smOlSS5d1Hq05BY7M"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "duration_ms": 231816,
+      "name": "Love Dust (\uc0ac\ub791 \uba3c\uc9c0)",
+      "url": "https://open.spotify.com/track/6mTFH5acKqe2fpxuFmiDjr"
     },
     {
       "added_at": null,

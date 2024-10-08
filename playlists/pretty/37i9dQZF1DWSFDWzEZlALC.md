@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: Kasi, antonius
 
-[Spotify](https://open.spotify.com/user/spotify) - 437,950 likes - 80 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 438,127 likes - 80 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [leicht beschwipst\_demo2](https://open.spotify.com/track/5PEGV3HAYmM6Irk9Vnx32M) | [Kasi](https://open.spotify.com/artist/49jnuRVkvqT093caXQnJBw), [antonius](https://open.spotify.com/artist/5w3u2cHM1H7URZVsLiCxqi) | [leicht beschwipst\_demo2](https://open.spotify.com/album/0txKSl2BX7Rfnzlo8cKAqi) | 1:49 |
-| 2 | [Fühlst du gar nichts? \(feat\. Nina Chuba\)](https://open.spotify.com/track/4WvqHkM4217e14FE9InM59) | [ENNIO](https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt), [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5) | [Schlaraffenland](https://open.spotify.com/album/5dWNFjaGlmjRBmlfsP6nHD) | 3:20 |
-| 3 | [nachts wach](https://open.spotify.com/track/642xaZzR3qtJZiN0jQfhm4) | [OSWALD](https://open.spotify.com/artist/6TQp2ybCgxZHOFZuqbLqzB) | [nachts wach](https://open.spotify.com/album/1btad5Vd6vMvoFHQT6IbfH) | 2:42 |
-| 4 | [Pazifik](https://open.spotify.com/track/2qTdn4tIHLIDpIPTs04anW) | [Provinz](https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx) | [Pazifik](https://open.spotify.com/album/4ClLMXLQ8xuiAviOLSfHHu) | 3:01 |
+| 2 | [nachts wach](https://open.spotify.com/track/642xaZzR3qtJZiN0jQfhm4) | [OSWALD](https://open.spotify.com/artist/6TQp2ybCgxZHOFZuqbLqzB) | [nachts wach](https://open.spotify.com/album/1btad5Vd6vMvoFHQT6IbfH) | 2:42 |
+| 3 | [Fühlst du gar nichts? \(feat\. Nina Chuba\)](https://open.spotify.com/track/4WvqHkM4217e14FE9InM59) | [ENNIO](https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt), [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5) | [Schlaraffenland](https://open.spotify.com/album/5dWNFjaGlmjRBmlfsP6nHD) | 3:20 |
+| 4 | [Oktober](https://open.spotify.com/track/0yGqdN7pzKF7kjH3mIkGKi) | [skuth](https://open.spotify.com/artist/4vdOkcx43Ugl9key4kRFDw) | [Vielleicht EP](https://open.spotify.com/album/4i3a981CPMyD27vOXLbmoB) | 2:27 |
 | 5 | [Augen in der Nacht](https://open.spotify.com/track/3BwaaH4h6ZNbqiZXfuLdGf) | [Apsilon](https://open.spotify.com/artist/6JqtADDgBVPjLBRFwqjuFm), [Blumengarten](https://open.spotify.com/artist/5j3YjOV8eusoDutC6yPjhS) | [Haut wie Pelz](https://open.spotify.com/album/4T2qkNdnj5uhGhE73vTL4p) | 3:02 |
-| 6 | [Oktober](https://open.spotify.com/track/0yGqdN7pzKF7kjH3mIkGKi) | [skuth](https://open.spotify.com/artist/4vdOkcx43Ugl9key4kRFDw) | [Vielleicht EP](https://open.spotify.com/album/4i3a981CPMyD27vOXLbmoB) | 2:27 |
-| 7 | [Sterne](https://open.spotify.com/track/1kWQuTOWK2Sii2SuGaHCPS) | [ottomatisch](https://open.spotify.com/artist/1y8g1oiY6pspWscjrZsSjH) | [Sterne](https://open.spotify.com/album/1zBezRSzJd3ksq1sw5OcQf) | 2:17 |
-| 8 | [Blaue Schilder](https://open.spotify.com/track/19CoaxctorzsIV6YuP3Vf0) | [Marlo Grosshardt](https://open.spotify.com/artist/0oUy6JfoeDteAPMDi1lNJo) | [Blaue Schilder](https://open.spotify.com/album/354ra1V864BaudsQ0xMmG0) | 3:03 |
-| 9 | [Mein Hass tritt dir die Haustür ein](https://open.spotify.com/track/7lQdJEWeNuZO8mlUUCfPMj) | [Berq](https://open.spotify.com/artist/0eVixEZVW2PB1UogwTWXc1) | [Mein Hass tritt dir die Haustür ein](https://open.spotify.com/album/07k1Sn3IKG5YSVtEaWnJgp) | 3:12 |
-| 10 | [Meer](https://open.spotify.com/track/1CfXReZpkv5l10m1Zc1mGn) | [JEREMIAS](https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF) | [Meer](https://open.spotify.com/album/1FJOvb5Be9ntGSps0DeNBs) | 3:46 |
+| 6 | [Pazifik](https://open.spotify.com/track/2qTdn4tIHLIDpIPTs04anW) | [Provinz](https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx) | [Pazifik](https://open.spotify.com/album/4ClLMXLQ8xuiAviOLSfHHu) | 3:01 |
+| 7 | [Mein Hass tritt dir die Haustür ein](https://open.spotify.com/track/7lQdJEWeNuZO8mlUUCfPMj) | [Berq](https://open.spotify.com/artist/0eVixEZVW2PB1UogwTWXc1) | [Mein Hass tritt dir die Haustür ein](https://open.spotify.com/album/07k1Sn3IKG5YSVtEaWnJgp) | 3:12 |
+| 8 | [Sterne](https://open.spotify.com/track/1kWQuTOWK2Sii2SuGaHCPS) | [ottomatisch](https://open.spotify.com/artist/1y8g1oiY6pspWscjrZsSjH) | [Sterne](https://open.spotify.com/album/1zBezRSzJd3ksq1sw5OcQf) | 2:17 |
+| 9 | [Meer](https://open.spotify.com/track/1CfXReZpkv5l10m1Zc1mGn) | [JEREMIAS](https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF) | [Meer](https://open.spotify.com/album/1FJOvb5Be9ntGSps0DeNBs) | 3:46 |
+| 10 | [Blaue Schilder](https://open.spotify.com/track/19CoaxctorzsIV6YuP3Vf0) | [Marlo Grosshardt](https://open.spotify.com/artist/0oUy6JfoeDteAPMDi1lNJo) | [Blaue Schilder](https://open.spotify.com/album/354ra1V864BaudsQ0xMmG0) | 3:03 |
 | 11 | [Regensommerwinterwald](https://open.spotify.com/track/2iq96OV4gLo5FkNpv2irJV) | [RAR](https://open.spotify.com/artist/0ms1soCPtzKiqFMK198lya) | [Regensommerwinterwald](https://open.spotify.com/album/01xigBopL1SsmuKPZWJ4ej) | 2:41 |
 | 12 | [aufwachen](https://open.spotify.com/track/5Fyot7NVMcBOEi5vrd3BTp) | [Levin Liam](https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q), [reezy](https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q) | [gesicht verlieren](https://open.spotify.com/album/7gfgvrICiDex3PlrGGIYYv) | 3:01 |
 | 13 | [Ich fühl alles](https://open.spotify.com/track/5XE72unEySdfH6DYPu3qOE) | [Paula Engels](https://open.spotify.com/artist/1tO0z6nFsDt5mHYNrSPC0b) | [Ich fühl alles](https://open.spotify.com/album/0UVl5ZvXuisLNeyMKj2IwA) | 2:37 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 79 | [MASCHINEN](https://open.spotify.com/track/6vFoROVLo7CzKd5snb62hz) | [JPD](https://open.spotify.com/artist/6GINGsiSYu415FMWN9xbBN), [YRRRE](https://open.spotify.com/artist/1wwT1eZWyAjVXbb1qpzEVC) | [MASCHINEN](https://open.spotify.com/album/6ayhrCp47VQ1bcrnPXj7S7) | 2:20 |
 | 80 | [Schlaflied \(feat\. MELLER\)](https://open.spotify.com/track/1gKwm6VnYXf12VFx4fRGhO) | [Katzi](https://open.spotify.com/artist/7wELxFDgA5UWcQ4LXFq99m), [MELLER](https://open.spotify.com/artist/01bwyExSOpCwS4qqAtglB9) | [Schlaflied \(feat\. MELLER\)](https://open.spotify.com/album/4RzJ7FaPYVCrAUwuj6mqQU) | 2:48 |
 
-Snapshot ID: `Zv8T4AAAAAAjyir2pJF1kUpSrme5FD+P`
+Snapshot ID: `ZwPUnwAAAADy38C5PFLOuvqMxv/H/a5I`

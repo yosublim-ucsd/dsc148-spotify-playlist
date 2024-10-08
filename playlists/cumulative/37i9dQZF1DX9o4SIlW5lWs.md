@@ -4,7 +4,7 @@
 
 > Al corazón! Foto: The La Planta, Emanero & Abel Pintos.
 
-472 songs - 1 day 3 hr 1 min
+473 songs - 1 day 3 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -293,7 +293,7 @@
 | [No Se Va \- En Vivo](https://open.spotify.com/track/6lhvGguSRyMwK4DAZmGyAj) | [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC) | [No Se Va \(En Vivo\)](https://open.spotify.com/album/7wSlC7xpd3WboQgYQtC55G) | 2:52 | 2022-10-28 | 2022-11-19 |
 | [No Te Olvidare](https://open.spotify.com/track/446WLzUW7xxRSeRuWYAudn) | [Siete Lunas](https://open.spotify.com/artist/3OrjkcpKAlJClVOopBZicQ) | [No Te Olvidare](https://open.spotify.com/album/0KJYWPNO23a2BuBUR9lOD9) | 3:01 | 2022-03-11 | 2022-06-07 |
 | [No Te Voy a Perdonar](https://open.spotify.com/track/0QyGJpwW61fesHxFFv2zBr) | [La Combo Tortuga](https://open.spotify.com/artist/1wyjMJTy6WbOvYBSDL9fMR) | [No Te Voy a Perdonar](https://open.spotify.com/album/4Qnm2AoEO534SATuTqElux) | 2:46 | 2023-06-30 | 2024-05-03 |
-| [Noche de Estrellas](https://open.spotify.com/track/4lPWL2JWTz4aKVwAG2C8jT) | [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS), [j mena](https://open.spotify.com/artist/6iYRN5eaz8LSxvwkhmwkRj) | [Noche de Estrellas](https://open.spotify.com/album/2sX6XP7Vsbn9vzuyoI1G6r) | 3:08 | 2024-05-03 |  |
+| [Noche de Estrellas](https://open.spotify.com/track/4lPWL2JWTz4aKVwAG2C8jT) | [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS), [j mena](https://open.spotify.com/artist/6iYRN5eaz8LSxvwkhmwkRj) | [Noche de Estrellas](https://open.spotify.com/album/2sX6XP7Vsbn9vzuyoI1G6r) | 3:08 | 2024-05-03 | 2024-10-08 |
 | [Nunca me Faltes](https://open.spotify.com/track/3YCcsuRdJArE4rsAG5V3sW) | [Antonio Rios](https://open.spotify.com/artist/7s652lD4v77szrPEfgMTBi) | [El Maestro](https://open.spotify.com/album/4gSWFSdQ5JnM0PCBlNvNiI) | 4:10 | 2022-01-14 | 2023-03-12 |
 | [Nunca me faltes](https://open.spotify.com/track/5XzVdBQbbexpDXQbwzxADj) | [Antonio Rios](https://open.spotify.com/artist/7s652lD4v77szrPEfgMTBi) | [El Maestro](https://open.spotify.com/album/4YZVnqO9i0znF8nk7DI8zK) | 4:13 | 2023-03-10 | 2024-04-19 |
 | [Nunca volveras](https://open.spotify.com/track/1OIWkgEPj4QiZykulYMSYD) | [La Nueva Luna](https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX) | [20 años de cumbia \- Los mejores exitos de 1990 \- 2010](https://open.spotify.com/album/6x0GbSgMkwKW1rP4x5YWbU) | 3:50 | 2022-02-04 | 2022-07-22 |
@@ -423,6 +423,7 @@
 | [Tu Me Obligaste](https://open.spotify.com/track/1gSwrI4t1a9gxSZNK6yvOY) | [Natalia Corbalán](https://open.spotify.com/artist/1WI154Z6NR5a5g8FTNtd4q) | [Enamorada y Loca](https://open.spotify.com/album/07UKRZ4qhxWZlichi47U2R) | 3:19 | 2022-01-21 | 2022-07-28 |
 | [Tu Poeta](https://open.spotify.com/track/60t05P6me4qnDI0kiwM8Bc) | [La Base](https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0) | [Tu Poeta](https://open.spotify.com/album/1oUixzP0TwaYjsSBAZN9Sm) | 2:44 | 2024-06-07 | 2024-06-15 |
 | [Tuyo Siempre](https://open.spotify.com/track/1FQjnCLBH6QF0FBmLIlr8m) | [La T y La M](https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B) | [Tuyo Siempre](https://open.spotify.com/album/5iWCGpIviT851tliidHWm7) | 2:53 | 2024-04-05 | 2024-08-18 |
+| [Tú Me Vas a Echar de Menos](https://open.spotify.com/track/6jiS1kqPccU61Fu7oWLIu7) | [La Combo Tortuga](https://open.spotify.com/artist/1wyjMJTy6WbOvYBSDL9fMR), [La Kuppe](https://open.spotify.com/artist/7krUxybhp1bUwFBxpOtmZb) | [Tú Me Vas a Echar de Menos](https://open.spotify.com/album/1VzIhQunhg24cGndrK9yZS) | 3:04 | 2024-10-04 |  |
 | [Un Besito Más](https://open.spotify.com/track/5rQSQlZXXjMcevPGoAfE1z) | [Salastkbron](https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r), [Diel Paris](https://open.spotify.com/artist/2sp0CxickfFJun08JtXgiA) | [Un Besito Más](https://open.spotify.com/album/6lrNHcXSOvN82VYYtL9wCs) | 2:40 | 2024-03-15 |  |
 | [Un Soñador Eterno](https://open.spotify.com/track/50pB6rEpZ1aDV2clo97wvf) | [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC) | [Un Soñador Eterno](https://open.spotify.com/album/0gDwcXu8hITigvMrZci4wo) | 3:25 | 2022-01-14 | 2022-07-28 |
 | [Un Velero Llamado Libertad](https://open.spotify.com/track/6KHBf0ZrN0y5T6mlxuTbRW) | [Los Leales](https://open.spotify.com/artist/4MZwXbwveoO6NyBAZPbYZv) | [Exitos de oro](https://open.spotify.com/album/4SY5abPA0owDzgSlhDxCkf) | 2:56 | 2022-01-14 | 2023-04-22 |

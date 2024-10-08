@@ -1,6 +1,6 @@
 {
   "description": "Strut to electronic tracks that grace runways in Paris, New York City and Milan.",
-  "num_followers": 79946,
+  "num_followers": 79967,
   "original_name": "Runway",
   "owner": {
     "name": "Spotify",
@@ -783,6 +783,22 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
+        "name": "Pick Up (Even Shorter Version)",
+        "url": "https://open.spotify.com/album/0LQLGYPbXQzihonqLEN6XO"
+      },
+      "artists": [
+        {
+          "name": "DJ Koze",
+          "url": "https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg"
+        }
+      ],
+      "duration_ms": 228480,
+      "name": "Pick Up - Even Shorter Version",
+      "url": "https://open.spotify.com/track/7H9sqtNVPp6eoxnJRMUmm4"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
         "name": "Paris to Milan",
         "url": "https://open.spotify.com/album/4t0TNMetsmutn7aErFG88U"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 112380,
       "name": "Paris to Milan",
       "url": "https://open.spotify.com/track/5S8F1wQh1TW1l30eO6qJGD"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "Pick Up (Even Shorter Version)",
-        "url": "https://open.spotify.com/album/0LQLGYPbXQzihonqLEN6XO"
-      },
-      "artists": [
-        {
-          "name": "DJ Koze",
-          "url": "https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg"
-        }
-      ],
-      "duration_ms": 228480,
-      "name": "Pick Up - Even Shorter Version",
-      "url": "https://open.spotify.com/track/7H9sqtNVPp6eoxnJRMUmm4"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -1263,6 +1263,26 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
+        "name": "U Wanna?",
+        "url": "https://open.spotify.com/album/7wicSDee8Jznltmn6Bk9ZO"
+      },
+      "artists": [
+        {
+          "name": "TT The Artist",
+          "url": "https://open.spotify.com/artist/1T6Em6UJ7pSdgXw5V72YHr"
+        },
+        {
+          "name": "Sir JoQ",
+          "url": "https://open.spotify.com/artist/0t2ATkbihdqPzUaE9PZaEs"
+        }
+      ],
+      "duration_ms": 250009,
+      "name": "U Wanna?",
+      "url": "https://open.spotify.com/track/0lhWFpWU9NgQ2j7FuvjXH1"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
         "name": "Back Seat (Tseba Remix)",
         "url": "https://open.spotify.com/album/7mpjZlmA0AAYRfBL1aoatW"
       },
@@ -1283,26 +1303,6 @@
       "duration_ms": 240191,
       "name": "Back Seat - Tseba Remix",
       "url": "https://open.spotify.com/track/6c4mLN6NaKa0Js76rCIfTr"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "U Wanna?",
-        "url": "https://open.spotify.com/album/7wicSDee8Jznltmn6Bk9ZO"
-      },
-      "artists": [
-        {
-          "name": "TT The Artist",
-          "url": "https://open.spotify.com/artist/1T6Em6UJ7pSdgXw5V72YHr"
-        },
-        {
-          "name": "Sir JoQ",
-          "url": "https://open.spotify.com/artist/0t2ATkbihdqPzUaE9PZaEs"
-        }
-      ],
-      "duration_ms": 250009,
-      "name": "U Wanna?",
-      "url": "https://open.spotify.com/track/0lhWFpWU9NgQ2j7FuvjXH1"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "HYPNOTIZE EP",
-        "url": "https://open.spotify.com/album/3uyE80PrNEyO6LVRu9e6Ud"
-      },
-      "artists": [
-        {
-          "name": "Psycho Boys Club",
-          "url": "https://open.spotify.com/artist/17NhTFMWDCB9nU8eDbRWiu"
-        }
-      ],
-      "duration_ms": 162461,
-      "name": "YSL",
-      "url": "https://open.spotify.com/track/32qENt36EnFCKOEGzLjRBY"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
         "name": "Time Warps",
         "url": "https://open.spotify.com/album/5V8ovTzN4QCvVJDW8ovVUE"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 997568,
       "name": "Time Stands Still",
       "url": "https://open.spotify.com/track/4D5WSNm7QGcNcSHRBPKvQN"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "HYPNOTIZE EP",
+        "url": "https://open.spotify.com/album/3uyE80PrNEyO6LVRu9e6Ud"
+      },
+      "artists": [
+        {
+          "name": "Psycho Boys Club",
+          "url": "https://open.spotify.com/artist/17NhTFMWDCB9nU8eDbRWiu"
+        }
+      ],
+      "duration_ms": 162461,
+      "name": "YSL",
+      "url": "https://open.spotify.com/track/32qENt36EnFCKOEGzLjRBY"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -1747,22 +1747,6 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Lucky",
-        "url": "https://open.spotify.com/album/1twdlt63HPInhVkVgZ1Dr2"
-      },
-      "artists": [
-        {
-          "name": "Cameo Blush",
-          "url": "https://open.spotify.com/artist/2Lx2CAHHQ2IC1iXjS6Y70v"
-        }
-      ],
-      "duration_ms": 191653,
-      "name": "Lucky - Edit",
-      "url": "https://open.spotify.com/track/32NQyxOI8S3Cvvt3Dp6s8K"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
         "name": "Pain In The Ass",
         "url": "https://open.spotify.com/album/2l263dfPVQ4prf1z2cwqbz"
       },
@@ -1775,6 +1759,22 @@
       "duration_ms": 400373,
       "name": "Pain In The Ass - Original Mix",
       "url": "https://open.spotify.com/track/5WsDRf1ldzeP97rs7lhSDi"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Lucky",
+        "url": "https://open.spotify.com/album/1twdlt63HPInhVkVgZ1Dr2"
+      },
+      "artists": [
+        {
+          "name": "Cameo Blush",
+          "url": "https://open.spotify.com/artist/2Lx2CAHHQ2IC1iXjS6Y70v"
+        }
+      ],
+      "duration_ms": 191653,
+      "name": "Lucky - Edit",
+      "url": "https://open.spotify.com/track/32NQyxOI8S3Cvvt3Dp6s8K"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -1799,22 +1799,18 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "LOFF IS ALL YOU SPEED",
-        "url": "https://open.spotify.com/album/5q8Bg4uE1LMUDxQPdalwiT"
+        "name": "Avoid",
+        "url": "https://open.spotify.com/album/27h5vGfPVBw5zQpn7pXrUU"
       },
       "artists": [
         {
-          "name": "H\u00e9ctor Oaks",
-          "url": "https://open.spotify.com/artist/2FZAQdFEANNv5Gi29PI10x"
-        },
-        {
-          "name": "SITA",
-          "url": "https://open.spotify.com/artist/4Pi6eaHXMqift5xrs1vPMI"
+          "name": "mra",
+          "url": "https://open.spotify.com/artist/5ICv05L4fcvG3i8l6yEoWA"
         }
       ],
-      "duration_ms": 183936,
-      "name": "LOFF IS ALL YOU SPEED",
-      "url": "https://open.spotify.com/track/0rcUKid4bfrHeWu4feQQ9H"
+      "duration_ms": 202223,
+      "name": "Avoid",
+      "url": "https://open.spotify.com/track/7nm8pWoDmlEgMZRdHtZpZU"
     }
   ],
   "unique_name": "Runway",

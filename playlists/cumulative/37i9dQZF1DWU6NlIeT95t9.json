@@ -1355,6 +1355,36 @@
     },
     {
       "album": {
+        "name": "Nehr",
+        "url": "https://open.spotify.com/album/0cfW2WzBbaLZrcPreok1I8"
+      },
+      "artists": [
+        {
+          "name": "tricksingh",
+          "url": "https://open.spotify.com/artist/3xvOoFJqHTgdPqUVWlRYQk"
+        },
+        {
+          "name": "Natasha Noorani",
+          "url": "https://open.spotify.com/artist/1nGL9DljVpkRcayU8Wi285"
+        },
+        {
+          "name": "Salor",
+          "url": "https://open.spotify.com/artist/5p1vtdUEsj50ZTBe9BuEGF"
+        },
+        {
+          "name": "Khyber13",
+          "url": "https://open.spotify.com/artist/1KefUu2M5QS6jG0XQ8NtiZ"
+        }
+      ],
+      "date_added": "2024-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169808,
+      "name": "Nehr",
+      "url": "https://open.spotify.com/track/01fLCgZV9M3c6tzVGfOmKk"
+    },
+    {
+      "album": {
         "name": "RONAQ",
         "url": "https://open.spotify.com/album/0uwwWuB9MjGUF3R60CMnjr"
       },

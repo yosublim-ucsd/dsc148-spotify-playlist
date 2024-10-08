@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-31",
-  "description": "This is Rammstein. The essential tracks, all in one playlist.",
+  "description": "This Is Rammstein. Los temas esenciales, todos en una lista.",
   "name": "This Is Rammstein",
   "tracks": [
     {
@@ -830,6 +830,24 @@
       "duration_ms": 324666,
       "name": "Spring",
       "url": "https://open.spotify.com/track/0Z8q59waoxGjcRZDC3ffhH"
+    },
+    {
+      "album": {
+        "name": "Rosenrot",
+        "url": "https://open.spotify.com/album/3PrS5X3QNdDUlBIE4bz6J2"
+      },
+      "artists": [
+        {
+          "name": "Rammstein",
+          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
+        }
+      ],
+      "date_added": "2024-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245266,
+      "name": "Stirb nicht vor mir (Don't Die Before I Do)",
+      "url": "https://open.spotify.com/track/0xv6NzfBHZhbZ5MWLzdh3T"
     },
     {
       "album": {

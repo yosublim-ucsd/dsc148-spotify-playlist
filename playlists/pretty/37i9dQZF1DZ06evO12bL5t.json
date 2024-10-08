@@ -1,12 +1,12 @@
 {
-  "description": "This Is Herencia de Patrones. Los temas esenciales, todos en una lista.",
-  "num_followers": 126158,
+  "description": "This is Herencia de Patrones. The essential tracks, all in one playlist.",
+  "num_followers": 126208,
   "original_name": "This Is Herencia de Patrones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwCBgAAAAABEeIcHQBFwHrwKVmAq+4TT",
+  "snapshot_id": "ZwHTAAAAAABCwxxn1lFwMxw4THmsaXFE",
   "tracks": [
     {
       "added_at": null,
@@ -303,26 +303,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "EL KARMA",
-        "url": "https://open.spotify.com/album/2Zyfh2tswaGFIieQopi557"
-      },
-      "artists": [
-        {
-          "name": "Calle 24",
-          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
-        },
-        {
-          "name": "Herencia de Patrones",
-          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
-        }
-      ],
-      "duration_ms": 171749,
-      "name": "EL KARMA",
-      "url": "https://open.spotify.com/track/3qMR5oiGKLfZZeVJmOiUKx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Marilyn Monroe",
         "url": "https://open.spotify.com/album/5193xqKwr38y0IYSePpzLg"
       },
@@ -339,6 +319,26 @@
       "duration_ms": 193969,
       "name": "Marilyn Monroe",
       "url": "https://open.spotify.com/track/0DVmXQv4zcdh0rW2QLi8SC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "EL KARMA",
+        "url": "https://open.spotify.com/album/2Zyfh2tswaGFIieQopi557"
+      },
+      "artists": [
+        {
+          "name": "Calle 24",
+          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
+        },
+        {
+          "name": "Herencia de Patrones",
+          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+        }
+      ],
+      "duration_ms": 171749,
+      "name": "EL KARMA",
+      "url": "https://open.spotify.com/track/3qMR5oiGKLfZZeVJmOiUKx"
     },
     {
       "added_at": null,

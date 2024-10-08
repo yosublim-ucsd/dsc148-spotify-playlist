@@ -2,7 +2,7 @@
 
 ### [adrenaline](https://open.spotify.com/playlist/37i9dQZF1DWTBN71pVn2Ej)
 
-> The shape of noise to come with Semantics \(pictured\), Slow Joy, Gleemer, Split Chain and more.
+> The shape of noise to come with Footballhead \(pictured\), Four Year Strong, One Step Closer, Boston Manor and more.
 
 687 songs - 1 day 15 hr 12 min
 

@@ -1,29 +1,13 @@
 {
-  "description": "The cream of today's Country crop. Cover: Nate Smith",
-  "num_followers": 407823,
+  "description": "The cream of today's Country crop. Cover: Nate Smith, Avril Lavigne",
+  "num_followers": 407886,
   "original_name": "Fresh Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zv6jnAAAAADC8dJZsz7wC6WvMvcmYg0q",
+  "snapshot_id": "ZwPbUAAAAAAbmKfYtHxLMMRd+3tnMhKP",
   "tracks": [
-    {
-      "added_at": "2024-10-03 14:01:00",
-      "album": {
-        "name": "Get By",
-        "url": "https://open.spotify.com/album/0QQ1aWvzjFk14qU4vfOFbW"
-      },
-      "artists": [
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
-        }
-      ],
-      "duration_ms": 160160,
-      "name": "Get By",
-      "url": "https://open.spotify.com/track/5CEkI4CA4yHWEdiRDt1qlr"
-    },
     {
       "added_at": "2024-10-03 14:01:00",
       "album": {
@@ -47,18 +31,34 @@
     {
       "added_at": "2024-10-03 14:01:00",
       "album": {
-        "name": "Everything I've Got",
-        "url": "https://open.spotify.com/album/2vqXP7Z50UqEbN8F6JOePd"
+        "name": "Get By",
+        "url": "https://open.spotify.com/album/0QQ1aWvzjFk14qU4vfOFbW"
       },
       "artists": [
         {
-          "name": "Brad Cox",
-          "url": "https://open.spotify.com/artist/3qmULKoT46nNsyXHZk6fbM"
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
         }
       ],
-      "duration_ms": 281164,
-      "name": "Everything I've Got",
-      "url": "https://open.spotify.com/track/0kQ0uNi0EsT3o3D20hCk5S"
+      "duration_ms": 160160,
+      "name": "Get By",
+      "url": "https://open.spotify.com/track/5CEkI4CA4yHWEdiRDt1qlr"
+    },
+    {
+      "added_at": "2024-10-03 14:01:00",
+      "album": {
+        "name": "BLAME",
+        "url": "https://open.spotify.com/album/5oHs5oH2fx8YWh4JMgfNug"
+      },
+      "artists": [
+        {
+          "name": "James Johnston",
+          "url": "https://open.spotify.com/artist/69HMYPrcstafeCTHI3Dcp1"
+        }
+      ],
+      "duration_ms": 162115,
+      "name": "BLAME",
+      "url": "https://open.spotify.com/track/6krhdjLqzCefSnaGgUidUq"
     },
     {
       "added_at": "2024-10-03 14:01:00",
@@ -95,38 +95,34 @@
     {
       "added_at": "2024-10-03 14:01:00",
       "album": {
-        "name": "BLAME",
-        "url": "https://open.spotify.com/album/5oHs5oH2fx8YWh4JMgfNug"
+        "name": "Everything I've Got",
+        "url": "https://open.spotify.com/album/2vqXP7Z50UqEbN8F6JOePd"
       },
       "artists": [
         {
-          "name": "James Johnston",
-          "url": "https://open.spotify.com/artist/69HMYPrcstafeCTHI3Dcp1"
+          "name": "Brad Cox",
+          "url": "https://open.spotify.com/artist/3qmULKoT46nNsyXHZk6fbM"
         }
       ],
-      "duration_ms": 162115,
-      "name": "BLAME",
-      "url": "https://open.spotify.com/track/6krhdjLqzCefSnaGgUidUq"
+      "duration_ms": 281164,
+      "name": "Everything I've Got",
+      "url": "https://open.spotify.com/track/0kQ0uNi0EsT3o3D20hCk5S"
     },
     {
       "added_at": "2024-10-03 14:01:00",
       "album": {
-        "name": "F-1 Trillion",
-        "url": "https://open.spotify.com/album/3gHZ4w03gbuZtGTEwztrtw"
+        "name": "Change My Mind",
+        "url": "https://open.spotify.com/album/5ndkH4RnE1m6TcBhyKpWB8"
       },
       "artists": [
         {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        },
-        {
-          "name": "Hank Williams, Jr.",
-          "url": "https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb"
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
         }
       ],
-      "duration_ms": 185533,
-      "name": "Finer Things (Feat. Hank Williams Jr.)",
-      "url": "https://open.spotify.com/track/30hbE8nm0VBt1W5F0U1Dr1"
+      "duration_ms": 199533,
+      "name": "Change My Mind",
+      "url": "https://open.spotify.com/track/3iFzZcNK82ytOWr2qHY5pd"
     },
     {
       "added_at": "2024-10-03 14:01:00",
@@ -147,18 +143,18 @@
     {
       "added_at": "2024-10-03 14:01:00",
       "album": {
-        "name": "Change My Mind",
-        "url": "https://open.spotify.com/album/5ndkH4RnE1m6TcBhyKpWB8"
+        "name": "You'd Think I Was A Cowboy",
+        "url": "https://open.spotify.com/album/0J4VTtjz1Njh0K7warz890"
       },
       "artists": [
         {
-          "name": "Riley Green",
-          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+          "name": "Dylan Scott",
+          "url": "https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x"
         }
       ],
-      "duration_ms": 199533,
-      "name": "Change My Mind",
-      "url": "https://open.spotify.com/track/3iFzZcNK82ytOWr2qHY5pd"
+      "duration_ms": 179266,
+      "name": "You'd Think I Was A Cowboy",
+      "url": "https://open.spotify.com/track/4Di7R87Zkhl6i4cZw8Onh5"
     },
     {
       "added_at": "2024-10-03 14:01:00",
@@ -211,18 +207,18 @@
     {
       "added_at": "2024-10-03 14:01:00",
       "album": {
-        "name": "Heroes",
-        "url": "https://open.spotify.com/album/2XcBhNn09YlqGjxUhQyVkj"
+        "name": "I Ain't Sayin'",
+        "url": "https://open.spotify.com/album/3U0pFKPURiE6x5gWFhDr8d"
       },
       "artists": [
         {
-          "name": "Tyler Hubbard",
-          "url": "https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V"
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
         }
       ],
-      "duration_ms": 184450,
-      "name": "Heroes",
-      "url": "https://open.spotify.com/track/3ZtpF25rlCwrLWLI12OCd5"
+      "duration_ms": 174060,
+      "name": "I Ain't Sayin'",
+      "url": "https://open.spotify.com/track/7lCs3stpWCtAn5Y2lmnPhV"
     },
     {
       "added_at": "2024-10-03 14:01:00",
@@ -251,18 +247,22 @@
     {
       "added_at": "2024-10-03 14:01:00",
       "album": {
-        "name": "You'd Think I Was A Cowboy",
-        "url": "https://open.spotify.com/album/0J4VTtjz1Njh0K7warz890"
+        "name": "F-1 Trillion",
+        "url": "https://open.spotify.com/album/3gHZ4w03gbuZtGTEwztrtw"
       },
       "artists": [
         {
-          "name": "Dylan Scott",
-          "url": "https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x"
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
+        {
+          "name": "Hank Williams, Jr.",
+          "url": "https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb"
         }
       ],
-      "duration_ms": 179266,
-      "name": "You'd Think I Was A Cowboy",
-      "url": "https://open.spotify.com/track/4Di7R87Zkhl6i4cZw8Onh5"
+      "duration_ms": 185533,
+      "name": "Finer Things (Feat. Hank Williams Jr.)",
+      "url": "https://open.spotify.com/track/30hbE8nm0VBt1W5F0U1Dr1"
     },
     {
       "added_at": "2024-10-03 14:01:00",
@@ -503,18 +503,18 @@
     {
       "added_at": "2024-10-03 14:01:00",
       "album": {
-        "name": "I Ain't Sayin'",
-        "url": "https://open.spotify.com/album/3U0pFKPURiE6x5gWFhDr8d"
+        "name": "Heroes",
+        "url": "https://open.spotify.com/album/2XcBhNn09YlqGjxUhQyVkj"
       },
       "artists": [
         {
-          "name": "Jordan Davis",
-          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+          "name": "Tyler Hubbard",
+          "url": "https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V"
         }
       ],
-      "duration_ms": 174060,
-      "name": "I Ain't Sayin'",
-      "url": "https://open.spotify.com/track/7lCs3stpWCtAn5Y2lmnPhV"
+      "duration_ms": 184450,
+      "name": "Heroes",
+      "url": "https://open.spotify.com/track/3ZtpF25rlCwrLWLI12OCd5"
     },
     {
       "added_at": "2024-10-03 14:01:00",

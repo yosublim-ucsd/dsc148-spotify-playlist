@@ -4,7 +4,7 @@
 
 > The hottest out the south\. Cover: Future
 
-1,577 songs - 3 day 2 hr 35 min
+1,578 songs - 3 day 2 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -537,6 +537,7 @@
 | [Ghetto Cinderella](https://open.spotify.com/track/5WkYdoquKFmWaQengD72RC) | [TEC](https://open.spotify.com/artist/0Y1fWbJgcZk0R2SbZbxo4R) | [Ghetto Cinderella](https://open.spotify.com/album/61MXhNTtr5R474qNT9cA2R) | 2:36 | 2022-12-09 | 2022-12-24 |
 | [Ghetto Gods Freestyle \(with EARTHGANG feat\. 2 Chainz\)](https://open.spotify.com/track/7Gn7HA4yOHKXDo6vHCiNXV) | [Dreamville](https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [D\-Day: A Gangsta Grillz Mixtape](https://open.spotify.com/album/3tFjhFPqGhhLrCULnPu7Wy) | 2:53 | 2022-04-01 | 2022-05-28 |
 | [GHETTO SUPERSTAR FREESTYLE](https://open.spotify.com/track/5lGLa8cnBb9okenznIbqqy) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [GHETTO SUPERSTAR: \(THE INTRO\)](https://open.spotify.com/album/1EAlURUEewGlp9AvY6I767) | 2:15 | 2024-05-17 | 2024-07-06 |
+| [Giannis](https://open.spotify.com/track/5oVn6GZuuMDlsBqWl1FzNi) | [Hurricane Wisdom](https://open.spotify.com/artist/4PooHx6BstbetDtBMrLyV7) | [Giannis](https://open.spotify.com/album/2yE6dPyVTiOgJbCeXQ81fe) | 2:01 | 2024-10-07 |  |
 | [Gimme Da Lite](https://open.spotify.com/track/5VE6OSfJkMHyMpHaJzuUqn) | [Southside](https://open.spotify.com/artist/23DYJsw4uSCguIqiTIDtcN), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Gimme Da Lite](https://open.spotify.com/album/3nje1igt9y3c85Hx5IbxVx) | 1:53 | 2023-12-08 | 2023-12-16 |
 | [Gin & Juice \(feat\. BigXthaPlug\)](https://open.spotify.com/track/2EA5h6XD8KB070waaoclje) | [21 Lil Harold](https://open.spotify.com/artist/6X9Dt3dsZDeWzMBfekaoPB), [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [Gin & Juice \(feat\. BigXthaPlug\)](https://open.spotify.com/album/1fOnjWaTMtIgKfFxNq78e2) | 3:11 | 2024-02-23 | 2024-05-11 |
 | [GIRLS GONE WILD](https://open.spotify.com/track/5nRyvWHWIb2F0CzIQfbaUr) | [Anycia](https://open.spotify.com/artist/4bOqkIGQCcuZgjfDxNuX1I) | [GIRLS GONE WILD](https://open.spotify.com/album/7q2C8SwFYTyWCspWExMsZN) | 2:21 | 2024-08-23 | 2024-08-31 |
@@ -1078,7 +1079,7 @@
 | [Phone Ringing](https://open.spotify.com/track/4O5RjbYzHBFGeXj7Aakz1Y) | [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB) | [Welcome To Vulture Island](https://open.spotify.com/album/0g96ZZ9ME5DaTwZb1VYxmo) | 1:40 | 2022-04-08 | 2022-04-29 |
 | [Pickin’ Sides \(feat\. Icewear Vezzo\)](https://open.spotify.com/track/0uX7dGC07Dd8mpvnCcWzH0) | [Bankroll Freddie](https://open.spotify.com/artist/20vLls6BmcHB0zEwpB91O2), [Icewear Vezzo](https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1) | [Pickin’ Sides \(feat\. Icewear Vezzo\)](https://open.spotify.com/album/3QMuWl11zBhxwLwLM7KpRM) | 2:13 | 2022-04-08 | 2022-06-04 |
 | [Pimp Problems](https://open.spotify.com/track/2sQNGOxvrF4WrS8KZykAci) | [YTB Fatt](https://open.spotify.com/artist/1t22AdiJ8P9eXOnoJ8xPJT) | [Who Is Fatt](https://open.spotify.com/album/3qsgJ7DqZ9dqgblDMea5KR) | 1:50 | 2023-08-04 | 2023-08-08 |
-| [Pimpin' Ain't Dead](https://open.spotify.com/track/1vuunqsCzdvtLVDyRXICTs) | [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb), [TEXAS BOYZ](https://open.spotify.com/artist/40qj4OBMZQvOZfqhoSE758) | [Throwing Bows](https://open.spotify.com/album/4eK0tskh6kKkNny0wRrqg3) | 3:02 | 2024-09-27 |  |
+| [Pimpin' Ain't Dead](https://open.spotify.com/track/1vuunqsCzdvtLVDyRXICTs) | [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb), [TEXAS BOYZ](https://open.spotify.com/artist/40qj4OBMZQvOZfqhoSE758) | [Throwing Bows](https://open.spotify.com/album/4eK0tskh6kKkNny0wRrqg3) | 3:02 | 2024-09-27 | 2024-10-08 |
 | [Pink Panther \(feat\. Lil Gotit\)](https://open.spotify.com/track/7doNmOV0adtKYPHkznWr2o) | [2FeetBino](https://open.spotify.com/artist/5sw4vau0N1fwalr2ACVN9M), [Lil Gotit](https://open.spotify.com/artist/4ke9HXbejpYVMhbOjSa4le) | [Pink Panther \(feat\. Lil Gotit\)](https://open.spotify.com/album/0vpfhRCn28dUB7rTWBZQ2o) | 2:03 | 2023-11-10 | 2024-01-13 |
 | [Pip N' Walk](https://open.spotify.com/track/5trKhl8w5Rcg8wbenmmlWj) | [YBN Nahmir](https://open.spotify.com/artist/3gGUMEwIX6XodWsYEvKSal) | [Faster Car Music](https://open.spotify.com/album/0olnICw6Z8zojoAttZFpRD) | 2:43 | 2022-08-19 | 2022-09-17 |
 | [Pissy \(feat\. Roddy Ricch, Nardo Wick\)](https://open.spotify.com/track/3xOEfEmsrLwf9jcG4gErdA) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB), [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN) | [Pissy \(feat\. Roddy Ricch, Nardo Wick\)](https://open.spotify.com/album/2dd8aKS08SH8ly3aNFpKl8) | 3:38 | 2023-05-05 | 2023-08-19 |

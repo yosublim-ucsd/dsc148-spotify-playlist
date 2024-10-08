@@ -1,12 +1,12 @@
 {
   "description": "Mastodon on top of today's best Metal playlist.",
-  "num_followers": 1517960,
+  "num_followers": 1518074,
   "original_name": "Kickass Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zv9oQAAAAACBNVjNdKSSvN9mhAsXVl5c",
+  "snapshot_id": "ZwQBjQAAAACa2Ify9O0dtBYoeQH5nYbd",
   "tracks": [
     {
       "added_at": "2024-10-04 04:00:00",
@@ -639,6 +639,22 @@
       "duration_ms": 245656,
       "name": "A Visceral Retch",
       "url": "https://open.spotify.com/track/7BlvPctRnjjJUjBnrySJ7b"
+    },
+    {
+      "added_at": "2024-10-07 15:43:09",
+      "album": {
+        "name": "Exhibition Of Prowess",
+        "url": "https://open.spotify.com/album/3UqEHbnms5ixC6YPuPZTfi"
+      },
+      "artists": [
+        {
+          "name": "Kublai Khan TX",
+          "url": "https://open.spotify.com/artist/5BIOo2mCAokFcLHXO2Llb4"
+        }
+      ],
+      "duration_ms": 54242,
+      "name": "Supreme Ruler",
+      "url": "https://open.spotify.com/track/6U6arJe3nfBpl0UiVg1T70"
     },
     {
       "added_at": "2024-10-04 04:00:00",

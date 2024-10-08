@@ -4,7 +4,7 @@
 
 > La nuova scena indie italiana! Cover: Delicatoni
 
-167 songs - 8 hr 7 min
+168 songs - 8 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,7 +89,7 @@
 | [MALE, MALISSIMO](https://open.spotify.com/track/3kQ9aTQdGmHrxi7KwW3Shi) | [Bravo, Bravissimo](https://open.spotify.com/artist/6st78j54gm9fHJfB9ZKdh4), [Assurditè](https://open.spotify.com/artist/2vDluwryVXelZfng6DxjnC) | [SUPERFLUO](https://open.spotify.com/album/4ijDSY9bIVGqvv9rNSbzq0) | 2:35 | 2024-06-27 | 2024-09-27 |
 | [MANGO E PAPAYA](https://open.spotify.com/track/5u5aDmTlNkqWaSqiLRIwtM) | [Malpelo](https://open.spotify.com/artist/3yfbIVTJBT6kawT1yjQvOZ) | [MANGO E PAPAYA](https://open.spotify.com/album/21GqHWVGIPw4Vno0DFOj1r) | 2:46 | 2024-08-29 | 2024-09-27 |
 | [Manifesto Egoista \(feat\. Carlo Amleto\)](https://open.spotify.com/track/0wRVfbqHnpNXgTLRLmmrJ9) | [Folcast](https://open.spotify.com/artist/1PWmqY7ed9o6dgpAYYWZmS), [Carlo Amleto](https://open.spotify.com/artist/0RoPAqbX6Dzbr81tQZB6E5) | [Manifesto Egoista \(feat\. Carlo Amleto\)](https://open.spotify.com/album/37TzRpbavzizY6wHoXwSBp) | 2:53 | 2024-07-25 |  |
-| [Mar mar mar](https://open.spotify.com/track/0UTpnIXBvaKAyoe3ZyTx6M) | [Brugnano](https://open.spotify.com/artist/1Tly9Wn1glHtV5NIVKGYCZ) | [Mar mar mar](https://open.spotify.com/album/5RfliNbo8JUMyxi2XpdDM9) | 4:01 | 2024-07-18 |  |
+| [Mar mar mar](https://open.spotify.com/track/0UTpnIXBvaKAyoe3ZyTx6M) | [Brugnano](https://open.spotify.com/artist/1Tly9Wn1glHtV5NIVKGYCZ) | [Mar mar mar](https://open.spotify.com/album/5RfliNbo8JUMyxi2XpdDM9) | 4:01 | 2024-07-18 | 2024-10-08 |
 | [Mariù](https://open.spotify.com/track/6jK5DrUCGwQAnsAEODR3r4) | [Ophelia Lia](https://open.spotify.com/artist/3VBPvCalDAaE5MJHkMAuDk) | [Mariù](https://open.spotify.com/album/4z05lOnsXxT3eiXA3mKkft) | 2:57 | 2024-06-27 | 2024-07-05 |
 | [MEGA LIMONE](https://open.spotify.com/track/1SlFveNB8qOsydb3A145Z8) | [CALICE](https://open.spotify.com/artist/7Alkpa4UYC4Ly1A9hRUb5V), [Nablito](https://open.spotify.com/artist/1QKYKUlsIRvgzzDuAidIgU) | [MEGA LIMONE](https://open.spotify.com/album/3E3ufDQYrZxqkHXhcJgtYJ) | 2:32 | 2024-06-27 | 2024-07-19 |
 | [MEGAGALATTICO](https://open.spotify.com/track/4Mwq2uShIgIPKqxr2v14cG) | [CRETA](https://open.spotify.com/artist/2GoVj8Yh4VGg4JibTBLAXS) | [MEGAGALATTICO](https://open.spotify.com/album/7bqOe8aw1dOfCOTMxF9wuF) | 2:40 | 2024-06-27 | 2024-07-12 |
@@ -106,6 +106,7 @@
 | [Non ti scusare \(Anna\)](https://open.spotify.com/track/2DjQsMws5zgO7PYXK8pLmb) | [Schiuma](https://open.spotify.com/artist/3HjRoFEZwL58GYiXQ0KNlD) | [Non ti scusare \(Anna\)](https://open.spotify.com/album/4Wf4LUGWsaEgREyJGDOo78) | 3:01 | 2024-06-27 | 2024-07-19 |
 | [NOSTALGIA](https://open.spotify.com/track/41hZnjJYL2LMlpsg50yZn5) | [chiaraMente](https://open.spotify.com/artist/6YPphNLpIgRYsXrLgpcTNc) | [NOSTALGIA](https://open.spotify.com/album/4Z6CkD1dWcidZpsSWyVZO8) | 2:39 | 2024-06-27 | 2024-07-05 |
 | [NULLA \(non ci ho capito\)](https://open.spotify.com/track/2Fo5zKMlcjLLPEAbSpZBSI) | [OCCHI](https://open.spotify.com/artist/1gxSzslBaKRwyT69Q8PJKU) | [NULLA \(non ci ho capito\)](https://open.spotify.com/album/62lVHGMhNuHQARh7PYSzLj) | 3:30 | 2024-07-04 | 2024-07-27 |
+| [Occhi Blu](https://open.spotify.com/track/5hJVI6mBxRZQakUsBm3QRn) | [Martina Attili](https://open.spotify.com/artist/6Pm0wbsCPotfoZ7tdNO6Or) | [Occhi Blu](https://open.spotify.com/album/0CKpLdO3jBGHtgd6pvaOLW) | 3:42 | 2024-10-03 |  |
 | [Occhi di Plastica](https://open.spotify.com/track/2xIcGjEqBTpygD0R5qjBw0) | [Vittorio Spinelli](https://open.spotify.com/artist/3f7G7yE678nhPKRHgTZi1t) | [Occhi di Plastica](https://open.spotify.com/album/2oY4t9L0KTJWN3qvj4Ltb2) | 3:16 | 2024-09-19 |  |
 | [Oceano](https://open.spotify.com/track/4unvc6QV3v8wNQIeUy36ht) | [Ilan](https://open.spotify.com/artist/1tL8y4REds47CMeVgs6hSI) | [Oceano](https://open.spotify.com/album/1NIjSrtXsj4cmStl2AZpzD) | 3:04 | 2024-06-27 | 2024-07-05 |
 | [odio l'estate.](https://open.spotify.com/track/2SX5vNtHYFuEs8P3rYUQHy) | [petra](https://open.spotify.com/artist/3yzgT3hMTtjPZ9GgmeFnCt) | [odio l'estate.](https://open.spotify.com/album/5xcCj6E31B8EL4028AshAl) | 2:36 | 2024-07-04 | 2024-08-23 |

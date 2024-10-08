@@ -1,12 +1,12 @@
 {
   "description": "This Is Gondwana. Los temas esenciales, todos en una lista.",
-  "num_followers": 83803,
+  "num_followers": 83818,
   "original_name": "This Is Gondwana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwCBgAAAAABM/H4l5VMIr5/ravl302yG",
+  "snapshot_id": "ZwHTAAAAAAD1qWfSkxmQzNp4VVTooiSW",
   "tracks": [
     {
       "added_at": null,
@@ -731,6 +731,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pincoya Calipso - Pasado, Presente y Futuro",
+        "url": "https://open.spotify.com/album/7wrqy1Srwe2QqpYb4Rq7V6"
+      },
+      "artists": [
+        {
+          "name": "Gondwana",
+          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
+        }
+      ],
+      "duration_ms": 236493,
+      "name": "Para Quien Avanza",
+      "url": "https://open.spotify.com/track/318Xr1GlYpmDpGeHw89tNO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Terc3ra Llamada",
         "url": "https://open.spotify.com/album/1Z9CbGMQmKWqsfkcF64VOG"
       },
@@ -751,22 +767,6 @@
       "duration_ms": 155996,
       "name": "Quiero acercarme a ti",
       "url": "https://open.spotify.com/track/5Uyd0HavtHIMTPsDDN82yC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pincoya Calipso - Pasado, Presente y Futuro",
-        "url": "https://open.spotify.com/album/7wrqy1Srwe2QqpYb4Rq7V6"
-      },
-      "artists": [
-        {
-          "name": "Gondwana",
-          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
-        }
-      ],
-      "duration_ms": 236493,
-      "name": "Para Quien Avanza",
-      "url": "https://open.spotify.com/track/318Xr1GlYpmDpGeHw89tNO"
     },
     {
       "added_at": null,

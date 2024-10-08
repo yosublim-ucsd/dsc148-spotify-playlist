@@ -1,6 +1,6 @@
 {
   "description": "Classic 12\" singles to take you back to the the vinyl era.",
-  "num_followers": 708022,
+  "num_followers": 708148,
   "original_name": "12\" Classics",
   "owner": {
     "name": "Spotify",
@@ -8,22 +8,6 @@
   },
   "snapshot_id": "ZmmKwwAAAADT/7qdojoHbpm4L7mxkjhU",
   "tracks": [
-    {
-      "added_at": "2024-02-06 15:45:26",
-      "album": {
-        "name": "Fantastic",
-        "url": "https://open.spotify.com/album/6vihnceXTNegYbpurc6qkR"
-      },
-      "artists": [
-        {
-          "name": "Wham!",
-          "url": "https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM"
-        }
-      ],
-      "duration_ms": 265600,
-      "name": "Club Tropicana",
-      "url": "https://open.spotify.com/track/6tASfEUyB7lE2r6DLzURji"
-    },
     {
       "added_at": "2024-02-06 15:45:26",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 293586,
       "name": "Somebody's Watching Me",
       "url": "https://open.spotify.com/track/2gGdO0zLa9W8ce1Ig0BzFK"
+    },
+    {
+      "added_at": "2024-02-06 15:45:26",
+      "album": {
+        "name": "Fantastic",
+        "url": "https://open.spotify.com/album/6vihnceXTNegYbpurc6qkR"
+      },
+      "artists": [
+        {
+          "name": "Wham!",
+          "url": "https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM"
+        }
+      ],
+      "duration_ms": 265600,
+      "name": "Club Tropicana",
+      "url": "https://open.spotify.com/track/6tASfEUyB7lE2r6DLzURji"
     },
     {
       "added_at": "2024-02-06 15:45:26",
@@ -755,22 +755,6 @@
     {
       "added_at": "2024-02-06 15:45:26",
       "album": {
-        "name": "Good Vibes - The Very Best of Laid Back",
-        "url": "https://open.spotify.com/album/2PTte9WD2NqJzmbqNaDpa1"
-      },
-      "artists": [
-        {
-          "name": "Laid Back",
-          "url": "https://open.spotify.com/artist/2OLmN3LLWtLF7zerL4VdaX"
-        }
-      ],
-      "duration_ms": 397533,
-      "name": "Sunshine Reggae - 12\" Version",
-      "url": "https://open.spotify.com/track/5t1IKim2yq7cZ3H4FPYly7"
-    },
-    {
-      "added_at": "2024-02-06 15:45:26",
-      "album": {
         "name": "Private Dancer (30th Anniversary Issue)",
         "url": "https://open.spotify.com/album/7gVHUNPQr0AE2A0Yf5MjqR"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 341893,
       "name": "I Can't Stand the Rain - Extended 12\" Remix; 2015 Remaster",
       "url": "https://open.spotify.com/track/1vyPz26Qiew0MjlJtpsvN2"
+    },
+    {
+      "added_at": "2024-02-06 15:45:26",
+      "album": {
+        "name": "Good Vibes - The Very Best of Laid Back",
+        "url": "https://open.spotify.com/album/2PTte9WD2NqJzmbqNaDpa1"
+      },
+      "artists": [
+        {
+          "name": "Laid Back",
+          "url": "https://open.spotify.com/artist/2OLmN3LLWtLF7zerL4VdaX"
+        }
+      ],
+      "duration_ms": 397533,
+      "name": "Sunshine Reggae - 12\" Version",
+      "url": "https://open.spotify.com/track/5t1IKim2yq7cZ3H4FPYly7"
     },
     {
       "added_at": "2024-02-06 15:45:26",
@@ -819,22 +819,6 @@
     {
       "added_at": "2024-02-06 15:45:26",
       "album": {
-        "name": "Raspberry Beret",
-        "url": "https://open.spotify.com/album/2aJPa9emKOSIGUJpxgjNnx"
-      },
-      "artists": [
-        {
-          "name": "Prince",
-          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
-        }
-      ],
-      "duration_ms": 400520,
-      "name": "Raspberry Beret - Extended 12\" Version",
-      "url": "https://open.spotify.com/track/1O3xlreuUsPlSJXUYZzTjs"
-    },
-    {
-      "added_at": "2024-02-06 15:45:26",
-      "album": {
         "name": "12\" 80s Classics",
         "url": "https://open.spotify.com/album/77zu6NfDouq2TomJaVadKb"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 480200,
       "name": "Shout - U.S. Remix",
       "url": "https://open.spotify.com/track/6F1UlQcpFzL3RLuRSQwK2n"
+    },
+    {
+      "added_at": "2024-02-06 15:45:26",
+      "album": {
+        "name": "Raspberry Beret",
+        "url": "https://open.spotify.com/album/2aJPa9emKOSIGUJpxgjNnx"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "duration_ms": 400520,
+      "name": "Raspberry Beret - Extended 12\" Version",
+      "url": "https://open.spotify.com/track/1O3xlreuUsPlSJXUYZzTjs"
     },
     {
       "added_at": "2024-02-06 15:45:26",
@@ -929,7 +929,7 @@
         }
       ],
       "duration_ms": 319480,
-      "name": "Sweet Dreams (Are Made of This) - Hot Remix / Remastered Version",
+      "name": "Sweet Dreams (Are Made of This) - Hot Remix / 2005 Remaster",
       "url": "https://open.spotify.com/track/1AgCHF8ZUnAFgyCbK82AwI"
     },
     {

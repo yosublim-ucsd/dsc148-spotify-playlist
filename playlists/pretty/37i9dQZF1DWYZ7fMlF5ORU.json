@@ -1,6 +1,6 @@
 {
   "description": "A alegria do Senhor \u00e9 a vossa for\u00e7a! Entre no groove com o melhor do Soul, Funk e Disco Crist\u00e3o. Foto: Eli Soares",
-  "num_followers": 163924,
+  "num_followers": 163967,
   "original_name": "Grooveria Gospel",
   "owner": {
     "name": "Spotify",
@@ -591,6 +591,22 @@
     {
       "added_at": "2024-09-27 03:01:00",
       "album": {
+        "name": "A Season Of Remixes",
+        "url": "https://open.spotify.com/album/7jI7E2aLZZucXkAQQlJMEV"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "duration_ms": 251640,
+      "name": "Brighter Day - Kirk's Mix",
+      "url": "https://open.spotify.com/track/1LM3tWoGx2tRMDKMnEwBjC"
+    },
+    {
+      "added_at": "2024-09-27 03:01:00",
+      "album": {
         "name": "Pista do C\u00e9u (Quase 30)",
         "url": "https://open.spotify.com/album/4ysRL1yOl0Wk8q55x83NTT"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 432000,
       "name": "Pista do C\u00e9u (Quase 30)",
       "url": "https://open.spotify.com/track/2Tkbqw8hvszUvsP71JYUW6"
-    },
-    {
-      "added_at": "2024-09-27 03:01:00",
-      "album": {
-        "name": "A Season Of Remixes",
-        "url": "https://open.spotify.com/album/7jI7E2aLZZucXkAQQlJMEV"
-      },
-      "artists": [
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        }
-      ],
-      "duration_ms": 251640,
-      "name": "Brighter Day - Kirk's Mix",
-      "url": "https://open.spotify.com/track/1LM3tWoGx2tRMDKMnEwBjC"
     },
     {
       "added_at": "2024-09-27 03:01:00",
@@ -675,6 +675,26 @@
     {
       "added_at": "2024-09-27 03:01:00",
       "album": {
+        "name": "O Dom da Vida",
+        "url": "https://open.spotify.com/album/2xMHnMhpOtkx98lntR8SbG"
+      },
+      "artists": [
+        {
+          "name": "Fabi Oliveira",
+          "url": "https://open.spotify.com/artist/1zV1AexfyOs2uWahMc7wSp"
+        },
+        {
+          "name": "Carol Oliveira",
+          "url": "https://open.spotify.com/artist/5e4zMhIzmAQBMv6nCzMNIe"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "O Dom da Vida",
+      "url": "https://open.spotify.com/track/4Qj5S80XSf4JihF2IebtVG"
+    },
+    {
+      "added_at": "2024-09-27 03:01:00",
+      "album": {
         "name": "Ele Me Amou",
         "url": "https://open.spotify.com/album/1mXxOYsw5Zg4CebKviYRRA"
       },
@@ -695,26 +715,6 @@
       "duration_ms": 269714,
       "name": "Ele Me Amou",
       "url": "https://open.spotify.com/track/7G7I1JdYyqt4tmRqyl9Y9l"
-    },
-    {
-      "added_at": "2024-09-27 03:01:00",
-      "album": {
-        "name": "O Dom da Vida",
-        "url": "https://open.spotify.com/album/2xMHnMhpOtkx98lntR8SbG"
-      },
-      "artists": [
-        {
-          "name": "Fabi Oliveira",
-          "url": "https://open.spotify.com/artist/1zV1AexfyOs2uWahMc7wSp"
-        },
-        {
-          "name": "Carol Oliveira",
-          "url": "https://open.spotify.com/artist/5e4zMhIzmAQBMv6nCzMNIe"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "O Dom da Vida",
-      "url": "https://open.spotify.com/track/4Qj5S80XSf4JihF2IebtVG"
     },
     {
       "added_at": "2024-09-27 03:01:00",

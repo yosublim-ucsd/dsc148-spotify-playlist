@@ -2129,6 +2129,24 @@
     },
     {
       "album": {
+        "name": "Bunny Hop",
+        "url": "https://open.spotify.com/album/0ecWxnAULTqsFsBuEcmrY4"
+      },
+      "artists": [
+        {
+          "name": "Jonth",
+          "url": "https://open.spotify.com/artist/461fWLhyGb1giJaTUEPpWt"
+        }
+      ],
+      "date_added": "2024-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189257,
+      "name": "Bunny Hop",
+      "url": "https://open.spotify.com/track/4I1hvzQ39B3ol9OYfdckhG"
+    },
+    {
+      "album": {
         "name": "Burbank Nights",
         "url": "https://open.spotify.com/album/1equ0DwRZaGqjzWi588Oum"
       },
@@ -4423,6 +4441,24 @@
     },
     {
       "album": {
+        "name": "EYES ON ME (Sped Up)",
+        "url": "https://open.spotify.com/album/42wLzzlEeQ1SHVwsPzbqWF"
+      },
+      "artists": [
+        {
+          "name": "Control Freak",
+          "url": "https://open.spotify.com/artist/0ouxenSvuyyfflbOirMy19"
+        }
+      ],
+      "date_added": "2024-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205619,
+      "name": "EYES ON ME - Sped Up",
+      "url": "https://open.spotify.com/track/78wZLjNJy4V0p7BNYxl1Y4"
+    },
+    {
+      "album": {
         "name": "Face Lift",
         "url": "https://open.spotify.com/album/29EfXY9bvJuHDVWI3dD4Ok"
       },
@@ -6246,7 +6282,7 @@
       ],
       "date_added": "2024-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-08",
       "duration_ms": 249228,
       "name": "Hardcore Riddim",
       "url": "https://open.spotify.com/track/5R77QOMkCw5Zk7M1Qz016c"
@@ -9512,7 +9548,7 @@
       ],
       "date_added": "2024-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-08",
       "duration_ms": 206000,
       "name": "Much Is Taken, Much Abides",
       "url": "https://open.spotify.com/track/4nF70Xzy8IpCHXpo5JuZZ1"

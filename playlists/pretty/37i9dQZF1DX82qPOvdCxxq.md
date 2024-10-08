@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82qPOvdCxxq.md) - [plain]
 
 > The best new music from independent faith\-based artists every Wednesday! Cover:  <a href="spotify:artist:6vUiVJcOvGX0EhBr4GiMrb">METRUTH</a>   \| Artwork: Laina Deene
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,815 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,826 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82qPOvdCxxq.md) - [plain]
 | 40 | [FREE MAN](https://open.spotify.com/track/2GkUxvdFhEXfDG9upxhV9I) | [DeAngelo](https://open.spotify.com/artist/0t6NssHMnbIjRJ0r4vlkzE) | [FREE MAN](https://open.spotify.com/album/4NH0OIVKH3u71ls0wgCHRL) | 3:35 |
 | 41 | [Así Será](https://open.spotify.com/track/5ajj2mzJc4vRa3ib9VLEeT) | [Ale Fdz](https://open.spotify.com/artist/1m3YfDehEub35DvsmG9gMy) | [Así Será](https://open.spotify.com/album/0LvIRZFPYOL3oxnGMfNVuZ) | 4:36 |
 | 42 | [Receive](https://open.spotify.com/track/1aRMNC6oOhUjZROCKF0EnU) | [Joshua's Giants](https://open.spotify.com/artist/6ULNzmxY00PU4YfT3ZZp7T), [Haydon](https://open.spotify.com/artist/5EBqNSGqpUzEF4CTH1T4EW) | [Receive](https://open.spotify.com/album/0iBHprcYThFlj5sWhIRsly) | 3:37 |
-| 43 | [Amen 4x](https://open.spotify.com/track/0MMwEi36BgmlGyufx8ZGik) | [Poetics](https://open.spotify.com/artist/6sdgbah9YMIS5jSYdyzpBP) | [Amen 4x](https://open.spotify.com/album/2fVz0L3DZlMr8uRtkT9KMv) | 1:41 |
+| 43 | [Amen 4x](https://open.spotify.com/track/0MMwEi36BgmlGyufx8ZGik) | [Poetics](https://open.spotify.com/artist/6sdgbah9YMIS5jSYdyzpBP), [chandler in space](https://open.spotify.com/artist/5jpKsn00STUBE2g1IBjVG6) | [Amen 4x](https://open.spotify.com/album/2fVz0L3DZlMr8uRtkT9KMv) | 1:41 |
 | 44 | [Maybe Maybe Maybe](https://open.spotify.com/track/4XWbBXgPMm0vreJliiU4QI) | [Colorvault](https://open.spotify.com/artist/15r1ip4y85i0oDNt03C4Er), [Alex Taylor](https://open.spotify.com/artist/0q3bKZP4Pjf3Z5SKSxEhKi) | [Maybe Maybe Maybe](https://open.spotify.com/album/6s86H6gGDAPmpDq4zVv7jx) | 3:10 |
 | 45 | [Joy](https://open.spotify.com/track/0OVJq25a2h5q4a0lfM9Fo6) | [Trev](https://open.spotify.com/artist/3YugT4RsrpRfb6DdeIA4Wv) | [Joy](https://open.spotify.com/album/34Sm29k48sEjT5aU8bVAcb) | 4:22 |
 | 46 | [Words Don’t Pay](https://open.spotify.com/track/7mUIZS6AH2eVNhPdgPmSKz) | [Hopeful.](https://open.spotify.com/artist/2bfNAeO9A7tThjqmYWGiVR) | [Words Don’t Pay](https://open.spotify.com/album/3eVfIo1bgGczvaoYxiK0Ig) | 3:10 |

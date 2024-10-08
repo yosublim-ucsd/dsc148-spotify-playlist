@@ -1,13 +1,45 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125771,
+  "num_followers": 125762,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAATGogVWIdRWJX4xNPCQZkkbYYevZOs",
+  "snapshot_id": "AAATHbs1bo7t5k9D5oTeq6IAvZumEpiU",
   "tracks": [
+    {
+      "added_at": "2024-10-07 19:23:26",
+      "album": {
+        "name": "Bunny Hop",
+        "url": "https://open.spotify.com/album/0ecWxnAULTqsFsBuEcmrY4"
+      },
+      "artists": [
+        {
+          "name": "Jonth",
+          "url": "https://open.spotify.com/artist/461fWLhyGb1giJaTUEPpWt"
+        }
+      ],
+      "duration_ms": 189257,
+      "name": "Bunny Hop",
+      "url": "https://open.spotify.com/track/4I1hvzQ39B3ol9OYfdckhG"
+    },
+    {
+      "added_at": "2024-10-07 19:23:12",
+      "album": {
+        "name": "EYES ON ME (Sped Up)",
+        "url": "https://open.spotify.com/album/42wLzzlEeQ1SHVwsPzbqWF"
+      },
+      "artists": [
+        {
+          "name": "Control Freak",
+          "url": "https://open.spotify.com/artist/0ouxenSvuyyfflbOirMy19"
+        }
+      ],
+      "duration_ms": 205619,
+      "name": "EYES ON ME - Sped Up",
+      "url": "https://open.spotify.com/track/78wZLjNJy4V0p7BNYxl1Y4"
+    },
     {
       "added_at": "2024-10-04 14:25:43",
       "album": {
@@ -1151,46 +1183,6 @@
       "duration_ms": 214344,
       "name": "Tax Evasion",
       "url": "https://open.spotify.com/track/5NiVqcP6gFcPoeIEOtUKlE"
-    },
-    {
-      "added_at": "2024-07-16 14:18:27",
-      "album": {
-        "name": "Much Is Taken, Much Abides",
-        "url": "https://open.spotify.com/album/2UxnkfVsG0Oz9Hrycjl0lZ"
-      },
-      "artists": [
-        {
-          "name": "Cloudcage",
-          "url": "https://open.spotify.com/artist/7voZA8iemE4e4c17BdlNaA"
-        },
-        {
-          "name": "Mango",
-          "url": "https://open.spotify.com/artist/5x6H8meBBWk6J8qcIWxW7w"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "Much Is Taken, Much Abides",
-      "url": "https://open.spotify.com/track/4nF70Xzy8IpCHXpo5JuZZ1"
-    },
-    {
-      "added_at": "2024-07-15 15:09:15",
-      "album": {
-        "name": "Hardcore Riddim",
-        "url": "https://open.spotify.com/album/5do913Q6Mwjn26EGhHESzM"
-      },
-      "artists": [
-        {
-          "name": "Teddy Killerz",
-          "url": "https://open.spotify.com/artist/4xaF2VIGwhWyEMbM6GuLdm"
-        },
-        {
-          "name": "MC Spyda",
-          "url": "https://open.spotify.com/artist/2b4CwhkY6rAscPhxXVxDJl"
-        }
-      ],
-      "duration_ms": 249228,
-      "name": "Hardcore Riddim",
-      "url": "https://open.spotify.com/track/5R77QOMkCw5Zk7M1Qz016c"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

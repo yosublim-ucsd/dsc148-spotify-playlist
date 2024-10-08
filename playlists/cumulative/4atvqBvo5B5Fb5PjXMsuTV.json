@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-26",
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 07 Oct 22:03 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 07 Oct 20:03 UTC.",
   "name": "New Singles Now",
   "tracks": [
     {
@@ -901,6 +901,24 @@
     },
     {
       "album": {
+        "name": "A Good Time Pushed",
+        "url": "https://open.spotify.com/album/1HwcLQjfgSsqNWxbPL6cV2"
+      },
+      "artists": [
+        {
+          "name": "Kim Deal",
+          "url": "https://open.spotify.com/artist/4JzQKxgdLmyqbplHxVL8xY"
+        }
+      ],
+      "date_added": "2024-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207958,
+      "name": "A Good Time Pushed",
+      "url": "https://open.spotify.com/track/1PO1Uc8DwEfSFGprln91lC"
+    },
+    {
+      "album": {
         "name": "A Hole In The Ground",
         "url": "https://open.spotify.com/album/45rtPd1tyrJd1QXMMivrru"
       },
@@ -1548,6 +1566,24 @@
       "duration_ms": 66187,
       "name": "Agatha All Along",
       "url": "https://open.spotify.com/track/0lD9NkNPiFp1nnOsGk1hAL"
+    },
+    {
+      "album": {
+        "name": "aggressive",
+        "url": "https://open.spotify.com/album/5KeXH6N4PmxtYg95a9sX8b"
+      },
+      "artists": [
+        {
+          "name": "Jim Legxacy",
+          "url": "https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2"
+        }
+      ],
+      "date_added": "2024-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175215,
+      "name": "aggressive",
+      "url": "https://open.spotify.com/track/0L7CLr2avMQXAwA3uTqJp3"
     },
     {
       "album": {
@@ -3046,7 +3082,7 @@
       ],
       "date_added": "2024-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-08",
       "duration_ms": 174497,
       "name": "Around Me",
       "url": "https://open.spotify.com/track/1YEVx89VQ53Lj96DuDs6Et"
@@ -4936,7 +4972,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-08",
       "duration_ms": 138000,
       "name": "better in two",
       "url": "https://open.spotify.com/track/6vzIOuyz9yxJSmjkLzHI1D"
@@ -22151,6 +22187,24 @@
     },
     {
       "album": {
+        "name": "i have plastic in my brain (demo)",
+        "url": "https://open.spotify.com/album/1r8P8YMJKVD00n8VL9aRkN"
+      },
+      "artists": [
+        {
+          "name": "Lil Darkie",
+          "url": "https://open.spotify.com/artist/62F9BiUmjqeXbBztCwiX1U"
+        }
+      ],
+      "date_added": "2024-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "i have plastic in my brain (demo)",
+      "url": "https://open.spotify.com/track/6snBRPgiH4JVF1Ugd72h1Q"
+    },
+    {
+      "album": {
         "name": "i hear you",
         "url": "https://open.spotify.com/album/3pYDydGoQwm3X9EcuAM2uW"
       },
@@ -25142,7 +25196,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-08",
       "duration_ms": 216000,
       "name": "Kick Back",
       "url": "https://open.spotify.com/track/4L9SAF40SFewdrkl74b27M"
@@ -29269,6 +29323,24 @@
     },
     {
       "album": {
+        "name": "MIRAGE",
+        "url": "https://open.spotify.com/album/7ioehSC2RnKeHr9w9lpW6T"
+      },
+      "artists": [
+        {
+          "name": "Takanashi Kiara",
+          "url": "https://open.spotify.com/artist/6UCFRdg4ySMWj6O4QRKyZs"
+        }
+      ],
+      "date_added": "2024-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207297,
+      "name": "MIRAGE",
+      "url": "https://open.spotify.com/track/0aqAr8UI596cxfGt6mnqaj"
+    },
+    {
+      "album": {
         "name": "mis minuga saab?",
         "url": "https://open.spotify.com/album/7v3vJ0miY4LIA2PDEXod9v"
       },
@@ -32236,6 +32308,24 @@
       "duration_ms": 112243,
       "name": "nothing like uuu",
       "url": "https://open.spotify.com/track/7tHXd3CsT7VGZAJ5Jkqt61"
+    },
+    {
+      "album": {
+        "name": "Nothing Would Change",
+        "url": "https://open.spotify.com/album/3kQY3Ha4otCRlvzukPPNaH"
+      },
+      "artists": [
+        {
+          "name": "The Linda Lindas",
+          "url": "https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5"
+        }
+      ],
+      "date_added": "2024-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203774,
+      "name": "Nothing Would Change",
+      "url": "https://open.spotify.com/track/3o3f9agMiUxMGm4p60Ni3b"
     },
     {
       "album": {
@@ -42430,7 +42520,7 @@
       ],
       "date_added": "2024-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-08",
       "duration_ms": 123428,
       "name": "sTrUt nAtIoN",
       "url": "https://open.spotify.com/track/50ucvP3G2DPitoGdOmX48L"
@@ -43190,6 +43280,24 @@
       "duration_ms": 190082,
       "name": "Survive",
       "url": "https://open.spotify.com/track/73tkSQwquOdhj0hLrMoMCM"
+    },
+    {
+      "album": {
+        "name": "Sushi Glory Hole",
+        "url": "https://open.spotify.com/album/5R7A1l3W61lzi3dgtJag6N"
+      },
+      "artists": [
+        {
+          "name": "The Lonely Island",
+          "url": "https://open.spotify.com/artist/1f5GqyOPo0CkotzzRwviBu"
+        }
+      ],
+      "date_added": "2024-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142277,
+      "name": "Sushi Glory Hole",
+      "url": "https://open.spotify.com/track/53XgmXQW5eYDdeTUHd9ueC"
     },
     {
       "album": {
@@ -49110,7 +49218,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-08",
       "duration_ms": 233463,
       "name": "Water",
       "url": "https://open.spotify.com/track/3ebSIk0NkIExw1II0trZOs"
@@ -51382,7 +51490,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-08",
       "duration_ms": 234886,
       "name": "You Go Your Way",
       "url": "https://open.spotify.com/track/35jE2icc2pV4QDgbJiYMUe"
@@ -51578,7 +51686,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-08",
       "duration_ms": 183732,
       "name": "You're Always High",
       "url": "https://open.spotify.com/track/6YB79a954f6nzfYCkX8sXB"
@@ -52456,6 +52564,24 @@
       "duration_ms": 199000,
       "name": "\u30a2\u30a6\u30c8",
       "url": "https://open.spotify.com/track/0YMfHLifgez6XrLKrUfo1k"
+    },
+    {
+      "album": {
+        "name": "\u30a2\u30dd\u30ea\u30a2",
+        "url": "https://open.spotify.com/album/4AucYbX9MX5phmTpawxEfo"
+      },
+      "artists": [
+        {
+          "name": "\u30e8\u30eb\u30b7\u30ab",
+          "url": "https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik"
+        }
+      ],
+      "date_added": "2024-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230209,
+      "name": "\u30a2\u30dd\u30ea\u30a2",
+      "url": "https://open.spotify.com/track/7ugSlmtBWNMAgTpdvBPcIh"
     },
     {
       "album": {

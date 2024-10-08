@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6r25lY14UGk.md) - [plain]
 
 > New releases for the kids\. Cover: Lisa Loeb
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,889 likes - 249 songs - 10 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,947 likes - 249 songs - 10 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

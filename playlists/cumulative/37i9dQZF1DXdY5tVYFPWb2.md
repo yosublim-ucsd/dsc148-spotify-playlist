@@ -4,7 +4,7 @@
 
 > 再び脚光を浴びる日本のシティ・ポップの今をお届けします。
 
-864 songs - 2 day 8 hr 55 min
+865 songs - 2 day 8 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -409,6 +409,7 @@
 | [saekdallian](https://open.spotify.com/track/6i2bypuzfzhz5CSCMQl22K) | [ultramodernista](https://open.spotify.com/artist/4Plrerc3e2ZuY5kLT2dbRZ) | [saekdallian](https://open.spotify.com/album/74kaiVuHhGXXLEOxAieZMR) | 3:24 | 2022-05-24 | 2022-06-01 |
 | [Saihate](https://open.spotify.com/track/1jcSB32MP8GhWnqfLRndIJ) | [APOGEE](https://open.spotify.com/artist/5vLL9VcCC2y13B2BKs2uWI) | [Saihate](https://open.spotify.com/album/71QVVWnO8BDQIkBLD1U1ex) | 3:44 | 2022-11-08 | 2022-11-16 |
 | [Saitei Na Drama](https://open.spotify.com/track/01yyhN908OiuvbFjCtBBXA) | [中島雄士](https://open.spotify.com/artist/2FRIJWTtnozd9tZ0jH8CmN) | [Saitei Na Drama](https://open.spotify.com/album/5bfDxgPMtsIbWp6Rj5TPPZ) | 3:45 | 2023-02-26 | 2023-03-01 |
+| [sanagi](https://open.spotify.com/track/1Za4ziatjztmnabABlmqfe) | [新東京](https://open.spotify.com/artist/4z1tFGABx36ganyB3MZEK0) | [sanagi](https://open.spotify.com/album/03slNGQYgZzvdeWvOKzZR3) | 3:18 | 2024-09-25 |  |
 | [SANDIE](https://open.spotify.com/track/5q5guN8XfOeRUnzVBcXcRt) | [Michael Kaneko](https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb), [Yu Sakai](https://open.spotify.com/artist/2rgC29v3ZYaGgbzPGh3d9Y) | [SANDIE](https://open.spotify.com/album/2BsnkWZSqQsMHxz9zx915T) | 4:47 | 2022-05-24 | 2023-03-22 |
 | [Sanzameku](https://open.spotify.com/track/09rGKRSeUIxhbD6AIJoJDK) | [新東京](https://open.spotify.com/artist/4z1tFGABx36ganyB3MZEK0) | [Sanzameku](https://open.spotify.com/album/6aQcVCTEE1ps7pME44kVpO) | 3:05 | 2024-01-30 | 2024-02-09 |
 | [Sanzameku](https://open.spotify.com/track/0XWKTGEZy1UxKERL4ZuPEz) | [新東京](https://open.spotify.com/artist/4z1tFGABx36ganyB3MZEK0) | [NEO TOKYO METRO](https://open.spotify.com/album/3QmE1SZpwTswgKFSIBkuuv) | 3:05 | 2024-02-06 | 2024-02-14 |
@@ -786,7 +787,7 @@
 | [戸締り](https://open.spotify.com/track/6XqO5DFqYqfnnfL9v3p2C9) | [マコトコンドウ](https://open.spotify.com/artist/5LGNw6Zr6yaFM9px1QiTwc) | [戸締り](https://open.spotify.com/album/7bscDKI7Wg6R6WVu5GqxRk) | 2:33 | 2022-08-30 | 2022-09-07 |
 | [接吻 \(feat\. ひかり & MELRAW\)](https://open.spotify.com/track/3VV4tTyh2wm5e1f3iz7qGR) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [ひかり](https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc), [MELRAW](https://open.spotify.com/artist/6yFRg2uyPmQP8XfwTrnE6N) | [接吻 \(feat\. ひかり & MELRAW\)](https://open.spotify.com/album/4I1YDrFEUJO6l0Oy3jsgcR) | 4:45 | 2022-11-08 | 2023-07-05 |
 | [播磨無呼吸症候群](https://open.spotify.com/track/75nV8OPII60tvnNTIV4kxf) | [ちたへんりー](https://open.spotify.com/artist/6xSuKSmaiLEgoRt2tHeL1R) | [播磨無呼吸症候群](https://open.spotify.com/album/5Z1t3D7IGeYtueUlGQpqsO) | 3:07 | 2022-12-13 | 2022-12-15 |
-| [散る散る満ちる](https://open.spotify.com/track/5N8xU3TeSLHgS0Xxb4a8zA) | [鷲尾伶菜](https://open.spotify.com/artist/5tPnjobKr6FSEmuXRrrWyf) | [Just Wanna Sing](https://open.spotify.com/album/293T7KIVbF4NP9V2ajY0a5) | 4:12 | 2023-11-10 |  |
+| [散る散る満ちる](https://open.spotify.com/track/5N8xU3TeSLHgS0Xxb4a8zA) | [鷲尾伶菜](https://open.spotify.com/artist/5tPnjobKr6FSEmuXRrrWyf) | [Just Wanna Sing](https://open.spotify.com/album/293T7KIVbF4NP9V2ajY0a5) | 4:12 | 2023-11-10 | 2024-10-08 |
 | [新天翔](https://open.spotify.com/track/7IfDZEJJFoNBZK8cEzq0eW) | [Chapman](https://open.spotify.com/artist/1aqjLhOgvZBtaI6Sh1PNEi) | [ESCAPE](https://open.spotify.com/album/3rTIONGx0luotULInSH6bE) | 3:57 | 2022-12-13 | 2023-01-11 |
 | [日本ロマンチック街道](https://open.spotify.com/track/1LIQegVNgGEUbOx08pBu1o) | [sucola](https://open.spotify.com/artist/7L6CL6GiXxBDPeeV8eoWrZ) | [日本ロマンチック街道](https://open.spotify.com/album/0kZ3rzCgH0skz6SR3CvG5P) | 3:45 | 2022-11-30 | 2022-12-07 |
 | [春](https://open.spotify.com/track/0DIWUR6OVSleuWmPO5Dj2U) | [マダラメスルメ](https://open.spotify.com/artist/0Hv3B7rOi2DQN1lWaEH1JP) | [春](https://open.spotify.com/album/73YxeGPir2kRtW2welidV5) | 4:27 | 2022-06-16 | 2022-06-18 |

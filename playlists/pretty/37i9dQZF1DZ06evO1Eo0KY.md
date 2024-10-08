@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Eo0KY.md) - [plain]
 
 > This is Nicholas Craven\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 484 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 485 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Eo0KY.md) - [plain]
 | 49 | [Across 110 Street \(feat\. Nick Grant\)](https://open.spotify.com/track/34u4ZDgELm7pQ3Z3etm5QS) | [Ransom](https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4), [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB), [Nick Grant](https://open.spotify.com/artist/2QOP6zKx1d0gGEtuuXOvJ3) | [Directors Cut 4](https://open.spotify.com/album/0dp06Yn0DusNEeKYNX3zuv) | 3:16 |
 | 50 | [Enemy Of The State \(feat\. Crooked I\)](https://open.spotify.com/track/6dTl3wT3lDqWEqfasCcqKo) | [Ransom](https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4), [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB), [KXNG Crooked](https://open.spotify.com/artist/6fFfnKGVI6X3lkCr8Qw1g1) | [Directors Cut 4](https://open.spotify.com/album/0dp06Yn0DusNEeKYNX3zuv) | 3:04 |
 
-Snapshot ID: `ZwCBgAAAAADbKizvbiK2kkpskHgQesL4`
+Snapshot ID: `ZwHTAAAAAACRPr1Wz0OewXLOQwW1J6ZF`

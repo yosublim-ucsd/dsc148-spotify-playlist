@@ -1,12 +1,12 @@
 {
   "description": "This Is Ariel Camacho y Los Plebes Del Rancho. Los temas esenciales, todos en una lista.",
-  "num_followers": 415632,
+  "num_followers": 415673,
   "original_name": "This Is Ariel Camacho y Los Plebes Del Rancho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwCBgAAAAADv4V6RFQA0e0A296MuwCsP",
+  "snapshot_id": "ZwHTAAAAAADEv/NjQ+xX1uh7u+msul/7",
   "tracks": [
     {
       "added_at": null,
@@ -375,22 +375,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Relatos de Jefes",
-        "url": "https://open.spotify.com/album/4k2TGFs6r9LSWdDk86Wg6o"
+        "name": "Fiesta En El Cielo Vol 1",
+        "url": "https://open.spotify.com/album/6BpFZZ5mmQAXYO8r33wpWc"
       },
       "artists": [
-        {
-          "name": "Jos\u00e9 Guicho",
-          "url": "https://open.spotify.com/artist/7IiCm7VkqzW7vN0MY9AzHe"
-        },
         {
           "name": "Ariel Camacho y Los Plebes Del Rancho",
           "url": "https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul"
         }
       ],
-      "duration_ms": 211533,
-      "name": "El Guero de Guamuchil",
-      "url": "https://open.spotify.com/track/07Elm8YRCmlAZcz8YVA7dV"
+      "duration_ms": 151640,
+      "name": "Pedro Antrax",
+      "url": "https://open.spotify.com/track/3tnNw3TIZGjaj4vyAUUytO"
     },
     {
       "added_at": null,
@@ -427,18 +423,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fiesta En El Cielo Vol 1",
-        "url": "https://open.spotify.com/album/6BpFZZ5mmQAXYO8r33wpWc"
+        "name": "Relatos de Jefes",
+        "url": "https://open.spotify.com/album/4k2TGFs6r9LSWdDk86Wg6o"
       },
       "artists": [
+        {
+          "name": "Jos\u00e9 Guicho",
+          "url": "https://open.spotify.com/artist/7IiCm7VkqzW7vN0MY9AzHe"
+        },
         {
           "name": "Ariel Camacho y Los Plebes Del Rancho",
           "url": "https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul"
         }
       ],
-      "duration_ms": 151640,
-      "name": "Pedro Antrax",
-      "url": "https://open.spotify.com/track/3tnNw3TIZGjaj4vyAUUytO"
+      "duration_ms": 211533,
+      "name": "El Guero de Guamuchil",
+      "url": "https://open.spotify.com/track/07Elm8YRCmlAZcz8YVA7dV"
     },
     {
       "added_at": null,

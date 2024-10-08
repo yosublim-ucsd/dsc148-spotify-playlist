@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DZ06evO3F1zmg.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO3F1zmg) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO3F1zmg)
 
-### [This is Saweetie](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3F1zmg)
+### [This Is Saweetie](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3F1zmg)
 
-> This is Saweetie\. De essentiële nummers, allemaal in één playlist.
+> This Is Saweetie\. Los temas esenciales, todos en una lista.
 
 94 songs - 4 hr 22 min
 

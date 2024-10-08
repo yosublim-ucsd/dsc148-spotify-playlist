@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-06-19",
-  "description": "This Is Engel Montaz. Los temas esenciales, todos en una lista.",
+  "description": "This is Engel Montaz. The essential tracks, all in one playlist.",
   "name": "This Is Engel Montaz",
   "tracks": [
     {
@@ -252,6 +252,28 @@
     {
       "album": {
         "name": "El Puto Amo",
+        "url": "https://open.spotify.com/album/1xMFZBrLV4pHPRg9c035ig"
+      },
+      "artists": [
+        {
+          "name": "Engel Montaz",
+          "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
+        },
+        {
+          "name": "DJ 22",
+          "url": "https://open.spotify.com/artist/34awN2WoMVzgNPPjD1UgNT"
+        }
+      ],
+      "date_added": "2024-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126205,
+      "name": "El Puto Amo",
+      "url": "https://open.spotify.com/track/1WLIqSVfUhrcgguFW7fgLp"
+    },
+    {
+      "album": {
+        "name": "El Puto Amo",
         "url": "https://open.spotify.com/album/4ngKdCMeTk0YiwvN0AF73F"
       },
       "artists": [
@@ -274,7 +296,7 @@
       ],
       "date_added": "2024-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-08",
       "duration_ms": 126205,
       "name": "El Puto Amo",
       "url": "https://open.spotify.com/track/2hviRulzUw0GzrMUmNsYcx"
@@ -344,10 +366,36 @@
       ],
       "date_added": "2024-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-08",
       "duration_ms": 178369,
       "name": "irango",
       "url": "https://open.spotify.com/track/0LCPpwbmIC5zrlnAqqEKiS"
+    },
+    {
+      "album": {
+        "name": "irango",
+        "url": "https://open.spotify.com/album/2nLXzlMA1g8AOSPboDfbxJ"
+      },
+      "artists": [
+        {
+          "name": "Engel Montaz",
+          "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
+        },
+        {
+          "name": "Dj Astilo",
+          "url": "https://open.spotify.com/artist/7zxmgQASpOUVux7JhFHlLK"
+        },
+        {
+          "name": "El Bloonel",
+          "url": "https://open.spotify.com/artist/78CU7fjwAyxSX6DJFT2khV"
+        }
+      ],
+      "date_added": "2024-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178369,
+      "name": "irango",
+      "url": "https://open.spotify.com/track/4oXK3uJN2uEWy6E8IIX6vm"
     },
     {
       "album": {
@@ -542,10 +590,36 @@
       ],
       "date_added": "2024-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-08",
       "duration_ms": 198231,
       "name": "Olvidando el pasado",
       "url": "https://open.spotify.com/track/67DMzakKxJSRiambD0Lk9F"
+    },
+    {
+      "album": {
+        "name": "Olvidando el pasado",
+        "url": "https://open.spotify.com/album/5swUIdqddJrIsrMALM6fmb"
+      },
+      "artists": [
+        {
+          "name": "Engel Montaz",
+          "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
+        },
+        {
+          "name": "Latinnites Music",
+          "url": "https://open.spotify.com/artist/0c0Yh1P4gMYmDwebhyzIDv"
+        },
+        {
+          "name": "Kuv507",
+          "url": "https://open.spotify.com/artist/0kwa5ELbi8xm7vbwywoLtg"
+        }
+      ],
+      "date_added": "2024-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198231,
+      "name": "Olvidando el pasado",
+      "url": "https://open.spotify.com/track/0cTbIsZvSVAvZ3Jv6xOAIN"
     },
     {
       "album": {
@@ -722,10 +796,28 @@
       ],
       "date_added": "2024-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-08",
       "duration_ms": 206785,
       "name": "Provoca",
       "url": "https://open.spotify.com/track/2E59zaPJmV79zkp4iBqGws"
+    },
+    {
+      "album": {
+        "name": "Provoca",
+        "url": "https://open.spotify.com/album/6Vpw9MNSptK2JZsmSsJWEJ"
+      },
+      "artists": [
+        {
+          "name": "Engel Montaz",
+          "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
+        }
+      ],
+      "date_added": "2024-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206785,
+      "name": "Provoca",
+      "url": "https://open.spotify.com/track/2Y465FoRY9L9mKVHn325Zm"
     },
     {
       "album": {
@@ -774,6 +866,24 @@
     {
       "album": {
         "name": "Ruta",
+        "url": "https://open.spotify.com/album/7cwZSJ1S17yteGVQpML2Bx"
+      },
+      "artists": [
+        {
+          "name": "Engel Montaz",
+          "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
+        }
+      ],
+      "date_added": "2024-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150508,
+      "name": "Ruta",
+      "url": "https://open.spotify.com/track/4rNX5hOw4IAPuSlEZ71m5i"
+    },
+    {
+      "album": {
+        "name": "Ruta",
         "url": "https://open.spotify.com/album/3k0gIhjXx4wEmDndAl4sAw"
       },
       "artists": [
@@ -784,7 +894,7 @@
       ],
       "date_added": "2024-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-08",
       "duration_ms": 150508,
       "name": "Ruta",
       "url": "https://open.spotify.com/track/7nSIBXVKbPCStdV3pCkkfy"

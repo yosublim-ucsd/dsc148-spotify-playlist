@@ -1,12 +1,12 @@
 {
   "description": "This is Mastodon. The essential tracks, all in one playlist.",
-  "num_followers": 56521,
+  "num_followers": 56529,
   "original_name": "This Is Mastodon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwCBgAAAAABJKiH392Ag7vSJQYFbIOex",
+  "snapshot_id": "ZwHTAAAAAACWSXZS7zMaJCYw1QbPRYbH",
   "tracks": [
     {
       "added_at": null,
@@ -351,6 +351,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Crack the Skye (15th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/22BMsIMHQ5TayHOJvjF4y4"
+      },
+      "artists": [
+        {
+          "name": "Mastodon",
+          "url": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
+        }
+      ],
+      "duration_ms": 327248,
+      "name": "Quintessence - 2024 Remaster",
+      "url": "https://open.spotify.com/track/39EcADFCwesDWcMleYBYzb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hushed and Grim",
         "url": "https://open.spotify.com/album/5xnZl7sdxxIb4rkDcbD4IC"
       },
@@ -383,22 +399,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Emperor of Sand",
-        "url": "https://open.spotify.com/album/1VzmKgEG38fsUBZVe15wuF"
-      },
-      "artists": [
-        {
-          "name": "Mastodon",
-          "url": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
-        }
-      ],
-      "duration_ms": 294440,
-      "name": "Ancient Kingdom",
-      "url": "https://open.spotify.com/track/0k8CNAD5ADcMCOdTOMxUHk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Once More 'Round the Sun",
         "url": "https://open.spotify.com/album/7mEkBi9a2p2f1WQbnH8Qk5"
       },
@@ -411,6 +411,22 @@
       "duration_ms": 299066,
       "name": "Ember City",
       "url": "https://open.spotify.com/track/6rjuwrocj624fmnVvPTzAP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Emperor of Sand",
+        "url": "https://open.spotify.com/album/1VzmKgEG38fsUBZVe15wuF"
+      },
+      "artists": [
+        {
+          "name": "Mastodon",
+          "url": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
+        }
+      ],
+      "duration_ms": 294440,
+      "name": "Ancient Kingdom",
+      "url": "https://open.spotify.com/track/0k8CNAD5ADcMCOdTOMxUHk"
     },
     {
       "added_at": null,
@@ -447,22 +463,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Emperor of Sand",
-        "url": "https://open.spotify.com/album/1VzmKgEG38fsUBZVe15wuF"
-      },
-      "artists": [
-        {
-          "name": "Mastodon",
-          "url": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
-        }
-      ],
-      "duration_ms": 388200,
-      "name": "Roots Remain",
-      "url": "https://open.spotify.com/track/5llEJFL6NzKYgMTEb68XtL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Crack the Skye",
         "url": "https://open.spotify.com/album/2W2nqEKXWBorbq5yvm3jZg"
       },
@@ -475,6 +475,22 @@
       "duration_ms": 324786,
       "name": "Ghost of Karelia",
       "url": "https://open.spotify.com/track/2VzyWKHUmuxUq7J7I8wbng"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Emperor of Sand",
+        "url": "https://open.spotify.com/album/1VzmKgEG38fsUBZVe15wuF"
+      },
+      "artists": [
+        {
+          "name": "Mastodon",
+          "url": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
+        }
+      ],
+      "duration_ms": 388200,
+      "name": "Roots Remain",
+      "url": "https://open.spotify.com/track/5llEJFL6NzKYgMTEb68XtL"
     },
     {
       "added_at": null,
@@ -651,22 +667,6 @@
       "duration_ms": 265653,
       "name": "March of the Fire Ants",
       "url": "https://open.spotify.com/track/5SoTqdQPiBu4XmZyXeNs4M"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Crack the Skye",
-        "url": "https://open.spotify.com/album/2W2nqEKXWBorbq5yvm3jZg"
-      },
-      "artists": [
-        {
-          "name": "Mastodon",
-          "url": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
-        }
-      ],
-      "duration_ms": 327480,
-      "name": "Quintessence",
-      "url": "https://open.spotify.com/track/7n2K9HW8OhwFpWEdzeYu79"
     },
     {
       "added_at": null,

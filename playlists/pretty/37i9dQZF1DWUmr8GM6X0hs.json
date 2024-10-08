@@ -1,6 +1,6 @@
 {
   "description": "El inolvidable sonido del amor nunca hab\u00eda estado tan cerca de ti.",
-  "num_followers": 89043,
+  "num_followers": 89064,
   "original_name": "Boleros en Casa",
   "owner": {
     "name": "Spotify",
@@ -411,6 +411,22 @@
     {
       "added_at": "2024-06-25 17:49:34",
       "album": {
+        "name": "Doble Filo",
+        "url": "https://open.spotify.com/album/0Dc2VpMZLD3dg7yZD7oTUA"
+      },
+      "artists": [
+        {
+          "name": "Rub\u00e9n Blades",
+          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
+        }
+      ],
+      "duration_ms": 314773,
+      "name": "Privilegio",
+      "url": "https://open.spotify.com/track/3KhoUV7LX6qKjnXBXvMoct"
+    },
+    {
+      "added_at": "2024-06-25 17:49:34",
+      "album": {
         "name": "Vicentico Vald\u00e9s Con La Sonora Matancera",
         "url": "https://open.spotify.com/album/4ZlrS11JlhwkbtJ3fOglIS"
       },
@@ -431,22 +447,6 @@
     {
       "added_at": "2024-06-25 17:49:34",
       "album": {
-        "name": "Doble Filo",
-        "url": "https://open.spotify.com/album/0Dc2VpMZLD3dg7yZD7oTUA"
-      },
-      "artists": [
-        {
-          "name": "Rub\u00e9n Blades",
-          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
-        }
-      ],
-      "duration_ms": 314773,
-      "name": "Privilegio",
-      "url": "https://open.spotify.com/track/3KhoUV7LX6qKjnXBXvMoct"
-    },
-    {
-      "added_at": "2024-06-25 17:49:34",
-      "album": {
         "name": "Canta Sus Exitos",
         "url": "https://open.spotify.com/album/7uCFS6G1cwDikioDJhFHO2"
       },
@@ -463,22 +463,6 @@
     {
       "added_at": "2024-06-25 17:49:34",
       "album": {
-        "name": "Las Estrellas De La Matancera",
-        "url": "https://open.spotify.com/album/1NfEP5Vfe1Pvxr6fcshVP1"
-      },
-      "artists": [
-        {
-          "name": "Celio Gonzalez",
-          "url": "https://open.spotify.com/artist/17fQCVwjvlCEIr3T1dLg5y"
-        }
-      ],
-      "duration_ms": 137826,
-      "name": "En El Balcon Aquel",
-      "url": "https://open.spotify.com/track/0RG50rC99tTOBv81mcB5Qt"
-    },
-    {
-      "added_at": "2024-06-25 17:49:34",
-      "album": {
         "name": "Benny Mor\u00e9 M\u00e1gico",
         "url": "https://open.spotify.com/album/6eR6hzbY2nRAOEn04Ckixb"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 178626,
       "name": "Como Fu\u00e9",
       "url": "https://open.spotify.com/track/7yvBuMGvWigRvJgwtKEPLD"
+    },
+    {
+      "added_at": "2024-06-25 17:49:34",
+      "album": {
+        "name": "Las Estrellas De La Matancera",
+        "url": "https://open.spotify.com/album/1NfEP5Vfe1Pvxr6fcshVP1"
+      },
+      "artists": [
+        {
+          "name": "Celio Gonzalez",
+          "url": "https://open.spotify.com/artist/17fQCVwjvlCEIr3T1dLg5y"
+        }
+      ],
+      "duration_ms": 137826,
+      "name": "En El Balcon Aquel",
+      "url": "https://open.spotify.com/track/0RG50rC99tTOBv81mcB5Qt"
     },
     {
       "added_at": "2024-06-25 17:49:34",
@@ -631,22 +631,6 @@
     {
       "added_at": "2024-06-25 17:49:34",
       "album": {
-        "name": "Poker de Ases",
-        "url": "https://open.spotify.com/album/2vbLzJhA0KgGveLxp1qnnK"
-      },
-      "artists": [
-        {
-          "name": "Guiller",
-          "url": "https://open.spotify.com/artist/05qMOtzCy90GhGIvelpvaF"
-        }
-      ],
-      "duration_ms": 184013,
-      "name": "El Hijo Var\u00f3n",
-      "url": "https://open.spotify.com/track/7zCthbWs5OjnpXl9pMfmxy"
-    },
-    {
-      "added_at": "2024-06-25 17:49:34",
-      "album": {
         "name": "Rom\u00e1ntica",
         "url": "https://open.spotify.com/album/4BEpMDJEtdYszrAtlgCOnp"
       },
@@ -663,18 +647,18 @@
     {
       "added_at": "2024-06-25 17:49:34",
       "album": {
-        "name": "Pedrito Otiniano y Sus Exitos",
-        "url": "https://open.spotify.com/album/37tYAxmi3FWqBFjVl46F75"
+        "name": "Poker de Ases",
+        "url": "https://open.spotify.com/album/2vbLzJhA0KgGveLxp1qnnK"
       },
       "artists": [
         {
-          "name": "Pedrito Otiniano",
-          "url": "https://open.spotify.com/artist/6wRjkV95z5xfzG7Yd9eOvG"
+          "name": "Guiller",
+          "url": "https://open.spotify.com/artist/05qMOtzCy90GhGIvelpvaF"
         }
       ],
-      "duration_ms": 171693,
-      "name": "Kio",
-      "url": "https://open.spotify.com/track/3ns4FKqAax76kulOxWSZdC"
+      "duration_ms": 184013,
+      "name": "El Hijo Var\u00f3n",
+      "url": "https://open.spotify.com/track/7zCthbWs5OjnpXl9pMfmxy"
     },
     {
       "added_at": "2024-06-25 17:49:34",
@@ -707,6 +691,22 @@
       "duration_ms": 165840,
       "name": "Canta Canta",
       "url": "https://open.spotify.com/track/6FmscChYXXYOYMrwMt6CZr"
+    },
+    {
+      "added_at": "2024-06-25 17:49:34",
+      "album": {
+        "name": "Pedrito Otiniano y Sus Exitos",
+        "url": "https://open.spotify.com/album/37tYAxmi3FWqBFjVl46F75"
+      },
+      "artists": [
+        {
+          "name": "Pedrito Otiniano",
+          "url": "https://open.spotify.com/artist/6wRjkV95z5xfzG7Yd9eOvG"
+        }
+      ],
+      "duration_ms": 171693,
+      "name": "Kio",
+      "url": "https://open.spotify.com/track/3ns4FKqAax76kulOxWSZdC"
     },
     {
       "added_at": "2024-06-25 17:49:34",
@@ -775,22 +775,6 @@
     {
       "added_at": "2024-06-25 17:49:34",
       "album": {
-        "name": "Grandes del Bolero",
-        "url": "https://open.spotify.com/album/0tazysjvIraPaJRG2StAjw"
-      },
-      "artists": [
-        {
-          "name": "Franklin Cabrejos",
-          "url": "https://open.spotify.com/artist/2P2hO7D86NyPtMfxThbisN"
-        }
-      ],
-      "duration_ms": 169880,
-      "name": "Cruel Condena",
-      "url": "https://open.spotify.com/track/5AQ5R9Aub1g5b8ZGapJtSX"
-    },
-    {
-      "added_at": "2024-06-25 17:49:34",
-      "album": {
         "name": "M\u00e1s Recuerdos Rom\u00e1nticos",
         "url": "https://open.spotify.com/album/5DwgXMZWtaRTXfykSwPNVV"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 278040,
       "name": "As\u00ed",
       "url": "https://open.spotify.com/track/4Est2AoCaL1zVMmU78Qw3H"
+    },
+    {
+      "added_at": "2024-06-25 17:49:34",
+      "album": {
+        "name": "Grandes del Bolero",
+        "url": "https://open.spotify.com/album/0tazysjvIraPaJRG2StAjw"
+      },
+      "artists": [
+        {
+          "name": "Franklin Cabrejos",
+          "url": "https://open.spotify.com/artist/2P2hO7D86NyPtMfxThbisN"
+        }
+      ],
+      "duration_ms": 169880,
+      "name": "Cruel Condena",
+      "url": "https://open.spotify.com/track/5AQ5R9Aub1g5b8ZGapJtSX"
     },
     {
       "added_at": "2024-06-25 17:49:34",

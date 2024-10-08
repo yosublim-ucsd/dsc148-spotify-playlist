@@ -651,6 +651,24 @@
     },
     {
       "album": {
+        "name": "Bussola",
+        "url": "https://open.spotify.com/album/2L2CobvKIAi6LVlhIiDkpw"
+      },
+      "artists": [
+        {
+          "name": "j nova",
+          "url": "https://open.spotify.com/artist/3PGcpsKERtLQ8PxfrzmGFl"
+        }
+      ],
+      "date_added": "2024-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201600,
+      "name": "Bussola",
+      "url": "https://open.spotify.com/track/3qIopFVs9HXdr0jNzowlKV"
+    },
+    {
+      "album": {
         "name": "Cani",
         "url": "https://open.spotify.com/album/0pkNsZwZf0jqtTERh14y0C"
       },
@@ -1989,6 +2007,24 @@
     },
     {
       "album": {
+        "name": "LONTANO DA TUTTO",
+        "url": "https://open.spotify.com/album/29ehCxzxREyf0z4zKoYQsp"
+      },
+      "artists": [
+        {
+          "name": "Rondine",
+          "url": "https://open.spotify.com/artist/0ybsH7NdFE3WlOIupTRm9l"
+        }
+      ],
+      "date_added": "2024-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "LONTANO DA TUTTO",
+      "url": "https://open.spotify.com/track/2ba7fBRDrqrXYmgHa81Pdx"
+    },
+    {
+      "album": {
         "name": "loop",
         "url": "https://open.spotify.com/album/7cAHykwJrXzjQeZe3aCu6m"
       },
@@ -3183,6 +3219,24 @@
     },
     {
       "album": {
+        "name": "pugnale",
+        "url": "https://open.spotify.com/album/0pLQPcAenfatBUnPjYQu12"
+      },
+      "artists": [
+        {
+          "name": "Ottobre",
+          "url": "https://open.spotify.com/artist/5X5IPqmCHjrWRShSmQ60Sp"
+        }
+      ],
+      "date_added": "2024-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120365,
+      "name": "pugnale",
+      "url": "https://open.spotify.com/track/0zBnqDWkGtWDMYOjnm7wts"
+    },
+    {
+      "album": {
         "name": "Quasi A Casa - Original Motion Picture Soundtrack",
         "url": "https://open.spotify.com/album/2lgLRSgU1jxeZVBIyGpGi5"
       },
@@ -3212,10 +3266,28 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-05",
+      "date_removed": null,
       "duration_ms": 165709,
       "name": "quasi nuda",
       "url": "https://open.spotify.com/track/317eSzpK6SiEUiqTtke6Jk"
+    },
+    {
+      "album": {
+        "name": "RED",
+        "url": "https://open.spotify.com/album/2Ddi22NvLWIP9MUAYqEil5"
+      },
+      "artists": [
+        {
+          "name": "STE",
+          "url": "https://open.spotify.com/artist/16i7FBlZiqIoL0E5NzzLWz"
+        }
+      ],
+      "date_added": "2024-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134302,
+      "name": "RED",
+      "url": "https://open.spotify.com/track/0jwm30oXN08kVO9JwqrCPL"
     },
     {
       "album": {

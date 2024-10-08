@@ -2,7 +2,7 @@
 
 ### [Fresh Country](https://open.spotify.com/playlist/37i9dQZF1DWXepGEFFmQXJ)
 
-> The cream of today's Country crop\. Cover: Nate Smith
+> The cream of today's Country crop\. Cover: Nate Smith, Avril Lavigne
 
 788 songs - 1 day 19 hr 15 min
 

@@ -708,6 +708,6 @@
 | [Älä vihaa mua](https://open.spotify.com/track/0PGTUDrfpzx8bzY4tHYBx0) | [James\-J](https://open.spotify.com/artist/26bXkdCOQ0zRgxWgGOkkg1) | [Älä vihaa mua](https://open.spotify.com/album/4s5geeRpjBxi4gTnQ97Y9h) | 2:24 | 2024-01-18 | 2024-02-02 |
 | [Ärsyttävä](https://open.spotify.com/track/6Wi8ubwyHMnwjCJxTmoEfJ) | [AHTI](https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK) | [Ärsyttävä](https://open.spotify.com/album/06oUPbFhbOhSePYf6paXqX) | 2:38 | 2024-09-05 |  |
 | [“Leipä”](https://open.spotify.com/track/2gxiSlbY5NrLlnp9xVU7Mx) | [Cledos](https://open.spotify.com/artist/0xbbe6a1x6g5eGBQfzjWSe) | [“Leipä”](https://open.spotify.com/album/6xUWu3p1I1XMoJcoTvDH73) | 1:46 | 2024-04-18 | 2024-05-10 |
-| [⁠Kaunotar ja Kulkuri \(feat\. KIKI\)](https://open.spotify.com/track/1wgxN8TeKxMHx9MCCIVDbA) | [NOTO](https://open.spotify.com/artist/3aXzx5ES0capjaDyvYsdRI), [KIKI](https://open.spotify.com/artist/2A3UPT7S17kkDFwCKfQ6ez) | [NOTORIUS](https://open.spotify.com/album/6Db6D3qhAq6FdtcpN9XKy8) | 2:24 | 2024-09-26 |  |
+| [⁠Kaunotar ja Kulkuri \(feat\. KIKI\)](https://open.spotify.com/track/1wgxN8TeKxMHx9MCCIVDbA) | [NOTO](https://open.spotify.com/artist/3aXzx5ES0capjaDyvYsdRI), [KIKI](https://open.spotify.com/artist/1oA7qBnZAZQ33lEteUqROx) | [NOTORIUS](https://open.spotify.com/album/6Db6D3qhAq6FdtcpN9XKy8) | 2:24 | 2024-09-26 |  |
 
 \*This playlist was first scraped on 2023-09-23. Prior content cannot be recovered.

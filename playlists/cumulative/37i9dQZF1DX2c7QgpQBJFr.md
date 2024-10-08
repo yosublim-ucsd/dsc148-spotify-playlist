@@ -4,7 +4,7 @@
 
 > Gli astri nascenti del pop italiano 🔮 Cover: Olly e Angelina Mango
 
-214 songs - 10 hr 19 min
+218 songs - 10 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Bonjour Adieu \(balla e piangi\)](https://open.spotify.com/track/0ZUMp2xPOsuWUbzapU8uef) | [Rizzo](https://open.spotify.com/artist/2ALJBMyhbGODOEpstHfEqN) | [Bonjour Adieu \(balla e piangi\)](https://open.spotify.com/album/5SWDp3JOGK60WK6aYe4qz7) | 3:22 | 2024-06-27 | 2024-07-19 |
 | [BRUTTI PENSIERI \(feat\. thasup\)](https://open.spotify.com/track/1rUo83mfLivTSRzTmu7Neg) | [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs), [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA) | [RADIO SAKURA](https://open.spotify.com/album/5MHSMa7gBXLoOGIPbNtOCo) | 3:07 | 2024-06-27 | 2024-07-05 |
 | [BUM!](https://open.spotify.com/track/38Q2xq0AONmMqvlWDaB37Q) | [Anelie](https://open.spotify.com/artist/58oZhOpjpxETOI5AORvQUF), [Kr1](https://open.spotify.com/artist/4vsRoPHf54OF5D85j8jKej) | [BUM!](https://open.spotify.com/album/4oFDMkklZca0cnkgodTTas) | 3:09 | 2024-09-12 |  |
+| [Bussola](https://open.spotify.com/track/3qIopFVs9HXdr0jNzowlKV) | [j nova](https://open.spotify.com/artist/3PGcpsKERtLQ8PxfrzmGFl) | [Bussola](https://open.spotify.com/album/2L2CobvKIAi6LVlhIiDkpw) | 3:21 | 2024-10-07 |  |
 | [Cani](https://open.spotify.com/track/2KlPQBWknO39KnCns0GoKg) | [Tamango](https://open.spotify.com/artist/79JhRQjYrn1UA8GY3SWVwI) | [Cani](https://open.spotify.com/album/0pkNsZwZf0jqtTERh14y0C) | 3:34 | 2024-06-27 | 2024-08-23 |
 | [canzone](https://open.spotify.com/track/457lwKtYBzW6SrkyGDo2Zb) | [faccianuvola](https://open.spotify.com/artist/5KVUHVqS6B5MZKXf5PXDg1) | [le stelle\* il sole; l'arcobaleno\)\)](https://open.spotify.com/album/1AZSZ1CM8Xen3FmviWh1y7) | 3:37 | 2024-06-27 | 2024-07-19 |
 | [Capricci](https://open.spotify.com/track/7oWFuUgpzKmdYQUMdxPV23) | [Casbury](https://open.spotify.com/artist/668PcUzgiF9xgYqVCgPLnJ) | [Capricci](https://open.spotify.com/album/01sIqoLlfuoAlbxPDBsbUL) | 2:40 | 2024-07-04 | 2024-08-30 |
@@ -108,6 +109,7 @@
 | [Letto Micro](https://open.spotify.com/track/7o5CX9a4vlG7eyRbb7V0Et) | [maisola](https://open.spotify.com/artist/2ctwLObzObVxJjzHCMfDM0) | [Letto Micro](https://open.spotify.com/album/5n5WqTPLkrJq7OhuZ6G9gy) | 2:29 | 2024-09-19 |  |
 | [Lily](https://open.spotify.com/track/0GhVyHeFbIj8v2s5SjAV3V) | [M.E.R.L.O.T](https://open.spotify.com/artist/061DeTQNd4aDwb6VqHq8O1), [piazzabologna](https://open.spotify.com/artist/5Sae4YeLcFZ1P75vhzUDrp) | [Lily](https://open.spotify.com/album/3BzZ4rNEMK02aMd9OmumJN) | 1:55 | 2024-09-19 |  |
 | [Limone](https://open.spotify.com/track/2iHashE3Z4XJ9iB7HIKDI5) | [chiello](https://open.spotify.com/artist/5mjasIBQQPIqA9GV2Ys61h) | [Limone](https://open.spotify.com/album/3BoKlSj5zZ3NL30CR0sTTF) | 3:40 | 2024-06-27 | 2024-07-12 |
+| [LONTANO DA TUTTO](https://open.spotify.com/track/2ba7fBRDrqrXYmgHa81Pdx) | [Rondine](https://open.spotify.com/artist/0ybsH7NdFE3WlOIupTRm9l) | [LONTANO DA TUTTO](https://open.spotify.com/album/29ehCxzxREyf0z4zKoYQsp) | 2:42 | 2024-10-07 |  |
 | [loop](https://open.spotify.com/track/73IP6x82Ew9PRuTO9zC9iT) | [MARGHERITA PRINCIPI](https://open.spotify.com/artist/0VvyCsUWH9s7uqcb24Yv7I), [aura6am](https://open.spotify.com/artist/55mMu19vJ9H8pAbgXsULmU) | [loop](https://open.spotify.com/album/7cAHykwJrXzjQeZe3aCu6m) | 3:00 | 2024-08-08 | 2024-08-30 |
 | [Lose Control](https://open.spotify.com/track/2fwXfj7GBR93VZzSkbsBz9) | [STE](https://open.spotify.com/artist/16i7FBlZiqIoL0E5NzzLWz), [Shablo](https://open.spotify.com/artist/6hkKbkZGvAXuvle2FhCnxy) | [Lose Control](https://open.spotify.com/album/02yYEogWL6PjEAsraWFj91) | 4:20 | 2024-08-22 |  |
 | [LOVESICK \(feat\. CARO WOW\)](https://open.spotify.com/track/4wTJnESTXwENnqm4sTpd6F) | [Estremo](https://open.spotify.com/artist/3L0bVe5X6KoxPPjDdL1gIM), [CARO WOW](https://open.spotify.com/artist/6kyGmHxzIq5UcqAYS6BWUs) | [LOVESICK \(feat\. CARO WOW\)](https://open.spotify.com/album/1eY2rl9gAxGakV59A2IxPj) | 2:33 | 2024-07-11 | 2024-08-30 |
@@ -169,8 +171,10 @@
 | [Piramidi](https://open.spotify.com/track/3sxc1l4kbAdHRQQeOC7PQj) | [Paul Giorgi](https://open.spotify.com/artist/0xR9GzTwiXo7mZpoqOL0pG) | [Piramidi](https://open.spotify.com/album/0rUoe7hmJhdMutnxyM8Q8X) | 3:12 | 2024-08-29 |  |
 | [Popstar](https://open.spotify.com/track/2Q1YyroZKv05BiI4P1w34w) | [LOLITA](https://open.spotify.com/artist/1uflDfFlGattqNVKCnCB8P) | [Popstar](https://open.spotify.com/album/1uxauVQqGlDlwrhO3PwYEb) | 2:34 | 2024-06-27 | 2024-07-05 |
 | [Porta Pia](https://open.spotify.com/track/3odWDhS8Pk3yIqti833UQb) | [Coca Puma](https://open.spotify.com/artist/1ByonnOisC5Owt0tfsyzGc) | [Porta Pia](https://open.spotify.com/album/27ewyS8tUv5mc6VtkB206d) | 2:55 | 2024-06-27 | 2024-07-05 |
+| [pugnale](https://open.spotify.com/track/0zBnqDWkGtWDMYOjnm7wts) | [Ottobre](https://open.spotify.com/artist/5X5IPqmCHjrWRShSmQ60Sp) | [pugnale](https://open.spotify.com/album/0pLQPcAenfatBUnPjYQu12) | 2:00 | 2024-10-07 |  |
 | [Quasi a casa](https://open.spotify.com/track/5kzB90XlmjURvXJXLDwtjX) | [Coca Puma](https://open.spotify.com/artist/1ByonnOisC5Owt0tfsyzGc) | [Quasi A Casa \- Original Motion Picture Soundtrack](https://open.spotify.com/album/2lgLRSgU1jxeZVBIyGpGi5) | 5:09 | 2024-09-05 |  |
-| [quasi nuda](https://open.spotify.com/track/317eSzpK6SiEUiqTtke6Jk) | [centomilacarie](https://open.spotify.com/artist/0SqAMjiB62nTuKn7DHctSa) | [quasi nuda](https://open.spotify.com/album/7zQ1TolEtgUbGMOAZpp1Vn) | 2:45 | 2024-06-27 | 2024-07-05 |
+| [quasi nuda](https://open.spotify.com/track/317eSzpK6SiEUiqTtke6Jk) | [centomilacarie](https://open.spotify.com/artist/0SqAMjiB62nTuKn7DHctSa) | [quasi nuda](https://open.spotify.com/album/7zQ1TolEtgUbGMOAZpp1Vn) | 2:45 | 2024-06-27 |  |
+| [RED](https://open.spotify.com/track/0jwm30oXN08kVO9JwqrCPL) | [STE](https://open.spotify.com/artist/16i7FBlZiqIoL0E5NzzLWz) | [RED](https://open.spotify.com/album/2Ddi22NvLWIP9MUAYqEil5) | 2:14 | 2024-10-07 |  |
 | [REQUIEM](https://open.spotify.com/track/329qNAEH6BYfCFC62j158Z) | [Sally Cruz](https://open.spotify.com/artist/1zdw3hXWH7Ri55SoCVt7gc), [Mike Defunto](https://open.spotify.com/artist/6uHOqShw2mIXcOK0jwnqHx) | [REQUIEM](https://open.spotify.com/album/2W09xIZ63nBstT9nLW2mAu) | 2:31 | 2024-06-27 |  |
 | [Rey Mysterio](https://open.spotify.com/track/0jFXK09KbehR0Ycc09fgWU) | [Lil Busso](https://open.spotify.com/artist/17O59ptnhN9Fgur5zIt051), [PAOLO SANTO](https://open.spotify.com/artist/1LctKa4WaoAOdFWu19LCnT) | [Rey Mysterio](https://open.spotify.com/album/2QxPncmtj8rwUvT28k5KEo) | 3:06 | 2024-10-03 |  |
 | [Ricchezza](https://open.spotify.com/track/0uKeTxLRjaRjnaggnYlxzl) | [Frada](https://open.spotify.com/artist/1khPlpMPliiZeK53WWSWXY) | [Ricchezza](https://open.spotify.com/album/2NUXQ9xiroThHs1Cz6Hqe4) | 2:18 | 2024-06-27 | 2024-08-02 |

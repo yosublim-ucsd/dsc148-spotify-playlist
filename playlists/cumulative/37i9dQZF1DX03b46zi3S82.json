@@ -5887,6 +5887,24 @@
     },
     {
       "album": {
+        "name": "The Breeze and The Wildflower",
+        "url": "https://open.spotify.com/album/6IINRvEFdsEwwk38Q3jQEO"
+      },
+      "artists": [
+        {
+          "name": "Roasting Coffee Beans",
+          "url": "https://open.spotify.com/artist/03dlT1wdnhRBavp2hsrmoY"
+        }
+      ],
+      "date_added": "2024-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165625,
+      "name": "The Breeze and The Wildflower",
+      "url": "https://open.spotify.com/track/6Plm2aAPOdsimkWZiL7VVd"
+    },
+    {
+      "album": {
         "name": "The Proposal",
         "url": "https://open.spotify.com/album/0ypm2eyyb8iwaTrCr89TwW"
       },

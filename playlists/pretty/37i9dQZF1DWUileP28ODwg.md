@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUileP28ODwg.md) - [plain]
 
 > Tune in here for new and current hits in Contemporary Christian music! Cover: <a href="spotify:artist:6e8OTLDQpaz1Tl2GEaxsNj">Matthew West</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 368,350 likes - 75 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 368,428 likes - 75 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUileP28ODwg.md) - [plain]
 | 9 | [God Can Use A Broken Man](https://open.spotify.com/track/6LznqUukASGEgFxeMfzG4z) | [Jason Crabb](https://open.spotify.com/artist/61SFRZAmfyJhcffwR2Ijuq), [Zach Williams](https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ), [Trace Adkins](https://open.spotify.com/artist/79FMDwzZQxHgSkIYBl3ODU) | [God Can Use A Broken Man](https://open.spotify.com/album/7G84INpL3oLq7Z6SE7MJi4) | 4:11 |
 | 10 | [Unbelievable](https://open.spotify.com/track/2Y2nV089OQhsGTz2xdlvDb) | [Sidewalk Prophets](https://open.spotify.com/artist/2SMYoM2Kbcj6rI6U3FRc4U), [Ben Fuller](https://open.spotify.com/artist/57zYbDb1zNVoTYNUGmv45d) | [Unbelievable](https://open.spotify.com/album/6uwdXTL7TVRJuh102Afgln) | 3:09 |
 | 11 | [Nobody \(Live at The Ryman\)](https://open.spotify.com/track/4Yeb6G23JCnr55KHJYWe5n) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r), [Matthew West](https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj) | [Casting Crowns: A 20 Year Celebration Live at The Ryman](https://open.spotify.com/album/2FWQYj9oGl7f857rQEt4Wc) | 4:55 |
-| 12 | [Christ Or Nothing](https://open.spotify.com/track/7aM4mYaUCriKeMKSE0XhAO) | [Mack Brock](https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj) | [This Is Holy](https://open.spotify.com/album/2iK6XoSU5MjNisVgtJ5v11) | 3:18 |
-| 13 | [Turn](https://open.spotify.com/track/1YWJPgaOnSO9fxvuaFuxXp) | [Ben Fuller](https://open.spotify.com/artist/57zYbDb1zNVoTYNUGmv45d) | [Turn](https://open.spotify.com/album/2ciEYT6fFNsDoauWsERZut) | 3:54 |
+| 12 | [If I Got Jesus](https://open.spotify.com/track/3WmxRZz8xq4jNJW2kVusQc) | [Ben Fuller](https://open.spotify.com/artist/57zYbDb1zNVoTYNUGmv45d) | [If I Got Jesus](https://open.spotify.com/album/3VPe5UV652wUXh56MN9eSH) | 3:51 |
+| 13 | [Christ Or Nothing](https://open.spotify.com/track/7aM4mYaUCriKeMKSE0XhAO) | [Mack Brock](https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj) | [This Is Holy](https://open.spotify.com/album/2iK6XoSU5MjNisVgtJ5v11) | 3:18 |
 | 14 | [Never Running Out](https://open.spotify.com/track/21EYrKeGlqNTIZ7FdbnYLb) | [Unspoken](https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0) | [Never Running Out](https://open.spotify.com/album/7vuS5c3aTSY2zobQ1cwGoA) | 3:07 |
 | 15 | [Grace Flows Down](https://open.spotify.com/track/2Stkuv3LO3UYhQTsIcEzYq) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Vintage, Vol\. 2](https://open.spotify.com/album/25aDYnEtVSRnxFEghUmGGy) | 4:16 |
 | 16 | [Revival Town \- 2024](https://open.spotify.com/track/3tOGFRsyEyivySLPAaMMbH) | [Martin Smith](https://open.spotify.com/artist/7ISMNhe95QNLqHgsCHAVeu), [Elle Limebear](https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD) | [Revival Town / I’ve Found Jesus \(2024\)](https://open.spotify.com/album/5KNqheFcIZXpQOd7fJfJAr) | 5:46 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUileP28ODwg.md) - [plain]
 | 74 | [Missing Jesus](https://open.spotify.com/track/1QJrfybxiLTlRvlkzlKMdU) | [Caleb & John](https://open.spotify.com/artist/25Yii55hUvvB2az8GGSsH0) | [Missing Jesus](https://open.spotify.com/album/3Tff2Ny5CaAhXaknxptafB) | 3:05 |
 | 75 | [Good Man](https://open.spotify.com/track/2lKe5e14qf4NQKH0cxWVh9) | [David Leonard](https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE) | [Good Man](https://open.spotify.com/album/5HiOaHTajjhYIPIbrvnXAN) | 3:51 |
 
-Snapshot ID: `Zv/EYQAAAABFBrekhA62ZgjC1aV9Ifoa`
+Snapshot ID: `ZwRhBQAAAAC3qsdrQvpYCNHXg2xlMFjj`

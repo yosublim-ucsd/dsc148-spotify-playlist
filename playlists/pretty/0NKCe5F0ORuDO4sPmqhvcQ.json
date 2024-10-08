@@ -6,7 +6,7 @@
     "name": "Moving Castle",
     "url": "https://open.spotify.com/user/moving-castle"
   },
-  "snapshot_id": "AAAqMKaqt75G2pY8mD0+ULDt3hQXxJDm",
+  "snapshot_id": "AAAqMbbqJZzkTYQVsKyIXoA+WM7oYrV/",
   "tracks": [
     {
       "added_at": "2024-10-02 22:29:46",
@@ -2163,6 +2163,26 @@
       "duration_ms": 250666,
       "name": "Closer",
       "url": "https://open.spotify.com/track/77seRPoDM8XqbaYVNHoVmy"
+    },
+    {
+      "added_at": "2024-10-07 18:27:45",
+      "album": {
+        "name": "Vertigo (feat. Ed Graves)",
+        "url": "https://open.spotify.com/album/3z8WLzALtiavIJrUB22xGB"
+      },
+      "artists": [
+        {
+          "name": "Odd Mob",
+          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
+        },
+        {
+          "name": "Ed Graves",
+          "url": "https://open.spotify.com/artist/1Kkcm36k22FT1RWcINq4sI"
+        }
+      ],
+      "duration_ms": 148124,
+      "name": "Vertigo (feat. Ed Graves)",
+      "url": "https://open.spotify.com/track/7F03sInpzWDRMC4k4U0Pxj"
     }
   ],
   "unique_name": "Moving Castle Monthly",

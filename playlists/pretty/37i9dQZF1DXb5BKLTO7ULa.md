@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > De beste nieuwe releases van de week! Cover: Coldplay
 
-[Spotify](https://open.spotify.com/user/spotify) - 264,796 likes - 99 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 264,800 likes - 99 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 38 | [Weekend Boy](https://open.spotify.com/track/2SBXmWWHWuG12G7S7SKvwA) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Good Neighbours](https://open.spotify.com/album/1iArxZvJgmmlTo6VwuHvll) | 2:51 |
 | 39 | [Filthy Rich](https://open.spotify.com/track/6InkM0NaTWi7PJ3utfUzlM) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Filthy Rich](https://open.spotify.com/album/4EZKTohECt4rz0GL4LShK2) | 2:52 |
 | 40 | [To Love Somebody \- Music From The Motion Picture](https://open.spotify.com/track/7FyQqFixAnYRi64pcM63Nx) | [Joaquin Phoenix](https://open.spotify.com/artist/3j507n6aQUbtVxQv2Q6Usv), [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Joker: Folie à Deux \(Music From The Motion Picture\)](https://open.spotify.com/album/3X2oYJbZtrmszmNeXRpckc) | 1:49 |
-| 41 | [Planga](https://open.spotify.com/track/2MmF0gikbHDryK9Db5yoYV) | [Jinho 9](https://open.spotify.com/artist/3gPtUdMiLkJgmQIxFpEhAk), [Chivv](https://open.spotify.com/artist/0fXYDoSMO5PoGPrwB7ymij), [Puri](https://open.spotify.com/artist/3ADyFy1orEwODaiHmRRMQp) | [Planga](https://open.spotify.com/album/1fsn1JwBC8RZ89qym4N8KK) | 2:13 |
+| 41 | [Planga](https://open.spotify.com/track/2MmF0gikbHDryK9Db5yoYV) | [Jinho 9](https://open.spotify.com/artist/3gPtUdMiLkJgmQIxFpEhAk), [Chivv](https://open.spotify.com/artist/2hBfmHHnM4dS4pJgEJENCg), [Puri](https://open.spotify.com/artist/3ADyFy1orEwODaiHmRRMQp) | [Planga](https://open.spotify.com/album/1fsn1JwBC8RZ89qym4N8KK) | 2:13 |
 | 42 | [JUDGEN](https://open.spotify.com/track/5CDn4HpxWhnesTPiDe1YS4) | [Delany](https://open.spotify.com/artist/1XTd9ZCFzkRPUoO9yHQAYP), [KM](https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw) | [JUDGEN](https://open.spotify.com/album/7gxl8zmvNachXge4toNN0e) | 2:50 |
 | 43 | [Pull Up](https://open.spotify.com/track/1EJ3NDRdwHkwEb0PuYr54a) | [Figo Gang](https://open.spotify.com/artist/7kpbKPdmy6jHnsfTHdZmU7), [JMANI](https://open.spotify.com/artist/1QR6WDewVzcY8JrxP5Gyj3) | [Pull Up](https://open.spotify.com/album/3qn3X4OPhkZk58TtnjvYE5) | 2:36 |
 | 44 | [If Our Love Is Dead](https://open.spotify.com/track/1x1zGuT83cK1gDYZzCSVrk) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [PRATTS & PAIN \(It Ain't Over Til It Ends Edition\)](https://open.spotify.com/album/3tkgZCt1VA1Xf1pDGtYrAx) | 2:53 |

@@ -4,7 +4,7 @@
 
 > Floor shattering bass and dark soundscapes to dive into.
 
-676 songs - 1 day 22 hr 23 min
+677 songs - 1 day 22 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -486,6 +486,7 @@
 | [Righteous](https://open.spotify.com/track/6vLVc8UKfHm5HFbprTee4T) | [Monty](https://open.spotify.com/artist/2w5c2l70mYNDdSLifFyZjJ) | [Righteous](https://open.spotify.com/album/3hZqvmxuYCPFnm7dz0uDIM) | 4:45 | 2022-02-17 | 2023-05-26 |
 | [Ripper](https://open.spotify.com/track/1PsWZXdjF9Wprodd5u4F6n) | [Mr\. Carmack](https://open.spotify.com/artist/4OHaWpWPKDcZgOOUn9elFn), [Shanghai Doom](https://open.spotify.com/artist/0663ucUX5KdVY18dEYe0KC) | [Ripper](https://open.spotify.com/album/5D5kHZyrBy45ryggx31az3) | 3:30 | 2022-08-19 |  |
 | [Rise](https://open.spotify.com/track/5ljP4kya9X4nHhcuhQ3A60) | [VCTRE](https://open.spotify.com/artist/45B2tXcwmZXjfCbK6c3oqu), [OkayJake](https://open.spotify.com/artist/1inEarlQOFZ2KWNnQDHqo3) | [Rise](https://open.spotify.com/album/0KEFZnJoHiHzywPl5bP71Y) | 2:24 | 2024-05-31 | 2024-10-06 |
+| [Ritual](https://open.spotify.com/track/1Ee7waaVp8SXUF7O6D3hvb) | [Midland](https://open.spotify.com/artist/1YFLNH4rO40x9i16RpLwdY) | [Fragments of Us](https://open.spotify.com/album/3JFKnFilTV1xbFywi0Tfs7) | 3:44 | 2024-10-04 |  |
 | [Roots Dub](https://open.spotify.com/track/0yrcb1cwkgheJ7jEcTMwsh) | [The Widdler](https://open.spotify.com/artist/3SCAEdZEfpatrvdFeDLD2p) | [Roots \- EP](https://open.spotify.com/album/1wLirC220sMgkHxPrwN3M2) | 4:20 | 2022-02-17 |  |
 | [Roots Music](https://open.spotify.com/track/47Q2U9ao1PdM1VAYz0eVUl) | [Dubbacle](https://open.spotify.com/artist/6XXAt80nWrZ5Dct2rRGwbu) | [Reflection](https://open.spotify.com/album/4NJkW6VbUmNqGTnSEATqJl) | 4:37 | 2022-02-17 | 2023-09-18 |
 | [ROUND AFTER ROUND](https://open.spotify.com/track/1C4kWP8ni5B043m2E0Sk1y) | [Hgods](https://open.spotify.com/artist/1mrXo5fhYhx3gEiLjbOtYA), [Cito Blick](https://open.spotify.com/artist/4DKs9UVIaSIUFEfNU6RIgL) | [ROUND AFTER ROUND](https://open.spotify.com/album/48ZwXZwNH5i3j43Ghu1b4S) | 2:00 | 2024-05-17 | 2024-09-14 |
@@ -595,7 +596,7 @@
 | [Telling Me Nothing](https://open.spotify.com/track/4oZzKl23R31U9yhCtXaC7x) | [Mystic State](https://open.spotify.com/artist/052KAntc3fhUFwUgewa3Q4), [Method Sound](https://open.spotify.com/artist/3bdo0nDKT9KoqHhmJiowqT), [Elysia Grace](https://open.spotify.com/artist/1ictFFBiAtEwfywuzl27YV) | [Stutter \- EP](https://open.spotify.com/album/2ywexsHX1MUToJaByaEYYQ) | 5:08 | 2022-09-02 | 2024-09-14 |
 | [Terrorist](https://open.spotify.com/track/3sTILrfXTqgroX8Wo5ZxAs) | [Karma](https://open.spotify.com/artist/1ddaxtrmw7YbvxBWXWN33T) | [Terrorist](https://open.spotify.com/album/4HCyrvjUbe7DU7ohhAUwuu) | 5:27 | 2022-02-17 | 2022-07-02 |
 | [Testing Sound](https://open.spotify.com/track/4cbLvZqHpxSNlqGhfTNflt) | [Angelic Root](https://open.spotify.com/artist/2IGcAJYGBT9FtD8mgcfbKg) | [Motion EP](https://open.spotify.com/album/5GxyfDU6P0uu0EpFIT67tM) | 6:10 | 2022-02-17 | 2022-11-19 |
-| [The 14th](https://open.spotify.com/track/7CHsUpayQRImko52ncm6nX) | [Ternion Sound](https://open.spotify.com/artist/5sZGZj7wvhCwlG6KBvG90a) | [Far North Dubs EP](https://open.spotify.com/album/25iJRCx5VAdSDFFWCWlIjy) | 6:29 | 2022-02-17 |  |
+| [The 14th](https://open.spotify.com/track/7CHsUpayQRImko52ncm6nX) | [Ternion Sound](https://open.spotify.com/artist/5sZGZj7wvhCwlG6KBvG90a) | [Far North Dubs EP](https://open.spotify.com/album/25iJRCx5VAdSDFFWCWlIjy) | 6:29 | 2022-02-17 | 2024-10-08 |
 | [The Beez](https://open.spotify.com/track/4W1esPFRUVXBd8TQnIEJ3g) | [Kromestar](https://open.spotify.com/artist/0KcQg2Xc2IMImvAKbpZlhO) | [The Beez / Eye2Eye](https://open.spotify.com/album/3PSQYHwiwkljes7cC3h0za) | 4:32 | 2022-02-17 | 2022-07-22 |
 | [The Boxer \- Kromestar’s Southpaw Mix](https://open.spotify.com/track/12FMwQAwDtfKnrG8RmQdo0) | [Pinch](https://open.spotify.com/artist/09S8AYFuaa9PQKSNsXxweW), [Kromestar](https://open.spotify.com/artist/0KcQg2Xc2IMImvAKbpZlhO) | [The Boxer / Swish \(Kromestar Remixes\)](https://open.spotify.com/album/2TmTOGesWGTAcEdfybwrmo) | 5:36 | 2022-02-17 | 2022-07-08 |
 | [The Circle](https://open.spotify.com/track/1go8uqfAPRG3gQzpxHGFG1) | [Eprom](https://open.spotify.com/artist/2c2X6dr1PHctH24BxNOjHi) | [The Circle](https://open.spotify.com/album/7xNlJgqyqS423FzTUXOea7) | 3:49 | 2023-04-28 | 2024-02-24 |

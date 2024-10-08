@@ -4,7 +4,7 @@
 
 > A levantar polvadera con lo mejor de la música de sax\. Los Primos del Este, Nivel en portada.
 
-188 songs - 9 hr 38 min
+190 songs - 9 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,8 +127,9 @@
 | [Neta Que No](https://open.spotify.com/track/19cazderNza33zgCCpxLxH) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Neta Que No](https://open.spotify.com/album/376fuA7QIoerG2gtjViYaC) | 2:44 | 2023-11-08 |  |
 | [No Confíes en Mí](https://open.spotify.com/track/20Aju7Cbpq4D25P3seooun) | [La Zenda Norteña](https://open.spotify.com/artist/01brs471Oes6kMnkVJBfGG) | [No Confíes en Mí](https://open.spotify.com/album/6quSFU1RDVfyOKVdSTkaVL) | 3:03 | 2024-03-29 |  |
 | [No Es Mentira \(Version Norteña\)](https://open.spotify.com/track/0dWSN9JS8vAcnM8a6lxIrB) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [No Es Mentira \(Version Norteña\)](https://open.spotify.com/album/35qR2ZIduAuMTDDw3KAB69) | 3:20 | 2023-07-17 |  |
+| [No Hay Cuestiones](https://open.spotify.com/track/7iBVB20z4rFBUqgv6z1qEf) | [Conjunto Rienda Real](https://open.spotify.com/artist/5N3AyFVEE8vJa7AZEl7nD3), [La Maquinaria Norteña](https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL) | [No Hay Cuestiones](https://open.spotify.com/album/0Z4Q5JCNhOhnfqbXgYXox8) | 3:06 | 2024-10-07 |  |
 | [No Hay Solución](https://open.spotify.com/track/6bNBT3bdlv8lxrk8mAkrAG) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [No Hay Solución](https://open.spotify.com/album/4XAO6xBCAuwIH1pqrGlCqu) | 2:24 | 2024-04-19 |  |
-| [No Mata Un Adiós](https://open.spotify.com/track/57t2aQMU7ALAuH8GRbCqy7) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Neta Que No](https://open.spotify.com/album/0U73EAb12UJatEIwXlnEbr) | 3:12 | 2024-03-29 |  |
+| [No Mata Un Adiós](https://open.spotify.com/track/57t2aQMU7ALAuH8GRbCqy7) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Neta Que No](https://open.spotify.com/album/0U73EAb12UJatEIwXlnEbr) | 3:12 | 2024-03-29 | 2024-10-08 |
 | [No Paras de Hacerme Feliz](https://open.spotify.com/track/5bP1RCdGcUxkwASwKAbPHa) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [No Paras de Hacerme Feliz](https://open.spotify.com/album/4GnznPcGs85z1yeeWA5Gyi) | 3:05 | 2023-03-06 |  |
 | [No Te Quiero Volver A Ver](https://open.spotify.com/track/0E8tq1SwJhU3lBnDis2StT) | [La Furia del Bravo](https://open.spotify.com/artist/0CwDMNmupPq7JSl4uxPWV3) | [No Te Quiero Volver A Ver](https://open.spotify.com/album/0dwuIQxl2Mqw8WrXxk5Nbf) | 2:27 | 2023-06-09 | 2023-11-18 |
 | [Ojos Marrones](https://open.spotify.com/track/0xxJFCgRXDbRJeUlwb4m00) | [La Pocima Norteña](https://open.spotify.com/artist/0R03Yxwm5XGODyeMHO0eXj) | [Ojos Marrones](https://open.spotify.com/album/3Jq1Yjivop6j5TLUMtjjGb) | 2:43 | 2023-03-06 | 2024-04-19 |
@@ -179,6 +180,7 @@
 | [Total que más da](https://open.spotify.com/track/1gESMfrZOI5vDvBnxW3Fbh) | [Grupo Legitimo](https://open.spotify.com/artist/1ovPxptMcDubQ0CgYsS5hm) | [Pídeme](https://open.spotify.com/album/5VxCgnIHaW5x0CuuGefuti) | 3:50 | 2024-04-19 | 2024-08-03 |
 | [Tu Cárcel](https://open.spotify.com/track/7iIkdDkrVcyPulI2gXLTYP) | [La Alianza Norteña](https://open.spotify.com/artist/6RTbXTYbxbg4hHHwu12xdw) | [Tu Cárcel](https://open.spotify.com/album/6TI145XlTYny1EKWi07Qvg) | 2:37 | 2023-03-06 | 2024-04-19 |
 | [Tu Forma de Ser](https://open.spotify.com/track/47vkT95Gal2Ch36qP8jd6H) | [Conjunto Nube](https://open.spotify.com/artist/08Iky6YUq0V8qKzBiNdVS4) | [Así Somos](https://open.spotify.com/album/3ER5KlEQW19hQxUNmRdtFJ) | 3:14 | 2023-03-06 |  |
+| [Tus Historias Mienten](https://open.spotify.com/track/6M3fUO8he626evmaoYay1a) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Tus Historias Mienten](https://open.spotify.com/album/1Cj4btxoSIydkaxQsmUJ0d) | 2:26 | 2024-10-07 |  |
 | [Tuve Que Marcar](https://open.spotify.com/track/2Xo9PICBQWOS5DnemG2IN9) | [Conjunto Amanecer](https://open.spotify.com/artist/0wCyyn2rUtk96O0ZBzgM33) | [Estado Melancólico](https://open.spotify.com/album/3yuOCmv69DsI71xCg9ZADq) | 2:21 | 2023-09-29 | 2024-01-13 |
 | [Un Amor Bonito](https://open.spotify.com/track/3iHx3nXUC1cf3WRUr743P1) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Trilogía, Vol\. 2](https://open.spotify.com/album/2BqFIhmV8oZKVQGi8cidDc) | 2:37 | 2023-09-29 |  |
 | [Vicio](https://open.spotify.com/track/52SbtvOGsw4RI8FkMH7udu) | [Adverzo](https://open.spotify.com/artist/0NMJh5gFRAkN5uUsCujlCV) | [Vicio](https://open.spotify.com/album/5i2uC3kpJdvOoo5VhpKlEv) | 3:06 | 2023-11-08 | 2024-04-19 |

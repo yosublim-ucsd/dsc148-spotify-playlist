@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 
 > Die nuutste Afrikaanse musiek\. Omslag: <a href="https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF?si=5af6ENh4SQeR2B0Iwt4v4Q">Francois van Coke</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,323 likes - 84 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,335 likes - 84 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

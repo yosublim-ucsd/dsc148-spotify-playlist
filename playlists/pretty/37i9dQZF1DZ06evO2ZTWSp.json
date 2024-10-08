@@ -1,12 +1,12 @@
 {
-  "description": "This is Lizzo\u3002\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u4ee3\u8868\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002",
-  "num_followers": 488084,
+  "description": "This is Lizzo. The essential tracks, all in one playlist.",
+  "num_followers": 488073,
   "original_name": "This Is Lizzo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwCBgAAAAAAIQ1uIWicZ1znoXkM5c0RR",
+  "snapshot_id": "ZwHTAAAAAAAmP6Qa1Wlg6vq4DtjPz8S7",
   "tracks": [
     {
       "added_at": null,
@@ -735,26 +735,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pink Panther",
-        "url": "https://open.spotify.com/album/3LqJO6tvTMpEfXKciCTcSV"
+        "name": "Cut the Body Loose",
+        "url": "https://open.spotify.com/album/2SWg6THz0Xeoik5JX1rAzU"
       },
       "artists": [
         {
-          "name": "Henry Mancini",
-          "url": "https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf"
-        },
-        {
-          "name": "James Galway",
-          "url": "https://open.spotify.com/artist/774mHr909NkDVeyyXQBQfZ"
+          "name": "Astronautalis",
+          "url": "https://open.spotify.com/artist/6PWRJs1FosHp8Cqx0Nmswj"
         },
         {
           "name": "Lizzo",
           "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
         }
       ],
-      "duration_ms": 159715,
-      "name": "Pink Panther",
-      "url": "https://open.spotify.com/track/0dFShT2MD9OMNyQBUCeJCV"
+      "duration_ms": 425859,
+      "name": "Boiled Peanuts",
+      "url": "https://open.spotify.com/track/1810boVAzbaxqBzAwXp2ZM"
     },
     {
       "added_at": null,
@@ -775,22 +771,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cut the Body Loose",
-        "url": "https://open.spotify.com/album/2SWg6THz0Xeoik5JX1rAzU"
+        "name": "Pink Panther",
+        "url": "https://open.spotify.com/album/3LqJO6tvTMpEfXKciCTcSV"
       },
       "artists": [
         {
-          "name": "Astronautalis",
-          "url": "https://open.spotify.com/artist/6PWRJs1FosHp8Cqx0Nmswj"
+          "name": "Henry Mancini",
+          "url": "https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf"
+        },
+        {
+          "name": "James Galway",
+          "url": "https://open.spotify.com/artist/774mHr909NkDVeyyXQBQfZ"
         },
         {
           "name": "Lizzo",
           "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
         }
       ],
-      "duration_ms": 425859,
-      "name": "Boiled Peanuts",
-      "url": "https://open.spotify.com/track/1810boVAzbaxqBzAwXp2ZM"
+      "duration_ms": 159715,
+      "name": "Pink Panther",
+      "url": "https://open.spotify.com/track/0dFShT2MD9OMNyQBUCeJCV"
     },
     {
       "added_at": null,

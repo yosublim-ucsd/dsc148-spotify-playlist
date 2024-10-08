@@ -2,7 +2,7 @@
 
 ### [This Is Lou Rawls](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0SkALb)
 
-> This is Lou Rawls。アーティストの代表曲をひとつのプレイリストに。
+> This is Lou Rawls\. The essential tracks, all in one playlist.
 
 113 songs - 7 hr 10 min
 

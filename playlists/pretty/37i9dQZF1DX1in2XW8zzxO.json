@@ -1,6 +1,6 @@
 {
   "description": "Amapiano tracks to fuel your beast mode!",
-  "num_followers": 75819,
+  "num_followers": 75864,
   "original_name": "Beast Mode Amapiano",
   "owner": {
     "name": "Spotify",
@@ -1135,26 +1135,6 @@
     {
       "added_at": "2024-09-13 02:43:10",
       "album": {
-        "name": "iGardo",
-        "url": "https://open.spotify.com/album/0ocZS3F0J9y6UsmcclXIF2"
-      },
-      "artists": [
-        {
-          "name": "S.N.E",
-          "url": "https://open.spotify.com/artist/16RKP7aw26uSkNpadpEgaF"
-        },
-        {
-          "name": "SjavasDaDeejay",
-          "url": "https://open.spotify.com/artist/7LkCT07miUMz6JlKRqi3v0"
-        }
-      ],
-      "duration_ms": 408694,
-      "name": "iGardo",
-      "url": "https://open.spotify.com/track/0MJf2ukyYRjKlVpS3vtHhw"
-    },
-    {
-      "added_at": "2024-09-13 02:43:10",
-      "album": {
         "name": "Mina Nawe",
         "url": "https://open.spotify.com/album/3Wmq33GKBysdwDSq9ds6rq"
       },
@@ -1171,6 +1151,26 @@
       "duration_ms": 224464,
       "name": "Mina Nawe - Radio Edit",
       "url": "https://open.spotify.com/track/7nAXecq3zqlOb64OjYCFD5"
+    },
+    {
+      "added_at": "2024-09-13 02:43:10",
+      "album": {
+        "name": "iGardo",
+        "url": "https://open.spotify.com/album/0ocZS3F0J9y6UsmcclXIF2"
+      },
+      "artists": [
+        {
+          "name": "S.N.E",
+          "url": "https://open.spotify.com/artist/16RKP7aw26uSkNpadpEgaF"
+        },
+        {
+          "name": "SjavasDaDeejay",
+          "url": "https://open.spotify.com/artist/7LkCT07miUMz6JlKRqi3v0"
+        }
+      ],
+      "duration_ms": 408694,
+      "name": "iGardo",
+      "url": "https://open.spotify.com/track/0MJf2ukyYRjKlVpS3vtHhw"
     },
     {
       "added_at": "2024-09-13 02:43:10",

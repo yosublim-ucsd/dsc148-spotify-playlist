@@ -685,6 +685,24 @@
     },
     {
       "album": {
+        "name": "Kartonyono Medot Janji",
+        "url": "https://open.spotify.com/album/28rUJRBJ2UfjZPQ7yX6v6t"
+      },
+      "artists": [
+        {
+          "name": "Denny Caknan",
+          "url": "https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG"
+        }
+      ],
+      "date_added": "2024-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346000,
+      "name": "Kartonyono Medot Janji",
+      "url": "https://open.spotify.com/track/5mif8baNRylKBl3vb7kdP6"
+    },
+    {
+      "album": {
         "name": "Kebacut Nyaman",
         "url": "https://open.spotify.com/album/5WMqMj79VLVJp6YG42WwrL"
       },
