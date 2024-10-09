@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: 春ねむり＋Frost Children
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,406 likes - 80 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,423 likes - 80 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 66 | [オールナイトレディオ](https://open.spotify.com/track/1nUAmUMSNmBUGQc5yKKfpt) | [ん・フェニ](https://open.spotify.com/artist/0EQ1hpoirQ1oH1wFvQb8x0) | [オールナイトレディオ](https://open.spotify.com/album/6ZW7mkVJdG9ETaKA62NyRm) | 4:14 |
 | 67 | [悪夢のような](https://open.spotify.com/track/0lMEXXXZ0ITNG0tRv57doq) | [Brandy Senki](https://open.spotify.com/artist/0HKzMBAdsbsjuvp2hXpGsA) | [悪夢のような \- NightTime Version](https://open.spotify.com/album/2ZLrpmJUMdbZZmmZpVY3hl) | 4:19 |
 | 68 | [nevermind](https://open.spotify.com/track/0CRbc6n3eHpJNr5Xy97IX1) | [muque](https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t) | [nevermind](https://open.spotify.com/album/0cX79wNUK4Ys8y1L9KOMOw) | 2:38 |
-| 69 | [Underground \(DJ CHARI x French Cries Remix\) feat\. STARKIDS](https://open.spotify.com/track/57HEfRvuASDRJK0WL8JYB2) | [f5ve](https://open.spotify.com/artist/6aiCF0pornq0j11wvKG4dy), [STARKIDS](https://open.spotify.com/artist/4QMLZWebJZrhxGZsvctR4x), [DJ CHARI](https://open.spotify.com/artist/5vEZZrTMbKhrd5Mgs37m8p) | [Underground Remixes](https://open.spotify.com/album/6k61JCdFcGlGZcbKvrCE5l) | 2:33 |
+| 69 | [Underground \(DJ CHARI x French Cries Remix\) feat\. STARKIDS](https://open.spotify.com/track/57HEfRvuASDRJK0WL8JYB2) | [f5ve](https://open.spotify.com/artist/6aiCF0pornq0j11wvKG4dy), [STARKIDS](https://open.spotify.com/artist/2INPwKuRzUl36biAmYrDgz), [DJ CHARI](https://open.spotify.com/artist/5vEZZrTMbKhrd5Mgs37m8p) | [Underground Remixes](https://open.spotify.com/album/6k61JCdFcGlGZcbKvrCE5l) | 2:33 |
 | 70 | [COVER GIRLS](https://open.spotify.com/track/2nxuPDXg1R0IQtRPhYmSn5) | [アマイワナ](https://open.spotify.com/artist/78khO3LkYjAc4VSpHOJjrH), [Maki Nomiya](https://open.spotify.com/artist/0PoKzYeBX3Lgg35BipPlAj) | [新渋谷](https://open.spotify.com/album/1EXW8HNoHx2EbvUUr6kFdS) | 2:23 |
 | 71 | [Chicken Crisp](https://open.spotify.com/track/0TTDIzxGhN2BkWG9lLgOCM) | [HALLEY](https://open.spotify.com/artist/0GUvlVXWnuFFfSeGZsVOW2) | [Chicken Crisp](https://open.spotify.com/album/3N3CXnm9wCCcVhbU5u5QtW) | 3:37 |
 | 72 | [紬](https://open.spotify.com/track/0J4UbxVqd2JtKsThF77lle) | [berry meet](https://open.spotify.com/artist/59LkGYlqNpJJislvdaOi7m) | [紬](https://open.spotify.com/album/4YbEISLvAHfDv6tBYO6qIL) | 3:25 |

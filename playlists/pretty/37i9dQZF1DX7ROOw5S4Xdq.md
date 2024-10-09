@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 
 > Ouça os últimos lançamentos da música Cristã\. Foto: Ton Carfi, Rebeca Carvalho
 
-[Spotify](https://open.spotify.com/user/spotify) - 266,055 likes - 49 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 266,070 likes - 49 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 | 33 | [Luz da Esperança \- Ao Vivo](https://open.spotify.com/track/3Qw6XfyfwUec3ygQ2D8Qek) | [Novo Tempo](https://open.spotify.com/artist/4hSwClI41RKuFb46itnL5e), [Daniel Lüdtke](https://open.spotify.com/artist/3f0bV2cF70GNSrGlv7i2Wa), [Marla Lüdtke](https://open.spotify.com/artist/5zbO4gq0wZSAWW6LvawKDd) | [Luz da Esperança \- Ao Vivo](https://open.spotify.com/album/7kWckas2K8maiMicSjJN4X) | 5:02 |
 | 34 | [Canção da Esperança](https://open.spotify.com/track/7L8mL1inIyk0wqq6IMmarf) | [LUDI](https://open.spotify.com/artist/5jaTnKaikL73O3eAQgtwde) | [Live In Miami Beach \(Ao Vivo\)](https://open.spotify.com/album/4XJ13ofgpuHMr8RUraGoro) | 3:21 |
 | 35 | [Antes e Depois](https://open.spotify.com/track/4ayBka5Q8QDnmM68WUTJ1D) | [Esther Marcos](https://open.spotify.com/artist/2japccldZ12nJnpI9eJ7gF) | [Antes e Depois](https://open.spotify.com/album/0r5JQQrCIm77YgbI9swfus) | 5:38 |
-| 36 | [Caia Fogo \- Ao Vivo](https://open.spotify.com/track/2TALoVWEhMyFHbfHW41Vuq) | [BRAVE](https://open.spotify.com/artist/0HEKgwjfWOG03c4KMBMa3h), [Sarah Oliveira](https://open.spotify.com/artist/41y67kzuqyOCphn9Aj5Teq) | [Caia Fogo \(Ao Vivo\)](https://open.spotify.com/album/0zlkDvINie2zgVHxK51zOA) | 9:37 |
+| 36 | [Caia Fogo \- Ao Vivo](https://open.spotify.com/track/2TALoVWEhMyFHbfHW41Vuq) | [Sarah Oliveira](https://open.spotify.com/artist/41y67kzuqyOCphn9Aj5Teq), [BRAVE](https://open.spotify.com/artist/0HEKgwjfWOG03c4KMBMa3h) | [Caia Fogo \(Ao Vivo\)](https://open.spotify.com/album/0zlkDvINie2zgVHxK51zOA) | 9:37 |
 | 37 | [Dança de Avivamento](https://open.spotify.com/track/3GPU7xFhF6Qp8skiOd72OP) | [GBA Stage](https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s), [Vivy & Nathan](https://open.spotify.com/artist/4ojyZi4PlPWQEo4T8S1r77) | [Gba Stage, Vol\. 23](https://open.spotify.com/album/2D4CcXjhXqVGeScmv9xtt1) | 4:50 |
 | 38 | [Jesus Meu Esposo](https://open.spotify.com/track/6wCLWD3S2t8B52HcAnd3oj) | [GBA Stage](https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s), [Deborah Aparecida](https://open.spotify.com/artist/4UWcARjZ1YKKHSMdTLWmhJ) | [Jesus Meu Esposo](https://open.spotify.com/album/0tpokUqMVEZC7tVuy3G3p3) | 4:20 |
 | 39 | [Quero Voltar](https://open.spotify.com/track/1aXoFwqmHiIaKt4ituOfHb) | [Gui Hazel](https://open.spotify.com/artist/5aoZ1HQ8sRZeMPnTr1IHJP), [Trindade Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9) | [Quero Voltar](https://open.spotify.com/album/4ilO0Yx4mfVSbtuViiaXj4) | 2:54 |

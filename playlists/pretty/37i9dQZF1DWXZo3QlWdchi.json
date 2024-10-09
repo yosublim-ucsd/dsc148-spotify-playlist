@@ -1,6 +1,6 @@
 {
   "description": "O melhor do rock ac\u00fastico nacional e internacional para curtir e relaxar.",
-  "num_followers": 306791,
+  "num_followers": 306824,
   "original_name": "Rock Ac\u00fastico",
   "owner": {
     "name": "Spotify",
@@ -147,38 +147,6 @@
     {
       "added_at": "2024-06-07 17:34:56",
       "album": {
-        "name": "O Rappa - Ac\u00fastico Oficina Francisco Brennand (Deluxe) [Ao Vivo]",
-        "url": "https://open.spotify.com/album/18b9UToB7XhEkVpuoJ5ZaR"
-      },
-      "artists": [
-        {
-          "name": "O Rappa",
-          "url": "https://open.spotify.com/artist/1A5QJAC1vdhbhPE25Q0x0f"
-        }
-      ],
-      "duration_ms": 369915,
-      "name": "Pescador de ilus\u00f5es - Ao vivo",
-      "url": "https://open.spotify.com/track/5ytWdfs7iGpu42VQyAQyvY"
-    },
-    {
-      "added_at": "2024-06-07 17:34:56",
-      "album": {
-        "name": "Ac\u00fastico Ira!",
-        "url": "https://open.spotify.com/album/2pqGLzC2eD4oFSpUzisVMw"
-      },
-      "artists": [
-        {
-          "name": "Ira!",
-          "url": "https://open.spotify.com/artist/7L5YQQJPL1wrmrdigJavV7"
-        }
-      ],
-      "duration_ms": 247160,
-      "name": "O Girassol - Vers\u00e3o Ac\u00fastica",
-      "url": "https://open.spotify.com/track/6OwunUyuA5gtuJOdrE43vH"
-    },
-    {
-      "added_at": "2024-06-07 17:34:56",
-      "album": {
         "name": "Spotify Sessions",
         "url": "https://open.spotify.com/album/4oieM9FgOhdsYIssk1SoM2"
       },
@@ -199,6 +167,38 @@
       "duration_ms": 396968,
       "name": "Sweet Child O' Mine (feat. Myles Kennedy and The Conspirators) - Live at Spotify, London",
       "url": "https://open.spotify.com/track/1BMDaiVYDREQnrQZA7Drpk"
+    },
+    {
+      "added_at": "2024-06-07 17:34:56",
+      "album": {
+        "name": "Ac\u00fastico Ira!",
+        "url": "https://open.spotify.com/album/2pqGLzC2eD4oFSpUzisVMw"
+      },
+      "artists": [
+        {
+          "name": "Ira!",
+          "url": "https://open.spotify.com/artist/7L5YQQJPL1wrmrdigJavV7"
+        }
+      ],
+      "duration_ms": 247160,
+      "name": "O Girassol - Vers\u00e3o Ac\u00fastica",
+      "url": "https://open.spotify.com/track/6OwunUyuA5gtuJOdrE43vH"
+    },
+    {
+      "added_at": "2024-06-07 17:34:56",
+      "album": {
+        "name": "O Rappa - Ac\u00fastico Oficina Francisco Brennand (Deluxe) [Ao Vivo]",
+        "url": "https://open.spotify.com/album/18b9UToB7XhEkVpuoJ5ZaR"
+      },
+      "artists": [
+        {
+          "name": "O Rappa",
+          "url": "https://open.spotify.com/artist/1A5QJAC1vdhbhPE25Q0x0f"
+        }
+      ],
+      "duration_ms": 369915,
+      "name": "Pescador de ilus\u00f5es - Ao vivo",
+      "url": "https://open.spotify.com/track/5ytWdfs7iGpu42VQyAQyvY"
     },
     {
       "added_at": "2024-06-07 17:34:56",
@@ -231,22 +231,6 @@
       "duration_ms": 198293,
       "name": "Wonderwall - Live from Spotify Sessions, Metropolis Studios, London",
       "url": "https://open.spotify.com/track/3EfTQn30P4fqXxRf9IN7x6"
-    },
-    {
-      "added_at": "2024-06-07 17:34:56",
-      "album": {
-        "name": "O Rappa - Ac\u00fastico Oficina Francisco Brennand (Deluxe) [Ao Vivo]",
-        "url": "https://open.spotify.com/album/18b9UToB7XhEkVpuoJ5ZaR"
-      },
-      "artists": [
-        {
-          "name": "O Rappa",
-          "url": "https://open.spotify.com/artist/1A5QJAC1vdhbhPE25Q0x0f"
-        }
-      ],
-      "duration_ms": 438583,
-      "name": "Anjos (Pra quem tem f\u00e9) - Ao vivo",
-      "url": "https://open.spotify.com/track/0T5oFIUY2wDXQ7yRd9epfP"
     },
     {
       "added_at": "2024-06-07 17:34:56",
@@ -303,6 +287,22 @@
     {
       "added_at": "2024-06-07 17:34:56",
       "album": {
+        "name": "Pearl Jam Twenty Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/1z6iuIsvWR3AjWhMY2xFOk"
+      },
+      "artists": [
+        {
+          "name": "Pearl Jam",
+          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
+        }
+      ],
+      "duration_ms": 339960,
+      "name": "Black - Kaufman Astoria Studios - MTV Unplugged - New York, NY 3/16/1992",
+      "url": "https://open.spotify.com/track/0DUaFpOFS5H8LbswpbcP2m"
+    },
+    {
+      "added_at": "2024-06-07 17:34:56",
+      "album": {
         "name": "Ac\u00fastico (Ao Vivo)",
         "url": "https://open.spotify.com/album/0AFkktyrrPtQvpIBqpRrc7"
       },
@@ -319,18 +319,18 @@
     {
       "added_at": "2024-06-07 17:34:56",
       "album": {
-        "name": "Pearl Jam Twenty Original Motion Picture Soundtrack",
-        "url": "https://open.spotify.com/album/1z6iuIsvWR3AjWhMY2xFOk"
+        "name": "O Rappa - Ac\u00fastico Oficina Francisco Brennand (Deluxe) [Ao Vivo]",
+        "url": "https://open.spotify.com/album/18b9UToB7XhEkVpuoJ5ZaR"
       },
       "artists": [
         {
-          "name": "Pearl Jam",
-          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
+          "name": "O Rappa",
+          "url": "https://open.spotify.com/artist/1A5QJAC1vdhbhPE25Q0x0f"
         }
       ],
-      "duration_ms": 339960,
-      "name": "Black - Kaufman Astoria Studios - MTV Unplugged - New York, NY 3/16/1992",
-      "url": "https://open.spotify.com/track/0DUaFpOFS5H8LbswpbcP2m"
+      "duration_ms": 438583,
+      "name": "Anjos (Pra quem tem f\u00e9) - Ao vivo",
+      "url": "https://open.spotify.com/track/0T5oFIUY2wDXQ7yRd9epfP"
     },
     {
       "added_at": "2024-06-07 17:34:56",
@@ -643,22 +643,6 @@
     {
       "added_at": "2024-06-07 17:34:56",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0tUnCfqBLeZlivAkbxvbib"
-      },
-      "artists": [
-        {
-          "name": "Carly Rae Jepsen",
-          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
-        }
-      ],
-      "duration_ms": 261977,
-      "name": "Don't Speak - Recorded at Electric Lady Studios NYC",
-      "url": "https://open.spotify.com/track/0gzMEfErGPaCFbQJdb2HQb"
-    },
-    {
-      "added_at": "2024-06-07 17:34:56",
-      "album": {
         "name": "Follow Me Around",
         "url": "https://open.spotify.com/album/2vTAZfcTyauC6ZG29d6yB5"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 319288,
       "name": "Follow Me Around",
       "url": "https://open.spotify.com/track/6zc5BnlGNETdLqsu2gK3y2"
+    },
+    {
+      "added_at": "2024-06-07 17:34:56",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0tUnCfqBLeZlivAkbxvbib"
+      },
+      "artists": [
+        {
+          "name": "Carly Rae Jepsen",
+          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+        }
+      ],
+      "duration_ms": 261977,
+      "name": "Don't Speak - Recorded at Electric Lady Studios NYC",
+      "url": "https://open.spotify.com/track/0gzMEfErGPaCFbQJdb2HQb"
     },
     {
       "added_at": "2024-06-07 17:34:56",

@@ -4,7 +4,7 @@
 
 > 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: Min Jiwoon\(민지운\)\)
 
-431 songs - 23 hr 30 min
+432 songs - 23 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Bad Time \(feat\. NOA\)](https://open.spotify.com/track/1Mj4QMH6sPI4hVnoJu6GV2) | [Jiselle](https://open.spotify.com/artist/6tjbcCaexKI8esvvEZPVnt), [NOA](https://open.spotify.com/artist/1vpHPL6nejNAg9GXYrJ5ck) | [Bad Time \(feat\. NOA\)](https://open.spotify.com/album/3cGuMUrUKepD18H2uvxpkq) | 2:42 | 2024-05-24 | 2024-08-13 |
 | [BAD TRIP](https://open.spotify.com/track/3jdtoXjgDfPtyKBxrEiM6P) | [7uly Seven](https://open.spotify.com/artist/5RQPrdXEhZOc0kvHMlGlOL), [Soo\-Yeony](https://open.spotify.com/artist/2xHDCGwsXvDCLDeF555iki) | [BAD TRIP](https://open.spotify.com/album/4bdeyL4F2LmyGslFssegMc) | 2:12 | 2023-07-07 | 2023-10-28 |
 | [Bake](https://open.spotify.com/track/4hKgaRwrkPLU0lfRb543UE) | [9wall](https://open.spotify.com/artist/6rqYMINHw5oUTaS8K17k2D) | [Bake](https://open.spotify.com/album/0lMKr6wiAPCfF2IY91dS14) | 2:49 | 2024-08-10 | 2024-09-25 |
+| [Ballet Shoes](https://open.spotify.com/track/6PfSvKBzJVO87R4uyrM77h) | [YEGNY](https://open.spotify.com/artist/2bLAgTUhO43UF0DhE7Rrm4) | [Ballet Shoes](https://open.spotify.com/album/5zj2aR0juFDhyAJMeDJspG) | 2:55 | 2024-10-08 |  |
 | [Be there](https://open.spotify.com/track/5RAfPVfHgdSiIzQy0DHzyg) | [DAVII](https://open.spotify.com/artist/7qvsi3nQ5V6Np0MdEpdmoc), [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx) | [Be there](https://open.spotify.com/album/6odwfXAYu7AxHXpKRTKuGf) | 3:43 | 2022-10-07 | 2023-03-28 |
 | [beam](https://open.spotify.com/track/1Q8uOWCxzVBW4GIWBT9YCt) | [b!ni](https://open.spotify.com/artist/1DfPDEvUAWsURAKZKL9JvU) | [beam](https://open.spotify.com/album/4ehaX1UjNgJkzwN3EmVKvc) | 2:32 | 2024-08-10 | 2024-09-25 |
 | [Beautiful \(feat\. Sam Kim\)](https://open.spotify.com/track/3eYG0rgZxgNF8FZQoHu9GK) | [Babylon](https://open.spotify.com/artist/3P16F9giedxmc5238b66bo), [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [EGO 90'S](https://open.spotify.com/album/7kecJ6YlieepBPVgMlf4vw) | 4:34 | 2022-07-19 | 2022-12-14 |

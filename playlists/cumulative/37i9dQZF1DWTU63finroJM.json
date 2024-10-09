@@ -12150,7 +12150,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-09",
       "duration_ms": 174574,
       "name": "I thought that i'd know by now",
       "url": "https://open.spotify.com/track/7yd3WBefexIk6jtlXJr0HN"
@@ -13622,6 +13622,24 @@
       "duration_ms": 154626,
       "name": "Kaleidosc\u00f3pica",
       "url": "https://open.spotify.com/track/6M1qcLBhSBIDMmC9wprnLK"
+    },
+    {
+      "album": {
+        "name": "z papieru",
+        "url": "https://open.spotify.com/album/7uQvbQsog1LioDPDODHOqx"
+      },
+      "artists": [
+        {
+          "name": "Livka",
+          "url": "https://open.spotify.com/artist/0eWYWLizN5us1MOF1rdyh9"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194799,
+      "name": "Kalka",
+      "url": "https://open.spotify.com/track/5W9zXFO1vrVkfZ4wRwznM2"
     },
     {
       "album": {
@@ -22697,6 +22715,24 @@
     },
     {
       "album": {
+        "name": "Se Siente As\u00ed (Arial 7)",
+        "url": "https://open.spotify.com/album/2pNkgDHGJeoFYz5PV9c8EQ"
+      },
+      "artists": [
+        {
+          "name": "Susana Cala",
+          "url": "https://open.spotify.com/artist/68LgpWsaAwjflP3CLXC0LB"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163693,
+      "name": "Se Siente As\u00ed (Arial 7)",
+      "url": "https://open.spotify.com/track/6jUKGmxWOnmyFwABCAQgVo"
+    },
+    {
+      "album": {
         "name": "Se Te Cay\u00f3",
         "url": "https://open.spotify.com/album/6P8eo6PshOT2xbv2ISKOGz"
       },
@@ -24444,7 +24480,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-09",
       "duration_ms": 187642,
       "name": "Sweat (Island File)",
       "url": "https://open.spotify.com/track/5Da5oMlJgqXvgTN1tcihZT"

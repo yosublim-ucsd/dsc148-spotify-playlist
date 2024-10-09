@@ -1,6 +1,6 @@
 {
   "description": "El futuro est\u00e1 aqu\u00ed. Foto: pablopablo.",
-  "num_followers": 27271,
+  "num_followers": 27283,
   "original_name": "RADAR Espa\u00f1a",
   "owner": {
     "name": "Spotify",
@@ -47,8 +47,8 @@
     {
       "added_at": "2024-10-03 22:00:00",
       "album": {
-        "name": "En Los Espejos",
-        "url": "https://open.spotify.com/album/1WOEma6DSa3TiFD4wIawvc"
+        "name": "Palabra Prohibida",
+        "url": "https://open.spotify.com/album/0SL3CXA1AkeE9i8mlaCCRZ"
       },
       "artists": [
         {
@@ -56,9 +56,9 @@
           "url": "https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9"
         }
       ],
-      "duration_ms": 197046,
-      "name": "En Los Espejos",
-      "url": "https://open.spotify.com/track/4it2e3KPSADwuJumg4C9zz"
+      "duration_ms": 176881,
+      "name": "Palabra Prohibida",
+      "url": "https://open.spotify.com/track/4sRulaggpSTT3mLCZsaJ5v"
     },
     {
       "added_at": "2024-10-03 22:00:00",
@@ -187,8 +187,8 @@
     {
       "added_at": "2024-10-03 22:00:00",
       "album": {
-        "name": "Palabra Prohibida",
-        "url": "https://open.spotify.com/album/0SL3CXA1AkeE9i8mlaCCRZ"
+        "name": "En Los Espejos",
+        "url": "https://open.spotify.com/album/1WOEma6DSa3TiFD4wIawvc"
       },
       "artists": [
         {
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9"
         }
       ],
-      "duration_ms": 176881,
-      "name": "Palabra Prohibida",
-      "url": "https://open.spotify.com/track/4sRulaggpSTT3mLCZsaJ5v"
+      "duration_ms": 197046,
+      "name": "En Los Espejos",
+      "url": "https://open.spotify.com/track/4it2e3KPSADwuJumg4C9zz"
     },
     {
       "added_at": "2024-10-03 22:00:00",
@@ -476,13 +476,17 @@
           "url": "https://open.spotify.com/artist/3jU5LKRsimuyZjA0lSkdPp"
         },
         {
+          "name": "roots",
+          "url": "https://open.spotify.com/artist/25rfSQptHe18iy1f4TYR7A"
+        },
+        {
           "name": "Bexnil",
           "url": "https://open.spotify.com/artist/1TYjm48WP4AXoXMModkcNg"
         }
       ],
-      "duration_ms": 160695,
-      "name": "habibi",
-      "url": "https://open.spotify.com/track/2jd8SrFiK2arEPZHxlE0ys"
+      "duration_ms": 154549,
+      "name": "Xarnega",
+      "url": "https://open.spotify.com/track/49qfhb3mTtHwcW4t3375iK"
     },
     {
       "added_at": "2024-10-03 22:00:00",
@@ -784,17 +788,13 @@
           "url": "https://open.spotify.com/artist/3jU5LKRsimuyZjA0lSkdPp"
         },
         {
-          "name": "roots",
-          "url": "https://open.spotify.com/artist/25rfSQptHe18iy1f4TYR7A"
-        },
-        {
           "name": "Bexnil",
           "url": "https://open.spotify.com/artist/1TYjm48WP4AXoXMModkcNg"
         }
       ],
-      "duration_ms": 154549,
-      "name": "Xarnega",
-      "url": "https://open.spotify.com/track/49qfhb3mTtHwcW4t3375iK"
+      "duration_ms": 160695,
+      "name": "habibi",
+      "url": "https://open.spotify.com/track/2jd8SrFiK2arEPZHxlE0ys"
     },
     {
       "added_at": "2024-10-03 22:00:00",

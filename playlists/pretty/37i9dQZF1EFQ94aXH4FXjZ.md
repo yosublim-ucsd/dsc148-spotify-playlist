@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQ94aXH4FXjZ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2LYO2TUZb52Fuh9qCZOMcz">Kris Kristofferson</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,448 likes - 108 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,455 likes - 108 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQ94aXH4FXjZ.md) - [plain]
 | 43 | [You Show Me Yours \(And I'll Show You Mine\)](https://open.spotify.com/track/3FFmyvfaI98xEVYhPyinKQ) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Willie Nelson Sings Kristofferson](https://open.spotify.com/album/5PCDkwFxNl5dgQO24yPEbn) | 3:54 |
 | 44 | [Kiss the World Goodbye](https://open.spotify.com/track/6YFNxPeprxQVDUqAbqO7CS) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Border Lord](https://open.spotify.com/album/5WHCZzMjeIu4nFWoUhMEvO) | 3:00 |
 | 45 | [Epitaph \(Black and Blue\)](https://open.spotify.com/track/4VB6c87xWGGEE77ezRYm2X) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [The Silver Tongued Devil and I](https://open.spotify.com/album/4wj7dvOFqAEIiFS1WbpQdw) | 3:25 |
-| 46 | [I Believe That I Believe \- Demo](https://open.spotify.com/track/5FNUsw4nfbHS2KOcfyRV0s) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Demos](https://open.spotify.com/album/7peGj09hLs4kVjmLkqBJUo) | 2:41 |
-| 47 | [Duvalier's Dream](https://open.spotify.com/track/18AMFmyINonaT125BWmUth) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Kristofferson](https://open.spotify.com/album/4HN8SWymMSOxquR6wY2vke) | 2:55 |
+| 46 | [Duvalier's Dream](https://open.spotify.com/track/18AMFmyINonaT125BWmUth) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Kristofferson](https://open.spotify.com/album/4HN8SWymMSOxquR6wY2vke) | 2:55 |
+| 47 | [I Believe That I Believe \- Demo](https://open.spotify.com/track/5FNUsw4nfbHS2KOcfyRV0s) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Demos](https://open.spotify.com/album/7peGj09hLs4kVjmLkqBJUo) | 2:41 |
 | 48 | [Somebody Nobody Knows](https://open.spotify.com/track/4CWwfDfiMfZjcIhOC7CywH) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Border Lord](https://open.spotify.com/album/5WHCZzMjeIu4nFWoUhMEvO) | 3:35 |
 | 49 | [A Song I'd Like To Sing](https://open.spotify.com/track/53aAtPr0aC6xZzLYBULWwm) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX), [Rita Coolidge](https://open.spotify.com/artist/1vnIL4DMlivP55ioM6KitW) | [Full Moon \- Expanded Edition](https://open.spotify.com/album/3Xnjlj4aJadxwLfdd1QYkF) | 4:01 |
 | 50 | [Jesse Younger](https://open.spotify.com/track/0N0B5BV4S5DoutfXlPVzWr) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Jesus Was a Capricorn](https://open.spotify.com/album/2Ki8vQ8HlryxQ9DhgXzaNs) | 2:41 |
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQ94aXH4FXjZ.md) - [plain]
 | 71 | [Rescue Mission](https://open.spotify.com/track/7MwEY9R35kDsIjTk7aZ7Nn) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Spooky Lady's Sideshow](https://open.spotify.com/album/0XwRrify4gVHbkoKbouUq1) | 5:19 |
 | 72 | [Hitting Close to Home \- Demo](https://open.spotify.com/track/3TyfyjltEtQaB7JVRDuOHR) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Demos](https://open.spotify.com/album/7peGj09hLs4kVjmLkqBJUo) | 2:35 |
 | 73 | [Star\-Spangled Bummer \(Whores Die Hard\)](https://open.spotify.com/track/1fcW2WTbU5rtCuaCAwmCjp) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Spooky Lady's Sideshow](https://open.spotify.com/album/0XwRrify4gVHbkoKbouUq1) | 3:35 |
-| 74 | [Fallen Woman \- Demo](https://open.spotify.com/track/5ndGmj5IQaGeKOolO2t4VU) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Demos](https://open.spotify.com/album/7peGj09hLs4kVjmLkqBJUo) | 2:40 |
-| 75 | [Slow Down](https://open.spotify.com/track/5zeRk6ZVXLnVlDJOZ0QbYF) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX), [Rita Coolidge](https://open.spotify.com/artist/1vnIL4DMlivP55ioM6KitW) | [Breakaway](https://open.spotify.com/album/5E2qk8NPadk7IY7yXiOXtB) | 3:05 |
+| 74 | [Slow Down](https://open.spotify.com/track/5zeRk6ZVXLnVlDJOZ0QbYF) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX), [Rita Coolidge](https://open.spotify.com/artist/1vnIL4DMlivP55ioM6KitW) | [Breakaway](https://open.spotify.com/album/5E2qk8NPadk7IY7yXiOXtB) | 3:05 |
+| 75 | [Fallen Woman \- Demo](https://open.spotify.com/track/5ndGmj5IQaGeKOolO2t4VU) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Demos](https://open.spotify.com/album/7peGj09hLs4kVjmLkqBJUo) | 2:40 |
 | 76 | [The Law Is for Protection of the People \- Live at the Big Sur Folk Festival](https://open.spotify.com/track/7tv0rBrmz5DZVroCncC25E) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Live at the Big Sur Folk Festival](https://open.spotify.com/album/5WPZXuN93LKbYCi72ZMpwP) | 3:29 |
 | 77 | [One for the Money](https://open.spotify.com/track/2ELEvgKVUXg2A1qHelo8kZ) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Spooky Lady's Sideshow](https://open.spotify.com/album/0XwRrify4gVHbkoKbouUq1) | 3:04 |
 | 78 | [Stairway to the Bottom](https://open.spotify.com/track/0wTQWX5F5CJK1vjqR96QAz) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Spooky Lady's Sideshow](https://open.spotify.com/album/0XwRrify4gVHbkoKbouUq1) | 3:25 |
@@ -117,4 +117,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQ94aXH4FXjZ.md) - [plain]
 | 107 | [Delta Day \(No Time to Cry\)](https://open.spotify.com/track/6FxBOv9K8J9ECCZg3MqCZk) | [Bucky Wilkin](https://open.spotify.com/artist/6llhUrYZmi6uP5YqxJzrq4) | [The Complete Recordings \(1964\-1968\)](https://open.spotify.com/album/1fB1c8AYgdtENfKuaUfRVW) | 3:15 |
 | 108 | [Give It Time To Be Tender](https://open.spotify.com/track/19L9DxIRGPDhoOGcxiq27H) | [Dottie West](https://open.spotify.com/artist/2pvPkEAN9xSrDrIVUOxWMB) | [I'm Only a Woman](https://open.spotify.com/album/00XFRT1yVfeXgnyrJ8spCj) | 3:10 |
 
-Snapshot ID: `AbeLIAAAAAC25k3Whts/eiF87MgYVRTe`
+Snapshot ID: `AbeQtgAAAAD8tY/1toasY3Y3Jm55jKmS`

@@ -981,6 +981,24 @@
     },
     {
       "album": {
+        "name": "Beautiful Day",
+        "url": "https://open.spotify.com/album/4FVDEY1p359v8u8agzF4G8"
+      },
+      "artists": [
+        {
+          "name": "Silence Decibel and Colors",
+          "url": "https://open.spotify.com/artist/0cAo2MDp2DEdO1ecqfSL65"
+        }
+      ],
+      "date_added": "2024-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173324,
+      "name": "Beautiful Day",
+      "url": "https://open.spotify.com/track/6R2qWja1mSvUWowJYGkwb9"
+    },
+    {
+      "album": {
         "name": "been a good run",
         "url": "https://open.spotify.com/album/5boyqYSH73V2p6m9Gvj6Mw"
       },
@@ -5464,6 +5482,24 @@
       "duration_ms": 164000,
       "name": "IDONTWANNAWAKEUP",
       "url": "https://open.spotify.com/track/6y5KtAkEYBZE8VQY4y3Iw6"
+    },
+    {
+      "album": {
+        "name": "Nothing Here Is Going to Make Sense",
+        "url": "https://open.spotify.com/album/4CDGkw5pA7ullz6gUGTEDK"
+      },
+      "artists": [
+        {
+          "name": "Todd0",
+          "url": "https://open.spotify.com/artist/0sdezSy9XCGEZdAwNQVb1H"
+        }
+      ],
+      "date_added": "2024-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122326,
+      "name": "Imagination",
+      "url": "https://open.spotify.com/track/4booK8W8cdoXaEZmki1Fz7"
     },
     {
       "album": {
@@ -11890,6 +11926,24 @@
       "duration_ms": 192000,
       "name": "Untitled #13 (Super Slowed)",
       "url": "https://open.spotify.com/track/3fC7BKJN66Tyq44x6Try2R"
+    },
+    {
+      "album": {
+        "name": "URLIKEDRUGS.mp3",
+        "url": "https://open.spotify.com/album/1VPhVOdmlMTRHj7ABJfLg7"
+      },
+      "artists": [
+        {
+          "name": "Cove",
+          "url": "https://open.spotify.com/artist/2uzni49qw8y2lsakv1qTwO"
+        }
+      ],
+      "date_added": "2024-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "URLIKEDRUGS.mp3",
+      "url": "https://open.spotify.com/track/1wzOrBT9okDMkHMMnCLzXA"
     },
     {
       "album": {

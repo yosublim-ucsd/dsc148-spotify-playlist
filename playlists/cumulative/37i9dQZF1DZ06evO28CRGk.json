@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-14",
-  "description": "This is Marco Polo. The essential tracks, all in one playlist.",
+  "description": "This Is Marco Polo. Los temas esenciales, todos en una lista.",
   "name": "This Is Marco Polo",
   "tracks": [
     {
@@ -1224,7 +1224,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-07",
+      "date_removed": null,
       "duration_ms": 239887,
       "name": "Low Budget Allstars",
       "url": "https://open.spotify.com/track/7BoOgKHYSccK4riG6Dg7hp"
@@ -1404,7 +1404,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-09",
       "duration_ms": 129340,
       "name": "More Danger",
       "url": "https://open.spotify.com/track/5UUbhrtXsYKo2KeFPj7K4b"

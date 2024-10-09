@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Africa](https://open.spotify.com/playlist/37i9dQZF1DX5C8ObEZ48JQ)
 
-> The best new music by independent African artists and labels\. Cover:  <a href="https://open.spotify.com/artist/3WcXJ1FwSFJU88zc7vV9rz?si=\-RCMvClJTQK05j3D\_A5kFg">Lusanda</a>\. Artwork: Isu Kim.
+> The best new music by independent African artists and labels\. Cover:  <a href="https://open.spotify.com/artist/10G2iWM2FoafpNGqXZ9QMR?si=FueqiOBhQoS3REISrR8ajQ">KindlyNxsh</a>\. Artwork: Isu Kim.
 
-1,090 songs - 2 day 6 hr 42 min
+1,091 songs - 2 day 6 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -249,6 +249,7 @@
 | [DLT](https://open.spotify.com/track/3CcdZzxO4zi9PJ4wABNsPz) | [Aema](https://open.spotify.com/artist/7JSrXBvO9q497l16REoSS2) | [ALT SOUL, Vol\. 1](https://open.spotify.com/album/3xZmmPqI56XhwpiRAfqsDN) | 2:37 | 2024-02-06 | 2024-03-06 |
 | [Do \(The Kids Are Watching\)](https://open.spotify.com/track/72HKJ3tTJWao1YZIHUgjSg) | [Ahki](https://open.spotify.com/artist/5875m9R9PmEl5MLJv8Bm56) | [Do \(The Kids Are Watching\)](https://open.spotify.com/album/1YkjuD2cuICcJvMb9EMRVS) | 2:28 | 2024-02-06 | 2024-03-06 |
 | [Doing U Better](https://open.spotify.com/track/7trZEJ00tghFf93kvkyb7S) | [Tangaza](https://open.spotify.com/artist/2ud6k0Vv2jiXXg78RuPmaS), [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [La Soülchyld](https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV) | [Doing U Better](https://open.spotify.com/album/3OM6ultAF9mWPZZ5QC5Wdh) | 2:51 | 2023-03-29 | 2023-06-06 |
+| [Don't Braai Me \(Soldier Man\)](https://open.spotify.com/track/35J0wvREZ6snaBrDgO6yyM) | [KindlyNxsh](https://open.spotify.com/artist/10G2iWM2FoafpNGqXZ9QMR) | [Don't Braai Me \(Soldier Man\)](https://open.spotify.com/album/72TWJ05rBZEe0EQTOcj77V) | 2:22 | 2024-10-08 |  |
 | [Don't Cry \(feat\. Benerl\)](https://open.spotify.com/track/4gSNoczwZgkB0Wz6xxjaoT) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Benerl](https://open.spotify.com/artist/6FpN7gwehZgxVAgVHUMh1L) | [No Pressure](https://open.spotify.com/album/3yg34MqlH23DzPdIGFNwQU) | 3:52 | 2023-03-05 | 2023-03-10 |
 | [Don't Leave](https://open.spotify.com/track/2sNP5awHMfjvXR3oj7QVw1) | [SaveMilli](https://open.spotify.com/artist/2vAdhfI46PzYuG5vhKDxme) | [Don't Leave](https://open.spotify.com/album/5aQVE0y3esKlhQcl8Bjn7j) | 2:53 | 2023-09-27 | 2023-11-30 |
 | [Don't Leave](https://open.spotify.com/track/6AGy2SKNYEzMSTkLsCAtUn) | [Winny](https://open.spotify.com/artist/6QjsZEGqDMbzKvCdfFN5nz) | [Don't Leave](https://open.spotify.com/album/709IXOjBvnPvOtoQZmPrX4) | 2:37 | 2023-03-29 | 2024-02-07 |
@@ -1037,7 +1038,7 @@
 | [Walking Away](https://open.spotify.com/track/4CEqsSBbZ0IQVGGvBMn4BN) | [Eric Ananda](https://open.spotify.com/artist/3cpJADwM3eiEPMXFliIsrY), [Josh Yau](https://open.spotify.com/artist/4KDt1OdgiC9fZQb1ql0uIT) | [Walking Away](https://open.spotify.com/album/6IPHBP1F6s1lYqEkWWBZlW) | 2:45 | 2023-03-29 | 2023-06-28 |
 | [Walking Away](https://open.spotify.com/track/13KyvwN7nd8c9aqfgsh9co) | [UC Dray](https://open.spotify.com/artist/3bPlJjaqKSgvpka6JbumuP), [Lupo](https://open.spotify.com/artist/22HWq5tUvVLTUORQLxlXMf), [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [Bad Boy Still](https://open.spotify.com/album/0LQusxf0LY9ntzYm8xMEH3) | 3:12 | 2023-02-22 | 2023-03-30 |
 | [wallflower](https://open.spotify.com/track/7EiYGbZ0XNER4FuEsHIx00) | [MOONGA K.](https://open.spotify.com/artist/0bGetjEIDayY9BFzeCZL0d) | [GARDEN](https://open.spotify.com/album/1LkCpeHNsZ4ztzk8hsA0pe) | 4:01 | 2023-10-25 | 2023-11-30 |
-| [Wangu](https://open.spotify.com/track/17rkTOPJELyRofPM1MX3s3) | [Nasibi](https://open.spotify.com/artist/1XdK619e8CJcR5D5nxGF0h) | [Into the Nasiverse](https://open.spotify.com/album/0HkqZ2JBwE9BtTUors9GYw) | 4:04 | 2024-10-04 |  |
+| [Wangu](https://open.spotify.com/track/17rkTOPJELyRofPM1MX3s3) | [Nasibi](https://open.spotify.com/artist/1XdK619e8CJcR5D5nxGF0h) | [Into the Nasiverse](https://open.spotify.com/album/0HkqZ2JBwE9BtTUors9GYw) | 4:04 | 2024-10-04 | 2024-10-09 |
 | [Want It All](https://open.spotify.com/track/0rMg0aTus0SMln332gVa9M) | [Ruguru](https://open.spotify.com/artist/1paCrsKnETPLpODHtQfSSW) | [Ruguru](https://open.spotify.com/album/2rdXJOOC9kuPWxD1mboKCQ) | 3:04 | 2022-09-02 | 2022-10-01 |
 | [WATA BAMBAM](https://open.spotify.com/track/0trNmAJfTKAsNa0wvRZS4l) | [Egar Boi](https://open.spotify.com/artist/5BgxilmpjhmqEFKqoQnmIV) | [WATA BAMBAM](https://open.spotify.com/album/4EdKR0Y5poNvd65PHG4POZ) | 2:24 | 2024-05-01 | 2024-06-05 |
 | [Watch Me](https://open.spotify.com/track/1Sgss4f7RA4JOaX5OnqFzX) | [Tomilola](https://open.spotify.com/artist/3P1Zmz2gKgy7AQY9k1Wczy), [Shalom Dubas](https://open.spotify.com/artist/2ys4tbtUpMQd5eujuaRXSj) | [Watch Me](https://open.spotify.com/album/15I6lpUQGDX56A52FT4Dmv) | 3:52 | 2023-10-25 | 2023-11-30 |

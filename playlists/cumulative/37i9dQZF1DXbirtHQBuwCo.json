@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "Enjoy trendy & chill Korean R&B music. (Cover: Jacquees, Paul Blanco)",
+  "description": "Enjoy trendy & chill Korean R&B music. (Cover: Jay Park)",
   "name": "TrenChill K-R&B",
   "tracks": [
     {
@@ -5347,6 +5347,28 @@
     },
     {
       "album": {
+        "name": "THE ONE YOU WANTED",
+        "url": "https://open.spotify.com/album/0hwGsLDlg8Y2Xx9gxRAukv"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+        }
+      ],
+      "date_added": "2024-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185793,
+      "name": "Gimme A Minute (Feat. CHUNG HA)",
+      "url": "https://open.spotify.com/track/7jYRRvidgWHyHmlIu5lyx7"
+    },
+    {
+      "album": {
         "name": "glass",
         "url": "https://open.spotify.com/album/1VPiZ5TPYbkPT8u0kOuQLe"
       },
@@ -10068,7 +10090,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-30",
+      "date_removed": null,
       "duration_ms": 169893,
       "name": "ONCE AGAIN",
       "url": "https://open.spotify.com/track/5vsjD4VbQzkUUlvwFOhppn"
@@ -11284,7 +11306,7 @@
       ],
       "date_added": "2024-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-09",
       "duration_ms": 178733,
       "name": "Risk (Prod. By Devine Channel)",
       "url": "https://open.spotify.com/track/2Kwy9dFXHc5t1u7bdRlLgd"
@@ -11607,6 +11629,24 @@
     },
     {
       "album": {
+        "name": "Sentimental Love",
+        "url": "https://open.spotify.com/album/32V9wJHI9Mt9vnYCiUuX9N"
+      },
+      "artists": [
+        {
+          "name": "\ubbfc\uc9c0\uc6b4",
+          "url": "https://open.spotify.com/artist/5kgihglqsCaqCbtsJ0ef6v"
+        }
+      ],
+      "date_added": "2024-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134724,
+      "name": "Sentimental Love",
+      "url": "https://open.spotify.com/track/3AXhW63USQmXX3d4Efzmdd"
+    },
+    {
+      "album": {
         "name": "SESAME",
         "url": "https://open.spotify.com/album/4RBVQrJucNKAx0LkutK7Vv"
       },
@@ -11880,7 +11920,7 @@
       ],
       "date_added": "2024-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-09",
       "duration_ms": 137281,
       "name": "silhouette",
       "url": "https://open.spotify.com/track/6juIZLmOCW4ONUglzEDq00"
@@ -13066,7 +13106,7 @@
       ],
       "date_added": "2024-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-09",
       "duration_ms": 167533,
       "name": "Teddy Bear",
       "url": "https://open.spotify.com/track/6FprQS3RsJ0Y4JSzjzbhht"

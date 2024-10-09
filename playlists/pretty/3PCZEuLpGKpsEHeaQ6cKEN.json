@@ -1,13 +1,37 @@
 {
-  "description": "The tracks we love, work on and enjoy every hour of the day | Including trance, house, techno, dance, Afro house, melodic techno | Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! | Updated weekly on Friday | Cover:  Cedric Gervais x Nile Rodgers",
-  "num_followers": 271876,
+  "description": "The tracks we love, work on and enjoy every hour of the day | Including trance, house, techno, dance, Afro house, melodic techno | Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! | Updated weekly on Friday | Cover:  Layton Giordani",
+  "num_followers": 271860,
   "original_name": "Armada Today",
   "owner": {
     "name": "Armada Music",
     "url": "https://open.spotify.com/user/armadamusicofficial"
   },
-  "snapshot_id": "AADSkiKH7McfvdG7P8fCcaJR6V1uiAZ+",
+  "snapshot_id": "AADSlaBJpWxsZzteKnHHigVWRXjytyqK",
   "tracks": [
+    {
+      "added_at": "2024-10-04 12:53:52",
+      "album": {
+        "name": "Let's Go Dancing",
+        "url": "https://open.spotify.com/album/3ey1jQ8gUe2E8KRT8Flfjv"
+      },
+      "artists": [
+        {
+          "name": "Layton Giordani",
+          "url": "https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4"
+        },
+        {
+          "name": "Tiga",
+          "url": "https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC"
+        },
+        {
+          "name": "Audion",
+          "url": "https://open.spotify.com/artist/1ygSVTF0A998n2Z3nmLei8"
+        }
+      ],
+      "duration_ms": 228372,
+      "name": "Let's Go Dancing",
+      "url": "https://open.spotify.com/track/5se4SpUxbStmWGZngKWqLU"
+    },
     {
       "added_at": "2024-10-04 12:53:52",
       "album": {
@@ -167,30 +191,6 @@
       "duration_ms": 167329,
       "name": "Let Me Show You",
       "url": "https://open.spotify.com/track/2a7EPJ2PxMr2S4gRmKFmCR"
-    },
-    {
-      "added_at": "2024-10-04 12:53:52",
-      "album": {
-        "name": "Let's Go Dancing",
-        "url": "https://open.spotify.com/album/3ey1jQ8gUe2E8KRT8Flfjv"
-      },
-      "artists": [
-        {
-          "name": "Layton Giordani",
-          "url": "https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4"
-        },
-        {
-          "name": "Tiga",
-          "url": "https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC"
-        },
-        {
-          "name": "Audion",
-          "url": "https://open.spotify.com/artist/1ygSVTF0A998n2Z3nmLei8"
-        }
-      ],
-      "duration_ms": 228372,
-      "name": "Let's Go Dancing",
-      "url": "https://open.spotify.com/track/5se4SpUxbStmWGZngKWqLU"
     },
     {
       "added_at": "2024-10-04 12:53:52",

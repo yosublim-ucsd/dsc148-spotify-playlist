@@ -1,13 +1,37 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125762,
+  "num_followers": 125755,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAATHbs1bo7t5k9D5oTeq6IAvZumEpiU",
+  "snapshot_id": "AAATHwPkejd1PWgU2GTu3SxvTvOO/YZK",
   "tracks": [
+    {
+      "added_at": "2024-10-08 14:14:35",
+      "album": {
+        "name": "Solace",
+        "url": "https://open.spotify.com/album/1A5i4MuUVZLhHpQ8ag68e4"
+      },
+      "artists": [
+        {
+          "name": "Shingo Nakamura",
+          "url": "https://open.spotify.com/artist/58zz0VTpGNHn7MGTlW2cxQ"
+        },
+        {
+          "name": "Mango",
+          "url": "https://open.spotify.com/artist/5x6H8meBBWk6J8qcIWxW7w"
+        },
+        {
+          "name": "Nina Carr",
+          "url": "https://open.spotify.com/artist/776UugG4CdQlYfsEUVCRqb"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Solace",
+      "url": "https://open.spotify.com/track/2a2ue6juHldn6FAgzflCYs"
+    },
     {
       "added_at": "2024-10-07 19:23:26",
       "album": {
@@ -1167,22 +1191,6 @@
       "duration_ms": 148656,
       "name": "What If I Stay",
       "url": "https://open.spotify.com/track/0AFGePrpNwxHi0RkZcn2DT"
-    },
-    {
-      "added_at": "2024-07-17 13:40:47",
-      "album": {
-        "name": "Tax Evasion",
-        "url": "https://open.spotify.com/album/2ri6axMCVTYBXSH7DFWv33"
-      },
-      "artists": [
-        {
-          "name": "Kompany",
-          "url": "https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP"
-        }
-      ],
-      "duration_ms": 214344,
-      "name": "Tax Evasion",
-      "url": "https://open.spotify.com/track/5NiVqcP6gFcPoeIEOtUKlE"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

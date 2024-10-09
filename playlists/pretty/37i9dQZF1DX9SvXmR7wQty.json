@@ -1,6 +1,6 @@
 {
   "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Lara Fabian",
-  "num_followers": 42128,
+  "num_followers": 42133,
   "original_name": "Nouveaut\u00e9s francophones",
   "owner": {
     "name": "Spotify",
@@ -487,6 +487,22 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
+        "name": "P\u00e9tunias",
+        "url": "https://open.spotify.com/album/1xF3GugX1r1Jj3xsljohcv"
+      },
+      "artists": [
+        {
+          "name": "Werenoi",
+          "url": "https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh"
+        }
+      ],
+      "duration_ms": 211239,
+      "name": "P\u00e9tunias",
+      "url": "https://open.spotify.com/track/4csiR0voWHzg46BFnQZ0kp"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
         "name": "Bazar",
         "url": "https://open.spotify.com/album/1N9W4DaURi0lQYOM7DpsDW"
       },
@@ -503,18 +519,22 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "P\u00e9tunias",
-        "url": "https://open.spotify.com/album/1xF3GugX1r1Jj3xsljohcv"
+        "name": "Guardia",
+        "url": "https://open.spotify.com/album/3q8v30SjuOOQJQ93zXrvpa"
       },
       "artists": [
         {
-          "name": "Werenoi",
-          "url": "https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh"
+          "name": "Lartiste",
+          "url": "https://open.spotify.com/artist/6HhnhnxLsowYuuejvku0Bz"
+        },
+        {
+          "name": "Maes",
+          "url": "https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j"
         }
       ],
-      "duration_ms": 211239,
-      "name": "P\u00e9tunias",
-      "url": "https://open.spotify.com/track/4csiR0voWHzg46BFnQZ0kp"
+      "duration_ms": 198000,
+      "name": "Guardia",
+      "url": "https://open.spotify.com/track/0dBvXYsTinPdEncSmFgzql"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -555,42 +575,6 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Briller",
-        "url": "https://open.spotify.com/album/3FgRHkmNzBFV66oTNOiTvS"
-      },
-      "artists": [
-        {
-          "name": "Jungeli",
-          "url": "https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7"
-        }
-      ],
-      "duration_ms": 191560,
-      "name": "Briller",
-      "url": "https://open.spotify.com/track/08vI6Y72g0Zkd6SeezUKHy"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "Guardia",
-        "url": "https://open.spotify.com/album/3q8v30SjuOOQJQ93zXrvpa"
-      },
-      "artists": [
-        {
-          "name": "Lartiste",
-          "url": "https://open.spotify.com/artist/6HhnhnxLsowYuuejvku0Bz"
-        },
-        {
-          "name": "Maes",
-          "url": "https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "Guardia",
-      "url": "https://open.spotify.com/track/0dBvXYsTinPdEncSmFgzql"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
         "name": "Dans les veines",
         "url": "https://open.spotify.com/album/5VSzl7ioWGOpoQTV4ZBqWG"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 173933,
       "name": "Dans les veines",
       "url": "https://open.spotify.com/track/0ewiAClIyaKosExdgSuqew"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Briller",
+        "url": "https://open.spotify.com/album/3FgRHkmNzBFV66oTNOiTvS"
+      },
+      "artists": [
+        {
+          "name": "Jungeli",
+          "url": "https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7"
+        }
+      ],
+      "duration_ms": 191560,
+      "name": "Briller",
+      "url": "https://open.spotify.com/track/08vI6Y72g0Zkd6SeezUKHy"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -679,22 +679,6 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Petit chaton",
-        "url": "https://open.spotify.com/album/4jlNqjll7wP71dCucSxZr5"
-      },
-      "artists": [
-        {
-          "name": "Vacra",
-          "url": "https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu"
-        }
-      ],
-      "duration_ms": 144985,
-      "name": "Petit chaton",
-      "url": "https://open.spotify.com/track/74oAPWAhHJDenq4vlzP10O"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
         "name": "Monde Nouveau",
         "url": "https://open.spotify.com/album/2v016SMb35ARN5QFIxKwUA"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 157116,
       "name": "Monde Nouveau",
       "url": "https://open.spotify.com/track/4ug44FLXT8LAfXc7WSUkha"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Petit chaton",
+        "url": "https://open.spotify.com/album/4jlNqjll7wP71dCucSxZr5"
+      },
+      "artists": [
+        {
+          "name": "Vacra",
+          "url": "https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu"
+        }
+      ],
+      "duration_ms": 144985,
+      "name": "Petit chaton",
+      "url": "https://open.spotify.com/track/74oAPWAhHJDenq4vlzP10O"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -787,22 +787,6 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "SHAKE",
-        "url": "https://open.spotify.com/album/7j1MZzsUfCGSXItWOy8X1x"
-      },
-      "artists": [
-        {
-          "name": "Franglish",
-          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
-        }
-      ],
-      "duration_ms": 171281,
-      "name": "SHAKE",
-      "url": "https://open.spotify.com/track/5i0rsI0ih8V4pgY6J3MsHT"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
         "name": "Gamins des sables",
         "url": "https://open.spotify.com/album/7i6lctPeWsgOFi2YecT4tG"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 179279,
       "name": "Gamins des sables",
       "url": "https://open.spotify.com/track/0dzdbXvbbHNTiPkaNPgZLf"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "SHAKE",
+        "url": "https://open.spotify.com/album/7j1MZzsUfCGSXItWOy8X1x"
+      },
+      "artists": [
+        {
+          "name": "Franglish",
+          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
+        }
+      ],
+      "duration_ms": 171281,
+      "name": "SHAKE",
+      "url": "https://open.spotify.com/track/5i0rsI0ih8V4pgY6J3MsHT"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -851,6 +851,22 @@
       "duration_ms": 238595,
       "name": "Parades Photos",
       "url": "https://open.spotify.com/track/7wc9odIwuIGgPnRpEHEd5B"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Chacun son chacun",
+        "url": "https://open.spotify.com/album/5evTiiR9ce2tsiqO0BkilL"
+      },
+      "artists": [
+        {
+          "name": "THEODORT",
+          "url": "https://open.spotify.com/artist/6q87j1F6EtUxjlvkJNknFp"
+        }
+      ],
+      "duration_ms": 153618,
+      "name": "Chacun son chacun",
+      "url": "https://open.spotify.com/track/3PmHpfvSyxtBqZrRG8K2zx"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -895,22 +911,6 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Chacun son chacun",
-        "url": "https://open.spotify.com/album/5evTiiR9ce2tsiqO0BkilL"
-      },
-      "artists": [
-        {
-          "name": "THEODORT",
-          "url": "https://open.spotify.com/artist/6q87j1F6EtUxjlvkJNknFp"
-        }
-      ],
-      "duration_ms": 153618,
-      "name": "Chacun son chacun",
-      "url": "https://open.spotify.com/track/3PmHpfvSyxtBqZrRG8K2zx"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
         "name": "Nouvelle vie",
         "url": "https://open.spotify.com/album/5KQCORt6AmV9VcZYYfTWVL"
       },
@@ -923,26 +923,6 @@
       "duration_ms": 192346,
       "name": "Nouvelle vie",
       "url": "https://open.spotify.com/track/4nXsx2uiPr0fOYRLa6xB52"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "7 Vie L\u00e0",
-        "url": "https://open.spotify.com/album/3Qhf6BHKSsd1VZlBKOcgK9"
-      },
-      "artists": [
-        {
-          "name": "Frank'emcy",
-          "url": "https://open.spotify.com/artist/1U08mG4rKbGFB6kLMg1J0G"
-        },
-        {
-          "name": "BOLEMVN",
-          "url": "https://open.spotify.com/artist/0gGcw3tA1fZoF23qa8KFb7"
-        }
-      ],
-      "duration_ms": 215796,
-      "name": "7 Vie L\u00e0",
-      "url": "https://open.spotify.com/track/02PPZbednkOxP4Q3qpuOHN"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -963,6 +943,26 @@
       "duration_ms": 184573,
       "name": "DOUTE (feat. Zamdane)",
       "url": "https://open.spotify.com/track/6TTdUXf9Va6d1MZ39WKQhk"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "7 Vie L\u00e0",
+        "url": "https://open.spotify.com/album/3Qhf6BHKSsd1VZlBKOcgK9"
+      },
+      "artists": [
+        {
+          "name": "Frank'emcy",
+          "url": "https://open.spotify.com/artist/1U08mG4rKbGFB6kLMg1J0G"
+        },
+        {
+          "name": "BOLEMVN",
+          "url": "https://open.spotify.com/artist/0gGcw3tA1fZoF23qa8KFb7"
+        }
+      ],
+      "duration_ms": 215796,
+      "name": "7 Vie L\u00e0",
+      "url": "https://open.spotify.com/track/02PPZbednkOxP4Q3qpuOHN"
     }
   ],
   "unique_name": "Nouveaut\u00e9s francophones",

@@ -4,7 +4,7 @@
 
 > The Best Background Chill House Chillout Music to listen to while Work, Chilling, Sleeping, Sleep, Work Focus, Relax, Relaxing Music, Lounge, Home, Bed, Calm Chillout Music, Bedroom 🌃
 
-708 songs - 1 day 7 hr 33 min
+709 songs - 1 day 7 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,6 +126,7 @@
 | [Cheerleader \(Felix Jaehn Remix\) \- Radio Edit](https://open.spotify.com/track/7vFoFDWqTX0mHzLfrF1Cfy) | [OMI](https://open.spotify.com/artist/5MouCg6ta7zAxsfMEbc1uh), [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG) | [Me 4 U](https://open.spotify.com/album/7cVXH4slEYzGjDh498OFyL) | 3:00 | 2023-12-02 | 2024-09-15 |
 | [Chemicals](https://open.spotify.com/track/6uflD5CJQvJ5agADZxw50K) | [Madism](https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv), [Thierry Von Der Warth](https://open.spotify.com/artist/2mF9PcfpN8vxRtCfra8hz1) | [Chemicals](https://open.spotify.com/album/5GV6Kt8uRRdL6ZhLSb0fEL) | 3:06 | 2024-08-23 |  |
 | [Cherish](https://open.spotify.com/track/256duzyAQ2cgNI0Bh89K0m) | [Alon](https://open.spotify.com/artist/3NOLGndGHL48IB3YFdA36r) | [Cherish](https://open.spotify.com/album/5OVwztAS3zX3ufTgXZNA8R) | 2:28 | 2024-04-05 | 2024-06-15 |
+| [Children](https://open.spotify.com/track/6HnZ4voVHJmmx8eLz809dX) | [Sum Wave](https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci) | [Children](https://open.spotify.com/album/2itCxG4t12JklZoswP6RMt) | 3:01 | 2024-10-08 |  |
 | [City of Lights](https://open.spotify.com/track/6djw06D6xYUoAbCkghJWCh) | [Dawilk](https://open.spotify.com/artist/71Ys73tqf8PyRWqr8PFpaf) | [City of Lights](https://open.spotify.com/album/4aj6DE1j6wfTr0vqRVa9x0) | 2:29 | 2024-03-15 | 2024-04-15 |
 | [Close My Eyes](https://open.spotify.com/track/4Dh2eeHgV5z4KycDFu96Sv) | [Nick En Mare](https://open.spotify.com/artist/34lGOTr7zmQZ6GBzS6XGx6) | [Close My Eyes](https://open.spotify.com/album/2eHY6qFvmQeOqYzT2saxXk) | 3:18 | 2024-04-05 | 2024-05-06 |
 | [Close To Me](https://open.spotify.com/track/0Wi6hvPJTZBKrXjmvVFtOQ) | [Y.V.E\. 48](https://open.spotify.com/artist/5zSWGyWE5d0PYaYrtdVwOz) | [Close To Me](https://open.spotify.com/album/25LsKk7Y1HICxLdE5mWxx7) | 2:35 | 2023-12-04 | 2024-06-29 |

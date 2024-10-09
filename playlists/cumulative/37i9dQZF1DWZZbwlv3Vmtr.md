@@ -4,7 +4,7 @@
 
 > Uptempo instrumental hip hop beats.
 
-969 songs - 1 day 13 hr 33 min
+970 songs - 1 day 13 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,7 @@
 | [Baia Del Sole](https://open.spotify.com/track/08ZuawhWrtqcOiwTctQA6S) | [Mindr](https://open.spotify.com/artist/7AObJiF0vqNNnysunp45om), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN) | [Baia Del Sole](https://open.spotify.com/album/1eBsecVp130mrzeKJ257oG) | 2:24 | 2022-07-29 | 2022-09-30 |
 | [Bakery](https://open.spotify.com/track/6fvn2bC5eyxUBr5I2lFHRD) | [Lemeria](https://open.spotify.com/artist/6djoTVe8DDQ9I7tFOL673y), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [Bakery \| A Walk In Central Park](https://open.spotify.com/album/2ZNLy8gIAiDnhhh2CyhbvX) | 2:13 | 2022-09-23 | 2023-11-17 |
 | [Baleari](https://open.spotify.com/track/2FzjrkecNKLDLGKYCyR0WF) | [Valhallz](https://open.spotify.com/artist/5lIQiCIm32WqGlcDYxJRWh) | [Baleari](https://open.spotify.com/album/5a4Mfj0XeE99KXxIJlf34Y) | 3:29 | 2023-09-08 |  |
-| [bar on mars](https://open.spotify.com/track/66Hc6Rfa9gckPX9Ixijv6Z) | [drawn animal](https://open.spotify.com/artist/1Y6lFDIG5QZMrt1AlvW89P) | [bar on mars](https://open.spotify.com/album/7EwBkebIhk8eH0vHeRs98I) | 2:02 | 2022-07-22 |  |
+| [bar on mars](https://open.spotify.com/track/66Hc6Rfa9gckPX9Ixijv6Z) | [drawn animal](https://open.spotify.com/artist/1Y6lFDIG5QZMrt1AlvW89P) | [bar on mars](https://open.spotify.com/album/7EwBkebIhk8eH0vHeRs98I) | 2:02 | 2022-07-22 | 2024-10-09 |
 | [Bareru Rōru](https://open.spotify.com/track/2euw7YmuTYRuBx0DQTgvqq) | [d.w.h](https://open.spotify.com/artist/2Mv14rolxu9z56WEkPIhZd) | [Bareru Rōru](https://open.spotify.com/album/4UDE3AKNXjv7rFvv4T5KKO) | 2:38 | 2023-11-17 |  |
 | [barista](https://open.spotify.com/track/0wAlWdKvZ4WS4NJ5veqcOU) | [Emotional thistle](https://open.spotify.com/artist/308rengQaTapxWBn0scsQk) | [barista](https://open.spotify.com/album/5lBIty29ReEAnUdxWzcelj) | 2:42 | 2022-12-09 | 2024-02-02 |
 | [Beach & Berries](https://open.spotify.com/track/10zYErxZB71gJnKk5iaQD9) | [Kantboll](https://open.spotify.com/artist/0bKRZMzwgUflqx6PP7Glfn) | [Beach & Berries](https://open.spotify.com/album/4q6YuYWtSiwaLvEZid6GzQ) | 2:04 | 2022-04-15 | 2022-07-08 |
@@ -214,6 +214,7 @@
 | [early one day](https://open.spotify.com/track/7vtAeEq9ICIBVjkFGpXeqN) | [Harry G's Beats](https://open.spotify.com/artist/59fTGxMpUBkID2RojOnA8V) | [early one day](https://open.spotify.com/album/0XAznNmMD2hT3rgM7Tf1y2) | 2:06 | 2023-12-22 |  |
 | [Early rise](https://open.spotify.com/track/0Xc8uXfsxcNMj2y1IKwo2T) | [7th Realm](https://open.spotify.com/artist/4UtJ3cnpM9ptMHY6LSfMUs), [tides.](https://open.spotify.com/artist/138GsDz0pX5leXnKi7ay7G) | [Early rise](https://open.spotify.com/album/4rqsMKNsFZOgf2QRgeaLPN) | 1:46 | 2024-07-04 | 2024-08-10 |
 | [Echovision](https://open.spotify.com/track/1kPlZE0QL6gzMkykmEz0Zv) | [FreakBeats](https://open.spotify.com/artist/0pyekPSB9eriDdKgK71n2V) | [Echovision](https://open.spotify.com/album/2bfn7CAh6ULbmpDOOazf3W) | 2:19 | 2024-03-01 |  |
+| [eel](https://open.spotify.com/track/5tfudQf31x4RBloVTB2OaF) | [MF Eistee](https://open.spotify.com/artist/0hA8JnKhTRBeTfCFoZiem1) | [eel](https://open.spotify.com/album/5jukeayQqUy3iqhyhCqXIv) | 2:00 | 2024-10-04 |  |
 | [El Clásico](https://open.spotify.com/track/2R8izDCEhhL9vQSkHZZZLG) | [Byz Playground](https://open.spotify.com/artist/0BMwJwRVDIJwATictkQzky) | [El Clásico](https://open.spotify.com/album/2rPikPoa8oTq9EWfPUgS6b) | 2:04 | 2022-10-14 | 2024-02-09 |
 | [Elastic](https://open.spotify.com/track/2L2aSrua8ZBRMogFhF6I1Q) | [4to28](https://open.spotify.com/artist/0yWkm3SjcPi6xzWv5qCKmM) | [Elastic](https://open.spotify.com/album/4lXR2fC1cbE3mD732vjbdM) | 2:01 | 2022-05-20 |  |
 | [Elevated](https://open.spotify.com/track/0G2RKuFx54rmtbhi5CP0VZ) | [Paklite](https://open.spotify.com/artist/4e1q3xincZXgqIGXXhZ0Dh), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [Elevated](https://open.spotify.com/album/36FHXlNUoSoarwPkzATpun) | 2:30 | 2022-08-19 | 2022-12-10 |
@@ -359,7 +360,7 @@
 | [I.](https://open.spotify.com/track/6A5EYxkV7gzZv3PW96u3Jf) | [Seb Zillner](https://open.spotify.com/artist/7JbVYHCk4gezX4sZTFW50x), [A N T I T H E S I S](https://open.spotify.com/artist/1sbuH2QadilkAzCOOrjHuf) | [I.](https://open.spotify.com/album/0vBKiSgFfpnnAD37wjuicI) | 2:07 | 2022-04-22 | 2022-12-10 |
 | [IAH](https://open.spotify.com/track/1N9Bw73tG0owhecdbSTENt) | [Jaeden Camstra](https://open.spotify.com/artist/1xOgtDBKnZvSLAgCVSOmNH) | [Shanghai 2004](https://open.spotify.com/album/38iWAh9jYsGlOYpqsG82lA) | 1:28 | 2024-05-29 |  |
 | [If You Want Me To Stay](https://open.spotify.com/track/6ppxI6qxTQnyJlpoBoDdBA) | [Lofitic](https://open.spotify.com/artist/6oBQKbykqoZPrX8ebzX8ZM) | [If You Want Me To Stay](https://open.spotify.com/album/2axBvm9VWTwYhCGXa7Iq3J) | 2:19 | 2022-04-22 | 2023-10-13 |
-| [Ignite](https://open.spotify.com/track/4p5CY3aCPoLwJ2xRFyUSPS) | [Kuma](https://open.spotify.com/artist/0suxEENL0L6anpzBRc8IeB) | [Ignite](https://open.spotify.com/album/2NdajnVAkzx22HQ5BuEwAS) | 2:17 | 2024-08-09 |  |
+| [Ignite](https://open.spotify.com/track/4p5CY3aCPoLwJ2xRFyUSPS) | [Kuma](https://open.spotify.com/artist/0suxEENL0L6anpzBRc8IeB) | [Ignite](https://open.spotify.com/album/2NdajnVAkzx22HQ5BuEwAS) | 2:17 | 2024-08-09 | 2024-10-09 |
 | [Ilene](https://open.spotify.com/track/0Y5hAGvfwXoQnjWEd90ju2) | [Blutone](https://open.spotify.com/artist/6C3HjDxIciOd8XvkEnNamY) | [Sharingan](https://open.spotify.com/album/5ISSZnA4V8C7eCia0WIhsY) | 2:09 | 2022-04-15 |  |
 | [Illjazz](https://open.spotify.com/track/6Nf3WJHF1ZCya9gwD55NwD) | [Lamar Azul](https://open.spotify.com/artist/3dW0pC8Ra3zhpntjvBbD34) | [Illjazz](https://open.spotify.com/album/3zh3LrNpLIKuNr2aI5FCsS) | 2:27 | 2022-12-16 | 2023-09-22 |
 | [In Bloom](https://open.spotify.com/track/6uxits25W76rYLfFshJKvs) | [greenface](https://open.spotify.com/artist/2aTEuIyczpLxQw9I0UiEFL), [sftspkn](https://open.spotify.com/artist/2RTHRVmtTiMDjDCZIOO9wq) | [In Bloom](https://open.spotify.com/album/6OjWvKpu6EoPGlnNaO5WXb) | 2:30 | 2022-10-28 |  |
@@ -412,7 +413,7 @@
 | [lalalala](https://open.spotify.com/track/3y8x4FedCk7oZp1EdTSimF) | [Zoulzest](https://open.spotify.com/artist/3033U6vVNxs1vUC8wKuv6F) | [lalalala](https://open.spotify.com/album/0HE6pMfXCjvZPBh3dwzgzo) | 2:29 | 2024-07-26 |  |
 | [Lantana](https://open.spotify.com/track/2FoFXdEp7Vq0F6WnX5C2pp) | [Rooey](https://open.spotify.com/artist/5y2hfguiOBZAN1WUEyi2cv) | [Lantana](https://open.spotify.com/album/5UNOpQ3MBnoqtzUWQLKYYl) | 3:00 | 2022-09-02 | 2023-11-17 |
 | [Last Call 2](https://open.spotify.com/track/0li4HOpLhTA5YlEz4jUPOj) | [gambino M](https://open.spotify.com/artist/0eyPSClzklAcWC8maQbHiQ) | [Last Call 2](https://open.spotify.com/album/7d4zf1MRpZTrUx0RWqCV05) | 2:00 | 2022-04-15 | 2022-09-17 |
-| [Last Mission](https://open.spotify.com/track/68eeyMyBLYvpBKuKlGEFgv) | [Svanen](https://open.spotify.com/artist/2YuspxUFYn3GTgnk5boTvi) | [Last Mission](https://open.spotify.com/album/2yE00pVDJf10PO5Zop9Akg) | 3:07 | 2022-04-15 | 2024-10-08 |
+| [Last Mission](https://open.spotify.com/track/68eeyMyBLYvpBKuKlGEFgv) | [Svanen](https://open.spotify.com/artist/2YuspxUFYn3GTgnk5boTvi) | [Last Mission](https://open.spotify.com/album/2yE00pVDJf10PO5Zop9Akg) | 3:07 | 2022-04-15 |  |
 | [Lastly](https://open.spotify.com/track/4YS0gtYzdEVp2lUfvvnFXS) | [Lydtakt](https://open.spotify.com/artist/2nbKa9EFY05zFjSwkmMjkq) | [Lastly](https://open.spotify.com/album/4aD6nKJleOgIcFLUN9eYry) | 2:05 | 2023-01-13 | 2023-11-24 |
 | [Late Night Jam](https://open.spotify.com/track/73yXOxZAK9FymtlXDfLVnR) | [Wasted Glitter](https://open.spotify.com/artist/0dNux2V8fLK0d4fyqwU5iZ) | [Late Night Jam](https://open.spotify.com/album/09VmKc1VmrrFGMVc3SvXd4) | 2:27 | 2022-04-15 | 2022-09-03 |
 | [Late Night Jams](https://open.spotify.com/track/5j2yseMUjUsSFLWEI1nihH) | [Ouija Chords](https://open.spotify.com/artist/3tcxWYxIzG1rkrWBRqybBT) | [Late Night Jams](https://open.spotify.com/album/3alL8x7PTdVr4gqr7lUQuf) | 1:49 | 2022-09-16 | 2023-10-20 |

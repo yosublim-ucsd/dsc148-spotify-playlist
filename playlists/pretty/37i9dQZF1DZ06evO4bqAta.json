@@ -1,12 +1,12 @@
 {
-  "description": "This is Bob Dylan. The essential tracks, all in one playlist.",
-  "num_followers": 523893,
+  "description": "This Is Bob Dylan. Los temas esenciales, todos en una lista.",
+  "num_followers": 524020,
   "original_name": "This Is Bob Dylan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwHTAAAAAADTChCpwNPAygpf/q10Owr0",
+  "snapshot_id": "ZwMkgAAAAACatWruNNGEFujNUrMA6kBE",
   "tracks": [
     {
       "added_at": null,
@@ -747,22 +747,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The 1974 Live Recordings Sampler",
-        "url": "https://open.spotify.com/album/5x6WnUtS1wQU9MRHQWzPQa"
+        "name": "Slow Train Coming",
+        "url": "https://open.spotify.com/album/5k4z33VjpVmkOB18IgOD8E"
       },
       "artists": [
         {
           "name": "Bob Dylan",
           "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        },
-        {
-          "name": "The Band",
-          "url": "https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA"
         }
       ],
-      "duration_ms": 261799,
-      "name": "Something There Is About You - Live at Madison Square Garden, New York City, NY - January 30, 1974",
-      "url": "https://open.spotify.com/track/5o47ZqRTyHccIrzHna2mNf"
+      "duration_ms": 324800,
+      "name": "Gotta Serve Somebody",
+      "url": "https://open.spotify.com/track/760420tYNmNjFgi8bWvbop"
     },
     {
       "added_at": null,
@@ -783,18 +779,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Slow Train Coming",
-        "url": "https://open.spotify.com/album/5k4z33VjpVmkOB18IgOD8E"
+        "name": "The 1974 Live Recordings Sampler",
+        "url": "https://open.spotify.com/album/5x6WnUtS1wQU9MRHQWzPQa"
       },
       "artists": [
         {
           "name": "Bob Dylan",
           "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        },
+        {
+          "name": "The Band",
+          "url": "https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA"
         }
       ],
-      "duration_ms": 324800,
-      "name": "Gotta Serve Somebody",
-      "url": "https://open.spotify.com/track/760420tYNmNjFgi8bWvbop"
+      "duration_ms": 261799,
+      "name": "Something There Is About You - Live at Madison Square Garden, New York City, NY - January 30, 1974",
+      "url": "https://open.spotify.com/track/5o47ZqRTyHccIrzHna2mNf"
     },
     {
       "added_at": null,
@@ -811,26 +811,6 @@
       "duration_ms": 387733,
       "name": "Not Dark Yet",
       "url": "https://open.spotify.com/track/1qbn6QrHG8XfnqVFKgNzKP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The 1974 Live Recordings Sampler",
-        "url": "https://open.spotify.com/album/5x6WnUtS1wQU9MRHQWzPQa"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        },
-        {
-          "name": "The Band",
-          "url": "https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA"
-        }
-      ],
-      "duration_ms": 175773,
-      "name": "Nobody 'Cept You - Live at Chicago Stadium, Chicago, IL - January 3, 1974",
-      "url": "https://open.spotify.com/track/2uaGLT9YY9hwEt13dzImnl"
     },
     {
       "added_at": null,
@@ -863,6 +843,26 @@
       "duration_ms": 161466,
       "name": "Corrina, Corrina",
       "url": "https://open.spotify.com/track/1L4RtuEiAiwdX5taX4meLI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The 1974 Live Recordings Sampler",
+        "url": "https://open.spotify.com/album/5x6WnUtS1wQU9MRHQWzPQa"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        },
+        {
+          "name": "The Band",
+          "url": "https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA"
+        }
+      ],
+      "duration_ms": 175773,
+      "name": "Nobody 'Cept You - Live at Chicago Stadium, Chicago, IL - January 3, 1974",
+      "url": "https://open.spotify.com/track/2uaGLT9YY9hwEt13dzImnl"
     }
   ],
   "unique_name": "This Is Bob Dylan",

@@ -4,7 +4,7 @@
 
 > Magic of acoustic poured into your Chai\. Cover \- Shreya Ghoshal
 
-424 songs - 23 hr 59 min
+425 songs - 1 day 0 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Barf](https://open.spotify.com/track/4RjsIBmaoenrJ3SX4k5b9i) | [Ana Rehman](https://open.spotify.com/artist/3GeB4PeRfwhRaI1Xtu7FIH), [Shubham Shirule](https://open.spotify.com/artist/6beOaVvPVwBvJMHZZox3p1) | [Barf](https://open.spotify.com/album/4RTmstfIDxfHpKjnEjbscI) | 3:12 | 2024-08-27 |  |
 | [Barsa Hai](https://open.spotify.com/track/0dWakILE5r3Zt3M0mCDSDP) | [Trishita Recs](https://open.spotify.com/artist/4lB0A51UgKHZ00Uhuta9K4) | [Barsa Hai](https://open.spotify.com/album/1ZUkEiW26xpKQsfHzy8Fwf) | 3:17 | 2024-08-10 | 2024-09-03 |
 | [Barsaat Aa Gayi \- Acoustic](https://open.spotify.com/track/3u2TfgGswNKiTuBMB8cIXe) | [Javed\-Mohsin](https://open.spotify.com/artist/2zvJLk0gTH7r7A5Q6X5Bq8), [Hina Khan](https://open.spotify.com/artist/4xKss8ZlA5A4abTQpqynah) | [Barsaat Aa Gayi \(Acoustic\)](https://open.spotify.com/album/1nOjUyG49pdq4P20pv7Nam) | 3:36 | 2023-09-21 | 2023-11-06 |
+| [Bas Kaafi Hai](https://open.spotify.com/track/2yxRnMJTgBDTUf3qVX7Yu1) | [Shekhar Ravjiani](https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Manoj Yadav](https://open.spotify.com/artist/0qSfAhYhb7KWEuiLuooBaE) | [Bas Kaafi Hai](https://open.spotify.com/album/0KH4Y7pf9Udh0KIP2ymRGf) | 4:57 | 2024-10-08 |  |
 | [Baton Baton Mein \(From "Love\-All"\)](https://open.spotify.com/track/6fnVga9swfvgQ6r8NcRQoj) | [Jubin Nautiyal](https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa), [Saurabh Vaibhav](https://open.spotify.com/artist/2f8BvXBGosWesY17nmZAGl) | [Baton Baton Mein \(From "Love\-All"\)](https://open.spotify.com/album/4hxaVoj9O1DZ3bsvicYH0s) | 3:49 | 2023-08-04 | 2023-09-02 |
 | [Bawariya](https://open.spotify.com/track/5V4skDQqJVmt6gIgYpYEFB) | [Vilen](https://open.spotify.com/artist/5gVozagAcRKYCeAVnlC3Nk) | [Bawariya](https://open.spotify.com/album/1bIZt0uCgtKJOvlqvBSs4C) | 2:59 | 2023-11-21 | 2023-12-17 |
 | [Bechara Dil](https://open.spotify.com/track/35BePcnXPMZgIDsTY3UAvT) | [Aditya Agrahari](https://open.spotify.com/artist/4NIu0zykf43b9Ncn20tTxG), [Ishaan Nigam](https://open.spotify.com/artist/7t0r7FfBdamMr706MF59G2) | [Bechara Dil](https://open.spotify.com/album/6ukDINQR94HElsfitxKPFN) | 2:41 | 2023-12-26 | 2024-01-05 |
@@ -187,7 +188,7 @@
 | [Kashtiyaan](https://open.spotify.com/track/54xTcmfvjb1qzQgcIJRHVp) | [Chirag](https://open.spotify.com/artist/2MPyD5qsOPAr2t6FDjPgIq), [Shubham Srivastava](https://open.spotify.com/artist/2eHR6QIdUx1rIZ2y4EBcjc) | [Kashtiyaan](https://open.spotify.com/album/0YZFayv6b8bsJov07LjkVf) | 3:14 | 2024-02-13 | 2024-03-23 |
 | [Kasoor \- Acoustic](https://open.spotify.com/track/117gRrOjnRkMCgWxNtDNSv) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [Shehron Ke Raaz](https://open.spotify.com/album/0OU05VmEgCYZE5JxpD07BZ) | 3:33 | 2023-05-17 |  |
 | [Keh Do Na](https://open.spotify.com/track/6c3LR94yDATEjWBJQCaYs3) | [Garvit \- Priyansh](https://open.spotify.com/artist/6pYc4P7IWYwWttTPzYkDV4), [Garvit Soni](https://open.spotify.com/artist/4MCoxHC5rvQP0I7o63RXSH), [Priyansh Srivastava](https://open.spotify.com/artist/1mmWHJzVXCNSQBlbeAMKFU) | [Lafz](https://open.spotify.com/album/4LAHU5zvi4sU5wBApjHa4E) | 3:42 | 2024-04-09 | 2024-05-16 |
-| [Keh Na Paya](https://open.spotify.com/track/2fvForfpyakKCKCqTpJQeS) | [Shekhar Ravjiani](https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw), [Kunaal Vermaa](https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx), [Neehar Pandit](https://open.spotify.com/artist/1FCBqwvbf9Apdkul2z6Z67) | [Keh Na Paya](https://open.spotify.com/album/6HVCgT6H6Rry3D5ksUANVx) | 3:28 | 2024-04-26 |  |
+| [Keh Na Paya](https://open.spotify.com/track/2fvForfpyakKCKCqTpJQeS) | [Shekhar Ravjiani](https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw), [Kunaal Vermaa](https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx), [Neehar Pandit](https://open.spotify.com/artist/1FCBqwvbf9Apdkul2z6Z67) | [Keh Na Paya](https://open.spotify.com/album/6HVCgT6H6Rry3D5ksUANVx) | 3:28 | 2024-04-26 | 2024-10-09 |
 | [Kehedo Sanam](https://open.spotify.com/track/5oJgaEPgb8n6oG6E7rlL5T) | [Kumar Sanu](https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn) | [Kehedo Sanam](https://open.spotify.com/album/36vvhudUd2zaFouRIIaltH) | 4:49 | 2023-07-24 | 2023-08-31 |
 | [Kehna Hai](https://open.spotify.com/track/4TJyhWQVAMIgFc7nVwQ9sa) | [Akanksha Bhandari](https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL) | [Kehna Hai](https://open.spotify.com/album/1NgK5XjpuciKO1OPh0BTwM) | 2:31 | 2024-02-09 | 2024-08-17 |
 | [Khaali Panne](https://open.spotify.com/track/5JlDiKV0LaWXl82lKji0oq) | [Meghna Mishra](https://open.spotify.com/artist/3vJxJcGRIPwNnWnZwO4vmq), [Varun Jain](https://open.spotify.com/artist/4gzrZDyL5gYiROkv27pYKx), [Avinash Chouhan](https://open.spotify.com/artist/0uwbmn6SWX4kujbrDTnjaj) | [Khaali Panne](https://open.spotify.com/album/3W61toZhkU8TffnOtZlmBa) | 3:46 | 2023-06-06 | 2023-07-15 |

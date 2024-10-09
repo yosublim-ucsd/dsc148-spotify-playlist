@@ -2,9 +2,9 @@
 
 ### [Alternative Ireland](https://open.spotify.com/playlist/37i9dQZF1DWW8EcurryoWp)
 
-> The best new Irish alternative sounds\. Cover: Kynsy
+> The best new Irish alternative sounds\. Cover: Joe Butler
 
-95 songs - 5 hr 36 min
+100 songs - 5 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,9 +23,11 @@
 | [Baked Cheesecake](https://open.spotify.com/track/2f9blujS4WOKvmQ50k2TqU) | [Æ MAK](https://open.spotify.com/artist/2VQ0jNisT4VhPs41VGvvTX) | [Berlin](https://open.spotify.com/album/7dLIT8Z8tQOguvIlYTfqpv) | 3:58 | 2024-06-20 | 2024-07-13 |
 | [Be Someone](https://open.spotify.com/track/541LlFMbD7senXbFuf58mN) | [Man Alive](https://open.spotify.com/artist/75jRB7CtxLRcUPlEr6yCOy) | [Be Someone](https://open.spotify.com/album/56W7SBOLDkmvzdbOhP7wFj) | 3:36 | 2024-06-20 | 2024-07-13 |
 | [behind those tears](https://open.spotify.com/track/0w7Zmk5SlHJtDIMeWfdgUV) | [Dylan Flynn and the Dead Poets](https://open.spotify.com/artist/38RdXLqHcghUbaMAM1EPka) | [caught up in delusion](https://open.spotify.com/album/2yYssd2xtkEMIqJwdkuaq3) | 3:59 | 2024-06-20 |  |
+| [boyfriend](https://open.spotify.com/track/4rRWj00dK0kN9BZqI6wYY9) | [Bricknasty](https://open.spotify.com/artist/3BcbwxzJm5f0yppgo2Vatd) | [XONGZ አስቀያሚ ጡብ](https://open.spotify.com/album/7cl6XSy5M1wlFSFtOqQutC) | 2:54 | 2024-10-08 |  |
 | [Bring Heaven](https://open.spotify.com/track/5eOnr7YL7ZxH0N53cOcVyp) | [Mjeam](https://open.spotify.com/artist/4agfjDmBH4Xpqr2tNRKlWn) | [Bring Heaven](https://open.spotify.com/album/6cdkEDv8szrzO4SNkYXYmV) | 2:26 | 2024-06-20 |  |
 | [Camera Shy](https://open.spotify.com/track/2C1JgukgvDi86aODDZrSp2) | [Post\-Party](https://open.spotify.com/artist/6Sg6gogb6FlpSMhqTL7XO9) | [Camera Shy](https://open.spotify.com/album/2ypzTHQbRGdXGrujQvkXzt) | 3:31 | 2024-06-20 | 2024-07-13 |
 | [Chill For The Summer](https://open.spotify.com/track/0sdzs2foIVxCmfMIJZsNhd) | [Sick Love](https://open.spotify.com/artist/08WUbbIzHJ003HDxCRdpaB) | [Champagne](https://open.spotify.com/album/20hO0Er1v4yvq8sTFhRccf) | 4:00 | 2024-06-20 |  |
+| [Choose Life](https://open.spotify.com/track/2oDWs9FrL8N8gw9OjgcLLF) | [Shark School](https://open.spotify.com/artist/39fpkhOwJADA84IcUobmAh) | [Choose Life](https://open.spotify.com/album/3Q4tguHJX2uv4gwDLUMTHq) | 4:01 | 2024-10-08 |  |
 | [Colour Again](https://open.spotify.com/track/4dtFrKLkwvhckjSFsz8nva) | [find\-joy](https://open.spotify.com/artist/43RPKwKEHy2vwaH4SQ8mCS) | [Colour Again](https://open.spotify.com/album/1oMdxKd5muQqchVekROmd6) | 4:46 | 2024-09-13 |  |
 | [Crash and Burn](https://open.spotify.com/track/71yDRBo3i9b5kQZClMO2t4) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F) | [Crash and Burn / Said Nothing](https://open.spotify.com/album/4XWv8Kw5seA17Ki0uMwnBf) | 3:29 | 2024-06-20 | 2024-07-27 |
 | [CSB](https://open.spotify.com/track/7oflizr4wg5N1DnVt0YZoQ) | [Skies Behind](https://open.spotify.com/artist/4Y0QbsWzdVpjGquNqZuAo8) | [The Spaces](https://open.spotify.com/album/0uCPP0LYOmW1BJbHf7fib8) | 3:19 | 2024-06-20 | 2024-09-14 |
@@ -68,16 +70,18 @@
 | [patrick](https://open.spotify.com/track/1nC4M0b5jJZLTisNET5LWo) | [drifting.](https://open.spotify.com/artist/4VEAvjBB04pvTuBP06UeAV) | [73 dame st.](https://open.spotify.com/album/2wA80Wc7ur8nRWx2bSfkQM) | 3:47 | 2024-08-15 |  |
 | [Pocket \(montreal\)](https://open.spotify.com/track/3TJWODxkUUPtC28fGZUNCZ) | [EDEN](https://open.spotify.com/artist/1t20wYnTiAT0Bs7H1hv9Wt) | [Pocket \(montreal\)](https://open.spotify.com/album/7ni6ylCJVoStwdAvKTyjjG) | 1:58 | 2024-08-29 |  |
 | [Pretty Happy Alone](https://open.spotify.com/track/1qwG5MyG0BnBDzAWOfLusM) | [The Love Buzz](https://open.spotify.com/artist/103TWTu6vxVZ9g6eqA1ntP) | [Pretty Happy Alone](https://open.spotify.com/album/4CflMNEveOX5PvgU1MHUXq) | 3:02 | 2024-06-20 |  |
+| [Projections](https://open.spotify.com/track/64EYzsKyu2afMlbyIqed29) | [Maria Somerville](https://open.spotify.com/artist/5JjgffJf4s4KF29xdEaAQd) | [Projections](https://open.spotify.com/album/0ldotFY9H4EArDNcNnugZY) | 3:40 | 2024-10-08 |  |
 | [Prospect](https://open.spotify.com/track/0DcWjXflMeyVYxZtqWIfj5) | [Blue Slate](https://open.spotify.com/artist/5zExcYSTt7HvimLkiRk0Cp) | [Prospect](https://open.spotify.com/album/5h8CK1D14urflOzCftKBXn) | 3:26 | 2024-06-20 |  |
 | [rain](https://open.spotify.com/track/2mFHuOSkUuTjknIcm9z1v5) | [wxlfcut](https://open.spotify.com/artist/4KsTSYMKkgKaRpPAbjbLnJ) | [rain](https://open.spotify.com/album/704xBAoF4PQXfM188RR020) | 3:08 | 2024-06-20 |  |
 | [Ricochet](https://open.spotify.com/track/3fqWpuu8c3bWiBw5yviBAa) | [Sick Love](https://open.spotify.com/artist/08WUbbIzHJ003HDxCRdpaB) | [Ricochet](https://open.spotify.com/album/6FwZHwL4Mq51pZYyVpTAfh) | 3:24 | 2024-06-20 |  |
 | [Rita](https://open.spotify.com/track/6qWcR10E474Hlow9Uw0sbo) | [Fizzy Orange](https://open.spotify.com/artist/1hSt79a7e2OZzSD3pJgtCZ) | [Fizzy Orange In Mono](https://open.spotify.com/album/0sEI6enjLXXL6MNqECdKJ0) | 2:45 | 2024-06-20 |  |
+| [RUNAWAY](https://open.spotify.com/track/3ElJ5DOaqQEshMnejsX0VQ) | [Joe Butler](https://open.spotify.com/artist/2KSi09E9Ll6vK9aUcbusFw) | [RUNAWAY](https://open.spotify.com/album/3zguSEANWhPXzGCI34R3aX) | 2:31 | 2024-10-08 |  |
 | [runs in my blood](https://open.spotify.com/track/60p8IvR68vMra7G2ir640M) | [dirty marmalade](https://open.spotify.com/artist/2Ks8Swu5Bxyz7Svqbp3Yxi) | [runs in my blood](https://open.spotify.com/album/6sU1TRUflPjTTUzFj11Ikx) | 2:48 | 2024-06-20 | 2024-07-27 |
 | [Scavenge](https://open.spotify.com/track/5KHmhEVHUpOaoXOHsNBeKT) | [PostLast](https://open.spotify.com/artist/15KiKRRIp50t3oBg4rA3qb) | [Scavenge](https://open.spotify.com/album/6ESZQoLmNIHb376mL7t939) | 3:24 | 2024-06-20 |  |
-| [See You In a Year and a Half](https://open.spotify.com/track/53JxyMqGibF07pBJ7aA2HJ) | [CABL](https://open.spotify.com/artist/1YCTaB9cH7i6IDBbS3Rp98) | [See You In a Year and a Half](https://open.spotify.com/album/3wOvqeu8ZppPF9LWD2bcYz) | 5:09 | 2024-06-20 |  |
-| [Shattered Glass](https://open.spotify.com/track/47MS05AWVBYVGEkJ3MJQOW) | [The Cliffords](https://open.spotify.com/artist/2JIXE3g9E0kfeFWhpKPIja) | [Strawberry Scented](https://open.spotify.com/album/25McKcaobPvzgOGdgrxbxX) | 5:37 | 2024-06-20 |  |
+| [See You In a Year and a Half](https://open.spotify.com/track/53JxyMqGibF07pBJ7aA2HJ) | [CABL](https://open.spotify.com/artist/1YCTaB9cH7i6IDBbS3Rp98) | [See You In a Year and a Half](https://open.spotify.com/album/3wOvqeu8ZppPF9LWD2bcYz) | 5:09 | 2024-06-20 | 2024-10-09 |
+| [Shattered Glass](https://open.spotify.com/track/47MS05AWVBYVGEkJ3MJQOW) | [Cliffords](https://open.spotify.com/artist/2JIXE3g9E0kfeFWhpKPIja) | [Strawberry Scented](https://open.spotify.com/album/25McKcaobPvzgOGdgrxbxX) | 5:37 | 2024-06-20 |  |
 | [Silhouette](https://open.spotify.com/track/5g2JVsaZlr5Vhe3wqbJQd7) | [Foot Squeaker](https://open.spotify.com/artist/7vbXZIWC7kACoWGGTd9d8b) | [Silhouette](https://open.spotify.com/album/6wLkIAi4DhpWlAHtz8Diqt) | 3:18 | 2024-06-20 | 2024-09-06 |
-| [Sleeping with Ghosts](https://open.spotify.com/track/4hWhhqRAQ8R4sEEefmh0Qc) | [The Cliffords](https://open.spotify.com/artist/2JIXE3g9E0kfeFWhpKPIja) | [Sleeping with Ghosts](https://open.spotify.com/album/1Ta8PhMDJSAaslDscjexWg) | 4:22 | 2024-06-20 |  |
+| [Sleeping with Ghosts](https://open.spotify.com/track/4hWhhqRAQ8R4sEEefmh0Qc) | [Cliffords](https://open.spotify.com/artist/2JIXE3g9E0kfeFWhpKPIja) | [Sleeping with Ghosts](https://open.spotify.com/album/1Ta8PhMDJSAaslDscjexWg) | 4:22 | 2024-06-20 |  |
 | [Slipping Through Your Hands](https://open.spotify.com/track/7BMuK1q7x7ERcGZ4iIeuDS) | [The Devlins](https://open.spotify.com/artist/2iEzHy2OpgKEdTiYXA0rJv) | [Slipping Through Your Hands](https://open.spotify.com/album/1RAyTkmcMq0Cpabcwm7wFO) | 4:06 | 2024-09-05 |  |
 | [Slippy](https://open.spotify.com/track/6Y9NFgYQwKpc9QXYsuMuMh) | [NO PHOTOS](https://open.spotify.com/artist/3mvQJ3cm3cAdBedt4dSa5c) | [Blink And You Miss It](https://open.spotify.com/album/1acOMBww6C6RVdKw0ogQem) | 4:15 | 2024-06-20 |  |
 | [Stereo Games](https://open.spotify.com/track/3huEMTGeCgT2i4fdAeDgCl) | [Kynsy](https://open.spotify.com/artist/1GUxDXleGCxG9ibsZjASo6) | [Stereo Games](https://open.spotify.com/album/4c9wfNNq0vlh540itChXrP) | 2:31 | 2024-07-18 |  |
@@ -97,6 +101,7 @@
 | [Truth☆Truth](https://open.spotify.com/track/6vfJ8MiERPMLsI0g0LQfUt) | [EFÉ](https://open.spotify.com/artist/2v0XtEw3w12NCC0J20ke6C) | [Truth☆Truth](https://open.spotify.com/album/1jntHHi1HpBdfSPuwUtmwN) | 3:44 | 2024-06-20 |  |
 | [Twist and Turn](https://open.spotify.com/track/7F8SxhlfzFP16sn1UuTXHZ) | [Cardinals](https://open.spotify.com/artist/0qmHQLCyJrgGFtqLDSRHJ4) | [Twist and Turn](https://open.spotify.com/album/6zZbKGTLAW78P3GNpJMHCM) | 3:14 | 2024-06-20 |  |
 | [Unconditionally](https://open.spotify.com/track/36OMuCJLDppFYMpAiz02gP) | [Mossy](https://open.spotify.com/artist/3GoyRMYwSPCEPmqwXxvWr5) | [Unconditionally](https://open.spotify.com/album/5tDK0NIN6lhhu3K9eadq3J) | 3:46 | 2024-08-15 |  |
+| [Under My Skin](https://open.spotify.com/track/2YL1nqQAZbiJFey1mwVCXu) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [Under My Skin](https://open.spotify.com/album/1eKbAWza2LQkWIe2PBBjyG) | 3:32 | 2024-10-08 |  |
 | [Veins](https://open.spotify.com/track/5c31xDjXsYX1XE2Gm09fa9) | [Emma Noodles](https://open.spotify.com/artist/1zUi5dJeT7ImOnG6lEgypQ) | [Veins](https://open.spotify.com/album/5Glooco0j7yIOlwAdPxYrX) | 3:31 | 2024-06-20 |  |
 | [WELL ENOUGH!](https://open.spotify.com/track/0v8itswFBG0nfiWvLQzjCW) | [fiiVVVEE!](https://open.spotify.com/artist/44yvXn4JmArldmKRaq6L6Q), [Joe Butler](https://open.spotify.com/artist/2KSi09E9Ll6vK9aUcbusFw) | [WELL ENOUGH!](https://open.spotify.com/album/5a2AjxUtgdtfWLhooKnF6q) | 3:13 | 2024-09-05 |  |
 | [While You Sleep](https://open.spotify.com/track/4jbOJaTKiur366ygUgcp6h) | [Mustafa Karakışla](https://open.spotify.com/artist/0tGT2RhFiBgnNf1AY4muYM) | [While You Sleep](https://open.spotify.com/album/2aZy0r1AaBS3lLgl9PWBsp) | 4:01 | 2024-06-20 |  |

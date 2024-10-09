@@ -911,6 +911,28 @@
     },
     {
       "album": {
+        "name": "Slime Season",
+        "url": "https://open.spotify.com/album/5F9AdIgiSJtnEwYSXBSlSJ"
+      },
+      "artists": [
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        },
+        {
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+        }
+      ],
+      "date_added": "2024-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176819,
+      "name": "Again",
+      "url": "https://open.spotify.com/track/3si6pZOm5Uf1lKDt47V3zK"
+    },
+    {
+      "album": {
         "name": "Trio Los Jaibos",
         "url": "https://open.spotify.com/album/04djFIjUp5N8BZGihJAaoM"
       },

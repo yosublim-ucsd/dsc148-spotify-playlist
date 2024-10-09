@@ -21017,6 +21017,24 @@
     },
     {
       "album": {
+        "name": "Olivia Rodrigo",
+        "url": "https://open.spotify.com/album/3dtba043OvZxIPBtsprJEz"
+      },
+      "artists": [
+        {
+          "name": "ISHAN",
+          "url": "https://open.spotify.com/artist/4bOSK7fslWnqp8M4YQRBzm"
+        }
+      ],
+      "date_added": "2024-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162866,
+      "name": "Olivia Rodrigo",
+      "url": "https://open.spotify.com/track/4fr2chG4I2AJcnirNRRpAH"
+    },
+    {
+      "album": {
         "name": "No Hard Feelings",
         "url": "https://open.spotify.com/album/2RSNvfNgodiGerFWq3ETci"
       },

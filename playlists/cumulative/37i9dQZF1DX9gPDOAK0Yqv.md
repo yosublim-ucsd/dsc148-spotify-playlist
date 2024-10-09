@@ -4,7 +4,7 @@
 
 > A hypnotic journey through Melodic Techno.
 
-600 songs - 1 day 23 hr 55 min
+601 songs - 2 day 0 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -430,6 +430,7 @@
 | [Remission](https://open.spotify.com/track/2Ue68qfEPdUtVVgrjOKE05) | [Kasablanca](https://open.spotify.com/artist/297Z0teiCkp5s9eneWROpI), [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb) | [Remission](https://open.spotify.com/album/4ZqHSnu1EjWpygl20YmGm2) | 4:06 | 2024-04-11 |  |
 | [Renaissance](https://open.spotify.com/track/7oUPAECJUeHNDVaQ7tmE6r) | [Rinzen](https://open.spotify.com/artist/0kYFb6blNbeBAHaQqyURgI) | [Renaissance](https://open.spotify.com/album/41niRA6vCMTukxuQrhVHCf) | 5:04 | 2022-11-23 | 2022-12-13 |
 | [Requiem for a Dream \- 2024 Edit](https://open.spotify.com/track/6cq0wIPixlevfTh0fkL8TV) | [Space Motion](https://open.spotify.com/artist/1k7iyyK6j5IJzF0cUMcaGY) | [Requiem for a Dream \(2024 Remake\)](https://open.spotify.com/album/1GtJHDGbaDG74zoNWHi3fF) | 3:54 | 2023-12-15 | 2024-05-25 |
+| [Reserva](https://open.spotify.com/track/1XQ7cb5Ta5XDXAnX2eF52I) | [MRAK](https://open.spotify.com/artist/4JLXtk9bdFy9xkslFY91dY), [19:26](https://open.spotify.com/artist/2IelDQgKvM3U4P7HVVmaOX) | [The Turn](https://open.spotify.com/album/02bP8IHWtLIK5wvHp3FZHv) | 5:46 | 2024-10-03 |  |
 | [Resonate](https://open.spotify.com/track/0mXFXApXwB0dlP1Adh9ne7) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [Resonate](https://open.spotify.com/album/2rvovGXmXLiwIbX4i2lTKn) | 3:41 | 2022-11-23 | 2023-07-02 |
 | [Resonate](https://open.spotify.com/track/3uMmez8jeegK8HpgcwbA1V) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [Resonate](https://open.spotify.com/album/0PcWgMMLJGtg1rdEtrF1fa) | 3:41 | 2023-07-07 | 2024-04-19 |
 | [Resonate \(feat\. Julia Church\)](https://open.spotify.com/track/2pvQCbUnXHOpAcJOkgAYmZ) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Resonate \(feat\. Julia Church\)](https://open.spotify.com/album/7r9LSib4rKpvAS9hTRt1QJ) | 4:01 | 2024-06-20 |  |
@@ -449,7 +450,7 @@
 | [Rondo](https://open.spotify.com/track/6CwxmhlcNrTpyM2GyhyUp3) | [Goom Gum](https://open.spotify.com/artist/6D36JCiONtO40ykvT5RBec) | [Rondo](https://open.spotify.com/album/3BR2YAI30QHuaYx95WWlZD) | 2:26 | 2024-04-04 |  |
 | [Run & Hide \- Ae:ther Remix](https://open.spotify.com/track/1vPsTGsRfdTRhzUHG7kTLF) | [Mark Tarmonea](https://open.spotify.com/artist/0G0DRVtduDqqikbVbZXaNn), [Ae:ther](https://open.spotify.com/artist/2Va4TMOAXwdFAcakAUNSsV) | [Run & Hide \(Ae:ther Remix\)](https://open.spotify.com/album/1YfMh6jxGPAdTxuRIYESMS) | 7:02 | 2022-12-02 | 2023-02-04 |
 | [Running](https://open.spotify.com/track/1UK6MLsIj7Ioj0BlXl2T8f) | [TH;EN](https://open.spotify.com/artist/6UbcuFp6HP6InTAbPASxff) | [By My Side](https://open.spotify.com/album/0qpTdZu8Wd1kTdHzYfk5cK) | 6:46 | 2024-02-01 | 2024-03-23 |
-| [Running Man](https://open.spotify.com/track/7irrCOHmsuQve6JLGCMB0w) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W) | [Running Man](https://open.spotify.com/album/5f97vFiQaKNaPWJmm7wsCf) | 3:11 | 2024-01-12 |  |
+| [Running Man](https://open.spotify.com/track/7irrCOHmsuQve6JLGCMB0w) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W) | [Running Man](https://open.spotify.com/album/5f97vFiQaKNaPWJmm7wsCf) | 3:11 | 2024-01-12 | 2024-10-09 |
 | [Rush \- Miss Monique Remix](https://open.spotify.com/track/0vlauZfceQ2eiuqwDMf1jb) | [Sied Van Riel](https://open.spotify.com/artist/1Cv0KzvQ0KP210KdmQQQUF), [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR) | [Rush \(Miss Monique Remix\)](https://open.spotify.com/album/7vF6BoJz2iWApof9NfB1W6) | 4:51 | 2022-11-23 | 2023-03-11 |
 | [Saga](https://open.spotify.com/track/1uujki6DaepMXtCRv4ySKi) | [Kevin de Vries](https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx), [Y do I](https://open.spotify.com/artist/4GVWch4tEmNGIx9gAWrnex) | [Saga](https://open.spotify.com/album/6ooAO2z9UPfC2Rz1c9x52h) | 5:36 | 2024-09-19 |  |
 | [Salvation \- Radio Edit](https://open.spotify.com/track/7H6smF45tHjEuaNcN1lyrO) | [Alice DiMar](https://open.spotify.com/artist/3rNi4ttKcnvBaBT5aMYBNN), [Jyll](https://open.spotify.com/artist/255QhVPytbdcbgCbHJ5rNe) | [Salvation](https://open.spotify.com/album/32qLU1MffxZU1biGO3dciZ) | 3:50 | 2023-10-13 | 2023-11-10 |

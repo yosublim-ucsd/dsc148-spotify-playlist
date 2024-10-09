@@ -4,19 +4,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvFcCTKoddA.md) - [plain]
 
 > Découvrez les créateurs de demain.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,768 likes - 10 songs - 9 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,768 likes - 15 songs - 10 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Tu préfères tes potes ou ton mec ? \(THIS OR THAT\)](https://open.spotify.com/episode/2PYcWBynZk3TF5IiDuR6d9) | [Simple Cafeine](https://open.spotify.com/show/0OJKTN6NhsYKIGNGOBcHLv) | [Simple Cafeine](https://open.spotify.com/album/0OJKTN6NhsYKIGNGOBcHLv) | 20:57 |
-| 2 | [mon reset de rentrée devant vous \(ouch\)](https://open.spotify.com/episode/7vLAtoKENPhQOUX4ysfWtU) | [Simple Cafeine](https://open.spotify.com/show/0OJKTN6NhsYKIGNGOBcHLv) | [Simple Cafeine](https://open.spotify.com/album/0OJKTN6NhsYKIGNGOBcHLv) | 26:07 |
-| 3 | [J'ai un amoureux.](https://open.spotify.com/episode/23CbGlN9NUpCsmp3oZ130o) | [Tchatcheuse](https://open.spotify.com/show/3p4s3zc4zbJVBhlVS8yZbJ) | [Tchatcheuse](https://open.spotify.com/album/3p4s3zc4zbJVBhlVS8yZbJ) | 20:27 |
-| 4 | [Louise Pétrouchka \- "Ma mère m'a retrouvé entrain de scrouncher une taupe !"](https://open.spotify.com/episode/013s2RApPci066uI2rtpCA) | [Tchatcheuse](https://open.spotify.com/show/3p4s3zc4zbJVBhlVS8yZbJ) | [Tchatcheuse](https://open.spotify.com/album/3p4s3zc4zbJVBhlVS8yZbJ) | 1:00:58 |
-| 5 | ["Résiste" avec Nach](https://open.spotify.com/episode/4sGA8UaiMVj52MJ9J4znvp) | [SUR PAROLE !](https://open.spotify.com/show/7gTm3tG09OCQrxhJHIuhIV) | [SUR PAROLE !](https://open.spotify.com/album/7gTm3tG09OCQrxhJHIuhIV) | 56:27 |
-| 6 | ["Le chat" avec Jérome Niel](https://open.spotify.com/episode/0BYFLbAq1GE0WKNtgKFwmk) | [SUR PAROLE !](https://open.spotify.com/show/7gTm3tG09OCQrxhJHIuhIV) | [SUR PAROLE !](https://open.spotify.com/album/7gTm3tG09OCQrxhJHIuhIV) | 1:09:59 |
-| 7 | [Palo et Elo reçoivent Minima Gesté !](https://open.spotify.com/episode/1cO2FAssYAucPWMejQjKjv) | [Absolument fabuleuses](https://open.spotify.com/show/3t9Jrg3FUIIIuTaZBA4swE) | [Absolument fabuleuses](https://open.spotify.com/album/3t9Jrg3FUIIIuTaZBA4swE) | 1:38:52 |
-| 8 | [Naturisme, Vietnam, Laos : le débrief des vacances](https://open.spotify.com/episode/600AIe6gNRueBqRl63UVHv) | [Absolument fabuleuses](https://open.spotify.com/show/3t9Jrg3FUIIIuTaZBA4swE) | [Absolument fabuleuses](https://open.spotify.com/album/3t9Jrg3FUIIIuTaZBA4swE) | 1:44:46 |
-| 9 | [Cher journal \(update life omg\)](https://open.spotify.com/episode/6bQIlujl7Aaf4JGSU1YDWM) | [Garce Therapy](https://open.spotify.com/show/1YQ5Yuzt8nuPY1s76T261Y) | [Garce Therapy](https://open.spotify.com/album/1YQ5Yuzt8nuPY1s76T261Y) | 41:14 |
-| 10 | [Soirée d’été 7 \- Vos histoires d'amitié](https://open.spotify.com/episode/6aAdHetRIXdAjradckSW6o) | [Garce Therapy](https://open.spotify.com/show/1YQ5Yuzt8nuPY1s76T261Y) | [Garce Therapy](https://open.spotify.com/album/1YQ5Yuzt8nuPY1s76T261Y) | 43:52 |
+| 1 | [le date avec un New Yorkais qui a changé ma vie](https://open.spotify.com/episode/2Xa4KPijtexTV8IIQA2T8w) | [Pause Active ⏸️](https://open.spotify.com/show/63ARCSJ6dmDcfJ5oOHxTtX) | [Pause Active ⏸️](https://open.spotify.com/album/63ARCSJ6dmDcfJ5oOHxTtX) | 21:53 |
+| 2 | [ces habitudes routinières à arrêter](https://open.spotify.com/episode/3Q1q3KEEUfN6tU9fDr868j) | [Pause Active ⏸️](https://open.spotify.com/show/63ARCSJ6dmDcfJ5oOHxTtX) | [Pause Active ⏸️](https://open.spotify.com/album/63ARCSJ6dmDcfJ5oOHxTtX) | 16:01 |
+| 3 | [À écouter pour te motiver à aller au sport](https://open.spotify.com/episode/0lq6OkYSycdte1ILxMV6rL) | [Pause Active ⏸️](https://open.spotify.com/show/63ARCSJ6dmDcfJ5oOHxTtX) | [Pause Active ⏸️](https://open.spotify.com/album/63ARCSJ6dmDcfJ5oOHxTtX) | 15:43 |
+| 4 | [À l'affiche cette semaine «La Cité de la peur» ](https://open.spotify.com/episode/2MbPZwXx0lhkZwrajZn01m) | [AMIES](https://open.spotify.com/show/7lIrh4521x9sUmFXyhvcui) | [AMIES](https://open.spotify.com/album/7lIrh4521x9sUmFXyhvcui) | 7:40 |
+| 5 | [«L'Arme fatale 3»: il n'y a pas d'arme plus fatale que le mulet de Mel Gibson](https://open.spotify.com/episode/1YqJoonpUx1WuaqQAVMW97) | [AMIES](https://open.spotify.com/show/7lIrh4521x9sUmFXyhvcui) | [AMIES](https://open.spotify.com/album/7lIrh4521x9sUmFXyhvcui) | 58:53 |
+| 6 | [Anaïs et Marie retombent en enfance avec «Toy Story»](https://open.spotify.com/episode/0Y5l3SauyfnWbskDnniSWx) | [AMIES](https://open.spotify.com/show/7lIrh4521x9sUmFXyhvcui) | [AMIES](https://open.spotify.com/album/7lIrh4521x9sUmFXyhvcui) | 49:13 |
+| 7 | [Épisode 43 : INOXTAG a évité le PIRE ! \(3 histoires d'horreur de MINECRAFT + 3 en MONTAGNE\)](https://open.spotify.com/episode/2WyPMUp4pey8lY6csxvy9b) | [HISTOIRES D'HORREUR](https://open.spotify.com/show/7BcivaoKPOWFDXYtp9D5KF) | [HISTOIRES D'HORREUR](https://open.spotify.com/album/7BcivaoKPOWFDXYtp9D5KF) | 42:44 |
+| 8 | [Épisode 42 : ces 12 histoires D'HORREUR pourraient VOUS arriver ! \(sectes obscures / horribles prof / réseaux sociaux terribles\) ](https://open.spotify.com/episode/61QELVviuEBGOnWF5BBJti) | [HISTOIRES D'HORREUR](https://open.spotify.com/show/7BcivaoKPOWFDXYtp9D5KF) | [HISTOIRES D'HORREUR](https://open.spotify.com/album/7BcivaoKPOWFDXYtp9D5KF) | 1:24:40 |
+| 9 | [Épisode 39 : Vos PIRES ex TOXIQUES...](https://open.spotify.com/episode/0l4OWmkxRyWU1Y3INLlWVa) | [HISTOIRES D'HORREUR](https://open.spotify.com/show/7BcivaoKPOWFDXYtp9D5KF) | [HISTOIRES D'HORREUR](https://open.spotify.com/album/7BcivaoKPOWFDXYtp9D5KF) | 15:01 |
+| 10 | [Luna vs\. Enzo : qui sera le meilleur book expert ? ](https://open.spotify.com/episode/2BrVcfsiBSXYwOvKIe30KM) | [Livres Laugh Love ](https://open.spotify.com/show/7v8cthhH5O72pXNo7hnhq1) | [Livres Laugh Love ](https://open.spotify.com/album/7v8cthhH5O72pXNo7hnhq1) | 1:02:34 |
+| 11 | [Les livres queer ft\. Bilal Hassani](https://open.spotify.com/episode/5bbVJRlblKwBx75o9z7n9V) | [Livres Laugh Love ](https://open.spotify.com/show/7v8cthhH5O72pXNo7hnhq1) | [Livres Laugh Love ](https://open.spotify.com/album/7v8cthhH5O72pXNo7hnhq1) | 1:13:08 |
+| 12 | [Nos pires lectures](https://open.spotify.com/episode/17Qjls7AZUnQ2eTBr01RwY) | [Livres Laugh Love ](https://open.spotify.com/show/7v8cthhH5O72pXNo7hnhq1) | [Livres Laugh Love ](https://open.spotify.com/album/7v8cthhH5O72pXNo7hnhq1) | 53:51 |
+| 13 | [TIKTOK \- Marie Gaguech ](https://open.spotify.com/episode/0esa39EvwYBlas6kEfysuX) | [LES GENS DE LA MODE](https://open.spotify.com/show/7MnUN9iq0oLJDOQpOibsPA) | [LES GENS DE LA MODE](https://open.spotify.com/album/7MnUN9iq0oLJDOQpOibsPA) | 42:13 |
+| 14 | [LA BEAUTÉ \- Valentine Pétry](https://open.spotify.com/episode/5XtYJkshiMWm0rGq2S41oD) | [LES GENS DE LA MODE](https://open.spotify.com/show/7MnUN9iq0oLJDOQpOibsPA) | [LES GENS DE LA MODE](https://open.spotify.com/album/7MnUN9iq0oLJDOQpOibsPA) | 36:37 |
+| 15 | [L'APPROPRIATION CULTURELLE \- Khémaïs Ben Lakhdar](https://open.spotify.com/episode/1Et1HZ7YSEtrYO6a9GRxN5) | [LES GENS DE LA MODE](https://open.spotify.com/show/7MnUN9iq0oLJDOQpOibsPA) | [LES GENS DE LA MODE](https://open.spotify.com/album/7MnUN9iq0oLJDOQpOibsPA) | 35:44 |
 
-Snapshot ID: `Zv1MggAAAACjpq4ccCiGlNoQS793GlBn`
+Snapshot ID: `ZwWtfwAAAADZKTyClzDXO4+QbDScJewo`

@@ -4,7 +4,7 @@
 
 > A taste of French café culture; the charming sounds of the Parisian streets.
 
-219 songs - 10 hr 42 min
+220 songs - 10 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -205,6 +205,7 @@
 | [Säkkijärven Cumbia](https://open.spotify.com/track/1K7Z936Yp5AwR0iF3i0p2D) | [Cafe Accordion Orchestra](https://open.spotify.com/artist/6utQ2I1L0PDIc1mwU6tf5M) | [La Zingara](https://open.spotify.com/album/7A2CsrEpQ657PuoTxV9iy3) | 3:21 | 2022-02-18 | 2023-05-26 |
 | [Tarte aux pommes de maman](https://open.spotify.com/track/3x0Eqgjm8eyXTUqd9wWR26) | [Les Petits Parisians](https://open.spotify.com/artist/6zjNoaNyUsp1ZEIbzLv4Jk) | [Tarte aux pommes de maman](https://open.spotify.com/album/6OCCBuYKcK2rfvFwg8XugI) | 2:06 | 2023-05-11 |  |
 | [Thé Pour Deux](https://open.spotify.com/track/3zztM5yPmJFkX7vktaaa8F) | [Quintet de Jazz Parisien](https://open.spotify.com/artist/5jjAtTkp5UsT9PQyGfFOwO) | [Thé Pour Deux](https://open.spotify.com/album/43iVIfU4pgIheRuYzPbuqE) | 4:18 | 2023-05-18 |  |
+| [Tom](https://open.spotify.com/track/6DgoMUqNJENy6mszghIW2Y) | [Nocturne des îles](https://open.spotify.com/artist/4pYMtyyGtBDSZDRSCBghZa) | [Tom](https://open.spotify.com/album/7BAMtbp5A8A4VQI5dGUmhM) | 4:11 | 2024-10-08 |  |
 | [Un baiser sous la pluie](https://open.spotify.com/track/3PikPxbIbnsg1uniee6Vo7) | [Cole Peers trio](https://open.spotify.com/artist/3HwmLSofJhnA1bdPIREqAj) | [Un baiser sous la pluie](https://open.spotify.com/album/7Jx4NFax8uREMeLirzV84Z) | 2:02 | 2024-07-12 |  |
 | [Un homme et une femme](https://open.spotify.com/track/2RAykZufoMdZcIYkQsQ9K7) | [Daniel Colin](https://open.spotify.com/artist/2ou5vHf8Vp1ru210N1fi5F), [Dominique Cravic](https://open.spotify.com/artist/3YbvJxUxRDaLxoe7K5nPV8), [Claire Elzière](https://open.spotify.com/artist/1Zz0qtkLEAJvEmi3w6QKRO) | [French Cafe Music](https://open.spotify.com/album/6xkpSZA1I5GGQ706McVrCr) | 1:51 | 2022-11-25 | 2023-08-19 |
 | [Un Homme Et Une Femme](https://open.spotify.com/track/6C80CuWBDC5eqNTbdD6iv0) | [Maurice Green](https://open.spotify.com/artist/0I2MdtSSCg5xHyymlJpnN3) | [Un Homme Et Une Femme](https://open.spotify.com/album/4lH5Xna6qi8ny8sIwzV9ZU) | 2:16 | 2023-05-18 |  |

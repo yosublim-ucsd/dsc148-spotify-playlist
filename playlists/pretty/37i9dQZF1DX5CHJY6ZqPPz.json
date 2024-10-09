@@ -1,13 +1,33 @@
 {
   "description": "All about aespa: meeting another self and experiencing the new world",
-  "num_followers": 210626,
+  "num_followers": 210777,
   "original_name": "This Is aespa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvYaAQAAAACYqD76XJ9Tb9y0uBsQxbKC",
+  "snapshot_id": "ZwS2vwAAAACEzP7iI032FCHqBGnBY4dM",
   "tracks": [
+    {
+      "added_at": "2024-10-08 04:36:15",
+      "album": {
+        "name": "RE:WORKS",
+        "url": "https://open.spotify.com/album/6HqiFsktBxto6ushwmDOUj"
+      },
+      "artists": [
+        {
+          "name": "KENZIE",
+          "url": "https://open.spotify.com/artist/0ZZtYIiyXvgRAKrTh6mCOd"
+        },
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "duration_ms": 212440,
+      "name": "Supernova - KENZIE RE:WORKS",
+      "url": "https://open.spotify.com/track/0n9tJMt5qtXOoPVlaNPvIM"
+    },
     {
       "added_at": "2024-09-27 02:35:45",
       "album": {

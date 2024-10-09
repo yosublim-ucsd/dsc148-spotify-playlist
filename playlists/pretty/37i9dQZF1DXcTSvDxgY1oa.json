@@ -1,6 +1,6 @@
 {
   "description": "geosy op de cover van de Popronde 2024. Popronde is een jaarlijks reizend festival in Nederland met de grootste talenten. ",
-  "num_followers": 1788,
+  "num_followers": 1790,
   "original_name": "Popronde 2024",
   "owner": {
     "name": "Spotify",
@@ -343,6 +343,22 @@
     {
       "added_at": "2024-09-16 07:25:57",
       "album": {
+        "name": "golden smile",
+        "url": "https://open.spotify.com/album/1MaTDkIrwzdb8Pbgc7sDoC"
+      },
+      "artists": [
+        {
+          "name": "DEHAZE",
+          "url": "https://open.spotify.com/artist/3lFS8jJTgqYqETcnc8rpF4"
+        }
+      ],
+      "duration_ms": 184279,
+      "name": "golden smile",
+      "url": "https://open.spotify.com/track/53O7MrXH2wD9aiDlBf31gD"
+    },
+    {
+      "added_at": "2024-09-16 07:25:57",
+      "album": {
         "name": "Partiyi Durdurun!",
         "url": "https://open.spotify.com/album/1HK4nensGYLHAAbUVUSX5k"
       },
@@ -403,22 +419,6 @@
       "duration_ms": 202263,
       "name": "Sun Flavoured Ice Cream",
       "url": "https://open.spotify.com/track/5Y8KBgWc4NKiDdCeIl2KUO"
-    },
-    {
-      "added_at": "2024-09-16 07:25:57",
-      "album": {
-        "name": "golden smile",
-        "url": "https://open.spotify.com/album/1MaTDkIrwzdb8Pbgc7sDoC"
-      },
-      "artists": [
-        {
-          "name": "DEHAZE",
-          "url": "https://open.spotify.com/artist/3lFS8jJTgqYqETcnc8rpF4"
-        }
-      ],
-      "duration_ms": 184279,
-      "name": "golden smile",
-      "url": "https://open.spotify.com/track/53O7MrXH2wD9aiDlBf31gD"
     },
     {
       "added_at": "2024-09-16 07:25:57",
@@ -487,22 +487,6 @@
     {
       "added_at": "2024-09-16 07:25:57",
       "album": {
-        "name": "Maar Verder Gaat Het Goed",
-        "url": "https://open.spotify.com/album/6YVWLc3C8jrD0HHczwN1lO"
-      },
-      "artists": [
-        {
-          "name": "So-Fi",
-          "url": "https://open.spotify.com/artist/6TIw842G1nVz2xEhU9YlBs"
-        }
-      ],
-      "duration_ms": 173506,
-      "name": "In M'n Hoofd",
-      "url": "https://open.spotify.com/track/2ky5w4vqqhH5g1V7oh7ouR"
-    },
-    {
-      "added_at": "2024-09-16 07:25:57",
-      "album": {
         "name": "Blushing Over Nothing",
         "url": "https://open.spotify.com/album/0agxsN2RKY1dmUuqZtSd4I"
       },
@@ -519,18 +503,66 @@
     {
       "added_at": "2024-09-16 07:25:57",
       "album": {
-        "name": "Payback",
-        "url": "https://open.spotify.com/album/7k2jLfPPv0qYgpcg5B0mu9"
+        "name": "Serotonin",
+        "url": "https://open.spotify.com/album/5PbraKeNPvluvXiiqdsZuz"
       },
       "artists": [
         {
-          "name": "State Power",
-          "url": "https://open.spotify.com/artist/2ZksA5DzgDlR4hTXquufqU"
+          "name": "BRACES",
+          "url": "https://open.spotify.com/artist/1oZBET0PBRusndmvbnlz9W"
         }
       ],
-      "duration_ms": 142386,
-      "name": "Payback",
-      "url": "https://open.spotify.com/track/1H4PeFDmnt4QCRtJTVa7a0"
+      "duration_ms": 200193,
+      "name": "Serotonin",
+      "url": "https://open.spotify.com/track/7o8bOQ9c4DMP8xsLNmTi5U"
+    },
+    {
+      "added_at": "2024-09-16 07:25:57",
+      "album": {
+        "name": "Maar Verder Gaat Het Goed",
+        "url": "https://open.spotify.com/album/6YVWLc3C8jrD0HHczwN1lO"
+      },
+      "artists": [
+        {
+          "name": "So-Fi",
+          "url": "https://open.spotify.com/artist/6TIw842G1nVz2xEhU9YlBs"
+        }
+      ],
+      "duration_ms": 173506,
+      "name": "In M'n Hoofd",
+      "url": "https://open.spotify.com/track/2ky5w4vqqhH5g1V7oh7ouR"
+    },
+    {
+      "added_at": "2024-09-16 07:25:57",
+      "album": {
+        "name": "Visitor",
+        "url": "https://open.spotify.com/album/3VVP1JgwaMQibLw1ui6CIi"
+      },
+      "artists": [
+        {
+          "name": "Outahead",
+          "url": "https://open.spotify.com/artist/2EcQr9GFJPn3vQNvWf23jJ"
+        }
+      ],
+      "duration_ms": 202445,
+      "name": "Visitor",
+      "url": "https://open.spotify.com/track/1loqKyqVPrXyoU9qEt9UZZ"
+    },
+    {
+      "added_at": "2024-09-16 07:25:57",
+      "album": {
+        "name": "Zoals Jij",
+        "url": "https://open.spotify.com/album/4uNTLh7yEtxmI40JBLymIA"
+      },
+      "artists": [
+        {
+          "name": "ANDRO",
+          "url": "https://open.spotify.com/artist/2VOCs6lYNw7KgXminnltr5"
+        }
+      ],
+      "duration_ms": 129272,
+      "name": "Zoals Jij",
+      "url": "https://open.spotify.com/track/7mOnZDmJEpBrAPlWpSm4G9"
     },
     {
       "added_at": "2024-09-16 07:25:57",
@@ -563,34 +595,18 @@
     {
       "added_at": "2024-09-16 07:25:57",
       "album": {
-        "name": "Zoals Jij",
-        "url": "https://open.spotify.com/album/4uNTLh7yEtxmI40JBLymIA"
+        "name": "Payback",
+        "url": "https://open.spotify.com/album/7k2jLfPPv0qYgpcg5B0mu9"
       },
       "artists": [
         {
-          "name": "ANDRO",
-          "url": "https://open.spotify.com/artist/2VOCs6lYNw7KgXminnltr5"
+          "name": "State Power",
+          "url": "https://open.spotify.com/artist/2ZksA5DzgDlR4hTXquufqU"
         }
       ],
-      "duration_ms": 129272,
-      "name": "Zoals Jij",
-      "url": "https://open.spotify.com/track/7mOnZDmJEpBrAPlWpSm4G9"
-    },
-    {
-      "added_at": "2024-09-16 07:25:57",
-      "album": {
-        "name": "Serotonin",
-        "url": "https://open.spotify.com/album/5PbraKeNPvluvXiiqdsZuz"
-      },
-      "artists": [
-        {
-          "name": "BRACES",
-          "url": "https://open.spotify.com/artist/1oZBET0PBRusndmvbnlz9W"
-        }
-      ],
-      "duration_ms": 200193,
-      "name": "Serotonin",
-      "url": "https://open.spotify.com/track/7o8bOQ9c4DMP8xsLNmTi5U"
+      "duration_ms": 142386,
+      "name": "Payback",
+      "url": "https://open.spotify.com/track/1H4PeFDmnt4QCRtJTVa7a0"
     },
     {
       "added_at": "2024-09-16 07:25:57",
@@ -611,22 +627,6 @@
     {
       "added_at": "2024-09-16 07:25:57",
       "album": {
-        "name": "Visitor",
-        "url": "https://open.spotify.com/album/3VVP1JgwaMQibLw1ui6CIi"
-      },
-      "artists": [
-        {
-          "name": "Outahead",
-          "url": "https://open.spotify.com/artist/2EcQr9GFJPn3vQNvWf23jJ"
-        }
-      ],
-      "duration_ms": 202445,
-      "name": "Visitor",
-      "url": "https://open.spotify.com/track/1loqKyqVPrXyoU9qEt9UZZ"
-    },
-    {
-      "added_at": "2024-09-16 07:25:57",
-      "album": {
         "name": "Finding Myself Alone",
         "url": "https://open.spotify.com/album/4udmNbEt3PZUAXUUmzd2q1"
       },
@@ -639,22 +639,6 @@
       "duration_ms": 222000,
       "name": "Finding Myself Alone",
       "url": "https://open.spotify.com/track/076o9FPC0h6CjzHpqQpJXy"
-    },
-    {
-      "added_at": "2024-09-16 07:25:57",
-      "album": {
-        "name": "Growing Pains",
-        "url": "https://open.spotify.com/album/0YTckebc9Ece4Ja8Jr8go2"
-      },
-      "artists": [
-        {
-          "name": "Will Knox",
-          "url": "https://open.spotify.com/artist/2e0OOXFJ610jkry76XceeS"
-        }
-      ],
-      "duration_ms": 173278,
-      "name": "Growing Pains",
-      "url": "https://open.spotify.com/track/2nuv1Vj4H8uTP0e2bIbotu"
     },
     {
       "added_at": "2024-09-16 07:25:57",
@@ -691,6 +675,22 @@
     {
       "added_at": "2024-09-16 07:25:57",
       "album": {
+        "name": "Growing Pains",
+        "url": "https://open.spotify.com/album/0YTckebc9Ece4Ja8Jr8go2"
+      },
+      "artists": [
+        {
+          "name": "Will Knox",
+          "url": "https://open.spotify.com/artist/2e0OOXFJ610jkry76XceeS"
+        }
+      ],
+      "duration_ms": 173278,
+      "name": "Growing Pains",
+      "url": "https://open.spotify.com/track/2nuv1Vj4H8uTP0e2bIbotu"
+    },
+    {
+      "added_at": "2024-09-16 07:25:57",
+      "album": {
         "name": "Waiting for You",
         "url": "https://open.spotify.com/album/4qWy88xzbtgneQ3USXZWLh"
       },
@@ -703,38 +703,6 @@
       "duration_ms": 236080,
       "name": "Waiting for You - Edit",
       "url": "https://open.spotify.com/track/26qMH9vOtdcXcNywg1tpJ7"
-    },
-    {
-      "added_at": "2024-09-16 07:25:57",
-      "album": {
-        "name": "Show Don't Tell",
-        "url": "https://open.spotify.com/album/1xUluMn9ZNIrWRF505SLIV"
-      },
-      "artists": [
-        {
-          "name": "Zuster Zonnebloem",
-          "url": "https://open.spotify.com/artist/3fQmJ7btxNtEE7TmkltLRe"
-        }
-      ],
-      "duration_ms": 237926,
-      "name": "Wildflower",
-      "url": "https://open.spotify.com/track/5HWcdjN8mdD2B0jbn96aoT"
-    },
-    {
-      "added_at": "2024-09-16 07:25:57",
-      "album": {
-        "name": "Sirocco",
-        "url": "https://open.spotify.com/album/66n3hUwcOBU8vOzxkqu3J0"
-      },
-      "artists": [
-        {
-          "name": "Sirocco",
-          "url": "https://open.spotify.com/artist/2bsNvdyVIKezcGI4QxXdDd"
-        }
-      ],
-      "duration_ms": 262039,
-      "name": "Vientu",
-      "url": "https://open.spotify.com/track/3JBoHXPeA0muUhjDg34K3Z"
     },
     {
       "added_at": "2024-09-16 07:25:57",
@@ -755,18 +723,34 @@
     {
       "added_at": "2024-09-16 07:25:57",
       "album": {
-        "name": "Good Company",
-        "url": "https://open.spotify.com/album/6nCiQeFyO9P57ltTcom8h5"
+        "name": "Sirocco",
+        "url": "https://open.spotify.com/album/66n3hUwcOBU8vOzxkqu3J0"
       },
       "artists": [
         {
-          "name": "Future Husband",
-          "url": "https://open.spotify.com/artist/7IkZTuasXLNz2HCezR6KuI"
+          "name": "Sirocco",
+          "url": "https://open.spotify.com/artist/2bsNvdyVIKezcGI4QxXdDd"
         }
       ],
-      "duration_ms": 236646,
-      "name": "Good Company",
-      "url": "https://open.spotify.com/track/1VeEoIo2F4ofmtQsQM6Qf9"
+      "duration_ms": 262039,
+      "name": "Vientu",
+      "url": "https://open.spotify.com/track/3JBoHXPeA0muUhjDg34K3Z"
+    },
+    {
+      "added_at": "2024-09-16 07:25:57",
+      "album": {
+        "name": "Show Don't Tell",
+        "url": "https://open.spotify.com/album/1xUluMn9ZNIrWRF505SLIV"
+      },
+      "artists": [
+        {
+          "name": "Zuster Zonnebloem",
+          "url": "https://open.spotify.com/artist/3fQmJ7btxNtEE7TmkltLRe"
+        }
+      ],
+      "duration_ms": 237926,
+      "name": "Wildflower",
+      "url": "https://open.spotify.com/track/5HWcdjN8mdD2B0jbn96aoT"
     },
     {
       "added_at": "2024-09-16 07:25:57",
@@ -787,22 +771,6 @@
     {
       "added_at": "2024-09-16 07:25:57",
       "album": {
-        "name": "Melanotan - Detonate",
-        "url": "https://open.spotify.com/album/3UP1BYVn91UiOg7ISywkg7"
-      },
-      "artists": [
-        {
-          "name": "Cardigan Inn",
-          "url": "https://open.spotify.com/artist/0ejgubWGr4S1CiUnLVTuL2"
-        }
-      ],
-      "duration_ms": 142734,
-      "name": "Melanotan",
-      "url": "https://open.spotify.com/track/5xfBI89BbIwHcwJ8SSiL2L"
-    },
-    {
-      "added_at": "2024-09-16 07:25:57",
-      "album": {
         "name": "Take Me Somewhere Nice",
         "url": "https://open.spotify.com/album/7HypvdZKOCDMUFjKuhpa8W"
       },
@@ -815,6 +783,38 @@
       "duration_ms": 175909,
       "name": "Take Me Somewhere Nice",
       "url": "https://open.spotify.com/track/5XzKAjlorf06g0LWQE3VYV"
+    },
+    {
+      "added_at": "2024-09-16 07:25:57",
+      "album": {
+        "name": "Good Company",
+        "url": "https://open.spotify.com/album/6nCiQeFyO9P57ltTcom8h5"
+      },
+      "artists": [
+        {
+          "name": "Future Husband",
+          "url": "https://open.spotify.com/artist/7IkZTuasXLNz2HCezR6KuI"
+        }
+      ],
+      "duration_ms": 236646,
+      "name": "Good Company",
+      "url": "https://open.spotify.com/track/1VeEoIo2F4ofmtQsQM6Qf9"
+    },
+    {
+      "added_at": "2024-09-16 07:25:57",
+      "album": {
+        "name": "Melanotan - Detonate",
+        "url": "https://open.spotify.com/album/3UP1BYVn91UiOg7ISywkg7"
+      },
+      "artists": [
+        {
+          "name": "Cardigan Inn",
+          "url": "https://open.spotify.com/artist/0ejgubWGr4S1CiUnLVTuL2"
+        }
+      ],
+      "duration_ms": 142734,
+      "name": "Melanotan",
+      "url": "https://open.spotify.com/track/5xfBI89BbIwHcwJ8SSiL2L"
     },
     {
       "added_at": "2024-09-16 07:25:57",
@@ -915,6 +915,22 @@
     {
       "added_at": "2024-09-16 07:25:57",
       "album": {
+        "name": "Los Anarquistitas",
+        "url": "https://open.spotify.com/album/0Sc7klbJtL1CHgPpRVL8P2"
+      },
+      "artists": [
+        {
+          "name": "shoom",
+          "url": "https://open.spotify.com/artist/5GwJf4rmQaNtNKph66vuxw"
+        }
+      ],
+      "duration_ms": 395966,
+      "name": "Los Anarquistitas",
+      "url": "https://open.spotify.com/track/3sBVgzLUoVNmR2lLspUzC8"
+    },
+    {
+      "added_at": "2024-09-16 07:25:57",
+      "album": {
         "name": "Come On In",
         "url": "https://open.spotify.com/album/05uzU3ddIhHgvA50dNfzXs"
       },
@@ -959,22 +975,6 @@
       "duration_ms": 601682,
       "name": "Isaak's Marble",
       "url": "https://open.spotify.com/track/3IPB6IxdbYD5nOJzQljoun"
-    },
-    {
-      "added_at": "2024-09-16 07:25:57",
-      "album": {
-        "name": "Los Anarquistitas",
-        "url": "https://open.spotify.com/album/0Sc7klbJtL1CHgPpRVL8P2"
-      },
-      "artists": [
-        {
-          "name": "shoom",
-          "url": "https://open.spotify.com/artist/5GwJf4rmQaNtNKph66vuxw"
-        }
-      ],
-      "duration_ms": 395966,
-      "name": "Los Anarquistitas",
-      "url": "https://open.spotify.com/track/3sBVgzLUoVNmR2lLspUzC8"
     },
     {
       "added_at": "2024-09-16 07:25:57",
@@ -1043,18 +1043,18 @@
     {
       "added_at": "2024-09-16 07:25:57",
       "album": {
-        "name": "Mama Dankjewel",
-        "url": "https://open.spotify.com/album/4ggIWKdq8bfW2cO8T9SduC"
+        "name": "What's The Rush",
+        "url": "https://open.spotify.com/album/4puAk9A73ngB1gvjubOegz"
       },
       "artists": [
         {
-          "name": "Mathilde Bloom",
-          "url": "https://open.spotify.com/artist/3BueSYVwTJWgJMCRwpT3xM"
+          "name": "MEERKAT",
+          "url": "https://open.spotify.com/artist/7MmsNCnjrEMKo9OhziCxZb"
         }
       ],
-      "duration_ms": 170306,
-      "name": "Mama Dankjewel",
-      "url": "https://open.spotify.com/track/59YKXDKbiCKeFE34dP2AFK"
+      "duration_ms": 337733,
+      "name": "Jerome",
+      "url": "https://open.spotify.com/track/0D4Y3VPdzuXkslZdiSVLKp"
     },
     {
       "added_at": "2024-09-16 07:25:57",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2024-09-16 07:25:57",
       "album": {
-        "name": "What's The Rush",
-        "url": "https://open.spotify.com/album/4puAk9A73ngB1gvjubOegz"
-      },
-      "artists": [
-        {
-          "name": "MEERKAT",
-          "url": "https://open.spotify.com/artist/7MmsNCnjrEMKo9OhziCxZb"
-        }
-      ],
-      "duration_ms": 337733,
-      "name": "Jerome",
-      "url": "https://open.spotify.com/track/0D4Y3VPdzuXkslZdiSVLKp"
-    },
-    {
-      "added_at": "2024-09-16 07:25:57",
-      "album": {
         "name": "Haya",
         "url": "https://open.spotify.com/album/5devPsxik1sqnsXgd2Qi3f"
       },
@@ -1107,22 +1091,18 @@
     {
       "added_at": "2024-09-16 07:25:57",
       "album": {
-        "name": "Maankind",
-        "url": "https://open.spotify.com/album/14ScUgJJXyRXGLvgHmXxBm"
+        "name": "Mama Dankjewel",
+        "url": "https://open.spotify.com/album/4ggIWKdq8bfW2cO8T9SduC"
       },
       "artists": [
         {
-          "name": "Rijnbaart",
-          "url": "https://open.spotify.com/artist/5Ce0Qxr0GqePcWjwx7VZPd"
-        },
-        {
-          "name": "Jeroen Antoine",
-          "url": "https://open.spotify.com/artist/7u1t7bEnCzS3tWMNNu7QgO"
+          "name": "Mathilde Bloom",
+          "url": "https://open.spotify.com/artist/3BueSYVwTJWgJMCRwpT3xM"
         }
       ],
-      "duration_ms": 163032,
-      "name": "wist je niet",
-      "url": "https://open.spotify.com/track/3hwIQDZxwEF7iLV4T637Yh"
+      "duration_ms": 170306,
+      "name": "Mama Dankjewel",
+      "url": "https://open.spotify.com/track/59YKXDKbiCKeFE34dP2AFK"
     },
     {
       "added_at": "2024-09-16 07:25:57",
@@ -1155,6 +1135,26 @@
       "duration_ms": 301764,
       "name": "Into the Blue",
       "url": "https://open.spotify.com/track/65HNcEd8xrfLA893lAXh5s"
+    },
+    {
+      "added_at": "2024-09-16 07:25:57",
+      "album": {
+        "name": "Maankind",
+        "url": "https://open.spotify.com/album/14ScUgJJXyRXGLvgHmXxBm"
+      },
+      "artists": [
+        {
+          "name": "Rijnbaart",
+          "url": "https://open.spotify.com/artist/5Ce0Qxr0GqePcWjwx7VZPd"
+        },
+        {
+          "name": "Jeroen Antoine",
+          "url": "https://open.spotify.com/artist/7u1t7bEnCzS3tWMNNu7QgO"
+        }
+      ],
+      "duration_ms": 163032,
+      "name": "wist je niet",
+      "url": "https://open.spotify.com/track/3hwIQDZxwEF7iLV4T637Yh"
     },
     {
       "added_at": "2024-09-16 07:25:57",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2024-09-16 07:25:57",
       "album": {
-        "name": "Shit / Verliefd",
-        "url": "https://open.spotify.com/album/0HnKzrvnp1QVtD0YzvhCe5"
-      },
-      "artists": [
-        {
-          "name": "Loen",
-          "url": "https://open.spotify.com/artist/4xz8GW1ZE8go3EZKeT5ZHp"
-        }
-      ],
-      "duration_ms": 165490,
-      "name": "Shit / Verliefd",
-      "url": "https://open.spotify.com/track/1M9FawBXdGyOwLZw2RHLVE"
-    },
-    {
-      "added_at": "2024-09-16 07:25:57",
-      "album": {
         "name": "Order Of Operations",
         "url": "https://open.spotify.com/album/6drsg5hD7OV6pyRM9KOcEP"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 431600,
       "name": "Order Of Operations",
       "url": "https://open.spotify.com/track/57T2io4N4UUqlef1TmSuaA"
+    },
+    {
+      "added_at": "2024-09-16 07:25:57",
+      "album": {
+        "name": "Shit / Verliefd",
+        "url": "https://open.spotify.com/album/0HnKzrvnp1QVtD0YzvhCe5"
+      },
+      "artists": [
+        {
+          "name": "Loen",
+          "url": "https://open.spotify.com/artist/4xz8GW1ZE8go3EZKeT5ZHp"
+        }
+      ],
+      "duration_ms": 165490,
+      "name": "Shit / Verliefd",
+      "url": "https://open.spotify.com/track/1M9FawBXdGyOwLZw2RHLVE"
     },
     {
       "added_at": "2024-09-16 07:25:57",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2024-09-16 07:25:57",
       "album": {
-        "name": "High On The Moon",
-        "url": "https://open.spotify.com/album/0O1sBTZe2g6yxslc9UJhy5"
-      },
-      "artists": [
-        {
-          "name": "Mikki Wood",
-          "url": "https://open.spotify.com/artist/3nTgiwWZj38hvLhaigK9CO"
-        }
-      ],
-      "duration_ms": 162798,
-      "name": "Two Times In A Moment",
-      "url": "https://open.spotify.com/track/4UAzaQT3EVnIqLBHFwETJo"
-    },
-    {
-      "added_at": "2024-09-16 07:25:57",
-      "album": {
         "name": "EP1",
         "url": "https://open.spotify.com/album/7xWofDr8zQrH2EZzjMApiZ"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 145570,
       "name": "PONCHO",
       "url": "https://open.spotify.com/track/19FXmyBwozudmHoagcDNXC"
+    },
+    {
+      "added_at": "2024-09-16 07:25:57",
+      "album": {
+        "name": "High On The Moon",
+        "url": "https://open.spotify.com/album/0O1sBTZe2g6yxslc9UJhy5"
+      },
+      "artists": [
+        {
+          "name": "Mikki Wood",
+          "url": "https://open.spotify.com/artist/3nTgiwWZj38hvLhaigK9CO"
+        }
+      ],
+      "duration_ms": 162798,
+      "name": "Two Times In A Moment",
+      "url": "https://open.spotify.com/track/4UAzaQT3EVnIqLBHFwETJo"
     },
     {
       "added_at": "2024-09-16 07:25:57",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2024-09-16 07:25:57",
       "album": {
-        "name": "met de beste intenties",
-        "url": "https://open.spotify.com/album/7xyCBVnKr0yey5G94w2Z6Z"
-      },
-      "artists": [
-        {
-          "name": "Jean Jacques",
-          "url": "https://open.spotify.com/artist/3U02wTIYzwf7JA2zD2SDSR"
-        }
-      ],
-      "duration_ms": 159669,
-      "name": "beste intenties",
-      "url": "https://open.spotify.com/track/4wb9qDF28vkAM0883WtUYP"
-    },
-    {
-      "added_at": "2024-09-16 07:25:57",
-      "album": {
         "name": "As Time Went By",
         "url": "https://open.spotify.com/album/4GE7rF9A8vD61Kuo8qEgKz"
       },
@@ -1371,18 +1355,18 @@
     {
       "added_at": "2024-09-16 07:25:57",
       "album": {
-        "name": "the grand scheme of things",
-        "url": "https://open.spotify.com/album/779j4dby6PbXIkjin6ZaYe"
+        "name": "met de beste intenties",
+        "url": "https://open.spotify.com/album/7xyCBVnKr0yey5G94w2Z6Z"
       },
       "artists": [
         {
-          "name": "levi boon",
-          "url": "https://open.spotify.com/artist/67Q0IdGtQtelKSYP7ODrvQ"
+          "name": "Jean Jacques",
+          "url": "https://open.spotify.com/artist/3U02wTIYzwf7JA2zD2SDSR"
         }
       ],
-      "duration_ms": 236117,
-      "name": "the grand scheme of things",
-      "url": "https://open.spotify.com/track/0I85pQRven0mpIXCVjxlmU"
+      "duration_ms": 159669,
+      "name": "beste intenties",
+      "url": "https://open.spotify.com/track/4wb9qDF28vkAM0883WtUYP"
     },
     {
       "added_at": "2024-09-16 07:25:57",
@@ -1403,18 +1387,18 @@
     {
       "added_at": "2024-09-16 07:25:57",
       "album": {
-        "name": "In Een Droom",
-        "url": "https://open.spotify.com/album/7qSBNNUBO79Z7zww0VaMns"
+        "name": "the grand scheme of things",
+        "url": "https://open.spotify.com/album/779j4dby6PbXIkjin6ZaYe"
       },
       "artists": [
         {
-          "name": "Waakhond",
-          "url": "https://open.spotify.com/artist/2ca4yBHf4MU0W2Cj6OTWwQ"
+          "name": "levi boon",
+          "url": "https://open.spotify.com/artist/67Q0IdGtQtelKSYP7ODrvQ"
         }
       ],
-      "duration_ms": 207520,
-      "name": "In Een Droom",
-      "url": "https://open.spotify.com/track/4dgXbDNOn5c7fNlYI7CHG2"
+      "duration_ms": 236117,
+      "name": "the grand scheme of things",
+      "url": "https://open.spotify.com/track/0I85pQRven0mpIXCVjxlmU"
     },
     {
       "added_at": "2024-09-16 07:25:57",
@@ -1431,6 +1415,22 @@
       "duration_ms": 211292,
       "name": "Free Your Mind",
       "url": "https://open.spotify.com/track/4FSDeu8CL8f80UiZ3X68Qv"
+    },
+    {
+      "added_at": "2024-09-16 07:25:57",
+      "album": {
+        "name": "In Een Droom",
+        "url": "https://open.spotify.com/album/7qSBNNUBO79Z7zww0VaMns"
+      },
+      "artists": [
+        {
+          "name": "Waakhond",
+          "url": "https://open.spotify.com/artist/2ca4yBHf4MU0W2Cj6OTWwQ"
+        }
+      ],
+      "duration_ms": 207520,
+      "name": "In Een Droom",
+      "url": "https://open.spotify.com/track/4dgXbDNOn5c7fNlYI7CHG2"
     },
     {
       "added_at": "2024-09-16 07:25:57",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXq6zX9dQEzo.md) - [plain]
 
 > Faith without work\[out\]s is dead!  Get your beast mode on!
 
-[Spotify](https://open.spotify.com/user/spotify) - 244,089 likes - 75 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 244,197 likes - 75 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXq6zX9dQEzo.md) - [plain]
 | 58 | [TIGHTROPE](https://open.spotify.com/track/1AUw3hXkj4phJ29UQ3WsiD) | [Tylynn](https://open.spotify.com/artist/3WYqnlpg5qWHujbvTFqUMg), [TuKool Tiff](https://open.spotify.com/artist/50YX6wIj2UNBUvYs13U61H) | [TIGHTROPE](https://open.spotify.com/album/5PDi46ieLVa8dQagMPxySo) | 3:04 |
 | 59 | [hollow](https://open.spotify.com/track/5bOPDOpWydLeD3Cp6hikhM) | [Jaisua](https://open.spotify.com/artist/7u5RAgXZgtZJ7yINfxdUc5) | [hollow](https://open.spotify.com/album/5lgtnGR1XbdY03VxVrefKf) | 2:32 |
 | 60 | [Working it out](https://open.spotify.com/track/7ntAFhTGZ8DLdM26HDHrHc) | [Josh Lecroy](https://open.spotify.com/artist/11QQiwcAtTaRXWDlLKesdy), [Hannah Barr](https://open.spotify.com/artist/5YXeLDR70GQsT07VLgawty) | [Working it out](https://open.spotify.com/album/2rkz3xnC2V6ZR1K658V2Kp) | 2:56 |
-| 61 | [Need You](https://open.spotify.com/track/3VBrgyMHg6OMZsma32Hevu) | [Reblah](https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV), [KMO Shamaal](https://open.spotify.com/artist/5PnFKm9triVLQtIqpO90D2) | [Need You](https://open.spotify.com/album/6ILaidt9jDAme4TVSOMDnF) | 2:55 |
+| 61 | [Need You](https://open.spotify.com/track/3VBrgyMHg6OMZsma32Hevu) | [Reblah](https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV), [KMO Shamaal](https://open.spotify.com/artist/3IZpU8rUESdWsLRyfyHZqF) | [Need You](https://open.spotify.com/album/6ILaidt9jDAme4TVSOMDnF) | 2:55 |
 | 62 | [God Know](https://open.spotify.com/track/2nF8w69WDxaNAGTfRcuqF4) | [Starringo](https://open.spotify.com/artist/3az3UoKXQwxW9oI2Awbodj) | [God Know](https://open.spotify.com/album/60yBlHMBRynuPq7uoAvkID) | 3:17 |
 | 63 | [VINE](https://open.spotify.com/track/1QYDOVoxOV7iEzL43sGj5C) | [Kurtis Hoppie](https://open.spotify.com/artist/2eR1Z2cyHOS4gFgA2GbRl8), [Miles Minnick](https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr) | [VINE](https://open.spotify.com/album/4d3NC4abLYhsHIkhh4Kg1c) | 3:15 |
 | 64 | [F.O.F.](https://open.spotify.com/track/0Ljju4kXFaKeAsbSDbdKdS) | [E.i\. the King](https://open.spotify.com/artist/3dsm2Sbz5i18pXDTjWSzZO), [Project Pat](https://open.spotify.com/artist/08Ld63UgKrJ0nZnCkzHtzc) | [F.O.F.](https://open.spotify.com/album/7f4AGyDNWYzWLRwTV2XCAh) | 2:28 |

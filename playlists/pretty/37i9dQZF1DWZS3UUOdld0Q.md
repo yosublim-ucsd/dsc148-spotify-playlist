@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZS3UUOdld0Q.md) - [plain]
 
 > Their time will come\. Eventually\. Probably\. Listen to the music from and inspired by Neon, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,294 likes - 66 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,320 likes - 66 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [REMIX](https://open.spotify.com/track/65MqlYPOWReasKWcuCaOCW) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [LEGENDADDY](https://open.spotify.com/album/3rlJCPz7s7bTifG57wjFpt) | 2:43 |
-| 2 | [Kitipo](https://open.spotify.com/track/7vP0TrbROeQghZYCusLylM) | [Dixson Waz](https://open.spotify.com/artist/0ojgcvasAUtJXXV8ddYQNt), [La Tukiti](https://open.spotify.com/artist/65j9C3n5PkSSZ8oPXzO2nf), [Amenazandel](https://open.spotify.com/artist/59QQbpbrYSGtgG338yoLx4) | [Kitipo](https://open.spotify.com/album/4UZSYzB1NWuXeSE0gqqv4c) | 3:31 |
+| 2 | [Kitipo](https://open.spotify.com/track/7vP0TrbROeQghZYCusLylM) | [Dixson Waz](https://open.spotify.com/artist/0ojgcvasAUtJXXV8ddYQNt), [La Tukiti](https://open.spotify.com/artist/65j9C3n5PkSSZ8oPXzO2nf), [Amenazandel](https://open.spotify.com/artist/07OTi5jemNx7k39zFTtuJ5) | [Kitipo](https://open.spotify.com/album/4UZSYzB1NWuXeSE0gqqv4c) | 3:31 |
 | 3 | [Esta Cabron \(Remix\) \[feat\. Anuel Aa, Yomo, Pusho, Almighty, D.Ozi & Jamby "El Favo"\]](https://open.spotify.com/track/6J5mJPOs8EGCyjljxeLYx5) | [Ñejo](https://open.spotify.com/artist/2OHKEe204spO7G7NcbeO2o), [Gotay "El Autentiko"](https://open.spotify.com/artist/6ieK9Ddas29reReO60on3o), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Yomo](https://open.spotify.com/artist/4myAXQmMuS1lZe8T6Y7eBg), [Pusho](https://open.spotify.com/artist/2qbEtwBVyobgpNP5KcHE9J), [Almighty](https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH), [D.OZi](https://open.spotify.com/artist/7a9gFzWS5uEHtbNNgA6xyM), [Jamby El Favo](https://open.spotify.com/artist/128ftF9X7Kd7Di2fq3wYVs) | [Esta Cabron \(Remix\) \[feat\. Anuel Aa, Yomo, Pusho, Almighty, D.Ozi & Jamby "El Favo"\]](https://open.spotify.com/album/2xzISXCrWUEEmQDMV7W9U0) | 8:05 |
 | 4 | [Tiki Tiki](https://open.spotify.com/track/2J8lIDwvxPZQQ0I0wt1oRO) | [Ptazeta](https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN), [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [Tiki Tiki](https://open.spotify.com/album/27WZ3udXyjazvsInPtfuIQ) | 2:11 |
 | 5 | [Telacuti](https://open.spotify.com/track/2uqPGoloSaqglIsJ6J1NIQ) | [Lo Blanquito](https://open.spotify.com/artist/5Cg1uhz6CxzXKvguhnoFAp) | [Sin "S"](https://open.spotify.com/album/0PbaFcLAnfpzvkXeVEZZHu) | 3:07 |

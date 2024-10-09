@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vpLK1FoEw3.md) - [plain]
 
 > vc tem o que é necessário para entrar no clube?? dê play e descubra \#MeuSpotify com Thiaguinho
 
-[Spotify](https://open.spotify.com/user/spotify) - 627,810 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 627,797 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

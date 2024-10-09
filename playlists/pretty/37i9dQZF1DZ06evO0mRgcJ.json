@@ -1,12 +1,12 @@
 {
-  "description": "This is Los Desvelados. The essential tracks, all in one playlist.",
+  "description": "This Is Los Desvelados. Los temas esenciales, todos en una lista.",
   "num_followers": 523,
   "original_name": "This Is Los Desvelados",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwHTAAAAAABu7LZxbCJpto28/ShmBrJ4",
+  "snapshot_id": "ZwMkgAAAAAA/07RhUqwgarY332UcXz1A",
   "tracks": [
     {
       "added_at": null,
@@ -267,22 +267,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Legion Del Corrido",
-        "url": "https://open.spotify.com/album/0r9jqZqqorVlus4zZLTiO7"
-      },
-      "artists": [
-        {
-          "name": "Los Desvelados",
-          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
-        }
-      ],
-      "duration_ms": 169946,
-      "name": "Aqui Sigo Cheveriando",
-      "url": "https://open.spotify.com/track/6nHBqyIy3NhKzU9D6Wu2rX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Z.B.Z.A",
         "url": "https://open.spotify.com/album/0clP6LHJO4iL43VL2C2ocN"
       },
@@ -299,8 +283,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Me Tuve Que Pelar Pa Culiac\u00e1n",
-        "url": "https://open.spotify.com/album/60L8KEOT1XsBxkni1EiAlR"
+        "name": "Legion Del Corrido",
+        "url": "https://open.spotify.com/album/0r9jqZqqorVlus4zZLTiO7"
       },
       "artists": [
         {
@@ -308,9 +292,9 @@
           "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
         }
       ],
-      "duration_ms": 211156,
-      "name": "Me Tuve Que Pelar Pa Culiac\u00e1n",
-      "url": "https://open.spotify.com/track/1Ltvt6fkT1Pq6t9r70Qe94"
+      "duration_ms": 169946,
+      "name": "Aqui Sigo Cheveriando",
+      "url": "https://open.spotify.com/track/6nHBqyIy3NhKzU9D6Wu2rX"
     },
     {
       "added_at": null,
@@ -331,6 +315,22 @@
       "duration_ms": 222811,
       "name": "Quien Es Quien",
       "url": "https://open.spotify.com/track/7KXMg5P1prQfS3vtedemX9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Me Tuve Que Pelar Pa Culiac\u00e1n",
+        "url": "https://open.spotify.com/album/60L8KEOT1XsBxkni1EiAlR"
+      },
+      "artists": [
+        {
+          "name": "Los Desvelados",
+          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
+        }
+      ],
+      "duration_ms": 211156,
+      "name": "Me Tuve Que Pelar Pa Culiac\u00e1n",
+      "url": "https://open.spotify.com/track/1Ltvt6fkT1Pq6t9r70Qe94"
     },
     {
       "added_at": null,
@@ -439,22 +439,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Agradecido Estoy",
-        "url": "https://open.spotify.com/album/5VdlW7YpcqdDjpkPt2gciG"
+        "name": "Los Tengo Viendo",
+        "url": "https://open.spotify.com/album/22YgCj8XGrlDQjlJGT8faI"
       },
       "artists": [
-        {
-          "name": "Grupo Recien",
-          "url": "https://open.spotify.com/artist/4Nnqw0OjHeZHdVOIDUx2br"
-        },
         {
           "name": "Los Desvelados",
           "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
         }
       ],
-      "duration_ms": 165395,
-      "name": "Agradecido Estoy",
-      "url": "https://open.spotify.com/track/3zxDdpkxNiPAJndAocTnZP"
+      "duration_ms": 234410,
+      "name": "Los Tengo Viendo",
+      "url": "https://open.spotify.com/track/7hGcGzrh6Bl6OLubzHbLb2"
     },
     {
       "added_at": null,
@@ -475,18 +471,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los Tengo Viendo",
-        "url": "https://open.spotify.com/album/22YgCj8XGrlDQjlJGT8faI"
+        "name": "Agradecido Estoy",
+        "url": "https://open.spotify.com/album/5VdlW7YpcqdDjpkPt2gciG"
       },
       "artists": [
+        {
+          "name": "Grupo Recien",
+          "url": "https://open.spotify.com/artist/4Nnqw0OjHeZHdVOIDUx2br"
+        },
         {
           "name": "Los Desvelados",
           "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
         }
       ],
-      "duration_ms": 234410,
-      "name": "Los Tengo Viendo",
-      "url": "https://open.spotify.com/track/7hGcGzrh6Bl6OLubzHbLb2"
+      "duration_ms": 165395,
+      "name": "Agradecido Estoy",
+      "url": "https://open.spotify.com/track/3zxDdpkxNiPAJndAocTnZP"
     },
     {
       "added_at": null,
@@ -903,22 +903,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Porte De Malandro",
-        "url": "https://open.spotify.com/album/3Htm80BddP2bENKnvMcvKx"
+        "name": "Desvelandia Norte\u00f1as para Bailar",
+        "url": "https://open.spotify.com/album/4UyT3mrj2t3HIHL3EeLnfG"
       },
       "artists": [
         {
-          "name": "La Nueva Leyenda",
-          "url": "https://open.spotify.com/artist/3o3A0S0ueru5iFkSKRwxxZ"
-        },
-        {
           "name": "Los Desvelados",
           "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
+        },
+        {
+          "name": "Bandera Verde",
+          "url": "https://open.spotify.com/artist/4UwI6VNUmqlNpBiVhEbdj0"
         }
       ],
-      "duration_ms": 226000,
-      "name": "Porte De Malandro",
-      "url": "https://open.spotify.com/track/7dgBR2KWzr3dfLWGVp9q4U"
+      "duration_ms": 188546,
+      "name": "Aquel Amor",
+      "url": "https://open.spotify.com/track/6x97azhiMoG4ZF6mtUylPw"
     }
   ],
   "unique_name": "This Is Los Desvelados",

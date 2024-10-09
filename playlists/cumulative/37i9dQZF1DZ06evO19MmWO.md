@@ -2,7 +2,7 @@
 
 ### [This Is Little Walter](https://open.spotify.com/playlist/37i9dQZF1DZ06evO19MmWO)
 
-> This is Little Walter\. أغانٍ رائعة في قائمة أغانٍ واحدة.
+> This is Little Walter\. The essential tracks, all in one playlist.
 
 87 songs - 4 hr 20 min
 

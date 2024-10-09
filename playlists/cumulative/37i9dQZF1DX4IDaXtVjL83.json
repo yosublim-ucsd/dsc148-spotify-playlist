@@ -27,6 +27,32 @@
     },
     {
       "album": {
+        "name": "THE ONE YOU WANTED",
+        "url": "https://open.spotify.com/album/0hwGsLDlg8Y2Xx9gxRAukv"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "YG",
+          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
+        },
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "date_added": "2024-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190562,
+      "name": "100 Days (Feat. YG, P-Lo)",
+      "url": "https://open.spotify.com/track/5asOAhaqBPpKyljdVBbbJl"
+    },
+    {
+      "album": {
         "name": "3D (feat. Jack Harlow)",
         "url": "https://open.spotify.com/album/4DKnznk5VbGVvAOYBbQrZJ"
       },
@@ -530,7 +556,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-09",
       "duration_ms": 249280,
       "name": "Beg for You (feat. Rina Sawayama) - A. G. Cook & VERNON OF SEVENTEEN Remix",
       "url": "https://open.spotify.com/track/3teT4GffWtZUYQVmUwL14d"
@@ -1300,7 +1326,7 @@
       ],
       "date_added": "2022-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-09",
       "duration_ms": 172360,
       "name": "Fairytale",
       "url": "https://open.spotify.com/track/0XZL9R2exRu1Rpw6KSAeS4"
@@ -1396,7 +1422,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-09",
       "duration_ms": 219142,
       "name": "FOREVER LOVE",
       "url": "https://open.spotify.com/track/0vw7qY8iPqBt0ic05q2IoU"
@@ -1450,7 +1476,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-09",
       "duration_ms": 178661,
       "name": "Future Perfect (Pass the MIC) [Japanese Ver.]",
       "url": "https://open.spotify.com/track/5dlXBkvmIYBm4Cm5gWEZtO"
@@ -1958,7 +1984,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-09",
       "duration_ms": 230853,
       "name": "JUST BREATHE - feat. 3RACHA of Stray Kids",
       "url": "https://open.spotify.com/track/6PqDYUTmTGXnCfSDhm6AlJ"
@@ -1998,7 +2024,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-09",
       "duration_ms": 173157,
       "name": "Late Night Feels",
       "url": "https://open.spotify.com/track/3QvCW0O7zuvG3oPtzxmHOm"
@@ -2306,10 +2332,28 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-09",
       "duration_ms": 184786,
       "name": "MANIAC -Japanese ver.-",
       "url": "https://open.spotify.com/track/6X5yUYQz3bKq0EZ0n82rqP"
+    },
+    {
+      "album": {
+        "name": "THE ONE YOU WANTED",
+        "url": "https://open.spotify.com/album/0hwGsLDlg8Y2Xx9gxRAukv"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "date_added": "2024-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205393,
+      "name": "Mayday (Feat. Ty Dolla $ign)",
+      "url": "https://open.spotify.com/track/15h2NRc292HUp1XgTEnOtJ"
     },
     {
       "album": {
@@ -2984,7 +3028,7 @@
       ],
       "date_added": "2022-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-09",
       "duration_ms": 227009,
       "name": "SHE'S THE BOSS",
       "url": "https://open.spotify.com/track/1C2P1QRhkrAQHTq3j1YfM1"
@@ -3840,7 +3884,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-09",
       "duration_ms": 195882,
       "name": "When The Sun Goes Down",
       "url": "https://open.spotify.com/track/4ag3PFjrtBvPkAXWvDpBng"
@@ -4026,7 +4070,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-09",
       "duration_ms": 196386,
       "name": "Your Eyes",
       "url": "https://open.spotify.com/track/25nbyqD4oqWU0RaXuAc74t"

@@ -4,7 +4,7 @@
 
 > A happy place 🪩🪩
 
-467 songs - 1 day 4 hr 49 min
+468 songs - 1 day 4 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,7 +130,7 @@
 | [Fallin Luv](https://open.spotify.com/track/0TdwFKbgHrZY5zGciVm92c) | [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Jeria](https://open.spotify.com/artist/7jwSU1Z0F86zcEi4GagibL) | [Fallin Luv](https://open.spotify.com/album/5i4zJnTFaIbVmZrZ0iFJYf) | 2:32 | 2024-04-19 |  |
 | [Family \(feat\. El Boogie\)](https://open.spotify.com/track/6X6HvqcAThorTz88ereWUF) | [Marshall Jefferson](https://open.spotify.com/artist/2Di8r9df6xjyj6CVOqbGVz), [Wh0](https://open.spotify.com/artist/132Hhe61bhvXtkygENHZHA), [El Boogie](https://open.spotify.com/artist/5W9f4y0yDpANo2fgQHMqKm) | [Family \(feat\. El Boogie\)](https://open.spotify.com/album/6MnVDBAW2mz8jWfXhbTCEW) | 2:31 | 2022-01-14 | 2022-07-01 |
 | [Fill Your Soul](https://open.spotify.com/track/3GSehBmdlLPsHovQkm47pJ) | [Loods](https://open.spotify.com/artist/1uF7AFfGahplhiaHEy9NNl) | [Fill Your Soul](https://open.spotify.com/album/7fOwx609ecsPz8GWOEp7Ub) | 3:36 | 2024-07-09 |  |
-| [Finally Free](https://open.spotify.com/track/5I9DZbgz1XQ97915lhNnNf) | [Kossisko](https://open.spotify.com/artist/3TmVOBZL0RYrAAF3f2QSGq) | [Finally Free](https://open.spotify.com/album/7k5QqZcj5N8mnUExGZ71Vg) | 4:42 | 2024-05-10 |  |
+| [Finally Free](https://open.spotify.com/track/5I9DZbgz1XQ97915lhNnNf) | [Kossisko](https://open.spotify.com/artist/3TmVOBZL0RYrAAF3f2QSGq) | [Finally Free](https://open.spotify.com/album/7k5QqZcj5N8mnUExGZ71Vg) | 4:42 | 2024-05-10 | 2024-10-09 |
 | [Finally Ready \(feat\. Billy Porter\)](https://open.spotify.com/track/7EqIzbNO2PpGH7GIKvHlf9) | [The Shapeshifters](https://open.spotify.com/artist/60FV7KyxIH9FH1uq7u8inP), [Billy Porter](https://open.spotify.com/artist/3sjUEh7eXUEL5oZLAEZXD4) | [Finally Ready \(feat\. Billy Porter\)](https://open.spotify.com/album/2OKpNQTgcbe5kIdMbcuhdA) | 3:56 | 2024-01-12 |  |
 | [Find the Joy](https://open.spotify.com/track/4EKRFGE1Y3vqGJufkPhF37) | [Stacie Fields](https://open.spotify.com/artist/2wZzhY59MJ0BDLnLko14gW), [Laura Davie](https://open.spotify.com/artist/6M3bolFum1y8rBbrubby1f) | [Find the Joy](https://open.spotify.com/album/0ReCJmQfVlndSqvDAn2IYi) | 3:20 | 2022-01-14 | 2022-07-25 |
 | [Fly Day Chinatown](https://open.spotify.com/track/0aEl0TBH9Lq1NOBJm9DPV7) | [Stonsterr](https://open.spotify.com/artist/7Lb9TlN4fxCIbc0HwrYLWP) | [Fly Day Chinatown](https://open.spotify.com/album/3lxHfNxN40eJTVYtqcB2ak) | 2:52 | 2024-05-03 | 2024-07-24 |
@@ -428,6 +428,7 @@
 | [Sunshine](https://open.spotify.com/track/08hSsSeBxyyri4j8cQxXm4) | [Wh0](https://open.spotify.com/artist/132Hhe61bhvXtkygENHZHA) | [Sunshine](https://open.spotify.com/album/76bUUVdpVkQIrJif3PQYx2) | 3:38 | 2022-05-10 | 2023-06-05 |
 | [Surrender \(feat\. PRICIE\)](https://open.spotify.com/track/6seDjSbkqKkOUsHjhhHMJw) | [Tseba](https://open.spotify.com/artist/5GDVlpxmmh7VMNQMVpxRjf), [PRICIE](https://open.spotify.com/artist/74qq2TFVWRaySx8MVjKelJ) | [Surrender \(feat\. PRICIE\)](https://open.spotify.com/album/37hBfo5a5MO72OgX37K3KC) | 3:57 | 2022-01-14 | 2023-06-10 |
 | [Susannah](https://open.spotify.com/track/2ggtoA4Y5VbdFwcEApWXGs) | [Kideko](https://open.spotify.com/artist/0ZwQMCRqfyh1OGQkBh9Cnj) | [Susannah](https://open.spotify.com/album/3fdR5UojHAPXGs404YUSJc) | 3:07 | 2024-08-05 |  |
+| [Swiss Sensation](https://open.spotify.com/track/6NJO9Eg83rZwRIdLS0dFTQ) | [O'Flynn](https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo) | [Swiss Sensation](https://open.spotify.com/album/4GYcaieVtUoEV7piq7JPpo) | 3:47 | 2024-10-08 |  |
 | [Take Off](https://open.spotify.com/track/2KQe7XhWh4T8Ui8StfTrdw) | [Engelwood](https://open.spotify.com/artist/7rgCh0Go1ezmcV75kXQM2T), [iamalex](https://open.spotify.com/artist/6M6LWvHKgBle8SUtSpq6SU) | [Take Off](https://open.spotify.com/album/5znFxew4XASdoEPlX0swGz) | 2:24 | 2024-05-03 | 2024-06-05 |
 | [Talking About Those](https://open.spotify.com/track/5pBO42qEZXn25QCmpm0PUu) | [Husko](https://open.spotify.com/artist/5n0AvUDa25XR3AYRvocSaT) | [Talking About Those](https://open.spotify.com/album/3CoaeFSETJpWaPM9KKv0Oo) | 3:34 | 2024-09-13 |  |
 | [Techno Disco Tool \- Radio Edit](https://open.spotify.com/track/3qqEFTIFcZuWJYBtshrxca) | [Mella Dee](https://open.spotify.com/artist/2iT8KIetokMHRjhj8dJuNn) | [Techno Disco Tool \(Radio Edit\)](https://open.spotify.com/album/5yadKU4m0Q0AIKxbN9qQIq) | 3:14 | 2022-04-06 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 
 > Fresh Punjabi Rap\. Cover: Guru Randhawa
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,400 likes - 53 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,405 likes - 53 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,10 +21,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 | 11 | [Good Time](https://open.spotify.com/track/5SIKuSl4Bw59yri67kEEM1) | [Rdikulus](https://open.spotify.com/artist/4KkxoSVvuZuq8O51XRFTms), [Mixman Shawn](https://open.spotify.com/artist/3R6sD3M5ZGVU7nQJUmQ9SA), [CheemaBeatz](https://open.spotify.com/artist/3QEIlc0qx1Aq84jCd8RfXu) | [Good Time](https://open.spotify.com/album/2SbH9SvidhNFvlrJafvfCP) | 2:09 |
 | 12 | [Don't Play](https://open.spotify.com/track/5QOwPqJ4KF5SouXIS8lou0) | [Chinna](https://open.spotify.com/artist/33saytE0qGBD96vkPj4ALw), [Manni Sandhu](https://open.spotify.com/artist/3IzepIGEFUSFFnuIVGwZDS) | [Don't Play](https://open.spotify.com/album/4XqLW7oyfGMfwbOlaoZPyB) | 2:43 |
 | 13 | [Unfreeze](https://open.spotify.com/track/1A629s5oIVLiBg03A2s4sl) | [Manwal](https://open.spotify.com/artist/591aJOvKL4jvZljzwGU9Df), [Mahiwaal](https://open.spotify.com/artist/0oYAdne8qNXVtzbuU88ssO) | [Unfreeze](https://open.spotify.com/album/6rCxVdX7xsN2HGPcmTKKP3) | 2:18 |
-| 14 | [Three Years](https://open.spotify.com/track/0P74yTGkghBVaeXEdyUnFv) | [JAI DHIR](https://open.spotify.com/artist/6T9VTdP8GxXoedKTls26pP), [Ysoblue](https://open.spotify.com/artist/2ASakRf4a8CynyqnuCMEww) | [Three Years](https://open.spotify.com/album/75gemJLC1uOy1R0TRxC4vL) | 2:56 |
-| 15 | [Mature](https://open.spotify.com/track/1UOiwtPyuGvJB3NhPlYCou) | [EKAM](https://open.spotify.com/artist/4SmR8tn9GIzfzawszn6Gav) | [Mature](https://open.spotify.com/album/0kd3RgfFiPHBk8XE9F56fc) | 2:24 |
-| 16 | [Chote Pind](https://open.spotify.com/track/0cLJd1HTOKvpsCtnnDc9Eo) | [Sanj Gosal](https://open.spotify.com/artist/7qZf0PxnU7SpoTwcbCXYcv), [Mad Mix](https://open.spotify.com/artist/55fozRiVCKuoMqSkxa6nxv), [Deep Ror](https://open.spotify.com/artist/02Dwx3ku9Ahk3gzZn1d9BF) | [Chote Pind](https://open.spotify.com/album/59LcDLSdtfcOjaLPOKtfhW) | 3:06 |
-| 17 | [Saheli](https://open.spotify.com/track/7xQXcHasNrkqnIwKFx2HxK) | [Savi Kahlon](https://open.spotify.com/artist/6jvvFfe34NYXjWZMz7rExP), [Sultaan](https://open.spotify.com/artist/7frYUe4C7A42uZqCzD34Y4) | [Saheli](https://open.spotify.com/album/6qpWZwYAGKU3fX3gK1DqUY) | 2:56 |
+| 14 | [Bach Sohnie](https://open.spotify.com/track/0keFxoNryQPlMLMXTR8OUZ) | [Sajjn](https://open.spotify.com/artist/1B4OT0DMB0gnluv2UIukCT) | [Bach Sohnie](https://open.spotify.com/album/0P7XjvZhP4cZUI7W3tLuLc) | 2:19 |
+| 15 | [Three Years](https://open.spotify.com/track/0P74yTGkghBVaeXEdyUnFv) | [JAI DHIR](https://open.spotify.com/artist/6T9VTdP8GxXoedKTls26pP), [Ysoblue](https://open.spotify.com/artist/2ASakRf4a8CynyqnuCMEww) | [Three Years](https://open.spotify.com/album/75gemJLC1uOy1R0TRxC4vL) | 2:56 |
+| 16 | [Mature](https://open.spotify.com/track/1UOiwtPyuGvJB3NhPlYCou) | [EKAM](https://open.spotify.com/artist/4SmR8tn9GIzfzawszn6Gav) | [Mature](https://open.spotify.com/album/0kd3RgfFiPHBk8XE9F56fc) | 2:24 |
+| 17 | [Chote Pind](https://open.spotify.com/track/0cLJd1HTOKvpsCtnnDc9Eo) | [Sanj Gosal](https://open.spotify.com/artist/7qZf0PxnU7SpoTwcbCXYcv), [Mad Mix](https://open.spotify.com/artist/55fozRiVCKuoMqSkxa6nxv), [Deep Ror](https://open.spotify.com/artist/02Dwx3ku9Ahk3gzZn1d9BF) | [Chote Pind](https://open.spotify.com/album/59LcDLSdtfcOjaLPOKtfhW) | 3:06 |
 | 18 | [All Bout Me](https://open.spotify.com/track/4MpzDc1zB9ZD0sZQ70pAus) | [Jas Dhillon](https://open.spotify.com/artist/2airdhY6xFwKcT9xEvYkHO), [SXRPANCH](https://open.spotify.com/artist/4BrIojCbr3rc1I2tJBdNYv) | [All Bout Me](https://open.spotify.com/album/1arumypsUacYzUOyoL7yrv) | 3:10 |
 | 19 | [Gym Flow](https://open.spotify.com/track/7qPXqScbYBBD2n64p1IkDK) | [Yuvi](https://open.spotify.com/artist/3xthAhsDWiuKrk3bIWMm1o) | [Gym Flow](https://open.spotify.com/album/0xL7koEUA8E8cNV5SgFJCF) | 2:07 |
 | 20 | [Sarpanchi](https://open.spotify.com/track/6pltwItmq8QBJ2Lru5RQVf) | [Harry Dhaliwal](https://open.spotify.com/artist/3c5CALgW92Nq4E6EytQHgK), [Hukam](https://open.spotify.com/artist/70WmQLMY0YOyPHO4MLW8Pj), [Anwar Rai](https://open.spotify.com/artist/7rtpar7dktPcHVJJi6ZLhV) | [Hype](https://open.spotify.com/album/3ohv56IXMl2Riq8wc2Rtsz) | 2:11 |
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 | 52 | [Top](https://open.spotify.com/track/4jSjnF8GRvWO0nxfudh1yz) | [Kabir Sandhu](https://open.spotify.com/artist/0vgGXCt0DLo0GrQ2cqvZt3) | [Top](https://open.spotify.com/album/4TYNZEz2JiJwSnGSkOIyEq) | 3:41 |
 | 53 | [Tere Sher](https://open.spotify.com/track/2QsH4fYTyCjamaBBUQP41z) | [Preet Sidhu](https://open.spotify.com/artist/5TP4EiR9iVNfpv1IS2iVIz) | [Tere Sher](https://open.spotify.com/album/1O3G72Xx0uu0TlKBPPuiOy) | 2:02 |
 
-Snapshot ID: `Zv+X0wAAAAAKlKfhrZ9enAnLR+InrlSV`
+Snapshot ID: `ZwTL1AAAAADHnLpdKjVMGn0TCJ2NtZST`

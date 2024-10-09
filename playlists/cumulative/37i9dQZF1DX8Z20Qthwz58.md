@@ -4,7 +4,7 @@
 
 > Enjoy mysterious and dreamy music as if walking in a dream\. \(꿈 속을 거닐듯 신비롭고 몽환적인 음악들을 즐겨보세요.\)
 
-118 songs - 6 hr 41 min
+120 songs - 6 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Hangang Chillin'](https://open.spotify.com/track/2z4Q58WhE8OC5F38R3hCGd) | [LimJi](https://open.spotify.com/artist/07iBNkDjwUvp70cKJj3K6Z) | [Hangang Chillin'](https://open.spotify.com/album/0mm29Ew2iUYiyLKVyi2HBE) | 2:45 | 2024-05-14 |  |
 | [Happy Tears](https://open.spotify.com/track/453YZHIyNa6KzWF3ouoiVF) | [4BOUT](https://open.spotify.com/artist/1gHzFOHKBOOz6HAdLX8QeM) | [Happy Tears](https://open.spotify.com/album/4gXSXykZmeNY8c6k5QNAGk) | 2:53 | 2024-04-02 |  |
 | [Heaven \(Feat\. Sam Kim\)](https://open.spotify.com/track/0ZpEiNVDCJbZBS8e9DKOUw) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A), [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [NA](https://open.spotify.com/album/5zQI9dFbS9TrhvC9clgjz7) | 3:06 | 2024-06-28 |  |
+| [How could I say](https://open.spotify.com/track/3cM4CLZFoBXmfmbN9KwBxB) | [eldon](https://open.spotify.com/artist/04GW9HXt9A5aPSNIVBf6m4) | [How could I say](https://open.spotify.com/album/1Nz3qMGOBmQcRfWYHZREHw) | 2:40 | 2024-10-08 |  |
 | [I Fxxking Love You](https://open.spotify.com/track/0amQL57HiAFWSO6Yz64tD1) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [Love Part 1](https://open.spotify.com/album/5oA67QC0FjqXTSGy2kCSJp) | 4:03 | 2023-02-08 | 2024-04-19 |
 | [I really hope I arrive there safe](https://open.spotify.com/track/1ukIW0JX8N4kcoAukgTY3E) | [Dasutt](https://open.spotify.com/artist/3txAiGYUmI4p84stqOoi1s) | [I really hope I arrive there safe](https://open.spotify.com/album/1cKRNSzDDoayMXWoIZNtNm) | 4:52 | 2023-05-02 | 2024-03-09 |
 | [In My Dreams](https://open.spotify.com/track/4ubg38wkWizzLsQwLuE6rM) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [‘The ReVe Festival 2022 \- Feel My Rhythm’](https://open.spotify.com/album/3HgoCO9wWuPcNhz8Ip4C46) | 3:24 | 2023-02-08 |  |
@@ -96,6 +97,7 @@
 | [SEOUL CITY POP](https://open.spotify.com/track/3CtGzaZ6XGzDDRQi3QbaoC) | [IHYA](https://open.spotify.com/artist/2AoCTD2YuVOY1AHKGx3fqh) | [SEOUL CITY POP \[A\-Side\]](https://open.spotify.com/album/1iGX1LXCxtFyhskgXcx1qs) | 3:22 | 2024-08-05 |  |
 | [Seven \(feat\. Latto\)](https://open.spotify.com/track/7x9aauaA9cu6tyfpHnqDLo) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Seven \(feat\. Latto\)](https://open.spotify.com/album/53985D8g3JcGBoULSOYYKX) | 3:04 | 2023-08-25 | 2024-03-28 |
 | [Shutdown \(Feat\. Seori\)](https://open.spotify.com/track/3mjSO8tQD78ht78SlFMKd1) | [Moon Byul](https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL), [Seori](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e) | [6equence](https://open.spotify.com/album/0SXzCRUFSNGBG1S1lqvzb1) | 3:21 | 2023-02-08 |  |
+| [silhouette](https://open.spotify.com/track/6juIZLmOCW4ONUglzEDq00) | [Cha Woo Joo](https://open.spotify.com/artist/6mScVyqAyNG48yrL20Rdd4) | [silhouette](https://open.spotify.com/album/47VsM0eiGNH1g9yUQ545Tr) | 2:17 | 2024-10-08 |  |
 | [Sleep](https://open.spotify.com/track/45vAXcFwBye4C8ct9vwWqJ) | [LEEBADA](https://open.spotify.com/artist/17vCFclNbTzsDfPgsaWaQO) | [Heaven](https://open.spotify.com/album/5w0J14k4fylvuAW93zv31W) | 2:58 | 2023-02-14 |  |
 | [So I\`m \(build\-up\)](https://open.spotify.com/track/5ZV3FzMKyMLPo5yfHcVd94) | [Meludima](https://open.spotify.com/artist/5KuqJ1wfy3MTV4c2B0jJ3B), [HB](https://open.spotify.com/artist/4dZSeSzF2tUTtEluKXl1gP) | [So I\`m \(build\-up\)](https://open.spotify.com/album/0GIyg7jc4BAzIz50meah5e) | 2:30 | 2024-09-04 |  |
 | [Sover \(feat\. EFFY\)](https://open.spotify.com/track/0wKiDGK0fkx6dSDCpa0zl9) | [VIN](https://open.spotify.com/artist/1mmjD0oS7NfQKd5NaIzkj4), [EFFY](https://open.spotify.com/artist/5Hq1SKAbACg8QBPQalqUGD) | [Sover](https://open.spotify.com/album/3KNFq8vyJ8soYkdRh0xlfS) | 2:42 | 2024-08-10 |  |

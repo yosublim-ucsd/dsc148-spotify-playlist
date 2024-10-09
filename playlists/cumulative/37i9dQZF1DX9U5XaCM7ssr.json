@@ -1767,6 +1767,24 @@
     },
     {
       "album": {
+        "name": "Orang Yang Salah",
+        "url": "https://open.spotify.com/album/1RBbHtYeLqhXOxFJ0BJdRa"
+      },
+      "artists": [
+        {
+          "name": "Luvia band",
+          "url": "https://open.spotify.com/artist/68LnYWYS7UQ67awNV3RO6a"
+        }
+      ],
+      "date_added": "2024-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278800,
+      "name": "Orang Yang Salah",
+      "url": "https://open.spotify.com/track/6KRm2So5GG89uilaTpv4rL"
+    },
+    {
+      "album": {
         "name": "Orang Yang Sama",
         "url": "https://open.spotify.com/album/4EERiS8fZYOxtHPn06HP8P"
       },
@@ -2052,7 +2070,7 @@
       ],
       "date_added": "2022-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-09",
       "duration_ms": 292560,
       "name": "Risalah Hati",
       "url": "https://open.spotify.com/track/0cc9lgdfHqeS8t9BzbFFmj"

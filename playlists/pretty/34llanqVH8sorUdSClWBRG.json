@@ -6,7 +6,7 @@
     "name": "Zero625",
     "url": "https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm"
   },
-  "snapshot_id": "AAAAKZ2RXvxHeb4lV9Widmt/Hy6LKnBI",
+  "snapshot_id": "AAAAKw6acLcw3fNIQ/TyGDWllGhGt0/B",
   "tracks": [
     {
       "added_at": "2023-03-21 05:28:46",
@@ -615,6 +615,38 @@
       "duration_ms": 148365,
       "name": "Playing With Fire",
       "url": "https://open.spotify.com/track/3yG3qyAffoYLExAjhZTuJG"
+    },
+    {
+      "added_at": "2024-10-08 08:23:38",
+      "album": {
+        "name": "The Best Of Men At Work: Contraband",
+        "url": "https://open.spotify.com/album/6GYIy1SuhPDrugCZ5yNeQy"
+      },
+      "artists": [
+        {
+          "name": "Men At Work",
+          "url": "https://open.spotify.com/artist/0f3EsoviYnRKTkmayI3cux"
+        }
+      ],
+      "duration_ms": 200493,
+      "name": "Who Can It Be Now?",
+      "url": "https://open.spotify.com/track/5cOM0fTHceCkJVwuyHdMnk"
+    },
+    {
+      "added_at": "2024-10-08 10:31:03",
+      "album": {
+        "name": "Overwhelmed",
+        "url": "https://open.spotify.com/album/7E7HRywUyuqW5qH793yPbP"
+      },
+      "artists": [
+        {
+          "name": "Royal & the Serpent",
+          "url": "https://open.spotify.com/artist/64EHXDoln95lnccszdPum0"
+        }
+      ],
+      "duration_ms": 159293,
+      "name": "overwhelmed",
+      "url": "https://open.spotify.com/track/5jjZikDrEd0by1o7V3fO4y"
     }
   ],
   "unique_name": "Diseased",

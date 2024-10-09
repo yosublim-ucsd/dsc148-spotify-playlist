@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0e5BFIQWSDG.md) - [plain]
 
 > Οι μεγαλύτερες επιτυχίες του σήμερα και του αύριο, επιλεγμένες από την ομάδα μας\. Εξώφυλλο: Ivan Greko
 
-[Spotify](https://open.spotify.com/user/spotify) - 250,088 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 250,239 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0e5BFIQWSDG.md) - [plain]
 | 16 | [MA BELLA](https://open.spotify.com/track/6D5QFkJLHYuv5f7hvslZxz) | [RACK](https://open.spotify.com/artist/6YYOTK6Qyv6PuFipPxCCoe), [TOQUEL](https://open.spotify.com/artist/7AWAljMatr7bxddF4kWzXG), [Beyond](https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP) | [EGO THERAPY](https://open.spotify.com/album/1q26U80QVKg26wIZpBGFi8) | 2:52 |
 | 17 | [Vorias](https://open.spotify.com/track/0ZK2jpmk44WBUfe2UV30AY) | [APON](https://open.spotify.com/artist/2bucjueNUx2aVTUA7zj6w7) | [Vorias](https://open.spotify.com/album/2Q5uwzmPFHSjpk9cSayhZp) | 3:09 |
 | 18 | [FANTA](https://open.spotify.com/track/6wx0UEozv6e3X16awO0BCS) | [DIFF](https://open.spotify.com/artist/4rtNK25TiSGNcibilGWcQK), [Arab](https://open.spotify.com/artist/3h3WR8UDyRk15U74xAXE7a) | [FANTA](https://open.spotify.com/album/28Z5ChSUUkD9xuUjy9xuBq) | 2:33 |
-| 19 | [Panama](https://open.spotify.com/track/59TU63XlKvPgYYnTu3mnc0) | [Trannos](https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc), [Arab test](https://open.spotify.com/artist/1GUvd0frO0vgGhR9Qb1KQF) | [Panama](https://open.spotify.com/album/6EmezhSz87ge2ma2CDeEJK) | 2:12 |
+| 19 | [Panama](https://open.spotify.com/track/59TU63XlKvPgYYnTu3mnc0) | [Trannos](https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc), [Arab](https://open.spotify.com/artist/3h3WR8UDyRk15U74xAXE7a) | [Panama](https://open.spotify.com/album/6EmezhSz87ge2ma2CDeEJK) | 2:12 |
 | 20 | [OMERTA](https://open.spotify.com/track/3SX7Wbl2uotkaeKUJkrP85) | [RACK](https://open.spotify.com/artist/6YYOTK6Qyv6PuFipPxCCoe), [Light](https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2), [Beyond](https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP) | [EGO THERAPY](https://open.spotify.com/album/1q26U80QVKg26wIZpBGFi8) | 2:49 |
 | 21 | [XWRIS](https://open.spotify.com/track/0l3lG8DrnazizwBxGeJ9Qy) | [Kidd](https://open.spotify.com/artist/1RqOmrtivmvKrfBO81j1ou), [Echo](https://open.spotify.com/artist/0JfrxGQOdnHYZWBAtzPezD) | [BABYSHARK](https://open.spotify.com/album/07dJAiFnDIzhB9hMrUfohG) | 2:10 |
 | 22 | [TANAPU](https://open.spotify.com/track/2vRUn3ggWiCXnlq42mfbGP) | [DIFF](https://open.spotify.com/artist/4rtNK25TiSGNcibilGWcQK), [Ivan Greko](https://open.spotify.com/artist/0cy6ZMOTeautXRNJsR6PiV), [Spize](https://open.spotify.com/artist/35k7GJlhaFK7qHpOJ1JWbm), [BeTaf Beats](https://open.spotify.com/artist/5qDpS8QhKjNRZ6aRrcpY1Z) | [TANAPU](https://open.spotify.com/album/4WpSnL7U9neH4E1hQjUask) | 2:28 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEbYi1zYy0Z.md) - [plain]
 
 > So fresh, so smooth\. Cover: Boney James
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,730 likes - 100 songs - 6 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,767 likes - 100 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEbYi1zYy0Z.md) - [plain]
 | 5 | [Impulse](https://open.spotify.com/track/0nV7T8aDzUGJ0RQ417uAMJ) | [Tom Browne](https://open.spotify.com/artist/4Ytvi4r3WPIZmEw1Ndmkp9) | [Impulse](https://open.spotify.com/album/5LazfoIN28eaJqAy2Bi03s) | 4:03 |
 | 6 | [The Way You Sway \- radio single](https://open.spotify.com/track/2mUhN5Vj8cstLX50BAnDpq) | [Blake Aaron](https://open.spotify.com/artist/5DnSgdQvmYD6yU1Sp7Ik56) | [The Way You Sway](https://open.spotify.com/album/0UFcEb8TeFUf08KlyxNyWX) | 4:18 |
 | 7 | [The Girl From Cagayan De Oro](https://open.spotify.com/track/7hpy2vrgp2duIotpoYPxSl) | [Matthew Shell](https://open.spotify.com/artist/4XfIiCq9teZp4gSPE0iYC9), [Arun Shenoy](https://open.spotify.com/artist/2z4Hre9Bs3HgruyY01zYwU), [Douglas Lira](https://open.spotify.com/artist/2Ljy5B4j9O8O3cYwCgcZQI), [Jonathan Wesley](https://open.spotify.com/artist/4PzdAdVyRd6Un66vHOD6st), [Sami Turunen](https://open.spotify.com/artist/2xLnJ9osiiSOHRiJT28qiO) | [The Girl From Cagayan De Oro](https://open.spotify.com/album/7qU0xAK2XDVk4Qiq2sNzBt) | 4:27 |
-| 8 | [Love Duet](https://open.spotify.com/track/6rlmSOzLzpwj6OD75vMnSm) | [Miri Ben\-Ari](https://open.spotify.com/artist/7i0Z1tzWVamskO8eLnZ3Kx), [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Love Duet](https://open.spotify.com/album/12m1GvcFY7Tzt5GVik0fl6) | 4:00 |
+| 8 | [Love Duet](https://open.spotify.com/track/6rlmSOzLzpwj6OD75vMnSm) | [Miri Ben\-Ari](https://open.spotify.com/artist/7i0Z1tzWVamskO8eLnZ3Kx) | [Love Duet](https://open.spotify.com/album/12m1GvcFY7Tzt5GVik0fl6) | 2:56 |
 | 9 | [Happy Hour](https://open.spotify.com/track/3iZDt8tUUKq5KblXWZGXiL) | [Michael Broening](https://open.spotify.com/artist/3LSpP85R3Dszki2XgI2ORG) | [Happy Hour](https://open.spotify.com/album/0OVp7l61NtLRuQauGUSoLJ) | 4:03 |
 | 10 | [Newport Nights \- Radio Edit](https://open.spotify.com/track/5b82tnpFe2WDC2ZgEnbAAx) | [Michael Cates](https://open.spotify.com/artist/4OOHTZ8r9IzokEYsqeXA2A) | [Newport Nights \(Radio Edit\)](https://open.spotify.com/album/35C6c8BYLjAa6OBYtdfIpj) | 3:49 |
 | 11 | [Dream Maker](https://open.spotify.com/track/2qoRdks21e71gFc9zVBSHt) | [Will Donato](https://open.spotify.com/artist/0m8061Uhsuwz9fv6AJGOs9) | [Dream Maker](https://open.spotify.com/album/2KQxEMbI2vReIpBtTZDYAp) | 4:13 |

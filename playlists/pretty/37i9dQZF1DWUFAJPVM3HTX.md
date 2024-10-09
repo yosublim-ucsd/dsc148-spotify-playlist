@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > The best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/6y4JQgtvRMTNfA5YVMPv3psi=rrKVOvJyTmayxgah2I2jgg">Rowena Fysx</a>\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 250,808 likes - 264 songs - 13 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 250,855 likes - 264 songs - 13 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,7 +95,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 85 | [in this bed](https://open.spotify.com/track/3FXrOxEHosOkGUAtqlVQ0W) | [Jazlyn Martin](https://open.spotify.com/artist/6qnQ8pEWian26DWdjRMXr0), [PHABO](https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn) | [Identity Crisis](https://open.spotify.com/album/6SVpFDmV4FZhviaJclIg5s) | 2:53 |
 | 86 | [ROOM 112](https://open.spotify.com/track/4Z9aB5xr4B0Nav8RTF2f7e) | [Mike Classic](https://open.spotify.com/artist/4I8nWa5GMqCw0yCOpTUYU4) | [ROOM 112](https://open.spotify.com/album/5X2thSiTRuIH2GUQXnqnyf) | 2:20 |
 | 87 | [Situationship](https://open.spotify.com/track/5M4q0fsQJP718yu0keYF8y) | [Josh Kye](https://open.spotify.com/artist/0qtgGtFrIG8RnZIWjsD53h) | [Situationship](https://open.spotify.com/album/5ufOlUM81r0PPyMRUfWXPW) | 3:13 |
-| 88 | [COCO ROLL](https://open.spotify.com/track/7q9GDlanTjzsaXdrRLhz8p) | [Lamar Morris](https://open.spotify.com/artist/3fTmCXDMP1jNSWfqCznI30) | [COCO ROLL](https://open.spotify.com/album/2ZaRy8CZSQzqrMGU8r3DcO) | 2:02 |
+| 88 | [COCO ROLL](https://open.spotify.com/track/7q9GDlanTjzsaXdrRLhz8p) | [Lamar](https://open.spotify.com/artist/1lEBiL1tggtva2S5vcW65i) | [COCO ROLL](https://open.spotify.com/album/2ZaRy8CZSQzqrMGU8r3DcO) | 2:02 |
 | 89 | [Hardwood](https://open.spotify.com/track/1UewUQJNRJUHvNdDhsGm5q) | [Wé Ani](https://open.spotify.com/artist/0VcXm1al35QNsj9tbAnCJm) | [Hardwood](https://open.spotify.com/album/0KpxaF4NoYJoSi6eGR5GDz) | 3:25 |
 | 90 | [Never Again](https://open.spotify.com/track/45GHnTM0eBRFfmsHlKk44z) | [Adrian Daniel](https://open.spotify.com/artist/0vnUJWW8wWDGcSdwFYCIB0) | [Never Again](https://open.spotify.com/album/3QsHxBvzbO28ij9jRFxPkn) | 3:31 |
 | 91 | [Cameraphone](https://open.spotify.com/track/7nL9f2QcCEcdFYEiPiSpXR) | [Zeke Bleu](https://open.spotify.com/artist/41A9WSBy51jtVHKO6VCeN0) | [Cameraphone](https://open.spotify.com/album/7CjeCwZFw0DJtyHdvez4HQ) | 2:46 |

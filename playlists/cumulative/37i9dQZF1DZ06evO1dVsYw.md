@@ -2,7 +2,7 @@
 
 ### [This Is Racionais MC's](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1dVsYw)
 
-> This is Racionais MC's\. The essential tracks, all in one playlist.
+> This Is Racionais MC's\. Todas as faixas essenciais numa única playlist.
 
 41 songs - 3 hr 50 min
 

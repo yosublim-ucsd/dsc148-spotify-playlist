@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。Creepy Nuts, Coldplay, King Gnu, Eve, Leon Bridges and more! cover: Creepy Nuts
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,937 likes - 97 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,944 likes - 97 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

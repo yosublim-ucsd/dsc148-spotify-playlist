@@ -4,7 +4,7 @@
 
 > Turn up the volume for some filthy bassline!
 
-276 songs - 16 hr 50 min
+277 songs - 16 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -246,6 +246,7 @@
 | [STUCK ON U](https://open.spotify.com/track/0GxfqvTxZcBKasPqyegqqT) | [Y U QT](https://open.spotify.com/artist/0tpkcjoMduNpT0FnpNYZiV) | [BABE?](https://open.spotify.com/album/3FmYkDwMUQobmwZADpgQUi) | 3:30 | 2023-10-28 | 2024-07-27 |
 | [Style](https://open.spotify.com/track/62KcN1Ea8Rjm4Nd3DcFw6t) | [Taiki Nulight](https://open.spotify.com/artist/4QWmN97HRZya55JvxN3I5a), [P Money](https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY), [Capo Lee](https://open.spotify.com/artist/4KKnsk3tGkfwChmUmmJ0kh) | [Style](https://open.spotify.com/album/4XXKdcSWdp3N8pUfsRtdBf) | 2:03 | 2024-05-17 |  |
 | [Surgery](https://open.spotify.com/track/1cLCoQ6yp9RPNI8yI3NSjK) | [FooR](https://open.spotify.com/artist/0TgZuVgRBjg6iLkZafbfmr), [Ragga Twins](https://open.spotify.com/artist/41vebFiEyxaRwT7rNmRLpq) | [Surgery](https://open.spotify.com/album/4MDbJWczpWtc5fk7f5D3Dr) | 2:09 | 2023-08-10 |  |
+| [Sweet Lies](https://open.spotify.com/track/7w0xjGyIdNRqI0z2pSDjYG) | [Zero](https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH) | [Sweet Lies](https://open.spotify.com/album/4NxrjpgGvtfcaOD3VemSZn) | 4:14 | 2024-10-03 |  |
 | [Swing King](https://open.spotify.com/track/0xHtnko6St2bKkMGgrtTO1) | [Cesco](https://open.spotify.com/artist/7Gg3X2b5ljrhVGXDAwcrq3), [Hamdi](https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg) | [Swing King](https://open.spotify.com/album/1GXILMnLp8orFCcrPFu0eo) | 4:29 | 2023-12-01 |  |
 | [T Dub](https://open.spotify.com/track/5ir1kBOB9NY3q99Y3gMHAb) | [Luca T](https://open.spotify.com/artist/0RRwxv2lR9DqgXw11rDZUY) | [T Dub](https://open.spotify.com/album/6MVB8CY1iqWLrbBFHx5Rr9) | 2:57 | 2024-01-26 |  |
 | [Take Me](https://open.spotify.com/track/5x7FItoIkhDAAH0E3sZA3c) | [Pyrate](https://open.spotify.com/artist/7BIp16JztBSnvYceUedF0o) | [Take Me](https://open.spotify.com/album/4FuLhNgsflh3RNznQljG6p) | 3:43 | 2022-04-22 | 2022-07-21 |
@@ -270,7 +271,7 @@
 | [Verdansk VIP \- VIP](https://open.spotify.com/track/0VMcpOqA0TF5es9miEFje3) | [Skepsis](https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC), [Cajama](https://open.spotify.com/artist/3YiP0AyiXuD61EE5xTaTbY) | [Verdansk VIP](https://open.spotify.com/album/2wPo6DxCOZME6CwIyegjsx) | 5:02 | 2022-06-10 | 2022-07-29 |
 | [Von dutch remix with skream and benga](https://open.spotify.com/track/6avei3GTDwm3u8jobPwGh5) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Skream](https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW), [Benga](https://open.spotify.com/artist/6lyYDuLxgcxPLH5RjUPH5p) | [Von dutch remix with skream and benga](https://open.spotify.com/album/6e5PBZjpdbu2t39D9QoUgF) | 4:41 | 2024-05-17 |  |
 | [Wanna Freak](https://open.spotify.com/track/4ZXkasziPLirl2GCn3bh8Q) | [Cajama](https://open.spotify.com/artist/3YiP0AyiXuD61EE5xTaTbY) | [Wanna Freak](https://open.spotify.com/album/2JON2aHyeJoaBSIbbvfXrh) | 3:08 | 2022-04-15 | 2024-06-15 |
-| [Want \(ur body\)](https://open.spotify.com/track/7h4ubaopYMigwEXZpTLi9s) | [Zero](https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH) | [Want \(ur body\)](https://open.spotify.com/album/7J9Cj4yEiCU7cFsuxvNuts) | 4:34 | 2023-04-04 |  |
+| [Want \(ur body\)](https://open.spotify.com/track/7h4ubaopYMigwEXZpTLi9s) | [Zero](https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH) | [Want \(ur body\)](https://open.spotify.com/album/7J9Cj4yEiCU7cFsuxvNuts) | 4:34 | 2023-04-04 | 2024-10-09 |
 | [Warehouse](https://open.spotify.com/track/4pTwMY48IEDfJlXE87heyD) | [Badger](https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3) | [Warehouse](https://open.spotify.com/album/65eCETrzR2S7tLZgLPv57j) | 3:14 | 2022-04-15 | 2022-07-07 |
 | [Watch The Skank](https://open.spotify.com/track/49zk3dTYmYjtXK6UnG18Er) | [Zero](https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH), [Tempa T](https://open.spotify.com/artist/5itdSz26wZC57bo3dhQTPq) | [Watch The Skank](https://open.spotify.com/album/01CQfqMHQFq4S0ogijNGwJ) | 3:01 | 2024-05-28 |  |
 | [Wavelord Bizniz](https://open.spotify.com/track/2rDXW6HxRe1r6MTvzbvB4w) | [Samurai Breaks](https://open.spotify.com/artist/5X8xxAPGx1ouTGDlgE5ray), [Napes](https://open.spotify.com/artist/67tntWq8UUUolQoKWKZgN5) | [Wavelord Bizniz](https://open.spotify.com/album/4fSERdJxrStbV6mpIhUonK) | 4:40 | 2024-02-23 |  |

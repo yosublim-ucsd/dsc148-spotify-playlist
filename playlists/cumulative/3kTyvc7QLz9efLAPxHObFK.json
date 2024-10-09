@@ -622,6 +622,32 @@
     {
       "album": {
         "name": "Afterglow",
+        "url": "https://open.spotify.com/album/6uBfQOKNdpFCoZESsvTliL"
+      },
+      "artists": [
+        {
+          "name": "DJ Noriken",
+          "url": "https://open.spotify.com/artist/0Vpv5NQP45aoAwj2XvWowr"
+        },
+        {
+          "name": "tachibana",
+          "url": "https://open.spotify.com/artist/5ReSbMzIP1BtdLOzzmXjns"
+        },
+        {
+          "name": "Massive New Krew",
+          "url": "https://open.spotify.com/artist/1D3hV1Gke8LLRSn1aymglN"
+        }
+      ],
+      "date_added": "2024-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176914,
+      "name": "Afterglow",
+      "url": "https://open.spotify.com/track/7BikwNivwUDQn2fEldBroy"
+    },
+    {
+      "album": {
+        "name": "Afterglow",
         "url": "https://open.spotify.com/album/3cmlOsjIMPoUVvWHQ1WPwX"
       },
       "artists": [
@@ -778,6 +804,28 @@
       "duration_ms": 191833,
       "name": "Alien",
       "url": "https://open.spotify.com/track/7hBZR5urFrnA5BVp8LYISs"
+    },
+    {
+      "album": {
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/49kf3kRG4f0sLoPSSrOwM6"
+      },
+      "artists": [
+        {
+          "name": "Atmozfears",
+          "url": "https://open.spotify.com/artist/0MBGxwmCdXdO26ojaNcT64"
+        },
+        {
+          "name": "Galactixx",
+          "url": "https://open.spotify.com/artist/450u38hSRh0Q2UyghEbjpS"
+        }
+      ],
+      "date_added": "2024-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223250,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/3WyzSm8W25F8m6RquNrsPI"
     },
     {
       "album": {
@@ -1974,7 +2022,7 @@
       ],
       "date_added": "2024-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-09",
       "duration_ms": 147200,
       "name": "Bad Boys",
       "url": "https://open.spotify.com/track/6zxFESuVGHEDmOM2C6ZxYX"
@@ -2620,6 +2668,24 @@
       "duration_ms": 198003,
       "name": "Be My Love",
       "url": "https://open.spotify.com/track/3bsG5YOiLctXOPdAXZlpQ8"
+    },
+    {
+      "album": {
+        "name": "Be My Lover",
+        "url": "https://open.spotify.com/album/4hjneqKJ7b03mh48bqlAlB"
+      },
+      "artists": [
+        {
+          "name": "The Saints",
+          "url": "https://open.spotify.com/artist/0CE9b5MpyYgJNxa2bNkOMc"
+        }
+      ],
+      "date_added": "2024-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141426,
+      "name": "Be My Lover",
+      "url": "https://open.spotify.com/track/4m5JH6q0ldwKW7s2YpcM3B"
     },
     {
       "album": {
@@ -4378,6 +4444,24 @@
       "duration_ms": 220500,
       "name": "Bring The Force (Official Harder Force 2023 Anthem)",
       "url": "https://open.spotify.com/track/2Thpwv5T4uiLUlETERH0bC"
+    },
+    {
+      "album": {
+        "name": "Bring The Noise",
+        "url": "https://open.spotify.com/album/19JuT3kCuEWXlwoMplXGag"
+      },
+      "artists": [
+        {
+          "name": "Remzcore",
+          "url": "https://open.spotify.com/artist/0mv06HWAJhV6nK7zd2eZwp"
+        }
+      ],
+      "date_added": "2024-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146550,
+      "name": "Bring The Noise",
+      "url": "https://open.spotify.com/track/66QZYbaKQlcx3fJBVqiGp0"
     },
     {
       "album": {
@@ -6155,6 +6239,28 @@
     },
     {
       "album": {
+        "name": "COOL SHIT",
+        "url": "https://open.spotify.com/album/33SUTbnBWHl0pvvbxFUHBO"
+      },
+      "artists": [
+        {
+          "name": "Reevoid",
+          "url": "https://open.spotify.com/artist/5yctqJ4JpS0Fha3k3C5B86"
+        },
+        {
+          "name": "Eggedd",
+          "url": "https://open.spotify.com/artist/0c41gp29ZkkV0ty4CGZ5SL"
+        }
+      ],
+      "date_added": "2024-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276000,
+      "name": "COOL SHIT",
+      "url": "https://open.spotify.com/track/2vUF0062TNPxBNzsFXY5nu"
+    },
+    {
+      "album": {
         "name": "SINSATION",
         "url": "https://open.spotify.com/album/1HQ4zZe5tEhbKJPVYrJyVb"
       },
@@ -6794,6 +6900,40 @@
       "duration_ms": 228705,
       "name": "Dance All Night",
       "url": "https://open.spotify.com/track/2tHQZ72MHQkWMPTLBjHwqO"
+    },
+    {
+      "album": {
+        "name": "Dance For Me (1, 2, 3) [The Remixes]",
+        "url": "https://open.spotify.com/album/4vgDHOmtP3Hrbie8uwmYT1"
+      },
+      "artists": [
+        {
+          "name": "Sonny Wern",
+          "url": "https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt"
+        },
+        {
+          "name": "Irradiate",
+          "url": "https://open.spotify.com/artist/3iVpZjQNb6mpiV5KY2xY9I"
+        },
+        {
+          "name": "Lyente",
+          "url": "https://open.spotify.com/artist/3vGgjydudbzEp2r9PmqHc0"
+        },
+        {
+          "name": "Quinten Circle",
+          "url": "https://open.spotify.com/artist/6dcF1Pcj5BlCkSK9FF96GG"
+        },
+        {
+          "name": "ZANA",
+          "url": "https://open.spotify.com/artist/34lIancN28qj7jD4JxYOdE"
+        }
+      ],
+      "date_added": "2024-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123600,
+      "name": "Dance For Me (1, 2, 3) - Irradiate Remix",
+      "url": "https://open.spotify.com/track/2HFnhPLndIuk9NuQS0G7Uu"
     },
     {
       "album": {
@@ -8416,7 +8556,7 @@
       ],
       "date_added": "2024-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-09",
       "duration_ms": 136413,
       "name": "Down Low",
       "url": "https://open.spotify.com/track/7uHs6HMb42GyRZ5WVsY6Ra"
@@ -10663,6 +10803,24 @@
     },
     {
       "album": {
+        "name": "Feel The Rush",
+        "url": "https://open.spotify.com/album/2LLzpqN0OAzOlD1TYtQ1ZC"
+      },
+      "artists": [
+        {
+          "name": "RUBI\u00d8",
+          "url": "https://open.spotify.com/artist/6qr39ni6B1uX5Vbo9biMhd"
+        }
+      ],
+      "date_added": "2024-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 393725,
+      "name": "Feel The Rush",
+      "url": "https://open.spotify.com/track/0B1F31CeEx7L5jy36W9l6d"
+    },
+    {
+      "album": {
         "name": "Feel Your Echo",
         "url": "https://open.spotify.com/album/6tCiSPl1zvzuKT7MVwj8OL"
       },
@@ -11058,6 +11216,28 @@
       "duration_ms": 173454,
       "name": "Fingers To The Sky",
       "url": "https://open.spotify.com/track/1Agmt00ZysDMXes5xR2KL4"
+    },
+    {
+      "album": {
+        "name": "Fire",
+        "url": "https://open.spotify.com/album/7seDShHq8w7l7Shko8hQRS"
+      },
+      "artists": [
+        {
+          "name": "Mutilator",
+          "url": "https://open.spotify.com/artist/3AkGIMk9xwDj4A5ttNBPiN"
+        },
+        {
+          "name": "Sovereign King",
+          "url": "https://open.spotify.com/artist/4Ub0mdQEa3RhAfwWgVXp46"
+        }
+      ],
+      "date_added": "2024-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173265,
+      "name": "Fire",
+      "url": "https://open.spotify.com/track/3BiNXvPlL8BHgAO6kenUV5"
     },
     {
       "album": {
@@ -11684,6 +11864,32 @@
       "duration_ms": 367493,
       "name": "Forgotten Moments",
       "url": "https://open.spotify.com/track/3xrOF41CBuZ755toXQP2xN"
+    },
+    {
+      "album": {
+        "name": "Forsaken",
+        "url": "https://open.spotify.com/album/549tAL9AdCfFboVOLAJWrh"
+      },
+      "artists": [
+        {
+          "name": "Dimatik",
+          "url": "https://open.spotify.com/artist/2Zvo5BEkHyaHD1zk180kMz"
+        },
+        {
+          "name": "Strictly Business",
+          "url": "https://open.spotify.com/artist/7kC4umc8A1sRBGBnkeKVY1"
+        },
+        {
+          "name": "Diandra Faye",
+          "url": "https://open.spotify.com/artist/5gdYdbKxGw2Mq25TfsmH6q"
+        }
+      ],
+      "date_added": "2024-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205935,
+      "name": "Forsaken",
+      "url": "https://open.spotify.com/track/2PKfCSihh3AAveHAfGHRNQ"
     },
     {
       "album": {
@@ -19400,6 +19606,24 @@
       "duration_ms": 134400,
       "name": "Love Ain't Fair",
       "url": "https://open.spotify.com/track/71Fi5DylfsWn0x1ngQWJVQ"
+    },
+    {
+      "album": {
+        "name": "LOVE DON'T LET ME GO",
+        "url": "https://open.spotify.com/album/570TL1w3xvPBLH52kYinU4"
+      },
+      "artists": [
+        {
+          "name": "Krowdexx",
+          "url": "https://open.spotify.com/artist/7Ecbym3UD6q848BAse6Qeb"
+        }
+      ],
+      "date_added": "2024-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184500,
+      "name": "LOVE DON'T LET ME GO",
+      "url": "https://open.spotify.com/track/2VEFILxPIsvijHQtwWSVU9"
     },
     {
       "album": {
@@ -28346,6 +28570,24 @@
     {
       "album": {
         "name": "Spaceman",
+        "url": "https://open.spotify.com/album/6r0WflnggLpmORbJdld4r0"
+      },
+      "artists": [
+        {
+          "name": "Elite Enemy",
+          "url": "https://open.spotify.com/artist/0RRQCcx8rN61uQ7iM2TETB"
+        }
+      ],
+      "date_added": "2024-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149250,
+      "name": "Spaceman",
+      "url": "https://open.spotify.com/track/3IZ55IOuW71SOe7t6ZtosK"
+    },
+    {
+      "album": {
+        "name": "Spaceman",
         "url": "https://open.spotify.com/album/2ny11CERLLuKMc6e6I7iW7"
       },
       "artists": [
@@ -28572,6 +28814,28 @@
       "duration_ms": 184511,
       "name": "STAR WALKIN'",
       "url": "https://open.spotify.com/track/4OFGSQdbd3OPgSr4uNO2iy"
+    },
+    {
+      "album": {
+        "name": "Stars Don\u2019t Matter",
+        "url": "https://open.spotify.com/album/2JSUC37cu5cyMnSnjs67A4"
+      },
+      "artists": [
+        {
+          "name": "Noise Of Aggression",
+          "url": "https://open.spotify.com/artist/3IUHsnxMykEgZX9K1v94F1"
+        },
+        {
+          "name": "Xrim",
+          "url": "https://open.spotify.com/artist/5KOYiRQiI3ybppGyRPp2D4"
+        }
+      ],
+      "date_added": "2024-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159623,
+      "name": "Stars Don\u2019t Matter",
+      "url": "https://open.spotify.com/track/4zINWnGpXwt1iK8sGYK3jQ"
     },
     {
       "album": {
@@ -30724,6 +30988,28 @@
       "duration_ms": 255600,
       "name": "The Foundation",
       "url": "https://open.spotify.com/track/4DnMTgupy3N4v5YArsqkax"
+    },
+    {
+      "album": {
+        "name": "Live EP",
+        "url": "https://open.spotify.com/album/1QpdZ1gDn2FHhyptxyUod0"
+      },
+      "artists": [
+        {
+          "name": "Lumex",
+          "url": "https://open.spotify.com/artist/5mmH8aPIBykETuGLc97VOi"
+        },
+        {
+          "name": "Tenzin",
+          "url": "https://open.spotify.com/artist/5vnDYpoLqdsebfsH7xexpG"
+        }
+      ],
+      "date_added": "2024-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139218,
+      "name": "The Future - Laser Live Edit",
+      "url": "https://open.spotify.com/track/6trG4y7IE2PXiBEVSDAitx"
     },
     {
       "album": {

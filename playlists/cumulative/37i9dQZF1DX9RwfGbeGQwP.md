@@ -4,7 +4,7 @@
 
 > chill beats for cool coffeehouse vibes.
 
-1,476 songs - 2 day 7 hr 35 min
+1,477 songs - 2 day 7 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -484,7 +484,7 @@
 | [Ginger Shot](https://open.spotify.com/track/1MRRnwQEsl2os1I1ZjPcUm) | [Howie Doowin](https://open.spotify.com/artist/5GsPaA0g3apgEmOW1HmP7n), [Osive](https://open.spotify.com/artist/0xU9dnJU5OscWWwAZVJwtc) | [Ginger Shot](https://open.spotify.com/album/0TNZfawkcV33823CBAIirK) | 2:05 | 2022-04-08 | 2022-10-15 |
 | [Given Moment](https://open.spotify.com/track/6hpOK6d4UWB7aOQcUEQ6Jv) | [Zibi & Bibi](https://open.spotify.com/artist/1Pkve0Wq80BendrhjGGYmo) | [Given Moment](https://open.spotify.com/album/1faduVStlrl15AtFIGEkiR) | 2:29 | 2022-11-25 | 2024-09-19 |
 | [Glass](https://open.spotify.com/track/6YmAN8wW3S1GFa3FQ7hYc5) | [Oli Howe](https://open.spotify.com/artist/0Ky1tgoT4tGP4yFEYOBfof) | [Glass](https://open.spotify.com/album/0jiT4sRjdccTgOjxXEJmaZ) | 3:22 | 2022-10-15 | 2023-09-22 |
-| [Glenmore](https://open.spotify.com/track/73l8ddiWBcggsz1NqA1pIv) | [lorleaf](https://open.spotify.com/artist/4dIQxgH4s739dGAHaKAw0y) | [Glenmore](https://open.spotify.com/album/5XKRlZAf9dSL4nMAPlRAR1) | 1:56 | 2024-09-13 |  |
+| [Glenmore](https://open.spotify.com/track/73l8ddiWBcggsz1NqA1pIv) | [lorleaf](https://open.spotify.com/artist/4dIQxgH4s739dGAHaKAw0y) | [Glenmore](https://open.spotify.com/album/5XKRlZAf9dSL4nMAPlRAR1) | 1:56 | 2024-09-13 | 2024-10-09 |
 | [Glimmer](https://open.spotify.com/track/6vHpwXwx4jV9iUjq6RzxdZ) | [Moon Dog](https://open.spotify.com/artist/4SCLmeVjCP3cZyIVzqYG1K) | [Glimmer](https://open.spotify.com/album/2U5infJxCF83jzqiqasVyJ) | 2:04 | 2023-03-08 | 2024-08-22 |
 | [Glitch Sunset](https://open.spotify.com/track/30cNkj6a0i9yjxz5E4hSwH) | [Otis Ubaka](https://open.spotify.com/artist/1YreDOGr8en691i5jQJJMK) | [Glitch Sunset](https://open.spotify.com/album/5c58qAL3B7hykcTImx0BV2) | 2:03 | 2022-10-15 | 2023-08-04 |
 | [Glorious](https://open.spotify.com/track/6MtDXkpB4tCtiRIFfAyzCE) | [Lozzle](https://open.spotify.com/artist/3qhKLxCl0TVYBmDoNCKMbt) | [Glorious](https://open.spotify.com/album/0Gp6gzfEUO9RPly3O6hyOz) | 2:11 | 2022-01-27 | 2022-07-01 |
@@ -860,12 +860,13 @@
 | [Nagata Lights](https://open.spotify.com/track/3tI6ByTenOTqT0fIj5digf) | [Mujo](https://open.spotify.com/artist/0vg08N1z9G9LrGLkG1nNDS), [Hakone](https://open.spotify.com/artist/7CWzXEtz9IgGotcYUQuixF) | [Nagata Lights](https://open.spotify.com/album/44QQQMiFBKkV5aVpbIhKUf) | 2:02 | 2022-01-27 | 2022-09-03 |
 | [Nanny's Lullaby](https://open.spotify.com/track/6vxZvCHuexWyAj0VdJsGnS) | [1930](https://open.spotify.com/artist/04qLskUo3x0vMixvZxCK78) | [Nanny's Lullaby](https://open.spotify.com/album/0EJDO54exCA6ix4hhzxhoV) | 2:23 | 2022-09-30 | 2023-04-21 |
 | [Nardis](https://open.spotify.com/track/0MO6SnNz53dYGbAb0UFBx9) | [UKDD](https://open.spotify.com/artist/14AiEXtiaKk6yF7YO2fap8), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN) | [Nardis](https://open.spotify.com/album/2DL0X8hLdbYSKlBUIgTqG2) | 2:18 | 2022-12-09 | 2023-09-29 |
+| [Natsumi](https://open.spotify.com/track/4GQ8CyrjkROX6hiM7q1d2H) | [Neko Kedi](https://open.spotify.com/artist/785Hs8MoBt2oTIRtfEtsuw) | [Natsumi](https://open.spotify.com/album/72FhFkkn8epsa96noAjLMJ) | 2:06 | 2024-10-04 |  |
 | [natten](https://open.spotify.com/track/328jz9mv74DFbfzLQHU0BJ) | [archipelago beats](https://open.spotify.com/artist/7kv4vSxfaAfdzaq6Ogd272) | [natten EP](https://open.spotify.com/album/4BNeqht3X7y0yeNo9tE45h) | 2:27 | 2023-01-13 |  |
 | [Nattsudd](https://open.spotify.com/track/6HMT16Rk6JTTQ2LuYLHVRb) | [Overklig](https://open.spotify.com/artist/44GjBAdTaRpLUjQi7wJMa2) | [Nattsudd](https://open.spotify.com/album/1oJoXscf6fpPQKbzDJe2OT) | 2:36 | 2022-01-27 | 2022-07-08 |
 | [NEAR](https://open.spotify.com/track/72u6WlUdYIx62Z33Xvh7A4) | [SINY](https://open.spotify.com/artist/6d1bmKQyB8OJWCOJJPCkVT) | [Shinigami](https://open.spotify.com/album/47couheC4wUEeHig9mBYHW) | 1:35 | 2022-01-27 | 2022-06-10 |
 | [Necklace \- Coffe Ambience](https://open.spotify.com/track/6UbEwbpoVMUDNG94ART8qm) | [Azurenity](https://open.spotify.com/artist/670tCQfj3LeVsUqb2SY4Rs) | [Necklace](https://open.spotify.com/album/5Bl50pCXxV6cRISd7uNcFu) | 2:34 | 2022-05-27 |  |
 | [Neighborhood](https://open.spotify.com/track/4MdB7vfKHChyBTrewDIo2Z) | [Henry Lowe](https://open.spotify.com/artist/1Op6kjtkZu2Yqx5UprLQVt) | [Neighborhood](https://open.spotify.com/album/1jxtwSifLltjn8t4UHeqCp) | 2:35 | 2022-01-27 | 2022-07-01 |
-| [neo wave](https://open.spotify.com/track/373L1sf5eqPaoJnrE67x5J) | [justregular](https://open.spotify.com/artist/5Zx4suKma9aE2dRBP36bhZ) | [neo wave](https://open.spotify.com/album/0YMhzt7mWfsfZQjpr5NX8U) | 2:30 | 2023-03-08 | 2024-10-03 |
+| [neo wave](https://open.spotify.com/track/373L1sf5eqPaoJnrE67x5J) | [justregular](https://open.spotify.com/artist/5Zx4suKma9aE2dRBP36bhZ) | [neo wave](https://open.spotify.com/album/0YMhzt7mWfsfZQjpr5NX8U) | 2:30 | 2023-03-08 |  |
 | [Neon Moon](https://open.spotify.com/track/2oZFGXToaoT7opNSoIqE9A) | [Peter Rushing](https://open.spotify.com/artist/3vXOWOgq3me2u65bCXJbwJ) | [Neon Moon](https://open.spotify.com/album/6206QPsdGTbbHnRmFE8Ciw) | 1:52 | 2022-05-20 | 2024-01-12 |
 | [Neon Tapestries](https://open.spotify.com/track/1oQt6kTiuPsQEFaHWFH6Pl) | [Dusty Decks](https://open.spotify.com/artist/5mWkhlLhHU9FKT8vU8lBIR) | [Neon Tapestries](https://open.spotify.com/album/6hqeBr0rwkgO1DNKx7I59P) | 2:36 | 2022-04-22 |  |
 | [Neptune](https://open.spotify.com/track/3ownsO3GPdMlFVa9BETht9) | [Hans Hu$tle](https://open.spotify.com/artist/1PwlJoSttX1ML8TPVnRpra), [KOMOREBI](https://open.spotify.com/artist/6izk2AxfY5QGz8SULMzdLI) | [Neptune](https://open.spotify.com/album/0f1twoUCoERvlNM4yLxFPk) | 2:21 | 2022-01-27 | 2022-09-03 |
@@ -1430,7 +1431,7 @@
 | [what's left?](https://open.spotify.com/track/3d7GysYatQ2EoPk7CLAIh9) | [West Sun](https://open.spotify.com/artist/11bJ0fFdkXZ9KIp85qIAKh) | [what's left?](https://open.spotify.com/album/6PsJM4y6a9f57wrhRaMwXh) | 2:01 | 2023-02-24 |  |
 | [wheel2wheel](https://open.spotify.com/track/0TfKydTLI9ZZt0rPjiAZZa) | [trak\-side](https://open.spotify.com/artist/3tcFm0EMOPYGhKOa9z47Uh), [chill.farm](https://open.spotify.com/artist/4tPOKN9ZM2sn8f6F0cRVmF) | [wheel2wheel](https://open.spotify.com/album/7jcbLFAhki4ph2lTLB8fgL) | 2:46 | 2024-02-02 |  |
 | [Whelve](https://open.spotify.com/track/1vjYMAt9cUzr2oMbAR94lT) | [Tom Doolie](https://open.spotify.com/artist/4C7NcNb9V6lakzMGHQlm8i), [Rudy Raw](https://open.spotify.com/artist/4ZITuhWAaVoUTge2JwIton) | [Whelve](https://open.spotify.com/album/7MQ7vF6UYsB900kxaSjUPs) | 1:53 | 2022-04-15 | 2022-10-29 |
-| [When I see you](https://open.spotify.com/track/3jbZ6ZHH4oyOELCkh7JLfc) | [Calm Like Carl](https://open.spotify.com/artist/4yliz9yN6pHtswgNVEjiw0) | [When I see you](https://open.spotify.com/album/6gVVit3SRJmgwntpKaNUFT) | 2:23 | 2024-09-13 |  |
+| [When I see you](https://open.spotify.com/track/3jbZ6ZHH4oyOELCkh7JLfc) | [Calm Like Carl](https://open.spotify.com/artist/4yliz9yN6pHtswgNVEjiw0) | [When I see you](https://open.spotify.com/album/6gVVit3SRJmgwntpKaNUFT) | 2:23 | 2024-09-13 | 2024-10-09 |
 | [When it's all said and done](https://open.spotify.com/track/5RVGqVPV1IUTelr1nlkng2) | [Low Couture](https://open.spotify.com/artist/13mNwKx9Xb7I4qurCOJfXq) | [When it's all said and done](https://open.spotify.com/album/47B0xT1YkJJjAafqHenmUy) | 2:13 | 2022-12-09 | 2023-04-21 |
 | [When The Clock Strikes Midnight](https://open.spotify.com/track/20IlfWaLERVt1mBTK1Vav6) | [Thomas Tempest](https://open.spotify.com/artist/4zpQwRAlCIdPEA6DYiPxQ4) | [When The Clock Strikes Midnight](https://open.spotify.com/album/5NEawZ5DctjPONqDiymRWK) | 2:28 | 2022-11-25 | 2023-09-29 |
 | [When the Time Comes](https://open.spotify.com/track/0jVAASD83TspRi2gG53o6R) | [Gordon](https://open.spotify.com/artist/6Y9LyKatIXZuMSIKI04oTc) | [When the Time Comes](https://open.spotify.com/album/4bPg3cepOhvfIjBn1lHoZ9) | 2:04 | 2022-01-27 | 2022-05-27 |

@@ -1,6 +1,6 @@
 {
   "description": "Soft (the quietest of them all), subtle, no words needed. Take a sip and enjoy the music of composers from around the world.",
-  "num_followers": 431045,
+  "num_followers": 431154,
   "original_name": "Coffee and Piano",
   "owner": {
     "name": "Spotify",
@@ -351,22 +351,6 @@
     {
       "added_at": "2024-07-10 03:01:00",
       "album": {
-        "name": "Before You",
-        "url": "https://open.spotify.com/album/4437EHGAGBNz2lJzZaWogn"
-      },
-      "artists": [
-        {
-          "name": "Andrea Prine",
-          "url": "https://open.spotify.com/artist/3tzbuAF9yZZHThB1ykHj0A"
-        }
-      ],
-      "duration_ms": 142582,
-      "name": "Before You",
-      "url": "https://open.spotify.com/track/5vC5C7G92VJ4s9lXqtOXKY"
-    },
-    {
-      "added_at": "2024-07-10 03:01:00",
-      "album": {
         "name": "A Safe Space",
         "url": "https://open.spotify.com/album/5IcBkn9y7e0jDlKtf9NhwU"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 148299,
       "name": "A Safe Space",
       "url": "https://open.spotify.com/track/3wchWA4OaMulFCpmmLmog1"
+    },
+    {
+      "added_at": "2024-07-10 03:01:00",
+      "album": {
+        "name": "Before You",
+        "url": "https://open.spotify.com/album/4437EHGAGBNz2lJzZaWogn"
+      },
+      "artists": [
+        {
+          "name": "Andrea Prine",
+          "url": "https://open.spotify.com/artist/3tzbuAF9yZZHThB1ykHj0A"
+        }
+      ],
+      "duration_ms": 142582,
+      "name": "Before You",
+      "url": "https://open.spotify.com/track/5vC5C7G92VJ4s9lXqtOXKY"
     },
     {
       "added_at": "2024-07-10 03:01:00",
@@ -607,22 +607,6 @@
     {
       "added_at": "2024-07-10 03:01:00",
       "album": {
-        "name": "To Bring Rest",
-        "url": "https://open.spotify.com/album/5I39qlWLBneQuXzKaJcTh5"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Austin",
-          "url": "https://open.spotify.com/artist/3RyXWAkPxxntDFBAeGst6K"
-        }
-      ],
-      "duration_ms": 137749,
-      "name": "To Bring Rest",
-      "url": "https://open.spotify.com/track/6MTI6CKlLOZapPzdT4zJLH"
-    },
-    {
-      "added_at": "2024-07-10 03:01:00",
-      "album": {
         "name": "The Way Home",
         "url": "https://open.spotify.com/album/089vc1XdbczEThiYnD6AJB"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 147535,
       "name": "The Way Home",
       "url": "https://open.spotify.com/track/4QB9QRh9xUuqKTXX9JBqyZ"
+    },
+    {
+      "added_at": "2024-07-10 03:01:00",
+      "album": {
+        "name": "To Bring Rest",
+        "url": "https://open.spotify.com/album/5I39qlWLBneQuXzKaJcTh5"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Austin",
+          "url": "https://open.spotify.com/artist/3RyXWAkPxxntDFBAeGst6K"
+        }
+      ],
+      "duration_ms": 137749,
+      "name": "To Bring Rest",
+      "url": "https://open.spotify.com/track/6MTI6CKlLOZapPzdT4zJLH"
     },
     {
       "added_at": "2024-07-10 03:01:00",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2024-07-10 03:01:00",
       "album": {
-        "name": "To New Beginnings",
-        "url": "https://open.spotify.com/album/6NCZQQodsLFgqxVJ5jTbui"
-      },
-      "artists": [
-        {
-          "name": "Una Luna",
-          "url": "https://open.spotify.com/artist/6hKJteZkxCj4rEW8Enp9r7"
-        }
-      ],
-      "duration_ms": 129250,
-      "name": "To New Beginnings",
-      "url": "https://open.spotify.com/track/7IrrIzxSk3OO48hW6dpEus"
-    },
-    {
-      "added_at": "2024-07-10 03:01:00",
-      "album": {
         "name": "Lofoten",
         "url": "https://open.spotify.com/album/0FsLOcwk1jL1yB1e64LKXD"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 161913,
       "name": "Lofoten",
       "url": "https://open.spotify.com/track/3cn7PHrN7FdhOrH2wqPeKe"
+    },
+    {
+      "added_at": "2024-07-10 03:01:00",
+      "album": {
+        "name": "To New Beginnings",
+        "url": "https://open.spotify.com/album/6NCZQQodsLFgqxVJ5jTbui"
+      },
+      "artists": [
+        {
+          "name": "Una Luna",
+          "url": "https://open.spotify.com/artist/6hKJteZkxCj4rEW8Enp9r7"
+        }
+      ],
+      "duration_ms": 129250,
+      "name": "To New Beginnings",
+      "url": "https://open.spotify.com/track/7IrrIzxSk3OO48hW6dpEus"
     },
     {
       "added_at": "2024-07-10 03:01:00",

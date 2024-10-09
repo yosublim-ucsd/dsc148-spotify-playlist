@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 
 > Os lançamentos e melhores sons do rap e trap nacionais\. Foto: Big Bllakk
 
-[Spotify](https://open.spotify.com/user/spotify) - 219,777 likes - 75 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 219,797 likes - 75 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 | 7 | [Pouco Preocupado](https://open.spotify.com/track/0qLvxFap54nvis7fwrrKnZ) | [Matuz](https://open.spotify.com/artist/22UKKzrqlzCs9eHJk05XxE), [Skeeter Beats](https://open.spotify.com/artist/42xf1iqSOZluDWJ8RW2B9H), [Cabes](https://open.spotify.com/artist/6L6CvnDkB0HnPbpDEtFjWt) | [Pouco Preocupado](https://open.spotify.com/album/3gqfh5KDPjdMXYYim2LQPt) | 2:38 |
 | 8 | [+1 Pra Jah](https://open.spotify.com/track/6EWAYE0qxsgHy9PvKi8B90) | [Predella](https://open.spotify.com/artist/3lMQtpA4i6FrIe6DmDfDVa), [Mc Kadu](https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv), [Dj Murillo e LT no Beat](https://open.spotify.com/artist/1Zl5Ac1YyOHBkJKInGxbaS), [Cidade Verde Sounds](https://open.spotify.com/artist/2tVU8TVXlrwk6KESQxLwH8), [Mc PP da VS](https://open.spotify.com/artist/2z8FuS3crq9QwDVKlR31hP) | [+1 Pra Jah](https://open.spotify.com/album/3oLmfaHYQfBTuacELzA2To) | 5:29 |
 | 9 | [SKYLINE](https://open.spotify.com/track/2qn8UgOBzaKF3luvJxDWWp) | [TOKIODK](https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2), [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [LeodoKick](https://open.spotify.com/artist/1WZNkLRhjvZKzZlSKL7FxX), [HHR](https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu) | [SKYLINE](https://open.spotify.com/album/30vHn0s0oD01zHExU2JY2k) | 3:18 |
-| 10 | [Motor](https://open.spotify.com/track/5pTCmZ2wPwSzf8hKWAgrzU) | [Ashira](https://open.spotify.com/artist/3bwb5u6i1DM7nDxnBSDDCa) | [Motor](https://open.spotify.com/album/4GGV97yfdIlywfBxdSIO0v) | 3:14 |
+| 10 | [Motor](https://open.spotify.com/track/5pTCmZ2wPwSzf8hKWAgrzU) | [Ashira](https://open.spotify.com/artist/3bwb5u6i1DM7nDxnBSDDCa), [Victor Henry](https://open.spotify.com/artist/2BlDMHgN6HfWB0wvGa8DPu) | [Motor](https://open.spotify.com/album/4GGV97yfdIlywfBxdSIO0v) | 3:14 |
 | 11 | [O Poder É Nosso](https://open.spotify.com/track/39kvbhDofLeS6PYH8tktAc) | [Jovem MK](https://open.spotify.com/artist/01APkKC04vJYFKyYVxSZWR), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Malcolm VL](https://open.spotify.com/artist/6pJi8PaFlp6aNvOw3e0ONm) | [O Poder É Nosso](https://open.spotify.com/album/6xRekkrxdRIpv2O3MDRKCC) | 2:18 |
 | 12 | [Muita Luta](https://open.spotify.com/track/1jLymDxkpuUfITo0kBPXdQ) | [Big Bllakk](https://open.spotify.com/artist/2676LWh4GgqdAaYkRpqTcd), [SHAK](https://open.spotify.com/artist/3U28JqFKDrXW0WHFN6ieGL) | [MUITA LUTA MIXTAPE](https://open.spotify.com/album/2mQYx7MIWjcV3DuUvCVeyD) | 3:28 |
 | 13 | [CLIMA QUENTE](https://open.spotify.com/track/5UXLMNEFbp70L1YWQ25XKL) | [Puyol](https://open.spotify.com/artist/3I40IzmWD1UYZzZM5U5Q0x), [Babidi](https://open.spotify.com/artist/1S2Wiv7Swqnnvp1ktoWaul) | [CLIMA QUENTE](https://open.spotify.com/album/33pRWPxggdXTCp7N6AhVbU) | 2:11 |

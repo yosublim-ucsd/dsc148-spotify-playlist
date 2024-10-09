@@ -4,7 +4,7 @@
 
 > Calming and inspiring piano music for yoga.
 
-142 songs - 6 hr 24 min
+147 songs - 6 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,10 +56,12 @@
 | [Hidden Dream](https://open.spotify.com/track/1xQvz7zAHGoWO9SHKoSGau) | [Bernward Koch](https://open.spotify.com/artist/3I47W6SIIS24cECbGOeakB) | [Tree Tales](https://open.spotify.com/album/1f8GcZO0ssCZNajCxO1glx) | 3:38 | 2022-07-27 |  |
 | [Hills](https://open.spotify.com/track/4aannUiGLQ7Uk580YdFTc5) | [Egil Kahn](https://open.spotify.com/artist/28QjN2OHUlc9nT6Oo0okfe) | [Hills](https://open.spotify.com/album/2VdPwkgbn9S8KFfkrHqhGa) | 2:14 | 2022-11-14 |  |
 | [Homeward](https://open.spotify.com/track/6p8tAo2HjobS7Me75EJcBq) | [Bjarni Erlingursson](https://open.spotify.com/artist/183EuY975jD6CSCkAEPuP6) | [Homeward](https://open.spotify.com/album/5bhd7KJdQuJfmpBlWFbQT9) | 2:31 | 2022-01-19 |  |
+| [I Believe](https://open.spotify.com/track/3PjllqpJS9qF82x1qxaTGv) | [M\. Ljungström](https://open.spotify.com/artist/6llSKGTXz9Y8d1kdvDlaoq) | [I Believe](https://open.spotify.com/album/6wZu9uTOMrZM9czfmqrWBz) | 2:18 | 2024-10-08 |  |
 | [If I Could, I Would](https://open.spotify.com/track/25ieEXehP4kemZbzTts3YX) | [Joyce Dulaney](https://open.spotify.com/artist/5fdxuo0vbjD6xK1zty3Kvi) | [If I Could, I Would](https://open.spotify.com/album/4oOPMhedo0AznA0K7TqvFI) | 2:50 | 2022-01-19 |  |
 | [In The Stars](https://open.spotify.com/track/2hxaiA9EtXjMlXhG6SCoW8) | [Rebecca Woods](https://open.spotify.com/artist/5my6FfdYpwFo5cEaaqzTnz) | [In The Stars](https://open.spotify.com/album/0lR0lulxdzgblDc5QLbQKV) | 2:43 | 2022-01-19 |  |
 | [Keeping Secrets](https://open.spotify.com/track/6Gkl52QI2BIPzMvu3fF3AP) | [Lennon McKenna](https://open.spotify.com/artist/2KjmqKmCUGWfdb8ikZ5d2i) | [Keeping Secrets \(Ambient Version\)](https://open.spotify.com/album/1pcWYCCNfmYjogMKGZ92pU) | 2:16 | 2022-01-19 |  |
 | [Keepsake](https://open.spotify.com/track/7fB9VIIruC7mMRyRrToXet) | [4th & 6th](https://open.spotify.com/artist/6jBXezLiJ4IUPjLOJ9h67Z) | [Keepsake](https://open.spotify.com/album/0F39TMowBXEmXMCpvgOKEI) | 3:09 | 2022-01-19 |  |
+| [Knowledge](https://open.spotify.com/track/6o6JPYBKe7nQC9Nh44hwJ3) | [Margaret Kim](https://open.spotify.com/artist/42XwJber5D62lOo4FLWOLU) | [Knowledge](https://open.spotify.com/album/4clQ5SpoxZxlWWXqoP9RAY) | 2:45 | 2024-10-08 |  |
 | [Larks](https://open.spotify.com/track/0DCuRxadki9VQU5pskJrUG) | [Kiara Leonard](https://open.spotify.com/artist/0fAevrRhdDPOCXbd7FYR8P) | [Deepest Woods](https://open.spotify.com/album/1x8ws4uwMZzi3kcUzq7nqe) | 2:54 | 2022-01-19 |  |
 | [Les Arbres Parlent](https://open.spotify.com/track/5OCUevB2d31fkcQEP56MxQ) | [Edgar Paget](https://open.spotify.com/artist/4j4neGVPluHx8NgYSs31Z8) | [Les Arbres Parlent](https://open.spotify.com/album/2E1scdnYHnHAuYvJ30MGnr) | 2:37 | 2022-01-19 |  |
 | [Les débuts](https://open.spotify.com/track/4R6L0FlLprIsVMJ9bdDd1e) | [Kathrin Holtz](https://open.spotify.com/artist/6okzShndL8TdXSW8hKm17P) | [Les débuts](https://open.spotify.com/album/3nK1eHhGeRlFfD2PDMYiQY) | 2:13 | 2022-01-19 |  |
@@ -70,6 +72,7 @@
 | [Look Ahead](https://open.spotify.com/track/6YCLKWqMCgiAu7GR2eFMKL) | [Alma Meris](https://open.spotify.com/artist/7nHBvqVu3gxM1AFY5gHQs0) | [Look Ahead](https://open.spotify.com/album/70ccS4xYLs6F0jqnLMvlhQ) | 2:40 | 2022-01-19 |  |
 | [Looking Down](https://open.spotify.com/track/1whoKvX0cT6hfZf7GryEmB) | [Maude Laterre](https://open.spotify.com/artist/0nwgXD1Bn0yjWbtK61GPna) | [Looking Down](https://open.spotify.com/album/2im2O70VjW36ctZ41lWUd8) | 2:38 | 2022-01-19 |  |
 | [Luminous](https://open.spotify.com/track/0a3yJynCpqxbcoxdI5qLsI) | [Ruth Stanley](https://open.spotify.com/artist/4wn81EAXMiMNzrnb9OgyWq) | [Luminous](https://open.spotify.com/album/1fcPItFxNR27pS3EBcOt0K) | 2:28 | 2022-01-19 | 2022-07-28 |
+| [Luna Suave](https://open.spotify.com/track/4LsOuKeeOPeDqeutXks3G4) | [Aurora Dorealis](https://open.spotify.com/artist/7wYrLm0nEcXs7QemCrhrgV) | [Luna Suave](https://open.spotify.com/album/5Z0dh3SCPHjLLJJPZ0fJdk) | 2:31 | 2024-10-08 |  |
 | [Lämna](https://open.spotify.com/track/3CQN71R8GSjtdBKodHBai2) | [Lo Mimieux](https://open.spotify.com/artist/0M2jyp8P5yTxQcdPyCdDkM) | [Lämna](https://open.spotify.com/album/3KGZgOnsQPjHYVHF4vAMni) | 3:15 | 2022-01-19 |  |
 | [L’herbe verte](https://open.spotify.com/track/1Pjy5zOeaXPieqUfiSdGEb) | [Marceau Sartre](https://open.spotify.com/artist/3WUn0TYXefhcLNOs4BMW6l) | [L’herbe verte](https://open.spotify.com/album/5rPSm5zRMNh2iDrcWY0QAI) | 2:21 | 2022-01-19 |  |
 | [Make It Last](https://open.spotify.com/track/3BXxpljx5qawevsOU6UzHY) | [Samira Tesfay](https://open.spotify.com/artist/353EbCGpBHIyVTPMgttcSy) | [Make It Last](https://open.spotify.com/album/0vQymbxDgCdBXGuwVtUsH2) | 2:54 | 2022-01-19 | 2022-07-28 |
@@ -84,6 +87,7 @@
 | [Nebula Horizon](https://open.spotify.com/track/1pJgIwmZOJjLOFMbEpM9NU) | [Oliver Évilo](https://open.spotify.com/artist/6pr16671AS8qchaPqDDM0Y) | [Nebula Horizon](https://open.spotify.com/album/2m6Ng9QUH9KSRCBMHfNZ2C) | 1:55 | 2023-02-14 | 2023-04-06 |
 | [Nefoedd](https://open.spotify.com/track/7fpv4K07BD9tUC852Mw5Lz) | [Chieloka](https://open.spotify.com/artist/3IBhxjT8AiBiz7DpMUEjEj) | [Nefoedd](https://open.spotify.com/album/78pQK6kW8RktRkQA0nqUkI) | 2:49 | 2022-01-19 |  |
 | [Nephology](https://open.spotify.com/track/2RXxXoJ6b42rQWpHrkIqRB) | [Ceylan Aydem Project](https://open.spotify.com/artist/6EDn2Y3RQU5ilTmJ9sxSS1) | [Nephology](https://open.spotify.com/album/6TKRYgP9nOBCnfa2V8LKW8) | 2:25 | 2022-01-19 |  |
+| [Neptuin](https://open.spotify.com/track/2p9xk4nz06Rr18dpLFk9dF) | [Annelie](https://open.spotify.com/artist/0Rm9NmU9uyvf7tfVt4YNKC) | [Neptuin](https://open.spotify.com/album/0i3RcORiqZoArp2gPbjuyT) | 3:36 | 2024-10-08 |  |
 | [New Beginning](https://open.spotify.com/track/1tAh9ygOksyZaC8IPdhICH) | [John Andre](https://open.spotify.com/artist/3D56Nhiz0aTRqx4z0qs9jb) | [Falling Leaves](https://open.spotify.com/album/6BzSMFeFNjGhzpGyrt8QwD) | 3:05 | 2022-01-19 |  |
 | [Noctiphany](https://open.spotify.com/track/2bzHADVvOnECWhqpLf5Rwi) | [Jeanelle Bolduc](https://open.spotify.com/artist/395oAJMtpPY7ovJ9GbFkGQ) | [Noctiphany](https://open.spotify.com/album/7lfk1JKUKGhYCt0oPn5spO) | 3:01 | 2022-01-19 |  |
 | [Nominous](https://open.spotify.com/track/2pi8vhUQXXwMpSuyVGdVfS) | [Vanessa Rigby](https://open.spotify.com/artist/0LyoDVhMC4AxoR29bYM1g1) | [Nominous](https://open.spotify.com/album/5hJSvHathEOf5KVHSlxvoC) | 2:11 | 2022-01-19 |  |
@@ -109,6 +113,7 @@
 | [Rós](https://open.spotify.com/track/1HVMOiJZzq3F8o8VEQsh77) | [Jonny Colgan](https://open.spotify.com/artist/6LfM1oqPkRMSylbEKjmOvA) | [Rós](https://open.spotify.com/album/6PIDeurwsuW0AEex2B59Rn) | 2:28 | 2022-01-19 |  |
 | [Sea Terms](https://open.spotify.com/track/25BD0YQAjKvVqP4G8VhPd5) | [Alan Ellis](https://open.spotify.com/artist/624bnI8CyQTzYDFICtmHTN) | [Deeper Still](https://open.spotify.com/album/00lmL7tTXFcXRgNcRRHuhk) | 2:56 | 2022-01-19 |  |
 | [Sequoia](https://open.spotify.com/track/52uw4LhiFFnIHduoLVILMm) | [Klaangen](https://open.spotify.com/artist/2xxo04jMvlUrFLCdjwGgkz) | [Sequoia](https://open.spotify.com/album/4U2fDSXlwwWY8ZXsgej9S1) | 2:53 | 2022-01-19 |  |
+| [Serene Reflections](https://open.spotify.com/track/0TT2Tzi8mEETCqYZ1ffiHh) | [Eternalistic](https://open.spotify.com/artist/77efGNIP8xtX0iCb5RCHCG) | [Serene Reflections](https://open.spotify.com/album/56qdyXFvkjg9Ja5YByyghv) | 3:09 | 2024-10-08 |  |
 | [Shadow Of A Thought](https://open.spotify.com/track/4X3GY7d1dAwOjLFsLl67Y6) | [Marcel Riviera](https://open.spotify.com/artist/6BMtPOM3rP39ICFOBxe5w7) | [Shadow Of A Thought](https://open.spotify.com/album/6eTmkgvSAZ0o3IpjOj44SF) | 2:41 | 2022-01-19 |  |
 | [Short and Peaceful](https://open.spotify.com/track/3hNo5tuFvOT5O9EjUKQYdD) | [Walter Giulini](https://open.spotify.com/artist/59sSHs1swsdokd6UX7cvYO) | [Note of Reflections](https://open.spotify.com/album/7yqwhrAIh7IaolxlwcMfw8) | 2:15 | 2022-01-19 |  |
 | [Silent joy](https://open.spotify.com/track/5lS2q5nrx4qmBUD2ew3QMV) | [Lester Dann](https://open.spotify.com/artist/4LWygJYj8Gu9KJYUGsXBbB) | [Silent joy](https://open.spotify.com/album/29NkfVf1QGHv64uleVpGqo) | 2:25 | 2022-01-19 |  |

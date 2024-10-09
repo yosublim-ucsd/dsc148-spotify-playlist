@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcoapIz0eu6e.md) - [plain]
 
 > The world is a stage\. Listen to the music from Joker and Joker: Folie à Deux.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,439 likes - 81 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,999 likes - 81 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcoapIz0eu6e.md) - [plain]
 | 44 | [Old Neighborhood](https://open.spotify.com/track/1EqLUiIgjatjz8DuELFF2k) | [Hildur Guðnadóttir](https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y) | [Joker: Folie à Deux \(Score from the Original Motion Picture Soundtrack\)](https://open.spotify.com/album/33L0JGh1BfqeMJW4vmYWiB) | 1:14 |
 | 45 | [Uh Oh, I'm in Trouble](https://open.spotify.com/track/6mfnHj57f0Ln5WB4kMiSAB) | [Hildur Guðnadóttir](https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y) | [Joker: Folie à Deux \(Score from the Original Motion Picture Soundtrack\)](https://open.spotify.com/album/33L0JGh1BfqeMJW4vmYWiB) | 1:34 |
 | 46 | [Voices](https://open.spotify.com/track/6bLt78SmVK34bxORyFeb2F) | [Hildur Guðnadóttir](https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y) | [Joker: Folie à Deux \(Score from the Original Motion Picture Soundtrack\)](https://open.spotify.com/album/33L0JGh1BfqeMJW4vmYWiB) | 2:25 |
-| 47 | [There Is No Joker \- from "Joker: Folie à Deux"](https://open.spotify.com/track/6om7HqX2QA4ORVhp0BlQg0) | [Hildur Guðnadóttir](https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y) | [Joker: Folie à Deux \(Score from the Original Motion Picture Soundtrack\)](https://open.spotify.com/album/33L0JGh1BfqeMJW4vmYWiB) | 1:49 |
+| 47 | [There Is No Joker](https://open.spotify.com/track/6om7HqX2QA4ORVhp0BlQg0) | [Hildur Guðnadóttir](https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y) | [Joker: Folie à Deux \(Score from the Original Motion Picture Soundtrack\)](https://open.spotify.com/album/33L0JGh1BfqeMJW4vmYWiB) | 1:49 |
 | 48 | [It's All Theater](https://open.spotify.com/track/7qs0Nob3P4pyr1zRiPPVC1) | [Hildur Guðnadóttir](https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y) | [Joker: Folie à Deux \(Score from the Original Motion Picture Soundtrack\)](https://open.spotify.com/album/33L0JGh1BfqeMJW4vmYWiB) | 2:03 |
 | 49 | [The Live! with Murray Franklin Theme \(From Joker\)](https://open.spotify.com/track/6RCg5gCduR9D0lK7hUeYiB) | [Ellis Drane and his Jazz Orchestra](https://open.spotify.com/artist/2XtgWzogyYVaLYm3SPsXPB) | [Live! with Murray Franklin \(Songs from the Joker Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0X4fQ9itNBx5BLHd6YV24u) | 0:51 |
 | 50 | [Send In The Clowns \- From ‘A Little Night Music’](https://open.spotify.com/track/0aMBJsMtNUl5Ow5XZ77vZr) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Ol' Blue Eyes Is Back](https://open.spotify.com/album/7rume1B0CM3J35YeAYq0zu) | 4:10 |

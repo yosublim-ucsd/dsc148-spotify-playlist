@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DZ06evO0VDZny.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO0VDZny) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO0VDZny)
 
-### [This Is ブリング・ミー・ザ・ホライズン](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0VDZny)
+### [This Is Bring Me The Horizon](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0VDZny)
 
-> This is ブリング・ミー・ザ・ホライズン。アーティストの代表曲をひとつのプレイリストに。
+> This is Bring Me The Horizon\. The essential tracks, all in one playlist.
 
 52 songs - 3 hr 13 min
 

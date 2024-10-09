@@ -1,6 +1,6 @@
 {
   "description": "Gr\u00fcezi! This is 100% made in Switzerland. ",
-  "num_followers": 36748,
+  "num_followers": 36747,
   "original_name": "Swiss Made",
   "owner": {
     "name": "Spotify",
@@ -323,22 +323,6 @@
     {
       "added_at": "2024-10-03 22:00:00",
       "album": {
-        "name": "Rollen in den Norden",
-        "url": "https://open.spotify.com/album/1nD5KpzwWkHiJPKZMH273C"
-      },
-      "artists": [
-        {
-          "name": "F\u00e4aschtb\u00e4nkler",
-          "url": "https://open.spotify.com/artist/5eLTULECbpoiNT8czpulxX"
-        }
-      ],
-      "duration_ms": 150648,
-      "name": "Rollen in den Norden",
-      "url": "https://open.spotify.com/track/6azpoZEIlXsc4SkmfcOskn"
-    },
-    {
-      "added_at": "2024-10-03 22:00:00",
-      "album": {
         "name": "Waves & Wishes",
         "url": "https://open.spotify.com/album/1UrgZCspl0lQQU6NSZDZ7m"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 172791,
       "name": "Bird",
       "url": "https://open.spotify.com/track/7H16kWPboswDLyH76lHpIA"
+    },
+    {
+      "added_at": "2024-10-03 22:00:00",
+      "album": {
+        "name": "Rollen in den Norden",
+        "url": "https://open.spotify.com/album/1nD5KpzwWkHiJPKZMH273C"
+      },
+      "artists": [
+        {
+          "name": "F\u00e4aschtb\u00e4nkler",
+          "url": "https://open.spotify.com/artist/5eLTULECbpoiNT8czpulxX"
+        }
+      ],
+      "duration_ms": 150648,
+      "name": "Rollen in den Norden",
+      "url": "https://open.spotify.com/track/6azpoZEIlXsc4SkmfcOskn"
     },
     {
       "added_at": "2024-10-03 22:00:00",
@@ -419,26 +419,6 @@
     {
       "added_at": "2024-10-03 22:00:00",
       "album": {
-        "name": "Descontrol",
-        "url": "https://open.spotify.com/album/39VSGS38v6WGZsucZ1wa0r"
-      },
-      "artists": [
-        {
-          "name": "Loco Escrito",
-          "url": "https://open.spotify.com/artist/00UMLCX51uNiBzMhQKlwyQ"
-        },
-        {
-          "name": "Stress",
-          "url": "https://open.spotify.com/artist/2piHSX9fKmsCD8tbfX1cJg"
-        }
-      ],
-      "duration_ms": 158838,
-      "name": "Descontrol",
-      "url": "https://open.spotify.com/track/2USP7uCFfx4BFm8KXual18"
-    },
-    {
-      "added_at": "2024-10-03 22:00:00",
-      "album": {
         "name": "No Time to Cry",
         "url": "https://open.spotify.com/album/7BzVEVmymCnsyeSrq20MnC"
       },
@@ -471,6 +451,26 @@
     {
       "added_at": "2024-10-03 22:00:00",
       "album": {
+        "name": "Descontrol",
+        "url": "https://open.spotify.com/album/39VSGS38v6WGZsucZ1wa0r"
+      },
+      "artists": [
+        {
+          "name": "Loco Escrito",
+          "url": "https://open.spotify.com/artist/00UMLCX51uNiBzMhQKlwyQ"
+        },
+        {
+          "name": "Stress",
+          "url": "https://open.spotify.com/artist/2piHSX9fKmsCD8tbfX1cJg"
+        }
+      ],
+      "duration_ms": 158838,
+      "name": "Descontrol",
+      "url": "https://open.spotify.com/track/2USP7uCFfx4BFm8KXual18"
+    },
+    {
+      "added_at": "2024-10-03 22:00:00",
+      "album": {
         "name": "Wasteland",
         "url": "https://open.spotify.com/album/04XF5WXiZptRv11spXa0QB"
       },
@@ -483,22 +483,6 @@
       "duration_ms": 163712,
       "name": "Wasteland",
       "url": "https://open.spotify.com/track/5fTSVKzNqVpuBsv4O7JDOW"
-    },
-    {
-      "added_at": "2024-10-03 22:00:00",
-      "album": {
-        "name": "Maggie",
-        "url": "https://open.spotify.com/album/527ETuK6j0NsH3ZlhdiUHp"
-      },
-      "artists": [
-        {
-          "name": "Linda Elys",
-          "url": "https://open.spotify.com/artist/3uB8CiuJs0I1cDNUaVpdjf"
-        }
-      ],
-      "duration_ms": 179617,
-      "name": "Maggie",
-      "url": "https://open.spotify.com/track/71xZNB0u4MKxLKSo0vsIjk"
     },
     {
       "added_at": "2024-10-03 22:00:00",
@@ -523,6 +507,22 @@
     {
       "added_at": "2024-10-03 22:00:00",
       "album": {
+        "name": "Maggie",
+        "url": "https://open.spotify.com/album/527ETuK6j0NsH3ZlhdiUHp"
+      },
+      "artists": [
+        {
+          "name": "Linda Elys",
+          "url": "https://open.spotify.com/artist/3uB8CiuJs0I1cDNUaVpdjf"
+        }
+      ],
+      "duration_ms": 179617,
+      "name": "Maggie",
+      "url": "https://open.spotify.com/track/71xZNB0u4MKxLKSo0vsIjk"
+    },
+    {
+      "added_at": "2024-10-03 22:00:00",
+      "album": {
         "name": "Hurting",
         "url": "https://open.spotify.com/album/3Hw04kuWi6O7aUcmXQa2Ap"
       },
@@ -539,18 +539,18 @@
     {
       "added_at": "2024-10-03 22:00:00",
       "album": {
-        "name": "Colorblind",
-        "url": "https://open.spotify.com/album/2sWFFkdTvfXKd60zupdNN3"
+        "name": "Generation",
+        "url": "https://open.spotify.com/album/4xgLyFsJCYlmf39vjY6YKv"
       },
       "artists": [
         {
-          "name": "Naomi Lareine",
-          "url": "https://open.spotify.com/artist/0umAOumGRDuZ2elvqjaK3i"
+          "name": "LEILA",
+          "url": "https://open.spotify.com/artist/4Ug2xY5mJFUqx4UkrggYLg"
         }
       ],
-      "duration_ms": 182033,
-      "name": "Colorblind",
-      "url": "https://open.spotify.com/track/7KOPqGFvR7m7TVRPuHSN6A"
+      "duration_ms": 182609,
+      "name": "smile",
+      "url": "https://open.spotify.com/track/7thWFmdVqTZzXZWmxu7N5Y"
     },
     {
       "added_at": "2024-10-03 22:00:00",
@@ -567,6 +567,38 @@
       "duration_ms": 226334,
       "name": "Softly Speaking",
       "url": "https://open.spotify.com/track/7deNy580xvtMQzvzXhlBwF"
+    },
+    {
+      "added_at": "2024-10-03 22:00:00",
+      "album": {
+        "name": "Full 180",
+        "url": "https://open.spotify.com/album/3eieGX1EUezKzPNSdCtPER"
+      },
+      "artists": [
+        {
+          "name": "Remo Forrer",
+          "url": "https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk"
+        }
+      ],
+      "duration_ms": 216249,
+      "name": "Full 180",
+      "url": "https://open.spotify.com/track/62UNeZ8qIJ4INYevYoQadG"
+    },
+    {
+      "added_at": "2024-10-03 22:00:00",
+      "album": {
+        "name": "Colorblind",
+        "url": "https://open.spotify.com/album/2sWFFkdTvfXKd60zupdNN3"
+      },
+      "artists": [
+        {
+          "name": "Naomi Lareine",
+          "url": "https://open.spotify.com/artist/0umAOumGRDuZ2elvqjaK3i"
+        }
+      ],
+      "duration_ms": 182033,
+      "name": "Colorblind",
+      "url": "https://open.spotify.com/track/7KOPqGFvR7m7TVRPuHSN6A"
     },
     {
       "added_at": "2024-10-03 22:00:00",
@@ -607,22 +639,6 @@
     {
       "added_at": "2024-10-03 22:00:00",
       "album": {
-        "name": "Full 180",
-        "url": "https://open.spotify.com/album/3eieGX1EUezKzPNSdCtPER"
-      },
-      "artists": [
-        {
-          "name": "Remo Forrer",
-          "url": "https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk"
-        }
-      ],
-      "duration_ms": 216249,
-      "name": "Full 180",
-      "url": "https://open.spotify.com/track/62UNeZ8qIJ4INYevYoQadG"
-    },
-    {
-      "added_at": "2024-10-03 22:00:00",
-      "album": {
         "name": "blonde",
         "url": "https://open.spotify.com/album/79NREFnWQHD376rxBfNrTv"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 186969,
       "name": "blonde",
       "url": "https://open.spotify.com/track/2HFoavqtZRWTM9uvTagD75"
-    },
-    {
-      "added_at": "2024-10-03 22:00:00",
-      "album": {
-        "name": "Generation",
-        "url": "https://open.spotify.com/album/4xgLyFsJCYlmf39vjY6YKv"
-      },
-      "artists": [
-        {
-          "name": "LEILA",
-          "url": "https://open.spotify.com/artist/4Ug2xY5mJFUqx4UkrggYLg"
-        }
-      ],
-      "duration_ms": 182609,
-      "name": "smile",
-      "url": "https://open.spotify.com/track/7thWFmdVqTZzXZWmxu7N5Y"
     },
     {
       "added_at": "2024-10-03 22:00:00",
@@ -759,22 +759,6 @@
     {
       "added_at": "2024-10-03 22:00:00",
       "album": {
-        "name": "T\u00fa y Yo",
-        "url": "https://open.spotify.com/album/3E2PiQa0TO3ecSgrDDzN4e"
-      },
-      "artists": [
-        {
-          "name": "Loco Escrito",
-          "url": "https://open.spotify.com/artist/00UMLCX51uNiBzMhQKlwyQ"
-        }
-      ],
-      "duration_ms": 164425,
-      "name": "T\u00fa y Yo",
-      "url": "https://open.spotify.com/track/1s5YXOdmyNk0KLEbKcKCRz"
-    },
-    {
-      "added_at": "2024-10-03 22:00:00",
-      "album": {
         "name": "Where Were You",
         "url": "https://open.spotify.com/album/4gNbqvaLePlFJDme8TfKeG"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 162836,
       "name": "Where Were You",
       "url": "https://open.spotify.com/track/0wQX5IoDmttPaz7imkbrCQ"
+    },
+    {
+      "added_at": "2024-10-03 22:00:00",
+      "album": {
+        "name": "T\u00fa y Yo",
+        "url": "https://open.spotify.com/album/3E2PiQa0TO3ecSgrDDzN4e"
+      },
+      "artists": [
+        {
+          "name": "Loco Escrito",
+          "url": "https://open.spotify.com/artist/00UMLCX51uNiBzMhQKlwyQ"
+        }
+      ],
+      "duration_ms": 164425,
+      "name": "T\u00fa y Yo",
+      "url": "https://open.spotify.com/track/1s5YXOdmyNk0KLEbKcKCRz"
     },
     {
       "added_at": "2024-10-03 22:00:00",
@@ -927,22 +927,6 @@
     {
       "added_at": "2024-10-03 22:00:00",
       "album": {
-        "name": "Beautiful Day",
-        "url": "https://open.spotify.com/album/7m3bKbUMuXUsACiThMLwHy"
-      },
-      "artists": [
-        {
-          "name": "Gil Glaze",
-          "url": "https://open.spotify.com/artist/6pNzdcgIaKQKsYNS5agP4V"
-        }
-      ],
-      "duration_ms": 185759,
-      "name": "Beautiful Day",
-      "url": "https://open.spotify.com/track/24m4OLGaRuelACY0k1SbqP"
-    },
-    {
-      "added_at": "2024-10-03 22:00:00",
-      "album": {
         "name": "Coastline",
         "url": "https://open.spotify.com/album/4PZY58e5kjo9Nxf0RY6QVn"
       },
@@ -975,6 +959,22 @@
     {
       "added_at": "2024-10-03 22:00:00",
       "album": {
+        "name": "Beautiful Day",
+        "url": "https://open.spotify.com/album/7m3bKbUMuXUsACiThMLwHy"
+      },
+      "artists": [
+        {
+          "name": "Gil Glaze",
+          "url": "https://open.spotify.com/artist/6pNzdcgIaKQKsYNS5agP4V"
+        }
+      ],
+      "duration_ms": 185759,
+      "name": "Beautiful Day",
+      "url": "https://open.spotify.com/track/24m4OLGaRuelACY0k1SbqP"
+    },
+    {
+      "added_at": "2024-10-03 22:00:00",
+      "album": {
         "name": "Mond",
         "url": "https://open.spotify.com/album/12IgBWXsy2s0UJggqj5OtH"
       },
@@ -995,22 +995,6 @@
     {
       "added_at": "2024-10-03 22:00:00",
       "album": {
-        "name": "Somewhere IDK",
-        "url": "https://open.spotify.com/album/0b3OWKTpkrhVx2qtSb9rgu"
-      },
-      "artists": [
-        {
-          "name": "Lisa Oribasi",
-          "url": "https://open.spotify.com/artist/1waNCj8NsTBTb1WzOPkTyR"
-        }
-      ],
-      "duration_ms": 168209,
-      "name": "Zoot",
-      "url": "https://open.spotify.com/track/1QCf5EvUGZnEGVI888MHa9"
-    },
-    {
-      "added_at": "2024-10-03 22:00:00",
-      "album": {
         "name": "Old Again",
         "url": "https://open.spotify.com/album/4gI5q0KtsUXV8lNzSVeM5T"
       },
@@ -1027,6 +1011,22 @@
     {
       "added_at": "2024-10-03 22:00:00",
       "album": {
+        "name": "Somewhere IDK",
+        "url": "https://open.spotify.com/album/0b3OWKTpkrhVx2qtSb9rgu"
+      },
+      "artists": [
+        {
+          "name": "Lisa Oribasi",
+          "url": "https://open.spotify.com/artist/1waNCj8NsTBTb1WzOPkTyR"
+        }
+      ],
+      "duration_ms": 168209,
+      "name": "Zoot",
+      "url": "https://open.spotify.com/track/1QCf5EvUGZnEGVI888MHa9"
+    },
+    {
+      "added_at": "2024-10-03 22:00:00",
+      "album": {
         "name": "Schwarz auf Gr\u00fcn",
         "url": "https://open.spotify.com/album/23EG6QL1cCfVSCoTZBZ8F5"
       },
@@ -1039,26 +1039,6 @@
       "duration_ms": 146366,
       "name": "H\u00f6r mir noch einmal zu",
       "url": "https://open.spotify.com/track/1V7iXlTg9h6dy7q9qk8Ehw"
-    },
-    {
-      "added_at": "2024-10-03 22:00:00",
-      "album": {
-        "name": "babyboy",
-        "url": "https://open.spotify.com/album/7C1jueEWit717xYLLYf7J8"
-      },
-      "artists": [
-        {
-          "name": "Nomuel",
-          "url": "https://open.spotify.com/artist/0Hz78L3EHCCOdD4hWEiWMY"
-        },
-        {
-          "name": "Milan",
-          "url": "https://open.spotify.com/artist/2bLiRa87bjkU18nUFK5xPE"
-        }
-      ],
-      "duration_ms": 170235,
-      "name": "babyboy",
-      "url": "https://open.spotify.com/track/2SIaZDxvHBxkYLOPQLuLe5"
     },
     {
       "added_at": "2024-10-03 22:00:00",
@@ -1083,22 +1063,6 @@
     {
       "added_at": "2024-10-03 22:00:00",
       "album": {
-        "name": "Ig o",
-        "url": "https://open.spotify.com/album/657Gr9COvXb3x9jz9Y67Ci"
-      },
-      "artists": [
-        {
-          "name": "Lo & Leduc",
-          "url": "https://open.spotify.com/artist/4VxxrJptDJKGOsKvb8jcVe"
-        }
-      ],
-      "duration_ms": 162266,
-      "name": "Ig o",
-      "url": "https://open.spotify.com/track/6tJrX3rkSaIIBy0W4xC8J6"
-    },
-    {
-      "added_at": "2024-10-03 22:00:00",
-      "album": {
         "name": "Long Year",
         "url": "https://open.spotify.com/album/403VoMw8bj4b12FhJI7RuI"
       },
@@ -1115,18 +1079,38 @@
     {
       "added_at": "2024-10-03 22:00:00",
       "album": {
-        "name": "Sauvage",
-        "url": "https://open.spotify.com/album/4wBXS39epHlWGL54qZ5kCL"
+        "name": "Ig o",
+        "url": "https://open.spotify.com/album/657Gr9COvXb3x9jz9Y67Ci"
       },
       "artists": [
         {
-          "name": "Julie Meletta",
-          "url": "https://open.spotify.com/artist/6dtKZZx0OeZgjHzrTLm8z1"
+          "name": "Lo & Leduc",
+          "url": "https://open.spotify.com/artist/4VxxrJptDJKGOsKvb8jcVe"
         }
       ],
-      "duration_ms": 177299,
-      "name": "Sauvage",
-      "url": "https://open.spotify.com/track/45GjmzkcuWflHGLuNJPCDv"
+      "duration_ms": 162266,
+      "name": "Ig o",
+      "url": "https://open.spotify.com/track/6tJrX3rkSaIIBy0W4xC8J6"
+    },
+    {
+      "added_at": "2024-10-03 22:00:00",
+      "album": {
+        "name": "babyboy",
+        "url": "https://open.spotify.com/album/7C1jueEWit717xYLLYf7J8"
+      },
+      "artists": [
+        {
+          "name": "Nomuel",
+          "url": "https://open.spotify.com/artist/0Hz78L3EHCCOdD4hWEiWMY"
+        },
+        {
+          "name": "Milan",
+          "url": "https://open.spotify.com/artist/2bLiRa87bjkU18nUFK5xPE"
+        }
+      ],
+      "duration_ms": 170235,
+      "name": "babyboy",
+      "url": "https://open.spotify.com/track/2SIaZDxvHBxkYLOPQLuLe5"
     },
     {
       "added_at": "2024-10-03 22:00:00",
@@ -1147,6 +1131,22 @@
       "duration_ms": 194118,
       "name": "G\u00e4bs es nid - Duett Version",
       "url": "https://open.spotify.com/track/4EwuiDkpPO7p1jNVgcHTbv"
+    },
+    {
+      "added_at": "2024-10-03 22:00:00",
+      "album": {
+        "name": "Sauvage",
+        "url": "https://open.spotify.com/album/4wBXS39epHlWGL54qZ5kCL"
+      },
+      "artists": [
+        {
+          "name": "Julie Meletta",
+          "url": "https://open.spotify.com/artist/6dtKZZx0OeZgjHzrTLm8z1"
+        }
+      ],
+      "duration_ms": 177299,
+      "name": "Sauvage",
+      "url": "https://open.spotify.com/track/45GjmzkcuWflHGLuNJPCDv"
     },
     {
       "added_at": "2024-10-03 22:00:00",

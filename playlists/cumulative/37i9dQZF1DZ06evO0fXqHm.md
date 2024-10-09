@@ -2,7 +2,7 @@
 
 ### [This Is Mac Júlia](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0fXqHm)
 
-> This is Mac Júlia\. The essential tracks, all in one playlist.
+> This Is Mac Júlia\. Todas as faixas essenciais numa única playlist.
 
 82 songs - 3 hr 37 min
 

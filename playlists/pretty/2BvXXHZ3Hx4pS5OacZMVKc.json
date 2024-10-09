@@ -1,12 +1,12 @@
 {
   "description": "NCS / NoCopyrightSounds royalty free gaming music for YouTube &amp; Twitch Streaming",
-  "num_followers": 134776,
+  "num_followers": 134767,
   "original_name": "Gaming Music 2024",
   "owner": {
     "name": "NCS",
     "url": "https://open.spotify.com/user/nocopyrightsounds"
   },
-  "snapshot_id": "AAAL5XSoNQT/H+HJJC3g8bK+CK8bpeM5",
+  "snapshot_id": "AAAL5lIVO6TQQwpjqoWceEXbhMZ/NUS4",
   "tracks": [
     {
       "added_at": "2024-07-18 11:42:34",
@@ -2159,6 +2159,22 @@
       "duration_ms": 169500,
       "name": "Echo",
       "url": "https://open.spotify.com/track/0B4Ee3vZHEKV0zztHgWYxF"
+    },
+    {
+      "added_at": "2024-10-08 09:23:25",
+      "album": {
+        "name": "Magnetic",
+        "url": "https://open.spotify.com/album/0kReeQiJA0nlejIOX6TfkE"
+      },
+      "artists": [
+        {
+          "name": "springs!",
+          "url": "https://open.spotify.com/artist/7BFXtdXfpw2kj0kAOs73cn"
+        }
+      ],
+      "duration_ms": 123437,
+      "name": "Magnetic",
+      "url": "https://open.spotify.com/track/6uH5jMuZ5F4Uh5cS2QilLw"
     }
   ],
   "unique_name": "Gaming Music 2024",

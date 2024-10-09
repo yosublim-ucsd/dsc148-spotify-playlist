@@ -1,6 +1,6 @@
 {
   "description": "Enjoy 10 years of music from HATSUNE MIKU \"Project DIVA\" series/ \u521d\u97f3\u30df\u30af\"Project DIVA\"\u30b7\u30ea\u30fc\u30ba\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002 \u00a9 SEGA / \u00a9 Crypton Future Media, INC. <a href=\"https://piapro.net/\">www.piapro.net</a>",
-  "num_followers": 369314,
+  "num_followers": 369379,
   "original_name": "HATSUNE MIKU/ \u521d\u97f3\u30df\u30af Project DIVA series",
   "owner": {
     "name": "Spotify",
@@ -259,38 +259,6 @@
     {
       "added_at": "2021-05-26 02:37:36",
       "album": {
-        "name": "Just Be Friends",
-        "url": "https://open.spotify.com/album/7at2OSOEKvg5sUdnRFS2Sv"
-      },
-      "artists": [
-        {
-          "name": "Dixie Flatline",
-          "url": "https://open.spotify.com/artist/4MHlylTNjedvcP4Hyroy80"
-        }
-      ],
-      "duration_ms": 301469,
-      "name": "Just Be Friends",
-      "url": "https://open.spotify.com/track/7qdIR2jTfgOvsQSWHPjjIJ"
-    },
-    {
-      "added_at": "2021-05-26 02:37:36",
-      "album": {
-        "name": "\u30ca\u30e6\u30bf\u30f3\u661f\u304b\u3089\u306e\u7269\u4f53Y",
-        "url": "https://open.spotify.com/album/1ntfyuln6tVqXY8RTqb3MQ"
-      },
-      "artists": [
-        {
-          "name": "Nayutalien",
-          "url": "https://open.spotify.com/artist/0U2Emr9cdZNcbqSoKoWb8c"
-        }
-      ],
-      "duration_ms": 181973,
-      "name": "\u30a8\u30a4\u30ea\u30a2\u30f3\u30a8\u30a4\u30ea\u30a2\u30f3",
-      "url": "https://open.spotify.com/track/4fDralhqIxfoDHrnFSE3n0"
-    },
-    {
-      "added_at": "2021-05-26 02:37:36",
-      "album": {
         "name": "\u30d0\u30fc\u30c1\u30e3\u30eb\u30fb\u30dd\u30c3\u30d7\u30b9\u30bf\u30fc",
         "url": "https://open.spotify.com/album/4EThV35Hzn0ZyJ1qsYvhG7"
       },
@@ -315,18 +283,50 @@
     {
       "added_at": "2021-05-26 02:37:36",
       "album": {
-        "name": "HATSUNE MIKU EXPO 2014 IN INDONESIA [Live]",
-        "url": "https://open.spotify.com/album/7sHpw2f73tYVfWcYaaLjE4"
+        "name": "\u30ca\u30e6\u30bf\u30f3\u661f\u304b\u3089\u306e\u7269\u4f53Y",
+        "url": "https://open.spotify.com/album/1ntfyuln6tVqXY8RTqb3MQ"
       },
       "artists": [
         {
-          "name": "Samfree",
-          "url": "https://open.spotify.com/artist/4WURgk0jAO9xb8AIJ2ERye"
+          "name": "Nayutalien",
+          "url": "https://open.spotify.com/artist/0U2Emr9cdZNcbqSoKoWb8c"
         }
       ],
-      "duration_ms": 202085,
-      "name": "\u30eb\u30ab\u30eb\u30ab\u2605\u30ca\u30a4\u30c8\u30d5\u30a3\u30fc\u30d0\u30fc -MIKU EXPO 2014 in INDONESIA Live-",
-      "url": "https://open.spotify.com/track/1qfh55N9dvFU1ESAJ3jFQG"
+      "duration_ms": 181973,
+      "name": "\u30a8\u30a4\u30ea\u30a2\u30f3\u30a8\u30a4\u30ea\u30a2\u30f3",
+      "url": "https://open.spotify.com/track/4fDralhqIxfoDHrnFSE3n0"
+    },
+    {
+      "added_at": "2021-05-26 02:37:36",
+      "album": {
+        "name": "MIKUNOPOLIS in LOS ANGELES \u201c\u306f\u3058\u3081\u307e\u3057\u3066\u3001\u521d\u97f3\u30df\u30af\u3067\u3059\u201d",
+        "url": "https://open.spotify.com/album/5orTbWsJiKdiKYivCwZz2Y"
+      },
+      "artists": [
+        {
+          "name": "ryo (supercell)",
+          "url": "https://open.spotify.com/artist/5Ud2lekREUXjinNlIGjJIX"
+        }
+      ],
+      "duration_ms": 178146,
+      "name": "\u30ef\u30fc\u30eb\u30c9\u30a4\u30ba\u30de\u30a4\u30f3 -MIKUNOPOLIS in LOS ANGELES Live-",
+      "url": "https://open.spotify.com/track/1chETycPdQmdJsWX1BoMVj"
+    },
+    {
+      "added_at": "2021-05-26 02:37:36",
+      "album": {
+        "name": "Just Be Friends",
+        "url": "https://open.spotify.com/album/7at2OSOEKvg5sUdnRFS2Sv"
+      },
+      "artists": [
+        {
+          "name": "Dixie Flatline",
+          "url": "https://open.spotify.com/artist/4MHlylTNjedvcP4Hyroy80"
+        }
+      ],
+      "duration_ms": 301469,
+      "name": "Just Be Friends",
+      "url": "https://open.spotify.com/track/7qdIR2jTfgOvsQSWHPjjIJ"
     },
     {
       "added_at": "2021-05-26 02:37:36",
@@ -351,18 +351,18 @@
     {
       "added_at": "2021-05-26 02:37:36",
       "album": {
-        "name": "MIKUNOPOLIS in LOS ANGELES \u201c\u306f\u3058\u3081\u307e\u3057\u3066\u3001\u521d\u97f3\u30df\u30af\u3067\u3059\u201d",
-        "url": "https://open.spotify.com/album/5orTbWsJiKdiKYivCwZz2Y"
+        "name": "HATSUNE MIKU EXPO 2014 IN INDONESIA [Live]",
+        "url": "https://open.spotify.com/album/7sHpw2f73tYVfWcYaaLjE4"
       },
       "artists": [
         {
-          "name": "ryo (supercell)",
-          "url": "https://open.spotify.com/artist/5Ud2lekREUXjinNlIGjJIX"
+          "name": "Samfree",
+          "url": "https://open.spotify.com/artist/4WURgk0jAO9xb8AIJ2ERye"
         }
       ],
-      "duration_ms": 178146,
-      "name": "\u30ef\u30fc\u30eb\u30c9\u30a4\u30ba\u30de\u30a4\u30f3 -MIKUNOPOLIS in LOS ANGELES Live-",
-      "url": "https://open.spotify.com/track/1chETycPdQmdJsWX1BoMVj"
+      "duration_ms": 202085,
+      "name": "\u30eb\u30ab\u30eb\u30ab\u2605\u30ca\u30a4\u30c8\u30d5\u30a3\u30fc\u30d0\u30fc -MIKU EXPO 2014 in INDONESIA Live-",
+      "url": "https://open.spotify.com/track/1qfh55N9dvFU1ESAJ3jFQG"
     },
     {
       "added_at": "2021-05-26 02:37:36",
@@ -615,22 +615,6 @@
     {
       "added_at": "2021-05-26 02:37:36",
       "album": {
-        "name": "SIGNALOID BOX",
-        "url": "https://open.spotify.com/album/0IBUFc6zEx7Hl8UkoDofX2"
-      },
-      "artists": [
-        {
-          "name": "Dios/signalP",
-          "url": "https://open.spotify.com/artist/7Jo4alROJu9Smj8IZahiP1"
-        }
-      ],
-      "duration_ms": 277013,
-      "name": "\u30b5\u30f3\u30c9\u30ea\u30e8\u30f3",
-      "url": "https://open.spotify.com/track/3nmWtDD1yyHR4EEBUSmUK0"
-    },
-    {
-      "added_at": "2021-05-26 02:37:36",
-      "album": {
         "name": "MIKUNOPOLIS in LOS ANGELES \u201c\u306f\u3058\u3081\u307e\u3057\u3066\u3001\u521d\u97f3\u30df\u30af\u3067\u3059\u201d",
         "url": "https://open.spotify.com/album/5orTbWsJiKdiKYivCwZz2Y"
       },
@@ -647,18 +631,18 @@
     {
       "added_at": "2021-05-26 02:37:36",
       "album": {
-        "name": "\u30b3\u30a4\u30f3\u30ed\u30c3\u30ab\u30fc\u30d9\u30a4\u30d3\u30fc",
-        "url": "https://open.spotify.com/album/44hHqfDPRrgjzDgPom68Nq"
+        "name": "SIGNALOID BOX",
+        "url": "https://open.spotify.com/album/0IBUFc6zEx7Hl8UkoDofX2"
       },
       "artists": [
         {
-          "name": "Maretu",
-          "url": "https://open.spotify.com/artist/7p1fL0cAuCPDMG6oBswFhM"
+          "name": "Dios/signalP",
+          "url": "https://open.spotify.com/artist/7Jo4alROJu9Smj8IZahiP1"
         }
       ],
-      "duration_ms": 220108,
-      "name": "\u8133\u5185\u9769\u547d\u30ac\u30fc\u30eb2016 ver.",
-      "url": "https://open.spotify.com/track/2h9KISwTGTFe299tDsZUWr"
+      "duration_ms": 277013,
+      "name": "\u30b5\u30f3\u30c9\u30ea\u30e8\u30f3",
+      "url": "https://open.spotify.com/track/3nmWtDD1yyHR4EEBUSmUK0"
     },
     {
       "added_at": "2021-05-26 02:37:36",
@@ -675,6 +659,22 @@
       "duration_ms": 265613,
       "name": "on the rocks",
       "url": "https://open.spotify.com/track/5oUBjW4Bc69fcYBak14CyO"
+    },
+    {
+      "added_at": "2021-05-26 02:37:36",
+      "album": {
+        "name": "\u30b3\u30a4\u30f3\u30ed\u30c3\u30ab\u30fc\u30d9\u30a4\u30d3\u30fc",
+        "url": "https://open.spotify.com/album/44hHqfDPRrgjzDgPom68Nq"
+      },
+      "artists": [
+        {
+          "name": "Maretu",
+          "url": "https://open.spotify.com/artist/7p1fL0cAuCPDMG6oBswFhM"
+        }
+      ],
+      "duration_ms": 220108,
+      "name": "\u8133\u5185\u9769\u547d\u30ac\u30fc\u30eb2016 ver.",
+      "url": "https://open.spotify.com/track/2h9KISwTGTFe299tDsZUWr"
     },
     {
       "added_at": "2021-05-26 02:37:36",
@@ -731,22 +731,6 @@
     {
       "added_at": "2021-05-26 02:37:36",
       "album": {
-        "name": "\u4e16\u754c\u5f81\u670d",
-        "url": "https://open.spotify.com/album/6bUhLpHUvNZmABsIWHV3F9"
-      },
-      "artists": [
-        {
-          "name": "Neru",
-          "url": "https://open.spotify.com/artist/0rhcL1Mw7J9YJRDpD6mhXr"
-        }
-      ],
-      "duration_ms": 194117,
-      "name": "\u6771\u4eac\u30c6\u30c7\u30a3\u30d9\u30a2",
-      "url": "https://open.spotify.com/track/6m5Rk67linNHu66VBK434T"
-    },
-    {
-      "added_at": "2021-05-26 02:37:36",
-      "album": {
         "name": "\u79d8\u5bc6\u8b66\u5bdf",
         "url": "https://open.spotify.com/album/6js8o0Or77nO3bUUV7SUPe"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 210000,
       "name": "\u79d8\u5bc6\u8b66\u5bdf",
       "url": "https://open.spotify.com/track/4yuoWqZccnf2YsaCS2nNQP"
+    },
+    {
+      "added_at": "2021-05-26 02:37:36",
+      "album": {
+        "name": "\u4e16\u754c\u5f81\u670d",
+        "url": "https://open.spotify.com/album/6bUhLpHUvNZmABsIWHV3F9"
+      },
+      "artists": [
+        {
+          "name": "Neru",
+          "url": "https://open.spotify.com/artist/0rhcL1Mw7J9YJRDpD6mhXr"
+        }
+      ],
+      "duration_ms": 194117,
+      "name": "\u6771\u4eac\u30c6\u30c7\u30a3\u30d9\u30a2",
+      "url": "https://open.spotify.com/track/6m5Rk67linNHu66VBK434T"
     },
     {
       "added_at": "2021-05-26 02:37:36",
@@ -795,22 +795,6 @@
     {
       "added_at": "2021-05-26 02:37:36",
       "album": {
-        "name": "Trump",
-        "url": "https://open.spotify.com/album/7hvwgnHlcyUa13qL3wipTJ"
-      },
-      "artists": [
-        {
-          "name": "yuchaP",
-          "url": "https://open.spotify.com/artist/1qAJAdT5gGxHdBQDcD13qT"
-        }
-      ],
-      "duration_ms": 158926,
-      "name": "Blackjack",
-      "url": "https://open.spotify.com/track/7HIy8ajP3ldKI9txACAzzy"
-    },
-    {
-      "added_at": "2021-05-26 02:37:36",
-      "album": {
         "name": "MIKUNOPOLIS in LOS ANGELES \u201c\u306f\u3058\u3081\u307e\u3057\u3066\u3001\u521d\u97f3\u30df\u30af\u3067\u3059\u201d",
         "url": "https://open.spotify.com/album/5orTbWsJiKdiKYivCwZz2Y"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 154480,
       "name": "\u88cf\u8868\u30e9\u30d0\u30fc\u30ba -MIKUNOPOLIS in LOS ANGELES Live-",
       "url": "https://open.spotify.com/track/2IB3U5cktSu6ERw7nVIEzO"
+    },
+    {
+      "added_at": "2021-05-26 02:37:36",
+      "album": {
+        "name": "Trump",
+        "url": "https://open.spotify.com/album/7hvwgnHlcyUa13qL3wipTJ"
+      },
+      "artists": [
+        {
+          "name": "yuchaP",
+          "url": "https://open.spotify.com/artist/1qAJAdT5gGxHdBQDcD13qT"
+        }
+      ],
+      "duration_ms": 158926,
+      "name": "Blackjack",
+      "url": "https://open.spotify.com/track/7HIy8ajP3ldKI9txACAzzy"
     },
     {
       "added_at": "2021-05-26 02:37:36",
@@ -927,22 +927,6 @@
     {
       "added_at": "2021-05-26 02:37:36",
       "album": {
-        "name": "HATSUNE MIKU EXPO 2014 IN INDONESIA [Live]",
-        "url": "https://open.spotify.com/album/7sHpw2f73tYVfWcYaaLjE4"
-      },
-      "artists": [
-        {
-          "name": "doriko",
-          "url": "https://open.spotify.com/artist/16YLTve2FXhfNIn0YO9yER"
-        }
-      ],
-      "duration_ms": 200351,
-      "name": "\u30ed\u30df\u30aa\u3068\u30b7\u30f3\u30c7\u30ec\u30e9 -MIKU EXPO 2014 in INDONESIA Live-",
-      "url": "https://open.spotify.com/track/3dU1s4P5qcUCkPGpvhLN1r"
-    },
-    {
-      "added_at": "2021-05-26 02:37:36",
-      "album": {
         "name": "MIKUNOPOLIS in LOS ANGELES \u201c\u306f\u3058\u3081\u307e\u3057\u3066\u3001\u521d\u97f3\u30df\u30af\u3067\u3059\u201d",
         "url": "https://open.spotify.com/album/5orTbWsJiKdiKYivCwZz2Y"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 223280,
       "name": "\u30ef\u30fc\u30eb\u30ba\u30a8\u30f3\u30c9\u30fb\u30c0\u30f3\u30b9\u30db\u30fc\u30eb -MIKUNOPOLIS in LOS ANGELES Live-",
       "url": "https://open.spotify.com/track/3mMurBEHetvgoEOJRa3biN"
+    },
+    {
+      "added_at": "2021-05-26 02:37:36",
+      "album": {
+        "name": "HATSUNE MIKU EXPO 2014 IN INDONESIA [Live]",
+        "url": "https://open.spotify.com/album/7sHpw2f73tYVfWcYaaLjE4"
+      },
+      "artists": [
+        {
+          "name": "doriko",
+          "url": "https://open.spotify.com/artist/16YLTve2FXhfNIn0YO9yER"
+        }
+      ],
+      "duration_ms": 200351,
+      "name": "\u30ed\u30df\u30aa\u3068\u30b7\u30f3\u30c7\u30ec\u30e9 -MIKU EXPO 2014 in INDONESIA Live-",
+      "url": "https://open.spotify.com/track/3dU1s4P5qcUCkPGpvhLN1r"
     },
     {
       "added_at": "2021-05-26 02:37:36",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2021-05-26 02:37:36",
       "album": {
-        "name": "\u521d\u97f3\u30df\u30af\u300c\u30de\u30b8\u30ab\u30eb\u30df\u30e9\u30a4 2014\u300d [Live]",
-        "url": "https://open.spotify.com/album/7HZ5f4jeJ8X7vJOuCTYReE"
-      },
-      "artists": [
-        {
-          "name": "Emon",
-          "url": "https://open.spotify.com/artist/3eISwXCy8xsH790miZ2t3j"
-        }
-      ],
-      "duration_ms": 225936,
-      "name": "shake it! -\u521d\u97f3\u30df\u30af\u300c\u30de\u30b8\u30ab\u30eb\u30df\u30e9\u30a4 2014\u300dLive-",
-      "url": "https://open.spotify.com/track/6qWYz8lpmQfqAbdrVWcd2G"
-    },
-    {
-      "added_at": "2021-05-26 02:37:36",
-      "album": {
         "name": "39\u307f\u3085\u30fc\u3058\u3063\u304f!",
         "url": "https://open.spotify.com/album/6EjzwcflTxIFvHlOhyb9m8"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 265846,
       "name": "39\u307f\u3085\u30fc\u3058\u3063\u304f!",
       "url": "https://open.spotify.com/track/11NoD6DdxrVB8LGUSIzadp"
+    },
+    {
+      "added_at": "2021-05-26 02:37:36",
+      "album": {
+        "name": "\u521d\u97f3\u30df\u30af\u300c\u30de\u30b8\u30ab\u30eb\u30df\u30e9\u30a4 2014\u300d [Live]",
+        "url": "https://open.spotify.com/album/7HZ5f4jeJ8X7vJOuCTYReE"
+      },
+      "artists": [
+        {
+          "name": "Emon",
+          "url": "https://open.spotify.com/artist/3eISwXCy8xsH790miZ2t3j"
+        }
+      ],
+      "duration_ms": 225936,
+      "name": "shake it! -\u521d\u97f3\u30df\u30af\u300c\u30de\u30b8\u30ab\u30eb\u30df\u30e9\u30a4 2014\u300dLive-",
+      "url": "https://open.spotify.com/track/6qWYz8lpmQfqAbdrVWcd2G"
     },
     {
       "added_at": "2021-05-26 02:37:36",
@@ -1371,6 +1371,22 @@
     {
       "added_at": "2021-05-26 02:37:36",
       "album": {
+        "name": "\u7d05\u4e00\u8449",
+        "url": "https://open.spotify.com/album/5iUqJLkuT2hV1xcWswJi7d"
+      },
+      "artists": [
+        {
+          "name": "KuroUsa",
+          "url": "https://open.spotify.com/artist/1fyLCDf7gQRXZ1hRNtL2UF"
+        }
+      ],
+      "duration_ms": 252146,
+      "name": "\u7d05\u4e00\u8449",
+      "url": "https://open.spotify.com/track/1rnEmMcOAdQckPj3mRDkmH"
+    },
+    {
+      "added_at": "2021-05-26 02:37:36",
+      "album": {
         "name": "39",
         "url": "https://open.spotify.com/album/5kGi7b284QLCIhuwXMHnHf"
       },
@@ -1391,22 +1407,6 @@
       "duration_ms": 219979,
       "name": "39",
       "url": "https://open.spotify.com/track/5ZVKlvVj2I3uvNPXsQTxAW"
-    },
-    {
-      "added_at": "2021-05-26 02:37:36",
-      "album": {
-        "name": "\u7d05\u4e00\u8449",
-        "url": "https://open.spotify.com/album/5iUqJLkuT2hV1xcWswJi7d"
-      },
-      "artists": [
-        {
-          "name": "KuroUsa",
-          "url": "https://open.spotify.com/artist/1fyLCDf7gQRXZ1hRNtL2UF"
-        }
-      ],
-      "duration_ms": 252146,
-      "name": "\u7d05\u4e00\u8449",
-      "url": "https://open.spotify.com/track/1rnEmMcOAdQckPj3mRDkmH"
     },
     {
       "added_at": "2021-05-26 02:37:36",

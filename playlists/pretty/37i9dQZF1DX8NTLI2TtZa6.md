@@ -4,24 +4,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NTLI2TtZa6.md) - [plain]
 
 > Get\. It\. Done\. Focus\-enhancing piano music to keep you motivated during your study session.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,408,029 likes - 203 songs - 8 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,408,044 likes - 203 songs - 8 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Catching the Wind](https://open.spotify.com/track/5F6eiRwJQyVl8TLtNhGL3k) | [Börn Visor](https://open.spotify.com/artist/6MWFWTJoRkiPVQzwvmrXai) | [Catching the Wind](https://open.spotify.com/album/7kYsXRcPUW3sckQsgySIUI) | 2:01 |
-| 2 | [Aragonese](https://open.spotify.com/track/3bN2VEtYuFV2GjEHmfxTI3) | [Ametrine Skies](https://open.spotify.com/artist/40vrF4Xbk1GAxqnIRdyrKs) | [Aragonese](https://open.spotify.com/album/7xumXPGEwMrYVOb4pk6ANG) | 2:14 |
+| 1 | [Aragonese](https://open.spotify.com/track/3bN2VEtYuFV2GjEHmfxTI3) | [Ametrine Skies](https://open.spotify.com/artist/40vrF4Xbk1GAxqnIRdyrKs) | [Aragonese](https://open.spotify.com/album/7xumXPGEwMrYVOb4pk6ANG) | 2:14 |
+| 2 | [Catching the Wind](https://open.spotify.com/track/5F6eiRwJQyVl8TLtNhGL3k) | [Börn Visor](https://open.spotify.com/artist/6MWFWTJoRkiPVQzwvmrXai) | [Catching the Wind](https://open.spotify.com/album/7kYsXRcPUW3sckQsgySIUI) | 2:01 |
 | 3 | [The Last Goodbye](https://open.spotify.com/track/0CFHCZ9LKhFA1DqExQHkf9) | [Aquilegia](https://open.spotify.com/artist/4XF98HJsL7ue3NksOvebiJ) | [The Last Goodbye](https://open.spotify.com/album/2iY03z9xsWzIeLkLiJ5iB7) | 2:50 |
-| 4 | [Penumbra](https://open.spotify.com/track/4gLQLTrX35MDaVlFSLPUrg) | [Davignon](https://open.spotify.com/artist/6X9fOKgbMi7PCa7ZuB7ktE) | [Penumbra](https://open.spotify.com/album/2ORmDGwBuXes6QBLKF7EAf) | 2:22 |
-| 5 | [L'or du temps](https://open.spotify.com/track/4GLHnYC81ZvMcQuChl19gk) | [Keiko Ishida](https://open.spotify.com/artist/5kiKC3sVss9s7fjEa1HDLW) | [L'or du temps](https://open.spotify.com/album/6Tab6Rsk2duWXaPseT2GHp) | 2:18 |
+| 4 | [L'or du temps](https://open.spotify.com/track/4GLHnYC81ZvMcQuChl19gk) | [Keiko Ishida](https://open.spotify.com/artist/5kiKC3sVss9s7fjEa1HDLW) | [L'or du temps](https://open.spotify.com/album/6Tab6Rsk2duWXaPseT2GHp) | 2:18 |
+| 5 | [Penumbra](https://open.spotify.com/track/4gLQLTrX35MDaVlFSLPUrg) | [Davignon](https://open.spotify.com/artist/6X9fOKgbMi7PCa7ZuB7ktE) | [Penumbra](https://open.spotify.com/album/2ORmDGwBuXes6QBLKF7EAf) | 2:22 |
 | 6 | [Hope 希望](https://open.spotify.com/track/3urizsCookzGTWmwl5zS3M) | [Li Zemin](https://open.spotify.com/artist/2v3FBpuuu8EdWvmS8OOctA) | [Hope 希望](https://open.spotify.com/album/388eJjJEdCAnY07p4xHRYy) | 3:14 |
 | 7 | [Bølgene](https://open.spotify.com/track/2AkfsWt3ZtzqkvMN6q3g2t) | [Ole\-Bjørn Talstad](https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9) | [Bølgene](https://open.spotify.com/album/4gBUCW3OYJTPtpiKK9nIGa) | 2:50 |
 | 8 | [Skyward](https://open.spotify.com/track/2qFujpWVqfb1kXJaMouLWr) | [Finley Rhone](https://open.spotify.com/artist/03Usizud7onAiPocQkcK5V) | [Skyward](https://open.spotify.com/album/4vSY1jflRK7V4o13WC92f1) | 2:19 |
 | 9 | [June](https://open.spotify.com/track/7rl3w6GFrwBA5cnbVd3vIC) | [André Dívou](https://open.spotify.com/artist/1MIy4clJ09eOtu2W7wcC7T) | [June](https://open.spotify.com/album/5f0Nwusj5eiz92QhCatBtu) | 2:43 |
 | 10 | [Stratus](https://open.spotify.com/track/4alvTD1Zcf8beHgVaVzaL5) | [Zoran Tudor](https://open.spotify.com/artist/0wuwIPLU0OZWWO97izTsZO) | [Stratus](https://open.spotify.com/album/1mZs0ztiX0WaYTVeq2FsTv) | 2:14 |
 | 11 | [The inner core](https://open.spotify.com/track/6a2tb8bOrFn6S5jbdt5f3j) | [Gjermund](https://open.spotify.com/artist/2FZS2EvEvApDSk425z6s4P) | [The inner core](https://open.spotify.com/album/7jBoh80XYgDNl8RVL0txEq) | 2:13 |
-| 12 | [Monfalcone](https://open.spotify.com/track/139UoQFvV4JuEelwLnjQgh) | [Domizio Ada](https://open.spotify.com/artist/5JvIC1Y9TPK32GZhKIYlSz) | [Monfalcone](https://open.spotify.com/album/5Wg1kQWDl2HitZ4HCewB5w) | 2:33 |
-| 13 | [Viaggio](https://open.spotify.com/track/6fr5ojni7gVUkfLafVXb2R) | [Lucas Collins](https://open.spotify.com/artist/5DeLqcvjVG6JigTmkRrMHl) | [Viaggio](https://open.spotify.com/album/3Kq2tqhyD2bGvp78aQkxsH) | 2:38 |
-| 14 | [Rivers Wide](https://open.spotify.com/track/6CKxNZvRKtUSCmumhtmI6r) | [Hazel Adams](https://open.spotify.com/artist/7k5pLfgL1ELz5X4SxuYoBK) | [Rivers Wide](https://open.spotify.com/album/23SAyFDy3jUqDNArqcJ87k) | 2:57 |
+| 12 | [Rivers Wide](https://open.spotify.com/track/6CKxNZvRKtUSCmumhtmI6r) | [Hazel Adams](https://open.spotify.com/artist/7k5pLfgL1ELz5X4SxuYoBK) | [Rivers Wide](https://open.spotify.com/album/23SAyFDy3jUqDNArqcJ87k) | 2:57 |
+| 13 | [Monfalcone](https://open.spotify.com/track/139UoQFvV4JuEelwLnjQgh) | [Domizio Ada](https://open.spotify.com/artist/5JvIC1Y9TPK32GZhKIYlSz) | [Monfalcone](https://open.spotify.com/album/5Wg1kQWDl2HitZ4HCewB5w) | 2:33 |
+| 14 | [Viaggio](https://open.spotify.com/track/6fr5ojni7gVUkfLafVXb2R) | [Lucas Collins](https://open.spotify.com/artist/5DeLqcvjVG6JigTmkRrMHl) | [Viaggio](https://open.spotify.com/album/3Kq2tqhyD2bGvp78aQkxsH) | 2:38 |
 | 15 | [Into the Unknown](https://open.spotify.com/track/6xhu6te5zJFLn4sgavp5Xz) | [Lexi Bradley](https://open.spotify.com/artist/1CvuYflvQR5lwg1WzrhKAm) | [Into the Unknown](https://open.spotify.com/album/38EOJDVjA48a1OsabohitZ) | 2:39 |
 | 16 | [Rewind](https://open.spotify.com/track/6vNeLU4DFoFbCihyqYYjKa) | [Kisane](https://open.spotify.com/artist/58DEdEFdrIavjVMzUTiWlN) | [Rewind](https://open.spotify.com/album/33b3wSOh9CZ4oex91USFX1) | 2:26 |
 | 17 | [Paradigm](https://open.spotify.com/track/28g9qzHCr2DFas0Uf5W23h) | [Eyøni](https://open.spotify.com/artist/1WSVb6NfuMCOujQS2yOier) | [Paradigm](https://open.spotify.com/album/0tFUtq4lxoR8uP3oI2Uygs) | 2:41 |
@@ -212,4 +212,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NTLI2TtZa6.md) - [plain]
 | 202 | [Yesterdays Answer](https://open.spotify.com/track/4RcazdOk2fclED0uZ1S2K9) | [Volker Anderson](https://open.spotify.com/artist/77UwtMovkeXsignTuy1dB1) | [Yesterdays Answer](https://open.spotify.com/album/7FSU0f8jsIuxR2RzK1XndN) | 2:39 |
 | 203 | [a new love](https://open.spotify.com/track/4DOUtqXfuYKR6RqZ3O6TIi) | [Albrecht Valiery](https://open.spotify.com/artist/3GyopzakL0G5uqjcv56M9h) | [a new love](https://open.spotify.com/album/1OCzduP701HjAIhRhGaBts) | 3:02 |
 
-Snapshot ID: `ZvvofwAAAABUeWXz5gcWFsEphc9NX94P`
+Snapshot ID: `ZwUiBAAAAAAZsx9E2GpEWwq7HPCiloht`

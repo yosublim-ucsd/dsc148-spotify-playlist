@@ -999,6 +999,28 @@
     },
     {
       "album": {
+        "name": "Ya no me Importa (Version Mariachi)",
+        "url": "https://open.spotify.com/album/5Glv4xFjsq3nGF8KYkCqJd"
+      },
+      "artists": [
+        {
+          "name": "AlexTrip Sands",
+          "url": "https://open.spotify.com/artist/5MKEh6IaFZK3knCjCok3rI"
+        },
+        {
+          "name": "\u30e1\u30b0\u30c3\u30dd\u30a4\u30c9",
+          "url": "https://open.spotify.com/artist/36JmKF8ae9cmpYmbL5fZXD"
+        }
+      ],
+      "date_added": "2024-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328421,
+      "name": "Ya no me Importa (Version Mariachi) (feat. \u30e1\u30b0\u30c3\u30dd\u30a4\u30c9)",
+      "url": "https://open.spotify.com/track/6dzTmofkiTJ4KNEzMn5he7"
+    },
+    {
+      "album": {
         "name": "\u3042\u306a\u305f\u306e\u5922\u306e\u4e2d",
         "url": "https://open.spotify.com/album/67uYkIDbFy5AQSa1TuoyWG"
       },
@@ -1236,6 +1258,28 @@
       "duration_ms": 338624,
       "name": "\u3068\u3099\u3046\u304b\u3057\u3066\u308b\u308f",
       "url": "https://open.spotify.com/track/6paVnZT2ZRL9ZzHeBpMFLt"
+    },
+    {
+      "album": {
+        "name": "\u306a\u3093\u306b\u3082\u3084\u308a\u305f\u304f\u306a\u3044",
+        "url": "https://open.spotify.com/album/7gKy2XBxA0lUXl9ghTCaRq"
+      },
+      "artists": [
+        {
+          "name": "\u30ca\u30b5\u30ac\u30b7",
+          "url": "https://open.spotify.com/artist/3hDoRBltrVcdAX4SDpZ9of"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "date_added": "2024-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "\u306a\u3093\u306b\u3082\u3084\u308a\u305f\u304f\u306a\u3044 (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/7uyjt6dTTrvFK2i61N4MhZ"
     },
     {
       "album": {
@@ -1775,6 +1819,28 @@
     },
     {
       "album": {
+        "name": "\u30b9\u30ce\u30a6\u30ea\u30d5\u30ec\u30a4\u30f3",
+        "url": "https://open.spotify.com/album/2AwXK3MTIBhhW90E2LgGBU"
+      },
+      "artists": [
+        {
+          "name": "\u3054\u3081\u3093\u306a\u3055\u3044\u304c\u8a00\u3048\u306a\u304f\u3066",
+          "url": "https://open.spotify.com/artist/3L0Tv3JqnHftZVEAq2P3xv"
+        },
+        {
+          "name": "Kagamine Rin",
+          "url": "https://open.spotify.com/artist/7wZ6E8iVwjGYRGwSfkIAjP"
+        }
+      ],
+      "date_added": "2024-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214800,
+      "name": "\u30b9\u30ce\u30a6\u30ea\u30d5\u30ec\u30a4\u30f3 (feat. \u93e1\u97f3\u30ea\u30f3)",
+      "url": "https://open.spotify.com/track/1Zhv9o0juG3gypbvxaxg9K"
+    },
+    {
+      "album": {
         "name": "\u30bb\u30a4\u30ab\u30f3\u30e6\u30a6\u30ae\u30e7",
         "url": "https://open.spotify.com/album/1zzjNjpgWD18UqaubDBC3l"
       },
@@ -1790,7 +1856,7 @@
       ],
       "date_added": "2024-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-09",
       "duration_ms": 248888,
       "name": "\u30bb\u30a4\u30ab\u30f3\u30e6\u30a6\u30ae\u30e7 (feat. \u77e5\u58f0)",
       "url": "https://open.spotify.com/track/1oFQp4fEOPaT5PHtN7JLyp"
@@ -2152,7 +2218,7 @@
       ],
       "date_added": "2024-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-09",
       "duration_ms": 226750,
       "name": "\u30df\u30c3\u30c9\u30ca\u30a4\u30c8\u30b3\u30fc\u30d2\u30fc (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/0t21zZWoPnWm7ThRiS4PO3"
@@ -2240,7 +2306,7 @@
       ],
       "date_added": "2024-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-09",
       "duration_ms": 151378,
       "name": "\u30ea\u30d5\u30ec\u30f0\u30f3 (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/4cwtqhgARGp2tzsIziBlCz"
@@ -2262,7 +2328,7 @@
       ],
       "date_added": "2024-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-09",
       "duration_ms": 216153,
       "name": "\u30ec\u30a4\u30e4\u30fc\u30ce\u30fc\u30c8 (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/0OJwb7wC7GdMXTReyqgEw3"
@@ -2738,7 +2804,7 @@
       ],
       "date_added": "2024-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-09",
       "duration_ms": 188470,
       "name": "\u5f57\u661f\u30ce\u9280\u6cb3 (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/6gElGPB9NzN4USpdzrRysp"
@@ -3017,6 +3083,28 @@
     },
     {
       "album": {
+        "name": "\u6e29\u5ea6",
+        "url": "https://open.spotify.com/album/6386Ig4riy8ElU1IJsbugH"
+      },
+      "artists": [
+        {
+          "name": "cat nap",
+          "url": "https://open.spotify.com/artist/5kcEo2AxXur3mNk3c1R7N7"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "date_added": "2024-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189000,
+      "name": "\u6e29\u5ea6 (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/2c4Wb7JepvfTtorex199Tw"
+    },
+    {
+      "album": {
         "name": "HARMONICS",
         "url": "https://open.spotify.com/album/0h6FjVSgPLOVJ37AduWrNZ"
       },
@@ -3098,6 +3186,28 @@
       "duration_ms": 258000,
       "name": "\u732b\u3068\u591c\u884c\u5217\u8eca (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/7B7zo9xU45kCGhJeCDiXyW"
+    },
+    {
+      "album": {
+        "name": "\u751f\u304d\u3068\u3057\u751f\u3051\u308b",
+        "url": "https://open.spotify.com/album/42bTB6ehWLpwsxIZN2T0hQ"
+      },
+      "artists": [
+        {
+          "name": "nogumi",
+          "url": "https://open.spotify.com/artist/1JjUaqy0XWsW95PFEctSs8"
+        },
+        {
+          "name": "\u6b4c\u611b\u30e6\u30ad",
+          "url": "https://open.spotify.com/artist/5NB3uGRtuXv54usQyxe60r"
+        }
+      ],
+      "date_added": "2024-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306666,
+      "name": "\u751f\u304d\u3068\u3057\u751f\u3051\u308b (feat. \u6b4c\u611b\u30e6\u30ad)",
+      "url": "https://open.spotify.com/track/53nw5jjSZmqVsEAQsqzU3L"
     },
     {
       "album": {

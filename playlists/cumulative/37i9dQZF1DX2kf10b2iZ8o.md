@@ -4,7 +4,7 @@
 
 > Music from "Idle Master SideM"\. アイドルマスターSideMの楽曲を1つのプレイリストで。THE IDOLM@STER™& ©Bandai Namco Entertainment Inc.
 
-169 songs - 12 hr 23 min
+170 songs - 12 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,12 +113,13 @@
 | [Symphonic Brave](https://open.spotify.com/track/5PhOAlr6qATj51HFHOZMaw) | [Legenders](https://open.spotify.com/artist/3nF9VBtBAC5Bi3vkIV1Ce6) | [THE IDOLM@STER SideM 3rd ANNIVERSARY 01](https://open.spotify.com/album/0pKniFFDpwItfygikcY5BG) | 4:46 | 2022-12-01 |  |
 | [Take a StuMp!](https://open.spotify.com/track/5UjieTtkvrOJfKMa6EmTQ7) | [315 ALLSTARS](https://open.spotify.com/artist/3sMdEIxwcZJ2gF1Sjd8NHX) | [THE IDOLM@STER SideM GROWING SIGN@L 15 Take a StuMp!](https://open.spotify.com/album/3Fja2KNccssihfc2LpBcT4) | 4:57 | 2023-01-20 |  |
 | [Teatime Cliché](https://open.spotify.com/track/1qMk88tvIVATrXmW3KCsHt) | [Café Parade](https://open.spotify.com/artist/1uTDh4CLd762oal0htQQXe) | [THE IDOLM@STER SideM GROWING SIGN@L 04 Café Parade](https://open.spotify.com/album/3EteBuYZu6JQTPNRefCAHH) | 4:13 | 2022-12-01 |  |
+| [The 1st Movement ～未来のための二重奏～](https://open.spotify.com/track/1IT0WrJyl2VjG1QoXAGN1Z) | [Altessimo](https://open.spotify.com/artist/2viMthZdiHQywTnV7zxUh8) | [THE IDOLM@STER SideM ST@RTING LINE\-11 Altessimo](https://open.spotify.com/album/5tqAy12EDquZQ7NZg0Pn3y) | 4:56 | 2024-03-05 |  |
 | [THE FIRST STAR](https://open.spotify.com/track/40jH6AJbcdMRFzzro3eBeU) | [天道 輝 \(CV.仲村宗悟\)](https://open.spotify.com/artist/4ChudPM27mkuOE8htLxJHa) | [THE IDOLM@STER SideM ORIGIN@L PIECES 01](https://open.spotify.com/album/4wZuTqLrABThBNX1C7LZNC) | 4:12 | 2022-12-01 | 2023-02-21 |
 | [The Symphonic Daylight](https://open.spotify.com/track/1aiWX0FBgLr07AbnXODNBh) | [Altessimo](https://open.spotify.com/artist/2viMthZdiHQywTnV7zxUh8) | [THE IDOLM@STER SideM 49 ELEMENTS \-07 Altessimo](https://open.spotify.com/album/3vjUKQMaJjm1pc3RLhziH4) | 4:06 | 2023-02-25 |  |
 | [Tick Tack Voice](https://open.spotify.com/track/14YHpYBMqMBVleSgdwkpDG) | [信玄誠司 \(CV.増元拓也\)](https://open.spotify.com/artist/3IiD34ikp0g9XnQkHyjrAf) | [THE IDOLM@STER SideM 49 ELEMENTS \-09 FRAME](https://open.spotify.com/album/79Tij9DwEitAmsRHck6aD6) | 3:49 | 2023-05-09 |  |
 | [Time Before Time](https://open.spotify.com/track/3u2raQM6PDsLd263rRniC9) | [Legenders](https://open.spotify.com/artist/4iG460lxCJz1J6UYEbYxTR) | [THE IDOLM@STER SideM GROWING SIGN@L 05 Legenders](https://open.spotify.com/album/2RRf2NPY2BepCu4SrlymaE) | 3:40 | 2022-12-01 |  |
 | [TOMORROW DIAMOND](https://open.spotify.com/track/7aindbhwthgO902KSrneGw) | [Beit](https://open.spotify.com/artist/1AZCEPWgL4qpqfc86wi9Ah) | [THE IDOLM@STER SideM ANIMATION PROJECT 02 TOMORROW DIAMOND](https://open.spotify.com/album/1Z04uyUlHNIhMyDveIRpO8) | 4:47 | 2022-12-01 |  |
-| [Tone's Destiny](https://open.spotify.com/track/3L0J09Vkwx7OupyfRNAv22) | [Altessimo](https://open.spotify.com/artist/2viMthZdiHQywTnV7zxUh8) | [THE IDOLM@STER SideM 3rd ANNIVERSARY 01](https://open.spotify.com/album/0pKniFFDpwItfygikcY5BG) | 4:39 | 2022-12-01 |  |
+| [Tone's Destiny](https://open.spotify.com/track/3L0J09Vkwx7OupyfRNAv22) | [Altessimo](https://open.spotify.com/artist/2viMthZdiHQywTnV7zxUh8) | [THE IDOLM@STER SideM 3rd ANNIVERSARY 01](https://open.spotify.com/album/0pKniFFDpwItfygikcY5BG) | 4:39 | 2022-12-01 | 2024-10-09 |
 | [Toward Pole Star](https://open.spotify.com/track/3ttWXcnYMaTc5IUgRmQndI) | [High Joker](https://open.spotify.com/artist/4Qn0EFzGoSFtjE70XmB4Ec) | [THE IDOLM@STER SideM GROWING SIGN@L 18](https://open.spotify.com/album/61lUtgXia5yWLvkYm3K5Kl) | 4:20 | 2023-04-11 | 2023-11-16 |
 | [Tricolor Rendezvous](https://open.spotify.com/track/6yaeRVB0HADNegcJlmg9d8) | [F\-LAGS](https://open.spotify.com/artist/2hxDG36JKOWI4PrBw8pisz) | [THE IDOLM@STER SideM 49 ELEMENTS \-10 F\-LAGS](https://open.spotify.com/album/7Aet8iBpl9L98DW9Xh1gSh) | 3:55 | 2023-05-09 |  |
 | [True Horizon](https://open.spotify.com/track/3UypUKomnu0dXjVYZkc3ZI) | [315 STARS](https://open.spotify.com/artist/6Red1AKOrFqOwO9urpYmbO) | [THE IDOLM@STER SideM GROWING SIGN@L 15 Take a StuMp!](https://open.spotify.com/album/3Fja2KNccssihfc2LpBcT4) | 4:11 | 2023-01-20 |  |

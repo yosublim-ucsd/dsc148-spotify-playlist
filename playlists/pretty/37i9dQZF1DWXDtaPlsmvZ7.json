@@ -1,6 +1,6 @@
 {
   "description": "A mover el cucu con estas cadenciosas versiones cumbiatizadas.",
-  "num_followers": 111529,
+  "num_followers": 111556,
   "original_name": "Cumbia Covers",
   "owner": {
     "name": "Spotify",
@@ -927,22 +927,6 @@
     {
       "added_at": "2022-05-06 18:26:25",
       "album": {
-        "name": "El Combo Loco",
-        "url": "https://open.spotify.com/album/37AK87c1LWBvaSNoBI0jNO"
-      },
-      "artists": [
-        {
-          "name": "El Combo Loco",
-          "url": "https://open.spotify.com/artist/1xWqDlS9XUQQlKzbm4dWEn"
-        }
-      ],
-      "duration_ms": 201706,
-      "name": "Clavado en un Bar",
-      "url": "https://open.spotify.com/track/41OhLBVZ1vhQSbw7WDfcAq"
-    },
-    {
-      "added_at": "2022-05-06 18:26:25",
-      "album": {
         "name": "Tropitango",
         "url": "https://open.spotify.com/album/4dOlABdZn7dUJwrzJCX4pb"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 112274,
       "name": "La Mejor Version de Mi",
       "url": "https://open.spotify.com/track/6yBbgqbWxMVLqnzGwiiB8r"
+    },
+    {
+      "added_at": "2022-05-06 18:26:25",
+      "album": {
+        "name": "El Combo Loco",
+        "url": "https://open.spotify.com/album/37AK87c1LWBvaSNoBI0jNO"
+      },
+      "artists": [
+        {
+          "name": "El Combo Loco",
+          "url": "https://open.spotify.com/artist/1xWqDlS9XUQQlKzbm4dWEn"
+        }
+      ],
+      "duration_ms": 201706,
+      "name": "Clavado en un Bar",
+      "url": "https://open.spotify.com/track/41OhLBVZ1vhQSbw7WDfcAq"
     },
     {
       "added_at": "2022-05-06 18:26:25",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2022-05-06 18:26:25",
       "album": {
-        "name": "Simplemente Amigos",
-        "url": "https://open.spotify.com/album/70XaPL4zDedzkblk8I2iEM"
-      },
-      "artists": [
-        {
-          "name": "BXS",
-          "url": "https://open.spotify.com/artist/1YP7wQtwByB9lM5a5zoARO"
-        }
-      ],
-      "duration_ms": 224298,
-      "name": "Simplemente Amigos - Electrocumbia Remix",
-      "url": "https://open.spotify.com/track/2R7fljjzrK1HERQinrgYyU"
-    },
-    {
-      "added_at": "2022-05-06 18:26:25",
-      "album": {
         "name": "Con Calma",
         "url": "https://open.spotify.com/album/7xyMJM00ssoz6JTx21Ugre"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 185200,
       "name": "Con Calma",
       "url": "https://open.spotify.com/track/4rHCsdlraJ36u00sqeVlzT"
+    },
+    {
+      "added_at": "2022-05-06 18:26:25",
+      "album": {
+        "name": "Simplemente Amigos",
+        "url": "https://open.spotify.com/album/70XaPL4zDedzkblk8I2iEM"
+      },
+      "artists": [
+        {
+          "name": "BXS",
+          "url": "https://open.spotify.com/artist/1YP7wQtwByB9lM5a5zoARO"
+        }
+      ],
+      "duration_ms": 224298,
+      "name": "Simplemente Amigos - Electrocumbia Remix",
+      "url": "https://open.spotify.com/track/2R7fljjzrK1HERQinrgYyU"
     },
     {
       "added_at": "2022-05-06 18:26:25",

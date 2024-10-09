@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 
 > Objectively good music
 
-[BennyE456](https://open.spotify.com/user/bennyellison4) - 14 likes - 983 songs - 2 day 12 hr 22 min
+[BennyE456](https://open.spotify.com/user/bennyellison4) - 14 likes - 987 songs - 2 day 12 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -991,5 +991,9 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 | 981 | [Finally](https://open.spotify.com/track/5wV1jwBjTkxxAa2gpfyQYR) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [The Alexander Technique](https://open.spotify.com/album/5HSZsS7TGsyMvur547zjVe) | 3:03 |
 | 982 | [Did You Love Somebody](https://open.spotify.com/track/1j4BkEFGLcBysD9SbnT4ld) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Did You Love Somebody](https://open.spotify.com/album/7HYIpIJ4qfmAFqgHYOC3fR) | 4:09 |
 | 983 | [KID AGAIN](https://open.spotify.com/track/0FcVZWtHJ0XoHhbT8fiyAg) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [KID AGAIN](https://open.spotify.com/album/3WOOLxbV3VQ1EqejiL6W5d) | 3:19 |
+| 984 | [Lifespan](https://open.spotify.com/track/5etCueRMjMczmuy424b43C) | [Reno](https://open.spotify.com/artist/46hSwkXAwKPcVxnh5vdJCV) | [123](https://open.spotify.com/album/6RrY59NHgNwUJ2VMpmfPL0) | 3:35 |
+| 985 | [Who I Am](https://open.spotify.com/track/2ezewSeiABfCDeNSmV0XN7) | [Reno](https://open.spotify.com/artist/46hSwkXAwKPcVxnh5vdJCV) | [123](https://open.spotify.com/album/6RrY59NHgNwUJ2VMpmfPL0) | 1:26 |
+| 986 | [On Me](https://open.spotify.com/track/3rLU7Alpd2CtqKZ3S2M3vV) | [Reno](https://open.spotify.com/artist/46hSwkXAwKPcVxnh5vdJCV) | [123](https://open.spotify.com/album/6RrY59NHgNwUJ2VMpmfPL0) | 4:10 |
+| 987 | [Quite Like Me](https://open.spotify.com/track/6rO0Dwn9djBrVWm016h65r) | [Reno](https://open.spotify.com/artist/46hSwkXAwKPcVxnh5vdJCV) | [123](https://open.spotify.com/album/6RrY59NHgNwUJ2VMpmfPL0) | 4:22 |
 
-Snapshot ID: `AAAIonHsASxC/8C2DxUUEcw71YGt/Ho6`
+Snapshot ID: `AAAIpgG/qxCbqKQ0vJzWKzO/vQcRw064`

@@ -507,6 +507,24 @@
     },
     {
       "album": {
+        "name": "Blinding Lights",
+        "url": "https://open.spotify.com/album/7Mbwvp7Txu3Nq5q6bgEGB2"
+      },
+      "artists": [
+        {
+          "name": "Jaque Dylan",
+          "url": "https://open.spotify.com/artist/1C4O2dXmCudFHkn9Zw8Kml"
+        }
+      ],
+      "date_added": "2024-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121092,
+      "name": "Blinding Lights",
+      "url": "https://open.spotify.com/track/3a0n83lQLdxJYedOJMcaS1"
+    },
+    {
+      "album": {
         "name": "Blue (Da Ba Dee)",
         "url": "https://open.spotify.com/album/1oFuXts0JAGBn1OhcWZp2F"
       },
@@ -1188,6 +1206,24 @@
       "duration_ms": 157119,
       "name": "Fields Of Gold",
       "url": "https://open.spotify.com/track/52CkW7MdufnpFnbmeO8N37"
+    },
+    {
+      "album": {
+        "name": "Fields of gold",
+        "url": "https://open.spotify.com/album/2aYnJdav0LHr9HrUPrE0QZ"
+      },
+      "artists": [
+        {
+          "name": "Rosie Wendell",
+          "url": "https://open.spotify.com/artist/2Xebx1tzN01qdWTg3Hfu1f"
+        }
+      ],
+      "date_added": "2024-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196406,
+      "name": "Fields of gold",
+      "url": "https://open.spotify.com/track/6Ju9sSfueWlZU9NHrRuWZW"
     },
     {
       "album": {
@@ -1948,6 +1984,24 @@
       "duration_ms": 214333,
       "name": "I Just Can't Stop Loving You",
       "url": "https://open.spotify.com/track/3AEHG55q4GF9zFgtMdQMQi"
+    },
+    {
+      "album": {
+        "name": "I'm on fire",
+        "url": "https://open.spotify.com/album/0POCGgHFs2K1i6MepPaK6t"
+      },
+      "artists": [
+        {
+          "name": "Samuel Boman",
+          "url": "https://open.spotify.com/artist/4eRFi91APHyqm3Pqzyi0Fs"
+        }
+      ],
+      "date_added": "2024-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144243,
+      "name": "I'm on fire",
+      "url": "https://open.spotify.com/track/6qdtWByHjENUvfkmCCKMkt"
     },
     {
       "album": {
@@ -2906,6 +2960,24 @@
       "duration_ms": 200480,
       "name": "Save Me",
       "url": "https://open.spotify.com/track/4xeZFxASZR1MdL6DVrp54b"
+    },
+    {
+      "album": {
+        "name": "Save Your Tears",
+        "url": "https://open.spotify.com/album/4zNi7sHAx8xFH0XvG2BuOO"
+      },
+      "artists": [
+        {
+          "name": "DisCovered",
+          "url": "https://open.spotify.com/artist/07FxfwSU3s0RwrN5ooGt8y"
+        }
+      ],
+      "date_added": "2024-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135250,
+      "name": "Save Your Tears",
+      "url": "https://open.spotify.com/track/1C6bOXVk1aha0QJigVidNT"
     },
     {
       "album": {

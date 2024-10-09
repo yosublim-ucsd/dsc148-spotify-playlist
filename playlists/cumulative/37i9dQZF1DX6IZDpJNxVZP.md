@@ -4,7 +4,7 @@
 
 > Celebrate Halloween at home with these fun tracks
 
-235 songs - 10 hr 28 min
+237 songs - 10 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,7 @@
 | [Halloween](https://open.spotify.com/track/3etvwGs35IThzIBQ64RHap) | [Divinity Roxx](https://open.spotify.com/artist/6Jp4e4JHGZN1bmRxovEZSI), [Divi Roxx Kids](https://open.spotify.com/artist/0sG3uehglpl7yEOaWGuGSR), [Militia Vox](https://open.spotify.com/artist/5nJlpeYsiIos5ymSqrMEpA) | [Halloween](https://open.spotify.com/album/7JcCk2d7OaWflzoS7194VP) | 2:55 | 2024-09-20 |  |
 | [Halloween](https://open.spotify.com/track/4CSaUDwbyd7xExCTQKnLqg) | [Netherfriends](https://open.spotify.com/artist/5nYfBUxnHtI6LAp32fl9qY), [Blake Rules](https://open.spotify.com/artist/5cdbXEnJgop6zjIxn4ljZ8) | [Kids Trap Halloween](https://open.spotify.com/album/1SvE2Pv0JQMItbr34MS0La) | 1:44 | 2021-09-10 | 2024-09-21 |
 | [Halloween](https://open.spotify.com/track/4jn1EEJFB6R5tjBPFRSNOK) | [Press Play Picture House](https://open.spotify.com/artist/3kkuBZw9vZG5rsZkEvyGhS) | [Halloween](https://open.spotify.com/album/1JJvFooOJDfSifLeLlocSN) | 2:27 | 2021-09-10 | 2024-09-21 |
-| [Halloween at School](https://open.spotify.com/track/5PqCCOKBN8JVtF2tqoHD8N) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [Halloween Party](https://open.spotify.com/album/2Pxy9CdiyUVaBksBwrHpqt) | 3:30 | 2022-10-11 |  |
+| [Halloween at School](https://open.spotify.com/track/5PqCCOKBN8JVtF2tqoHD8N) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [Halloween Party](https://open.spotify.com/album/2Pxy9CdiyUVaBksBwrHpqt) | 3:30 | 2022-10-11 | 2024-10-09 |
 | [Halloween Boogie Dance](https://open.spotify.com/track/6lT87LGFdNZa33zHH1j7LY) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [Halloween Party](https://open.spotify.com/album/2Pxy9CdiyUVaBksBwrHpqt) | 2:05 | 2022-10-11 |  |
 | [Halloween Costume Party](https://open.spotify.com/track/1kZUhs9oLt95tLfsT4NE9h) | [Pinkfong](https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ) | [Halloween Songs 2](https://open.spotify.com/album/3W0o5NCvcvvQtYAvor3KDS) | 1:50 | 2021-08-30 |  |
 | [Halloween Floor is Lava](https://open.spotify.com/track/0qeUh1qhHUyBWEUfQhp67I) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [Halloween Floor is Lava](https://open.spotify.com/album/401zoIGOIdNruRAcb9jhiz) | 3:39 | 2022-10-11 | 2024-09-21 |
@@ -99,9 +99,11 @@
 | [I Want Candy](https://open.spotify.com/track/6T90zwOKB8mioZZukRu5y3) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Halloween Hits!](https://open.spotify.com/album/2oIkZAjJSJejPND1NXr97U) | 2:50 | 2021-08-30 | 2022-07-29 |
 | [I Want Candy \(From A Really Haunted Loud House\)](https://open.spotify.com/track/1XCoPYpOwAIDffPzM7RNPP) | [The Loud House](https://open.spotify.com/artist/49GEHeazyZ8JNJHAxpwAwB) | [I Want Candy \(From A Really Haunted Loud House\)](https://open.spotify.com/album/7CZTb3EvLKNDGxWwedSRj4) | 3:12 | 2023-10-27 |  |
 | [I Want Candy \- 2022](https://open.spotify.com/track/41e2OiEDKLjKHnj0lX8elu) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Halloween](https://open.spotify.com/album/2zZm0wOR7zx4BaN6bGViB1) | 2:48 | 2022-09-27 | 2023-10-28 |
+| [If You Like to Trick or Treat](https://open.spotify.com/track/1gnZW95REPFgMDLxm8DlGx) | [Plim Plim](https://open.spotify.com/artist/0XGgmwDOrlZE5O7GHCHJy8) | [Plim Plim Halloween Kids Songs Vol\. 3](https://open.spotify.com/album/29sOx2UQ773shDn6LNC7da) | 2:45 | 2024-10-04 |  |
 | [It Must Be Halloween](https://open.spotify.com/track/1f1svbp3KN0QkxWh3Ecx7W) | [LVCRFT](https://open.spotify.com/artist/49JFqkKqN2PWANlXIQlB5T) | [It Must Be Halloween](https://open.spotify.com/album/5rbxNOnGkelOAzu5xHPNGG) | 2:29 | 2022-09-27 |  |
 | [It's Halloween](https://open.spotify.com/track/1cXBL3J7QtdYRuttYOHsFL) | [Lucy Kalantari](https://open.spotify.com/artist/48DitTEk1ItVK1K023w2S1) | [Big Things](https://open.spotify.com/album/6fJLE5P4cQ7Kelq7CRLzMf) | 3:35 | 2021-09-10 |  |
 | [It's Halloween](https://open.spotify.com/track/0UAxsfIlQZ1XK6RknnN5CE) | [Thomas & Friends](https://open.spotify.com/artist/6jGPmpMdDk6KzyNeXvD1xs) | [It’s Halloween!](https://open.spotify.com/album/5iCbpallmqJEEdk6EpBVIJ) | 2:15 | 2021-08-30 |  |
+| [Jill the Witch](https://open.spotify.com/track/2l58hQ0SVmdP0nu6J8WC0x) | [Little Angel](https://open.spotify.com/artist/3zDwkELCCr4anWIsL5LyTn) | [Little Angel Halloween](https://open.spotify.com/album/6tn0VGiyGcraJxBK16snAK) | 3:01 | 2024-10-04 |  |
 | [Just A Little Bit Scary](https://open.spotify.com/track/5rNp0eh9KNCRzZM85TzccP) | [Peppa Pig](https://open.spotify.com/artist/2gJLanGIV9JqQuKBCWy9ZG) | [Peppa Pig Halloween Songs](https://open.spotify.com/album/73yMY9nSxq9bW3k4N3EGK6) | 2:40 | 2024-10-04 |  |
 | [Karma](https://open.spotify.com/track/3xshS12p6z39Vfvh02vayH) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Karma](https://open.spotify.com/album/3u6vZlQssUmnNBuiEXESoR) | 3:20 | 2023-10-02 | 2024-09-21 |
 | [Let's Get Spooky](https://open.spotify.com/track/2QAH8HPq0MBWj0MfiOKGPi) | [Bounce Patrol](https://open.spotify.com/artist/1S9SPfRo9eyxOcyfUGC2Tm) | [Halloween](https://open.spotify.com/album/1k14nuO98b5izdLmLoReL8) | 2:29 | 2021-09-10 | 2024-09-21 |
@@ -175,7 +177,7 @@
 | [Stranger Things](https://open.spotify.com/track/0kwuKfWntoGh0EWyYb7Mpf) | [Kyle Dixon & Michael Stein](https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd) | [Stranger Things, Vol\. 1 \(A Netflix Original Series Soundtrack\)](https://open.spotify.com/album/1puplOrvmUGoq2VxsB0ENJ) | 1:07 | 2021-08-30 | 2024-09-21 |
 | [Supernatural](https://open.spotify.com/track/5WaCJ1h3VGVdMbcqSherY5) | [MusicClubKids!](https://open.spotify.com/artist/0swDLHqK8p8VqaUz8aR83w), [Sam Moran](https://open.spotify.com/artist/5hOJDPDGtR4hTrIyhO1OJq) | [Songs From The Hit Show \- Season One: Extra Seasoning](https://open.spotify.com/album/0Cjk4BEjRpMp2ZWNmAfPNq) | 3:06 | 2023-10-02 |  |
 | [The Human Bash](https://open.spotify.com/track/5ErlOvdivAtm0X4ahT8MyT) | [Billy Kelly](https://open.spotify.com/artist/090ICuz3ufLFq7nIWZD9tQ) | [Ha Ha Halloween](https://open.spotify.com/album/2zn94cpcSZ5qkbZnOfMB4J) | 2:19 | 2024-09-20 | 2024-10-06 |
-| [The Monster Jive](https://open.spotify.com/track/6hLPVenFMzwng4DNScuuaR) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Halloween Kids Party With Little Baby Bum](https://open.spotify.com/album/3w0ggqSNDMTURl4QUMOkbW) | 1:58 | 2021-09-24 |  |
+| [The Monster Jive](https://open.spotify.com/track/6hLPVenFMzwng4DNScuuaR) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Halloween Kids Party With Little Baby Bum](https://open.spotify.com/album/3w0ggqSNDMTURl4QUMOkbW) | 1:58 | 2021-09-24 | 2024-10-09 |
 | [The Monsters In The House](https://open.spotify.com/track/152Kq3c7NK2JUbvTkmtND4) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [Halloween With CoComelon](https://open.spotify.com/album/2BkpwLT0nO6fZQyOcYcILu) | 2:04 | 2021-10-04 |  |
 | [The Munster's Theme](https://open.spotify.com/track/0BuXHYNppINIXDWRT79BtC) | [The Happy Racers](https://open.spotify.com/artist/16W82BsAi9twBb2dPWKZRt) | [A Scary Very Halloween](https://open.spotify.com/album/7JhfiWlYRO2H0dz2q6apKy) | 2:06 | 2021-09-24 | 2024-09-21 |
 | [The Munsters](https://open.spotify.com/track/1IEOi2GC4hJX5FndFHLXv5) | [Columbia River Group Entertainment](https://open.spotify.com/artist/2dPE3yMpMCMw2SjUZYUzw1) | [Halloween Party](https://open.spotify.com/album/0u6EVSGdOYoYOgiLzGgZrR) | 1:00 | 2022-10-11 | 2022-11-13 |

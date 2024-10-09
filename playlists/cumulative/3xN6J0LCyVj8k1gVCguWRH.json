@@ -74849,6 +74849,24 @@
     },
     {
       "album": {
+        "name": "WORST THING",
+        "url": "https://open.spotify.com/album/4qApsma8HyCAnJ27LbSuIM"
+      },
+      "artists": [
+        {
+          "name": "Veldor",
+          "url": "https://open.spotify.com/artist/0HeG2fU31u2dMh2K82WqLc"
+        }
+      ],
+      "date_added": "2024-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129600,
+      "name": "WORST THING",
+      "url": "https://open.spotify.com/track/5bzAPG8jGfPLN77q49FvMQ"
+    },
+    {
+      "album": {
         "name": "Worth It",
         "url": "https://open.spotify.com/album/3xncuNtIfCjGqQTfZLzKEZ"
       },

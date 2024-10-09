@@ -4,7 +4,7 @@
 
 > Chill Korean tunes that's perfect with your latte or americano\. \(카페와 어울리는 편안한 음악들을 감상하세요.\)
 
-314 songs - 17 hr 39 min
+315 songs - 17 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [After Love \(feat\. Han Yo Han\)](https://open.spotify.com/track/6Abz3v8mRTS9NJlyzLQIID) | [PATEKO](https://open.spotify.com/artist/0J372uvAXbRjLFSoAVE2lp), [Jayci yucca](https://open.spotify.com/artist/6yFuoRFCsxQLasjZqdwvAM), [Kid Wine](https://open.spotify.com/artist/4AUvnqezrLIzhkWD7TuICb), [Han Yo Han](https://open.spotify.com/artist/0yHrFzi7dWriMWhB5XA99P) | [After Love](https://open.spotify.com/album/4vAmITEtZcLh6BoB4THvcz) | 3:08 | 2023-01-26 | 2023-02-15 |
 | [AFTER THE LIGHT](https://open.spotify.com/track/7CAlzZZI89CpcNgw0rTIHh) | [YEJUN](https://open.spotify.com/artist/44YDdiwbvzPtVvKOA6uWS7) | [AFTER THE LIGHT](https://open.spotify.com/album/0o5EHrWY8OhObL2HwHNGpv) | 3:14 | 2022-04-12 | 2022-04-21 |
 | [Again & Again \(Feat\. KOYO\)](https://open.spotify.com/track/3pOCftI6A1ZceurvICxvR5) | [Leo](https://open.spotify.com/artist/6KutX9uKzjgR3A2xoJjfPf), [KOYO](https://open.spotify.com/artist/14eB522leOXARuY6M8Gxcz) | [Again & Again](https://open.spotify.com/album/0oJIfKWMMa5hTsPRwSbv8r) | 2:52 | 2023-01-10 | 2023-01-26 |
+| [All Day](https://open.spotify.com/track/4E9kCEWanRaTiaMlyCni7M) | [Kim Seungmin](https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ), [Layone](https://open.spotify.com/artist/2TTGZUWJg6LIOWsmCEgKCZ) | [All Day \(Better Days X Kim Seungmin, Layone\)](https://open.spotify.com/album/3WjMueXXGPIu7VmSQlFzjV) | 3:19 | 2024-10-08 |  |
 | [Alright!](https://open.spotify.com/track/667jaqJRDzuPxumZyNhOwu) | [Juju B\. Goode](https://open.spotify.com/artist/5PLxgBMZxMf8px0EfhgOiY), [HOHYUN](https://open.spotify.com/artist/15QTZYWWbRmiII0wpKIAmu) | [Alright!](https://open.spotify.com/album/0O6RkM76lLkKaY2HhbdGwO) | 3:04 | 2022-04-21 | 2022-07-29 |
 | [Angel](https://open.spotify.com/track/6O5mgpq2xv3ZQGXnL3TNVW) | [Chancellor](https://open.spotify.com/artist/0u06YeydlBk3awnk5KgdBx), [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Angel](https://open.spotify.com/album/41Vwyh4EilNUDh7Nj0Au2S) | 4:24 | 2022-04-12 | 2022-07-29 |
 | [Angel \(feat\. TAEYEON\)](https://open.spotify.com/track/2bNTtfRuUYgt32fe1X2zaD) | [Chancellor](https://open.spotify.com/artist/0u06YeydlBk3awnk5KgdBx), [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Angel](https://open.spotify.com/album/75p1IsJ8OoM61yE9b6jOhs) | 4:24 | 2022-07-22 | 2024-04-19 |
@@ -95,7 +96,7 @@
 | [Galaxy](https://open.spotify.com/track/4rPjTIrBYoKxAHmvUWAnzL) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Red Planet](https://open.spotify.com/album/542QtMitEljjZder0vhYKz) | 3:33 | 2022-04-21 | 2022-06-05 |
 | [Girl, River \(feat\. Tamiz\)](https://open.spotify.com/track/1mVOSArJrcBS0ruOaHVMqK) | [WEN](https://open.spotify.com/artist/0FXbobEfUaIn6Z95FSJBIE), [Tamiz](https://open.spotify.com/artist/2tbM2jTJQHly5lS3XUvZ3f) | [Girl, River \(feat\. Tamiz\)](https://open.spotify.com/album/4mUhnVHvEaTwu3yVfX7ede) | 3:19 | 2022-06-20 | 2022-06-26 |
 | [Gloomy Star \(feat\. 1ho & Chan\)](https://open.spotify.com/track/2MQmvEq9tH7crlSCuIvwKI) | [Airman](https://open.spotify.com/artist/0GTBwQZcSJid6l5iwaWQ8E), [1ho](https://open.spotify.com/artist/6H9BOh1aFTuoa6xFMV3z8g), [Chan](https://open.spotify.com/artist/5Jte273iLRGrRRMA5yJy3F) | [Morning Diaries EP 1](https://open.spotify.com/album/1Caan3Q8QWlPH81ZxuG1bz) | 3:07 | 2022-04-12 |  |
-| [Good Morning](https://open.spotify.com/track/6lO6FeCzThbz1UmXCLLUlr) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Hello, World \- The 4th Mini Album](https://open.spotify.com/album/6t6uh1uD01cnqef1Y7NVxA) | 3:23 | 2024-09-06 |  |
+| [Good Morning](https://open.spotify.com/track/6lO6FeCzThbz1UmXCLLUlr) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Hello, World \- The 4th Mini Album](https://open.spotify.com/album/6t6uh1uD01cnqef1Y7NVxA) | 3:23 | 2024-09-06 | 2024-10-09 |
 | [good1ife](https://open.spotify.com/track/68HKEP1hUGgWUDFEptT31F) | [J'Kyun](https://open.spotify.com/artist/0WIKW2eVuPbK5vQ0AIDtMQ), [Marco](https://open.spotify.com/artist/2ICc0GizInje0MEB4tSJCh) | [good1ife](https://open.spotify.com/album/5ApJByz6OpJdSKw8mSMlyi) | 2:57 | 2023-01-26 | 2023-02-15 |
 | [Got U](https://open.spotify.com/track/1y4h8bOTQWK7wxtczxy9wx) | [JUNE](https://open.spotify.com/artist/0HXCe7R2f1Us5bAW7ohMC6) | [LUV SIGN](https://open.spotify.com/album/70i48Nmz9CvSHcBLZDuEj6) | 3:45 | 2022-10-14 | 2022-11-03 |
 | [gr8](https://open.spotify.com/track/0BsQtnv3ch7w64B52ik72W) | [Llwyd](https://open.spotify.com/artist/3KgcgM87HRDj5fXNFFFDM0) | [gr8](https://open.spotify.com/album/4XrJYiy91zJZnYNMYPCUnU) | 2:38 | 2022-07-04 | 2022-07-23 |

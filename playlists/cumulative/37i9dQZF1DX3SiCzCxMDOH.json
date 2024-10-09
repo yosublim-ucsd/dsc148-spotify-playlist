@@ -1024,7 +1024,7 @@
       ],
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-09",
       "duration_ms": 328810,
       "name": "All the Stars",
       "url": "https://open.spotify.com/track/3lNR1Rzlvew7A6lyPEKDEk"
@@ -1976,7 +1976,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-09",
       "duration_ms": 170495,
       "name": "Blue Velvet",
       "url": "https://open.spotify.com/track/5Ne8Wx5YnewMjwuCjZWd83"
@@ -3856,7 +3856,7 @@
       ],
       "date_added": "2024-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-09",
       "duration_ms": 195231,
       "name": "Featherlight",
       "url": "https://open.spotify.com/track/3nWm3nnIZio7LaEaXKzRGK"
@@ -4414,7 +4414,7 @@
       ],
       "date_added": "2024-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-09",
       "duration_ms": 372149,
       "name": "Friday Afternoon",
       "url": "https://open.spotify.com/track/1jilxm4NFTfMko4DUgVt7F"
@@ -7481,6 +7481,24 @@
     },
     {
       "album": {
+        "name": "Lighten Up Dreams",
+        "url": "https://open.spotify.com/album/2tgjTC0KIed5hz9Qrhrmp4"
+      },
+      "artists": [
+        {
+          "name": "Diminished Fusion",
+          "url": "https://open.spotify.com/artist/13Anjo6ZdAzx6h71JaMYso"
+        }
+      ],
+      "date_added": "2024-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236415,
+      "name": "Lighten Up Dreams",
+      "url": "https://open.spotify.com/track/6g63N2FQjWnQWFK7hSXK6e"
+    },
+    {
+      "album": {
         "name": "Lola and Kirby",
         "url": "https://open.spotify.com/album/7fqu9OmxRkQ9Vsmlj2xaKi"
       },
@@ -8428,7 +8446,7 @@
       ],
       "date_added": "2022-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-09",
       "duration_ms": 211347,
       "name": "Midday Walk",
       "url": "https://open.spotify.com/track/1rgG63Kci1aVlCCxFjQ4ci"
@@ -9188,6 +9206,24 @@
       "duration_ms": 156000,
       "name": "My Ship",
       "url": "https://open.spotify.com/track/6LfNBoBMp1pJtnm2VQm0gy"
+    },
+    {
+      "album": {
+        "name": "My Special Waltz",
+        "url": "https://open.spotify.com/album/5C6s63fnTb9BBMIBmJ7hvA"
+      },
+      "artists": [
+        {
+          "name": "Irvin Smith Group",
+          "url": "https://open.spotify.com/artist/4SL7KeObcdWbpCRzEKlhCJ"
+        }
+      ],
+      "date_added": "2024-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159085,
+      "name": "My Special Waltz",
+      "url": "https://open.spotify.com/track/2gAXDPR92WmrdhJBJWyKGY"
     },
     {
       "album": {
@@ -10649,6 +10685,24 @@
     },
     {
       "album": {
+        "name": "Rings",
+        "url": "https://open.spotify.com/album/0ppGENHJJybWJm8AauZlL6"
+      },
+      "artists": [
+        {
+          "name": "Glass Trio",
+          "url": "https://open.spotify.com/artist/2RfscHz3ooemLWvQslMeqm"
+        }
+      ],
+      "date_added": "2024-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215962,
+      "name": "Rings",
+      "url": "https://open.spotify.com/track/37ikivEOR5mMYes9Lx7X6y"
+    },
+    {
+      "album": {
         "name": "Ripples of a Stream",
         "url": "https://open.spotify.com/album/6syN509qNmAdMDqL9X6mm3"
       },
@@ -10916,6 +10970,24 @@
       "duration_ms": 234706,
       "name": "September Waltz",
       "url": "https://open.spotify.com/track/3duqLrVlkcoxAyoSKGDKBB"
+    },
+    {
+      "album": {
+        "name": "September Wind",
+        "url": "https://open.spotify.com/album/45WFC6dvpwiqGN4pTXrfMl"
+      },
+      "artists": [
+        {
+          "name": "Trio Del Norte",
+          "url": "https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO"
+        }
+      ],
+      "date_added": "2024-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 382519,
+      "name": "September Wind",
+      "url": "https://open.spotify.com/track/6AWJW2j6yLLsn0f4mfm78t"
     },
     {
       "album": {
@@ -12368,7 +12440,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-09",
       "duration_ms": 214503,
       "name": "Tap on my Door",
       "url": "https://open.spotify.com/track/4ezJCCD1FWm2VcCH8HM3zA"
@@ -13887,6 +13959,24 @@
     },
     {
       "album": {
+        "name": "Until Next Time",
+        "url": "https://open.spotify.com/album/59us8LdqXgvfW6JPo1x4WM"
+      },
+      "artists": [
+        {
+          "name": "Adrian Berg",
+          "url": "https://open.spotify.com/artist/1phUimQWJsdDP0xu7KXYnt"
+        }
+      ],
+      "date_added": "2024-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190500,
+      "name": "Until Next Time",
+      "url": "https://open.spotify.com/track/4eNupeNIVl9QUodeqss3JV"
+    },
+    {
+      "album": {
         "name": "Unveiling the Mysteries",
         "url": "https://open.spotify.com/album/45433mfYJExWGX0PirdOGo"
       },
@@ -14150,7 +14240,7 @@
       ],
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-09",
       "duration_ms": 214940,
       "name": "Waltz At Midnight",
       "url": "https://open.spotify.com/track/6fmBZeSeM8Cp4mNivC7AGT"

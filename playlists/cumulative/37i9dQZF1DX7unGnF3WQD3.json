@@ -2541,6 +2541,32 @@
     },
     {
       "album": {
+        "name": "Humo Trankilizante",
+        "url": "https://open.spotify.com/album/7aHluAmtObnVhmbEyjYeqs"
+      },
+      "artists": [
+        {
+          "name": "Sangre X Sangre",
+          "url": "https://open.spotify.com/artist/4vsYsjLDww5ulHaAH5vrew"
+        },
+        {
+          "name": "Joe Parra",
+          "url": "https://open.spotify.com/artist/4LNplGwxBLbTCrVdxnTmOR"
+        },
+        {
+          "name": "Hijos De Leyva",
+          "url": "https://open.spotify.com/artist/2goxk1aXm6T4yopaZe5tHe"
+        }
+      ],
+      "date_added": "2024-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152380,
+      "name": "Humo Trankilizante",
+      "url": "https://open.spotify.com/track/3JYtGA0di1b9DHvG6j7fcJ"
+    },
+    {
+      "album": {
         "name": "In My Mind",
         "url": "https://open.spotify.com/album/1c79SozES9Eb3Lzf9KVaIa"
       },
@@ -4326,6 +4352,10 @@
           "url": "https://open.spotify.com/artist/1QywhHFJc6ix4XLDOUQVNE"
         },
         {
+          "name": "DIRETO DO ALTO",
+          "url": "https://open.spotify.com/artist/35WZxoqrn0KEUfUsySXPAL"
+        },
+        {
           "name": "Mc CAITAN",
           "url": "https://open.spotify.com/artist/6WCE7KaGxvEI0wHhJDsxUx"
         },
@@ -4508,7 +4538,7 @@
       ],
       "date_added": "2024-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-09",
       "duration_ms": 139235,
       "name": "Mtg Seu Batom Vermelho",
       "url": "https://open.spotify.com/track/2Lre1QtwxZYgG6lggcAU9M"

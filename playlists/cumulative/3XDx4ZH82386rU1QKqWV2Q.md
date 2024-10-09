@@ -4,7 +4,7 @@
 
 > best sigma male \- sigma workout \- sad sigma songs
 
-636 songs - 1 day 3 hr 14 min
+639 songs - 1 day 3 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [BALLERINA](https://open.spotify.com/track/78AN1oOI3yGW8jr0N7uGgN) | [BRADWTF](https://open.spotify.com/artist/1KxfBHx2BSdk25sDjmykt4), [9LIVES](https://open.spotify.com/artist/14zyCokqdd5rltFNfE6jTL) | [BALLERINA](https://open.spotify.com/album/1fa3QuLqaaXeY5TIPGVkL2) | 3:22 | 2023-07-06 | 2023-12-14 |
 | [BATSH!T](https://open.spotify.com/track/2ovN25hJdLKljhBDb3LuUg) | [cade clair](https://open.spotify.com/artist/0647ep4AirMtU3Iq9YcBXm) | [BATSH!T](https://open.spotify.com/album/06yR9hkbHlVRnOmPWfdefN) | 1:26 | 2024-03-08 |  |
 | [BATTERED](https://open.spotify.com/track/4RpDm41WAJCGZ7MoVqGxr2) | [MUPP](https://open.spotify.com/artist/7B9Gg9epjQzfNGdxijFczG), [glichery](https://open.spotify.com/artist/7xD76cR2sg2mAH29zBGnks) | [BATTERED](https://open.spotify.com/album/4IcBcb1v7U18kioUMrWkmf) | 1:34 | 2024-02-02 | 2024-03-07 |
+| [Beautiful Day](https://open.spotify.com/track/6R2qWja1mSvUWowJYGkwb9) | [Silence Decibel and Colors](https://open.spotify.com/artist/0cAo2MDp2DEdO1ecqfSL65) | [Beautiful Day](https://open.spotify.com/album/4FVDEY1p359v8u8agzF4G8) | 2:53 | 2024-10-08 |  |
 | [been a good run](https://open.spotify.com/track/60JCvHRlzZwuk3TLnOY8YH) | [Nateki](https://open.spotify.com/artist/3g0UoyvaTaHUrfpHiRqsD1) | [been a good run](https://open.spotify.com/album/5boyqYSH73V2p6m9Gvj6Mw) | 2:41 | 2023-08-09 | 2023-08-20 |
 | [Behold](https://open.spotify.com/track/3BtNAFcUjrqsrtjdiPsrpU) | [DeltaRhoGamma](https://open.spotify.com/artist/5LOIwV8Do1Ko5Mtfco3sdN) | [Tower of Sapphire](https://open.spotify.com/album/3SwEYu0VfShMtJfYfrSCj0) | 5:12 | 2024-09-12 |  |
 | [BIBI PHONK BR](https://open.spotify.com/track/1ytfbcVbSMHIgzijgt4z2e) | [Bibi Babydoll](https://open.spotify.com/artist/6R26kGib2ubbZJMh7kKVGV), [DJ FKU](https://open.spotify.com/artist/3QMpCp3GHiHXgnX1LldXWe) | [BIBI PHONK BR](https://open.spotify.com/album/4cfBuRZw1az5lIdTYxuOPq) | 1:59 | 2023-12-16 | 2024-01-19 |
@@ -279,6 +280,7 @@
 | [I WANNA](https://open.spotify.com/track/79mGxnhjvIAkKIZY3mLuQT) | [Ricii Lompeurs](https://open.spotify.com/artist/4QfP8q2uWxpH3iZFkwDI7b), [HAYASA G](https://open.spotify.com/artist/6L5WgMUzw10WPxDk0o8ghs), [KROUN](https://open.spotify.com/artist/6QFw5Pj7G3khqWQCMeBhzH) | [I WANNA](https://open.spotify.com/album/5nP3ZIT0tyzvsY7aGKZJc2) | 2:07 | 2023-08-19 | 2023-09-26 |
 | [I'M SCARED](https://open.spotify.com/track/2h8covQvaeF12Yx7O34fgK) | [MONOWIRE](https://open.spotify.com/artist/0ssyYSlMlTH7CWxonEhr12) | [I'M SCARED](https://open.spotify.com/album/3A0at6P64jQ147kDlc13l6) | 1:41 | 2024-01-23 | 2024-03-07 |
 | [IDONTWANNAWAKEUP](https://open.spotify.com/track/6y5KtAkEYBZE8VQY4y3Iw6) | [Killhollow](https://open.spotify.com/artist/3mZDbuKlvYt5z4forbtZX9), [Skill Syrup](https://open.spotify.com/artist/7FvspmKAf0OXZbxx2A15hW) | [IDONTWANNAWAKEUP](https://open.spotify.com/album/01pnnJ4Ls3pQsCnJTOWd5R) | 2:44 | 2023-08-29 | 2023-09-26 |
+| [Imagination](https://open.spotify.com/track/4booK8W8cdoXaEZmki1Fz7) | [Todd0](https://open.spotify.com/artist/0sdezSy9XCGEZdAwNQVb1H) | [Nothing Here Is Going to Make Sense](https://open.spotify.com/album/4CDGkw5pA7ullz6gUGTEDK) | 2:02 | 2024-10-08 |  |
 | [IMMACULATE](https://open.spotify.com/track/5Txeau6Fi96zS4THXUJ4w7) | [VISXGE](https://open.spotify.com/artist/6kLsCQ1gKvJmjmC8XbfqFE) | [IMMACULATE](https://open.spotify.com/album/4dWpLZBzW0M5FG3H3nbtTt) | 2:20 | 2023-06-12 |  |
 | [in here but not of here \- Sped Up](https://open.spotify.com/track/0Xs8xtisJB1eUNiQ5anaLa) | [Alex Galli](https://open.spotify.com/artist/7E5VvoxYlaeHeEphQXtpHR) | [in here but not of here \(Sped Up\)](https://open.spotify.com/album/1MkHqIUkK4AohTCnSD1BJT) | 3:11 | 2023-06-22 | 2023-07-11 |
 | [in my dreams](https://open.spotify.com/track/6XtTHfuTaOgCvZUmnNkczE) | [Kareful](https://open.spotify.com/artist/7y4breKexfBWgdyMgHMEHK), [pale fortress](https://open.spotify.com/artist/1j34wbS4gwSUjpvrik7epS) | [in my dreams](https://open.spotify.com/album/4aJRiQUFVaPiiBgVlul1SF) | 2:12 | 2024-07-20 | 2024-09-28 |
@@ -600,6 +602,7 @@
 | [Unmotivated Friend](https://open.spotify.com/track/5rEuyTLB1g1swZzOyqoWIM) | [PastaYaY](https://open.spotify.com/artist/6LNPQ0O6HXCPhElv5sHwo5), [A Treeager](https://open.spotify.com/artist/3iTxJvwN6emQeiwU5YMF8A) | [Unmotivated Friend](https://open.spotify.com/album/1qIgTTUQwOkPykbYFD0mvZ) | 4:49 | 2023-08-19 | 2023-09-26 |
 | [Uno Miau](https://open.spotify.com/track/4u7IduQe87WDuaHAoVf0pX) | [Juicy Wilde](https://open.spotify.com/artist/7BQOZ2S3XaJIrdrVnyfu4M) | [Uno Miau](https://open.spotify.com/album/2BNiLe66S83jGe2NfyDgb1) | 2:06 | 2024-04-23 | 2024-06-03 |
 | [Untitled \#13 \(Super Slowed\)](https://open.spotify.com/track/3fC7BKJN66Tyq44x6Try2R) | [glwzbll](https://open.spotify.com/artist/4xNuIo74R6m1eXaz7RlpZ6) | [Untitled \#13 \(Super Slowed\)](https://open.spotify.com/album/5a9uibuVUtMag0L3Fo8gkQ) | 3:12 | 2024-01-18 |  |
+| [URLIKEDRUGS.mp3](https://open.spotify.com/track/1wzOrBT9okDMkHMMnCLzXA) | [Cove](https://open.spotify.com/artist/2uzni49qw8y2lsakv1qTwO) | [URLIKEDRUGS.mp3](https://open.spotify.com/album/1VPhVOdmlMTRHj7ABJfLg7) | 2:56 | 2024-10-08 |  |
 | [VAI TOMA TOMA](https://open.spotify.com/track/5ZkuYa8qJ30kE8FHaPcpu6) | [Purpose 115](https://open.spotify.com/artist/5DdqAjdwTxE8d3XHxg0Ro9), [Launch13](https://open.spotify.com/artist/3TgsOVvQlRt3sBrIhQ7U9k) | [VAI TOMA TOMA](https://open.spotify.com/album/7kwSpbhBBUQmEMRD14KnbV) | 2:42 | 2023-09-17 | 2023-12-14 |
 | [VAI VAI](https://open.spotify.com/track/3XinTZQvjSuSDXoEzvUW2B) | [WZ Beat](https://open.spotify.com/artist/7hL2l7lWkA75BpTp7bPEt9), [Mc Rd](https://open.spotify.com/artist/6ugw7JCu0AG7txRcRAxU8d), [HXDES](https://open.spotify.com/artist/70bgV7fa5H6sTah58wm73l) | [VAI VAI](https://open.spotify.com/album/62B1wOffrdbzASIKz4c2nh) | 1:18 | 2023-12-24 | 2024-02-10 |
 | [Valentine](https://open.spotify.com/track/1WNmq4aQHuwMrAjwlFE2Ew) | [99HeartBreak](https://open.spotify.com/artist/5Kx0kw5Q5N9Jut9hGD50xS) | [Sad Eyes](https://open.spotify.com/album/16IKC0p2XMIL52IOMayVWT) | 2:34 | 2023-08-09 | 2023-09-01 |

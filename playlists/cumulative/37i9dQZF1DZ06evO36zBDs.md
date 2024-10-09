@@ -2,7 +2,7 @@
 
 ### [This Is ClariS](https://open.spotify.com/playlist/37i9dQZF1DZ06evO36zBDs)
 
-> This is ClariS。アーティストの代表曲をひとつのプレイリストに。
+> This is ClariS\. The essential tracks, all in one playlist.
 
 103 songs - 7 hr 9 min
 

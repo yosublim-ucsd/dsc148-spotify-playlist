@@ -4,7 +4,7 @@
 
 > Objectively good music
 
-1,000 songs - 2 day 13 hr 20 min
+1,004 songs - 2 day 13 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -495,6 +495,7 @@
 | [Liar](https://open.spotify.com/track/7EUhSxz4srS8pqh1cENbLB) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [This Is Why](https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB) | 4:21 | 2023-02-15 |  |
 | [Library Pictures](https://open.spotify.com/track/0qfGWpvJGlp17wdTm19ioK) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Suck It and See](https://open.spotify.com/album/2ym2jcqckXqWeTDoxz3Kst) | 2:22 | 2020-09-07 |  |
 | [Life Of The Party \(with André 3000\)](https://open.spotify.com/track/7n4YpQcocaRfXRlEl07klO) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [André 3000](https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6) | [Life Of The Party](https://open.spotify.com/album/46BlnKQOwYucGwNHJmj2g3) | 6:31 | 2021-11-15 |  |
+| [Lifespan](https://open.spotify.com/track/5etCueRMjMczmuy424b43C) | [Reno](https://open.spotify.com/artist/46hSwkXAwKPcVxnh5vdJCV) | [123](https://open.spotify.com/album/6RrY59NHgNwUJ2VMpmfPL0) | 3:35 | 2024-10-09 |  |
 | [like i would](https://open.spotify.com/track/2lCUoWFO0w0XFlRnC1W6Os) | [S\-X](https://open.spotify.com/artist/0JYmighF3zbuA81Di54CZN) | [things change](https://open.spotify.com/album/3NxDEbOY9ch3YSqLh8duBs) | 2:56 | 2022-07-29 |  |
 | [Lips Like Yours](https://open.spotify.com/track/4f0JqdYNJaPb6F2RiKGyAr) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [From 2 to 3](https://open.spotify.com/album/291A3Ud0sbMSfmG48k6GQY) | 3:03 | 2022-03-04 |  |
 | [List Of People \(To Try And Forget About\)](https://open.spotify.com/track/01iiEi9h8CQGUN2K1xBbTj) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Currents B\-Sides & Remixes](https://open.spotify.com/album/04uXkrNhFJ1iWEo88MGPva) | 4:39 | 2021-04-15 |  |
@@ -606,6 +607,7 @@
 | [Old Yellow Bricks](https://open.spotify.com/track/5KGbRvZyVyKP2AEJMHErB4) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Favourite Worst Nightmare](https://open.spotify.com/album/1XkGORuUX2QGOEIL4EbJKm) | 3:13 | 2021-08-20 |  |
 | [Oldies Station](https://open.spotify.com/track/7dI0mSvbdJTynUnEkWIom1) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Clancy](https://open.spotify.com/album/1KFWgQTw3EMTQebaaepVBI) | 3:48 | 2024-05-23 |  |
 | [On and On](https://open.spotify.com/track/1fu5qkCu7pml0LGbSxgRQ6) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [DECIDE](https://open.spotify.com/album/5rJBH4rmxpqXaDf8E1Mgse) | 4:03 | 2022-09-17 |  |
+| [On Me](https://open.spotify.com/track/3rLU7Alpd2CtqKZ3S2M3vV) | [Reno](https://open.spotify.com/artist/46hSwkXAwKPcVxnh5vdJCV) | [123](https://open.spotify.com/album/6RrY59NHgNwUJ2VMpmfPL0) | 4:10 | 2024-10-09 |  |
 | [On Time \(with John Legend\)](https://open.spotify.com/track/0YFqKxV9uNu6LUeYkLOKRS) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [HEROES & VILLAINS](https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP) | 2:48 | 2023-02-13 |  |
 | [On Track](https://open.spotify.com/track/0IuE6FnXPCdZ8NLuuvJRhb) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [The Slow Rush](https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL) | 5:01 | 2020-02-13 |  |
 | [One Beer](https://open.spotify.com/track/4BnrGx9tWNF8aiXl1UhDBa) | [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL) | [MM..FOOD](https://open.spotify.com/album/1UcS2nqUhxrZjrBZ3tHk2N) | 4:18 | 2024-06-17 |  |
@@ -669,6 +671,7 @@
 | [Quand Les Larmes D'un Ange Font Danser La Neige](https://open.spotify.com/track/0DqqGQTOIpPTRfmqwe9Yr2) | [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X) | [Bon Voyage](https://open.spotify.com/album/2ejxvsjo229Jnsnluek1zZ) | 7:07 | 2024-06-17 |  |
 | [Quand Vas Tu Rentrer ?](https://open.spotify.com/track/00YnfZzpODxlE6nNwfPCbv) | [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X) | [Melody's Echo Chamber](https://open.spotify.com/album/2tvHcQfvtXvmFHIGyBiPVt) | 4:20 | 2023-01-09 |  |
 | [Quaranta](https://open.spotify.com/track/7GqzDT97Bnn9MfGDYIWkrY) | [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU) | [Quaranta](https://open.spotify.com/album/2aswMmRN4vXGalI39pDsMb) | 2:39 | 2023-11-17 |  |
+| [Quite Like Me](https://open.spotify.com/track/6rO0Dwn9djBrVWm016h65r) | [Reno](https://open.spotify.com/artist/46hSwkXAwKPcVxnh5vdJCV) | [123](https://open.spotify.com/album/6RrY59NHgNwUJ2VMpmfPL0) | 4:22 | 2024-10-09 |  |
 | [R U Mine?](https://open.spotify.com/track/2AT8iROs4FQueDv2c8q2KE) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu) | 3:21 | 2020-10-13 |  |
 | [Rainbow](https://open.spotify.com/track/6buQeGlk47QiPVoPObaZ7x) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Neon Pill](https://open.spotify.com/album/2dGlEut1TyhAyApZ0ADIsd) | 3:15 | 2024-05-17 |  |
 | [Raindrops \(Insane\) \[with Travis Scott\]](https://open.spotify.com/track/1pacwLXyRO47ka0v6LTIiY) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [HEROES & VILLAINS](https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP) | 3:08 | 2023-02-13 |  |
@@ -979,6 +982,7 @@
 | [Whiplash](https://open.spotify.com/track/3ubwpGT0gJYI9MRJcZPP0f) | [Theophilus London](https://open.spotify.com/artist/4EMtGVFvfCSrEmWaGV0roE), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Bebey](https://open.spotify.com/album/31e6kRTlCq4KGjg3XA6m5K) | 2:50 | 2024-06-17 |  |
 | [Whistle For The Choir](https://open.spotify.com/track/3rXCnvL6xP83VsYUg4rm7e) | [The Fratellis](https://open.spotify.com/artist/3M4ThdJR28z9eSMcQHAZ5G) | [Costello Music](https://open.spotify.com/album/7avNT7QnpWXl1Khqnsguaw) | 3:35 | 2024-08-08 |  |
 | [WHO CARES?](https://open.spotify.com/track/1SKN0qfmaLESOcr9rV9kvn) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [WHO CARES?](https://open.spotify.com/album/2yI4m5Yu2tl8v0It5P9WVz) | 2:29 | 2022-04-29 |  |
+| [Who I Am](https://open.spotify.com/track/2ezewSeiABfCDeNSmV0XN7) | [Reno](https://open.spotify.com/artist/46hSwkXAwKPcVxnh5vdJCV) | [123](https://open.spotify.com/album/6RrY59NHgNwUJ2VMpmfPL0) | 1:26 | 2024-10-09 |  |
 | [Who The Fuck Are Arctic Monkeys?](https://open.spotify.com/track/05FVS9qqWq2A82fYCtblkt) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Who The F\*\*\* Are Arctic Monkeys?](https://open.spotify.com/album/3tEGBDGnejHf4mx1YSqKnb) | 5:36 | 2020-04-16 |  |
 | [Why Did I Laugh Anyway](https://open.spotify.com/track/6djLGpfM8gPfaENZK5CvqL) | [Dev Lemons](https://open.spotify.com/artist/5zbFRbEu3FDkqN4j1awLLO) | [Why Did I Laugh Anyway](https://open.spotify.com/album/3fX1AK2lHmZlTYQMRbmVI1) | 3:09 | 2024-05-10 |  |
 | [Why Won't They Talk To Me?](https://open.spotify.com/track/6IM45SqAURH6PrvziDs1RQ) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Lonerism](https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7) | 4:46 | 2020-10-27 |  |

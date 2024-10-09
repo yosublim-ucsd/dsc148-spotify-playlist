@@ -675,6 +675,36 @@
     },
     {
       "album": {
+        "name": "6 AM (Remix)",
+        "url": "https://open.spotify.com/album/6F48CWsyw5zFjKTgo7ctYq"
+      },
+      "artists": [
+        {
+          "name": "DJ KANJI",
+          "url": "https://open.spotify.com/artist/2pNpSANblSC6W1FgxkAAzN"
+        },
+        {
+          "name": "DJ NORIO",
+          "url": "https://open.spotify.com/artist/7apsZiyGYt9tyTMA0kvZDC"
+        },
+        {
+          "name": "Elle Teresa",
+          "url": "https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj"
+        },
+        {
+          "name": "thepini",
+          "url": "https://open.spotify.com/artist/2SX09mehDolXzvV3Sr3FfN"
+        }
+      ],
+      "date_added": "2024-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231860,
+      "name": "6 AM - Remix",
+      "url": "https://open.spotify.com/track/4MbfCeii95kC6UaEoqK7hs"
+    },
+    {
+      "album": {
         "name": "6 Years In The Game (feat. Awich)",
         "url": "https://open.spotify.com/album/1KvJrTQgijVXODRXF59v6K"
       },
@@ -1620,7 +1650,7 @@
       ],
       "date_added": "2024-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-09",
       "duration_ms": 226431,
       "name": "ASHITA HARERUKANA",
       "url": "https://open.spotify.com/track/5yprAJ691GmNh62OHEclb7"
@@ -3498,7 +3528,7 @@
       ],
       "date_added": "2024-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-09",
       "duration_ms": 176000,
       "name": "Cash Flow",
       "url": "https://open.spotify.com/track/7mf4LEiGjCOqVJX03SGz0r"
@@ -4360,7 +4390,7 @@
       ],
       "date_added": "2024-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-09",
       "duration_ms": 164327,
       "name": "CURIOUS (feat. Daiki Blunt & MuKuRo)",
       "url": "https://open.spotify.com/track/4Op4gWDbzAxldIqiDk7ywc"
@@ -4478,6 +4508,24 @@
       "duration_ms": 182823,
       "name": "Daily Meets",
       "url": "https://open.spotify.com/track/4CnsxpN4C6twk8ya9Wq6L8"
+    },
+    {
+      "album": {
+        "name": "Dance With Me",
+        "url": "https://open.spotify.com/album/5PQwDjqe2iz3Brdami9y40"
+      },
+      "artists": [
+        {
+          "name": "ziproom",
+          "url": "https://open.spotify.com/artist/4JQhz5ellBUiuDgSc4xcCX"
+        }
+      ],
+      "date_added": "2024-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 84906,
+      "name": "Dance With Me",
+      "url": "https://open.spotify.com/track/1DxgAwgYRisIF9b8GXV18B"
     },
     {
       "album": {
@@ -5759,6 +5807,24 @@
     },
     {
       "album": {
+        "name": "Filtration - EP",
+        "url": "https://open.spotify.com/album/1gDxaVq7gsFSBM3ZuZCmpY"
+      },
+      "artists": [
+        {
+          "name": "me2",
+          "url": "https://open.spotify.com/artist/1bLpAMszAGByoGRRVdZsuh"
+        }
+      ],
+      "date_added": "2024-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140984,
+      "name": "Dum Diggy Diggy Dumb",
+      "url": "https://open.spotify.com/track/3YlrZRgo6luyFmCeWc3CWO"
+    },
+    {
+      "album": {
         "name": "E:motion",
         "url": "https://open.spotify.com/album/2ex59EgMP9ixDw9gwEN7A6"
       },
@@ -6072,7 +6138,7 @@
       ],
       "date_added": "2024-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-09",
       "duration_ms": 191657,
       "name": "ESSAY",
       "url": "https://open.spotify.com/track/5ufr9zVGIwgkRQRI10R8dB"
@@ -7065,6 +7131,24 @@
     },
     {
       "album": {
+        "name": "Free My Bro$",
+        "url": "https://open.spotify.com/album/3gJCJYUmWdkyl0ZCFXUzcf"
+      },
+      "artists": [
+        {
+          "name": "18stop",
+          "url": "https://open.spotify.com/artist/7E8FyYmagU8PAzQU8dubMF"
+        }
+      ],
+      "date_added": "2024-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192857,
+      "name": "Free My Bro$",
+      "url": "https://open.spotify.com/track/2a757GXFm7NnwSpxLKfeLX"
+    },
+    {
+      "album": {
         "name": "ONLYS",
         "url": "https://open.spotify.com/album/6pEIrxa8bmtlxdI7xq0LiJ"
       },
@@ -7640,7 +7724,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-09",
       "duration_ms": 120000,
       "name": "GION",
       "url": "https://open.spotify.com/track/41ALSThgcFQ6gcedT1omHq"
@@ -9373,6 +9457,24 @@
     },
     {
       "album": {
+        "name": "output",
+        "url": "https://open.spotify.com/album/4qzthiR0J07QnHZ7V0FewA"
+      },
+      "artists": [
+        {
+          "name": "in-d",
+          "url": "https://open.spotify.com/artist/53Mz6ePoXI88zSbdiRavSo"
+        }
+      ],
+      "date_added": "2024-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170749,
+      "name": "Ice Coffee",
+      "url": "https://open.spotify.com/track/6vqQygur5n4Qn1eManPleT"
+    },
+    {
+      "album": {
         "name": "last summer with u",
         "url": "https://open.spotify.com/album/2FNUg5g51VGHlivE3Ni94Z"
       },
@@ -9984,6 +10086,24 @@
       "duration_ms": 137149,
       "name": "JET",
       "url": "https://open.spotify.com/track/7F3J8LeYIiuqYuGUvau3Jp"
+    },
+    {
+      "album": {
+        "name": "Jewelry No Yume",
+        "url": "https://open.spotify.com/album/5UT6oetGG48HO4rhDL9YWB"
+      },
+      "artists": [
+        {
+          "name": "Yatt",
+          "url": "https://open.spotify.com/artist/3EqsmFPUUnJDhDQ7GTdken"
+        }
+      ],
+      "date_added": "2024-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154474,
+      "name": "Jewelry No Yume",
+      "url": "https://open.spotify.com/track/5E0O1J0OBORcrxTbspLXQ1"
     },
     {
       "album": {
@@ -10778,6 +10898,32 @@
       "duration_ms": 176525,
       "name": "La La La",
       "url": "https://open.spotify.com/track/2H8UZvhgaEWf1mCIbT3TGA"
+    },
+    {
+      "album": {
+        "name": "Lamborghini",
+        "url": "https://open.spotify.com/album/5iJNClsmTMlDaBr2kTMLul"
+      },
+      "artists": [
+        {
+          "name": "TOME",
+          "url": "https://open.spotify.com/artist/118eRdycS98oyMFEl5xvbo"
+        },
+        {
+          "name": "DJ KANJI",
+          "url": "https://open.spotify.com/artist/2pNpSANblSC6W1FgxkAAzN"
+        },
+        {
+          "name": "Choppa Capone",
+          "url": "https://open.spotify.com/artist/6qYsothwQkj7FyzDhCj3Ez"
+        }
+      ],
+      "date_added": "2024-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182419,
+      "name": "Lamborghini",
+      "url": "https://open.spotify.com/track/63CZXO5Xfn1VAlxcjZznsW"
     },
     {
       "album": {
@@ -15594,7 +15740,7 @@
       ],
       "date_added": "2024-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-09",
       "duration_ms": 135653,
       "name": "Phantom",
       "url": "https://open.spotify.com/track/2WWnwoGYnOKu1dzNROaw3P"
@@ -16536,7 +16682,7 @@
       ],
       "date_added": "2024-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-09",
       "duration_ms": 177676,
       "name": "Re:arrange",
       "url": "https://open.spotify.com/track/1fgvQQCMHH8PdYNgkGtRTy"
@@ -17565,6 +17711,28 @@
     },
     {
       "album": {
+        "name": "Saggy jeans",
+        "url": "https://open.spotify.com/album/2TxbRarF8vdus89tcmU0sJ"
+      },
+      "artists": [
+        {
+          "name": "TOFU",
+          "url": "https://open.spotify.com/artist/2eCKRzPa2s6XLmdGZhBlnZ"
+        },
+        {
+          "name": "MIKADO",
+          "url": "https://open.spotify.com/artist/2snBLq7pgphB4ObS2otWiM"
+        }
+      ],
+      "date_added": "2024-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123866,
+      "name": "Saggy jeans",
+      "url": "https://open.spotify.com/track/5TGSbgZuwegw1E5vAXuQq2"
+    },
+    {
+      "album": {
         "name": "SAICO",
         "url": "https://open.spotify.com/album/4anpmAbMwcV3GZMRjX51JQ"
       },
@@ -17718,7 +17886,7 @@
       ],
       "date_added": "2024-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-09",
       "duration_ms": 192346,
       "name": "Say You Will",
       "url": "https://open.spotify.com/track/56wEo6sOf7EA1SJOZLOqCV"
@@ -17978,6 +18146,28 @@
       "duration_ms": 222610,
       "name": "September 2021",
       "url": "https://open.spotify.com/track/6ziRXaUUOx7GQmU69Cyvu7"
+    },
+    {
+      "album": {
+        "name": "THE MOMENT",
+        "url": "https://open.spotify.com/album/2wjjSBBaHdPdmd8x1WzxU7"
+      },
+      "artists": [
+        {
+          "name": "SUIKEN",
+          "url": "https://open.spotify.com/artist/1UYQLPC8PYjUq6xV5MwFMz"
+        },
+        {
+          "name": "Benjazzy",
+          "url": "https://open.spotify.com/artist/491qzCBIds12Ab7kNjlZMb"
+        }
+      ],
+      "date_added": "2024-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164533,
+      "name": "SEVEN EIGHT (conquer self)",
+      "url": "https://open.spotify.com/track/78coseENx2CWjwkFB7OrQy"
     },
     {
       "album": {
@@ -20208,7 +20398,7 @@
       ],
       "date_added": "2024-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-09",
       "duration_ms": 150386,
       "name": "Throwback",
       "url": "https://open.spotify.com/track/6wED6KQBXP6SHUhFylsN4f"
@@ -20346,6 +20536,36 @@
       "duration_ms": 156631,
       "name": "Tokyo Under Construction",
       "url": "https://open.spotify.com/track/5HbTUAaixA61HUb3U9zdbj"
+    },
+    {
+      "album": {
+        "name": "Tokyo Under Construction",
+        "url": "https://open.spotify.com/album/5raqAlHz5D6HnWlMgwQQl9"
+      },
+      "artists": [
+        {
+          "name": "DJ TANAKEN",
+          "url": "https://open.spotify.com/artist/2JbB2acDrN9qLBVPNVMP81"
+        },
+        {
+          "name": "Rino Latina II",
+          "url": "https://open.spotify.com/artist/6RdQUqN8PjAPmAK5zwz9Gh"
+        },
+        {
+          "name": "Mr.Q",
+          "url": "https://open.spotify.com/artist/0k5atrt32HHS6Mft61osmQ"
+        },
+        {
+          "name": "Mummy-D",
+          "url": "https://open.spotify.com/artist/1tDPDvqdllfPLjLhFFkocX"
+        }
+      ],
+      "date_added": "2024-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "Tokyo Under Construction (Remix)",
+      "url": "https://open.spotify.com/track/1kqNBDLkjTEm3EF7ABzItj"
     },
     {
       "album": {

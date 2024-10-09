@@ -2270,7 +2270,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-09",
       "duration_ms": 153524,
       "name": "Early Memories",
       "url": "https://open.spotify.com/track/0yAgdDXxal3Em3W4X1bkGq"
@@ -3286,7 +3286,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-09",
       "duration_ms": 159837,
       "name": "Gnossienne: No.1 (Satie Reworks) - Spotify Singles",
       "url": "https://open.spotify.com/track/2iADUGfIsYKXNmZtkxScdH"
@@ -3898,7 +3898,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-09",
       "duration_ms": 189750,
       "name": "Impromptu No. 1, Lukewarm Tea",
       "url": "https://open.spotify.com/track/1YNBtfhdSPKJlbD3tdERNx"
@@ -4712,7 +4712,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-09",
       "duration_ms": 155138,
       "name": "Like a Child",
       "url": "https://open.spotify.com/track/2J9UTgDdul3kMGZgnsUZIp"
@@ -6146,7 +6146,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-09",
       "duration_ms": 171071,
       "name": "Nocturnes op.4",
       "url": "https://open.spotify.com/track/6JVzX8BxLiG4WN3xkJZ3Xu"
@@ -6824,7 +6824,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-09",
       "duration_ms": 134500,
       "name": "Passage sombre",
       "url": "https://open.spotify.com/track/22wBRYNiY0W3Kl1Zk6hmAk"
@@ -7969,6 +7969,24 @@
     },
     {
       "album": {
+        "name": "Serenety Walz",
+        "url": "https://open.spotify.com/album/1ICvGPisW8N1u3Fd6lnnM2"
+      },
+      "artists": [
+        {
+          "name": "Leon Hartness",
+          "url": "https://open.spotify.com/artist/0QVs7sw7QMsyYK9Nj9zYwh"
+        }
+      ],
+      "date_added": "2024-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Serenety Walz",
+      "url": "https://open.spotify.com/track/4Iq7gulJD0YiUUyZAbeZ0w"
+    },
+    {
+      "album": {
         "name": "Shared Shelter",
         "url": "https://open.spotify.com/album/0s1hXlZf3ioJGkBzNKuQpQ"
       },
@@ -8808,7 +8826,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-09",
       "duration_ms": 165559,
       "name": "Study for Proun",
       "url": "https://open.spotify.com/track/6NAPBc3ZdmIgftLDkxyZ5C"
@@ -8866,7 +8884,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-09",
       "duration_ms": 127358,
       "name": "Sud",
       "url": "https://open.spotify.com/track/2AzcwB71umzu8W0jYlCiRA"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-21",
-  "description": "The best new music by independent African artists and labels. Cover:  <a href=\"https://open.spotify.com/artist/3WcXJ1FwSFJU88zc7vV9rz?si=-RCMvClJTQK05j3D_A5kFg\">Lusanda</a>. Artwork: Isu Kim. ",
+  "description": "The best new music by independent African artists and labels. Cover:  <a href=\"https://open.spotify.com/artist/10G2iWM2FoafpNGqXZ9QMR?si=FueqiOBhQoS3REISrR8ajQ\">KindlyNxsh</a>. Artwork: Isu Kim. ",
   "name": "Fresh Finds Africa",
   "tracks": [
     {
@@ -4872,6 +4872,24 @@
       "duration_ms": 171173,
       "name": "Doing U Better",
       "url": "https://open.spotify.com/track/7trZEJ00tghFf93kvkyb7S"
+    },
+    {
+      "album": {
+        "name": "Don't Braai Me (Soldier Man)",
+        "url": "https://open.spotify.com/album/72TWJ05rBZEe0EQTOcj77V"
+      },
+      "artists": [
+        {
+          "name": "KindlyNxsh",
+          "url": "https://open.spotify.com/artist/10G2iWM2FoafpNGqXZ9QMR"
+        }
+      ],
+      "date_added": "2024-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142153,
+      "name": "Don't Braai Me (Soldier Man)",
+      "url": "https://open.spotify.com/track/35J0wvREZ6snaBrDgO6yyM"
     },
     {
       "album": {
@@ -20378,7 +20396,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-09",
       "duration_ms": 244607,
       "name": "Wangu",
       "url": "https://open.spotify.com/track/17rkTOPJELyRofPM1MX3s3"

@@ -2,9 +2,9 @@
 
 ### [Electronii'K](https://open.spotify.com/playlist/37i9dQZF1DXdmJixlyx0rj)
 
-> New & best K\-Electronic music is here\. \(Cover: Peggy Gou\)
+> New & best K\-Electronic music is here\. \(Cover: WOOSUNG\)
 
-210 songs - 11 hr 54 min
+211 songs - 11 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [28 Reasons \- CIFIKA Remix](https://open.spotify.com/track/6SyuUFYpTJmUqKoJBz5rEF) | [SEULGI](https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq), [CIFIKA](https://open.spotify.com/artist/0OK6Xs5X1kHs07y68n65CQ) | [iScreaM Vol.22 : 28 Reasons / Los Angeles Remixes](https://open.spotify.com/album/4M4lI5rDAV2xPZrQ0u13Pb) | 3:54 | 2024-04-05 |  |
 | [28 Reasons \- LOOZBONE Remix](https://open.spotify.com/track/0ZvnV7cwRGF9SSSzgiS8XS) | [SEULGI](https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq), [LOOZBONE](https://open.spotify.com/artist/41mgVbCJxhUtr9o9EpRchx) | [iScreaM Vol.22 : 28 Reasons / Los Angeles Remixes](https://open.spotify.com/album/4M4lI5rDAV2xPZrQ0u13Pb) | 4:34 | 2024-04-05 |  |
 | [3D \(feat\. Jack Harlow\) \(MK Remix\)](https://open.spotify.com/track/1amaLBTe7l6zyWrWoq2Acy) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9) | [3D \(feat\. Jack Harlow\) \(MK Remix\)](https://open.spotify.com/album/5zmAW0z1LtRIkw4OHsV3tW) | 3:06 | 2024-06-28 |  |
+| [44 \(Forget Forever\)](https://open.spotify.com/track/1gB4AZdHNk7jawrX5M7tEm) | [WOOSUNG](https://open.spotify.com/artist/5LHu1iF8m0XtRBEJbbwSoo) | [4444](https://open.spotify.com/album/3gl255N0kUUIkK0GgelT3j) | 5:13 | 2024-10-08 |  |
 | [64 \(Florentino Remix\)](https://open.spotify.com/track/6WsErFNYCU0VRGxQpLQIxR) | [BÉBE YANA](https://open.spotify.com/artist/6ozuxhSx8Ci0o8tPpgrCT2), [Florentino](https://open.spotify.com/artist/1rhVQSyhxNOMN6RHi2sB44) | [THE RMXS: VOL\. 1](https://open.spotify.com/album/1U9kCtpLIvR3ahateASXvW) | 4:13 | 2024-04-18 | 2024-06-29 |
 | [90's Love \- SQUAR Remix](https://open.spotify.com/track/21uB15SdGJR4NYprvjInYw) | [NCT U](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ), [SQUAR](https://open.spotify.com/artist/7waoIMNJ8yFpEKiHHWG7EY) | [iScreaM Vol.6 : Make A Wish / 90's Love Remix](https://open.spotify.com/album/4ezneQvVRoSSNnQ6RbxwDd) | 2:41 | 2024-04-05 | 2024-06-29 |
 | [@\_@](https://open.spotify.com/track/5fmIHR4PfKC7h4XIF1Kaqe) | [HYPNOSIS THERAPY](https://open.spotify.com/artist/6JwAbXBmKAP4lIett8KUiP) | [PSILOCYBIN](https://open.spotify.com/album/1rUoceFLTQxAlMGuYpWCCI) | 2:07 | 2024-04-05 | 2024-06-29 |
@@ -108,7 +109,7 @@
 | [Impossible \- Darius Remix](https://open.spotify.com/track/4NgEf8xlckRMfbi2RlQiaG) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX), [Darius](https://open.spotify.com/artist/5vfEaoOBcK0Lzr07WN8KaK) | [iScreaM Vol.32 : Impossible Remix](https://open.spotify.com/album/7gkCgpkWn1jOOG4ndcwUjq) | 3:31 | 2024-06-05 |  |
 | [INVU \- GINJO Remix](https://open.spotify.com/track/06BJz7zKXR60rv2EM6JpSH) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu), [GINJO](https://open.spotify.com/artist/75vTLAnhUDaUwzjPCKvaJM) | [iScreaM Vol.15 : INVU Remixes](https://open.spotify.com/album/3SgU4s35dXtFmIZP5AdqTw) | 3:40 | 2024-04-18 | 2024-06-29 |
 | [INVU \- Moon Kyoo Remix](https://open.spotify.com/track/0T6VXBiZWKQgxmVFZL8x37) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu), [Moon Kyoo](https://open.spotify.com/artist/1AhVoVOXXDOP5pkhUvoSjH) | [iScreaM Vol.15 : INVU Remixes](https://open.spotify.com/album/3SgU4s35dXtFmIZP5AdqTw) | 4:11 | 2024-04-18 | 2024-09-04 |
-| [INVU \- ZHU Remix](https://open.spotify.com/track/483n1AQ8X3rT3ILd2tp9Y7) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu), [ZHU](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2) | [iScreaM Vol.15 : INVU Remixes](https://open.spotify.com/album/3SgU4s35dXtFmIZP5AdqTw) | 3:39 | 2024-04-05 |  |
+| [INVU \- ZHU Remix](https://open.spotify.com/track/483n1AQ8X3rT3ILd2tp9Y7) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu), [ZHU](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2) | [iScreaM Vol.15 : INVU Remixes](https://open.spotify.com/album/3SgU4s35dXtFmIZP5AdqTw) | 3:39 | 2024-04-05 | 2024-10-09 |
 | [It Couldn’t Be Better](https://open.spotify.com/track/3KPsZ9xEvbdIloQb0OjwPI) | [SakaZan](https://open.spotify.com/artist/5ZEC18QwaPf2CCOJIC7paM) | [It Couldn’t Be Better](https://open.spotify.com/album/1iGNYCVo1OAoX7UjJZ72r2) | 3:14 | 2024-04-05 | 2024-06-29 |
 | [Keep My Light On](https://open.spotify.com/track/5zADzgQPu2VDODCcXANZou) | [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX), [Raiden](https://open.spotify.com/artist/4YXNoMVTHRt01jYaKXTumJ) | [Keep My Light On](https://open.spotify.com/album/3HcZw9vfH6krvhgkhfkWSW) | 2:45 | 2024-06-28 |  |
 | [Keep On Jumpin'](https://open.spotify.com/track/0CbT1KxkgntAeNGYy5jwQE) | [Worvan](https://open.spotify.com/artist/2xPNzJaAiVobXqliW6ZXvC), [Juyong](https://open.spotify.com/artist/0ALnsDV3w3tXL6abvFJkP2) | [Keep On Jumpin'](https://open.spotify.com/album/1JXc3MPb9LFPiWuM5qe18Z) | 2:00 | 2024-04-05 | 2024-06-01 |

@@ -4,7 +4,7 @@
 
 > NSWER! Change up!
 
-92 songs - 3 hr 23 min
+100 songs - 3 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,8 +14,10 @@
 | [About Music](https://open.spotify.com/track/5qvdnTFa0JLQT4xQWqJzhs) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Now is the time! : We Are NMIXX](https://open.spotify.com/album/1NaADge8wCv2oCkMsOrTd6) | 0:18 | 2022-11-24 | 2023-08-07 |
 | [About NMIXX](https://open.spotify.com/track/0Q7eJJUCar0eX0AuZuP76e) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Now is the time! : We Are NMIXX](https://open.spotify.com/album/1NaADge8wCv2oCkMsOrTd6) | 0:23 | 2022-11-24 | 2023-08-07 |
 | [About NMIXX](https://open.spotify.com/track/2KzetNBtOhhqy9DE174LAp) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Now is the time! : We are NMIXX](https://open.spotify.com/album/5HT9Ife6Cu3E5xG4JCMmU6) | 0:23 | 2023-07-03 |  |
+| [BEAT BEAT](https://open.spotify.com/track/3P8l7sbL5dxKlS4gcJ1qJI) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Fe3O4: STICK OUT](https://open.spotify.com/album/2pb2RscdByJ8pc7dPT1SY2) | 2:48 | 2024-10-08 |  |
 | [BOOM](https://open.spotify.com/track/4UEXKi06Ykkx52mme7VvoH) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Fe3O4: BREAK](https://open.spotify.com/album/5CCxLQgcI7cVwmgFDlicbP) | 2:55 | 2024-01-15 |  |
 | [Break The Wall](https://open.spotify.com/track/1SmJafjGG3oM3sflmcZRXU) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Fe3O4: BREAK](https://open.spotify.com/album/5CCxLQgcI7cVwmgFDlicbP) | 3:24 | 2024-01-15 |  |
+| [Come On](https://open.spotify.com/track/52qhCExC8StLsHWJB7QqQN) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Come On](https://open.spotify.com/album/34389PjcqI6aPBjPgpYTTW) | 2:26 | 2024-10-08 |  |
 | [Coming SOON!](https://open.spotify.com/track/2hUDKmh08dMdMMTBRt8ic9) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Now is the time! : We are NMIXX](https://open.spotify.com/album/5HT9Ife6Cu3E5xG4JCMmU6) | 0:21 | 2023-07-03 |  |
 | [Coming SOON!](https://open.spotify.com/track/3XtqMBD1AR0wWFlQLiXQgC) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Now is the time! : We Are NMIXX](https://open.spotify.com/album/1NaADge8wCv2oCkMsOrTd6) | 0:21 | 2022-11-24 | 2023-08-07 |
 | [COOL \(Your rainbow\)](https://open.spotify.com/track/3D5t7S7W8BABJvA1SAIAHb) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [ENTWURF](https://open.spotify.com/album/3wMlxC4t3dN70e1OF8wUfz) | 2:50 | 2023-03-24 | 2024-04-19 |
@@ -31,6 +33,7 @@
 | [DICE \(Inst.\)](https://open.spotify.com/track/78l55gIVLzyBQJFeqQ6tt8) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [ENTWURF](https://open.spotify.com/album/3wMlxC4t3dN70e1OF8wUfz) | 2:45 | 2023-03-24 | 2024-04-19 |
 | [DICE \- Instrumental](https://open.spotify.com/track/4y2IXtT7ljcfH9dxhZd3Xq) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [ENTWURF](https://open.spotify.com/album/2uB0PgzqqWLdk2R736sMkP) | 2:45 | 2024-01-15 |  |
 | [DICE \- Instrumental](https://open.spotify.com/track/5PfVBaw9AWrirnNhVRCexe) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [ENTWURF](https://open.spotify.com/album/2WraNaeFiJAOFEozKoAtC6) | 2:45 | 2022-11-24 | 2023-06-07 |
+| [FEIFEI](https://open.spotify.com/track/3xHoqEgh1tknyT2h7mKZnB) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [FEIFEI](https://open.spotify.com/album/3iM9IcCKlZrTtvjgKvbtBW) | 3:30 | 2024-10-08 |  |
 | [Funky Glitter Christmas](https://open.spotify.com/track/1R8kam26UwvsSOyamOzMOz) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [1st Intermixxion Single <Funky Glitter Christmas>](https://open.spotify.com/album/4BDUJDquHDWsW5qH48RzHn) | 3:10 | 2023-03-24 | 2024-04-19 |
 | [Funky Glitter Christmas](https://open.spotify.com/track/6hnOv3KeFpIwLER7okvLjq) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [1st Intermixxion Single <Funky Glitter Christmas>](https://open.spotify.com/album/2ZQSSethyzGYRVqEKBwNwO) | 3:10 | 2024-01-15 |  |
 | [Funky Glitter Christmas](https://open.spotify.com/track/7ra9FZOGKDhiodoH5fuYsy) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [1st Intermixxion Single <Funky Glitter Christmas>](https://open.spotify.com/album/6cuwtxgP5dcbc87iAgSc25) | 3:10 | 2022-11-24 | 2023-06-07 |
@@ -51,6 +54,7 @@
 | [Kiss](https://open.spotify.com/track/3pNcAmfGXKeKvsSG2h1teI) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Kiss](https://open.spotify.com/album/3XLwYEV8JxiKrzL1IJOQhg) | 3:06 | 2022-11-24 |  |
 | [Kiss \- Instrumental](https://open.spotify.com/track/5q6aIgZDT81GyqZtlB562m) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Kiss](https://open.spotify.com/album/3XLwYEV8JxiKrzL1IJOQhg) | 3:06 | 2022-11-24 |  |
 | [Like Magic](https://open.spotify.com/track/1bN4ejW5IMmL4CRVG6Fxfk) | [J.Y\. Park](https://open.spotify.com/artist/1TTx0YcbKUtJIZY1HEnh9B), [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE), [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3), [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Like Magic](https://open.spotify.com/album/5bp8pvBXLoluC3mXfTccfm) | 2:44 | 2024-02-20 |  |
+| [Love Is Lonely](https://open.spotify.com/track/4IAjCbrxOPyfMqbVasSjwc) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Fe3O4: STICK OUT](https://open.spotify.com/album/2pb2RscdByJ8pc7dPT1SY2) | 3:17 | 2024-10-08 |  |
 | [Love Me Like This](https://open.spotify.com/track/2W8UduoifU1zgjKZlfY79S) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [expérgo](https://open.spotify.com/album/2mKUepexXVL69G8bBK9ECB) | 3:08 | 2024-01-15 |  |
 | [Love Me Like This](https://open.spotify.com/track/3o3bRIOKDwGOdqL9HBUNrO) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [expérgo](https://open.spotify.com/album/6PjYm8BNtMDDsflyAQUcDx) | 3:08 | 2023-03-24 | 2023-06-07 |
 | [Love Me Like This](https://open.spotify.com/track/6P3CtlzTKLxcNYGOS3es8m) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [expérgo](https://open.spotify.com/album/6GbCvETnCVvkpvK6qCqTYS) | 3:08 | 2023-03-24 | 2024-04-19 |
@@ -62,6 +66,7 @@
 | [Message from NMIXX \- JIWOO](https://open.spotify.com/track/6sSsKdsq3WqLThVkT33f9K) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Special Message : NMIXX is coming!](https://open.spotify.com/album/5s15PlkjUUIUFt0n3KMHIC) | 0:13 | 2023-07-03 |  |
 | [Message from NMIXX \- LILY & KYUJIN](https://open.spotify.com/track/1fpcnt5kVcYIyYZRHCm13K) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Special Message : NMIXX is coming!](https://open.spotify.com/album/7mW3oragxrXeGUWT2Chid3) | 0:13 | 2022-11-24 | 2023-08-06 |
 | [Message from NMIXX \- LILY & KYUJIN](https://open.spotify.com/track/75VQXvyQQdZ5GsxpqB9CVv) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Special Message : NMIXX is coming!](https://open.spotify.com/album/5s15PlkjUUIUFt0n3KMHIC) | 0:13 | 2023-07-03 |  |
+| [Moving On](https://open.spotify.com/track/0SnYOVoJPIH7BxSc0KumBI) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Fe3O4: STICK OUT](https://open.spotify.com/album/2pb2RscdByJ8pc7dPT1SY2) | 3:30 | 2024-10-08 |  |
 | [My Gosh](https://open.spotify.com/track/34UmtfADjmo12Jek6LpzQe) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [expérgo](https://open.spotify.com/album/6GbCvETnCVvkpvK6qCqTYS) | 3:36 | 2023-03-24 | 2024-04-19 |
 | [My Gosh](https://open.spotify.com/track/77I6NcjXgtKX2s2qdDITYJ) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [expérgo](https://open.spotify.com/album/6PjYm8BNtMDDsflyAQUcDx) | 3:36 | 2023-03-24 | 2023-06-08 |
 | [My Gosh](https://open.spotify.com/track/7KgfWkaQDBYbmVvnZ2XEuK) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [expérgo](https://open.spotify.com/album/2mKUepexXVL69G8bBK9ECB) | 3:36 | 2024-01-15 |  |
@@ -77,9 +82,12 @@
 | [PAXXWORD](https://open.spotify.com/track/1S7ewG548KitM1SZN4h37p) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [expérgo](https://open.spotify.com/album/2mKUepexXVL69G8bBK9ECB) | 3:12 | 2024-01-15 |  |
 | [PAXXWORD](https://open.spotify.com/track/4f8qVAD5rOWINdsT2rO4Mm) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [expérgo](https://open.spotify.com/album/6PjYm8BNtMDDsflyAQUcDx) | 3:12 | 2023-03-24 | 2023-06-07 |
 | [PAXXWORD](https://open.spotify.com/track/57IfwDNINXVRAWbmmaBcP9) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [expérgo](https://open.spotify.com/album/6GbCvETnCVvkpvK6qCqTYS) | 3:12 | 2023-03-24 | 2024-04-19 |
+| [Red light sign, but we go](https://open.spotify.com/track/7h6zQBXlsrUb9990J8x0vr) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Fe3O4: STICK OUT](https://open.spotify.com/album/2pb2RscdByJ8pc7dPT1SY2) | 2:17 | 2024-10-08 |  |
 | [Roller Coaster](https://open.spotify.com/track/1fP8o0lIaSIE5jEeblT8df) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Roller Coaster](https://open.spotify.com/album/1brnEznuO5sOFwX5cgblYw) | 2:59 | 2023-07-03 |  |
 | [Roller Coaster \(Inst.\)](https://open.spotify.com/track/17ZknLB4g6moyMKo5dOLLT) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [A Midsummer NMIXX’s Dream](https://open.spotify.com/album/0OM5hpJTbDQtetg6TQCOke) | 2:59 | 2023-07-11 |  |
 | [Run For Roses](https://open.spotify.com/track/4byr9TsXs4qtm8rG2FfwRW) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Fe3O4: BREAK](https://open.spotify.com/album/5CCxLQgcI7cVwmgFDlicbP) | 3:35 | 2024-01-15 |  |
+| [See that?](https://open.spotify.com/track/3Zice5cXhiPVLwrdBJlyHc) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Fe3O4: STICK OUT](https://open.spotify.com/album/2pb2RscdByJ8pc7dPT1SY2) | 3:02 | 2024-10-08 |  |
+| [SICKUHH \(Feat\. Kid Milli\)](https://open.spotify.com/track/0Mwj2BjoZwV6ZsYlqj6vB0) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl), [Kid Milli](https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J) | [Fe3O4: STICK OUT](https://open.spotify.com/album/2pb2RscdByJ8pc7dPT1SY2) | 2:39 | 2024-10-08 |  |
 | [Soñar \(Breaker\)](https://open.spotify.com/track/03MTY1omA35sy8rWJEtGcq) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Soñar \(Breaker\)](https://open.spotify.com/album/1CMbJop3q7bSoakHutpi1W) | 2:53 | 2023-12-04 |  |
 | [Sprinkle Party](https://open.spotify.com/track/501pyfeUUQCwU0W1WvgBQF) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [GABBY'S DOLLHOUSE X NMIXX \(Original Soundtrack\)](https://open.spotify.com/album/4lOmpbfPIevpQPnMNJ4J2N) | 2:16 | 2022-11-24 |  |
 | [Sprinkle Party \- Instrumental](https://open.spotify.com/track/3MSimmvqsmIZ8gIkY2Lmws) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [GABBY'S DOLLHOUSE X NMIXX \(Original Soundtrack\)](https://open.spotify.com/album/4lOmpbfPIevpQPnMNJ4J2N) | 2:16 | 2022-11-24 |  |

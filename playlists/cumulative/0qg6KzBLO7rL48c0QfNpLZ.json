@@ -2553,6 +2553,24 @@
     },
     {
       "album": {
+        "name": "Children",
+        "url": "https://open.spotify.com/album/2itCxG4t12JklZoswP6RMt"
+      },
+      "artists": [
+        {
+          "name": "Sum Wave",
+          "url": "https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci"
+        }
+      ],
+      "date_added": "2024-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181016,
+      "name": "Children",
+      "url": "https://open.spotify.com/track/6HnZ4voVHJmmx8eLz809dX"
+    },
+    {
+      "album": {
         "name": "City of Lights",
         "url": "https://open.spotify.com/album/4aj6DE1j6wfTr0vqRVa9x0"
       },

@@ -2,7 +2,7 @@
 
 ### [This Is 2Baba](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1m1kAx)
 
-> This Is 2Baba\. Los temas esenciales, todos en una lista.
+> This is 2Baba\. The essential tracks, all in one playlist.
 
 118 songs - 7 hr 54 min
 

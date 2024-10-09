@@ -6330,7 +6330,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-09",
       "duration_ms": 275170,
       "name": "IOWA",
       "url": "https://open.spotify.com/track/3c9srkZXPYH5969NYxVXZS"
@@ -8238,7 +8238,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-04",
+      "date_removed": null,
       "duration_ms": 158973,
       "name": "Never Get To Heaven",
       "url": "https://open.spotify.com/track/5kkhWGz5KROF6sLWiaX8jg"
@@ -11923,7 +11923,7 @@
     },
     {
       "album": {
-        "name": "The Weather (Acoustic & Gospel Reprise)",
+        "name": "The Weather (acoustic-ish)",
         "url": "https://open.spotify.com/album/2ZDv2HIeCXvCPd9cyi0thH"
       },
       "artists": [
@@ -11936,7 +11936,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 190500,
-      "name": "The Weather (Acoustic)",
+      "name": "The Weather (acoustic-ish)",
       "url": "https://open.spotify.com/track/7nECboGB4x2fYyf7lPyg7C"
     },
     {

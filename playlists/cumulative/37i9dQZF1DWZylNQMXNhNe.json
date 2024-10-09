@@ -331,6 +331,24 @@
     },
     {
       "album": {
+        "name": "Serenata da GG, Vol. 2 - Ao Vivo",
+        "url": "https://open.spotify.com/album/1rbEVb7k93Ns5dWK1LTJvs"
+      },
+      "artists": [
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        }
+      ],
+      "date_added": "2024-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159886,
+      "name": "Amor Pilantra - Ao Vivo",
+      "url": "https://open.spotify.com/track/3L2nBtkcFL5lzu2U6ipBnG"
+    },
+    {
+      "album": {
         "name": "Amor Traumatizado",
         "url": "https://open.spotify.com/album/1mn2Kwp5yl0ztp2JkPGnKB"
       },
@@ -1926,7 +1944,7 @@
       ],
       "date_added": "2024-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-09",
       "duration_ms": 134500,
       "name": "L\u00edngua dos Anjos",
       "url": "https://open.spotify.com/track/0AgluK6lXqHzjgTLkXMjlg"
@@ -2430,7 +2448,7 @@
       ],
       "date_added": "2024-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-09",
       "duration_ms": 97863,
       "name": "O Menino que Mexe Comigo",
       "url": "https://open.spotify.com/track/5panpHdwYvwP6OS2tYlF98"
@@ -3596,6 +3614,32 @@
       "duration_ms": 154280,
       "name": "Trago Seu Amor de Volta - Live",
       "url": "https://open.spotify.com/track/7rEOv1xp3UiE22Ewpq1SAK"
+    },
+    {
+      "album": {
+        "name": "CORRE",
+        "url": "https://open.spotify.com/album/4cUvIR6DfafOnGzeLlfayI"
+      },
+      "artists": [
+        {
+          "name": "Charm Mone",
+          "url": "https://open.spotify.com/artist/6SwZ7tPzqkYRTNBVNshv7c"
+        },
+        {
+          "name": "Tshawtty",
+          "url": "https://open.spotify.com/artist/7aCVM3RVhiKY8OtbueWlLR"
+        },
+        {
+          "name": "Carlos do Complexo",
+          "url": "https://open.spotify.com/artist/6ub5DtvWZmTMiIuKMf0Bi2"
+        }
+      ],
+      "date_added": "2024-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "TREMBARBIE",
+      "url": "https://open.spotify.com/track/7yx2ojlzOVGT4xSDY7mzPw"
     },
     {
       "album": {

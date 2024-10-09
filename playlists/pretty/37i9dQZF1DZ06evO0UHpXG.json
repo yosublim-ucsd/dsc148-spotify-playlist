@@ -1,12 +1,12 @@
 {
-  "description": "This is Mot\u00f6rhead. The essential tracks, all in one playlist.",
-  "num_followers": 195329,
+  "description": "This is Mot\u00f6rhead. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 195365,
   "original_name": "This Is Mot\u00f6rhead",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwHTAAAAAABaTOsShA0BpsmVU58P7REt",
+  "snapshot_id": "ZwMkgAAAAACxfXuB2zVML8UvSV6kSdko",
   "tracks": [
     {
       "added_at": null,
@@ -243,22 +243,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Overkill (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6rfGeD9P5kyZTSwif5tOJb"
-      },
-      "artists": [
-        {
-          "name": "Mot\u00f6rhead",
-          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Stay Clean",
-      "url": "https://open.spotify.com/track/7duLhTL7l71Vcp7IFUdhYd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ace of Spades (Expanded Edition)",
         "url": "https://open.spotify.com/album/619d4uJE3h2rOlw7kmSlD6"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 256986,
       "name": "The Chase Is Better Than the Catch",
       "url": "https://open.spotify.com/track/16CovcwRSjvpz0I4ZFflUv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Overkill (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6rfGeD9P5kyZTSwif5tOJb"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Stay Clean",
+      "url": "https://open.spotify.com/track/7duLhTL7l71Vcp7IFUdhYd"
     },
     {
       "added_at": null,
@@ -307,22 +307,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Overkill (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6rfGeD9P5kyZTSwif5tOJb"
-      },
-      "artists": [
-        {
-          "name": "Mot\u00f6rhead",
-          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
-        }
-      ],
-      "duration_ms": 182133,
-      "name": "Damage Case",
-      "url": "https://open.spotify.com/track/3EkLYcqCD35q1Ws4rwY1Wk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ace of Spades (Expanded Edition)",
         "url": "https://open.spotify.com/album/619d4uJE3h2rOlw7kmSlD6"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 201240,
       "name": "Fast and Loose",
       "url": "https://open.spotify.com/track/0lfddylH264Q3wDvHLddFW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Overkill (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6rfGeD9P5kyZTSwif5tOJb"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "duration_ms": 182133,
+      "name": "Damage Case",
+      "url": "https://open.spotify.com/track/3EkLYcqCD35q1Ws4rwY1Wk"
     },
     {
       "added_at": null,

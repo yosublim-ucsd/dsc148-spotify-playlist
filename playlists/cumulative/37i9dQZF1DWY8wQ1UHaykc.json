@@ -669,6 +669,24 @@
     },
     {
       "album": {
+        "name": "Yes I Am",
+        "url": "https://open.spotify.com/album/0WDn4CBLLfrAwiCcRZZmgu"
+      },
+      "artists": [
+        {
+          "name": "The Virgin",
+          "url": "https://open.spotify.com/artist/7tXc4Tew6Bnr4moD7OeBfJ"
+        }
+      ],
+      "date_added": "2024-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281962,
+      "name": "Cinta Terlarang",
+      "url": "https://open.spotify.com/track/3pF1OGQdqegfytyVY0dBeA"
+    },
+    {
+      "album": {
         "name": "Suara Lainnya",
         "url": "https://open.spotify.com/album/7MLg9OTj1KECK5ZJTeIPwE"
       },
@@ -1982,6 +2000,24 @@
       "duration_ms": 241392,
       "name": "Muara",
       "url": "https://open.spotify.com/track/4lCtZZktwgQqzCoJxK3ZxR"
+    },
+    {
+      "album": {
+        "name": "Aku Bukan Bang Toyib",
+        "url": "https://open.spotify.com/album/4SU72f8lCnTr1GM9GPkFPY"
+      },
+      "artists": [
+        {
+          "name": "Wali",
+          "url": "https://open.spotify.com/artist/5pnSNZZRyYViu2n58Zlw1J"
+        }
+      ],
+      "date_added": "2024-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255675,
+      "name": "Nenekku Pahlawanku",
+      "url": "https://open.spotify.com/track/2ALQHMFnSjKzRhGwXVSfHD"
     },
     {
       "album": {

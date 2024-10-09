@@ -4,7 +4,7 @@
 
 > Hottest indie sound from Asia\. Cover: The Dinosaur’s Skin \(Taiwan\)
 
-1,559 songs - 3 day 22 hr 8 min
+1,560 songs - 3 day 22 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -335,7 +335,7 @@
 | [dishonesty](https://open.spotify.com/track/2UyUm1slyOjBSWh8sDVUx9) | [Gareth.T](https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx) | [dishonesty](https://open.spotify.com/album/2DgqzDo9Zo8XVkRBgqbUu6) | 2:59 | 2024-07-04 |  |
 | [Distance](https://open.spotify.com/track/0QQgeIpfDpTOAialgKCuFA) | [No Buses](https://open.spotify.com/artist/5Tj6sv1bYiB4PqvvXcTSr6) | [1624](https://open.spotify.com/album/4ZwUxLArPQEgqqYPYecKNt) | 3:24 | 2024-02-01 | 2024-02-24 |
 | [Distance](https://open.spotify.com/track/73P8v6D9zDEvTvMAodfxKU) | [Plvmb](https://open.spotify.com/artist/4Tnim5uIGi5fXElf6v5uL2) | [Distance](https://open.spotify.com/album/6Tx4mitlJTZnBhPKCqHOYn) | 3:22 | 2023-02-09 | 2023-03-25 |
-| [Divine](https://open.spotify.com/track/30FlUAmPFIns6SaAeoLkQi) | [Rangga Jones](https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z) | [Divine](https://open.spotify.com/album/3fmFGrUV5K4gN82pvxje31) | 3:01 | 2024-06-06 |  |
+| [Divine](https://open.spotify.com/track/30FlUAmPFIns6SaAeoLkQi) | [Rangga Jones](https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z) | [Divine](https://open.spotify.com/album/3fmFGrUV5K4gN82pvxje31) | 3:01 | 2024-06-06 | 2024-10-09 |
 | [Do](https://open.spotify.com/track/6tStqbjbMdMRzRWWNvlnqI) | [Chang Kiha](https://open.spotify.com/artist/2kppzekGp379T3M56GYd7d) | [Do / Do or Don't](https://open.spotify.com/album/3se0GBdgs53DJXR7CJb9l6) | 3:41 | 2023-04-07 | 2023-05-12 |
 | [Do I Care Too Much](https://open.spotify.com/track/7eSo5rcuv7zeoBkbJ4lJRL) | [Oslo Ibrahim](https://open.spotify.com/artist/58tCW7poCEjQCqJTaeVsSF) | [Do I Care Too Much](https://open.spotify.com/album/0prwA9DdZkDMec5T5aLcEk) | 4:04 | 2024-05-30 | 2024-06-28 |
 | [Do The Dance](https://open.spotify.com/track/7rMomVJTqGMjJnXRlgf4Wh) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Do The Dance](https://open.spotify.com/album/3Nz9tlXFXZYvrmls5Qvxza) | 4:02 | 2023-04-13 | 2024-01-17 |
@@ -897,6 +897,7 @@
 | [Oh My God!](https://open.spotify.com/track/05Jx8FESfPgEabByGDbukL) | [CLAUDIA](https://open.spotify.com/artist/2kUBwtoPkA9ZoJxcQUtL2P) | [Love, Again](https://open.spotify.com/album/4h6KumY8NGiN5wVXexLl18) | 2:50 | 2024-02-29 |  |
 | [ok to be not ok](https://open.spotify.com/track/22ArmhlSvZq2pxTKb3dNjk) | [Our Shame](https://open.spotify.com/artist/5vKIV2YjcVSf3wWUkcyCR5) | [ok to be not ok](https://open.spotify.com/album/4Op5st5g671g45uIqIunE0) | 3:36 | 2024-08-08 | 2024-08-23 |
 | [Old Fashioned](https://open.spotify.com/track/6ZWKRmmYetfk6LsEVbSIk6) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT), [PIZZALI](https://open.spotify.com/artist/5AIqzRLM5XgtjdCjnbvJx7), [SiNNER MOON](https://open.spotify.com/artist/7uNmdZ8FJkmZjsHEQWM5Xw), [Peatle](https://open.spotify.com/artist/0iIymgyAW3hH5oY7kRMVsp) | [Old Fashioned](https://open.spotify.com/album/3Rv9kwdTjYAdyUsVLz2gZh) | 3:19 | 2023-02-16 | 2023-03-25 |
+| [old school](https://open.spotify.com/track/1e2Bj05yKyGAwXG2hxLwc7) | [QLER](https://open.spotify.com/artist/1P3bwZsaq5vobeBAmrsAFk), [クレナズム](https://open.spotify.com/artist/72PvGatrHUWZIbyyntvdpM) | [old school](https://open.spotify.com/album/6TvwzGyMKhyedURaA9IqpV) | 2:57 | 2024-10-09 |  |
 | [on & on](https://open.spotify.com/track/2z60665qOaXrUcFIVIB9yj) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc) | [on & on](https://open.spotify.com/album/2fInwWeb0bggsmMeUSAYbv) | 2:48 | 2022-03-24 | 2022-04-22 |
 | [On and On](https://open.spotify.com/track/33xlpG5E7QYjQhlOFCpnLF) | [Kogane](https://open.spotify.com/artist/6d9pWmFd3oZE3tKQVfgkmM), [Park Bird](https://open.spotify.com/artist/7bVJIMenC0rlgot8O60qpF) | [Ceremonies](https://open.spotify.com/album/0BPhpmgOpi6o9EfOz6Ga16) | 3:40 | 2023-06-08 | 2023-07-15 |
 | [ON MY MIND](https://open.spotify.com/track/3OIc678MAJCxx4DrvxmiUa) | [Simmer Pine](https://open.spotify.com/artist/1aBq93WwCvNTicXVQ7B9vA) | [ON MY MIND](https://open.spotify.com/album/5zDCI4WaVPl1kLvxEjlJwq) | 3:32 | 2024-06-27 | 2024-07-05 |

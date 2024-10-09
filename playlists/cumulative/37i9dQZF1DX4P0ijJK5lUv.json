@@ -793,6 +793,32 @@
     },
     {
       "album": {
+        "name": "Bethlehem Whispers",
+        "url": "https://open.spotify.com/album/5Jh5rfiPQ3dpB4akX8sw6o"
+      },
+      "artists": [
+        {
+          "name": "Thomas Hewitt Jones",
+          "url": "https://open.spotify.com/artist/6YsinAkM0jBHU6umepGAaZ"
+        },
+        {
+          "name": "Gordon Giles",
+          "url": "https://open.spotify.com/artist/3FvgzWiOOCj1xnWppLTtf2"
+        },
+        {
+          "name": "Vivum Singers",
+          "url": "https://open.spotify.com/artist/4CZj74AVBEXGK21JxbJqcg"
+        }
+      ],
+      "date_added": "2024-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179714,
+      "name": "Bethlehem Whispers",
+      "url": "https://open.spotify.com/track/3BAafxCgfLbKkp0ryqlmNp"
+    },
+    {
+      "album": {
         "name": "Candlelight Carols: Music for Chorus & Harp",
         "url": "https://open.spotify.com/album/6wPjg4zr33MLVjwvqwDDnv"
       },
@@ -3452,6 +3478,32 @@
       "duration_ms": 283840,
       "name": "Noel nouvelet",
       "url": "https://open.spotify.com/track/3wT4YKvuN98JeRgy7rxYRp"
+    },
+    {
+      "album": {
+        "name": "Elizabeth Maconchy: Nowell, Nowell, Nowell",
+        "url": "https://open.spotify.com/album/0DvVwYBcLY3H2sFCydq5Fs"
+      },
+      "artists": [
+        {
+          "name": "Elizabeth Maconchy",
+          "url": "https://open.spotify.com/artist/6vsthml7w1AetwgOAg5ZKn"
+        },
+        {
+          "name": "The Chapel Choir of the Royal Hospital Chelsea",
+          "url": "https://open.spotify.com/artist/6Ep9eD9kFI7PRG03dTJZS0"
+        },
+        {
+          "name": "William Vann",
+          "url": "https://open.spotify.com/artist/6TpiPf483xEqalMSmFNpUT"
+        }
+      ],
+      "date_added": "2024-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106760,
+      "name": "Nowell, Nowell, Nowell",
+      "url": "https://open.spotify.com/track/3RIKbBmniz8KhnsPZrQEFn"
     },
     {
       "album": {

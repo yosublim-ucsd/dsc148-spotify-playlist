@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > Discover new christian and gospel music\. Cover: "<a href=https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe?si=EgqFNwKkTNmCHZeVmGM29w>Folabi Nuel</a> and <a href=https://open.spotify.com/artist/7e4IOPcpm2VcBIcKAJnPmQ?si=SFeapfBOTx2QSSmy1DR47g>Swangz All\-Star</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,162 likes - 100 songs - 7 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,173 likes - 100 songs - 7 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 3 | [Follow Who Get Road](https://open.spotify.com/track/4xkfTkJW4dCMLwIUydDlIL) | [Street Church Music](https://open.spotify.com/artist/0IepUFTdh1Oc3P2VgShszv), [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [Follow Who Get Road](https://open.spotify.com/album/2fUPy05V4dOh3zsaZEJ4La) | 3:02 |
 | 4 | [Intro \(Mudzimu Uyavhuya\) \[feat\. Lebo Sekgobela\]](https://open.spotify.com/track/31O7XS9siV7dbPwk8ngvMN) | [Makhadzi Entertainment](https://open.spotify.com/artist/24Hon9044L6JUKWcqQSjma), [Lebo Sekgobela](https://open.spotify.com/artist/1s806zCT9QwrPEKEa0EEsx) | [Miracle Child](https://open.spotify.com/album/1glMg9IGPAlUCFduzoU04V) | 6:14 |
 | 5 | [Alpha Omega \(Worthy to Be Praised\)](https://open.spotify.com/track/5HxHmcZZWJT7Oyn0dAn9L1) | [Emon brill](https://open.spotify.com/artist/7h0bNvKAuQUJa1LhEMzjuO) | [Alpha Omega \(Worthy to Be Praised\)](https://open.spotify.com/album/5vdaZNWZIvxjZe03hquasx) | 5:05 |
-| 6 | [Dans Tes Mains](https://open.spotify.com/track/6p4ZhDKOj6TFSOI6xlzYgf) | [M I L O](https://open.spotify.com/artist/3h8ysJX4brfjOTz1GmlhLa), [Morijah](https://open.spotify.com/artist/2YnxuM9f6ABfYjj5juoEuh) | [Dans Tes Mains](https://open.spotify.com/album/4oq9RhPHkaLxa5O7kJbWFl) | 2:57 |
+| 6 | [Dans Tes Mains](https://open.spotify.com/track/6p4ZhDKOj6TFSOI6xlzYgf) | [M I L O](https://open.spotify.com/artist/3h8ysJX4brfjOTz1GmlhLa), [Morijah](https://open.spotify.com/artist/2YnxuM9f6ABfYjj5juoEuh) | [Dans Tes Mains](https://open.spotify.com/album/4oq9RhPHkaLxa5O7kJbWFl) | 2:59 |
 | 7 | [Redeemed](https://open.spotify.com/track/03AEQdnT6bkKDsJrqNVaiR) | [Preye Odede](https://open.spotify.com/artist/7Aqgu2MNhHNHobtzJB1DlK) | [Redeemed](https://open.spotify.com/album/0iHiZlXA0ex7AP3axxTSun) | 6:46 |
 | 8 | [Glory On The Other Side](https://open.spotify.com/track/0V4pcOAzmN6e4t9dLPlbmw) | [Folabi Nuel](https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe), [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | [Glory On The Other Side](https://open.spotify.com/album/4cAYM1eOOFhKWgaHoWyrJo) | 4:59 |
 | 9 | [I Testify \- Sped\-Up](https://open.spotify.com/track/2vYsFjhxozUXw1o6Fmr2Nn) | [Promise Benson](https://open.spotify.com/artist/3Qq79ttYAI3U1Vhev6Og28), [Moses Akoh](https://open.spotify.com/artist/6mUEeS22r3xn9ksKKgENrT) | [I Testify \(Sped\-Up\)](https://open.spotify.com/album/2ckTBY2HOjmxsBA8BpVBYy) | 4:55 |

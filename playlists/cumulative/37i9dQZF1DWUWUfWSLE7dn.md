@@ -4,7 +4,7 @@
 
 > Scores and soundtracks for daring quests, epic journeys, and the greatest reading adventures.
 
-169 songs - 8 hr 2 min
+171 songs - 8 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,8 +92,10 @@
 | [Longing for Home](https://open.spotify.com/track/5hlTmuQfCoH7MSEDmAP4Vo) | [Christoffer Moe Ditlevsen](https://open.spotify.com/artist/1byqtZiN0rWjNg7kXy5j3S) | [Human Revolution](https://open.spotify.com/album/6vsWQN5DoKQ6OydmtfBT0r) | 2:09 | 2022-03-09 | 2022-11-09 |
 | [Lord Of The Isles](https://open.spotify.com/track/3zLNU3h0xqTmQylllUa1JS) | [BBC Scottish Symphony Orchestra](https://open.spotify.com/artist/3CufywuKIBC8WhWNvzTQr1) | [A History Of Scotland](https://open.spotify.com/album/0eUIFRjts9n258Sj83kpEY) | 2:07 | 2022-03-09 | 2022-11-09 |
 | [Love Story](https://open.spotify.com/track/4Gg43XFgDBpctwZ2pFyb57) | [Hondos Rostros](https://open.spotify.com/artist/1GkARSHIynvDFV4eyUZvhC) | [Love Story](https://open.spotify.com/album/2sZMi1e8K2hgKysJxQ0onH) | 2:45 | 2022-05-27 | 2022-11-09 |
+| [Luminary](https://open.spotify.com/track/66pWxtaxTV8CxcGOvivZeT) | [Joel Sunny](https://open.spotify.com/artist/4WC54JUV6ewZOuz8Cl2Cym) | [Luminary](https://open.spotify.com/album/1Rp6be6Sf31WO6tNZY3eR9) | 3:09 | 2024-10-08 |  |
 | [Main Theme](https://open.spotify.com/track/0BqVTj3PfExdgXUu4vq7tb) | [Gareth Coker](https://open.spotify.com/artist/1I9Hqy4QnMyVhZwRM2r41B) | [Ori and the Will of the Wisps \(Original Soundtrack Recording\)](https://open.spotify.com/album/0BRICN5TGMT1WqFcZkYOaF) | 1:56 | 2022-11-08 |  |
 | [May You Have](https://open.spotify.com/track/4lxipbD2T5d8Qf9D5zcLyx) | [Bonnie Grace](https://open.spotify.com/artist/3z6E6ZPwJ7l0mp3HHcOfd2) | [Highland Hymn](https://open.spotify.com/album/6zmxkrUeUrSVtDMqggKDRb) | 3:12 | 2022-03-09 | 2022-11-09 |
+| [Middle Of The Night \(Violin\)](https://open.spotify.com/track/4NctNkFaMwv4cvgtB7l1JX) | [Joel Sunny](https://open.spotify.com/artist/4WC54JUV6ewZOuz8Cl2Cym), [Dramatic Violin](https://open.spotify.com/artist/7xFAkXgK99h0nlTo1kHagi) | [Middle Of The Night \(Violin\)](https://open.spotify.com/album/4q133kwwkwcrxDTPmd4Nsd) | 3:02 | 2024-10-08 |  |
 | [Missing Elena](https://open.spotify.com/track/1uBtPNNgpnizxqnsaxp8lm) | [Jonas Kvarnström](https://open.spotify.com/artist/4qZrlSJ1sikAjQS9rrBBpx) | [Missing Elena](https://open.spotify.com/album/7u9xxfqJGVZlIx7oI2yXRz) | 3:20 | 2022-05-20 | 2022-11-09 |
 | [Misty Mountains](https://open.spotify.com/track/3AAwJ043uT1wXSKDtGyuxF) | [Richard Armitage](https://open.spotify.com/artist/6DQsmplq17UDA3zmiybbSb), [The Dwarf Cast](https://open.spotify.com/artist/0jU1GFJFpeW29LAqraN7n5) | [The Hobbit: An Unexpected Journey \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6X0qkUUcolJDrRN3i3CAlT) | 1:43 | 2024-08-23 |  |
 | [Moon Runes \- Extended Version](https://open.spotify.com/track/0EUpzQP8Ni647J0hPXAclB) | [Howard Shore](https://open.spotify.com/artist/0OcclcP5o8VKH2TRqSY2A7) | [The Hobbit: An Unexpected Journey \(Original Motion Picture Soundtrack\) \[Special Edition\]](https://open.spotify.com/album/78al1cFOvo6eGowGidkRG5) | 3:39 | 2022-03-09 | 2022-07-29 |

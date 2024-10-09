@@ -6,7 +6,7 @@
     "name": "James Williams",
     "url": "https://open.spotify.com/user/imathieu32"
   },
-  "snapshot_id": "AAAc8QpxtnXT3l7S2rgzmEpuVo8VCWFV",
+  "snapshot_id": "AAAc8i3y51Cu9GH2WCUN/2XELYwU86V7",
   "tracks": [
     {
       "added_at": "2022-09-26 20:53:27",
@@ -3443,6 +3443,26 @@
       "duration_ms": 133903,
       "name": "And I Gangbang",
       "url": "https://open.spotify.com/track/5VIcIdLfWpNZKjlUGcC17y"
+    },
+    {
+      "added_at": "2024-10-09 01:14:27",
+      "album": {
+        "name": "Slime Season",
+        "url": "https://open.spotify.com/album/5F9AdIgiSJtnEwYSXBSlSJ"
+      },
+      "artists": [
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        },
+        {
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+        }
+      ],
+      "duration_ms": 176819,
+      "name": "Again",
+      "url": "https://open.spotify.com/track/3si6pZOm5Uf1lKDt47V3zK"
     }
   ],
   "unique_name": "main ",

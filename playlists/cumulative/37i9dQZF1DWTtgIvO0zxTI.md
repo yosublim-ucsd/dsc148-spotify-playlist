@@ -4,7 +4,7 @@
 
 > Aquí está el sonido urbano de Venezuela\. Cover: Flow Morati, Junior Caldera y Louis BPM
 
-163 songs - 8 hr 46 min
+164 songs - 8 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,6 +120,7 @@
 | [Otra Botella](https://open.spotify.com/track/7B6aEwgsjVLGrXn11mbyRe) | [Victor & Gabo](https://open.spotify.com/artist/1jF1NAxfzCf1PeWzmVvqsx), [Itzza Primera](https://open.spotify.com/artist/0PlTbBrPOOOmJzprmZ4cdM) | [Otra Botella](https://open.spotify.com/album/1x1l4HTXeFzxKcRovL23h3) | 2:46 | 2022-03-11 | 2023-03-18 |
 | [Pal Cara](https://open.spotify.com/track/3sF3aJWl0tVITCSuuL9Uun) | [Kobi Cantillo](https://open.spotify.com/artist/3eAw8vSPkVqu0VfSZxv79h) | [Pal Cara](https://open.spotify.com/album/1jkTWmdZURPAMZdkKZ6Wyz) | 3:15 | 2022-03-11 | 2022-12-24 |
 | [Panadero](https://open.spotify.com/track/6aqc9ytWqOylMfC2hO8DwF) | [Comida Para Llevar](https://open.spotify.com/artist/6ybUCb9uQ4fd6gtIptuaYO), [Horus](https://open.spotify.com/artist/4DO3YOE8E3NS1chgm6ZKxf), [Tayko](https://open.spotify.com/artist/3TqicTPfXQLiPPZWKtHk0m), [Ibzen](https://open.spotify.com/artist/5U9DkPMcXVr9AAQ46xxThb), [Veztalone](https://open.spotify.com/artist/5KhJh3jJOH5EkZiplQLw5h) | [Panadero](https://open.spotify.com/album/25JWRu97sltFATDQwOqqOy) | 4:02 | 2024-03-22 |  |
+| [pantera rosa](https://open.spotify.com/track/7eEo5NXy050ybMaQPAPw1Y) | [Baskiat](https://open.spotify.com/artist/72L1NTsOwE8ZZ6kxll4UwU), [Angelo Reeves](https://open.spotify.com/artist/69PtiuIXUHBwxTaRDLsli7) | [Salvadora](https://open.spotify.com/album/6zU4EmRM6uuVfUUZkLZoBr) | 2:20 | 2024-10-08 |  |
 | [PARTY TETEO](https://open.spotify.com/track/4vJJKzfLfLEOGHG4b1G9Y1) | [Briella](https://open.spotify.com/artist/3ef240gIQOpOu1OaPNYF2b), [Cauty](https://open.spotify.com/artist/2QUvtLq6oQaX0LNsYY2fas) | [PARTY TETEO](https://open.spotify.com/album/75mKvZIBX3KpW1AQVGWxmm) | 3:41 | 2023-10-06 |  |
 | [Perro Mujeriego](https://open.spotify.com/track/15OhHg83LlzFVzJjzKqI6y) | [Nacho](https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu) | [Perro Mujeriego](https://open.spotify.com/album/6U4odtZ8h1Hdlku9bXNOe0) | 2:54 | 2022-06-10 | 2022-09-10 |
 | [Prendía](https://open.spotify.com/track/3FkIUK4YmiPmuQeiI2JBdm) | [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU), [Jeeiph](https://open.spotify.com/artist/6ZtLRqHEkAXPWVw0eRbDac), [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow), [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y), [ADSO](https://open.spotify.com/artist/29b16XDtyMXDrfo2hZ69wf) | [Prendía](https://open.spotify.com/album/1OyqhJhYzKHNa9su83b4DR) | 4:28 | 2022-07-08 |  |
@@ -150,7 +151,7 @@
 | [Tampoco Poco](https://open.spotify.com/track/1SXuyuPNNXA61E60ucdAF7) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0), [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [Despídeme De Todxs](https://open.spotify.com/album/11rGeM6nycLMTfKwcZ3dVl) | 3:00 | 2023-07-28 | 2023-08-12 |
 | [Te Encontré](https://open.spotify.com/track/0OgEvHb3pNvg50nbocB0AK) | [Servando & Florentino](https://open.spotify.com/artist/2sU7vdIXtvChlnXIcUliVe) | [Te Encontré](https://open.spotify.com/album/3T1vAfySBdF7YX0NBA9Kkd) | 3:02 | 2022-03-11 |  |
 | [Te Encontré \- En Vivo](https://open.spotify.com/track/1uuu2CW3jzAvTUPoLUcGxE) | [Servando & Florentino](https://open.spotify.com/artist/2sU7vdIXtvChlnXIcUliVe) | [En Tu Cuarto](https://open.spotify.com/album/4t2DePJM6GQnvPBx3VDZZB) | 3:03 | 2023-08-16 | 2024-04-19 |
-| [Te Vi](https://open.spotify.com/track/059bcIhyc2SBwm6sw2AZzd) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [Te Vi](https://open.spotify.com/album/02XOoh8XrlCc466QkkjGk5) | 3:51 | 2022-03-11 |  |
+| [Te Vi](https://open.spotify.com/track/059bcIhyc2SBwm6sw2AZzd) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [Te Vi](https://open.spotify.com/album/02XOoh8XrlCc466QkkjGk5) | 3:51 | 2022-03-11 | 2024-10-09 |
 | [Terapia](https://open.spotify.com/track/4lNqp5wlde1EtSO5q89vub) | [Kid Fresco](https://open.spotify.com/artist/2Mqd2MLJTKaLBG8N5vS5rD), [Noreh](https://open.spotify.com/artist/1JHgX0v8Dx86wpfQkZuJFg) | [Terapia](https://open.spotify.com/album/0Xa8TqM7ZKcFSbwJzK2xCr) | 2:53 | 2022-12-23 |  |
 | [Todo Va a Arder](https://open.spotify.com/track/4dlCh9iiWtOHx3oT6wxFdc) | [McKlopedia](https://open.spotify.com/artist/1PNgAcUW6UgN59okEaTpvG) | [Todo Va a Arder](https://open.spotify.com/album/5XQQIuj2Mdbiz0W8brVi9P) | 3:04 | 2022-03-11 | 2022-04-23 |
 | [Tony](https://open.spotify.com/track/62HtZvWktEwwqS4pppOomi) | [Robert Tiamo](https://open.spotify.com/artist/7M4raOQ6EsBzMYM0oyKlTu) | [Tony](https://open.spotify.com/album/0irYnpPDxvjpQrir1arMbw) | 3:21 | 2023-03-17 | 2023-04-22 |

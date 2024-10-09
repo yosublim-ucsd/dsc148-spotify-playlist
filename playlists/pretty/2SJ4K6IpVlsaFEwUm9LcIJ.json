@@ -1,12 +1,12 @@
 {
   "description": "what i&#x27;m listening to: sept-oct 2024 (previous playlists archived on my profile) (image source: @therapist_kirby on IG)",
-  "num_followers": 21691,
+  "num_followers": 21704,
   "original_name": "what dreams may come",
   "owner": {
     "name": "margeaux",
     "url": "https://open.spotify.com/user/1220511975"
   },
-  "snapshot_id": "AAALIhpgVUV35yrj35zEbi9QOHVrUHmp",
+  "snapshot_id": "AAALJJkzxXIqR5b1b8FEjvFc/+P6CX2T",
   "tracks": [
     {
       "added_at": "2024-09-07 23:53:02",
@@ -667,6 +667,38 @@
       "duration_ms": 191573,
       "name": "Ingrown",
       "url": "https://open.spotify.com/track/7n8Ttf94YjrqnoViRt1OCM"
+    },
+    {
+      "added_at": "2024-10-08 15:24:07",
+      "album": {
+        "name": "Novak",
+        "url": "https://open.spotify.com/album/7wJpbPDD3MhcxblMVKjdg1"
+      },
+      "artists": [
+        {
+          "name": "Novak",
+          "url": "https://open.spotify.com/artist/2fb1zlAyUxXYuZnrtLw90x"
+        }
+      ],
+      "duration_ms": 294573,
+      "name": "Cross Purposes",
+      "url": "https://open.spotify.com/track/1LWNGV4aU7nLCnfIgO2xuJ"
+    },
+    {
+      "added_at": "2024-10-08 17:42:51",
+      "album": {
+        "name": "Happy",
+        "url": "https://open.spotify.com/album/1cu2Otwcl1p9FnnPffqwhA"
+      },
+      "artists": [
+        {
+          "name": "Daryl Johns",
+          "url": "https://open.spotify.com/artist/7K48RaFMB6BhTLc0KspbTh"
+        }
+      ],
+      "duration_ms": 139842,
+      "name": "Happy",
+      "url": "https://open.spotify.com/track/1JGdQ6bAbTShATQV7iZuoB"
     }
   ],
   "unique_name": "what dreams may come",

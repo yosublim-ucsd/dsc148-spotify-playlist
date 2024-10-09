@@ -1130,7 +1130,7 @@
       ],
       "date_added": "2022-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-09",
       "duration_ms": 210000,
       "name": "Halloween at School",
       "url": "https://open.spotify.com/track/5PqCCOKBN8JVtF2tqoHD8N"
@@ -1695,6 +1695,24 @@
     },
     {
       "album": {
+        "name": "Plim Plim Halloween Kids Songs Vol. 3",
+        "url": "https://open.spotify.com/album/29sOx2UQ773shDn6LNC7da"
+      },
+      "artists": [
+        {
+          "name": "Plim Plim",
+          "url": "https://open.spotify.com/artist/0XGgmwDOrlZE5O7GHCHJy8"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165154,
+      "name": "If You Like to Trick or Treat",
+      "url": "https://open.spotify.com/track/1gnZW95REPFgMDLxm8DlGx"
+    },
+    {
+      "album": {
         "name": "It Must Be Halloween",
         "url": "https://open.spotify.com/album/5rbxNOnGkelOAzu5xHPNGG"
       },
@@ -1746,6 +1764,24 @@
       "duration_ms": 135083,
       "name": "It's Halloween",
       "url": "https://open.spotify.com/track/0UAxsfIlQZ1XK6RknnN5CE"
+    },
+    {
+      "album": {
+        "name": "Little Angel Halloween",
+        "url": "https://open.spotify.com/album/6tn0VGiyGcraJxBK16snAK"
+      },
+      "artists": [
+        {
+          "name": "Little Angel",
+          "url": "https://open.spotify.com/artist/3zDwkELCCr4anWIsL5LyTn"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181583,
+      "name": "Jill the Witch",
+      "url": "https://open.spotify.com/track/2l58hQ0SVmdP0nu6J8WC0x"
     },
     {
       "album": {
@@ -3106,7 +3142,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-09",
       "duration_ms": 118442,
       "name": "The Monster Jive",
       "url": "https://open.spotify.com/track/6hLPVenFMzwng4DNScuuaR"

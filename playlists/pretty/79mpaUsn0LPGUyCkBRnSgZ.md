@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 1 like - 527 songs - 1 day 11 hr 12 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 1 like - 529 songs - 1 day 11 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -535,5 +535,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 525 | [Vocoder \[Club Mix\]](https://open.spotify.com/track/4Bbb5DAOZvlbxsNkjf8UQY) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Cascade](https://open.spotify.com/album/4IYnAmZ8GvmNFF2ZxxKT8L) | 7:31 |
 | 526 | [Reflections in Suspension \- 30th Anniversary Remaster](https://open.spotify.com/track/6qdwDI0a8FJMSOl4lr6ghT) | [Steve Roach](https://open.spotify.com/artist/00gh6kmKYOu8xyorRxQm6a) | [Structures From Silence \(30th Anniversary Remaster\)](https://open.spotify.com/album/194ZxFpjv5ttxZan4caXRq) | 16:46 |
 | 527 | [I Trawl the Megahertz](https://open.spotify.com/track/5SrrNjgc5Diwj3IunGepM6) | [Prefab Sprout](https://open.spotify.com/artist/4w3QqrcmBv8dasemwBXmxf) | [I Trawl the Megahertz](https://open.spotify.com/album/3JtTs7tzD7uj6hpPb1apkT) | 22:05 |
+| 528 | [Introduction](https://open.spotify.com/track/2JLxaBGEmZSvK1tCcOjpO8) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Bryter Layter](https://open.spotify.com/album/0B2E1w5T7PEbZIctZnnt9K) | 1:32 |
+| 529 | [Glass Jar](https://open.spotify.com/track/14IWm0tDTfAulD43I4LpNh) | [Gang Gang Dance](https://open.spotify.com/artist/6UU6YXQaFGQToWN6U28Dcb) | [Eye Contact](https://open.spotify.com/album/4bq7GESFNztOvUBKpWeh6N) | 11:21 |
 
-Snapshot ID: `AAAGkEoiMQ+lnNwa2yHzb52h7GHQtS2q`
+Snapshot ID: `AAAGkq0KHmR9oVvQZ7X5mYRyHSCrXQtC`

@@ -1,6 +1,6 @@
 {
   "description": "The best indie songs from all decades for your Halloween party",
-  "num_followers": 101509,
+  "num_followers": 101733,
   "original_name": "Indie Halloween",
   "owner": {
     "name": "Spotify",
@@ -187,22 +187,6 @@
     {
       "added_at": "2024-10-03 11:57:47",
       "album": {
-        "name": "dc snuff film / waste yrself",
-        "url": "https://open.spotify.com/album/1QMZJabCAFTaiuq4toibdt"
-      },
-      "artists": [
-        {
-          "name": "Teen Suicide",
-          "url": "https://open.spotify.com/artist/2cAvReLDmjFQtCJFDJbHBU"
-        }
-      ],
-      "duration_ms": 165671,
-      "name": "haunt me (x 3)",
-      "url": "https://open.spotify.com/track/1QUMpZT7HG6sO3RiBu1LAJ"
-    },
-    {
-      "added_at": "2024-10-03 11:57:47",
-      "album": {
         "name": "It's Blitz! (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2SIaQf1NRVarE8HDX5j8zG"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 221000,
       "name": "Heads Will Roll",
       "url": "https://open.spotify.com/track/18oWEPapjNt32E6sCM6VLb"
+    },
+    {
+      "added_at": "2024-10-03 11:57:47",
+      "album": {
+        "name": "dc snuff film / waste yrself",
+        "url": "https://open.spotify.com/album/1QMZJabCAFTaiuq4toibdt"
+      },
+      "artists": [
+        {
+          "name": "Teen Suicide",
+          "url": "https://open.spotify.com/artist/2cAvReLDmjFQtCJFDJbHBU"
+        }
+      ],
+      "duration_ms": 165671,
+      "name": "haunt me (x 3)",
+      "url": "https://open.spotify.com/track/1QUMpZT7HG6sO3RiBu1LAJ"
     },
     {
       "added_at": "2024-10-03 11:57:47",
@@ -251,22 +251,6 @@
     {
       "added_at": "2024-10-03 11:57:47",
       "album": {
-        "name": "Cease To Begin",
-        "url": "https://open.spotify.com/album/0zWsqSsamm615uHbVj7uiZ"
-      },
-      "artists": [
-        {
-          "name": "Band of Horses",
-          "url": "https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF"
-        }
-      ],
-      "duration_ms": 179666,
-      "name": "Is There A Ghost",
-      "url": "https://open.spotify.com/track/7fgOmdonXZap1Kuz7hs3O1"
-    },
-    {
-      "added_at": "2024-10-03 11:57:47",
-      "album": {
         "name": "Apollon",
         "url": "https://open.spotify.com/album/0udUblWUl05uR1ELebTbra"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 193846,
       "name": "Apollon",
       "url": "https://open.spotify.com/track/4hyFwrL9rNfrk5sG8iKctd"
+    },
+    {
+      "added_at": "2024-10-03 11:57:47",
+      "album": {
+        "name": "Cease To Begin",
+        "url": "https://open.spotify.com/album/0zWsqSsamm615uHbVj7uiZ"
+      },
+      "artists": [
+        {
+          "name": "Band of Horses",
+          "url": "https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF"
+        }
+      ],
+      "duration_ms": 179666,
+      "name": "Is There A Ghost",
+      "url": "https://open.spotify.com/track/7fgOmdonXZap1Kuz7hs3O1"
     },
     {
       "added_at": "2024-10-03 11:57:47",
@@ -827,22 +827,6 @@
     {
       "added_at": "2024-10-03 11:57:47",
       "album": {
-        "name": "Dark and Stormy",
-        "url": "https://open.spotify.com/album/7lbMXq5sMJqxSEBXEsQZE6"
-      },
-      "artists": [
-        {
-          "name": "Hot Chip",
-          "url": "https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5"
-        }
-      ],
-      "duration_ms": 295840,
-      "name": "Dark and Stormy",
-      "url": "https://open.spotify.com/track/2gvwIqaOOWQdP3uKRISk06"
-    },
-    {
-      "added_at": "2024-10-03 11:57:47",
-      "album": {
         "name": "No Regerts",
         "url": "https://open.spotify.com/album/5psuEv9OT8vMrW9TOiCGVS"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 159883,
       "name": "Evil",
       "url": "https://open.spotify.com/track/0Sy6N3rl8dsccN9MwWHoWi"
+    },
+    {
+      "added_at": "2024-10-03 11:57:47",
+      "album": {
+        "name": "Dark and Stormy",
+        "url": "https://open.spotify.com/album/7lbMXq5sMJqxSEBXEsQZE6"
+      },
+      "artists": [
+        {
+          "name": "Hot Chip",
+          "url": "https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5"
+        }
+      ],
+      "duration_ms": 295840,
+      "name": "Dark and Stormy",
+      "url": "https://open.spotify.com/track/2gvwIqaOOWQdP3uKRISk06"
     },
     {
       "added_at": "2024-10-03 11:57:47",
@@ -907,18 +907,18 @@
     {
       "added_at": "2024-10-03 11:57:47",
       "album": {
-        "name": "Plastic Surgery Disasters/In God We Trust, Inc.",
-        "url": "https://open.spotify.com/album/7vtq4mlZSC1HC4a6UdcVug"
+        "name": "Shake, Shook, Shaken",
+        "url": "https://open.spotify.com/album/3GGJlh7y7yWax4SY3n9cag"
       },
       "artists": [
         {
-          "name": "Dead Kennedys",
-          "url": "https://open.spotify.com/artist/30U8fYtiNpeA5KH6H87QUV"
+          "name": "The D\u00f8",
+          "url": "https://open.spotify.com/artist/2mcNCn1qbZUQ3J9KHapUxj"
         }
       ],
-      "duration_ms": 215179,
-      "name": "Halloween",
-      "url": "https://open.spotify.com/track/4QL6epCx6rlUbDG4TF3sj9"
+      "duration_ms": 173300,
+      "name": "Omen",
+      "url": "https://open.spotify.com/track/5q8fHfyTc63KlySBCP8DFH"
     },
     {
       "added_at": "2024-10-03 11:57:47",
@@ -939,18 +939,18 @@
     {
       "added_at": "2024-10-03 11:57:47",
       "album": {
-        "name": "Shake, Shook, Shaken",
-        "url": "https://open.spotify.com/album/3GGJlh7y7yWax4SY3n9cag"
+        "name": "Plastic Surgery Disasters/In God We Trust, Inc.",
+        "url": "https://open.spotify.com/album/7vtq4mlZSC1HC4a6UdcVug"
       },
       "artists": [
         {
-          "name": "The D\u00f8",
-          "url": "https://open.spotify.com/artist/2mcNCn1qbZUQ3J9KHapUxj"
+          "name": "Dead Kennedys",
+          "url": "https://open.spotify.com/artist/30U8fYtiNpeA5KH6H87QUV"
         }
       ],
-      "duration_ms": 173300,
-      "name": "Omen",
-      "url": "https://open.spotify.com/track/5q8fHfyTc63KlySBCP8DFH"
+      "duration_ms": 215179,
+      "name": "Halloween",
+      "url": "https://open.spotify.com/track/4QL6epCx6rlUbDG4TF3sj9"
     },
     {
       "added_at": "2024-10-03 11:57:47",
@@ -971,22 +971,6 @@
     {
       "added_at": "2024-10-03 11:57:47",
       "album": {
-        "name": "Fantasies",
-        "url": "https://open.spotify.com/album/3Oj8FdHcV6kAiOVWfkqRaA"
-      },
-      "artists": [
-        {
-          "name": "Metric",
-          "url": "https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl"
-        }
-      ],
-      "duration_ms": 285920,
-      "name": "Help I'm Alive",
-      "url": "https://open.spotify.com/track/1z4xjDLLWJgG48Bn8OCxZv"
-    },
-    {
-      "added_at": "2024-10-03 11:57:47",
-      "album": {
         "name": "To Lose My Life ...",
         "url": "https://open.spotify.com/album/1ySdrRPZa9ZRvlcUoGv8UE"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 191040,
       "name": "To Lose My Life",
       "url": "https://open.spotify.com/track/2hUHm19fmQnJ40LZXqjhZt"
+    },
+    {
+      "added_at": "2024-10-03 11:57:47",
+      "album": {
+        "name": "Fantasies",
+        "url": "https://open.spotify.com/album/3Oj8FdHcV6kAiOVWfkqRaA"
+      },
+      "artists": [
+        {
+          "name": "Metric",
+          "url": "https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl"
+        }
+      ],
+      "duration_ms": 285920,
+      "name": "Help I'm Alive",
+      "url": "https://open.spotify.com/track/1z4xjDLLWJgG48Bn8OCxZv"
     },
     {
       "added_at": "2024-10-03 11:57:47",

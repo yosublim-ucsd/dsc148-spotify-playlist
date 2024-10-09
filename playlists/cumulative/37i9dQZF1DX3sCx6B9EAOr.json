@@ -143,6 +143,24 @@
     },
     {
       "album": {
+        "name": "4444",
+        "url": "https://open.spotify.com/album/3gl255N0kUUIkK0GgelT3j"
+      },
+      "artists": [
+        {
+          "name": "WOOSUNG",
+          "url": "https://open.spotify.com/artist/5LHu1iF8m0XtRBEJbbwSoo"
+        }
+      ],
+      "date_added": "2024-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313866,
+      "name": "44 (Forget Forever)",
+      "url": "https://open.spotify.com/track/1gB4AZdHNk7jawrX5M7tEm"
+    },
+    {
+      "album": {
         "name": "4ever",
         "url": "https://open.spotify.com/album/2fU7ZbfCCwb77CVsGwhECU"
       },
@@ -3712,7 +3730,7 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-09",
       "duration_ms": 170066,
       "name": "EENIE MEENIE (Feat. Hongjoong of ATEEZ)",
       "url": "https://open.spotify.com/track/3WFTUAPrXvqg3SXC0bsukz"
@@ -6294,7 +6312,7 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-09",
       "duration_ms": 179240,
       "name": "ICKY",
       "url": "https://open.spotify.com/track/1OhotmnsJBmsHaKwACYMgJ"
@@ -7204,6 +7222,28 @@
       "duration_ms": 234467,
       "name": "Let iT Go",
       "url": "https://open.spotify.com/track/4iXdQQtTXb6yUMbDv7950e"
+    },
+    {
+      "album": {
+        "name": "4444",
+        "url": "https://open.spotify.com/album/3gl255N0kUUIkK0GgelT3j"
+      },
+      "artists": [
+        {
+          "name": "WOOSUNG",
+          "url": "https://open.spotify.com/artist/5LHu1iF8m0XtRBEJbbwSoo"
+        },
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "date_added": "2024-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205613,
+      "name": "Let There Be Light (feat. BOL4)",
+      "url": "https://open.spotify.com/track/08ZUMbppnx2jW1uj4nDztz"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Fresh Punjabi Rap\. Cover: Guru Randhawa
 
-190 songs - 9 hr 2 min
+191 songs - 9 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Arrogant](https://open.spotify.com/track/2jt9VV6QGn0tbwkrr26OO6) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Shinda Kahlon](https://open.spotify.com/artist/6aQfrWHwAcuY8IYItbChZh), [Gminxr](https://open.spotify.com/artist/4vvW590Gq8dNWsP5BM9FkS) | [Arrogant](https://open.spotify.com/album/71G8NXRzRio8JvT8og5zcL) | 1:42 | 2023-03-18 | 2024-09-14 |
 | [At The Afterparty](https://open.spotify.com/track/2IZOYSnYAaYgbfAQZwbmxK) | [tricksingh](https://open.spotify.com/artist/3xvOoFJqHTgdPqUVWlRYQk), [Deorachit](https://open.spotify.com/artist/2ZtfmE2WlGjnaHwtwHbZXh) | [At The Afterparty](https://open.spotify.com/album/3XhhCe9VFT7Ai41MbdabBj) | 2:22 | 2023-12-14 | 2024-01-04 |
 | [Attach](https://open.spotify.com/track/5dOOepMv3psX67DJAP5D6I) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Steel Banglez](https://open.spotify.com/artist/6k970rXaWAWVfWMjqWtFNI), [Fredo](https://open.spotify.com/artist/3rbtPd0NcvhO2AzMfzx90z) | [Attach](https://open.spotify.com/album/6DB7R2re4tUi2oak4SoLwV) | 3:32 | 2024-09-06 |  |
+| [Bach Sohnie](https://open.spotify.com/track/0keFxoNryQPlMLMXTR8OUZ) | [Sajjn](https://open.spotify.com/artist/1B4OT0DMB0gnluv2UIukCT) | [Bach Sohnie](https://open.spotify.com/album/0P7XjvZhP4cZUI7W3tLuLc) | 2:19 | 2024-10-08 |  |
 | [Bad Ass Boy](https://open.spotify.com/track/1PanDlK13SWPjKvOdCjHK1) | [Bob.B Randhawa](https://open.spotify.com/artist/64v80BSPBbO4NG2EKLdbgC), [Sky 38](https://open.spotify.com/artist/6pciHEnBi4NOwZohw7jB1f), [Inder D Last Level](https://open.spotify.com/artist/5mHnBqe0ORanNO0oeIWX2d) | [Time Will Tell](https://open.spotify.com/album/60hP5BO12BmQs3KjUgGyqc) | 2:21 | 2024-09-03 | 2024-10-05 |
 | [Bandana](https://open.spotify.com/track/4Tx8bpMOSikMMrpXAdEbxo) | [Jujhar](https://open.spotify.com/artist/5LJ2jcTSVpzhlQfZN4vco6) | [Bandana](https://open.spotify.com/album/0dcnzIxSYZuNI81AKVOogV) | 2:26 | 2024-09-03 | 2024-09-29 |
 | [BANDIT](https://open.spotify.com/track/2LnSeX9FsOj3ugF4vZy8Nj) | [GAGG E](https://open.spotify.com/artist/1bLhM3jn76Q9wKJSF23x8R), [BIG KAY SMG](https://open.spotify.com/artist/0z4Mzficie9vUzDmz4Hy9G), [Glixzy](https://open.spotify.com/artist/5ZIksrTp5QKB7uiDofkU8Y) | [MONEY OVER MATTERS](https://open.spotify.com/album/6lpZZ6lgUvznUuCjBK36Gp) | 2:55 | 2024-08-30 | 2024-09-25 |
@@ -156,7 +157,7 @@
 | [Rank 1](https://open.spotify.com/track/7piFoYCgGN0w8vxukuCrvP) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2) | [Never Before](https://open.spotify.com/album/3YFTFdg3bhcB8XAg85Rugh) | 2:59 | 2024-04-12 | 2024-09-18 |
 | [Rich Life](https://open.spotify.com/track/2vWFL9GDgCrAvycqWvPVj2) | [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [DJ Shadow Dubai](https://open.spotify.com/artist/3qnsN7WTgndwqTiBHelp6S) | [Rich Life](https://open.spotify.com/album/5jmBYAUyG3nqevklnEAnNO) | 2:17 | 2024-09-20 |  |
 | [Rubicon Drill](https://open.spotify.com/track/03yKEFruN3BS2coglBtt2N) | [Laddi Chahal](https://open.spotify.com/artist/3lmszXxkp47K9kDCRRPU8p), [Parmish Verma](https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Forever](https://open.spotify.com/album/4qlI6YM61j9NeGe832mExq) | 3:08 | 2023-05-26 | 2024-09-11 |
-| [Saheli](https://open.spotify.com/track/7xQXcHasNrkqnIwKFx2HxK) | [Savi Kahlon](https://open.spotify.com/artist/6jvvFfe34NYXjWZMz7rExP), [Sultaan](https://open.spotify.com/artist/7frYUe4C7A42uZqCzD34Y4) | [Saheli](https://open.spotify.com/album/6qpWZwYAGKU3fX3gK1DqUY) | 2:56 | 2024-09-24 |  |
+| [Saheli](https://open.spotify.com/track/7xQXcHasNrkqnIwKFx2HxK) | [Savi Kahlon](https://open.spotify.com/artist/6jvvFfe34NYXjWZMz7rExP), [Sultaan](https://open.spotify.com/artist/7frYUe4C7A42uZqCzD34Y4) | [Saheli](https://open.spotify.com/album/6qpWZwYAGKU3fX3gK1DqUY) | 2:56 | 2024-09-24 | 2024-10-09 |
 | [Sarkar](https://open.spotify.com/track/60suOlM8VpTVITPFeqth8r) | [Jaura Phagwara](https://open.spotify.com/artist/2NV7RSOqlCvigkJ9xMBxDW) | [Sarkar](https://open.spotify.com/album/231Z0iuk1T5XtEIFAnRil0) | 3:30 | 2023-03-18 | 2024-09-10 |
 | [Sarpanchi](https://open.spotify.com/track/6pltwItmq8QBJ2Lru5RQVf) | [Harry Dhaliwal](https://open.spotify.com/artist/3c5CALgW92Nq4E6EytQHgK), [Hukam](https://open.spotify.com/artist/70WmQLMY0YOyPHO4MLW8Pj), [Anwar Rai](https://open.spotify.com/artist/7rtpar7dktPcHVJJi6ZLhV) | [Hype](https://open.spotify.com/album/3ohv56IXMl2Riq8wc2Rtsz) | 2:11 | 2024-10-01 |  |
 | [Scenario](https://open.spotify.com/track/4A7TPu84Nvaz9RwcHYG2Ol) | [Sammohit](https://open.spotify.com/artist/0cWoBv3cKhNM18FbRFy2x2), [Mahlan Wala 59](https://open.spotify.com/artist/6AONermxpKHYKrOPPAI5gS) | [Scenario](https://open.spotify.com/album/3rmXU2uoFOFEvgxZYLS4bS) | 2:16 | 2024-09-11 |  |

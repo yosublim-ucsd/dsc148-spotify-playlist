@@ -4,7 +4,7 @@
 
 > NCS / NoCopyrightSounds royalty free gaming music for YouTube &amp; Twitch Streaming
 
-369 songs - 19 hr 20 min
+370 songs - 19 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -192,6 +192,7 @@
 | [Love Me](https://open.spotify.com/track/13b1CS1bUJOJD9HanXSs3c) | [Sam Ourt](https://open.spotify.com/artist/5I3AwOX9Fr2gEG6SKmltH6), [FERGO](https://open.spotify.com/artist/2vlOppSBEJkAVos6JTshXF) | [Love Me](https://open.spotify.com/album/0yEscGCEQmz8G7GGyySaz5) | 2:12 | 2022-02-03 | 2022-09-15 |
 | [Luna \- Mendum Remix](https://open.spotify.com/track/6ubM8S8Dn9vT5Xq1DVROnS) | [Abandoned](https://open.spotify.com/artist/1qs72LBhNBAQGwxFAnlo0x), [GalaxyTones](https://open.spotify.com/artist/49Ue58UGhN03frcpvJsHnH), [Mendum](https://open.spotify.com/artist/3rq78lkE1laoELdsHHirtg), [DNAKM](https://open.spotify.com/artist/20N95on2Bu0e3AZyiEUMz1) | [Luna \(Mendum Remix\)](https://open.spotify.com/album/50H2keG7LNU0oSNsBuiXem) | 3:25 | 2022-02-04 | 2022-09-15 |
 | [Lush](https://open.spotify.com/track/0g82uyFC1x6a4nGuETAHvG) | [Au5](https://open.spotify.com/artist/40WIa01eubnEVkxUHeDZyF), [Last Heroes](https://open.spotify.com/artist/3HHfEn7yPOy3IiHS6CHG97), [Holly Drummond](https://open.spotify.com/artist/24O8Ftz6AqboC3Uawbiw4r) | [Lush](https://open.spotify.com/album/2C1OgIBCi0xGFCQE6olvDV) | 4:00 | 2023-08-10 |  |
+| [Magnetic](https://open.spotify.com/track/6uH5jMuZ5F4Uh5cS2QilLw) | [springs!](https://open.spotify.com/artist/7BFXtdXfpw2kj0kAOs73cn) | [Magnetic](https://open.spotify.com/album/0kReeQiJA0nlejIOX6TfkE) | 2:03 | 2024-10-08 |  |
 | [Make A Stand](https://open.spotify.com/track/1uYQSc053Vkv9nxXolZOMI) | [Speo](https://open.spotify.com/artist/0rMH177vw5TAY2Gd1uLLgY), [Budobo](https://open.spotify.com/artist/219RPqgRToldOe7KMX4atX) | [Make A Stand](https://open.spotify.com/album/71BwjzdvWoTFI3bzsBurgn) | 4:12 | 2023-08-10 | 2023-11-03 |
 | [Make Waves](https://open.spotify.com/track/3gzZPhXOL166nTTaEwqI4c) | [ReauBeau](https://open.spotify.com/artist/5fKpGPlcEvjFMDDWDKniND), [Brynja Mary](https://open.spotify.com/artist/0WuACeytMF6zC8L8prNB0y) | [Make Waves](https://open.spotify.com/album/60aJkIg8ZAtPDMBbvrqAfM) | 3:09 | 2023-02-16 | 2023-08-11 |
 | [MATAFAKA](https://open.spotify.com/track/0y9TOfsQ9wANedFV3Us5Wa) | [Unknown Brain](https://open.spotify.com/artist/0okpgBQamDqOZazBeH0J3I), [Marvin Divine](https://open.spotify.com/artist/2ipbBHbU59PKSeDXAgMpkd) | [MATAFAKA](https://open.spotify.com/album/6Meqo4cySmYW0tYBMvpACy) | 3:17 | 2022-02-03 | 2022-09-15 |

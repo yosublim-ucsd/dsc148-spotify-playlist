@@ -4,7 +4,7 @@
 
 > It's a main pop girl emergency 🆘  Cover: ADÉLA
 
-1,083 songs - 2 day 6 hr 22 min
+1,084 songs - 2 day 6 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -811,7 +811,7 @@
 | [Rhetorical Questions](https://open.spotify.com/track/4QR8axjkh9dPhey4BxOdpE) | [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ) | [Rhetorical Questions](https://open.spotify.com/album/3j4QdU7FlRNF7eXJTJKUS7) | 2:55 | 2024-10-04 |  |
 | [Rhinestone Heart](https://open.spotify.com/track/28TbRayU38hCt7vYvRbHM4) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [STARFUCKER](https://open.spotify.com/album/5sjBJH8HZKiBGEa4guEHcL) | 2:29 | 2023-09-22 |  |
 | [Ride](https://open.spotify.com/track/0n1QbA4Xdj0KE98xzOdcv0) | [Mia Rodriguez](https://open.spotify.com/artist/7Hsfh7YZzoyojYWQeMSHID) | [Ride](https://open.spotify.com/album/2JhXO4R9yTtKFRekjmYhNQ) | 2:12 | 2024-02-09 | 2024-06-29 |
-| [Ring Finger](https://open.spotify.com/track/2vdTESMRnbbNSe8i8LbZq9) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Whirlwind](https://open.spotify.com/album/3YJeGDPwWmpqxm5xlIqjO8) | 3:39 | 2024-08-23 |  |
+| [Ring Finger](https://open.spotify.com/track/2vdTESMRnbbNSe8i8LbZq9) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Whirlwind](https://open.spotify.com/album/3YJeGDPwWmpqxm5xlIqjO8) | 3:39 | 2024-08-23 | 2024-10-09 |
 | [RIP, Love](https://open.spotify.com/track/3sYZo4HrHX8tkul5FhUpVo) | [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo) | [RIP, Love](https://open.spotify.com/album/1gTmjLH8mcfzQsKSG8piVX) | 2:53 | 2022-04-01 | 2022-05-07 |
 | [Ripped Up T\-Shirts](https://open.spotify.com/track/2CK4P116Q5fc1QlvZTM4D3) | [Leon of Athens](https://open.spotify.com/artist/5yiBeJaPO9FPgplB6HpGg0), [Wes Period](https://open.spotify.com/artist/0Pb8ZfFfE2O0pvsFdwVUYl) | [Ripped Up T\-Shirts](https://open.spotify.com/album/3lbqV25ud1OAok1D5dIR4E) | 2:45 | 2022-06-17 | 2022-08-27 |
 | [Roar](https://open.spotify.com/track/606knDhbVzkUqAXVVV4HKj) | [Lorna Courtney](https://open.spotify.com/artist/4DwDek55Rhdcv119OlR0ap), [Original Broadway Cast of & Juliet](https://open.spotify.com/artist/07KKf6qOxhTzgGir1mTOMo) | [Roar](https://open.spotify.com/album/0wEN8TqULxad5bpNs7vBis) | 3:36 | 2022-09-09 | 2022-09-17 |
@@ -923,6 +923,7 @@
 | [Surrender My Heart](https://open.spotify.com/track/0Fx3fYbcYx3iDNrduNMlde) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [The Loneliest Time](https://open.spotify.com/album/3l2Gi0hMjZV2uvKoWlFkoQ) | 2:48 | 2022-10-21 | 2023-01-28 |
 | [Swing!](https://open.spotify.com/track/6As82n96RAwuoR9Y69N0EB) | [Ellie Dixon](https://open.spotify.com/artist/4mvJltDSlBawXCZhq6NAso) | [Swing!](https://open.spotify.com/album/3LrxGxVT1ScQcKHkPHjzuD) | 2:50 | 2022-10-08 | 2022-12-10 |
 | [Switch](https://open.spotify.com/track/1bEO8LdFDrYpJleXnVons3) | [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [Switch](https://open.spotify.com/album/6OumeSAX4Z4eVfyU816KLM) | 3:00 | 2024-09-20 |  |
+| [Take My Phone Away](https://open.spotify.com/track/5iIRm1NPeb4EhR6I2bKtvC) | [Caroline Kingsbury](https://open.spotify.com/artist/0uE0bzpIfuZ9XVduu0byzg) | [Take My Phone Away](https://open.spotify.com/album/7I6HvzNOc1MTYHZmint1K1) | 2:26 | 2024-10-08 |  |
 | [TAKUTÁ](https://open.spotify.com/track/3WRXW64cLmy1WSHEs9zgUZ) | [Shay Lia](https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a) | [TAKUTÁ](https://open.spotify.com/album/3isNlsXrKxnpbrznyJe2gu) | 2:38 | 2023-03-31 | 2023-07-15 |
 | [Talk About Love](https://open.spotify.com/track/2xc5PUIG6lJVvn3yr96n1r) | [Kate Hudson](https://open.spotify.com/artist/5AILMlfEtVO0ehMpDhesME) | [Talk About Love](https://open.spotify.com/album/5i6UvFvn2My0AZCwyDIXGN) | 3:48 | 2024-02-02 | 2024-05-25 |
 | [Talk About Love \(Party Pupils Remix\)](https://open.spotify.com/track/2o3787qcyApHSXSk0NkW1g) | [Kate Hudson](https://open.spotify.com/artist/5AILMlfEtVO0ehMpDhesME), [Party Pupils](https://open.spotify.com/artist/4F61H4lx1js4wtWfb2Rfnt) | [Talk About Love \(Party Pupils Remix\)](https://open.spotify.com/album/5zzDGxdAVKhdzXFch9nfpk) | 4:30 | 2024-04-12 | 2024-04-19 |

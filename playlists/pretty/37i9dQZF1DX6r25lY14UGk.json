@@ -1,12 +1,12 @@
 {
   "description": "New releases for the kids. Cover: Lisa Loeb",
-  "num_followers": 32947,
+  "num_followers": 33008,
   "original_name": "New Kids Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zv9oQAAAAADLwe9ZL5MpPx90PBj1FeU1",
+  "snapshot_id": "ZwVHPwAAAAAYxaUZaXxvkk8iGPBwlPAp",
   "tracks": [
     {
       "added_at": "2024-10-04 04:00:00",
@@ -43,6 +43,22 @@
       "duration_ms": 116928,
       "name": "How's the Weather?",
       "url": "https://open.spotify.com/track/0hH2evhfnC8viymlc7yA16"
+    },
+    {
+      "added_at": "2024-10-08 14:52:47",
+      "album": {
+        "name": "Roll Call (We Are D.I.N.O.)",
+        "url": "https://open.spotify.com/album/6kQIwlFz5WUG537z34pRcN"
+      },
+      "artists": [
+        {
+          "name": "D.I.N.O.",
+          "url": "https://open.spotify.com/artist/4sZ3HWBA7p8ijTBLIwbJ0j"
+        }
+      ],
+      "duration_ms": 83618,
+      "name": "Roll Call (We Are D.I.N.O.)",
+      "url": "https://open.spotify.com/track/6TGJ5nnRbdNV95oAFf9PQJ"
     },
     {
       "added_at": "2024-10-04 04:00:00",

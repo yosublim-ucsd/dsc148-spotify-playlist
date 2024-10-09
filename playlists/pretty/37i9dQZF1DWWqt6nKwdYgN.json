@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Lo m\u00e1s fresco del hip-hop en espa\u00f1ol! Delfina Dib en portada. ",
-  "num_followers": 14987,
+  "num_followers": 14998,
   "original_name": "Rimas Frescas ",
   "owner": {
     "name": "Spotify",
@@ -491,6 +491,22 @@
     {
       "added_at": "2024-10-04 06:00:00",
       "album": {
+        "name": "Voy tranquilo",
+        "url": "https://open.spotify.com/album/2sODnDNsxbIF8snIvBiR8b"
+      },
+      "artists": [
+        {
+          "name": "A.C.O",
+          "url": "https://open.spotify.com/artist/0x2z4hugJaiGdTP0lzhxvO"
+        }
+      ],
+      "duration_ms": 142921,
+      "name": "Voy tranquilo",
+      "url": "https://open.spotify.com/track/1YBLxv6oT9SGuxwwmE6w88"
+    },
+    {
+      "added_at": "2024-10-04 06:00:00",
+      "album": {
         "name": "Tatequieto",
         "url": "https://open.spotify.com/album/5LjOnnWR9iD8wyWwZSZJI0"
       },
@@ -515,18 +531,18 @@
     {
       "added_at": "2024-10-04 06:00:00",
       "album": {
-        "name": "Voy tranquilo",
-        "url": "https://open.spotify.com/album/2sODnDNsxbIF8snIvBiR8b"
+        "name": "No Era para M\u00ed",
+        "url": "https://open.spotify.com/album/4QR2dbCWiNhdndpcTpwDKc"
       },
       "artists": [
         {
-          "name": "A.C.O",
-          "url": "https://open.spotify.com/artist/0x2z4hugJaiGdTP0lzhxvO"
+          "name": "Selene",
+          "url": "https://open.spotify.com/artist/3hk133tFNlWGS6SKHSeE7j"
         }
       ],
-      "duration_ms": 142921,
-      "name": "Voy tranquilo",
-      "url": "https://open.spotify.com/track/1YBLxv6oT9SGuxwwmE6w88"
+      "duration_ms": 117418,
+      "name": "No Era para M\u00ed",
+      "url": "https://open.spotify.com/track/3IIQe8NgBw1lEOVHVBW19I"
     },
     {
       "added_at": "2024-10-04 06:00:00",
@@ -583,22 +599,6 @@
     {
       "added_at": "2024-10-04 06:00:00",
       "album": {
-        "name": "No Era para M\u00ed",
-        "url": "https://open.spotify.com/album/4QR2dbCWiNhdndpcTpwDKc"
-      },
-      "artists": [
-        {
-          "name": "Selene",
-          "url": "https://open.spotify.com/artist/3hk133tFNlWGS6SKHSeE7j"
-        }
-      ],
-      "duration_ms": 117418,
-      "name": "No Era para M\u00ed",
-      "url": "https://open.spotify.com/track/3IIQe8NgBw1lEOVHVBW19I"
-    },
-    {
-      "added_at": "2024-10-04 06:00:00",
-      "album": {
         "name": "El Sol",
         "url": "https://open.spotify.com/album/1wpkzV51fjsIlKpTPfx5pl"
       },
@@ -635,22 +635,6 @@
     {
       "added_at": "2024-10-04 06:00:00",
       "album": {
-        "name": "Nagasaki",
-        "url": "https://open.spotify.com/album/0JOSqpYff2eSTjPqr8drus"
-      },
-      "artists": [
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        }
-      ],
-      "duration_ms": 245379,
-      "name": "Nagasaki",
-      "url": "https://open.spotify.com/track/2l630OkikzDGx20oh3lRsK"
-    },
-    {
-      "added_at": "2024-10-04 06:00:00",
-      "album": {
         "name": "Dulcinea",
         "url": "https://open.spotify.com/album/5qldzuecHg69MKkQjCEesb"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 195000,
       "name": "La mejor noche d mi vida <3",
       "url": "https://open.spotify.com/track/5vvaJgErSongYCqKuYLH3C"
+    },
+    {
+      "added_at": "2024-10-04 06:00:00",
+      "album": {
+        "name": "Nagasaki",
+        "url": "https://open.spotify.com/album/0JOSqpYff2eSTjPqr8drus"
+      },
+      "artists": [
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "duration_ms": 245379,
+      "name": "Nagasaki",
+      "url": "https://open.spotify.com/track/2l630OkikzDGx20oh3lRsK"
     },
     {
       "added_at": "2024-10-04 06:00:00",
@@ -803,6 +803,22 @@
     {
       "added_at": "2024-10-04 06:00:00",
       "album": {
+        "name": "3 RAP",
+        "url": "https://open.spotify.com/album/7aEo9W4GQzMs5xNXVDBnFD"
+      },
+      "artists": [
+        {
+          "name": "Rokero",
+          "url": "https://open.spotify.com/artist/4LnMIW4aNwegikxZkUN4ir"
+        }
+      ],
+      "duration_ms": 255339,
+      "name": "3 RAP",
+      "url": "https://open.spotify.com/track/1MdgjClX0dCx2qCEuo05pF"
+    },
+    {
+      "added_at": "2024-10-04 06:00:00",
+      "album": {
         "name": "No Pidas Tanto",
         "url": "https://open.spotify.com/album/6gEcoYe8NQdcVZSQy23cSc"
       },
@@ -827,34 +843,26 @@
     {
       "added_at": "2024-10-04 06:00:00",
       "album": {
-        "name": "3 RAP",
-        "url": "https://open.spotify.com/album/7aEo9W4GQzMs5xNXVDBnFD"
+        "name": "Cicatrices",
+        "url": "https://open.spotify.com/album/5CJGLdMZxYbGuPGxcJzjev"
       },
       "artists": [
         {
-          "name": "Rokero",
-          "url": "https://open.spotify.com/artist/4LnMIW4aNwegikxZkUN4ir"
-        }
-      ],
-      "duration_ms": 255339,
-      "name": "3 RAP",
-      "url": "https://open.spotify.com/track/1MdgjClX0dCx2qCEuo05pF"
-    },
-    {
-      "added_at": "2024-10-04 06:00:00",
-      "album": {
-        "name": "Constante",
-        "url": "https://open.spotify.com/album/193EIfHuOLnYx7Gf9n2I9x"
-      },
-      "artists": [
+          "name": "Teeam Revolver",
+          "url": "https://open.spotify.com/artist/5MRMYpdAWZawm3ivBeWvdK"
+        },
         {
-          "name": "Crudo Means Raw",
-          "url": "https://open.spotify.com/artist/3fQP5a7SIC91kV4N8AOy53"
+          "name": "Toser One",
+          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
+        },
+        {
+          "name": "Ervin River",
+          "url": "https://open.spotify.com/artist/5FJ0JzZcNCGhquRX2zPmbL"
         }
       ],
-      "duration_ms": 140000,
-      "name": "Constante",
-      "url": "https://open.spotify.com/track/150sQBgNOXOYZkMHuDQ0xW"
+      "duration_ms": 188600,
+      "name": "Cicatrices",
+      "url": "https://open.spotify.com/track/1MIJ50wwMXAbnQOtrkU2Cn"
     },
     {
       "added_at": "2024-10-04 06:00:00",
@@ -879,26 +887,18 @@
     {
       "added_at": "2024-10-04 06:00:00",
       "album": {
-        "name": "Cicatrices",
-        "url": "https://open.spotify.com/album/5CJGLdMZxYbGuPGxcJzjev"
+        "name": "Constante",
+        "url": "https://open.spotify.com/album/193EIfHuOLnYx7Gf9n2I9x"
       },
       "artists": [
         {
-          "name": "Teeam Revolver",
-          "url": "https://open.spotify.com/artist/5MRMYpdAWZawm3ivBeWvdK"
-        },
-        {
-          "name": "Toser One",
-          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
-        },
-        {
-          "name": "Ervin River",
-          "url": "https://open.spotify.com/artist/5FJ0JzZcNCGhquRX2zPmbL"
+          "name": "Crudo Means Raw",
+          "url": "https://open.spotify.com/artist/3fQP5a7SIC91kV4N8AOy53"
         }
       ],
-      "duration_ms": 188600,
-      "name": "Cicatrices",
-      "url": "https://open.spotify.com/track/1MIJ50wwMXAbnQOtrkU2Cn"
+      "duration_ms": 140000,
+      "name": "Constante",
+      "url": "https://open.spotify.com/track/150sQBgNOXOYZkMHuDQ0xW"
     },
     {
       "added_at": "2024-10-04 06:00:00",
@@ -1031,26 +1031,6 @@
     {
       "added_at": "2024-10-04 06:00:00",
       "album": {
-        "name": "Princesa",
-        "url": "https://open.spotify.com/album/0F2L9kw8XUDcYCDUC7lESv"
-      },
-      "artists": [
-        {
-          "name": "Pitt Blanco",
-          "url": "https://open.spotify.com/artist/30gIMGuXt3QKpyVQHhJc8o"
-        },
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        }
-      ],
-      "duration_ms": 232320,
-      "name": "Princesa",
-      "url": "https://open.spotify.com/track/3e4EVVtrYQaKHAmM5G7oAb"
-    },
-    {
-      "added_at": "2024-10-04 06:00:00",
-      "album": {
         "name": "Apartamento 23",
         "url": "https://open.spotify.com/album/2X5xKYHX32aybrZiZznQet"
       },
@@ -1071,6 +1051,46 @@
       "duration_ms": 229500,
       "name": "Olvidarme de Ti",
       "url": "https://open.spotify.com/track/3maV3zRST3lH8rT5RHVHzH"
+    },
+    {
+      "added_at": "2024-10-04 06:00:00",
+      "album": {
+        "name": "Princesa",
+        "url": "https://open.spotify.com/album/0F2L9kw8XUDcYCDUC7lESv"
+      },
+      "artists": [
+        {
+          "name": "Pitt Blanco",
+          "url": "https://open.spotify.com/artist/30gIMGuXt3QKpyVQHhJc8o"
+        },
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "duration_ms": 232320,
+      "name": "Princesa",
+      "url": "https://open.spotify.com/track/3e4EVVtrYQaKHAmM5G7oAb"
+    },
+    {
+      "added_at": "2024-10-04 06:00:00",
+      "album": {
+        "name": "Tiempo y Espacio",
+        "url": "https://open.spotify.com/album/26wbg3gjneYtT9Efmichn7"
+      },
+      "artists": [
+        {
+          "name": "Soul AM",
+          "url": "https://open.spotify.com/artist/6ppLSXJZysRO3LBrlJIVuA"
+        },
+        {
+          "name": "Granuja",
+          "url": "https://open.spotify.com/artist/5KBPxIED8ejHkvhs4KCzyS"
+        }
+      ],
+      "duration_ms": 177756,
+      "name": "Tiempo y Espacio",
+      "url": "https://open.spotify.com/track/0nKGAf7pfSNmgI0d7gtNI1"
     },
     {
       "added_at": "2024-10-04 06:00:00",
@@ -1099,26 +1119,6 @@
       "duration_ms": 285333,
       "name": "Ahora",
       "url": "https://open.spotify.com/track/5JVkOvgb7pvRyIn6bwMxfH"
-    },
-    {
-      "added_at": "2024-10-04 06:00:00",
-      "album": {
-        "name": "Tiempo y Espacio",
-        "url": "https://open.spotify.com/album/26wbg3gjneYtT9Efmichn7"
-      },
-      "artists": [
-        {
-          "name": "Soul AM",
-          "url": "https://open.spotify.com/artist/6ppLSXJZysRO3LBrlJIVuA"
-        },
-        {
-          "name": "Granuja",
-          "url": "https://open.spotify.com/artist/5KBPxIED8ejHkvhs4KCzyS"
-        }
-      ],
-      "duration_ms": 177756,
-      "name": "Tiempo y Espacio",
-      "url": "https://open.spotify.com/track/0nKGAf7pfSNmgI0d7gtNI1"
     },
     {
       "added_at": "2024-10-04 06:00:00",
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2024-10-04 06:00:00",
       "album": {
+        "name": "25 Horas",
+        "url": "https://open.spotify.com/album/7IPkZfiNCCBWYj8InLxr0x"
+      },
+      "artists": [
+        {
+          "name": "Little el Crack",
+          "url": "https://open.spotify.com/artist/20kZ1fvR4TfMUsyXfOOnAm"
+        }
+      ],
+      "duration_ms": 173142,
+      "name": "25 Horas",
+      "url": "https://open.spotify.com/track/0oHynHWTNut3T6Fmt2aVZg"
+    },
+    {
+      "added_at": "2024-10-04 06:00:00",
+      "album": {
         "name": "Bushido: Kenjutsu",
         "url": "https://open.spotify.com/album/0Y24SAEIJFvWxttuT7QOhd"
       },
@@ -1295,22 +1311,6 @@
     {
       "added_at": "2024-10-04 06:00:00",
       "album": {
-        "name": "25 Horas",
-        "url": "https://open.spotify.com/album/7IPkZfiNCCBWYj8InLxr0x"
-      },
-      "artists": [
-        {
-          "name": "Little el Crack",
-          "url": "https://open.spotify.com/artist/20kZ1fvR4TfMUsyXfOOnAm"
-        }
-      ],
-      "duration_ms": 173142,
-      "name": "25 Horas",
-      "url": "https://open.spotify.com/track/0oHynHWTNut3T6Fmt2aVZg"
-    },
-    {
-      "added_at": "2024-10-04 06:00:00",
-      "album": {
         "name": "CASI",
         "url": "https://open.spotify.com/album/72dPwaAdpVg6fDfUszTGmu"
       },
@@ -1327,6 +1327,22 @@
       "duration_ms": 146666,
       "name": "CASI",
       "url": "https://open.spotify.com/track/5TGn2VR9DmeD65Vs7M8AVE"
+    },
+    {
+      "added_at": "2024-10-04 06:00:00",
+      "album": {
+        "name": "MC Davo En Vivo: Parte 1",
+        "url": "https://open.spotify.com/album/22nziBYtQx99cuPNviBuB0"
+      },
+      "artists": [
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        }
+      ],
+      "duration_ms": 194383,
+      "name": "Adi\u00f3s - En Vivo",
+      "url": "https://open.spotify.com/track/7a4T12ZnRyt2kxA3NHgLwj"
     },
     {
       "added_at": "2024-10-04 06:00:00",
@@ -1391,22 +1407,6 @@
       "duration_ms": 167127,
       "name": "La Fuente",
       "url": "https://open.spotify.com/track/3ysOIJAqg29lkdRAKAelAZ"
-    },
-    {
-      "added_at": "2024-10-04 06:00:00",
-      "album": {
-        "name": "MC Davo En Vivo: Parte 1",
-        "url": "https://open.spotify.com/album/22nziBYtQx99cuPNviBuB0"
-      },
-      "artists": [
-        {
-          "name": "MC Davo",
-          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
-        }
-      ],
-      "duration_ms": 194383,
-      "name": "Adi\u00f3s - En Vivo",
-      "url": "https://open.spotify.com/track/7a4T12ZnRyt2kxA3NHgLwj"
     },
     {
       "added_at": "2024-10-04 06:00:00",
@@ -1567,6 +1567,30 @@
     {
       "added_at": "2024-10-04 06:00:00",
       "album": {
+        "name": "Cxrtier",
+        "url": "https://open.spotify.com/album/18yDCznNglFexmWgTQJAeC"
+      },
+      "artists": [
+        {
+          "name": "Ruzto",
+          "url": "https://open.spotify.com/artist/5Ti7e3WlCPPlcsZfxqtzTo"
+        },
+        {
+          "name": "N. Hardem",
+          "url": "https://open.spotify.com/artist/6oqagavQDMpR3KKeX4eqjL"
+        },
+        {
+          "name": "Ecks One",
+          "url": "https://open.spotify.com/artist/4kwGYV3ZRvWaEbRW1VuKBF"
+        }
+      ],
+      "duration_ms": 244878,
+      "name": "Cxrtier",
+      "url": "https://open.spotify.com/track/4d1VlTfnv3hn488JmtH3h7"
+    },
+    {
+      "added_at": "2024-10-04 06:00:00",
+      "album": {
         "name": "Just in Case",
         "url": "https://open.spotify.com/album/6wsdi0LpS2DAf7Nky6kH83"
       },
@@ -1599,30 +1623,6 @@
       "duration_ms": 180000,
       "name": "Mientras Dorm\u00edas",
       "url": "https://open.spotify.com/track/13uMnjrM1uVDuHgAbEkgMc"
-    },
-    {
-      "added_at": "2024-10-04 06:00:00",
-      "album": {
-        "name": "Cxrtier",
-        "url": "https://open.spotify.com/album/18yDCznNglFexmWgTQJAeC"
-      },
-      "artists": [
-        {
-          "name": "Ruzto",
-          "url": "https://open.spotify.com/artist/5Ti7e3WlCPPlcsZfxqtzTo"
-        },
-        {
-          "name": "N. Hardem",
-          "url": "https://open.spotify.com/artist/6oqagavQDMpR3KKeX4eqjL"
-        },
-        {
-          "name": "Ecks One",
-          "url": "https://open.spotify.com/artist/4kwGYV3ZRvWaEbRW1VuKBF"
-        }
-      ],
-      "duration_ms": 244878,
-      "name": "Cxrtier",
-      "url": "https://open.spotify.com/track/4d1VlTfnv3hn488JmtH3h7"
     },
     {
       "added_at": "2024-10-04 06:00:00",
@@ -1907,26 +1907,6 @@
     {
       "added_at": "2024-10-04 06:00:00",
       "album": {
-        "name": "El Principio",
-        "url": "https://open.spotify.com/album/4EuEto6ohaUw9ycUf1oTrD"
-      },
-      "artists": [
-        {
-          "name": "Santo Dinero",
-          "url": "https://open.spotify.com/artist/6CU1phuKZ3rraHv35m5ehB"
-        },
-        {
-          "name": "Geassassin",
-          "url": "https://open.spotify.com/artist/4V2V4PaSblStayYVWTGDbZ"
-        }
-      ],
-      "duration_ms": 304500,
-      "name": "El Principio",
-      "url": "https://open.spotify.com/track/1sSEPjwkbwoW5NUjI4Faw5"
-    },
-    {
-      "added_at": "2024-10-04 06:00:00",
-      "album": {
         "name": "cereza",
         "url": "https://open.spotify.com/album/5oTWuDyBWoQZH1R6blCdm6"
       },
@@ -1947,6 +1927,26 @@
     {
       "added_at": "2024-10-04 06:00:00",
       "album": {
+        "name": "El Principio",
+        "url": "https://open.spotify.com/album/4EuEto6ohaUw9ycUf1oTrD"
+      },
+      "artists": [
+        {
+          "name": "Santo Dinero",
+          "url": "https://open.spotify.com/artist/6CU1phuKZ3rraHv35m5ehB"
+        },
+        {
+          "name": "Geassassin",
+          "url": "https://open.spotify.com/artist/4V2V4PaSblStayYVWTGDbZ"
+        }
+      ],
+      "duration_ms": 304500,
+      "name": "El Principio",
+      "url": "https://open.spotify.com/track/1sSEPjwkbwoW5NUjI4Faw5"
+    },
+    {
+      "added_at": "2024-10-04 06:00:00",
+      "album": {
         "name": "Droga",
         "url": "https://open.spotify.com/album/6fyTpFJ692gCsBXpngo3a7"
       },
@@ -1963,22 +1963,6 @@
       "duration_ms": 147594,
       "name": "Droga",
       "url": "https://open.spotify.com/track/37QFvs4p1XY1ObRyXZGHqj"
-    },
-    {
-      "added_at": "2024-10-04 06:00:00",
-      "album": {
-        "name": "Guantes M\u00e1scara",
-        "url": "https://open.spotify.com/album/1KBf3fVQu8CB3sJgoFH3fe"
-      },
-      "artists": [
-        {
-          "name": "T.O.N.A",
-          "url": "https://open.spotify.com/artist/10UmrqEfeg6yiGZo5qKqyK"
-        }
-      ],
-      "duration_ms": 211750,
-      "name": "Guantes M\u00e1scara",
-      "url": "https://open.spotify.com/track/1BPARtiHt4FvEOlOgzkH6E"
     },
     {
       "added_at": "2024-10-04 06:00:00",
@@ -2011,6 +1995,22 @@
       "duration_ms": 169500,
       "name": "EL FOCO",
       "url": "https://open.spotify.com/track/0lpcvU39R3id2Gwj695DWQ"
+    },
+    {
+      "added_at": "2024-10-04 06:00:00",
+      "album": {
+        "name": "Guantes M\u00e1scara",
+        "url": "https://open.spotify.com/album/1KBf3fVQu8CB3sJgoFH3fe"
+      },
+      "artists": [
+        {
+          "name": "T.O.N.A",
+          "url": "https://open.spotify.com/artist/10UmrqEfeg6yiGZo5qKqyK"
+        }
+      ],
+      "duration_ms": 211750,
+      "name": "Guantes M\u00e1scara",
+      "url": "https://open.spotify.com/track/1BPARtiHt4FvEOlOgzkH6E"
     }
   ],
   "unique_name": "Rimas Frescas ",

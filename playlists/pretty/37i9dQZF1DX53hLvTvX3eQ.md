@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX53hLvTvX3eQ.md) - [plain]
 
 > 90년대 모두의 마음을 사로 잡았던 추억의 록 발라드를 즐겨보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,961 likes - 75 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,971 likes - 75 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX53hLvTvX3eQ.md) - [plain]
 | 8 | [발걸음](https://open.spotify.com/track/7JN8HvhCflgYz0ZqZeoljj) | [에메랄드 캐슬](https://open.spotify.com/artist/7zPGoXRG2xvV99yRfzM3Yp) | [Invitation](https://open.spotify.com/album/1E1VNOZbbsnKxEpRgXP5Jd) | 4:09 |
 | 9 | [사랑 Two](https://open.spotify.com/track/5EGZGkg7DuToUdEa88W2xQ) | [Yoon Do Hyun](https://open.spotify.com/artist/6KsmQPHXE3qhzNNBPSZ0eB) | [가을 우체국 앞에서](https://open.spotify.com/album/78rKb6IVqCQRpfQPBJwKTt) | 5:16 |
 | 10 | [겁쟁이](https://open.spotify.com/track/39G6FVe7Kcwm4AFArODRqt) | [BUZZ](https://open.spotify.com/artist/4SdXXEHKFa5NSoh10QxeN2) | [Buzz Effect](https://open.spotify.com/album/3pax3J1b9jlG8GHdPQ8QU9) | 4:43 |
-| 11 | [유리의 성 \#Story 3](https://open.spotify.com/track/578HuRRS0tFvtYhs3t8vwc) | [Kim Seong Myun](https://open.spotify.com/artist/5svaD2IpOu7m6NB8k6k1Kp) | [VOCALIST](https://open.spotify.com/album/1gtjK8tx9l5vt5QooJcy6N) | 4:56 |
+| 11 | [유리의 성 \#Story 3](https://open.spotify.com/track/578HuRRS0tFvtYhs3t8vwc) | [KIM sung myun](https://open.spotify.com/artist/5svaD2IpOu7m6NB8k6k1Kp) | [VOCALIST](https://open.spotify.com/album/1gtjK8tx9l5vt5QooJcy6N) | 4:56 |
 | 12 | [중독된 사랑](https://open.spotify.com/track/5NtAjS4i0wEFK0lvvuSAVb) | [Cho Jang Hyuck](https://open.spotify.com/artist/7KbzPMRhUFtaSynZ4Oim5Q) | [Love](https://open.spotify.com/album/3OXMz0E7sNDCEtiB4xNNkf) | 4:26 |
 | 13 | [당신을 위하여](https://open.spotify.com/track/5qTEVUFXNLwFtbwZiNiVwZ) | [The Cross](https://open.spotify.com/artist/5iWp4nvZ8u0DxQjVIidCuC) | [Melody Quus](https://open.spotify.com/album/6Nb2dANlImyX56CsWHxDEW) | 4:03 |
 | 14 | [One Love \(20th Edition\)](https://open.spotify.com/track/6jg7fiZTt7tLeSXRSsAzqK) | [M.C the Max](https://open.spotify.com/artist/3MaRWfwKpbYnkYHC5gRKYo) | [CEREMONIA](https://open.spotify.com/album/2tb2AzY9uac3ND3Wf8RQPL) | 3:54 |
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX53hLvTvX3eQ.md) - [plain]
 | 45 | [마지막 약속](https://open.spotify.com/track/6GzhacPOP82WUlTLCatTPY) | [Kim Jung Min](https://open.spotify.com/artist/3SqnTAwj36AgFDT1XVIPD8) | [4Love](https://open.spotify.com/album/0gEHgjhOKYuP73SzPRDf8w) | 4:14 |
 | 46 | [비와 당신의 이야기](https://open.spotify.com/track/4YvWV2TfZkrUYS6Th28iKB) | [BOOHWAL](https://open.spotify.com/artist/2LtEDRKi75vGtsfdy205jX) | [The Best Of Born Again](https://open.spotify.com/album/4rvxxZJ12vnJgPLCsIM2AN) | 6:01 |
 | 47 | [지상에서 영원으로](https://open.spotify.com/track/4WnjZdYQuB7KUhdfxdd6bi) | [정경화](https://open.spotify.com/artist/1yjdL7icFOQ3QlPReSiCfN) | [화답](https://open.spotify.com/album/6Ao1l6VzhzhQhnK9ynICak) | 3:47 |
-| 48 | [그녀의 연인에게..\. \#Story 1](https://open.spotify.com/track/4uNF79VtjMAbnpQKCPn5Oz) | [Kim Seong Myun](https://open.spotify.com/artist/5svaD2IpOu7m6NB8k6k1Kp) | [VOCALIST](https://open.spotify.com/album/1gtjK8tx9l5vt5QooJcy6N) | 4:50 |
+| 48 | [그녀의 연인에게..\. \#Story 1](https://open.spotify.com/track/4uNF79VtjMAbnpQKCPn5Oz) | [KIM sung myun](https://open.spotify.com/artist/5svaD2IpOu7m6NB8k6k1Kp) | [VOCALIST](https://open.spotify.com/album/1gtjK8tx9l5vt5QooJcy6N) | 4:50 |
 | 49 | [무한지애](https://open.spotify.com/track/1kCG4eKMan608Mwb4xDdsc) | [Kim Jung Min](https://open.spotify.com/artist/3SqnTAwj36AgFDT1XVIPD8) | [Change](https://open.spotify.com/album/5FptJBahqPCkB746VV5BMD) | 4:30 |
 | 50 | [정상에서](https://open.spotify.com/track/03W1W2txKt53LhfiRFyjas) | [Kim Jung Min](https://open.spotify.com/artist/3SqnTAwj36AgFDT1XVIPD8) | [The Greatest Love Song 2002](https://open.spotify.com/album/6FQufulNo3K8qdln60tudg) | 4:41 |
 | 51 | [beginning](https://open.spotify.com/track/2BtlbxJF9yfPNbza29VmoR) | [Park Ki Young](https://open.spotify.com/artist/2wAjuE3pVtauK8ZQ2p4SXN) | [Promise](https://open.spotify.com/album/5teS918UxfihkdCYzHIwde) | 3:26 |
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX53hLvTvX3eQ.md) - [plain]
 | 67 | [Change](https://open.spotify.com/track/4QBK8zyiYAkxbg5dgKdFoy) | [Cho Jang Hyuck](https://open.spotify.com/artist/7KbzPMRhUFtaSynZ4Oim5Q) | [그대 떠나가도](https://open.spotify.com/album/1whdmxp3Yr9SDL3D9QYpKx) | 4:28 |
 | 68 | [그 사람](https://open.spotify.com/track/6ad1hOruGyvnNvIk53VgmD) | [Lee Seung Chul](https://open.spotify.com/artist/5Ecf8RR2UWFAvyeItabffF) | [제빵왕 김탁구 OST Part.3](https://open.spotify.com/album/4aNwPS4cpqI4O5aMQPn6pH) | 3:58 |
 | 69 | [애인](https://open.spotify.com/track/5CQmfyr1DkLxpLlpkhR0J3) | [Kim Jung Min](https://open.spotify.com/artist/3SqnTAwj36AgFDT1XVIPD8) | [Change](https://open.spotify.com/album/5FptJBahqPCkB746VV5BMD) | 4:53 |
-| 70 | [슬프도록 아름다운](https://open.spotify.com/track/21leGkMoq1C97wE89Jyql2) | [Kim Seong Myun](https://open.spotify.com/artist/5svaD2IpOu7m6NB8k6k1Kp) | [해피앤드 \(Original Television Soundtrack\)](https://open.spotify.com/album/6dPKrBrP9opxdHwKnJErV4) | 4:09 |
+| 70 | [슬프도록 아름다운](https://open.spotify.com/track/21leGkMoq1C97wE89Jyql2) | [KIM sung myun](https://open.spotify.com/artist/5svaD2IpOu7m6NB8k6k1Kp) | [해피앤드 \(Original Television Soundtrack\)](https://open.spotify.com/album/6dPKrBrP9opxdHwKnJErV4) | 4:09 |
 | 71 | [사랑의 시](https://open.spotify.com/track/6K60nJi0wMt6XcPvhGbQLP) | [M.C the Max](https://open.spotify.com/artist/3MaRWfwKpbYnkYHC5gRKYo) | [Love Is Time Sixth Sense](https://open.spotify.com/album/6VjZu0I92vdfh4dGEP9qCQ) | 3:45 |
 | 72 | [Never Ending Story](https://open.spotify.com/track/6Qa7ooyOGYyf9oHA0I9Ay3) | [Lee Seung Chul](https://open.spotify.com/artist/5Ecf8RR2UWFAvyeItabffF) | [He's Coming](https://open.spotify.com/album/79G1oGLZPcyQAyPBRb8HJi) | 4:59 |
 | 73 | [애인…있어요](https://open.spotify.com/track/4hDdZkmUuBiM8mQSGXeY75) | [Lee Eun Mi](https://open.spotify.com/artist/57Rbh9mF8Peu1jOPRawGHW) | [이은미 LIVE CONCERT 가슴이 뛴다](https://open.spotify.com/album/2zFdzuOnmYvh9fKJgRpOIm) | 4:18 |

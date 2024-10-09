@@ -4,7 +4,7 @@
 
 > All about aespa: meeting another self and experiencing the new world
 
-66 songs - 3 hr 37 min
+67 songs - 3 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Step Back](https://open.spotify.com/track/3LCwQoTrdQgHsGJE5gGVqx) | [GOT the beat](https://open.spotify.com/artist/6uNxlIP5lzPFf0BHuELOuX) | [Step Back](https://open.spotify.com/album/3gwL04bGAX4Kc2D5Wd7NMk) | 3:48 | 2022-07-08 |  |
 | [Supernova](https://open.spotify.com/track/2nPYPc5Ww4Nunu0FNCccPF) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Supernova](https://open.spotify.com/album/3T1PoeevcDKayJosKjNr6H) | 2:58 | 2024-05-13 |  |
 | [Supernova \- Grimes Remix](https://open.spotify.com/track/21HriDvqeoSKkZxbM5mVTw) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE), [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [iScreaM Vol.33 : Supernova / Armageddon Remixes](https://open.spotify.com/album/6uWbkjA7Osh3VNnnGeyfl6) | 3:47 | 2024-09-27 |  |
+| [Supernova \- KENZIE RE:WORKS](https://open.spotify.com/track/0n9tJMt5qtXOoPVlaNPvIM) | [KENZIE](https://open.spotify.com/artist/0ZZtYIiyXvgRAKrTh6mCOd), [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [RE:WORKS](https://open.spotify.com/album/6HqiFsktBxto6ushwmDOUj) | 3:32 | 2024-10-08 |  |
 | [Thirsty](https://open.spotify.com/track/6nICBdDevG4NZysIqDFPEa) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [MY WORLD \- The 3rd Mini Album](https://open.spotify.com/album/69xF8jTd0c4Zoo7DT3Rwrn) | 3:13 | 2023-05-08 |  |
 | [Trick or Trick](https://open.spotify.com/track/3EI3OLBeM89B0o0UsIGCOx) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Drama \- The 4th Mini Album](https://open.spotify.com/album/5NMtxQJy4wq3mpo3ERVnLs) | 2:55 | 2023-11-10 |  |
 | [We Go](https://open.spotify.com/track/7hxvMTEUOXEKDZ3nnUqbdJ) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Pokémon 2023 \(Original TV Series Soundtrack, Korea\)](https://open.spotify.com/album/2rTc5TdRP7hr7gE4h4lUR1) | 3:08 | 2023-08-23 |  |

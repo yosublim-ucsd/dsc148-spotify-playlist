@@ -1,12 +1,12 @@
 {
   "description": "This Is Los Tucanes De Tijuana. Los temas esenciales, todos en una lista.",
-  "num_followers": 312527,
+  "num_followers": 312585,
   "original_name": "This Is Los Tucanes De Tijuana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwHTAAAAAAAWNrkPGGU7Y9ivJJ22PXD+",
+  "snapshot_id": "ZwMkgAAAAADETEQWtlvsKXNlvWbPN5wl",
   "tracks": [
     {
       "added_at": null,
@@ -667,22 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los Mas Buscados",
-        "url": "https://open.spotify.com/album/64dZEFpVrF6TkL6G5nmYWh"
-      },
-      "artists": [
-        {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
-        }
-      ],
-      "duration_ms": 206280,
-      "name": "El Heredero",
-      "url": "https://open.spotify.com/track/59YF0TRYWRyS4O3taW5Wuc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Corridos Del Norte",
         "url": "https://open.spotify.com/album/7enZWFv7Rg26LhC5LF8j7o"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 218581,
       "name": "Sangre Potosina",
       "url": "https://open.spotify.com/track/5erCcQWsyLw84cPDKQCls4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Los Mas Buscados",
+        "url": "https://open.spotify.com/album/64dZEFpVrF6TkL6G5nmYWh"
+      },
+      "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        }
+      ],
+      "duration_ms": 206280,
+      "name": "El Heredero",
+      "url": "https://open.spotify.com/track/59YF0TRYWRyS4O3taW5Wuc"
     },
     {
       "added_at": null,
@@ -715,22 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fiesta En La Sierra",
-        "url": "https://open.spotify.com/album/1L6ZKKNxkl6WVIVaT4eyk9"
-      },
-      "artists": [
-        {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
-        }
-      ],
-      "duration_ms": 203960,
-      "name": "Hombre De Negocios",
-      "url": "https://open.spotify.com/track/1pvrqcmSWAn0qvxlpbuXvD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Imperio",
         "url": "https://open.spotify.com/album/4n0IYzVbxLFckUKpurk6kN"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 191613,
       "name": "El Regreso Del Chapo",
       "url": "https://open.spotify.com/track/4baEwCzla3yCyz21uhOFLp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fiesta En La Sierra",
+        "url": "https://open.spotify.com/album/1L6ZKKNxkl6WVIVaT4eyk9"
+      },
+      "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        }
+      ],
+      "duration_ms": 203960,
+      "name": "Hombre De Negocios",
+      "url": "https://open.spotify.com/track/1pvrqcmSWAn0qvxlpbuXvD"
     },
     {
       "added_at": null,

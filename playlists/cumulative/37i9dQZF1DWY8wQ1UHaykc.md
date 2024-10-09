@@ -4,7 +4,7 @@
 
 > Lagu\-lagu terpopuler dari dekade 2010an\. Cover: Once Mekel
 
-177 songs - 12 hr 9 min
+179 songs - 12 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Cinta Sejati \- Remastered 2024](https://open.spotify.com/track/3rsTUQcZbCWlH2CSGP4s48) | [Bunga Citra Lestari](https://open.spotify.com/artist/30qVSJGhPhrZLKG0H9DMA9) | [Cinta Sejati \- Remastered 2024](https://open.spotify.com/album/5MX0MzRa7G6inW4qBA0UUt) | 5:01 | 2024-09-27 |  |
 | [Cinta Sendiri](https://open.spotify.com/track/5EkdegwaCNMhVdMwF6b7wZ) | [Kahitna](https://open.spotify.com/artist/2WhoMc7XqIzVXWbQqSoqe7) | [Cerita Cinta 25 Tahun Kahitna](https://open.spotify.com/album/139rp11ERodJI2teyNKkkN) | 4:13 | 2024-01-05 |  |
 | [Cinta Tak Mungkin Berhenti](https://open.spotify.com/track/4xthpyTiqIwZMJzX6UmLtK) | [Tangga](https://open.spotify.com/artist/2XcOYJZRPtn0BASWE7R66J) | [Utuh](https://open.spotify.com/album/0lWHzXhEsdp7kwBSjXSdsB) | 4:22 | 2024-03-14 |  |
+| [Cinta Terlarang](https://open.spotify.com/track/3pF1OGQdqegfytyVY0dBeA) | [The Virgin](https://open.spotify.com/artist/7tXc4Tew6Bnr4moD7OeBfJ) | [Yes I Am](https://open.spotify.com/album/0WDn4CBLLfrAwiCcRZZmgu) | 4:41 | 2024-10-08 |  |
 | [Cobalah Mengerti](https://open.spotify.com/track/6y4YFWm1WDrwThOXCALV1E) | [Ariel NOAH](https://open.spotify.com/artist/5YrZrapAjJbpikrp3JEmMF), [Uki](https://open.spotify.com/artist/3Wi7uVHcueSkogkJUgifDz), [Lukman NOAH](https://open.spotify.com/artist/7cqkPIDgCi7INzyMFzvB1w), [Reza NOAH](https://open.spotify.com/artist/3t8gr6iE3A2xnvkc249oRK), [David Noah](https://open.spotify.com/artist/4b8KHsSpH8aBRYyi5SPSNJ), [Momo GEISHA](https://open.spotify.com/artist/1lZKDybT3NPpIpSCD7J95m) | [Suara Lainnya](https://open.spotify.com/album/7MLg9OTj1KECK5ZJTeIPwE) | 5:04 | 2024-01-05 |  |
 | [Cobalah Mengerti](https://open.spotify.com/track/6Q3drjVKaqyNDU8xFyFN24) | [Noah](https://open.spotify.com/artist/31aMmlq8isIAgojvmIwiS4) | [Suara Lainnya](https://open.spotify.com/album/0PDuAFPuyaZ87TMLq2MSnG) | 5:04 | 2024-04-19 |  |
 | [Could It Be](https://open.spotify.com/track/2EJqk0IabX2xVZHOl3YuXu) | [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk) | [Raisa](https://open.spotify.com/album/4BZl8mzxQXW0CeOWEV4vek) | 3:41 | 2024-04-19 |  |
@@ -114,6 +115,7 @@
 | [Menyimpan Rasa](https://open.spotify.com/track/1oPhiw7KmW3JK0gjuSF4YH) | [Devano](https://open.spotify.com/artist/5nWpcynsaMBFgtGmJODhdi) | [Menyimpan Rasa](https://open.spotify.com/album/0E8TQKFgUP04XaMYK1ls1m) | 3:30 | 2024-05-27 |  |
 | [Merindu Lagi \(Pada Kekasih Orang\)](https://open.spotify.com/track/3vN8A1HfOcytUpCiEm2qqI) | [Yovie & Nuno](https://open.spotify.com/artist/3DHOtJqv0Bw65ENlK4FiSF) | [Winning 11](https://open.spotify.com/album/6nFdenkFLOxjD5eYaD6pZc) | 2:59 | 2024-01-05 |  |
 | [Muara](https://open.spotify.com/track/4lCtZZktwgQqzCoJxK3ZxR) | [Adera](https://open.spotify.com/artist/5puPe9ODwSfnmqy5cx90TC) | [Muara](https://open.spotify.com/album/45nwYGZMMBIXEKl1SUzYMj) | 4:01 | 2024-01-05 |  |
+| [Nenekku Pahlawanku](https://open.spotify.com/track/2ALQHMFnSjKzRhGwXVSfHD) | [Wali](https://open.spotify.com/artist/5pnSNZZRyYViu2n58Zlw1J) | [Aku Bukan Bang Toyib](https://open.spotify.com/album/4SU72f8lCnTr1GM9GPkFPY) | 4:15 | 2024-10-08 |  |
 | [Oh Baby](https://open.spotify.com/track/2Sol76xmqWjMa8MKhgMYJF) | [Cinta Laura Kiehl](https://open.spotify.com/artist/2hpcsQx9HOJnoKczjvXehn) | [Cinta Laura](https://open.spotify.com/album/5mm6E2mqMUFzPMR6z8kOkA) | 4:27 | 2024-01-05 |  |
 | [Opera Tuhan](https://open.spotify.com/track/2hLbk8JJR5olKLVWkuRDW7) | [Cakra Khan](https://open.spotify.com/artist/6pZzHAdfBLIEkQVRUhB8ps) | [Opera Tuhan](https://open.spotify.com/album/4xTwP1jFzSH3HryH9sI0r8) | 3:43 | 2024-07-19 |  |
 | [Pelangi](https://open.spotify.com/track/3ZwqWrRpylU9nfy99qwKdR) | [Hivi!](https://open.spotify.com/artist/4ubEZ6sMsrrbQChueyouCC) | [Kereta Kencan](https://open.spotify.com/album/4X40KZmA4LE4beNaNrQuNw) | 3:37 | 2024-01-05 | 2024-04-19 |

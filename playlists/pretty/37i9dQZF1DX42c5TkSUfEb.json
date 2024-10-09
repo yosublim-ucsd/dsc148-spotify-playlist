@@ -1,6 +1,6 @@
 {
   "description": "La playlist id\u00e9ale pour se d\u00e9tendre en musique.",
-  "num_followers": 769565,
+  "num_followers": 769766,
   "original_name": "Au calme",
   "owner": {
     "name": "Spotify",
@@ -107,22 +107,6 @@
     {
       "added_at": "2024-10-04 15:42:51",
       "album": {
-        "name": "Transformer",
-        "url": "https://open.spotify.com/album/5SqbMEyAt8332ISGiLX0St"
-      },
-      "artists": [
-        {
-          "name": "Lou Reed",
-          "url": "https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL"
-        }
-      ],
-      "duration_ms": 254173,
-      "name": "Walk On the Wild Side",
-      "url": "https://open.spotify.com/track/5p3JunprHCxClJjOmcLV8G"
-    },
-    {
-      "added_at": "2024-10-04 15:42:51",
-      "album": {
         "name": "S P E Y S I D E",
         "url": "https://open.spotify.com/album/5VFsihsTprFnqRHyrNxMPs"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 209077,
       "name": "S P E Y S I D E",
       "url": "https://open.spotify.com/track/6khKJVbTxzfhbGfHMtyOM8"
+    },
+    {
+      "added_at": "2024-10-04 15:42:51",
+      "album": {
+        "name": "Transformer",
+        "url": "https://open.spotify.com/album/5SqbMEyAt8332ISGiLX0St"
+      },
+      "artists": [
+        {
+          "name": "Lou Reed",
+          "url": "https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL"
+        }
+      ],
+      "duration_ms": 254173,
+      "name": "Walk On the Wild Side",
+      "url": "https://open.spotify.com/track/5p3JunprHCxClJjOmcLV8G"
     },
     {
       "added_at": "2024-10-04 15:42:51",
@@ -319,22 +319,6 @@
     {
       "added_at": "2024-10-04 15:42:51",
       "album": {
-        "name": "Gee Whiz But This Is a Lonesome Town",
-        "url": "https://open.spotify.com/album/5XX0nXTLzjR16Eo7f1AhTK"
-      },
-      "artists": [
-        {
-          "name": "Moriarty",
-          "url": "https://open.spotify.com/artist/0qG2Tf6fJaCuWKGz1IitKa"
-        }
-      ],
-      "duration_ms": 264826,
-      "name": "Jimmy",
-      "url": "https://open.spotify.com/track/6Zw0NBdfr1VlVJjDRFwUe1"
-    },
-    {
-      "added_at": "2024-10-04 15:42:51",
-      "album": {
         "name": "Street Bangerz Volume 6: Playhouse",
         "url": "https://open.spotify.com/album/0BHnSZAC8IfThmwlPcQQMz"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 240000,
       "name": "But I Do",
       "url": "https://open.spotify.com/track/4ox2odCf0XL0g6692URWwe"
+    },
+    {
+      "added_at": "2024-10-04 15:42:51",
+      "album": {
+        "name": "Gee Whiz But This Is a Lonesome Town",
+        "url": "https://open.spotify.com/album/5XX0nXTLzjR16Eo7f1AhTK"
+      },
+      "artists": [
+        {
+          "name": "Moriarty",
+          "url": "https://open.spotify.com/artist/0qG2Tf6fJaCuWKGz1IitKa"
+        }
+      ],
+      "duration_ms": 264826,
+      "name": "Jimmy",
+      "url": "https://open.spotify.com/track/6Zw0NBdfr1VlVJjDRFwUe1"
     },
     {
       "added_at": "2024-10-04 15:42:51",
@@ -451,22 +451,6 @@
     {
       "added_at": "2024-10-04 15:42:51",
       "album": {
-        "name": "Born To Be Alive",
-        "url": "https://open.spotify.com/album/3FfMjxeN7TOVyUwDqPCaXE"
-      },
-      "artists": [
-        {
-          "name": "Bea and her Business",
-          "url": "https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym"
-        }
-      ],
-      "duration_ms": 157068,
-      "name": "Born To Be Alive",
-      "url": "https://open.spotify.com/track/3t5o6aDBXWyNZiyFQylraq"
-    },
-    {
-      "added_at": "2024-10-04 15:42:51",
-      "album": {
         "name": "The Pirate's Gospel (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1rxMCeSrBGC5qf9di9gOJ6"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 175453,
       "name": "The Pirate's Gospel",
       "url": "https://open.spotify.com/track/5azaaeLKtKevqs8u1XHRHI"
+    },
+    {
+      "added_at": "2024-10-04 15:42:51",
+      "album": {
+        "name": "Born To Be Alive",
+        "url": "https://open.spotify.com/album/3FfMjxeN7TOVyUwDqPCaXE"
+      },
+      "artists": [
+        {
+          "name": "Bea and her Business",
+          "url": "https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym"
+        }
+      ],
+      "duration_ms": 157068,
+      "name": "Born To Be Alive",
+      "url": "https://open.spotify.com/track/3t5o6aDBXWyNZiyFQylraq"
     },
     {
       "added_at": "2024-10-04 15:42:51",
@@ -803,22 +803,6 @@
     {
       "added_at": "2024-10-04 15:42:51",
       "album": {
-        "name": "You",
-        "url": "https://open.spotify.com/album/70RuuZgBUfzBzxREbvIigs"
-      },
-      "artists": [
-        {
-          "name": "Selah Sue",
-          "url": "https://open.spotify.com/artist/5Oc4knEQaid8K7AFqO5lHu"
-        }
-      ],
-      "duration_ms": 180973,
-      "name": "You",
-      "url": "https://open.spotify.com/track/5eNfh2WZrReCBJIGssyW4G"
-    },
-    {
-      "added_at": "2024-10-04 15:42:51",
-      "album": {
         "name": "Surrender",
         "url": "https://open.spotify.com/album/5FWqyyldyosXvAYesblpb5"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 234240,
       "name": "Surrender",
       "url": "https://open.spotify.com/track/65cQkOFngSgj37Gnzp4ry4"
+    },
+    {
+      "added_at": "2024-10-04 15:42:51",
+      "album": {
+        "name": "You",
+        "url": "https://open.spotify.com/album/70RuuZgBUfzBzxREbvIigs"
+      },
+      "artists": [
+        {
+          "name": "Selah Sue",
+          "url": "https://open.spotify.com/artist/5Oc4knEQaid8K7AFqO5lHu"
+        }
+      ],
+      "duration_ms": 180973,
+      "name": "You",
+      "url": "https://open.spotify.com/track/5eNfh2WZrReCBJIGssyW4G"
     },
     {
       "added_at": "2024-10-04 15:42:51",
@@ -987,22 +987,6 @@
     {
       "added_at": "2024-10-04 15:42:51",
       "album": {
-        "name": "Barton Hollow",
-        "url": "https://open.spotify.com/album/3GtyVMEnfmc3rl8pTYBJqi"
-      },
-      "artists": [
-        {
-          "name": "The Civil Wars",
-          "url": "https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE"
-        }
-      ],
-      "duration_ms": 219466,
-      "name": "Poison & Wine",
-      "url": "https://open.spotify.com/track/5eAZSmWJjKNnMposeGbcCh"
-    },
-    {
-      "added_at": "2024-10-04 15:42:51",
-      "album": {
         "name": "and we\u2019ll leave it there\u2026",
         "url": "https://open.spotify.com/album/1b7UmY5gAuMFrcotfQ8G6d"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 219840,
       "name": "and we\u2019ll leave it there\u2026",
       "url": "https://open.spotify.com/track/55k261ZvchUvKnC62TYwK9"
+    },
+    {
+      "added_at": "2024-10-04 15:42:51",
+      "album": {
+        "name": "Barton Hollow",
+        "url": "https://open.spotify.com/album/3GtyVMEnfmc3rl8pTYBJqi"
+      },
+      "artists": [
+        {
+          "name": "The Civil Wars",
+          "url": "https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE"
+        }
+      ],
+      "duration_ms": 219466,
+      "name": "Poison & Wine",
+      "url": "https://open.spotify.com/track/5eAZSmWJjKNnMposeGbcCh"
     },
     {
       "added_at": "2024-10-04 15:42:51",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2024-10-04 15:42:51",
       "album": {
+        "name": "Future Ghosts",
+        "url": "https://open.spotify.com/album/7q8YXz7fBjSgE13ZsJEB8I"
+      },
+      "artists": [
+        {
+          "name": "Dekker",
+          "url": "https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN"
+        }
+      ],
+      "duration_ms": 208010,
+      "name": "Future Ghosts",
+      "url": "https://open.spotify.com/track/4qAgGrSjZGg1tpSk0wEslY"
+    },
+    {
+      "added_at": "2024-10-04 15:42:51",
+      "album": {
         "name": "Never Give Up (Acoustic Version)",
         "url": "https://open.spotify.com/album/5C7vifEyUfX7zUYtu1Qhng"
       },
@@ -1099,22 +1115,6 @@
       "duration_ms": 187863,
       "name": "Never Give Up (Acoustic Version)",
       "url": "https://open.spotify.com/track/5KVhdxJkh4hABMvaJHLz5y"
-    },
-    {
-      "added_at": "2024-10-04 15:42:51",
-      "album": {
-        "name": "I Won't Let You Down",
-        "url": "https://open.spotify.com/album/0MTBD4WKIES8BkS8rfSKnp"
-      },
-      "artists": [
-        {
-          "name": "Curtis Harding",
-          "url": "https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3"
-        }
-      ],
-      "duration_ms": 244200,
-      "name": "I Won't Let You Down",
-      "url": "https://open.spotify.com/track/32L9L0Hg4skEWlog49n1a3"
     },
     {
       "added_at": "2024-10-04 15:42:51",
@@ -1135,18 +1135,18 @@
     {
       "added_at": "2024-10-04 15:42:51",
       "album": {
-        "name": "Future Ghosts",
-        "url": "https://open.spotify.com/album/7q8YXz7fBjSgE13ZsJEB8I"
+        "name": "I Won't Let You Down",
+        "url": "https://open.spotify.com/album/0MTBD4WKIES8BkS8rfSKnp"
       },
       "artists": [
         {
-          "name": "Dekker",
-          "url": "https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN"
+          "name": "Curtis Harding",
+          "url": "https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3"
         }
       ],
-      "duration_ms": 208010,
-      "name": "Future Ghosts",
-      "url": "https://open.spotify.com/track/4qAgGrSjZGg1tpSk0wEslY"
+      "duration_ms": 244200,
+      "name": "I Won't Let You Down",
+      "url": "https://open.spotify.com/track/32L9L0Hg4skEWlog49n1a3"
     },
     {
       "added_at": "2024-10-04 15:42:51",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2024-10-04 15:42:51",
       "album": {
-        "name": "Ruby",
-        "url": "https://open.spotify.com/album/034C9JToBoiKfx0ftERpiy"
-      },
-      "artists": [
-        {
-          "name": "Holly Hebe",
-          "url": "https://open.spotify.com/artist/3K511ClkYJM2a9tcaf2R3t"
-        }
-      ],
-      "duration_ms": 166912,
-      "name": "If You Were A Person (Ruby's Song)",
-      "url": "https://open.spotify.com/track/6Vs0W8dCMo2hrYeez3iE6w"
-    },
-    {
-      "added_at": "2024-10-04 15:42:51",
-      "album": {
         "name": "Still I Wait",
         "url": "https://open.spotify.com/album/6FWJCsTKkSXcnf4LjwVdUi"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 229880,
       "name": "Still I Wait",
       "url": "https://open.spotify.com/track/2PxnTu2sRwHWEU40frBGCo"
+    },
+    {
+      "added_at": "2024-10-04 15:42:51",
+      "album": {
+        "name": "Ruby",
+        "url": "https://open.spotify.com/album/034C9JToBoiKfx0ftERpiy"
+      },
+      "artists": [
+        {
+          "name": "Holly Hebe",
+          "url": "https://open.spotify.com/artist/3K511ClkYJM2a9tcaf2R3t"
+        }
+      ],
+      "duration_ms": 166912,
+      "name": "If You Were A Person (Ruby's Song)",
+      "url": "https://open.spotify.com/track/6Vs0W8dCMo2hrYeez3iE6w"
     },
     {
       "added_at": "2024-10-04 15:42:51",
@@ -1495,6 +1495,22 @@
     {
       "added_at": "2024-10-04 15:42:51",
       "album": {
+        "name": "St\u00f6rm",
+        "url": "https://open.spotify.com/album/0EYirK4HFyP6UCLzf9SlR8"
+      },
+      "artists": [
+        {
+          "name": "Black Lilys",
+          "url": "https://open.spotify.com/artist/6dtP2BDEXa3dHhYo8u22pH"
+        }
+      ],
+      "duration_ms": 264333,
+      "name": "St\u00f6rm",
+      "url": "https://open.spotify.com/track/2n5wsJzPnKaKi1YIsGRmbi"
+    },
+    {
+      "added_at": "2024-10-04 15:42:51",
+      "album": {
         "name": "Mixtape Telecom",
         "url": "https://open.spotify.com/album/5iuLIPxKzU0X9FjaQLwN9r"
       },
@@ -1511,22 +1527,6 @@
       "duration_ms": 167692,
       "name": "echo",
       "url": "https://open.spotify.com/track/79GcoDCWzmUB64NukpaMhh"
-    },
-    {
-      "added_at": "2024-10-04 15:42:51",
-      "album": {
-        "name": "St\u00f6rm",
-        "url": "https://open.spotify.com/album/0EYirK4HFyP6UCLzf9SlR8"
-      },
-      "artists": [
-        {
-          "name": "Black Lilys",
-          "url": "https://open.spotify.com/artist/6dtP2BDEXa3dHhYo8u22pH"
-        }
-      ],
-      "duration_ms": 264333,
-      "name": "St\u00f6rm",
-      "url": "https://open.spotify.com/track/2n5wsJzPnKaKi1YIsGRmbi"
     },
     {
       "added_at": "2024-10-04 15:42:51",
@@ -1651,18 +1651,18 @@
     {
       "added_at": "2024-10-04 15:42:51",
       "album": {
-        "name": "lost minds",
-        "url": "https://open.spotify.com/album/1sn99mMq1PbyDQh03uWQej"
+        "name": "february tape",
+        "url": "https://open.spotify.com/album/3p6nOmT4UcHVWZWmbNlD9C"
       },
       "artists": [
         {
-          "name": "naya m\u00f6",
-          "url": "https://open.spotify.com/artist/4YYr2nmnZ2rKlcUh7aroZi"
+          "name": "Emma Castellino",
+          "url": "https://open.spotify.com/artist/2layJFdtvlPW95WA9s2GST"
         }
       ],
-      "duration_ms": 145844,
-      "name": "lost minds",
-      "url": "https://open.spotify.com/track/3vXel8gVTyOPJ7JmSzI6sT"
+      "duration_ms": 233076,
+      "name": "only when i was with you",
+      "url": "https://open.spotify.com/track/5GrGDLcNCM2GppSiLKteL7"
     }
   ],
   "unique_name": "Au calme",

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcFk5r8uS3l2.md) - [plain]
 
 > You've come to the crossroads of soul, folk, and the blues\. Cover: Ruthie Foster
 
-[Spotify](https://open.spotify.com/user/spotify) - 450,108 likes - 100 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 450,149 likes - 100 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Crossroads](https://open.spotify.com/track/0kE9yST43pFGqnpvkjxiZq) | [The Imaginaries](https://open.spotify.com/artist/2ND76XrIKlvo3w0cHsy66L), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Crossroads](https://open.spotify.com/album/4Ll4o9sr0YtDyYzJYq4VpN) | 3:47 |
 | 2 | [I Have No One](https://open.spotify.com/track/2vjv5sUGTHsb2fLem7b8AB) | [ZZ Ward](https://open.spotify.com/artist/7aJSIsbI5wV8aFi2kkFfPi) | [Mother](https://open.spotify.com/album/5q8iAuzS4wFRlkHjy50Ryj) | 2:33 |
-| 3 | [All The Things I Said](https://open.spotify.com/track/5viV8dro184RtltNGT0JiZ) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7) | [All The Things I Said](https://open.spotify.com/album/0wSIwTKTUh0MiXcS5jRhyQ) | 4:35 |
+| 3 | [All The Things I Said](https://open.spotify.com/track/5viV8dro184RtltNGT0JiZ) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7) | [All The Things I Said](https://open.spotify.com/album/0wSIwTKTUh0MiXcS5jRhyQ) | 4:47 |
 | 4 | [Found A Friend In You](https://open.spotify.com/track/1WXAspzwAg4loOothMAxis) | [Southern Avenue](https://open.spotify.com/artist/4HfoncnCuBS7D4xU4VDosQ) | [Found A Friend In You](https://open.spotify.com/album/2J9ZviZDjKMSqBerq84iKw) | 2:40 |
 | 5 | [Make A Change](https://open.spotify.com/track/3ZJ66cVNa8us49CLYnFBCS) | [Eric Bibb](https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1) | [Make A Change](https://open.spotify.com/album/5KjCh92XJuZpku1ENE7tJx) | 3:34 |
 | 6 | [Mileage](https://open.spotify.com/track/3F2jU00UiKwXJ3xu5LI8mF) | [Ruthie Foster](https://open.spotify.com/artist/2lL4ckeM1A2Qo2Fe64dP0F) | [Mileage](https://open.spotify.com/album/2md8QvUu2FUCDWvNPW5atB) | 4:10 |

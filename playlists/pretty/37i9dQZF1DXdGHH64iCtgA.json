@@ -1,6 +1,6 @@
 {
   "description": "Strut to electronic tracks that grace runways in Paris, New York City and Milan.",
-  "num_followers": 79967,
+  "num_followers": 79979,
   "original_name": "Runway",
   "owner": {
     "name": "Spotify",
@@ -647,6 +647,22 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
+        "name": "ANIMA",
+        "url": "https://open.spotify.com/album/1sKj6LEXiEfCmsiKwPy5uG"
+      },
+      "artists": [
+        {
+          "name": "Thom Yorke",
+          "url": "https://open.spotify.com/artist/4CvTDPKA6W06DRfBnZKrau"
+        }
+      ],
+      "duration_ms": 317986,
+      "name": "Traffic",
+      "url": "https://open.spotify.com/track/7IUckluwamoou1fey8fVFj"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
         "name": "Some Nights",
         "url": "https://open.spotify.com/album/6M8f9J7mDJnuWKDN4rD01r"
       },
@@ -663,18 +679,18 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "ANIMA",
-        "url": "https://open.spotify.com/album/1sKj6LEXiEfCmsiKwPy5uG"
+        "name": "acts of rebellion",
+        "url": "https://open.spotify.com/album/6PhhsnbohAEOXBdqsURBeh"
       },
       "artists": [
         {
-          "name": "Thom Yorke",
-          "url": "https://open.spotify.com/artist/4CvTDPKA6W06DRfBnZKrau"
+          "name": "Ela Minus",
+          "url": "https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T"
         }
       ],
-      "duration_ms": 317986,
-      "name": "Traffic",
-      "url": "https://open.spotify.com/track/7IUckluwamoou1fey8fVFj"
+      "duration_ms": 360987,
+      "name": "they told us it was hard, but they were wrong.",
+      "url": "https://open.spotify.com/track/1appKZZwq0t8cBeovLBPKi"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -711,22 +727,6 @@
       "duration_ms": 210000,
       "name": "Set Me Free - Extended Mix",
       "url": "https://open.spotify.com/track/0JSZOH5PH1oLrOB4E1rzbp"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "acts of rebellion",
-        "url": "https://open.spotify.com/album/6PhhsnbohAEOXBdqsURBeh"
-      },
-      "artists": [
-        {
-          "name": "Ela Minus",
-          "url": "https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T"
-        }
-      ],
-      "duration_ms": 360987,
-      "name": "they told us it was hard, but they were wrong.",
-      "url": "https://open.spotify.com/track/1appKZZwq0t8cBeovLBPKi"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -799,26 +799,6 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Paris to Milan",
-        "url": "https://open.spotify.com/album/4t0TNMetsmutn7aErFG88U"
-      },
-      "artists": [
-        {
-          "name": "Matt Sassari",
-          "url": "https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS"
-        },
-        {
-          "name": "Ashibah",
-          "url": "https://open.spotify.com/artist/5krSTcI0xPGmeloiQTPsYP"
-        }
-      ],
-      "duration_ms": 112380,
-      "name": "Paris to Milan",
-      "url": "https://open.spotify.com/track/5S8F1wQh1TW1l30eO6qJGD"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
         "name": "PFW (Paris Fashion Week)",
         "url": "https://open.spotify.com/album/3WxKZSS3o5PK9p87ILCbbJ"
       },
@@ -835,6 +815,26 @@
       "duration_ms": 210461,
       "name": "PFW (Paris Fashion Week)",
       "url": "https://open.spotify.com/track/46N9KCJKR8cu1CatN5UKPi"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Paris to Milan",
+        "url": "https://open.spotify.com/album/4t0TNMetsmutn7aErFG88U"
+      },
+      "artists": [
+        {
+          "name": "Matt Sassari",
+          "url": "https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS"
+        },
+        {
+          "name": "Ashibah",
+          "url": "https://open.spotify.com/artist/5krSTcI0xPGmeloiQTPsYP"
+        }
+      ],
+      "duration_ms": 112380,
+      "name": "Paris to Milan",
+      "url": "https://open.spotify.com/track/5S8F1wQh1TW1l30eO6qJGD"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -1059,6 +1059,22 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
+        "name": "Elaenia",
+        "url": "https://open.spotify.com/album/51QBkcL7S3KYdXSSA0zM9R"
+      },
+      "artists": [
+        {
+          "name": "Floating Points",
+          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
+        }
+      ],
+      "duration_ms": 642653,
+      "name": "Silhouettes (I, II, III)",
+      "url": "https://open.spotify.com/track/2D4VTAyHTFegKvcw9oRZhX"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
         "name": "Helix",
         "url": "https://open.spotify.com/album/6eBYtM0UvlNlOz2CZf61DH"
       },
@@ -1075,22 +1091,6 @@
       "duration_ms": 276960,
       "name": "Helix - Gesaffelstein Vision Remix",
       "url": "https://open.spotify.com/track/7Crjmkp1INHKL6dY9ofSMe"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "Elaenia",
-        "url": "https://open.spotify.com/album/51QBkcL7S3KYdXSSA0zM9R"
-      },
-      "artists": [
-        {
-          "name": "Floating Points",
-          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
-        }
-      ],
-      "duration_ms": 642653,
-      "name": "Silhouettes (I, II, III)",
-      "url": "https://open.spotify.com/track/2D4VTAyHTFegKvcw9oRZhX"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -1307,6 +1307,22 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
+        "name": "Sweat",
+        "url": "https://open.spotify.com/album/6fi7akHFrEm2vm4DYlvY4E"
+      },
+      "artists": [
+        {
+          "name": "Redlight",
+          "url": "https://open.spotify.com/artist/4ly0VtIYiDYVA4q6ry0NUk"
+        }
+      ],
+      "duration_ms": 176372,
+      "name": "Sweat",
+      "url": "https://open.spotify.com/track/5e3EF3niG5U2ycCFc0seOL"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
         "name": "U. (Junior Sanchez Remix)",
         "url": "https://open.spotify.com/album/6LPE0OjnmnzfNNQcU2D4E8"
       },
@@ -1327,22 +1343,6 @@
       "duration_ms": 164000,
       "name": "U. - Junior Sanchez Remix",
       "url": "https://open.spotify.com/track/78K3N4N9BLS9nKUxINO3Zg"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "Sweat",
-        "url": "https://open.spotify.com/album/6fi7akHFrEm2vm4DYlvY4E"
-      },
-      "artists": [
-        {
-          "name": "Redlight",
-          "url": "https://open.spotify.com/artist/4ly0VtIYiDYVA4q6ry0NUk"
-        }
-      ],
-      "duration_ms": 176372,
-      "name": "Sweat",
-      "url": "https://open.spotify.com/track/5e3EF3niG5U2ycCFc0seOL"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Jam Fam (Chanel Show Version)",
-        "url": "https://open.spotify.com/album/4bfWioZVwpafj6ZAndLDZy"
-      },
-      "artists": [
-        {
-          "name": "Planningtorock",
-          "url": "https://open.spotify.com/artist/7qHOphlWaJrfFa0BqpayDG"
-        }
-      ],
-      "duration_ms": 209555,
-      "name": "Jam Fam - Chanel Show Version",
-      "url": "https://open.spotify.com/track/5c9mk8S49pGZnUWXVLEGpI"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
         "name": "Never Sleep #1",
         "url": "https://open.spotify.com/album/5KmqZG7XmHAiflZGG6dwom"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 293200,
       "name": "Never Sleep",
       "url": "https://open.spotify.com/track/4GT3Qum7qq52hP8PRtORMT"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Jam Fam (Chanel Show Version)",
+        "url": "https://open.spotify.com/album/4bfWioZVwpafj6ZAndLDZy"
+      },
+      "artists": [
+        {
+          "name": "Planningtorock",
+          "url": "https://open.spotify.com/artist/7qHOphlWaJrfFa0BqpayDG"
+        }
+      ],
+      "duration_ms": 209555,
+      "name": "Jam Fam - Chanel Show Version",
+      "url": "https://open.spotify.com/track/5c9mk8S49pGZnUWXVLEGpI"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -1711,6 +1711,22 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
+        "name": "Avoid",
+        "url": "https://open.spotify.com/album/27h5vGfPVBw5zQpn7pXrUU"
+      },
+      "artists": [
+        {
+          "name": "mra",
+          "url": "https://open.spotify.com/artist/5ICv05L4fcvG3i8l6yEoWA"
+        }
+      ],
+      "duration_ms": 202223,
+      "name": "Avoid",
+      "url": "https://open.spotify.com/track/7nm8pWoDmlEgMZRdHtZpZU"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
         "name": "Cataclysmic",
         "url": "https://open.spotify.com/album/4eXNPTKfQUhbT6JgENZeY4"
       },
@@ -1723,6 +1739,22 @@
       "duration_ms": 491652,
       "name": "White Lights",
       "url": "https://open.spotify.com/track/3beMeoozbBTrATGW5u4Emz"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Pain In The Ass",
+        "url": "https://open.spotify.com/album/2l263dfPVQ4prf1z2cwqbz"
+      },
+      "artists": [
+        {
+          "name": "Nina Kraviz",
+          "url": "https://open.spotify.com/artist/1oZmFNkGAT93yD1xX4vTRE"
+        }
+      ],
+      "duration_ms": 400373,
+      "name": "Pain In The Ass - Original Mix",
+      "url": "https://open.spotify.com/track/5WsDRf1ldzeP97rs7lhSDi"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -1743,22 +1775,6 @@
       "duration_ms": 389748,
       "name": "We're Alive - Virgil Abloh Remix",
       "url": "https://open.spotify.com/track/5r8HTctugtsyA9SrnDlvb5"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "Pain In The Ass",
-        "url": "https://open.spotify.com/album/2l263dfPVQ4prf1z2cwqbz"
-      },
-      "artists": [
-        {
-          "name": "Nina Kraviz",
-          "url": "https://open.spotify.com/artist/1oZmFNkGAT93yD1xX4vTRE"
-        }
-      ],
-      "duration_ms": 400373,
-      "name": "Pain In The Ass - Original Mix",
-      "url": "https://open.spotify.com/track/5WsDRf1ldzeP97rs7lhSDi"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -1795,22 +1811,6 @@
       "duration_ms": 117165,
       "name": "Indie Circus (feat. Seafoam Walls)",
       "url": "https://open.spotify.com/track/6uIO7LPCT5kJ0ivimi1svB"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "Avoid",
-        "url": "https://open.spotify.com/album/27h5vGfPVBw5zQpn7pXrUU"
-      },
-      "artists": [
-        {
-          "name": "mra",
-          "url": "https://open.spotify.com/artist/5ICv05L4fcvG3i8l6yEoWA"
-        }
-      ],
-      "duration_ms": 202223,
-      "name": "Avoid",
-      "url": "https://open.spotify.com/track/7nm8pWoDmlEgMZRdHtZpZU"
     }
   ],
   "unique_name": "Runway",

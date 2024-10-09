@@ -63,6 +63,24 @@
     },
     {
       "album": {
+        "name": "1994",
+        "url": "https://open.spotify.com/album/57VLBRdEVnK7PBx9fc9mLp"
+      },
+      "artists": [
+        {
+          "name": "RIN",
+          "url": "https://open.spotify.com/artist/18ISxWwWjV6rPLoVCXf1dz"
+        }
+      ],
+      "date_added": "2024-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105331,
+      "name": "1994",
+      "url": "https://open.spotify.com/track/5QllDVWTd3lOLcceZsekwX"
+    },
+    {
+      "album": {
         "name": "2 days into college",
         "url": "https://open.spotify.com/album/1RzErf193ngBH4DRAFZvz3"
       },
@@ -1400,7 +1418,7 @@
       ],
       "date_added": "2024-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-09",
       "duration_ms": 184577,
       "name": "Bad Dreams",
       "url": "https://open.spotify.com/track/3nHuKdFJZm78CoeBnDcFKe"
@@ -1656,7 +1674,7 @@
       ],
       "date_added": "2024-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-09",
       "duration_ms": 193293,
       "name": "Bayern",
       "url": "https://open.spotify.com/track/09vKXFvmcYiuQ5R5AwIqyF"
@@ -1674,7 +1692,7 @@
       ],
       "date_added": "2024-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-08",
+      "date_removed": null,
       "duration_ms": 193293,
       "name": "Bayern",
       "url": "https://open.spotify.com/track/3oAr0vS5s6nBzxxwBkwknF"
@@ -2291,6 +2309,24 @@
     },
     {
       "album": {
+        "name": "Blame It On The Rain (Sped Up)",
+        "url": "https://open.spotify.com/album/3UbNhgAdGn4wAXSbhvzacp"
+      },
+      "artists": [
+        {
+          "name": "Milli Vanilli",
+          "url": "https://open.spotify.com/artist/3vRclCt9VnNhYIxFMQCxuM"
+        }
+      ],
+      "date_added": "2024-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248533,
+      "name": "Blame It on the Rain",
+      "url": "https://open.spotify.com/track/5ReqKJslVMTo52XRUaVcRq"
+    },
+    {
+      "album": {
         "name": "Blame The Moon",
         "url": "https://open.spotify.com/album/372YURpTeI9L6fkMNH6Nx2"
       },
@@ -2578,6 +2614,28 @@
       "duration_ms": 188572,
       "name": "Built To Be Bad (with Alex Sampson)",
       "url": "https://open.spotify.com/track/6tqSQ7LWVgmVyf41tFAqHV"
+    },
+    {
+      "album": {
+        "name": "Bunca Y\u0131l (Dedub Sessions)",
+        "url": "https://open.spotify.com/album/6oEMdYmN0PQXVlr058Jdp5"
+      },
+      "artists": [
+        {
+          "name": "Dedubl\u00fcman",
+          "url": "https://open.spotify.com/artist/5PRW6j58xEEWL4DDVEITKT"
+        },
+        {
+          "name": "Can Kazaz",
+          "url": "https://open.spotify.com/artist/4YLcK0MEyqFkdyyzbPTWrs"
+        }
+      ],
+      "date_added": "2024-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278082,
+      "name": "Bunca Y\u0131l - Dedub Sessions",
+      "url": "https://open.spotify.com/track/0mSFwDtiAPPNwBOSFnI3G5"
     },
     {
       "album": {
@@ -3534,7 +3592,7 @@
       ],
       "date_added": "2024-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-09",
       "duration_ms": 134003,
       "name": "CUP",
       "url": "https://open.spotify.com/track/6Z1C9gQnScliphROi2DabV"
@@ -4157,6 +4215,32 @@
     },
     {
       "album": {
+        "name": "DON'T SLEEP",
+        "url": "https://open.spotify.com/album/1d5RbutxubP725Rv34RP9X"
+      },
+      "artists": [
+        {
+          "name": "Slaughterhouse",
+          "url": "https://open.spotify.com/artist/5xIrxXqP6GhNa8AX6wYSV9"
+        },
+        {
+          "name": "N-Vitral",
+          "url": "https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3"
+        },
+        {
+          "name": "Deadly Guns",
+          "url": "https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP"
+        }
+      ],
+      "date_added": "2024-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116250,
+      "name": "DON'T SLEEP",
+      "url": "https://open.spotify.com/track/2ftrEmzMbleD2rMmAAI6vh"
+    },
+    {
+      "album": {
         "name": "Don't You Cry",
         "url": "https://open.spotify.com/album/4XLsipcekzeOaHuMZyuBRg"
       },
@@ -4208,7 +4292,7 @@
       ],
       "date_added": "2024-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-09",
       "duration_ms": 135813,
       "name": "Doner Kebab Nacho Alejandro Garnacho",
       "url": "https://open.spotify.com/track/1WVCZ2CaupXNyG0csSwXJi"
@@ -5679,6 +5763,28 @@
     },
     {
       "album": {
+        "name": "Schlaraffenland",
+        "url": "https://open.spotify.com/album/5dWNFjaGlmjRBmlfsP6nHD"
+      },
+      "artists": [
+        {
+          "name": "ENNIO",
+          "url": "https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt"
+        },
+        {
+          "name": "Nina Chuba",
+          "url": "https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5"
+        }
+      ],
+      "date_added": "2024-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200666,
+      "name": "F\u00fchlst du gar nichts? (feat. Nina Chuba)",
+      "url": "https://open.spotify.com/track/4WvqHkM4217e14FE9InM59"
+    },
+    {
+      "album": {
         "name": "F\u00fcllkrug",
         "url": "https://open.spotify.com/album/0hEPdluEoDlW46Q7pDTldT"
       },
@@ -6007,6 +6113,24 @@
     },
     {
       "album": {
+        "name": "GGUM",
+        "url": "https://open.spotify.com/album/2hgOMXg9I7Mk7G58OFAZ1V"
+      },
+      "artists": [
+        {
+          "name": "YEONJUN",
+          "url": "https://open.spotify.com/artist/2Mo2yHjmrDRZW7yRuJwR2w"
+        }
+      ],
+      "date_added": "2024-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151689,
+      "name": "GGUM",
+      "url": "https://open.spotify.com/track/1QPV3QoWw3rRKPeYoX8kO8"
+    },
+    {
+      "album": {
         "name": "Gib\u2018s Mir",
         "url": "https://open.spotify.com/album/7ItkuTDrW0zx0hMHagrltb"
       },
@@ -6214,7 +6338,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-09",
       "duration_ms": 218423,
       "name": "Good Luck, Babe!",
       "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
@@ -6378,7 +6502,7 @@
       ],
       "date_added": "2024-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-09",
       "duration_ms": 117573,
       "name": "GUNSHOT",
       "url": "https://open.spotify.com/track/14PkTcqjxqsUk5pO9Cz74a"
@@ -6484,6 +6608,24 @@
       "duration_ms": 153250,
       "name": "Half of forever",
       "url": "https://open.spotify.com/track/5v3MSh7CD3VNyCwAoSha5p"
+    },
+    {
+      "album": {
+        "name": "Die Schule der magischen Tiere 3 - Soundtrack zum Film",
+        "url": "https://open.spotify.com/album/6ngoE6dWovkpBQxb8gNdsV"
+      },
+      "artists": [
+        {
+          "name": "Die Schule der magischen Tiere",
+          "url": "https://open.spotify.com/artist/1BElEHaU2xaZg7FOGsSird"
+        }
+      ],
+      "date_added": "2024-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131511,
+      "name": "Halt, das ist unser Wald",
+      "url": "https://open.spotify.com/track/716nxJRvf5LepfbCNn8RYP"
     },
     {
       "album": {
@@ -6838,7 +6980,7 @@
       ],
       "date_added": "2024-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-09",
       "duration_ms": 141640,
       "name": "Help Me Make It Through the Night",
       "url": "https://open.spotify.com/track/2KU944ARlycn1xv8W4I3Oe"
@@ -6860,6 +7002,24 @@
       "duration_ms": 142760,
       "name": "Help Me Make It Through the Night",
       "url": "https://open.spotify.com/track/5aUEwE5Ta7RpsUcbhUKM9a"
+    },
+    {
+      "album": {
+        "name": "Her",
+        "url": "https://open.spotify.com/album/3YsLlWQ9dzG0dFQQZO1jEv"
+      },
+      "artists": [
+        {
+          "name": "The American Dawn",
+          "url": "https://open.spotify.com/artist/3EXC0gkpntFvtLS1R0yf11"
+        }
+      ],
+      "date_added": "2024-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214086,
+      "name": "Her",
+      "url": "https://open.spotify.com/track/2vlkTkPqdATznKHu9gD2c1"
     },
     {
       "album": {
@@ -6936,7 +7096,7 @@
       ],
       "date_added": "2024-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-09",
       "duration_ms": 173760,
       "name": "Herzschlag",
       "url": "https://open.spotify.com/track/2ghJKdYVe12wPq5gDAC7yB"
@@ -7702,6 +7862,24 @@
       "duration_ms": 187155,
       "name": "ICH GEH MIT MIR",
       "url": "https://open.spotify.com/track/21dfwDOI57dqW8LLqV5Ypk"
+    },
+    {
+      "album": {
+        "name": "Ich lieb dich kaputt",
+        "url": "https://open.spotify.com/album/4BxFHItBLCsQW6XQ4Wf63K"
+      },
+      "artists": [
+        {
+          "name": "Schmyt",
+          "url": "https://open.spotify.com/artist/2DysK49GjODUdRupTMZrfb"
+        }
+      ],
+      "date_added": "2024-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136004,
+      "name": "Ich lieb dich kaputt",
+      "url": "https://open.spotify.com/track/4Ofqdvr2QPmbbJQNfOJFwV"
     },
     {
       "album": {
@@ -10522,7 +10700,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-08",
+      "date_removed": null,
       "duration_ms": 150485,
       "name": "Maradona (Tatara)",
       "url": "https://open.spotify.com/track/3P8siIOHzjtOA8oCglURzL"
@@ -11012,7 +11190,7 @@
       ],
       "date_added": "2024-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-09",
       "duration_ms": 192040,
       "name": "Monster Mash",
       "url": "https://open.spotify.com/track/0xxZY5C9xxij3D1HkzbnfC"
@@ -12276,7 +12454,7 @@
       ],
       "date_added": "2024-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-09",
       "duration_ms": 191866,
       "name": "PA AUFS MAUL (feat. Sido)",
       "url": "https://open.spotify.com/track/5hdeS1kn3Nr68Ec5fVlouT"
@@ -12492,6 +12670,24 @@
       "duration_ms": 183157,
       "name": "PATT (Party All The Time) - Adam Beyer, Layton Giordani & Green Velvet Remix",
       "url": "https://open.spotify.com/track/6DFHSmlrZLDZnXV5kTTMF6"
+    },
+    {
+      "album": {
+        "name": "Pazifik",
+        "url": "https://open.spotify.com/album/4ClLMXLQ8xuiAviOLSfHHu"
+      },
+      "artists": [
+        {
+          "name": "Provinz",
+          "url": "https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx"
+        }
+      ],
+      "date_added": "2024-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181926,
+      "name": "Pazifik",
+      "url": "https://open.spotify.com/track/2qTdn4tIHLIDpIPTs04anW"
     },
     {
       "album": {
@@ -12906,7 +13102,7 @@
       ],
       "date_added": "2024-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-09",
       "duration_ms": 172641,
       "name": "PKS",
       "url": "https://open.spotify.com/track/6mMbqCwLkQlyfG7UARf4Md"
@@ -13839,6 +14035,24 @@
     },
     {
       "album": {
+        "name": "S P E Y S I D E",
+        "url": "https://open.spotify.com/album/5VFsihsTprFnqRHyrNxMPs"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "date_added": "2024-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209077,
+      "name": "S P E Y S I D E",
+      "url": "https://open.spotify.com/track/6khKJVbTxzfhbGfHMtyOM8"
+    },
+    {
+      "album": {
         "name": "sad girl summer",
         "url": "https://open.spotify.com/album/2ZmXJSHjGlDKrQLoio24kk"
       },
@@ -14362,6 +14576,24 @@
       "duration_ms": 69360,
       "name": "Se Paciente Funk",
       "url": "https://open.spotify.com/track/2f0ICQHa6q8hr5HjeFmDJO"
+    },
+    {
+      "album": {
+        "name": "Farewell, Starlite!",
+        "url": "https://open.spotify.com/album/5gc2S04vG0rEGnTaTwOvus"
+      },
+      "artists": [
+        {
+          "name": "Francis and the Lights",
+          "url": "https://open.spotify.com/artist/23EA28263XvtIrXuySX6oI"
+        }
+      ],
+      "date_added": "2024-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210944,
+      "name": "See Her Out (Thats Just Life)",
+      "url": "https://open.spotify.com/track/5zheSFviZNgeZLvZCOxQnE"
     },
     {
       "album": {
@@ -15410,7 +15642,7 @@
       ],
       "date_added": "2024-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-09",
       "duration_ms": 270706,
       "name": "Sunday Mornin' Comin' Down",
       "url": "https://open.spotify.com/track/4JwFrnLLSO4qqxOeHQATf4"
@@ -16216,7 +16448,7 @@
       ],
       "date_added": "2024-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-09",
       "duration_ms": 115519,
       "name": "they/them (diesesliedistspass)",
       "url": "https://open.spotify.com/track/6nzgKaMuOwI7ZnnNbKRjuE"
@@ -16624,7 +16856,7 @@
       ],
       "date_added": "2024-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-09",
       "duration_ms": 143094,
       "name": "Umtahemd",
       "url": "https://open.spotify.com/track/4eIUQoKEWhQIyNdJYIla7J"

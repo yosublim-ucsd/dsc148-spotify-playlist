@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Zqfq7rklwe.md) - [plain]
 
 > Suomen suurin ja paras rock\-soittolista ☠️ Kannessa The 69 Eyes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,979 likes - 81 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,980 likes - 81 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

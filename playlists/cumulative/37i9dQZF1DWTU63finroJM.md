@@ -4,7 +4,7 @@
 
 > Meet the future of music around the world\. Cover: Joaquina.
 
-1,690 songs - 3 day 20 hr 6 min
+1,692 songs - 3 day 20 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -649,7 +649,7 @@
 | [I Should Quit](https://open.spotify.com/track/0jmwOMMWFcLQQX7x11dOCO) | [JESSIA](https://open.spotify.com/artist/6DdbeAeBlrYj8bNToZv4TY) | [I Should Quit](https://open.spotify.com/album/6ZvRhxmhQdOkRsE25ALehT) | 2:30 | 2022-03-24 | 2022-08-02 |
 | [I Should've Known](https://open.spotify.com/track/6qUqlGZte3YuB64w4JprWW) | [MINH](https://open.spotify.com/artist/0RzxSfLRSQmRJ3fFabRMsT) | [I Should've Known](https://open.spotify.com/album/3hTnq2S41kSR8HYUm4ikl7) | 4:08 | 2022-02-03 | 2022-07-29 |
 | [I Should've Known](https://open.spotify.com/track/2d7BDniXFXApGT1ggmF7BN) | [MINH](https://open.spotify.com/artist/0RzxSfLRSQmRJ3fFabRMsT) | [I Should've Known](https://open.spotify.com/album/2zL7QvM658iVV9rLCsAfbb) | 4:09 | 2022-06-29 | 2022-08-02 |
-| [I thought that i'd know by now](https://open.spotify.com/track/7yd3WBefexIk6jtlXJr0HN) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [i thought that i'd know by now](https://open.spotify.com/album/6T7nzcZGGzuhuhLfSKffyE) | 2:54 | 2024-08-02 |  |
+| [I thought that i'd know by now](https://open.spotify.com/track/7yd3WBefexIk6jtlXJr0HN) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [i thought that i'd know by now](https://open.spotify.com/album/6T7nzcZGGzuhuhLfSKffyE) | 2:54 | 2024-08-02 | 2024-10-09 |
 | [I Used To Be Fun](https://open.spotify.com/track/7sCMZKSjZbx563QSkqxTqC) | [Teen Jesus and the Jean Teasers](https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF) | [I Used To Be Fun](https://open.spotify.com/album/5gpJSwcv4t4W5s9YAFxjlI) | 2:41 | 2023-08-18 | 2023-09-09 |
 | [I Wanna Be A Mother](https://open.spotify.com/track/0tPOkNqkI2TM0gvqHLEgty) | [Nick Ward](https://open.spotify.com/artist/1JjlFdZ1LKxyQ8moqDOmS9) | [I Wanna Be A Mother](https://open.spotify.com/album/74uhmB7i7u3hGPiHUyijn3) | 3:43 | 2024-09-23 |  |
 | [I Wish I Never Met You](https://open.spotify.com/track/12l2XM75QCGVCXM37Ktxzs) | [Babygirl](https://open.spotify.com/artist/6Y2m4AEOS9JFrsK2goyg7T) | [Lovers Fevers](https://open.spotify.com/album/5ZII0xlYQqaeLrnsflv5DU) | 3:31 | 2022-10-06 | 2022-12-15 |
@@ -726,6 +726,7 @@
 | [Kaleidoscope](https://open.spotify.com/track/43umglJJM00CgFIOWBdxwU) | [rhyu](https://open.spotify.com/artist/01861Hi28PdrPUOZwFaMcJ) | [Kaleidoscope](https://open.spotify.com/album/0XcxAm4mYasJbBHzNO19Mj) | 3:27 | 2024-04-19 | 2024-08-24 |
 | [Kaleidoscope](https://open.spotify.com/track/0FE88E5srw7mcCheEmMtBr) | [Sol Paradise](https://open.spotify.com/artist/5PihhSgYPtIRL4I0spglII), [GIYA](https://open.spotify.com/artist/7pz3lHXjDHO7BuFQcKM8m8) | [Kaleidoscope](https://open.spotify.com/album/4tMflSstkseynCR2S55Ybg) | 4:20 | 2024-03-22 | 2024-04-06 |
 | [Kaleidoscópica](https://open.spotify.com/track/6M1qcLBhSBIDMmC9wprnLK) | [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [La Sustancia X](https://open.spotify.com/album/3vNcWxeBpYQJ9OkAcm3ch3) | 2:34 | 2022-12-02 | 2023-05-31 |
+| [Kalka](https://open.spotify.com/track/5W9zXFO1vrVkfZ4wRwznM2) | [Livka](https://open.spotify.com/artist/0eWYWLizN5us1MOF1rdyh9) | [z papieru](https://open.spotify.com/album/7uQvbQsog1LioDPDODHOqx) | 3:14 | 2024-10-04 |  |
 | [Karaluchy](https://open.spotify.com/track/0B287gCJFWfvoCMs8ZIO1K) | [Oliwka Brazil](https://open.spotify.com/artist/7HhC70MoKQYjd2lnF5Znhs), [Białas](https://open.spotify.com/artist/2ufQfSFDFXfMS7MEMzdGZE) | [Karaluchy](https://open.spotify.com/album/53H8xnW9CjDrAffFVQ6Npt) | 2:21 | 2022-04-07 | 2022-04-18 |
 | [Karma](https://open.spotify.com/track/5hBg4Ndb5n80A24qOxvLrl) | [Jea Mira](https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3) | [Karma](https://open.spotify.com/album/0nytfi2xw7vYF04PRdEnNW) | 2:35 | 2024-06-21 | 2024-07-27 |
 | [KARMA](https://open.spotify.com/track/7r0SUODm7Wq4yTpT2KKtg8) | [KINGDOM](https://open.spotify.com/artist/0p5Ot7c8cFHtS82hd1WBN3) | [History Of Kingdom: Part II \. Chiwoo](https://open.spotify.com/album/3t29EYNXWXk1GQcNxKZATU) | 3:56 | 2022-03-24 | 2022-04-18 |
@@ -1204,6 +1205,7 @@
 | [SCORPIO](https://open.spotify.com/track/7dWO43BlUXzAImVYT7i2Ss) | [KEYANA](https://open.spotify.com/artist/55xVPquXFuGsZjvx4i68GZ) | [SCORPIO](https://open.spotify.com/album/65le9QamYEtftvHtjeKHP0) | 3:21 | 2022-02-03 | 2022-08-02 |
 | [scrap](https://open.spotify.com/track/19Onfc2HNld0hpPJCRQH4X) | [CHAMELEON LIME WHOOPIEPIE](https://open.spotify.com/artist/1uP5mPkWII7Tcxp7xtqPmj) | [scrap](https://open.spotify.com/album/3UgBalOsIZfBtERMqSfiMo) | 2:47 | 2022-02-03 | 2022-05-05 |
 | [Se Acaba Todo](https://open.spotify.com/track/0uvY2zXHjplNTvfZMFXMYH) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [Se Acaba Todo](https://open.spotify.com/album/3rYMUeFGP3oUm4xfPWyugB) | 3:16 | 2022-09-08 | 2023-05-31 |
+| [Se Siente Así \(Arial 7\)](https://open.spotify.com/track/6jUKGmxWOnmyFwABCAQgVo) | [Susana Cala](https://open.spotify.com/artist/68LgpWsaAwjflP3CLXC0LB) | [Se Siente Así \(Arial 7\)](https://open.spotify.com/album/2pNkgDHGJeoFYz5PV9c8EQ) | 2:43 | 2024-10-04 |  |
 | [Se Te Cayó](https://open.spotify.com/track/2eyaovnTryBlxQZrQ2TDMx) | [ADRI](https://open.spotify.com/artist/4dpXYalt8qXd3R4yLPQE7E) | [Se Te Cayó](https://open.spotify.com/album/6P8eo6PshOT2xbv2ISKOGz) | 2:52 | 2022-03-24 | 2022-08-02 |
 | [Seaside](https://open.spotify.com/track/7qNXY0nLhMoaNINklgqeWf) | [sor](https://open.spotify.com/artist/267wBt3XfmW3kdOC0JCtcO) | [Bae Doven No\. 1](https://open.spotify.com/album/6BMIKnnkgFymPqYSW9GxHH) | 2:50 | 2022-03-24 | 2022-04-20 |
 | [Sei del Mattino](https://open.spotify.com/track/0SeoeFL0XM5YpTag15SX9n) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [NOSTALGIA \(export\)](https://open.spotify.com/album/7nrBxtq6TJ5xs3D9G0R7ue) | 3:05 | 2024-03-15 | 2024-03-18 |
@@ -1292,7 +1294,7 @@
 | [Super Ball](https://open.spotify.com/track/6CBqqocRx76YtdMvGqD2HZ) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [Two Moon](https://open.spotify.com/album/4nyNnOXb8GtIei89Y88HWa) | 3:23 | 2023-12-07 | 2024-04-19 |
 | [Supernova](https://open.spotify.com/track/0zY2rypOdM8xmsf4tUyafF) | [Saiko](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [Supernova](https://open.spotify.com/album/5jVewtOpycGENT1zZW4wpR) | 3:10 | 2023-05-08 | 2024-01-13 |
 | [Sweat](https://open.spotify.com/track/3wdbGER9TIbNeCXfOD2CTr) | [Projexx](https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N) | [Sweat](https://open.spotify.com/album/5vBlJU3wNcLv9Pobuzk988) | 2:00 | 2024-05-31 | 2024-09-16 |
-| [Sweat \(Island File\)](https://open.spotify.com/track/5Da5oMlJgqXvgTN1tcihZT) | [Amanda Reifer](https://open.spotify.com/artist/1PpDfXOUG7gxUjR1quWnwp) | [Island Files](https://open.spotify.com/album/32oWDz4GWZLF0P5jSDJoLW) | 3:07 | 2024-08-23 |  |
+| [Sweat \(Island File\)](https://open.spotify.com/track/5Da5oMlJgqXvgTN1tcihZT) | [Amanda Reifer](https://open.spotify.com/artist/1PpDfXOUG7gxUjR1quWnwp) | [Island Files](https://open.spotify.com/album/32oWDz4GWZLF0P5jSDJoLW) | 3:07 | 2024-08-23 | 2024-10-09 |
 | [Sweetest Revenge](https://open.spotify.com/track/7ItOeQCyzT0Ud8IWXnOIfU) | [Libby Whitehouse](https://open.spotify.com/artist/0myPBTBG3ODlKVBEf5OSBe) | [Sweetest Revenge](https://open.spotify.com/album/1v2Ca1S73FwtFCD0dXLZAo) | 2:29 | 2024-05-31 | 2024-09-18 |
 | [Switch](https://open.spotify.com/track/1bEO8LdFDrYpJleXnVons3) | [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [Switch](https://open.spotify.com/album/6OumeSAX4Z4eVfyU816KLM) | 3:00 | 2024-09-23 |  |
 | [Szczęśliwa Wina](https://open.spotify.com/track/5mpaSyASd5ev6RMfSqW4cR) | [Zaleś](https://open.spotify.com/artist/3IQIVYEmRr7wZnEqpSjfV5) | [Szczęśliwa Wina](https://open.spotify.com/album/00MIiun6wtpS1KScwHB7aV) | 2:33 | 2024-06-24 | 2024-07-27 |

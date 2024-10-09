@@ -6,7 +6,7 @@
     "name": "Zack Amiton",
     "url": "https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt"
   },
-  "snapshot_id": "AAAGkEoiMQ+lnNwa2yHzb52h7GHQtS2q",
+  "snapshot_id": "AAAGkq0KHmR9oVvQZ7X5mYRyHSCrXQtC",
   "tracks": [
     {
       "added_at": "2021-08-26 23:11:19",
@@ -8775,6 +8775,38 @@
       "duration_ms": 1325626,
       "name": "I Trawl the Megahertz",
       "url": "https://open.spotify.com/track/5SrrNjgc5Diwj3IunGepM6"
+    },
+    {
+      "added_at": "2024-10-08 21:02:17",
+      "album": {
+        "name": "Bryter Layter",
+        "url": "https://open.spotify.com/album/0B2E1w5T7PEbZIctZnnt9K"
+      },
+      "artists": [
+        {
+          "name": "Nick Drake",
+          "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
+        }
+      ],
+      "duration_ms": 92986,
+      "name": "Introduction",
+      "url": "https://open.spotify.com/track/2JLxaBGEmZSvK1tCcOjpO8"
+    },
+    {
+      "added_at": "2024-10-09 03:03:29",
+      "album": {
+        "name": "Eye Contact",
+        "url": "https://open.spotify.com/album/4bq7GESFNztOvUBKpWeh6N"
+      },
+      "artists": [
+        {
+          "name": "Gang Gang Dance",
+          "url": "https://open.spotify.com/artist/6UU6YXQaFGQToWN6U28Dcb"
+        }
+      ],
+      "duration_ms": 681920,
+      "name": "Glass Jar",
+      "url": "https://open.spotify.com/track/14IWm0tDTfAulD43I4LpNh"
     }
   ],
   "unique_name": "Zacklog",

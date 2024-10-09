@@ -183,6 +183,24 @@
     },
     {
       "album": {
+        "name": "4444",
+        "url": "https://open.spotify.com/album/3gl255N0kUUIkK0GgelT3j"
+      },
+      "artists": [
+        {
+          "name": "WOOSUNG",
+          "url": "https://open.spotify.com/artist/5LHu1iF8m0XtRBEJbbwSoo"
+        }
+      ],
+      "date_added": "2024-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313866,
+      "name": "44 (Forget Forever)",
+      "url": "https://open.spotify.com/track/1gB4AZdHNk7jawrX5M7tEm"
+    },
+    {
+      "album": {
         "name": "CIX 5th EP Album \u2018OK\u2019 Episode 1 : OK Not",
         "url": "https://open.spotify.com/album/0awixD0tmDTgB6JWfQxwO0"
       },
@@ -3344,7 +3362,7 @@
       ],
       "date_added": "2022-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-09",
       "duration_ms": 185506,
       "name": "Ditto",
       "url": "https://open.spotify.com/track/3r8RuvgbX9s7ammBn07D3W"
@@ -5588,6 +5606,28 @@
       "duration_ms": 177053,
       "name": "Hidden Side",
       "url": "https://open.spotify.com/track/287Y0QDy6xhjrc9IjwZFUh"
+    },
+    {
+      "album": {
+        "name": "HIGHBALL",
+        "url": "https://open.spotify.com/album/62DhPpFzrv4tVs6pEYO4wR"
+      },
+      "artists": [
+        {
+          "name": "Soohyun(UKISS)",
+          "url": "https://open.spotify.com/artist/4cYFhgAfVfdeAy40A7pyO8"
+        },
+        {
+          "name": "HUS",
+          "url": "https://open.spotify.com/artist/23m7tUHLULVyBAAIYHbsgT"
+        }
+      ],
+      "date_added": "2024-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168163,
+      "name": "HIGHBALL",
+      "url": "https://open.spotify.com/track/6BievR5ndzT08nNpkNfpGV"
     },
     {
       "album": {
@@ -11052,7 +11092,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-09",
       "duration_ms": 184723,
       "name": "Starry Night",
       "url": "https://open.spotify.com/track/0guoHdAofMWLQELiKSZfsf"

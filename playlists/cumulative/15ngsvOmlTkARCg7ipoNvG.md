@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-1,811 songs - 1 day 13 hr 16 min
+1,814 songs - 1 day 13 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1164,6 +1164,7 @@
 | [Pastel Sky](https://open.spotify.com/track/26EaDK7eL2Qbvh4aAsrZPj) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Soulful Treasures](https://open.spotify.com/album/59cxCCKChUXYJIIDUdxafC) | 1:03 | 2022-03-08 |  |
 | [Patapan \- Cello Version](https://open.spotify.com/track/2YLYWflhmlnBkKWuoX3lLG) | [Harmony Night](https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY) | [Patapan \(Cello Version\)](https://open.spotify.com/album/0Z7ihQHdJR3AHFJIr5JLEX) | 1:01 | 2024-02-09 | 2024-02-13 |
 | [Patapan Arr\. For Cello And Piano](https://open.spotify.com/track/2uoVXMexTdfjEqfXLOpo0l) | [Beyond Stillness](https://open.spotify.com/artist/42iQ19B2la2mcUZAksaIo8) | [Patapan Arr\. For Cello And Piano](https://open.spotify.com/album/0hZLVJdVhdBt9HmWxm1lX5) | 1:07 | 2024-02-09 | 2024-02-13 |
+| [Patience](https://open.spotify.com/track/0ojel7AP7L7mmyqKjtOhHe) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Patience](https://open.spotify.com/album/4qB0cmvSbzr5IJEBD4ptj4) | 1:00 | 2024-10-08 |  |
 | [Patience And Hope](https://open.spotify.com/track/1Scfz6anlCdK9BdnVNHrii) | [July Sunrise](https://open.spotify.com/artist/2i0yWCXBGhBWuT0qnM3tmE) | [Restored](https://open.spotify.com/album/1xwDx8jc8SdscX2xYWSrud) | 1:03 | 2022-02-11 | 2024-01-30 |
 | [Patience and Longing](https://open.spotify.com/track/7kBo7y4VJf1eJ8TCvdrKgV) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Journeys](https://open.spotify.com/album/1e5hDdHVnh9RKGu4akLgZE) | 1:24 | 2022-01-12 |  |
 | [Patient Again](https://open.spotify.com/track/7mbbfOt8nsnqggZFzrX6gb) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [In Silence](https://open.spotify.com/album/1k8oBz5yBunH2xK8SwRL3V) | 1:22 | 2022-01-12 |  |
@@ -1611,6 +1612,7 @@
 | [Together](https://open.spotify.com/track/4AKGQ7gu7ZmbijIHIqTZBt) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [Together](https://open.spotify.com/album/7sjTKi6FYxxBZ7IFFkaa1F) | 1:00 | 2024-03-20 |  |
 | [Together Again](https://open.spotify.com/track/6JVqCBrSXhbrS8PcejZBm7) | [Limelight Glow](https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy) | [Together Again](https://open.spotify.com/album/0zzMrUGGlLgifG6ddELKs0) | 1:00 | 2024-09-28 |  |
 | [Together In A Dream](https://open.spotify.com/track/4YAGA1XbxeRjmzCW4uNXMq) | [Poella](https://open.spotify.com/artist/0to4jGriVUNpgXmdw9C9js) | [Violin Ambience](https://open.spotify.com/album/1JIA43cj4NR8Uid7zMSdG6) | 1:09 | 2022-01-20 | 2024-01-30 |
+| [Tomorrow](https://open.spotify.com/track/4SyyUf0haUwAkZHgKWxKtp) | [Limelight Glow](https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy) | [Yesterday And Tomorrow](https://open.spotify.com/album/0AVH9BZjsQwsHDnzCZzH9Q) | 1:00 | 2024-10-08 |  |
 | [Towards The Horizon](https://open.spotify.com/track/1cSEtnMkmpEF9fevZf7OXS) | [Limelight Glow](https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy) | [Soaring](https://open.spotify.com/album/0M1455WqEoRjvehxgXmICI) | 1:03 | 2022-03-03 |  |
 | [Toyland \- Cello And Soft Piano Version](https://open.spotify.com/track/48TUvKen5OY2EkwIoY1yGD) | [Cello Soul](https://open.spotify.com/artist/1g2vVGycdY9Xowsh2mYCqe) | [Toyland \(Cello And Soft Piano Version\)](https://open.spotify.com/album/4fMIJ8mdbAzhlX2szvuAPR) | 1:06 | 2024-02-09 | 2024-02-13 |
 | [Toyland \- Remastered Cello Version](https://open.spotify.com/track/7KOg8vllFPZOWMOLieDLMe) | [Wandering River](https://open.spotify.com/artist/68MLCS299SINsPPPTnMZRK) | [Toyland \(Remastered Cello Version\)](https://open.spotify.com/album/7dylYidvgoVXS7Azxmo0Lt) | 1:00 | 2024-02-09 | 2024-02-13 |
@@ -1803,6 +1805,7 @@
 | [Yearning For Light](https://open.spotify.com/track/2aVROvqkZsK1M7pLMSY8fm) | [Eternal Spring](https://open.spotify.com/artist/6yDo1kCCuaAyfUy37qTiih) | [Dream Space](https://open.spotify.com/album/5Syb7X9pjYZHqNPxbXO9yM) | 1:05 | 2022-02-03 |  |
 | [Yearning For Now](https://open.spotify.com/track/4IlQg6mWed2rB5QcrGmvpt) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [Cello Stories, Vol\. 2](https://open.spotify.com/album/53CIzwL27czsF48PT9MXXI) | 1:03 | 2024-02-09 | 2024-02-13 |
 | [Yearning For Now Reimagined](https://open.spotify.com/track/6hjKTpzupxm1O4aSiHXteJ) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [Cello Stories, Vol\. 2](https://open.spotify.com/album/53CIzwL27czsF48PT9MXXI) | 1:03 | 2024-02-09 | 2024-02-13 |
+| [Yesterday](https://open.spotify.com/track/6slp8PzR9tQ8HEnX2ppSDG) | [Limelight Glow](https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy) | [Yesterday And Tomorrow](https://open.spotify.com/album/0AVH9BZjsQwsHDnzCZzH9Q) | 1:00 | 2024-10-08 |  |
 | [You Were Once Here](https://open.spotify.com/track/3S2MhjA34rwMEgwKCRj0xW) | [Limelight Glow](https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy) | [Dreaming in the Rain](https://open.spotify.com/album/3rGGRbwcJXPeVxaNEiBHyW) | 1:19 | 2022-01-12 |  |
 | [Your Calming Love](https://open.spotify.com/track/5Djt6qFnTze9bZsLNqxQtK) | [Harmony Night](https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY) | [Your Calming Love](https://open.spotify.com/album/35Lx2wUFekQvxYEPUuQszF) | 1:00 | 2024-02-09 | 2024-02-13 |
 | [Your Calming Love \- Strings Version](https://open.spotify.com/track/0BEuBeKh7qL2MfnJDVksu2) | [Harmony Night](https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY) | [Your Calming Love \(Strings Version\)](https://open.spotify.com/album/3yV7MORO8qxueoUlXddiFk) | 1:00 | 2024-02-09 | 2024-02-13 |

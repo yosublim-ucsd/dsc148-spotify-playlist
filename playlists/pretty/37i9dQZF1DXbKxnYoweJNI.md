@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 
 > 獨立就是硬地自主，音樂就要展現風格，加起來就是痛快！Cover: 美秀集團 \(Amazing Show\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,866 likes - 117 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,872 likes - 117 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 | 14 | [Cool But Lonely](https://open.spotify.com/track/2sa3RXHIxU4xXUGuJy5467) | [阿橘](https://open.spotify.com/artist/6kZYE9gWvwhbkjhcg8ZHqm), [鄒序](https://open.spotify.com/artist/7lk9vXaiJOXeKd2ms7Ohh0) | [Cool But Lonely](https://open.spotify.com/album/5ll9lzOdf2NB7fuTjrYZyR) | 3:04 |
 | 15 | [沼澤之王](https://open.spotify.com/track/4NOnXJMy6cbGDEI7ckD9uk) | [Reversing into Garage](https://open.spotify.com/artist/5dnOo3EpTCmEnLwoC4tP78) | [當然無恙](https://open.spotify.com/album/2Of76YsFKAuVmdenA46sAg) | 3:15 |
 | 16 | [難以感受幸福的人](https://open.spotify.com/track/0FCzSaOq81MMasbzM6u60Z) | [Theseus 忒修斯](https://open.spotify.com/artist/2hLBiCegl2nNMVyDBDjxO9) | [難以感受幸福的人](https://open.spotify.com/album/52dRBboZZw82ny1KRDIr4O) | 3:42 |
-| 17 | [浮浪](https://open.spotify.com/track/03mvG5PbUdyzr9rtJDoX0c) | [YOSHI](https://open.spotify.com/artist/399j7KzhXlNysKZvb55lxd), [林奕碩 Lin I\-Shuo\(百合花Lilium\)](https://open.spotify.com/artist/7xywz1UywWdW98s6N05KE3) | [浮浪](https://open.spotify.com/album/7uEKeoTHLTIeuH975LPz2v) | 5:24 |
+| 17 | [浮浪](https://open.spotify.com/track/03mvG5PbUdyzr9rtJDoX0c) | [YOSHI](https://open.spotify.com/artist/27bCtUwrBetAOyAqxEtjgi), [林奕碩 Lin I\-Shuo\(百合花Lilium\)](https://open.spotify.com/artist/7xywz1UywWdW98s6N05KE3) | [浮浪](https://open.spotify.com/album/7uEKeoTHLTIeuH975LPz2v) | 5:24 |
 | 18 | [今夏以後](https://open.spotify.com/track/7M2b899iWsv3f4eBE0hfYP) | [鄭亞弦Lolli](https://open.spotify.com/artist/16ELgOyr8S1hXUTGA8MB9y) | [隔壁包廂603](https://open.spotify.com/album/3dakfFc4Tg4Drft1hDIpFf) | 4:18 |
 | 19 | [自然之力](https://open.spotify.com/track/3QtFzWFeENJYcpw60xuYXg) | [徐嘉蔚 Emiko](https://open.spotify.com/artist/4bK7mDOruR44Qo5rYajCf3), [許淨淳 XuDo](https://open.spotify.com/artist/4mK9wP3PlQuQcEL32KEMON) | [不斷不斷整裝待發!](https://open.spotify.com/album/3QADAAj9XRerrj1ekZIYGZ) | 3:30 |
 | 20 | [Back to School](https://open.spotify.com/track/4l9uDHFUyblAkFqPqegVHt) | [Yaseinosu 野巢](https://open.spotify.com/artist/3f3yZncMG0uc8XGyeKiV0S) | [Back to School](https://open.spotify.com/album/5YvmD7LY6l7lzYdwh1tl1p) | 3:30 |

@@ -4,7 +4,7 @@
 
 > let the dj set u free
 
-408 songs - 1 day 0 hr 56 min
+409 songs - 1 day 0 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -183,7 +183,7 @@
 | [It Isn't Easy \(feat\. EKKSTACY\)](https://open.spotify.com/track/2QAg6Hu5MJAafBSbtdgwmo) | [Devault](https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL), [DJ Topgun](https://open.spotify.com/artist/1Ykj5FmV9qh5ghbQn5qVx2), [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [It Isn't Easy \(feat\. EKKSTACY\)](https://open.spotify.com/album/6P0yh6kSLJx1S4i48gbyJ2) | 3:52 | 2024-05-17 |  |
 | [it's bad](https://open.spotify.com/track/2gYaR0Io3gCVFfiNlHsltg) | [henri](https://open.spotify.com/artist/7nJ5r6Up446alyOTy7Umsf) | [valo](https://open.spotify.com/album/3fBbbnUJxjPQ81d8rMZgFr) | 2:45 | 2024-01-12 | 2024-02-24 |
 | [It’s Not You, It’s Me \- Club Mix](https://open.spotify.com/track/2CKrEKGMFoPzagBkhocFKW) | [jamesjamesjames](https://open.spotify.com/artist/0DqR5aQYPz1s2M3YbycLMJ) | [It's Not You, It's Me \(Club Mix\)](https://open.spotify.com/album/3JddpvK7VnFUVwj1MnvCWF) | 3:44 | 2021-07-30 | 2022-04-13 |
-| [Julia \(deep diving\)](https://open.spotify.com/track/5DHSlpd0MX9DfnoAQqolfa) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Julia \(deep diving\)](https://open.spotify.com/album/2HJCdduuXbN70tTNQyuFQn) | 4:34 | 2021-04-02 |  |
+| [Julia \(deep diving\)](https://open.spotify.com/track/5DHSlpd0MX9DfnoAQqolfa) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Julia \(deep diving\)](https://open.spotify.com/album/2HJCdduuXbN70tTNQyuFQn) | 4:34 | 2021-04-02 | 2024-10-09 |
 | [Just Over](https://open.spotify.com/track/3U4wxiV8A190qwogybOHC9) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [Growth](https://open.spotify.com/album/4Hzs5eQgd83luaFDwTeSvv) | 2:54 | 2023-10-13 | 2024-04-19 |
 | [Just Over](https://open.spotify.com/track/6vOane9RzzOIITCvbHJ6m2) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [Just Over](https://open.spotify.com/album/2Y14Dz0r9cImcQ9Usm0xcx) | 2:54 | 2023-01-06 | 2023-10-13 |
 | [just stand there](https://open.spotify.com/track/2D9a9CXeo3HFtVeaNlzp4a) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [SOAK](https://open.spotify.com/artist/4PLsMEk2DCRVlVL2a9aZAv) | [ten days](https://open.spotify.com/album/3DQueEd1Ft9PHWgovDzPKh) | 4:20 | 2024-09-06 |  |
@@ -326,6 +326,7 @@
 | [Silver Lining](https://open.spotify.com/track/6D9pncRlZZoq4oc1tzAC1y) | [Andrew Rayel](https://open.spotify.com/artist/1UtBjqMZBAmqIPlDrKu7Tr) | [Silver Lining](https://open.spotify.com/album/21WYCgAsF27UnSt3O9fIP0) | 2:57 | 2021-05-14 | 2022-10-20 |
 | [Sirens](https://open.spotify.com/track/0EudqIdrpZjHZ1pnSuBKgA) | [Icarus](https://open.spotify.com/artist/0nUF7iT0e6D5xEl743Jfu3) | [This Must Be The Place](https://open.spotify.com/album/01WcFlWlj9ie3YTNSKr3OP) | 4:15 | 2021-05-29 | 2022-11-13 |
 | [Sister](https://open.spotify.com/track/2StEq5J2bCq5JiwCKbansz) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [Sister](https://open.spotify.com/album/4INuwtV1B2dNCUbFkUXtFL) | 4:28 | 2021-04-02 | 2024-08-17 |
+| [Sleep Better](https://open.spotify.com/track/2UV3f3x5Le9zwt9ymKaR09) | [Marc Benjamin](https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw), [Ansun](https://open.spotify.com/artist/5UZG6OoWsLEtOIIRJ2IfDm), [KEYTON](https://open.spotify.com/artist/5Tfpom9xTru2xTcnd2QBLi) | [Sleep Better](https://open.spotify.com/album/1qSsaewqIP33fPA6SgHts4) | 2:18 | 2024-10-04 |  |
 | [so cold](https://open.spotify.com/track/3WN37jy92FcsxyLSebdnQm) | [henri](https://open.spotify.com/artist/7nJ5r6Up446alyOTy7Umsf) | [valo](https://open.spotify.com/album/3fBbbnUJxjPQ81d8rMZgFr) | 3:01 | 2023-12-15 | 2023-12-30 |
 | [So Sad](https://open.spotify.com/track/50eUM0SPChUkxCSXj9SDpU) | [Audien](https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE) | [So Sad](https://open.spotify.com/album/34c9VT0L8JNBwtOX0pAUzM) | 2:52 | 2024-09-20 |  |
 | [So Sorry](https://open.spotify.com/track/0m8Mz4HBphiBVEiI99u8jU) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Skream](https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW) | [So Sorry](https://open.spotify.com/album/6Gh16B4dzfS0mqlxKTkyVz) | 3:51 | 2021-07-16 | 2022-07-28 |

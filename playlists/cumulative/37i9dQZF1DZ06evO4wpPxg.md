@@ -2,7 +2,7 @@
 
 ### [This Is Rev\. Gary Davis](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4wpPxg)
 
-> This is Rev\. Gary Davis\. The essential tracks, all in one playlist.
+> This Is Rev\. Gary Davis\. Los temas esenciales, todos en una lista.
 
 312 songs - 19 hr 37 min
 
@@ -30,7 +30,7 @@
 | [Blues in E](https://open.spotify.com/track/76fnhZiCoZRs62Udv85QSI) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Demons & Angels \- the Music of Rev\. Gary Davis](https://open.spotify.com/album/5uMHd9vl0MbLLW0dSeoiox) | 3:12 | 2022-07-27 | 2022-09-26 |
 | [Buck Dance](https://open.spotify.com/track/3mehPZ1GnF8SUC4rc9BLol) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [At Newport](https://open.spotify.com/album/0hzGNlXzRtBOgcDaaricsc) | 1:27 | 2024-06-21 | 2024-08-09 |
 | [Buck Dance](https://open.spotify.com/track/2IhDsv4glVvkFLvVuxh1EB) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Pure Religion and Bad Company](https://open.spotify.com/album/0JS2Vbmp36RbIDQ0KkFWxg) | 2:52 | 2022-11-15 | 2024-09-08 |
-| [Buck Rag](https://open.spotify.com/track/4RkxqGLAliVW8mFzLyHt9Q) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Blues & Ragtime \(Live\)](https://open.spotify.com/album/2fs1vPEk2YnmXptiETV1TJ) | 2:40 | 2022-11-22 |  |
+| [Buck Rag](https://open.spotify.com/track/4RkxqGLAliVW8mFzLyHt9Q) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Blues & Ragtime \(Live\)](https://open.spotify.com/album/2fs1vPEk2YnmXptiETV1TJ) | 2:40 | 2022-11-22 | 2024-10-09 |
 | [C\-Rag](https://open.spotify.com/track/1GiJmTHq7vLj1ikbdY961s) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Blues & Ragtime \(Live\)](https://open.spotify.com/album/2fs1vPEk2YnmXptiETV1TJ) | 2:57 | 2022-11-23 | 2023-03-25 |
 | [Can't Be Satisfied \- Instrumental](https://open.spotify.com/track/65TO75TTJpRkVzvplOyCnl) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [The Guitar And Banjo Of Reverend Gary Davis](https://open.spotify.com/album/53QsjgEDlXH9TwIamS0xGJ) | 2:55 | 2022-07-25 | 2022-10-07 |
 | [Can't Make This Journey By Myself](https://open.spotify.com/track/2lLXz5yaEaLrbN4swx3wYp) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [At Home and Church, 1962 \- 1967](https://open.spotify.com/album/7soKwEe8T3oGaA0k59LzFU) | 2:51 | 2023-06-04 | 2024-04-19 |
@@ -132,7 +132,7 @@
 | [I'm Gonna Sit Down On The Banks Of The River \- Live in Seattle, WA](https://open.spotify.com/track/4B75IlFFYIlx5e3ExuSRYf) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Let Us Get Together](https://open.spotify.com/album/4OPoyVzXoRk0B4d8J3dYPu) | 2:43 | 2024-01-15 | 2024-04-27 |
 | [I'm Throwin' Up My Hand](https://open.spotify.com/track/7Kf9LfrFRYdrgciYP5Yogb) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [The Complete Early Recordings Of Reverend Gary Davis](https://open.spotify.com/album/07iVLo7HJnTG7NllteS0FA) | 2:51 | 2022-06-15 | 2024-08-27 |
 | [I'm Throwin' Up My Hands](https://open.spotify.com/track/7axxUk7tja37WN85wD9Y0b) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Rev\. Blind Gary Davis 1935 \- 1949](https://open.spotify.com/album/6d9OIAdRyHLbwwblrIplW2) | 2:49 | 2022-05-26 |  |
-| [I've Done All My Singing For My Lord](https://open.spotify.com/track/3vD8qerHxe21LWAW2vXo24) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [At Newport](https://open.spotify.com/album/0hzGNlXzRtBOgcDaaricsc) | 3:37 | 2022-05-25 | 2024-09-27 |
+| [I've Done All My Singing For My Lord](https://open.spotify.com/track/3vD8qerHxe21LWAW2vXo24) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [At Newport](https://open.spotify.com/album/0hzGNlXzRtBOgcDaaricsc) | 3:37 | 2022-05-25 |  |
 | [If I Had My Way](https://open.spotify.com/track/3JGLuTmLufxb9q3pFfTAuR) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [If I Had My Way: Early Home Recordings](https://open.spotify.com/album/59aeoDXr1SZjDRJNqOl3J7) | 4:46 | 2022-05-26 |  |
 | [If the Lord Be for You](https://open.spotify.com/track/1BngS6U4fZ5gsQKbReI0iP) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [If I Had My Way: Early Home Recordings](https://open.spotify.com/album/59aeoDXr1SZjDRJNqOl3J7) | 3:45 | 2022-05-25 | 2023-09-26 |
 | [Instrumental \- Live in Portland, OR](https://open.spotify.com/track/0U96YMyBxyX3c0udnxjSoc) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Let Us Get Together](https://open.spotify.com/album/4OPoyVzXoRk0B4d8J3dYPu) | 5:27 | 2023-06-29 | 2024-01-12 |

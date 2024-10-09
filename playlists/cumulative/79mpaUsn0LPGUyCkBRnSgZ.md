@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-750 songs - 2 day 1 hr 55 min
+752 songs - 2 day 2 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -262,6 +262,7 @@
 | [Girl U Want](https://open.spotify.com/track/7aLqagsvH0UhwElKSR8rAj) | [DEVO](https://open.spotify.com/artist/0UKfenbZb15sqhfPC6zbt3) | [Freedom of Choice](https://open.spotify.com/album/6UsP4NQ9K4L4Nqxj0Qis41) | 2:57 | 2024-03-24 |  |
 | [Girls & Boys \- 2012 Remaster](https://open.spotify.com/track/5OS6hw3tFeWUiT3NPQyUM8) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [Parklife](https://open.spotify.com/album/0YS25Dr3hMtMFlVTfuvzl4) | 4:51 | 2024-01-08 |  |
 | [Give A Little Bit](https://open.spotify.com/track/6XUHsYE38CEbYunT983O9G) | [Supertramp](https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx) | [Even In The Quietest Moments](https://open.spotify.com/album/4X87hQ57jTYQTcYTaJWK5w) | 4:08 | 2022-05-18 |  |
+| [Glass Jar](https://open.spotify.com/track/14IWm0tDTfAulD43I4LpNh) | [Gang Gang Dance](https://open.spotify.com/artist/6UU6YXQaFGQToWN6U28Dcb) | [Eye Contact](https://open.spotify.com/album/4bq7GESFNztOvUBKpWeh6N) | 11:21 | 2024-10-09 |  |
 | [Gloria: In Excelsis Deo](https://open.spotify.com/track/272Z4tzaSMMcgrZ0R494S2) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Horses \(Legacy Edition\)](https://open.spotify.com/album/7xg7u99lilTCPbaRfnYuy6) | 5:54 | 2022-07-31 |  |
 | [God Is a Circle](https://open.spotify.com/track/596pY5JqwSgSqM8cA4A0rg) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Praise A Lord Who Chews But Which Does Not Consume; \(Or Simply, Hot Between Worlds\)](https://open.spotify.com/album/5LIlFbWpjACyQFNW0nYvUC) | 3:32 | 2023-03-31 | 2023-12-14 |
 | [Goin on a Plane Today](https://open.spotify.com/track/0qffZBf6URNKcCWtkxYX4v) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [\(watch my moves\)](https://open.spotify.com/album/0iUKX7bSb68dbhM7sfcNwo) | 2:29 | 2023-01-11 |  |
@@ -341,6 +342,7 @@
 | [intro](https://open.spotify.com/track/1AGDAMGqgphzVwaK606wvx) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT) | [Remember Your North Star](https://open.spotify.com/album/7BhMDGBQ6xtZl1LwOwueYO) | 1:16 | 2022-06-28 |  |
 | [Intro \(It's Album Time\)](https://open.spotify.com/track/2oa3MecguzBGHp2lF72pOh) | [Todd Terje](https://open.spotify.com/artist/49gaZqfow2v8EEQmjGyEIw) | [It's Album Time](https://open.spotify.com/album/058No4Kiz8r284NwzBSBC2) | 1:40 | 2024-06-19 |  |
 | [Introduction](https://open.spotify.com/track/25BcBVAoG8bZ2m63bYiAAZ) | [Madlib](https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf) | [Shades Of Blue: Madlib Invades Blue Note](https://open.spotify.com/album/6jRvDpOc9oi3sjQuoPK7if) | 0:32 | 2024-02-11 |  |
+| [Introduction](https://open.spotify.com/track/2JLxaBGEmZSvK1tCcOjpO8) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Bryter Layter](https://open.spotify.com/album/0B2E1w5T7PEbZIctZnnt9K) | 1:32 | 2024-10-08 |  |
 | [Isometric \(Intro\)](https://open.spotify.com/track/4RWeizdES94TbsDWSrQdLU) | [Madeon](https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc) | [Adventure \(Deluxe\)](https://open.spotify.com/album/3uKLwDjku2Us0c81LEmftR) | 1:20 | 2022-08-20 |  |
 | [It Ain't Easy, It Ain't Easy \(feat\. Nyck Caution, Kirk Knight, CJ Fly & AKTHESAVIOR\)](https://open.spotify.com/track/4krhkcFf3OqxHSS1QUIsmc) | [Beast Coast](https://open.spotify.com/artist/1Nd1g8fezKoJ6DGauWbZIm), [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH), [Flatbush Zombies](https://open.spotify.com/artist/1dqGS5sT6PE2wEvP1gROZC), [Nyck Caution](https://open.spotify.com/artist/1ZyUXvaBXUsIZ3JD6jYGkt), [Kirk Knight](https://open.spotify.com/artist/1nSpOxq3pcgomrfpXudQuq), [CJ Fly](https://open.spotify.com/artist/41yEdWozNYEzA2RfgYQHgr), [AKTHESAVIOR](https://open.spotify.com/artist/1RlBttuJAY33jcaL1TOlUw) | [Escape From New York](https://open.spotify.com/album/1NPxBmG3k3UzybcaxxSVuB) | 3:40 | 2022-10-18 |  |
 | [It Is Not Meant To Be](https://open.spotify.com/track/3Yub3anoLj8w58TVpEXUJv) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [InnerSpeaker](https://open.spotify.com/album/1DNSmmRLfv97Yjq7MTFWng) | 5:21 | 2024-09-19 |  |

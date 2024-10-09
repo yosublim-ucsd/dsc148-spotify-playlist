@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,688 songs - 4 day 19 hr 37 min
+1,689 songs - 4 day 19 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -976,7 +976,7 @@
 | [Miracle](https://open.spotify.com/track/7JSS036IjVSwD64TAr6n32) | [Madeon](https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc) | [Good Faith](https://open.spotify.com/album/6Lq1lrCfkpxKa4jCo5gKWr) | 4:10 | 2020-03-16 | 2020-06-12 |
 | [Mirror](https://open.spotify.com/track/3puQ8QUzvzBfFnlIOSYaK4) | [Deltium](https://open.spotify.com/artist/0QroI8p7Rd0bK54HCFtelN) | [Mirror](https://open.spotify.com/album/6DpmqFLINjAajemiJPpMGw) | 3:12 | 2022-12-28 | 2023-01-06 |
 | [Mirror Play](https://open.spotify.com/track/0mcMy6ItV0K0uD4k6HrT9i) | [Cubicolor](https://open.spotify.com/artist/4nMIbZxtt1kWqUZ8VNKvjU) | [Brainsugar](https://open.spotify.com/album/2kywoxchFPj8Xa5odjG4GV) | 5:56 | 2020-05-18 | 2020-07-18 |
-| [Missing You](https://open.spotify.com/track/7ILwo5dXAT8FcgfFJKWgFq) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Missing You](https://open.spotify.com/album/1Ff0i6vVZC1JJGnRc1MZST) | 4:04 | 2024-07-19 |  |
+| [Missing You](https://open.spotify.com/track/7ILwo5dXAT8FcgfFJKWgFq) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Missing You](https://open.spotify.com/album/1Ff0i6vVZC1JJGnRc1MZST) | 4:04 | 2024-07-19 | 2024-10-09 |
 | [Mistaken \(feat\. Alex Aris\) \- DRAMA Remix](https://open.spotify.com/track/5OWrngLj7uTcicHivhY7jA) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Matisse & Sadko](https://open.spotify.com/artist/2QMCcKIPHnjQaPPgoEst88), [Alex Aris](https://open.spotify.com/artist/7J7YzKnvAyEmHCg7LGWW0G), [DRAMA](https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg) | [2019 Remixed](https://open.spotify.com/album/3z4efVJv1e3GmoR7PybqHR) | 3:56 | 2020-03-18 | 2022-04-21 |
 | [MO](https://open.spotify.com/track/5ozStnkHfqXVroea7vLCpX) | [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx) | [Colour](https://open.spotify.com/album/6z8WhxG1JnXfAWmCoVIKBA) | 4:28 | 2022-01-21 | 2022-05-07 |
 | [Modest Life](https://open.spotify.com/track/6OKVsI0IxFSsciRlB5COqB) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Atlas \(Light/Dark Deluxe Edition\)](https://open.spotify.com/album/5cibljLILelhJ2RhDq9CxE) | 3:42 | 2020-05-18 | 2020-07-03 |
@@ -1193,6 +1193,7 @@
 | [Purple](https://open.spotify.com/track/4mMYRb2AZyZiI6XiHzqHBo) | [AK](https://open.spotify.com/artist/33Cf4O1KAVbtQa00scMi2A), [Liam Thomas](https://open.spotify.com/artist/0CDvUUuendAExit0nkRVpN) | [Purple](https://open.spotify.com/album/1TYUytf3KP39fBUe4ZS4pl) | 3:09 | 2021-12-03 | 2022-07-28 |
 | [Purple Sands](https://open.spotify.com/track/3b5guLQVB4k9VZaXW0OAIJ) | [Blank & Jones](https://open.spotify.com/artist/2XTff332rrZaE1rBM47Krp), [David Harks](https://open.spotify.com/artist/6j8GXOmXESx4CKWRdIYtCB) | [Purple Sands](https://open.spotify.com/album/3kCU2EuoADRSWdBflZ9xA7) | 3:11 | 2021-02-19 | 2021-03-10 |
 | [Queen of Ice \- Nora En Pure Club Mix](https://open.spotify.com/track/5VyVQuqtPkKZt1jaXKuQkR) | [Claptone](https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry), [Dizzy](https://open.spotify.com/artist/0g3BS5QoR5r6pOAg1tvwXv), [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Queen of Ice \(Nora En Pure Remix\)](https://open.spotify.com/album/6o5REIm1HCnvCQXG8gqC6P) | 4:15 | 2022-12-28 | 2023-01-06 |
+| [Rabbit Hole](https://open.spotify.com/track/7IdzWFKqSfRJnWesOlaeuW) | [Marsh](https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp), [ALLKNIGHT](https://open.spotify.com/artist/28Upea6Tkq0l5oTu0dtX1c) | [Rabbit Hole](https://open.spotify.com/album/4DRQYxf3qpxyiMkKuPIcU2) | 4:11 | 2024-10-04 |  |
 | [Rabiosa](https://open.spotify.com/track/4wETfzGfYptjrNjf31CA06) | [Troste](https://open.spotify.com/artist/0ugRi4v3utREAUASuPhlJz) | [Rabiosa](https://open.spotify.com/album/7hre64g0IxybZvKQx22qbP) | 4:11 | 2022-12-28 | 2023-01-06 |
 | [Rain](https://open.spotify.com/track/49frwp277WHBgpwBHeyOSO) | [Astrality](https://open.spotify.com/artist/6KGv020mJkIjQH5YPDSBcZ), [MNRT](https://open.spotify.com/artist/2Cuq3uAaodW1nrYWK1sc99), [S:NE](https://open.spotify.com/artist/35tPnsdQwL9lJYNdfDdIy3) | [Rain](https://open.spotify.com/album/0iFKjKFTY1kD7SSVmNZDin) | 2:32 | 2023-08-18 | 2024-08-03 |
 | [Rain](https://open.spotify.com/track/3RPrtaRukLoAulq4dpI1nA) | [Duke Boara](https://open.spotify.com/artist/6EL8x2zkCRGzb32jvrSI56) | [Rain](https://open.spotify.com/album/284B6dcL3EcXn2PxZ3PD7h) | 3:42 | 2021-01-23 | 2022-10-21 |

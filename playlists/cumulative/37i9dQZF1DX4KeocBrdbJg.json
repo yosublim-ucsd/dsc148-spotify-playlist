@@ -1541,6 +1541,28 @@
     },
     {
       "album": {
+        "name": "Blair",
+        "url": "https://open.spotify.com/album/7jMWzPTGM5grscRd3SVblP"
+      },
+      "artists": [
+        {
+          "name": "Kevin AMF",
+          "url": "https://open.spotify.com/artist/1XtR9vPQD6cjmHlR5PuHPu"
+        },
+        {
+          "name": "Omar Landell",
+          "url": "https://open.spotify.com/artist/0bs6yCBQVRqDuCO3nLnUNs"
+        }
+      ],
+      "date_added": "2024-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185574,
+      "name": "Blair",
+      "url": "https://open.spotify.com/track/3NruJwqTnUoJWWtnpp42PI"
+    },
+    {
+      "album": {
         "name": "Bling-Bang-Bang-Born",
         "url": "https://open.spotify.com/album/6M2PMiBa5zM37GQChwBHA6"
       },
@@ -3425,6 +3447,24 @@
     },
     {
       "album": {
+        "name": "Easy Rider",
+        "url": "https://open.spotify.com/album/4QiLsDYI2Ec42hhx0UyzEC"
+      },
+      "artists": [
+        {
+          "name": "Royal Intention",
+          "url": "https://open.spotify.com/artist/72yWzDmSEaSArHnLcRY6SS"
+        }
+      ],
+      "date_added": "2024-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185634,
+      "name": "Easy Rider",
+      "url": "https://open.spotify.com/track/0Wa5sHWcFlZNjyALlmLhQG"
+    },
+    {
+      "album": {
         "name": "ecstacy (slowed)",
         "url": "https://open.spotify.com/album/6KLSjdqyjISLUhW8bx0Bqi"
       },
@@ -4088,7 +4128,7 @@
       ],
       "date_added": "2023-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-09",
       "duration_ms": 223186,
       "name": "Flores Amarillas",
       "url": "https://open.spotify.com/track/20FJlhMZhxGlsLCUVL1jYC"
@@ -7294,7 +7334,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-09",
       "duration_ms": 177598,
       "name": "Move",
       "url": "https://open.spotify.com/track/1BJJbSX6muJVF2AK7uH1x4"
@@ -11173,6 +11213,24 @@
     },
     {
       "album": {
+        "name": "The Substance (Original Motion Picture Score)",
+        "url": "https://open.spotify.com/album/3VIxmPKD5Ajzxd2RQBmtjP"
+      },
+      "artists": [
+        {
+          "name": "Raffertie",
+          "url": "https://open.spotify.com/artist/5UExdZdyiChMTvMm0nATlp"
+        }
+      ],
+      "date_added": "2024-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150460,
+      "name": "The Substance (Original Motion Picture Score)",
+      "url": "https://open.spotify.com/track/7LX3IsrCPIWLJKyKftkPt1"
+    },
+    {
+      "album": {
         "name": "These Words",
         "url": "https://open.spotify.com/album/3boWgDZHAI5tHYwdLuMuwq"
       },
@@ -11670,7 +11728,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-09",
       "duration_ms": 136022,
       "name": "U R SUCH A LAME!",
       "url": "https://open.spotify.com/track/1LSMnUYYLatAZT6HH6H2en"

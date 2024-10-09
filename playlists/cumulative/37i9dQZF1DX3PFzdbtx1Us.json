@@ -1481,6 +1481,24 @@
     },
     {
       "album": {
+        "name": "Chute De Neige",
+        "url": "https://open.spotify.com/album/1jGeso4zdhTekE74udbEli"
+      },
+      "artists": [
+        {
+          "name": "Orcrist",
+          "url": "https://open.spotify.com/artist/1N5Q4G5YuaZkMi4M8Kef2U"
+        }
+      ],
+      "date_added": "2024-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206666,
+      "name": "Chute De Neige",
+      "url": "https://open.spotify.com/track/7jbEFWP7BR5dp3CVY3VcTc"
+    },
+    {
+      "album": {
         "name": "City Lights",
         "url": "https://open.spotify.com/album/5edrSUkO57ts9EwVVjvPAx"
       },

@@ -4,7 +4,7 @@
 
 > Chill to these laid\-back classical covers.
 
-226 songs - 12 hr 56 min
+230 songs - 13 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Blank Space](https://open.spotify.com/track/2mMarfkPpZPPKV5AUGdz58) | [Brooklyn Duo](https://open.spotify.com/artist/6wBOZ9D65AcqUlfKUqsQ7R) | [Brooklyn Sessions](https://open.spotify.com/album/7hBwTnRSuuOisqubNG4lwv) | 2:35 | 2021-11-25 |  |
 | [Blinding Lights](https://open.spotify.com/track/1e9wX7xPvovxtSyMzRCTIM) | [BAWK](https://open.spotify.com/artist/6cwnpm0nvjKlK4YayMGBl9) | [Blinding Lights](https://open.spotify.com/album/5lw6kBIgVHjRPQ1adMBiwN) | 2:53 | 2021-11-25 |  |
 | [Blinding Lights](https://open.spotify.com/track/4qAeCVBiLVpG56P4KOL5sE) | [BAWK](https://open.spotify.com/artist/6cwnpm0nvjKlK4YayMGBl9) | [Blinding Lights](https://open.spotify.com/album/1gLQuDNomgHQQlW2oFJAfj) | 2:53 | 2022-09-09 | 2024-04-19 |
+| [Blinding Lights](https://open.spotify.com/track/3a0n83lQLdxJYedOJMcaS1) | [Jaque Dylan](https://open.spotify.com/artist/1C4O2dXmCudFHkn9Zw8Kml) | [Blinding Lights](https://open.spotify.com/album/7Mbwvp7Txu3Nq5q6bgEGB2) | 2:01 | 2024-10-08 |  |
 | [Blue \(Da Ba Dee\)](https://open.spotify.com/track/4JGD5NiVmKVGBjVysCvKIw) | [Christian Lindquist](https://open.spotify.com/artist/2QiW536ikg1NgIkaCvRg8s) | [Blue \(Da Ba Dee\)](https://open.spotify.com/album/1oFuXts0JAGBn1OhcWZp2F) | 2:59 | 2023-03-07 |  |
 | [Can You Feel the Love Tonight](https://open.spotify.com/track/3osEK0HswvG6A84LqrCBjf) | [Frode Gjermundsen](https://open.spotify.com/artist/2jlnldHu77IxBD89N5cepZ) | [Can You Feel the Love Tonight](https://open.spotify.com/album/53DAURj2Zj5igvfViNepDL) | 3:43 | 2024-09-03 |  |
 | [cardigan \- Bonus Track](https://open.spotify.com/track/2zxv5woj8aMPkAhGsHDxI5) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [VSQ Performs the Hits of 2020, Vol\. 2 \(Deluxe Version\)](https://open.spotify.com/album/4r4RPtmQBIHxmMrK7pwbyw) | 3:52 | 2022-11-18 | 2022-11-26 |
@@ -73,6 +74,7 @@
 | [Fade into You](https://open.spotify.com/track/6x3QipqRZrUC2q5bETyyGf) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Vitamin String Quartet Performs Alternative Hits of the 80s and 90s Vol\. 2](https://open.spotify.com/album/2yOUlxABRL88pBm9W5RuHL) | 5:15 | 2022-11-18 | 2022-11-26 |
 | [Fast Car](https://open.spotify.com/track/1F91nR4f8LNdVNpWGX4Gy4) | [Andrea Carri](https://open.spotify.com/artist/4XcmEbEiUwaKL9rB870I4U) | [I Play Yours, Vol\. 2](https://open.spotify.com/album/5Mv4Ksk5HM3my8S7jaZIpP) | 3:52 | 2021-11-25 |  |
 | [Fields Of Gold](https://open.spotify.com/track/52CkW7MdufnpFnbmeO8N37) | [Bergamotte](https://open.spotify.com/artist/0QVlzUbTtqzrqC2wXYvA9V) | [Fields Of Gold](https://open.spotify.com/album/6v27YNez0QOmgSoK4KblXD) | 2:37 | 2023-04-04 |  |
+| [Fields of gold](https://open.spotify.com/track/6Ju9sSfueWlZU9NHrRuWZW) | [Rosie Wendell](https://open.spotify.com/artist/2Xebx1tzN01qdWTg3Hfu1f) | [Fields of gold](https://open.spotify.com/album/2aYnJdav0LHr9HrUPrE0QZ) | 3:16 | 2024-10-08 |  |
 | [Fields Of Gold](https://open.spotify.com/track/3pajXCqOSkwgTIBXZEauQD) | [Tobias Berntsson](https://open.spotify.com/artist/1ATcda1cBf3inR0K5yqlU6) | [Fields Of Gold](https://open.spotify.com/album/740iE8dch9vJaHW9OeNSbv) | 3:24 | 2021-11-25 | 2023-04-05 |
 | [Fingers Crossed \(arr\. piano\)](https://open.spotify.com/track/0qoMHjrFq0g4QdMqxYhG9t) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [Fingers Crossed \(arr\. piano\)](https://open.spotify.com/album/7kkjF3lRF4KtvIk95UNmpJ) | 3:07 | 2022-01-28 | 2023-06-24 |
 | [Fireflies](https://open.spotify.com/track/4dvQAaZ7RynNmO3k1CcpVq) | [Long time no sea](https://open.spotify.com/artist/1hQpvdpkEgkWEgAOSawUW7) | [Fireflies](https://open.spotify.com/album/3sHcifbP5GgkVhjmjVi4IV) | 2:38 | 2023-11-07 |  |
@@ -115,6 +117,7 @@
 | [I Can't Help Falling In Love](https://open.spotify.com/track/0SrryncWXs2idSiHSY9hdT) | [Therése Therén](https://open.spotify.com/artist/27L2UTyUaO5OCJSNPYgks6) | [I Can't Help Falling In Love](https://open.spotify.com/album/1zhVJVy42DKI8VFw60f8oN) | 2:46 | 2024-09-10 |  |
 | [I Can't Make You Love Me](https://open.spotify.com/track/0njEZi0FP5dUAXcXZqCoXG) | [Therése Therén](https://open.spotify.com/artist/27L2UTyUaO5OCJSNPYgks6) | [I Can't Make You Love Me](https://open.spotify.com/album/3LzJrPwnAKdK0CWGlFb3FM) | 3:31 | 2024-03-04 |  |
 | [I Just Can't Stop Loving You](https://open.spotify.com/track/3AEHG55q4GF9zFgtMdQMQi) | [Oliver Young](https://open.spotify.com/artist/1v27VC8z9CqB2tpHBzZ0xv) | [I Just Can't Stop Loving You](https://open.spotify.com/album/0maykbcNsWHDhZ7TGMq4jn) | 3:34 | 2024-09-03 |  |
+| [I'm on fire](https://open.spotify.com/track/6qdtWByHjENUvfkmCCKMkt) | [Samuel Boman](https://open.spotify.com/artist/4eRFi91APHyqm3Pqzyi0Fs) | [I'm on fire](https://open.spotify.com/album/0POCGgHFs2K1i6MepPaK6t) | 2:24 | 2024-10-08 |  |
 | [I'm Yours \- Piano Version](https://open.spotify.com/track/0MXyCz754IFkMZq1I4BVaO) | [Henry Smith](https://open.spotify.com/artist/5M86PSFFaRNTKidvlgHDEE) | [00s Piano Covers](https://open.spotify.com/album/01u4d96EWX1Xk1NLtQhZNC) | 3:02 | 2022-11-25 | 2024-04-19 |
 | [I'm Yours \- Piano Version](https://open.spotify.com/track/4NqDMiBF4yLwdfJ6BDDdx2) | [Henry Smith](https://open.spotify.com/artist/5M86PSFFaRNTKidvlgHDEE) | [00s Piano Covers](https://open.spotify.com/album/50x1Jf4aVOOvpHQ2fxe71B) | 3:02 | 2022-02-25 |  |
 | [Imagine / What a Wonderful World](https://open.spotify.com/track/5peB51NBGxDU6whmNsK6yV) | [Christine Brown](https://open.spotify.com/artist/3iS3pfptgdjssIOuuTJith) | [Imagine What a Wonderful World](https://open.spotify.com/album/2cIcC7qsQf3Nzo6mpZQoYC) | 4:54 | 2021-11-25 |  |
@@ -168,6 +171,7 @@
 | [Sailing](https://open.spotify.com/track/7vrm7MunIj4mXiEZdj8zfF) | [Nilo Almeida](https://open.spotify.com/artist/1FFwV2WdNXvSTHJAI0CZlF) | [Sailing](https://open.spotify.com/album/26VqwTUlZPYlDFdFr86HsM) | 1:45 | 2023-02-21 | 2023-10-17 |
 | [Samson](https://open.spotify.com/track/3QEYwF3sQ8TFrJd4lGt1uM) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Vitamin String Quartet Performs Regina Spektor](https://open.spotify.com/album/1LzX7qSVoKMGmmARb2DYbb) | 2:58 | 2022-11-18 | 2022-11-26 |
 | [Save Me](https://open.spotify.com/track/4xeZFxASZR1MdL6DVrp54b) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [VSQ Performs BTS](https://open.spotify.com/album/2mWJADpEak5CNXxMevndVI) | 3:20 | 2022-11-18 | 2022-11-26 |
+| [Save Your Tears](https://open.spotify.com/track/1C6bOXVk1aha0QJigVidNT) | [DisCovered](https://open.spotify.com/artist/07FxfwSU3s0RwrN5ooGt8y) | [Save Your Tears](https://open.spotify.com/album/4zNi7sHAx8xFH0XvG2BuOO) | 2:15 | 2024-10-08 |  |
 | [Say Something](https://open.spotify.com/track/3lDVrC13oxt1IMvBbqT1Es) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [VSQ Performs the Hits of 2014, Vol\. 1](https://open.spotify.com/album/2nXsjLHluXH1EDCGaI4Uf9) | 3:50 | 2022-11-18 | 2022-11-26 |
 | [Scarecrow in the Garden](https://open.spotify.com/track/6CHgoOm1x4XPSDPd1jNMDi) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [VSQ Performs the Hits of 2017 Vol\. 2](https://open.spotify.com/album/41p4FJy6Y6BvuZymMfHrxE) | 3:21 | 2022-11-18 | 2022-11-26 |
 | [Shake It Off \(Originally Performed by Taylor Swift\)](https://open.spotify.com/track/4gcQGnyJYyxlbTtO8Qx9Dy) | [Sean Redmond](https://open.spotify.com/artist/23DhHJzAZA8q1WUa52UySA) | [Shake It Off \(Originally Performed by Taylor Swift\)](https://open.spotify.com/album/4nUKrWBOAJ0jb4lVFkDej2) | 2:40 | 2021-11-25 |  |

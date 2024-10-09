@@ -1,12 +1,12 @@
 {
-  "description": "This is Belinda. The essential tracks, all in one playlist.",
-  "num_followers": 70274,
+  "description": "This Is Belinda. Los temas esenciales, todos en una lista.",
+  "num_followers": 70296,
   "original_name": "This Is Belinda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwHTAAAAAADOIprqg7R+hXg3ZxpYc4iD",
+  "snapshot_id": "ZwMkgAAAAAASeygh8PySX5fKRZoehQxH",
   "tracks": [
     {
       "added_at": null,
@@ -611,6 +611,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Belinda",
+        "url": "https://open.spotify.com/album/572O2aMDzsHhr48257pOZM"
+      },
+      "artists": [
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Vivir - Any Better",
+      "url": "https://open.spotify.com/track/4iygID6PWnRGNk9pqBpHE6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Me Encantar\u00eda",
         "url": "https://open.spotify.com/album/6fnWWfMSRAztQvuJTAfmlw"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 177328,
       "name": "Me Encantar\u00eda",
       "url": "https://open.spotify.com/track/1APLK79zZo67ny370NLO4F"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Belinda",
-        "url": "https://open.spotify.com/album/572O2aMDzsHhr48257pOZM"
-      },
-      "artists": [
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Vivir - Any Better",
-      "url": "https://open.spotify.com/track/4iygID6PWnRGNk9pqBpHE6"
     },
     {
       "added_at": null,
@@ -711,6 +711,22 @@
       "duration_ms": 206226,
       "name": "Sal De Mi Piel",
       "url": "https://open.spotify.com/track/1COpsT2iGXmVp9TiI8poft"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bugatti",
+        "url": "https://open.spotify.com/album/3MccaxTp3l7Gb0iZvpANxC"
+      },
+      "artists": [
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        }
+      ],
+      "duration_ms": 165674,
+      "name": "Bugatti",
+      "url": "https://open.spotify.com/track/2wItyN3Yjbopuogk1Ql4Eh"
     },
     {
       "added_at": null,
@@ -823,6 +839,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Carpe Diem",
+        "url": "https://open.spotify.com/album/0md5nsl4Cm5gmdziP0zfMQ"
+      },
+      "artists": [
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        }
+      ],
+      "duration_ms": 206400,
+      "name": "Lolita",
+      "url": "https://open.spotify.com/track/5FVWs30Ce5zqcsVDfwfrJP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Si T\u00fa Me Llamas (BSO Tadeo Jones 3)",
         "url": "https://open.spotify.com/album/3AHJ6G8vSL0X1EyNBK7L4p"
       },
@@ -839,22 +871,6 @@
       "duration_ms": 162243,
       "name": "Si T\u00fa Me Llamas - BSO Tadeo Jones 3",
       "url": "https://open.spotify.com/track/5kQdGnRPrA95CAEW7lNJiu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Carpe Diem",
-        "url": "https://open.spotify.com/album/0md5nsl4Cm5gmdziP0zfMQ"
-      },
-      "artists": [
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        }
-      ],
-      "duration_ms": 206400,
-      "name": "Lolita",
-      "url": "https://open.spotify.com/track/5FVWs30Ce5zqcsVDfwfrJP"
     },
     {
       "added_at": null,
@@ -1031,22 +1047,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bugatti",
-        "url": "https://open.spotify.com/album/3MccaxTp3l7Gb0iZvpANxC"
-      },
-      "artists": [
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        }
-      ],
-      "duration_ms": 165674,
-      "name": "Bugatti",
-      "url": "https://open.spotify.com/track/2wItyN3Yjbopuogk1Ql4Eh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Te Quiero Maxi Single",
         "url": "https://open.spotify.com/album/6YZ2lSsfCVzabCnAOLNs7H"
       },
@@ -1091,22 +1091,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Belinda",
-        "url": "https://open.spotify.com/album/572O2aMDzsHhr48257pOZM"
-      },
-      "artists": [
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        }
-      ],
-      "duration_ms": 213760,
-      "name": "Be Free",
-      "url": "https://open.spotify.com/track/3vm7gmgWsXY2e6UsVwSbZh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Translation",
         "url": "https://open.spotify.com/album/1BRPWm8MXzNphCMt6K4OMB"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 219640,
       "name": "Translation",
       "url": "https://open.spotify.com/track/0KmTe6ZCDyYi9rxUy3NWfg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Belinda",
+        "url": "https://open.spotify.com/album/572O2aMDzsHhr48257pOZM"
+      },
+      "artists": [
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        }
+      ],
+      "duration_ms": 213760,
+      "name": "Be Free",
+      "url": "https://open.spotify.com/track/3vm7gmgWsXY2e6UsVwSbZh"
     },
     {
       "added_at": null,

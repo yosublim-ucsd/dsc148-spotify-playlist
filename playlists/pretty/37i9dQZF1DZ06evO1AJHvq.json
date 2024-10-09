@@ -1,12 +1,12 @@
 {
-  "description": "This Is Ariel Camacho y Los Plebes Del Rancho. Los temas esenciales, todos en una lista.",
-  "num_followers": 415673,
+  "description": "This is Ariel Camacho y Los Plebes Del Rancho. The essential tracks, all in one playlist.",
+  "num_followers": 415792,
   "original_name": "This Is Ariel Camacho y Los Plebes Del Rancho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwHTAAAAAADEv/NjQ+xX1uh7u+msul/7",
+  "snapshot_id": "ZwMkgAAAAAAdO8UYoGFHkbCbBASeU0PM",
   "tracks": [
     {
       "added_at": null,
@@ -572,9 +572,9 @@
           "url": "https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul"
         }
       ],
-      "duration_ms": 231523,
-      "name": "El Empanada",
-      "url": "https://open.spotify.com/track/1QYw5mvSXRDagazPC2eaRP"
+      "duration_ms": 205505,
+      "name": "Los Primos",
+      "url": "https://open.spotify.com/track/7I4QTnJEspPX1uyoW0fF5d"
     },
     {
       "added_at": null,
@@ -640,9 +640,9 @@
           "url": "https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul"
         }
       ],
-      "duration_ms": 205505,
-      "name": "Los Primos",
-      "url": "https://open.spotify.com/track/7I4QTnJEspPX1uyoW0fF5d"
+      "duration_ms": 231523,
+      "name": "El Empanada",
+      "url": "https://open.spotify.com/track/1QYw5mvSXRDagazPC2eaRP"
     },
     {
       "added_at": null,

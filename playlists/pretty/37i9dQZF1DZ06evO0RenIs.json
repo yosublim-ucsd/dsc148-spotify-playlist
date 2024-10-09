@@ -1,12 +1,12 @@
 {
-  "description": "This Is Phoenix. Los temas esenciales, todos en una lista.",
-  "num_followers": 94395,
+  "description": "This is Phoenix. The essential tracks, all in one playlist.",
+  "num_followers": 94401,
   "original_name": "This Is Phoenix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwHTAAAAAAAsGlt8aDiYCSsQ2WBOv1I0",
+  "snapshot_id": "ZwMkgAAAAACD0lS8Sdjd42S/zlnaCKjR",
   "tracks": [
     {
       "added_at": null,
@@ -408,9 +408,9 @@
           "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
         }
       ],
-      "duration_ms": 207106,
-      "name": "Holdin' on Together",
-      "url": "https://open.spotify.com/track/2foqLoUPvd5OcINiUtKZg8"
+      "duration_ms": 230453,
+      "name": "Run Run Run",
+      "url": "https://open.spotify.com/track/2OxcH2hvo4SrVGO3gd7RJO"
     },
     {
       "added_at": null,
@@ -472,9 +472,9 @@
           "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
         }
       ],
-      "duration_ms": 230453,
-      "name": "Run Run Run",
-      "url": "https://open.spotify.com/track/2OxcH2hvo4SrVGO3gd7RJO"
+      "duration_ms": 207106,
+      "name": "Holdin' on Together",
+      "url": "https://open.spotify.com/track/2foqLoUPvd5OcINiUtKZg8"
     },
     {
       "added_at": null,

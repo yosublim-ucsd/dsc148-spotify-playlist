@@ -2,9 +2,9 @@
 
 ### [EQUAL Japan](https://open.spotify.com/playlist/37i9dQZF1DX2K2376Q0zTJ)
 
-> 音楽におけるジェンダーの公平性促進を目指し、女性の持つパワーや可能性を最大限に引き出していくプログラム。cover: NENE
+> 音楽におけるジェンダーの公平性促進を目指し、女性の持つパワーや可能性を最大限に引き出していくプログラム。cover: eill
 
-1,228 songs - 3 day 0 hr 38 min
+1,229 songs - 3 day 0 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -369,7 +369,8 @@
 | [JK](https://open.spotify.com/track/6gh3lffE1bXbncCSFKKl7R) | [SACOYANS](https://open.spotify.com/artist/0wTERYV74C8OkJRQnNbrDn) | [Yomosue](https://open.spotify.com/album/2xYDTeOmxDLWYqqmrqKiJS) | 4:20 | 2023-02-28 | 2023-04-05 |
 | [Just Like Fireflies](https://open.spotify.com/track/5X632JMfT1LF7P1RtVHV9Q) | [For Tracy Hyde](https://open.spotify.com/artist/6D4CyQKY5fDsjK5qKNfqDy) | [Ethernity](https://open.spotify.com/album/50vJHtZI95zHU1zqjAsVu8) | 2:40 | 2022-03-07 | 2023-01-04 |
 | [KAGOME, KAGOME](https://open.spotify.com/track/3p9nyLwY9jv1KFiP68fC3y) | [Maro Music](https://open.spotify.com/artist/4iHE8t7vhPwUX0TrF4cETN), [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5) | [KAGOME, KAGOME](https://open.spotify.com/album/5A7Gg7KDZliuZ7dnIX01Wl) | 3:40 | 2022-08-02 | 2022-09-07 |
-| [Kakumei Zenya](https://open.spotify.com/track/1rvR8AGfqhPdvhgb6ZCG4F) | [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn) | [Kakumei Zenya](https://open.spotify.com/album/0eYDALWDP59GFCypPr1VMJ) | 3:08 | 2024-09-24 |  |
+| [Kakumei Zenya](https://open.spotify.com/track/1rvR8AGfqhPdvhgb6ZCG4F) | [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn) | [Kakumei Zenya](https://open.spotify.com/album/0eYDALWDP59GFCypPr1VMJ) | 3:08 | 2024-09-24 | 2024-10-09 |
+| [Kakumei Zenya](https://open.spotify.com/track/76DBtBel5B2u8qvUszcj9f) | [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn) | [my dream box](https://open.spotify.com/album/5clVHepj7jpIQlRMsOuYAg) | 3:08 | 2024-10-08 |  |
 | [Kakurembo](https://open.spotify.com/track/3vAOwkClLD0cwNrQ5i5dDg) | [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5) | [THE UNION](https://open.spotify.com/album/2GQ5kEpbCY0dcHCfIvYMZp) | 3:04 | 2024-02-06 | 2024-03-06 |
 | [Kanashikunaiyo](https://open.spotify.com/track/1QBET5TgEioubUhDwWf3XY) | [UNFAIR RULE](https://open.spotify.com/artist/4wQwkCWhOP1FKZgE87n00W) | [Kanashikunaiyo](https://open.spotify.com/album/0QuZsgf6q7Q9ZcnYjlagig) | 3:48 | 2024-01-09 | 2024-02-07 |
 | [Keep on \(it's my way\)](https://open.spotify.com/track/3IGU5gXb2uPWGdjF5MslxB) | [COMA\-CHI](https://open.spotify.com/artist/1EGbVC1fE68gQaPrYEyr99), [Uyama Hiroto](https://open.spotify.com/artist/6AE5XsUcbWE2XrQccVVJyd), [Substantial](https://open.spotify.com/artist/5FmThJ74ycmeBdQnu4Cfcw) | [Keep on \(it's my way\)](https://open.spotify.com/album/3YvGSgehItYkYro1k6DhIN) | 3:09 | 2023-05-02 | 2023-06-07 |

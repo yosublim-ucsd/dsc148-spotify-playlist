@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqbnP2e1SEM.md) - [plain]
 
 > From Ayia Napa to Ibiza, the biggest anthems from your favourite holiday hotspots.
 
-[Spotify](https://open.spotify.com/user/spotify) - 321,249 likes - 100 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 321,246 likes - 100 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqbnP2e1SEM.md) - [plain]
 | 75 | [Bota Bota](https://open.spotify.com/track/6btglV5XNwzpOtDmOclBwI) | [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj), [MC Buzzz](https://open.spotify.com/artist/2z8dSH4TMRViQh4QjqrDYv) | [Bota Bota](https://open.spotify.com/album/3rDua1ydCeXjqOfO0pR2BV) | 3:12 |
 | 76 | [Mantra](https://open.spotify.com/track/1VNZtpJBPdyhW5EOOhLw7r) | [Biscits](https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o) | [Mantra](https://open.spotify.com/album/7uvfTF4M6SslT5AqJ7GVun) | 3:07 |
 | 77 | [Paradise](https://open.spotify.com/track/3ixm1rumU8S9aQci6wiJM3) | [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB), [Ina Wroldsen](https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3) | [Paradise](https://open.spotify.com/album/1B1wx3gPkSnt0Ye6eSRxLl) | 2:37 |
-| 78 | [EYAH \(You'll Be Alright\)](https://open.spotify.com/track/2TE1Pr3iaDJdWvGSfMm3TS) | [Westend](https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu), [Tudor](https://open.spotify.com/artist/6YPmhC6xckfcUiw4undxAb), [Punctual](https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF) | [EYAH \(You'll Be Alright\)](https://open.spotify.com/album/3ZFctsaDV84rcejIEOHhOv) | 2:55 |
-| 79 | [Sugar Baby](https://open.spotify.com/track/5PTZJWka2Y6esj5u9AvldQ) | [LYOD](https://open.spotify.com/artist/2a97LenVl6Fez8pkVAcFuq) | [Sugar Baby](https://open.spotify.com/album/1zxHxvKGt6z1FZwtYfBTr5) | 2:36 |
+| 78 | [Sugar Baby](https://open.spotify.com/track/5PTZJWka2Y6esj5u9AvldQ) | [LYOD](https://open.spotify.com/artist/2a97LenVl6Fez8pkVAcFuq) | [Sugar Baby](https://open.spotify.com/album/1zxHxvKGt6z1FZwtYfBTr5) | 2:36 |
+| 79 | [EYAH \(You'll Be Alright\)](https://open.spotify.com/track/2TE1Pr3iaDJdWvGSfMm3TS) | [Westend](https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu), [Tudor](https://open.spotify.com/artist/6YPmhC6xckfcUiw4undxAb), [Punctual](https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF) | [EYAH \(You'll Be Alright\)](https://open.spotify.com/album/3ZFctsaDV84rcejIEOHhOv) | 2:55 |
 | 80 | [Sweet Devotion \- Edit](https://open.spotify.com/track/7FSgGyCg0kBU3iUKSMbxNd) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Caroline Byrne](https://open.spotify.com/artist/2tVd9Bpt5Li9UsmKwhJ1nG) | [Sweet Devotion](https://open.spotify.com/album/2XklQanfpAEHwnSM6pk8vT) | 3:27 |
 | 81 | [SAVE ME](https://open.spotify.com/track/0TsJzxDrjLNs6szBrho1dG) | [Boston Bun](https://open.spotify.com/artist/1Na1sVrGWKwAigaW7a6hi5), [Bag Raiders](https://open.spotify.com/artist/6fXEqmGQEt6ONuqVmwrN46) | [SAVE ME](https://open.spotify.com/album/4IHs5K9AlUPG2jNNlNR84l) | 3:36 |
 | 82 | [ibiza2024](https://open.spotify.com/track/1GHh01GXmueglhP5jbZuJJ) | [t e s t p r e s s](https://open.spotify.com/artist/4udW3rcRXEmwm706eR5h8u) | [ibiza2024](https://open.spotify.com/album/3XuLHIwHVAHvNQW3QSsLAx) | 3:12 |

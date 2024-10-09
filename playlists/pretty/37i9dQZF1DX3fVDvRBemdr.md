@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 
 > De nieuwste Hollandse hits\. Cover: Yves Berendse & Emma Heesters
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,458 likes - 80 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,489 likes - 80 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 | 79 | [Is Dit Alles](https://open.spotify.com/track/7zTTsQNcLtxIsX3CdGq5fp) | [Pascal Redeker](https://open.spotify.com/artist/2pPlC5pHDMwx9vCtEszoub) | [Is Dit Alles](https://open.spotify.com/album/4XrDMgi0wd1hlh374SKCVG) | 2:35 |
 | 80 | [Vier Het Leven](https://open.spotify.com/track/6TgUcs28NmopMhBT9gZMPn) | [Delano Bisschops](https://open.spotify.com/artist/1Euc01XIupZAthccgXPuG5) | [Vier Het Leven](https://open.spotify.com/album/4yTIeSkw9df9ZRKGC4NBhM) | 3:20 |
 
-Snapshot ID: `ZwMIYAAAAABYBJUIi1ujGiH7jMl0yOyF`
+Snapshot ID: `ZwTjoQAAAAAa9g02vlvVpBhYTsXfCOp3`

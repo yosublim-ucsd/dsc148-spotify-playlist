@@ -4,7 +4,7 @@
 
 > “With summer winding down, I wanted to share some songs that I’ve been listening to lately – and it wouldn’t be my playlist if it didn’t include an eclectic mix,”\.  Includes Summer 23 edition &amp; bonus tracks.
 
-4,016 songs - 9 day 9 hr 49 min
+4,017 songs - 9 day 9 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3936,6 +3936,7 @@
 | [World's Fair](https://open.spotify.com/track/2YpNs6fjBu8AGF06RGYsb5) | [Old Tom & the Lookouts](https://open.spotify.com/artist/4eVxPcjBhNSezlZi06MAhm) | [World's Fair](https://open.spotify.com/album/2h6BXkeCA2CGi6z2wXZyn4) | 3:04 | 2024-02-21 | 2024-03-04 |
 | [Worn Out](https://open.spotify.com/track/6bEjgG6e17x8Qk8YSmGCaB) | [TooTired](https://open.spotify.com/artist/2iSCcGd78M7ZdKlw0tNmna) | [Worn Out](https://open.spotify.com/album/6xfQvs2NWpwEtbYf4LU0Fh) | 2:50 | 2024-02-10 | 2024-02-18 |
 | [Worst Drug](https://open.spotify.com/track/3HzXKoJdMY6YLVL7IEtGfV) | [Hamza Hawsawi](https://open.spotify.com/artist/2ZfxDAzauSIxjmFaQLsoLu) | [Worst Drug](https://open.spotify.com/album/3NGXR0QYyl6urGr0YrNP9d) | 3:03 | 2024-09-02 | 2024-09-14 |
+| [WORST THING](https://open.spotify.com/track/5bzAPG8jGfPLN77q49FvMQ) | [Veldor](https://open.spotify.com/artist/0HeG2fU31u2dMh2K82WqLc) | [WORST THING](https://open.spotify.com/album/4qApsma8HyCAnJ27LbSuIM) | 2:09 | 2024-10-08 |  |
 | [Worth It](https://open.spotify.com/track/5WUimXXg0VCx2HhhRk5hnX) | [The Fantasy Exchange](https://open.spotify.com/artist/6tLYl2lVuJWyAoglaNd9eL), [Nick Hagelin](https://open.spotify.com/artist/4uzUAkAnJ15k3cBrI8Op9W), [tilde](https://open.spotify.com/artist/2cSdQ45t0UV2O2y527yKox), [Kell](https://open.spotify.com/artist/1IjifYOYo6VDWn4St9OM29) | [Worth It](https://open.spotify.com/album/3xncuNtIfCjGqQTfZLzKEZ) | 3:35 | 2022-09-21 | 2022-10-09 |
 | [Worth Your While](https://open.spotify.com/track/2zFeKB60ea6mnQMu7qImv9) | [Freedust](https://open.spotify.com/artist/5ToWfy4enD67CmqGlb7TZ5) | [Worth Your While](https://open.spotify.com/album/7gU4XM3CXcvvgGLjwvPrAe) | 3:18 | 2023-04-20 | 2023-05-09 |
 | [Worthy](https://open.spotify.com/track/2osmujeHiS4OlPSOnHR5Hp) | [Rina Chanel](https://open.spotify.com/artist/3Vxlbac46VEnaZ360knkHu) | [Worthy](https://open.spotify.com/album/5kIKa0G1CyhSMAECu1uwiI) | 4:50 | 2020-12-09 | 2021-01-02 |

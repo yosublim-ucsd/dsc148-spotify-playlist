@@ -5537,6 +5537,24 @@
     },
     {
       "album": {
+        "name": "Serenety Walz",
+        "url": "https://open.spotify.com/album/1ICvGPisW8N1u3Fd6lnnM2"
+      },
+      "artists": [
+        {
+          "name": "Leon Hartness",
+          "url": "https://open.spotify.com/artist/0QVs7sw7QMsyYK9Nj9zYwh"
+        }
+      ],
+      "date_added": "2024-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Serenety Walz",
+      "url": "https://open.spotify.com/track/4Iq7gulJD0YiUUyZAbeZ0w"
+    },
+    {
+      "album": {
         "name": "Serpent\u00e9a",
         "url": "https://open.spotify.com/album/7JxFbGeswuSp6j03f2hpRM"
       },

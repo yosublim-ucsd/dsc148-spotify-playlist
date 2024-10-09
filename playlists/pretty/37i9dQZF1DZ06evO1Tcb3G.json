@@ -1,12 +1,12 @@
 {
-  "description": "This is \u30de\u30e0\u30d5\u30a9\u30fc\u30c9\u30fb\u30a2\u30f3\u30c9\u30fb\u30b5\u30f3\u30ba\u3002\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u4ee3\u8868\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002",
-  "num_followers": 478794,
-  "original_name": "This Is \u30de\u30e0\u30d5\u30a9\u30fc\u30c9\u30fb\u30a2\u30f3\u30c9\u30fb\u30b5\u30f3\u30ba",
+  "description": "This Is Mumford & Sons. Los temas esenciales, todos en una lista.",
+  "num_followers": 478815,
+  "original_name": "This Is Mumford & Sons",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwHTAAAAAABxiErTsJWLklwqu7RWUS1V",
+  "snapshot_id": "ZwMkgAAAAAArSy7LwPQ3fww8Du1nVZKq",
   "tracks": [
     {
       "added_at": null,
@@ -195,18 +195,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Babel (Deluxe Version)",
-        "url": "https://open.spotify.com/album/3FfuUD3Je9t9tQq80Zq41y"
+        "name": "Good People",
+        "url": "https://open.spotify.com/album/7D1a13Dz2xlg4LY0avlTni"
       },
       "artists": [
         {
           "name": "Mumford & Sons",
           "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        },
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
         }
       ],
-      "duration_ms": 307853,
-      "name": "Hopeless Wanderer",
-      "url": "https://open.spotify.com/track/1FNGW0JOSp7Rbomh80XVYm"
+      "duration_ms": 186125,
+      "name": "Good People",
+      "url": "https://open.spotify.com/track/4Ybpltno0jRxFI4wH2yXOK"
     },
     {
       "added_at": null,
@@ -227,22 +231,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Good People",
-        "url": "https://open.spotify.com/album/7D1a13Dz2xlg4LY0avlTni"
+        "name": "Babel (Deluxe Version)",
+        "url": "https://open.spotify.com/album/3FfuUD3Je9t9tQq80Zq41y"
       },
       "artists": [
         {
           "name": "Mumford & Sons",
           "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        },
-        {
-          "name": "Pharrell Williams",
-          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
         }
       ],
-      "duration_ms": 186125,
-      "name": "Good People",
-      "url": "https://open.spotify.com/track/4Ybpltno0jRxFI4wH2yXOK"
+      "duration_ms": 307853,
+      "name": "Hopeless Wanderer",
+      "url": "https://open.spotify.com/track/1FNGW0JOSp7Rbomh80XVYm"
     },
     {
       "added_at": null,
@@ -701,6 +701,6 @@
       "url": "https://open.spotify.com/track/34tD0jmk90OTCt5OPj8w5v"
     }
   ],
-  "unique_name": "This Is \u30de\u30e0\u30d5\u30a9\u30fc\u30c9\u30fb\u30a2\u30f3\u30c9\u30fb\u30b5\u30f3\u30ba",
+  "unique_name": "This Is Mumford & Sons",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1Tcb3G"
 }

@@ -2,9 +2,9 @@
 
 ### [This Is Los Desvelados](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0mRgcJ)
 
-> This is Los Desvelados\. The essential tracks, all in one playlist.
+> This Is Los Desvelados\. Los temas esenciales, todos en una lista.
 
-70 songs - 3 hr 50 min
+71 songs - 3 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [AHORA NOS VEN](https://open.spotify.com/track/0YwGY7votS6QwJBkF6nlrL) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [CORRIDOS UNDERGROUND \(Vol\. 4\)](https://open.spotify.com/album/2Nqb3yTWqrq8IJ5hPMn9UY) | 3:01 | 2024-05-22 |  |
 | [Ahora Nos Ven](https://open.spotify.com/track/3Jub5p08dcOIxBEt42Ir0O) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Ahora Nos Ven](https://open.spotify.com/album/5qVj3KoJry15JOwsBqoinL) | 3:01 | 2024-03-08 | 2024-05-22 |
 | [Al Ver Te Vas](https://open.spotify.com/track/1lbMP2pv0OXI9jU0LgK5LX) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Guerra de Guitarras Vol\. 1](https://open.spotify.com/album/3oJL9TYyetQB8stvAXtXm3) | 3:05 | 2024-01-29 |  |
+| [Aquel Amor](https://open.spotify.com/track/6x97azhiMoG4ZF6mtUylPw) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9), [Bandera Verde](https://open.spotify.com/artist/4UwI6VNUmqlNpBiVhEbdj0) | [Desvelandia Norteñas para Bailar](https://open.spotify.com/album/4UyT3mrj2t3HIHL3EeLnfG) | 3:08 | 2024-10-09 |  |
 | [Aqui Sigo Chevereando \(En Vivo\)](https://open.spotify.com/track/08QMehyraBMIg42REIm9xs) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [En Vivo Desde Tacos Desvelados](https://open.spotify.com/album/2XjhT8SxqQiKmAiYs0nCrF) | 2:52 | 2024-01-29 | 2024-07-17 |
 | [Aqui Sigo Cheveriando](https://open.spotify.com/track/6nHBqyIy3NhKzU9D6Wu2rX) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Legion Del Corrido](https://open.spotify.com/album/0r9jqZqqorVlus4zZLTiO7) | 2:49 | 2024-02-16 |  |
 | [Aqui Sigo Cheveriando \(En Vivo\)](https://open.spotify.com/track/5r3byjM4wJDATLEZBR7a7M) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Corridos Underground Desde Culiacan Sin \(En Vivo\)](https://open.spotify.com/album/0h0VNlor4eGbnLPC71mRdp) | 2:39 | 2024-01-29 | 2024-02-17 |
@@ -63,7 +64,7 @@
 | [PISO FIRME](https://open.spotify.com/track/3bPXt1s3Amixv7hy6IE4lg) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [CORRIDOS UNDERGROUND \(Vol\. 4\)](https://open.spotify.com/album/2Nqb3yTWqrq8IJ5hPMn9UY) | 4:08 | 2024-04-07 |  |
 | [Pistas Clandestinas](https://open.spotify.com/track/721gbr72vRMoHmc9GBLt1w) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9), [Edgar Quintero](https://open.spotify.com/artist/0dNujNfEABFYHmE50TIlWr) | [Pistas Clandestinas](https://open.spotify.com/album/3WylmnpOtxGbYQxzLCwbzo) | 2:09 | 2024-03-18 |  |
 | [Placas De Papel](https://open.spotify.com/track/1uUKCuNemiNcROEVAEn5Qj) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Placas De Papel](https://open.spotify.com/album/6ZjSxw9BKp2GTluFw6v23m) | 3:40 | 2024-01-29 |  |
-| [Porte De Malandro](https://open.spotify.com/track/7dgBR2KWzr3dfLWGVp9q4U) | [La Nueva Leyenda](https://open.spotify.com/artist/3o3A0S0ueru5iFkSKRwxxZ), [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Porte De Malandro](https://open.spotify.com/album/3Htm80BddP2bENKnvMcvKx) | 3:46 | 2024-03-28 |  |
+| [Porte De Malandro](https://open.spotify.com/track/7dgBR2KWzr3dfLWGVp9q4U) | [La Nueva Leyenda](https://open.spotify.com/artist/3o3A0S0ueru5iFkSKRwxxZ), [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Porte De Malandro](https://open.spotify.com/album/3Htm80BddP2bENKnvMcvKx) | 3:46 | 2024-03-28 | 2024-10-09 |
 | [Quien Es Quien](https://open.spotify.com/track/6LfcpjezozJFYAarlGYTs3) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9), [Los 2 Primos](https://open.spotify.com/artist/2fcdtCvdYIYSNM8ywXHOua) | [A Los Angeles Hay Que Tenerle Cuidado](https://open.spotify.com/album/1y5k7rVaORgLzzlhrs4e8B) | 3:31 | 2024-01-29 | 2024-05-22 |
 | [Quien Es Quien](https://open.spotify.com/track/7KXMg5P1prQfS3vtedemX9) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9), [Los Pistones De Uriel Valdez](https://open.spotify.com/artist/7k1FiT4LBe1fIkVSdI8Dmn) | [Quien Es Quien](https://open.spotify.com/album/0BkKVjZfHP0tAI4f7gHd2j) | 3:42 | 2024-05-22 |  |
 | [Recuérdame Bonito](https://open.spotify.com/track/70kH8OQkCgKExAg8oYGI9c) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Recuérdame Bonito](https://open.spotify.com/album/1u9IQOnTKMKXV4LpNqfVy7) | 3:30 | 2024-07-08 | 2024-10-07 |

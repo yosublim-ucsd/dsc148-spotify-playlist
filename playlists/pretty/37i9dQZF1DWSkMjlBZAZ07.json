@@ -1,6 +1,6 @@
 {
   "description": "Brighten your day with a mix of folksy mood boosters.",
-  "num_followers": 1927205,
+  "num_followers": 1927183,
   "original_name": "Happy Folk",
   "owner": {
     "name": "Spotify",
@@ -255,22 +255,6 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "Nathaniel Rateliff & The Night Sweats",
-        "url": "https://open.spotify.com/album/1uJRMyfjWu3255ihMnNuj4"
-      },
-      "artists": [
-        {
-          "name": "Nathaniel Rateliff & The Night Sweats",
-          "url": "https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o"
-        }
-      ],
-      "duration_ms": 253733,
-      "name": "I Need Never Get Old",
-      "url": "https://open.spotify.com/track/6YfEvtwpQwGAWZBWzNmoIw"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
         "name": "Milo Greene",
         "url": "https://open.spotify.com/album/15wQEsBsbl14I4m1yEuR8w"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 204213,
       "name": "1957",
       "url": "https://open.spotify.com/track/08cXy6KUizaAelYXtcew3w"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "Nathaniel Rateliff & The Night Sweats",
+        "url": "https://open.spotify.com/album/1uJRMyfjWu3255ihMnNuj4"
+      },
+      "artists": [
+        {
+          "name": "Nathaniel Rateliff & The Night Sweats",
+          "url": "https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o"
+        }
+      ],
+      "duration_ms": 253733,
+      "name": "I Need Never Get Old",
+      "url": "https://open.spotify.com/track/6YfEvtwpQwGAWZBWzNmoIw"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -351,6 +351,22 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
+        "name": "Long Lost",
+        "url": "https://open.spotify.com/album/5xiePX6kXj5ZsmUsqIqzeD"
+      },
+      "artists": [
+        {
+          "name": "Lord Huron",
+          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+        }
+      ],
+      "duration_ms": 220737,
+      "name": "Love Me Like You Used To",
+      "url": "https://open.spotify.com/track/0JfpIwZfcRwDzD6GRYzfKN"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
         "name": "In These Silent Days",
         "url": "https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f"
       },
@@ -371,18 +387,18 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "Long Lost",
-        "url": "https://open.spotify.com/album/5xiePX6kXj5ZsmUsqIqzeD"
+        "name": "River Fools & Mountain Saints",
+        "url": "https://open.spotify.com/album/6OsF7JfA48kcvWcV4auWIl"
       },
       "artists": [
         {
-          "name": "Lord Huron",
-          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+          "name": "Ian Noe",
+          "url": "https://open.spotify.com/artist/2TEpPi5SFalflhpcQHq3lB"
         }
       ],
-      "duration_ms": 220737,
-      "name": "Love Me Like You Used To",
-      "url": "https://open.spotify.com/track/0JfpIwZfcRwDzD6GRYzfKN"
+      "duration_ms": 193080,
+      "name": "Tom Barrett",
+      "url": "https://open.spotify.com/track/6YbQXUNroKs9qofA8gttor"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -399,22 +415,6 @@
       "duration_ms": 280794,
       "name": "By and By",
       "url": "https://open.spotify.com/track/75nZ4W6quZhI55LKiqCXWh"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
-        "name": "River Fools & Mountain Saints",
-        "url": "https://open.spotify.com/album/6OsF7JfA48kcvWcV4auWIl"
-      },
-      "artists": [
-        {
-          "name": "Ian Noe",
-          "url": "https://open.spotify.com/artist/2TEpPi5SFalflhpcQHq3lB"
-        }
-      ],
-      "duration_ms": 193080,
-      "name": "Tom Barrett",
-      "url": "https://open.spotify.com/track/6YbQXUNroKs9qofA8gttor"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -499,22 +499,6 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "Believe",
-        "url": "https://open.spotify.com/album/0WOkJaVLYAGfbuBvcKCTCo"
-      },
-      "artists": [
-        {
-          "name": "Caamp",
-          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
-        }
-      ],
-      "duration_ms": 195106,
-      "name": "Believe",
-      "url": "https://open.spotify.com/track/0QFGZqqB1KDpOtyL3vXMXo"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
         "name": "Letting Go",
         "url": "https://open.spotify.com/album/17bBeC2mAYnF4K9KL5ZvrI"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 210381,
       "name": "Letting Go",
       "url": "https://open.spotify.com/track/2XHznZZIWLkh7xO3WQAjpp"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/0WOkJaVLYAGfbuBvcKCTCo"
+      },
+      "artists": [
+        {
+          "name": "Caamp",
+          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
+        }
+      ],
+      "duration_ms": 195106,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/0QFGZqqB1KDpOtyL3vXMXo"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -611,22 +611,6 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "Mountain To Move",
-        "url": "https://open.spotify.com/album/6Vcszn67is0yDZGxNOjvBP"
-      },
-      "artists": [
-        {
-          "name": "Nick Mulvey",
-          "url": "https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj"
-        }
-      ],
-      "duration_ms": 236280,
-      "name": "Mountain To Move",
-      "url": "https://open.spotify.com/track/3sdpasrIhFH4gWuoi0iWym"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
         "name": "Graveclothes",
         "url": "https://open.spotify.com/album/0WMzoCvodpdM191D8EoAJH"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 227105,
       "name": "Graveclothes",
       "url": "https://open.spotify.com/track/1UM7bluhwWTGfhvWWOshk7"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "Mountain To Move",
+        "url": "https://open.spotify.com/album/6Vcszn67is0yDZGxNOjvBP"
+      },
+      "artists": [
+        {
+          "name": "Nick Mulvey",
+          "url": "https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj"
+        }
+      ],
+      "duration_ms": 236280,
+      "name": "Mountain To Move",
+      "url": "https://open.spotify.com/track/3sdpasrIhFH4gWuoi0iWym"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -675,22 +675,6 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "Making Do",
-        "url": "https://open.spotify.com/album/3sI7Qkzzjs4lSleiRvfJlC"
-      },
-      "artists": [
-        {
-          "name": "Lake Street Dive",
-          "url": "https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd"
-        }
-      ],
-      "duration_ms": 214150,
-      "name": "Making Do",
-      "url": "https://open.spotify.com/track/46quRQAj7MxBJ38B5EyJOc"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
         "name": "Victory",
         "url": "https://open.spotify.com/album/6DUTXtgL3YKOf2wX8RCKe4"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 233333,
       "name": "Victory",
       "url": "https://open.spotify.com/track/2f6pqUyFcs3NUSoz49H9nw"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "Making Do",
+        "url": "https://open.spotify.com/album/3sI7Qkzzjs4lSleiRvfJlC"
+      },
+      "artists": [
+        {
+          "name": "Lake Street Dive",
+          "url": "https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd"
+        }
+      ],
+      "duration_ms": 214150,
+      "name": "Making Do",
+      "url": "https://open.spotify.com/track/46quRQAj7MxBJ38B5EyJOc"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -735,22 +735,6 @@
       "duration_ms": 186109,
       "name": "Life's What You Make It",
       "url": "https://open.spotify.com/track/5rRDCbF97rcJW0ES9RhPhC"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
-        "name": "Jockeys of Love",
-        "url": "https://open.spotify.com/album/3yAepUj1zxXIt5g7w6uvYT"
-      },
-      "artists": [
-        {
-          "name": "TOLEDO",
-          "url": "https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO"
-        }
-      ],
-      "duration_ms": 256629,
-      "name": "Sunday Funday",
-      "url": "https://open.spotify.com/track/2OjZhG8BnvrsVWqGnZk4PO"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -807,6 +791,22 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
+        "name": "Jockeys of Love",
+        "url": "https://open.spotify.com/album/3yAepUj1zxXIt5g7w6uvYT"
+      },
+      "artists": [
+        {
+          "name": "TOLEDO",
+          "url": "https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO"
+        }
+      ],
+      "duration_ms": 256629,
+      "name": "Sunday Funday",
+      "url": "https://open.spotify.com/track/2OjZhG8BnvrsVWqGnZk4PO"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
         "name": "firekid",
         "url": "https://open.spotify.com/album/6qb5fl4U5XsxZOFNHqwxxw"
       },
@@ -855,22 +855,6 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "Boris",
-        "url": "https://open.spotify.com/album/6o4fJMbggSAE836wK0xAz1"
-      },
-      "artists": [
-        {
-          "name": "Jaguar Sun",
-          "url": "https://open.spotify.com/artist/4WQwU51LUtrVrw0K8BMpAC"
-        }
-      ],
-      "duration_ms": 246874,
-      "name": "Boris",
-      "url": "https://open.spotify.com/track/5XAHYcSWSHmcdZxpQ6pIzS"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
         "name": "Start Right Now (feat. Laney Jones)",
         "url": "https://open.spotify.com/album/7MjoLuhICM6thmuzQOLfQr"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 250786,
       "name": "Hideaway",
       "url": "https://open.spotify.com/track/3bAgQ4fNuTVf98RtiVgKRv"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "Boris",
+        "url": "https://open.spotify.com/album/6o4fJMbggSAE836wK0xAz1"
+      },
+      "artists": [
+        {
+          "name": "Jaguar Sun",
+          "url": "https://open.spotify.com/artist/4WQwU51LUtrVrw0K8BMpAC"
+        }
+      ],
+      "duration_ms": 246874,
+      "name": "Boris",
+      "url": "https://open.spotify.com/track/5XAHYcSWSHmcdZxpQ6pIzS"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -1003,18 +1003,18 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "Tomorrow",
-        "url": "https://open.spotify.com/album/6gtu2oXhmDQN8TAsWimZbj"
+        "name": "Hold Me",
+        "url": "https://open.spotify.com/album/4gVu2VoV5kV8g6ihNLWfFS"
       },
       "artists": [
         {
-          "name": "Shakey Graves",
-          "url": "https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH"
+          "name": "The Strumbellas",
+          "url": "https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl"
         }
       ],
-      "duration_ms": 240586,
-      "name": "Tomorrow",
-      "url": "https://open.spotify.com/track/47KDDZgFiX1w6RFOuLXsSn"
+      "duration_ms": 172446,
+      "name": "Hold Me",
+      "url": "https://open.spotify.com/track/5P8ldnOsScd9aMlQMKucb6"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -1035,18 +1035,18 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "Hold Me",
-        "url": "https://open.spotify.com/album/4gVu2VoV5kV8g6ihNLWfFS"
+        "name": "Tomorrow",
+        "url": "https://open.spotify.com/album/6gtu2oXhmDQN8TAsWimZbj"
       },
       "artists": [
         {
-          "name": "The Strumbellas",
-          "url": "https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl"
+          "name": "Shakey Graves",
+          "url": "https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH"
         }
       ],
-      "duration_ms": 172446,
-      "name": "Hold Me",
-      "url": "https://open.spotify.com/track/5P8ldnOsScd9aMlQMKucb6"
+      "duration_ms": 240586,
+      "name": "Tomorrow",
+      "url": "https://open.spotify.com/track/47KDDZgFiX1w6RFOuLXsSn"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
+        "name": "My Home Is You",
+        "url": "https://open.spotify.com/album/3gxvQCTnw0tl5h6sgAnfnb"
+      },
+      "artists": [
+        {
+          "name": "The Strumbellas",
+          "url": "https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl"
+        }
+      ],
+      "duration_ms": 203148,
+      "name": "My Home Is You",
+      "url": "https://open.spotify.com/track/25tf3JcjG8097N3jEPgVAL"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
         "name": "in defense of my own happiness (complete)",
         "url": "https://open.spotify.com/album/7yemOBr0RNb26tsE0lKaDB"
       },
@@ -1095,6 +1111,22 @@
       "duration_ms": 186786,
       "name": "if you got a problem",
       "url": "https://open.spotify.com/track/5811AoaSuIRKBy7X438LsJ"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "New Girl",
+        "url": "https://open.spotify.com/album/2CgSadfSWTw2Sbv2ZA4QlK"
+      },
+      "artists": [
+        {
+          "name": "Jamie Drake",
+          "url": "https://open.spotify.com/artist/7rvB7ONJSqlmaCrcbhelir"
+        }
+      ],
+      "duration_ms": 207066,
+      "name": "New Girl",
+      "url": "https://open.spotify.com/track/7EN7VVggDQew9Ki60a47x4"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -1163,22 +1195,6 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "My Home Is You",
-        "url": "https://open.spotify.com/album/3gxvQCTnw0tl5h6sgAnfnb"
-      },
-      "artists": [
-        {
-          "name": "The Strumbellas",
-          "url": "https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl"
-        }
-      ],
-      "duration_ms": 203148,
-      "name": "My Home Is You",
-      "url": "https://open.spotify.com/track/25tf3JcjG8097N3jEPgVAL"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
         "name": "Love Love Love",
         "url": "https://open.spotify.com/album/09kk6sdd81BYJY5YFzV2uJ"
       },
@@ -1191,22 +1207,6 @@
       "duration_ms": 192826,
       "name": "Love Love Love",
       "url": "https://open.spotify.com/track/3e5Ee5GrNzSnCt2laIDm3S"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
-        "name": "New Girl",
-        "url": "https://open.spotify.com/album/2CgSadfSWTw2Sbv2ZA4QlK"
-      },
-      "artists": [
-        {
-          "name": "Jamie Drake",
-          "url": "https://open.spotify.com/artist/7rvB7ONJSqlmaCrcbhelir"
-        }
-      ],
-      "duration_ms": 207066,
-      "name": "New Girl",
-      "url": "https://open.spotify.com/track/7EN7VVggDQew9Ki60a47x4"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "High & Unsteady",
-        "url": "https://open.spotify.com/album/6CyQXYZQRhh09DoFBAZS57"
-      },
-      "artists": [
-        {
-          "name": "Pierce Brothers",
-          "url": "https://open.spotify.com/artist/7vZrzoDeKFqcZ9JrDThOBB"
-        }
-      ],
-      "duration_ms": 223339,
-      "name": "High & Unsteady",
-      "url": "https://open.spotify.com/track/0krRiYzA0muPIjAWXtct0O"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
         "name": "Hinterland",
         "url": "https://open.spotify.com/album/2qfLY3wlteM0YmxHJjncVb"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 189133,
       "name": "Morse Code",
       "url": "https://open.spotify.com/track/4Nmt48bjfu4mSQXfo0v3xM"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "High & Unsteady",
+        "url": "https://open.spotify.com/album/6CyQXYZQRhh09DoFBAZS57"
+      },
+      "artists": [
+        {
+          "name": "Pierce Brothers",
+          "url": "https://open.spotify.com/artist/7vZrzoDeKFqcZ9JrDThOBB"
+        }
+      ],
+      "duration_ms": 223339,
+      "name": "High & Unsteady",
+      "url": "https://open.spotify.com/track/0krRiYzA0muPIjAWXtct0O"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "In The Water",
-        "url": "https://open.spotify.com/album/17LJ7wEjb59hRhH822AzIb"
-      },
-      "artists": [
-        {
-          "name": "Pierce Brothers",
-          "url": "https://open.spotify.com/artist/7vZrzoDeKFqcZ9JrDThOBB"
-        }
-      ],
-      "duration_ms": 181906,
-      "name": "In The Water",
-      "url": "https://open.spotify.com/track/1gq13nAWtFTKpxPSBvm1Wi"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
         "name": "Headlights / Summer Bird",
         "url": "https://open.spotify.com/album/5WYIv1ZwE96LLXlDDwBSvQ"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 212800,
       "name": "Dearly Departed (feat. Esm\u00e9 Patterson)",
       "url": "https://open.spotify.com/track/0ewrI06EIDMGXvgJxuyF3U"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "In The Water",
+        "url": "https://open.spotify.com/album/17LJ7wEjb59hRhH822AzIb"
+      },
+      "artists": [
+        {
+          "name": "Pierce Brothers",
+          "url": "https://open.spotify.com/artist/7vZrzoDeKFqcZ9JrDThOBB"
+        }
+      ],
+      "duration_ms": 181906,
+      "name": "In The Water",
+      "url": "https://open.spotify.com/track/1gq13nAWtFTKpxPSBvm1Wi"
     },
     {
       "added_at": "2024-09-06 04:00:00",

@@ -2782,7 +2782,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-09",
       "duration_ms": 126124,
       "name": "Early Morning",
       "url": "https://open.spotify.com/track/5iB8faGsvwZpLm3RIeQO3B"
@@ -10092,6 +10092,24 @@
       "duration_ms": 167357,
       "name": "Shade of Honey",
       "url": "https://open.spotify.com/track/1RYJqZKLckqbTDLTyoOG1g"
+    },
+    {
+      "album": {
+        "name": "Shades of Wounded Light",
+        "url": "https://open.spotify.com/album/23mhihANYnLrPtF8RmT6JG"
+      },
+      "artists": [
+        {
+          "name": "Nature then Nurture",
+          "url": "https://open.spotify.com/artist/2uXzMvEa7FA2izNUxuDH2Y"
+        }
+      ],
+      "date_added": "2024-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "Shades of Wounded Light",
+      "url": "https://open.spotify.com/track/37UIiW5Bncp2INQ7rT6szi"
     },
     {
       "album": {

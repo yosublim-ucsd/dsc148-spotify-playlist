@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DZ06evO1nTCV2.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO1nTCV2) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO1nTCV2)
 
-### [This Is ライアン・アダムス](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1nTCV2)
+### [This Is Ryan Adams](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1nTCV2)
 
-> This is ライアン・アダムス。アーティストの代表曲をひとつのプレイリストに。
+> This is Ryan Adams\. The essential tracks, all in one playlist.
 
 238 songs - 14 hr 34 min
 

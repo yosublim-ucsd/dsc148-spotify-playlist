@@ -4,7 +4,7 @@
 
 > Artists recording in Coke Studio at Spotify LA\. Cover: Peggy Gou
 
-31 songs - 1 hr 40 min
+36 songs - 1 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,14 +20,18 @@
 | [Fallin](https://open.spotify.com/track/064sICng1UknPZvos5SLNs) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac), [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [Fallin](https://open.spotify.com/album/5SeKMJeh7DFJAZhcuiFU21) | 2:51 | 2024-05-02 |  |
 | [Find The Way](https://open.spotify.com/track/0f7ROOquhmSpNgbBeWh0hn) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Find The Way](https://open.spotify.com/album/11pq24uahxvbUMhXhmRdcN) | 3:57 | 2024-08-15 |  |
 | [How Sweet](https://open.spotify.com/track/38tXZcL1gZRfbqfOG0VMTH) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [How Sweet](https://open.spotify.com/album/0EhZEM4RRz0yioTgucDhJq) | 3:39 | 2024-05-24 |  |
+| [Knocking At My Door](https://open.spotify.com/track/4goD7afmHrKjGNLmNh3MVE) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [Knocking At My Door](https://open.spotify.com/album/2k7mLxuz7WHnmsiVrI2mmD) | 3:10 | 2024-10-08 |  |
 | [LA](https://open.spotify.com/track/0NZ95zuvvves6AI83A9W0S) | [Haley Joelle](https://open.spotify.com/artist/4pZOG8ump4odtJJA4Cy7S8) | [LA](https://open.spotify.com/album/2Lvt5Kiz9CPM0vcHDCvduH) | 3:20 | 2024-05-02 |  |
 | [Love Me Not](https://open.spotify.com/track/6UumSbVp1ae6IfcOWDo1oL) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Love Me Not](https://open.spotify.com/album/7xUn31DxHbMMH8oNTeI4uh) | 2:20 | 2024-05-02 |  |
 | [Love Songs \- Bonus](https://open.spotify.com/track/6qL5UWxRSQYml9O99ozoLv) | [Kaash Paige](https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE) | [Parked Car Convos](https://open.spotify.com/album/5CEfb4A8SgiCOY6R7c7s34) | 2:28 | 2024-05-02 |  |
+| [Lowlife](https://open.spotify.com/track/7Fgpf9z1uklTtuZMnMEswh) | [DLG.](https://open.spotify.com/artist/6OjbjDH6ZfL9NWdioYibGP), [Medasin](https://open.spotify.com/artist/62vbsDRAq0qHdezaCOzB0T) | [Lowlife](https://open.spotify.com/album/3OzXTjl8X4alu2XNOPO27t) | 2:49 | 2024-10-08 |  |
 | [Nose Job](https://open.spotify.com/track/6IB1YxShFrWmhBxBtcr1aQ) | [Caity Krone](https://open.spotify.com/artist/0qMLMrYSgSJBquDGCOMERs) | [Nose Job](https://open.spotify.com/album/0iFR1tLijczTAbsjEiGJDF) | 4:47 | 2024-05-02 |  |
 | [One Love](https://open.spotify.com/track/54Iq5QBLeu695dsSSspReG) | [Evdeki Saat](https://open.spotify.com/artist/0w92tV1EQp7sxly7UjGR4P), [Shae Gill](https://open.spotify.com/artist/3bWIy9AUrQdiNeS62Bp3OP) | [One Love](https://open.spotify.com/album/5nh6x4mxqgpoetoVEJq67a) | 3:20 | 2024-05-02 |  |
 | [Palpita](https://open.spotify.com/track/7q5Ts16ekgrDJDL2S2QaJ0) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Palpita](https://open.spotify.com/album/603fRSffKcKusaqnmhXos5) | 2:31 | 2024-05-02 |  |
 | [Perfect \(feat\. Jessie Reyez & Cat Burns\)](https://open.spotify.com/track/2IcMFRbsnqLFWUUoXKeF3C) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P), [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [Perfect \(feat\. Jessie Reyez & Cat Burns\)](https://open.spotify.com/album/4AjwiE4u2vFJEu7rSjHSTp) | 3:51 | 2024-05-02 |  |
+| [Poppin Out \(Mistakes\)](https://open.spotify.com/track/5LWazXYOx5t8R5EPFuROfL) | [Chxrry22](https://open.spotify.com/artist/0SVd0yQpJ6xcZ3vTKXUaro) | [Poppin Out \(Mistakes\)](https://open.spotify.com/album/13A8l83ce8GMpqzjsbrgmd) | 2:34 | 2024-10-08 |  |
 | [REAL LIFE \- Ofenbach Remix](https://open.spotify.com/track/638rYJzqbJcWuMwY9yYnYB) | [XIN LIU](https://open.spotify.com/artist/3lxD7OESQHk5ESvrad8IGg), [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw) | [REAL LIFE \(Ofenbach Remix\)](https://open.spotify.com/album/1BSP4dSC87v3uW6BCTXqMi) | 2:40 | 2024-05-02 |  |
+| [RISK, RISK, RISK!](https://open.spotify.com/track/3ekN6ytJmlh5y93ChIqOtA) | [Jhariah](https://open.spotify.com/artist/5iMYu8Sj8dZEDsWJxSFwPP) | [TRUST CEREMONY](https://open.spotify.com/album/0qlhHGeAVsdJNiKJbHFuEY) | 3:21 | 2024-10-08 |  |
 | [Sete](https://open.spotify.com/track/4u3XiAwJ2U9Kxgy57gcAPB) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Amadou & Mariam](https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6) | [Sete](https://open.spotify.com/album/6WaNGIAh8MhT4IkqvAhfec) | 3:29 | 2024-05-02 |  |
 | [Si Antes Te Hubiera Conocido](https://open.spotify.com/track/6WatFBLVB0x077xWeoVc2k) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Si Antes Te Hubiera Conocido](https://open.spotify.com/album/5ylbxH7EqpsmHZCRuiYewS) | 3:15 | 2024-06-21 |  |
 | [Starry Night \- Edit](https://open.spotify.com/track/6FwPQVdtjwfORrrFkpGhrz) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Starry Night](https://open.spotify.com/album/0bYW9weJ7SXRaBFbWuBQeI) | 3:53 | 2024-05-02 |  |
@@ -35,6 +39,7 @@
 | [Sunn Beliya](https://open.spotify.com/track/3OkCwXuKOcX65UqowgsYcy) | [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR) | [Sunn Beliya](https://open.spotify.com/album/2WeZJHeP3y00c2scV1s17W) | 2:44 | 2024-05-02 |  |
 | [Symphony \- Inner City Youth Orchestra of Los Angeles Version](https://open.spotify.com/track/6qJqN1SbjwxAEoDkjfnAwr) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Symphony \(Inner City Youth Orchestra of Los Angeles Version\)](https://open.spotify.com/album/2fGxoIq6W6i4p9cavzwWP4) | 3:08 | 2024-05-02 |  |
 | [Taller than the Trees](https://open.spotify.com/track/22LaJN3GNYXxEUCqZXbV7m) | [GUS](https://open.spotify.com/artist/3SdiTECGpryAOC4TKsA2ij) | [Taller than the Trees](https://open.spotify.com/album/0Q8lprXZoLotPO7RFcLTNl) | 2:43 | 2024-05-02 |  |
+| [Tears '06](https://open.spotify.com/track/6yKH9f9cDCLpLuLOUIEW85) | [Jimi Somewhere](https://open.spotify.com/artist/5rXanKVc707nhQmW1Is2pB) | [Nothing Gold Can Stay \(Deluxe\)](https://open.spotify.com/album/2H375PR2qADVz9VE6FrZ79) | 4:38 | 2024-10-08 |  |
 | [Tú](https://open.spotify.com/track/1jecO8NeYLsVWVptITz4c1) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Tú](https://open.spotify.com/album/41OfyTxfB3ou95Ib24VlV2) | 3:26 | 2024-05-02 |  |
 | [Undone](https://open.spotify.com/track/4eRQ0iaCuuojLwKDZJQdc9) | [Ego Ella May](https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6) | [Undone](https://open.spotify.com/album/4BodxSF9ZOF3mvkvn319In) | 3:20 | 2024-05-02 |  |
 | [Unwind](https://open.spotify.com/track/64ajpd34r9wtN44xBwerYw) | [Paco Versailles](https://open.spotify.com/artist/5VptPtXbT0T4imW6GcobiW) | [Dancemenco](https://open.spotify.com/album/2baTSOTxb7xa9MXtxGye5U) | 3:35 | 2024-05-02 |  |

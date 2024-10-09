@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bH0P2uDnWA.md) - [plain]
 
 > Bringing the roaring 20s into the 2020s
 
-[Spotify](https://open.spotify.com/user/spotify) - 381,044 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 381,059 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bH0P2uDnWA.md) - [plain]
 | 43 | [Hide & Seek](https://open.spotify.com/track/3pTQUwVDv8BiYktcZIAWjz) | [Riff Kitten](https://open.spotify.com/artist/2dWWUgJS0zdhV2Bu4WGF6a) | [Kitty Litter](https://open.spotify.com/album/50DkyzkH89wI4F96r1YqBN) | 3:31 |
 | 44 | [Luci´s Game](https://open.spotify.com/track/6qRVIbgAvISszexBLE6O4H) | [Varrick Frost](https://open.spotify.com/artist/294JUMftLLs3Ezkc77s9WV) | [Luci´s Game](https://open.spotify.com/album/5ShUQaYetjK74xFfYg1hEv) | 4:13 |
 | 45 | [Halloween Electro Swing](https://open.spotify.com/track/7LG5jaRTwGfLyMhPTNI54Q) | [NinetyDays](https://open.spotify.com/artist/0J6iMAWRODiTuBqkhs1uDL) | [Halloween Electro Swing](https://open.spotify.com/album/37Hm1IokpTQyhL9TOUdhPP) | 1:23 |
-| 46 | [Savage](https://open.spotify.com/track/26zbNj6nbOoLhbiEiscZbz) | [The Vaude Villainz](https://open.spotify.com/artist/6oep99RRsuJSNN1Hw5g3sR) | [Voodoo Swing](https://open.spotify.com/album/3KX6WYtBTm0826dMFTplPE) | 3:53 |
+| 46 | [Savage](https://open.spotify.com/track/26zbNj6nbOoLhbiEiscZbz) | [The Vaude Villainz](https://open.spotify.com/artist/6oep99RRsuJSNN1Hw5g3sR), [Duke Skellington](https://open.spotify.com/artist/6L0Fw5vMpxxtYcjzxr9Wtk) | [Voodoo Swing](https://open.spotify.com/album/3KX6WYtBTm0826dMFTplPE) | 3:53 |
 | 47 | [Voodoo Queen](https://open.spotify.com/track/1uenr4RUatk6hGbuHwcQlk) | [Atom Smith](https://open.spotify.com/artist/6ExlnA1FV2yvFCVlurHsc2), [Burkey](https://open.spotify.com/artist/7K7CqoitJpzluwr5ZhuCwx), [Miss Emmma](https://open.spotify.com/artist/7rnokEFlig5Crhc4GEViUR) | [Bass Age Big Band](https://open.spotify.com/album/5mjTjPdZzIuMDmJPQu3Ywq) | 3:25 |
 | 48 | [Keep On Smilin \- MNTRA Remix](https://open.spotify.com/track/3F6kQwIiqzYphC1Kv77Ie8) | [MNTRA](https://open.spotify.com/artist/5F3sVzbqKv9DqQjt6gAXlM), [Ashley Slater](https://open.spotify.com/artist/77ZyDi3WOcyp4Yxa9HFV62), [Emma Lea](https://open.spotify.com/artist/6DmqHeHxcu5cQicAfz7aDJ), [Wolfgang Lohr](https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu) | [Keep On Smilin \(MNTRA Remix\)](https://open.spotify.com/album/5s9JzjKa3r30HRYvhQCwFF) | 4:26 |
 | 49 | [Dracula Swing \(Swahn Remix\)](https://open.spotify.com/track/37i6PdvL2KGTgKojmNAFWM) | [DJ Mibor](https://open.spotify.com/artist/7wkjhjRAaChOE0hMghtlvc), [Swahn](https://open.spotify.com/artist/2pkSQjanu8QgmGBLFvqEri) | [Electro Speakeasy Club, Vol\. 1 \(Mixed by Dr Cat\)](https://open.spotify.com/album/3g3iI6wvPoaG0xZQNI4fs2) | 7:19 |

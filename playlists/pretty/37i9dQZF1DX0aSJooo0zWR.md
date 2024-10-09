@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0aSJooo0zWR.md) - [plain]
 
 > Electrified jazz, complex rhythms and virtuosic playing\. Cover: Chick Corea
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,644 likes - 130 songs - 12 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,691 likes - 130 songs - 12 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

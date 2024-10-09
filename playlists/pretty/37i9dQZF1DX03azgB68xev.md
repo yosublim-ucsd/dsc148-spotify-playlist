@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03azgB68xev.md) - [plain]
 
 > Your music\. Your faith\. Your life\. This is Pop for life!  Cover: <a href="spotify:artist:692n9oP6XtKux7LbSOnkSC">bodie</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,944 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,967 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03azgB68xev.md) - [plain]
 | 20 | [Highs and Lows](https://open.spotify.com/track/1HdNqsGqTZp1MINmpvPYUM) | [Joshua's Giants](https://open.spotify.com/artist/6ULNzmxY00PU4YfT3ZZp7T), [Pat Soul](https://open.spotify.com/artist/41D38SWrxqpCfDZbQYzDKt) | [Highs and Lows](https://open.spotify.com/album/1VtoxG00XMJcYVFwn6HIWz) | 3:00 |
 | 21 | [make sense](https://open.spotify.com/track/5urh04wYXjPxJMLGGVLHZ9) | [Tommy Iceland](https://open.spotify.com/artist/74sn7pCztQtjNGeaIoRPtU) | [PEOPLE NEED PEOPLE](https://open.spotify.com/album/0KApnD4Jvvpp0MRppKvnAd) | 3:31 |
 | 22 | [Hold On](https://open.spotify.com/track/23VrO89DkfhYigoLPvEnm7) | [Corey Voss](https://open.spotify.com/artist/1eqQW3Oj7MHXK05b8O5RHa) | [Hold On](https://open.spotify.com/album/0WP1SzAIHrXKAaNbCG8fYV) | 4:09 |
-| 23 | [Known, Seen, Loved](https://open.spotify.com/track/1XMyGFBaTkXKsypEZD1dmr) | [MORIAH](https://open.spotify.com/artist/1w0QYx2G0ywsCClH84FcAv) | [Known, Seen, Loved](https://open.spotify.com/album/2vyiLc8hSAi3nDNe11CoQn) | 3:08 |
+| 23 | [Known, Seen, Loved](https://open.spotify.com/track/1XMyGFBaTkXKsypEZD1dmr) | [MŌRIAH](https://open.spotify.com/artist/1w0QYx2G0ywsCClH84FcAv) | [Known, Seen, Loved](https://open.spotify.com/album/2vyiLc8hSAi3nDNe11CoQn) | 3:08 |
 | 24 | [Everything Good](https://open.spotify.com/track/2JC8kvVB7Ai0ze8wnM9WjE) | [Jordan Feliz](https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA) | [Everything Good](https://open.spotify.com/album/7n8Jjq1Xo4RET1zhUIvmVx) | 3:19 |
 | 25 | [Different](https://open.spotify.com/track/1Dk196e6k1XEZnKi83UhyF) | [Mosaic MSC](https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b) | [Different](https://open.spotify.com/album/5kAfz6mac78QC7LfbcdxO7) | 3:56 |
 | 26 | [You Loved Me To You](https://open.spotify.com/track/6z9tITZ9EtBDjPbLrK1BCG) | [Drew Ava](https://open.spotify.com/artist/1kuocA53e2MltklnSFSiGR), [Chris Howland](https://open.spotify.com/artist/2wqF6dCN8bQp7TN0eNDSsc), [Azeekah](https://open.spotify.com/artist/40wVeAxqNm1R3V30xtzWOr) | [You Loved Me To You](https://open.spotify.com/album/08GGX1RK46V6vmEyk1GNMn) | 2:15 |

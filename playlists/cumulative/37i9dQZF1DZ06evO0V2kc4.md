@@ -2,7 +2,7 @@
 
 ### [This Is Joan Baez](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0V2kc4)
 
-> This is Joan Baez\. The essential tracks, all in one playlist.
+> This Is Joan Baez\. Los temas esenciales, todos en una lista.
 
 97 songs - 5 hr 52 min
 

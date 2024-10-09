@@ -1510,7 +1510,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-09",
       "duration_ms": 212538,
       "name": "Seni Unutamad\u0131m",
       "url": "https://open.spotify.com/track/2TSihn4foVahsS8Uau6876"
@@ -2260,6 +2260,24 @@
       "duration_ms": 201516,
       "name": "Yok \u00c7arem",
       "url": "https://open.spotify.com/track/24xDhoPk7y5oqeAszaz8d0"
+    },
+    {
+      "album": {
+        "name": "Yoksa",
+        "url": "https://open.spotify.com/album/7KKvr4LKTp2jRSKcxdSjX6"
+      },
+      "artists": [
+        {
+          "name": "Bostanc\u0131 Day\u0131",
+          "url": "https://open.spotify.com/artist/49R24Ako5Qa6SV3HAR06gS"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202702,
+      "name": "Yoksa",
+      "url": "https://open.spotify.com/track/2OxerxQt4Mj2Hx7VRHH695"
     },
     {
       "album": {

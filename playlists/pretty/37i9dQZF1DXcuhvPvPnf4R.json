@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/meaghansmom/\">Monique Blake</a>",
-  "num_followers": 9717,
+  "num_followers": 9724,
   "original_name": "Monique Blake's Taste",
   "owner": {
     "name": "Spotify",
@@ -339,26 +339,6 @@
     {
       "added_at": "2022-10-01 16:43:03",
       "album": {
-        "name": "Body",
-        "url": "https://open.spotify.com/album/02ZsXShyE1HUqQceWLONcJ"
-      },
-      "artists": [
-        {
-          "name": "Russ Millions",
-          "url": "https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p"
-        },
-        {
-          "name": "Tion Wayne",
-          "url": "https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt"
-        }
-      ],
-      "duration_ms": 183829,
-      "name": "Body",
-      "url": "https://open.spotify.com/track/3CVb6hkMrlF7eHhXi5B3PZ"
-    },
-    {
-      "added_at": "2022-10-01 16:43:03",
-      "album": {
         "name": "Southern Hummingbird",
         "url": "https://open.spotify.com/album/7uAkY4ERL5Y0BopRxmd3AX"
       },
@@ -375,6 +355,26 @@
       "duration_ms": 237800,
       "name": "Oops (Oh My) [feat. Missy Elliott]",
       "url": "https://open.spotify.com/track/5Y0E3dOeynKuLDAXu0t0Bg"
+    },
+    {
+      "added_at": "2022-10-01 16:43:03",
+      "album": {
+        "name": "Body",
+        "url": "https://open.spotify.com/album/02ZsXShyE1HUqQceWLONcJ"
+      },
+      "artists": [
+        {
+          "name": "Russ Millions",
+          "url": "https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p"
+        },
+        {
+          "name": "Tion Wayne",
+          "url": "https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt"
+        }
+      ],
+      "duration_ms": 183829,
+      "name": "Body",
+      "url": "https://open.spotify.com/track/3CVb6hkMrlF7eHhXi5B3PZ"
     },
     {
       "added_at": "2022-10-01 16:43:03",
@@ -435,18 +435,18 @@
     {
       "added_at": "2022-10-01 16:43:03",
       "album": {
-        "name": "Mama Said Knock You Out",
-        "url": "https://open.spotify.com/album/6dfYmbgWeJCgqJhnR4TfKb"
+        "name": "The Big Bang",
+        "url": "https://open.spotify.com/album/3lT0XTcteJfBbPNoPAmNRq"
       },
       "artists": [
         {
-          "name": "LL COOL J",
-          "url": "https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC"
+          "name": "Busta Rhymes",
+          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
         }
       ],
-      "duration_ms": 248493,
-      "name": "Around The Way Girl",
-      "url": "https://open.spotify.com/track/6jL1SnyXcXiKOmw4M2RnmT"
+      "duration_ms": 214960,
+      "name": "Touch It",
+      "url": "https://open.spotify.com/track/3HVJbdz0V402U5YggQK4Ao"
     },
     {
       "added_at": "2022-10-01 16:43:03",
@@ -467,18 +467,18 @@
     {
       "added_at": "2022-10-01 16:43:03",
       "album": {
-        "name": "The Big Bang",
-        "url": "https://open.spotify.com/album/3lT0XTcteJfBbPNoPAmNRq"
+        "name": "Mama Said Knock You Out",
+        "url": "https://open.spotify.com/album/6dfYmbgWeJCgqJhnR4TfKb"
       },
       "artists": [
         {
-          "name": "Busta Rhymes",
-          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
+          "name": "LL COOL J",
+          "url": "https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC"
         }
       ],
-      "duration_ms": 214960,
-      "name": "Touch It",
-      "url": "https://open.spotify.com/track/3HVJbdz0V402U5YggQK4Ao"
+      "duration_ms": 248493,
+      "name": "Around The Way Girl",
+      "url": "https://open.spotify.com/track/6jL1SnyXcXiKOmw4M2RnmT"
     },
     {
       "added_at": "2022-10-01 16:43:03",

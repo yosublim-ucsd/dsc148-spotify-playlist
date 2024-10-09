@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc4BD3pzYdKY.md) - [plain]
 
 > The best of Christian Hip Hop today\.  Cover:  <a href="spotify:artist:3zSrc5vUlUxyDdS0KrxFJO">Hulvey</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,129 likes - 89 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,220 likes - 89 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc4BD3pzYdKY.md) - [plain]
 | 36 | [For The Culture](https://open.spotify.com/track/2A79tZ3PSZCLyhdlQNkvnE) | [Caleb McCoy](https://open.spotify.com/artist/2iPpUS5kjjfalhlrsT9Fsi) | [For The Culture](https://open.spotify.com/album/333VjYbRgxWvRDwexNOlfT) | 2:55 |
 | 37 | [CERTIFIED](https://open.spotify.com/track/5QryHzfnnT9eIzHac8gUHm) | [Scootie Wop](https://open.spotify.com/artist/1JAoqu34UmPWUUAjLMXt5I) | [SIDE B: LULLABIES](https://open.spotify.com/album/6Y6ZqPCCkfbH5lNK7bZjnB) | 3:26 |
 | 38 | [The One](https://open.spotify.com/track/1GBlabEpgiuypZd1zC9mOp) | [Red Tips](https://open.spotify.com/artist/0e6JPJ634Hw3I95aKMEaD7) | [The One](https://open.spotify.com/album/6mE09Y1Bb70nt4P3q6hYC9) | 2:46 |
-| 39 | [Need You](https://open.spotify.com/track/3VBrgyMHg6OMZsma32Hevu) | [Reblah](https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV), [KMO Shamaal](https://open.spotify.com/artist/5PnFKm9triVLQtIqpO90D2) | [Need You](https://open.spotify.com/album/6ILaidt9jDAme4TVSOMDnF) | 2:55 |
+| 39 | [Need You](https://open.spotify.com/track/3VBrgyMHg6OMZsma32Hevu) | [Reblah](https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV), [KMO Shamaal](https://open.spotify.com/artist/3IZpU8rUESdWsLRyfyHZqF) | [Need You](https://open.spotify.com/album/6ILaidt9jDAme4TVSOMDnF) | 2:55 |
 | 40 | [Greater \(Who Rollin'\)](https://open.spotify.com/track/0dRjTEnEfIaYHDZJTw2NLE) | [Th3 Saga](https://open.spotify.com/artist/7jLwldFATvydUsOIiJV2Lp) | [Greater \(Who Rollin'\)](https://open.spotify.com/album/16zPRMVQCFoGtVckKsE71e) | 2:35 |
 | 41 | [TIGHTROPE](https://open.spotify.com/track/1AUw3hXkj4phJ29UQ3WsiD) | [Tylynn](https://open.spotify.com/artist/3WYqnlpg5qWHujbvTFqUMg), [TuKool Tiff](https://open.spotify.com/artist/50YX6wIj2UNBUvYs13U61H) | [TIGHTROPE](https://open.spotify.com/album/5PDi46ieLVa8dQagMPxySo) | 3:04 |
 | 42 | [First Draft](https://open.spotify.com/track/20nFmo6QACPxuR8aLFrc1g) | [Jackie Hill Perry](https://open.spotify.com/artist/0Lf9qKpKwy6fJtfM7UWLV0) | [First Draft](https://open.spotify.com/album/3FmPKdw4jZX2efyp7HjfsR) | 2:31 |

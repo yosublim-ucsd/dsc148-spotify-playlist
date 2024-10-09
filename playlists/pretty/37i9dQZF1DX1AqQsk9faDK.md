@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1AqQsk9faDK.md) - [plain]
 
 > Mensagens de Fé por Junior Rostirola, do podcast Café com Deus Pai.
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,201 likes - 37 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,245 likes - 37 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

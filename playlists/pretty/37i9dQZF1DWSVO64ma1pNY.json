@@ -1,6 +1,6 @@
 {
   "description": "Life sucks...i need some rock!",
-  "num_followers": 295973,
+  "num_followers": 295967,
   "original_name": "Anger Management",
   "owner": {
     "name": "Spotify",
@@ -387,22 +387,6 @@
     {
       "added_at": "2024-09-02 15:42:47",
       "album": {
-        "name": "Mechanical Bull (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0cRJKK0y1sfZEqWub4dK9v"
-      },
-      "artists": [
-        {
-          "name": "Kings of Leon",
-          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
-        }
-      ],
-      "duration_ms": 230226,
-      "name": "Supersoaker",
-      "url": "https://open.spotify.com/track/4cQIbDqCZrHknxlDUjRHZ0"
-    },
-    {
-      "added_at": "2024-09-02 15:42:47",
-      "album": {
         "name": "Getting Away With Murder",
         "url": "https://open.spotify.com/album/1OO7kdJ4OzWbjcroJEpfTH"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 191372,
       "name": "Getting Away With Murder",
       "url": "https://open.spotify.com/track/40dHZ1HyySmu9FmTINRbqM"
+    },
+    {
+      "added_at": "2024-09-02 15:42:47",
+      "album": {
+        "name": "Mechanical Bull (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0cRJKK0y1sfZEqWub4dK9v"
+      },
+      "artists": [
+        {
+          "name": "Kings of Leon",
+          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
+        }
+      ],
+      "duration_ms": 230226,
+      "name": "Supersoaker",
+      "url": "https://open.spotify.com/track/4cQIbDqCZrHknxlDUjRHZ0"
     },
     {
       "added_at": "2024-09-02 15:42:47",
@@ -1339,6 +1339,22 @@
     {
       "added_at": "2024-09-02 15:42:47",
       "album": {
+        "name": "Someone's Gonna Die Tonight",
+        "url": "https://open.spotify.com/album/16Y8chk55eDwfyLU9j1cpf"
+      },
+      "artists": [
+        {
+          "name": "Gin Wigmore",
+          "url": "https://open.spotify.com/artist/4Gzfk9Lxm67nBs7E9BZjzG"
+        }
+      ],
+      "duration_ms": 202169,
+      "name": "Someone's Gonna Die Tonight",
+      "url": "https://open.spotify.com/track/6ZX57tcBhxGCn773rS5nTl"
+    },
+    {
+      "added_at": "2024-09-02 15:42:47",
+      "album": {
         "name": "Circling the Drain",
         "url": "https://open.spotify.com/album/4qX60Bh8duOt4rWkZ3oK2g"
       },
@@ -1419,22 +1435,6 @@
     {
       "added_at": "2024-09-02 15:42:47",
       "album": {
-        "name": "Dying To Believe",
-        "url": "https://open.spotify.com/album/3SDfbxgSuFhGUyGlKybsZx"
-      },
-      "artists": [
-        {
-          "name": "Papa Roach",
-          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
-        }
-      ],
-      "duration_ms": 181854,
-      "name": "Dying To Believe",
-      "url": "https://open.spotify.com/track/4AsFzsLJK8PIw3q8btZjCy"
-    },
-    {
-      "added_at": "2024-09-02 15:42:47",
-      "album": {
         "name": "Shortest Fuse",
         "url": "https://open.spotify.com/album/1SeIVW1aJeueGTY1LKXOC6"
       },
@@ -1451,18 +1451,18 @@
     {
       "added_at": "2024-09-02 15:42:47",
       "album": {
-        "name": "Someone's Gonna Die Tonight",
-        "url": "https://open.spotify.com/album/16Y8chk55eDwfyLU9j1cpf"
+        "name": "Dying To Believe",
+        "url": "https://open.spotify.com/album/3SDfbxgSuFhGUyGlKybsZx"
       },
       "artists": [
         {
-          "name": "Gin Wigmore",
-          "url": "https://open.spotify.com/artist/4Gzfk9Lxm67nBs7E9BZjzG"
+          "name": "Papa Roach",
+          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
         }
       ],
-      "duration_ms": 202169,
-      "name": "Someone's Gonna Die Tonight",
-      "url": "https://open.spotify.com/track/6ZX57tcBhxGCn773rS5nTl"
+      "duration_ms": 181854,
+      "name": "Dying To Believe",
+      "url": "https://open.spotify.com/track/4AsFzsLJK8PIw3q8btZjCy"
     },
     {
       "added_at": "2024-09-02 15:42:47",
@@ -1515,6 +1515,22 @@
     {
       "added_at": "2024-09-02 15:42:47",
       "album": {
+        "name": "Find Sense. Feel Love. Make Light.",
+        "url": "https://open.spotify.com/album/4P3WeqvIPzCUcWjWcKWkZI"
+      },
+      "artists": [
+        {
+          "name": "House & Home",
+          "url": "https://open.spotify.com/artist/2ihCoOZsBMPl5KuKLgK9T7"
+        }
+      ],
+      "duration_ms": 201464,
+      "name": "Shrunken Head",
+      "url": "https://open.spotify.com/track/7BytS2LPws516iLhZ8Annb"
+    },
+    {
+      "added_at": "2024-09-02 15:42:47",
+      "album": {
         "name": "What Does Your Soul Look Like",
         "url": "https://open.spotify.com/album/6SMBc0IPPwSrlqx9meQOeV"
       },
@@ -1543,22 +1559,6 @@
       "duration_ms": 250213,
       "name": "Let You Down",
       "url": "https://open.spotify.com/track/2UcXM8xEP95IYz7rguHSnA"
-    },
-    {
-      "added_at": "2024-09-02 15:42:47",
-      "album": {
-        "name": "Find Sense. Feel Love. Make Light.",
-        "url": "https://open.spotify.com/album/4P3WeqvIPzCUcWjWcKWkZI"
-      },
-      "artists": [
-        {
-          "name": "House & Home",
-          "url": "https://open.spotify.com/artist/2ihCoOZsBMPl5KuKLgK9T7"
-        }
-      ],
-      "duration_ms": 201464,
-      "name": "Shrunken Head",
-      "url": "https://open.spotify.com/track/7BytS2LPws516iLhZ8Annb"
     },
     {
       "added_at": "2024-09-02 15:42:47",
@@ -1739,22 +1739,6 @@
     {
       "added_at": "2024-09-02 15:42:47",
       "album": {
-        "name": "Never Let Me Go",
-        "url": "https://open.spotify.com/album/31SK5RQ6OFzOjwZ5y58Zfv"
-      },
-      "artists": [
-        {
-          "name": "Placebo",
-          "url": "https://open.spotify.com/artist/6RZUqkomCmb8zCRqc9eznB"
-        }
-      ],
-      "duration_ms": 187750,
-      "name": "Try Better Next Time",
-      "url": "https://open.spotify.com/track/6CiRDtHptlmJuii4duyn2h"
-    },
-    {
-      "added_at": "2024-09-02 15:42:47",
-      "album": {
         "name": "Feel It All Around",
         "url": "https://open.spotify.com/album/1hjHGUJidbYWrTaJaxInvy"
       },
@@ -1767,6 +1751,22 @@
       "duration_ms": 191543,
       "name": "Ain't Hard To Tell",
       "url": "https://open.spotify.com/track/1Oip40rPQ0RsFKL2zBdGMN"
+    },
+    {
+      "added_at": "2024-09-02 15:42:47",
+      "album": {
+        "name": "Never Let Me Go",
+        "url": "https://open.spotify.com/album/31SK5RQ6OFzOjwZ5y58Zfv"
+      },
+      "artists": [
+        {
+          "name": "Placebo",
+          "url": "https://open.spotify.com/artist/6RZUqkomCmb8zCRqc9eznB"
+        }
+      ],
+      "duration_ms": 187750,
+      "name": "Try Better Next Time",
+      "url": "https://open.spotify.com/track/6CiRDtHptlmJuii4duyn2h"
     },
     {
       "added_at": "2024-09-02 15:42:47",
@@ -1803,22 +1803,6 @@
     {
       "added_at": "2024-09-02 15:42:47",
       "album": {
-        "name": "Self Defeater",
-        "url": "https://open.spotify.com/album/7wKkoiFNlTDk9B0HyRpbKn"
-      },
-      "artists": [
-        {
-          "name": "Post Profit",
-          "url": "https://open.spotify.com/artist/0nLFDUWGeYyJ88FNXnx4Xg"
-        }
-      ],
-      "duration_ms": 175933,
-      "name": "Drug Emporium",
-      "url": "https://open.spotify.com/track/6tnvebt1FZXCS2CHdXtec5"
-    },
-    {
-      "added_at": "2024-09-02 15:42:47",
-      "album": {
         "name": "All These Countless Nights (Reworked - Deluxe Version)",
         "url": "https://open.spotify.com/album/3uFlKT7oKZFybvN7IE3MBm"
       },
@@ -1831,6 +1815,22 @@
       "duration_ms": 258453,
       "name": "Cassiopeia - Bonus Track",
       "url": "https://open.spotify.com/track/2lP3rtlDDTG0mgSuR2oWww"
+    },
+    {
+      "added_at": "2024-09-02 15:42:47",
+      "album": {
+        "name": "Self Defeater",
+        "url": "https://open.spotify.com/album/7wKkoiFNlTDk9B0HyRpbKn"
+      },
+      "artists": [
+        {
+          "name": "Post Profit",
+          "url": "https://open.spotify.com/artist/0nLFDUWGeYyJ88FNXnx4Xg"
+        }
+      ],
+      "duration_ms": 175933,
+      "name": "Drug Emporium",
+      "url": "https://open.spotify.com/track/6tnvebt1FZXCS2CHdXtec5"
     },
     {
       "added_at": "2024-09-02 15:42:47",
@@ -1851,22 +1851,6 @@
     {
       "added_at": "2024-09-02 15:42:47",
       "album": {
-        "name": "Feel It All Around",
-        "url": "https://open.spotify.com/album/1hjHGUJidbYWrTaJaxInvy"
-      },
-      "artists": [
-        {
-          "name": "Soul Blind",
-          "url": "https://open.spotify.com/artist/4u8phrcaIdvRzcGq5DcQJa"
-        }
-      ],
-      "duration_ms": 212980,
-      "name": "Bruise The Sore",
-      "url": "https://open.spotify.com/track/1pOuGYBVi9BIzQHqIJXTHJ"
-    },
-    {
-      "added_at": "2024-09-02 15:42:47",
-      "album": {
         "name": "Fortress",
         "url": "https://open.spotify.com/album/0qnxV6pF12u35kEVqlujBH"
       },
@@ -1879,6 +1863,22 @@
       "duration_ms": 181951,
       "name": "Fortress",
       "url": "https://open.spotify.com/track/2yQiSbPAwHXCFOoSGkLCzA"
+    },
+    {
+      "added_at": "2024-09-02 15:42:47",
+      "album": {
+        "name": "Feel It All Around",
+        "url": "https://open.spotify.com/album/1hjHGUJidbYWrTaJaxInvy"
+      },
+      "artists": [
+        {
+          "name": "Soul Blind",
+          "url": "https://open.spotify.com/artist/4u8phrcaIdvRzcGq5DcQJa"
+        }
+      ],
+      "duration_ms": 212980,
+      "name": "Bruise The Sore",
+      "url": "https://open.spotify.com/track/1pOuGYBVi9BIzQHqIJXTHJ"
     },
     {
       "added_at": "2024-09-02 15:42:47",
@@ -2063,22 +2063,6 @@
     {
       "added_at": "2024-09-02 15:42:47",
       "album": {
-        "name": "Semi-Stable",
-        "url": "https://open.spotify.com/album/1CF3grRrEVPVHL2imwMuRG"
-      },
-      "artists": [
-        {
-          "name": "Stuck On Planet Earth",
-          "url": "https://open.spotify.com/artist/1SFdaY4s5BAQMk2X7YIhAS"
-        }
-      ],
-      "duration_ms": 167480,
-      "name": "Semi-Stable",
-      "url": "https://open.spotify.com/track/7ic8ykAwMc1wQQXl8GaHlm"
-    },
-    {
-      "added_at": "2024-09-02 15:42:47",
-      "album": {
         "name": "Violent Picture / Violent Sound",
         "url": "https://open.spotify.com/album/33xiWD33xTarcUbn8Le2hT"
       },
@@ -2091,6 +2075,22 @@
       "duration_ms": 240567,
       "name": "Kids",
       "url": "https://open.spotify.com/track/6yFPiMOCa00P1y0QupLQtL"
+    },
+    {
+      "added_at": "2024-09-02 15:42:47",
+      "album": {
+        "name": "Semi-Stable",
+        "url": "https://open.spotify.com/album/1CF3grRrEVPVHL2imwMuRG"
+      },
+      "artists": [
+        {
+          "name": "Stuck On Planet Earth",
+          "url": "https://open.spotify.com/artist/1SFdaY4s5BAQMk2X7YIhAS"
+        }
+      ],
+      "duration_ms": 167480,
+      "name": "Semi-Stable",
+      "url": "https://open.spotify.com/track/7ic8ykAwMc1wQQXl8GaHlm"
     },
     {
       "added_at": "2024-09-02 15:42:47",
@@ -2111,22 +2111,6 @@
     {
       "added_at": "2024-09-02 15:42:47",
       "album": {
-        "name": "Your Own Becoming",
-        "url": "https://open.spotify.com/album/3VhlGZ1XKrRsWWfmBFe1QS"
-      },
-      "artists": [
-        {
-          "name": "MILLY",
-          "url": "https://open.spotify.com/artist/6LihBQjVynXpEaT3Oe2oof"
-        }
-      ],
-      "duration_ms": 241560,
-      "name": "Nothing To Learn From",
-      "url": "https://open.spotify.com/track/2FpLt3pwp8h9WygkC5XLci"
-    },
-    {
-      "added_at": "2024-09-02 15:42:47",
-      "album": {
         "name": "Finelines",
         "url": "https://open.spotify.com/album/4c2WjXHuK2BbKapEeAX10R"
       },
@@ -2139,6 +2123,22 @@
       "duration_ms": 153495,
       "name": "Grounded",
       "url": "https://open.spotify.com/track/5cbpFhNhLtccw5s4rCeNjl"
+    },
+    {
+      "added_at": "2024-09-02 15:42:47",
+      "album": {
+        "name": "Your Own Becoming",
+        "url": "https://open.spotify.com/album/3VhlGZ1XKrRsWWfmBFe1QS"
+      },
+      "artists": [
+        {
+          "name": "MILLY",
+          "url": "https://open.spotify.com/artist/6LihBQjVynXpEaT3Oe2oof"
+        }
+      ],
+      "duration_ms": 241560,
+      "name": "Nothing To Learn From",
+      "url": "https://open.spotify.com/track/2FpLt3pwp8h9WygkC5XLci"
     },
     {
       "added_at": "2024-09-02 15:42:47",
@@ -2223,22 +2223,6 @@
     {
       "added_at": "2024-09-02 15:42:47",
       "album": {
-        "name": "Best Mistake",
-        "url": "https://open.spotify.com/album/4fwRrnCLidomYVB8O5qNVu"
-      },
-      "artists": [
-        {
-          "name": "GUNNAR",
-          "url": "https://open.spotify.com/artist/3o4OtMGLmvvLSx19ZjtuSn"
-        }
-      ],
-      "duration_ms": 230720,
-      "name": "Bad Idea",
-      "url": "https://open.spotify.com/track/28xq4spFVerqM5bDxVFgH4"
-    },
-    {
-      "added_at": "2024-09-02 15:42:47",
-      "album": {
         "name": "Morning Haze",
         "url": "https://open.spotify.com/album/1E6rJFpTgage3sExihOADT"
       },
@@ -2251,6 +2235,22 @@
       "duration_ms": 228542,
       "name": "Morning Haze",
       "url": "https://open.spotify.com/track/6Ixw75JnL7dXLeSUyYkazE"
+    },
+    {
+      "added_at": "2024-09-02 15:42:47",
+      "album": {
+        "name": "Best Mistake",
+        "url": "https://open.spotify.com/album/4fwRrnCLidomYVB8O5qNVu"
+      },
+      "artists": [
+        {
+          "name": "GUNNAR",
+          "url": "https://open.spotify.com/artist/3o4OtMGLmvvLSx19ZjtuSn"
+        }
+      ],
+      "duration_ms": 230720,
+      "name": "Bad Idea",
+      "url": "https://open.spotify.com/track/28xq4spFVerqM5bDxVFgH4"
     },
     {
       "added_at": "2024-09-02 15:42:47",
@@ -2271,22 +2271,6 @@
     {
       "added_at": "2024-09-02 15:42:47",
       "album": {
-        "name": "Extract",
-        "url": "https://open.spotify.com/album/4gpLVpRbhG0DjC7370KSlI"
-      },
-      "artists": [
-        {
-          "name": "Split Chain",
-          "url": "https://open.spotify.com/artist/5J0ehnVK9YOBGWOwE022ar"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Extract",
-      "url": "https://open.spotify.com/track/481bSrhRx2fNpBrjOBMv3k"
-    },
-    {
-      "added_at": "2024-09-02 15:42:47",
-      "album": {
         "name": "Two Tone Marionette",
         "url": "https://open.spotify.com/album/5IXMoep5wF4BBJmq6YIXDm"
       },
@@ -2299,6 +2283,22 @@
       "duration_ms": 281103,
       "name": "Two Tone Marionette",
       "url": "https://open.spotify.com/track/0PH22JbOIKUc10QRur2dfF"
+    },
+    {
+      "added_at": "2024-09-02 15:42:47",
+      "album": {
+        "name": "Extract",
+        "url": "https://open.spotify.com/album/4gpLVpRbhG0DjC7370KSlI"
+      },
+      "artists": [
+        {
+          "name": "Split Chain",
+          "url": "https://open.spotify.com/artist/5J0ehnVK9YOBGWOwE022ar"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Extract",
+      "url": "https://open.spotify.com/track/481bSrhRx2fNpBrjOBMv3k"
     },
     {
       "added_at": "2024-09-02 15:42:47",
@@ -2335,22 +2335,6 @@
     {
       "added_at": "2024-09-02 15:42:47",
       "album": {
-        "name": "Piece Of You",
-        "url": "https://open.spotify.com/album/7xZrte2sbYarQDDjHMvHBc"
-      },
-      "artists": [
-        {
-          "name": "Storm Orchestra",
-          "url": "https://open.spotify.com/artist/5Zl04O5XJOu7kGrAosCPfR"
-        }
-      ],
-      "duration_ms": 255483,
-      "name": "Piece Of You",
-      "url": "https://open.spotify.com/track/591M3gxvS0gc4JdZZqn6oy"
-    },
-    {
-      "added_at": "2024-09-02 15:42:47",
-      "album": {
         "name": "God Bless the 90s Kids",
         "url": "https://open.spotify.com/album/13jeOxNgl3ckEPywuVXvb1"
       },
@@ -2367,18 +2351,18 @@
     {
       "added_at": "2024-09-02 15:42:47",
       "album": {
-        "name": "Closing In",
-        "url": "https://open.spotify.com/album/1qC4Fzan3iSEoBMjbg3oSe"
+        "name": "Piece Of You",
+        "url": "https://open.spotify.com/album/7xZrte2sbYarQDDjHMvHBc"
       },
       "artists": [
         {
-          "name": "Ritual",
-          "url": "https://open.spotify.com/artist/6gZppTVRTVJ4UA8jrA3qo4"
+          "name": "Storm Orchestra",
+          "url": "https://open.spotify.com/artist/5Zl04O5XJOu7kGrAosCPfR"
         }
       ],
-      "duration_ms": 135509,
-      "name": "Diver",
-      "url": "https://open.spotify.com/track/2QpDWokW6TyVYsFk3ziUee"
+      "duration_ms": 255483,
+      "name": "Piece Of You",
+      "url": "https://open.spotify.com/track/591M3gxvS0gc4JdZZqn6oy"
     },
     {
       "added_at": "2024-09-02 15:42:47",
@@ -2399,18 +2383,18 @@
     {
       "added_at": "2024-09-02 15:42:47",
       "album": {
-        "name": "Descend",
-        "url": "https://open.spotify.com/album/4tnun5NPcqNyEBaWacXb97"
+        "name": "Closing In",
+        "url": "https://open.spotify.com/album/1qC4Fzan3iSEoBMjbg3oSe"
       },
       "artists": [
         {
-          "name": "Split Chain",
-          "url": "https://open.spotify.com/artist/5J0ehnVK9YOBGWOwE022ar"
+          "name": "Ritual",
+          "url": "https://open.spotify.com/artist/6gZppTVRTVJ4UA8jrA3qo4"
         }
       ],
-      "duration_ms": 220074,
-      "name": "Descend",
-      "url": "https://open.spotify.com/track/21gzflUH729pjKczveSrHU"
+      "duration_ms": 135509,
+      "name": "Diver",
+      "url": "https://open.spotify.com/track/2QpDWokW6TyVYsFk3ziUee"
     },
     {
       "added_at": "2024-09-02 15:42:47",
@@ -2427,6 +2411,22 @@
       "duration_ms": 167230,
       "name": "Undertow",
       "url": "https://open.spotify.com/track/5v3bNY9RlHiv1Otplrmr9s"
+    },
+    {
+      "added_at": "2024-09-02 15:42:47",
+      "album": {
+        "name": "Descend",
+        "url": "https://open.spotify.com/album/4tnun5NPcqNyEBaWacXb97"
+      },
+      "artists": [
+        {
+          "name": "Split Chain",
+          "url": "https://open.spotify.com/artist/5J0ehnVK9YOBGWOwE022ar"
+        }
+      ],
+      "duration_ms": 220074,
+      "name": "Descend",
+      "url": "https://open.spotify.com/track/21gzflUH729pjKczveSrHU"
     }
   ],
   "unique_name": "Anger Management",

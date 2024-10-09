@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0qg6KzBLO7rL48c0QfNpLZ.md) - [plain]
 
 > The Best Background Chill House Chillout Music to listen to while Work, Chilling, Sleeping, Sleep, Work Focus, Relax, Relaxing Music, Lounge, Home, Bed, Calm Chillout Music, Bedroom 🌃
 
-[Intact Records](https://open.spotify.com/user/31lz25atk5q6vg7birxgadlagw7q) - 107,993 likes - 184 songs - 8 hr 1 min
+[Intact Records](https://open.spotify.com/user/31lz25atk5q6vg7birxgadlagw7q) - 108,235 likes - 185 songs - 8 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -192,5 +192,6 @@ pretty - [cumulative](/playlists/cumulative/0qg6KzBLO7rL48c0QfNpLZ.md) - [plain]
 | 182 | [Bloom](https://open.spotify.com/track/4hHvZD1pcvG8rxUkhau6Is) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [TWOPILOTS](https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B) | [Bloom](https://open.spotify.com/album/1Po5dB5KhCrqfvg7ViH7aB) | 2:59 |
 | 183 | [Deeper Purpose](https://open.spotify.com/track/0F85jQDf7wPFBv2evo7sXG) | [rshand](https://open.spotify.com/artist/7gjIrPoGRWrG0ymsV5TZ16) | [Bloom](https://open.spotify.com/album/77pYQnGdJIiYO3h5uf9QUj) | 3:08 |
 | 184 | [My Lover](https://open.spotify.com/track/2mI3ZYo3JogblyOx6zDXAZ) | [MR TOUT LE MONDE](https://open.spotify.com/artist/4MgxKih2gf4BgMkPVOfvrn) | [My Lover](https://open.spotify.com/album/0TTkwLSkaU5nYsqNH5SXbL) | 2:40 |
+| 185 | [Children](https://open.spotify.com/track/6HnZ4voVHJmmx8eLz809dX) | [Sum Wave](https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci) | [Children](https://open.spotify.com/album/2itCxG4t12JklZoswP6RMt) | 3:01 |
 
-Snapshot ID: `AAAavHCHQzjPR9WzF5q97EwqNFfNhACx`
+Snapshot ID: `AAAavU6EpQWVmw5kA+WugMI4AERNBZ8v`

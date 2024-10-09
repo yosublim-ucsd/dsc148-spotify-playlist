@@ -1211,6 +1211,28 @@
     },
     {
       "album": {
+        "name": "Cocaine (Jay Bird Remix)",
+        "url": "https://open.spotify.com/album/1fx1yfimLfAUl6DXNAJXUg"
+      },
+      "artists": [
+        {
+          "name": "MOONLGHT",
+          "url": "https://open.spotify.com/artist/0b9SpFqsoxkyoTbZqLlzSs"
+        },
+        {
+          "name": "Jay Bird",
+          "url": "https://open.spotify.com/artist/2TrjvaUmQgHOhqzOiIPPLD"
+        }
+      ],
+      "date_added": "2024-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203437,
+      "name": "Cocaine (Jay Bird Remix)",
+      "url": "https://open.spotify.com/track/5PooEwZrQYI82iBvnd7dQF"
+    },
+    {
+      "album": {
         "name": "Confessions",
         "url": "https://open.spotify.com/album/0lOJdHHS6BlHzLQWob7Zi7"
       },
@@ -5907,7 +5929,7 @@
     },
     {
       "album": {
-        "name": "Club Romantech - Deluxe",
+        "name": "Club Romantech (Deluxe)",
         "url": "https://open.spotify.com/album/0xmI8Oy49CerKEajekFH4I"
       },
       "artists": [

@@ -4,7 +4,7 @@
 
 > New releases for the kids\. Cover: Lisa Loeb
 
-590 songs - 1 day 1 hr 20 min
+591 songs - 1 day 1 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -424,6 +424,7 @@
 | [Rock On](https://open.spotify.com/track/6Z2nmTZ1xS2Gujt5apa7HZ) | [Dr\. Teeth and The Electric Mayhem](https://open.spotify.com/artist/2ga7tr3zy7iQ9r2VQ6AMGF) | [The Muppets Mayhem \(Original Soundtrack\)](https://open.spotify.com/album/49H9f3snohaDmbcTB3ccUh) | 3:06 | 2024-01-05 | 2024-02-17 |
 | [Rocket Ship](https://open.spotify.com/track/5OKQGovExeMfQ9adgyLF6V) | [The Tambourine Social](https://open.spotify.com/artist/5nHEzEXgMjDsR58ZMG4aHq) | [Rocket Ship](https://open.spotify.com/album/5GjYyWtlsJVfLkDTHb4mhB) | 2:40 | 2024-07-12 |  |
 | [Rocketship Song](https://open.spotify.com/track/37cPTHpUJy0dvTxt6tTYXM) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [Rocketship Song](https://open.spotify.com/album/33zHc0MlqacyEELiBpn8Ja) | 2:16 | 2024-06-28 |  |
+| [Roll Call \(We Are D.I.N.O.\)](https://open.spotify.com/track/6TGJ5nnRbdNV95oAFf9PQJ) | [D.I.N.O.](https://open.spotify.com/artist/4sZ3HWBA7p8ijTBLIwbJ0j) | [Roll Call \(We Are D.I.N.O.\)](https://open.spotify.com/album/6kQIwlFz5WUG537z34pRcN) | 1:23 | 2024-10-08 |  |
 | [Roller Disco](https://open.spotify.com/track/2tzcKjTuwFjgrqfXpK5nT3) | [Tiny Totz Kidz](https://open.spotify.com/artist/54vwxOSuLxx758lpaUjTst), [3 Rex](https://open.spotify.com/artist/4kI7rI511NvNrpyllBxwvM) | [Roller Disco](https://open.spotify.com/album/39w7O5Yx04XQZQVS6x0KuC) | 2:38 | 2024-10-04 |  |
 | [Rollercoaster](https://open.spotify.com/track/4ogUxKaCWgZOWMR1qncsfr) | [Peppa Pig](https://open.spotify.com/artist/2gJLanGIV9JqQuKBCWy9ZG) | [Peppa's Party! The Album](https://open.spotify.com/album/4zSDA3J9JIF2iVYpV7FtRN) | 2:53 | 2024-07-12 |  |
 | [Round Robin](https://open.spotify.com/track/7qcIZzAjD9wtmZpnLUT7nO) | [Claudia Robin Gunn](https://open.spotify.com/artist/1Dnn2mwwu3QwyQjXJFqyZN) | [Round Robin](https://open.spotify.com/album/6doMtKRPDxoSKZPdupXIqX) | 1:33 | 2024-01-05 | 2024-02-17 |

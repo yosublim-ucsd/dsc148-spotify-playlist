@@ -725,6 +725,24 @@
     },
     {
       "album": {
+        "name": "Gerhe",
+        "url": "https://open.spotify.com/album/0yN3IYKGYq5kJPlvh7UTla"
+      },
+      "artists": [
+        {
+          "name": "Harmanpreet Kaur",
+          "url": "https://open.spotify.com/artist/514AvNhszo9vWHoG732hEG"
+        }
+      ],
+      "date_added": "2024-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194562,
+      "name": "Gerhe",
+      "url": "https://open.spotify.com/track/32vevf8YHQp6YXsX3gcXTd"
+    },
+    {
+      "album": {
         "name": "Mahi Da Viyah",
         "url": "https://open.spotify.com/album/799pGvv7ev2JMIMMy8GJCR"
       },
@@ -1090,6 +1108,28 @@
       "duration_ms": 144939,
       "name": "Jutti",
       "url": "https://open.spotify.com/track/1SdkVBaXo4tplWhol6POlM"
+    },
+    {
+      "album": {
+        "name": "Kajla",
+        "url": "https://open.spotify.com/album/7A8U16OreD6q9ahr2xsZY4"
+      },
+      "artists": [
+        {
+          "name": "Sakshi Ratti",
+          "url": "https://open.spotify.com/artist/0hiYQJ7bFeqV3IJuF6fG7Y"
+        },
+        {
+          "name": "Avvy Ballagan",
+          "url": "https://open.spotify.com/artist/17SREP4Zd3CshA6N3uTP6Q"
+        }
+      ],
+      "date_added": "2024-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "Kajla",
+      "url": "https://open.spotify.com/track/5WLhcOzSlH8fGqwVWQN7QO"
     },
     {
       "album": {
@@ -1514,7 +1554,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-09",
       "duration_ms": 151384,
       "name": "Main Tenu",
       "url": "https://open.spotify.com/track/6my9ChoBE2Ozs6oVerPzbX"
@@ -2112,7 +2152,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-09",
       "duration_ms": 195903,
       "name": "Sheesha",
       "url": "https://open.spotify.com/track/1pVQtACumdjLJt2ChcyIJf"

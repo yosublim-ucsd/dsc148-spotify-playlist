@@ -1,6 +1,6 @@
 {
   "description": "Aktuell musik med etablerade och intressanta artister. ",
-  "num_followers": 92217,
+  "num_followers": 92219,
   "original_name": "Aktuellt",
   "owner": {
     "name": "Spotify",
@@ -47,18 +47,18 @@
     {
       "added_at": "2024-10-03 22:00:00",
       "album": {
-        "name": "For Cryin' Out Loud!",
-        "url": "https://open.spotify.com/album/2nI6nzE1jBURI1jKNh22OL"
+        "name": "Moon Music",
+        "url": "https://open.spotify.com/album/5SGtrmYbIo0Dsg4kJ4qjM6"
       },
       "artists": [
         {
-          "name": "FINNEAS",
-          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
         }
       ],
-      "duration_ms": 217232,
-      "name": "For Cryin' Out Loud!",
-      "url": "https://open.spotify.com/track/5fz1rfGFT3npQUmNnu998w"
+      "duration_ms": 222647,
+      "name": "ALL MY LOVE",
+      "url": "https://open.spotify.com/track/6iYxkBHyMpsgVxUgfy5fSx"
     },
     {
       "added_at": "2024-10-03 22:00:00",
@@ -79,18 +79,18 @@
     {
       "added_at": "2024-10-03 22:00:00",
       "album": {
-        "name": "Moon Music",
-        "url": "https://open.spotify.com/album/5SGtrmYbIo0Dsg4kJ4qjM6"
+        "name": "For Cryin' Out Loud!",
+        "url": "https://open.spotify.com/album/2nI6nzE1jBURI1jKNh22OL"
       },
       "artists": [
         {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+          "name": "FINNEAS",
+          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
         }
       ],
-      "duration_ms": 222647,
-      "name": "ALL MY LOVE",
-      "url": "https://open.spotify.com/track/6iYxkBHyMpsgVxUgfy5fSx"
+      "duration_ms": 217232,
+      "name": "For Cryin' Out Loud!",
+      "url": "https://open.spotify.com/track/5fz1rfGFT3npQUmNnu998w"
     },
     {
       "added_at": "2024-10-03 22:00:00",
@@ -451,26 +451,6 @@
     {
       "added_at": "2024-10-03 22:00:00",
       "album": {
-        "name": "Obsessed",
-        "url": "https://open.spotify.com/album/5GKNtp0KLwDysaUXwZNeib"
-      },
-      "artists": [
-        {
-          "name": "Morgan Wade",
-          "url": "https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP"
-        },
-        {
-          "name": "Kesha",
-          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
-        }
-      ],
-      "duration_ms": 200649,
-      "name": "Walked on Water (feat. Kesha)",
-      "url": "https://open.spotify.com/track/15Dz1snbrX3zsvYU0F28g1"
-    },
-    {
-      "added_at": "2024-10-03 22:00:00",
-      "album": {
         "name": "Trouble",
         "url": "https://open.spotify.com/album/4aRMJ0Qzq6fub5VK0O1Hxk"
       },
@@ -487,6 +467,26 @@
       "duration_ms": 155616,
       "name": "Trouble",
       "url": "https://open.spotify.com/track/3R0qGldm3jznL1kR5htHIf"
+    },
+    {
+      "added_at": "2024-10-03 22:00:00",
+      "album": {
+        "name": "Obsessed",
+        "url": "https://open.spotify.com/album/5GKNtp0KLwDysaUXwZNeib"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wade",
+          "url": "https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP"
+        },
+        {
+          "name": "Kesha",
+          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
+        }
+      ],
+      "duration_ms": 200649,
+      "name": "Walked on Water (feat. Kesha)",
+      "url": "https://open.spotify.com/track/15Dz1snbrX3zsvYU0F28g1"
     },
     {
       "added_at": "2024-10-03 22:00:00",
@@ -707,22 +707,18 @@
     {
       "added_at": "2024-10-03 22:00:00",
       "album": {
-        "name": "Ljusare moln",
-        "url": "https://open.spotify.com/album/4vcTwhMZ0INwetdSlTHWWt"
+        "name": "N\u00e4ra dig",
+        "url": "https://open.spotify.com/album/1rCpE2GysqULXRbD2tdgYs"
       },
       "artists": [
         {
-          "name": "Viktor Nor\u00e9n",
-          "url": "https://open.spotify.com/artist/16iB35jaW8fuKzq3iTIYQe"
-        },
-        {
-          "name": "Linus Wahlgren",
-          "url": "https://open.spotify.com/artist/0AYfmrpYfkwRY1tlatDc2Q"
+          "name": "Anna Ternheim",
+          "url": "https://open.spotify.com/artist/6xSTQT32ZxLQPe37QIC308"
         }
       ],
-      "duration_ms": 238000,
-      "name": "Ljusare moln",
-      "url": "https://open.spotify.com/track/2TvvVfjKB66mdJYI7CCXXA"
+      "duration_ms": 162653,
+      "name": "N\u00e4ra dig",
+      "url": "https://open.spotify.com/track/7iqKOoVK1vSUMbQ6WFdTDK"
     },
     {
       "added_at": "2024-10-03 22:00:00",
@@ -747,34 +743,22 @@
     {
       "added_at": "2024-10-03 22:00:00",
       "album": {
-        "name": "N\u00e4ra dig",
-        "url": "https://open.spotify.com/album/1rCpE2GysqULXRbD2tdgYs"
+        "name": "Ljusare moln",
+        "url": "https://open.spotify.com/album/4vcTwhMZ0INwetdSlTHWWt"
       },
       "artists": [
         {
-          "name": "Anna Ternheim",
-          "url": "https://open.spotify.com/artist/6xSTQT32ZxLQPe37QIC308"
-        }
-      ],
-      "duration_ms": 162653,
-      "name": "N\u00e4ra dig",
-      "url": "https://open.spotify.com/track/7iqKOoVK1vSUMbQ6WFdTDK"
-    },
-    {
-      "added_at": "2024-10-03 22:00:00",
-      "album": {
-        "name": "R\u00f6r vid mig",
-        "url": "https://open.spotify.com/album/7GYkWFCvVTvjrLYLZ3SLYE"
-      },
-      "artists": [
+          "name": "Viktor Nor\u00e9n",
+          "url": "https://open.spotify.com/artist/16iB35jaW8fuKzq3iTIYQe"
+        },
         {
-          "name": "Carola",
-          "url": "https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt"
+          "name": "Linus Wahlgren",
+          "url": "https://open.spotify.com/artist/0AYfmrpYfkwRY1tlatDc2Q"
         }
       ],
-      "duration_ms": 190328,
-      "name": "R\u00f6r vid mig",
-      "url": "https://open.spotify.com/track/26ibetQVrZmdFMILNEkEH7"
+      "duration_ms": 238000,
+      "name": "Ljusare moln",
+      "url": "https://open.spotify.com/track/2TvvVfjKB66mdJYI7CCXXA"
     },
     {
       "added_at": "2024-10-03 22:00:00",
@@ -791,6 +775,22 @@
       "duration_ms": 175555,
       "name": "Someone You Used To Know",
       "url": "https://open.spotify.com/track/1OlVmZGMSpICl9M78258fv"
+    },
+    {
+      "added_at": "2024-10-03 22:00:00",
+      "album": {
+        "name": "R\u00f6r vid mig",
+        "url": "https://open.spotify.com/album/7GYkWFCvVTvjrLYLZ3SLYE"
+      },
+      "artists": [
+        {
+          "name": "Carola",
+          "url": "https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt"
+        }
+      ],
+      "duration_ms": 190328,
+      "name": "R\u00f6r vid mig",
+      "url": "https://open.spotify.com/track/26ibetQVrZmdFMILNEkEH7"
     },
     {
       "added_at": "2024-10-03 22:00:00",
@@ -883,22 +883,6 @@
     {
       "added_at": "2024-10-03 22:00:00",
       "album": {
-        "name": "Innan tystnaden tar vid",
-        "url": "https://open.spotify.com/album/7IJJWqgkGGQSK3VdOH69wI"
-      },
-      "artists": [
-        {
-          "name": "David Ritschard",
-          "url": "https://open.spotify.com/artist/2kVWsK53009cpZqfuA3TMf"
-        }
-      ],
-      "duration_ms": 394696,
-      "name": "Europa",
-      "url": "https://open.spotify.com/track/2jlj959NddsGSOCWG50UAv"
-    },
-    {
-      "added_at": "2024-10-03 22:00:00",
-      "album": {
         "name": "When The Time Is Right",
         "url": "https://open.spotify.com/album/2Ly57SAO3RbzXWXaR3C1tY"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 285842,
       "name": "When The Time Is Right",
       "url": "https://open.spotify.com/track/0hXJB5pUpO7BpYK6uQVaLr"
+    },
+    {
+      "added_at": "2024-10-03 22:00:00",
+      "album": {
+        "name": "Innan tystnaden tar vid",
+        "url": "https://open.spotify.com/album/7IJJWqgkGGQSK3VdOH69wI"
+      },
+      "artists": [
+        {
+          "name": "David Ritschard",
+          "url": "https://open.spotify.com/artist/2kVWsK53009cpZqfuA3TMf"
+        }
+      ],
+      "duration_ms": 394696,
+      "name": "Europa",
+      "url": "https://open.spotify.com/track/2jlj959NddsGSOCWG50UAv"
     },
     {
       "added_at": "2024-10-03 22:00:00",
@@ -1131,6 +1131,22 @@
     {
       "added_at": "2024-10-03 22:00:00",
       "album": {
+        "name": "Roll On Buddy",
+        "url": "https://open.spotify.com/album/5q8eoZLXqpgwXIYZG3yWVM"
+      },
+      "artists": [
+        {
+          "name": "Eric Bibb",
+          "url": "https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1"
+        }
+      ],
+      "duration_ms": 203106,
+      "name": "Roll On Buddy",
+      "url": "https://open.spotify.com/track/716inKAgvoukiftOCG4l6l"
+    },
+    {
+      "added_at": "2024-10-03 22:00:00",
+      "album": {
         "name": "All Day",
         "url": "https://open.spotify.com/album/0WllqZUSAvlWsgorqEeNtO"
       },
@@ -1159,22 +1175,6 @@
       "duration_ms": 200000,
       "name": "Bermuda Triangle",
       "url": "https://open.spotify.com/track/3VfcwjlkUMqbXlJlXpWr5u"
-    },
-    {
-      "added_at": "2024-10-03 22:00:00",
-      "album": {
-        "name": "Roll On Buddy",
-        "url": "https://open.spotify.com/album/5q8eoZLXqpgwXIYZG3yWVM"
-      },
-      "artists": [
-        {
-          "name": "Eric Bibb",
-          "url": "https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1"
-        }
-      ],
-      "duration_ms": 203106,
-      "name": "Roll On Buddy",
-      "url": "https://open.spotify.com/track/716inKAgvoukiftOCG4l6l"
     },
     {
       "added_at": "2024-10-03 22:00:00",
@@ -1263,6 +1263,22 @@
     {
       "added_at": "2024-10-03 22:00:00",
       "album": {
+        "name": "Tar det upp i topp",
+        "url": "https://open.spotify.com/album/2woeyU7TmFtihmbJEhWFC4"
+      },
+      "artists": [
+        {
+          "name": "Noice",
+          "url": "https://open.spotify.com/artist/1TVoFA7SMYs6AG3u83FP69"
+        }
+      ],
+      "duration_ms": 169200,
+      "name": "Tar det upp i topp",
+      "url": "https://open.spotify.com/track/6LKb4nGZhInLchAZpNGDX2"
+    },
+    {
+      "added_at": "2024-10-03 22:00:00",
+      "album": {
         "name": "Presence",
         "url": "https://open.spotify.com/album/1014Fy5LvVwZaB7yDY82RP"
       },
@@ -1295,22 +1311,6 @@
       "duration_ms": 164880,
       "name": "Vill ha mer - 2024 Version",
       "url": "https://open.spotify.com/track/1GjRVj6OdWmFqRW7Uv8VII"
-    },
-    {
-      "added_at": "2024-10-03 22:00:00",
-      "album": {
-        "name": "Tar det upp i topp",
-        "url": "https://open.spotify.com/album/2woeyU7TmFtihmbJEhWFC4"
-      },
-      "artists": [
-        {
-          "name": "Noice",
-          "url": "https://open.spotify.com/artist/1TVoFA7SMYs6AG3u83FP69"
-        }
-      ],
-      "duration_ms": 169200,
-      "name": "Tar det upp i topp",
-      "url": "https://open.spotify.com/track/6LKb4nGZhInLchAZpNGDX2"
     },
     {
       "added_at": "2024-10-03 22:00:00",
@@ -1355,18 +1355,18 @@
     {
       "added_at": "2024-10-03 22:00:00",
       "album": {
-        "name": "\u00c4nglarna",
-        "url": "https://open.spotify.com/album/0l0GsGyhoZn8yCgmXOVbhR"
+        "name": "Jag beh\u00f6ver dig",
+        "url": "https://open.spotify.com/album/06YF9B4vYaA6kDD6Wjf3NW"
       },
       "artists": [
         {
-          "name": "Jonas Lundqvist",
-          "url": "https://open.spotify.com/artist/5zGcn4MRRQ6nB88eyh9TX7"
+          "name": "Lisa Miskovsky",
+          "url": "https://open.spotify.com/artist/5J0dXmqEYctfFsmcakqZFH"
         }
       ],
-      "duration_ms": 220333,
-      "name": "\u00c4nglarna",
-      "url": "https://open.spotify.com/track/7qCwaoYuUaHx31b6HbpEI5"
+      "duration_ms": 286146,
+      "name": "Jag beh\u00f6ver dig",
+      "url": "https://open.spotify.com/track/4pL2Mg4Av6frPodx5GzYXM"
     },
     {
       "added_at": "2024-10-03 22:00:00",
@@ -1383,6 +1383,38 @@
       "duration_ms": 224001,
       "name": "Talk",
       "url": "https://open.spotify.com/track/1upeKzdRUu3WD7BuTQL36B"
+    },
+    {
+      "added_at": "2024-10-03 22:00:00",
+      "album": {
+        "name": "Wasting Years",
+        "url": "https://open.spotify.com/album/2CVriiX2NKbMnQE6a52FYw"
+      },
+      "artists": [
+        {
+          "name": "Ulf Nilsson",
+          "url": "https://open.spotify.com/artist/2rkHn1CZIm8WSEXjVm86EV"
+        }
+      ],
+      "duration_ms": 225976,
+      "name": "Wasting Years",
+      "url": "https://open.spotify.com/track/6XYZul9KUloOQHx2RWfbCj"
+    },
+    {
+      "added_at": "2024-10-03 22:00:00",
+      "album": {
+        "name": "\u00c4nglarna",
+        "url": "https://open.spotify.com/album/0l0GsGyhoZn8yCgmXOVbhR"
+      },
+      "artists": [
+        {
+          "name": "Jonas Lundqvist",
+          "url": "https://open.spotify.com/artist/5zGcn4MRRQ6nB88eyh9TX7"
+        }
+      ],
+      "duration_ms": 220333,
+      "name": "\u00c4nglarna",
+      "url": "https://open.spotify.com/track/7qCwaoYuUaHx31b6HbpEI5"
     },
     {
       "added_at": "2024-10-03 22:00:00",
@@ -1419,22 +1451,6 @@
     {
       "added_at": "2024-10-03 22:00:00",
       "album": {
-        "name": "Wasting Years",
-        "url": "https://open.spotify.com/album/2CVriiX2NKbMnQE6a52FYw"
-      },
-      "artists": [
-        {
-          "name": "Ulf Nilsson",
-          "url": "https://open.spotify.com/artist/2rkHn1CZIm8WSEXjVm86EV"
-        }
-      ],
-      "duration_ms": 225976,
-      "name": "Wasting Years",
-      "url": "https://open.spotify.com/track/6XYZul9KUloOQHx2RWfbCj"
-    },
-    {
-      "added_at": "2024-10-03 22:00:00",
-      "album": {
         "name": "Hometown",
         "url": "https://open.spotify.com/album/4QqbMfkV416w71gmkgGVHs"
       },
@@ -1447,22 +1463,6 @@
       "duration_ms": 220346,
       "name": "Hometown",
       "url": "https://open.spotify.com/track/1xk71Mxe7bkdB5kFLJk3x8"
-    },
-    {
-      "added_at": "2024-10-03 22:00:00",
-      "album": {
-        "name": "Jag beh\u00f6ver dig",
-        "url": "https://open.spotify.com/album/06YF9B4vYaA6kDD6Wjf3NW"
-      },
-      "artists": [
-        {
-          "name": "Lisa Miskovsky",
-          "url": "https://open.spotify.com/artist/5J0dXmqEYctfFsmcakqZFH"
-        }
-      ],
-      "duration_ms": 286146,
-      "name": "Jag beh\u00f6ver dig",
-      "url": "https://open.spotify.com/track/4pL2Mg4Av6frPodx5GzYXM"
     },
     {
       "added_at": "2024-10-03 22:00:00",

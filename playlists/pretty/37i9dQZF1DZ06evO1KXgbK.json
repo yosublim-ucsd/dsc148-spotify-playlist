@@ -1,12 +1,12 @@
 {
   "description": "This is Dolly Parton. The essential tracks, all in one playlist.",
-  "num_followers": 249045,
+  "num_followers": 249063,
   "original_name": "This Is Dolly Parton",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwHTAAAAAABYdcHWBBCPCl+buCoolZqW",
+  "snapshot_id": "ZwMkgAAAAACA9jbLAowFKai1sAkGjJvU",
   "tracks": [
     {
       "added_at": null,
@@ -979,8 +979,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Will Know",
-        "url": "https://open.spotify.com/album/7FgodvjlG90dx6szFtITzG"
+        "name": "Gonna Be You (feat. Gloria Estefan and Debbie Harry)",
+        "url": "https://open.spotify.com/album/4yq6mXEcVYU7wphdgqgiys"
       },
       "artists": [
         {
@@ -988,17 +988,25 @@
           "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
         },
         {
-          "name": "Rachel Parton George",
-          "url": "https://open.spotify.com/artist/1Ty8mSkLkDPYD3oZYqoQTj"
+          "name": "Belinda Carlisle",
+          "url": "https://open.spotify.com/artist/7xkAwz0bQTGDSbkofyQt3U"
         },
         {
-          "name": "Dolly Parton & Family",
-          "url": "https://open.spotify.com/artist/3hNlAaxTCaOlBJshaY7VIR"
+          "name": "Cyndi Lauper",
+          "url": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
+        },
+        {
+          "name": "Gloria Estefan",
+          "url": "https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889"
+        },
+        {
+          "name": "Debbie Harry",
+          "url": "https://open.spotify.com/artist/7FxMjqH6DH056sdsstGeVl"
         }
       ],
-      "duration_ms": 132078,
-      "name": "I Will Know",
-      "url": "https://open.spotify.com/track/4C38L9FS2EMoBulFdt0Cnr"
+      "duration_ms": 178675,
+      "name": "Gonna Be You (feat. Gloria Estefan and Debbie Harry)",
+      "url": "https://open.spotify.com/track/7u0qPfX0sXCdYfN6juC2Fh"
     }
   ],
   "unique_name": "This Is Dolly Parton",

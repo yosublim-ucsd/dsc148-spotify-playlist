@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0nXUs2Fdn6S.md) - [plain]
 
 > Best of the EDM scene in India\. Cover\- Ritviz
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,017 likes - 62 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,022 likes - 62 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0nXUs2Fdn6S.md) - [plain]
 | 21 | [Moomjabi](https://open.spotify.com/track/29Zl6UiuCeGD3ohyo33nlv) | [Skeletron](https://open.spotify.com/artist/3fWeF8YvJ8MHEPppAbdWfj), [QRTX](https://open.spotify.com/artist/62mT0cVVkAocFeIKdlkj21), [Satyam](https://open.spotify.com/artist/4YMIKLR6DhwXebluCZpbuT) | [Moomjabi](https://open.spotify.com/album/6Gq9CmcLPhZfcr3xHOMWOk) | 3:07 |
 | 22 | [Jogan](https://open.spotify.com/track/5eaTl8F4WUIzLKG3URlz8X) | [Gurbax](https://open.spotify.com/artist/52nO5w2jFAlYYsq6h9YjQG), [Chitralekha Sen](https://open.spotify.com/artist/2tlmHkQ7X88wSU0flHNy6w), [GNDHI](https://open.spotify.com/artist/3JCQBfcQu5347GddKkbKlo) | [Jogan](https://open.spotify.com/album/7DB6iy5YqwOMDcpMrw33wu) | 3:00 |
 | 23 | [Sayonee \- Sartek Remix](https://open.spotify.com/track/4H9XYpaxiCOOmDLS2zBW2G) | [VIVID](https://open.spotify.com/artist/3VcAPpkjFtd3Sj5fmqPQd1), [Sartek](https://open.spotify.com/artist/7twKy3fK03wqUCnHDCL6Qc) | [Sayonee \(Sartek Remix\)](https://open.spotify.com/album/0BvLTzENzNKdkqurIMVIX0) | 3:04 |
-| 24 | [OK Not To Be OK \- Lost Stories Remix](https://open.spotify.com/track/4Uxcm6gWvxoqUdgnxKw41H) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp), [Lost Stories](https://open.spotify.com/artist/4RCALXqxv2udxtuLatKPSi) | [OK Not To Be OK \- Lost Stories Remix](https://open.spotify.com/album/2VOJnLf3bfcUbJ7nCTRd4y) | 3:05 |
+| 24 | [OK Not To Be OK \- Lost Stories Remix](https://open.spotify.com/track/4Uxcm6gWvxoqUdgnxKw41H) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp), [Lost Stories](https://open.spotify.com/artist/4RCALXqxv2udxtuLatKPSi) | [OK Not To Be OK \(Lost Stories Remix\)](https://open.spotify.com/album/2VOJnLf3bfcUbJ7nCTRd4y) | 3:05 |
 | 25 | [Jeena Chahun](https://open.spotify.com/track/01AwohzqShtjlhyjYoWKHM) | [Shivansh Jindal](https://open.spotify.com/artist/4jOKBnkdydJAPCmacFHDA9), [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq) | [Jeena Chahun](https://open.spotify.com/album/4OXmB2Q2LXeyWJV67dtfRw) | 3:30 |
 | 26 | [Turiya Turiya](https://open.spotify.com/track/7xQRYmgjuC8rAJ8nf8IZV8) | [Asad Khan](https://open.spotify.com/artist/3XjXhRHZjamOXeraqTWff7) | [Kahani](https://open.spotify.com/album/05LTuIO7jVTdhVCM6NWH8k) | 2:46 |
 | 27 | [Umang](https://open.spotify.com/track/3XHvNtpFNFJSJG2ZY7JOq5) | [Shak Attack Music](https://open.spotify.com/artist/55hFQMGx9ryWaWL4B97PtD) | [Umang](https://open.spotify.com/album/6NEgJjPgsFroLbEOJBOIJB) | 3:22 |

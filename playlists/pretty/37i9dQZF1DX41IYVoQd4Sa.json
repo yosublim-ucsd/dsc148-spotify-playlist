@@ -1,6 +1,6 @@
 {
   "description": "\u05de\u05d0\u05d9\u05e0\u05d3\u05d9 \u05d5\u05e2\u05d3 \u05e8\u05d5\u05e7, \u05e7\u05d1\u05dc\u05d5 \u05d0\u05ea \u05d4\u05e9\u05d9\u05e8\u05d9\u05dd \u05d4\u05d9\u05e4\u05d9\u05dd \u05e9\u05dc \u05d4\u05e1\u05e6\u05e0\u05d4 \u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1\u05d9\u05ea \u05d1\u05d9\u05e9\u05e8\u05d0\u05dc. \u05e7\u05d0\u05d1\u05e8: \u05d2\u05d1\u05e8\u05d9\u05d0\u05dc \u05d2\u05d9\u05d0",
-  "num_followers": 30428,
+  "num_followers": 30436,
   "original_name": "\u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1 \u05e9\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc",
   "owner": {
     "name": "Spotify",
@@ -615,22 +615,18 @@
     {
       "added_at": "2024-10-03 21:00:00",
       "album": {
-        "name": "\u05d1\u05d1\u05d5\u05e7\u05e8",
-        "url": "https://open.spotify.com/album/4q2PHRXZCBvwhyCjTn1b12"
+        "name": "\u05de\u05ea\u05d7\u05d9\u05dc \u05dc\u05d4\u05ea\u05e2\u05d5\u05e8\u05e8",
+        "url": "https://open.spotify.com/album/4pjAc6ct45RTh4wVxh5Voq"
       },
       "artists": [
         {
-          "name": "Yehudit Ravitz",
-          "url": "https://open.spotify.com/artist/5gf4XgAoGBJgguBo9sbyzj"
-        },
-        {
-          "name": "Geva Alon",
-          "url": "https://open.spotify.com/artist/1kW6jqgrymK0l58M3OqVMz"
+          "name": "Ehud Banai",
+          "url": "https://open.spotify.com/artist/0qdbc8V1HlLub2jB2UJCPk"
         }
       ],
-      "duration_ms": 174585,
-      "name": "\u05d1\u05d1\u05d5\u05e7\u05e8",
-      "url": "https://open.spotify.com/track/4FqYo8GMmSmqE6a0pyJcpJ"
+      "duration_ms": 362108,
+      "name": "\u05de\u05ea\u05d7\u05d9\u05dc \u05dc\u05d4\u05ea\u05e2\u05d5\u05e8\u05e8",
+      "url": "https://open.spotify.com/track/5deZW0Kieaq1KyMJLZpAcF"
     },
     {
       "added_at": "2024-10-03 21:00:00",
@@ -655,18 +651,22 @@
     {
       "added_at": "2024-10-03 21:00:00",
       "album": {
-        "name": "\u05de\u05ea\u05d7\u05d9\u05dc \u05dc\u05d4\u05ea\u05e2\u05d5\u05e8\u05e8",
-        "url": "https://open.spotify.com/album/4pjAc6ct45RTh4wVxh5Voq"
+        "name": "\u05d1\u05d1\u05d5\u05e7\u05e8",
+        "url": "https://open.spotify.com/album/4q2PHRXZCBvwhyCjTn1b12"
       },
       "artists": [
         {
-          "name": "Ehud Banai",
-          "url": "https://open.spotify.com/artist/0qdbc8V1HlLub2jB2UJCPk"
+          "name": "Yehudit Ravitz",
+          "url": "https://open.spotify.com/artist/5gf4XgAoGBJgguBo9sbyzj"
+        },
+        {
+          "name": "Geva Alon",
+          "url": "https://open.spotify.com/artist/1kW6jqgrymK0l58M3OqVMz"
         }
       ],
-      "duration_ms": 362108,
-      "name": "\u05de\u05ea\u05d7\u05d9\u05dc \u05dc\u05d4\u05ea\u05e2\u05d5\u05e8\u05e8",
-      "url": "https://open.spotify.com/track/5deZW0Kieaq1KyMJLZpAcF"
+      "duration_ms": 174585,
+      "name": "\u05d1\u05d1\u05d5\u05e7\u05e8",
+      "url": "https://open.spotify.com/track/4FqYo8GMmSmqE6a0pyJcpJ"
     },
     {
       "added_at": "2024-10-03 21:00:00",
@@ -723,6 +723,22 @@
     {
       "added_at": "2024-10-03 21:00:00",
       "album": {
+        "name": "\u05dc\u05d9\u05df",
+        "url": "https://open.spotify.com/album/5uYzUJhOtV3bLeKcgxF0H4"
+      },
+      "artists": [
+        {
+          "name": "Lola Marsh",
+          "url": "https://open.spotify.com/artist/56UIK6wmbbxuQ6VA20vrWD"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "\u05dc\u05d9\u05df",
+      "url": "https://open.spotify.com/track/1gV2b28Mp7e6OLePab2P1x"
+    },
+    {
+      "added_at": "2024-10-03 21:00:00",
+      "album": {
         "name": "Until The Morning",
         "url": "https://open.spotify.com/album/6e1fxnLrU2cp5GxPbko4Oq"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 151719,
       "name": "Until The Morning",
       "url": "https://open.spotify.com/track/5EMgxRd9V5ARW4b3aRol1L"
-    },
-    {
-      "added_at": "2024-10-03 21:00:00",
-      "album": {
-        "name": "Petrified",
-        "url": "https://open.spotify.com/album/2t8Ve4IgJFdeiemjIyXxwP"
-      },
-      "artists": [
-        {
-          "name": "David Lerner",
-          "url": "https://open.spotify.com/artist/5hAcdkd4JZrGKxYaZJFHlR"
-        }
-      ],
-      "duration_ms": 252456,
-      "name": "Petrified",
-      "url": "https://open.spotify.com/track/04OmvsYNDRNt0CD9Y1rbyV"
     },
     {
       "added_at": "2024-10-03 21:00:00",
@@ -787,18 +787,18 @@
     {
       "added_at": "2024-10-03 21:00:00",
       "album": {
-        "name": "\u05dc\u05d9\u05df",
-        "url": "https://open.spotify.com/album/5uYzUJhOtV3bLeKcgxF0H4"
+        "name": "Petrified",
+        "url": "https://open.spotify.com/album/2t8Ve4IgJFdeiemjIyXxwP"
       },
       "artists": [
         {
-          "name": "Lola Marsh",
-          "url": "https://open.spotify.com/artist/56UIK6wmbbxuQ6VA20vrWD"
+          "name": "David Lerner",
+          "url": "https://open.spotify.com/artist/5hAcdkd4JZrGKxYaZJFHlR"
         }
       ],
-      "duration_ms": 195000,
-      "name": "\u05dc\u05d9\u05df",
-      "url": "https://open.spotify.com/track/1gV2b28Mp7e6OLePab2P1x"
+      "duration_ms": 252456,
+      "name": "Petrified",
+      "url": "https://open.spotify.com/track/04OmvsYNDRNt0CD9Y1rbyV"
     },
     {
       "added_at": "2024-10-03 21:00:00",
@@ -899,22 +899,6 @@
     {
       "added_at": "2024-10-03 21:00:00",
       "album": {
-        "name": "Water on Water",
-        "url": "https://open.spotify.com/album/4ODnE9lIwYG32OtBiokX8P"
-      },
-      "artists": [
-        {
-          "name": "Roni Alter",
-          "url": "https://open.spotify.com/artist/2QZYh3YAFWqpJHf01j0DbN"
-        }
-      ],
-      "duration_ms": 308093,
-      "name": "Carry me home",
-      "url": "https://open.spotify.com/track/3qbz1mAfj4tEygh3KAtuog"
-    },
-    {
-      "added_at": "2024-10-03 21:00:00",
-      "album": {
         "name": "\u05d9\u05dc\u05d3\u05d9\u05dd \u05e9\u05dc \u05d0\u05dc\u05d5\u05d4\u05d9\u05dd",
         "url": "https://open.spotify.com/album/2gOS8PDQ1IK4qdVVjLMTUz"
       },
@@ -935,6 +919,22 @@
     {
       "added_at": "2024-10-03 21:00:00",
       "album": {
+        "name": "Water on Water",
+        "url": "https://open.spotify.com/album/4ODnE9lIwYG32OtBiokX8P"
+      },
+      "artists": [
+        {
+          "name": "Roni Alter",
+          "url": "https://open.spotify.com/artist/2QZYh3YAFWqpJHf01j0DbN"
+        }
+      ],
+      "duration_ms": 308093,
+      "name": "Carry me home",
+      "url": "https://open.spotify.com/track/3qbz1mAfj4tEygh3KAtuog"
+    },
+    {
+      "added_at": "2024-10-03 21:00:00",
+      "album": {
         "name": "\u05d5\u05de\u05d4 \u05e0\u05e9\u05d0\u05e8",
         "url": "https://open.spotify.com/album/6YSPaFeSwjXvrFyrnxXfgy"
       },
@@ -951,6 +951,22 @@
       "duration_ms": 235000,
       "name": "\u05d5\u05de\u05d4 \u05e0\u05e9\u05d0\u05e8",
       "url": "https://open.spotify.com/track/4Z6pU5UHfUNO6uh6OT8IGa"
+    },
+    {
+      "added_at": "2024-10-03 21:00:00",
+      "album": {
+        "name": "\u05d0\u05e0\u05d9 \u05e8\u05d5\u05e6\u05d4 \u05d0\u05ea \u05d4\u05d7\u05d9\u05d9\u05dd \u05e9\u05dc\u05d9 \u05d1\u05d7\u05d6\u05e8\u05d4",
+        "url": "https://open.spotify.com/album/6LJUzUbBtkwmgpCosXc0jh"
+      },
+      "artists": [
+        {
+          "name": "\u05d9\u05d5\u05e9\u05d9",
+          "url": "https://open.spotify.com/artist/55at4C8Kzzr6TkFeZKyPzJ"
+        }
+      ],
+      "duration_ms": 168923,
+      "name": "\u05d0\u05e0\u05d9 \u05e8\u05d5\u05e6\u05d4 \u05d0\u05ea \u05d4\u05d7\u05d9\u05d9\u05dd \u05e9\u05dc\u05d9 \u05d1\u05d7\u05d6\u05e8\u05d4",
+      "url": "https://open.spotify.com/track/6XXmUYotqTIbx9xOd9lQqW"
     },
     {
       "added_at": "2024-10-03 21:00:00",
@@ -1003,22 +1019,6 @@
     {
       "added_at": "2024-10-03 21:00:00",
       "album": {
-        "name": "\u05d0\u05e0\u05d9 \u05e8\u05d5\u05e6\u05d4 \u05d0\u05ea \u05d4\u05d7\u05d9\u05d9\u05dd \u05e9\u05dc\u05d9 \u05d1\u05d7\u05d6\u05e8\u05d4",
-        "url": "https://open.spotify.com/album/6LJUzUbBtkwmgpCosXc0jh"
-      },
-      "artists": [
-        {
-          "name": "\u05d9\u05d5\u05e9\u05d9",
-          "url": "https://open.spotify.com/artist/55at4C8Kzzr6TkFeZKyPzJ"
-        }
-      ],
-      "duration_ms": 168923,
-      "name": "\u05d0\u05e0\u05d9 \u05e8\u05d5\u05e6\u05d4 \u05d0\u05ea \u05d4\u05d7\u05d9\u05d9\u05dd \u05e9\u05dc\u05d9 \u05d1\u05d7\u05d6\u05e8\u05d4",
-      "url": "https://open.spotify.com/track/6XXmUYotqTIbx9xOd9lQqW"
-    },
-    {
-      "added_at": "2024-10-03 21:00:00",
-      "album": {
         "name": "\u05ea\u05de\u05d9\u05d3 \u05d9\u05dc\u05d3\u05d9\u05dd",
         "url": "https://open.spotify.com/album/0uWDmGSuYnaD9xbd7zioIS"
       },
@@ -1035,6 +1035,22 @@
       "duration_ms": 208000,
       "name": "\u05ea\u05de\u05d9\u05d3 \u05d9\u05dc\u05d3\u05d9\u05dd",
       "url": "https://open.spotify.com/track/4ZB8VUBs5WXlfRXFtXMZqq"
+    },
+    {
+      "added_at": "2024-10-03 21:00:00",
+      "album": {
+        "name": "\u05d4\u05d0\u05dd \u05e0\u05d3\u05e2 \u05dc\u05d4\u05d9\u05d5\u05d5\u05dc\u05d3 \u05e9\u05d5\u05d1 \u05de\u05d7\u05d3\u05e9",
+        "url": "https://open.spotify.com/album/5rzvnCtCEJk4pGsxx8OkFL"
+      },
+      "artists": [
+        {
+          "name": "The Backyard",
+          "url": "https://open.spotify.com/artist/52m4avwDcrat4zSI2UljXB"
+        }
+      ],
+      "duration_ms": 226000,
+      "name": "\u05d4\u05d0\u05dd \u05e0\u05d3\u05e2 \u05dc\u05d4\u05d9\u05d5\u05d5\u05dc\u05d3 \u05e9\u05d5\u05d1 \u05de\u05d7\u05d3\u05e9",
+      "url": "https://open.spotify.com/track/6icmYzENBRjRO5AKIP2kBz"
     },
     {
       "added_at": "2024-10-03 21:00:00",
@@ -1059,34 +1075,18 @@
     {
       "added_at": "2024-10-03 21:00:00",
       "album": {
-        "name": "\u05ea\u05d5\u05dc\u05d4 \u05d0\u05ea \u05d4\u05e0\u05e2\u05dc\u05d9\u05d9\u05dd",
-        "url": "https://open.spotify.com/album/27TpWs5Id4y8Rg4ElHes1y"
+        "name": "You Are What You Do",
+        "url": "https://open.spotify.com/album/2zpV0nJZs5H56fETTAynlx"
       },
       "artists": [
         {
-          "name": "The Backyard",
-          "url": "https://open.spotify.com/artist/52m4avwDcrat4zSI2UljXB"
+          "name": "Aviram",
+          "url": "https://open.spotify.com/artist/7qRREBnshFcjRrO934sLF8"
         }
       ],
-      "duration_ms": 220000,
-      "name": "\u05ea\u05d5\u05dc\u05d4 \u05d0\u05ea \u05d4\u05e0\u05e2\u05dc\u05d9\u05d9\u05dd",
-      "url": "https://open.spotify.com/track/3aQpw97YFj1zgEx3cXenED"
-    },
-    {
-      "added_at": "2024-10-03 21:00:00",
-      "album": {
-        "name": "Homesick",
-        "url": "https://open.spotify.com/album/6vKpcaZxcbSq2isqEL9gJw"
-      },
-      "artists": [
-        {
-          "name": "GADEE",
-          "url": "https://open.spotify.com/artist/7amPV764MD1pbuSGbj9bO0"
-        }
-      ],
-      "duration_ms": 181600,
-      "name": "Fool For Your Smile",
-      "url": "https://open.spotify.com/track/7oQ0NYLgoyYgQebGT1kkT2"
+      "duration_ms": 200146,
+      "name": "Smile Again",
+      "url": "https://open.spotify.com/track/1lQjJ8jEgRtlvHWK16JyER"
     }
   ],
   "unique_name": "\u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1 \u05e9\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc",

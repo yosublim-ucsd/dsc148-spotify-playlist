@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-11-11",
-  "description": "This is Charles Ans. The essential tracks, all in one playlist.",
+  "description": "This Is Charles Ans. Los temas esenciales, todos en una lista.",
   "name": "This Is Charles Ans",
   "tracks": [
     {
@@ -76,6 +76,36 @@
       "duration_ms": 210148,
       "name": "Agua Bendita",
       "url": "https://open.spotify.com/track/4V7GYSaTVhulizZ0a3dwFV"
+    },
+    {
+      "album": {
+        "name": "ALGO BIEN",
+        "url": "https://open.spotify.com/album/0jDAxF4M0RxVNM5JUJCiwX"
+      },
+      "artists": [
+        {
+          "name": "Golden Ganga",
+          "url": "https://open.spotify.com/artist/54P0u0BOmRdmtEVPgcoZy0"
+        },
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        },
+        {
+          "name": "A.C.O",
+          "url": "https://open.spotify.com/artist/0x2z4hugJaiGdTP0lzhxvO"
+        },
+        {
+          "name": "Rafael Lechowski",
+          "url": "https://open.spotify.com/artist/307pYxWsFHn3u9gMe8vaf3"
+        }
+      ],
+      "date_added": "2024-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271058,
+      "name": "ALGO BIEN",
+      "url": "https://open.spotify.com/track/77jU7HYCU4jQUPIGqqNS5e"
     },
     {
       "album": {
@@ -370,7 +400,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-09",
       "duration_ms": 263093,
       "name": "Dos de Caf\u00e9",
       "url": "https://open.spotify.com/track/3J2BppVuNMkRLbfWW0qRE0"

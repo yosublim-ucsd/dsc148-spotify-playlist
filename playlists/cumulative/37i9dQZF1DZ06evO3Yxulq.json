@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-15",
-  "description": "This Is Christine D'Clario. Los temas esenciales, todos en una lista.",
+  "description": "This is Christine D'Clario. The essential tracks, all in one playlist.",
   "name": "This Is Christine D'Clario",
   "tracks": [
     {
@@ -982,10 +982,28 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-09",
       "duration_ms": 296986,
       "name": "Fidelidad (Grande Es Tu Fidelidad)",
       "url": "https://open.spotify.com/track/1ybRNixD4WbiPwGOKbRtCh"
+    },
+    {
+      "album": {
+        "name": "M\u00e1s Profundo",
+        "url": "https://open.spotify.com/album/53P8BfWdQ6m9yjM6tw9ldM"
+      },
+      "artists": [
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "date_added": "2024-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296986,
+      "name": "Fidelidad / Grande Es Tu Fidelidad",
+      "url": "https://open.spotify.com/track/3SGMCcxDGJDOnRJFyCmsrS"
     },
     {
       "album": {
@@ -2148,10 +2166,28 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-09",
       "duration_ms": 293173,
       "name": "Tu Presencia Es El Cielo",
       "url": "https://open.spotify.com/track/1vEsPuI13xrlJQlbdytUFT"
+    },
+    {
+      "album": {
+        "name": "M\u00e1s Profundo",
+        "url": "https://open.spotify.com/album/53P8BfWdQ6m9yjM6tw9ldM"
+      },
+      "artists": [
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "date_added": "2024-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293173,
+      "name": "Tu Presencia Es el Cielo",
+      "url": "https://open.spotify.com/track/3q8nKaROEYFKAqJX9IwXMx"
     },
     {
       "album": {

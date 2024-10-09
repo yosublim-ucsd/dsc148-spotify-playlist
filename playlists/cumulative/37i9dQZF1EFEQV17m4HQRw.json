@@ -237,6 +237,32 @@
     },
     {
       "album": {
+        "name": "DEUS DO SAMBA",
+        "url": "https://open.spotify.com/album/2tLFTsCJgqKZud2qazqXql"
+      },
+      "artists": [
+        {
+          "name": "Bruna de Paula",
+          "url": "https://open.spotify.com/artist/2XJDdlk2Dcn3REYUBkCr9Y"
+        },
+        {
+          "name": "LONDU",
+          "url": "https://open.spotify.com/artist/5yoxOZdS49jlMH8zbJOu4q"
+        },
+        {
+          "name": "Xande De Pilares",
+          "url": "https://open.spotify.com/artist/4IQKOXNGjuRRe0WgOm5YfB"
+        }
+      ],
+      "date_added": "2024-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168784,
+      "name": "DEUS DO SAMBA",
+      "url": "https://open.spotify.com/track/051O8dVhPtrYutlzjsM55A"
+    },
+    {
+      "album": {
         "name": "Mu\u00e9strame Tu Gloria",
         "url": "https://open.spotify.com/album/1hdMxcb2eRzIuD2YJuDFTb"
       },

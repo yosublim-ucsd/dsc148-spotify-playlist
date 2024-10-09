@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcb6CQIjdqKy.md) - [plain]
 
 > The best mix of today's Christian music, all genres, worldwide\. Cover: <a href="spotify:artist:6CK4CBL0n07VdVZmfh40nm">Benjamin William Hastings</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,605,324 likes - 100 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,605,481 likes - 100 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcb6CQIjdqKy.md) - [plain]
 | 35 | [Yesterday, Today, & Tomorrow](https://open.spotify.com/track/1LJsJnjyc4TvEhNNzfS5Vb) | [Aodhán King](https://open.spotify.com/artist/2EpEo5cgrVpjbLIVlwyyQf), [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Yesterday, Today, & Tomorrow](https://open.spotify.com/album/7sWR7CaR6enqGNpvjYBzbP) | 3:22 |
 | 36 | [Show Us What's Real](https://open.spotify.com/track/1UKQhxhBZc91kNYPCnoN6o) | [Common Hymnal](https://open.spotify.com/artist/1q6xQXmuTccwh7gBR7ToUN), [Phillip Joubert](https://open.spotify.com/artist/10Nt11FgrmhaSSoiol0JSW) | [Show Us What's Real](https://open.spotify.com/album/1djOEDuXrJcJZFcaiwKkuU) | 3:16 |
 | 37 | [On Me](https://open.spotify.com/track/3aqnDmCILtP5qBzvVIpeTV) | [Madison Ryann Ward](https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI) | [Purified Love](https://open.spotify.com/album/4rJJkV4bjZud54KVXSmU2y) | 2:48 |
-| 38 | [Though I walk](https://open.spotify.com/track/7GTawGOmJHsHz3cBhpma9W) | [Tekoa](https://open.spotify.com/artist/7Fqu2gBrthnYE53IGOltaI) | [Though I walk](https://open.spotify.com/album/43lH22LlJmyiY2c9WxCKgy) | 4:14 |
+| 38 | [Though I Walk](https://open.spotify.com/track/7GTawGOmJHsHz3cBhpma9W) | [Tekoa](https://open.spotify.com/artist/7Fqu2gBrthnYE53IGOltaI) | [Though I Walk](https://open.spotify.com/album/43lH22LlJmyiY2c9WxCKgy) | 4:14 |
 | 39 | [RIPE](https://open.spotify.com/track/6C6aqax6d3fYf2qZC7R4Zr) | [John Mark Pantana](https://open.spotify.com/artist/6cbdCv0bmLwcxSVFM7tuyG), [LOVKN](https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc) | [Childlike](https://open.spotify.com/album/3B5TCTmp4qMynkhVWJVZCa) | 2:17 |
 | 40 | [When Wind Meets Fire \(feat\. Chris Brown & Tiffany Hudson\)](https://open.spotify.com/track/7ymQvrauqbRfH30XVkmIs2) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Chris Brown](https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw), [Tiffany Hudson](https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV) | [When Wind Meets Fire](https://open.spotify.com/album/2uwzangKgtBdy6Q1rPYqC0) | 7:10 |
 | 41 | [Made For More \- Live](https://open.spotify.com/track/1qo2WigLGq2fi2s4uSs5Pi) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Jenn Johnson](https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO), [Josh Baldwin](https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2) | [Made For More](https://open.spotify.com/album/0Wh96pmXtrWflkPfrUpKCV) | 6:25 |

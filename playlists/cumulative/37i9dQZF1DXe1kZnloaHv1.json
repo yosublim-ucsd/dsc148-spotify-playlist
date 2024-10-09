@@ -1115,6 +1115,24 @@
     },
     {
       "album": {
+        "name": "Thursday Taco Man",
+        "url": "https://open.spotify.com/album/5jMXKuGYikxGM8wpFARRL2"
+      },
+      "artists": [
+        {
+          "name": "DORI",
+          "url": "https://open.spotify.com/artist/5n32uEk7HdSYRqZbiSyj13"
+        }
+      ],
+      "date_added": "2024-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182646,
+      "name": "Thursday Taco Man",
+      "url": "https://open.spotify.com/track/4VZioVdtvf3NTW9YDZKJMw"
+    },
+    {
+      "album": {
         "name": "Show Me The Money 9 Episode 3",
         "url": "https://open.spotify.com/album/1FFLLpkDzRG59I1S6s7vGt"
       },
@@ -1174,6 +1192,24 @@
       "duration_ms": 211800,
       "name": "WHAT",
       "url": "https://open.spotify.com/track/3CPtRIybgrYhldTswmLdtq"
+    },
+    {
+      "album": {
+        "name": "When do I get that chicken?",
+        "url": "https://open.spotify.com/album/3gio8FNEYMEB9CwKyzOtjI"
+      },
+      "artists": [
+        {
+          "name": "OFF THE TOWN",
+          "url": "https://open.spotify.com/artist/51BaBbyJMybOQKMUSYhi0z"
+        }
+      ],
+      "date_added": "2024-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196918,
+      "name": "When do I get that chicken?",
+      "url": "https://open.spotify.com/track/2qeNam9eMMKZ5TuFjbDMkF"
     },
     {
       "album": {

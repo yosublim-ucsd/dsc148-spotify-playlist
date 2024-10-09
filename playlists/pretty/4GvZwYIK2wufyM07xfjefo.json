@@ -1,13 +1,113 @@
 {
   "description": "KARENT\u30ec\u30fc\u30d9\u30eb\u3067\u914d\u4fe1\u4e2d\u306e\u697d\u66f2\u306e\u4e2d\u304b\u3089\u3001\u304a\u5bb6\u3067\u306e\u3093\u3073\u308a\u8074\u304d\u305f\u3044\u7652\u3057\u7cfb\u30dc\u30ab\u30ed\u66f2\u3092\u9078\u66f2\u3002\u6bce\u9031\u66f4\u65b0\u3002",
-  "num_followers": 115,
+  "num_followers": 116,
   "original_name": "KARENT\u30bb\u30ec\u30af\u30b7\u30e7\u30f3 Spending at Home",
   "owner": {
     "name": "KARENT official",
     "url": "https://open.spotify.com/user/9inet8qxlhk6sqmpad4tg3gjd"
   },
-  "snapshot_id": "AAADpkDaZeuxALa8KLpXx3wtAJTgf4Tr",
+  "snapshot_id": "AAADtWoQOKSGCkp51VMuB2AlfvqEBHoc",
   "tracks": [
+    {
+      "added_at": "2024-10-08 08:11:08",
+      "album": {
+        "name": "\u751f\u304d\u3068\u3057\u751f\u3051\u308b",
+        "url": "https://open.spotify.com/album/42bTB6ehWLpwsxIZN2T0hQ"
+      },
+      "artists": [
+        {
+          "name": "nogumi",
+          "url": "https://open.spotify.com/artist/1JjUaqy0XWsW95PFEctSs8"
+        },
+        {
+          "name": "\u6b4c\u611b\u30e6\u30ad",
+          "url": "https://open.spotify.com/artist/5NB3uGRtuXv54usQyxe60r"
+        }
+      ],
+      "duration_ms": 306666,
+      "name": "\u751f\u304d\u3068\u3057\u751f\u3051\u308b (feat. \u6b4c\u611b\u30e6\u30ad)",
+      "url": "https://open.spotify.com/track/53nw5jjSZmqVsEAQsqzU3L"
+    },
+    {
+      "added_at": "2024-10-08 08:11:20",
+      "album": {
+        "name": "Ya no me Importa (Version Mariachi)",
+        "url": "https://open.spotify.com/album/5Glv4xFjsq3nGF8KYkCqJd"
+      },
+      "artists": [
+        {
+          "name": "AlexTrip Sands",
+          "url": "https://open.spotify.com/artist/5MKEh6IaFZK3knCjCok3rI"
+        },
+        {
+          "name": "\u30e1\u30b0\u30c3\u30dd\u30a4\u30c9",
+          "url": "https://open.spotify.com/artist/36JmKF8ae9cmpYmbL5fZXD"
+        }
+      ],
+      "duration_ms": 328421,
+      "name": "Ya no me Importa (Version Mariachi) (feat. \u30e1\u30b0\u30c3\u30dd\u30a4\u30c9)",
+      "url": "https://open.spotify.com/track/6dzTmofkiTJ4KNEzMn5he7"
+    },
+    {
+      "added_at": "2024-10-08 08:11:58",
+      "album": {
+        "name": "\u306a\u3093\u306b\u3082\u3084\u308a\u305f\u304f\u306a\u3044",
+        "url": "https://open.spotify.com/album/7gKy2XBxA0lUXl9ghTCaRq"
+      },
+      "artists": [
+        {
+          "name": "\u30ca\u30b5\u30ac\u30b7",
+          "url": "https://open.spotify.com/artist/3hDoRBltrVcdAX4SDpZ9of"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "\u306a\u3093\u306b\u3082\u3084\u308a\u305f\u304f\u306a\u3044 (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/7uyjt6dTTrvFK2i61N4MhZ"
+    },
+    {
+      "added_at": "2024-10-08 08:12:12",
+      "album": {
+        "name": "\u30b9\u30ce\u30a6\u30ea\u30d5\u30ec\u30a4\u30f3",
+        "url": "https://open.spotify.com/album/2AwXK3MTIBhhW90E2LgGBU"
+      },
+      "artists": [
+        {
+          "name": "\u3054\u3081\u3093\u306a\u3055\u3044\u304c\u8a00\u3048\u306a\u304f\u3066",
+          "url": "https://open.spotify.com/artist/3L0Tv3JqnHftZVEAq2P3xv"
+        },
+        {
+          "name": "Kagamine Rin",
+          "url": "https://open.spotify.com/artist/7wZ6E8iVwjGYRGwSfkIAjP"
+        }
+      ],
+      "duration_ms": 214800,
+      "name": "\u30b9\u30ce\u30a6\u30ea\u30d5\u30ec\u30a4\u30f3 (feat. \u93e1\u97f3\u30ea\u30f3)",
+      "url": "https://open.spotify.com/track/1Zhv9o0juG3gypbvxaxg9K"
+    },
+    {
+      "added_at": "2024-10-08 08:12:22",
+      "album": {
+        "name": "\u6e29\u5ea6",
+        "url": "https://open.spotify.com/album/6386Ig4riy8ElU1IJsbugH"
+      },
+      "artists": [
+        {
+          "name": "cat nap",
+          "url": "https://open.spotify.com/artist/5kcEo2AxXur3mNk3c1R7N7"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "duration_ms": 189000,
+      "name": "\u6e29\u5ea6 (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/2c4Wb7JepvfTtorex199Tw"
+    },
     {
       "added_at": "2024-10-01 07:33:36",
       "album": {
@@ -659,106 +759,6 @@
       "duration_ms": 385909,
       "name": "World Clock",
       "url": "https://open.spotify.com/track/0zpNCAvRvQ2Cg3HhAltThy"
-    },
-    {
-      "added_at": "2024-08-06 09:25:10",
-      "album": {
-        "name": "\u30ec\u30a4\u30e4\u30fc\u30ce\u30fc\u30c8",
-        "url": "https://open.spotify.com/album/3N8el5fst8PA2liAwzlL9E"
-      },
-      "artists": [
-        {
-          "name": "\u5409\u7530\u30e8\u30b7\u30e6\u30ad",
-          "url": "https://open.spotify.com/artist/485Om6PyJZx5lQa5sQP89O"
-        },
-        {
-          "name": "Hatsune Miku",
-          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
-        }
-      ],
-      "duration_ms": 216153,
-      "name": "\u30ec\u30a4\u30e4\u30fc\u30ce\u30fc\u30c8 (feat. \u521d\u97f3\u30df\u30af)",
-      "url": "https://open.spotify.com/track/0OJwb7wC7GdMXTReyqgEw3"
-    },
-    {
-      "added_at": "2024-08-06 09:25:31",
-      "album": {
-        "name": "\u30bb\u30a4\u30ab\u30f3\u30e6\u30a6\u30ae\u30e7",
-        "url": "https://open.spotify.com/album/1zzjNjpgWD18UqaubDBC3l"
-      },
-      "artists": [
-        {
-          "name": "\u30e4\u30ae\u30a4\u30e9\u30aa",
-          "url": "https://open.spotify.com/artist/6X0bxrwNTJYc81GamRP90K"
-        },
-        {
-          "name": "\u77e5\u58f0",
-          "url": "https://open.spotify.com/artist/4kmZaUQhElz6uF2s4Bd1Av"
-        }
-      ],
-      "duration_ms": 248888,
-      "name": "\u30bb\u30a4\u30ab\u30f3\u30e6\u30a6\u30ae\u30e7 (feat. \u77e5\u58f0)",
-      "url": "https://open.spotify.com/track/1oFQp4fEOPaT5PHtN7JLyp"
-    },
-    {
-      "added_at": "2024-08-06 09:25:51",
-      "album": {
-        "name": "\u5f57\u661f\u30ce\u9280\u6cb3",
-        "url": "https://open.spotify.com/album/7BnrFNDpIj9oGuRRXp0xpM"
-      },
-      "artists": [
-        {
-          "name": "\u30de\u30c4\u30b7\u30bf\u30ec\u30aa",
-          "url": "https://open.spotify.com/artist/6EnlR1IhuQFprQe2nxl6Bi"
-        },
-        {
-          "name": "Hatsune Miku",
-          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
-        }
-      ],
-      "duration_ms": 188470,
-      "name": "\u5f57\u661f\u30ce\u9280\u6cb3 (feat. \u521d\u97f3\u30df\u30af)",
-      "url": "https://open.spotify.com/track/6gElGPB9NzN4USpdzrRysp"
-    },
-    {
-      "added_at": "2024-08-06 09:26:06",
-      "album": {
-        "name": "\u30ea\u30d5\u30ec\u30f0\u30f3",
-        "url": "https://open.spotify.com/album/0mfG2tjSNETNsFCnNPQ5l5"
-      },
-      "artists": [
-        {
-          "name": "forute",
-          "url": "https://open.spotify.com/artist/4aPeEvvMZUspd0xWVtUWRG"
-        },
-        {
-          "name": "Hatsune Miku",
-          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
-        }
-      ],
-      "duration_ms": 151378,
-      "name": "\u30ea\u30d5\u30ec\u30f0\u30f3 (feat. \u521d\u97f3\u30df\u30af)",
-      "url": "https://open.spotify.com/track/4cwtqhgARGp2tzsIziBlCz"
-    },
-    {
-      "added_at": "2024-08-06 09:29:03",
-      "album": {
-        "name": "\u30df\u30c3\u30c9\u30ca\u30a4\u30c8\u30b3\u30fc\u30d2\u30fc",
-        "url": "https://open.spotify.com/album/1cTu9TM59bgN4CUa9qE1A3"
-      },
-      "artists": [
-        {
-          "name": "MINO-U",
-          "url": "https://open.spotify.com/artist/71Y3Ll2Yp2CUVtgo3FitWi"
-        },
-        {
-          "name": "Hatsune Miku",
-          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
-        }
-      ],
-      "duration_ms": 226750,
-      "name": "\u30df\u30c3\u30c9\u30ca\u30a4\u30c8\u30b3\u30fc\u30d2\u30fc (feat. \u521d\u97f3\u30df\u30af)",
-      "url": "https://open.spotify.com/track/0t21zZWoPnWm7ThRiS4PO3"
     }
   ],
   "unique_name": "KARENT\u30bb\u30ec\u30af\u30b7\u30e7\u30f3 Spending at Home",

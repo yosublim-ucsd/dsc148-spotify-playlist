@@ -1003,6 +1003,32 @@
     },
     {
       "album": {
+        "name": "Bas Kaafi Hai",
+        "url": "https://open.spotify.com/album/0KH4Y7pf9Udh0KIP2ymRGf"
+      },
+      "artists": [
+        {
+          "name": "Shekhar Ravjiani",
+          "url": "https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw"
+        },
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        },
+        {
+          "name": "Manoj Yadav",
+          "url": "https://open.spotify.com/artist/0qSfAhYhb7KWEuiLuooBaE"
+        }
+      ],
+      "date_added": "2024-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297552,
+      "name": "Bas Kaafi Hai",
+      "url": "https://open.spotify.com/track/2yxRnMJTgBDTUf3qVX7Yu1"
+    },
+    {
+      "album": {
         "name": "Baton Baton Mein (From \"Love-All\")",
         "url": "https://open.spotify.com/album/4hxaVoj9O1DZ3bsvicYH0s"
       },
@@ -3674,7 +3700,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-09",
       "duration_ms": 208125,
       "name": "Keh Na Paya",
       "url": "https://open.spotify.com/track/2fvForfpyakKCKCqTpJQeS"

@@ -4,7 +4,7 @@
 
 > 
 
-804 songs - 2 day 15 hr 11 min
+805 songs - 2 day 15 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -496,6 +496,7 @@
 | [Nou rinme danse](https://open.spotify.com/track/0N9YlDsVfyztybw5bH4g7l) | [Frantzi](https://open.spotify.com/artist/4wLvAwEqrQvgr2ZdGG0KtN) | [Nou rinme danse](https://open.spotify.com/album/3fRlUmGJm8k7zaI4IvgexX) | 4:40 | 2021-12-12 |  |
 | [Nour El Ein](https://open.spotify.com/track/3ZTuYuaV1fhdNnuIBuzTYy) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [Nour El Ein](https://open.spotify.com/album/3qZ0kZ8d3F8EpvEyx0yemA) | 5:07 | 2019-12-20 |  |
 | [Nós Criola](https://open.spotify.com/track/58nqV24NBNZZWO0RYvHPFQ) | [Nhú de Ped'Bia](https://open.spotify.com/artist/1Trb4AaE9cDc52GxvJVeVU) | [Synthesize the Soul: Astro\-Atlantic Hypnotica from the Cape Verde Islands 1973 \- 1988](https://open.spotify.com/album/6CKsf8Mij4FW0Yio5RLEsh) | 5:15 | 2023-02-19 |  |
+| [Nuits brésiliennes](https://open.spotify.com/track/0wOWQjMGq6hYWqTbn8P2mi) | [Christophe Laurent](https://open.spotify.com/artist/6SnbxMuFL4DufaekMElUES) | [Vidal Benjamin présente Disco Sympathie](https://open.spotify.com/album/0DM8soBOZE46omYT1xPJDt) | 5:53 | 2024-10-08 |  |
 | [Não Adianta](https://open.spotify.com/track/7rud54XCjLv3AQbaUAtxU1) | [Trio Mocoto](https://open.spotify.com/artist/5nriuBVz6NDh6k8gTU5WgP) | [Trio Mocoto](https://open.spotify.com/album/54jgQWkGJXWZTWuJ27h3HX) | 4:07 | 2019-12-15 |  |
 | [Não Enche](https://open.spotify.com/track/2ZMUCD2n1KMmJLvelormrk) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Livro](https://open.spotify.com/album/1rM3VwKP0xWbkfD6ssVHEd) | 3:30 | 2022-09-14 |  |
 | [Não Me Deixe Só](https://open.spotify.com/track/2ukW9zOr51AYeLSmCtTVqW) | [Vanessa Da Mata](https://open.spotify.com/artist/57pVvBwa3ZCR9LsVlkLXj7) | [Vanessa da Mata](https://open.spotify.com/album/0nJlVbn9dl3amtTFETNX8j) | 3:09 | 2024-01-11 |  |

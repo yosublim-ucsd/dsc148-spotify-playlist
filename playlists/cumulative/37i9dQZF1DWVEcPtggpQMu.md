@@ -4,7 +4,7 @@
 
 > Only the hottest South African rap from the streets\. <br/>Cover: <a href="https://open.spotify.com/artist/0DdgjYMzRw7t9TVwFuBI0V?si=oTilfj6VTeOvCtUDnyTE8g">Roiii</a>,  <a href="https://open.spotify.com/artist/1m1TdFQCnKHcfVlO17avCF?si=YqTngCuDSlq5L6WQLYpVdg">Boity</a>
 
-846 songs - 1 day 21 hr 30 min
+846 songs - 1 day 21 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -199,7 +199,7 @@
 | [Do I](https://open.spotify.com/track/1gP946Il5cA8KnRyBCIKn5) | [crownedYung](https://open.spotify.com/artist/0GtgdJ7DF3gH8f2029g1WW) | [Do I](https://open.spotify.com/album/4emmKhLLzHzADbs0e8jaE6) | 3:31 | 2023-08-31 | 2023-10-21 |
 | [DO IT 4 LOOT](https://open.spotify.com/track/2vX2HnEQGhrPeaxHuWYmLy) | [THAT$hYHOMIE](https://open.spotify.com/artist/3ehK94J8PAZ7D14PKZw87Y), [PhilaBoi K](https://open.spotify.com/artist/02zDxpy2IymHPT7veew6xL), [Kevi Kev](https://open.spotify.com/artist/6Feg9tPLDiThgTVg3gs8LK), [V.I](https://open.spotify.com/artist/3bTtKnFzWVgA4etWySgFlu) | [DO IT 4 LOOT](https://open.spotify.com/album/4Qe6WG6mUb0nEfFJTRYRLU) | 3:50 | 2024-05-09 | 2024-05-18 |
 | [Don Juliano](https://open.spotify.com/track/3uWnFQFj3uG65Vy1o3cDk2) | [JULEZUS](https://open.spotify.com/artist/3QmJD7L92VXiLz2uncynoz), [K.Keed](https://open.spotify.com/artist/6vQfwusCjTLgxy5uW20T3e) | [Don Juliano](https://open.spotify.com/album/6K7lIsCfuzQ25hzPgLSJgJ) | 2:03 | 2023-08-24 | 2023-10-21 |
-| [Don't Call Me](https://open.spotify.com/track/6Xf3pd0dJdCMcAckqiy6RJ) | [Money Badoo](https://open.spotify.com/artist/3RLZh7s3TdS5bL08ATw7Ba), [gTbeats](https://open.spotify.com/artist/6pKCnodzo7zobRLSs2glZ0), [The Woodź](https://open.spotify.com/artist/1b4yg5JOwp7Dr4Ko0Jwol1) | [Don't Call Me](https://open.spotify.com/album/2XtmdiXsql8tvSMoZElXoH) | 3:53 | 2024-09-13 |  |
+| [Don't Call Me](https://open.spotify.com/track/6Xf3pd0dJdCMcAckqiy6RJ) | [Money Badoo](https://open.spotify.com/artist/3RLZh7s3TdS5bL08ATw7Ba), [gTbeats](https://open.spotify.com/artist/6pKCnodzo7zobRLSs2glZ0), [The Woodź](https://open.spotify.com/artist/1b4yg5JOwp7Dr4Ko0Jwol1) | [Don't Call Me](https://open.spotify.com/album/2XtmdiXsql8tvSMoZElXoH) | 3:05 | 2024-09-13 |  |
 | [Don't Forget To Pray](https://open.spotify.com/track/6MQxRvB9paEB9iBAPhnshO) | [AKA](https://open.spotify.com/artist/1QIghPIrXQQ22G1yNtAKFX), [ANATII](https://open.spotify.com/artist/6dX1EJC9XFlM8Ql1wGHC55) | [Be Careful What You Wish For](https://open.spotify.com/album/3vEQ6xB8lxnWL9iaSRjHIn) | 3:25 | 2023-01-30 | 2023-02-28 |
 | [Don't Wait](https://open.spotify.com/track/5jKzBqrnuoF2qgzIP2EbQK) | [Rudy Chalmers](https://open.spotify.com/artist/7dP2IIbQgbUJaCZsTgY1dC), [MOONGA K.](https://open.spotify.com/artist/0bGetjEIDayY9BFzeCZL0d) | [Don't Wait](https://open.spotify.com/album/0bCc1To9O7lYZw8ahdpIdk) | 3:33 | 2022-07-14 | 2022-09-10 |
 | [Dor Do Povo](https://open.spotify.com/track/2mjwiaAMKdvuiBghXzWLau) | [Maglera Doe Boy](https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L), [Ason](https://open.spotify.com/artist/3I1qHxOUgI1EeWBKhU6pCa) | [Dor Do Povo](https://open.spotify.com/album/4RF2KGBUGZJjkHbTpOn7xV) | 4:11 | 2022-07-28 | 2022-09-16 |

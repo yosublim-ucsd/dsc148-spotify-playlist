@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2BvXXHZ3Hx4pS5OacZMVKc.md) - [plain]
 
 > NCS / NoCopyrightSounds royalty free gaming music for YouTube &amp; Twitch Streaming
 
-[NCS](https://open.spotify.com/user/nocopyrightsounds) - 134,776 likes - 114 songs - 5 hr 57 min
+[NCS](https://open.spotify.com/user/nocopyrightsounds) - 134,767 likes - 115 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -122,5 +122,6 @@ pretty - [cumulative](/playlists/cumulative/2BvXXHZ3Hx4pS5OacZMVKc.md) - [plain]
 | 112 | [Over It](https://open.spotify.com/track/4Qx4kYkwuXMZjLd3aRS0ot) | [Idle Days](https://open.spotify.com/artist/6wx2DYiNYOG3HGQYQSBb9j) | [Over It](https://open.spotify.com/album/1PBGk50F3o9bkJUpJpI9zt) | 3:27 |
 | 113 | [Dynamiser](https://open.spotify.com/track/1nruXXU3erq3cQvs8v2FCv) | [CENTRIC](https://open.spotify.com/artist/1mTKB32KqqaiEp7GP4lK1L), [Dani King](https://open.spotify.com/artist/3IoL23eRnUfAwnOTsbTLVp) | [Eternity](https://open.spotify.com/album/0VKsGtPK6AupzW1IvsiEjh) | 4:10 |
 | 114 | [Echo](https://open.spotify.com/track/0B4Ee3vZHEKV0zztHgWYxF) | [Apollo On The Run](https://open.spotify.com/artist/0x2RLf2uOSrfnaO80ao6gM) | [Echo](https://open.spotify.com/album/2O6HSgKstTDpO9r5XPjgGn) | 2:49 |
+| 115 | [Magnetic](https://open.spotify.com/track/6uH5jMuZ5F4Uh5cS2QilLw) | [springs!](https://open.spotify.com/artist/7BFXtdXfpw2kj0kAOs73cn) | [Magnetic](https://open.spotify.com/album/0kReeQiJA0nlejIOX6TfkE) | 2:03 |
 
-Snapshot ID: `AAAL5XSoNQT/H+HJJC3g8bK+CK8bpeM5`
+Snapshot ID: `AAAL5lIVO6TQQwpjqoWceEXbhMZ/NUS4`

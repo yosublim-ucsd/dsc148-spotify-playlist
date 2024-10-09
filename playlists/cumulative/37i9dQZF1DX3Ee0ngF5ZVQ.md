@@ -4,7 +4,7 @@
 
 > New and trending tracks from Texas Country icons and rising stars\. Cover: Jenna Paulette
 
-668 songs - 1 day 15 hr 47 min
+669 songs - 1 day 15 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -283,7 +283,7 @@
 | [Human](https://open.spotify.com/track/5AihIu9yF3flkw1jFMyfwW) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Human The Double Album](https://open.spotify.com/album/3og8X1LYiVq3nPdMxpM9Wb) | 3:41 | 2021-12-17 |  |
 | [Hummingbird](https://open.spotify.com/track/1mLZIGyDYLUtQ3HYhyYnJy) | [Shane Smith & the Saints](https://open.spotify.com/artist/4pLxUMyDrijXynrUP59whJ) | [Hummingbird](https://open.spotify.com/album/13P3sBbbxn9kVJp5vR3v60) | 4:45 | 2022-06-03 | 2023-09-02 |
 | [Hungover Again](https://open.spotify.com/track/2Fav608uXaDE1F5sTtBKSH) | [Casey Donahew](https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib) | [Hungover Again](https://open.spotify.com/album/6vrhY31BWrTCBS7xzaXLRs) | 3:33 | 2024-07-12 | 2024-10-01 |
-| [Hunt You Down](https://open.spotify.com/track/6ANjnskHNgakdZnhWO6nob) | [Kaitlin Butts](https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD) | [Hunt You Down](https://open.spotify.com/album/3ZmBeTs68BAwCeUOknXaQ7) | 3:24 | 2024-05-03 |  |
+| [Hunt You Down](https://open.spotify.com/track/6ANjnskHNgakdZnhWO6nob) | [Kaitlin Butts](https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD) | [Hunt You Down](https://open.spotify.com/album/3ZmBeTs68BAwCeUOknXaQ7) | 3:24 | 2024-05-03 | 2024-10-09 |
 | [Hurt No More](https://open.spotify.com/track/3qJ5OBunIPNIvU4WAI6RYh) | [Pecos & the Rooftops](https://open.spotify.com/artist/5KbiLoVLLIHM5vZ0RM9WMU) | [Hurt No More](https://open.spotify.com/album/2XYMwjnmcRzpGAPmJQrQyG) | 3:34 | 2022-10-28 | 2023-06-28 |
 | [Hurt No More](https://open.spotify.com/track/4vdMdvjrwdm3CR5oobcBIS) | [Pecos & the Rooftops](https://open.spotify.com/artist/5KbiLoVLLIHM5vZ0RM9WMU) | [Pecos & the Rooftops](https://open.spotify.com/album/16iK92ILyZrvxH3HuDDgtH) | 3:34 | 2023-06-23 | 2024-04-19 |
 | [I Ain't Drinkin' anymore](https://open.spotify.com/track/6A1ohNxfXzVD2r2KzMVkUo) | [Sister C](https://open.spotify.com/artist/1qhDoPY1tOHZzwXOnj2cE6) | [I Ain't Drinkin' anymore](https://open.spotify.com/album/5upiiDN439Eryn5bmTLhwy) | 3:17 | 2024-02-23 | 2024-05-18 |
@@ -355,6 +355,7 @@
 | [Loser](https://open.spotify.com/track/587HQbopl8sKlTxkUs4xoR) | [Mike Ryan](https://open.spotify.com/artist/026v3mvWdRvVdjL67VBySh) | [Longcut](https://open.spotify.com/album/3CD0S22d8MEpuG34AmINSC) | 3:20 | 2022-10-28 | 2023-02-10 |
 | [Loser Mentality](https://open.spotify.com/track/2gM5ST0SGj3UkaqnvMatyw) | [Austin Meade](https://open.spotify.com/artist/7Jd98Mm2x1fQBzQmQOeX79) | [Loser Mentality](https://open.spotify.com/album/3zCXhcu8LJRfSdmQen1eN6) | 3:13 | 2021-12-17 | 2022-05-28 |
 | [Love Goes](https://open.spotify.com/track/6AlLssdGnCKgXtJTCmdZB5) | [Clayton Mullen](https://open.spotify.com/artist/6iRDBNeREg0Je2y9LZzD2g) | [Love Goes](https://open.spotify.com/album/60TFmqf3Xy0QUWvqWvUkZz) | 3:23 | 2022-04-15 | 2022-08-20 |
+| [Love Junkie](https://open.spotify.com/track/5mzeAk5H2fHIV1z8dgyt3z) | [Slade Coulter](https://open.spotify.com/artist/0Qht1bMfMyq85aI74COUvn) | [Love Junkie](https://open.spotify.com/album/18ObIWQQaixiec3lFv02Qs) | 3:58 | 2024-10-04 |  |
 | [Love Me Forever](https://open.spotify.com/track/2fH6pITIMsKT763RWFLEXF) | [Palmer Anthony](https://open.spotify.com/artist/412iPDYOYPA2pcGgdlLh5s) | [Love Me Forever](https://open.spotify.com/album/7EKy3gRfGX6iEaQmrZUirP) | 3:19 | 2022-06-03 | 2022-06-11 |
 | [Love Talking](https://open.spotify.com/track/5kFLWyiAXjYrecLHnR7bTk) | [Eli Young Band](https://open.spotify.com/artist/6eKWqnckwdIlSnjaYgIyxv) | [Love Talking](https://open.spotify.com/album/0bflVbQQISnuMdv5KjVPHB) | 2:53 | 2022-02-18 |  |
 | [Loves Got A Hold On You](https://open.spotify.com/track/4Mxtx2WAbax4WzXrPjRv49) | [Bart Crow](https://open.spotify.com/artist/0Vdv0pEg0SwdqoEbpP3MJ1) | [Loves Got A Hold On You](https://open.spotify.com/album/2wL1b43jkiNOcykGV9rkWK) | 4:01 | 2022-02-11 | 2022-07-28 |

@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DZ06evO1Tcb3G.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO1Tcb3G) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO1Tcb3G)
 
-### [This Is マムフォード・アンド・サンズ](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1Tcb3G)
+### [This Is Mumford & Sons](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1Tcb3G)
 
-> This is マムフォード・アンド・サンズ。アーティストの代表曲をひとつのプレイリストに。
+> This Is Mumford & Sons\. Los temas esenciales, todos en una lista.
 
 80 songs - 5 hr 37 min
 

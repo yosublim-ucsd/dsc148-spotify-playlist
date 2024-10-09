@@ -4,7 +4,7 @@
 
 > Soothing piano and strings to help you concentrate.
 
-280 songs - 12 hr 56 min
+282 songs - 13 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,6 +135,7 @@
 | [Laugarvatn](https://open.spotify.com/track/6sbdQPeO6pCjLGn0qYPliB) | [Elvar Arngrimsson](https://open.spotify.com/artist/5DChGYPOwgULNzFMzw0TIb) | [Laugarvatn](https://open.spotify.com/album/4PXbi2zhHkm9KkG9hTAZsp) | 3:05 | 2021-09-18 |  |
 | [Lavender \- with cello](https://open.spotify.com/track/4BAEp107Apsg6doe16AIMH) | [Christopher Galovan](https://open.spotify.com/artist/5LUMGK9eTmZdJJwmDph01c), [Ardie Son](https://open.spotify.com/artist/35p89koMONEWydy9cbaWzm) | [More Than Words](https://open.spotify.com/album/5MRoWKvgXINVTmJmmR7Qw5) | 3:06 | 2023-09-08 |  |
 | [Law of Attraction \(solo version\)](https://open.spotify.com/track/6cmTVnOrji6WyAkFbnFLQK) | [Milo Edale](https://open.spotify.com/artist/6ht27sA8oqmvcG4a2gcCsk) | [Various Solo Versions](https://open.spotify.com/album/4QLNgqKLeHjtGujmRWlgdG) | 3:35 | 2020-10-20\* | 2023-09-09 |
+| [Lazy Sunday Vibes](https://open.spotify.com/track/22c7C62EK0p3yAlurFMTwL) | [Erjos](https://open.spotify.com/artist/70qp21FDz8QMIIGF3ETrAV) | [Lazy Sunday Vibes](https://open.spotify.com/album/5OQFFxd5Wv6gCKVpG5RfwN) | 2:13 | 2024-10-08 |  |
 | [Le Lac des Buttes](https://open.spotify.com/track/2wSDYbFEls8WYUCLCUvZNJ) | [Nicolas Dupain\-Aignon](https://open.spotify.com/artist/13jahwQWxrUhKBpng3HRQf) | [Lac des Buttes](https://open.spotify.com/album/5f7kNJ30Borz8VHTtsuG32) | 2:13 | 2023-09-26 |  |
 | [Les glaçons qui pendent du toit](https://open.spotify.com/track/3d5DvDVcTHVNVawSpIRaAe) | [Prewitt Massé](https://open.spotify.com/artist/4A2bJABmFzaDnZwBris4yj) | [Les glaçons qui pendent du toit](https://open.spotify.com/album/2nJRovvCNdu90cXOHcU1CK) | 1:44 | 2020-10-20\* | 2023-09-09 |
 | [Let It Be Us](https://open.spotify.com/track/7lV58DNV6rBJ57wyWiPClh) | [Tjeerd Oosterhuis](https://open.spotify.com/artist/4fMW8mQKbMgeSKPmvQKbRi) | [Let It Be Us](https://open.spotify.com/album/3lI2vFP5irpgNbkg1ikc97) | 2:33 | 2023-09-08 |  |
@@ -170,6 +171,7 @@
 | [Music For Growing Flowers \- Pt\. 4](https://open.spotify.com/track/3kSKcgJ0FYz7t2k4p71jiy) | [Erland Cooper](https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa) | [Music For Growing Flowers](https://open.spotify.com/album/4ivhFfoUuBby0JKvbAuOeE) | 5:34 | 2022-07-22 | 2022-08-26 |
 | [My Adored](https://open.spotify.com/track/2t14BxhdnmUQXsQ5ls74WR) | [Otis Son](https://open.spotify.com/artist/0ndzscLaWk1qlkOZ0nRPYE) | [My Adored](https://open.spotify.com/album/5AoqpA3d1et0eA51pv95lO) | 4:13 | 2023-09-26 |  |
 | [My Son](https://open.spotify.com/track/3wtpKMUkSiZPDRH5vxYLmz) | [Vuelto Ciego](https://open.spotify.com/artist/2aGcZFlseymIvZzsg8H4yl) | [My Son](https://open.spotify.com/album/2adunymdxS0IP1zEhYzLXr) | 1:58 | 2022-06-03 | 2023-09-09 |
+| [Naked](https://open.spotify.com/track/45d2JrwB423sR5mC9eI7BM) | [Cole Neumann](https://open.spotify.com/artist/74auvTTfi03X3mGsJxUqEi) | [Naked](https://open.spotify.com/album/3NQO6Taj5fCknYeSs3aNJc) | 2:55 | 2024-10-08 |  |
 | [Nano](https://open.spotify.com/track/79A5Sj9fMnzbGyWAP80JvQ) | [Karl Moss](https://open.spotify.com/artist/25H0yChYFEluC55Wre0smF) | [Strangers](https://open.spotify.com/album/66IWot103uNhraOJAxlHXp) | 3:09 | 2023-09-08 |  |
 | [Night Bird, Night Song](https://open.spotify.com/track/4oKLGQ5RhsIItD2zcOe7l3) | [Camilla Turgot](https://open.spotify.com/artist/4dMzIDrTnlZ42GJiWGxzB2) | [Night Bird, Night Song](https://open.spotify.com/album/7cUVIhZAj4cyjdateENnve) | 2:10 | 2023-09-26 |  |
 | [Night Fairy Dust](https://open.spotify.com/track/4662qV1YfJM3X9lTjlRcWL) | [Marcel Leblanc](https://open.spotify.com/artist/4pZL5hrGaaGSVfFOCtYxz7) | [Thérapie Acoustique](https://open.spotify.com/album/5XNtYndkZcj7HNUxtOSP6X) | 3:02 | 2020-10-20\* | 2023-09-09 |

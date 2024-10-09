@@ -604,7 +604,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-09",
       "duration_ms": 214956,
       "name": "Befdiki",
       "url": "https://open.spotify.com/track/2xxrKfNmahZzrCgR3gfJcN"
@@ -1408,7 +1408,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-09",
       "duration_ms": 209523,
       "name": "khallina N3esh",
       "url": "https://open.spotify.com/track/7qq9gkXMLG64zEnqTn2s9o"
@@ -2058,7 +2058,7 @@
       ],
       "date_added": "2023-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-09",
       "duration_ms": 159600,
       "name": "Shou Badi 3ed Bzalat",
       "url": "https://open.spotify.com/track/5hpORBNNofHpUXc3tSdjbr"
@@ -2347,6 +2347,24 @@
     },
     {
       "album": {
+        "name": "Ya Zghiri",
+        "url": "https://open.spotify.com/album/40vVMbWX1OW6Mo3KdK8ndA"
+      },
+      "artists": [
+        {
+          "name": "Wadih El Cheikh",
+          "url": "https://open.spotify.com/artist/6eeAS0L17Rl7edN18yWfFl"
+        }
+      ],
+      "date_added": "2024-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183857,
+      "name": "Ya Zghiri",
+      "url": "https://open.spotify.com/track/0IayU4PmWshvS0r4aMTzPD"
+    },
+    {
+      "album": {
         "name": "Yama",
         "url": "https://open.spotify.com/album/44d1S25h0oDhLgzuXExMra"
       },
@@ -2376,7 +2394,7 @@
       ],
       "date_added": "2023-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-09",
       "duration_ms": 208391,
       "name": "Yeslamli Li Bighar",
       "url": "https://open.spotify.com/track/5toZZOQ35XeknrIrn2KcmM"
@@ -2927,6 +2945,24 @@
     },
     {
       "album": {
+        "name": "\u0644\u0645\u0627 \u0637\u0644",
+        "url": "https://open.spotify.com/album/6bL3EXjucLTJ1pmcCyy6dP"
+      },
+      "artists": [
+        {
+          "name": "Mohanad Zaiter",
+          "url": "https://open.spotify.com/artist/6UPw1MtEOM1tfFTnMeRObq"
+        }
+      ],
+      "date_added": "2024-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "\u0644\u0645\u0627 \u0637\u0644",
+      "url": "https://open.spotify.com/track/1XYVKPZq2gDkwBbi3iX8Dj"
+    },
+    {
+      "album": {
         "name": "\u0634\u0627\u064a\u0641\u0647 \u0641\u064a\u0643",
         "url": "https://open.spotify.com/album/6ylllDswM090TsaEqRXsci"
       },
@@ -2942,6 +2978,24 @@
       "duration_ms": 180066,
       "name": "\u0645\u0646\u0651\u064a \u0648\u0641\u064a",
       "url": "https://open.spotify.com/track/4eTNDn35N9I9SX7B1eNg0M"
+    },
+    {
+      "album": {
+        "name": "\u0645\u064f\u0647\u0631\u0629 - MOHRA",
+        "url": "https://open.spotify.com/album/07tBDn21opfLJwRBn0O7Sm"
+      },
+      "artists": [
+        {
+          "name": "Ismaeil Tamr",
+          "url": "https://open.spotify.com/artist/5DzUF6vIJJsWlTX6HgPD6v"
+        }
+      ],
+      "date_added": "2024-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199148,
+      "name": "\u0645\u064f\u0647\u0631\u0629 - MOHRA",
+      "url": "https://open.spotify.com/track/4V5CPi2Z1amClPyxT24fgE"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > The biggest festival of the year\. The official playlist for Glastonbury 2024.
 
-218 songs - 13 hr 22 min
+219 songs - 13 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [Hooked](https://open.spotify.com/track/3VSxz7unMI9GsJOaie9R2w) | [NOTION](https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM) | [Hooked](https://open.spotify.com/album/1QTA91lsVoCLeRUXRMukmg) | 3:26 | 2024-05-31 |  |
 | [Houseplants](https://open.spotify.com/track/5mWlyBpAyIpP1lI1AXjln4) | [Squid](https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo) | [Houseplants](https://open.spotify.com/album/1YDyZrS75xgT5CQnNQQCVx) | 4:18 | 2024-05-31 |  |
 | [How It Feels](https://open.spotify.com/track/3NZz7DWeVQesSOn6mO39F7) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [When Will We Land?](https://open.spotify.com/album/5LASDBDtLLEt3QqVtgOoaM) | 2:18 | 2024-05-31 |  |
+| [Huddle Formation](https://open.spotify.com/track/5pRs3UKzcsl6c4aoihvtJ3) | [The Go! Team](https://open.spotify.com/artist/6veTV9sF06FBf2KN0xAdvo) | [Thunder, Lightning, Strike](https://open.spotify.com/album/7k8fPk75tH4HPLy43neH0S) | 3:11 | 2024-05-31 |  |
 | [I Can't Get My Head Around You](https://open.spotify.com/track/72TRVAfkS1BeMgkbPPBa19) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Drop Cherries](https://open.spotify.com/album/76Hc9p3kIBOnEqdsQsabPh) | 3:26 | 2024-05-31 |  |
 | [I Got Heaven](https://open.spotify.com/track/4C6EPbxGiGSX95nJY3z9ZG) | [Mannequin Pussy](https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9) | [I Got Heaven](https://open.spotify.com/album/5ROzqM7rbMYoKbQIw4i7fp) | 2:58 | 2024-05-31 |  |
 | [I Need A Dollar](https://open.spotify.com/track/1mWVesRiDMgR5v7Umv1DBC) | [Ed Solo](https://open.spotify.com/artist/7jnJgk7LLLdpPhXrOOZXCa), [Deekline](https://open.spotify.com/artist/1V9Bmg9gpcQDBfNZBQCWw7) | [I Need A Dollar](https://open.spotify.com/album/0BtDqGFupFyeptvx37fdLF) | 5:11 | 2024-05-31 |  |
@@ -184,7 +185,7 @@
 | [Stay High](https://open.spotify.com/track/5FJivl7KKZrbK990A7OE0u) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [Jaime](https://open.spotify.com/album/1UW7biiGu9RbUg35auUM2s) | 3:11 | 2024-05-31 |  |
 | [Strangers](https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s) | [Kenya Grace](https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2) | [Strangers](https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k) | 2:52 | 2024-05-31 |  |
 | [Streets of London](https://open.spotify.com/track/2zwH1NlxBEpzVlvzXNHQso) | [Ralph McTell](https://open.spotify.com/artist/6uQnHzEj8hj0UZCKjBvTaG) | [Spiral Staircase \(Expanded Edition\)](https://open.spotify.com/album/1KNG7O89f5oHbvvI3eOMPv) | 4:08 | 2024-05-31 |  |
-| [Sunny Daze](https://open.spotify.com/track/5P7cU0BpCpwE52oNNzPbR7) | [Lord Apex](https://open.spotify.com/artist/052uglZ4PgpVs8YxEOViXz) | [S.O.I.L](https://open.spotify.com/album/2KeXfCPVafhxp6GUUjc0sy) | 2:00 | 2024-05-31 |  |
+| [Sunny Daze](https://open.spotify.com/track/5P7cU0BpCpwE52oNNzPbR7) | [Lord Apex](https://open.spotify.com/artist/052uglZ4PgpVs8YxEOViXz) | [S.O.I.L](https://open.spotify.com/album/2KeXfCPVafhxp6GUUjc0sy) | 2:00 | 2024-05-31 | 2024-10-09 |
 | [Super](https://open.spotify.com/track/3AOf6YEpxQ894FmrwI9k96) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 10th Mini Album 'FML'](https://open.spotify.com/album/1JBzeeCJ3axQMVkqWbKh0I) | 3:20 | 2024-05-31 |  |
 | [Superstylin'](https://open.spotify.com/track/2yWyFT6bW1Rd9cjVvYi4v8) | [Groove Armada](https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ) | [Goodbye Country \(Hello Nightclub\)](https://open.spotify.com/album/1bS1J4OVGrpu6e2U2pHge6) | 6:00 | 2024-05-31 |  |
 | [Tadow](https://open.spotify.com/track/51rPRW8NjxZoWPPjnRGzHw) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [Lady Lady](https://open.spotify.com/album/2wqG59dVVQlJaxoO7N0LJt) | 5:01 | 2024-05-31 |  |

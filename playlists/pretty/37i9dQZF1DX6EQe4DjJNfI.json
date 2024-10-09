@@ -1,6 +1,6 @@
 {
   "description": "O R&B com tempero e gostinho brasileiro para voc\u00ea ouvir. Foto: Budah",
-  "num_followers": 173542,
+  "num_followers": 173605,
   "original_name": "R&B Brasil",
   "owner": {
     "name": "Spotify",
@@ -383,26 +383,6 @@
     {
       "added_at": "2024-10-04 03:01:00",
       "album": {
-        "name": "tudo com voc\u00ea vira arte",
-        "url": "https://open.spotify.com/album/1CyRf28cqFaHTeYvFgmuPq"
-      },
-      "artists": [
-        {
-          "name": "BIAB",
-          "url": "https://open.spotify.com/artist/3bPBp07Uj7QylER7i6VOuF"
-        },
-        {
-          "name": "Maui",
-          "url": "https://open.spotify.com/artist/36KguyRusb89rBTNnL32ed"
-        }
-      ],
-      "duration_ms": 160416,
-      "name": "tudo com voc\u00ea vira arte",
-      "url": "https://open.spotify.com/track/63qiEme3qWfjJlkcRqdhdk"
-    },
-    {
-      "added_at": "2024-10-04 03:01:00",
-      "album": {
         "name": "Seu Jogo",
         "url": "https://open.spotify.com/album/2SEQeYEUN1srTGXgOlX4Zs"
       },
@@ -443,6 +423,26 @@
       "duration_ms": 150833,
       "name": "Sinal de Fuma\u00e7a",
       "url": "https://open.spotify.com/track/76M93slEhL9Q9MEvbxycbe"
+    },
+    {
+      "added_at": "2024-10-04 03:01:00",
+      "album": {
+        "name": "tudo com voc\u00ea vira arte",
+        "url": "https://open.spotify.com/album/1CyRf28cqFaHTeYvFgmuPq"
+      },
+      "artists": [
+        {
+          "name": "BIAB",
+          "url": "https://open.spotify.com/artist/3bPBp07Uj7QylER7i6VOuF"
+        },
+        {
+          "name": "Maui",
+          "url": "https://open.spotify.com/artist/36KguyRusb89rBTNnL32ed"
+        }
+      ],
+      "duration_ms": 160416,
+      "name": "tudo com voc\u00ea vira arte",
+      "url": "https://open.spotify.com/track/63qiEme3qWfjJlkcRqdhdk"
     },
     {
       "added_at": "2024-10-04 03:01:00",
@@ -587,26 +587,6 @@
     {
       "added_at": "2024-10-04 03:01:00",
       "album": {
-        "name": "Eterno Esquema",
-        "url": "https://open.spotify.com/album/3VSXJcf6akK061vzZTISkB"
-      },
-      "artists": [
-        {
-          "name": "Alta Hits",
-          "url": "https://open.spotify.com/artist/5gSCmAPeZWVeVIfW2i2Pyv"
-        },
-        {
-          "name": "Nath Audizio",
-          "url": "https://open.spotify.com/artist/3Dmm7O6YrB38y8JbvA3zwK"
-        }
-      ],
-      "duration_ms": 133564,
-      "name": "Eterno Esquema",
-      "url": "https://open.spotify.com/track/50ZKf2oN3IxLTopIoogSGz"
-    },
-    {
-      "added_at": "2024-10-04 03:01:00",
-      "album": {
         "name": "N\u00e3o Vou Negar",
         "url": "https://open.spotify.com/album/3YdAoZKOwdbd29jKSwuknb"
       },
@@ -623,6 +603,26 @@
       "duration_ms": 163937,
       "name": "N\u00e3o Vou Negar",
       "url": "https://open.spotify.com/track/5nI2kzArRG6tU2SlNTE0ja"
+    },
+    {
+      "added_at": "2024-10-04 03:01:00",
+      "album": {
+        "name": "Eterno Esquema",
+        "url": "https://open.spotify.com/album/3VSXJcf6akK061vzZTISkB"
+      },
+      "artists": [
+        {
+          "name": "Alta Hits",
+          "url": "https://open.spotify.com/artist/5gSCmAPeZWVeVIfW2i2Pyv"
+        },
+        {
+          "name": "Nath Audizio",
+          "url": "https://open.spotify.com/artist/3Dmm7O6YrB38y8JbvA3zwK"
+        }
+      ],
+      "duration_ms": 133564,
+      "name": "Eterno Esquema",
+      "url": "https://open.spotify.com/track/50ZKf2oN3IxLTopIoogSGz"
     },
     {
       "added_at": "2024-10-04 03:01:00",
@@ -775,22 +775,6 @@
     {
       "added_at": "2024-10-04 03:01:00",
       "album": {
-        "name": "Tempo pra Perder",
-        "url": "https://open.spotify.com/album/6qePnDPq4XJnpJxaGf5lxF"
-      },
-      "artists": [
-        {
-          "name": "Ana Olic",
-          "url": "https://open.spotify.com/artist/1gJq1KdpkUUygT6tgrnkiY"
-        }
-      ],
-      "duration_ms": 194974,
-      "name": "Tempo pra Perder",
-      "url": "https://open.spotify.com/track/2vS4o51fwVyYrDF54w5O0R"
-    },
-    {
-      "added_at": "2024-10-04 03:01:00",
-      "album": {
         "name": "1001 Roteiros",
         "url": "https://open.spotify.com/album/7BML7mAZR24Tle4tpZtCvm"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 161024,
       "name": "1001 Roteiros",
       "url": "https://open.spotify.com/track/6yMVMThd3yOGcJMEc0vGgZ"
+    },
+    {
+      "added_at": "2024-10-04 03:01:00",
+      "album": {
+        "name": "Tempo pra Perder",
+        "url": "https://open.spotify.com/album/6qePnDPq4XJnpJxaGf5lxF"
+      },
+      "artists": [
+        {
+          "name": "Ana Olic",
+          "url": "https://open.spotify.com/artist/1gJq1KdpkUUygT6tgrnkiY"
+        }
+      ],
+      "duration_ms": 194974,
+      "name": "Tempo pra Perder",
+      "url": "https://open.spotify.com/track/2vS4o51fwVyYrDF54w5O0R"
     },
     {
       "added_at": "2024-10-04 03:01:00",
@@ -943,22 +943,6 @@
     {
       "added_at": "2024-10-04 03:01:00",
       "album": {
-        "name": "S\u00f3 N\u00f3s Dois",
-        "url": "https://open.spotify.com/album/3ymX3mPsxNZbAu9jbWsyvd"
-      },
-      "artists": [
-        {
-          "name": "JOK3R",
-          "url": "https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq"
-        }
-      ],
-      "duration_ms": 141502,
-      "name": "S\u00f3 N\u00f3s Dois",
-      "url": "https://open.spotify.com/track/7lAdgcZXKrbLe7cM05nMXF"
-    },
-    {
-      "added_at": "2024-10-04 03:01:00",
-      "album": {
         "name": "\u00c9ramos",
         "url": "https://open.spotify.com/album/3zfJsn2QgHYbRJa6wZTG9i"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 218890,
       "name": "Bahamas",
       "url": "https://open.spotify.com/track/1YWbYVHpotGLTpQ0wgji3Z"
+    },
+    {
+      "added_at": "2024-10-04 03:01:00",
+      "album": {
+        "name": "S\u00f3 N\u00f3s Dois",
+        "url": "https://open.spotify.com/album/3ymX3mPsxNZbAu9jbWsyvd"
+      },
+      "artists": [
+        {
+          "name": "JOK3R",
+          "url": "https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq"
+        }
+      ],
+      "duration_ms": 141502,
+      "name": "S\u00f3 N\u00f3s Dois",
+      "url": "https://open.spotify.com/track/7lAdgcZXKrbLe7cM05nMXF"
     },
     {
       "added_at": "2024-10-04 03:01:00",
@@ -995,22 +995,6 @@
     {
       "added_at": "2024-10-04 03:01:00",
       "album": {
-        "name": "VIVER \u00c9 SENTIR",
-        "url": "https://open.spotify.com/album/21yuQI5C9jyoyN9yf1NLQb"
-      },
-      "artists": [
-        {
-          "name": "V\u00c9RTICE",
-          "url": "https://open.spotify.com/artist/2c2gVTypL8PGnZH3q7vukm"
-        }
-      ],
-      "duration_ms": 201626,
-      "name": "NEGRA COR",
-      "url": "https://open.spotify.com/track/342rayf5kBDPfjdGu7Ke0S"
-    },
-    {
-      "added_at": "2024-10-04 03:01:00",
-      "album": {
         "name": "NEM TUDO \u00c9 AMOR",
         "url": "https://open.spotify.com/album/7K7FciiKhYJGlf8BkKw2lv"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 213421,
       "name": "risco",
       "url": "https://open.spotify.com/track/6aHXgA98b28LVP150y1NTh"
+    },
+    {
+      "added_at": "2024-10-04 03:01:00",
+      "album": {
+        "name": "VIVER \u00c9 SENTIR",
+        "url": "https://open.spotify.com/album/21yuQI5C9jyoyN9yf1NLQb"
+      },
+      "artists": [
+        {
+          "name": "V\u00c9RTICE",
+          "url": "https://open.spotify.com/artist/2c2gVTypL8PGnZH3q7vukm"
+        }
+      ],
+      "duration_ms": 201626,
+      "name": "NEGRA COR",
+      "url": "https://open.spotify.com/track/342rayf5kBDPfjdGu7Ke0S"
     },
     {
       "added_at": "2024-10-04 03:01:00",
@@ -1151,18 +1151,18 @@
     {
       "added_at": "2024-10-04 03:01:00",
       "album": {
-        "name": "Assome",
-        "url": "https://open.spotify.com/album/7DZArTAJwtOqfchatOZR5c"
+        "name": "ESCOLHAS",
+        "url": "https://open.spotify.com/album/03pGiKAx5rT7nBELKTZ7Ot"
       },
       "artists": [
         {
-          "name": "Beb\u00e9",
-          "url": "https://open.spotify.com/artist/3u7JauDo3fDN6HBNtRTAFu"
+          "name": "V\u00c9RTICE",
+          "url": "https://open.spotify.com/artist/2c2gVTypL8PGnZH3q7vukm"
         }
       ],
-      "duration_ms": 179498,
-      "name": "Assome",
-      "url": "https://open.spotify.com/track/5JjtvbvHPUWKju4nStjFcO"
+      "duration_ms": 221775,
+      "name": "ESCOLHAS",
+      "url": "https://open.spotify.com/track/5l4yvhKkTcosuRuOaF5Kcx"
     },
     {
       "added_at": "2024-10-04 03:01:00",
@@ -1191,18 +1191,18 @@
     {
       "added_at": "2024-10-04 03:01:00",
       "album": {
-        "name": "ESCOLHAS",
-        "url": "https://open.spotify.com/album/03pGiKAx5rT7nBELKTZ7Ot"
+        "name": "Assome",
+        "url": "https://open.spotify.com/album/7DZArTAJwtOqfchatOZR5c"
       },
       "artists": [
         {
-          "name": "V\u00c9RTICE",
-          "url": "https://open.spotify.com/artist/2c2gVTypL8PGnZH3q7vukm"
+          "name": "Beb\u00e9",
+          "url": "https://open.spotify.com/artist/3u7JauDo3fDN6HBNtRTAFu"
         }
       ],
-      "duration_ms": 221775,
-      "name": "ESCOLHAS",
-      "url": "https://open.spotify.com/track/5l4yvhKkTcosuRuOaF5Kcx"
+      "duration_ms": 179498,
+      "name": "Assome",
+      "url": "https://open.spotify.com/track/5JjtvbvHPUWKju4nStjFcO"
     },
     {
       "added_at": "2024-10-04 03:01:00",
@@ -1251,6 +1251,26 @@
     {
       "added_at": "2024-10-04 03:01:00",
       "album": {
+        "name": "Faz Arrepiar",
+        "url": "https://open.spotify.com/album/2eECtXgZdmITR6VSzq5CW7"
+      },
+      "artists": [
+        {
+          "name": "Fashion Piva",
+          "url": "https://open.spotify.com/artist/4BvRiHSL8MkEyohJoY7lyk"
+        },
+        {
+          "name": "Ane",
+          "url": "https://open.spotify.com/artist/59BcvfHR3rS8VA3yxwATAG"
+        }
+      ],
+      "duration_ms": 140832,
+      "name": "Faz Arrepiar",
+      "url": "https://open.spotify.com/track/7JGHeEIqdqrQJUXONANuKz"
+    },
+    {
+      "added_at": "2024-10-04 03:01:00",
+      "album": {
         "name": "O BGLH \u00c9 BLACK",
         "url": "https://open.spotify.com/album/0eqg2BczmxS6TivLVbCeXt"
       },
@@ -1271,26 +1291,6 @@
       "duration_ms": 177533,
       "name": "Hey Girl",
       "url": "https://open.spotify.com/track/5qAfTkA6FxXxi6FnTcqYRH"
-    },
-    {
-      "added_at": "2024-10-04 03:01:00",
-      "album": {
-        "name": "Faz Arrepiar",
-        "url": "https://open.spotify.com/album/2eECtXgZdmITR6VSzq5CW7"
-      },
-      "artists": [
-        {
-          "name": "Fashion Piva",
-          "url": "https://open.spotify.com/artist/4BvRiHSL8MkEyohJoY7lyk"
-        },
-        {
-          "name": "Ane",
-          "url": "https://open.spotify.com/artist/59BcvfHR3rS8VA3yxwATAG"
-        }
-      ],
-      "duration_ms": 140832,
-      "name": "Faz Arrepiar",
-      "url": "https://open.spotify.com/track/7JGHeEIqdqrQJUXONANuKz"
     },
     {
       "added_at": "2024-10-04 03:01:00",

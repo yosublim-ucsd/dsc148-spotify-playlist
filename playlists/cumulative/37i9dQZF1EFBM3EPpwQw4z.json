@@ -425,6 +425,24 @@
     },
     {
       "album": {
+        "name": "Alter EP",
+        "url": "https://open.spotify.com/album/1cNtoofX8TnCb3ExzRg86J"
+      },
+      "artists": [
+        {
+          "name": "KLP",
+          "url": "https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3"
+        }
+      ],
+      "date_added": "2024-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197697,
+      "name": "Come Thru",
+      "url": "https://open.spotify.com/track/0hn8lFibQnnruBtfjOTmTO"
+    },
+    {
+      "album": {
         "name": "Dance Silly",
         "url": "https://open.spotify.com/album/2tAzTmRwDTTbaLUoO6A6Js"
       },

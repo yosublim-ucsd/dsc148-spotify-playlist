@@ -83,6 +83,52 @@
     },
     {
       "album": {
+        "name": "El Diablo, La Muerte y Yo",
+        "url": "https://open.spotify.com/album/5S1xpCaPIqh72xLdFRGNvj"
+      },
+      "artists": [
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        },
+        {
+          "name": "C-Kan",
+          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
+        },
+        {
+          "name": "Z-Xperimento",
+          "url": "https://open.spotify.com/artist/6L9Lp5b3SCpR3W7iJXmGdC"
+        },
+        {
+          "name": "Mhaya",
+          "url": "https://open.spotify.com/artist/5HbNJgAcVq526lZFrM4sJi"
+        },
+        {
+          "name": "Beliko",
+          "url": "https://open.spotify.com/artist/0bD52a8xVx5b64rVnutDlg"
+        },
+        {
+          "name": "YAYO",
+          "url": "https://open.spotify.com/artist/5KO8S2NVkEqUY7l7M8UFDg"
+        },
+        {
+          "name": "Lunatic",
+          "url": "https://open.spotify.com/artist/3wrdBMCPqcrkHztWO37Qb8"
+        },
+        {
+          "name": "Alisther",
+          "url": "https://open.spotify.com/artist/1lpDytUPcDMz9J54NbaZRy"
+        }
+      ],
+      "date_added": "2024-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357597,
+      "name": "Ay dios m\u00edo (feat. C-kan, Z-Xperimento, Mhaya, Beliko, Yayo, Lunatic & Alisther)",
+      "url": "https://open.spotify.com/track/7ijL4qDi7OmgUABNxrpDr5"
+    },
+    {
+      "album": {
         "name": "Disfrutando El Proceso",
         "url": "https://open.spotify.com/album/60falhlYX9dCpWmjlHfVGa"
       },
@@ -414,7 +460,7 @@
       ],
       "date_added": "2024-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-09",
       "duration_ms": 171936,
       "name": "Esto Revienta",
       "url": "https://open.spotify.com/track/0eAgZ5JyKuowgYO9aZYsL9"

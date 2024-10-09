@@ -4772,7 +4772,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-09",
       "duration_ms": 197225,
       "name": "Everyone's On Dope",
       "url": "https://open.spotify.com/track/0fxyJKQxMB8wi1efCN3LEm"
@@ -5332,6 +5332,24 @@
       "duration_ms": 224000,
       "name": "Filters",
       "url": "https://open.spotify.com/track/3wDDAmUeFk5vUtmZYNeBFc"
+    },
+    {
+      "album": {
+        "name": "Filthy Animals",
+        "url": "https://open.spotify.com/album/6GJtdvQRdh5QyWZYA1qm72"
+      },
+      "artists": [
+        {
+          "name": "All Good Things",
+          "url": "https://open.spotify.com/artist/2uMWUtg8XLpJxNSqbGOkl1"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235770,
+      "name": "Filthy Animals",
+      "url": "https://open.spotify.com/track/2HQXLsU8j3chLoxIDxq3Vu"
     },
     {
       "album": {

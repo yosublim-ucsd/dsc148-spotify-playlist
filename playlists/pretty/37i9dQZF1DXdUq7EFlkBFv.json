@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/akademiks/\">DJ Akademiks</a>",
-  "num_followers": 20257,
+  "num_followers": 20271,
   "original_name": "DJ Akademiks' Taste",
   "owner": {
     "name": "Spotify",
@@ -735,18 +735,22 @@
     {
       "added_at": "2022-10-01 16:17:17",
       "album": {
-        "name": "My Shit",
-        "url": "https://open.spotify.com/album/7C6YsJ2PYab0ydSTP7BQB2"
+        "name": "Demons (feat. A Boogie Wit Da Hoodie)",
+        "url": "https://open.spotify.com/album/0Lwd1Jj6yJxpbDT1vHzC9m"
       },
       "artists": [
         {
-          "name": "Bizzy Banks",
-          "url": "https://open.spotify.com/artist/7s3eCGNZMrwUQraXlocCBv"
+          "name": "Stunna Gambino",
+          "url": "https://open.spotify.com/artist/15ZjD8Gus20Miqw3fdOaXX"
+        },
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
         }
       ],
-      "duration_ms": 120189,
-      "name": "My Shit",
-      "url": "https://open.spotify.com/track/1HmhJrabjvTHZlkKDUzZfX"
+      "duration_ms": 178218,
+      "name": "Demons (feat. A Boogie Wit Da Hoodie)",
+      "url": "https://open.spotify.com/track/5QdnavjDzGRNHfQn23PlG8"
     },
     {
       "added_at": "2022-10-01 16:17:17",
@@ -787,22 +791,18 @@
     {
       "added_at": "2022-10-01 16:17:17",
       "album": {
-        "name": "Demons (feat. A Boogie Wit Da Hoodie)",
-        "url": "https://open.spotify.com/album/0Lwd1Jj6yJxpbDT1vHzC9m"
+        "name": "My Shit",
+        "url": "https://open.spotify.com/album/7C6YsJ2PYab0ydSTP7BQB2"
       },
       "artists": [
         {
-          "name": "Stunna Gambino",
-          "url": "https://open.spotify.com/artist/15ZjD8Gus20Miqw3fdOaXX"
-        },
-        {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+          "name": "Bizzy Banks",
+          "url": "https://open.spotify.com/artist/7s3eCGNZMrwUQraXlocCBv"
         }
       ],
-      "duration_ms": 178218,
-      "name": "Demons (feat. A Boogie Wit Da Hoodie)",
-      "url": "https://open.spotify.com/track/5QdnavjDzGRNHfQn23PlG8"
+      "duration_ms": 120189,
+      "name": "My Shit",
+      "url": "https://open.spotify.com/track/1HmhJrabjvTHZlkKDUzZfX"
     },
     {
       "added_at": "2022-10-01 16:17:17",

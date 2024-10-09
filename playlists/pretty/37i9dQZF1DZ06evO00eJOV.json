@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwHTAAAAAACat4Y96fEH6HVBb5INmbl0",
+  "snapshot_id": "ZwMkgAAAAAB576+5PcUX+L/v1Dy1Jiu7",
   "tracks": [
     {
       "added_at": null,
@@ -59,26 +59,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Piano Republik",
-        "url": "https://open.spotify.com/album/7Bv6Vg8y1Cwl7b9TV1xSqQ"
+        "name": "Myekeleni",
+        "url": "https://open.spotify.com/album/7chQEP3pHqRHTnm3egstPL"
       },
       "artists": [
-        {
-          "name": "Major Lazer",
-          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
-        },
-        {
-          "name": "Major League Djz",
-          "url": "https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb"
-        },
         {
           "name": "Brenda Fassie",
           "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
         }
       ],
-      "duration_ms": 236379,
-      "name": "Mamgobhozi (feat. Brenda Fassie)",
-      "url": "https://open.spotify.com/track/3HfP4ClNsgUElIIeiaIKUx"
+      "duration_ms": 263093,
+      "name": "Mama I'm Sorry",
+      "url": "https://open.spotify.com/track/1Tuh0lfagSr2ggyZXyWofx"
     },
     {
       "added_at": null,
@@ -99,18 +91,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Myekeleni",
-        "url": "https://open.spotify.com/album/7chQEP3pHqRHTnm3egstPL"
+        "name": "Piano Republik",
+        "url": "https://open.spotify.com/album/7Bv6Vg8y1Cwl7b9TV1xSqQ"
       },
       "artists": [
+        {
+          "name": "Major Lazer",
+          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
+        },
+        {
+          "name": "Major League Djz",
+          "url": "https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb"
+        },
         {
           "name": "Brenda Fassie",
           "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
         }
       ],
-      "duration_ms": 263093,
-      "name": "Mama I'm Sorry",
-      "url": "https://open.spotify.com/track/1Tuh0lfagSr2ggyZXyWofx"
+      "duration_ms": 236379,
+      "name": "Mamgobhozi (feat. Brenda Fassie)",
+      "url": "https://open.spotify.com/track/3HfP4ClNsgUElIIeiaIKUx"
     },
     {
       "added_at": null,

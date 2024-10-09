@@ -2,7 +2,7 @@
 
 ### [80s Rock](https://open.spotify.com/playlist/2uYCFYN7H4JUOEI7N4dLHN)
 
-> Rock through the 80s\. Over 8 hours of music from iconic bands and artists! Cover: Queen
+> Rock through the 80s\. Over 8 hours of music from iconic bands and artists! Cover: The Tragically Hip
 
 130 songs - 9 hr 10 min
 

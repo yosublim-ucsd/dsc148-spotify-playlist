@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdtTK5Bo0anL.md) - [plain]
 
 > <a href="spotify:artist:144HzhpLjcR9k37w5Ico9B">Deborah De Luca</a>'s favorite tracks\. Updated regularly\. Curated by Deborah De Luca\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,868 likes - 55 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,897 likes - 55 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdtTK5Bo0anL.md) - [plain]
 | 17 | [Reinassance](https://open.spotify.com/track/44qJiqEWwO3t7zG7JrvfvT) | [CRIME](https://open.spotify.com/artist/0HdLOHFK7sxiPJCFxhgtUE) | [Mistery EP](https://open.spotify.com/album/4IwhCLjk9U9fwIZmhB8E8w) | 5:36 |
 | 18 | [Dominatic \- Nostromos Remix](https://open.spotify.com/track/0ZXm0Dfn6AAtycAZB9wIt1) | [Tom Wax](https://open.spotify.com/artist/1b0WGyps7QC5KqSSq57wXX), [Tabis & Dawn](https://open.spotify.com/artist/0vgSej2cAXX0YWWEtKXGmk), [Nostromos](https://open.spotify.com/artist/2ZqTIynjsje8Dux78PrTNC) | [Dominatic](https://open.spotify.com/album/3ULYpuHboP19yjfKL5FiJW) | 6:43 |
 | 19 | [Double Drop](https://open.spotify.com/track/7rw05kd7N0QFvaFsCKciHg) | [Sharpson](https://open.spotify.com/artist/7I6YO6H42IV9BOqqqwvlpM) | [Double Drop](https://open.spotify.com/album/7MFYOlyenksr5vKGmfhlFR) | 7:47 |
-| 20 | [Endoloris](https://open.spotify.com/track/42VtZr6X9bp0EXEqPC7iXd) | [H! DUDE](https://open.spotify.com/artist/7GxWB7GAZcYoGWOGgEpDxi) | [Endoloris](https://open.spotify.com/album/6tdHuJRmlLnJd7cRI2iz8U) | 6:25 |
+| 20 | [Endoloris](https://open.spotify.com/track/42VtZr6X9bp0EXEqPC7iXd) | [H! Dude](https://open.spotify.com/artist/5EdJyUrE9kntnBdcVTVLAe) | [Endoloris](https://open.spotify.com/album/6tdHuJRmlLnJd7cRI2iz8U) | 6:25 |
 | 21 | [Space Invader](https://open.spotify.com/track/4UTNUbxzHvlCKzKDHozM18) | [Ivan BM](https://open.spotify.com/artist/09oqePqZB0Q7dgGHS2zNhj) | [Space Invader](https://open.spotify.com/album/43zM7amnVBwsP7vYLWtGZ2) | 6:53 |
 | 22 | [Phobia](https://open.spotify.com/track/7eM90uoqf1KVaSIGC4rSla) | [Charlie Sparks \(UK\)](https://open.spotify.com/artist/1lsjQdGrRe2D1nmvCVB7JZ) | [Phobia](https://open.spotify.com/album/6Wx7ncY0yg7Qdh7aYNv2nR) | 7:06 |
 | 23 | [You](https://open.spotify.com/track/5lvLiD5JeZuYdY1qIdrv5P) | [Charles D \(USA\)](https://open.spotify.com/artist/4JM9MtRRutmQVooyHnFTD1) | [You](https://open.spotify.com/album/1iBmmpiZ69uD1841dh6bMx) | 6:48 |

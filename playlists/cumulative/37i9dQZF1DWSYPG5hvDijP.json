@@ -1786,7 +1786,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-09",
       "duration_ms": 166857,
       "name": "Call Me",
       "url": "https://open.spotify.com/track/6T2sCLSNezPVDacizADYms"
@@ -3358,7 +3358,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-09",
       "duration_ms": 134777,
       "name": "Gaana Baje Gaadi Mein",
       "url": "https://open.spotify.com/track/74vAYjgpsLzolIlEBi38mP"
@@ -6757,6 +6757,56 @@
     },
     {
       "album": {
+        "name": "Harvest",
+        "url": "https://open.spotify.com/album/5w1KwsCP121wXn37I6FguI"
+      },
+      "artists": [
+        {
+          "name": "Sandesh Shandilya",
+          "url": "https://open.spotify.com/artist/6AwwLwgIsTIXZ8kHWaZUj5"
+        },
+        {
+          "name": "Himalayan Harmonies",
+          "url": "https://open.spotify.com/artist/2osVgMquKwmLorGHfA86aS"
+        },
+        {
+          "name": "pho",
+          "url": "https://open.spotify.com/artist/0eAgLEZjRTeUe2UqQhH9YC"
+        },
+        {
+          "name": "Yash Mishra",
+          "url": "https://open.spotify.com/artist/70sU4yuUbhERtc7LQWuTQi"
+        },
+        {
+          "name": "Raag Stereo",
+          "url": "https://open.spotify.com/artist/73yFcIRYzv81aBZb8z2TAv"
+        },
+        {
+          "name": "Shradha Mishra",
+          "url": "https://open.spotify.com/artist/4nhFZoBTFnDpi17pbaDgd7"
+        },
+        {
+          "name": "Farozan Nizami",
+          "url": "https://open.spotify.com/artist/7CVzB69eqH6mNB8lM7ijBm"
+        },
+        {
+          "name": "Mir Tafazul",
+          "url": "https://open.spotify.com/artist/0jBzewdASgiYJ1O059T3Om"
+        },
+        {
+          "name": "Meera Shandilya",
+          "url": "https://open.spotify.com/artist/4vFNuMZ1wQkkKCaQEs7oxx"
+        }
+      ],
+      "date_added": "2024-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242654,
+      "name": "Naina Barse",
+      "url": "https://open.spotify.com/track/56PNjQUwtxUN8XosS7x4RL"
+    },
+    {
+      "album": {
         "name": "SHAKTI",
         "url": "https://open.spotify.com/album/6Mwca6sXGKb25VkAc1e6X3"
       },
@@ -7786,6 +7836,40 @@
       "duration_ms": 264000,
       "name": "Ride Slow",
       "url": "https://open.spotify.com/track/3AcwYeqbN22Ko2xRJyMQJa"
+    },
+    {
+      "album": {
+        "name": "Harvest",
+        "url": "https://open.spotify.com/album/5w1KwsCP121wXn37I6FguI"
+      },
+      "artists": [
+        {
+          "name": "Sandesh Shandilya",
+          "url": "https://open.spotify.com/artist/6AwwLwgIsTIXZ8kHWaZUj5"
+        },
+        {
+          "name": "Himalayan Harmonies",
+          "url": "https://open.spotify.com/artist/2osVgMquKwmLorGHfA86aS"
+        },
+        {
+          "name": "Mir Tafazul",
+          "url": "https://open.spotify.com/artist/0jBzewdASgiYJ1O059T3Om"
+        },
+        {
+          "name": "Farozan Nizami",
+          "url": "https://open.spotify.com/artist/7CVzB69eqH6mNB8lM7ijBm"
+        },
+        {
+          "name": "Meera Shandilya",
+          "url": "https://open.spotify.com/artist/4vFNuMZ1wQkkKCaQEs7oxx"
+        }
+      ],
+      "date_added": "2024-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198048,
+      "name": "Ring of Life",
+      "url": "https://open.spotify.com/track/1fL80UZLhFb7dD6budso69"
     },
     {
       "album": {

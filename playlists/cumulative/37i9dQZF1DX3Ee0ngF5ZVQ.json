@@ -5122,7 +5122,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-09",
       "duration_ms": 204000,
       "name": "Hunt You Down",
       "url": "https://open.spotify.com/track/6ANjnskHNgakdZnhWO6nob"
@@ -6448,6 +6448,24 @@
       "duration_ms": 203580,
       "name": "Love Goes",
       "url": "https://open.spotify.com/track/6AlLssdGnCKgXtJTCmdZB5"
+    },
+    {
+      "album": {
+        "name": "Love Junkie",
+        "url": "https://open.spotify.com/album/18ObIWQQaixiec3lFv02Qs"
+      },
+      "artists": [
+        {
+          "name": "Slade Coulter",
+          "url": "https://open.spotify.com/artist/0Qht1bMfMyq85aI74COUvn"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238386,
+      "name": "Love Junkie",
+      "url": "https://open.spotify.com/track/5mzeAk5H2fHIV1z8dgyt3z"
     },
     {
       "album": {

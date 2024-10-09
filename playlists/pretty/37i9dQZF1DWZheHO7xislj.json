@@ -1,6 +1,6 @@
 {
   "description": "Perfect music for perfect food.",
-  "num_followers": 140894,
+  "num_followers": 140895,
   "original_name": "Soul Cuisine",
   "owner": {
     "name": "Spotify",
@@ -27,22 +27,6 @@
     {
       "added_at": "2024-07-08 07:31:01",
       "album": {
-        "name": "If That's What It Takes",
-        "url": "https://open.spotify.com/album/43P5lpZxSh8r0uNz7x6Sx1"
-      },
-      "artists": [
-        {
-          "name": "Michael McDonald",
-          "url": "https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy"
-        }
-      ],
-      "duration_ms": 222280,
-      "name": "I Keep Forgettin' (Every Time You're Near)",
-      "url": "https://open.spotify.com/track/5GvWrvLIqoHroq7YvO260M"
-    },
-    {
-      "added_at": "2024-07-08 07:31:01",
-      "album": {
         "name": "Flamingo Serenade",
         "url": "https://open.spotify.com/album/6XEtlJFNCbNrIz1Q5kdLjZ"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 202773,
       "name": "I Only Have Eyes for You",
       "url": "https://open.spotify.com/track/3YdKJzcoMZMacISlpY4QoP"
+    },
+    {
+      "added_at": "2024-07-08 07:31:01",
+      "album": {
+        "name": "If That's What It Takes",
+        "url": "https://open.spotify.com/album/43P5lpZxSh8r0uNz7x6Sx1"
+      },
+      "artists": [
+        {
+          "name": "Michael McDonald",
+          "url": "https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy"
+        }
+      ],
+      "duration_ms": 222280,
+      "name": "I Keep Forgettin' (Every Time You're Near)",
+      "url": "https://open.spotify.com/track/5GvWrvLIqoHroq7YvO260M"
     },
     {
       "added_at": "2024-07-08 07:31:01",
@@ -639,6 +639,22 @@
     {
       "added_at": "2024-07-08 07:31:01",
       "album": {
+        "name": "The Baby Huey Story: The Living Legend",
+        "url": "https://open.spotify.com/album/2lTfjZPS0xFQE3cbGZf92T"
+      },
+      "artists": [
+        {
+          "name": "Baby Huey",
+          "url": "https://open.spotify.com/artist/3YFP5QHEKv8RZZsPminjdv"
+        }
+      ],
+      "duration_ms": 203373,
+      "name": "Hard Times",
+      "url": "https://open.spotify.com/track/7ycU5Bxfn2fIZjXJypfdRM"
+    },
+    {
+      "added_at": "2024-07-08 07:31:01",
+      "album": {
         "name": "A Donny Hathaway Collection",
         "url": "https://open.spotify.com/album/2D2sMtTf1Db5bkSRGvWGKB"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 166400,
       "name": "Where Is the Love",
       "url": "https://open.spotify.com/track/7l07ak5IWpISBsrUtwj4O4"
-    },
-    {
-      "added_at": "2024-07-08 07:31:01",
-      "album": {
-        "name": "The Baby Huey Story: The Living Legend",
-        "url": "https://open.spotify.com/album/2lTfjZPS0xFQE3cbGZf92T"
-      },
-      "artists": [
-        {
-          "name": "Baby Huey",
-          "url": "https://open.spotify.com/artist/3YFP5QHEKv8RZZsPminjdv"
-        }
-      ],
-      "duration_ms": 203373,
-      "name": "Hard Times",
-      "url": "https://open.spotify.com/track/7ycU5Bxfn2fIZjXJypfdRM"
     },
     {
       "added_at": "2024-07-08 07:31:01",
@@ -951,22 +951,6 @@
     {
       "added_at": "2024-07-08 07:31:01",
       "album": {
-        "name": "Ain't That Good News",
-        "url": "https://open.spotify.com/album/2NFd4ApYFitFtJhGTSfDdP"
-      },
-      "artists": [
-        {
-          "name": "Sam Cooke",
-          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
-        }
-      ],
-      "duration_ms": 191160,
-      "name": "A Change Is Gonna Come",
-      "url": "https://open.spotify.com/track/0KOE1hat4SIer491XKk4Pa"
-    },
-    {
-      "added_at": "2024-07-08 07:31:01",
-      "album": {
         "name": "Express Yourself (Remastered & Expanded)",
         "url": "https://open.spotify.com/album/5qDWJPnZ9IXMMDBhAFQgq3"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 316306,
       "name": "Lowdown",
       "url": "https://open.spotify.com/track/20MxJN12WEqU5eWsuCrwM5"
+    },
+    {
+      "added_at": "2024-07-08 07:31:01",
+      "album": {
+        "name": "Ain't That Good News",
+        "url": "https://open.spotify.com/album/2NFd4ApYFitFtJhGTSfDdP"
+      },
+      "artists": [
+        {
+          "name": "Sam Cooke",
+          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
+        }
+      ],
+      "duration_ms": 191160,
+      "name": "A Change Is Gonna Come",
+      "url": "https://open.spotify.com/track/0KOE1hat4SIer491XKk4Pa"
     },
     {
       "added_at": "2024-07-08 07:31:01",
@@ -1095,18 +1095,18 @@
     {
       "added_at": "2024-07-08 07:31:01",
       "album": {
-        "name": "Be Thankful for What You Got",
-        "url": "https://open.spotify.com/album/1SCaqfkBnsMXOvdJIZi93Z"
+        "name": "20 Greatest Hits",
+        "url": "https://open.spotify.com/album/1FjPiiZ0qeq7GZ0nnuvHpH"
       },
       "artists": [
         {
-          "name": "William DeVaughn",
-          "url": "https://open.spotify.com/artist/1l51Sc9HBh8fLXUDEjFhxU"
+          "name": "Barbara Acklin",
+          "url": "https://open.spotify.com/artist/5cIS9VdHDj2fozLl19Gg2A"
         }
       ],
-      "duration_ms": 429371,
-      "name": "Be Thankful for What You Got (Pt. 1 & Pt. 2)",
-      "url": "https://open.spotify.com/track/7pN8GMLw3prWFn5nvJRM6O"
+      "duration_ms": 178840,
+      "name": "Am I The Same Girl",
+      "url": "https://open.spotify.com/track/6NVzt2cA5Mgjd3pQjU1xwD"
     },
     {
       "added_at": "2024-07-08 07:31:01",
@@ -1127,18 +1127,18 @@
     {
       "added_at": "2024-07-08 07:31:01",
       "album": {
-        "name": "20 Greatest Hits",
-        "url": "https://open.spotify.com/album/1FjPiiZ0qeq7GZ0nnuvHpH"
+        "name": "Be Thankful for What You Got",
+        "url": "https://open.spotify.com/album/1SCaqfkBnsMXOvdJIZi93Z"
       },
       "artists": [
         {
-          "name": "Barbara Acklin",
-          "url": "https://open.spotify.com/artist/5cIS9VdHDj2fozLl19Gg2A"
+          "name": "William DeVaughn",
+          "url": "https://open.spotify.com/artist/1l51Sc9HBh8fLXUDEjFhxU"
         }
       ],
-      "duration_ms": 178840,
-      "name": "Am I The Same Girl",
-      "url": "https://open.spotify.com/track/6NVzt2cA5Mgjd3pQjU1xwD"
+      "duration_ms": 429371,
+      "name": "Be Thankful for What You Got (Pt. 1 & Pt. 2)",
+      "url": "https://open.spotify.com/track/7pN8GMLw3prWFn5nvJRM6O"
     },
     {
       "added_at": "2024-07-08 07:31:01",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2024-07-08 07:31:01",
       "album": {
-        "name": "The Ultimate Collection",
-        "url": "https://open.spotify.com/album/2kSQnTLbO7fevT5zOaM6Hv"
-      },
-      "artists": [
-        {
-          "name": "George Benson",
-          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
-        }
-      ],
-      "duration_ms": 229440,
-      "name": "Turn Your Love Around - 2015 GH Version",
-      "url": "https://open.spotify.com/track/3jlKeObN7azQvrySwLdvP3"
-    },
-    {
-      "added_at": "2024-07-08 07:31:01",
-      "album": {
         "name": "Wheelin' And Dealin' - The Definitive Collection",
         "url": "https://open.spotify.com/album/5JRvmq9sCId3PUdS35aZKc"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 146306,
       "name": "Get out of My Life Woman",
       "url": "https://open.spotify.com/track/3wEjaj63quGasYmMwSv2v0"
+    },
+    {
+      "added_at": "2024-07-08 07:31:01",
+      "album": {
+        "name": "The Ultimate Collection",
+        "url": "https://open.spotify.com/album/2kSQnTLbO7fevT5zOaM6Hv"
+      },
+      "artists": [
+        {
+          "name": "George Benson",
+          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
+        }
+      ],
+      "duration_ms": 229440,
+      "name": "Turn Your Love Around - 2015 GH Version",
+      "url": "https://open.spotify.com/track/3jlKeObN7azQvrySwLdvP3"
     },
     {
       "added_at": "2024-07-08 07:31:01",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2024-07-08 07:31:01",
       "album": {
-        "name": "The Way I See It",
-        "url": "https://open.spotify.com/album/5qWdVsgBbJJVrnDYQrx6IP"
-      },
-      "artists": [
-        {
-          "name": "Raphael Saadiq",
-          "url": "https://open.spotify.com/artist/6g0Wah2YFtb1rFgKhUktlo"
-        }
-      ],
-      "duration_ms": 184413,
-      "name": "Love That Girl",
-      "url": "https://open.spotify.com/track/3XTYgwvbBsNonoauUvZgo6"
-    },
-    {
-      "added_at": "2024-07-08 07:31:01",
-      "album": {
         "name": "Stax Volt Chartbusters Vol 1",
         "url": "https://open.spotify.com/album/17V0RTHI4GvWwGIIpPnVqE"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 230920,
       "name": "Starting All Over Again",
       "url": "https://open.spotify.com/track/3EN9HHihu5CtBWhcNi7Wa3"
+    },
+    {
+      "added_at": "2024-07-08 07:31:01",
+      "album": {
+        "name": "The Way I See It",
+        "url": "https://open.spotify.com/album/5qWdVsgBbJJVrnDYQrx6IP"
+      },
+      "artists": [
+        {
+          "name": "Raphael Saadiq",
+          "url": "https://open.spotify.com/artist/6g0Wah2YFtb1rFgKhUktlo"
+        }
+      ],
+      "duration_ms": 184413,
+      "name": "Love That Girl",
+      "url": "https://open.spotify.com/track/3XTYgwvbBsNonoauUvZgo6"
     },
     {
       "added_at": "2024-07-08 07:31:01",
@@ -2075,22 +2075,6 @@
     {
       "added_at": "2024-07-08 07:31:01",
       "album": {
-        "name": "Sing Me a Song",
-        "url": "https://open.spotify.com/album/0N6sFugBivjG1IEUlriDHN"
-      },
-      "artists": [
-        {
-          "name": "Sherry Dyanne",
-          "url": "https://open.spotify.com/artist/2JACl2MnidXPb6QeRrsaVB"
-        }
-      ],
-      "duration_ms": 244586,
-      "name": "Lift My Blues",
-      "url": "https://open.spotify.com/track/0OKGYoLV41gGrNyfNpWlsa"
-    },
-    {
-      "added_at": "2024-07-08 07:31:01",
-      "album": {
         "name": "The Complete Hill Records Collection/United Artists Recordings, 1972-1975",
         "url": "https://open.spotify.com/album/38gFdPttguW1vo0xaYnYYu"
       },
@@ -2103,6 +2087,22 @@
       "duration_ms": 181840,
       "name": "Clean Up America",
       "url": "https://open.spotify.com/track/13vU04HyQYUs9zKumjcXAk"
+    },
+    {
+      "added_at": "2024-07-08 07:31:01",
+      "album": {
+        "name": "Sing Me a Song",
+        "url": "https://open.spotify.com/album/0N6sFugBivjG1IEUlriDHN"
+      },
+      "artists": [
+        {
+          "name": "Sherry Dyanne",
+          "url": "https://open.spotify.com/artist/2JACl2MnidXPb6QeRrsaVB"
+        }
+      ],
+      "duration_ms": 244586,
+      "name": "Lift My Blues",
+      "url": "https://open.spotify.com/track/0OKGYoLV41gGrNyfNpWlsa"
     },
     {
       "added_at": "2024-07-08 07:31:01",
@@ -2211,22 +2211,6 @@
     {
       "added_at": "2024-07-08 07:31:01",
       "album": {
-        "name": "Lovestreet 55",
-        "url": "https://open.spotify.com/album/2OkeAHspKici6uEPr28cNH"
-      },
-      "artists": [
-        {
-          "name": "Boaz",
-          "url": "https://open.spotify.com/artist/0ytyS944Vjixf9O0omhpyd"
-        }
-      ],
-      "duration_ms": 238013,
-      "name": "Lovestreet 55",
-      "url": "https://open.spotify.com/track/7uE1BW7yWMGtlhPMylrJV1"
-    },
-    {
-      "added_at": "2024-07-08 07:31:01",
-      "album": {
         "name": "Loose Fit",
         "url": "https://open.spotify.com/album/50CjNUYxGgbXKVHkVQyGIZ"
       },
@@ -2239,6 +2223,22 @@
       "duration_ms": 223000,
       "name": "Rosie",
       "url": "https://open.spotify.com/track/5gY5mb97G1JZFB8eved6rR"
+    },
+    {
+      "added_at": "2024-07-08 07:31:01",
+      "album": {
+        "name": "Lovestreet 55",
+        "url": "https://open.spotify.com/album/2OkeAHspKici6uEPr28cNH"
+      },
+      "artists": [
+        {
+          "name": "Boaz",
+          "url": "https://open.spotify.com/artist/0ytyS944Vjixf9O0omhpyd"
+        }
+      ],
+      "duration_ms": 238013,
+      "name": "Lovestreet 55",
+      "url": "https://open.spotify.com/track/7uE1BW7yWMGtlhPMylrJV1"
     },
     {
       "added_at": "2024-07-08 07:31:01",
@@ -2311,22 +2311,6 @@
     {
       "added_at": "2024-07-08 07:31:01",
       "album": {
-        "name": "Loose Fit",
-        "url": "https://open.spotify.com/album/50CjNUYxGgbXKVHkVQyGIZ"
-      },
-      "artists": [
-        {
-          "name": "Ruben Hein",
-          "url": "https://open.spotify.com/artist/2O4jyeF4uyGLsGcjY49zbS"
-        }
-      ],
-      "duration_ms": 228533,
-      "name": "Somebody To Love",
-      "url": "https://open.spotify.com/track/5nqhwqequdKtOc5G0gQxRS"
-    },
-    {
-      "added_at": "2024-07-08 07:31:01",
-      "album": {
         "name": "Never My Love: The Anthology",
         "url": "https://open.spotify.com/album/4kINvyMdIqyuXAtpoCKGIO"
       },
@@ -2355,6 +2339,22 @@
       "duration_ms": 178966,
       "name": "Give Me a Reason",
       "url": "https://open.spotify.com/track/59wDvYiusncM52rcGTV8dP"
+    },
+    {
+      "added_at": "2024-07-08 07:31:01",
+      "album": {
+        "name": "Loose Fit",
+        "url": "https://open.spotify.com/album/50CjNUYxGgbXKVHkVQyGIZ"
+      },
+      "artists": [
+        {
+          "name": "Ruben Hein",
+          "url": "https://open.spotify.com/artist/2O4jyeF4uyGLsGcjY49zbS"
+        }
+      ],
+      "duration_ms": 228533,
+      "name": "Somebody To Love",
+      "url": "https://open.spotify.com/track/5nqhwqequdKtOc5G0gQxRS"
     },
     {
       "added_at": "2024-07-08 07:31:01",
@@ -2567,6 +2567,22 @@
     {
       "added_at": "2024-07-08 07:31:01",
       "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/0fgloBlv8EpPqyL4j1W4AO"
+      },
+      "artists": [
+        {
+          "name": "Al Green",
+          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
+        }
+      ],
+      "duration_ms": 303533,
+      "name": "Love And Happiness",
+      "url": "https://open.spotify.com/track/13FkFPnKX1eC2V3nwSy5YB"
+    },
+    {
+      "added_at": "2024-07-08 07:31:01",
+      "album": {
         "name": "The Dude",
         "url": "https://open.spotify.com/album/74BFXeajVUZ7nv3R2030hL"
       },
@@ -2579,6 +2595,22 @@
       "duration_ms": 271906,
       "name": "Just Once",
       "url": "https://open.spotify.com/track/0pXdgGAyShUopblqfzjdCh"
+    },
+    {
+      "added_at": "2024-07-08 07:31:01",
+      "album": {
+        "name": "Naturally",
+        "url": "https://open.spotify.com/album/1ARyfw246YulT9j3B2qfXl"
+      },
+      "artists": [
+        {
+          "name": "Sharon Jones & The Dap-Kings",
+          "url": "https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7"
+        }
+      ],
+      "duration_ms": 271440,
+      "name": "This Land Is Your Land",
+      "url": "https://open.spotify.com/track/1FE45v3BxmGjFiDwuSpeDJ"
     },
     {
       "added_at": "2024-07-08 07:31:01",
@@ -2767,22 +2799,6 @@
     {
       "added_at": "2024-07-08 07:31:01",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/0fgloBlv8EpPqyL4j1W4AO"
-      },
-      "artists": [
-        {
-          "name": "Al Green",
-          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
-        }
-      ],
-      "duration_ms": 303533,
-      "name": "Love And Happiness",
-      "url": "https://open.spotify.com/track/13FkFPnKX1eC2V3nwSy5YB"
-    },
-    {
-      "added_at": "2024-07-08 07:31:01",
-      "album": {
         "name": "Side By Side",
         "url": "https://open.spotify.com/album/6a9XXwWCDcBDoKFZ3uteOg"
       },
@@ -2795,6 +2811,22 @@
       "duration_ms": 256560,
       "name": "Side By Side",
       "url": "https://open.spotify.com/track/3l2yWyV8OOTlhScxYsuIts"
+    },
+    {
+      "added_at": "2024-07-08 07:31:01",
+      "album": {
+        "name": "Satellite Love",
+        "url": "https://open.spotify.com/album/3r1Iys136c5qNKJ8dbEDe1"
+      },
+      "artists": [
+        {
+          "name": "Giovanca",
+          "url": "https://open.spotify.com/artist/1GHgheljbmRBI1NgiDkQ98"
+        }
+      ],
+      "duration_ms": 259640,
+      "name": "Forgive My Soul",
+      "url": "https://open.spotify.com/track/0JY8yEPCX2Ehs5BWIb6Z6K"
     },
     {
       "added_at": "2024-07-08 07:31:01",
@@ -2831,18 +2863,18 @@
     {
       "added_at": "2024-07-08 07:31:01",
       "album": {
-        "name": "Satellite Love",
-        "url": "https://open.spotify.com/album/3r1Iys136c5qNKJ8dbEDe1"
+        "name": "Explores Your Mind",
+        "url": "https://open.spotify.com/album/37ghryiXDoGdHX3eAvhu47"
       },
       "artists": [
         {
-          "name": "Giovanca",
-          "url": "https://open.spotify.com/artist/1GHgheljbmRBI1NgiDkQ98"
+          "name": "Al Green",
+          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
         }
       ],
-      "duration_ms": 259640,
-      "name": "Forgive My Soul",
-      "url": "https://open.spotify.com/track/0JY8yEPCX2Ehs5BWIb6Z6K"
+      "duration_ms": 225373,
+      "name": "Take Me To The River",
+      "url": "https://open.spotify.com/track/7a7drPRRR0mY7kOJDvDWjq"
     },
     {
       "added_at": "2024-07-08 07:31:01",
@@ -2863,22 +2895,6 @@
     {
       "added_at": "2024-07-08 07:31:01",
       "album": {
-        "name": "Explores Your Mind",
-        "url": "https://open.spotify.com/album/37ghryiXDoGdHX3eAvhu47"
-      },
-      "artists": [
-        {
-          "name": "Al Green",
-          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
-        }
-      ],
-      "duration_ms": 225373,
-      "name": "Take Me To The River",
-      "url": "https://open.spotify.com/track/7a7drPRRR0mY7kOJDvDWjq"
-    },
-    {
-      "added_at": "2024-07-08 07:31:01",
-      "album": {
         "name": "Liquid Spirit (Deluxe Version)",
         "url": "https://open.spotify.com/album/4HVY2UGhxlZseyDu3EqcQc"
       },
@@ -2891,22 +2907,6 @@
       "duration_ms": 235573,
       "name": "No Love Dying",
       "url": "https://open.spotify.com/track/0q8Yje436bw3FkzEDNs7qI"
-    },
-    {
-      "added_at": "2024-07-08 07:31:01",
-      "album": {
-        "name": "Naturally",
-        "url": "https://open.spotify.com/album/1ARyfw246YulT9j3B2qfXl"
-      },
-      "artists": [
-        {
-          "name": "Sharon Jones & The Dap-Kings",
-          "url": "https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7"
-        }
-      ],
-      "duration_ms": 271440,
-      "name": "This Land Is Your Land",
-      "url": "https://open.spotify.com/track/1FE45v3BxmGjFiDwuSpeDJ"
     },
     {
       "added_at": "2024-07-08 07:31:01",

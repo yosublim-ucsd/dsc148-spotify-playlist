@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gF89fU9TTk.md) - [plain]
 
 > The best of today's pop worship music\.  Turn the beat up! Cover: <spotify:artist:0qZ8aSF0iMCQI99AAXikF8">ELEVATION RHYTHM</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,511 likes - 90 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,544 likes - 90 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gF89fU9TTk.md) - [plain]
 | 36 | [Breathe Again](https://open.spotify.com/track/5GNdJOo73mL3T4OpqWDKja) | [GaVriel](https://open.spotify.com/artist/1yzYNUGhfMTntAsh9hjuP2) | [Breathe Again](https://open.spotify.com/album/2WafA0UdtpMFMbZvBUrSww) | 3:06 |
 | 37 | [Break Out \- Studio Single](https://open.spotify.com/track/11aBOrLAA0yjNooqF3eWW8) | [Rolling Hills Worship](https://open.spotify.com/artist/19dCe1rplp2csOVqXF6J0M), [Jennifer Akers](https://open.spotify.com/artist/5xPxDbZRCqgGDTNvMlVz8U) | [Break Out](https://open.spotify.com/album/6fHknY4BtYJ5qQ0AgK42wV) | 3:55 |
 | 38 | [Edge of Time \(Bala Mandala Remix\)](https://open.spotify.com/track/4qjDLG7d5gQoE2vkQKOrjz) | [William Matthews](https://open.spotify.com/artist/6xzvt1VigDuN3Qt39YozYA), [Lauren Evans](https://open.spotify.com/artist/3C7ueB5rQVcVfh0ryluAvk), [Bala Mandala](https://open.spotify.com/artist/6wz0tpwgz2ASbD9cWqxb64) | [Edge of Time \(Bala Mandala Remix\)](https://open.spotify.com/album/3lQfdE3f9o8tcERGl6uZeH) | 4:20 |
-| 39 | [The Blessing \- Reyer Remix](https://open.spotify.com/track/3xfDEpTPumLqOWWc26losd) | [Reyer](https://open.spotify.com/artist/54UJV3OPkBfR4V92nsYs1Z), [Skye Reedy](https://open.spotify.com/artist/5IBA7q2IF0hOuRxdPaG65R) | [Worship: The Remix Project, Vol\. 3](https://open.spotify.com/album/1C6zfthwK3pGTdutkBbPkQ) | 3:56 |
-| 40 | [Daylight](https://open.spotify.com/track/6ky2UiOAQkmA1XSKPs11XH) | [Holly Starr](https://open.spotify.com/artist/69vBlxIY9x67fklDVSdpr7) | [Daylight](https://open.spotify.com/album/5eCUUhkGwTF8ovQ0UN3TGa) | 3:20 |
+| 39 | [Daylight](https://open.spotify.com/track/6ky2UiOAQkmA1XSKPs11XH) | [Holly Starr](https://open.spotify.com/artist/69vBlxIY9x67fklDVSdpr7) | [Daylight](https://open.spotify.com/album/5eCUUhkGwTF8ovQ0UN3TGa) | 3:20 |
+| 40 | [The Blessing \- Reyer Remix](https://open.spotify.com/track/3xfDEpTPumLqOWWc26losd) | [Reyer](https://open.spotify.com/artist/54UJV3OPkBfR4V92nsYs1Z), [Skye Reedy](https://open.spotify.com/artist/5IBA7q2IF0hOuRxdPaG65R) | [Worship: The Remix Project, Vol\. 3](https://open.spotify.com/album/1C6zfthwK3pGTdutkBbPkQ) | 3:56 |
 | 41 | [Fearless](https://open.spotify.com/track/1n55LCkjoh6y2fjIVvxpBx) | [Awaken Music](https://open.spotify.com/artist/1QcT7Zc5PsF36V3cEe7ws9) | [Lionheart](https://open.spotify.com/album/4TViMej5PRGCbWnFsi9hRD) | 4:14 |
 | 42 | [Highest Praise](https://open.spotify.com/track/0h13SlJtBTJZvuNNL9GQmM) | [C3LA Music](https://open.spotify.com/artist/2VwsmAPLES2nOaqkg8iKBA) | [Highest Praise](https://open.spotify.com/album/4qzym8XbAyFHXwJkot786Z) | 4:03 |
 | 43 | [Yes He Does](https://open.spotify.com/track/5O5HNh3c2lYctzGMjLCr2M) | [Stars Go Dim](https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3) | [Yes He Does](https://open.spotify.com/album/0IVE74zl2F4p9BVSPYLALo) | 3:26 |
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gF89fU9TTk.md) - [plain]
 | 66 | [No One Else](https://open.spotify.com/track/0kjoiNSuEYu5OkT1iawIvn) | [Audacious Worship](https://open.spotify.com/artist/7DeOhE2vpc4L1SebSy1gUe) | [No One Else](https://open.spotify.com/album/4aOJdzjOMjBQiTOCBVWLUV) | 3:50 |
 | 67 | [Brighter \- Live](https://open.spotify.com/track/2rED5Vu3HINA7kc3paWxJt) | [ARISE Worship](https://open.spotify.com/artist/4Yqk5es0U4Q1A92FpullUi) | [Brighter \(Live\)](https://open.spotify.com/album/5xplj2rt2dXTDWrvXCCPN5) | 3:28 |
 | 68 | [What Else](https://open.spotify.com/track/5omNTlxMUhgLw05noDovfl) | [Mainstream Worship](https://open.spotify.com/artist/2flJ9VtcAFRHlUWdjES6D3), [Sydney James](https://open.spotify.com/artist/0Hv0lVzc1FOqtBajPTUOVQ) | [What Else](https://open.spotify.com/album/5Z85Gw3JnxYzjQCAkreQuu) | 3:35 |
-| 69 | [You Got Me \- Radio Version](https://open.spotify.com/track/5JanbpCjPtVo9AK6DfZYjB) | [ICF Worship](https://open.spotify.com/artist/0uw5aNQFG4WgdsqkElEHrW), [Dominik Laim](https://open.spotify.com/artist/0udPC7cUyylgH64F092xPd) | [You Got Me](https://open.spotify.com/album/6uQDtiVknSKRo1QpnFCNoh) | 3:32 |
-| 70 | [You Are Here \(Studio\)](https://open.spotify.com/track/567dVhDLaA5Opwh557ZSAo) | [CCV Music](https://open.spotify.com/artist/70Gna7fVbm97TQzkkWai3e) | [You Are Here](https://open.spotify.com/album/3yIgUz5UgZZtWw76FTbYSa) | 4:36 |
+| 69 | [You Are Here \(Studio\)](https://open.spotify.com/track/567dVhDLaA5Opwh557ZSAo) | [CCV Music](https://open.spotify.com/artist/70Gna7fVbm97TQzkkWai3e) | [You Are Here](https://open.spotify.com/album/3yIgUz5UgZZtWw76FTbYSa) | 4:36 |
+| 70 | [You Got Me \- Radio Version](https://open.spotify.com/track/5JanbpCjPtVo9AK6DfZYjB) | [ICF Worship](https://open.spotify.com/artist/0uw5aNQFG4WgdsqkElEHrW), [Dominik Laim](https://open.spotify.com/artist/0udPC7cUyylgH64F092xPd) | [You Got Me](https://open.spotify.com/album/6uQDtiVknSKRo1QpnFCNoh) | 3:32 |
 | 71 | [I Am Alive](https://open.spotify.com/track/4GX54jEsDkgxleYUCRfggA) | [SL Worship](https://open.spotify.com/artist/3ZArpBXyBswucER1dfHDKP) | [I Am Alive](https://open.spotify.com/album/5KLDaX1xJuK2N3vOGsCyAR) | 3:48 |
 | 72 | [New Life](https://open.spotify.com/track/32Mbkn7zPmf0XXSyiTz5US) | [FRVR FREE](https://open.spotify.com/artist/5FmI4OG0dMj7m60DsceUrn) | [A Day In The Life](https://open.spotify.com/album/4m2z7CWYbO7uEHI8kFu6wy) | 5:36 |
 | 73 | [Take up My Cross](https://open.spotify.com/track/7CPaUzk8cgVb4u122bchT6) | [Canyon Worship](https://open.spotify.com/artist/34byivaRKITJU1NfWWStSh), [Amanda Riffe](https://open.spotify.com/artist/5HM5gxgsOPrWixDWTHY4q1) | [Take up My Cross](https://open.spotify.com/album/57anwGoRcq8db6qLSp5XB9) | 3:30 |

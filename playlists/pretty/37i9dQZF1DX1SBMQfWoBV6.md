@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1SBMQfWoBV6.md) - [plain]
 
 > Light electronic movements for study, focus and flow.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,259 likes - 75 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,321 likes - 75 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1SBMQfWoBV6.md) - [plain]
 | 72 | [False Angel Lullaby](https://open.spotify.com/track/5Q9QWEZCmxTMTC25HrUaEf) | [X.Y.R.](https://open.spotify.com/artist/6toHLoCsmqKPjtprSVucxz) | [Labyrinth](https://open.spotify.com/album/2uXc2ajokBOxI2FX27icQ9) | 7:24 |
 | 73 | [Vicinities](https://open.spotify.com/track/0GbG6xZEk5vvGGkXyqaAHI) | [Steve Hauschildt](https://open.spotify.com/artist/2L00vHmYcwC9OlsEv6M5UO) | [Where All Is Fled](https://open.spotify.com/album/0DSX1JfPpFz03OmBHJBRsG) | 5:01 |
 | 74 | [In Gleam](https://open.spotify.com/track/65n315tA59gt8sAUdG4Bcc) | [Nadia Khan](https://open.spotify.com/artist/0loiPes37ZaRogGkUvPRNQ) | [In Gleam](https://open.spotify.com/album/2IJI1sCPaJvqx9yInRORd0) | 5:31 |
-| 75 | [Radiance](https://open.spotify.com/track/3x7uXaVxr8f4APs8ztqtZR) | [The Surrealist](https://open.spotify.com/artist/54muyMofzFuDNq0oJfI8Gy) | [Radiance](https://open.spotify.com/album/3z6yDp5T1h1jM1wV9chpqy) | 2:45 |
+| 75 | [solaria\_](https://open.spotify.com/track/3x7uXaVxr8f4APs8ztqtZR) | [The Surrealist](https://open.spotify.com/artist/54muyMofzFuDNq0oJfI8Gy) | [solaria\_](https://open.spotify.com/album/3z6yDp5T1h1jM1wV9chpqy) | 2:45 |
 
 Snapshot ID: `ZvF0PgAAAAALtNyyyVPeOwkXda1OKa47`

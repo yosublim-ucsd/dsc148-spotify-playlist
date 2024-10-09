@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Mason Moy
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,672 likes - 233 songs - 13 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,675 likes - 233 songs - 13 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

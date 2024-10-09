@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUb0uBnlJuTi.md) - [plain]
 
 > Jazz\. But funky\. Cover: Sly5thAve
 
-[Spotify](https://open.spotify.com/user/spotify) - 356,193 likes - 200 songs - 15 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 356,266 likes - 200 songs - 15 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUb0uBnlJuTi.md) - [plain]
 | 60 | [Jimmy's Groove](https://open.spotify.com/track/79eytkCk1dMaHhGr8fcY3P) | [Delvon Lamarr Organ Trio](https://open.spotify.com/artist/7owr01EP6gwCYjnfQtPKy8) | [Jimmy's Groove](https://open.spotify.com/album/4ke86aiMO3AVhBTM3vmdcE) | 6:17 |
 | 61 | [Mulligan](https://open.spotify.com/track/1t8voEpXTk4ZL74poDQ2pp) | [Hip Horns Brass Collective](https://open.spotify.com/artist/7nMM3u8bnwFtQxA2g0uNIv) | [Bram! & Mulligan](https://open.spotify.com/album/2uHl0Qu2xSrrYWC4ngPgeF) | 3:40 |
 | 62 | [Funkier Than A Mosquito's Tweeter](https://open.spotify.com/track/5LlLJHFVVEmjZDvFvpbqHU) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [To Be Free: The Nina Simone Story](https://open.spotify.com/album/1L6mX26giqpJ0IFFW3pSIb) | 5:15 |
-| 63 | [Blues for Ben](https://open.spotify.com/track/5tfAI5PpUlO6wUBW17KYbG) | [Stanton Moore](https://open.spotify.com/artist/7bOHiKCHJ7mPMrSIiLMOIj), [Charlie Hunter](https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc), [Skerik](https://open.spotify.com/artist/00uSjAOZMB626Y0W2ij3Md) | [All Kooked out!](https://open.spotify.com/album/6NnQ67dG6cM88SGs9W3fh7) | 4:59 |
+| 63 | [Blues for Ben](https://open.spotify.com/track/5tfAI5PpUlO6wUBW17KYbG) | [Stanton Moore](https://open.spotify.com/artist/7bOHiKCHJ7mPMrSIiLMOIj), [Charlie Hunter](https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc), [Skerik](https://open.spotify.com/artist/00uSjAOZMB626Y0W2ij3Md), [Matt Perrine](https://open.spotify.com/artist/0VGGoSJ5nWffYusuewbRBt), [Ben Ellman](https://open.spotify.com/artist/7EKeFhgvnTpJCPTDxdNE2k), [Craig Klein](https://open.spotify.com/artist/6jCrDuxxV1VcvdYQ12dWdU), [Michael Ray](https://open.spotify.com/artist/73kCgUvgtaxON0CnIWKJYd) | [All Kooked out!](https://open.spotify.com/album/6NnQ67dG6cM88SGs9W3fh7) | 4:59 |
 | 64 | [May The Funk Be With You](https://open.spotify.com/track/6GkeuiAXhBvPp4WsBgDvmV) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W) | [May The Funk Be With You](https://open.spotify.com/album/5faIHrMfkgStcx4P1MmiKT) | 4:27 |
 | 65 | [Where's the Music](https://open.spotify.com/track/4AARZ2vuYpBYO9fCVJaBnp) | [Medeski, Martin & Wood](https://open.spotify.com/artist/2Hg4SUNDuIn8xIidz9GxFw) | [Let's Go Everywhere](https://open.spotify.com/album/2Y03j0Ty27Ia0Lcee6ZzZk) | 3:14 |
 | 66 | [Moonlight Steppin'](https://open.spotify.com/track/0swFJ7rKt5TAdkRCwuFeRu) | [Louie Zong](https://open.spotify.com/artist/7jOY91ZU7kn86slH3fBbaD) | [Cosmos](https://open.spotify.com/album/65q3JZejRyuXifQXHiO0mC) | 3:13 |

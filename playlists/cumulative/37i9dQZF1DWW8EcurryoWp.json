@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "The best new Irish alternative sounds. Cover: Kynsy",
+  "description": "The best new Irish alternative sounds. Cover: Joe Butler",
   "name": "Alternative Ireland",
   "tracks": [
     {
@@ -275,6 +275,24 @@
     },
     {
       "album": {
+        "name": "XONGZ \u12a0\u1235\u1240\u12eb\u121a \u1321\u1265",
+        "url": "https://open.spotify.com/album/7cl6XSy5M1wlFSFtOqQutC"
+      },
+      "artists": [
+        {
+          "name": "Bricknasty",
+          "url": "https://open.spotify.com/artist/3BcbwxzJm5f0yppgo2Vatd"
+        }
+      ],
+      "date_added": "2024-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174845,
+      "name": "boyfriend",
+      "url": "https://open.spotify.com/track/4rRWj00dK0kN9BZqI6wYY9"
+    },
+    {
+      "album": {
         "name": "Bring Heaven",
         "url": "https://open.spotify.com/album/6cdkEDv8szrzO4SNkYXYmV"
       },
@@ -326,6 +344,24 @@
       "duration_ms": 240189,
       "name": "Chill For The Summer",
       "url": "https://open.spotify.com/track/0sdzs2foIVxCmfMIJZsNhd"
+    },
+    {
+      "album": {
+        "name": "Choose Life",
+        "url": "https://open.spotify.com/album/3Q4tguHJX2uv4gwDLUMTHq"
+      },
+      "artists": [
+        {
+          "name": "Shark School",
+          "url": "https://open.spotify.com/artist/39fpkhOwJADA84IcUobmAh"
+        }
+      ],
+      "date_added": "2024-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241000,
+      "name": "Choose Life",
+      "url": "https://open.spotify.com/track/2oDWs9FrL8N8gw9OjgcLLF"
     },
     {
       "album": {
@@ -1105,6 +1141,24 @@
     },
     {
       "album": {
+        "name": "Projections",
+        "url": "https://open.spotify.com/album/0ldotFY9H4EArDNcNnugZY"
+      },
+      "artists": [
+        {
+          "name": "Maria Somerville",
+          "url": "https://open.spotify.com/artist/5JjgffJf4s4KF29xdEaAQd"
+        }
+      ],
+      "date_added": "2024-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220826,
+      "name": "Projections",
+      "url": "https://open.spotify.com/track/64EYzsKyu2afMlbyIqed29"
+    },
+    {
+      "album": {
         "name": "Prospect",
         "url": "https://open.spotify.com/album/5h8CK1D14urflOzCftKBXn"
       },
@@ -1177,6 +1231,24 @@
     },
     {
       "album": {
+        "name": "RUNAWAY",
+        "url": "https://open.spotify.com/album/3zguSEANWhPXzGCI34R3aX"
+      },
+      "artists": [
+        {
+          "name": "Joe Butler",
+          "url": "https://open.spotify.com/artist/2KSi09E9Ll6vK9aUcbusFw"
+        }
+      ],
+      "date_added": "2024-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151413,
+      "name": "RUNAWAY",
+      "url": "https://open.spotify.com/track/3ElJ5DOaqQEshMnejsX0VQ"
+    },
+    {
+      "album": {
         "name": "runs in my blood",
         "url": "https://open.spotify.com/album/6sU1TRUflPjTTUzFj11Ikx"
       },
@@ -1224,7 +1296,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-09",
       "duration_ms": 309040,
       "name": "See You In a Year and a Half",
       "url": "https://open.spotify.com/track/53JxyMqGibF07pBJ7aA2HJ"
@@ -1236,7 +1308,7 @@
       },
       "artists": [
         {
-          "name": "The Cliffords",
+          "name": "Cliffords",
           "url": "https://open.spotify.com/artist/2JIXE3g9E0kfeFWhpKPIja"
         }
       ],
@@ -1272,7 +1344,7 @@
       },
       "artists": [
         {
-          "name": "The Cliffords",
+          "name": "Cliffords",
           "url": "https://open.spotify.com/artist/2JIXE3g9E0kfeFWhpKPIja"
         }
       ],
@@ -1628,6 +1700,24 @@
       "duration_ms": 226991,
       "name": "Unconditionally",
       "url": "https://open.spotify.com/track/36OMuCJLDppFYMpAiz02gP"
+    },
+    {
+      "album": {
+        "name": "Under My Skin",
+        "url": "https://open.spotify.com/album/1eKbAWza2LQkWIe2PBBjyG"
+      },
+      "artists": [
+        {
+          "name": "NewDad",
+          "url": "https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6"
+        }
+      ],
+      "date_added": "2024-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212125,
+      "name": "Under My Skin",
+      "url": "https://open.spotify.com/track/2YL1nqQAZbiJFey1mwVCXu"
     },
     {
       "album": {

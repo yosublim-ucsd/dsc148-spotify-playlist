@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3186ek.md) - [plain]
 
 > This is Maverick City Music\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,328 likes - 51 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,382 likes - 51 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3186ek.md) - [plain]
 | 50 | [More Than Able \(Anything Is Possible\) \[feat\. Evan Ford\]](https://open.spotify.com/track/33m6XltCJQveJqmS7sI01E) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Evan Ford](https://open.spotify.com/artist/4eoZNWAcavDmUTQIoiPpyk) | [The Maverick Way Reimagined](https://open.spotify.com/album/3Y96T1nmhgU2e4SfkL1el0) | 2:17 |
 | 51 | [Doxology \(feat\. Alton Eugene\)](https://open.spotify.com/track/1e7vIWOyyck23niJBxhdpa) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Alton Eugene](https://open.spotify.com/artist/2wh1cj2CyHkIgAi0DR7ki6) | [Maverick City, Vol\. 1](https://open.spotify.com/album/02rSTsnEzWJOg6yA3cVijt) | 2:19 |
 
-Snapshot ID: `ZwHTAAAAAACT/NPv+oijnDve0+4LTn4q`
+Snapshot ID: `ZwMkgAAAAACFrx4P2+A9CHLZZVZH2Hz1`

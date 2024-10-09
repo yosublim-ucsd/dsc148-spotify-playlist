@@ -4,10 +4,11 @@
 
 > Les plus grands hits français des années 2000\. Photo : Diam's
 
-82 songs - 5 hr 15 min
+83 songs - 5 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [1er Gaou](https://open.spotify.com/track/5ohqZJp2b7HRQ6SWmxnXzU) | [Magic System](https://open.spotify.com/artist/6MvRVq0CtpQQlwnIiszV8F) | [1er Gaou](https://open.spotify.com/album/6AfIwxROlQG3iv2yVDdKUp) | 4:55 | 2024-10-08 |  |
 | [A ma place](https://open.spotify.com/track/4xDGY7Tm3burLInzkhlfTi) | [Axel Bauer](https://open.spotify.com/artist/7H9BHRpRnP55YwZpFLAVmd), [Zazie](https://open.spotify.com/artist/3FLS6y4AR3126l4D06V0ZD) | [Personne N'Est Parfait](https://open.spotify.com/album/6HUlhuwOCeV4Vu9Ad1iFzO) | 5:29 | 2024-01-31 |  |
 | [Allo le monde](https://open.spotify.com/track/5oAh4WgAinKO7T7XcHetLR) | [Pauline](https://open.spotify.com/artist/4zIUBMp6XPcC2rkdtbxwyL) | [Allo le monde](https://open.spotify.com/album/0D2PjanrAYvPHQlh2R7a8v) | 3:38 | 2023-03-06 |  |
 | [Angela](https://open.spotify.com/track/76a47vlZKvdJeotrpMYuvQ) | [Saian Supa Crew](https://open.spotify.com/artist/6XaUaXu0cGAFK1AlQkl1b6) | [Klr](https://open.spotify.com/album/3mGbYjpwZAseVYLmQakxcL) | 3:46 | 2023-03-06 |  |
@@ -75,7 +76,7 @@
 | [Parce qu'on vient de loin](https://open.spotify.com/track/1wthYeOSBWfUYeCqhYcGt0) | [Corneille](https://open.spotify.com/artist/2GBDOaCl73BVUs2RerIme7) | [Parce qu'on vient de loin](https://open.spotify.com/album/5VMa7BgPzwjGfEPiGaJSPv) | 3:52 | 2023-03-06 |  |
 | [Parle\-moi](https://open.spotify.com/track/5A0JnNTjhuvuIQcWD5Pji9) | [Isabelle Boulay](https://open.spotify.com/artist/5gx3I0a3G8F4hui6GZLfQF) | [Mieux qu'ici\-bas](https://open.spotify.com/album/4KVNRCEHCasIovV2xFkIoT) | 3:46 | 2023-03-06 |  |
 | [Petite sœur](https://open.spotify.com/track/5caNvNBHlyOlpBZQXSH9Jd) | [Laam](https://open.spotify.com/artist/2r6iIiC4UZtRdEDxRekU98) | [Petite sœur](https://open.spotify.com/album/0Rv39XV4OxBycL3YTSSAST) | 3:50 | 2023-03-06 |  |
-| [Premier Gaou \- Original Radio Edit](https://open.spotify.com/track/5gdM1wTSYyRus22N6jXeFF) | [Magic System](https://open.spotify.com/artist/6MvRVq0CtpQQlwnIiszV8F), [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN) | [Premier Gaou, The Remixes](https://open.spotify.com/album/3x0yojxFwkpfpGIp6FCI0a) | 3:26 | 2023-03-06 |  |
+| [Premier Gaou \- Original Radio Edit](https://open.spotify.com/track/5gdM1wTSYyRus22N6jXeFF) | [Magic System](https://open.spotify.com/artist/6MvRVq0CtpQQlwnIiszV8F), [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN) | [Premier Gaou, The Remixes](https://open.spotify.com/album/3x0yojxFwkpfpGIp6FCI0a) | 3:26 | 2023-03-06 | 2024-10-09 |
 | [Qui de nous deux](https://open.spotify.com/track/0PZiPbrDCdORrSW6IIICRG) | [\-M\-](https://open.spotify.com/artist/6soPpJHlCtN6SY8pWlfbC6) | [Qui de nous deux](https://open.spotify.com/album/4RGGnIevJw3BObQqMPffAc) | 3:45 | 2023-03-06 |  |
 | [Seul](https://open.spotify.com/track/7MRyru6giOwdtFYL5KQEVq) | [Garou](https://open.spotify.com/artist/1oXtLNYfNMQLxWsatCTCCn) | [Seul](https://open.spotify.com/album/6t0eIKq8adhPxIWP6TWhgP) | 4:41 | 2023-03-06 |  |
 | [Tatoue moi](https://open.spotify.com/track/4ZRY58aEy2TsixskDcEOIJ) | [Mozart Opera Rock](https://open.spotify.com/artist/0xmGtVZjRriA2TVM9oaM61) | [Mozart l'Opera Rock \(standard\)](https://open.spotify.com/album/43GJO1w75ZvUOSVlSPPmOi) | 3:21 | 2023-03-06 |  |

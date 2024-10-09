@@ -2,9 +2,9 @@
 
 ### [Música Mexicana En Vivo](https://open.spotify.com/playlist/37i9dQZF1DWVHIYChxh9sq)
 
-> Música en vivo de tus artistas favoritos del Regional Mexicano\. Portada: Grupo Firme, Hernan Sepulveda.
+> Música en vivo de tus artistas favoritos de la Música Mexicana\. Portada: Carin Leon
 
-480 songs - 1 day 2 hr 33 min
+481 songs - 1 day 2 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,7 +97,7 @@
 | [Cumbia Triste \(Marraneo Time T2\) \- Acústico En Vivo](https://open.spotify.com/track/0EenRXa3ielyyC2lDTrrr4) | [Bronco](https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0), [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [Cumbia Triste \(Marraneo Time T2\) \[Acústico En Vivo\]](https://open.spotify.com/album/7EmuMEtDUMJDXc1HJnxP2b) | 2:49 | 2023-05-25 | 2023-10-17 |
 | [Cómo Este Loco \(En Vivo\)](https://open.spotify.com/track/2lfOKHw5PZ6oSRBM1LdWpd) | [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk), [Julio Preciado](https://open.spotify.com/artist/0YHkeVGRdH0t8skdMxpqp3) | [Yakifest Oasis Vol\. 5 \(En Vivo\)](https://open.spotify.com/album/5iJMnRlnUcuN9GTlGrgJgP) | 4:22 | 2023-03-17 |  |
 | [Cómo Le Hiciste \- En Vivo](https://open.spotify.com/track/5nnHhtQGsH4Ky2mVcRTfpz) | [Costumbre](https://open.spotify.com/artist/4GeHKoBHS3bHLGBUDEi90N), [De Parranda](https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi) | [Cómo Le Hiciste \(En Vivo\)](https://open.spotify.com/album/0E6n6VRiriUxrp9QdVYyAn) | 3:04 | 2023-06-16 | 2023-08-10 |
-| [De Botas O Gabanas \- En Vivo](https://open.spotify.com/track/7CBW962s2j5BSgsNye2YQ7) | [Los Nuevos Originales Del Bajio](https://open.spotify.com/artist/18rmI6HslUFyiOEI9xRlOg) | [De Botas O Gabanas \- En Vivo](https://open.spotify.com/album/4u6foLRlj8VB70D3OarBww) | 2:34 | 2022-12-08 |  |
+| [De Botas O Gabanas \- En Vivo](https://open.spotify.com/track/7CBW962s2j5BSgsNye2YQ7) | [Los Nuevos Originales Del Bajio](https://open.spotify.com/artist/18rmI6HslUFyiOEI9xRlOg) | [De Botas O Gabanas \- En Vivo](https://open.spotify.com/album/4u6foLRlj8VB70D3OarBww) | 2:34 | 2022-12-08 | 2024-10-09 |
 | [De Este Lado \- En Vivo Desde Culiacán, Sinaloa](https://open.spotify.com/track/0IgMqPXpAcZyyMH22mtnfj) | [Adrian Chaparro](https://open.spotify.com/artist/3Y4EQUPoAoMmzHwq4LUYtl) | [De Este Lado \(En Vivo Desde Culiacán, Sinaloa\)](https://open.spotify.com/album/3K6g1swyOb5dO1PaXYFt1G) | 2:34 | 2022-05-12 | 2022-12-09 |
 | [De Lo Más Interesante \- En Vivo](https://open.spotify.com/track/11bCxgcltxjDErax0lBmKi) | [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk), [Chuy Lizarraga y Su Banda Tierra Sinaloense](https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr) | [De Lo Más Interesante \(En Vivo\)](https://open.spotify.com/album/64ussNq7ErhaSSFbSkoKuv) | 2:19 | 2022-05-12 | 2024-04-24 |
 | [De Negro Con Vino](https://open.spotify.com/track/4bMKtEF8u3oK8pYVO3bi0v) | [Grupo Recluta](https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo), [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9), [Banda Farallon](https://open.spotify.com/artist/4aaNcLuTCMPH1arsuejdis) | [De Negro Con Vino](https://open.spotify.com/album/1EynFfQfVD4B3eQCAxZiuS) | 2:37 | 2022-05-12 | 2022-12-09 |
@@ -398,6 +398,7 @@
 | [Popurrí El Primer Tonto / Eres Mi Droga](https://open.spotify.com/track/1M7nsuYEzpzxQDAZcLCEBs) | [Los De La Noria](https://open.spotify.com/artist/4S5t9CJJNjl6zEp5e1OMiO) | [Los De La Noria En Vivo](https://open.spotify.com/album/1FGMR17jQ6VQgsHWDKmWUF) | 4:17 | 2023-03-17 | 2024-04-24 |
 | [Popurrí Y Llegaste Tú/Te Quiero A Morir \- En Vivo](https://open.spotify.com/track/29xpuvcM2swZXOIQ49q6zQ) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Concierto Mundial Digital Live](https://open.spotify.com/album/2gijh9dOUhi9ZmovGBDD3f) | 6:03 | 2022-05-12 | 2024-04-24 |
 | [Por Clave Caiman](https://open.spotify.com/track/78CE12m0ygkEbWpTSNqLOM) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Tomas Ballardo](https://open.spotify.com/artist/3Y4UmopFbGuRYdtGEa5jDZ) | [Por Clave El Caiman](https://open.spotify.com/album/59a9ZTGGKzHDQND5K6g65g) | 2:38 | 2024-04-15 |  |
+| [Por culpa de un tercero \(Spotify OUTSIDE Version\) \- Live from Hermosillo, Sonora, MX](https://open.spotify.com/track/1w0nTizRgdMsoFwGAYhqRg) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [SPOTIFY OUTSIDE](https://open.spotify.com/album/4W5Qu5GaVCuG2igJt2bKDN) | 3:18 | 2024-10-08 |  |
 | [Por Las Calles De Chihuahua](https://open.spotify.com/track/4dZBaYkhSzYta7sbWjftLx) | [Comando Único](https://open.spotify.com/artist/6TGJ5xpxuScTqrVLsUpELK) | [En Vivo, Vol\. 3](https://open.spotify.com/album/1LZhpRZhyKd2cMyetLfbQ3) | 2:42 | 2023-03-17 | 2024-04-24 |
 | [Por Que Te Vas De Mi \- En Vivo](https://open.spotify.com/track/17gXGLgaVeONySly2voFIY) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [Recuerdos Para Pistear \- En Vivo](https://open.spotify.com/album/16fN59xr7T4jknYJRfiH2F) | 3:22 | 2023-03-17 |  |
 | [Por Tu Amor \- En Vivo](https://open.spotify.com/track/46KqzlChHmjRmZQvvxk5dn) | [Los Cazadores Del Cerro](https://open.spotify.com/artist/49hvO5gCq6aWo8a4x147iQ) | [Por Tu Amor \(En Vivo\)](https://open.spotify.com/album/5ops1wzh5py3wKUkqQBcKQ) | 3:36 | 2022-05-12 | 2022-12-09 |

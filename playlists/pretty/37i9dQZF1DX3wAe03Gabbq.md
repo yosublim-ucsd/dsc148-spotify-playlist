@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wAe03Gabbq.md) - [plain]
 
 > Rock Rotation presents..\. Die besten Rock Songs aus 2023\. Cover: Linkin Park
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,736 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,735 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -45,6 +45,28 @@
     },
     {
       "album": {
+        "name": "088",
+        "url": "https://open.spotify.com/album/1sF7DEJq86bQ2zgkKJxaHm"
+      },
+      "artists": [
+        {
+          "name": "Martin",
+          "url": "https://open.spotify.com/artist/4Gk9vGkSFLeNOdom4P0t8N"
+        },
+        {
+          "name": "Mirela",
+          "url": "https://open.spotify.com/artist/4aPsL8sPDTXIR11gYfAb0i"
+        }
+      ],
+      "date_added": "2024-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161086,
+      "name": "088",
+      "url": "https://open.spotify.com/track/2keBOP6Rp3PfbLXrFjNDKq"
+    },
+    {
+      "album": {
         "name": "1 \u043c\u0438\u043b\u0438\u043e\u043d",
         "url": "https://open.spotify.com/album/28t9nnMVI7mJWLWpKnx7Sh"
       },
@@ -502,7 +524,7 @@
       ],
       "date_added": "2024-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-09",
       "duration_ms": 148053,
       "name": "ALL RED",
       "url": "https://open.spotify.com/track/2cZOYofOX4d6g0OXxkaIjA"
@@ -1552,6 +1574,24 @@
       "duration_ms": 145599,
       "name": "Black Friday (pretty like the sun)",
       "url": "https://open.spotify.com/track/4MSj19TwYBLgDFj3ddEeco"
+    },
+    {
+      "album": {
+        "name": "Blame It On The Rain (Sped Up)",
+        "url": "https://open.spotify.com/album/3UbNhgAdGn4wAXSbhvzacp"
+      },
+      "artists": [
+        {
+          "name": "Milli Vanilli",
+          "url": "https://open.spotify.com/artist/3vRclCt9VnNhYIxFMQCxuM"
+        }
+      ],
+      "date_added": "2024-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248533,
+      "name": "Blame It on the Rain",
+      "url": "https://open.spotify.com/track/5ReqKJslVMTo52XRUaVcRq"
     },
     {
       "album": {
@@ -3114,7 +3154,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-09",
       "duration_ms": 135813,
       "name": "Doner Kebab Nacho Alejandro Garnacho",
       "url": "https://open.spotify.com/track/1WVCZ2CaupXNyG0csSwXJi"
@@ -4229,6 +4269,24 @@
     },
     {
       "album": {
+        "name": "GGUM",
+        "url": "https://open.spotify.com/album/2hgOMXg9I7Mk7G58OFAZ1V"
+      },
+      "artists": [
+        {
+          "name": "YEONJUN",
+          "url": "https://open.spotify.com/artist/2Mo2yHjmrDRZW7yRuJwR2w"
+        }
+      ],
+      "date_added": "2024-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151689,
+      "name": "GGUM",
+      "url": "https://open.spotify.com/track/1QPV3QoWw3rRKPeYoX8kO8"
+    },
+    {
+      "album": {
         "name": "You're Invited",
         "url": "https://open.spotify.com/album/0erms21aPII4YFHe9BTEHs"
       },
@@ -4979,6 +5037,28 @@
     },
     {
       "album": {
+        "name": "PLAN A",
+        "url": "https://open.spotify.com/album/6uWva3kfeqqVIsNAJ2MmeL"
+      },
+      "artists": [
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "date_added": "2024-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150204,
+      "name": "I CAN\u2019T LET GO",
+      "url": "https://open.spotify.com/track/1Ftb0PK0Qqwax3gofiMd2X"
+    },
+    {
+      "album": {
         "name": "I Don't Care",
         "url": "https://open.spotify.com/album/456ldpcpi0wEJDNnHQf5hG"
       },
@@ -5048,7 +5128,7 @@
       ],
       "date_added": "2024-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-09",
       "duration_ms": 157146,
       "name": "I Love You, I'm Sorry",
       "url": "https://open.spotify.com/track/51rfRCiUSvxXlCSCfIztBy"
@@ -8156,7 +8236,7 @@
       ],
       "date_added": "2024-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-09",
       "duration_ms": 217333,
       "name": "NEW DROP",
       "url": "https://open.spotify.com/track/2c7z5oRcPBbqRaBY2mLWcf"
@@ -10267,6 +10347,50 @@
     },
     {
       "album": {
+        "name": "Shamari",
+        "url": "https://open.spotify.com/album/3DdbTUZesIeZEvkeJgLQbV"
+      },
+      "artists": [
+        {
+          "name": "Adnan Beats",
+          "url": "https://open.spotify.com/artist/1ZQi4OIO9sYLUzCX3GrLzs"
+        },
+        {
+          "name": "Fari",
+          "url": "https://open.spotify.com/artist/4HmHdRCTh3OfALFlef199A"
+        }
+      ],
+      "date_added": "2024-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183683,
+      "name": "Shamari",
+      "url": "https://open.spotify.com/track/4FN3klQ1CbJo2X4rxbfYRS"
+    },
+    {
+      "album": {
+        "name": "Shampiona",
+        "url": "https://open.spotify.com/album/5yreTpXXfy7joYy8mMYYQP"
+      },
+      "artists": [
+        {
+          "name": "Adnan Beats",
+          "url": "https://open.spotify.com/artist/1ZQi4OIO9sYLUzCX3GrLzs"
+        },
+        {
+          "name": "Avera",
+          "url": "https://open.spotify.com/artist/19l2rFjeAK0wGNNhnPFZBi"
+        }
+      ],
+      "date_added": "2024-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164682,
+      "name": "Shampiona",
+      "url": "https://open.spotify.com/track/6lBPuLvLIJre76b0wQAcLs"
+    },
+    {
+      "album": {
         "name": "She Know What She Wanted (Jersey Club Remix Slowed)",
         "url": "https://open.spotify.com/album/5q3J1gqVyTvChtFf8EJKQk"
       },
@@ -10534,7 +10658,7 @@
       ],
       "date_added": "2024-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-09",
       "duration_ms": 183999,
       "name": "Si Ai - Marshmello & UKAY Remix",
       "url": "https://open.spotify.com/track/6QiMlAAWY6CV1ItB9oAgF2"
@@ -14167,6 +14291,24 @@
     },
     {
       "album": {
+        "name": "ZA NEGO",
+        "url": "https://open.spotify.com/album/2DpZsaxdpcCv37gFQLzJTa"
+      },
+      "artists": [
+        {
+          "name": "Kotenceto",
+          "url": "https://open.spotify.com/artist/1yxLPqI8RMcczR0u8y9tBf"
+        }
+      ],
+      "date_added": "2024-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152245,
+      "name": "ZA NEGO",
+      "url": "https://open.spotify.com/track/2gPbnPTNojTUPhYTEeh3tw"
+    },
+    {
+      "album": {
         "name": "Zakachen",
         "url": "https://open.spotify.com/album/5AlHkEVB2Lsx9lNruKiNSL"
       },
@@ -14555,6 +14697,24 @@
     },
     {
       "album": {
+        "name": "\u0422\u0430\u0437\u0438 \u0441\u0442\u0430\u044f",
+        "url": "https://open.spotify.com/album/1AeWYML5ScLCkW7rXvglQq"
+      },
+      "artists": [
+        {
+          "name": "Dara Ekimova",
+          "url": "https://open.spotify.com/artist/1ow8YzLZ6aRPqE2zev82sa"
+        }
+      ],
+      "date_added": "2024-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159126,
+      "name": "\u0412\u0441\u0438\u0447\u043a\u043e \u0442\u0438 \u0434\u0430\u0432\u0430\u043c",
+      "url": "https://open.spotify.com/track/3XbbWZNyLOH9zayA2d7p7U"
+    },
+    {
+      "album": {
         "name": "\u0411\u041b\u041e\u041a 5",
         "url": "https://open.spotify.com/album/0T1sFR74NGDzFxS8to0n4e"
       },
@@ -14588,7 +14748,7 @@
       ],
       "date_added": "2024-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-09",
       "duration_ms": 306493,
       "name": "\u0413\u0434\u0435 \u0442\u044b \u0442\u0435\u043f\u0435\u0440\u044c \u0438 \u0441 \u043a\u0435\u043c",
       "url": "https://open.spotify.com/track/7zKRBfhF6CABVsc8b1spJ0"
@@ -15296,7 +15456,7 @@
       ],
       "date_added": "2024-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-09",
       "duration_ms": 217360,
       "name": "\u041d\u0430\u0432\u044a\u0442\u0440\u0435 \u0432 \u043c\u0435\u043d",
       "url": "https://open.spotify.com/track/7hWVFOo0ElAsL98FNqO1Zw"
@@ -16062,7 +16222,7 @@
       ],
       "date_added": "2024-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-09",
       "duration_ms": 162758,
       "name": "\u042f\u043c \u043f\u0430\u0440\u043a\u0435\u0442\u0430",
       "url": "https://open.spotify.com/track/1lVyaRHwjyoWd9YZqybJEq"

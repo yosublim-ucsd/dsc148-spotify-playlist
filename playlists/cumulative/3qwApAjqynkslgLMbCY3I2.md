@@ -4,7 +4,7 @@
 
 > 
 
-19 songs - 1 hr 12 min
+20 songs - 1 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,9 +23,10 @@
 | [Macarena](https://open.spotify.com/track/7tNTW9aoi0qVC1z2qPJmQG) | [The Girly Team](https://open.spotify.com/artist/6LnZffWDAUGmBcjpIKTcAc) | [Just Dance \(Original Creations & Covers from the Video Game\)](https://open.spotify.com/album/5DoLpuz7CsJ6Otn2GgO5Q8) | 2:45 | 2022-05-06 |  |
 | [Mr\. Brightside](https://open.spotify.com/track/003vvx7Niy0yvhvHt4a68B) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Hot Fuss](https://open.spotify.com/album/4piJq7R3gjUOxnYs6lDCTg) | 3:42 | 2024-02-26 |  |
 | [Oops!...I Did It Again](https://open.spotify.com/track/6naxalmIoLFWR0siv8dnQQ) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Oops!..\. I Did It Again](https://open.spotify.com/album/5PmgtkodFl2Om3hMXONDll) | 3:31 | 2022-05-06 |  |
+| [overwhelmed](https://open.spotify.com/track/5jjZikDrEd0by1o7V3fO4y) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [Overwhelmed](https://open.spotify.com/album/7E7HRywUyuqW5qH793yPbP) | 2:39 | 2024-10-08 |  |
 | [Starships](https://open.spotify.com/track/1oHNvJVbFkexQc0BpQp7Y4) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Pink Friday ..\. Roman Reloaded](https://open.spotify.com/album/6OfCOPtcPuhlAovGJ52uZO) | 3:30 | 2023-11-15 |  |
 | [Summer](https://open.spotify.com/track/6YUTL4dYpB9xZO5qExPf05) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [Motion](https://open.spotify.com/album/48zisMeiXniWLzOQghbPqS) | 3:42 | 2024-09-15 |  |
-| [Swish and Flick](https://open.spotify.com/track/33AJtAYowkj26zxLwKQiHo) | [LetsNotMedia](https://open.spotify.com/artist/2RqscDgZKFsgoEcdwkFRm4) | [Swish and Flick](https://open.spotify.com/album/7lir0ikwp20VqXf8NBe8eX) | 3:36 | 2022-05-12 |  |
+| [Swish and Flick](https://open.spotify.com/track/33AJtAYowkj26zxLwKQiHo) | [LetsNotMedia](https://open.spotify.com/artist/2RqscDgZKFsgoEcdwkFRm4) | [Swish and Flick](https://open.spotify.com/album/7lir0ikwp20VqXf8NBe8eX) | 3:36 | 2022-05-12 | 2024-10-09 |
 | [Toxic](https://open.spotify.com/track/6I9VzXrHxO9rA9A5euc8Ak) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [In The Zone](https://open.spotify.com/album/0z7pVBGOD7HCIB7S8eLkLI) | 3:18 | 2024-09-15 |  |
 
 \*This playlist was first scraped on 2024-01-09. Prior content cannot be recovered.

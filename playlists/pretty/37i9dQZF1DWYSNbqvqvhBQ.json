@@ -1,15 +1,15 @@
 {
   "description": "De mooiste liedjes van het moment. Cover: HAEVN",
-  "num_followers": 471162,
+  "num_followers": 471114,
   "original_name": "Blijf Luisteren",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwPDMwAAAAAYje7q+3mvyS8sRZNLqktn",
+  "snapshot_id": "ZwWrYAAAAAC1xNkc2JTN5AmYr779X9wZ",
   "tracks": [
     {
-      "added_at": "2024-10-03 22:00:00",
+      "added_at": "2024-10-08 22:00:00",
       "album": {
         "name": "Great Mother",
         "url": "https://open.spotify.com/album/1YAPjGmiG8biVJ3gG0VpG8"
@@ -29,7 +29,23 @@
       "url": "https://open.spotify.com/track/6asUfv4GXmItT5xVtFb4EZ"
     },
     {
-      "added_at": "2024-10-03 22:00:00",
+      "added_at": "2024-10-08 22:00:00",
+      "album": {
+        "name": "It Is What It Is",
+        "url": "https://open.spotify.com/album/5M84TQMlBTgqPZej6KCvVd"
+      },
+      "artists": [
+        {
+          "name": "Racoon",
+          "url": "https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza"
+        }
+      ],
+      "duration_ms": 229182,
+      "name": "It Is What It Is",
+      "url": "https://open.spotify.com/track/6PHprgr1SWomux41HzaXIM"
+    },
+    {
+      "added_at": "2024-10-08 22:00:00",
       "album": {
         "name": "Mycose",
         "url": "https://open.spotify.com/album/21l9Sw84AOYGYfgBe3QBk5"
@@ -45,7 +61,23 @@
       "url": "https://open.spotify.com/track/4aZtYe0lgo5T46jX31CXhj"
     },
     {
-      "added_at": "2024-10-03 22:00:00",
+      "added_at": "2024-10-08 22:00:00",
+      "album": {
+        "name": "In Love",
+        "url": "https://open.spotify.com/album/1eBSt3H2N9n44CDgT1h2Ns"
+      },
+      "artists": [
+        {
+          "name": "DeWolff",
+          "url": "https://open.spotify.com/artist/1OHnmln4huMiBLyxBHNx0k"
+        }
+      ],
+      "duration_ms": 192600,
+      "name": "In Love",
+      "url": "https://open.spotify.com/track/0tiG850FhkXJrM0F1dN1vx"
+    },
+    {
+      "added_at": "2024-10-08 22:00:00",
       "album": {
         "name": "Higher",
         "url": "https://open.spotify.com/album/2Yfh7AQ5WbJFv6RwIAbJck"
@@ -61,7 +93,7 @@
       "url": "https://open.spotify.com/track/5PR3cK0y8Y8XikFxLnDkrm"
     },
     {
-      "added_at": "2024-10-03 22:00:00",
+      "added_at": "2024-10-08 22:00:00",
       "album": {
         "name": "Bad Dreams",
         "url": "https://open.spotify.com/album/2VxQFEEnhwiV5LpMuHKViR"
@@ -77,7 +109,7 @@
       "url": "https://open.spotify.com/track/3nHuKdFJZm78CoeBnDcFKe"
     },
     {
-      "added_at": "2024-10-03 22:00:00",
+      "added_at": "2024-10-08 22:00:00",
       "album": {
         "name": "Vivo Por Ella (feat. KAROL G)",
         "url": "https://open.spotify.com/album/57WjrGotxjy4Wh2CEHZSMl"
@@ -97,7 +129,7 @@
       "url": "https://open.spotify.com/track/0XG0M7286ZdcOflyehbXmS"
     },
     {
-      "added_at": "2024-10-03 22:00:00",
+      "added_at": "2024-10-08 22:00:00",
       "album": {
         "name": "Up All Night",
         "url": "https://open.spotify.com/album/1HHb15TOhnSn5m8UDheP3s"
@@ -121,7 +153,23 @@
       "url": "https://open.spotify.com/track/4fZ07aBMo69QTEKo4OC4Dz"
     },
     {
-      "added_at": "2024-10-03 22:00:00",
+      "added_at": "2024-10-08 22:00:00",
+      "album": {
+        "name": "Chameleon",
+        "url": "https://open.spotify.com/album/6TWKVr6ZbFwVsxHstHnCkI"
+      },
+      "artists": [
+        {
+          "name": "Jana Mila",
+          "url": "https://open.spotify.com/artist/1roi4E4kE3vXaKxQ2n5aKB"
+        }
+      ],
+      "duration_ms": 203813,
+      "name": "I Wasn\u2019t Gonna",
+      "url": "https://open.spotify.com/track/7M3zFT6CPIQmCwpPhyzRIp"
+    },
+    {
+      "added_at": "2024-10-08 22:00:00",
       "album": {
         "name": "Time Is A Thief",
         "url": "https://open.spotify.com/album/18vdZLk46OxHGHqnTAw22c"
@@ -137,7 +185,7 @@
       "url": "https://open.spotify.com/track/4xvAFLRzwUrr3Ul4jBdEJo"
     },
     {
-      "added_at": "2024-10-03 22:00:00",
+      "added_at": "2024-10-08 22:00:00",
       "album": {
         "name": "Dancing On My Feelings",
         "url": "https://open.spotify.com/album/7wclxbfcMy8Luc0iDxBvaE"
@@ -153,7 +201,7 @@
       "url": "https://open.spotify.com/track/59KTcLNAkcoNs9EHoDHbdT"
     },
     {
-      "added_at": "2024-10-03 22:00:00",
+      "added_at": "2024-10-08 22:00:00",
       "album": {
         "name": "Wonderful World",
         "url": "https://open.spotify.com/album/2kwfiuCGxb661CKIBSWLK4"
@@ -169,23 +217,7 @@
       "url": "https://open.spotify.com/track/5ZlXMsa5agAYYy1iUMK2Z5"
     },
     {
-      "added_at": "2024-10-03 22:00:00",
-      "album": {
-        "name": "The Ones We Seek",
-        "url": "https://open.spotify.com/album/2Af8iQCdiVQUjW7RTy15Kc"
-      },
-      "artists": [
-        {
-          "name": "Racoon",
-          "url": "https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza"
-        }
-      ],
-      "duration_ms": 274955,
-      "name": "The Ones We Seek",
-      "url": "https://open.spotify.com/track/63H0KKB9i7QO0bchVPffRm"
-    },
-    {
-      "added_at": "2024-10-03 22:00:00",
+      "added_at": "2024-10-08 22:00:00",
       "album": {
         "name": "Lowdown",
         "url": "https://open.spotify.com/album/3zAcB7KWAlpwoykugIGlcS"
@@ -201,7 +233,7 @@
       "url": "https://open.spotify.com/track/0gzP9UNr5OlCZWXhbsUaRs"
     },
     {
-      "added_at": "2024-10-03 22:00:00",
+      "added_at": "2024-10-08 22:00:00",
       "album": {
         "name": "Levenslang",
         "url": "https://open.spotify.com/album/6SgbamvUI8Nzuhw7NIEW5s"
@@ -217,7 +249,7 @@
       "url": "https://open.spotify.com/track/1Vk4hsnhJAgZxZDRG9jThx"
     },
     {
-      "added_at": "2024-10-03 22:00:00",
+      "added_at": "2024-10-08 22:00:00",
       "album": {
         "name": "Nowhere Land",
         "url": "https://open.spotify.com/album/6tjCEVetoGY7QpT48AtF3W"
@@ -233,7 +265,7 @@
       "url": "https://open.spotify.com/track/2dGEIUrdFbP20hpdoa3U0j"
     },
     {
-      "added_at": "2024-10-03 22:00:00",
+      "added_at": "2024-10-08 22:00:00",
       "album": {
         "name": "Think I'm In Love With You (With Dua Lipa) (Live From The 59th ACM Awards)",
         "url": "https://open.spotify.com/album/3pjMBXbDLg2oGL7HtVxWgY"
@@ -253,23 +285,23 @@
       "url": "https://open.spotify.com/track/69zgu5rlAie3IPZOEXLxyS"
     },
     {
-      "added_at": "2024-10-03 22:00:00",
+      "added_at": "2024-10-08 22:00:00",
       "album": {
-        "name": "feelslikeimfallinginlove",
-        "url": "https://open.spotify.com/album/6RjTapeTvms8jSeIRGc5Ve"
+        "name": "Pocket",
+        "url": "https://open.spotify.com/album/54k3VeImklBEjV3faF7OjP"
       },
       "artists": [
         {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+          "name": "Rag'n'Bone Man",
+          "url": "https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf"
         }
       ],
-      "duration_ms": 237803,
-      "name": "feelslikeimfallinginlove - Single Version",
-      "url": "https://open.spotify.com/track/1YsU8rW2u8z4F0pwOBQ4Ea"
+      "duration_ms": 205887,
+      "name": "Pocket",
+      "url": "https://open.spotify.com/track/4yhCi2ZN3L3OLkgipYvbkg"
     },
     {
-      "added_at": "2024-10-03 22:00:00",
+      "added_at": "2024-10-08 22:00:00",
       "album": {
         "name": "I Believe",
         "url": "https://open.spotify.com/album/3cZYZeskSVIYAUdBYarTCE"
@@ -285,7 +317,7 @@
       "url": "https://open.spotify.com/track/2OWWVJ4aCJfaATMozLKkQz"
     },
     {
-      "added_at": "2024-10-03 22:00:00",
+      "added_at": "2024-10-08 22:00:00",
       "album": {
         "name": "Peaceful Place",
         "url": "https://open.spotify.com/album/6ZJwX0ETt1mAZReAEDbI3X"
@@ -301,7 +333,7 @@
       "url": "https://open.spotify.com/track/2OiJ2pEQlLPnOywokPkG4N"
     },
     {
-      "added_at": "2024-10-03 22:00:00",
+      "added_at": "2024-10-08 22:00:00",
       "album": {
         "name": "Wait For You",
         "url": "https://open.spotify.com/album/0xBVvz5KOwJtgrc9sFpnwQ"
@@ -317,23 +349,7 @@
       "url": "https://open.spotify.com/track/0JjecOzaIzBTfIY35QGmgw"
     },
     {
-      "added_at": "2024-10-03 22:00:00",
-      "album": {
-        "name": "Chameleon",
-        "url": "https://open.spotify.com/album/6TWKVr6ZbFwVsxHstHnCkI"
-      },
-      "artists": [
-        {
-          "name": "Jana Mila",
-          "url": "https://open.spotify.com/artist/1roi4E4kE3vXaKxQ2n5aKB"
-        }
-      ],
-      "duration_ms": 203813,
-      "name": "I Wasn\u2019t Gonna",
-      "url": "https://open.spotify.com/track/7M3zFT6CPIQmCwpPhyzRIp"
-    },
-    {
-      "added_at": "2024-10-03 22:00:00",
+      "added_at": "2024-10-08 22:00:00",
       "album": {
         "name": "Free For Another Day",
         "url": "https://open.spotify.com/album/3aER22kJjTQAiiLNGfnuRr"
@@ -349,7 +365,7 @@
       "url": "https://open.spotify.com/track/3ouNQOmQUd1swZpXWFlMPe"
     },
     {
-      "added_at": "2024-10-03 22:00:00",
+      "added_at": "2024-10-08 22:00:00",
       "album": {
         "name": "Sphinx",
         "url": "https://open.spotify.com/album/65aaWX8pDif9qt6u4kNPpq"
@@ -365,7 +381,7 @@
       "url": "https://open.spotify.com/track/0XFPoeF4wAc2lBckxnoKdP"
     },
     {
-      "added_at": "2024-10-03 22:00:00",
+      "added_at": "2024-10-08 22:00:00",
       "album": {
         "name": "What Makes A King",
         "url": "https://open.spotify.com/album/59ZHtyohHl6rHbajav5ofK"
@@ -381,7 +397,7 @@
       "url": "https://open.spotify.com/track/0quGcjPmKx83IghLfgcS3P"
     },
     {
-      "added_at": "2024-10-03 22:00:00",
+      "added_at": "2024-10-08 22:00:00",
       "album": {
         "name": "Live at Montreux Jazz Festival",
         "url": "https://open.spotify.com/album/0uqyhvc8HEyztLSTE8RKmx"
@@ -397,7 +413,7 @@
       "url": "https://open.spotify.com/track/6L1bCa0ff2yknczfXwPLId"
     },
     {
-      "added_at": "2024-10-03 22:00:00",
+      "added_at": "2024-10-08 22:00:00",
       "album": {
         "name": "Guy For That",
         "url": "https://open.spotify.com/album/6w0ujcFPqoqOzgzYsUWYXJ"
@@ -417,23 +433,7 @@
       "url": "https://open.spotify.com/track/5crxqqibcvoOQQgg4HjAFQ"
     },
     {
-      "added_at": "2024-10-03 22:00:00",
-      "album": {
-        "name": "It Is What It Is",
-        "url": "https://open.spotify.com/album/5M84TQMlBTgqPZej6KCvVd"
-      },
-      "artists": [
-        {
-          "name": "Racoon",
-          "url": "https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza"
-        }
-      ],
-      "duration_ms": 229182,
-      "name": "It Is What It Is",
-      "url": "https://open.spotify.com/track/6PHprgr1SWomux41HzaXIM"
-    },
-    {
-      "added_at": "2024-10-03 22:00:00",
+      "added_at": "2024-10-08 22:00:00",
       "album": {
         "name": "Sunkissed",
         "url": "https://open.spotify.com/album/5IxTreJqAgwytAjsGZDSNV"
@@ -449,7 +449,7 @@
       "url": "https://open.spotify.com/track/5Z50CiMHjQ5bk013yfWeTU"
     },
     {
-      "added_at": "2024-10-03 22:00:00",
+      "added_at": "2024-10-08 22:00:00",
       "album": {
         "name": "Never Know",
         "url": "https://open.spotify.com/album/75LO9PTwpX345DOk6EFwcc"
@@ -465,7 +465,7 @@
       "url": "https://open.spotify.com/track/0rMNU9aAfSDYNgKH91HJr1"
     },
     {
-      "added_at": "2024-10-03 22:00:00",
+      "added_at": "2024-10-08 22:00:00",
       "album": {
         "name": "Love Is Alive",
         "url": "https://open.spotify.com/album/04IS7MIusxRYUsuecyTqVR"
@@ -481,7 +481,7 @@
       "url": "https://open.spotify.com/track/1Dk2urUIeWH6A6tUHygDlQ"
     },
     {
-      "added_at": "2024-10-03 22:00:00",
+      "added_at": "2024-10-08 22:00:00",
       "album": {
         "name": "The Dichotomy",
         "url": "https://open.spotify.com/album/4F2fCQJXXGfpKsoudFrjDW"
@@ -497,7 +497,7 @@
       "url": "https://open.spotify.com/track/3b1s3Ywg0laGsNHCpUBhrl"
     },
     {
-      "added_at": "2024-10-03 22:00:00",
+      "added_at": "2024-10-08 22:00:00",
       "album": {
         "name": "Changing Colors",
         "url": "https://open.spotify.com/album/4UZeGiooq573yVWCAB4gu4"
@@ -513,7 +513,7 @@
       "url": "https://open.spotify.com/track/6ud0JHI4L7O5wXYsxXsmpQ"
     },
     {
-      "added_at": "2024-10-03 22:00:00",
+      "added_at": "2024-10-08 22:00:00",
       "album": {
         "name": "Heavy",
         "url": "https://open.spotify.com/album/53vlkY1WXAW0MWRgGqR74z"
@@ -533,7 +533,7 @@
       "url": "https://open.spotify.com/track/0aw9eYHRnhcOCKRGUmg8mB"
     },
     {
-      "added_at": "2024-10-03 22:00:00",
+      "added_at": "2024-10-08 22:00:00",
       "album": {
         "name": "Tainted",
         "url": "https://open.spotify.com/album/1LSZphyIjbXDJ2nTUECsSg"
@@ -549,7 +549,7 @@
       "url": "https://open.spotify.com/track/3qyL58GhGGIEOYfBUGeit9"
     },
     {
-      "added_at": "2024-10-03 22:00:00",
+      "added_at": "2024-10-08 22:00:00",
       "album": {
         "name": "Funeral",
         "url": "https://open.spotify.com/album/2B4mk9YhSBZYi5fjLKVvr2"
@@ -565,7 +565,7 @@
       "url": "https://open.spotify.com/track/4m1xjbJPiWDy1IRPe9PbPZ"
     },
     {
-      "added_at": "2024-10-03 22:00:00",
+      "added_at": "2024-10-08 22:00:00",
       "album": {
         "name": "Clancy",
         "url": "https://open.spotify.com/album/1KFWgQTw3EMTQebaaepVBI"
@@ -581,7 +581,7 @@
       "url": "https://open.spotify.com/track/4bDIAWaOBGAAk95nyXI6zJ"
     },
     {
-      "added_at": "2024-10-03 22:00:00",
+      "added_at": "2024-10-08 22:00:00",
       "album": {
         "name": "Live From Fenway Park",
         "url": "https://open.spotify.com/album/6o5iGTU8HzbS6LFGI8LPa6"
@@ -597,7 +597,7 @@
       "url": "https://open.spotify.com/track/1XUlg6YCcns9gsJAB4DoFi"
     },
     {
-      "added_at": "2024-10-03 22:00:00",
+      "added_at": "2024-10-08 22:00:00",
       "album": {
         "name": "somebody's daughter",
         "url": "https://open.spotify.com/album/3QGCPkdYR0ciqEgq9pgplK"
@@ -613,7 +613,7 @@
       "url": "https://open.spotify.com/track/6IEtI05pJzht8zp6u5P9kv"
     },
     {
-      "added_at": "2024-10-03 22:00:00",
+      "added_at": "2024-10-08 22:00:00",
       "album": {
         "name": "South of Here",
         "url": "https://open.spotify.com/album/1LOWCHNR8jAauJd35jafkN"
@@ -629,7 +629,7 @@
       "url": "https://open.spotify.com/track/4TY6NaYVnusU8E4W2gfIQu"
     },
     {
-      "added_at": "2024-10-03 22:00:00",
+      "added_at": "2024-10-08 22:00:00",
       "album": {
         "name": "At Your Feet",
         "url": "https://open.spotify.com/album/7HN3dt0fbRyXWI1wFPqv7J"
@@ -645,7 +645,7 @@
       "url": "https://open.spotify.com/track/57BolP2qJD7CdKa7rZ8Uvm"
     },
     {
-      "added_at": "2024-10-03 22:00:00",
+      "added_at": "2024-10-08 22:00:00",
       "album": {
         "name": "Hopes Up High",
         "url": "https://open.spotify.com/album/7yvTMWbeey4t2c1PenHJPU"
@@ -661,7 +661,7 @@
       "url": "https://open.spotify.com/track/5mIx6DqNDX5g7Ms29tCQAB"
     },
     {
-      "added_at": "2024-10-03 22:00:00",
+      "added_at": "2024-10-08 22:00:00",
       "album": {
         "name": "The Indien",
         "url": "https://open.spotify.com/album/05PciBASYTdhW356MVCSLS"
@@ -677,7 +677,23 @@
       "url": "https://open.spotify.com/track/7qoy1PDbdn85kXaMwtZT2U"
     },
     {
-      "added_at": "2024-10-03 22:00:00",
+      "added_at": "2024-10-08 22:00:00",
+      "album": {
+        "name": "feelslikeimfallinginlove",
+        "url": "https://open.spotify.com/album/6RjTapeTvms8jSeIRGc5Ve"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 237803,
+      "name": "feelslikeimfallinginlove - Single Version",
+      "url": "https://open.spotify.com/track/1YsU8rW2u8z4F0pwOBQ4Ea"
+    },
+    {
+      "added_at": "2024-10-08 22:00:00",
       "album": {
         "name": "Nearness of You",
         "url": "https://open.spotify.com/album/69hePKG2dE7jrvHuMsCz3X"
@@ -693,7 +709,7 @@
       "url": "https://open.spotify.com/track/2G6U94s65dWkZPj7dr9vJ1"
     },
     {
-      "added_at": "2024-10-03 22:00:00",
+      "added_at": "2024-10-08 22:00:00",
       "album": {
         "name": "I Wrote Your Name (Upon My Heart)",
         "url": "https://open.spotify.com/album/6eZoMvARr3RHr8Xmteqcnu"
@@ -709,7 +725,7 @@
       "url": "https://open.spotify.com/track/6x52Hw5bZEpGbp3Ir6k7FJ"
     },
     {
-      "added_at": "2024-10-03 22:00:00",
+      "added_at": "2024-10-08 22:00:00",
       "album": {
         "name": "Overpass Graffiti",
         "url": "https://open.spotify.com/album/0lz2zuY0L8gcJKGTWyw0q9"
@@ -729,7 +745,27 @@
       "url": "https://open.spotify.com/track/0HDQnAQQa0NrKt4q6SqF6a"
     },
     {
-      "added_at": "2024-10-03 22:00:00",
+      "added_at": "2024-10-08 22:00:00",
+      "album": {
+        "name": "Joker: Folie \u00e0 Deux (Music From The Motion Picture)",
+        "url": "https://open.spotify.com/album/3X2oYJbZtrmszmNeXRpckc"
+      },
+      "artists": [
+        {
+          "name": "Joaquin Phoenix",
+          "url": "https://open.spotify.com/artist/3j507n6aQUbtVxQv2Q6Usv"
+        },
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "duration_ms": 109680,
+      "name": "To Love Somebody - Music From The Motion Picture",
+      "url": "https://open.spotify.com/track/7FyQqFixAnYRi64pcM63Nx"
+    },
+    {
+      "added_at": "2024-10-08 22:00:00",
       "album": {
         "name": "No Kissing on a Sunday",
         "url": "https://open.spotify.com/album/0EBnq9XaLu959Vk7KouxCI"
@@ -745,7 +781,7 @@
       "url": "https://open.spotify.com/track/4M7BI4GsetqLGX69OCj1eK"
     },
     {
-      "added_at": "2024-10-03 22:00:00",
+      "added_at": "2024-10-08 22:00:00",
       "album": {
         "name": "Somebody Else's",
         "url": "https://open.spotify.com/album/31ruqJWGHD6c3d45HUGPcy"
@@ -761,7 +797,7 @@
       "url": "https://open.spotify.com/track/23MKdzfnkrDggafK7JWOHj"
     },
     {
-      "added_at": "2024-10-03 22:00:00",
+      "added_at": "2024-10-08 22:00:00",
       "album": {
         "name": "Happier",
         "url": "https://open.spotify.com/album/0x4VuEWDa0rZL5dPB479IY"
@@ -777,7 +813,7 @@
       "url": "https://open.spotify.com/track/0lMItH5HpATvitHJztrY00"
     },
     {
-      "added_at": "2024-10-03 22:00:00",
+      "added_at": "2024-10-08 22:00:00",
       "album": {
         "name": "Cold Summer",
         "url": "https://open.spotify.com/album/1t5svLayuVhJFZ7KZKlLAK"
@@ -793,7 +829,7 @@
       "url": "https://open.spotify.com/track/1pzU73UQLA3PhwwBQLQZPC"
     },
     {
-      "added_at": "2024-10-03 22:00:00",
+      "added_at": "2024-10-08 22:00:00",
       "album": {
         "name": "Give You the World",
         "url": "https://open.spotify.com/album/73b9Doft1XSfao2EjyUEhh"
@@ -809,23 +845,7 @@
       "url": "https://open.spotify.com/track/77VRjAUqg8NRlBYv9kHJiG"
     },
     {
-      "added_at": "2024-10-03 22:00:00",
-      "album": {
-        "name": "In Love",
-        "url": "https://open.spotify.com/album/1eBSt3H2N9n44CDgT1h2Ns"
-      },
-      "artists": [
-        {
-          "name": "DeWolff",
-          "url": "https://open.spotify.com/artist/1OHnmln4huMiBLyxBHNx0k"
-        }
-      ],
-      "duration_ms": 192600,
-      "name": "In Love",
-      "url": "https://open.spotify.com/track/0tiG850FhkXJrM0F1dN1vx"
-    },
-    {
-      "added_at": "2024-10-03 22:00:00",
+      "added_at": "2024-10-08 22:00:00",
       "album": {
         "name": "Start A Fire",
         "url": "https://open.spotify.com/album/0yIsfDWJU6NNtvQVIxUs0O"
@@ -841,7 +861,7 @@
       "url": "https://open.spotify.com/track/7lX2NUl49sK7IRcSaDvyW2"
     },
     {
-      "added_at": "2024-10-03 22:00:00",
+      "added_at": "2024-10-08 22:00:00",
       "album": {
         "name": "House of Bones",
         "url": "https://open.spotify.com/album/4N0ToZAG8KoYHYquWpSRJD"
@@ -857,7 +877,7 @@
       "url": "https://open.spotify.com/track/5CCZF5sZ8q08ehBckPxQ3W"
     },
     {
-      "added_at": "2024-10-03 22:00:00",
+      "added_at": "2024-10-08 22:00:00",
       "album": {
         "name": "What Do You Believe In?",
         "url": "https://open.spotify.com/album/63c9Ujs0fkzuFi6OkDG7cP"
@@ -873,7 +893,7 @@
       "url": "https://open.spotify.com/track/2j5YYik2gA3Z7FgH3NiybN"
     },
     {
-      "added_at": "2024-10-03 22:00:00",
+      "added_at": "2024-10-08 22:00:00",
       "album": {
         "name": "Roomies",
         "url": "https://open.spotify.com/album/6AROQ6N0Rmu5UopIesoiyv"
@@ -893,7 +913,7 @@
       "url": "https://open.spotify.com/track/4f0VpVExT2Z5JgPBa869J3"
     },
     {
-      "added_at": "2024-10-03 22:00:00",
+      "added_at": "2024-10-08 22:00:00",
       "album": {
         "name": "The Beginning",
         "url": "https://open.spotify.com/album/5zvOWFaWR8NcgabR34oVnu"
@@ -909,7 +929,7 @@
       "url": "https://open.spotify.com/track/3PsP2bLvLmdm3zmS7ZBWsj"
     },
     {
-      "added_at": "2024-10-03 22:00:00",
+      "added_at": "2024-10-08 22:00:00",
       "album": {
         "name": "Telephone",
         "url": "https://open.spotify.com/album/022o3XqoWm4c2KfaWyz3jf"
@@ -925,7 +945,7 @@
       "url": "https://open.spotify.com/track/2ComEzkj1haK6a6iUpV0kQ"
     },
     {
-      "added_at": "2024-10-03 22:00:00",
+      "added_at": "2024-10-08 22:00:00",
       "album": {
         "name": "Find A Way (feat. Suli Breaks)",
         "url": "https://open.spotify.com/album/13sUEb13eZUPZ9Xh8LLODW"
@@ -945,7 +965,7 @@
       "url": "https://open.spotify.com/track/5rGTgmrgSkVQNJtwy8aRzn"
     },
     {
-      "added_at": "2024-10-03 22:00:00",
+      "added_at": "2024-10-08 22:00:00",
       "album": {
         "name": "Beggin'",
         "url": "https://open.spotify.com/album/4v71xfoYyaHaWuXfx9JHk8"
@@ -961,23 +981,7 @@
       "url": "https://open.spotify.com/track/6N5dl7B1c2KoJ6sH0Izfcm"
     },
     {
-      "added_at": "2024-10-03 22:00:00",
-      "album": {
-        "name": "What If I Want You Now",
-        "url": "https://open.spotify.com/album/43fvwvfFC0F8XVLhzeXKaq"
-      },
-      "artists": [
-        {
-          "name": "KANE",
-          "url": "https://open.spotify.com/artist/7rgKxnnBAsZ7Q04d6jICu6"
-        }
-      ],
-      "duration_ms": 190645,
-      "name": "What If I Want You Now",
-      "url": "https://open.spotify.com/track/6yYFUkI1RitIRxGlXadb4d"
-    },
-    {
-      "added_at": "2024-10-03 22:00:00",
+      "added_at": "2024-10-08 22:00:00",
       "album": {
         "name": "Where I've Been, Isn't Where I'm Going",
         "url": "https://open.spotify.com/album/0DLvFVIfwt3OHdK9kGeEM3"
@@ -997,7 +1001,7 @@
       "url": "https://open.spotify.com/track/3T3sbHYwPvhTCfEeUtvbMF"
     },
     {
-      "added_at": "2024-10-03 22:00:00",
+      "added_at": "2024-10-08 22:00:00",
       "album": {
         "name": "Floating Parade",
         "url": "https://open.spotify.com/album/7BWSIBTLybNPD7RbxMVAED"

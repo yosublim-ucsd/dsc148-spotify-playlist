@@ -2,7 +2,7 @@
 
 ### [This Is Linkin Park](https://open.spotify.com/playlist/37i9dQZF1DZ06evO47cwRq)
 
-> This Is Linkin Park\. Los temas esenciales, todos en una lista.
+> This is Linkin Park\. The essential tracks, all in one playlist.
 
 71 songs - 4 hr 9 min
 

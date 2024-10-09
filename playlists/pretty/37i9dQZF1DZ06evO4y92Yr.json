@@ -1,12 +1,12 @@
 {
-  "description": "This is Chappell Roan. The essential tracks, all in one playlist.",
-  "num_followers": 161731,
+  "description": "This is Chappell Roan. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 162190,
   "original_name": "This Is Chappell Roan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwHTAAAAAABHeCmbl4nO+ZpgEDZJlK+p",
+  "snapshot_id": "ZwMkgAAAAABNhXkAq+x6ZJz6LDgeoNZ7",
   "tracks": [
     {
       "added_at": null,
@@ -164,9 +164,9 @@
           "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
         }
       ],
-      "duration_ms": 219653,
-      "name": "Sugar High",
-      "url": "https://open.spotify.com/track/1dqJRtnoU6vZj23txgerYQ"
+      "duration_ms": 225893,
+      "name": "Die Young",
+      "url": "https://open.spotify.com/track/1dGsmX6TryxdBHfBzzZ1eK"
     },
     {
       "added_at": null,
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
         }
       ],
-      "duration_ms": 225893,
-      "name": "Die Young",
-      "url": "https://open.spotify.com/track/1dGsmX6TryxdBHfBzzZ1eK"
+      "duration_ms": 219653,
+      "name": "Sugar High",
+      "url": "https://open.spotify.com/track/1dqJRtnoU6vZj23txgerYQ"
     },
     {
       "added_at": null,

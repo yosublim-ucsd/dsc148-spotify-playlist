@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Shablo, Izi, Joshua, Villabanks, Baby Gang e tanti altri! 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,356 likes - 90 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,360 likes - 90 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

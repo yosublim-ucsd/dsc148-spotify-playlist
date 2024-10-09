@@ -293,6 +293,24 @@
     },
     {
       "album": {
+        "name": "Selected Ambient Works Volume II (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7gpblNxStuPCUouPvlyf2i"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2024-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 535266,
+      "name": "#5",
+      "url": "https://open.spotify.com/track/1VSMN83PeecjCE2SS27PTJ"
+    },
+    {
+      "album": {
         "name": "Selected Ambient Works Volume II",
         "url": "https://open.spotify.com/album/17vHPMmoxN5B8cdhCDeMTe"
       },
@@ -761,6 +779,24 @@
     },
     {
       "album": {
+        "name": "Selected Ambient Works Volume II (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7gpblNxStuPCUouPvlyf2i"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2024-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 440333,
+      "name": "Blue Calx",
+      "url": "https://open.spotify.com/track/7cx5gNKRDzMfd5o9S6e9yK"
+    },
+    {
+      "album": {
         "name": "Come To Daddy",
         "url": "https://open.spotify.com/album/0ofaIVDxemaYYQipgWRYKp"
       },
@@ -790,7 +826,7 @@
       ],
       "date_added": "2024-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-09",
       "duration_ms": 345106,
       "name": "Bucephalus Bouncing Ball [Chosen by Warp co-founder Steve Beckett]",
       "url": "https://open.spotify.com/track/5rpHPGXMnJhEsUUh7ttCY7"
@@ -1024,7 +1060,7 @@
       ],
       "date_added": "2024-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-09",
       "duration_ms": 432938,
       "name": "Digeridoo - 2022 Remaster",
       "url": "https://open.spotify.com/track/2Fh8MjqWLFCoiOOHQRfqgq"

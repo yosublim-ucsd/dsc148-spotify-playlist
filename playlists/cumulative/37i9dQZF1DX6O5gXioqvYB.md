@@ -4,7 +4,7 @@
 
 > La nuova scena indie italiana! Cover: Delicatoni
 
-168 songs - 8 hr 10 min
+169 songs - 8 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [L'ETÀ D'ORO](https://open.spotify.com/track/1BIYMcbLkm9Wo9NKudb3jn) | [PAOLO SANTO](https://open.spotify.com/artist/1LctKa4WaoAOdFWu19LCnT) | [L'ETÀ D'ORO](https://open.spotify.com/album/0CcJbA8NY3XXl4xozCPg3Z) | 3:03 | 2024-06-27 | 2024-07-12 |
 | [LA DOMANDA GIUSTA](https://open.spotify.com/track/6pOuWoEdYpBw74fP42F1Tv) | [Giulia Leone](https://open.spotify.com/artist/5xyfvolNQ8DukvHXKjHxRd) | [LA DOMANDA GIUSTA](https://open.spotify.com/album/0Nt0bzksswpMespk6o895G) | 2:58 | 2024-06-27 | 2024-07-05 |
 | [La metà](https://open.spotify.com/track/2mxb9ZHTc9BL1lwOcqmE9B) | [Alek](https://open.spotify.com/artist/6JWeknFiJE42BXED1AGOvY) | [BUIO](https://open.spotify.com/album/4iZjs32KpHJmRKduhU5Zar) | 3:24 | 2024-06-27 | 2024-07-05 |
+| [La ricompensa](https://open.spotify.com/track/4Iwrxf8056IIMKNBaunQIe) | [Missey](https://open.spotify.com/artist/2DcrZVjp98sHG7ttcywb7s) | [La ricompensa della mangusta](https://open.spotify.com/album/66ajbNAO32d4StVtbkQJnP) | 3:20 | 2024-10-03 |  |
 | [LA WAVE](https://open.spotify.com/track/3wJafG2l23mr3raepszTVz) | [Alex Polidori](https://open.spotify.com/artist/5O17LLDXhhdB8mIGr6vJIc), [Dima](https://open.spotify.com/artist/0ejL0hTrPBamEXjapPKHad) | [LA WAVE](https://open.spotify.com/album/2OSSwb7m1L2X3cRa4gzNGi) | 2:36 | 2024-08-29 | 2024-09-27 |
 | [LASCIAMI QUI](https://open.spotify.com/track/6hceFn55WLOrEvl3r1YztX) | [SAMUSPINA](https://open.spotify.com/artist/416nwtL2XSzn87NIW64iEy) | [LASCIAMI QUI](https://open.spotify.com/album/4mDXbcq1TQz6pgVWvWmuIl) | 3:36 | 2024-08-29 | 2024-09-27 |
 | [Limiti](https://open.spotify.com/track/7sIpRZZswRqrVWqEK6TB8o) | [Sangi](https://open.spotify.com/artist/6rZ7snoIG69F9CNnS3ZnFb) | [Limiti](https://open.spotify.com/album/5pGbmoyMzgvrIShigS5i8W) | 2:19 | 2024-07-04 | 2024-07-27 |
@@ -93,7 +94,7 @@
 | [Mariù](https://open.spotify.com/track/6jK5DrUCGwQAnsAEODR3r4) | [Ophelia Lia](https://open.spotify.com/artist/3VBPvCalDAaE5MJHkMAuDk) | [Mariù](https://open.spotify.com/album/4z05lOnsXxT3eiXA3mKkft) | 2:57 | 2024-06-27 | 2024-07-05 |
 | [MEGA LIMONE](https://open.spotify.com/track/1SlFveNB8qOsydb3A145Z8) | [CALICE](https://open.spotify.com/artist/7Alkpa4UYC4Ly1A9hRUb5V), [Nablito](https://open.spotify.com/artist/1QKYKUlsIRvgzzDuAidIgU) | [MEGA LIMONE](https://open.spotify.com/album/3E3ufDQYrZxqkHXhcJgtYJ) | 2:32 | 2024-06-27 | 2024-07-19 |
 | [MEGAGALATTICO](https://open.spotify.com/track/4Mwq2uShIgIPKqxr2v14cG) | [CRETA](https://open.spotify.com/artist/2GoVj8Yh4VGg4JibTBLAXS) | [MEGAGALATTICO](https://open.spotify.com/album/7bqOe8aw1dOfCOTMxF9wuF) | 2:40 | 2024-06-27 | 2024-07-12 |
-| [Milano ad Agosto](https://open.spotify.com/track/67R8ZjmvZPbJeS0xVzaH9v) | [Diorama](https://open.spotify.com/artist/1WdVEvZBCPA8BLV1WWWKlk), [I Melodrama](https://open.spotify.com/artist/59fYCgvaHksiQjZqKuidks) | [Milano ad Agosto](https://open.spotify.com/album/6z9FY2DfLruOZsiJIQil4l) | 3:40 | 2024-08-06 |  |
+| [Milano ad Agosto](https://open.spotify.com/track/67R8ZjmvZPbJeS0xVzaH9v) | [Diorama](https://open.spotify.com/artist/1WdVEvZBCPA8BLV1WWWKlk), [I Melodrama](https://open.spotify.com/artist/59fYCgvaHksiQjZqKuidks) | [Milano ad Agosto](https://open.spotify.com/album/6z9FY2DfLruOZsiJIQil4l) | 3:40 | 2024-08-06 | 2024-10-09 |
 | [MONDO CONVENIENZA](https://open.spotify.com/track/0IKSHbq0ArWlTbvdP0fxAq) | [Giuze](https://open.spotify.com/artist/2drbYqHcAqNoLoEhrzaZ5B) | [MONDO CONVENIENZA](https://open.spotify.com/album/2YySYUtKAf647Vr7lscVBr) | 2:39 | 2024-06-27 | 2024-07-05 |
 | [Mosche](https://open.spotify.com/track/6C6EyA832m59DutYTzZwFl) | [43.Nove](https://open.spotify.com/artist/356cdFod8ZWqU9dhTNbnFW) | [Mosche](https://open.spotify.com/album/7H4vm4CBeNtkjGRzBzPpOE) | 2:35 | 2024-07-25 |  |
 | [Musica Leggera](https://open.spotify.com/track/7mXPJ6NdjuaMbPAKeaGkpM) | [Bipolar](https://open.spotify.com/artist/36CoTQmA5QgZvVpG81y1di) | [Musica Leggera](https://open.spotify.com/album/1tX6OniSv0iRTnNZMcKM2m) | 2:49 | 2024-08-22 |  |

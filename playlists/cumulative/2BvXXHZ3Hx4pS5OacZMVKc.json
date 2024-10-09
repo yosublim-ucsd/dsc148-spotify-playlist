@@ -4025,6 +4025,24 @@
     },
     {
       "album": {
+        "name": "Magnetic",
+        "url": "https://open.spotify.com/album/0kReeQiJA0nlejIOX6TfkE"
+      },
+      "artists": [
+        {
+          "name": "springs!",
+          "url": "https://open.spotify.com/artist/7BFXtdXfpw2kj0kAOs73cn"
+        }
+      ],
+      "date_added": "2024-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123437,
+      "name": "Magnetic",
+      "url": "https://open.spotify.com/track/6uH5jMuZ5F4Uh5cS2QilLw"
+    },
+    {
+      "album": {
         "name": "Make A Stand",
         "url": "https://open.spotify.com/album/71BwjzdvWoTFI3bzsBurgn"
       },

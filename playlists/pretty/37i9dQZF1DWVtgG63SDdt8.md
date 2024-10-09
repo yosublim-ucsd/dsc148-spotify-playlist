@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all Christian, Gospel, Worship & Inspirational music genres this week!  Cover: <a href="spotify:artist:0TgNiaeQaWssaH9aWjbqnA">Jordan Feliz</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 336,602 likes - 100 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 336,670 likes - 100 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 38 | [Deserve To Win](https://open.spotify.com/track/3KNgmOeJ5uV9dVCSAaikzC) | [Tamela Mann](https://open.spotify.com/artist/6ZyV955Ypf3JAKInn1a0dt) | [Deserve to Win](https://open.spotify.com/album/34WTRFgfj6JicZpi5d2RUb) | 4:22 |
 | 39 | [On Me](https://open.spotify.com/track/3aqnDmCILtP5qBzvVIpeTV) | [Madison Ryann Ward](https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI) | [Purified Love](https://open.spotify.com/album/4rJJkV4bjZud54KVXSmU2y) | 2:48 |
 | 40 | [Brand New](https://open.spotify.com/track/6VvG67rVJmeFUKsr0k0jhn) | [Bay Turner](https://open.spotify.com/artist/5Swex8uNIDsDJecu35hSRV), [Terrian](https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP) | [Brand New](https://open.spotify.com/album/7fJpxRI9nTu4iloWvOquOJ) | 2:55 |
-| 41 | [Though I walk](https://open.spotify.com/track/7GTawGOmJHsHz3cBhpma9W) | [Tekoa](https://open.spotify.com/artist/7Fqu2gBrthnYE53IGOltaI) | [Though I walk](https://open.spotify.com/album/43lH22LlJmyiY2c9WxCKgy) | 4:14 |
+| 41 | [Though I Walk](https://open.spotify.com/track/7GTawGOmJHsHz3cBhpma9W) | [Tekoa](https://open.spotify.com/artist/7Fqu2gBrthnYE53IGOltaI) | [Though I Walk](https://open.spotify.com/album/43lH22LlJmyiY2c9WxCKgy) | 4:14 |
 | 42 | [Bless Your Name](https://open.spotify.com/track/15VshmwYf6ode8MzvKaSwr) | [Ben Laine](https://open.spotify.com/artist/6S02dGCF9U11e99CrZOmYj) | [Bless Your Name](https://open.spotify.com/album/3aVw6MkunLNvMP1O4vDEHe) | 3:28 |
 | 43 | [Close](https://open.spotify.com/track/68yi4Ta751xNUP1Z7rEFrW) | [Cassidy Godwin](https://open.spotify.com/artist/2fCuEFatpJymbazPkYYVi8), [Stephen Willo](https://open.spotify.com/artist/34uEJg0k0siI2NxKK2TeHa) | [Close](https://open.spotify.com/album/7rkkLH7l1qub4JMmtqYUtJ) | 3:26 |
 | 44 | [Flowers](https://open.spotify.com/track/3uWIOHweJYnddyPdJzC6lm) | [Joshua Luke Smith](https://open.spotify.com/artist/29wlT5isBRIOp8YZYVAZ0A), [Madison Ryann Ward](https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI) | [Flowers](https://open.spotify.com/album/1UEtgypbA0dO2rkwXIirvT) | 3:47 |

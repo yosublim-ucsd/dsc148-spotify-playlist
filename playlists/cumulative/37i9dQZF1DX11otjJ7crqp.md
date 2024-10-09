@@ -4,7 +4,7 @@
 
 > Essential new pop tracks\. Cover: JoJo
 
-6,500 songs - 13 day 11 hr 49 min
+6,501 songs - 13 day 11 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3639,6 +3639,7 @@
 | [Love Me Like The First Time](https://open.spotify.com/track/0VJDKFCfJJyA8CgMd2Cygj) | [Rachel Grae](https://open.spotify.com/artist/0ekCwZGQUkAISV1h48jlHn) | [Love Me Like The First Time](https://open.spotify.com/album/7djdwVJvXXMDXTLbBPzRzh) | 3:17 | 2023-10-20 | 2023-11-18 |
 | [Love Me More](https://open.spotify.com/track/16MQETUgqXwY4lZcyRafU3) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Love Me More](https://open.spotify.com/album/59NkDiHvjWqXHHIxzoWAUe) | 3:10 | 2022-04-29 | 2022-05-28 |
 | [Love Me Not](https://open.spotify.com/track/6UumSbVp1ae6IfcOWDo1oL) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Love Me Not](https://open.spotify.com/album/7xUn31DxHbMMH8oNTeI4uh) | 2:20 | 2024-02-09 | 2024-02-24 |
+| [Love Me Not \(feat\. Rex Orange County\)](https://open.spotify.com/track/3ld1FzyNgpZwGn4h9cOXrq) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Love Me Not \(feat\. Rex Orange County\)](https://open.spotify.com/album/66SYFOZM5lxnGsBot10yqI) | 3:08 | 2024-10-04 |  |
 | [love me or leave me alone](https://open.spotify.com/track/7jj1AsMxwhhP6IxfmDHdO0) | [Amelia Moore](https://open.spotify.com/artist/61shKG2hWuRTW2PEAPk7fo) | [teaching a robot to love \(additional data\)](https://open.spotify.com/album/5ioZNu4ogf7jyuXpOlg8uy) | 3:14 | 2022-08-12 | 2022-08-27 |
 | [Love Me Till U Hate Me](https://open.spotify.com/track/0f72jNvO6UORzL8J51jPIW) | [Niko Rubio](https://open.spotify.com/artist/6XdCL1kwMFNqPim2JwXjKa) | [Love Me Till U Hate Me](https://open.spotify.com/album/6OB6AKoC7SXypIT5j8mViB) | 3:32 | 2022-05-06 | 2022-05-20 |
 | [Love Me Tonight \(feat\. Betty Who\)](https://open.spotify.com/track/1Q7uPYEiAEnEwhgJx7wy4e) | [VINCINT](https://open.spotify.com/artist/6glcVV5wCi1hU4nxqJItqd), [Betty Who](https://open.spotify.com/artist/0t3QQl52F463sxGXb1ckhB) | [Love Me Tonight \(feat\. Betty Who\)](https://open.spotify.com/album/5vsxQN4ssVPbAH9rz7rriY) | 3:18 | 2024-06-21 | 2024-07-06 |

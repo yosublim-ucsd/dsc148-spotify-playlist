@@ -2,7 +2,7 @@
 
 ### [This Is Nightwish](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1C7dIs)
 
-> This is Nightwish\. Todos os maiores hits em uma só playlist.
+> This is Nightwish\. The essential tracks, all in one playlist.
 
 111 songs - 9 hr 45 min
 

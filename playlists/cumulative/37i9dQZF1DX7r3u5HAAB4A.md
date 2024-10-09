@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX7r3u5HAAB4A.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX7r3u5HAAB4A) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7r3u5HAAB4A)
 
-### [Spice](https://open.spotify.com/playlist/37i9dQZF1DX7r3u5HAAB4A)
+### [Fever](https://open.spotify.com/playlist/37i9dQZF1DX7r3u5HAAB4A)
 
 > The many fruits of Caribbean culture under one tree\. Cover:  <a href="spotify:artist:2HPaUgqeutzr3jx5a9WyDV">PARTYNEXTDOOR</a>
 

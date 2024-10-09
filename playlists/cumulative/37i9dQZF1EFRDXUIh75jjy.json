@@ -897,6 +897,24 @@
     },
     {
       "album": {
+        "name": "Death Grip",
+        "url": "https://open.spotify.com/album/42mJsxvnDKCV4eMDBxDcpR"
+      },
+      "artists": [
+        {
+          "name": "Charlie Hickey",
+          "url": "https://open.spotify.com/artist/4Ky0ZDJDfY7UBbTVYPyVKc"
+        }
+      ],
+      "date_added": "2024-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188840,
+      "name": "Death Grip",
+      "url": "https://open.spotify.com/track/5jOCZRdWItMJKacbZolEJF"
+    },
+    {
+      "album": {
         "name": "Sticker on My Suitcase",
         "url": "https://open.spotify.com/album/6qCYObNjXCIDrW3MBXTWLy"
       },

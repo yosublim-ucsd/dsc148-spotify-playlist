@@ -5696,7 +5696,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-09",
       "duration_ms": 112207,
       "name": "Catching A Vibe",
       "url": "https://open.spotify.com/track/72irLCVlW9MCrvlTeh1BNp"
@@ -8913,6 +8913,28 @@
     },
     {
       "album": {
+        "name": "distant dreams",
+        "url": "https://open.spotify.com/album/2PRw8u82WKgquRdpSRjVTz"
+      },
+      "artists": [
+        {
+          "name": "chasing clouds.",
+          "url": "https://open.spotify.com/artist/5LDKOzebjXcTFpZALsiVZ6"
+        },
+        {
+          "name": "mellow fox",
+          "url": "https://open.spotify.com/artist/2VVDDOoBIhsMVPJMoUXjUE"
+        }
+      ],
+      "date_added": "2024-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104855,
+      "name": "distant dreams",
+      "url": "https://open.spotify.com/track/0s4hSAumdYO3ElkZ9zbmNS"
+    },
+    {
+      "album": {
         "name": "Distant Stars",
         "url": "https://open.spotify.com/album/0oHLMLJCT9ojmIs0EZW7RL"
       },
@@ -9478,7 +9500,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-26",
+      "date_removed": null,
       "duration_ms": 124285,
       "name": "Dream Drift",
       "url": "https://open.spotify.com/track/5yQXLsJZJBcQQV3mhuWDE4"
@@ -10170,7 +10192,7 @@
       ],
       "date_added": "2024-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-09",
       "duration_ms": 154838,
       "name": "elevate",
       "url": "https://open.spotify.com/track/116YArgZMwSpTDCahpTkx1"
@@ -18167,6 +18189,24 @@
     },
     {
       "album": {
+        "name": "late nites",
+        "url": "https://open.spotify.com/album/7HSfY9AGtc1k5bo1gyAhsa"
+      },
+      "artists": [
+        {
+          "name": "caesar torro",
+          "url": "https://open.spotify.com/artist/4HWcje0QZ9jSo1wnFcOjW9"
+        }
+      ],
+      "date_added": "2024-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139310,
+      "name": "late nites",
+      "url": "https://open.spotify.com/track/0fcplqWeNl7Gzttgbv0nMg"
+    },
+    {
+      "album": {
         "name": "Later Than Expected",
         "url": "https://open.spotify.com/album/4sqMz9sqZ0Rvawoc4Bcvan"
       },
@@ -20088,7 +20128,7 @@
       ],
       "date_added": "2023-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-09",
       "duration_ms": 132263,
       "name": "lucid air",
       "url": "https://open.spotify.com/track/6suiglC9EEWunpmOkJagzj"
@@ -21096,7 +21136,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-09",
       "duration_ms": 156374,
       "name": "meadows",
       "url": "https://open.spotify.com/track/1sP0q6Egdh6pSclFNwpWBa"
@@ -25078,7 +25118,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-25",
+      "date_removed": null,
       "duration_ms": 135000,
       "name": "Orb",
       "url": "https://open.spotify.com/track/0uGPVmkDuOnxFrclKurZi1"
@@ -28870,7 +28910,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-09",
       "duration_ms": 177562,
       "name": "Roses",
       "url": "https://open.spotify.com/track/1jcxxkEpDOMdVUxgetuxPC"
@@ -31958,7 +31998,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-23",
+      "date_removed": null,
       "duration_ms": 111546,
       "name": "Spectre",
       "url": "https://open.spotify.com/track/7lAMobRN7Q1Gj00qA0TyNM"
@@ -32124,7 +32164,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-05",
+      "date_removed": null,
       "duration_ms": 132000,
       "name": "Spring in winter",
       "url": "https://open.spotify.com/track/737FxPwt7KEzSIvE9XzCY3"
@@ -34220,7 +34260,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-09",
       "duration_ms": 105365,
       "name": "Tapestop",
       "url": "https://open.spotify.com/track/0UIlFZoYz9PobCAyzu7spv"

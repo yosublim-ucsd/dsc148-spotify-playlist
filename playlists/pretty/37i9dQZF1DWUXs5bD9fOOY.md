@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUXs5bD9fOOY.md) - [plain]
 
 > 今年の冬にぴったりな、"ハッピー"なクリスマスソングをひとつのプレイリストに。
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,237 likes - 70 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,236 likes - 70 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUXs5bD9fOOY.md) - [plain]
 | 52 | [First Christmas](https://open.spotify.com/track/45jLrzxVvQgoMqVYNB2yPy) | [Naoto Inti Raymi](https://open.spotify.com/artist/77SZmOd2zA3L3n9x697iWb) | [First Christmas](https://open.spotify.com/album/0vecA8H0SLCwM437ysSH5l) | 3:43 |
 | 53 | [Naughty List \(with Dixie\)](https://open.spotify.com/track/2Y0ktCGrGoGcQFXsGztvhi) | [Liam Payne](https://open.spotify.com/artist/5pUo3fmmHT8bhCyHE52hA6), [Dixie](https://open.spotify.com/artist/3DKkhRCGOG4e8IUPYFPfWs) | [Naughty List \(with Dixie\)](https://open.spotify.com/album/2xvYb1xTCb5hhxzXub0RdM) | 2:34 |
 | 54 | [Make It To Christmas](https://open.spotify.com/track/6RS6rcjnWrdfVuu2U2W2dj) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Make It To Christmas](https://open.spotify.com/album/78M2SymJDiLORvKBQHgmKl) | 3:31 |
-| 55 | [The Christmas Song \(Shawn Mendes & Camila Cabello\)](https://open.spotify.com/track/66VenHDtrQAw7FCjyF2J56) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr), [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Wonder \- Holiday Deluxe](https://open.spotify.com/album/01haNCctw4EUPl8xUHVhdl) | 3:16 |
+| 55 | [The Christmas Song \(Shawn Mendes & Camila Cabello\)](https://open.spotify.com/track/66VenHDtrQAw7FCjyF2J56) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr), [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Wonder \(Holiday Deluxe\)](https://open.spotify.com/album/01haNCctw4EUPl8xUHVhdl) | 3:16 |
 | 56 | [Be Nothing](https://open.spotify.com/track/5UTz0G8NKuAfuKTETWyMZF) | [Newspeak](https://open.spotify.com/artist/3eaUqC1a64Qk1pjNBv5L71) | [Be Nothing](https://open.spotify.com/album/4SAoAdpY6r6Nn6I84MfNSr) | 3:32 |
 | 57 | [SWEET HARMONY](https://open.spotify.com/track/21jV0KutQfOw9SjkK8qii6) | [Miho Fukuhara](https://open.spotify.com/artist/7CM9T52YxOcACiOK2sqHqe) | [クリスマススピリット＆SWEET HARMONY](https://open.spotify.com/album/26Nm8cHyRnjJdwi69EPe5k) | 4:49 |
 | 58 | [santa doesn’t know you like i do](https://open.spotify.com/track/3s5bNa5UJK4zSZwxy6K5qg) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [fruitcake](https://open.spotify.com/album/5MLcU3cT4hB4VvcoaIWqzj) | 3:09 |

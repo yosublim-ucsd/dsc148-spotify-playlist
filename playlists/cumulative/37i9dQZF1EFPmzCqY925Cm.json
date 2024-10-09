@@ -489,6 +489,24 @@
     },
     {
       "album": {
+        "name": "make u miss me",
+        "url": "https://open.spotify.com/album/0USpfZlo9OlFDkNy9cgFR8"
+      },
+      "artists": [
+        {
+          "name": "Kate Peytavin",
+          "url": "https://open.spotify.com/artist/6PnD7O3Er35tK4TeFyndOS"
+        }
+      ],
+      "date_added": "2024-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188809,
+      "name": "make u miss me",
+      "url": "https://open.spotify.com/track/5NZGTvM5SYxifaJIMz3XZI"
+    },
+    {
+      "album": {
         "name": "Nerve",
         "url": "https://open.spotify.com/album/3zt0WesxwZxCUdvhF2EavU"
       },
