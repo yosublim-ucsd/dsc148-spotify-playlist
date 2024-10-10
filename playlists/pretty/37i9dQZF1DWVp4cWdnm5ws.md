@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVp4cWdnm5ws.md) - [plain]
 
 > Discover new artists on the horizon this 2024\. Cover: dwta
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,235 likes - 46 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,275 likes - 46 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | ['Di Naman](https://open.spotify.com/track/4Wmi7Sy5S9jjsw9rJ5t9Yk) | [dwta](https://open.spotify.com/artist/1UwnrHfh8Kd8Y8Ax8a3qWy) | ['Di Naman](https://open.spotify.com/album/3RhTarxAG6Gc5jQXESwlZq) | 4:25 |
-| 2 | [Favorite Song](https://open.spotify.com/track/6pb9teTllbc7fiDrj4FqjM) | [Jason Dhakal](https://open.spotify.com/artist/7Hb2cm4pIeCUKwfzutKyjp), [DENȲ](https://open.spotify.com/artist/23TaZ3Av1DTes3E8aO2QsZ) | [Favorite Song](https://open.spotify.com/album/7KZALqdD9hM0Fq5eeauP5r) | 3:17 |
+| 2 | [Favorite Song](https://open.spotify.com/track/6pb9teTllbc7fiDrj4FqjM) | [Jason Dhakal](https://open.spotify.com/artist/7Hb2cm4pIeCUKwfzutKyjp), [DENȲ](https://open.spotify.com/artist/2Q2uIXpaRSH3Or0oT5nFXR) | [Favorite Song](https://open.spotify.com/album/7KZALqdD9hM0Fq5eeauP5r) | 3:17 |
 | 3 | [Multo](https://open.spotify.com/track/4cBm8rv2B5BJWU2pDaHVbF) | [Cup of Joe](https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN) | [Multo](https://open.spotify.com/album/7rBGkbCvrkAAgO9CKGxEuo) | 3:57 |
 | 4 | [Pulso](https://open.spotify.com/track/1CqkZpujqmMS55qlCLpSZ7) | [Ysanygo](https://open.spotify.com/artist/6fc4La0O0xzu4tZIE0tSsQ), [L8ching](https://open.spotify.com/artist/3vkcJL0rXaCK63ef9gMzbf) | [Pulso](https://open.spotify.com/album/4FEuHvrAkV2mwgaqGNN2fv) | 3:08 |
 | 5 | [Namumula](https://open.spotify.com/track/5OAGg2B2BjxzpiEcuzaCkZ) | [Maki](https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK) | [Namumula](https://open.spotify.com/album/5nS1IYsFBBHe1hZlcbrypc) | 2:54 |

@@ -713,6 +713,28 @@
     },
     {
       "album": {
+        "name": "Bach and Beyond",
+        "url": "https://open.spotify.com/album/5IOSn5wePFXjdss00TdTe7"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Gabriela Montero",
+          "url": "https://open.spotify.com/artist/0zn66Km3MeK24VuWUZydgr"
+        }
+      ],
+      "date_added": "2022-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301400,
+      "name": "Bach: Adagio (After Violin Concerto No. 2, BWV 1042)",
+      "url": "https://open.spotify.com/track/1v3gGmcneK1QzYyBFiBXG0"
+    },
+    {
+      "album": {
         "name": "Bach: Prelude in B minor, BWV 855a (Arr. by Alexander Siloti)",
         "url": "https://open.spotify.com/album/1J2gEYm9QCKqxwpGl3xDtT"
       },
@@ -2102,28 +2124,6 @@
       "duration_ms": 292360,
       "name": "Miniatures for Piano \"A Whole in Twelve\": No. 7, Clouds",
       "url": "https://open.spotify.com/track/3IRoeiTnEJ31WKMtcXShX1"
-    },
-    {
-      "album": {
-        "name": "Bach and Beyond",
-        "url": "https://open.spotify.com/album/5IOSn5wePFXjdss00TdTe7"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Gabriela Montero",
-          "url": "https://open.spotify.com/artist/0zn66Km3MeK24VuWUZydgr"
-        }
-      ],
-      "date_added": "2022-01-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 301400,
-      "name": "Montero: Adagio (After Bach's Violin Concerto No. 2, BWV 1042)",
-      "url": "https://open.spotify.com/track/1v3gGmcneK1QzYyBFiBXG0"
     },
     {
       "album": {

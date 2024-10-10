@@ -1,13 +1,29 @@
 {
-  "description": "Most exciting artists from the Indian Indie scene. Cover: Osho Jain",
-  "num_followers": 174332,
+  "description": "Most exciting artists from the Indian Indie scene. Cover: Tanishka Bahl",
+  "num_followers": 174368,
   "original_name": "RADAR India",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zv501wAAAAAprH5jRnC9THt2vtJjgjyl",
+  "snapshot_id": "ZwcZAAAAAACZDsjHvngwXgI6TAwF9pC7",
   "tracks": [
+    {
+      "added_at": "2024-10-10 00:00:00",
+      "album": {
+        "name": "Tu",
+        "url": "https://open.spotify.com/album/5v5bByuOtxvqAeR5VAPoCd"
+      },
+      "artists": [
+        {
+          "name": "Tanishka Bahl",
+          "url": "https://open.spotify.com/artist/0RZSHotYnUAsA9mzApotQw"
+        }
+      ],
+      "duration_ms": 173714,
+      "name": "Tu",
+      "url": "https://open.spotify.com/track/2kleSbAWlMuc9NKtgLYibe"
+    },
     {
       "added_at": "2024-10-03 10:41:27",
       "album": {
@@ -95,34 +111,6 @@
       "duration_ms": 198000,
       "name": "Barse More Naina",
       "url": "https://open.spotify.com/track/5uujAs6ESgsPXwUYvbwlON"
-    },
-    {
-      "added_at": "2024-10-03 10:41:27",
-      "album": {
-        "name": "Yaar Mila Ve",
-        "url": "https://open.spotify.com/album/2ltIposF0mekHiEUsYBulf"
-      },
-      "artists": [
-        {
-          "name": "Pragati Nagpal",
-          "url": "https://open.spotify.com/artist/5LUjJOXtKNWa7AmUOJbWgH"
-        },
-        {
-          "name": "Shreya Jain",
-          "url": "https://open.spotify.com/artist/4kf4NJ3U6oSZ423DycBpMD"
-        },
-        {
-          "name": "Nakul Chugh",
-          "url": "https://open.spotify.com/artist/1xYJFWslO6jDXRaIC3Q20V"
-        },
-        {
-          "name": "Shayra Apoorva",
-          "url": "https://open.spotify.com/artist/2l6dWCvNtJVgvF2oR7kUg8"
-        }
-      ],
-      "duration_ms": 151666,
-      "name": "Yaar Mila Ve",
-      "url": "https://open.spotify.com/track/19W1YDKQCyS9smMP48fQMy"
     },
     {
       "added_at": "2024-10-03 10:41:27",
@@ -219,6 +207,34 @@
     {
       "added_at": "2024-10-03 10:41:27",
       "album": {
+        "name": "Yaar Mila Ve",
+        "url": "https://open.spotify.com/album/2ltIposF0mekHiEUsYBulf"
+      },
+      "artists": [
+        {
+          "name": "Pragati Nagpal",
+          "url": "https://open.spotify.com/artist/5LUjJOXtKNWa7AmUOJbWgH"
+        },
+        {
+          "name": "Shreya Jain",
+          "url": "https://open.spotify.com/artist/4kf4NJ3U6oSZ423DycBpMD"
+        },
+        {
+          "name": "Nakul Chugh",
+          "url": "https://open.spotify.com/artist/1xYJFWslO6jDXRaIC3Q20V"
+        },
+        {
+          "name": "Shayra Apoorva",
+          "url": "https://open.spotify.com/artist/2l6dWCvNtJVgvF2oR7kUg8"
+        }
+      ],
+      "duration_ms": 151666,
+      "name": "Yaar Mila Ve",
+      "url": "https://open.spotify.com/track/19W1YDKQCyS9smMP48fQMy"
+    },
+    {
+      "added_at": "2024-10-03 10:41:27",
+      "album": {
         "name": "Heeriye",
         "url": "https://open.spotify.com/album/4aMIA4pmWtLP4VoLveg8dj"
       },
@@ -235,6 +251,54 @@
       "duration_ms": 215333,
       "name": "Heeriye",
       "url": "https://open.spotify.com/track/5AknaLNrNTCBYr5L62XhJK"
+    },
+    {
+      "added_at": "2024-10-03 10:41:27",
+      "album": {
+        "name": "Bye",
+        "url": "https://open.spotify.com/album/6OVWPaE71jVbIOqDAdlaDm"
+      },
+      "artists": [
+        {
+          "name": "Aditya Bhardwaj",
+          "url": "https://open.spotify.com/artist/4LZrB16vINsCHc28cE6oQo"
+        }
+      ],
+      "duration_ms": 174285,
+      "name": "Bye",
+      "url": "https://open.spotify.com/track/0GamKm5LCEwxFh8p2VWvnq"
+    },
+    {
+      "added_at": "2024-10-03 10:41:27",
+      "album": {
+        "name": "nadaaniyan",
+        "url": "https://open.spotify.com/album/5iB4wggqDR2cQSduJGBfUy"
+      },
+      "artists": [
+        {
+          "name": "Akshath",
+          "url": "https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo"
+        }
+      ],
+      "duration_ms": 171063,
+      "name": "nadaaniyan",
+      "url": "https://open.spotify.com/track/3bmsaFp11I9pbicxzlStf3"
+    },
+    {
+      "added_at": "2024-10-03 10:41:27",
+      "album": {
+        "name": "Saajanwa",
+        "url": "https://open.spotify.com/album/66XAPpqu9pt3V1OZhRZBLZ"
+      },
+      "artists": [
+        {
+          "name": "Aanchal Tyagi",
+          "url": "https://open.spotify.com/artist/2Zk1S1jMx7YNHnGQi07off"
+        }
+      ],
+      "duration_ms": 162285,
+      "name": "Saajanwa",
+      "url": "https://open.spotify.com/track/6NWgIuDeOr1Xeb4MZ1Bl6L"
     },
     {
       "added_at": "2024-10-03 10:41:27",
@@ -279,22 +343,6 @@
     {
       "added_at": "2024-10-03 10:41:27",
       "album": {
-        "name": "Bye",
-        "url": "https://open.spotify.com/album/6OVWPaE71jVbIOqDAdlaDm"
-      },
-      "artists": [
-        {
-          "name": "Aditya Bhardwaj",
-          "url": "https://open.spotify.com/artist/4LZrB16vINsCHc28cE6oQo"
-        }
-      ],
-      "duration_ms": 174285,
-      "name": "Bye",
-      "url": "https://open.spotify.com/track/0GamKm5LCEwxFh8p2VWvnq"
-    },
-    {
-      "added_at": "2024-10-03 10:41:27",
-      "album": {
         "name": "Beqaabu",
         "url": "https://open.spotify.com/album/6GGK1MQ9Pj5dlTYjngHQqg"
       },
@@ -307,38 +355,6 @@
       "duration_ms": 134000,
       "name": "Beqaabu",
       "url": "https://open.spotify.com/track/4bRyiA3wRWx3rnbCxNDete"
-    },
-    {
-      "added_at": "2024-10-03 10:41:27",
-      "album": {
-        "name": "nadaaniyan",
-        "url": "https://open.spotify.com/album/5iB4wggqDR2cQSduJGBfUy"
-      },
-      "artists": [
-        {
-          "name": "Akshath",
-          "url": "https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo"
-        }
-      ],
-      "duration_ms": 171063,
-      "name": "nadaaniyan",
-      "url": "https://open.spotify.com/track/3bmsaFp11I9pbicxzlStf3"
-    },
-    {
-      "added_at": "2024-10-03 10:41:27",
-      "album": {
-        "name": "Saajanwa",
-        "url": "https://open.spotify.com/album/66XAPpqu9pt3V1OZhRZBLZ"
-      },
-      "artists": [
-        {
-          "name": "Aanchal Tyagi",
-          "url": "https://open.spotify.com/artist/2Zk1S1jMx7YNHnGQi07off"
-        }
-      ],
-      "duration_ms": 162285,
-      "name": "Saajanwa",
-      "url": "https://open.spotify.com/track/6NWgIuDeOr1Xeb4MZ1Bl6L"
     },
     {
       "added_at": "2024-10-03 10:41:27",
@@ -707,6 +723,26 @@
     {
       "added_at": "2024-10-03 10:41:27",
       "album": {
+        "name": "Qareeb",
+        "url": "https://open.spotify.com/album/6mcoV5gev8Ol1wHu6mDO1o"
+      },
+      "artists": [
+        {
+          "name": "Adarsh Rao",
+          "url": "https://open.spotify.com/artist/6RaFiPHsbMRHJ4u4UWf6II"
+        },
+        {
+          "name": "Shayan Rashid",
+          "url": "https://open.spotify.com/artist/1ikVRNcb5keuzlwiP8mJbb"
+        }
+      ],
+      "duration_ms": 150545,
+      "name": "Qareeb",
+      "url": "https://open.spotify.com/track/4x8yhZPbOuqJ2PLg4QmrL0"
+    },
+    {
+      "added_at": "2024-10-03 10:41:27",
+      "album": {
         "name": "Mere Ranjhana",
         "url": "https://open.spotify.com/album/2F8arPSNA94kkSPTyShIoj"
       },
@@ -763,26 +799,6 @@
       "duration_ms": 179210,
       "name": "Khamakhaa",
       "url": "https://open.spotify.com/track/2xRUa9kABue4LnGZplUtaq"
-    },
-    {
-      "added_at": "2024-10-03 10:41:27",
-      "album": {
-        "name": "Qareeb",
-        "url": "https://open.spotify.com/album/6mcoV5gev8Ol1wHu6mDO1o"
-      },
-      "artists": [
-        {
-          "name": "Adarsh Rao",
-          "url": "https://open.spotify.com/artist/6RaFiPHsbMRHJ4u4UWf6II"
-        },
-        {
-          "name": "Shayan Rashid",
-          "url": "https://open.spotify.com/artist/1ikVRNcb5keuzlwiP8mJbb"
-        }
-      ],
-      "duration_ms": 150545,
-      "name": "Qareeb",
-      "url": "https://open.spotify.com/track/4x8yhZPbOuqJ2PLg4QmrL0"
     },
     {
       "added_at": "2024-10-03 10:41:27",
@@ -1255,22 +1271,6 @@
       "duration_ms": 192592,
       "name": "Noor",
       "url": "https://open.spotify.com/track/36zJvaFktpReO0ZpO7zK7H"
-    },
-    {
-      "added_at": "2024-10-03 10:41:27",
-      "album": {
-        "name": "Aisi Woh Baarish",
-        "url": "https://open.spotify.com/album/0XCgG0d1PVfqfGd0k4ryWG"
-      },
-      "artists": [
-        {
-          "name": "Twin Strings",
-          "url": "https://open.spotify.com/artist/0cPN6x5LmDIZjp6gFmAkqw"
-        }
-      ],
-      "duration_ms": 187553,
-      "name": "Aisi Woh Baarish",
-      "url": "https://open.spotify.com/track/3XjjpMYeKHGiiI9oM8rwSF"
     },
     {
       "added_at": "2024-10-03 10:41:27",

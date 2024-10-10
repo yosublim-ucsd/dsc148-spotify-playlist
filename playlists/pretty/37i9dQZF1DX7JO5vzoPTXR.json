@@ -1,13 +1,161 @@
 {
-  "description": "Songs that are 100% written, produced, and performed by women! Co-curated this month by: <a href=\"https://open.spotify.com/playlist/37i9dQZF1EFKOkH8OzoKeF?si=1012a09322de4dfb\">Ali Stone</a>",
-  "num_followers": 72520,
+  "description": "Songs that are 100% written, produced, and performed by women! Co-curated this month by: Yseult",
+  "num_followers": 72528,
   "original_name": "Created by Women",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Ztmt6wAAAABjqB7AvnzxX9kKshvUfv8L",
+  "snapshot_id": "ZwbxvgAAAAAk+AqFE4ucZJ+/JeydlJbx",
   "tracks": [
+    {
+      "added_at": "2024-08-07 06:57:00",
+      "album": {
+        "name": "GO GO GO",
+        "url": "https://open.spotify.com/album/0AD4xVslP0qraEZQKQ5O3S"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 145893,
+      "name": "GO GO GO",
+      "url": "https://open.spotify.com/track/7uiXg5Ec2teUAxhIEiD00N"
+    },
+    {
+      "added_at": "2024-08-07 06:57:00",
+      "album": {
+        "name": "empathogen",
+        "url": "https://open.spotify.com/album/5jsfwcWxZIPtF5aaWx0mlL"
+      },
+      "artists": [
+        {
+          "name": "WILLOW",
+          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
+        }
+      ],
+      "duration_ms": 90533,
+      "name": "ancient girl",
+      "url": "https://open.spotify.com/track/5VIymAkkUiYm2F1Xey3iME"
+    },
+    {
+      "added_at": "2024-10-09 21:12:30",
+      "album": {
+        "name": "KiCk i",
+        "url": "https://open.spotify.com/album/6fumIfDEAppI5NCGHQEBSr"
+      },
+      "artists": [
+        {
+          "name": "Arca",
+          "url": "https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj"
+        },
+        {
+          "name": "SOPHIE",
+          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
+        }
+      ],
+      "duration_ms": 167458,
+      "name": "La Ch\u00edqui",
+      "url": "https://open.spotify.com/track/51Xn6IYNyiYaKc8ECI5CUr"
+    },
+    {
+      "added_at": "2024-07-02 23:55:00",
+      "album": {
+        "name": "Born in the Wild",
+        "url": "https://open.spotify.com/album/1FGGv0vvSTerGQ91Mkvf9p"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "duration_ms": 196426,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/5GnuO3v22mQJMrDXx8NEQP"
+    },
+    {
+      "added_at": "2024-10-09 11:37:20",
+      "album": {
+        "name": "Let Me",
+        "url": "https://open.spotify.com/album/14kgkS1NCj30NzAbfEh3TN"
+      },
+      "artists": [
+        {
+          "name": "Tommy Lefroy",
+          "url": "https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP"
+        }
+      ],
+      "duration_ms": 211107,
+      "name": "Let Me",
+      "url": "https://open.spotify.com/track/1BHiyIkqnRN6YKMx2kOPKr"
+    },
+    {
+      "added_at": "2024-08-07 06:57:00",
+      "album": {
+        "name": "Mister Bare Minimum",
+        "url": "https://open.spotify.com/album/3CmS7S2j5c9xReMkbiAKd9"
+      },
+      "artists": [
+        {
+          "name": "KTJ & CARLY",
+          "url": "https://open.spotify.com/artist/1rHyIyvEXaXtHCCMEhhN4M"
+        }
+      ],
+      "duration_ms": 190500,
+      "name": "Mister Bare Minimum",
+      "url": "https://open.spotify.com/track/01H3qyUdDIltkDr6mMBXMs"
+    },
+    {
+      "added_at": "2024-10-09 11:37:20",
+      "album": {
+        "name": "Starlet",
+        "url": "https://open.spotify.com/album/5QlDhL6EuESEOokqeRPva6"
+      },
+      "artists": [
+        {
+          "name": "googly eyes",
+          "url": "https://open.spotify.com/artist/70csuBTxncKYE9FcIA0CXa"
+        }
+      ],
+      "duration_ms": 133882,
+      "name": "Brand New Bitch",
+      "url": "https://open.spotify.com/track/6kWYrk7tealTEXUAsXFYCL"
+    },
+    {
+      "added_at": "2024-08-07 06:57:00",
+      "album": {
+        "name": "Chasm",
+        "url": "https://open.spotify.com/album/3J5RD4gtqmlIYptWCyi4hg"
+      },
+      "artists": [
+        {
+          "name": "Brye",
+          "url": "https://open.spotify.com/artist/6Z5uMO0V6jlOuZ7LUDrSsC"
+        }
+      ],
+      "duration_ms": 183108,
+      "name": "Chasm",
+      "url": "https://open.spotify.com/track/3B2zZpNfRY47H0eyVBFlPn"
+    },
+    {
+      "added_at": "2024-10-09 11:37:20",
+      "album": {
+        "name": "Girlhood, Godhood",
+        "url": "https://open.spotify.com/album/3Zq5xW18jIthd3jr4jt7ga"
+      },
+      "artists": [
+        {
+          "name": "Tommy Lefroy",
+          "url": "https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP"
+        }
+      ],
+      "duration_ms": 144869,
+      "name": "Girlhood, Godhood",
+      "url": "https://open.spotify.com/track/50arhjErqvGjMz07YgebJx"
+    },
     {
       "added_at": "2024-09-05 13:11:07",
       "album": {
@@ -183,22 +331,6 @@
     {
       "added_at": "2024-09-05 13:11:07",
       "album": {
-        "name": "SIE7E +",
-        "url": "https://open.spotify.com/album/5LIIJcPOYm4G4mFw9ydeBE"
-      },
-      "artists": [
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        }
-      ],
-      "duration_ms": 194506,
-      "name": "Valientes",
-      "url": "https://open.spotify.com/track/7Fyobg4Z7w4IWA36f8Sx0G"
-    },
-    {
-      "added_at": "2024-09-05 13:11:07",
-      "album": {
         "name": "Brinda por Ella",
         "url": "https://open.spotify.com/album/37NeG2cUCoHAYDWZ1FgQjc"
       },
@@ -367,22 +499,6 @@
     {
       "added_at": "2024-08-07 06:57:00",
       "album": {
-        "name": "GO GO GO",
-        "url": "https://open.spotify.com/album/0AD4xVslP0qraEZQKQ5O3S"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 145893,
-      "name": "GO GO GO",
-      "url": "https://open.spotify.com/track/7uiXg5Ec2teUAxhIEiD00N"
-    },
-    {
-      "added_at": "2024-08-07 06:57:00",
-      "album": {
         "name": "Waste My Time",
         "url": "https://open.spotify.com/album/5hf83mN1IFFHq3JYTJZLeE"
       },
@@ -395,22 +511,6 @@
       "duration_ms": 180731,
       "name": "Waste My Time",
       "url": "https://open.spotify.com/track/3xeDr86GnwkxhHQIit7NL9"
-    },
-    {
-      "added_at": "2024-08-07 06:57:00",
-      "album": {
-        "name": "empathogen",
-        "url": "https://open.spotify.com/album/5jsfwcWxZIPtF5aaWx0mlL"
-      },
-      "artists": [
-        {
-          "name": "WILLOW",
-          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
-        }
-      ],
-      "duration_ms": 90533,
-      "name": "ancient girl",
-      "url": "https://open.spotify.com/track/5VIymAkkUiYm2F1Xey3iME"
     },
     {
       "added_at": "2024-08-07 06:57:00",
@@ -443,22 +543,6 @@
       "duration_ms": 268979,
       "name": "Hide and Seek",
       "url": "https://open.spotify.com/track/7mMlbJlXXo2mRtQ4R9sIzD"
-    },
-    {
-      "added_at": "2024-07-02 23:55:00",
-      "album": {
-        "name": "Born in the Wild",
-        "url": "https://open.spotify.com/album/1FGGv0vvSTerGQ91Mkvf9p"
-      },
-      "artists": [
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        }
-      ],
-      "duration_ms": 196426,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/5GnuO3v22mQJMrDXx8NEQP"
     },
     {
       "added_at": "2024-04-03 16:48:49",
@@ -559,38 +643,6 @@
     {
       "added_at": "2024-08-07 06:57:00",
       "album": {
-        "name": "Chasm",
-        "url": "https://open.spotify.com/album/3J5RD4gtqmlIYptWCyi4hg"
-      },
-      "artists": [
-        {
-          "name": "Brye",
-          "url": "https://open.spotify.com/artist/6Z5uMO0V6jlOuZ7LUDrSsC"
-        }
-      ],
-      "duration_ms": 183108,
-      "name": "Chasm",
-      "url": "https://open.spotify.com/track/3B2zZpNfRY47H0eyVBFlPn"
-    },
-    {
-      "added_at": "2024-08-07 06:57:00",
-      "album": {
-        "name": "Mister Bare Minimum",
-        "url": "https://open.spotify.com/album/3CmS7S2j5c9xReMkbiAKd9"
-      },
-      "artists": [
-        {
-          "name": "KTJ & CARLY",
-          "url": "https://open.spotify.com/artist/1rHyIyvEXaXtHCCMEhhN4M"
-        }
-      ],
-      "duration_ms": 190500,
-      "name": "Mister Bare Minimum",
-      "url": "https://open.spotify.com/track/01H3qyUdDIltkDr6mMBXMs"
-    },
-    {
-      "added_at": "2024-08-07 06:57:00",
-      "album": {
         "name": "ARDIPITHECUS",
         "url": "https://open.spotify.com/album/0wfne2JijoxJm0qzJd3V5h"
       },
@@ -611,38 +663,6 @@
     {
       "added_at": "2024-08-07 06:57:00",
       "album": {
-        "name": "Songs In A Minor",
-        "url": "https://open.spotify.com/album/5qUlPoDmNxCSzqVx81RDLJ"
-      },
-      "artists": [
-        {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
-        }
-      ],
-      "duration_ms": 303333,
-      "name": "A Woman's Worth",
-      "url": "https://open.spotify.com/track/0rimetBQIYXE3uMCbuXBUa"
-    },
-    {
-      "added_at": "2024-08-07 06:57:00",
-      "album": {
-        "name": "The Miseducation of Lauryn Hill",
-        "url": "https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD"
-      },
-      "artists": [
-        {
-          "name": "Ms. Lauryn Hill",
-          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
-        }
-      ],
-      "duration_ms": 342200,
-      "name": "When It Hurts so Bad",
-      "url": "https://open.spotify.com/track/3CNSWn2mISh7Ll3yJQbVEw"
-    },
-    {
-      "added_at": "2024-08-07 06:57:00",
-      "album": {
         "name": "Ellipse",
         "url": "https://open.spotify.com/album/1H8velOQ9zUFqpuQPd2bkO"
       },
@@ -655,22 +675,6 @@
       "duration_ms": 246666,
       "name": "Bad Body Double",
       "url": "https://open.spotify.com/track/2rkQtnknRZivK7saBryrjm"
-    },
-    {
-      "added_at": "2024-09-05 13:11:07",
-      "album": {
-        "name": "Pandora",
-        "url": "https://open.spotify.com/album/3TbZrsYVkYq5UgE20sHITX"
-      },
-      "artists": [
-        {
-          "name": "Ali Stone",
-          "url": "https://open.spotify.com/artist/4dB1htx5tpskk0FQq8TnOv"
-        }
-      ],
-      "duration_ms": 150473,
-      "name": "L\u00famina",
-      "url": "https://open.spotify.com/track/6ZyBAPmOlhapBgpMkRX5SW"
     }
   ],
   "unique_name": "Created by Women",

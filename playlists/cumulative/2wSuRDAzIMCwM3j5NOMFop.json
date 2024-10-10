@@ -355,6 +355,24 @@
     },
     {
       "album": {
+        "name": "Jugganauts - The Best Of ICP",
+        "url": "https://open.spotify.com/album/1SjluyIg7rIF87i76JxlhH"
+      },
+      "artists": [
+        {
+          "name": "Insane Clown Posse",
+          "url": "https://open.spotify.com/artist/4xtWjIlVuZwTCeqVAsgEXy"
+        }
+      ],
+      "date_added": "2024-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233773,
+      "name": "My Axe",
+      "url": "https://open.spotify.com/track/21DhGvrfC9W2FBjW5EJmWE"
+    },
+    {
+      "album": {
         "name": "Never Let You Go",
         "url": "https://open.spotify.com/album/4A3MZv5WLDVLzd6HWJtrOo"
       },

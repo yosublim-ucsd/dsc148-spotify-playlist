@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RK4iTHSRRX.md) - [plain]
 
 > Instrumental acoustic guitar renditions of the Christmas songs you love.
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,276 likes - 83 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,272 likes - 83 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,23 +12,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RK4iTHSRRX.md) - [plain]
 | 2 | [Silent Night](https://open.spotify.com/track/3v3hEXCevO5ad0ted7txoG) | [Somerset Kent](https://open.spotify.com/artist/4Mh07BnVno64HfPVnpy1aw) | [Silent Night](https://open.spotify.com/album/5JVn6yOVLqFqlAFD0ds7i0) | 1:49 |
 | 3 | [We Wish You A Merry Christmas](https://open.spotify.com/track/1qdYOwnoXdWJJFNSRSRkZT) | [Ceriumidis](https://open.spotify.com/artist/0TQDBKDiAKkrSUASMLOyDQ) | [We Wish You A Merry Christmas](https://open.spotify.com/album/6wd1lVSwuy1vV5WvrONGGR) | 1:28 |
 | 4 | [O Little Town Of Betlehem](https://open.spotify.com/track/1gheU3qwojggarqd8EykOv) | [Celia Cloten](https://open.spotify.com/artist/43K8HrRsXFfNZqCjavPbsa) | [O Little Town Of Betlehem](https://open.spotify.com/album/7wq0WEl08o2bduHGQESgNr) | 2:05 |
-| 5 | [I'll Be Home For Christmas](https://open.spotify.com/track/5YvgKMgdZrx1Ey4zdieQj1) | [Olivier Dernier](https://open.spotify.com/artist/3P2YIrQS0MGBnBUsenITLp) | [I'll Be Home For Christmas](https://open.spotify.com/album/5op9V5kvT225OgvhHdb0J4) | 1:14 |
-| 6 | [Silver Bells](https://open.spotify.com/track/1dJDKpryY3jvBe5a7qtpW7) | [Otar Dunley](https://open.spotify.com/artist/62ChKuMPRbU7UViE8M6pwX) | [Silver Bells](https://open.spotify.com/album/4B3tGmzWIPSkjj220NYqU1) | 2:43 |
+| 5 | [Silver Bells](https://open.spotify.com/track/1dJDKpryY3jvBe5a7qtpW7) | [Otar Dunley](https://open.spotify.com/artist/62ChKuMPRbU7UViE8M6pwX) | [Silver Bells](https://open.spotify.com/album/4B3tGmzWIPSkjj220NYqU1) | 2:43 |
+| 6 | [I'll Be Home For Christmas](https://open.spotify.com/track/5YvgKMgdZrx1Ey4zdieQj1) | [Olivier Dernier](https://open.spotify.com/artist/3P2YIrQS0MGBnBUsenITLp) | [I'll Be Home For Christmas](https://open.spotify.com/album/5op9V5kvT225OgvhHdb0J4) | 1:14 |
 | 7 | [Joy To The World](https://open.spotify.com/track/2NjzUWcGx23mzft2N2kkZI) | [Aveline Bisset](https://open.spotify.com/artist/3rAcgQY59qmzetC75wYKbJ) | [Joy To The World](https://open.spotify.com/album/5zIDMV2FDJ7uOJq6N0B4Nc) | 1:28 |
 | 8 | [It Came Upon a Midnight Clear](https://open.spotify.com/track/3CQr9je6lodUVdrZXAkdQr) | [Bart Cohen](https://open.spotify.com/artist/0QBLDqfkyZjtQJPlLeLvQh) | [It Came Upon a Midnight Clear](https://open.spotify.com/album/78QZDSa0cAbMCXumjzbbQl) | 2:42 |
 | 9 | [O Come, All Ye Faithful \(Guitar Version\)](https://open.spotify.com/track/5HiH2ZR4LixsbrPVvLr0iA) | [Kim Aspen](https://open.spotify.com/artist/0TWDlZlnx5EiVZ1Ik1l2Al) | [Traditional Christmas: Gentle Guitar Versions](https://open.spotify.com/album/7zVcTzMQfUdTzW7GssZk2c) | 2:27 |
-| 10 | [Deck The Halls](https://open.spotify.com/track/27vCWK2IVbhahTwnw5nhrW) | [Aaron Larget\-Caplan](https://open.spotify.com/artist/3SQ8wM04jpHcSbPM6Rl2BL) | [A Guitar Holiday](https://open.spotify.com/album/5fIhvb26J7V639RThl2t0X) | 1:52 |
-| 11 | [White Christmas](https://open.spotify.com/track/5vIsN7senV9wiMucuxyUOA) | [Alexas Lucio](https://open.spotify.com/artist/5K78fvhC7TVBC8mcpkMGvQ) | [White Christmas](https://open.spotify.com/album/3iBqjJbDNHhf2I6pGlWQyt) | 1:34 |
-| 12 | [The Christmas Song](https://open.spotify.com/track/1bhNFAJ9oV7IR9cftCbQD8) | [Steve Erquiaga](https://open.spotify.com/artist/21og01vigGgPGi1EPjcSON) | [The Essential Winter's Solstice](https://open.spotify.com/album/6Fo4dwa90VBEazdDqkecIt) | 3:04 |
-| 13 | [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/6kz5ogI00sTZWxmDcsgBub) | [Gil Cohen](https://open.spotify.com/artist/3RIFM8s5jyChTKVnP0ZeDe) | [Have Yourself a Merry Little Christmas](https://open.spotify.com/album/3fLOAPIiowTiSSXxQ1Ggoi) | 2:55 |
-| 14 | [My Christmas Tree](https://open.spotify.com/track/0xlmbrtxzVdbdFOow8vfhZ) | [Thomas Goran](https://open.spotify.com/artist/7G2JO0YKokgwGDFCdqBIxQ) | [My Christmas Tree](https://open.spotify.com/album/3KWxsOhFfc59PpkRbdYYiY) | 2:02 |
-| 15 | [Hark! The Angels Sing](https://open.spotify.com/track/6JrtbTlRGhJN06sQseKaJU) | [Brandon Taylor Smith](https://open.spotify.com/artist/0CkM1sLkP3yQW8I7ja51am) | [Hark! The Angels Sing](https://open.spotify.com/album/6zxRoqGoYIa3VeoZwrbrcB) | 2:14 |
-| 16 | [Angels We Have Heard On High](https://open.spotify.com/track/7CIrypZm7JYGM6Llfp97vp) | [Frederic Dupont](https://open.spotify.com/artist/1kG7NP29tzvsYI6dEmOZFF) | [Angels We Have Heard On High](https://open.spotify.com/album/0ySU6Z24ezxmtznYm934Jg) | 2:10 |
-| 17 | [Ding Dong Merrily High](https://open.spotify.com/track/2Dyf9xAvNTnv6kl8PxSDMN) | [Emma Mann Lee](https://open.spotify.com/artist/5qidU3ekPOWXD3I7qzI18Y) | [Ding Dong Merrily High](https://open.spotify.com/album/1f6UoUJCV7cyPZ4WPLI9SL) | 2:44 |
-| 18 | [Christmas Carol](https://open.spotify.com/track/0uiSMWDBiiqrpHjW5lqkF6) | [Lisa Helmer](https://open.spotify.com/artist/62OhntIcWQWg4e0MDjaHzo) | [Christmas Carol](https://open.spotify.com/album/5SZhU7s68sNUzZQmRB8apz) | 3:13 |
-| 19 | [Let It Snow](https://open.spotify.com/track/3CYQ5CLgRMAIZcriPtkOfF) | [Still Tides](https://open.spotify.com/artist/4DnWRs5XJ6CES9GbwP0BNP) | [Let It Snow](https://open.spotify.com/album/4FI4gSfytb5pqvImHDHtYC) | 2:29 |
-| 20 | [All I Want For Christmas Is You](https://open.spotify.com/track/3OnuxZ7Z5V1G9CHERUYRAa) | [Mino Lawrence](https://open.spotify.com/artist/7HHsz4iMR3pWHCusoe8Yyb) | [All I Want For Christmas Is You](https://open.spotify.com/album/2iccMKcXHKvS9ufO5gpcoY) | 3:28 |
-| 21 | [Little Drummer Boy](https://open.spotify.com/track/2rDERDzsgo0uw7n3oNXRE3) | [C\. Moreira](https://open.spotify.com/artist/3k0cZx5vqDLFwJFYJwbD02) | [Little Drummer Boy](https://open.spotify.com/album/5Jxcb6JzPcxlHedDluLm23) | 3:05 |
+| 10 | [White Christmas](https://open.spotify.com/track/5vIsN7senV9wiMucuxyUOA) | [Alexas Lucio](https://open.spotify.com/artist/5K78fvhC7TVBC8mcpkMGvQ) | [White Christmas](https://open.spotify.com/album/3iBqjJbDNHhf2I6pGlWQyt) | 1:34 |
+| 11 | [Let It Snow](https://open.spotify.com/track/3CYQ5CLgRMAIZcriPtkOfF) | [Still Tides](https://open.spotify.com/artist/4DnWRs5XJ6CES9GbwP0BNP) | [Let It Snow](https://open.spotify.com/album/4FI4gSfytb5pqvImHDHtYC) | 2:29 |
+| 12 | [Deck The Halls](https://open.spotify.com/track/27vCWK2IVbhahTwnw5nhrW) | [Aaron Larget\-Caplan](https://open.spotify.com/artist/3SQ8wM04jpHcSbPM6Rl2BL) | [A Guitar Holiday](https://open.spotify.com/album/5fIhvb26J7V639RThl2t0X) | 1:52 |
+| 13 | [Little Drummer Boy](https://open.spotify.com/track/2rDERDzsgo0uw7n3oNXRE3) | [C\. Moreira](https://open.spotify.com/artist/3k0cZx5vqDLFwJFYJwbD02) | [Little Drummer Boy](https://open.spotify.com/album/5Jxcb6JzPcxlHedDluLm23) | 3:05 |
+| 14 | [The Christmas Song](https://open.spotify.com/track/1bhNFAJ9oV7IR9cftCbQD8) | [Steve Erquiaga](https://open.spotify.com/artist/21og01vigGgPGi1EPjcSON) | [The Essential Winter's Solstice](https://open.spotify.com/album/6Fo4dwa90VBEazdDqkecIt) | 3:04 |
+| 15 | [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/6kz5ogI00sTZWxmDcsgBub) | [Gil Cohen](https://open.spotify.com/artist/3RIFM8s5jyChTKVnP0ZeDe) | [Have Yourself a Merry Little Christmas](https://open.spotify.com/album/3fLOAPIiowTiSSXxQ1Ggoi) | 2:55 |
+| 16 | [My Christmas Tree](https://open.spotify.com/track/0xlmbrtxzVdbdFOow8vfhZ) | [Thomas Goran](https://open.spotify.com/artist/7G2JO0YKokgwGDFCdqBIxQ) | [My Christmas Tree](https://open.spotify.com/album/3KWxsOhFfc59PpkRbdYYiY) | 2:02 |
+| 17 | [Hark! The Angels Sing](https://open.spotify.com/track/6JrtbTlRGhJN06sQseKaJU) | [Brandon Taylor Smith](https://open.spotify.com/artist/0CkM1sLkP3yQW8I7ja51am) | [Hark! The Angels Sing](https://open.spotify.com/album/6zxRoqGoYIa3VeoZwrbrcB) | 2:14 |
+| 18 | [Angels We Have Heard On High](https://open.spotify.com/track/7CIrypZm7JYGM6Llfp97vp) | [Frederic Dupont](https://open.spotify.com/artist/1kG7NP29tzvsYI6dEmOZFF) | [Angels We Have Heard On High](https://open.spotify.com/album/0ySU6Z24ezxmtznYm934Jg) | 2:10 |
+| 19 | [Ding Dong Merrily High](https://open.spotify.com/track/2Dyf9xAvNTnv6kl8PxSDMN) | [Emma Mann Lee](https://open.spotify.com/artist/5qidU3ekPOWXD3I7qzI18Y) | [Ding Dong Merrily High](https://open.spotify.com/album/1f6UoUJCV7cyPZ4WPLI9SL) | 2:44 |
+| 20 | [Christmas Carol](https://open.spotify.com/track/0uiSMWDBiiqrpHjW5lqkF6) | [Lisa Helmer](https://open.spotify.com/artist/62OhntIcWQWg4e0MDjaHzo) | [Christmas Carol](https://open.spotify.com/album/5SZhU7s68sNUzZQmRB8apz) | 3:13 |
+| 21 | [All I Want For Christmas Is You](https://open.spotify.com/track/3OnuxZ7Z5V1G9CHERUYRAa) | [Mino Lawrence](https://open.spotify.com/artist/7HHsz4iMR3pWHCusoe8Yyb) | [All I Want For Christmas Is You](https://open.spotify.com/album/2iccMKcXHKvS9ufO5gpcoY) | 3:28 |
 | 22 | [Hard Candy Christmas](https://open.spotify.com/track/7jX5b1gctIlAewVklSHsuL) | [Strumington](https://open.spotify.com/artist/0b48zm8rJjjkYyL9CIVnDh) | [Hard Candy Christmas](https://open.spotify.com/album/5ifNdN5BhkII7Gr7rIpCd1) | 3:27 |
 | 23 | [Feliz Navidad](https://open.spotify.com/track/3xvRbdVCBPoOD1q0381Hbr) | [Denis Raum](https://open.spotify.com/artist/04326aFqeHuCMcdFVI66EZ) | [Christmas Guitar](https://open.spotify.com/album/7FetKTnSUViylCu4GCi79T) | 2:59 |
 | 24 | [The First Noel](https://open.spotify.com/track/2ijFTJ7XHAbD9sgcVfPy5w) | [Tom Ellenhag](https://open.spotify.com/artist/0gAd6Hy6KbkeWOop5aTMqQ) | [The First Noel](https://open.spotify.com/album/66Q3ybskRWvQHk1BMNfsM6) | 1:55 |
@@ -92,4 +92,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RK4iTHSRRX.md) - [plain]
 | 82 | [One December Night](https://open.spotify.com/track/6xgqGs263ednVh1U69IYPt) | [Paul Van De Vlasakker](https://open.spotify.com/artist/65UwmvLXL5ZiP8fJi2UgpP) | [Christmas Without Words \(Acoustic Fingerstyle Guitar\)](https://open.spotify.com/album/6bwML2qC1rmknLNhkbfSBr) | 3:07 |
 | 83 | [Wexford Carol](https://open.spotify.com/track/0i4aWVfoN2YqUcRgDON9J7) | [Robin Bullock](https://open.spotify.com/artist/2ZKp4SlkqlTHfKIx46BvS0) | [A Guitar for Christmas](https://open.spotify.com/album/3D9Ztd1NJ9UM16HqnAI0jo) | 2:48 |
 
-Snapshot ID: `ZvwXGAAAAADhoSAE/lpnwEZbKnpf+g9x`
+Snapshot ID: `ZwZGgwAAAABJxJZ0OuJwJ6APFdEHCKDD`

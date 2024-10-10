@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Pawqn.md) - [plain]
 
 ### [This Is Los Tiranos Del Norte](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0Pawqn)
 
-> This Is Los Tiranos Del Norte\. Los temas esenciales, todos en una lista.
+> This is Los Tiranos Del Norte\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,437 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,441 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Pawqn.md) - [plain]
 | 49 | [Matame A Besos](https://open.spotify.com/track/0BdCLsiewfRhp0E9PItOQz) | [Norteños De La Sierra](https://open.spotify.com/artist/5cWIrTdL2LFbxVIKrEsr7s), [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Matame A Besos](https://open.spotify.com/album/4B3ALhy4BquOag7ByzASBd) | 3:12 |
 | 50 | [Hola Mi Amor](https://open.spotify.com/track/6es65uaDFByrW4iwHQk3jh) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H), [Grupo Tosco](https://open.spotify.com/artist/2m1RY3iwZrw1vgl4EVsZv0) | [Hola Mi Amor](https://open.spotify.com/album/6m8gzCE8TKJbdSRx5DTqHj) | 3:01 |
 
-Snapshot ID: `ZwMkgAAAAACUJ8QnUQ7kV88DSVgt4vHS`
+Snapshot ID: `ZwMkgAAAAAAxIB2eY4JoiV/DQ24KZC5I`

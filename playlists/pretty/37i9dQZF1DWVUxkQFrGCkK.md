@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 
 > AP
 
-[Spotify](https://open.spotify.com/user/spotify) - 305,291 likes - 330 songs - 23 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 305,398 likes - 330 songs - 23 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 | 61 | [Tata](https://open.spotify.com/track/74Kz7XuRfectOJXgThvXNf) | [Tiago Cruz](https://open.spotify.com/artist/4zbIh1AUUi68OWYtdoO6I9) | [Tata](https://open.spotify.com/album/084TlZpaKKpfPPVWOQa2Y3) | 6:04 |
 | 62 | [Morenita \- Marco Generani Remix](https://open.spotify.com/track/1gdMKcSN97pGjkToFTd3Fo) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Marco Generani](https://open.spotify.com/artist/6OFkyZFXxnH0hLJ4yeF7ki), [Cumbiafrica](https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs) | [Morenita \- Marco Generani Remix](https://open.spotify.com/album/545gv9Lffc5PDhwTPG0qtw) | 2:27 |
 | 63 | [Electric Feel](https://open.spotify.com/track/7d6bWTHr7EZgygynnxAKCA) | [James Carter](https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq), [Malou](https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp) | [Electric Feel](https://open.spotify.com/album/29BVrWf0PVRv70xlUbfjhr) | 2:50 |
-| 64 | [Cura \- Von Boch Remix](https://open.spotify.com/track/7eNE8R9BtK8ASl65zjZO8t) | [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU), [Von Boch](https://open.spotify.com/artist/7cR62TCmcorAdyny40NsP0) | [For Your Consideration \- Deluxe](https://open.spotify.com/album/0a2NGUdPl4TWVu4HAFxObU) | 3:07 |
+| 64 | [Cura \- Von Boch Remix](https://open.spotify.com/track/7eNE8R9BtK8ASl65zjZO8t) | [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU), [Von Boch](https://open.spotify.com/artist/7cR62TCmcorAdyny40NsP0) | [For Your Consideration \(Deluxe\)](https://open.spotify.com/album/0a2NGUdPl4TWVu4HAFxObU) | 3:07 |
 | 65 | [Mwana](https://open.spotify.com/track/2EGmcoimMZ5evy2lbpHyQS) | [Tasty Or Not](https://open.spotify.com/artist/3QYzuGjnQlMtraiz2fu6ad) | [Mwana](https://open.spotify.com/album/5PQjz2kUWmZ43HMPL9nya2) | 3:37 |
 | 66 | [Pangea \(feat\. Nathan Nicholson\) \- Maxi Meraki Remix](https://open.spotify.com/track/2O8RaVy9pItgOUVhfBwrqC) | [Mahmut Orhan](https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE), [Nathan Nicholson](https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd), [MAXI MERAKI](https://open.spotify.com/artist/7xGBxYsje4pkBngv1dcLmm) | [Pangea \- Maxi Meraki Remix](https://open.spotify.com/album/3rYYFme3gS5wpOg02KV6hV) | 5:27 |
 | 67 | [Stikk \- Tripolism Remix](https://open.spotify.com/track/7KjIFkqR2pgR7WkMDCw2Df) | [Meera \(NO\)](https://open.spotify.com/artist/5dlUBPnFrAnjqC9hvEpEYi), [Tripolism](https://open.spotify.com/artist/18JlbX3l0yzlwdnQVJrLsp) | [Stikk](https://open.spotify.com/album/41P5iU0AW7aPQZiohBOwCd) | 7:02 |

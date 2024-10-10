@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaBt8AqnUnAs.md) - [plain]
 
 > aqueles papo de amor tlgd não?
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,960 likes - 74 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,970 likes - 74 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaBt8AqnUnAs.md) - [plain]
 | 7 | [Personnalite / Gatinha \- Ao Vivo](https://open.spotify.com/track/0naU4aZXVeblZtF81Ktrob) | [Kant](https://open.spotify.com/artist/5RHWqLCNmcKFDME3G7sxiJ) | [Kant \(Ao Vivo no Estúdio\)](https://open.spotify.com/album/6soOCldMiP9T21Pug5xRpP) | 3:16 |
 | 8 | [PIRANHA](https://open.spotify.com/track/4GONPEUAsW33cknE8Jj4Rk) | [Aka Rasta](https://open.spotify.com/artist/1beK7BpUs2hTagfzLUb1HB), [G.A](https://open.spotify.com/artist/4yFJeWVY6IZLc5KcYCvtBE) | [PIRANHA](https://open.spotify.com/album/6Z4aNGAfMAyinhf6wcosiq) | 3:08 |
 | 9 | [Caninana](https://open.spotify.com/track/1XnpXcjzsRfrnJ8C3A8gwz) | [Torya](https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh), [Paiva Prod](https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb) | [Caninana](https://open.spotify.com/album/6d9BZBis5P7afGnwxPMA4n) | 3:10 |
-| 10 | [Linha De Frente](https://open.spotify.com/track/0iqFx9USkmzVKY4IbtYbVn) | [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO), [Tibery](https://open.spotify.com/artist/2ECTJpRqtJ5BbavpnhHT01) | [Linha De Frente](https://open.spotify.com/album/1V9S7FNSWhky8UMt9igozG) | 2:57 |
+| 10 | [Linha De Frente](https://open.spotify.com/track/0iqFx9USkmzVKY4IbtYbVn) | [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO), [Tibery](https://open.spotify.com/artist/2ECTJpRqtJ5BbavpnhHT01), [Calixto](https://open.spotify.com/artist/0S5k9vmNrcA89NVlmWoLvD) | [Linha De Frente](https://open.spotify.com/album/1V9S7FNSWhky8UMt9igozG) | 2:57 |
 | 11 | [Todo Amor Só Existe No Hoje](https://open.spotify.com/track/4NI0Dq8JYtOR7a1CpG4kIx) | [Insane.Co](https://open.spotify.com/artist/21o60Mpisg8PCArZDSNPOP), [RT Mallone](https://open.spotify.com/artist/3R10G1MFkbrhqtyPuCZe9k) | [Todo Amor Só Existe No Hoje](https://open.spotify.com/album/4sEQsWyaTFpWhGqwAbcMdv) | 2:24 |
 | 12 | [Mandona \(Se eu te dissesse\)](https://open.spotify.com/track/0yZRkiCSy4ra9EykuYyGo0) | [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh), [Bvga Beatz](https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE), [Toledo](https://open.spotify.com/artist/7I4OIWw3Zm4lUmt2QHnz30) | [Mandona \(Se eu te dissesse\)](https://open.spotify.com/album/2yvtupawElKVIkRkKQJpdK) | 2:07 |
 | 13 | [Fala na Cara](https://open.spotify.com/track/0OBv4CEP5FKS19ZQGHAUM6) | [Mc Paiva ZS](https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5), [DJ Ak beats](https://open.spotify.com/artist/685uhJgfQlrMNuarOzgyea), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC) | [Fala na Cara](https://open.spotify.com/album/7lJy7mlkpSW21llZgg96bb) | 2:51 |

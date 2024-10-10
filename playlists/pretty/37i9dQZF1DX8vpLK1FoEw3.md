@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vpLK1FoEw3.md) - [plain]
 
 > vc tem o que é necessário para entrar no clube?? dê play e descubra \#MeuSpotify com Thiaguinho
 
-[Spotify](https://open.spotify.com/user/spotify) - 627,797 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 627,778 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vpLK1FoEw3.md) - [plain]
 | 17 | [Beijo Exclusivo](https://open.spotify.com/track/1OIYrPOlk2D6Knymlsa9ub) | [Billy SP](https://open.spotify.com/artist/4GH92X1Uuv583KVfSiQBxJ) | [Beijo Exclusivo](https://open.spotify.com/album/2m7N2lQfv1srZ82WaD3AdI) | 2:06 |
 | 18 | [Sou Eu e Mais Ninguém \- Ao Vivo](https://open.spotify.com/track/12yVY2xQx6QMFEC0jPLd1K) | [Sorriso Maroto](https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG), [Thiaguinho](https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1) | [Sorriso Maroto As Antigas \- Parte 3 \- Ao Vivo](https://open.spotify.com/album/5LUG3Gv2eAwKQGWetxfa2d) | 3:24 |
 | 19 | [Envolvidassa \- Ao vivo](https://open.spotify.com/track/5qFfmI5hQhqzXnUUZGKxl9) | [Kamisa 10](https://open.spotify.com/artist/39VceBo0jXir85LCeAmAIs), [Thiaguinho](https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1) | [Envolvidassa / Prata no Bolso \(Ao vivo\)](https://open.spotify.com/album/5k6OI31dDlz0cI728yAArO) | 2:47 |
-| 20 | [Bota Fé Na Gente \- Ao Vivo](https://open.spotify.com/track/6aHYkviNrb5JLhtFm2Vav5) | [Leo Santana](https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR), [Thiaguinho](https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1) | [paGGodin \- Ao Vivo / Parte 2](https://open.spotify.com/album/6zOscwhlPpJrKdn2BiwfGO) | 3:22 |
+| 20 | [Bota Fé Na Gente \- Ao Vivo](https://open.spotify.com/track/6aHYkviNrb5JLhtFm2Vav5) | [Leo Santana](https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR), [Thiaguinho](https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1) | [paGGodin \(Ao Vivo / Parte 2\)](https://open.spotify.com/album/6zOscwhlPpJrKdn2BiwfGO) | 3:22 |
 | 21 | [Massagem](https://open.spotify.com/track/2ursC4xEpMvwcBTXY7XDE0) | [Feyjão](https://open.spotify.com/artist/2tRjUL3itR7rBI8XrvJrCt), [Ferrugem](https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2), [Thiaguinho](https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1) | [Massagem](https://open.spotify.com/album/0dhweT0lvJ3slTiEllhMLM) | 3:23 |
 | 22 | [Ela Dá Show](https://open.spotify.com/track/6BKigxry38ZQRkJETxSuOg) | [Filipe Duarte](https://open.spotify.com/artist/7eoMzgKyjN348zSXepFVCK) | [FD](https://open.spotify.com/album/4Yaf7eMIleEViU2yKGLSQO) | 2:29 |
 | 23 | [Cola Do Meu Lado](https://open.spotify.com/track/4TBbOQp1zlDaBpCBmgp54X) | [Só Pra Contrariar](https://open.spotify.com/artist/2B8HcBRTizIsSPryM46Sb1) | [O Samba Não Tem Fronteiras](https://open.spotify.com/album/28Gp1KQLSKhicCEUOJtXxP) | 3:59 |

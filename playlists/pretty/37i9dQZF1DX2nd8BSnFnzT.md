@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 
 > Viva o rock nacional! Ouça o melhor do rock brasileiro\. Foto: Zimbra
 
-[Spotify](https://open.spotify.com/user/spotify) - 498,055 likes - 80 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 498,033 likes - 80 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Eu Vi Tudo](https://open.spotify.com/track/6HSeZkMOD0wS2keT3Lg888) | [Zimbra](https://open.spotify.com/artist/11xX6bMCvpstEFOyx8lxYg) | [Pouso](https://open.spotify.com/album/4N15xqOQMEsZFLMZ5r0dBy) | 3:27 |
 | 2 | [Camadas](https://open.spotify.com/track/1FJcwfMjSB0HAbSgiv4LJW) | [Fresno](https://open.spotify.com/artist/2sFXe6NbmT3k7Qy4N8fE7f), [Chitãozinho & Xororó](https://open.spotify.com/artist/7gfkYbxpguEc9bm6m8TpAr) | [Camadas](https://open.spotify.com/album/3CiqBBWdpsCeEOpUIPE3yz) | 3:48 |
 | 3 | [Malandragem \- Ao Vivo](https://open.spotify.com/track/2AnFF6VJTemksxNOuqrtV4) | [Ana Carolina](https://open.spotify.com/artist/4HP9KltldfmkH2M2pQozzN) | [Malandragem \- Ao Vivo](https://open.spotify.com/album/4nOyvI1MmLYEFmh31m95Ne) | 3:51 |
-| 4 | [Não é Normal \- Ao Vivo](https://open.spotify.com/track/0KFnlMH2qIzpAr2daxGXVa) | [NX Zero](https://open.spotify.com/artist/1A3dFCPF68vh5lyxzBqLUH) | [Tour Cedo ou Tarde \- Ao Vivo](https://open.spotify.com/album/4xOPGSx0QLhjmYo1OG1NbR) | 5:08 |
+| 4 | [Não é Normal \- Ao Vivo](https://open.spotify.com/track/0KFnlMH2qIzpAr2daxGXVa) | [NX Zero](https://open.spotify.com/artist/1A3dFCPF68vh5lyxzBqLUH) | [Tour Cedo ou Tarde \(Ao Vivo\)](https://open.spotify.com/album/4xOPGSx0QLhjmYo1OG1NbR) | 5:08 |
 | 5 | [Apocalipse Só \(Microfonado\)](https://open.spotify.com/track/0kjmWJQlLQymaMb7y0iVE6) | [Titãs](https://open.spotify.com/artist/2euX7vCVnJy3TVEGfc0RCl), [Ney Matogrosso](https://open.spotify.com/artist/2SFIMUkCdZowbeisskDdhn) | [Microfonado](https://open.spotify.com/album/4PooNcpHa9bDZwTWwegRg6) | 3:23 |
 | 6 | [VIA DUPLA](https://open.spotify.com/track/1dRZRio5j7ETsizX0CMDqM) | [Ciça Moreira](https://open.spotify.com/artist/6d4FihzI3byHpea2O2SCJt) | [SÍNDRØME](https://open.spotify.com/album/2qkhEKZ53vhwuA2bZSZU04) | 3:03 |
 | 7 | [PERPÉTUO](https://open.spotify.com/track/2OIkwlfcRxzsAAX6CbIyYx) | [Black Pantera](https://open.spotify.com/artist/2PftOgEPewb4XsaeE4567t) | [PERPÉTUO](https://open.spotify.com/album/1jq6ILT0x3Rrx9gHpUGplW) | 4:17 |

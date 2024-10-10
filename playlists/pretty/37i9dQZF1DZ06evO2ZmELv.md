@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ZmELv.md) - [plain]
 
 ### [This Is Cheli Madrid](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2ZmELv)
 
-> This Is Cheli Madrid\. Los temas esenciales, todos en una lista.
+> This is Cheli Madrid\. The essential tracks, all in one playlist.
 
 [Spotify](https://open.spotify.com/user/spotify) - 204 likes - 41 songs - 2 hr 10 min
 
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ZmELv.md) - [plain]
 | 40 | [Con Rumbo Al Sur \- En Vivo](https://open.spotify.com/track/5FyPPML88pOwIzVRhpV0QH) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Canciones de Oro, Vol\. 2 \(En Vivo\)](https://open.spotify.com/album/3aABuHHm5yN2SsSTIdupOw) | 2:55 |
 | 41 | [Corazón De Oropel \- En Vivo](https://open.spotify.com/track/0hHpTNFOXCksQqWLrmzo8s) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Canciones de Oro, Vol\. 2 \(En Vivo\)](https://open.spotify.com/album/3aABuHHm5yN2SsSTIdupOw) | 2:41 |
 
-Snapshot ID: `ZwMkgAAAAAAoidcxcqg+DNf212m5gC6J`
+Snapshot ID: `ZwMkgAAAAAAC1y+YnkuNNLxFNFlwC7c9`

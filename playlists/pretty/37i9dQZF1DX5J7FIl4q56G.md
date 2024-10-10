@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > This week's best new tracks in metal, hard rock, and all things heavy\. Cover: Soilwork
 
-[Spotify](https://open.spotify.com/user/spotify) - 723,814 likes - 53 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 723,892 likes - 53 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 52 | [Idée Fixe](https://open.spotify.com/track/1UMe7MD2LHnThbzgR9TyBh) | [Odium Humani Generis](https://open.spotify.com/artist/2AddxutXZuIOQeP8zHtUdM) | [Międzyczas](https://open.spotify.com/album/58sM9M6M7go4aKDygqgU40) | 7:07 |
 | 53 | [Eternal Erode](https://open.spotify.com/track/6OwJpee1NW7kg3uZBTe2gM) | [Oddland](https://open.spotify.com/artist/2C4y5kq2y7T69khYjax5YB) | [Eternal Erode](https://open.spotify.com/album/0oHZOTaf40ZeJlw35bJ1Ko) | 3:43 |
 
-Snapshot ID: `Zv9oQAAAAACE/f+2uKjLPi7fU74HJCH1`
+Snapshot ID: `ZwbUagAAAAAOqvyLJzq/7qoKocfEORJV`

@@ -1,6 +1,6 @@
 {
   "description": "P\u00f4r do sol com p\u00e9 na areia e aquela resenha com viol\u00e3o e muita rima.",
-  "num_followers": 158494,
+  "num_followers": 158500,
   "original_name": "Resenha na Praia",
   "owner": {
     "name": "Spotify",
@@ -791,6 +791,34 @@
     {
       "added_at": "2024-10-04 14:01:52",
       "album": {
+        "name": "Frenesim",
+        "url": "https://open.spotify.com/album/4HqDxFfITq5KTU1ZoBIOQ5"
+      },
+      "artists": [
+        {
+          "name": "Italo Melo",
+          "url": "https://open.spotify.com/artist/7DCF8Y7xwC2LkdHth5E7c8"
+        },
+        {
+          "name": "TX",
+          "url": "https://open.spotify.com/artist/1DENl6mSR2p9reWTKIn2o2"
+        },
+        {
+          "name": "Alee",
+          "url": "https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4"
+        },
+        {
+          "name": "Rich DS",
+          "url": "https://open.spotify.com/artist/1v2xYnBfCPpxlFTupVUOtz"
+        }
+      ],
+      "duration_ms": 226342,
+      "name": "Vaidosa",
+      "url": "https://open.spotify.com/track/4QpeOAEjJCmpzMw4RnWXtg"
+    },
+    {
+      "added_at": "2024-10-04 14:01:52",
+      "album": {
         "name": "Algu\u00e9m Tinha Que Falar De Amor",
         "url": "https://open.spotify.com/album/61EMtt0oFtdaLZmP8EmxGf"
       },
@@ -879,34 +907,6 @@
     {
       "added_at": "2024-10-04 14:01:52",
       "album": {
-        "name": "Frenesim",
-        "url": "https://open.spotify.com/album/4HqDxFfITq5KTU1ZoBIOQ5"
-      },
-      "artists": [
-        {
-          "name": "Italo Melo",
-          "url": "https://open.spotify.com/artist/7DCF8Y7xwC2LkdHth5E7c8"
-        },
-        {
-          "name": "TX",
-          "url": "https://open.spotify.com/artist/1DENl6mSR2p9reWTKIn2o2"
-        },
-        {
-          "name": "Alee",
-          "url": "https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4"
-        },
-        {
-          "name": "Rich DS",
-          "url": "https://open.spotify.com/artist/1v2xYnBfCPpxlFTupVUOtz"
-        }
-      ],
-      "duration_ms": 226342,
-      "name": "Vaidosa",
-      "url": "https://open.spotify.com/track/4QpeOAEjJCmpzMw4RnWXtg"
-    },
-    {
-      "added_at": "2024-10-04 14:01:52",
-      "album": {
         "name": "Pra Voc\u00ea Ficar",
         "url": "https://open.spotify.com/album/3Ub14El2fpwfXczl3uPPrl"
       },
@@ -943,6 +943,26 @@
       "duration_ms": 207640,
       "name": "Revoada",
       "url": "https://open.spotify.com/track/50CnsLVWEypahw6Wze00qL"
+    },
+    {
+      "added_at": "2024-10-04 14:01:52",
+      "album": {
+        "name": "Poseidon",
+        "url": "https://open.spotify.com/album/408vTULsOGuZc8BvZ6wqAz"
+      },
+      "artists": [
+        {
+          "name": "Menestrel",
+          "url": "https://open.spotify.com/artist/4eQ4RMjplRznwHA1UBNnXT"
+        },
+        {
+          "name": "Beats By Hyden",
+          "url": "https://open.spotify.com/artist/2cUGt8RNoJuc6NOEIlqSDi"
+        }
+      ],
+      "duration_ms": 178144,
+      "name": "Poseidon",
+      "url": "https://open.spotify.com/track/7bDg5jVkv41akvlmzTUYvv"
     },
     {
       "added_at": "2024-10-04 14:01:52",
@@ -1003,26 +1023,6 @@
       "duration_ms": 312000,
       "name": "Algum Lugar Pra Gente Viajar",
       "url": "https://open.spotify.com/track/63r2vryWNB2R9q3iTu0VzI"
-    },
-    {
-      "added_at": "2024-10-04 14:01:52",
-      "album": {
-        "name": "Poseidon",
-        "url": "https://open.spotify.com/album/408vTULsOGuZc8BvZ6wqAz"
-      },
-      "artists": [
-        {
-          "name": "Menestrel",
-          "url": "https://open.spotify.com/artist/4eQ4RMjplRznwHA1UBNnXT"
-        },
-        {
-          "name": "Beats By Hyden",
-          "url": "https://open.spotify.com/artist/2cUGt8RNoJuc6NOEIlqSDi"
-        }
-      ],
-      "duration_ms": 178144,
-      "name": "Poseidon",
-      "url": "https://open.spotify.com/track/7bDg5jVkv41akvlmzTUYvv"
     },
     {
       "added_at": "2024-10-04 14:01:52",
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2024-10-04 14:01:52",
       "album": {
+        "name": "Doses",
+        "url": "https://open.spotify.com/album/7iPcwRcW1XYDiElkwZzqEd"
+      },
+      "artists": [
+        {
+          "name": "Ka\u00ea",
+          "url": "https://open.spotify.com/artist/4H5GlbUSm2crOdhfxerDxY"
+        }
+      ],
+      "duration_ms": 206210,
+      "name": "Doses",
+      "url": "https://open.spotify.com/track/6wlLKk88zURUCDZqKwwqFr"
+    },
+    {
+      "added_at": "2024-10-04 14:01:52",
+      "album": {
         "name": "Tudo Come\u00e7ou",
         "url": "https://open.spotify.com/album/3ZYVUaDhyt9BvqTdmq4Cwi"
       },
@@ -1239,22 +1255,6 @@
       "duration_ms": 145953,
       "name": "Tudo Come\u00e7ou",
       "url": "https://open.spotify.com/track/3YxDUy8pxY8vs7mZcn0TK1"
-    },
-    {
-      "added_at": "2024-10-04 14:01:52",
-      "album": {
-        "name": "Doses",
-        "url": "https://open.spotify.com/album/7iPcwRcW1XYDiElkwZzqEd"
-      },
-      "artists": [
-        {
-          "name": "Ka\u00ea",
-          "url": "https://open.spotify.com/artist/4H5GlbUSm2crOdhfxerDxY"
-        }
-      ],
-      "duration_ms": 206210,
-      "name": "Doses",
-      "url": "https://open.spotify.com/track/6wlLKk88zURUCDZqKwwqFr"
     },
     {
       "added_at": "2024-10-04 14:01:52",
@@ -1287,6 +1287,22 @@
     {
       "added_at": "2024-10-04 14:01:52",
       "album": {
+        "name": "Sabe Qual \u00c9",
+        "url": "https://open.spotify.com/album/0pOetxYIZaNrd3Xdewp9Fd"
+      },
+      "artists": [
+        {
+          "name": "Nathan",
+          "url": "https://open.spotify.com/artist/2ZBQCf1PXTCH95h3msgluA"
+        }
+      ],
+      "duration_ms": 150361,
+      "name": "Sabe Qual \u00c9",
+      "url": "https://open.spotify.com/track/3mctWBqWWKZn7rsyjWVtDe"
+    },
+    {
+      "added_at": "2024-10-04 14:01:52",
+      "album": {
         "name": "Mar Azul",
         "url": "https://open.spotify.com/album/49UNyzh4KstprJWNGiDwli"
       },
@@ -1307,18 +1323,18 @@
     {
       "added_at": "2024-10-04 14:01:52",
       "album": {
-        "name": "Sabe Qual \u00c9",
-        "url": "https://open.spotify.com/album/0pOetxYIZaNrd3Xdewp9Fd"
+        "name": "Perto do Sol",
+        "url": "https://open.spotify.com/album/7rrUcWBn8BA67KRpL6rS0r"
       },
       "artists": [
         {
-          "name": "Nathan",
-          "url": "https://open.spotify.com/artist/2ZBQCf1PXTCH95h3msgluA"
+          "name": "RNT",
+          "url": "https://open.spotify.com/artist/5oQCmIhv8pxJm3mhIvrg9d"
         }
       ],
-      "duration_ms": 150361,
-      "name": "Sabe Qual \u00c9",
-      "url": "https://open.spotify.com/track/3mctWBqWWKZn7rsyjWVtDe"
+      "duration_ms": 168292,
+      "name": "Perto do Sol",
+      "url": "https://open.spotify.com/track/7nnxD1h7mXYgWVTKsb2uib"
     },
     {
       "added_at": "2024-10-04 14:01:52",
@@ -1339,22 +1355,6 @@
       "duration_ms": 169409,
       "name": "Vento Bom",
       "url": "https://open.spotify.com/track/3TstCrqLn3542vXjNKCpV2"
-    },
-    {
-      "added_at": "2024-10-04 14:01:52",
-      "album": {
-        "name": "Perto do Sol",
-        "url": "https://open.spotify.com/album/7rrUcWBn8BA67KRpL6rS0r"
-      },
-      "artists": [
-        {
-          "name": "RNT",
-          "url": "https://open.spotify.com/artist/5oQCmIhv8pxJm3mhIvrg9d"
-        }
-      ],
-      "duration_ms": 168292,
-      "name": "Perto do Sol",
-      "url": "https://open.spotify.com/track/7nnxD1h7mXYgWVTKsb2uib"
     },
     {
       "added_at": "2024-10-04 14:01:52",

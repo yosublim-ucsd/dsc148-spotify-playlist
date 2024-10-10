@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4Dmnn4U23IpI.md) - [plain]
 
 > With Gunship, Ollie Wride, The Bad Dreamers and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,502 likes - 50 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,510 likes - 50 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4Dmnn4U23IpI.md) - [plain]
 | 49 | [The Driver](https://open.spotify.com/track/7sOcTBKCHGjgBHsQ8P3f1h) | [Ollie Wride](https://open.spotify.com/artist/1anhHn744LbctzF9EHpvea), [The Night Hour](https://open.spotify.com/artist/1gmZS91715o8IEx65UQBtt) | [Thanks in Advance](https://open.spotify.com/album/1JiuJah80m8o5kiMExJKUe) | 4:06 |
 | 50 | [Woken Furies](https://open.spotify.com/track/1gGNnSJrFVe4LCnP0nCbDJ) | [Gunship](https://open.spotify.com/artist/3PALZKWkpwjRvBsRmhlVSS) | [Dark All Day](https://open.spotify.com/album/0rXLjiZSS0B7yYqCvz2akm) | 5:07 |
 
-Snapshot ID: `ZwXrmwAAAAC2CsGwQ8JOMtj4d/VV8DrU`
+Snapshot ID: `Zwc8qgAAAAAjZlG2PI95WAhIx8XriR/z`

@@ -563,6 +563,24 @@
     },
     {
       "album": {
+        "name": "Geek Love",
+        "url": "https://open.spotify.com/album/3tgHVBF744MI6SU0QrpT0J"
+      },
+      "artists": [
+        {
+          "name": "Skinner",
+          "url": "https://open.spotify.com/artist/2Se7imfs8bxem8G6oVNABJ"
+        }
+      ],
+      "date_added": "2024-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236625,
+      "name": "Geek Love",
+      "url": "https://open.spotify.com/track/6mAx6HpOuJDRbrcj9olnPD"
+    },
+    {
+      "album": {
         "name": "INA CRUELER",
         "url": "https://open.spotify.com/album/3ubVyD69OGIio1WZ61Z9a5"
       },

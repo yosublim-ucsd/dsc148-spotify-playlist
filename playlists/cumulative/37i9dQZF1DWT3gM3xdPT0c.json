@@ -1607,6 +1607,24 @@
     },
     {
       "album": {
+        "name": "Early Days",
+        "url": "https://open.spotify.com/album/1XIGqM2coLEHMfmcp9OgIK"
+      },
+      "artists": [
+        {
+          "name": "Kim Rodgers",
+          "url": "https://open.spotify.com/artist/0FCH53d9OEyXLQeWb6ZYrQ"
+        }
+      ],
+      "date_added": "2024-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177418,
+      "name": "Early Days",
+      "url": "https://open.spotify.com/track/01iVocCFC4YyhLqfIhTJU3"
+    },
+    {
+      "album": {
         "name": "Early Morning Dream",
         "url": "https://open.spotify.com/album/2gQxSh8wGNqv4iGo5GlzYO"
       },
@@ -2183,6 +2201,24 @@
     },
     {
       "album": {
+        "name": "From Time Before",
+        "url": "https://open.spotify.com/album/1XXbpGYdc9V9M72XNKKDXy"
+      },
+      "artists": [
+        {
+          "name": "Somerset Kent",
+          "url": "https://open.spotify.com/artist/4Mh07BnVno64HfPVnpy1aw"
+        }
+      ],
+      "date_added": "2024-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170055,
+      "name": "From Time Before",
+      "url": "https://open.spotify.com/track/6ZyJ4KBxjPg9bsem6xicGH"
+    },
+    {
+      "album": {
         "name": "Fr\u00fchlingsgef\u00fchle",
         "url": "https://open.spotify.com/album/7M5trxxK8lsEExyuBP1Au8"
       },
@@ -2400,7 +2436,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-10",
       "duration_ms": 137538,
       "name": "Green Grove",
       "url": "https://open.spotify.com/track/254HGk3wJX7S8YgGaB6zWK"
@@ -3304,7 +3340,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-10",
       "duration_ms": 148000,
       "name": "Last rose of summer",
       "url": "https://open.spotify.com/track/1H2YnSQPwaHpCL7DwF7qS6"
@@ -3538,7 +3574,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-10",
       "duration_ms": 152230,
       "name": "Lonely River",
       "url": "https://open.spotify.com/track/482Y0xLWcjYHFo7BcJw0Dm"

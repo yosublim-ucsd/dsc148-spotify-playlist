@@ -2,7 +2,7 @@
 
 ### [This Is Bo Bundy](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3tmmwE)
 
-> This is Bo Bundy\. The essential tracks, all in one playlist.
+> This Is Bo Bundy\. Все лучшие треки в одном плейлисте.
 
 55 songs - 2 hr 30 min
 

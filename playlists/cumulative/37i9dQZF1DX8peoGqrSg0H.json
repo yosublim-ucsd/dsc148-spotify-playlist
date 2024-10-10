@@ -403,6 +403,24 @@
     },
     {
       "album": {
+        "name": "BODYGUARD - Single",
+        "url": "https://open.spotify.com/album/0djSHy4lxpLZCznzQyPqRW"
+      },
+      "artists": [
+        {
+          "name": "PERSES",
+          "url": "https://open.spotify.com/artist/1rRs0oN28NPUQxO4TffpSY"
+        }
+      ],
+      "date_added": "2024-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185517,
+      "name": "BODYGUARD",
+      "url": "https://open.spotify.com/track/6zb8KlBjdh0CgJch2zic8E"
+    },
+    {
+      "album": {
         "name": "Boutchya",
         "url": "https://open.spotify.com/album/7weTHaUxknmqDfw1vU7ljr"
       },
@@ -876,6 +894,24 @@
       "duration_ms": 243000,
       "name": "FORGET ME NOT",
       "url": "https://open.spotify.com/track/0VSqxk67oPYJAhiIXzW3KP"
+    },
+    {
+      "album": {
+        "name": "Golden Hour",
+        "url": "https://open.spotify.com/album/4QTIX97bM4K457krl2S4eB"
+      },
+      "artists": [
+        {
+          "name": "Billkin",
+          "url": "https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj"
+        }
+      ],
+      "date_added": "2024-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224565,
+      "name": "Golden Hour",
+      "url": "https://open.spotify.com/track/72Jc8BV2cEQAOuVoHVTJy3"
     },
     {
       "album": {
@@ -2890,7 +2926,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-10",
       "duration_ms": 176860,
       "name": "\u0e01\u0e25\u0e31\u0e1a\u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27 (Don't Say)",
       "url": "https://open.spotify.com/track/1zkLmmX5ykuubJ87Li4Lk1"
@@ -4630,7 +4666,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-10",
       "duration_ms": 214617,
       "name": "\u0e0b\u0e31\u0e14\u0e2a\u0e31\u0e01\u0e17\u0e35 (Knock Out!)",
       "url": "https://open.spotify.com/track/6AkV52ZIcHEVNxJUGpHVL3"

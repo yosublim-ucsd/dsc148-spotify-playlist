@@ -671,6 +671,24 @@
     },
     {
       "album": {
+        "name": "Behind that Shadow",
+        "url": "https://open.spotify.com/album/5O5bqnGkpZIAUk5fit5o5G"
+      },
+      "artists": [
+        {
+          "name": "Jonka Ebony",
+          "url": "https://open.spotify.com/artist/1JTHwGu0pNf3WuXKyaZFAE"
+        }
+      ],
+      "date_added": "2024-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138625,
+      "name": "Behind that Shadow",
+      "url": "https://open.spotify.com/track/2ak4qF5VErlR1AnkMihYNR"
+    },
+    {
+      "album": {
         "name": "Bela Vista",
         "url": "https://open.spotify.com/album/2onZ4M2kSJuPEFZ5HlQu6f"
       },

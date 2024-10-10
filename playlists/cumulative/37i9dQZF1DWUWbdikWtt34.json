@@ -877,6 +877,24 @@
     },
     {
       "album": {
+        "name": "Diculik Cinta",
+        "url": "https://open.spotify.com/album/1WAky2d2OC4s30TL2pcSzh"
+      },
+      "artists": [
+        {
+          "name": "Gusti Irwan Wibowo",
+          "url": "https://open.spotify.com/artist/79hiSpofXIj7h1wD5KKsk3"
+        }
+      ],
+      "date_added": "2024-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234375,
+      "name": "Diculik Cinta",
+      "url": "https://open.spotify.com/track/2mPoMjgDfxbTpjOKtB5PRy"
+    },
+    {
+      "album": {
         "name": "Disana Menanti Disini Menunggu",
         "url": "https://open.spotify.com/album/2wAZfFwKQClDtenYYVPQ66"
       },

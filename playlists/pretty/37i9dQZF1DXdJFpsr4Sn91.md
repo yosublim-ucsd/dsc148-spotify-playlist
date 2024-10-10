@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJFpsr4Sn91.md) - [plain]
 
 > Nousussa olevat hitit\. Kannessa Jemina.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,547 likes - 80 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,558 likes - 80 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJFpsr4Sn91.md) - [plain]
 | 30 | [Otan Kii](https://open.spotify.com/track/0msAT2TjdYnHHCkS2WajM4) | [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D), [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ) | [Otan Kii](https://open.spotify.com/album/5txkutfbBbOpnGVl5ufKeJ) | 2:57 |
 | 31 | [Eurostar](https://open.spotify.com/track/6uDqKkOeYnE7W1KZMMBPve) | [Nemo](https://open.spotify.com/artist/5Wg72TowYBWIcSo3K2r84N) | [Eurostar](https://open.spotify.com/album/3TIuWz1xtNlre0XVZqm0BS) | 2:45 |
 | 32 | [Emojisydän](https://open.spotify.com/track/7rf5PlPnAowf0ZEIBbtP5Z) | [Pyzze](https://open.spotify.com/artist/3iTmpLBQG2vcR7eywDGAUZ), [ibe](https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA) | [Pieni Prinssi](https://open.spotify.com/album/2xKngIuCsxZOr8TpIE2Pz5) | 3:02 |
-| 33 | [⁠Kaunotar ja Kulkuri \(feat\. KIKI\)](https://open.spotify.com/track/1wgxN8TeKxMHx9MCCIVDbA) | [NOTO](https://open.spotify.com/artist/3aXzx5ES0capjaDyvYsdRI), [KIKI](https://open.spotify.com/artist/1oA7qBnZAZQ33lEteUqROx) | [NOTORIUS](https://open.spotify.com/album/6Db6D3qhAq6FdtcpN9XKy8) | 2:24 |
+| 33 | [⁠Kaunotar ja Kulkuri \(feat\. KIKI\)](https://open.spotify.com/track/1wgxN8TeKxMHx9MCCIVDbA) | [NOTO](https://open.spotify.com/artist/3aXzx5ES0capjaDyvYsdRI), [KIKI](https://open.spotify.com/artist/5zod5X1F6ZTshIfpg2vVAF) | [NOTORIUS](https://open.spotify.com/album/6Db6D3qhAq6FdtcpN9XKy8) | 2:24 |
 | 34 | [The Sound of Silence \- CYRIL Remix](https://open.spotify.com/track/1LY3GhF0zxIVgbYEQjCbUO) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa), [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom) | [The Sound of Silence \(CYRIL Remix\)](https://open.spotify.com/album/4AaJMesGEVwF7QpWMSG29p) | 3:05 |
 | 35 | [Painajaiset](https://open.spotify.com/track/4uja2Q6sXUYoGgjvWUlFez) | [HUGO](https://open.spotify.com/artist/3nKO9WbvsGZEwcCSQgwtxZ) | [Kehykset](https://open.spotify.com/album/1V3KJYqBkdDSHFY3oAurAR) | 2:59 |
 | 36 | [Finally](https://open.spotify.com/track/5a2Mb0OPY17zkS8FnciQhg) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Finally](https://open.spotify.com/album/5UdlVNeKvUDoaNmy9fhhft) | 3:35 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXBHEDDpqLs.md) - [plain]
 
 > the best cuts from the underground, at the heart of club culture 💎💎
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,160 likes - 100 songs - 7 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,229 likes - 100 songs - 7 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXBHEDDpqLs.md) - [plain]
 | 23 | [I Stay](https://open.spotify.com/track/6YEc6DRqlQTRcmKjYggOnN) | [Megra](https://open.spotify.com/artist/75JMPNQ1B2A6WZydvs06Ok) | [I Stay](https://open.spotify.com/album/74z5d0cBn4c6YdDGWb4gLd) | 3:33 |
 | 24 | [Designer Shapes](https://open.spotify.com/track/78I2iQC5jeCQNVBlaHqaxu) | [Mella Dee](https://open.spotify.com/artist/2iT8KIetokMHRjhj8dJuNn) | [Designer Shapes / Buzzers](https://open.spotify.com/album/6fS7FZ0R9GPGyyhGBGs8xM) | 5:47 |
 | 25 | [SLAM CITY](https://open.spotify.com/track/1U0P29zPD1LBYpdXIOrqdM) | [JIALING](https://open.spotify.com/artist/6DeRQclhjr2FXuJZvkQr24), [Farsight](https://open.spotify.com/artist/2gTyZstDbbmkkohxLNchlj) | [SLAM CITY](https://open.spotify.com/album/7yKrxEGw9Yv5YA8dfleSyl) | 5:02 |
-| 26 | [Black Razz](https://open.spotify.com/track/2zQPemdru2fLGPrgo6Dw1G) | [LA Boix](https://open.spotify.com/artist/2ecmFLQHjkBncMCGZ5yQKx), [Thee Mike B](https://open.spotify.com/artist/49nsDhtufKEYcLkIYv5cln), [Salva](https://open.spotify.com/artist/0JQaXh3HoqpI68C2pYUbNW) | [La Boix, Vol\. 1](https://open.spotify.com/album/6tHiZBYqt3Iovas6hTy4ex) | 4:27 |
+| 26 | [Black Razz](https://open.spotify.com/track/2zQPemdru2fLGPrgo6Dw1G) | [La Boix](https://open.spotify.com/artist/2ecmFLQHjkBncMCGZ5yQKx), [Thee Mike B](https://open.spotify.com/artist/49nsDhtufKEYcLkIYv5cln), [Salva](https://open.spotify.com/artist/0JQaXh3HoqpI68C2pYUbNW) | [La Boix, Vol\. 1](https://open.spotify.com/album/6tHiZBYqt3Iovas6hTy4ex) | 4:27 |
 | 27 | [Krylon](https://open.spotify.com/track/5DE5Rd22uuo6XxDZN4MkyE) | [Dorothys Fortress](https://open.spotify.com/artist/6VLxD1WKg1ykIzBC9nuDAN) | [Krylon](https://open.spotify.com/album/3VdkF0PvW7YXT9ik1LILV1) | 4:55 |
 | 28 | [SEVEN](https://open.spotify.com/track/4hq2k2W3zm4DrXfg1FhYk3) | [Rookley](https://open.spotify.com/artist/5Evlo2ZktsorBYAsxGRtIP) | [SEVEN](https://open.spotify.com/album/2oMhjHz6JIzLH5m0xKDCab) | 4:21 |
 | 29 | [Wait & See](https://open.spotify.com/track/56c0h2Gd05unjVXwXtKyuF) | [Loidis](https://open.spotify.com/artist/2TDYu0uxVowgHaYN6P14k2) | [One Day](https://open.spotify.com/album/5sDlDQVSfTst7kotzZuc7E) | 7:13 |

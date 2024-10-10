@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1AJHvq.md) - [plain]
 
 ### [This Is Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1AJHvq)
 
-> This is Ariel Camacho y Los Plebes Del Rancho\. The essential tracks, all in one playlist.
+> This Is Ariel Camacho y Los Plebes Del Rancho\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 415,792 likes - 38 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 415,882 likes - 38 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1AJHvq.md) - [plain]
 | 37 | [El Corrido Del Cabe \- En Vivo](https://open.spotify.com/track/63y6f3wuJhab73GOoWyY4G) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [En Vivo Con Tololoche](https://open.spotify.com/album/2WtJjUZbtNDFp1UPKfQYxk) | 3:38 |
 | 38 | [Edgar Guzman \- En Vivo](https://open.spotify.com/track/6kHc0gC9JVPX0zxk7IMiLF) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [Recuerdos Para Pistear \- En Vivo](https://open.spotify.com/album/3EqZCAqWhTaD0yZouLViMU) | 3:07 |
 
-Snapshot ID: `ZwMkgAAAAAAdO8UYoGFHkbCbBASeU0PM`
+Snapshot ID: `ZwMkgAAAAADEjB+VuwPLDnAUDHpHTpas`

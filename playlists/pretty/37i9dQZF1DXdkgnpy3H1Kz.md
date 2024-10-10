@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdkgnpy3H1Kz.md) - [plain]
 
 > <a href="spotify:artist:5lsC3H1vh9YSRQckyGv0Up">Ellen Allien</a>'s favorite tracks\. Updated regularly\. Curated by Ellen Allien\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,576 likes - 38 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,581 likes - 38 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdkgnpy3H1Kz.md) - [plain]
 | 31 | [Scary Night](https://open.spotify.com/track/5Y7gj6bDdihGXdwzsNped5) | [DJ Physical](https://open.spotify.com/artist/5gLrd7zW9n1zpwkKsmzsrk) | [Scary Night](https://open.spotify.com/album/2ErhvHN0w7WcaShDpKjft9) | 5:50 |
 | 32 | [Stackin' Up!](https://open.spotify.com/track/6PfSd01j1QJDyjqSaKAea7) | [JUICY SELEKTA](https://open.spotify.com/artist/3jvFftJf63oSNEIgO4sGKw) | [Stackin' Up!](https://open.spotify.com/album/3nYclCgC0aYAzlC5PMhbM6) | 5:47 |
 | 33 | [We Are The Future](https://open.spotify.com/track/5XfFD9489d8uOKmJKK7Guj) | [Reka](https://open.spotify.com/artist/7An060Vzi2rRZrTxXNEhCc) | [Ellen Allien Presents We Are Not Alone, Pt\. 4](https://open.spotify.com/album/6co7oPZX5f1rg9BaxmxV5Y) | 4:30 |
-| 34 | [Vernalagnia](https://open.spotify.com/track/0kNle7GcmRGG7qlFdZjqJ4) | [Shaleen](https://open.spotify.com/artist/6S3LS6dVFu46JnfXaSplZu) | [Vernalagnia](https://open.spotify.com/album/3IZOBuaVcfR7eg36b9m9oS) | 4:56 |
+| 34 | [Vernalagnia](https://open.spotify.com/track/0kNle7GcmRGG7qlFdZjqJ4) | [Shaleen](https://open.spotify.com/artist/70NHrQYbrBropRsdVLry5p) | [Vernalagnia](https://open.spotify.com/album/3IZOBuaVcfR7eg36b9m9oS) | 4:56 |
 | 35 | [Rock This Place](https://open.spotify.com/track/21RKj7BV5VrM53xnEQOwqG) | [Sina XX](https://open.spotify.com/artist/60perU8GxsiR4Rup8KT9XU) | [Rock This Place](https://open.spotify.com/album/4bnNTyskWnGEGunqo2MPbH) | 4:24 |
 | 36 | [This House is Burning](https://open.spotify.com/track/0ENRaX9IjNCgCGdBDyFmeQ) | [Karl Kave](https://open.spotify.com/artist/3KrIw42Q0x8jQpqzND2SeD) | [Ellen Allien Presents We Are Not Alone, Pt\. 4](https://open.spotify.com/album/6co7oPZX5f1rg9BaxmxV5Y) | 3:43 |
 | 37 | [Miami Walk](https://open.spotify.com/track/6M1gKJ33b93yzwScug8kDK) | [DM 90](https://open.spotify.com/artist/7pVTLdf8j65BYsLYmIuesd) | [Isolation VA 2020](https://open.spotify.com/album/4UqGRYIiN1P0LwqAPhDmjv) | 2:07 |

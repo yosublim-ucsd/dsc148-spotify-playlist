@@ -2,7 +2,7 @@
 
 ### [This Is Yuki Hayashi](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1YiLbd)
 
-> This Is Yuki Hayashi\. Los temas esenciales, todos en una lista.
+> This is Yuki Hayashi\. The essential tracks, all in one playlist.
 
 141 songs - 6 hr 30 min
 

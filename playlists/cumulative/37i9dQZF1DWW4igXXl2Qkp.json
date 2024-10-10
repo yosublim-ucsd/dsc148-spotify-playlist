@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best new hip-hop music by independent artists and labels. Cover: <a href=\"spotify:artist:5nwxAowdUQSK1tuyVHD5lJ\">Lisha G</a>\n",
+  "description": "The best new hip-hop music by independent artists and labels. Cover: <a href=\"spotify:artist:2iOv2a8p88ODjRF2Xoeuwk\">T99zy</a>\n",
   "name": "Fresh Finds Hip-Hop",
   "tracks": [
     {
@@ -2272,6 +2272,32 @@
       "duration_ms": 247058,
       "name": "Back Home",
       "url": "https://open.spotify.com/track/3EfRwhlqbUthSLK9f80vG1"
+    },
+    {
+      "album": {
+        "name": "an APPLE a day (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5fIw6VeBYItjz8HgZdWQPE"
+      },
+      "artists": [
+        {
+          "name": "Donte Thomas",
+          "url": "https://open.spotify.com/artist/53F7MNlYur7XEV75tY3Yor"
+        },
+        {
+          "name": "Malik Elijah",
+          "url": "https://open.spotify.com/artist/1go10OxHP4fyGsyWfJcFEh"
+        },
+        {
+          "name": "MyFavoriteColor",
+          "url": "https://open.spotify.com/artist/4ahfNEIO8NuGCgMhMzRv33"
+        }
+      ],
+      "date_added": "2024-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256363,
+      "name": "BACK HOME - Bonus Track",
+      "url": "https://open.spotify.com/track/0xHGxZSV1fqdxOK3sOnYc6"
     },
     {
       "album": {
@@ -7276,7 +7302,7 @@
       ],
       "date_added": "2024-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-10",
       "duration_ms": 163908,
       "name": "Doubling Forks",
       "url": "https://open.spotify.com/track/1de22v4G6ROGvzSgWEI0hf"
@@ -7920,7 +7946,7 @@
       ],
       "date_added": "2023-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-10",
       "duration_ms": 118235,
       "name": "Even Angels Cry",
       "url": "https://open.spotify.com/track/1pvCpLYXBn713dHe7cjZVO"
@@ -8716,6 +8742,24 @@
       "duration_ms": 188852,
       "name": "Finna Charge",
       "url": "https://open.spotify.com/track/1qezHwAepeit34ADMFtnMJ"
+    },
+    {
+      "album": {
+        "name": "FIRE",
+        "url": "https://open.spotify.com/album/7mnD1OPXJQbxCTlgep1HGc"
+      },
+      "artists": [
+        {
+          "name": "D2x",
+          "url": "https://open.spotify.com/artist/39Cb8HYiuT4clBeNABSjPA"
+        }
+      ],
+      "date_added": "2024-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171020,
+      "name": "FIRE",
+      "url": "https://open.spotify.com/track/2AZAqHZcoyIYyjfantSvU1"
     },
     {
       "album": {
@@ -9859,6 +9903,24 @@
     },
     {
       "album": {
+        "name": "Giannis",
+        "url": "https://open.spotify.com/album/2yE6dPyVTiOgJbCeXQ81fe"
+      },
+      "artists": [
+        {
+          "name": "Hurricane Wisdom",
+          "url": "https://open.spotify.com/artist/4PooHx6BstbetDtBMrLyV7"
+        }
+      ],
+      "date_added": "2024-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121548,
+      "name": "Giannis",
+      "url": "https://open.spotify.com/track/5oVn6GZuuMDlsBqWl1FzNi"
+    },
+    {
+      "album": {
         "name": "Gib Galore",
         "url": "https://open.spotify.com/album/6HpeQiS8V6oK8bcftZiHOI"
       },
@@ -10878,6 +10940,24 @@
       "duration_ms": 163750,
       "name": "HI SPEED (with AiA LITT & BabyDelly)",
       "url": "https://open.spotify.com/track/5CsFSfyl4ujmTKi8s1mHeg"
+    },
+    {
+      "album": {
+        "name": "hi, immrlaylow",
+        "url": "https://open.spotify.com/album/5n6ckzJD9tL2YNXV1OO8v3"
+      },
+      "artists": [
+        {
+          "name": "Terry Presume",
+          "url": "https://open.spotify.com/artist/4JLuMu6NZUAU8gYhrzvOdX"
+        }
+      ],
+      "date_added": "2024-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204944,
+      "name": "hi, immrlaylow",
+      "url": "https://open.spotify.com/track/1xuTZ9iZ4QvKt4ROPQ3MpM"
     },
     {
       "album": {
@@ -12664,6 +12744,24 @@
       "duration_ms": 200792,
       "name": "Jump Out The Flame",
       "url": "https://open.spotify.com/track/4IxGJjP97tImKMiSzixirf"
+    },
+    {
+      "album": {
+        "name": "JUMPING JACK",
+        "url": "https://open.spotify.com/album/5hE5kJbGEsnZAxgVQKKVK9"
+      },
+      "artists": [
+        {
+          "name": "HeadHuncho Amir",
+          "url": "https://open.spotify.com/artist/1DRED2ii095cFu6EY1YkNm"
+        }
+      ],
+      "date_added": "2024-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144169,
+      "name": "JUMPING JACK",
+      "url": "https://open.spotify.com/track/1Rdr7YzpSH0J1yKJJtJHp1"
     },
     {
       "album": {
@@ -15562,7 +15660,7 @@
       ],
       "date_added": "2024-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-10",
       "duration_ms": 153344,
       "name": "MIRACLE",
       "url": "https://open.spotify.com/track/1nbSmoNfZU6CkAnWVnconN"
@@ -16071,6 +16169,24 @@
     },
     {
       "album": {
+        "name": "model x",
+        "url": "https://open.spotify.com/album/0jGzbaq8wQpn71S3lHBxZv"
+      },
+      "artists": [
+        {
+          "name": "Lil Bean",
+          "url": "https://open.spotify.com/artist/3OrXU7Z906hHdbG5fTQ6Ef"
+        }
+      ],
+      "date_added": "2024-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157415,
+      "name": "motion",
+      "url": "https://open.spotify.com/track/5FDBiGmxz7apG54sqAnJHT"
+    },
+    {
+      "album": {
         "name": "Motion [feat. Wizz Havinn & Loe Shimmy] (Remix)",
         "url": "https://open.spotify.com/album/65XJ1g5lSvHqQWisRVpRKh"
       },
@@ -16307,6 +16423,24 @@
     },
     {
       "album": {
+        "name": "SEX DRIVE",
+        "url": "https://open.spotify.com/album/5cAEY0anGcXg5bneAMAKXh"
+      },
+      "artists": [
+        {
+          "name": "Chow Lee",
+          "url": "https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL"
+        }
+      ],
+      "date_added": "2024-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132469,
+      "name": "ms. beautiful V!",
+      "url": "https://open.spotify.com/track/2xLgAD3wLIhkOjpnlnEbgs"
+    },
+    {
+      "album": {
         "name": "porno story",
         "url": "https://open.spotify.com/album/1u2eDAbSLeXrIiBYiHWCd3"
       },
@@ -16336,7 +16470,7 @@
       ],
       "date_added": "2024-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-10",
       "duration_ms": 138720,
       "name": "mtv cribs",
       "url": "https://open.spotify.com/track/0s8c3f6yUH9jgVNfcannHC"
@@ -18714,7 +18848,7 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-10",
       "duration_ms": 181403,
       "name": "Peaches and Herb",
       "url": "https://open.spotify.com/track/3HADu1xxaiAJpUWJqrVJ7d"
@@ -20186,6 +20320,24 @@
       "duration_ms": 81322,
       "name": "Reds Cap",
       "url": "https://open.spotify.com/track/4g6FYjv8CFM0nf1aWuZutn"
+    },
+    {
+      "album": {
+        "name": "Relapse",
+        "url": "https://open.spotify.com/album/1fOFNY6KQQjpMjCLOPoy0P"
+      },
+      "artists": [
+        {
+          "name": "Nino Paid",
+          "url": "https://open.spotify.com/artist/0WqsT2a4CBuQ0LC7vrJD0H"
+        }
+      ],
+      "date_added": "2024-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144431,
+      "name": "Relapse",
+      "url": "https://open.spotify.com/track/11KEGU90jqzG2jS58emvmj"
     },
     {
       "album": {
@@ -27220,7 +27372,7 @@
       ],
       "date_added": "2024-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-10",
       "duration_ms": 119280,
       "name": "Wiz (feat. Vayda & SadBoi)",
       "url": "https://open.spotify.com/track/3KntGJUglEx3TM4ZCeyCYT"
@@ -27292,7 +27444,7 @@
       ],
       "date_added": "2024-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-10",
       "duration_ms": 154728,
       "name": "Worth It",
       "url": "https://open.spotify.com/track/2KCMqxcs8XMKdq6bvLJZL6"

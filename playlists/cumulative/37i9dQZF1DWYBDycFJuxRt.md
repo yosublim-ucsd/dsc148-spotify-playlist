@@ -2,9 +2,9 @@
 
 ### [New Music Wednesday](https://open.spotify.com/playlist/37i9dQZF1DWYBDycFJuxRt)
 
-> 今週も話題の新曲を最速で。 Cover: B'z \*👉 <a href="https://spice.eplus.jp/articles/332365?utm\_source=spotify.com&utm\_medium=referral">SPICE連動記事</a>をSPICEでチェック!
+> 今週も話題の新曲を最速で。 Cover: B'z \*👉 <a href="https://spice.eplus.jp/articles/332522?utm\_source=spotify.com&utm\_medium=referral">SPICE連動記事</a>をSPICEでチェック!
 
-8,075 songs - 20 day 17 hr 52 min
+8,076 songs - 20 day 17 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4942,6 +4942,7 @@
 | [UNTOUCHABLE](https://open.spotify.com/track/2HQALWSN6IF4BYrSADMJ0w) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [BORN TO BE](https://open.spotify.com/album/3cm3EkNQLpKu58btSJT7fz) | 3:14 | 2024-01-09 | 2024-01-17 |
 | [UP](https://open.spotify.com/track/4fuGPaMxu3462IeyHPJOYC) | [JUMADIBA](https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj) | [UP](https://open.spotify.com/album/6Pjjxdz4K6SzNfJkyiqcyA) | 2:01 | 2023-01-31 | 2023-02-02 |
 | [UP](https://open.spotify.com/track/7kvwk1X76xmrjCs7f8X27y) | [JUMADIBA](https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj) | [UP](https://open.spotify.com/album/0L8Lx9B2Az67WSaO7KxY7z) | 2:01 | 2023-02-01 | 2023-02-08 |
+| [UP \- KARINA Solo](https://open.spotify.com/track/5sjnkOfTLCLNfkkchI2re2) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [SYNK : PARALLEL LINE \- Special Digital Single](https://open.spotify.com/album/4vLGHlTnlIIxMSfefCY0cU) | 2:46 | 2024-10-09 |  |
 | [UP TO ME!](https://open.spotify.com/track/0J9Uc8VeEljV62jAcdLXQO) | [Little Glee Monster](https://open.spotify.com/artist/2N19kPGlqKY8GiyE4DkAtp) | [UP TO ME!](https://open.spotify.com/album/7hBsU35JlTGaVv5lwaxBli) | 3:30 | 2023-10-17 | 2023-10-25 |
 | [Up2u](https://open.spotify.com/track/5WNP0D1EZzKoGh6cIRzQEx) | [KIKUMARU](https://open.spotify.com/artist/76iBBRevLm9bGNAo9bBnIK), [Yo\-Sea](https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw) | [o](https://open.spotify.com/album/0ohmTPtESekYHdvInPbHkT) | 4:08 | 2023-09-26 | 2023-09-28 |
 | [Up2u](https://open.spotify.com/track/5hTxxr5qA1JkJmDikqfGIN) | [KIKUMARU](https://open.spotify.com/artist/76iBBRevLm9bGNAo9bBnIK), [Yo\-Sea](https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw) | [o](https://open.spotify.com/album/4Ief9bRqKML2BpCMmy9lYg) | 4:08 | 2023-09-27 | 2023-10-04 |

@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4D8xyoXUDhng.md) - [plain]
 
 ### [Callie Day Radio](https://open.spotify.com/playlist/37i9dQZF1E4D8xyoXUDhng)
 
-> With LaShun Pace, Kirk Franklin & The Family, Tasha Page\-Lockhart and more
+> With Kirk Franklin & The Family, Brent Jones, Byron Cage and more
 
 [Spotify](https://open.spotify.com/user/spotify) - 225 likes - 50 songs - 3 hr 59 min
 
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4D8xyoXUDhng.md) - [plain]
 | 49 | [Lessons to Learn](https://open.spotify.com/track/2SONS0qNRbcj55tvmxRPiv) | [Lenasia Tyson](https://open.spotify.com/artist/07yU3sGthUmnvNTeQnT3b7) | [Dare to Praise Different](https://open.spotify.com/album/1lUWnvbJot4eawTGa6IBFs) | 3:23 |
 | 50 | [There Is A Fountain Filled With Blood](https://open.spotify.com/track/04iiIthADoWj1uYAuRN98E) | [Jennifer Hudson](https://open.spotify.com/artist/35GL8Cu2GKTcHzKGi75xl5) | [RESPECT \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1EzytFSc1iJY6DjHR6fUMm) | 2:53 |
 
-Snapshot ID: `ZwX2PAAAAAA5jMkztckRRiT9G7z4P2IC`
+Snapshot ID: `ZwcuMAAAAAAGmRYDzy5AWfY/enpLrDyz`

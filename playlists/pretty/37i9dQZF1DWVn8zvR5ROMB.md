@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country songs in one playlist! Featuring Megan Moroney, Nate Smith, Tucker Wetmore and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 294,107 likes - 70 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 294,220 likes - 70 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 43 | [Filthy Rich](https://open.spotify.com/track/6InkM0NaTWi7PJ3utfUzlM) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Filthy Rich](https://open.spotify.com/album/4EZKTohECt4rz0GL4LShK2) | 2:52 |
 | 44 | [My Name](https://open.spotify.com/track/6nhnuvJOBnSi787tis37gj) | [Aaron McBee](https://open.spotify.com/artist/2tjfjMlrGuA2b7cPCAEswA) | [My Name](https://open.spotify.com/album/1YUKzrCXuDvy9TJh1hyUHg) | 3:24 |
 | 45 | [Somewhere Between](https://open.spotify.com/track/3xAmrTIwaWPMve9xI1D2Sh) | [John Cummings](https://open.spotify.com/artist/6ln1jm5VuuntfLTTbQ7N84) | [Somewhere Between](https://open.spotify.com/album/0qkzYLy00f6XBal3JmjqVm) | 3:34 |
-| 46 | [Hasta Mañana](https://open.spotify.com/track/6KWyCQQx4Du8RlVVNF9Dac) | [MŌRIAH](https://open.spotify.com/artist/1w0QYx2G0ywsCClH84FcAv), [Squid](https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo) | [Hasta Mañana](https://open.spotify.com/album/5HMLoAqRFj4S2iTVgteJ8t) | 2:58 |
+| 46 | [Hasta Mañana](https://open.spotify.com/track/6KWyCQQx4Du8RlVVNF9Dac) | [MŌRIAH](https://open.spotify.com/artist/1w0QYx2G0ywsCClH84FcAv) | [Hasta Mañana](https://open.spotify.com/album/5HMLoAqRFj4S2iTVgteJ8t) | 2:58 |
 | 47 | [We Were There](https://open.spotify.com/track/2T8ToN72mgPOGMArZf3Hes) | [Ryan Langdon](https://open.spotify.com/artist/7xceJlDYJKhn4KdxY8CWaV) | [We Were There](https://open.spotify.com/album/4KQVr7dXCsI4CperH6RgRW) | 2:57 |
 | 48 | [Not The Cowgirl](https://open.spotify.com/track/4EadV7HnKbm7pAr0Bx7ka5) | [Leah Turner](https://open.spotify.com/artist/04hpJHF9uqnRNDpjULw0zh) | [This Is Mi](https://open.spotify.com/album/44gEYS6YS7mPEuwIuLhexZ) | 3:11 |
 | 49 | [Broke As My Heart](https://open.spotify.com/track/4iLGQ6TjVKITbpzzIbPvHX) | [Kevin Smiley](https://open.spotify.com/artist/6Km1v74PaJGilhxUmfAY1K) | [Broke As My Heart](https://open.spotify.com/album/6zHmb69frlracPNy8mzhyP) | 2:52 |

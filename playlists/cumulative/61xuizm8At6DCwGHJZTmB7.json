@@ -3183,6 +3183,24 @@
     },
     {
       "album": {
+        "name": "God Be The Glory",
+        "url": "https://open.spotify.com/album/3j2ymNszeFauxvBIMPeHvK"
+      },
+      "artists": [
+        {
+          "name": "We Are Messengers",
+          "url": "https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd"
+        }
+      ],
+      "date_added": "2024-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215604,
+      "name": "God Be The Glory",
+      "url": "https://open.spotify.com/track/2O75KOWDHDcsy3uifzJIPU"
+    },
+    {
+      "album": {
         "name": "God In The Valley (Live)",
         "url": "https://open.spotify.com/album/2RU38uu7iltuReBPS8DSaG"
       },
@@ -7570,7 +7588,7 @@
       ],
       "date_added": "2024-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-10",
       "duration_ms": 304535,
       "name": "Praise (feat. Brandon Lake, Chris Brown & Chandler Moore)",
       "url": "https://open.spotify.com/track/7Ee6XgP8EHKDhTMYLIndu9"

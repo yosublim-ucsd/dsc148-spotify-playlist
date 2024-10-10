@@ -899,6 +899,24 @@
     },
     {
       "album": {
+        "name": "Swan Lake",
+        "url": "https://open.spotify.com/album/0Q4720qvbsUqSRz2n1FihD"
+      },
+      "artists": [
+        {
+          "name": "Cindy",
+          "url": "https://open.spotify.com/artist/5C8xxfvMhwwxeSz4LZm41N"
+        }
+      ],
+      "date_added": "2024-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222946,
+      "name": "All Weekend",
+      "url": "https://open.spotify.com/track/6KvvwJDOIiPmJ0By8vtd6d"
+    },
+    {
+      "album": {
         "name": "I Don't Know",
         "url": "https://open.spotify.com/album/2cNtBpejkWMdxrN94XuR8z"
       },
@@ -2298,6 +2316,24 @@
       "duration_ms": 395675,
       "name": "Blue Suzuki",
       "url": "https://open.spotify.com/track/7LWnThkBWw6n0wbNUtF8zA"
+    },
+    {
+      "album": {
+        "name": "The New Sound",
+        "url": "https://open.spotify.com/album/07YS7ooqYtvPZLlW59MHY5"
+      },
+      "artists": [
+        {
+          "name": "Geordie Greep",
+          "url": "https://open.spotify.com/artist/65Msz2E34NUtbjEbsrsJlJ"
+        }
+      ],
+      "date_added": "2024-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342734,
+      "name": "Blues",
+      "url": "https://open.spotify.com/track/7Dd6g7T930jxR3NcQnJjwp"
     },
     {
       "album": {
@@ -3952,7 +3988,7 @@
       ],
       "date_added": "2024-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-10",
       "duration_ms": 207016,
       "name": "Crystal Breath",
       "url": "https://open.spotify.com/track/4YLuySkJBHaMvPtdntLH87"
@@ -11688,7 +11724,7 @@
       ],
       "date_added": "2024-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-10",
       "duration_ms": 230000,
       "name": "Minute papillon",
       "url": "https://open.spotify.com/track/6f4D29IfC5stfUtJLEnfAR"
@@ -12768,6 +12804,24 @@
       "duration_ms": 347358,
       "name": "No More - Shabaka Remix",
       "url": "https://open.spotify.com/track/30gYD1fKxZqHelyLpMVa1s"
+    },
+    {
+      "album": {
+        "name": "No One Else",
+        "url": "https://open.spotify.com/album/3gOeqVU5TZP7ZR54je7rZi"
+      },
+      "artists": [
+        {
+          "name": "Elias R\u00f8nnenfelt",
+          "url": "https://open.spotify.com/artist/1sMYEFib6APIW3JjkY8pYS"
+        }
+      ],
+      "date_added": "2024-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231072,
+      "name": "No One Else",
+      "url": "https://open.spotify.com/track/6vxLhzmneGOW6zRfxc2siq"
     },
     {
       "album": {
@@ -14510,7 +14564,7 @@
       ],
       "date_added": "2024-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-10",
       "duration_ms": 138760,
       "name": "Quality Pints",
       "url": "https://open.spotify.com/track/4BPwhKpHKpEjQh9HCCV0EP"
@@ -14952,6 +15006,24 @@
       "duration_ms": 137600,
       "name": "Rio's Song",
       "url": "https://open.spotify.com/track/0OvcBAU72rGpFIaUdPNZQM"
+    },
+    {
+      "album": {
+        "name": "Fragments of Us",
+        "url": "https://open.spotify.com/album/3JFKnFilTV1xbFywi0Tfs7"
+      },
+      "artists": [
+        {
+          "name": "Midland",
+          "url": "https://open.spotify.com/artist/1YFLNH4rO40x9i16RpLwdY"
+        }
+      ],
+      "date_added": "2024-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224095,
+      "name": "Ritual",
+      "url": "https://open.spotify.com/track/1Ee7waaVp8SXUF7O6D3hvb"
     },
     {
       "album": {
@@ -17118,7 +17190,7 @@
       ],
       "date_added": "2024-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-10",
       "duration_ms": 223173,
       "name": "Surrender",
       "url": "https://open.spotify.com/track/383sR9dPZ2SwPoKrNfRnQm"
@@ -19116,7 +19188,7 @@
       ],
       "date_added": "2024-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-10",
       "duration_ms": 226404,
       "name": "TV Star",
       "url": "https://open.spotify.com/track/2buU8psfahKHsNb1gu6bYs"
@@ -20060,6 +20132,24 @@
       "duration_ms": 234750,
       "name": "Wet Stuff - 2023 Live Session",
       "url": "https://open.spotify.com/track/158utttpCrbXbIqyLV0ny6"
+    },
+    {
+      "album": {
+        "name": "What Are You Doing The Rest Of Your Life",
+        "url": "https://open.spotify.com/album/5cOUsxPcPpnVNqWFAqPm1a"
+      },
+      "artists": [
+        {
+          "name": "Famous",
+          "url": "https://open.spotify.com/artist/76pvNo3GAo5aeXBZ4jVz0k"
+        }
+      ],
+      "date_added": "2024-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189764,
+      "name": "What Are You Doing The Rest Of Your Life",
+      "url": "https://open.spotify.com/track/0VsYCWHf3yOeonBvxqaNue"
     },
     {
       "album": {

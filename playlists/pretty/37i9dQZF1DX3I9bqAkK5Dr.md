@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3I9bqAkK5Dr.md) - [plain]
 
 > Check out the emerging independent tracks from these Telugu Artists!! Cover : Hemachandra
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,498 likes - 79 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,507 likes - 79 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [YOU ARE MINE](https://open.spotify.com/track/0Cue1z0aXGfQRYU4CqIAuW) | [Hemachandra Vedala](https://open.spotify.com/artist/26R3WRFIf6FbbNAQuMIjkN) | [YOU ARE MINE](https://open.spotify.com/album/0u1XYaLu8j9hpkKJLiVyxX) | 3:12 |
-| 2 | [Sitaara](https://open.spotify.com/track/2KP8VAuJiugv5UTUYcYSjo) | [Jagdish Chintala](https://open.spotify.com/artist/1Ll6Pj8fy7R3e6ghT2lzVC), [Ayaan](https://open.spotify.com/artist/1MMBkicGbEkW5M1UimzBuP), [Manisha Eerabathini](https://open.spotify.com/artist/7uTF7CgQzu55VR10qqG2yC), [Shashank Alamuru](https://open.spotify.com/artist/1FRUQL3SPnXlce6Hqfk2eh) | [Sitaara](https://open.spotify.com/album/1NFMWGcu3uV7TtvNwStETI) | 2:45 |
+| 2 | [Sitaara](https://open.spotify.com/track/2KP8VAuJiugv5UTUYcYSjo) | [Jagdish Chintala](https://open.spotify.com/artist/1Ll6Pj8fy7R3e6ghT2lzVC), [Ayaan](https://open.spotify.com/artist/6spST6ycDQVKJ7ErwvDsjS), [Manisha Eerabathini](https://open.spotify.com/artist/7uTF7CgQzu55VR10qqG2yC), [Shashank Alamuru](https://open.spotify.com/artist/1FRUQL3SPnXlce6Hqfk2eh) | [Sitaara](https://open.spotify.com/album/1NFMWGcu3uV7TtvNwStETI) | 2:45 |
 | 3 | [Cheliya](https://open.spotify.com/track/7xclHxsTj8f3dy3Lco3Az6) | [Iravu](https://open.spotify.com/artist/32gGumlFxS3I49LH5cNcrH), [Sarvari](https://open.spotify.com/artist/5uvwgTsZIeirSSpIIMvYFS), [Abhiram Lolla](https://open.spotify.com/artist/6j0aLuBGUR4MNx9HAJcrwc) | [Cheliya](https://open.spotify.com/album/58zyOpghhBrhFRud0zubO8) | 3:19 |
 | 4 | [Chilaka](https://open.spotify.com/track/1twQpI67lgEWZvKf8HObSK) | [Vijai Bulganin](https://open.spotify.com/artist/6umn0ODoYa5UsGpswA99gx), [Lakshmi Meghana](https://open.spotify.com/artist/50bnXBdKRT1GbiWGKS0YhN) | [Chilaka](https://open.spotify.com/album/1FmqOLK6uViRA2ciMZFGPd) | 6:06 |
 | 5 | [Teliyadhe](https://open.spotify.com/track/62lPzNTDBg3dazXOoBm72W) | [KASYAP](https://open.spotify.com/artist/4p4ILwTCyu0exslJsiQzZP), [Lipsika Bhashyam](https://open.spotify.com/artist/21dhDPAGZuoa1M2S60hFK1) | [Teliyadhe](https://open.spotify.com/album/5EpiiTu3WevKoIxq3brNyt) | 4:01 |

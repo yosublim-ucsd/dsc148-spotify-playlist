@@ -4785,6 +4785,24 @@
     },
     {
       "album": {
+        "name": "Salt Water",
+        "url": "https://open.spotify.com/album/4MnldJg70rWC1FR5wlKtcu"
+      },
+      "artists": [
+        {
+          "name": "Oceane Bardot",
+          "url": "https://open.spotify.com/artist/4YYQ7Q0261K5rIEs0SQZIi"
+        }
+      ],
+      "date_added": "2024-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166482,
+      "name": "Salt Water",
+      "url": "https://open.spotify.com/track/4qO8z8SUzeYLBeG3Mp7aqV"
+    },
+    {
+      "album": {
         "name": "Sanremo",
         "url": "https://open.spotify.com/album/6rgFGj3GbupAuYNeG38r7f"
       },

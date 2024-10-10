@@ -1,6 +1,6 @@
 {
   "description": "Summer memories from yesteryear!",
-  "num_followers": 492704,
+  "num_followers": 492687,
   "original_name": "Summer Throwbacks",
   "owner": {
     "name": "Spotify",
@@ -48,10 +48,6 @@
       },
       "artists": [
         {
-          "name": "Macklemore & Ryan Lewis",
-          "url": "https://open.spotify.com/artist/6WLvgbfYXQPO396oJEYCsi"
-        },
-        {
           "name": "Macklemore",
           "url": "https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY"
         },
@@ -60,12 +56,16 @@
           "url": "https://open.spotify.com/artist/4myTppRgh0rojLxx8RycOp"
         },
         {
+          "name": "Macklemore & Ryan Lewis",
+          "url": "https://open.spotify.com/artist/6WLvgbfYXQPO396oJEYCsi"
+        },
+        {
           "name": "Ray Dalton",
           "url": "https://open.spotify.com/artist/4e0nWw2r4BoQSKPQ2zpU13"
         }
       ],
       "duration_ms": 258342,
-      "name": "Can't Hold Us (feat. Ray Dalton)",
+      "name": "Can't Hold Us",
       "url": "https://open.spotify.com/track/3bidbhpOYeV4knp8AIu8Xn"
     },
     {

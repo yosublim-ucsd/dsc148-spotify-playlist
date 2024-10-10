@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcwHMQ31Y15k.md) - [plain]
 
 > Sopo wae sing ngerti, yuk nyanyi sik\. Cover: Lavora
 
-[Spotify](https://open.spotify.com/user/spotify) - 199,525 likes - 108 songs - 9 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 199,588 likes - 108 songs - 9 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcwHMQ31Y15k.md) - [plain]
 | 55 | [Pengkuh](https://open.spotify.com/track/3KRoL1WLq83x1tXAA1t5Yc) | [Evan Loss](https://open.spotify.com/artist/4mzKYnv5GDC0hsEwcnJdjo) | [Pengkuh](https://open.spotify.com/album/2k7WneU9s2cWns7mU8EJeF) | 4:03 |
 | 56 | [LDR \- Acoustic](https://open.spotify.com/track/7p6TgnqoZXExcao4JHwZfc) | [Restianade](https://open.spotify.com/artist/7A9lPm8R65nJT5ujGJzy5I) | [LDR \(Acoustic\)](https://open.spotify.com/album/4O1qHuKhVTAigJSFoe8j53) | 4:00 |
 | 57 | [Wirang](https://open.spotify.com/track/2cNjYBMsuNELj4oJjYr0bg) | [Guyon Waton](https://open.spotify.com/artist/5CROBjCskHMjRlerJor7Gx) | [Wirang](https://open.spotify.com/album/1OdvMWMKFQGzLJ92gU8Atc) | 4:54 |
-| 58 | [Rungkad](https://open.spotify.com/track/1tWrff6vSPkkUQscpldS8F) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X), [The Saxo Brothers](https://open.spotify.com/artist/6KOeov6S9ZXQlmN9IMlrl5) | [Rungkad](https://open.spotify.com/album/6M4iw0ozWapJERvLzZKH2O) | 5:08 |
+| 58 | [Rungkad](https://open.spotify.com/track/1tWrff6vSPkkUQscpldS8F) | [Royal Music](https://open.spotify.com/artist/1coVIbS4yAqP5hmezkHAXM), [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X), [The Saxo Brothers](https://open.spotify.com/artist/6KOeov6S9ZXQlmN9IMlrl5) | [Rungkad](https://open.spotify.com/album/6M4iw0ozWapJERvLzZKH2O) | 5:08 |
 | 59 | [NEMEN](https://open.spotify.com/track/5f3oGRsnZpMoNs74zLXxzm) | [Gilga Sahid](https://open.spotify.com/artist/5C8I8tTLdvuS4SlNoFS9dg) | [NEMEN](https://open.spotify.com/album/28gXXI7APazAT8ELyiS1FG) | 5:04 |
 | 60 | [Koyo Jogja Istimewa \- From "Cidro Asmoro"](https://open.spotify.com/track/1GVygn86oLm8eDLNPUtC2N) | [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ) | [Koyo Jogja Istimewa \(From "Cidro Asmoro"\)](https://open.spotify.com/album/3QABkEdROjx6VqbjLWuIWr) | 4:29 |
 | 61 | [Demi Kowe](https://open.spotify.com/track/7B6qooHmqiOY7hs8TEF1hP) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X), [Gilga Sahid](https://open.spotify.com/artist/5C8I8tTLdvuS4SlNoFS9dg) | [Demi Kowe](https://open.spotify.com/album/3SdhoZAu633dAP6IXFIUPO) | 5:30 |

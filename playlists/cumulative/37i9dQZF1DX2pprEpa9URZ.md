@@ -4,7 +4,7 @@
 
 > Deep electronic and organic house sounds, inspired by the folk music of Africa, Latin America and the Middle East.
 
-421 songs - 1 day 20 hr 57 min
+422 songs - 1 day 21 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -165,6 +165,7 @@
 | [Glorious Miles](https://open.spotify.com/track/09I9c7F9fZOc9aSjAA70hh) | [Sobek](https://open.spotify.com/artist/7id8eArvVd4finwH5fR2pL), [PALMFooD](https://open.spotify.com/artist/52GMOGbGJsvNcfFaiR2nV1) | [Glorious Miles EP](https://open.spotify.com/album/1OAeuYShwqT6rYmlHbcQpy) | 8:36 | 2019-08-02\* | 2020-03-31 |
 | [Glow \- Original Mix](https://open.spotify.com/track/7qkxPq8XJ2cbWlDueS3cnH) | [Trippin Jaguar](https://open.spotify.com/artist/6Fxw93ezsZRlLdYWxyHqO0) | [Glow](https://open.spotify.com/album/66rzlNkBJjNYwGkVXRNOv6) | 6:48 | 2021-12-13 | 2022-07-28 |
 | [Golconda \- Halaken Soundsystem Remix](https://open.spotify.com/track/7wvBPvfyzFqOUi5lfNkTvi) | [Kora \(CA\)](https://open.spotify.com/artist/7lHiOFpepHokhLTy6PNAL9), [Mercan Dede](https://open.spotify.com/artist/1rwDpyhfCIGcutXf9kmLkY), [Dexter Crowe](https://open.spotify.com/artist/2MdTMSsrjQTTvP1Jc5g0Zk), [Halaken Soundsystem](https://open.spotify.com/artist/2Dm8oHTTA7rtkt2xocctzH) | [Golconda \(Halaken Soundsystem Remix\)](https://open.spotify.com/album/0s0o9GODVtQFsDaRWFxbcR) | 8:13 | 2024-07-05 | 2024-08-23 |
+| [Gotta Let You Go](https://open.spotify.com/track/61zy0ub0pLKsqwtpoXjCyh) | [El Mukuka](https://open.spotify.com/artist/3z0l518027gIZvLtoXQCkd), [Dominica](https://open.spotify.com/artist/6bETcPKjsI4UE4ZMHtcZCh) | [Gotta Let You Go \(Radio Mix\)](https://open.spotify.com/album/6IZC0cWRcb6v1dODpZevqA) | 2:58 | 2024-10-04 |  |
 | [Graceland](https://open.spotify.com/track/4blmNPKr7Nkfaj6GDAKU5P) | [Till Von Sein](https://open.spotify.com/artist/5gRHhAWRxjeshuTGcFfEkI) | [Graceland](https://open.spotify.com/album/389FTo58PpF3FBb8rh7IlV) | 6:45 | 2020-05-17 | 2023-09-04 |
 | [Ha \- Amine K Remix](https://open.spotify.com/track/7o2as2B9DLbdHQCihJXnq8) | [Oum](https://open.spotify.com/artist/4io8n4UJrGAd0T3uf2S72f), [Amine K \(Moroko Loko\)](https://open.spotify.com/artist/4Jh6PxSFH7CrZrQpDivlYf) | [Buddha\-Bar by Amine K & Ravin \(Ep\)](https://open.spotify.com/album/3Ppoi5TjUY4kEyu19pmvyw) | 5:57 | 2022-04-04 | 2022-04-21 |
 | [Hands \- Santi & Tuğçe Remix](https://open.spotify.com/track/1LLhIi8oYXPWYbRp0JdaU6) | [David Rausch](https://open.spotify.com/artist/2rGVkwUEaofowUjyWnQMXG), [Santi & Tuğçe](https://open.spotify.com/artist/437O1jQdyOOhIS1M41xQaC) | [Hands \(Santi & Tuğçe Remix\)](https://open.spotify.com/album/58wM4X24As1sjTJGQBAj77) | 7:11 | 2024-08-05 | 2024-10-05 |
@@ -188,7 +189,7 @@
 | [Izvor](https://open.spotify.com/track/4z7tWC9yzgcCD23hY8uQaV) | [Tebra](https://open.spotify.com/artist/3kI19T2Y7mzINNIOGHTg5P) | [Izvor](https://open.spotify.com/album/7zfqQQ0mzEutNin8LTuW71) | 6:40 | 2022-09-30 | 2023-06-25 |
 | [Jangal](https://open.spotify.com/track/3IdFbXj1lsIXJmvESPmFFL) | [Mikah](https://open.spotify.com/artist/3jPTUhclHgDcj0RdPcWaqJ) | [Jangal EP](https://open.spotify.com/album/6LnZlCh9FixolLKG28HGLY) | 6:48 | 2020-01-01 | 2020-01-04 |
 | [Jendayi](https://open.spotify.com/track/0bdNsriJUCQUX4w1LbMKxp) | [Anber](https://open.spotify.com/artist/1d4RYfh3ZkMNamEAST8JLc) | [Jendayi EP](https://open.spotify.com/album/6qoVUCC8JnvxUbsox7MGks) | 6:31 | 2020-08-20 |  |
-| [Jungle Paradise](https://open.spotify.com/track/7JiCJIx41x2A8Bvoq8w3Ek) | [Harold van Lennep](https://open.spotify.com/artist/3EDo5M4D2IAhisy3TDpkWg) | [Visions 2 \(Departure\)](https://open.spotify.com/album/62Ntxmo8Oykqbk6rVkCw8E) | 8:29 | 2023-11-14 |  |
+| [Jungle Paradise](https://open.spotify.com/track/7JiCJIx41x2A8Bvoq8w3Ek) | [Harold van Lennep](https://open.spotify.com/artist/3EDo5M4D2IAhisy3TDpkWg) | [Visions 2 \(Departure\)](https://open.spotify.com/album/62Ntxmo8Oykqbk6rVkCw8E) | 8:29 | 2023-11-14 | 2024-10-10 |
 | [Kabsa](https://open.spotify.com/track/5QAnwHfL5QsI8fcUzvlBBJ) | [Auntie Flo](https://open.spotify.com/artist/6XYOjW5wxf5V9hwAR58o4d) | [Kabsa](https://open.spotify.com/album/3rsx9zNkL5gBM6njN11P0n) | 5:21 | 2019-08-02\* | 2021-07-06 |
 | [Kairosmind](https://open.spotify.com/track/0wmsIEMUdPD7NUfS5LzsJ3) | [Geju](https://open.spotify.com/artist/33AlE9XaZmnAtfWFhjNL5e), [Waxwood](https://open.spotify.com/artist/6Yu6Z8MkOoeLpHtTU0IE3c) | [Water Elements](https://open.spotify.com/album/2pSt4WkO1z5pyNM673d9g9) | 8:34 | 2019-08-02\* | 2021-01-18 |
 | [Kali Koi](https://open.spotify.com/track/50qzFvOVwaTmsmF8fxq1fF) | [Drega](https://open.spotify.com/artist/1Gj6W2RfGpl6ebJGle93VG) | [Kali Koi](https://open.spotify.com/album/0liy6uyX169BMp5UpEqVST) | 5:44 | 2020-02-11 | 2020-03-05 |

@@ -188,7 +188,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-10",
       "duration_ms": 259139,
       "name": "Adheeraa (From \"Cobra\")",
       "url": "https://open.spotify.com/track/4381FmKZc1uT2zzhBiknH7"
@@ -821,6 +821,36 @@
     },
     {
       "album": {
+        "name": "Meiyazhagan - Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/1ZRUTCTotW0Poch6GEX1z2"
+      },
+      "artists": [
+        {
+          "name": "Govind Vasantha",
+          "url": "https://open.spotify.com/artist/5AWtJTaoFmLLrPwDR5dLPB"
+        },
+        {
+          "name": "VM Mahalingam",
+          "url": "https://open.spotify.com/artist/3qjzGkAGKsCkJOieWWRz8k"
+        },
+        {
+          "name": "Senthil Ganesh",
+          "url": "https://open.spotify.com/artist/4tJdetTsMFHnS8UzgopPzn"
+        },
+        {
+          "name": "Karthik Netha",
+          "url": "https://open.spotify.com/artist/3o7GGc9KjbLzTCwOq9WL55"
+        }
+      ],
+      "date_added": "2024-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Delta Kalyanam",
+      "url": "https://open.spotify.com/track/12cyRwSlwSUWtrdLN23kIs"
+    },
+    {
+      "album": {
         "name": "Dharala Prabhu (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4O5iuMBSmUXMZIrBgx3LOG"
       },
@@ -940,7 +970,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-10",
       "duration_ms": 209032,
       "name": "Dippam Dappam",
       "url": "https://open.spotify.com/track/3LEMmV0BgtM7TaJk40PFZU"
@@ -1488,7 +1518,7 @@
       ],
       "date_added": "2022-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-10",
       "duration_ms": 208064,
       "name": "Jolly O Gymkhana (From \"Beast\")",
       "url": "https://open.spotify.com/track/6lpbzOMBOYHRsp6WEMvRvn"
@@ -2779,6 +2809,32 @@
     },
     {
       "album": {
+        "name": "Raa Macha Macha (From \"Game Changer\") (Tamil)",
+        "url": "https://open.spotify.com/album/0b8cSymt06elXU5FXLLNBC"
+      },
+      "artists": [
+        {
+          "name": "Thaman S",
+          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
+        },
+        {
+          "name": "Nakash Aziz",
+          "url": "https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB"
+        },
+        {
+          "name": "Vivek",
+          "url": "https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx"
+        }
+      ],
+      "date_added": "2024-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272771,
+      "name": "Raa Macha Macha (From \"Game Changer\") (Tamil)",
+      "url": "https://open.spotify.com/track/7u5v0vOUP1s4rumDRRte9w"
+    },
+    {
+      "album": {
         "name": "Raavana Kottam (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4f4mHDmV6ZYRKmGLmbQY0e"
       },
@@ -3147,6 +3203,32 @@
     },
     {
       "album": {
+        "name": "Soodaana (From \"Pushpa 2 The Rule\") [TAMIL]",
+        "url": "https://open.spotify.com/album/0VIsoxBf7IGKAYoQvKV5pq"
+      },
+      "artists": [
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        },
+        {
+          "name": "Devi Sri Prasad",
+          "url": "https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU"
+        },
+        {
+          "name": "Viveka",
+          "url": "https://open.spotify.com/artist/5r80gH9ibGjUVSQrXD8W7Z"
+        }
+      ],
+      "date_added": "2024-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260134,
+      "name": "Soodaana (From \"Pushpa 2 The Rule\") [TAMIL]",
+      "url": "https://open.spotify.com/track/3mIyypFRBKUgcaFp70EfTW"
+    },
+    {
+      "album": {
         "name": "Soodam Karpooram (From \"Soppana Sundari\")",
         "url": "https://open.spotify.com/album/5UdUvzv4x4IE2RybJvcMgD"
       },
@@ -3492,7 +3574,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-10",
       "duration_ms": 176345,
       "name": "Two Two Two",
       "url": "https://open.spotify.com/track/7mhJ08BCG6goQ8mPpk9TuZ"

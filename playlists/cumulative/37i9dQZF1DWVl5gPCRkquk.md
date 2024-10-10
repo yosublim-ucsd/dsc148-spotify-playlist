@@ -4,7 +4,7 @@
 
 > Channel some chilled\-out back yard vibes.
 
-343 songs - 21 hr 28 min
+344 songs - 21 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [Blind in the Fray](https://open.spotify.com/track/25hEexChI4sq7CH1K4hqh8) | [The Last Revel](https://open.spotify.com/artist/2PyWfmEeKmRNhQkAJ1zJXw) | [Hazard & Fate](https://open.spotify.com/album/1A43T5C9vFdOXecyJAE1We) | 3:33 | 2021-10-29 | 2022-04-20 |
 | [Blind in the Fray](https://open.spotify.com/track/6SjG7HZ8R5jnz6HOdxIFS0) | [The Last Revel](https://open.spotify.com/artist/2PyWfmEeKmRNhQkAJ1zJXw) | [Hazard & Fate](https://open.spotify.com/album/2QMo0JFkV5YMSDmwDGR4jX) | 3:33 | 2022-04-15 | 2023-01-24 |
 | [Blood Hunters](https://open.spotify.com/track/69HcvrXZ68cJKE0lreubP3) | [Andrew Combs](https://open.spotify.com/artist/4ONwFcI8RGvYMG1vEIdS11) | [Blood Hunters](https://open.spotify.com/album/4fwcICz8hVOSxjJoXbjXIH) | 3:19 | 2022-04-15 | 2022-04-21 |
-| [Bloom](https://open.spotify.com/track/1nhjRDHOWGmflcQ5p66Dn8) | [Futurebirds](https://open.spotify.com/artist/4Ait1vX2ZaWPrkua8Z664O) | [Easy Company EP](https://open.spotify.com/album/5g1U0nAYhO7ghJZLBF21c9) | 3:01 | 2024-05-24 |  |
+| [Bloom](https://open.spotify.com/track/1nhjRDHOWGmflcQ5p66Dn8) | [Futurebirds](https://open.spotify.com/artist/4Ait1vX2ZaWPrkua8Z664O) | [Easy Company EP](https://open.spotify.com/album/5g1U0nAYhO7ghJZLBF21c9) | 3:01 | 2024-05-24 | 2024-10-10 |
 | [Bloomsday](https://open.spotify.com/track/2kRPwBHZQTot91lTuElVmK) | [Samantha Crain](https://open.spotify.com/artist/5dpLK5cD7FwWyDKv4qbodS) | [Bloomsday](https://open.spotify.com/album/2rfQho2fgiLBVquouCUbKy) | 3:19 | 2021-10-29 | 2022-07-29 |
 | [Bloomsday](https://open.spotify.com/track/3E32ScayKIBK9JYehnRek9) | [Samantha Crain](https://open.spotify.com/artist/5dpLK5cD7FwWyDKv4qbodS) | [Pick Apart](https://open.spotify.com/album/3zLwkjB6CMrlyeEvlNriiO) | 3:19 | 2022-04-15 | 2023-06-19 |
 | [Bones](https://open.spotify.com/track/31ynAStjeuhDNDeIpwVqu5) | [Ellie Holcomb](https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs), [Drew Holcomb](https://open.spotify.com/artist/0Obcl00RkSejk0z0m4vUwT) | [Bones](https://open.spotify.com/album/2FwGZoHc1P6SIpIXgANPr3) | 2:39 | 2023-01-20 |  |
@@ -121,6 +121,7 @@
 | [Featherweight](https://open.spotify.com/track/3ir3Eoj0pi0vlhqunNSyK3) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Shore](https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3) | 3:50 | 2021-10-29 |  |
 | [Feel Alive Again](https://open.spotify.com/track/2wgCnWW5jtA6aNAJxgcEN2) | [Molly Parden](https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5) | [Rosemary](https://open.spotify.com/album/4FH3kwVRrLQHwp88j1i22h) | 4:14 | 2021-10-29 |  |
 | [Field Notes on an Endless Day](https://open.spotify.com/track/3DCBRhUy3ypOvOTSgHIhky) | [Graeme James](https://open.spotify.com/artist/09b4q9Vfmuvxb8LuOrhp7W) | [Field Notes on an Endless Day](https://open.spotify.com/album/1RhrwSrdrxh9ld2spjUHAH) | 3:37 | 2021-10-29 | 2022-07-29 |
+| [Fly](https://open.spotify.com/track/02KzF8vFmNIhtPW8XKTdHe) | [Anna Graves](https://open.spotify.com/artist/4j9vFTGkTHf54MjcZvedcT) | [Solstice](https://open.spotify.com/album/2B1TsRb3uycachEmnppqsZ) | 3:26 | 2024-10-09 |  |
 | [Follow You](https://open.spotify.com/track/0ukHQwbkc9Tikwus91vQVM) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Follow You / Sunfish](https://open.spotify.com/album/3h8qLAWZIdhZYEprKJ6bER) | 3:49 | 2021-10-29 | 2022-06-12 |
 | [Get Me Out of Here](https://open.spotify.com/track/2ODqwVvfhMZlzivpr4q07w) | [Caleb Elliott](https://open.spotify.com/artist/0ubsTbLcwOTtBgs9AqYafk) | [Get Me Out of Here](https://open.spotify.com/album/3by6C0jQ7x8YyfZB3s8VCs) | 3:29 | 2021-10-29 | 2022-07-29 |
 | [Give Me Time](https://open.spotify.com/track/4HERQ0HbqpL604wsLWDAPJ) | [Cereus Bright](https://open.spotify.com/artist/3zt4I5TLIb0Z9RigaiHe5G) | [Give Me Time](https://open.spotify.com/album/4lpCZTEciW91x5EOPHIjtN) | 5:39 | 2021-10-29 | 2022-07-28 |

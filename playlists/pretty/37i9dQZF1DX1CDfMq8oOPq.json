@@ -1,6 +1,6 @@
 {
   "description": "calma malvadeza \ud83d\udc40 \ud83d\ude30",
-  "num_followers": 58029,
+  "num_followers": 58070,
   "original_name": "Baby Hair",
   "owner": {
     "name": "Spotify",
@@ -315,22 +315,26 @@
     {
       "added_at": "2024-10-07 19:17:24",
       "album": {
-        "name": "Negona",
-        "url": "https://open.spotify.com/album/42CJ1awbR9yaCm8cqTzdbP"
+        "name": "P\u00farpura",
+        "url": "https://open.spotify.com/album/2SXORkzxQrYi0ueO5v6wCC"
       },
       "artists": [
         {
-          "name": "Karol Conk\u00e1",
-          "url": "https://open.spotify.com/artist/6ODCVWBfGNFUf1bpo0c2Ge"
+          "name": "Budah",
+          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
         },
         {
-          "name": "Tasha & Tracie",
-          "url": "https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT"
+          "name": "JOK3R",
+          "url": "https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq"
+        },
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
         }
       ],
-      "duration_ms": 186950,
-      "name": "Negona",
-      "url": "https://open.spotify.com/track/7xiw1iCmpj2it0RG8GfPkv"
+      "duration_ms": 205000,
+      "name": "N\u00e3o Adianta Me Ligar",
+      "url": "https://open.spotify.com/track/0E65iBKawwwGbV3He8N5kE"
     },
     {
       "added_at": "2024-10-07 19:17:24",
@@ -371,6 +375,26 @@
     {
       "added_at": "2024-10-07 19:17:24",
       "album": {
+        "name": "Negona",
+        "url": "https://open.spotify.com/album/42CJ1awbR9yaCm8cqTzdbP"
+      },
+      "artists": [
+        {
+          "name": "Karol Conk\u00e1",
+          "url": "https://open.spotify.com/artist/6ODCVWBfGNFUf1bpo0c2Ge"
+        },
+        {
+          "name": "Tasha & Tracie",
+          "url": "https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT"
+        }
+      ],
+      "duration_ms": 186950,
+      "name": "Negona",
+      "url": "https://open.spotify.com/track/7xiw1iCmpj2it0RG8GfPkv"
+    },
+    {
+      "added_at": "2024-10-07 19:17:24",
+      "album": {
         "name": "Sou + As Negras",
         "url": "https://open.spotify.com/album/6Z6uUrQRgrTv9Uw8k1rgkg"
       },
@@ -387,30 +411,6 @@
       "duration_ms": 161076,
       "name": "Sou + As Negras",
       "url": "https://open.spotify.com/track/4RqoUzXPTDgQSgSiPxmjHJ"
-    },
-    {
-      "added_at": "2024-10-07 19:17:24",
-      "album": {
-        "name": "P\u00farpura",
-        "url": "https://open.spotify.com/album/2SXORkzxQrYi0ueO5v6wCC"
-      },
-      "artists": [
-        {
-          "name": "Budah",
-          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
-        },
-        {
-          "name": "JOK3R",
-          "url": "https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq"
-        },
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        }
-      ],
-      "duration_ms": 205000,
-      "name": "N\u00e3o Adianta Me Ligar",
-      "url": "https://open.spotify.com/track/0E65iBKawwwGbV3He8N5kE"
     },
     {
       "added_at": "2024-10-07 19:17:24",
@@ -951,26 +951,6 @@
     {
       "added_at": "2024-10-07 19:17:24",
       "album": {
-        "name": "Regras",
-        "url": "https://open.spotify.com/album/3smXtSQhzu7tmjAK71guLH"
-      },
-      "artists": [
-        {
-          "name": "Nivy",
-          "url": "https://open.spotify.com/artist/70cJFTHKCTRuBdNNn741Xh"
-        },
-        {
-          "name": "Plvco",
-          "url": "https://open.spotify.com/artist/2ktvR9Lv2QE9sJuzRSPpiV"
-        }
-      ],
-      "duration_ms": 122500,
-      "name": "Regras",
-      "url": "https://open.spotify.com/track/4XNJTkox9jlzi7CGkj1rCl"
-    },
-    {
-      "added_at": "2024-10-07 19:17:24",
-      "album": {
         "name": "Jam #1",
         "url": "https://open.spotify.com/album/04DORdVCPAw3R24dYhO9jR"
       },
@@ -987,6 +967,26 @@
       "duration_ms": 163965,
       "name": "Jam #01 - Tropa do Mant\u00e9m",
       "url": "https://open.spotify.com/track/3GX6ZbsVyiZHa9DoNZ8S54"
+    },
+    {
+      "added_at": "2024-10-07 19:17:24",
+      "album": {
+        "name": "Regras",
+        "url": "https://open.spotify.com/album/3smXtSQhzu7tmjAK71guLH"
+      },
+      "artists": [
+        {
+          "name": "Nivy",
+          "url": "https://open.spotify.com/artist/70cJFTHKCTRuBdNNn741Xh"
+        },
+        {
+          "name": "Plvco",
+          "url": "https://open.spotify.com/artist/2ktvR9Lv2QE9sJuzRSPpiV"
+        }
+      ],
+      "duration_ms": 122500,
+      "name": "Regras",
+      "url": "https://open.spotify.com/track/4XNJTkox9jlzi7CGkj1rCl"
     },
     {
       "added_at": "2024-10-07 19:17:24",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2024-10-07 19:17:24",
       "album": {
-        "name": "Trik Trik",
-        "url": "https://open.spotify.com/album/06vB960YqXyLlWcR8xZmpw"
-      },
-      "artists": [
-        {
-          "name": "Paige",
-          "url": "https://open.spotify.com/artist/1XqfMFbATKSRu5nDy2AZO9"
-        }
-      ],
-      "duration_ms": 183370,
-      "name": "Trik Trik",
-      "url": "https://open.spotify.com/track/0RrCvxhHeL45xX9VZqzZbn"
-    },
-    {
-      "added_at": "2024-10-07 19:17:24",
-      "album": {
         "name": "Mais Uma Vadia",
         "url": "https://open.spotify.com/album/1k4hdTrjul21G5KQnNzi41"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 172799,
       "name": "Mais Uma Vadia",
       "url": "https://open.spotify.com/track/54z9A5QU3cxsEZLMqNhXQW"
+    },
+    {
+      "added_at": "2024-10-07 19:17:24",
+      "album": {
+        "name": "Trik Trik",
+        "url": "https://open.spotify.com/album/06vB960YqXyLlWcR8xZmpw"
+      },
+      "artists": [
+        {
+          "name": "Paige",
+          "url": "https://open.spotify.com/artist/1XqfMFbATKSRu5nDy2AZO9"
+        }
+      ],
+      "duration_ms": 183370,
+      "name": "Trik Trik",
+      "url": "https://open.spotify.com/track/0RrCvxhHeL45xX9VZqzZbn"
     },
     {
       "added_at": "2024-10-07 19:17:24",

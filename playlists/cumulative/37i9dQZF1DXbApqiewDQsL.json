@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-23",
-  "description": "Fresh new music by independent artists and labels, featuring ENANO  Updates every Wednesday.",
+  "description": "Fresh new music by independent artists and labels, featuring SpliffHappy. Updates every Wednesday",
   "name": "Fresh Finds M\u00fasica Mexicana",
   "tracks": [
     {
@@ -68,6 +68,24 @@
       "duration_ms": 218526,
       "name": "100 TRAGOS",
       "url": "https://open.spotify.com/track/5N07RJ0LnIrMcU2jGCj2mj"
+    },
+    {
+      "album": {
+        "name": "2 AM",
+        "url": "https://open.spotify.com/album/1xTY3tRSMpHpZjB42PT6hu"
+      },
+      "artists": [
+        {
+          "name": "Los de FL",
+          "url": "https://open.spotify.com/artist/1K4SdfLNucKNc8rCrqBFTc"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195583,
+      "name": "2 AM",
+      "url": "https://open.spotify.com/track/6D4JNYwwaajXaqdKnc4ZaF"
     },
     {
       "album": {
@@ -308,7 +326,7 @@
       ],
       "date_added": "2024-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-10",
       "duration_ms": 282880,
       "name": "AMARTE OTRA VEZ II",
       "url": "https://open.spotify.com/track/2xYQWP8Y4xzRs8mPERcunO"
@@ -374,6 +392,24 @@
       "duration_ms": 186014,
       "name": "Ando Fajado",
       "url": "https://open.spotify.com/track/2Nnr4Yf4PPZfZV14wjRHrv"
+    },
+    {
+      "album": {
+        "name": "Brillando",
+        "url": "https://open.spotify.com/album/7LqoDyZVxLLNuKVtMNqSH7"
+      },
+      "artists": [
+        {
+          "name": "Diamante Perez",
+          "url": "https://open.spotify.com/artist/19fMyo1p52veAVamJgbbcF"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218898,
+      "name": "Antisocial",
+      "url": "https://open.spotify.com/track/1A3liHVjOKSJHG8T9q9fXD"
     },
     {
       "album": {
@@ -446,6 +482,24 @@
       "duration_ms": 143504,
       "name": "Baby Dante",
       "url": "https://open.spotify.com/track/6iH6b2mLTeO48HQLEZyoTY"
+    },
+    {
+      "album": {
+        "name": "Por si ma\u00f1ana no estoy",
+        "url": "https://open.spotify.com/album/4kod4dw1BCVpn44T7I2uVN"
+      },
+      "artists": [
+        {
+          "name": "Oscar R",
+          "url": "https://open.spotify.com/artist/5jYod7bcSZ0Sg2u4bRvncp"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187476,
+      "name": "BACKWOODS",
+      "url": "https://open.spotify.com/track/5r4UMHbysC0qD039Rg0K9s"
     },
     {
       "album": {
@@ -566,7 +620,7 @@
       ],
       "date_added": "2024-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-10",
       "duration_ms": 177493,
       "name": "Bella",
       "url": "https://open.spotify.com/track/3ImowwhULTk6zHkhbS1v0Q"
@@ -1184,7 +1238,7 @@
       ],
       "date_added": "2024-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-10",
       "duration_ms": 183103,
       "name": "De Negro LV",
       "url": "https://open.spotify.com/track/5LwM1Vm9pd6ux8ye1bvH1R"
@@ -1632,6 +1686,24 @@
       "duration_ms": 194769,
       "name": "ELOVRGA",
       "url": "https://open.spotify.com/track/2TJKY0WSFufZOzbRNgl6zE"
+    },
+    {
+      "album": {
+        "name": "Emiliano",
+        "url": "https://open.spotify.com/album/2IgdNQhHrh97czfBEcS74u"
+      },
+      "artists": [
+        {
+          "name": "El Wiko",
+          "url": "https://open.spotify.com/artist/711tZI6sxBPYHe5FvbLQjs"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145200,
+      "name": "Emiliano",
+      "url": "https://open.spotify.com/track/3F0gaWu7P2Fz7FG4XsIiEH"
     },
     {
       "album": {
@@ -2714,7 +2786,7 @@
       ],
       "date_added": "2024-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-10",
       "duration_ms": 167000,
       "name": "Loko y Malandron",
       "url": "https://open.spotify.com/track/3t1fpixtTYS9qLAJDOrghi"
@@ -2776,7 +2848,7 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-10",
       "duration_ms": 180136,
       "name": "Mami",
       "url": "https://open.spotify.com/track/4b5ZoCVJhm6CZFeEwgqTP4"
@@ -3720,7 +3792,7 @@
       ],
       "date_added": "2024-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-10",
       "duration_ms": 203357,
       "name": "Pharrel",
       "url": "https://open.spotify.com/track/4OIVWgXFkFU0mKBmOculnm"
@@ -3993,6 +4065,28 @@
     },
     {
       "album": {
+        "name": "Putazos Al Corazon",
+        "url": "https://open.spotify.com/album/785tDXhTyh3e8IgyLVtG6T"
+      },
+      "artists": [
+        {
+          "name": "Vanita Leo",
+          "url": "https://open.spotify.com/artist/1ygRaSoCU4Ph22Y4b7UfB9"
+        },
+        {
+          "name": "ERRE",
+          "url": "https://open.spotify.com/artist/6e88cvGavQA43bDJFoZmxQ"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194307,
+      "name": "Putazos Al Corazon",
+      "url": "https://open.spotify.com/track/72l6TCNIOr9axmpgfoBTmg"
+    },
+    {
+      "album": {
         "name": "Corridos B\u00e9licos, Vol. IV (Versi\u00f3n Deluxe)",
         "url": "https://open.spotify.com/album/67BJDrtPa43KdZ8fAFrCP8"
       },
@@ -4262,6 +4356,24 @@
       "duration_ms": 164214,
       "name": "Recuerdos",
       "url": "https://open.spotify.com/track/7hOJUhwwyfUVjrbj3ckvL8"
+    },
+    {
+      "album": {
+        "name": "REDBULL",
+        "url": "https://open.spotify.com/album/43gE0p5kDnrnovnv0YJBHg"
+      },
+      "artists": [
+        {
+          "name": "Estilo Diferente",
+          "url": "https://open.spotify.com/artist/2rKB8kXiU7fMqdBx5Ewz9E"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248165,
+      "name": "REDBULL",
+      "url": "https://open.spotify.com/track/0B1mHAu5cBdc817lLE0zT0"
     },
     {
       "album": {
@@ -4659,6 +4771,24 @@
     },
     {
       "album": {
+        "name": "Te Dejo en Libertad",
+        "url": "https://open.spotify.com/album/27trYDL5Nreo5BrMO8u29f"
+      },
+      "artists": [
+        {
+          "name": "Jenn Santos",
+          "url": "https://open.spotify.com/artist/4P6xTigVFsFAL41t2qLXJl"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229529,
+      "name": "Te Dejo en Libertad",
+      "url": "https://open.spotify.com/track/5v4wj2RgslQmaG30Zc3MoM"
+    },
+    {
+      "album": {
         "name": "111",
         "url": "https://open.spotify.com/album/338cbfABt3duRORfvNeqLT"
       },
@@ -4994,7 +5124,7 @@
       ],
       "date_added": "2024-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-10",
       "duration_ms": 195428,
       "name": "Un Loqueron",
       "url": "https://open.spotify.com/track/7rRcOWFMB45JEnx9X9WHKE"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6qlCsFHzs7.md) - [plain]
 
 > <a href="spotify:artist:1lMcg4Y7nW5hHgIVsN9Shn">Conducta</a>'s favorite tracks\. Updated regularly\. Curated by Conducta\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,483 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,487 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6qlCsFHzs7.md) - [plain]
 | 11 | [Group A](https://open.spotify.com/track/2KWWaYcWP3pPWGCAxE1mqC) | [DJ Cosworth](https://open.spotify.com/artist/0Sgo1SIN7qc7fDw7v14IDm) | [Reconnect / Group A](https://open.spotify.com/album/2wVOaKH81MA1s16EEOi86b) | 4:13 |
 | 12 | [Azaroso](https://open.spotify.com/track/1Emc5bvDU4HZ6ihGP8gniH) | [WOST](https://open.spotify.com/artist/3kdAt1M24OsazoncWOFlFf) | [Azaroso](https://open.spotify.com/album/5BKm4l7SJhNftOf3tZ2QwQ) | 4:54 |
 | 13 | [Sweatboxx Party](https://open.spotify.com/track/0QL4uCJddftFUKHc8IJcqX) | [Bianca Oblivion](https://open.spotify.com/artist/4aoxM9H8u55MtDh7lkjj94), [Sam Binga](https://open.spotify.com/artist/2oyU4eToyQkxAFjkB3blsi), [Fox](https://open.spotify.com/artist/5SGoXZP1nUNCdOjccpKBAS) | [Sweatboxx Party](https://open.spotify.com/album/0fzZiwOa2MVh2n33NKgXJh) | 2:27 |
-| 14 | [Socadinha](https://open.spotify.com/track/28rGNmTMYwD4GtyYIBS7G7) | [Dave Nunes](https://open.spotify.com/artist/1Jo0kVGvfYzeXGjMUvfmLR), [Pantera](https://open.spotify.com/artist/6paHc8TCHEiwW6KyetwHU6), [Paul Mond](https://open.spotify.com/artist/620psuQTjaUU4RPCxIAbK5) | [Socadinha](https://open.spotify.com/album/0GKcLGP3aiExDyltvpBebW) | 2:36 |
+| 14 | [Socadinha](https://open.spotify.com/track/28rGNmTMYwD4GtyYIBS7G7) | [Dave Nunes](https://open.spotify.com/artist/1Jo0kVGvfYzeXGjMUvfmLR), [Pantejra](https://open.spotify.com/artist/0dW3nHDHBqVALHwyMDgpaW), [Paul Mond](https://open.spotify.com/artist/620psuQTjaUU4RPCxIAbK5) | [Socadinha](https://open.spotify.com/album/0GKcLGP3aiExDyltvpBebW) | 2:36 |
 | 15 | [NEW DROP](https://open.spotify.com/track/2c7z5oRcPBbqRaBY2mLWcf) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [HARDSTONE PSYCHO](https://open.spotify.com/album/0Kzb3u6kMnOJOZXYFSk33F) | 3:37 |
 | 16 | [Crush Mood](https://open.spotify.com/track/7zQhFZF8htxG6P7w0tVy2L) | [Lone](https://open.spotify.com/artist/5wZOrGWdg4hq7KIRMupJdI) | [Crush Mood](https://open.spotify.com/album/0jUs4S9njZGAb1wWAgXzaj) | 6:36 |
 | 17 | [Patchwork, Pt\. 1](https://open.spotify.com/track/09ECYjPyJi8lPcQSol2Jwb) | [Skee Mask](https://open.spotify.com/artist/2qwi0hBvI2GrbkurOnw3hZ), [MJK](https://open.spotify.com/artist/3cthhC7FhxwSiAea06vcDR) | [Patchworks, Vol\. 1](https://open.spotify.com/album/1ZOshQAu4TrYBq5UvyrCMV) | 3:48 |

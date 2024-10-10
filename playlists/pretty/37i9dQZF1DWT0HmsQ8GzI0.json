@@ -1,6 +1,6 @@
 {
   "description": "Zen\u00e9k, amik f\u00e9lreugranak a m\u0171faji hat\u00e1rok el\u0151l. Cover: Belau",
-  "num_followers": 13743,
+  "num_followers": 13744,
   "original_name": "Nemazapop",
   "owner": {
     "name": "Spotify",
@@ -291,22 +291,6 @@
     {
       "added_at": "2024-10-04 09:54:25",
       "album": {
-        "name": "MAG\u00c1NY\u00d6L\u0150",
-        "url": "https://open.spotify.com/album/0FXYhCj9lZniPB2GdX8WZh"
-      },
-      "artists": [
-        {
-          "name": "Moriones",
-          "url": "https://open.spotify.com/artist/5Y82XghASZwxaZGe7tJVUJ"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "MAG\u00c1NY\u00d6L\u0150",
-      "url": "https://open.spotify.com/track/4W3Yxxf3MN3sGRv1sGoURQ"
-    },
-    {
-      "added_at": "2024-10-04 09:54:25",
-      "album": {
         "name": "Venus",
         "url": "https://open.spotify.com/album/38nbcCEcWa0l4Lj3aFCLAs"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 153000,
       "name": "Secrets",
       "url": "https://open.spotify.com/track/222ixOHVwNakNI8FjKVwdo"
+    },
+    {
+      "added_at": "2024-10-04 09:54:25",
+      "album": {
+        "name": "MAG\u00c1NY\u00d6L\u0150",
+        "url": "https://open.spotify.com/album/0FXYhCj9lZniPB2GdX8WZh"
+      },
+      "artists": [
+        {
+          "name": "Moriones",
+          "url": "https://open.spotify.com/artist/5Y82XghASZwxaZGe7tJVUJ"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "MAG\u00c1NY\u00d6L\u0150",
+      "url": "https://open.spotify.com/track/4W3Yxxf3MN3sGRv1sGoURQ"
     },
     {
       "added_at": "2024-10-04 09:54:25",
@@ -419,22 +419,6 @@
     {
       "added_at": "2024-10-04 09:54:25",
       "album": {
-        "name": "Menj",
-        "url": "https://open.spotify.com/album/3eiwFheSvjaecLq4PpNsB9"
-      },
-      "artists": [
-        {
-          "name": "Aurevoir.",
-          "url": "https://open.spotify.com/artist/51BZWZTWqI7GjrgHw3Wvuw"
-        }
-      ],
-      "duration_ms": 227391,
-      "name": "Menj",
-      "url": "https://open.spotify.com/track/7kk5ouFxBgw5e2TZitUsZ9"
-    },
-    {
-      "added_at": "2024-10-04 09:54:25",
-      "album": {
         "name": "B\u00e1ty\u00e1m, Dod\u00f3 - A Film",
         "url": "https://open.spotify.com/album/4FBHvAtwqpEwojA6dDlvg5"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 174957,
       "name": "T\u00e1rsas\u00e1gban",
       "url": "https://open.spotify.com/track/3vyz0Lh32tXc98nbzZgWat"
+    },
+    {
+      "added_at": "2024-10-04 09:54:25",
+      "album": {
+        "name": "Menj",
+        "url": "https://open.spotify.com/album/3eiwFheSvjaecLq4PpNsB9"
+      },
+      "artists": [
+        {
+          "name": "Aurevoir.",
+          "url": "https://open.spotify.com/artist/51BZWZTWqI7GjrgHw3Wvuw"
+        }
+      ],
+      "duration_ms": 227391,
+      "name": "Menj",
+      "url": "https://open.spotify.com/track/7kk5ouFxBgw5e2TZitUsZ9"
     },
     {
       "added_at": "2024-10-04 09:54:25",
@@ -575,22 +575,6 @@
     {
       "added_at": "2024-10-04 09:54:25",
       "album": {
-        "name": "SZ\u00d3LNI KELL",
-        "url": "https://open.spotify.com/album/47JjFF1Xmb9vnGFSLbTV1l"
-      },
-      "artists": [
-        {
-          "name": "HIPERKARMA",
-          "url": "https://open.spotify.com/artist/3I4YFS0OzOA9yDOu0hcGqs"
-        }
-      ],
-      "duration_ms": 223386,
-      "name": "KICSIKE F\u00c9NY",
-      "url": "https://open.spotify.com/track/0zSJD8hIVRARlAXr6zLnWb"
-    },
-    {
-      "added_at": "2024-10-04 09:54:25",
-      "album": {
         "name": "Only Mine",
         "url": "https://open.spotify.com/album/0GbLqXI26vrdBHe94fKPJM"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 282925,
       "name": "Only Mine",
       "url": "https://open.spotify.com/track/6cZD61XturG3sTe4lXk2sd"
+    },
+    {
+      "added_at": "2024-10-04 09:54:25",
+      "album": {
+        "name": "SZ\u00d3LNI KELL",
+        "url": "https://open.spotify.com/album/47JjFF1Xmb9vnGFSLbTV1l"
+      },
+      "artists": [
+        {
+          "name": "HIPERKARMA",
+          "url": "https://open.spotify.com/artist/3I4YFS0OzOA9yDOu0hcGqs"
+        }
+      ],
+      "duration_ms": 223386,
+      "name": "KICSIKE F\u00c9NY",
+      "url": "https://open.spotify.com/track/0zSJD8hIVRARlAXr6zLnWb"
     },
     {
       "added_at": "2024-10-04 09:54:25",
@@ -643,22 +643,6 @@
     {
       "added_at": "2024-10-04 09:54:25",
       "album": {
-        "name": "H\u00e9jan\u00e1sz",
-        "url": "https://open.spotify.com/album/3BxGAiRcjuzbGPR5jdgbxr"
-      },
-      "artists": [
-        {
-          "name": "Aurevoir.",
-          "url": "https://open.spotify.com/artist/51BZWZTWqI7GjrgHw3Wvuw"
-        }
-      ],
-      "duration_ms": 188230,
-      "name": "H\u00e9jan\u00e1sz",
-      "url": "https://open.spotify.com/track/1s1xGPOO6GbNoTTX4ih0bt"
-    },
-    {
-      "added_at": "2024-10-04 09:54:25",
-      "album": {
         "name": "K\u00d6NNYCSEPP",
         "url": "https://open.spotify.com/album/0YgTBhcQzY4PE5MQVZpBvF"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 149812,
       "name": "K\u00d6NNYCSEPP",
       "url": "https://open.spotify.com/track/18YUmErDQnUIetFN2iBoxm"
+    },
+    {
+      "added_at": "2024-10-04 09:54:25",
+      "album": {
+        "name": "H\u00e9jan\u00e1sz",
+        "url": "https://open.spotify.com/album/3BxGAiRcjuzbGPR5jdgbxr"
+      },
+      "artists": [
+        {
+          "name": "Aurevoir.",
+          "url": "https://open.spotify.com/artist/51BZWZTWqI7GjrgHw3Wvuw"
+        }
+      ],
+      "duration_ms": 188230,
+      "name": "H\u00e9jan\u00e1sz",
+      "url": "https://open.spotify.com/track/1s1xGPOO6GbNoTTX4ih0bt"
     },
     {
       "added_at": "2024-10-04 09:54:25",
@@ -787,6 +787,22 @@
     {
       "added_at": "2024-10-04 09:54:25",
       "album": {
+        "name": "Ugyanitt v\u00e1rlak",
+        "url": "https://open.spotify.com/album/3K0RrtPlf7DttkxvCrrVKj"
+      },
+      "artists": [
+        {
+          "name": "Margaret Island",
+          "url": "https://open.spotify.com/artist/02jCP5QSPYrmuZVMwSJweB"
+        }
+      ],
+      "duration_ms": 197500,
+      "name": "Ugyanitt v\u00e1rlak",
+      "url": "https://open.spotify.com/track/1b6DV0wJ8YWBzFINSUNRFO"
+    },
+    {
+      "added_at": "2024-10-04 09:54:25",
+      "album": {
         "name": "Quatre Grapes",
         "url": "https://open.spotify.com/album/166W34UydwJ0pZlsNbrRKN"
       },
@@ -807,24 +823,8 @@
     {
       "added_at": "2024-10-04 09:54:25",
       "album": {
-        "name": "Ugyanitt v\u00e1rlak",
-        "url": "https://open.spotify.com/album/3K0RrtPlf7DttkxvCrrVKj"
-      },
-      "artists": [
-        {
-          "name": "Margaret Island",
-          "url": "https://open.spotify.com/artist/02jCP5QSPYrmuZVMwSJweB"
-        }
-      ],
-      "duration_ms": 197500,
-      "name": "Ugyanitt v\u00e1rlak",
-      "url": "https://open.spotify.com/track/1b6DV0wJ8YWBzFINSUNRFO"
-    },
-    {
-      "added_at": "2024-10-04 09:54:25",
-      "album": {
-        "name": "Reszket a Bokor",
-        "url": "https://open.spotify.com/album/0wggm6nm1gVgVpLKZ4AM9Z"
+        "name": "Legszebb Hib\u00e1nk",
+        "url": "https://open.spotify.com/album/3m9VNJ9qZMXhBHwmJ2ldi9"
       },
       "artists": [
         {
@@ -832,9 +832,9 @@
           "url": "https://open.spotify.com/artist/2pUosmQBulUMSAsOZ19jI6"
         }
       ],
-      "duration_ms": 157924,
-      "name": "Reszket a Bokor",
-      "url": "https://open.spotify.com/track/46qNg2Vjrfn7O0lmgplCvU"
+      "duration_ms": 164705,
+      "name": "Legszebb Hib\u00e1nk",
+      "url": "https://open.spotify.com/track/1aDekm12qg6Eu7cOwlAOBw"
     },
     {
       "added_at": "2024-10-04 09:54:25",
@@ -943,8 +943,8 @@
     {
       "added_at": "2024-10-04 09:54:25",
       "album": {
-        "name": "Legszebb Hib\u00e1nk",
-        "url": "https://open.spotify.com/album/3m9VNJ9qZMXhBHwmJ2ldi9"
+        "name": "Reszket a Bokor",
+        "url": "https://open.spotify.com/album/0wggm6nm1gVgVpLKZ4AM9Z"
       },
       "artists": [
         {
@@ -952,9 +952,9 @@
           "url": "https://open.spotify.com/artist/2pUosmQBulUMSAsOZ19jI6"
         }
       ],
-      "duration_ms": 164705,
-      "name": "Legszebb Hib\u00e1nk",
-      "url": "https://open.spotify.com/track/1aDekm12qg6Eu7cOwlAOBw"
+      "duration_ms": 157924,
+      "name": "Reszket a Bokor",
+      "url": "https://open.spotify.com/track/46qNg2Vjrfn7O0lmgplCvU"
     },
     {
       "added_at": "2024-10-04 09:54:25",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2024-10-04 09:54:25",
       "album": {
-        "name": "Elment\u00e9l",
-        "url": "https://open.spotify.com/album/2WAes5Sxq4lx2GpnBBONKI"
-      },
-      "artists": [
-        {
-          "name": "Z\u00d3RA",
-          "url": "https://open.spotify.com/artist/5XRDlWq75VpsIeumX64ZDW"
-        }
-      ],
-      "duration_ms": 284368,
-      "name": "Elment\u00e9l",
-      "url": "https://open.spotify.com/track/1o4NsoVgFIl7CjHLDT9mBM"
-    },
-    {
-      "added_at": "2024-10-04 09:54:25",
-      "album": {
         "name": "Egym\u00e1shoz r\u00f6vid az \u00fat",
         "url": "https://open.spotify.com/album/4Iz2McUkaRCAR6uLbpuutA"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 176000,
       "name": "Napf\u00e9ny",
       "url": "https://open.spotify.com/track/7lgJPqlkZ3jTYsfE3S8Jih"
+    },
+    {
+      "added_at": "2024-10-04 09:54:25",
+      "album": {
+        "name": "Elment\u00e9l",
+        "url": "https://open.spotify.com/album/2WAes5Sxq4lx2GpnBBONKI"
+      },
+      "artists": [
+        {
+          "name": "Z\u00d3RA",
+          "url": "https://open.spotify.com/artist/5XRDlWq75VpsIeumX64ZDW"
+        }
+      ],
+      "duration_ms": 284368,
+      "name": "Elment\u00e9l",
+      "url": "https://open.spotify.com/track/1o4NsoVgFIl7CjHLDT9mBM"
     },
     {
       "added_at": "2024-10-04 09:54:25",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2024-10-04 09:54:25",
       "album": {
-        "name": "Different",
-        "url": "https://open.spotify.com/album/1zObClZJYxlQHXXADFlgn6"
-      },
-      "artists": [
-        {
-          "name": "NOIRA",
-          "url": "https://open.spotify.com/artist/0UWpD8yCQsAW8g5hL7AtKo"
-        }
-      ],
-      "duration_ms": 221062,
-      "name": "Different",
-      "url": "https://open.spotify.com/track/6y3DLeTH3Z5fghsahBZDLE"
-    },
-    {
-      "added_at": "2024-10-04 09:54:25",
-      "album": {
         "name": "K\u00e9s\u0151 Van",
         "url": "https://open.spotify.com/album/3dB5Hd0zSS1uQGjLxD24PP"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 156038,
       "name": "K\u00e9s\u0151 Van",
       "url": "https://open.spotify.com/track/5Tshn50cxPx4Zxw43yJ4PI"
+    },
+    {
+      "added_at": "2024-10-04 09:54:25",
+      "album": {
+        "name": "Different",
+        "url": "https://open.spotify.com/album/1zObClZJYxlQHXXADFlgn6"
+      },
+      "artists": [
+        {
+          "name": "NOIRA",
+          "url": "https://open.spotify.com/artist/0UWpD8yCQsAW8g5hL7AtKo"
+        }
+      ],
+      "duration_ms": 221062,
+      "name": "Different",
+      "url": "https://open.spotify.com/track/6y3DLeTH3Z5fghsahBZDLE"
     },
     {
       "added_at": "2024-10-04 09:54:25",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2024-10-04 09:54:25",
       "album": {
-        "name": "beleszakad",
-        "url": "https://open.spotify.com/album/6KFWkezfq4nfFqt6ccNjBU"
-      },
-      "artists": [
-        {
-          "name": "Pand\u00f3ra Projekt",
-          "url": "https://open.spotify.com/artist/2tPp6Lt1bM1nzGK5jcm7B8"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "beleszakad",
-      "url": "https://open.spotify.com/track/5Y6ouyWbwZHou41ZwauH0W"
-    },
-    {
-      "added_at": "2024-10-04 09:54:25",
-      "album": {
         "name": "Megbolond\u00edtott\u00e1l",
         "url": "https://open.spotify.com/album/0GcH92lOVlvEemDDetvKxX"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 198665,
       "name": "Megbolond\u00edtott\u00e1l",
       "url": "https://open.spotify.com/track/4GvYeS4CDBsWzuOaNloPp8"
+    },
+    {
+      "added_at": "2024-10-04 09:54:25",
+      "album": {
+        "name": "beleszakad",
+        "url": "https://open.spotify.com/album/6KFWkezfq4nfFqt6ccNjBU"
+      },
+      "artists": [
+        {
+          "name": "Pand\u00f3ra Projekt",
+          "url": "https://open.spotify.com/artist/2tPp6Lt1bM1nzGK5jcm7B8"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "beleszakad",
+      "url": "https://open.spotify.com/track/5Y6ouyWbwZHou41ZwauH0W"
     },
     {
       "added_at": "2024-10-04 09:54:25",

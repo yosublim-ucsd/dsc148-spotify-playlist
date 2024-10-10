@@ -1,12 +1,12 @@
 {
   "description": "new music from baby bugs \ud83d\udc1b",
-  "num_followers": 119217,
+  "num_followers": 119306,
   "original_name": "juniper",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zv9oQAAAAADRmn2nMeqeotucSNCqsNHL",
+  "snapshot_id": "Zwa07gAAAACod0lp39Y5N/8Karkv+vZm",
   "tracks": [
     {
       "added_at": "2024-10-04 04:00:00",
@@ -73,6 +73,22 @@
       "url": "https://open.spotify.com/track/6vca0aMELa1kc6mIs6w39c"
     },
     {
+      "added_at": "2024-10-09 16:53:02",
+      "album": {
+        "name": "Old Car",
+        "url": "https://open.spotify.com/album/0dY7aaSn3OtgYSyeVl73hA"
+      },
+      "artists": [
+        {
+          "name": "Chrissy",
+          "url": "https://open.spotify.com/artist/3QwRBjTeM46BQmREpCiL6f"
+        }
+      ],
+      "duration_ms": 199922,
+      "name": "Old Car",
+      "url": "https://open.spotify.com/track/3o6wfrXEOOd1wk836lNyQS"
+    },
+    {
       "added_at": "2024-09-20 04:00:00",
       "album": {
         "name": "Foxglove",
@@ -119,6 +135,38 @@
       "duration_ms": 234076,
       "name": "Pushing It Down and Praying",
       "url": "https://open.spotify.com/track/4wO2JlPZw72Xlu6dGUW4Ce"
+    },
+    {
+      "added_at": "2024-08-20 19:48:10",
+      "album": {
+        "name": "The Secret of Us",
+        "url": "https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 157146,
+      "name": "I Love You, I'm Sorry",
+      "url": "https://open.spotify.com/track/51rfRCiUSvxXlCSCfIztBy"
+    },
+    {
+      "added_at": "2024-10-09 16:53:02",
+      "album": {
+        "name": "Solstice",
+        "url": "https://open.spotify.com/album/2B1TsRb3uycachEmnppqsZ"
+      },
+      "artists": [
+        {
+          "name": "Anna Graves",
+          "url": "https://open.spotify.com/artist/4j9vFTGkTHf54MjcZvedcT"
+        }
+      ],
+      "duration_ms": 206543,
+      "name": "Fly",
+      "url": "https://open.spotify.com/track/02KzF8vFmNIhtPW8XKTdHe"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -349,6 +397,38 @@
       "url": "https://open.spotify.com/track/0BzTjRJQjOxMZpCAGnPXhp"
     },
     {
+      "added_at": "2024-10-09 16:53:02",
+      "album": {
+        "name": "Plateaus",
+        "url": "https://open.spotify.com/album/15XVmpLlyeWXv5QINxWcwo"
+      },
+      "artists": [
+        {
+          "name": "Cape Francis",
+          "url": "https://open.spotify.com/artist/6tnCYugShRsCcfHNGIUSq3"
+        }
+      ],
+      "duration_ms": 226714,
+      "name": "Just Because",
+      "url": "https://open.spotify.com/track/2p26J9tpJ8kmbBd8AX7WnF"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "wishing for you",
+        "url": "https://open.spotify.com/album/3NtTQnCzZ9WzYPlE8BPQQl"
+      },
+      "artists": [
+        {
+          "name": "deeper sleeper",
+          "url": "https://open.spotify.com/artist/641zDmmghbd2tTMqrj3HBZ"
+        }
+      ],
+      "duration_ms": 247826,
+      "name": "wishing for you",
+      "url": "https://open.spotify.com/track/70d8qFo2LNeMTouj0ka2TG"
+    },
+    {
       "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "Shawn",
@@ -461,22 +541,6 @@
       "url": "https://open.spotify.com/track/5B0LlNrqXQqnafdrvfJHji"
     },
     {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "wishing for you",
-        "url": "https://open.spotify.com/album/3NtTQnCzZ9WzYPlE8BPQQl"
-      },
-      "artists": [
-        {
-          "name": "deeper sleeper",
-          "url": "https://open.spotify.com/artist/641zDmmghbd2tTMqrj3HBZ"
-        }
-      ],
-      "duration_ms": 247826,
-      "name": "wishing for you",
-      "url": "https://open.spotify.com/track/70d8qFo2LNeMTouj0ka2TG"
-    },
-    {
       "added_at": "2024-08-23 14:02:32",
       "album": {
         "name": "Heartbreak Rodeo",
@@ -491,22 +555,6 @@
       "duration_ms": 187633,
       "name": "Heartbreak Rodeo",
       "url": "https://open.spotify.com/track/3pPcEKe8l6kylaLchvQCXU"
-    },
-    {
-      "added_at": "2024-08-20 19:48:10",
-      "album": {
-        "name": "The Secret of Us",
-        "url": "https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl"
-      },
-      "artists": [
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        }
-      ],
-      "duration_ms": 157146,
-      "name": "I Love You, I'm Sorry",
-      "url": "https://open.spotify.com/track/51rfRCiUSvxXlCSCfIztBy"
     },
     {
       "added_at": "2024-08-20 17:39:09",
@@ -1471,22 +1519,6 @@
       "duration_ms": 168352,
       "name": "Dirty Fire",
       "url": "https://open.spotify.com/track/7Ktux01az60Et2QeCYu357"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "Made To Love Someone",
-        "url": "https://open.spotify.com/album/1ZBWR128wYVIWFDmNvwF3i"
-      },
-      "artists": [
-        {
-          "name": "Anna Graves",
-          "url": "https://open.spotify.com/artist/4j9vFTGkTHf54MjcZvedcT"
-        }
-      ],
-      "duration_ms": 186845,
-      "name": "Made To Love Someone",
-      "url": "https://open.spotify.com/track/4Bbk6rpr4SWdt82cG8XN40"
     },
     {
       "added_at": "2024-07-12 04:00:00",

@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125755,
+  "num_followers": 125753,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAATHwPkejd1PWgU2GTu3SxvTvOO/YZK",
+  "snapshot_id": "AAATIp7WUUQMo3MT4AxH3mY1YnEWfMsD",
   "tracks": [
+    {
+      "added_at": "2024-10-09 13:42:56",
+      "album": {
+        "name": "Scorched Earth",
+        "url": "https://open.spotify.com/album/4vrG5DwAVj7PWk44B3450q"
+      },
+      "artists": [
+        {
+          "name": "Virtual Riot",
+          "url": "https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1"
+        }
+      ],
+      "duration_ms": 280800,
+      "name": "Scorched Earth",
+      "url": "https://open.spotify.com/track/0QtWkMmAvxkeZobKRyXBen"
+    },
     {
       "added_at": "2024-10-08 14:14:35",
       "album": {
@@ -1175,22 +1191,6 @@
       "duration_ms": 160312,
       "name": "GOOP",
       "url": "https://open.spotify.com/track/0tT6vs8ErNQ0yvgAXBdg3C"
-    },
-    {
-      "added_at": "2024-07-18 14:24:50",
-      "album": {
-        "name": "What If I Stay",
-        "url": "https://open.spotify.com/album/2Cq1ho6qwefhOEZo3ydzw4"
-      },
-      "artists": [
-        {
-          "name": "OVSKY",
-          "url": "https://open.spotify.com/artist/6hs7DlQVJTvFgN7DyzkdnX"
-        }
-      ],
-      "duration_ms": 148656,
-      "name": "What If I Stay",
-      "url": "https://open.spotify.com/track/0AFGePrpNwxHi0RkZcn2DT"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

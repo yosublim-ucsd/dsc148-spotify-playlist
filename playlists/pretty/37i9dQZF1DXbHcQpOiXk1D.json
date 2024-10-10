@@ -1,6 +1,6 @@
 {
   "description": "The best from Britain's vibrant scene. Cover: Ezra Collective",
-  "num_followers": 316937,
+  "num_followers": 316966,
   "original_name": "Jazz UK",
   "owner": {
     "name": "Spotify",
@@ -275,6 +275,22 @@
     {
       "added_at": "2024-10-03 23:00:00",
       "album": {
+        "name": "Save You",
+        "url": "https://open.spotify.com/album/60jlGTsXqFf0B90Idslk0a"
+      },
+      "artists": [
+        {
+          "name": "DARGZ",
+          "url": "https://open.spotify.com/artist/0AggcZhPMyJglaaruoxJpN"
+        }
+      ],
+      "duration_ms": 132320,
+      "name": "Save You",
+      "url": "https://open.spotify.com/track/0UlfVs1oZavP61LzvIVhGs"
+    },
+    {
+      "added_at": "2024-10-03 23:00:00",
+      "album": {
         "name": "Lights Out",
         "url": "https://open.spotify.com/album/5Tu4ytCjEMSDx04f1TwGYf"
       },
@@ -291,22 +307,6 @@
       "duration_ms": 241560,
       "name": "Lights Out",
       "url": "https://open.spotify.com/track/52qi04bO7emYkJH6lhA4sk"
-    },
-    {
-      "added_at": "2024-10-03 23:00:00",
-      "album": {
-        "name": "Save You",
-        "url": "https://open.spotify.com/album/60jlGTsXqFf0B90Idslk0a"
-      },
-      "artists": [
-        {
-          "name": "DARGZ",
-          "url": "https://open.spotify.com/artist/0AggcZhPMyJglaaruoxJpN"
-        }
-      ],
-      "duration_ms": 132320,
-      "name": "Save You",
-      "url": "https://open.spotify.com/track/0UlfVs1oZavP61LzvIVhGs"
     },
     {
       "added_at": "2024-10-03 23:00:00",
@@ -511,6 +511,38 @@
     {
       "added_at": "2024-10-03 23:00:00",
       "album": {
+        "name": "Orange-coloured day",
+        "url": "https://open.spotify.com/album/5LSivLzjAl3bOSECr27PHj"
+      },
+      "artists": [
+        {
+          "name": "Liana Flores",
+          "url": "https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u"
+        }
+      ],
+      "duration_ms": 168218,
+      "name": "Orange-coloured day",
+      "url": "https://open.spotify.com/track/3jXy5FvEftfAWa6Bk5ukAy"
+    },
+    {
+      "added_at": "2024-10-03 23:00:00",
+      "album": {
+        "name": "Dance, No One's Watching",
+        "url": "https://open.spotify.com/album/08jeayZieCHTosu0K5tzf9"
+      },
+      "artists": [
+        {
+          "name": "Ezra Collective",
+          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
+        }
+      ],
+      "duration_ms": 202360,
+      "name": "N29",
+      "url": "https://open.spotify.com/track/4MJjEf9wD9V0TwxKDYxLhP"
+    },
+    {
+      "added_at": "2024-10-03 23:00:00",
+      "album": {
         "name": "Saudade Dos Avi\u00f5es Da Panair (Conversando No Bar)",
         "url": "https://open.spotify.com/album/4QJCD7DW0AEzBr6FWe2E8d"
       },
@@ -543,38 +575,6 @@
       "duration_ms": 324529,
       "name": "Saudade Dos Avi\u00f5es Da Panair (Conversando No Bar) [Feat. Maria Gadu, Lianne La Havas, Tim Bernardes]",
       "url": "https://open.spotify.com/track/55J4oeEuPKa5tHu4qBGR1A"
-    },
-    {
-      "added_at": "2024-10-03 23:00:00",
-      "album": {
-        "name": "Dance, No One's Watching",
-        "url": "https://open.spotify.com/album/08jeayZieCHTosu0K5tzf9"
-      },
-      "artists": [
-        {
-          "name": "Ezra Collective",
-          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
-        }
-      ],
-      "duration_ms": 202360,
-      "name": "N29",
-      "url": "https://open.spotify.com/track/4MJjEf9wD9V0TwxKDYxLhP"
-    },
-    {
-      "added_at": "2024-10-03 23:00:00",
-      "album": {
-        "name": "Orange-coloured day",
-        "url": "https://open.spotify.com/album/5LSivLzjAl3bOSECr27PHj"
-      },
-      "artists": [
-        {
-          "name": "Liana Flores",
-          "url": "https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u"
-        }
-      ],
-      "duration_ms": 168218,
-      "name": "Orange-coloured day",
-      "url": "https://open.spotify.com/track/3jXy5FvEftfAWa6Bk5ukAy"
     },
     {
       "added_at": "2024-10-03 23:00:00",
@@ -707,6 +707,22 @@
     {
       "added_at": "2024-10-03 23:00:00",
       "album": {
+        "name": "Connla's Well",
+        "url": "https://open.spotify.com/album/59lxNUUwxzNmeB4dkqQExa"
+      },
+      "artists": [
+        {
+          "name": "Maruja",
+          "url": "https://open.spotify.com/artist/71ISXR7gtIq5E2AdI3jGf0"
+        }
+      ],
+      "duration_ms": 358418,
+      "name": "Resisting Resistance",
+      "url": "https://open.spotify.com/track/5sxatW3jsmH2gUTJ1zvnHs"
+    },
+    {
+      "added_at": "2024-10-03 23:00:00",
+      "album": {
         "name": "Where or When",
         "url": "https://open.spotify.com/album/6MJLX11fKx4JaRfGS25ih1"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 257811,
       "name": "Where or When",
       "url": "https://open.spotify.com/track/1bNpRcfsbIxI9FMJsjCNcw"
-    },
-    {
-      "added_at": "2024-10-03 23:00:00",
-      "album": {
-        "name": "Sweet Whispers: Celebrating Sarah Vaughan",
-        "url": "https://open.spotify.com/album/68s468xGl5xo5GASE9YNvO"
-      },
-      "artists": [
-        {
-          "name": "Zara McFarlane",
-          "url": "https://open.spotify.com/artist/2KwROtmoJfRcQHqDMiV6uo"
-        }
-      ],
-      "duration_ms": 279749,
-      "name": "Inner City Blues",
-      "url": "https://open.spotify.com/track/2B0Wn7n7pmBEqCpKaVH8CC"
     },
     {
       "added_at": "2024-10-03 23:00:00",
@@ -763,18 +763,18 @@
     {
       "added_at": "2024-10-03 23:00:00",
       "album": {
-        "name": "Connla's Well",
-        "url": "https://open.spotify.com/album/59lxNUUwxzNmeB4dkqQExa"
+        "name": "Sweet Whispers: Celebrating Sarah Vaughan",
+        "url": "https://open.spotify.com/album/68s468xGl5xo5GASE9YNvO"
       },
       "artists": [
         {
-          "name": "Maruja",
-          "url": "https://open.spotify.com/artist/71ISXR7gtIq5E2AdI3jGf0"
+          "name": "Zara McFarlane",
+          "url": "https://open.spotify.com/artist/2KwROtmoJfRcQHqDMiV6uo"
         }
       ],
-      "duration_ms": 358418,
-      "name": "Resisting Resistance",
-      "url": "https://open.spotify.com/track/5sxatW3jsmH2gUTJ1zvnHs"
+      "duration_ms": 279749,
+      "name": "Inner City Blues",
+      "url": "https://open.spotify.com/track/2B0Wn7n7pmBEqCpKaVH8CC"
     },
     {
       "added_at": "2024-10-03 23:00:00",
@@ -827,22 +827,6 @@
     {
       "added_at": "2024-10-03 23:00:00",
       "album": {
-        "name": "Radio Masoda",
-        "url": "https://open.spotify.com/album/4wNS5Z7ziNOWQoh5bgVqEo"
-      },
-      "artists": [
-        {
-          "name": "Franck Biyong",
-          "url": "https://open.spotify.com/artist/66pH3nd8YzbQBO3KBG2z5E"
-        }
-      ],
-      "duration_ms": 291279,
-      "name": "Jela Kubwa Na Viboko",
-      "url": "https://open.spotify.com/track/7rOu21uEg6VSWRy9Fgzx4K"
-    },
-    {
-      "added_at": "2024-10-03 23:00:00",
-      "album": {
         "name": "In The Void of All Things",
         "url": "https://open.spotify.com/album/5L7QNd8q9TTLqzjNMXBcVR"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 200009,
       "name": "In The Void of All Things",
       "url": "https://open.spotify.com/track/0VfmoZjMGHS1OXeoCNyobC"
+    },
+    {
+      "added_at": "2024-10-03 23:00:00",
+      "album": {
+        "name": "Radio Masoda",
+        "url": "https://open.spotify.com/album/4wNS5Z7ziNOWQoh5bgVqEo"
+      },
+      "artists": [
+        {
+          "name": "Franck Biyong",
+          "url": "https://open.spotify.com/artist/66pH3nd8YzbQBO3KBG2z5E"
+        }
+      ],
+      "duration_ms": 291279,
+      "name": "Jela Kubwa Na Viboko",
+      "url": "https://open.spotify.com/track/7rOu21uEg6VSWRy9Fgzx4K"
     },
     {
       "added_at": "2024-10-03 23:00:00",
@@ -915,26 +915,6 @@
     {
       "added_at": "2024-10-03 23:00:00",
       "album": {
-        "name": "Reconsider Me",
-        "url": "https://open.spotify.com/album/4WcY5le43F5o60EypGVtBo"
-      },
-      "artists": [
-        {
-          "name": "Gan Gemi",
-          "url": "https://open.spotify.com/artist/7wkHx3fIGiREy0nBgXrZya"
-        },
-        {
-          "name": "Underground Canopy",
-          "url": "https://open.spotify.com/artist/7k7AFLI13ChqpIlQGI1lJo"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Reconsider Me",
-      "url": "https://open.spotify.com/track/1HCRRVEhhyk0Kbk2jQQd0W"
-    },
-    {
-      "added_at": "2024-10-03 23:00:00",
-      "album": {
         "name": "Volte-Face",
         "url": "https://open.spotify.com/album/42Zh1ftsN4bR2zwJXEtCoE"
       },
@@ -967,6 +947,26 @@
       "duration_ms": 386885,
       "name": "Love of Mine",
       "url": "https://open.spotify.com/track/5hXhBMfTEPyswGhah0z3Lb"
+    },
+    {
+      "added_at": "2024-10-03 23:00:00",
+      "album": {
+        "name": "Reconsider Me",
+        "url": "https://open.spotify.com/album/4WcY5le43F5o60EypGVtBo"
+      },
+      "artists": [
+        {
+          "name": "Gan Gemi",
+          "url": "https://open.spotify.com/artist/7wkHx3fIGiREy0nBgXrZya"
+        },
+        {
+          "name": "Underground Canopy",
+          "url": "https://open.spotify.com/artist/7k7AFLI13ChqpIlQGI1lJo"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Reconsider Me",
+      "url": "https://open.spotify.com/track/1HCRRVEhhyk0Kbk2jQQd0W"
     },
     {
       "added_at": "2024-10-03 23:00:00",
@@ -1043,6 +1043,22 @@
     {
       "added_at": "2024-10-03 23:00:00",
       "album": {
+        "name": "Fitzcarraldo",
+        "url": "https://open.spotify.com/album/2zIoOw4m7koLSPlHXbflwT"
+      },
+      "artists": [
+        {
+          "name": "Raffy Bushman",
+          "url": "https://open.spotify.com/artist/4xX2QeWsypmEv9w4u9P6xC"
+        }
+      ],
+      "duration_ms": 291000,
+      "name": "Fitzcarraldo",
+      "url": "https://open.spotify.com/track/6l6abRNWxxpDHHZZQjR8H6"
+    },
+    {
+      "added_at": "2024-10-03 23:00:00",
+      "album": {
         "name": "Rising",
         "url": "https://open.spotify.com/album/779CtOedaPfyu3SOhtvEEU"
       },
@@ -1075,38 +1091,6 @@
     {
       "added_at": "2024-10-03 23:00:00",
       "album": {
-        "name": "More Than This",
-        "url": "https://open.spotify.com/album/7FfQGdPblAtsR3cF7u1Qmp"
-      },
-      "artists": [
-        {
-          "name": "Myles Sanko",
-          "url": "https://open.spotify.com/artist/0EeY17gAdOJIBjNrpi6q1G"
-        }
-      ],
-      "duration_ms": 222989,
-      "name": "More Than This",
-      "url": "https://open.spotify.com/track/3fYHcbbE5I88UKIPg2Oa2f"
-    },
-    {
-      "added_at": "2024-10-03 23:00:00",
-      "album": {
-        "name": "Fitzcarraldo",
-        "url": "https://open.spotify.com/album/2zIoOw4m7koLSPlHXbflwT"
-      },
-      "artists": [
-        {
-          "name": "Raffy Bushman",
-          "url": "https://open.spotify.com/artist/4xX2QeWsypmEv9w4u9P6xC"
-        }
-      ],
-      "duration_ms": 291000,
-      "name": "Fitzcarraldo",
-      "url": "https://open.spotify.com/track/6l6abRNWxxpDHHZZQjR8H6"
-    },
-    {
-      "added_at": "2024-10-03 23:00:00",
-      "album": {
         "name": "I\u2019ll Do Whatever You Want",
         "url": "https://open.spotify.com/album/1eJCzWoOCQ4ikh7APacwOd"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 463080,
       "name": "I\u2019ll Do Whatever You Want (feat. Floating Points, Laraaji)",
       "url": "https://open.spotify.com/track/7tv000vU2ikgKNUNmGDeKV"
+    },
+    {
+      "added_at": "2024-10-03 23:00:00",
+      "album": {
+        "name": "More Than This",
+        "url": "https://open.spotify.com/album/7FfQGdPblAtsR3cF7u1Qmp"
+      },
+      "artists": [
+        {
+          "name": "Myles Sanko",
+          "url": "https://open.spotify.com/artist/0EeY17gAdOJIBjNrpi6q1G"
+        }
+      ],
+      "duration_ms": 222989,
+      "name": "More Than This",
+      "url": "https://open.spotify.com/track/3fYHcbbE5I88UKIPg2Oa2f"
     },
     {
       "added_at": "2024-10-03 23:00:00",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2024-10-03 23:00:00",
       "album": {
-        "name": "Working It Out",
-        "url": "https://open.spotify.com/album/6GfG72p8tBdIGNLEUaqFft"
-      },
-      "artists": [
-        {
-          "name": "Myles Sanko",
-          "url": "https://open.spotify.com/artist/0EeY17gAdOJIBjNrpi6q1G"
-        }
-      ],
-      "duration_ms": 235173,
-      "name": "Working It Out",
-      "url": "https://open.spotify.com/track/6G4hlsOeAdepXCdI2fPQbw"
-    },
-    {
-      "added_at": "2024-10-03 23:00:00",
-      "album": {
         "name": "Unchained Melodies Vol. 1",
         "url": "https://open.spotify.com/album/2edsxQdf0FGniP6b51BiXE"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 196000,
       "name": "Liam's Eavestaff",
       "url": "https://open.spotify.com/track/6f95xzUOBAQkdjggMDR06m"
+    },
+    {
+      "added_at": "2024-10-03 23:00:00",
+      "album": {
+        "name": "dance tonight",
+        "url": "https://open.spotify.com/album/00coMhH2J8lGx01f2FUL8P"
+      },
+      "artists": [
+        {
+          "name": "Indira May",
+          "url": "https://open.spotify.com/artist/4PStVha6j7ZX2DNtWwIR24"
+        }
+      ],
+      "duration_ms": 165191,
+      "name": "dance tonight",
+      "url": "https://open.spotify.com/track/2DLvNxWG0YJS6yDf6KJsmK"
     },
     {
       "added_at": "2024-10-03 23:00:00",
@@ -1255,18 +1255,38 @@
     {
       "added_at": "2024-10-03 23:00:00",
       "album": {
-        "name": "Clarity",
-        "url": "https://open.spotify.com/album/0Ak2aBGFCtMPfIWK4ZaYqD"
+        "name": "ON THE MOVE",
+        "url": "https://open.spotify.com/album/5GbCUbN3cBFa1nPhCwuExU"
       },
       "artists": [
         {
-          "name": "Nubya Garcia",
-          "url": "https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ"
+          "name": "Close Counters",
+          "url": "https://open.spotify.com/artist/1b94FVTCNMq9gU78ByW6iY"
+        },
+        {
+          "name": "Tiana Khasi",
+          "url": "https://open.spotify.com/artist/6kM1b2Ze9w94VPfq4KhJF3"
         }
       ],
-      "duration_ms": 375291,
-      "name": "Clarity",
-      "url": "https://open.spotify.com/track/4OroPOlqY8tPrAFNfRHKIS"
+      "duration_ms": 222931,
+      "name": "ON THE MOVE",
+      "url": "https://open.spotify.com/track/6o5ZepiUT0EnHyJvnynnoU"
+    },
+    {
+      "added_at": "2024-10-03 23:00:00",
+      "album": {
+        "name": "Working It Out",
+        "url": "https://open.spotify.com/album/6GfG72p8tBdIGNLEUaqFft"
+      },
+      "artists": [
+        {
+          "name": "Myles Sanko",
+          "url": "https://open.spotify.com/artist/0EeY17gAdOJIBjNrpi6q1G"
+        }
+      ],
+      "duration_ms": 235173,
+      "name": "Working It Out",
+      "url": "https://open.spotify.com/track/6G4hlsOeAdepXCdI2fPQbw"
     },
     {
       "added_at": "2024-10-03 23:00:00",
@@ -1295,22 +1315,18 @@
     {
       "added_at": "2024-10-03 23:00:00",
       "album": {
-        "name": "ON THE MOVE",
-        "url": "https://open.spotify.com/album/5GbCUbN3cBFa1nPhCwuExU"
+        "name": "Clarity",
+        "url": "https://open.spotify.com/album/0Ak2aBGFCtMPfIWK4ZaYqD"
       },
       "artists": [
         {
-          "name": "Close Counters",
-          "url": "https://open.spotify.com/artist/1b94FVTCNMq9gU78ByW6iY"
-        },
-        {
-          "name": "Tiana Khasi",
-          "url": "https://open.spotify.com/artist/6kM1b2Ze9w94VPfq4KhJF3"
+          "name": "Nubya Garcia",
+          "url": "https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ"
         }
       ],
-      "duration_ms": 222931,
-      "name": "ON THE MOVE",
-      "url": "https://open.spotify.com/track/6o5ZepiUT0EnHyJvnynnoU"
+      "duration_ms": 375291,
+      "name": "Clarity",
+      "url": "https://open.spotify.com/track/4OroPOlqY8tPrAFNfRHKIS"
     },
     {
       "added_at": "2024-10-03 23:00:00",
@@ -1335,38 +1351,22 @@
     {
       "added_at": "2024-10-03 23:00:00",
       "album": {
-        "name": "Timekeepers",
-        "url": "https://open.spotify.com/album/0RLhXDmFXUorOU8xGDZJHP"
+        "name": "Losing You",
+        "url": "https://open.spotify.com/album/3MYehd7LTXflbdYn3y4CoX"
       },
       "artists": [
         {
-          "name": "Matt Wilde",
-          "url": "https://open.spotify.com/artist/3zcRSyyzkg8qI2WPvXLaek"
-        }
-      ],
-      "duration_ms": 173333,
-      "name": "Timekeepers",
-      "url": "https://open.spotify.com/track/0yrAvvvkD5GZoPWCOoSIO7"
-    },
-    {
-      "added_at": "2024-10-03 23:00:00",
-      "album": {
-        "name": "Beautiful Sunday",
-        "url": "https://open.spotify.com/album/5IsHRQl6KKpRh9zMz9SQ8Z"
-      },
-      "artists": [
-        {
-          "name": "SwanNek",
-          "url": "https://open.spotify.com/artist/1ywBtmKTo6pI92wFJiJHii"
+          "name": "Mom Tudie",
+          "url": "https://open.spotify.com/artist/1wd0PsPr7L269FkA1bVnA8"
         },
         {
-          "name": "Ras Tex",
-          "url": "https://open.spotify.com/artist/6CEiVua8xVV3bJ8fuGGBk1"
+          "name": "Loie",
+          "url": "https://open.spotify.com/artist/1IcA6oyWXac8laFWul0ZaJ"
         }
       ],
-      "duration_ms": 276625,
-      "name": "Beautiful Sunday",
-      "url": "https://open.spotify.com/track/3LAL1nIrnaJGAQmN7cJutg"
+      "duration_ms": 207857,
+      "name": "Losing You",
+      "url": "https://open.spotify.com/track/4umLhAXqcyQ2ZTcdsfipYG"
     }
   ],
   "unique_name": "Jazz UK",

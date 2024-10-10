@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 
 > 
 
-[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 1,971 songs - 4 day 9 hr 59 min
+[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 1,973 songs - 4 day 10 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1979,5 +1979,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 | 1969 | [Meet Her At The Love Parade \- Beuk Mix](https://open.spotify.com/track/2DpM4jw683veA2BTcc3kZR) | [Vieze Asbak](https://open.spotify.com/artist/66FZq0wsY6770bc4O9Dlig) | [Meet Her At The Love Parade \(Beuk Mix\)](https://open.spotify.com/album/1YPZDYBgcbMfW4ORrQHmX7) | 1:52 |
 | 1970 | [STAY AWAY](https://open.spotify.com/track/3vDinFBFhPsTykopZhZuoi) | [6EJOU](https://open.spotify.com/artist/1k0U51DXyjFk4YnLZUIMP9) | [STAY AWAY](https://open.spotify.com/album/1cIhasMqR2uxzWLRYkRpzb) | 5:24 |
 | 1971 | [idiota.zao](https://open.spotify.com/track/2YqCsO7Dr5Of6YcxoZ7Dey) | [kreevv](https://open.spotify.com/artist/3geVFRJvQS1HrJ9Xr1wovJ) | [idiota.zao](https://open.spotify.com/album/75IY9ftq0077pY3XRzld4f) | 2:09 |
+| 1972 | [GRAVEYARD CHAOS](https://open.spotify.com/track/3BjPkuEDC9BkL0IfNEP6iy) | [STAKILLAZ](https://open.spotify.com/artist/44tWGthIqM3mm0ngpslGO9) | [GRAVEYARD CHAOS](https://open.spotify.com/album/0bmJZ4iRTZLU5U1fChBiaO) | 1:50 |
+| 1973 | [Romantika](https://open.spotify.com/track/4nOOoo9OJbgnTBNHe5b6nD) | [Brutalismus 3000](https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j) | [Eros Massacre](https://open.spotify.com/album/0ZVpEzmv3wYLL1waCPPf7V) | 4:10 |
 
-Snapshot ID: `AAADXddIXbvvh7gkaDc2DDXLIVL2VqcL`
+Snapshot ID: `AAADX99z/n2t99wn4RoyAiU+7uIcUE+d`

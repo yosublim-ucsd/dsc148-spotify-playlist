@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QfDOCxg9IE.md) - [plain]
 
 > Άκου τα πιο χοτ trends στην Ελλάδα αυτή τη στιγμή!
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,660 likes - 60 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,682 likes - 60 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QfDOCxg9IE.md) - [plain]
 | 19 | [Taxidi](https://open.spotify.com/track/6OeMRweMBxOOsH0jRZZcHB) | [Marina Spanou](https://open.spotify.com/artist/3CHVx21sE8rj1BnqRHukdz) | [Mia Kaseta Gia Ton Dromo](https://open.spotify.com/album/2vb1FOxlzBYITBzSSiFQdg) | 4:52 |
 | 20 | [Pes](https://open.spotify.com/track/4sltRhFlzu0BwXq9OUnwSG) | [ZAF](https://open.spotify.com/artist/0vC9IaLo87ruiqkOXmPvPO), [Christos Mastoras](https://open.spotify.com/artist/1XlTr7C0vwBmlpnsN8OMhu) | [Pes](https://open.spotify.com/album/6pbmcMoQkOtO9si2gD4bOj) | 3:02 |
 | 21 | [NEW DROP](https://open.spotify.com/track/2c7z5oRcPBbqRaBY2mLWcf) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [HARDSTONE PSYCHO](https://open.spotify.com/album/0Kzb3u6kMnOJOZXYFSk33F) | 3:37 |
-| 22 | [Kai Irthe Pali](https://open.spotify.com/track/1R5MdJm6JiHXjJPxUJ9w4F) | [Mani](https://open.spotify.com/artist/2t6NEGChLyMUnGnW1LupcS), [Fi Vita Sigma](https://open.spotify.com/artist/1tHNXjqv2f4qfAldD1hF5I), [Ixodotis](https://open.spotify.com/artist/2lxAO4k1GdoEMQRbdpboME) | [Me Lene Mani](https://open.spotify.com/album/1EGb6YdddYRERk0zZrn3ft) | 6:49 |
+| 22 | [Kai Irthe Pali](https://open.spotify.com/track/1R5MdJm6JiHXjJPxUJ9w4F) | [Mani](https://open.spotify.com/artist/2t6NEGChLyMUnGnW1LupcS), [Fi Vita Sigma](https://open.spotify.com/artist/1tHNXjqv2f4qfAldD1hF5I) | [Me Lene Mani](https://open.spotify.com/album/1EGb6YdddYRERk0zZrn3ft) | 6:49 |
 | 23 | [Embrace It](https://open.spotify.com/track/0io16MKpbeDIdYzmGpQaES) | [Ndotz](https://open.spotify.com/artist/5HK6QtizXJzCmoYTkvFRik) | [Embrace It](https://open.spotify.com/album/0mV9Pfr1GfoZLkp1EAau9P) | 1:44 |
 | 24 | [Vorias](https://open.spotify.com/track/0ZK2jpmk44WBUfe2UV30AY) | [APON](https://open.spotify.com/artist/2bucjueNUx2aVTUA7zj6w7) | [Vorias](https://open.spotify.com/album/2Q5uwzmPFHSjpk9cSayhZp) | 3:09 |
 | 25 | [Πάρτυ](https://open.spotify.com/track/3WkZ44nflkY1Fb5wrkJuMM) | [Billie Kark](https://open.spotify.com/artist/6hDmweft2NBTVSnCPJ5pMc) | [Πάρτυ](https://open.spotify.com/album/2wryX8eV2bx0ZckCoz2lSU) | 3:26 |

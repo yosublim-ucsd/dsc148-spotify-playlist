@@ -4,7 +4,7 @@
 
 > Keep calm with instrumental acoustic tracks.
 
-772 songs - 1 day 9 hr 33 min
+775 songs - 1 day 9 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [Best friends](https://open.spotify.com/track/0yU9Qy2A7tCrhobBuKnnvE) | [Owen Larsson](https://open.spotify.com/artist/3yj6wzbqsrmZhF87e97km8) | [Best friends](https://open.spotify.com/album/4ALkcz004EhEw7PlFRFEBk) | 1:23 | 2023-05-12 | 2023-08-19 |
 | [Better Day](https://open.spotify.com/track/5fnVL2fGMFS5cwa2SQGXiv) | [Esbjörn Öhrwall](https://open.spotify.com/artist/5ugCpOAuzxIERU70NtSLjz) | [Better Day](https://open.spotify.com/album/76KdJF0ReBY7NlolwLFsPj) | 3:12 | 2021-12-08 | 2022-06-10 |
 | [Better Days](https://open.spotify.com/track/0BPdtwPaBWWbo2GDUsBCG8) | [Joseph Gonzalez](https://open.spotify.com/artist/0Xx5c1qUSqajCgoUqS2dMa) | [Better Days](https://open.spotify.com/album/78Sv1TPZppB1jXVbmc2In3) | 2:08 | 2021-12-08 | 2024-05-24 |
+| [Between Bird Cherry and Lilac](https://open.spotify.com/track/6WIDhbMt9PxsTD9dukAmmw) | [Manuel Maria Rojas](https://open.spotify.com/artist/4g0gAM7jxFZznUqV75EUxN) | [Between Bird Cherry and Lilac](https://open.spotify.com/album/3vc2eHIww7vEppI4uRRrCr) | 3:01 | 2024-10-09 |  |
 | [Beyond Any Doubt](https://open.spotify.com/track/0hKUf6QOZ9IPA8tMnghi51) | [Robert Lowe](https://open.spotify.com/artist/4omS6iWv8SKCrZULjKfeI5) | [Beyond Any Doubt](https://open.spotify.com/album/7fapRWAW0Gi5HWxspy0yC5) | 2:48 | 2023-05-12 | 2024-05-04 |
 | [Bilbao](https://open.spotify.com/track/7DDKbHVAJqh0AjBUDs2nvu) | [Márcia Sanz](https://open.spotify.com/artist/27OhafNGYrZXUPoBt4TNq8) | [Bilbao](https://open.spotify.com/album/3aVPFj2cpivc3pMcpqhKHq) | 2:51 | 2021-12-08 | 2024-04-05 |
 | [Bilbo](https://open.spotify.com/track/6iDSCK18tX5CCloZyhE2KR) | [Finlep](https://open.spotify.com/artist/1CIIFCOCvjPkzlNRxw0XNp) | [Bilbo](https://open.spotify.com/album/6SB4qQhsTWvtYmlLceZS37) | 2:45 | 2024-08-07 |  |
@@ -102,7 +103,7 @@
 | [Blue Jay](https://open.spotify.com/track/5EVAAbNIPsrFaCo0nstIhB) | [Poetics of Memory](https://open.spotify.com/artist/7z2N8PTwv87AKvjJ7BYknl) | [Blue Jay](https://open.spotify.com/album/6pvEtsgknjEEcNjjTxB4Bt) | 2:35 | 2022-11-18 | 2024-05-24 |
 | [Blue Nights](https://open.spotify.com/track/4nQkcnKRluoyu2UfanfqWX) | [Jonnie Snoilsky](https://open.spotify.com/artist/5ycCOf6NSQtvIFdrscOuU4) | [Blue Nights](https://open.spotify.com/album/0vhl5DqH30xs6lj7V1QzNO) | 2:38 | 2022-10-07 | 2023-05-13 |
 | [Blurring Lines](https://open.spotify.com/track/33CVcdWsRzp4E8CQoGlAJy) | [Alexas Lucio](https://open.spotify.com/artist/5K78fvhC7TVBC8mcpkMGvQ) | [Blurring Lines](https://open.spotify.com/album/0OJ6PKcMpAFSFL2usHm1v4) | 2:06 | 2024-03-08 |  |
-| [Blush](https://open.spotify.com/track/02lN91c8sceWQBD7JVhYaz) | [K.C Brown](https://open.spotify.com/artist/5p3he9DObPlyFw4iwatApa) | [Blush](https://open.spotify.com/album/6Gcvlj6eQHvDSpU9nMM3M2) | 2:29 | 2023-04-21 |  |
+| [Blush](https://open.spotify.com/track/02lN91c8sceWQBD7JVhYaz) | [K.C Brown](https://open.spotify.com/artist/5p3he9DObPlyFw4iwatApa) | [Blush](https://open.spotify.com/album/6Gcvlj6eQHvDSpU9nMM3M2) | 2:29 | 2023-04-21 | 2024-10-10 |
 | [Boboli Gardens](https://open.spotify.com/track/6ol6xm2KcSn5Pr2biM7Ps0) | [Amma Lerato](https://open.spotify.com/artist/0fc9IdmPLh7Gn3TwWpOBcL) | [Boboli Gardens](https://open.spotify.com/album/1ZorAmdZHG1iTSsXHkWhFM) | 2:01 | 2023-04-21 |  |
 | [Bolero Del Sur](https://open.spotify.com/track/0KYaOK0iTCODMZBarRjRm4) | [Los Suculentos](https://open.spotify.com/artist/7bTwrUAlEQ5eq0GILDbSYN) | [Bolero Del Sur](https://open.spotify.com/album/3q747zMG0IshIwdOYuMzkn) | 3:02 | 2021-12-08 | 2022-09-09 |
 | [Bonheur](https://open.spotify.com/track/3eB5sR72EmZxK05v7vPZII) | [Leandra Costa](https://open.spotify.com/artist/4pan7mPpKbyrhcNLveAiKr) | [Bonheur](https://open.spotify.com/album/2G0OxirfcDmVCGYjeh6WOs) | 2:14 | 2023-03-24 |  |
@@ -439,6 +440,7 @@
 | [Minha Saudade](https://open.spotify.com/track/6wNgssJaoiZnBySwG6EMVZ) | [August Wilkes](https://open.spotify.com/artist/19gSkzJPz68TJCpd3RIbm5), [Carol Maddox](https://open.spotify.com/artist/1tfErPhfPUi2JprfJZRsfb) | [Minha Saudade](https://open.spotify.com/album/0ZJCb518KAvdFVrL0yIni5) | 2:27 | 2021-12-08 | 2024-04-05 |
 | [Mino Madrid](https://open.spotify.com/track/039lCWzjPxX289MSTfim74) | [Adriana Von](https://open.spotify.com/artist/1vaAJMEhSW3SEr07yzlKDO) | [Mino Madrid](https://open.spotify.com/album/2i1BOMeyUaOPrhCYZdHxAU) | 1:48 | 2022-07-29 | 2023-08-19 |
 | [Minor Moments](https://open.spotify.com/track/5GWcVFVzwT4nJ1Ji1Fpjpm) | [Dawn, Dawn, Dawn](https://open.spotify.com/artist/6qT731U8rSadVUrqDvGakd) | [Minor Moments](https://open.spotify.com/album/5amFPb8CfOuotX2lUhrTiq) | 3:01 | 2021-12-08 | 2022-05-27 |
+| [Mississippi Kite](https://open.spotify.com/track/3lLePaCsPfGPjlOlWrknKt) | [Argun North](https://open.spotify.com/artist/4jjr4BcdHYLSoU3Ba1pq9Q) | [Mississippi Kite](https://open.spotify.com/album/3wiTYw3KDqcfzZC0zku2Sx) | 2:15 | 2024-10-09 |  |
 | [Mittenwald](https://open.spotify.com/track/56gf0iOrvZQpwECebBy99R) | [Finlep](https://open.spotify.com/artist/1CIIFCOCvjPkzlNRxw0XNp) | [Mittenwald](https://open.spotify.com/album/6j8Tg0ERTdfiHWukxIHC8f) | 2:40 | 2021-12-08 | 2022-08-05 |
 | [Moments](https://open.spotify.com/track/1GgytkMdKCMIhzDcPHTJMX) | [Caylee Luna](https://open.spotify.com/artist/6gEGHbKHwwG0aslwsdWKL8) | [Moments](https://open.spotify.com/album/0841nT5RLsINf4vERrhMrB) | 2:19 | 2024-01-12 |  |
 | [Moments](https://open.spotify.com/track/5KscTL4V9Yz0hgH5aiJCLF) | [Steve D](https://open.spotify.com/artist/7JaeTu8xN4ZYcKyGrK6DBW) | [Moments](https://open.spotify.com/album/1pN9aYINmhUNUH1KFVDjHJ) | 1:39 | 2023-05-12 | 2023-08-19 |
@@ -751,6 +753,7 @@
 | [When Time Stood Still](https://open.spotify.com/track/6EHCudtkELVk2YGHOv2NsB) | [Kyle Conners](https://open.spotify.com/artist/6AJslaemnAaB5OujGRqc2e) | [When Time Stood Still](https://open.spotify.com/album/6pwd0GXmwffQKAg0UnJXX4) | 3:07 | 2021-12-08 | 2023-09-29 |
 | [When we're together](https://open.spotify.com/track/46CteNPTOkjXz52CIldTjZ) | [Philip Grass](https://open.spotify.com/artist/1P6oBwSLIpnKBsIObVaIj1) | [When we're together](https://open.spotify.com/album/2o2rYNRj9oQHzORAdeQ6ya) | 2:28 | 2024-10-01 |  |
 | [When You Came Along](https://open.spotify.com/track/5ZXGt5CWPJZow2IMyVjGMn) | [Jonnie Snoilsky](https://open.spotify.com/artist/5ycCOf6NSQtvIFdrscOuU4) | [When You Came Along](https://open.spotify.com/album/5pJ21xOidRFlu3EPbuiKEJ) | 2:06 | 2023-03-24 |  |
+| [Where the Moon Reflects](https://open.spotify.com/track/284dTNCNnX2Wzr2jLr7JKm) | [K.C Brown](https://open.spotify.com/artist/5p3he9DObPlyFw4iwatApa) | [Where the Moon Reflects](https://open.spotify.com/album/54JrDu2kP20ksTYfxMqjlB) | 2:57 | 2024-10-09 |  |
 | [While You Dream](https://open.spotify.com/track/64JfbQmVniAnDa0ulwkNDx) | [Joseph Cline](https://open.spotify.com/artist/4I9DN3aBJSdzI26IuzVl0h) | [While You Dream](https://open.spotify.com/album/377iurKSfWPriVKdTisxYQ) | 2:09 | 2022-10-07 | 2024-05-24 |
 | [Whisper of the Heart](https://open.spotify.com/track/4joOtftW0JiCALcn0aU04F) | [Allan Soderbergh](https://open.spotify.com/artist/3xqsMFRhJhUFZo7ktD34rU) | [Whisper of the Heart](https://open.spotify.com/album/4cdWP61wTkYf0e7z4xYg68) | 2:14 | 2023-06-02 |  |
 | [Whispering Winds](https://open.spotify.com/track/5D9BEXCyDrVrfYGDfwl9FE) | [Michael Reiss](https://open.spotify.com/artist/0KuRSjM6OFX0mH6GW5Shvy) | [Whispering Winds](https://open.spotify.com/album/0MIMtnfIxqRTZBz5drD61Z) | 3:42 | 2024-05-24 |  |

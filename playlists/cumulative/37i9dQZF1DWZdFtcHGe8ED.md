@@ -2,7 +2,7 @@
 
 ### [Thrashers](https://open.spotify.com/playlist/37i9dQZF1DWZdFtcHGe8ED)
 
-> All the greatest Thrash tunes \- from classics to the best new tracks\. Cover: Anthrax
+> All the greatest Thrash tunes \- from classics to the best new tracks\. Cover: Municipal Waste
 
 433 songs - 1 day 6 hr 43 min
 

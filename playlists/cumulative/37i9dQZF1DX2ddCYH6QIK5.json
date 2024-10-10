@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels, updated every Wednesday. Cover:  yola, Artwork: Isu Kim.\n",
+  "description": "The best new music by independent artists and labels, updated every Wednesday. Cover: ottomatisch,  Artwork: Isu Kim.\n",
   "name": "Fresh Finds GSA",
   "tracks": [
     {
@@ -926,7 +926,7 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-10",
       "duration_ms": 164401,
       "name": "Altes Geld",
       "url": "https://open.spotify.com/track/2xwUpTuk0vRdfLV0mNBsS4"
@@ -3108,6 +3108,24 @@
       "duration_ms": 190588,
       "name": "Built For This",
       "url": "https://open.spotify.com/track/6j5ZJ2jF4mPePeaBnGDqGt"
+    },
+    {
+      "album": {
+        "name": "Burning",
+        "url": "https://open.spotify.com/album/3LQu9iJDgsD0PBNxrIPK5c"
+      },
+      "artists": [
+        {
+          "name": "Lucy Fair",
+          "url": "https://open.spotify.com/artist/6sEqKHhuSzUK1egrdbgQRd"
+        }
+      ],
+      "date_added": "2024-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189408,
+      "name": "Burning",
+      "url": "https://open.spotify.com/track/078INFolOMlxdkBWhItdY5"
     },
     {
       "album": {
@@ -5464,7 +5482,7 @@
       ],
       "date_added": "2024-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-10",
       "duration_ms": 149590,
       "name": "Drunk in Love",
       "url": "https://open.spotify.com/track/626WpfRMJnmk9B0VGmWz0V"
@@ -7455,6 +7473,24 @@
     },
     {
       "album": {
+        "name": "F\u00fcr immer Sommer",
+        "url": "https://open.spotify.com/album/24ydjJSwqKm9WcvVXT9HlA"
+      },
+      "artists": [
+        {
+          "name": "Scheiba",
+          "url": "https://open.spotify.com/artist/1B9PAmNGuf0E3GCfxMNixK"
+        }
+      ],
+      "date_added": "2024-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204676,
+      "name": "F\u00fcr immer Sommer",
+      "url": "https://open.spotify.com/track/6iZdZI8FB4K00lSxjrEEp2"
+    },
+    {
+      "album": {
         "name": "gasleuchte",
         "url": "https://open.spotify.com/album/1oHqWFUUY67rj9WvRhcFHP"
       },
@@ -9196,7 +9232,7 @@
       ],
       "date_added": "2024-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-10",
       "duration_ms": 170704,
       "name": "Holy",
       "url": "https://open.spotify.com/track/34hcgOv5JBP7O9FFlQFJxU"
@@ -11229,6 +11265,28 @@
     },
     {
       "album": {
+        "name": "LACTOBOY",
+        "url": "https://open.spotify.com/album/5L6H23VeiDrwdHn2JmZAkP"
+      },
+      "artists": [
+        {
+          "name": "Sebastian der Saubere",
+          "url": "https://open.spotify.com/artist/3F8hZErqnfFKa81D1qUDBI"
+        },
+        {
+          "name": "Pablo Rochat",
+          "url": "https://open.spotify.com/artist/1jrRHAXkOac4wogkGnWubr"
+        }
+      ],
+      "date_added": "2024-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "LACTOBOY",
+      "url": "https://open.spotify.com/track/2C1VLt6q6bvPOQGQZyKgCk"
+    },
+    {
+      "album": {
         "name": "Ladder",
         "url": "https://open.spotify.com/album/4EmuQzPsYMen5oRgaltkO2"
       },
@@ -13225,6 +13283,24 @@
     },
     {
       "album": {
+        "name": "muss los",
+        "url": "https://open.spotify.com/album/2c6un187JpVcFBL2xZS1bo"
+      },
+      "artists": [
+        {
+          "name": "Keboo",
+          "url": "https://open.spotify.com/artist/1DfKDKpRIWvJox1FlHsa3l"
+        }
+      ],
+      "date_added": "2024-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143628,
+      "name": "muss los",
+      "url": "https://open.spotify.com/track/00tdJ5uq15hhbA49zVxjNB"
+    },
+    {
+      "album": {
         "name": "Mutant Funk",
         "url": "https://open.spotify.com/album/0K80ufbq3xDggUdFYCtjX6"
       },
@@ -13290,7 +13366,7 @@
       ],
       "date_added": "2024-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-10",
       "duration_ms": 198892,
       "name": "MY SONG",
       "url": "https://open.spotify.com/track/6TufAnkAKR3K8z6FNmzPxe"
@@ -18249,6 +18325,24 @@
     },
     {
       "album": {
+        "name": "Sterne",
+        "url": "https://open.spotify.com/album/1zBezRSzJd3ksq1sw5OcQf"
+      },
+      "artists": [
+        {
+          "name": "ottomatisch",
+          "url": "https://open.spotify.com/artist/1y8g1oiY6pspWscjrZsSjH"
+        }
+      ],
+      "date_added": "2024-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137142,
+      "name": "Sterne",
+      "url": "https://open.spotify.com/track/1kWQuTOWK2Sii2SuGaHCPS"
+    },
+    {
+      "album": {
         "name": "Sternzeichen",
         "url": "https://open.spotify.com/album/6OIRA92OQYZUrucRduMlwH"
       },
@@ -20538,7 +20632,7 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-10",
       "duration_ms": 187187,
       "name": "Valentina",
       "url": "https://open.spotify.com/track/1DPnUYdhwU4zZzSjFbJ3vX"

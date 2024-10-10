@@ -4,7 +4,7 @@
 
 > Beats with a flavour of Jazz.
 
-272 songs - 13 hr 48 min
+274 songs - 13 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,8 +25,9 @@
 | [Annie's Tune](https://open.spotify.com/track/1n6eQozvR8PbW2opBdmtLg) | [DARGZ](https://open.spotify.com/artist/0AggcZhPMyJglaaruoxJpN), [Charlie Stacey](https://open.spotify.com/artist/3Uw7i8bbD7k8eOD5SIqn9g) | [Annie's Tune](https://open.spotify.com/album/3g9x7MAnIZuGQwjp2TquRP) | 4:23 | 2023-08-22 | 2024-09-18 |
 | [Antidot](https://open.spotify.com/track/6uYJzgNsiy1JdP0SdOxwkh) | [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt), [Sátyr](https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf) | [Antidot](https://open.spotify.com/album/0b3GckTAQH8frqpmi2mqgA) | 2:10 | 2024-09-27 |  |
 | [Ava](https://open.spotify.com/track/3r9TewyQOI18hx7A6kBaHE) | [SamuW](https://open.spotify.com/artist/2tqQ33SdGO1LqNg8DQDCio), [Nofeels](https://open.spotify.com/artist/3Qn4P4XWpnaL8MfK237Mjl) | [Ava](https://open.spotify.com/album/5JGVhdDkLkzGPL1H7ZGPnF) | 1:52 | 2024-08-23 | 2024-08-25 |
+| [Be Kind, Rewind](https://open.spotify.com/track/3zJjy40rYBjYqhame6q11B) | [the intern](https://open.spotify.com/artist/1ZntZlDRZbQGsSIYJhxog2), [7apes](https://open.spotify.com/artist/4smeBjKru2y3oeQkGSfotv) | [Be Kind, Rewind](https://open.spotify.com/album/3SDZ2cK7n2CW8CTm831Zia) | 2:46 | 2024-10-06 |  |
 | [Be Water](https://open.spotify.com/track/1FaBri7R5R5g3yIvjuMKXa) | [Klaus Layer](https://open.spotify.com/artist/0qU9C0toB3cUdPP8NMZl9x) | [Be Water / You Can Fly](https://open.spotify.com/album/68TYTxBLueBYiXeV5XNQur) | 1:20 | 2023-10-13 | 2024-08-24 |
-| [Beat Brunch](https://open.spotify.com/track/2Xy4Cl8PGYRRzIBniRrVra) | [Bipeula](https://open.spotify.com/artist/5Kcv07Jj6RthywQndqvfh2), [very noise person](https://open.spotify.com/artist/1YAZ1Efx4AY14uJAfsBEDv) | [Beat Brunch](https://open.spotify.com/album/2HnId5ukRSiZ4AoKlgPfWX) | 2:13 | 2024-08-23 |  |
+| [Beat Brunch](https://open.spotify.com/track/2Xy4Cl8PGYRRzIBniRrVra) | [Bipeula](https://open.spotify.com/artist/5Kcv07Jj6RthywQndqvfh2), [very noise person](https://open.spotify.com/artist/1YAZ1Efx4AY14uJAfsBEDv) | [Beat Brunch](https://open.spotify.com/album/2HnId5ukRSiZ4AoKlgPfWX) | 2:13 | 2024-08-23 | 2024-10-10 |
 | [Bella Vista](https://open.spotify.com/track/2UrJHvGEOXDMY8jHgzGkwU) | [Unwind Project](https://open.spotify.com/artist/1pKbeFgKBZ7fk5UVIxo6mf), [Gas Lab](https://open.spotify.com/artist/2oJeeqyPBtkQJgsZgjFboN), [aronsmith](https://open.spotify.com/artist/009g6snuAvcjh2QJHcmQCu), [Ted Taforo](https://open.spotify.com/artist/7tbxW8j3pe34xRrPtS5igX) | [Bella Vista](https://open.spotify.com/album/3CTkvlYkHej43Ha301QEQ5) | 2:30 | 2024-09-13 |  |
 | [Best Time](https://open.spotify.com/track/3pZNpqJSgC6fKGk1Q7E9za) | [CrazyJaZz](https://open.spotify.com/artist/7nT0BfoHBOjL5yGLTRLmhm) | [Best Time](https://open.spotify.com/album/5zhTTfKgc60Gv2W04vTGjc) | 2:32 | 2023-12-20 |  |
 | [Better Worlds](https://open.spotify.com/track/1QUykTReTicU0CXhHPm9Y0) | [Matt Wilde](https://open.spotify.com/artist/3zcRSyyzkg8qI2WPvXLaek), [Kissamilé](https://open.spotify.com/artist/7darGNapWiX3YbwJXwl0hR) | [Better Worlds](https://open.spotify.com/album/1f0IRafmVNgjl27cGRA4lC) | 3:01 | 2023-08-22 |  |
@@ -76,7 +77,7 @@
 | [Dunt Dunt](https://open.spotify.com/track/4DbTun4ivORsEpwLJ877qw) | [Graeme Gengras](https://open.spotify.com/artist/2Czbu25dJ8diFJ2ahMgcCq) | [Dunt Dunt](https://open.spotify.com/album/0d44FiJn8kD8I5rS87GCEp) | 4:29 | 2023-08-22 | 2024-09-09 |
 | [Dusty](https://open.spotify.com/track/6mNXITyQm2fVWL0zc08YYD) | [Keeth](https://open.spotify.com/artist/5sv0yfLOm69KAnjd5mg52u) | [Dusty](https://open.spotify.com/album/5AuHEai8Ic7ZjJKCJDYVj9) | 3:11 | 2024-02-16 | 2024-09-30 |
 | [earthly things](https://open.spotify.com/track/7GZhgahlOC3GgZiTnQOHOL) | [Kiefer](https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J) | [When There's Love Around](https://open.spotify.com/album/1ht1VvaJRHg2JxEAUpl9A3) | 5:04 | 2023-08-22 | 2023-09-22 |
-| [Elsewhere](https://open.spotify.com/track/74xZG75SSihGRat5rQBFUb) | [Keeth](https://open.spotify.com/artist/5sv0yfLOm69KAnjd5mg52u) | [Elsewhere](https://open.spotify.com/album/21SHZW1MKbZpeK0Q2TwQfQ) | 2:37 | 2023-08-22 |  |
+| [Elsewhere](https://open.spotify.com/track/74xZG75SSihGRat5rQBFUb) | [Keeth](https://open.spotify.com/artist/5sv0yfLOm69KAnjd5mg52u) | [Elsewhere](https://open.spotify.com/album/21SHZW1MKbZpeK0Q2TwQfQ) | 2:37 | 2023-08-22 | 2024-10-10 |
 | [Emerald](https://open.spotify.com/track/5OSGlRXM9SLoEdGAhZ2FoS) | [xander.](https://open.spotify.com/artist/6ysKfYgiKUTMCuq2fSTLK3), [Matt Wilde](https://open.spotify.com/artist/3zcRSyyzkg8qI2WPvXLaek) | [Emerald](https://open.spotify.com/album/4AK1LTE4aVQKdjQGbKCK8k) | 2:50 | 2024-03-08 |  |
 | [Et Lite Øyeblikk Bare \- An NPR Tiny Desk Concert](https://open.spotify.com/track/0gNWFpkw3GFSMVIFwhDJfC) | [Svaneborg Kardyb](https://open.spotify.com/artist/2aGCFk3Mvhs9Am7JHwoyRr) | [At Home \(An NPR Tiny Desk Concert\)](https://open.spotify.com/album/3CGLzhsLKXSV90vaTAVL77) | 5:20 | 2023-12-08 |  |
 | [Even the Sun](https://open.spotify.com/track/2TWkH2N07GzwDHBeKE11Gz) | [Otis McDonald](https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T) | [Even the Sun](https://open.spotify.com/album/7AmueUKQ7wH3hkpUc827JG) | 3:26 | 2023-10-13 | 2024-10-04 |
@@ -210,6 +211,7 @@
 | [Silver Lining](https://open.spotify.com/track/13u3ooUx4eEn7vXJ9TFkBf) | [J3PO](https://open.spotify.com/artist/0lSFr65zkY254m1qbHAb5k) | [MAINS](https://open.spotify.com/album/4ffYTuxsKPUVL5eFJWjVHS) | 3:42 | 2023-08-22 | 2024-04-19 |
 | [Sista Dansen](https://open.spotify.com/track/16v3ccysk9vpIFZu6qzNWm) | [Koma Saxo](https://open.spotify.com/artist/28Ua0GwMz73dcNeUZIXDq8), [Petter Eldh](https://open.spotify.com/artist/2q0DyP2pqqNHI4OiC50IKx) | [Post Koma](https://open.spotify.com/album/0Kg10FOiXQVIsBAoMRhzLh) | 2:17 | 2024-02-21 | 2024-08-25 |
 | [Slipping Slowly](https://open.spotify.com/track/3utuOUxyj2ur3Hh2b1Hi9W) | [Louk](https://open.spotify.com/artist/6ljotXgL1sbhiI7aiF7W8O), [CHAERIN](https://open.spotify.com/artist/5VhgcFVd77oNJ2eZ2OynMc) | [Slipping Slowly](https://open.spotify.com/album/00ejlsopWmxDclwu12Vgz4) | 2:18 | 2024-08-23 |  |
+| [Soft Moments](https://open.spotify.com/track/3fkJhN1UvLO1yy6gpoxmC2) | [flwrz](https://open.spotify.com/artist/1e6Ke7g6UOnYMqXt4Da9kU) | [Soft Moments](https://open.spotify.com/album/1laFeTsAZGskVBQxGrRdIm) | 2:24 | 2024-10-06 |  |
 | [Solace](https://open.spotify.com/track/6XF3THa6lb0wN4gXWJcyDw) | [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL) | [Solace](https://open.spotify.com/album/7CQknjOhZ2NC1bCiPIeFpx) | 2:00 | 2024-06-04 |  |
 | [Sometimes](https://open.spotify.com/track/4GxjXLt3QmNK86kZH3YX84) | [catch92](https://open.spotify.com/artist/3yXLoJ2Yak6kiuXbSIssRo) | [Sometimes](https://open.spotify.com/album/50DOyzaTfAWF0eFJSgZden) | 1:52 | 2024-09-27 |  |
 | [Sono Qui Pt\. 2](https://open.spotify.com/track/46GHEqmKAkkF9JmKQduQaT) | [Koralle](https://open.spotify.com/artist/3OW3qK7Wl9ESAGLvjVOw2h), [Francesco Giampaoli](https://open.spotify.com/artist/4JL4brCLF4fbNBdRt21tFX), [Opek](https://open.spotify.com/artist/1CUV6UEfyGRCZXqBbXJ5f7) | [Sono Qui Pt\. 2](https://open.spotify.com/album/6vWQ3YgWhg94oxf7llA2q7) | 2:21 | 2024-09-13 | 2024-09-16 |

@@ -4,7 +4,7 @@
 
 > T\-Pop ไม่ไหว ต้องฟัง T\-Pop Now แล้ว อัปเดตทุกสัปดาห์\. ศิลปิน: ATLAS
 
-576 songs - 1 day 10 hr 13 min
+578 songs - 1 day 10 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [BF](https://open.spotify.com/track/25K1tGmiprhsC8LXgOrNjM) | [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx), [URBOYTJ](https://open.spotify.com/artist/1WLKjYJX9YHSlwufclauhg) | [BF](https://open.spotify.com/album/7p0YVbItQH3RE6jqZ5ug4u) | 3:36 | 2024-08-01 |  |
 | [Blah Blah Blah](https://open.spotify.com/track/4tO3hXwy46uaCo9eQQ9PW0) | [EMPRESS](https://open.spotify.com/artist/7f57J64jShBdEI6EB1dmRu) | [Blah Blah Blah](https://open.spotify.com/album/2SrMt23u6CgRh51fU4pmEv) | 3:30 | 2024-02-22 | 2024-03-02 |
 | [Blurred](https://open.spotify.com/track/1wCAXionqFLLZPUNY2nd6c) | [FrameThanavuch](https://open.spotify.com/artist/0K44arrw4gdFLzifOQLORP) | [Blurred](https://open.spotify.com/album/6RCVDrIfZY3darb6ig8Vn9) | 4:27 | 2022-05-26 | 2022-06-01 |
+| [BODYGUARD](https://open.spotify.com/track/6zb8KlBjdh0CgJch2zic8E) | [PERSES](https://open.spotify.com/artist/1rRs0oN28NPUQxO4TffpSY) | [BODYGUARD \- Single](https://open.spotify.com/album/0djSHy4lxpLZCznzQyPqRW) | 3:05 | 2024-10-09 |  |
 | [Boutchya](https://open.spotify.com/track/2cqgWnsfBS5aKUHg1pq3fN) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [Boutchya](https://open.spotify.com/album/7weTHaUxknmqDfw1vU7ljr) | 3:19 | 2022-07-14 | 2022-07-25 |
 | [Boutchya \- Thai Version](https://open.spotify.com/track/2HH3EYgwHjM8ama77pYtNu) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [Boutchya \(Thai Version\)](https://open.spotify.com/album/7Elaz3IhrcFd3MGflDiSgt) | 3:20 | 2022-07-24 | 2022-08-12 |
 | [BOY \(Don't You Know\)](https://open.spotify.com/track/6AlPVLHlqTdFV7HYoGWGwi) | [Praesun](https://open.spotify.com/artist/2Sh3qw7RhefxTOThPiGTb7), [Ta Worraseth](https://open.spotify.com/artist/34WJOzrugDHbqouIHKuW4N) | [BOY \(Don't You Know\)](https://open.spotify.com/album/4FTEA2LBYfBia22bPhgvId) | 3:43 | 2024-03-28 | 2024-04-05 |
@@ -55,6 +56,7 @@
 | [FIRE BOY](https://open.spotify.com/track/14XYtNNyCUGtG9quMgazIS) | [PP Krit](https://open.spotify.com/artist/1xrRqVDsJaZPw0sXme5i2T) | [FIRE BOY](https://open.spotify.com/album/1bQ6GFjwrIxJngL72GQ5ux) | 2:49 | 2022-11-03 | 2024-06-21 |
 | [Flame](https://open.spotify.com/track/07yq4fcfWqPecc3z6kk3bb) | [XI](https://open.spotify.com/artist/00EYO9tpVSk1YkXQs1awnQ) | [Flame](https://open.spotify.com/album/1KQkObxhoz8QXlHotEp7PS) | 3:57 | 2022-08-31 | 2022-09-09 |
 | [FORGET ME NOT](https://open.spotify.com/track/0VSqxk67oPYJAhiIXzW3KP) | [789SURVIVAL](https://open.spotify.com/artist/1SiMn1cDMZKmUO06X97vcj) | [FORGET ME NOT](https://open.spotify.com/album/3OIxHqzWClDjH8obB1Jkn2) | 4:03 | 2023-09-15 | 2023-11-03 |
+| [Golden Hour](https://open.spotify.com/track/72Jc8BV2cEQAOuVoHVTJy3) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [Golden Hour](https://open.spotify.com/album/4QTIX97bM4K457krl2S4eB) | 3:44 | 2024-10-09 |  |
 | [Gone Gurl](https://open.spotify.com/track/2iD5UfAQlZQulHzgaV1BKW) | [Fyeqoodgurl](https://open.spotify.com/artist/47ryT65283NrXnJ8k6rKyc) | [Gone Gurl](https://open.spotify.com/album/4KLCiY1OGHlSKrTsIwpJUY) | 3:15 | 2022-06-09 | 2022-08-06 |
 | [good boy](https://open.spotify.com/track/3hVbL6BkM5rbRzozafghgh) | [KJ](https://open.spotify.com/artist/5VsLrcMVUw2PUCqAQNPXtn) | [good boy](https://open.spotify.com/album/50oaCQAz9HH45u4SPUWcmx) | 3:21 | 2022-07-14 | 2022-11-18 |
 | [GOOD BOY](https://open.spotify.com/track/5qFh3cdm88zbfLmo7SJV3a) | [RedSpin](https://open.spotify.com/artist/3NM9LMFT0J6AhkQXov8Ck7) | [GOOD BOY](https://open.spotify.com/album/19NjYAU2yelvI7LkRHcjhR) | 2:59 | 2024-09-12 | 2024-09-20 |
@@ -161,7 +163,7 @@
 | [กลับก่อนนะ \(GOODBYE\)](https://open.spotify.com/track/7EtCnq7brD1RU8ldqKWB0I) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [กลับก่อนนะ \(GOODBYE\)](https://open.spotify.com/album/2507HhYDLaRcCcJMX7lh8C) | 4:00 | 2022-05-26 | 2022-12-09 |
 | [กลับมาคบกันเถอะ \(Please Please\)](https://open.spotify.com/track/1MEYfWVtU338815OD0ixDp) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [กลับมาคบกันเถอะ \(Please Please\)](https://open.spotify.com/album/2iHkmf0YTr5VtbEI8R23UH) | 3:28 | 2022-10-04 | 2024-07-12 |
 | [กลับไปไม่รู้จักกัน \(Original Soundtrack "องศาสูญ"\)](https://open.spotify.com/track/2dSX5yD0y88IiRBqrVkOWH) | [NuNew](https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5) | [กลับไปไม่รู้จักกัน \(Original Soundtrack "องศาสูญ"\)](https://open.spotify.com/album/7kKdaEyJr5OlvMWjZ1nqir) | 4:04 | 2023-09-01 | 2023-10-06 |
-| [กลับไม่ไหว \(Don't Say\)](https://open.spotify.com/track/1zkLmmX5ykuubJ87Li4Lk1) | [RedSpin](https://open.spotify.com/artist/3NM9LMFT0J6AhkQXov8Ck7) | [กลับไม่ไหว \(Don't Say\)](https://open.spotify.com/album/57seMNBhjL2nAZjDX1Euko) | 2:56 | 2024-09-26 |  |
+| [กลับไม่ไหว \(Don't Say\)](https://open.spotify.com/track/1zkLmmX5ykuubJ87Li4Lk1) | [RedSpin](https://open.spotify.com/artist/3NM9LMFT0J6AhkQXov8Ck7) | [กลับไม่ไหว \(Don't Say\)](https://open.spotify.com/album/57seMNBhjL2nAZjDX1Euko) | 2:56 | 2024-09-26 | 2024-10-10 |
 | [กลัวฝน \- End.](https://open.spotify.com/track/3xga8upmhb7WQf8F2f24Sh) | [YourMOOD](https://open.spotify.com/artist/5YcdFv3OumeTW8cVW788gT) | [กลัวฝน \(End.\)](https://open.spotify.com/album/3rjpdGJzEw5yfsUIy7qxmM) | 3:31 | 2022-08-25 | 2022-09-24 |
 | [กล้วยหอม](https://open.spotify.com/track/2O0RznofHnlpBs6VSMNbP8) | [bonnadol](https://open.spotify.com/artist/19IYWJFjZPv3INWYpkavTc) | [กล้วยหอม](https://open.spotify.com/album/2cdum1VDL9Gj7ttjht1XzH) | 3:10 | 2023-12-20 | 2024-01-08 |
 | [กอดหมอน](https://open.spotify.com/track/02HqCUXbVoIwfAHj2IsVtx) | [MEYOU](https://open.spotify.com/artist/4G5OlxtrOm9ADmu3VZgFbG) | [กอดหมอน \- Single](https://open.spotify.com/album/19LkHJ30sHvBjY99fYIsvu) | 3:20 | 2024-07-11 | 2024-08-02 |
@@ -253,7 +255,7 @@
 | [ช็อตฟีลแรงไปไหม \(Buzzkill\) Feat\. F.HERO](https://open.spotify.com/track/7AeeKbEm1ghtkccxQKyWzR) | [PentorJrp](https://open.spotify.com/artist/0bHXI9cKfwXRzk9acBffsh) | [ช็อตฟีลแรงไปไหม \(Buzzkill\) Feat\. F.HERO](https://open.spotify.com/album/74nX4wALX9YI5du7NJPP5t) | 3:29 | 2023-03-31 | 2023-04-13 |
 | [ช่วยไปรักคนนั้นที](https://open.spotify.com/track/6SFfErKKJCMbz1d3SKKTew) | [O\-Pavee](https://open.spotify.com/artist/5mZD78snaOoIJGOOFEbXFA) | [ช่วยไปรักคนนั้นที](https://open.spotify.com/album/3DMY1Mw0COtkmRF70gOgnQ) | 3:47 | 2022-08-11 | 2022-08-19 |
 | [ช่วยไม่ได้](https://open.spotify.com/track/4GGNl8jiANylTJj4hfzqP7) | [URBOYTJ](https://open.spotify.com/artist/1WLKjYJX9YHSlwufclauhg) | [Selfmade](https://open.spotify.com/album/79MikoRZW28D00Cr1o3gXd) | 3:17 | 2022-05-26 | 2022-09-01 |
-| [ซัดสักที \(Knock Out!\)](https://open.spotify.com/track/6AkV52ZIcHEVNxJUGpHVL3) | [PRETZELLE](https://open.spotify.com/artist/5imDin9uo07y7ZuUiJgOU7) | [ซัดสักที \(Knock Out!\)](https://open.spotify.com/album/2PgfddpUmMlUjF8J5UUvD1) | 3:34 | 2024-09-26 |  |
+| [ซัดสักที \(Knock Out!\)](https://open.spotify.com/track/6AkV52ZIcHEVNxJUGpHVL3) | [PRETZELLE](https://open.spotify.com/artist/5imDin9uo07y7ZuUiJgOU7) | [ซัดสักที \(Knock Out!\)](https://open.spotify.com/album/2PgfddpUmMlUjF8J5UUvD1) | 3:34 | 2024-09-26 | 2024-10-10 |
 | [ซับ](https://open.spotify.com/track/0Qk8RUwooCGKghG9yClG3O) | [BOWKYLION](https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr), [ว่าน วันวาน](https://open.spotify.com/artist/0QScRPnsnAmEpN7w3p1Joo) | [ซับ](https://open.spotify.com/album/1c96H5AfNuK1rbtQ54PjR7) | 4:46 | 2022-05-26 | 2022-09-01 |
 | [ซูลูปาก้า ตาปาเฮ้](https://open.spotify.com/track/3Ry2KPewzbt43hiQPTnDTK) | [THEMOONWILLALWAYSBEWITHME](https://open.spotify.com/artist/0yVywi4NwefY85n4BxZMaz) | [ซูลูปาก้า ตาปาเฮ้](https://open.spotify.com/album/31CyxkIPcTXFvzzARTGr9J) | 3:45 | 2022-05-26 | 2022-11-16 |
 | [ซ่อน\(ไม่\)หา](https://open.spotify.com/track/759xYXTgNDGU6i6FH4kruy) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [ซ่อน\(ไม่\)หา](https://open.spotify.com/album/31dukmU9drXyFzMiyK4eq4) | 3:54 | 2024-01-18 |  |

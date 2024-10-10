@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Lara Fabian
 
-2,864 songs - 6 day 8 hr 26 min
+2,865 songs - 6 day 8 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,7 @@
 | [6 mois](https://open.spotify.com/track/2gOu93kTZxjuuMGWeOgH9t) | [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b) | [6 mois](https://open.spotify.com/album/0kULqrFM1MeS1O0ImWFkfy) | 3:22 | 2024-03-08 | 2024-03-16 |
 | [6 PIASSES](https://open.spotify.com/track/3SbpvwK2XsmWl4P42iCT1x) | [Le Ice](https://open.spotify.com/artist/5Tz7QkwRnEvV0MpWhLdDFI), [MikeZup](https://open.spotify.com/artist/3kmw1yvcUhvPD3pDz8hOVk) | [6 PIASSES](https://open.spotify.com/album/3AuQMxeIkx7vuTxh37ZLKI) | 2:55 | 2022-06-24 | 2022-07-09 |
 | [7 Uzi](https://open.spotify.com/track/22BMdsJm95FJGyiK5XzdIj) | [Seven Binks](https://open.spotify.com/artist/12SPMb4VM4PyBD9no01jbH), [Koba LaD](https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3), [Bolémvn](https://open.spotify.com/artist/0gGcw3tA1fZoF23qa8KFb7), [Keusty](https://open.spotify.com/artist/4cmRb0sfE6QnlINaOtn35M), [Shotas](https://open.spotify.com/artist/626MEj1uIFt7eZMSroO01a), [Kodes](https://open.spotify.com/artist/3fnfvu19t4JYyEkRldXsO5), [2zé](https://open.spotify.com/artist/1NBrJG76XnhbuMEBxxXX7r), [Chicaille Argenté](https://open.spotify.com/artist/22VOejB8RaATr9yhodu6U3) | [7 Uzi](https://open.spotify.com/album/1oKrha0O4QQUW5xFw92sQL) | 4:24 | 2022-03-11 | 2022-03-18 |
-| [7 Vie Là](https://open.spotify.com/track/02PPZbednkOxP4Q3qpuOHN) | [Frank'emcy](https://open.spotify.com/artist/1U08mG4rKbGFB6kLMg1J0G), [BOLEMVN](https://open.spotify.com/artist/0gGcw3tA1fZoF23qa8KFb7) | [7 Vie Là](https://open.spotify.com/album/3Qhf6BHKSsd1VZlBKOcgK9) | 3:35 | 2024-08-23 |  |
+| [7 Vie Là](https://open.spotify.com/track/02PPZbednkOxP4Q3qpuOHN) | [Frank'emcy](https://open.spotify.com/artist/1U08mG4rKbGFB6kLMg1J0G), [BOLEMVN](https://open.spotify.com/artist/0gGcw3tA1fZoF23qa8KFb7) | [7 Vie Là](https://open.spotify.com/album/3Qhf6BHKSsd1VZlBKOcgK9) | 3:35 | 2024-08-23 | 2024-10-10 |
 | [8 ans de salaire](https://open.spotify.com/track/1AGy61Df105nt3MyWnhbL7) | [Marwa Loud](https://open.spotify.com/artist/46wEUZyujVrFSrdCnTKQmV), [Koba LaD](https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3) | [8 ans de salaire](https://open.spotify.com/album/0AD00MJCMlCDRM6exosReC) | 2:59 | 2022-12-16 | 2023-01-14 |
 | [80's](https://open.spotify.com/track/6VONfYwyPiTSVAkbVHMdBa) | [FouKi](https://open.spotify.com/artist/3IMC79WXhjXUkDHhpsSN8n) | [80's](https://open.spotify.com/album/2XjaUCMkWHkRd996KUVOHT) | 3:21 | 2023-01-27 | 2023-02-18 |
 | [90's Kids](https://open.spotify.com/track/2C9M2GYggI0cLSwj78nH08) | [Vendou](https://open.spotify.com/artist/4Eh9gm2q4XSbk8YXLoEUjG) | [90's Kids](https://open.spotify.com/album/4Pt8TazPUHTsJ53mMxczBO) | 3:30 | 2023-09-01 | 2023-09-09 |
@@ -1420,6 +1420,7 @@
 | [Le cadran](https://open.spotify.com/track/4l11yUeN0UrkwFYWiSyyMC) | [Marcus Wilcour](https://open.spotify.com/artist/6fB9PFcHK9nL7j5SnQUWOt) | [Le cadran](https://open.spotify.com/album/6xhSCPGZbGtPK3N3ue48hZ) | 3:10 | 2022-02-25 | 2022-03-05 |
 | [Le calme](https://open.spotify.com/track/2RBRsOhmjwvPY5KcHEQxRV) | [Lucill](https://open.spotify.com/artist/16AIsiZAml6sFZCwiin97x) | [Le calme](https://open.spotify.com/album/4T6H2NDFAJcwPIyGcMj4Uz) | 3:54 | 2022-01-28 | 2022-02-12 |
 | [Le chant des cygnes \- Single Version](https://open.spotify.com/track/76cAQOMWaqiRAoi6SgggNo) | [Indochine](https://open.spotify.com/artist/7knmbOGe07k85GmK50vACB) | [Le chant des cygnes](https://open.spotify.com/album/66tfL8ySR7cx4YAlGo54a3) | 3:37 | 2024-06-28 | 2024-08-31 |
+| [Le choix](https://open.spotify.com/track/4tkBNgVQCddAdgY1GDwTLn) | [Kendji Girac](https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF) | [Vivre...](https://open.spotify.com/album/5gpwMpxd66j2WAmGcyiWXQ) | 2:48 | 2024-10-04 |  |
 | [Le ciel](https://open.spotify.com/track/1T3QVEBWgWXKjnlosNt8Eo) | [Juillet](https://open.spotify.com/artist/5YtpwobYKsNioVYWmI3bBQ) | [Le ciel](https://open.spotify.com/album/0XgmHY9sGkTU2YLXbVoPiP) | 3:42 | 2023-03-31 | 2023-04-09 |
 | [Le ciel où je me terre](https://open.spotify.com/track/4VqutfvLnQYhNn9rPWZ67J) | [Alexandre Poulin](https://open.spotify.com/artist/5ILOB9Q4xiPUxzo2tYwxQy) | [La somme des êtres aimés](https://open.spotify.com/album/0eIFLsN3C2p8uYfrGIah1Z) | 3:16 | 2024-01-19 | 2024-01-27 |
 | [Le Ciel Sur La Tête](https://open.spotify.com/track/619m8eazjTsTbSbTO8zrWA) | [MikeZup](https://open.spotify.com/artist/3kmw1yvcUhvPD3pDz8hOVk) | [Le Ciel Sur La Tête](https://open.spotify.com/album/5bMQnBg8l1zzuxrlmRR3yo) | 2:58 | 2024-06-21 | 2024-07-06 |

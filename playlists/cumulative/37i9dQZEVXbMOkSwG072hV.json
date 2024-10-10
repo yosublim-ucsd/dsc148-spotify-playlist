@@ -17603,6 +17603,28 @@
     },
     {
       "album": {
+        "name": "Erro Favorito",
+        "url": "https://open.spotify.com/album/4Sq3cfwbfIB2tn40aTLuft"
+      },
+      "artists": [
+        {
+          "name": "2ZDinizz",
+          "url": "https://open.spotify.com/artist/13zmjclMwzz8kIxRrN7JOV"
+        },
+        {
+          "name": "HHR",
+          "url": "https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu"
+        }
+      ],
+      "date_added": "2024-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179580,
+      "name": "Erro Favorito",
+      "url": "https://open.spotify.com/track/2fQWs6gIMQpVzXZ0WEMolk"
+    },
+    {
+      "album": {
         "name": "Seresta pra Pared\u00e3o 3.0",
         "url": "https://open.spotify.com/album/0fgAwNfRajNcfeYsFKZfev"
       },
@@ -24538,7 +24560,7 @@
       ],
       "date_added": "2024-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-25",
+      "date_removed": null,
       "duration_ms": 157146,
       "name": "I Love You, I'm Sorry",
       "url": "https://open.spotify.com/track/51rfRCiUSvxXlCSCfIztBy"
@@ -32266,7 +32288,7 @@
       ],
       "date_added": "2024-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-10",
       "duration_ms": 172073,
       "name": "MEOW",
       "url": "https://open.spotify.com/track/72gPDy1zVt95zVNali0IhK"
@@ -40846,7 +40868,7 @@
       ],
       "date_added": "2024-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-10",
       "duration_ms": 164704,
       "name": "PASSADO DE UM VIL\u00c3O",
       "url": "https://open.spotify.com/track/5gXH6r92zVkhgP1BF73J4b"

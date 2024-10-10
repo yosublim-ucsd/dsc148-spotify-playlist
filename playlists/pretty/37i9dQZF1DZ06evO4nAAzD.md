@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nAAzD.md) - [plain]
 
 ### [This Is Hyperanhas](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4nAAzD)
 
-> This Is Hyperanhas\. Todas as faixas essenciais numa única playlist.
+> This is Hyperanhas\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,898 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,897 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nAAzD.md) - [plain]
 | 49 | [Luazul \#2: Deixa a Vida Levar \(feat\. MC Vinny e DaPaz\) \- Acústico](https://open.spotify.com/track/4d9lsFObB7OJ0sAgvuIrmF) | [Belle Kaffer](https://open.spotify.com/artist/4N2lyAuQF0kXt3UnsN7XZx), [Casluh](https://open.spotify.com/artist/79mW4e6Kz8MP5ALSWFaJM3), [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz), [DaPaz](https://open.spotify.com/artist/7K2fTRYnc7VBDXX0GtM9O1), [MC Vinny](https://open.spotify.com/artist/0dNyaMJp0r9zBYG86JgRDI) | [Luazul \#2: Deixa a Vida Levar \(feat\. MC Vinny e DaPaz\) \[Acústico\]](https://open.spotify.com/album/6QFzlpwLMLricUgeFEnmpA) | 8:17 |
 | 50 | [Gelo no Copo \- Remix](https://open.spotify.com/track/0oOQ4zepSFoaf8uPYMrn63) | [Cufe](https://open.spotify.com/artist/5x7TPxozTWALMsXrBeA4BX), [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz) | [Gelo no Copo \(Remix\)](https://open.spotify.com/album/5NCBnLl7vt3z5loG6kDcqM) | 2:50 |
 
-Snapshot ID: `ZwMkgAAAAAA4jB2We4bFDt2pQCMABeke`
+Snapshot ID: `ZwMkgAAAAACsHlQurVhRKRd4mw1hjucu`

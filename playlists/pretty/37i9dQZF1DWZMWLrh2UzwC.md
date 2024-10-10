@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > The best newly released songs of the week\. Cover: LISA
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,786 likes - 114 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,791 likes - 114 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,7 +91,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 81 | [Make Me Happy](https://open.spotify.com/track/06rokyLY51kXV9BCso5fKv) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [Jawsh 685](https://open.spotify.com/artist/56mfhUDKa1vec6rSLZV5Eg) | [Make Me Happy](https://open.spotify.com/album/7zAol7d2kp219UgalyETEG) | 3:16 |
 | 82 | [Porcelain](https://open.spotify.com/track/0EBgf7rDE0RXJhMKF12z92) | [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [Porcelain](https://open.spotify.com/album/4X1TXs71LSQtlLQeL4uPNR) | 2:30 |
 | 83 | [Can You Die From a Broken Heart \- feat\. Avril Lavigne](https://open.spotify.com/track/5GgOktu3FrHdb26jTrS4AK) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x), [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Can You Die From a Broken Heart \(feat\. Avril Lavigne\)](https://open.spotify.com/album/2KDbfU7ZAp8kOdFYZZadim) | 3:30 |
-| 84 | [33](https://open.spotify.com/track/3tqXynBuF095sqRV9OjwNJ) | [LEE CHANGSUB](https://open.spotify.com/artist/1rp5HzWaNwgauM5W5YmZ3U) | [LEECHANGSUB 1st ALBUM <1991>](https://open.spotify.com/album/5p9XwPWP9van2JE9yXJGfS) | 4:00 |
+| 84 | [33](https://open.spotify.com/track/3tqXynBuF095sqRV9OjwNJ) | [LEECHANGSUB](https://open.spotify.com/artist/1rp5HzWaNwgauM5W5YmZ3U) | [LEECHANGSUB 1st ALBUM <1991>](https://open.spotify.com/album/5p9XwPWP9van2JE9yXJGfS) | 4:00 |
 | 85 | [e.g.](https://open.spotify.com/track/7LfKv28OrwQkvqm7DyyEQV) | [XIA](https://open.spotify.com/artist/0ZHbYuRbvC4tWW0iOdybwi) | [e.g.](https://open.spotify.com/album/5P2BiQjny8NzEfxYr8JFFK) | 2:40 |
 | 86 | [More than Everything](https://open.spotify.com/track/5m9WzKCcEhprXICo8kpGYu) | [YANG YO SEOP](https://open.spotify.com/artist/1fwMtpwCEJovQuyxSuHcAd) | [More than Everything](https://open.spotify.com/album/0FgyOuIUcT6nFJVIDVUfvV) | 3:51 |
 | 87 | [In the Glow of Us](https://open.spotify.com/track/1wT5uoyQwmO7Kq917G6cs6) | [LEE MINHYUK \(HUTA\)](https://open.spotify.com/artist/4fgfmrBHIWsUuHxeOPhv61) | [Dear Hyeri, Pt\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/4XXl2XpBEU1jU5etOsPLVO) | 3:09 |

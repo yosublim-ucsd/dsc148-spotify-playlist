@@ -274,7 +274,7 @@
       ],
       "date_added": "2024-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-10",
       "duration_ms": 266160,
       "name": "Ala",
       "url": "https://open.spotify.com/track/7JnvXMdPgR73DJiKn0IsYg"
@@ -706,7 +706,7 @@
       ],
       "date_added": "2024-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-10",
       "duration_ms": 172756,
       "name": "Buong Ako Sayo",
       "url": "https://open.spotify.com/track/2jFVlEdFvek4J2kYmd9JFH"
@@ -2017,6 +2017,32 @@
     },
     {
       "album": {
+        "name": "La Luna",
+        "url": "https://open.spotify.com/album/32xyVyuVCNv9fBAHUZ7G1v"
+      },
+      "artists": [
+        {
+          "name": "Skusta Clee",
+          "url": "https://open.spotify.com/artist/117XFtbZPnCI1EYKjYZWJc"
+        },
+        {
+          "name": "Yuridope",
+          "url": "https://open.spotify.com/artist/5xOvrnVpLjzfGi69GDlzQY"
+        },
+        {
+          "name": "Ron Henley",
+          "url": "https://open.spotify.com/artist/6eGQ0qPUlGBjmRgyQ84g3f"
+        }
+      ],
+      "date_added": "2024-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 362250,
+      "name": "La Luna",
+      "url": "https://open.spotify.com/track/5vUp3dbqvs1pGMURHVhkjY"
+    },
+    {
+      "album": {
         "name": "Lagabog",
         "url": "https://open.spotify.com/album/2eTeeKM6MBnbU67LAlPRqC"
       },
@@ -2906,6 +2932,32 @@
       "duration_ms": 208000,
       "name": "Playsafe",
       "url": "https://open.spotify.com/track/1Ni0egtEbIUHSFrgJ1AGvq"
+    },
+    {
+      "album": {
+        "name": "PROBINSYANA",
+        "url": "https://open.spotify.com/album/7Ch9NvbwkIBWs4WZU8R1iI"
+      },
+      "artists": [
+        {
+          "name": "Nateman",
+          "url": "https://open.spotify.com/artist/14AlQdTUuzYESzQYKU6QIE"
+        },
+        {
+          "name": "Robledo Timido",
+          "url": "https://open.spotify.com/artist/6zGHYZUATHdgsCDVw4HBXg"
+        },
+        {
+          "name": "Kiddotin",
+          "url": "https://open.spotify.com/artist/7DwWCK71cxhiSxoUAy172N"
+        }
+      ],
+      "date_added": "2024-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212034,
+      "name": "PROBINSYANA",
+      "url": "https://open.spotify.com/track/7d6XBbDzgYoMfwqlUv173t"
     },
     {
       "album": {

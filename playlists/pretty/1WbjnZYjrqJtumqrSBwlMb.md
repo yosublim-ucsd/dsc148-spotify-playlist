@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 
 > Objectively good music
 
-[BennyE456](https://open.spotify.com/user/bennyellison4) - 14 likes - 987 songs - 2 day 12 hr 35 min
+[BennyE456](https://open.spotify.com/user/bennyellison4) - 14 likes - 988 songs - 2 day 12 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -995,5 +995,6 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 | 985 | [Who I Am](https://open.spotify.com/track/2ezewSeiABfCDeNSmV0XN7) | [Reno](https://open.spotify.com/artist/46hSwkXAwKPcVxnh5vdJCV) | [123](https://open.spotify.com/album/6RrY59NHgNwUJ2VMpmfPL0) | 1:26 |
 | 986 | [On Me](https://open.spotify.com/track/3rLU7Alpd2CtqKZ3S2M3vV) | [Reno](https://open.spotify.com/artist/46hSwkXAwKPcVxnh5vdJCV) | [123](https://open.spotify.com/album/6RrY59NHgNwUJ2VMpmfPL0) | 4:10 |
 | 987 | [Quite Like Me](https://open.spotify.com/track/6rO0Dwn9djBrVWm016h65r) | [Reno](https://open.spotify.com/artist/46hSwkXAwKPcVxnh5vdJCV) | [123](https://open.spotify.com/album/6RrY59NHgNwUJ2VMpmfPL0) | 4:22 |
+| 988 | [Look Me In The Eyes \(feat\. James Blake\)](https://open.spotify.com/track/4K6QZO2D3FNhLr7jKpPoQm) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL), [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [The Alexander Technique](https://open.spotify.com/album/5HSZsS7TGsyMvur547zjVe) | 3:44 |
 
-Snapshot ID: `AAAIpgG/qxCbqKQ0vJzWKzO/vQcRw064`
+Snapshot ID: `AAAIpwBJz9lHeyjfEXDwe/W0mw/dHm3C`

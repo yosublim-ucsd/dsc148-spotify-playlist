@@ -1,12 +1,12 @@
 {
   "description": "Kumpulan lagu yang sedang menyebar luas. Cover: Addison Rae",
-  "num_followers": 1334477,
+  "num_followers": 1334649,
   "original_name": "Lagi Viral",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwXHgAAAAAAnn4IKVJp5Wy3uVfzlYkE7",
+  "snapshot_id": "ZwaasAAAAACcyfunyCaQQA7T9uDJZPzL",
   "tracks": [
     {
       "added_at": "2024-10-04 00:00:00",
@@ -141,6 +141,30 @@
       "url": "https://open.spotify.com/track/5uytzO0N2bCsueGE7cuyuM"
     },
     {
+      "added_at": "2024-10-09 15:01:04",
+      "album": {
+        "name": "Born Sinner (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5FP9keIJnlSCKnkdVOf623"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        },
+        {
+          "name": "Cults",
+          "url": "https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8"
+        },
+        {
+          "name": "Amber Coffman",
+          "url": "https://open.spotify.com/artist/4vpGVGgxSDcCTmqYbsOnsn"
+        }
+      ],
+      "duration_ms": 296520,
+      "name": "She Knows (feat. Amber Coffman & Cults)",
+      "url": "https://open.spotify.com/track/0Fs9cdPDhptWEDJmiCbkEW"
+    },
+    {
       "added_at": "2024-10-04 00:00:00",
       "album": {
         "name": "Senopati in the Rain",
@@ -271,6 +295,26 @@
       "duration_ms": 236784,
       "name": "Berakhir di Aku - Original Soundtrack From \"Home Sweet Loan\"",
       "url": "https://open.spotify.com/track/3KcfLN50nMGR4uH1T0QVxL"
+    },
+    {
+      "added_at": "2024-10-09 15:01:04",
+      "album": {
+        "name": "The Death of Slim Shady (Coup De Gr\u00e2ce)",
+        "url": "https://open.spotify.com/album/3kjHLu1pL7tdY88GFwEkl6"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        },
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        }
+      ],
+      "duration_ms": 213646,
+      "name": "Fuel",
+      "url": "https://open.spotify.com/track/5In8B6Om5OKrhwBMB4tXSi"
     },
     {
       "added_at": "2024-10-04 00:00:00",
@@ -607,22 +651,6 @@
     {
       "added_at": "2024-10-04 00:00:00",
       "album": {
-        "name": "19.99",
-        "url": "https://open.spotify.com/album/4AvNQasUXJ4uHHmtypy6BF"
-      },
-      "artists": [
-        {
-          "name": "BOYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1"
-        }
-      ],
-      "duration_ms": 143773,
-      "name": "Dangerous",
-      "url": "https://open.spotify.com/track/0OaHZgVm77zLQNR3kwFf6n"
-    },
-    {
-      "added_at": "2024-10-04 00:00:00",
-      "album": {
         "name": "Kini Mereka Tahu",
         "url": "https://open.spotify.com/album/3Z7YGGrQBW3omLHjIvpAQv"
       },
@@ -651,6 +679,22 @@
       "duration_ms": 216712,
       "name": "Sekali Lagi (Acoustic Version)",
       "url": "https://open.spotify.com/track/74HFamRUkhrhO3wqOptwGQ"
+    },
+    {
+      "added_at": "2024-10-09 15:01:04",
+      "album": {
+        "name": "AM",
+        "url": "https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "duration_ms": 243131,
+      "name": "No. 1 Party Anthem",
+      "url": "https://open.spotify.com/track/5TTGoX70AFrTvuEtqHK37S"
     },
     {
       "added_at": "2024-10-04 00:00:00",
@@ -683,22 +727,6 @@
       "duration_ms": 164920,
       "name": "Nice Guy",
       "url": "https://open.spotify.com/track/6pqyZNnLKyJKtrlf42FQoq"
-    },
-    {
-      "added_at": "2024-10-04 00:00:00",
-      "album": {
-        "name": "TTYL",
-        "url": "https://open.spotify.com/album/3YTXG84SaFHqRP7zXRdCHg"
-      },
-      "artists": [
-        {
-          "name": "Loossemble",
-          "url": "https://open.spotify.com/artist/1kbVoxpFh1eDOXumLmVdKY"
-        }
-      ],
-      "duration_ms": 183786,
-      "name": "TTYL",
-      "url": "https://open.spotify.com/track/3AXryyinIY17WLddIcNjwT"
     },
     {
       "added_at": "2024-10-04 00:00:00",
@@ -1333,6 +1361,26 @@
       "url": "https://open.spotify.com/track/21B4gaTWnTkuSh77iWEXdS"
     },
     {
+      "added_at": "2024-10-09 15:01:04",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/1WBZyULtlANBKed7Zf9cDP"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        },
+        {
+          "name": "Outlawz",
+          "url": "https://open.spotify.com/artist/2jp3Fk52x0HbymU0lNYbSC"
+        }
+      ],
+      "duration_ms": 312626,
+      "name": "Hit 'Em Up - Single Version",
+      "url": "https://open.spotify.com/track/0Z2J91b2iTGLVTZC4fKgxf"
+    },
+    {
       "added_at": "2024-10-09 00:00:00",
       "album": {
         "name": "Sixpence None the Richer",
@@ -1415,22 +1463,6 @@
       "duration_ms": 212318,
       "name": "Cinta Tak Pernah Tepat Waktu",
       "url": "https://open.spotify.com/track/0LFYvwPOahhb2FAr2z1M7k"
-    },
-    {
-      "added_at": "2024-10-04 00:00:00",
-      "album": {
-        "name": "Sudah",
-        "url": "https://open.spotify.com/album/6iK43PKGUhrIXzJZQGEJd0"
-      },
-      "artists": [
-        {
-          "name": "Ara Johari",
-          "url": "https://open.spotify.com/artist/0xuL8l2qakTAyURbZb1gtc"
-        }
-      ],
-      "duration_ms": 225118,
-      "name": "Sudah",
-      "url": "https://open.spotify.com/track/22Vy8PZ92Da1KAIuZCOzvc"
     },
     {
       "added_at": "2024-10-04 00:00:00",
@@ -1519,22 +1551,6 @@
     {
       "added_at": "2024-10-04 00:00:00",
       "album": {
-        "name": "Niscaya",
-        "url": "https://open.spotify.com/album/0kdtt7OLuQH3ojqFslGep6"
-      },
-      "artists": [
-        {
-          "name": "Bilal Indrajaya",
-          "url": "https://open.spotify.com/artist/4OqbMdJwZnREH8Kc3pi0De"
-        }
-      ],
-      "duration_ms": 238220,
-      "name": "Niscaya",
-      "url": "https://open.spotify.com/track/5xxu8scJF7T99YAlD8WMxj"
-    },
-    {
-      "added_at": "2024-10-04 00:00:00",
-      "album": {
         "name": "King of Soundtrack",
         "url": "https://open.spotify.com/album/1Bz3ZhNWrWrV0MOALDvMCF"
       },
@@ -1599,26 +1615,6 @@
       "duration_ms": 256799,
       "name": "Cry",
       "url": "https://open.spotify.com/track/3p4hRhMcb6ch8OLtATMaLw"
-    },
-    {
-      "added_at": "2024-10-04 00:00:00",
-      "album": {
-        "name": "affa iyah (feat. Basboi)",
-        "url": "https://open.spotify.com/album/4NVrxWTYO3d7ZfW4FmGo3h"
-      },
-      "artists": [
-        {
-          "name": "Salma Salsabil",
-          "url": "https://open.spotify.com/artist/1y46m0kIaKwnodL0ElvQIs"
-        },
-        {
-          "name": "Basboi",
-          "url": "https://open.spotify.com/artist/0mmlthXmJKSeIhvmXso3z9"
-        }
-      ],
-      "duration_ms": 220753,
-      "name": "affa iyah (feat. Basboi)",
-      "url": "https://open.spotify.com/track/2ce4QtgMJ9123s78zwprXB"
     },
     {
       "added_at": "2024-10-04 00:00:00",

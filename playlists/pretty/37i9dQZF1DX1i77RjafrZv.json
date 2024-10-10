@@ -1,6 +1,6 @@
 {
   "description": "Les plus belles chansons d'amour de la vari\u00e9t\u00e9 fran\u00e7aise.",
-  "num_followers": 319272,
+  "num_followers": 319279,
   "original_name": "French Kiss",
   "owner": {
     "name": "Spotify",
@@ -207,22 +207,6 @@
     {
       "added_at": "2024-05-23 16:09:45",
       "album": {
-        "name": "Jaloux",
-        "url": "https://open.spotify.com/album/3GRhZqQ2442jfDIZXXCQCb"
-      },
-      "artists": [
-        {
-          "name": "Julien Clerc",
-          "url": "https://open.spotify.com/artist/7gVzeNvBbUpj6PXX5ekCMs"
-        }
-      ],
-      "duration_ms": 206866,
-      "name": "Ma pr\u00e9f\u00e9rence",
-      "url": "https://open.spotify.com/track/3N9Vibj1SwLn4SRtWJVDVO"
-    },
-    {
-      "added_at": "2024-05-23 16:09:45",
-      "album": {
         "name": "Les Dix Commandements (L'int\u00e9grale)",
         "url": "https://open.spotify.com/album/79qNGzwU1l9vh3nw6GeY8l"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 388840,
       "name": "L'envie d'aimer",
       "url": "https://open.spotify.com/track/5H9PjygodoXzyX45g7Pm6n"
+    },
+    {
+      "added_at": "2024-05-23 16:09:45",
+      "album": {
+        "name": "Jaloux",
+        "url": "https://open.spotify.com/album/3GRhZqQ2442jfDIZXXCQCb"
+      },
+      "artists": [
+        {
+          "name": "Julien Clerc",
+          "url": "https://open.spotify.com/artist/7gVzeNvBbUpj6PXX5ekCMs"
+        }
+      ],
+      "duration_ms": 206866,
+      "name": "Ma pr\u00e9f\u00e9rence",
+      "url": "https://open.spotify.com/track/3N9Vibj1SwLn4SRtWJVDVO"
     },
     {
       "added_at": "2024-05-23 16:09:45",
@@ -519,6 +519,22 @@
     {
       "added_at": "2024-05-23 16:09:45",
       "album": {
+        "name": "Joie de vivre",
+        "url": "https://open.spotify.com/album/7cyuFUJLQkLVF7JIB2U9T2"
+      },
+      "artists": [
+        {
+          "name": "Louane",
+          "url": "https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC"
+        }
+      ],
+      "duration_ms": 176160,
+      "name": "Aimer \u00e0 mort",
+      "url": "https://open.spotify.com/track/2HENwndPLHINxHhQPMh8BE"
+    },
+    {
+      "added_at": "2024-05-23 16:09:45",
+      "album": {
         "name": "Mais je t'aime",
         "url": "https://open.spotify.com/album/5OU0fh8Jg5DjOZMhvmkBUI"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 268243,
       "name": "Mais je t'aime",
       "url": "https://open.spotify.com/track/4dtG1p71E6VPt9BmVYWcY5"
-    },
-    {
-      "added_at": "2024-05-23 16:09:45",
-      "album": {
-        "name": "Joie de vivre",
-        "url": "https://open.spotify.com/album/7cyuFUJLQkLVF7JIB2U9T2"
-      },
-      "artists": [
-        {
-          "name": "Louane",
-          "url": "https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC"
-        }
-      ],
-      "duration_ms": 176160,
-      "name": "Aimer \u00e0 mort",
-      "url": "https://open.spotify.com/track/2HENwndPLHINxHhQPMh8BE"
     },
     {
       "added_at": "2024-05-23 16:09:45",
@@ -691,22 +691,6 @@
     {
       "added_at": "2024-05-23 16:09:45",
       "album": {
-        "name": "Qui s\u00e8me le vent r\u00e9colte le tempo",
-        "url": "https://open.spotify.com/album/5hM61fBUA5OIMJUUuMrzyH"
-      },
-      "artists": [
-        {
-          "name": "MC Solaar",
-          "url": "https://open.spotify.com/artist/3nU8TSIICYDbUqRpJISTRE"
-        }
-      ],
-      "duration_ms": 283493,
-      "name": "Caroline",
-      "url": "https://open.spotify.com/track/7esR7jO5Fyl78B6CwwhZJy"
-    },
-    {
-      "added_at": "2024-05-23 16:09:45",
-      "album": {
         "name": "1966-1968",
         "url": "https://open.spotify.com/album/7DhSbnt6OJo7jr4QGtSELF"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 138520,
       "name": "Mon amour, mon ami",
       "url": "https://open.spotify.com/track/3c9zBIo62hAanrLLlMLEfB"
+    },
+    {
+      "added_at": "2024-05-23 16:09:45",
+      "album": {
+        "name": "Qui s\u00e8me le vent r\u00e9colte le tempo",
+        "url": "https://open.spotify.com/album/5hM61fBUA5OIMJUUuMrzyH"
+      },
+      "artists": [
+        {
+          "name": "MC Solaar",
+          "url": "https://open.spotify.com/artist/3nU8TSIICYDbUqRpJISTRE"
+        }
+      ],
+      "duration_ms": 283493,
+      "name": "Caroline",
+      "url": "https://open.spotify.com/track/7esR7jO5Fyl78B6CwwhZJy"
     },
     {
       "added_at": "2024-05-23 16:09:45",
@@ -755,22 +755,6 @@
     {
       "added_at": "2024-05-23 16:09:45",
       "album": {
-        "name": "15 Ans D'Amour",
-        "url": "https://open.spotify.com/album/6Us9T05UuNDMP2NtVrSVyG"
-      },
-      "artists": [
-        {
-          "name": "Jacques Brel",
-          "url": "https://open.spotify.com/artist/4RN2vlFWepLa46qQIU2PHs"
-        }
-      ],
-      "duration_ms": 153666,
-      "name": "Quand on n'a que l'amour - Arrangements diff\u00e9rents",
-      "url": "https://open.spotify.com/track/607sF1ISzfKaWa29eF3I14"
-    },
-    {
-      "added_at": "2024-05-23 16:09:45",
-      "album": {
         "name": "Ch\u00e2telet les Halles",
         "url": "https://open.spotify.com/album/2l9EwdloXjCA7eece8OBpB"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 319493,
       "name": "Et un jour une femme",
       "url": "https://open.spotify.com/track/2Fo8TPJGFZZ7I9U2RGeZWu"
+    },
+    {
+      "added_at": "2024-05-23 16:09:45",
+      "album": {
+        "name": "15 Ans D'Amour",
+        "url": "https://open.spotify.com/album/6Us9T05UuNDMP2NtVrSVyG"
+      },
+      "artists": [
+        {
+          "name": "Jacques Brel",
+          "url": "https://open.spotify.com/artist/4RN2vlFWepLa46qQIU2PHs"
+        }
+      ],
+      "duration_ms": 153666,
+      "name": "Quand on n'a que l'amour - Arrangements diff\u00e9rents",
+      "url": "https://open.spotify.com/track/607sF1ISzfKaWa29eF3I14"
     },
     {
       "added_at": "2024-05-23 16:09:45",
@@ -819,22 +819,6 @@
     {
       "added_at": "2024-05-23 16:09:45",
       "album": {
-        "name": "Beaus\u00e9jour (Remasteris\u00e9 en 2002)",
-        "url": "https://open.spotify.com/album/0Y4vMNL3oLTxyWBBmIm0cA"
-      },
-      "artists": [
-        {
-          "name": "Michel Berger",
-          "url": "https://open.spotify.com/artist/5skauLarl8sqqUFypECtP4"
-        }
-      ],
-      "duration_ms": 217640,
-      "name": "Quelques mots d'amour - Remasteris\u00e9 en 2002",
-      "url": "https://open.spotify.com/track/6qbieXHVuCIIlzi55j6E5i"
-    },
-    {
-      "added_at": "2024-05-23 16:09:45",
-      "album": {
         "name": "C\u0153ur",
         "url": "https://open.spotify.com/album/690kSW79qcdrg4cN03cBbC"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 207026,
       "name": "Amour toujours",
       "url": "https://open.spotify.com/track/0Db6ejFxY0v2eIWVTNpf6J"
+    },
+    {
+      "added_at": "2024-05-23 16:09:45",
+      "album": {
+        "name": "Beaus\u00e9jour (Remasteris\u00e9 en 2002)",
+        "url": "https://open.spotify.com/album/0Y4vMNL3oLTxyWBBmIm0cA"
+      },
+      "artists": [
+        {
+          "name": "Michel Berger",
+          "url": "https://open.spotify.com/artist/5skauLarl8sqqUFypECtP4"
+        }
+      ],
+      "duration_ms": 217640,
+      "name": "Quelques mots d'amour - Remasteris\u00e9 en 2002",
+      "url": "https://open.spotify.com/track/6qbieXHVuCIIlzi55j6E5i"
     },
     {
       "added_at": "2024-05-23 16:09:45",
@@ -971,22 +971,6 @@
     {
       "added_at": "2024-05-23 16:09:45",
       "album": {
-        "name": "20eme anniversaire",
-        "url": "https://open.spotify.com/album/45feqbqIXi45boCrjlo0cV"
-      },
-      "artists": [
-        {
-          "name": "Mike Brant",
-          "url": "https://open.spotify.com/artist/1u9tovPnCMYuZiV3EMZqDV"
-        }
-      ],
-      "duration_ms": 203093,
-      "name": "Laisse moi t'aimer",
-      "url": "https://open.spotify.com/track/3xPNasHy69FFGxyxYApJPS"
-    },
-    {
-      "added_at": "2024-05-23 16:09:45",
-      "album": {
         "name": "Ferrat chante Aragon, l'int\u00e9grale",
         "url": "https://open.spotify.com/album/7uupYuSgYXHP2DpI2ERIfA"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 141106,
       "name": "Aimer \u00e0 perdre la raison",
       "url": "https://open.spotify.com/track/0Ag2xi0475usibWK9xy2HL"
+    },
+    {
+      "added_at": "2024-05-23 16:09:45",
+      "album": {
+        "name": "20eme anniversaire",
+        "url": "https://open.spotify.com/album/45feqbqIXi45boCrjlo0cV"
+      },
+      "artists": [
+        {
+          "name": "Mike Brant",
+          "url": "https://open.spotify.com/artist/1u9tovPnCMYuZiV3EMZqDV"
+        }
+      ],
+      "duration_ms": 203093,
+      "name": "Laisse moi t'aimer",
+      "url": "https://open.spotify.com/track/3xPNasHy69FFGxyxYApJPS"
     },
     {
       "added_at": "2024-05-23 16:09:45",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2024-05-23 16:09:45",
       "album": {
-        "name": "15 Ans D'Amour",
-        "url": "https://open.spotify.com/album/6Us9T05UuNDMP2NtVrSVyG"
-      },
-      "artists": [
-        {
-          "name": "Jacques Brel",
-          "url": "https://open.spotify.com/artist/4RN2vlFWepLa46qQIU2PHs"
-        }
-      ],
-      "duration_ms": 267466,
-      "name": "La chanson des vieux amants",
-      "url": "https://open.spotify.com/track/2nn7R5ESQhN5MhWcrHFjLi"
-    },
-    {
-      "added_at": "2024-05-23 16:09:45",
-      "album": {
         "name": "PYRAMIDE",
         "url": "https://open.spotify.com/album/7lh4MGKwIo343kS0gcjcB0"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 233800,
       "name": "Tomb\u00e9",
       "url": "https://open.spotify.com/track/3EiDyqPIjDDo6F8RS5Lj4t"
+    },
+    {
+      "added_at": "2024-05-23 16:09:45",
+      "album": {
+        "name": "15 Ans D'Amour",
+        "url": "https://open.spotify.com/album/6Us9T05UuNDMP2NtVrSVyG"
+      },
+      "artists": [
+        {
+          "name": "Jacques Brel",
+          "url": "https://open.spotify.com/artist/4RN2vlFWepLa46qQIU2PHs"
+        }
+      ],
+      "duration_ms": 267466,
+      "name": "La chanson des vieux amants",
+      "url": "https://open.spotify.com/track/2nn7R5ESQhN5MhWcrHFjLi"
     },
     {
       "added_at": "2024-05-23 16:09:45",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2024-05-23 16:09:45",
       "album": {
-        "name": "Disque D'or",
-        "url": "https://open.spotify.com/album/2BgO56jZnE4xbfvlZOjK0L"
-      },
-      "artists": [
-        {
-          "name": "Charles Trenet",
-          "url": "https://open.spotify.com/artist/4a16JEaHldo5vZuRojtGTZ"
-        }
-      ],
-      "duration_ms": 192666,
-      "name": "Que reste-t-il de nos amours ?",
-      "url": "https://open.spotify.com/track/3WfBrLPAbt7G60r1n7BZ6L"
-    },
-    {
-      "added_at": "2024-05-23 16:09:45",
-      "album": {
         "name": "La montagne 1964",
         "url": "https://open.spotify.com/album/6uZiAcFO8d758nOs687gfg"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 183600,
       "name": "Que serais-je sans toi",
       "url": "https://open.spotify.com/track/2GnJ1XGXv7emJvtuOrM7lQ"
+    },
+    {
+      "added_at": "2024-05-23 16:09:45",
+      "album": {
+        "name": "Disque D'or",
+        "url": "https://open.spotify.com/album/2BgO56jZnE4xbfvlZOjK0L"
+      },
+      "artists": [
+        {
+          "name": "Charles Trenet",
+          "url": "https://open.spotify.com/artist/4a16JEaHldo5vZuRojtGTZ"
+        }
+      ],
+      "duration_ms": 192666,
+      "name": "Que reste-t-il de nos amours ?",
+      "url": "https://open.spotify.com/track/3WfBrLPAbt7G60r1n7BZ6L"
     },
     {
       "added_at": "2024-05-23 16:09:45",

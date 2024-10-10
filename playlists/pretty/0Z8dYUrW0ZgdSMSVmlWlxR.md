@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0Z8dYUrW0ZgdSMSVmlWlxR.md) - [plain]
 
 > The best TikTok Gym playlist\. Your new Release Radar\. Anime Hardstyle, AOT, anime phonk, tatli depression, zyzz, xqc, attack on titan, JCORE
 
-[ig @godmodearc](https://open.spotify.com/user/shihu) - 52,573 likes - 238 songs - 11 hr 40 min
+[ig @godmodearc](https://open.spotify.com/user/shihu) - 52,559 likes - 238 songs - 11 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/0Z8dYUrW0ZgdSMSVmlWlxR.md) - [plain]
 | 74 | [Grievous Lady \-nothing is but what is not\-](https://open.spotify.com/track/5PkOQiyGkfrW2ZEMSSZdoU) | [Team Grimoire](https://open.spotify.com/artist/3JL2xJoZQDP7NjNiEmVpfa), [Laur](https://open.spotify.com/artist/5fxJUmn4RTMzD0XPkTUpK3) | [Arcaea Sound Collection: Memories of Conflict](https://open.spotify.com/album/45slopREa0Xk7yxQGrDxrn) | 6:00 |
 | 75 | [GAZ](https://open.spotify.com/track/4TNT1dmWRE8RVpKDHLF8UP) | [Kaito Shoma](https://open.spotify.com/artist/3Tv1UzQAvn0v0hKTxisXnR) | [GAZ](https://open.spotify.com/album/11DAp99eza2m6Esp9q9mx5) | 2:28 |
 | 76 | [44](https://open.spotify.com/track/5ywXJ2OX3ZHF4UZ2fFqaVv) | [DOLLSLAYER](https://open.spotify.com/artist/2VVj6nB974T9PKFnx3ioby) | [44](https://open.spotify.com/album/2WU6Sa3vTcvK0isSu2mRwi) | 1:36 |
-| 77 | [Phonk You!](https://open.spotify.com/track/6la4iKvHSCk9GYsZzWyyLt) | [Shipu](https://open.spotify.com/artist/6SpI2wmQicP9Xhu90lBMqp) | [Phonk You!](https://open.spotify.com/album/5bLC8DgWPX1V2imZcyE3WB) | 2:00 |
+| 77 | [Phonk You!](https://open.spotify.com/track/6la4iKvHSCk9GYsZzWyyLt) | [SHIPU](https://open.spotify.com/artist/6SpI2wmQicP9Xhu90lBMqp) | [Phonk You!](https://open.spotify.com/album/5bLC8DgWPX1V2imZcyE3WB) | 2:00 |
 | 78 | [TILT SHIFT](https://open.spotify.com/track/5hiCmbmKyEmxkzVvrXZxmp) | [MVLTIPLY](https://open.spotify.com/artist/2u41nhhzEvJcvwEXv0iNhZ) | [TILT SHIFT](https://open.spotify.com/album/6HH4hcyD8fFn6en8FrT7vv) | 1:25 |
 | 79 | [ABYSS](https://open.spotify.com/track/0WjPuksou8pdr9p8IJcyrx) | [d0xy](https://open.spotify.com/artist/4cssqyZS5UvdEJp70pbVzc) | [ABYSS](https://open.spotify.com/album/2QZyVnJc9lGeACiIeZfjhW) | 1:37 |
 | 80 | [Japan](https://open.spotify.com/track/39QSBh0Oz2OsnjAtjCQ3JH) | [Tokyomane](https://open.spotify.com/artist/2GaIPa6dUUQBlVNYeEF6PH) | [Japan](https://open.spotify.com/album/0nlmIPxCvBNODxnr5hk8gG) | 1:43 |

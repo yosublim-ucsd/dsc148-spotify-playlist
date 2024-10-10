@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO16f5bq.md) - [plain]
 
 ### [This Is MC Cabelinho](https://open.spotify.com/playlist/37i9dQZF1DZ06evO16f5bq)
 
-> This is MC Cabelinho\. Todos os maiores hits em uma só playlist.
+> This is MC Cabelinho\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,467 likes - 51 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,498 likes - 51 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO16f5bq.md) - [plain]
 | 50 | [Filho do Dono](https://open.spotify.com/track/0EuRZKWzNptC1ZuIMFKLxz) | [Oruam](https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT), [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Heron](https://open.spotify.com/artist/6ckKeUM4OxpRhdXzWamJAN), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd) | [Filho do Dono](https://open.spotify.com/album/6DKYGWP4vYcYnMIPHRaMAe) | 3:30 |
 | 51 | [TE ENCONTREI](https://open.spotify.com/track/5H3m39zgDfXU2bFVA3e2YQ) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [LITTLE LOVE \(DELUXE\)](https://open.spotify.com/album/63yWnhCdUQQBhtQFGM108I) | 2:24 |
 
-Snapshot ID: `ZwMkgAAAAACz++qKIQL37xXmqijDovsm`
+Snapshot ID: `ZwMkgAAAAADbT1KMevFLBUq62JVf2wfd`

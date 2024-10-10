@@ -4,7 +4,7 @@
 
 > The latest, greatest cinema soundtracks from the big and small screen.
 
-424 songs - 20 hr 45 min
+425 songs - 20 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -354,6 +354,7 @@
 | [The Last Supper](https://open.spotify.com/track/0UxZ04Csr9AAv2Ruob7YVe) | [Caroline Shaw](https://open.spotify.com/artist/3uUFClFtbjbjQQIq4BjY2C), [Attacca Quartet](https://open.spotify.com/artist/5EUJNZmcXCk9vkeD9GjtzF), [John Patitucci](https://open.spotify.com/artist/4KmKbbEq6PMnW2TdkrbBIH), [Sō Percussion](https://open.spotify.com/artist/0aNLauXlYmoVmPmpYS7Ut6), [Roomful of Teeth](https://open.spotify.com/artist/3bzZhiUIN7300mrCcLsUBH) | [The Last Supper](https://open.spotify.com/album/2QxbcSS3HzSNUL3DZ01cJK) | 4:16 | 2024-10-01 |  |
 | [The Long Way Home](https://open.spotify.com/track/1ThgN8XMAydZMXd9ZIzWhF) | [Jan Miserre](https://open.spotify.com/artist/1M8PK1FQCl6gJCGth7S47H), [John Gürtler](https://open.spotify.com/artist/5nTmL4JnBYTrBgjJb9YcFE) | [The Outrun \- Original Motion Picture Soundtrack](https://open.spotify.com/album/7eqKHtdanH4jjCxlymsTmP) | 4:37 | 2024-09-13 |  |
 | [The Mandalorian](https://open.spotify.com/track/6tJFtthY0rI1x06qb8NjK0) | [Ludwig Goransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [The Mandalorian: Chapter 1 \(Original Score\)](https://open.spotify.com/album/4xFmHg5dYvaqmn9ZNQpjWL) | 3:18 | 2021-12-20 | 2022-10-08 |
+| [The Map of Utopia](https://open.spotify.com/track/0vuj3M8JmBa8LLkAIzoLoc) | [Osvaldo Golijov](https://open.spotify.com/artist/4MFSQmb7Y47xW7JJmJboCv) | [Megalopolis \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2G6yxQL0nn9YDVIZEOJANb) | 5:29 | 2024-10-09 |  |
 | [The Marsh King’s Daughter](https://open.spotify.com/track/64SAYGQVEECMSRH0wHU1fX) | [Adam Janota Bzowski](https://open.spotify.com/artist/4OOAQZUeppYieyN7Wnh2tf) | [The Marsh King's Daughter \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0e9at8GNC3PQAZU6eeQiEo) | 2:29 | 2023-11-03 |  |
 | [The Mole](https://open.spotify.com/track/0Vfaws2IcXWZ7AMtAyvNO1) | [Dave Rowntree](https://open.spotify.com/artist/6ngpbJQLEeHixst1LymC8d), [Ian Arber](https://open.spotify.com/artist/5RvFRZpYvnzsKpOZM9mkKj) | [The Capture \(Original Television Soundtrack\)](https://open.spotify.com/album/0Dox6vm8jJ9xBUYKeFe90s) | 3:48 | 2022-07-22 | 2022-08-20 |
 | [The Mole](https://open.spotify.com/track/6RFRcwWeLBUTuUG3YsHmC5) | [Dave Rowntree](https://open.spotify.com/artist/6ngpbJQLEeHixst1LymC8d), [Ian Arber](https://open.spotify.com/artist/5RvFRZpYvnzsKpOZM9mkKj) | [The Capture \(Original Television Soundtrack\)](https://open.spotify.com/album/26FTC6C2eXcqmPMPyxmE1V) | 3:48 | 2021-12-20 | 2022-07-29 |

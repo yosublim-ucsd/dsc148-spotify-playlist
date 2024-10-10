@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ENxuuyTX48.md) - [plain]
 
 > wru? OTW! Cover: Regina Song, hongjoin
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,209 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,217 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ENxuuyTX48.md) - [plain]
 | 14 | [Malu Tapi Mahu](https://open.spotify.com/track/6FnNbp6XuVGwolZ6MNVpTU) | [Atmosfera](https://open.spotify.com/artist/2pXyE80rHLNcLvx6doOfDA) | [Malu Tapi Mahu](https://open.spotify.com/album/6jwCIU9JZ2pQNvKWLWZLFH) | 3:17 |
 | 15 | [Going Up](https://open.spotify.com/track/41vUwaUD16ClRyqIQmClRT) | [Rhea Asmara](https://open.spotify.com/artist/1AWmwnZnIWWvGynh2DeUEo) | [Going Up](https://open.spotify.com/album/5WoZedpwDHzf7auzddAjLN) | 2:58 |
 | 16 | [Kalo Kita Jujur Jujuran](https://open.spotify.com/track/4WVOPsJdTB1dU7PHo4u74A) | [Sheryl Sheinafia](https://open.spotify.com/artist/1lfMGY3PXMmj6qgwiPqp06), [Refo Dan Fauna](https://open.spotify.com/artist/6ILCDTreFre4EDfBZxCGxi) | [Kalo Kita Jujur Jujuran](https://open.spotify.com/album/66tZnR0AFgeOjN6lb4L7xu) | 2:24 |
-| 17 | [Manjaku](https://open.spotify.com/track/62M7xd1Z0ttgB0W6dGPKOC) | [Fahimi](https://open.spotify.com/artist/3v9Zh81VbCucm3FCyXwhZd), [Tabby](https://open.spotify.com/artist/28BSE1rkmo0M3ZOYlSTsGk) | [Manjaku](https://open.spotify.com/album/1tTj8roApYZg4rwQd6Qlgu) | 2:48 |
+| 17 | [Manjaku](https://open.spotify.com/track/62M7xd1Z0ttgB0W6dGPKOC) | [Fahimi](https://open.spotify.com/artist/3v9Zh81VbCucm3FCyXwhZd), [Tabby](https://open.spotify.com/artist/6BAq3z4cxDc18TzodScekT) | [Manjaku](https://open.spotify.com/album/1tTj8roApYZg4rwQd6Qlgu) | 2:48 |
 | 18 | [Lampaui](https://open.spotify.com/track/39Gy1hHVHUMMrcn1vVdvML) | [TANJUNG](https://open.spotify.com/artist/3ak1W9Pqd8qzBllVATA3Du) | [Lampaui](https://open.spotify.com/album/5DN5AueQPDLGjDy7sRPrvG) | 3:56 |
 | 19 | [Body Art](https://open.spotify.com/track/5sd3gZjLLnu3WCGxBMOk9J) | [Midnight Blu](https://open.spotify.com/artist/1CrF9Qw6ekBFc36BbWWihl) | [Body Art](https://open.spotify.com/album/1nwMMHozUECZqEFodbfcgh) | 3:45 |
 | 20 | [Pemain Lama](https://open.spotify.com/track/5WUBGlM2gm5U605bYF1i0o) | [Wijaya 80](https://open.spotify.com/artist/1ZaYY3Ad5D5KYahXT594BX) | [Pemain Lama](https://open.spotify.com/album/7mXzpe8MN8J61H9fLb7gOQ) | 4:50 |

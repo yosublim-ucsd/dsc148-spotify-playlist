@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels in India. Cover: Zeeshan Khan, Artwork: Isu Kim",
+  "description": "The best new music by independent artists and labels in India. Cover: Dhruvv Bhattacharya, Artwork: Isu Kim",
   "name": "Fresh Finds India",
   "tracks": [
     {
@@ -3128,7 +3128,7 @@
       ],
       "date_added": "2024-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-10",
       "duration_ms": 163083,
       "name": "Bhare Naina",
       "url": "https://open.spotify.com/track/64Axru3p8cCiqIC2Cwi1Tj"
@@ -5674,7 +5674,7 @@
       ],
       "date_added": "2024-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-10",
       "duration_ms": 164495,
       "name": "Dil Lagta Nahi",
       "url": "https://open.spotify.com/track/4lJw2zC4kIWLDN4JGd3NjX"
@@ -7696,7 +7696,7 @@
       ],
       "date_added": "2024-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-10",
       "duration_ms": 152922,
       "name": "Gehra Samundar",
       "url": "https://open.spotify.com/track/3uAGBFrUvgRgZUPsjIJ3AB"
@@ -7846,6 +7846,24 @@
       "duration_ms": 251000,
       "name": "Girl in the City",
       "url": "https://open.spotify.com/track/3AG3IcmabO1TNW6v5vqiyn"
+    },
+    {
+      "album": {
+        "name": "Glory Days",
+        "url": "https://open.spotify.com/album/6G4Dw09Cmd6BP5eFIqE4Lt"
+      },
+      "artists": [
+        {
+          "name": "Yohaan Samuel",
+          "url": "https://open.spotify.com/artist/7A9yc1TQZwnVnvzvuoK9hI"
+        }
+      ],
+      "date_added": "2024-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192608,
+      "name": "Glory Days",
+      "url": "https://open.spotify.com/track/2a61B7VtiXvHa8YgBGbBVR"
     },
     {
       "album": {
@@ -9829,6 +9847,24 @@
     },
     {
       "album": {
+        "name": "In Every Letter",
+        "url": "https://open.spotify.com/album/7KCtoEpGoCb3QOJnQ65XeP"
+      },
+      "artists": [
+        {
+          "name": "Preeti",
+          "url": "https://open.spotify.com/artist/0BY0bg20v8nt1lydLOngeB"
+        }
+      ],
+      "date_added": "2024-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189240,
+      "name": "In Every Letter",
+      "url": "https://open.spotify.com/track/6QgY4tw3a1CcFCeg6SGAbg"
+    },
+    {
+      "album": {
         "name": "In My Mind",
         "url": "https://open.spotify.com/album/4lT4PR8m65a1eClXovw2K7"
       },
@@ -10591,6 +10627,24 @@
     },
     {
       "album": {
+        "name": "Jab Bhi Tum Aati Hoo",
+        "url": "https://open.spotify.com/album/7qCJMgQ5B7icRTs87NmCcq"
+      },
+      "artists": [
+        {
+          "name": "Ayusman Acharya",
+          "url": "https://open.spotify.com/artist/0lkahHtWaDcaLymyVAzWQC"
+        }
+      ],
+      "date_added": "2024-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218255,
+      "name": "Jab Bhi Tum Aati Hoo",
+      "url": "https://open.spotify.com/track/2P0TRfPol7rjE48d1WWF2h"
+    },
+    {
+      "album": {
         "name": "Jab Se Aaya Tu",
         "url": "https://open.spotify.com/album/4bvD0sVOGHsRvnrXxA5gOh"
       },
@@ -10876,7 +10930,7 @@
       ],
       "date_added": "2024-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-10",
       "duration_ms": 264000,
       "name": "Jalta Dekh Lo",
       "url": "https://open.spotify.com/track/5hT2D2tX7ygtcnnFtcYEf5"
@@ -12722,7 +12776,7 @@
       ],
       "date_added": "2024-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-10",
       "duration_ms": 212552,
       "name": "Khali Khali",
       "url": "https://open.spotify.com/track/3QlxGzvkF9i963G3m8n7Z6"
@@ -15104,7 +15158,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-10",
       "duration_ms": 168000,
       "name": "Main Chala",
       "url": "https://open.spotify.com/track/0sJHnnOsgorIrl4lnIPa8q"
@@ -15330,6 +15384,24 @@
       "duration_ms": 220000,
       "name": "Making A Move",
       "url": "https://open.spotify.com/track/2vrRRUlq07RwyU6s0xtngL"
+    },
+    {
+      "album": {
+        "name": "Malang",
+        "url": "https://open.spotify.com/album/75MxHtiookYglaGOpvBjxj"
+      },
+      "artists": [
+        {
+          "name": "Avanie Joshi",
+          "url": "https://open.spotify.com/artist/5CQ3ckkmL9cwW9NZlGkWtc"
+        }
+      ],
+      "date_added": "2024-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165884,
+      "name": "Malang",
+      "url": "https://open.spotify.com/track/36zlamcJkUVP9CarP1qAZe"
     },
     {
       "album": {
@@ -19065,6 +19137,24 @@
     },
     {
       "album": {
+        "name": "Prem Patra",
+        "url": "https://open.spotify.com/album/6OkKIiBBAHYsi9hT0j4bOX"
+      },
+      "artists": [
+        {
+          "name": "Udit Joshi",
+          "url": "https://open.spotify.com/artist/3dSIjzA9hP4qSP2y9zVh3j"
+        }
+      ],
+      "date_added": "2024-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167428,
+      "name": "Prem Patra",
+      "url": "https://open.spotify.com/track/2cbaBsXBKY59I96mZVn3Np"
+    },
+    {
+      "album": {
         "name": "Premika",
         "url": "https://open.spotify.com/album/6InQ4ZaYRfxJQ9rjnHcmYb"
       },
@@ -20928,7 +21018,7 @@
       ],
       "date_added": "2024-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-10",
       "duration_ms": 236058,
       "name": "Sahiba",
       "url": "https://open.spotify.com/track/0tYEiXI2xDfbGlmVkqgjgg"
@@ -21428,7 +21518,7 @@
       ],
       "date_added": "2024-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-10",
       "duration_ms": 79500,
       "name": "Saza Yeh Kaisi",
       "url": "https://open.spotify.com/track/0Kw1VZNUKCVD2B4n6kZLHn"
@@ -23825,6 +23915,24 @@
     },
     {
       "album": {
+        "name": "The Quest",
+        "url": "https://open.spotify.com/album/0k1KMPNi4zWYoNIhP8mbDW"
+      },
+      "artists": [
+        {
+          "name": "Dhruvv Bhattacharya",
+          "url": "https://open.spotify.com/artist/2GLlCKPLjGGvpuSoo8wIvW"
+        }
+      ],
+      "date_added": "2024-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211626,
+      "name": "The Quest",
+      "url": "https://open.spotify.com/track/41JtmcbW1AFOal28kDYtVr"
+    },
+    {
+      "album": {
         "name": "The Search for Wild Geese",
         "url": "https://open.spotify.com/album/31vFwTEramFgkSBd38LEf4"
       },
@@ -24322,6 +24430,28 @@
       "duration_ms": 223714,
       "name": "To Hona Hai Kya?",
       "url": "https://open.spotify.com/track/00HJK7nJRQXeCvasvu1Wdp"
+    },
+    {
+      "album": {
+        "name": "Together as One",
+        "url": "https://open.spotify.com/album/1LKeiC6qKXOkxSBBz06OF4"
+      },
+      "artists": [
+        {
+          "name": "Sparsh Agrawal",
+          "url": "https://open.spotify.com/artist/0HAi6wzZPabkO4T93W2b9U"
+        },
+        {
+          "name": "Shrishti",
+          "url": "https://open.spotify.com/artist/1TJvvTiPcNP01AbkNEM0CR"
+        }
+      ],
+      "date_added": "2024-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 72666,
+      "name": "Together as One",
+      "url": "https://open.spotify.com/track/0LPhmY3v2i5JDfUn1s1gUK"
     },
     {
       "album": {
@@ -27012,6 +27142,24 @@
       "duration_ms": 218689,
       "name": "Ye Shaamein",
       "url": "https://open.spotify.com/track/7g4qvUQ4URhFVf5h02RxvS"
+    },
+    {
+      "album": {
+        "name": "Ye Waadiyan",
+        "url": "https://open.spotify.com/album/08g7QDxP7NRPpmExqCDvDJ"
+      },
+      "artists": [
+        {
+          "name": "Navjot Ahuja",
+          "url": "https://open.spotify.com/artist/7pVf872VEuJQBwiuRFSg4w"
+        }
+      ],
+      "date_added": "2024-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170909,
+      "name": "Ye Waadiyan",
+      "url": "https://open.spotify.com/track/04vlWhJFQtQ5mVrAm7T4zp"
     },
     {
       "album": {

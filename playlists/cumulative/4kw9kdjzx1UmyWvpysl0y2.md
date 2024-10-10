@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-834 songs - 1 day 23 hr 31 min
+835 songs - 1 day 23 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -627,6 +627,7 @@
 | [Say My Name](https://open.spotify.com/track/2fbgpGt8u8ErxMT2cruio8) | [Britt Lari](https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159) | [Say My Name](https://open.spotify.com/album/6RA60E1Fm7C2Up4aKRDLcV) | 2:17 | 2023-03-16 | 2023-06-09 |
 | [Scared To Love Again](https://open.spotify.com/track/0yadIA9MoZ46fXzRJuoqHk) | [Aviella](https://open.spotify.com/artist/5UA4NsiBgSQICPFMDKcPAe) | [Scared To Love Again](https://open.spotify.com/album/3JWq7zuTNhKFz6DhfSUVDP) | 2:58 | 2023-08-09 | 2023-12-14 |
 | [scars](https://open.spotify.com/track/2wz4bHcKZgbfZGzZ0LB2fn) | [Conro](https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ) | [scars](https://open.spotify.com/album/7HCCNdm9M09VVaa17mOjES) | 3:25 | 2022-10-25 | 2023-01-13 |
+| [Scorched Earth](https://open.spotify.com/track/0QtWkMmAvxkeZobKRyXBen) | [Virtual Riot](https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1) | [Scorched Earth](https://open.spotify.com/album/4vrG5DwAVj7PWk44B3450q) | 4:40 | 2024-10-09 |  |
 | [SCREAM](https://open.spotify.com/track/3qq89osKsMStTQABp8AQMc) | [hayve](https://open.spotify.com/artist/6HT10ZbNJFIRYirBe3PTxs), [Typhon](https://open.spotify.com/artist/1dHoVVD7qBHRyfL7PU1bgb) | [SCREAM](https://open.spotify.com/album/6JW07jsKeDGok4VWxIFGYb) | 3:47 | 2023-05-09 | 2023-08-04 |
 | [SCUMBAG](https://open.spotify.com/track/033oLyTtjiWPmHadxRcBm9) | [Godlands](https://open.spotify.com/artist/2BW6zD5lzOxdEFWrgsHMq8) | [GODSP33D](https://open.spotify.com/album/4zzDlOcgTKHR7QiA1I6VHv) | 3:06 | 2022-06-16 | 2022-08-27 |
 | [Sea Turtles](https://open.spotify.com/track/1PNwfTqnN6vECSMjb5sluO) | [IVORY](https://open.spotify.com/artist/4820AP0lvBGJjSK0PXgZgo) | [Sea Turtles](https://open.spotify.com/album/30aZunnIfn312Vtv4C3tiV) | 3:57 | 2023-07-24 | 2023-12-14 |
@@ -810,7 +811,7 @@
 | [We Could Have It All](https://open.spotify.com/track/2exlWmUXIoMGpo5SvWXwN5) | [Punctual](https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF) | [We Could Have It All](https://open.spotify.com/album/6Nm8yTBRXvqYY6LuGsvXHu) | 3:30 | 2022-04-08 | 2022-06-18 |
 | [We Made It](https://open.spotify.com/track/5GRM663KWRMOo3OOcGsSlP) | [Bishu](https://open.spotify.com/artist/1DzQInbDVhE9Lh5s6T0DUL) | [We Made It](https://open.spotify.com/album/3AOoItOGEvBVpqtWGHTjtZ) | 2:37 | 2022-11-08 | 2023-02-01 |
 | [Whale Song](https://open.spotify.com/track/13gdVLikvhINVLSwsf9jvN) | [PROFF](https://open.spotify.com/artist/3jAosRBCdrybxqTnrI4Sld) | [Whale Song](https://open.spotify.com/album/6sFCARtfQExa8NYcIBx9IG) | 4:11 | 2021-11-19 | 2022-02-18 |
-| [What If I Stay](https://open.spotify.com/track/0AFGePrpNwxHi0RkZcn2DT) | [OVSKY](https://open.spotify.com/artist/6hs7DlQVJTvFgN7DyzkdnX) | [What If I Stay](https://open.spotify.com/album/2Cq1ho6qwefhOEZo3ydzw4) | 2:28 | 2024-07-18 |  |
+| [What If I Stay](https://open.spotify.com/track/0AFGePrpNwxHi0RkZcn2DT) | [OVSKY](https://open.spotify.com/artist/6hs7DlQVJTvFgN7DyzkdnX) | [What If I Stay](https://open.spotify.com/album/2Cq1ho6qwefhOEZo3ydzw4) | 2:28 | 2024-07-18 | 2024-10-10 |
 | [Wheel Of Life](https://open.spotify.com/track/2ZZVvGeE3M8dfRBUy7khPH) | [IPeiqi](https://open.spotify.com/artist/62ttTweDvqEfd60TMZaUzc) | [Wheel Of Life](https://open.spotify.com/album/4vHjXmcYrtyS3TsJvsspuR) | 3:50 | 2022-01-19 | 2022-03-26 |
 | [When The Sun Goes Down](https://open.spotify.com/track/6FH2pCTCx5HkevdqH1P20D) | [Bound to Divide](https://open.spotify.com/artist/5nQ7llwdZYT6MWMeLLe8dc), [Lauren L'aimant](https://open.spotify.com/artist/2M2QzPADSybcVig2CBTcFJ) | [When The Sun Goes Down](https://open.spotify.com/album/2u43o2x6oU5twBqN0DiNqI) | 3:48 | 2022-05-18 | 2022-07-29 |
 | [Where Does The Light Go](https://open.spotify.com/track/1ISIClvWD9oMrOL5BLBoal) | [ORACLE](https://open.spotify.com/artist/3gZrJ9QnqxKlSdZAkT54aF), [Holochrome](https://open.spotify.com/artist/4J8ZCyRxfI3y0mqQhfmGbQ) | [Where Does The Light Go](https://open.spotify.com/album/10fHBAh5NqGghBoiBGTiz3) | 3:42 | 2024-01-23 | 2024-04-12 |

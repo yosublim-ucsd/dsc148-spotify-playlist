@@ -4,7 +4,7 @@
 
 > Актуальні хіти та проривні новинки незалежної місцевої музики\. Обкладинка: Максим Тощо
 
-172 songs - 8 hr 53 min
+173 songs - 9 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [GLASSS](https://open.spotify.com/track/30SrM2TjL9vyUFt6WqoBj6) | [NAHABA](https://open.spotify.com/artist/04tU9FZKM1yztRPdLV7Wbm) | [GLASSS](https://open.spotify.com/album/42Z92EsFfUt3t50KYWiOBn) | 2:54 | 2024-06-27 |  |
 | [Hitaus](https://open.spotify.com/track/2oYJHfK9hEjXYfoWSshNao) | [Zbaraski](https://open.spotify.com/artist/6EOVp4jyP5ovNOhqtJu7Eg) | [Mene hitae](https://open.spotify.com/album/2T4nDwOEjtQhbAUjjUFtOG) | 3:15 | 2024-07-26 | 2024-08-24 |
 | [Love is](https://open.spotify.com/track/6Fz9RGmLKm3WkQ0eNaWva5) | [Денис Бойко](https://open.spotify.com/artist/6WeOuFNrKka0uJRcCaJiIc) | [Love is](https://open.spotify.com/album/70vlYc51NI1SMVxfNY634Q) | 2:57 | 2024-06-27 | 2024-07-13 |
+| [Lucerna](https://open.spotify.com/track/27b7hrOY8fkjVom9DGyXO8) | [LATEXFAUNA](https://open.spotify.com/artist/23z16jDNwdZLV9fvE7KliP) | [Lucerna](https://open.spotify.com/album/19yBWt7K3v0P5Oox896P3X) | 6:16 | 2024-10-09 |  |
 | [Makoterchyk](https://open.spotify.com/track/2VHw1Ie1Job3uYw0GYMOwL) | [LATEXFAUNA](https://open.spotify.com/artist/23z16jDNwdZLV9fvE7KliP) | [Makoterchyk](https://open.spotify.com/album/0TOZytY7z2GIfbFqVei7Dw) | 4:15 | 2024-06-27 |  |
 | [Masandra](https://open.spotify.com/track/35ipejFnGQscQFs8Gs4c6e) | [LATEXFAUNA](https://open.spotify.com/artist/23z16jDNwdZLV9fvE7KliP) | [Masandra](https://open.spotify.com/album/7FPF7JPykvtGNKSvuF8bmp) | 4:24 | 2024-06-27 |  |
 | [Melancholy Love](https://open.spotify.com/track/5uB0zDmW93oBCQ93GuV9KL) | [Lost Gift](https://open.spotify.com/artist/676CuDunRM60X41MIhAaI8) | [Melancholy Love](https://open.spotify.com/album/5GNg27IwodYLLQkxoNtAAv) | 2:12 | 2024-06-27 | 2024-07-13 |
@@ -49,7 +50,7 @@
 | [Дай мені шанс](https://open.spotify.com/track/4OUNPYTUH6NxOn8H6jRWPc) | [Lely45](https://open.spotify.com/artist/3S2ZPs0ccEwknZLPQDbGSw) | [Чорний лебідь](https://open.spotify.com/album/52eVDoGR49BfRY64WG0QmQ) | 2:26 | 2024-06-27 |  |
 | [Дарниця](https://open.spotify.com/track/6VRoMXBAR4VjLKkCi7rxEP) | [Liia](https://open.spotify.com/artist/4ZaYuzOFbJK15bG3qOzaiQ) | [Дарниця](https://open.spotify.com/album/3XlGP5fyZTHnBCrkPH78Cp) | 3:04 | 2024-08-23 | 2024-09-14 |
 | [ДЖАЗ](https://open.spotify.com/track/45Pm1ZafdOiy7iwqljQU17) | [RIDNI](https://open.spotify.com/artist/2Cc8f0kYHGmNPRQvaW01SR) | [ДЖАЗ](https://open.spotify.com/album/2A3t1u3UgTdDsJvzrOYuRG) | 2:45 | 2024-06-27 | 2024-08-24 |
-| [Дихотомія](https://open.spotify.com/track/4LdyiOJvt8wE2KVuUp3iLm) | [Тонка](https://open.spotify.com/artist/2ENRblmO6FgEs7MSj2AuWG) | [Дихотомія](https://open.spotify.com/album/1hV93flQsYV7PLABJznwYv) | 5:41 | 2024-08-23 |  |
+| [Дихотомія](https://open.spotify.com/track/4LdyiOJvt8wE2KVuUp3iLm) | [Тонка](https://open.spotify.com/artist/2ENRblmO6FgEs7MSj2AuWG) | [Дихотомія](https://open.spotify.com/album/1hV93flQsYV7PLABJznwYv) | 5:41 | 2024-08-23 | 2024-10-10 |
 | [Долоні на стелю](https://open.spotify.com/track/349DARyT8qSROTqXsHlwga) | [Гошуля](https://open.spotify.com/artist/7JBcQmTIHmYq0fwJHYPDiQ) | [Долоні на стелю](https://open.spotify.com/album/6crNncwmPVifz4zR4h4zmi) | 3:00 | 2024-08-23 | 2024-09-14 |
 | [Дотики](https://open.spotify.com/track/3KWAQF0u32HmmXfZhEvEgX) | [Golubenko](https://open.spotify.com/artist/5XPjmh7BsTQfSfp9wqSoJQ), [SadSvit](https://open.spotify.com/artist/2ojY7fXJxZQhg8Rx5e8h9G) | [Дотики](https://open.spotify.com/album/2lrqG9Hp9yeWf5EgXMh7uV) | 2:22 | 2024-06-27 |  |
 | [Дура \(Сумніваюсь у собі\)](https://open.spotify.com/track/24UrlcD3tsaFufoRuR5BHy) | [Ганна Польська](https://open.spotify.com/artist/2VSBrTn1uztlSxi9zm8nIE), [Tember Blanche](https://open.spotify.com/artist/4IGHF22vbC33ColRBUHIXd) | [Дура \(Сумніваюсь у собі\)](https://open.spotify.com/album/3oeUpyrFubw2SSiQ1TO5BO) | 2:25 | 2024-06-27 |  |

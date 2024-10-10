@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2pb4Ji.md) - [plain]
 
 ### [This Is League of Legends](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2pb4Ji)
 
-> This is League of Legends\. Todos os maiores hits em uma só playlist.
+> This is League of Legends\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 388,874 likes - 51 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 388,888 likes - 51 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2pb4Ji.md) - [plain]
 | 50 | [Vi, the Piltover Enforcer \(Here Comes Vi\) \(From League of Legends: Season 2\)](https://open.spotify.com/track/7slAKPvgzuKgaTTQgrxWUd) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Nicki Taylor](https://open.spotify.com/artist/40eCNuH12cyxEcIVObqFrG) | [The Music of League of Legends: Season 2 \(Original Game Soundtrack\)](https://open.spotify.com/album/5tbKnlrYfWLOS2oDNVRG1I) | 2:41 |
 | 51 | [Pantheon, the Unbreakable Spear \(From League of Legends: Season 9\)](https://open.spotify.com/track/2WuZNdPwSKkGCTKapd3GhG) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [The Music of League of Legends: Season 9 \(Original Game Soundtrack\)](https://open.spotify.com/album/3cYnSSnBe1akJwxv64PHOg) | 3:38 |
 
-Snapshot ID: `ZwMkgAAAAACCDbNhVbM0gLgam5T0KxF3`
+Snapshot ID: `ZwMkgAAAAAClXsEaa9D6oz7tK77ChdvG`

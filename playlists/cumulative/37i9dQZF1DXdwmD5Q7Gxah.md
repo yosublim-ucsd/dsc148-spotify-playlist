@@ -4,7 +4,7 @@
 
 > 🫧 ₊˚⊹♡ world of Luvcat 🍒‧₊˚ 🎐✩
 
-3,025 songs - 6 day 19 hr 46 min
+3,026 songs - 6 day 19 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2614,6 +2614,7 @@
 | [TEMPTRESS](https://open.spotify.com/track/7yxTNloroHZe3rD6kxJed2) | [Ray Laurél](https://open.spotify.com/artist/7gW3GsnBSoT6q9YQUstlzA) | [TEMPTRESS](https://open.spotify.com/album/0OGPnuAwWyhqxjhAvs4RSr) | 3:07 | 2023-02-24 | 2023-04-22 |
 | [Tenant](https://open.spotify.com/track/1PFIHtyj9US4ZIRkH34hxU) | [Andrea Chahayed](https://open.spotify.com/artist/2V6GNbrXanLBlMLCx5nXZN) | [Tenant](https://open.spotify.com/album/0Yhnyh1KDspkwYXjZKKxP4) | 3:54 | 2020-04-08 | 2021-01-15 |
 | [Tennessee](https://open.spotify.com/track/7iXZAgKNXrBmzcaNvM2Xkq) | [Peter Manos](https://open.spotify.com/artist/4K9aclpXgCPNFGEqRlFPal) | [Tennessee](https://open.spotify.com/album/1sAbkkkEZAQAySsYVn1I7a) | 2:43 | 2020-05-07 | 2020-06-09 |
+| [Terrapin](https://open.spotify.com/track/32fwe7MW5koort1Ua3YFx6) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Charm](https://open.spotify.com/album/1KNUCVXgIxKUGiuEB8eG0i) | 3:00 | 2024-10-09 |  |
 | [Texas](https://open.spotify.com/track/08qq38gqUu5e6jZSPT69GM) | [DAGR](https://open.spotify.com/artist/6jDxyPx376PtDCCWzo7OJi), [Cherry Glazerr](https://open.spotify.com/artist/3pIGm1omCcHIb1juBNHspg) | [Texas](https://open.spotify.com/album/4MxwYytep1ODnRn3g2qg0m) | 2:51 | 2022-11-10 | 2023-01-19 |
 | [TEXAS BLUE](https://open.spotify.com/track/6OOvIBnf2HxxW7IU9tsyWx) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS), [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE) | [SCRAPYARD](https://open.spotify.com/album/1S9MukUQEFAYCqlfrwqMd6) | 5:23 | 2024-02-16 | 2024-10-05 |
 | [Thank You](https://open.spotify.com/track/0mMlo76aVZHpuvoR6fjBSK) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Charm](https://open.spotify.com/album/1KNUCVXgIxKUGiuEB8eG0i) | 3:25 | 2024-07-25 | 2024-09-07 |

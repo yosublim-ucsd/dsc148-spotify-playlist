@@ -154,7 +154,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-03",
+      "date_removed": null,
       "duration_ms": 210319,
       "name": "117",
       "url": "https://open.spotify.com/track/4dlvu78hiWiAdaFHZSDsF3"
@@ -1036,7 +1036,7 @@
       ],
       "date_added": "2024-07-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-08",
+      "date_removed": null,
       "duration_ms": 161655,
       "name": "Alibi (with Pabllo Vittar & Yseult)",
       "url": "https://open.spotify.com/track/5496lks6V3fh1mZAB6IAap"
@@ -1062,7 +1062,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-10",
       "duration_ms": 161655,
       "name": "Alibi (with Pabllo Vittar & Yseult)",
       "url": "https://open.spotify.com/track/6G15l720kBWvIQZyoEJEYE"
@@ -18930,7 +18930,7 @@
       ],
       "date_added": "2024-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-10",
       "duration_ms": 193593,
       "name": "Nishto",
       "url": "https://open.spotify.com/track/3r0rVxfmfvVDFI2uL1GbOx"
@@ -24146,7 +24146,7 @@
       ],
       "date_added": "2024-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-08",
+      "date_removed": null,
       "duration_ms": 182840,
       "name": "Smeraldo Garden Marching Band (feat. Loco)",
       "url": "https://open.spotify.com/track/1agDCV4zQqaFwJQNsTgmL1"
@@ -26018,7 +26018,7 @@
       ],
       "date_added": "2024-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-10",
       "duration_ms": 157279,
       "name": "Taste",
       "url": "https://open.spotify.com/track/5G2f63n7IPVPPjfNIGih7Q"
@@ -32088,7 +32088,7 @@
       ],
       "date_added": "2024-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-10",
       "duration_ms": 262998,
       "name": "\u0417\u0430\u043a\u044a\u0441\u043d\u044f",
       "url": "https://open.spotify.com/track/61J0JDkMW2ni0IuuALYqiS"
@@ -32124,7 +32124,7 @@
       ],
       "date_added": "2024-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-10",
       "duration_ms": 198580,
       "name": "\u0417\u0430\u043f\u0430\u043b\u043a\u0430\u0442\u0430",
       "url": "https://open.spotify.com/track/1i19URHkO0hfawEtZ9JiwO"
@@ -34227,6 +34227,24 @@
     },
     {
       "album": {
+        "name": "\u041f\u0435\u0441\u0435\u043d \u0437\u0430 \u043d\u0435\u044f",
+        "url": "https://open.spotify.com/album/3pTB8G6o5ol8X9xsjSOvtI"
+      },
+      "artists": [
+        {
+          "name": "Papi Hans",
+          "url": "https://open.spotify.com/artist/27szsMQxZzAUJrm5BmhaNY"
+        }
+      ],
+      "date_added": "2024-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207906,
+      "name": "\u041f\u0435\u0441\u0435\u043d \u0437\u0430 \u043d\u0435\u044f",
+      "url": "https://open.spotify.com/track/6D9qWyFk2zPqYfTFvOSale"
+    },
+    {
+      "album": {
         "name": "\u041f\u0438\u0441\u0442\u043e\u043b\u0435\u0442",
         "url": "https://open.spotify.com/album/4d2IGg5C8bhKmfcx3vZboq"
       },
@@ -35498,6 +35516,28 @@
       "duration_ms": 215855,
       "name": "\u0429\u0435 \u043e\u0441\u0442\u0430\u043d\u0430",
       "url": "https://open.spotify.com/track/0pXJh3HetGEwhbl0tJYbFW"
+    },
+    {
+      "album": {
+        "name": "Krisko 2007 - 2009",
+        "url": "https://open.spotify.com/album/7zf45tYdundKUQRsOsXdNX"
+      },
+      "artists": [
+        {
+          "name": "Krisko",
+          "url": "https://open.spotify.com/artist/4oopAFtLdKXCoq2XoEjDZD"
+        },
+        {
+          "name": "TuFo",
+          "url": "https://open.spotify.com/artist/2tdztiZE00ttZKprMwV10x"
+        }
+      ],
+      "date_added": "2024-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217245,
+      "name": "\u0429\u043e\u0442\u043e \u0435 \u043c\u0430\u0439\u043c\u0443\u043d\u0430",
+      "url": "https://open.spotify.com/track/1o0qlusiY9LdkWtPxgybVs"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZEVXbNfM2w2mq1B8"

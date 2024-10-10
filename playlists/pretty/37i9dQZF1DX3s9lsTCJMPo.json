@@ -1,6 +1,6 @@
 {
   "description": "Nothing but the classics, the best in Soca anthems from the Caribbean. Cover: Alison Hinds",
-  "num_followers": 115762,
+  "num_followers": 115785,
   "original_name": "Soca Classics",
   "owner": {
     "name": "Spotify",
@@ -308,13 +308,13 @@
       },
       "artists": [
         {
-          "name": "Mr. Dale",
-          "url": "https://open.spotify.com/artist/63MhCRdpN7I70vaMAaNFtD"
+          "name": "Fay-Ann Lyons",
+          "url": "https://open.spotify.com/artist/4nLVEYSAcpANC0BV87P4rd"
         }
       ],
-      "duration_ms": 254640,
-      "name": "Soka Junkie",
-      "url": "https://open.spotify.com/track/6fuR9OzQAkEE4IA5TkjQBz"
+      "duration_ms": 243453,
+      "name": "Get On",
+      "url": "https://open.spotify.com/track/20xMfsI1oNOxRRPmz6isyA"
     },
     {
       "added_at": "2024-08-06 01:00:53",
@@ -324,13 +324,13 @@
       },
       "artists": [
         {
-          "name": "Fay-Ann Lyons",
-          "url": "https://open.spotify.com/artist/4nLVEYSAcpANC0BV87P4rd"
+          "name": "Mr. Dale",
+          "url": "https://open.spotify.com/artist/63MhCRdpN7I70vaMAaNFtD"
         }
       ],
-      "duration_ms": 243453,
-      "name": "Get On",
-      "url": "https://open.spotify.com/track/20xMfsI1oNOxRRPmz6isyA"
+      "duration_ms": 254640,
+      "name": "Soka Junkie",
+      "url": "https://open.spotify.com/track/6fuR9OzQAkEE4IA5TkjQBz"
     },
     {
       "added_at": "2024-08-06 01:00:53",
@@ -727,22 +727,6 @@
     {
       "added_at": "2024-08-06 01:00:53",
       "album": {
-        "name": "Pure Soca",
-        "url": "https://open.spotify.com/album/0aqi1lg3EJuNB3uexZ3i5L"
-      },
-      "artists": [
-        {
-          "name": "Lil Rick",
-          "url": "https://open.spotify.com/artist/1qKzKUnuQsjB83hBZffoq0"
-        }
-      ],
-      "duration_ms": 284626,
-      "name": "Hard Wine",
-      "url": "https://open.spotify.com/track/7HvUtTBGl33OCEE9OOntfA"
-    },
-    {
-      "added_at": "2024-08-06 01:00:53",
-      "album": {
         "name": "Soca 101 Vol. 4",
         "url": "https://open.spotify.com/album/7IMqYTm43qRRCrJ47vPo8H"
       },
@@ -780,13 +764,13 @@
       },
       "artists": [
         {
-          "name": "Anslem Douglas",
-          "url": "https://open.spotify.com/artist/1FDLnsSaUrYlsQwGsxEpzm"
+          "name": "Lil Rick",
+          "url": "https://open.spotify.com/artist/1qKzKUnuQsjB83hBZffoq0"
         }
       ],
-      "duration_ms": 292826,
-      "name": "Ragga Poom Poom",
-      "url": "https://open.spotify.com/track/03fCrPfkxrzpG88F1eI770"
+      "duration_ms": 284626,
+      "name": "Hard Wine",
+      "url": "https://open.spotify.com/track/7HvUtTBGl33OCEE9OOntfA"
     },
     {
       "added_at": "2024-08-06 01:00:53",
@@ -796,13 +780,13 @@
       },
       "artists": [
         {
-          "name": "CRAZY",
-          "url": "https://open.spotify.com/artist/2gFPGGvyxyAZwwSeUeKBXZ"
+          "name": "Anslem Douglas",
+          "url": "https://open.spotify.com/artist/1FDLnsSaUrYlsQwGsxEpzm"
         }
       ],
-      "duration_ms": 364066,
-      "name": "This Is How",
-      "url": "https://open.spotify.com/track/3QNeQhmzrpna9BBu8niDLi"
+      "duration_ms": 292826,
+      "name": "Ragga Poom Poom",
+      "url": "https://open.spotify.com/track/03fCrPfkxrzpG88F1eI770"
     },
     {
       "added_at": "2024-08-06 01:00:53",
@@ -819,6 +803,22 @@
       "duration_ms": 259560,
       "name": "Hold Ya Foot Up & Jump",
       "url": "https://open.spotify.com/track/4WDWYD604qHwJl1lVIZuTc"
+    },
+    {
+      "added_at": "2024-08-06 01:00:53",
+      "album": {
+        "name": "Pure Soca",
+        "url": "https://open.spotify.com/album/0aqi1lg3EJuNB3uexZ3i5L"
+      },
+      "artists": [
+        {
+          "name": "CRAZY",
+          "url": "https://open.spotify.com/artist/2gFPGGvyxyAZwwSeUeKBXZ"
+        }
+      ],
+      "duration_ms": 364066,
+      "name": "This Is How",
+      "url": "https://open.spotify.com/track/3QNeQhmzrpna9BBu8niDLi"
     },
     {
       "added_at": "2024-08-06 01:00:53",

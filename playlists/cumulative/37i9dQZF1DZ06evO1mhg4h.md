@@ -2,7 +2,7 @@
 
 ### [This Is 結束バンド](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1mhg4h)
 
-> This Is 結束バンド\. Los temas esenciales, todos en una lista.
+> This is 結束バンド\. The essential tracks, all in one playlist.
 
 41 songs - 2 hr 42 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 
 > Las canciones de fe que más se escuchan en Latinoamérica\. Foto: <a href="spotify:artist:337ClCqxF9LJsLhB86Tsf0">Elevation Español</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 611,742 likes - 100 songs - 9 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 611,850 likes - 100 songs - 9 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 | 13 | [Mi Casa Y Yo](https://open.spotify.com/track/6XrklcX8kC1O21Nl3708dV) | [Nezareth](https://open.spotify.com/artist/4afXJaDsXOYRPYklYepSYT), [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Mi Casa Y Yo](https://open.spotify.com/album/5WycQG5gnvuN0p9nerWE8v) | 5:50 |
 | 14 | [El Rostro de mi Amado](https://open.spotify.com/track/2EPhkxJ0sLbfSMfmsGtpBC) | [Montesanto](https://open.spotify.com/artist/71UQaXNOhfg5hlYglhzVCJ), [Belen Losa](https://open.spotify.com/artist/6ykUpAJTNpbCpuyApOAxHw) | [El Rostro de mi Amado](https://open.spotify.com/album/6cBkIDjkcnV7ufQYcp5Ej2) | 9:33 |
 | 15 | [Aleluya, Él Viene Ya](https://open.spotify.com/track/20qAKoemFPaqeDsUqwdxTJ) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [La Novia](https://open.spotify.com/album/1XAoegvmhszmRoVQq3kPuB) | 4:58 |
-| 16 | [En Su Nombre \- En Vivo](https://open.spotify.com/track/0AA3VqQQAhZXn5Za2ablx7) | [Som Do Reino](https://open.spotify.com/artist/4Bei91U4XakJsOUQVxH2Cq), [TOMATULUGAR](https://open.spotify.com/artist/44RfC7kgNNz6s2MD3gJqXX) | [En Su Nombre \(En Vivo\)](https://open.spotify.com/album/0BGeOUsynuNYPVgva9pfbD) | 10:37 |
+| 16 | [En Su Nombre \- En Vivo](https://open.spotify.com/track/0AA3VqQQAhZXn5Za2ablx7) | [Som Do Reino](https://open.spotify.com/artist/4Bei91U4XakJsOUQVxH2Cq), [TOMATULUGAR](https://open.spotify.com/artist/44RfC7kgNNz6s2MD3gJqXX), [André Aquino](https://open.spotify.com/artist/6xHt6gUd0LMPtKm0XokFiq), [Marcos Brunet](https://open.spotify.com/artist/7cLoxFihGCVL3s1K3xHK4I), [Ana Clara Verneque](https://open.spotify.com/artist/22975SLYDctI81iUu0yTjQ) | [En Su Nombre \(En Vivo\)](https://open.spotify.com/album/0BGeOUsynuNYPVgva9pfbD) | 10:37 |
 | 17 | [Barro](https://open.spotify.com/track/5ch9ic7jJvh2Y9uDSjXzgM) | [Kairo Worship](https://open.spotify.com/artist/0Hsw98UmbwZVh0mFWg0unI), [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T) | [Barro](https://open.spotify.com/album/7vmYLmjGtBR6iM8SsundgH) | 21:32 |
 | 18 | [Agita las Aguas](https://open.spotify.com/track/06Lw4wj3qlt74Aw0aBw0vk) | [Nueva Raza](https://open.spotify.com/artist/2y5W2i22MO6sBNwUlUCcl0), [World Worship](https://open.spotify.com/artist/0sWeunTzY69e7TCkUflZQm) | [Agita las Aguas](https://open.spotify.com/album/6Di4AYm5DisekwzeRF6Ik0) | 10:55 |
 | 19 | [Quién Más \- Live](https://open.spotify.com/track/1D1YTMxa3k1GMyLjB9etvI) | [Gateway Worship Español](https://open.spotify.com/artist/6CyrlDkin8EyehBeKUxcSV), [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Waleska Morales](https://open.spotify.com/artist/6C0t2XuoPExvGxcVfo7aHc) | [Quién Más \(Live\)](https://open.spotify.com/album/4Ue61NSN8wZj6KD5gHdtKu) | 5:29 |

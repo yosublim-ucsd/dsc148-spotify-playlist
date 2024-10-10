@@ -4,7 +4,7 @@
 
 > 
 
-233 songs - 13 hr 48 min
+234 songs - 13 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,6 +169,7 @@
 | [Odium](https://open.spotify.com/track/3kAGYoYtWxaVdylpRiow6z) | [LXST CXNTURY](https://open.spotify.com/artist/4TS37lr3ZraUxBHS727sEp) | [Universe of the Past](https://open.spotify.com/album/1GX9tOFuNisK62WpFVKhbu) | 2:46 | 2019-11-05 |  |
 | [Omsaya](https://open.spotify.com/track/1fD9CUbyVKQdfBYtEJ3m2h) | [Lowly, KTrek](https://open.spotify.com/artist/5L8lcckQe9wpSWHhPDUKNK) | [MIDNIGHT2077](https://open.spotify.com/album/3dbVep2ee5uViw2rz6Dydj) | 3:06 | 2021-06-26 |  |
 | [Onsra](https://open.spotify.com/track/3riXqWf7Ah7LS0oHn3DrhB) | [Skeler](https://open.spotify.com/artist/7ks4LdnBvp6HUsmVJiKgsB) | [Onsra](https://open.spotify.com/album/08jgBwhXzIet0cRKfI5NAR) | 4:00 | 2022-02-20 |  |
+| [Outrun](https://open.spotify.com/track/3XRkyIC6ws5tL8etnHb0GS) | [LOSTMANE](https://open.spotify.com/artist/2ntaPzscRw8GRvBFF0SUlh) | [Outrun](https://open.spotify.com/album/4FifF7GfWYB7s0mMCYCiyb) | 2:38 | 2024-10-09 |  |
 | [Over You](https://open.spotify.com/track/0S22k9Eh34bjxlHejtQnIK) | [MYSTXRIVL](https://open.spotify.com/artist/5puIJpEBWYS37qD8TS8gZq) | [wave 003](https://open.spotify.com/album/4DO3xx1RRiRaTHSTfIpBzt) | 3:43 | 2018-11-27 |  |
 | [P.1](https://open.spotify.com/track/6FV6ucDuhwmb46chhJZbZD) | [CXRSEDMANE](https://open.spotify.com/artist/27cWMuyYxLlaAkEaQ0Fgm3) | [P.1](https://open.spotify.com/album/4OH5iDHKWFwwIROnrTmbFb) | 3:54 | 2021-02-09 |  |
 | [Paradise](https://open.spotify.com/track/7atISFYLur90ZXfQgFibA9) | [SHPACKYOU$](https://open.spotify.com/artist/67qKhVs7sfKAF7b38kPcNE) | [Vinyl 2](https://open.spotify.com/album/3nbGgtr417BUtWI1fZkvtI) | 1:56 | 2023-02-28 |  |

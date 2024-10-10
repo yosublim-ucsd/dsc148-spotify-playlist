@@ -1558,7 +1558,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-10",
       "duration_ms": 162745,
       "name": "Free For Another Day",
       "url": "https://open.spotify.com/track/3ouNQOmQUd1swZpXWFlMPe"
@@ -2374,6 +2374,28 @@
       "duration_ms": 136928,
       "name": "Ik Dans Even Door",
       "url": "https://open.spotify.com/track/570C5OuN8T1SKL4fHzaYcD"
+    },
+    {
+      "album": {
+        "name": "Ik Haat Hem Voor Jou",
+        "url": "https://open.spotify.com/album/3lkn7csEi16CayvYDrRRDz"
+      },
+      "artists": [
+        {
+          "name": "Froukje",
+          "url": "https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp"
+        },
+        {
+          "name": "S10",
+          "url": "https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK"
+        }
+      ],
+      "date_added": "2024-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154624,
+      "name": "Ik Haat Hem Voor Jou",
+      "url": "https://open.spotify.com/track/6vDxjNLrehdIkaHQ8nMkaF"
     },
     {
       "album": {
@@ -5138,7 +5160,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-10",
       "duration_ms": 152730,
       "name": "We Hebben De Tijd",
       "url": "https://open.spotify.com/track/6YbyOC4jqn7P9bsIJWdVSq"
@@ -5196,6 +5218,24 @@
       "duration_ms": 282906,
       "name": "You & Me",
       "url": "https://open.spotify.com/track/6sX8CkFopBSOHX7PFS4VpI"
+    },
+    {
+      "album": {
+        "name": "Naar De Haaien & Weer Terug",
+        "url": "https://open.spotify.com/album/49kVZFZguyqvfxt0HklIhg"
+      },
+      "artists": [
+        {
+          "name": "MEROL",
+          "url": "https://open.spotify.com/artist/7J41Q5hdwuBgyVo7zGhPhO"
+        }
+      ],
+      "date_added": "2024-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203229,
+      "name": "Zachte Landing",
+      "url": "https://open.spotify.com/track/5J9BrWf45n2uTcGcrrwcQ3"
     },
     {
       "album": {

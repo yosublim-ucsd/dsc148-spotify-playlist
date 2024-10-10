@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2mDwdN.md) - [plain]
 
 ### [This Is Harold Melvin & The Blue Notes](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2mDwdN)
 
-> This Is Harold Melvin & The Blue Notes\. Los temas esenciales, todos en una lista.
+> This is Harold Melvin & The Blue Notes\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,893 likes - 50 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,895 likes - 50 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2mDwdN.md) - [plain]
 | 49 | [A House Is Not A Home \- Live](https://open.spotify.com/track/1RSo4zPAo4BlHaZwldlzRp) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv), [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Sharon Paige](https://open.spotify.com/artist/112QjqKDa4MQbs0FhOAgNk) | [The Intruders vs Harold Melvin's Blue Notes \(Live In Concert\)](https://open.spotify.com/album/1UWBEyPgg7GaXRAx2JV4QN) | 8:18 |
 | 50 | [Today's Your Lucky Day](https://open.spotify.com/track/6EFETJ5VG2AhjGun4dHRD1) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Nikko](https://open.spotify.com/artist/17Zl7UZpsaofiXvKockxNY) | [Today's Your Lucky Day](https://open.spotify.com/album/6SjGljHh3CyDsl7q9TR1K1) | 6:23 |
 
-Snapshot ID: `ZwMkgAAAAACXLiF9gH6v5LjvczLPNzpL`
+Snapshot ID: `ZwMkgAAAAADlCi6Hn70Dl25YofpAIAlP`

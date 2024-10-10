@@ -2,7 +2,7 @@
 
 ### [This Is Manu Dibango](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1JZBOa)
 
-> This is Manu Dibango\. The essential tracks, all in one playlist.
+> This Is Manu Dibango\. Les titres incontournables, réunis dans une seule et même playlist.
 
 142 songs - 10 hr 44 min
 

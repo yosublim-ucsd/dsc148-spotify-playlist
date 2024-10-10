@@ -1,18 +1,18 @@
 {
   "description": "El Dembow que est\u00e1 subiendo. Foto: El Alfa",
-  "num_followers": 118625,
+  "num_followers": 118677,
   "original_name": "Rep\u00fablica Dembow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zv2tCgAAAAAgqGFEVyo7JTVefCGAPixj",
+  "snapshot_id": "Zwb/6wAAAABKm5rUUyGl+nCZlzY9C0h3",
   "tracks": [
     {
-      "added_at": "2024-09-25 18:50:18",
+      "added_at": "2024-10-02 20:27:55",
       "album": {
-        "name": "GARGARA",
-        "url": "https://open.spotify.com/album/2RZzZxC8q2cUIl9XWagTSV"
+        "name": "SOTO SHUFFLE",
+        "url": "https://open.spotify.com/album/6hDjqhcXBzsz3hys4Ve6KJ"
       },
       "artists": [
         {
@@ -20,13 +20,13 @@
           "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
         },
         {
-          "name": "Chael Produciendo",
-          "url": "https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e"
+          "name": "Foreign Teck",
+          "url": "https://open.spotify.com/artist/12lHTAdc9T204lw5qPtasv"
         }
       ],
-      "duration_ms": 150508,
-      "name": "GARGARA",
-      "url": "https://open.spotify.com/track/3IxVrJ7oai1L7UgGB05P7J"
+      "duration_ms": 91115,
+      "name": "SOTO SHUFFLE",
+      "url": "https://open.spotify.com/track/4sE9xbthMgxleOyq86jeZJ"
     },
     {
       "added_at": "2024-09-19 19:45:05",
@@ -83,6 +83,26 @@
       "duration_ms": 137760,
       "name": "Que linda",
       "url": "https://open.spotify.com/track/1FExEHMPs4J1qLZTPFOuaX"
+    },
+    {
+      "added_at": "2024-10-09 22:12:59",
+      "album": {
+        "name": "CHAPA",
+        "url": "https://open.spotify.com/album/0dNtIStGkXFYTSdyfMxC2G"
+      },
+      "artists": [
+        {
+          "name": "Yailin la Mas Viral",
+          "url": "https://open.spotify.com/artist/4ncaw2cfA3Wlly1tBD2eWt"
+        },
+        {
+          "name": "Puyalo Pantera",
+          "url": "https://open.spotify.com/artist/5O5qjKWtduHgXxeEYbbSxz"
+        }
+      ],
+      "duration_ms": 120052,
+      "name": "CHAPA",
+      "url": "https://open.spotify.com/track/4uFYkBaLGIhBaLT9KbhyPt"
     },
     {
       "added_at": "2024-08-29 16:56:43",
@@ -165,6 +185,50 @@
       "url": "https://open.spotify.com/track/72KLtcHd8rcu5Oms0zktgz"
     },
     {
+      "added_at": "2024-10-09 22:12:59",
+      "album": {
+        "name": "Malita",
+        "url": "https://open.spotify.com/album/2jWQrSZG6u94EP7Up0nbOW"
+      },
+      "artists": [
+        {
+          "name": "Bigoblin",
+          "url": "https://open.spotify.com/artist/38m9i1Ro4UpoMLGuRm6bwq"
+        },
+        {
+          "name": "Diente 27",
+          "url": "https://open.spotify.com/artist/6xd0K53X7gTj4dQAkwgnUf"
+        },
+        {
+          "name": "Recio DC",
+          "url": "https://open.spotify.com/artist/4tKN6qTebwNBUxqLIZpaGd"
+        }
+      ],
+      "duration_ms": 127740,
+      "name": "Malita",
+      "url": "https://open.spotify.com/track/24pzUVZLNwEMXyYwd9Uz9h"
+    },
+    {
+      "added_at": "2024-09-25 18:50:18",
+      "album": {
+        "name": "GARGARA",
+        "url": "https://open.spotify.com/album/2RZzZxC8q2cUIl9XWagTSV"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "Chael Produciendo",
+          "url": "https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e"
+        }
+      ],
+      "duration_ms": 150508,
+      "name": "GARGARA",
+      "url": "https://open.spotify.com/track/3IxVrJ7oai1L7UgGB05P7J"
+    },
+    {
       "added_at": "2024-03-21 19:13:50",
       "album": {
         "name": "Ou Ou",
@@ -209,6 +273,22 @@
       "url": "https://open.spotify.com/track/2vb7Bg1Buf8KuaNwbFwlCL"
     },
     {
+      "added_at": "2024-10-09 22:12:59",
+      "album": {
+        "name": "Son Rata",
+        "url": "https://open.spotify.com/album/2WaIbu9pdrLWnk1GJPAHyG"
+      },
+      "artists": [
+        {
+          "name": "La Mas Doll",
+          "url": "https://open.spotify.com/artist/0PPgD3dY7wrxsMe021mByK"
+        }
+      ],
+      "duration_ms": 143582,
+      "name": "Son Rata",
+      "url": "https://open.spotify.com/track/4vs4bZimCj5DBpHqguNDLF"
+    },
+    {
       "added_at": "2024-06-12 20:16:51",
       "album": {
         "name": "PIKY",
@@ -245,24 +325,20 @@
       "url": "https://open.spotify.com/track/1bIpH9PBr9OBI3Ek6RtuNl"
     },
     {
-      "added_at": "2023-12-22 05:09:41",
+      "added_at": "2024-10-09 22:12:59",
       "album": {
-        "name": "Flow Sexy",
-        "url": "https://open.spotify.com/album/78HK77TtSPMxqAi6yH6jOP"
+        "name": "Frename Tu",
+        "url": "https://open.spotify.com/album/2WabPD8erz2wSaYvJIjzPa"
       },
       "artists": [
         {
-          "name": "La Perversa",
-          "url": "https://open.spotify.com/artist/4UcGO4hOufILa9qGd3KOCo"
-        },
-        {
-          "name": "Jey One",
-          "url": "https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw"
+          "name": "Donaty",
+          "url": "https://open.spotify.com/artist/2dHbjVgpO3NvzY8D7yZvji"
         }
       ],
-      "duration_ms": 165123,
-      "name": "Flow Sexy",
-      "url": "https://open.spotify.com/track/1aaNLFSkrqqM6KtBFjS2Hj"
+      "duration_ms": 135468,
+      "name": "Frename Tu",
+      "url": "https://open.spotify.com/track/6RZO9DJFeRJc1PC1eyx2z5"
     },
     {
       "added_at": "2024-10-02 20:27:55",
@@ -295,6 +371,26 @@
       "duration_ms": 140874,
       "name": "Che Che",
       "url": "https://open.spotify.com/track/7ESqP17DjGLx7j8fm0Gp2L"
+    },
+    {
+      "added_at": "2024-10-09 22:12:59",
+      "album": {
+        "name": "Ruleta",
+        "url": "https://open.spotify.com/album/6R0t7vOuRIeUvmJAzLnQtL"
+      },
+      "artists": [
+        {
+          "name": "Wander Love",
+          "url": "https://open.spotify.com/artist/4gPLblkCTiViD8GqD532Nd"
+        },
+        {
+          "name": "Puyalo Pantera",
+          "url": "https://open.spotify.com/artist/5O5qjKWtduHgXxeEYbbSxz"
+        }
+      ],
+      "duration_ms": 127403,
+      "name": "Ruleta",
+      "url": "https://open.spotify.com/track/5cGtiTBxgkS0WA33vfdlyW"
     },
     {
       "added_at": "2024-08-29 16:56:43",
@@ -371,6 +467,22 @@
       "duration_ms": 168608,
       "name": "Un Muah",
       "url": "https://open.spotify.com/track/4n5tjQToFhV3CfKNhHs4kD"
+    },
+    {
+      "added_at": "2024-10-09 22:12:59",
+      "album": {
+        "name": "Normal",
+        "url": "https://open.spotify.com/album/6sPdNu6XrHybpSFucseqQZ"
+      },
+      "artists": [
+        {
+          "name": "El Super Nuevo",
+          "url": "https://open.spotify.com/artist/3hWKGRKwr78bhxvErSJBdu"
+        }
+      ],
+      "duration_ms": 163196,
+      "name": "Normal",
+      "url": "https://open.spotify.com/track/4e7frW6iqFPOJyeY3KFvmU"
     },
     {
       "added_at": "2024-05-23 17:26:04",
@@ -465,40 +577,32 @@
       "url": "https://open.spotify.com/track/6nzIWkTOhgkfuf3OEaooM3"
     },
     {
-      "added_at": "2024-09-25 18:50:18",
+      "added_at": "2024-10-09 22:12:59",
       "album": {
-        "name": "TOPALE",
-        "url": "https://open.spotify.com/album/0NIi6D3tFMDlSJL7GFY94w"
+        "name": "Gomita En Leder",
+        "url": "https://open.spotify.com/album/2OuCk5xsQBxXsN81L6V8Mk"
       },
       "artists": [
         {
-          "name": "Petaka",
-          "url": "https://open.spotify.com/artist/6vLmGCzOjdLOqCJ9IXZBVl"
-        }
-      ],
-      "duration_ms": 93105,
-      "name": "TOPALE",
-      "url": "https://open.spotify.com/track/7Esy39QzAmVRexSxm8u4JU"
-    },
-    {
-      "added_at": "2024-10-02 20:27:55",
-      "album": {
-        "name": "SOTO SHUFFLE",
-        "url": "https://open.spotify.com/album/6hDjqhcXBzsz3hys4Ve6KJ"
-      },
-      "artists": [
-        {
-          "name": "El Alfa",
-          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+          "name": "Caracol Music",
+          "url": "https://open.spotify.com/artist/0XbslaRM1Dqf8nQYOAIwcQ"
         },
         {
-          "name": "Foreign Teck",
-          "url": "https://open.spotify.com/artist/12lHTAdc9T204lw5qPtasv"
+          "name": "Mafeo 13",
+          "url": "https://open.spotify.com/artist/7FLtPxysebJtEIfpPQSSW4"
+        },
+        {
+          "name": "La Diossa",
+          "url": "https://open.spotify.com/artist/02FuCWc45oL6xmKbyMw84O"
+        },
+        {
+          "name": "Endie Rap",
+          "url": "https://open.spotify.com/artist/0DTc15tjHp3cUAdtbidqtI"
         }
       ],
-      "duration_ms": 91115,
-      "name": "SOTO SHUFFLE",
-      "url": "https://open.spotify.com/track/4sE9xbthMgxleOyq86jeZJ"
+      "duration_ms": 139366,
+      "name": "Gomita En Leder",
+      "url": "https://open.spotify.com/track/5Mz6qHgVxbLgHwG3zZvJCl"
     },
     {
       "added_at": "2024-05-30 18:05:50",
@@ -563,30 +667,6 @@
       "duration_ms": 146040,
       "name": "Pila de Nota - Remix",
       "url": "https://open.spotify.com/track/6lNCZexJ2wVnHp7VBazUEU"
-    },
-    {
-      "added_at": "2024-09-25 18:50:18",
-      "album": {
-        "name": "Sitema",
-        "url": "https://open.spotify.com/album/2saAqgz7YpYlkf02vxBBOH"
-      },
-      "artists": [
-        {
-          "name": "El Piky",
-          "url": "https://open.spotify.com/artist/4KqB52DfLAKRtgqNwMnvJW"
-        },
-        {
-          "name": "La Gre\u00f1a",
-          "url": "https://open.spotify.com/artist/7LnCLRzUnLRTFOe4NjAkGX"
-        },
-        {
-          "name": "La Creencia Rd",
-          "url": "https://open.spotify.com/artist/31O1isth8oXtekO1jK0d03"
-        }
-      ],
-      "duration_ms": 138149,
-      "name": "Sitema",
-      "url": "https://open.spotify.com/track/7emYlW6mDTOg9P3qQK1v6S"
     },
     {
       "added_at": "2024-09-19 19:45:05",
@@ -721,22 +801,6 @@
       "url": "https://open.spotify.com/track/5gl3UqjDWEzJjUWvusAF7O"
     },
     {
-      "added_at": "2023-12-22 05:09:41",
-      "album": {
-        "name": "Agu\u00e1ntala",
-        "url": "https://open.spotify.com/album/6C7Etu8KhU0PetMLyzYZ5J"
-      },
-      "artists": [
-        {
-          "name": "Rochy RD",
-          "url": "https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP"
-        }
-      ],
-      "duration_ms": 144672,
-      "name": "Agu\u00e1ntala",
-      "url": "https://open.spotify.com/track/0yTv8zIpgEdmqvPAteE2OY"
-    },
-    {
       "added_at": "2024-03-28 14:23:32",
       "album": {
         "name": "Fulete",
@@ -791,26 +855,6 @@
       "duration_ms": 125333,
       "name": "Melissa",
       "url": "https://open.spotify.com/track/5ZC8zs8PmeNCkMsICETCW4"
-    },
-    {
-      "added_at": "2024-10-02 20:27:55",
-      "album": {
-        "name": "Dale 2",
-        "url": "https://open.spotify.com/album/5XueSNnIcB4DBhZY81Epoj"
-      },
-      "artists": [
-        {
-          "name": "Yailin la Mas Viral",
-          "url": "https://open.spotify.com/artist/4ncaw2cfA3Wlly1tBD2eWt"
-        },
-        {
-          "name": "Kreizy k",
-          "url": "https://open.spotify.com/artist/3Z8i7zAQr7lPwH7pUQnlXJ"
-        }
-      ],
-      "duration_ms": 148850,
-      "name": "Dale 2",
-      "url": "https://open.spotify.com/track/7eYg1DaZOkTUJbMpzTAfhl"
     },
     {
       "added_at": "2024-03-21 19:13:50",
@@ -1011,22 +1055,6 @@
       "duration_ms": 72589,
       "name": "BBTRUCOS",
       "url": "https://open.spotify.com/track/2FRMBN0FNaulDesgK1GIOp"
-    },
-    {
-      "added_at": "2024-01-18 21:46:59",
-      "album": {
-        "name": "Tu Vera L\u00edo",
-        "url": "https://open.spotify.com/album/5l76qsgKpFbVSbvwLQiOgZ"
-      },
-      "artists": [
-        {
-          "name": "Jey One",
-          "url": "https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw"
-        }
-      ],
-      "duration_ms": 112727,
-      "name": "Tu Vera L\u00edo",
-      "url": "https://open.spotify.com/track/0GTJfuNoImFQKTRE5zJkYz"
     },
     {
       "added_at": "2024-01-18 21:46:59",
@@ -1379,26 +1407,6 @@
       "duration_ms": 117230,
       "name": "Somos De Aqui Mismo",
       "url": "https://open.spotify.com/track/0oJfuTagpeKomBeE8CSYCk"
-    },
-    {
-      "added_at": "2023-12-22 05:09:41",
-      "album": {
-        "name": "Se No Gaste",
-        "url": "https://open.spotify.com/album/6pLgfLFzMy8RgnT5IZgUmF"
-      },
-      "artists": [
-        {
-          "name": "Yoan Retro",
-          "url": "https://open.spotify.com/artist/2cMBe6WzKwPphDZ0QNK8Zi"
-        },
-        {
-          "name": "El Baby R",
-          "url": "https://open.spotify.com/artist/0sJpqQouXqn3gKQrsN1JET"
-        }
-      ],
-      "duration_ms": 120994,
-      "name": "Se No Gaste",
-      "url": "https://open.spotify.com/track/0R8B8WYvdLLUXrtNDL11Wb"
     },
     {
       "added_at": "2023-12-22 05:09:41",

@@ -4,7 +4,7 @@
 
 > Tra storytelling e barre affilate, il meglio del rap game italiano\. Cover: MadMan
 
-193 songs - 10 hr 13 min
+194 songs - 10 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [COL CUORE IN GOLA \- lords of dogtown](https://open.spotify.com/track/2ypcWaliFPJ9c3JeWMqi1w) | [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G) | [Effetto notte](https://open.spotify.com/album/39wuRno08Rl0Jsse2kCHga) | 3:08 | 2023-05-18 |  |
 | [Complicato](https://open.spotify.com/track/6d7BZ0WMfu6OlgA3hIh58P) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2) | [X2VR](https://open.spotify.com/album/3ilgQgVMtxAxN2Jmb1OM29) | 3:13 | 2023-11-17 |  |
 | [COOLIN BREAK \(feat\. Nitro & Enzo Dong\)](https://open.spotify.com/track/5nt0lVfzmmuiU1Zk6PbWbM) | [Il Tre](https://open.spotify.com/artist/4p5IspnsqtILeRtckOxumu), [Nitro](https://open.spotify.com/artist/6jQZzWW3JlEtcRDSzFVKSP), [Enzo Dong](https://open.spotify.com/artist/7iCdyOeJYk06mKJ6nLrFQ6) | [INVISIBILI](https://open.spotify.com/album/6iT3GIpurtTE3MiMB0VxQL) | 3:00 | 2023-09-14 | 2023-11-03 |
+| [Cosa resterà di noi](https://open.spotify.com/track/4hfuteAlDAbNMbz0EsBTpZ) | [Kuremino](https://open.spotify.com/artist/1V4Yspflqmghgh91FQJW9n) | [9K](https://open.spotify.com/album/1JTbdGtXi6D1y4o9s0SSUW) | 2:31 | 2024-10-09 |  |
 | [CRIATUR \(From the Netflix Rap Show “Nuova Scena”\)](https://open.spotify.com/track/147hzs261FAZBpwfQkOUCL) | [Kid Lost](https://open.spotify.com/artist/4oGlqM93JwM3Bx5X0wvLTu) | [CRIATUR \(From the Netflix Rap Show “Nuova Scena”\)](https://open.spotify.com/album/4v2vbwWe9ongpkfgLJDbir) | 2:54 | 2024-03-06 | 2024-03-29 |
 | [CRINGE](https://open.spotify.com/track/0QdLe32rmGquRDdALuY92Q) | [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW), [Noyz Narcos](https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY) | [CVLT](https://open.spotify.com/album/6HXtcSvv1AXivyZrZjEdG1) | 3:12 | 2023-11-02 | 2024-03-01 |
 | [C’era Una Volta In Italia](https://open.spotify.com/track/6qECCt8d4AQt0cEv307MLa) | [Club Dogo](https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv) | [Club Dogo](https://open.spotify.com/album/3nPgVpEmlL2JCf2yhdEcFy) | 3:05 | 2024-01-12 |  |
@@ -200,6 +201,6 @@
 | [WEEKEND \(feat\. Lazza, Madame & Massimo Pericolo\)](https://open.spotify.com/track/6xOC20CkoRKAwGWh32nPHL) | [BLOODY VINYL](https://open.spotify.com/artist/0VitAFMCI2apQxKzDjg1PU), [Slait](https://open.spotify.com/artist/2KXYAKQTxHuUHDtVgeGn6w), [5019](https://open.spotify.com/artist/0bIICDFvg6PqEWaZsfvpCR), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Madame](https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3), [Massimo Pericolo](https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq) | [BV3](https://open.spotify.com/album/1maHuPQQphzi9TIJ55dNxW) | 3:00 | 2022-07-15 | 2024-04-19 |
 | [WEEKEND \(feat\. Lazza, Madame & Massimo Pericolo\)](https://open.spotify.com/track/1FVZhwZiab6cEAxAOS9j5v) | [BLOODY VINYL](https://open.spotify.com/artist/0VitAFMCI2apQxKzDjg1PU), [Slait](https://open.spotify.com/artist/2KXYAKQTxHuUHDtVgeGn6w), [MILES](https://open.spotify.com/artist/1gs79u8PKkWAW1yfymbkTt), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Madame](https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3), [Massimo Pericolo](https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq) | [BV3](https://open.spotify.com/album/6qAapBZqjiATXktzwBzzLC) | 3:00 | 2022-04-15 |  |
 | [WELCOME BACK \(feat\. Raekwon\)](https://open.spotify.com/track/5E0PcREYdAn70xQPylf76v) | [Noyz Narcos](https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY), [Raekwon](https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1), [Night Skinny](https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h) | [VIRUS](https://open.spotify.com/album/1PuzNok4t4FnyY92G202UU) | 3:23 | 2022-04-15 | 2023-12-01 |
-| [Workout](https://open.spotify.com/track/3kBlfl2W2NjFTOBNLCe6TC) | [Ensi](https://open.spotify.com/artist/6dKdNHGdsBvEeNDxXV8AMP), [Nerone](https://open.spotify.com/artist/7kG6A2lZMXeaD5YkubF5Kn), [Brava Gente](https://open.spotify.com/artist/4mGFiauNMsVwgTFpcDfr7T) | [BRAVA GENTE \- EXTRA](https://open.spotify.com/album/5IXUWaTnABGOuAm7u8mI9H) | 2:26 | 2024-06-13 |  |
+| [Workout](https://open.spotify.com/track/3kBlfl2W2NjFTOBNLCe6TC) | [Ensi](https://open.spotify.com/artist/6dKdNHGdsBvEeNDxXV8AMP), [Nerone](https://open.spotify.com/artist/7kG6A2lZMXeaD5YkubF5Kn), [Brava Gente](https://open.spotify.com/artist/4mGFiauNMsVwgTFpcDfr7T) | [BRAVA GENTE \- EXTRA](https://open.spotify.com/album/5IXUWaTnABGOuAm7u8mI9H) | 2:26 | 2024-06-13 | 2024-10-10 |
 
 \*This playlist was first scraped on 2022-05-12. Prior content cannot be recovered.

@@ -457,6 +457,24 @@
     },
     {
       "album": {
+        "name": "DORORO (Session)",
+        "url": "https://open.spotify.com/album/1cVjhri49bNjw9yI8o35HS"
+      },
+      "artists": [
+        {
+          "name": "L'vibe",
+          "url": "https://open.spotify.com/artist/4MlpbR6uKD3Og9SSynlXBS"
+        }
+      ],
+      "date_added": "2024-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265299,
+      "name": "DORORO - Session",
+      "url": "https://open.spotify.com/track/3HNvJQgAljXDTVjt9Mmcds"
+    },
+    {
+      "album": {
         "name": "Champion",
         "url": "https://open.spotify.com/album/2mQJkHDgHmV19m9tbkULA5"
       },
@@ -504,7 +522,7 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-10",
       "duration_ms": 190866,
       "name": "Fink",
       "url": "https://open.spotify.com/track/4vmmaBXaplcAyGVlQiPRuf"

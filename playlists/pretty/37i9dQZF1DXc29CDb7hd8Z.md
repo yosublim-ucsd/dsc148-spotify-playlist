@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc29CDb7hd8Z.md) - [plain]
 
 > Everything will look beautiful if you're inspired by the simplicity of instrumental music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,526 likes - 138 songs - 7 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,531 likes - 138 songs - 7 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc29CDb7hd8Z.md) - [plain]
 | 7 | [Something Waits For You \(Nedda\)](https://open.spotify.com/track/7F7f3gbdlvwhXsIhKVVOm5) | [Juan Pablo Garcia](https://open.spotify.com/artist/7cjb7yHEV4SCYohr9q48Xd) | [Something Waits For You \(Nedda\)](https://open.spotify.com/album/2dJgjngBVCKi73IvFOrn7u) | 3:37 |
 | 8 | [We Contain Multitudes — piano reworks](https://open.spotify.com/track/1rpF77jsLBMG2QjCuhe0Sr) | [Yiruma](https://open.spotify.com/artist/0fauHpmSHwodVYIjTqOGHz), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [We Contain Multitudes — piano reworks](https://open.spotify.com/album/4vtunVFmIlrxIrkOobdfDH) | 4:24 |
 | 9 | [Experience](https://open.spotify.com/track/1BncfTJAWxrsxyT9culBrj) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj), [Daniel Hope](https://open.spotify.com/artist/59r5UU2HOytn9V5uMZ5Vur), [I Virtuosi Italiani](https://open.spotify.com/artist/1k1AM2ESRQseVAj6rvBdtx) | [In A Time Lapse](https://open.spotify.com/album/3uJ6D2WOPdjwJ0SrsH9EiG) | 5:15 |
-| 10 | [Vendaval](https://open.spotify.com/track/6zh6wcyml9eVcwdHyocRHX) | [Ismael Pinkler](https://open.spotify.com/artist/3EDLCEnPXba2OItpKW1Drx) | [Vendaval](https://open.spotify.com/album/4uEePaWttHHNAJffGzSrQB) | 2:39 |
+| 10 | [Vendaval](https://open.spotify.com/track/6zh6wcyml9eVcwdHyocRHX) | [Ismael Pinkler](https://open.spotify.com/artist/3EDLCEnPXba2OItpKW1Drx), [Nicolás Bacal](https://open.spotify.com/artist/4O07zL2JRvvUnaUYA1q4lp) | [Vendaval](https://open.spotify.com/album/4uEePaWttHHNAJffGzSrQB) | 2:39 |
 | 11 | [La Cuna del Cisne](https://open.spotify.com/track/5YTa4iuyMjso4skLWLYRe0) | [YoSoyMatt](https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV) | [Yo No Soy Marinero](https://open.spotify.com/album/7Lg3d27iQnRX3Is6yEXho5) | 2:33 |
 | 12 | [A Host for All Kinds of Life](https://open.spotify.com/track/557lM1DeqevRyI3PQm1rI2) | [Green\-House](https://open.spotify.com/artist/0M6QGBKWICr8dxhh3UJW45) | [A Host for All Kinds of Life](https://open.spotify.com/album/08pPPgrNVzEa12ksYN3Drl) | 3:59 |
 | 13 | [CC](https://open.spotify.com/track/4NGNSSZKYo9RzLT1AHE8mD) | [Radiotrónica](https://open.spotify.com/artist/0BBRvMCMiGIJBI3dn5vySN) | [De otro mundo](https://open.spotify.com/album/0nV1gsatLesTZc5HpC53pr) | 2:12 |

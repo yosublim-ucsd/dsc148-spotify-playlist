@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-1,814 songs - 1 day 13 hr 19 min
+1,815 songs - 1 day 13 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -851,6 +851,7 @@
 | [Itsy Bitsy Spider \- Cello Version](https://open.spotify.com/track/53fN9LU443iNUzgvbjmjq4) | [Cello Soul](https://open.spotify.com/artist/1g2vVGycdY9Xowsh2mYCqe) | [Itsy Bitsy Spider \(Cello Version\)](https://open.spotify.com/album/7b6YCFcQlMidxUr5eI38c9) | 1:01 | 2024-02-09 | 2024-02-13 |
 | [Jack And Jill Arr\. For Cello](https://open.spotify.com/track/5iBnwWLOr2XVSAn3OV9dJk) | [Wandering River](https://open.spotify.com/artist/68MLCS299SINsPPPTnMZRK) | [Jack And Jill Arr\. For Cello](https://open.spotify.com/album/7D3XCWIkSJR2sbxJj0KCYP) | 1:01 | 2024-02-09 | 2024-02-13 |
 | [January \- Cello Version](https://open.spotify.com/track/1jyUZF5c3qDO0p8Rfb2aYR) | [Melody Lake](https://open.spotify.com/artist/1we36odvLMnv4ESemMwWs7) | [January Melody](https://open.spotify.com/album/0vXU5TUY60rCoUg75Alqwn) | 1:02 | 2023-04-08 | 2024-02-13 |
+| [Join](https://open.spotify.com/track/70ScDxDyS7RTTWd2wLVfUa) | [Dream Presence](https://open.spotify.com/artist/77u8JcLgTOc0ebVwQZ3A26) | [Join](https://open.spotify.com/album/7nYU5m1WzGeMg45dKkEQAK) | 1:00 | 2024-10-09 |  |
 | [Joining Hands](https://open.spotify.com/track/3ZmoYJ81eKaVn891ZpZwBE) | [Ivory Light](https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi) | [Relaxing Piano, Vol\. 2](https://open.spotify.com/album/4Itys1Pew5j5dpubWyIUSM) | 1:00 | 2023-12-23 | 2024-01-30 |
 | [July \- Piano Lullaby Version](https://open.spotify.com/track/2h7Q2XEUSz8mzM37JhWj9v) | [Beyond Stillness](https://open.spotify.com/artist/42iQ19B2la2mcUZAksaIo8) | [July](https://open.spotify.com/album/607WQQDShvtBHRf6oEA0HW) | 1:00 | 2024-04-18 |  |
 | [July Nights \- Alternate Cello Version](https://open.spotify.com/track/7y5UUYqHH7v8wwbkQ8BzqF) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [July Nights \(Alternate Cello Version\)](https://open.spotify.com/album/71E5p4B7TW56h86z2XMlEU) | 1:00 | 2023-07-31 | 2024-02-13 |

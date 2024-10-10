@@ -4,7 +4,7 @@
 
 > Fresh Punjabi Rap\. Cover: Guru Randhawa
 
-191 songs - 9 hr 4 min
+193 songs - 9 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,8 +134,10 @@
 | [Nawa Daur](https://open.spotify.com/track/61MMci6FJljPEmeyMiUdaf) | [Prince Narula](https://open.spotify.com/artist/4hMUptoqDVqFXA8Inz20II), [Paradox](https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui), [Rony Ajnali](https://open.spotify.com/artist/0N2lT1m7rG0klYHZrkyMPw) | [Nawa Daur](https://open.spotify.com/album/541jqutZqpCl9uOS3x8UsU) | 2:57 | 2024-05-23 | 2024-09-29 |
 | [Need You In My Life](https://open.spotify.com/track/0fjxS9cHzznHdYziuessOo) | [Bob.B Randhawa](https://open.spotify.com/artist/64v80BSPBbO4NG2EKLdbgC), [Archit Sharma](https://open.spotify.com/artist/513TlG57SicMeaKHUqADnA) | [Time Will Tell](https://open.spotify.com/album/60hP5BO12BmQs3KjUgGyqc) | 2:50 | 2024-09-03 | 2024-09-21 |
 | [Never Fold](https://open.spotify.com/track/3JkVYvxNoGf2HCWJo61462) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Sunny Malton](https://open.spotify.com/artist/2ScEhgArBEdKyU4vNHSyiY), [SOE](https://open.spotify.com/artist/503jMzlAxbEpfltywmU45E) | [No Name](https://open.spotify.com/album/57SIarHHgfby4AvV6ftCB5) | 3:03 | 2023-03-18 | 2024-09-10 |
+| [New Era](https://open.spotify.com/track/153SAswNdu6wCV9HYPN755) | [Armaan Bhullar](https://open.spotify.com/artist/6g24MQXt7eR4oVKsMTNcT3) | [New Era](https://open.spotify.com/album/32Lt52CsRNmMEl9BMKXbfT) | 1:57 | 2024-10-09 |  |
 | [Nisha Sweety](https://open.spotify.com/track/6Twl6PxOydIn6lHCFasctF) | [Sikander Kahlon](https://open.spotify.com/artist/08mu3VEvLCIWDq4t0NNoTN), [Dj Tejas](https://open.spotify.com/artist/19auYTgFdhYAR019ErcDcM) | [Nisha Sweety](https://open.spotify.com/album/06E2OaiyC9N7i2eG8CdcFJ) | 4:02 | 2023-04-21 | 2024-08-28 |
 | [No Love](https://open.spotify.com/track/08Isz2ETWSBhvIl8UpKYsp) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [No Love](https://open.spotify.com/album/5Zcgog7sQ79ISF32y9nABU) | 2:50 | 2023-05-26 | 2024-09-10 |
+| [No Parking](https://open.spotify.com/track/3rm07jfce5fWa1iaV4Z5qz) | [Nagii](https://open.spotify.com/artist/3z6tyHPOToaK9BlttcZa5E), [MNLTX](https://open.spotify.com/artist/2g012qHtkRZyFmoM0Pu5Ws) | [No Parking](https://open.spotify.com/album/23R89MWv4MssTrDBRG15Ik) | 2:44 | 2024-10-09 |  |
 | [No Reason](https://open.spotify.com/track/3ICNl7gysAiDxFtpYAPOZK) | [Parmish Verma](https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE), [GD 47](https://open.spotify.com/artist/6uflkUXhbKhwVwZ3E2opoG) | [No Reason](https://open.spotify.com/album/0wzfXAUHyTS4jzRA0HciwY) | 3:38 | 2023-03-18 | 2024-09-12 |
 | [No Worries](https://open.spotify.com/track/4hoGOPnhq84doCT0eBohT8) | [Hammy Muzic](https://open.spotify.com/artist/7zzosAlsXxJJ5vXPymZZAj), [Syphr](https://open.spotify.com/artist/1p0cpaSetvDyBCogumWAXM) | [No Worries](https://open.spotify.com/album/4382GONaK3geV739wMJDA5) | 1:55 | 2024-09-11 | 2024-10-05 |
 | [Notorious](https://open.spotify.com/track/0n34awvLFvIayNC43L9JYw) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ) | [Notorious](https://open.spotify.com/album/6BDt4jKBfvMtxaomt3z8WU) | 3:00 | 2023-07-31 | 2024-09-19 |

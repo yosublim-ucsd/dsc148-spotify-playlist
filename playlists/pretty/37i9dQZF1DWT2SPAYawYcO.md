@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > The best new songs of the week! Cover: Confidence Man
 
-[Spotify](https://open.spotify.com/user/spotify) - 381,494 likes - 98 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 381,518 likes - 98 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,7 +95,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 85 | [You Go Your Way](https://open.spotify.com/track/35jE2icc2pV4QDgbJiYMUe) | [Perrie](https://open.spotify.com/artist/0o18Cfq9RAxRqi5W4JOEPe) | [You Go Your Way](https://open.spotify.com/album/5TfDNyXTjan0eZhELfj1jx) | 3:54 |
 | 86 | [Can You Feel It](https://open.spotify.com/track/0ambxC18GFKAWt9uygHuP9) | [Floodlights](https://open.spotify.com/artist/5gQvIK95LKrgtgkBPlH3XI) | [Can You Feel It](https://open.spotify.com/album/7lJ3RlQNP8odCCpOqpGabl) | 3:55 |
 | 87 | [Bodies Laughing](https://open.spotify.com/track/3yEDXBjgKahj3mKHmyNHcf) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [Bodies Laughing](https://open.spotify.com/album/57MazNcT8V1wYpLB7lkMwH) | 4:57 |
-| 88 | [Greatest Expectations Dub](https://open.spotify.com/track/0qg2xiQNtcFPOaRg6smGdY) | [The Black Seeds](https://open.spotify.com/artist/0Q35wRRhdsU8EbsJ1eouCY), [Scientist](https://open.spotify.com/artist/1edl5fzpdS471TaQ8Bgs3w) | [Greatest Expectation Dub](https://open.spotify.com/album/3fUuqEV5SxlPVMNsJw8iDN) | 3:39 |
+| 88 | [Greatest Expectations Dub](https://open.spotify.com/track/0qg2xiQNtcFPOaRg6smGdY) | [The Black Seeds](https://open.spotify.com/artist/0Q35wRRhdsU8EbsJ1eouCY), [Scientist](https://open.spotify.com/artist/1edl5fzpdS471TaQ8Bgs3w) | [Greatest Expectations Dub](https://open.spotify.com/album/3fUuqEV5SxlPVMNsJw8iDN) | 3:39 |
 | 89 | [Hold My Horses](https://open.spotify.com/track/1ygq2X7eLauguElpWO7ap6) | [Max Jackson](https://open.spotify.com/artist/6uxoiISyynknybWW6SQrTe) | [Hold My Horses](https://open.spotify.com/album/27j87iE7loDzPzNFIsz6nd) | 3:00 |
 | 90 | [TANTRUM](https://open.spotify.com/track/3F1MKtNYeOrBF4oXfn6D7r) | [TOWNS](https://open.spotify.com/artist/7zcfwEODRWt0H3XIneO9ZK) | [TANTRUM](https://open.spotify.com/album/4iaROZXjnQxL5MFKeMjdgT) | 3:03 |
 | 91 | [seven storeys up](https://open.spotify.com/track/5xgvOTcLPF7JkE97hlqZwv) | [annie hamilton](https://open.spotify.com/artist/0S3cimlz80A0Q9CLz8TTxH) | [seven storeys up](https://open.spotify.com/album/1057WawBAyfhBaLBpDChuJ) | 3:49 |

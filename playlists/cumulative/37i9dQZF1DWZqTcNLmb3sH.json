@@ -10337,6 +10337,32 @@
     },
     {
       "album": {
+        "name": "Habibi (From \"Sanju Weds Geetha 2\")",
+        "url": "https://open.spotify.com/album/6dejDiTxqg7fdGRRqFKnPo"
+      },
+      "artists": [
+        {
+          "name": "Mangli",
+          "url": "https://open.spotify.com/artist/1pDF5UltcypyatITA3Pduo"
+        },
+        {
+          "name": "Jassie Gift",
+          "url": "https://open.spotify.com/artist/3cowxATurZfjWsJC4uEHsl"
+        },
+        {
+          "name": "Sridhar .V.Sambhram",
+          "url": "https://open.spotify.com/artist/4GDPI9FapQXUVKxdWwTfCE"
+        }
+      ],
+      "date_added": "2024-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284669,
+      "name": "Habibi (From \"Sanju Weds Geetha 2\")",
+      "url": "https://open.spotify.com/track/2mc9so3FRcvaC9qChpOAqQ"
+    },
+    {
+      "album": {
         "name": "Head Bush",
         "url": "https://open.spotify.com/album/2vGOIhx4KxChnbqO4S7WRQ"
       },
@@ -12136,6 +12162,28 @@
       "duration_ms": 197666,
       "name": "Hrudayada looti Ninnindale - From \"Mardini\"",
       "url": "https://open.spotify.com/track/02KtANsTSZJEEXHsa3C1IX"
+    },
+    {
+      "album": {
+        "name": "Thayige Thakka Maga",
+        "url": "https://open.spotify.com/album/5GVvRDNBWX4Cf4mnXC8T7l"
+      },
+      "artists": [
+        {
+          "name": "Sanjith Hegde",
+          "url": "https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v"
+        },
+        {
+          "name": "Sangeetha Ravindranath",
+          "url": "https://open.spotify.com/artist/7jgOOSGT9VG1PSH90uFx43"
+        }
+      ],
+      "date_added": "2024-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226976,
+      "name": "Hrudayake Hedarike",
+      "url": "https://open.spotify.com/track/0EHAiFwUat5Oi6LqgHs94o"
     },
     {
       "album": {
@@ -16648,7 +16696,7 @@
       ],
       "date_added": "2024-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-10",
       "duration_ms": 231528,
       "name": "Maar Muntha Chod Chinta (From \"Double ISMART \")(Kannada)",
       "url": "https://open.spotify.com/track/6XU7aK0XLrQDU3Yctu6OIO"

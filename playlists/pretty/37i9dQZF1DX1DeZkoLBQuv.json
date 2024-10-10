@@ -583,22 +583,6 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "O Natal de Todos N\u00f3s",
-        "url": "https://open.spotify.com/album/75oUMpemNX3oJtjmbPLdxB"
-      },
-      "artists": [
-        {
-          "name": "Elaine Martins",
-          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
-        }
-      ],
-      "duration_ms": 396266,
-      "name": "Noite Santa (Cantique de Noel)",
-      "url": "https://open.spotify.com/track/6keWbatyTby28odg835j18"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
         "name": "Celebrando o Natal",
         "url": "https://open.spotify.com/album/7sYvSBmi0geLSPMv3p0eHq"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 204196,
       "name": "Natal",
       "url": "https://open.spotify.com/track/5JqMJ3rqFdyPjlzCEHrRnF"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
+        "name": "O Natal de Todos N\u00f3s",
+        "url": "https://open.spotify.com/album/75oUMpemNX3oJtjmbPLdxB"
+      },
+      "artists": [
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "duration_ms": 396266,
+      "name": "Noite Santa (Cantique de Noel)",
+      "url": "https://open.spotify.com/track/6keWbatyTby28odg835j18"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -823,22 +823,6 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Noite de Paz - Can\u00e7\u00f5es para Celebrar",
-        "url": "https://open.spotify.com/album/39EJNgjtmDNElujFEAbsA1"
-      },
-      "artists": [
-        {
-          "name": "Perlla",
-          "url": "https://open.spotify.com/artist/2DD48qUxMj0QmjMqWOZ4WK"
-        }
-      ],
-      "duration_ms": 193000,
-      "name": "Vem Chegando o Natal",
-      "url": "https://open.spotify.com/track/3gPpfWdDTHNniJpWql9BI5"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
         "name": "#TBT",
         "url": "https://open.spotify.com/album/53aePMus3r7215h43aChgx"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 212175,
       "name": "A Hist\u00f3ria de Cristo",
       "url": "https://open.spotify.com/track/4sZZlZEn7UPPnhx9eymssz"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
+        "name": "Noite de Paz - Can\u00e7\u00f5es para Celebrar",
+        "url": "https://open.spotify.com/album/39EJNgjtmDNElujFEAbsA1"
+      },
+      "artists": [
+        {
+          "name": "Perlla",
+          "url": "https://open.spotify.com/artist/2DD48qUxMj0QmjMqWOZ4WK"
+        }
+      ],
+      "duration_ms": 193000,
+      "name": "Vem Chegando o Natal",
+      "url": "https://open.spotify.com/track/3gPpfWdDTHNniJpWql9BI5"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -915,18 +915,18 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Busquem a Jesus",
-        "url": "https://open.spotify.com/album/3X38B5YfsA0lGcY4BEOj3i"
+        "name": "O Natal de Todos N\u00f3s",
+        "url": "https://open.spotify.com/album/75oUMpemNX3oJtjmbPLdxB"
       },
       "artists": [
         {
-          "name": "Matheus Rizzo",
-          "url": "https://open.spotify.com/artist/6UHIabLGNVJuFaEODpWoPP"
+          "name": "Trio Nascimento",
+          "url": "https://open.spotify.com/artist/0nmfUUkYqGngUmVhJfGAFw"
         }
       ],
-      "duration_ms": 322058,
-      "name": "Busquem a Jesus",
-      "url": "https://open.spotify.com/track/6Dhjqku6LpMOMzYJHMiwkl"
+      "duration_ms": 211440,
+      "name": "No Humilde Pres\u00e9pio (Away In a Manger)",
+      "url": "https://open.spotify.com/track/6FW7SRtspdfCTaTv4GM5j3"
     }
   ],
   "unique_name": "Louvores de Natal",

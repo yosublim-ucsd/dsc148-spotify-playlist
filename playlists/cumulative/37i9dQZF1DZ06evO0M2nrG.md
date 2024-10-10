@@ -2,7 +2,7 @@
 
 ### [This Is Mike Bahía](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0M2nrG)
 
-> This is Mike Bahía\. Les chansons essentielles, toutes regroupées dans une seule liste de lecture.
+> This Is Mike Bahía\. Los temas esenciales, todos en una lista.
 
 80 songs - 4 hr 10 min
 

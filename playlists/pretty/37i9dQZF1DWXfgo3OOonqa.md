@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 
 > håll det 100.
 
-[Spotify](https://open.spotify.com/user/spotify) - 334,874 likes - 101 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 334,913 likes - 101 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,7 +96,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 86 | [CHICANO](https://open.spotify.com/track/3jE8a467SmeFRnkK176hAQ) | [Ricky Rich](https://open.spotify.com/artist/1gm1katIowFM22Ldqcw6DK), [Blizzy](https://open.spotify.com/artist/4tSx9oXscGCVaVXEhH86qp) | [CHICANO](https://open.spotify.com/album/5pAM6Ft7kGCj4wyWAIpQTU) | 2:31 |
 | 87 | [FEELING](https://open.spotify.com/track/4RxR3ZXHpcsMSgYXDIKdSm) | [1.Cuz](https://open.spotify.com/artist/5uvOG0MwnD2ANrxNBUPtNr), [VC Barre](https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU) | [FEELING](https://open.spotify.com/album/20LALgJrWP56Y7SfUz2yqn) | 2:35 |
 | 88 | [IBIZA](https://open.spotify.com/track/4POdzwp6hDWk0OMH2gNE6v) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6) | [IBIZA](https://open.spotify.com/album/38wRFv5x1KqPeYXQlSHU8W) | 2:32 |
-| 89 | [Welou \(Better Days\)](https://open.spotify.com/track/2byIKlBKUlVFnnKIq5Vc6B) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA) | [Bland Sagor & Vapen: Del 1](https://open.spotify.com/album/6VoZyWhn7NUEFm9nn3qtFu) | 2:35 |
+| 89 | [Welou \(Better Days\)](https://open.spotify.com/track/2byIKlBKUlVFnnKIq5Vc6B) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA) | [Bland Sagor & Vapen](https://open.spotify.com/album/6VoZyWhn7NUEFm9nn3qtFu) | 2:35 |
 | 90 | [DALE](https://open.spotify.com/track/23i4tv2yimgQiOi4a4sy0W) | [Montana](https://open.spotify.com/artist/4klH9sjw1BjPGzibWyZaIj), [Rami Bazi](https://open.spotify.com/artist/1xyGVJFEvENupHZdAkYcHd), [Balotelli](https://open.spotify.com/artist/1tuNsntg5i80HAN0JE28iX) | [DALE](https://open.spotify.com/album/68zGaXwteT4Mf3HGs5Erag) | 2:21 |
 | 91 | [Medellín](https://open.spotify.com/track/3Nk5Q7giZdRoq1gi71dQYe) | [Awave](https://open.spotify.com/artist/2zrzhtWVPEcj1btFiRDQlF) | [Medellín](https://open.spotify.com/album/7iuuXm3zoZsHhJJHPZgeF8) | 2:56 |
 | 92 | [Prime Time](https://open.spotify.com/track/5bLwRc80wnYTYRxIE0pxPl) | [Shacki](https://open.spotify.com/artist/2PuGN7y0Lvx9ItrBKyutPU), [01an](https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY) | [Prime Time](https://open.spotify.com/album/2uQBbpPDJwihBskwtfGcr0) | 2:36 |

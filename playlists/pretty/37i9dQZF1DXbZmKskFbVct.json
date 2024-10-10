@@ -1,6 +1,6 @@
 {
   "description": "Soothing ASMR whispers to help you drift off to sleep. Slow, soft and calming.",
-  "num_followers": 36099,
+  "num_followers": 36121,
   "original_name": "ASMR Sleep Whispers",
   "owner": {
     "name": "Spotify",
@@ -43,22 +43,6 @@
     {
       "added_at": "2024-08-30 08:51:58",
       "album": {
-        "name": "Brain Melting Sleep Treatment",
-        "url": "https://open.spotify.com/album/6bSao7wQTkf1e3lENdSo7w"
-      },
-      "artists": [
-        {
-          "name": "Tingting ASMR",
-          "url": "https://open.spotify.com/artist/3v11hexW8sJ3Jfs9ft4xWw"
-        }
-      ],
-      "duration_ms": 389971,
-      "name": "Brain Melting Sleep Treatment Pt.1",
-      "url": "https://open.spotify.com/track/0EqQ9Z5oY0kP2Di8lqzOKa"
-    },
-    {
-      "added_at": "2024-08-30 08:51:58",
-      "album": {
         "name": "Karuna's Sleep Clinic",
         "url": "https://open.spotify.com/album/1FOLplr5wVJ6FBnFfdTM2W"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 232571,
       "name": "Sleep Clinic Part 2",
       "url": "https://open.spotify.com/track/7fa12AeziG3ON4z80k5eFo"
+    },
+    {
+      "added_at": "2024-08-30 08:51:58",
+      "album": {
+        "name": "Brain Melting Sleep Treatment",
+        "url": "https://open.spotify.com/album/6bSao7wQTkf1e3lENdSo7w"
+      },
+      "artists": [
+        {
+          "name": "Tingting ASMR",
+          "url": "https://open.spotify.com/artist/3v11hexW8sJ3Jfs9ft4xWw"
+        }
+      ],
+      "duration_ms": 389971,
+      "name": "Brain Melting Sleep Treatment Pt.1",
+      "url": "https://open.spotify.com/track/0EqQ9Z5oY0kP2Di8lqzOKa"
     },
     {
       "added_at": "2024-08-30 08:51:58",
@@ -91,22 +91,6 @@
     {
       "added_at": "2024-08-30 08:51:58",
       "album": {
-        "name": "ASMR Sleep Relaxation Meditation",
-        "url": "https://open.spotify.com/album/2umeKrYETsK1lJA7YBRYLL"
-      },
-      "artists": [
-        {
-          "name": "Julia Park",
-          "url": "https://open.spotify.com/artist/6txFTb7tigP6uQV2VDuPDS"
-        }
-      ],
-      "duration_ms": 229078,
-      "name": "Sleepy Mindset",
-      "url": "https://open.spotify.com/track/04Q2sQ3OlvwjdAkEdjjO0w"
-    },
-    {
-      "added_at": "2024-08-30 08:51:58",
-      "album": {
         "name": "ASMR Whispers (Binaural)",
         "url": "https://open.spotify.com/album/7CG9mOaqHldDcfdZak3Od6"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 176039,
       "name": "Unintelligble Sleep Whisper Sayy Wayy",
       "url": "https://open.spotify.com/track/6chyCwZ2KhBUqjTUfw0ZHS"
+    },
+    {
+      "added_at": "2024-08-30 08:51:58",
+      "album": {
+        "name": "ASMR Sleep Relaxation Meditation",
+        "url": "https://open.spotify.com/album/2umeKrYETsK1lJA7YBRYLL"
+      },
+      "artists": [
+        {
+          "name": "Julia Park",
+          "url": "https://open.spotify.com/artist/6txFTb7tigP6uQV2VDuPDS"
+        }
+      ],
+      "duration_ms": 229078,
+      "name": "Sleepy Mindset",
+      "url": "https://open.spotify.com/track/04Q2sQ3OlvwjdAkEdjjO0w"
     },
     {
       "added_at": "2024-08-30 08:51:58",
@@ -155,18 +155,18 @@
     {
       "added_at": "2024-08-30 08:51:58",
       "album": {
-        "name": "Showering You In Compliments",
-        "url": "https://open.spotify.com/album/3JY9ZTIKDr9X71ENWcrwdh"
+        "name": "Close Ear to Ear Whispered Countdown to Sleep",
+        "url": "https://open.spotify.com/album/4PsZcKftdyDZcTGFhU9OLk"
       },
       "artists": [
         {
-          "name": "ASMR Darling",
-          "url": "https://open.spotify.com/artist/5Bu2D80nyECM0G6fFdsfK7"
+          "name": "HeatheredEffect ASMR",
+          "url": "https://open.spotify.com/artist/11uBB2l2Ne1rZCyS1xnv1L"
         }
       ],
-      "duration_ms": 211128,
-      "name": "Showering You In Compliments Pt.2",
-      "url": "https://open.spotify.com/track/0kcQZkQc8JYh0Vcpke0dWL"
+      "duration_ms": 279222,
+      "name": "Close Ear to Ear Whispered Countdown to Sleep Pt.4",
+      "url": "https://open.spotify.com/track/4SizL2yMtF5wkXMuYh1edR"
     },
     {
       "added_at": "2024-08-30 08:51:58",
@@ -187,18 +187,18 @@
     {
       "added_at": "2024-08-30 08:51:58",
       "album": {
-        "name": "Close Ear to Ear Whispered Countdown to Sleep",
-        "url": "https://open.spotify.com/album/4PsZcKftdyDZcTGFhU9OLk"
+        "name": "Showering You In Compliments",
+        "url": "https://open.spotify.com/album/3JY9ZTIKDr9X71ENWcrwdh"
       },
       "artists": [
         {
-          "name": "HeatheredEffect ASMR",
-          "url": "https://open.spotify.com/artist/11uBB2l2Ne1rZCyS1xnv1L"
+          "name": "ASMR Darling",
+          "url": "https://open.spotify.com/artist/5Bu2D80nyECM0G6fFdsfK7"
         }
       ],
-      "duration_ms": 279222,
-      "name": "Close Ear to Ear Whispered Countdown to Sleep Pt.4",
-      "url": "https://open.spotify.com/track/4SizL2yMtF5wkXMuYh1edR"
+      "duration_ms": 211128,
+      "name": "Showering You In Compliments Pt.2",
+      "url": "https://open.spotify.com/track/0kcQZkQc8JYh0Vcpke0dWL"
     },
     {
       "added_at": "2024-08-30 08:51:58",
@@ -235,6 +235,22 @@
     {
       "added_at": "2024-08-30 08:51:58",
       "album": {
+        "name": "Sleep-Inducing Haircut",
+        "url": "https://open.spotify.com/album/1kM0ELi6Vgv4OiXAtnRIXO"
+      },
+      "artists": [
+        {
+          "name": "HeatheredEffect ASMR",
+          "url": "https://open.spotify.com/artist/11uBB2l2Ne1rZCyS1xnv1L"
+        }
+      ],
+      "duration_ms": 253899,
+      "name": "Sleep-Inducing Haircut Pt.3",
+      "url": "https://open.spotify.com/track/3QcQqTLBYUp0ZjZatm3FUk"
+    },
+    {
+      "added_at": "2024-08-30 08:51:58",
+      "album": {
         "name": "Measuring and Examining Your Face",
         "url": "https://open.spotify.com/album/3vV3eFCUvQ4grVD3o4KMg4"
       },
@@ -263,22 +279,6 @@
       "duration_ms": 182682,
       "name": "Unintelligble Sleep Whisper Dee Kaa",
       "url": "https://open.spotify.com/track/7rAyhoQ18VOFt9DLgzM0n2"
-    },
-    {
-      "added_at": "2024-08-30 08:51:58",
-      "album": {
-        "name": "Sleep-Inducing Haircut",
-        "url": "https://open.spotify.com/album/1kM0ELi6Vgv4OiXAtnRIXO"
-      },
-      "artists": [
-        {
-          "name": "HeatheredEffect ASMR",
-          "url": "https://open.spotify.com/artist/11uBB2l2Ne1rZCyS1xnv1L"
-        }
-      ],
-      "duration_ms": 253899,
-      "name": "Sleep-Inducing Haircut Pt.3",
-      "url": "https://open.spotify.com/track/3QcQqTLBYUp0ZjZatm3FUk"
     },
     {
       "added_at": "2024-08-30 08:51:58",
@@ -347,18 +347,18 @@
     {
       "added_at": "2024-08-30 08:51:58",
       "album": {
-        "name": "ASMR Whispers (Binaural)",
-        "url": "https://open.spotify.com/album/7CG9mOaqHldDcfdZak3Od6"
+        "name": "Close Ear to Ear Whispered Countdown to Sleep",
+        "url": "https://open.spotify.com/album/4PsZcKftdyDZcTGFhU9OLk"
       },
       "artists": [
         {
-          "name": "Mr. Jones ASMR",
-          "url": "https://open.spotify.com/artist/6SZTvX4HLAuDywehkdtmrb"
+          "name": "HeatheredEffect ASMR",
+          "url": "https://open.spotify.com/artist/11uBB2l2Ne1rZCyS1xnv1L"
         }
       ],
-      "duration_ms": 170035,
-      "name": "Unintelligble Sleep Whisper Breathing Scratching",
-      "url": "https://open.spotify.com/track/5a3cr3l0yJm2e8ZK2Ephif"
+      "duration_ms": 296698,
+      "name": "Close Ear to Ear Whispered Countdown to Sleep Pt.2",
+      "url": "https://open.spotify.com/track/1volF5Eo78NkxftiB0pg75"
     },
     {
       "added_at": "2024-08-30 08:51:58",
@@ -379,18 +379,18 @@
     {
       "added_at": "2024-08-30 08:51:58",
       "album": {
-        "name": "Close Ear to Ear Whispered Countdown to Sleep",
-        "url": "https://open.spotify.com/album/4PsZcKftdyDZcTGFhU9OLk"
+        "name": "ASMR Whispers (Binaural)",
+        "url": "https://open.spotify.com/album/7CG9mOaqHldDcfdZak3Od6"
       },
       "artists": [
         {
-          "name": "HeatheredEffect ASMR",
-          "url": "https://open.spotify.com/artist/11uBB2l2Ne1rZCyS1xnv1L"
+          "name": "Mr. Jones ASMR",
+          "url": "https://open.spotify.com/artist/6SZTvX4HLAuDywehkdtmrb"
         }
       ],
-      "duration_ms": 296698,
-      "name": "Close Ear to Ear Whispered Countdown to Sleep Pt.2",
-      "url": "https://open.spotify.com/track/1volF5Eo78NkxftiB0pg75"
+      "duration_ms": 170035,
+      "name": "Unintelligble Sleep Whisper Breathing Scratching",
+      "url": "https://open.spotify.com/track/5a3cr3l0yJm2e8ZK2Ephif"
     },
     {
       "added_at": "2024-08-30 08:51:58",

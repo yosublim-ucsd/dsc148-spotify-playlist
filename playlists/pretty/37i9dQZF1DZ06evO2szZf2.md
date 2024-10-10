@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2szZf2.md) - [plain]
 
 ### [This Is Mc Dricka](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2szZf2)
 
-> This Is Mc Dricka\. Todas as faixas essenciais numa única playlist.
+> This is Mc Dricka\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,671 likes - 51 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,668 likes - 51 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2szZf2.md) - [plain]
 | 50 | [Intenção do Vapo Vapo](https://open.spotify.com/track/6I9j9YXfkomRrD4rzcwqko) | [Mc Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q), [DJ Ery](https://open.spotify.com/artist/3fJhU7uVbc7ofhDXfBXJnS) | [Caldeirão](https://open.spotify.com/album/63v9to8cvqYjhU6om4CxPK) | 2:02 |
 | 51 | [JÁ ERA TARDE](https://open.spotify.com/track/7C4JFAkLIoy7aWroEOy60X) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Mc Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q), [MC Rick](https://open.spotify.com/artist/1mvpEXClANunyiHFtAXCxt), [Dj Juninho da Espanha](https://open.spotify.com/artist/7v3YsPZy6l4QPJQ8RqnfZ4), [Ariel Donato](https://open.spotify.com/artist/7H3XEvrS2PsNzM76MczgHJ) | [CORO COM COÇA](https://open.spotify.com/album/1mJUlfDXB7F62HqNsvJ9f8) | 2:57 |
 
-Snapshot ID: `ZwMkgAAAAABwngheMpeDUz5xzUdDp1iN`
+Snapshot ID: `ZwMkgAAAAADxEGytFrOpCUrU2afM2ijj`

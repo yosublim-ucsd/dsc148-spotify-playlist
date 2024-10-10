@@ -4,7 +4,7 @@
 
 > Fedez e Niky Savage in cover della playlist urban più grande in Italia 🔥
 
-612 songs - 1 day 6 hr 6 min
+613 songs - 1 day 6 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -231,6 +231,7 @@
 | [GanGa \(feat\. Baby Gang\)](https://open.spotify.com/track/4lZ87DJUjjAEcOzF6Uhyfj) | [Sacky](https://open.spotify.com/artist/1sybJwRGo9WiiqcZLzzAbS), [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0) | [QUELLO VERO](https://open.spotify.com/album/5sKFWHoVyf9t65zdLmx6wg) | 2:41 | 2023-01-26 | 2023-03-18 |
 | [GASOLINA](https://open.spotify.com/track/3uaQK6iP56b0oVzFWUO6mn) | [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [GASOLINA](https://open.spotify.com/album/3ZBJbeVGumukG3EFsUN8ch) | 2:25 | 2022-06-02 | 2022-09-02 |
 | [Gelosa \(feat\. Shiva, Sfera Ebbasta, Guè\)](https://open.spotify.com/track/2hHC2jw8qiE4IAPDGjU4Fu) | [Finesse](https://open.spotify.com/artist/3GWuJyC9r6Ug0F6jeLzTpY), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [Gelosa \(feat\. Shiva, Sfera Ebbasta, Guè\)](https://open.spotify.com/album/0EtbYgB5v6HF3VgWVYOOOi) | 3:01 | 2023-02-23 | 2023-09-16 |
+| [GHETTO CHIC \(feat\. Capo Plaza\)](https://open.spotify.com/track/59dhypL0XctHMdiXw75naA) | [Astro](https://open.spotify.com/artist/2pzFTbri7ew8mW2CbYpCNq), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [ASTRO](https://open.spotify.com/album/3MgibgQ9ES2OCG073TNXuG) | 3:04 | 2024-10-09 |  |
 | [GHETTO LOVE \(feat\. CLARA\)](https://open.spotify.com/track/5JEAwqy2UQebOWrE0Sc4Fs) | [Icy Subzero](https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0), [CLARA](https://open.spotify.com/artist/6FPxOArEPVZUDv925qq8IQ) | [GHETTO LOVE \(feat\. CLARA\)](https://open.spotify.com/album/79TRrzyyW28JYQ9eNIeHey) | 2:24 | 2024-05-30 | 2024-09-13 |
 | [GHETTO SUPERSTAR \(feat\. Ghali\)](https://open.spotify.com/track/2ixHrwHianfv01Bc7QGD2G) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L) | [LOCURA](https://open.spotify.com/album/0wYy8LTZuhiAyvchPppHPj) | 4:01 | 2024-09-19 |  |
 | [GIANDUIA](https://open.spotify.com/track/4UrLbcAZnCzhz8bUxmwMcT) | [VillaBanks](https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL), [AVA](https://open.spotify.com/artist/7zPS3i8YJBNeDcqXUHfCMr), [Finesse](https://open.spotify.com/artist/3GWuJyC9r6Ug0F6jeLzTpY) | [GIANDUIA](https://open.spotify.com/album/5Af8LrBAFOqNpvHxHK5EKS) | 2:39 | 2024-05-23 | 2024-06-14 |
@@ -461,7 +462,7 @@
 | [PIOVE \(Concertos\)](https://open.spotify.com/track/1qvdspvSwXch9dKKV4lT3A) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [SIRIO](https://open.spotify.com/album/12ezRjJUICPhvnJiZQ7A5k) | 2:51 | 2022-12-22 | 2023-01-27 |
 | [PIOVE \(Concertos\)](https://open.spotify.com/track/4rqFWEYlbjNs7QNHSPbdcr) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [SIRIO \(Concertos\)](https://open.spotify.com/album/5q8ZljcjeDcEhCZ7pe0WaA) | 2:51 | 2022-12-15 | 2022-12-24 |
 | [PIOVE \(feat\. Sfera Ebbasta\)](https://open.spotify.com/track/6BUueuMQR4k7CuoMEsnGou) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [SIRIO](https://open.spotify.com/album/2v7KXdLrb81rGL9G7jwcjF) | 2:35 | 2022-05-09 | 2022-12-09 |
-| [PIUUuuuuuUuuuUu \(feat\. Ghali\)](https://open.spotify.com/track/3SRvMkxdbQS9gNTHiLaa8v) | [Astro](https://open.spotify.com/artist/2pzFTbri7ew8mW2CbYpCNq), [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L) | [ASTRO](https://open.spotify.com/album/3MgibgQ9ES2OCG073TNXuG) | 2:40 | 2024-10-03 |  |
+| [PIUUuuuuuUuuuUu \(feat\. Ghali\)](https://open.spotify.com/track/3SRvMkxdbQS9gNTHiLaa8v) | [Astro](https://open.spotify.com/artist/2pzFTbri7ew8mW2CbYpCNq), [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L) | [ASTRO](https://open.spotify.com/album/3MgibgQ9ES2OCG073TNXuG) | 2:40 | 2024-10-03 | 2024-10-10 |
 | [Più Forte \(feat\. Salmo\)](https://open.spotify.com/track/0xJrRtWFSGuo3oGOzsB2xa) | [Deda](https://open.spotify.com/artist/4KN711o3mFp6SBoV6ApRmG), [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW) | [House Party](https://open.spotify.com/album/2b3i8KAQ8vb3BAdNf9oFfy) | 2:05 | 2022-11-07 | 2022-11-18 |
 | [Plaquette](https://open.spotify.com/track/2r3tMClmk1Cw974ByW20ny) | [Nabi](https://open.spotify.com/artist/5CqlDzj8DSqsklkXuTYfSd) | [Plaquette](https://open.spotify.com/album/2VGAKLqF0nTWezZINNzccY) | 2:38 | 2022-09-05 | 2023-03-18 |
 | [PLAYA](https://open.spotify.com/track/17gGHgOJMGl1R6vdPTkgxT) | [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3), [MILES](https://open.spotify.com/artist/1gs79u8PKkWAW1yfymbkTt) | [TRENCHES BABY](https://open.spotify.com/album/2hR7F1mFXBaSuGE9dL1B7i) | 2:17 | 2023-02-06 | 2023-03-22 |

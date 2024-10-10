@@ -446,7 +446,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-10",
       "duration_ms": 144672,
       "name": "Agu\u00e1ntala",
       "url": "https://open.spotify.com/track/0yTv8zIpgEdmqvPAteE2OY"
@@ -1751,6 +1751,28 @@
     },
     {
       "album": {
+        "name": "CHAPA",
+        "url": "https://open.spotify.com/album/0dNtIStGkXFYTSdyfMxC2G"
+      },
+      "artists": [
+        {
+          "name": "Yailin la Mas Viral",
+          "url": "https://open.spotify.com/artist/4ncaw2cfA3Wlly1tBD2eWt"
+        },
+        {
+          "name": "Puyalo Pantera",
+          "url": "https://open.spotify.com/artist/5O5qjKWtduHgXxeEYbbSxz"
+        }
+      ],
+      "date_added": "2024-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120052,
+      "name": "CHAPA",
+      "url": "https://open.spotify.com/track/4uFYkBaLGIhBaLT9KbhyPt"
+    },
+    {
+      "album": {
         "name": "Che Che",
         "url": "https://open.spotify.com/album/2nidUL9BkkQL6TsHN5JGwS"
       },
@@ -2688,7 +2710,7 @@
       ],
       "date_added": "2024-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-10",
       "duration_ms": 148850,
       "name": "Dale 2",
       "url": "https://open.spotify.com/track/7eYg1DaZOkTUJbMpzTAfhl"
@@ -5032,7 +5054,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-10",
       "duration_ms": 165123,
       "name": "Flow Sexy",
       "url": "https://open.spotify.com/track/1aaNLFSkrqqM6KtBFjS2Hj"
@@ -5094,6 +5116,24 @@
       "duration_ms": 112682,
       "name": "Frename En El Party Sin Panty",
       "url": "https://open.spotify.com/track/3h4brm7AUNiZZ7wboMkWni"
+    },
+    {
+      "album": {
+        "name": "Frename Tu",
+        "url": "https://open.spotify.com/album/2WabPD8erz2wSaYvJIjzPa"
+      },
+      "artists": [
+        {
+          "name": "Donaty",
+          "url": "https://open.spotify.com/artist/2dHbjVgpO3NvzY8D7yZvji"
+        }
+      ],
+      "date_added": "2024-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135468,
+      "name": "Frename Tu",
+      "url": "https://open.spotify.com/track/6RZO9DJFeRJc1PC1eyx2z5"
     },
     {
       "album": {
@@ -5340,6 +5380,36 @@
       "duration_ms": 173389,
       "name": "Gogo Dance",
       "url": "https://open.spotify.com/track/6riuMNiPqRmE4LPJZGzIuv"
+    },
+    {
+      "album": {
+        "name": "Gomita En Leder",
+        "url": "https://open.spotify.com/album/2OuCk5xsQBxXsN81L6V8Mk"
+      },
+      "artists": [
+        {
+          "name": "Caracol Music",
+          "url": "https://open.spotify.com/artist/0XbslaRM1Dqf8nQYOAIwcQ"
+        },
+        {
+          "name": "Mafeo 13",
+          "url": "https://open.spotify.com/artist/7FLtPxysebJtEIfpPQSSW4"
+        },
+        {
+          "name": "La Diossa",
+          "url": "https://open.spotify.com/artist/02FuCWc45oL6xmKbyMw84O"
+        },
+        {
+          "name": "Endie Rap",
+          "url": "https://open.spotify.com/artist/0DTc15tjHp3cUAdtbidqtI"
+        }
+      ],
+      "date_added": "2024-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139366,
+      "name": "Gomita En Leder",
+      "url": "https://open.spotify.com/track/5Mz6qHgVxbLgHwG3zZvJCl"
     },
     {
       "album": {
@@ -7820,6 +7890,32 @@
     {
       "album": {
         "name": "Malita",
+        "url": "https://open.spotify.com/album/2jWQrSZG6u94EP7Up0nbOW"
+      },
+      "artists": [
+        {
+          "name": "Bigoblin",
+          "url": "https://open.spotify.com/artist/38m9i1Ro4UpoMLGuRm6bwq"
+        },
+        {
+          "name": "Diente 27",
+          "url": "https://open.spotify.com/artist/6xd0K53X7gTj4dQAkwgnUf"
+        },
+        {
+          "name": "Recio DC",
+          "url": "https://open.spotify.com/artist/4tKN6qTebwNBUxqLIZpaGd"
+        }
+      ],
+      "date_added": "2024-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127740,
+      "name": "Malita",
+      "url": "https://open.spotify.com/track/24pzUVZLNwEMXyYwd9Uz9h"
+    },
+    {
+      "album": {
+        "name": "Malita",
         "url": "https://open.spotify.com/album/3lv3UmfY1wvWAoWNanfMSg"
       },
       "artists": [
@@ -9712,6 +9808,24 @@
       "duration_ms": 143622,
       "name": "No Te Pue Quilla",
       "url": "https://open.spotify.com/track/7z7UiZNczRd5UHGXoSSbXC"
+    },
+    {
+      "album": {
+        "name": "Normal",
+        "url": "https://open.spotify.com/album/6sPdNu6XrHybpSFucseqQZ"
+      },
+      "artists": [
+        {
+          "name": "El Super Nuevo",
+          "url": "https://open.spotify.com/artist/3hWKGRKwr78bhxvErSJBdu"
+        }
+      ],
+      "date_added": "2024-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163196,
+      "name": "Normal",
+      "url": "https://open.spotify.com/track/4e7frW6iqFPOJyeY3KFvmU"
     },
     {
       "album": {
@@ -12599,6 +12713,28 @@
     },
     {
       "album": {
+        "name": "Ruleta",
+        "url": "https://open.spotify.com/album/6R0t7vOuRIeUvmJAzLnQtL"
+      },
+      "artists": [
+        {
+          "name": "Wander Love",
+          "url": "https://open.spotify.com/artist/4gPLblkCTiViD8GqD532Nd"
+        },
+        {
+          "name": "Puyalo Pantera",
+          "url": "https://open.spotify.com/artist/5O5qjKWtduHgXxeEYbbSxz"
+        }
+      ],
+      "date_added": "2024-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127403,
+      "name": "Ruleta",
+      "url": "https://open.spotify.com/track/5cGtiTBxgkS0WA33vfdlyW"
+    },
+    {
+      "album": {
         "name": "Rumores",
         "url": "https://open.spotify.com/album/4HBPblhebCHCAdy8RVtXdR"
       },
@@ -12816,7 +12952,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-10",
       "duration_ms": 120994,
       "name": "Se No Gaste",
       "url": "https://open.spotify.com/track/0R8B8WYvdLLUXrtNDL11Wb"
@@ -13294,7 +13430,7 @@
       ],
       "date_added": "2024-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-10",
       "duration_ms": 138149,
       "name": "Sitema",
       "url": "https://open.spotify.com/track/7emYlW6mDTOg9P3qQK1v6S"
@@ -13356,6 +13492,24 @@
       "duration_ms": 146949,
       "name": "Son Pancho",
       "url": "https://open.spotify.com/track/4KZIUqzzy3nCtThG4WuBLw"
+    },
+    {
+      "album": {
+        "name": "Son Rata",
+        "url": "https://open.spotify.com/album/2WaIbu9pdrLWnk1GJPAHyG"
+      },
+      "artists": [
+        {
+          "name": "La Mas Doll",
+          "url": "https://open.spotify.com/artist/0PPgD3dY7wrxsMe021mByK"
+        }
+      ],
+      "date_added": "2024-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143582,
+      "name": "Son Rata",
+      "url": "https://open.spotify.com/track/4vs4bZimCj5DBpHqguNDLF"
     },
     {
       "album": {
@@ -15336,7 +15490,7 @@
       ],
       "date_added": "2024-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-10",
       "duration_ms": 93105,
       "name": "TOPALE",
       "url": "https://open.spotify.com/track/7Esy39QzAmVRexSxm8u4JU"
@@ -15834,7 +15988,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-10",
       "duration_ms": 112727,
       "name": "Tu Vera L\u00edo",
       "url": "https://open.spotify.com/track/0GTJfuNoImFQKTRE5zJkYz"

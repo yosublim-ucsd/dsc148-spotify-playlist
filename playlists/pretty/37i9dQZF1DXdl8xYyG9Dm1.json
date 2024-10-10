@@ -1,6 +1,6 @@
 {
   "description": "The latest straight bars and Afro-Trap. Cover: Phyno",
-  "num_followers": 159056,
+  "num_followers": 159100,
   "original_name": "Afro Bars ",
   "owner": {
     "name": "Spotify",
@@ -1087,6 +1087,26 @@
     {
       "added_at": "2024-10-08 10:31:34",
       "album": {
+        "name": "Shame On You",
+        "url": "https://open.spotify.com/album/4G3lVmi0yRIpMR6E7sTi4e"
+      },
+      "artists": [
+        {
+          "name": "Prettyboy D-O",
+          "url": "https://open.spotify.com/artist/76qtJqxLY1aXEPHxAJui7y"
+        },
+        {
+          "name": "Phyno",
+          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
+        }
+      ],
+      "duration_ms": 186796,
+      "name": "Shame On You",
+      "url": "https://open.spotify.com/track/2gxmTn6ivNJ1O6a38kVyU2"
+    },
+    {
+      "added_at": "2024-10-08 10:31:34",
+      "album": {
         "name": "No Love In Lagos",
         "url": "https://open.spotify.com/album/3qUxHQMBLeBWsBTkPnhXb3"
       },
@@ -1107,26 +1127,6 @@
       "duration_ms": 189199,
       "name": "No Love In Lagos",
       "url": "https://open.spotify.com/track/3S612TExInLWnYOsQ9Ti9y"
-    },
-    {
-      "added_at": "2024-10-08 10:31:34",
-      "album": {
-        "name": "Shame On You",
-        "url": "https://open.spotify.com/album/4G3lVmi0yRIpMR6E7sTi4e"
-      },
-      "artists": [
-        {
-          "name": "Prettyboy D-O",
-          "url": "https://open.spotify.com/artist/76qtJqxLY1aXEPHxAJui7y"
-        },
-        {
-          "name": "Phyno",
-          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
-        }
-      ],
-      "duration_ms": 186796,
-      "name": "Shame On You",
-      "url": "https://open.spotify.com/track/2gxmTn6ivNJ1O6a38kVyU2"
     },
     {
       "added_at": "2024-10-08 10:31:34",

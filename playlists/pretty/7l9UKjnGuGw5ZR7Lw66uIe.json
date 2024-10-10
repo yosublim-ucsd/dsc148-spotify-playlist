@@ -6,7 +6,7 @@
     "name": "Mert \u00c7odur",
     "url": "https://open.spotify.com/user/mertcodur"
   },
-  "snapshot_id": "AAAAY57Sy2aUIpbuvyjlwY1xylxmmM+z",
+  "snapshot_id": "AAAAZ6xSmP07atUSS3faGo/YrpNHi4uc",
   "tracks": [
     {
       "added_at": "2024-09-13 09:42:13",
@@ -41,22 +41,6 @@
       "url": "https://open.spotify.com/track/1hfeCUFMbRuTGH1e14LBYC"
     },
     {
-      "added_at": "2024-01-26 00:16:00",
-      "album": {
-        "name": "yine bana kal",
-        "url": "https://open.spotify.com/album/59ACJKAX7mYDjX8lwIXCTX"
-      },
-      "artists": [
-        {
-          "name": "Mert \u00c7odur",
-          "url": "https://open.spotify.com/artist/2qc9hUbCzCqU3svfjrs1Tg"
-        }
-      ],
-      "duration_ms": 183900,
-      "name": "yine bana kal",
-      "url": "https://open.spotify.com/track/5XXXU9Nx21Klm3vZwyC9V2"
-    },
-    {
       "added_at": "2022-07-27 11:18:26",
       "album": {
         "name": "Harbi G\u00fczel",
@@ -73,6 +57,38 @@
       "url": "https://open.spotify.com/track/34NtMvhl3m4w4MnrBQPXsN"
     },
     {
+      "added_at": "2024-01-26 00:16:00",
+      "album": {
+        "name": "yine bana kal",
+        "url": "https://open.spotify.com/album/59ACJKAX7mYDjX8lwIXCTX"
+      },
+      "artists": [
+        {
+          "name": "Mert \u00c7odur",
+          "url": "https://open.spotify.com/artist/2qc9hUbCzCqU3svfjrs1Tg"
+        }
+      ],
+      "duration_ms": 183900,
+      "name": "yine bana kal",
+      "url": "https://open.spotify.com/track/5XXXU9Nx21Klm3vZwyC9V2"
+    },
+    {
+      "added_at": "2023-06-24 08:47:54",
+      "album": {
+        "name": "Derin Mevzular",
+        "url": "https://open.spotify.com/album/0WvQu884CNsdFUNJt067MX"
+      },
+      "artists": [
+        {
+          "name": "Murat Boz",
+          "url": "https://open.spotify.com/artist/53oeVgECSa18dkHBQ9X6Eh"
+        }
+      ],
+      "duration_ms": 171392,
+      "name": "Derin Mevzular",
+      "url": "https://open.spotify.com/track/65jBnp5troNslpir74QATL"
+    },
+    {
       "added_at": "2022-07-27 11:18:38",
       "album": {
         "name": "serseri tesad\u00fcf",
@@ -87,6 +103,22 @@
       "duration_ms": 146119,
       "name": "serseri tesad\u00fcf",
       "url": "https://open.spotify.com/track/3lTwSeaCQWfJD2YjCZCYPs"
+    },
+    {
+      "added_at": "2023-07-20 21:41:56",
+      "album": {
+        "name": "Yasak Elma",
+        "url": "https://open.spotify.com/album/6snMnEqWZmnO7kKqYxXDre"
+      },
+      "artists": [
+        {
+          "name": "\u0130lyas Yal\u00e7\u0131nta\u015f",
+          "url": "https://open.spotify.com/artist/2ekGsQEkeMtYFA16Jjes2M"
+        }
+      ],
+      "duration_ms": 221330,
+      "name": "Yasak Elma",
+      "url": "https://open.spotify.com/track/6aoqegk05KuhE77zFHDTAD"
     },
     {
       "added_at": "2024-03-01 14:48:03",
@@ -151,38 +183,6 @@
       "duration_ms": 168948,
       "name": "\u0130zleri Belli",
       "url": "https://open.spotify.com/track/2dxXmAftbqWGxsxYdMkmS3"
-    },
-    {
-      "added_at": "2023-07-20 21:41:56",
-      "album": {
-        "name": "Yasak Elma",
-        "url": "https://open.spotify.com/album/6snMnEqWZmnO7kKqYxXDre"
-      },
-      "artists": [
-        {
-          "name": "\u0130lyas Yal\u00e7\u0131nta\u015f",
-          "url": "https://open.spotify.com/artist/2ekGsQEkeMtYFA16Jjes2M"
-        }
-      ],
-      "duration_ms": 221330,
-      "name": "Yasak Elma",
-      "url": "https://open.spotify.com/track/6aoqegk05KuhE77zFHDTAD"
-    },
-    {
-      "added_at": "2023-06-24 08:47:54",
-      "album": {
-        "name": "Derin Mevzular",
-        "url": "https://open.spotify.com/album/0WvQu884CNsdFUNJt067MX"
-      },
-      "artists": [
-        {
-          "name": "Murat Boz",
-          "url": "https://open.spotify.com/artist/53oeVgECSa18dkHBQ9X6Eh"
-        }
-      ],
-      "duration_ms": 171392,
-      "name": "Derin Mevzular",
-      "url": "https://open.spotify.com/track/65jBnp5troNslpir74QATL"
     },
     {
       "added_at": "2022-07-29 11:24:38",

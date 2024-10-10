@@ -1,6 +1,6 @@
 {
   "description": "Happy songs and good vibes! A real mood booster sure to make you smile and keep you feelin\u2019 good \ud83d\ude0a \ud83d\ude0a \ud83d\ude0a Perfect for road trips and singing in the shower! ",
-  "num_followers": 489590,
+  "num_followers": 489582,
   "original_name": "100 Uplifting Songs",
   "owner": {
     "name": "Topsify",
@@ -1260,10 +1260,6 @@
       },
       "artists": [
         {
-          "name": "Macklemore & Ryan Lewis",
-          "url": "https://open.spotify.com/artist/6WLvgbfYXQPO396oJEYCsi"
-        },
-        {
           "name": "Macklemore",
           "url": "https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY"
         },
@@ -1272,12 +1268,16 @@
           "url": "https://open.spotify.com/artist/4myTppRgh0rojLxx8RycOp"
         },
         {
+          "name": "Macklemore & Ryan Lewis",
+          "url": "https://open.spotify.com/artist/6WLvgbfYXQPO396oJEYCsi"
+        },
+        {
           "name": "Ray Dalton",
           "url": "https://open.spotify.com/artist/4e0nWw2r4BoQSKPQ2zpU13"
         }
       ],
       "duration_ms": 258342,
-      "name": "Can't Hold Us (feat. Ray Dalton)",
+      "name": "Can't Hold Us",
       "url": "https://open.spotify.com/track/3bidbhpOYeV4knp8AIu8Xn"
     },
     {

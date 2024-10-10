@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-[Moving Castle](https://open.spotify.com/user/moving-castle) - 20,667 likes - 113 songs - 6 hr 32 min
+[Moving Castle](https://open.spotify.com/user/moving-castle) - 20,666 likes - 114 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -121,5 +121,6 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 | 111 | [Spiritual Psychosis](https://open.spotify.com/track/2DSI1VpSW9WL5GrsZQpM8L) | [Nala](https://open.spotify.com/artist/2rTvgpXa8PA62yBCfwdQxf) | [Spiritual Psychosis](https://open.spotify.com/album/0n1zjBxdidnEEM4z04Axm6) | 3:54 |
 | 112 | [Closer](https://open.spotify.com/track/77seRPoDM8XqbaYVNHoVmy) | [Slow Magic](https://open.spotify.com/artist/3htNAy3vYWWYV8RZFeyRMT), [Angela Krüsi](https://open.spotify.com/artist/76VaLarlPXHMQ3TFPE6YI1) | [How To Run Away \- 10 Year Bonus Disk](https://open.spotify.com/album/77I6SPJYTyBuuIkjs6Eetq) | 4:10 |
 | 113 | [Vertigo \(feat\. Ed Graves\)](https://open.spotify.com/track/7F03sInpzWDRMC4k4U0Pxj) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9), [Ed Graves](https://open.spotify.com/artist/1Kkcm36k22FT1RWcINq4sI) | [Vertigo \(feat\. Ed Graves\)](https://open.spotify.com/album/3z8WLzALtiavIJrUB22xGB) | 2:28 |
+| 114 | [Say My Name](https://open.spotify.com/track/6QsDAv7zJO62zgtG10qyPO) | [PASSPORT](https://open.spotify.com/artist/5F8uZfcb8vSjCAtsLSVWOL) | [Say My Name](https://open.spotify.com/album/5uWHA7bkYPLcyMZsC8nTwn) | 3:31 |
 
-Snapshot ID: `AAAqMbbqJZzkTYQVsKyIXoA+WM7oYrV/`
+Snapshot ID: `AAAqMqbes05NAzmRkJYassXD43dqaai1`

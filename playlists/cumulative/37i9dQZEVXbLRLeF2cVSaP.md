@@ -4,7 +4,7 @@
 
 > Your weekly update of the most played tracks right now \- Belarus.
 
-219 songs - 9 hr 35 min
+220 songs - 9 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -212,7 +212,8 @@
 | [Целую](https://open.spotify.com/track/22Gx9ozLJwjo4fBgoSw7y9) | [Pepel Nahudi](https://open.spotify.com/artist/4AM93R2m6QIKGPWH6QILF3) | [Целую](https://open.spotify.com/album/5MMOUwDx6k2gxYw1CifHY7) | 1:48 | 2024-04-19 | 2024-05-11 |
 | [Час](https://open.spotify.com/track/4mVDYu5SYxeKK9BhEnlstT) | [Vivienne Mort](https://open.spotify.com/artist/6mQd5HeHhMBZK8u2bTCduH) | [Досвід](https://open.spotify.com/album/44prQVO4fIoqf2qQYy0Eyq) | 3:20 | 2024-05-17 | 2024-06-01 |
 | [Четыре тридцать](https://open.spotify.com/track/4GBfKfnvmcTcNrlJcV4OLV) | [Violetta Sokolova](https://open.spotify.com/artist/7K2PBAFUE98RKu30clhIms) | [Четыре тридцать](https://open.spotify.com/album/6EspHfqFwGFqqUTLDXJLs1) | 2:13 | 2024-04-12 |  |
-| [Чио\-Чио\-сан](https://open.spotify.com/track/5eRiD1X9qiWRnL9QQAtq2V) | [Car\-Man](https://open.spotify.com/artist/1m5PTRE24aukZ7h4y5ebGF) | [Вокруг света](https://open.spotify.com/album/1cAWbHu8Cr5ovfa4IinouC) | 4:58 | 2024-09-20 |  |
+| [Чио\-Чио\-сан](https://open.spotify.com/track/5eRiD1X9qiWRnL9QQAtq2V) | [Car\-Man](https://open.spotify.com/artist/1m5PTRE24aukZ7h4y5ebGF) | [Вокруг света](https://open.spotify.com/album/1cAWbHu8Cr5ovfa4IinouC) | 4:58 | 2024-09-20 | 2024-10-10 |
+| [Чио\-Чио\-сан](https://open.spotify.com/track/7EiKxuiZMwu0aB4L751UNF) | [Car\-Man](https://open.spotify.com/artist/1m5PTRE24aukZ7h4y5ebGF) | [Вокруг света](https://open.spotify.com/album/1D7hTp6qJeR4oy7haZtGXU) | 4:58 | 2024-10-04 |  |
 | [ЧСВ](https://open.spotify.com/track/05wSx129HwVCEpXpjAXn6X) | [Lida](https://open.spotify.com/artist/0ChMIwzbYxHbebgoPeETfV), [СЕРЕГА ПИРАТ](https://open.spotify.com/artist/5IS4dQ9lDW01IY1buR7bW7) | [ЧСВ](https://open.spotify.com/album/7thnTMZ6YHfUgaARJIl0eG) | 3:20 | 2024-02-09 | 2024-09-20 |
 | [ЧСВ](https://open.spotify.com/track/76CHKMe1uNd7IgZeCZufhs) | [Lida](https://open.spotify.com/artist/0ChMIwzbYxHbebgoPeETfV), [СЕРЕГА ПИРАТ](https://open.spotify.com/artist/5IS4dQ9lDW01IY1buR7bW7) | [ЧСВ](https://open.spotify.com/album/2ovhIwGFtFVmw50hOT10N8) | 3:20 | 2024-09-13 |  |
 | [Шоколадка](https://open.spotify.com/track/0iLaVAFazlX7I9VdIBFulE) | [Минаева](https://open.spotify.com/artist/0zR4pGeKJictWoIOwPYbYZ) | [Шоколадка](https://open.spotify.com/album/3zF5GBYnMldcJq1eTYZYLd) | 2:48 | 2024-07-12 | 2024-09-07 |

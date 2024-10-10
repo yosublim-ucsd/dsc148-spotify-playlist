@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pzlFKAwpZ5.md) - [plain]
 
 > The calming space of Japanese Ambient and Environmental music\. Kenichiro Isoda on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,931 likes - 167 songs - 12 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,005 likes - 167 songs - 12 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

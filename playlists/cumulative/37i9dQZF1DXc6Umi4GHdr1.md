@@ -4,7 +4,7 @@
 
 > Acoustic instrumental guitar to help focus the mind and concentrate on the task at hand.
 
-390 songs - 17 hr 20 min
+391 songs - 17 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -272,6 +272,7 @@
 | [Rippling Waters](https://open.spotify.com/track/2CJYWfBlOJ9WWoi5ynPMDf) | [Argun North](https://open.spotify.com/artist/4jjr4BcdHYLSoU3Ba1pq9Q) | [Rippling Waters](https://open.spotify.com/album/6vbPmAiYbJaGwsE3Ieli13) | 2:23 | 2023-10-13 |  |
 | [Road To Pappy's](https://open.spotify.com/track/4e9rBrNPDRoXqlT2anxvmu) | [Jaimie Escalera](https://open.spotify.com/artist/3Cbyi7uVS7E3c4XtlEdS0B) | [Road To Pappy's](https://open.spotify.com/album/17n0YzedIGhgxEKFgvNZmf) | 2:33 | 2023-05-26 | 2023-06-16 |
 | [Saint Michel](https://open.spotify.com/track/1vx0RMtjAs0ZiLKXTsIxzA) | [Tomas North](https://open.spotify.com/artist/1JfHydBw6fmjakoFxPjDbF) | [Saint Michel](https://open.spotify.com/album/5B6U8Kx1LppXVW0FivQdLS) | 2:47 | 2024-02-23 |  |
+| [Salt Water](https://open.spotify.com/track/4qO8z8SUzeYLBeG3Mp7aqV) | [Oceane Bardot](https://open.spotify.com/artist/4YYQ7Q0261K5rIEs0SQZIi) | [Salt Water](https://open.spotify.com/album/4MnldJg70rWC1FR5wlKtcu) | 2:46 | 2024-10-09 |  |
 | [Sanremo](https://open.spotify.com/track/242E5RUG5gjHgZa7PjOUNg) | [Finlep](https://open.spotify.com/artist/1CIIFCOCvjPkzlNRxw0XNp) | [Sanremo](https://open.spotify.com/album/6rgFGj3GbupAuYNeG38r7f) | 2:34 | 2023-11-24 | 2024-01-12 |
 | [Sans Toi](https://open.spotify.com/track/0gYgdEiS0wNp4OFllLrpr3) | [Loane Tellier](https://open.spotify.com/artist/6xKXSveUUJyAIZAOCnnSvS) | [Sans Toi \- Guitar](https://open.spotify.com/album/38NCkRjEp9lwz3GmRQOyeq) | 2:18 | 2023-01-20 | 2024-06-07 |
 | [Santorini](https://open.spotify.com/track/0rx4tPhXaiVrpglMzVLVbj) | [Marino Calle](https://open.spotify.com/artist/7B5DgVnyn7BhJ3gWxIWCYJ) | [Santorini](https://open.spotify.com/album/0Ipg8tK3kvzke2pNfPVFSz) | 2:09 | 2023-10-13 |  |

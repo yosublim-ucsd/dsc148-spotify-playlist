@@ -2,9 +2,9 @@
 
 ### [Jazzy Korea](https://open.spotify.com/playlist/37i9dQZF1DX3Cii9ioWjQP)
 
-> All about Korean Jazz hits & new \(Cover: YUJIN KIM\(김유진\)\)
+> All about Korean Jazz hits & new \(Cover: John Park\(존박\)\)
 
-219 songs - 15 hr 43 min
+222 songs - 15 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Bird+Disposable \- Live at Nodeul Live House, 2021](https://open.spotify.com/track/0HXDnoDxJh6uMv0lE3tikE) | [Kim Sawol](https://open.spotify.com/artist/08J6v4qHZz06ua0qAicWmE) | [1202 \(Live at Nodeul Live House, 2021\)](https://open.spotify.com/album/3bojTh831YuLITkk3ncNjh) | 4:51 | 2022-05-03 | 2024-08-11 |
 | [Blue in LED](https://open.spotify.com/track/1RuirFlIK2j9dlHoIUATWo) | [윤청미](https://open.spotify.com/artist/2ZzUbppeRa137R18Cxgj4A) | [Blue in LED](https://open.spotify.com/album/140zLUWx5AHU4b9PbDjaTI) | 3:30 | 2022-05-03 | 2022-07-29 |
 | [Blue in Led](https://open.spotify.com/track/1xZB3IMZ3LSbDoborownFf) | [윤청미](https://open.spotify.com/artist/05uzbpyy2ouCUFKFsmhiwV) | [Blue in Led](https://open.spotify.com/album/0wa11yZGqW3kCVb46jmKZD) | 3:30 | 2022-07-08 | 2023-02-08 |
+| [BLUFF](https://open.spotify.com/track/6ByYCzySGJ0zfQus2J4NKc) | [John Park](https://open.spotify.com/artist/4mbvd7ZJ2goftjy1L33LiB) | [BLUFF](https://open.spotify.com/album/0D5vrxdURqpeLD63v8BCWL) | 3:09 | 2024-10-09 |  |
 | [Bohemian](https://open.spotify.com/track/2ragyAOyclvs6CaBEE3Ouw) | [Gypsum](https://open.spotify.com/artist/6qV7FBGBGmMOuGRW8gzuP8) | [Bohemian](https://open.spotify.com/album/4yu5JDYqSwsPnO0gozaW6Q) | 4:18 | 2022-05-18 | 2023-12-13 |
 | [Bossa Nova Café](https://open.spotify.com/track/1CpFmDDFvPvKP386r04vNV) | [LeoSky](https://open.spotify.com/artist/2fz0R4dgBTTnSR3G7nrO0G) | [Romantic Bossa Nova Jazz](https://open.spotify.com/album/39MI6zpDha8UnD2BTDdm3v) | 2:03 | 2024-08-05 |  |
 | [Breeze](https://open.spotify.com/track/5XhtsFFa0x6T68RU228Eql) | [sangjun kim](https://open.spotify.com/artist/5ActYrw5XC68RWkNGXrysv) | [Breeze](https://open.spotify.com/album/4cGVSpkczCuwfsbLNjbx7v) | 3:08 | 2023-07-24 | 2024-04-19 |
@@ -78,7 +79,7 @@
 | [Fine waltz](https://open.spotify.com/track/1tMb4mpIGMZV1uzvyiyWmT) | [U.BAR.E](https://open.spotify.com/artist/547Oa355hQl5ynq8QFfmb8) | [Fine waltz](https://open.spotify.com/album/4mVDoFaBRlGVTjw3V8fa99) | 3:14 | 2024-09-27 |  |
 | [Fly Me to the Moon](https://open.spotify.com/track/3QdsLBxfpAF6Nu7HBiC0GC) | [Serena Ahn JAZZSTRA](https://open.spotify.com/artist/3qMlNc8pwmvn91eWfzXXKG) | [JAZZSTRA Live in Seoul](https://open.spotify.com/album/6z1JQGfmRc9rRqswuqR5jw) | 4:29 | 2024-09-04 |  |
 | [FOGGY PLATFORM](https://open.spotify.com/track/1v4jgYpz0sdjbVvOP6fZCW) | [STUDIO360 GROUP](https://open.spotify.com/artist/6SYYPeNmfh2jtwVED2LLgO) | [MUSIC FOR WAITING ROOMS Vol.1](https://open.spotify.com/album/4M3JlJA3T13e6fWk3Yz7SB) | 4:36 | 2022-11-11 | 2023-02-08 |
-| [Folding firepot](https://open.spotify.com/track/7GSZVMov9m9UO55csoY8WZ) | [JAZZ DELUXE](https://open.spotify.com/artist/3H8yiLBISn9K5xYWDqW8ZM) | [Camping \#1](https://open.spotify.com/album/4eCz3zgtU464qVb8FRUeib) | 3:00 | 2022-11-11 |  |
+| [Folding firepot](https://open.spotify.com/track/7GSZVMov9m9UO55csoY8WZ) | [JAZZ DELUXE](https://open.spotify.com/artist/3H8yiLBISn9K5xYWDqW8ZM) | [Camping \#1](https://open.spotify.com/album/4eCz3zgtU464qVb8FRUeib) | 3:00 | 2022-11-11 | 2024-10-10 |
 | [forever](https://open.spotify.com/track/1zgGCWMf6OOh2IP7OmkI03) | [Love recipe](https://open.spotify.com/artist/5N3TjdglYn7FkcNU4Rcyzu) | [First time ..\. ing](https://open.spotify.com/album/5wtn5mvEtk7f1qDqQrE0Ax) | 3:50 | 2022-06-13 | 2024-08-11 |
 | [gray hair](https://open.spotify.com/track/65mCrA8bRPqvmlhdFBRzHC) | [U\-jin](https://open.spotify.com/artist/3ho6nC4QjX2r8PyaVyHlCS) | [Gray hair](https://open.spotify.com/album/6yHmPMWk2l1hBxVg3i3snm) | 2:16 | 2023-02-07 |  |
 | [gut](https://open.spotify.com/track/6b1Y86a4rk8mhuPi3qFtkG) | [Q the trumpet](https://open.spotify.com/artist/6s38y5NrMJQEEaA71NqYHW) | [Research Daily 2](https://open.spotify.com/album/5k9SMcIDginQmvq6xWGEYh) | 3:48 | 2024-08-29 |  |
@@ -100,6 +101,7 @@
 | [Late Autumn](https://open.spotify.com/track/3mi9ZwNuK4rG3nVyAZJajb) | [Heather](https://open.spotify.com/artist/4vE4SByWj4geUQdjZvyl9g) | [Late Autumn](https://open.spotify.com/album/1qhO8rdnpTvvrlwyYOcHdM) | 3:15 | 2022-11-11 | 2024-09-20 |
 | [Late Autumn](https://open.spotify.com/track/5HJu3wKHXUdcOs0wnjpNJQ) | [헤더](https://open.spotify.com/artist/72FPeJpnV2CQjdHRbrpehd) | [Late Autumn](https://open.spotify.com/album/4VkQFeNsVftX92t9LDphLk) | 3:15 | 2023-07-24 | 2024-04-19 |
 | [let it flow](https://open.spotify.com/track/4tiw4EJUBYiyaCRZBeWNPd) | [Sunji Lee](https://open.spotify.com/artist/6JBv1lNpxPnxf2f4AxImDM) | [Oscillations](https://open.spotify.com/album/6aaHSGnPbyhjzjnHdKwIIv) | 6:12 | 2022-05-03 | 2022-05-19 |
+| [Letter](https://open.spotify.com/track/1pZqS2Juur0Nf0BNNhkzKW) | [MINHA KIM](https://open.spotify.com/artist/4uo8oZ3O0bUE6ZNZi92kam) | [Letter](https://open.spotify.com/album/1xBRgLBCMSBTaME0h4ohHt) | 3:45 | 2024-10-09 |  |
 | [Light \(Feat\. Junguk\)](https://open.spotify.com/track/77SWtlPS2Y4ijijx4Ucgbp) | [minzunki](https://open.spotify.com/artist/6gj5VZHLST9DF4D5LTek65), [Junguk](https://open.spotify.com/artist/0r0UiX83K8j121ilLGAX8k) | [Light \(Feat\. Junguk\)](https://open.spotify.com/album/5QqP080KIO26a5XvDNX2F5) | 3:49 | 2023-10-16 |  |
 | [Like It](https://open.spotify.com/track/1KK7fQbTsWKeexy76WlvC4) | [Jay Kim](https://open.spotify.com/artist/5CKtSMyg3anlcQvTWMrmxf) | [Like It](https://open.spotify.com/album/1lIsEk6v9PK15vOosHHvXr) | 3:32 | 2022-11-11 | 2024-04-19 |
 | [Little Prince](https://open.spotify.com/track/0pLPPAKpFImzbAwvsSSjhU) | [Slowtea](https://open.spotify.com/artist/2yr3o06a0BFPfZxAqF4beo) | [Little Prince](https://open.spotify.com/album/0bwHRCiwhnjPoxpQtAe6KT) | 3:28 | 2022-05-03 | 2023-02-08 |
@@ -119,6 +121,7 @@
 | [Mother](https://open.spotify.com/track/4yFZI3a9OSWthGSW9G5lFr) | [Mellow Kitchen](https://open.spotify.com/artist/36aNW4upSxSBHoX0I3AmP1) | [Mother](https://open.spotify.com/album/6C8can54DREmXWUC2Gcg6I) | 5:19 | 2023-03-31 |  |
 | [Mother of Life](https://open.spotify.com/track/2z04jhHSFyDGItIEIZMEdM) | [Hyojung Kim](https://open.spotify.com/artist/0dWTzrX6vO7m6kxa3PUnib) | [Mother of Life](https://open.spotify.com/album/1bfCGzV02qVg0x2YodNzBU) | 3:56 | 2023-02-07 |  |
 | [MURMURANDO \(Feat\. Sora Kim\)](https://open.spotify.com/track/3McUaFgYIE6rg1uZdKiysV) | [Hanna Kim](https://open.spotify.com/artist/1H6Flxc2RNT6U7M9Mnmtln), [Sora Kim](https://open.spotify.com/artist/64EAEt7QWeJFOcoaeGl4An) | [MURMURANDO \(Feat\. Sora Kim\)](https://open.spotify.com/album/3nM0J1pMew3uLkUzMdP7No) | 8:13 | 2023-03-31 |  |
+| [MuRR P84\. Journey Through Autumn](https://open.spotify.com/track/4WVnYvAuQVgXN1runmRk9w) | [MuRR](https://open.spotify.com/artist/0jIOKsg5y3wDJuFFS3jngm) | [MuRR P84\. Journey Through Autumn](https://open.spotify.com/album/2BGQGDtlSCfhBYBTNrGKNv) | 4:34 | 2024-10-09 |  |
 | [Nevertheless](https://open.spotify.com/track/0jfwrKYnr9d13wBPeQetsG) | [Mellow Kitchen](https://open.spotify.com/artist/36aNW4upSxSBHoX0I3AmP1) | [Nevertheless](https://open.spotify.com/album/4j00saS37ayCSxeA0JLoUn) | 4:01 | 2023-02-07 |  |
 | [Ninguém](https://open.spotify.com/track/0uZaevs1alt7jzFQNwjY0R) | [HeeKyung Na](https://open.spotify.com/artist/0v7AyJqbUksRKUWHSN5ghz), [Roberto Menescal](https://open.spotify.com/artist/2r1d0isPFggU8QaBzvAWmG) | [BOSSA](https://open.spotify.com/album/1SyzkAuSQqH00Q52udwWoE) | 2:44 | 2024-09-13 |  |
 | [No Jam](https://open.spotify.com/track/0DY6EuQNgZItf5nWrmUsH9) | [Milena](https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n) | [Foggy](https://open.spotify.com/album/6hEj5ZCKdaWUXDq73wGcaN) | 2:47 | 2024-03-14 |  |
@@ -129,7 +132,7 @@
 | [One Way](https://open.spotify.com/track/5bBR2EJlhWg8yS4egKu7mW) | [한석규](https://open.spotify.com/artist/2iMhuN6H9aTtSCnP3ZgYQR) | [One Way](https://open.spotify.com/album/2Yf93imyiTFQajsE5BYvux) | 2:59 | 2024-08-29 |  |
 | [Only One](https://open.spotify.com/track/0Un3kqZvQ77N6YzGc5TzkG) | [Kiik](https://open.spotify.com/artist/5jUF0vJTYlZ6zGKnS9WK7v), [Shin Giwon Piano](https://open.spotify.com/artist/0hKq3u04JU5IuGNSTGyngJ) | [Only One](https://open.spotify.com/album/6Da3vfFcCPL9w0g68L7Gxp) | 1:43 | 2023-07-07 |  |
 | [Orange Sky Highway](https://open.spotify.com/track/5ObPWJEwM5W1wVqHwtgy9f) | [Rofesta Gipsyband](https://open.spotify.com/artist/4ZLcFGWaJ1BqEixadAD6Kp) | [Orange Sky Highway](https://open.spotify.com/album/5Zw6e3qXRwdNfsQ6Nb3a97) | 5:51 | 2022-05-03 | 2022-05-19 |
-| [Origin of Love](https://open.spotify.com/track/5W5MWAP1YIHB7g7CGsyMUu) | [cylinder](https://open.spotify.com/artist/4ydjJObKbtpABiTRVFh2mx) | [Origin of Love](https://open.spotify.com/album/1BCf7rLQVLAtrV8mlDaf7Q) | 3:52 | 2022-12-22 |  |
+| [Origin of Love](https://open.spotify.com/track/5W5MWAP1YIHB7g7CGsyMUu) | [cylinder](https://open.spotify.com/artist/4ydjJObKbtpABiTRVFh2mx) | [Origin of Love](https://open.spotify.com/album/1BCf7rLQVLAtrV8mlDaf7Q) | 3:52 | 2022-12-22 | 2024-10-10 |
 | [Out of the Blue](https://open.spotify.com/track/6HqSsiX26QDecMBJyV5nj3) | [DOWOON](https://open.spotify.com/artist/1iKz9HvP5KMYgjky7mNNZs), [Song Heejin](https://open.spotify.com/artist/2G9WVGhJAmHLg4I68dWFTl) | [Out of the Blue](https://open.spotify.com/album/26bCM8vhKNYMdb2uTNG3jt) | 3:16 | 2022-05-03 | 2022-06-21 |
 | [Pai, Moon, Everything](https://open.spotify.com/track/35o3FZ22ftwNTfbAGSflYZ) | [Mandong](https://open.spotify.com/artist/2Wk4Orq6UQ5KPunF9WHiyd) | [Pai, Moon, Everything](https://open.spotify.com/album/3rBbFBtehaeGhceikBkTFk) | 6:50 | 2023-09-20 |  |
 | [Pamera Waltz](https://open.spotify.com/track/50xIhpMuGbJD6ZGVUoRjaO) | [Hookuo](https://open.spotify.com/artist/6eBZRX3oKGthcmHWR8mpvf) | [Parasol Violet](https://open.spotify.com/album/4er6pRBGJlcvfDsewXfc2D) | 3:26 | 2024-07-19 |  |
@@ -141,7 +144,7 @@
 | [Pleasant Picnic](https://open.spotify.com/track/0E8wShlzhdYlk6rsjPVp8y) | [Gold Groove](https://open.spotify.com/artist/58wAApDuSJLljGr3IIgdlQ) | [Pleasant Picnic](https://open.spotify.com/album/1baRvDw2Ez8iq02DuFIOJo) | 2:28 | 2022-11-11 | 2023-02-08 |
 | [Pray On A Rope](https://open.spotify.com/track/2JPJlvi9ARshM4U6dwmHF2) | [Phil Yoon](https://open.spotify.com/artist/73EDYkCTptRHqBov4HEnX3) | [Pray On A Rope](https://open.spotify.com/album/0rpDRzu9q0XRYVUOJQ2k14) | 8:54 | 2022-05-03 | 2023-10-05 |
 | [Prison of Heart](https://open.spotify.com/track/0XQi48bPn6kIddXudP1t22) | [Song Yong Chang](https://open.spotify.com/artist/5lbGnf9x8fvOQHcSVhKnCS) | [Prison of Heart](https://open.spotify.com/album/1BNrGJf8nhsKFCcS9Kz9BG) | 6:22 | 2023-04-10 |  |
-| [Profile](https://open.spotify.com/track/2U8kKyjv3y0FZ6D1RL6AcR) | [Young Jin Kim](https://open.spotify.com/artist/2znNQLAUycEz4QYAx6wDlO) | [Full Bottle](https://open.spotify.com/album/2GekRFOa2tnNoszyCpZVmD) | 4:40 | 2022-11-11 |  |
+| [Profile](https://open.spotify.com/track/2U8kKyjv3y0FZ6D1RL6AcR) | [Young Jin Kim](https://open.spotify.com/artist/2znNQLAUycEz4QYAx6wDlO) | [Full Bottle](https://open.spotify.com/album/2GekRFOa2tnNoszyCpZVmD) | 4:40 | 2022-11-11 | 2024-10-10 |
 | [Pronounce the Benediction + Messengers](https://open.spotify.com/track/45kvtggm9KeRXjovIvDLbS) | [Kim Seong Hwa Quartet](https://open.spotify.com/artist/5UvwNchXt1PcNIK7nKSe0Y) | [Individual Space Vol.4](https://open.spotify.com/album/3E5HGHHIDP8MC2oBDZrgft) | 14:01 | 2022-05-03 | 2022-05-19 |
 | [Puddle](https://open.spotify.com/track/1MWzNijjV5YR1TbFMfINhf) | [Suwon Yim](https://open.spotify.com/artist/3RRrPqeIvcA2z56DKl0wku), [Paride Pignotti](https://open.spotify.com/artist/13IZQ1OV0jN5it11NANQa2) | [Puddle](https://open.spotify.com/album/0a58Zw9w1uLXAEdiEi68yU) | 6:57 | 2024-08-29 |  |
 | [Puddle](https://open.spotify.com/track/5YXm2b0UsA6Zz8aDzeIRnj) | [Suwon Yim](https://open.spotify.com/artist/3RRrPqeIvcA2z56DKl0wku), [Paride Pignotti](https://open.spotify.com/artist/13IZQ1OV0jN5it11NANQa2) | [Way Back Home](https://open.spotify.com/album/3KyZqznuaRnJk5yrZI3xag) | 6:57 | 2024-09-04 |  |
@@ -188,9 +191,9 @@
 | [Tic Toc](https://open.spotify.com/track/2KnvApXYvFxFU9gqo6bu8o) | [Jue](https://open.spotify.com/artist/10n5khtXYHdljYhDDChKgk) | [Tic Toc](https://open.spotify.com/album/04MoyxTIbTxj4jRhNYfG0T) | 3:29 | 2023-01-13 |  |
 | [Tic Toc](https://open.spotify.com/track/3v8tZDqJGf67V31paDAbd8) | [Jue](https://open.spotify.com/artist/10n5khtXYHdljYhDDChKgk) | [Tic Toc](https://open.spotify.com/album/1pPdybb7qeAsSFyxV2YerW) | 3:29 | 2023-07-24 | 2024-04-19 |
 | [Time \(for Annie\)](https://open.spotify.com/track/4yWXTxic6c42tqgPpnZgOL) | [Sun\-Ho Frank Kim](https://open.spotify.com/artist/0DhWxMIv10oVw73Rkd3Ql7) | [Time](https://open.spotify.com/album/1Nr5iVRskqbUFA846VjmqI) | 3:07 | 2022-05-03 | 2023-02-08 |
-| [Time Flies](https://open.spotify.com/track/7f3VOozkefRBvZRyeEbsYk) | [Hyeonseok Jin](https://open.spotify.com/artist/264pWJmBJCG17xYUGdDWyG) | [Time Flies](https://open.spotify.com/album/0YO5jinKkBWg319JzpRxOt) | 3:37 | 2022-11-11 |  |
+| [Time Flies](https://open.spotify.com/track/7f3VOozkefRBvZRyeEbsYk) | [Hyeonseok Jin](https://open.spotify.com/artist/264pWJmBJCG17xYUGdDWyG) | [Time Flies](https://open.spotify.com/album/0YO5jinKkBWg319JzpRxOt) | 3:37 | 2022-11-11 | 2024-10-10 |
 | [Time of Love](https://open.spotify.com/track/5v3ESa7ytuyb2I2YJbCgPF) | [Leon Ivins](https://open.spotify.com/artist/1rtKDIjSOPLNteccCWJ3ON) | [Glowing Memory Puzzle](https://open.spotify.com/album/4qLsAEK84iy6iJJwb46MMZ) | 3:52 | 2023-07-19 | 2024-08-11 |
-| [Tinker Bell](https://open.spotify.com/track/1nqcPqcAtTvifR4zxuXojJ) | [오수경](https://open.spotify.com/artist/2dnCKQzRsy3Q6CQx9U1ZAA) | [Tinker Bell](https://open.spotify.com/album/5zU3XfdZYXWtADeGGXYOHJ) | 3:01 | 2022-11-11 |  |
+| [Tinker Bell](https://open.spotify.com/track/1nqcPqcAtTvifR4zxuXojJ) | [오수경](https://open.spotify.com/artist/2dnCKQzRsy3Q6CQx9U1ZAA) | [Tinker Bell](https://open.spotify.com/album/5zU3XfdZYXWtADeGGXYOHJ) | 3:01 | 2022-11-11 | 2024-10-10 |
 | [TokTok](https://open.spotify.com/track/6fANOyLyypFGYeo9uzM1X2) | [Jinhee Hong](https://open.spotify.com/artist/1Ezsas1VaOs39tDXRdyTtI) | [TokTok](https://open.spotify.com/album/47BLSR5uu0ZOImlAFwFKo4) | 3:20 | 2022-05-03 | 2022-06-21 |
 | [Travel](https://open.spotify.com/track/3ByEkueYQJCWHT7ZGZMzSj) | [Kim So Yeon](https://open.spotify.com/artist/3t6l8ErtkVQRpMuqfAfBd9) | [Travel](https://open.spotify.com/album/15uxCGogrdVoDxYML1hpxG) | 2:55 | 2023-03-31 |  |
 | [Unrealtime](https://open.spotify.com/track/4U23H3LnIdwLsb3yt6ztvi) | [임광균](https://open.spotify.com/artist/5uNWaCVmTX58YBaaE9E3Nv) | [Unrealtime](https://open.spotify.com/album/5IKEzaDVF1oG4hPwlUP303) | 4:54 | 2023-03-31 |  |

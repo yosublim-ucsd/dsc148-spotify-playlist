@@ -1,6 +1,6 @@
 {
   "description": "Rock unplugged. ",
-  "num_followers": 341338,
+  "num_followers": 341370,
   "original_name": "Stripped Down",
   "owner": {
     "name": "Spotify",
@@ -515,22 +515,6 @@
     {
       "added_at": "2024-07-05 19:40:49",
       "album": {
-        "name": "Come What(ever) May [Special Edition]",
-        "url": "https://open.spotify.com/album/5eHk89PNorMd7e4wyxYiUV"
-      },
-      "artists": [
-        {
-          "name": "Stone Sour",
-          "url": "https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF"
-        }
-      ],
-      "duration_ms": 267253,
-      "name": "Wicked Game - Acoustic; Live",
-      "url": "https://open.spotify.com/track/6UFhNbE4sLRUoM52kC4Xl4"
-    },
-    {
-      "added_at": "2024-07-05 19:40:49",
-      "album": {
         "name": "Kill The Noise (Acoustic)",
         "url": "https://open.spotify.com/album/4NuxF7PTPbjtboHpQ6b3NI"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 161010,
       "name": "Kill The Noise - Acoustic",
       "url": "https://open.spotify.com/track/7oLfJtNvOFHYo02uProOfr"
+    },
+    {
+      "added_at": "2024-07-05 19:40:49",
+      "album": {
+        "name": "Come What(ever) May [Special Edition]",
+        "url": "https://open.spotify.com/album/5eHk89PNorMd7e4wyxYiUV"
+      },
+      "artists": [
+        {
+          "name": "Stone Sour",
+          "url": "https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF"
+        }
+      ],
+      "duration_ms": 267253,
+      "name": "Wicked Game - Acoustic; Live",
+      "url": "https://open.spotify.com/track/6UFhNbE4sLRUoM52kC4Xl4"
     },
     {
       "added_at": "2024-07-05 19:40:49",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2024-07-05 19:40:49",
       "album": {
-        "name": "Unplugged At EastWest",
-        "url": "https://open.spotify.com/album/6ia9VQmmC6vhaQPccSlEGm"
-      },
-      "artists": [
-        {
-          "name": "The Struts",
-          "url": "https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA"
-        }
-      ],
-      "duration_ms": 179249,
-      "name": "Fallin\u2019 With Me - Acoustic",
-      "url": "https://open.spotify.com/track/6Q7vqoRPpcQ7P44j0KgwKi"
-    },
-    {
-      "added_at": "2024-07-05 19:40:49",
-      "album": {
         "name": "Soul Revolution: ACOUSTIC VIBES",
         "url": "https://open.spotify.com/album/5fQo26HkxJFLIVcHRG8slu"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 249274,
       "name": "Be Free - Acoustic",
       "url": "https://open.spotify.com/track/3lClnKfSfuK785QC4QXEUi"
+    },
+    {
+      "added_at": "2024-07-05 19:40:49",
+      "album": {
+        "name": "Unplugged At EastWest",
+        "url": "https://open.spotify.com/album/6ia9VQmmC6vhaQPccSlEGm"
+      },
+      "artists": [
+        {
+          "name": "The Struts",
+          "url": "https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA"
+        }
+      ],
+      "duration_ms": 179249,
+      "name": "Fallin\u2019 With Me - Acoustic",
+      "url": "https://open.spotify.com/track/6Q7vqoRPpcQ7P44j0KgwKi"
     }
   ],
   "unique_name": "Stripped Down",

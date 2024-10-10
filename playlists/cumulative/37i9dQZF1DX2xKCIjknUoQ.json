@@ -95,6 +95,24 @@
     },
     {
       "album": {
+        "name": "About Love",
+        "url": "https://open.spotify.com/album/0hQaUyf3aWK1UqeID5xA7x"
+      },
+      "artists": [
+        {
+          "name": "Plastiscines",
+          "url": "https://open.spotify.com/artist/6L3Af26OWMQw1uHTcxTVxP"
+        }
+      ],
+      "date_added": "2024-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189386,
+      "name": "Bitch",
+      "url": "https://open.spotify.com/track/1ymXKqHO6CGAWlhERwf3Ug"
+    },
+    {
+      "album": {
         "name": "Rock'n'Roll Part 9",
         "url": "https://open.spotify.com/album/22V8tkzrBoB1b2MWh2uDpK"
       },
@@ -1366,7 +1384,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-10",
       "duration_ms": 218288,
       "name": "Undone",
       "url": "https://open.spotify.com/track/5VW0SagBIrGCmwlL1j51c6"

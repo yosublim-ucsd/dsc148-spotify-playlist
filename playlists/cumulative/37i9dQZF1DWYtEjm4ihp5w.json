@@ -1343,6 +1343,24 @@
     },
     {
       "album": {
+        "name": "Dmess",
+        "url": "https://open.spotify.com/album/7bybuogra71XLFPeOLRVhe"
+      },
+      "artists": [
+        {
+          "name": "Khtek",
+          "url": "https://open.spotify.com/artist/5l9OXfeq4VgBHZZWmkJrvN"
+        }
+      ],
+      "date_added": "2024-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171428,
+      "name": "Dmess",
+      "url": "https://open.spotify.com/track/2aEsMXEDpyKWdZ3JJspbai"
+    },
+    {
+      "album": {
         "name": "HOWLS",
         "url": "https://open.spotify.com/album/3sJXIkVh7Fd31jVfyBPGmd"
       },
@@ -3805,6 +3823,24 @@
     },
     {
       "album": {
+        "name": "L'MORPHINE",
+        "url": "https://open.spotify.com/album/4uOkyB9V8LUsqQz4FP6pdq"
+      },
+      "artists": [
+        {
+          "name": "L'morphine",
+          "url": "https://open.spotify.com/artist/4vyibjuGePnrB7BzbHkA6u"
+        }
+      ],
+      "date_added": "2024-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209113,
+      "name": "Pass\u00e9 simple",
+      "url": "https://open.spotify.com/track/3QY4sVs362wtj80Q5eyWWQ"
+    },
+    {
+      "album": {
         "name": "Lmektoub",
         "url": "https://open.spotify.com/album/3CUlhsVaLVsAnUyuUDl3IB"
       },
@@ -4286,6 +4322,24 @@
       "duration_ms": 176326,
       "name": "Rwicha",
       "url": "https://open.spotify.com/track/05CEmWl3xGITe99ZZkgl2c"
+    },
+    {
+      "album": {
+        "name": "Sacrifice",
+        "url": "https://open.spotify.com/album/3M1KeYIDCrT8rAQRgUnOdK"
+      },
+      "artists": [
+        {
+          "name": "Madd",
+          "url": "https://open.spotify.com/artist/7DBIKXxSh2BMPqSN7UB4rS"
+        }
+      ],
+      "date_added": "2024-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193432,
+      "name": "Sacrifice",
+      "url": "https://open.spotify.com/track/3PsH5lRJuFskbE856YAze2"
     },
     {
       "album": {
@@ -5274,6 +5328,24 @@
     {
       "album": {
         "name": "Wayli",
+        "url": "https://open.spotify.com/album/4AlWJRJ8Up3nw0N1ChRvwD"
+      },
+      "artists": [
+        {
+          "name": "Kouz1",
+          "url": "https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8"
+        }
+      ],
+      "date_added": "2024-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259506,
+      "name": "Wayli",
+      "url": "https://open.spotify.com/track/0cPYsatszcbMWoFWo5LHiZ"
+    },
+    {
+      "album": {
+        "name": "Wayli",
         "url": "https://open.spotify.com/album/0uz6OPsa2Gne3JoG54NCCE"
       },
       "artists": [
@@ -5638,7 +5710,7 @@
       ],
       "date_added": "2022-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-13",
+      "date_removed": null,
       "duration_ms": 200599,
       "name": "Zahri",
       "url": "https://open.spotify.com/track/7epBNl7bl4Gi5UwA5tdmyN"

@@ -2,7 +2,7 @@
 
 ### [This Is Harold Melvin & The Blue Notes](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2mDwdN)
 
-> This Is Harold Melvin & The Blue Notes\. Los temas esenciales, todos en una lista.
+> This is Harold Melvin & The Blue Notes\. The essential tracks, all in one playlist.
 
 103 songs - 7 hr 36 min
 

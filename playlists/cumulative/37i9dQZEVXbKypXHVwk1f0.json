@@ -2647,6 +2647,24 @@
     },
     {
       "album": {
+        "name": "BELLY DANZA",
+        "url": "https://open.spotify.com/album/2nbhVKi9IreqMDcwMf7Q2v"
+      },
+      "artists": [
+        {
+          "name": "Rafa Carter",
+          "url": "https://open.spotify.com/artist/6BccdczPdDAWMzyuXHAT6F"
+        }
+      ],
+      "date_added": "2024-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123656,
+      "name": "BELLY DANZA",
+      "url": "https://open.spotify.com/track/71HmhuXU02SZspNrUuhGvp"
+    },
+    {
+      "album": {
         "name": "Sol Mar\u00eda",
         "url": "https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s"
       },
@@ -4258,7 +4276,7 @@
       ],
       "date_added": "2023-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-10",
       "duration_ms": 195586,
       "name": "CLASSY 101",
       "url": "https://open.spotify.com/track/1hZsWUnLbqRw09jLAMQSsb"
@@ -11598,7 +11616,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-09",
+      "date_removed": null,
       "duration_ms": 182357,
       "name": "La Caja de Pandora",
       "url": "https://open.spotify.com/track/2iDZnPVCIKU8vzllooT6Ui"
@@ -11620,7 +11638,7 @@
       ],
       "date_added": "2021-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-10",
       "duration_ms": 242573,
       "name": "LA CANCI\u00d3N",
       "url": "https://open.spotify.com/track/0fea68AdmYNygeTGI4RC18"

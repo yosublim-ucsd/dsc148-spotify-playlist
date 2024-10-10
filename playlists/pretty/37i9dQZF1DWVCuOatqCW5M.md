@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 
 > Latest music from your fav I\-Pop artists\. Cover\- Jyoti Nooran
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,815 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,854 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 | 31 | [Meri Jaan](https://open.spotify.com/track/5PHcGIQUchpB8wcNtdNtuP) | [Swanand Kirkire](https://open.spotify.com/artist/4q7O0NIvhz0G1IgyfOmdcz), [Shrey Gupta](https://open.spotify.com/artist/34yBDo2076Osgm0GmlnzF7), [Hansika Pareek](https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW), [Bharath](https://open.spotify.com/artist/1zD9gVg8wPOmVfYxTjMHaT) | [Meri Jaan](https://open.spotify.com/album/2Tn82MBBcAdiiwXgCnEqqf) | 3:05 |
 | 32 | [Distance](https://open.spotify.com/track/1WciPgtUhKxdosNdzVlK5B) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB) | [The Brownprint](https://open.spotify.com/album/5ocQ8RmwkpQ2mUwYSgMMH9) | 2:11 |
 | 33 | [6 Am](https://open.spotify.com/track/2WbJHbbw9iWWbVPC4qt17t) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR) | [GLORY](https://open.spotify.com/album/5KF4xCxDD8ip003hoatFT9) | 2:55 |
-| 34 | [Milenge Hum Nahi](https://open.spotify.com/track/213ylixMhUkUEQaTJnT6fc) | [Kunaal Vermaa](https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx) | [Milenge Hum Nahi](https://open.spotify.com/album/46WiNmrfHH0Xu1uKG83s0K) | 3:29 |
+| 34 | [Milenge Hum Nahi](https://open.spotify.com/track/213ylixMhUkUEQaTJnT6fc) | [Kunaal Vermaa](https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx), [Aditya Dev](https://open.spotify.com/artist/2IX6xq1cVcBoD4obUsT5xs) | [Milenge Hum Nahi](https://open.spotify.com/album/46WiNmrfHH0Xu1uKG83s0K) | 3:29 |
 | 35 | [Shamaan De Vele](https://open.spotify.com/track/5SQzNdM0LfPWZiMEfRsItB) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR), [Leo Grewal](https://open.spotify.com/artist/2fQMiJ1MvUHYPfJsKAhIIr) | [GLORY](https://open.spotify.com/album/5KF4xCxDD8ip003hoatFT9) | 2:51 |
 | 36 | [Sweet Flower \(feat\. Syra\)](https://open.spotify.com/track/3uyf8yCzPXZ9IXTjlxLGKf) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Syra](https://open.spotify.com/artist/2084XyyxS0j6Yt7u5KpbAa) | [The Brownprint](https://open.spotify.com/album/39fvaMl4ECsHkplPilIpBo) | 2:56 |
 | 37 | [Aqda](https://open.spotify.com/track/0R1Y0bivX5ASIh4Tiyl65w) | [The Yellow Diary](https://open.spotify.com/artist/6xlrAAgxcRlgCXnbg2hcFc) | [Aqda](https://open.spotify.com/album/78hWb6l21eCElnYPcFT6UQ) | 3:13 |

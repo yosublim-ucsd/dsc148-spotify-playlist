@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO08OZ0s.md) - [plain]
 
 ### [This Is Kelli\-Leigh](https://open.spotify.com/playlist/37i9dQZF1DZ06evO08OZ0s)
 
-> This is Kelli\-Leigh\. Todos os maiores hits em uma só playlist.
+> This is Kelli\-Leigh\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 641 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 640 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO08OZ0s.md) - [plain]
 | 49 | [Without You \- Dissent Remix](https://open.spotify.com/track/0Wa9QbZRhwGPVAqYdJMzLD) | [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff), [DISSENT](https://open.spotify.com/artist/7EiqGw3DQxecvZLIK8QFSO) | [Without You \(Remixes\)](https://open.spotify.com/album/6jUfQTKKkB3Ta5YL5UCGYs) | 3:27 |
 | 50 | [Just to Be with You](https://open.spotify.com/track/25AmXRjwGEHAXvETQhCIbu) | [Manuel Riva](https://open.spotify.com/artist/2hkGkEnyudpE42IU4DBt99), [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [Just to Be with You](https://open.spotify.com/album/5QBaffo1Nvstta0AxgFVWz) | 3:29 |
 
-Snapshot ID: `ZwMkgAAAAACcr9g7kP/SJ+tC+CgLL5l9`
+Snapshot ID: `ZwMkgAAAAADMQ5EaZ8xgWrEdv4eMkl7o`

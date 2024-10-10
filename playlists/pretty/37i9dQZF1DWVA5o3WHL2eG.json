@@ -1,6 +1,6 @@
 {
   "description": "Women at full volume. Cover: DJ Gigola",
-  "num_followers": 34947,
+  "num_followers": 34949,
   "original_name": "EQUAL GSA",
   "owner": {
     "name": "Spotify",
@@ -227,22 +227,6 @@
     {
       "added_at": "2024-10-01 22:00:00",
       "album": {
-        "name": "Berliner Luft",
-        "url": "https://open.spotify.com/album/36QABQcLmLfqqxmOBTGI5i"
-      },
-      "artists": [
-        {
-          "name": "Lara Hulo",
-          "url": "https://open.spotify.com/artist/7uIuNffVj9hfFYnh8r27P0"
-        }
-      ],
-      "duration_ms": 180493,
-      "name": "Berliner Luft",
-      "url": "https://open.spotify.com/track/4K3lc5BK99UvnnLvk4aV6g"
-    },
-    {
-      "added_at": "2024-10-01 22:00:00",
-      "album": {
         "name": "fliegen",
         "url": "https://open.spotify.com/album/4twWyL7n4WEoepG6OcJcUh"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 139911,
       "name": "fliegen",
       "url": "https://open.spotify.com/track/4Or1AiWX58dlO8mIfUTh2p"
+    },
+    {
+      "added_at": "2024-10-01 22:00:00",
+      "album": {
+        "name": "Berliner Luft",
+        "url": "https://open.spotify.com/album/36QABQcLmLfqqxmOBTGI5i"
+      },
+      "artists": [
+        {
+          "name": "Lara Hulo",
+          "url": "https://open.spotify.com/artist/7uIuNffVj9hfFYnh8r27P0"
+        }
+      ],
+      "duration_ms": 180493,
+      "name": "Berliner Luft",
+      "url": "https://open.spotify.com/track/4K3lc5BK99UvnnLvk4aV6g"
     },
     {
       "added_at": "2024-10-01 22:00:00",
@@ -383,18 +383,18 @@
     {
       "added_at": "2024-10-01 22:00:00",
       "album": {
-        "name": "Das Beste",
-        "url": "https://open.spotify.com/album/5dVA4L80HLjdBTKkjVo2sm"
+        "name": "8 stufen ep",
+        "url": "https://open.spotify.com/album/7tdFyBxhmbfm9Whp3fo6rK"
       },
       "artists": [
         {
-          "name": "Emma Rose",
-          "url": "https://open.spotify.com/artist/76ULRNlbg99ImmSMdWWtMy"
+          "name": "elimako",
+          "url": "https://open.spotify.com/artist/5PbQkJwrwzRkwW7uAj7dy0"
         }
       ],
-      "duration_ms": 152000,
-      "name": "Das Beste",
-      "url": "https://open.spotify.com/track/5dholWRj5q0lQUxHS5hRWh"
+      "duration_ms": 172138,
+      "name": "pok\u00e9mon",
+      "url": "https://open.spotify.com/track/5ipIrjelg2ER3t7D3D9NSP"
     },
     {
       "added_at": "2024-10-01 22:00:00",
@@ -415,18 +415,18 @@
     {
       "added_at": "2024-10-01 22:00:00",
       "album": {
-        "name": "8 stufen ep",
-        "url": "https://open.spotify.com/album/7tdFyBxhmbfm9Whp3fo6rK"
+        "name": "Das Beste",
+        "url": "https://open.spotify.com/album/5dVA4L80HLjdBTKkjVo2sm"
       },
       "artists": [
         {
-          "name": "elimako",
-          "url": "https://open.spotify.com/artist/5PbQkJwrwzRkwW7uAj7dy0"
+          "name": "Emma Rose",
+          "url": "https://open.spotify.com/artist/76ULRNlbg99ImmSMdWWtMy"
         }
       ],
-      "duration_ms": 172138,
-      "name": "pok\u00e9mon",
-      "url": "https://open.spotify.com/track/5ipIrjelg2ER3t7D3D9NSP"
+      "duration_ms": 152000,
+      "name": "Das Beste",
+      "url": "https://open.spotify.com/track/5dholWRj5q0lQUxHS5hRWh"
     },
     {
       "added_at": "2024-10-01 22:00:00",
@@ -447,6 +447,22 @@
     {
       "added_at": "2024-10-01 22:00:00",
       "album": {
+        "name": "Der Moment archiviert",
+        "url": "https://open.spotify.com/album/0ahUvguthyWxiwvQRpCBk1"
+      },
+      "artists": [
+        {
+          "name": "Carla Ahad",
+          "url": "https://open.spotify.com/artist/0ic9BGUoRMQidNxGoet7Ln"
+        }
+      ],
+      "duration_ms": 156387,
+      "name": "Der Moment archiviert",
+      "url": "https://open.spotify.com/track/0T9jQ9qO7qkGZdYcKrgcVg"
+    },
+    {
+      "added_at": "2024-10-01 22:00:00",
+      "album": {
         "name": "Was hab ich nur getan?",
         "url": "https://open.spotify.com/album/1icJ1tybkmg30fkU1v1qOA"
       },
@@ -463,22 +479,6 @@
       "duration_ms": 172235,
       "name": "Was hab ich nur getan?",
       "url": "https://open.spotify.com/track/1WyGuO8jJI4TmAp2ERorb5"
-    },
-    {
-      "added_at": "2024-10-01 22:00:00",
-      "album": {
-        "name": "Der Moment archiviert",
-        "url": "https://open.spotify.com/album/0ahUvguthyWxiwvQRpCBk1"
-      },
-      "artists": [
-        {
-          "name": "Carla Ahad",
-          "url": "https://open.spotify.com/artist/0ic9BGUoRMQidNxGoet7Ln"
-        }
-      ],
-      "duration_ms": 156387,
-      "name": "Der Moment archiviert",
-      "url": "https://open.spotify.com/track/0T9jQ9qO7qkGZdYcKrgcVg"
     },
     {
       "added_at": "2024-10-01 22:00:00",
@@ -515,22 +515,6 @@
     {
       "added_at": "2024-10-01 22:00:00",
       "album": {
-        "name": "Catch The Rain",
-        "url": "https://open.spotify.com/album/4HaWTik9SSWStlldD21OEd"
-      },
-      "artists": [
-        {
-          "name": "RAHEL",
-          "url": "https://open.spotify.com/artist/1PiAhtDO04aDUU9VKEi1j7"
-        }
-      ],
-      "duration_ms": 200043,
-      "name": "Catch The Rain",
-      "url": "https://open.spotify.com/track/6kkiSenLxDFmqhPlwhxbjA"
-    },
-    {
-      "added_at": "2024-10-01 22:00:00",
-      "album": {
         "name": "It Happens Either Way",
         "url": "https://open.spotify.com/album/6ennEJseUsMTUYqjgSTws3"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 187169,
       "name": "Feel zu sp\u00e4t",
       "url": "https://open.spotify.com/track/1ZX6OhzVKjYe51XRnBe3yu"
+    },
+    {
+      "added_at": "2024-10-01 22:00:00",
+      "album": {
+        "name": "Catch The Rain",
+        "url": "https://open.spotify.com/album/4HaWTik9SSWStlldD21OEd"
+      },
+      "artists": [
+        {
+          "name": "RAHEL",
+          "url": "https://open.spotify.com/artist/1PiAhtDO04aDUU9VKEi1j7"
+        }
+      ],
+      "duration_ms": 200043,
+      "name": "Catch The Rain",
+      "url": "https://open.spotify.com/track/6kkiSenLxDFmqhPlwhxbjA"
     },
     {
       "added_at": "2024-10-01 22:00:00",
@@ -791,6 +791,22 @@
     {
       "added_at": "2024-10-01 22:00:00",
       "album": {
+        "name": "Lonely Men",
+        "url": "https://open.spotify.com/album/5snyBoy81dc2LxzvCT4Zt6"
+      },
+      "artists": [
+        {
+          "name": "MOREA",
+          "url": "https://open.spotify.com/artist/71vEm5zDEAUJNjlShIT1sX"
+        }
+      ],
+      "duration_ms": 225202,
+      "name": "Lonely Men",
+      "url": "https://open.spotify.com/track/2LFTMx8lbbgNPd7kVha677"
+    },
+    {
+      "added_at": "2024-10-01 22:00:00",
+      "album": {
         "name": "Im_Possible",
         "url": "https://open.spotify.com/album/65WNRRyeYrxmJ7pgwsFGHc"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 161737,
       "name": "Im_Possible",
       "url": "https://open.spotify.com/track/2SmZcm0DEOGVk5kFJdDeiS"
-    },
-    {
-      "added_at": "2024-10-01 22:00:00",
-      "album": {
-        "name": "Lonely Men",
-        "url": "https://open.spotify.com/album/5snyBoy81dc2LxzvCT4Zt6"
-      },
-      "artists": [
-        {
-          "name": "MOREA",
-          "url": "https://open.spotify.com/artist/71vEm5zDEAUJNjlShIT1sX"
-        }
-      ],
-      "duration_ms": 225202,
-      "name": "Lonely Men",
-      "url": "https://open.spotify.com/track/2LFTMx8lbbgNPd7kVha677"
     },
     {
       "added_at": "2024-10-01 22:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lHz01BIpXP.md) - [plain]
 
 > Die beste in Afrikaanse Hip Hop\. Cover: <a href="https://open.spotify.com/artist/4hxiYIQmYSFNAgnS32t0y0?si=wopZ37XnR3\-KJ75hjpI0\_Q">21 Promo & Pengii</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,972 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,974 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lHz01BIpXP.md) - [plain]
 | 38 | [DIE LANIE](https://open.spotify.com/track/7DGKnYj1l9tUChMBAqpXh1) | [Madgas](https://open.spotify.com/artist/6SxrHxCHpyEIfdtUOQrkMH) | [DIE LANIE](https://open.spotify.com/album/6CqQqWzEOHGTYkZjrjGqAe) | 2:43 |
 | 39 | [Nikes & Jordans \(Original\)](https://open.spotify.com/track/5Jg22KmtTCnFtdKlBO3ENv) | [Bigbforever](https://open.spotify.com/artist/3cMa6RJNuOUYxyyQXLf10i) | [Nikes & Jordans \(Original\)](https://open.spotify.com/album/0lVRtRsZyiQTgH6JRRCKiQ) | 3:14 |
 | 40 | [Ek Sal Nie Lieg Nie](https://open.spotify.com/track/4reYk1zhvoQh4K78On9Y0h) | [KYLEO FROM THE WEST](https://open.spotify.com/artist/4DzGe30tm58us62vjtCIL7), [M.Jay](https://open.spotify.com/artist/6NSyRLnJIPll8pR2mRYRnl) | [Ek Sal Nie Lieg Nie](https://open.spotify.com/album/0P2QBEdQVwvUwQJXWVJ4mQ) | 2:31 |
-| 41 | [Slegte Gewoonte](https://open.spotify.com/track/0m5TIFvr8GQCIM2FDNAJPT) | [Lil Dee Music](https://open.spotify.com/artist/3GWcPN5iY86CwRrgJE4kvg), [Euno](https://open.spotify.com/artist/14Lh7c1HhLZPLAAqOG83Kw), [Aiyamanfykz](https://open.spotify.com/artist/5UPbQ61xjTa1rHG9uGdZZL) | [2098](https://open.spotify.com/album/51PA9pHz64S6a9VfFerGca) | 3:10 |
-| 42 | [Sal Alright is](https://open.spotify.com/track/2tNf5CIEfQ0FNIXereIvAQ) | [Shameel Afrikaans Music](https://open.spotify.com/artist/5JVEUKZM50V4pnjV8Rv6Yl), [BIGDMUZIC](https://open.spotify.com/artist/5SILa3QBUig6bmSsaCHIur) | [Sal Alright is](https://open.spotify.com/album/30XOqBXKgS6q4rHt4oeCDL) | 4:12 |
+| 41 | [Sal Alright is](https://open.spotify.com/track/2tNf5CIEfQ0FNIXereIvAQ) | [Shameel Afrikaans Music](https://open.spotify.com/artist/5JVEUKZM50V4pnjV8Rv6Yl), [BIGDMUZIC](https://open.spotify.com/artist/5SILa3QBUig6bmSsaCHIur) | [Sal Alright is](https://open.spotify.com/album/30XOqBXKgS6q4rHt4oeCDL) | 4:12 |
+| 42 | [Slegte Gewoonte](https://open.spotify.com/track/0m5TIFvr8GQCIM2FDNAJPT) | [Lil Dee Music](https://open.spotify.com/artist/3GWcPN5iY86CwRrgJE4kvg), [Euno](https://open.spotify.com/artist/14Lh7c1HhLZPLAAqOG83Kw), [Aiyamanfykz](https://open.spotify.com/artist/5UPbQ61xjTa1rHG9uGdZZL) | [2098](https://open.spotify.com/album/51PA9pHz64S6a9VfFerGca) | 3:10 |
 | 43 | [Die Reminant](https://open.spotify.com/track/4o2nrEE1HvaCjC9asC6gUp) | [Marky Futurekid](https://open.spotify.com/artist/0VKwzWkYVBRwmyykRhCWFr) | [Die Reminant](https://open.spotify.com/album/18RpfMxcTHbV4Srj9qmHj5) | 3:12 |
 | 44 | [OGlizzy](https://open.spotify.com/track/1NlWi9AEB4vB9z7MxoalXS) | [Jossi\-Boy](https://open.spotify.com/artist/4Ewat2VC8zABVgUA0YEXvY) | [OGlizzy](https://open.spotify.com/album/58cgGZyo8nD6zMFjdMfQFH) | 3:16 |
 | 45 | [Denero](https://open.spotify.com/track/5hgUqD7jK0e0wRXg67FsTZ) | [KYLEO FROM THE WEST](https://open.spotify.com/artist/4DzGe30tm58us62vjtCIL7) | [Denero](https://open.spotify.com/album/28WlZuUcULwuuXdRCrJhjN) | 2:24 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 
 > De nieuwste Nederlandse pop! Cover: Bente
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,019 likes - 72 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,033 likes - 72 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

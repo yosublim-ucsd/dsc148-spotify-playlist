@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones Cristianas\.  Foto: <a href="spotify:artist:4VYSLPSI9yb8qkUpKyVQSJ">Marcos Barrientos</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,466 likes - 100 songs - 8 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,481 likes - 100 songs - 8 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Mi Tesoro](https://open.spotify.com/track/5JXj9Sm3DdLUS87a7dMAtg) | [Marco Barrientos](https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ), [Daniela Barrientos](https://open.spotify.com/artist/3fF7bK7ymM5vUeyG3XP0Lv) | [Mi Tesoro](https://open.spotify.com/album/225RI4sJvEZmyydyuTUXNu) | 14:35 |
 | 2 | [Temprano Yo Te Buscaré / Yo Te Busco](https://open.spotify.com/track/197MVjLeXOx40bfsRy9mMw) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2), [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Waleska Morales](https://open.spotify.com/artist/6C0t2XuoPExvGxcVfo7aHc) | [Temprano Yo Te Buscaré / Yo Te Busco](https://open.spotify.com/album/5fmeSELeEd0jAndRiYNGWS) | 4:31 |
-| 3 | [En Su Nombre \- En Vivo](https://open.spotify.com/track/0AA3VqQQAhZXn5Za2ablx7) | [Som Do Reino](https://open.spotify.com/artist/4Bei91U4XakJsOUQVxH2Cq), [TOMATULUGAR](https://open.spotify.com/artist/44RfC7kgNNz6s2MD3gJqXX) | [En Su Nombre \(En Vivo\)](https://open.spotify.com/album/0BGeOUsynuNYPVgva9pfbD) | 10:37 |
+| 3 | [En Su Nombre \- En Vivo](https://open.spotify.com/track/0AA3VqQQAhZXn5Za2ablx7) | [Som Do Reino](https://open.spotify.com/artist/4Bei91U4XakJsOUQVxH2Cq), [TOMATULUGAR](https://open.spotify.com/artist/44RfC7kgNNz6s2MD3gJqXX), [André Aquino](https://open.spotify.com/artist/6xHt6gUd0LMPtKm0XokFiq), [Marcos Brunet](https://open.spotify.com/artist/7cLoxFihGCVL3s1K3xHK4I), [Ana Clara Verneque](https://open.spotify.com/artist/22975SLYDctI81iUu0yTjQ) | [En Su Nombre \(En Vivo\)](https://open.spotify.com/album/0BGeOUsynuNYPVgva9pfbD) | 10:37 |
 | 4 | [Cizaña](https://open.spotify.com/track/5HvyS8DZhEFXuep3LVksZQ) | [Cristóbal Fones, Sj](https://open.spotify.com/artist/4Jqs0PJ4Q5gmz1WzS1OUHk), [Santiago Benavides](https://open.spotify.com/artist/1kmI6wp97POUynJvBlxkuR) | [Cizaña](https://open.spotify.com/album/5Frf4Ve331jDVLDmUh3f2l) | 5:16 |
 | 5 | [Gozo \(Aunque Lo Llamen Locura\) \- Live](https://open.spotify.com/track/3LluFrxdieiYJU0v2prxsf) | [Gateway Worship Español](https://open.spotify.com/artist/6CyrlDkin8EyehBeKUxcSV), [Jacobo Ramos](https://open.spotify.com/artist/5Jk4hlJqKTKYq2xuPawYVP) | [Gozo \(Aunque Lo Llamen Locura\) \- Live](https://open.spotify.com/album/3AYsBnmfIi85Jjl3IaQUJh) | 4:43 |
 | 6 | [All In \- Single Version](https://open.spotify.com/track/1YzcMWwvQ0HaIscuN2t0Ce) | [Influence Music](https://open.spotify.com/artist/7ory6rfLtmQet7a16o4vvC), [Jonathan Traylor](https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo), [Whitney Medina](https://open.spotify.com/artist/2aEALllrzX6yHYGQkQ3jgZ) | [All In](https://open.spotify.com/album/6MyNOFGRPQncNC9FpcBi3x) | 3:33 |

@@ -203,6 +203,24 @@
     },
     {
       "album": {
+        "name": "Awavey",
+        "url": "https://open.spotify.com/album/3tvcVHmb0HEEdOfzcHFbsS"
+      },
+      "artists": [
+        {
+          "name": "Livrunna",
+          "url": "https://open.spotify.com/artist/3cU2VnsMPqdGDchmD1XYCz"
+        }
+      ],
+      "date_added": "2024-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155747,
+      "name": "Awavey",
+      "url": "https://open.spotify.com/track/75fJofLZqwb7NrF8mPJE25"
+    },
+    {
+      "album": {
         "name": "Birth",
         "url": "https://open.spotify.com/album/03Z66Ih9w9ETATH78lQKsQ"
       },
@@ -218,6 +236,24 @@
       "duration_ms": 201874,
       "name": "Birth",
       "url": "https://open.spotify.com/track/2qsYiqyOLtFpfRTMi2QmUT"
+    },
+    {
+      "album": {
+        "name": "Blue Horizon",
+        "url": "https://open.spotify.com/album/7KegJt2prSkUbrssnCdJfz"
+      },
+      "artists": [
+        {
+          "name": "Frederic Stelliard",
+          "url": "https://open.spotify.com/artist/39LGeaWGf31tRDtPxYYHBc"
+        }
+      ],
+      "date_added": "2024-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159375,
+      "name": "Blue Horizon",
+      "url": "https://open.spotify.com/track/1skgRtVJ9ckx7SQjWQyQsc"
     },
     {
       "album": {
@@ -1226,7 +1262,7 @@
       ],
       "date_added": "2023-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-10",
       "duration_ms": 187452,
       "name": "Oasis",
       "url": "https://open.spotify.com/track/3apfI7QvT9f673V4SXXbCW"
@@ -1518,7 +1554,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-10",
       "duration_ms": 217241,
       "name": "Over-By The Sea",
       "url": "https://open.spotify.com/track/2n7ywqxa37GiHhKIiAqPaj"
@@ -1864,6 +1900,24 @@
       "duration_ms": 177600,
       "name": "Sleepy Ocean Dreams",
       "url": "https://open.spotify.com/track/7tp4girj8neLRJI2xVERQD"
+    },
+    {
+      "album": {
+        "name": "Slow Sea",
+        "url": "https://open.spotify.com/album/2KQRG2roWetHxnt5sypG9l"
+      },
+      "artists": [
+        {
+          "name": "Flyndon",
+          "url": "https://open.spotify.com/artist/7E4blUHUdA8BXReNUeeIKl"
+        }
+      ],
+      "date_added": "2024-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170041,
+      "name": "Slow Sea",
+      "url": "https://open.spotify.com/track/4cwcbLh8ajzGlrwxkK1a1c"
     },
     {
       "album": {
@@ -2368,7 +2422,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-10",
       "duration_ms": 160171,
       "name": "Wind of Serenity",
       "url": "https://open.spotify.com/track/1ZFrUu4wdWc9iPW8M48Nil"

@@ -4,13 +4,13 @@
 
 > The hottest dance hits, updated every week\.  This is the biggest dance, house and electronic music  playlist to vibe to in 2024!
 
-245 songs - 11 hr 51 min
+246 songs - 11 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [0800 HEAVEN](https://open.spotify.com/track/75KZRDouF6WcfkThhnJSvB) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [0800 HEAVEN](https://open.spotify.com/album/0ufYMOnoFhramYoTojRkJv) | 2:39 | 2023-11-03 | 2024-02-03 |
 | [10:35](https://open.spotify.com/track/0XIHnWfD7RXniUkTzXZTd4) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [House Music 2023](https://open.spotify.com/album/4HFhThwYfigGXrIot0zUfl) | 2:52 | 2023-11-03 |  |
-| [1:1](https://open.spotify.com/track/2lyR4sKecLAbtboEg11ouu) | [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [1:1](https://open.spotify.com/album/5hrK6UohlHNdzCcdL2ajdu) | 2:23 | 2024-09-20 | 2024-09-28 |
+| [1:1](https://open.spotify.com/track/2lyR4sKecLAbtboEg11ouu) | [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [1:1](https://open.spotify.com/album/5hrK6UohlHNdzCcdL2ajdu) | 2:23 | 2024-09-20 |  |
 | [21 Reasons](https://open.spotify.com/track/4cxMytE6WYxTrEc20EST9O) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [House Music 2023](https://open.spotify.com/album/4HFhThwYfigGXrIot0zUfl) | 2:35 | 2023-11-03 | 2024-03-02 |
 | [405](https://open.spotify.com/track/0CRTi3RDk5Aqk3nkGbB97M) | [SACHI](https://open.spotify.com/artist/6kG0WKHsAOfWp5IsizmQxR), [LATASHÁ](https://open.spotify.com/artist/2lW1SPnxy7JqGV84TcSINi) | [405](https://open.spotify.com/album/2kyxaYdrzXy8jtAyLWjTPU) | 3:39 | 2024-05-31 | 2024-06-15 |
 | [4AM](https://open.spotify.com/track/3lvYcFY5GGuuKjVYQj7FD1) | [Sarah Story](https://open.spotify.com/artist/6yyACKZEH3neKNMrBW7zbt) | [4AM](https://open.spotify.com/album/3aKsVI5oxhjZH1d8vYkx6T) | 3:00 | 2024-07-12 | 2024-09-07 |
@@ -111,6 +111,7 @@
 | [In The City](https://open.spotify.com/track/3xY5aYJcdvZX9xQxNd02ku) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The City](https://open.spotify.com/album/4yb3RB7teZSVscBmOoDWvT) | 2:56 | 2023-11-03 | 2024-07-20 |
 | [In Your Arms](https://open.spotify.com/track/09JbsKhqfhP20dadEeDug3) | [Jess Bays](https://open.spotify.com/artist/5xEJ7FQOtIUMLdnKyZrvPB), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [In Your Arms](https://open.spotify.com/album/7G1S1ZQxGE67nSBAMr6WD6) | 2:46 | 2024-03-01 | 2024-06-01 |
 | [IRLY \(I Really Love You\)](https://open.spotify.com/track/0TZmwiefBLRaNYtkRWH8Uh) | [Dombresky](https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN) | [IRLY \(I Really Love You\)](https://open.spotify.com/album/1ZaGCKsUUEhsfEbzTJeGrk) | 2:50 | 2023-11-03 | 2023-11-18 |
+| [It's Morning Girl \(Coffee Coffee\)](https://open.spotify.com/track/45ksU3O41xm6HeWLNaaimz) | [Badger](https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3), [Marty Miller](https://open.spotify.com/artist/7jBK09szLB5XTOkPMxEeqA), [Missy McIntosh](https://open.spotify.com/artist/76qdfGxyZWCOWojrw4HMsu) | [It's Morning Girl \(Coffee Coffee\)](https://open.spotify.com/album/1O7YrTbJ19Cg79lYbfIiQN) | 2:07 | 2024-10-09 |  |
 | [Joyride \(feat\. Kyle Reynolds\)](https://open.spotify.com/track/4yh0WPQgbBAXitxDTf9hZ8) | [BYOR](https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R), [Yves V](https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV), [Kyle Reynolds](https://open.spotify.com/artist/5yhR0OqJhkbQ2y76XUte3R) | [Joyride \(feat\. Kyle Reynolds\)](https://open.spotify.com/album/0akckUxwan3l9oA8ZHgwDj) | 2:42 | 2023-11-03 | 2024-07-27 |
 | [Jump](https://open.spotify.com/track/1JKo6V7VgO6MM2uj7iVkHh) | [Levi](https://open.spotify.com/artist/1M4OBXDWyLtubqa3SBLxwC) | [Jump](https://open.spotify.com/album/6RyWbtser6LYefUpnemhIO) | 2:33 | 2024-04-12 |  |
 | [Just Friends](https://open.spotify.com/track/6RZrkpfwp705Vz9iZ3wLvk) | [Navos](https://open.spotify.com/artist/6YCM9JwkqdEFQSzztmh4Kb) | [Just Friends](https://open.spotify.com/album/3J27ChDQ7pKkytOFfSvyYB) | 2:46 | 2024-02-02 |  |

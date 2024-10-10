@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 
 > Os lançamentos e melhores sons do rap e trap nacionais\. Foto: Big Bllakk
 
-[Spotify](https://open.spotify.com/user/spotify) - 219,797 likes - 75 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 219,793 likes - 75 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 | 4 | [ALOHOMORA](https://open.spotify.com/track/3EMGoQ0l6FG3Pq1naqFIFM) | [Kweller](https://open.spotify.com/artist/4W4NkfM4A1sX2S2bfYlV07), [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII) | [ALOHOMORA](https://open.spotify.com/album/6IKlqdzflE6UuTEoSwmqDQ) | 2:32 |
 | 5 | [Negro Drama \- Ao Vivo](https://open.spotify.com/track/7h1wem7ocYZiGyH5CckYZe) | [Edi Rock](https://open.spotify.com/artist/2fYAyTS2erZgqEHKHYqgi2), [Mano Brown](https://open.spotify.com/artist/0fMjaafeNhHPA6mJ5ZglAJ) | [Origens 3 \- O Show \(Ao Vivo\)](https://open.spotify.com/album/5mK9V3aziC4Kpn1yycrkiy) | 6:19 |
 | 6 | [Senhorita XX](https://open.spotify.com/track/6vQJTFZI2ZEuWxfkY1f9aH) | [Cabal](https://open.spotify.com/artist/1NaCje3joxxJ1jduJoV5Xt), [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut), [Edie](https://open.spotify.com/artist/1IkKFD4QqHiqTM0aGzx8Mu), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6) | [Senhorita XX](https://open.spotify.com/album/68RUm7lcMQmMXgC7jQbLr6) | 3:58 |
-| 7 | [Pouco Preocupado](https://open.spotify.com/track/0qLvxFap54nvis7fwrrKnZ) | [Matuz](https://open.spotify.com/artist/22UKKzrqlzCs9eHJk05XxE), [Skeeter Beats](https://open.spotify.com/artist/42xf1iqSOZluDWJ8RW2B9H), [Cabes](https://open.spotify.com/artist/6L6CvnDkB0HnPbpDEtFjWt) | [Pouco Preocupado](https://open.spotify.com/album/3gqfh5KDPjdMXYYim2LQPt) | 2:38 |
+| 7 | [Pouco Preocupado](https://open.spotify.com/track/0qLvxFap54nvis7fwrrKnZ) | [Matuz](https://open.spotify.com/artist/22UKKzrqlzCs9eHJk05XxE), [Skeeter Beats](https://open.spotify.com/artist/42xf1iqSOZluDWJ8RW2B9H), [Cabes](https://open.spotify.com/artist/00RYM1fJO6kr6Z2jOuD9BW) | [Pouco Preocupado](https://open.spotify.com/album/3gqfh5KDPjdMXYYim2LQPt) | 2:38 |
 | 8 | [+1 Pra Jah](https://open.spotify.com/track/6EWAYE0qxsgHy9PvKi8B90) | [Predella](https://open.spotify.com/artist/3lMQtpA4i6FrIe6DmDfDVa), [Mc Kadu](https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv), [Dj Murillo e LT no Beat](https://open.spotify.com/artist/1Zl5Ac1YyOHBkJKInGxbaS), [Cidade Verde Sounds](https://open.spotify.com/artist/2tVU8TVXlrwk6KESQxLwH8), [Mc PP da VS](https://open.spotify.com/artist/2z8FuS3crq9QwDVKlR31hP) | [+1 Pra Jah](https://open.spotify.com/album/3oLmfaHYQfBTuacELzA2To) | 5:29 |
 | 9 | [SKYLINE](https://open.spotify.com/track/2qn8UgOBzaKF3luvJxDWWp) | [TOKIODK](https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2), [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [LeodoKick](https://open.spotify.com/artist/1WZNkLRhjvZKzZlSKL7FxX), [HHR](https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu) | [SKYLINE](https://open.spotify.com/album/30vHn0s0oD01zHExU2JY2k) | 3:18 |
 | 10 | [Motor](https://open.spotify.com/track/5pTCmZ2wPwSzf8hKWAgrzU) | [Ashira](https://open.spotify.com/artist/3bwb5u6i1DM7nDxnBSDDCa), [Victor Henry](https://open.spotify.com/artist/2BlDMHgN6HfWB0wvGa8DPu) | [Motor](https://open.spotify.com/album/4GGV97yfdIlywfBxdSIO0v) | 3:14 |

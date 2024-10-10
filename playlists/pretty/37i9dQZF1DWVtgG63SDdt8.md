@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all Christian, Gospel, Worship & Inspirational music genres this week!  Cover: <a href="spotify:artist:0TgNiaeQaWssaH9aWjbqnA">Jordan Feliz</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 336,670 likes - 100 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 336,719 likes - 100 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 66 | [Offering of Praise](https://open.spotify.com/track/2U1Nrm9lgON4ctkpuX5YNN) | [Tenielle Neda](https://open.spotify.com/artist/38rsHCzbXGGXcIGq1ceArD), [John Van Deusen](https://open.spotify.com/artist/6DLId1szBt6BlrTp5NELXK) | [Offering of Praise](https://open.spotify.com/album/2BHY81Z0RK6sTJcs7Giqh0) | 4:11 |
 | 67 | [Nothing Back \- Reimagined](https://open.spotify.com/track/5eFjy2abCLtnen1rttqRAA) | [Austin Ludwig](https://open.spotify.com/artist/6DKCKaDzsoRmeqiQq5QHgL), [Sam Wilson](https://open.spotify.com/artist/1xMJN0U9b27oxBXc4KYhP5) | [Nothing Back \- Reimagined](https://open.spotify.com/album/5j5TZkyN9mInybuLApPerb) | 3:26 |
 | 68 | [All The Time \(He's There\)](https://open.spotify.com/track/1vqZ0t9lzE0RhoIi0R8Eao) | [Poetics](https://open.spotify.com/artist/6sdgbah9YMIS5jSYdyzpBP) | [All The Time \(He's There\)](https://open.spotify.com/album/6DWRWR594BTB9KUWAdR1mS) | 1:36 |
-| 69 | [Until the Light](https://open.spotify.com/track/6uw08uWABNbZPMYjkSveAL) | [Kwesi](https://open.spotify.com/artist/320LkiSxenwJtoxQ9SZ1eV), [SON.](https://open.spotify.com/artist/4mA4iGdnkLQWW3klqWHbsJ), [Rave Jesus](https://open.spotify.com/artist/3mPHVEre3DiAHKuOCBFP8D) | [Until the Light](https://open.spotify.com/album/62gcPGKjsZiIsp3Tve0R8L) | 2:51 |
+| 69 | [Until the Light](https://open.spotify.com/track/6uw08uWABNbZPMYjkSveAL) | [Rave Jesus](https://open.spotify.com/artist/3mPHVEre3DiAHKuOCBFP8D), [Kwesi](https://open.spotify.com/artist/320LkiSxenwJtoxQ9SZ1eV), [SON.](https://open.spotify.com/artist/4mA4iGdnkLQWW3klqWHbsJ) | [Until the Light](https://open.spotify.com/album/62gcPGKjsZiIsp3Tve0R8L) | 2:51 |
 | 70 | [Those Who Look To Him Are Radiant \(Psalm 34:4\-6\)](https://open.spotify.com/track/0hyQx3w15NupxtTcirzaKQ) | [Scripture Hymnal](https://open.spotify.com/artist/5wYYJuncCitoSuJY3rJdNE) | [Scripture Hymnal, Vol\. 1](https://open.spotify.com/album/0dlppAhjT34OFqaqdoHPWb) | 2:49 |
 | 71 | [That Kind of Friend](https://open.spotify.com/track/0Xjle8D7PwPY8IAF6pYSrN) | [Lauren, Amber & Kenna](https://open.spotify.com/artist/06UsS22KG2H4l7brfRo9bq), [Lauren Talley](https://open.spotify.com/artist/3jbm4F4B8joagW1U4xiLRg), [Amber Eppinette Saunders](https://open.spotify.com/artist/6rkjIsvVIy74BEZFjnBMqL), [Kenna Turner West](https://open.spotify.com/artist/2Xlx8qrPLqmZbifn6PE5s5) | [A Little Bit of Heaven](https://open.spotify.com/album/3X178jY7PC6DJNKYzQAuMm) | 3:12 |
 | 72 | [Heavenly Praise](https://open.spotify.com/track/6BqRFx4Tcpgh1hSh93n1PQ) | [Charly Perry](https://open.spotify.com/artist/6ydUqYa9scVm35DpeO3DtE) | [Heavenly Praise](https://open.spotify.com/album/0v184BsooY0Gch84HYo5Bh) | 4:21 |

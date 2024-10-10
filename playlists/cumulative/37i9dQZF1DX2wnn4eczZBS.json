@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "indie & indiepop in het Nederlands. Cover: De Toegift",
+  "description": "indie & indiepop in het Nederlands. Cover: FULCO",
   "name": "indiepuntnl",
   "tracks": [
     {
@@ -157,6 +157,42 @@
     },
     {
       "album": {
+        "name": "BOM",
+        "url": "https://open.spotify.com/album/5PxyxmfnaxniQaGXSvVaym"
+      },
+      "artists": [
+        {
+          "name": "Hang Youth",
+          "url": "https://open.spotify.com/artist/33s4eablBmnrPlE3y6CZFR"
+        }
+      ],
+      "date_added": "2024-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126902,
+      "name": "BOM",
+      "url": "https://open.spotify.com/track/0CGEEbLcQQgGaf4W6vKfi6"
+    },
+    {
+      "album": {
+        "name": "Calls From The Hull vol. III",
+        "url": "https://open.spotify.com/album/2dQw0QVHFeOcArTpxaW76Y"
+      },
+      "artists": [
+        {
+          "name": "So-Fi",
+          "url": "https://open.spotify.com/artist/6TIw842G1nVz2xEhU9YlBs"
+        }
+      ],
+      "date_added": "2024-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105875,
+      "name": "Boter, Kaas en Eieren",
+      "url": "https://open.spotify.com/track/1ksF2Z3ql9E1HkoQ4wD1KE"
+    },
+    {
+      "album": {
         "name": "Chocoladefontein",
         "url": "https://open.spotify.com/album/3v03jn6nWDCkR11aGVeA5T"
       },
@@ -190,6 +226,24 @@
       "duration_ms": 149729,
       "name": "Deze Stilte",
       "url": "https://open.spotify.com/track/0z8QjAwDqKX3b0Oa1FDI8E"
+    },
+    {
+      "album": {
+        "name": "Die Wonen Niet Hier",
+        "url": "https://open.spotify.com/album/0Qd2HCXzZYWGnlyzSYekAt"
+      },
+      "artists": [
+        {
+          "name": "dorpsstraat 3",
+          "url": "https://open.spotify.com/artist/48XLHMAiLI8SAihFXXeV1A"
+        }
+      ],
+      "date_added": "2024-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257917,
+      "name": "Die Wonen Niet Hier",
+      "url": "https://open.spotify.com/track/2Fivjy4HSqVJcitOIRAblS"
     },
     {
       "album": {
@@ -517,6 +571,24 @@
     },
     {
       "album": {
+        "name": "Ik trek al mijn kleding uit",
+        "url": "https://open.spotify.com/album/4sg0FbbXiTB23ZVbApS5yW"
+      },
+      "artists": [
+        {
+          "name": "BARBARA.",
+          "url": "https://open.spotify.com/artist/1KowfscHGY7DvEHusHKN17"
+        }
+      ],
+      "date_added": "2024-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176824,
+      "name": "Ik trek al mijn kleding uit",
+      "url": "https://open.spotify.com/track/4HFmsQ1wNEjBKFoWBMr2Vy"
+    },
+    {
+      "album": {
         "name": "Ik Weet Dat Hij Het Wil - A COLORS SHOW",
         "url": "https://open.spotify.com/album/7460uSYYqdwNVMaDVRGU8a"
       },
@@ -532,6 +604,24 @@
       "duration_ms": 257527,
       "name": "Ik Weet Dat Hij Het Wil - A COLORS SHOW",
       "url": "https://open.spotify.com/track/40jbyydhwwhJobOx2ySQrL"
+    },
+    {
+      "album": {
+        "name": "Ik Weet Het",
+        "url": "https://open.spotify.com/album/6i2wKXyedwwZqobblxVfZt"
+      },
+      "artists": [
+        {
+          "name": "Droom Dit",
+          "url": "https://open.spotify.com/artist/535Rx3nGAAoN5eQ56bVcVs"
+        }
+      ],
+      "date_added": "2024-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241833,
+      "name": "Ik Weet Het",
+      "url": "https://open.spotify.com/track/1urU2l9m5Flg1YpphUPY26"
     },
     {
       "album": {
@@ -875,6 +965,28 @@
     },
     {
       "album": {
+        "name": "Mezelf niet meer",
+        "url": "https://open.spotify.com/album/2HW4uhjwhY39zp0rtpLSJK"
+      },
+      "artists": [
+        {
+          "name": "Sammie Sedano",
+          "url": "https://open.spotify.com/artist/2Rp1LwYCaBLDB36uurFDYT"
+        },
+        {
+          "name": "Louis Beton",
+          "url": "https://open.spotify.com/artist/6nV8WGgQdzHZHzWhg20vAP"
+        }
+      ],
+      "date_added": "2024-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170437,
+      "name": "Mezelf niet meer",
+      "url": "https://open.spotify.com/track/3qgS9HI3Ezcbf3SbIhxCBY"
+    },
+    {
+      "album": {
         "name": "Mijn Naam Is Niemand",
         "url": "https://open.spotify.com/album/7h0ye8wK1DjHi1KeDhC7sw"
       },
@@ -998,7 +1110,7 @@
       ],
       "date_added": "2024-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-10",
       "duration_ms": 262266,
       "name": "Oog om Oog (feat. Spinvis)",
       "url": "https://open.spotify.com/track/58eFsIty3d3vyNRmM9q9T7"
@@ -1103,6 +1215,24 @@
     },
     {
       "album": {
+        "name": "Naar De Haaien & Weer Terug",
+        "url": "https://open.spotify.com/album/49kVZFZguyqvfxt0HklIhg"
+      },
+      "artists": [
+        {
+          "name": "MEROL",
+          "url": "https://open.spotify.com/artist/7J41Q5hdwuBgyVo7zGhPhO"
+        }
+      ],
+      "date_added": "2024-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262554,
+      "name": "Salmari & Kreeft",
+      "url": "https://open.spotify.com/track/12BhfJTdaDmy9dSAQIaLPN"
+    },
+    {
+      "album": {
         "name": "Sexy Genoeg (feat. MEROL)",
         "url": "https://open.spotify.com/album/1DiAV9MiIWkWodHdqElI9M"
       },
@@ -1198,6 +1328,24 @@
       "duration_ms": 184024,
       "name": "Spijt",
       "url": "https://open.spotify.com/track/4Ny674v1zFuFdrRU01hh5I"
+    },
+    {
+      "album": {
+        "name": "Symptomen",
+        "url": "https://open.spotify.com/album/2dYGcFYAJbqSMHw8H5hV6f"
+      },
+      "artists": [
+        {
+          "name": "Johannes Is Zijn Naam",
+          "url": "https://open.spotify.com/artist/2RBFRe2zOvWfzMotCRr7D0"
+        }
+      ],
+      "date_added": "2024-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222506,
+      "name": "Symptomen",
+      "url": "https://open.spotify.com/track/2MSF7qswBGmD3VdWxvWygs"
     },
     {
       "album": {
@@ -1346,7 +1494,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-10",
       "duration_ms": 136451,
       "name": "Vlinders",
       "url": "https://open.spotify.com/track/0kH5uCNI4j4nfsAm7CPMXf"
@@ -1386,7 +1534,7 @@
       ],
       "date_added": "2024-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-10",
       "duration_ms": 171959,
       "name": "We Doen Er Allemaal Aan Mee",
       "url": "https://open.spotify.com/track/6bOIf6PY3dHknq5RzWxSbe"
@@ -1516,7 +1664,7 @@
       ],
       "date_added": "2024-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-10",
       "duration_ms": 203229,
       "name": "Zachte Landing",
       "url": "https://open.spotify.com/track/2NsGqzU5IYKu0JHs3WGDbP"
@@ -1556,6 +1704,24 @@
       "duration_ms": 180506,
       "name": "Zonder Liedjes",
       "url": "https://open.spotify.com/track/11eXLYhb5zZT7S54E9xC3b"
+    },
+    {
+      "album": {
+        "name": "Zonnemaire",
+        "url": "https://open.spotify.com/album/2G4fDNmNI0QAvasFqr2mfS"
+      },
+      "artists": [
+        {
+          "name": "VOS",
+          "url": "https://open.spotify.com/artist/0l8iUSzBzrpKtRAa8norAw"
+        }
+      ],
+      "date_added": "2024-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184760,
+      "name": "Zonnemaire",
+      "url": "https://open.spotify.com/track/2vQShEd2G8MOGenQFEl5U2"
     },
     {
       "album": {

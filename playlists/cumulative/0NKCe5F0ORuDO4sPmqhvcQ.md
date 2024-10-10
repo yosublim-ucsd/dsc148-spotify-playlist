@@ -4,7 +4,7 @@
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-641 songs - 1 day 12 hr 1 min
+642 songs - 1 day 12 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -482,6 +482,7 @@
 | [sad4whattt \- From "Euphoria" An HBO Original Series](https://open.spotify.com/track/3oM8s8hnrh6xjKv1iycJaZ) | [ericdoa](https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn) | [sad4whattt \(From "Euphoria" An HBO Original Series\)](https://open.spotify.com/album/7y5qaNQg9AUbPAqRB4cinS) | 1:58 | 2022-01-31 | 2022-02-16 |
 | [Salt and Vinegar](https://open.spotify.com/track/1GsKftiCfhs00hbulNPHV1) | [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6) | [Salt and Vinegar](https://open.spotify.com/album/3WvRrly2MB7uk6oEFzcA9E) | 3:15 | 2022-02-15 | 2022-03-10 |
 | [Say](https://open.spotify.com/track/6OVWzb8z0HCUscjq9wb1Yo) | [Memphis LK](https://open.spotify.com/artist/7z3XgqpRYdNJ7RvEUlYaUe), [Willaris\. K](https://open.spotify.com/artist/6ZHeg2Op5ZkNppXbNLSglj) | [Say](https://open.spotify.com/album/0J9qs4ytoY8jvOuf4E2lp5) | 2:54 | 2024-07-15 | 2024-09-07 |
+| [Say My Name](https://open.spotify.com/track/6QsDAv7zJO62zgtG10qyPO) | [PASSPORT](https://open.spotify.com/artist/5F8uZfcb8vSjCAtsLSVWOL) | [Say My Name](https://open.spotify.com/album/5uWHA7bkYPLcyMZsC8nTwn) | 3:31 | 2024-10-09 |  |
 | [Say Nothing \(feat\. MAY\-A\)](https://open.spotify.com/track/424Uwmm1kNW07Ty1nOhSpl) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [Say Nothing \(feat\. MAY\-A\)](https://open.spotify.com/album/3QMl37rC1ye7PKRFH7Bgz9) | 3:52 | 2022-02-10 | 2022-03-10 |
 | [Scandalous \(with Tinashe\)](https://open.spotify.com/track/0HoDk4kVVbMfdBm5yy8jZq) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Scandalous \(with Tinashe\)](https://open.spotify.com/album/2EHnywdcT0XROIxAK8VIoP) | 2:39 | 2022-10-06 | 2023-01-30 |
 | [searching](https://open.spotify.com/track/6LNIPD5VhXOj8xO1uOryri) | [juuku](https://open.spotify.com/artist/2ixBQngmF4ZFXYHi8sJTfl), [REMNANT.exe](https://open.spotify.com/artist/46q8Ul5r65jpuyZ8LwWPN3) | [Ophelia Presents: Advent Volume 4](https://open.spotify.com/album/5qocn2lAsog53oZj9VoF03) | 3:40 | 2022-02-07 | 2022-03-10 |

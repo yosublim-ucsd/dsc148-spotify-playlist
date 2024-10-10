@@ -2765,6 +2765,24 @@
     },
     {
       "album": {
+        "name": "New Era",
+        "url": "https://open.spotify.com/album/32Lt52CsRNmMEl9BMKXbfT"
+      },
+      "artists": [
+        {
+          "name": "Armaan Bhullar",
+          "url": "https://open.spotify.com/artist/6g24MQXt7eR4oVKsMTNcT3"
+        }
+      ],
+      "date_added": "2024-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117934,
+      "name": "New Era",
+      "url": "https://open.spotify.com/track/153SAswNdu6wCV9HYPN755"
+    },
+    {
+      "album": {
         "name": "Nisha Sweety",
         "url": "https://open.spotify.com/album/06E2OaiyC9N7i2eG8CdcFJ"
       },
@@ -2802,6 +2820,28 @@
       "duration_ms": 170387,
       "name": "No Love",
       "url": "https://open.spotify.com/track/08Isz2ETWSBhvIl8UpKYsp"
+    },
+    {
+      "album": {
+        "name": "No Parking",
+        "url": "https://open.spotify.com/album/23R89MWv4MssTrDBRG15Ik"
+      },
+      "artists": [
+        {
+          "name": "Nagii",
+          "url": "https://open.spotify.com/artist/3z6tyHPOToaK9BlttcZa5E"
+        },
+        {
+          "name": "MNLTX",
+          "url": "https://open.spotify.com/artist/2g012qHtkRZyFmoM0Pu5Ws"
+        }
+      ],
+      "date_added": "2024-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164210,
+      "name": "No Parking",
+      "url": "https://open.spotify.com/track/3rm07jfce5fWa1iaV4Z5qz"
     },
     {
       "album": {

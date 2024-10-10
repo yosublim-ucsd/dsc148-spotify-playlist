@@ -1,12 +1,12 @@
 {
   "description": "Dendang Dangdut teratas. Cover: King Nassar",
-  "num_followers": 189136,
+  "num_followers": 189142,
   "original_name": "Dangdut Top",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zv/Z2gAAAADQRfq4ntF5Riae81P9S9El",
+  "snapshot_id": "ZwarPwAAAABj6bVdFYqBQMTLZpOjM5Jm",
   "tracks": [
     {
       "added_at": "2024-10-04 05:10:48",
@@ -99,6 +99,22 @@
       "duration_ms": 324568,
       "name": "Ada Rindu",
       "url": "https://open.spotify.com/track/4lTELaWuppMIZVkwp9Wg2S"
+    },
+    {
+      "added_at": "2024-10-09 16:11:43",
+      "album": {
+        "name": "Diculik Cinta",
+        "url": "https://open.spotify.com/album/1WAky2d2OC4s30TL2pcSzh"
+      },
+      "artists": [
+        {
+          "name": "Gusti Irwan Wibowo",
+          "url": "https://open.spotify.com/artist/79hiSpofXIj7h1wD5KKsk3"
+        }
+      ],
+      "duration_ms": 234375,
+      "name": "Diculik Cinta",
+      "url": "https://open.spotify.com/track/2mPoMjgDfxbTpjOKtB5PRy"
     },
     {
       "added_at": "2024-10-04 12:04:42",

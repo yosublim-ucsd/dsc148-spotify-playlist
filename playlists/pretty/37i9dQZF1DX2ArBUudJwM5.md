@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 
 > Mujeres a todo volumen, con ODD MAMI en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,397 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,408 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [No va a pasar](https://open.spotify.com/track/5X6u72qVyFS6O5tsnBIlnO) | [ODD MAMI](https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6) | [Ultra](https://open.spotify.com/album/2WQ0t4lLQINzhFzD74bODS) | 3:31 |
+| 1 | [General Paz](https://open.spotify.com/track/7uRSvEQAlYng9g92DQY6RX) | [ODD MAMI](https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6) | [General Paz](https://open.spotify.com/album/4IA2B09XZkxSovqVhonkUR) | 2:49 |
 | 2 | [contacto visual](https://open.spotify.com/track/3QDb9qWDXBbwO9dlMIpvOc) | [Saramalacara](https://open.spotify.com/artist/3QchzUOTSCKWmaRGEEiuir) | [contacto visual](https://open.spotify.com/album/19iYFIFDOV38H7FdbFou4e) | 1:56 |
 | 3 | [I'M SO SEXY](https://open.spotify.com/track/7kh7H2L79O90XyBD5w9Nip) | [FEMI](https://open.spotify.com/artist/0Zq7qMNo2UXDat3Tzf0x2s) | [I'M SO SEXY](https://open.spotify.com/album/5TWsuuD1VLhnddk7gqPO3C) | 2:04 |
 | 4 | [no es amor](https://open.spotify.com/track/0Jf29aDlnBdpCqSPyLgSmX) | [O.L.I.V.I.A](https://open.spotify.com/artist/4t97XgRwDBrTr46y53wjAK), [BB ASUL](https://open.spotify.com/artist/27PauMy7dOiHb7sI8h6s4T), [La Finesse](https://open.spotify.com/artist/3xV8oWG5BKYU2LXVxS779A) | [no es amor](https://open.spotify.com/album/2aCyDAFmmIdy5ipsRIU8Vm) | 3:14 |
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 7 | [SCARYHOT](https://open.spotify.com/track/0CGubjzk4lT6gqaomfcKxy) | [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN) | [SCARYHOT](https://open.spotify.com/album/5cBry92oiYAS2CmcCRXzbU) | 2:09 |
 | 8 | [Enamorada](https://open.spotify.com/track/18qskSnKcANSA5hzpQf2Jv) | [Feli Colina](https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs), [BLAIR](https://open.spotify.com/artist/5sSn8vGaBxIKeCclAk67TJ) | [Enamorada](https://open.spotify.com/album/6OCzzBiS3G9gQg55C6iYUE) | 2:32 |
 | 9 | [babel](https://open.spotify.com/track/39MQ2u51IgNUPycV2gyG4g) | [Babeblade](https://open.spotify.com/artist/3m9k1lhn5q1BBLtYGqeFjm) | [el cielo es un lugar hostil](https://open.spotify.com/album/7d0B1NueHTKNW7j5hvl80V) | 2:43 |
-| 10 | [1312 \(Portarme Mal\)](https://open.spotify.com/track/1kGTOTvzDICyz3BiTNQEq5) | [ODD MAMI](https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6) | [Mosaicos](https://open.spotify.com/album/5o2sEyIX07DbCg86qRWOOC) | 3:38 |
+| 10 | [No va a pasar](https://open.spotify.com/track/5X6u72qVyFS6O5tsnBIlnO) | [ODD MAMI](https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6) | [Ultra](https://open.spotify.com/album/2WQ0t4lLQINzhFzD74bODS) | 3:31 |
 | 11 | [FANÁTICO](https://open.spotify.com/track/32fRErxI6gKskZXSbEAAAn) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [FANÁTICO](https://open.spotify.com/album/5S6TLyMgO3WBE3v8FISDOw) | 2:42 |
 | 12 | [Caminar en Cristal](https://open.spotify.com/track/4YlHkunt4qLnQy1Gtvivlb) | [Catalina Ammaturo](https://open.spotify.com/artist/2qDGiovKpP5yS5jD2WfH7a) | [Caminar en Cristal](https://open.spotify.com/album/3VurkmLzOWr3KDCUbTSC5S) | 2:24 |
 | 13 | [Pulso](https://open.spotify.com/track/1OqoF7ANdhrrN1gvWI3gN5) | [Nenagenix](https://open.spotify.com/artist/72uTXCtp7vhZkvYdnoYu6I) | [Lo Más Cercano a Caer](https://open.spotify.com/album/5TsOqXNqzC1ZiHtVpeqvQK) | 2:26 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 49 | [ANFIBIA](https://open.spotify.com/track/3Psqs9BrUWUltpgOjEIwwV) | [SIMONA](https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT) | [PIEL ANFIBIA](https://open.spotify.com/album/2W2wzemYK3xNDkPG8qaJKg) | 2:31 |
 | 50 | [NO SE LO K TENES](https://open.spotify.com/track/4OAHUIoloKdik5KGTLJYqX) | [Fiah](https://open.spotify.com/artist/6UKNGNdyAMQo1SepZHMzH5) | [NO SE LO K TENES](https://open.spotify.com/album/1hIp75AxXm5jMxSRWjgcmo) | 2:54 |
 
-Snapshot ID: `Zvy3MAAAAACY57RSSLpQ8kNil4rNXF5w`
+Snapshot ID: `ZwbE2AAAAABLOTMZEcikbpRnvAbJ98lG`

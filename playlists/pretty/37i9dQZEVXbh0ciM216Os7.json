@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAAAW5VhGgmW2XuDkz3riYqb0",
+  "snapshot_id": "AAAAAAAAAAAflNEO5YCf+VAuxEjJSjRG",
   "tracks": [
     {
       "added_at": "2024-10-04 04:00:00",
@@ -83,8 +83,8 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Life Sucks",
-        "url": "https://open.spotify.com/album/4M8wmqEOBiRmTUIlGfLi34"
+        "name": "Ball Alone (feat. Joey Bada$$ & Saba)",
+        "url": "https://open.spotify.com/album/4uAGZUP763X7MGYaxWZSvA"
       },
       "artists": [
         {
@@ -102,7 +102,7 @@
       ],
       "duration_ms": 174835,
       "name": "Ball Alone (feat. Joey Bada$$ & Saba)",
-      "url": "https://open.spotify.com/track/1iFq30sebSBYZkIcmYLtrY"
+      "url": "https://open.spotify.com/track/2ek3ACYo7h7exTdeCGwtMC"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -479,8 +479,8 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Mirage Tour '82 (Live)",
-        "url": "https://open.spotify.com/album/62BXtgi628S51UANvOPTxi"
+        "name": "Oh Well (Live at The Forum, Inglewood, CA, 10/21/82)",
+        "url": "https://open.spotify.com/album/66ifWgXVUmxAaVaaOYqkYm"
       },
       "artists": [
         {
@@ -490,7 +490,7 @@
       ],
       "duration_ms": 272333,
       "name": "Oh Well (Live at The Forum, Inglewood, CA, 10/21/82)",
-      "url": "https://open.spotify.com/track/2Jr4yka1zUfsnQdeLuIxul"
+      "url": "https://open.spotify.com/track/1TLJVrZwI5nMmIhJvH6dXv"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -735,6 +735,22 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
+        "name": "Abysses & Ivresse des profondeurs",
+        "url": "https://open.spotify.com/album/01jWZbg74Ckcr7I0u1xwtU"
+      },
+      "artists": [
+        {
+          "name": "Scylla",
+          "url": "https://open.spotify.com/artist/7fRBY7RRf4iMn2Z4bhZcYA"
+        }
+      ],
+      "duration_ms": 497746,
+      "name": "R\u00e9pondez-moi 2024 / Humain",
+      "url": "https://open.spotify.com/track/5BphWiCC0CWGbLXtygIqXT"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
         "name": "Sicilienne, Op. 78",
         "url": "https://open.spotify.com/album/52UFY4THcVp1PTPLFaUYt2"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 219186,
       "name": "Sicilienne, Op. 78",
       "url": "https://open.spotify.com/track/63WAGVk3YHoFIV4WXhtiJD"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "Abysses & Ivresse des profondeurs",
-        "url": "https://open.spotify.com/album/01jWZbg74Ckcr7I0u1xwtU"
-      },
-      "artists": [
-        {
-          "name": "Scylla",
-          "url": "https://open.spotify.com/artist/7fRBY7RRf4iMn2Z4bhZcYA"
-        }
-      ],
-      "duration_ms": 497746,
-      "name": "R\u00e9pondez-moi 2024 / Humain",
-      "url": "https://open.spotify.com/track/5BphWiCC0CWGbLXtygIqXT"
     }
   ],
   "unique_name": "Release Radar (@ajcooke94)",

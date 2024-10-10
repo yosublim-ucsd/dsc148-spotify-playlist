@@ -4,7 +4,7 @@
 
 > 
 
-489 songs - 1 day 7 hr 7 min
+495 songs - 1 day 7 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,6 +134,7 @@
 | [Effect and Cause](https://open.spotify.com/track/74DR1ZeecFjLEQqLu9QBBP) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Icky Thump](https://open.spotify.com/album/2DSNJ8bdoYfC6Uydg8ilBC) | 3:00 | 2024-07-16 |  |
 | [Elephant](https://open.spotify.com/track/6HqWcIutC3Bwk6awM1jnGP) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Lonerism](https://open.spotify.com/album/76vY9yohh4kVwSKkyKbyEQ) | 3:31 | 2024-07-19 |  |
 | [Everybody](https://open.spotify.com/track/2PK4GASncyY4yInMaQokCv) | [Ak9](https://open.spotify.com/artist/54TYKK5c6YUmu6FsZnEW5w) | [Everybody](https://open.spotify.com/album/62BIm1WKfrnhkYDRnqW6gL) | 3:07 | 2024-08-23 | 2024-09-09 |
+| [Faded Black Tattoo](https://open.spotify.com/track/3yutPO9ct6ZUqqEEHFm2qZ) | [Far From Saints](https://open.spotify.com/artist/4EEgkAsMjvBxu9iSHS3j7r) | [Far From Saints](https://open.spotify.com/album/7fMb28QcjxJ5nfjBxKQDKn) | 4:22 | 2024-10-09 |  |
 | [FAIRY TAIL Main Theme](https://open.spotify.com/track/7JoZiEMrwjpD18krCV8Czo) | [Yasuharu Takanashi](https://open.spotify.com/artist/64mecceQewFCKwCK6JBW0o) | ["Fairy Tail" Original Soundtrack Vol.1](https://open.spotify.com/album/5SZKUWakunPJRuseVjCsv0) | 2:32 | 2024-07-17 |  |
 | [Falling In Love](https://open.spotify.com/track/0O0bttAxJKKWqAqY2Nq4mC) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cry](https://open.spotify.com/album/4uQ5kFmXQdCxz3WvM4UUzy) | 4:05 | 2024-07-19 |  |
 | [Fangs](https://open.spotify.com/track/6fIMWdcH6sZth7HAdAKXzg) | [Ghastly](https://open.spotify.com/artist/2Sa4c9qKaI7ILJs8D6gUCh), [ALRT](https://open.spotify.com/artist/4XH5qVwKcWRS0Z6tr85exf) | [Fangs](https://open.spotify.com/album/26lIHDVYbt3eYsAinD0c2o) | 3:42 | 2024-09-08 | 2024-09-28 |
@@ -306,6 +307,7 @@
 | [Never Gonna Give You Up](https://open.spotify.com/track/4PTG3Z6ehGkBFwjybzWkR8) | [Rick Astley](https://open.spotify.com/artist/0gxyHStUsqpMadRV0Di1Qt) | [Whenever You Need Somebody](https://open.spotify.com/album/6eUW0wxWtzkFdaEFsTJto6) | 3:33 | 2024-07-17 |  |
 | [Nice To Be Out](https://open.spotify.com/track/607NbhqKDyi90F4qcIh8NJ) | [Stereophonics](https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8) | [Just Enough Education To Perform](https://open.spotify.com/album/51I2N3YcrmqOJfzywty3l4) | 3:08 | 2024-07-16 |  |
 | [Night's Body](https://open.spotify.com/track/4M42lt7DI10e5w3PP6dfWt) | [Eivør](https://open.spotify.com/artist/2dB4ya2W1Gvng8gjWSPu2H) | [Room](https://open.spotify.com/album/05iJSXjikNufQHRxC06zWk) | 4:18 | 2024-07-16 |  |
+| [No Fool Like An Old Fool](https://open.spotify.com/track/2VxS36pzqMhiFwMj1X0c7l) | [Far From Saints](https://open.spotify.com/artist/4EEgkAsMjvBxu9iSHS3j7r) | [Far From Saints](https://open.spotify.com/album/7fMb28QcjxJ5nfjBxKQDKn) | 4:14 | 2024-10-09 |  |
 | [No Roots](https://open.spotify.com/track/71UXJmNkfsvf9WQnAChwvD) | [Alice Merton](https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip) | [No Roots](https://open.spotify.com/album/3zz6j8HaItLibuBZcMlHIE) | 3:55 | 2024-07-19 |  |
 | [None Shall Pass](https://open.spotify.com/track/6h5Mjne0MzHEX4t9rEQN75) | [Aesop Rock](https://open.spotify.com/artist/2fSaE6BXtQy0x7R7v9IOmZ) | [None Shall Pass](https://open.spotify.com/album/3syXRVRYkudG7o5ZQXb9Tt) | 4:03 | 2024-07-19 |  |
 | [Not Up To You](https://open.spotify.com/track/4J96X5mPSteBObuCYsc8cV) | [Stereophonics](https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8) | [Word Gets Around \(Deluxe Edition\)](https://open.spotify.com/album/4yCOVbf9hytHyhIJzwqQV6) | 4:37 | 2024-07-16 |  |
@@ -363,6 +365,7 @@
 | [Science Fiction / Double Feature](https://open.spotify.com/track/0aLh1ulbMRyhfDkmgg64XB) | [Ivy Levan](https://open.spotify.com/artist/1QAHkkM4wr2MVIqo6KV2jq) | [The Rocky Horror Picture Show: Let's Do the Time Warp Again](https://open.spotify.com/album/00hH0jAVPtgkN2eDO6NMQy) | 4:30 | 2024-07-18 |  |
 | [Scotland](https://open.spotify.com/track/3kZEYNe7MeDRmOGfJbo8Xl) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [C\-Sides](https://open.spotify.com/album/4MukviK8Vj2Hfsfg8g99Rk) | 3:48 | 2024-07-17 |  |
 | [Scream](https://open.spotify.com/track/6rbcLlshzTmZSnwLvRlQRw) | [Oddnesse](https://open.spotify.com/artist/2LjbaKAB72Nj5zKjcRyOxz) | [Scream](https://open.spotify.com/album/1hENr5sxupGwYDflGBzL0j) | 3:46 | 2024-07-19 |  |
+| [Screaming Hallelujah](https://open.spotify.com/track/7H204xjB1r3SE2Fo2pnMIg) | [Far From Saints](https://open.spotify.com/artist/4EEgkAsMjvBxu9iSHS3j7r) | [Far From Saints](https://open.spotify.com/album/7fMb28QcjxJ5nfjBxKQDKn) | 4:56 | 2024-10-09 |  |
 | [Screwdriver](https://open.spotify.com/track/6B6PY39K7Y6wJE2IqVJMYu) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [The White Stripes](https://open.spotify.com/album/4Nemfc7fJzJmmqhBQ8khhj) | 3:14 | 2024-07-17 |  |
 | [Seer](https://open.spotify.com/track/0RGtMGYaz9esrHsFiC8TJR) | [Witch](https://open.spotify.com/artist/6uNOBEATMcW8SSunnKy9a3) | [Witch](https://open.spotify.com/album/5LcBa7FlZORQ1RQRJtlxFz) | 7:57 | 2024-07-16 |  |
 | [Selkie](https://open.spotify.com/track/42PPLNYjvjv17r7pT1sYVm) | [Blackbriar](https://open.spotify.com/artist/6PXQUX3BYTSVj7LcvviOmI) | [The Cause of Shipwreck](https://open.spotify.com/album/5pkvMawHD8iGBuzaQcQ5xG) | 4:23 | 2024-07-21 |  |
@@ -419,6 +422,7 @@
 | [The Lighting of the Beacons](https://open.spotify.com/track/4Dax86RGUhE5xUEJokVTCd) | [Howard Shore](https://open.spotify.com/artist/0OcclcP5o8VKH2TRqSY2A7) | [The Lord of the Rings \- The Return of the King \- The Complete Recordings \(Limited Edition\)](https://open.spotify.com/album/2Re6RMBEfD8iv1HMxLMdzI) | 9:03 | 2024-07-16 |  |
 | [The Mindshaker](https://open.spotify.com/track/6fEAu7JRaeepDU0HJn0Kce) | [Moksi](https://open.spotify.com/artist/5jm3x1qIibWdKSEMw2G011), [Merow](https://open.spotify.com/artist/43goRyUiLUUbt0QXpfcU8p) | [The Mindshaker](https://open.spotify.com/album/5Rwk3LQBqIEIV3F3namFtt) | 2:58 | 2024-07-16 | 2024-07-31 |
 | [The Night We Met](https://open.spotify.com/track/3hRV0jL3vUpRrcy398teAU) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Strange Trails](https://open.spotify.com/album/4sD1qg4jwTZR4mvR4Iflk5) | 3:28 | 2024-07-19 |  |
+| [The Ride](https://open.spotify.com/track/5NVJpfevnPjcljk7CRfNdU) | [Far From Saints](https://open.spotify.com/artist/4EEgkAsMjvBxu9iSHS3j7r) | [Far From Saints](https://open.spotify.com/album/7fMb28QcjxJ5nfjBxKQDKn) | 4:39 | 2024-10-09 |  |
 | [The Ride of the Rohirrim](https://open.spotify.com/track/2l0xjJ6Fj72Bw4ReAJBrAo) | [Howard Shore](https://open.spotify.com/artist/0OcclcP5o8VKH2TRqSY2A7) | [The Lord of the Rings: The Return of the King \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/38x0H9PdY1fHh8EdfPUXqa) | 2:08 | 2024-07-16 |  |
 | [The Ring Goes South](https://open.spotify.com/track/6IQY3GEMC2B3mchMvi4NZj) | [Howard Shore](https://open.spotify.com/artist/0OcclcP5o8VKH2TRqSY2A7) | [The Lord of the Rings: The Fellowship of the Ring \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/04rz93AqGy9JduzV3K81Dh) | 2:03 | 2024-07-16 |  |
 | [The Rocky Road To Dublin](https://open.spotify.com/track/6NK9ACUrjkf2MYvt7zQHNQ) | [Colm R\. McGuinness](https://open.spotify.com/artist/2hwZ6O8nd7zKSUqRhYPo5U) | [Don't Trad On Me](https://open.spotify.com/album/5R1eCFGp4YrS4SsoYMUEOk) | 3:01 | 2024-07-17 |  |
@@ -428,6 +432,7 @@
 | [The Vote Tory Rap \(UK General Election\)](https://open.spotify.com/track/2ZQ7jOOfC8HbHscPYAix7U) | [MC Hammersmith](https://open.spotify.com/artist/7tFnHRwujvFVgPFUghbeb9) | [The Vote Tory Rap \(UK General Election\)](https://open.spotify.com/album/2meh1vzwfgsfhbQPPJzY9t) | 5:58 | 2024-07-17 |  |
 | [The Waiting Game](https://open.spotify.com/track/2SZko1VlhvcECPO6mY8LPS) | [Kalandra](https://open.spotify.com/artist/2N0vFuOoMtAQfBmhsRo24e) | [The Line](https://open.spotify.com/album/7bI5b4KEynXXnebLcBMPr1) | 4:06 | 2024-09-25 |  |
 | [The Way You Used to Do](https://open.spotify.com/track/1wsnCfewxZlCs7cJxkaMZM) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Villains](https://open.spotify.com/album/6JdX9MGiEMypqYLMKyIE8a) | 4:34 | 2024-07-19 |  |
+| [The Weather Left To Go](https://open.spotify.com/track/2kF5FIyyMDvKUuEnz7IwjD) | [Far From Saints](https://open.spotify.com/artist/4EEgkAsMjvBxu9iSHS3j7r) | [The Weather Left To Go](https://open.spotify.com/album/5vD3vIPyJkgDy672uqR9Fm) | 3:15 | 2024-10-09 |  |
 | [The Wolf](https://open.spotify.com/track/3TB2IK1QVfNH04puo4KQXE) | [The Deadbeat Cousins](https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40) | [Old Habits](https://open.spotify.com/album/4YXrI2ePBrOXvATQ8qLd8y) | 2:46 | 2024-09-23 |  |
 | [Therapy](https://open.spotify.com/track/7Cpc4zbO1DShE6eikGETd9) | [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y) | [Therapy](https://open.spotify.com/album/1KhopIaV113en6vdzKxWGZ) | 4:00 | 2024-09-27 |  |
 | [They Call Me](https://open.spotify.com/track/78OghQo2gd5XxKHS5ahfcx) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz) | [The RED Tape \(Deluxe\)](https://open.spotify.com/album/04Q6XWn2Zbiu6g7Pr10f5V) | 3:12 | 2024-09-08 | 2024-09-28 |
@@ -451,6 +456,7 @@
 | [Warriors](https://open.spotify.com/track/4keKh92BlOnRSEBeumCPM4) | [Too Many Zooz](https://open.spotify.com/artist/72rZmJbRFSY6IFJAysfOdr) | [Subway Gawdz](https://open.spotify.com/album/0GvhshU38CjwxkvWAmbXS0) | 3:31 | 2024-07-04 |  |
 | [waterlily](https://open.spotify.com/track/1g9WG7dnAn1LJKBNocMbY3) | [crushed](https://open.spotify.com/artist/5U7wHWp1AmjN0mzvAfA6YM) | [extra life](https://open.spotify.com/album/415GabuRFqf1xtBC9pih6T) | 4:28 | 2024-07-19 |  |
 | [We Were Meant To Be](https://open.spotify.com/track/5aGJndh7pkAlWmQkBIU23l) | [Loving Caliber](https://open.spotify.com/artist/6psCCMHymYfQy6VvYRr6cs) | [Circles](https://open.spotify.com/album/0m0KvChGyGo2e7MmQEMC2z) | 3:38 | 2024-07-16 |  |
+| [We Won't Get Out Alive](https://open.spotify.com/track/4H0PxDgiAjYcHVI1IqKgWe) | [Far From Saints](https://open.spotify.com/artist/4EEgkAsMjvBxu9iSHS3j7r) | [Far From Saints](https://open.spotify.com/album/7fMb28QcjxJ5nfjBxKQDKn) | 3:32 | 2024-10-09 |  |
 | [We're In The Music Biz](https://open.spotify.com/track/1Swj4UE0NCoyC0jKbIhxu4) | [Robots In Disguise](https://open.spotify.com/artist/6p0e3Ff2s0DVh1I7WjOeqq) | [We're In The Music Biz](https://open.spotify.com/album/0OE7prIUUwWRaIpjg09fZB) | 3:36 | 2024-07-18 |  |
 | [We're In This Together Now](https://open.spotify.com/track/5E5BBp63ENr6ypo773Ilbw) | [Loving Caliber](https://open.spotify.com/artist/6psCCMHymYfQy6VvYRr6cs) | [When We Were Younger](https://open.spotify.com/album/6tZM1oIKULVIKJKV3Zi5PG) | 3:52 | 2024-07-16 |  |
 | [Weakness and Lust](https://open.spotify.com/track/4ApdCY41L8w7oK9HS5plmg) | [Blackbriar](https://open.spotify.com/artist/6PXQUX3BYTSVj7LcvviOmI) | [The Cause of Shipwreck](https://open.spotify.com/album/5pkvMawHD8iGBuzaQcQ5xG) | 4:54 | 2024-07-21 |  |

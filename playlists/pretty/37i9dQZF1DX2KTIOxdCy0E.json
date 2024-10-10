@@ -1,15 +1,15 @@
 {
   "description": "Will they...won't they...should they? Listen to the music from Nobody Wants This, curated by Este Haim + Zach Dawes, now streaming on Netflix. ",
-  "num_followers": 109673,
+  "num_followers": 112113,
   "original_name": "Nobody Wants This Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwRNmAAAAACtkjUdAPoYXHbhmJfJpCU5",
+  "snapshot_id": "Zwb1gQAAAABRaOEMAv2d6nk1NlHDeg2i",
   "tracks": [
     {
-      "added_at": "2024-09-19 07:00:00",
+      "added_at": "2024-10-09 21:28:33",
       "album": {
         "name": "I Know Alone",
         "url": "https://open.spotify.com/album/4veKZd8uf7TDVo1KQRVhuk"
@@ -20,9 +20,73 @@
           "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
         }
       ],
+      "duration_ms": 205026,
+      "name": "Summer Girl - Bonus Track",
+      "url": "https://open.spotify.com/track/7GLS0oi9U51hfoFinKoRIj"
+    },
+    {
+      "added_at": "2024-10-09 21:28:33",
+      "album": {
+        "name": "strongboi",
+        "url": "https://open.spotify.com/album/1SMqO3mYNla8IxJIEFkQ7A"
+      },
+      "artists": [
+        {
+          "name": "strongboi",
+          "url": "https://open.spotify.com/artist/2ygluM9w0lmulZrMJ1pI0i"
+        }
+      ],
+      "duration_ms": 306519,
+      "name": "ugi",
+      "url": "https://open.spotify.com/track/3cdUh8ObQt2wrAfm7Ywpsj"
+    },
+    {
+      "added_at": "2024-10-03 20:29:39",
+      "album": {
+        "name": "Big Ideas",
+        "url": "https://open.spotify.com/album/7HQOEMCDGKY8eJyQPdsnYH"
+      },
+      "artists": [
+        {
+          "name": "Remi Wolf",
+          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
+        }
+      ],
+      "duration_ms": 243952,
+      "name": "Cinderella",
+      "url": "https://open.spotify.com/track/46clCWv55EyW1ZlOl796It"
+    },
+    {
+      "added_at": "2024-10-09 21:28:33",
+      "album": {
+        "name": "Flashbacks: A Collection of B-Sides from the Great Pretenders",
+        "url": "https://open.spotify.com/album/2i5MKbfYVMvQNGHN7ivWNi"
+      },
+      "artists": [
+        {
+          "name": "Mini Mansions",
+          "url": "https://open.spotify.com/artist/07xbJ7SM1JopFtI1qXvSww"
+        }
+      ],
+      "duration_ms": 238892,
+      "name": "Drive",
+      "url": "https://open.spotify.com/track/7tMKduIg8DA3eaQnte00FW"
+    },
+    {
+      "added_at": "2024-10-09 21:28:33",
+      "album": {
+        "name": "Women In Music Pt. III",
+        "url": "https://open.spotify.com/album/396EJBtUzseofX2YCBJVvM"
+      },
+      "artists": [
+        {
+          "name": "HAIM",
+          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
+        }
+      ],
       "duration_ms": 204280,
       "name": "Now I'm In It - Bonus Track",
-      "url": "https://open.spotify.com/track/79j4vuHRCd99r5PvgG1zev"
+      "url": "https://open.spotify.com/track/5T8OICEqdqbx8Uz7L5abkH"
     },
     {
       "added_at": "2024-09-19 07:00:00",
@@ -41,20 +105,36 @@
       "url": "https://open.spotify.com/track/1HZxwr7sLtJzK6Jt2G6cu0"
     },
     {
-      "added_at": "2024-10-03 20:29:39",
+      "added_at": "2024-10-07 21:07:36",
       "album": {
-        "name": "Big Ideas",
-        "url": "https://open.spotify.com/album/7HQOEMCDGKY8eJyQPdsnYH"
+        "name": "Tonight Turns to Nothing",
+        "url": "https://open.spotify.com/album/3t7fqy6q4CUW9LK0Zuz7nP"
       },
       "artists": [
         {
-          "name": "Remi Wolf",
-          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
+          "name": "Olivia Kaplan",
+          "url": "https://open.spotify.com/artist/5JjA5aBhPlK554aaa1RRkd"
         }
       ],
-      "duration_ms": 243952,
-      "name": "Cinderella",
-      "url": "https://open.spotify.com/track/46clCWv55EyW1ZlOl796It"
+      "duration_ms": 180121,
+      "name": "Seen By You",
+      "url": "https://open.spotify.com/track/3ypTv5heHAzMpy3TqajZX1"
+    },
+    {
+      "added_at": "2024-10-09 21:28:33",
+      "album": {
+        "name": "Sebastian",
+        "url": "https://open.spotify.com/album/2AtbIX0OFtb2TN9NpBqzo4"
+      },
+      "artists": [
+        {
+          "name": "Yeek",
+          "url": "https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM"
+        }
+      ],
+      "duration_ms": 188176,
+      "name": "Shake",
+      "url": "https://open.spotify.com/track/0Lm7neol1vnlsJmTvUyXjG"
     },
     {
       "added_at": "2024-09-19 07:00:00",
@@ -107,8 +187,24 @@
     {
       "added_at": "2024-09-19 07:00:00",
       "album": {
-        "name": "Sure Feels Good",
-        "url": "https://open.spotify.com/album/4rJzRAfZMrvtKkS15nepLt"
+        "name": "ANTI (Deluxe)",
+        "url": "https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "Love On The Brain",
+      "url": "https://open.spotify.com/track/5oO3drDxtziYU2H1X23ZIp"
+    },
+    {
+      "added_at": "2024-10-09 21:28:33",
+      "album": {
+        "name": "Bunny",
+        "url": "https://open.spotify.com/album/6hRE1QhZfpKB03kvvF6jTG"
       },
       "artists": [
         {
@@ -118,7 +214,39 @@
       ],
       "duration_ms": 257733,
       "name": "Sure Feels Good",
-      "url": "https://open.spotify.com/track/4qpka5S7uHR6TD7pPUpzah"
+      "url": "https://open.spotify.com/track/3cj50x0wT0u6bkS6W9REgs"
+    },
+    {
+      "added_at": "2024-10-09 21:28:33",
+      "album": {
+        "name": "Souls",
+        "url": "https://open.spotify.com/album/6h8evmiksmB6ZAXzg2ebQR"
+      },
+      "artists": [
+        {
+          "name": "Shallou",
+          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
+        }
+      ],
+      "duration_ms": 234228,
+      "name": "You and Me",
+      "url": "https://open.spotify.com/track/58K9hOJ2NmtcNywdFIy1AL"
+    },
+    {
+      "added_at": "2024-10-09 21:28:33",
+      "album": {
+        "name": "Parallel Realms",
+        "url": "https://open.spotify.com/album/6gkh9oOIjRJ24JXKSX9LWp"
+      },
+      "artists": [
+        {
+          "name": "STRFKR",
+          "url": "https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU"
+        }
+      ],
+      "duration_ms": 277561,
+      "name": "Together Forever",
+      "url": "https://open.spotify.com/track/2R7GmNZgUEdZ0jkMbsdgbs"
     },
     {
       "added_at": "2024-09-19 07:00:00",
@@ -137,6 +265,38 @@
       "url": "https://open.spotify.com/track/0OtX8ZrM8jPLhYnkCArx2F"
     },
     {
+      "added_at": "2024-10-09 21:28:33",
+      "album": {
+        "name": "10:10",
+        "url": "https://open.spotify.com/album/3pyL2DyrsM2GrzAjrUwPYj"
+      },
+      "artists": [
+        {
+          "name": "LABRYS",
+          "url": "https://open.spotify.com/artist/1Ch6kGftOC8brjjXQwPCx9"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Can't Win",
+      "url": "https://open.spotify.com/track/2gD9pi3P3Op5Otd3yy5GEg"
+    },
+    {
+      "added_at": "2024-10-09 21:28:33",
+      "album": {
+        "name": "A Place You Grew Up In",
+        "url": "https://open.spotify.com/album/747rEJWxtjhJBDetMDt9yU"
+      },
+      "artists": [
+        {
+          "name": "Laveda",
+          "url": "https://open.spotify.com/artist/4k9HOB4zrVAEasP7nm31F7"
+        }
+      ],
+      "duration_ms": 273855,
+      "name": "Be Yours",
+      "url": "https://open.spotify.com/track/2tVLkDM74xylfwb5UkI8dz"
+    },
+    {
       "added_at": "2024-09-19 07:00:00",
       "album": {
         "name": "Wonder",
@@ -151,6 +311,42 @@
       "duration_ms": 167193,
       "name": "Always Been You",
       "url": "https://open.spotify.com/track/56KDoLjFIm7Yc7fX1XgpNw"
+    },
+    {
+      "added_at": "2024-09-24 19:40:56",
+      "album": {
+        "name": "Fly",
+        "url": "https://open.spotify.com/album/6n8mLwrO1XoeSv1Nh6GrsO"
+      },
+      "artists": [
+        {
+          "name": "Anna Graves",
+          "url": "https://open.spotify.com/artist/4j9vFTGkTHf54MjcZvedcT"
+        }
+      ],
+      "duration_ms": 206543,
+      "name": "Fly",
+      "url": "https://open.spotify.com/track/1gJqICniCRvc2JWGnMYxsD"
+    },
+    {
+      "added_at": "2024-10-04 22:42:48",
+      "album": {
+        "name": "MY DEMONS",
+        "url": "https://open.spotify.com/album/5s5mG6bz04LEXbwO1Fufyp"
+      },
+      "artists": [
+        {
+          "name": "GLU",
+          "url": "https://open.spotify.com/artist/2z6598dYz4eQbCJ1t0kT1N"
+        },
+        {
+          "name": "Phantogram",
+          "url": "https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH"
+        }
+      ],
+      "duration_ms": 209500,
+      "name": "MY DEMONS",
+      "url": "https://open.spotify.com/track/3LUcU1uaK0gp9lBNFlCNII"
     },
     {
       "added_at": "2024-09-19 07:00:00",
@@ -169,6 +365,22 @@
       "url": "https://open.spotify.com/track/46wojTgyEs6lbgaWB6yIuz"
     },
     {
+      "added_at": "2024-10-09 21:28:33",
+      "album": {
+        "name": "Christopher Cross",
+        "url": "https://open.spotify.com/album/43L4t2oVmuJsudEls5C6Gh"
+      },
+      "artists": [
+        {
+          "name": "Christopher Cross",
+          "url": "https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH"
+        }
+      ],
+      "duration_ms": 258866,
+      "name": "Sailing",
+      "url": "https://open.spotify.com/track/4ogaI0XfmAunA0LyjveMSF"
+    },
+    {
       "added_at": "2024-09-19 07:00:00",
       "album": {
         "name": "Say Cheese",
@@ -183,6 +395,22 @@
       "duration_ms": 153223,
       "name": "Say Cheese",
       "url": "https://open.spotify.com/track/7uJkYfpWvJiiBGsChnk56I"
+    },
+    {
+      "added_at": "2024-10-07 21:07:36",
+      "album": {
+        "name": "The Great Pretenders",
+        "url": "https://open.spotify.com/album/3HCyJcodj8D3Bl0pSr9QFk"
+      },
+      "artists": [
+        {
+          "name": "Mini Mansions",
+          "url": "https://open.spotify.com/artist/07xbJ7SM1JopFtI1qXvSww"
+        }
+      ],
+      "duration_ms": 276520,
+      "name": "Mirror Mountain",
+      "url": "https://open.spotify.com/track/7K7EmTNAqHuqN7Qw0i3wt6"
     },
     {
       "added_at": "2024-09-19 07:00:00",
@@ -201,22 +429,6 @@
       "url": "https://open.spotify.com/track/22HYEJveCvykVDHDiEEmjZ"
     },
     {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
-        "name": "SOUR",
-        "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "duration_ms": 143746,
-      "name": "brutal",
-      "url": "https://open.spotify.com/track/6SRsiMl7w1USE4mFqrOhHC"
-    },
-    {
       "added_at": "2024-09-19 07:00:00",
       "album": {
         "name": "GUTS (spilled)",
@@ -233,6 +445,54 @@
       "url": "https://open.spotify.com/track/6tNgRQ0K2NYZ0Rb9l9DzL8"
     },
     {
+      "added_at": "2024-10-09 21:28:33",
+      "album": {
+        "name": "Crack-Up",
+        "url": "https://open.spotify.com/album/0xtTojp4zfartyGtbFKN3v"
+      },
+      "artists": [
+        {
+          "name": "Fleet Foxes",
+          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
+        }
+      ],
+      "duration_ms": 210506,
+      "name": "If You Need To, Keep Time on Me",
+      "url": "https://open.spotify.com/track/7d0XkI4iJ32nxeFAHFXbLQ"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "SOUR",
+        "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 143746,
+      "name": "brutal",
+      "url": "https://open.spotify.com/track/6SRsiMl7w1USE4mFqrOhHC"
+    },
+    {
+      "added_at": "2024-10-09 21:28:33",
+      "album": {
+        "name": "All I Ever Asked",
+        "url": "https://open.spotify.com/album/2FuT85CBZhzZ8dndFdtwXn"
+      },
+      "artists": [
+        {
+          "name": "Rachel Chinouriri",
+          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
+        }
+      ],
+      "duration_ms": 215384,
+      "name": "All I Ever Asked",
+      "url": "https://open.spotify.com/track/2F9DCIJ7ZXHhNkiIlIIOkw"
+    },
+    {
       "added_at": "2024-09-19 07:00:00",
       "album": {
         "name": "Nothing But The Best (2008 Remastered)",
@@ -247,6 +507,22 @@
       "duration_ms": 204906,
       "name": "Theme From New York, New York - 2008 Remastered",
       "url": "https://open.spotify.com/track/0K2WjMLZYr09LKwurGRYRE"
+    },
+    {
+      "added_at": "2024-10-09 21:28:33",
+      "album": {
+        "name": "souljaboytellem.com",
+        "url": "https://open.spotify.com/album/5wFQi4xOTXILQSKQr0Ft8s"
+      },
+      "artists": [
+        {
+          "name": "Soulja Boy",
+          "url": "https://open.spotify.com/artist/6GMYJwaziB4ekv1Y6wCDWS"
+        }
+      ],
+      "duration_ms": 221933,
+      "name": "Crank That (Soulja Boy)",
+      "url": "https://open.spotify.com/track/66TRwr5uJwPt15mfFkzhbi"
     },
     {
       "added_at": "2024-09-19 07:00:00",
@@ -295,6 +571,22 @@
       "duration_ms": 236773,
       "name": "I'll Make Love To You",
       "url": "https://open.spotify.com/track/61sQYdFNS6sEBYCyr1q5gn"
+    },
+    {
+      "added_at": "2024-10-09 21:28:33",
+      "album": {
+        "name": "HAIZ",
+        "url": "https://open.spotify.com/album/1ABRc0UFHY3x6rKQeFBTQ0"
+      },
+      "artists": [
+        {
+          "name": "Hailee Steinfeld",
+          "url": "https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F"
+        }
+      ],
+      "duration_ms": 218773,
+      "name": "Love Myself",
+      "url": "https://open.spotify.com/track/36phXHOKx8rO7CMp2vNX4x"
     },
     {
       "added_at": "2024-09-19 07:00:00",
@@ -509,20 +801,20 @@
       "url": "https://open.spotify.com/track/69uJi5QsBtqlYkGURTBli8"
     },
     {
-      "added_at": "2024-09-19 07:00:00",
+      "added_at": "2024-10-09 21:28:33",
       "album": {
-        "name": "ANTI (Deluxe)",
-        "url": "https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u"
+        "name": "Solstice",
+        "url": "https://open.spotify.com/album/2B1TsRb3uycachEmnppqsZ"
       },
       "artists": [
         {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+          "name": "Anna Graves",
+          "url": "https://open.spotify.com/artist/4j9vFTGkTHf54MjcZvedcT"
         }
       ],
-      "duration_ms": 224000,
-      "name": "Love On The Brain",
-      "url": "https://open.spotify.com/track/5oO3drDxtziYU2H1X23ZIp"
+      "duration_ms": 206543,
+      "name": "Fly",
+      "url": "https://open.spotify.com/track/02KzF8vFmNIhtPW8XKTdHe"
     },
     {
       "added_at": "2024-09-19 07:00:00",
@@ -541,72 +833,20 @@
       "url": "https://open.spotify.com/track/2bl81llf715VEEbAx03yvB"
     },
     {
-      "added_at": "2024-09-24 19:40:56",
+      "added_at": "2024-09-19 07:00:00",
       "album": {
-        "name": "Fly",
-        "url": "https://open.spotify.com/album/6n8mLwrO1XoeSv1Nh6GrsO"
+        "name": "Sure Feels Good",
+        "url": "https://open.spotify.com/album/4rJzRAfZMrvtKkS15nepLt"
       },
       "artists": [
         {
-          "name": "Anna Graves",
-          "url": "https://open.spotify.com/artist/4j9vFTGkTHf54MjcZvedcT"
+          "name": "Willie J Healey",
+          "url": "https://open.spotify.com/artist/4T4JE09FOmRgv2Wzb6JaOR"
         }
       ],
-      "duration_ms": 206543,
-      "name": "Fly",
-      "url": "https://open.spotify.com/track/1gJqICniCRvc2JWGnMYxsD"
-    },
-    {
-      "added_at": "2024-10-04 22:42:48",
-      "album": {
-        "name": "MY DEMONS",
-        "url": "https://open.spotify.com/album/5s5mG6bz04LEXbwO1Fufyp"
-      },
-      "artists": [
-        {
-          "name": "GLU",
-          "url": "https://open.spotify.com/artist/2z6598dYz4eQbCJ1t0kT1N"
-        },
-        {
-          "name": "Phantogram",
-          "url": "https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH"
-        }
-      ],
-      "duration_ms": 209500,
-      "name": "MY DEMONS",
-      "url": "https://open.spotify.com/track/3LUcU1uaK0gp9lBNFlCNII"
-    },
-    {
-      "added_at": "2024-10-07 21:07:36",
-      "album": {
-        "name": "The Great Pretenders",
-        "url": "https://open.spotify.com/album/3HCyJcodj8D3Bl0pSr9QFk"
-      },
-      "artists": [
-        {
-          "name": "Mini Mansions",
-          "url": "https://open.spotify.com/artist/07xbJ7SM1JopFtI1qXvSww"
-        }
-      ],
-      "duration_ms": 276520,
-      "name": "Mirror Mountain",
-      "url": "https://open.spotify.com/track/7K7EmTNAqHuqN7Qw0i3wt6"
-    },
-    {
-      "added_at": "2024-10-07 21:07:36",
-      "album": {
-        "name": "Tonight Turns to Nothing",
-        "url": "https://open.spotify.com/album/3t7fqy6q4CUW9LK0Zuz7nP"
-      },
-      "artists": [
-        {
-          "name": "Olivia Kaplan",
-          "url": "https://open.spotify.com/artist/5JjA5aBhPlK554aaa1RRkd"
-        }
-      ],
-      "duration_ms": 180121,
-      "name": "Seen By You",
-      "url": "https://open.spotify.com/track/3ypTv5heHAzMpy3TqajZX1"
+      "duration_ms": 257733,
+      "name": "Sure Feels Good",
+      "url": "https://open.spotify.com/track/4qpka5S7uHR6TD7pPUpzah"
     }
   ],
   "unique_name": "Nobody Wants This Official Playlist",

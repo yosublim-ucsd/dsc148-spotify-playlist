@@ -4,7 +4,7 @@
 
 > 
 
-1,983 songs - 4 day 10 hr 44 min
+1,985 songs - 4 day 10 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -714,6 +714,7 @@
 | [Goth](https://open.spotify.com/track/0uMZbmAAgOhdMrv25iPEH6) | [Sidewalks and Skeletons](https://open.spotify.com/artist/48nHO1cuTbpx4ELhChsxX1) | [White Light](https://open.spotify.com/album/0Iq6APTGuGPe875jV0rIw2) | 3:27 | 2022-02-04 |  |
 | [Graduation](https://open.spotify.com/track/2oNLDoWxa2UniEXpF69oUJ) | [Kero Kero Bonito](https://open.spotify.com/artist/6OqhFYFJDnBBHas02HopPT) | [Bonito Generation](https://open.spotify.com/album/0dAMC0nNikIjhD8LeRZfhH) | 3:19 | 2022-06-10 |  |
 | [Graveyard](https://open.spotify.com/track/2ufmtcIFdFpuUYBPXK5f67) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Manic](https://open.spotify.com/album/68enXe5XcJdciSDAZr0Alr) | 3:01 | 2021-08-05 |  |
+| [GRAVEYARD CHAOS](https://open.spotify.com/track/3BjPkuEDC9BkL0IfNEP6iy) | [STAKILLAZ](https://open.spotify.com/artist/44tWGthIqM3mm0ngpslGO9) | [GRAVEYARD CHAOS](https://open.spotify.com/album/0bmJZ4iRTZLU5U1fChBiaO) | 1:50 | 2024-10-09 |  |
 | [Greaze \- Machine Girl Mix](https://open.spotify.com/track/3RBQn0pp9J7jFpd5DSA4v8) | [Machine Girl](https://open.spotify.com/artist/17Vw9uuOYB7XYjPt0LNFN0) | [RePorpoised Phantasies](https://open.spotify.com/album/40IjED8bEPBiyVMr936p6o) | 2:53 | 2022-11-23 |  |
 | [Groan](https://open.spotify.com/track/31o1KS0x48HWW8aJ0SuKGQ) | [Dazey and the Scouts](https://open.spotify.com/artist/3J8YGHzxEZzHRYVxGmQCvJ) | [Maggot](https://open.spotify.com/album/4o2UhvIIalZ00nvHyk2nEz) | 3:00 | 2022-04-26 |  |
 | [Gronlandic Edit](https://open.spotify.com/track/3X8gOyVXP93Tslnz9Bxw24) | [of Montreal](https://open.spotify.com/artist/5xeBMeW0YzWIXSVzAxhM8O) | [Hissing Fauna, Are You The Destroyer?](https://open.spotify.com/album/6EHyUWhxAzolO2lQBvuxTH) | 3:24 | 2022-02-18 |  |
@@ -1445,6 +1446,7 @@
 | [Road Head](https://open.spotify.com/track/6WVheb5G29cbDOzF4qMfli) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Soft Sounds from Another Planet](https://open.spotify.com/album/6AOaqWipm2Zk0oBp0uUey2) | 3:15 | 2021-08-05 |  |
 | [rockstar \(feat\. 21 Savage\)](https://open.spotify.com/track/0e7ipj03S05BNilyu5bRzt) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [beerbongs & bentleys](https://open.spotify.com/album/6trNtQUgC8cgbWcqoMYkOR) | 3:38 | 2021-08-05 |  |
 | [Romanticist](https://open.spotify.com/track/5YixskhSGNwmqjUrG0DTEY) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Heaven To A Tortured Mind](https://open.spotify.com/album/5wnCTZtzIZxasRSHzI1JeW) | 1:46 | 2022-10-25 |  |
+| [Romantika](https://open.spotify.com/track/4nOOoo9OJbgnTBNHe5b6nD) | [Brutalismus 3000](https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j) | [Eros Massacre](https://open.spotify.com/album/0ZVpEzmv3wYLL1waCPPf7V) | 4:10 | 2024-10-09 |  |
 | [Romeo and Juliet, Op\. 64 / Act 1: Dance Of The Knights](https://open.spotify.com/track/2LiWNkeUOAeibGxJKxmjsD) | [Sergei Prokofiev](https://open.spotify.com/artist/4kHtgiRnpmFIV5Tm4BIs8l), [The Cleveland Orchestra](https://open.spotify.com/artist/0jJszR81GjA87jeRq0Jgwz), [Lorin Maazel](https://open.spotify.com/artist/3EQvBmWlfyaRLGDuVfKmve) | [Prokofiev: Romeo & Juliet](https://open.spotify.com/album/2wYzIASaoQtpXa16C5HvDZ) | 5:07 | 2024-02-19 |  |
 | [Rosemary](https://open.spotify.com/track/4FEr6dIdH6EqLKR0jB560J) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Koi No Yokan](https://open.spotify.com/album/4PIVdqvL1Rc7T7Vfsr8n8Q) | 6:53 | 2021-12-30 |  |
 | [Roses](https://open.spotify.com/track/1UgTRfqoIVIytXaXvy3ExG) | [RetroSpecter](https://open.spotify.com/artist/1fAgYNgiRy5ZUInCWFtRi9) | [Roses](https://open.spotify.com/album/1TDihtVUhBVBhGlQeJArMi) | 3:12 | 2021-08-05 |  |

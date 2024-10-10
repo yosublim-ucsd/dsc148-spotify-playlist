@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Canada.
 
-3,046 songs - 6 day 17 hr 13 min
+3,047 songs - 6 day 17 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1061,7 +1061,7 @@
 | [Happiness \(feat\. Asake & Gunna\)](https://open.spotify.com/track/6rOqLUy3kp0PVQQEtNPpbQ) | [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Happiness \(feat\. Asake & Gunna\)](https://open.spotify.com/album/0D5fIo40wr5QpfUQ2l26vf) | 2:54 | 2023-12-26 | 2024-01-03 |
 | [HAPPY](https://open.spotify.com/track/3ZEno9fORwMA1HPecdLi0R) | [NF](https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz) | [HOPE](https://open.spotify.com/album/6zaisPwfcIAfdUGPj3mmGY) | 4:02 | 2023-05-02 | 2023-05-17 |
 | [Happy Death Day](https://open.spotify.com/track/3a4VCqofc7Wf7cqfZYu2Ad) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [Happy Death Day](https://open.spotify.com/album/3kA1SlUEM2Qt52prtDTuWr) | 3:40 | 2021-12-31 | 2022-01-13 |
-| [Happy Face](https://open.spotify.com/track/7KvZLaYFqBqoADTelAsWWO) | [Treaty Oak Revival](https://open.spotify.com/artist/3444S3C4U9Ts86BnCtSPRV) | [Happy Face](https://open.spotify.com/album/3WkZ84AAJDPimDKV1FH3pI) | 3:22 | 2024-10-01 |  |
+| [Happy Face](https://open.spotify.com/track/7KvZLaYFqBqoADTelAsWWO) | [Treaty Oak Revival](https://open.spotify.com/artist/3444S3C4U9Ts86BnCtSPRV) | [Happy Face](https://open.spotify.com/album/3WkZ84AAJDPimDKV1FH3pI) | 3:22 | 2024-10-01 | 2024-10-10 |
 | [hardy boys](https://open.spotify.com/track/0OUtEvkyUJBvt0eSjiuW1K) | [alfie](https://open.spotify.com/artist/1Kl40HiUzK9QI76ZSTSSaD) | [cult](https://open.spotify.com/album/4aVHPrgGN1zUvwGcYXWlYM) | 2:56 | 2023-02-18 | 2023-02-20 |
 | [HARDY BOYS](https://open.spotify.com/track/1VCK5LhCwuVrR1kkVFrybo) | [mikeeysmind](https://open.spotify.com/artist/0g0ZYLiNYI4kMg8MX76bkN) | [HARDY BOYS](https://open.spotify.com/album/0tmMuY0nUkhCMLFxKEFibx) | 2:56 | 2023-02-24 | 2023-03-03 |
 | [HARDY BOYS](https://open.spotify.com/track/5EWj39tmZNznLjDsL6Ow9c) | [mikeeysmind](https://open.spotify.com/artist/0g0ZYLiNYI4kMg8MX76bkN) | [HARDY BOYS](https://open.spotify.com/album/3IaHvQ7PXIhqYVmvfOT5uQ) | 2:56 | 2023-02-19 | 2023-02-24 |
@@ -1713,8 +1713,9 @@
 | [MIDDLE CHILD](https://open.spotify.com/track/4AEzAEnbm9uRgbmTdeI63K) | [PnB Rock](https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM), [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [TrapStar Turnt PopStar](https://open.spotify.com/album/3TaYhEM7MtqukeISKBV2cx) | 2:31 | 2022-09-17 | 2022-09-22 |
 | [MIDDLE OF THE NIGHT](https://open.spotify.com/track/58HvfVOeJY7lUuCqF0m3ly) | [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K) | [MIDDLE OF THE NIGHT](https://open.spotify.com/album/4hYYpUC8Ewb74tP23Y1lmM) | 3:04 | 2021-12-31 | 2022-04-20 |
 | [MIDDLE OF THE NIGHT](https://open.spotify.com/track/1Gwu3d6lZjL99kw4dcFCsq) | [Loveless](https://open.spotify.com/artist/1MP7xlABJ13LtmHfG77SCJ) | [MIDDLE OF THE NIGHT](https://open.spotify.com/album/0BIVeIl2HY2fElVxUCD9RV) | 3:06 | 2022-06-28 | 2022-07-21 |
-| [midnight](https://open.spotify.com/track/6ELrvdk2hdwTUMUa77mVsg) | [kobzx2z](https://open.spotify.com/artist/1e1A7s86U6f7cyJAivpfY3), [Red Luna](https://open.spotify.com/artist/1NN1cElkA55L2ybgQtF9gE) | [midnight](https://open.spotify.com/album/776RB8H2PaZgnXia3cwumR) | 2:09 | 2024-10-08 |  |
+| [midnight](https://open.spotify.com/track/6ELrvdk2hdwTUMUa77mVsg) | [kobzx2z](https://open.spotify.com/artist/1e1A7s86U6f7cyJAivpfY3), [Red Luna](https://open.spotify.com/artist/1NN1cElkA55L2ybgQtF9gE), [RhyRhy](https://open.spotify.com/artist/0rLtVRocFmE2FJtFJnt7q7) | [midnight](https://open.spotify.com/album/776RB8H2PaZgnXia3cwumR) | 2:09 | 2024-10-08 |  |
 | [MIDNIGHT](https://open.spotify.com/track/2WzAAerBvZvvFXgUpSwHZ9) | [PLAYAMANE](https://open.spotify.com/artist/13itspgSHkUbOq03AhIyjS), [Nateki](https://open.spotify.com/artist/3g0UoyvaTaHUrfpHiRqsD1) | [MIDNIGHT](https://open.spotify.com/album/5nWRdZWdSXAMvLTZFxuD2W) | 2:01 | 2022-05-29 | 2022-08-10 |
+| [midnight \- sped up](https://open.spotify.com/track/2jFHPYm2NNJKXRUQhGfrYE) | [kobzx2z](https://open.spotify.com/artist/1e1A7s86U6f7cyJAivpfY3), [Red Luna](https://open.spotify.com/artist/1NN1cElkA55L2ybgQtF9gE), [RhyRhy](https://open.spotify.com/artist/0rLtVRocFmE2FJtFJnt7q7) | [midnight \(sped up\)](https://open.spotify.com/album/5nXtQIB9ceuVqGSk1MbYDn) | 1:53 | 2024-10-09 |  |
 | [Midnight Fiction](https://open.spotify.com/track/6QqrxJe1iQxwLY6he6FLFo) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [SUPER REAL ME](https://open.spotify.com/album/6irebIc6UO8fN0jl4UlzBS) | 2:48 | 2024-04-09 | 2024-04-21 |
 | [Midnight Ride](https://open.spotify.com/track/2BFnfCnAW6O1a1vZ8NZvkO) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo), [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Midnight Ride](https://open.spotify.com/album/0q0asrBrmBwrRMXeqxDvBY) | 3:31 | 2024-06-25 | 2024-07-17 |
 | [MIENTRAS ME CURO DEL CORA](https://open.spotify.com/track/6otePxalBK8AVa20xhZYVQ) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 2:44 | 2023-03-21 | 2023-03-28 |

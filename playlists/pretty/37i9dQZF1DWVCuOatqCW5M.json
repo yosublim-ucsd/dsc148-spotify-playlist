@@ -1,6 +1,6 @@
 {
   "description": "Latest music from your fav I-Pop artists. Cover- Jyoti Nooran",
-  "num_followers": 59815,
+  "num_followers": 59854,
   "original_name": "New Music Friday I-Pop ",
   "owner": {
     "name": "Spotify",
@@ -698,6 +698,10 @@
         {
           "name": "Kunaal Vermaa",
           "url": "https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx"
+        },
+        {
+          "name": "Aditya Dev",
+          "url": "https://open.spotify.com/artist/2IX6xq1cVcBoD4obUsT5xs"
         }
       ],
       "duration_ms": 209000,

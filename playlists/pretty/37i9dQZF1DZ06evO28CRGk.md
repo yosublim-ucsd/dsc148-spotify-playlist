@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO28CRGk.md) - [plain]
 
 ### [This Is Marco Polo](https://open.spotify.com/playlist/37i9dQZF1DZ06evO28CRGk)
 
-> This Is Marco Polo\. Los temas esenciales, todos en una lista.
+> This is Marco Polo\. The essential tracks, all in one playlist.
 
 [Spotify](https://open.spotify.com/user/spotify) - 431 likes - 50 songs - 2 hr 50 min
 
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO28CRGk.md) - [plain]
 | 49 | [Fro Armstrong](https://open.spotify.com/track/3x3JoCYoJFd89htOx3CQ0n) | [A\-F\-R\-O](https://open.spotify.com/artist/1zxOrBQ8znO6qNSdVXNYJY), [Marco Polo](https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl) | [A\-F\-R\-O POLO](https://open.spotify.com/album/4PbCH1KGfOiRfuOHqEuUB3) | 3:00 |
 | 50 | [Low Budget Allstars](https://open.spotify.com/track/7BoOgKHYSccK4riG6Dg7hp) | [Marco Polo](https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl) | [Port Authority: Instrumentals](https://open.spotify.com/album/1lcRcpO52ZmsfWhtn6USOx) | 3:59 |
 
-Snapshot ID: `ZwMkgAAAAADi1SGoOuX4D58lZ4R2sGTH`
+Snapshot ID: `ZwMkgAAAAAAseG8e5bLaWQesb+IidjlY`

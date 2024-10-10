@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > ¡Ahora sí, \#TeamFrío season ya empezó! Rolitas calientitas para la fiesta, la cita, la comida y más, con Coldplay en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 868,294 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 868,400 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 42 | [What This Could Be](https://open.spotify.com/track/3NaOEouWqMCBwR0vQcVFt7) | [Joe Jonas](https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL) | [What This Could Be / Work It Out](https://open.spotify.com/album/534YIkJVj0Hlpuw0jMpf1h) | 3:18 |
 | 43 | [Envenéname](https://open.spotify.com/track/5zixUJB0UpnKpYND6LFXzQ) | [Los Concorde](https://open.spotify.com/artist/3jkWOLEB1SNniW6394QnXA) | [Envenéname](https://open.spotify.com/album/6aIFbmb0fLDE2nHQWnjPxH) | 3:45 |
 | 44 | [zapopan \- sesión noviembre/en vivo](https://open.spotify.com/track/149MZOl0xLdTstY7VfaqKI) | [Agris](https://open.spotify.com/artist/29ZfC3Kiw2GkCo5IMI7m9q) | [zapopan \- sesión noviembre/en vivo](https://open.spotify.com/album/2CMWssfS62CL0LbcpDeOqH) | 2:59 |
-| 45 | [DANONINO](https://open.spotify.com/track/4pqXzba0vyVasbDJDDQByK) | [Bellakath](https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr), [Dani Flow](https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ) | [LA REINA DEL REGGAETON MEXICANO: TOMO I: La chica de las poesías](https://open.spotify.com/album/1R1vycz825HAGn6wZIJe7F) | 2:16 |
+| 45 | [TAPITA](https://open.spotify.com/track/4pqXzba0vyVasbDJDDQByK) | [Bellakath](https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr), [Dani Flow](https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ) | [LA REINA DEL REGGAETON MEXICANO: TOMO I: La chica de las poesías](https://open.spotify.com/album/1R1vycz825HAGn6wZIJe7F) | 2:16 |
 | 46 | [Skinny](https://open.spotify.com/track/6UI6qrwAlmT7pCRL41afdu) | [Joss ML](https://open.spotify.com/artist/1iwzxDCn3LikHvzTC3OFZA), [Alan Dazmel](https://open.spotify.com/artist/3C1SUHXW7THF8hkOP7Rekm), [Dj Hate](https://open.spotify.com/artist/0CE9Pp45uCrBkCsL4COjfS) | [Skinny](https://open.spotify.com/album/3Mxgt2aVIUc5PnIeHDSudD) | 2:42 |
 | 47 | [Chom Chom](https://open.spotify.com/track/78hO2mSqQWmDlhOjJH1yjs) | [Aguila DS](https://open.spotify.com/artist/4tRMFw64H6uS3M5czNnRNv), [Dj Alexis Najera](https://open.spotify.com/artist/4HvTa7hPj4FL8f397lcNqa) | [Chom Chom](https://open.spotify.com/album/3hLccgX6IhwMsTPELU0oDd) | 2:27 |
 | 48 | [Lovesong](https://open.spotify.com/track/4zwd1ebXhAFsv06XZSmzHQ) | [Malcriada](https://open.spotify.com/artist/2ZUqAIo5iiRcSaq7TQBW5C), [Mathilde Sobrino](https://open.spotify.com/artist/0x69Qlg7mSMTjjkO323OH0), [Pepe Pecas](https://open.spotify.com/artist/5TZkTvjOfTSsgBQVP7SDyq) | [Lovesong](https://open.spotify.com/album/6jZ3MV1NhGpf66dOtvTxJl) | 2:35 |

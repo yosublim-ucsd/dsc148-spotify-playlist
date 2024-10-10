@@ -1,12 +1,12 @@
 {
   "description": "edgy en met karakter. cover: NOAH",
-  "num_followers": 26226,
+  "num_followers": 26229,
   "original_name": "karakter.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zv8T4AAAAAB4zVP6LdbV7nN6tg+obk1n",
+  "snapshot_id": "ZwYrbQAAAADirQS+B31WeqVVFY+HGUp8",
   "tracks": [
     {
       "added_at": "2024-10-03 22:00:00",
@@ -27,6 +27,22 @@
     {
       "added_at": "2024-10-03 22:00:00",
       "album": {
+        "name": "Begrijpen",
+        "url": "https://open.spotify.com/album/0Uc96KfRENg7XxjYbntHfd"
+      },
+      "artists": [
+        {
+          "name": "Fresku",
+          "url": "https://open.spotify.com/artist/5m1cLmgZIfEYPLejhLFR10"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "Begrijpen",
+      "url": "https://open.spotify.com/track/6KQa90WZ8CYiurAmAULQ2A"
+    },
+    {
+      "added_at": "2024-10-03 22:00:00",
+      "album": {
         "name": "Safari",
         "url": "https://open.spotify.com/album/6Ls71z8Zwbzw6zMwxWkv2a"
       },
@@ -43,22 +59,6 @@
       "duration_ms": 186843,
       "name": "Safari",
       "url": "https://open.spotify.com/track/63m0FSZlrlvZsw4NqC2ZJA"
-    },
-    {
-      "added_at": "2024-10-03 22:00:00",
-      "album": {
-        "name": "Begrijpen",
-        "url": "https://open.spotify.com/album/0Uc96KfRENg7XxjYbntHfd"
-      },
-      "artists": [
-        {
-          "name": "Fresku",
-          "url": "https://open.spotify.com/artist/5m1cLmgZIfEYPLejhLFR10"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "Begrijpen",
-      "url": "https://open.spotify.com/track/6KQa90WZ8CYiurAmAULQ2A"
     },
     {
       "added_at": "2024-10-03 22:00:00",

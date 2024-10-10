@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4vLyj0srrBvo.md) - [plain]
 
 > With Pastel Ghost, Cults, Sidewalks and Skeletons and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,091 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,108 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4vLyj0srrBvo.md) - [plain]
 | 49 | [4 Morant \(Better Luck Next Time\)](https://open.spotify.com/track/3XOmSRuEEq7rK4XNzWQdyT) | [Com Truise](https://open.spotify.com/artist/2wouN3QXejYa5tKetYdcVX) | [Brokendate](https://open.spotify.com/album/7njHOwYjouefEKp1XbTx95) | 2:51 |
 | 50 | [Lovers From The Past](https://open.spotify.com/track/69cGlmgNyMf2K6AvmLBuRD) | [Mareux](https://open.spotify.com/artist/7riQPkkGZBnTh9ve5qIhYo) | [Lovers From The Past](https://open.spotify.com/album/6Z4eMptTUBwtdJHQeNV91N) | 3:19 |
 
-Snapshot ID: `ZwX1VAAAAAAZzCDF3kGYPCuNDkVw7/B/`
+Snapshot ID: `ZwdJcwAAAADmI+z6CllKtMzaWKS1nJX8`

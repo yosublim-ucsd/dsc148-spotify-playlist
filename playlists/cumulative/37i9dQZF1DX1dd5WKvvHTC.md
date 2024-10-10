@@ -2,7 +2,7 @@
 
 ### [Noteable](https://open.spotify.com/playlist/37i9dQZF1DX1dd5WKvvHTC)
 
-> Highlighting key releases from this month's most exciting songwriters from around the globe\. Cover: <a href="spotify:artist:52mkFCABBeP3KjkWFA4M2H">Jenny Owens Young</a>
+> Highlighting key releases from this month's most exciting songwriters from around the globe\. Cover: <a href="spotify:artist:52mkFCABBeP3KjkWFA4M2H">Jenny Owen Youngs</a>
 
 285 songs - 15 hr 29 min
 

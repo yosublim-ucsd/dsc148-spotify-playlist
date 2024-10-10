@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0mRgcJ.md) - [plain]
 
 ### [This Is Los Desvelados](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0mRgcJ)
 
-> This Is Los Desvelados\. Los temas esenciales, todos en una lista.
+> This is Los Desvelados\. The essential tracks, all in one playlist.
 
 [Spotify](https://open.spotify.com/user/spotify) - 523 likes - 50 songs - 2 hr 44 min
 
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0mRgcJ.md) - [plain]
 | 49 | [En 1 al 7](https://open.spotify.com/track/4WchYo3B9276gSE7YOJ324) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9), [Los Varones De California](https://open.spotify.com/artist/4JtXEZQTssP9XfeaPbi8NF) | [A Los Angeles Hay Que Tenerle Cuidado](https://open.spotify.com/album/1y5k7rVaORgLzzlhrs4e8B) | 3:11 |
 | 50 | [Aquel Amor](https://open.spotify.com/track/6x97azhiMoG4ZF6mtUylPw) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9), [Bandera Verde](https://open.spotify.com/artist/4UwI6VNUmqlNpBiVhEbdj0) | [Desvelandia Norteñas para Bailar](https://open.spotify.com/album/4UyT3mrj2t3HIHL3EeLnfG) | 3:08 |
 
-Snapshot ID: `ZwMkgAAAAAA/07RhUqwgarY332UcXz1A`
+Snapshot ID: `ZwMkgAAAAADhnvyYEOr8PNOsE8B7ykvr`

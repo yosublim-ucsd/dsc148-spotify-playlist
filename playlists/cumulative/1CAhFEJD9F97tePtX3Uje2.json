@@ -3095,6 +3095,24 @@
     },
     {
       "album": {
+        "name": "Outrun",
+        "url": "https://open.spotify.com/album/4FifF7GfWYB7s0mMCYCiyb"
+      },
+      "artists": [
+        {
+          "name": "LOSTMANE",
+          "url": "https://open.spotify.com/artist/2ntaPzscRw8GRvBFF0SUlh"
+        }
+      ],
+      "date_added": "2024-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158614,
+      "name": "Outrun",
+      "url": "https://open.spotify.com/track/3XRkyIC6ws5tL8etnHb0GS"
+    },
+    {
+      "album": {
         "name": "wave 003",
         "url": "https://open.spotify.com/album/4DO3xx1RRiRaTHSTfIpBzt"
       },

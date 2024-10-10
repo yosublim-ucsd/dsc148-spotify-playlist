@@ -883,6 +883,28 @@
     },
     {
       "album": {
+        "name": "How Much a Rhyme Costs?",
+        "url": "https://open.spotify.com/album/6adVQtQUqBzdWx49n03C4G"
+      },
+      "artists": [
+        {
+          "name": "Karma",
+          "url": "https://open.spotify.com/artist/2RS1R0tueoL8EJXTSBAt2F"
+        },
+        {
+          "name": "KSHMR",
+          "url": "https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe"
+        }
+      ],
+      "date_added": "2024-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154555,
+      "name": "BADA",
+      "url": "https://open.spotify.com/track/57JgnvdInhr9wO4tvjDq2K"
+    },
+    {
+      "album": {
         "name": "Chaand Paar",
         "url": "https://open.spotify.com/album/5n1hD5KEXWdbeQQY9Rl4aY"
       },
@@ -1711,6 +1733,28 @@
     },
     {
       "album": {
+        "name": "Daaku",
+        "url": "https://open.spotify.com/album/515OMGcJFmsPLpVVTFTiEV"
+      },
+      "artists": [
+        {
+          "name": "Young Stunners",
+          "url": "https://open.spotify.com/artist/01PyusFVbXgoD5Kl1mR8CC"
+        },
+        {
+          "name": "Bohemia",
+          "url": "https://open.spotify.com/artist/0SWOtgI95g7oVrP9halrmP"
+        }
+      ],
+      "date_added": "2024-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166021,
+      "name": "Daaku",
+      "url": "https://open.spotify.com/track/32OPGHl98lfojGFca3Ib5O"
+    },
+    {
+      "album": {
         "name": "DABBDA NAHI",
         "url": "https://open.spotify.com/album/2o8fSGFa29bfbaCLr0af3b"
       },
@@ -2072,6 +2116,32 @@
       "duration_ms": 141176,
       "name": "Droptop",
       "url": "https://open.spotify.com/track/7AW4g4I9fPfUIyqtbsuAkM"
+    },
+    {
+      "album": {
+        "name": "Dupatta Drill",
+        "url": "https://open.spotify.com/album/545u6lIVWOfi58QE5I3feD"
+      },
+      "artists": [
+        {
+          "name": "Simiran Kaur Dhadli",
+          "url": "https://open.spotify.com/artist/6HDjrqj5bbSESYOj89PtP9"
+        },
+        {
+          "name": "Rawme Hooda",
+          "url": "https://open.spotify.com/artist/7B6M2lrsO79XEw8xAbm4OE"
+        },
+        {
+          "name": "Pranjal Dahiya",
+          "url": "https://open.spotify.com/artist/5TF8wtgrYplT0tJFjoV9Me"
+        }
+      ],
+      "date_added": "2024-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150338,
+      "name": "Dupatta Drill",
+      "url": "https://open.spotify.com/track/6wwwaMSY04xYhDpU7IKzz3"
     },
     {
       "album": {
@@ -2644,7 +2714,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-10",
+      "date_removed": null,
       "duration_ms": 231044,
       "name": "GOAT SHIT",
       "url": "https://open.spotify.com/track/2TElxFZeWPs9DhQGZWh6Oa"
@@ -3246,7 +3316,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-10",
+      "date_removed": null,
       "duration_ms": 155076,
       "name": "Joota Japani",
       "url": "https://open.spotify.com/track/3G0gdqt4LTreFwBYaymUhp"
@@ -3290,6 +3360,32 @@
       "duration_ms": 332538,
       "name": "Kaanch Ke Ghar",
       "url": "https://open.spotify.com/track/4zIKxXLpYV6vCHgS1BTSkX"
+    },
+    {
+      "album": {
+        "name": "Kaathu Mela - From \"Think Indie\"",
+        "url": "https://open.spotify.com/album/1QDGfYi6ok12IxZJ6Rf52H"
+      },
+      "artists": [
+        {
+          "name": "Paal Dabba",
+          "url": "https://open.spotify.com/artist/0cQJg3qKYiogK9Qj1H0Qpx"
+        },
+        {
+          "name": "ofRO",
+          "url": "https://open.spotify.com/artist/3sZ8UlybnehTap4i1B3Wts"
+        },
+        {
+          "name": "Deva",
+          "url": "https://open.spotify.com/artist/1aXtuiimQwgW8Xqztgp4Kf"
+        }
+      ],
+      "date_added": "2024-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123252,
+      "name": "Kaathu Mela - From \"Think Indie\"",
+      "url": "https://open.spotify.com/track/2YMxiPx0Mu7ap1TYcLtBKE"
     },
     {
       "album": {
@@ -3624,6 +3720,32 @@
       "duration_ms": 205714,
       "name": "Kyun",
       "url": "https://open.spotify.com/track/4lDmFJg35YoU7GDDRMSHdA"
+    },
+    {
+      "album": {
+        "name": "KARAM",
+        "url": "https://open.spotify.com/album/6lmjyMZTJmkJuQrXo79HM1"
+      },
+      "artists": [
+        {
+          "name": "KSHMR",
+          "url": "https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe"
+        },
+        {
+          "name": "Dabzee",
+          "url": "https://open.spotify.com/artist/2JJKoRrK7Eec7jlcjFB7sc"
+        },
+        {
+          "name": "Vedan",
+          "url": "https://open.spotify.com/artist/1Clwe5e4xyRasANUVlpcCf"
+        }
+      ],
+      "date_added": "2024-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141473,
+      "name": "La Vida",
+      "url": "https://open.spotify.com/track/6oScY8qe1DGd6PlrCJ7e44"
     },
     {
       "album": {
@@ -4006,7 +4128,7 @@
       ],
       "date_added": "2024-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-10",
       "duration_ms": 150638,
       "name": "Maan Ja Chhori",
       "url": "https://open.spotify.com/track/0mnYFf6BUw3AL2rXKaZ9yJ"
@@ -4907,6 +5029,24 @@
     },
     {
       "album": {
+        "name": "Old Money",
+        "url": "https://open.spotify.com/album/2f8hk48Uin6SFQyMKw7AIp"
+      },
+      "artists": [
+        {
+          "name": "AP Dhillon",
+          "url": "https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB"
+        }
+      ],
+      "date_added": "2024-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128098,
+      "name": "Old Money",
+      "url": "https://open.spotify.com/track/4WLDaQ8AgSwUgFoPzJkAYK"
+    },
+    {
+      "album": {
         "name": "On My Way",
         "url": "https://open.spotify.com/album/3swSYkClej6IgR1AWPpzbS"
       },
@@ -5093,6 +5233,44 @@
     },
     {
       "album": {
+        "name": "Panthalchant",
+        "url": "https://open.spotify.com/album/33dJvXVV2C0DcnVVBdYNz3"
+      },
+      "artists": [
+        {
+          "name": "Mu.Ri",
+          "url": "https://open.spotify.com/artist/6XaKvCWc54LHjReFGiQBDm"
+        },
+        {
+          "name": "Dabzee",
+          "url": "https://open.spotify.com/artist/2JJKoRrK7Eec7jlcjFB7sc"
+        },
+        {
+          "name": "BABY JEAN",
+          "url": "https://open.spotify.com/artist/3vhYECLQUeZVovqKwA5E0b"
+        },
+        {
+          "name": "JOKER390P",
+          "url": "https://open.spotify.com/artist/1IVjFQKbSitl1XikHLdxlW"
+        },
+        {
+          "name": "M.H.R",
+          "url": "https://open.spotify.com/artist/5A5bbXuMkVh28lxVO4y25g"
+        },
+        {
+          "name": "Wraith V",
+          "url": "https://open.spotify.com/artist/4BOMjhDXc0Aet35ZlLZNgZ"
+        }
+      ],
+      "date_added": "2024-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229780,
+      "name": "Panthalchant",
+      "url": "https://open.spotify.com/track/3pdqA52jfLMiIGx6Xma0OT"
+    },
+    {
+      "album": {
         "name": "Paper Before Money",
         "url": "https://open.spotify.com/album/3UvC8wrNS4JBnkipEal7vO"
       },
@@ -5130,6 +5308,28 @@
       "duration_ms": 141818,
       "name": "Pariksha",
       "url": "https://open.spotify.com/track/59QpHHP82IxLvkZZ6lPpVR"
+    },
+    {
+      "album": {
+        "name": "GLORY",
+        "url": "https://open.spotify.com/album/5KF4xCxDD8ip003hoatFT9"
+      },
+      "artists": [
+        {
+          "name": "Yo Yo Honey Singh",
+          "url": "https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR"
+        },
+        {
+          "name": "Paradox",
+          "url": "https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui"
+        }
+      ],
+      "date_added": "2024-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226751,
+      "name": "Payal",
+      "url": "https://open.spotify.com/track/76ZWOhRRQzmb4xMoZzTjJ9"
     },
     {
       "album": {
@@ -6133,6 +6333,28 @@
     },
     {
       "album": {
+        "name": "Taambdi Chaamdi",
+        "url": "https://open.spotify.com/album/1z1BAADazRIogvfkRqvl8w"
+      },
+      "artists": [
+        {
+          "name": "Kratex",
+          "url": "https://open.spotify.com/artist/3Gowc3dedLQgQAt4y0gPBo"
+        },
+        {
+          "name": "Shreyas",
+          "url": "https://open.spotify.com/artist/65qLuo5zSTqg8Qb17OCnLu"
+        }
+      ],
+      "date_added": "2024-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158769,
+      "name": "Taambdi Chaamdi",
+      "url": "https://open.spotify.com/track/14M0pSvqNEhPdByBNw159R"
+    },
+    {
+      "album": {
         "name": "Not by Chance",
         "url": "https://open.spotify.com/album/3Msv5MSxcayA4sbQpQhXzu"
       },
@@ -6330,6 +6552,28 @@
       "duration_ms": 209230,
       "name": "These Days (feat. Bohemia)",
       "url": "https://open.spotify.com/track/2zQE8TE5BQDJA11ggnope9"
+    },
+    {
+      "album": {
+        "name": "Time Hai Ni",
+        "url": "https://open.spotify.com/album/3xBNlLn7s1NtEolKwcepC2"
+      },
+      "artists": [
+        {
+          "name": "Simiran Kaur Dhadli",
+          "url": "https://open.spotify.com/artist/6HDjrqj5bbSESYOj89PtP9"
+        },
+        {
+          "name": "Desi Trap Music",
+          "url": "https://open.spotify.com/artist/7uZQ7O3hu5Z90Wg09ZB1ge"
+        }
+      ],
+      "date_added": "2024-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147500,
+      "name": "Time Hai Ni",
+      "url": "https://open.spotify.com/track/5m4bVH5m49dLHDSwKerrH3"
     },
     {
       "album": {

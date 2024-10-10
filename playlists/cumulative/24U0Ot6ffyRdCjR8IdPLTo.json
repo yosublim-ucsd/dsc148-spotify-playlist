@@ -117,6 +117,24 @@
     },
     {
       "album": {
+        "name": "99 and counting",
+        "url": "https://open.spotify.com/album/18CxNkOBD4IfYtoEZ6kPZE"
+      },
+      "artists": [
+        {
+          "name": "Kayla Grace",
+          "url": "https://open.spotify.com/artist/12dfSc1rVtEea2qMe38v3T"
+        }
+      ],
+      "date_added": "2024-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152546,
+      "name": "99 and counting",
+      "url": "https://open.spotify.com/track/1njBCJqiWrgMr8p6iFplVN"
+    },
+    {
+      "album": {
         "name": ":)",
         "url": "https://open.spotify.com/album/6UHK8Ur2u73SSq62gwsmFo"
       },
@@ -1180,7 +1198,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-10",
       "duration_ms": 222549,
       "name": "Dreamer",
       "url": "https://open.spotify.com/track/22arMgKuiDLRBo3uso19S6"
@@ -2975,6 +2993,24 @@
     },
     {
       "album": {
+        "name": "With a Lightning Strike",
+        "url": "https://open.spotify.com/album/64Pwh2WtRjuraxtKnq62wr"
+      },
+      "artists": [
+        {
+          "name": "Genevieve Stokes",
+          "url": "https://open.spotify.com/artist/2uaMjmR0IE0K3oKTQrNZVQ"
+        }
+      ],
+      "date_added": "2024-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209163,
+      "name": "Mean Guy",
+      "url": "https://open.spotify.com/track/5Fc6q5ERGF8mOFuPrHoqqZ"
+    },
+    {
+      "album": {
         "name": "memento",
         "url": "https://open.spotify.com/album/5nEXvKEgiWvmnAmTDPD9eS"
       },
@@ -3512,6 +3548,24 @@
       "duration_ms": 214268,
       "name": "One Step Back",
       "url": "https://open.spotify.com/track/5qoEg8mIXDbEy6pwWZjEF0"
+    },
+    {
+      "album": {
+        "name": "One Trick Pony",
+        "url": "https://open.spotify.com/album/1KhofP4ipotqMjlrfpjDnk"
+      },
+      "artists": [
+        {
+          "name": "Ally Evenson",
+          "url": "https://open.spotify.com/artist/6UzwpF9cqjxgxXb2N6mb7y"
+        }
+      ],
+      "date_added": "2024-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180053,
+      "name": "One Trick Pony",
+      "url": "https://open.spotify.com/track/12EVjWV5YBZ4kCLa1XQPnb"
     },
     {
       "album": {

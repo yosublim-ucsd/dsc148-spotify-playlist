@@ -6,7 +6,7 @@
     "name": "Zero625",
     "url": "https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm"
   },
-  "snapshot_id": "AAAAKVMbXNbAMomEDIHLaCvtfxcbenS6",
+  "snapshot_id": "AAAAKgdRcks9H1uDvnpsswkvSMWp1IEP",
   "tracks": [
     {
       "added_at": "2023-01-07 05:08:09",
@@ -591,6 +591,22 @@
       "duration_ms": 149216,
       "name": "Suitcase Full of Cash",
       "url": "https://open.spotify.com/track/67O2bC5H2EzBqTEAM2Ztdr"
+    },
+    {
+      "added_at": "2024-10-09 02:29:05",
+      "album": {
+        "name": "Jugganauts - The Best Of ICP",
+        "url": "https://open.spotify.com/album/1SjluyIg7rIF87i76JxlhH"
+      },
+      "artists": [
+        {
+          "name": "Insane Clown Posse",
+          "url": "https://open.spotify.com/artist/4xtWjIlVuZwTCeqVAsgEXy"
+        }
+      ],
+      "duration_ms": 233773,
+      "name": "My Axe",
+      "url": "https://open.spotify.com/track/21DhGvrfC9W2FBjW5EJmWE"
     }
   ],
   "unique_name": "From the Mouth of Evil",

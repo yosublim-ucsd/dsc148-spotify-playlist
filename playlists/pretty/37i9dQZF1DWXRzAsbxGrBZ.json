@@ -1,6 +1,6 @@
 {
   "description": "Deep House speaks to the soul. Get revived with some of the best Deep House South Africa has to offer.",
-  "num_followers": 68060,
+  "num_followers": 68133,
   "original_name": "Deep House Session",
   "owner": {
     "name": "Spotify",
@@ -611,26 +611,6 @@
     {
       "added_at": "2024-08-02 00:28:01",
       "album": {
-        "name": "Little Me",
-        "url": "https://open.spotify.com/album/6GbR420ApY1NvLE1PdafQn"
-      },
-      "artists": [
-        {
-          "name": "China Charmeleon",
-          "url": "https://open.spotify.com/artist/78lHMaJ6xLbmwzkHOriPhZ"
-        },
-        {
-          "name": "Sio",
-          "url": "https://open.spotify.com/artist/4jLhrV95ZIrW5KFIM5SCsv"
-        }
-      ],
-      "duration_ms": 437415,
-      "name": "Little Me - Extended Mix",
-      "url": "https://open.spotify.com/track/04Xamzbh9Mv4yd0nqkahbU"
-    },
-    {
-      "added_at": "2024-08-02 00:28:01",
-      "album": {
         "name": "Some Lovin'",
         "url": "https://open.spotify.com/album/7sy4IIIAlvxUqCNSOczerx"
       },
@@ -675,6 +655,26 @@
       "duration_ms": 412631,
       "name": "The Whole Thing",
       "url": "https://open.spotify.com/track/7mqUZHdBzKmUQfDkmnltu6"
+    },
+    {
+      "added_at": "2024-08-02 00:28:01",
+      "album": {
+        "name": "Little Me",
+        "url": "https://open.spotify.com/album/6GbR420ApY1NvLE1PdafQn"
+      },
+      "artists": [
+        {
+          "name": "China Charmeleon",
+          "url": "https://open.spotify.com/artist/78lHMaJ6xLbmwzkHOriPhZ"
+        },
+        {
+          "name": "Sio",
+          "url": "https://open.spotify.com/artist/4jLhrV95ZIrW5KFIM5SCsv"
+        }
+      ],
+      "duration_ms": 437415,
+      "name": "Little Me - Extended Mix",
+      "url": "https://open.spotify.com/track/04Xamzbh9Mv4yd0nqkahbU"
     },
     {
       "added_at": "2024-08-02 00:28:01",
@@ -755,26 +755,6 @@
     {
       "added_at": "2024-08-02 00:28:01",
       "album": {
-        "name": "Lomthwalo",
-        "url": "https://open.spotify.com/album/6NfgZHqgFLRvpldvd4yb1a"
-      },
-      "artists": [
-        {
-          "name": "Mandaba",
-          "url": "https://open.spotify.com/artist/0RhjNxooKATCnf1MVdvQZ8"
-        },
-        {
-          "name": "Griffith Malo",
-          "url": "https://open.spotify.com/artist/7vGuZA9Daaxax0dCGsqchQ"
-        }
-      ],
-      "duration_ms": 366206,
-      "name": "Lo'Mthwalo - Original Mix",
-      "url": "https://open.spotify.com/track/5IauhNkADIYqdMsaiMBrz9"
-    },
-    {
-      "added_at": "2024-08-02 00:28:01",
-      "album": {
         "name": "Timeless Tales Ep",
         "url": "https://open.spotify.com/album/2nBfqCka6PKLZMZ5xE63Ug"
       },
@@ -811,6 +791,26 @@
       "duration_ms": 332773,
       "name": "Little Me - Kaidi Tatham Remix",
       "url": "https://open.spotify.com/track/78AwNzWZP0Jwpuqb5M82yx"
+    },
+    {
+      "added_at": "2024-08-02 00:28:01",
+      "album": {
+        "name": "Lomthwalo",
+        "url": "https://open.spotify.com/album/6NfgZHqgFLRvpldvd4yb1a"
+      },
+      "artists": [
+        {
+          "name": "Mandaba",
+          "url": "https://open.spotify.com/artist/0RhjNxooKATCnf1MVdvQZ8"
+        },
+        {
+          "name": "Griffith Malo",
+          "url": "https://open.spotify.com/artist/7vGuZA9Daaxax0dCGsqchQ"
+        }
+      ],
+      "duration_ms": 366206,
+      "name": "Lo'Mthwalo - Original Mix",
+      "url": "https://open.spotify.com/track/5IauhNkADIYqdMsaiMBrz9"
     },
     {
       "added_at": "2024-08-02 00:28:01",

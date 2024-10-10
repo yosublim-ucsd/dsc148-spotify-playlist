@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover :  Murphy\n",
-  "num_followers": 59674,
+  "num_followers": 59708,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwN/RgAAAABPneRKR2n3AZg/KrLTv5Dt",
+  "snapshot_id": "ZwaI0AAAAADSkdoa2yuhgs6dOge1jl0t",
   "tracks": [
     {
       "added_at": "2024-10-07 05:55:16",
@@ -81,6 +81,30 @@
       "url": "https://open.spotify.com/track/2Uh5GD7dKuH4X3bHHOizx9"
     },
     {
+      "added_at": "2024-10-09 13:44:29",
+      "album": {
+        "name": "Habibi (From \"Sanju Weds Geetha 2\")",
+        "url": "https://open.spotify.com/album/6dejDiTxqg7fdGRRqFKnPo"
+      },
+      "artists": [
+        {
+          "name": "Mangli",
+          "url": "https://open.spotify.com/artist/1pDF5UltcypyatITA3Pduo"
+        },
+        {
+          "name": "Jassie Gift",
+          "url": "https://open.spotify.com/artist/3cowxATurZfjWsJC4uEHsl"
+        },
+        {
+          "name": "Sridhar .V.Sambhram",
+          "url": "https://open.spotify.com/artist/4GDPI9FapQXUVKxdWwTfCE"
+        }
+      ],
+      "duration_ms": 284669,
+      "name": "Habibi (From \"Sanju Weds Geetha 2\")",
+      "url": "https://open.spotify.com/track/2mc9so3FRcvaC9qChpOAqQ"
+    },
+    {
       "added_at": "2024-09-02 12:05:23",
       "album": {
         "name": "Maximum Mass (From \"Max\") (Kannada)",
@@ -107,6 +131,26 @@
       "duration_ms": 144460,
       "name": "Maximum Mass (From \"Max\") (Kannada)",
       "url": "https://open.spotify.com/track/7Kott5DI3YR7CTAZhv4iyM"
+    },
+    {
+      "added_at": "2024-10-09 13:43:30",
+      "album": {
+        "name": "Thayige Thakka Maga",
+        "url": "https://open.spotify.com/album/5GVvRDNBWX4Cf4mnXC8T7l"
+      },
+      "artists": [
+        {
+          "name": "Sanjith Hegde",
+          "url": "https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v"
+        },
+        {
+          "name": "Sangeetha Ravindranath",
+          "url": "https://open.spotify.com/artist/7jgOOSGT9VG1PSH90uFx43"
+        }
+      ],
+      "duration_ms": 226976,
+      "name": "Hrudayake Hedarike",
+      "url": "https://open.spotify.com/track/0EHAiFwUat5Oi6LqgHs94o"
     },
     {
       "added_at": "2024-10-07 06:27:18",
@@ -1715,34 +1759,6 @@
       "duration_ms": 212959,
       "name": "Thorede Yeke (From \"H/34 Pallavi Talkies\")",
       "url": "https://open.spotify.com/track/7hUy5x6C40CsTe7sNkl7N2"
-    },
-    {
-      "added_at": "2024-07-16 11:53:04",
-      "album": {
-        "name": "Maar Muntha Chod Chinta (From \"Double ISMART \")(Kannada)",
-        "url": "https://open.spotify.com/album/2TjUH6NcVPQ6uSHWErg4Hx"
-      },
-      "artists": [
-        {
-          "name": "Mani Sharma",
-          "url": "https://open.spotify.com/artist/3AMxH9QIPZbK8ND8C9j4Ss"
-        },
-        {
-          "name": "Vishak Nagalapura",
-          "url": "https://open.spotify.com/artist/6bfkyWyRl7vgkQlV0gy57S"
-        },
-        {
-          "name": "Meghana Haliyal",
-          "url": "https://open.spotify.com/artist/2IVFHDXsOnIyrfA2BQ4f9i"
-        },
-        {
-          "name": "Varadaraj Chikkaballapura",
-          "url": "https://open.spotify.com/artist/26UIfqGxK7O4AV0cDkN5uo"
-        }
-      ],
-      "duration_ms": 231528,
-      "name": "Maar Muntha Chod Chinta (From \"Double ISMART \")(Kannada)",
-      "url": "https://open.spotify.com/track/6XU7aK0XLrQDU3Yctu6OIO"
     },
     {
       "added_at": "2024-07-15 05:47:14",

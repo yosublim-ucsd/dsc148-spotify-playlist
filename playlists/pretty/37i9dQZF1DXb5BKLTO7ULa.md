@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > De beste nieuwe releases van de week! Cover: Coldplay
 
-[Spotify](https://open.spotify.com/user/spotify) - 264,801 likes - 99 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 264,795 likes - 99 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,6 +106,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 96 | [OUDE DETAILS](https://open.spotify.com/track/4GdGRygo9vCACh7OsVRGCq) | [Tim Beumers](https://open.spotify.com/artist/3gWALRyQeQtkcTYxv2pi2x), [Nosa](https://open.spotify.com/artist/1yiTO5VCQNBGaLcAZYlGD5), [dOOp](https://open.spotify.com/artist/6b9M1MUOtBpiFmrCVOb7mJ), [SKAV](https://open.spotify.com/artist/41rydLwcUIxdc1HQ0Y4Fce), [RED](https://open.spotify.com/artist/5wMB1gqHqfzbd1BT2vZHdy) | [RAFTING GOODS VOLUME 3: B](https://open.spotify.com/album/1qiWLvHbZIYft7i0fnLRYj) | 2:49 |
 | 97 | [Do You Think You're Ready?](https://open.spotify.com/track/33xcQTefyNRpKrYunRtesR) | [Bongloard](https://open.spotify.com/artist/14irVozeTn0DEdXOdaWxow) | [DYTYR?](https://open.spotify.com/album/1lM1Fpnb18ceVWNizkcRfq) | 3:44 |
 | 98 | [Justice](https://open.spotify.com/track/2TvmcOgbKINeTXnGqwRZ87) | [Oh Hazar](https://open.spotify.com/artist/0h3oUO0mB2fFg7yz2Xy4T1) | [Justice](https://open.spotify.com/album/25ZhNnxRABCIDUHX2rEriX) | 2:41 |
-| 99 | [HOTSPOT! In The Jungle Groove \- Live](https://open.spotify.com/track/43WyomxXxcC0Pydr1XejFC) | [Eric Vloeimans](https://open.spotify.com/artist/0GJnVOotvnAmZvUYL8Kpmx) | [HOTSPOT! In The Jungle Groove \(Live\)](https://open.spotify.com/album/45uTfEwPbUHRCFBEMai09q) | 6:28 |
+| 99 | [HOTSPOT! In The Jungle Groove \- Live](https://open.spotify.com/track/43WyomxXxcC0Pydr1XejFC) | [Eric Vloeimans](https://open.spotify.com/artist/0GJnVOotvnAmZvUYL8Kpmx), [Eric Vloeimans' HOTSPOT!](https://open.spotify.com/artist/348Tghtui1Jkm85Taoqq5O), [Jerome Hol](https://open.spotify.com/artist/2D8iNdQqP8xxNTmQNTEcTx), [Phaedra Kwant](https://open.spotify.com/artist/4O2oKGloypmJeBN0ViBRHw), [Sjoerd van Eijck](https://open.spotify.com/artist/4zbizB05tivb7PvclYgTFq), [Pascal Vermeer](https://open.spotify.com/artist/6VQe0HGkhjEDuBNWcLQ9Dd) | [HOTSPOT! In The Jungle Groove \(Live\)](https://open.spotify.com/album/45uTfEwPbUHRCFBEMai09q) | 6:28 |
 
 Snapshot ID: `Zv+hcQAAAABw/yHzzR0r9vJCLgqHCuBd`

@@ -2,7 +2,7 @@
 
 ### [Callie Day Radio](https://open.spotify.com/playlist/37i9dQZF1E4D8xyoXUDhng)
 
-> With LaShun Pace, Kirk Franklin & The Family, Tasha Page\-Lockhart and more
+> With Kirk Franklin & The Family, Brent Jones, Byron Cage and more
 
 1,581 songs - 4 day 22 hr 5 min
 

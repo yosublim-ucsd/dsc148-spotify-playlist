@@ -1,6 +1,6 @@
 {
   "description": "Celebrating 10 years of <a href=\"https://open.spotify.com/artist/2ymJS3hSwX5yiNdYroipCW?si=Mz0GoCLoQ7-LwD95Qaea4A\">AKA's</a> phenomenal \"LEVELS\".",
-  "num_followers": 69175,
+  "num_followers": 69273,
   "original_name": "SA Gold",
   "owner": {
     "name": "Spotify",
@@ -139,26 +139,6 @@
     {
       "added_at": "2024-06-28 06:57:16",
       "album": {
-        "name": "DaKAR II",
-        "url": "https://open.spotify.com/album/0dVMCPy4qwJoVxHP3qVgHC"
-      },
-      "artists": [
-        {
-          "name": "Kwesta",
-          "url": "https://open.spotify.com/artist/3Px6IenueysHsgCQf9xFVr"
-        },
-        {
-          "name": "Cassper Nyovest",
-          "url": "https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP"
-        }
-      ],
-      "duration_ms": 271186,
-      "name": "Ngud' (feat. Cassper Nyovest)",
-      "url": "https://open.spotify.com/track/0i2EASYXRiIMjKmExaOk6v"
-    },
-    {
-      "added_at": "2024-06-28 06:57:16",
-      "album": {
         "name": "The 4th Tick - A Clockumentary",
         "url": "https://open.spotify.com/album/466CzP9nhIV9C1rXd46oud"
       },
@@ -175,6 +155,26 @@
       "duration_ms": 366000,
       "name": "Pluto (Remember You)",
       "url": "https://open.spotify.com/track/3rl0m4eV5brBp1ER1uHUhN"
+    },
+    {
+      "added_at": "2024-06-28 06:57:16",
+      "album": {
+        "name": "DaKAR II",
+        "url": "https://open.spotify.com/album/0dVMCPy4qwJoVxHP3qVgHC"
+      },
+      "artists": [
+        {
+          "name": "Kwesta",
+          "url": "https://open.spotify.com/artist/3Px6IenueysHsgCQf9xFVr"
+        },
+        {
+          "name": "Cassper Nyovest",
+          "url": "https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP"
+        }
+      ],
+      "duration_ms": 271186,
+      "name": "Ngud' (feat. Cassper Nyovest)",
+      "url": "https://open.spotify.com/track/0i2EASYXRiIMjKmExaOk6v"
     },
     {
       "added_at": "2024-06-28 06:57:16",

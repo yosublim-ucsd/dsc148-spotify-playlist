@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-22",
-  "description": "Headbangers of Bangladesh. Cover - Warfaze",
+  "description": "Headbangers of Bangladesh. Cover : Shironamhin",
   "name": "Bangla Rock",
   "tracks": [
     {
@@ -186,7 +186,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-29",
+      "date_removed": null,
       "duration_ms": 427000,
       "name": "Amar E Gaan",
       "url": "https://open.spotify.com/track/3CPzLWEbj3mGuQfcepl7Lo"
@@ -781,6 +781,24 @@
     },
     {
       "album": {
+        "name": "Bhanga Ayna",
+        "url": "https://open.spotify.com/album/2n0xTysi9yaSwHMVnGM02O"
+      },
+      "artists": [
+        {
+          "name": "Nemesis",
+          "url": "https://open.spotify.com/artist/694bRUlAdfIh4BpiMWI3FF"
+        }
+      ],
+      "date_added": "2024-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216842,
+      "name": "Bhanga Ayna",
+      "url": "https://open.spotify.com/track/20Y7aCX0iAcLVyFV5zOfbE"
+    },
+    {
+      "album": {
         "name": "Bhober Pagol",
         "url": "https://open.spotify.com/album/7k16lPrTnyK6Vj5I1lZghn"
       },
@@ -1122,6 +1140,24 @@
       "duration_ms": 240497,
       "name": "Bohemian",
       "url": "https://open.spotify.com/track/5NpMLCD0QyN7k2N2iRyTjM"
+    },
+    {
+      "album": {
+        "name": "Bohu Dur",
+        "url": "https://open.spotify.com/album/7l3BdhdQZjk95dZzkBFhUN"
+      },
+      "artists": [
+        {
+          "name": "EnB",
+          "url": "https://open.spotify.com/artist/0DSUmiiDThNsaFtBid86ii"
+        }
+      ],
+      "date_added": "2024-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223914,
+      "name": "Bohu Dur",
+      "url": "https://open.spotify.com/track/3HUibCooqOnRtrY8HSrE2z"
     },
     {
       "album": {
@@ -2262,7 +2298,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-13",
+      "date_removed": null,
       "duration_ms": 229720,
       "name": "Ghum (Official)",
       "url": "https://open.spotify.com/track/18xxOCfmxqBD5YgTFpzp5d"
@@ -2323,6 +2359,24 @@
     },
     {
       "album": {
+        "name": "Kaaktaal Raw, Vol. 1",
+        "url": "https://open.spotify.com/album/08tt1cKGY2LGaVN5HbyuQs"
+      },
+      "artists": [
+        {
+          "name": "Kaaktaal",
+          "url": "https://open.spotify.com/artist/7fhlWsdi6oTTxj8d3uYIAn"
+        }
+      ],
+      "date_added": "2024-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232620,
+      "name": "Golokdhadha - Version 01",
+      "url": "https://open.spotify.com/track/4wG7zBOjjpT7YXS3EEozn1"
+    },
+    {
+      "album": {
         "name": "Gonojowar",
         "url": "https://open.spotify.com/album/0lfm9CqhAWQHkSiedVSwRr"
       },
@@ -2374,6 +2428,24 @@
       "duration_ms": 399766,
       "name": "Haay Bhalobashi",
       "url": "https://open.spotify.com/track/3FyG3XJD5cUj4OfuyvYAgX"
+    },
+    {
+      "album": {
+        "name": "Half Glass Carew",
+        "url": "https://open.spotify.com/album/0IqVjv4lDAwDYnNUzBkoIx"
+      },
+      "artists": [
+        {
+          "name": "Firoze Jong",
+          "url": "https://open.spotify.com/artist/3CmrTjyQr0mLwtJO0uIrUq"
+        }
+      ],
+      "date_added": "2024-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322666,
+      "name": "Half Glass Carew",
+      "url": "https://open.spotify.com/track/44MnDlUL9YOXdBgjwV6M2E"
     },
     {
       "album": {
@@ -2796,6 +2868,24 @@
       "duration_ms": 338746,
       "name": "Ke Tomake Bashbe Bhalo",
       "url": "https://open.spotify.com/track/5TeH3PIrqaA761IsVdxb9e"
+    },
+    {
+      "album": {
+        "name": "Gorbo Bangladesh",
+        "url": "https://open.spotify.com/album/0nAuXmUo9SZSLSgfeQdOfO"
+      },
+      "artists": [
+        {
+          "name": "Shunno",
+          "url": "https://open.spotify.com/artist/2S7h1jilqmzK8iyU47nmSk"
+        }
+      ],
+      "date_added": "2024-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 353968,
+      "name": "Khachar Bhetor Ochin Pakhi",
+      "url": "https://open.spotify.com/track/7MRoAC5UHDbx0FoXQWNihB"
     },
     {
       "album": {
@@ -3316,6 +3406,24 @@
     {
       "album": {
         "name": "Moho",
+        "url": "https://open.spotify.com/album/4LcS0FVjTgbOUl8E8EzQXg"
+      },
+      "artists": [
+        {
+          "name": "Aftermath",
+          "url": "https://open.spotify.com/artist/79iOqoOkavfzftyQjx21qp"
+        }
+      ],
+      "date_added": "2024-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265142,
+      "name": "Moho",
+      "url": "https://open.spotify.com/track/0OtKBLidTecETe735woxQ9"
+    },
+    {
+      "album": {
+        "name": "Moho",
         "url": "https://open.spotify.com/album/39HxuHhewQJHpv2EOSYA8K"
       },
       "artists": [
@@ -3621,6 +3729,24 @@
     },
     {
       "album": {
+        "name": "Nishobdopur",
+        "url": "https://open.spotify.com/album/3qIrHPJt41vCu6pxsf1W1R"
+      },
+      "artists": [
+        {
+          "name": "Shironamhin",
+          "url": "https://open.spotify.com/artist/3zoceu8YD9dVjL4jaleJLg"
+        }
+      ],
+      "date_added": "2024-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269456,
+      "name": "Nishobdopur",
+      "url": "https://open.spotify.com/track/6bQ3aa2gURD7443Sy6H5dr"
+    },
+    {
+      "album": {
         "name": "Best of Fuad, Vol. 2",
         "url": "https://open.spotify.com/album/4MEDHrD390pgfZB6rOxOF5"
       },
@@ -3658,6 +3784,24 @@
       "duration_ms": 365052,
       "name": "NITTOJIBON",
       "url": "https://open.spotify.com/track/3GEdr4Fl6rmniWZwqqsKBH"
+    },
+    {
+      "album": {
+        "name": "Agoon O Moushumi",
+        "url": "https://open.spotify.com/album/5KPR9AgO2hMyEfGYWPbrao"
+      },
+      "artists": [
+        {
+          "name": "The Attempted Band",
+          "url": "https://open.spotify.com/artist/1yCW8tZOgAjAHBJYt5COWt"
+        }
+      ],
+      "date_added": "2024-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221125,
+      "name": "O Moushumi",
+      "url": "https://open.spotify.com/track/128jmx5espAG9o9qWkJ1Sm"
     },
     {
       "album": {
@@ -4015,6 +4159,24 @@
     },
     {
       "album": {
+        "name": "Oniket Prantor",
+        "url": "https://open.spotify.com/album/2NjeVLtloAJcvAaqDng7XB"
+      },
+      "artists": [
+        {
+          "name": "Artcell",
+          "url": "https://open.spotify.com/artist/5ThqNILsplOvwjj9kx0Hnt"
+        }
+      ],
+      "date_added": "2024-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 980977,
+      "name": "Oniket Prantor",
+      "url": "https://open.spotify.com/track/6rnPeq22xqWSyiakqOW00k"
+    },
+    {
+      "album": {
         "name": "Onno Aloy",
         "url": "https://open.spotify.com/album/5zQLoy4bovHjBM1IHujUub"
       },
@@ -4325,6 +4487,24 @@
     },
     {
       "album": {
+        "name": "Pagol Ami",
+        "url": "https://open.spotify.com/album/0UzYNlL4y1DFjE2f1SFSqB"
+      },
+      "artists": [
+        {
+          "name": "Moruvumi",
+          "url": "https://open.spotify.com/artist/39MIIT7MAh222dg8OAEF4W"
+        }
+      ],
+      "date_added": "2024-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330561,
+      "name": "Pagol Ami",
+      "url": "https://open.spotify.com/track/15aNBBf4V4Mio3YTmcW2Bq"
+    },
+    {
+      "album": {
         "name": "Icche Ghuri",
         "url": "https://open.spotify.com/album/6xsj12l9oKEbWsdgeqxjAD"
       },
@@ -4340,6 +4520,24 @@
       "duration_ms": 256347,
       "name": "Pakhi",
       "url": "https://open.spotify.com/track/2iwhemWEp6YMN1BD84nUPl"
+    },
+    {
+      "album": {
+        "name": "Jagoron",
+        "url": "https://open.spotify.com/album/6XlOrTwZ6qyr3MGNXTcsTr"
+      },
+      "artists": [
+        {
+          "name": "HMG",
+          "url": "https://open.spotify.com/artist/6gk6JXRZIad2K3mQWD1PGN"
+        }
+      ],
+      "date_added": "2024-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281513,
+      "name": "Pakhir Nirbashon",
+      "url": "https://open.spotify.com/track/0mNuyEUsRnRtWhr5VDE6In"
     },
     {
       "album": {
@@ -4676,6 +4874,24 @@
     {
       "album": {
         "name": "Shotto",
+        "url": "https://open.spotify.com/album/6arzq3H2uuaYsfBBe2BYC3"
+      },
+      "artists": [
+        {
+          "name": "Warfaze",
+          "url": "https://open.spotify.com/artist/06eRdiCBgFUhiuFjei0eH2"
+        }
+      ],
+      "date_added": "2024-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 359629,
+      "name": "Purnota",
+      "url": "https://open.spotify.com/track/4bxMJf8FEJNn1I4I2oT1ax"
+    },
+    {
+      "album": {
+        "name": "Shotto",
         "url": "https://open.spotify.com/album/11Iz1nDEWgwtkM74rLDVOJ"
       },
       "artists": [
@@ -4896,6 +5112,24 @@
       "duration_ms": 397570,
       "name": "Rupkotha",
       "url": "https://open.spotify.com/track/1RESTN39VEH6lAq8H1D2Ud"
+    },
+    {
+      "album": {
+        "name": "Shotto",
+        "url": "https://open.spotify.com/album/6arzq3H2uuaYsfBBe2BYC3"
+      },
+      "artists": [
+        {
+          "name": "Warfaze",
+          "url": "https://open.spotify.com/artist/06eRdiCBgFUhiuFjei0eH2"
+        }
+      ],
+      "date_added": "2024-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 397570,
+      "name": "Rupkotha",
+      "url": "https://open.spotify.com/track/2PBFiC8VnGTbSol2VLnLca"
     },
     {
       "album": {
@@ -5232,6 +5466,24 @@
       "duration_ms": 229506,
       "name": "Shono Ekti Mujiborer Theke",
       "url": "https://open.spotify.com/track/2DfvtcoonFJXS213Z2rFMn"
+    },
+    {
+      "album": {
+        "name": "Bhaago",
+        "url": "https://open.spotify.com/album/51yEqTdQVp5AU7PLGQzndV"
+      },
+      "artists": [
+        {
+          "name": "Shunno",
+          "url": "https://open.spotify.com/artist/2S7h1jilqmzK8iyU47nmSk"
+        }
+      ],
+      "date_added": "2024-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207005,
+      "name": "Shono Mohajon",
+      "url": "https://open.spotify.com/track/6qUWIRBSmMRxvYrZr4duvH"
     },
     {
       "album": {
@@ -5910,6 +6162,24 @@
       "duration_ms": 352139,
       "name": "Utshorgo",
       "url": "https://open.spotify.com/track/0a2cxKc5iJJZ8qFEPYg2yr"
+    },
+    {
+      "album": {
+        "name": "Jed",
+        "url": "https://open.spotify.com/album/7BIpxVzZrxj0r7dczRoJyK"
+      },
+      "artists": [
+        {
+          "name": "Aftermath",
+          "url": "https://open.spotify.com/artist/79iOqoOkavfzftyQjx21qp"
+        }
+      ],
+      "date_added": "2024-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352139,
+      "name": "Utshorgo",
+      "url": "https://open.spotify.com/track/1R6wyKCXta1578Q2d49n9w"
     },
     {
       "album": {

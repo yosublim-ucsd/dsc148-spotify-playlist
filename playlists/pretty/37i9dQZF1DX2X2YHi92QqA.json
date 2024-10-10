@@ -1,6 +1,6 @@
 {
   "description": "\u0417\u0430\u0442\u0438\u0448\u043d\u0430 \u043c\u0443\u0437\u0438\u043a\u0430 \u0434\u043b\u044f \u043f\u0440\u043e\u0433\u0443\u043b\u044f\u043d\u043e\u043a \u043f\u043e\u0436\u043e\u0432\u043a\u043b\u0438\u043c \u043b\u0438\u0441\u0442\u044f\u0447\u043a\u043e\u043c \ud83c\udf41",
-  "num_followers": 32017,
+  "num_followers": 32059,
   "original_name": "\u041e\u0441\u0456\u043d\u043d\u0456\u0439 \u0440\u0435\u043b\u0430\u043a\u0441",
   "owner": {
     "name": "Spotify",
@@ -339,22 +339,6 @@
     {
       "added_at": "2024-10-07 09:11:15",
       "album": {
-        "name": "One More Try",
-        "url": "https://open.spotify.com/album/3RekhTEhQfdXOKlOAgjJiO"
-      },
-      "artists": [
-        {
-          "name": "Calum Scott",
-          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
-        }
-      ],
-      "duration_ms": 356000,
-      "name": "One More Try",
-      "url": "https://open.spotify.com/track/6xfXvPKTvGEo5xAXcuiIr5"
-    },
-    {
-      "added_at": "2024-10-07 09:11:15",
-      "album": {
         "name": "\u041e\u0441\u043e\u0431\u0438\u0441\u0442\u0438\u0439 \u0440\u0430\u0439",
         "url": "https://open.spotify.com/album/1O8gbNfK8cIQ0DT0RK9KzY"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 185409,
       "name": "\u041e\u0441\u043e\u0431\u0438\u0441\u0442\u0438\u0439 \u0440\u0430\u0439",
       "url": "https://open.spotify.com/track/75LJxqoSy5MSM2xCFzQp8F"
+    },
+    {
+      "added_at": "2024-10-07 09:11:15",
+      "album": {
+        "name": "One More Try",
+        "url": "https://open.spotify.com/album/3RekhTEhQfdXOKlOAgjJiO"
+      },
+      "artists": [
+        {
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+        }
+      ],
+      "duration_ms": 356000,
+      "name": "One More Try",
+      "url": "https://open.spotify.com/track/6xfXvPKTvGEo5xAXcuiIr5"
     },
     {
       "added_at": "2024-10-07 09:11:15",
@@ -691,6 +691,22 @@
     {
       "added_at": "2024-10-07 09:11:15",
       "album": {
+        "name": "Backslide",
+        "url": "https://open.spotify.com/album/1E4ofhf5sCPg0Lm6gsvZTX"
+      },
+      "artists": [
+        {
+          "name": "Zea",
+          "url": "https://open.spotify.com/artist/2xCPOEeUPG2990Dt2XbHnz"
+        }
+      ],
+      "duration_ms": 191090,
+      "name": "Backslide",
+      "url": "https://open.spotify.com/track/5SVUKYj1FEycD7nir3l53g"
+    },
+    {
+      "added_at": "2024-10-07 09:11:15",
+      "album": {
         "name": "\u043c\u0435\u0442\u0430\u043c\u043e\u0440\u0444\u043e\u0441\u0456\u043d\u044c",
         "url": "https://open.spotify.com/album/7IC8OrpjOi7I45yyPO16yd"
       },
@@ -711,22 +727,6 @@
     {
       "added_at": "2024-10-07 09:11:15",
       "album": {
-        "name": "Backslide",
-        "url": "https://open.spotify.com/album/1E4ofhf5sCPg0Lm6gsvZTX"
-      },
-      "artists": [
-        {
-          "name": "Zea",
-          "url": "https://open.spotify.com/artist/2xCPOEeUPG2990Dt2XbHnz"
-        }
-      ],
-      "duration_ms": 191090,
-      "name": "Backslide",
-      "url": "https://open.spotify.com/track/5SVUKYj1FEycD7nir3l53g"
-    },
-    {
-      "added_at": "2024-10-07 09:11:15",
-      "album": {
         "name": "\u041f\u0456\u0434 \u043a\u0440\u0438\u043b\u043e\u043c",
         "url": "https://open.spotify.com/album/22lwlTnbhpdcdJ6aRlv3jf"
       },
@@ -743,22 +743,6 @@
     {
       "added_at": "2024-10-07 09:11:15",
       "album": {
-        "name": "\u041d\u0435 \u0437\u043d\u0430\u0454\u0448",
-        "url": "https://open.spotify.com/album/6wqVClS3xP3ibboUR1Q9ag"
-      },
-      "artists": [
-        {
-          "name": "YARIMA",
-          "url": "https://open.spotify.com/artist/1nZ0jfkEdCujq7nFxlk9Uc"
-        }
-      ],
-      "duration_ms": 152835,
-      "name": "\u041d\u0435 \u0437\u043d\u0430\u0454\u0448",
-      "url": "https://open.spotify.com/track/3reJdN9u8tZK59kG8WYwYt"
-    },
-    {
-      "added_at": "2024-10-07 09:11:15",
-      "album": {
         "name": "\u0422\u0438 \u0441\u043e\u043d\u0446\u0435 \u044f \u0441\u043d\u0456\u0433",
         "url": "https://open.spotify.com/album/4Fe2mgI9EEtrGj24IZcmpM"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 233777,
       "name": "\u0422\u0438 \u0441\u043e\u043d\u0446\u0435 \u044f \u0441\u043d\u0456\u0433",
       "url": "https://open.spotify.com/track/22kDdPFzyCHbqQC05fb1dz"
+    },
+    {
+      "added_at": "2024-10-07 09:11:15",
+      "album": {
+        "name": "\u041d\u0435 \u0437\u043d\u0430\u0454\u0448",
+        "url": "https://open.spotify.com/album/6wqVClS3xP3ibboUR1Q9ag"
+      },
+      "artists": [
+        {
+          "name": "YARIMA",
+          "url": "https://open.spotify.com/artist/1nZ0jfkEdCujq7nFxlk9Uc"
+        }
+      ],
+      "duration_ms": 152835,
+      "name": "\u041d\u0435 \u0437\u043d\u0430\u0454\u0448",
+      "url": "https://open.spotify.com/track/3reJdN9u8tZK59kG8WYwYt"
     },
     {
       "added_at": "2024-10-07 09:11:15",
@@ -847,26 +847,6 @@
     {
       "added_at": "2024-10-07 09:11:15",
       "album": {
-        "name": "\u042f \u0442\u0435\u0431\u0435 \u043d\u0435 \u0447\u0443\u044e",
-        "url": "https://open.spotify.com/album/02biUbwR7SZa0kO9FI68Op"
-      },
-      "artists": [
-        {
-          "name": "To Eternity",
-          "url": "https://open.spotify.com/artist/239RzDmVa4D8Or8e9ZZX5Q"
-        },
-        {
-          "name": "Tember Blanche",
-          "url": "https://open.spotify.com/artist/4IGHF22vbC33ColRBUHIXd"
-        }
-      ],
-      "duration_ms": 155624,
-      "name": "\u042f \u0442\u0435\u0431\u0435 \u043d\u0435 \u0447\u0443\u044e",
-      "url": "https://open.spotify.com/track/6OUfXrZk7Ti5mTh73Mw3Lj"
-    },
-    {
-      "added_at": "2024-10-07 09:11:15",
-      "album": {
         "name": "\u041a\u0430\u0440\u043d\u0456\u0437\u0438",
         "url": "https://open.spotify.com/album/39oe0p8Azz1pwo1UoP6qTR"
       },
@@ -883,6 +863,26 @@
       "duration_ms": 155076,
       "name": "\u041a\u0430\u0440\u043d\u0456\u0437\u0438",
       "url": "https://open.spotify.com/track/00h9eif2nfiEA1ykBFLvBZ"
+    },
+    {
+      "added_at": "2024-10-07 09:11:15",
+      "album": {
+        "name": "\u042f \u0442\u0435\u0431\u0435 \u043d\u0435 \u0447\u0443\u044e",
+        "url": "https://open.spotify.com/album/02biUbwR7SZa0kO9FI68Op"
+      },
+      "artists": [
+        {
+          "name": "To Eternity",
+          "url": "https://open.spotify.com/artist/239RzDmVa4D8Or8e9ZZX5Q"
+        },
+        {
+          "name": "Tember Blanche",
+          "url": "https://open.spotify.com/artist/4IGHF22vbC33ColRBUHIXd"
+        }
+      ],
+      "duration_ms": 155624,
+      "name": "\u042f \u0442\u0435\u0431\u0435 \u043d\u0435 \u0447\u0443\u044e",
+      "url": "https://open.spotify.com/track/6OUfXrZk7Ti5mTh73Mw3Lj"
     },
     {
       "added_at": "2024-10-07 09:11:15",
