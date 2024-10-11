@@ -1,4 +1,4 @@
-## Playlists \(8223\)
+## Playlists \(8224\)
 
 - [!!!](/playlists/pretty/37i9dQZF1DWW1yuCSjnKtM.md)
 - ["Suzume" & Songs from Makoto Shinkai's Movies \(\~2022\)](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
@@ -4076,6 +4076,7 @@
 - [Novedades Música Mexicana](/playlists/pretty/37i9dQZF1DWXvaphaClKD3.md)
 - [Novedades Rock](/playlists/pretty/37i9dQZF1DX1MT1Ubz4wvO.md)
 - [Novedades Tropicales](/playlists/pretty/37i9dQZF1DXatk5BgNhCd7.md)
+- [Novedades Viernes España](/playlists/pretty/37i9dQZF1DX6PYajiT4pAf.md)
 - [Novedades Viernes Latinoamérica](/playlists/pretty/37i9dQZF1DX8O2z77nfMgH.md)
 - [Novedades Viernes MX](/playlists/pretty/37i9dQZF1DWWZJHBoz7SEG.md)
 - [Novidades Religiosas](/playlists/pretty/37i9dQZF1DX7ROOw5S4Xdq.md)
